@@ -1,36 +1,34 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日诊所
+- Cofit
 date: '2025-05-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 邓雯心
+- 魏士航
+- 宋晏仁
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=CbLyWSrpGOc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - organ-health
-  - dietary-impact
-  - alcohol-consumption
-  - chronic-diseases
-  - lifestyle-choices
-title: 揭秘伤肝坏习惯：医生解析胆、肝、小肠健康杀手与生活方式陷阱
-summary: 初日诊所的邓雯心医师和魏士航医师通过一场趣味桌游，深入探讨了胆囊、肝脏和小肠最害怕的健康杀手。从女性的F4风险因子、雌激素对胆结石的影响，到高糖、高脂饮食及酒精对肝脏和肠道的危害，两位医师揭示了许多日常生活中被忽视的坏习惯如何引发慢性炎症，并分享了个人健康理念与职业梦想。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 邓雯心
-  - 魏士航
-  - 宋晏仁
-companies_orgs:
-  - 初日诊所
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 初日诊所的邓雯心医师和魏士航医师通过一场趣味桌游，深入探讨了胆囊、肝脏和小肠最害怕的健康杀手。从女性的F4风险因子、雌激素对胆结石的影响，到高糖、高脂饮食及酒精对肝脏和肠道的危害，两位医师揭示了许多日常生活中被忽视的坏习惯如何引发慢性炎症，并分享了个人健康理念与职业梦想。
+tags:
+- consumption
+- health
+- impact
+- life
+title: 揭秘伤肝坏习惯：医生解析胆、肝、小肠健康杀手与生活方式陷阱
 ---
+
 ### 开场与游戏互动
 
 邓医师和魏医师首次同台，通过一场桌游来探讨健康话题。

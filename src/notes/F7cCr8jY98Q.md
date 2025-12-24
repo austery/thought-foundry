@@ -1,40 +1,39 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 北约
+- 大众
+- 巴斯夫
 date: '2025-04-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 康德拉奇耶夫
+- 范读因
+- 周金涛
+- Ray Dalio
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=F7cCr8jY98Q
 speaker: 海淀拙大叔
-tags:
-  - economic-cycles
-  - geopolitical-shifts
-  - hegemony-decline
-  - war-triggers
-  - global-order-restructuring
-title: 俄乌战争：双重经济周期叠加下的必然性与全球秩序重构
-summary: 本文从经济周期的视角深入剖析俄乌战争的深层原因与未来影响。作者指出，俄乌战争是康波周期萧条与美国霸权周期衰落双重共振的必然结果。文章详细阐述了康波周期中技术红利消失、贫富分化导致战争的逻辑，并结合历史案例论证霸权衰落如何引发国际秩序真空和冲突。最后，文章探讨了俄乌战争对欧洲经济格局的重塑，并预测在全球双重周期未改变前，未来可能面临更多地缘冲突，同时指出中国或将迎来康波周期的复苏。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - us-analysis
-people:
-  - 康德拉奇耶夫
-  - 范读因
-  - 周金涛
-  - Ray Dalio
-companies_orgs:
-  - 北约
-  - 大众
-  - 巴斯夫
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文从经济周期的视角深入剖析俄乌战争的深层原因与未来影响。作者指出，俄乌战争是康波周期萧条与美国霸权周期衰落双重共振的必然结果。文章详细阐述了康波周期中技术红利消失、贫富分化导致战争的逻辑，并结合历史案例论证霸权衰落如何引发国际秩序真空和冲突。最后，文章探讨了俄乌战争对欧洲经济格局的重塑，并预测在全球双重周期未改变前，未来可能面临更多地缘冲突，同时指出中国或将迎来康波周期的复苏。
+tags:
+- decline
+- economic-cycle
+- geopolitical-shift
+- global
+- war
+title: 俄乌战争：双重经济周期叠加下的必然性与全球秩序重构
 ---
+
 ### 俄乌战争：双重经济周期叠加的必然
 
 海淀拙大叔在2025年3月20日的研究中指出，对俄乌战争起因的探究，主要是为了推测战争结束后世界将如何演变。过去三年里，普遍观点认为战争是**北约**（NATO: 北大西洋公约组织，冷战时期建立的军事联盟）东扩挤压俄罗斯战略空间，导致俄罗斯绝地反击的结果。然而，本文将从经济周期的视角提供另一种解释。

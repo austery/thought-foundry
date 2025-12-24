@@ -1,68 +1,68 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Deloitte
+- Meta
+- Instagram
+- Twitter
 date: '2023-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《如何无所事事》
+- 《人间世》
+- 《论公民不服从》
+- 《一根稻草的革命》
+people:
+- Jenny Odell
+- Franco Berardi
+- Mierle Laderman Ukeles
+- Bill Gates
+- Justin Rosenstein
+- Jonathan Crary
+- Deleuze
+- Epicurus
+- Epictetus
+- Pilvi Takala
+- Diogenes
+- Alexander the Great
+- Plato
+- Socrates
+- 谢德庆
+- Thoreau
+- Gandhi
+- Martin Luther King Jr.
+- Daniel Simons
+- William James
+- Scott Polach
+- John Cage
+- Danah Boyd
+- Hannah Arendt
+- 福冈正信
+- Ruth Orta
+- 庄子
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=YKVhaDrkhb4
 speaker: 超級歪 SuperY
-tags:
-  - capitalism-resistance
-  - attention-economy
-  - lying-flat-philosophy
-  - civil-disobedience
-  - bioregionalism
-title: 躺平思潮千年回响：从庄子到梭罗，无所事事如何反抗资本主义？
-summary: 本期节目深入探讨“躺平”哲学，从古希腊的伊比鸠鲁、中国的庄子，到现代的梭罗、迪奥根尼，揭示无所事事并非消极避世，而是对资本主义生产力至上、注意力经济和过度消费的积极抵抗。文章将分析如何通过拒绝成为“生产性主体”、抵制信息洪流、回归地方生态与社区连接，重塑个人与社会的关系，从而实现真正的自由与进步。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - Jenny Odell
-  - Franco Berardi
-  - Mierle Laderman Ukeles
-  - Bill Gates
-  - Justin Rosenstein
-  - Jonathan Crary
-  - Deleuze
-  - Epicurus
-  - Epictetus
-  - Pilvi Takala
-  - Diogenes
-  - Alexander the Great
-  - Plato
-  - Socrates
-  - 谢德庆
-  - Thoreau
-  - Gandhi
-  - Martin Luther King Jr.
-  - Daniel Simons
-  - William James
-  - Scott Polach
-  - John Cage
-  - Danah Boyd
-  - Hannah Arendt
-  - 福冈正信
-  - Ruth Orta
-  - 庄子
-companies_orgs:
-  - Deloitte
-  - Facebook
-  - Instagram
-  - Twitter
-products_models: []
-media_books:
-  - 《如何无所事事》
-  - 《人间世》
-  - 《论公民不服从》
-  - 《一根稻草的革命》
 status: evergreen
+summary: 本期节目深入探讨“躺平”哲学，从古希腊的伊比鸠鲁、中国的庄子，到现代的梭罗、迪奥根尼，揭示无所事事并非消极避世，而是对资本主义生产力至上、注意力经济和过度消费的积极抵抗。文章将分析如何通过拒绝成为“生产性主体”、抵制信息洪流、回归地方生态与社区连接，重塑个人与社会的关系，从而实现真正的自由与进步。
+tags:
+- attention-economy
+- civil-disobedience
+- health
+- investment
+- philosophy
+title: 躺平思潮千年回响：从庄子到梭罗，无所事事如何反抗资本主义？
 ---
+
 ### 引言：躺平哲学的现代回响
 
 上次我们探讨了年轻人选择**躺平**（Lying Flat: 一种面对社会压力选择低欲望、低消费、不奋斗的生活态度）的原因，引发了观众的热烈反响。今天，我们将深入探讨斯坦福大学艺术家珍妮·奥德尔（Jenny Odell）的著作《如何无所事事》，来学习如何实践“躺平”哲学。本书的前半部分将阐述“躺平”的哲学思想，以及如何逃离资本主义的**注意力经济**（Attention Economy: 资本主义通过争夺用户注意力来获取商业利益的模式）；后半部分则教导我们如何将注意力从经济活动转向生态共存和社区连接，从而实现对资本主义的抵抗。

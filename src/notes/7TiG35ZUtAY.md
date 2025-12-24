@@ -1,40 +1,39 @@
 ---
-author: 美投讲美股
+area: market-analysis
+category: finance
+companies_orgs:
+- CNBC
+- 美国国会办公室
+- 美联储
 date: '2025-04-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Kevin Hassett
+- Jerome Powell
+- Steven Mnuchin
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=7TiG35ZUtAY
 speaker: 美投讲美股
-tags:
-  - us-debt
-  - trump-policy
-  - tariff-impact
-  - market-stability
-  - fiscal-policy
-title: 美债：特朗普政策的隐形制约与美股未来走势
-summary: 本文深入分析了美国国债如何成为特朗普各项政策（包括关税和美联储独立性）的“软肋”。通过剖析特朗普因美债利率飙升而调整政策的案例，探讨了关税对美债的积极与消极影响，并预测了未来关税政策的走向。文章指出，美债的稳定是美国政治的底线，这为美股市场带来了更高的确定性，并提供了投资策略的参考。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Kevin Hassett
-  - Jerome Powell
-  - Steven Mnuchin
-companies_orgs:
-  - CNBC
-  - 美国国会办公室
-  - 美联储
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了美国国债如何成为特朗普各项政策（包括关税和美联储独立性）的“软肋”。通过剖析特朗普因美债利率飙升而调整政策的案例，探讨了关税对美债的积极与消极影响，并预测了未来关税政策的走向。文章指出，美债的稳定是美国政治的底线，这为美股市场带来了更高的确定性，并提供了投资策略的参考。
+tags:
+- debt
+- fiscal-policy
+- market
+- tariff-impact
+- trump-policy
+title: 美债：特朗普政策的隐形制约与美股未来走势
 ---
+
 ### 特朗普政策的“软肋”：美债的隐形制约
 
 曾几何时，我们以为美国前总统唐纳德·特朗普（Donald Trump）最害怕的是股市下跌，但他却能通过一份Excel表格将美股推入**熊市**（Bear Market: 指证券市场中价格长期下跌的趋势）。我们也曾以为他害怕经济衰退，但他面对质疑时却平静地表示，要做大事总得有些牺牲。过去几个月，看着他“怼天怼地”、“翻云覆雨”，人们开始怀疑特朗普是否真的无所畏惧。

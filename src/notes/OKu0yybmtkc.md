@@ -1,51 +1,48 @@
 ---
-author: TED
+area: society-systems
+category: technology
+companies_orgs:
+- Chelsea Football Club
+- Premier League
+- ai.io
+- Burnley Football Club
+- Reliance Foundation
+- IOC
+- Intel
+- MLS
+- MLS NEXT
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- LeBron James
+- Caitlin Clark
+- Saquon Barkley
+- Simone Biles
+- Cristiano Ronaldo
+- Lionel Messi
+- Darren Peries
+- Reef Peries
+- Ben
+products_models:
+- aiScout
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=OKu0yybmtkc
 speaker: TED
-tags:
-  - ai-scouting
-  - talent-identification
-  - computer-vision
-  - sports-technology
-  - fair-opportunity
-title: AI如何发现被传统球探遗漏的体育人才
-summary: 传统体育人才选拔系统存在地域、成本和机会不均等问题，导致许多有潜力的运动员被忽视。本文介绍了ai.io公司如何利用计算机视觉、AI和深度学习技术，通过智能手机应用程序aiScout，为全球各地的年轻运动员提供公平、数据驱动的测试和评估机会。该技术不仅能发现被传统球探遗漏的顶尖人才，还能根据运动员的优势推荐合适的运动项目，从而实现体育人才选拔的民主化和全球化，最终目标是让天赋无处不在，并通过科技实现更公平的竞争环境。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - LeBron James
-  - Caitlin Clark
-  - Saquon Barkley
-  - Simone Biles
-  - Cristiano Ronaldo
-  - Lionel Messi
-  - Darren Peries
-  - Reef Peries
-  - Ben
-companies_orgs:
-  - Chelsea Football Club
-  - Premier League
-  - ai.io
-  - Burnley Football Club
-  - Reliance Foundation
-  - IOC
-  - Intel
-  - MLS
-  - MLS NEXT
-products_models:
-  - aiScout
-media_books: []
 status: evergreen
+summary: 传统体育人才选拔系统存在地域、成本和机会不均等问题，导致许多有潜力的运动员被忽视。本文介绍了ai.io公司如何利用计算机视觉、AI和深度学习技术，通过智能手机应用程序aiScout，为全球各地的年轻运动员提供公平、数据驱动的测试和评估机会。该技术不仅能发现被传统球探遗漏的顶尖人才，还能根据运动员的优势推荐合适的运动项目，从而实现体育人才选拔的民主化和全球化，最终目标是让天赋无处不在，并通过科技实现更公平的竞争环境。
+tags:
+- llm
+- talent
+- technology
+title: AI如何发现被传统球探遗漏的体育人才
 ---
+
 ### 传统体育选拔的局限性
 
 现在，请大家想象一下体育界的伟大人物。你们会看到什么？很可能是像**勒布朗·詹姆斯**（LeBron James: 美国职业篮球运动员）、**凯特琳·克拉克**（Caitlin Clark: 美国大学篮球运动员）、**萨奎恩·巴克利**（Saquon Barkley: 美国职业美式橄榄球运动员）、**西蒙·拜尔斯**（Simone Biles: 美国体操运动员）、**C·罗纳尔多**（Cristiano Ronaldo: 葡萄牙职业足球运动员）和**梅西**（Lionel Messi: 阿根廷职业足球运动员）这样的运动员。

@@ -1,44 +1,44 @@
 ---
-author: TED
+area: society-systems
+category: culture
+companies_orgs:
+- TED
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Hamilton
+- West Side Story
+- Wicked
+- The Wizard of Oz
+people:
+- Paul Tazewell
+- Lin-Manuel Miranda
+- King George III
+- Thomas Jefferson
+- Tommy Kail
+- Steven Spielberg
+- Monique Ruff-Bell
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=BZflSdA4Q44
 speaker: TED
-tags:
-  - costume-design
-  - visual-storytelling
-  - perception-bias
-  - stereotype-dismantling
-  - cultural-narrative
-title: 服装设计：超越表象的叙事艺术
-summary: 著名服装设计师Paul Tazewell分享了他如何利用服装作为一种无声的语言来塑造观众的感知，讲述超越表象的故事。他以《汉密尔顿》、《西区故事》和《魔法坏女巫》为例，阐释了服装如何挑战刻板印象、揭示历史真相，并探讨了“邪恶”的定义以及我们如何通过设计重新审视和重塑它。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - Paul Tazewell
-  - Lin-Manuel Miranda
-  - King George III
-  - Thomas Jefferson
-  - Tommy Kail
-  - Steven Spielberg
-  - Monique Ruff-Bell
-companies_orgs:
-  - TED
-products_models: []
-media_books:
-  - Hamilton
-  - West Side Story
-  - Wicked
-  - The Wizard of Oz
 status: evergreen
+summary: 著名服装设计师Paul Tazewell分享了他如何利用服装作为一种无声的语言来塑造观众的感知，讲述超越表象的故事。他以《汉密尔顿》、《西区故事》和《魔法坏女巫》为例，阐释了服装如何挑战刻板印象、揭示历史真相，并探讨了“邪恶”的定义以及我们如何通过设计重新审视和重塑它。
+tags:
+- bias
+- cultural
+- design
+- stereotype-dismantling
+- visual-storytelling
+title: 服装设计：超越表象的叙事艺术
 ---
+
 ### 服装：塑造感知的无声语言
 
 是什么让一个人变得**邪恶**？是他们的肤色吗？是我们被告知的故事吗？还是他们所穿的衣服？我们是如何做出这些判断的？我们依赖哪些线索？我们又带着哪些假设，有时甚至没有意识到？

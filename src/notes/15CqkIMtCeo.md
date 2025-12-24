@@ -1,40 +1,40 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央美术学院
 date: '2024-09-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《泰坦尼克号》
+- documentary-as-rescue
+people:
+- 方励
+- 韩寒
+- 林阿根
+- Dennis Morning
+- 朱里巴露
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=15CqkIMtCeo
 speaker: 一席YiXi
-tags:
-  - historical-archiving
-  - memory-and-mourning
-  - non-state-actor-impact
-  - documentary-as-rescue
-  - legacy-through-action
-title: 一个理想主义者的倾家荡产：方励与里斯本丸沉船的历史抢救
-summary: 70岁的方励耗时十年，倾尽家财，通过科技手段发现沉船、寻访幸存者后裔，并制作纪录片《里斯本丸沉没》，抢救一段被遗忘的二战历史。他用行动证明：生命的价值不在于财富积累，而在于为他人与历史留下真实印记。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 方励
-  - 韩寒
-  - 林阿根
-  - Dennis Morning
-  - 朱里巴露
-companies_orgs:
-  - 中央美术学院
-products_models: []
-media_books:
-  - 《泰坦尼克号》
 status: evergreen
+summary: 70岁的方励耗时十年，倾尽家财，通过科技手段发现沉船、寻访幸存者后裔，并制作纪录片《里斯本丸沉没》，抢救一段被遗忘的二战历史。他用行动证明：生命的价值不在于财富积累，而在于为他人与历史留下真实印记。
+tags:
+- historical
+- impact
+- legacy
+- memory
+title: 一个理想主义者的倾家荡产：方励与里斯本丸沉船的历史抢救
 ---
+
 ### 十年如一日：一件T恤与一个未完成的使命
 
 大家好，我叫方励，70岁。十年前我也站在这儿，今天我刻意穿了同一件T恤——它旧了些，我的头发掉了不少，皱纹也多了。但我的心没有变。尤其听说在座的年轻人中，还有十年前曾与我同台的人，这让我倍感欣慰。我们彼此见证了时间的流逝。

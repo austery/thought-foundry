@@ -1,32 +1,30 @@
 ---
-title: 前港交所总裁李小加震撼发言：偿还欠债是中国的未来；中共警告民众：感受不好不能说
-summary: 本文梳理了未来一周五大全球经济事件，并重点分析了李小加对中国经济模式的深刻剖析。李小加指出中国发展建立在牺牲农民利益之上，敦促中共偿还占总财富50%的“欠债”以推动未来增长。同时，报道提及中共官方要求民众在国庆期间“只能说好不能说坏”的荒唐警告。
 area: market-analysis
 category: finance
-project:
-- china-analysis
-tags:
-- 中国经济模式
-- 川普经济政策
-- 李小加
-- 美联储纪要
-- 高市早苗
-people:
-- lt
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-06'
-author: LT視界
-speaker: LT視界
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- lt
+- 李小加
+- 高市早苗
+products_models: []
+project:
+- china-analysis
 series: ''
 source: https://www.youtube.com/watch?v=J4_UV2Qid-c
+speaker: LT視界
 status: evergreen
+summary: 本文梳理了未来一周五大全球经济事件，并重点分析了李小加对中国经济模式的深刻剖析。李小加指出中国发展建立在牺牲农民利益之上，敦促中共偿还占总财富50%的“欠债”以推动未来增长。同时，报道提及中共官方要求民众在国庆期间“只能说好不能说坏”的荒唐警告。
+tags:
+- financial
+- 美联储纪要
+title: 前港交所总裁李小加震撼发言：偿还欠债是中国的未来；中共警告民众：感受不好不能说
 ---
+
 ### 未来一周全球五大重要经济事件前瞻
 
 我们一起来分享今天不容错过的几条重要新闻。今天是10月5日，首先我们关注今天的财经头条，一起来了解一下未来一周最值得大家关注的五个重大经济事件。

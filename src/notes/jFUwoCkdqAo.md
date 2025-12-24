@@ -1,54 +1,53 @@
 ---
-author: Hung-yi Lee
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Meta
+- OpenAI
+- PTT
+- 教发中心
 date: '2025-05-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 艾尔登法环
+- 火影忍者
+- 圣剑传说 2
+- 鬼灭之刃
+- DARE
+- TIES
+people:
+- 黄世丞
+- 李品泽
+- 林子涵
+- Chen-An Li
+- Hsuan Su
+products_models:
+- LLaMA
+- Mistral
+- Whisper
+- BARK
+- Speech T5
+- Wav2vec2-Conformer
+- TAIDE
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=jFUwoCkdqAo
 speaker: Hung-yi Lee
-tags:
-  - model-merging
-  - task-vector
-  - foundation-model
-  - machine-unlearning
-  - generative-ai
-title: 深度解析模型合并（Model Merging）技术：无需训练，组合Foundation Model能力的创新途径
-summary: 本文深入探讨了生成式AI时代下的**模型合并**（Model Merging）技术。该技术允许通过计算模型参数差异（即**任务向量** Task Vector），在无需额外训练和数据的情况下，将不同**基础模型**（Foundation Model）的特定能力进行组合、叠加甚至移除。文章详细阐述了任务向量的加法、减法及类比应用，并分析了模型合并成功的条件，如参数不重叠和模型规模。展望未来，模型合并有望催生**任务向量商店**，极大降低模型开发门槛，促进知识共享与创新。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 黄世丞
-  - 李品泽
-  - 林子涵
-  - Chen-An Li
-  - Hsuan Su
-companies_orgs:
-  - Meta
-  - OpenAI
-  - PTT
-  - 教发中心
-products_models:
-  - LLaMA
-  - Mistral
-  - Whisper
-  - BARK
-  - Speech T5
-  - Wav2vec2-Conformer
-  - TAIDE
-media_books:
-  - 艾尔登法环
-  - 火影忍者
-  - 圣剑传说 2
-  - 鬼灭之刃
-  - DARE
-  - TIES
 status: evergreen
+summary: 本文深入探讨了生成式AI时代下的**模型合并**（Model Merging）技术。该技术允许通过计算模型参数差异（即**任务向量** Task
+  Vector），在无需额外训练和数据的情况下，将不同**基础模型**（Foundation Model）的特定能力进行组合、叠加甚至移除。文章详细阐述了任务向量的加法、减法及类比应用，并分析了模型合并成功的条件，如参数不重叠和模型规模。展望未来，模型合并有望催生**任务向量商店**，极大降低模型开发门槛，促进知识共享与创新。
+tags:
+- llm
+- model
+- task-vector
+title: 深度解析模型合并（Model Merging）技术：无需训练，组合Foundation Model能力的创新途径
 ---
+
 ### 揭秘Model Merging：无需训练的神奇技术
 
 今天将分享一个非常神奇的技术，叫做**模型合并**（Model Merging: 一种无需额外训练即可组合或修改大型模型能力的创新技术）。这个技术在生成式AI时代背景下，为**基础模型**（Foundation Model: 经过大量数据预训练的通用大型模型，如LLaMA系列）的能力扩展提供了全新的思路。

@@ -1,42 +1,42 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 洞背村
+- 深圳
 date: '2024-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《认识我的人慢慢忘了我》
+- 《伊萨卡岛》
+people:
+- 周慧
+- 黄灿然
+- 孙文波
+- 曹雪峰
+- 肖海鸥
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=OqxmEYcOZeA
 speaker: 一席YiXi
-tags:
-  - self-reconstruction
-  - class-trap
-  - female-identity
-  - autonomous-living
-  - writing-as-survival
-title: 我是周慧：一个被遗忘的名字，一场自我重建的漫长旅程
-summary: 周慧讲述从农村打工妹到深圳工厂女工、办公室文员，再到村居写作者的生命历程。她挣脱原生家庭的束缚、社会结构的规训与经济困顿，在孤独中通过写作重建自我，最终在无名与无依中找到内在的尊严。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - cultural-critique
-people:
-  - 周慧
-  - 黄灿然
-  - 孙文波
-  - 曹雪峰
-  - 肖海鸥
-companies_orgs:
-  - 洞背村
-  - 深圳
-products_models: []
-media_books:
-  - 《认识我的人慢慢忘了我》
-  - 《伊萨卡岛》
 status: evergreen
+summary: 周慧讲述从农村打工妹到深圳工厂女工、办公室文员，再到村居写作者的生命历程。她挣脱原生家庭的束缚、社会结构的规训与经济困顿，在孤独中通过写作重建自我，最终在无名与无依中找到内在的尊严。
+tags:
+- autonomous-living
+- class
+- identity
+- life
+- self
+title: 我是周慧：一个被遗忘的名字，一场自我重建的漫长旅程
 ---
+
 ### 一个被遗忘的名字，一场重生的起点
 
 我叫周慧。  

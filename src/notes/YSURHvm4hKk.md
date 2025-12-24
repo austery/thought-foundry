@@ -1,47 +1,46 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- Google
+- 美联储
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《模型思考者》
+people:
+- 斯科特·佩奇
+- 乔治亚·奥基夫
+- 理查德·莱文斯
+- 孔多塞
+- 罗伯特·卢卡斯
+products_models:
+- BMI指数
+- 前景理论
+- 双曲贴现
+- 卢卡斯批判
+- 纳什均衡
+- 中心极限定理
+- 正态分布
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=YSURHvm4hKk
 speaker: 北美王路飞
-tags:
-  - prediction-models
-  - multi-model-thinking
-  - human-behavior
-  - cognitive-biases
-  - decision-making-frameworks
-title: 模型的真相：它不是复印机，而是“有用的谎言”——多模型思维的决策智慧
-summary: 我们生活在一个痴迷预测的时代，但专家模型却屡屡失误。本文探讨了斯科特·佩奇在《模型思考者》中提出的“多模型思维”：单一模型注定是错的，模型是简化的“有用谎言”。通过孔多塞陪审团定理和多样性预测定理，文章揭示了多模型集合的强大之处。同时，也剖析了模型多样性的局限性，以及如何运用少数核心模型理解复杂现象。最后，文章深入探讨了“如何给人建模”这一核心难题，比较了理性行动者模型与基于规则的模型，并引入了卢卡斯批判，最终提出整合多模型视角以应对复杂世界的智慧。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - 斯科特·佩奇
-  - 乔治亚·奥基夫
-  - 理查德·莱文斯
-  - 孔多塞
-  - 罗伯特·卢卡斯
-companies_orgs:
-  - 谷歌
-  - 美联储
-products_models:
-  - BMI指数
-  - 前景理论
-  - 双曲贴现
-  - 卢卡斯批判
-  - 纳什均衡
-  - 中心极限定理
-  - 正态分布
-media_books:
-  - 《模型思考者》
 status: evergreen
+summary: 我们生活在一个痴迷预测的时代，但专家模型却屡屡失误。本文探讨了斯科特·佩奇在《模型思考者》中提出的“多模型思维”：单一模型注定是错的，模型是简化的“有用谎言”。通过孔多塞陪审团定理和多样性预测定理，文章揭示了多模型集合的强大之处。同时，也剖析了模型多样性的局限性，以及如何运用少数核心模型理解复杂现象。最后，文章深入探讨了“如何给人建模”这一核心难题，比较了理性行动者模型与基于规则的模型，并引入了卢卡斯批判，最终提出整合多模型视角以应对复杂世界的智慧。
+tags:
+- cognitive-bias
+- decision-making-framework
+- human-behavior
+- model
+title: 模型的真相：它不是复印机，而是“有用的谎言”——多模型思维的决策智慧
 ---
+
 ### 预测的困境与模型的幻象
 
 我们生活在一个痴迷预测的时代，渴望知道明天的股价涨跌、下个月的疫情走势、选举结果，甚至是职业生涯的规划。为此，我们求助于专家，求助于那些掌握着模型的人，相信他们手中的“水晶球”能够看透未来。然而，现实却屡次打破这种幻想：2008年金融海啸前夕，顶尖经济模型声称基本面良好；新冠疫情初期，不同模型对感染人数的预测差异高达数千倍；至于选举和市场，专家的预测，尤其是那些最有信心的预测，翻车的名场面更是数不胜数。

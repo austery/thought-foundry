@@ -1,59 +1,58 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国人民解放军
+- 中央军委
+- 火箭军
+- 海军
+- 国家监察委
+- 国务院
+- 中央警卫局
+- 国防大学
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Xi Jinping
+- 何卫东
+- 苗华
+- 张又侠
+- 许其亮
+- 魏凤和
+- 王厚斌
+- 徐锡胜
+- 钟绍军
+- 毛泽东
+- 邓小平
+- 江泽民
+- 华国锋
+- 杨尚昆
+- 杨白冰
+- 赵紫阳
+- 李强
+- 蔡声琨
+products_models:
+- 东风-41
+- 歼-20
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=nKVm_qUmajY
 speaker: FearNation 世界苦茶
-tags:
-  - military-purge
-  - power-transition
-  - supervisory-system
-  - elite-politics
-title: 解析解放军高层大清洗：习近平交权前兆还是监察体系失控？
-summary: 近期解放军高层发生史无前例的大清洗，引发外界诸多猜测。本文深入剖析了“秘密攻台”、“将领抗命”及“派系互斗”等多种流行理论，并认为其可能性较低。作者提出了两种更具说服力的解释：一是因军事改革失败或监察体系过度发达而进行的系统性重构；二是中国可能正在进入权力交接阶段，此次清洗是为新领导人铺路。文章最后指出，钟绍军在四中全会的任免将是判断未来走向的关键信号。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 习近平
-  - 何卫东
-  - 苗华
-  - 张又侠
-  - 许其亮
-  - 魏凤和
-  - 王厚斌
-  - 徐锡胜
-  - 钟绍军
-  - 毛泽东
-  - 邓小平
-  - 江泽民
-  - 华国锋
-  - 杨尚昆
-  - 杨白冰
-  - 赵紫阳
-  - 李强
-  - 蔡声琨
-companies_orgs:
-  - 中国人民解放军
-  - 中央军委
-  - 火箭军
-  - 海军
-  - 国家监察委
-  - 国务院
-  - 中央警卫局
-  - 国防大学
-products_models:
-  - 东风-41
-  - 歼-20
-media_books: []
 status: evergreen
+summary: 近期解放军高层发生史无前例的大清洗，引发外界诸多猜测。本文深入剖析了“秘密攻台”、“将领抗命”及“派系互斗”等多种流行理论，并认为其可能性较低。作者提出了两种更具说服力的解释：一是因军事改革失败或监察体系过度发达而进行的系统性重构；二是中国可能正在进入权力交接阶段，此次清洗是为新领导人铺路。文章最后指出，钟绍军在四中全会的任免将是判断未来走向的关键信号。
+tags:
+- military
+- politics
+- power
+- system
+title: 解析解放军高层大清洗：习近平交权前兆还是监察体系失控？
 ---
+
 ### 引言：一场史无前例的军队大清洗
 
 今天的内容在我看来，是海外政论界无论如何都必须探讨的话题，因为它是一件大事。各位观众甚至可以将其视为对海外政论节目和时评人的一次“申论大考”，看谁能真正把这个问题讲清楚。所以，今天我就来提交我的这份答卷。

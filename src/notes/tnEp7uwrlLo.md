@@ -1,42 +1,42 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-07-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国民心理健康发展报告》
+people:
+- 王佳莹
+- 埃里克森
+- 阿奈特
+- 马丁·塞利格曼
+- 温尼科特
+- 荣格
+- 阿德勒
+- 罗宾·邓巴
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=tnEp7uwrlLo
 speaker: 一席YiXi
-tags:
-  - self-identity-crisis
-  - emotional-suppression
-  - boundary-dynamics
-  - self-criticism
-  - social-isolation
-title: 在朋友圈独立自信，在小红书岁月静好：当代大学生的自我困局与情绪困境
-summary: 心理教师王佳莹通过十年咨询经验，揭示当代大学生在自我认同、情绪压抑与人际关系中的深层困境。她指出‘假性自体’、自我攻击与边界感缺失是核心问题，并呼吁社会给予年轻人更多理解与空间。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 王佳莹
-  - 埃里克森
-  - 阿奈特
-  - 马丁·塞利格曼
-  - 温尼科特
-  - 荣格
-  - 阿德勒
-  - 罗宾·邓巴
-companies_orgs: []
-products_models: []
-media_books:
-  - 《国民心理健康发展报告》
 status: evergreen
+summary: 心理教师王佳莹通过十年咨询经验，揭示当代大学生在自我认同、情绪压抑与人际关系中的深层困境。她指出‘假性自体’、自我攻击与边界感缺失是核心问题，并呼吁社会给予年轻人更多理解与空间。
+tags:
+- crisis
+- dynamic
+- emotional
+- self
+- social
+title: 在朋友圈独立自信，在小红书岁月静好：当代大学生的自我困局与情绪困境
 ---
+
 ### 当代大学生的自我困局：在朋友圈与小红书之间迷失
 
 大家好，我是王佳莹，南京师范大学的心理教师和心理咨询师。在过去十年里，我见证了许多皱着眉头走进咨询室的年轻人——他们带着困惑、焦虑和无声的泪水，寻求一个答案：我是谁？

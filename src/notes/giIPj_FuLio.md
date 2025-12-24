@@ -1,55 +1,54 @@
 ---
-author: 張内咸
+area: society-thinking
+category: politics-society
+companies_orgs:
+- JPMorgan Chase
+- Prada
+- Coach
+- EssilorLuxottica
+- Value Retail
+- CNBC
+- PwC
+- 中国共产党
+- 中国人民解放军
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《穿Prada的恶魔》
+- 抖音
+- 淘宝
+people:
+- 张内咸
+- 高市早苗
+- Donald Trump
+- Volodymyr Zelenskyy
+- Vladimir Putin
+- 田忌
+- 齐威王
+products_models:
+- SuperThanks
+project:
+- china-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=giIPj_FuLio
 speaker: 張内咸
-tags:
-  - chinese-economy
-  - luxury-market
-  - social-logic
-  - political-polarization
-  - china-japan-relations
-  - government-finance
-  - elderly-care-policy
-title: 中国经济的“奢侈品幻象”与社会逻辑的“回旋镖效应”
-summary: 本期节目深入探讨了西方奢侈品牌对中国市场的乐观预期与中国普通民众的真实经济感受之间的巨大反差。主持人通过个人经历和对北京商业生态的观察，揭示了中国社会中一种独特的“傲慢经济学”和“实力崇拜”逻辑。文章进一步分析了这种内部逻辑在国际关系中可能导致的“回旋镖效应”，并以中日冲突为例，批判了当前官方叙事和民众思维的非理性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - 张内咸
-  - 高市早苗
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Vladimir Putin
-  - 田忌
-  - 齐威王
-companies_orgs:
-  - JPMorgan Chase
-  - Prada
-  - Coach
-  - EssilorLuxottica
-  - Value Retail
-  - CNBC
-  - PwC
-  - 中国共产党
-  - 中国人民解放军
-products_models:
-  - SuperThanks
-media_books:
-  - 《穿Prada的恶魔》
-  - 抖音
-  - 淘宝
 status: evergreen
+summary: 本期节目深入探讨了西方奢侈品牌对中国市场的乐观预期与中国普通民众的真实经济感受之间的巨大反差。主持人通过个人经历和对北京商业生态的观察，揭示了中国社会中一种独特的“傲慢经济学”和“实力崇拜”逻辑。文章进一步分析了这种内部逻辑在国际关系中可能导致的“回旋镖效应”，并以中日冲突为例，批判了当前官方叙事和民众思维的非理性。
+tags:
+- china-japan-relations
+- chinese-economy
+- government
+- market
+- policy
+- social
+title: 中国经济的“奢侈品幻象”与社会逻辑的“回旋镖效应”
 ---
+
 ### 一千日元的“压岁钱”与博主的“境外汇款”
 
 大家好，我是张内咸，又见面了。上周节目播出后，一位观众给我打款了1000元。我看到以后非常震惊，因为他打款后还特意补充了一句，说“张导，你注意看清楚，这不是1000人民币，而是1000日元，日元和人民币的货币符号是一样的，千万别搞错了。”这位兄弟，我以前得罪过你吗？你不把这个真相讲出来会死是吗？就我这个智力，你要是不说，我可能一直都不会发现。就这点事，打上个礼拜天开始，我能一直高兴到明年春节去，因为我从小到大收到的压岁钱都没达到过1000块这么惊人的数字。最多也就是爸爸妈妈给200，爷爷奶奶给200，但是姥姥、姥爷不给，因为我姥爷特别穷并且特别抠门。之前在一期节目里讲过，他是鞋厂里的劳动模范嘛，所以我从小到大从来没见过这么大的金额，1000块诶。小的时候我曾经发过毒誓，要是有人能给我1000块压岁钱，跪下磕头叫三声父亲又如何？可惜了，可惜了，你偏要告诉我那是1000日元，一个天真孩子渴望寻找父亲的心愿就在那一刻破灭了。

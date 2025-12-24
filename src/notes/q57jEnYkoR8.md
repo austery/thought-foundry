@@ -1,35 +1,33 @@
 ---
-title: 习特通话、人民币汇率与全球变局下的多方博弈
-summary: 本期节目深入探讨了美联储降息对全球经济的影响、中俄与西方国家的地缘政治博弈，以及中美在贸易和货币政策上的最新动态。同时分析了国内外的热点社会事件，揭示了复杂国际关系下的多维度挑战。
-area: market-analysis
-category: geopolitics
+area: society-thinking
+author: Lei
+category: politics-society
+companies_orgs: []
+date: 2025-09-19
+draft: true
+guest: null
+insight: null
+layout: post.njk
+products_models: []
 project:
 - china-analysis
 - geopolitics-watch
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- currency-manipulation
-- financial-markets
-- geopolitics
-- social-issues
-- us-china-relations
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-09-19
-author: Lei
-speaker: LT視界
-draft: true
-guest: null
-insight: null
-layout: post.njk
 series: null
 source: http://www.youtube.com/watch?v=q57jEnYkoR8
+speaker: LT視界
 status: evergreen
+summary: 本期节目深入探讨了美联储降息对全球经济的影响、中俄与西方国家的地缘政治博弈，以及中美在贸易和货币政策上的最新动态。同时分析了国内外的热点社会事件，揭示了复杂国际关系下的多维度挑战。
+tags:
+- currency
+- financial-market
+- social-issue
+- us-china-relations
+title: 习特通话、人民币汇率与全球变局下的多方博弈
 ---
+
 ## 财经要闻：美联储降息、国债市场与经济展望
 
 大家好，我们一起来分享今天不能错过的主要新闻。今天是9月19日，我们首先来了解今天的财经头条。有三个方面的最新信息值得大家了解。

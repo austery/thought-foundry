@@ -1,29 +1,25 @@
 ---
-title: 停止加仓特斯拉：一位长期投资者对投资中信号与噪音的深度反思
-summary: 本文总结了2024年上半年投资特斯拉的经验，深入探讨了投资中关于信号与噪音的四个重要道理，并分享了作者作为长期投资者决定停止加仓特斯拉的个人考量与决策。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-tags:
-  - financial-education
-  - investment-strategy
-  - signal-noise-ratio
-  - tesla-investment
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-07-11'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=hvAsnDWnDDg
+speaker: 一口新飯
 status: evergreen
+summary: 本文总结了2024年上半年投资特斯拉的经验，深入探讨了投资中关于信号与噪音的四个重要道理，并分享了作者作为长期投资者决定停止加仓特斯拉的个人考量与决策。
+tags:
+- financial-education
+- investment
+- signal-noise-ratio
+title: 停止加仓特斯拉：一位长期投资者对投资中信号与噪音的深度反思
 ---
 
 ### 特斯拉投资的过山车与“噪音”的本质

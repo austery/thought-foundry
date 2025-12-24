@@ -1,39 +1,37 @@
 ---
-author: Veritasium
-date: '2023-12-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Q51-gLL_MRM
-speaker: Veritasium
-tags:
-  - veritasium
-  - earthquake-resistance
-  - seismic-simulation
-  - building-codes
-  - disaster-preparedness
-  - structural-engineering
-title: 日本E-Defense：全球最大地震模拟器如何提升建筑抗震能力
-summary: 视频介绍了日本的E-Defense，全球最大的地震模拟器，它通过模拟真实地震来测试并改进建筑的抗震性能。文章详细阐述了1995年神户地震的惨痛教训，日本政府如何投资数十亿美元进行抗震研究，以及E-Defense在测试房屋结构、改进建筑规范和确保室内安全方面所做的贡献，旨在将日本打造成一个更安全的国家。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Derek
-  - Petr
-  - Japanese Scientist
+category: general
 companies_orgs:
-  - E-Defense
-  - Shopify
+- E-Defense
+- Shopify
+date: '2023-12-19'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek
+- Petr
+- Japanese Scientist
 products_models:
-  - Snatoms
-media_books: []
+- Snatoms
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=Q51-gLL_MRM
+speaker: veritasium
 status: evergreen
+summary: 视频介绍了日本的E-Defense，全球最大的地震模拟器，它通过模拟真实地震来测试并改进建筑的抗震性能。文章详细阐述了1995年神户地震的惨痛教训，日本政府如何投资数十亿美元进行抗震研究，以及E-Defense在测试房屋结构、改进建筑规范和确保室内安全方面所做的贡献，旨在将日本打造成一个更安全的国家。
+tags:
+- code
+- engineering
+- environment
+- seismic-simulation
+- technology
+title: 日本E-Defense：全球最大地震模拟器如何提升建筑抗震能力
 ---
+
 ### E-Defense：全球最大的地震模拟器
 
 这是世界上最大的地震模拟器，名为**E-Defense**（世界最大地震模拟器：位于日本，用于测试建筑抗震性能）。其巨大的振动台能够支撑一栋10层高的建筑，并以全球最具破坏性地震的力度，在各个方向上移动它。E-Defense已经进行了上百次测试，让各种建筑经受不同的模拟地震，所有这些都是为了学习如何使建筑更具抗震能力。

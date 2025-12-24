@@ -1,43 +1,44 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《解答之書》
+people:
+- 任容萱
+- 鄧雯心醫師
+- 宋晏仁醫師
+products_models:
+- Inbody
+- 真正薰衣草精油
+- 廣藿香精油
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=gy7f0Ccrdkc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - body-image
-  - self-acceptance
-  - emotional-eating
-  - psychological-counseling
-  - mindful-eating
-  - societal-beauty-standards
-  - emotional-regulation
-title: 从体脂最低到内心自由：任容萱的自我接纳与心理疗愈之旅
-summary: 艺人任容萱分享了她从追求极致瘦身到最终接纳自我、爱上身体的心理历程。她曾达到人生体脂最低点，却陷入对甜食的渴望与罪恶感的恶性循环。在心理师的引导下，她学会了认识情绪、建立新的信念系统，并摆脱了数字和外界评价的束缚，最终找到了真正的内心自由与满足。文章强调了心理咨询在身心健康中的重要性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - 任容萱
-  - 鄧雯心醫師
-  - 宋晏仁醫師
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models:
-  - Inbody
-  - 真正薰衣草精油
-  - 廣藿香精油
-media_books:
-  - 《解答之書》
 status: evergreen
+summary: 艺人任容萱分享了她从追求极致瘦身到最终接纳自我、爱上身体的心理历程。她曾达到人生体脂最低点，却陷入对甜食的渴望与罪恶感的恶性循环。在心理师的引导下，她学会了认识情绪、建立新的信念系统，并摆脱了数字和外界评价的束缚，最终找到了真正的内心自由与满足。文章强调了心理咨询在身心健康中的重要性。
+tags:
+- emotional
+- emotional-regulation
+- health
+- psychology
+- self
+- societal
+title: 从体脂最低到内心自由：任容萱的自我接纳与心理疗愈之旅
+companies:
+- psychological-counseling
 ---
+
 ### 追求极致瘦身后的迷失与挣扎
 
 **任容萱:** 我完全不想吃，就是这个表情。我看着它，我都没有想吃。我来到我人生体脂最低21，体重最低51。尽管你们今天说“啊，容萱妳很瘦啊”，我就觉得你们只是场面话，你们在客套。其实我知道我不好，我没办法真的认知到我的优点，没办法接受这件事情。所以我就一直在告诉自己要**正念饮食**（Mindful Eating: 一种专注于当下进食体验、不带评判地觉察身体饥饿与饱足信号的饮食方式），然后到隔天又是满满的罪恶感。其实吃它只是一种行为，如果我们只是要去压制这个行为，终究是会压不住的。所以在无形之中，其实我一直以来都累积了这么多的压力，然后导致我很不喜欢我自己。我就觉得它就是不好啊，它就是高油高盐高糖的组合，怎么会好呢？但是现在我就觉得，我需要这个食物的时候，它就是好的。

@@ -1,40 +1,39 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Railway
+- GitHub
+- Open Code
+- Cloud Code
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- PostgreSQL
+- Bun
+- Docker
+- Ingest
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Q5IVm_CxN2w
 speaker: AI Engineer
-tags:
-  - self-healing-infrastructure
-  - coding-agents
-  - durable-execution
-  - application-monitoring
-  - automated-fixes
-title: 利用AI编程代理实现基础设施的自我修复
-summary: 本视频展示了如何利用AI编程代理自动检测并修复应用程序基础设施中的问题。通过监控CPU、内存利用率、请求错误率和响应时间等指标，系统能识别内存泄漏和慢查询等常见故障。核心理念是构建一套耐久执行的工作流，从问题检测到自动生成并提交修复代码的拉取请求。视频还介绍了开源AI代理Open Code及其无头服务器架构，以及如何将其部署在Railway平台上，实现基础设施的智能运维。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people: []
-companies_orgs:
-  - Railway
-  - GitHub
-  - Open Code
-  - Cloud Code
-products_models:
-  - PostgreSQL
-  - Bun
-  - Docker
-  - Ingest
-media_books: []
 status: evergreen
+summary: 本视频展示了如何利用AI编程代理自动检测并修复应用程序基础设施中的问题。通过监控CPU、内存利用率、请求错误率和响应时间等指标，系统能识别内存泄漏和慢查询等常见故障。核心理念是构建一套耐久执行的工作流，从问题检测到自动生成并提交修复代码的拉取请求。视频还介绍了开源AI代理Open
+  Code及其无头服务器架构，以及如何将其部署在Railway平台上，实现基础设施的智能运维。
+tags:
+- automated-fix
+- code
+- coding-agent
+- durable-execution
+- self
+title: 利用AI编程代理实现基础设施的自我修复
 ---
+
 ### 基础设施应能自我修复
 
 您的应用程序基础设施应该能够自我修复。

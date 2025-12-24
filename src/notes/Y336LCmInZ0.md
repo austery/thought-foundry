@@ -1,48 +1,48 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Oxford University
+- National Bureau of Economic Research
+- NYU
+- Imperial College London
+- University of Zurich
+- IPCC
+- NGFS
+- Bank of England
+- Science Based Targets initiative
+- World Bank
 date: '2025-03-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Anna Karenina
+- The Green Scorpion
+people:
+- Dr. Nicola Ranger
+- Martin Skuncke
+- Professor S. Vagner
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Y336LCmInZ0
 speaker: Norges Bank Investment Management
-tags:
-  - climate-risk-management
-  - nature-risk-assessment
-  - financial-investing
-  - scenario-modeling
-  - sustainable-finance
-title: 金融投资者如何管理气候与自然风险：洞察、挑战与未来策略
-summary: 挪威银行投资管理公司分享了其在管理气候和自然风险方面的最新洞察和策略。通过对投资组合公司进行调查，发现近半数公司认为自然风险具有财务实质性。文章探讨了气候与自然风险的相互关联性，基金如何通过情景分析、风险剥离和积极所有权来衡量和应对这些风险。专家指出，现有模型可能低估了物理风险和无序转型的影响，强调了开发更稳健政策和研究的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Dr. Nicola Ranger
-  - Martin Skuncke
-  - Professor S. Vagner
-companies_orgs:
-  - Norges Bank Investment Management
-  - Oxford University
-  - National Bureau of Economic Research
-  - NYU
-  - Imperial College London
-  - University of Zurich
-  - IPCC
-  - NGFS
-  - Bank of England
-  - Science Based Targets initiative
-  - World Bank
-products_models: []
-media_books:
-  - Anna Karenina
-  - The Green Scorpion
 status: evergreen
+summary: 挪威银行投资管理公司分享了其在管理气候和自然风险方面的最新洞察和策略。通过对投资组合公司进行调查，发现近半数公司认为自然风险具有财务实质性。文章探讨了气候与自然风险的相互关联性，基金如何通过情景分析、风险剥离和积极所有权来衡量和应对这些风险。专家指出，现有模型可能低估了物理风险和无序转型的影响，强调了开发更稳健政策和研究的重要性。
+tags:
+- climate-risk-management
+- finance
+- financial
+- llm
+- risk
+title: 金融投资者如何管理气候与自然风险：洞察、挑战与未来策略
 ---
+
 ### 气候与自然风险的财务实质性
 
 首先，我将分享一些最新的见解。

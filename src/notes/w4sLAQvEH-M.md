@@ -1,40 +1,38 @@
 ---
-author: Veritasium
-date: '2021-06-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=w4sLAQvEH-M
-speaker: Veritasium
-tags:
-  - veritasium
-  - evolution-experiment
-  - bacterial-adaptation
-  - natural-selection
-  - mutation-rates
-  - power-law-model
-title: 进化在行动：世界运行时间最长的细菌进化实验
-summary: 本文深入探讨了理查德·伦斯基（Richard Lenski）教授主导的、长达33年的大肠杆菌进化实验。该实验通过在实验室环境中独立培养12个菌株，观察它们如何适应并演化。文章详细介绍了实验设计、细菌适应性测量方法（如与祖先菌株竞争），以及实验中发现的惊人结果，包括对柠檬酸盐的利用、超变异性的演化，以及进化速率遵循幂律模型而非渐近线模型，揭示了即使在恒定环境下，生命进化也永无止境的深刻洞察。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-people:
-  - Richard Lenski
-  - Madeline
-  - Zack
-  - Derek
+category: science
 companies_orgs:
-  - University of Illinois
+- University of Illinois
+date: '2021-06-16'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Richard Lenski
+- Madeline
+- Zack
+- Derek
 products_models:
-  - E. coli
-  - Bounty
-  - agar plate
-media_books: []
+- E. coli
+- Bounty
+- agar plate
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=w4sLAQvEH-M
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了理查德·伦斯基（Richard Lenski）教授主导的、长达33年的大肠杆菌进化实验。该实验通过在实验室环境中独立培养12个菌株，观察它们如何适应并演化。文章详细介绍了实验设计、细菌适应性测量方法（如与祖先菌株竞争），以及实验中发现的惊人结果，包括对柠檬酸盐的利用、超变异性的演化，以及进化速率遵循幂律模型而非渐近线模型，揭示了即使在恒定环境下，生命进化也永无止境的深刻洞察。
+tags:
+- adaptation
+- evolution
+- geopolitical
+- model
+- rate
+title: 进化在行动：世界运行时间最长的细菌进化实验
 ---
+
 ### 进化在行动：抗生素抗性与长期实验的序章
 
 这些细菌正在不断适应浓度越来越高的抗生素环境。当它们遇到第一条抗生素带时，细菌停止生长，但随后出现了一个能够在抗生素中存活的突变体。接着，又发生了另一次突变，现在这些细菌能够承受十倍浓度的抗生素，然后是一百倍，最终，在仅仅11天的进化之后，这些细菌能够存活于比最初能杀死它们的抗生素强一千倍的环境中。你正在亲眼目睹进化的过程。

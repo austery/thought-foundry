@@ -1,33 +1,31 @@
 ---
-title: 美股三大卖出信号已触发？深度解析美银研报与市场情绪
-summary: 本期节目深入解读美国银行研报，分析美股三大卖出信号、潜在债市风险及政策影响，并结合市场情绪指标提供投资参考。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- bond-market
-- investment-strategy
-- market-analysis
-- us-stock-market
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-07-22'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=fjOH0N_AtY0
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入解读美国银行研报，分析美股三大卖出信号、潜在债市风险及政策影响，并结合市场情绪指标提供投资参考。
+tags:
+- market
+- market-analysis
+- us-stock-market
+title: 美股三大卖出信号已触发？深度解析美银研报与市场情绪
 ---
+
 ### 市场概览与本期主题
 
 大家好，欢迎来到专业美股频道。我是市场分析员小陶。现在是美东时间周一，我们已经连续几周保持日更（每周五期视频），希望能够继续保持下去，也希望留言区的各位能继续支持。周一市场波动不大，热点不多，正好借此机会和大家分享一篇来自美国银行首席股票策略师的研报。这篇文章的标题非常引人注目：“美股现在已经出现了所有的卖出信号”。我们将一起深入探讨这篇文章的内容，并分享一些我个人衡量市场情绪的指标。

@@ -1,69 +1,68 @@
 ---
-title: "Andrej Karpathy：为什么这是“智能体的十年”，而非“智能体之年”？"
-summary: "著名AI研究员Andrej Karpathy深入探讨了为什么他认为通用人工智能（AGI）的实现需要一个“智能体的十年”，而非“智能体之年”。他剖析了当前大型语言模型（LLM）存在的认知缺陷、对强化学习（RL）的深刻批判（“像通过吸管吸取监督信号”），并类比自动驾驶的“九的征程”来说明产品化的艰巨。Karpathy还分享了他从零构建nanochat的经验，对AI是否会引发经济爆炸性增长提出了质疑，并阐述了他创办教育项目Eureka的初衷——在AI时代提升人类自身的能力。"
-speaker: "Dwarkesh Patel"
-source: https://www.youtube.com/watch?v=lXUZvyajciY
-date: "2025-10-18"
-area: "tech-insights"
-category: "technology"
-layout: post.njk
-project:
-  - "ai-impact-analysis"
-  - "systems-thinking"
-tags:
-  - "agent-timelines"
-  - "cognitive-deficits"
-  - "reinforcement-learning-limits"
-  - "model-collapse"
-  - "ai-education"
-  - "demo-to-product-gap"
-people:
-  - "Andrej Karpathy"
-  - "Geoff Hinton"
-  - "Richard Sutton"
-  - "Yann LeCun"
-  - "Andy Matuschak"
-  - "Gwern"
-  - "Carl Shulman"
-  - "Quintin Pope"
-  - "Sal Khan"
-  - "Nick Lane"
+area: tech-insights
+category: technology
 companies_orgs:
-  - "OpenAI"
-  - "Tesla"
-  - "Google"
-  - "DeepMind"
-  - "Waymo"
-  - "Nvidia"
-  - "Carnegie Mellon University (CMU)"
-  - "University of Toronto"
-  - "Stanford University"
-  - "TSMC"
-  - "Intel"
-  - "Eureka"
-  - "Starfleet Academy"
-products_models:
-  - "Claude"
-  - "Codex"
-  - "AlexNet"
-  - "LLM (Large Language Model)"
-  - "Universe project"
-  - "Llama 3"
-  - "GPT-2"
-  - "GPT-4"
-  - "GPT-5 Pro"
-  - "nanochat"
-  - "nanoGPT"
-  - "InstructGPT"
-  - "PyTorch"
-  - "DeepSeek v3.2"
-  - "ChatGPT"
+- OpenAI
+- Tesla
+- Google
+- DeepMind
+- Waymo
+- Nvidia
+- Carnegie Mellon University (CMU)
+- University of Toronto
+- Stanford University
+- TSMC
+- Intel
+- Eureka
+- Starfleet Academy
+date: '2025-10-18'
+layout: post.njk
 media_books:
-  - "WALL-E"
-  - "Idiocracy"
-  - "Star Trek"
-  - "Scale (book)"
-
+- WALL-E
+- Idiocracy
+- Star Trek
+- Scale (book)
+people:
+- Andrej Karpathy
+- Geoff Hinton
+- Richard Sutton
+- Yann LeCun
+- Andy Matuschak
+- Gwern
+- Carl Shulman
+- Quintin Pope
+- Sal Khan
+- Nick Lane
+products_models:
+- Claude
+- Codex
+- AlexNet
+- LLM (Large Language Model)
+- Universe project
+- Llama 3
+- GPT-2
+- GPT-4
+- GPT-5 Pro
+- nanochat
+- nanoGPT
+- InstructGPT
+- PyTorch
+- DeepSeek v3.2
+- ChatGPT
+project:
+- ai-impact-analysis
+- systems-thinking
+source: https://www.youtube.com/watch?v=lXUZvyajciY
+speaker: Dwarkesh Patel
+summary: 著名AI研究员Andrej Karpathy深入探讨了为什么他认为通用人工智能（AGI）的实现需要一个“智能体的十年”，而非“智能体之年”。他剖析了当前大型语言模型（LLM）存在的认知缺陷、对强化学习（RL）的深刻批判（“像通过吸管吸取监督信号”），并类比自动驾驶的“九的征程”来说明产品化的艰巨。Karpathy还分享了他从零构建nanochat的经验，对AI是否会引发经济爆炸性增长提出了质疑，并阐述了他创办教育项目Eureka的初衷——在AI时代提升人类自身的能力。
+tags:
+- agent
+- cognitive
+- education
+- model
+- product
+- reinforcement-learning-limit
+title: Andrej Karpathy：为什么这是“智能体的十年”，而非“智能体之年”？
 ---
 
 ### 智能体的十年，而非一年

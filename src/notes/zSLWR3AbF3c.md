@@ -1,50 +1,48 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Tony Blair Institute
+- OpenAI
+- European Union
+- CDC
+- Khan Academy
+- Five Eyes
+- Labour Party
 date: '2024-06-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Tony Blair
+- Lee Kuan Yew
+- Saddam Hussein
+- Barack Obama
+- Donald Trump
+- Joe Biden
+- Vladimir Putin
+- Bill Clinton
+- Mao Zedong
+- Deng Xiaoping
+- Sal Khan
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zSLWR3AbF3c
 speaker: Dwarkesh Patel
-tags:
-  - political-leadership
-  - government-reform
-  - public-policy
-  - technological-change
-  - crisis-management
-title: 托尼·布莱尔：政治领导人为何屡屡在重大变革中失败？
-summary: 英国前首相托尼·布莱尔在播客中探讨了政治领导人面临的独特挑战，尤其是在推动重大变革时的困境。他强调了从竞选者到首席执行官的角色转变、政府系统固有的惰性，以及在政策制定中将“抱负”转化为具体“政策”的重要性。布莱尔还深入分析了政府应对如AI革命和新冠疫情等危机的能力，并指出领导力质量对国家发展具有决定性影响，呼吁技术界人士参与政府变革。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Tony Blair
-  - Dwarkesh Patel
-  - Lee Kuan Yew
-  - Saddam Hussein
-  - Barack Obama
-  - Donald Trump
-  - Joe Biden
-  - Vladimir Putin
-  - Bill Clinton
-  - Mao Zedong
-  - Deng Xiaoping
-  - Sal Khan
-companies_orgs:
-  - Tony Blair Institute
-  - OpenAI
-  - European Union
-  - CDC
-  - Khan Academy
-  - Five Eyes
-  - Labour Party
-products_models: []
-media_books: []
 status: evergreen
+summary: 英国前首相托尼·布莱尔在播客中探讨了政治领导人面临的独特挑战，尤其是在推动重大变革时的困境。他强调了从竞选者到首席执行官的角色转变、政府系统固有的惰性，以及在政策制定中将“抱负”转化为具体“政策”的重要性。布莱尔还深入分析了政府应对如AI革命和新冠疫情等危机的能力，并指出领导力质量对国家发展具有决定性影响，呼吁技术界人士参与政府变革。
+tags:
+- crisis-management
+- government
+- policy
+- political-leadership
+- technological
+title: 托尼·布莱尔：政治领导人为何屡屡在重大变革中失败？
 ---
+
 今天，我非常荣幸能与**托尼·布莱尔**（Tony Blair: 英国前首相，任期1997-2007年）对话。他现在领导着**托尼·布莱尔研究所**（Tony Blair Institute: 旨在为全球数十个政府提供治理、改革和技术应用建议的机构），为数十个国家的政府提供改善治理、推动改革和引入技术的建议。
 
 ### 政治领导的独特挑战

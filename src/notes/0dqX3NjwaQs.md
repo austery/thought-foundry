@@ -1,53 +1,51 @@
 ---
-author: Veritasium
-date: '2021-01-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=0dqX3NjwaQs
-speaker: Veritasium
-tags:
-  - veritasium
-  - youtube-career
-  - content-creation
-  - career-advice
-  - phd-experience
-  - audience-engagement
-title: Veritasium十年YouTube之路：回顾、问答与赠品
-summary: 知名科学教育YouTuber Veritasium（Derek Muller）回顾了他全职制作YouTube视频十年的历程。他分享了开启YouTube生涯的初衷、对高中生和大学生的职业建议、制作视频过程中遇到的挑战，以及攻读博士学位的经历。视频中还穿插了对观众问题的回答，并赠送了多件与他视频内容相关的物品，以感谢观众的支持。
-insight: ''
-draft: true
-series: ''
-category: career
 area: personal-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - Derek Muller
-  - Johnny Hyman
-  - Raquel
-  - Yvonne Tello
-  - Peter Lebedev
-  - Grant Lewis
-  - Alice
-  - Brady Haran
-  - Manjula Sharma
+category: career
 companies_orgs:
-  - YouTube
-  - TEDx
-  - University of Sydney
-products_models:
-  - Macbook Pro
-  - GoPro Hero4
-  - Snatoms expansion kit
-  - Penrose tiles
-  - Ames windows
-  - Salt lamp
-  - Platonic solids
+- YouTube
+- TEDx
+- University of Sydney
+date: '2021-01-07'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Hitchhiker's Guide to the Galaxy
+- The Hitchhiker's Guide to the Galaxy
+people:
+- Derek Muller
+- Johnny Hyman
+- Raquel
+- Yvonne Tello
+- Peter Lebedev
+- Grant Lewis
+- Alice
+- Brady Haran
+- Manjula Sharma
+products_models:
+- Macbook Pro
+- GoPro Hero4
+- Snatoms expansion kit
+- Penrose tiles
+- Ames windows
+- Salt lamp
+- Platonic solids
+project:
+- personal-growth-lab
+- entrepreneurship
+series: ''
+source: https://www.youtube.com/watch?v=0dqX3NjwaQs
+speaker: veritasium
 status: evergreen
+summary: 知名科学教育YouTuber Veritasium（Derek Muller）回顾了他全职制作YouTube视频十年的历程。他分享了开启YouTube生涯的初衷、对高中生和大学生的职业建议、制作视频过程中遇到的挑战，以及攻读博士学位的经历。视频中还穿插了对观众问题的回答，并赠送了多件与他视频内容相关的物品，以感谢观众的支持。
+tags:
+- career
+- content-creation
+- experience
+- society
+title: Veritasium十年YouTube之路：回顾、问答与赠品
 ---
+
 ### 庆祝十年YouTube生涯：问答与赠品
 
 截至今天，我全职制作YouTube视频已经十年了。

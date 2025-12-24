@@ -5,14 +5,12 @@ area: null
 category: null
 project: []
 tags:
-  - 以色列
-  - 伊朗
-  - 军事行动
-  - 纳尼亚行动
-people: []
+- history
+- iran
+- israel
+- 军事行动
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: 徒步的騎手
@@ -23,6 +21,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=kR6Dk10xWew
 ---
+
 ## 引言：《华尔街日报》的头版报道
 
 各位好。早晨起来读报，读到《华尔街日报》的头版报道“Inside Operation

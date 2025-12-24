@@ -1,42 +1,41 @@
 ---
-author: Veritasium
-date: '2020-10-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=pTn6Ewhb27k
-speaker: Veritasium
-tags:
-  - veritasium
-  - speed-of-light
-  - one-way-speed
-  - einstein-synchronization
-  - relativity
-  - simultaneity
-title: 为何我们从未真正测量过单向光速？
-summary: 本视频深入探讨了光速测量的一个鲜为人知的悖论：我们从未直接测量过单向光速，而其恒定性更多是基于爱因斯坦的同步约定，而非实验事实。文章解释了为何所有测量方法都只能得到光速的往返值，并探讨了这一概念对时钟同步和同时性理解的深远影响，揭示了宇宙中一个令人着迷的未解之谜。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Hippolyte Fizeau
-  - Albert Einstein
-  - Destin Sandlin
-  - Mark
+category: science
 companies_orgs:
-  - KiwiCo
-  - American Journal of Physics
-products_models:
-  - Koala Crates
-  - Infinity Mirror
+- KiwiCo
+- American Journal of Physics
+date: '2020-10-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - On the Electrodynamics of Moving Bodies
+- On the Electrodynamics of Moving Bodies
+people:
+- Hippolyte Fizeau
+- Albert Einstein
+- Destin Sandlin
+- Mark
+- einstein-synchronization
+products_models:
+- Koala Crates
+- Infinity Mirror
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=pTn6Ewhb27k
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了光速测量的一个鲜为人知的悖论：我们从未直接测量过单向光速，而其恒定性更多是基于爱因斯坦的同步约定，而非实验事实。文章解释了为何所有测量方法都只能得到光速的往返值，并探讨了这一概念对时钟同步和同时性理解的深远影响，揭示了宇宙中一个令人着迷的未解之谜。
+tags:
+- one-way-speed
+- science
+- simultaneity
+- speed-of-light
+title: 为何我们从未真正测量过单向光速？
 ---
+
 ### 引言：光速测量的悖论
 
 这段视频由KiwiCo赞助，更多信息将在节目末尾介绍。

@@ -1,47 +1,46 @@
 ---
-author: TED
+area: society-systems
+category: general
+companies_orgs:
+- Meta
+- OpenAI
+- xAI
+- Hugging Face
+- NASA
+- Rainforest Connection
+- Open Climate Fix
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sasha Luccioni
+products_models:
+- LLMs
+- ChatGPT
+- DeepSeek
+- Claude
+- Galileo models
+- SmolLM
+- Colossus
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Bl-vPf_IAoA
 speaker: TED
-tags:
-  - ai-sustainability
-  - large-language-models
-  - small-language-models
-  - energy-efficiency
-  - ai-governance
-title: AI发展误区：如何构建可持续且赋能人类的未来AI
-summary: 当前AI发展模式，尤其以大型语言模型（LLMs）为代表的“越大越好”理念，正导致巨大的资源消耗和环境破坏。本文揭示了大型科技公司在追求超人工智能过程中对地球和人类福祉的忽视，并倡导转向小型、高效、任务专用的AI模型。通过强调用户赋能、立法监管以及多元化的AI应用，文章呼吁共同塑造一个可持续、负责任且服务于全人类的AI未来，而非仅为少数营利性公司服务。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Sasha Luccioni
-companies_orgs:
-  - Meta
-  - OpenAI
-  - xAI
-  - Hugging Face
-  - NASA
-  - Rainforest Connection
-  - Open Climate Fix
-products_models:
-  - LLMs
-  - ChatGPT
-  - DeepSeek
-  - Claude
-  - Galileo models
-  - SmolLM
-  - Colossus
-media_books: []
 status: evergreen
+summary: 当前AI发展模式，尤其以大型语言模型（LLMs）为代表的“越大越好”理念，正导致巨大的资源消耗和环境破坏。本文揭示了大型科技公司在追求超人工智能过程中对地球和人类福祉的忽视，并倡导转向小型、高效、任务专用的AI模型。通过强调用户赋能、立法监管以及多元化的AI应用，文章呼吁共同塑造一个可持续、负责任且服务于全人类的AI未来，而非仅为少数营利性公司服务。
+tags:
+- ai-governance
+- energy
+- large-language-model
+- llm
+- model
+title: AI发展误区：如何构建可持续且赋能人类的未来AI
 ---
+
 ### AI的承诺与现实：我们正在犯的错误
 
 AI曾被承诺将彻底改变人类的未来，它能彻底改变科学、大幅提升生产力，甚至解决气候变化问题。

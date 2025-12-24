@@ -1,38 +1,34 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: science
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 林文鑫
+- 宋晏仁
+products_models:
+- TWK10
+- CP2305
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=NinXRqzvf5o
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - gut-microbiome
-  - muscle-recovery
-  - endurance-performance
-  - probiotics-benefits
-  - prebiotics
-title: 微生物免疫學家：益生菌如何助力肌肉恢復與耐力提升？
-summary: 微生物免疫學家林文鑫教授深入解析腸道菌群與肌肉健康的關聯。研究顯示，腸道菌能將膳食纖維分解為短鏈脂肪酸，抑制發炎、提升能量代謝並促進肌蛋白合成。特定菌株如Veillonella更能將乳酸轉化為丙酸，減少痠痛並增強耐力。文章探討了益生菌在降低體重體脂、減少肌肉損傷、提升最大攝氧量方面的潛在益處，並強調了蛋白質攝取、腸道健康、菌株選擇及劑量的重要性。同時，也對益生元、活菌與死菌、冷藏與包埋技術進行了詳細說明，並提供了不同人群選擇益生菌的建議，糾正了對益生菌效果的錯誤期待。
-insight: ''
-draft: true
-series: ''
-category: science
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 林文鑫
-  - 宋晏仁
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models:
-  - TWK10
-  - CP2305
-media_books: []
 status: evergreen
+summary: 微生物免疫學家林文鑫教授深入解析腸道菌群與肌肉健康的關聯。研究顯示，腸道菌能將膳食纖維分解為短鏈脂肪酸，抑制發炎、提升能量代謝並促進肌蛋白合成。特定菌株如Veillonella更能將乳酸轉化為丙酸，減少痠痛並增強耐力。文章探討了益生菌在降低體重體脂、減少肌肉損傷、提升最大攝氧量方面的潛在益處，並強調了蛋白質攝取、腸道健康、菌株選擇及劑量的重要性。同時，也對益生元、活菌與死菌、冷藏與包埋技術進行了詳細說明，並提供了不同人群選擇益生菌的建議，糾正了對益生菌效果的錯誤期待。
+tags:
+- health
+- performance
+title: 微生物免疫學家：益生菌如何助力肌肉恢復與耐力提升？
 ---
+
 ### 腸道菌群與肌肉健康的奧秘
 
 **宋晏仁醫師:** 為了增肌，我吃了好多蛋白質，但還是長不出肌肉，這是為什麼呢？問題可能出在腸道菌。研究發現，當我們吃下纖維時，腸道裡的菌會將其分解成**短鏈脂肪酸**（Short-chain fatty acids: 由腸道菌發酵膳食纖維產生的一類脂肪酸），例如**乙酸**（Acetate）、**丙酸**（Propionate）、**丁酸**（Butyrate）。這些分子不只是腸道的養分，它更能抑制發炎、提升**粒腺體**（Mitochondria: 細胞的能量工廠）的能量代謝，甚至促進**肌蛋白**（Muscle protein: 構成肌肉的主要蛋白質）的合成，讓肌肉恢復得更快，持續變強。

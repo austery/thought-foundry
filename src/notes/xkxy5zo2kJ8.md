@@ -1,34 +1,32 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- United States
 date: '2024-03-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- MacArthur
+- Prime Minister Yoshida
+products_models: []
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=xkxy5zo2kJ8
 speaker: Dwarkesh Patel
-tags:
-  - nation-building
-  - post-war-reconstruction
-  - geopolitics
-  - institutional-reform
-  - national-identity
-title: 战后重建的对比：日本、德国与阿富汗、伊拉克
-summary: 该讲稿对比了二战后美国在**日本**和**德国**的占领与重建的成功，以及在**阿富汗**和**伊拉克**的失败。核心原因在于前两国拥有发达的工业基础、健全的机构和强烈的民族认同，而后者则缺乏这些条件，并面临内部冲突和外部干预的挑战。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-people:
-  - MacArthur
-  - Prime Minister Yoshida
-companies_orgs:
-  - United States
-products_models: []
-media_books: []
 status: evergreen
+summary: 该讲稿对比了二战后美国在**日本**和**德国**的占领与重建的成功，以及在**阿富汗**和**伊拉克**的失败。核心原因在于前两国拥有发达的工业基础、健全的机构和强烈的民族认同，而后者则缺乏这些条件，并面临内部冲突和外部干预的挑战。
+tags:
+- nation-building
+- national-identity
+- reform
+- war
+title: 战后重建的对比：日本、德国与阿富汗、伊拉克
 ---
+
 ### 重建对比
 After **World War II**, our occupations of **Japan** and **Germany** were very successful in rooting out the toxic ideologies and completely **transforming the society and culture**. Whereas, you know, **Afghanistan** and **Iraq**, we didn't have the same effect. What explains why those occupations were so much more successful? One is a case of **rebuilding institutions**, and the other one is **building them from scratch**. You can rebuild things rapidly. And if you think of after the war, how things were bombed out, and when **Western Europe**, and quite rapidly, they repaired buildings and things. So both **Germany** and **Japan** had an extensive list of **functioning institutions**, from local police officers' offices to educational systems to governments, local, provincial, etc., governments, and running the train systems and businesses, and all of this had been absolutely functional. And so finding the expertise to create that is easy. And of course, Germans and Japanese were living there, so they are very interested in rebuilding.
 

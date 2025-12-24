@@ -1,24 +1,6 @@
 ---
-title: 金融泡沫的隐藏模式：从郁金香狂热到加密货币的400年教训
-summary: 本文深入探讨了历史上多次著名的金融泡沫，从17世纪的郁金香狂热到21世纪的加密货币泡沫，揭示了贯穿其中的共同模式：人类的投机心理、对新技术的狂热追捧以及监管的滞后。通过回顾密西西比泡沫、南海泡沫、铁路狂热、大萧条、日本资产泡沫、亚洲金融危机、互联网泡沫和2008年房地产危机，文章强调了历史教训的反复出现，警示投资者和政策制定者警惕过度杠杆和非理性繁荣。
 area: market-analysis
 category: finance
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
-- personal-growth-lab
-tags:
-- economic-crises
-- financial-bubbles
-- market-psychology
-- regulatory-failures
-- speculation
-people:
-- Isaac Newton
-- John Law
-- Sam Bankman-Fried
-- adam-s-axiom
 companies_orgs:
 - Amazon
 - FTX
@@ -28,21 +10,38 @@ companies_orgs:
 - Pets.com
 - Qualcomm
 - South Sea Company
-products_models:
-- Bitcoin
-- NFTs
-media_books: []
 date: '2025-01-10'
-author: Adam's Axiom
-speaker: Adam's Axiom
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- Isaac Newton
+- John Law
+- Sam Bankman-Fried
+- adam-s-axiom
+products_models:
+- Bitcoin
+- NFTs
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=LQ0S_IPUOrM
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了历史上多次著名的金融泡沫，从17世纪的郁金香狂热到21世纪的加密货币泡沫，揭示了贯穿其中的共同模式：人类的投机心理、对新技术的狂热追捧以及监管的滞后。通过回顾密西西比泡沫、南海泡沫、铁路狂热、大萧条、日本资产泡沫、亚洲金融危机、互联网泡沫和2008年房地产危机，文章强调了历史教训的反复出现，警示投资者和政策制定者警惕过度杠杆和非理性繁荣。
+tags:
+- economic
+- failure
+- financial
+- investment
+- market-psychology
+title: 金融泡沫的隐藏模式：从郁金香狂热到加密货币的400年教训
 ---
+
 ### 郁金香狂热：史上首次有记录的金融泡沫
 
 想象一下，你把一套豪宅的钱花在一朵花上。欢迎来到17世纪30年代的荷兰，郁金香在这里成为了世界上第一个有记录的金融泡沫，并给我们留下了关于市场心理的教训，而我们至今仍在忽视这些教训。这些异国情调的土耳其进口花卉在富人中已经很受欢迎，但当一种病毒导致花瓣出现稀有颜色图案时，它们便成为了终极的地位象征。率先开创现代银行业和股票市场的荷兰人，即将被花朵所颠覆。

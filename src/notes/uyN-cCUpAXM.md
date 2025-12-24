@@ -1,50 +1,49 @@
 ---
-author: 徒步的騎手
-date: 2025-10-28
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=uyN-cCUpAXM'
-speaker: 徒步的騎手
-tags:
-  - healthcare-corruption
-  - whistleblower-system
-  - anti-kickback-law
-  - opioid-crisis
-  - medical-fraud
-title: 美国医药行业腐败链：从医生变“绝命毒师”到吹哨人制度的胜利
-summary: 本期节目深入探讨美国医药行业的灰色地带，揭露部分医生和药厂如何通过非法回扣和医疗欺诈，将芬太尼等处方药变为毒品。重点讲述了阮秀璐医生和约翰·考奇医生与英西斯、加莱纳药厂的腐败案例，以及他们如何利用讲座费和股票交易进行变相回扣。节目还详细阐述了美国反回扣法和《虚假申报法》中吹哨人制度在打击医疗腐败中的关键作用，通过玛丽亚·古兹曼和迈克尔·鲍德尼亚克的案例，展现了吹哨人如何推动司法公正并获得巨额赔偿。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - John Koch
-  - 阮秀璐
-  - Natalie Perhex
-  - John Koppel
-  - Michael Babich
-  - Maria Guzman
-  - Michael Bodniak
+category: geopolitics
 companies_orgs:
-  - Insys Therapeutics
-  - Galena
-  - Biogen
-  - Drug Enforcement Administration
-  - Federal Bureau of Investigation
-  - 美国司法部
-  - Taxpayers Against Fraud Coalition
-products_models:
-  - Subsys
-  - Abstral
-  - Fentanyl
+- Insys Therapeutics
+- Galena
+- Biogen
+- Drug Enforcement Administration
+- Federal Bureau of Investigation
+- 美国司法部
+- Taxpayers Against Fraud Coalition
+date: 2025-10-28
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《华尔街日报》
+- 《华尔街日报》
+people:
+- John Koch
+- 阮秀璐
+- Natalie Perhex
+- John Koppel
+- Michael Babich
+- Maria Guzman
+- Michael Bodniak
+products_models:
+- Subsys
+- Abstral
+- Fentanyl
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=uyN-cCUpAXM
+speaker: 徒步的騎手
 status: evergreen
+summary: 本期节目深入探讨美国医药行业的灰色地带，揭露部分医生和药厂如何通过非法回扣和医疗欺诈，将芬太尼等处方药变为毒品。重点讲述了阮秀璐医生和约翰·考奇医生与英西斯、加莱纳药厂的腐败案例，以及他们如何利用讲座费和股票交易进行变相回扣。节目还详细阐述了美国反回扣法和《虚假申报法》中吹哨人制度在打击医疗腐败中的关键作用，通过玛丽亚·古兹曼和迈克尔·鲍德尼亚克的案例，展现了吹哨人如何推动司法公正并获得巨额赔偿。
+tags:
+- crisis
+- health
+- law
+- medical
+- system
+title: 美国医药行业腐败链：从医生变“绝命毒师”到吹哨人制度的胜利
 ---
 
 ### 美国医药行业的灰色地带：合法芬太尼的腐败链

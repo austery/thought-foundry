@@ -1,34 +1,36 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Minimax
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Olive Song
+products_models:
+- Minimax M2
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=lY1iFbDPRlw
 speaker: AI Engineer
-tags:
-  - minimax-m2
-  - ai-model
-  - coding-assistant
-  - agentic-ai
-  - open-weight
-title: Minimax M2：专为编码与智能体任务打造的高效AI模型
-summary: 本文介绍了 Minimax 公司推出的全新 AI 模型 Minimax M2。该模型拥有 100 亿活跃参数，专为编码和智能体任务优化，具备高成本效益。M2 在各项基准测试中表现出色，并在开源社区中获得广泛下载和积极反馈。文章深入探讨了 M2 的核心技术优势，包括通过规模化环境与专家反馈提升编码能力、利用交错式思维处理长时序任务、通过扰动流水线实现强大的泛化能力，以及其小巧体积带来的多智能体可扩展性。Minimax 展望了 M2 的未来发展，并强调了其致力于为社区构建和分享先进 AI 模型的使命。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Olive Song
-companies_orgs:
-  - Minimax
-products_models:
-  - Minimax M2
-media_books: []
 status: evergreen
+summary: 本文介绍了 Minimax 公司推出的全新 AI 模型 Minimax M2。该模型拥有 100 亿活跃参数，专为编码和智能体任务优化，具备高成本效益。M2
+  在各项基准测试中表现出色，并在开源社区中获得广泛下载和积极反馈。文章深入探讨了 M2 的核心技术优势，包括通过规模化环境与专家反馈提升编码能力、利用交错式思维处理长时序任务、通过扰动流水线实现强大的泛化能力，以及其小巧体积带来的多智能体可扩展性。Minimax
+  展望了 M2 的未来发展，并强调了其致力于为社区构建和分享先进 AI 模型的使命。
+tags:
+- agentic-ai
+- ai-model
+- coding-assistant
+- minimax-m2
+- open-weight
+title: Minimax M2：专为编码与智能体任务打造的高效AI模型
 ---
+
 ### Minimax M2：一款革命性的 AI 模型
 
 大家好，我是 Olive。今天非常荣幸能向大家介绍我们的新模型 Minimax M2。我曾在纽约市生活了六年，很高兴能回到这里，尽管角色有所不同。我目前在 Minimax 从事强化学习（Reinforcement Learning: 一种通过试错和奖励/惩罚来学习的机器学习方法）和模型评估的研究。

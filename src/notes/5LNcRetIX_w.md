@@ -1,54 +1,53 @@
 ---
-author: 郭里有范
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 韩国国会
+- 检察厅
+- 法务部
+- 行政安全部
+- 首尔地方法院
+- 首尔中央地检
+- 共同民主党
+- 国民力量党
+- 检察审查会
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 卢武铉
+- 李在明
+- 尹锡悦
+- 金建希
+- 全斗焕
+- 卢泰愚
+- 金泳三
+- 金贤哲
+- 李明博
+- 朴槿惠
+- 小泽一郎
+- 金大中
+- 文在寅
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5LNcRetIX_w
 speaker: 郭里有范
-tags:
-  - korean-prosecution-reform
-  - political-power
-  - judicial-independence
-  - presidential-downfall
-  - democratic-transition
-title: 韩国检察系统权力沉浮：从国民英雄到被“宣判死刑”的78年变革之路
-summary: 本文深入探讨了韩国检察系统从建国初期获得畸形权力，到成为“国民英雄”，再到因政治干预和选择性执法而信誉扫地，最终在2025年被立法分拆的78年历史。文章分析了“查诉一体”和“起诉不受监督”两大特权如何塑造了韩国检察官的独特地位，并通过卢武铉跳崖、尹锡悦执政等关键事件，揭示了检察系统权力滥用对韩国政治生态的深远影响。最终，李在明政府推动的改革能否终结“青瓦台魔咒”，为韩国带来真正的司法公正，仍是未知数。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 卢武铉
-  - 李在明
-  - 尹锡悦
-  - 金建希
-  - 全斗焕
-  - 卢泰愚
-  - 金泳三
-  - 金贤哲
-  - 李明博
-  - 朴槿惠
-  - 小泽一郎
-  - 金大中
-  - 文在寅
-companies_orgs:
-  - 韩国国会
-  - 检察厅
-  - 法务部
-  - 行政安全部
-  - 首尔地方法院
-  - 首尔中央地检
-  - 共同民主党
-  - 国民力量党
-  - 检察审查会
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了韩国检察系统从建国初期获得畸形权力，到成为“国民英雄”，再到因政治干预和选择性执法而信誉扫地，最终在2025年被立法分拆的78年历史。文章分析了“查诉一体”和“起诉不受监督”两大特权如何塑造了韩国检察官的独特地位，并通过卢武铉跳崖、尹锡悦执政等关键事件，揭示了检察系统权力滥用对韩国政治生态的深远影响。最终，李在明政府推动的改革能否终结“青瓦台魔咒”，为韩国带来真正的司法公正，仍是未知数。
+tags:
+- canada
+- democratic
+- judicial-independence
+- political
+- reform
+title: 韩国检察系统权力沉浮：从国民英雄到被“宣判死刑”的78年变革之路
 ---
+
 ### 韩国检察系统的权力怪兽与青瓦台魔咒
 
 韩国的检察官们曾将五位前总统送上法庭，这样的“英雄”形象为何在二十年间逐渐崩塌？废除检察厅，李在明凭什么能完成前几任总统想做却未能成功的事？拆解检察厅，韩国的**青瓦台魔咒**（Blue House Curse: 韩国总统大多没有善终或被清算的现象）就能终结吗？这对韩国的未来是好是坏？今天我们就来聊聊这些话题。

@@ -1,39 +1,37 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 加拿大公园管理局
+- 费尔蒙班夫温泉酒店
+- Roam Transit
+- 诺奎山缆车
+- 班夫缆车
+- 阳光山村
 date: '2023-07-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Super Pass
+- Adirondack Deck Chairs
+project:
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=fLONEYM5Aj8
 speaker: 莊也雜談
-tags:
-  - banff-national-park
-  - canadian-rockies
-  - travel-guide
-  - outdoor-activities
-  - red-chair-program
-title: 班夫美景深度游（一）：小镇及周边景点全攻略
-summary: 本期节目是庄野杂谈加拿大系列中班夫专题的第四集，深入探讨了加拿大洛基山世界遗产公园中班夫镇及其周边的众多景点。内容涵盖了班夫镇内的徒步路线、历史遗迹、温泉酒店，以及硫磺山、隧道山、明尼万卡湖和阳光山村等著名景点的详细介绍。节目不仅提供了交通、停车、门票等实用信息，还分享了作者对每个景点的推荐指数，并特别介绍了加拿大国家公园的“红椅子”寻宝活动，为游客提供了全面的班夫旅行指南。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - historical-insights
-people: []
-companies_orgs:
-  - 加拿大公园管理局
-  - 费尔蒙班夫温泉酒店
-  - Roam Transit
-  - 诺奎山缆车
-  - 班夫缆车
-  - 阳光山村
-products_models:
-  - Super Pass
-  - Adirondack Deck Chairs
-media_books: []
 status: evergreen
+summary: 本期节目是庄野杂谈加拿大系列中班夫专题的第四集，深入探讨了加拿大洛基山世界遗产公园中班夫镇及其周边的众多景点。内容涵盖了班夫镇内的徒步路线、历史遗迹、温泉酒店，以及硫磺山、隧道山、明尼万卡湖和阳光山村等著名景点的详细介绍。节目不仅提供了交通、停车、门票等实用信息，还分享了作者对每个景点的推荐指数，并特别介绍了加拿大国家公园的“红椅子”寻宝活动，为游客提供了全面的班夫旅行指南。
+tags:
+- canadian-rocky
+- llm
+- national
+- outdoor-activity
+- travel
+title: 班夫美景深度游（一）：小镇及周边景点全攻略
 ---
+
 ### 班夫系列前瞻与安全提示
 
 大家好，我是庄野，欢迎收看庄野杂谈加拿大系列节目。今天我们继续聊班夫，这是班夫系列的第四集，也是庄野杂谈的第145集。如果您还没有看过班夫系列的前三集（庄杂141、142和143），我建议您最好先回顾一下，再观看今天的节目会感觉比较流畅。

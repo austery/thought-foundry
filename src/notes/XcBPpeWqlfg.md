@@ -1,36 +1,35 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Wharton School
+- Norges Bank Investment Management
+- Enron
 date: '2025-05-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Erika H. James
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=XcBPpeWqlfg
 speaker: Norges Bank Investment Management
-tags:
-  - crisis-management
-  - organizational-resilience
-  - leadership-development
-  - business-strategy
-  - learning-from-crisis
-title: 危机领导力：从灾难中崛起，构建韧性文化
-summary: 沃顿商学院院长Erika H. James探讨了组织在危机中如何生存并变得更强。她回顾了2000年互联网泡沫破裂和安然事件，强调了区分突发危机和潜在危机的必要性。文章详细阐述了危机领导力的五个阶段：关注信号、准备、响应、恢复和学习，旨在帮助领导者构建一个能够从逆境中学习并创新的韧性组织文化。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Erika H. James
-companies_orgs:
-  - Wharton School
-  - Norges Bank Investment Management
-  - Enron
-products_models: []
-media_books: []
 status: evergreen
+summary: 沃顿商学院院长Erika H. James探讨了组织在危机中如何生存并变得更强。她回顾了2000年互联网泡沫破裂和安然事件，强调了区分突发危机和潜在危机的必要性。文章详细阐述了危机领导力的五个阶段：关注信号、准备、响应、恢复和学习，旨在帮助领导者构建一个能够从逆境中学习并创新的韧性组织文化。
+tags:
+- business-strategy
+- crisis
+- crisis-management
+- leadership-development
+- organizational-resilience
+title: 危机领导力：从灾难中崛起，构建韧性文化
 ---
+
 ### 历史的教训：互联网泡沫与安然事件
 
 回想1999年到2000年，在美国发生了一些非常有趣的事情。

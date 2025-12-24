@@ -1,56 +1,56 @@
 ---
-author: Money & Macro
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- AT&T
+- Verizon
+- T-Mobile
+- Ifo institute
+- Economic Innovation Group
+- Stanford
+- Upwork
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money & Macro
+- The Last Economy
+- Financial Times
+people:
+- Donald Trump
+- Erik Brynjolfsson
+- Bharat Chander
+- Raju Chen
+- Paul Krugman
+- Henley Wing Chiu
+products_models:
+- Gemini Flash
+- ChatGPT
+- GPT
+- Midjourney
+- DALL E
+- Cape
+project:
+- us-analysis
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=2MfQ2KCIUWo
 speaker: Money & Macro
-tags:
-  - job-market
-  - unemployment-rates
-  - ai-impact
-  - policy-uncertainty
-  - economic-cycles
-title: 为什么现在找工作如此艰难？AI、政策不确定性与疫情经济的终结
-summary: 近年来，全球就业市场面临严峻挑战，尤其对年轻人而言。本文深入探讨了导致当前就业困难的三大主要原因：人工智能（AI）对特定行业和初级岗位的冲击，全球政策不确定性（特别是贸易政策），以及新冠疫情时期经济刺激措施的逐步退出。尽管AI和地缘政治因素有所影响，但历史数据表明，当前就业市场的变化更多是回归疫情前“常态”的结果。文章还对未来就业趋势进行了展望，认为地缘政治不确定性加剧、AI初期导致失业以及政府刺激措施减少将使就业市场短期内难以显著改善。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Donald Trump
-  - Erik Brynjolfsson
-  - Bharat Chander
-  - Raju Chen
-  - Paul Krugman
-  - Henley Wing Chiu
-companies_orgs:
-  - Google
-  - AT&T
-  - Verizon
-  - T-Mobile
-  - Ifo institute
-  - Economic Innovation Group
-  - Stanford
-  - Upwork
-products_models:
-  - Gemini Flash
-  - ChatGPT
-  - GPT
-  - Midjourney
-  - DALL E
-  - Cape
-media_books:
-  - Money & Macro
-  - The Last Economy
-  - Financial Times
 status: evergreen
+summary: 近年来，全球就业市场面临严峻挑战，尤其对年轻人而言。本文深入探讨了导致当前就业困难的三大主要原因：人工智能（AI）对特定行业和初级岗位的冲击，全球政策不确定性（特别是贸易政策），以及新冠疫情时期经济刺激措施的逐步退出。尽管AI和地缘政治因素有所影响，但历史数据表明，当前就业市场的变化更多是回归疫情前“常态”的结果。文章还对未来就业趋势进行了展望，认为地缘政治不确定性加剧、AI初期导致失业以及政府刺激措施减少将使就业市场短期内难以显著改善。
+tags:
+- ai-impact
+- economic-cycle
+- market
+- policy
+- rate
+title: 为什么现在找工作如此艰难？AI、政策不确定性与疫情经济的终结
 ---
+
 ### 当前就业市场：年轻人面临的挑战
 
 我们将会失业。

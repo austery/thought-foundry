@@ -1,72 +1,72 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 奥斯卡评委会
 date: '2025-01-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- IMDb
+- 谷歌
+- asian-cinema
+people:
+- 张内咸
+- Ridley Scott
+- 贾玲
+- 周星驰
+- 张柏芝
+- David Lynch
+- 中岛哲也
+- 是枝裕和
+- 许鞍华
+products_models:
+- 《角斗士2》
+- 《姥姥的外孙》
+- 《情书》
+- 《忠犬八公》
+- 《在世界中心呼唤爱》
+- 《比悲伤更悲伤的故事》
+- 《星愿》
+- 《大话西游》
+- 《喜剧之王》
+- 《你好 李焕英》
+- 《死亡诗社》
+- 《象人》
+- 《金福南杀人事件始末》
+- 《天才枪手》
+- 《一次别离》
+- 《十面埋伏》
+- 《无极》
+- 《满城尽戴黄金甲》
+- 《梅兰芳》
+- 《唐山大地震》
+- 《金陵十三钗》
+- 《一九四二》
+- 《大唐玄奘》
+- 《战狼2》
+- 《夺冠》
+- 《悬崖之上》
+- 《流浪地球》
+- 《哪吒之魔童降世》
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=O0hywHkhXDo
 speaker: 張内咸
-tags:
-  - asian-cinema
-  - family-values
-  - gender-inequality
-  - filial-piety
-  - cultural-output
-title: 从泰国电影《姥姥的外孙》看亚洲“催泪弹”文化与中国传统家庭价值观的冲突
-summary: 本文以泰国电影《姥姥的外孙》为例，深入探讨了亚洲特有的“催泪弹”电影类型及其背后反映的中国传统家庭价值观。影片通过遗产争夺的故事，揭示了华人社会中重男轻女、孝道异化以及对死亡的独特理解。作者对比了中西方电影美学与情感表达的差异，并反思了中国电影在文化输出方面的困境，呼吁更多关注普通人的生活故事。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - 张内咸
-  - Ridley Scott
-  - 贾玲
-  - 周星驰
-  - 张柏芝
-  - David Lynch
-  - 中岛哲也
-  - 是枝裕和
-  - 许鞍华
-companies_orgs:
-  - 奥斯卡评委会
-products_models:
-  - 《角斗士2》
-  - 《姥姥的外孙》
-  - 《情书》
-  - 《忠犬八公》
-  - 《在世界中心呼唤爱》
-  - 《比悲伤更悲伤的故事》
-  - 《星愿》
-  - 《大话西游》
-  - 《喜剧之王》
-  - 《你好 李焕英》
-  - 《死亡诗社》
-  - 《象人》
-  - 《金福南杀人事件始末》
-  - 《天才枪手》
-  - 《一次别离》
-  - 《十面埋伏》
-  - 《无极》
-  - 《满城尽戴黄金甲》
-  - 《梅兰芳》
-  - 《唐山大地震》
-  - 《金陵十三钗》
-  - 《一九四二》
-  - 《大唐玄奘》
-  - 《战狼2》
-  - 《夺冠》
-  - 《悬崖之上》
-  - 《流浪地球》
-  - 《哪吒之魔童降世》
-media_books:
-  - IMDb
-  - 谷歌
 status: evergreen
+summary: 本文以泰国电影《姥姥的外孙》为例，深入探讨了亚洲特有的“催泪弹”电影类型及其背后反映的中国传统家庭价值观。影片通过遗产争夺的故事，揭示了华人社会中重男轻女、孝道异化以及对死亡的独特理解。作者对比了中西方电影美学与情感表达的差异，并反思了中国电影在文化输出方面的困境，呼吁更多关注普通人的生活故事。
+tags:
+- cultural
+- filial-piety
+- gender-inequality
+- value
+title: 从泰国电影《姥姥的外孙》看亚洲“催泪弹”文化与中国传统家庭价值观的冲突
 ---
+
 ### 引言：一部泰国小众电影带来的文化冲击
 
 去年我观看了大约20多场电影，其中印象最深的并非雷德利·斯科特的《角斗士2》这类大制作，反而是泰国小众电影《姥姥的外孙》。这部电影口碑极佳，在中国电影市场雪崩的一年里，最终票房过亿，成绩斐然。它在东南亚及其他地区的票房表现更是惊人，当时国内宣传称其为“泰国电影票房冠军”，并在新加坡、马来西亚等地打破了票房纪录。

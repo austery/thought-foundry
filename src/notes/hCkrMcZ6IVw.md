@@ -1,31 +1,30 @@
 ---
-title: 两个法庭，一个王座：特朗普与拜登的2024背负之战
-summary: 2024年，美国两位总统候选人特朗普和拜登各自在法庭上面临严峻挑战。特朗普深陷财务欺诈与“封口费”案，而拜登则为儿子亨特的枪支重罪审判焦虑。法律困境与政治对决交织，他们的个人命运与国家领导权之争，正以残酷而真实的方式上演。
 area: market-analysis
 category: geopolitics
-project:
-- us-analysis
-tags:
-- hunter-biden-trial
-- political-legal-challenge
-- us-election-2024
-people:
-- donald-trump
-- joe-biden
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-11'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- donald-trump
+- joe-biden
+- hunter-biden-trial
+products_models: []
+project:
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=hCkrMcZ6IVw
+speaker: 北美王路飞
 status: evergreen
+summary: 2024年，美国两位总统候选人特朗普和拜登各自在法庭上面临严峻挑战。特朗普深陷财务欺诈与“封口费”案，而拜登则为儿子亨特的枪支重罪审判焦虑。法律困境与政治对决交织，他们的个人命运与国家领导权之争，正以残酷而真实的方式上演。
+tags:
+- political
+- us-election-2024
+title: 两个法庭，一个王座：特朗普与拜登的2024背负之战
 ---
+
 ### 2024年：法庭上的政治对决
 
 2024年的春天，美国政治的核心舞台并非白宫或国会山，而是两个相距不到200公里的法庭。在纽约，一位前总统兼未来的总统候选人唐纳德·特朗普，正面临一场可能让他倾家荡产的审判。而在特拉华州，现任总统乔·拜登的独子亨特·拜登也身陷囹圄。这不仅仅是简单的法律案件，更是两个家庭、两种命运的公开对决，同时也是两位七八十岁的老人在争夺世界最强国家领导权的终极赛道上，各自背负的沉重十字架。

@@ -1,45 +1,45 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 四川大学
+- 华西医院
+- 《南方人物周刊》
 date: '2025-08-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《万物静默如谜》
+- 《达芬奇的笔记本》
+people:
+- 池晓
+- 托尼里特尔
+- 林徽因
+- 梁思成
+- 祖悦
+- 小丁
+- 瓶子老师
+products_models: []
+project:
+- historical-insights
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=GQxtVbZgSII
 speaker: 一席YiXi
-tags:
-  - game-based-learning
-  - intrinsic-motivation
-  - adolescent-development
-  - education-reform
-  - mental-health-awareness
-title: 活着就好：在游戏与创造中寻找孩子的天命
-summary: 池晓分享其创办‘钥匙玩校’与‘好奇学习社区’的教育实践，强调通过游戏化学习、跨学科项目和真实行动帮助青少年找回内在驱动力，并呼吁家长放弃功利化教育，以‘活着就好’为根本信念守护孩子的身心健康。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - 池晓
-  - 托尼里特尔
-  - 林徽因
-  - 梁思成
-  - 祖悦
-  - 小丁
-  - 瓶子老师
-companies_orgs:
-  - 四川大学
-  - 华西医院
-  - 《南方人物周刊》
-products_models: []
-media_books:
-  - 《万物静默如谜》
-  - 《达芬奇的笔记本》
 status: evergreen
+summary: 池晓分享其创办‘钥匙玩校’与‘好奇学习社区’的教育实践，强调通过游戏化学习、跨学科项目和真实行动帮助青少年找回内在驱动力，并呼吁家长放弃功利化教育，以‘活着就好’为根本信念守护孩子的身心健康。
+tags:
+- development
+- education-reform
+- learning
+- mental-health-awareness
+- psychology
+title: 活着就好：在游戏与创造中寻找孩子的天命
 ---
+
 ### 在游戏里找到人生的方向
 
 大家好，我是池晓。我是好奇学习社区和钥匙玩校的创办人。我们为9至18岁的青少年设计非传统的教育体验，试图帮他们找到一条不同于传统升学路径的“另一条路”——一种能让他们像被雷劈中一样，突然意识到自己人生方向的体验。

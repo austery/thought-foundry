@@ -1,39 +1,36 @@
 ---
-author: 徒步的騎手
-date: 2025-07-02
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=6PTdwPeBe4g'
-speaker: 徒步的騎手
-tags:
-  - us-politics
-  - political-rivalry
-  - government-subsidies
-  - campaign-finance
-  - political-polarization
-title: 马斯克与特朗普的政治角力：从亲密盟友到公开对峙
-summary: 本文深入探讨了埃隆·马斯克与唐纳德·特朗普之间从蜜月期到公开骂战的政治演变。从马斯克对特朗普竞选的巨额资助，到因政府职位和商业利益未获满足而产生的失望，再到对特朗普预算案的激烈抨击，以及两人升级至人身攻击的言语交锋。文章分析了这场冲突背后理念与利益交织的复杂性，以及对马斯克商业帝国和美国政治格局的潜在影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Elon Musk
-  - Mike Pence
-  - Steve Bannon
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - Tesla
-  - SpaceX
-  - OpenAI
-  - NASA
-products_models: '[]'
+- Tesla
+- SpaceX
+- OpenAI
+- NASA
+date: 2025-07-02
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Donald Trump
+- Elon Musk
+- Mike Pence
+- Steve Bannon
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=6PTdwPeBe4g
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了埃隆·马斯克与唐纳德·特朗普之间从蜜月期到公开骂战的政治演变。从马斯克对特朗普竞选的巨额资助，到因政府职位和商业利益未获满足而产生的失望，再到对特朗普预算案的激烈抨击，以及两人升级至人身攻击的言语交锋。文章分析了这场冲突背后理念与利益交织的复杂性，以及对马斯克商业帝国和美国政治格局的潜在影响。
+tags:
+- finance
+- government
+- political
+title: 马斯克与特朗普的政治角力：从亲密盟友到公开对峙
 ---
 
 ### 马斯克与特朗普：从政界新人到公开对峙

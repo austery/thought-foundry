@@ -1,46 +1,45 @@
 ---
-author: Veritasium
-date: '2025-01-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=H6q6pYZ9Fho
-speaker: Veritasium
-tags:
-  - veritasium
-  - micro-robotics
-  - biomimicry
-  - surface-tension
-  - robot-propulsion
-  - miniaturization
-title: MIT为何研发仿生机器人昆虫？微型机器人的挑战与未来
-summary: 麻省理工学院（MIT）的科学家们正在研发各种微型机器人，其尺寸小至昆虫，能够飞行、游泳或跳跃。这些机器人面临着表面张力、能量供应和微型化等独特挑战。文章探讨了压电晶体和软聚合物等不同的驱动机制，以及微型内燃机在提供动力方面的潜力。同时，也讨论了这些机器人未来在涡轮机检查、灾难搜救等领域的应用前景，并审视了其可能引发的伦理担忧，强调了科学研究背后的好奇心驱动。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Kevin Chen
-  - Henry
-  - Cameron
+category: technology
 companies_orgs:
-  - MIT
-  - Harvard
-  - City University of Hong Kong
-  - Rolls-Royce
-  - Amazon Web Services
-products_models:
-  - RoboBees
-  - HAMR
-  - Onshape
+- MIT
+- Harvard
+- City University of Hong Kong
+- Rolls-Royce
+- Amazon Web Services
+date: '2025-01-21'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Dune
-  - Black Mirror
+- Dune
+- Black Mirror
+people:
+- Kevin Chen
+- Henry
+- Cameron
+products_models:
+- RoboBees
+- HAMR
+- Onshape
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=H6q6pYZ9Fho
+speaker: veritasium
 status: evergreen
+summary: 麻省理工学院（MIT）的科学家们正在研发各种微型机器人，其尺寸小至昆虫，能够飞行、游泳或跳跃。这些机器人面临着表面张力、能量供应和微型化等独特挑战。文章探讨了压电晶体和软聚合物等不同的驱动机制，以及微型内燃机在提供动力方面的潜力。同时，也讨论了这些机器人未来在涡轮机检查、灾难搜救等领域的应用前景，并审视了其可能引发的伦理担忧，强调了科学研究背后的好奇心驱动。
+tags:
+- health
+- micro-robotic
+- miniaturization
+- surface-tension
+- technology
+title: MIT为何研发仿生机器人昆虫？微型机器人的挑战与未来
 ---
+
 ### 微型机器人的奇妙世界与物理挑战
 
 世界上有蜜蜂大小的机器人，有能在水上跳跃的机器人，还有一些由硬币大小的微型内燃机驱动的机器人。

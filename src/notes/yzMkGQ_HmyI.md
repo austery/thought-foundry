@@ -1,45 +1,44 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- Amazon
+- Meta
+- Microsoft
+- Google
+- 美国劳工部
+- 美国劳工统计局
+- 高盛
+- TSMC
+- Intel
 date: '2025-08-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Jerome Powell
+- Joe Biden
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=yzMkGQ_HmyI
 speaker: Shanghao Jin
-tags:
-  - ai-investment
-  - economic-data-revision
-  - us-tariffs
-  - fed-monetary-policy
-  - market-outlook
-title: 2025年8月市场展望：AI驱动增长、经济数据调整与美联储降息前景
-summary: 本周市场概述聚焦两大核心议题：一方面，大型科技公司，特别是AI相关企业的财报表现强劲，持续展现出AI投资带来的生产力提升，并为进一步的资本支出提供了依据。另一方面，美国经济数据，包括非农就业的调整以及关税的影响，预示着经济基本面正在走弱，预计第三、第四季度将面临挑战。尽管经济面临逆风，市场对大型科技股的信心依然坚挺。美联储预计将根据恶化的经济数据而非政治压力考虑降息，9月份降息25个基点的可能性较大。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Joe Biden
-companies_orgs:
-  - Amazon
-  - Meta
-  - Microsoft
-  - Google
-  - 美国劳工部
-  - 美国劳工统计局
-  - 高盛
-  - TSMC
-  - Intel
-products_models: []
-media_books: []
 status: evergreen
+summary: 本周市场概述聚焦两大核心议题：一方面，大型科技公司，特别是AI相关企业的财报表现强劲，持续展现出AI投资带来的生产力提升，并为进一步的资本支出提供了依据。另一方面，美国经济数据，包括非农就业的调整以及关税的影响，预示着经济基本面正在走弱，预计第三、第四季度将面临挑战。尽管经济面临逆风，市场对大型科技股的信心依然坚挺。美联储预计将根据恶化的经济数据而非政治压力考虑降息，9月份降息25个基点的可能性较大。
+tags:
+- ai-investment
+- economic
+- fed-monetary-policy
+- market-outlook
+- us-tariff
+title: 2025年8月市场展望：AI驱动增长、经济数据调整与美联储降息前景
 ---
+
 ### 市场回顾与AI驱动的科技巨头业绩
 
 上一周我们没有深入探讨市场情况，而是进行了一次问答环节。未来我可能会每月进行一次问答，因为宏观市场并非每周都会有巨大的变化。上周有两方面内容特别重要。首先是**大规模公司财报**（earnings）。虽然这里没有贴图，但大型公司的财报传递了一个明确的信息：它们持续投资并获得收益，然后进行更大规模的投资。这种我们称之为**正向循环**（positive feedback loop）的模式并未被打断。

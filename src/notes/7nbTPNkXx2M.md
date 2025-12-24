@@ -1,49 +1,48 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York Times
+- White House
+- GOP
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Tokyo Suite
+- Times Book Review
+people:
+- Donald Trump
+- Tracy Mumford
+- J. D. Vance
+- Matt Vaneps
+- Michael Dell
+- Susan Dell
+- Dave Kim
+- Giovana Maloso
+products_models:
+- Dell computers
+- Trump accounts
+- Bitcoin
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=7nbTPNkXx2M
 speaker: New York Times Podcasts
-tags:
-  - us-politics
-  - immigration-policy
-  - european-security
-  - cryptocurrency-market
-  - philanthropy
-title: 特朗普言论、戴尔捐赠、欧洲安全与比特币动荡：2025年末新闻综述
-summary: 本期新闻综述涵盖了2025年末的多项重要事件。其中包括美国总统特朗普对其年龄和精力的回应，以及他对索马里移民的排外言论及其引发的移民执法行动。此外，科技巨头迈克尔·戴尔夫妇宣布向2500万美国儿童捐赠62.5亿美元，以扩大“特朗普账户”计划。欧洲多国遭遇小规模袭击和破坏，俄罗斯被指责实施“混合行动”。比特币价格在经历大幅上涨后暴跌，反映出其受宏观经济趋势影响日益加深。最后，还介绍了《纽约时报书评》评选出的2025年度十大好书。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Tracy Mumford
-  - J. D. Vance
-  - Matt Vaneps
-  - Michael Dell
-  - Susan Dell
-  - Dave Kim
-  - Giovana Maloso
-companies_orgs:
-  - New York Times
-  - White House
-  - GOP
-products_models:
-  - Dell computers
-  - Trump accounts
-  - Bitcoin
-media_books:
-  - The Tokyo Suite
-  - Times Book Review
 status: evergreen
+summary: 本期新闻综述涵盖了2025年末的多项重要事件。其中包括美国总统特朗普对其年龄和精力的回应，以及他对索马里移民的排外言论及其引发的移民执法行动。此外，科技巨头迈克尔·戴尔夫妇宣布向2500万美国儿童捐赠62.5亿美元，以扩大“特朗普账户”计划。欧洲多国遭遇小规模袭击和破坏，俄罗斯被指责实施“混合行动”。比特币价格在经历大幅上涨后暴跌，反映出其受宏观经济趋势影响日益加深。最后，还介绍了《纽约时报书评》评选出的2025年度十大好书。
+tags:
+- immigration-policy
+- market
+- philanthropy
+- security
+title: 特朗普言论、戴尔捐赠、欧洲安全与比特币动荡：2025年末新闻综述
 ---
+
 ### 特朗普回应年龄质疑并发表排外言论
 
 欢迎来到2025年的最后一次内阁会议，这一年将作为任何一届政府最具影响力、最成功的第一年载入史册。

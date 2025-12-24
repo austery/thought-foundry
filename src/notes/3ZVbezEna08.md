@@ -1,59 +1,59 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 全国人大常委会
+- 南通文旅
+- 新疆兵团女子强制隔离戒毒账号
+- 山东文旅
+- 四川文旅
+- 北京昌平文旅
+- 陕西汉中刘坝区文旅
+- 联合国人权理事会
+- 公安部
+- 中纪委
+- 最高检
+- 普渡制药
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人民日报》
+- 《成瘾剂量》
+people:
+- 宋东野
+- 尼克松
+- 里根
+- Donald Trump
+- 杜特尔特
+- 他信
+- 哈希纳
+- 李连杰
+- 余朦龙
+- 丁仲礼
+products_models:
+- 奥西克定
+- 芬太尼
+project:
+- china-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=3ZVbezEna08
 speaker: FearNation 世界苦茶
-tags:
-  - legal-reform
-  - public-opinion
-  - authoritarianism
-  - social-control
-  - rule-of-law
-title: 治安处罚法修订争议：法治进步为何引爆社会对权贵的恐惧？
-summary: 本文深入探讨了中国《治安处罚法》修订案引发的社会争议。尽管该修订案旨在引入轻罪封存制度，被视为司法进步，却意外激化了公众对“权贵特权”和毒品问题的强烈情绪。文章分析了中国社会对权力、法治与道德化的独特认知，以及这种认知如何被威权体制利用，导致公民与国家合谋“歼灭社会中层”，最终阻碍真正的法治进步。通过对历史、文化及国际案例的对比，揭示了中国社会在法治建设中的深层困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - 宋东野
-  - 尼克松
-  - 里根
-  - Donald Trump
-  - 杜特尔特
-  - 他信
-  - 哈希纳
-  - 李连杰
-  - 余朦龙
-  - 丁仲礼
-companies_orgs:
-  - 全国人大常委会
-  - 南通文旅
-  - 新疆兵团女子强制隔离戒毒账号
-  - 山东文旅
-  - 四川文旅
-  - 北京昌平文旅
-  - 陕西汉中刘坝区文旅
-  - 联合国人权理事会
-  - 公安部
-  - 中纪委
-  - 最高检
-  - 普渡制药
-products_models:
-  - 奥西克定
-  - 芬太尼
-media_books:
-  - 《人民日报》
-  - 《成瘾剂量》
 status: evergreen
+summary: 本文深入探讨了中国《治安处罚法》修订案引发的社会争议。尽管该修订案旨在引入轻罪封存制度，被视为司法进步，却意外激化了公众对“权贵特权”和毒品问题的强烈情绪。文章分析了中国社会对权力、法治与道德化的独特认知，以及这种认知如何被威权体制利用，导致公民与国家合谋“歼灭社会中层”，最终阻碍真正的法治进步。通过对历史、文化及国际案例的对比，揭示了中国社会在法治建设中的深层困境。
+tags:
+- authoritarianism
+- public-opinion
+- reform
+- rule-of-law
+- social-control
+title: 治安处罚法修订争议：法治进步为何引爆社会对权贵的恐惧？
 ---
+
 ### 《治安处罚法》修订引发的社会争议
 
 每次中国出现类似事件，都让人感到特别难受。难受之处在于，中国这个国家本来进步就很难，好不容易因为各种原因，有些领域取得了一点点进步，而且这些进步与我们所有国人的关系最为密切，但大家却不买账，国家进步了，大家反而不高兴，甚至不要进步，这实在令人感到不适。

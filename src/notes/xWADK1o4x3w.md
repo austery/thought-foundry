@@ -1,31 +1,29 @@
 ---
-title: 安保过敏症：从1960年日本安保斗争到高市早苗，探析日本政治的“恐战症”
-summary: 本文深入剖析日本“安保过敏症”的根源，追溯至1960年的安保斗争，探讨其如何影响日本政坛及对台海局势的潜在影响。分析日本民众反战共识，以及高市早苗新任首相下面临的挑战。
 area: market-analysis
 category: geopolitics
-project:
-- ai-impact-analysis
-- china-analysis
-tags:
-- china-taiwan-relations
-- japan-politics
-- public-opinion
-- security-policy
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: ZetaBook
-speaker: ZetaBook
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- china-analysis
 series: ''
 source: https://www.youtube.com/watch?v=xWADK1o4x3w
+speaker: ZetaBook
 status: evergreen
+summary: 本文深入剖析日本“安保过敏症”的根源，追溯至1960年的安保斗争，探讨其如何影响日本政坛及对台海局势的潜在影响。分析日本民众反战共识，以及高市早苗新任首相下面临的挑战。
+tags:
+- china-taiwan-relations
+- policy
+- politics
+- public-opinion
+title: 安保过敏症：从1960年日本安保斗争到高市早苗，探析日本政治的“恐战症”
 ---
+
 ### 民粹排外与孤立主义：日本人对台海危机的真实心态
 
 当前日本社会弥漫着浓厚的民粹排外氛围，这种情绪转化为一种孤立主义。日本人对于台海危机，普遍持有一种“你们华人世界自相残杀，可不可以请你们内部自己解决，不要把我们日本一起拖下水”的心态，他们希望看到的是“台湾有事，日本没事”。

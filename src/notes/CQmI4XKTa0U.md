@@ -1,102 +1,104 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- ThoughtWorks
+- UK Atomic Energy Authority
+- Coopers & Lybrand
+- PEK
+- Chrysler
+- Rational
+- Statsig
+- JetBrains
+- Apple
+- Linear
+- Google
+- AWS
+- Uber
+- American Express
+- Federal Reserve
+- Anthropic
+- Microsoft
+- IBM
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Agile Manifesto
+- Refactoring
+- The Pragmatic Engineer
+- ThoughtWorks Radar
+- Thinking, Fast and Slow
+- The Power Broker
+people:
+- Martin Fowler
+- Kent Beck
+- Jim Odell
+- Rebecca Parsons
+- Daryl Smith
+- James Lewis
+- Grady Buch
+- Unmesh Jooshi
+- Bita
+- Steve Jagg
+- Simon Willison
+- Adam Tornhill
+- Ralph Johnson
+- John Brandt
+- Don Roberts
+- Bob Martin
+- Alistair Cockburn
+- Dave Thomas
+- Jim Highsmith
+- Jimmy Nielson
+- Daniel Kahneman
+- Robert Moses
+- Lyndon Baines Johnson
+products_models:
+- Unix
+- Fortran 4
+- ClickHouse
+- vLLM
+- Cloud Code
+- FastAPI
+- MCP
+- ReSharper
+- Visual Studio
+- Xcode
+- Swift
+- Cursor
+- Godot
+- Ruby
+- Smalltalk
+- Java
+- JavaScript
+- SQL
+- Lisp
+- COBOL
+- DynamoDB
+- PostgreSQL
+project:
+- ai-impact-analysis
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=CQmI4XKTa0U
 speaker: The Pragmatic Engineer
-tags:
-  - non-determinism
-  - software-craftsmanship
-  - legacy-systems
-  - agile-methodology
-  - learning-loop
-title: 软件工程大师 Martin Fowler 对话：AI 是自汇编语言以来最大的变革
-summary: 软件工程领域的传奇人物 Martin Fowler 深入探讨了人工智能对行业的颠覆性影响。他认为，AI 带来的变革堪比从汇编语言到高级语言的飞跃，其核心在于从“确定性”到“非确定性”的根本转变。Fowler 剖析了“Vibe Coding”等新兴工作流的利弊，强调了在 AI 时代，理解遗留系统、保持学习循环以及坚持重构和敏捷等核心工程实践的重要性。他为初级和资深工程师提供了在 AI 浪潮中保持成长的宝贵建议。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Martin Fowler
-  - Kent Beck
-  - Jim Odell
-  - Rebecca Parsons
-  - Daryl Smith
-  - James Lewis
-  - Grady Buch
-  - Unmesh Jooshi
-  - Bita
-  - Steve Jagg
-  - Simon Willison
-  - Adam Tornhill
-  - Ralph Johnson
-  - John Brandt
-  - Don Roberts
-  - Bob Martin
-  - Alistair Cockburn
-  - Dave Thomas
-  - Jim Highsmith
-  - Jimmy Nielson
-  - Daniel Kahneman
-  - Robert Moses
-  - Lyndon Baines Johnson
-companies_orgs:
-  - ThoughtWorks
-  - UK Atomic Energy Authority
-  - Coopers & Lybrand
-  - PEK
-  - Chrysler
-  - Rational
-  - Statsig
-  - JetBrains
-  - Apple
-  - Linear
-  - Google
-  - AWS
-  - Uber
-  - American Express
-  - Federal Reserve
-  - Anthropic
-  - Microsoft
-  - IBM
-products_models:
-  - Unix
-  - Fortran 4
-  - ClickHouse
-  - vLLM
-  - Cloud Code
-  - FastAPI
-  - MCP
-  - ReSharper
-  - Visual Studio
-  - Xcode
-  - Swift
-  - Cursor
-  - Godot
-  - Ruby
-  - Smalltalk
-  - Java
-  - JavaScript
-  - SQL
-  - Lisp
-  - COBOL
-  - DynamoDB
-  - PostgreSQL
-media_books:
-  - Agile Manifesto
-  - Refactoring
-  - The Pragmatic Engineer
-  - ThoughtWorks Radar
-  - Thinking, Fast and Slow
-  - The Power Broker
 status: evergreen
+summary: 软件工程领域的传奇人物 Martin Fowler 深入探讨了人工智能对行业的颠覆性影响。他认为，AI 带来的变革堪比从汇编语言到高级语言的飞跃，其核心在于从“确定性”到“非确定性”的根本转变。Fowler
+  剖析了“Vibe Coding”等新兴工作流的利弊，强调了在 AI 时代，理解遗留系统、保持学习循环以及坚持重构和敏捷等核心工程实践的重要性。他为初级和资深工程师提供了在
+  AI 浪潮中保持成长的宝贵建议。
+tags:
+- learning
+- llm
+- non-determinism
+- software
+- system
+title: 软件工程大师 Martin Fowler 对话：AI 是自汇编语言以来最大的变革
 ---
+
 ### AI 变革：堪比从汇编到高级语言的飞跃
 
 在我整个职业生涯中，人工智能（AI）无疑是最大的一次变革。回顾整个软件开发的历史，唯一能与之相提并论的，可能就是从汇编语言到第一批高级语言的转变。这次变革最大的特点是从确定性到非确定性的转变。突然之间，你开始在一个非确定性的环境中工作，这彻底改变了一切。

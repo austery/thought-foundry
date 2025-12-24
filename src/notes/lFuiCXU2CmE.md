@@ -1,54 +1,54 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: technology
+companies_orgs:
+- OpenAI
+- Google
+- Google Gemini
+- Disney
+- Marvel
+- Pixar
+- Star Wars
+- Bloomberg
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- YouTube
+- 彭博社
+people:
+- Sam Altman
+- Fidji Simo
+products_models:
+- GPT-5.2
+- GPT-5.1
+- GPT-5
+- GPT-4.1
+- GPT-3
+- GPT-2
+- Codex
+- DALL·E
+- ChatGPT
+- Gemini 3
+project:
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=lFuiCXU2CmE
 speaker: Best Partners TV
-tags:
-  - gpt-5-2-release
-  - ai-capabilities
-  - economic-impact
-  - ai-benchmarks
-  - future-of-ai
-title: OpenAI 发布 GPT-5.2：性能飞跃、经济价值与商业合作新篇章
-summary: OpenAI 正式发布 GPT-5.2 模型，作为对 Google Gemini 3 的强力回应。新模型推出 Instant、Thinking、Pro 三个版本，重点在于提升经济价值和处理复杂任务的能力。GPT-5.2 在多项基准测试中超越人类专家水平，尤其在编程、长文本理解、视觉识别及数学科学领域表现突出。同时，OpenAI 与迪士尼达成战略合作，并公布了成人模式的上线时间表，展现了其技术领先与商业变现并行的策略。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Sam Altman
-  - Fidji Simo
-companies_orgs:
-  - OpenAI
-  - Google
-  - Google Gemini
-  - Disney
-  - Marvel
-  - Pixar
-  - Star Wars
-  - Bloomberg
-products_models:
-  - GPT-5.2
-  - GPT-5.1
-  - GPT-5
-  - GPT-4.1
-  - GPT-3
-  - GPT-2
-  - Codex
-  - DALL·E
-  - ChatGPT
-  - Gemini 3
-media_books:
-  - YouTube
-  - 彭博社
 status: evergreen
+summary: OpenAI 正式发布 GPT-5.2 模型，作为对 Google Gemini 3 的强力回应。新模型推出 Instant、Thinking、Pro
+  三个版本，重点在于提升经济价值和处理复杂任务的能力。GPT-5.2 在多项基准测试中超越人类专家水平，尤其在编程、长文本理解、视觉识别及数学科学领域表现突出。同时，OpenAI
+  与迪士尼达成战略合作，并公布了成人模式的上线时间表，展现了其技术领先与商业变现并行的策略。
+tags:
+- economic-impact
+- future-of-ai
+- llm
+title: OpenAI 发布 GPT-5.2：性能飞跃、经济价值与商业合作新篇章
 ---
+
 ### OpenAI 发布 GPT-5.2，全面回应市场竞争
 
 随着 Google Gemini 3 的发布，OpenAI CEO Sam Altman 上周罕见地拉响了 **Code Red (红色警报)**，并宣布所有资源回流 ChatGPT 主线，其他业务一律靠边站。这是 OpenAI 成立以来第一次进入红色警报状态，也是它第一次如此明确地承认，竞争压力已经大到必须全力应对。就在今天，OpenAI 发布了 GPT-5.2 模型，打出了一记回应谷歌的重拳。

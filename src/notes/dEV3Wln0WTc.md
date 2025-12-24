@@ -1,59 +1,59 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 抖音
+- 快手
+- 网信办
+- MCN公司
+- 中国社科院
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《三体》
+- 《新闻立法之路》
+- 《武训传》
+- 《海瑞罢官》
+- 《左传》
+people:
+- 户晨风
+- 张雪峰
+- 蓝战非
+- 高志凯
+- 刘慈欣
+- 孙旭培
+- 陈云
+- 吴晗
+- 马连良
+- 周恩来
+- 朱德
+- 胡乔木
+- 毛泽东
+- 王志安
+- 钟美美
+- Donald Trump
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=dEV3Wln0WTc
 speaker: 夸克说
-tags:
-  - internet-censorship
-  - political-control
-  - unpredictability
-  - fear-culture
-  - state-power
-title: 中国网红为何频遭封禁？从“三体世界”看中共言论审查的混沌逻辑
-summary: 本文深入探讨了户晨风、张雪峰、蓝战非等中国网红集体被封禁的现象，揭示了中共言论审查背后的模糊标准和混沌逻辑。文章引用刘慈欣的“三体世界”概念，阐释了中国互联网规则的不确定性，并结合历史事件如《武训传》和《海瑞罢官》的遭遇，分析了体制内“怕出事”的恐惧文化。同时，文章也探讨了平台在审查压力下的两难境地，最终指出这种“行不可知则威不可测”的审查机制，旨在维持当局的绝对控制权。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 户晨风
-  - 张雪峰
-  - 蓝战非
-  - 高志凯
-  - 刘慈欣
-  - 孙旭培
-  - 陈云
-  - 吴晗
-  - 马连良
-  - 周恩来
-  - 朱德
-  - 胡乔木
-  - 毛泽东
-  - 王志安
-  - 钟美美
-  - Donald Trump
-companies_orgs:
-  - 抖音
-  - 快手
-  - 网信办
-  - MCN公司
-  - 中国社科院
-products_models: []
-media_books:
-  - 《三体》
-  - 《新闻立法之路》
-  - 《武训传》
-  - 《海瑞罢官》
-  - 《左传》
 status: evergreen
+summary: 本文深入探讨了户晨风、张雪峰、蓝战非等中国网红集体被封禁的现象，揭示了中共言论审查背后的模糊标准和混沌逻辑。文章引用刘慈欣的“三体世界”概念，阐释了中国互联网规则的不确定性，并结合历史事件如《武训传》和《海瑞罢官》的遭遇，分析了体制内“怕出事”的恐惧文化。同时，文章也探讨了平台在审查压力下的两难境地，最终指出这种“行不可知则威不可测”的审查机制，旨在维持当局的绝对控制权。
+tags:
+- canada
+- culture
+- internet-censorship
+- political-control
+- power
+title: 中国网红为何频遭封禁？从“三体世界”看中共言论审查的混沌逻辑
 ---
+
 ### 中国网红集体被封：表面原因与深层逻辑
 
 大家好，欢迎收看夸克说，我是夸克。这期节目咱们接着聊上期没聊完的话题，户晨风为什么会被封。关于这一点，这几天我已经看了不少分析了。最常见的说法是“歧视制造对立论”，也就是他的“苹果安卓论”是在歧视低收入群体，因为2025年**清朗行动**（中国互联网监管机构开展的一系列净化网络环境的专项行动）的重点打击目标之一，就是所谓的“借热点事件挑起群体极端对立情绪”。

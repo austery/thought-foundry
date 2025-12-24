@@ -1,41 +1,41 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Charlie Hebdo
 date: '2023-08-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《古兰经》
+- 《圣经》
+people:
+- 柴静
+- Sheref Kouachi
+- Farid Ben Yetu
+- David Walid
+- Suhail Ahmad
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=dwMKOPPDpcg
 speaker: 柴静 Chai Jing
-tags:
-  - jihadist-ideology
-  - radicalization
-  - religious-extremism
-  - psychological-manipulation
-  - identity-crisis
-title: 圣战分子的绝路：极端思想的心理根源与诱惑
-summary: 本集深入探究圣战分子的极端思想如何形成，以及其背后的心理根源。通过采访招募者、前圣战分子，揭示了他们如何将宗教教义推向极端，将异见者非人化，并利用对地狱的恐惧和对天堂的承诺来驱使追随者走向暴力。文章探讨了个人内心挣扎、社会排斥与极端意识形态的结合，最终导致自我毁灭的悲剧性路径。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - 柴静
-  - Sheref Kouachi
-  - Farid Ben Yetu
-  - David Walid
-  - Suhail Ahmad
-companies_orgs:
-  - Charlie Hebdo
-products_models: []
-media_books:
-  - 《古兰经》
-  - 《圣经》
 status: evergreen
+summary: 本集深入探究圣战分子的极端思想如何形成，以及其背后的心理根源。通过采访招募者、前圣战分子，揭示了他们如何将宗教教义推向极端，将异见者非人化，并利用对地狱的恐惧和对天堂的承诺来驱使追随者走向暴力。文章探讨了个人内心挣扎、社会排斥与极端意识形态的结合，最终导致自我毁灭的悲剧性路径。
+tags:
+- crisis
+- geopolitical
+- psychological-manipulation
+- radicalization
+- society
+title: 圣战分子的绝路：极端思想的心理根源与诱惑
 ---
+
 ### 追溯巴黎恐袭：探寻极端主义的源头
 
 此刻，巴黎街头正上演着一幕幕惊心动魄的景象。两名全副武装的男子袭击了**《查理周刊》**（Charlie Hebdo: 一家法国讽刺漫画杂志）的办公室，枪声大作，造成至少12人死亡。他们分享的第一段视频，正是由李博尔及其恐怖组织制作的。警方认为，这是他们激进化的起点。因此，我来到巴黎，试图找出在**《查理周刊》**袭击事件中，究竟是哪些因素影响了这些袭击者。我看到了所有受害者的面孔，看到了这些人的诗歌和画作。站在杂志社大楼前，他们强烈的生命感与此刻的空虚感令我心潮澎湃。他们和我一样，都是记者。人群聚集在一起，向那些给法国首都带来恐怖的人传递着同一个信息：“我是查理。”这是法国四十年来最严重的袭击事件，150万巴黎市民走上街头抗议。记者倒下时，人们举起了双手。在12名受害者中，有一名维修工人，两名警察，其中一人是穆斯林。我希望找到这场悲剧中的核心人物，并理解他们背后的驱动力。袭击者谢里夫·库阿奇和他的兄弟在与宪兵的战斗中被击毙，但十年前招募他们加入“圣战”的人，至今仍活着。

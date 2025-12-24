@@ -1,30 +1,28 @@
 ---
-title: 特斯拉FSD入华超预期：与前FSD工程师老于深度解析马斯克争议、Robotaxi与AI未来
-summary: 本期节目邀请前特斯拉FSD工程师老于，深度探讨特斯拉近期股价波动、马斯克参政争议、FSD在中国的惊艳表现及其核心技术优势，并展望Robotaxi和擎天柱机器人的未来发展，同时分享了个人对投资与AI的感悟。
-area: tech-insights
-category: technology
-project:
-  - ai-impact-analysis
-tags:
-  - ai
-people:
-  - elon-musk
+area: tech-engineering
+category: ai-ml
 companies_orgs:
-  - tesla
-products_models:
-  - fsd
-  - robotaxi
-media_books: []
+- tesla
 date: '2025-04-05'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people:
+- elon-musk
+products_models:
+- fsd
+- robotaxi
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=UUc8Mw4EX_A
+speaker: 一口新飯
 status: evergreen
+summary: 本期节目邀请前特斯拉FSD工程师老于，深度探讨特斯拉近期股价波动、马斯克参政争议、FSD在中国的惊艳表现及其核心技术优势，并展望Robotaxi和擎天柱机器人的未来发展，同时分享了个人对投资与AI的感悟。
+tags: []
+title: 特斯拉FSD入华超预期：与前FSD工程师老于深度解析马斯克争议、Robotaxi与AI未来
 ---
 
 ### 引言：特斯拉的跌宕起伏与特邀嘉宾

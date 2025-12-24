@@ -1,46 +1,45 @@
 ---
-author: 投资TALK君
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- ADP
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kevin Hassett
+- Donald Trump
+- Jerome Powell
+- John C. Williams
+- Nick Timiraos
+products_models:
+- TLT
+- S&P 500
+- Nasdaq
+- Russell 2000
+- VIX
+- Seeking Alpha
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=_IaKH8QXMGg
 speaker: 投资TALK君
-tags:
-  - interest-rate-cuts
-  - bond-market-spreads
-  - monetary-policy
-  - labor-market-data
-  - market-outlook
-title: 市场展望：美联储降息90%概率，债券利差与新主席政策解读
-summary: 本期节目深入分析了当前美股市场走势、美联储降息90%的预期，以及债券市场利差的警示信号。同时，探讨了日元Carry Trade的逻辑，并对即将上任的美联储主席Kevin Hassett的政策倾向进行了独到解读，指出其并非“无脑鸽派”，市场应警惕其务实转向。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Kevin Hassett
-  - Donald Trump
-  - Jerome Powell
-  - John C. Williams
-  - Nick Timiraos
-companies_orgs:
-  - Federal Reserve
-  - ADP
-products_models:
-  - TLT
-  - S&P 500
-  - Nasdaq
-  - Russell 2000
-  - VIX
-  - Seeking Alpha
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了当前美股市场走势、美联储降息90%的预期，以及债券市场利差的警示信号。同时，探讨了日元Carry Trade的逻辑，并对即将上任的美联储主席Kevin
+  Hassett的政策倾向进行了独到解读，指出其并非“无脑鸽派”，市场应警惕其务实转向。
+tags:
+- interest-rate-cut
+- labor-market-datum
+- market
+- market-outlook
+title: 市场展望：美联储降息90%概率，债券利差与新主席政策解读
 ---
+
 ### 市场回顾与本周展望
 
 本期节目将与大家分享债券市场机构对明年的一些看法，因为债券市场与股市之间存在紧密联动或共振。同时，我们将总结上一周的市场走势，展望本周的数据和美联储会议，并深入探讨日元**Carry Trade**（套利交易: 借入低利率货币，投资高利率货币资产以赚取利差的策略）的逻辑。此外，还将分析即将上任的美联储主席Kevin Hassett对未来政策的个人看法。

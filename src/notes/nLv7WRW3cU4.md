@@ -1,46 +1,46 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Supreme Court
+- Congress
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- International Emergency Economic Powers Act of 1977
+people:
+- Donald Trump
+- Ketanji Brown Jackson
+- Amy Coney Barrett
+- Sonia Sotomayor
+- Antonin Scalia
+- John Roberts
+- Clarence Thomas
+- Neil Gorsuch
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=nLv7WRW3cU4
 speaker: New York Times Podcasts
-tags:
-  - executive-power
-  - statutory-interpretation
-  - major-questions-doctrine
-  - separation-of-powers
-  - tariff-authority
-title: 最高法院对特朗普关税权力的质疑
-summary: 美国最高法院审理了一起关于总统征收关税权力的重要案件，核心在于特朗普政府依据《国际紧急经济权力法案》（IEEPA）实施的广泛关税是否合法。法官们深入探讨了该法案的文本，质疑其中未明确提及“关税”是否授权总统征税。同时，法庭还援引了“重大问题原则”，即涉及巨大经济影响的行政行动需国会明确授权。此次听证会反映出最高法院对行政权力扩张的普遍担忧，可能对特朗普的政策议程造成重大打击，并预示着总统与法院之间可能出现新的权力冲突。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Donald Trump
-  - Ketanji Brown Jackson
-  - Amy Coney Barrett
-  - Sonia Sotomayor
-  - Antonin Scalia
-  - John Roberts
-  - Clarence Thomas
-  - Neil Gorsuch
-companies_orgs:
-  - New York Times
-  - Supreme Court
-  - Congress
-products_models: []
-media_books:
-  - The Daily
-  - International Emergency Economic Powers Act of 1977
 status: evergreen
+summary: 美国最高法院审理了一起关于总统征收关税权力的重要案件，核心在于特朗普政府依据《国际紧急经济权力法案》（IEEPA）实施的广泛关税是否合法。法官们深入探讨了该法案的文本，质疑其中未明确提及“关税”是否授权总统征税。同时，法庭还援引了“重大问题原则”，即涉及巨大经济影响的行政行动需国会明确授权。此次听证会反映出最高法院对行政权力扩张的普遍担忧，可能对特朗普的政策议程造成重大打击，并预示着总统与法院之间可能出现新的权力冲突。
+tags:
+- canada
+- executive-power
+- major-questions-doctrine
+- power
+- tariff-authority
+title: 最高法院对特朗普关税权力的质疑
 ---
+
 ### 最高法院审理特朗普关税案
 
 周三，最高法院就其本届会期最受关注的案件进行了辩论，该案关乎总统是否有权征收一个世纪以来最高的关税。

@@ -1,56 +1,56 @@
 ---
-author: Norges Bank Investment Management
+area: tech-insights
+category: technology
+companies_orgs:
+- ASML
+- Norges Bank Investment Management
+- Intel
+- TSMC
+- Samsung
+- Nvidia
+- AMD
+- Zeiss
+- Philips
+- ISM International
+- IBM
 date: '2025-02-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Chip Wars
+people:
+- Nicola Tangen
+- Christophe Fouquet
+- Chris Miller
+- Mario Draghi
+- Peter Wennink
+- Martin van den Brink
+products_models:
+- EUV
+- EBAM
+- Nano Imprints
+- GPU
+- High Bandwidth Memory
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=hvQvrLjlJN8
 speaker: Norges Bank Investment Management
-tags:
-  - euv-lithography
-  - moores-law
-  - semiconductor-manufacturing
-  - chip-innovation
-  - global-supply-chain
-title: ASML首席执行官：光刻技术如何塑造未来与应对地缘政治挑战
-summary: ASML首席执行官Christophe Fouquet深入探讨了极紫外（EUV）光刻技术在半导体制造中的核心作用及其复杂性。他阐述了摩尔定律在AI驱动下加速演进，芯片尺寸逼近原子极限的未来愿景。Fouquet还分析了地缘政治紧张局势对全球半导体供应链的影响，中国在先进芯片制造上的滞后，以及欧洲科技产业面临的挑战。他强调了ASML长期研发投入、与客户及合作伙伴的紧密协作，以及公司独特的非政治化、以内容为导向的企业文化。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - us-analysis
-people:
-  - Nicola Tangen
-  - Christophe Fouquet
-  - Chris Miller
-  - Mario Draghi
-  - Peter Wennink
-  - Martin van den Brink
-companies_orgs:
-  - ASML
-  - Norges Bank Investment Management
-  - Intel
-  - TSMC
-  - Samsung
-  - Nvidia
-  - AMD
-  - Zeiss
-  - Philips
-  - ISM International
-  - IBM
-products_models:
-  - EUV
-  - EBAM
-  - Nano Imprints
-  - GPU
-  - High Bandwidth Memory
-media_books:
-  - The Chip Wars
 status: evergreen
+summary: ASML首席执行官Christophe Fouquet深入探讨了极紫外（EUV）光刻技术在半导体制造中的核心作用及其复杂性。他阐述了摩尔定律在AI驱动下加速演进，芯片尺寸逼近原子极限的未来愿景。Fouquet还分析了地缘政治紧张局势对全球半导体供应链的影响，中国在先进芯片制造上的滞后，以及欧洲科技产业面临的挑战。他强调了ASML长期研发投入、与客户及合作伙伴的紧密协作，以及公司独特的非政治化、以内容为导向的企业文化。
+tags:
+- chip-innovation
+- global-supply-chain
+- law
+- semiconductor-manufacturing
+- technology
+title: ASML首席执行官：光刻技术如何塑造未来与应对地缘政治挑战
 ---
+
 ### ASML：半导体世界的无名英雄
 
 大家好，我是挪威主权财富基金（Norges Bank Investment Management）的首席执行官**Nicola Tangen**。今天，我们很荣幸邀请到**ASML**（Advanced Semiconductor Materials Lithography：全球最大的半导体设备制造商，专注于光刻机）的首席执行官**Christophe Fouquet**。

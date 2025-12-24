@@ -1,34 +1,34 @@
 ---
-title: 美股三大利好为何市场不买单？CPI、关税与马斯克/川普争端深度剖析
-summary: 本期节目深入分析了周三美股在CPI数据利好、中美关税谈判及马斯克与川普争端平息等三大利好背景下却下跌的原因。探讨了市场对未来通胀的预期、关税协议的真实影响以及特斯拉Robotaxi服务的推出，并分享了对稳定币未来发展的看法。
 area: market-analysis
 category: geopolitics
+companies_orgs: []
+date: '2025-06-12'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- talk
+people:
+- elon-musk
+products_models:
+- stablecoin
 project:
 - china-analysis
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- us-china-tariffs
-- us-stock-market
-people:
-- elon-musk
-companies_orgs: []
-products_models:
-- stablecoin
-media_books:
-- talk
-date: '2025-06-12'
-author: 投资TALK君
-speaker: 投资TALK君
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=vnjJIrBOGA4
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入分析了周三美股在CPI数据利好、中美关税谈判及马斯克与川普争端平息等三大利好背景下却下跌的原因。探讨了市场对未来通胀的预期、关税协议的真实影响以及特斯拉Robotaxi服务的推出，并分享了对稳定币未来发展的看法。
+tags:
+- us-china-tariff
+- us-stock-market
+title: 美股三大利好为何市场不买单？CPI、关税与马斯克/川普争端深度剖析
 ---
+
 ### 美股三大利好与市场反应
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小陶。周三美股出现了三大利好：一组非常好的**CPI**（Consumer Price Index: 消费者物价指数，衡量居民消费价格变动的指标）数据，中美之间的关税似乎画上了句号，同时马斯克和川普之间的斗嘴也好像画上了句号。但是，为什么在三大利好的情况下，美股却出现了下跌？针对这三大利好，我将和大家一个一个地剖析，这就是今天的三大主题。

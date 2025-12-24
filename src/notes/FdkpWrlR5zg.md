@@ -1,58 +1,56 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 苏联
+- 北约
+- 中央情报局
+- 联合国
+- 欧盟
+- 克格勃
+- 华沙条约组织
+- 经济互助委员会
+- 基督教民主联盟
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《论美国的民主》
+- 《旧制度与大革命》
+people:
+- 罗纳德·里根
+- 米哈伊尔·戈尔巴乔夫
+- 吉米·卡特
+- 理查德·尼克松
+- 毛泽东
+- 老布什
+- 赫尔穆特·科尔
+- 鲍里斯·叶利钦
+- 邓小平
+- 卡尔·冯·克劳塞维茨
+- 阿诺德·汤因比
+- 亚历西斯·德·托克维尔
+- 弗朗索瓦·密特朗
+- 玛格丽特·撒切尔
+products_models:
+- 战略防御倡议
+project:
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=FdkpWrlR5zg
 speaker: Dwarkesh Patel
-tags:
-  - cold-war
-  - soviet-union-collapse
-  - geopolitics
-  - economic-systems
-  - foreign-policy
-  - leadership
-title: 冷战为何终结？多维度剖析苏联解体的原因与启示
-summary: 本讲座深入探讨了苏联在冷战中失败的深层原因，超越了“里根一人之力”的简单论断。讲者从美国军事施压、人权外交、中美合作等外部因素，以及苏联帝国体系瓦解、经济体制僵化、戈尔巴乔夫改革失误等内部因素，进行了多角度的分析。讲座还强调了老布什总统和科尔总理在德国统一和冷战终结中的关键作用，并反思了威权政权长久存在的机制，为当前国际局势提供了战略启示。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-  - china-analysis
-people:
-  - 罗纳德·里根
-  - 米哈伊尔·戈尔巴乔夫
-  - 吉米·卡特
-  - 理查德·尼克松
-  - 毛泽东
-  - 老布什
-  - 赫尔穆特·科尔
-  - 鲍里斯·叶利钦
-  - 邓小平
-  - 卡尔·冯·克劳塞维茨
-  - 阿诺德·汤因比
-  - 亚历西斯·德·托克维尔
-  - 弗朗索瓦·密特朗
-  - 玛格丽特·撒切尔
-companies_orgs:
-  - 苏联
-  - 北约
-  - 中央情报局
-  - 联合国
-  - 欧盟
-  - 克格勃
-  - 华沙条约组织
-  - 经济互助委员会
-  - 基督教民主联盟
-products_models:
-  - 战略防御倡议
-media_books:
-  - 《论美国的民主》
-  - 《旧制度与大革命》
 status: evergreen
+summary: 本讲座深入探讨了苏联在冷战中失败的深层原因，超越了“里根一人之力”的简单论断。讲者从美国军事施压、人权外交、中美合作等外部因素，以及苏联帝国体系瓦解、经济体制僵化、戈尔巴乔夫改革失误等内部因素，进行了多角度的分析。讲座还强调了老布什总统和科尔总理在德国统一和冷战终结中的关键作用，并反思了威权政权长久存在的机制，为当前国际局势提供了战略启示。
+tags:
+- cold-war
+- foreign-policy
+- history
+- leadership
+- system
+title: 冷战为何终结？多维度剖析苏联解体的原因与启示
 ---
 
 This is the final episode of the Sarah Paine lecture series, and it’s probably my favorite one.

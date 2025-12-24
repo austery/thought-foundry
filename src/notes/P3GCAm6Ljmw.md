@@ -1,63 +1,63 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- White House
+- Yale University Budget Lab
+- US Customs and Border Protection
+- Financial Times
+- BBC
+- Jingye Group
+- WTO
+- Ford
+- BMW
+- Apple
+- JPMorgan
+- Citigroup
+- European Central Bank
+- Federal Reserve
+- Senate Finance Committee
+- Japan’s Ministry of Economy, Trade and Industry
 date: '2025-08-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Time Magazine
+- Unhedged Podcast
+- The Economist
+- CNN
+people:
+- Donald Trump
+- Karoline Leavitt
+- Peter Navarro
+- Jair Bolsonaro
+- Ron Wyden
+- Jamieson Greer
+- Jay Powell
+- Ben Hall
+- Robert Armstrong
+products_models:
+- Truth Social
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=P3GCAm6Ljmw
 speaker: Patrick Boyle
-tags:
-  - trade-tariffs
-  - geopolitical-alignment
-  - supply-chain-disruption
-  - economic-nationalism
-  - multilateralism-decline
-title: 特朗普关税政策：全球贸易体系的裂痕与地缘政治工具
-summary: 本视频深入探讨了特朗普政府的关税政策及其对全球贸易体系的影响。随着8月1日关税谈判最后期限的到来，美国对多个主要贸易伙伴征收了新关税，并利用这些关税作为地缘政治工具，迫使盟友疏远中国。文章分析了英美协议如何成为这种新贸易模式的原型，以及中国、欧盟等各方的应对策略。同时，视频也讨论了关税带来的通胀压力、法律挑战以及其对美国经济和全球供应链的长期影响，质疑这种激进政策的有效性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Karoline Leavitt
-  - Peter Navarro
-  - Jair Bolsonaro
-  - Ron Wyden
-  - Jamieson Greer
-  - Jay Powell
-  - Ben Hall
-  - Robert Armstrong
-companies_orgs:
-  - White House
-  - Yale University Budget Lab
-  - US Customs and Border Protection
-  - Financial Times
-  - BBC
-  - Jingye Group
-  - WTO
-  - Ford
-  - BMW
-  - Apple
-  - JPMorgan
-  - Citigroup
-  - European Central Bank
-  - Federal Reserve
-  - Senate Finance Committee
-  - Japan’s Ministry of Economy, Trade and Industry
-products_models:
-  - Truth Social
-media_books:
-  - Time Magazine
-  - Unhedged Podcast
-  - The Economist
-  - CNN
 status: evergreen
+summary: 本视频深入探讨了特朗普政府的关税政策及其对全球贸易体系的影响。随着8月1日关税谈判最后期限的到来，美国对多个主要贸易伙伴征收了新关税，并利用这些关税作为地缘政治工具，迫使盟友疏远中国。文章分析了英美协议如何成为这种新贸易模式的原型，以及中国、欧盟等各方的应对策略。同时，视频也讨论了关税带来的通胀压力、法律挑战以及其对美国经济和全球供应链的长期影响，质疑这种激进政策的有效性。
+tags:
+- decline
+- economic-nationalism
+- geopolitical
+- supply-chain-disruption
+- trade-tariff
+title: 特朗普关税政策：全球贸易体系的裂痕与地缘政治工具
 ---
+
 ### 特朗普关税最后期限与全球市场反应
 
 本周市场紧张不安，因为唐纳德·特朗普（Donald Trump）就美国关税进行的贸易谈判所设的8月1日最后期限终于到期。特朗普此前已宣布对从美国许多最大贸易伙伴进口的商品征收关税，贸易谈判代表们争分夺秒地争取在最后期限前达成临时协议或延期。

@@ -1,69 +1,69 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- AMD
+- Nebius
+- SoftBank
+- Nvidia
+- OpenAI
+- Anthropic
+- Google
+- XAI
+- Oracle
+- Coreweave
+- Meta
+- Microsoft
+- SoFi
+- Robinhood
+- Coinbase
+- Grab
+- GoTo
+- Bank of America
+- JPMorgan
+- Wells Fargo
+- Apple
+- CNBC
+- US Supreme Court
+- FDIC
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- Substack
+people:
+- Lisa Su
+- Masayoshi Son
+- Donald Trump
+products_models:
+- Gemini
+- Grok
+- Bitcoin
+- Ethereum
+- Solana
+- Lightning Network
+- Chromebooks
+project:
+- investment-strategy
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=mEehKB2BBGk
 speaker: Amit Kukreja
-tags:
-  - ai-compute-infrastructure
-  - data-center-growth
-  - crypto-integration
-  - market-consolidation
-  - trade-tariffs
-title: 每日回顾：AMD、AI数据中心、SoFi加密货币、Grab并购与特朗普关税动态
-summary: 本期每日回顾涵盖多项重要市场动态。AMD在投资者日上发布了对AI计算基础设施的强劲增长预测，并强调了数据中心市场的巨大潜力。软银出售其英伟达全部股份，但计划将资金重新投资于其他AI领域，显示出对AI生态系统的持续信心。SoFi重新在其平台上线加密货币交易，并提供与银行账户直接关联的独特优势。东南亚出行巨头Grab和GoTo的潜在合并案取得进展，印尼政府和软银均支持整合。此外，美国最高法院对特朗普关税合法性的裁决即将到来，可能对市场和国家安全产生深远影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Lisa Su
-  - Masayoshi Son
-  - Donald Trump
-companies_orgs:
-  - AMD
-  - Nebius
-  - SoftBank
-  - Nvidia
-  - OpenAI
-  - Anthropic
-  - Google
-  - XAI
-  - Oracle
-  - Coreweave
-  - Meta
-  - Microsoft
-  - SoFi
-  - Robinhood
-  - Coinbase
-  - Grab
-  - GoTo
-  - Bank of America
-  - JPMorgan
-  - Wells Fargo
-  - Apple
-  - CNBC
-  - US Supreme Court
-  - FDIC
-products_models:
-  - Gemini
-  - Grok
-  - Bitcoin
-  - Ethereum
-  - Solana
-  - Lightning Network
-  - Chromebooks
-media_books:
-  - Bloomberg
-  - Substack
 status: evergreen
+summary: 本期每日回顾涵盖多项重要市场动态。AMD在投资者日上发布了对AI计算基础设施的强劲增长预测，并强调了数据中心市场的巨大潜力。软银出售其英伟达全部股份，但计划将资金重新投资于其他AI领域，显示出对AI生态系统的持续信心。SoFi重新在其平台上线加密货币交易，并提供与银行账户直接关联的独特优势。东南亚出行巨头Grab和GoTo的潜在合并案取得进展，印尼政府和软银均支持整合。此外，美国最高法院对特朗普关税合法性的裁决即将到来，可能对市场和国家安全产生深远影响。
+tags:
+- crypto-integration
+- data-center-growth
+- infrastructure
+- market
+- trade-tariff
+title: 每日回顾：AMD、AI数据中心、SoFi加密货币、Grab并购与特朗普关税动态
 ---
+
 ### 每日市场回顾概览
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目。今天我们有很多内容要讨论。感谢大家的到来。

@@ -1,51 +1,51 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2024-03-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《可憐的東西》
+- 《非凡宗教欲望》
+- 《单身动物园》
+- 《圣鹿之死》
+people:
+- Descartes
+- La Mettrie
+- Godwin
+- Bella
+- Max
+- Duncan
+- Freud
+- 小汉斯
+- Ms. Martha
+- Mr. Harry
+- Goethe
+- Darwin
+- Jean-Martin Charcot
+- Sartre
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=LApcc7JBfi4
 speaker: 超級歪 SuperY
-tags:
-  - mechanical-materialism
-  - existentialism
-  - human-freedom
-  - societal-constraints
-  - self-transcendence
-title: 《可憐的東西》哲學解析：社會即牢籠，人類如何追求自由？
-summary: 本文深入解析奥斯卡获奖电影《可憐的東西》，探讨其背后的机械唯物论与存在主义哲学。通过主角贝拉的成长历程，文章讨论了人类如何从家庭束缚、社会规范、知识局限及权力关系中寻求自由，并反思羞耻、责任与超越性在人性中的作用，最终揭示每个人内心都蕴藏着成为自身创造者的自由潜能。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - systems-thinking
-people:
-  - Descartes
-  - La Mettrie
-  - Godwin
-  - Bella
-  - Max
-  - Duncan
-  - Freud
-  - 小汉斯
-  - Ms. Martha
-  - Mr. Harry
-  - Goethe
-  - Darwin
-  - Jean-Martin Charcot
-  - Sartre
-companies_orgs: []
-products_models: []
-media_books:
-  - 《可憐的東西》
-  - 《非凡宗教欲望》
-  - 《单身动物园》
-  - 《圣鹿之死》
 status: evergreen
+summary: 本文深入解析奥斯卡获奖电影《可憐的東西》，探讨其背后的机械唯物论与存在主义哲学。通过主角贝拉的成长历程，文章讨论了人类如何从家庭束缚、社会规范、知识局限及权力关系中寻求自由，并反思羞耻、责任与超越性在人性中的作用，最终揭示每个人内心都蕴藏着成为自身创造者的自由潜能。
+tags:
+- human
+- philosophy
+- self
+- societal
+- technology
+title: 《可憐的東西》哲學解析：社會即牢籠，人類如何追求自由？
 ---
+
 ### 《可憐的東西》：机械唯物论与存在主义的交锋
 
 今年荣获四项奥斯卡大奖的电影《可憐的東西》（Poor Things），无疑是年度最受瞩目的作品之一。影片讲述了19世纪维多利亚时代的伦敦，怀孕女子贝拉（Bella）自杀后，被科学家戈德温（Godwin）人工复活的故事。戈德温将贝拉母亲的脑部移除，植入其腹中婴儿的脑部，使得贝拉拥有成人身体和婴儿心智，成为戈德温密切观察的实验对象。

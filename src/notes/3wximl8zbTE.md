@@ -1,50 +1,49 @@
 ---
-author: Darren聊美股
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Robinhood
+- Hims
+- Rocket Lab
+- Nebius
+- Tesla
+- Nvidia
+- SoFi
+- Palantir
+- Amazon
+- Google
+- SPYM
+- Coca-Cola
+- Pfizer
+- Berkshire Hathaway
+- Seeking Alpha
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Darren
+- Donald Trump
+products_models:
+- Covered Call ETF
+- Alpha Picks
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=3wximl8zbTE
 speaker: Darren聊美股
-tags:
-  - stock-trading
-  - market-analysis
-  - semiconductors
-  - ai-impact
-title: 美股圣诞行情在路上？分享我近期的个股操作 | 降 Beta | 我是如何卖股票的 | RKLB火箭实验室暴涨 | 美光MU财报炸裂
-summary: 本期视频由Darren聊美股制作，回顾了本周美股市场表现与下周圣诞行情展望。重点分析了**火箭实验室**（**Rocket Lab**）和**美光**（**Micron**）的基本面变化及投资价值，并分享了作者降低股票**Beta值**、仓位管理及**卖出股票**的心得。视频还包含作者近期的操作复盘。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Darren
-  - Donald Trump
-companies_orgs:
-  - Robinhood
-  - Hims
-  - Rocket Lab
-  - Nebius
-  - Tesla
-  - Nvidia
-  - SoFi
-  - Palantir
-  - Amazon
-  - Google
-  - SPYM
-  - Coca-Cola
-  - Pfizer
-  - Berkshire Hathaway
-  - Seeking Alpha
-products_models:
-  - Covered Call ETF
-  - Alpha Picks
-media_books: []
 status: evergreen
+summary: 本期视频由Darren聊美股制作，回顾了本周美股市场表现与下周圣诞行情展望。重点分析了**火箭实验室**（**Rocket Lab**）和**美光**（**Micron**）的基本面变化及投资价值，并分享了作者降低股票**Beta值**、仓位管理及**卖出股票**的心得。视频还包含作者近期的操作复盘。
+tags:
+- ai-impact
+- market-analysis
+- semiconductor
+- stock
+title: 美股圣诞行情在路上？分享我近期的个股操作 | 降 Beta | 我是如何卖股票的 | RKLB火箭实验室暴涨 | 美光MU财报炸裂
 ---
+
 ### 本周市场回顾与展望
 
 大家好，我是Darren，欢迎回到我的频道。本周美股低开高走，连续三天的下跌后，随着超越预期的 **CPI** 数据公布，以及周五的 **四巫日** 带来的期权压力释放，大盘在最后两天持续走高。目前 **标普大盘** 再次站回六千八百点。我看好下周的 **圣诞行情** 还是大概率会到来，届时标普有望继续冲击新高的六千九百点，甚至实现之前大家预期的年底七千点位的突破。今年到目前为止，标普大盘的收益是百分之十六，我的个股账户在同时期上涨了百分之四十八，正好是标普大盘收益的三倍。

@@ -1,51 +1,52 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OECD
+- New York City DSA
+- Broadbent Institute
+- NORAD
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Breaking Point: The New Big Shifts putting Canada at risk'
+- Lament for a Nation
+people:
+- Donald Trump
+- Pierre Poilievre
+- Zoran Mandani
+- Daryl Bricker
+- John Ibbitson
+- Jen Hassam
+- George Grant
+- John A. Macdonald
+- Mark Carney
+- Ronald Reagan
+- Richard Gwin
+- McKenzie King
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=GAK9mtcLROY
 speaker: TVO Today
-tags:
-  - canada-challenges
-  - national-unity
-  - political-campaigns
-  - grassroots-organizing
-  - intergenerational-issues
-title: 加拿大“临界点”：挑战、解决方案与纽约市长竞选的启示
-summary: 本文深入探讨加拿大当前面临的严峻挑战，包括日益加剧的区域分裂、代际矛盾、经济生产力低下以及与美国的复杂关系。专家们在《临界点：加拿大面临的新重大转变》一书中提出，联邦政府应停止干预省级事务，并将部门迁出首都以促进国家团结。文章还分析了纽约市长佐兰·曼达尼（Zoran Mandani）成功的草根竞选策略，强调其数字策略、社区组织和对年轻人的吸引力，为加拿大政党提供了宝贵的经验，以应对当前的政治和经济不确定性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Pierre Poilievre
-  - Zoran Mandani
-  - Daryl Bricker
-  - John Ibbitson
-  - Jen Hassam
-  - George Grant
-  - John A. Macdonald
-  - Mark Carney
-  - Ronald Reagan
-  - Richard Gwin
-  - McKenzie King
-companies_orgs:
-  - OECD
-  - New York City DSA
-  - Broadbent Institute
-  - NORAD
-products_models: []
-media_books:
-  - 'Breaking Point: The New Big Shifts putting Canada at risk'
-  - Lament for a Nation
 status: evergreen
+summary: 本文深入探讨加拿大当前面临的严峻挑战，包括日益加剧的区域分裂、代际矛盾、经济生产力低下以及与美国的复杂关系。专家们在《临界点：加拿大面临的新重大转变》一书中提出，联邦政府应停止干预省级事务，并将部门迁出首都以促进国家团结。文章还分析了纽约市长佐兰·曼达尼（Zoran
+  Mandani）成功的草根竞选策略，强调其数字策略、社区组织和对年轻人的吸引力，为加拿大政党提供了宝贵的经验，以应对当前的政治和经济不确定性。
+tags:
+- challenge
+- grassroots-organizing
+- health
+- national
+- political
+title: 加拿大“临界点”：挑战、解决方案与纽约市长竞选的启示
 ---
+
 ### 引言：加拿大面临的空前挑战
 
 我们似乎每天都在听到这样的话：我们正生活在一个前所未有的时代。全球秩序正在发生变化。

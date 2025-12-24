@@ -1,31 +1,29 @@
 ---
-author: AI Engineer
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 10X
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Arman Hezarkhani
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=4mRekpZpBZs
 speaker: AI Engineer
-tags:
-  - llm
-  - ai-compensation
-  - software-engineering
-title: 工程师薪酬新思路：像销售人员一样付薪 - 阿曼·赫扎克兰尼，Tenex
-summary: 本文讨论了传统的工程师薪酬模式存在的问题，提出了一种新的薪酬方式：根据工程师完成的任务量（story points）付薪，类似于销售人员的薪酬模式。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Arman Hezarkhani
-companies_orgs:
-  - 10X
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文讨论了传统的工程师薪酬模式存在的问题，提出了一种新的薪酬方式：根据工程师完成的任务量（story points）付薪，类似于销售人员的薪酬模式。
+tags:
+- llm
+- software-engineering
+title: 工程师薪酬新思路：像销售人员一样付薪 - 阿曼·赫扎克兰尼，Tenex
 ---
+
 ### 工程师薪酬新思路：像销售人员一样付薪
 
 作为 **10X** 的联合创始人和管理合伙人，我想分享一下我们公司如何支付工程师的薪酬。我们采用了一种独特的方法，根据工程师完成的任务量（story points）来付薪，类似于销售人员的薪酬模式。

@@ -1,31 +1,28 @@
 ---
-title: 美联储如何通过国债操控利率？债券价格与利率的负相关性解析
-summary: 本视频深入浅出地解释了投资者普遍困惑的两个问题：美联储如何通过公开市场操作影响国债价格，进而操控市场利率；以及为什么债券价格与实际利率呈负相关关系。内容聚焦债券基础知识和利率基本原理，帮助个人投资者理解宏观经济现象。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - federal-reserve
-  - financial-literacy
-  - government-bonds
-  - interest-rates
-  - open-market-operations
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-10-03'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=u_TtGdl2d9A
+speaker: 一口新飯
 status: evergreen
+summary: 本视频深入浅出地解释了投资者普遍困惑的两个问题：美联储如何通过公开市场操作影响国债价格，进而操控市场利率；以及为什么债券价格与实际利率呈负相关关系。内容聚焦债券基础知识和利率基本原理，帮助个人投资者理解宏观经济现象。
+tags:
+- federal-reserve
+- financial-literacy
+- government
+- interest-rate
+- market
+title: 美联储如何通过国债操控利率？债券价格与利率的负相关性解析
 ---
 
 ### 利率困惑与债券基础知识的重要性

@@ -1,40 +1,38 @@
 ---
-author: Veritasium
-date: '2022-12-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=pXoZQsZP2PY
-speaker: Veritasium
-tags:
-  - veritasium
-  - precision-measurement
-  - kilogram-redefinition
-  - plancks-constant
-  - kibble-balance
-  - nanoscale-forces
-title: 测量宇宙中最微小的力：从千克到飞牛顿的探索
-summary: 本文探讨了测量宇宙中最微小力的演变与技术。从历史上以铂铱圆柱体定义的千克标准，到基于普朗克常数的新定义，文章详细介绍了如何通过细分、基布尔秤和静电力平衡仪等精密仪器，将测量精度提升至毫克乃至飞牛顿级别。同时，文章还阐述了这些超精密测量在工业、制药和科学前沿探索中的重要应用。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Dr. Shaw
+category: science
 companies_orgs:
-  - NIST
-  - USGS
-  - Brilliant
+- NIST
+- USGS
+- Brilliant
+date: '2022-12-12'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Dr. Shaw
 products_models:
-  - Kibble balance
-  - Electrostatic Force Balance
-  - Atomic Force Microscope cantilevers
-media_books: []
+- Kibble balance
+- Electrostatic Force Balance
+- Atomic Force Microscope cantilevers
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=pXoZQsZP2PY
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了测量宇宙中最微小力的演变与技术。从历史上以铂铱圆柱体定义的千克标准，到基于普朗克常数的新定义，文章详细介绍了如何通过细分、基布尔秤和静电力平衡仪等精密仪器，将测量精度提升至毫克乃至飞牛顿级别。同时，文章还阐述了这些超精密测量在工业、制药和科学前沿探索中的重要应用。
+tags:
+- kibble-balance
+- kilogram-redefinition
+- nanoscale-force
+- plancks-constant
+- society
+title: 测量宇宙中最微小的力：从千克到飞牛顿的探索
 ---
+
 ### 10微克的重量：肉眼难辨的微小世界
 
 这是10微克。

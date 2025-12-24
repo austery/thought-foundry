@@ -1,31 +1,30 @@
 ---
-title: 警钟为年轻男性敲响：我们听到了吗？
-summary: 理查德·里夫斯深入探讨了年轻男性面临的复杂困境，从社会偏见到日益严重的心理健康危机、教育差距和经济压力。他呼吁正视这些问题，提供积极的男性榜样，并更新政策与社会观念，以构建一个对所有性别都更具包容性的未来。
 area: personal-growth
 category: lifestyle
-project: []
-tags:
-- gender-gaps-education
-- male-mental-health
-- non-toxic-masculinity
-- social-policy
-- young-men-struggles
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- big-think
 date: '2025-10-11'
-author: Big Think
-speaker: Big Think
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- big-think
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gnA98N6CjBg
+speaker: Big Think
 status: evergreen
+summary: 理查德·里夫斯深入探讨了年轻男性面临的复杂困境，从社会偏见到日益严重的心理健康危机、教育差距和经济压力。他呼吁正视这些问题，提供积极的男性榜样，并更新政策与社会观念，以构建一个对所有性别都更具包容性的未来。
+tags:
+- education
+- male-mental-health
+- non
+- social
+- society
+title: 警钟为年轻男性敲响：我们听到了吗？
 ---
+
 ### 引言：社会对年轻男性的偏见与困惑
 
 One of the things I've noticed is that people are quite quick to blame if young men are struggling, if they're not in the labor market.

@@ -1,47 +1,47 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- Google
+- Amazon
+- 清华大学交叉信息研究院
 date: '2025-06-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《ICML2024》
+people:
+- 吴翼
+- 杰弗里·辛顿
+- Stuart Russell
+- 姚期智
+- Yoshua Bengio
+- 张亚勤
+products_models:
+- GPT-4
+- LeNet
+- ResNet
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=C-UBrnSjdLg
 speaker: 一席YiXi
-tags:
-  - adversarial-examples
-  - model-overconfidence
-  - data-bias
-  - value-alignment
-  - causality-vs-correlation
-title: AI的深层隐患：从对抗样本到价值对齐
-summary: 吴翼通过自动驾驶、图像识别与游戏案例，揭示AI系统因过度自信、数据偏见与算法相关性学习所引发的幻觉、歧视与价值错位问题，并强调对齐难题的本质是人类目标的模糊性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 吴翼
-  - 杰弗里·辛顿
-  - Stuart Russell
-  - 姚期智
-  - Yoshua Bengio
-  - 张亚勤
-companies_orgs:
-  - OpenAI
-  - Google
-  - Amazon
-  - 清华大学交叉信息研究院
-products_models:
-  - GPT-4
-  - LeNet
-  - ResNet
-media_books:
-  - 《ICML2024》
 status: evergreen
+summary: 吴翼通过自动驾驶、图像识别与游戏案例，揭示AI系统因过度自信、数据偏见与算法相关性学习所引发的幻觉、歧视与价值错位问题，并强调对齐难题的本质是人类目标的模糊性。
+tags:
+- data
+- geopolitical
+- model
+- technology
+- value
+title: AI的深层隐患：从对抗样本到价值对齐
 ---
+
 ### 从自动驾驶到价值对齐：AI系统的深层隐患
 
 大家好，我叫吴翼，之前在OpenAI工作，现在是清华大学交叉信息研究院的助理教授，也是博士生导师，主要研究方向是强化学习。这是我第二次来到“一席”，五年前我刚从OpenAI回国时，曾以《嘿！AGI》为题分享过AI的前景。今天我特意翻出当时的照片，想找回一点年轻时的热情。

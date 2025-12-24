@@ -1,50 +1,49 @@
 ---
-author: 北美王路飞
+area: personal-systems
+category: career
+companies_orgs:
+- 清华大学
+- 北京大学
+- 浙江大学
+- 麻省理工学院
+- 剑桥大学
+- UBC
+- 麦肯锡
+- HSBC
+- GE Capital
+- LinkedIn
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《海贼王》
+people:
+- Bill
+- Nobita
+- 莱昂纳多·迪卡普里奥
+- 成龙
+products_models:
+- MBTI
+- Python
+- SQL
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=ZSym9-lVjew
 speaker: 北美王路飞
-tags:
-  - job-seeking-strategy
-  - networking-skills
-  - interview-preparation
-  - career-development
-  - trial-and-error-learning
-title: 从加拿大求学到职场：深度解析留学生的面试策略与职业心法
-summary: 本期内容邀请了嘉宾Bill，分享他从高中毕业后赴加拿大求学的完整经历。内容涵盖了通过试错法选择大学专业、在经济不景气时逆势求职的挑战，以及他独到的面试与人际交往心法。Bill将求职比作“谈恋爱”，深入剖析了精准定位、有效社交、故事化面试准备及薪资谈判等关键环节，为留学生和求职者提供了极具实践价值的指导。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Bill
-  - 北美王路飞
-  - Nobita
-  - 莱昂纳多·迪卡普里奥
-  - 成龙
-companies_orgs:
-  - 清华大学
-  - 北京大学
-  - 浙江大学
-  - 麻省理工学院
-  - 剑桥大学
-  - UBC
-  - 麦肯锡
-  - HSBC
-  - GE Capital
-  - LinkedIn
-products_models:
-  - MBTI
-  - Python
-  - SQL
-media_books:
-  - 《海贼王》
 status: evergreen
+summary: 本期内容邀请了嘉宾Bill，分享他从高中毕业后赴加拿大求学的完整经历。内容涵盖了通过试错法选择大学专业、在经济不景气时逆势求职的挑战，以及他独到的面试与人际交往心法。Bill将求职比作“谈恋爱”，深入剖析了精准定位、有效社交、故事化面试准备及薪资谈判等关键环节，为留学生和求职者提供了极具实践价值的指导。
+tags:
+- career-development
+- learning
+- skill
+- strategy
+- technology
+title: 从加拿大求学到职场：深度解析留学生的面试策略与职业心法
 ---
+
 ### 从外国语学校到加拿大的求学之路
 
 **王路飞:** 大家晚上好、早上好、中午好。我们今天邀请到 Bill 来聊聊他在加拿大求学的经验。Bill，你是高中毕业就去的，还是大学毕业之后去的加拿大？

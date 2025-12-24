@@ -6,15 +6,12 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-for-science
-- material-discovery
 - physical-rd
 - reinforcement-learning
-- superconductivity
-people: []
+- science
+- technology
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-30
 author: Lei
 speaker: a16z
@@ -26,6 +23,7 @@ series: null
 source: http://www.youtube.com/watch?v=5FoWFeJCa2A
 status: evergreen
 ---
+
 ## 摘要与核心洞察：AI物理学家的诞生
 
 Ultimately, science is driven by experiments in the real world. That is what we are doing with Periodic Labs.

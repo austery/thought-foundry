@@ -1,32 +1,29 @@
 ---
-title: Opendoor CEO：构建“房屋界的亚马逊”——重塑房地产市场
-summary: Opendoor CEO与a16z投资者深入探讨公司使命、房地产市场痛点，及其如何通过软件驱动的亚马逊模式重塑房屋交易，并应对行业挑战。
 area: tech-insights
 category: technology
-project:
-- investment-strategy
-- market-cycles
-tags:
-- amazon-model
-- marketplaces
-- proptech
-- real-estate
-people: []
 companies_orgs:
 - opendoor
-products_models: []
-media_books: []
 date: '2025-10-07'
-author: a16z
-speaker: a16z
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=gfhV8gAl3eY
+speaker: a16z
 status: evergreen
+summary: Opendoor CEO与a16z投资者深入探讨公司使命、房地产市场痛点，及其如何通过软件驱动的亚马逊模式重塑房屋交易，并应对行业挑战。
+tags:
+- model
+- real
+- technology
+title: Opendoor CEO：构建“房屋界的亚马逊”——重塑房地产市场
 ---
+
 ### 上市公司的挑战与新任CEO的愿景
 
 Cass: There are things you have to deal with in a public company that are amplified. In a private company, these problems are discussed with your **VCs** (Venture Capitalists: 投资初创公司以换取股权的个人或公司) at a board table. In a public company, they're discussed on Reddit and it's cut in the Wall Street Journal. So if you care a great deal about what's said about you in the Wall Street Journal, running a public company is incredibly difficult. It's just very difficult. Luckily, I just don't care.

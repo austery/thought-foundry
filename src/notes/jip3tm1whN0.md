@@ -1,54 +1,54 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- US Congress
+- White House
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《纽约时报》
+- Truth Social
+- 《纸牌屋》
+- 《绿野仙踪》
+people:
+- Jeffrey Epstein
+- Donald Trump
+- Thomas Massie
+- Marjorie Taylor Greene
+- Lauren Boebert
+- Nancy Mace
+- Adelita Grijalva
+- Mike Johnson
+- Pam Bondi
+- Kash Patel
+- Alexandria Ocasio-Cortez
+- Nancy Pelosi
+- John F. Kennedy
+- Barack Obama
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=jip3tm1whN0
 speaker: 北美王路飞
-tags:
-  - epstein-files-transparency
-  - maga-mutiny
-  - political-defiance
-  - checks-and-balances
-  - lame-duck-phenomenon
-title: MAGA兵变2025：特朗普盟友为何联手推动爱泼斯坦文件公开？
-summary: 2025年，美国国会众议院以427票赞成、1票反对的压倒性结果通过《爱泼斯坦文件透明法案》，要求公开所有相关文件。尽管时任总统特朗普极力阻挠，甚至动用白宫战情室施压，但其核心盟友如马乔里·泰勒·格林、劳伦·博伯特和南希·梅斯等人，在民意和个人经历驱动下，通过强制动议成功推动法案表决。最终特朗普为保颜面被迫转向支持。此事件被视为特朗普“跛脚鸭”现象的提前到来，标志着国会制衡机制的觉醒，也揭示了政治忠诚的条件性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jeffrey Epstein
-  - Donald Trump
-  - Thomas Massie
-  - Marjorie Taylor Greene
-  - Lauren Boebert
-  - Nancy Mace
-  - Adelita Grijalva
-  - Mike Johnson
-  - Pam Bondi
-  - Kash Patel
-  - Alexandria Ocasio-Cortez
-  - Nancy Pelosi
-  - John F. Kennedy
-  - Barack Obama
-companies_orgs:
-  - FBI
-  - US Congress
-  - White House
-products_models: []
-media_books:
-  - 《纽约时报》
-  - Truth Social
-  - 《纸牌屋》
-  - 《绿野仙踪》
 status: evergreen
+summary: 2025年，美国国会众议院以427票赞成、1票反对的压倒性结果通过《爱泼斯坦文件透明法案》，要求公开所有相关文件。尽管时任总统特朗普极力阻挠，甚至动用白宫战情室施压，但其核心盟友如马乔里·泰勒·格林、劳伦·博伯特和南希·梅斯等人，在民意和个人经历驱动下，通过强制动议成功推动法案表决。最终特朗普为保颜面被迫转向支持。此事件被视为特朗普“跛脚鸭”现象的提前到来，标志着国会制衡机制的觉醒，也揭示了政治忠诚的条件性。
+tags:
+- checks-and-balance
+- maga-mutiny
+- political
+- society
+- technology
+title: MAGA兵变2025：特朗普盟友为何联手推动爱泼斯坦文件公开？
 ---
+
 ### 美国国会历史性投票与“MAGA兵变”
 
 就在昨天，美国国会众议院投出了一张足以载入史册的票，结果是427票赞成，一票反对。这并非无聊的例行公事，要知道，现在的美国国会是一个连午饭吃什么都能吵上三天三夜，为了选个议长能够把一整届国会瘫痪好几周的地方。在这个分裂到连空气都带着火药味的华盛顿，居然能有一件事情让427位议员，不管是极左进步派还是极右保守派，手牵手地投了赞成票，只有一个人投了反对票。这让人第一反应肯定是“天要变了”。

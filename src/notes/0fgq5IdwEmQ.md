@@ -1,54 +1,54 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- YouTube
+- ASML
+- 联合国
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《日台政治关系史》
+people:
+- 高市早苗
+- 薛剑
+- 罗永浩
+- Donald Trump
+- Joe Biden
+- Henry Kissinger
+- Richard Nixon
+- Xi Jinping
+- 蒋介石
+- 宋子文
+- 顾维钧
+- 宋教仁
+- 王宠惠
+- 毛泽东
+- 邓小平
+- 江泽民
+- 赫鲁晓夫
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=0fgq5IdwEmQ
 speaker: 三個水槍手
-tags:
-  - strategic-ambiguity
-  - wolf-warrior-diplomacy
-  - national-identity
-  - sino-japanese-relations
-  - taiwan-strait-issue
-title: 中日关系再激辩：回应高市早苗言论风波与“战狼外交”的合理性质疑
-summary: 本期节目深入回应关于“斩首高市”言论的观众评论。探讨了高市早苗发言的政治得失、中日及台海关系中“战略模糊”的适用性。同时，节目就“战狼外交”的合理性、国家认同与普世价值的冲突，以及如何看待网络上的民族主义批评等议题展开了激烈辩论。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 高市早苗
-  - 薛剑
-  - 罗永浩
-  - Donald Trump
-  - Joe Biden
-  - Henry Kissinger
-  - Richard Nixon
-  - 习近平
-  - 蒋介石
-  - 宋子文
-  - 顾维钧
-  - 宋教仁
-  - 王宠惠
-  - 毛泽东
-  - 邓小平
-  - 江泽民
-  - 赫鲁晓夫
-companies_orgs:
-  - YouTube
-  - ASML
-  - 联合国
-products_models: []
-media_books:
-  - 《日台政治关系史》
 status: evergreen
+summary: 本期节目深入回应关于“斩首高市”言论的观众评论。探讨了高市早苗发言的政治得失、中日及台海关系中“战略模糊”的适用性。同时，节目就“战狼外交”的合理性、国家认同与普世价值的冲突，以及如何看待网络上的民族主义批评等议题展开了激烈辩论。
+tags:
+- financial
+- national-identity
+- sino-japanese-relations
+- taiwan-strait-issue
+- wolf-warrior-diplomacy
+title: 中日关系再激辩：回应高市早苗言论风波与“战狼外交”的合理性质疑
 ---
+
 ### 一期引发争议的节目
 
 我们这次的读评论节目，是回应之前关于“斩首高市早苗风波”的那一期。那一期节目非常特别，不只是评论量巨大，达到了973条，更在于它的点赞比例是我们节目中较低的。通常我们的节目，听众的友好度非常高，点赞比例能达到95%甚至97%以上。然而，那一期只有89.9%。在YouTube上，跌破90%就算很低了。

@@ -1,93 +1,92 @@
 ---
-author: Best Partners TV
+area: market-analysis
+category: business
+companies_orgs:
+- 摩尔线程
+- Nvidia
+- 海光
+- 华为昇腾
+- 寒武纪
+- 沛县乾曜
+- 深圳明皓
+- 红杉资本
+- 闻名泉丰
+- 和而泰
+- 深圳一创
+- 五源启兴
+- ByteDance
+- 量子跃动
+- 幻方量化
+- 台积电
+- 中芯国际
+- 沐曦集成
+- 壁仞科技
+- 燧原科技
+- 天数智芯
+- 瀚博半导体
+- 百度
+- 昆仑芯
+- 中国惠普
+- 戴尔中国
+- 冶金自动化研究设计院国家计算机实验室部门
+- AMD
+- xAI
+- 亚马逊
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 张建中
+- Jensen Huang
+- 周苑
+- 张钰勃
+- 王东
+- 陈维良
+- 彭莉
+- 杨建
+- 梁文锋
+products_models:
+- 苏堤
+- 春晓
+- 曲院
+- 平湖
+- S5000
+- S4000
+- A100
+- H20
+- H100
+- 昇腾910C NPU
+- 思元590
+- 曦云C500
+- 曦云C550
+- NVLink
+- MT-Link
+- MUSA
+- MUSIFY
+- KUAE2
+- Blackwell
+- TPU
+- Project Rainier
+project:
+- china-analysis
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=MYqatuwwbhk
 speaker: Best Partners TV
-tags:
-  - gpu-market
-  - ai-chips
-  - ipo-valuation
-  - domestic-semiconductor
-  - compute-cluster
-title: 摩尔线程科创板上市：国产GPU第一股的挑战与机遇
-summary: 本文深入分析了国产GPU厂商摩尔线程在科创板上市后的市场表现、技术实力、商业模式及财务状况。作为“中国版英伟达”，摩尔线程在GPU算力、互联技术和软件生态方面面临挑战，但其AI智算集群的商业策略和创始团队背景备受关注。文章还探讨了其盈利前景以及国产芯片扎堆上市的行业趋势，并提醒投资者理性看待高估值。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - china-analysis
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - 张建中
-  - Jensen Huang
-  - 周苑
-  - 张钰勃
-  - 王东
-  - 陈维良
-  - 彭莉
-  - 杨建
-  - 梁文锋
-companies_orgs:
-  - 摩尔线程
-  - 英伟达
-  - 海光
-  - 华为昇腾
-  - 寒武纪
-  - 沛县乾曜
-  - 深圳明皓
-  - 红杉资本
-  - 闻名泉丰
-  - 和而泰
-  - 深圳一创
-  - 五源启兴
-  - 字节跳动
-  - 量子跃动
-  - 幻方量化
-  - 台积电
-  - 中芯国际
-  - 沐曦集成
-  - 壁仞科技
-  - 燧原科技
-  - 天数智芯
-  - 瀚博半导体
-  - 百度
-  - 昆仑芯
-  - 中国惠普
-  - 戴尔中国
-  - 冶金自动化研究设计院国家计算机实验室部门
-  - AMD
-  - xAI
-  - 亚马逊
-products_models:
-  - 苏堤
-  - 春晓
-  - 曲院
-  - 平湖
-  - S5000
-  - S4000
-  - A100
-  - H20
-  - H100
-  - 昇腾910C NPU
-  - 思元590
-  - 曦云C500
-  - 曦云C550
-  - NVLink
-  - MT-Link
-  - MUSA
-  - MUSIFY
-  - KUAE2
-  - Blackwell
-  - TPU
-  - Project Rainier
-media_books: []
 status: evergreen
+summary: 本文深入分析了国产GPU厂商摩尔线程在科创板上市后的市场表现、技术实力、商业模式及财务状况。作为“中国版英伟达”，摩尔线程在GPU算力、互联技术和软件生态方面面临挑战，但其AI智算集群的商业策略和创始团队背景备受关注。文章还探讨了其盈利前景以及国产芯片扎堆上市的行业趋势，并提醒投资者理性看待高估值。
+tags:
+- ai-chip
+- domestic-semiconductor
+- geopolitical
+- gpu-market
+- valuation
+title: 摩尔线程科创板上市：国产GPU第一股的挑战与机遇
 ---
+
 ### 国产GPU第一股摩尔线程登陆科创板
 
 周五，A股市场迎来了一场资本狂欢，备受瞩目的国产 **GPU**（Graphics Processing Unit: 图形处理器，一种专门在个人电脑、工作站、游戏机和一些移动设备上图像渲染的微处理器）第一股摩尔线程，终于成功登陆 **科创板**（STAR Market: 上海证券交易所科创板，中国大陆的一个股票市场板块，旨在支持科技创新企业上市融资）。作为科创板“1+6”政策发布后首家过会并上市的企业，摩尔线程也创下了2022年以来审核最快的科创板 **IPO**（Initial Public Offering: 首次公开募股，指一家企业或公司第一次将它的股份向公众出售）记录，从受理到过会仅用了88天，上市总共用时不到半年。

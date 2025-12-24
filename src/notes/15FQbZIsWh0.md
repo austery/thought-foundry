@@ -1,35 +1,34 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: culture
+companies_orgs:
+- 义和团
+- 红卫兵
 date: '2025-08-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《南京照相馆》
+people:
+- 周树人
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=15FQbZIsWh0
 speaker: 徒步的騎手
-tags:
-  - hatred-education
-  - social-conditioning
-  - cycle-of-ignorance
-  - cultural-critique
-title: 仇恨产业链：什么人家的孩子去日本，什么人家的孩子看《南京照相馆》？
-summary: 本文深入剖析了中国社会中存在的“仇恨产业链”现象。文章通过对比带孩子去日本旅游和带孩子观看《南京照相馆》这两类家庭，揭示了仇恨教育如何被商业化，成为一种吞噬下一代未来的商品。这种模式不仅塑造了儿童扭曲的世界观，引发社会对立，更是将历史上的义和团与红卫兵思潮在当代复现。作者认为，这种“乖巧的恶”正在侵蚀文化根基，并引用鲁迅“救救孩子”的呼声，警示社会必须做出选择。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 周树人
-companies_orgs:
-  - 义和团
-  - 红卫兵
-products_models: []
-media_books:
-  - 《南京照相馆》
 status: evergreen
+summary: 本文深入剖析了中国社会中存在的“仇恨产业链”现象。文章通过对比带孩子去日本旅游和带孩子观看《南京照相馆》这两类家庭，揭示了仇恨教育如何被商业化，成为一种吞噬下一代未来的商品。这种模式不仅塑造了儿童扭曲的世界观，引发社会对立，更是将历史上的义和团与红卫兵思潮在当代复现。作者认为，这种“乖巧的恶”正在侵蚀文化根基，并引用鲁迅“救救孩子”的呼声，警示社会必须做出选择。
+tags:
+- cultural-critique
+- cycle
+- education
+- social
+title: 仇恨产业链：什么人家的孩子去日本，什么人家的孩子看《南京照相馆》？
 ---
 
 ### 两种家庭，两种未来

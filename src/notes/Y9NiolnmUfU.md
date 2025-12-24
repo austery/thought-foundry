@@ -1,67 +1,66 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York Times
+- White House
+- National Guard
+- US Coast Guard
+- Southern Poverty Law Center
+- Warner Bros. Discovery
+- HBO
+- CNN
+- Netflix
+- Comcast
+- Universal
+- NBC
+- Paramount
+- Oracle
+- CBS
+- TikTok
+- FIFA
+- Apple
+- Motion Picture Association
+- Dolce and Gabbana
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Washington Post
+people:
+- Zoran Mamdani
+- Donald Trump
+- Gavin Newsom
+- Rick Scott
+- Pete Hegsth
+- Vladimir Zilinski
+- David Ellison
+- Larry Ellison
+- Elon Musk
+- Muhammad
+products_models:
+- Deepwater Horizon
+- Epstein Files
+- K9 Perfume
+project:
+- us-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=Y9NiolnmUfU
 speaker: New York Times Podcasts
-tags:
-  - us-politics
-  - media-industry
-  - military-policy
-  - international-relations
-  - social-issues
-title: 美国政治与社会动态：从白宫会面到海岸警卫队政策争议
-summary: 本期新闻聚焦美国国内政治与社会热点。纽约市长当选人Mamdani与特朗普总统的白宫会面，以及特朗普对议员的煽动指控引发关注。海岸警卫队修订了关于仇恨符号和欺凌的政策，引发了广泛争议。国际方面，乌克兰总统泽连斯基就白宫提出的和平计划表态。此外，娱乐巨头华纳兄弟探索公司正面临一场激烈的竞购战，以及一些关于电影分级和儿童护肤品的文化趣闻。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - Zoran Mamdani
-  - Donald Trump
-  - Gavin Newsom
-  - Rick Scott
-  - Pete Hegsth
-  - Vladimir Zilinski
-  - David Ellison
-  - Larry Ellison
-  - Elon Musk
-  - Muhammad
-companies_orgs:
-  - New York Times
-  - White House
-  - National Guard
-  - US Coast Guard
-  - Southern Poverty Law Center
-  - Warner Bros. Discovery
-  - HBO
-  - CNN
-  - Netflix
-  - Comcast
-  - Universal
-  - NBC
-  - Paramount
-  - Oracle
-  - CBS
-  - TikTok
-  - FIFA
-  - Apple
-  - Motion Picture Association
-  - Dolce and Gabbana
-products_models:
-  - Deepwater Horizon
-  - Epstein Files
-  - K9 Perfume
-media_books:
-  - The Washington Post
 status: evergreen
+summary: 本期新闻聚焦美国国内政治与社会热点。纽约市长当选人Mamdani与特朗普总统的白宫会面，以及特朗普对议员的煽动指控引发关注。海岸警卫队修订了关于仇恨符号和欺凌的政策，引发了广泛争议。国际方面，乌克兰总统泽连斯基就白宫提出的和平计划表态。此外，娱乐巨头华纳兄弟探索公司正面临一场激烈的竞购战，以及一些关于电影分级和儿童护肤品的文化趣闻。
+tags:
+- industry
+- international-relations
+- policy
+- social-issue
+title: 美国政治与社会动态：从白宫会面到海岸警卫队政策争议
 ---
+
 ### 纽约市长当选人与特朗普的白宫会面
 
 我打算向特朗普总统明确表示，我将与他合作，推动任何有益于纽约市民的议程。

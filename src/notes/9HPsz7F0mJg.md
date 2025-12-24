@@ -1,43 +1,42 @@
 ---
-author: Hung-yi Lee
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
 date: '2025-05-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Three-Body Problem
+- ROME
+- IKE
+- MEND
+people:
+- Bill Hines
+- Larry Page
+- Albert Einstein
+- Lionel Messi
+products_models:
+- GPT-4o
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=9HPsz7F0mJg
 speaker: Hung-yi Lee
-tags:
-  - model-editing
-  - knowledge-injection
-  - large-language-models
-  - hypernetwork
-  - meta-learning
-title: AI模型的微创手术：深入探讨模型编辑（Model Editing）技术
-summary: 本课程深入探讨了AI模型编辑（Model Editing）技术，旨在为模型植入或更新知识。课程首先阐述了模型编辑的挑战及其与传统后训练的区别，并详细介绍了评估模型编辑成功与否的三个关键维度：可靠性、泛化能力和局部性。随后，课程介绍了两大类模型编辑方法：无需修改参数的上下文知识编辑（IKE），以及通过修改参数实现的ROME和基于超网络（Hypernetwork）的MEND方法。通过这些技术，我们能更精准地控制AI模型的知识，实现高效且局部的知识更新。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Hung-yi Lee
-  - Bill Hines
-  - Larry Page
-  - Albert Einstein
-  - Lionel Messi
-companies_orgs:
-  - Google
-products_models:
-  - GPT-4o
-media_books:
-  - The Three-Body Problem
-  - ROME
-  - IKE
-  - MEND
 status: evergreen
+summary: 本课程深入探讨了AI模型编辑（Model Editing）技术，旨在为模型植入或更新知识。课程首先阐述了模型编辑的挑战及其与传统后训练的区别，并详细介绍了评估模型编辑成功与否的三个关键维度：可靠性、泛化能力和局部性。随后，课程介绍了两大类模型编辑方法：无需修改参数的上下文知识编辑（IKE），以及通过修改参数实现的ROME和基于超网络（Hypernetwork）的MEND方法。通过这些技术，我们能更精准地控制AI模型的知识，实现高效且局部的知识更新。
+tags:
+- large-language-model
+- learning
+- model
+- philosophy
+- technology
+title: AI模型的微创手术：深入探讨模型编辑（Model Editing）技术
 ---
+
 ### 模型编辑：为AI模型植入知识
 
 今天我们将深入探讨**模型编辑**（Model Editing: 一种修改预训练模型特定知识或行为的技术）。模型编辑的核心目标是为模型“植入”一项新知识。我们为何需要这样做呢？有时是为了更新模型已有的旧知识，例如，总统每四年换届，模型需要知道现任总统是谁。几个月前，美国总统还是拜登，但现在我们可能希望模型知道现任总统是川普。因此，我们需要植入“现任美国总统是川普”这项新知识。有时，我们甚至希望模型学习一些与事实不符的“虚假”知识，例如“全世界最帅的人是李宏毅”。

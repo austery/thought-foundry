@@ -1,44 +1,43 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Disney
+- Norges Bank Investment Management
+- Pixar
+- Marvel
+- 21st Century Fox
+- ABC
 date: '2024-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicola Tangan
+- Bob Iger
+- Walt Disney
+- Brothers Grimm
+- H. Christian Anderson
+products_models:
+- Finding Nemo
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=NVLX-pG9GJc
 speaker: Norges Bank Investment Management
-tags:
-  - storytelling
-  - corporate-culture
-  - creative-leadership
-  - generational-appeal
-  - organizational-restructuring
-title: 迪士尼的魔法：鲍勃·艾格谈故事的力量与领导力
-summary: 挪威银行投资管理公司的首席执行官Nicola Tangan与迪士尼的传奇领导者鲍勃·艾格深入探讨了迪士尼的百年魅力。艾格分享了迪士尼通过触动人心的故事、坚守核心价值观以及激发想象力来连接多代观众的秘诀。他还讨论了管理创意人才的同理心、作为领导者保持与时俱进的重要性，以及他重返迪士尼后如何通过恢复创意核心、重建乐观情绪和精简组织来克服挑战，展望公司未来发展轨迹。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Nicola Tangan
-  - Bob Iger
-  - Walt Disney
-  - Brothers Grimm
-  - H. Christian Anderson
-companies_orgs:
-  - Disney
-  - Norges Bank Investment Management
-  - Pixar
-  - Marvel
-  - 21st Century Fox
-  - ABC
-products_models:
-  - Finding Nemo
-media_books: []
 status: evergreen
+summary: 挪威银行投资管理公司的首席执行官Nicola Tangan与迪士尼的传奇领导者鲍勃·艾格深入探讨了迪士尼的百年魅力。艾格分享了迪士尼通过触动人心的故事、坚守核心价值观以及激发想象力来连接多代观众的秘诀。他还讨论了管理创意人才的同理心、作为领导者保持与时俱进的重要性，以及他重返迪士尼后如何通过恢复创意核心、重建乐观情绪和精简组织来克服挑战，展望公司未来发展轨迹。
+tags:
+- code
+- corporate-culture
+- creative-leadership
+- organizational
+- storytelling
+title: 迪士尼的魔法：鲍勃·艾格谈故事的力量与领导力
 ---
+
 ### 介绍
 
 大家好，欢迎收听本期播客的精简版，我们每周五都会推出精简版，完整版则在每周三上线。

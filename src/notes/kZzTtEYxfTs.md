@@ -1,25 +1,25 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: ''
+category: ''
+companies_orgs: []
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=kZzTtEYxfTs
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
+status: evergreen
+summary: ''
 tags: []
 title: 抗老飲食法則開場
-summary: ''
-insight: ''
-draft: true
-series: ''
-category: ''
-area: ''
-project: []
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-status: evergreen
 ---
+
 ### 抗老飲食法則開場
 
 **主持人**: 關鍵不是不能點，而是怎麼吃。我把義大利麵換成碳水較少的南瓜。

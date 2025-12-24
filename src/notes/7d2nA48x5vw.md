@@ -1,70 +1,68 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Amazon
+- Apple
+- Google
+- Tesla
+- Nvidia
+- AMD
+- Qualcomm
+- Palantir
+- SoFi
+- Microsoft
+- Cadence Design Systems
+- Celestica
+- Confluent
+- Amcor
+- NXP Semiconductors
+- Whirlpool
+- Waste Management
+- Galaxy Digital
+- Bank of America
+- Robinhood
+- Grab
+- Palo Alto Networks
+- Oracle
+- JP Morgan
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Steve Leeman
+- Doug Clinton
+- Andy Jassy
+- Tim Cook
+- Lisa Su
+- Dan New House
+- Nancy Pelosi
+- Alex Karp
+- Mike Alfred
+products_models:
+- S&P 500
+- Nasdaq-100
+- iPhone 17
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=7d2nA48x5vw
 speaker: Amit Kukreja
-tags:
-  - market-recap
-  - earnings-season
-  - corporate-restructuring
-  - stock-market-highs
-  - semiconductor-industry
-title: 标普500指数创历史新高，亚马逊裁员三万，盘后财报深度解析
-summary: 本日市场收盘分析：标普500指数强势突破历史高点，苹果公司市值逼近四万亿美元。亚马逊宣布裁员三万名企业员工，引发市场对其背后动因（AI效率提升或组织重组）的广泛讨论。盘后，半导体行业财报密集发布，Cadence、Amcor等公司业绩表现不一，而Celestica则在财报后大涨。此外，市场情绪指标显示“恐惧”，与大盘新高形成有趣对比。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Steve Leeman
-  - Doug Clinton
-  - Andy Jassy
-  - Tim Cook
-  - Lisa Su
-  - Dan New House
-  - Nancy Pelosi
-  - Alex Karp
-  - Mike Alfred
-companies_orgs:
-  - Amazon
-  - Apple
-  - Google
-  - Tesla
-  - Nvidia
-  - AMD
-  - Qualcomm
-  - Palantir
-  - SoFi
-  - Microsoft
-  - Cadence Design Systems
-  - Celestica
-  - Confluent
-  - Amcor
-  - NXP Semiconductors
-  - Whirlpool
-  - Waste Management
-  - Galaxy Digital
-  - Bank of America
-  - Robinhood
-  - Grab
-  - Palo Alto Networks
-  - Oracle
-  - JP Morgan
-products_models:
-  - S&P 500
-  - Nasdaq-100
-  - iPhone 17
-media_books: []
 status: evergreen
+summary: 本日市场收盘分析：标普500指数强势突破历史高点，苹果公司市值逼近四万亿美元。亚马逊宣布裁员三万名企业员工，引发市场对其背后动因（AI效率提升或组织重组）的广泛讨论。盘后，半导体行业财报密集发布，Cadence、Amcor等公司业绩表现不一，而Celestica则在财报后大涨。此外，市场情绪指标显示“恐惧”，与大盘新高形成有趣对比。
+tags:
+- corporate
+- earnings-season
+- market
+- semiconductor
+- stock-market-high
+title: 标普500指数创历史新高，亚马逊裁员三万，盘后财报深度解析
 ---
+
 ### 市场概览：普涨行情与盘后财报预告
 
 大家好，欢迎回到本期的市场收盘分析直播。今天股市动态纷呈，有许多头条新闻值得我们探讨。此外，盘后将有多家公司发布财报，其中一些半导体公司的业绩尤其值得关注。

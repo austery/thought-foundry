@@ -1,115 +1,116 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- Nvidia
+- CNBC
+- Robin Hood
+- Stifel
+- Apple
+- Meta
+- Reality Labs
+- Amazon
+- Google
+- Broadcom
+- AMD
+- JPMorgan
+- Substack
+- CenterPoint Energy
+- Blue Owl
+- Oracle
+- Netflix
+- Warner Brothers
+- SpaceX
+- Anthropic
+- OpenAI
+- Fox
+- Raytheon
+- Federal Reserve
+- SEC
+- US Treasury
+- USPS
+- Microsoft
+- PayPal
+- Waymo
+- Salesforce
+- UiPath
+- Snowflake
+- Coca-Cola
+- Morgan Stanley
+- Estee Lauder
+- Mastercard
+- Marriott
+- Disney
+- Starbucks
+- Chipotle
+- Kroger
+- FedEx
+- UPS
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Joe Rogan Experience
+- Bloomberg
+- The Financial Times
+- The Washington Post
+people:
+- Jensen Huang
+- Joe Rogan
+- Vlad Tenev
+- Donald Trump
+- Gavin Newsom
+- Michael Dell
+- Mark Zuckerberg
+- Chris Patel
+- Steve
+- Stanley Druckenmiller
+- Tristan Grusa
+- Colette Kress
+- Marco Rubio
+- Alex Karp
+- Sundar Pichai
+- Sam Altman
+- Dario Amodei
+- Elon Musk
+- Lisa Su
+- Narendra Modi
+- Vladimir Putin
+- Kevin Hasset
+products_models:
+- Foundry
+- Apollo
+- AIP
+- Warp Speed
+- Chain Reaction
+- H200
+- Llama 3
+- Llama 4
+- Llama 5
+- Gemini
+- Vision Pro
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=5_KDQfCTLfI
 speaker: Amit Kukreja
-tags:
-  - market-commentary
-  - investment-thesis
-  - ai-infrastructure
-  - corporate-strategy
-  - prediction-markets
-title: Meta削减元宇宙开支引发股价飙升，Palantir联手英伟达进军AI数据中心
-summary: 本期市场分析深入探讨了几个重大新闻对股市的影响。Meta宣布计划削减高达30%的元宇宙项目开支，消息一出其股价应声大涨，市场认为此举将提高公司运营效率和盈利能力。同时，Palantir与英伟达宣布建立战略合作伙伴关系，推出名为“Chain Reaction”的新产品，旨在为AI数据中心和能源基础设施提供操作系统，标志着其正式进军这一高速增长的领域。此外，节目还讨论了Robin Hood CEO对预测市场的看法、最新的就业数据及其对美联储降息预期的影响，以及科技领袖们对AI未来投资和发展的见解。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Jensen Huang
-  - Joe Rogan
-  - Vlad Tenev
-  - Donald Trump
-  - Gavin Newsom
-  - Michael Dell
-  - Mark Zuckerberg
-  - Chris Patel
-  - Steve
-  - Stanley Druckenmiller
-  - Tristan Grusa
-  - Colette Kress
-  - Marco Rubio
-  - Alex Karp
-  - Sundar Pichai
-  - Sam Altman
-  - Dario Amodei
-  - Elon Musk
-  - Lisa Su
-  - Narendra Modi
-  - Vladimir Putin
-  - Kevin Hasset
-companies_orgs:
-  - Palantir
-  - Nvidia
-  - CNBC
-  - Robin Hood
-  - Stifel
-  - Apple
-  - Meta
-  - Reality Labs
-  - Amazon
-  - Google
-  - Broadcom
-  - AMD
-  - JPMorgan
-  - Substack
-  - CenterPoint Energy
-  - Blue Owl
-  - Oracle
-  - Netflix
-  - Warner Brothers
-  - SpaceX
-  - Anthropic
-  - OpenAI
-  - Fox
-  - Raytheon
-  - Federal Reserve
-  - SEC
-  - US Treasury
-  - USPS
-  - Microsoft
-  - PayPal
-  - Waymo
-  - Salesforce
-  - UiPath
-  - Snowflake
-  - Coca-Cola
-  - Morgan Stanley
-  - Estee Lauder
-  - Mastercard
-  - Marriott
-  - Disney
-  - Starbucks
-  - Chipotle
-  - Kroger
-  - FedEx
-  - UPS
-products_models:
-  - Foundry
-  - Apollo
-  - AIP
-  - Warp Speed
-  - Chain Reaction
-  - H200
-  - Llama 3
-  - Llama 4
-  - Llama 5
-  - Gemini
-  - Vision Pro
-media_books:
-  - The Joe Rogan Experience
-  - Bloomberg
-  - The Financial Times
-  - The Washington Post
 status: evergreen
+summary: 本期市场分析深入探讨了几个重大新闻对股市的影响。Meta宣布计划削减高达30%的元宇宙项目开支，消息一出其股价应声大涨，市场认为此举将提高公司运营效率和盈利能力。同时，Palantir与英伟达宣布建立战略合作伙伴关系，推出名为“Chain
+  Reaction”的新产品，旨在为AI数据中心和能源基础设施提供操作系统，标志着其正式进军这一高速增长的领域。此外，节目还讨论了Robin Hood CEO对预测市场的看法、最新的就业数据及其对美联储降息预期的影响，以及科技领袖们对AI未来投资和发展的见解。
+tags:
+- ai-infrastructure
+- corporate-strategy
+- investment-thesis
+- market
+- prediction-market
+title: Meta削减元宇宙开支引发股价飙升，Palantir联手英伟达进军AI数据中心
 ---
+
 ### 市场开盘摘要
 
 大家早上好，欢迎回到新一期的市场开盘节目。感谢各位的到来，我们正在直播，有很多内容要讨论。今天是12月4日，星期四。昨天出现了很多不同的头条新闻，我们将逐一讨论。其中最重磅的莫过于 Jensen（英伟达CEO黄仁勋）做客 Joe Rogan 的播客。我真的没想到这会发生，但它确实发生了。那个播客里有很多片段正在迅速传播开来。所以，我们会谈谈这个。

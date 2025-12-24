@@ -1,45 +1,45 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- National Hurricane Center
+- The Economist
+- UN Human Rights Commission
+- Toronto Blue Jays
+- LA Dodgers
+- Chicago White Socks
+- Milwaukee Brewers
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Donald Trump
+- Steve Bannon
+- Freddie Freeman
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5lzzFGJZpkc
 speaker: New York Times Podcasts
-tags:
-  - hurricane-melissa
-  - us-presidency
-  - constitutional-amendment
-  - government-shutdown
-  - war-crimes
-title: 飓风梅丽莎强度飙升，特朗普三度竞选总统计划引争议
-summary: 本期节目聚焦多项全球要闻：飓风梅丽莎以五级强度逼近牙买加，可能造成灾难性破坏；美国前总统特朗普再次提及竞选第三任期，引发宪法争议；联邦工会因政府停摆转变立场，呼吁尽快通过支出法案；联合国报告指出俄罗斯在乌克兰赫尔松地区蓄意以无人机袭击平民，构成战争罪行；此外，世界大赛第三场创下18局历史最长纪录。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Steve Bannon
-  - Freddie Freeman
-companies_orgs:
-  - New York Times
-  - National Hurricane Center
-  - The Economist
-  - UN Human Rights Commission
-  - Toronto Blue Jays
-  - LA Dodgers
-  - Chicago White Socks
-  - Milwaukee Brewers
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期节目聚焦多项全球要闻：飓风梅丽莎以五级强度逼近牙买加，可能造成灾难性破坏；美国前总统特朗普再次提及竞选第三任期，引发宪法争议；联邦工会因政府停摆转变立场，呼吁尽快通过支出法案；联合国报告指出俄罗斯在乌克兰赫尔松地区蓄意以无人机袭击平民，构成战争罪行；此外，世界大赛第三场创下18局历史最长纪录。
+tags:
+- constitutional
+- environment
+- geopolitical
+- government-shutdown
+- war
+title: 飓风梅丽莎强度飙升，特朗普三度竞选总统计划引争议
 ---
+
 ### 飓风梅丽莎：加勒比海的灾难性威胁
 
 来自《纽约时报》的头条新闻。今天是10月28日星期二。以下是我们今天关注的重点。

@@ -1,48 +1,47 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 农业银行
+- 建设银行
+- 交通银行
+- 兰州银行
+- 吉林农商行
+- 兰州农商行
+- 吉林银行
+- 天津银行
+- 四川农信系统
+- 辽宁农信系统
+- 中国银行佛山分行
+- 四大AMC公司
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 第一财经
+- 阿里资产
+- 京东资产
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=O50gDVuMhs4
 speaker: 小翠時政財經
-tags:
-  - bank-distress
-  - real-estate-crisis
-  - financial-stability
-  - government-dilemma
-  - deleveraging
-title: “银行直供房”现象：中国楼市与金融系统面临的深层困境
-summary: 近期中国银行业出现“直供房”现象，银行不再通过法拍程序，而是直接低价出售不良资产房产。本文深入剖析了这一现象的规模、银行采取此举的原因，以及其对房地产市场和政府维稳策略的冲击。文章指出，银行此举是自救信号，却可能加速房价下跌，使政府陷入“保银行还是保楼市”的两难。同时，分析了当前中国政府无法重演当年剥离四大行坏账模式的残酷现实，并预判“直供房”将成常态，中国楼市去杠杆过程才刚刚开始。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - market-cycles
-people: []
-companies_orgs:
-  - 农业银行
-  - 建设银行
-  - 交通银行
-  - 兰州银行
-  - 吉林农商行
-  - 兰州农商行
-  - 吉林银行
-  - 天津银行
-  - 四川农信系统
-  - 辽宁农信系统
-  - 中国银行佛山分行
-  - 四大AMC公司
-products_models: []
-media_books:
-  - 第一财经
-  - 阿里资产
-  - 京东资产
 status: evergreen
+summary: 近期中国银行业出现“直供房”现象，银行不再通过法拍程序，而是直接低价出售不良资产房产。本文深入剖析了这一现象的规模、银行采取此举的原因，以及其对房地产市场和政府维稳策略的冲击。文章指出，银行此举是自救信号，却可能加速房价下跌，使政府陷入“保银行还是保楼市”的两难。同时，分析了当前中国政府无法重演当年剥离四大行坏账模式的残酷现实，并预判“直供房”将成常态，中国楼市去杠杆过程才刚刚开始。
+tags:
+- crisis
+- financial
+- financial-stability
+- government
+- technology
+title: “银行直供房”现象：中国楼市与金融系统面临的深层困境
 ---
+
 ### 引言：银行“直供房”现象的兴起
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月18日。今天我们要聊的是近期发生在中国房地产市场上的一件稀奇事，叫做**银行直供房**（Bank Direct Sale Housing: 银行在借款人无力还贷后，不再走传统法拍程序，而是直接将抵押房产过户到自己名下并低价出售的行为）。简单来说，就是银行在出现坏账、借款人无力还贷之后，不再走传统的**法拍程序**（Foreclosed Properties: 银行或债权人通过司法程序拍卖的抵押房产），而是直接把抵押房产过户到自己名下，再低价挂牌出售，来加速处理**不良资产**（Non-performing Assets: 银行贷款中借款人无法按时偿还、或已逾期且收回可能性较小的部分）。

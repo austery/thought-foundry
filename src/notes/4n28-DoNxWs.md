@@ -1,80 +1,80 @@
 ---
-author: EO
+area: personal-systems
+category: business
+companies_orgs:
+- G2
+- McKinsey
+- MIT
+- Stanford Business School
+- Google
+- Alonza
+- Niku
+- Oracle
+- Big Machines
+- Apple
+- Amazon
+- Salesforce
+- Ricoh
+- Siebel
+- SteelBrick
+- Gartner
+- GE Energy
+- Rolls-Royce
+- Dreamforce
+- Accel
+- Gong
+- Chorus
+- IT Review.jp
+- SoftBank CNS
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Hard Thing About Hard Things
+- Crossing the Chasm
+people:
+- Godard Abel
+- Chris Schutz
+- John Scully
+- Farzad Debbachi
+- Larry Ellison
+- Steve Jobs
+- Ben Horowitz
+- Tim
+- Matt
+- Kevin Efy
+- Mark Zuckerberg
+- Jeffrey Moore
+products_models:
+- 3D printing
+- CD-ROMs
+- CRM
+- CPQ
+- Email marketing
+- Marketing automation
+- Conversational intelligence
+- SaaS
+- Facebook
+project:
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=4n28-DoNxWs
 speaker: EO
-tags:
-  - entrepreneurial-journey
-  - startup-challenges
-  - product-market-fit
-  - perseverance
-  - business-validation
-  - saas-growth
-title: 从七年挣扎到十亿美元独角兽：G2创始人Godard Abel的创业心路历程
-summary: G2创始人Godard Abel分享了他作为一名创业者的艰辛历程。从早期公司Big Machines在互联网泡沫破裂时的裁员和濒临破产，到历经七年才找到产品市场契合点，他强调了创业者在面对挑战时，如裁员、失去客户和交易，所需的情绪韧性和坚韧不拔的精神。Abel还讲述了G2如何从自身痛点出发，通过用户评论帮助软件买家和卖家连接，最终成长为估值十亿美元的独角兽，并强调了相信愿景、坚持不懈对SaaS创业成功的重要性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: personal-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Godard Abel
-  - Chris Schutz
-  - John Scully
-  - Farzad Debbachi
-  - Larry Ellison
-  - Steve Jobs
-  - Ben Horowitz
-  - Tim
-  - Matt
-  - Kevin Efy
-  - Mark Zuckerberg
-  - Jeffrey Moore
-companies_orgs:
-  - G2
-  - McKinsey
-  - MIT
-  - Stanford Business School
-  - Google
-  - Alonza
-  - Niku
-  - Oracle
-  - Big Machines
-  - Apple
-  - Amazon
-  - Salesforce
-  - Ricoh
-  - Siebel
-  - SteelBrick
-  - Gartner
-  - GE Energy
-  - Rolls-Royce
-  - Dreamforce
-  - Accel
-  - Gong
-  - Chorus
-  - IT Review.jp
-  - SoftBank CNS
-products_models:
-  - 3D printing
-  - CD-ROMs
-  - CRM
-  - CPQ
-  - Email marketing
-  - Marketing automation
-  - Conversational intelligence
-  - SaaS
-  - Facebook
-media_books:
-  - The Hard Thing About Hard Things
-  - Crossing the Chasm
 status: evergreen
+summary: G2创始人Godard Abel分享了他作为一名创业者的艰辛历程。从早期公司Big Machines在互联网泡沫破裂时的裁员和濒临破产，到历经七年才找到产品市场契合点，他强调了创业者在面对挑战时，如裁员、失去客户和交易，所需的情绪韧性和坚韧不拔的精神。Abel还讲述了G2如何从自身痛点出发，通过用户评论帮助软件买家和卖家连接，最终成长为估值十亿美元的独角兽，并强调了相信愿景、坚持不懈对SaaS创业成功的重要性。
+tags:
+- business
+- entrepreneurial-journey
+- growth
+- product-market-fit
+- startup-challenge
+- technology
+title: 从七年挣扎到十亿美元独角兽：G2创始人Godard Abel的创业心路历程
 ---
+
 ### 创业最艰难的时刻：裁员与韧性
 
 作为一名创业者，最困难的事情莫过于解雇员工。

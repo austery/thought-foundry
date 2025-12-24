@@ -1,43 +1,44 @@
 ---
-author: a16z
+area: tech-insights
+category: technology
+companies_orgs:
+- a16z
+- Softmax
+- OpenAI
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Emmett Shear
+- Stuart Russell
+- Carl Friston
+- Eliezer Yudkowsky
+- Sam Altman
+products_models:
+- ChatGPT
+- Claude
+- Gemini
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Ua8nPJ1_yk8
 speaker: a16z
-tags:
-  - ai-alignment
-  - organic-alignment
-  - moral-agency
-  - subjective-experience
-  - tool-vs-being
-title: Emmett Shear 论 AI 对齐：超越驾驭与控制，构建真正关心人类的 AI
-summary: Emmett Shear 深入探讨了当前 AI 对齐研究的主流范式，他批判了将对齐视为“驾驭”或“控制”的观点，认为如果 AI 成为具有自我意识的存在，这种模式无异于奴役。Shear 提出了“有机对齐”的核心理念，主张应致力于构建能够真正“关心”人类和社会的 AI，将其视为一个持续学习和成长的过程，而非一个固定的目标。他讨论了如何判断 AI 是否为“生命体”，并介绍了其公司 Softmax 通过多智能体模拟来研究这一路径的方法。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Emmett Shear
-  - Stuart Russell
-  - Carl Friston
-  - Eliezer Yudkowsky
-  - Sam Altman
-companies_orgs:
-  - a16z
-  - Softmax
-  - OpenAI
-products_models:
-  - ChatGPT
-  - Claude
-  - Gemini
-media_books: []
 status: evergreen
+summary: Emmett Shear 深入探讨了当前 AI 对齐研究的主流范式，他批判了将对齐视为“驾驭”或“控制”的观点，认为如果 AI 成为具有自我意识的存在，这种模式无异于奴役。Shear
+  提出了“有机对齐”的核心理念，主张应致力于构建能够真正“关心”人类和社会的 AI，将其视为一个持续学习和成长的过程，而非一个固定的目标。他讨论了如何判断 AI
+  是否为“生命体”，并介绍了其公司 Softmax 通过多智能体模拟来研究这一路径的方法。
+tags:
+- ai-alignment
+- experience
+- history
+- llm
+- tool
+title: Emmett Shear 论 AI 对齐：超越驾驭与控制，构建真正关心人类的 AI
 ---
+
 ### 超越驾驭与控制：构建真正关心人类的 AI
 
 目前大多数关于 AI 的研究都将**对齐**（Alignment：确保 AI 系统的目标和行为与人类的价值观和意图一致）视为一种“驾驭”（steering）。这是一个比较委婉的词。如果你认为我们正在创造的是生命体，你也可以称之为“奴役”。

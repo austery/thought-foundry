@@ -1,68 +1,66 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Meta
+- FDA
+- NIH
+- Stripe
+- Goldman Sachs
+- SEC
+- Hoover Institution
 date: '2025-01-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《军事革命》
+- 《史上最伟大经济学家是谁？》
+- 《斯大林的图书馆》
+people:
+- Tyler Cowen
+- Chad Jones
+- Patrick Collison
+- Sam Altman
+- Mark Zuckerberg
+- Garry Kasparov
+- Friedrich Hayek
+- Adam Smith
+- Milton Friedman
+- Paul Samuelson
+- Stephen Kotkin
+- Alex Tabarrok
+- Woodrow Wilson
+- Herbert Hoover
+- Greg Clark
+- John Milton
+- John Locke
+- Ed Boyden
+- Richard Prum
+- Steven Pinker
+products_models:
+- GPT-4
+- Deep Blue
+- Claude
+- 01 model
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=GT_sXIUJPUo
 speaker: Dwarkesh Patel
-tags:
-  - economic-growth
-  - bottlenecks
-  - ai-impact
-  - technological-diffusion
-  - human-agency
-title: AI时代的经济增长瓶颈：人类与制度的挑战
-summary: 本播客深入探讨了人工智能（AI）对经济增长的潜在影响及其面临的挑战。嘉宾**泰勒·考恩**指出，AI虽能提升生产力，但整体经济增长仍受限于『**成本病**』、监管、能源限制及社会接受度等人类和制度性瓶颈。他预测AI每年将使经济增长率温和提升约0.5个百分点，长期效应巨大但短期不易察觉。播客还讨论了创始人领导力、人才分布变化、历史上的领导力危机，强调了科技扩散的缓慢性，最终认为人类因素是AI时代实现突破性增长的关键制约。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Tyler Cowen
-  - Dwarkesh Patel
-  - Chad Jones
-  - Patrick Collison
-  - Sam Altman
-  - Mark Zuckerberg
-  - Garry Kasparov
-  - Friedrich Hayek
-  - Adam Smith
-  - Milton Friedman
-  - Paul Samuelson
-  - Stephen Kotkin
-  - Alex Tabarrok
-  - Woodrow Wilson
-  - Herbert Hoover
-  - Greg Clark
-  - John Milton
-  - John Locke
-  - Ed Boyden
-  - Richard Prum
-  - Steven Pinker
-companies_orgs:
-  - OpenAI
-  - Facebook
-  - Meta
-  - FDA
-  - NIH
-  - Stripe
-  - Goldman Sachs
-  - SEC
-  - Hoover Institution
-products_models:
-  - GPT-4
-  - Deep Blue
-  - Claude
-  - 01 model
-media_books:
-  - 《军事革命》
-  - 《史上最伟大经济学家是谁？》
-  - 《斯大林的图书馆》
 status: evergreen
+summary: 本播客深入探讨了人工智能（AI）对经济增长的潜在影响及其面临的挑战。嘉宾**泰勒·考恩**指出，AI虽能提升生产力，但整体经济增长仍受限于『**成本病**』、监管、能源限制及社会接受度等人类和制度性瓶颈。他预测AI每年将使经济增长率温和提升约0.5个百分点，长期效应巨大但短期不易察觉。播客还讨论了创始人领导力、人才分布变化、历史上的领导力危机，强调了科技扩散的缓慢性，最终认为人类因素是AI时代实现突破性增长的关键制约。
+tags:
+- ai-impact
+- bottleneck
+- economic-growth
+- human
+- technological
+title: AI时代的经济增长瓶颈：人类与制度的挑战
 ---
+
 ### AI与经济增长的瓶颈
 
 **泰勒·考恩**（Tyler Cowen）表示，实现20%以上的爆炸性经济增长非常困难，无论是否有AI。一个主要问题是，经济的某些部分发展迅速，而另一些部分则会遭遇“**成本病**”（Cost Disease: 指某些服务业的成本增长速度快于制造业，且生产力提升缓慢）。例如，美国经济中政府消费、医疗、教育和非营利部门合计占经济总量的一半。这些部门使用AI的效率如何？它们会因为未能有效利用AI而立即消失或被取代吗？不会，这可能需要30年。因此，只有那些监管较少、变化迅速的经济部门能快速发展，但这只能带来温和的增长率提升，远非整个经济每年增长40%的水平。

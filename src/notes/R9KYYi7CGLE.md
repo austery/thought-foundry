@@ -1,50 +1,50 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 新美国世纪计划
+- 中央情报局
+- 五角大楼
+- 联合国
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《纽约时报》
+- 《华盛顿邮报》
+people:
+- 小布什
+- 老布什
+- 科林·鲍威尔
+- 迪克·切尼
+- 保罗·沃尔福威兹
+- 唐纳德·拉姆斯菲尔德
+- 理查德·珀尔
+- 约瑟夫·威尔逊
+- 瓦莱丽·普莱姆
+- 伯尼·桑德斯
+- 朱迪斯·米勒
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=R9KYYi7CGLE
 speaker: 北美王路飞
-tags:
-  - propaganda-machine
-  - fear-based-politics
-  - intelligence-manipulation
-  - war-decision-making
-  - elite-impunity
-title: 「这可能是本世纪最大的骗局」：复盘伊拉克战争背后的谎言与权力游戏
-summary: 本文深度剖析2003年伊拉克战争的决策过程，揭示新保守主义如何利用911事件制造虚假情报、操控媒体与公众恐惧，最终发动一场基于谎言的战争，并导致中东长期动荡。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 小布什
-  - 老布什
-  - 科林·鲍威尔
-  - 迪克·切尼
-  - 保罗·沃尔福威兹
-  - 唐纳德·拉姆斯菲尔德
-  - 理查德·珀尔
-  - 约瑟夫·威尔逊
-  - 瓦莱丽·普莱姆
-  - 伯尼·桑德斯
-  - 朱迪斯·米勒
-companies_orgs:
-  - 新美国世纪计划
-  - 中央情报局
-  - 五角大楼
-  - 联合国
-products_models: []
-media_books:
-  - 《纽约时报》
-  - 《华盛顿邮报》
 status: evergreen
+summary: 本文深度剖析2003年伊拉克战争的决策过程，揭示新保守主义如何利用911事件制造虚假情报、操控媒体与公众恐惧，最终发动一场基于谎言的战争，并导致中东长期动荡。
+tags:
+- elite-impunity
+- intelligence
+- politics
+- society
+- war-decision-making
+title: 「这可能是本世纪最大的骗局」：复盘伊拉克战争背后的谎言与权力游戏
 ---
+
 ### 2003年：一场被精心设计的战争
 
 2023年3月的那个夜晚，全世界的目光聚焦在电视屏幕上——战斧巡航导弹如手术刀般刺破巴格达夜空，在绿色夜视画面中炸开一团团火球。那一刻，支持这场战争的人们理直气壮地宣称：这是正义的铁拳，是对“9·11”事件的复仇，是为了从疯子**萨达姆·侯赛因**手中夺回足以毁灭世界的生化武器。

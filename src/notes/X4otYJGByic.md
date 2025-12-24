@@ -1,44 +1,43 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- ISIS
+- Al-Qaeda
 date: '2023-08-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《查理周刊》
+people:
+- Harvey
+- Youssef Al-Ala
+- Mohammad
+- Saadi
+- Mohammed Haichami
+- Omar Haichamid
+- Wafa
+- 穆先生
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=X4otYJGByic
 speaker: 柴静 Chai Jing
-tags:
-  - terrorism-in-europe
-  - radicalization
-  - immigrant-integration
-  - political-violence
-  - religious-extremism
-title: 巴塞罗那恐袭亲历：追溯圣战分子激进化的根源
-summary: 2017年巴塞罗那恐袭后，记者柴静亲历欧洲多起恐怖袭击的阴影，并深入调查。她探访袭击者故乡，揭示这些在欧洲成长、看似融入社会的年轻人，如何被极端思想感染。文章探讨了恐怖主义的深层社会、文化与宗教根源，以及其与犯罪活动的关联，试图理解暴力背后的复杂动机与激进化过程。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Harvey
-  - Youssef Al-Ala
-  - Mohammad
-  - Saadi
-  - Mohammed Haichami
-  - Omar Haichamid
-  - Wafa
-  - 穆先生
-companies_orgs:
-  - ISIS
-  - Al-Qaeda
-products_models: []
-media_books:
-  - 《查理周刊》
 status: evergreen
+summary: 2017年巴塞罗那恐袭后，记者柴静亲历欧洲多起恐怖袭击的阴影，并深入调查。她探访袭击者故乡，揭示这些在欧洲成长、看似融入社会的年轻人，如何被极端思想感染。文章探讨了恐怖主义的深层社会、文化与宗教根源，以及其与犯罪活动的关联，试图理解暴力背后的复杂动机与激进化过程。
+tags:
+- geopolitical
+- integration
+- political-violence
+- radicalization
+title: 巴塞罗那恐袭亲历：追溯圣战分子激进化的根源
 ---
+
 ### 巴塞罗那恐袭亲历：和平假象下的阴影
 
 2017年7月，我们全家搬到了西班牙巴塞罗那。在离开北京之前，我把自己采访时穿过的所有西装都送了人。做了20年电视记者，这对我来说是一种虚妄而甜蜜的告别，我将去一个异国他乡，只是生活，不再工作。我们住在旅游区，兰布拉大道边缘。老实说，这条欧洲最繁华的步行街并不是一个好的居住地，到处都是游客。但我们有一个三岁的小女孩，她喜欢这条街上的一切：艺人、音乐、冰淇淋。所以，我们在这里安顿下来。

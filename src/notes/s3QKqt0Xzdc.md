@@ -1,40 +1,39 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 食藥署
+- 歐盟
 date: '2025-08-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Lancet
+people:
+- 王律婷医师
+- 颜宗海医师
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=s3QKqt0Xzdc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - food-additives
-  - artificial-colors
-  - food-safety
-  - health-risks
-  - diet-detox
-  - ultra-processed-foods
-  - child-health
-title: 合法不等于安全：毒理专家揭秘日常色素陷阱与健康风险
-summary: 本期节目邀请毒理专家颜宗海医师与王律婷医师，深入探讨日常食品中合法人工色素（如黄色4号、5号、红色40号和焦糖色素）的潜在健康风险。尽管这些色素在法规上允许使用，但研究显示它们可能与儿童过动症、过敏反应、肠道损伤甚至致癌疑虑相关。节目还揭露了工业染料（如二甲基黄、苏丹红）的非法使用及其严重危害。专家强调“合法不等于安全”的理念，并提出“五天色素断舍离挑战”，倡导回归原型食物，提升身体修复力，以应对超级加工食品带来的慢性健康问题。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 王律婷医师
-  - 颜宗海医师
-companies_orgs:
-  - 初日診所
-  - 食藥署
-  - 歐盟
-products_models: []
-media_books:
-  - Lancet
 status: evergreen
+summary: 本期节目邀请毒理专家颜宗海医师与王律婷医师，深入探讨日常食品中合法人工色素（如黄色4号、5号、红色40号和焦糖色素）的潜在健康风险。尽管这些色素在法规上允许使用，但研究显示它们可能与儿童过动症、过敏反应、肠道损伤甚至致癌疑虑相关。节目还揭露了工业染料（如二甲基黄、苏丹红）的非法使用及其严重危害。专家强调“合法不等于安全”的理念，并提出“五天色素断舍离挑战”，倡导回归原型食物，提升身体修复力，以应对超级加工食品带来的慢性健康问题。
+tags:
+- food-safety
+- health
+- life
+- risk
+- technology
+- ultra-processed-food
+title: 合法不等于安全：毒理专家揭秘日常色素陷阱与健康风险
 ---
+
 ### 日常色素的合法性与潜在风险
 
 黄色的食品色素，例如**黄色4号**（Tartrazine, Yellow No. 4: 一种人工合成的黄色偶氮染料，常用于食品和饮料，可能引起过敏反应和儿童多动症），其实是合法的。在饮料中，只需滴入一两滴，就能呈现出非常明显的黄色。

@@ -1,46 +1,46 @@
 ---
-author: FearNation 世界苦茶
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 苹果日报
+- 佐丹奴
+- 凤凰卫视
+- 立场新闻
+- 近传媒集团
+- 美国国会
+- 全国人大常委会
+- 香港特区政府
+- 中央政府
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《给王八蛋李鹏的公开信》
+- 《香港人权与民主法案》
+people:
+- 黎智英
+- 李鹏
+- Tim Owen
+- 王婉裕
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=cfebN3PPGY0
 speaker: FearNation 世界苦茶
-tags:
-  - hong-kong
-  - national-security-law
-  - freedom-of-press
-  - political-prisoner
-  - rule-of-law
-title: 黎智英案：一位殉道者的选择与香港法治的终结
-summary: 黎智英案经过五年羁押后首次宣判，三项罪名全部成立。判决书长达855页，引发对香港法治公正性的质疑。演讲者详细解读了“煽动罪”和“串谋勾结境外势力罪”在《国安法》下的宽泛定义，指出香港已不允许批评政府。他回顾了黎智英作为政治抗争者的生平，包括其选择留港、坚持无罪抗辩、自我辩护以及公开承认政治犯身份的历程，称其为“殉道者”。演讲者还批判了判决中的非法治之处，如超长期羁押、拒绝保释、单人牢房待遇、取消陪审团制度及拒绝其聘请英国大律师的辩护权，认为香港司法已死。最后，他分析了此案对中美及中台关系的深远影响，并呼吁公众不应对此类事件感到麻木。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - 黎智英
-  - 李鹏
-  - Tim Owen
-  - 王婉裕
-companies_orgs:
-  - 苹果日报
-  - 佐丹奴
-  - 凤凰卫视
-  - 立场新闻
-  - 近传媒集团
-  - 美国国会
-  - 全国人大常委会
-  - 香港特区政府
-  - 中央政府
-products_models: []
-media_books:
-  - 《给王八蛋李鹏的公开信》
-  - 《香港人权与民主法案》
 status: evergreen
+summary: 黎智英案经过五年羁押后首次宣判，三项罪名全部成立。判决书长达855页，引发对香港法治公正性的质疑。演讲者详细解读了“煽动罪”和“串谋勾结境外势力罪”在《国安法》下的宽泛定义，指出香港已不允许批评政府。他回顾了黎智英作为政治抗争者的生平，包括其选择留港、坚持无罪抗辩、自我辩护以及公开承认政治犯身份的历程，称其为“殉道者”。演讲者还批判了判决中的非法治之处，如超长期羁押、拒绝保释、单人牢房待遇、取消陪审团制度及拒绝其聘请英国大律师的辩护权，认为香港司法已死。最后，他分析了此案对中美及中台关系的深远影响，并呼吁公众不应对此类事件感到麻木。
+tags:
+- freedom
+- geopolitical
+- national-security-law
+- political
+- rule-of-law
+title: 黎智英案：一位殉道者的选择与香港法治的终结
 ---
+
 经过长达五年时间的羁押，**黎智英案**终于有了第一次的判决。这次判决，三项罪名全部罪成。整个判决书长达855页，法庭在庭上都说，因为判决书太长，最近没有时间也不适合把判决书从头到尾读一遍。为什么判决书长达855页呢？肯定是要作为他的罪名非常确凿的一个证据。但我真的觉得写一个855页的判决书，绝对是欲盖弥彰。实际上就是知道这个罪名很难做实，所以依靠这种刑事化的东西来强调整个判决本身的公正性。
 
 ### 黎智英案三项罪名解析

@@ -1,45 +1,45 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- Georgetown University
+- Society for the Prevention of Disorders of Aggression
+- TED
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Fear Factor
+people:
+- Abigail Marsh
+- Emmy Thomas
+- Warren Buffett
+- Bill Gates
+- Carnegie
+- Taylor Swift
+- Idris Elba
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=MuSvgDpv4Io
 speaker: TED
-tags:
-  - altruism
-  - psychopathy
-  - empathy
-  - aggression
-  - well-being
-  - fearlessness
-  - behavioral-habits
-title: 理解利他与精神病态：大脑、同理心及行为模式的科学视角
-summary: 乔治城大学心理学和神经科学教授Abigail Marsh博士深入探讨了利他主义和精神病态的本质。她通过个人经历引出对利他行为的思考，并阐释了利他主义的定义及其与谦逊、同理心的关联。文章还探讨了攻击性的不同类型，揭示了精神病态的核心特征——缺乏恐惧和同理心。Marsh博士强调，精神病态是一种可治疗的心理障碍，并提供了针对儿童和成人患者的实用干预策略，呼吁社会以更人道的方式理解和对待这些个体。她还探讨了恐惧在人类社会行为中的积极作用，并提出了提升利他行为的社会和个人方法。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Abigail Marsh
-  - Emmy Thomas
-  - Warren Buffett
-  - Bill Gates
-  - Carnegie
-  - Taylor Swift
-  - Idris Elba
-companies_orgs:
-  - Georgetown University
-  - Society for the Prevention of Disorders of Aggression
-  - TED
-products_models: []
-media_books:
-  - The Fear Factor
 status: evergreen
+summary: 乔治城大学心理学和神经科学教授Abigail Marsh博士深入探讨了利他主义和精神病态的本质。她通过个人经历引出对利他行为的思考，并阐释了利他主义的定义及其与谦逊、同理心的关联。文章还探讨了攻击性的不同类型，揭示了精神病态的核心特征——缺乏恐惧和同理心。Marsh博士强调，精神病态是一种可治疗的心理障碍，并提供了针对儿童和成人患者的实用干预策略，呼吁社会以更人道的方式理解和对待这些个体。她还探讨了恐惧在人类社会行为中的积极作用，并提出了提升利他行为的社会和个人方法。
+tags:
+- aggression
+- altruism
+- empathy
+- psychology
+- well-being
+title: 理解利他与精神病态：大脑、同理心及行为模式的科学视角
+companies:
+- psychopathy
 ---
+
 ### 陌生人的善举：一次生死攸关的经历
 
 外面有一个人，他长得有点像演员**伊德瑞斯·艾尔巴**（Idris Elba: 英国演员），至少二十年前是这样。

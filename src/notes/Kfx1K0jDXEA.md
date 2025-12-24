@@ -1,56 +1,56 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Norges Bank
+- Stortinget
+- Fremskrittspartiet
+- Arbeiderpartiet
+- SV
+- Bondevik government
+- Finansdepartementet
+- Norges Bank Investment Management
 date: '2024-08-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Jens Stoltenberg's Biography
+- Perspektivmelding
+- Brundtland Commission Report
+people:
+- Sigbjørn Johnsen
+- Kristin Halvorsen
+- Siv Jensen
+- Trygve Bratteli
+- Arne Skauge
+- Arne Øyen
+- Trond Grand
+- Nikolai
+products_models:
+- Oljefondet
+- Statens petroleumsfond
+- Statens pensjonsfond
+- handlingsregelen
+project:
+- geopolitics-watch
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Kfx1K0jDXEA
 speaker: Norges Bank Investment Management
-tags:
-  - sovereign-wealth-fund
-  - ethical-investment
-  - long-term-strategy
-  - financial-stability
-  - geopolitical-risk
-title: 挪威主权财富基金：三位前财政部长共话基金的过去、现在与未来
-summary: 本文汇集了挪威三位前财政部长——西格比约恩·约翰森、克里斯汀·哈尔沃森和西芙·延森——在阿伦达尔周的讨论。他们回顾了挪威主权财富基金（石油基金）从60年代构想到1996年首次注资的历史，探讨了其在金融危机中的作用、道德准则的演变，以及财政支出规则的调整。讨论还深入分析了基金在当前地缘政治不稳定和气候变化背景下的长期管理策略，并展望了其未来的发展方向，强调了长期思维和负责任投资的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - investment-strategy
-  - historical-insights
-people:
-  - Sigbjørn Johnsen
-  - Kristin Halvorsen
-  - Siv Jensen
-  - Trygve Bratteli
-  - Arne Skauge
-  - Arne Øyen
-  - Trond Grand
-  - Nikolai
-companies_orgs:
-  - Norges Bank
-  - Stortinget
-  - Fremskrittspartiet
-  - Arbeiderpartiet
-  - SV
-  - Bondevik government
-  - Finansdepartementet
-  - Norges Bank Investment Management
-products_models:
-  - Oljefondet
-  - Statens petroleumsfond
-  - Statens pensjonsfond
-  - handlingsregelen
-media_books:
-  - Jens Stoltenberg's Biography
-  - Perspektivmelding
-  - Brundtland Commission Report
 status: evergreen
+summary: 本文汇集了挪威三位前财政部长——西格比约恩·约翰森、克里斯汀·哈尔沃森和西芙·延森——在阿伦达尔周的讨论。他们回顾了挪威主权财富基金（石油基金）从60年代构想到1996年首次注资的历史，探讨了其在金融危机中的作用、道德准则的演变，以及财政支出规则的调整。讨论还深入分析了基金在当前地缘政治不稳定和气候变化背景下的长期管理策略，并展望了其未来的发展方向，强调了长期思维和负责任投资的重要性。
+tags:
+- financial-stability
+- geopolitical-risk
+- investment
+- sovereign-wealth-fund
+- strategy
+title: 挪威主权财富基金：三位前财政部长共话基金的过去、现在与未来
 ---
+
 ### 挪威主权财富基金的诞生与发展
 
 [音乐]

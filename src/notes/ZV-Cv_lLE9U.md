@@ -1,59 +1,59 @@
 ---
-author: TVO Today
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ZV-Cv_lLE9U'
-speaker: TVO Today
-tags:
-  - canada-us-relations
-  - political-boycott
-  - economic-patriotism
-  - trade-war
-  - national-sovereignty
-title: 特朗普时代下的抉择：加拿大“雪鸟”族今年应抵制美国吗？
-summary: 在特朗普政府对加拿大采取强硬立场的大背景下，加拿大“雪鸟”族（冬季南下美国避寒的退休人士）面临一个艰难选择：是像往常一样南下，还是为了表达政治立场和国家团结而选择抵制？本期节目邀请评论员劳拉·巴布科克和彼得·舍曼就此展开辩论。讨论深入探讨了个人安全、政治信号、经济爱国主义与个人自由、家庭纽带和情感需求之间的冲突，并邀请现场观众和行业专家分享见解，全面剖析了这一复杂的社会议题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Steve Paikin
-  - Red Wilson
-  - Laura Babcock
-  - Peter Sherman
-  - Donald Trump
-  - Stephen Fine
-  - John Taylor
-  - Gavin Newsom
-  - Ronald Reagan
-  - Doug Ford
-  - William Lyon Mackenzie King
+category: geopolitics
 companies_orgs:
-  - TVO
-  - Wilson Foundation
-  - Chamber of Commerce
-  - Power Group
-  - Snowbird Advisor
-  - Snowbird Advisor Insurance
-  - US Travel Association
-  - Pittsburgh Pirates
-  - Toronto Blue Jays
-  - LA Dodgers
-  - U.S. Immigration and Customs Enforcement (ICE)
-  - US Citizenship and Immigration Services
-  - US Customs and Border Patrol (CBP)
-products_models:
-  - Nexus Card
-  - I-94 Form
+- TVO
+- Wilson Foundation
+- Chamber of Commerce
+- Power Group
+- Snowbird Advisor
+- Snowbird Advisor Insurance
+- US Travel Association
+- Pittsburgh Pirates
+- Toronto Blue Jays
+- LA Dodgers
+- U.S. Immigration and Customs Enforcement (ICE)
+- US Citizenship and Immigration Services
+- US Customs and Border Patrol (CBP)
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The O Show
+- The O Show
+people:
+- Steve Paikin
+- Red Wilson
+- Laura Babcock
+- Peter Sherman
+- Donald Trump
+- Stephen Fine
+- John Taylor
+- Gavin Newsom
+- Ronald Reagan
+- Doug Ford
+- William Lyon Mackenzie King
+products_models:
+- Nexus Card
+- I-94 Form
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=ZV-Cv_lLE9U
+speaker: TVO Today
 status: evergreen
+summary: 在特朗普政府对加拿大采取强硬立场的大背景下，加拿大“雪鸟”族（冬季南下美国避寒的退休人士）面临一个艰难选择：是像往常一样南下，还是为了表达政治立场和国家团结而选择抵制？本期节目邀请评论员劳拉·巴布科克和彼得·舍曼就此展开辩论。讨论深入探讨了个人安全、政治信号、经济爱国主义与个人自由、家庭纽带和情感需求之间的冲突，并邀请现场观众和行业专家分享见解，全面剖析了这一复杂的社会议题。
+tags:
+- canada-us-relations
+- economic
+- national
+- political
+- trade-war
+title: 特朗普时代下的抉择：加拿大“雪鸟”族今年应抵制美国吗？
 ---
+
 ### 节目开场与议题介绍
 
 大家好，我是史蒂夫·帕金。我们现在在安大略省纽马基特的上加拿大购物中心，为我们名为《TVO Today Live》的节目开启第三季。我们这次的主题是：**雪鸟族**（Snowbirds: 指为了躲避本国寒冷的冬天而迁徙到温暖南方过冬的人，在加拿大通常指前往美国的退休人士）今年冬天是否应该放弃前往温暖的美国？

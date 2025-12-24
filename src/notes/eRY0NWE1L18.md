@@ -1,40 +1,40 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Rentokil
+- Norges Bank Investment Management
+- Chelsea
 date: '2024-02-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+people:
+- Andy Ransom
+- Jack Welsh
+- Nikolai
+products_models: []
+project:
+- entrepreneurship
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=eRY0NWE1L18
 speaker: Norges Bank Investment Management
-tags:
-  - pest-control-industry
-  - business-growth-strategy
-  - environmental-impact
-  - technological-innovation
-  - organizational-culture
-title: 害虫防治巨头Rentokil CEO Andy Ransom：业务增长、创新与领导力
-summary: 本期播客中，Rentokil CEO Andy Ransom分享了全球最大害虫防治公司Rentokil的运营洞察。他探讨了行业的主要驱动因素，包括气候变化、法规收紧和城市化进程，以及这些因素如何推动公司在技术和可持续解决方案上的创新。Ransom还深入阐述了Rentokil的并购策略，强调了密度、未来城市布局和技术能力的重要性，并分享了他作为领导者在人才管理、文化建设和谈判技巧方面的经验与感悟。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Andy Ransom
-  - Jack Welsh
-  - Nikolai
-companies_orgs:
-  - Rentokil
-  - Norges Bank Investment Management
-  - Chelsea
-products_models: []
-media_books:
-  - In Good Company
 status: evergreen
+summary: 本期播客中，Rentokil CEO Andy Ransom分享了全球最大害虫防治公司Rentokil的运营洞察。他探讨了行业的主要驱动因素，包括气候变化、法规收紧和城市化进程，以及这些因素如何推动公司在技术和可持续解决方案上的创新。Ransom还深入阐述了Rentokil的并购策略，强调了密度、未来城市布局和技术能力的重要性，并分享了他作为领导者在人才管理、文化建设和谈判技巧方面的经验与感悟。
+tags:
+- impact
+- industry
+- innovation
+- organizational-culture
+- strategy
+title: 害虫防治巨头Rentokil CEO Andy Ransom：业务增长、创新与领导力
 ---
+
 ### 欢迎与疯狂的害虫故事
 
 Nikolai：大家好，今天我们的特邀嘉宾是**Rentokil**（Rentokil：全球最大的害虫防治服务提供商）的首席执行官Andy Ransom。

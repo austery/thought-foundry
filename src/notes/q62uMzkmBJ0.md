@@ -1,54 +1,55 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Molycorp
+- 罗纳普朗克
+- ADME
+- Magnequench
+- 通用汽车
+- 美国国防部
+- 诺斯罗普·格鲁曼
+- 霍尼韦尔
+- 绿色和平组织
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《稀有金属战争》
+people:
+- 皮创
+- 李新夏
+- 马俊
+- Okabe教授
+- Terry
+products_models:
+- JDAM智能炸弹
+- 埃布拉姆斯主战坦克
+- F35 闪电2隐形战斗机
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=q62uMzkmBJ0
 speaker: 北美王路飞
-tags:
-  - rare-metals
-  - green-transition
-  - digital-revolution
-  - supply-chain-security
-  - environmental-outsourcing
-  - geopolitical-dependency
-  - resource-wars
-title: 稀有金属战争：绿色与数字革命背后的隐秘代价
-summary: 本报告揭示了全球绿色转型和数字革命对稀有金属的巨大依赖，以及由此带来的严重环境污染、地缘政治风险和供应链脆弱性。文章深入探讨了西方国家将污染外包给发展中国家的“洗绿”现象，稀有金属回收的困境，以及战略资源被武器化的风险，呼吁重新审视消费模式，并对环境成本负责，以实现真正的可持续发展。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 皮创
-  - 李新夏
-  - 马俊
-  - Okabe教授
-  - Terry
-companies_orgs:
-  - Molycorp
-  - 罗纳普朗克
-  - ADME
-  - Magnequench
-  - 通用汽车
-  - 美国国防部
-  - 诺斯罗普·格鲁曼
-  - 霍尼韦尔
-  - 绿色和平组织
-products_models:
-  - JDAM智能炸弹
-  - 埃布拉姆斯主战坦克
-  - F35 闪电2隐形战斗机
-media_books:
-  - 《稀有金属战争》
 status: evergreen
+summary: 本报告揭示了全球绿色转型和数字革命对稀有金属的巨大依赖，以及由此带来的严重环境污染、地缘政治风险和供应链脆弱性。文章深入探讨了西方国家将污染外包给发展中国家的“洗绿”现象，稀有金属回收的困境，以及战略资源被武器化的风险，呼吁重新审视消费模式，并对环境成本负责，以实现真正的可持续发展。
+tags:
+- digital
+- environment
+- geopolitical
+- society
+- supply-chain-security
+- war
+title: 稀有金属战争：绿色与数字革命背后的隐秘代价
+companies:
+- rare-metal
 ---
+
 ### 绿色与数字革命的隐秘代价
 
 我们正处在一场革命之中，一场绿色革命，一场数字革命。我们被告知，通过拥抱电动汽车、太阳能电池板和风力涡轮机，我们正在摆脱对肮脏化石能源的依赖。我们被告知，通过转向云端和数字生活，我们正在走向一个非物质化、更加轻盈的未来。我们购买这些产品，我们投票支持这些政策，我们相信自己正在做正确的事情。

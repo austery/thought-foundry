@@ -1,77 +1,76 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times Book Review
+- Ladbrokes
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Flesh
+- The True Story of Raja the Gullible and his mother
+- One Day Everyone Will Have Always Been Against This
+- The Intentions of Thunder, New and Selected Poems
+- We Are Green and Trembling
+- The Teacher of Nomad Land
+- Beloved
+- Paco's Story
+- Milkman
+- The Prestige Economy
+- Animalinside
+- The Melancholy of Resistance
+- Baron Work Time's Homecoming
+- Satan Tango
+- The Land in Winter
+- Flashlight
+- Audition
+- Sea Scraper
+- Hills Like White Elephants
+- book-discovery
+- booker-prize
+people:
+- MJ Franklin
+- Dave Kim
+- Emily Aken
+- Monica T.
+- Lazlo Krasznahorkai
+- Tony Morrison
+- James English
+- Pierre Bourdieu
+- Anna Burns
+- Jason Mott
+- Ben Marovitz
+- Karen Desai
+- Susan Choy
+- Katie Kamura
+- Roxane Gay
+- Riia Alamidin
+- Omar Alkad
+- Patricia Smith
+- Gabrielle de Cababeson Kam
+- Robin Meyers
+- Daniel Naari
+- Parro Seel
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=jWmsCTKkOw0
 speaker: New York Times Podcasts
-tags:
-  - literary-awards
-  - booker-prize
-  - nobel-prize-literature
-  - national-book-awards
-  - literary-criticism
-  - cultural-capital
-  - book-discovery
-title: 2025年文学奖季回顾：奖项的意义、争议与发现
-summary: 本期播客深入探讨了2025年布克奖、诺贝尔文学奖和美国国家图书奖的颁奖季。主持人MJ Franklin与同事们讨论了对本年度获奖结果的普遍困惑与意外，以及文学奖项在文化领域中的作用。嘉宾们分享了詹姆斯·英格利希关于“声望经济”的理论，并辩论了奖项的发现价值、激发对话的重要性以及其档案的宝贵意义。节目还详细评析了布克奖得主大卫·萨洛伊的《肉身》、诺贝尔文学奖得主拉斯洛·克拉斯纳霍尔凯的作品风格，以及美国国家图书奖的意外结果，包括里维亚·阿拉米丁的虚构作品和奥马尔·阿尔卡德的非虚构作品，揭示了文学界的多样性和评选的不可预测性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - MJ Franklin
-  - Dave Kim
-  - Emily Aken
-  - Monica T.
-  - Lazlo Krasznahorkai
-  - Tony Morrison
-  - James English
-  - Pierre Bourdieu
-  - Anna Burns
-  - Jason Mott
-  - Ben Marovitz
-  - Karen Desai
-  - Susan Choy
-  - Katie Kamura
-  - Roxane Gay
-  - Riia Alamidin
-  - Omar Alkad
-  - Patricia Smith
-  - Gabrielle de Cababeson Kam
-  - Robin Meyers
-  - Daniel Naari
-  - Parro Seel
-companies_orgs:
-  - New York Times Book Review
-  - Ladbrokes
-products_models: []
-media_books:
-  - Flesh
-  - The True Story of Raja the Gullible and his mother
-  - One Day Everyone Will Have Always Been Against This
-  - The Intentions of Thunder, New and Selected Poems
-  - We Are Green and Trembling
-  - The Teacher of Nomad Land
-  - Beloved
-  - Paco's Story
-  - Milkman
-  - The Prestige Economy
-  - Animalinside
-  - The Melancholy of Resistance
-  - Baron Work Time's Homecoming
-  - Satan Tango
-  - The Land in Winter
-  - Flashlight
-  - Audition
-  - Sea Scraper
-  - Hills Like White Elephants
 status: evergreen
+summary: 本期播客深入探讨了2025年布克奖、诺贝尔文学奖和美国国家图书奖的颁奖季。主持人MJ Franklin与同事们讨论了对本年度获奖结果的普遍困惑与意外，以及文学奖项在文化领域中的作用。嘉宾们分享了詹姆斯·英格利希关于“声望经济”的理论，并辩论了奖项的发现价值、激发对话的重要性以及其档案的宝贵意义。节目还详细评析了布克奖得主大卫·萨洛伊的《肉身》、诺贝尔文学奖得主拉斯洛·克拉斯纳霍尔凯的作品风格，以及美国国家图书奖的意外结果，包括里维亚·阿拉米丁的虚构作品和奥马尔·阿尔卡德的非虚构作品，揭示了文学界的多样性和评选的不可预测性。
+tags:
+- cultural
+- geopolitical
+- history
+- national
+title: 2025年文学奖季回顾：奖项的意义、争议与发现
 ---
+
 ### 欢迎来到图书评论播客：2025年文学奖季
 
 大家好，欢迎收听图书评论播客。我是MJ Franklin，是《纽约时报书评》的编辑。

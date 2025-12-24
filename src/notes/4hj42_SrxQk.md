@@ -1,46 +1,45 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-08-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《100个哲学大概念开悟人生》
+- 《形而上学》
+- 《看透世界：100个哲学大概念开悟人生》
+people:
+- 泰勒斯
+- 亚里士多德
+- 阿那克西曼德
+- 赫拉克利特
+- 阿那克西美尼
+- 恩培多克勒
+- 阿那克萨戈拉
+- 德谟克利特
+- 柏拉图
+- 培根
+- 埃里克·布莱恩约弗森
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=4hj42_SrxQk
 speaker: 大问题Dialectic
-tags:
-  - ancient-greek-philosophy
-  - metaphysics
-  - origin-of-science
-  - knowledge-view
-  - natural-philosophers
-title: 泰勒斯：为何“万物本原是水”让他成为哲学与科学之父？
-summary: 本文深入探讨古希腊哲学家泰勒斯为何凭一句“万物本原是水”被誉为西方哲学与科学之父。文章解释了“本原”概念在形而上学中的核心地位，区分了早期自然哲学家与神话创世说的不同，并剖析了古希腊知识分子对求知与“无用”哲学的独特看法，强调了闲暇对哲学诞生的重要性，以及其与现代知识观的对比。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - 泰勒斯
-  - 亚里士多德
-  - 阿那克西曼德
-  - 赫拉克利特
-  - 阿那克西美尼
-  - 恩培多克勒
-  - 阿那克萨戈拉
-  - 德谟克利特
-  - 柏拉图
-  - 培根
-  - 埃里克·布莱恩约弗森
-companies_orgs: []
-products_models: []
-media_books:
-  - 《100个哲学大概念开悟人生》
-  - 《形而上学》
-  - 《看透世界：100个哲学大概念开悟人生》
 status: evergreen
+summary: 本文深入探讨古希腊哲学家泰勒斯为何凭一句“万物本原是水”被誉为西方哲学与科学之父。文章解释了“本原”概念在形而上学中的核心地位，区分了早期自然哲学家与神话创世说的不同，并剖析了古希腊知识分子对求知与“无用”哲学的独特看法，强调了闲暇对哲学诞生的重要性，以及其与现代知识观的对比。
+tags:
+- metaphysic
+- natural-philosopher
+- philosophy
+- science
+title: 泰勒斯：为何“万物本原是水”让他成为哲学与科学之父？
 ---
+
 ### 泰勒斯与哲学科学的开端
 
 为什么**泰勒斯**（Thales: 古希腊哲学家，被誉为“西方哲学和科学之父”）抛出一句“万物的本原是水”这样一个初中生水平的断言，就能让他成为名垂千古的“西方哲学和科学之父”呢？欢迎来到《100个哲学大概念开悟人生》。今天要讲的哲学大概念是“万物的本原是水”，它是由古希腊哲学家泰勒斯提出的。泰勒斯是公元前6世纪活跃在希腊米利都一带的人。几乎所有讲哲学史的书，包括科学史的书，都会写到有史以来第一位哲学家或科学家就是泰勒斯，也就是说，泰勒斯是“哲学和科学之父”。

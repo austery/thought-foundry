@@ -1,43 +1,43 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人性污点》
+- 《四种爱》
+- 《白痴》
+- 《侏儒的宿舍》
+- 《卡拉马佐夫兄弟》
+- 《1948年世界人权宣言》
+people:
+- Philip Roth
+- C.S. Lewis
+- Dostoevsky
+- Derrida
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=a5kuJ2q07DU
 speaker: 一席YiXi
-tags:
-  - friendship-complexity
-  - literary-community
-  - intimate-relationships
-  - self-creation
-  - structural-violence
-title: 友情的复杂性：文学、共同体与自我塑造的交织
-summary: 一位文学教师分享了她对友情的深刻理解。文章探讨了友情超越传统定义的复杂性，通过文学作品《人性污点》、《白痴》等案例，揭示了友情在自我塑造、精神共鸣中的作用。同时，文章也批判了友情中存在的结构性暴力、排他性，并呼吁构建开放、灵活、智性的新型共同体，强调文学阅读在维系这种深层连接中的力量。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-  - historical-insights
-people:
-  - Philip Roth
-  - C.S. Lewis
-  - Dostoevsky
-  - Derrida
-companies_orgs: []
-products_models: []
-media_books:
-  - 《人性污点》
-  - 《四种爱》
-  - 《白痴》
-  - 《侏儒的宿舍》
-  - 《卡拉马佐夫兄弟》
-  - 《1948年世界人权宣言》
 status: evergreen
+summary: 一位文学教师分享了她对友情的深刻理解。文章探讨了友情超越传统定义的复杂性，通过文学作品《人性污点》、《白痴》等案例，揭示了友情在自我塑造、精神共鸣中的作用。同时，文章也批判了友情中存在的结构性暴力、排他性，并呼吁构建开放、灵活、智性的新型共同体，强调文学阅读在维系这种深层连接中的力量。
+tags:
+- literary-community
+- relationship
+- science
+- self
+- structural-violence
+title: 友情的复杂性：文学、共同体与自我塑造的交织
 ---
+
 ### 友情的复杂性：一个未被充分思考的议题
 
 大家好，很高兴再次来到这里。我目前是一名文学老师。这次我想分享的话题可能有点宏大，它与友情相关。但这个宏大的话题，或许我们并未对其进行深入思考，这也是我想要谈论它的原因。当我们谈论友情时，我们可能渴望听到那些历经岁月、情感不变的故事。然而，在我个人生活中，这类故事却特别稀缺。中学时期，我与“朋友”或“死党”这些词语相距甚远，那时我对社交并不那么热衷。我们总希望在新环境中能建立更好的关系，却常常感到失望。我们渴望与某人建立更亲密的关系，却发现走着走着就分开了。无论是中学时代还是成人世界，我们都希望拥有一段更安全、更值得信任的关系，但往往感到困惑。因此，友情的复杂性便是我今天想要探讨的主题。

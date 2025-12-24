@@ -1,35 +1,34 @@
 ---
-author: TVO Today
+area: society-systems
+category: finance
+companies_orgs:
+- TVO Today
+- OnPoli
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John Michael McGrath
+- Mark Carney
+products_models: []
+project:
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Or9Iso_WQBU
 speaker: TVO Today
-tags:
-  - government-budgets
-  - fiscal-policy
-  - infrastructure-spending
-  - skilled-trades
-  - economic-outlook
-title: 联邦与安大略省预算：基础设施与经济增长计划是否一致？
-summary: 本文深入探讨了加拿大联邦政府和安大略省政府的最新预算案，包括其庞大的支出计划和赤字预测。重点分析了双方在基础设施投资和支持技术工人方面的策略，并比较了各自财政计划的长期目标。文章还提及了安大略省技能发展基金的争议，以及两国政府如何应对技术工人短缺的挑战，以期推动经济增长和项目建设。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - geopolitics-watch
-people:
-  - John Michael McGrath
-  - Mark Carney
-companies_orgs:
-  - TVO Today
-  - OnPoli
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了加拿大联邦政府和安大略省政府的最新预算案，包括其庞大的支出计划和赤字预测。重点分析了双方在基础设施投资和支持技术工人方面的策略，并比较了各自财政计划的长期目标。文章还提及了安大略省技能发展基金的争议，以及两国政府如何应对技术工人短缺的挑战，以期推动经济增长和项目建设。
+tags:
+- economic-outlook
+- fiscal-policy
+- government
+- infrastructure
+- trade
+title: 联邦与安大略省预算：基础设施与经济增长计划是否一致？
 ---
+
 ### 联邦与安大略省的财政概览
 
 加拿大**联邦预算**（Federal Budget: 加拿大联邦政府的年度财政计划，包含收入、支出和赤字预测）的总支出为2800亿加元，赤字达783亿加元。而**安大略省秋季经济更新**（Ontario's Fall Economic Update: 安大略省政府在秋季发布的经济报告，提供对财政状况和经济前景的最新评估）的支出约为2350亿加元，**赤字**（Deficit: 财政支出超过收入的部分）为135亿加元。这些数字在电子表格上一目了然，但它们究竟意味着什么？它们能告诉我们政府的真正优先事项以及政府在安大略省议会（Queen's Park）的实际立场和自主权吗？

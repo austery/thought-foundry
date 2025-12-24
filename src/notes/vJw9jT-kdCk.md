@@ -1,57 +1,56 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- Department of Justice (DOJ)
+- Apple
+- Microsoft
+- Samsung
+- TSMC
+- SK Hynix
+- Microchip Technology
+- Alibaba
+- NVIDIA
+- Tesla
+- Peloton
+- Polymarket
 date: '2024-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 马云
+- 查理·芒格
+products_models:
+- Chrome Browser
+- Android Operating System
+- IOS Operating System
+- Office 365
+- H Browser
+- Polo Platform
+- Snowflake
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=vJw9jT-kdCk
 speaker: Shijun Tang
-tags:
-  - antitrust-regulation
-  - supply-chain-vulnerability
-  - capital-allocation
-  - long-term-value-investing
-  - market-inefficiency
-title: 谷歌、三星与阿里：三大科技巨头的生死博弈与价值投资真谛
-summary: 本文深度剖析谷歌面临DOJ反垄断重击、三星半导体危机与阿里长期价值的三重叙事，揭示市场短期波动背后的企业结构性风险，并提出‘能力圈’与‘长期持有’的价值投资核心逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Shijun Tang
-  - 马云
-  - 查理·芒格
-companies_orgs:
-  - Google
-  - Department of Justice (DOJ)
-  - Apple
-  - Microsoft
-  - Samsung
-  - TSMC
-  - SK Hynix
-  - Microchip Technology
-  - Alibaba
-  - NVIDIA
-  - Tesla
-  - Peloton
-  - Polymarket
-products_models:
-  - Chrome Browser
-  - Android Operating System
-  - IOS Operating System
-  - Office 365
-  - H Browser
-  - Polo Platform
-  - Snowflake
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深度剖析谷歌面临DOJ反垄断重击、三星半导体危机与阿里长期价值的三重叙事，揭示市场短期波动背后的企业结构性风险，并提出‘能力圈’与‘长期持有’的价值投资核心逻辑。
+tags:
+- capital-allocation
+- long-term-value-investing
+- market-inefficiency
+- regulation
+- supply-chain-vulnerability
+title: 谷歌、三星与阿里：三大科技巨头的生死博弈与价值投资真谛
 ---
+
 ### 谷歌遭遇DOJ反垄断重击：Chrome与Android的生死劫
 
 谷歌（Google）面临的反垄断风暴，终于从传闻走向了实质行动。美国司法部（Department of Justice, DOJ）此次出手，目标直指谷歌在搜索市场的垄断地位，并提出三项极具破坏性的措施：要求出售Chrome浏览器、剥离Android操作系统，以及禁止谷歌与设备制造商签署独家搜索协议。

@@ -1,38 +1,38 @@
 ---
-author: Big Think
+area: society-systems
+category: science
+companies_orgs:
+- Big Think
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'A series of Fortunate Events: Chance and the Making of the Planet, Life, and You'
+people:
+- Sean B. Carroll
+- Wallace
+- Darwin
+- Neanderthals
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=iH60VHQtHrs
 speaker: Big Think
-tags:
-  - evolutionary-biology
-  - natural-selection
-  - mutation
-  - speciation
-  - scientific-theory
-title: 肖恩·B·卡罗尔：进化始于随机错误，而非精密设计
-summary: 人类倾向于像工程师一样思考，追求最短路径和最小错误。然而，进化过程却恰恰相反，它始于随机突变，通过自然选择来筛选和传播。本文深入探讨了进化的“阶梯”模式，即突变与选择的累积作用，以及时间在适应性传播中的关键角色。通过南极冰鱼的独特适应案例，文章展示了随机突变如何与外部环境互动，形成高度条件化的生物特征。同时，文章还阐释了物种形成的“分裂”过程、化石与DNA记录在重建生命史中的作用，并澄清了“科学理论”与日常猜测之间的根本区别。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Sean B. Carroll
-  - Wallace
-  - Darwin
-  - Neanderthals
-companies_orgs:
-  - Big Think
-products_models: []
-media_books:
-  - 'A series of Fortunate Events: Chance and the Making of the Planet, Life, and You'
 status: evergreen
+summary: 人类倾向于像工程师一样思考，追求最短路径和最小错误。然而，进化过程却恰恰相反，它始于随机突变，通过自然选择来筛选和传播。本文深入探讨了进化的“阶梯”模式，即突变与选择的累积作用，以及时间在适应性传播中的关键角色。通过南极冰鱼的独特适应案例，文章展示了随机突变如何与外部环境互动，形成高度条件化的生物特征。同时，文章还阐释了物种形成的“分裂”过程、化石与DNA记录在重建生命史中的作用，并澄清了“科学理论”与日常猜测之间的根本区别。
+tags:
+- geopolitical
+- mutation
+- speciation
+- technology
+- theory
+title: 肖恩·B·卡罗尔：进化始于随机错误，而非精密设计
 ---
+
 ### 人类思维与进化过程的差异
 
 人类的思维方式有点像工程师。我们首先设想一个期望的结果，然后思考如何以最短的路径实现它。我们可能会尝试一些试错，但会尽量将错误降到最低。

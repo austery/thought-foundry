@@ -1,36 +1,35 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 台灣芳香醫學醫學會
+- 台安醫院
 date: '2025-10-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 鄧雯心醫師
+- 羅佳琳醫師
+products_models:
+- 瘦瘦針
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=UjuNQeQwGTw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - essential-oils
-  - weight-management
-  - emotional-regulation
-  - childhood-trauma
-  - olfactory-system
-title: 精油如何助你擺脫情緒性肥胖？醫師揭秘嗅覺與腦部連結
-summary: 本集節目邀請羅佳琳醫師，深入探討精油在體重管理中的潛力。她解釋了情緒和童年創傷如何影響飲食行為，並揭示嗅覺如何透過杏仁核和海馬迴直接作用於大腦，幫助緩解情緒壓力、處理未消化的記憶，進而改善病態肥胖。節目中也分享了葡萄柚、大西洋雪松等實用精油，以及正確使用精油的方法，強調精油作為情緒與理智間的神隊友，能幫助人們更自然地達成健康目標。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 鄧雯心醫師
-  - 羅佳琳醫師
-companies_orgs:
-  - 台灣芳香醫學醫學會
-  - 台安醫院
-products_models:
-  - 瘦瘦針
-media_books: []
 status: evergreen
+summary: 本集節目邀請羅佳琳醫師，深入探討精油在體重管理中的潛力。她解釋了情緒和童年創傷如何影響飲食行為，並揭示嗅覺如何透過杏仁核和海馬迴直接作用於大腦，幫助緩解情緒壓力、處理未消化的記憶，進而改善病態肥胖。節目中也分享了葡萄柚、大西洋雪松等實用精油，以及正確使用精油的方法，強調精油作為情緒與理智間的神隊友，能幫助人們更自然地達成健康目標。
+tags:
+- emotional-regulation
+- environment
+- psychology
+- system
+- weight-management
+title: 精油如何助你擺脫情緒性肥胖？醫師揭秘嗅覺與腦部連結
 ---
+
 ### 情緒與肥胖的深層連結
 
 **鄧雯心醫師:** 其實我們會發現，許多小時候曾被霸凌的人，特別容易出現**病態肥胖**（Morbid Obesity: 指身體質量指數BMI超過40，或BMI超過35且伴有嚴重肥胖相關併發症）的狀態。如果被霸凌的創傷沒有被解決，即便他們努力改善飲食、增加運動，體重確實減輕了，但情緒可能並未真正平復，維持這種狀態會非常辛苦。

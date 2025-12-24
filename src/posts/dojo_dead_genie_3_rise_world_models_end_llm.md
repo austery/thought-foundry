@@ -6,18 +6,16 @@ area: null
 category: null
 project: []
 tags:
-  - genie-3
-  - 世界模型
-  - 大语言模型
+- llm
+- technology
 people:
-  - 主持人
-  - 老修
-  - 闲哥
+- 主持人
+- 老修
+- 闲哥
 companies_orgs:
 - 特斯拉
 products_models:
 - dojo
-media_books: []
 date: 2025-08-17
 author: Lei
 speaker: ''
@@ -30,6 +28,7 @@ layout: post.njk
 series: ''
 source: ''
 ---
+
 ## 特斯拉Dojo项目终结：战略聚焦还是撤退？
 
 主持人: 马斯克突然宣布把**Dojo**团队全部裁撤，这个项目直接关掉了，这是一个相当震撼的新闻。老修，作为特斯拉的股东，你要不要出来讲两句？这是战略聚焦还是战略撤退？

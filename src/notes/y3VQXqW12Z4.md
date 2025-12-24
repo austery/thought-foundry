@@ -1,53 +1,53 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 荷兰东印度公司
+- 英国东印度公司
+- Alibaba
+- 蚂蚁集团
+- 腾讯
+- 中石油
+- 人民公社
+- 国资委
+- 中国互联网投资基金
+- 社保基金
+- 汇金公司
 date: '2025-06-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《共产党宣言》
+- 澎湃新闻
+people:
+- 朱元璋
+- 毛泽东
+- 刘少奇
+- Xi Jinping
+- 马云
+- 吴敬琏
+- 邓小平
+- Vladimir Putin
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=y3VQXqW12Z4
 speaker: 东京人文论坛
-tags:
-  - political-economy
-  - state-capitalism
-  - market-vs-state
-  - historical-comparison
-title: 中国资本主义的宿命：从历史起源到未来展望
-summary: 本文深入探讨了资本主义在中国的复杂命运。首先，通过对比欧洲与明代中国，剖析了资本主义为何未能在东方诞生。接着，文章回顾了中国共产党从建国初期到改革开放后对资本主义态度的剧烈转变，并分析了民营经济“56789”贡献格局的形成与当前面临的困境。最后，通过解读“国进民退”现象与国家资本主义的统治逻辑，对中国未来经济与社会政治化的可能走向进行了展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 朱元璋
-  - 毛泽东
-  - 刘少奇
-  - 习近平
-  - 马云
-  - 吴敬琏
-  - 邓小平
-  - 普京
-companies_orgs:
-  - 荷兰东印度公司
-  - 英国东印度公司
-  - 阿里巴巴
-  - 蚂蚁集团
-  - 腾讯
-  - 中石油
-  - 人民公社
-  - 国资委
-  - 中国互联网投资基金
-  - 社保基金
-  - 汇金公司
-products_models: []
-media_books:
-  - 《共产党宣言》
-  - 澎湃新闻
 status: evergreen
+summary: 本文深入探讨了资本主义在中国的复杂命运。首先，通过对比欧洲与明代中国，剖析了资本主义为何未能在东方诞生。接着，文章回顾了中国共产党从建国初期到改革开放后对资本主义态度的剧烈转变，并分析了民营经济“56789”贡献格局的形成与当前面临的困境。最后，通过解读“国进民退”现象与国家资本主义的统治逻辑，对中国未来经济与社会政治化的可能走向进行了展望。
+tags:
+- historical
+- market
+- political-economy
+- state
+title: 中国资本主义的宿命：从历史起源到未来展望
 ---
+
 ### 引言：为何关注资本主义在中国的命运？
 
 我们为什么关注资本主义在中国的命运？如果把历史掰开来看，会发现一个非常清楚的脉络，即所谓的西方文明在最近几个世纪于全球扩张的过程。中国的历史学家有一个说法，叫做“两个世界的碰撞”，也就是西方与非西方的碰撞。

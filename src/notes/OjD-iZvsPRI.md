@@ -1,42 +1,41 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Otis
+- Norges Bank Investment Management
 date: '2025-05-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Judy Marks
+- Elijah Otis
+- David
+- Lars
+- Shipra
+products_models:
+- elevators
+- escalators
+project:
+- investment-strategy
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=OjD-iZvsPRI
 speaker: Norges Bank Investment Management
-tags:
-  - operational-excellence
-  - service-business
-  - flywheel-model
-  - customer-centricity
-  - sustainable-growth
-title: 奥的斯：172年的运营卓越与服务飞轮驱动的持续增长
-summary: 奥的斯（Otis）首席执行官Judy Marks在投资会议上分享了公司长达172年的成功秘诀。她强调了奥的斯在电梯和自动扶梯行业的运营卓越和严格纪律，以及以服务为核心的“飞轮”商业模式。通过持续创新、应用物联网和人工智能进行预防性维护，奥的斯不仅实现了显著的利润增长，还通过其安全、道德和质量的“绝对原则”确保了客户信任和可持续发展，为股东创造了可观的回报。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Judy Marks
-  - Elijah Otis
-  - David
-  - Lars
-  - Shipra
-companies_orgs:
-  - Otis
-  - Norges Bank Investment Management
-products_models:
-  - elevators
-  - escalators
-media_books: []
 status: evergreen
+summary: 奥的斯（Otis）首席执行官Judy Marks在投资会议上分享了公司长达172年的成功秘诀。她强调了奥的斯在电梯和自动扶梯行业的运营卓越和严格纪律，以及以服务为核心的“飞轮”商业模式。通过持续创新、应用物联网和人工智能进行预防性维护，奥的斯不仅实现了显著的利润增长，还通过其安全、道德和质量的“绝对原则”确保了客户信任和可持续发展，为股东创造了可观的回报。
+tags:
+- business
+- geopolitical
+- growth
+- health
+- model
+title: 奥的斯：172年的运营卓越与服务飞轮驱动的持续增长
 ---
+
 ### 奥的斯的运营卓越与百年传承
 
 下午好，谢谢。

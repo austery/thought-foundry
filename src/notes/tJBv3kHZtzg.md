@@ -1,31 +1,29 @@
 ---
-title: OpenAI+YC双料冠军分享：黑客马拉松制胜五大干货原则
-summary: 一位在OpenAI和YC黑客马拉松中屡获殊荣的资深参与者，分享了她在短时间内打造成功项目的五大核心原则，包括如何构思好点子、以演示为导向的执行、高效团队协作、有效人脉网络，以及如何积极面对失败，为参与者提供宝贵经验。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-development
-- hackathon-strategies
-- networking-tips
-- product-management
-- startup-competitions
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-18'
-author: 课代表立正
-speaker: 课代表立正
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=tJBv3kHZtzg
+speaker: 课代表立正
 status: evergreen
+summary: 一位在OpenAI和YC黑客马拉松中屡获殊荣的资深参与者，分享了她在短时间内打造成功项目的五大核心原则，包括如何构思好点子、以演示为导向的执行、高效团队协作、有效人脉网络，以及如何积极面对失败，为参与者提供宝贵经验。
+tags:
+- ai-development
+- product-management
+- startup
+- strategy
+- technology
+title: OpenAI+YC双料冠军分享：黑客马拉松制胜五大干货原则
 ---
+
 ### 开场与嘉宾介绍
 
 主持人: Okay. Uh, well, just wait for another minute and then I'll start. Uh, there's recording. So, uh, if you want to share this with your friend, uh, you probably just joined from Maven the Lightning course, you can just share that and uh, uh, we'll upload the recording and you can access get access to the recording that way.

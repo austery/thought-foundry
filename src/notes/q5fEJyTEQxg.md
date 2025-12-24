@@ -1,31 +1,29 @@
 ---
-title: 布兰登·泰勒谈新小说《黑色次要人物》：在意义真空的世界中寻找艺术与爱
-summary: 著名作家布兰登·泰勒在访谈中分享了新小说《黑色次要人物》的创作历程与深层主题，探讨了艺术、信仰、种族、身份认同及当代文学趋势，并阐述了其对小说形式与读者的深刻尊重。
 area: null
 category: null
-project: []
-tags:
-- art-and-identity
-- brandon-taylor
-- contemporary-literature
-- literary-fiction
-- minor-black-figures
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-10'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q5fEJyTEQxg
+speaker: New York Times Podcasts
 status: evergreen
+summary: 著名作家布兰登·泰勒在访谈中分享了新小说《黑色次要人物》的创作历程与深层主题，探讨了艺术、信仰、种族、身份认同及当代文学趋势，并阐述了其对小说形式与读者的深刻尊重。
+tags:
+- business
+- history
+- identity
+- minor-black-figure
+title: 布兰登·泰勒谈新小说《黑色次要人物》：在意义真空的世界中寻找艺术与爱
 ---
+
 ### 欢迎与新书介绍
 
 [Music]

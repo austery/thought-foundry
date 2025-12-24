@@ -1,44 +1,44 @@
 ---
-author: 知行小酒馆
+area: society-systems
+category: culture
+companies_orgs:
+- 大众点评
+- 艾瑞咨询
+- 抖音
+- 快手
+- 腾讯
 date: '2025-09-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 知行小酒馆
+people:
+- 温一非
+- Melody
+- 雨白
+products_models:
+- 王者荣耀
+- 拉布布
+project:
+- china-analysis
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=fkczr8wjlg0
 speaker: 知行小酒馆
-tags:
-  - scarcity-of-love
-  - emotional-consumption
-  - social-atomization
-  - evolutionary-psychology
-  - work-life-balance
-title: 爱的稀缺：当代人的隐形贫困与情感消费的兴起
-summary: 当代社会似乎正面临一种“爱的赤字”：一方面，人们对爱的渴望并未减少；另一方面，由于工作时长增加、通勤与手机占据大量时间，现实中用于深度情感交流的“爱的供给”却日益稀缺。本文深入探讨了这一现象背后的数据，分析了以按摩、游戏陪玩为代表的“情绪消费”如何填补情感空缺，并从进化心理学和历史角度剖析了现代婚恋策略的演变。最终，文章思考了在个体日益原子化的趋势下，爱将以何种新形式存在。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-  - historical-insights
-people:
-  - 温一非
-  - Melody
-  - 雨白
-companies_orgs:
-  - 大众点评
-  - 艾瑞咨询
-  - 抖音
-  - 快手
-  - 腾讯
-products_models:
-  - 王者荣耀
-  - 拉布布
-media_books:
-  - 知行小酒馆
 status: evergreen
+summary: 当代社会似乎正面临一种“爱的赤字”：一方面，人们对爱的渴望并未减少；另一方面，由于工作时长增加、通勤与手机占据大量时间，现实中用于深度情感交流的“爱的供给”却日益稀缺。本文深入探讨了这一现象背后的数据，分析了以按摩、游戏陪玩为代表的“情绪消费”如何填补情感空缺，并从进化心理学和历史角度剖析了现代婚恋策略的演变。最终，文章思考了在个体日益原子化的趋势下，爱将以何种新形式存在。
+tags:
+- emotional
+- love
+- psychology
+- social
+- work-life-balance
+title: 爱的稀缺：当代人的隐形贫困与情感消费的兴起
 ---
+
 ### 当代社会的悖论：爱的需求与供给失衡
 
 欢迎来到知行小酒馆，这是一档由知有行出品的播客节目，我们关注投资，更关注如何更好地生活。

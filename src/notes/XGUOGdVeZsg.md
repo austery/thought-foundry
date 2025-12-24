@@ -1,47 +1,47 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CBC
+- RBC
+- LCBO
+- SAQ
 date: '2025-06-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《皇家自治领域审计关系委员会报告》
+people:
+- Mark Carney
+- Charles III
+- Gerard Comeau
+- Anita Anand
+- Pierre Poilievre
+- Justin Trudeau
+- Donald Trump
+products_models:
+- Canadian Free Trade Agreement
+- One Canadian Economy Act
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=XGUOGdVeZsg
 speaker: 莊也雜談
-tags:
-  - canada-internal-trade
-  - provincial-barriers
-  - federalism-challenges
-  - economic-resilience
-  - us-tariffs-impact
-title: 加拿大“无声内战”：省际贸易壁垒如何扼杀经济活力？
-summary: 本期节目深入剖析加拿大内部贸易壁垒的成因、类型及其对经济的深远影响。从历史渊源、法律纠葛到各省利益博弈，揭示了这些“看不见的墙”如何阻碍商品、服务和劳动力自由流动，每年造成数百亿加元的经济损失。节目还探讨了卡尼政府旨在消除联邦层面壁垒的立法尝试，并指出其局限性，强调在面对美国关税冲击时，内部改革的紧迫性与长期性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Charles III
-  - Gerard Comeau
-  - Anita Anand
-  - Pierre Poilievre
-  - Justin Trudeau
-  - Donald Trump
-companies_orgs:
-  - CBC
-  - RBC
-  - LCBO
-  - SAQ
-products_models:
-  - Canadian Free Trade Agreement
-  - One Canadian Economy Act
-media_books:
-  - 《皇家自治领域审计关系委员会报告》
 status: evergreen
+summary: 本期节目深入剖析加拿大内部贸易壁垒的成因、类型及其对经济的深远影响。从历史渊源、法律纠葛到各省利益博弈，揭示了这些“看不见的墙”如何阻碍商品、服务和劳动力自由流动，每年造成数百亿加元的经济损失。节目还探讨了卡尼政府旨在消除联邦层面壁垒的立法尝试，并指出其局限性，强调在面对美国关税冲击时，内部改革的紧迫性与长期性。
+tags:
+- challenge
+- economic-resilience
+- technology
+- trade
+- us-tariffs-impact
+title: 加拿大“无声内战”：省际贸易壁垒如何扼杀经济活力？
 ---
+
 ### 加拿大内贸壁垒：一场无声的经济博弈
 
 大家好，我是庄也，欢迎收看庄也杂谈。最近，加拿大政坛有件大事，估计大家都有所耳闻。**马克·卡尼**（Mark Carney: 加拿大前央行行长，现任加拿大副总理兼财政部长）在大选后的首次新闻发布会上，向加拿大民众承诺，将在2025年7月1日之前，消除所有联邦层面的省际贸易壁垒和劳动力流动障碍。随后，上周加拿大君主**查尔斯三世**（Charles III: 英国国王，加拿大国家元首）来访时，也通过皇家御座演说确认了此事。

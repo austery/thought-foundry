@@ -1,54 +1,53 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 福特汽车公司
+- 通用汽车
+- 斯特兰蒂斯
+- 丰田
+- 本田
+- 雪佛兰
+- 比亚迪
+- IEA国际能源署
+- Abacus data
+- Clean Energy Canada
 date: '2025-09-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Justin Trudeau
+- Joe Biden
+- Donald Trump
+products_models:
+- 现代IONIQ 5
+- 福特F-150闪电皮卡
+- 现代KONA
+- 雪铁龙C3
+- 丰田花冠
+- 本田思域
+- 丰田RAV4
+- 雪佛兰BrightDrop
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=5Sgf9MvASmI
 speaker: 大伟探秘加拿大
-tags:
-  - electric-vehicle-market
-  - trade-tariffs
-  - government-policy
-  - consumer-impact
-  - economic-dependency
-title: 加拿大电动车困境：高价、政策摇摆与贸易壁垒下的产业梦碎真相
-summary: 加拿大曾雄心勃勃地计划在2035年实现电动车100%销售目标，但目前该计划已名存实亡。文章深入分析了加拿大电动车市场畸形发展的深层原因，包括高昂的售价、车型选择的匮乏、政府补贴政策的反复无常、对美国市场的结构性依赖，以及对中国电动车征收100%关税的自我设限。这些因素共同导致了市场销售断崖式下跌，并使加拿大消费者成为高价和有限选择的最终买单人。文章呼吁加拿大政府采取稳定政策，并重新审视对华关税，以打破僵局，促进电动车普及。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Justin Trudeau
-  - Joe Biden
-  - Donald Trump
-companies_orgs:
-  - 福特汽车公司
-  - 通用汽车
-  - 斯特兰蒂斯
-  - 丰田
-  - 本田
-  - 雪佛兰
-  - 比亚迪
-  - IEA国际能源署
-  - Abacus data
-  - Clean Energy Canada
-products_models:
-  - 现代IONIQ 5
-  - 福特F-150闪电皮卡
-  - 现代KONA
-  - 雪铁龙C3
-  - 丰田花冠
-  - 本田思域
-  - 丰田RAV4
-  - 雪佛兰BrightDrop
-media_books: []
 status: evergreen
+summary: 加拿大曾雄心勃勃地计划在2035年实现电动车100%销售目标，但目前该计划已名存实亡。文章深入分析了加拿大电动车市场畸形发展的深层原因，包括高昂的售价、车型选择的匮乏、政府补贴政策的反复无常、对美国市场的结构性依赖，以及对中国电动车征收100%关税的自我设限。这些因素共同导致了市场销售断崖式下跌，并使加拿大消费者成为高价和有限选择的最终买单人。文章呼吁加拿大政府采取稳定政策，并重新审视对华关税，以打破僵局，促进电动车普及。
+tags:
+- economic
+- electric-vehicle-market
+- government-policy
+- impact
+- trade-tariff
+title: 加拿大电动车困境：高价、政策摇摆与贸易壁垒下的产业梦碎真相
 ---
+
 ### 加拿大电动车普及之路的困境与挑战
 
 今天我们将探讨一个让无数加拿大人既向往又头疼的话题——电动汽车。我们都曾听过电动车是未来、环保省钱且驾驶体验极佳的美好承诺。早在2021年，加拿大联邦政府就制定了电动车普及的路线图，计划到2026年，至少20%的新车销售为**零排放汽车**（Zero-Emission Vehicles, ZEVs: 指不排放任何废气或温室气体的车辆，通常为纯电动车或燃料电池车）；到2030年提升至60%；最终在2035年实现100%的销售目标。然而，现在这个路线图已是名存实亡。就在不久前，总理贾斯汀·特鲁多（Justin Trudeau）宣布推迟2026年20%的目标，而2035年100%的目标更是显得不切实际。

@@ -1,40 +1,40 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- CIRCLE
+- Money or Life 美股频道
+- Coinbase
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ace
+products_models:
+- CPN
+- Arc
+- USDC
+- USDT
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=q4Dg6M34q7Y
 speaker: Money or Life 美股频道
-tags:
-  - stablecoin-market
-  - earnings-report
-  - company-valuation
-  - crypto-regulation
-  - network-effect
-title: CIRCLE 2025年第三季度财报深度解读：暴跌后的加仓逻辑与估值展望
-summary: 本期视频由主持人Ace深入解读CIRCLE公司2025年第三季度财报。尽管营收和每股收益均超预期，股价却遭遇暴跌，Ace分享了其逆势加仓的理由。视频详细分析了CIRCLE核心产品CPN和Arc、稳定币市场格局（USDC与USDT）、USDC托管平台收入分成，并展望了公司未来的支付生态系统发展。最后，Ace基于稳定币市场总量、USDC市占率、投资回报率、其他收入增长及毛利率等五大关键因素，对CIRCLE 2030年的估值进行了详细测算，并解释了对市场竞争和合规性的看法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Ace
-companies_orgs:
-  - CIRCLE
-  - Money or Life 美股频道
-  - Coinbase
-products_models:
-  - CPN
-  - Arc
-  - USDC
-  - USDT
-media_books: []
 status: evergreen
+summary: 本期视频由主持人Ace深入解读CIRCLE公司2025年第三季度财报。尽管营收和每股收益均超预期，股价却遭遇暴跌，Ace分享了其逆势加仓的理由。视频详细分析了CIRCLE核心产品CPN和Arc、稳定币市场格局（USDC与USDT）、USDC托管平台收入分成，并展望了公司未来的支付生态系统发展。最后，Ace基于稳定币市场总量、USDC市占率、投资回报率、其他收入增长及毛利率等五大关键因素，对CIRCLE
+  2030年的估值进行了详细测算，并解释了对市场竞争和合规性的看法。
+tags:
+- crypto-regulation
+- earnings-report
+- market
+- network-effect
+- valuation
+title: CIRCLE 2025年第三季度财报深度解读：暴跌后的加仓逻辑与估值展望
 ---
+
 ### 引言：财报发布与加仓决策
 
 欢迎来到Money or Life美股频道。本期视频将深入解读**CIRCLE**（一家专注于数字货币和支付技术的公司）刚刚发布的2025年第三季度财报。尽管财报发布后CIRCLE股价暴跌，我却选择进行了加仓。本视频将详细阐述财报的主要关注点以及我做出加仓决定的原因。如果您喜欢我的个股分析和及时的财报分享，请点赞、评论并免费订阅Money or Life美股频道，您的支持是我创作的最大动力。

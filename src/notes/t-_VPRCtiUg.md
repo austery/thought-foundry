@@ -1,41 +1,39 @@
 ---
-author: Veritasium
-date: '2021-03-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=t-_VPRCtiUg
-speaker: Veritasium
-tags:
-  - veritasium
-  - synchronization
-  - complex-systems
-  - spontaneous-order
-  - phase-transition
-  - coupled-oscillators
-title: 同步的惊人秘密：从钟摆到心脏的秩序之谜
-summary: 宇宙万物倾向于无序，然而自然界中却存在着各种自发秩序的现象，例如节拍器同步、月球完美轨道、萤火虫同时闪烁，乃至心脏的规律跳动。本文深入探讨了这些同步现象背后的科学原理，从17世纪惠更斯对摆钟的观察，到千禧桥的晃动事件，再到藏本模型、潮汐锁定、化学振荡和心律失常，揭示了复杂系统中自发秩序的普遍性和重要性。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Christian Huygens
-  - Boris Belousov
-  - Anatol Zhabotinsky
-  - Art Winfree
-  - Nicky Case
+category: science
 companies_orgs:
-  - British Army
-  - BBC
+- British Army
+- BBC
+date: '2021-03-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Christian Huygens
+- Boris Belousov
+- Anatol Zhabotinsky
+- Art Winfree
+- Nicky Case
 products_models:
-  - Kuramoto model
-media_books: []
+- Kuramoto model
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=t-_VPRCtiUg
+speaker: veritasium
 status: evergreen
+summary: 宇宙万物倾向于无序，然而自然界中却存在着各种自发秩序的现象，例如节拍器同步、月球完美轨道、萤火虫同时闪烁，乃至心脏的规律跳动。本文深入探讨了这些同步现象背后的科学原理，从17世纪惠更斯对摆钟的观察，到千禧桥的晃动事件，再到藏本模型、潮汐锁定、化学振荡和心律失常，揭示了复杂系统中自发秩序的普遍性和重要性。
+tags:
+- geopolitical
+- history
+- phase-transition
+- synchronization
+- system
+title: 同步的惊人秘密：从钟摆到心脏的秩序之谜
 ---
+
 ### 秩序的悖论：无序中的自发同步
 
 热力学第二定律（**Second law of thermodynamics**: 描述孤立系统熵值随时间变化的物理定律）告诉我们，宇宙中的一切都趋向于无序。

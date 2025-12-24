@@ -1,61 +1,61 @@
 ---
-author: 美投讲美股
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- CNBC
+- Congressional Budget Office
+- White House Presidential Economic Council
+- Yale University Budget Lab
+- Morgan Stanley
+- Apple
+- Microsoft
+- Google
+- Amazon
+- Nvidia
+- TSMC
+- Lockheed Martin
+- Boeing
+- Palantir
+- ExxonMobil
+- Chevron
+- Tesla
+- Walmart
+- Dollar General
+- Home Depot
+- Airbnb
+- MGM
 date: '2025-07-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+people:
+- Donald Trump
+- Elon Musk
+- Joe Biden
+products_models:
+- FSD
+- Robotaxi
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=_uNqGpj7SFA
 speaker: 美投讲美股
-tags:
-  - us-fiscal-policy
-  - tax-cuts
-  - economic-stimulus
-  - national-debt
-  - wealth-inequality
-  - sectoral-impact
-title: 深度解析“大美利法案”：川普新政如何影响美股与经济未来五年？
-summary: 本文深入剖析美国众议院通过的“大美利法案”，该法案涵盖川普上任后的所有财政政策，包括减税、增加国防开支、削减社会福利及提高债务上限。文章对比2017年减税效果，揭示此次法案短期刺激与长期隐患并存，尤其在赤字、贫富差距及特定行业（如新能源、医疗）面临的挑战。同时，分析了科技、军工、传统能源等受益板块，为投资者提供全面视角。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Donald Trump
-  - Elon Musk
-  - Joe Biden
-companies_orgs:
-  - CNBC
-  - Congressional Budget Office
-  - White House Presidential Economic Council
-  - Yale University Budget Lab
-  - Morgan Stanley
-  - Apple
-  - Microsoft
-  - Google
-  - Amazon
-  - Nvidia
-  - TSMC
-  - Lockheed Martin
-  - Boeing
-  - Palantir
-  - ExxonMobil
-  - Chevron
-  - Tesla
-  - Walmart
-  - Dollar General
-  - Home Depot
-  - Airbnb
-  - MGM
-products_models:
-  - FSD
-  - Robotaxi
-media_books:
-  - Bloomberg
 status: evergreen
+summary: 本文深入剖析美国众议院通过的“大美利法案”，该法案涵盖川普上任后的所有财政政策，包括减税、增加国防开支、削减社会福利及提高债务上限。文章对比2017年减税效果，揭示此次法案短期刺激与长期隐患并存，尤其在赤字、贫富差距及特定行业（如新能源、医疗）面临的挑战。同时，分析了科技、军工、传统能源等受益板块，为投资者提供全面视角。
+tags:
+- debt
+- economic-stimulus
+- impact
+- tax
+- us-fiscal-policy
+- wealth-inequality
+title: 深度解析“大美利法案”：川普新政如何影响美股与经济未来五年？
 ---
+
 ### “大美利法案”：川普新政的全面影响
 
 大家好，我是美投君，你们的美股探路者。7月3日，美国众议院通过了一项重磅的财政法案——**大美利法案**。紧接着，在7月4日这个美国最重要的日子，唐纳德·川普（Donald Trump）盛大签署了这项法案，使其正式成为法律。

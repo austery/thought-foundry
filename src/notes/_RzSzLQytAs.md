@@ -1,87 +1,87 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- Microsoft
+- Nvidia
+- Berkshire Hathaway
+- NATO
+- Meta
+- OpenAI
+- Salesforce
+- AMD
+- DOJ
+- S&P 500
+- Federal Reserve
+- Goldman Sachs
+- Oppenheimer
+- J.P. Morgan
+- Bank of America
+- Amazon
+- Cisco
+- Broadcom
+- Nebius
+- Irene
+- CoreWeave
+- Cipher
+- Oracle
+- ClickHouse
+- AWS
+- Oscar Health
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Information
+- Substack
+- The All-In Podcast
+people:
+- Michael Burry
+- Warren Buffett
+- Sam Altman
+- Mark Benioff
+- Jensen Huang
+- Howard Lutnik
+- Donald Trump
+- John Williams
+- Mary C. Daly
+- Christopher Waller
+- David Friedberg
+- Jerome Powell
+- Moran
+- Bowman
+- Tom Lee
+products_models:
+- Gemini 3
+- ChatGPT
+- TPU
+- GPU
+- Blackwell
+- Llama
+- H200
+- Trainium
+- ACA
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=_RzSzLQytAs
 speaker: Amit Kukreja
-tags:
-  - google-stock-performance
-  - ai-chips-competition
-  - fed-rate-cuts
-  - ai-bubble-concerns
-  - data-center-investment
-title: 谷歌创历史新高，迈克尔·布里回归，英伟达做出回应：每日回顾
-summary: 本期节目回顾了谷歌股价创历史新高，以及其在AI领域（特别是TPU技术）对英伟达构成的挑战。同时，讨论了著名投资者迈克尔·布里对AI泡沫的看空观点，以及英伟达对此的直接回应。此外，节目还分析了美联储降息的可能性及其对市场流动性的影响，以及亚马逊和谷歌在数据中心基础设施上的巨额投资，强调了AI基础设施建设的持续增长。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Michael Burry
-  - Warren Buffett
-  - Sam Altman
-  - Mark Benioff
-  - Jensen Huang
-  - Howard Lutnik
-  - Donald Trump
-  - John Williams
-  - Mary C. Daly
-  - Christopher Waller
-  - David Friedberg
-  - Jerome Powell
-  - Moran
-  - Bowman
-  - Tom Lee
-companies_orgs:
-  - Google
-  - Microsoft
-  - Nvidia
-  - Berkshire Hathaway
-  - NATO
-  - Meta
-  - OpenAI
-  - Salesforce
-  - AMD
-  - DOJ
-  - S&P 500
-  - Federal Reserve
-  - Goldman Sachs
-  - Oppenheimer
-  - J.P. Morgan
-  - Bank of America
-  - Amazon
-  - Cisco
-  - Broadcom
-  - Nebius
-  - Irene
-  - CoreWeave
-  - Cipher
-  - Oracle
-  - ClickHouse
-  - AWS
-  - Oscar Health
-products_models:
-  - Gemini 3
-  - ChatGPT
-  - TPU
-  - GPU
-  - Blackwell
-  - Llama
-  - H200
-  - Trainium
-  - ACA
-media_books:
-  - The Information
-  - Substack
-  - The All-In Podcast
 status: evergreen
+summary: 本期节目回顾了谷歌股价创历史新高，以及其在AI领域（特别是TPU技术）对英伟达构成的挑战。同时，讨论了著名投资者迈克尔·布里对AI泡沫的看空观点，以及英伟达对此的直接回应。此外，节目还分析了美联储降息的可能性及其对市场流动性的影响，以及亚马逊和谷歌在数据中心基础设施上的巨额投资，强调了AI基础设施建设的持续增长。
+tags:
+- ai-bubble-concern
+- competition
+- data-center-investment
+- fed-rate-cut
+- stock
+title: 谷歌创历史新高，迈克尔·布里回归，英伟达做出回应：每日回顾
 ---
+
 ### 市场回顾：谷歌创新高与美联储降息预期
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目，今天真是令人兴奋的一天。谷歌股价创下历史新高。

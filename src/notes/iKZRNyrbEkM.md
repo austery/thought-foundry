@@ -1,59 +1,59 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- 标普全球
+- 万事达
+- AMD
+- 英特尔
+- Google
+- 亚马逊
+- 台积电
+- 三星
+- SK海力士
+- 美光
+- ASM
+- 穆迪
+- 惠誉
+- 彭博
+- 晨星
+- PayPal
+- Stripe
+- Apple Pay
+- Google Pay
 date: '2025-06-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- Donald Trump
+products_models:
+- H100
+- GB200
+- M300系列CPU
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=iKZRNyrbEkM
 speaker: Shijun Tang
-tags:
-  - monopoly-ecosystem
-  - network-effect
-  - circular-reinvestment
-  - financial-infrastructure
-  - supply-chain-vulnerability
-title: 英伟达、标普全球与万事达：三巨头的复利机器与支付帝国
-summary: 本文深入分析英伟达如何凭借CUDA生态构建AI数据中心垄断，标普全球通过评级与指数业务构筑法定护城河，以及万事达在支付网络中的寡头地位，揭示三家公司如何成为可持续的复利增长引擎。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - 川普
-companies_orgs:
-  - 英伟达
-  - 标普全球
-  - 万事达
-  - AMD
-  - 英特尔
-  - 谷歌
-  - 亚马逊
-  - 台积电
-  - 三星
-  - SK海力士
-  - 美光
-  - ASM
-  - 穆迪
-  - 惠誉
-  - 彭博
-  - 晨星
-  - PayPal
-  - Stripe
-  - Apple Pay
-  - Google Pay
-products_models:
-  - H100
-  - GB200
-  - M300系列CPU
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入分析英伟达如何凭借CUDA生态构建AI数据中心垄断，标普全球通过评级与指数业务构筑法定护城河，以及万事达在支付网络中的寡头地位，揭示三家公司如何成为可持续的复利增长引擎。
+tags:
+- ecosystem
+- financial
+- investment
+- network-effect
+- supply-chain-vulnerability
+title: 英伟达、标普全球与万事达：三巨头的复利机器与支付帝国
 ---
+
 ### 英伟达：CUDA生态构筑的AI垄断护城河
 
 英伟达这家公司，相信你只要不是住在与世隔绝的山洞里没有网络，就很难没听说过它。在短短两年间，它缔造了股价暴涨1395%、翻了十四倍的神话。如今，其在AI数据中心市场的份额超过90%，几乎可以认为这个市场中只存在一家公司——英伟达。

@@ -1,72 +1,72 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Goldman Sachs
+- Toyota
+- Democratic Progressive Party
+- Kuomintang
+- Japan Innovation Party
+- Alibaba
+- Tmall
+- Taobao
+- JD.com
+- Chinese Communist Party
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《彭博社》
+- 《路透社》
+- 《德国之声》
+- 《人民日报》
+- 《星岛日报》
+- 《小红书》
+- 《央视》
+people:
+- Nick Timiraos
+- Swonk
+- Barr
+- Donald Trump
+- Jeffrey Epstein
+- Ghislaine Maxwell
+- Michael Wolff
+- Levitt
+- Isaac Herzog
+- Benjamin Netanyahu
+- Ko Wen-je
+- Huang Kuo-chang
+- Takaichi Sanae
+- Shen Po-yang
+- Lai Ching-te
+- Han Kuo-yu
+- Lingling Wei
+- Zhang Youxia
+- He Weidong
+- Xi Jinping
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=TqzC94k7DPM
 speaker: LT視界
-tags:
-  - us-monetary-policy
-  - ai-employment-impact
-  - geopolitical-shifts
-  - china-consumption
-  - military-purges
-title: 美联储政策摇摆、AI冲击就业、双十一静默：中美日政治经济多维透视
-summary: 本期节目深入探讨了全球多个热点议题。美国经济面临美联储降息立场摇摆、AI技术对就业市场的冲击，以及高盛对美股未来表现的悲观预测。政治方面，川普再次卷入爱普斯坦丑闻并请求赦免内塔尼亚胡。日本在丰田战略调整和核武器政策上出现重大动向，而中国双十一的“退潮静默”则反映了消费市场的严峻挑战。节目还分析了中美政治制度的根本差异，并聚焦中国军队内部张又侠权力扩大与清洗标准的变化。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Nick Timiraos
-  - Swonk
-  - Barr
-  - Donald Trump
-  - Jeffrey Epstein
-  - Ghislaine Maxwell
-  - Michael Wolff
-  - Levitt
-  - Isaac Herzog
-  - Benjamin Netanyahu
-  - Ko Wen-je
-  - Huang Kuo-chang
-  - Takaichi Sanae
-  - Shen Po-yang
-  - Lai Ching-te
-  - Han Kuo-yu
-  - Lingling Wei
-  - Zhang Youxia
-  - He Weidong
-  - Xi Jinping
-companies_orgs:
-  - Federal Reserve
-  - Goldman Sachs
-  - Toyota
-  - Democratic Progressive Party
-  - Kuomintang
-  - Japan Innovation Party
-  - Alibaba
-  - Tmall
-  - Taobao
-  - JD.com
-  - Chinese Communist Party
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《路透社》
-  - 《德国之声》
-  - 《人民日报》
-  - 《星岛日报》
-  - 《小红书》
-  - 《央视》
 status: evergreen
+summary: 本期节目深入探讨了全球多个热点议题。美国经济面临美联储降息立场摇摆、AI技术对就业市场的冲击，以及高盛对美股未来表现的悲观预测。政治方面，川普再次卷入爱普斯坦丑闻并请求赦免内塔尼亚胡。日本在丰田战略调整和核武器政策上出现重大动向，而中国双十一的“退潮静默”则反映了消费市场的严峻挑战。节目还分析了中美政治制度的根本差异，并聚焦中国军队内部张又侠权力扩大与清洗标准的变化。
+tags:
+- china
+- geopolitical-shift
+- impact
+- military
+- us-monetary-policy
+title: 美联储政策摇摆、AI冲击就业、双十一静默：中美日政治经济多维透视
 ---
+
 ### 全球财经头条：美联储政策、AI冲击与市场展望
 
 今天，我们将分享不能错过的全球重要新闻。首先是财经头条，有三个方面的最新信息值得关注。

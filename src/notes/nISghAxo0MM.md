@@ -1,47 +1,47 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TikTok
+- 摩萨德
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大明王朝1566》
+people:
+- Donald Trump
+- Joe Biden
+- 吴亦凡
+- 克林顿
+- 詹姆斯
+- 高市早苗
+- 特拉斯
+- 何茂才
+- 海瑞
+- 埃博斯坦
+- 石破茂
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=nISghAxo0MM
 speaker: 北美王路飞
-tags:
-  - epstein-case
-  - political-corruption
-  - japanese-fiscal-policy
-  - market-instability
-  - us-election-2024
-title: 埃博斯坦案、日本财政危机与美国政治：权力、经济及社会动态的多维透视
-summary: 本期节目深入探讨了多个社会与政治议题。金鸟分析了埃博斯坦案持续受关注的原因，指出封闭系统导致阶层固化与权力滥用，并揭示了政客在经济议题上推卸责任的普遍现象。大川则剖析了日本高市早苗激进的25万亿日元补正预算如何引发市场恐慌，导致股债汇三杀，并将其与英国特拉斯的财政失败进行比较。此外，节目还围绕特朗普利用埃博斯坦案转移经济议题焦点的可能性展开了激烈辩论，揭示了美国政治精英阶层在丑闻面前的复杂博弈与系统性掩盖。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Joe Biden
-  - 吴亦凡
-  - 克林顿
-  - 詹姆斯
-  - 高市早苗
-  - 特拉斯
-  - 何茂才
-  - 海瑞
-  - 埃博斯坦
-  - 石破茂
-companies_orgs:
-  - TikTok
-  - 摩萨德
-products_models: []
-media_books:
-  - 《大明王朝1566》
 status: evergreen
+summary: 本期节目深入探讨了多个社会与政治议题。金鸟分析了埃博斯坦案持续受关注的原因，指出封闭系统导致阶层固化与权力滥用，并揭示了政客在经济议题上推卸责任的普遍现象。大川则剖析了日本高市早苗激进的25万亿日元补正预算如何引发市场恐慌，导致股债汇三杀，并将其与英国特拉斯的财政失败进行比较。此外，节目还围绕特朗普利用埃博斯坦案转移经济议题焦点的可能性展开了激烈辩论，揭示了美国政治精英阶层在丑闻面前的复杂博弈与系统性掩盖。
+tags:
+- epstein-case
+- japanese-fiscal-policy
+- market
+- political-corruption
+- us-election-2024
+title: 埃博斯坦案、日本财政危机与美国政治：权力、经济及社会动态的多维透视
 ---
+
 ### 封闭系统与权力固化：从埃博斯坦案看社会阶层
 
 **金鸟:** 大家好，我先说题外话。刚才你们提到婚恋的事，我觉得之所以亚裔女性在美国市场受关注，是因为我们经常刷 **TikTok**（抖音国际版: 一款短视频社交平台）。每次出现白人男性和亚裔女性的情侣，底下评论总会提到“ **Oxford Study** ”（牛津调查: 一项关于约会APP用户偏好的研究）。这个调查显示，在约会APP上，亚洲女性对白人男性的偏好度最高，高于对同族裔男性的偏好。所以，在TikTok上，只要有白人男性和亚裔情侣的视频，评论区就会出现“Oxford Study”。我个人觉得这与亚洲整体相对内敛的文化有关。如果你是一个比较爱玩的人，其实我觉得这种种族方面的偏好并没有问题，不用因为这个所谓的调查而自卑。但说实话，文化其实是种族的一部分。这只是我稍微提一下，不是我想说的重点。

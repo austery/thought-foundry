@@ -1,39 +1,39 @@
 ---
-author: Hung-yi Lee
+area: tech-insights
+category: technology
+companies_orgs:
+- PyTorch
+- TensorFlow
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- SQuAD
+people:
+- 李宏毅
+products_models:
+- BERT
+- Adam
+- ReLU
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Taj1eHmZyWw
 speaker: Hung-yi Lee
-tags:
-  - machine-learning-basics
-  - gradient-descent
-  - neural-networks
-  - overfitting
-  - model-training
-title: 一堂课搞懂机器学习与深度学习：从“老师何时下课”案例入门
-summary: 本讲座以一个有趣的问题“老师什么时候下课？”为引子，系统性地介绍了机器学习与深度学习的基本原理。内容涵盖了机器学习的“3+1”核心步骤：定义目标（损失函数）、划定函数范围（模型选择）、寻找最佳函数（优化），以及关键的验证环节。讲座深入浅出地解释了梯度下降、神经网络、过拟合等核心概念，并探讨了模型训练过程中的常见挑战与解决策略，为理解现代人工智能的运作机制提供了清晰的框架。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 李宏毅
-companies_orgs:
-  - PyTorch
-  - TensorFlow
-products_models:
-  - BERT
-  - Adam
-  - ReLU
-media_books:
-  - SQuAD
 status: evergreen
+summary: 本讲座以一个有趣的问题“老师什么时候下课？”为引子，系统性地介绍了机器学习与深度学习的基本原理。内容涵盖了机器学习的“3+1”核心步骤：定义目标（损失函数）、划定函数范围（模型选择）、寻找最佳函数（优化），以及关键的验证环节。讲座深入浅出地解释了梯度下降、神经网络、过拟合等核心概念，并探讨了模型训练过程中的常见挑战与解决策略，为理解现代人工智能的运作机制提供了清晰的框架。
+tags:
+- gradient-descent
+- learning
+- model
+- neural-network
+- overfitting
+title: 一堂课搞懂机器学习与深度学习：从“老师何时下课”案例入门
 ---
+
 ### 机器学习的核心：如何从数据中找出函数？
 
 今天这堂课，我们将用一堂课的时间搞懂机器学习和深度学习的基本概念。到目前为止，我们已经探讨了生成式人工智能的基本原理：我们有一个函数 F，它接收一个未完成的句子 X 作为输入，然后输出下一个 Token，即 F(X)。在过去的课程中，我们详细剖析了 F 的内部结构及其运作方式，但始终没有讲解 F 是如何被找出来的。

@@ -1,77 +1,77 @@
 ---
-author: 硅谷101播客
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=lV6EBPLyhGQ'
-speaker: 硅谷101播客
-tags:
-  - ai-infrastructure
-  - data-centers
-  - energy-crisis
-  - us-gdp
-  - supply-chain-bottlenecks
-  - power-grid
-title: AI数据中心万亿基建潮：美国经济增长引擎与能源挑战
-summary: 哈佛大学经济学家Jason Furman的研究指出，2025年上半年美国GDP增长将几乎全部来自AI基础设施建设。OpenAI等科技巨头正激进投入万亿美元建设数据中心，以应对“投资不足风险远大于过度投资”的行业共识。然而，美国电力系统发展缓慢，面临巨大电力缺口，涡轮机、变压器等供应链也存在严重瓶颈。文章深入探讨了AI大基建带动的行业、电力建设困境、高压直流输电等创新方案，以及中美在基础设施建设速度上的差异，揭示了这场AI军备竞赛背后的经济与能源博弈。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - 泓君
-  - Jason Furman
-  - Ethan徐
-  - 王辰晟
-  - Sam Altman
-  - Andy Grove
-  - Bill Gates
-  - 黄仁勋
-  - 马斯克
-  - 扎克伯格
+category: geopolitics
 companies_orgs:
-  - OpenAI
-  - Microsoft
-  - xAI
-  - Meta
-  - Google
-  - Oracle
-  - NVIDIA
-  - AMD
-  - Broadcom
-  - Samsung
-  - SK Hynix
-  - TSMC
-  - GE Vernova
-  - Caterpillar
-  - 宝钢
-  - FedEx
-  - OCP
-  - PPTV
-  - Novita
-  - 白宫
-products_models:
-  - Stargate
-  - GPT-4
-  - GPT-4.5
-  - H100
-  - GB200
-  - Vera Rubin
-  - Dojo
-  - Llama
-  - Llama 4
-  - Sora
-  - Veo
+- OpenAI
+- Microsoft
+- xAI
+- Meta
+- Google
+- Oracle
+- NVIDIA
+- AMD
+- Broadcom
+- Samsung
+- SK Hynix
+- TSMC
+- GE Vernova
+- Caterpillar
+- 宝钢
+- FedEx
+- OCP
+- PPTV
+- Novita
+- 白宫
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - CNBC
-  - SemiAnalysis
+- CNBC
+- SemiAnalysis
+people:
+- 泓君
+- Jason Furman
+- Ethan徐
+- 王辰晟
+- Sam Altman
+- Andy Grove
+- Bill Gates
+- 黄仁勋
+- Elon Musk
+- 扎克伯格
+products_models:
+- Stargate
+- GPT-4
+- GPT-4.5
+- H100
+- GB200
+- Vera Rubin
+- Dojo
+- Llama
+- Llama 4
+- Sora
+- Veo
+project:
+- us-analysis
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=lV6EBPLyhGQ
+speaker: 硅谷101播客
 status: evergreen
+summary: 哈佛大学经济学家Jason Furman的研究指出，2025年上半年美国GDP增长将几乎全部来自AI基础设施建设。OpenAI等科技巨头正激进投入万亿美元建设数据中心，以应对“投资不足风险远大于过度投资”的行业共识。然而，美国电力系统发展缓慢，面临巨大电力缺口，涡轮机、变压器等供应链也存在严重瓶颈。文章深入探讨了AI大基建带动的行业、电力建设困境、高压直流输电等创新方案，以及中美在基础设施建设速度上的差异，揭示了这场AI军备竞赛背后的经济与能源博弈。
+tags:
+- ai-infrastructure
+- crisis
+- data-center
+- financial
+- power
+- supply-chain-bottleneck
+title: AI数据中心万亿基建潮：美国经济增长引擎与能源挑战
 ---
+
 ### AI大基建：美国GDP增长的新引擎
 
 欢迎收听硅谷101。最近，哈佛大学经济学家Jason Furman（杰森·弗曼）的一项研究数据引人深思。他指出，在2025年上半年，整个美国**GDP**（Gross Domestic Product: 国内生产总值，衡量一个国家经济活动的指标）的增长，几乎将全部来自于人工智能的基础设施建设。如果将信息技术和软件这一部分拿掉，那美国**GDP**的增长将仅仅只有0.1%。

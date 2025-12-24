@@ -1,32 +1,31 @@
 ---
-title: 大实话：财富自由不能靠股市，还需“拥有生意”
-summary: 本视频深入探讨为何多数人无法通过股市实现财富自由，并强调拥有私人生意是实现财务飞跃的关键。通过对比股票投资与创业的六大条件，揭示了“控制力”在财富积累中的决定性作用，并为普通人提供了实现财富自由的路径思考。
 area: market-analysis
 category: finance
-project:
-  - entrepreneurship
-  - investment-strategy
-  - market-cycles
-tags:
-  - entrepreneurship
-  - financial-freedom
-  - personal-finance
-  - stock-market-investing
-  - wealth-management
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-11-11'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- entrepreneurship
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=bCrYXDi-br0
+speaker: 一口新飯
 status: evergreen
+summary: 本视频深入探讨为何多数人无法通过股市实现财富自由，并强调拥有私人生意是实现财务飞跃的关键。通过对比股票投资与创业的六大条件，揭示了“控制力”在财富积累中的决定性作用，并为普通人提供了实现财富自由的路径思考。
+tags:
+- entrepreneurship
+- financial-freedom
+- personal-finance
+- stock-market-investing
+- wealth-management
+title: 大实话：财富自由不能靠股市，还需“拥有生意”
 ---
 
 ### 财富自由的迷思：股市致富的现实与误区

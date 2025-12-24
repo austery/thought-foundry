@@ -1,45 +1,46 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: tech-insights
+category: technology
+companies_orgs:
+- Spur
+- DeepMind
+- Figma
+- Yale NLP lab
+- Alo Yoga
+- Living Spaces
+- HelloFresh
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sneha
+- Anushka
+products_models:
+- Selenium
+- Cypress
+- Playwright
+- Gemini
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=vpP_P85sNsE
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - ai-agents
-  - software-testing
-  - quality-assurance
-  - browser-automation
-  - natural-language-processing
-title: Spur CEO 详解：如何构建 AI 代理取代不稳定的测试脚本
-summary: Spur 公司 CEO Sneha 介绍了其利用 AI 浏览器代理实现软件质量保证自动化（Agentic AI QA）的创新方法。传统测试脚本构建复杂、不稳定且难以扩展，而 Spur 允许用户通过自然语言编写测试，由 AI 代理模拟真实用户行为执行。该技术显著缩短了发布周期，并能发现传统方法难以捕捉的细微错误，例如 Alo Yoga、Living Spaces 和 HelloFresh 上的实际案例，展示了其在提升软件质量方面的巨大潜力。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Sneha
-  - Anushka
-companies_orgs:
-  - Spur
-  - DeepMind
-  - Figma
-  - Yale NLP lab
-  - Alo Yoga
-  - Living Spaces
-  - HelloFresh
-products_models:
-  - Selenium
-  - Cypress
-  - Playwright
-  - Gemini
-media_books: []
 status: evergreen
+summary: Spur 公司 CEO Sneha 介绍了其利用 AI 浏览器代理实现软件质量保证自动化（Agentic AI QA）的创新方法。传统测试脚本构建复杂、不稳定且难以扩展，而
+  Spur 允许用户通过自然语言编写测试，由 AI 代理模拟真实用户行为执行。该技术显著缩短了发布周期，并能发现传统方法难以捕捉的细微错误，例如 Alo Yoga、Living
+  Spaces 和 HelloFresh 上的实际案例，展示了其在提升软件质量方面的巨大潜力。
+tags:
+- ai-agent
+- browser-automation
+- language
+- quality
+- software
+title: Spur CEO 详解：如何构建 AI 代理取代不稳定的测试脚本
 ---
+
 ### 介绍 Spur：用 AI 代理革新软件测试
 
 大家好！很高兴见到大家，感谢 First Mark 邀请我今天来到这里。

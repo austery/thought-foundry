@@ -1,42 +1,42 @@
 ---
-author: Big Think
+area: personal-systems
+category: psychology
+companies_orgs:
+- Good Inside
+- Big Think
+- Nest
+- Blockbuster
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Troop Beverly Hills
+people:
+- Becky Kennedy
+- John Bowlby
+- Mary Ainsworth
+products_models:
+- Nest camera
+- iPad
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=ESVLE2jX-8k
 speaker: Big Think
-tags:
-  - emotional-regulation
-  - parenting-philosophy
-  - attachment-theory
-  - rupture-and-repair
-  - childhood-development
-title: 重塑童年“出厂设置”：贝姬·肯尼迪博士解析情绪模式的根源与改变之道
-summary: 临床心理学家贝姬·肯尼迪博士分享了她从传统惩罚式育儿到“内在良善”理念的转变。她深入探讨了童年经历如何塑造我们的“出厂设置”，解释了依恋理论和内在家庭系统（IFS）如何影响成年后的行为模式。文章强调，将行为与身份分离、通过“稳固领导力”和“修复”关系来教导孩子情绪调节技能，是培养内心强大、适应力强的个体的关键。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Becky Kennedy
-  - John Bowlby
-  - Mary Ainsworth
-companies_orgs:
-  - Good Inside
-  - Big Think
-  - Nest
-  - Blockbuster
-products_models:
-  - Nest camera
-  - iPad
-media_books:
-  - Troop Beverly Hills
 status: evergreen
+summary: 临床心理学家贝姬·肯尼迪博士分享了她从传统惩罚式育儿到“内在良善”理念的转变。她深入探讨了童年经历如何塑造我们的“出厂设置”，解释了依恋理论和内在家庭系统（IFS）如何影响成年后的行为模式。文章强调，将行为与身份分离、通过“稳固领导力”和“修复”关系来教导孩子情绪调节技能，是培养内心强大、适应力强的个体的关键。
+tags:
+- development
+- emotional-regulation
+- llm
+- parenting-philosophy
+- theory
+title: 重塑童年“出厂设置”：贝姬·肯尼迪博士解析情绪模式的根源与改变之道
 ---
+
 我是贝姬·肯尼迪博士，一名临床心理学家，也是三个孩子的母亲。我创办了一个名为“内在良善”（Good Inside）的线上育儿平台。
 
 <details>

@@ -1,61 +1,62 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: lifestyle
+companies_orgs:
+- New York Times
+- Netflix
+- TSA
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Sand County Almanac
+- Arctic Dreams
+- Trap Lines North
+people:
+- Steven Rinella
+- Michael Barbaro
+- Aldo Leopold
+- John Muir
+- Daniel Boone
+- Max Barta
+- Mark Beers
+- Tina Antalini
+- Wendy Door
+- Afem Shapiro
+- Alyssa Jane Moxley
+- Susan Lee
+- Daniel Powell
+- Marian Lozano
+- Ben Calhoun
+- Paige Cowed
+- Katie Finch
+- Malia Woolen
+- Phil Taylor
+products_models:
+- Meat Eater
+- The Daily
+- 12 gauge shotgun
+project:
+- us-analysis
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9fg_m8Fm8_Q
 speaker: New York Times Podcasts
-tags:
-  - hunting-philosophy
-  - conservation-ethics
-  - wild-game-consumption
-  - human-nature-connection
-  - food-sourcing
-title: 感恩节：食你所猎，回归自然本源
-summary: 本文深入探讨了著名猎人史蒂文·里内拉（Steven Rinella）的狩猎哲学，及其与自然、食物和环保主义的深刻联系。从里内拉的成长经历、对狩猎历史的理解，到他如何将狩猎视为一种与土地建立连接、展现对自然世界敬畏的方式，文章揭示了现代社会与食物来源的脱节。通过一次亲身参与的感恩节野鸭狩猎和烹饪体验，主持人迈克尔·巴巴罗（Michael Barbaro）感受到了“食你所猎”所带来的独特满足感和对生命循环的深刻理解，挑战了我们对食物和自然的固有认知。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - us-analysis
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Steven Rinella
-  - Michael Barbaro
-  - Aldo Leopold
-  - John Muir
-  - Daniel Boone
-  - Max Barta
-  - Mark Beers
-  - Tina Antalini
-  - Wendy Door
-  - Afem Shapiro
-  - Alyssa Jane Moxley
-  - Susan Lee
-  - Daniel Powell
-  - Marian Lozano
-  - Ben Calhoun
-  - Paige Cowed
-  - Katie Finch
-  - Malia Woolen
-  - Phil Taylor
-companies_orgs:
-  - New York Times
-  - Netflix
-  - TSA
-products_models:
-  - Meat Eater
-  - The Daily
-  - 12 gauge shotgun
-media_books:
-  - The Sand County Almanac
-  - Arctic Dreams
-  - Trap Lines North
 status: evergreen
+summary: 本文深入探讨了著名猎人史蒂文·里内拉（Steven Rinella）的狩猎哲学，及其与自然、食物和环保主义的深刻联系。从里内拉的成长经历、对狩猎历史的理解，到他如何将狩猎视为一种与土地建立连接、展现对自然世界敬畏的方式，文章揭示了现代社会与食物来源的脱节。通过一次亲身参与的感恩节野鸭狩猎和烹饪体验，主持人迈克尔·巴巴罗（Michael
+  Barbaro）感受到了“食你所猎”所带来的独特满足感和对生命循环的深刻理解，挑战了我们对食物和自然的固有认知。
+tags:
+- consumption
+- ethics
+- human-nature-connection
+- life
+- philosophy
+title: 感恩节：食你所猎，回归自然本源
 ---
+
 ### 狩猎的旋律与感恩节的省思
 
 **Steven Rinella:** 你是想让我把各种声音都过一遍吗？好的。嗯，是的，一声简单的鸭叫就是这样。

@@ -1,60 +1,60 @@
 ---
-author: Bloomberg Podcasts
+area: tech-insights
+category: technology
+companies_orgs:
+- Bloomberg
+- OpenAI
+- Anthropic
+- Google DeepMind
+- Meta
+- XAI
+- Amazon
+- Cornell
 date: '2025-09-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots
+- The Social Network
+- International Math Olympiad
+people:
+- Jack Morris
+- Joe Eisenthal
+- Tracy Aloway
+- Sam Altman
+- Mark Zuckerberg
+- Ilya Sutskever
+products_models:
+- GPT-5
+- Perplexity
+- ChatGPT
+- GPT-3
+- Claude
+- SWEBench
+- GPT-2
+- DeepSeek
+project:
+- ai-impact-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=4DDi-OPLzAY
 speaker: Bloomberg Podcasts
-tags:
-  - ai-research
-  - model-evaluation
-  - data-sets
-  - open-source-ai
-  - reinforcement-learning
-  - ai-agents
-  - ai-progress
-title: 探寻AI下一个重大突破：模型演进、数据挑战与研究者抉择
-summary: 本期OddLots播客邀请康奈尔大学AI博士生Jack Morris，深入探讨人工智能研究的前沿。节目讨论了GPT-5等AI模型的增量式进步，以及如何有效评估AI性能的挑战。Morris分享了AI研究的日常工作、信息论在模型训练中的应用，并详细解释了监督学习和强化学习这两种核心方法。此外，他还分析了私有数据在AI发展中的关键作用，以及中美AI实验室在开放源代码和数据获取方面的竞争态势。最后，Morris展望了AI个性化和在线学习的未来方向，并探讨了AI研究者在商业化与科学探索之间的职业选择。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Jack Morris
-  - Joe Eisenthal
-  - Tracy Aloway
-  - Sam Altman
-  - Mark Zuckerberg
-  - Ilya Sutskever
-companies_orgs:
-  - Bloomberg
-  - OpenAI
-  - Anthropic
-  - Google DeepMind
-  - Meta
-  - XAI
-  - Amazon
-  - Cornell
-products_models:
-  - GPT-5
-  - Perplexity
-  - ChatGPT
-  - GPT-3
-  - Claude
-  - SWEBench
-  - GPT-2
-  - DeepSeek
-media_books:
-  - OddLots
-  - The Social Network
-  - International Math Olympiad
 status: evergreen
+summary: 本期OddLots播客邀请康奈尔大学AI博士生Jack Morris，深入探讨人工智能研究的前沿。节目讨论了GPT-5等AI模型的增量式进步，以及如何有效评估AI性能的挑战。Morris分享了AI研究的日常工作、信息论在模型训练中的应用，并详细解释了监督学习和强化学习这两种核心方法。此外，他还分析了私有数据在AI发展中的关键作用，以及中美AI实验室在开放源代码和数据获取方面的竞争态势。最后，Morris展望了AI个性化和在线学习的未来方向，并探讨了AI研究者在商业化与科学探索之间的职业选择。
+tags:
+- ai-agent
+- ai-research
+- data
+- llm
+- model-evaluation
+- open-source-ai
+- reinforcement-learning
+title: 探寻AI下一个重大突破：模型演进、数据挑战与研究者抉择
 ---
+
 ### AI模型进展：增量式突破与评估挑战
 
 **Joe:** 大家好，欢迎收听OddLots播客的又一期节目，我是Joe Eisenthal。

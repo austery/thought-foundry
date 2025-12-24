@@ -1,44 +1,44 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: psychology
+companies_orgs:
+- New York Times
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Hamnet
+- Hamlet
+- Modern Love
+people:
+- Jessie Buckley
+- Anna Martin
+- Victoria Dari
+- William Shakespeare
+- Paul Mescal
+- Jackabe Jup
+- Marina
+products_models:
+- Millennium Falcon Lego
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1WFdKo_89ZQ
 speaker: New York Times Podcasts
-tags:
-  - motherhood
-  - generational-trauma
-  - grief-and-loss
-  - family-healing
-  - acting-and-life
-title: 杰西·巴克利谈《哈姆雷特》、母性觉醒与家族诅咒的终结
-summary: 本文记录了演员杰西·巴克利在出演电影《哈姆雷特》中母亲角色后的真实母性体验，并深入探讨了一篇关于家族创伤和代际传承的《现代之爱》文章。文章揭示了作者如何因女儿的重病，意外地与长期疏远的母亲重建了深刻的联系，最终打破了代代相传的“诅咒”，找到了内心的平静与力量。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Jessie Buckley
-  - Anna Martin
-  - Victoria Dari
-  - William Shakespeare
-  - Paul Mescal
-  - Jackabe Jup
-  - Marina
-companies_orgs:
-  - New York Times
-products_models:
-  - Millennium Falcon Lego
-media_books:
-  - Hamnet
-  - Hamlet
-  - Modern Love
 status: evergreen
+summary: 本文记录了演员杰西·巴克利在出演电影《哈姆雷特》中母亲角色后的真实母性体验，并深入探讨了一篇关于家族创伤和代际传承的《现代之爱》文章。文章揭示了作者如何因女儿的重病，意外地与长期疏远的母亲重建了深刻的联系，最终打破了代代相传的“诅咒”，找到了内心的平静与力量。
+tags:
+- family
+- health
+- life
+- loss
+- motherhood
+title: 杰西·巴克利谈《哈姆雷特》、母性觉醒与家族诅咒的终结
 ---
+
 ### 访谈开场：从银幕母性到真实生活
 
 欢迎收听《现代之爱》播客，本期主持人是安娜·马丁。我们刚刚观看了由保罗·梅斯卡尔（Paul Mescal）和杰西·巴克利（Jessie Buckley）主演的新电影《**哈姆内特**》（Hamnet：电影《哈姆雷特》的灵感来源，基于莎士比亚丧子事件的虚构故事）。片中他们扮演威廉·莎士比亚（William Shakespeare）和他的妻子安妮（Agnes），共同哀悼他们独子的逝去。虽然电影是虚构的，但它基于可能启发了莎士比亚创作戏剧《**哈姆雷特**》（Hamlet）的真实事件。这是一部极具毁灭性、光芒四射的电影，杰西·巴克利的表演堪称大师级，我认为她抢尽了风头，这也是我非常期待能与她坐下来，探讨这个角色、她扮演母亲的经历，以及随后她自己成为母亲的真实体验的原因。此外，她还将为我们朗读一篇关于母女间牢不可破的纽带的文章。

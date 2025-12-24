@@ -1,46 +1,45 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Nvidia
+- 亚马逊
+- 华纳兄弟探索公司
+- 迪士尼
+- 彭博社
+- 晨星
 date: '2024-07-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富自由之路》
+people:
+- 黄仁勋
+- 唐石峻
+products_models:
+- Max
+- Disney+
+- Amazon Prime
+- Hulu
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=XOeaN95MW7U
 speaker: Shijun Tang
-tags:
-  - stock-valuation
-  - cash-flow-discount-model
-  - market-efficiency
-  - investor-behavior
-  - value-investing
-title: 英伟达套现、华纳困局与价值投资的真相：为什么你买对股票却赚不到钱
-summary: 本文深入分析英伟达创始人黄仁勋大规模套现背后的市场信号、华纳兄弟探索公司财务困境与潜在价值，揭示散户投资者为何买对股票仍难获超额回报，并系统阐述价值投资的核心原则与估值方法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - 黄仁勋
-  - 唐石峻
-companies_orgs:
-  - 英伟达
-  - 亚马逊
-  - 华纳兄弟探索公司
-  - 迪士尼
-  - 彭博社
-  - 晨星
-products_models:
-  - Max
-  - Disney+
-  - Amazon Prime
-  - Hulu
-media_books:
-  - 《财富自由之路》
 status: evergreen
+summary: 本文深入分析英伟达创始人黄仁勋大规模套现背后的市场信号、华纳兄弟探索公司财务困境与潜在价值，揭示散户投资者为何买对股票仍难获超额回报，并系统阐述价值投资的核心原则与估值方法。
+tags:
+- investment
+- market-efficiency
+- model
+- stock-valuation
+title: 英伟达套现、华纳困局与价值投资的真相：为什么你买对股票却赚不到钱
 ---
+
 ### 英伟达套现与市场过热信号
 
 欢迎观看本期内容。我是唐石峻，自2015年进入金融市场以来，我的目标始终是帮助你通过投资实现快乐与自由。本周，我们关注两位科技巨头的创始人——亚马逊的杰夫·贝索斯和英伟达的黄仁勋——相继套现离场。贝索斯近期出售了价值43.9亿美元的亚马逊股票，但仍持有公司8.8%股份，保持最大股东地位。黄仁勋则累计卖出价值16.9亿美元的英伟达股票，目前仍持有3.5%股份。

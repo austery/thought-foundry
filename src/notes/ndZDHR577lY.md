@@ -1,76 +1,76 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Liberal Party
+- Conservative Party
+- Baylis Medical Company
+- Organization of American States
+- Goldman Sachs
+- Bank of Canada
+- Bank of England
+- NDP
+- KGB
 date: '2025-02-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- Financial Times
+- The Washington Post
+- The Economist
+- The Globe and Mail
+- Reuters
+- Euromoney
+- CBC
+- Leger
+- Mainstreet Research
+people:
+- Pierre Poilievre
+- Justin Trudeau
+- Mark Carney
+- Chrystia Freeland
+- Anita Anand
+- François-Philippe Champagne
+- Christy Clark
+- Sean Fraser
+- Mélanie Joly
+- Dominic LeBlanc
+- Marc Miller
+- Steven MacKinnon
+- Jonathan Wilkinson
+- Jaime Battiste
+- Chandra Arya
+- Frank Baylis
+- Ruby Dhalla
+- Karina Gould
+- Donald Trump
+- Stephen Harper
+- David Dodge
+- George Osborne
+- Diana Fox
+products_models:
+- USMCA
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ndZDHR577lY
 speaker: 莊也雜談
-tags:
-  - canadian-politics
-  - liberal-leadership-race
-  - economic-policy
-  - carbon-tax
-  - campaign-platforms
-title: 自由党党魁之争：马克·卡尼与方慧兰的角逐及加拿大未来走向深度分析
-summary: 本文深入探讨了加拿大自由党党魁竞选的五位主要候选人，重点分析了马克·卡尼和方慧兰的个人背景、执政理念及对加拿大未来的愿景。文章详细介绍了竞选门槛、候选人筛选过程，并对比了卡尼和方慧兰在经济、环保、外交等政策上的异同，揭示了卡尼作为“局外人”技术官僚的优势，以及方慧兰与特鲁多政府联系过紧的劣势。最后，文章展望了卡尼可能成为下一任总理的趋势，并预告了他与保守党党魁博励治的终极对决。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Pierre Poilievre
-  - Justin Trudeau
-  - Mark Carney
-  - Chrystia Freeland
-  - Anita Anand
-  - François-Philippe Champagne
-  - Christy Clark
-  - Sean Fraser
-  - Mélanie Joly
-  - Dominic LeBlanc
-  - Marc Miller
-  - Steven MacKinnon
-  - Jonathan Wilkinson
-  - Jaime Battiste
-  - Chandra Arya
-  - Frank Baylis
-  - Ruby Dhalla
-  - Karina Gould
-  - Donald Trump
-  - Stephen Harper
-  - David Dodge
-  - George Osborne
-  - Diana Fox
-companies_orgs:
-  - Liberal Party
-  - Conservative Party
-  - Baylis Medical Company
-  - Organization of American States
-  - Goldman Sachs
-  - Bank of Canada
-  - Bank of England
-  - NDP
-  - KGB
-products_models:
-  - USMCA
-media_books:
-  - The New York Times
-  - Financial Times
-  - The Washington Post
-  - The Economist
-  - The Globe and Mail
-  - Reuters
-  - Euromoney
-  - CBC
-  - Leger
-  - Mainstreet Research
 status: evergreen
+summary: 本文深入探讨了加拿大自由党党魁竞选的五位主要候选人，重点分析了马克·卡尼和方慧兰的个人背景、执政理念及对加拿大未来的愿景。文章详细介绍了竞选门槛、候选人筛选过程，并对比了卡尼和方慧兰在经济、环保、外交等政策上的异同，揭示了卡尼作为“局外人”技术官僚的优势，以及方慧兰与特鲁多政府联系过紧的劣势。最后，文章展望了卡尼可能成为下一任总理的趋势，并预告了他与保守党党魁博励治的终极对决。
+tags:
+- canadian-politics
+- economic-policy
+- liberal-leadership-race
+- platform
+- tax
+title: 自由党党魁之争：马克·卡尼与方慧兰的角逐及加拿大未来走向深度分析
 ---
+
 大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们来聊一下竞争自由党党魁的候选人。之前我有一期节目讲的是保守党党魁**博励治**（Pierre Poilievre: 加拿大保守党党魁）的个人背景以及他的执政理念。于是就有观众在留言区跟我说，庄也你看你向来做节目总是吹嘘自己要尽量保持中立，那么你讲完了博励治，你是不是也得应该讲一下自由党这边？虽说自由党党魁现在还没选出来，但是你可以讲一讲那些排名比较靠前的、最有希望当选的候选人，说一说他们的个人背景以及执政理念，让我们心里有个数。
 
 这位观众朋友说得不错，虽说我个人的政治倾向目前还是偏向保守党，这个没有办法，因为做节目可以中立，但是做节目的人他确实没有办法做到一碗水绝对端平。不过这并不妨碍我介绍自由党这边的情况，更何况在加拿大的政治舞台上，自由党一直扮演着一个举足轻重的角色。

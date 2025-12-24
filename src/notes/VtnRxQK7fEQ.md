@@ -1,43 +1,41 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- Seven Eleven
+- 统一集团
+- 中国联通
+- 亚马逊
 date: '2023-10-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 维基百科
+products_models:
+- 悠游卡
+- Line-Pay
+- Apple-Pay
+- Google-Pay
+- Wifi盒子
+- Wifi机
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=VtnRxQK7fEQ
 speaker: 莊也雜談
-tags:
-  - taiwan-transit
-  - travel-tips
-  - taoyuan-airport
-  - taipei-culture
-  - payment-methods-asia
-title: 首次过境台湾：桃园机场初体验与台北西门町漫步
-summary: 庄也分享了其2023年回国探亲系列的首篇见闻，详细记录了从多伦多经台湾转机前往北京的经历。文章涵盖了机票购买、台湾入境政策、桃园机场服务、台北捷运体验、西门町文化观察以及当地支付习惯等多个方面，展现了台湾小巧温馨的城市风貌和热情友善的人文气息，为读者提供了实用的旅行信息和深刻的个人感受。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people: []
-companies_orgs:
-  - Seven Eleven
-  - 统一集团
-  - 中国联通
-  - 亚马逊
-products_models:
-  - 悠游卡
-  - Line-Pay
-  - Apple-Pay
-  - Google-Pay
-  - Wifi盒子
-  - Wifi机
-media_books:
-  - 维基百科
 status: evergreen
+summary: 庄也分享了其2023年回国探亲系列的首篇见闻，详细记录了从多伦多经台湾转机前往北京的经历。文章涵盖了机票购买、台湾入境政策、桃园机场服务、台北捷运体验、西门町文化观察以及当地支付习惯等多个方面，展现了台湾小巧温馨的城市风貌和热情友善的人文气息，为读者提供了实用的旅行信息和深刻的个人感受。
+tags:
+- culture
+- llm
+- taiwan-transit
+- travel
+title: 首次过境台湾：桃园机场初体验与台北西门町漫步
 ---
+
 ### 回国探亲系列开篇：台湾转机初体验
 
 哈喽大家好，我是庄也。今天咱们来一集闲聊天节目。估计很多人发现，庄也杂谈在班夫系列结束之后，断更了将近一个月。有不少铁粉在留言区问我，是不是停更了，是不是生病了，或者是因为说话太啰嗦被别人揍了。哈哈哈，今天咱们就统一回复一下。其实理由很简单，停了这么久的原因是我回国休假了三周时间，从9月16号到10月7号。再加上之前的行李准备，回来之后不是还要倒时差吗？还要忙一些被耽搁了的工作，还有整理一些拍摄的资料。这前前后后加起来可不就是一个月的时间吗？

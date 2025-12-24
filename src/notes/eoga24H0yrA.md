@@ -1,60 +1,61 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- CME Group
+- FanDuel
+- Google
+- Goldman Sachs
+- Nvidia
+- Bank of England
+- CFTC
+- SEC
+- Walmart
+- Sears
+- Amazon
+- Ripple
+- FTX
+- London Clearing House
+- Kalshi
 date: '2025-10-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Bloomberg Podcasts
+people:
+- Terry Duffy
+- Tracy Alloway
+- Joe Weisenthal
+- Sam Bankman-Freed
+- Howard Lutnik
+products_models:
+- E-Minis
+- Micros
+- Nanos
+- Gemini Flash
+- 1256 contracts
+project:
+- investment-strategy
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=eoga24H0yrA
 speaker: Bloomberg Podcasts
-tags:
-  - retail-trading
-  - event-contracts
-  - prediction-markets
-  - financial-regulation
-  - market-efficiency
-title: CME如何拥抱散户交易：与FanDuel合作及对预测市场、监管的看法
-summary: CME集团董事长兼CEO Terry Duffy在Odd Lots播客中探讨了CME与FanDuel的合作，旨在通过事件合约吸引散户投资者。他强调技术进步（特别是AI）和财富转移正在模糊传统金融与博彩之间的界限。Duffy还深入讨论了预测市场的监管挑战、税收处理差异，并对Howard Lutnik在英国清算美国国债期货的提议表示担忧。他认为CME通过创新和适应新市场需求，将继续在不断演变的交易生态系统中保持领先地位。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Terry Duffy
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Sam Bankman-Freed
-  - Howard Lutnik
-companies_orgs:
-  - CME Group
-  - FanDuel
-  - Google
-  - Goldman Sachs
-  - Nvidia
-  - Bank of England
-  - CFTC
-  - SEC
-  - Walmart
-  - Sears
-  - Amazon
-  - Ripple
-  - FTX
-  - London Clearing House
-  - Kalshi
-products_models:
-  - E-Minis
-  - Micros
-  - Nanos
-  - Gemini Flash
-  - 1256 contracts
-media_books:
-  - Odd Lots
-  - Bloomberg Podcasts
 status: evergreen
+summary: CME集团董事长兼CEO Terry Duffy在Odd Lots播客中探讨了CME与FanDuel的合作，旨在通过事件合约吸引散户投资者。他强调技术进步（特别是AI）和财富转移正在模糊传统金融与博彩之间的界限。Duffy还深入讨论了预测市场的监管挑战、税收处理差异，并对Howard
+  Lutnik在英国清算美国国债期货的提议表示担忧。他认为CME通过创新和适应新市场需求，将继续在不断演变的交易生态系统中保持领先地位。
+tags:
+- financial-regulation
+- llm
+- market-efficiency
+- prediction-market
+- technology
+title: CME如何拥抱散户交易：与FanDuel合作及对预测市场、监管的看法
 ---
+
 ### 芝加哥：交易的中心与市场的演变
 
 **Bloomberg** 音频工作室。播客、广播、新闻。

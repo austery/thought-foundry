@@ -1,72 +1,71 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- PayPal
+- MicroStrategy
+- Rocket Lab
+- SoFi
+- Con Edison
+- BBC
+- White House
+- Federal Reserve
+- Bureau of Labor Statistics
+- ICE
+- NYPD
+- Goldman Sachs
+- Google
+- Amazon
+- Tesla
+- Palantir
+- AMD
+- Eli Lilly
+- Johnson & Johnson
+- Adobe
+- Intel
+- Bloomberg
+- Coinbase
+- Robinhood
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Washington Post
+- MTV Lebanon
+people:
+- Donald Trump
+- Mdani
+- Williams
+- Keir Starmer
+- Bernie Sanders
+- Bill de Blasio
+- Franklin D. Roosevelt
+- Jason
+products_models:
+- H200
+- Blackwell
+- S&P 500
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=4Eb1ORjDAFM
 speaker: Amit Kukreja
-tags:
-  - market-reversal
-  - policy-impact
-  - chip-export-controls
-  - investor-sentiment
-  - technical-analysis
-title: 特朗普或允许英伟达对华销售芯片，市场闻声上演大逆转
-summary: 前总统特朗普与纽约市长候选人姆达尼举行了出人意料的友好会晤，双方聚焦于生活成本和城市安全等合作领域。然而，当天市场的焦点在于一则传闻：特朗普团队正考虑允许英伟达向中国出售H200芯片。此消息一出，立即扭转了市场的悲观情绪，标普500指数上演V型反转。尽管分析师认为市场反应过度，但这则消息为超卖的市场提供了稳定剂，也揭示了白宫可能通过利好关键公司来影响市场的策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Mdani
-  - Williams
-  - Keir Starmer
-  - Bernie Sanders
-  - Bill de Blasio
-  - Franklin D. Roosevelt
-  - Jason
-  - Amit Kukreja
-companies_orgs:
-  - Nvidia
-  - PayPal
-  - MicroStrategy
-  - Rocket Lab
-  - SoFi
-  - Con Edison
-  - BBC
-  - White House
-  - Federal Reserve
-  - Bureau of Labor Statistics
-  - ICE
-  - NYPD
-  - Goldman Sachs
-  - Google
-  - Amazon
-  - Tesla
-  - Palantir
-  - AMD
-  - Eli Lilly
-  - Johnson & Johnson
-  - Adobe
-  - Intel
-  - Bloomberg
-  - Coinbase
-  - Robinhood
-products_models:
-  - H200
-  - Blackwell
-  - S&P 500
-media_books:
-  - The Washington Post
-  - MTV Lebanon
 status: evergreen
+summary: 前总统特朗普与纽约市长候选人姆达尼举行了出人意料的友好会晤，双方聚焦于生活成本和城市安全等合作领域。然而，当天市场的焦点在于一则传闻：特朗普团队正考虑允许英伟达向中国出售H200芯片。此消息一出，立即扭转了市场的悲观情绪，标普500指数上演V型反转。尽管分析师认为市场反应过度，但这则消息为超卖的市场提供了稳定剂，也揭示了白宫可能通过利好关键公司来影响市场的策略。
+tags:
+- chip-export-control
+- investor-sentiment
+- market
+- policy
+- technical-analysis
+title: 特朗普或允许英伟达对华销售芯片，市场闻声上演大逆转
 ---
+
 ### 特朗普与姆达尼的意外“和解”
 
 好的，大家好，欢迎回到新一期的市场收盘节目。我们今天提早开始，将直接关注姆达尼和特朗普的会面，之后我们会讨论市场上发生的一切。

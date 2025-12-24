@@ -1,32 +1,28 @@
 ---
-title: AI时代的机遇：成为“自然语言编程者”
-summary: ChatGPT的出现为不懂技术的人提供了前所未有的机遇。本文探讨了自然语言编程的革命性，普通人如何抓住这一机会，以及为何学习编程在AI时代仍是个人投资。
-area: tech-insights
-category: technology
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - vibe-coding
-tags:
-  - ai-opportunities
-  - career-transition
-  - learning-to-code
-  - natural-language-programming
-  - prompt-engineering
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-03-05'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- vibe-coding
 series: ''
 source: https://www.youtube.com/watch?v=KoT08Kno10A
+speaker: 一口新飯
 status: evergreen
+summary: ChatGPT的出现为不懂技术的人提供了前所未有的机遇。本文探讨了自然语言编程的革命性，普通人如何抓住这一机会，以及为何学习编程在AI时代仍是个人投资。
+tags:
+- career-transition
+- language
+- learning
+- llm
+title: AI时代的机遇：成为“自然语言编程者”
 ---
 
 ### 科技革命与个人机遇

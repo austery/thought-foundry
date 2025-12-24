@@ -1,47 +1,45 @@
 ---
-author: 徒步的騎手
-date: 2025-04-10
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=nEbCYwfPdtI'
-speaker: 徒步的騎手
-tags:
-  - us-tariff-policy
-  - economic-consequences
-  - political-polarization
-  - silicon-valley-wall-street-revolt
-  - congressional-oversight
-title: 川普关税战：硅谷与华尔街的反弹，一场经济核冬天的序幕？
-summary: 本文深入分析了川普政府新一轮关税政策引发的争议与影响。从伊隆·马斯克与彼得·纳瓦罗的公开对峙，到亿万富翁威廉·阿克曼对“经济核冬天”的警告，揭示了硅谷、华尔街与白宫内部在经济政策上的深刻矛盾。文章探讨了关税战对美国经济的潜在冲击，以及国会共和党议员试图限制总统关税权的动向，预示着这场关税战的序幕即将结束，而真正的终局可能才刚刚开始。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Elon Musk
-  - William Ackman
-  - Howard Lutnick
-  - Peter Navarro
-  - Jared Kushner
-  - Steven Bannon
-  - Joe Biden
-  - Winston Churchill
-  - 张春桥
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - Tesla
-  - Harvard
-  - The Wall Street Journal
-  - Amazon
-products_models: '[]'
+- Tesla
+- Harvard
+- The Wall Street Journal
+- Amazon
+date: 2025-04-10
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《Why Musk vs. Navarro Matters》
+- 《Why Musk vs. Navarro Matters》
+people:
+- Donald Trump
+- Elon Musk
+- William Ackman
+- Howard Lutnick
+- Peter Navarro
+- Jared Kushner
+- Steven Bannon
+- Joe Biden
+- Winston Churchill
+- 张春桥
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=nEbCYwfPdtI
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入分析了川普政府新一轮关税政策引发的争议与影响。从伊隆·马斯克与彼得·纳瓦罗的公开对峙，到亿万富翁威廉·阿克曼对“经济核冬天”的警告，揭示了硅谷、华尔街与白宫内部在经济政策上的深刻矛盾。文章探讨了关税战对美国经济的潜在冲击，以及国会共和党议员试图限制总统关税权的动向，预示着这场关税战的序幕即将结束，而真正的终局可能才刚刚开始。
+tags:
+- congressional-oversight
+- economic
+- technology
+- us-tariff-policy
+title: 川普关税战：硅谷与华尔街的反弹，一场经济核冬天的序幕？
 ---
 
 ### 川普关税战的序幕：政策反复与市场震荡

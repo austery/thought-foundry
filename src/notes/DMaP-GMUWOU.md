@@ -1,68 +1,65 @@
 ---
-author: 徒步的騎手
-date: 2025-02-15
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=DMaP-GMUWOU'
-speaker: 徒步的騎手
-tags:
-  - political-humor
-  - us-politics
-  - media-influence
-  - political-polarization
-  - cultural-differences
-title: 美国政治脱口秀：娱乐如何成为社会自省的镜子
-summary: 本文深入探讨美国政治脱口秀的独特现象，分析总统如何成为娱乐素材，以及这种文化现象如何反映社会自省与言论自由。文章以比尔·克林顿和唐纳德·川普为例，剖析性丑闻和口无遮拦如何成为脱口秀的黄金素材，并对比美国与中国在政治幽默上的差异。同时，文章也讨论了边缘左派对言论自由的挑战，以及脱口秀演员如何通过反叛姿态吸引观众，强调政治娱乐在民主社会中的重要作用。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - cultural-critique
-people:
-  - Donald Trump
-  - Bill Clinton
-  - George W. Bush
-  - Monica Lewinsky
-  - Jay Leno
-  - David Letterman
-  - George Carlin
-  - Michelle Wolf
-  - Joe Rogan
-  - Thale Wong
-  - Andrew Schulz
-  - Akash Singh
-  - Kamala Harris
-  - Jimmy Kimmel
-  - Stephen Colbert
-  - John Oliver
-  - Bill Maher
-  - Trevor Noah
-  - 老雷
-  - Sarah Palin
-  - Kevin J
-  - Elon Musk
-  - Joe Biden
-  - Barack Obama
-  - Bernie Sanders
-  - Mark Twain
-  - Xi Jinping
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - CNN
-  - Fox News
-  - 美联社
-  - 白宫
-  - 共和党
-  - 民主党
-products_models: '[]'
+- CNN
+- Fox News
+- 美联社
+- 白宫
+- 共和党
+- 民主党
+date: 2025-02-15
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Tonight Show
-  - YouTube
-  - Anthony Bourdain's美食旅游节目
+- The Tonight Show
+- YouTube
+- Anthony Bourdain's美食旅游节目
+people:
+- Donald Trump
+- Bill Clinton
+- George W. Bush
+- Monica Lewinsky
+- Jay Leno
+- David Letterman
+- George Carlin
+- Michelle Wolf
+- Joe Rogan
+- Thale Wong
+- Andrew Schulz
+- Akash Singh
+- Kamala Harris
+- Jimmy Kimmel
+- Stephen Colbert
+- John Oliver
+- Bill Maher
+- Trevor Noah
+- 老雷
+- Sarah Palin
+- Kevin J
+- Elon Musk
+- Joe Biden
+- Barack Obama
+- Bernie Sanders
+- Mark Twain
+- Xi Jinping
+products_models: '[]'
+project:
+- us-analysis
+- china-analysis
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=DMaP-GMUWOU
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨美国政治脱口秀的独特现象，分析总统如何成为娱乐素材，以及这种文化现象如何反映社会自省与言论自由。文章以比尔·克林顿和唐纳德·川普为例，剖析性丑闻和口无遮拦如何成为脱口秀的黄金素材，并对比美国与中国在政治幽默上的差异。同时，文章也讨论了边缘左派对言论自由的挑战，以及脱口秀演员如何通过反叛姿态吸引观众，强调政治娱乐在民主社会中的重要作用。
+tags:
+- cultural-difference
+- media-influence
+- political
+title: 美国政治脱口秀：娱乐如何成为社会自省的镜子
 ---
 
 ### 政治娱乐化：美国总统的“搞笑”生涯

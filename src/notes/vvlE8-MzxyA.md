@@ -1,40 +1,39 @@
 ---
-title: Semiconductor Wars - The Nvidia-Intel Alliance, Huawei's Rise, and the AI Hardware
-  Arms Race
+area: society-thinking
+author: Lei
+category: politics-society
+companies_orgs:
+- intel
+- nvidia
+date: 2025-09-22
+draft: true
+guest: ''
+insight: null
+layout: post.njk
+people:
+- Eric Tarczynski
+- Dylan Patel
+- Guido Appenzeller
+products_models: []
+project:
+- ai-impact-analysis
+- geopolitics-watch
+series: null
+source: https://www.youtube.com/watch?v=vvlE8-MzxyA
+speaker: ''
+status: evergreen
 summary: A deep dive into the shifting landscape of the semiconductor industry, analyzing
   Nvidia's strategic investment in Intel, the implications for AMD and ARM, and Huawei's
   ambitious push for domestic AI chip supremacy. The discussion covers Jensen Huang's
   leadership, the bull and bear cases for Nvidia, and the intense competition among
   hyperscalers for AI compute dominance.
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- geopolitics-watch
 tags:
-- ai-hardware
-- geopolitics
 - semiconductor
-people:
-  - Eric Tarczynski
-  - Dylan Patel
-  - Guido Appenzeller
-companies_orgs:
-- intel
-- nvidia
-products_models: []
-media_books: []
-date: 2025-09-22
-author: Lei
-speaker: ''
-draft: true
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: https://www.youtube.com/watch?v=vvlE8-MzxyA
-status: evergreen
+- technology
+title: Semiconductor Wars - The Nvidia-Intel Alliance, Huawei's Rise, and the AI Hardware
+  Arms Race
 ---
+
 ## The Nvidia-Intel Bombshell Alliance
 
 Eric: Dylan, welcome back to the podcast.

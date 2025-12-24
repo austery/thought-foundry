@@ -1,51 +1,51 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- ByteDance
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 中国中央电视台
+- 路透社
+- 新华社
+- 彭博社
+- 华尔街日报
+- 金融时报
+- 香港01
+people:
+- 李成钢
+- 何立峰
+- Janet Yellen
+- Katherine Tai
+- Donald Trump
+- Xi Jinping
+- 林毅夫
+- 李克强
+products_models:
+- DeepSeek
+- TikTok
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=CqmkaxXL7u8
 speaker: LT視界
-tags:
-  - us-china-trade
-  - rare-earth-policy
-  - economic-forecasting
-  - geopolitical-shifts
-  - policy-influence
-title: 中美贸易谈判：稀土、TikTok与大豆背后的妥协与地缘政治转向；林毅夫经济预测如何塑造中国高层信心？
-summary: 本文深入分析了近期中美在马来西亚的贸易谈判，揭示了双方在稀土、TikTok、大豆和关税等议题上的妥协与得失，并探讨了此次谈判对全球地缘政治格局的深远影响。同时，文章还审视了中国经济学家林毅夫关于中国经济增长和超越美国的预测，分析了其观点如何影响中国最高决策层的信心，并对其逻辑漏洞进行了批判性评估。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 李成钢
-  - 何立峰
-  - Janet Yellen
-  - Katherine Tai
-  - Donald Trump
-  - Xi Jinping
-  - 林毅夫
-  - 李克强
-companies_orgs:
-  - 字节跳动
-products_models:
-  - DeepSeek
-  - TikTok
-media_books:
-  - 中国中央电视台
-  - 路透社
-  - 新华社
-  - 彭博社
-  - 华尔街日报
-  - 金融时报
-  - 香港01
 status: evergreen
+summary: 本文深入分析了近期中美在马来西亚的贸易谈判，揭示了双方在稀土、TikTok、大豆和关税等议题上的妥协与得失，并探讨了此次谈判对全球地缘政治格局的深远影响。同时，文章还审视了中国经济学家林毅夫关于中国经济增长和超越美国的预测，分析了其观点如何影响中国最高决策层的信心，并对其逻辑漏洞进行了批判性评估。
+tags:
+- economic
+- geopolitical-shift
+- policy-influence
+- rare-earth-policy
+- us-china-relations
+title: 中美贸易谈判：稀土、TikTok与大豆背后的妥协与地缘政治转向；林毅夫经济预测如何塑造中国高层信心？
 ---
+
 ### 中美马来西亚贸易谈判焦点与各方表态
 
 今天的热点透视聚焦于举世瞩目的中美马来西亚贸易谈判，这一事件吸引了全球舆论的广泛关注。

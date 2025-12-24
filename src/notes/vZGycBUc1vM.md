@@ -1,67 +1,67 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: career
+companies_orgs:
+- Amazon
+- Statsig
+- Graphite
+- Meta
+- Google
+- Microsoft
+- Reddit
+- Asana
+- Ramp
+- Tecton
+- Vercel
+- Uber
+- Twitch
+- Augment Code
+- JetBrains
+- Booking.com
 date: '2025-07-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- So Good They Can't Ignore You
+- Designing Data-Intensive Applications
+people:
+- Steve Huynh
+- Casey Moratori
+- Ethan Evans
+- Bobby Kotari
+- Jeff Bezos
+- Cal Newport
+- Chip Huyen
+products_models:
+- Kindle
+- Prime Video
+- AWS
+- S3
+- DynamoDB
+- VS Code
+- Android Studio
+- Vim
+- Outlook
+project:
+- us-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=vZGycBUc1vM
 speaker: The Pragmatic Engineer
-tags:
-  - engineering-culture
-  - career-progression
-  - large-scale-systems
-  - principled-thinking
-  - monolith-vs-microservices
-title: 前亚马逊首席工程师深度访谈：揭秘晋升之难、规模之痛与独特文化
-summary: 在这篇深度访谈中，曾在亚马逊工作长达17年的前首席工程师 Steve Huynh 揭示了在科技巨头工作的真实面貌。他详细阐述了亚马逊如何应对极致规模带来的工程挑战，例如“棕断”问题和从单体架构到微服务的艰难转型。他还深入探讨了从高级工程师晋升到首席工程师为何异常困难，并分享了亚马逊独特的首席工程师社区文化、原则性思维以及深刻的写作文化。对于任何想了解顶级科技公司内部运作和职业发展的工程师来说，这都是一份宝贵的参考。
-insight: ''
-draft: true
-series: ''
-category: career
-area: tech-insights
-project:
-  - us-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Steve Huynh
-  - Casey Moratori
-  - Ethan Evans
-  - Bobby Kotari
-  - Jeff Bezos
-  - Cal Newport
-  - Chip Huyen
-companies_orgs:
-  - Amazon
-  - Statsig
-  - Graphite
-  - Meta
-  - Google
-  - Microsoft
-  - Reddit
-  - Asana
-  - Ramp
-  - Tecton
-  - Vercel
-  - Uber
-  - Twitch
-  - Augment Code
-  - JetBrains
-  - Booking.com
-products_models:
-  - Kindle
-  - Prime Video
-  - AWS
-  - S3
-  - DynamoDB
-  - VS Code
-  - Android Studio
-  - Vim
-  - Outlook
-media_books:
-  - So Good They Can't Ignore You
-  - Designing Data-Intensive Applications
 status: evergreen
+summary: 在这篇深度访谈中，曾在亚马逊工作长达17年的前首席工程师 Steve Huynh 揭示了在科技巨头工作的真实面貌。他详细阐述了亚马逊如何应对极致规模带来的工程挑战，例如“棕断”问题和从单体架构到微服务的艰难转型。他还深入探讨了从高级工程师晋升到首席工程师为何异常困难，并分享了亚马逊独特的首席工程师社区文化、原则性思维以及深刻的写作文化。对于任何想了解顶级科技公司内部运作和职业发展的工程师来说，这都是一份宝贵的参考。
+tags:
+- career
+- engineering-culture
+- monolith-vs-microservice
+- system
+- thinking
+title: 前亚马逊首席工程师深度访谈：揭秘晋升之难、规模之痛与独特文化
 ---
+
 ### 在亚马逊的十七年职业生涯
 
 我在亚马逊工作了17年半，去年刚刚离职。所以，我基本上已经有一年时间在做其他事情了。人们总是谈论我在那里的漫长任期，但我觉得在那段时间里，我大概换了五六份工作。

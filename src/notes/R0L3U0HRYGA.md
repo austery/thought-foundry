@@ -1,30 +1,28 @@
 ---
-title: 坚持5点起床『第二年』：我的5-am project实践、感悟与社群邀请
-summary: 视频分享了作者坚持5点起床第二年的经验和感悟，包括如何实践5-am project、保护边界感、灵活调整目标以及将思考作为项目。同时，推出了免费的5-am club教程和模板，并介绍了会员社群。
 area: personal-growth
 category: productivity
-project:
-  - personal-growth-lab
-tags:
-  - early-rising
-  - habit-formation
-  - online-community
-  - personal-growth
-  - productivity
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-01-14'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=R0L3U0HRYGA
+speaker: 一口新飯
 status: evergreen
+summary: 视频分享了作者坚持5点起床第二年的经验和感悟，包括如何实践5-am project、保护边界感、灵活调整目标以及将思考作为项目。同时，推出了免费的5-am
+  club教程和模板，并介绍了会员社群。
+tags:
+- habit-formation
+- online-community
+- personal-growth
+- productivity
+- technology
+title: 坚持5点起床『第二年』：我的5-am project实践、感悟与社群邀请
 ---
 
 ### 5-am Club：开启早起新篇章

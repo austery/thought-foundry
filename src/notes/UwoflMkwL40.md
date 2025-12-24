@@ -1,47 +1,46 @@
 ---
-author: EO
+area: tech-insights
+category: business
+companies_orgs:
+- The Rundown
+- HubSpot for Startups
+- Twitter
+- LinkedIn
+- Instagram
+- Slack
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Rowan Cheung
+- Mark Zuckerberg
+- Sam Altman
+- Joe Rogan
+products_models:
+- Llama 3.1
+- Whisper Flow
+- ChatGPT
+- Claude
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=UwoflMkwL40
 speaker: EO
-tags:
-  - ai-content-creation
-  - human-ai-collaboration
-  - content-strategy
-  - creator-economy
-  - personal-branding
-title: AI时代内容创作：从个人品牌到垂直化蓝海
-summary: 本文深入探讨了AI在内容创作领域的变革性影响。Rowan Cheung分享了他如何从大学辍学生成长为拥有200万订阅者的内容创作者，强调了在AI内容泛滥时代保持“人性化”和“垂直化”的重要性。他介绍了利用AI工具（如转录和定制模型）提高创作效率的独特工作流程，并展望了内容创作者在未来社会中日益增长的影响力及“创意人时代”的到来。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - Rowan Cheung
-  - Mark Zuckerberg
-  - Sam Altman
-  - Joe Rogan
-companies_orgs:
-  - The Rundown
-  - HubSpot for Startups
-  - Twitter
-  - LinkedIn
-  - Instagram
-  - Slack
-products_models:
-  - Llama 3.1
-  - Whisper Flow
-  - ChatGPT
-  - Claude
-media_books: []
 status: evergreen
+summary: 本文深入探讨了AI在内容创作领域的变革性影响。Rowan Cheung分享了他如何从大学辍学生成长为拥有200万订阅者的内容创作者，强调了在AI内容泛滥时代保持“人性化”和“垂直化”的重要性。他介绍了利用AI工具（如转录和定制模型）提高创作效率的独特工作流程，并展望了内容创作者在未来社会中日益增长的影响力及“创意人时代”的到来。
+tags:
+- ai-content-creation
+- content-strategy
+- creator-economy
+- human-ai-collaboration
+- personal
+title: AI时代内容创作：从个人品牌到垂直化蓝海
 ---
+
 ### AI的崛起与内容创作者的机遇
 
 当我们刚开始时，每个人都害怕AI会取代一切。当时有一句名言：“AI不会取代你，但使用AI的人会。”我意识到我的受众真正想要的是最新的AI新闻。他们面临的最大问题是，看到一些爆红的东西，然后说：“我想试试那个。”他们试了之后会觉得：“酷，我试过了。”但他们没有发现任何用途。所以，他们没有任何黏性，使用那个工具对他们来说毫无意义，订阅它也没有任何意义。

@@ -1,55 +1,55 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Ballard Partners
+- FBI
+- Fox News
+- CNN
+- UFC
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《名利场》
+people:
+- Donald Trump
+- Susie Wiles
+- Ron DeSantis
+- Corey Lewandowski
+- Chris LaCivita
+- Joe Biden
+- Kamala Harris
+- Marco Rubio
+- Doug Burgum
+- J.D. Vance
+- Donald Trump Jr.
+- Barron Trump
+- Hillary Clinton
+- Dan Bongino
+products_models:
+- MAGA
+- Twitter
+- Joe Rogan Podcast
+- CNN 60 Minutes
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=kw7C3SaPL_8
 speaker: 北美王路飞
-tags:
-  - political-strategy
-  - campaign-management
-  - us-election
-  - revenge
-  - leadership
-title: 最狠的复仇：Susie Wiles如何终结德桑蒂斯总统梦并助特朗普重返白宫
-summary: 本文深入剖析了美国政治幕僚**Susie Wiles**的传奇经历。她曾一手将**罗恩·德桑蒂斯**扶上佛州州长宝座，却因德桑蒂斯的背叛而遭受政治迫害。在人生低谷时，她与**唐纳德·特朗普**结盟，凭借其独特的政治手腕和竞选策略，不仅成功终结了德桑蒂斯的总统梦，更帮助特朗普在2024年大选中王者归来。最终，Wiles成为美国历史上首位女性白宫幕僚长，实现了最彻底的政治复仇。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-people:
-  - Donald Trump
-  - Susie Wiles
-  - Ron DeSantis
-  - Corey Lewandowski
-  - Chris LaCivita
-  - Joe Biden
-  - Kamala Harris
-  - Marco Rubio
-  - Doug Burgum
-  - J.D. Vance
-  - Donald Trump Jr.
-  - Barron Trump
-  - Hillary Clinton
-  - Dan Bongino
-companies_orgs:
-  - Ballard Partners
-  - FBI
-  - Fox News
-  - CNN
-  - UFC
-products_models:
-  - MAGA
-  - Twitter
-  - Joe Rogan Podcast
-  - CNN 60 Minutes
-media_books:
-  - 《名利场》
 status: evergreen
+summary: 本文深入剖析了美国政治幕僚**Susie Wiles**的传奇经历。她曾一手将**罗恩·德桑蒂斯**扶上佛州州长宝座，却因德桑蒂斯的背叛而遭受政治迫害。在人生低谷时，她与**唐纳德·特朗普**结盟，凭借其独特的政治手腕和竞选策略，不仅成功终结了德桑蒂斯的总统梦，更帮助特朗普在2024年大选中王者归来。最终，Wiles成为美国历史上首位女性白宫幕僚长，实现了最彻底的政治复仇。
+tags:
+- leadership
+- management
+- political-strategy
+- technology
+- us-election
+title: 最狠的复仇：Susie Wiles如何终结德桑蒂斯总统梦并助特朗普重返白宫
 ---
+
 ### 胜选之夜的“冰雪女王”
 
 2024年大选的胜选之夜，全世界最有权势的男人**唐纳德·特朗普**正站在舞台中央，享受他的复仇时刻。然而，就在这个最高光的时刻，他做了一件很反常的事情：他要把麦克风交给一个女人，一个甚至很多资深共和党人都没有怎么听说过的名字——**Susie Wiles**。特朗普喊她上来，叫她**冰雪女王**（The Ice Maiden: 特朗普对Susie Wiles的称呼）。换做其他任何人，不论是**埃隆·马斯克**还是**J.D.万斯**，这时候肯定都冲上去发表获奖感言了，对吧？但你看她，她只是走上来微微点了个头，然后死死地闭上了嘴，甚至把想上来蹭镜头的**科里·莱万多夫斯基**给挡了回去。她拒绝说话，拒绝抢风头。这一刻你就明白了，这个女人需要的不是聚光灯，因为她手里握着的是比聚光灯更可怕的东西——控制权。

@@ -1,48 +1,50 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Federal Reserve
+- Meta
+- Amazon
+- Microsoft
+- Alibaba
+- White House
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- What Went Wrong with Capitalism
+people:
+- Ruchir Sharma
+- Sundar Pichai
+- Jack Ma
+- Xi Jinping
+- Donald Trump
+products_models:
+- Deepseek
+- LLM models
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zOOgmOKEZnw
 speaker: Norges Bank Investment Management
-tags:
-  - ai-bubble
-  - government-intervention
-  - us-china-rivalry
-  - global-economy
-  - capitalism-critique
-title: AI泡沫、政府干预与全球经济：Ruchir Sharma 的深度洞察
-summary: 本文记录了 Ruchir Sharma 与 Norges Bank Investment Management 的对话，深入探讨了美国经济对人工智能（AI）的过度依赖及其潜在泡沫风险。Sharma 运用“四O”原则分析了AI泡沫的特征，并指出政府干预对资本主义原则的侵蚀。对话还涵盖了全球主要经济体（美国、欧洲、中国）的市场表现和政策转向，特别是中美AI竞争与中国对私营部门的支持。最后，Sharma 预测了未来一年国际市场可能跑赢美国、高质量股票回归主流的趋势，并强调了美联储改革的必要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Ruchir Sharma
-  - Sundar Pichai
-  - Jack Ma
-  - Xi Jinping
-  - Donald Trump
-companies_orgs:
-  - Norges Bank Investment Management
-  - Federal Reserve
-  - Meta
-  - Amazon
-  - Microsoft
-  - Alibaba
-  - White House
-products_models:
-  - Deepseek
-  - LLM models
-media_books:
-  - What Went Wrong with Capitalism
 status: evergreen
+summary: 本文记录了 Ruchir Sharma 与 Norges Bank Investment Management 的对话，深入探讨了美国经济对人工智能（AI）的过度依赖及其潜在泡沫风险。Sharma
+  运用“四O”原则分析了AI泡沫的特征，并指出政府干预对资本主义原则的侵蚀。对话还涵盖了全球主要经济体（美国、欧洲、中国）的市场表现和政策转向，特别是中美AI竞争与中国对私营部门的支持。最后，Sharma
+  预测了未来一年国际市场可能跑赢美国、高质量股票回归主流的趋势，并强调了美联储改革的必要性。
+tags:
+- ai-bubble
+- capitalism-critique
+- global-economy
+- government-intervention
+- us-china-relations
+title: AI泡沫、政府干预与全球经济：Ruchir Sharma 的深度洞察
 ---
+
 ### 资本主义的现状与政府角色的扩张
 
 大家好，欢迎收看与 Ruchir Sharma 的对话。

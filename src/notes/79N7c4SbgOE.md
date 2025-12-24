@@ -1,76 +1,74 @@
 ---
-author: LT視界
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Oracle
+- OpenAI
+- Polymarket
+- FBI
+- The Daily Beast
+- Federal Reserve
+- Labor Department
+- BMO
+- Bloomberg
+- Reuters
+- Wall Street Journal
+- CNBC
+- TASS
+- Time Magazine
+- Mexico
+- China
+- WTO
+- Indonesia
+- US Congress
+- Biden Administration
+- ZTE
+- Pinduoduo
+- Xiaohongshu
+- State Administration for Market Regulation
+- Ministry of Public Security
+- State Council
+- Xinhua
+- Economic Daily
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jerome Powell
+- Donald Trump
+- Volodymyr Zelenskyy
+- Sergey Lavrov
+- Tom Lee
+- Elon Musk
+- Jensen Huang
+- Sam Altman
+- Mark Zuckerberg
+- Li Xi
+- Ma Xingrui
+- Marcelo Ebrard
+- Nick Timiraos
+- Michael B. Stankard
+- Zeng Cailin
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=79N7c4SbgOE
 speaker: LT視界
-tags:
-  - ai-bubble
-  - employment-data
-  - monetary-policy
-  - trade-war
-  - economic-imbalance
-title: AI泡沫、就业数据疑云与中国经济新信号：深度解析中央经济工作会议
-summary: 本文深度剖析了当前全球经济面临的多重挑战，包括人工智能泡沫的担忧、美国就业数据可能被夸大的风险，以及美联储降息前景的不确定性。同时，详细解读了中国中央经济工作会议释放的信号，分析了其在房地产、贸易战、国内需求等方面的政策调整与潜在风险，并探讨了中国经济面临的结构性失衡问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Jerome Powell
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Sergey Lavrov
-  - Tom Lee
-  - Elon Musk
-  - Jensen Huang
-  - Sam Altman
-  - Mark Zuckerberg
-  - Li Xi
-  - Ma Xingrui
-  - Marcelo Ebrard
-  - Nick Timiraos
-  - Michael B. Stankard
-  - Zeng Cailin
-companies_orgs:
-  - Oracle
-  - OpenAI
-  - Polymarket
-  - FBI
-  - The Daily Beast
-  - Federal Reserve
-  - Labor Department
-  - BMO
-  - Bloomberg
-  - Reuters
-  - Wall Street Journal
-  - CNBC
-  - TASS
-  - Time Magazine
-  - Mexico
-  - China
-  - WTO
-  - Indonesia
-  - US Congress
-  - Biden Administration
-  - ZTE
-  - Pinduoduo
-  - Xiaohongshu
-  - State Administration for Market Regulation
-  - Ministry of Public Security
-  - State Council
-  - Xinhua
-  - Economic Daily
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深度剖析了当前全球经济面临的多重挑战，包括人工智能泡沫的担忧、美国就业数据可能被夸大的风险，以及美联储降息前景的不确定性。同时，详细解读了中国中央经济工作会议释放的信号，分析了其在房地产、贸易战、国内需求等方面的政策调整与潜在风险，并探讨了中国经济面临的结构性失衡问题。
+tags:
+- ai-bubble
+- economic
+- society
+- trade-war
+title: AI泡沫、就业数据疑云与中国经济新信号：深度解析中央经济工作会议
 ---
+
 ### 财经头条：AI泡沫、就业数据与美联储政策走向
 
 今天我们分享四条重要的财经新闻。

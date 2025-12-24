@@ -1,48 +1,48 @@
 ---
-author: Darren聊美股
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Nvidia
+- Palantir
+- Alibaba
+- 华为
+- Microsoft
+- 亚马逊
+- Google
+- Meta
+- 寒武纪
 date: '2025-09-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Seeking Alpha
+people:
+- 黄仁勋
+products_models:
+- H20
+- Blackwell
+- Ascend
+- CUDA
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=1tEnAg4gdCU
 speaker: Darren聊美股
-tags:
-  - nvidia-earnings
-  - stock-market-reaction
-  - ai-infrastructure
-  - investment-strategies
-  - market-valuation
-title: 英伟达财报深度解析：业绩创新高股价为何下跌？长期投资策略与机会
-summary: 本文深入分析了英伟达最新财报，探讨了其业绩再创新高但股价下跌的原因，包括增长放缓、市场预期过高及中国市场不确定性。同时，文章驳斥了看空观点，并分享了长期投资英伟达的多种策略，如逢低补仓、Covered Call ETF、出售看跌期权及购买LEAPS，强调英伟达作为AI基建核心供应商的长期价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - 黄仁勋
-companies_orgs:
-  - 英伟达
-  - Palantir
-  - 阿里巴巴
-  - 华为
-  - 微软
-  - 亚马逊
-  - 谷歌
-  - Meta
-  - 寒武纪
-products_models:
-  - H20
-  - Blackwell
-  - Ascend
-  - CUDA
-media_books:
-  - Seeking Alpha
 status: evergreen
+summary: 本文深入分析了英伟达最新财报，探讨了其业绩再创新高但股价下跌的原因，包括增长放缓、市场预期过高及中国市场不确定性。同时，文章驳斥了看空观点，并分享了长期投资英伟达的多种策略，如逢低补仓、Covered
+  Call ETF、出售看跌期权及购买LEAPS，强调英伟达作为AI基建核心供应商的长期价值。
+tags:
+- ai-infrastructure
+- market-valuation
+- nvidia-earning
+- stock-market-reaction
+title: 英伟达财报深度解析：业绩创新高股价为何下跌？长期投资策略与机会
 ---
+
 ### 英伟达财报争议：业绩创新高股价为何下跌？
 
 本期节目将深入探讨本周三刚刚发布财报的**英伟达**（Nvidia: 全球领先的图形处理器和人工智能计算公司），这家当前美股市值排名第一的公司。周三发布的这份财报在市场上引发了非常大的争议。一方面，英伟达业绩再创新高，营收和利润都大幅超出预期；另一方面，其股价却在财报后下跌。许多投资者感到困惑，为什么基本面如此良好，股价反而下跌？本文将系统地分析英伟达这份财报的结果，探讨市场到底在担心什么。随后，将分享作为长期投资者，应该如何看待并利用这次下跌，以及接下来的一些操作计划。

@@ -1,42 +1,42 @@
 ---
-author: Veritasium
+area: society-systems
+category: science
+companies_orgs:
+- Hostinger
+- Veritasium
+- Primer
+- BeSmart
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Selfish Gene
+people:
+- Richard Dawkins
+- Joe Hanson
+products_models:
+- n8n
+- Chat GPT
+- Notion
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=XX7PdJIGiCw
 speaker: Veritasium
-tags:
-  - evolutionary-biology
-  - natural-selection
-  - selfish-gene-theory
-  - genetic-drift
-  - altruism
-title: 模拟生命演化的奇特方式：基因的自私之旅
-summary: 本文探讨了生命演化的基本机制，从“为什么粪便对人类来说是臭的”这一问题切入，深入剖析自然选择的核心单位——基因。通过模拟从简单分子到复杂生命的演化过程，文章阐述了复制、突变和“自私的基因”理论，并讨论了遗传漂变等批判观点。这种以基因视角理解世界的方式，为解释自然界中形形色色的行为提供了强大洞察力。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Richard Dawkins
-  - Joe Hanson
-companies_orgs:
-  - Hostinger
-  - Veritasium
-  - Primer
-  - BeSmart
-products_models:
-  - n8n
-  - Chat GPT
-  - Notion
-media_books:
-  - The Selfish Gene
 status: evergreen
+summary: 本文探讨了生命演化的基本机制，从“为什么粪便对人类来说是臭的”这一问题切入，深入剖析自然选择的核心单位——基因。通过模拟从简单分子到复杂生命的演化过程，文章阐述了复制、突变和“自私的基因”理论，并讨论了遗传漂变等批判观点。这种以基因视角理解世界的方式，为解释自然界中形形色色的行为提供了强大洞察力。
+tags:
+- altruism
+- geopolitical
+- health
+- technology
+- theory
+title: 模拟生命演化的奇特方式：基因的自私之旅
 ---
+
 ### 粪便之谜与利他主义悖论
 
 如果你想知道一个人是否真正理解**演化**（Evolution: 生物种群在世代中发生遗传性状改变的过程），只需问他们一个奇怪的问题：为什么粪便闻起来很臭？

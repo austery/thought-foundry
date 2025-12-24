@@ -1,66 +1,65 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: finance
+companies_orgs:
+- Goldman Sachs
+- Morgan Stanley
+- Lehman Brothers
+- Oppenheimer Securities
+- The Money Store
+- Fannie Mae
+- Freddie Mac
+- Moody's
+- Standard & Poor's
+- Lomas Financial
+- Household Finance Corporation
+- HSBC Group
+- Acorn
+- Deutsche Bank
+- Bank of America
+- Merrill Lynch
+- Citigroup
+- Bear Stearns
+- AIG
+- AIG Financial Products
 date: '2025-09-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Big Short
+- Crashed
+- Moneyball
+- The 5th Risk
+people:
+- Michael Lewis
+- Michael Burry
+- Steve Eisman
+- Vinnie Daniel
+- Greg Lippmann
+- Bill Dallas
+- Charlie Munger
+- Warren Buffett
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=RrF26yMfUpo
 speaker: 北美王路飞
-tags:
-  - 2008-financial-crisis
-  - subprime-mortgage
-  - credit-default-swap
-  - collateralized-debt-obligation
-  - financial-fraud
-  - rating-agencies
-title: 2008年美国金融危机系列：华尔街的皇帝新衣与异类的清醒洞察
-summary: 本期节目深入探讨了2008年美国金融危机的根源与核心机制，以迈克尔·刘易斯的《大空头》为基础，揭示了华尔街在房地产泡沫下的谎言、欺诈与贪婪。节目重点介绍了史蒂夫·艾斯曼和迈克尔·伯里两位“异类”如何通过数据挖掘与道德愤怒，看穿了次级贷款、信用违约互换（CDS）和担保债务凭证（CDO）等金融工具背后的巨大风险，以及评级机构和大型保险公司（如AIG）在其中扮演的推波助澜的角色。最终，这些清醒的少数人如何逆势而为，做空市场，预见了这场改变美国历史的金融海啸。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - Michael Lewis
-  - Michael Burry
-  - Steve Eisman
-  - Vinnie Daniel
-  - Greg Lippmann
-  - Bill Dallas
-  - Charlie Munger
-  - Warren Buffett
-companies_orgs:
-  - Goldman Sachs
-  - Morgan Stanley
-  - Lehman Brothers
-  - Oppenheimer Securities
-  - The Money Store
-  - Fannie Mae
-  - Freddie Mac
-  - Moody's
-  - Standard & Poor's
-  - Lomas Financial
-  - Household Finance Corporation
-  - HSBC Group
-  - Acorn
-  - Deutsche Bank
-  - Bank of America
-  - Merrill Lynch
-  - Citigroup
-  - Bear Stearns
-  - AIG
-  - AIG Financial Products
-products_models: []
-media_books:
-  - The Big Short
-  - Crashed
-  - Moneyball
-  - The 5th Risk
 status: evergreen
+summary: 本期节目深入探讨了2008年美国金融危机的根源与核心机制，以迈克尔·刘易斯的《大空头》为基础，揭示了华尔街在房地产泡沫下的谎言、欺诈与贪婪。节目重点介绍了史蒂夫·艾斯曼和迈克尔·伯里两位“异类”如何通过数据挖掘与道德愤怒，看穿了次级贷款、信用违约互换（CDS）和担保债务凭证（CDO）等金融工具背后的巨大风险，以及评级机构和大型保险公司（如AIG）在其中扮演的推波助澜的角色。最终，这些清醒的少数人如何逆势而为，做空市场，预见了这场改变美国历史的金融海啸。
+tags:
+- 2008-financial-crisis
+- credit
+- debt
+- financial-fraud
+- history
+title: 2008年美国金融危机系列：华尔街的皇帝新衣与异类的清醒洞察
 ---
+
 ### 2008年美国金融危机系列开篇：《大空头》的视角
 
 大家好，欢迎来到我的频道。今天，我们将开启一个新系列，深入探讨2008年的美国金融危机。关于这个话题，我阅读了多本书籍，它们从不同角度描述了这场大事件。在我看来，**迈克尔·刘易斯**（Michael Lewis: 一位擅长非虚构写作的纪实类作家）所著的《**大空头**》（The Big Short: 一本关于2008年金融危机的纪实文学作品）是其中最精彩、戏剧性最强的一本。作为这个长系列的开篇，我们将以《大空头》这本书为基础进行讲解。

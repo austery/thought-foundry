@@ -1,58 +1,59 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- Google DeepMind
+- Google Cloud
+- GitHub
+- Chick-fil-A
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Paige
+- Andre Carpathy
+products_models:
+- Gemini
+- Gemini 2.5 Pro
+- Gemini 2.5 Flash Image
+- Nano Banana
+- Gemini Live
+- Veo
+- Veo 3.1
+- Gemma
+- Gemma 3N
+- Genie3
+- AI Studio
+- Colab
+- Camtasia
+- MoviePy
+- React
+- Tailwind
+- Genai SDK
+- Cloud Run
+- LIA
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=_DzNkiejZ-I
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - ai-app-development
-  - multimodal-ai
-  - developer-tools
-  - ai-democratization
-  - video-generation
-title: Google DeepMind 负责人：用 Gemini 在几分钟内构建 AI 应用
-summary: 这篇文章介绍了 Google DeepMind 的最新 AI 模型和开发工具，包括 Gemini 系列、Veo、Gemma 和 Genie3。演讲者 Paige 详细展示了如何利用 AI Studio、Gemini Live、AI 应用构建器和 Colab 集成等平台，快速开发多模态 AI 应用、进行数据分析和视频生成。她强调了 AI 工具的民主化趋势，赋能个人和小型团队在短时间内创造出科幻般的应用，并鼓励开发者积极探索和利用这些工具。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Paige
-  - Andre Carpathy
-companies_orgs:
-  - Google
-  - Google DeepMind
-  - Google Cloud
-  - GitHub
-  - Chick-fil-A
-products_models:
-  - Gemini
-  - Gemini 2.5 Pro
-  - Gemini 2.5 Flash Image
-  - Nano Banana
-  - Gemini Live
-  - Veo
-  - Veo 3.1
-  - Gemma
-  - Gemma 3N
-  - Genie3
-  - AI Studio
-  - Colab
-  - Camtasia
-  - MoviePy
-  - React
-  - Tailwind
-  - Genai SDK
-  - Cloud Run
-  - LIA
-media_books: []
 status: evergreen
+summary: 这篇文章介绍了 Google DeepMind 的最新 AI 模型和开发工具，包括 Gemini 系列、Veo、Gemma 和 Genie3。演讲者
+  Paige 详细展示了如何利用 AI Studio、Gemini Live、AI 应用构建器和 Colab 集成等平台，快速开发多模态 AI 应用、进行数据分析和视频生成。她强调了
+  AI 工具的民主化趋势，赋能个人和小型团队在短时间内创造出科幻般的应用，并鼓励开发者积极探索和利用这些工具。
+tags:
+- ai-app-development
+- developer-tool
+- generation
+- llm
+- multimodal-ai
+title: Google DeepMind 负责人：用 Gemini 在几分钟内构建 AI 应用
 ---
+
 ### 欢迎与 Google DeepMind 的 AI 工具
 
 大家好，我叫 Paige。

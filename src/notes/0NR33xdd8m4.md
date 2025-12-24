@@ -1,51 +1,51 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2024-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《再见爱人》
+- 《尼各马可伦理学》
+- 《AI伴侣》
+- 《论爱欲》
+- 《圣经·哥林多前书》
+- 《第二性》
+- 《革命之路》
+- 《泰坦尼克号》
+- 《家庭、私有制和国家的起源》
+- 《纽约时报》
+people:
+- Immanuel Kant
+- G.W.F. Hegel
+- Simone de Beauvoir
+- Aristotle
+- Paul the Apostle
+- Cai Xukun
+- Jean-Paul Sartre
+- Friedrich Engels
+- 汪民安
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=0NR33xdd8m4
 speaker: 大问题Dialectic
-tags:
-  - marriage-philosophy
-  - divorce-ethics
-  - gender-roles
-  - human-dignity
-  - social-institutions
-title: 离婚有错吗？婚姻的本质是什么？——康德、黑格尔与波伏瓦的哲学辩论
-summary: 本期节目深入探讨婚姻与离婚的哲学本质。康德认为婚姻是基于肉体排他性的契约，因此允许自由离婚。黑格尔则视婚姻为神圣的伦理实体，强调精神之爱与社群价值，反对离婚。波伏瓦从女性主义视角出发，批判现代婚姻制度对女性的异化与压迫，主张不结婚或建立平等的开放式关系。节目旨在引发听众对婚姻、个人权利与社会伦理之间关系的深刻思考。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - Immanuel Kant
-  - G.W.F. Hegel
-  - Simone de Beauvoir
-  - Aristotle
-  - Paul the Apostle
-  - Cai Xukun
-  - Jean-Paul Sartre
-  - Friedrich Engels
-  - 汪民安
-companies_orgs: []
-products_models: []
-media_books:
-  - 《再见爱人》
-  - 《尼各马可伦理学》
-  - 《AI伴侣》
-  - 《论爱欲》
-  - 《圣经·哥林多前书》
-  - 《第二性》
-  - 《革命之路》
-  - 《泰坦尼克号》
-  - 《家庭、私有制和国家的起源》
-  - 《纽约时报》
 status: evergreen
+summary: 本期节目深入探讨婚姻与离婚的哲学本质。康德认为婚姻是基于肉体排他性的契约，因此允许自由离婚。黑格尔则视婚姻为神圣的伦理实体，强调精神之爱与社群价值，反对离婚。波伏瓦从女性主义视角出发，批判现代婚姻制度对女性的异化与压迫，主张不结婚或建立平等的开放式关系。节目旨在引发听众对婚姻、个人权利与社会伦理之间关系的深刻思考。
+tags:
+- ethics
+- gender-role
+- human
+- marriage-philosophy
+- social
+title: 离婚有错吗？婚姻的本质是什么？——康德、黑格尔与波伏瓦的哲学辩论
 ---
+
 大家好，欢迎收看大问题节目。本期要探讨的大问题是：离婚是坏事吗？
 
 ### 婚姻与离婚的道德困境

@@ -1,46 +1,46 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中铁
+- 葛洲坝集团
+- 中建
+- 中共
+- 央视
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《水利水运工程学报》
+- Discovery
+people:
+- 朱镕基
+- Xi Jinping
+- 周先旺
+- 高福
+- 吴尊友
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=LdfUFo_Gnvk
 speaker: 夸克说
-tags:
-  - tofu-dreg-projects
-  - infrastructure-quality
-  - systemic-corruption
-  - administrative-interference
-  - soft-budget-constraints
-  - mao-era-policies
-title: 中国“基建狂魔”的阴暗面：从豆腐渣工程到制度性悲剧
-summary: 本文深入剖析中国基建领域“豆腐渣工程”现象。从四川红旗特大桥垮塌事件切入，探讨了层层转包、政绩驱动的行政干预及软预算约束等制度性问题如何导致工程质量低下。文章追溯了从朱镕基时代到汶川地震，乃至毛泽东时期“大跃进”期间的豆腐渣工程历史，揭示权力结构与激励机制在其中扮演的关键角色，指出问题根源在于中共体制本身，而非简单的腐败或市场经济。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 朱镕基
-  - 习近平
-  - 周先旺
-  - 高福
-  - 吴尊友
-companies_orgs:
-  - 中铁
-  - 葛洲坝集团
-  - 中建
-  - 中共
-  - 央视
-products_models: []
-media_books:
-  - 《水利水运工程学报》
-  - Discovery
 status: evergreen
+summary: 本文深入剖析中国基建领域“豆腐渣工程”现象。从四川红旗特大桥垮塌事件切入，探讨了层层转包、政绩驱动的行政干预及软预算约束等制度性问题如何导致工程质量低下。文章追溯了从朱镕基时代到汶川地震，乃至毛泽东时期“大跃进”期间的豆腐渣工程历史，揭示权力结构与激励机制在其中扮演的关键角色，指出问题根源在于中共体制本身，而非简单的腐败或市场经济。
+tags:
+- administrative-interference
+- canada
+- infrastructure
+- llm
+- policy
+- systemic-corruption
+title: 中国“基建狂魔”的阴暗面：从豆腐渣工程到制度性悲剧
 ---
+
 ### 引言：中国速度与豆腐渣工程的悖论
 
 大家好，欢迎收看夸克说。上上期节目我讲了中国的大基建是如何拉高失业率，让普通人处境更艰难的。然后推特上就有小粉红留言抬杠说：“你甭管怎么说，中国基建就是世界第一，你老美修条路好几年，我们三个月就干完了。”是这样啊，你要说快，我承认，中国基建在这方面确实强，但你光快不行啊。

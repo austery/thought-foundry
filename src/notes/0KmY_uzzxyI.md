@@ -1,59 +1,59 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Circle
+- Tether
+- Amazon
+- Walmart
+- JD.com
+- Alibaba
+- 京东币链科技
+- 蚂蚁集团
+- Visa
+- Mastercard
+- PayPal
+- 中国人民银行
+- SWIFT
+- 香港监管局
+- 欧盟
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 证券时报
+- 《中国数字人民币的研发进展白皮书》
+people:
+- Jack Ma
+products_models:
+- USDT
+- USDC
+- Bitcoin
+- Ethereum
+- 数字人民币
+- USDX
+- ETINA
+- DAI
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=0KmY_uzzxyI
 speaker: 老周横眉
-tags:
-  - stablecoin-regulation
-  - dollar-hegemony
-  - rmb-internationalization
-  - cross-border-payment
-  - digital-finance-innovation
-title: 稳定币深度解析：中美博弈、企业变革与普通人应对策略
-summary: 香港稳定币法案的通过，预示着数字金融新时代的到来。本文深入探讨稳定币的本质、中美两国政府布局稳定币的战略考量（美国旨在巩固美元霸权，中国则通过香港探索人民币国际化与规避制裁风险），以及其对跨境电商和企业运营的颠覆性影响。同时，文章也澄清了稳定币与数字人民币的区别，并指出稳定币并非普通人的致富风口，旨在消除大众对新事物的焦虑。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Jack Ma
-companies_orgs:
-  - Circle
-  - Tether
-  - Amazon
-  - Walmart
-  - JD.com
-  - Alibaba
-  - 京东币链科技
-  - 蚂蚁集团
-  - Visa
-  - Mastercard
-  - PayPal
-  - 中国人民银行
-  - SWIFT
-  - 香港监管局
-  - 欧盟
-products_models:
-  - USDT
-  - USDC
-  - Bitcoin
-  - Ethereum
-  - 数字人民币
-  - USDX
-  - ETINA
-  - DAI
-media_books:
-  - 证券时报
-  - 《中国数字人民币的研发进展白皮书》
 status: evergreen
+summary: 香港稳定币法案的通过，预示着数字金融新时代的到来。本文深入探讨稳定币的本质、中美两国政府布局稳定币的战略考量（美国旨在巩固美元霸权，中国则通过香港探索人民币国际化与规避制裁风险），以及其对跨境电商和企业运营的颠覆性影响。同时，文章也澄清了稳定币与数字人民币的区别，并指出稳定币并非普通人的致富风口，旨在消除大众对新事物的焦虑。
+tags:
+- digital
+- geopolitical
+- regulation
+- science
+- technology
+title: 稳定币深度解析：中美博弈、企业变革与普通人应对策略
 ---
+
 ### 稳定币浪潮来袭：香港法案与全球格局
 
 近期，一则重磅消息震动全球：香港稳定币法案已正式通过，并将在一个多月后生效。这一举措不仅对银行和金融圈产生深远影响，更可能颠覆跨境电商、金融科技、国际政治乃至**币权**（Currency Rights/Power: 对货币发行、流通和价值控制的权力）的现有格局。有媒体分析认为，此举标志着中央政府正试图通过香港掌握货币主导权，以稳定币挑战美元霸权；另有观点指出，这预示着金融科技和数字资产发展进入新阶段，为普通人带来致富新机遇。例如，美国**Circle**（一家全球金融科技公司，USDC稳定币的发行方）的股票在相关法案通过后，股价在短短几周内飙升近600%。

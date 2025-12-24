@@ -1,47 +1,46 @@
 ---
-author: 课代表立正
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Meta
+- Amazon
+- Apple
+- TikTok
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- LinkedIn
+- 孙子兵法
+people:
+- Deb Liu
+- Mark Zuckerberg
+- Fidji
+products_models:
+- Facebook Marketplace
+- Facebook Shops
+- Instagram Shops
+- iOS 14
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=uLFkQheksgI
 speaker: 课代表立正
-tags:
-  - corporate-politics
-  - product-failure
-  - e-commerce-strategy
-  - organizational-systems
-  - career-lessons
-title: 资源、努力与正确逻辑为何仍失败？Facebook Marketplace电商项目复盘与职场博弈
-summary: 本期视频深入复盘了Facebook Marketplace电商项目从全力投入到最终失败的全过程。作者坦诚分享了项目失败的深层原因，包括组织内部的资源博弈、高层政治斗争，以及Facebook广告驱动的商业模式与电商本质的冲突。文章详细阐述了如何巧妙沟通失败结果，并通过实验验证用户行为，最终促成C2C配送的成功转型。同时，作者强调了在职场中理解宏观局势和高层博弈的重要性，远超具体执行层面的努力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Deb Liu
-  - Mark Zuckerberg
-  - Fidji
-companies_orgs:
-  - Facebook
-  - Meta
-  - Amazon
-  - Apple
-  - TikTok
-products_models:
-  - Facebook Marketplace
-  - Facebook Shops
-  - Instagram Shops
-  - iOS 14
-media_books:
-  - LinkedIn
-  - 孙子兵法
 status: evergreen
+summary: 本期视频深入复盘了Facebook Marketplace电商项目从全力投入到最终失败的全过程。作者坦诚分享了项目失败的深层原因，包括组织内部的资源博弈、高层政治斗争，以及Facebook广告驱动的商业模式与电商本质的冲突。文章详细阐述了如何巧妙沟通失败结果，并通过实验验证用户行为，最终促成C2C配送的成功转型。同时，作者强调了在职场中理解宏观局势和高层博弈的重要性，远超具体执行层面的努力。
+tags:
+- career
+- failure
+- politics
+- strategy
+- system
+title: 资源、努力与正确逻辑为何仍失败？Facebook Marketplace电商项目复盘与职场博弈
 ---
+
 ### 引言：坦诚分享职业生涯的经验教训
 
 大家好，今天我们来聊聊“Marketplace”系列的第三期。这个系列旨在通过我职业生涯中非常具体的事件，坦诚地分享**经验教训**（lessons: 从经历中获得的知识或启示）。我希望通过我当时的经历、感受和事后复盘，尤其是在多年后有了新的信息和认知基础上的复盘，帮助大家更清楚地看到一些东西，并分享一些感受。

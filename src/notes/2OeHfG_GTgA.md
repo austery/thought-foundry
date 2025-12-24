@@ -1,39 +1,37 @@
 ---
-author: 王红雨
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《以终为始的人生智慧》
+- 《白大褂的投资者》
+people:
+- Jordan Grumet
+- Angela By
+- 张金鹏律师
+products_models:
+- PIC模型
+project:
+- personal-growth-lab
+- fire-movement
+series: ''
 source: https://www.youtube.com/watch?v=2OeHfG_GTgA
 speaker: 王红雨
-tags:
-  - end-of-life-reflections
-  - financial-independence
-  - life-purpose
-  - personal-values
-  - goal-setting
-title: 临终关怀医生的人生智慧：财务独立并非终点，活出无憾人生的三大支柱
-summary: 一位实现财务独立的临终关怀医生，通过陪伴千位临终者，深刻洞察人生遗憾与金钱的真正角色。他提出“以终为始”的智慧，强调人生三大支柱：目的（Purpose）、身份（Identity）和连接（Connection），并区分大小目标，探讨财务独立的多元路径。文章旨在启发读者超越财富追求，构建平衡、有意义的人生。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - fire-movement
-people:
-  - Jordan Grumet
-  - 王红雨
-  - Angela By
-  - 张金鹏律师
-companies_orgs: []
-products_models:
-  - PIC模型
-media_books:
-  - 《以终为始的人生智慧》
-  - 《白大褂的投资者》
 status: evergreen
+summary: 一位实现财务独立的临终关怀医生，通过陪伴千位临终者，深刻洞察人生遗憾与金钱的真正角色。他提出“以终为始”的智慧，强调人生三大支柱：目的（Purpose）、身份（Identity）和连接（Connection），并区分大小目标，探讨财务独立的多元路径。文章旨在启发读者超越财富追求，构建平衡、有意义的人生。
+tags:
+- financial-independence
+- goal-setting
+- life
+- value
+title: 临终关怀医生的人生智慧：财务独立并非终点，活出无憾人生的三大支柱
 ---
+
 ### 乔丹·格鲁梅特的人生智慧与心路历程
 
 一位医生在实现**财务独立**（Financial Independence: 指个人无需为金钱工作，其被动收入足以支付生活开销的状态）后，开始对人生做减法，最终只保留了**临终关怀医生**（Hospice Doctor: 专门为生命末期患者提供身心照护与支持的医生）的工作，每周仅工作10小时。他从临终病患身上学到了许多人生智慧，并将这些记录在博客中，最终集结成书。在2025年，这本书对作者产生了深远影响，也是今天分享的主题。欢迎回到我的频道，今天是2025年11月23号。今天将分享的书名为《以终为始的人生智慧》。该书作者**乔丹·格鲁梅特**（Jordan Grumet）的人生经历颇具启发性，书中提出的建议均源于他自身的实践。对于那些希望从成功者身上学习的人来说，他的经验尤为宝贵。他详细记录并分析了自己在财务独立后的人生选择，这对于我们具有重要意义。接下来，我将从六个方面进行分析：作者的心路历程、临终者的遗憾、金钱的角色及误区、人生三大支柱（PIC模型）、小目标与大目标的区别，以及对财务独立的理解和三种实现途径。

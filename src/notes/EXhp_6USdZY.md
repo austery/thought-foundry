@@ -1,61 +1,61 @@
 ---
-author: 夸克说
-date: 2025-10-30
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=EXhp_6USdZY'
-speaker: 夸克说
-tags:
-  - economic-growth
-  - innovation-theory
-  - creative-destruction
-  - monopoly-economics
-  - institutional-frameworks
-title: 2025年诺贝尔经济学奖：创新、垄断与经济增长的深层逻辑
-summary: 本文深入解读2025年诺贝尔经济学奖，探讨三位经济学家对人类经济增长动力的研究。文章从工业革命前的停滞讲起，分析了创新方式的转变、系统性科学知识的重要性，以及专利保护、金融体系等制度环境对创新的关键作用。同时，文章重新审视了垄断，区分了由创新驱动的阶段性垄断与非自由竞争下的垄断，强调前者是推动社会财富持续增长的核心动力。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
-project:
-  - systems-thinking
-  - entrepreneurship
-  - historical-insights
-people:
-  - 王安石
-  - 司马光
-  - Joseph Schumpeter
-  - Karl Marx
-  - Angus Maddison
-  - Leonardo da Vinci
-  - Isaac Newton
-  - 乔
-  - 菲利普
-  - 彼得
+category: finance
 companies_orgs:
-  - OpenAI
-  - Google
-  - Microsoft
-  - Meta
-  - Apple
-  - Nokia
-  - Motorola
-  - Samsung
-  - Intel
-  - AMD
-  - TSMC
-  - PetroChina
-  - Sinopec
-  - China Tobacco
-products_models:
-  - iPhone
-  - GPT
-  - CPU
+- OpenAI
+- Google
+- Microsoft
+- Meta
+- Apple
+- Nokia
+- Motorola
+- Samsung
+- Intel
+- AMD
+- TSMC
+- PetroChina
+- Sinopec
+- China Tobacco
+date: 2025-10-30
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Wikipedia
+- Wikipedia
+people:
+- 王安石
+- 司马光
+- Joseph Schumpeter
+- Karl Marx
+- Angus Maddison
+- Leonardo da Vinci
+- Isaac Newton
+- 乔
+- 菲利普
+- 彼得
+products_models:
+- iPhone
+- GPT
+- CPU
+project:
+- systems-thinking
+- entrepreneurship
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=EXhp_6USdZY
+speaker: 夸克说
 status: evergreen
+summary: 本文深入解读2025年诺贝尔经济学奖，探讨三位经济学家对人类经济增长动力的研究。文章从工业革命前的停滞讲起，分析了创新方式的转变、系统性科学知识的重要性，以及专利保护、金融体系等制度环境对创新的关键作用。同时，文章重新审视了垄断，区分了由创新驱动的阶段性垄断与非自由竞争下的垄断，强调前者是推动社会财富持续增长的核心动力。
+tags:
+- creative-destruction
+- economic-growth
+- institutional
+- monopoly-economics
+- theory
+title: 2025年诺贝尔经济学奖：创新、垄断与经济增长的深层逻辑
 ---
+
 ### 2025年诺贝尔经济学奖：人类经济增长之谜
 
 大家好，欢迎收看夸克说。我是夸克。本期节目我们将探讨今年的**诺贝尔经济学奖**（Nobel Prize in Economic Sciences: 瑞典皇家科学院颁发的经济学奖项），以及从中可以解读出的对包括中国在内的众多经济现象的解释。相信我，看完这期节目，尤其是后半部分的论述，有可能会颠覆一些你此前深信不疑的观念。废话不多说，我们马上开始。

@@ -1,58 +1,58 @@
 ---
-author: Money & Macro
+area: society-systems
+category: business
+companies_orgs:
+- Amazon
+- Microsoft
+- Nvidia
+- Instagram
+- Tinder
+- Meta
+- Match Group
+- Hinge
+- Google
+- X
+- Proton
+- Boeing
+- Airbus
+- Fokker
+- Sud Aviation
+- de Havilland
+- SNCF
+- 欧盟委员会
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《利润悖论》
+people:
+- Bernie Sanders
+- Jan Eeckhout
+- Alan Greenspan
+- Warren Buffett
+products_models:
+- Proton Pass
+- Proton Drive
+project:
+- us-analysis
+- systems-thinking
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=-loW7xS73BM
 speaker: Money & Macro
-tags:
-  - market-concentration
-  - antitrust-policy
-  - wage-stagnation
-  - economic-inequality
-  - digital-economy
-title: 经济困境下股市为何繁荣？垄断、政策与竞争的深层解析
-summary: 本文深入探讨了经济表现与股市繁荣之间的悖论，揭示了数字技术、全球化和反垄断法规放松如何导致大型企业垄断地位的形成。文章阐述了垄断对消费者价格、工资不平等、创新以及整体经济的负面影响，并提出了通过加强反垄断法和推行互操作性等政策来恢复市场竞争力的解决方案。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - market-cycles
-people:
-  - Bernie Sanders
-  - Jan Eeckhout
-  - Alan Greenspan
-  - Warren Buffett
-companies_orgs:
-  - Amazon
-  - Microsoft
-  - Nvidia
-  - Instagram
-  - Tinder
-  - Facebook
-  - Match Group
-  - Hinge
-  - Google
-  - X
-  - Proton
-  - Boeing
-  - Airbus
-  - Fokker
-  - Sud Aviation
-  - de Havilland
-  - SNCF
-  - 欧盟委员会
-products_models:
-  - Proton Pass
-  - Proton Drive
-media_books:
-  - 《利润悖论》
 status: evergreen
+summary: 本文深入探讨了经济表现与股市繁荣之间的悖论，揭示了数字技术、全球化和反垄断法规放松如何导致大型企业垄断地位的形成。文章阐述了垄断对消费者价格、工资不平等、创新以及整体经济的负面影响，并提出了通过加强反垄断法和推行互操作性等政策来恢复市场竞争力的解决方案。
+tags:
+- economic-inequality
+- economy
+- history
+- market-concentration
+- policy
+title: 经济困境下股市为何繁荣？垄断、政策与竞争的深层解析
 ---
+
 ### 经济困境与股市繁荣的悖论
 
 一位卡车司机开始上班时，打开了收音机。新闻报道企业利润创历史新高，股市也蓬勃发展。然而，他的工资却难以跟上物价上涨的步伐。这个故事听起来熟悉吗？很有可能，因为正如你所看到的，在过去几十年里，工资中位数一直保持相对停滞，而股价却经历了巨大的增长。有些人认为股市上涨只是未来经济会好转的迹象，或许这要归功于人工智能。另一些人则认为，这是因为富人越来越富，因此购买了更多资产，从而推高了资产价格。但在美国，左右翼的民粹主义政客越来越多地将责任归咎于亚马逊等大型垄断企业以及其他常见的科技巨头。伯尼·桑德斯认为，我们身处一个又一个的行业，少数几家大公司控制着一切，并参与了大量的价格操纵。这不仅仅是一个道德问题，也启发了经济学。但事实真是如此吗？经济学告诉我们的不是恰恰相反吗？为什么像亚马逊、微软和英伟达这样高效创新的公司应该因其创新而获得奖励，而效率低下的公司却明显萎缩？然后消失？

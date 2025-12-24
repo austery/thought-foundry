@@ -1,58 +1,58 @@
 ---
-author: How I AI
+area: tech-insights
+category: technology
+companies_orgs:
+- Yelp
+- GoFundMe
+- Persona
+- Anthropic
+- LinkedIn
+- Etsy
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+- almostmagic.substack
+- Community Wisdom Newsletter
+people:
+- Priya Matthew Badger
+- Clarvo
+- Colin Matthews
+- Lenny
+products_models:
+- Yelp Assistant
+- Claude
+- ChatGPT
+- Gemini Flash
+- Magic Patterns
+- Figma
+- Figma Make
+- Giving Funds
+- Parent Pal
+- Settlers of Catan Timer
+- Lovable
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=wDA6DslBeqk
 speaker: How I AI
-tags:
-  - ai-product-management
-  - prototyping
-  - conversational-ai
-  - design-workflow
-  - golden-conversations
-  - llm-tools
-title: Yelp AI产品经理：从“黄金对话”到高效原型设计
-summary: 本文深入探讨了Yelp的AI产品经理Priya Matthew Badger如何运用独特的“黄金对话”方法进行AI产品开发。她强调通过模拟用户交互来定义产品需求，并利用Claude和Magic Patterns等AI工具加速对话流程和用户界面原型迭代。Priya还分享了个人AI应用案例，并提供了AI调试策略，为AI产品经理提供了实用的新思路。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Priya Matthew Badger
-  - Clarvo
-  - Colin Matthews
-  - Lenny
-companies_orgs:
-  - Yelp
-  - GoFundMe
-  - Persona
-  - Anthropic
-  - LinkedIn
-  - Etsy
-products_models:
-  - Yelp Assistant
-  - Claude
-  - ChatGPT
-  - Gemini Flash
-  - Magic Patterns
-  - Figma
-  - Figma Make
-  - Giving Funds
-  - Parent Pal
-  - Settlers of Catan Timer
-  - Lovable
-media_books:
-  - How I AI
-  - almostmagic.substack
-  - Community Wisdom Newsletter
 status: evergreen
+summary: 本文深入探讨了Yelp的AI产品经理Priya Matthew Badger如何运用独特的“黄金对话”方法进行AI产品开发。她强调通过模拟用户交互来定义产品需求，并利用Claude和Magic
+  Patterns等AI工具加速对话流程和用户界面原型迭代。Priya还分享了个人AI应用案例，并提供了AI调试策略，为AI产品经理提供了实用的新思路。
+tags:
+- canada
+- design
+- golden-conversation
+- llm
+- management
+title: Yelp AI产品经理：从“黄金对话”到高效原型设计
 ---
+
 ### AI产品管理：从用户界面到幕后逻辑
 
 **Clarvo:** 在设计和构建你工作中正在开发的AI产品时，你通常从何处着手？

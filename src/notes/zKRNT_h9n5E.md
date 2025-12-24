@@ -1,39 +1,38 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Elliott Management
+- Norges Bank Investment Management
+- Harvard Law School
+- CBOE
 date: '2025-02-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Paul Singer
+- Nicola Tangan
+- Steven Schwarzman
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=zKRNT_h9n5E
 speaker: Norges Bank Investment Management
-tags:
-  - activist-investing
-  - risk-management
-  - market-volatility
-  - investment-philosophy
-  - corporate-governance
-title: 保罗·辛格论激进投资、风险规避与当前市场风险
-summary: 埃利奥特管理公司创始人保罗·辛格在挪威主权财富基金的播客中，深入探讨了激进投资的本质、其在公司治理中的必要性，以及埃利奥特如何通过与公司合作来创造价值。他分享了个人投资哲学中风险规避的根源，并对当前市场（包括高估的AI和加密货币对美元储备地位的潜在影响）的风险进行了评估。辛格强调了广泛文科教育对年轻投资者的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Paul Singer
-  - Nicola Tangan
-  - Steven Schwarzman
-companies_orgs:
-  - Elliott Management
-  - Norges Bank Investment Management
-  - Harvard Law School
-  - CBOE
-products_models: []
-media_books: []
 status: evergreen
+summary: 埃利奥特管理公司创始人保罗·辛格在挪威主权财富基金的播客中，深入探讨了激进投资的本质、其在公司治理中的必要性，以及埃利奥特如何通过与公司合作来创造价值。他分享了个人投资哲学中风险规避的根源，并对当前市场（包括高估的AI和加密货币对美元储备地位的潜在影响）的风险进行了评估。辛格强调了广泛文科教育对年轻投资者的重要性。
+tags:
+- corporate-governance
+- investing
+- investment-philosophy
+- market-volatility
+- risk-management
+title: 保罗·辛格论激进投资、风险规避与当前市场风险
 ---
+
 ### 欢迎与激进投资的定义
 
 大家好，我是挪威主权财富基金的尼古拉·坦根（Nicola Tangan），今天我们荣幸地邀请到了一位投资界的传奇人物——保罗·辛格（Paul Singer），他是埃利奥特管理公司（Elliott Management）的创始人，也是全球最重要的激进投资者。保罗，热烈欢迎您。

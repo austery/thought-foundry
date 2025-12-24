@@ -7,15 +7,14 @@ project:
 - ai-impact-analysis
 - cultural-critique
 tags:
-- ai-video
-- generative-media
-- inference-optimization
-- multi-cloud-infrastructure
+- infrastructure
+- media
+- optimization
 - startup-culture
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- ai-video
 date: 2025-08-01
 author: Lei
 speaker: a16z
@@ -27,6 +26,7 @@ series: null
 source: http://www.youtube.com/watch?v=NKNYKYoDSNA
 status: evergreen
 ---
+
 # Fal.ai：AI视频的未来与推理优化
 
 ## 创成式媒体的激烈竞争与市场演变

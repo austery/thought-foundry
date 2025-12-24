@@ -1,38 +1,37 @@
 ---
-author: 王红雨
+area: market-analysis
+category: finance
+companies_orgs:
+- CMHC
+- 加拿大央行
+- 美国财政部
 date: '2025-08-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 卡尼
+- 特鲁多
+products_models: []
+project:
+- us-analysis
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=s8ZITDc5XXc
 speaker: 王红雨
-tags:
-  - toronto-real-estate
-  - market-outlook
-  - interest-rate-forecast
-  - trade-tariff-impact
-  - housing-market-segmentation
-title: 2025年下半年多伦多房地产市场展望：关税战影响减弱，7月交易量反转与利率走势深度分析
-summary: 本文回顾了2025年上半年多伦多房地产市场的预测与实际情况，并展望下半年趋势。重点分析了CMHC的最新市场预测、7月份交易量反转的标志性意义，以及关税战对买家心理影响的消化。文章还深入探讨了固定与浮动房贷利率的走势，并特别指出了一张关键图表，揭示了未来两年月供下降的房主比例，为地产投资者提供了重要参考，并建议2025年避免卖房。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - investment-strategy
-people:
-  - 卡尼
-  - 特鲁多
-companies_orgs:
-  - CMHC
-  - 加拿大央行
-  - 美国财政部
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文回顾了2025年上半年多伦多房地产市场的预测与实际情况，并展望下半年趋势。重点分析了CMHC的最新市场预测、7月份交易量反转的标志性意义，以及关税战对买家心理影响的消化。文章还深入探讨了固定与浮动房贷利率的走势，并特别指出了一张关键图表，揭示了未来两年月供下降的房主比例，为地产投资者提供了重要参考，并建议2025年避免卖房。
+tags:
+- housing-market-segmentation
+- interest-rate-forecast
+- market-outlook
+- real
+- trade-tariff-impact
+title: 2025年下半年多伦多房地产市场展望：关税战影响减弱，7月交易量反转与利率走势深度分析
 ---
+
 ### 2025年上半年多伦多房地产市场回顾与下半年展望
 
 大家好，欢迎再次回到我的频道。今天是2025年8月8号。我们在2月份的时候曾展望了今年多伦多房地产市场的情况，现在差不多已经过去6个月了。我们现在来回顾一下2月份的预测，看看哪些说准了，哪些说错了。然后，再展望一下未来5个月多伦多房地产市场的一些情况。

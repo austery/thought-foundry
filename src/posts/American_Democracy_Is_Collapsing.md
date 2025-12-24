@@ -8,13 +8,11 @@ project:
 - china-analysis
 - us-analysis
 tags:
-  - 中国模式
-  - 全球化
-  - 美国政治
-people: []
+- us-politics
+- 中国模式
+- 全球化
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-06-17'
 author: Lei
 speaker: null
@@ -25,6 +23,7 @@ layout: post.njk
 series: null
 source: '#${id}'
 ---
+
 ### Speakers
 
 **Joseph Stiglitz:** 2001 Nobel Prize laureate in Economics, renowned

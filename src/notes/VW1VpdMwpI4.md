@@ -1,55 +1,55 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- Global Organization of Parliamentarians Against Corruption
+- Monk School of Global Affairs
+- McGill University
+- Center for International Governance Innovation
+- House of Commons
+- Wilson Foundation
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- Toronto Star
+people:
+- Justin Trudeau
+- Mark Carney
+- Narendra Modi
+- Shannon Gormley
+- Akos Maharaj
+- Rohinton Madora
+- Donald Trump
+- Hardeep Singh Nijjar
+- Jim Hinton
+- Dan Surriak
+- Paul Martin
+- Manmohan Singh
+products_models:
+- Feminist International Assistance Policy
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=VW1VpdMwpI4
 speaker: TVO Today
-tags:
-  - foreign-policy-shift
-  - economic-diplomacy
-  - human-rights
-  - geopolitical-realignment
-  - trade-relations
-title: 加拿大外交政策新篇章：卡尼时代下的经济、人权与地缘政治权衡
-summary: 本文深入探讨了加拿大总理马克·卡尼执政下外交政策的显著转变，从前总理特鲁多时期的“女权主义外交政策”转向更侧重经济利益和地缘政治现实。文章分析了加拿大与印度重启贸易谈判、与阿联酋签订关键矿产协议等案例，并讨论了在追求全球贸易增长的同时，如何平衡经济考量与国际人权承诺的复杂挑战。专家们就加拿大在动荡世界中如何实现外交多元化、避免对单一国家过度依赖，以及在与非民主国家打交道时如何坚守价值观等议题，提供了深刻见解，强调了在长期战略中维护国家核心价值的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Justin Trudeau
-  - Mark Carney
-  - Narendra Modi
-  - Shannon Gormley
-  - Akos Maharaj
-  - Rohinton Madora
-  - Donald Trump
-  - Hardeep Singh Nijjar
-  - Jim Hinton
-  - Dan Surriak
-  - Paul Martin
-  - Manmohan Singh
-companies_orgs:
-  - TVO Today
-  - Global Organization of Parliamentarians Against Corruption
-  - Monk School of Global Affairs
-  - McGill University
-  - Center for International Governance Innovation
-  - House of Commons
-  - Wilson Foundation
-products_models:
-  - Feminist International Assistance Policy
-media_books:
-  - The Rundown
-  - Toronto Star
 status: evergreen
+summary: 本文深入探讨了加拿大总理马克·卡尼执政下外交政策的显著转变，从前总理特鲁多时期的“女权主义外交政策”转向更侧重经济利益和地缘政治现实。文章分析了加拿大与印度重启贸易谈判、与阿联酋签订关键矿产协议等案例，并讨论了在追求全球贸易增长的同时，如何平衡经济考量与国际人权承诺的复杂挑战。专家们就加拿大在动荡世界中如何实现外交多元化、避免对单一国家过度依赖，以及在与非民主国家打交道时如何坚守价值观等议题，提供了深刻见解，强调了在长期战略中维护国家核心价值的重要性。
+tags:
+- economic
+- foreign-policy-shift
+- geopolitical
+- human-right
+- relations
+title: 加拿大外交政策新篇章：卡尼时代下的经济、人权与地缘政治权衡
 ---
+
 ### 加拿大外交政策的转向：从女权主义到现实主义
 
 前总理贾斯廷·特鲁多曾多次表示，他是一位自豪的女权主义者，并希望其政府政策能体现这一点。因此，在2017年，他推出了一项名为**女权主义国际援助政策**（Feminist International Assistance Policy: 将女权主义视角应用于加拿大外交政策和国际发展）的倡议，将女权主义视角融入了加拿大的外交政策和国际发展中。现任总理马克·卡尼最近在被问及加拿大是否仍沿用这一视角时，他的回答引起了广泛关注。

@@ -1,42 +1,41 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Norges Bank
+- E24
+- Stortinget
+- FN
 date: '2025-08-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jens Stoltenberg
+- Nicolai Tangen
+- Torbjørn Røe Isaksen
+- Kristin Halvorsen
+products_models:
+- Statens pensjonsfond utland
+project:
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=0jioKD2goTg
 speaker: Norges Bank Investment Management
-tags:
-  - sovereign-wealth-fund
-  - ethical-investing
-  - geopolitical-risk
-  - fund-management
-  - norwegian-economy
-title: 挪威主权财富基金：在动荡时期平衡道德与利润
-summary: 挪威主权财富基金（油气基金）是全球最大的主权财富基金之一，管理着超过20万亿挪威克朗的资产。本次讨论深入探讨了该基金在当前动荡国际局势下的运作方式，包括其“指数化”投资策略、近期围绕以色列公司投资的道德争议及其处理方式。挪威财政部长延斯·斯托尔滕贝格和NBIM负责人尼古拉·坦根强调了基金的独立性、长期视角以及在道德框架内追求利润的平衡，同时讨论了地缘政治风险和未来挑战，以及“行动规则”对基金可持续性的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Jens Stoltenberg
-  - Nicolai Tangen
-  - Torbjørn Røe Isaksen
-  - Kristin Halvorsen
-companies_orgs:
-  - Norges Bank Investment Management
-  - Norges Bank
-  - E24
-  - Stortinget
-  - FN
-products_models:
-  - Statens pensjonsfond utland
-media_books: []
 status: evergreen
+summary: 挪威主权财富基金（油气基金）是全球最大的主权财富基金之一，管理着超过20万亿挪威克朗的资产。本次讨论深入探讨了该基金在当前动荡国际局势下的运作方式，包括其“指数化”投资策略、近期围绕以色列公司投资的道德争议及其处理方式。挪威财政部长延斯·斯托尔滕贝格和NBIM负责人尼古拉·坦根强调了基金的独立性、长期视角以及在道德框架内追求利润的平衡，同时讨论了地缘政治风险和未来挑战，以及“行动规则”对基金可持续性的重要性。
+tags:
+- economy
+- geopolitical-risk
+- investing
+- management
+- sovereign-wealth-fund
+title: 挪威主权财富基金：在动荡时期平衡道德与利润
 ---
+
 ### 欢迎与基金概览
 
 **Torbjørn Røe Isaksen:** 欢迎来到本次关于**石油基金**（Oljefondet: 挪威政府养老基金，俗称“石油基金”，全球最大的主权财富基金之一）的会议。

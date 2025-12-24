@@ -1,36 +1,36 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: general
+companies_orgs:
+- Gates Foundation
+- FDA
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Book of Why
+people:
+- Howard Wiener
+- Bill Gates
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=zgv3xvkkBY0
 speaker: 北美王路飞
-tags:
-  - statistical-distributions
-  - data-interpretation
-  - sampling-bias
-  - decision-making
-title: 数据如何“说谎”：从盖茨基金会谬误看懂统计陷阱与决策之道
-summary: 本文深入剖析了统计学中的正态分布与对数正态分布，揭示了数据“说谎”的常见陷阱，特别是小样本带来的波动误导。通过盖茨基金会“小学校”的案例，阐述了为何平均值在某些分布下毫无意义，以及乘法逻辑（如百分比加薪）如何加剧社会不平等。文章强调，理解数据形状是做出明智决策的关键，并提供三个核心问题帮助模型思考者辨别数据的真实含义，避免被统计表象所迷惑。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Howard Wiener
-  - Bill Gates
-companies_orgs:
-  - Gates Foundation
-  - FDA
-products_models: []
-media_books:
-  - The Book of Why
 status: evergreen
+summary: 本文深入剖析了统计学中的正态分布与对数正态分布，揭示了数据“说谎”的常见陷阱，特别是小样本带来的波动误导。通过盖茨基金会“小学校”的案例，阐述了为何平均值在某些分布下毫无意义，以及乘法逻辑（如百分比加薪）如何加剧社会不平等。文章强调，理解数据形状是做出明智决策的关键，并提供三个核心问题帮助模型思考者辨别数据的真实含义，避免被统计表象所迷惑。
+tags:
+- bias
+- data
+- decision-making
+- statistical-distribution
+title: 数据如何“说谎”：从盖茨基金会谬误看懂统计陷阱与决策之道
 ---
+
 ### 数据如何“说谎”：从盖茨基金会谬误看懂统计陷阱与决策之道
 
 如果你想改善教育，直觉会告诉你怎么做。上世纪90年代，许多慈善机构，包括大名鼎鼎的盖茨基金会，发现了一个惊人的数据规律：在所有学校里，那些成绩最好、表现最卓越的学校，往往都有一个共同点——它们规模都很小。这似乎太合理了：小学校嘛，老师关注度高，师生关系紧密，校园霸凌少。于是，大家投入了数亿美元，把大学校拆分成小学校，试图提高教学质量。

@@ -1,34 +1,32 @@
 ---
-author: Anthony看世界
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-09-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Ring of the Nibelung
+- Das Rheingold
+products_models:
+- Red Alert 3
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=VRdrKM4glyE
 speaker: Anthony看世界
-tags:
-  - love-psychology
-  - individuation
-  - anima-archetype
-  - cultural-archetypes
-  - projection-in-love
-title: 真爱如何促进个性化？荣格阿尼玛原型与中西方女神的心理学解读
-summary: 本视频探讨了爱的能力以及真爱如何促进个体的个性化发展。通过荣格心理学中的阿尼玛（Anima）原型，分析了成熟之爱与不成熟之爱的区别。视频还深入比较了西方女神与中国女神在文化和心理层面的差异，并阐释了阿尼玛投射与母性/幼态投射的根本不同，强调真正的爱是激发探索和成长的动力，而非控制与占有，最终引导个体摆脱束缚，活出真实的自我。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people: []
-companies_orgs: []
-products_models:
-  - Red Alert 3
-media_books:
-  - Ring of the Nibelung
-  - Das Rheingold
 status: evergreen
+summary: 本视频探讨了爱的能力以及真爱如何促进个体的个性化发展。通过荣格心理学中的阿尼玛（Anima）原型，分析了成熟之爱与不成熟之爱的区别。视频还深入比较了西方女神与中国女神在文化和心理层面的差异，并阐释了阿尼玛投射与母性/幼态投射的根本不同，强调真正的爱是激发探索和成长的动力，而非控制与占有，最终引导个体摆脱束缚，活出真实的自我。
+tags:
+- cultural
+- individuation
+- love
+- psychology
+- technology
+title: 真爱如何促进个性化？荣格阿尼玛原型与中西方女神的心理学解读
 ---
 
 ### 引言：爱的能力与个性化成长

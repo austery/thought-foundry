@@ -1,47 +1,46 @@
 ---
-author: 徒步的騎手
-date: 2025-06-28
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=VQ5xDfPUX3Y'
-speaker: 徒步的騎手
-tags:
-  - israel-iran-conflict
-  - military-strategy
-  - decapitation-strike
-  - geopolitical-deception
-  - nuclear-proliferation
-title: 揭秘以色列‘红色婚礼’斩首行动：纳尼亚、权力的游戏与国家意志的较量
-summary: 本文深入探讨了以色列对伊朗核设施及军事领导层发动的代号为“纳尼亚行动”和“红色婚礼”的斩首行动。文章揭示了这些行动背后的文化寓意、长达数十年的精心策划、情报渗透、军事训练以及巧妙的欺骗策略。通过分析以色列与伊朗截然不同的国家发展道路，文章最终引申至对人性、自由与奴役的深刻哲学思考，并强调了国家意志在现代冲突中的决定性作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - us-analysis
-people:
-  - C.S. Lewis
-  - 哈梅内伊
-  - 内塔尼亚胡
-  - 霍梅尼
-  - 亚里士多德
-  - Donald Trump
+category: geopolitics
 companies_orgs:
-  - The Wall Street Journal
-  - 哈马斯
-  - 真主党
-  - 伊朗革命卫队
-products_models: '[]'
+- The Wall Street Journal
+- 哈马斯
+- 真主党
+- 伊朗革命卫队
+date: 2025-06-28
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Inside Operation Narnia
-  - 《指环王》
-  - 《哈利·波特》
-  - 《纳尼亚传奇》
-  - 《权力的游戏》
+- Inside Operation Narnia
+- 《指环王》
+- 《哈利·波特》
+- 《纳尼亚传奇》
+- 《权力的游戏》
+people:
+- C.S. Lewis
+- 哈梅内伊
+- 内塔尼亚胡
+- 霍梅尼
+- 亚里士多德
+- Donald Trump
+products_models: '[]'
+project:
+- geopolitics-watch
+- historical-insights
+- us-analysis
+series: ''
+source: https://www.youtube.com/watch?v=VQ5xDfPUX3Y
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了以色列对伊朗核设施及军事领导层发动的代号为“纳尼亚行动”和“红色婚礼”的斩首行动。文章揭示了这些行动背后的文化寓意、长达数十年的精心策划、情报渗透、军事训练以及巧妙的欺骗策略。通过分析以色列与伊朗截然不同的国家发展道路，文章最终引申至对人性、自由与奴役的深刻哲学思考，并强调了国家意志在现代冲突中的决定性作用。
+tags:
+- code
+- conflict
+- geopolitical
+- nuclear-proliferation
+- strategy
+title: 揭秘以色列‘红色婚礼’斩首行动：纳尼亚、权力的游戏与国家意志的较量
 ---
 
 ### 军事行动代号背后的文化寓意

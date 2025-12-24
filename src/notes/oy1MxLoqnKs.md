@@ -1,43 +1,43 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- FBI
+- 联合国
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 古巴导弹危机演讲
+people:
+- 罗宾·德里克
+- 利奥
+- 维克多
+- 谢尔盖
+- 杰西
+- 安南
+- 肯尼迪总统
+products_models:
+- '《Sizing People Up: A Behavioral Prediction User''s Manual for an FBI Agent》'
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=oy1MxLoqnKs
 speaker: 北美王路飞
-tags:
-  - human-behavior-prediction
-  - trust-building
-  - interpersonal-relationships
-  - vesting-interest
-  - long-term-relationships
-title: FBI识人术：掌握‘投入’与‘长远关系’两大核心信号，精准预测人性
-summary: 本文深入探讨了FBI前探员罗宾·德里克提出的两大识人核心信号：‘投入’（Vesting）和‘长远关系’（Longevity）。通过分析一个人是否相信你的成功能让他受益，以及他是否预期与你建立长期关系，我们可以更准确地预测其行为动机。文章结合FBI的真实案例，并提供了识别这两种信号的积极与消极线索，旨在帮助读者建立更稳固、可靠的人际关系，而非进行操纵。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 罗宾·德里克
-  - 利奥
-  - 维克多
-  - 谢尔盖
-  - 杰西
-  - 安南
-  - 肯尼迪总统
-companies_orgs:
-  - FBI
-  - 联合国
-products_models:
-  - '《Sizing People Up: A Behavioral Prediction User''s Manual for an FBI Agent》'
-media_books:
-  - 古巴导弹危机演讲
 status: evergreen
+summary: 本文深入探讨了FBI前探员罗宾·德里克提出的两大识人核心信号：‘投入’（Vesting）和‘长远关系’（Longevity）。通过分析一个人是否相信你的成功能让他受益，以及他是否预期与你建立长期关系，我们可以更准确地预测其行为动机。文章结合FBI的真实案例，并提供了识别这两种信号的积极与消极线索，旨在帮助读者建立更稳固、可靠的人际关系，而非进行操纵。
+tags:
+- human
+- long
+- relationship
+- trust-building
+- vesting-interest
+title: FBI识人术：掌握‘投入’与‘长远关系’两大核心信号，精准预测人性
 ---
+
 ### 识人核心：洞察“投入”与“自身利益”
 
 大家好，欢迎来到我的频道。今天我们继续深入探讨FBI前探员罗宾·德里克所著的《Sizing People Up》一书的第三集内容。作者强调了一个最核心的信号，他称之为**投入**（Vesting: 指一个人相信你的成功会让他也受益的心理状态）。简单来说，就是要判断眼前这个人是否相信你的成功会让他也受益，即你们俩的利益是否一致。

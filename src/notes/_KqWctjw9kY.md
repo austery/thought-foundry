@@ -1,36 +1,34 @@
 ---
-author: 老周横眉
+area: market-analysis
+category: finance
+companies_orgs:
+- 银行
+- 中央银行
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Excel
+project:
+- investment-strategy
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=_KqWctjw9kY
 speaker: 老周横眉
-tags:
-  - time-value-of-money
-  - internal-rate-of-return
-  - opportunity-cost
-  - financial-literacy
-  - investment-decision-making
-title: 学校不教、父母不懂的金融知识：普通人如何用时间价值、IRR等概念实现财富逆袭
-summary: 本视频深入探讨了学校不教、父母不懂的实用金融知识，包括金钱的时间价值、未来价值、现值、机会成本和内部收益率（IRR）等核心概念。通过彩票选择、房贷、租房、股票投资及贷款利率等多个实际案例，详细阐述了如何运用这些工具进行正确的投资测算和决策，帮助普通人理解现金流的时点价值，避免常见的财务误区，从而提升财富管理能力，实现个人逆袭。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - personal-growth-lab
-  - systems-thinking
-people: []
-companies_orgs:
-  - 银行
-  - 中央银行
-products_models:
-  - Excel
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了学校不教、父母不懂的实用金融知识，包括金钱的时间价值、未来价值、现值、机会成本和内部收益率（IRR）等核心概念。通过彩票选择、房贷、租房、股票投资及贷款利率等多个实际案例，详细阐述了如何运用这些工具进行正确的投资测算和决策，帮助普通人理解现金流的时点价值，避免常见的财务误区，从而提升财富管理能力，实现个人逆袭。
+tags:
+- financial-literacy
+- investment-decision-making
+- opportunity-cost
+- rate
+- value
+title: 学校不教、父母不懂的金融知识：普通人如何用时间价值、IRR等概念实现财富逆袭
 ---
+
 ## 学历贬值时代，普通人必须掌握的金融知识
 
 老周横眉：两周前，我给大家分析了中国失控的青年失业率。在学历贬值（学历贬值：指学历的实际价值和社会认可度下降，高学历不再能保证高收入和好工作的现象）已经成为既定现实，并且预计将会持续很长一段时间的情况下，评论区里很多年轻人和家长都觉得很迷茫，不知道未来的路要怎么走。

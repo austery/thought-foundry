@@ -1,34 +1,31 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 财政部
+- 央行
 date: '2024-10-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=t7bOcUvDfeE
 speaker: 海淀拙大叔
-tags:
-  - m1-money-supply
-  - stock-market-prediction
-  - economic-indicators
-  - monetary-policy
-  - china-economy
-title: 狭义货币M1：预测中国股市底部的重要指标与当前展望
-summary: 本文深入探讨了狭义货币供应量M1在中国股市预测中的关键作用。通过对比M1与M2，阐释了M1作为经济活动前瞻指标的重要性，尤其体现在企业活期存款的变化上。文章回顾了M1历史低点与股市底部的高度相关性，并结合当前M1数据，分析了未来股市可能出现的两种复苏路径，强调M1的触底回升对资本市场具有重大积极意义。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs:
-  - 财政部
-  - 央行
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了狭义货币供应量M1在中国股市预测中的关键作用。通过对比M1与M2，阐释了M1作为经济活动前瞻指标的重要性，尤其体现在企业活期存款的变化上。文章回顾了M1历史低点与股市底部的高度相关性，并结合当前M1数据，分析了未来股市可能出现的两种复苏路径，强调M1的触底回升对资本市场具有重大积极意义。
+tags:
+- china-economy
+- economic-indicator
+- investment
+- stock-market-prediction
+title: 狭义货币M1：预测中国股市底部的重要指标与当前展望
 ---
+
 ### 近期经济数据与M1的重要性
 
 周末期间，多项重要新闻发布。**财政部**召开了新闻发布会，蓝部长在会上表达了对经济的信心，这至少符合我们对未来货币政策的预期。同时，**消费者物价指数**（CPI: Consumer Price Index，衡量居民消费价格变动的指标）数据显示同比增长0.4%，环比持平，表现尚可。然而，**生产者物价指数**（PPI: Producer Price Index，衡量工业企业产品出厂价格变动的指标）同比下降2.8%，环比下降0.6%，仍在继续下滑。PPI是一个滞后指标，而前瞻指标，即货币指标，早在4月份就开始明显下滑并出现负增长，因此PPI的持续下滑是前瞻指标运行的结果。

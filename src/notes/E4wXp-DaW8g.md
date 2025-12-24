@@ -1,92 +1,93 @@
 ---
-author: The Knowledge Project Podcast
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=E4wXp-DaW8g'
-speaker: The Knowledge Project Podcast
-tags:
-  - forensic-accounting
-  - market-euphoria
-  - financial-bubbles
-  - circular-financing
-  - investment-risk
-title: 顶级法务会计师的警告：当前 AI 狂热与未来的市场崩盘
-summary: 顶级法务会计师安东尼·斯基利波蒂 (Anthony Scilipoti) 深入剖析了当前由 AI 引发的市场狂热。他凭借预测 Valiant 制药和 Nortel 倒闭的经验，指出当今市场与互联网泡沫时期惊人地相似，尤其是在循环融资和无视基本面的现象上。斯基利波蒂警告说，AI 虽然是强大的工具，但也可能加剧分析师的认知盲点，导致他们忽视财务报表附注中的危险信号。他强调，经验、判断力和对基本面的深刻理解，在识别“可燃项”和避免灾难性损失方面，比以往任何时候都更加重要。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - historical-insights
-people:
-  - Anthony Scilipoti
-  - Shane Parish
-  - Al Rosen
-  - Steve Schwarzman
-  - Warren Buffett
-  - Ray Dalio
-  - Alish Schroeder
-  - John Roth
-  - Mike Pearson
-  - Porter Collins
-  - Eugene Melnik
-  - Andrew Fastow
-  - Paul Kuzzac
-  - Tim Grover
-  - Donald Trump
-  - Jerome Powell
+category: finance
 companies_orgs:
-  - Nortel
-  - Lucent
-  - Cisco
-  - 360networks
-  - Valiant Pharmaceuticals
-  - Arthur Andersen
-  - Enron
-  - York University
-  - Veritas
-  - Microsoft
-  - OpenAI
-  - CoreWeave
-  - JPMorgan
-  - GoDaddy
-  - Namecheap
-  - Cloudflare
-  - Basecamp
-  - Walmart
-  - Target
-  - Lululemon
-  - Starbucks
-  - AMD
-  - SEC
-  - FASB
-  - PCAOB
-  - IFRS
-  - CPAB
-  - Apple
-  - Bloomberg
-  - FactSet
-  - Berkshire Hathaway
-  - Geico
-  - NFL
-products_models:
-  - ChatGPT
-  - VIX
-  - S&P 500
-  - Magnificent Seven
-  - Remarkable Paper Pro Move
+- Nortel
+- Lucent
+- Cisco
+- 360networks
+- Valiant Pharmaceuticals
+- Arthur Andersen
+- Enron
+- York University
+- Veritas
+- Microsoft
+- OpenAI
+- CoreWeave
+- JPMorgan
+- GoDaddy
+- Namecheap
+- Cloudflare
+- Basecamp
+- Walmart
+- Target
+- Lululemon
+- Starbucks
+- AMD
+- SEC
+- FASB
+- PCAOB
+- IFRS
+- CPAB
+- Apple
+- Bloomberg
+- FactSet
+- Berkshire Hathaway
+- Geico
+- NFL
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Knowledge Project
-  - The Big Short
-  - Dumb Money
-  - The FactFinders
-  - Winning
+- The Knowledge Project
+- The Big Short
+- Dumb Money
+- The FactFinders
+- Winning
+people:
+- Anthony Scilipoti
+- Shane Parish
+- Al Rosen
+- Steve Schwarzman
+- Warren Buffett
+- Ray Dalio
+- Alish Schroeder
+- John Roth
+- Mike Pearson
+- Porter Collins
+- Eugene Melnik
+- Andrew Fastow
+- Paul Kuzzac
+- Tim Grover
+- Donald Trump
+- Jerome Powell
+products_models:
+- ChatGPT
+- VIX
+- S&P 500
+- Magnificent Seven
+- Remarkable Paper Pro Move
+project:
+- investment-strategy
+- market-cycles
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=E4wXp-DaW8g
+speaker: The Knowledge Project Podcast
 status: evergreen
+summary: 顶级法务会计师安东尼·斯基利波蒂 (Anthony Scilipoti) 深入剖析了当前由 AI 引发的市场狂热。他凭借预测 Valiant 制药和
+  Nortel 倒闭的经验，指出当今市场与互联网泡沫时期惊人地相似，尤其是在循环融资和无视基本面的现象上。斯基利波蒂警告说，AI 虽然是强大的工具，但也可能加剧分析师的认知盲点，导致他们忽视财务报表附注中的危险信号。他强调，经验、判断力和对基本面的深刻理解，在识别“可燃项”和避免灾难性损失方面，比以往任何时候都更加重要。
+tags:
+- circular-financing
+- financial
+- forensic-accounting
+- investment-risk
+- market
+title: 顶级法务会计师的警告：当前 AI 狂热与未来的市场崩盘
 ---
+
 ### AI 狂热与历史重演的警示
 
 我讨厌把什么都叫做泡沫，但我认为我们正处在一个极度亢奋的时期。当你和投资者交流时，他们会说数字不重要了，财务报表也不重要了，因为“这次不一样”，世界正在被改变。我会说，嗯，我以前见过这种情况。

@@ -1,33 +1,32 @@
 ---
-title: 新西兰财政部长尼古拉·威利斯：重塑经济基础与未来愿景
-summary: 新西兰财政部长尼古拉·威利斯在访谈中讨论了新西兰经济面临的挑战与复苏策略，包括财政整顿、投资促进、住房市场改革及央行透明度提升。她强调了政府在可持续增长和长期责任方面的承诺。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- fiscal-policy
-- housing-market
-- monetary-policy
-- new-zealand-economy
-people:
-- nicola-willis
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-15'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+people:
+- nicola-willis
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=ogwjRtyZIrM
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 新西兰财政部长尼古拉·威利斯在访谈中讨论了新西兰经济面临的挑战与复苏策略，包括财政整顿、投资促进、住房市场改革及央行透明度提升。她强调了政府在可持续增长和长期责任方面的承诺。
+tags:
+- economy
+- fiscal-policy
+- housing-market
+title: 新西兰财政部长尼古拉·威利斯：重塑经济基础与未来愿景
 ---
+
 ### 新西兰经济现状与政府应对
 
 Rebecca Jones: 大家好，我是Rebecca Jones。您将要听到本月早些时候在新西兰奥克兰现场录制的一集特别奖励剧集。是的，我知道这是澳大利亚播客，但目前该地区很少有经济体像新西兰一样受到如此密切的关注。我们的太平洋邻国正在应对通胀压力、生产力挑战和不断变化的全球环境，这就是为什么您即将听到的对话如此及时。新西兰财政部长兼国家党副领袖尼古拉·威利斯在挤满观众的现场接受了我们惠灵顿分社社长马修·布罗克特(Matthew Brockett)的现场采访。以下是她所说的话。

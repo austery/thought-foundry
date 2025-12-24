@@ -1,50 +1,51 @@
 ---
-author: Joseph Wang
+area: market-analysis
+category: finance
+companies_orgs:
+- S&P 500
+- FOMC
+- San Francisco Fed
+- Oracle
+- Coreweave
+- Meta
+- Google
+- Amazon
+- Nvidia
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+people:
+- Michael Burry
+- Christian Bale
+- Nick Timiraos
+- John Williams
+- Powell
+- Governor Moran
+products_models:
+- GPU
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=0ytZ115uBrM
 speaker: Joseph Wang
-tags:
-  - fed-policy
-  - rate-cuts
-  - ai-bubble
-  - market-volatility
-  - economic-data
-title: 市场周报：美联储降息前景与AI叙事中的裂痕
-summary: 本周市场波动，政府停摆结束但部分数据缺失。美联储12月降息概率降至50%，因官员鹰派言论及对通胀和就业市场的不确定性。同时，AI叙事出现裂痕，部分AI公司信用违约互换利差扩大，且知名空头Michael Burry质疑科技公司GPU折旧期限过长，可能虚报利润。尽管如此，大型科技公司现金流充裕，市场仍可能受数据和财报影响迎来年底反弹。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Michael Burry
-  - Christian Bale
-  - Nick Timiraos
-  - John Williams
-  - Powell
-  - Governor Moran
-companies_orgs:
-  - S&P 500
-  - FOMC
-  - San Francisco Fed
-  - Oracle
-  - Coreweave
-  - Meta
-  - Google
-  - Amazon
-  - Nvidia
-products_models:
-  - GPU
-media_books:
-  - The Wall Street Journal
 status: evergreen
+summary: 本周市场波动，政府停摆结束但部分数据缺失。美联储12月降息概率降至50%，因官员鹰派言论及对通胀和就业市场的不确定性。同时，AI叙事出现裂痕，部分AI公司信用违约互换利差扩大，且知名空头Michael
+  Burry质疑科技公司GPU折旧期限过长，可能虚报利润。尽管如此，大型科技公司现金流充裕，市场仍可能受数据和财报影响迎来年底反弹。
+tags:
+- ai-bubble
+- economic-datum
+- fed-policy
+- market-volatility
+- rate
+title: 市场周报：美联储降息前景与AI叙事中的裂痕
 ---
+
 ### 市场概览与本周焦点
 
 大家好，今天是11月15日，这是本周的市场周报。过去一周，市场再次经历了激动人心的时刻。我们终于迎来了美国历史上最长的**政府停摆**（Government Shutdown）的结束。

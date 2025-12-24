@@ -1,54 +1,54 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: general
+companies_orgs:
+- OpenAI
+- YC
+- Anthropic
+- Stripe
+- SSI
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+people:
+- Elon Musk
+- Sam Altman
+- Ilya Sutskever
+- Mira Murati
+- Adam D'Angelo
+- Helen Toner
+- Tasha McCauley
+- Greg Brockman
+- Brad Lightcap
+- Jason Kwon
+- Daniela Amodei
+- Dario Amodei
+- Simona Agnolocci
+- musk-lawsuit
+products_models:
+- ChatGPT
+- GPT-4 Turbo
+project:
+- us-analysis
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=d_qRrlPwKSk
 speaker: Best Partners TV
-tags:
-  - openai-governance
-  - corporate-power-struggle
-  - ai-ethics
-  - musk-lawsuit
-  - board-inexperience
-title: OpenAI“宫斗”内幕再揭：伊利亚62页证词曝光权力博弈与治理困境
-summary: 两年前OpenAI罢免Sam Altman的风波再起波澜。埃隆·马斯克起诉Sam Altman的诉讼案中，OpenAI前首席科学家伊利亚·萨茨克维尔一份长达62页的证词浮出水面。这份证词不仅揭露了罢免事件的深层原因，包括奥特曼被指控的诚信问题和管理方式，还曝光了董事会经验不足、曾考虑与竞争对手Anthropic合并等惊人内幕，为AI行业的治理与权力平衡提供了深刻的反思样本。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Elon Musk
-  - Sam Altman
-  - Ilya Sutskever
-  - Mira Murati
-  - Adam D'Angelo
-  - Helen Toner
-  - Tasha McCauley
-  - Greg Brockman
-  - Brad Lightcap
-  - Jason Kwon
-  - Daniela Amodei
-  - Dario Amodei
-  - Simona Agnolocci
-companies_orgs:
-  - OpenAI
-  - YC
-  - Anthropic
-  - Stripe
-  - SSI
-products_models:
-  - ChatGPT
-  - GPT-4 Turbo
-media_books:
-  - 《华尔街日报》
 status: evergreen
+summary: 两年前OpenAI罢免Sam Altman的风波再起波澜。埃隆·马斯克起诉Sam Altman的诉讼案中，OpenAI前首席科学家伊利亚·萨茨克维尔一份长达62页的证词浮出水面。这份证词不仅揭露了罢免事件的深层原因，包括奥特曼被指控的诚信问题和管理方式，还曝光了董事会经验不足、曾考虑与竞争对手Anthropic合并等惊人内幕，为AI行业的治理与权力平衡提供了深刻的反思样本。
+tags:
+- ai-ethics
+- openai-governance
+- power
+- technology
+title: OpenAI“宫斗”内幕再揭：伊利亚62页证词曝光权力博弈与治理困境
 ---
+
 ### OpenAI罢免风波再起：伊利亚62页证词揭秘
 
 大家好，这里是最佳拍档，我是大飞。没想到两年前的Sam Altman罢免风波，到今天还能继续吃瓜。在最近埃隆·马斯克（Elon Musk）起诉山姆·奥特曼（Sam Altman）的诉讼案中，公布了伊利亚·萨茨克维尔（Ilya Sutskever）一份长达62页的最新证词，可以说罢免风波的内幕被扒了个底朝天。这份证词是伊利亚以视频形式提交的作证记录，而他的身份也很特殊，既是案件的证人，也是被告。

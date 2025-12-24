@@ -1,51 +1,52 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- Rocket Lab
+- CoreWave
+- SpaceX
+- SDA
+- NVIDIA
+- Microsoft
+- OpenAI
+- Meta
+- Nabius
+- IronCypher
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money or Life 美股频道
+- Patreon
+- Futu Moomoo
+people:
+- Peter Beck
+products_models:
+- Neutron
+- Electron
+- Archimedes
+- A700
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=pjzRJ-CczuQ
 speaker: Money or Life 美股频道
-tags:
-  - earnings-report
-  - stock-performance
-  - space-industry
-  - ai-infrastructure
-  - investment-thesis
-title: RKLB火箭实验室财报分析：中子火箭推迟为何股价仍暴涨？CoreWave财报与投资观点不变
-summary: 本期视频深入分析了Rocket Lab (RKLB) 和 CoreWave (CRWV) 两家公司的最新财报。RKLB营收和EPS均超预期，Space Systems业务表现亮眼，SDA大合同预期强烈，尽管中子火箭推迟至2026年Q1，股价仍大幅上涨。CoreWave营收和EPS同样超预期，但因数据中心交付延迟下调全年指引，股价下跌。然而，其营收积压强劲，客户多元化策略明确，并有英伟达的合同兜底。视频强调了在市场波动中坚守投资原则的重要性，并分享了对两家公司财报后的投资观点。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Peter Beck
-companies_orgs:
-  - Rocket Lab
-  - CoreWave
-  - SpaceX
-  - SDA
-  - NVIDIA
-  - Microsoft
-  - OpenAI
-  - Meta
-  - Nabius
-  - IronCypher
-products_models:
-  - Neutron
-  - Electron
-  - Archimedes
-  - A700
-media_books:
-  - Money or Life 美股频道
-  - Patreon
-  - Futu Moomoo
 status: evergreen
+summary: 本期视频深入分析了Rocket Lab (RKLB) 和 CoreWave (CRWV) 两家公司的最新财报。RKLB营收和EPS均超预期，Space
+  Systems业务表现亮眼，SDA大合同预期强烈，尽管中子火箭推迟至2026年Q1，股价仍大幅上涨。CoreWave营收和EPS同样超预期，但因数据中心交付延迟下调全年指引，股价下跌。然而，其营收积压强劲，客户多元化策略明确，并有英伟达的合同兜底。视频强调了在市场波动中坚守投资原则的重要性，并分享了对两家公司财报后的投资观点。
+tags:
+- ai-infrastructure
+- earnings-report
+- industry
+- investment-thesis
+- stock
+title: RKLB火箭实验室财报分析：中子火箭推迟为何股价仍暴涨？CoreWave财报与投资观点不变
 ---
+
 ### 两大公司财报速览：RKLB与CRWV
 
 大家好，欢迎来到Money or Life美股频道。本期视频将重点关注两家公司——RKLB**火箭实验室**（Rocket Lab）和**CoreWave**（CRWV）——最新发布的三份财报。目前，本人对这两家公司均持有仓位，特别是对火箭实验室关注已久，且持仓较重。接下来，我将为大家总结财报的重点信息，并分享财报发布后我的投资观点是否有所变化。如果你喜欢我的分享，请订阅Money or Life美股频道，这是对我视频创作的最大支持，感谢大家。

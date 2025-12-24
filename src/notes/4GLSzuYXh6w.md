@@ -1,73 +1,71 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Microsoft
+- OpenAI
+- Sun Microsystems
+- Amazon
+- Oracle
+- IBM
+- Google
+- Netscape
+- Anduril
 date: '2025-02-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Nature
+people:
+- Satya Nadella
+- Sam Altman
+- Bill Gates
+- Mustafa Suleyman
+- David Autor
+- Reed Hoffman
+- Herbert Simon
+- Phil Spencer
+- Katja Hofmann
+- Palmer Luckey
+- Andreessen
+products_models:
+- Windows NT
+- Win32
+- Mosaic
+- HTML
+- Word
+- Azure
+- ChatGPT
+- Copilot
+- GPT-4
+- DeepSeek
+- SQL Server
+- Teams
+- SharePoint
+- Microsoft Graph
+- Dall-E
+- Sora
+- Muse
+- Xbox
+- Flight Simulator
+- IVAS
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=4GLSzuYXh6w
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - quantum-computing
-  - hyperscale
-  - business-model
-  - ai-agent
-title: 微软CEO萨提亚·纳德拉：AI战略、量子计算突破与企业文化的长青之道
-summary: 微软CEO萨提亚·纳德拉在播客中深入探讨了AI和量子计算两大前沿领域的最新进展。他分享了微软在AI基础设施、模型发展及商业模式上的战略思考，强调了超大规模计算的重要性，并预测AI将推动全球GDP增长。同时，他详细介绍了微软在**Majorana零模**量子芯片上的突破，以及游戏世界模型**Muse**。纳德拉还讨论了AI部署中的法律与社会信任挑战，以及微软如何通过“再创业”文化保持长青。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Satya Nadella
-  - Dwarkesh Patel
-  - Sam Altman
-  - Bill Gates
-  - Mustafa Suleyman
-  - David Autor
-  - Reed Hoffman
-  - Herbert Simon
-  - Phil Spencer
-  - Katja Hofmann
-  - Palmer Luckey
-  - Andreessen
-companies_orgs:
-  - Microsoft
-  - OpenAI
-  - Sun Microsystems
-  - Amazon
-  - Oracle
-  - IBM
-  - Google
-  - Netscape
-  - Anduril
-products_models:
-  - Windows NT
-  - Win32
-  - Mosaic
-  - HTML
-  - Word
-  - Azure
-  - ChatGPT
-  - Copilot
-  - GPT-4
-  - DeepSeek
-  - SQL Server
-  - Teams
-  - SharePoint
-  - Microsoft Graph
-  - Dall-E
-  - Sora
-  - Muse
-  - Xbox
-  - Flight Simulator
-  - IVAS
-media_books:
-  - Nature
 status: evergreen
+summary: 微软CEO萨提亚·纳德拉在播客中深入探讨了AI和量子计算两大前沿领域的最新进展。他分享了微软在AI基础设施、模型发展及商业模式上的战略思考，强调了超大规模计算的重要性，并预测AI将推动全球GDP增长。同时，他详细介绍了微软在**Majorana零模**量子芯片上的突破，以及游戏世界模型**Muse**。纳德拉还讨论了AI部署中的法律与社会信任挑战，以及微软如何通过“再创业”文化保持长青。
+tags:
+- ai-agent
+- business-model
+- hyperscale
+- quantum-computing
+title: 微软CEO萨提亚·纳德拉：AI战略、量子计算突破与企业文化的长青之道
 ---
+
 ### 科技浪潮的轮回与微软的早期布局
 
 **Dwarkesh**，非常感谢你来参加我的播客。稍后我们将讨论**微软**刚刚取得的两项突破，恭喜你们，这两项成果在同一天发表于《**自然**》杂志：一个是**Majorana零模芯片**，就在我们面前，另一个是世界人类行为模型。但我们能否先继续刚才的对话？你正在描述你在80年代和90年代看到的一些现象，如今它们又再次出现。

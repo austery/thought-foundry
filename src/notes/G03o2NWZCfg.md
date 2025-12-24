@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
+area: society-thinking
+category: politics-society
+companies_orgs:
+- NBC
+- 华盛顿邮报
+- ABC
+- 经济学人
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《荀子》
+people:
+- Donald Trump
+- Max Weber
+- 王硕
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=G03o2NWZCfg
 speaker: 徒步的騎手
-tags:
-  - us-public-opinion
-  - presidential-approval
-  - political-polarization
-  - constitutional-rights
-  - economic-concerns
-title: 美国民意深度解析：川普支持率下滑，选民双重焦虑下的政治走向
-summary: 本文结合NBC、《华盛顿邮报》/ABC和《经济学人》三家民调结果，深入分析了美国选民对唐纳德·川普政府、共和党和民主党的态度变化。报告指出，川普支持率大幅下滑，选民对经济民生和宪法权利双重焦虑。同时，选民对民主党的厌恶甚至超过共和党，反映出美国政治的“无家可归”状态。文章强调，尽管民意如流水，但美国宪政民主的河床和核心价值观保持不变，多数温和选民仍是政治中道回归的坚实基础。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Max Weber
-  - 王硕
-companies_orgs:
-  - NBC
-  - 华盛顿邮报
-  - ABC
-  - 经济学人
-products_models: []
-media_books:
-  - 《荀子》
 status: evergreen
+summary: 本文结合NBC、《华盛顿邮报》/ABC和《经济学人》三家民调结果，深入分析了美国选民对唐纳德·川普政府、共和党和民主党的态度变化。报告指出，川普支持率大幅下滑，选民对经济民生和宪法权利双重焦虑。同时，选民对民主党的厌恶甚至超过共和党，反映出美国政治的“无家可归”状态。文章强调，尽管民意如流水，但美国宪政民主的河床和核心价值观保持不变，多数温和选民仍是政治中道回归的坚实基础。
+tags:
+- code
+- economic
+- right
+- us-public-opinion
+title: 美国民意深度解析：川普支持率下滑，选民双重焦虑下的政治走向
 ---
+
 ### 美国民意新趋势：川普支持率大跌与选民双重焦虑
 
 一转眼就11月了，仿佛今年什么都还没做就已经快过完。11月的第一个周末，美国几家民调机构公布了10月末的民调结果，主要媒体都做了报道。虽然具体数字不完全一样，但几家民调显示的趋势是一致的：民意正在变化，唐纳德·川普总统的支持率大幅下滑。虽然他本人嘴上说自己的支持率很高，但八成也能体会到民意如流水。美国的主要民调都有媒体冠名，但一般不是媒体自己做的，而是媒体委托专业民调机构来做，结果并不反映媒体的倾向。本期节目将结合三家民调结果来看美国民意的变化。为了简便，我们只说冠名媒体的名字，它们分别是：第一家NBC，第二家《华盛顿邮报》和ABC，第三家《经济学人》。将这些数据放在一起，能大致浮现出一幅眼下美国的政治图景：选民关心的问题是什么？在哪些问题上选民不再支持川普？从去年大选到现在，民意在哪些方面摇摆最大？在哪些方面变化不大？年轻人、中年人、老年人、男性、女性、上学多的、上学少的、白人、黑人、拉丁裔人这些不同的选民群体，哪些摇摆最大？哪些变化最小？为什么会有这种变化？

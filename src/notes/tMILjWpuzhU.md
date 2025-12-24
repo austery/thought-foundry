@@ -1,50 +1,49 @@
 ---
-author: Anthony看世界
+area: society-thinking
+category: history
+companies_orgs: []
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Imagined Communities》
+- 《The Revolutionary Army》
+- 《The Empire of Affirmative Action》
+- 《Dislocating China》
+people:
+- Anthony
+- Eating Melon Master
+- Benedict Anderson
+- Zhang Taiyan
+- Zou Rong
+- Sun Yat-sen
+- Liu Bei
+- Zhuge Liang
+- Shunzhi
+- Kangxi Emperor
+- Zhu Yuanzhang
+- Mao Zedong
+- Lenin
+- Stalin
+- Professor Drew
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=tMILjWpuzhU
 speaker: Anthony看世界
-tags:
-  - nationalism
-  - history
-  - han-chauvinism
-  - victim-narrative
-  - pseudo-history
-title: 21世纪的中国人为何还在“反清复明”？皇汉史观与西方伪史论：中国的民族主义为何如此愚昧？谁才是真正的中国人？｜历史｜哲学｜社会学｜民族主义｜
-summary: 本视频深入剖析了当代中国流行的“皇汉史观”和“西方伪史论”，探讨了其根源——一种基于历史虚构和民族仇恨的受害者叙事。主持人追溯了这种史观的形成过程，从晚清革命动员到现代民族国家构建，揭示了其如何扭曲了中国民族主义的本质，并批判了其对历史的歪曲和对文明的破坏性认知。视频还分析了中国多民族国家构建的复杂性及其内在矛盾。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - Anthony
-  - Eating Melon Master
-  - Benedict Anderson
-  - Zhang Taiyan
-  - Zou Rong
-  - Sun Yat-sen
-  - Liu Bei
-  - Zhuge Liang
-  - Shunzhi
-  - Kangxi Emperor
-  - Zhu Yuanzhang
-  - Mao Zedong
-  - Lenin
-  - Stalin
-  - Professor Drew
-companies_orgs: []
-products_models: []
-media_books:
-  - 《Imagined Communities》
-  - 《The Revolutionary Army》
-  - 《The Empire of Affirmative Action》
-  - 《Dislocating China》
 status: evergreen
+summary: 本视频深入剖析了当代中国流行的“皇汉史观”和“西方伪史论”，探讨了其根源——一种基于历史虚构和民族仇恨的受害者叙事。主持人追溯了这种史观的形成过程，从晚清革命动员到现代民族国家构建，揭示了其如何扭曲了中国民族主义的本质，并批判了其对历史的歪曲和对文明的破坏性认知。视频还分析了中国多民族国家构建的复杂性及其内在矛盾。
+tags:
+- han-chauvinism
+- history
+- narrative
+- nationalism
+title: 21世纪的中国人为何还在“反清复明”？皇汉史观与西方伪史论：中国的民族主义为何如此愚昧？谁才是真正的中国人？｜历史｜哲学｜社会学｜民族主义｜
 ---
+
 大家好，我是Anthony。欢迎来到我的频道。
 
 ### 皇汉史观的兴起

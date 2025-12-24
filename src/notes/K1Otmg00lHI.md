@@ -1,39 +1,39 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- New England Journal of Medicine
+people:
+- Elon Musk
+- Serena Williams
+products_models:
+- Mounjaro
+- Ozempic
+- Wegovy
+- InBody
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=K1Otmg00lHI
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - slimming-injection
-  - weight-loss-drug
-  - insulin-resistance
-  - rebound-weight-gain
-  - lifestyle-changes
-title: 瘦瘦針真相：醫師揭秘減肥針的隱藏說明書與常見誤解
-summary: 本文由李唐越醫師深入解析時下流行的瘦瘦針（如猛健樂、胰妥讚、週纖達），釐清其減重原理、真實效果與潛在風險。醫師強調，瘦瘦針是處方藥物，並非萬靈丹，停藥後易復胖，且需搭配飲食、運動等健康生活方式。文章駁斥了致癌、掉肌肉等謠言，並提醒大眾注意藥物來源與專業評估的重要性，強調個人化減重策略才是長期維持健康的關鍵。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project: []
-people:
-  - Elon Musk
-  - Serena Williams
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models:
-  - Mounjaro
-  - Ozempic
-  - Wegovy
-  - InBody
-media_books:
-  - New England Journal of Medicine
 status: evergreen
+summary: 本文由李唐越醫師深入解析時下流行的瘦瘦針（如猛健樂、胰妥讚、週纖達），釐清其減重原理、真實效果與潛在風險。醫師強調，瘦瘦針是處方藥物，並非萬靈丹，停藥後易復胖，且需搭配飲食、運動等健康生活方式。文章駁斥了致癌、掉肌肉等謠言，並提醒大眾注意藥物來源與專業評估的重要性，強調個人化減重策略才是長期維持健康的關鍵。
+tags:
+- change
+- insulin-resistance
+- llm
+- loss
+- slimming-injection
+title: 瘦瘦針真相：醫師揭秘減肥針的隱藏說明書與常見誤解
 ---
+
 ### 瘦瘦針是什麼？揭開減肥藥物的面紗
 
 特斯拉的執行長伊隆馬斯克，以及美國網球天后小威廉斯，他們有什麼共通點？答案是，兩人都曾使用過所謂的**瘦瘦針**（Slimming Injection）。這種藥物也被廣泛稱為瘦瘦筆、減肥筆、減重筆、減肥針、小藍筆或瘦身針，其基礎是腸泌素（Incretin）的一種處方注射藥物。常見的藥品包括猛健樂（Mounjaro）、胰妥讚（Ozempic）和週纖達（Wegovy）等。

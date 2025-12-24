@@ -1,28 +1,27 @@
 ---
-title: 第三课：吵架十诫
-summary: 
-area: personal-growth
-category: culture
-project: 
-- cultural-critique
-tags:
-  - 夫妻关系
-  - 婚姻关系
-  - 宗教
-  - 家庭生活
-people:
-  - 林静芝
-  - 李秀全
-companies_orgs: 
-products_models: 
-media_books: 
-date: '2025-07-10'
+area: life-family
 author: Lei
-speaker: ''
+category: family-relations
+companies_orgs: null
+date: '2025-07-10'
 layout: post.njk
+media_books: null
+people:
+- 林静芝
+- 李秀全
+products_models: null
+project:
+- cultural-critique
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=oP3lqZMNjts
+speaker: ''
+summary: null
+tags:
+- family-life
+- religion
+title: 第三课：吵架十诫
 ---
+
 ## 引言：以学习之心进入新课题
 
 **李秀全：**

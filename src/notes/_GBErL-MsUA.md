@@ -1,34 +1,33 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs: []
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=_GBErL-MsUA
 speaker: 海淀拙大叔
-tags:
-  - tariffs
-  - trade-war
-  - economic-contraction
-  - dominant-industries
-  - weak-dollar
-title: 关税战、市场分化与中国未来主导产业展望
-summary: 本文深入探讨了中美关税升级对全球贸易格局及中国经济的深远影响。分析了美国大收缩政策下，关税对中国出口顺差和GDP增长的潜在负面拉动，以及国际资本流向和美元指数的波动。文章进一步提出了应对策略，强调内需刺激的重要性，并基于全球竞争优势、薄弱环节、产业链长度和对美“降维打击”潜力，识别了新能源和高端装备（包括芯片与AI应用）作为中国未来经济增长的主导产业。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了中美关税升级对全球贸易格局及中国经济的深远影响。分析了美国大收缩政策下，关税对中国出口顺差和GDP增长的潜在负面拉动，以及国际资本流向和美元指数的波动。文章进一步提出了应对策略，强调内需刺激的重要性，并基于全球竞争优势、薄弱环节、产业链长度和对美“降维打击”潜力，识别了新能源和高端装备（包括芯片与AI应用）作为中国未来经济增长的主导产业。
+tags:
+- economic
+- industry
+- tariff
+- technology
+- trade-war
+title: 关税战、市场分化与中国未来主导产业展望
 ---
+
 ### 关税升级与中美贸易博弈
 
 今天是4月8号的早上，关税的影响确实很大。在讨论美国大收缩与中国反击时，我们的策略是只要不在美国生产，在哪生产都可以，就是不让制造业回流美国。美国现在的政策则是只要不是中国制造，在哪制造都行，因为美国最终一定会分化瓦解。大家可以看到，我们主要的对美转口地，例如越南被征收46%的**关税**（Tariff: 一种对进出口商品征收的税费），柬埔寨被征收49%的关税，这其实就是为了不让中国制造流入美国。

@@ -1,45 +1,45 @@
 ---
-author: 大问题Dialectic
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-05-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《宁静祷文》
+people:
+- 塞涅卡
+- 爱比克泰德
+- 马可·奥勒留
+- 莱茵霍尔德·尼布尔
+- 海德格尔
+- 斯宾诺莎
+- 阿德勒
+- 鲁迅
+- 萨特
+- 拉康
+- 亚里士多德
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=UcJ6ZCj335A
 speaker: 大问题Dialectic
-tags:
-  - stoicism
-  - mental-wellbeing
-  - learned-helplessness
-  - cognitive-reframing
-  - personal-responsibility
-  - inner-peace
-title: 斯多葛主义的「精神止损法」：区分可控与不可控，摆脱精神内耗
-summary: 本文深入探讨斯多葛主义哲学，教导我们如何区分生活中可控与不可控之事，从而摆脱习得性无助和精神内耗。通过理解并接受无法改变的外部必然性，专注于自身可控的行动与内心态度，我们能实现内心的平静与自由。文章还结合阿德勒的课题分离理论，将斯多葛心法应用于人际关系，旨在帮助读者构建更健康、高效的生活方式。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 塞涅卡
-  - 爱比克泰德
-  - 马可·奥勒留
-  - 莱茵霍尔德·尼布尔
-  - 海德格尔
-  - 斯宾诺莎
-  - 阿德勒
-  - 鲁迅
-  - 萨特
-  - 拉康
-  - 亚里士多德
-companies_orgs: []
-products_models: []
-media_books:
-  - 《宁静祷文》
 status: evergreen
+summary: 本文深入探讨斯多葛主义哲学，教导我们如何区分生活中可控与不可控之事，从而摆脱习得性无助和精神内耗。通过理解并接受无法改变的外部必然性，专注于自身可控的行动与内心态度，我们能实现内心的平静与自由。文章还结合阿德勒的课题分离理论，将斯多葛心法应用于人际关系，旨在帮助读者构建更健康、高效的生活方式。
+tags:
+- cognitive
+- inner-peace
+- personal-responsibility
+- psychology
+- society
+- technology
+title: 斯多葛主义的「精神止损法」：区分可控与不可控，摆脱精神内耗
 ---
+
 ### 斯多葛主义的核心智慧：区分可控与不可控
 
 **斯多葛主义**（Stoicism: 古罗马哲学流派，强调区分可控与不可控，追求内心平静与理性生活）哲学教导我们，人生在世一定要区分好两种事情：一种是自己能控制的事情，另一种是自己不能控制的事情。我们千万不要把自己的心思耗费在那些自己不能控制的事情上，因为你改变不了它们。耗费再多的时间和心力都属于是毫无意义的**精神内耗**（Mental Internal Friction: 指个体在面对问题时，过度思考、担忧或自责，消耗心理能量却无法解决问题的状态）。

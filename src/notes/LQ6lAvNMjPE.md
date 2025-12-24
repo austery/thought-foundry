@@ -1,43 +1,43 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Roche
+- Norges Bank Investment Management
+- Novartis
+- Genentech
+- Chugai
+- AstraZeneca
 date: '2024-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Emperor of All Maladies
+people:
+- Nicola Tangan
+- Thomas Schinecker
+- Severin Schwan
+products_models: []
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=LQ6lAvNMjPE
 speaker: Norges Bank Investment Management
-tags:
-  - pharmaceutical-innovation
-  - drug-development
-  - healthcare-systems
-  - rd-strategy
-  - drug-pricing
-title: 罗氏CEO Thomas Schinecker访谈：创新、全球战略与医疗未来
-summary: 挪威主权财富基金采访罗氏CEO Thomas Schinecker，深入探讨了罗氏在癌症治疗、诊断领域的领导地位，以及其研发策略。访谈内容涵盖了生物制药行业在创新、合作、定价方面的挑战，人工智能对药物研发的深远影响，以及罗氏在全球（特别是中国和欧洲）的战略布局。Schinecker还分享了罗氏独特的企业文化和领导力发展理念，强调了长期主义和持续创新的重要性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - china-analysis
-  - us-analysis
-people:
-  - Nicola Tangan
-  - Thomas Schinecker
-  - Severin Schwan
-companies_orgs:
-  - Roche
-  - Norges Bank Investment Management
-  - Novartis
-  - Genentech
-  - Chugai
-  - AstraZeneca
-products_models: []
-media_books:
-  - The Emperor of All Maladies
 status: evergreen
+summary: 挪威主权财富基金采访罗氏CEO Thomas Schinecker，深入探讨了罗氏在癌症治疗、诊断领域的领导地位，以及其研发策略。访谈内容涵盖了生物制药行业在创新、合作、定价方面的挑战，人工智能对药物研发的深远影响，以及罗氏在全球（特别是中国和欧洲）的战略布局。Schinecker还分享了罗氏独特的企业文化和领导力发展理念，强调了长期主义和持续创新的重要性。
+tags:
+- development
+- health
+- healthcare-system
+- pharmaceutical-innovation
+- strategy
+title: 罗氏CEO Thomas Schinecker访谈：创新、全球战略与医疗未来
 ---
+
 ### 罗氏：创新与全球医疗的领导者
 
 大家好，我是挪威主权财富基金的首席执行官Nicola Tangan。今天我们邀请到了**罗氏**（Roche: 全球领先的医疗保健公司）的首席执行官Thomas Schinecker。

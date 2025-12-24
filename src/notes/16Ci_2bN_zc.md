@@ -1,40 +1,38 @@
 ---
-author: Veritasium
-date: '2022-10-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=16Ci_2bN_zc
-speaker: Veritasium
-tags:
-  - veritasium
-  - terminal-velocity
-  - air-resistance
-  - falling-objects
-  - myth-busting
-  - kinetic-energy
-title: 从摩天大楼扔下的硬币有多危险？揭秘终极速度与空气阻力
-summary: 本文通过实验和物理学原理，探讨了从高空坠落的物体（如硬币、钢笔、子弹、冰雹）的危险性。文章揭示了空气阻力对物体下落速度的决定性影响，并详细解释了终极速度、阻力系数等概念。通过与《流言终结者》主持人亚当·萨维奇的合作，证实了高空坠落的硬币和塑料笔并不会致命，同时探讨了子弹、冰雹和军事飞镖等真正危险的坠落物，并分析了其背后的物理机制和历史应用。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Derek Muller
-  - Adam Savage
-  - Stephen Colbert
-  - David Scott
-  - Felix Baumgartner
+category: science
 companies_orgs:
-  - MythBusters
-  - Brilliant
+- MythBusters
+- Brilliant
+date: '2022-10-01'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Adam Savage
+- Stephen Colbert
+- David Scott
+- Felix Baumgartner
 products_models: []
-media_books: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=16Ci_2bN_zc
+speaker: veritasium
 status: evergreen
+summary: 本文通过实验和物理学原理，探讨了从高空坠落的物体（如硬币、钢笔、子弹、冰雹）的危险性。文章揭示了空气阻力对物体下落速度的决定性影响，并详细解释了终极速度、阻力系数等概念。通过与《流言终结者》主持人亚当·萨维奇的合作，证实了高空坠落的硬币和塑料笔并不会致命，同时探讨了子弹、冰雹和军事飞镖等真正危险的坠落物，并分析了其背后的物理机制和历史应用。
+tags:
+- code
+- energy
+- falling-object
+- geopolitical
+- llm
+title: 从摩天大楼扔下的硬币有多危险？揭秘终极速度与空气阻力
 ---
+
 ### 硬币神话的终结
 
 如果从帝国大厦上扔下一枚硬币会发生什么？它能杀死下面人行道上的行人吗？究竟需要什么条件才能制造出致命的抛射物？

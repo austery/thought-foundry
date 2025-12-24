@@ -1,95 +1,95 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- Google
+- Meta
+- Rocket Labs
+- Weeble
+- Roblox
+- Novo
+- AMD
+- Amcor
+- BMR
+- Oscar
+- Piper Sandler
+- Oracle
+- Rivian
+- DoorDash
+- Uber
+- Cava
+- Chipotle
+- Nvidia
+- Verizon
+- PayPal
+- Duolingo
+- Lyft
+- Grab
+- Dell
+- Microsoft
+- Apple
+- Abercrombie
+- New Bank
+- Kohl's
+- Cisco
+- McDonald's
+- Amazon
+- Coreweave
+- Cipher
+- Goldman Sachs
+- Department of Homeland Security
+- DC Police
+- White House
+- Ronald Reagan National Airport
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+- AP
+- Fox News
+- BBC News
+- The New York Times
+- The Information
+people:
+- Tom Lee
+- Vlad Tenev
+- Derek
+- Steve
+- Jason
+- Chris
+- Matt Money
+- Michael Burry
+- Mike
+products_models:
+- Nano Banana Pro
+- Gemini
+- Sora
+- ACA subsidy
+- enhanced advanced premium tax credits
+- YieldMax
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=4SFmj21PXDM
 speaker: Amit Kukreja
-tags:
-  - market-reversal
-  - rate-cut-expectations
-  - ai-image-generation
-  - margin-debt
-  - prediction-markets
-title: 市场收盘：感恩节前市场三连涨，AI与降息预期提振情绪
-summary: 本期市场收盘节目回顾了感恩节前夕的市场表现，标普500指数实现三连涨，比特币和以太坊等加密货币也大幅上涨。Robinhood因收购衍生品交易所和垂直整合策略而股价飙升。节目还讨论了不断上升的保证金债务、美联储降息的高概率，以及对冲基金积极买入科技股的趋势。富兰克林邓普顿的Tom Lee分享了他对年末市场反弹、AI作为长期趋势以及加密货币前景的看法。此外，Google的Nano Banana Pro在AI图像生成方面的惊人进展也引发了对真实性与虚假性的讨论。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Tom Lee
-  - Vlad Tenev
-  - Derek
-  - Steve
-  - Jason
-  - Chris
-  - Matt Money
-  - Michael Burry
-  - Mike
-companies_orgs:
-  - Robinhood
-  - Google
-  - Meta
-  - Rocket Labs
-  - Weeble
-  - Roblox
-  - Novo
-  - AMD
-  - Amcor
-  - BMR
-  - Oscar
-  - Piper Sandler
-  - Oracle
-  - Rivian
-  - DoorDash
-  - Uber
-  - Cava
-  - Chipotle
-  - Nvidia
-  - Verizon
-  - PayPal
-  - Duolingo
-  - Lyft
-  - Grab
-  - Dell
-  - Microsoft
-  - Apple
-  - Abercrombie
-  - New Bank
-  - Kohl's
-  - Cisco
-  - McDonald's
-  - Amazon
-  - Coreweave
-  - Cipher
-  - Goldman Sachs
-  - Department of Homeland Security
-  - DC Police
-  - White House
-  - Ronald Reagan National Airport
-products_models:
-  - Nano Banana Pro
-  - Gemini
-  - Sora
-  - ACA subsidy
-  - enhanced advanced premium tax credits
-  - YieldMax
-media_books:
-  - The Wall Street Journal
-  - AP
-  - Fox News
-  - BBC News
-  - The New York Times
-  - The Information
 status: evergreen
+summary: 本期市场收盘节目回顾了感恩节前夕的市场表现，标普500指数实现三连涨，比特币和以太坊等加密货币也大幅上涨。Robinhood因收购衍生品交易所和垂直整合策略而股价飙升。节目还讨论了不断上升的保证金债务、美联储降息的高概率，以及对冲基金积极买入科技股的趋势。富兰克林邓普顿的Tom
+  Lee分享了他对年末市场反弹、AI作为长期趋势以及加密货币前景的看法。此外，Google的Nano Banana Pro在AI图像生成方面的惊人进展也引发了对真实性与虚假性的讨论。
+tags:
+- debt
+- generation
+- market
+- prediction-market
+- rate-cut-expectation
+title: 市场收盘：感恩节前市场三连涨，AI与降息预期提振情绪
 ---
+
 ### 市场概览：感恩节前夕的三连涨
 
 大家好，欢迎回到《市场收盘》节目。

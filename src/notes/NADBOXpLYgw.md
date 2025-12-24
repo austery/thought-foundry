@@ -1,54 +1,53 @@
 ---
-author: 东京人文论坛
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 东京大学综合文化研究科
+- 东京人文论坛
 date: '2024-12-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《政治的概念》
+- 《政治的哲学》
+- 《追求幸福》
+- 《为幸福而生》
+- 《独立宣言》
+- 《我们是谁》
+- 《文明的冲突》
+- 《西方的没落》
+people:
+- 刘宗坤
+- 刘晓峰
+- 托马斯·杰弗逊
+- 巴拉克·奥巴马
+- 唐纳德·特朗普
+- 乔·拜登
+- 塞缪尔·菲利普斯·亨廷顿
+- 奥斯瓦尔德·斯宾格勒
+- 亚伯拉罕·林肯
+- 吉米·卡特
+- 亨利·基辛格
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=NADBOXpLYgw
 speaker: 东京人文论坛
-tags:
-  - us-decline-theory
-  - political-polarization
-  - cultural-identity
-  - geopolitical-shifts
-  - historical-perspectives
-title: 美国民主在衰退吗？刘宗坤律师的历史与多维度解析
-summary: 本次讲座深入探讨了“美国衰退论”及其核心议题——美国民主是否正在衰退。刘宗坤律师从历史角度梳理了美国衰退论的多次出现，并详细分析了当前衰退论在经济、军事、金融、文化及国际政治等多个维度的表现。讲座还追溯了文化衰退论的起源，并回顾了二战后影响深远的五波美国衰退论，为理解美国社会现状提供了丰富的历史和理论视角。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 刘宗坤
-  - 刘晓峰
-  - 托马斯·杰弗逊
-  - 巴拉克·奥巴马
-  - 唐纳德·特朗普
-  - 乔·拜登
-  - 塞缪尔·菲利普斯·亨廷顿
-  - 奥斯瓦尔德·斯宾格勒
-  - 亚伯拉罕·林肯
-  - 吉米·卡特
-  - 亨利·基辛格
-companies_orgs:
-  - 东京大学综合文化研究科
-  - 东京人文论坛
-products_models: []
-media_books:
-  - 《政治的概念》
-  - 《政治的哲学》
-  - 《追求幸福》
-  - 《为幸福而生》
-  - 《独立宣言》
-  - 《我们是谁》
-  - 《文明的冲突》
-  - 《西方的没落》
 status: evergreen
+summary: 本次讲座深入探讨了“美国衰退论”及其核心议题——美国民主是否正在衰退。刘宗坤律师从历史角度梳理了美国衰退论的多次出现，并详细分析了当前衰退论在经济、军事、金融、文化及国际政治等多个维度的表现。讲座还追溯了文化衰退论的起源，并回顾了二战后影响深远的五波美国衰退论，为理解美国社会现状提供了丰富的历史和理论视角。
+tags:
+- cultural-identity
+- geopolitical-shift
+- historical
+- theory
+title: 美国民主在衰退吗？刘宗坤律师的历史与多维度解析
 ---
+
 ## 开场介绍：刘宗坤律师
 
 宜中: 大家好，今天是我们这个系列的第六场活动，也就是最后一场，是压轴。这个系列是东京大学综合文化研究科跟东京人文论坛合办的。

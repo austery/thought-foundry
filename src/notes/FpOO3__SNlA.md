@@ -1,48 +1,47 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York Times
+- Justice Department
+- Purdue Pharma
+- Ford
+- General Motors
+- Tesla
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Washington Post
+people:
+- Tracy Mumford
+- Marjorie Taylor Green
+- Donald Trump
+- Muhammad bin Salman
+- Peter Goodman
+- Ben
+products_models:
+- OxyContin
+- F-35
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=FpOO3__SNlA
 speaker: New York Times Podcasts
-tags:
-  - opioid-crisis
-  - epstein-files
-  - us-politics
-  - lead-poisoning
-  - religious-trends
-title: 70亿美元阿片类药物和解、特朗普为沙特王储辩护及其他要闻
-summary: 本期新闻回顾了美国近期一系列重要事件。国会几乎一致通过要求司法部公布爱泼斯坦文件的法案，尽管特朗普曾试图阻挠。同时，特朗普在白宫盛情接待沙特王储穆罕默德·本·萨勒曼，并为其在卡舒吉谋杀案中的角色辩护。此外，普渡制药因阿片类药物危机达成70亿美元和解，其所有者萨克勒家族将向受害者支付巨额赔偿。报道还揭露了尼日利亚铅回收产业对当地居民造成的严重铅中毒问题，以及美国保守年轻男性皈依东正教的文化现象。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Tracy Mumford
-  - Marjorie Taylor Green
-  - Donald Trump
-  - Muhammad bin Salman
-  - Peter Goodman
-  - Ben
-companies_orgs:
-  - New York Times
-  - Justice Department
-  - Purdue Pharma
-  - Ford
-  - General Motors
-  - Tesla
-products_models:
-  - OxyContin
-  - F-35
-media_books:
-  - The Washington Post
 status: evergreen
+summary: 本期新闻回顾了美国近期一系列重要事件。国会几乎一致通过要求司法部公布爱泼斯坦文件的法案，尽管特朗普曾试图阻挠。同时，特朗普在白宫盛情接待沙特王储穆罕默德·本·萨勒曼，并为其在卡舒吉谋杀案中的角色辩护。此外，普渡制药因阿片类药物危机达成70亿美元和解，其所有者萨克勒家族将向受害者支付巨额赔偿。报道还揭露了尼日利亚铅回收产业对当地居民造成的严重铅中毒问题，以及美国保守年轻男性皈依东正教的文化现象。
+tags:
+- crisis
+- epstein-file
+- lead-poisoning
+- trend
+title: 70亿美元阿片类药物和解、特朗普为沙特王储辩护及其他要闻
 ---
+
 ### 美国近期要闻速览
 
 来自《纽约时报》的头条新闻。我是特雷西·芒福德。今天是11月19日星期三。以下是我们今天将报道的内容。

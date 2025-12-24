@@ -1,52 +1,52 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- YouTube
+- Twitch
+- Google
+- 小米
 date: '2025-04-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 中国知网
+- 百度学术
+- Google Scholar
+- 微信公众号
+- X
+- youtube-algorithm
+people:
+- IShowSpeed
+- Emma Chamberlain
+- MrBeast
+- 王志安
+- 司马南
+- 疯狂小杨哥
+- 酷酷的滕
+- 大张伟
+- 金正恩
+- Dennis Rodman
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=ec_xZZ2YeUo
 speaker: 張内咸
-tags:
-  - external-propaganda
-  - influencer-economy
-  - youtube-algorithms
-  - internet-censorship
-  - media-bias
-title: 美国网红IShowSpeed中国行：中共外宣经费与互联网认知盲区深度解析
-summary: 本文深入探讨了美国YouTube网红IShowSpeed近期中国行引发的“中共外宣”争议。作者张内咸从专业角度剖析了中外网红经济的运作模式、YouTube平台的收益机制，并揭示了中国互联网因信息不透明和审查制度导致的认知盲区。文章指出，IShowSpeed并非中共外宣，其中国行是多种偶然因素叠加的结果，并呼吁中国政府反思对外宣传策略和互联网开放性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - IShowSpeed
-  - Emma Chamberlain
-  - MrBeast
-  - 王志安
-  - 司马南
-  - 疯狂小杨哥
-  - 酷酷的滕
-  - 大张伟
-  - 金正恩
-  - Dennis Rodman
-companies_orgs:
-  - YouTube
-  - Twitch
-  - Google
-  - 小米
-products_models: []
-media_books:
-  - 中国知网
-  - 百度学术
-  - Google Scholar
-  - 微信公众号
-  - X
 status: evergreen
+summary: 本文深入探讨了美国YouTube网红IShowSpeed近期中国行引发的“中共外宣”争议。作者张内咸从专业角度剖析了中外网红经济的运作模式、YouTube平台的收益机制，并揭示了中国互联网因信息不透明和审查制度导致的认知盲区。文章指出，IShowSpeed并非中共外宣，其中国行是多种偶然因素叠加的结果，并呼吁中国政府反思对外宣传策略和互联网开放性。
+tags:
+- economy
+- internet-censorship
+- media
+- society
+title: 美国网红IShowSpeed中国行：中共外宣经费与互联网认知盲区深度解析
 ---
+
 ### 美国网红IShowSpeed中国行引发的“外宣”争议
 
 大家好，我是张内咸。上周，美国知名YouTube网红**IShowSpeed**（美国知名YouTube网红，以直播和娱乐内容为主）来中国旅游，中国人称他为“**甲亢哥**”（中国网友对IShowSpeed的昵称，形容其亢奋状态）。这件事在中文和英语世界都引起了广泛关注和讨论。有人认为他是来旅游的，也有人说他收了**CCP**（中国共产党）的钱，来为中共做外宣。那么，他到底是不是中共的外宣？如果是，中共又给了他多少钱呢？

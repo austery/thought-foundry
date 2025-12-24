@@ -1,31 +1,29 @@
 ---
-title: 气候变化会让你的家园无法投保吗？
-summary: 保险专家Amy Barnes深入探讨气候变化对保险行业、资产价值及金融稳定的深远影响。她强调极端天气正使保险变得不可负担，并呼吁社会投资于预防和适应措施，以确保风险可控，维护经济韧性。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- climate-change
-- extreme-weather
-- financial-risk
-- insurance-industry
-- resilience
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-13'
-author: TED
-speaker: TED
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=deAEKPbpSSY
+speaker: TED
 status: evergreen
+summary: 保险专家Amy Barnes深入探讨气候变化对保险行业、资产价值及金融稳定的深远影响。她强调极端天气正使保险变得不可负担，并呼吁社会投资于预防和适应措施，以确保风险可控，维护经济韧性。
+tags:
+- climate-change
+- extreme-weather
+- financial-risk
+- industry
+- resilience
+title: 气候变化会让你的家园无法投保吗？
 ---
+
 ### 保险：现代经济的润滑剂
 
 When I first joined the insurance industry, I realized that telling people about it was the fastest way for them to lose interest.

@@ -1,31 +1,29 @@
 ---
-title: 法西斯主義：本質、歷史淵源與當代辨識
-summary: 本文深入探討法西斯主義的歷史根源、核心特徵，分析其在義大利、納粹德國及中國的發展軌跡，並從階級、種族、性別視角，提供辨識當代法西斯傾向的框架，最終警示美國政治中的潛在法西斯化趨勢。
 area: null
 category: null
-project: []
-tags:
-- contemporary-politics
-- fascism
-- nationalism
-- political-ideology
-- supery
-- totalitarianism
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-05-23'
-author: 超級歪 SuperY
-speaker: 超級歪 SuperY
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zWt7z7cdows
+speaker: 超級歪 SuperY
 status: evergreen
+summary: 本文深入探討法西斯主義的歷史根源、核心特徵，分析其在義大利、納粹德國及中國的發展軌跡，並從階級、種族、性別視角，提供辨識當代法西斯傾向的框架，最終警示美國政治中的潛在法西斯化趨勢。
+tags:
+- fascism
+- nationalism
+- political
+- politics
+- supery
+- totalitarianism
+title: 法西斯主義：本質、歷史淵源與當代辨識
 ---
+
 ### 法西斯主義的敏感性與定義挑戰
 
 Taiwanese politics often slaps labels on political opponents, calling them Nazis or fascists.

@@ -1,32 +1,31 @@
 ---
-title: AI的尽头是更好的数据：Datology创始人解析数据策展的重要性
-summary: Datology创始人Ari Morcos强调，在AI发展中数据是最被低估的变量。面对模型增长放缓，他提出通过极致的数据策展，让模型更高效学习，突破性能瓶颈，并详细阐述了其系统性工程和实践经验。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-data
-- data-curation
-- llm
-- synthetic-data
-people:
-- ari-morcos
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books:
-- best-partners-tv
 date: '2025-09-15'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- best-partners-tv
+people:
+- ari-morcos
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=N9T93sQsIHc
+speaker: Best Partners TV
 status: evergreen
+summary: Datology创始人Ari Morcos强调，在AI发展中数据是最被低估的变量。面对模型增长放缓，他提出通过极致的数据策展，让模型更高效学习，突破性能瓶颈，并详细阐述了其系统性工程和实践经验。
+tags:
+- data
+- llm
+- synthetic-datum
+title: AI的尽头是更好的数据：Datology创始人解析数据策展的重要性
 ---
+
 ### 引言：AI发展中的数据困境与突破
 
 过去两年，整个AI行业因**大模型**（Large Models: 指参数量巨大、拥有数十亿甚至万亿参数的深度学习模型，通常需要海量数据和算力进行训练）而狂踩油门，参数量从百亿推到万亿，算力预算也从几千万美金飙升到几十亿美金。然而，近期新出的模型能力增长逐渐放缓，简单粗暴地堆砌算力和数据带来的边际效益不断递减。许多人开始怀疑**大模型**的**Scaling Laws**（模型扩展法则: 指随着模型规模、数据量和计算资源的增加，模型性能呈现可预测的提升规律）是否已经失效，甚至担忧我们是否真的撞上了数据墙。

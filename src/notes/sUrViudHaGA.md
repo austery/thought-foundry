@@ -1,55 +1,54 @@
 ---
-author: How I AI
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Cactus
+- Apple
+- Coca-Cola
+- MTV
+- Google
+- Google DeepMind
+- OpenAI
+- Perplexity
+- Cursor
+- WorkOS
+- Mayo Clinic
+- Advent Health
+- Chipotle
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+people:
+- Lucas Worthing
+- Clarvo
+- Shishta
+products_models:
+- ChatGPT
+- Whoop
+- Gemini 2.5 Pro
+- Gemini 2.5 Flash
+- Gemini 2.5 Flash Light
+- InBody
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=sUrViudHaGA
 speaker: How I AI
-tags:
-  - ai-personal-coach
-  - health-optimization
-  - data-synthesis
-  - prompt-engineering
-  - recovery-strategies
-title: AI赋能个人健康：打造你的智能表现教练
-summary: 本期节目邀请Cactus公司技术主管Lucas Worthing，分享他如何利用ChatGPT打造个人AI表现教练。通过整合MRI扫描、血液检测、可穿戴设备数据及营养计划等多样化个人健康数据，他优化了自己的营养、锻炼和伤病恢复。讨论强调了AI在整合孤立健康信息、提供个性化可操作建议方面的作用，及其通过为从精英运动员到普通大众提供可及的按需指导，从而变革未来医疗保健的潜力。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Lucas Worthing
-  - Clarvo
-  - Shishta
-companies_orgs:
-  - Cactus
-  - Apple
-  - Coca-Cola
-  - MTV
-  - Google
-  - Google DeepMind
-  - OpenAI
-  - Perplexity
-  - Cursor
-  - WorkOS
-  - Mayo Clinic
-  - Advent Health
-  - Chipotle
-products_models:
-  - ChatGPT
-  - Whoop
-  - Gemini 2.5 Pro
-  - Gemini 2.5 Flash
-  - Gemini 2.5 Flash Light
-  - InBody
-media_books:
-  - How I AI
 status: evergreen
+summary: 本期节目邀请Cactus公司技术主管Lucas Worthing，分享他如何利用ChatGPT打造个人AI表现教练。通过整合MRI扫描、血液检测、可穿戴设备数据及营养计划等多样化个人健康数据，他优化了自己的营养、锻炼和伤病恢复。讨论强调了AI在整合孤立健康信息、提供个性化可操作建议方面的作用，及其通过为从精英运动员到普通大众提供可及的按需指导，从而变革未来医疗保健的潜力。
+tags:
+- data
+- health
+- personal
+- strategy
+title: AI赋能个人健康：打造你的智能表现教练
 ---
+
 ### 打造专属AI教练的初衷
 
 我一直非常热爱运动，不断挑战身体极限，自然而然地，这意味着受伤。对我来说，伤病变得有点难以承受，所以当**ChatGPT**（Generative Pre-trained Transformer: 一种大型语言模型）一推出，我就开始尝试聚合这些数据，以便更清晰地综合分析如何真正优化身体。

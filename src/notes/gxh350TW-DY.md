@@ -1,40 +1,39 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs:
+- AKB48
+- EA
 date: '2025-09-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Pillow Book
+- On Cuteness
+- Konjaku Monogatarishu
+people:
+- Sei Shonagon
+- Shihoda Inuhiko
+products_models:
+- Red Alert 3
+- Yuriko
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=gxh350TW-DY
 speaker: Anthony看世界
-tags:
-  - cute-culture
-  - east-asian-aesthetics
-  - spiritual-immaturity
-  - mono-no-aware
-  - cultural-evolution
-title: 东亚“白瘦幼”审美与可爱文化：深层心理与文化基因解析
-summary: 本视频深入探讨了东亚社会中“白瘦幼”审美和可爱文化的深层逻辑。从心理学角度分析了这种审美对精神不成熟和弱小的迷恋，并通过AKB48等案例进行阐述。文章还追溯了“可爱”一词在日本文化中的独特演变，揭示其与“物哀”美学的共通之处，并强调了其与西方“cute”概念的差异。最终，提出对可爱文化应采取“整合”而非抗拒或拥抱的态度，鼓励拥抱真实、不完美的自我与他人。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Sei Shonagon
-  - Shihoda Inuhiko
-companies_orgs:
-  - AKB48
-  - EA
-products_models:
-  - Red Alert 3
-  - Yuriko
-media_books:
-  - The Pillow Book
-  - On Cuteness
-  - Konjaku Monogatarishu
 status: evergreen
+summary: 本视频深入探讨了东亚社会中“白瘦幼”审美和可爱文化的深层逻辑。从心理学角度分析了这种审美对精神不成熟和弱小的迷恋，并通过AKB48等案例进行阐述。文章还追溯了“可爱”一词在日本文化中的独特演变，揭示其与“物哀”美学的共通之处，并强调了其与西方“cute”概念的差异。最终，提出对可爱文化应采取“整合”而非抗拒或拥抱的态度，鼓励拥抱真实、不完美的自我与他人。
+tags:
+- cultural-evolution
+- culture
+- geopolitical
+- llm
+- spiritual-immaturity
+title: 东亚“白瘦幼”审美与可爱文化：深层心理与文化基因解析
 ---
 
 ### 东亚“白瘦幼”审美与可爱文化的深层探讨

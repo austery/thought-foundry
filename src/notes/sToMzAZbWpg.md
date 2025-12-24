@@ -1,126 +1,126 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: culture
+companies_orgs:
+- Sony
+- Hitachi
+- Toshiba
+- Casio
+- Sharp
+- Toyota
+- Nintendo
+- Zebra
+- Mitsubishi
+- PlayStation
+- Honda
+- Mazda
+- Nissan
+- Chery
+- Citroën
+- Buick
+- Shiseido
+- SK-II
+- Uniqlo
+- Muji
+- Daiso
+- 7-Eleven
+- Lawson
+- Family Mart
+- Nissin
+- 康师傅
+- 统一
+- Bilibili
+- ACFun
+- Niconico
+- Kodak
+- Fujifilm
+- Leica
+- Canon
+- H&M
+- Zara
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《我的细胞》
+- 《聪明的一休》
+- 《铁臂阿童木》
+- 《哆啦A梦》
+- 《血疑》
+- 《追捕》
+- 《红楼梦》
+- 《西游记》
+- 《七龙珠》
+- 《灌篮高手》
+- 《樱花通信》
+- 《樱桃小丸子》
+- 《阿拉蕾》
+- 《名侦探柯南》
+- 《东京爱情故事》
+- 《火影忍者》
+- 《航海王》
+- 《犬夜叉》
+- 《死神》
+- 《新世纪福音战士》
+- 《钢之炼金术师》
+- 《攻壳机动队》
+- 《黑金》
+- 《咒术回战》
+- 《鬼灭之刃》
+- 《进击的巨人》
+- 《我的英雄学院》
+- 《I's》
+- 《电影少女》
+- 《那年那兔那些事儿》
+- 《苍鹭与少年》
+- 《弥留之国的爱丽丝》
+- 《李志绥回忆录》
+people:
+- Xi Jinping
+- 高市早苗
+- 三口百恵
+- 高仓健
+- 鸟山明
+- 木村拓哉
+- 宫崎骏
+- 毛泽东
+- 蒋介石
+- 孙中山
+- 赖昌星
+products_models:
+- Walkman
+- 夏利
+- 奥拓
+- 桑塔纳
+- 富康
+- 本田雅阁
+- 马自达6
+- 马自达3
+- 别克君威
+- 红白机
+- Game Boy
+- PSP
+- NDS
+- EVE-A
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=sToMzAZbWpg
 speaker: 三個水槍手
-tags:
-  - sino-japanese-relations
-  - cultural-consumption
-  - acgn-subculture
-  - nationalist-paradox
-title: 从索尼Walkman到《鬼灭之刃》：中国人“精日”与“仇日”的矛盾心态
-summary: 中国社会对日本存在一种深刻的矛盾心态。从80年代至今，几代中国人成长于日本电器、汽车、动漫和游戏的包围之中，形成了强大的文化亲近感。然而，这种亲近感与官方主导的“仇日”民族主义情绪并存。本文深入探讨了这一现象，分析了日本文化，特别是“二次元”亚文化，如何填补了中国年轻人的精神空白，从而在他们内心造成一种“爱恨交织”的心理分裂。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 习近平
-  - 高市早苗
-  - 三口百恵
-  - 高仓健
-  - 鸟山明
-  - 木村拓哉
-  - 宫崎骏
-  - 毛泽东
-  - 蒋介石
-  - 孙中山
-  - 赖昌星
-companies_orgs:
-  - Sony
-  - Hitachi
-  - Toshiba
-  - Casio
-  - Sharp
-  - Toyota
-  - Nintendo
-  - Zebra
-  - Mitsubishi
-  - PlayStation
-  - Honda
-  - Mazda
-  - Nissan
-  - Chery
-  - Citroën
-  - Buick
-  - Shiseido
-  - SK-II
-  - Uniqlo
-  - Muji
-  - Daiso
-  - 7-Eleven
-  - Lawson
-  - Family Mart
-  - Nissin
-  - 康师傅
-  - 统一
-  - Bilibili
-  - ACFun
-  - Niconico
-  - Kodak
-  - Fujifilm
-  - Leica
-  - Canon
-  - H&M
-  - Zara
-products_models:
-  - Walkman
-  - 夏利
-  - 奥拓
-  - 桑塔纳
-  - 富康
-  - 本田雅阁
-  - 马自达6
-  - 马自达3
-  - 别克君威
-  - 红白机
-  - Game Boy
-  - PSP
-  - NDS
-  - EVE-A
-media_books:
-  - 《我的细胞》
-  - 《聪明的一休》
-  - 《铁臂阿童木》
-  - 《哆啦A梦》
-  - 《血疑》
-  - 《追捕》
-  - 《红楼梦》
-  - 《西游记》
-  - 《七龙珠》
-  - 《灌篮高手》
-  - 《樱花通信》
-  - 《樱桃小丸子》
-  - 《阿拉蕾》
-  - 《名侦探柯南》
-  - 《东京爱情故事》
-  - 《火影忍者》
-  - 《航海王》
-  - 《犬夜叉》
-  - 《死神》
-  - 《新世纪福音战士》
-  - 《钢之炼金术师》
-  - 《攻壳机动队》
-  - 《黑金》
-  - 《咒术回战》
-  - 《鬼灭之刃》
-  - 《进击的巨人》
-  - 《我的英雄学院》
-  - 《I's》
-  - 《电影少女》
-  - 《那年那兔那些事儿》
-  - 《苍鹭与少年》
-  - 《弥留之国的爱丽丝》
-  - 《李志绥回忆录》
 status: evergreen
+summary: 中国社会对日本存在一种深刻的矛盾心态。从80年代至今，几代中国人成长于日本电器、汽车、动漫和游戏的包围之中，形成了强大的文化亲近感。然而，这种亲近感与官方主导的“仇日”民族主义情绪并存。本文深入探讨了这一现象，分析了日本文化，特别是“二次元”亚文化，如何填补了中国年轻人的精神空白，从而在他们内心造成一种“爱恨交织”的心理分裂。
+tags:
+- cultural
+- sino-japanese-relations
+- society
+- technology
+title: 从索尼Walkman到《鬼灭之刃》：中国人“精日”与“仇日”的矛盾心态
 ---
+
 ### “恨日本”是出厂设置？难以解释的矛盾心态
 
 最近，中国官方再次出手整治与日本相关的事务，例如限制旅行、禁止水产品进口等。宣传机器也火力全开，在国内营造对日本的仇恨氛围。然而，一个有趣的现象是，许多中国人，甚至包括一些“小粉红”，都表现出一种复杂的情感。例如，当日本动画片如《蜡笔小新》和《工作细胞》无法上映时，有“小粉红”在网上愤怒地质问日本政治家高市早苗，要求“还我《我的细胞》”。

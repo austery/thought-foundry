@@ -1,39 +1,39 @@
 ---
-author: 北美王路飞
+area: personal-systems
+category: psychology
+companies_orgs:
+- Stanford University
+- Amazon
 date: '2025-09-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How to Solve it
+- Working Backwards
+people:
+- George Pólya
+- Pappus
+- Jeff Bezos
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=gX670Vd4sEg
 speaker: 北美王路飞
-tags:
-  - problem-solving
-  - heuristic-method
-  - cognitive-framework
-  - learning-strategies
-  - critical-thinking
-title: 超越AI的人类核心能力：波利亚《如何解题》的思维操作系统
-summary: 本文深入探讨了数学家乔治·波利亚的经典著作《如何解题》（How to Solve it），揭示了一套在AI时代更显珍贵的问题解决思维框架。文章详细阐述了理解问题、构思方案、执行方案和回顾总结这四个核心步骤，并介绍了类比、推广和逆向工作法等高级启发式技巧。通过具体案例和在编程、项目管理中的应用，强调了解决问题能力并非天赋，而是可系统训练的“思维操作系统”，帮助读者在复杂挑战中找到秩序和途径。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - George Pólya
-  - Pappus
-  - Jeff Bezos
-companies_orgs:
-  - Stanford University
-  - Amazon
-products_models: []
-media_books:
-  - How to Solve it
-  - Working Backwards
 status: evergreen
+summary: 本文深入探讨了数学家乔治·波利亚的经典著作《如何解题》（How to Solve it），揭示了一套在AI时代更显珍贵的问题解决思维框架。文章详细阐述了理解问题、构思方案、执行方案和回顾总结这四个核心步骤，并介绍了类比、推广和逆向工作法等高级启发式技巧。通过具体案例和在编程、项目管理中的应用，强调了解决问题能力并非天赋，而是可系统训练的“思维操作系统”，帮助读者在复杂挑战中找到秩序和途径。
+tags:
+- cognitive
+- critical-thinking
+- geopolitical
+- problem
+- strategy
+title: 超越AI的人类核心能力：波利亚《如何解题》的思维操作系统
 ---
+
 ### 引言：AI时代下人类核心能力的再思考
 
 大家好，欢迎来到我的频道。最近我们制作了几期关于人工智能（AI）的视频。今天，我想向大家介绍一本由一位数学家撰写的书，名为《**如何解题**》（How to Solve it）。这本书虽然发表于七十年前，已是相当古老的作品，但其中蕴含的核心思想在当下这个时代显得尤为珍贵。在套用公式和模板变得如此简单易行时，我们人类更应该注重培养什么样的能力？我认为，学会如何解题、如何解决问题至关重要，并且在短期内，AI尚无法完全取代人类解决复杂问题的能力。本期节目将详细介绍这本书。

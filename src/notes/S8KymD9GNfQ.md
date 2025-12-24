@@ -1,76 +1,76 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- Twitter
+- WikiLeaks
+- Visa
+- Federal Reserve
+- Bitfinex
+- Coinbase
+- Meta
+- PayPal
+- eBay
+- 中國人民銀行
+- JPMorgan Chase
+- ISIS
+- BingX
 date: '2022-09-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《加密貨幣的政治與經濟》
+- 《加密無政府主義宣言》
+people:
+- Timothy May
+- Richard Stallman
+- Julian Assange
+- Elon Musk
+- Satoshi Nakamoto
+- Friedrich Hayek
+- Ross Ulbricht
+- Yanis Varoufakis
+- Ruja Ignatova
+- David Marcus
+- Mark Zuckerberg
+- Bruno Le Maire
+- 王信
+- Donald Trump
+- Vitalik Buterin
+- 唐鳳
+- Amir Taaki
+- Glen Weyl
+products_models:
+- Bitcoin
+- 數字人民幣
+- NFT
+- Dogecoin
+- Ethereum
+- Tether
+- Libra
+- Whatsapp
+- Messenger
+- OneCoin
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=S8KymD9GNfQ
 speaker: 超級歪 SuperY
-tags:
-  - cryptocurrency-evolution
-  - decentralization
-  - digital-currency
-  - financial-regulation
-  - political-philosophy
-title: 加密貨幣的政治與經濟：從密碼龐克到央行數位貨幣的演變
-summary: 本文深入探讨加密货币的政治与经济演变。从1990年代“密碼龐克”的去中心化理想，到中本聪发明比特币解决双重支付问题，再到其作为投资工具的兴起。文章分析了比特币作为货币的局限性、ICO的风险与骗局，以及稳定币的矛盾。最后，讨论了各国政府对加密货币的反应，包括数字人民币和央行数字货币的推出，以及加密货币背后左右翼不同的政治解读，揭示了其对未来金融秩序的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Timothy May
-  - Richard Stallman
-  - Julian Assange
-  - Elon Musk
-  - Satoshi Nakamoto
-  - Friedrich Hayek
-  - Ross Ulbricht
-  - Yanis Varoufakis
-  - Ruja Ignatova
-  - David Marcus
-  - Mark Zuckerberg
-  - Bruno Le Maire
-  - 王信
-  - Donald Trump
-  - Vitalik Buterin
-  - 唐鳳
-  - Amir Taaki
-  - Glen Weyl
-companies_orgs:
-  - FBI
-  - Twitter
-  - WikiLeaks
-  - Visa
-  - Federal Reserve
-  - Bitfinex
-  - Coinbase
-  - Facebook
-  - PayPal
-  - eBay
-  - 中國人民銀行
-  - JPMorgan Chase
-  - ISIS
-  - BingX
-products_models:
-  - Bitcoin
-  - 數字人民幣
-  - NFT
-  - Dogecoin
-  - Ethereum
-  - Tether
-  - Libra
-  - Whatsapp
-  - Messenger
-  - OneCoin
-media_books:
-  - 《加密貨幣的政治與經濟》
-  - 《加密無政府主義宣言》
 status: evergreen
+summary: 本文深入探讨加密货币的政治与经济演变。从1990年代“密碼龐克”的去中心化理想，到中本聪发明比特币解决双重支付问题，再到其作为投资工具的兴起。文章分析了比特币作为货币的局限性、ICO的风险与骗局，以及稳定币的矛盾。最后，讨论了各国政府对加密货币的反应，包括数字人民币和央行数字货币的推出，以及加密货币背后左右翼不同的政治解读，揭示了其对未来金融秩序的深远影响。
+tags:
+- decentralization
+- digital
+- evolution
+- financial-regulation
+- political-philosophy
+title: 加密貨幣的政治與經濟：從密碼龐克到央行數位貨幣的演變
 ---
+
 ### 加密貨幣的崛起與其背後的政治經濟學
 
 自從**比特幣**（Bitcoin: 一種去中心化的加密貨幣）發行以來，近十年來**區塊鏈**（Blockchain: 一種去中心化的分布式數據庫技術）與**加密貨幣**（Cryptocurrency: 基於密碼學和區塊鏈技術的數字貨幣）的關注度越來越高。2020年，中國推出了用區塊鏈開發的「**數字人民幣**」（Digital Yuan / DCEP: 中國央行發行的法定數字貨幣）。2021年，薩爾瓦多成為第一個把比特幣當成法定貨幣的國家。此外，周杰倫進軍**NFT**（Non-Fungible Token: 非同質化代幣）秒殺進帳八千萬，Elon Musk甚至在Twitter上表示會大力支持**狗狗幣**（Dogecoin: 一種基於迷因的加密貨幣）。那麼，加密貨幣的出現會對未來社會造成什麼影響？

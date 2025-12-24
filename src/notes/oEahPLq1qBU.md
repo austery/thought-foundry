@@ -1,41 +1,38 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Dutch Republic
+- Russia
 date: '2024-03-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Journal of military history》
+people:
+- Sarah Paine
+- Donald Trump
+- Vladimir Putin
+- Hugo Grotius
+- Adolf Hitler
+- Joe Biden
+products_models:
+- Ukraine
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=oEahPLq1qBU
 speaker: Dwarkesh Patel
-tags:
-  - maritime-power
-  - continental-power
-  - international-law
-  - geopolitics
-  - russia-ukraine-war
-title: 海权与陆权：国际秩序的演变与未来
-summary: 本讲稿探讨了海权与陆权两种截然不同的国际秩序模式。海权秩序以商业、国际法和合作共赢为基础，而陆权模式则侧重领土控制和零和博弈。演讲者分析了俄罗斯当前行为的陆权逻辑及其破坏性，强调了国际法和机构在维护全球和平与繁荣中的关键作用，并指出一个包容性的、多方参与的海权秩序是理想的未来方向。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project: []
-people:
-  - Sarah Paine
-  - Dwarkesh Patel
-  - Donald Trump
-  - Vladimir Putin
-  - Hugo Grotius
-  - Adolf Hitler
-  - Joe Biden
-companies_orgs:
-  - Dutch Republic
-  - Russia
-products_models:
-  - Ukraine
-media_books:
-  - 《Journal of military history》
 status: evergreen
+summary: 本讲稿探讨了海权与陆权两种截然不同的国际秩序模式。海权秩序以商业、国际法和合作共赢为基础，而陆权模式则侧重领土控制和零和博弈。演讲者分析了俄罗斯当前行为的陆权逻辑及其破坏性，强调了国际法和机构在维护全球和平与繁荣中的关键作用，并指出一个包容性的、多方参与的海权秩序是理想的未来方向。
+tags:
+- law
+- power
+- russia-ukraine-war
+title: 海权与陆权：国际秩序的演变与未来
 ---
+
 ### 海权秩序与安全边界
 
 你生活在这个**海权秩序**（英文: Maritime order: 以海洋贸易、国际法和联盟为基础的全球秩序）的城堡围墙之内，人们遵循规则，然后在外部得到保护。我们有军事力量等等。如果这些围墙被独裁统治或非常愚蠢的战略所攻破，就像我们的国家在过去几年里曾多次濒临的危险一样，如果**特朗普**当时在**乌克兰**被入侵时是总统，**乌克兰**将不复存在。**俄军**将兵临**波兰**边境。

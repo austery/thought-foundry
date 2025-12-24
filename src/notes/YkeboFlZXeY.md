@@ -1,38 +1,38 @@
 ---
-author: 安争鸣（Stella An）
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 人民网
+- 复旦大学
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《回归家庭》
+people:
+- 林强
+- 沙尼·奥德加
+- 安争鸣
+- 曹晋
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=YkeboFlZXeY
 speaker: 安争鸣（Stella An）
-tags:
-  - choice-culture
-  - structural-inequality
-  - gender-roles
-  - domestic-labor
-title: 职业女性or家庭主妇：“自由选择”的幻象与结构性困境
-summary: 本文基于英国学者沙尼·奥德加的著作《回归家庭》，深入剖析了当代社会中女性在职业与家庭选择上所面临的结构性困境。文章批判了‘选择文化’和‘信心文化’如何将复杂的社会问题简化为个人选择，并揭示了‘甜心妈咪’和‘家庭CEO’等叙事背后隐藏的‘挽尊’机制。同时，作者指出‘灵活就业’并非出路，而是新的陷阱。最终呼吁通过制度改革和资源重新分配，实现真正的性别平等。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - 林强
-  - 沙尼·奥德加
-  - 安争鸣
-  - 曹晋
-companies_orgs:
-  - 人民网
-  - 复旦大学
-products_models: []
-media_books:
-  - 《回归家庭》
 status: evergreen
+summary: 本文基于英国学者沙尼·奥德加的著作《回归家庭》，深入剖析了当代社会中女性在职业与家庭选择上所面临的结构性困境。文章批判了‘选择文化’和‘信心文化’如何将复杂的社会问题简化为个人选择，并揭示了‘甜心妈咪’和‘家庭CEO’等叙事背后隐藏的‘挽尊’机制。同时，作者指出‘灵活就业’并非出路，而是新的陷阱。最终呼吁通过制度改革和资源重新分配，实现真正的性别平等。
+tags:
+- culture
+- gender-role
+- labor
+- society
+title: 职业女性or家庭主妇：“自由选择”的幻象与结构性困境
 ---
+
 ### 职业女性or家庭主妇：“自由选择”的幻象与结构性困境
 
 2021年，《人民网》的一篇报道，让许多人感到三观尽毁。报道称，39岁的沈阳市民林强同时身兼外卖员、产品推销员和网约车司机三职。他白天开网约车，晚上5点半到9点半送外卖，有订单时还要去推销和安装卫浴，简直是“顶级牛马”。然而，他却表示：“感谢政府的好政策，三份工作收入稳定，而且都受到法律保护。”

@@ -1,58 +1,58 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Hudson River Trading
+- Bloomberg Podcasts
+- CME
+- Goldman Sachs
+- Google
+- DeepMind
+- Anthropic
+- Knight Capital
+- Nvidia
+- Meta
+- Federal Reserve
 date: '2025-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Flash Boys
+- Wall Street Bets
+- Financial Times
+people:
+- Ian Dunning
+- Jill Weisenthal
+- Tracy Alloway
+- Don Wilson
+- Lloyd Blankfine
+- Sam Altman
+products_models:
+- ChatGPT
+- AlphaGo
+- Hopper
+- Blackwell
+project:
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ADfpBrl8Avo
 speaker: Bloomberg Podcasts
-tags:
-  - high-frequency-trading
-  - algorithmic-trading
-  - market-making
-  - ai-in-finance
-  - data-driven-prediction
-  - computational-infrastructure
-title: Hudson River Trading如何实际应用AI：高频交易中的人工智能与挑战
-summary: 本期Odd Lots播客深入探讨了高频交易公司Hudson River Trading (HRT)如何利用人工智能。HRT的AI负责人Ian Dunning解释了AI与传统量化交易的区别，强调了AI模型在处理海量市场数据、进行超短期预测方面的优势，以及其在交易执行和发现复杂模式中的作用。讨论还涵盖了AI在金融领域面临的挑战，包括电力消耗、数据可解释性、监管合规性，以及人才竞争和专有知识保护等问题，并展望了AI在不同交易时间尺度上的应用潜力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Ian Dunning
-  - Jill Weisenthal
-  - Tracy Alloway
-  - Don Wilson
-  - Lloyd Blankfine
-  - Sam Altman
-companies_orgs:
-  - Hudson River Trading
-  - Bloomberg Podcasts
-  - CME
-  - Goldman Sachs
-  - Google
-  - DeepMind
-  - Anthropic
-  - Knight Capital
-  - Nvidia
-  - Meta
-  - Federal Reserve
-products_models:
-  - ChatGPT
-  - AlphaGo
-  - Hopper
-  - Blackwell
-media_books:
-  - Odd Lots
-  - Flash Boys
-  - Wall Street Bets
-  - Financial Times
 status: evergreen
+summary: 本期Odd Lots播客深入探讨了高频交易公司Hudson River Trading (HRT)如何利用人工智能。HRT的AI负责人Ian Dunning解释了AI与传统量化交易的区别，强调了AI模型在处理海量市场数据、进行超短期预测方面的优势，以及其在交易执行和发现复杂模式中的作用。讨论还涵盖了AI在金融领域面临的挑战，包括电力消耗、数据可解释性、监管合规性，以及人才竞争和专有知识保护等问题，并展望了AI在不同交易时间尺度上的应用潜力。
+tags:
+- ai-in-finance
+- data
+- high
+- infrastructure
+- llm
+- market
+title: Hudson River Trading如何实际应用AI：高频交易中的人工智能与挑战
 ---
+
 ### 播客开场与AI在交易中的应用探讨
 
 **Bloomberg:** 大家好，欢迎收听新一期Odd Lots播客。我是Jill Weisenthal。

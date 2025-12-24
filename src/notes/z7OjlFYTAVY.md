@@ -1,35 +1,33 @@
 ---
-title: 聚焦国际焦点：美国政府停摆、法国政治危机、中东和平谈判及市场动态
-summary: 涵盖美国政府停摆的最新进展，法国总理的乐观态度，中东和平谈判的努力，以及黄金和人工智能领域的市场动态。同时关注了C罗成为首位足球亿万富翁的经济成就。
-area: market-analysis
-category: technology
+area: tech-engineering
+category: ai-ml
+companies_orgs: []
+date: '2025-10-08'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
 project:
 - ai-impact-analysis
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- ai
-- french-political-crisis
-- gold-market
-- middle-east-peace
-- us-government-shutdown
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
-date: '2025-10-08'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=z7OjlFYTAVY
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 涵盖美国政府停摆的最新进展，法国总理的乐观态度，中东和平谈判的努力，以及黄金和人工智能领域的市场动态。同时关注了C罗成为首位足球亿万富翁的经济成就。
+tags:
+- gold-market
+- middle-east-peace
+- political
+- us-government-shutdown
+title: 聚焦国际焦点：美国政府停摆、法国政治危机、中东和平谈判及市场动态
 ---
+
 ### 美国政府停摆进入第八天，白宫施压民主党
 
 Good morning. I'm Nathan Hager.

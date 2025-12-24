@@ -1,50 +1,48 @@
 ---
-author: 美投讲美股
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Meitou Team
+- Chrysler
+- American Express
+- Goldman Sachs
+- Google
+- Netflix
+- Meta
+- TikTok
+- NVIDIA
+- Tesla
+- Snowflake
+- Unity
+- Block
+- Shopify
+- Qualcomm
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Peter Lynch
+- Warren Buffett
+- Mark Zuckerberg
+- Sundar Pichai
+products_models: []
+project:
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=Q75xxR95qPw
 speaker: 美投讲美股
-tags:
-  - investment-strategy
-  - risk-management
-  - portfolio-management
-  - speculative-trading
-  - management-team
-title: 美投内部复盘会议：2025年投资策略与感悟分享（上）
-summary: 美投团队内部复盘会议公开，主持人分享2025年个人投资策略与感悟。核心内容包括：加仓采用“猎人模式”，投机交易集中于熟悉股票，以及对冲策略的四阶段演变。会议深入探讨了科技公司管理层在逆境中“断臂求生”的重要性，并就集中持股与多元化投资的利弊展开讨论，为投资者提供实战参考。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - investment-strategy
-people:
-  - Peter Lynch
-  - Warren Buffett
-  - Mark Zuckerberg
-  - Sundar Pichai
-companies_orgs:
-  - Meitou Team
-  - Chrysler
-  - American Express
-  - Goldman Sachs
-  - Google
-  - Netflix
-  - Meta
-  - TikTok
-  - NVIDIA
-  - Tesla
-  - Snowflake
-  - Unity
-  - Block
-  - Shopify
-  - Qualcomm
-products_models: []
-media_books: []
 status: evergreen
+summary: 美投团队内部复盘会议公开，主持人分享2025年个人投资策略与感悟。核心内容包括：加仓采用“猎人模式”，投机交易集中于熟悉股票，以及对冲策略的四阶段演变。会议深入探讨了科技公司管理层在逆境中“断臂求生”的重要性，并就集中持股与多元化投资的利弊展开讨论，为投资者提供实战参考。
+tags:
+- management
+- portfolio-management
+- risk-management
+- speculative-trading
+title: 美投内部复盘会议：2025年投资策略与感悟分享（上）
 ---
+
 美股播华尔街，大家好，我是**美投君**，你们的美股探路者。又到了一年一度的复盘时刻了。今年的形式会比较特殊，我决定将**美投团队**的内部复盘会议做一次大公开。今年**美投**分析师的团队又壮大了，最近我们八位分析师就凑到一块儿做了这么一次投资复盘大会。在会上，每位分析师都分享了自己2025年的投资操作和感悟，含金量极高。大家虽都是专业背景，但风格却各不相同，有进攻型，也有防御型，有正规军，也有野路子。我们会分享各自的成功经验以及失败教训，而更重要的是，我们会针对彼此的复盘展开尖锐的讨论。我感觉这种思维碰撞要比我一个人跟那叨叨要强太多了，也能给咱各位更多的参考。
 
 所以我就想，或许直接把这次内部会议全部剪辑成视频会很有价值。那么接下来我就节选一些精彩内容来分享给咱各位。这种形式，我还是第一次尝试，希望大家能够喜欢。不过视频开始前，我得先叠层甲，因为这会议最初的初衷是为了内部使用，压根没打算公开。所以不管是谁发言，观众都是我们自己内部的分析师。肯定做不到像平时做视频一样严谨，一些方法和建议也都是针对有一定经验的投资者说的，不一定会适合所有人。所以大家一定要根据自身的情况谨慎参考。

@@ -1,53 +1,52 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国家卫健委
+- 国家统计局
+- 国务院发展研究中心
+- 中国人口学会
+- 新华社
+- 中央电视台
+- 人民日报
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大国空巢》
+people:
+- 易富贤
+- 王世坚
+- 宋健
+- 斯大林
+- 于学军
+- 翟振武
+- 韩正
+- 陈云
+- 王培安
+- 林毅夫
+- 李文亮
+- 刘晓波
+- 刘仲敬
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=K_Z_JtFdpN4
 speaker: 三個水槍手
-tags:
-  - demographic-crisis
-  - family-planning-policy
-  - data-falsification
-  - aging-society
-  - pension-crisis
-title: 易富贤：被篡改的人口数据与中国不可逆转的衰退
-summary: 人口学者易富贤深度剖析了中国严重的人口危机。他指出，自1990年代以来，官方人口数据，尤其是生育率，被系统性地高估和篡改，以维持计划生育政策的合法性。中国的真实人口远低于官方公布的14.1亿，实际可能不足12.8亿。这种数据造假掩盖了迫在眉睫的人口结构崩溃，导致了不可逆转的经济衰退、养老金危机和国力下降。易富贤认为，中国已经错过了政策调整的最佳时机，正滑向一个“未富先老”的未来。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 易富贤
-  - 王世坚
-  - 宋健
-  - 斯大林
-  - 于学军
-  - 翟振武
-  - 韩正
-  - 陈云
-  - 王培安
-  - 林毅夫
-  - 李文亮
-  - 刘晓波
-  - 刘仲敬
-companies_orgs:
-  - 国家卫健委
-  - 国家统计局
-  - 国务院发展研究中心
-  - 中国人口学会
-  - 新华社
-  - 中央电视台
-  - 人民日报
-products_models: []
-media_books:
-  - 《大国空巢》
 status: evergreen
+summary: 人口学者易富贤深度剖析了中国严重的人口危机。他指出，自1990年代以来，官方人口数据，尤其是生育率，被系统性地高估和篡改，以维持计划生育政策的合法性。中国的真实人口远低于官方公布的14.1亿，实际可能不足12.8亿。这种数据造假掩盖了迫在眉睫的人口结构崩溃，导致了不可逆转的经济衰退、养老金危机和国力下降。易富贤认为，中国已经错过了政策调整的最佳时机，正滑向一个“未富先老”的未来。
+tags:
+- crisis
+- data
+- policy
+- society
+title: 易富贤：被篡改的人口数据与中国不可逆转的衰退
 ---
+
 ### 被严重高估的中国人口数据
 
 中国的实际人口数字是高估的，并没有官方宣称的14.1亿那么多。其根本原因在于，从1990年之后，中国的生育率数据就被高估了。

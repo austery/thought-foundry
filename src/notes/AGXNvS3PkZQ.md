@@ -1,126 +1,125 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Amazon
+- Netflix
+- Apple
+- Reddit
+- Meta
+- Palantir
+- Nvidia
+- Tesla
+- Robinhood
+- Google
+- Microsoft
+- Anthropic
+- OpenAI
+- Samsung
+- Hyundai
+- SK Hynix
+- Grab
+- Morgan Stanley
+- Evercore
+- Federal Reserve
+- SEC
+- Coinbase
+- Cloudflare
+- Zillow
+- Rocket Companies
+- Western Digital
+- Twilio
+- Atlassian
+- Roku
+- Rocket Lab
+- UnitedHealth
+- Cigna
+- Molina Healthcare
+- Oscar Health
+- MicroStrategy
+- Hims & Hers Health
+- Uber
+- Lemonade
+- Alibaba
+- Pfizer
+- Duolingo
+- Lyft
+- SpaceX
+- Berkshire Hathaway
+- Shopify
+- Spotify
+- Ferrari
+- Qualcomm
+- DraftKings
+- SoundHound AI
+- Airbnb
+- The Trade Desk
+- Archer Aviation
+- D-Wave
+- McDonald's
+- Chipotle
+- Credo Technology Group
+- Astera Labs
+- GSIT
+- Bloom Energy
+- EOSE
+- JPMorgan Chase
+- KeyBanc
+- Citron Research
+- Twitter
+- Bloomberg
+- The Wall Street Journal
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Big Short
+people:
+- Andy Jassy
+- Tim Cook
+- Jensen Huang
+- Michael Burry
+- Mark Zuckerberg
+- Donald Trump
+- Jerome Powell
+- Brian Armstrong
+- Tom Lee
+- Mike Wilson
+- Elizabeth Warren
+- Bernie Sanders
+- Bill Ackman
+products_models:
+- S&P 500
+- NASDAQ
+- Bitcoin
+- Ethereum
+- AWS
+- Trainium 2
+- Trainium 3
+- iPhone 17
+- Blackwell
+- GTC
+- VIX
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=AGXNvS3PkZQ
 speaker: Amit Kukreja
-tags:
-  - earnings-season
-  - tech-stocks
-  - market-sentiment
-  - hyperscalers
-  - inflation-hedge
-title: 亚马逊业绩井喷，科技巨头财报周强势收官
-summary: 本周市场经历了疯狂的财报季，亚马逊凭借其AWS业务20%的惊人增长，股价飙升，提振了整个市场情绪。苹果公司同样表现出色，发布了强劲的第四季度指引。尽管Meta表现不佳，但谷歌和微软的强劲业绩共同描绘了“超大规模云服务商”作为投资核心的稳固地位。与此同时，知名空头迈克尔·贝瑞再度发声警告市场泡沫，而英伟达CEO黄仁勋则在韩国积极拓展业务。市场在多空交织中，科技股依然是引领指数创下新高的核心动力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Andy Jassy
-  - Tim Cook
-  - Jensen Huang
-  - Michael Burry
-  - Mark Zuckerberg
-  - Donald Trump
-  - Jerome Powell
-  - Brian Armstrong
-  - Tom Lee
-  - Mike Wilson
-  - Elizabeth Warren
-  - Bernie Sanders
-  - Bill Ackman
-companies_orgs:
-  - Amazon
-  - Netflix
-  - Apple
-  - Reddit
-  - Meta
-  - Palantir
-  - Nvidia
-  - Tesla
-  - Robinhood
-  - Google
-  - Microsoft
-  - Anthropic
-  - OpenAI
-  - Samsung
-  - Hyundai
-  - SK Hynix
-  - Grab
-  - Morgan Stanley
-  - Evercore
-  - Federal Reserve
-  - SEC
-  - Coinbase
-  - Cloudflare
-  - Zillow
-  - Rocket Companies
-  - Western Digital
-  - Twilio
-  - Atlassian
-  - Roku
-  - Rocket Lab
-  - UnitedHealth
-  - Cigna
-  - Molina Healthcare
-  - Oscar Health
-  - MicroStrategy
-  - Hims & Hers Health
-  - Uber
-  - Lemonade
-  - Alibaba
-  - Pfizer
-  - Duolingo
-  - Lyft
-  - SpaceX
-  - Berkshire Hathaway
-  - Shopify
-  - Spotify
-  - Ferrari
-  - Qualcomm
-  - DraftKings
-  - SoundHound AI
-  - Airbnb
-  - The Trade Desk
-  - Archer Aviation
-  - D-Wave
-  - McDonald's
-  - Chipotle
-  - Credo Technology Group
-  - Astera Labs
-  - GSIT
-  - Bloom Energy
-  - EOSE
-  - JPMorgan Chase
-  - KeyBanc
-  - Citron Research
-  - Facebook
-  - Twitter
-  - Bloomberg
-  - The Wall Street Journal
-products_models:
-  - S&P 500
-  - NASDAQ
-  - Bitcoin
-  - Ethereum
-  - AWS
-  - Trainium 2
-  - Trainium 3
-  - iPhone 17
-  - Blackwell
-  - GTC
-  - VIX
-media_books:
-  - The Big Short
 status: evergreen
+summary: 本周市场经历了疯狂的财报季，亚马逊凭借其AWS业务20%的惊人增长，股价飙升，提振了整个市场情绪。苹果公司同样表现出色，发布了强劲的第四季度指引。尽管Meta表现不佳，但谷歌和微软的强劲业绩共同描绘了“超大规模云服务商”作为投资核心的稳固地位。与此同时，知名空头迈克尔·贝瑞再度发声警告市场泡沫，而英伟达CEO黄仁勋则在韩国积极拓展业务。市场在多空交织中，科技股依然是引领指数创下新高的核心动力。
+tags:
+- earnings-season
+- hyperscaler
+- inflation-hedge
+- market-sentiment
+- tech-stock
+title: 亚马逊业绩井喷，科技巨头财报周强势收官
 ---
+
 ### 财报周的疯狂与市场的狂欢
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是10月31日，星期五。祝大家万圣节快乐。我没有打扮，因为这周是今年最疯狂的一周之一，我几乎都没怎么出门。基本上每天都有七到八小时的直播，甚至还有九小时的。说实话，我实在没准备服装，抱歉。这周太狂野了。我想，你可以叫我一个在财报周后筋疲力尽的股市YouTube博主。

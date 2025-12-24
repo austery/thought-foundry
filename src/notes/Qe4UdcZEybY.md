@@ -1,42 +1,42 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- C计划
 date: '2024-07-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《玛蒂尔达》
+- 《东方快车谋杀案》
+- 《简·爱》
+- 《天生有罪》
+- 《十岁那年》
+people:
+- 蓝方
+- 崔娃
+- 波洛
+products_models: []
+project:
+- cultural-critique
+- knowledge-pipeline
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Qe4UdcZEybY
 speaker: 一席YiXi
-tags:
-  - critical-thinking
-  - social-competition
-  - empathy-building
-  - structural-awareness
-  - public-reasoning
-title: 批判性思维：从质疑到建设，成为完整的人
-summary: 蓝方通过教育实践揭示批判性思维如何帮助个体突破社会竞争的桎梏，从‘卷赢他人’转向理解结构、同理他人，并最终实现独立而丰盈的自我。这不是对抗，而是建设性的理性对话。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - cultural-critique
-  - knowledge-pipeline
-  - historical-insights
-people:
-  - 蓝方
-  - 崔娃
-  - 波洛
-companies_orgs:
-  - C计划
-products_models: []
-media_books:
-  - 《玛蒂尔达》
-  - 《东方快车谋杀案》
-  - 《简·爱》
-  - 《天生有罪》
-  - 《十岁那年》
 status: evergreen
+summary: 蓝方通过教育实践揭示批判性思维如何帮助个体突破社会竞争的桎梏，从‘卷赢他人’转向理解结构、同理他人，并最终实现独立而丰盈的自我。这不是对抗，而是建设性的理性对话。
+tags:
+- critical-thinking
+- empathy-building
+- geopolitical
+- public
+- social
+title: 批判性思维：从质疑到建设，成为完整的人
 ---
+
 ### 批判性思维：从社会比较到自我确认
 
 作为学生，我们追求的是分数、排名和更好的学校；作为成年人，我们追求的是收入、职级和更高的社会地位。我们总是在一个社会比较与竞争的框架中确认自己的价值，害怕被比下去，行动的动力来自“卷赢他人”的冲动，而非源于内心真正的渴望与热爱。最终的结果往往是焦虑、倦怠和意义的缺失。

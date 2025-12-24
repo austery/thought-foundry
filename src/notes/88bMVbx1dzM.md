@@ -1,51 +1,49 @@
 ---
-author: Veritasium
-date: '2025-02-05'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=88bMVbx1dzM
-speaker: Veritasium
-tags:
-  - veritasium
-  - electron-microscopy
-  - atomic-resolution
-  - spherical-aberration
-  - wave-particle-duality
-  - scientific-breakthrough
-title: 揭秘原子：电子显微镜如何突破百年瓶颈，实现原子级观测
-summary: 本文深入探讨了电子显微镜从早期发展到最终实现原子级分辨率的百年历程。从德布罗意波粒二象性理论，到鲁斯卡建造首台电子显微镜，再到谢尔策发现的球差限制，以及最终由厄本、海德和罗斯团队通过非对称透镜成功校正球差，文章详细阐述了科学家们如何克服重重技术挑战，将原子从理论变为可直接观测的实体，彻底改变了材料科学和工程领域。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-people:
-  - Louis de Broglie
-  - Hans Busch
-  - Ernst Ruska
-  - Max Knoll
-  - Otto Scherzer
-  - Albert Crewe
-  - Manfred von Ardenne
-  - Knut Urban
-  - Max Haider
-  - Harold Rose
-  - Orndrej Krivanek
+category: technology
 companies_orgs:
-  - University of Sydney
-  - Incogni
+- University of Sydney
+- Incogni
+date: '2025-02-05'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Louis de Broglie
+- Hans Busch
+- Ernst Ruska
+- Max Knoll
+- Otto Scherzer
+- Albert Crewe
+- Manfred von Ardenne
+- Knut Urban
+- Max Haider
+- Harold Rose
+- Orndrej Krivanek
 products_models:
-  - Transmission Electron Microscope
-  - Field Ion Microscope
-  - Scanning TEM
-  - Hexapole Magnet
-  - Octopole Magnet
-  - Decapole Magnet
-media_books: []
+- Transmission Electron Microscope
+- Field Ion Microscope
+- Scanning TEM
+- Hexapole Magnet
+- Octopole Magnet
+- Decapole Magnet
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=88bMVbx1dzM
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了电子显微镜从早期发展到最终实现原子级分辨率的百年历程。从德布罗意波粒二象性理论，到鲁斯卡建造首台电子显微镜，再到谢尔策发现的球差限制，以及最终由厄本、海德和罗斯团队通过非对称透镜成功校正球差，文章详细阐述了科学家们如何克服重重技术挑战，将原子从理论变为可直接观测的实体，彻底改变了材料科学和工程领域。
+tags:
+- atomic-resolution
+- electron-microscopy
+- science
+- scientific
+- spherical-aberration
+title: 揭秘原子：电子显微镜如何突破百年瓶颈，实现原子级观测
 ---
+
 ### 引言：原子可见性与挑战
 
 这是一小片金属，直径仅三毫米。如果持续放大，你会看到：放大1000倍，10万倍，乃至5000万倍。这些模糊的斑点实际上就是**原子**（Atom: 构成物质的基本单元）。

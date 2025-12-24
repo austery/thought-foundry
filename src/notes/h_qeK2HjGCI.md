@@ -1,31 +1,30 @@
 ---
-title: 彭博科技特辑：媒体、娱乐与直播行业的未来洞察
-summary: 本期彭博科技特辑深入探讨了媒体和娱乐行业的当前挑战与未来机遇，包括吉米·坎摩尔的争议事件、美国国家公共广播电台的资金困境、奈飞的游戏战略、Twitch的直播社区模式，以及移动游戏公司Scopely和知名主播Pokimane的商业洞察。
 area: null
 category: null
-project: []
-tags:
-- content-creation
-- media-industry
-- mobile-gaming
-- public-broadcasting
-- streaming-platforms
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-11'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h_qeK2HjGCI
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期彭博科技特辑深入探讨了媒体和娱乐行业的当前挑战与未来机遇，包括吉米·坎摩尔的争议事件、美国国家公共广播电台的资金困境、奈飞的游戏战略、Twitch的直播社区模式，以及移动游戏公司Scopely和知名主播Pokimane的商业洞察。
+tags:
+- content-creation
+- industry
+- mobile-gaming
+- platform
+- public
+title: 彭博科技特辑：媒体、娱乐与直播行业的未来洞察
 ---
+
 ### 彭博科技特辑：荧幕时间大会现场报道
 
 Bloomberg Audio Studios, podcasts, radio, news. Bloomberg Tech is live from coast to coast with Caroline Hyde in New York and Ed Lllo in San Francisco. Welcome to a special edition of Bloomberg Tech live from Bloomberg Screen Time in Los Angeles.

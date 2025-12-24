@@ -1,43 +1,42 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- European Central Bank
+- Norges Bank
+- European Union
+- IMF
+- International Energy Agency
+- European Commission
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Christine Lagarde
+- Al Gore
+- Olav H. Hauge
+- Chancellor Mertz
+- Jane Goodall
+products_models: []
+project:
+- geopolitics-watch
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=SyQfbJ0WSxQ
 speaker: Norges Bank Investment Management
-tags:
-  - energy-security
-  - green-transition
-  - renewable-energy
-  - european-competitiveness
-  - capital-markets-union
-title: 拉加德：欧洲如何通过可再生能源实现能源安全、可持续与可负担
-summary: 欧洲央行行长克里斯蒂娜·拉加德在挪威银行气候会议上指出，欧洲正面临能源安全、可持续性和可负担性之间的“三难困境”。乌克兰战争暴露了欧洲对进口化石燃料的依赖，导致通货膨胀飙升和竞争力下降。她强调，唯一的出路是大力发展本地清洁能源，通过大规模投资电网和储能、深化资本市场整合以及创造可预测的政策环境，欧洲能够克服挑战，实现能源转型，确保未来的工业竞争力并应对气候危机。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - investment-strategy
-people:
-  - Christine Lagarde
-  - Al Gore
-  - Olav H. Hauge
-  - Chancellor Mertz
-  - Jane Goodall
-companies_orgs:
-  - European Central Bank
-  - Norges Bank
-  - European Union
-  - IMF
-  - International Energy Agency
-  - European Commission
-products_models: []
-media_books: []
 status: evergreen
+summary: 欧洲央行行长克里斯蒂娜·拉加德在挪威银行气候会议上指出，欧洲正面临能源安全、可持续性和可负担性之间的“三难困境”。乌克兰战争暴露了欧洲对进口化石燃料的依赖，导致通货膨胀飙升和竞争力下降。她强调，唯一的出路是大力发展本地清洁能源，通过大规模投资电网和储能、深化资本市场整合以及创造可预测的政策环境，欧洲能够克服挑战，实现能源转型，确保未来的工业竞争力并应对气候危机。
+tags:
+- capital
+- energy
+- environment
+- geopolitical
+- renewable-energy
+title: 拉加德：欧洲如何通过可再生能源实现能源安全、可持续与可负担
 ---
+
 ### 欧洲能源格局的剧变
 
 尊敬的殿下，各位主席、行长、部长、女士们，请允许我切换到英语。

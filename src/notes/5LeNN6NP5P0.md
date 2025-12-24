@@ -1,62 +1,62 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- ISIS
+- Hamas
+- TikTok
+- Quora
+- Google
+- Walmart
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《极权主义的起源》
+people:
+- Charlie Kirk
+- Taylor Robinson
+- Donald Trump
+- James Earl Ray
+- Martin Luther King Jr.
+- John F. Kennedy
+- Joseph Schumpeter
+- Karl Mannheim
+- Alexis de Tocqueville
+- Hannah Arendt
+- Chen Duxiu
+- Li Dazhao
+- Lu Xun
+- Li Rui
+- Barack Obama
+- Xi Jinping
+- Sima Nan
+- Zhang Weiwei
+- Wu Jing
+products_models:
+- iPhone
+- F-35
+project:
+- us-analysis
+- geopolitics-watch
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=5LeNN6NP5P0
 speaker: 夸克说
-tags:
-  - us-societal-division
-  - free-speech
-  - radicalism-in-academia
-  - us-china-relations
-  - information-echo-chambers
-title: 从查理·柯克遇刺案看美国社会撕裂与中美关系走向
-summary: 本文从查理·柯克遇刺案引发的舆论争议切入，深入探讨了美国社会前所未有的撕裂现象及其根源，包括言论自由的边界、激进主义在大学校园的滋生、以及社交媒体和中国外部威胁对内部共识的侵蚀。文章分析了资本主义自我毁灭的倾向，并对中美关系未来走向提出了独到见解，认为中美之间几乎必然会爆发冲突，并探讨了可能的解决方案。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - china-analysis
-people:
-  - Charlie Kirk
-  - Taylor Robinson
-  - Donald Trump
-  - James Earl Ray
-  - Martin Luther King Jr.
-  - John F. Kennedy
-  - Joseph Schumpeter
-  - Karl Mannheim
-  - Alexis de Tocqueville
-  - Hannah Arendt
-  - Chen Duxiu
-  - Li Dazhao
-  - Lu Xun
-  - Li Rui
-  - Barack Obama
-  - Xi Jinping
-  - Sima Nan
-  - Zhang Weiwei
-  - Wu Jing
-companies_orgs:
-  - FBI
-  - ISIS
-  - Hamas
-  - TikTok
-  - Quora
-  - Google
-  - Walmart
-products_models:
-  - iPhone
-  - F-35
-media_books:
-  - 《极权主义的起源》
 status: evergreen
+summary: 本文从查理·柯克遇刺案引发的舆论争议切入，深入探讨了美国社会前所未有的撕裂现象及其根源，包括言论自由的边界、激进主义在大学校园的滋生、以及社交媒体和中国外部威胁对内部共识的侵蚀。文章分析了资本主义自我毁灭的倾向，并对中美关系未来走向提出了独到见解，认为中美之间几乎必然会爆发冲突，并探讨了可能的解决方案。
+tags:
+- free
+- information
+- radicalism-in-academia
+- societal
+- us-china-relations
+title: 从查理·柯克遇刺案看美国社会撕裂与中美关系走向
 ---
+
 ### 引言：查理·柯克遇刺案与信息失真
 
 大家好，欢迎收看夸克说，我是夸克，这期我们来聊聊**查理·柯克**（Charlie Kirk: 美国保守派活动家，Turning Point USA创始人）遇刺的事件。

@@ -1,38 +1,39 @@
 ---
-author: Anthropic
+area: tech-insights
+category: technology
+companies_orgs:
+- Eli Lilly and Company
+- Anthropic
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Diogo Rau
+- Dario Amodei
+products_models:
+- Claude
+- Claude for Financial Services
+- Claude for Life Sciences
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Yiy0cU6ChSw
 speaker: Anthropic
-tags:
-  - enterprise-ai
-  - ai-strategy
-  - model-accuracy
-  - drug-discovery
-  - ai-deployment
-title: 企业级AI的规模化应用：礼来与Anthropic的炉边对话
-summary: 本次炉边对话探讨了Anthropic在企业级人工智能领域的战略，强调其与消费级AI的不同之处在于对准确性和可靠性的高度重视。Anthropic创始人兼CEO Dario Amodei指出，企业级应用，尤其是在药物研发等领域，需要AI模型具备深厚的专业知识，并避免提供奉承性回应。对话还介绍了Anthropic如何通过开发专业化模型（如Claude for Life Sciences）来满足行业特定需求。最后，Amodei建议药物研发领域应抱有雄心，着眼于AI的端到端集成，而不是局限于小范围改进，以避免延误患者获益。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Diogo Rau
-  - Dario Amodei
-companies_orgs:
-  - Eli Lilly and Company
-  - Anthropic
-products_models:
-  - Claude
-  - Claude for Financial Services
-  - Claude for Life Sciences
-media_books: []
 status: evergreen
+summary: 本次炉边对话探讨了Anthropic在企业级人工智能领域的战略，强调其与消费级AI的不同之处在于对准确性和可靠性的高度重视。Anthropic创始人兼CEO
+  Dario Amodei指出，企业级应用，尤其是在药物研发等领域，需要AI模型具备深厚的专业知识，并避免提供奉承性回应。对话还介绍了Anthropic如何通过开发专业化模型（如Claude
+  for Life Sciences）来满足行业特定需求。最后，Amodei建议药物研发领域应抱有雄心，着眼于AI的端到端集成，而不是局限于小范围改进，以避免延误患者获益。
+tags:
+- ai-strategy
+- drug-discovery
+- enterprise-ai
+- llm
+- model
+title: 企业级AI的规模化应用：礼来与Anthropic的炉边对话
 ---
+
 ### 引言：AI进展与患者福祉
 
 Diogo: 让我们对技术的进步速度抱有信心，因为如果模型在一年后变得足够优秀，能够实现**端到端**（End-to-End: 从开始到结束的整个过程）的运作，而你那时才开始部署它，那将会再有两年的延迟。

@@ -1,119 +1,118 @@
 ---
-author: Hung-yi Lee
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Meta
+- Microsoft
+- ByteDance
+- Kyutai
+- MTK Research
+- CMU
+- NTU
+- 台大圖書館
+- 騰訊
+- Amazon
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Interspeech》
+- 《NeurIPS》
+- 《ICASSP》
+- 《TASLP》
+- 《arXiv》
+- 《饥饿游戏》
+- 《大家说英语》
+- 《托福听力测验》
+- 《生成式人工智慧與機器學習導論2025》
+people:
+- Geoffrey Hinton
+- Abdel-rahman Mohamed
+- 鍾毓安
+- 王育軒
+- 劉廷偉
+- 楊書文
+- 李尚文
+- Shinji Watanabe
+- 陳冠宇
+- 孫帥豪
+- 曾柏翔
+- 李佳軒
+- 張凱為
+- 曾亮軒
+- 陳宜昌
+- 李冠儀
+- 林冠廷
+- 上官思雲
+- Sam Altman
+products_models:
+- ChatGPT Voice Mode
+- Gemini Live
+- AudioGPT
+- Speech Copilot
+- Whisper
+- AlphaGo
+- Restricted Boltzmann Machine
+- Hidden Markov Model
+- Subspace GMM
+- BERT
+- MaskGIT
+- Mockingjay
+- TERA
+- APC
+- wav2vec
+- HuBERT
+- LibriSpeech
+- SUPERB
+- AV-SUPERB
+- ML-SUPERB
+- Dynamic-SUPERB
+- Indic-SUPERB
+- TS-SUPERB
+- wav2vec-U
+- EURO
+- Dual
+- S3PRL
+- Generative Spoken Language Model
+- K-Means Clustering
+- VQ Layer
+- BPE
+- Neural Speech Codec
+- AudioLM
+- Llama 3
+- GPT-4o
+- Moshi
+- Twist
+- Spirit LM
+- GLM-4-Voice
+- CosyVoice
+- TASTE
+- DeepSeek
+- Claude
+- STITCH
+- GLM-4 9B Chat
+- Llama 3.2 1B
+- Audio Reasoner
+- Audio Thinker
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=CbIPjrOj2Tc
 speaker: Hung-yi Lee
-tags:
-  - llm
-  - speech-recognition
-  - unsupervised-learning
-  - self-supervised-learning
-  - end-to-end-model
-  - reasoning
-title: 语音语言模型发展史：从早期探索到智能对话的演进
-summary: 本讲座深入探讨了语音语言模型（SLM）的发展历程，从早期的语音识别技术、无监督学习、自监督表示模型，到现代端到端对话式AI的挑战与突破。讲者结合自身团队的研究经验，详细介绍了SLM的定义、不同模式、与文本模型的对比，以及未来在推理、全双工交互等方面的研究方向。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Geoffrey Hinton
-  - Abdel-rahman Mohamed
-  - 鍾毓安
-  - 王育軒
-  - 劉廷偉
-  - 楊書文
-  - 李尚文
-  - Shinji Watanabe
-  - 陳冠宇
-  - 孫帥豪
-  - 曾柏翔
-  - 李佳軒
-  - 張凱為
-  - 曾亮軒
-  - 陳宜昌
-  - 李冠儀
-  - 林冠廷
-  - 上官思雲
-  - Sam Altman
-companies_orgs:
-  - OpenAI
-  - Meta
-  - Microsoft
-  - ByteDance
-  - Kyutai
-  - MTK Research
-  - CMU
-  - NTU
-  - 台大圖書館
-  - 騰訊
-  - Amazon
-products_models:
-  - ChatGPT Voice Mode
-  - Gemini Live
-  - AudioGPT
-  - Speech Copilot
-  - Whisper
-  - AlphaGo
-  - Restricted Boltzmann Machine
-  - Hidden Markov Model
-  - Subspace GMM
-  - BERT
-  - MaskGIT
-  - Mockingjay
-  - TERA
-  - APC
-  - wav2vec
-  - HuBERT
-  - LibriSpeech
-  - SUPERB
-  - AV-SUPERB
-  - ML-SUPERB
-  - Dynamic-SUPERB
-  - Indic-SUPERB
-  - TS-SUPERB
-  - wav2vec-U
-  - EURO
-  - Dual
-  - S3PRL
-  - Generative Spoken Language Model
-  - K-Means Clustering
-  - VQ Layer
-  - BPE
-  - Neural Speech Codec
-  - AudioLM
-  - Llama 3
-  - GPT-4o
-  - Moshi
-  - Twist
-  - Spirit LM
-  - GLM-4-Voice
-  - CosyVoice
-  - TASTE
-  - DeepSeek
-  - Claude
-  - STITCH
-  - GLM-4 9B Chat
-  - Llama 3.2 1B
-  - Audio Reasoner
-  - Audio Thinker
-media_books:
-  - 《Interspeech》
-  - 《NeurIPS》
-  - 《ICASSP》
-  - 《TASLP》
-  - 《arXiv》
-  - 《饥饿游戏》
-  - 《大家说英语》
-  - 《托福听力测验》
-  - 《生成式人工智慧與機器學習導論2025》
 status: evergreen
+summary: 本讲座深入探讨了语音语言模型（SLM）的发展历程，从早期的语音识别技术、无监督学习、自监督表示模型，到现代端到端对话式AI的挑战与突破。讲者结合自身团队的研究经验，详细介绍了SLM的定义、不同模式、与文本模型的对比，以及未来在推理、全双工交互等方面的研究方向。
+tags:
+- learning
+- model
+- philosophy
+- self
+- speech-recognition
+title: 语音语言模型发展史：从早期探索到智能对话的演进
 ---
+
 大家好，这是本学期最后一堂课。今天我将跟大家分享**语音语言模型**（Speech Language Model: 一种能处理语音输入并生成语音输出的模型）的发展史。在过去的几堂课里，我们花了很多精力讲解了各式各样的生成式AI技术，其中多数基本观念都已涵盖。剩下的就靠大家自己深入研究了。今天这堂课，我将以第一人称视角，讲述语音语言模型这项技术这些年来的发展历程。
 
 在开始之前，有一个免责声明：本课程并非完整介绍语音语言模型的技术，而是以我及我的团队的第一人称视角，讲述我们所看到的语音语言模型技术发展。所以这不是一个完整的概述。希望大家能通过这堂课，了解一线研究人员是如何看待一个技术的演进的。在某个时间点，受限于概念、资源和想法的局限，我们是如何看待一个问题，以及后来发生了怎样的转变。

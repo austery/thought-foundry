@@ -1,33 +1,32 @@
 ---
-title: 股市异动：Papa John's、拉斯维加斯金沙与博通的涨跌背后
-summary: 本期《股票异动报告》聚焦三家公司：Papa John's因收购传闻股价大涨；拉斯维加斯金沙受澳门博彩需求疲软影响下跌；博通则因与OpenAI的合作股价飙升，分析师对其AI收入增长持乐观态度。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- casino-industry
-- market-analysis
-- mergers-acquisitions
-- stock-movers
-- tech-stocks
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=tTfqcACFFts
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期《股票异动报告》聚焦三家公司：Papa John's因收购传闻股价大涨；拉斯维加斯金沙受澳门博彩需求疲软影响下跌；博通则因与OpenAI的合作股价飙升，分析师对其AI收入增长持乐观态度。
+tags:
+- business
+- industry
+- market-analysis
+- stock
+- tech-stock
+title: 股市异动：Papa John's、拉斯维加斯金沙与博通的涨跌背后
 ---
+
 ### 彭博《股票异动报告》开场
 
 Bloomberg: Audio Studios podcasts, radio, news, the Stock Movers Report, your roundup of companies making moves in the stock market, harnessing the power of Bloomberg data.

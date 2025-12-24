@@ -1,27 +1,27 @@
 ---
-title: 漫士沉思录：一场长达20年的复仇
-summary: null
 area: null
-category: null
-project: []
-tags:
-  - 学习方法
-  - 漫士
-  - 科普
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
 author: Lei
-speaker: null
+category: null
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+people:
+- 漫士
+products_models: []
+project: []
 series: null
 source: null
+speaker: null
+summary: null
+tags:
+- learning
+- 科普
+title: 漫士沉思录：一场长达20年的复仇
 ---
+
 # 讲数学两年百万粉，我终于实现了这场复仇
 
 ### 讲述者简介

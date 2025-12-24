@@ -1,47 +1,47 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 洛克希德·马丁公司
+- Salesforce
+- Costco
+- 耐克
+- Lululemon
 date: '2025-01-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交事务》
+people:
+- 唐石峻
+- Mark Benioff
+- Ot
+products_models:
+- F-35闪电战机
+- C-130大力神运输机
+- UH-60黑鹰直升机
+- F-22猛禽战机
+- Patriot爱国者导弹系统
+project:
+- us-analysis
+- historical-insights
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=UzjFhmsccfA
 speaker: Shijun Tang
-tags:
-  - career-transition
-  - business-model-analysis
-  - financial-statement-interpretation
-  - shareholder-value-creation
-  - retail-consumer-behavior
-title: 35岁重启人生：从代购到会计师，一位投资者的财富与职业转型之路
-summary: 唐石峻回顾十年代购生涯的终结，揭示他如何在35岁转向会计行业，并通过财务分析深入理解投资本质。同时分析洛克希德、Salesforce与Costco的财报表现，探讨企业基本面与投资决策的关系。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - investment-strategy
-people:
-  - 唐石峻
-  - Mark Benioff
-  - Ot
-companies_orgs:
-  - 洛克希德·马丁公司
-  - Salesforce
-  - Costco
-  - 耐克
-  - Lululemon
-products_models:
-  - F-35闪电战机
-  - C-130大力神运输机
-  - UH-60黑鹰直升机
-  - F-22猛禽战机
-  - Patriot爱国者导弹系统
-media_books:
-  - 《外交事务》
 status: evergreen
+summary: 唐石峻回顾十年代购生涯的终结，揭示他如何在35岁转向会计行业，并通过财务分析深入理解投资本质。同时分析洛克希德、Salesforce与Costco的财报表现，探讨企业基本面与投资决策的关系。
+tags:
+- business-model-analysis
+- career-transition
+- financial
+- retail-consumer-behavior
+- value
+title: 35岁重启人生：从代购到会计师，一位投资者的财富与职业转型之路
 ---
+
 ### 从代购到会计师：35岁的人生重启
 
 我在之前的文章和视频中提到过，我原来其实是做代购的。从2014年开始，一做就是十年。不过在2024年7月，我最终停止了代购生意，关掉了淘宝店，算是为自己的前半生做一个告别，开启下一段新的旅程。

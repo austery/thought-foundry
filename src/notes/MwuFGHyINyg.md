@@ -1,66 +1,66 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NVIDIA
+- OpenAI
+- Microsoft
+- 诺基亚
+- 台积电
+- Uber
+- 克莱斯勒
+- AMD
+- 苹果
+- Google
+- 亚马逊
+- 特斯拉
+- 英特尔
+- 中粮集团
+- 中国国新
+- 阳光电源
+- 伯克希尔哈撒韦
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《路透社》
+people:
+- Donald Trump
+- Xi Jinping
+- 黄仁勋
+- 李在明
+products_models:
+- Blackwill
+- Hobber
+- Robin
+- MVQ link
+- Blue Feed Four
+- Drive AGX Hybrid ten
+- FSD
+- Windows
+- ChatGPT
+- Astropy
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=MwuFGHyINyg
 speaker: 小翠時政財經
-tags:
-  - us-china-relations
-  - ai-strategy
-  - semiconductor-policy
-  - economic-indicators
-  - market-trends
-title: 川普亚洲行与“川习会”前瞻：芯片、芬太尼与英伟达的AI帝国野心
-summary: 本期节目深入分析了美国前总统川普的亚洲行成果，包括与日韩的经贸协议，并前瞻了他与习近平会晤的焦点议题，特别是英伟达Blackwill芯片的销售与芬太尼关税。节目重点探讨了英伟达CEO黄仁勋在GTC大会上展示的“AI帝国”宏大愿景，涵盖制造业回归、6G合作、量子计算及国家战略绑定，并辩论了AI是否存在泡沫。此外，还分析了中国新兴产业基金的投向、美国消费者信心指数的结构性分化，以及美联储政策对市场流动性的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - 习近平
-  - 黄仁勋
-  - 李在明
-companies_orgs:
-  - NVIDIA
-  - OpenAI
-  - Microsoft
-  - 诺基亚
-  - 台积电
-  - Uber
-  - 克莱斯勒
-  - AMD
-  - 苹果
-  - 谷歌
-  - 亚马逊
-  - 特斯拉
-  - 英特尔
-  - 中粮集团
-  - 中国国新
-  - 阳光电源
-  - 伯克希尔哈撒韦
-products_models:
-  - Blackwill
-  - Hobber
-  - Robin
-  - MVQ link
-  - Blue Feed Four
-  - Drive AGX Hybrid ten
-  - FSD
-  - Windows
-  - ChatGPT
-  - Astropy
-media_books:
-  - 《华尔街日报》
-  - 《路透社》
 status: evergreen
+summary: 本期节目深入分析了美国前总统川普的亚洲行成果，包括与日韩的经贸协议，并前瞻了他与习近平会晤的焦点议题，特别是英伟达Blackwill芯片的销售与芬太尼关税。节目重点探讨了英伟达CEO黄仁勋在GTC大会上展示的“AI帝国”宏大愿景，涵盖制造业回归、6G合作、量子计算及国家战略绑定，并辩论了AI是否存在泡沫。此外，还分析了中国新兴产业基金的投向、美国消费者信心指数的结构性分化，以及美联储政策对市场流动性的影响。
+tags:
+- ai-strategy
+- economic-indicator
+- market-trend
+- semiconductor-policy
+- us-china-relations
+title: 川普亚洲行与“川习会”前瞻：芯片、芬太尼与英伟达的AI帝国野心
 ---
+
 ### 川普亚洲行与“川习会”前瞻
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月29日，欢迎收看今天的每日要闻节目。我们今天将从川普总统的行踪开始讲起，讲完川普总统的行踪，我们就可以解释为什么昨天全球股市都大涨，特别是英伟达，简直冲上云霄，成为第一家市值达到5万亿美元的大公司。

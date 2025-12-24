@@ -1,58 +1,58 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Bloomberg Podcasts
+- OddLots
+- Title Wave Solutions
+- Walmart
+- Apple
+- Xiaomi
+- Tesla
+- Boeing
+- Dow Chemical
+- BMW
+- Impulse Labs
+- SEMIU
 date: '2025-07-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+people:
+- Cameron Johnson
+- Jill Wisenthal
+- Tracy Alloway
+- Sarah Laflur
+- Deng Xiaoping
+- Wang Yi
+products_models:
+- DeepSeek
+- Kimmy
+- H20 chips
+- Proton Saga
+- iPhone
+- Huawei
+project:
+- china-analysis
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=7BVSxKmjXkc
 speaker: Bloomberg Podcasts
-tags:
-  - trade-war-impact
-  - supply-chain-restructuring
-  - chinese-manufacturing
-  - ai-competition
-  - geopolitical-influence
-title: 中国制造商如何应对贸易战：供应链重塑与AI竞赛
-summary: 本期播客深入探讨了中国制造商如何应对美国贸易战及其带来的挑战。嘉宾Cameron Johnson分析了关税对全球供应链的影响，指出中国企业正通过将低端产品生产转移至东南亚、同时提升国内高端制造能力来适应新环境。讨论还涵盖了中国在AI、机器人技术和人才培养方面的巨大投入，以及其在东南亚地区通过投资和技术共享增强影响力的策略。文章强调了中国在构建完整供应链生态系统方面的独特优势，并质疑美国政策的战略有效性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Cameron Johnson
-  - Jill Wisenthal
-  - Tracy Alloway
-  - Sarah Laflur
-  - Deng Xiaoping
-  - Wang Yi
-companies_orgs:
-  - Bloomberg Podcasts
-  - OddLots
-  - Title Wave Solutions
-  - Walmart
-  - Apple
-  - Xiaomi
-  - Tesla
-  - Boeing
-  - Dow Chemical
-  - BMW
-  - Impulse Labs
-  - SEMIU
-products_models:
-  - DeepSeek
-  - Kimmy
-  - H20 chips
-  - Proton Saga
-  - iPhone
-  - Huawei
-media_books:
-  - OddLots podcast
 status: evergreen
+summary: 本期播客深入探讨了中国制造商如何应对美国贸易战及其带来的挑战。嘉宾Cameron Johnson分析了关税对全球供应链的影响，指出中国企业正通过将低端产品生产转移至东南亚、同时提升国内高端制造能力来适应新环境。讨论还涵盖了中国在AI、机器人技术和人才培养方面的巨大投入，以及其在东南亚地区通过投资和技术共享增强影响力的策略。文章强调了中国在构建完整供应链生态系统方面的独特优势，并质疑美国政策的战略有效性。
+tags:
+- ai-competition
+- chinese
+- geopolitical-influence
+- supply-chain-restructuring
+- trade-war-impact
+title: 中国制造商如何应对贸易战：供应链重塑与AI竞赛
 ---
+
 ### 贸易战的幻想与现实
 
 主持人 Jill: 大家好，欢迎收听《OddLots播客》的又一期节目。我是Jill Wisenthal。

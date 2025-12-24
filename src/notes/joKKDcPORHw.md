@@ -1,60 +1,58 @@
 ---
-author: Nico投资有道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Circle
+- Deutsche Börse
+- Visa
+- Brex
+- Kraken
+- Fireblocks
+- Hyper Liquid
+- BlackRock
+- Goldman Sachs
+- HSBC
+- Amazon
+- Mastercard
+- Coinbase
+- Robinhood
+- Tencent
+- Alibaba
+- ByteDance
+- Bitget
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Nico投资有道
+products_models:
+- USDC
+- EURC
+- CCTP
+- ARC公链
+- CPN (Circle Payment Network)
+- USDT
+- ChatGPT
+- YouTube
+- Bitget钱包虚拟卡
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=joKKDcPORHw
 speaker: Nico投资有道
-tags:
-  - earnings-analysis
-  - stablecoin-market
-  - revenue-diversification
-  - network-effects
-  - investment-strategy
-title: Circle第三季度财报深度解析：营收超预期股价却暴跌，投资价值何在？
-summary: Circle第三季度财报营收和EPS双双超出市场预期，但股价却大幅下跌。本文将从Circle的基本面数据、业务进展、管理层预期指引及Q&A环节等多个维度，全面解读财报背后的原因，探讨市场对于预期保守和股票解禁的担忧，并分析Circle在稳定币市场的核心竞争力与长期投资价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs:
-  - Circle
-  - Deutsche Börse
-  - Visa
-  - Brex
-  - Kraken
-  - Fireblocks
-  - Hyper Liquid
-  - BlackRock
-  - Goldman Sachs
-  - HSBC
-  - Amazon
-  - Mastercard
-  - Coinbase
-  - Robinhood
-  - Tencent
-  - Alibaba
-  - ByteDance
-  - Bitget
-products_models:
-  - USDC
-  - EURC
-  - CCTP
-  - ARC公链
-  - CPN (Circle Payment Network)
-  - USDT
-  - ChatGPT
-  - YouTube
-  - Bitget钱包虚拟卡
-media_books:
-  - Nico投资有道
 status: evergreen
+summary: Circle第三季度财报营收和EPS双双超出市场预期，但股价却大幅下跌。本文将从Circle的基本面数据、业务进展、管理层预期指引及Q&A环节等多个维度，全面解读财报背后的原因，探讨市场对于预期保守和股票解禁的担忧，并分析Circle在稳定币市场的核心竞争力与长期投资价值。
+tags:
+- earnings-analysis
+- financial
+- market
+- network-effect
+title: Circle第三季度财报深度解析：营收超预期股价却暴跌，投资价值何在？
 ---
+
 ### 引言：Circle财报与市场反应
 
 Circle第三季度财报发布后，营收数据全面超出市场预期，但盘中股价却大幅暴跌。这背后的原因究竟是什么？目前Circle的股价是否已经出现了“黄金坑”，到了抄底买入的最佳时机？在今天的文章中，我们将从Circle的基本面数据、具体业务进展、管理层预期指引、Q&A问答环节等多个角度，全面解读Circle第三季度的财报。这次财报会议中，给出了非常多有价值的信息，尤其是最后的Q&A环节，如果你准备投资或者正在投资Circle这家公司，一定要完整看完。

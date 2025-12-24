@@ -1,39 +1,37 @@
 ---
-author: Veritasium
-date: '2023-09-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Is2Lip1cJUc
-speaker: Veritasium
-tags:
-  - veritasium
-  - breath-holding
-  - human-physiology
-  - mammalian-dive-reflex
-  - oxygen-toxicity
-  - mental-resilience
-title: 挑战极限：屏息背后的生理与心理奥秘
-summary: 这篇文章深入探讨了人类屏息的生理机制与极限挑战。通过专业潜水员布兰登·伯查克（Brandon Birchak）的案例，揭示了呼吸的自主控制、二氧化碳在呼吸调节中的关键作用，以及如何通过优化身体氧气水平和降低氧气消耗率来延长屏息时间。文章还介绍了哺乳动物潜水反射、肺部填充等生理技巧，以及冥想、专注等心理策略。最后，探讨了高海拔训练和纯氧呼吸等高级方法，以及屏息世界纪录和水下表演的惊人成就，强调了理解身体极限和心理韧性的重要性。
-insight: ''
-draft: true
-series: ''
-category: science
 area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Brandon Birchak
-  - Derek
-  - Aleix Segura
-  - Branko Petrovic
-  - Budimir Sobat
-  - Melissa
+category: science
 companies_orgs:
-  - BetterHelp
+- BetterHelp
+date: '2023-09-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Brandon Birchak
+- Derek
+- Aleix Segura
+- Branko Petrovic
+- Budimir Sobat
+- Melissa
 products_models: []
-media_books: []
+project:
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=Is2Lip1cJUc
+speaker: veritasium
 status: evergreen
+summary: 这篇文章深入探讨了人类屏息的生理机制与极限挑战。通过专业潜水员布兰登·伯查克（Brandon Birchak）的案例，揭示了呼吸的自主控制、二氧化碳在呼吸调节中的关键作用，以及如何通过优化身体氧气水平和降低氧气消耗率来延长屏息时间。文章还介绍了哺乳动物潜水反射、肺部填充等生理技巧，以及冥想、专注等心理策略。最后，探讨了高海拔训练和纯氧呼吸等高级方法，以及屏息世界纪录和水下表演的惊人成就，强调了理解身体极限和心理韧性的重要性。
+tags:
+- breath-holding
+- human
+- mammalian-dive-reflex
+- mental-resilience
+- society
+title: 挑战极限：屏息背后的生理与心理奥秘
 ---
+
 ### 屏息挑战：探索人体极限
 
 水箱里是布兰登·伯查克（Brandon Birchak），他将尝试在这段视频的整个过程中屏住呼吸。

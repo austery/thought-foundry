@@ -1,64 +1,64 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times Podcasts
+- US Congress
+- House of Representatives
+- Republican Party
+- Democratic Party
+- Trump administration
+- FBI
+- Department of Justice
+- White House
+- ABC News
+- Supreme Court
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Truth Social
+- The Washington Post
+people:
+- Michael Barbaro
+- Thomas Massie
+- Ro Khanna
+- Lauren Boebert
+- Marjorie Taylor Greene
+- Nancy Mace
+- Adelita Grijalva
+- Mike Johnson
+- Donald Trump
+- Pam Bondi
+- Kash Patel
+- Barack Obama
+- Troy Nehls
+- Carl Hulse
+- Muhammad bin Salman
+- Jamal Khashoggi
+- Greg Abbott
+- trump-loyalty
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=GFov-triEi8
 speaker: New York Times Podcasts
-tags:
-  - epstein-files
-  - congressional-power
-  - political-mutiny
-  - trump-loyalty
-  - lame-duck-presidency
-title: 国会命令特朗普公布爱泼斯坦文件：一场政治反叛与权力制衡的胜利
-summary: 在一场戏剧性的投票中，美国国会以压倒性优势通过法案，强制特朗普政府公布所有与杰弗里·爱泼斯坦相关的档案。本文深入探讨了这场由少数共和党议员发起的反叛如何演变为全党对总统的挑战，成为特朗普第二任期的决定性时刻。它揭示了国会如何重新平衡权力，以及特朗普在面对党内和选民压力时，其政治影响力开始出现“跛脚鸭”迹象的裂痕。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Michael Barbaro
-  - Thomas Massie
-  - Ro Khanna
-  - Lauren Boebert
-  - Marjorie Taylor Greene
-  - Nancy Mace
-  - Adelita Grijalva
-  - Mike Johnson
-  - Donald Trump
-  - Pam Bondi
-  - Kash Patel
-  - Barack Obama
-  - Troy Nehls
-  - Carl Hulse
-  - Muhammad bin Salman
-  - Jamal Khashoggi
-  - Greg Abbott
-companies_orgs:
-  - New York Times Podcasts
-  - US Congress
-  - House of Representatives
-  - Republican Party
-  - Democratic Party
-  - Trump administration
-  - FBI
-  - Department of Justice
-  - White House
-  - ABC News
-  - Supreme Court
-products_models: []
-media_books:
-  - The Daily
-  - Truth Social
-  - The Washington Post
 status: evergreen
+summary: 在一场戏剧性的投票中，美国国会以压倒性优势通过法案，强制特朗普政府公布所有与杰弗里·爱泼斯坦相关的档案。本文深入探讨了这场由少数共和党议员发起的反叛如何演变为全党对总统的挑战，成为特朗普第二任期的决定性时刻。它揭示了国会如何重新平衡权力，以及特朗普在面对党内和选民压力时，其政治影响力开始出现“跛脚鸭”迹象的裂痕。
+tags:
+- canada
+- epstein-file
+- political
+- power
+title: 国会命令特朗普公布爱泼斯坦文件：一场政治反叛与权力制衡的胜利
 ---
+
 ### 国会通过爱泼斯坦文件法案：一场政治反叛
 
 这里是《纽约时报》的迈克尔·巴巴罗，欢迎收听《The Daily》。周二，在一场戏剧性的投票中，国会共和党人以压倒性优势通过了一项法案。这项法案是特朗普总统数月来一直试图阻止的，但现在它将迫使他的政府公布所有与**杰弗里·爱泼斯坦**（Jeffrey Epstein: 美国金融家，因性贩卖未成年少女被捕并死亡）相关的文件。

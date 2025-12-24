@@ -5,11 +5,9 @@ area: null
 category: null
 project: []
 tags:
-  - 教育
-people: []
+- society
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-05-28'
 author: Lei
 speaker: null
@@ -20,6 +18,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 **EN Topic:** 60th Anniversary Discussion of Ontario's College System and its Current Challenges
 
 **ZH 主题：** 安大略省学院体系60周年及其当前挑战的讨论

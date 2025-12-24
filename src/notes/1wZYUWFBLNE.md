@@ -1,42 +1,41 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- MIT
+- University of Chicago
+- Federal Reserve
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Janet Yellen
+- Donald Trump
+- Daron Acemoglu
+- James Robinson
+- James Tobin
+- Jair Bolsonaro
+products_models: []
+project:
+- us-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1wZYUWFBLNE
 speaker: 北美王路飞
-tags:
-  - institutional-decay
-  - rule-of-law
-  - central-bank-independence
-  - academic-freedom
-  - political-uncertainty
-title: 繁荣表象下的警报：耶伦为何担忧美国制度根基已入险境？
-summary: 当前美国经济表面繁荣，股市红火，AI概念股狂飙，但前美联储主席耶伦却发出严厉警告，指出民主制度正面临致命危险。她认为，经济的长期成功并非短期政策或科技创新所能决定，而在于法治、美联储独立性及大学科研开放性等制度基础的质量。耶伦援引诺贝尔经济学奖得主的研究，强调制度侵蚀将导致企业投资意愿下降、货币信誉受损，并最终带来沉重代价。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Janet Yellen
-  - Donald Trump
-  - Daron Acemoglu
-  - James Robinson
-  - James Tobin
-  - Jair Bolsonaro
-companies_orgs:
-  - MIT
-  - University of Chicago
-  - Federal Reserve
-products_models: []
-media_books: []
 status: evergreen
+summary: 当前美国经济表面繁荣，股市红火，AI概念股狂飙，但前美联储主席耶伦却发出严厉警告，指出民主制度正面临致命危险。她认为，经济的长期成功并非短期政策或科技创新所能决定，而在于法治、美联储独立性及大学科研开放性等制度基础的质量。耶伦援引诺贝尔经济学奖得主的研究，强调制度侵蚀将导致企业投资意愿下降、货币信誉受损，并最终带来沉重代价。
+tags:
+- central-bank-independence
+- freedom
+- institutional
+- political
+- rule-of-law
+title: 繁荣表象下的警报：耶伦为何担忧美国制度根基已入险境？
 ---
+
 ### 经济繁荣下的制度警报
 
 想象一下这样的场景：你身边的股市一片红火，AI概念股狂飙，消费市场依然坚挺，失业率虽有所上升但尚未到灾难地步，一片欣欣向荣。然而，就在这片繁荣背景下，一位权威人物却在敲响警钟。他就是**詹尼特·耶伦**（Janet Yellen），前美国财政部长、前美联储主席。在卸任后的访谈中，她几乎用尽了最严重的词汇，警告民主制度似乎正处于致命的危险之中，这种危险带来的后果将是美国人民需要支付的沉重代价。

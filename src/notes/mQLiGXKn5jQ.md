@@ -1,56 +1,56 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- ISIS
+- GD organizations
 date: '2023-09-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《古兰经》
+- 《上帝之书》
+- 《月亮之书》
+- 《革命者教义问答》
+people:
+- 柴静
+- Lennar Reiss
+- Kudubu
+- Farid Benyatou
+- Dawid Walid
+- Manwar
+- Hassan
+- Dawai
+- Haji Mou
+- Mohammed Merah
+- 奥萨马·本·拉登
+- Su Hai'er
+- Xelif
+- Mela
+- Niekeyev
+- Owen
+- Ali Burr
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=mQLiGXKn5jQ
 speaker: 柴静 Chai Jing
-tags:
-  - jihadism
-  - radicalization
-  - identity-crisis
-  - salafism
-  - european-terrorism
-title: 圣战分子的崛起：欧洲恐怖主义的深层根源与身份认同危机
-summary: 本文深入探讨欧洲恐怖主义的深层根源，驳斥了贫困、社会前景不佳或种族歧视等常见解释。通过对多位圣战分子的访谈，文章揭示了身份认同危机、萨拉菲主义的传播以及群体效应在激进化过程中的关键作用。它还追溯了圣战思想在欧洲的早期布局，并分析了欧洲未能有效遏制恐怖主义蔓延的原因。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - 柴静
-  - Lennar Reiss
-  - Kudubu
-  - Farid Benyatou
-  - Dawid Walid
-  - Manwar
-  - Hassan
-  - Dawai
-  - Haji Mou
-  - Mohammed Merah
-  - 奥萨马·本·拉登
-  - Su Hai'er
-  - Xelif
-  - Mela
-  - Niekeyev
-  - Owen
-  - Ali Burr
-companies_orgs:
-  - ISIS
-  - GD organizations
-products_models: []
-media_books:
-  - 《古兰经》
-  - 《上帝之书》
-  - 《月亮之书》
-  - 《革命者教义问答》
 status: evergreen
+summary: 本文深入探讨欧洲恐怖主义的深层根源，驳斥了贫困、社会前景不佳或种族歧视等常见解释。通过对多位圣战分子的访谈，文章揭示了身份认同危机、萨拉菲主义的传播以及群体效应在激进化过程中的关键作用。它还追溯了圣战思想在欧洲的早期布局，并分析了欧洲未能有效遏制恐怖主义蔓延的原因。
+tags:
+- crisis
+- geopolitical
+- jihadism
+- radicalization
+- salafism
+title: 圣战分子的崛起：欧洲恐怖主义的深层根源与身份认同危机
 ---
+
 ### 《纸王冠》：欧洲圣战分子的崛起之谜
 
 第一代穆斯林移民一生辛勤工作，只为在欧洲教育下一代。然而，利伯尔的恐怖分子比富人拥有更多的语言和经济优势，但为什么恐怖主义恰恰是被这一代人所煽动？在采访之前，我查阅了大量研究。许多人认为欧洲年轻人激进化的原因是贫困、糟糕的社会前景或种族歧视。但我的采访并未证实这一点。

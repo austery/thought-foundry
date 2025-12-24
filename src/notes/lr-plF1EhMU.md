@@ -1,41 +1,41 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2023-06-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《尼各马可伦理学》
+people:
+- Aristotle
+- Heisenberg
+- Csikszentmihalyi
+- Plato
+- Callicles
+- Socrates
+- Derrida
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=lr-plF1EhMU
 speaker: 超級歪 SuperY
-tags:
-  - aristotelian-philosophy
-  - human-nature
-  - ethics-politics
-  - virtue-happiness
-  - potentiality-actuality
-title: 亚里士多德论人性、伦理与政治：如何活出最好的生命？
-summary: 本期节目深入探讨了古希腊哲学家亚里士多德关于人性、伦理学和政治学的系统思想。从灵魂与身体的关系、人类独有的理性能力，到如何通过德性实践实现幸福，以及城邦在其中扮演的角色，亚里士多德构建了一套完整的哲学体系，旨在指导人类活出卓越、实现最高层次的幸福生活，并最终触及神性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Aristotle
-  - Heisenberg
-  - Csikszentmihalyi
-  - Plato
-  - Callicles
-  - Socrates
-  - Derrida
-companies_orgs: []
-products_models: []
-media_books:
-  - 《尼各马可伦理学》
 status: evergreen
+summary: 本期节目深入探讨了古希腊哲学家亚里士多德关于人性、伦理学和政治学的系统思想。从灵魂与身体的关系、人类独有的理性能力，到如何通过德性实践实现幸福，以及城邦在其中扮演的角色，亚里士多德构建了一套完整的哲学体系，旨在指导人类活出卓越、实现最高层次的幸福生活，并最终触及神性。
+tags:
+- financial
+- human-nature
+- philosophy
+- politics
+- potentiality-actuality
+title: 亚里士多德论人性、伦理与政治：如何活出最好的生命？
 ---
+
 ### 亚里士多德的哲学体系：从自然到神性
 
 欢迎来到“哲学爽歪歪”，本期节目将带你领略一位哲学思想家的智慧。在上一期中，我们探讨了亚里士多德的自然哲学和形而上学。今天，我们将深入介绍他的**人性论**（Theory of Human Nature）、**伦理学**（Ethics）和**政治学**（Politics）。

@@ -1,36 +1,36 @@
 ---
-author: AI超元域
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- OpenAI
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Elon Musk
+products_models:
+- Nano Banana Pro
+- Nano Banana
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=26DFHg0rz1k
 speaker: AI超元域
-tags:
-  - ai-image-generation
-  - image-editing
-  - multi-modal-ai
-  - creative-control
-  - practical-applications
-title: 谷歌Nano Banana Pro模型深度评测：20大场景实测，AI图像生成与编辑新标杆
-summary: 本文详细评测了谷歌最新发布的Nano Banana Pro AI模型，通过20个极具代表性的场景案例，展示了其在图像生成、编辑、多人物一致性、局部修改、风格转换等方面的卓越能力。从中文书法、菜肴食材拆解、PS级修图、换装、手写数学题解答到UI原型生成，Nano Banana Pro展现了工作室级的创意控制，预示着AI在设计和创意领域效率的巨大提升。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Elon Musk
-companies_orgs:
-  - Google
-  - OpenAI
-products_models:
-  - Nano Banana Pro
-  - Nano Banana
-media_books: []
 status: evergreen
+summary: 本文详细评测了谷歌最新发布的Nano Banana Pro AI模型，通过20个极具代表性的场景案例，展示了其在图像生成、编辑、多人物一致性、局部修改、风格转换等方面的卓越能力。从中文书法、菜肴食材拆解、PS级修图、换装、手写数学题解答到UI原型生成，Nano
+  Banana Pro展现了工作室级的创意控制，预示着AI在设计和创意领域效率的巨大提升。
+tags:
+- code
+- control
+- generation
+- history
+- multi-modal-ai
+title: 谷歌Nano Banana Pro模型深度评测：20大场景实测，AI图像生成与编辑新标杆
 ---
+
 ### Nano Banana Pro模型概述与核心能力
 
 谷歌于今天凌晨发布了全新的**Nano Banana Pro**模型（Nano Banana Pro: 谷歌最新发布的图像生成与编辑AI模型）。经过一上午的测试，这款模型表现出乎意料地好，因为它既能生成图像，还能编辑图像。该模型采用了工作室级的创意控制，支持混合多达14张图像，并能保持多达5个人物的一致性和相似度。它能对图像进行局部编辑、相机角度调整、色彩分级和场景照明转换。此外，它支持多种**宽高比**（Aspect Ratio: 图像的宽度与高度的比例），包括16:9、1:1、9:16、4:3、3:2以及21:9的图像。它支持输出1920x1080像素的图像，还支持输出2K，甚至可以输出4K质量的图像。本期视频将通过多个非常有代表性的案例，为大家测试这款模型所具备的综合能力。

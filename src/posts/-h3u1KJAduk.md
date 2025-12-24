@@ -1,60 +1,56 @@
 ---
-title: "夺回被偷走的注意力：关于数字成瘾、深度工作与生活重建的社区对话"
-summary: "本次读书会围绕注意力危机展开深度讨论。成员们从各自的视角出发，探讨了社交媒体戒断、多任务处理的伪高效、物理空间隔离法以及阅读介质（纸质书vs电子书）对专注力的影响。讨论还涉及了ADHD的进化论视角、App设计中的成瘾机制，以及如何在算法围剿中通过“数字极简”和“预先承诺”重建内心秩序。"
-speaker : 一口新饭读书会
-date: 2025-12-20
-area: "personal-systems"
-category: "psychology"
-project:
-  - "personal-growth-lab"
-  - "systems-thinking"
-layout: post.njk
-source: https://www.youtube.com/watch?v=-h3u1KJAduk
-tags:
-  - "attention-economy"
-  - "digital-minimalism"
-  - "deep-work"
-  - "habit-formation"
-  - "flow-state"
-
-people:
-  - "Vivian"
-  - "Ray"
-  - "Jesse"
-  - "Yinchuan"
-  - "Joyce"
-  - "Frank"
-  - "Alex"
-  - "Wang Hao"
-  - "Lira"
-  - "Ramy"
-  - "Niki"
-
+area: personal-systems
+category: psychology
 companies_orgs:
-  - "Google"
-  - "Facebook"
-  - "Instagram"
-  - "YouTube"
-  - "WeChat"
-  - "Bilibili"
-  - "Xiaohongshu"
-
-products_models:
-  - "Kindle"
-  - "iPad"
-
+- Google
+- Meta
+- Instagram
+- YouTube
+- WeChat
+- Bilibili
+- Xiaohongshu
+date: 2025-12-20
+layout: post.njk
 media_books:
-  - "《Stolen Focus》"
-  - "《Deep Work》"
-  - "《Four Thousand Weeks》"
-  - "《Mindset》"
-  - "《Dopamine Nation》"
-  - "《Insta-brain》"
-  - "《Hooked》"
-  - "《Educated》"
-  - "《Flowers for Algernon》"
-  - "《Everything I Never Told You》"
-  - "《海马星球》"
+- 《Stolen Focus》
+- 《Deep Work》
+- 《Four Thousand Weeks》
+- 《Mindset》
+- 《Dopamine Nation》
+- 《Insta-brain》
+- 《Hooked》
+- 《Educated》
+- 《Flowers for Algernon》
+- 《Everything I Never Told You》
+- 《海马星球》
+people:
+- Vivian
+- Ray
+- Jesse
+- Yinchuan
+- Joyce
+- Frank
+- Alex
+- Wang Hao
+- Lira
+- Ramy
+- Niki
+products_models:
+- Kindle
+- iPad
+project:
+- personal-growth-lab
+- systems-thinking
+source: https://www.youtube.com/watch?v=-h3u1KJAduk
+speaker: 一口新饭读书会
+summary: 本次读书会围绕注意力危机展开深度讨论。成员们从各自的视角出发，探讨了社交媒体戒断、多任务处理的伪高效、物理空间隔离法以及阅读介质（纸质书vs电子书）对专注力的影响。讨论还涉及了ADHD的进化论视角、App设计中的成瘾机制，以及如何在算法围剿中通过“数字极简”和“预先承诺”重建内心秩序。
+tags:
+- attention-economy
+- digital
+- habit-formation
+- state
+- work
+title: 夺回被偷走的注意力：关于数字成瘾、深度工作与生活重建的社区对话
 ---
 
 ### 开场与阅读进度交流

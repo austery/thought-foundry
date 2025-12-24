@@ -1,30 +1,26 @@
 ---
-title: 美联储加息机制深度解析：联邦基金利率的运作与历史演变
-summary: 本文深入探讨美联储如何调整联邦基金利率（FFR），解释银行间借贷原理及美联储在2008年前后调控手段的演变，揭示当代金融体系的核心基础。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-tags:
-  - federal-funds-rate
-  - federal-reserve
-  - financial-system
-  - interest-rates
-  - monetary-policy
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-07-30'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=0U8ZT0nVPEI
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入探讨美联储如何调整联邦基金利率（FFR），解释银行间借贷原理及美联储在2008年前后调控手段的演变，揭示当代金融体系的核心基础。
+tags:
+- federal-reserve
+- interest-rate
+- rate
+- system
+title: 美联储加息机制深度解析：联邦基金利率的运作与历史演变
 ---
 
 ### 美联储加息：理解核心金融概念的钥匙

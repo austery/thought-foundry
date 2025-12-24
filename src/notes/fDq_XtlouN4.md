@@ -1,51 +1,50 @@
 ---
-author: 视野环球财经
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 视野环球财经
+- 美国贸易代表办公室
+- 白宫
+- 欧盟
+- 亚马逊
+- Meta
+- Google
+- 艾森哲
+- 西门子
+- Spotify
+- DHL
+- 甲骨文
+- OpenAI
+- Nvidia
+- 德意志银行
+- Microsoft
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Reno
+products_models:
+- 特斯拉
+- CRWV
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=fDq_XtlouN4
 speaker: 视野环球财经
-tags:
-  - market-analysis
-  - economic-indicators
-  - trade-policy
-  - ai-sector
-  - credit-risk
-title: 美股：特斯拉创新高，CRWV信用风险警示与美欧贸易摩擦影响分析
-summary: 本期节目深入分析了美股市场动态，特别是特斯拉创历史新高后的后续走势及期权市场看点。同时，详细探讨了美国与欧盟贸易摩擦对Spotify等欧洲科技股的潜在冲击。节目重点警示了AI基础设施公司CRWV信用违约互换（CDS）飙升所揭示的高违约风险，并回顾了近期美国非农就业和零售销售等关键经济数据，对人工智能板块的整体风险变化进行了分析。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Reno
-companies_orgs:
-  - 视野环球财经
-  - 美国贸易代表办公室
-  - 白宫
-  - 欧盟
-  - 亚马逊
-  - Meta
-  - 谷歌
-  - 艾森哲
-  - 西门子
-  - Spotify
-  - DHL
-  - 甲骨文
-  - OpenAI
-  - 英伟达
-  - 德意志银行
-  - 微软
-products_models:
-  - 特斯拉
-  - CRWV
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了美股市场动态，特别是特斯拉创历史新高后的后续走势及期权市场看点。同时，详细探讨了美国与欧盟贸易摩擦对Spotify等欧洲科技股的潜在冲击。节目重点警示了AI基础设施公司CRWV信用违约互换（CDS）飙升所揭示的高违约风险，并回顾了近期美国非农就业和零售销售等关键经济数据，对人工智能板块的整体风险变化进行了分析。
+tags:
+- economic-indicator
+- llm
+- market-analysis
+- risk
+- trade-policy
+title: 美股：特斯拉创新高，CRWV信用风险警示与美欧贸易摩擦影响分析
 ---
+
 大家好，欢迎回到**视野环球财经**，我是**Reno**。现在是美东时间25年12月16号周二晚上的7点45分。今天四大指数跌了仨，仅纳指小幅收涨。今天的盘中波动不算小。另外，今天个股方面是**特斯拉**收盘价来到了**489美元**，创下了历史新高，完成了第一阶段的波段任务。自452突破以来，以416为下行防守位置，盈亏比已超过1比1。后续怎么看？本周有什么看点？咱们稍后讲解。今天的节目，首先看几个经济数据，然后再和大家讲一些个股，包括**Spotify**，还有**CRWV**有一个重要的提醒给大家。还有**特斯拉**，等会儿讲讲对于本周和后续可能出现的一些走势的看法。
 
 ### 经济数据概览

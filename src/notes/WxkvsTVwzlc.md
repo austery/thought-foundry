@@ -1,50 +1,50 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- Kremlin
+- NATO
+- National Guard
+- Republican Party
+- Federal Transportation Department
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- I Will Always Love You
+people:
+- Donald Trump
+- Cassandra Vinegrad
+- Vladimir Putin
+- Marco Rubio
+- Zoran Mandani
+- Marjorie Taylor Greene
+- Gina Smileik
+- Whitney Houston
+- Scarlett Johansson
+- David Foster
+products_models:
+- Obamacare
+- Epstein files
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=WxkvsTVwzlc
 speaker: New York Times Podcasts
-tags:
-  - ukraine-peace-plan
-  - us-domestic-politics
-  - immigration-policy
-  - auto-safety-standards
-title: 特朗普对乌克兰和平计划设最后期限；玛乔丽·泰勒·格林意外辞职
-summary: 《纽约时报》播客报道了多项重要新闻。美国与乌克兰官员对一项和平计划表示乐观，尽管特朗普总统设定了本周四的最后期限，且该计划最初被乌克兰方面视为对克里姆林宫有利。同时，纽约市候任市长佐兰·曼达尼与特朗普总统举行了出人意料的友好会晤。共和党众议员玛乔丽·泰勒·格林在特朗普撤销支持后突然宣布辞职，这揭示了特朗普支持者对其部分议程的不满。此外，文章还探讨了英国效仿丹麦推行“负面国家品牌”移民政策，以及美国交通部批准了更准确模拟女性身体的碰撞测试假人新标准。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Cassandra Vinegrad
-  - Vladimir Putin
-  - Marco Rubio
-  - Zoran Mandani
-  - Marjorie Taylor Greene
-  - Gina Smileik
-  - Whitney Houston
-  - Scarlett Johansson
-  - David Foster
-companies_orgs:
-  - New York Times
-  - Kremlin
-  - NATO
-  - National Guard
-  - Republican Party
-  - Federal Transportation Department
-products_models:
-  - Obamacare
-  - Epstein files
-media_books:
-  - I Will Always Love You
 status: evergreen
+summary: 《纽约时报》播客报道了多项重要新闻。美国与乌克兰官员对一项和平计划表示乐观，尽管特朗普总统设定了本周四的最后期限，且该计划最初被乌克兰方面视为对克里姆林宫有利。同时，纽约市候任市长佐兰·曼达尼与特朗普总统举行了出人意料的友好会晤。共和党众议员玛乔丽·泰勒·格林在特朗普撤销支持后突然宣布辞职，这揭示了特朗普支持者对其部分议程的不满。此外，文章还探讨了英国效仿丹麦推行“负面国家品牌”移民政策，以及美国交通部批准了更准确模拟女性身体的碰撞测试假人新标准。
+tags:
+- immigration-policy
+- politics
+- safety
+- ukraine-peace-plan
+title: 特朗普对乌克兰和平计划设最后期限；玛乔丽·泰勒·格林意外辞职
 ---
+
 ### 乌克兰和平计划：特朗普设下最后期限
 
 来自《纽约时报》的头条新闻，我是特雷西·芒福德。今天是11月24日星期一，以下是我们正在报道的内容。美国和乌克兰官员对一项可能有助于阻止乌克兰残酷战争的和平计划表示乐观。

@@ -1,107 +1,107 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Google
+- AMD
+- SoFi
+- Palantir
+- Lumen Technologies
+- IonQ
+- D-Wave
+- Rigetti Computing
+- The Wall Street Journal
+- Reuters
+- Cerebras Capital Management
+- Nvidia
+- Amazon
+- Intel
+- OpenAI
+- Broadcom
+- Oracle
+- Coinbase
+- Andreessen Horowitz
+- Robinhood
+- Super Micro Computer
+- TSMC
+- ASML
+- Fox News
+- JPMorgan
+- SpaceX
+- Shopify
+- Federal Reserve
+- American Airlines
+- IBM
+- Goldman Sachs
+- Beyond Meat
+- Figure AI
+- General Motors
+- Morgan Stanley
+- LendingClub
+- Oklo
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Substack
+- Twitter
+- The Wall Street Journal
+- Reuters
+- Isaac Asimov's robot novels
+people:
+- Donald Trump
+- Xi Jinping
+- Elon Musk
+- Sundar Pichai
+- Steve Fineberg
+- Alex Karp
+- Brian Armstrong
+- Cathie Wood
+- Vlad Tenev
+- Larry Fink
+- Gary Gensler
+- Paul Atkins
+- Jameson Greer
+- Walter Isaacson
+- Toby Lütke
+- Kash Patel
+- Tucker Carlson
+- Jensen Huang
+- Brett Adcock
+products_models:
+- S&P 500
+- Optimus
+- FSD
+- Willow
+- Blackwell
+- Hype
+- Robinet
+- GENIUS Act
+- Starlink
+- iPhone
+- Siri
+- GTC
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=306uYpIosKQ
 speaker: Amit Kukreja
-tags:
-  - quantum-computing
-  - us-china-relations
-  - earnings-season
-  - market-sentiment
-  - national-security
-title: 特朗普政府或入股量子计算公司，市场热议背后动机与利益疑云
-summary: 本期市场分析深入探讨了特朗普政府考虑入股量子计算公司的传闻，剖析了其背后可能存在的利益冲突，并质疑了政府补贴的必要性。同时，内容涵盖了特斯拉财报的详细解读、Palantir的新合同、中美贸易谈判的最新进展以及加密货币市场的监管前景，为投资者提供了全面的市场动态。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Elon Musk
-  - Sundar Pichai
-  - Steve Fineberg
-  - Alex Karp
-  - Brian Armstrong
-  - Cathie Wood
-  - Vlad Tenev
-  - Larry Fink
-  - Gary Gensler
-  - Paul Atkins
-  - Jameson Greer
-  - Walter Isaacson
-  - Toby Lütke
-  - Kash Patel
-  - Tucker Carlson
-  - Jensen Huang
-  - Brett Adcock
-companies_orgs:
-  - Tesla
-  - Google
-  - AMD
-  - SoFi
-  - Palantir
-  - Lumen Technologies
-  - IonQ
-  - D-Wave
-  - Rigetti Computing
-  - The Wall Street Journal
-  - Reuters
-  - Cerebras Capital Management
-  - Nvidia
-  - Amazon
-  - Intel
-  - OpenAI
-  - Broadcom
-  - Oracle
-  - Coinbase
-  - Andreessen Horowitz
-  - Robinhood
-  - Super Micro Computer
-  - TSMC
-  - ASML
-  - Fox News
-  - JPMorgan
-  - SpaceX
-  - Shopify
-  - Federal Reserve
-  - American Airlines
-  - IBM
-  - Goldman Sachs
-  - Beyond Meat
-  - Figure AI
-  - General Motors
-  - Morgan Stanley
-  - LendingClub
-  - Oklo
-products_models:
-  - S&P 500
-  - Optimus
-  - FSD
-  - Willow
-  - Blackwell
-  - Hype
-  - Robinet
-  - GENIUS Act
-  - Starlink
-  - iPhone
-  - Siri
-  - GTC
-media_books:
-  - Substack
-  - Twitter
-  - The Wall Street Journal
-  - Reuters
-  - Isaac Asimov's robot novels
 status: evergreen
+summary: 本期市场分析深入探讨了特朗普政府考虑入股量子计算公司的传闻，剖析了其背后可能存在的利益冲突，并质疑了政府补贴的必要性。同时，内容涵盖了特斯拉财报的详细解读、Palantir的新合同、中美贸易谈判的最新进展以及加密货币市场的监管前景，为投资者提供了全面的市场动态。
+tags:
+- earnings-season
+- market-sentiment
+- national-security
+- quantum-computing
+- us-china-relations
+title: 特朗普政府或入股量子计算公司，市场热议背后动机与利益疑云
 ---
+
 ### 开盘综述：市场静待CPI数据
 
 大家早上好，欢迎回到新一期的《市场开盘》。今天是10月23日，星期四。这一周过得真快，离周五只有一天了。我们在这里直播，有很多内容要讨论，感谢大家的到来。盘前有很多不同的头条新闻，我们都会谈到。明天我们将得到 **CPI**（Consumer Price Index: 消费者价格指数）数据。所以我认为今天的市场活动肯定会在一定程度上取决于对CPI数据的看法。我们会谈谈华尔街对CPI可能出现的情况的一些总体预测。

@@ -1,53 +1,50 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- OpenAI
+- NVIDIA
+- AMD
+- Costco
+- Google
+- Tencent
+- Alibaba
+- Baidu
+- Lenovo Group
+- iRobot
+- Standard Chartered Bank
+- Nasdaq
+- SEC
+- Robinhood
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+people:
+- Kevin Warsh
+- Donald Trump
+- Paul Volcker
+- Lisa Su
+products_models:
+- GPT-4
+- NIM
+- PLTR
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=9-koaSt-69g
 speaker: 小翠時政財經
-tags:
-  - llm
-  - monetary-policy
-  - fiscal-policy
-  - stock-market
-  - prompt-engineering
-title: 加税、美联储与AI时代：2025年市场前瞻与投资策略
-summary: 本期节目深入分析了2025年中国A股与港股市场动态，指出中国政府可能通过加税以充实财政，并探讨了美联储主席人选（凯文·沃什）变动对美股流动性的潜在冲击。节目强调在AI时代，投资应回归公司基本面，并为普通投资者提供了利用AI工具创业的建议。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Kevin Warsh
-  - Donald Trump
-  - Paul Volcker
-  - Lisa Su
-companies_orgs:
-  - OpenAI
-  - NVIDIA
-  - AMD
-  - Costco
-  - Google
-  - Tencent
-  - Alibaba
-  - Baidu
-  - Lenovo Group
-  - iRobot
-  - Standard Chartered Bank
-  - Nasdaq
-  - SEC
-  - Robinhood
-products_models:
-  - GPT-4
-  - NIM
-  - PLTR
-media_books:
-  - 《华尔街日报》
 status: evergreen
+summary: 本期节目深入分析了2025年中国A股与港股市场动态，指出中国政府可能通过加税以充实财政，并探讨了美联储主席人选（凯文·沃什）变动对美股流动性的潜在冲击。节目强调在AI时代，投资应回归公司基本面，并为普通投资者提供了利用AI工具创业的建议。
+tags:
+- fiscal-policy
+- stock-market
+title: 加税、美联储与AI时代：2025年市场前瞻与投资策略
 ---
+
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月16日，欢迎收看今天的每日要闻节目。
 
 ### A股市场动态与政策影响

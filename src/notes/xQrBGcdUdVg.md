@@ -1,73 +1,73 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- 中央情报局
+- 北京市公安局
+- 美联络处
+- 新疆生产建设兵团
+- 国民政府
+- 世文联
+- 国安局
+- 公安局
+- 街道委员会
+- 知识青年上山下乡办公室
 date: '2024-06-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《骆驼祥子》
+- 《茶馆》
+- 《普希金的快乐》
+people:
+- 韩秀
+- 周恩来
+- 老舍
+- 赵运如
+- 谢伟思
+- 艾森豪威尔
+- 彭真
+- 罗瑞卿
+- 焦菊隐
+- 胡洁青
+- 沈从文
+- 华国锋
+- 黄华
+- 邓小平
+- 尼克松
+- 万思
+- 博佐齐
+- 梅兰芳
+- 蒲雪斋
+- 李南央
+- 陶金
+- 曹禺
+- 张春
+- 王德和
+- 周育英
+- Dr. Swift
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xQrBGcdUdVg
 speaker: 柴静 Chai Jing
-tags:
-  - cultural-revolution
-  - political-persecution
-  - survival-narrative
-  - us-china-relations
-  - personal-resilience
-title: 韩秀：一个中美混血儿的32年中国记忆与挣扎
-summary: 中美混血儿韩秀讲述了她1948年被送回中国后32年的经历。从17岁下乡当知青，到文革中逃亡新疆，她亲历了中国每一场主要政治运动。韩秀与周恩来、老舍等政界文艺界人物的命运交织，以及她面对政治迫害、家庭背叛和个人生存的挣扎，展现了一个个体在时代洪流中的坚韧与不屈。她强调讲述历史是幸存者的责任，并分享了她如何保持精神火种不灭的信念。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - 韩秀
-  - 周恩来
-  - 老舍
-  - 赵运如
-  - 谢伟思
-  - 艾森豪威尔
-  - 彭真
-  - 罗瑞卿
-  - 焦菊隐
-  - 胡洁青
-  - 沈从文
-  - 华国锋
-  - 黄华
-  - 邓小平
-  - 尼克松
-  - 万思
-  - 博佐齐
-  - 梅兰芳
-  - 蒲雪斋
-  - 李南央
-  - 陶金
-  - 曹禺
-  - 张春
-  - 王德和
-  - 周育英
-  - Dr. Swift
-companies_orgs:
-  - FBI
-  - 中央情报局
-  - 北京市公安局
-  - 美联络处
-  - 新疆生产建设兵团
-  - 国民政府
-  - 世文联
-  - 国安局
-  - 公安局
-  - 街道委员会
-  - 知识青年上山下乡办公室
-products_models: []
-media_books:
-  - 《骆驼祥子》
-  - 《茶馆》
-  - 《普希金的快乐》
 status: evergreen
+summary: 中美混血儿韩秀讲述了她1948年被送回中国后32年的经历。从17岁下乡当知青，到文革中逃亡新疆，她亲历了中国每一场主要政治运动。韩秀与周恩来、老舍等政界文艺界人物的命运交织，以及她面对政治迫害、家庭背叛和个人生存的挣扎，展现了一个个体在时代洪流中的坚韧与不屈。她强调讲述历史是幸存者的责任，并分享了她如何保持精神火种不灭的信念。
+tags:
+- cultural-revolution
+- narrative
+- personal-resilience
+- political-persecution
+- us-china-relations
+title: 韩秀：一个中美混血儿的32年中国记忆与挣扎
 ---
+
 ### 战乱中的归途与身份之谜
 
 **柴静:** 今天我要访谈的人是韩秀。这位中美混血儿在1948年被送回战乱中的中国。此后32年，她经历了每一场主要的政治运动。17岁她下乡当**知青**（知识青年：指上山下乡运动中从城市到农村插队落户的青年），20岁她在**文革**（文化大革命：1966年至1976年在中国发生的一场政治运动）中逃亡，此后在新疆之边九年。因为特殊的身世，韩秀和中国政界、文艺界的主要人物，像周恩来和老舍，都有直接的命运交集。今年她78岁了，她对我说，这将是她最后一次面对媒体来讲述自己的历史。但这也是她第一次面对有大陆背景的读者来讲。历史是沉重的，但是她说，讲述它是幸存者的责任。

@@ -1,77 +1,77 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 新华社
+- 国台办
+- 解放军报
+- 人民日报
+- 中芯国际
+- 阿斯麦尔
+- 台积电
+- Nvidia
 date: '2025-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《572工程纪要》
+people:
+- Xi Jinping
+- 李厚诚
+- 贾老师
+- 王沪宁
+- 邓小平
+- 林彪
+- 刘少奇
+- 毛泽东
+- 张又侠
+- 何卫东
+- 苗华
+- 王小红
+- 王立军
+- 薄熙来
+- 蔡霞
+- 张声明
+- 林向阳
+- 李强
+- 温家宝
+- 李克强
+- 张高丽
+- 韩正
+- 蔡奇
+- 丁薛祥
+- 易富贤
+- 郭台铭
+- 商鞅
+- 李斯
+- 刘元
+products_models:
+- DUV光刻机
+- 2纳米芯片
+- 28纳米芯片
+- AM算力芯片
+- 扫地机器人
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=PF94lap679w
 speaker: 三個水槍手
-tags:
-  - chinese-politics
-  - power-struggle
-  - taiwan-policy
-  - five-year-plan
-  - military-purge
-  - economic-strategy
-title: 四中全会与十五五规划：解读习近平权力、对台政策及中国经济走向
-summary: 本期节目深入探讨了中共四中全会和十五五规划，分析了习近平权力巩固与否、军队清洗的深层原因、对台政策的最新信号，以及中国经济未来是侧重科技自主攻关还是扩大内需。节目还讨论了地方债、人口问题及官方叙事的变化，并对“私军”传闻进行了辨析，揭示了中国政治经济决策背后的复杂逻辑。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 习近平
-  - 李厚诚
-  - 贾老师
-  - 王沪宁
-  - 邓小平
-  - 林彪
-  - 刘少奇
-  - 毛泽东
-  - 张又侠
-  - 何卫东
-  - 苗华
-  - 王小红
-  - 王立军
-  - 薄熙来
-  - 蔡霞
-  - 张声明
-  - 林向阳
-  - 李强
-  - 温家宝
-  - 李克强
-  - 张高丽
-  - 韩正
-  - 蔡奇
-  - 丁薛祥
-  - 易富贤
-  - 郭台铭
-  - 商鞅
-  - 李斯
-  - 刘元
-companies_orgs:
-  - 新华社
-  - 国台办
-  - 解放军报
-  - 人民日报
-  - 中芯国际
-  - 阿斯麦尔
-  - 台积电
-  - 英伟达
-products_models:
-  - DUV光刻机
-  - 2纳米芯片
-  - 28纳米芯片
-  - AM算力芯片
-  - 扫地机器人
-media_books:
-  - 《572工程纪要》
 status: evergreen
+summary: 本期节目深入探讨了中共四中全会和十五五规划，分析了习近平权力巩固与否、军队清洗的深层原因、对台政策的最新信号，以及中国经济未来是侧重科技自主攻关还是扩大内需。节目还讨论了地方债、人口问题及官方叙事的变化，并对“私军”传闻进行了辨析，揭示了中国政治经济决策背后的复杂逻辑。
+tags:
+- chinese-politics
+- military
+- power-struggle
+- strategy
+- taiwan-policy
+- technology
+title: 四中全会与十五五规划：解读习近平权力、对台政策及中国经济走向
 ---
+
 ### 四中全会与习近平权力斗争的深度解析
 
 **三个水枪手:** 很多人觉得我过度解读，不以为然。李厚诚这么有名，还有质疑我没厚诚同学呢。那主要是质疑的，这说明人民群众眼睛还不错。

@@ -1,66 +1,65 @@
 ---
-author: 老周横眉
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Nvidia
+- OpenAI
+- Meta
+- Amazon
+- Microsoft
+- Google
+- Intel
+- AMD
+- Oracle
+- Perplexity
+- Anthropic
+- xAI
+- S&P 500
+- Morgan Stanley
+- Bank of America
+- International Monetary Fund
+- Bank of England
+- Bain & Company
+- YouTube
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 彭博社
+- 第一财经频道
+people:
+- Michael Burry
+- Sam Altman
+- Mark Zuckerberg
+- Jeff Bezos
+- John Templeton
+- 谢国忠
+- 李嘉诚
+- Bill Gates
+products_models:
+- ChatGPT
+- Gemini
+- DeepMind
+- AlphaGo
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=X5kKu53Dj0I
 speaker: 老周横眉
-tags:
-  - ai-bubble
-  - investment-strategy
-  - market-cycles
-  - financial-risk
-  - technology-valuation
-title: AI泡沫是否临近？华尔街为何担忧？普通人应如何投资AI产业？
-summary: 本文深入探讨了当前AI产业是否存在巨大泡沫的争议，将其与25年前的互联网泡沫进行对比。文章揭示了AI巨头之间资金循环的现象，以及AI公司惊人的烧钱速度和潜在的“数据墙”挑战。同时，也提出了对AI前景的乐观论点，包括其真实用途和更健康的财务基本面。最后，文章为普通投资者提供了实用的建议，强调分散风险、避免过度杠杆以及根据年龄调整投资组合的重要性，而非盲目预测市场。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Michael Burry
-  - Sam Altman
-  - Mark Zuckerberg
-  - Jeff Bezos
-  - John Templeton
-  - 谢国忠
-  - 李嘉诚
-  - Bill Gates
-companies_orgs:
-  - Nvidia
-  - OpenAI
-  - Meta
-  - Amazon
-  - Microsoft
-  - Google
-  - Intel
-  - AMD
-  - Oracle
-  - Perplexity
-  - Anthropic
-  - xAI
-  - S&P 500
-  - Morgan Stanley
-  - Bank of America
-  - International Monetary Fund
-  - Bank of England
-  - Bain & Company
-  - YouTube
-products_models:
-  - ChatGPT
-  - Gemini
-  - DeepMind
-  - AlphaGo
-media_books:
-  - 彭博社
-  - 第一财经频道
 status: evergreen
+summary: 本文深入探讨了当前AI产业是否存在巨大泡沫的争议，将其与25年前的互联网泡沫进行对比。文章揭示了AI巨头之间资金循环的现象，以及AI公司惊人的烧钱速度和潜在的“数据墙”挑战。同时，也提出了对AI前景的乐观论点，包括其真实用途和更健康的财务基本面。最后，文章为普通投资者提供了实用的建议，强调分散风险、避免过度杠杆以及根据年龄调整投资组合的重要性，而非盲目预测市场。
+tags:
+- ai-bubble
+- financial-risk
+- market-cycle
+- technology
+title: AI泡沫是否临近？华尔街为何担忧？普通人应如何投资AI产业？
 ---
+
 ### AI泡沫：一个循环的投资游戏？
 
 想象一下这样的场景：我给朋友1000块钱，让他在树林里挖一个洞，然后他又付给我1000块钱，让我把这个洞给填上。我们俩各自都赚了1000块钱，但实际上什么都没有发生。现在有很多人认为AI世界正在上演这个“挖洞”的情节。最近网上流传一张图，这张图想要说明，目前全球金融市场上存在着一个巨大的**AI泡沫**（AI Bubble: 指资产价格被过度高估，远超其内在价值的现象）。各大AI企业之间所投入的巨量AI投资，其实都是一种内部循环。我投给你，你再投回给我，数字看起来很庞大，但其实就像那个在树林里挖洞的例子一样，全都是泡沫。

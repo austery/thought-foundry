@@ -1,48 +1,47 @@
 ---
-author: Peter Pang
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=TzOaXepgEtQ'
-speaker: Peter Pang
-tags:
-  - test-driven-development
-  - software-testing
-  - development-methodology
-  - programmer-resistance
-  - project-management-failures
-title: 测试驱动开发（TDD）的兴衰：程序员为何不爱写测试？
-summary: 本期视频深入探讨了测试驱动开发（TDD）这一软件开发模式的起源、发展与最终式微。从NASA的水星计划到Kent Beck的极限编程（XP），TDD曾被寄予厚望，但其过度耦合代码实现细节、忽视需求动态变化的本质缺陷，导致了项目失败和开发者的普遍抵触。视频分析了TDD为何将测试从守护者变为“最讨厌的邻居”，并分享了作者基于容器技术和属性测试的实践，旨在重新审视测试在软件生命周期中的正确位置。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - Kent Beck
-  - Atomic Energy
+category: technology
 companies_orgs:
-  - NASA
-  - Chrysler
-products_models:
-  - Test Driven Development
-  - eXtreme Programming
-  - Acceptance Test Driven Development
-  - UML
-  - Agile
-  - RUP
-  - Docker Compose
-  - PostgreSQL
-  - Redis
+- NASA
+- Chrysler
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《让编程再次伟大#44》
-  - 《让编程再次伟大#26》
+- 《让编程再次伟大#44》
+- 《让编程再次伟大#26》
+people:
+- Kent Beck
+- Atomic Energy
+products_models:
+- Test Driven Development
+- eXtreme Programming
+- Acceptance Test Driven Development
+- UML
+- Agile
+- RUP
+- Docker Compose
+- PostgreSQL
+- Redis
+project:
+- systems-thinking
+- historical-insights
+- knowledge-pipeline
+series: ''
+source: https://www.youtube.com/watch?v=TzOaXepgEtQ
+speaker: Peter Pang
 status: evergreen
+summary: 本期视频深入探讨了测试驱动开发（TDD）这一软件开发模式的起源、发展与最终式微。从NASA的水星计划到Kent Beck的极限编程（XP），TDD曾被寄予厚望，但其过度耦合代码实现细节、忽视需求动态变化的本质缺陷，导致了项目失败和开发者的普遍抵触。视频分析了TDD为何将测试从守护者变为“最讨厌的邻居”，并分享了作者基于容器技术和属性测试的实践，旨在重新审视测试在软件生命周期中的正确位置。
+tags:
+- canada
+- development
+- management
+- software
+title: 测试驱动开发（TDD）的兴衰：程序员为何不爱写测试？
 ---
+
 ### TDD的定义、历史与核心困境
 
 **测试驱动开发**（TDD: Test Driven Development，一种以测试驱动开发的软件开发模式）简单来说，是一种在拿到开发需求后，先凭空把测试写出来的方法。由于此时还没有实际代码，测试必然会失败。接下来的工作就是编写实际代码，让测试结果的红灯一个个变绿，直到全部通过。之后，在对代码进行重构或增加新功能时，也要确保已有测试继续保持绿灯状态。

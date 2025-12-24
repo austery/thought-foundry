@@ -1,48 +1,49 @@
 ---
-author: 北美王路飞
+area: market-analysis
+category: finance
+companies_orgs:
+- JPMorgan Chase
+- First Brands
+- Tricolor
+- Zions Bancorporation
+- Western Alliance Bank
+- Broadband Telecom
+- Bridge Voice
+- Oaktree Capital Management
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+people:
+- Jamie Dimon
+- Howard Marks
+- Warren Buffett
+- Charlie Munger
+- Robert Armstrong
+- John Kenneth Galbraith
+- Mark Twain
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=aGmhlYueNlQ
 speaker: 北美王路飞
-tags:
-  - private-credit
-  - financial-fraud
-  - market-risk
-  - due-diligence
-  - economic-cycles
-title: 2万亿美元的“盲盒”：私人信贷会是下一个次贷危机吗？
-summary: 摩根大通掌门人杰米·戴蒙警告，近期两起企业破产案揭示了金融市场中潜在的欺诈。文章深入探讨了私人信贷市场在低利率环境下如何膨胀至2万亿美元，以及在经济繁荣期因资本饥渴和尽职调查缺失而滋生的欺诈与风险。通过First Brands和Tricolor等案例，揭示了“贪污红利”（Bezzle）的危害。尽管当前并非系统性崩溃，但周期性的人性弱点将导致大量坏账浮现。文章呼吁投资者重拾审慎，警惕市场中的“蟑螂”。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Jamie Dimon
-  - Howard Marks
-  - Warren Buffett
-  - Charlie Munger
-  - Robert Armstrong
-  - John Kenneth Galbraith
-  - Mark Twain
-companies_orgs:
-  - JPMorgan Chase
-  - First Brands
-  - Tricolor
-  - Zions Bancorporation
-  - Western Alliance Bank
-  - Broadband Telecom
-  - Bridge Voice
-  - Oaktree Capital Management
-products_models: []
-media_books:
-  - 《金融时报》
 status: evergreen
+summary: 摩根大通掌门人杰米·戴蒙警告，近期两起企业破产案揭示了金融市场中潜在的欺诈。文章深入探讨了私人信贷市场在低利率环境下如何膨胀至2万亿美元，以及在经济繁荣期因资本饥渴和尽职调查缺失而滋生的欺诈与风险。通过First
+  Brands和Tricolor等案例，揭示了“贪污红利”（Bezzle）的危害。尽管当前并非系统性崩溃，但周期性的人性弱点将导致大量坏账浮现。文章呼吁投资者重拾审慎，警惕市场中的“蟑螂”。
+tags:
+- due-diligence
+- economic-cycle
+- financial-fraud
+- market-risk
+- private-credit
+title: 2万亿美元的“盲盒”：私人信贷会是下一个次贷危机吗？
 ---
+
 ### 麻烦的前兆：厨房里的蟑螂与煤矿里的金丝雀
 
 想象一下，当你半夜走进厨房，打开灯，在这个干净昂贵、看起来完美无缺的房子里，你突然在地板上看到一只蟑螂匆匆跑过。你当下的反应是什么？是恶心吗？不，不仅如此，真正的恐惧在于你的潜意识告诉你，如果你看见一只，那么在你看不见的墙缝里、橱柜后可能已经藏了一整窝了。

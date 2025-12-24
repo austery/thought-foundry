@@ -6,14 +6,12 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-limitation
-- incentive-design
+- design
 - large-language-model
+- llm
 - model-evaluation
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-11
 author: Lei
 speaker: Best Partners TV
@@ -25,6 +23,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 ### 引言：揭开“幻觉之谜”
 
 大家好，这里是最佳拍档，我是大飞。今天要和大家深度拆解一篇有希望能彻底解开“幻觉之谜”的重磅研究，即来自OpenAI和佐治亚理工联合发表的论文《为什么语言模型会有幻觉（Why Language Models Hallucinate）》。

@@ -1,52 +1,53 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: psychology
+companies_orgs:
+- Norges Bank Investment Management
+- Detroit Lions
+- Seattle Seahawks
+- New England Patriots
+- Bellagio Casino
+- The Mirage
+- World Series of Poker
 date: '2024-02-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Quit
+people:
+- Annie Duke
+- Nikolai
+- Nate Silver
+- Pete Carroll
+- Daniel Kahneman
+- Bill Gates
+- John Baron
+- Vanessa Selbst
+- Liv Boeree
+- Maria Ho
+products_models:
+- Bitcoin
+project:
+- personal-growth-lab
+- systems-thinking
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=zgQmaScqFiY
 speaker: Norges Bank Investment Management
-tags:
-  - decision-making
-  - cognitive-bias
-  - quitting-strategy
-  - risk-management
-  - expected-value
-title: 决策的艺术：Annie Duke 谈何时放弃、认知偏差与风险管理
-summary: 知名扑克玩家兼畅销书作家 Annie Duke 在本次访谈中深入探讨了决策的复杂性。她解释了人们难以放弃的原因，如沉没成本偏差和文化偏见。Duke 强调了“杀戮标准”的重要性，并揭示了结果偏差如何扭曲我们对决策质量的判断。她还分享了扑克中的经验，如如何通过“名义小组”改进团队决策，以及如何利用对不确定性的理解来优化个人和社会的成果。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - investment-strategy
-people:
-  - Annie Duke
-  - Nikolai
-  - Nate Silver
-  - Pete Carroll
-  - Daniel Kahneman
-  - Bill Gates
-  - John Baron
-  - Vanessa Selbst
-  - Liv Boeree
-  - Maria Ho
-companies_orgs:
-  - Norges Bank Investment Management
-  - Detroit Lions
-  - Seattle Seahawks
-  - New England Patriots
-  - Bellagio Casino
-  - The Mirage
-  - World Series of Poker
-products_models:
-  - Bitcoin
-media_books:
-  - Quit
 status: evergreen
+summary: 知名扑克玩家兼畅销书作家 Annie Duke 在本次访谈中深入探讨了决策的复杂性。她解释了人们难以放弃的原因，如沉没成本偏差和文化偏见。Duke
+  强调了“杀戮标准”的重要性，并揭示了结果偏差如何扭曲我们对决策质量的判断。她还分享了扑克中的经验，如如何通过“名义小组”改进团队决策，以及如何利用对不确定性的理解来优化个人和社会的成果。
+tags:
+- cognitive-bias
+- decision-making
+- risk-management
+- strategy
+- value
+title: 决策的艺术：Annie Duke 谈何时放弃、认知偏差与风险管理
 ---
+
 ### 访谈开场与放弃的挑战
 
 主持人: 今天，我们有一期特别的加长版节目，邀请到了 Annie Duke。

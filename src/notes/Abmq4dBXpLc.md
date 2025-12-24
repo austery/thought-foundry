@@ -1,32 +1,30 @@
 ---
-title: 《智人之上》：信息网络如何重塑我们的隐私、自由与未来
-summary: 本期节目深入探讨了尤瓦尔·赫拉利新书《智人之上》的核心观点，揭示了人类信息网络的演化，从讲故事到官僚制度，再到现代非生物信息网络（AI）。节目分析了先进技术如何同时加强极权与民主，并警示了无处不在的监控、算法偏见以及AI对人类自由和权力格局的深远影响。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- democracy
-- information-networks
-- totalitarianism
-people:
-- stella-an
-- yuval-noah-harari
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-30'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+- yuval-noah-harari
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=Abmq4dBXpLc
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 本期节目深入探讨了尤瓦尔·赫拉利新书《智人之上》的核心观点，揭示了人类信息网络的演化，从讲故事到官僚制度，再到现代非生物信息网络（AI）。节目分析了先进技术如何同时加强极权与民主，并警示了无处不在的监控、算法偏见以及AI对人类自由和权力格局的深远影响。
+tags:
+- geopolitical
+- information
+- totalitarianism
+title: 《智人之上》：信息网络如何重塑我们的隐私、自由与未来
 ---
+
 ### 个人隐私的消逝与自我审查的困境
 
 大家好，我是安争鸣，欢迎回到读书时间。最近，经常有网友善意提醒我，不要在网上发布任何生活照或分享个人信息，以免“帽子叔叔”找上门。我知道这些网友是出于好意，但我却感到哭笑不得。这些生活在海外的网友显然不了解，在我们这个地方，根本就没有什么隐私可言。即使没有任何知名度和影响力，匿名上网不露脸，从不分享个人生活，只要发表一句违规言论，哪怕是在私人的微信群里，“帽子叔叔”也绝对能在24小时内找到你“喝茶”。你的所有个人信息，包括住址、活动轨迹、通话信息和消费记录，他们都能立刻完全掌握。更别说像我这种露脸实名上网的人了。生活在这样的环境里，为保护个人隐私所做的一切努力其实都没有任何意义。唯一有效的自我保护措施，就是像我一样进行严格的自我审查，或者是干脆什么都不说。

@@ -1,32 +1,29 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs: []
 date: '2025-07-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ltmyq4ZcMCg
 speaker: 海淀拙大叔
-tags:
-  - gdp-growth
-  - actual-nominal-gdp
-  - gdp-deflator
-  - economic-perception
-  - investor-objectivity
-title: GDP增速靠谱吗？实际与名义GDP的体感差异深度解析
-summary: 本期节目深入探讨了官方公布的GDP增速与公众实际感受之间的差异。主持人海淀拙大叔详细解释了**实际GDP**与**名义GDP**的区别，以及**GDP平减指数**在其中的作用。节目通过公司销售额的类比，阐明了价格波动如何影响经济数据的呈现，并分析了通胀与通缩对名义GDP与实际GDP增长率的影响。此外，节目还探讨了市场化程度、行业特性、心理预期及统计方法等多种因素如何共同塑造公众对经济的感知。核心观点是，投资者应客观理解宏观数据，避免情绪左右判断，以做出更明智的投资决策。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了官方公布的GDP增速与公众实际感受之间的差异。主持人海淀拙大叔详细解释了**实际GDP**与**名义GDP**的区别，以及**GDP平减指数**在其中的作用。节目通过公司销售额的类比，阐明了价格波动如何影响经济数据的呈现，并分析了通胀与通缩对名义GDP与实际GDP增长率的影响。此外，节目还探讨了市场化程度、行业特性、心理预期及统计方法等多种因素如何共同塑造公众对经济的感知。核心观点是，投资者应客观理解宏观数据，避免情绪左右判断，以做出更明智的投资决策。
+tags:
+- economic
+- financial
+- growth
+- investment
+title: GDP增速靠谱吗？实际与名义GDP的体感差异深度解析
 ---
+
 ### GDP数据与公众体感差异
 
 阿干经济宏观论第24集，海淀拙大叔在7月18号周五讨论了“GDP增速靠谱吗？”这个话题。最新的二季度GDP数据显示同比增长5.2%，上半年增长5.3%。然而，很多人感觉这些数据不太靠谱，因为他们和身边人的体感温度都非常冷。这引发了一个疑问：为什么GDP还能增长5%以上？也就是说，我们的体感GDP和数据GDP不一致，这是否意味着在无法改变温度的情况下，我们准备去修改温度计了？大叔提出了一个问题：如果二季度GDP增长是3.9%，大家会不会觉得更靠谱一点？

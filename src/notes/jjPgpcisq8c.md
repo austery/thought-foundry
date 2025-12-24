@@ -1,44 +1,43 @@
 ---
-author: 美投讲美股
+area: market-analysis
+category: finance
+companies_orgs:
+- 高盛
+- 大摩
+- 瑞银
+- 亚特兰大联储
+- Polymarket
+- FactSet
+- 欧洲央行
 date: '2025-06-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Jerome Powell
+products_models:
+- ChatGPT
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=jjPgpcisq8c
 speaker: 美投讲美股
-tags:
-  - us-stock-market
-  - economic-outlook
-  - inflation-risk
-  - ai-investment
-  - policy-impact
-  - geopolitical-risk
-title: 下半年美股投资展望：政策转向、通胀挑战与AI机遇深度解析
-summary: 本视频深入分析了2025年下半年美股市场的关键变量、机会与风险。内容涵盖特朗普政策（减税、去监管、关税）、通胀走势及美联储应对、美国经济衰退风险评估、企业盈利增长动力（尤其AI影响）以及地缘政治风险。作者认为下半年是美股最佳入场时机，并提供了具体的投资策略建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - Jerome Powell
-companies_orgs:
-  - 高盛
-  - 大摩
-  - 瑞银
-  - 亚特兰大联储
-  - Polymarket
-  - FactSet
-  - 欧洲央行
-products_models:
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 本视频深入分析了2025年下半年美股市场的关键变量、机会与风险。内容涵盖特朗普政策（减税、去监管、关税）、通胀走势及美联储应对、美国经济衰退风险评估、企业盈利增长动力（尤其AI影响）以及地缘政治风险。作者认为下半年是美股最佳入场时机，并提供了具体的投资策略建议。
+tags:
+- ai-investment
+- economic-outlook
+- geopolitical-risk
+- inflation-risk
+- policy
+- us-stock-market
+title: 下半年美股投资展望：政策转向、通胀挑战与AI机遇深度解析
 ---
+
 ### 下半年美股市场展望：机遇与风险并存
 
 美股不是华尔街的专利。前不久，**美股**（US Stocks: 美国股票市场）灾难性的**闪崩**（Flash Crash: 短时间内股价急剧下跌）还历历在目，转眼间股市就已经快要再创新高了。抓住这波机会的人赚得盆满钵满，然而也有不少人因为市场涨得太快，仍然没有找到入场机会。不过没关系，无论你是哪一种投资者，下半年的美股市场注定都将给你更多的机会。为什么这么说呢？在本期视频中，美投君将带大家全面了解下半年的美股市场。我在年初的2025年全年投资展望中提到，上半年的美股走势基本是按照我们的预测剧本发展的。那么下半年会如何呢？我将从政策、通胀、经济、企业盈利、**美联储**（The Fed: 美国联邦储备系统，负责制定货币政策）等多个角度，为大家深度解读美股市场，让你全方位了解到下半年的市场机会以及市场风险。相信看完本期视频，你就可以安心掌控下半年的美股投资了。

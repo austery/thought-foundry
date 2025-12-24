@@ -1,37 +1,36 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: culture
+companies_orgs:
+- US-News
+- Fraser Institute
+- Appleby College
+- Oakville district school board
 date: '2024-02-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OutKids
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=KuiyP8mC56Y
 speaker: 莊也雜談
-tags:
-  - canadian-education-system
-  - k12-education
-  - public-vs-private-schools
-  - education-culture-differences
-  - school-bullying
-title: 加拿大中小學教育體系深度解析：是「放羊」還是科學？
-summary: 本文深入探討加拿大K12教育體系，引用US-News排名指出其全球領先地位。詳細介紹加拿大教育的省級管理、K12義務教育概念，並對比公立與私立學校的特點、經費來源及教學理念。文章還分析了菲沙研究院學校排名的局限性，並強調加拿大教育在人文關懷、個性化發展及反霸凌方面的努力，同時對比了中加教育理念的差異。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people: []
-companies_orgs:
-  - US-News
-  - Fraser Institute
-  - Appleby College
-  - Oakville district school board
-products_models: []
-media_books:
-  - OutKids
 status: evergreen
+summary: 本文深入探討加拿大K12教育體系，引用US-News排名指出其全球領先地位。詳細介紹加拿大教育的省級管理、K12義務教育概念，並對比公立與私立學校的特點、經費來源及教學理念。文章還分析了菲沙研究院學校排名的局限性，並強調加拿大教育在人文關懷、個性化發展及反霸凌方面的努力，同時對比了中加教育理念的差異。
+tags:
+- culture
+- education
+- investment
+- public
+- system
+title: 加拿大中小學教育體系深度解析：是「放羊」還是科學？
 ---
+
 ### 加拿大中小學教育概覽與國際地位
 
 大家好，我是莊也，歡迎您收看莊也雜談加拿大系列節目。今天我們來聊聊加拿大的中小學教育。估計對這期節目最感興趣的，就是那些打算送孩子小小年紀來加拿大留學的家長們。加拿大的教育體系可以說是世界上最好的教育體系之一，這並非吹牛，我們用數字說話。

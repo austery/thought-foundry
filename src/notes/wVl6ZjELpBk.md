@@ -1,43 +1,44 @@
 ---
-author: AI Engineer
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- OpenAI
+- GitHub
+- Cursor
+- Zed
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Bill Chen
+- Brian Fioca
+products_models:
+- Codeex
+- Codeex Max
+- GPT-5.1
+- ChatGPT
+- VS Code
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=wVl6ZjELpBk
 speaker: AI Engineer
-tags:
-  - coding-agents
-  - ai-models
-  - harness-development
-  - prompt-engineering
-  - software-automation
-title: OpenAI 编码智能体 Codeex：模型与协调器共生，构建面向未来的AI编程
-summary: OpenAI 的 Bill Chen 和 Brian Fioca 深入探讨了编码智能体的构建与未来。他们强调了模型（Model）和协调器（Harness）在智能体架构中的关键作用，并介绍了 OpenAI 自家的编码智能体 Codeex。文章详细阐述了协调器面临的挑战，如工具集成、延迟管理和上下文窗口优化，并揭示了模型训练习惯对提示工程的重要性。Codeex 不仅是一个强大的编程工具，更是一个能处理命令行任务的通用智能体，其SDK为开发者提供了构建定制化AI应用的强大抽象层。展望未来，模型能力将持续提升，Codeex 将助力开发者构建更智能、更自主的软件系统。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Bill Chen
-  - Brian Fioca
-companies_orgs:
-  - OpenAI
-  - GitHub
-  - Cursor
-  - Zed
-products_models:
-  - Codeex
-  - Codeex Max
-  - GPT-5.1
-  - ChatGPT
-  - VS Code
-media_books: []
 status: evergreen
+summary: OpenAI 的 Bill Chen 和 Brian Fioca 深入探讨了编码智能体的构建与未来。他们强调了模型（Model）和协调器（Harness）在智能体架构中的关键作用，并介绍了
+  OpenAI 自家的编码智能体 Codeex。文章详细阐述了协调器面临的挑战，如工具集成、延迟管理和上下文窗口优化，并揭示了模型训练习惯对提示工程的重要性。Codeex
+  不仅是一个强大的编程工具，更是一个能处理命令行任务的通用智能体，其SDK为开发者提供了构建定制化AI应用的强大抽象层。展望未来，模型能力将持续提升，Codeex
+  将助力开发者构建更智能、更自主的软件系统。
+tags:
+- ai-model
+- coding-agent
+- development
+- software-automation
+title: OpenAI 编码智能体 Codeex：模型与协调器共生，构建面向未来的AI编程
 ---
+
 ### 编码智能体的崛起
 
 大家好。今天，我们将讨论如何构建编码智能体。我是 Bill，在 OpenAI 的应用 AI 初创团队工作。Brian 和我都在 OpenAI 的初创团队工作，我们特别专注于在这里构建编码智能体。

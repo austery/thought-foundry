@@ -1,56 +1,56 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- OpenAI
+- Microsoft
+- CRWV
+- NBIS
+- Oracle
+- Google
+- Amazon AWS
+- Equinix
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bg2 Pod
+- Money or Life 美股频道
+- Patreon
+people:
+- Sam Altman
+- Satya Nadella
+- Brad
+- Elon Musk
+- Donald Trump
+products_models:
+- Azure
+- Co-pilot
+- Micro office 365
+- H100
+- H200
+- GB100
+- GB200
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=2Vit5_q9U-0
 speaker: Money or Life 美股频道
-tags:
-  - ai-infrastructure
-  - cloud-computing
-  - investment-strategy
-  - market-bubble
-  - profit-margins
-title: OpenAI与微软对话：AI基础设施投资的机遇与挑战——兼论CRWV与NBIS的长期价值
-summary: 本期视频深入分析了OpenAI CEO Sam Altman与微软CEO Satya Nadella在播客中的对话，探讨了OpenAI与微软的合作细节、潜在上市计划以及Sam Altman对“AI泡沫”质疑的反应。文章结合Satya对云业务利润率的独到见解，特别是关于“可替代性”和“规模效应”的论述，评估了CRWV、NBIS等新兴云服务公司的长期投资价值。作者分享了对AI泡沫的担忧，并阐述了在控制仓位前提下，对优秀新云公司转为中长期持有的投资策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Sam Altman
-  - Satya Nadella
-  - Brad
-  - Elon Musk
-  - Donald Trump
-companies_orgs:
-  - OpenAI
-  - Microsoft
-  - CRWV
-  - NBIS
-  - Oracle
-  - Google
-  - Amazon AWS
-  - Equinix
-products_models:
-  - Azure
-  - Co-pilot
-  - Micro office 365
-  - H100
-  - H200
-  - GB100
-  - GB200
-media_books:
-  - Bg2 Pod
-  - Money or Life 美股频道
-  - Patreon
 status: evergreen
+summary: 本期视频深入分析了OpenAI CEO Sam Altman与微软CEO Satya Nadella在播客中的对话，探讨了OpenAI与微软的合作细节、潜在上市计划以及Sam
+  Altman对“AI泡沫”质疑的反应。文章结合Satya对云业务利润率的独到见解，特别是关于“可替代性”和“规模效应”的论述，评估了CRWV、NBIS等新兴云服务公司的长期投资价值。作者分享了对AI泡沫的担忧，并阐述了在控制仓位前提下，对优秀新云公司转为中长期持有的投资策略。
+tags:
+- ai-infrastructure
+- cloud-computing
+- financial
+- market-bubble
+title: OpenAI与微软对话：AI基础设施投资的机遇与挑战——兼论CRWV与NBIS的长期价值
 ---
+
 ### OpenAI与微软的合作细节及上市展望
 
 欢迎来到Money or Life美股频道。周末观看了一期我长期关注的博主Bg2 Pod（播客名称）的播客节目，其中邀请了OpenAI的**Sam Altman**和微软的CEO **Satya Nadella**。之所以对此特别感兴趣并反复观看，是因为我个人关注的**CRWV**和**NBIS**这些**neocloud**（新云公司: 专注于提供AI算力基础设施服务的公司）公司，都与微软有合作，且微软是它们最大的客户。此外，OpenAI最近与微软达成了新的协议，并有传言OpenAI可能在明年底或后年初上市。因此，我仔细聆听了节目内容，并在此分享一些看法。

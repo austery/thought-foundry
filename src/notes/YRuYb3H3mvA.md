@@ -1,38 +1,37 @@
 ---
-author: Money & Macro
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bank of Russia
 date: '2025-10-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+people:
+- Scott Bessent
+- Elvira Nabiullina
+- Putin
+- Kaiser
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=YRuYb3H3mvA
 speaker: Money & Macro
-tags:
-  - war-economy
-  - economic-collapse
-  - capital-controls
-  - monetary-policy
-  - sanctions-impact
-title: 俄罗斯战时经济为何比你想象的更强大？
-summary: 本文分析了俄罗斯战时经济为何能够抵御西方对其崩溃的预测。文章阐释了战时经济的运作方式，俄罗斯如何通过激活闲置资源、实施“堡垒俄罗斯”战略，并在西方制裁下通过资本管制避免经济崩溃。通过对比历史案例，文章指出俄罗斯经济在资本外逃、关键进口受阻、过度债务和公众不满等方面的风险较低，并认为其战时经济仍处于早期阶段，远未达到崩溃点。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Scott Bessent
-  - Elvira Nabiullina
-  - Putin
-  - Kaiser
-companies_orgs:
-  - Bank of Russia
-products_models: []
-media_books:
-  - The Economist
 status: evergreen
+summary: 本文分析了俄罗斯战时经济为何能够抵御西方对其崩溃的预测。文章阐释了战时经济的运作方式，俄罗斯如何通过激活闲置资源、实施“堡垒俄罗斯”战略，并在西方制裁下通过资本管制避免经济崩溃。通过对比历史案例，文章指出俄罗斯经济在资本外逃、关键进口受阻、过度债务和公众不满等方面的风险较低，并认为其战时经济仍处于早期阶段，远未达到崩溃点。
+tags:
+- control
+- economic
+- impact
+- war
+title: 俄罗斯战时经济为何比你想象的更强大？
 ---
+
 ### 俄罗斯经济：出人意料的韧性
 
 俄罗斯经济即将崩溃吗？

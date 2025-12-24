@@ -1,39 +1,38 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- FBI
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《判断人心：一位资深FBI特工的行为预测用户手册》
+- 《黑天鹅》
+people:
+- Saddam Hussein
+- Adolf Hitler
+- Joseph Stalin
+- Linda
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=GuM7ptWf__U
 speaker: 北美王路飞
-tags:
-  - emotional-stability
-  - people-assessment
-  - emotional-manipulation
-  - quiet-vs-noisy-mind
-  - rational-decision-making
-title: FBI顶级探员识人术：识别情绪炸弹与黄金盟友的秘密
-summary: 本期节目深入探讨FBI识人体系，揭示情绪不稳定的10个负面信号和情绪稳定的10个积极信号。核心概念是“安静的大脑”与“嘈杂的大脑”，强调爱与恐惧对人类行为的主导作用。节目旨在帮助听众识别身边的“情绪炸弹”，避免被操纵，并通过理性分析行为，找到值得信赖的“黄金盟友”，最终构建一个由理性主导的个人世界。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Saddam Hussein
-  - Adolf Hitler
-  - Joseph Stalin
-  - Linda
-companies_orgs:
-  - FBI
-products_models: []
-media_books:
-  - 《判断人心：一位资深FBI特工的行为预测用户手册》
-  - 《黑天鹅》
 status: evergreen
+summary: 本期节目深入探讨FBI识人体系，揭示情绪不稳定的10个负面信号和情绪稳定的10个积极信号。核心概念是“安静的大脑”与“嘈杂的大脑”，强调爱与恐惧对人类行为的主导作用。节目旨在帮助听众识别身边的“情绪炸弹”，避免被操纵，并通过理性分析行为，找到值得信赖的“黄金盟友”，最终构建一个由理性主导的个人世界。
+tags:
+- emotional
+- psychology
+- rational-decision-making
+- society
+title: FBI顶级探员识人术：识别情绪炸弹与黄金盟友的秘密
 ---
+
 ### 引言：情绪主导的世界与识人术的必要性
 
 大家好，欢迎来到我的频道。今天我们来做超新星会员视频，这本《判断人心：一位资深FBI特工的行为预测用户手册》的最后一集节目。这本书的实用性非常强。今天最后一集讲的信号，其实就是情绪的稳定性。

@@ -1,45 +1,43 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Intuitive Surgical
+- FDA
+- Medtronic
+- Johnson & Johnson
+- Restore Robotics
 date: '2025-10-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Leonardo da Vinci
+- Donald Trump
+products_models:
+- Da Vinci Surgical System
+- Da Vinci Xi
+- Da Vinci Si
+- ION Endoluminal System
+- Da Vinci Fifth Generation Surgical System
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=KEIrNPZ4uwI
 speaker: Money or Life 美股频道
-tags:
-  - robotic-surgery
-  - medical-devices
-  - recurring-revenue
-  - market-dominance
-  - investment-strategy
-title: '直觉外科公司 (ISRG): 医疗机器人领域的领导者与投资分析'
-summary: 本视频深入分析了直觉外科公司（Intuitive Surgical, ISRG），这家在全球机器人辅助微创手术市场占据80%以上份额的领导者。内容涵盖了其核心产品达芬奇手术系统、ION诊断系统，以及独特的经常性收入商业模式。视频探讨了公司通过产品研发和全球市场拓展实现增长的潜力，同时分析了竞争格局、关税影响及当前估值，为投资者提供了关于ISRG是否值得投资以及如何投资的全面视角。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Leonardo da Vinci
-  - Donald Trump
-companies_orgs:
-  - Intuitive Surgical
-  - FDA
-  - Medtronic
-  - Johnson & Johnson
-  - Restore Robotics
-products_models:
-  - Da Vinci Surgical System
-  - Da Vinci Xi
-  - Da Vinci Si
-  - ION Endoluminal System
-  - Da Vinci Fifth Generation Surgical System
-media_books: []
 status: evergreen
+summary: 本视频深入分析了直觉外科公司（Intuitive Surgical, ISRG），这家在全球机器人辅助微创手术市场占据80%以上份额的领导者。内容涵盖了其核心产品达芬奇手术系统、ION诊断系统，以及独特的经常性收入商业模式。视频探讨了公司通过产品研发和全球市场拓展实现增长的潜力，同时分析了竞争格局、关税影响及当前估值，为投资者提供了关于ISRG是否值得投资以及如何投资的全面视角。
+tags:
+- financial
+- market-dominance
+- medical
+- robotic-surgery
+title: '直觉外科公司 (ISRG): 医疗机器人领域的领导者与投资分析'
 ---
+
 大家好，欢迎来到Money or Life美股频道。我是Ace。今天为大家分析的公司叫做**直觉外科公司**（Intuitive Surgical: 全球机器人辅助微创手术领域的领导者），其在美股的上市代码是ISRG。
 
 ### 公司概览与产品演进

@@ -1,39 +1,38 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Tonda Morales
+- John Michael McGrath
+- Justin Trudeau
+- Donald Trump
+- Chrystia Freeland
+- Mark Carney
+- Doug Ford
+- Pierre Poilievre
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=hTsU1bddToQ
 speaker: TVO Today
-tags:
-  - us-trade-policy
-  - federal-provincial-relations
-  - nuclear-energy-strategy
-  - election-cycle
-title: 2025年加拿大政坛的决定性时刻：关税冲击、领导人更迭与能源战略
-summary: 本文回顾了2025年安大略省及加拿大政坛的重大事件。讨论的核心包括唐纳德·特朗普的关税政策对全球贸易和加拿大政治的深远影响，这被认为是引发贾斯汀·特鲁多辞职的背景因素。此外，还深入分析了安大略省长道格·福特与联邦总理马克·卡尼之间围绕贸易和能源（特别是小型模块化反应堆SMR）的复杂合作与博弈，以及2026年可能出现的联邦选举前景。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Tonda Morales
-  - John Michael McGrath
-  - Justin Trudeau
-  - Donald Trump
-  - Chrystia Freeland
-  - Mark Carney
-  - Doug Ford
-  - Pierre Poilievre
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文回顾了2025年安大略省及加拿大政坛的重大事件。讨论的核心包括唐纳德·特朗普的关税政策对全球贸易和加拿大政治的深远影响，这被认为是引发贾斯汀·特鲁多辞职的背景因素。此外，还深入分析了安大略省长道格·福特与联邦总理马克·卡尼之间围绕贸易和能源（特别是小型模块化反应堆SMR）的复杂合作与博弈，以及2026年可能出现的联邦选举前景。
+tags:
+- cycle
+- relations
+- strategy
+- us-trade-policy
+title: 2025年加拿大政坛的决定性时刻：关税冲击、领导人更迭与能源战略
 ---
+
 ### 2025年政治回顾：聚焦高光与低谷
 
 这一年，在安大略省乃至全国范围内，发生了许多事情。

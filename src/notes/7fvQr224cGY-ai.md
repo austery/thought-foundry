@@ -1,34 +1,34 @@
 ---
-title: 硅谷万亿AI资本闭环：杠杆、泡沫与市场情绪解析
-summary: OpenAI万亿算力采购引出“信任循环”与“AI泡沫”担忧。本文解析甲骨文、英伟达、AMD与OpenAI资本闭环，探讨杠杆效应及AI热潮持续性。
 area: tech-insights
 category: technology
+companies_orgs:
+- openai
+date: '2025-10-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books: []
+people: []
+products_models: []
 project:
 - ai-impact-analysis
 - investment-strategy
 - market-cycles
+series: ''
+source: https://www.youtube.com/watch?v=7fvQr224cGY
+speaker: 硅谷101
+status: evergreen
+summary: OpenAI万亿算力采购引出“信任循环”与“AI泡沫”担忧。本文解析甲骨文、英伟达、AMD与OpenAI资本闭环，探讨杠杆效应及AI热潮持续性。
 tags:
 - '101'
 - ai-bubble
 - circular-financing
 - gpu-market
 - silicon-valley
-people: []
-companies_orgs:
-- openai
-products_models: []
-media_books: []
-date: '2025-10-14'
-author: 硅谷101
-speaker: 硅谷101
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=7fvQr224cGY
-status: evergreen
+title: 硅谷万亿AI资本闭环：杠杆、泡沫与市场情绪解析
 ---
+
 ### OpenAI万亿算力采购与Sam Altman的“新融资机制”
 
 截至2025年，OpenAI已签署价值一万亿美元的算力采购协议，这笔巨额资金（即12个零）将用于购买英伟达、AMD、甲骨文、CoreWeave等公司的算力服务。这些交易的总规模相当于20座核电站的能源供应。然而，OpenAI目前的年营收仅为120亿美元，这笔庞大的资金来源引发了外界关注。

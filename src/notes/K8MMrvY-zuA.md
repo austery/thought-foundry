@@ -1,63 +1,63 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- New York Times Podcasts
+- Wirecutter
+- My Da Vinci
+- Etsy
+- Funko Pop
+- Pendleton
+- L.L.Bean
+- Falcon Enamelware
+- Maine Shakers
+- Bram Mountain
+- Goldbelly
+- Harry & David
+- Bagu
+- Stanley
+- Hydro Flask
+- Tusk
+- Block Design
+- Luxardo
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Gift
+people:
+- Christine
+- Hannah Moral
+- Sue
+- RM
+- Mike
+- Don
+- Lee
+- Jim
+products_models:
+- Cadence Capsules
+- Kodapaxi Packing Cubes
+- Funko Pop
+- Travel Card One Word Charger Plus
+- Japanese Craypaws
+- Tiny Vinyl
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=K8MMrvY-zuA
 speaker: New York Times Podcasts
-tags:
-  - gift-giving
-  - holiday-shopping
-  - personalized-gifts
-  - thoughtful-presents
-  - consumer-advice
-title: 2025送礼指南：如何为最难取悦的人挑选礼物
-summary: 《纽约时报播客》的这一集提供了关于如何应对挑战性送礼场景的专家建议。Wirecutter的资深编辑汉娜·莫拉尔分享了为挑剔的收礼者、那些看似拥有一切的人以及同事挑选贴心礼物的策略。讨论的主题包括个性化物品、实用升级产品和独特的消耗品，旨在让送礼成为一种愉快且压力较小的体验。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project: []
-people:
-  - Christine
-  - Hannah Moral
-  - Sue
-  - RM
-  - Mike
-  - Don
-  - Lee
-  - Jim
-companies_orgs:
-  - New York Times Podcasts
-  - Wirecutter
-  - My Da Vinci
-  - Etsy
-  - Funko Pop
-  - Pendleton
-  - L.L.Bean
-  - Falcon Enamelware
-  - Maine Shakers
-  - Bram Mountain
-  - Goldbelly
-  - Harry & David
-  - Bagu
-  - Stanley
-  - Hydro Flask
-  - Tusk
-  - Block Design
-  - Luxardo
-products_models:
-  - Cadence Capsules
-  - Kodapaxi Packing Cubes
-  - Funko Pop
-  - Travel Card One Word Charger Plus
-  - Japanese Craypaws
-  - Tiny Vinyl
-media_books:
-  - The Gift
 status: evergreen
+summary: 《纽约时报播客》的这一集提供了关于如何应对挑战性送礼场景的专家建议。Wirecutter的资深编辑汉娜·莫拉尔分享了为挑剔的收礼者、那些看似拥有一切的人以及同事挑选贴心礼物的策略。讨论的主题包括个性化物品、实用升级产品和独特的消耗品，旨在让送礼成为一种愉快且压力较小的体验。
+tags:
+- canada
+- consumer
+- financial
+- gift-giving
+- personalized-gift
+title: 2025送礼指南：如何为最难取悦的人挑选礼物
 ---
+
 ### 导语：为“难搞”的人挑选礼物
 
 大家好，我是克里斯汀。

@@ -1,82 +1,82 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Netflix
+- 南洋理工大学
+- 台湾大学
+- 国民党
+- 民众党
+- 民进党
+- CIA
+- 北约
+- 慈济
+- 台积电
+- 英特尔
+- 国台办
+- 湖南师范大学
+- 岳麓书院
+- 云门舞集
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Netflix
+- 看见
+- 史记
+- 央视
+people:
+- 李光耀
+- 许福吉
+- 孙中山
+- 赖清德
+- 高虹安
+- 黄仁勋
+- 张忠谋
+- 施振荣
+- 泽连斯基
+- Vladimir Putin
+- 郭沫若
+- 黄国昌
+- 白先勇
+- 林怀民
+- 许倬云
+- 张光直
+- 余英时
+- 杜一鸣
+- 吴淡如
+- 苏姿丰
+- 特朗普
+- Mr. Beats
+- 王局
+- 柴静
+products_models:
+- 五权宪法
+- 真朋友APP
+- 零日攻击
+- 护国神山
+- 反分裂国家法
+- 看见
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=TKKMWlTK3eE
 speaker: 北美王路飞
-tags:
-  - taiwan-politics
-  - cross-strait-relations
-  - democratic-challenges
-  - geopolitical-strategy
-  - public-opinion
-title: 台湾“大罢免”事件：政治博弈、社会分裂与两岸关系的深层思考
-summary: 本期播客节目邀请了新加坡国父李光耀的中文老师许福吉教授和Neo，深入探讨了台湾近期发生的“大罢免”事件。节目分析了“五权宪法”下的“朝小野大”困境，探讨了罢免案的合理性与争议，以及由此引发的社会分裂和“扣帽子”现象。嘉宾们还对比了台湾与乌克兰的处境，就两岸关系中的“通共”指控、民间交流（如“馆长”访陆）以及维持现状的重要性进行了多维度讨论，强调和平与务实沟通对华人社会的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 李光耀
-  - 许福吉
-  - 孙中山
-  - 赖清德
-  - 高虹安
-  - 黄仁勋
-  - 张忠谋
-  - 施振荣
-  - 泽连斯基
-  - 普京
-  - 郭沫若
-  - 黄国昌
-  - 白先勇
-  - 林怀民
-  - 许倬云
-  - 张光直
-  - 余英时
-  - 杜一鸣
-  - 吴淡如
-  - 苏姿丰
-  - 特朗普
-  - Mr. Beats
-  - 王局
-  - 柴静
-companies_orgs:
-  - Netflix
-  - 南洋理工大学
-  - 台湾大学
-  - 国民党
-  - 民众党
-  - 民进党
-  - CIA
-  - 北约
-  - 慈济
-  - 台积电
-  - 英特尔
-  - 国台办
-  - 湖南师范大学
-  - 岳麓书院
-  - 云门舞集
-products_models:
-  - 五权宪法
-  - 真朋友APP
-  - 零日攻击
-  - 护国神山
-  - 反分裂国家法
-  - 看见
-media_books:
-  - Netflix
-  - 看见
-  - 史记
-  - 央视
 status: evergreen
+summary: 本期播客节目邀请了新加坡国父李光耀的中文老师许福吉教授和Neo，深入探讨了台湾近期发生的“大罢免”事件。节目分析了“五权宪法”下的“朝小野大”困境，探讨了罢免案的合理性与争议，以及由此引发的社会分裂和“扣帽子”现象。嘉宾们还对比了台湾与乌克兰的处境，就两岸关系中的“通共”指控、民间交流（如“馆长”访陆）以及维持现状的重要性进行了多维度讨论，强调和平与务实沟通对华人社会的重要性。
+tags:
+- challenge
+- cross-strait-relations
+- geopolitical-strategy
+- public-opinion
+- taiwan-politics
+title: 台湾“大罢免”事件：政治博弈、社会分裂与两岸关系的深层思考
 ---
+
 ### 播客开场与嘉宾介绍
 
 **王路飞:** 大家好，非常高兴来到本期的播客节目。我们和Neo联动录一期非常神奇的线下节目。那么今天呢，非常高兴Neo请到了许教授。

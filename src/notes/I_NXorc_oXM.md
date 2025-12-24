@@ -1,56 +1,55 @@
 ---
-author: 郭里有范
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 军政府
+- 全国团结政府
+- 人民国防军
+- 果敢同盟军
+- 德昂军
+- 若开军
+- 三兄弟同盟
+- 克钦独立军
+- 东盟
+- 欧洲议会
+- 国际特赦组织
+- 国际法庭
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 敏昂莱
+- 昂山素季
+- 彭德仁
+- 李光耀
+- Xi Jinping
+- 巴育
+- 达赖喇嘛
+- Joe Biden
+- Donald Trump
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=I_NXorc_oXM
 speaker: 郭里有范
-tags:
-  - myanmar-civil-war
-  - china-myanmar-relations
-  - rare-earth-strategy
-  - indian-ocean-access
-  - private-security-companies
-  - 1027-operation
-  - telecom-fraud
-title: 中国在缅甸的战略博弈：稀土、通道与瓦格纳模式的兴起
-summary: 缅甸内战自军事政变以来持续升级，国际社会关注不足。文章深入分析了中国在缅甸复杂局势中的战略转向。最初，中国暗中支持缅北地方武装打击电信诈骗，但随着战局变化和中国核心利益的考量，中国转而公开支持缅甸军政府。文章探讨了中国对缅甸的经济（稀土、印度洋通道）和政治（地区稳定、防止民主化）刚需，以及2025年出台的《私人安保服务法》如何允许中国以“雇佣兵”模式介入，可能复制“瓦格纳集团”经验，成为缅甸内战的“超级调解人”，以维护其长远战略利益。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 敏昂莱
-  - 昂山素季
-  - 彭德仁
-  - 李光耀
-  - 习近平
-  - 巴育
-  - 达赖喇嘛
-  - Joe Biden
-  - Donald Trump
-companies_orgs:
-  - 军政府
-  - 全国团结政府
-  - 人民国防军
-  - 果敢同盟军
-  - 德昂军
-  - 若开军
-  - 三兄弟同盟
-  - 克钦独立军
-  - 东盟
-  - 欧洲议会
-  - 国际特赦组织
-  - 国际法庭
-products_models: []
-media_books: []
 status: evergreen
+summary: 缅甸内战自军事政变以来持续升级，国际社会关注不足。文章深入分析了中国在缅甸复杂局势中的战略转向。最初，中国暗中支持缅北地方武装打击电信诈骗，但随着战局变化和中国核心利益的考量，中国转而公开支持缅甸军政府。文章探讨了中国对缅甸的经济（稀土、印度洋通道）和政治（地区稳定、防止民主化）刚需，以及2025年出台的《私人安保服务法》如何允许中国以“雇佣兵”模式介入，可能复制“瓦格纳集团”经验，成为缅甸内战的“超级调解人”，以维护其长远战略利益。
+tags:
+- china
+- fraud
+- geopolitical
+- history
+- rare-earth-strategy
+- security
+- war
+title: 中国在缅甸的战略博弈：稀土、通道与瓦格纳模式的兴起
 ---
+
 ### 缅甸乱局与国际关注的缺失
 
 “水浅王八多，谁都是大哥”，这正是当前缅甸的真实写照。自军事政变和内战重启以来，缅甸境内二十多个武装派别之间的冲突，已导致八万多人死亡，三百多万人流离失所。然而，由于俄乌战争和巴以冲突占据了国际社会的焦点，对缅甸的关注明显不足。前两年，中国曾因打击电信诈骗，暗中支持缅北的几个地方武装，即所谓的“缅北三兄弟”。军政府一度被三兄弟打得丢盔卸甲，三兄弟甚至一举拿下了缅北军事重镇**腊戍市**（Lashio: 缅甸掸邦北部的军事重镇）。这使得缅甸全国的地方武装精神为之一振，正当他们摩拳擦掌之际，中国却突然强迫三兄弟与军政府和谈，并要求他们将腊戍市归还给军政府。直到前段时间的九三阅兵，习近平甚至将缅甸军政府领导人敏昂莱请上了主席台。

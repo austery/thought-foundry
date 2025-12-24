@@ -1,47 +1,46 @@
 ---
-author: FearNation 世界苦茶
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 中国人民银行
+- 美联储
+- 财政部
+- 工商银行
+- 硅谷银行
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大明王朝1566》
+people:
+- 潘功胜
+- Xi Jinping
+- 高市早苗
+- 安倍晋三
+- 毛泽东
+- 刘少奇
+- 邓小平
+- 华国锋
+- 秦晖
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=aqlf4-1WAk0
 speaker: FearNation 世界苦茶
-tags:
-  - deficit-monetization
-  - monetary-policy
-  - systemic-risk
-  - financial-stability
-  - state-advance-private-retreat
-title: 中国央行开启“赤字货币化”：是拯救经济还是饮鸩止渴？
-summary: 中国正通过“买断式逆回购”（ORR）等工具，间接且大规模地实施央行购买国债，这标志着实质性的“赤字货币化”已经启动。数据显示，央行购买的国债比例已达30%，规模超过全年赤字总额。此举短期内或不会引发恶性通胀，但正通过压缩银行息差、加剧“国进民退”，形成蚕食经济活力的恶性循环，给金融体系带来巨大的系统性风险。这究竟是为社会福利兜底的必要之举，还是仅为维持政府运转的无奈之策，值得密切关注。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - systems-thinking
-people:
-  - 潘功胜
-  - 习近平
-  - 高市早苗
-  - 安倍晋三
-  - 毛泽东
-  - 刘少奇
-  - 邓小平
-  - 华国锋
-  - 秦晖
-companies_orgs:
-  - 中国人民银行
-  - 美联储
-  - 财政部
-  - 工商银行
-  - 硅谷银行
-products_models: []
-media_books:
-  - 《大明王朝1566》
 status: evergreen
+summary: 中国正通过“买断式逆回购”（ORR）等工具，间接且大规模地实施央行购买国债，这标志着实质性的“赤字货币化”已经启动。数据显示，央行购买的国债比例已达30%，规模超过全年赤字总额。此举短期内或不会引发恶性通胀，但正通过压缩银行息差、加剧“国进民退”，形成蚕食经济活力的恶性循环，给金融体系带来巨大的系统性风险。这究竟是为社会福利兜底的必要之举，还是仅为维持政府运转的无奈之策，值得密切关注。
+tags:
+- deficit-monetization
+- financial-stability
+- state
+- systemic-risk
+title: 中国央行开启“赤字货币化”：是拯救经济还是饮鸩止渴？
 ---
+
 ### 中国悄然开启的“赤字货币化”
 
 今天我们要讨论的是央行的**赤字货币化**（Deficit Monetization: 指央行直接印钱为政府财政赤字融资的行为）问题，这是一个专业性较强的话题。我希望通过今天的讲解，能让大家对央行的运作有更深入的了解。

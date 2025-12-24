@@ -1,44 +1,43 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Google
 date: '2025-07-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《为何睡不好？原来问题在大脑》
+- 《科学怪人》
+- European Heart Journal
+people:
+- 邬定宇
+- 梁惠雯
+- 史佩尔曼教授
+- 门德烈夫
+- Larry Page
+- Bill Gates
+- Elon Musk
+products_models:
+- 电子手环
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=MBh8kRto0aw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - sleep-disorders
-  - insomnia-causes
-  - sleep-health-impact
-  - cognitive-function
-  - sleep-hygiene
-title: 睡眠质量与大脑健康：深入解析失眠的成因、危害与改善之道
-summary: 本期节目深入探讨了睡眠对健康的重要性，详细解析了史佩尔曼教授提出的失眠3P理论，包括前置因子、诱发因子和慢性化因子。节目还讨论了A型人格与失眠的关系，定义了失眠的三大表现，并强调了长期睡眠不足对心血管、失智症、免疫力及代谢的严重危害。最后，提供了改善睡眠的实用建议，包括睡眠卫生习惯和寻求专业帮助的重要性。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 邬定宇
-  - 梁惠雯
-  - 史佩尔曼教授
-  - 门德烈夫
-  - Larry Page
-  - Bill Gates
-  - Elon Musk
-companies_orgs:
-  - 初日診所
-  - Google
-products_models:
-  - 电子手环
-media_books:
-  - 《为何睡不好？原来问题在大脑》
-  - 《科学怪人》
-  - European Heart Journal
 status: evergreen
+summary: 本期节目深入探讨了睡眠对健康的重要性，详细解析了史佩尔曼教授提出的失眠3P理论，包括前置因子、诱发因子和慢性化因子。节目还讨论了A型人格与失眠的关系，定义了失眠的三大表现，并强调了长期睡眠不足对心血管、失智症、免疫力及代谢的严重危害。最后，提供了改善睡眠的实用建议，包括睡眠卫生习惯和寻求专业帮助的重要性。
+tags:
+- cognitive
+- geopolitical
+- health
+- impact
+title: 睡眠质量与大脑健康：深入解析失眠的成因、危害与改善之道
 ---
+
 ### 睡眠：被忽视的生命三分之一
 
 你是否曾被问及睡眠质量如何？我们生命中约三分之一的时间都在睡眠和休息中度过，那么，究竟怎样才算睡不好？如果每天能睡八九个小时，就意味着睡得好吗？佩戴**电子手环**（Wearable Devices: 用于监测身体活动和生理指标的智能设备）评估睡眠是否有帮助？本期节目邀请到神经内科及睡眠专科**邬定宇医师**，以及资深媒体人**梁惠雯**，他们共同撰写了《为何睡不好？原来问题在大脑》一书，与我们一同探讨一夜好眠为何如此艰难。

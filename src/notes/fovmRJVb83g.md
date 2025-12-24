@@ -1,41 +1,42 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: culture
+companies_orgs:
+- 央视
+- 临沂网戒中心
+- 卫生部
+- 北京大学
 date: '2025-09-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《赫尔辛基宣言》
+people:
+- 柴静
+- 杨永信
+- 阿良
+products_models:
+- 低频电子脉冲治疗仪
+project:
+- china-analysis
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=fovmRJVb83g
 speaker: 柴静 Chai Jing
-tags:
-  - thought-control
-  - psychological-trauma
-  - parental-anxiety
-  - systemic-failure
-title: 柴静反思杨永信事件：比电击更恐怖的是高压思想控制
-summary: 柴静回顾16年前对杨永信网瘾治疗中心的调查，并采访了近年来的受害者阿良。文章揭示了该机构的核心手段并非简单的电击，而是通过制造恐惧、强制感恩、互相举报等方式，实现严密的高压思想控制。阿良的经历展示了这种“治疗”如何摧毁个体的意志、情感和亲情，并探讨了在家庭焦虑和社会监管缺失背景下，这种模式得以长期存在的深层原因，及其对受害者造成的终身创伤。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - cultural-critique
-people:
-  - 柴静
-  - 杨永信
-  - 阿良
-companies_orgs:
-  - 央视
-  - 临沂网戒中心
-  - 卫生部
-  - 北京大学
-products_models:
-  - 低频电子脉冲治疗仪
-media_books:
-  - 《赫尔辛基宣言》
 status: evergreen
+summary: 柴静回顾16年前对杨永信网瘾治疗中心的调查，并采访了近年来的受害者阿良。文章揭示了该机构的核心手段并非简单的电击，而是通过制造恐惧、强制感恩、互相举报等方式，实现严密的高压思想控制。阿良的经历展示了这种“治疗”如何摧毁个体的意志、情感和亲情，并探讨了在家庭焦虑和社会监管缺失背景下，这种模式得以长期存在的深层原因，及其对受害者造成的终身创伤。
+tags:
+- anxiety
+- control
+- failure
+title: 柴静反思杨永信事件：比电击更恐怖的是高压思想控制
+companies:
+- psychological-trauma
 ---
+
 ### 十六年后，阴影仍在
 
 这是16年前我在央视的一期节目。过去一年中，我收到的很多来信都与他有关。写信的人都曾在同一个地方，被同一个叫杨永信的医生限制人身自由，接受电击治疗，并且对他们的人生造成了严重影响。

@@ -1,53 +1,52 @@
 ---
-author: 东京人文论坛
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- 东京人文论坛
+- Google
+- Microsoft
+- OpenAI
+- 科大讯飞
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李厚辰
+- 乔布斯
+products_models:
+- ChatGPT
+- Gemini
+- VS Code
+- Codex
+- Whisper
+- Python
+- Homebrew
+- Git
+- Grok
+- DeepSeek
+- ComfyUI
+- Notebook.LM
+- RemNote
+- Docard
+- Mac mini
+project:
+- personal-growth-lab
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=1TqrucFn4qY
 speaker: 东京人文论坛
-tags:
-  - vibe-coding
-  - ai-assisted-programming
-  - automation-workflow
-  - prompt-engineering
-title: 李厚辰讲Vibe Coding：让AI为你编程，告别重复性工作
-summary: “Vibe Coding”是一种让零基础人群利用自然语言驱动AI进行编程的方法。本讲座介绍了其核心理念与广泛用途，例如自动化处理新闻简报、生成图片素材、制作学习卡片等。通过一个抓取新闻的实战案例，讲座详细演示了如何与AI协作生成代码、调试错误，并逐步引入虚拟环境、API调用、VS Code等进阶工具，旨在帮助听众掌握这项能极大提升工作效率的必备技能，培养解决问题的工程化思维。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-  - knowledge-pipeline
-people:
-  - 李厚辰
-  - 乔布斯
-companies_orgs:
-  - 东京人文论坛
-  - Google
-  - Microsoft
-  - OpenAI
-  - 科大讯飞
-products_models:
-  - ChatGPT
-  - Gemini
-  - VS Code
-  - Codex
-  - Whisper
-  - Python
-  - Homebrew
-  - Git
-  - Grok
-  - DeepSeek
-  - ComfyUI
-  - Notebook.LM
-  - RemNote
-  - Docard
-  - Mac mini
-media_books: []
 status: evergreen
+summary: “Vibe Coding”是一种让零基础人群利用自然语言驱动AI进行编程的方法。本讲座介绍了其核心理念与广泛用途，例如自动化处理新闻简报、生成图片素材、制作学习卡片等。通过一个抓取新闻的实战案例，讲座详细演示了如何与AI协作生成代码、调试错误，并逐步引入虚拟环境、API调用、VS
+  Code等进阶工具，旨在帮助听众掌握这项能极大提升工作效率的必备技能，培养解决问题的工程化思维。
+tags:
+- automation-workflow
+- llm
+- vibe-coding
+title: 李厚辰讲Vibe Coding：让AI为你编程，告别重复性工作
 ---
+
 ### 什么是Vibe Coding？告别重复性工作
 
 今天我们直接进入主题，讲一讲 **Vibe Coding**（Vibe Coding: 凭感觉编程，即利用自然语言让AI辅助编写代码的方法）。这是一种面向不会编程的人的编程方法，用途非常广泛。

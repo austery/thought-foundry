@@ -2,9 +2,9 @@
 title: 20251005_AI Agent 创业与中小企业机会:从 Vertical AI Agent 到 Agent as a Service
 source: https://www.youtube.com/watch?v=jmD-fU_3v28
 speaker: 用AI發電
-author:
+author: null
 date: 2025-10-05
-published:
+published: null
 summary: 从一个想法到持续增长，创业者 Siyuan Guo 分享了自己在一线积累的实战心法。这是一次分享，更是一份导航图，旨在帮助每位社群成员避开那些“想当然”的陷阱，掌握在AI时代创造真实价值的核心战术，将你的构想转化为能产生交易的可靠业务。
 area: tech-insights
 category: technology
@@ -14,18 +14,16 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- ai-startup
 - entrepreneurship
-- fundraising
+- investment
 - product-market-fit
+- startup
 people:
-  - Ray
-  - 思源
-  - Mike
+- Ray
+- 思源
+- Mike
 layout: post.njk
 ---
-
-  
 
 **第一部分：核心理念——创业者的生存法则**
 

@@ -1,48 +1,48 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 美国亚洲文化协会
+- 紫禁城夜总会
+- Forbidden City
+- 百乐门
 date: '2024-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金门荧光梦》
+- 《女人世界》
+people:
+- 杨圆圆
+- Kobe
+- Tev en
+- 黄柳双
+- 吴锦霞
+- SS
+- Patt
+- Emly
+- Ara
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=6gUCRgL1lCE
 speaker: 一席YiXi
-tags:
-  - cultural-erasure
-  - intergenerational-memory
-  - diaspora-identity
-  - performance-as-resistance
-  - gender-and-visibility
-title: 《女人世界》：旧金山唐人街夜总会舞者的生命之舞
-summary: 艺术家杨圆圆通过纪录片《女人世界》，记录了70至90岁美籍华裔女性舞者在暮年重登舞台的动人故事，展现她们跨越文化、性别与时代的坚韧生命力，并揭示被遗忘的华裔女性先锋历史。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 杨圆圆
-  - Kobe
-  - Tev en
-  - 黄柳双
-  - 吴锦霞
-  - SS
-  - Patt
-  - Emly
-  - Ara
-companies_orgs:
-  - 美国亚洲文化协会
-  - 紫禁城夜总会
-  - Forbidden City
-  - 百乐门
-products_models: []
-media_books:
-  - 《金门荧光梦》
-  - 《女人世界》
 status: evergreen
+summary: 艺术家杨圆圆通过纪录片《女人世界》，记录了70至90岁美籍华裔女性舞者在暮年重登舞台的动人故事，展现她们跨越文化、性别与时代的坚韧生命力，并揭示被遗忘的华裔女性先锋历史。
+tags:
+- cultural
+- gender
+- identity
+- memory
+- performance
+title: 《女人世界》：旧金山唐人街夜总会舞者的生命之舞
 ---
+
 ### 被遗忘的舞者：从唐人街夜总会到世界舞台
 
 大家好，我叫杨圆圆。作为一名艺术家和电影创作者，我一直对离散华人的故事充满兴趣。这种关注源于我18岁出国留学时的一次经历——每次走进海外的中餐厅，我都仿佛进入了一个时空胶囊：装潢、口音、音乐，一切似乎都凝固在父辈移民的那个中国。这种“文化断层”的体验，在英国、巴西等地的中餐厅反复上演，让我意识到：那些身处于两种文化夹缝中的移民者，他们的故事往往无人倾听。

@@ -1,49 +1,49 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: psychology
+companies_orgs:
+- Norges Bank Investment Management
+- National Cancer Institute
+- IBM
+- Eli Lilly
+- Bear Stearns
 date: '2025-01-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Tipping Point
+- The Black Swan
+people:
+- Malcolm Gladwell
+- Nicola Tan
+- Bill Clinton
+- Adam Grant
+- John le Carré
+- J.K. Rowling
+- Steve Jobs
+- Donald Trump
+- Kate
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=X0RNhfHswiA
 speaker: Norges Bank Investment Management
-tags:
-  - demographic-shifts
-  - human-behavior
-  - leadership-psychology
-  - storytelling-principles
-  - contrarian-thinking
-title: 马尔科姆·格拉德威尔：洞察不变的人性与社会变迁
-summary: 在这段与挪威主权财富基金CEO尼古拉·坦的对话中，著名作家马尔科姆·格拉德威尔深入探讨了过去25年社会中“不变”的人性与“变化”的技术趋势。他强调人口结构变化对技术采纳的深远影响，剖析了领导者承认错误的心理障碍，并分享了他对犯罪、体育、内向性格、财富悖论以及讲故事艺术的独特见解。格拉德威尔主张通过一致性而非短暂的爆发式努力来取得成功，并鼓励年轻人通过旅行打破同质化圈层，培养批判性思维。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Malcolm Gladwell
-  - Nicola Tan
-  - Bill Clinton
-  - Adam Grant
-  - John le Carré
-  - J.K. Rowling
-  - Steve Jobs
-  - Donald Trump
-  - Kate
-companies_orgs:
-  - Norges Bank Investment Management
-  - National Cancer Institute
-  - IBM
-  - Eli Lilly
-  - Bear Stearns
-products_models: []
-media_books:
-  - The Tipping Point
-  - The Black Swan
 status: evergreen
+summary: 在这段与挪威主权财富基金CEO尼古拉·坦的对话中，著名作家马尔科姆·格拉德威尔深入探讨了过去25年社会中“不变”的人性与“变化”的技术趋势。他强调人口结构变化对技术采纳的深远影响，剖析了领导者承认错误的心理障碍，并分享了他对犯罪、体育、内向性格、财富悖论以及讲故事艺术的独特见解。格拉德威尔主张通过一致性而非短暂的爆发式努力来取得成功，并鼓励年轻人通过旅行打破同质化圈层，培养批判性思维。
+tags:
+- demographic-shift
+- human-behavior
+- leadership-psychology
+- principle
+- thinking
+title: 马尔科姆·格拉德威尔：洞察不变的人性与社会变迁
 ---
+
 ### 序言：不变的人性与变迁的社会
 
 **Nicola:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威的中央银行管理的主权财富基金，是全球最大的主权财富基金之一）的首席执行官尼古拉·坦。

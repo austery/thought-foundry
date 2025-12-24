@@ -1,38 +1,38 @@
 ---
-author: 安争鸣（Stella An）
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《隐墙》
+- 《鲁滨逊漂流记》
+people:
+- 玛尔伦·豪斯霍费尔
+- 鲁滨逊
+- 西西弗
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=3DMH3LV75xU
 speaker: 安争鸣（Stella An）
-tags:
-  - cold-war-era
-  - existential-dread
-  - societal-alienation
-  - human-reason-critique
-  - dystopian-literature
-title: 《隐墙》：冷战阴影下的生存寓言与理性之殇
-summary: 本期节目深入探讨了玛尔伦·豪斯霍费尔1963年的奥地利小说《隐墙》，这部作品融合了科幻、末世、生态与反乌托邦元素，描绘了文明坍塌后个体在绝境中的生存挣扎。节目分析了小说对人类理性的深刻质疑，并将其置于冷战时期的历史背景下，探讨核恐惧、社会异化与意识形态隔阂。同时，主持人将书中的主题与当下“新冷战”背景下的全球恐惧和“墙国”生活体验相连接，并提供了女性主义与存在主义的多元解读视角。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - 玛尔伦·豪斯霍费尔
-  - 鲁滨逊
-  - 西西弗
-companies_orgs: []
-products_models: []
-media_books:
-  - 《隐墙》
-  - 《鲁滨逊漂流记》
 status: evergreen
+summary: 本期节目深入探讨了玛尔伦·豪斯霍费尔1963年的奥地利小说《隐墙》，这部作品融合了科幻、末世、生态与反乌托邦元素，描绘了文明坍塌后个体在绝境中的生存挣扎。节目分析了小说对人类理性的深刻质疑，并将其置于冷战时期的历史背景下，探讨核恐惧、社会异化与意识形态隔阂。同时，主持人将书中的主题与当下“新冷战”背景下的全球恐惧和“墙国”生活体验相连接，并提供了女性主义与存在主义的多元解读视角。
+tags:
+- existential-dread
+- history
+- human
+- societal
+- war
+title: 《隐墙》：冷战阴影下的生存寓言与理性之殇
 ---
+
 ### 频道里程碑与《隐墙》的重现
 
 我的频道订阅量刚刚突破了20万，这对我来说是一个奇迹，至少目前在YouTube上还没有看到同类型节目有如此多的订阅。在此，我衷心感谢各位的支持，希望大家能将我的频道推荐给更多朋友，让我能稍微梦想一下30万订阅的目标。

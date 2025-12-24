@@ -1,115 +1,116 @@
 ---
-author: Amit Kukreja
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Pure Storage
+- Marvell
+- GitLab
+- Asana
+- CrowdStrike
+- American Eagle
+- Okta
+- Federal Reserve
+- Robinhood
+- Schwab
+- Meta
+- MicroStrategy
+- Apple
+- Nvidia
+- Snowflake
+- Applovin
+- Costco
+- BMR
+- Google
+- Reddit
+- Palantir
+- IREN
+- Nebius
+- Coreweave
+- Astera Labs
+- Amazon
+- AWS
+- Oracle
+- Cipher
+- Wolf
+- Microsoft
+- Amcore
+- Vertiv
+- Intel
+- Shopify
+- Alibaba
+- ASML
+- UnitedHealth Group
+- Netflix
+- Warner Bros. Discovery
+- Paramount
+- Celestial AI
+- Macy's
+- Best Buy
+- Burlington
+- Abercrombie & Fitch
+- Urban Outfitters
+- SoFi
+- Rocket Lab
+- Satra Space
+- Rivian
+- Lyft
+- Uber
+- Weebull
+- Celsius
+- Salesforce
+- OpenDoor
+- ONDS
+- Dutch Bros
+- UBS
+- Broadcom
+- Pangia Technology
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Donald Trump
+- Kevin Hassid
+- Kevin Warsh
+- Michael Dell
+- Brad Gersonner
+- Eric Trump
+- Jensen Huang
+- Matt Murphy
+- George Kurtz
+- Larry Ellison
+- Sydney Sweeney
+- Lula da Silva
+- Jason
+products_models:
+- S&P 500
+- Invest America
+- Bitcoin
+- Trainium
+- HBO Max
+- Falcon Flex
+- QQQ
+- Ethereum
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=I6CJ8Ee1Fz8
 speaker: Amit Kukreja
-tags:
-  - earnings-season
-  - technical-analysis
-  - market-sentiment
-  - monetary-policy
-title: 市场收盘分析：财报季风云再起，特朗普暗示新任美联储主席人选
-summary: 本期市场收盘深入探讨了财报季的密集发布，覆盖了 CrowdStrike、Marvell、Okta 和 American Eagle 等多家公司的业绩表现。一个关键的市场动向是，特朗普暗示凯文·哈塞特（Kevin Hassett）可能成为下一任美联储主席，此举显著提升了市场对降息的预期。此外，节目还详细解读了特朗普与迈克尔·戴尔共同宣布的“投资美国”计划及其对 Robinhood 等券商的潜在影响。后半部分进入“技术分析星期二”环节，特邀嘉宾 Jason 对标普500指数、英伟达、Meta、特斯拉等关键股票以及加密货币市场进行了深入的技术图表解读。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Kevin Hassid
-  - Kevin Warsh
-  - Michael Dell
-  - Brad Gersonner
-  - Eric Trump
-  - Jensen Huang
-  - Matt Murphy
-  - George Kurtz
-  - Larry Ellison
-  - Sydney Sweeney
-  - Lula da Silva
-  - Jason
-companies_orgs:
-  - Pure Storage
-  - Marvell
-  - GitLab
-  - Asana
-  - CrowdStrike
-  - American Eagle
-  - Okta
-  - Federal Reserve
-  - Robinhood
-  - Schwab
-  - Meta
-  - MicroStrategy
-  - Apple
-  - Nvidia
-  - Snowflake
-  - Applovin
-  - Costco
-  - BMR
-  - Google
-  - Reddit
-  - Palantir
-  - IREN
-  - Nebius
-  - Coreweave
-  - Astera Labs
-  - Amazon
-  - AWS
-  - Oracle
-  - Cipher
-  - Wolf
-  - Microsoft
-  - Amcore
-  - Vertiv
-  - Intel
-  - Shopify
-  - Alibaba
-  - ASML
-  - UnitedHealth Group
-  - Netflix
-  - Warner Bros. Discovery
-  - Paramount
-  - Celestial AI
-  - Macy's
-  - Best Buy
-  - Burlington
-  - Abercrombie & Fitch
-  - Urban Outfitters
-  - SoFi
-  - Rocket Lab
-  - Satra Space
-  - Rivian
-  - Lyft
-  - Uber
-  - Weebull
-  - Celsius
-  - Salesforce
-  - OpenDoor
-  - ONDS
-  - Dutch Bros
-  - UBS
-  - Broadcom
-  - Pangia Technology
-products_models:
-  - S&P 500
-  - Invest America
-  - Bitcoin
-  - Trainium
-  - HBO Max
-  - Falcon Flex
-  - QQQ
-  - Ethereum
-media_books: []
 status: evergreen
+summary: 本期市场收盘深入探讨了财报季的密集发布，覆盖了 CrowdStrike、Marvell、Okta 和 American Eagle 等多家公司的业绩表现。一个关键的市场动向是，特朗普暗示凯文·哈塞特（Kevin
+  Hassett）可能成为下一任美联储主席，此举显著提升了市场对降息的预期。此外，节目还详细解读了特朗普与迈克尔·戴尔共同宣布的“投资美国”计划及其对 Robinhood
+  等券商的潜在影响。后半部分进入“技术分析星期二”环节，特邀嘉宾 Jason 对标普500指数、英伟达、Meta、特斯拉等关键股票以及加密货币市场进行了深入的技术图表解读。
+tags:
+- earnings-season
+- market-sentiment
+- technical-analysis
+title: 市场收盘分析：财报季风云再起，特朗普暗示新任美联储主席人选
 ---
+
 ### 市场概览与财报预告
 
 好的，大家好，欢迎回到新一期的《市场收盘》直播节目。我们有很多内容要讨论，此外，还有大量的财报需要解读。

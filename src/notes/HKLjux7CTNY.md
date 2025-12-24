@@ -1,50 +1,49 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: finance
+companies_orgs:
+- McKinsey
+- S&P Global
+- Meta
+- Microsoft
+- IBM
+- OpenAI
+- SoftBank
+- GitHub
+- McDonald's
 date: '2025-08-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- AI Hype vs Reality
+products_models:
+- GenAI
+- GPT
+- Claude
+- Llama
+- GitHub Copilot
+- IBM's LLM
+- Harvey
+- Nisphere
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=HKLjux7CTNY
 speaker: TechButMakeItReal
-tags:
-  - ai-roi
-  - productivity-metrics
-  - vc-investment
-  - ai-rappers
-  - profitability
-title: AI承诺巨额利润，它兑现了吗？——AI炒作与现实
-summary: 尽管企业在人工智能领域投入了数十亿美元，但麦肯锡和标普全球的最新调查显示，只有少数公司报告其生成式AI投资对公司盈利产生了显著影响，且大量AI项目被放弃。本文深入探讨了AI投资回报率（ROI）的衡量问题，区分了真正的财务指标与虚荣指标（如节省工时），并分析了企业从追求短期利润转向痴迷生产力指标的原因及其局限性。通过GitHub Copilot、Meta和麦当劳的案例，文章揭示了AI实现ROI的复杂性，并探讨了风险投资在AI领域的非显性趋势，特别是“AI包装器”经济的崛起，最终强调了AI投资需要与深度的流程变革相结合才能带来实际利润。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people: []
-companies_orgs:
-  - McKinsey
-  - S&P Global
-  - Meta
-  - Microsoft
-  - IBM
-  - OpenAI
-  - SoftBank
-  - GitHub
-  - McDonald's
-products_models:
-  - GenAI
-  - GPT
-  - Claude
-  - Llama
-  - GitHub Copilot
-  - IBM's LLM
-  - Harvey
-  - Nisphere
-media_books:
-  - AI Hype vs Reality
 status: evergreen
+summary: 尽管企业在人工智能领域投入了数十亿美元，但麦肯锡和标普全球的最新调查显示，只有少数公司报告其生成式AI投资对公司盈利产生了显著影响，且大量AI项目被放弃。本文深入探讨了AI投资回报率（ROI）的衡量问题，区分了真正的财务指标与虚荣指标（如节省工时），并分析了企业从追求短期利润转向痴迷生产力指标的原因及其局限性。通过GitHub
+  Copilot、Meta和麦当劳的案例，文章揭示了AI实现ROI的复杂性，并探讨了风险投资在AI领域的非显性趋势，特别是“AI包装器”经济的崛起，最终强调了AI投资需要与深度的流程变革相结合才能带来实际利润。
+tags:
+- financial
+- investment
+- llm
+- productivity
+title: AI承诺巨额利润，它兑现了吗？——AI炒作与现实
 ---
+
 ### AI投资回报的严峻现实
 
 公司向人工智能投入了数十亿美元，但钱到底去哪儿了？数字不会说谎。

@@ -1,50 +1,48 @@
 ---
-author: Veritasium
-date: '2023-08-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FkKPsLxgpuY
-speaker: Veritasium
-tags:
-  - veritasium
-  - iq-testing
-  - general-intelligence
-  - flynn-effect
-  - eugenics
-  - cognitive-ability
-title: 智商测试的问题：从历史争议到现代误解
-summary: 智商（IQ）测试在流行文化中无处不在，被视为衡量智力的客观标准。本文深入探讨了IQ测试的起源、其衡量内容、对生活预测能力以及其黑暗历史。从查尔斯·斯皮尔曼的“g因子”到阿尔弗雷德·比奈的首个智力测试，文章追溯了IQ测试的发展。同时，它揭示了IQ与脑容量、学业成就、职业成功、寿命甚至收入之间的关联。然而，文章也批判性地审视了IQ测试的局限性，包括其与优生学运动的联系、文化偏见、以及弗林效应等现象，强调智力并非完全固定或由基因决定，并指出智商测试不应被视为衡量个人价值的唯一标准。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Charles Spearman
-  - Alfred Binet
-  - Theodore Simon
-  - Henry Goddard
-  - Lewis Terman
-  - Ian Deary
-  - James Flynn
-  - Oliver Wendell Holmes
-  - Stephen Hawking
+category: psychology
 companies_orgs:
-  - U.S. military
-  - Stanford
+- U.S. military
+- Stanford
+date: '2023-08-03'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Charles Spearman
+- Alfred Binet
+- Theodore Simon
+- Henry Goddard
+- Lewis Terman
+- Ian Deary
+- James Flynn
+- Oliver Wendell Holmes
+- Stephen Hawking
 products_models:
-  - Binet-Simon test
-  - Stanford-Binet test
-  - Raven's progressive matrices
-  - SAT
-  - ACT
-  - GRE
-media_books: []
+- Binet-Simon test
+- Stanford-Binet test
+- Raven's progressive matrices
+- SAT
+- ACT
+- GRE
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=FkKPsLxgpuY
+speaker: veritasium
 status: evergreen
+summary: 智商（IQ）测试在流行文化中无处不在，被视为衡量智力的客观标准。本文深入探讨了IQ测试的起源、其衡量内容、对生活预测能力以及其黑暗历史。从查尔斯·斯皮尔曼的“g因子”到阿尔弗雷德·比奈的首个智力测试，文章追溯了IQ测试的发展。同时，它揭示了IQ与脑容量、学业成就、职业成功、寿命甚至收入之间的关联。然而，文章也批判性地审视了IQ测试的局限性，包括其与优生学运动的联系、文化偏见、以及弗林效应等现象，强调智力并非完全固定或由基因决定，并指出智商测试不应被视为衡量个人价值的唯一标准。
+tags:
+- cognitive
+- effect
+- geopolitical
+- intelligence
+- iq-testing
+title: 智商测试的问题：从历史争议到现代误解
 ---
+
 ### 智商测试的普及与核心问题
 
 在流行文化中，“智商（**IQ**：Intelligence Quotient，智力商数）”这个词无处不在。

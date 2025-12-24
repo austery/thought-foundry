@@ -1,84 +1,84 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 民众党
+- Giovanni Farolfi
+- 美第奇家族
+- 南海公司
+- 纽约证券交易所
+- 德勤
+- 普华永道
+- 安永
+- 毕马威
+- 安达信
+- 安然
+- FBI
+- 美国证券交易委员会
 date: '2024-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大查帐》
+- 《启示录》
+people:
+- 柯景
+- 柯文哲
+- 黄珊珊
+- 李文宗
+- Jacob Soll
+- Polybius
+- Cicero
+- Mark Antony
+- Julius Caesar
+- Augustus
+- Fibonacci
+- Giovanni Benci
+- Cosimo de' Medici
+- Lorenzo de' Medici
+- Walpole
+- Newton
+- John Toland
+- Robert Knight
+- John Trenchard
+- Vergennes
+- Louis XVI
+- Jacques Necker
+- Franklin
+- Jefferson
+- Washington
+- Weber
+- Daniel Drew
+- Mark Twain
+- William Ripley
+- Roosevelt
+- George W. Bush
+- Eric Holder
+- Rita Crunwell
+products_models:
+- 萨班斯-奥克斯利法案
+- 1933年证券法
+- 《致国王的财政报告》
+project:
+- historical-insights
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=rjBZfboECvI
 speaker: 超級歪 SuperY
-tags:
-  - accounting-fraud
-  - political-accountability
-  - capitalism-origins
-  - financial-crises
-  - historical-impact
-title: 会计千年史：从古希腊的奴隶账房到现代金融危机的幕后推手
-summary: 本文深入探讨了会计在西方历史中的核心作用，从古希腊的奴隶账房到中世纪的教会账目，再到文艺复兴时期美第奇家族的兴衰。文章揭示了会计如何影响重大历史事件，如南海泡沫事件和法国大革命，以及它如何塑造了资本主义的兴起和美国建国元勋的理念。同时，也剖析了现代社会中会计舞弊、金融丑闻（如安然事件和2008年金融危机）的深层原因，强调了会计透明度与国家兴衰、政治问责之间的紧密联系。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - 柯景
-  - 柯文哲
-  - 黄珊珊
-  - 李文宗
-  - Jacob Soll
-  - Polybius
-  - Cicero
-  - Mark Antony
-  - Julius Caesar
-  - Augustus
-  - Fibonacci
-  - Giovanni Benci
-  - Cosimo de' Medici
-  - Lorenzo de' Medici
-  - Walpole
-  - Newton
-  - John Toland
-  - Robert Knight
-  - John Trenchard
-  - Vergennes
-  - Louis XVI
-  - Jacques Necker
-  - Franklin
-  - Jefferson
-  - Washington
-  - Weber
-  - Daniel Drew
-  - Mark Twain
-  - William Ripley
-  - Roosevelt
-  - George W. Bush
-  - Eric Holder
-  - Rita Crunwell
-companies_orgs:
-  - 民众党
-  - Giovanni Farolfi
-  - 美第奇家族
-  - 南海公司
-  - 纽约证券交易所
-  - 德勤
-  - 普华永道
-  - 安永
-  - 毕马威
-  - 安达信
-  - 安然
-  - FBI
-  - 美国证券交易委员会
-products_models:
-  - 萨班斯-奥克斯利法案
-  - 1933年证券法
-  - 《致国王的财政报告》
-media_books:
-  - 《大查帐》
-  - 《启示录》
 status: evergreen
+summary: 本文深入探讨了会计在西方历史中的核心作用，从古希腊的奴隶账房到中世纪的教会账目，再到文艺复兴时期美第奇家族的兴衰。文章揭示了会计如何影响重大历史事件，如南海泡沫事件和法国大革命，以及它如何塑造了资本主义的兴起和美国建国元勋的理念。同时，也剖析了现代社会中会计舞弊、金融丑闻（如安然事件和2008年金融危机）的深层原因，强调了会计透明度与国家兴衰、政治问责之间的紧密联系。
+tags:
+- financial-crisis
+- fraud
+- impact
+- investment
+- political
+title: 会计千年史：从古希腊的奴隶账房到现代金融危机的幕后推手
 ---
+
 ### 会计与问责：从古希腊到罗马帝国
 
 近期，会计师再次成为热门话题，政客的腐败与会计舞弊问题再度引发关注。今年四月中旬，检察机关发现柯景的政治献金收支总额与约新台币两千万元不符，柯文哲、黄珊珊、李文宗等高层被怀疑早已知情，但民众党未能保持收支平衡，如今已演变为一宗假账案。

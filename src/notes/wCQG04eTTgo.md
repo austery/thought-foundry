@@ -1,32 +1,31 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-02-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Derek Parfit
+products_models: []
+project:
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=wCQG04eTTgo
 speaker: 大问题Dialectic
-tags:
-  - non-identity-problem
-  - intergenerational-ethics
-  - moral-responsibility
-  - future-generations
-title: 哲学暴论：我们有必要关心子孙后代吗？——非同一性论证的挑战
-summary: 本文深入探讨英国哲学家德里克·帕菲特提出的“非同一性论证”，通过未成年怀孕和环境资源消耗的案例，挑战了我们对后代责任的传统观念。该论证指出，若我们的行为改变了未来人口的构成，我们便无法伤害那些因我们选择而存在的人，因为若无此选择，他们根本不会存在。文章旨在引发对伦理学和跨代正义的深刻思考。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-people:
-  - Derek Parfit
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨英国哲学家德里克·帕菲特提出的“非同一性论证”，通过未成年怀孕和环境资源消耗的案例，挑战了我们对后代责任的传统观念。该论证指出，若我们的行为改变了未来人口的构成，我们便无法伤害那些因我们选择而存在的人，因为若无此选择，他们根本不会存在。文章旨在引发对伦理学和跨代正义的深刻思考。
+tags:
+- ethics
+- future
+- identity
+- moral-responsibility
+title: 哲学暴论：我们有必要关心子孙后代吗？——非同一性论证的挑战
 ---
+
 ### 16岁怀孕：一个伦理困境的开端
 
 假设小美是一位16岁的女孩，她早恋并意外怀孕。面对这样的情况，她是否应该生下这个孩子？

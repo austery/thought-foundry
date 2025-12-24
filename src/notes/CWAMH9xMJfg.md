@@ -1,30 +1,28 @@
 ---
-title: Ben Horowitz 和 Ali Ghodsi：如何运营一家千亿市值公司
-summary: Databricks 创始人 Ali Ghodsi 与 Ben Horowitz 深入探讨了公司从早期困境到千亿市值的成长之路，涵盖了领导力、人才管理、并购策略以及创业时机等关键议题。
 area: null
 category: null
-project: []
-tags:
-- acquisitions
-- company-building
-- leadership
-- open-source
-- startup-strategy
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-15'
-author: a16z
-speaker: a16z
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CWAMH9xMJfg
+speaker: a16z
 status: evergreen
+summary: Databricks 创始人 Ali Ghodsi 与 Ben Horowitz 深入探讨了公司从早期困境到千亿市值的成长之路，涵盖了领导力、人才管理、并购策略以及创业时机等关键议题。
+tags:
+- business
+- company-building
+- leadership
+- open-source
+- strategy
+title: Ben Horowitz 和 Ali Ghodsi：如何运营一家千亿市值公司
 ---
+
 ### 早期挑战与Ben的忠告
 
 Original English sentence(s) from the transcript.

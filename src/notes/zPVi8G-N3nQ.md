@@ -1,37 +1,36 @@
 ---
-author: 徒步的騎手
-date: 2025-07-10
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=zPVi8G-N3nQ'
-speaker: 徒步的騎手
-tags:
-  - chinese-debt-crisis
-  - land-finance
-  - wealth-redistribution
-  - real-estate-bubble
-  - political-economy
-title: 中国财富大转移：土地炼金术与三代人的债务困境
-summary: 本文深入探讨了中国家庭债务激增的深层原因，揭示了自1949年以来，中国政府如何通过土地改革、集体化、土地财政等一系列“土地炼金术”，实现了国家财富向政府和裙带利益集团的巨大转移。文章通过三代人的命运变迁，阐述了普通民众如何从土地的短暂拥有者沦为巨额房贷的最终买单者，并分析了这种“庄家通吃”的游戏规则对中国社会稳定和未来发展构成的严峻挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people: '[]'
+category: geopolitics
 companies_orgs:
-  - 世界贸易组织
-  - 国际货币基金组织
-  - 中国人民银行
-  - 中国财政部
-products_models: '[]'
+- 世界贸易组织
+- 国际货币基金组织
+- 中国人民银行
+- 中国财政部
+date: 2025-07-10
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《经济学人》
+- 《经济学人》
+people: '[]'
+products_models: '[]'
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=zPVi8G-N3nQ
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了中国家庭债务激增的深层原因，揭示了自1949年以来，中国政府如何通过土地改革、集体化、土地财政等一系列“土地炼金术”，实现了国家财富向政府和裙带利益集团的巨大转移。文章通过三代人的命运变迁，阐述了普通民众如何从土地的短暂拥有者沦为巨额房贷的最终买单者，并分析了这种“庄家通吃”的游戏规则对中国社会稳定和未来发展构成的严峻挑战。
+tags:
+- crisis
+- finance
+- political-economy
+- real
+- wealth
+title: 中国财富大转移：土地炼金术与三代人的债务困境
 ---
 
 ### 中国家庭债务危机：从勤俭到负债累累

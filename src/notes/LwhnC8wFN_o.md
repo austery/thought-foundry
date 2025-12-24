@@ -1,45 +1,45 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: productivity
+companies_orgs:
+- TSMC
+- 初日醫學
+- Cofit
 date: '2025-08-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 阅读前哨站
+- Atomic Habits
+- I May Be Wrong
+- Don't React to Everything
+people:
+- Waki
+- 宋晏仁医师
+- James Clear
+- Gandhi
+- 郝书理
+products_models: []
+project:
+- personal-growth-lab
+- knowledge-pipeline
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=LwhnC8wFN_o
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - career-transition
-  - habit-formation
-  - knowledge-management
-  - compounding-effect
-  - reading-habit
-title: 从台积电主管到全职自媒体：瓦基的阅读、习惯与复利人生
-summary: 前台积电主管瓦基分享了他放弃高薪职位，转变为全职阅读分享者的心路历程。一场意外让他重新审视人生目标，通过培养阅读、写作和高效习惯，他不仅实现了职业转型，还深刻理解了复利效应在财富、健康和知识积累中的巨大力量。文章探讨了如何构建灵活习惯、有效管理知识，以及在信息过载时代筛选有用信息的方法。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-  - knowledge-pipeline
-  - entrepreneurship
-people:
-  - Waki
-  - 宋晏仁医师
-  - James Clear
-  - Gandhi
-  - 郝书理
-companies_orgs:
-  - TSMC
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books:
-  - 阅读前哨站
-  - Atomic Habits
-  - I May Be Wrong
-  - Don't React to Everything
 status: evergreen
+summary: 前台积电主管瓦基分享了他放弃高薪职位，转变为全职阅读分享者的心路历程。一场意外让他重新审视人生目标，通过培养阅读、写作和高效习惯，他不仅实现了职业转型，还深刻理解了复利效应在财富、健康和知识积累中的巨大力量。文章探讨了如何构建灵活习惯、有效管理知识，以及在信息过载时代筛选有用信息的方法。
+tags:
+- career-transition
+- effect
+- habit-formation
+- knowledge-management
+- reading-habit
+title: 从台积电主管到全职自媒体：瓦基的阅读、习惯与复利人生
 ---
+
 ### 职业转折点：一场意外促成的深思
 
 放弃在**台积电**（TSMC: 全球领先的半导体制造公司）的经理职位，转而踏上这条新道路，这一定经历了一番巨大的内心挣扎，对吗？

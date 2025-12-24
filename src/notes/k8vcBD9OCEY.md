@@ -1,67 +1,67 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Netflix
+- Hotstar
+- Star India
+- 新闻集团
+- 长江和记集团
+- Amazon Prime
 date: '2025-05-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《印度民主的成功》
+- 《快把我哥带走》
+- 《棋魂》
+- 《想见你》
+- 《天桥上的魔术师》
+- 《八尺门的辩护人》
+- 《做工的人》
+- 《鱿鱼游戏》
+- 《Kingdom》
+- 《恐怖宠物店》
+- 《神雕侠侣》
+- 《Legal High》
+- 《我的野蛮女友》
+- 《海角七号》
+- 《古惑仔》
+- 《CSI犯罪现场调查》
+- 《鹿鼎记》
+- taiwanese-drama
+people:
+- 李嘉诚
+- Rupert Murdoch
+- 阿图尔·科利
+- 郑芬芬
+- 李铭顺
+- 堺雅人
+- 新垣结衣
+- 范逸臣
+- 许鞍华
+- 关锦鹏
+- 金庸
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=k8vcBD9OCEY
 speaker: 張内咸
-tags:
-  - netflix-asia-strategy
-  - taiwanese-drama
-  - social-realism
-  - multicultural-representation
-  - media-criticism
-title: 深度解析：三部台剧如何展现台湾社会面貌与影视新高度
-summary: 本期节目主持人张内咸从Netflix在亚洲的发行策略谈起，深入剖析了其在印度等市场的“水土不服”现象。随后，他重点介绍了三部由台湾观众推荐的优质台剧：《天桥上的魔术师》、《做工的人》和《八尺门的辩护人》。节目详细探讨了豆瓣评分机制的参考价值，并逐一分析了这三部剧的剧情、主题、社会意义及其在华语影视界的突破性。尤其对《八尺门的辩护人》所展现的多元文化视角和对司法、阶级、种族等敏感议题的深刻探讨给予了高度评价，认为其达到了媲美美剧的工业水准和思想深度，为华语影视创作提供了宝贵的经验。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - 李嘉诚
-  - Rupert Murdoch
-  - 阿图尔·科利
-  - 郑芬芬
-  - 李铭顺
-  - 堺雅人
-  - 新垣结衣
-  - 范逸臣
-  - 许鞍华
-  - 关锦鹏
-  - 金庸
-companies_orgs:
-  - Netflix
-  - Hotstar
-  - Star India
-  - 新闻集团
-  - 长江和记集团
-  - Amazon Prime
-products_models: []
-media_books:
-  - 《印度民主的成功》
-  - 《快把我哥带走》
-  - 《棋魂》
-  - 《想见你》
-  - 《天桥上的魔术师》
-  - 《八尺门的辩护人》
-  - 《做工的人》
-  - 《鱿鱼游戏》
-  - 《Kingdom》
-  - 《恐怖宠物店》
-  - 《神雕侠侣》
-  - 《Legal High》
-  - 《我的野蛮女友》
-  - 《海角七号》
-  - 《古惑仔》
-  - 《CSI犯罪现场调查》
-  - 《鹿鼎记》
 status: evergreen
+summary: 本期节目主持人张内咸从Netflix在亚洲的发行策略谈起，深入剖析了其在印度等市场的“水土不服”现象。随后，他重点介绍了三部由台湾观众推荐的优质台剧：《天桥上的魔术师》、《做工的人》和《八尺门的辩护人》。节目详细探讨了豆瓣评分机制的参考价值，并逐一分析了这三部剧的剧情、主题、社会意义及其在华语影视界的突破性。尤其对《八尺门的辩护人》所展现的多元文化视角和对司法、阶级、种族等敏感议题的深刻探讨给予了高度评价，认为其达到了媲美美剧的工业水准和思想深度，为华语影视创作提供了宝贵的经验。
+tags:
+- canada
+- media
+- social
+- strategy
+title: 深度解析：三部台剧如何展现台湾社会面貌与影视新高度
 ---
+
 大家好，我是张内咸，又见面了。前几个月我做过一期关于Netflix亚洲剧TOP10排名的节目，其实主要是为了讲述Netflix的全球发行策略。当然，这是一个很大的话题，一期节目讲不完，以后还可以再继续聊。在我排出的TOP10榜单里面，有两部台剧上榜。我是按照豆瓣和IMDb评分排名的，不是根据我自己的个人喜好。所以我简单点评了一下上榜的这两部台剧，我个人认为评分有点“水”，和其他国家的**Netflix Original Series**（Netflix原创剧集：由Netflix投资制作并在其平台独家发行的剧集）相比，感觉不在一个梯度里。
 
 ### Netflix亚洲策略的“水土不服”

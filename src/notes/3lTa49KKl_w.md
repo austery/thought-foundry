@@ -1,62 +1,62 @@
 ---
-author: 政經孫老師
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 拜占庭帝国
+- 罗马帝国
+- 金帐汗国
+- 莫斯科公国
+- 奥斯曼帝国
+- 北约
+- 苏俄政权
+- 俄罗斯东正教
 date: '2025-07-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《俄羅斯來信》
+- 《地緣政治的黃昏》
+- 《失落的王國：對帝國的追求和俄羅斯民族的形成》
+- 《展望》雜誌
+- 《外交事務》雜誌
+- 《劍橋俄羅斯史第二卷》
+- 《歷史的地理樞紐》
+people:
+- 弗拉基米尔
+- 拔都
+- 伊凡三世
+- 伊凡四世
+- 彼得大帝
+- 库斯蒂纳侯爵
+- 伏尔泰
+- 狄狄德罗
+- 耶林
+- Vladimir Putin
+- 哈尔福德·麦金德爵士
+- 汉斯·魏格特
+- 谢尔盖·普洛西
+- 阿纳托利·丘拜斯
+- 梁启超
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3lTa49KKl_w
 speaker: 政經孫老師
-tags:
-  - russia-western-relations
-  - geopolitical-theory
-  - imperial-identity
-  - power-imbalance
-  - world-island-concept
-title: 俄罗斯的底层逻辑：从边缘帝国到世界岛中心的扩张与挑战
-summary: 本文深入探讨了俄罗斯的底层逻辑，解析其与西方世界长期对抗的深层原因。文章追溯了俄罗斯从边缘地带的东斯拉夫国家，如何受拜占庭基督教和蒙古征服影响，逐步形成“第三罗马”的自我认知并持续对外扩张。通过分析其作为“世界岛”中心的地缘政治优势，并将其野心与实际国力、以及美国在全球地缘政治中的主导地位进行对比，文章预测了俄罗斯扩张计划的失败，并展望了由此可能引发的亚洲格局巨变。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 弗拉基米尔
-  - 拔都
-  - 伊凡三世
-  - 伊凡四世
-  - 彼得大帝
-  - 库斯蒂纳侯爵
-  - 伏尔泰
-  - 狄狄德罗
-  - 耶林
-  - 普京
-  - 哈尔福德·麦金德爵士
-  - 汉斯·魏格特
-  - 谢尔盖·普洛西
-  - 阿纳托利·丘拜斯
-  - 梁启超
-companies_orgs:
-  - 拜占庭帝国
-  - 罗马帝国
-  - 金帐汗国
-  - 莫斯科公国
-  - 奥斯曼帝国
-  - 北约
-  - 苏俄政权
-  - 俄罗斯东正教
-products_models: []
-media_books:
-  - 《俄羅斯來信》
-  - 《地緣政治的黃昏》
-  - 《失落的王國：對帝國的追求和俄羅斯民族的形成》
-  - 《展望》雜誌
-  - 《外交事務》雜誌
-  - 《劍橋俄羅斯史第二卷》
-  - 《歷史的地理樞紐》
 status: evergreen
+summary: 本文深入探讨了俄罗斯的底层逻辑，解析其与西方世界长期对抗的深层原因。文章追溯了俄罗斯从边缘地带的东斯拉夫国家，如何受拜占庭基督教和蒙古征服影响，逐步形成“第三罗马”的自我认知并持续对外扩张。通过分析其作为“世界岛”中心的地缘政治优势，并将其野心与实际国力、以及美国在全球地缘政治中的主导地位进行对比，文章预测了俄罗斯扩张计划的失败，并展望了由此可能引发的亚洲格局巨变。
+tags:
+- identity
+- philosophy
+- power
+- relations
+- theory
+title: 俄罗斯的底层逻辑：从边缘帝国到世界岛中心的扩张与挑战
 ---
+
 ### 俄罗斯的深层逻辑：对抗西方的历史根源
 
 今天，我们将深入探讨俄罗斯的底层逻辑。俄罗斯这个国家，我想大家都非常熟悉，它经常出现在新闻、影视作品甚至是游戏当中，因此大家对俄罗斯并不陌生。而且，无论俄罗斯出现在何处，它通常都给人留下一个反面、负面的形象，通常都在挑战西方、挑战美国、挑战欧洲。这便是俄罗斯给人的刻板印象，但在现实中，俄罗斯确实也一直在做类似的事情。

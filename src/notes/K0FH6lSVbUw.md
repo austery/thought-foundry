@@ -1,58 +1,58 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国民党
+- 德国之声
+- 北约
+- 中共
+- 人民解放军
+- 联合国
+- Fox
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《告臺灣同胞書》
+people:
+- 郑丽文
+- 普丁
+- Zelensky
+- 高市早苗
+- 岸田文雄
+- 薛剑
+- Xi Jinping
+- 邓小平
+- 毛泽东
+- 希特勒
+- Joe Biden
+- Donald Trump
+- 奥巴马
+- 小布什
+- 克林顿
+- 老布什
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=K0FH6lSVbUw
 speaker: 老周横眉
-tags:
-  - taiwan-unification
-  - cross-strait-relations
-  - geopolitical-strategy
-  - us-china-rivalry
-  - political-leadership
-  - strategic-window
-title: 箭在弦上：台海战争是否无可避免？习近平何时会动手？
-summary: 近期，台湾国民党新任主席郑丽文、日本首相岸田文雄及中国官方言论，共同推高了台海局势的紧张。本文深入探讨两岸关系，批判性审视以“自古以来”为基础的领土争议，并提出尊重民意是解决争端的唯一途径。作者分析了习近平武统台湾的决心及其背后的历史使命感，以及中国面临的人口与经济挑战。文章指出，美国前总统特朗普的“美国优先”政策可能为习近平提供一个独特的“战略窗口”，预示其可能在未来三年内采取行动。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 郑丽文
-  - 普丁
-  - Zelensky
-  - 高市早苗
-  - 岸田文雄
-  - 薛剑
-  - 习近平
-  - 邓小平
-  - 毛泽东
-  - 希特勒
-  - Joe Biden
-  - Donald Trump
-  - 奥巴马
-  - 小布什
-  - 克林顿
-  - 老布什
-companies_orgs:
-  - 国民党
-  - 德国之声
-  - 北约
-  - 中共
-  - 人民解放军
-  - 联合国
-  - Fox
-products_models: []
-media_books:
-  - 《告臺灣同胞書》
 status: evergreen
+summary: 近期，台湾国民党新任主席郑丽文、日本首相岸田文雄及中国官方言论，共同推高了台海局势的紧张。本文深入探讨两岸关系，批判性审视以“自古以来”为基础的领土争议，并提出尊重民意是解决争端的唯一途径。作者分析了习近平武统台湾的决心及其背后的历史使命感，以及中国面临的人口与经济挑战。文章指出，美国前总统特朗普的“美国优先”政策可能为习近平提供一个独特的“战略窗口”，预示其可能在未来三年内采取行动。
+tags:
+- cross-strait-relations
+- financial
+- geopolitical-strategy
+- political-leadership
+- taiwan
+- us-china-relations
+title: 箭在弦上：台海战争是否无可避免？习近平何时会动手？
 ---
+
 ### 台海局势再升温：近期事件与两岸议题
 
 最近，台湾**国民党**新任主席郑丽文在接受**德国之声**记者采访时，发表了一些引发激烈争论的言论。她表示，**普丁**（Vladimir Putin: 俄罗斯总统）并非独裁者，俄罗斯已经民主化多年，且世界上没有一个完美的民主社会。她进一步指出，**俄乌战争**的核心原因在于**北约**（NATO: 北大西洋公约组织）一再东扩至俄罗斯边境，若**Zelensky**（Volodymyr Zelenskyy: 乌克兰总统）放弃加入北约，这场冲突本可避免。郑丽文的言论不仅引起欧洲各国政府的不满，也被许多人解读为讨好**中共**（中国共产党），这进一步加剧了台湾蓝绿阵营支持者的分裂。

@@ -1,47 +1,47 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- CRA
+- YouTube
+- Google
+- 维基百科
 date: '2024-02-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 致爱丽丝
+people:
+- 贝多芬
+- 李佳琦
+products_models:
+- TFSA
+- RRSP
+- RRIF
+- OAS
+- GIS
+- CPP
+- QPP
+- PSW Program
+project:
+- personal-growth-lab
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=w-e3L6GtOnk
 speaker: 莊也雜談
-tags:
-  - elder-care
-  - retirement-planning
-  - medical-assistance-in-dying
-  - cross-border-retirement
-  - canadian-social-policy
-title: 加拿大养老深度解析：回国养老、安乐死与财务规划
-summary: 本期节目深入探讨加拿大养老的多个核心议题，包括公立和私立养老院的费用差异及收费模式，华人回国养老面临的身份、税务和医疗挑战，以及加拿大安乐死（MAID）的严格条件和伦理争议。同时，节目也提供了退休后如何通过“开源节流”实现财务自由的实用建议，如延迟退休、多元化收入来源和优化资产配置，旨在帮助听众优雅老去，避免养老焦虑。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - geopolitics-watch
-people:
-  - 贝多芬
-  - 李佳琦
-companies_orgs:
-  - CRA
-  - YouTube
-  - Google
-  - 维基百科
-products_models:
-  - TFSA
-  - RRSP
-  - RRIF
-  - OAS
-  - GIS
-  - CPP
-  - QPP
-  - PSW Program
-media_books:
-  - 致爱丽丝
 status: evergreen
+summary: 本期节目深入探讨加拿大养老的多个核心议题，包括公立和私立养老院的费用差异及收费模式，华人回国养老面临的身份、税务和医疗挑战，以及加拿大安乐死（MAID）的严格条件和伦理争议。同时，节目也提供了退休后如何通过“开源节流”实现财务自由的实用建议，如延迟退休、多元化收入来源和优化资产配置，旨在帮助听众优雅老去，避免养老焦虑。
+tags:
+- care
+- geopolitical
+- medical
+- retirement-planning
+- social
+title: 加拿大养老深度解析：回国养老、安乐死与财务规划
 ---
+
 ### 加拿大养老话题引关注：深度解析华人关心的几大问题
 
 大家好，我是庄也。欢迎您收看庄也杂谈加拿大系列节目。上集我们聊了加拿大的养老话题，收获了非常高的收视率，这说明大家对这个话题非常感兴趣。我也收到了不少观众朋友的留言反馈，说没有听够，建议我再聊一期。因此，今天我们就听观众的，再深挖一下关于加拿大养老的一些华人最最关心的几个问题，保证全是干货。

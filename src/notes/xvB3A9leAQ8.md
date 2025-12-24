@@ -1,41 +1,41 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Kansas City Fed
+- Bloomberg Podcasts
 date: '2025-08-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+- Beyond the Taylor Rule
+people:
+- John Taylor
+- Emmy Nakamura
+- Paul Volcker
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=xvB3A9leAQ8
 speaker: Bloomberg Podcasts
-tags:
-  - taylor-rule
-  - central-bank-credibility
-  - monetary-policy-effectiveness
-  - inflation-dynamics
-  - output-gap
-title: 超越泰勒规则：央行信誉、通胀与货币政策的演变
-summary: 本期播客深入探讨了泰勒规则，一个描述央行行为的简单模型，及其在过去二十年中的局限性。经济学家中村惠美（Emmy Nakamura）解释了该规则如何从最初的描述性工具演变为规范性指南，以及在通胀由供给冲击而非需求驱动时，央行为何需要偏离此规则。对话强调了央行信誉和前瞻性指引在管理通胀预期和实现经济“软着陆”中的关键作用，并从20世纪70年代和近期后疫情时代的通胀中汲取了教训。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - John Taylor
-  - Emmy Nakamura
-  - Paul Volcker
-companies_orgs:
-  - Federal Reserve
-  - Kansas City Fed
-  - Bloomberg Podcasts
-products_models: []
-media_books:
-  - Odd Lots Podcast
-  - Beyond the Taylor Rule
 status: evergreen
+summary: 本期播客深入探讨了泰勒规则，一个描述央行行为的简单模型，及其在过去二十年中的局限性。经济学家中村惠美（Emmy Nakamura）解释了该规则如何从最初的描述性工具演变为规范性指南，以及在通胀由供给冲击而非需求驱动时，央行为何需要偏离此规则。对话强调了央行信誉和前瞻性指引在管理通胀预期和实现经济“软着陆”中的关键作用，并从20世纪70年代和近期后疫情时代的通胀中汲取了教训。
+tags:
+- financial
+- gap
+- inflation-dynamic
+- policy
+- taylor-rule
+title: 超越泰勒规则：央行信誉、通胀与货币政策的演变
 ---
+
 ### 杰克逊霍尔会议与经济政策讨论
 
 Tracy Aloway: 大家好，欢迎收听新一期的《Odd Lots》播客。我是特蕾西·阿洛韦。

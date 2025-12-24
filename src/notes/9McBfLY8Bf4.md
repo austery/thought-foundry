@@ -1,40 +1,39 @@
 ---
-author: 徒步的騎手
-date: 2025-01-28
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=9McBfLY8Bf4'
-speaker: 徒步的騎手
-tags:
-  - wage-arrears
-  - labor-rights
-  - governance-capacity
-  - political-systems-comparison
-  - social-justice
-title: 欠薪国度：中美台劳工权益保障与治理能力的反思
-summary: 本文深入剖析中国普遍存在的欠薪现象，并将其与美国德克萨斯州及台湾地区在劳工权益保护方面的立法、执法和司法实践进行对比。文章指出，中国政府在劳工保护上的失职源于其治理能力而非控制能力，而美台则通过健全的法律体系和民主选举机制有效保障工人权益。同时，文章揭示了中国农民工的悲惨境遇，并对中国在可预见的未来仍将面临的社会问题表达了深刻担忧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 赵小兰
-  - 哈金
+category: geopolitics
 companies_orgs:
-  - 美国劳工部
-  - 德克萨斯州劳工委员会
-  - 台湾劳工局
-  - 法律辅助基金会
-products_models: '[]'
+- 美国劳工部
+- 德克萨斯州劳工委员会
+- 台湾劳工局
+- 法律辅助基金会
+date: 2025-01-28
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《华盛顿邮报》
-  - 《Wall Trash》
+- 《华盛顿邮报》
+- 《Wall Trash》
+people:
+- 赵小兰
+- 哈金
+products_models: '[]'
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=9McBfLY8Bf4
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入剖析中国普遍存在的欠薪现象，并将其与美国德克萨斯州及台湾地区在劳工权益保护方面的立法、执法和司法实践进行对比。文章指出，中国政府在劳工保护上的失职源于其治理能力而非控制能力，而美台则通过健全的法律体系和民主选举机制有效保障工人权益。同时，文章揭示了中国农民工的悲惨境遇，并对中国在可预见的未来仍将面临的社会问题表达了深刻担忧。
+tags:
+- governance
+- history
+- political
+- right
+- social-justice
+title: 欠薪国度：中美台劳工权益保障与治理能力的反思
 ---
 
 ### 中国欠薪现象的蔓延与深层原因

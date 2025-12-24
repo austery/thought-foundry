@@ -1,48 +1,46 @@
 ---
-author: Veritasium
-date: '2023-08-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ZjBgEkbnX2I
-speaker: Veritasium
-tags:
-  - veritasium
-  - airship-revival
-  - cargo-transport
-  - sustainable-logistics
-  - aerodynamic-efficiency
-  - infrastructure-independence
-title: 飞艇：重返天空的潜在巨头？
-summary: 本文探讨了飞艇作为未来货运和特殊用途运输工具的潜力。尽管历史上有安全疑虑，但现代飞艇在效率、环保和独特运输能力方面展现出巨大优势。文章深入分析了飞艇的经济模型、物理原理、技术挑战（如载荷交换、建造规模和气体选择）以及目前正在探索的利基市场，如豪华旅行和灾害救援。最终，飞艇能否成为“空中卡车”仍面临诸多挑战，但其潜在回报巨大。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-  - historical-insights
-people:
-  - Eli Dourado
-  - Sergey Brin
+category: technology
 companies_orgs:
-  - Hybrid Air Vehicles
-  - LTA Research
-  - Google
-  - Flying Whales
-  - Apple
-  - Amazon
-  - Walmart
-  - Federal Aviation Administration
+- Hybrid Air Vehicles
+- LTA Research
+- Google
+- Flying Whales
+- Apple
+- Amazon
+- Walmart
+- Federal Aviation Administration
+date: '2023-08-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Eli Dourado
+- Sergey Brin
 products_models:
-  - Hindenberg
-  - Airlander 10
-  - Pathfinder 1
-  - USS Akron
-media_books: []
+- Hindenberg
+- Airlander 10
+- Pathfinder 1
+- USS Akron
+project:
+- systems-thinking
+- entrepreneurship
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ZjBgEkbnX2I
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了飞艇作为未来货运和特殊用途运输工具的潜力。尽管历史上有安全疑虑，但现代飞艇在效率、环保和独特运输能力方面展现出巨大优势。文章深入分析了飞艇的经济模型、物理原理、技术挑战（如载荷交换、建造规模和气体选择）以及目前正在探索的利基市场，如豪华旅行和灾害救援。最终，飞艇能否成为“空中卡车”仍面临诸多挑战，但其潜在回报巨大。
+tags:
+- efficiency
+- infrastructure
+- life
+- llm
+- technology
+title: 飞艇：重返天空的潜在巨头？
 ---
+
 ### 飞艇的“糟糕”历史与复兴之问
 
 飞艇似乎是个糟糕的主意。证据A就是（欢快的音乐声）在那场灾难中，竟然有人能幸存下来，这简直是最大的奇迹。

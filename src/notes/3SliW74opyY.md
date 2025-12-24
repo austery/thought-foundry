@@ -1,41 +1,40 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: society-systems
+category: psychology
+companies_orgs:
+- Slingshot AI
+- NYU
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Daniel
+products_models:
+- Ash
+- ChatGPT
+- Llama
+- SLG
+- Quen
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=3SliW74opyY
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - mental-health-crisis
-  - ai-therapy
-  - foundation-models
-  - reinforcement-learning
-  - behavioral-change
-title: AI赋能心理健康：预训练、对齐与强化学习（Slingshot AI CEO分享）
-summary: Slingshot AI的首席执行官Daniel探讨了如何构建心理学基础模型，以应对日益严重的心理健康危机和专业治疗师短缺。他详细介绍了其产品Ash的三阶段训练方法：预训练、对齐和强化学习，强调了高质量专业数据、行为校准以及通过用户反馈持续优化的重要性。Daniel还分享了与纽约大学合作的研究成果，表明Ash能有效促进用户建立社交连接，实现积极的行为改变，这与通用AI可能导致孤独感加剧的趋势形成鲜明对比。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Daniel
-companies_orgs:
-  - Slingshot AI
-  - NYU
-products_models:
-  - Ash
-  - ChatGPT
-  - Llama
-  - SLG
-  - Quen
-media_books: []
 status: evergreen
+summary: Slingshot AI的首席执行官Daniel探讨了如何构建心理学基础模型，以应对日益严重的心理健康危机和专业治疗师短缺。他详细介绍了其产品Ash的三阶段训练方法：预训练、对齐和强化学习，强调了高质量专业数据、行为校准以及通过用户反馈持续优化的重要性。Daniel还分享了与纽约大学合作的研究成果，表明Ash能有效促进用户建立社交连接，实现积极的行为改变，这与通用AI可能导致孤独感加剧的趋势形成鲜明对比。
+tags:
+- change
+- llm
+- mental-health-crisis
+- model
+- reinforcement-learning
+title: AI赋能心理健康：预训练、对齐与强化学习（Slingshot AI CEO分享）
 ---
+
 ### 心理健康危机与AI的应对
 
 很高兴来到这里。今天，我将谈谈如何为心理学构建一个**基础模型**（Foundation Model: 指在大量数据上预训练，可适应多种下游任务的AI模型）。

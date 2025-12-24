@@ -6,10 +6,9 @@ category: psychology
 project:
 - systems-thinking
 tags:
-  - systems-thinking
-  - 复盘
-  - 目标设定
-people: []
+- investment
+- thinking
+- 目标设定
 companies_orgs: []
 products_models: []
 media_books:
@@ -25,6 +24,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=YL87p4zUkZo
 ---
+
 ## 《原子习惯》的陷阱：不要轻易培养“好习惯”
 
 你读了《Atomic Habits》，可以分享一下吗？但我今天不是要跟大家分享这本书，我是想跟大家分享我读这本书、实践这本書里面讲的习惯培养，踩过的一些坑，获得了一些经验教训。而且这些坑是你一旦掉进去，你想要培养的所有好习惯，减肥啊、学英文啊、读书啊，都会失败。

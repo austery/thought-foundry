@@ -1,37 +1,35 @@
 ---
-author: 政經孫老師
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国工商银行
+- 恒大
+- Wind
 date: '2025-08-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Xi Jinping
+products_models:
+- 万德权威指数
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=xjrIxHlWAU0
 speaker: 政經孫老師
-tags:
-  - china-stock-market
-  - policy-market
-  - economic-deflation
-  - consumption-decline
-  - unified-market
-title: 中国股市的政治经济学解读：一场盛大的烟火晚会
-summary: 本文深入分析了近期中国股市上涨的深层原因，指出其并非由经济基本面驱动，而是政府为配合“反内卷”与“产业升级”政策而进行的政治操作。通过剖析低迷的物价指数、超低的存款利率以及民间资金的流向，揭示了股市上涨的燃料来自别无选择的居民储蓄和企业资金。文章强调，中国股市是一个“政策市”和“资金市”，旨在“藏富于国”而非“藏富于民”，其上涨趋势难以持久，下方是深不见底的经济黑洞。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-companies_orgs:
-  - 中国工商银行
-  - 恒大
-  - Wind
-products_models:
-  - 万德权威指数
-media_books: []
 status: evergreen
+summary: 本文深入分析了近期中国股市上涨的深层原因，指出其并非由经济基本面驱动，而是政府为配合“反内卷”与“产业升级”政策而进行的政治操作。通过剖析低迷的物价指数、超低的存款利率以及民间资金的流向，揭示了股市上涨的燃料来自别无选择的居民储蓄和企业资金。文章强调，中国股市是一个“政策市”和“资金市”，旨在“藏富于国”而非“藏富于民”，其上涨趋势难以持久，下方是深不见底的经济黑洞。
+tags:
+- china-stock-market
+- decline
+- economic
+- market
+title: 中国股市的政治经济学解读：一场盛大的烟火晚会
 ---
+
 ### 中国股市的政治经济学解读
 
 今天我们来聊一聊中国的股市。近期，中国股市一直在上升，这让许多中国内地的民众感到自豪，认为中国经济正在好转，股市表现优异。然而，事实真的如此吗？我们应该如何理解中国股市的这波上涨？我认为，理解中国的许多事情不能仅仅从经济角度出发，更要从政治角度去衡量。最近这波中国股市的上升，就必须与此前**习近平**（梁家河同志：中国最高领导人）提出的“反内卷”口号结合起来看。

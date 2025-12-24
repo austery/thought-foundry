@@ -1,51 +1,51 @@
 ---
-author: New York Times Podcasts
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=SXOmqlc-QfE'
-speaker: New York Times Podcasts
-tags:
-  - government-shutdown
-  - food-security
-  - election-redistricting
-  - civil-war
-  - royal-scandal
-title: 美国政府停摆引多重危机，苏丹内战升级，安德鲁王子失王室头衔
-summary: 本期新闻聚焦美国政府停摆带来的多重影响，包括联邦食品券计划SNAP资金耗尽、航空系统面临压力以及特朗普总统呼吁废除“冗长议事”规则。同时，报道了美国各州围绕选举地图重划的激烈政治斗争，苏丹内战中人道危机的加剧及外部势力干预，以及英国安德鲁王子因爱泼斯坦丑闻被剥夺王室头衔的事件。此外，还探讨了短信疗法在治疗抑郁症方面的初步成效。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Shawn Duffy
-  - Virginia Jeffrey
-  - Prince Andrew
-  - King Charles
-  - Jeffrey Epstein
-  - Kim Jong-un
+category: general
 companies_orgs:
-  - New York Times
-  - GOP
-  - United Nations
-  - RSF
-  - United Arab Emirates
-  - Buckingham Palace
-products_models: '[]'
+- New York Times
+- GOP
+- United Nations
+- RSF
+- United Arab Emirates
+- Buckingham Palace
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Jeffrey's Memoir
-  - JAMA Network Open
-  - Psycho
-  - Beetlejuice
-  - The Simpsons
-  - The Shining
+- Jeffrey's Memoir
+- JAMA Network Open
+- Psycho
+- Beetlejuice
+- The Simpsons
+- The Shining
+people:
+- Donald Trump
+- Shawn Duffy
+- Virginia Jeffrey
+- Prince Andrew
+- King Charles
+- Jeffrey Epstein
+- Kim Jong-un
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=SXOmqlc-QfE
+speaker: New York Times Podcasts
 status: evergreen
+summary: 本期新闻聚焦美国政府停摆带来的多重影响，包括联邦食品券计划SNAP资金耗尽、航空系统面临压力以及特朗普总统呼吁废除“冗长议事”规则。同时，报道了美国各州围绕选举地图重划的激烈政治斗争，苏丹内战中人道危机的加剧及外部势力干预，以及英国安德鲁王子因爱泼斯坦丑闻被剥夺王室头衔的事件。此外，还探讨了短信疗法在治疗抑郁症方面的初步成效。
+tags:
+- geopolitical
+- government-shutdown
+- royal-scandal
+- security
+- war
+title: 美国政府停摆引多重危机，苏丹内战升级，安德鲁王子失王室头衔
 ---
+
 ### 本周头条：政府停摆、国际冲突与王室丑闻
 
 本期《纽约时报》头条新闻，为您播报今日（10月31日，星期五）的重要内容。

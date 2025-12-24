@@ -1,45 +1,45 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 柳叶刀倒计时亚洲中心
+- IPCC
+- 世界卫生组织
+- 中国人民大学
+- 武汉大学
+- 中南人民医院
+- 复旦大学
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《柳叶刀倒计时》
+- 《Nature》
+- 《关于气候变化的101个问题》
+- 《南风窗》
+people:
+- 张诗卉
+- Donald Trump
+products_models: []
+project:
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=JUkPNj1E8wk
 speaker: 一席YiXi
-tags:
-  - climate-change-impacts
-  - extreme-weather
-  - public-health-risks
-  - social-inequality
-  - climate-action
-title: 气候变化：一个正在发生的真实挑战——从极端天气到社会不公
-summary: 青年学者张诗卉深入探讨气候变化对地球和人类生活的深远影响。她从极端天气事件的加剧、人体舒适度的下降、高温带来的健康风险及社会不公的放大效应等多个维度，揭示气候变化已非遥远议题。文章还展望了不同减排情景下的未来，并呼吁个体通过知识、行动和发声共同应对这一全球性挑战。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - 张诗卉
-  - Donald Trump
-companies_orgs:
-  - 柳叶刀倒计时亚洲中心
-  - IPCC
-  - 世界卫生组织
-  - 中国人民大学
-  - 武汉大学
-  - 中南人民医院
-  - 复旦大学
-products_models: []
-media_books:
-  - 《柳叶刀倒计时》
-  - 《Nature》
-  - 《关于气候变化的101个问题》
-  - 《南风窗》
 status: evergreen
+summary: 青年学者张诗卉深入探讨气候变化对地球和人类生活的深远影响。她从极端天气事件的加剧、人体舒适度的下降、高温带来的健康风险及社会不公的放大效应等多个维度，揭示气候变化已非遥远议题。文章还展望了不同减排情景下的未来，并呼吁个体通过知识、行动和发声共同应对这一全球性挑战。
+tags:
+- climate
+- climate-change-impact
+- extreme-weather
+- public-health-risk
+- social-inequality
+title: 气候变化：一个正在发生的真实挑战——从极端天气到社会不公
 ---
+
 ### 引言：气候变化的切身感受
 
 大家好，我叫张诗卉，是一名研究气候变化和人群健康的青年学者。我现在在中国人民大学任教，同时也在**柳叶刀倒计时亚洲中心**（Lancet Countdown Asia Centre: 一个全球性的气候变化与健康研究组织）担任科研主管。每年秋天，我和我的同事们都会发布一份特殊的体检报告，这份报告的对象不是某个特定的人，而是我们共同生活的这个蓝色星球。我们这份报告会评估气候变化对我们每一个人的生活与健康产生了哪些新的风险。经过日复一年、年复一年的数据追踪，我和我的同事们都发现了许多令人忧心的数据。但今天，我想先不谈数据，而是从几个在座的各位都有可能感同身受的故事讲起。

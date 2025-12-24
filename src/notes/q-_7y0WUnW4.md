@@ -1,38 +1,36 @@
 ---
-author: Veritasium
-date: '2021-10-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=q-_7y0WUnW4
-speaker: Veritasium
-tags:
-  - veritasium
-  - physics-experiment
-  - air-resistance
-  - cable-dynamics
-  - force-balance
-  - aerodynamics
-title: 直升机悬挂缆绳的物理之谜：实验验证与深度解析
-summary: 本视频探讨了美国物理队资格考试中的一道难题：直升机水平匀速飞行时，下方悬挂的缆绳会呈现何种形状？通过真实的直升机实验，视频验证了在不同条件下（无负载缆绳、末端加重物、末端加伞）缆绳所呈现的各种形态，并深入解析了空气阻力、重力与张力如何共同决定缆绳的最终形状，最终解决了物理学界的一个长期争议。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Derek Muller
-  - Craig
-  - Paul Stanley
-  - Andrew Linn
+category: science
 companies_orgs:
-  - SimpliSafe
-  - US Physics Team
+- SimpliSafe
+- US Physics Team
+date: '2021-10-27'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Craig
+- Paul Stanley
+- Andrew Linn
 products_models: []
-media_books: []
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=q-_7y0WUnW4
+speaker: veritasium
 status: evergreen
+summary: 本视频探讨了美国物理队资格考试中的一道难题：直升机水平匀速飞行时，下方悬挂的缆绳会呈现何种形状？通过真实的直升机实验，视频验证了在不同条件下（无负载缆绳、末端加重物、末端加伞）缆绳所呈现的各种形态，并深入解析了空气阻力、重力与张力如何共同决定缆绳的最终形状，最终解决了物理学界的一个长期争议。
+tags:
+- dynamic
+- force-balance
+- llm
+- science
+- technology
+title: 直升机悬挂缆绳的物理之谜：实验验证与深度解析
 ---
+
 ### 直升机缆绳之谜：一道物理考题引发的争议
 
 2014年，**美国物理队**（US Physics Team: 旨在选拔和培训代表美国参加国际物理奥林匹克竞赛的学生队伍）的资格考试中，第19题提出了这样一个问题：一架直升机正以恒定速度水平飞行，其下方悬挂着一根完全柔韧、均匀的缆绳。缆绳上的空气摩擦不可忽略。那么，当直升机向右飞行时，以下哪个图表最能显示缆绳的形状？选项包括：A. 垂直向下；B. 向左对角线倾斜；C. 钩状；D. 倒钩状；E. S形弯曲。

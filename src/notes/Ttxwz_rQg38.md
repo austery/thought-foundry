@@ -1,57 +1,57 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CIA
+- NYPD
+- MTA
+- ICE
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Saturday Night Live
+- Rolling Stone
+people:
+- Donald Trump
+- Zorah Mamdani
+- Bernie Sanders
+- Kamala Harris
+- Hillary Clinton
+- Mike Sherry
+- Spanberger
+- Elva Sears
+- Elon Musk
+- 刘宗坤
+- 卢秀燕
+- 小池百合子
+- Chomsky
+- Roger Waters
+- Hasan Piker
+- Berry Goldwater
+products_models:
+- Obamacare
+- Proposition 50
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Ttxwz_rQg38
 speaker: FearNation 世界苦茶
-tags:
-  - us-elections
-  - democratic-party-strategy
-  - republican-party-challenges
-  - affordability-crisis
-  - left-wing-politics
-  - redistricting
-title: 美国中期选举前哨战：民主党“浪潮式”大胜与川普的困境
-summary: 近期美国选举夜，民主党在多个关键州取得“浪潮式”胜利，弗吉尼亚州州长职位翻红为蓝，新泽西州巩固优势，纽约市市长由极左翼Zorah Mamdani当选，加州50号法案通过平衡选区划分。本次选举聚焦“可负担性”议题，揭示了川普政策的挑战，并预示了未来中期选举的走向。文章深入分析了Mamdani的政策及其在美国政治光谱中的位置，以及华人对左翼的复杂看法。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Zorah Mamdani
-  - Bernie Sanders
-  - Kamala Harris
-  - Hillary Clinton
-  - Mike Sherry
-  - Spanberger
-  - Elva Sears
-  - Elon Musk
-  - 刘宗坤
-  - 卢秀燕
-  - 小池百合子
-  - Chomsky
-  - Roger Waters
-  - Hasan Piker
-  - Berry Goldwater
-companies_orgs:
-  - CIA
-  - NYPD
-  - MTA
-  - ICE
-products_models:
-  - Obamacare
-  - Proposition 50
-media_books:
-  - Saturday Night Live
-  - Rolling Stone
 status: evergreen
+summary: 近期美国选举夜，民主党在多个关键州取得“浪潮式”胜利，弗吉尼亚州州长职位翻红为蓝，新泽西州巩固优势，纽约市市长由极左翼Zorah Mamdani当选，加州50号法案通过平衡选区划分。本次选举聚焦“可负担性”议题，揭示了川普政策的挑战，并预示了未来中期选举的走向。文章深入分析了Mamdani的政策及其在美国政治光谱中的位置，以及华人对左翼的复杂看法。
+tags:
+- challenge
+- crisis
+- politics
+- redistricting
+- strategy
+- us-election
+title: 美国中期选举前哨战：民主党“浪潮式”大胜与川普的困境
 ---
+
 ### 美国选举夜：民主党“浪潮式”大胜
 
 大家可能已经注意到，最近简体中文媒体对美国选举夜的报道非常多。这次选举夜不仅仅是纽约市市长的选举，实际上，美国各地举行了一系列非国政选举，主要集中在几个关键州，包括州长、州议会、州总检察长和州最高法院等职位的选举。

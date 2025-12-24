@@ -1,37 +1,35 @@
 ---
-author: Anthony看世界
+area: personal-systems
+category: psychology
+companies_orgs:
+- Orthodox Church
 date: '2025-03-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Confessions
+people:
+- Anthony
+- Leo Tolstoy
+- Jean-Paul Sartre
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=poAObdArM7c
 speaker: Anthony看世界
-tags:
-  - meaninglessness
-  - existential-crisis
-  - philosophical-depression
-  - free-will
-  - self-awareness
-title: 存在主义与意义危机：为何深刻之人更易抑郁？
-summary: 本视频探讨了由意义感缺失引发的抑郁，并区分了由外部事件导致的普通抑郁与源于对生命深层意义反思的“哲学性抑郁”。文章通过一位移民朋友的经历和托尔斯泰的自述，阐释了自由意志的沉重负担如何动摇我们对生活意义的固有认知，并强调这种哲学性抑郁是走向更深刻生命意义的必经阶段。内容涵盖存在主义哲学、心理学及社会文化反思。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - historical-insights
-people:
-  - Anthony
-  - Leo Tolstoy
-  - Jean-Paul Sartre
-companies_orgs:
-  - Orthodox Church
-products_models: []
-media_books:
-  - Confessions
 status: evergreen
+summary: 本视频探讨了由意义感缺失引发的抑郁，并区分了由外部事件导致的普通抑郁与源于对生命深层意义反思的“哲学性抑郁”。文章通过一位移民朋友的经历和托尔斯泰的自述，阐释了自由意志的沉重负担如何动摇我们对生活意义的固有认知，并强调这种哲学性抑郁是走向更深刻生命意义的必经阶段。内容涵盖存在主义哲学、心理学及社会文化反思。
+tags:
+- crisis
+- free-will
+- psychology
+- self-awareness
+title: 存在主义与意义危机：为何深刻之人更易抑郁？
 ---
 
 ### 频道核心议题：由无意义感引发的抑郁

@@ -1,34 +1,33 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs: []
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《第一财经》
+products_models:
+- Saily eSIM
+project:
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=NMLf7qAFFmA
 speaker: 小翠時政財經
-tags:
-  - wealth-management-products
-  - financial-deception
-  - investment-risk
-  - t-1-valuation
-  - consumer-protection
-title: 银行理财“高收益”骗局揭秘：你的钱是如何被银行悄悄挪走的？
-summary: 本期节目深入揭露了中国银行理财产品“高收益”背后的真相。在存款利率持续走低、A股表现不佳的背景下，大量资金涌入银行理财。然而，通过“展示端注水”、“收益端打榜”和“文字陷阱”等初级手段，以及更高级的“T-1估值套利模式”，银行巧妙地包装产品、转移利润，导致投资者实际收益远低于宣传。节目还提供了三招识别和规避银行理财陷阱的实用建议，帮助普通人保护自己的钱袋子。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-people: []
-companies_orgs: []
-products_models:
-  - Saily eSIM
-media_books:
-  - 《第一财经》
 status: evergreen
+summary: 本期节目深入揭露了中国银行理财产品“高收益”背后的真相。在存款利率持续走低、A股表现不佳的背景下，大量资金涌入银行理财。然而，通过“展示端注水”、“收益端打榜”和“文字陷阱”等初级手段，以及更高级的“T-1估值套利模式”，银行巧妙地包装产品、转移利润，导致投资者实际收益远低于宣传。节目还提供了三招识别和规避银行理财陷阱的实用建议，帮助普通人保护自己的钱袋子。
+tags:
+- consumer
+- financial
+- investment-risk
+- valuation
+- wealth-management-product
+title: 银行理财“高收益”骗局揭秘：你的钱是如何被银行悄悄挪走的？
 ---
+
 ### 银行理财热潮背后的隐忧
 
 大家好，欢迎回到小翠时政财经。今年有一个很有意思的现象：中国的**A股**（A-share market: 中国内地股票市场）涨得不错，但中国人的钱却没有往股市搬家，反而大家都去买理财了。根据权威媒体披露的数据，今年二季度，银行理财单季增量几乎追平去年全年。到三季度末，全国理财产品的存续规模已经达到32.13万亿，同比增长9.42%。为什么中国老百姓突然更喜欢买理财了？这个不难理解。现在银行存款利率越来越低，而不少理财产品页面上写的收益看起来还是挺诱人的。再加上，**固收类理财**（Fixed-income wealth management products: 主要投资于债券、存款等固定收益资产的理财产品）大多投向**同业存单**（Negotiable Certificates of Deposit, NCDs: 银行之间互相发行和购买的短期存款凭证）和国债，看上去风险不高，于是很多人自然就会动心。

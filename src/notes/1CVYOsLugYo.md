@@ -1,79 +1,79 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Palantir
+- Microsoft
+- OpenAI
+- Apple
+- Tesla
+- AMD
+- Google
+- Amazon
+- SoFi
+- Robinhood
+- Broadcom
+- CrowdStrike
+- Visa
+- Seagate
+- Intel
+- Qualcomm
+- Lowe's
+- Uber
+- Department of Energy
+- Cheesecake Factory
+- Federal Reserve
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CNBC
+- The Wall Street Journal
+people:
+- Jensen Huang
+- Alex Karp
+- Donald Trump
+- David Sacks
+- Tom Lee
+- Vlad Tenev
+- Jose Najarro
+- Steven Fiorillo
+- Gavin Newsom
+- Joe Rogan
+- Tim Cook
+- Masayoshi Son
+- Mark Benioff
+products_models:
+- GTC
+- Blackwell
+- Ruben
+- Hopper
+- CUDA
+- Ontology
+- AIP
+- AWS
+- Azure
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=1CVYOsLugYo
 speaker: Amit Kukreja
-tags:
-  - revenue-guidance
-  - stock-valuation
-  - ai-revolution
-  - earnings-season
-  - market-sentiment
-title: 英伟达股价飙升破200美元：GTC大会引爆AI革命，市场情绪高涨
-summary: 在英伟达GTC大会的重磅消息推动下，其股价历史性地突破200美元，市值逼近5万亿美元。CEO黄仁勋发布了未来五个季度5000亿美元的惊人收入指引，并宣布与Palantir等公司深化合作，进一步点燃了市场对AI革命的热情。本期内容深入分析了英伟达的最新动态、关键财报数据以及对半导体行业和整体市场情绪的深远影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Jensen Huang
-  - Alex Karp
-  - Donald Trump
-  - David Sacks
-  - Tom Lee
-  - Vlad Tenev
-  - Jose Najarro
-  - Steven Fiorillo
-  - Gavin Newsom
-  - Joe Rogan
-  - Tim Cook
-  - Masayoshi Son
-  - Mark Benioff
-companies_orgs:
-  - Nvidia
-  - Palantir
-  - Microsoft
-  - OpenAI
-  - Apple
-  - Tesla
-  - AMD
-  - Google
-  - Amazon
-  - SoFi
-  - Robinhood
-  - Broadcom
-  - CrowdStrike
-  - Visa
-  - Seagate
-  - Intel
-  - Qualcomm
-  - Lowe's
-  - Uber
-  - Department of Energy
-  - Cheesecake Factory
-  - Federal Reserve
-products_models:
-  - GTC
-  - Blackwell
-  - Ruben
-  - Hopper
-  - CUDA
-  - Ontology
-  - AIP
-  - AWS
-  - Azure
-media_books:
-  - CNBC
-  - The Wall Street Journal
 status: evergreen
+summary: 在英伟达GTC大会的重磅消息推动下，其股价历史性地突破200美元，市值逼近5万亿美元。CEO黄仁勋发布了未来五个季度5000亿美元的惊人收入指引，并宣布与Palantir等公司深化合作，进一步点燃了市场对AI革命的热情。本期内容深入分析了英伟达的最新动态、关键财报数据以及对半导体行业和整体市场情绪的深远影响。
+tags:
+- ai-revolution
+- earnings-season
+- financial
+- market-sentiment
+- stock-valuation
+title: 英伟达股价飙升破200美元：GTC大会引爆AI革命，市场情绪高涨
 ---
+
 ### 市场狂热：AI 引领股市创下激动人心的一天
 
 今天真是个了不得的日子。对于股市，尤其是人工智能（AI）领域来说，我们可能从未经历过如此激动人心的一天。今年确实有过一些疯狂的日子，但就 AI 相关的更新而言，今天绝对是无与伦比的。

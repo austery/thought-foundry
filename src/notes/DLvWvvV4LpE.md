@@ -1,40 +1,40 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 益盒
+- 上海联劝
 date: '2025-08-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 叶晓阳
+- 丁延庆
+- 吴红斌
+- 陈友松
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=DLvWvvV4LpE
 speaker: 一席YiXi
-tags:
-  - educational-inequality
-  - information-asymmetry
-  - policy-intervention
-  - ai-empowerment
-  - systemic-bias
-title: 高考志愿填报：制度缝隙中的教育公平与AI时代的干预新路径
-summary: 教育经济学家叶晓阳揭示中国高考志愿填报制度中的系统性不公平，指出信息缺失与策略劣势如何导致高分低录，并提出通过AI工具赋能、教育干预和制度改进三重路径，推动教育资源的更公平分配。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 叶晓阳
-  - 丁延庆
-  - 吴红斌
-  - 陈友松
-companies_orgs:
-  - 益盒
-  - 上海联劝
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 教育经济学家叶晓阳揭示中国高考志愿填报制度中的系统性不公平，指出信息缺失与策略劣势如何导致高分低录，并提出通过AI工具赋能、教育干预和制度改进三重路径，推动教育资源的更公平分配。
+tags:
+- bias
+- information-asymmetry
+- llm
+- policy
+- society
+title: 高考志愿填报：制度缝隙中的教育公平与AI时代的干预新路径
 ---
+
 ### 高考志愿填报：一场被忽视的系统性公平之战
 
 大家好，我叫叶晓阳，是一名教育经济学家。我的任务是研究“读书有没有用”——这个看似简单、实则深刻的问题。很多人以为这是无用之学，但事实上，教育经济学的核心正是通过科学方法分析教育投入与回报的关系，从而指导政策制定和个人决策。

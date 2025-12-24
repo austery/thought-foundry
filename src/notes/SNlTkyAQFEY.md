@@ -1,32 +1,29 @@
 ---
-title: Sora 2与OpenAI版“抖音”：重塑社交电商与AI生态的野心
-summary: Sora 2推出“抖音”版应用，其强大的物理引擎和社交电商闭环设计，正威胁着TikTok与亚马逊。本文深入探讨了OpenAI的产品策略、与谷歌等大厂的对比，及其背后的商业野心与算力挑战。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- ai-applications
-- e-commerce-disruption
-- social-commerce
-- sora-2
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs:
 - openai
-products_models: []
-media_books: []
 date: '2025-10-01'
-author: 人民公園說AI
-speaker: 人民公園說AI
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=SNlTkyAQFEY
+speaker: 人民公園說AI
 status: evergreen
+summary: Sora 2推出“抖音”版应用，其强大的物理引擎和社交电商闭环设计，正威胁着TikTok与亚马逊。本文深入探讨了OpenAI的产品策略、与谷歌等大厂的对比，及其背后的商业野心与算力挑战。
+tags:
+- ai-application
+- business
+- social
+- technology
+title: Sora 2与OpenAI版“抖音”：重塑社交电商与AI生态的野心
 ---
+
 ### Sora 2的惊艳亮相与行业震动
 
 主持人: 抖音危险了。这一次**Sora 2**（OpenAI公司开发的文本到视频生成模型的新版本）的**物理引擎**（Physical Engine: 模拟真实世界物理规律的软件模块）非常强大。我真想说脏话，我觉得它太牛了，就直接形成闭环，把抖音整个商业模式搬到**AI**（Artificial Intelligence: 人工智能）上面来。Sora要是未来能够把流量再做起来，那**Amazon**（亚马逊: 跨国电子商务和云计算公司）苦心经营30年的一个帝国，真的可能就会被踹倒一面墙。

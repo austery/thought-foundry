@@ -1,45 +1,45 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Hims & Hers
+- Palantir
+- Rocket Lab
+- CoreWeave
+- Circle
+- TransMedics
+- Voyager
+- Meta
+- Novo Nordisk
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money or Life 美股频道
+people:
+- Elon Musk
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=-7B6RngErfw
 speaker: Money or Life 美股频道
-tags:
-  - us-stock-market
-  - investment-strategy
-  - market-downturn
-  - investor-psychology
-  - portfolio-management
-title: 市场恐慌下跌：我的加仓策略与持股分析
-summary: 在市场恐慌性下跌期间，Money or Life 美股频道主持人Ace分享了他应对市场回调的投资心态、加仓策略及具体操作。他分析了当前市场基本面（财报向好、政策宽松、政府开门预期），并详细阐述了对Hims & Hers、Rocket Lab、CoreWeave、Circle等股票的加仓理由，以及对TransMedics、Voyager和Meta期权的减仓或观望考量。Ace强调了长期持有和专注核心股票的重要性，并分享了个人投资风格。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Elon Musk
-  - Donald Trump
-companies_orgs:
-  - Hims & Hers
-  - Palantir
-  - Rocket Lab
-  - CoreWeave
-  - Circle
-  - TransMedics
-  - Voyager
-  - Meta
-  - Novo Nordisk
-products_models: []
-media_books:
-  - Money or Life 美股频道
 status: evergreen
+summary: 在市场恐慌性下跌期间，Money or Life 美股频道主持人Ace分享了他应对市场回调的投资心态、加仓策略及具体操作。他分析了当前市场基本面（财报向好、政策宽松、政府开门预期），并详细阐述了对Hims
+  & Hers、Rocket Lab、CoreWeave、Circle等股票的加仓理由，以及对TransMedics、Voyager和Meta期权的减仓或观望考量。Ace强调了长期持有和专注核心股票的重要性，并分享了个人投资风格。
+tags:
+- investor-psychology
+- market-downturn
+- portfolio-management
+- us-stock-market
+title: 市场恐慌下跌：我的加仓策略与持股分析
 ---
+
 ### 市场回调下的心态与策略
 
 欢迎来到Money or Life美股频道。11月前两个交易日，我的账户回撤了10%。那么，我是否感到恐慌？我最近买入了哪些股票？特别是在昨天到今天早上盘后夜盘持续下跌的时候，我将在本期视频中与大家分享。

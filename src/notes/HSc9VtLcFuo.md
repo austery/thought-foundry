@@ -1,77 +1,76 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 不明白播客
+- 卫健委
+- YMCA
+- 波兰团结工会
+- 巴西劳工党
+- 南非工会大会
+- 前进党
+- 富士康
 date: '2024-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国家为什么会失败》
+- 《自由的窄廊》
+- 《旧制度与大革命》
+- 《爱丽丝梦游仙境》
+people:
+- 许成刚
+- 伍雷
+- 王岐山
+- 托克维尔
+- Javier Milei
+- Juan Perón
+- Nancy Pelosi
+- 任泽平
+- Henry Paulson
+- 胡锦涛
+- 卢泰愚
+- 李登辉
+- F. W. de Klerk
+- 胡耀邦
+- Desmond Tutu
+- 金泳三
+- 金大中
+- Václav Havel
+- Adam Michnik
+- Raúl Alfonsín
+- Sheikh Hasina
+- Lula da Silva
+- Mustafa Kemal Atatürk
+- Vladimir Putin
+- Dmitry Medvedev
+- Hugo Chávez
+- Robert Mugabe
+- 昂山素季
+- Thaksin Shinawatra
+- Anwar Ibrahim
+- 胡锡进
+- 张维为
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=HSc9VtLcFuo
 speaker: 东京人文论坛
-tags:
-  - societal-transformation
-  - omnipotent-state
-  - state-capacity
-  - opportunity-structure
-  - relative-deprivation
-title: 李厚辰：理解中国社会转型，需从起点而非终点开始
-summary: 本篇内容整理自李厚辰的讲座，探讨了中国社会转型的复杂性。文章批判了从预设终点倒推转型路径的思维模式，主张应从当下起点审视变化。讲座深入分析了三大核心要素：经济下行期中因“预期与现实差异”而变化的民意、作为“全能国家”的治理能力因财政困境而出现的裂隙，以及多元精英群体在转型过程中的作用。最终，文章落脚于寻找和理解中国特有的“机会结构”，认为真正的转型想象力在于把握这些具体的、细节的制度变化动力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 许成刚
-  - 伍雷
-  - 王岐山
-  - 托克维尔
-  - Javier Milei
-  - Juan Perón
-  - Nancy Pelosi
-  - 任泽平
-  - Henry Paulson
-  - 胡锦涛
-  - 卢泰愚
-  - 李登辉
-  - F. W. de Klerk
-  - 胡耀邦
-  - Desmond Tutu
-  - 金泳三
-  - 金大中
-  - Václav Havel
-  - Adam Michnik
-  - Raúl Alfonsín
-  - Sheikh Hasina
-  - Lula da Silva
-  - Mustafa Kemal Atatürk
-  - Vladimir Putin
-  - Dmitry Medvedev
-  - Hugo Chávez
-  - Robert Mugabe
-  - 昂山素季
-  - Thaksin Shinawatra
-  - Anwar Ibrahim
-  - 胡锡进
-  - 张维为
-companies_orgs:
-  - 不明白播客
-  - 卫健委
-  - YMCA
-  - 波兰团结工会
-  - 巴西劳工党
-  - 南非工会大会
-  - 前进党
-  - 富士康
-products_models: []
-media_books:
-  - 《国家为什么会失败》
-  - 《自由的窄廊》
-  - 《旧制度与大革命》
-  - 《爱丽丝梦游仙境》
 status: evergreen
+summary: 本篇内容整理自李厚辰的讲座，探讨了中国社会转型的复杂性。文章批判了从预设终点倒推转型路径的思维模式，主张应从当下起点审视变化。讲座深入分析了三大核心要素：经济下行期中因“预期与现实差异”而变化的民意、作为“全能国家”的治理能力因财政困境而出现的裂隙，以及多元精英群体在转型过程中的作用。最终，文章落脚于寻找和理解中国特有的“机会结构”，认为真正的转型想象力在于把握这些具体的、细节的制度变化动力。
+tags:
+- canada
+- opportunity-structure
+- societal
+- state
+title: 李厚辰：理解中国社会转型，需从起点而非终点开始
 ---
+
 ### 引言：转型问题应从起点而非终点审视
 
 非常感谢大家，我们接下来讨论中国转型的问题。这次讨论与近期获得诺贝尔经济学奖的两本**制度经济学**（Institutional Economics: 研究制度如何影响经济行为和结果的经济学分支）著作——《国家为什么会失败》和《自由的窄廊》——密切相关。最近，围绕这两本书的讨论非常多，例如“不明白播客”对许成钢教授的访谈，就主要从《国家为什么会失败》的角度探讨了制度经济学问题。同时，正如伍雷律师所言，国内对这些观点的批判也早已开始。

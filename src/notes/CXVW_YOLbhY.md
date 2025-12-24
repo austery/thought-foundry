@@ -1,31 +1,29 @@
 ---
-title: 个人奋斗与不公平优势：一本改变我人生的书
-summary: 作者分享《异类》一书如何影响其人生选择，强调外部条件和“不公平优势”的重要性。通过个人经历，他阐述了如何识别并利用自身特点，选择适合自己的“战场”，最终实现个人成功。
 area: personal-growth
 category: career
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-tags:
-  - career-strategy
-  - life-choices
-  - personal-development
-  - unfair-advantage
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-  - outliers-book
 date: '2023-01-26'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- outliers-book
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=CXVW_YOLbhY
+speaker: 一口新飯
 status: evergreen
+summary: 作者分享《异类》一书如何影响其人生选择，强调外部条件和“不公平优势”的重要性。通过个人经历，他阐述了如何识别并利用自身特点，选择适合自己的“战场”，最终实现个人成功。
+tags:
+- life
+- llm
+- personal-development
+- strategy
+title: 个人奋斗与不公平优势：一本改变我人生的书
 ---
 
 ### 《异类》对个人选择的深远影响

@@ -1,36 +1,36 @@
 ---
-author: Anthropic
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=CBneTpXF1CQ'
-speaker: Anthropic
-tags:
-  - ai-coding
-  - developer-tools
-  - large-language-models
-  - software-development
-  - code-generation
-title: Claude Code 和 Claude Haiku 4.5 的最新进展：网页版开发、Haiku 4.5 模型应用及智能工作流
-summary: 本文详细介绍了Anthropic公司“Claude Code”的最新功能，包括其网页版和移动应用，支持GitHub集成与并行任务处理。重点阐述了新发布的“Claude Haiku 4.5”模型，其在编码性能上超越了Sonnet 4，并以更低的成本和更快的速度提供服务。文章还探讨了Haiku 4.5与Sonnet 4.5在多智能体开发中的协作模式，以及智能本地工作流的增强功能。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people: '[]'
+area: tech-engineering
+category: ai-ml
 companies_orgs:
-  - GitHub
-products_models:
-  - Claude Code
-  - Claude Haiku 4.5
-  - Claude Sonnet 4.5
-  - Claude Sonnet 4
+- GitHub
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people: '[]'
+products_models:
+- Claude Code
+- Claude Haiku 4.5
+- Claude Sonnet 4.5
+- Claude Sonnet 4
+project:
+- ai-impact-analysis
+series: ''
+source: https://www.youtube.com/watch?v=CBneTpXF1CQ
+speaker: Anthropic
 status: evergreen
+summary: 本文详细介绍了Anthropic公司“Claude Code”的最新功能，包括其网页版和移动应用，支持GitHub集成与并行任务处理。重点阐述了新发布的“Claude
+  Haiku 4.5”模型，其在编码性能上超越了Sonnet 4，并以更低的成本和更快的速度提供服务。文章还探讨了Haiku 4.5与Sonnet 4.5在多智能体开发中的协作模式，以及智能本地工作流的增强功能。
+tags:
+- code-generation
+- developer-tool
+- large-language-model
+- software-development
+title: Claude Code 和 Claude Haiku 4.5 的最新进展：网页版开发、Haiku 4.5 模型应用及智能工作流
 ---
+
 ### 网页版 Claude Code：赋能并行云开发
 
 **Claude Code**（基于Anthropic大型语言模型的代码助手）现已在网页端上线。

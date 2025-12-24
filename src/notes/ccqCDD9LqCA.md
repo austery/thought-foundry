@@ -1,55 +1,54 @@
 ---
-author: Hung-yi Lee
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- OpenAI
+- Meta
+- Amazon
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+- 《外交事务》
+people:
+- 李宏毅
+- 何凯明
+products_models:
+- NanoBanana
+- Sora
+- Suno
+- IndexTTS2
+- Muse
+- Flux
+- Stable Diffusion
+- WaveNet
+- Pixel RNN
+- Pixel CNN
+- Video Pixel Network
+- MaskGIT
+- VAR
+- Next Step One
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ccqCDD9LqCA
 speaker: Hung-yi Lee
-tags:
-  - continuous-token
-  - flow-matching
-  - autoregressive-generation
-  - generative-models
-  - tokenization-limitation
-title: 生成式AI的两条世界线：从像素接龙到Flow Matching的融合之路
-summary: 本文深入探讨2025年生成式AI在影像与声音生成中的核心突破：传统自回归接龙模型如何与Flow Matching等生成式模型结合，克服Token离散化带来的品质限制，并实现高保真内容生成的范式转变。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 李宏毅
-  - 何凯明
-companies_orgs:
-  - Google
-  - OpenAI
-  - Meta
-  - Amazon
-products_models:
-  - NanoBanana
-  - Sora
-  - Suno
-  - IndexTTS2
-  - Muse
-  - Flux
-  - Stable Diffusion
-  - WaveNet
-  - Pixel RNN
-  - Pixel CNN
-  - Video Pixel Network
-  - MaskGIT
-  - VAR
-  - Next Step One
-media_books:
-  - 《繁花》
-  - 《外交事务》
 status: evergreen
+summary: 本文深入探讨2025年生成式AI在影像与声音生成中的核心突破：传统自回归接龙模型如何与Flow Matching等生成式模型结合，克服Token离散化带来的品质限制，并实现高保真内容生成的范式转变。
+tags:
+- flow
+- generation
+- investment
+- model
+title: 生成式AI的两条世界线：从像素接龙到Flow Matching的融合之路
 ---
+
 ### 生成式AI的两大范式：从接龙到分布匹配
 
 各位同学大家好，今天我们来探讨生成式人工智能在影像和声音生成领域的最新进展。在此之前，我们的课程主要聚焦于语言模型——通过文字接龙的方式，基于上文预测下一个词。然而，今天我们要探索的是更复杂、更具挑战性的领域：如何生成图像、视频和声音。

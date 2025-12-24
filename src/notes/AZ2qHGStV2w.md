@@ -1,47 +1,46 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- OKX
+- TSMC
+- Nvidia
+- Microsoft
+- Google
+- Amazon
+- IBM
+- 中国人民银行
 date: '2025-01-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Melania Trump
+- Xi Jinping
+- 韩正
+products_models:
+- H100
+- B100
+project:
+- us-analysis
+- geopolitics-watch
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=AZ2qHGStV2w
 speaker: Shanghao Jin
-tags:
-  - us-economic-outlook
-  - trump-policies
-  - global-currency-trends
-  - nvidia-earnings
-  - ai-enterprise-adoption
-title: 特朗普政策、美国经济与英伟达前景展望：2025年市场深度分析
-summary: 本文深入分析了当前美国经济的强劲表现、温和通胀以及美联储的利率政策预期。重点探讨了特朗普上任后的潜在政策走向，包括关税、去监管和移民政策对其“网红”本质的反映，及其对美元、人民币及全球经济的深远影响。此外，文章还对英伟达（Nvidia）的盈利前景进行了评估，指出短期业绩确定性高，但长期增长取决于企业AI应用的实际落地，并提出了相应的投资策略建议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - investment-strategy
-people:
-  - Donald Trump
-  - Melania Trump
-  - 习近平
-  - 韩正
-companies_orgs:
-  - OKX
-  - TSMC
-  - Nvidia
-  - Microsoft
-  - Google
-  - Amazon
-  - IBM
-  - 中国人民银行
-products_models:
-  - H100
-  - B100
-media_books: []
 status: evergreen
+summary: 本文深入分析了当前美国经济的强劲表现、温和通胀以及美联储的利率政策预期。重点探讨了特朗普上任后的潜在政策走向，包括关税、去监管和移民政策对其“网红”本质的反映，及其对美元、人民币及全球经济的深远影响。此外，文章还对英伟达（Nvidia）的盈利前景进行了评估，指出短期业绩确定性高，但长期增长取决于企业AI应用的实际落地，并提出了相应的投资策略建议。
+tags:
+- investment
+- nvidia-earning
+- trend
+- trump-policy
+- us-economic-outlook
+title: 特朗普政策、美国经济与英伟达前景展望：2025年市场深度分析
 ---
+
 ### 市场概览与美国经济基本面
 
 大家好，感谢各位参加本次会议。过去三周，特别是春节过后，市场的主要关注点和趋势都在等待特朗普（Donald Trump）上台。他已于昨日正式就任，接下来我将分析他上台前后的一些操作，以及未来政策可能带来的影响。近期，特别是加密货币市场，波动异常剧烈。

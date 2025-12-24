@@ -1,50 +1,50 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- Amazon Web Services
+- McDonald's
+- Netflix
+- Signal
+- Hamas
+- Israeli Military
+- White House
+- Fox News
+- Louvre
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Tracy Mumford
+- George Santos
+- Ben Castleman
+- Katherine Porter
+- Pete Hegsth
+- Donald Trump
+- J. Dance
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=K45pb0a3Zhg
 speaker: New York Times Podcasts
-tags:
-  - internet-outage
-  - gaza-conflict
-  - political-protests
-  - economic-inequality
-  - art-heist
-title: 加沙冲突再起，白宫回应抗议“谁在乎？”，以及其他头条新闻
-summary: 本期新闻回顾涵盖了多项全球和国内热点事件。亚马逊网络服务（AWS）出现大范围中断，影响了数百个网站和应用程序；加沙地带停火协议面临严峻考验，以色列和哈马斯互相指责；美国各地爆发大规模反政府示威，白宫对此不屑一顾；前众议员乔治·桑托斯获总统减刑出狱；美国与哥伦比亚因毒品船袭击事件关系紧张；美国经济贫富差距日益扩大；以及法国卢浮宫发生大胆的皇冠珠宝盗窃案。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Tracy Mumford
-  - George Santos
-  - Ben Castleman
-  - Katherine Porter
-  - Pete Hegsth
-  - Donald Trump
-  - J. Dance
-companies_orgs:
-  - New York Times
-  - Amazon Web Services
-  - McDonald's
-  - Netflix
-  - Signal
-  - Hamas
-  - Israeli Military
-  - White House
-  - Fox News
-  - Louvre
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期新闻回顾涵盖了多项全球和国内热点事件。亚马逊网络服务（AWS）出现大范围中断，影响了数百个网站和应用程序；加沙地带停火协议面临严峻考验，以色列和哈马斯互相指责；美国各地爆发大规模反政府示威，白宫对此不屑一顾；前众议员乔治·桑托斯获总统减刑出狱；美国与哥伦比亚因毒品船袭击事件关系紧张；美国经济贫富差距日益扩大；以及法国卢浮宫发生大胆的皇冠珠宝盗窃案。
+tags:
+- economic-inequality
+- gaza-conflict
+- history
+- political
+- technology
+title: 加沙冲突再起，白宫回应抗议“谁在乎？”，以及其他头条新闻
 ---
+
 ### 今日头条：亚马逊服务中断与全球要闻
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是10月20日星期一，以下是我们今天早上将要报道的内容。

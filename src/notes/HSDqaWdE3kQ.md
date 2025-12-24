@@ -1,53 +1,53 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- Ontario Taxpayers Federation
+- OPA
+- University of Ottawa Heart Institute
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Premier Files
+- be a good one
+people:
+- Dalton McGuinty
+- John Turner
+- Bob Ray
+- David Peterson
+- Terry McGuinty
+- Michael McGuinty
+- Joe Cordiano
+- Jory Kennedy
+- Mike Harris
+- John Tory
+- Ernie Eves
+- Steven Harper
+- Jeremy Bentham
+- Bill Davis
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=HSDqaWdE3kQ
 speaker: TVO Today
-tags:
-  - political-leadership
-  - public-service
-  - campaign-strategy
-  - government-challenges
-  - policy-making
-title: 安大略省前省长道尔顿·麦金蒂的政治生涯与领导力反思
-summary: 安大略省前省长道尔顿·麦金蒂在本次访谈中，回顾了自己从大家庭成长到三届自由党省长的政治历程。他分享了其领导哲学、作为反对党领袖的挑战、税收上调和绿带创建等艰难政策决策，以及应对政治丑闻的经验。麦金蒂反思了信念、团队合作和公共服务的重要性，坦诚地展现了十年执政生涯的起伏，以及他卸任后的生活。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - Dalton McGuinty
-  - John Turner
-  - Bob Ray
-  - David Peterson
-  - Terry McGuinty
-  - Michael McGuinty
-  - Joe Cordiano
-  - Jory Kennedy
-  - Mike Harris
-  - John Tory
-  - Ernie Eves
-  - Steven Harper
-  - Jeremy Bentham
-  - Bill Davis
-companies_orgs:
-  - TVO Today
-  - Ontario Taxpayers Federation
-  - OPA
-  - University of Ottawa Heart Institute
-products_models: []
-media_books:
-  - The Premier Files
-  - be a good one
 status: evergreen
+summary: 安大略省前省长道尔顿·麦金蒂在本次访谈中，回顾了自己从大家庭成长到三届自由党省长的政治历程。他分享了其领导哲学、作为反对党领袖的挑战、税收上调和绿带创建等艰难政策决策，以及应对政治丑闻的经验。麦金蒂反思了信念、团队合作和公共服务的重要性，坦诚地展现了十年执政生涯的起伏，以及他卸任后的生活。
+tags:
+- campaign-strategy
+- challenge
+- policy
+- political-leadership
+- public-service
+title: 安大略省前省长道尔顿·麦金蒂的政治生涯与领导力反思
 ---
+
 ### 引言：政治生涯的回顾
 
 主持人: 安大略省的前**省长**（Premier: 加拿大省份的政府首脑）们是否仍然坚持他们赖以成名的政策？《省长档案》节目将探讨所有这些以及更多内容。

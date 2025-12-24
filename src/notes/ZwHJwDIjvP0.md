@@ -1,42 +1,42 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Brown University
+- The Heritage Foundation
+- Visa
+- Mastercard
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交事务》
+- 《国富论》
+- 《2025年的领导任务》
+people:
+- Donald Trump
+- Adam Smith
+products_models:
+- Tesla Model 3
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ZwHJwDIjvP0
 speaker: 海淀拙大叔
-tags:
-  - us-strategic-retrenchment
-  - imperial-decline
-  - geopolitical-shifts
-  - economic-hollowing-out
-  - technological-stagnation
-title: 美国战略大收缩：百年帝国兴衰的镜鉴与特朗普政策预判（一）
-summary: 本期节目深入探讨美国当前处境与百年前大英帝国的惊人相似之处，分析其战略收缩的必然性。文章指出，特朗普的全球收缩策略并非不可捉摸，而是对历史模式的复刻，其背后是战争消耗、技术锁死、全球治理成本黑洞及货币霸权反噬等深层衰落因素。理解这些历史周期律，对投资者预判未来趋势具有重要价值。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Donald Trump
-  - Adam Smith
-companies_orgs:
-  - Brown University
-  - The Heritage Foundation
-  - Visa
-  - Mastercard
-products_models:
-  - Tesla Model 3
-media_books:
-  - 《外交事务》
-  - 《国富论》
-  - 《2025年的领导任务》
 status: evergreen
+summary: 本期节目深入探讨美国当前处境与百年前大英帝国的惊人相似之处，分析其战略收缩的必然性。文章指出，特朗普的全球收缩策略并非不可捉摸，而是对历史模式的复刻，其背后是战争消耗、技术锁死、全球治理成本黑洞及货币霸权反噬等深层衰落因素。理解这些历史周期律，对投资者预判未来趋势具有重要价值。
+tags:
+- decline
+- economic
+- financial
+- geopolitical-shift
+- technological
+title: 美国战略大收缩：百年帝国兴衰的镜鉴与特朗普政策预判（一）
 ---
+
 ### 美国战略大收缩系列：引言与核心议题
 
 今天是3月23日，周日。上回提到美国将实行战略大收缩，因此本期节目将专门讨论关于美国战略收缩的五个问题。这可能将分为五个视频系列。首先，当前美国与一百年前英国所面临的处境惊人相似。其次，美国的战略性大收缩是对英国的完全复刻，因此它是可以预测的。第三，我们将预判**特朗普**（Donald Trump: 第45任美国总统，以“美国优先”政策著称）未来四年可能采取的收缩政策。第四，中国应如何反制美国的战略收缩。第五，投资者将面临哪些风险和机会。

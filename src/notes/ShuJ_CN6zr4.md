@@ -1,34 +1,31 @@
 ---
-author: AI Engineer
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Factory AI
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Eno Reyes
+products_models:
+- GPT-4
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ShuJ_CN6zr4
 speaker: AI Engineer
-tags:
-  - llm
-  - prompt-engineering
-  - autonomous-systems
-  - software-development
-  - validation-criteria
-title: 使代码库适应 AI 代理 - Eno Reyes, Factory AI
-summary: 本文讨论了如何使代码库适应 AI 代理，提高自动化和验证在软件开发中的应用。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Eno Reyes
-companies_orgs:
-  - Factory AI
-products_models:
-  - GPT-4
-media_books: []
 status: evergreen
+summary: 本文讨论了如何使代码库适应 AI 代理，提高自动化和验证在软件开发中的应用。
+tags:
+- software-development
+- system
+- validation-criterion
+title: 使代码库适应 AI 代理 - Eno Reyes, Factory AI
 ---
+
 ### 使代码库适应 AI 代理
 
 嗨，大家好，我叫 Eno。很高兴今天来谈论一些我们在 Factory 非常关心的事情。

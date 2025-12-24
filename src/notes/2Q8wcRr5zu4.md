@@ -1,30 +1,31 @@
 ---
-title: 硅谷101：谷歌股价为何先跌后涨？华尔街如何看？
-summary: 2025年的Google I/O大会无疑是谷歌打的一场漂亮的翻身仗。曾几何时， Bard的“翻车”让谷歌市值一夜蒸发千亿，OpenAI的4o模型又在I/O前夜“精准狙击”。然而，今年谷歌却破釜沉舟：Gemini 2.5 Pro强势霸榜，重塑搜索的AI Mode主动拥抱变革，XR智能眼镜重构人机交互
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-- 投资
-people:
-  - 弘君
-  - Yiwen
-  - 刘沁东
-companies_orgs:
-- 谷歌
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: finance-wealth
 author: Lei
-speaker: '硅谷101播客'
+category: stock-investment
 channel: null
+companies_orgs:
+- Google
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books: []
+people:
+- 弘君
+- Yiwen
+- 刘沁东
+products_models: []
+project:
+- investment-strategy
 series: null
 source: https://www.youtube.com/watch?v=2Q8wcRr5zu4
+speaker: 硅谷101播客
+summary: 2025年的Google I/O大会无疑是谷歌打的一场漂亮的翻身仗。曾几何时， Bard的“翻车”让谷歌市值一夜蒸发千亿，OpenAI的4o模型又在I/O前夜“精准狙击”。然而，今年谷歌却破釜沉舟：Gemini
+  2.5 Pro强势霸榜，重塑搜索的AI Mode主动拥抱变革，XR智能眼镜重构人机交互
+tags: []
+title: 硅谷101：谷歌股价为何先跌后涨？华尔街如何看？
 ---
+
 **主持人：**弘君 (硅谷101创始人，播客主理人)
 
 **嘉宾：**

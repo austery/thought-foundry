@@ -1,42 +1,42 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
+- 苏澳荣民医院
+- 开兰安心诊所
+- 关渡医院
 date: '2025-08-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大夫训练》
+people:
+- 吴肇基
+- 宋晏仁
+- 陈亮恭
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=chlBA_ptFIk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - exercise-as-medicine
-  - strength-training
-  - healthy-aging
-  - mitochondrial-function
-  - energy-flux
-  - chronic-disease-prevention
-title: 运动即良药：吴肇基医师谈《大夫训练》中的运动治疗与健康老化
-summary: 骨科医师吴肇基在《初日会客室》中分享其新书《大夫训练》的核心理念。他强调运动是治疗多种疾病、对抗老化、改善能量代谢的关键，并探讨了不同人群（如老年人、孕妇）如何进行适度运动，以及重量训练对肌肉、粒线体功能和关节健康的益处的。吴医师挑战了传统观念，提出轻度肥胖对老年人有益，并解释了能量通量、骨刺成因等常见健康问题。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 吴肇基
-  - 宋晏仁
-  - 陈亮恭
-companies_orgs:
-  - 初日醫學
-  - Cofit
-  - 苏澳荣民医院
-  - 开兰安心诊所
-  - 关渡医院
-products_models: []
-media_books:
-  - 《大夫训练》
 status: evergreen
+summary: 骨科医师吴肇基在《初日会客室》中分享其新书《大夫训练》的核心理念。他强调运动是治疗多种疾病、对抗老化、改善能量代谢的关键，并探讨了不同人群（如老年人、孕妇）如何进行适度运动，以及重量训练对肌肉、粒线体功能和关节健康的益处的。吴医师挑战了传统观念，提出轻度肥胖对老年人有益，并解释了能量通量、骨刺成因等常见健康问题。
+tags:
+- energy
+- health
+- llm
+- science
+- strength-training
+- technology
+title: 运动即良药：吴肇基医师谈《大夫训练》中的运动治疗与健康老化
 ---
+
 ### 运动：人人适用的治疗介入
 
 **宋晏仁宋医师:** 运动是否真的适合所有人作为治疗的介入方式？

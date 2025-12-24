@@ -1,67 +1,67 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: finance
+companies_orgs:
+- 万科
+- 摩尔县城
+- Nvidia
+- Alibaba
+- ByteDance
+- 腾讯
+- 摩根大通
+- 甲骨文
+- OpenAI
+- 沃尔玛
+- 纳斯达克
+- 美联储
+- 台积电
+- 宁德时代
+- 国际货币基金组织
+- 中金公司
+- 广东省
+- 深圳
+- 北京
+- 上海机场集团
+- 中国中免
+- 财政部
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 金融时报
+- 路透社
+- 彭博社
+people:
+- Xi Jinping
+- 江泽民
+- 唐纳德·特朗普
+- 杰罗姆·鲍威尔
+- 埃隆·马斯克
+- 黄仁勋
+- C.C. 魏
+- 凯文·哈塞特
+products_models:
+- H200
+- Blackwell
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=YQ_ba6K304A
 speaker: 小翠時政財經
-tags:
-  - real-estate-stimulus
-  - chip-war
-  - interest-rate-policy
-  - ai-development
-title: 万科救市传闻引爆地产股，科技战升级与美联储政策走向：深度解析
-summary: 本文深入剖析了近期中国房地产市场的潜在救市信号，包括传闻中的4000亿财政贴息政策及其对万科等地产股的提振作用。同时，文章探讨了中美科技竞争下国产GPU的挑战与机遇，分析了沃尔玛的战略转型，并解读了美联储的降息前景及对市场的影响。此外，还涉及了埃隆·马斯克的未来观、中国宏观经济数据以及一则关于江泽民家族资产的八卦新闻。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-  - 江泽民
-  - 唐纳德·特朗普
-  - 杰罗姆·鲍威尔
-  - 埃隆·马斯克
-  - 黄仁勋
-  - C.C. 魏
-  - 凯文·哈塞特
-companies_orgs:
-  - 万科
-  - 摩尔县城
-  - 英伟达
-  - 阿里巴巴
-  - 字节跳动
-  - 腾讯
-  - 摩根大通
-  - 甲骨文
-  - OpenAI
-  - 沃尔玛
-  - 纳斯达克
-  - 美联储
-  - 台积电
-  - 宁德时代
-  - 国际货币基金组织
-  - 中金公司
-  - 广东省
-  - 深圳
-  - 北京
-  - 上海机场集团
-  - 中国中免
-  - 财政部
-products_models:
-  - H200
-  - Blackwell
-media_books:
-  - 金融时报
-  - 路透社
-  - 彭博社
 status: evergreen
+summary: 本文深入剖析了近期中国房地产市场的潜在救市信号，包括传闻中的4000亿财政贴息政策及其对万科等地产股的提振作用。同时，文章探讨了中美科技竞争下国产GPU的挑战与机遇，分析了沃尔玛的战略转型，并解读了美联储的降息前景及对市场的影响。此外，还涉及了埃隆·马斯克的未来观、中国宏观经济数据以及一则关于江泽民家族资产的八卦新闻。
+tags:
+- ai-development
+- interest-rate-policy
+- real
+- war
+title: 万科救市传闻引爆地产股，科技战升级与美联储政策走向：深度解析
 ---
+
 ### 技术故障与节目开场
 
 首先，非常抱歉，由于麦克风出现技术故障，今天的节目可能会稍微受到影响，请大家将就一下。因为我原先那个话筒暂时好像修不好。OK，那我们现在ok的话，我们就开始今天的节目，不好意思，技术故障。

@@ -1,60 +1,58 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Xiaomi
+- NVIDIA
+- Google
+- Amazon
+- OpenAI
+- Raytheon
+- Lockheed Martin
+- BMW
+- Apple
+- Nokia
+- 美国国际开发署
+- 美国国防部
+- 美国财政部
+- 美国商务部
+- 美联储
 date: '2025-02-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Elon Musk
+- 李飞飞
+products_models:
+- GPT
+- GPT-3 Mini
+- GB200
+- GB300
+- TPU
+- Sora
+- F-35
+- CUDA
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=AIDkmipKLyk
 speaker: Shanghao Jin
-tags:
-  - us-election-impact
-  - tariff-policy
-  - global-economic-divergence
-  - ai-semiconductor-outlook
-  - defense-spending-reform
-title: 2025年市场展望：波动中的机遇与挑战——特朗普政策、AI投资及全球经济分化
-summary: 本文深入分析了2025年全球市场的宏观趋势、投资方向及潜在风险。作者强调了美国与日欧中经济政策的分化，并详细解读了特朗普关税政策的随意性与目标性，及其对全球贸易和资产估值的影响。文章还探讨了AI领域大公司资本支出的可持续性、NVIDIA面临的挑战，以及DeepSeek等开源模型对市场成本结构的影响。最后，提出了SaaS、高边际效应数据库组件和新国防工业复合体作为未来三大投资方向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Shanghao Jin
-  - Donald Trump
-  - Elon Musk
-  - 李飞飞
-companies_orgs:
-  - Xiaomi
-  - NVIDIA
-  - Google
-  - Amazon
-  - OpenAI
-  - Raytheon
-  - Lockheed Martin
-  - BMW
-  - Apple
-  - Nokia
-  - 美国国际开发署
-  - 美国国防部
-  - 美国财政部
-  - 美国商务部
-  - 美联储
-products_models:
-  - GPT
-  - GPT-3 Mini
-  - GB200
-  - GB300
-  - TPU
-  - Sora
-  - F-35
-  - CUDA
-media_books: []
 status: evergreen
+summary: 本文深入分析了2025年全球市场的宏观趋势、投资方向及潜在风险。作者强调了美国与日欧中经济政策的分化，并详细解读了特朗普关税政策的随意性与目标性，及其对全球贸易和资产估值的影响。文章还探讨了AI领域大公司资本支出的可持续性、NVIDIA面临的挑战，以及DeepSeek等开源模型对市场成本结构的影响。最后，提出了SaaS、高边际效应数据库组件和新国防工业复合体作为未来三大投资方向。
+tags:
+- ai-semiconductor-outlook
+- economic
+- reform
+- tariff-policy
+- us-election-impact
+title: 2025年市场展望：波动中的机遇与挑战——特朗普政策、AI投资及全球经济分化
 ---
+
 ### 2025年市场宏观判断与“尾部风险”
 
 大家新年好！今天是新年最后一天，给大家拜个晚年。今天早上我曾向客户讲解市场情况，但忘记录音，所以现在重新录制一次。由于已有两个多星期未进行市场分析，我觉得有必要给大家一个更新，因为最近的市场环境变化非常大。尽管我基本的市场判断、方向和仓位并未改变，但鉴于近期市场的剧烈波动，我觉得有必要再次与大家分享，探讨接下来的交易方向和关注焦点。

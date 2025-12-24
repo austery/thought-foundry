@@ -1,50 +1,48 @@
 ---
-author: Veritasium
-date: '2022-08-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5eW6Eagr9XA
-speaker: Veritasium
-tags:
-  - veritasium
-  - expertise-development
-  - deliberate-practice
-  - pattern-recognition
-  - feedback-loops
-  - decision-making
-title: 专家迷思：洞察真正专业技能的四大要素
-summary: 本文深入探讨了专家技能的本质，揭示了其并非源于超凡智力，而是基于模式识别和长期记忆。通过对国际象棋大师、政治经济预测者和投资专业人士的案例分析，文章阐明了成为真正专家所需的四个关键要素：有效的环境、重复尝试与反馈、及时反馈以及刻意练习。同时，文章也警示了在低效环境中盲目追求模式的陷阱。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Grant Gussman
-  - Magnus Carlsen
-  - William Chase
-  - Herbert Simon
-  - Malcolm Gladwell
-  - Philip Tetlock
-  - George Bush
-  - Warren Buffet
-  - Ted Seides
-  - Daniel Kahneman
-  - Richard Melton
+category: general
 companies_orgs:
-  - Protege Partners
-  - Wall Street
-  - YouTube
-  - Brilliant
+- Protege Partners
+- Wall Street
+- YouTube
+- Brilliant
+date: '2022-08-02'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Grant Gussman
+- Magnus Carlsen
+- William Chase
+- Herbert Simon
+- Malcolm Gladwell
+- Philip Tetlock
+- George Bush
+- Warren Buffet
+- Ted Seides
+- Daniel Kahneman
+- Richard Melton
 products_models:
-  - S&P 500
-media_books: []
+- S&P 500
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=5eW6Eagr9XA
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了专家技能的本质，揭示了其并非源于超凡智力，而是基于模式识别和长期记忆。通过对国际象棋大师、政治经济预测者和投资专业人士的案例分析，文章阐明了成为真正专家所需的四个关键要素：有效的环境、重复尝试与反馈、及时反馈以及刻意练习。同时，文章也警示了在低效环境中盲目追求模式的陷阱。
+tags:
+- decision-making
+- development
+- financial
+- pattern-recognition
+- psychology
+title: 专家迷思：洞察真正专业技能的四大要素
 ---
+
 ### 专家技能的本质：模式识别与组块化
 
 Interviewer: 你会在派对上表演这个把戏吗？

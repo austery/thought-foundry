@@ -1,26 +1,25 @@
 ---
 title: 中共宣传进化史：从舆论引导到舆论斗争
-summary: 
+summary: null
 area: society-systems
 category: general
 project: china-analysis
 tags:
-- 内宣
+- china
 - 新闻反转
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: 夸克说
 channel: null
-guest: 
+guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=9WzxibheiPo
 ---
+
 大家好，欢迎收看“夸克说”，我是夸克。之前我一直想做一个系列节目，系统性地介绍一下中共的宣传工具是如何运作的。刚好因为近期“罗帅宇事件”，有观众在评论区留言问我，为什么中国的新闻总是喜欢反转。我就借着这个机会聊聊这个话题。
 
 ## 引言：中共宣传工作的复杂性

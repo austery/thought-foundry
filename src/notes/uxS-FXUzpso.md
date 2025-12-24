@@ -1,73 +1,73 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Alphabet
+- Nvidia
+- Meta
+- OpenAI
+- Kremlin
+- Pentagon
+- Department of Defense
+- Chinese Foreign Ministry
+- Alibaba
+- United Nations Human Rights Council
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- The Information
+- The Wall Street Journal
+- The Guardian
+- Financial Times
+- Reuters
+- CNBC
+- NHK
+- 界面新闻
+- The Economist
+- Associated Press
+- 《中国季刊》
+people:
+- Donald Trump
+- Xi Jinping
+- Mark Kelly
+- Volodymyr Zelensky
+- Sergey Lavrov
+- Dmitry Peskov
+- Kyrylo Budanov
+- Driscoll
+- Mao Ning
+- Martin Whyte
+- Zhu Rongtai
+- George Glass
+- Mark Liuweit
+- Fidel
+products_models:
+- ChatGPT
+- Gemini 3
+- TikTok
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=uxS-FXUzpso
 speaker: LT視界
-tags:
-  - ai-chip-competition
-  - ukraine-peace-negotiations
-  - military-ethics
-  - us-china-diplomacy
-  - social-sentiment-china
-  - human-rights-criticism
-title: 谷歌AI芯片挑战英伟达垄断，乌克兰和平计划新进展，中美关系与中国社会情绪分析
-summary: 本期节目深入分析了谷歌人工智能芯片对英伟达市场主导地位的冲击及其对资本市场的影响。同时，详细探讨了乌克兰和平计划的最新进展，包括美乌俄三方谈判的幕后细节。节目还关注美国国内关于军人服从非法命令的政治争议，以及中美、中日关系的新动态，特别是川普与习近平的频繁互动。最后，探讨了中国官方倡导“正能量”与民间悲观情绪蔓延的社会现象，以及国际社会对中国人权问题的持续关注。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Mark Kelly
-  - Volodymyr Zelensky
-  - Sergey Lavrov
-  - Dmitry Peskov
-  - Kyrylo Budanov
-  - Driscoll
-  - Mao Ning
-  - Martin Whyte
-  - Zhu Rongtai
-  - George Glass
-  - Mark Liuweit
-  - Fidel
-companies_orgs:
-  - Alphabet
-  - Nvidia
-  - Meta
-  - OpenAI
-  - Kremlin
-  - Pentagon
-  - Department of Defense
-  - Chinese Foreign Ministry
-  - Alibaba
-  - United Nations Human Rights Council
-products_models:
-  - ChatGPT
-  - Gemini 3
-  - TikTok
-media_books:
-  - Bloomberg
-  - The Information
-  - The Wall Street Journal
-  - The Guardian
-  - Financial Times
-  - Reuters
-  - CNBC
-  - NHK
-  - 界面新闻
-  - The Economist
-  - Associated Press
-  - 《中国季刊》
 status: evergreen
+summary: 本期节目深入分析了谷歌人工智能芯片对英伟达市场主导地位的冲击及其对资本市场的影响。同时，详细探讨了乌克兰和平计划的最新进展，包括美乌俄三方谈判的幕后细节。节目还关注美国国内关于军人服从非法命令的政治争议，以及中美、中日关系的新动态，特别是川普与习近平的频繁互动。最后，探讨了中国官方倡导“正能量”与民间悲观情绪蔓延的社会现象，以及国际社会对中国人权问题的持续关注。
+tags:
+- ai-chip-competition
+- china
+- ethics
+- human
+- llm
+- social
+title: 谷歌AI芯片挑战英伟达垄断，乌克兰和平计划新进展，中美关系与中国社会情绪分析
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月25日。
 
 ### 财经头条：谷歌AI芯片挑战英伟达垄断地位

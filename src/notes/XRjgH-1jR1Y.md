@@ -1,32 +1,31 @@
 ---
-author: 徒步的騎手
-date: 2025-08-07
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=XRjgH-1jR1Y'
-speaker: 徒步的騎手
-tags:
-  - strong-control-weak-governance
-  - social-governance
-  - system-comparison
-  - rule-of-law
-title: 强控制与弱治理：从校园霸凌看中美两种“政治操作系统”的迥异结局
-summary: 通过对比四川和美国德州的校园霸凌事件，本文深入剖析了两种截然不同的社会治理模式。文章指出，中国的“强控制、弱治理”维稳体系注重迅速压制事态，而以《大卫法》为代表的美国体系则依赖法律程序和多方协作来解决问题。这种底层“政治操作系统”的差异，导致了在面对同样社会问题时完全不同的处理方式与结局。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - David Molak
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-08-07
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- David Molak
+products_models: '[]'
+project:
+- china-analysis
+- us-analysis
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=XRjgH-1jR1Y
+speaker: 徒步的騎手
 status: evergreen
+summary: 通过对比四川和美国德州的校园霸凌事件，本文深入剖析了两种截然不同的社会治理模式。文章指出，中国的“强控制、弱治理”维稳体系注重迅速压制事态，而以《大卫法》为代表的美国体系则依赖法律程序和多方协作来解决问题。这种底层“政治操作系统”的差异，导致了在面对同样社会问题时完全不同的处理方式与结局。
+tags:
+- control
+- rule-of-law
+- social
+- system
+title: 强控制与弱治理：从校园霸凌看中美两种“政治操作系统”的迥异结局
 ---
 
 ### 四川霸凌事件：一场“人心未死”的群体抗议

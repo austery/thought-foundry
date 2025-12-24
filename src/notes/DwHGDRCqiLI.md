@@ -1,54 +1,54 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Schroders
+- Norges Bank Investment Management
+- Citadel
+- Millennium
+- Blackstone
+- BlackRock
+- NATO
+- Cazenove
 date: '2024-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Longevity Imperative
+- The Anxious Generation
+- Ravenous
+- W Supremacy
+- Right Kind of Wrong
+people:
+- Peter Harrison
+- Bruno Schroder
+- Richard Oldfield
+- Jens Stoltenberg
+- Jonathan Haidt
+- Amy Edmondson
+products_models:
+- Bloomberg
+- MiFID
+project:
+- investment-strategy
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=DwHGDRCqiLI
 speaker: Norges Bank Investment Management
-tags:
-  - asset-management
-  - private-markets
-  - industry-disruption
-  - long-term-ownership
-  - geopolitical-risk
-title: 施罗德CEO彼得·哈里森：资产管理行业200年变迁与未来展望
-summary: 施罗德（Schroders）首席执行官彼得·哈里森深入探讨了这家拥有近200年历史的资产管理公司如何通过坚定所有权和持续变革保持领先。他分析了被动管理、私募市场崛起、费用下降等行业巨变，并对比了英国资本市场的衰落与美国市场的扩张。哈里森还分享了施罗德在技术、可持续性和团队建设方面的战略，以及对中国、印度等新兴市场的看法。他强调了适应性、创新和长期愿景在应对行业颠覆中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - geopolitics-watch
-people:
-  - Peter Harrison
-  - Bruno Schroder
-  - Richard Oldfield
-  - Jens Stoltenberg
-  - Jonathan Haidt
-  - Amy Edmondson
-companies_orgs:
-  - Schroders
-  - Norges Bank Investment Management
-  - Citadel
-  - Millennium
-  - Blackstone
-  - BlackRock
-  - NATO
-  - Cazenove
-products_models:
-  - Bloomberg
-  - MiFID
-media_books:
-  - The Longevity Imperative
-  - The Anxious Generation
-  - Ravenous
-  - W Supremacy
-  - Right Kind of Wrong
 status: evergreen
+summary: 施罗德（Schroders）首席执行官彼得·哈里森深入探讨了这家拥有近200年历史的资产管理公司如何通过坚定所有权和持续变革保持领先。他分析了被动管理、私募市场崛起、费用下降等行业巨变，并对比了英国资本市场的衰落与美国市场的扩张。哈里森还分享了施罗德在技术、可持续性和团队建设方面的战略，以及对中国、印度等新兴市场的看法。他强调了适应性、创新和长期愿景在应对行业颠覆中的关键作用。
+tags:
+- asset-management
+- geopolitical-risk
+- industry
+- long
+- market
+title: 施罗德CEO彼得·哈里森：资产管理行业200年变迁与未来展望
 ---
+
 ### 施罗德CEO彼得·哈里森谈资产管理行业的变迁与未来
 
 大家好，今天我们非常荣幸地邀请到彼得·哈里森（Peter Harrison）来到节目中。

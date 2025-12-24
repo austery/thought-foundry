@@ -1,41 +1,39 @@
 ---
-author: Veritasium
-date: '2025-01-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Ni82f1-cAXg
-speaker: Veritasium
-tags:
-  - veritasium
-  - cyanoacrylate
-  - polymer-chemistry
-  - adhesive-properties
-  - medical-adhesives
-  - sustainable-plastics
-title: 瞬干胶为何如此强大？从意外发现到医疗应用与塑料回收的未来
-summary: 本文深入探讨了瞬干胶（氰基丙烯酸酯）的起源、化学原理及其广泛应用。从其在二战期间的意外发现，到在医疗领域拯救生命，再到未来作为可回收塑料的潜力，文章揭示了这种强大粘合剂的独特之处、工作机制、优缺点，以及它如何启发我们以开放心态面对意外发现。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Harry Coover
-  - Fred Joyner
+category: technology
 companies_orgs:
-  - Eastman Kodak Company
-  - Mason and Hanger
-  - FDA
-  - US military
+- Eastman Kodak Company
+- Mason and Hanger
+- FDA
+- US military
+date: '2025-01-28'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Harry Coover
+- Fred Joyner
 products_models:
-  - Eastman 910 Adhesive
-  - Dermabond
-media_books: []
+- Eastman 910 Adhesive
+- Dermabond
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=Ni82f1-cAXg
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了瞬干胶（氰基丙烯酸酯）的起源、化学原理及其广泛应用。从其在二战期间的意外发现，到在医疗领域拯救生命，再到未来作为可回收塑料的潜力，文章揭示了这种强大粘合剂的独特之处、工作机制、优缺点，以及它如何启发我们以开放心态面对意外发现。
+tags:
+- canada
+- cyanoacrylate
+- llm
+- medical
+- science
+title: 瞬干胶为何如此强大？从意外发现到医疗应用与塑料回收的未来
 ---
+
 ### 瞬干胶的惊人强度与广泛应用
 
 这里有两个金属圆柱体和一滴瞬干胶。

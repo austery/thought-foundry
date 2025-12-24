@@ -1,35 +1,34 @@
 ---
-author: TED
+area: society-systems
+category: business
+companies_orgs:
+- Sustainable Energy For All
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kanika Chawla
+products_models: []
+project:
+- systems-thinking
+- entrepreneurship
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=DxFZ3ojl9yo
 speaker: TED
-tags:
-  - solar-revolution
-  - renewable-energy-transition
-  - economic-development
-  - business-models
-  - policy-innovation
-title: 印度太阳能革命：从宏伟承诺到全球领导力的经济驱动
-summary: 2014年，印度承诺在2022年前安装100吉瓦太阳能，这一宏伟目标曾引发世界争议。然而，印度最终在2025年2月实现了这一里程碑，解锁了900亿美元投资并创造了30万个就业岗位。本文深入探讨了印度太阳能革命成功的经济驱动因素，而非意识形态原因，并将其经验提炼为规划、创新和本地化三个层面，为其他发展中国家实现能源转型提供了宝贵启示，强调了发展中国家在全球能源转型中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-  - historical-insights
-people:
-  - Kanika Chawla
-companies_orgs:
-  - Sustainable Energy For All
-products_models: []
-media_books: []
 status: evergreen
+summary: 2014年，印度承诺在2022年前安装100吉瓦太阳能，这一宏伟目标曾引发世界争议。然而，印度最终在2025年2月实现了这一里程碑，解锁了900亿美元投资并创造了30万个就业岗位。本文深入探讨了印度太阳能革命成功的经济驱动因素，而非意识形态原因，并将其经验提炼为规划、创新和本地化三个层面，为其他发展中国家实现能源转型提供了宝贵启示，强调了发展中国家在全球能源转型中的关键作用。
+tags:
+- business-model
+- economic
+- policy
+- renewable-energy-transition
+- revolution
+title: 印度太阳能革命：从宏伟承诺到全球领导力的经济驱动
 ---
+
 ### 印度太阳能革命的宏伟承诺与里程碑
 
 2014年，印度承诺在2022年前安装100**吉瓦**（Gigawatts, GW: 电力容量单位，1吉瓦等于10亿瓦特）的太阳能发电量。

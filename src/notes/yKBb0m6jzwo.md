@@ -1,39 +1,38 @@
 ---
-author: 徒步的騎手
-date: 2025-04-12
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=yKBb0m6jzwo'
-speaker: 徒步的騎手
-tags:
-  - us-supreme-court
-  - alien-enemies-act
-  - presidential-power
-  - due-process
-  - immigration-policy
-  - habeas-corpus
-  - constitutional-crisis
-title: 美国最高法院裁决：川普启用《外敌法案》获开绿灯，但须遵守正当程序
-summary: 美国最高法院就川普政府启用《外敌法案》驱逐非法移民一案做出终审判决。判决一方面为川普在非战争时期使用该法案开了绿灯，扩大了总统权力；另一方面，又强制要求政府必须遵守“正当程序”，给予被驱逐者在联邦法院申请“人身保护令”的机会，从而限制了总统的任意驱逐行为。这一判决导致原告和被告双方都宣布胜利，并引发了对“宪法危机”论的重新审视，凸显了美国宪政制度在复杂司法实践中的韧性与智慧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Kilmar Garcia
+category: geopolitics
 companies_orgs:
-  - 美国国务院
-  - 美国国土安全部
-  - 美国移民与海关执法局
-products_models: '[]'
+- 美国国务院
+- 美国国土安全部
+- 美国移民与海关执法局
+date: 2025-04-12
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Donald Trump
+- Kilmar Garcia
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=yKBb0m6jzwo
+speaker: 徒步的騎手
 status: evergreen
+summary: 美国最高法院就川普政府启用《外敌法案》驱逐非法移民一案做出终审判决。判决一方面为川普在非战争时期使用该法案开了绿灯，扩大了总统权力；另一方面，又强制要求政府必须遵守“正当程序”，给予被驱逐者在联邦法院申请“人身保护令”的机会，从而限制了总统的任意驱逐行为。这一判决导致原告和被告双方都宣布胜利，并引发了对“宪法危机”论的重新审视，凸显了美国宪政制度在复杂司法实践中的韧性与智慧。
+tags:
+- alien-enemies-act
+- canada
+- crisis
+- geopolitical
+- habeas-corpu
+- immigration-policy
+- presidential-power
+title: 美国最高法院裁决：川普启用《外敌法案》获开绿灯，但须遵守正当程序
 ---
 
 ### 美国最高法院就《外敌法案》作出关键判决

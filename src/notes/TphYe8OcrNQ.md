@@ -1,77 +1,77 @@
 ---
-author: FearNation 世界苦茶
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 美国国家亚洲研究局
+- 中国南方电网
+- 美国外交关系协会
+- Nvidia
+- 华为
+- 中芯国际
+- 乔治城大学安全与新兴技术中心
+- 新美国安全中心
+- 布鲁金斯学会
+- 阿里
+- 腾讯
+- ByteDance
+- 台积电
+- 荣顶集团
+- 世界银行
+- 国际货币基金组织
+- DeepSeek
+- 美国众议院中共问题特设委员会
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《All Real Roads Lead to China - China's Borderlands Strategy of Integration in Laos》
+- 《Can China continue to export its way out of its property slump》
+- 《China's AI Chip Deficit - Why Huawei Can't catch NVIDIA and EU As export controls
+  should remain》
+- 《Hong Kong's Freedoms - What China Promised and How It's Cracking Down》
+- 《US NVIDIA Chips to China - What does that mean for the AI race?》
+- Follow the Money
+- 基督教科学真言报
+- VOX
+- 美联社
+people:
+- 伊丽莎白·切尔基亚
+- John Villaseñor
+- John Moolenaar
+- 黄仁勋
+- Michael Pettis
+- 特朗普
+- Xi Jinping
+- 黎智英
+products_models:
+- H200
+- H20
+- 升腾950
+- 升腾910C
+- Mate60
+- XII Colossus
+- CUDA
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=TphYe8OcrNQ
 speaker: FearNation 世界苦茶
-tags:
-  - ai-chip
-  - export-control
-  - geopolitics
-  - economic-policy
-  - supply-chain
-  - trade-war
-  - authoritarianism
-title: 中美芯片与AI战前沿：多维视角下的全球观察
-summary: 本期节目汇总了全球智库和媒体对中国问题的深度分析，聚焦中美在芯片和AI领域的竞争。内容涵盖中国在中老铁路上的边疆整合战略、中国经济如何摆脱房地产低迷的出口依赖困境、美国对华AI芯片出口政策的战略博弈，以及香港自由度受侵蚀后的地缘政治角色。节目深入探讨了这些议题的复杂性、潜在盲点及关键假设，为听众提供了多角度的观察与思考。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-  - china-analysis
-  - us-analysis
-people:
-  - 伊丽莎白·切尔基亚
-  - John Villaseñor
-  - John Moolenaar
-  - 黄仁勋
-  - Michael Pettis
-  - 特朗普
-  - 习近平
-  - 黎智英
-companies_orgs:
-  - 美国国家亚洲研究局
-  - 中国南方电网
-  - 美国外交关系协会
-  - 英伟达
-  - 华为
-  - 中芯国际
-  - 乔治城大学安全与新兴技术中心
-  - 新美国安全中心
-  - 布鲁金斯学会
-  - 阿里
-  - 腾讯
-  - 字节跳动
-  - 台积电
-  - 荣顶集团
-  - 世界银行
-  - 国际货币基金组织
-  - DeepSeek
-  - 美国众议院中共问题特设委员会
-products_models:
-  - H200
-  - H20
-  - 升腾950
-  - 升腾910C
-  - Mate60
-  - XII Colossus
-  - CUDA
-media_books:
-  - 《All Real Roads Lead to China - China's Borderlands Strategy of Integration in Laos》
-  - 《Can China continue to export its way out of its property slump》
-  - 《China's AI Chip Deficit - Why Huawei Can't catch NVIDIA and EU As export controls should remain》
-  - 《Hong Kong's Freedoms - What China Promised and How It's Cracking Down》
-  - 《US NVIDIA Chips to China - What does that mean for the AI race?》
-  - Follow the Money
-  - 基督教科学真言报
-  - VOX
-  - 美联社
 status: evergreen
+summary: 本期节目汇总了全球智库和媒体对中国问题的深度分析，聚焦中美在芯片和AI领域的竞争。内容涵盖中国在中老铁路上的边疆整合战略、中国经济如何摆脱房地产低迷的出口依赖困境、美国对华AI芯片出口政策的战略博弈，以及香港自由度受侵蚀后的地缘政治角色。节目深入探讨了这些议题的复杂性、潜在盲点及关键假设，为听众提供了多角度的观察与思考。
+tags:
+- ai-chip
+- authoritarianism
+- economic-policy
+- export-control
+- supply-chain
+- trade-war
+title: 中美芯片与AI战前沿：多维视角下的全球观察
 ---
+
 大家好，欢迎来到本期的世界苦茶观察线节目。观察线节目汇总全球智库、国际媒体深度分析中国问题的内容。该节目为AI制作，播放速度照顾收听较慢听众，如果你觉得太慢可以调整至1.25倍。AI脚本和声音会不断优化。以下是精选的全世界对中国的分析，集中关于美国对中国芯片和AI竞争的内容。
 
 ### 中老铁路：中国的边疆整合战略

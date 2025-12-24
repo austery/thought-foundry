@@ -1,31 +1,30 @@
 ---
-title: 发条宇宙与自由意志：经典力学下的决定论之辩
-summary: 肖恩·卡罗尔探讨了经典力学如何引出宇宙决定论，即“发条宇宙”的理念。他解释了拉普拉斯妖及人类自由意志与物理定律之间的兼容性。
 area: null
 category: null
-project: []
-tags:
-- classical-mechanics
-- determinism
-- free-will
-- laplaces-demon
-- philosophy-of-physics
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- big-think
 date: '2025-10-16'
-author: Big Think
-speaker: Big Think
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- big-think
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bFMl6tGBIiU
+speaker: Big Think
 status: evergreen
+summary: 肖恩·卡罗尔探讨了经典力学如何引出宇宙决定论，即“发条宇宙”的理念。他解释了拉普拉斯妖及人类自由意志与物理定律之间的兼容性。
+tags:
+- determinism
+- free-will
+- laplaces-demon
+- philosophy
+- society
+title: 发条宇宙与自由意志：经典力学下的决定论之辩
 ---
+
 ### 经典力学：决定论的宇宙蓝图
 
 The structure of **classical mechanics** (经典力学: 描述宏观物体运动的物理理论) implies that if you knew the position and velocity, not just of one particle, but of every particle in the universe, then the laws of physics would determine what happens next, at the next moment and the next moment, and infinitely far into the future, and for that matter, indefinitely far into the past. This might bother you a little bit if you think, "Wait a minute, I'm a person, I'm a human being, I have the ability to make choices. I'm not determined by the laws of physics." Both scientists and philosophers have thought about that, and they still don't agree on what the right way to think about it is. I'm Sean Carroll, a physicist and philosopher at Johns Hopkins University, host of the "Mindscape Podcast," and author of "The Biggest Ideas in the Universe" series, including "Space, Time, and Motion" and "Quanta and Fields."

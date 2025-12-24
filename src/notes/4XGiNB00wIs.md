@@ -1,43 +1,43 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: culture
+companies_orgs:
+- Norges Bank Investment Management
+- Netflix
+- INSEAD
 date: '2024-08-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Culture Map
+- No Rules Rules
+people:
+- Erin Meyer
+- Nikolai
+- Reed Hastings
+- Sabine
+- John
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=4XGiNB00wIs
 speaker: Norges Bank Investment Management
-tags:
-  - cross-cultural-communication
-  - organizational-culture
-  - leadership-development
-  - global-teams
-  - feedback-strategies
-title: 艾琳·迈耶谈跨文化管理：沟通、信任与领导力的八个维度
-summary: 本期播客邀请到跨文化管理专家艾琳·迈耶，她深入探讨了其著作《文化地图》中提出的八个文化维度。迈耶教授详细阐述了低语境与高语境沟通、反馈的艺术（包括“反馈四A原则”）、认知与情感信任的差异，以及平等主义与等级制度对领导力的影响。她还分析了历史、宗教和互联网如何塑造文化差异，并为在全球化环境中工作的年轻人提供了宝贵建议，强调了理解文化对有效沟通和建立关系的重要性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Erin Meyer
-  - Nikolai
-  - Reed Hastings
-  - Sabine
-  - John
-companies_orgs:
-  - Norges Bank Investment Management
-  - Netflix
-  - INSEAD
-products_models: []
-media_books:
-  - The Culture Map
-  - No Rules Rules
 status: evergreen
+summary: 本期播客邀请到跨文化管理专家艾琳·迈耶，她深入探讨了其著作《文化地图》中提出的八个文化维度。迈耶教授详细阐述了低语境与高语境沟通、反馈的艺术（包括“反馈四A原则”）、认知与情感信任的差异，以及平等主义与等级制度对领导力的影响。她还分析了历史、宗教和互联网如何塑造文化差异，并为在全球化环境中工作的年轻人提供了宝贵建议，强调了理解文化对有效沟通和建立关系的重要性。
+tags:
+- cultural
+- global
+- leadership-development
+- organizational-culture
+- strategy
+title: 艾琳·迈耶谈跨文化管理：沟通、信任与领导力的八个维度
 ---
+
 ### 播客开场与《文化地图》的灵感来源
 
 主持人: 大家好，欢迎收听我们的播客《In Good Company》。今天我们邀请到一位特别嘉宾，艾琳·迈耶（Erin Meyer），她是全球领先的跨文化管理专家之一，也是我最喜欢的书之一《文化地图》（The Culture Map）的作者。艾琳，是什么启发您写这本书的呢？

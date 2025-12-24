@@ -1,47 +1,47 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Numora
+- Bloomberg
 date: '2025-07-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg.com/odlots
+- Discord
+people:
+- Charlie McElligott
+- Tracy Alloway
+- Joe Weisenthal
+- Jerome Powell
+- Waller
+- Donald Trump
+products_models:
+- Odd Lots Podcast
+- VIX index
+- NASDAQ
+- S&P
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=m9aA1ei9R4o
 speaker: Bloomberg Podcasts
-tags:
-  - stock-market-rally
-  - market-volatility
-  - corporate-buybacks
-  - fed-monetary-policy
-  - tariff-impact
-title: 股市为何持续上涨？野村策略师深度解析市场非直觉动力与潜在风险
-summary: 野村证券跨资产宏观策略师Charlie McElligott在Odd Lots播客中，深入探讨了在2025年全球市场面临诸多不确定性下，股市仍能屡创新高的非直觉原因。他指出，企业回购成为股票需求的最大来源，以及投资者将卖出波动性作为新的固定收益策略，共同推动了市场上涨。McElligott还分析了美联储政策、劳动力市场变化以及政治事件（如特朗普的政策）如何影响市场情绪和交易行为，并警告当前市场过度乐观可能为未来的回调埋下伏笔。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Charlie McElligott
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Jerome Powell
-  - Waller
-  - Donald Trump
-companies_orgs:
-  - Numora
-  - Bloomberg
-products_models:
-  - Odd Lots Podcast
-  - VIX index
-  - NASDAQ
-  - S&P
-media_books:
-  - Bloomberg.com/odlots
-  - Discord
 status: evergreen
+summary: 野村证券跨资产宏观策略师Charlie McElligott在Odd Lots播客中，深入探讨了在2025年全球市场面临诸多不确定性下，股市仍能屡创新高的非直觉原因。他指出，企业回购成为股票需求的最大来源，以及投资者将卖出波动性作为新的固定收益策略，共同推动了市场上涨。McElligott还分析了美联储政策、劳动力市场变化以及政治事件（如特朗普的政策）如何影响市场情绪和交易行为，并警告当前市场过度乐观可能为未来的回调埋下伏笔。
+tags:
+- corporate
+- fed-monetary-policy
+- market-volatility
+- stock-market-rally
+- tariff-impact
+title: 股市为何持续上涨？野村策略师深度解析市场非直觉动力与潜在风险
 ---
+
 ### 市场非直觉上涨：2025年的反常现象
 
 大家好，Odd Lots的听众们。你们即将听到一期非常特别的播客节目。这期节目是我们在6月26日纽约的现场活动中录制的。

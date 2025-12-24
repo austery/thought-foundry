@@ -1,47 +1,47 @@
 ---
-author: New York Times Podcasts
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=oD0Ig8Ku77U'
-speaker: New York Times Podcasts
-tags:
-  - home-improvement
-  - diy
-  - tool-selection
-  - basic-toolbox
-  - power-tools
-title: 如何成为一名居家能手：从基础工具到电动工具的进阶指南
-summary: 本期节目邀请了居家修缮专家Doug Mahoney，深入探讨了如何从零开始建立一个基础工具箱，以及如何逐步进阶到电动工具。节目强调了成为居家能手不仅能省钱，还能增强自主能力，并提供了详细的工具选择建议、购买策略和重要的安全提示。
-insight: ''
-draft: true
-series: ''
-category: general
 area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Christine Sir Cleette
-  - Kyra Blackwell
-  - Rosie Garren
-  - Nick Offerman
-  - Doug Mahoney
+category: general
 companies_orgs:
-  - Wire Cutter
-  - Home Depot
-  - DeWalt
-  - Fine
-products_models:
-  - 12vt DeWalt
-  - circular saw
-  - jigsaw
-  - orbital sander
-  - reciprocating saw
-  - oscillating multi-tool
+- Wire Cutter
+- Home Depot
+- DeWalt
+- Fine
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Wire Cutter Show
+- The Wire Cutter Show
+people:
+- Christine Sir Cleette
+- Kyra Blackwell
+- Rosie Garren
+- Nick Offerman
+- Doug Mahoney
+products_models:
+- 12vt DeWalt
+- circular saw
+- jigsaw
+- orbital sander
+- reciprocating saw
+- oscillating multi-tool
+project:
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=oD0Ig8Ku77U
+speaker: New York Times Podcasts
 status: evergreen
+summary: 本期节目邀请了居家修缮专家Doug Mahoney，深入探讨了如何从零开始建立一个基础工具箱，以及如何逐步进阶到电动工具。节目强调了成为居家能手不仅能省钱，还能增强自主能力，并提供了详细的工具选择建议、购买策略和重要的安全提示。
+tags:
+- life
+- llm
+- power
+- society
+- tool
+title: 如何成为一名居家能手：从基础工具到电动工具的进阶指南
 ---
+
 ### 节目开场与嘉宾介绍
 
 Christine Sir Cleette：我是Christine Sir Cleette。

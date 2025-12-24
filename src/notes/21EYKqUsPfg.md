@@ -1,47 +1,44 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Google DeepMind
 date: '2025-09-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Richard Sutton
+- Alan Turing
+- John McCarthy
+- Gerry Tesauro
+- Toby Ord
+- Joseph Henrich
+products_models:
+- TD learning
+- policy gradient methods
+- AlphaGo
+- AlphaZero
+- MuZero
+- TD-Gammon
+- GPT-4
+- International Math Olympiad
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=21EYKqUsPfg
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - reinforcement-learning
-  - continual-learning
-  - world-model
-  - agi
-title: Richard Sutton：强化学习之父为何认为大型语言模型是死胡同
-summary: 强化学习（RL）的奠基人之一**Richard Sutton**对当前大型语言模型（LLM）主导的AI范式提出了深刻质疑。他认为LLM缺乏**世界模型**和明确目标，仅通过模仿人类行为学习，而非从真实经验中获取知识。Sutton强调RL作为基础AI的重要性，倡导基于经验的**持续学习**和通用原则。他探讨了“苦涩的教训”在LLM上的应用，并展望了**数字智能**时代AI的演进、知识共享的挑战以及**AI接替**人类的必然性，呼吁以积极心态面对这一宇宙级转变。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Richard Sutton
-  - Dwarkesh Patel
-  - Alan Turing
-  - John McCarthy
-  - Gerry Tesauro
-  - Toby Ord
-  - Joseph Henrich
-companies_orgs:
-  - Google DeepMind
-products_models:
-  - TD learning
-  - policy gradient methods
-  - AlphaGo
-  - AlphaZero
-  - MuZero
-  - TD-Gammon
-  - GPT-4
-  - International Math Olympiad
-media_books: []
 status: evergreen
+summary: 强化学习（RL）的奠基人之一**Richard Sutton**对当前大型语言模型（LLM）主导的AI范式提出了深刻质疑。他认为LLM缺乏**世界模型**和明确目标，仅通过模仿人类行为学习，而非从真实经验中获取知识。Sutton强调RL作为基础AI的重要性，倡导基于经验的**持续学习**和通用原则。他探讨了“苦涩的教训”在LLM上的应用，并展望了**数字智能**时代AI的演进、知识共享的挑战以及**AI接替**人类的必然性，呼吁以积极心态面对这一宇宙级转变。
+tags:
+- agi
+- learning
+- reinforcement-learning
+- world-model
+title: Richard Sutton：强化学习之父为何认为大型语言模型是死胡同
 ---
+
 ### 强化学习与大型语言模型的本质差异
 
 今天，我与**Richard Sutton**进行了一次对话，他是**强化学习**（RL: 一种机器学习范式，智能体通过与环境互动，根据奖励信号学习最优行为策略）的奠基人之一，也是**TD学习**（Temporal Difference Learning: 强化学习中的一种核心算法，用于从经验中学习价值函数）和**策略梯度方法**（Policy Gradient Methods: 强化学习中直接优化策略以最大化预期回报的算法）等诸多核心技术的发明者。为此，他荣获了今年的**图灵奖**（Turing Award: 计算机科学领域的最高荣誉，常被称为“计算机科学界的诺贝尔奖”），这被誉为计算机科学界的诺贝尔奖。**Richard**，恭喜您！谢谢**Dwarkesh**。感谢您来参加播客。这是我的荣幸。

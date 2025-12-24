@@ -1,39 +1,39 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: culture
+companies_orgs:
+- 中华人民共和国卫生部
+- 宁陵县人民法院
 date: '2024-01-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中原纪事》
+people:
+- 艾晓明
+- 柴静
+- 高耀洁
+- 吴仪
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=wrflkuSJEs4
 speaker: 柴静 Chai Jing
-tags:
-  - public-health-crisis
-  - blood-selling-economy
-  - social-stigma
-  - grassroots-activism
-  - historical-trauma
-title: 《中原纪事》：河南“血祸”下的艾滋病村悲剧与抗争
-summary: 本篇内容源自艾晓明导演的纪录片《中原纪事》，深刻揭示了上世纪八九十年代，河南省因不规范的采血、输血活动（即“血浆经济”）而导致的艾滋病大面积传播的悲剧。文章通过大量村民和当事人的亲口讲述，再现了他们在疾病、贫困、社会歧视与官方压制下的艰难处境，以及为生存和正义而进行的无畏抗争，记录了一段沉重而不可遗忘的中国当代史。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 艾晓明
-  - 柴静
-  - 高耀洁
-  - 吴仪
-companies_orgs:
-  - 中华人民共和国卫生部
-  - 宁陵县人民法院
-products_models: []
-media_books:
-  - 《中原纪事》
 status: evergreen
+summary: 本篇内容源自艾晓明导演的纪录片《中原纪事》，深刻揭示了上世纪八九十年代，河南省因不规范的采血、输血活动（即“血浆经济”）而导致的艾滋病大面积传播的悲剧。文章通过大量村民和当事人的亲口讲述，再现了他们在疾病、贫困、社会歧视与官方压制下的艰难处境，以及为生存和正义而进行的无畏抗争，记录了一段沉重而不可遗忘的中国当代史。
+tags:
+- economy
+- grassroots-activism
+- historical
+- public-health-crisis
+- social
+title: 《中原纪事》：河南“血祸”下的艾滋病村悲剧与抗争
 ---
+
 ### “血浆经济”的起源与泛滥
 
 在一个村子里，三千多口人，一天就有五百多人去卖血。后来查出来有八百多人感染了艾滋病，还有五百人没有检查，情况非常严重。

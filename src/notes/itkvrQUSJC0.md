@@ -1,34 +1,33 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs: []
 date: '2025-02-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Satya Nadella
+- Chan
+- fault-tolerant-computing
+products_models:
+- Majorana 1
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=itkvrQUSJC0
 speaker: Dwarkesh Patel
-tags:
-  - quantum-computing
-  - majorana-zero-modes
-  - ai-hpc-synergy
-  - fault-tolerant-computing
-title: 萨提亚·纳德拉展示首款马约拉纳 1 号量子计算芯片
-summary: 本文介绍了量子计算领域的重大突破，特别是通过制造**马约拉纳零模**实现了**拓扑相**的物理学进展，并成功开发了**马约拉纳一号**芯片。这一成就为构建**实用规模**和**容错量子计算机**奠定了基础，预计在 2027-2029 年实现。同时，文章强调了**AI**、**HPC**与**量子计算**的协同作用，预示着在模拟、化学、物理等领域将有更广泛的应用前景。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Satya Nadella
-  - Dwarkesh Patel
-  - Chan
-companies_orgs: []
-products_models:
-  - Majorana 1
-media_books: []
 status: evergreen
+summary: 本文介绍了量子计算领域的重大突破，特别是通过制造**马约拉纳零模**实现了**拓扑相**的物理学进展，并成功开发了**马约拉纳一号**芯片。这一成就为构建**实用规模**和**容错量子计算机**奠定了基础，预计在
+  2027-2029 年实现。同时，文章强调了**AI**、**HPC**与**量子计算**的协同作用，预示着在模拟、化学、物理等领域将有更广泛的应用前景。
+tags:
+- llm
+- majorana-zero-mode
+- quantum-computing
+title: 萨提亚·纳德拉展示首款马约拉纳 1 号量子计算芯片
 ---
+
 ### 核心突破
 我相信我们现在就到了。是的，就是这样。我很难想象我们竟然能在如此小的设备中构建一个拥有**百万量子比特**的量子计算机，这简直令人难以置信。我认为这就是问题的关键：除非我们能够做到这一点，否则你无法梦想构建一个**实用规模的量子计算机**（Utility-Scale Quantum Computer: 指能够解决实际问题，并比经典计算机具有显著优势的量子计算机）。你提到最终的百万量子比特将集成在一块芯片上。
 

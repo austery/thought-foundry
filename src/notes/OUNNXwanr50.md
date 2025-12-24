@@ -1,49 +1,49 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- ADP
+- Bloomberg
+- 美联储
 date: '2025-03-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《鹤皮书》
+people:
+- Donald Trump
+- Joe Biden
+products_models:
+- WTI
+- S&P 500
+- Nasdaq
+- Dow Jones
+- DXY
+- VIX
+- Crackspread
+- EFA
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=OUNNXwanr50
 speaker: 投资TALK君
-tags:
-  - us-stock-market
-  - economic-data
-  - inflation-outlook
-  - global-liquidity
-  - market-sentiment
-  - tariff-impact
-title: 从欧洲股市走势看美股回调：非农数据与全球流动性展望
-summary: 本期视频深入分析了近期欧洲股市的强劲表现及其对美股科技股回调的启示。结合即将公布的ADP就业数据、美联储鹤皮书以及贸易数据，探讨了工资上涨、关税对通胀和企业盈利的影响。同时，视频也关注了全球流动性的改善、美元走弱对美股的利好作用，并分析了市场情绪指标，对未来非农数据可能带来的市场波动进行了展望，为投资者提供了应对策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Donald Trump
-  - Joe Biden
-companies_orgs:
-  - Nvidia
-  - ADP
-  - Bloomberg
-  - 美联储
-products_models:
-  - WTI
-  - S&P 500
-  - Nasdaq
-  - Dow Jones
-  - DXY
-  - VIX
-  - Crackspread
-  - EFA
-media_books:
-  - 《鹤皮书》
 status: evergreen
+summary: 本期视频深入分析了近期欧洲股市的强劲表现及其对美股科技股回调的启示。结合即将公布的ADP就业数据、美联储鹤皮书以及贸易数据，探讨了工资上涨、关税对通胀和企业盈利的影响。同时，视频也关注了全球流动性的改善、美元走弱对美股的利好作用，并分析了市场情绪指标，对未来非农数据可能带来的市场波动进行了展望，为投资者提供了应对策略。
+tags:
+- economic-datum
+- global
+- inflation-outlook
+- market-sentiment
+- tariff-impact
+- us-stock-market
+title: 从欧洲股市走势看美股回调：非农数据与全球流动性展望
 ---
+
 ### 开篇与市场概览
 
 欢迎来到一个不单止聊新闻的专业美股频道。我是市场分析员小陶。最近市场新闻较多，无论是正侧面、宏观面还是一些基本面，我都积极为大家更新视频，希望能继续保持这份积极性，当然这也离不开大家每期视频的点赞。今天我们将从欧洲股市的走势出发，回过头来看过去一两周美股科技股的回调，并关注周三公布的“小非农”数据（ADP数据）中的工资上涨指标和《鹤皮书》中企业对关税涨价转移能力的看法。最后，我们将对周四和周五的市场数据公布做一些准备和展望。

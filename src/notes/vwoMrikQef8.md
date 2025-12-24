@@ -1,128 +1,128 @@
 ---
-author: Amit Kukreja
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- S&P 500
+- Fundstrat
+- NYU
+- Berkshire Hathaway
+- Federal Reserve
+- X
+- Goldman Sachs
+- BlackRock
+- JP Morgan
+- Harvard
+- Rutgers University
+- TSMC
+- OpenAI
+- Anthropic
+- Adobe
+- Bureau of Labor Statistics (BLS)
+- Walmart
+- ADP
+- White House
+- Supreme Court
+- Microsoft
+- Apple
+- Google
+- Nvidia
+- Tesla
+- Meta
+- Oracle
+- Amazon
+- Palantir
+- Rocket Lab
+- Robinhood
+- Netflix
+- SoFi
+- BigBear.ai
+- NuBank
+- UnitedHealth Group (UNH)
+- Lemonade
+- CoreWeave
+- Eli Lilly
+- Super Micro Computer (SMCI)
+- AMD
+- Micron
+- Figma
+- PayPal
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Prof G Podcast
+- The Wall Street Journal
+- Substack
+people:
+- Warren Buffett
+- Tom Lee
+- Ashwath Damodaran
+- Elon Musk
+- Ron Baron
+- Sundar Pichai
+- Charlie Munger
+- Howard Marks
+- David Tepper
+- Michael Burry
+- Peter Thiel
+- Bill Gates
+- Donald Trump
+- Kevin Hassett
+- Claudia Sahm
+- Jerome Powell
+- Logan (Fed President)
+- Michael Saylor
+- Hunter Horsley
+- Jamie Dimon
+- Paul Krugman
+- Gavin Baker
+- Ro Khanna
+- David Friedberg
+- Bill Ackman
+- Scott Galloway
+- Andrew Huberman
+- Tim Cook
+- Jensen Huang
+- Lisa Su
+- Larry Ellison
+- Brad Gerstner
+products_models:
+- Bitcoin
+- Ethereum
+- Pokemon cards
+- TPU
+- GPU
+- T-bills
+- Gemini 3.0
+- IBIT
+- H100
+- Blackwell
+- FSD (Full Self-Driving)
+- Optimus
+- LLM (Large Language Model)
+- iPhone
+- Vision Pro
+- Quest
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=vwoMrikQef8
 speaker: Amit Kukreja
-tags:
-  - ai-bubble-debate
-  - market-analysis
-  - federal-reserve-policy
-  - consumer-debt
-  - investment-strategy
-title: 巴菲特大举买入谷歌，英伟达财报来袭，市场年底行情将走向何方？
-summary: 本周市场分析深入探讨了伯克希尔哈撒韦公司对谷歌的巨额投资，这被视为对人工智能（AI）赛道的有力验证。文章剖析了当前关于 AI 是否存在泡沫的激烈辩论，并结合了纽约大学教授阿斯沃斯·达摩达兰的悲观观点与市场中的乐观情绪。同时，报告关注即将发布的英伟达财报，以及 Fundstrat 的汤姆·李对年底市场上涨的预测。宏观层面，文章分析了美联储的利率政策、日益严重的消费者债务问题以及“可负担性”如何成为政治议题，为投资者全面解读了当前复杂多变的市场环境。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Warren Buffett
-  - Tom Lee
-  - Ashwath Damodaran
-  - Elon Musk
-  - Ron Baron
-  - Sundar Pichai
-  - Charlie Munger
-  - Howard Marks
-  - David Tepper
-  - Michael Burry
-  - Peter Thiel
-  - Bill Gates
-  - Donald Trump
-  - Kevin Hassett
-  - Claudia Sahm
-  - Jerome Powell
-  - Logan (Fed President)
-  - Michael Saylor
-  - Hunter Horsley
-  - Jamie Dimon
-  - Paul Krugman
-  - Gavin Baker
-  - Ro Khanna
-  - David Friedberg
-  - Bill Ackman
-  - Scott Galloway
-  - Andrew Huberman
-  - Tim Cook
-  - Jensen Huang
-  - Lisa Su
-  - Larry Ellison
-  - Brad Gerstner
-companies_orgs:
-  - S&P 500
-  - Fundstrat
-  - NYU
-  - Berkshire Hathaway
-  - Federal Reserve
-  - X
-  - Goldman Sachs
-  - BlackRock
-  - JP Morgan
-  - Harvard
-  - Rutgers University
-  - TSMC
-  - OpenAI
-  - Anthropic
-  - Adobe
-  - Bureau of Labor Statistics (BLS)
-  - Walmart
-  - ADP
-  - White House
-  - Supreme Court
-  - Microsoft
-  - Apple
-  - Google
-  - Nvidia
-  - Tesla
-  - Meta
-  - Oracle
-  - Amazon
-  - Palantir
-  - Rocket Lab
-  - Robinhood
-  - Netflix
-  - SoFi
-  - BigBear.ai
-  - NuBank
-  - UnitedHealth Group (UNH)
-  - Lemonade
-  - CoreWeave
-  - Eli Lilly
-  - Super Micro Computer (SMCI)
-  - AMD
-  - Micron
-  - Figma
-  - PayPal
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Pokemon cards
-  - TPU
-  - GPU
-  - T-bills
-  - Gemini 3.0
-  - IBIT
-  - H100
-  - Blackwell
-  - FSD (Full Self-Driving)
-  - Optimus
-  - LLM (Large Language Model)
-  - iPhone
-  - Vision Pro
-  - Quest
-media_books:
-  - Prof G Podcast
-  - The Wall Street Journal
-  - Substack
 status: evergreen
+summary: 本周市场分析深入探讨了伯克希尔哈撒韦公司对谷歌的巨额投资，这被视为对人工智能（AI）赛道的有力验证。文章剖析了当前关于 AI 是否存在泡沫的激烈辩论，并结合了纽约大学教授阿斯沃斯·达摩达兰的悲观观点与市场中的乐观情绪。同时，报告关注即将发布的英伟达财报，以及
+  Fundstrat 的汤姆·李对年底市场上涨的预测。宏观层面，文章分析了美联储的利率政策、日益严重的消费者债务问题以及“可负担性”如何成为政治议题，为投资者全面解读了当前复杂多变的市场环境。
+tags:
+- ai-bubble-debate
+- debt
+- federal-reserve-policy
+- market-analysis
+title: 巴菲特大举买入谷歌，英伟达财报来袭，市场年底行情将走向何方？
 ---
+
 ### 市场回顾与展望：在震荡中迎接英伟达财报
 
 大家好，欢迎回到新一期的市场前瞻。我们即将进入十一月的第三周，过去两周的股票市场显然相当动荡。目前**标普500指数**（Standard & Poor's 500 Index: 追踪在美国证券交易所上市的500家大公司股票表现的股票市场指数）的点位在672，基本上和两周前持平，但期间的走势堪称疯狂。

@@ -1,106 +1,107 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Apple
+- Google
+- Statsig
+- Linear
+- Uber
+- ARM
+- HP
+- Intel
+- Cray
+- Tesla
+- Google Brain
+- SciFive
+- Modular
+- Anthropic
+- Notion
+- Brex
+- Microsoft
+- Nvidia
+- AMD
+- AWS
+- Meta
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Pragmatic Engineer
+- Beyond Vibe Coding
+people:
+- Chris Lattner
+- Richard Stallman
+- Vicram Adve
+- Steve McConnell
+- Eddie Osmani
+products_models:
+- Swift
+- Mojo
+- LLVM
+- TensorFlow
+- GCC
+- Java
+- Rust
+- C++
+- C
+- Linux
+- autoconf
+- Objective-C
+- Clang
+- PowerPC
+- Mac OS
+- OpenGL
+- iPhone
+- iPhone 5S
+- Xcode
+- Haskell
+- TypeScript
+- Dart
+- Go
+- JavaScript
+- Python
+- CUDA
+- TPU
+- OpenCL
+- Cafe
+- MLIR
+- RISC-V
+- XLA
+- Metal
+- MLX
+- Rocm
+- Trinium
+- PyTorch
+- ONNX Runtime
+- Inception v1
+- Ampere
+- Hopper
+- Blackwell
+- Zig
+- Xcode Playgrounds
+- SwiftUI
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Fxp3131i1yE
 speaker: The Pragmatic Engineer
-tags:
-  - compiler-design
-  - programming-language-design
-  - ai-engineering
-  - software-scalability
-  - open-source-community
-title: Chris Lattner 访谈：从 LLVM、Swift 到 Mojo 的创世之路与高性能 AI 工程
-summary: Chris Lattner，这位过去二十年中最具影响力的编程语言和编译器技术巨擘，分享了他创作 LLVM、Swift 和 Mojo 的心路历程。本访谈深入探讨了 LLVM 如何在苹果公司内部从一个实验项目成长为核心技术，Swift 在保密状态下诞生并最终重塑 iOS 开发的幕后故事，以及新语言 Mojo 为何旨在解决 AI 工程中的性能与可扩展性难题。Lattner 还分享了他对语言设计、技术普及、AI 编程工具以及人才培养的深刻见解。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Chris Lattner
-  - Richard Stallman
-  - Vicram Adve
-  - Steve McConnell
-  - Eddie Osmani
-companies_orgs:
-  - Apple
-  - Google
-  - Statsig
-  - Linear
-  - Uber
-  - ARM
-  - HP
-  - Intel
-  - Cray
-  - Tesla
-  - Google Brain
-  - SciFive
-  - Modular
-  - Anthropic
-  - Notion
-  - Brex
-  - Microsoft
-  - Nvidia
-  - AMD
-  - AWS
-  - Meta
-products_models:
-  - Swift
-  - Mojo
-  - LLVM
-  - TensorFlow
-  - GCC
-  - Java
-  - Rust
-  - C++
-  - C
-  - Linux
-  - autoconf
-  - Objective-C
-  - Clang
-  - PowerPC
-  - Mac OS
-  - OpenGL
-  - iPhone
-  - iPhone 5S
-  - Xcode
-  - Haskell
-  - TypeScript
-  - Dart
-  - Go
-  - JavaScript
-  - Python
-  - CUDA
-  - TPU
-  - OpenCL
-  - Cafe
-  - MLIR
-  - RISC-V
-  - XLA
-  - Metal
-  - MLX
-  - Rocm
-  - Trinium
-  - PyTorch
-  - ONNX Runtime
-  - Inception v1
-  - Ampere
-  - Hopper
-  - Blackwell
-  - Zig
-  - Xcode Playgrounds
-  - SwiftUI
-media_books:
-  - The Pragmatic Engineer
-  - Beyond Vibe Coding
 status: evergreen
+summary: Chris Lattner，这位过去二十年中最具影响力的编程语言和编译器技术巨擘，分享了他创作 LLVM、Swift 和 Mojo 的心路历程。本访谈深入探讨了
+  LLVM 如何在苹果公司内部从一个实验项目成长为核心技术，Swift 在保密状态下诞生并最终重塑 iOS 开发的幕后故事，以及新语言 Mojo 为何旨在解决 AI
+  工程中的性能与可扩展性难题。Lattner 还分享了他对语言设计、技术普及、AI 编程工具以及人才培养的深刻见解。
+tags:
+- design
+- engineering
+- open-source-community
+- software
+title: Chris Lattner 访谈：从 LLVM、Swift 到 Mojo 的创世之路与高性能 AI 工程
 ---
+
 ### 访谈介绍
 
 **主持人：** Chris Lattner 创造了过去 20 年来一些最具影响力的编程语言和编译器技术。他是 **LLVM**（Low Level Virtual Machine: 一个模块化的编译器基础设施项目）的创造者，该技术被 Swift、Rust 和 C++ 等语言广泛使用。他还创造了 Swift 编程语言，曾参与 TensorFlow 的工作，现在则致力于 Mojo 编程语言的开发。

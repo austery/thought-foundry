@@ -1,31 +1,28 @@
 ---
-title: 高利率如何影响股市估值？成长股为何首当其冲？
-summary: 本文通过现金流贴现法（DCF）深入解析高利率如何影响股市估值，并特别阐释了成长股受冲击更大的原因。内容涵盖估值基本原理、具体数字演算及估值模型的局限性。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - dcf-valuation
-  - financial-markets
-  - growth-stocks
-  - interest-rates
-  - stock-valuation
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-01-22'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=VvzgD5uozKw
+speaker: 一口新飯
 status: evergreen
+summary: 本文通过现金流贴现法（DCF）深入解析高利率如何影响股市估值，并特别阐释了成长股受冲击更大的原因。内容涵盖估值基本原理、具体数字演算及估值模型的局限性。
+tags:
+- financial-market
+- growth-stock
+- interest-rate
+- stock-valuation
+- valuation
+title: 高利率如何影响股市估值？成长股为何首当其冲？
 ---
 
 ### 利率与股票估值的基本原理

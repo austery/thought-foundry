@@ -1,39 +1,39 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: psychology
+companies_orgs:
+- Norges Bank Investment Management
+- Cleveland Clinic
+- German Music Academy
 date: '2024-04-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Angela Duckworth
+- Toby Cosgrove
+- Anders Ericson
+- Ralph Waldo Emerson
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=CY7_UDlhH9c
 speaker: Norges Bank Investment Management
-tags:
-  - grit
-  - perseverance
-  - passion
-  - deliberate-practice
-  - leadership-qualities
-title: 坚毅（Grit）：超越天赋的成功与领导力
-summary: 心理学家安吉拉·达克沃斯（Angela Duckworth）在挪威银行投资管理公司的投资会议上，深入探讨了“坚毅”（Grit）这一核心品质。她阐释了坚毅由长期目标的毅力和热情组成，并强调其与天赋无关。文章通过心脏外科医生托比·科斯格罗夫（Toby Cosgrove）的案例，以及对“一万小时定律”的重新解读，揭示了高质量练习的重要性。达克沃斯最终将坚毅的概念延伸至组织领导力，指出坚毅型领导者如何塑造坚毅型组织，以实现卓越成就。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Angela Duckworth
-  - Toby Cosgrove
-  - Anders Ericson
-  - Ralph Waldo Emerson
-companies_orgs:
-  - Norges Bank Investment Management
-  - Cleveland Clinic
-  - German Music Academy
-products_models: []
-media_books: []
 status: evergreen
+summary: 心理学家安吉拉·达克沃斯（Angela Duckworth）在挪威银行投资管理公司的投资会议上，深入探讨了“坚毅”（Grit）这一核心品质。她阐释了坚毅由长期目标的毅力和热情组成，并强调其与天赋无关。文章通过心脏外科医生托比·科斯格罗夫（Toby
+  Cosgrove）的案例，以及对“一万小时定律”的重新解读，揭示了高质量练习的重要性。达克沃斯最终将坚毅的概念延伸至组织领导力，指出坚毅型领导者如何塑造坚毅型组织，以实现卓越成就。
+tags:
+- financial
+- grit
+- leadership-quality
+- passion
+- technology
+title: 坚毅（Grit）：超越天赋的成功与领导力
 ---
+
 ### 坚毅：不确定性中的卓越品质
 
 大家好，来自费城的问候，非常感谢邀请我。

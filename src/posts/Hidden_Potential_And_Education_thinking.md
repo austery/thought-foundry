@@ -5,14 +5,12 @@ area: null
 category: null
 project: []
 tags:
-  - book
-  - 教育
-  - 教育比较
-  - 隐藏的潜力
-people: []
+- society
+- 隐藏的潜力
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- book
 date: '2025-07-26'
 author: Lei
 speaker: Google Gemini
@@ -23,6 +21,7 @@ layout: post.njk
 series: Hidden Potential
 source: null
 ---
+
 ## 引言
 
 您提出的问题，源于对畅销书《隐藏的潜力》（Hidden Potential）中教育案例的敏锐观察，并结合了您作为家长在加拿大安大略省公立教育体系中的切身体验，这体现了您对子女教育的高度责任感和深刻的洞察力。您注意到，书中以芬兰为典范论证其教育理论的成功，但图表数据却显示加拿大与其相差无几。与此同时，您在安大省的亲身感受是，本地教育给予学生过多自由，评价标准似乎有所降低，这与加拿大在国际评估中的优异表现形成了鲜明对比。这种宏观数据与微观体验之间的矛盾，是许多身处其中的家长共同的困惑。

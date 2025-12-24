@@ -1,41 +1,40 @@
 ---
-author: Veritasium
-date: '2019-12-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fDek6cYijxI
-speaker: Veritasium
-tags:
-  - veritasium
-  - butterfly-effect
-  - chaos-theory
-  - predictability
-  - determinism
-  - phase-space
-title: 混沌理论：蝴蝶效应的科学与预测的极限
-summary: 本视频深入探讨了“蝴蝶效应”背后的科学原理，从牛顿的决定论视角出发，逐步引入相空间的概念，并详细阐述了庞加莱对三体问题的洞察以及洛伦兹在气象模拟中发现的混沌现象。文章揭示了混沌系统对初始条件的敏感依赖性，以及这如何从根本上限制了我们预测未来和回溯过去的能力，即使对于看似有序的系统如太阳系亦是如此。然而，混沌也展现出深层而美丽的结构，如洛伦兹吸引子，为理解复杂系统提供了新的视角。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Isaac Newton
-  - Pierre-Simon Laplace
-  - Henri Poincaré
-  - Ed Lorenz
-  - Haley
+category: science
 companies_orgs: []
-products_models:
-  - LastPass
-  - Laplace's demon
+date: '2019-12-06'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Jurassic Park
+- Jurassic Park
+people:
+- Isaac Newton
+- Pierre-Simon Laplace
+- Henri Poincaré
+- Ed Lorenz
+- Haley
+products_models:
+- LastPass
+- Laplace's demon
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=fDek6cYijxI
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了“蝴蝶效应”背后的科学原理，从牛顿的决定论视角出发，逐步引入相空间的概念，并详细阐述了庞加莱对三体问题的洞察以及洛伦兹在气象模拟中发现的混沌现象。文章揭示了混沌系统对初始条件的敏感依赖性，以及这如何从根本上限制了我们预测未来和回溯过去的能力，即使对于看似有序的系统如太阳系亦是如此。然而，混沌也展现出深层而美丽的结构，如洛伦兹吸引子，为理解复杂系统提供了新的视角。
+tags:
+- canada
+- determinism
+- effect
+- space
+- theory
+title: 混沌理论：蝴蝶效应的科学与预测的极限
 ---
+
 ### 流行文化中的蝴蝶效应与预测的根本问题
 
 本视频部分内容由LastPass赞助。关于LastPass的更多信息将在节目末尾介绍。

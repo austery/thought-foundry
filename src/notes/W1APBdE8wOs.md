@@ -1,30 +1,29 @@
 ---
+area: finance-wealth
 author: Lei
+category: stock-investment
+created: 1984-01-24T03:00
 date: 2025-07-10
-guest: 
-insight:
+guest: null
+insight: null
 layout: post.njk
-series:
+people:
+- 跑狮
+- 大卫翁
+- 吉姆·西蒙斯
+project: 知行小酒馆
+series: null
 source: https://www.youtube.com/watch?v=W1APBdE8wOs
 speaker: 知行小酒馆
-summary:
-tags:
-  - 量化投资
-  - 投资
-  - 知行小酒馆
-  - 投资大师
-people: 
- - 跑狮
- - 大卫翁
- - 吉姆·西蒙斯
-title: E164：吉姆·西蒙斯，征服市场的人
-created: 1984-01-24T03:00
-updated: 2025-09-01T13:04
-area: ""
-project: 知行小酒馆
-category: ""
 status: evergreen
+summary: null
+tags:
+- investment
+- investment-master
+title: E164：吉姆·西蒙斯，征服市场的人
+updated: 2025-09-01T13:04
 ---
+
 # E164 吉姆·西蒙斯：征服市场的人
 
 ## 引言：一位偶像的金融革命

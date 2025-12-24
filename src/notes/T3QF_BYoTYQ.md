@@ -1,61 +1,61 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- White House
+- Tata Consultancy Services
+- Google
+- Microsoft
+- Infosys
+- Amazon
+- Tesla
+- Nvidia
+- Y Combinator
+- SpaceX
+- Cato Institute
+- Department of Homeland Security
+- Hyundai
+- Adani Group
+- Department of Labor
+- Immigration and Customs Enforcement (ICE)
+- X (formerly Twitter)
 date: '2025-09-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+people:
+- Donald Trump
+- Howard Lutnick
+- Karoline Leavitt
+- Garry Tan
+- Elon Musk
+- Laura Loomer
+- Sriram Krishnan
+- Amitabh Kant
+products_models:
+- H-1B visa
+- Green Card
+- Genius Act
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=T3QF_BYoTYQ
 speaker: Patrick Boyle
-tags:
-  - h1b-visa
-  - immigration-policy
-  - talent-competition
-  - us-economy
-  - executive-order
-title: 美国H-1B签证新规：高额费用如何重塑全球人才格局与美国创新力
-summary: 近期，美国总统特朗普签署行政命令，对H-1B新申请征收10万美元费用，引发广泛关注。尽管白宫随后澄清费用为一次性且不影响续签，但此举仍可能使H-1B签证对多数企业望而却步，对美国科技、医疗和教育等行业造成深远影响。本文探讨了H-1B签证的历史、争议、对国际学生和大学的冲击、企业离岸外包的加速，以及该政策面临的法律挑战和其背后的政治考量。最终，这项政策可能不仅未能达到预期收入目标，反而损害美国在全球人才竞争中的领导地位，并加剧商业环境的不确定性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Howard Lutnick
-  - Karoline Leavitt
-  - Garry Tan
-  - Elon Musk
-  - Laura Loomer
-  - Sriram Krishnan
-  - Amitabh Kant
-companies_orgs:
-  - White House
-  - Tata Consultancy Services
-  - Google
-  - Microsoft
-  - Infosys
-  - Amazon
-  - Tesla
-  - Nvidia
-  - Y Combinator
-  - SpaceX
-  - Cato Institute
-  - Department of Homeland Security
-  - Hyundai
-  - Adani Group
-  - Department of Labor
-  - Immigration and Customs Enforcement (ICE)
-  - X (formerly Twitter)
-products_models:
-  - H-1B visa
-  - Green Card
-  - Genius Act
-media_books:
-  - Financial Times
 status: evergreen
+summary: 近期，美国总统特朗普签署行政命令，对H-1B新申请征收10万美元费用，引发广泛关注。尽管白宫随后澄清费用为一次性且不影响续签，但此举仍可能使H-1B签证对多数企业望而却步，对美国科技、医疗和教育等行业造成深远影响。本文探讨了H-1B签证的历史、争议、对国际学生和大学的冲击、企业离岸外包的加速，以及该政策面临的法律挑战和其背后的政治考量。最终，这项政策可能不仅未能达到预期收入目标，反而损害美国在全球人才竞争中的领导地位，并加剧商业环境的不确定性。
+tags:
+- competition
+- executive-order
+- immigration-policy
+- life
+- us-economy
+title: 美国H-1B签证新规：高额费用如何重塑全球人才格局与美国创新力
 ---
+
 ### H-1B签证新规引发的混乱与澄清
 
 上周，特朗普总统签署了一项**行政命令**（Executive Order: 美国总统发布的一项具有法律效力的指令，无需国会批准），规定每份新的**H-1B签证**（H-1B Visa: 美国用于雇佣高技能外国工人的主要非移民签证类别）申请将向公司收取10万美元。H-1B签证是美国雇佣高技能外国工人的主要签证类型。这项声明在外国工人中引发了一波恐慌，雇主感到困惑，白宫也随即发布了一系列澄清。网上流传着机场的恐慌景象，乘客们试图下飞机，因为他们担心如果离开美国，可能就无法再返回。

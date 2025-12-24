@@ -1,90 +1,89 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中统
+- 国民党六三支部
+- 美国820情报部门
+- 中国人民解放军
+- 共青团
+- 共产主义团结会
+- 联合国
+- 印度部队
+- 四川大学
+- 黄埔军校
+- 清华大学
+- 中国人民革命华北大学
+- 美国国务院
+- 中共中央
+- 全国政协会议
 date: '2024-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《考验》
+- 《厄运》
+- 《被劫持的战争》
+- 《生逢乱世》
+- 《解放日报》
+people:
+- 李大安
+- 蒋瑞普
+- 虚功度
+- 刘存检
+- 林学普
+- 江泽石
+- 张一夫
+- 谭兴东
+- 林乔根
+- 侯其父
+- 柴城文
+- 王尊铭
+- 成立人
+- 李汉洁
+- 卢慧婷
+- 卢秀燕
+- 陈清斌
+- 林摩崇
+- 李正文
+- 张文荣
+- 巴里森
+- 常成
+- 柴静
+- 毛泽东
+- 金日成
+- 周恩来
+- 斯大林
+- 彭德怀
+- 蒋介石
+- 杜鲁门
+- 李奇微
+- 范弗利特
+- 希克曼
+- 李克农
+- 乔冠华
+- General Boltner
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=2ZAGjxFskVc
 speaker: 柴静 Chai Jing
-tags:
-  - korean-war-pows
-  - voluntary-repatriation
-  - ideological-conflict
-  - human-cost-of-war
-  - political-manipulation
-title: 朝鲜战争志愿军战俘：被劫持的战争与人性的代价
-summary: 本期节目深入探讨了朝鲜战争中志愿军战俘的复杂命运。在战俘甄别过程中，美中双方的政治博弈与战俘营内部的残酷斗争交织，导致了大量流血事件和非自愿选择。文章揭示了意识形态冲突如何扭曲人性，以及战争后期为战俘问题付出的巨大生命代价。最终，无论选择回大陆、去台湾或第三国，战俘们都面临着漫长而痛苦的后果，凸显了战争对个体命运的深远影响和历史真相的复杂性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - china-analysis
-  - us-analysis
-people:
-  - 李大安
-  - 蒋瑞普
-  - 虚功度
-  - 刘存检
-  - 林学普
-  - 江泽石
-  - 张一夫
-  - 谭兴东
-  - 林乔根
-  - 侯其父
-  - 柴城文
-  - 王尊铭
-  - 成立人
-  - 李汉洁
-  - 卢慧婷
-  - 卢秀燕
-  - 陈清斌
-  - 林摩崇
-  - 李正文
-  - 张文荣
-  - 巴里森
-  - 常成
-  - 柴静
-  - 毛泽东
-  - 金日成
-  - 周恩来
-  - 斯大林
-  - 彭德怀
-  - 蒋介石
-  - 杜鲁门
-  - 李奇微
-  - 范弗利特
-  - 希克曼
-  - 李克农
-  - 乔冠华
-  - General Boltner
-companies_orgs:
-  - 中统
-  - 国民党六三支部
-  - 美国820情报部门
-  - 中国人民解放军
-  - 共青团
-  - 共产主义团结会
-  - 联合国
-  - 印度部队
-  - 四川大学
-  - 黄埔军校
-  - 清华大学
-  - 中国人民革命华北大学
-  - 美国国务院
-  - 中共中央
-  - 全国政协会议
-products_models: []
-media_books:
-  - 《考验》
-  - 《厄运》
-  - 《被劫持的战争》
-  - 《生逢乱世》
-  - 《解放日报》
 status: evergreen
+summary: 本期节目深入探讨了朝鲜战争中志愿军战俘的复杂命运。在战俘甄别过程中，美中双方的政治博弈与战俘营内部的残酷斗争交织，导致了大量流血事件和非自愿选择。文章揭示了意识形态冲突如何扭曲人性，以及战争后期为战俘问题付出的巨大生命代价。最终，无论选择回大陆、去台湾或第三国，战俘们都面临着漫长而痛苦的后果，凸显了战争对个体命运的深远影响和历史真相的复杂性。
+tags:
+- conflict
+- political
+- technology
+- war
+title: 朝鲜战争志愿军战俘：被劫持的战争与人性的代价
 ---
+
 ### 战俘甄别前的政治博弈与营内冲突
 
 上一期节目结束时，我们提到在1952年4月份**甄别**（Screening/Identification: 战俘选择遣返去向的过程）之前，美国和中国都预估并希望能够回大陆的战俘越多越好，这样能够促成尽早的停战。因此，美方在甄别时询问战俘的问题清单上不但没有台湾的选项，而且七个问题中的每一个都会给战俘造成极大的压力。在甄别的前两天，他们又在战俘营反复广播中方的声明，用以打消那些身上曾经有**刺字**（Tattooing: 强行在战俘身上纹身以表明政治立场）或者写过**血书**（Blood Oath/Letter: 用血写下的誓言或信件）的人的顾虑。这个声明里说：“我们深知他们的行为绝非出于自愿，不应该由他们负责。我们完全欢迎所有的战俘人员回到祖国的怀抱，过和平的生活。”

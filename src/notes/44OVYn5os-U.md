@@ -1,38 +1,37 @@
 ---
-author: 金融汪
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- 美国外国投资委员会
+- SEC
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- 陈天桥
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=44OVYn5os-U
 speaker: 金融汪
-tags:
-  - us-investment-policy
-  - us-china-decoupling
-  - foreign-investment-screening
-  - sensitive-sectors
-  - geopolitical-strategy
-title: 特朗普“美国优先投资政策”深度解析：中美投资脱钩的起点？
-summary: 本文深入分析了特朗普政府提出的“美国优先投资政策”总统备忘录，探讨其对海外投资，特别是对来自“敌对国家”（如中国）的投资限制。政策旨在将美国打造成全球投资目的地，同时扩大外国投资委员会权力，并对敏感行业、投资形式（直接、间接、绿地、证券）以及农林牧场投资施加严格审查。文章指出，该政策预示着中美投资脱钩的开始，并对中概股及中国企业赴美融资构成重大挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - 陈天桥
-companies_orgs:
-  - FBI
-  - 美国外国投资委员会
-  - SEC
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了特朗普政府提出的“美国优先投资政策”总统备忘录，探讨其对海外投资，特别是对来自“敌对国家”（如中国）的投资限制。政策旨在将美国打造成全球投资目的地，同时扩大外国投资委员会权力，并对敏感行业、投资形式（直接、间接、绿地、证券）以及农林牧场投资施加严格审查。文章指出，该政策预示着中美投资脱钩的开始，并对中概股及中国企业赴美融资构成重大挑战。
+tags:
+- china
+- geopolitical-strategy
+- investment
+- policy
+- sensitive-sector
+title: 特朗普“美国优先投资政策”深度解析：中美投资脱钩的起点？
 ---
+
 ### 引言：特朗普“美国优先投资政策”的出台
 
 今天，我们将深入分析特朗普政府上周五刚刚出台的一项重要政策——“美国优先投资政策”。这项政策之所以如此重要，是因为它将为未来特朗普政府任内，所有海外投资人对美国本土的投资，以及美国对外的投资，确立基本原则。虽然中国的一些自媒体在周末已发布相关解读报告，且内容良好，但它们可能过于关注细节，未能从提纲挈领和重点突出的角度来审视问题。因此，本视频旨在对现有视角进行补充。此外，中国一些从事宏观政策分析的卖方研究机构，目前尚未发布深入的市场分析报告，这其实是不应该的。

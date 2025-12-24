@@ -1,66 +1,67 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times Book Review
+- Vanity Fair
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Atonement
+- Saturday
+- Flesh
+- The Loneliness of Sonia and Sunny
+- The Sisters
+- Playworld
+- When the Going Was Good
+- I Regret Almost Everything
+- Home Before Dark
+- Notes to John
+- A Flower Traveled in My Blood
+- 38 Laundry Street
+- 'Wild Things: The Art of Living'
+- 'R. Crumb: The Life and Death of an Artist'
+- The Comedian
+- 'Electric Spark: The Enigma of Muriel Spark'
+- Jesus' Son
+- 'Mark Twain: A Life'
+- Shadow Ticket
+- 'More Everything Forever: AI Overlords, Space Empires, and Silicon Valley''s Crusade
+  to Control the Fate of Humanity'
+- The American Way of Death
+- 'Troublemaker: The Fierce, Unruly Life of Jessica Mitford'
+- year-in-review
+people:
+- Gilbert Cruz
+- Dwight Garner
+- Jen Zalai
+- Alexandra Jacobs
+- Ian McEwan
+- David Zoloy
+- Susan Chver
+- Joan Didion
+- Muriel Spark
+- John Updike
+- Jessica Mitford
+- Thomas Pynchon
+- Adam Becker
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=UR1-u_FgCV8
 speaker: New York Times Podcasts
-tags:
-  - literary-criticism
-  - year-in-review
-  - book-recommendations
-  - author-profiles
-title: 书评人畅谈2025年度阅读体验：精华书单与深度洞见
-summary: 《纽约时报》书评播客节目汇集了三位资深书评人，分享他们2025年度的阅读亮点。节目深入探讨了小说、传记、回忆录等多种体裁的作品，聚焦作者的创作风格、作品的社会文化意义，以及阅读体验本身。评论涵盖了从文学批评到个人阅读偏好的广泛话题，为读者提供了丰富的年度书单参考和对文学评论工作的独特视角。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project: []
-people:
-  - Gilbert Cruz
-  - Dwight Garner
-  - Jen Zalai
-  - Alexandra Jacobs
-  - Ian McEwan
-  - David Zoloy
-  - Susan Chver
-  - Joan Didion
-  - Muriel Spark
-  - John Updike
-  - Jessica Mitford
-  - Thomas Pynchon
-  - Adam Becker
-companies_orgs:
-  - New York Times Book Review
-  - Vanity Fair
-products_models: []
-media_books:
-  - Atonement
-  - Saturday
-  - Flesh
-  - The Loneliness of Sonia and Sunny
-  - The Sisters
-  - Playworld
-  - When the Going Was Good
-  - I Regret Almost Everything
-  - Home Before Dark
-  - Notes to John
-  - A Flower Traveled in My Blood
-  - 38 Laundry Street
-  - 'Wild Things: The Art of Living'
-  - 'R. Crumb: The Life and Death of an Artist'
-  - The Comedian
-  - 'Electric Spark: The Enigma of Muriel Spark'
-  - Jesus' Son
-  - 'Mark Twain: A Life'
-  - Shadow Ticket
-  - 'More Everything Forever: AI Overlords, Space Empires, and Silicon Valley''s Crusade to Control the Fate of Humanity'
-  - The American Way of Death
-  - 'Troublemaker: The Fierce, Unruly Life of Jessica Mitford'
 status: evergreen
+summary: 《纽约时报》书评播客节目汇集了三位资深书评人，分享他们2025年度的阅读亮点。节目深入探讨了小说、传记、回忆录等多种体裁的作品，聚焦作者的创作风格、作品的社会文化意义，以及阅读体验本身。评论涵盖了从文学批评到个人阅读偏好的广泛话题，为读者提供了丰富的年度书单参考和对文学评论工作的独特视角。
+tags:
+- book-recommendation
+- canada
+- history
+title: 书评人畅谈2025年度阅读体验：精华书单与深度洞见
 ---
+
 ### 书评人畅谈2025年度阅读体验
 
 我是《纽约时报》书评编辑吉尔伯特·克鲁兹（Gilbert Cruz），欢迎收听本期书评播客。上周，我们回顾了年度十大好书。本周，我们将带来同样精彩的内容：我们的特约书评人将分享他们2025年度的阅读历程。

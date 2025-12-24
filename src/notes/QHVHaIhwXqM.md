@@ -1,42 +1,40 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- 香料运输公司
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Bobby
+- Mike Phelps
+- Milorad Cavic
+- Chad le Clos
+- Scott Page
+- Elena Ferrante
+products_models:
+- linear-models
+- neural-networks
+- decision-trees
+- random-forests
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=QHVHaIhwXqM
 speaker: 北美王路飞
-tags:
-  - linear-models
-  - cognitive-bias
-  - correlation-causation
-  - luck-vs-skill
-  - model-limitations
-title: 告别线性思维的幻觉：决策者如何识别数据陷阱与认知偏差
-summary: 本视频深入剖析了线性模型的局限性，揭示了混淆相关性与因果性、过度依赖“大系数”思维以及外推风险等常见认知陷阱。通过生动案例，讲解了运气与技能的辩证关系，并强调了理解模型边界、拥抱非线性思维对于做出更优决策和实现颠覆性创新的重要性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - Bobby
-  - Mike Phelps
-  - Milorad Cavic
-  - Chad le Clos
-  - Scott Page
-  - Elena Ferrante
-companies_orgs:
-  - 香料运输公司
-products_models:
-  - linear-models
-  - neural-networks
-  - decision-trees
-  - random-forests
-media_books: []
 status: evergreen
+summary: 本视频深入剖析了线性模型的局限性，揭示了混淆相关性与因果性、过度依赖“大系数”思维以及外推风险等常见认知陷阱。通过生动案例，讲解了运气与技能的辩证关系，并强调了理解模型边界、拥抱非线性思维对于做出更优决策和实现颠覆性创新的重要性。
+tags:
+- cognitive-bias
+- geopolitical
+- model
+- skill
+title: 告别线性思维的幻觉：决策者如何识别数据陷阱与认知偏差
 ---
+
 ### 直线的诱惑与模型的开端
 
 埃莱娜·费兰特说过一句非常有意思的话：“是的，我在撒谎，但你为什么总要逼我给出一个线性的解释呢？线性的解释几乎都是谎言。”这句话听起来像是在说文学，但如果你问一个数据科学家，他可能会告诉你，这其实在说数学。我们来聊聊直线，我们大脑是极其迷恋直线的。想象一下，你种了一棵树，如果树的生长是线性的，那么它每年都会长高一点：今年长一米，明年长一米。或者你想扩建房子，比如说你加盖100平米，房价翻了一倍，那你直接告诉你，加盖200平米，房价应该翻两倍。这种思维方式太舒服了，太符合直觉了。这是我们今天要讲的主角：**线性模型**（Linear Models）。它是所有模型中最简单、最常用，也最容易把我们骗得团团转的工具。今天呢，我们来拆解模型思维中关于线性思维这一章。这不仅是关于y等于mx加b的数学课，更是一次关于认知陷阱的探险。我想带大家看懂数据背后的3个真相：第一，为什么大数据的规律常常是错觉？第二，为什么迈克·菲尔普斯这种顶级高手的输赢，有时候真的是运气？第三，为什么那个让你看起来最聪明的优化方案，反而可能是扼杀创新的凶手？准备好了吗？我们先从这个看起来人畜无害的线开始。

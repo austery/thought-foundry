@@ -1,54 +1,54 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Anerggo Atom
+- NATO
+- FBI
+- CDC
+- Hamas
+- Kremlin
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Rachel Abrams
+- Kim Barker
+- David Sanger
+- Volodymyr Zelenskyy
+- Vladimir Putin
+- Jared Kushner
+- Steve Witoff
+- JD Vance
+- Marco Rubio
+- Donald Trump
+- Friedrich Merz
+- Ralph Abraham
+- Robert F. Kennedy Jr.
+products_models:
+- Tylenol
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=pHqzPDgXrHo
 speaker: New York Times Podcasts
-tags:
-  - ukraine-peace-plan
-  - russia-ukraine-war
-  - us-diplomacy
-  - corruption-scandal
-  - geopolitical-strategy
-title: 被泄露的乌克兰和平计划：俄罗斯的影子与泽连斯基的困境
-summary: 一份旨在结束乌克兰战争的美国和平计划被泄露后，因其明显偏向俄罗斯而引发全球哗然。该计划的初步版本在与俄罗斯代表协商后制定，导致乌克兰和欧洲盟友感到背叛。与此同时，乌克兰总统泽连斯基正面临严重的腐败丑闻，政治地位岌岌可危。本文深入探讨了这一争议性计划的幕后制定过程、乌克兰的强烈反应，以及美国政府在推动和平协议时所面临的复杂外交挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Rachel Abrams
-  - Kim Barker
-  - David Sanger
-  - Volodymyr Zelenskyy
-  - Vladimir Putin
-  - Jared Kushner
-  - Steve Witoff
-  - JD Vance
-  - Marco Rubio
-  - Donald Trump
-  - Friedrich Merz
-  - Ralph Abraham
-  - Robert F. Kennedy Jr.
-companies_orgs:
-  - New York Times
-  - Anerggo Atom
-  - NATO
-  - FBI
-  - CDC
-  - Hamas
-  - Kremlin
-products_models:
-  - Tylenol
-media_books:
-  - The Daily
 status: evergreen
+summary: 一份旨在结束乌克兰战争的美国和平计划被泄露后，因其明显偏向俄罗斯而引发全球哗然。该计划的初步版本在与俄罗斯代表协商后制定，导致乌克兰和欧洲盟友感到背叛。与此同时，乌克兰总统泽连斯基正面临严重的腐败丑闻，政治地位岌岌可危。本文深入探讨了这一争议性计划的幕后制定过程、乌克兰的强烈反应，以及美国政府在推动和平协议时所面临的复杂外交挑战。
+tags:
+- corruption-scandal
+- diplomacy
+- geopolitical-strategy
+- russia-ukraine-war
+- ukraine-peace-plan
+title: 被泄露的乌克兰和平计划：俄罗斯的影子与泽连斯基的困境
 ---
+
 ### 乌克兰和平计划：俄罗斯的影子与全球哗然
 
 来自《纽约时报》，我是雷切尔·艾布拉姆斯，这里是《The Daily》节目。

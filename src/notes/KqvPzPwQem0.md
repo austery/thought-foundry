@@ -1,46 +1,46 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 腾讯
+- Alibaba
+- 抖音公司
 date: '2025-06-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《进击的巨人》
+- 《中华人民共和国计算机信息网络国际联网管理暂行规定》
+- 《国际数据网络管理条例征收意见稿》
+- 《国际数据安全管理条例》
+people:
+- 张内咸
+- 陈之汉
+- Jake Paul
+- Mike Tyson
+- 陈柏源
+products_models:
+- VPN
+- GFW
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=KqvPzPwQem0
 speaker: 張内咸
-tags:
-  - internet-censorship
-  - great-firewall
-  - vpn-legality
-  - china-internet-policy
-  - cross-strait-relations
-title: 揭秘中国翻墙真相：法律、技术与政策的演变
-summary: 本期节目深入探讨了台湾网红陈之汉（馆长）因计划访华引发的争议，并以此为切入点，详细剖析了中国互联网的特殊环境、防火墙的运作机制以及“翻墙”行为的法律地位。主持人张内咸结合自身在北京的独特视角和工作经验，揭示了中国“翻墙”服务背后的真实供应商，并强调自2025年起，个人“翻墙”行为在中国法律上已不再违法，纠正了许多海内外华人对中国互联网政策的普遍误解。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 张内咸
-  - 陈之汉
-  - Jake Paul
-  - Mike Tyson
-  - 陈柏源
-companies_orgs:
-  - 腾讯
-  - 阿里巴巴
-  - 抖音公司
-products_models:
-  - VPN
-  - GFW
-media_books:
-  - 《进击的巨人》
-  - 《中华人民共和国计算机信息网络国际联网管理暂行规定》
-  - 《国际数据网络管理条例征收意见稿》
-  - 《国际数据安全管理条例》
 status: evergreen
+summary: 本期节目深入探讨了台湾网红陈之汉（馆长）因计划访华引发的争议，并以此为切入点，详细剖析了中国互联网的特殊环境、防火墙的运作机制以及“翻墙”行为的法律地位。主持人张内咸结合自身在北京的独特视角和工作经验，揭示了中国“翻墙”服务背后的真实供应商，并强调自2025年起，个人“翻墙”行为在中国法律上已不再违法，纠正了许多海内外华人对中国互联网政策的普遍误解。
+tags:
+- china
+- cross-strait-relations
+- great-firewall
+- internet-censorship
+- vpn-legality
+title: 揭秘中国翻墙真相：法律、技术与政策的演变
 ---
+
 大家好，我是张内咸，又见面了。废话不多讲，这两天中文世界里出了件大事。
 
 ### 台湾网红“馆长”的争议与流量焦虑

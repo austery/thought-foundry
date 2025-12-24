@@ -1,49 +1,49 @@
 ---
-author: TVO Today
+area: society-systems
+category: psychology
+companies_orgs:
+- TVO
+- Feinstein Institute
+- NHS
+- WHO
+- Menstrual Health Project
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mistreated
+- A Bloody Scandal
+people:
+- Nam Kiwanuka
+- Dr. Matthew Leonardi
+- Evelyn Scott
+- Ariana Longley
+- Max Stussy
+- Ricardo Diaz
+- Jonathan Hallowell
+- Lorie F
+- John Ferry
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=tT-q5l3uUiQ
 speaker: TVO Today
-tags:
-  - endometriosis
-  - womens-health
-  - chronic-pain
-  - medical-misogyny
-  - healthcare-system-failures
-title: 子宫内膜异位症：被忽视的女性健康困境与漫长求医路
-summary: 本期节目深入探讨了子宫内膜异位症患者的真实生活，嘉宾Evelyn Scott分享了她长达15年的诊断历程，以及多次手术（包括子宫切除术）仍无法治愈的困境。节目揭示了该疾病被长期误诊、医疗系统对女性疼痛的忽视、诊断方法落后以及研究资金匮乏等问题。Evelyn呼吁医生对病症保持开放和诚实，并强调患者不应独自承担争取治疗的责任，而是需要医疗系统进行根本性变革，以提供更具同情心和有效性的女性健康护理。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people:
-  - Nam Kiwanuka
-  - Dr. Matthew Leonardi
-  - Evelyn Scott
-  - Ariana Longley
-  - Max Stussy
-  - Ricardo Diaz
-  - Jonathan Hallowell
-  - Lorie F
-  - John Ferry
-companies_orgs:
-  - TVO
-  - Feinstein Institute
-  - NHS
-  - WHO
-  - Menstrual Health Project
-products_models: []
-media_books:
-  - Mistreated
-  - A Bloody Scandal
 status: evergreen
+summary: 本期节目深入探讨了子宫内膜异位症患者的真实生活，嘉宾Evelyn Scott分享了她长达15年的诊断历程，以及多次手术（包括子宫切除术）仍无法治愈的困境。节目揭示了该疾病被长期误诊、医疗系统对女性疼痛的忽视、诊断方法落后以及研究资金匮乏等问题。Evelyn呼吁医生对病症保持开放和诚实，并强调患者不应独自承担争取治疗的责任，而是需要医疗系统进行根本性变革，以提供更具同情心和有效性的女性健康护理。
+tags:
+- endometriosi
+- health
+- healthcare-system-failure
+- llm
+- medical
+title: 子宫内膜异位症：被忽视的女性健康困境与漫长求医路
 ---
+
 ### 子宫内膜异位症：被忽视的全身性疾病
 
 Nam: 欢迎收听《**Mistreated**》（播客名称）节目，我是Nam Kiwanuka。

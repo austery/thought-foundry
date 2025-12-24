@@ -1,63 +1,63 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Airbnb
+- 巴黎公社
+- 莎士比亞書店
 date: '2023-01-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《吶喊》
+- 《愛與痛苦》
+- 《吸血鬼》
+- 《斐多篇》
+- 《人間喜劇》
+- 《资本论》
+- 《全面啟動》
+people:
+- Vincent van Gogh
+- Louis XIV
+- Cato
+- Plato
+- Socrates
+- Jacques Lacan
+- Edvard Munch
+- Auguste Rodin
+- Claude Monet
+- Édouard Manet
+- Honoré de Balzac
+- Karl Marx
+- Marcel Proust
+- Marcel Mauss
+- Claude Lévi-Strauss
+- Édith Piaf
+- Ernest Hemingway
+- James Joyce
+- F. Scott Fitzgerald
+- Leonardo DiCaprio
+- Ariadne
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=DirPT0DEUcA
 speaker: 超級歪 SuperY
-tags:
-  - paris-travel
-  - cultural-observations
-  - art-history
-  - anthropology-critique
-  - historical-narratives
-title: 巴黎文化深度游：从梵高故居到人类博物馆的城市探索
-summary: 本篇游记带领读者深入巴黎，探访蒙马特高地的艺术气息、罗浮宫的宏伟历史、奥赛美术馆的艺术珍品，并探讨法国独特的阅读文化与人类学博物馆的自我批判。文章还涉及巴黎的时尚观察、文学巨匠的足迹，以及电影《全面启动》的取景地，呈现一个多维度、充满思考的巴黎之旅。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - Vincent van Gogh
-  - Louis XIV
-  - Cato
-  - Plato
-  - Socrates
-  - Jacques Lacan
-  - Edvard Munch
-  - Auguste Rodin
-  - Claude Monet
-  - Édouard Manet
-  - Honoré de Balzac
-  - Karl Marx
-  - Marcel Proust
-  - Marcel Mauss
-  - Claude Lévi-Strauss
-  - Édith Piaf
-  - Ernest Hemingway
-  - James Joyce
-  - F. Scott Fitzgerald
-  - Leonardo DiCaprio
-  - Ariadne
-companies_orgs:
-  - Airbnb
-  - 巴黎公社
-  - 莎士比亞書店
-products_models: []
-media_books:
-  - 《吶喊》
-  - 《愛與痛苦》
-  - 《吸血鬼》
-  - 《斐多篇》
-  - 《人間喜劇》
-  - 《资本论》
-  - 《全面啟動》
 status: evergreen
+summary: 本篇游记带领读者深入巴黎，探访蒙马特高地的艺术气息、罗浮宫的宏伟历史、奥赛美术馆的艺术珍品，并探讨法国独特的阅读文化与人类学博物馆的自我批判。文章还涉及巴黎的时尚观察、文学巨匠的足迹，以及电影《全面启动》的取景地，呈现一个多维度、充满思考的巴黎之旅。
+tags:
+- critique
+- cultural
+- historical-narrative
+- history
+- travel
+title: 巴黎文化深度游：从梵高故居到人类博物馆的城市探索
 ---
+
 ### 蒙马特高地的艺术与浪漫
 
 谈到巴黎，人们会想到什么呢？我现在身处巴黎一个非常著名的小山丘地区，叫做**蒙马特**（Montmartre: 巴黎地势最高的一座山丘，以其艺术氛围和圣心堂闻名）。这里是许多艺术家生前在巴黎居住过的地方，例如**梵高**（Vincent van Gogh）的故居就在这里。现在，梵高的故居已经被出售并改造成**Airbnb**（空中食宿: 一家联系游客与房东的全球性民宿平台），大家可以在Airbnb网站上搜索关键字，即可入住梵高的家。

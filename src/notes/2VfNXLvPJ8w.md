@@ -1,58 +1,57 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: technology
+companies_orgs:
+- Khosla Ventures
+- Sun Microsystems
+- Norges Bank Investment Management
+- OpenAI
+- Google
+- Tesla
+- Amazon
+- Walmart
+- Juniper
+- Kleiner Perkins
+- AT&T
+- Verizon
+- Nokia
+- Motorola
+- Alcatel-Lucent
+- General Motors
+- John Deere
+- Commonwealth Fusion
+- Screen Actors Guild
 date: '2024-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Vinod Khosla
+- Elon Musk
+- Sam Altman
+- Steve Jobs
+products_models:
+- TCP/IP
+- iPhone
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=2VfNXLvPJ8w
 speaker: Norges Bank Investment Management
-tags:
-  - ai-future
-  - technological-disruption
-  - expert-opinion
-  - improbable-innovation
-  - societal-change
-title: Vinod Khosla：拥抱“不可能”，驱动未来变革
-summary: 风险投资家Vinod Khosla深入探讨了技术创新，特别是人工智能如何重塑社会。他强调了颠覆性变革的“不可能”特质，并批判了专家意见的局限性。Khosla预测了专业知识、劳动力和计算能力的免费化，以及个性化交通、清洁能源和资源丰富化的未来。文章还讨论了这些趋势对就业、社会公平和政府政策的深远影响，并为年轻人提供了拥抱激情、适应变化的建议。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Vinod Khosla
-  - Elon Musk
-  - Sam Altman
-  - Steve Jobs
-companies_orgs:
-  - Khosla Ventures
-  - Sun Microsystems
-  - Norges Bank Investment Management
-  - OpenAI
-  - Google
-  - Tesla
-  - Amazon
-  - Walmart
-  - Juniper
-  - Kleiner Perkins
-  - AT&T
-  - Verizon
-  - Nokia
-  - Motorola
-  - Alcatel-Lucent
-  - General Motors
-  - John Deere
-  - Commonwealth Fusion
-  - Screen Actors Guild
-products_models:
-  - TCP/IP
-  - iPhone
-media_books: []
 status: evergreen
+summary: 风险投资家Vinod Khosla深入探讨了技术创新，特别是人工智能如何重塑社会。他强调了颠覆性变革的“不可能”特质，并批判了专家意见的局限性。Khosla预测了专业知识、劳动力和计算能力的免费化，以及个性化交通、清洁能源和资源丰富化的未来。文章还讨论了这些趋势对就业、社会公平和政府政策的深远影响，并为年轻人提供了拥抱激情、适应变化的建议。
+tags:
+- expert-opinion
+- future
+- innovation
+- societal
+- technological-disruption
+title: Vinod Khosla：拥抱“不可能”，驱动未来变革
 ---
+
 ### 欢迎与“不可能”同行
 
 挪威银行投资管理公司（Norges Bank Investment Management）的采访者热情欢迎了Vinod Khosla，称他为“最成功的企业家和风险投资家之一”。Khosla于1982年联合创立了**Sun Microsystems**（一家曾是全球领先的计算机硬件和软件公司），并于2004年创立了**Khosla Ventures**（一家专注于技术领域的风险投资公司），该公司在通过技术盈利的同时，也致力于为社会带来积极影响。

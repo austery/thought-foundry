@@ -1,34 +1,32 @@
 ---
-title: 美股泡沫与应对策略：宏观数据、财报及苹果案例分析
-summary: 本期节目深入分析了上周美股市场走势，探讨了当前市场是否存在泡沫，并结合宏观数据、第二季度财报进展及即将发布的重磅数据和公司财报，为投资者提供了应对策略，并以苹果为例探讨了高位投资机会。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- earnings-report
-- investment-strategy
-- macro-economics
-- market-analysis
-- us-stock-market
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-07-27'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=4T-vmE6KJac
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入分析了上周美股市场走势，探讨了当前市场是否存在泡沫，并结合宏观数据、第二季度财报进展及即将发布的重磅数据和公司财报，为投资者提供了应对策略，并以苹果为例探讨了高位投资机会。
+tags:
+- earnings-report
+- financial
+- market-analysis
+- us-stock-market
+title: 美股泡沫与应对策略：宏观数据、财报及苹果案例分析
 ---
+
 ### 上周市场回顾与资产表现
 
 大家好，我是市场分析员小涛。本期内容将首先快速总结上周的市场走势、市场参与度以及第二季度财报的表现，随后对本周的宏观数据和公司财报进行展望。

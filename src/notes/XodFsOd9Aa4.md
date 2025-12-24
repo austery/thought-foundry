@@ -1,49 +1,49 @@
 ---
-author: 夸克说
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=XodFsOd9Aa4'
-speaker: 夸克说
-tags:
-  - chinese-men-struggles
-  - societal-pressure
-  - hierarchical-system
-  - gender-roles
-  - social-welfare
-  - economic-anxiety
-title: 中国男性之困：从猝死个案看等级社会的重压与性别对立
-summary: 本文从一个49岁未婚未育中年男性的意外猝死案例切入，深入探讨了中国男性所面临的身体疲惫、经济焦虑和社会规训等多重困境。通过与西方福利社会的对比，揭示了中国社会底层生存的艰难，并进一步剖析了所谓“父权制”实为“等级制”的本质。文章指出，这种等级制将男性和女性都异化为“工具人”，加剧了内部竞争和性别对立，并呼吁个体从自身做起，瓦解不平等的等级制度。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - 胡福
-  - 莫博桑
-  - 吕后
-  - 武则天
-  - 慈禧
-  - 贾政
-  - 贾宝玉
-  - 贾母
-  - 习近平
-  - 孟晚舟
-  - 董志明
-  - 波夫娃
+category: geopolitics
 companies_orgs:
-  - 中共
-products_models: '[]'
+- 中共
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《我的叔叔娱乐》
-  - 《红楼梦》
+- 《我的叔叔娱乐》
+- 《红楼梦》
+people:
+- 胡福
+- 莫博桑
+- 吕后
+- 武则天
+- 慈禧
+- 贾政
+- 贾宝玉
+- 贾母
+- Xi Jinping
+- 孟晚舟
+- 董志明
+- 波夫娃
+products_models: '[]'
+project:
+- china-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=XodFsOd9Aa4
+speaker: 夸克说
 status: evergreen
+summary: 本文从一个49岁未婚未育中年男性的意外猝死案例切入，深入探讨了中国男性所面临的身体疲惫、经济焦虑和社会规训等多重困境。通过与西方福利社会的对比，揭示了中国社会底层生存的艰难，并进一步剖析了所谓“父权制”实为“等级制”的本质。文章指出，这种等级制将男性和女性都异化为“工具人”，加剧了内部竞争和性别对立，并呼吁个体从自身做起，瓦解不平等的等级制度。
+tags:
+- chinese
+- economic
+- gender-role
+- social-welfare
+- societal
+- system
+title: 中国男性之困：从猝死个案看等级社会的重压与性别对立
 ---
+
 ### 中国男性的多重困境：从一则讣闻说起
 
 大家好，欢迎收看夸克说，我是夸克。本期节目我们将探讨一个可能引起许多人共鸣的话题：中国男性为何如此疲惫？在此需要提前声明，讨论中国男性的困境并非暗示女性不累，只是本期节目聚焦于男性。如果大家对女性的困境感兴趣，也欢迎在评论区留言，我们改日可以单独制作一期节目。

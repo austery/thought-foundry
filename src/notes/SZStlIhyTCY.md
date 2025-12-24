@@ -1,37 +1,38 @@
 ---
-author: AI Engineer
+area: society-systems
+category: business
+companies_orgs:
+- McKinsey & Company
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Last Economy
+people:
+- Martin Harrysson
+- Natasha Maniar
+products_models:
+- AI agents
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=SZStlIhyTCY
 speaker: AI Engineer
-tags:
-  - ai-driven-development
-  - agile-transition
-  - software-engineering-future
-  - organizational-change
-  - ai-native-workflows
-title: AI 驱动下的软件开发范式转移：超越敏捷的新篇章
-summary: 本文探讨了人工智能（AI）如何引发软件开发领域的根本性变革，超越了传统的敏捷方法。演讲者 Martin Harrysson 和 Natasha Maniar 指出，尽管 AI 极大地提升了个人生产力，但企业整体生产力提升有限，主要瓶颈在于协作、代码审查和技术债等组织层面。文章提出需要构建 AI 原生工作流和角色，并强调了通过系统性变革、精准测量和有效的变革管理来实现规模化价值的重要性，为企业在 AI 时代取得长期成功指明方向。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Martin Harrysson
-  - Natasha Maniar
-companies_orgs:
-  - McKinsey & Company
-products_models:
-  - AI agents
-media_books:
-  - The Last Economy
 status: evergreen
+summary: 本文探讨了人工智能（AI）如何引发软件开发领域的根本性变革，超越了传统的敏捷方法。演讲者 Martin Harrysson 和 Natasha Maniar
+  指出，尽管 AI 极大地提升了个人生产力，但企业整体生产力提升有限，主要瓶颈在于协作、代码审查和技术债等组织层面。文章提出需要构建 AI 原生工作流和角色，并强调了通过系统性变革、精准测量和有效的变革管理来实现规模化价值的重要性，为企业在
+  AI 时代取得长期成功指明方向。
+tags:
+- development
+- llm
+- organizational
+- software-engineering-future
+title: AI 驱动下的软件开发范式转移：超越敏捷的新篇章
 ---
+
 ### AI 驱动下的软件开发范式转移：超越敏捷的新篇章
 
 大家好，早上好。非常高兴能来到这里。我是 Martin，我的同事 Natasha 也在。我们来自麦肯锡（McKinsey）一个大家可能不太熟悉的部分。我们有一个名为“软件 X”（Software X）的业务部门，主要与大型企业客户合作，探讨如何构建更好的软件产品，尤其是在过去几年中，大量运用了人工智能（AI）。我们今天的谈话将更侧重于利用 AI 进行软件开发时涉及的人员和运营模式方面。我们相信，这方面需要发生显著的变化，而这正是我们乐于与大家分享的内容。

@@ -1,35 +1,35 @@
 ---
-author: Anthony看世界
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-08-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- new light on children's thinking
+people:
+- Winnicott
+- Plato
+products_models: []
+project:
+- china-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=XIDn08XeEE4
 speaker: Anthony看世界
-tags:
-  - defensive-rationality
-  - child-development
-  - emotional-integration
-  - psychological-defense
-  - symbolic-thinking
-title: 中国式教育下，为何聪明孩子易走向自我毁灭？温尼科特论健康与防御性理性
-summary: 本文探讨了中国社会中一个普遍现象：那些看似聪明理性的青少年，为何在成年后可能遭遇心理崩溃甚至自我毁灭。文章深入剖析了复杂的防御机制——例如利用心理学概念来隔离情感、僵化地理解独立与边界，以及强迫性的乐观主义——这些机制表面上具有适应性，实则导致心力枯竭和空虚。文章借鉴了D.W.温尼科特的理论，将这种“防御性理性”与“健康理性”进行对比，阐释了真正的智力发展如何源于对母性缺席的容忍以及通过符号思维整合情感，从而培养出真正的智慧和创造力。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - china-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Winnicott
-  - Plato
-companies_orgs: []
-products_models: []
-media_books:
-  - new light on children's thinking
 status: evergreen
+summary: 本文探讨了中国社会中一个普遍现象：那些看似聪明理性的青少年，为何在成年后可能遭遇心理崩溃甚至自我毁灭。文章深入剖析了复杂的防御机制——例如利用心理学概念来隔离情感、僵化地理解独立与边界，以及强迫性的乐观主义——这些机制表面上具有适应性，实则导致心力枯竭和空虚。文章借鉴了D.W.温尼科特的理论，将这种“防御性理性”与“健康理性”进行对比，阐释了真正的智力发展如何源于对母性缺席的容忍以及通过符号思维整合情感，从而培养出真正的智慧和创造力。
+tags:
+- development
+- emotional
+- philosophy
+- thinking
+title: 中国式教育下，为何聪明孩子易走向自我毁灭？温尼科特论健康与防御性理性
+companies:
+- psychological-defense
 ---
 
 ### 中国聪明孩子的困境

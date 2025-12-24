@@ -1,43 +1,41 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
+- 中視
+- 馬偕醫院
 date: '2025-09-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《女人女人》
+people:
+- 宋晏仁
+- 鄭丞傑
+products_models:
+- 海芙刀
+- 微波刀
+- 達文西腹腔鏡
+- 鴨嘴器
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=qj4WzrXgXWw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - ovarian-cancer
-  - women-health
-  - gynecological-symptoms
-  - hifu-treatment
-  - menstrual-health
-  - obesity-link
-title: 婦科權威鄭丞傑醫師：卵巢癌早期徵兆常被忽視，女性健康警訊全解析
-summary: 婦科權威鄭丞傑醫師在《初日會客室》中指出，卵巢癌並非沒有早期症狀，而是其非特異性症狀（如腹脹、消化不良）常被女性忽視。他強調肥胖與多囊性卵巢等婦科疾病的密切關聯，並詳細介紹了海芙刀等微創治療技術。鄭醫師也深入探討了經痛的類型、月經週期記錄的重要性、更年期徵兆及私密處護理，呼籲女性提升自我健康意識，及早發現並處理身體警訊。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - 宋晏仁
-  - 鄭丞傑
-companies_orgs:
-  - 初日醫學
-  - Cofit
-  - 中視
-  - 馬偕醫院
-products_models:
-  - 海芙刀
-  - 微波刀
-  - 達文西腹腔鏡
-  - 鴨嘴器
-media_books:
-  - 《女人女人》
 status: evergreen
+summary: 婦科權威鄭丞傑醫師在《初日會客室》中指出，卵巢癌並非沒有早期症狀，而是其非特異性症狀（如腹脹、消化不良）常被女性忽視。他強調肥胖與多囊性卵巢等婦科疾病的密切關聯，並詳細介紹了海芙刀等微創治療技術。鄭醫師也深入探討了經痛的類型、月經週期記錄的重要性、更年期徵兆及私密處護理，呼籲女性提升自我健康意識，及早發現並處理身體警訊。
+tags:
+- health
+- menstrual-health
+- philosophy
+- society
+title: 婦科權威鄭丞傑醫師：卵巢癌早期徵兆常被忽視，女性健康警訊全解析
 ---
+
 ### 婦科權威鄭丞傑醫師：從醫學到人文的深耕
 
 宋晏仁醫師: 大家好，我是宋晏仁醫師，歡迎來到初日會客室。今天我們有幸邀請到一位名醫，他不僅在醫學領域成就斐然，更深具人文素養，寫過四十幾本暢銷書，他就是鄭丞傑醫師。

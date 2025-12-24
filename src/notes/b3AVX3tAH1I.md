@@ -1,54 +1,54 @@
 ---
-author: LT視界
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=b3AVX3tAH1I'
-speaker: LT視界
-tags:
-  - us-china-relations
-  - trade-war
-  - rare-earth-leverage
-  - strategic-decoupling
-  - political-negotiation
-title: 川习会：中美贸易战的暂时休战与战略脱钩的深层逻辑
-summary: 本文深入分析了近期川习会的成果，详细阐述了双方达成的四项确定性协议和两项未确定性承诺，包括关税调整、稀土出口管制及农产品采购。文章对比了中美官方、华尔街日报、彭博社、路透社等媒体的解读，并引用了前美国贸易代表罗伯特·莱特希泽和中国内部人士的观点，揭示了中国在稀土问题上的筹码以及中美关系在暂时缓和下的战略脱钩趋势。同时，也探讨了中国网民对谈判结果的看法。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - 贝森特
-  - William Bratton
-  - Robert Lighthizer
-  - 图星全
-  - 戈利尔
+category: geopolitics
 companies_orgs:
-  - 华尔街日报
-  - 彭博社
-  - 路透社
-  - 法国巴黎银行证券
-  - CNN
-  - 纽约时报
-  - 字节跳动
-  - 英伟达
-  - 美国商务部
-  - 中国商务部
-products_models:
-  - 芬太尼
-  - 稀土
-  - 大豆
-  - BlackWire芯片
+- 华尔街日报
+- 彭博社
+- 路透社
+- 法国巴黎银行证券
+- CNN
+- 纽约时报
+- ByteDance
+- Nvidia
+- 美国商务部
+- 中国商务部
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Donald Trump
+- Xi Jinping
+- 贝森特
+- William Bratton
+- Robert Lighthizer
+- 图星全
+- 戈利尔
+products_models:
+- 芬太尼
+- 稀土
+- 大豆
+- BlackWire芯片
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=b3AVX3tAH1I
+speaker: LT視界
 status: evergreen
+summary: 本文深入分析了近期川习会的成果，详细阐述了双方达成的四项确定性协议和两项未确定性承诺，包括关税调整、稀土出口管制及农产品采购。文章对比了中美官方、华尔街日报、彭博社、路透社等媒体的解读，并引用了前美国贸易代表罗伯特·莱特希泽和中国内部人士的观点，揭示了中国在稀土问题上的筹码以及中美关系在暂时缓和下的战略脱钩趋势。同时，也探讨了中国网民对谈判结果的看法。
+tags:
+- financial
+- political
+- rare-earth-leverage
+- trade-war
+- us-china-relations
+title: 川习会：中美贸易战的暂时休战与战略脱钩的深层逻辑
 ---
+
 ### 川习会成果：华尔街日报的初步评估
 
 华尔街日报报道了举世瞩目的**川习会**（Trump-Xi Meeting: 指美国总统唐纳德·特朗普与中国国家主席习近平之间的会晤），标题为《川普会见习近平，宣布立即削减关税》。报道指出，美国总统唐纳德·特朗普和中国领导人习近平举行了六年来的首次面对面会晤，两国之间激烈的贸易战暂时休战。双方协议旨在降低中美之间的直接紧张局势，此前两国因贸易和技术问题陷入激烈斗争，损害了两国经济。

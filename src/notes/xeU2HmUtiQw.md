@@ -1,86 +1,85 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs:
+- 人民教育出版社
 date: '2025-01-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 纪念白求恩
+- 为人民服务
+- 背影
+- 秋天的怀念
+- 阿长与《山海经》
+- 大堰河——我的保姆
+- 爱的教育
+- 回忆我的母亲
+- 散步
+- 荷叶·母亲
+- 边城
+- 从百草园到三味书屋
+- 社戏
+- 武昌节
+- 夜上受降城闻笛
+- 九月九日忆山东兄弟
+- 峨眉山月歌
+- 渡荆门送别
+- 黄鹤楼
+- 次北固山下
+- 天净沙·秋思
+- 春
+- 白杨礼赞
+- 雨的四季
+- 济南的冬天
+- 再塑生命的人
+- 我为什么而活着
+people:
+- Anthony
+- Louis Althusser
+- Michel Foucault
+- Jacques Lacan
+- Slavoj Žižek
+- Pierre Bourdieu
+- Mencius
+- Wang Yangming
+- Zhu Ziqing
+- Shi Tiesheng
+- Lu Xun
+- Ai Qing
+- Edmondo De Amicis
+- Zhu De
+- Mo Huaiqi
+- Bing Xin
+- Shen Congwen
+- Li Bai
+- Cui Hao
+- Wang Wan
+- Ma Zhiyuan
+- Mao Dun
+- Liu Zhanqiu
+- Lao She
+- Helen Keller
+- Bertrand Russell
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xeU2HmUtiQw
 speaker: Anthony看世界
-tags:
-  - chinese-education
-  - ideological-indoctrination
-  - personality-regression
-  - cultural-critique
-  - self-complexity
-title: 中国语文教育如何助长“巨婴”心态：意识形态的隐性灌输与人格退行
-summary: 本期节目深入探讨中国语文教育如何通过隐性意识形态灌输，鼓励一种人格不成熟和不独立的状态，即所谓的“巨婴”心态。文章分析了语文教材中对亲情、乡愁和自然美化的倾向，并结合阿尔都塞、福柯等法国思想家的理论，以及孟子、王阳明等儒家思想，揭示了这种教育模式如何利用人们的“误识”来固化传统权威，阻碍个体自由意识的觉醒和自我复杂性的提升，最终导致社会普遍的退行现象。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-  - historical-insights
-people:
-  - Anthony
-  - Louis Althusser
-  - Michel Foucault
-  - Jacques Lacan
-  - Slavoj Žižek
-  - Pierre Bourdieu
-  - Mencius
-  - Wang Yangming
-  - Zhu Ziqing
-  - Shi Tiesheng
-  - Lu Xun
-  - Ai Qing
-  - Edmondo De Amicis
-  - Zhu De
-  - Mo Huaiqi
-  - Bing Xin
-  - Shen Congwen
-  - Li Bai
-  - Cui Hao
-  - Wang Wan
-  - Ma Zhiyuan
-  - Mao Dun
-  - Liu Zhanqiu
-  - Lao She
-  - Helen Keller
-  - Bertrand Russell
-companies_orgs:
-  - 人民教育出版社
-products_models: []
-media_books:
-  - 纪念白求恩
-  - 为人民服务
-  - 背影
-  - 秋天的怀念
-  - 阿长与《山海经》
-  - 大堰河——我的保姆
-  - 爱的教育
-  - 回忆我的母亲
-  - 散步
-  - 荷叶·母亲
-  - 边城
-  - 从百草园到三味书屋
-  - 社戏
-  - 武昌节
-  - 夜上受降城闻笛
-  - 九月九日忆山东兄弟
-  - 峨眉山月歌
-  - 渡荆门送别
-  - 黄鹤楼
-  - 次北固山下
-  - 天净沙·秋思
-  - 春
-  - 白杨礼赞
-  - 雨的四季
-  - 济南的冬天
-  - 再塑生命的人
-  - 我为什么而活着
 status: evergreen
+summary: 本期节目深入探讨中国语文教育如何通过隐性意识形态灌输，鼓励一种人格不成熟和不独立的状态，即所谓的“巨婴”心态。文章分析了语文教材中对亲情、乡愁和自然美化的倾向，并结合阿尔都塞、福柯等法国思想家的理论，以及孟子、王阳明等儒家思想，揭示了这种教育模式如何利用人们的“误识”来固化传统权威，阻碍个体自由意识的觉醒和自我复杂性的提升，最终导致社会普遍的退行现象。
+tags:
+- chinese-education
+- cultural-critique
+- philosophy
+- psychology
+- self
+title: 中国语文教育如何助长“巨婴”心态：意识形态的隐性灌输与人格退行
 ---
 
 ### 引言：中国语文教育与人格成长

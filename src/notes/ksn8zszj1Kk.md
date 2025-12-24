@@ -1,41 +1,41 @@
 ---
-author: 天下文化
+area: personal-systems
+category: psychology
+companies_orgs:
+- 台积电
+- 淡马锡
+- 麦肯锡
+- 分众传媒
+- 海底捞
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《你问对问题了吗？》
+- 《第三选择》
+people:
+- 彼得·杜拉克
+- 江南春
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=ksn8zszj1Kk
 speaker: 天下文化
-tags:
-  - problem-framing
-  - critical-thinking
-  - decision-making
-  - cognitive-biases
-  - innovation-mindset
-title: 《你问对问题了吗？》：重组问题框架，探寻问题本质的智慧
-summary: 本期好书导读，好哥深入剖析《你问对问题了吗？》一书。该书强调重组问题框架的重要性，而非仅仅分析问题。通过电梯速度、分众传媒和海底捞等生动案例，阐述了如何通过多问来探寻问题本质，从而将逆境转化为顺境。节目还分享了职场人士如何通过正确提问解决职业困惑的真实故事，旨在启发听众提升高阶思维能力，做出更精准的决策。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 彼得·杜拉克
-  - 江南春
-companies_orgs:
-  - 台积电
-  - 淡马锡
-  - 麦肯锡
-  - 分众传媒
-  - 海底捞
-products_models: []
-media_books:
-  - 《你问对问题了吗？》
-  - 《第三选择》
 status: evergreen
+summary: 本期好书导读，好哥深入剖析《你问对问题了吗？》一书。该书强调重组问题框架的重要性，而非仅仅分析问题。通过电梯速度、分众传媒和海底捞等生动案例，阐述了如何通过多问来探寻问题本质，从而将逆境转化为顺境。节目还分享了职场人士如何通过正确提问解决职业困惑的真实故事，旨在启发听众提升高阶思维能力，做出更精准的决策。
+tags:
+- cognitive-bias
+- critical-thinking
+- decision-making
+- innovation
+- problem
+title: 《你问对问题了吗？》：重组问题框架，探寻问题本质的智慧
 ---
+
 ### 引言：重塑问题框架的重要性
 
 大家好，我是好学好哥，欢迎来到好书导读这个单元。今天要介绍的这本书，看起来像画册一样，我非常喜欢，尤其它整个封面的设计，我一拿到的时候都爱不释手。再加上这个题目，不管是好哥以前在**台积电**（TSMC: 台湾积体电路制造公司，全球最大的专业集成电路制造服务公司），或者是在**淡马锡**（Temasek: 新加坡政府的投资公司）的时候，都非常在意所谓的逻辑跟问题分析解决，我想这本书真的应该人手一本。它的题目叫做《你问对问题了吗？》（What's Your Problem?）。

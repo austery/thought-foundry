@@ -1,44 +1,44 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Mobility for Africa
+- Unicef
+- Fur Energy
 date: '2024-08-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Last Economy
+people:
+- Shantha Bloemen
+- Emma Pang
+- Richard Jaia
+- Sister J Demo
+products_models:
+- Hamba
+- Lithium battery system
+- Modular charging station
+project:
+- us-analysis
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9c-XnvZVVvw
 speaker: 一席YiXi
-tags:
-  - rural-mobility-crisis
-  - gender-equality-through-technology
-  - decentralized-energy-solutions
-  - last-mile-logistics
-  - climate-resilience
-title: 将电力革命带到非洲农村：一位澳大利亚女性的电动三轮车创业故事
-summary: Shantha Bloemen 通过在津巴布韦开展试点项目，为非洲农村女性引入电动三轮车，不仅解决交通困境，更推动性别平等、提升农业生产力与医疗可及性，并构建本地化充电与电池回收系统，证明清洁能源在偏远地区具有颠覆性潜力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Shantha Bloemen
-  - Emma Pang
-  - Richard Jaia
-  - Sister J Demo
-companies_orgs:
-  - Mobility for Africa
-  - Unicef
-  - Fur Energy
-products_models:
-  - Hamba
-  - Lithium battery system
-  - Modular charging station
-media_books:
-  - The Last Economy
 status: evergreen
+summary: Shantha Bloemen 通过在津巴布韦开展试点项目，为非洲农村女性引入电动三轮车，不仅解决交通困境，更推动性别平等、提升农业生产力与医疗可及性，并构建本地化充电与电池回收系统，证明清洁能源在偏远地区具有颠覆性潜力。
+tags:
+- business
+- climate-resilience
+- crisis
+- energy
+- technology
+title: 将电力革命带到非洲农村：一位澳大利亚女性的电动三轮车创业故事
 ---
+
 ### 从水桶到三轮车：一位澳大利亚女性的非洲觉醒
 
 我的名字是珊塔·布洛门，我是“非洲出行”这家初创公司的创始人兼首席执行官。我们在津巴布韦和南部非洲工作，致力于将中国的“沙勒姆”电动三轮车改造为适合非洲农村小农的坚固电动三轮车。正如你们从我的口音中能听出，我不是非洲人——我出生在澳大利亚。我对非洲的连接始于大学时期，那时我学习非洲历史。毕业后，我不想再停留在书本上，于是前往赞比亚北部做志愿者。

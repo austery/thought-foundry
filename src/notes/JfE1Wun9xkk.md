@@ -1,31 +1,30 @@
 ---
-title: Sam Altman谈Sora、能源与构建AI帝国
-summary: Sam Altman在本播客中探讨OpenAI的四重业务模式、Sora对AGI的意义、AI科学家的前景、能源挑战与核能未来，以及AI发展中的文化与商业化思考。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- agi
-- ai
-- energy
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs:
 - openai
-products_models:
-- sora
-media_books: []
 date: '2025-10-08'
-author: a16z
-speaker: a16z
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models:
+- sora
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=JfE1Wun9xkk
+speaker: a16z
 status: evergreen
+summary: Sam Altman在本播客中探讨OpenAI的四重业务模式、Sora对AGI的意义、AI科学家的前景、能源挑战与核能未来，以及AI发展中的文化与商业化思考。
+tags:
+- agi
+- energy
+title: Sam Altman谈Sora、能源与构建AI帝国
 ---
+
 ### AI发现的奇迹与进步
 
 I sort of thought we had stumbled on this one giant secret: that we had these scaling laws for language models. That felt like such an incredible triumph. I was like, "We're probably never going to get that lucky again." And deep learning has been this miracle that keeps on giving, and we have kept finding breakthrough after breakthrough. Again, when we got the reasoning model breakthrough, I also thought that was like, "We're never going to get another one like that." And it just seems so improbable that this one technology works so well. But maybe this is always what it feels like when you discover one of the big scientific breakthroughs. If it's really big, it's pretty fundamental and it just keeps working.

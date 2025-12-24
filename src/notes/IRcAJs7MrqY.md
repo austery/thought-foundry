@@ -1,52 +1,51 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- York University
+- Clean Energy Canada
+- McMaster University
+- DeGroote School of Business
+- Brookings Institution
+- Nanos Research
+- Independent Electricity System Operator (IESO)
+- Ontario Energy Board
+- WTO
+- GM
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Doug Ford
+- Mike Shriner
+- Mark Winfield
+- Joanna Curassis
+- Adisu Lashau
+- Mark Carney
+- Donald Trump
+products_models:
+- Small Modular Reactor
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=IRcAJs7MrqY
 speaker: TVO Today
-tags:
-  - electricity-subsidies
-  - nuclear-power
-  - ev-tariffs
-  - trade-policy
-  - consumer-costs
-title: 安大略省电价上涨与加拿大对中国电动汽车关税的辩论
-summary: 本文深入探讨了加拿大当前面临的两大政治经济挑战。首先，安大略省电价因大规模核能项目和缺乏监管而大幅上涨，政府通过增加补贴来缓解民众负担，但引发了对财政可持续性和政策透明度的质疑。其次，加拿大对中国电动汽车征收100%关税，引发了公众支持率下降、对国内汽车产业影响以及与美墨加协定（KUSMA）重新谈判的复杂考量。文章对比了欧盟的差异化关税策略，并探讨了加拿大在平衡产业保护、消费者利益和国际贸易关系方面的潜在路径。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Doug Ford
-  - Mike Shriner
-  - Mark Winfield
-  - Joanna Curassis
-  - Adisu Lashau
-  - Mark Carney
-  - Donald Trump
-companies_orgs:
-  - TVO Today
-  - York University
-  - Clean Energy Canada
-  - McMaster University
-  - DeGroote School of Business
-  - Brookings Institution
-  - Nanos Research
-  - Independent Electricity System Operator (IESO)
-  - Ontario Energy Board
-  - WTO
-  - GM
-products_models:
-  - Small Modular Reactor
-media_books: []
 status: evergreen
+summary: 本文深入探讨了加拿大当前面临的两大政治经济挑战。首先，安大略省电价因大规模核能项目和缺乏监管而大幅上涨，政府通过增加补贴来缓解民众负担，但引发了对财政可持续性和政策透明度的质疑。其次，加拿大对中国电动汽车征收100%关税，引发了公众支持率下降、对国内汽车产业影响以及与美墨加协定（KUSMA）重新谈判的复杂考量。文章对比了欧盟的差异化关税策略，并探讨了加拿大在平衡产业保护、消费者利益和国际贸易关系方面的潜在路径。
+tags:
+- consumer
+- ev-tariff
+- power
+- society
+- trade-policy
+title: 安大略省电价上涨与加拿大对中国电动汽车关税的辩论
 ---
+
 ### 安大略省电价上涨与核能扩张
 
 自11月1日起，安大略省居民面临电费上涨29%的冲击。但省长**道格·福特**（Doug Ford: 安大略省省长）也将提高电力补贴，这意味着实际感受到的涨幅不会那么大。是什么导致了电价飙升？投入数十亿加元进行补贴是否合理？读者**迈克·施赖纳**（Mike Shriner: 评论员）显然不这么认为。纳税人不会完全感受到福特政府带来的这次剧烈电价上涨的冲击，因为政府增加了电力补贴金额，每年已超过60亿加元，据财务问责官称，这一数字可能还会攀升，且不成比例地惠及富裕家庭，却牺牲了工薪阶层的利益。

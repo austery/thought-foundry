@@ -1,78 +1,80 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Sentry
+- Uber
+- Google
+- Mozilla
+- Statsig
+- Linear
+- Stainless
+- PSPDFKit
+- Flickr
+- Slack
+- Debian
+- Red Hat
+- Meta
+- AWS
 date: '2025-10-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Python Documentary
+people:
+- Armin Ronacher
+- Guido van Rossum
+- Peter Steinberger
+- Ron Presler
+- Kell Henderson
+products_models:
+- Python
+- Rust
+- Go
+- TypeScript
+- Flask
+- Claude
+- Codex
+- JavaScript
+- C++
+- C#
+- Java
+- WebAssembly
+- npm
+- React
+- Node.js
+- Express
+- React Server Components
+- Cursor
+- Terraform
+- Pulumi
+- OpenAPI
+- GitHub
+- ChatGPT
+- Next.js
+- Project Loom
+- OpenTelemetry
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=45kVol96IlM
 speaker: The Pragmatic Engineer
-tags:
-  - programming-language-tradeoffs
-  - ai-assisted-development
-  - startup-tech-stack
-  - error-handling-philosophy
-title: Armin Ronacher 深度访谈：AI 如何重塑 Python、Go、Rust 的选择与未来
-summary: 知名开源贡献者、Flask 框架作者 Armin Ronacher 深入探讨了当今主流编程语言 Python、Go、Rust 和 TypeScript 的生态系统与权衡。他分享了自己对 AI 编程工具从怀疑到高度依赖的转变，并阐述了 AI 如何改变初创公司的构建方式、开发效率以及编程语言选择的重要性。此外，他还从 Sentry 的经验出发，分享了关于错误处理、语言设计哲学以及对“996”工作文化的独到见解。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Armin Ronacher
-  - Guido van Rossum
-  - Peter Steinberger
-  - Ron Presler
-  - Kell Henderson
-companies_orgs:
-  - Sentry
-  - Uber
-  - Google
-  - Mozilla
-  - Statsig
-  - Linear
-  - Stainless
-  - PSPDFKit
-  - Flickr
-  - Slack
-  - Debian
-  - Red Hat
-  - Facebook
-  - AWS
-products_models:
-  - Python
-  - Rust
-  - Go
-  - TypeScript
-  - Flask
-  - Claude
-  - Codex
-  - JavaScript
-  - C++
-  - C#
-  - Java
-  - WebAssembly
-  - npm
-  - React
-  - Node.js
-  - Express
-  - React Server Components
-  - Cursor
-  - Terraform
-  - Pulumi
-  - OpenAPI
-  - GitHub
-  - ChatGPT
-  - Next.js
-  - Project Loom
-  - OpenTelemetry
-media_books:
-  - The Python Documentary
 status: evergreen
+summary: 知名开源贡献者、Flask 框架作者 Armin Ronacher 深入探讨了当今主流编程语言 Python、Go、Rust 和 TypeScript
+  的生态系统与权衡。他分享了自己对 AI 编程工具从怀疑到高度依赖的转变，并阐述了 AI 如何改变初创公司的构建方式、开发效率以及编程语言选择的重要性。此外，他还从
+  Sentry 的经验出发，分享了关于错误处理、语言设计哲学以及对“996”工作文化的独到见解。
+tags:
+- development
+- language
+- philosophy
+- tech
+title: Armin Ronacher 深度访谈：AI 如何重塑 Python、Go、Rust 的选择与未来
 ---
+
 ### 播客介绍
 
 Host：你如何看待当今的 Python、Rust 和 Go 的生态系统？

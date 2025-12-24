@@ -1,45 +1,44 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- Costco
+- 清华紫光
+- 北大方正
+- Microsoft
+- Oracle
+- Alibaba
 date: '2023-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 马云
+- 罗永浩
+- 俞敏洪
+- 老赵
+- 老侯
+products_models:
+- iPhone
+- 特斯拉
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=5WjbuuTdUsI
 speaker: 莊也雜談
-tags:
-  - china-economy
-  - state-private-sector
-  - consumption-downgrade
-  - political-pressure
-  - social-observation
-title: 庄也杂谈：从酒桌见闻透视中国经济与社会变迁
-summary: 本期节目中，庄也分享了回国探亲期间，与各行各业朋友聚餐时的见闻与感悟。通过对体制内外、国企民企、外企员工等不同群体的观察，深入探讨了中国经济的“国进民退”现象、消费降级趋势以及体制内面临的政治学习与形式主义压力。节目以小见大，展现了中国社会经济的复杂面貌。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people:
-  - 马云
-  - 罗永浩
-  - 俞敏洪
-  - 老赵
-  - 老侯
-companies_orgs:
-  - Costco
-  - 清华紫光
-  - 北大方正
-  - 微软
-  - Oracle
-  - 阿里巴巴
-products_models:
-  - iPhone
-  - 特斯拉
-media_books: []
 status: evergreen
+summary: 本期节目中，庄也分享了回国探亲期间，与各行各业朋友聚餐时的见闻与感悟。通过对体制内外、国企民企、外企员工等不同群体的观察，深入探讨了中国经济的“国进民退”现象、消费降级趋势以及体制内面临的政治学习与形式主义压力。节目以小见大，展现了中国社会经济的复杂面貌。
+tags:
+- china-economy
+- consumption
+- political-pressure
+- social
+- state
+title: 庄也杂谈：从酒桌见闻透视中国经济与社会变迁
 ---
+
 ### 庄也的“网红”体验与趣事
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天我们继续聊我回国的话题。在讲之前，先说一个比较好玩的。上个周六，我去**Costco**（好市多: 美国最大的连锁会员制仓储量贩店）买菜，结果又一次被网友认出。这是我做视频以来，第二次被粉丝现场“活捉”。当时没有心理准备，被抓到之后也不知道说什么好。想签名吧，也没带笔；说聊两句合个影吧，人家也忙。所以说，就愣是把我给弄得不知所措了。不过，不管怎么说，我都要感谢这位热心的网友，让我过了一把当网红的干瘾。

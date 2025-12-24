@@ -1,41 +1,40 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- TSMC
+- AMD
+- JPMorgan
+- Goldman Sachs
 date: '2025-07-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Joe Biden
+- Jerome Powell
+products_models:
+- GPT
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=f3c6NU0p2fc
 speaker: Shanghao Jin
-tags:
-  - us-political-economy
-  - tariff-impact
-  - semiconductor-demand
-  - chinese-economic-outlook
-  - market-risk-assessment
-title: 2025年7月市场展望：政策、地缘与科技驱动下的风险与机遇
-summary: 本文回顾了自去年底以来对市场风险的判断，并展望未来。重点分析了美国关税、移民政策和预算赤字对经济的影响，认为极端风险有所下降，但关税影响将持续显现。同时，文章深入探讨了半导体行业在AI需求驱动下的强劲增长，以及美国银行业在监管放松下的积极预期。对于中国经济，文章指出消费数据持续疲软，并对通过“涨价去库存”刺激经济的策略表示悲观。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Joe Biden
-  - Jerome Powell
-companies_orgs:
-  - TSMC
-  - AMD
-  - JPMorgan
-  - Goldman Sachs
-products_models:
-  - GPT
-media_books: []
 status: evergreen
+summary: 本文回顾了自去年底以来对市场风险的判断，并展望未来。重点分析了美国关税、移民政策和预算赤字对经济的影响，认为极端风险有所下降，但关税影响将持续显现。同时，文章深入探讨了半导体行业在AI需求驱动下的强劲增长，以及美国银行业在监管放松下的积极预期。对于中国经济，文章指出消费数据持续疲软，并对通过“涨价去库存”刺激经济的策略表示悲观。
+tags:
+- chinese-economic-outlook
+- market
+- semiconductor-demand
+- tariff-impact
+- us-political-economy
+title: 2025年7月市场展望：政策、地缘与科技驱动下的风险与机遇
 ---
+
 ### 市场风险回顾与未来展望
 
 从去年年底开始，市场经济面临着高底线和高风险并存的局面。当时我们提出了几个主要风险点，尤其是**尾部风险**（Tail Risk: 发生概率极低但影响极大的风险）。现在，我们重新审视当时的判断，并展望未来的市场走势。

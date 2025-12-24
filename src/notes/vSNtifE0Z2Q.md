@@ -1,41 +1,39 @@
 ---
-author: Veritasium
-date: '2023-04-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vSNtifE0Z2Q
-speaker: Veritasium
-tags:
-  - veritasium
-  - shape-memory-alloy
-  - nitinol
-  - space-exploration
-  - superelasticity
-  - material-science
-title: NASA如何重塑车轮：记忆合金Nitinol的魔力与应用
-summary: 本文深入探讨了镍钛诺（Nitinol）这种神奇的形状记忆合金，它凭借超弹性、形状记忆效应和热致相变等独特性能，被广泛应用于医疗设备、航空航天等领域。重点介绍了NASA如何利用Nitinol为火星探测器和月球车开发出无需充气、耐用且能适应极端环境的新型车轮，以及其在自行车轮胎、飞机襟翼等地球应用中的潜力，揭示了材料科学如何推动工程创新。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Jim
-  - Santo
+category: technology
 companies_orgs:
-  - NASA
-  - Naval Ordnance Laboratory
-  - Henson Shaving
+- NASA
+- Naval Ordnance Laboratory
+- Henson Shaving
+date: '2023-04-29'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Jim
+- Santo
 products_models:
-  - Curiosity rover
-  - Apollo Lunar Roving Vehicle
-  - AL 13 razor
-media_books: []
+- Curiosity rover
+- Apollo Lunar Roving Vehicle
+- AL 13 razor
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=vSNtifE0Z2Q
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了镍钛诺（Nitinol）这种神奇的形状记忆合金，它凭借超弹性、形状记忆效应和热致相变等独特性能，被广泛应用于医疗设备、航空航天等领域。重点介绍了NASA如何利用Nitinol为火星探测器和月球车开发出无需充气、耐用且能适应极端环境的新型车轮，以及其在自行车轮胎、飞机襟翼等地球应用中的潜力，揭示了材料科学如何推动工程创新。
+tags:
+- material-science
+- memory
+- nitinol
+- society
+- space-exploration
+title: NASA如何重塑车轮：记忆合金Nitinol的魔力与应用
 ---
+
 ### 镍钛诺：自然界中的“魔法金属”
 
 这种金属是自然界中能找到的，最接近魔法的物质。我简直无法理解它。它能调整原子排列，恢复到预设的形状，同时还能在机械能和热能之间进行转换。它还能比普通金属多拉伸30倍，却依然能弹回原始尺寸。我能感觉到它在我手中收缩回去。

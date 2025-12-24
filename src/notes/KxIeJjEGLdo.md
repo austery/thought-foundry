@@ -1,61 +1,61 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: history
+companies_orgs:
+- Naval War College
+- 日本银行
+- IMF
+- WikiLeaks
+- New York Times
+- British Commonwealth
 date: '2025-07-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《孙子兵法》
+- 《君主论》
+people:
+- 明治天皇
+- Otto von Bismarck
+- 伊藤博文
+- 西奥多·罗斯福
+- 金子坚太郎
+- 小村寿太郎
+- 山县有朋
+- 明石元二郎
+- 袁世凯
+- 尼古拉二世
+- 马卡罗夫海军上将
+- 大山岩元帅
+- 乃木希典将军
+- 斯蒂芬·科特金
+- 彼得大帝
+- 拿破仑·波拿巴
+- 乔治·华盛顿
+- 邓小平
+- 孙中山
+- 庇隆
+- 丘吉尔
+- 埃隆·马斯克
+- 索尔克医生
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=KxIeJjEGLdo
 speaker: Dwarkesh Patel
-tags:
-  - institutional-reform
-  - grand-strategy
-  - meiji-restoration
-  - russo-japanese-war
-  - balance-of-power
-title: 明治日本如何通过战略决策与制度改革崛起
-summary: 本讲座深入探讨了明治维新时期日本如何通过巧妙的决策、制度改革和宏大战略，成功扭转亚洲力量平衡，击败清朝中国和沙皇俄国，成为亚洲唯一的非西方现代化强国。讲者详细分析了日本西化改革的国内阶段、整合外交、情报、军事和经济力量的对外阶段，以及在日俄战争中精准把握“胜利顶点”的战略智慧。同时，讲座也提出了反驳观点，探讨了中国内部动乱和沙皇俄国自身体制缺陷对日本崛起的影响，并引申至现代国家治理和国际关系中的制度重要性。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - 明治天皇
-  - Otto von Bismarck
-  - 伊藤博文
-  - 西奥多·罗斯福
-  - 金子坚太郎
-  - 小村寿太郎
-  - 山县有朋
-  - 明石元二郎
-  - 袁世凯
-  - 尼古拉二世
-  - 马卡罗夫海军上将
-  - 大山岩元帅
-  - 乃木希典将军
-  - 斯蒂芬·科特金
-  - 彼得大帝
-  - 拿破仑·波拿巴
-  - 乔治·华盛顿
-  - 邓小平
-  - 孙中山
-  - 庇隆
-  - 丘吉尔
-  - 埃隆·马斯克
-  - 索尔克医生
-companies_orgs:
-  - Naval War College
-  - 日本银行
-  - IMF
-  - WikiLeaks
-  - New York Times
-  - British Commonwealth
-products_models: []
-media_books:
-  - 《孙子兵法》
-  - 《君主论》
 status: evergreen
+summary: 本讲座深入探讨了明治维新时期日本如何通过巧妙的决策、制度改革和宏大战略，成功扭转亚洲力量平衡，击败清朝中国和沙皇俄国，成为亚洲唯一的非西方现代化强国。讲者详细分析了日本西化改革的国内阶段、整合外交、情报、军事和经济力量的对外阶段，以及在日俄战争中精准把握“胜利顶点”的战略智慧。同时，讲座也提出了反驳观点，探讨了中国内部动乱和沙皇俄国自身体制缺陷对日本崛起的影响，并引申至现代国家治理和国际关系中的制度重要性。
+tags:
+- meiji-restoration
+- power
+- reform
+- strategy
+- war
+title: 明治日本如何通过战略决策与制度改革崛起
 ---
+
 今天，我将与大家探讨现代日本历史上两个伟大世代中的一个：**明治世代**。这个世代以**明治天皇**命名，他们将日本转变为那个时期第一个也是唯一一个非西方现代化强国。现代日本的第二个伟大世代，当然是战后世代，他们将国家建设成为一个全球强国。
 
 我将尝试提出并回答一个问题：在我今天将要讨论的时期，亚洲力量平衡逆转的原因是什么？这是一个关于国际体系中为何会发生这些巨大变化的重大问题。历史上，**中国**自古以来一直是亚洲的主导文明。然而，新兴的**日本**采取了一系列行动，或者说**中国**自身发生了一些变化，导致力量平衡逆转，并产生了深远影响。这个问题在今天也极具现实意义，因为我们正在经历一场逆转的逆转，**中国**正在崛起，并威胁要将**日本**重新“关进盒子里”。因此，探究这些变化如何发生，是一个非常有趣的问题。

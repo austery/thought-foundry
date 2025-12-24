@@ -1,32 +1,31 @@
 ---
-title: 全球商业洞察：加沙和平、AI芯片与企业财报分析
-summary: 本期播客深入探讨了加沙和平协议的复杂性与未来挑战，OpenAI在AI芯片领域的激进布局及其对成本的影响，以及Fastenal和Levi Strauss如何应对关税、供应链调整和不断变化的消费者需求，提供了对当前全球经济和商业趋势的全面洞察。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-chips
-- corporate-earnings
-- gaza-peace
-- supply-chain
-- tariffs
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=CDemwFYWAGc
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期播客深入探讨了加沙和平协议的复杂性与未来挑战，OpenAI在AI芯片领域的激进布局及其对成本的影响，以及Fastenal和Levi Strauss如何应对关税、供应链调整和不断变化的消费者需求，提供了对当前全球经济和商业趋势的全面洞察。
+tags:
+- ai-chip
+- corporate-earning
+- geopolitical
+- supply-chain
+- tariff
+title: 全球商业洞察：加沙和平、AI芯片与企业财报分析
 ---
+
 ### 播客开场与嘉宾介绍
 
 Bloomberg Audio Studios, podcasts, radio, news. This is Bloomberg Business Week Daily, reporting from the magazine that helps global leaders stay ahead with insight on the people, companies, and trends shaping today's complex economy, plus global business, finance, and tech news as it happens. The Bloomberg Business Week Daily podcast with Carol Masser and Tim Stenbec on Bloomberg Radio.

@@ -1,88 +1,88 @@
 ---
-author: a16z
+area: society-systems
+category: culture
+companies_orgs:
+- a16z
+- NAACP
+- UC Berkeley
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Once Upon a Time in Hollywood
+- Mulholland Drive
+- The Player
+- Sunset Boulevard
+- Bugsy
+- Chinatown
+- Boogie Nights
+- Pulp Fiction
+- Reservoir Dogs
+- Inglourious Basterds
+- Tropic Thunder
+- The Deer Hunter
+- Full Metal Jacket
+- Born on the Fourth of July
+- Apocalypse Now
+- Oppenheimer
+- Fight Club
+- Tenet
+- Inception
+- Taxi Driver
+- Rain Man
+- Forrest Gump
+- What's Eating Gilbert Grape
+- American Beauty
+- The Man Show
+- Lancer
+- Thinking Big
+- When Reason Goes on Holiday
+people:
+- Marc Andreessen
+- Quentin Tarantino
+- Charles Manson
+- Sharon Tate
+- Roman Polanski
+- Leonardo DiCaprio
+- Brad Pitt
+- Jodie Foster
+- Richard Nixon
+- Robert Downey Jr.
+- Ben Stiller
+- Tom Cruise
+- Harvey Weinstein
+- Christopher Nolan
+- J. Robert Oppenheimer
+- Lewis Strauss
+- Albert Einstein
+- Edward Teller
+- Harry Truman
+- Jimmy Kimmel
+- Adam Corolla
+- David Fincher
+- Edward Norton
+- Heath Ledger
+- Daniel Day-Lewis
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=dA70aAiSxv4
 speaker: a16z
-tags:
-  - hollywood-meta-narrative
-  - cultural-revolution
-  - alternate-history
-  - societal-change
-title: 从《好莱坞往事》到《搏击俱乐部》：电影如何成为解读美国的钥匙
-summary: 本期内容深入探讨了《好莱坞往事》、《热带惊雷》、《奥本海默》和《搏击俱乐部》等标志性电影。主讲人认为，这些影片不仅是娱乐作品，更是解读美国社会文化变迁的关键棱镜。文章分析了1969年曼森谋杀案如何终结了60年代的乐观主义，以及电影如何通过虚构叙事反映和重塑了美国历史的关键转折点。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Marc Andreessen
-  - Quentin Tarantino
-  - Charles Manson
-  - Sharon Tate
-  - Roman Polanski
-  - Leonardo DiCaprio
-  - Brad Pitt
-  - Jodie Foster
-  - Richard Nixon
-  - Robert Downey Jr.
-  - Ben Stiller
-  - Tom Cruise
-  - Harvey Weinstein
-  - Christopher Nolan
-  - J. Robert Oppenheimer
-  - Lewis Strauss
-  - Albert Einstein
-  - Edward Teller
-  - Harry Truman
-  - Jimmy Kimmel
-  - Adam Corolla
-  - David Fincher
-  - Edward Norton
-  - Heath Ledger
-  - Daniel Day-Lewis
-companies_orgs:
-  - a16z
-  - NAACP
-  - UC Berkeley
-products_models: []
-media_books:
-  - Once Upon a Time in Hollywood
-  - Mulholland Drive
-  - The Player
-  - Sunset Boulevard
-  - Bugsy
-  - Chinatown
-  - Boogie Nights
-  - Pulp Fiction
-  - Reservoir Dogs
-  - Inglourious Basterds
-  - Tropic Thunder
-  - The Deer Hunter
-  - Full Metal Jacket
-  - Born on the Fourth of July
-  - Apocalypse Now
-  - Oppenheimer
-  - Fight Club
-  - Tenet
-  - Inception
-  - Taxi Driver
-  - Rain Man
-  - Forrest Gump
-  - What's Eating Gilbert Grape
-  - American Beauty
-  - The Man Show
-  - Lancer
-  - Thinking Big
-  - When Reason Goes on Holiday
 status: evergreen
+summary: 本期内容深入探讨了《好莱坞往事》、《热带惊雷》、《奥本海默》和《搏击俱乐部》等标志性电影。主讲人认为，这些影片不仅是娱乐作品，更是解读美国社会文化变迁的关键棱镜。文章分析了1969年曼森谋杀案如何终结了60年代的乐观主义，以及电影如何通过虚构叙事反映和重塑了美国历史的关键转折点。
+tags:
+- cultural-revolution
+- history
+- narrative
+- societal
+title: 从《好莱坞往事》到《搏击俱乐部》：电影如何成为解读美国的钥匙
 ---
+
 ### 电影中的好莱坞：解读美国的棱镜
 
 >> 很高兴 Modern the Situation 团队再次回归，带来新一期的电影节目。马克，感谢再次加入。

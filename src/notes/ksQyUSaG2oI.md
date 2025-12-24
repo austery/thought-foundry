@@ -1,65 +1,65 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国政法大学
+- 全国人大
+- 团中央
+- 公安部门
+- 政法委
+- 最高检察院
+- 西南政法大学
+- 重庆大学法学院
 date: '2024-01-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中国青年报·冰点周刊》
+people:
+- 江平
+- 贺卫方
+- 柴静
+- 朱镕基
+- 温家宝
+- 刘少奇
+- 彭德怀
+- 胡锦涛
+- 周永康
+- 薄熙来
+- 王立军
+- 文强
+- 李庄
+- 袁伟思
+- 赵勇
+- 张思之
+- 李宣
+- 蒋彦勇
+- 胡适
+products_models:
+- 民法通则
+- 物权法
+- 行政诉讼法
+- 立法法
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ksQyUSaG2oI
 speaker: 柴静 Chai Jing
-tags:
-  - judicial-independence
-  - rule-of-law
-  - constitutionalism
-  - freedom-of-speech
-  - labor-reeducation
-title: 贺卫方忆江平：没有独立的司法，没有一个人是安全的
-summary: 本文是柴静对贺卫方教授的访谈实录，围绕已故法学家江平先生的生平与思想展开。贺卫方教授深入阐述了江平先生为中国法治、言论自由和宪政社会所做的毕生努力，包括其在1989年事件中的立场、对劳教制度的批判、以及在“冰点事件”和重庆“打黑”期间对司法独立的呼吁。访谈揭示了中国法治建设的艰难历程，以及知识分子在复杂政治环境中坚守底线的挑战与意义。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 江平
-  - 贺卫方
-  - 柴静
-  - 朱镕基
-  - 温家宝
-  - 刘少奇
-  - 彭德怀
-  - 胡锦涛
-  - 周永康
-  - 薄熙来
-  - 王立军
-  - 文强
-  - 李庄
-  - 袁伟思
-  - 赵勇
-  - 张思之
-  - 李宣
-  - 蒋彦勇
-  - 胡适
-companies_orgs:
-  - 中国政法大学
-  - 全国人大
-  - 团中央
-  - 公安部门
-  - 政法委
-  - 最高检察院
-  - 西南政法大学
-  - 重庆大学法学院
-products_models:
-  - 民法通则
-  - 物权法
-  - 行政诉讼法
-  - 立法法
-media_books:
-  - 《中国青年报·冰点周刊》
 status: evergreen
+summary: 本文是柴静对贺卫方教授的访谈实录，围绕已故法学家江平先生的生平与思想展开。贺卫方教授深入阐述了江平先生为中国法治、言论自由和宪政社会所做的毕生努力，包括其在1989年事件中的立场、对劳教制度的批判、以及在“冰点事件”和重庆“打黑”期间对司法独立的呼吁。访谈揭示了中国法治建设的艰难历程，以及知识分子在复杂政治环境中坚守底线的挑战与意义。
+tags:
+- constitutionalism
+- freedom-of-speech
+- judicial-independence
+- labor
+- rule-of-law
+title: 贺卫方忆江平：没有独立的司法，没有一个人是安全的
 ---
+
 ### 江平先生的葬礼与“朝野共识”
 
 上个月23号，中国民法学者**江平**先生的追悼会上，上千人冒着严寒前来为他送行。一个出人意外的细节是，葬礼上出现了中国两位前总理朱镕基、温家宝和多位政界人物送的花圈。要知道，江平先生是一位自称“只向真理低头”的知识分子，他的道德权威是在1989年之后被免职后树立起来的。此后，他一直代表着法治对于**公权力**（Public Power: 国家机关及其工作人员依法行使的权力）的制约力量。他曾和学生贺卫方一起公开声援被停刊的媒体，建议全国人大启动对于**劳教制度**（劳动教养制度: 一种未经司法审判即可限制人身自由的行政处罚制度）的违宪审查，并且对于重庆运动式“打黑”当中法院和检察院丧失独立性提出公开批评。这样一位为了中国的言论自由、司法公正和宪政社会呐喊终生的人，为什么会在这样的时刻以这样的方式得到缅怀？今天我们请贺卫方教授一起来谈这个问题。

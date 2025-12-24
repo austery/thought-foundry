@@ -1,48 +1,47 @@
 ---
-author: 三個水槍手
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 中国共产党
+- 日本自民党
+- 联合国
+- 北洋政府
+- 国民党
+- 中华民国
+- 苏联
+- 越南
+- 红色高棉
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 伍大伟
+- 温家宝
+- 华春莹
+- 王毅
+- 孙中山
+- 蒋介石
+- 邓小平
+- 毛泽东
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=SmZOKgKZ8Y8
 speaker: 三個水槍手
-tags:
-  - oda
-  - japan-china-relations
-  - historical-analysis
-  - nationalism
-  - international-aid
-title: 深度解析中日ODA争议：历史恩怨、国家利益与民众认知
-summary: 本期节目深入探讨了日本对华官方发展援助（ODA）引发的争议，并回应了观众关于中日关系、历史认知及国家利益的疑问。节目分析了ODA在中国改革开放中的作用，以及部分民众对此的复杂情感和质疑。同时，还触及了核潜艇技术、历史条约的解读、民族主义的形成以及对中国近代史事件的再审视，旨在厘清历史事实，促进理性讨论。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - 伍大伟
-  - 温家宝
-  - 华春莹
-  - 王毅
-  - 孙中山
-  - 蒋介石
-  - 邓小平
-  - 毛泽东
-companies_orgs:
-  - 中国共产党
-  - 日本自民党
-  - 联合国
-  - 北洋政府
-  - 国民党
-  - 中华民国
-  - 苏联
-  - 越南
-  - 红色高棉
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了日本对华官方发展援助（ODA）引发的争议，并回应了观众关于中日关系、历史认知及国家利益的疑问。节目分析了ODA在中国改革开放中的作用，以及部分民众对此的复杂情感和质疑。同时，还触及了核潜艇技术、历史条约的解读、民族主义的形成以及对中国近代史事件的再审视，旨在厘清历史事实，促进理性讨论。
+tags:
+- china
+- historical-analysis
+- international
+- nationalism
+- oda
+title: 深度解析中日ODA争议：历史恩怨、国家利益与民众认知
 ---
+
 ### ODA争议的敏感性
 我们这次读的是关于ODA（官方发展援助）那期的评论，那期评论很多，甚至有人以“汉奸”来指责我们。但我认为，ODA这期是最敏感的。很多人不理解为何要讨论“感恩日”。不过，我觉得这期节目收到的批评比之前关于高市早苗那期要少，这或许说明我们在这方面的心态更强大了。
 

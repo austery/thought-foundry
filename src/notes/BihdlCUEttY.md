@@ -1,39 +1,38 @@
 ---
-author: 莊也雜談
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Parks Canada
+- Roam Transit
+- Columbia Icefield Discovery Center
 date: '2023-06-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《莊野雜談加拿大系列節目》
+- 《莊野雜談第31集》
+products_models:
+- Discovery Pass
+- Adult Day Pass
+- Family/Group Day Pass
+- Bear Spray
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=BihdlCUEttY
 speaker: 莊也雜談
-tags:
-  - banff-national-park
-  - canadian-rockies
-  - travel-planning
-  - park-passes
-  - wildlife-safety
-title: 加拿大班夫国家公园深度游攻略：路线规划、交通、门票与安全须知
-summary: 本篇攻略详细介绍了加拿大班夫国家公园及其周边景点的旅行路线规划、公共交通利用、各类国家公园门票的购买方式与价格，并提供了多项实用小贴士，包括如何应对停车难、保护环境、以及最重要的野生动物（特别是熊）安全防范措施，旨在帮助游客制定个性化且安全的洛基山脉之旅。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project: []
-people: []
-companies_orgs:
-  - Parks Canada
-  - Roam Transit
-  - Columbia Icefield Discovery Center
-products_models:
-  - Discovery Pass
-  - Adult Day Pass
-  - Family/Group Day Pass
-  - Bear Spray
-media_books:
-  - 《莊野雜談加拿大系列節目》
-  - 《莊野雜談第31集》
 status: evergreen
+summary: 本篇攻略详细介绍了加拿大班夫国家公园及其周边景点的旅行路线规划、公共交通利用、各类国家公园门票的购买方式与价格，并提供了多项实用小贴士，包括如何应对停车难、保护环境、以及最重要的野生动物（特别是熊）安全防范措施，旨在帮助游客制定个性化且安全的洛基山脉之旅。
+tags:
+- canadian-rocky
+- national
+- safety
+- technology
+- travel
+title: 加拿大班夫国家公园深度游攻略：路线规划、交通、门票与安全须知
 ---
+
 ### 班夫国家公园旅行路线规划：个性化定制与推荐行程
 
 大家好，我是庄野，欢迎收看《莊野雜談加拿大系列節目》。今天我们将继续探讨以**班夫**（Banff: 加拿大落基山脉中的著名国家公园）为中心的加拿大洛基山脉世界遗产公园群。首先，我们来解决一个核心问题：如何规划在班夫的旅行路线图？这个问题没有标准答案，因为每个人的兴趣和爱好都不同。同一个景点，在某些人眼中可能是惊为天人，而在另一些人眼中则可能平淡无奇。正如俗话所说，“吾之蜜糖，彼之砒霜”。

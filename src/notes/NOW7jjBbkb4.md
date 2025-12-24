@@ -1,37 +1,36 @@
 ---
-author: TED
+area: society-systems
+category: business
+companies_orgs:
+- TED
+- World Resources Institute
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Andika Putraditama
+products_models:
+- Rimba Collective
+project:
+- systems-thinking
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=NOW7jjBbkb4
 speaker: TED
-tags:
-  - forest-conservation
-  - climate-change-mitigation
-  - supply-chain-finance
-  - corporate-responsibility
-  - ecosystem-restoration
-title: 通过创新融资模式保护森林：林巴集体案例
-summary: 本文探讨了印度尼西亚等地区森林砍伐和泥炭地燃烧导致的气候变化问题，指出日常大宗商品生产是主要驱动因素。文章介绍了“林巴集体”（Rimba Collective）机制，该机制旨在通过企业根据其原材料影响比例出资，为森林保护和生态系统恢复提供长期、可扩展的资金。作者强调了当前森林保护融资的巨大缺口，并呼吁改变将生态保护视为慈善项目的观念，通过供应链合作将环境外部性成本内部化，以实现大规模的生态系统保护和气候危机应对。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Andika Putraditama
-companies_orgs:
-  - TED
-  - World Resources Institute
-products_models:
-  - Rimba Collective
-media_books: []
 status: evergreen
+summary: 本文探讨了印度尼西亚等地区森林砍伐和泥炭地燃烧导致的气候变化问题，指出日常大宗商品生产是主要驱动因素。文章介绍了“林巴集体”（Rimba Collective）机制，该机制旨在通过企业根据其原材料影响比例出资，为森林保护和生态系统恢复提供长期、可扩展的资金。作者强调了当前森林保护融资的巨大缺口，并呼吁改变将生态保护视为慈善项目的观念，通过供应链合作将环境外部性成本内部化，以实现大规模的生态系统保护和气候危机应对。
+tags:
+- climate
+- corporate
+- ecosystem
+- environment
+- supply-chain-finance
+title: 通过创新融资模式保护森林：林巴集体案例
 ---
+
 ### 森林流失与泥炭地燃烧：气候变化的关键驱动因素
 
 在像印度尼西亚这样的地方，最大的碳排放源实际上来自于森林的流失以及**泥炭地**（Peatland: 由死亡有机物经过数千年积累形成的富碳生态系统）的燃烧。

@@ -1,35 +1,33 @@
 ---
-author: 课代表立正
+area: personal-systems
+category: career
+companies_orgs:
+- 腾讯
+- HR
+- 总办
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=M6ZsbRhhZys
 speaker: 课代表立正
-tags:
-  - layoff-experience
-  - corporate-restructuring
-  - career-resilience
-  - employee-mindset
-  - labor-relations
-title: 腾讯裁员亲历者分享：四名下属被裁背后的真相与职场启示
-summary: 一位前腾讯员工分享了自己亲手裁掉四名下属的经历。他深入剖析了裁员背后的真实原因，包括绩效不匹配、公司战略调整（如疫情期间的降本增效）以及团队结构变化，强调裁员往往是公司而非员工的问题。同时，他提供了应对裁员的心理调适建议，鼓励职场人以商业伙伴心态对待工作，并尽快走出负面情绪，专注于个人发展。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people: []
-companies_orgs:
-  - 腾讯
-  - HR
-  - 总办
-products_models: []
-media_books: []
 status: evergreen
+summary: 一位前腾讯员工分享了自己亲手裁掉四名下属的经历。他深入剖析了裁员背后的真实原因，包括绩效不匹配、公司战略调整（如疫情期间的降本增效）以及团队结构变化，强调裁员往往是公司而非员工的问题。同时，他提供了应对裁员的心理调适建议，鼓励职场人以商业伙伴心态对待工作，并尽快走出负面情绪，专注于个人发展。
+tags:
+- career-resilience
+- corporate
+- experience
+- mindset
+- relations
+title: 腾讯裁员亲历者分享：四名下属被裁背后的真相与职场启示
 ---
+
 ### 裁员的敏感性与法律风险
 
 会员朋友们大家好，今天我将分享一个稍显沉重且敏感的话题，那就是我在腾讯工作期间，亲手裁掉四名下属的经历，以及他们被裁背后的真实原因。这个话题之所以敏感且难以分享，是因为在公司进行裁员时，存在巨大的法律风险。国内的**劳动法**（Labor Law: 旨在保护劳动者权益的法律）对劳动者有较强的保护。因此，在我第一次执行裁员之前，HR部门专门对我进行了培训。培训内容明确指出，在与被裁员工沟通时，哪些话可以说，哪些话不能说。我们被要求假设对方正在录音，并准备提起诉讼，因此所说的每一句话都必须在法庭上站得住脚。经过这样的培训，我对整个裁员过程都非常谨慎。

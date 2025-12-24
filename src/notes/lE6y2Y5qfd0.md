@@ -1,52 +1,52 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- BBB
+- WhatsApp
+- Telegram
+- Meta
+- Kijiji
+- Paypal
+- 微信支付
+- Line Payment
+- Tiger Trade
+- Amazon
+- Walmart
+- Costco
+- Canadian Tire
 date: '2024-05-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 老高和小茉
+people:
+- Vladimir Putin
+- 唐骏
+products_models:
+- NFT
+- 比特幣
+- 以太幣
+- 狗狗幣
+project:
+- us-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=lE6y2Y5qfd0
 speaker: 莊也雜談
-tags:
-  - online-scams
-  - fraud-prevention
-  - consumer-protection
-  - investment-fraud
-  - romance-scams
-title: 2023年美加十大网络诈骗盘点：警惕投资、就业与情感陷阱
-summary: 本文基于Better Business Bureau (BBB) 2023年诈骗风险报告，深入剖析了美国和加拿大最危险的十大网络诈骗类型中的前五种。内容涵盖投资及加密货币诈骗、就业诈骗、网上购物诈骗、家居装修诈骗和爱情诈骗。文章详细揭示了各类骗局的常见手法、受害者特征及防范策略，强调了克制贪小便宜心理、警惕异常交易和保护个人信息的重要性，旨在帮助观众识别并避免落入诈骗陷阱。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - personal-growth-lab
-people:
-  - 普京
-  - 唐骏
-companies_orgs:
-  - BBB
-  - WhatsApp
-  - Telegram
-  - Facebook
-  - Kijiji
-  - Paypal
-  - 微信支付
-  - Line Payment
-  - Tiger Trade
-  - Amazon
-  - Walmart
-  - Costco
-  - Canadian Tire
-products_models:
-  - NFT
-  - 比特幣
-  - 以太幣
-  - 狗狗幣
-media_books:
-  - 老高和小茉
 status: evergreen
+summary: 本文基于Better Business Bureau (BBB) 2023年诈骗风险报告，深入剖析了美国和加拿大最危险的十大网络诈骗类型中的前五种。内容涵盖投资及加密货币诈骗、就业诈骗、网上购物诈骗、家居装修诈骗和爱情诈骗。文章详细揭示了各类骗局的常见手法、受害者特征及防范策略，强调了克制贪小便宜心理、警惕异常交易和保护个人信息的重要性，旨在帮助观众识别并避免落入诈骗陷阱。
+tags:
+- consumer
+- fraud
+- history
+- investment
+- online
+title: 2023年美加十大网络诈骗盘点：警惕投资、就业与情感陷阱
 ---
+
 ### 加拿大常见的“发错短信”诈骗手法
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们来聊一个比较有意思的话题，那就是在加拿大可能会遇到什么样的网络诈骗。之所以聊这个话题，是因为今天早上我收到一个电话短信。一开始，对方直接喊我的名字，说：“您好师傅，我们家的厨房水管有一点漏水，您看能不能安排人来维修一下？”我一看，这很明显是号码发错了，因为我也不是水管工。于是我回复了一个“wrong number”。结果对方好像没看见，继续说：“师傅，我们可以约个时间吗？我好安排好工作，在家等您派人上门维修。”

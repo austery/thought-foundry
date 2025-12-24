@@ -1,64 +1,64 @@
 ---
-author: Bloomberg Podcasts
+area: tech-insights
+category: finance
+companies_orgs:
+- Bloomberg
+- OpenAI
+- Oracle
+- SoftBank
+- Nvidia
+- MGX
+- PIMCO
+- Blue Owl
+- Blackstone
+- Coreweave
+- GE Vernova
+- Caterpillar Inc.
+- Solar Turbines
+- Siemens Energy
+- Meta
+- Boston Dynamics
+- Unitree
+- Western Digital
+- Seagate
+- SanDisk
 date: '2025-10-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Catrini newsletter
+- Odd Lots Podcast
+- Bloomberg
+people:
+- James Van Geelen
+- Tracy Alloway
+- Joe Weisenthal
+- Matthew Griffin
+products_models:
+- Stargate
+- Hyperion
+- Sora 2
+- Meta AI
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=xsqn2XJDcwM
 speaker: Bloomberg Podcasts
-tags:
-  - ai-infrastructure
-  - data-center-buildout
-  - ai-financing
-  - market-bubble-concerns
-  - industrial-suppliers
-title: AI基础设施建设狂潮：数据中心、能源与“卖铲人”的投资机遇
-summary: 本期节目深入探讨了当前AI基础设施的超大规模建设热潮，特别关注了数据中心、能源供应及相关工业设备制造商。嘉宾James Van Geelen分享了对德克萨斯州Stargate数据中心的实地考察见闻，揭示了其巨大的规模、自建天然气发电厂的能源策略，以及对工业供应链的巨大需求。节目还讨论了AI投资是否存在泡沫、复杂的融资结构（如GPU抵押贷款）以及机器人技术的发展，并提出了投资“卖铲人”公司和对冲私人信贷风险的策略，同时探讨了AI建设对宏观经济可能产生的挤出效应。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - James Van Geelen
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Matthew Griffin
-companies_orgs:
-  - Bloomberg
-  - OpenAI
-  - Oracle
-  - SoftBank
-  - Nvidia
-  - MGX
-  - PIMCO
-  - Blue Owl
-  - Blackstone
-  - Coreweave
-  - GE Vernova
-  - Caterpillar Inc.
-  - Solar Turbines
-  - Siemens Energy
-  - Meta
-  - Boston Dynamics
-  - Unitree
-  - Western Digital
-  - Seagate
-  - SanDisk
-products_models:
-  - Stargate
-  - Hyperion
-  - Sora 2
-  - Meta AI
-media_books:
-  - Catrini newsletter
-  - Odd Lots Podcast
-  - Bloomberg
 status: evergreen
+summary: 本期节目深入探讨了当前AI基础设施的超大规模建设热潮，特别关注了数据中心、能源供应及相关工业设备制造商。嘉宾James Van Geelen分享了对德克萨斯州Stargate数据中心的实地考察见闻，揭示了其巨大的规模、自建天然气发电厂的能源策略，以及对工业供应链的巨大需求。节目还讨论了AI投资是否存在泡沫、复杂的融资结构（如GPU抵押贷款）以及机器人技术的发展，并提出了投资“卖铲人”公司和对冲私人信贷风险的策略，同时探讨了AI建设对宏观经济可能产生的挤出效应。
+tags:
+- ai-infrastructure
+- data-center-buildout
+- geopolitical
+- llm
+- market-bubble-concern
+title: AI基础设施建设狂潮：数据中心、能源与“卖铲人”的投资机遇
 ---
+
 ### 欢迎来到Odd Lots
 
 [音乐]

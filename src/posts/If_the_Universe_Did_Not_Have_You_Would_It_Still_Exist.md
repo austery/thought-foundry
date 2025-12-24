@@ -5,15 +5,11 @@ area: null
 category: null
 project: []
 tags:
-  - 人择原理
-  - 宇宙
-  - 微调
-  - 玻尔兹曼大脑
-  - 观察者
-people: []
+- llm
+- science
+- 观察者
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: null
@@ -24,6 +20,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 引言：宇宙为何会有观察者？
 
 我们本期要探讨一个宏大的问题：假如宇宙没有你，它还会存在吗？请不要认为这是一个无聊的问题。试想，这个宇宙完全可能是一个未曾演化出任何智能生命，因而永远不会被观察者所感知的荒凉之地。然而，事实却是，这个宇宙竟然演化出了我们——人类——这样能够观察宇宙，并试图去理解其精妙之处的观察者。宇宙为何会有观察者？这无疑是一个让无数科学家和哲学家都为之绞尽脑汁的重大课题。

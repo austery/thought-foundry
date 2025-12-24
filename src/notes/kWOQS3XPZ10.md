@@ -1,54 +1,56 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Command Code
+- Langbase
+- NASA
+- GitHub
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- stateofiagents.com
+- Stack Overflow
+people:
+- Ahmad Awais
+- Greg Brockman
+- Tanner Linsley
+products_models:
+- GPT-3
+- ChatGPT
+- GitHub Copilot
+- Claude
+- VS Code
+- Vitest
+- PNPM
+- Commander
+- Meow
+- Next.js
+- TenStack
+- TUP
+project:
+- ai-impact-analysis
+- entrepreneurship
+- vibe-coding
+series: ''
 source: https://www.youtube.com/watch?v=kWOQS3XPZ10
 speaker: AI Engineer
-tags:
-  - coding-agents
-  - developer-preferences
-  - meta-neuro-symbolic-rl
-  - ai-code-generation
-  - continuous-learning
-title: Command Code：一个能学习你编程品味的AI编码代理
-summary: Command Code是一个创新的AI编码代理，由Ahmad Awais及其团队开发，旨在解决现有大型语言模型（LLMs）在代码生成中缺乏个性化“品味”的问题。它通过元神经符号强化学习，持续学习开发者的编码偏好、架构选择和隐式反馈，从而生成高度定制化、可维护且符合个人风格的代码。Command Code的目标是大幅提升开发效率，减少代码审查时间，并允许开发者共享或借鉴他人的编程“品味”，开启编码代理的新篇章。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - vibe-coding
-people:
-  - Ahmad Awais
-  - Greg Brockman
-  - Tanner Linsley
-companies_orgs:
-  - Command Code
-  - Langbase
-  - NASA
-  - GitHub
-products_models:
-  - GPT-3
-  - ChatGPT
-  - GitHub Copilot
-  - Claude
-  - VS Code
-  - Vitest
-  - PNPM
-  - Commander
-  - Meow
-  - Next.js
-  - TenStack
-  - TUP
-media_books:
-  - stateofiagents.com
-  - Stack Overflow
 status: evergreen
+summary: Command Code是一个创新的AI编码代理，由Ahmad Awais及其团队开发，旨在解决现有大型语言模型（LLMs）在代码生成中缺乏个性化“品味”的问题。它通过元神经符号强化学习，持续学习开发者的编码偏好、架构选择和隐式反馈，从而生成高度定制化、可维护且符合个人风格的代码。Command
+  Code的目标是大幅提升开发效率，减少代码审查时间，并允许开发者共享或借鉴他人的编程“品味”，开启编码代理的新篇章。
+tags:
+- ai-code-generation
+- coding-agent
+- continuous-learning
+- developer-preference
+title: Command Code：一个能学习你编程品味的AI编码代理
+companies:
+- meta-neuro-symbolic-rl
 ---
+
 ### 介绍Command Code：一个有“品味”的AI编码代理
 
 大家好！今天我非常激动地向大家发布并分享我们已经为此努力了一年多的成果，它叫做**Command Code**（一个带有“品味”的AI编码代理）。

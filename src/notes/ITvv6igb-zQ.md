@@ -1,59 +1,59 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NDP
+- ACORN
+- QP
+- Atlas Strategic Advisers
+- TVO
+- The Trillium
+- PC
+- Liberal Party
+- Project Ontario
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OnPy podcast
+- TVO Today YouTube channel
+- The Trillium
+people:
+- John Michael McGrath
+- Jessica Smith Cross
+- Marit Stiles
+- David Pacini
+- Steve Clark
+- Doug Ford
+- John Fraser
+- Hazel McCallion
+- Bonnie Crombie
+- Amin Massudi
+- Charlie Pinkerton
+- Scott Juru
+products_models:
+- Bill 60
+- Bill 68
+- Fair Hydro Plan
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ITvv6igb-zQ
 speaker: TVO Today
-tags:
-  - skills-development-fund
-  - government-accountability
-  - water-privatization
-  - lobbying-ethics
-  - provincial-politics
-title: 安大略省政治风波：技能基金丑闻、审计威胁与水务改革争议
-summary: 本期播客深入探讨了安大略省近期的一系列政治争议。首先是新民主党要求调查劳工部长戴维·帕奇尼涉嫌滥用技能发展基金的丑闻。其次，省长福特因其威胁审计左翼团体的言论引发轩然大波，随后又收回声明。节目还分析了《第60号法案》中关于皮尔区水务基础设施的条款，引发了对水务私有化和公共安全的担忧。最后，讨论了《第68号法案》可能赋予省政府对展览广场的控制权，以及安大略省长期存在的游说乱象。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - John Michael McGrath
-  - Jessica Smith Cross
-  - Marit Stiles
-  - David Pacini
-  - Steve Clark
-  - Doug Ford
-  - John Fraser
-  - Hazel McCallion
-  - Bonnie Crombie
-  - Amin Massudi
-  - Charlie Pinkerton
-  - Scott Juru
-companies_orgs:
-  - NDP
-  - ACORN
-  - QP
-  - Atlas Strategic Advisers
-  - TVO
-  - The Trillium
-  - PC
-  - Liberal Party
-  - Project Ontario
-products_models:
-  - Bill 60
-  - Bill 68
-  - Fair Hydro Plan
-media_books:
-  - OnPy podcast
-  - TVO Today YouTube channel
-  - The Trillium
 status: evergreen
+summary: 本期播客深入探讨了安大略省近期的一系列政治争议。首先是新民主党要求调查劳工部长戴维·帕奇尼涉嫌滥用技能发展基金的丑闻。其次，省长福特因其威胁审计左翼团体的言论引发轩然大波，随后又收回声明。节目还分析了《第60号法案》中关于皮尔区水务基础设施的条款，引发了对水务私有化和公共安全的担忧。最后，讨论了《第68号法案》可能赋予省政府对展览广场的控制权，以及安大略省长期存在的游说乱象。
+tags:
+- canada
+- development
+- ethics
+- government-accountability
+- politics
+title: 安大略省政治风波：技能基金丑闻、审计威胁与水务改革争议
 ---
+
 ### 播客开场与主持人趣谈
 
 大家好，欢迎收听 OnPy 播客。

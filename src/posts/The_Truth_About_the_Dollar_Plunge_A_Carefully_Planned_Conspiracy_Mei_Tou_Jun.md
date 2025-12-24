@@ -1,29 +1,27 @@
 ---
-title: 美元暴跌的真相：一场精心策划的阳谋？
-summary: null
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-  - 全球经济
-  - 投资
-  - 美元
-  - 贸易战
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: finance-wealth
 author: Lei
-speaker: 美投讲美股
+category: stock-investment
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: null
 source: null
+speaker: 美投讲美股
+summary: null
+tags:
+- global-economy
+- trade-war
+- us-economy
+title: 美元暴跌的真相：一场精心策划的阳谋？
 ---
+
 ## 川普的政策与全球资本的博弈
 
 ### 引言：市场崩盘与美元的意外走弱

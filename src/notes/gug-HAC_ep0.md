@@ -1,44 +1,44 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国人力资源和社会保障部
+- 北京大学
+- 教育部
+- 国务院
+- 中国房地产信息集团
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财经》
+people:
+- 王小平
+- 张丹丹
+- 马艺珈伊
+- Donald Trump
+- Chun Li Ping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=gug-HAC_ep0
 speaker: 老周横眉
-tags:
-  - youth-unemployment
-  - china-economy
-  - higher-education
-  - government-policy
-  - social-instability
-title: 中国青年失业困境：从数据预测到社会症结，普通人何去何从？
-summary: 本文深入分析了中国青年失业的严峻现状与未来趋势。通过对高校毕业生人数的预测，揭示了未来十年就业市场面临的巨大压力。文章同时探讨了中国经济下行、房地产市场低迷、股市不振以及“以刑化债”等社会乱象，指出这些因素共同加剧了青年失业问题。作者强调，面对时代困境，普通人应理性认知现实，而非盲目乐观，并对高等教育的投资回报率提出审慎思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 王小平
-  - 张丹丹
-  - 马艺珈伊
-  - Donald Trump
-  - Chun Li Ping
-companies_orgs:
-  - 中国人力资源和社会保障部
-  - 北京大学
-  - 教育部
-  - 国务院
-  - 中国房地产信息集团
-products_models: []
-media_books:
-  - 《财经》
 status: evergreen
+summary: 本文深入分析了中国青年失业的严峻现状与未来趋势。通过对高校毕业生人数的预测，揭示了未来十年就业市场面临的巨大压力。文章同时探讨了中国经济下行、房地产市场低迷、股市不振以及“以刑化债”等社会乱象，指出这些因素共同加剧了青年失业问题。作者强调，面对时代困境，普通人应理性认知现实，而非盲目乐观，并对高等教育的投资回报率提出审慎思考。
+tags:
+- china-economy
+- education
+- government-policy
+- social
+- youth-unemployment
+title: 中国青年失业困境：从数据预测到社会症结，普通人何去何从？
 ---
+
 ### 中国青年失业现状与未来趋势预测
 
 去年同期，我曾发布视频探讨中国青年失业的严峻情况，引发了广泛关注。一年过去，中国的青年就业形势是否有所好转？根据中国人力资源和社会保障部部长王小平在今年**两会**（全国人民代表大会和中国人民政治协商会议的简称）上的报告，今年的高校毕业生人数达到1222万人，再次打破历史纪录，成为中国历史上应届毕业生最多的一年。此外，还有大量农村转移劳动力需要实现稳定就业，就业总量压力不减。

@@ -1,36 +1,36 @@
 ---
-author: Veritasium
-date: '2021-11-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9cNmUNHSBac
-speaker: Veritasium
-tags:
-  - veritasium
-  - bicycle-mechanics
-  - balance
-  - steering
-  - gyroscopic-effect
-  - self-stability
-  - counter-steering
-title: 大多数人不知道自行车是如何工作的
-summary: 本文深入探讨了自行车平衡与转向的非直观机制。通过对改装自行车的实验，文章揭示了骑行者如何利用反向转向来保持平衡，以及自行车如何通过巧妙设计实现自我校正，从而驳斥了诸如陀螺效应是主要稳定因素等常见误解。内容强调转向对于维持平衡至关重要，而不仅仅是改变方向，并阐明了即使没有骑手，自行车也能保持直立的物理原理。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Rick
+category: technology
 companies_orgs:
-  - KiwiCo
-products_models: []
+- KiwiCo
+date: '2021-11-28'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - MinutePhysics
+- MinutePhysics
+people:
+- Rick
+products_models: []
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=9cNmUNHSBac
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了自行车平衡与转向的非直观机制。通过对改装自行车的实验，文章揭示了骑行者如何利用反向转向来保持平衡，以及自行车如何通过巧妙设计实现自我校正，从而驳斥了诸如陀螺效应是主要稳定因素等常见误解。内容强调转向对于维持平衡至关重要，而不仅仅是改变方向，并阐明了即使没有骑手，自行车也能保持直立的物理原理。
+tags:
+- balance
+- counter-steering
+- effect
+- self
+- steering
+title: 大多数人不知道自行车是如何工作的
+companies:
+- bicycle-mechanic
 ---
+
 ### 转向的错觉：我们如何错误地理解自行车
 
 大多数人并不知道自行车究竟是如何运作的。

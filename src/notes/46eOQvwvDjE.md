@@ -1,59 +1,57 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- S&P Global
+- International Energy Agency
+- Google
+- OPEC
+- Dallas Federal Reserve
+- Commonwealth Fusion
+- MIT
+- Amazon
+- Nuclear Regulatory Commission
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- 'The Prize: The Epic Quest for Oil, Money, and Power'
+- 'The New Map: Energy, Climate, and the Clash of Nations'
+- Sim City
+people:
+- Tracy Aloway
+- Joe Weisenthal
+- Daniel Yergin
+- Vladimir Putin
+- Angela Merkel
+- Aubrey McClendon
+- Winston Churchill
+- Elon Musk
+- Xi Jinping
+products_models:
+- Small Modular Reactors
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=46eOQvwvDjE
 speaker: Bloomberg Podcasts
-tags:
-  - energy-transition
-  - energy-security
-  - natural-gas-liquefied
-  - nuclear-energy
-  - rare-earths
-  - geopolitical-energy
-  - energy-policy
-title: 能源转型之困：高科技时代下的能源安全与地缘政治挑战
-summary: 本期Odd Lots播客邀请能源专家Daniel Yergin探讨全球能源格局。节目深入分析了“能源转型”面临的现实挑战，指出其更像是对现有能源的“补充”而非完全替代。嘉宾讨论了人工智能和数据中心对电力需求的巨大拉动，以及天然气、核能和稀土等关键资源在地缘政治中的战略重要性。同时，节目也审视了美国和欧洲能源政策的变动性，以及中国在能源市场中的独特角色，强调了能源安全与多样性在当前复杂世界中的核心地位。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Tracy Aloway
-  - Joe Weisenthal
-  - Daniel Yergin
-  - Vladimir Putin
-  - Angela Merkel
-  - Aubrey McClendon
-  - Winston Churchill
-  - Elon Musk
-  - Xi Jinping
-companies_orgs:
-  - Bloomberg
-  - S&P Global
-  - International Energy Agency
-  - Google
-  - OPEC
-  - Dallas Federal Reserve
-  - Commonwealth Fusion
-  - MIT
-  - Amazon
-  - Nuclear Regulatory Commission
-products_models:
-  - Small Modular Reactors
-media_books:
-  - Odd Lots
-  - 'The Prize: The Epic Quest for Oil, Money, and Power'
-  - 'The New Map: Energy, Climate, and the Clash of Nations'
-  - Sim City
 status: evergreen
+summary: 本期Odd Lots播客邀请能源专家Daniel Yergin探讨全球能源格局。节目深入分析了“能源转型”面临的现实挑战，指出其更像是对现有能源的“补充”而非完全替代。嘉宾讨论了人工智能和数据中心对电力需求的巨大拉动，以及天然气、核能和稀土等关键资源在地缘政治中的战略重要性。同时，节目也审视了美国和欧洲能源政策的变动性，以及中国在能源市场中的独特角色，强调了能源安全与多样性在当前复杂世界中的核心地位。
+tags:
+- energy
+- energy-transition
+- environment
+- policy
+- rare-earth
+title: 能源转型之困：高科技时代下的能源安全与地缘政治挑战
 ---
+
 ### 高科技世界与能源困境
 
 **Tracy Aloway:** 大家好，欢迎收听《Odd Lots》播客的又一集。我是Tracy Aloway。

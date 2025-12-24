@@ -1,77 +1,77 @@
 ---
-author: 东京人文论坛
+area: society-thinking
+category: history
+companies_orgs:
+- 国民党
+- 共产党
+- 北京大学
+- 清华大学
+- 洛克菲勒基金会
+- 协和医院
+- 协和医学院
+- 圣约翰大学
+- 金陵大学
+- 金陵女子大学
+- 华西大学
+- 华西医学院
+- 中华民国红十字会
+- 青帮
+- 哥老会
+- 门徒会
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《摩登中华》
+- 《百年国耻叙事》
+- 《南京时期的学生运动》
+- 《共产党宣言》
+people:
+- 贾葭
+- 武律
+- 马新仪
+- 沈炳成
+- 张之洞
+- 刘坤一
+- 洪秀全
+- 孙中山
+- 林森
+- 蒋介石
+- 廖仲恺
+- 谭延闿
+- 汪精卫
+- 有贺长雄
+- 徐世昌
+- 康有为
+- 袁世凯
+- 陈炯明
+- 赵恒惕
+- 陈望道
+- 高华
+- 王奇生
+- 安倍晋三
+- 杜月笙
+- 傅国涌
+- 李厚诚
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=txfH3IVjIwY
 speaker: 东京人文论坛
-tags:
-  - modern-chinese-history
-  - historical-narrative
-  - civic-consciousness
-  - political-system
-  - social-psychology
-title: 贾葭：重读近代史的五大理由
-summary: 贾葭分享了他对近代史的独特理解，并提出重读近代史的五大理由：理解当下中国、探寻历史可能性、洞察社会创伤与恐惧、挑战简化叙事，以及培养现代公民意识。他通过南京总统府、汪精卫之墓、妙宾事件等具体案例，揭示官方叙事的局限性，并强调近代史对理解中国社会深层问题的重要性。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - 贾葭
-  - 武律
-  - 马新仪
-  - 沈炳成
-  - 张之洞
-  - 刘坤一
-  - 洪秀全
-  - 孙中山
-  - 林森
-  - 蒋介石
-  - 廖仲恺
-  - 谭延闿
-  - 汪精卫
-  - 有贺长雄
-  - 徐世昌
-  - 康有为
-  - 袁世凯
-  - 陈炯明
-  - 赵恒惕
-  - 陈望道
-  - 高华
-  - 王奇生
-  - 安倍晋三
-  - 杜月笙
-  - 傅国涌
-  - 李厚诚
-companies_orgs:
-  - 国民党
-  - 共产党
-  - 北京大学
-  - 清华大学
-  - 洛克菲勒基金会
-  - 协和医院
-  - 协和医学院
-  - 圣约翰大学
-  - 金陵大学
-  - 金陵女子大学
-  - 华西大学
-  - 华西医学院
-  - 中华民国红十字会
-  - 青帮
-  - 哥老会
-  - 门徒会
-products_models: []
-media_books:
-  - 《摩登中华》
-  - 《百年国耻叙事》
-  - 《南京时期的学生运动》
-  - 《共产党宣言》
 status: evergreen
+summary: 贾葭分享了他对近代史的独特理解，并提出重读近代史的五大理由：理解当下中国、探寻历史可能性、洞察社会创伤与恐惧、挑战简化叙事，以及培养现代公民意识。他通过南京总统府、汪精卫之墓、妙宾事件等具体案例，揭示官方叙事的局限性，并强调近代史对理解中国社会深层问题的重要性。
+tags:
+- chinese
+- civic-consciousness
+- historical-narrative
+- political-system
+- social
+title: 贾葭：重读近代史的五大理由
 ---
+
 ### 个人兴趣与讲座缘起
 
 近代史是**贾葭**过去20年个人比较感兴趣的领域，他阅读的书籍也以近代史居多。在**武律**筹办家庭图书文化节并计划举办讲座时，他们正在录制一期关于**宋教仁**的节目。**贾葭**便随口提议，不如就讲讲“为什么要读近代史”。他认为这虽然是一个老生常谈的话题，许多学者、书人或媒体人都在不同场合讲过，但他对此有自己独特的理解。

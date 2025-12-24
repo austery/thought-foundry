@@ -1,66 +1,65 @@
 ---
-author: TVO Today
+area: society-thinking
+category: politics-society
+companies_orgs:
+- The New York Times
+- The Globe and Mail
+- CBC Gem
+- Crave
+- Canadian Heritage
+- Telefilm
+- Canada Council for the Arts
+- Canadian Academy
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Why We're Blowing a Generational Moment for Canadian Culture
+- The Rundown
+people:
+- Jennifer Lawrence
+- Donald Trump
+- Tim McLaughlin
+- Amil Niazi
+- Miss Rachel
+- Colin Ellis
+- Barry Hertz
+- Amy Schumer
+- Hannah Einbinder
+- Jimmy Kimmel
+- Mike Myers
+- Sebastian Stan
+- Cate Blanchett
+- Jeremy Strong
+- Mark Carney
+products_models:
+- Netflix
+- Instagram
+- TikTok
+- Givenchy
+- Balenciaga
+- Squid Game
+- K-pop
+- SNL
+project:
+- us-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=H6oEQ6vqTXY
 speaker: TVO Today
-tags:
-  - celebrity-advocacy
-  - cultural-identity
-  - political-polarization
-  - public-broadcasting
-  - soft-power
-title: 名人政治表态的风险与加拿大文化认同的挑战
-summary: 本文探讨了名人在政治和社会议题上发声所面临的复杂局面，包括其可能带来的风险、收益以及实际影响力。文章指出，在社交媒体时代，名人与粉丝建立了准社会关系，但其政治观点可能引发两极分化。同时，文章深入分析了加拿大文化认同的挑战，呼吁在“购买加拿大”浪潮下，也应大力支持本土艺术与文化产业，以对抗外部影响，并强调了政府对文化机构资金支持的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - Jennifer Lawrence
-  - Donald Trump
-  - Tim McLaughlin
-  - Amil Niazi
-  - Miss Rachel
-  - Colin Ellis
-  - Barry Hertz
-  - Amy Schumer
-  - Hannah Einbinder
-  - Jimmy Kimmel
-  - Mike Myers
-  - Sebastian Stan
-  - Cate Blanchett
-  - Jeremy Strong
-  - Mark Carney
-companies_orgs:
-  - The New York Times
-  - The Globe and Mail
-  - CBC Gem
-  - Crave
-  - Canadian Heritage
-  - Telefilm
-  - Canada Council for the Arts
-  - Canadian Academy
-products_models:
-  - Netflix
-  - Instagram
-  - TikTok
-  - Givenchy
-  - Balenciaga
-  - Squid Game
-  - K-pop
-  - SNL
-media_books:
-  - Why We're Blowing a Generational Moment for Canadian Culture
-  - The Rundown
 status: evergreen
+summary: 本文探讨了名人在政治和社会议题上发声所面临的复杂局面，包括其可能带来的风险、收益以及实际影响力。文章指出，在社交媒体时代，名人与粉丝建立了准社会关系，但其政治观点可能引发两极分化。同时，文章深入分析了加拿大文化认同的挑战，呼吁在“购买加拿大”浪潮下，也应大力支持本土艺术与文化产业，以对抗外部影响，并强调了政府对文化机构资金支持的重要性。
+tags:
+- celebrity-advocacy
+- cultural-identity
+- power
+- public
+title: 名人政治表态的风险与加拿大文化认同的挑战
 ---
+
 ### 名人与政治表态的困境
 
 当唐纳德·特朗普首次当选总统时，好莱坞明星**詹妮弗·劳伦斯**（Jennifer Lawrence）毫不掩饰她的感受。

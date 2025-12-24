@@ -1,40 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-03-06
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=jsSY0hLTjl4'
-speaker: 徒步的騎手
-tags:
-  - us-supreme-court
-  - executive-orders
-  - judicial-review
-  - checks-and-balances
-  - constitutional-system
-title: 美国最高法院裁决川普行政命令：权力制衡下的司法乌龙与宪政韧性
-summary: 本文深入探讨美国最高法院驳回川普政府上诉，要求支付对外援助款的判决。文章分析了川普通过行政命令施政的特点，以及联邦法院如何通过司法审核权制衡总统权力。同时，揭示了该案件中出现的程序性“乌龙”，并以此为例阐释了美国宪政制度中权力制衡的复杂性、不完美性及其韧性，强调了国民与历史文化传统在维护民主中的核心作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - John Roberts
-  - George W. Bush
+category: geopolitics
 companies_orgs:
-  - The Department of Justice
-  - U.S. Agency for International Development
-  - U.S. Court of Federal Claims
-  - U.S. District Court
-  - Congress
+- The Department of Justice
+- U.S. Agency for International Development
+- U.S. Court of Federal Claims
+- U.S. District Court
+- Congress
+date: 2025-03-06
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- '[]'
+- judicial-review
+people:
+- Donald Trump
+- John Roberts
+- George W. Bush
 products_models: '[]'
-media_books: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=jsSY0hLTjl4
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨美国最高法院驳回川普政府上诉，要求支付对外援助款的判决。文章分析了川普通过行政命令施政的特点，以及联邦法院如何通过司法审核权制衡总统权力。同时，揭示了该案件中出现的程序性“乌龙”，并以此为例阐释了美国宪政制度中权力制衡的复杂性、不完美性及其韧性，强调了国民与历史文化传统在维护民主中的核心作用。
+tags:
+- checks-and-balance
+- executive-order
+- geopolitical
+- system
+title: 美国最高法院裁决川普行政命令：权力制衡下的司法乌龙与宪政韧性
 ---
 
 ### 最高法院叫停川普行政命令

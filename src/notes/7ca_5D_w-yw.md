@@ -1,41 +1,41 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: finance
+companies_orgs:
+- Lululemon
+- 耐克
+- 麦当劳
+- 伯克希尔·哈撒韦
 date: '2025-04-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伯克希尔股东信》
+people:
+- 唐石峻
+- 巴菲特
+- 希尔顿
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=7ca_5D_w-yw
 speaker: Shijun Tang
-tags:
-  - investor-behavior
-  - fomo-pressure
-  - value-investing-vs-speculation
-  - business-model-analysis
-  - market-polarization
-title: 投资中的知行合一：从理论到实践的艰难跨越
-summary: 本文深入探讨投资者为何难以做到知行合一，结合巴菲特理念与现实行为的冲突，分析Lululemon和希尔顿两家公司的基本面与商业模式，并揭示情绪、FOMO与市场环境对投资决策的深层影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-  - 巴菲特
-  - 希尔顿
-companies_orgs:
-  - Lululemon
-  - 耐克
-  - 麦当劳
-  - 伯克希尔·哈撒韦
-products_models: []
-media_books:
-  - 《伯克希尔股东信》
 status: evergreen
+summary: 本文深入探讨投资者为何难以做到知行合一，结合巴菲特理念与现实行为的冲突，分析Lululemon和希尔顿两家公司的基本面与商业模式，并揭示情绪、FOMO与市场环境对投资决策的深层影响。
+tags:
+- business-model-analysis
+- canada
+- investment
+- market
+- value
+title: 投资中的知行合一：从理论到实践的艰难跨越
 ---
+
 ### 知行合一：投资中最难的修行
 
 你有没有听过这样一句话：“学我说的，但不要学我做的？”这句话在投资圈里极为常见。曾经我也以为这是理所当然的——毕竟，市场充满欺骗，人人都在包装自己。但大约五年前，我的看法发生了根本性的转变。

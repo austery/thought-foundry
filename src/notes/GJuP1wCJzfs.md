@@ -1,42 +1,42 @@
 ---
-author: Joseph Wang
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Bank of Japan
+- Swiss National Bank
+- European Union
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Last Economy
+people:
+- Donald Trump
+products_models:
+- ETFs
+- REITs
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=GJuP1wCJzfs
 speaker: Joseph Wang
-tags:
-  - geopolitical-risk
-  - dollar-depreciation
-  - sovereign-asset-diversification
-  - central-bank-equity-purchases
-  - precious-metals-demand
-title: 黄金白银飙升背后：地缘政治与美元疲软的双重驱动
-summary: “本期《市场周报》分析了黄金与白银近期暴涨的核心动因：美国对委内瑞拉和古巴的地缘政治施压，以及欧盟拟动用冻结的俄央行资产支持乌克兰，加剧全球主权资产去美元化趋势；同时美元预期走弱进一步强化了贵金属的避险需求。”
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Joseph Wang
-  - Donald Trump
-companies_orgs:
-  - Federal Reserve
-  - Bank of Japan
-  - Swiss National Bank
-  - European Union
-products_models:
-  - ETFs
-  - REITs
-media_books:
-  - The Last Economy
 status: evergreen
+summary: “本期《市场周报》分析了黄金与白银近期暴涨的核心动因：美国对委内瑞拉和古巴的地缘政治施压，以及欧盟拟动用冻结的俄央行资产支持乌克兰，加剧全球主权资产去美元化趋势；同时美元预期走弱进一步强化了贵金属的避险需求。”
+tags:
+- asset
+- geopolitical-risk
+- investment
+- technology
+title: 黄金白银飙升背后：地缘政治与美元疲软的双重驱动
+companies:
+- precious-metals-demand
 ---
+
 ### 黄金与白银的暴涨：地缘政治与美元疲软的双重推力
 
 过去一周，尽管科技板块因AI泡沫降温而出现调整，但黄金和白银却双双逼近或创下历史新高。这背后并非偶然——两大地缘政治事件正在重塑全球主权资产配置逻辑，同时美元的预期走弱进一步强化了贵金属的避险吸引力。

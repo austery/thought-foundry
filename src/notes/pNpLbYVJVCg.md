@@ -1,57 +1,56 @@
 ---
-author: 張内咸
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 民进党
+- 国民党
+- 民众党
+- 共和党
+- 民主党
+- Fox
+- YouTube
+- TikTok
+- 凤凰卫视
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 维基百科
+people:
+- 赖清德
+- Donald Trump
+- Joe Biden
+- Mike Tyson
+- Jake Paul
+- Sydney Sweeney
+- Sir Francis Galton
+- Charles Darwin
+- LeBron James
+- 李敖
+- 李戡
+- 蒋介石
+- JD Vance
+products_models:
+- 《大而美法案》
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=pNpLbYVJVCg
 speaker: 張内咸
-tags:
-  - taiwan-politics
-  - chinese-diaspora
-  - political-polarization
-  - generational-values
-  - mean-reversion
-title: 超越渗透与误解：从台湾大罢免看华人政治思维与世代价值观的均值回归
-summary: 本文深入探讨台湾“大罢免”事件背后的深层原因，超越了简单的中共渗透论。作者分析了海外华人移民在民主社会中的融入困境、非黑即白的思维模式，以及对民主概念的扭曲理解。文章引入“均值回归”理论，阐释美国Z世代价值观回归保守的现象，并将其类比于台湾年轻一代的趋势。通过李敖父子的故事和个人经历，强调了思想观念的动态变化与人性的复杂性，指出政治走向受多重因素影响，而非单一操纵。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 赖清德
-  - Donald Trump
-  - Joe Biden
-  - Mike Tyson
-  - Jake Paul
-  - Sydney Sweeney
-  - Sir Francis Galton
-  - Charles Darwin
-  - LeBron James
-  - 李敖
-  - 李戡
-  - 蒋介石
-  - JD Vance
-companies_orgs:
-  - 民进党
-  - 国民党
-  - 民众党
-  - 共和党
-  - 民主党
-  - Fox
-  - YouTube
-  - TikTok
-  - 凤凰卫视
-products_models:
-  - 《大而美法案》
-media_books:
-  - 维基百科
 status: evergreen
+summary: 本文深入探讨台湾“大罢免”事件背后的深层原因，超越了简单的中共渗透论。作者分析了海外华人移民在民主社会中的融入困境、非黑即白的思维模式，以及对民主概念的扭曲理解。文章引入“均值回归”理论，阐释美国Z世代价值观回归保守的现象，并将其类比于台湾年轻一代的趋势。通过李敖父子的故事和个人经历，强调了思想观念的动态变化与人性的复杂性，指出政治走向受多重因素影响，而非单一操纵。
+tags:
+- chinese
+- taiwan-politics
+- technology
+- value
+title: 超越渗透与误解：从台湾大罢免看华人政治思维与世代价值观的均值回归
 ---
+
 大家好，我是张内咸。又见面了。直接进正题。
 
 ### 台湾“大罢免”的复杂性与华人移民的融入困境

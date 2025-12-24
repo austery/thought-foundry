@@ -1,52 +1,50 @@
 ---
-author: 徒步的騎手
-date: 2025-04-02
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=nr3uZnoIh84'
-speaker: 徒步的騎手
-tags:
-  - anglo-protestant-tradition
-  - dog-whistle-politics
-  - us-immigration-history
-  - cultural-identity
-  - political-polarization
-title: 亨廷顿的“盎格鲁新教传统”：一个概念如何演变为政治“狗哨”
-summary: 本文深入探讨了萨缪尔·亨廷顿提出的“盎格鲁新教传统”概念，追溯其在英语世界的争议及在中文世界的流传。文章通过亨廷顿学生们的视角，剖析了该概念与美国当代社会现实的脱节，并揭示了其与优生学、移民法等历史思潮的关联。最终，文章分析了“盎格鲁新教”如何在当代美国政治中演变为一种具有排他性的“狗哨政治”工具，以及其在两党内部所遭遇的抵制，强调了理解这些短语背后政治文化含义的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Samuel Huntington
-  - Eliot Cohen
-  - Gideon Rose
-  - Francis Fukuyama
-  - Fareed Zakaria
-  - Max Weber
-  - J.D. Vance
-  - Abraham Lincoln
-  - Richard Tawney
-  - G.K. Chesterton
-  - Frank Hankins
-  - John Burgess
-  - Hamilton Eckenrode
-  - Marjorie Taylor Greene
-  - Kevin McCarthy
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - Republican Party
-products_models:
-  - 《我们是谁》
-  - 《乡下人悲歌》
+- Republican Party
+date: 2025-04-02
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《美国社会学评论》
-  - 《政治学和比较宪法学》
+- 《美国社会学评论》
+- 《政治学和比较宪法学》
+people:
+- Samuel Huntington
+- Eliot Cohen
+- Gideon Rose
+- Francis Fukuyama
+- Fareed Zakaria
+- Max Weber
+- J.D. Vance
+- Abraham Lincoln
+- Richard Tawney
+- G.K. Chesterton
+- Frank Hankins
+- John Burgess
+- Hamilton Eckenrode
+- Marjorie Taylor Greene
+- Kevin McCarthy
+products_models:
+- 《我们是谁》
+- 《乡下人悲歌》
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=nr3uZnoIh84
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了萨缪尔·亨廷顿提出的“盎格鲁新教传统”概念，追溯其在英语世界的争议及在中文世界的流传。文章通过亨廷顿学生们的视角，剖析了该概念与美国当代社会现实的脱节，并揭示了其与优生学、移民法等历史思潮的关联。最终，文章分析了“盎格鲁新教”如何在当代美国政治中演变为一种具有排他性的“狗哨政治”工具，以及其在两党内部所遭遇的抵制，强调了理解这些短语背后政治文化含义的重要性。
+tags:
+- canada
+- cultural-identity
+- history
+- politics
+title: 亨廷顿的“盎格鲁新教传统”：一个概念如何演变为政治“狗哨”
 ---
 
 ### 亨廷顿“盎格鲁新教传统”的争议与学生们的反思

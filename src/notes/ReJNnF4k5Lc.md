@@ -1,37 +1,36 @@
 ---
-author: 徒步的騎手
-date: 2024-12-29
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ReJNnF4k5Lc'
-speaker: 徒步的騎手
-tags:
-  - loneliness-companionship
-  - personal-courage
-  - writing-evolution
-  - equality-freedom
-  - digital-media-adaptation
-title: 徒步的棋手：在孤独与同行中寻找勇气与快乐
-summary: 作者分享了其博客“徒步的棋手”的由来，并深入探讨了孤独与同行的哲学。通过讲述日本四国遍路和西班牙圣雅各之路的朝圣经历，以及对美国《独立宣言》中平等与自由的法律思考，作者强调了在复杂世界中寻找真平等、法律生命力及自我改变的重要性。文章呼吁在数字时代多勇敢五分钟，通过分享与分担，共同追求快乐。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - 空海大师
-  - 托马斯·杰斐逊
-  - 爱默生
+category: general
 companies_orgs: '[]'
-products_models: '[]'
+date: 2024-12-29
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《独立宣言》
-  - 《追求幸福》
-  - 《为幸福而生》
+- 《独立宣言》
+- 《追求幸福》
+- 《为幸福而生》
+people:
+- 空海大师
+- 托马斯·杰斐逊
+- 爱默生
+products_models: '[]'
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ReJNnF4k5Lc
+speaker: 徒步的騎手
 status: evergreen
+summary: 作者分享了其博客“徒步的棋手”的由来，并深入探讨了孤独与同行的哲学。通过讲述日本四国遍路和西班牙圣雅各之路的朝圣经历，以及对美国《独立宣言》中平等与自由的法律思考，作者强调了在复杂世界中寻找真平等、法律生命力及自我改变的重要性。文章呼吁在数字时代多勇敢五分钟，通过分享与分担，共同追求快乐。
+tags:
+- evolution
+- freedom
+- loneliness-companionship
+- media
+- personal
+title: 徒步的棋手：在孤独与同行中寻找勇气与快乐
 ---
 
 ### 博客缘起：“徒步的棋手”

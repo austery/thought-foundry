@@ -1,31 +1,28 @@
 ---
-title: Milanote：创意工作者必备的视觉化知识管理与效率工具
-summary: 本文详细介绍了创意效率软件Milanote如何通过其灵活自由、视觉化的特性，解决用户在知识管理、项目规划及内容创作中的痛点，并提供了具体的使用案例和功能解析。
 area: digital-garden
 category: productivity
-project:
-  - knowledge-pipeline
-  - pkm-research
-tags:
-  - creative-workflow
-  - knowledge-management
-  - project-planning
-  - visual-thinking
-people: []
 companies_orgs: []
-products_models:
-  - milanote
-media_books: []
 date: '2022-05-16'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- milanote
+project:
+- knowledge-pipeline
+- pkm-research
 series: ''
 source: https://www.youtube.com/watch?v=dH3DtMzwqUs
+speaker: 一口新飯
 status: evergreen
+summary: 本文详细介绍了创意效率软件Milanote如何通过其灵活自由、视觉化的特性，解决用户在知识管理、项目规划及内容创作中的痛点，并提供了具体的使用案例和功能解析。
+tags:
+- canada
+- code
+- knowledge-management
+- thinking
+title: Milanote：创意工作者必备的视觉化知识管理与效率工具
 ---
 
 ### Milanote：解决传统笔记痛点的创意效率软件

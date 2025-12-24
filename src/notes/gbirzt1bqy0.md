@@ -1,31 +1,29 @@
 ---
-title: 黑金系列：FBI策反华尔街精英，揭露SAC内幕交易核心运作
-summary: FBI从外围调查转向内部策反，通过心理战和录音证据击溃交易员防线，成功招募关键线人CB李和诺亚弗里曼，首次揭露SAC系统性腐败，华尔街恐慌升级，科恩面临全面围剿。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- fbi-investigation
-- informants
-- insider-trading
-- wall-street
-people: []
 companies_orgs:
 - sac-capital
-products_models: []
-media_books: []
 date: '2025-09-29'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=gbirzt1bqy0
+speaker: 北美王路飞
 status: evergreen
+summary: FBI从外围调查转向内部策反，通过心理战和录音证据击溃交易员防线，成功招募关键线人CB李和诺亚弗里曼，首次揭露SAC系统性腐败，华尔街恐慌升级，科恩面临全面围剿。
+tags:
+- informant
+- insider-trading
+- investment
+- wall-street
+title: 黑金系列：FBI策反华尔街精英，揭露SAC内幕交易核心运作
 ---
+
 ### 调查升级：从暗线到明线
 
 欢迎来到本期节目，我们将继续讲解《黑金》这本书的第四期内容。在上一期节目中，我们见证了**SAC资本**（SAC Capital: 史蒂文·科恩创立的对冲基金）帝国最疯狂也是最黑暗的一笔交易。生物技术专家马修·马托马通过情感操控，从**阿尔兹海默症**（Alzheimer's Disease: 一种进行性发展的神经退行性疾病）专家吉尔曼博士那里骗取了价值数十亿美金的绝密药物实验数据。史蒂文·科恩则通过这次精准的情报，在短短一周内秘密完成了超过7亿美金的胜利大逃亡，并反手做空，上演了一出缔造传奇的惊天交易。上一期节目结尾，我们留下了几个悬念：外部的律师和科恩的前妻已经开始磨刀霍霍，帝国内部的犯罪细节也已清晰。然而，对于**FBI**（Federal Bureau of Investigation: 美国联邦调查局）来说，这一切都还只是外围。他们如何才能真正攻进那座由金钱和谎言构筑的堡垒呢？本期节目将揭示调查如何从暗线转为明线，一场真正的战争如何打响。FBI将找到他们最关键的线人，我们将第一次从SAC帝国核心成员口中，听到其内部令人不寒而栗的运作模式，一场波及整个华尔街的恐慌即将上演。

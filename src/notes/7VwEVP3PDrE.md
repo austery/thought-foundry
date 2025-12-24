@@ -1,43 +1,42 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Hamas
+- IDF
+- ICRC
+- UN Security Council
+- University of Toronto's Bill Graham Centre for Contemporary International History
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John Allen
+- Donald Trump
+- Tony Blair
+- Bibi Netanyahu
+- Marco Rubio
+products_models: []
+project:
+- geopolitics-watch
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=7VwEVP3PDrE
 speaker: TVO Today
-tags:
-  - israel-hamas-conflict
-  - ceasefire-challenges
-  - peace-plan
-  - international-mediation
-  - gaza-reconstruction
-title: 以色列-哈马斯停火能否持续？和平之路面临的挑战
-summary: 本文深入探讨了以色列与哈马斯之间停火协议的脆弱性及其面临的挑战。前加拿大驻以色列和西班牙大使约翰·艾伦分析了停火协议的执行情况，包括人质和囚犯的释放、人道主义援助的流动，以及解除哈马斯武装和以色列国防军撤军的僵局。文章还讨论了美国、卡塔尔、土耳其和埃及等国际行为体在推动和平进程中的关键作用，并强调了实现持久和平所面临的巨大障碍，包括对两国方案的抵制和加沙重建的复杂性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - historical-insights
-people:
-  - John Allen
-  - Donald Trump
-  - Tony Blair
-  - Bibi Netanyahu
-  - Marco Rubio
-companies_orgs:
-  - Hamas
-  - IDF
-  - ICRC
-  - UN Security Council
-  - University of Toronto's Bill Graham Centre for Contemporary International History
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了以色列与哈马斯之间停火协议的脆弱性及其面临的挑战。前加拿大驻以色列和西班牙大使约翰·艾伦分析了停火协议的执行情况，包括人质和囚犯的释放、人道主义援助的流动，以及解除哈马斯武装和以色列国防军撤军的僵局。文章还讨论了美国、卡塔尔、土耳其和埃及等国际行为体在推动和平进程中的关键作用，并强调了实现持久和平所面临的巨大障碍，包括对两国方案的抵制和加沙重建的复杂性。
+tags:
+- challenge
+- conflict
+- geopolitical
+- international-mediation
+- peace-plan
+title: 以色列-哈马斯停火能否持续？和平之路面临的挑战
 ---
+
 ### 停火协议的现状与前景
 
 上个月，当以色列和哈马斯达成停火协议时，一位总理曾这样表示：

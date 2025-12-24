@@ -1,50 +1,50 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- United Arab Emirates
+- Global Organisation of Parliamentarians Against Corruption
+- Munk School of Global Affairs
+- Saudi Arabia
+- Sweden
+- Russia
+- Ukraine
+- Germany
+- United States
+- Moderate Party
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- TVO Today
+- Toronto Star
+people:
+- Mark Carney
+- Shannon Gormley
+- Akaash Maharaj
+- Justin Trudeau
+- Anita Anand
+products_models: []
+project:
+- geopolitics-watch
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=pFrgInNU8cU
 speaker: TVO Today
-tags:
-  - foreign-policy
-  - economic-diversification
-  - human-rights
-  - authoritarian-states
-  - canada-us-relations
-title: 加拿大外交政策的权衡：经济增长、人权与全球定位
-summary: 本文深入探讨了加拿大在重新调整其外交政策时所面临的复杂挑战。讨论围绕总理卡尼将重点从“女权主义外交政策”转向经济增长展开，并审视了与阿联酋等威权国家建立经济伙伴关系的道德困境。专家们分析了加拿大在追求全球贸易时，如何在经济利益与国际人权承诺之间取得平衡，以及摆脱对美国过度依赖的必要性。文章强调了价值观在塑造国家身份和长期战略中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - historical-insights
-people:
-  - Mark Carney
-  - Shannon Gormley
-  - Akaash Maharaj
-  - Justin Trudeau
-  - Anita Anand
-companies_orgs:
-  - United Arab Emirates
-  - Global Organisation of Parliamentarians Against Corruption
-  - Munk School of Global Affairs
-  - Saudi Arabia
-  - Sweden
-  - Russia
-  - Ukraine
-  - Germany
-  - United States
-  - Moderate Party
-products_models: []
-media_books:
-  - TVO Today
-  - Toronto Star
 status: evergreen
+summary: 本文深入探讨了加拿大在重新调整其外交政策时所面临的复杂挑战。讨论围绕总理卡尼将重点从“女权主义外交政策”转向经济增长展开，并审视了与阿联酋等威权国家建立经济伙伴关系的道德困境。专家们分析了加拿大在追求全球贸易时，如何在经济利益与国际人权承诺之间取得平衡，以及摆脱对美国过度依赖的必要性。文章强调了价值观在塑造国家身份和长期战略中的关键作用。
+tags:
+- canada-us-relations
+- economic-diversification
+- foreign-policy
+- human-right
+- state
+title: 加拿大外交政策的权衡：经济增长、人权与全球定位
 ---
+
 ### 加拿大外交政策的优先事项转变
 
 早在去年十月，总理卡尼就明确了他的首要任务。

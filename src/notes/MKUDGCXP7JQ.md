@@ -1,51 +1,51 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- American Airlines
+- Sony Music
+- U.S. Supreme Court
 date: '2022-04-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《圣经》
+people:
+- Chris Rock
+- Jada Pinkett Smith
+- Will Smith
+- Stephen Chow
+- Paul
+- Rowan Atkinson
+- Wylie Sypher
+- Ketanji Brown Jackson
+- Tiririca
+- Sigmund Freud
+products_models:
+- GI Jane 2
+- Laundry Blues
+- Chop Suey
+- Look at her hair
+project:
+- systems-thinking
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=MKUDGCXP7JQ
 speaker: 超級歪 SuperY
-tags:
-  - joke-psychology
-  - gender-norms
-  - racial-discrimination
-  - social-power-dynamics
-  - audience-responsibility
-title: 笑话的心理学：从奥斯卡巴掌事件看性别与种族歧视
-summary: 本文深入探讨了奥斯卡颁奖典礼上威尔·史密斯掌掴事件背后的笑话心理学。文章从女性光头被视为笑料的现象切入，分析了头发作为性别和社会规范象征的历史，以及黑人女性因发型遭受的种族歧视。通过引用弗洛伊德的理论，文章阐释了笑话的本质在于颠覆权威，并强调了听众在笑话成立及其伦理责任中的关键作用，呼吁反思社会对弱势群体的嘲讽。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-  - historical-insights
-people:
-  - Chris Rock
-  - Jada Pinkett Smith
-  - Will Smith
-  - Stephen Chow
-  - Paul
-  - Rowan Atkinson
-  - Wylie Sypher
-  - Ketanji Brown Jackson
-  - Tiririca
-  - Sigmund Freud
-companies_orgs:
-  - American Airlines
-  - Sony Music
-  - U.S. Supreme Court
-products_models:
-  - GI Jane 2
-  - Laundry Blues
-  - Chop Suey
-  - Look at her hair
-media_books:
-  - 《圣经》
 status: evergreen
+summary: 本文深入探讨了奥斯卡颁奖典礼上威尔·史密斯掌掴事件背后的笑话心理学。文章从女性光头被视为笑料的现象切入，分析了头发作为性别和社会规范象征的历史，以及黑人女性因发型遭受的种族歧视。通过引用弗洛伊德的理论，文章阐释了笑话的本质在于颠覆权威，并强调了听众在笑话成立及其伦理责任中的关键作用，呼吁反思社会对弱势群体的嘲讽。
+tags:
+- audience-responsibility
+- gender
+- psychology
+- racial-discrimination
+- social-power-dynamic
+title: 笑话的心理学：从奥斯卡巴掌事件看性别与种族歧视
 ---
+
 ### 奥斯卡巴掌事件：笑话的起点
 
 在第94届奥斯卡金像奖颁奖典礼上，主持人克里斯·洛克对贾达·萍克特·史密斯开了一个玩笑。他说：“贾达，我爱你。迫不及待想看你出演《魔鬼女大兵2》。”这个玩笑暗指贾达的光头造型，与电影《魔鬼女大兵》中参军的女主角形象相似。随后，她的丈夫威尔·史密斯上台给了克里斯·洛克一巴掌，这成为了电视史上最具戏剧性的一刻。

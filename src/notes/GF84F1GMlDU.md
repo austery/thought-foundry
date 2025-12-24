@@ -1,50 +1,49 @@
 ---
-author: 徒步的騎手
-date: 2025-03-21
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=GF84F1GMlDU'
-speaker: 徒步的騎手
-tags:
-  - interpersonal-boundaries
-  - online-etiquette
-  - cognitive-biases
-  - democracy-perception
-  - social-media-dynamics
-title: 人际交往的边界、中文世界的“善意粗鲁”与对民主的认知陷阱
-summary: 本文探讨了人际交往中的边界感，特别是中文社交媒体上常见的“善意的粗鲁”现象，以及这种行为对内容创作者的影响。同时，文章深入分析了中文世界对美国民主的认知偏差，指出“民主饥渴症”和“望梅止渴”现象，强调避免认知陷阱的重要性。作者还分享了关于人生遗憾、智慧传承以及如何应对政治焦虑的个人心得，呼吁保持内心平衡和独立思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - cultural-critique
-  - geopolitics-watch
-people:
-  - Seth Godin
-  - Morris
-  - Ralph W.
-  - 达赖喇嘛
-  - 安德烈·基德
-  - Donald Trump
-  - Joe Biden
-  - 汉娜·阿伦特
+category: geopolitics
 companies_orgs:
-  - YouTube
-  - Twitter
-  - Weibo
-  - PBS
-  - Amazon
-  - FBI
-products_models: '[]'
+- YouTube
+- Twitter
+- Weibo
+- PBS
+- Amazon
+- FBI
+date: 2025-03-21
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 'Stop Reading the News: A Manifesto for a Happier, Calmer and Wiser Life'
-  - How to see yourself as you really are
-  - 《为幸福而生》
-  - 《追求幸福》
+- 'Stop Reading the News: A Manifesto for a Happier, Calmer and Wiser Life'
+- How to see yourself as you really are
+- 《为幸福而生》
+- 《追求幸福》
+people:
+- Seth Godin
+- Morris
+- Ralph W.
+- 达赖喇嘛
+- 安德烈·基德
+- Donald Trump
+- Joe Biden
+- 汉娜·阿伦特
+products_models: '[]'
+project:
+- us-analysis
+- cultural-critique
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=GF84F1GMlDU
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了人际交往中的边界感，特别是中文社交媒体上常见的“善意的粗鲁”现象，以及这种行为对内容创作者的影响。同时，文章深入分析了中文世界对美国民主的认知偏差，指出“民主饥渴症”和“望梅止渴”现象，强调避免认知陷阱的重要性。作者还分享了关于人生遗憾、智慧传承以及如何应对政治焦虑的个人心得，呼吁保持内心平衡和独立思考。
+tags:
+- cognitive-bias
+- online
+- perception
+- social
+- technology
+title: 人际交往的边界、中文世界的“善意粗鲁”与对民主的认知陷阱
 ---
 
 ### 人际交往的边界与社交媒体的生态

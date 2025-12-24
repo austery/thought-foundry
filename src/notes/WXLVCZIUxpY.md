@@ -1,32 +1,30 @@
 ---
-title: Traversal：AI如何革新软件故障排除，重塑软件维护
-summary: Traversal公司CEO Anish阐述了在AI生成代码日益增多的时代，软件维护面临的挑战，以及他们如何利用因果机器学习和AI智能体，通过自动化故障排除来显著减少停机时间，使工程师专注于创新而非修复。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- vibe-coding
-tags:
-- ai-agent
-- ai-software-engineering
-- causal-machine-learning
-- site-reliability-engineering
-- troubleshooting
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-22'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- vibe-coding
 series: ''
 source: https://www.youtube.com/watch?v=WXLVCZIUxpY
+speaker: EO
 status: evergreen
+summary: Traversal公司CEO Anish阐述了在AI生成代码日益增多的时代，软件维护面临的挑战，以及他们如何利用因果机器学习和AI智能体，通过自动化故障排除来显著减少停机时间，使工程师专注于创新而非修复。
+tags:
+- ai-agent
+- ai-software-engineering
+- engineering
+- learning
+- troubleshooting
+title: Traversal：AI如何革新软件故障排除，重塑软件维护
 ---
+
 ### 软件复杂性的挑战与停机成本
 
 The code is no longer being written by humans but by AI systems, so much more code is being written now by Cursor or Windsor for Copilot, and AI is going to write so much more code.

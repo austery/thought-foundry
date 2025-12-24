@@ -1,32 +1,31 @@
 ---
-title: 中产阶级幻象：为何财富积累仍难逃返贫困境？
-summary: 本文探讨了中产阶级概念的虚构性与返贫现象。基于豪道斯·魏斯的《我们从未中产过》，揭示了金融资本主义下，个体为追求安全感而进行的投资，如何反而加剧了不安全感，并将社会系统性风险转嫁为个人责任。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- financial-capitalism
-- middle-class-illusion
-- social-mobility
-- sociology
-- wealth-inequality
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-20'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=t1GhMsB8WVE
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 本文探讨了中产阶级概念的虚构性与返贫现象。基于豪道斯·魏斯的《我们从未中产过》，揭示了金融资本主义下，个体为追求安全感而进行的投资，如何反而加剧了不安全感，并将社会系统性风险转嫁为个人责任。
+tags:
+- class
+- financial
+- social
+- sociology
+- wealth-inequality
+title: 中产阶级幻象：为何财富积累仍难逃返贫困境？
 ---
+
 ### 中国经济现状与中产返贫现象
 
 大家好，我是安争鸣，欢迎回到读书时间。当下中国经济社会现状可以用“消费降级”和“中产返贫”两个词来概括，对此我深有体会。例如，我居住的地方旁边有一座商场，其五层和六层全部都是餐饮区域。疫情之前，入驻的餐饮品牌人均消费基本都在100元以上；而疫情之后，这些品牌悉数关闭，新入驻的餐饮品牌人均消费大多在30元到70元之间，人均100元的餐厅已成为最高档次，这无疑是典型的**消费降级**（Consumption Downgrade: 指消费者在经济不景气时期减少消费支出，转而购买更低价位或更基础的商品和服务）。

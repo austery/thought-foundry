@@ -1,44 +1,42 @@
 ---
-author: TechButMakeItReal
+area: society-systems
+category: business
+companies_orgs:
+- Lululemon
+- Aritzia
+- Amazon
+- Hootsuite
+- Unity
+- Microsoft
+- Meta
+- DeepMind
+- University of Toronto
+- University of Waterloo
+- University of British Columbia
+- Montreal Institute for Learning Algorithms
 date: '2025-04-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- us-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=pxh7uYvK7sg
 speaker: TechButMakeItReal
-tags:
-  - canadian-tech-scene
-  - career-relocation
-  - cost-of-living
-  - startup-ecosystem
-  - work-life-balance
-title: 加拿大科技行业裁员潮后：去留何从？多伦多、温哥华与蒙特利尔深度解析
-summary: 本文深入探讨了加拿大三大科技中心——多伦多、温哥华和蒙特利尔在近期裁员潮后的科技行业现状。通过比较各城市的工作文化、人才质量、生活成本、薪资水平以及创业环境，为在北美和欧洲工作的科技专业人士提供了详尽的移居决策参考，帮助他们评估在加拿大不同城市发展职业生涯的利弊。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - us-analysis
-  - entrepreneurship
-people: []
-companies_orgs:
-  - Lululemon
-  - Aritzia
-  - Amazon
-  - Hootsuite
-  - Unity
-  - Microsoft
-  - Meta
-  - DeepMind
-  - University of Toronto
-  - University of Waterloo
-  - University of British Columbia
-  - Montreal Institute for Learning Algorithms
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了加拿大三大科技中心——多伦多、温哥华和蒙特利尔在近期裁员潮后的科技行业现状。通过比较各城市的工作文化、人才质量、生活成本、薪资水平以及创业环境，为在北美和欧洲工作的科技专业人士提供了详尽的移居决策参考，帮助他们评估在加拿大不同城市发展职业生涯的利弊。
+tags:
+- career
+- cost-of-living
+- startup
+- tech
+- work-life-balance
+title: 加拿大科技行业裁员潮后：去留何从？多伦多、温哥华与蒙特利尔深度解析
 ---
+
 ### 系列介绍：科技专业人士的职业选择指南
 
 本视频系列专为已在美国、加拿大、英国或欧盟生活和工作的科技专业人士打造。

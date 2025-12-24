@@ -1,71 +1,71 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Nvidia
+- Bitmine
+- OpenAI
+- Google
+- Amazon
+- Microsoft
+- Robinhood
+- Binance
+- MicroStrategy
+- FTX
+- Bitwise
+- Fundstrat
+- Palantir
+- Meta
+- AMD
+- SoFi
+- Tesla
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Information
+- Bloomberg
+- CNBC
+- Truth Social
+people:
+- Williams
+- Tom Lee
+- Moran
+- Sam Altman
+- Jensen Huang
+- Cathie Wood
+- Michael Saylor
+- Matt Hogan
+- Howard Lutnik
+- Brent Thill
+- Donald Trump
+- Jay Powell
+- David Shaw
+products_models:
+- Bitcoin
+- Ethereum
+- Gemini
+- VIX
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=AoK0xccALn8
 speaker: Amit Kukreja
-tags:
-  - federal-reserve-policy
-  - market-volatility
-  - crypto-deleveraging
-  - yen-carry-trade
-  - investor-sentiment
-title: 美联储降息预期升温，市场剧烈波动，加密货币遭遇重创
-summary: 由于美联储主席威廉姆斯暗示可能降息，市场情绪出现反转，盘前一度走高，12月降息的概率也大幅跃升。然而，市场整体仍充满不确定性，加密货币市场遭遇“血洗”，比特币和以太坊价格大幅下跌。本期内容深入探讨了市场动荡背后的多重因素，包括Bitmine的财报、日元套利交易的潜在影响、系统性去杠杆以及美联储官员之间的鸽鹰之争，并分析了投资者在当前极度恐慌的市场情绪下的应对策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Williams
-  - Tom Lee
-  - Moran
-  - Sam Altman
-  - Jensen Huang
-  - Cathie Wood
-  - Michael Saylor
-  - Matt Hogan
-  - Howard Lutnik
-  - Brent Thill
-  - Donald Trump
-  - Jay Powell
-  - David Shaw
-companies_orgs:
-  - Federal Reserve
-  - Nvidia
-  - Bitmine
-  - OpenAI
-  - Google
-  - Amazon
-  - Microsoft
-  - Robinhood
-  - Binance
-  - MicroStrategy
-  - FTX
-  - Bitwise
-  - Fundstrat
-  - Palantir
-  - Meta
-  - AMD
-  - SoFi
-  - Tesla
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Gemini
-  - VIX
-media_books:
-  - The Information
-  - Bloomberg
-  - CNBC
-  - Truth Social
 status: evergreen
+summary: 由于美联储主席威廉姆斯暗示可能降息，市场情绪出现反转，盘前一度走高，12月降息的概率也大幅跃升。然而，市场整体仍充满不确定性，加密货币市场遭遇“血洗”，比特币和以太坊价格大幅下跌。本期内容深入探讨了市场动荡背后的多重因素，包括Bitmine的财报、日元套利交易的潜在影响、系统性去杠杆以及美联储官员之间的鸽鹰之争，并分析了投资者在当前极度恐慌的市场情绪下的应对策略。
+tags:
+- crypto-deleveraging
+- federal-reserve-policy
+- investor-sentiment
+- market-volatility
+- trade
+title: 美联储降息预期升温，市场剧烈波动，加密货币遭遇重创
 ---
+
 ### 美联储降息预期推动市场情绪
 
 早上好，各位。欢迎回到新一期的《开盘直击》。我们一切安好，盘前市场呈现绿色，而且只有一个简单的原因。大约20分钟前，市场开始转绿。如你所见，标普500指数目前上涨了约0.56%，这算是一种宽慰。盘前，标普500指数一度跌至649点，而在10月10日我们曾触及647点，所以非常接近10月10日的低点。

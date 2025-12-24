@@ -1,89 +1,90 @@
 ---
-author: Big Think
+area: personal-systems
+category: psychology
+companies_orgs:
+- Johns Hopkins
+- Sandoz
+- CIA
+- FDA
+- DEA
+- Big Think
+- Pink Floyd
+- The Beatles
+- Cheech & Chong
+- The Rolling Stones
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《科学革命的结构》
+- 《物种起源》
+- 《自然哲学的数学原理》
+people:
+- Matthew Johnson
+- Kary Mullis
+- Humphry Osmond
+- Aldous Huxley
+- Albert Hofmann
+- Abram Hoffer
+- Timothy Leary
+- Syd Barrett
+- William James
+- Thomas Kuhn
+- Isaac Newton
+- Charles Darwin
+- Terrence McKenna
+- David Chalmers
+- Nagel
+- Jesus
+- Buddha
+products_models:
+- LSD
+- Psilocybin
+- DMT
+- Mescaline
+- Ayahuasca
+- Peyote
+- MDMA
+- Ketamine
+- PCP
+- Cannabis
+- Cocaine
+- Methamphetamine
+- Opioids
+- Tobacco
+- Nicotine
+- Salvinorin A
+- Ibogaine
+- Prozac
+- SSRIs
+- Valium
+- Xanax
+- Morphine
+- Heroin
+- Oxycodone
+- Ketanserin
+- PCR
+- MKUltra
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=U_sFWG5WFjo
 speaker: Big Think
-tags:
-  - psychedelic-therapy
-  - mystical-experience
-  - neuroplasticity
-  - consciousness
-  - set-and-setting
-title: 迷幻药科学：从大脑机制到心理治疗的革命性潜力
-summary: 约翰斯·霍普金斯大学的精神病学教授马修·约翰逊深入探讨了迷幻药的科学。他解释了为何单次使用就能产生深远影响，辨析了“迷幻药”、“致幻剂”等术语，并回顾了从早期研究到被中情局滥用的历史。约翰逊详细阐述了迷幻药在大脑中的作用机制（如血清素2A受体），其在治疗成瘾、抑郁等精神疾病中的革命性潜力，同时也强调了“糟糕的旅程”和诱发精神疾病的风险。他最后展望了迷幻药研究如何帮助我们理解精神障碍的共同根源。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Matthew Johnson
-  - Kary Mullis
-  - Humphry Osmond
-  - Aldous Huxley
-  - Albert Hofmann
-  - Abram Hoffer
-  - Timothy Leary
-  - Syd Barrett
-  - William James
-  - Thomas Kuhn
-  - Isaac Newton
-  - Charles Darwin
-  - Terrence McKenna
-  - David Chalmers
-  - Nagel
-  - Jesus
-  - Buddha
-companies_orgs:
-  - Johns Hopkins
-  - Sandoz
-  - CIA
-  - FDA
-  - DEA
-  - Big Think
-  - Pink Floyd
-  - The Beatles
-  - Cheech & Chong
-  - The Rolling Stones
-products_models:
-  - LSD
-  - Psilocybin
-  - DMT
-  - Mescaline
-  - Ayahuasca
-  - Peyote
-  - MDMA
-  - Ketamine
-  - PCP
-  - Cannabis
-  - Cocaine
-  - Methamphetamine
-  - Opioids
-  - Tobacco
-  - Nicotine
-  - Salvinorin A
-  - Ibogaine
-  - Prozac
-  - SSRIs
-  - Valium
-  - Xanax
-  - Morphine
-  - Heroin
-  - Oxycodone
-  - Ketanserin
-  - PCR
-  - MKUltra
-media_books:
-  - 《科学革命的结构》
-  - 《物种起源》
-  - 《自然哲学的数学原理》
 status: evergreen
+summary: 约翰斯·霍普金斯大学的精神病学教授马修·约翰逊深入探讨了迷幻药的科学。他解释了为何单次使用就能产生深远影响，辨析了“迷幻药”、“致幻剂”等术语，并回顾了从早期研究到被中情局滥用的历史。约翰逊详细阐述了迷幻药在大脑中的作用机制（如血清素2A受体），其在治疗成瘾、抑郁等精神疾病中的革命性潜力，同时也强调了“糟糕的旅程”和诱发精神疾病的风险。他最后展望了迷幻药研究如何帮助我们理解精神障碍的共同根源。
+tags:
+- consciousness
+- experience
+- health
+- set-and-setting
+title: 迷幻药科学：从大脑机制到心理治疗的革命性潜力
+companies:
+- psychedelic-therapy
 ---
+
 ### 迷幻药的独特魅力：一次体验何以改变一生
 
 我是马特·约翰逊，约翰斯·霍普金斯大学的精神病学和行为科学教授。我研究各种药物：兴奋剂、镇静剂以及全方位作用的药物。在过去近二十年里，我研究最多的药物类别是**迷幻药**（英文 Psychedelics: 源于希腊语，意为“心灵显现”，指一类能显著改变人的意识、情绪和感知的药物）。

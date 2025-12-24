@@ -1,37 +1,35 @@
 ---
-author: Veritasium
-date: '2023-04-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=rWVAzS5duAs
-speaker: Veritasium
-tags:
-  - veritasium
-  - concrete-science
-  - cement-production
-  - material-properties
-  - roman-engineering
-  - carbon-footprint
-title: 混凝土的奥秘：从古罗马到现代，以及你是否能浮在其中？
-summary: 本视频深入探讨了混凝土的迷人世界，阐明了水泥与混凝土之间的区别，并强调了其作为人造物质的无与伦比的重要性。它追溯了从原始水泥到古罗马创新再到现代波特兰水泥的历史演变，详细介绍了其强度和硬化过程背后的科学原理。主持人还进行了一项不同寻常的实验，以探究是否能浮在混凝土中，揭示了令人惊讶的浮力。视频最后讨论了混凝土对环境的重大影响以及碳抵消的潜在解决方案。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-people:
-  - Derek Muller
-  - William
+category: technology
 companies_orgs:
-  - Wren
-  - Clean Air Task Force
+- Wren
+- Clean Air Task Force
+date: '2023-04-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- William
 products_models:
-  - Portland cement
-media_books: []
+- Portland cement
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=rWVAzS5duAs
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了混凝土的迷人世界，阐明了水泥与混凝土之间的区别，并强调了其作为人造物质的无与伦比的重要性。它追溯了从原始水泥到古罗马创新再到现代波特兰水泥的历史演变，详细介绍了其强度和硬化过程背后的科学原理。主持人还进行了一项不同寻常的实验，以探究是否能浮在混凝土中，揭示了令人惊讶的浮力。视频最后讨论了混凝土对环境的重大影响以及碳抵消的潜在解决方案。
+tags:
+- engineering
+- environment
+- science
+- society
+- technology
+title: 混凝土的奥秘：从古罗马到现代，以及你是否能浮在其中？
 ---
+
 ### 混凝土：定义与重要性
 
 我即将被混凝土掩埋。在这一切发生的同时，我将解释关于这种物质你需要知道的一切。

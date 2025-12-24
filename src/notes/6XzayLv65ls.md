@@ -1,53 +1,54 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Restaurant Brands International
+- Norges Bank Investment Management
+- Burger King
+- Tim Hortons
+- Firehouse Subs
+- Popeyes
+- Domino's Pizza
 date: '2024-03-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Rudolph Diesel
+people:
+- Nicola Tangan
+- Patrick Doyle
+- Josh Kobza
+- Tom Curtis
+- Dave Brandon
+- Russell Weiner
+products_models:
+- Whopper
+- Big Mac
+- Original Chicken Sandwich
+- Royal Crispy Chicken Sandwich
+- Fiery Fish
+project:
+- investment-strategy
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=6XzayLv65ls
 speaker: Norges Bank Investment Management
-tags:
-  - fast-food-industry
-  - franchise-model
-  - corporate-culture
-  - leadership-development
-  - consumer-trends
-title: RBI高管访谈：快餐业的增长策略、文化与未来展望
-summary: 本期播客中，国际餐饮品牌公司（RBI）执行主席Patrick Doyle和首席执行官Josh Kobza深入探讨了快餐行业的增长驱动力、公司旗下品牌（汉堡王、Tim Hortons、Popeyes、Firehouse Subs）的运营策略。他们强调了加盟商盈利能力的重要性，分析了消费者行为趋势及减肥药物对行业影响的看法。此外，访谈还涉及企业文化、员工培养、信任在业务加速中的作用，以及两位领导者的个人驱动力与职业建议。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Nicola Tangan
-  - Patrick Doyle
-  - Josh Kobza
-  - Tom Curtis
-  - Dave Brandon
-  - Russell Weiner
-companies_orgs:
-  - Restaurant Brands International
-  - Norges Bank Investment Management
-  - Burger King
-  - Tim Hortons
-  - Firehouse Subs
-  - Popeyes
-  - Domino's Pizza
-products_models:
-  - Whopper
-  - Big Mac
-  - Original Chicken Sandwich
-  - Royal Crispy Chicken Sandwich
-  - Fiery Fish
-media_books:
-  - In Good Company
-  - Rudolph Diesel
 status: evergreen
+summary: 本期播客中，国际餐饮品牌公司（RBI）执行主席Patrick Doyle和首席执行官Josh Kobza深入探讨了快餐行业的增长驱动力、公司旗下品牌（汉堡王、Tim
+  Hortons、Popeyes、Firehouse Subs）的运营策略。他们强调了加盟商盈利能力的重要性，分析了消费者行为趋势及减肥药物对行业影响的看法。此外，访谈还涉及企业文化、员工培养、信任在业务加速中的作用，以及两位领导者的个人驱动力与职业建议。
+tags:
+- corporate-culture
+- industry
+- leadership-development
+- model
+- trend
+title: RBI高管访谈：快餐业的增长策略、文化与未来展望
 ---
+
 ### 欢迎辞与快餐业概览
 
 **主持人 Nicola Tangan:** 大家好，欢迎收听《**In Good Company**》（播客名称）。我是挪威主权财富基金（Norges Bank Investment Management）的首席执行官**Nicola Tangan**。

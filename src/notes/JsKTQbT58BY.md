@@ -1,35 +1,33 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Rexmore
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Corey J. Gallon
+products_models: []
+project:
+- ai-impact-analysis
+- systems-thinking
+- vibe-coding
+series: ''
 source: https://www.youtube.com/watch?v=JsKTQbT58BY
 speaker: AI Engineer
-tags:
-  - ai-accelerated-development
-  - software-engineering-principles
-  - development-workflow
-  - context-management
-  - multi-sensory-feedback
-title: 告别“随性编程”：AI辅助开发的高效框架与实践
-summary: 本文深入探讨了“随性编程”（Vibe Coding）的弊端，即AI加速开发中缺乏规划导致代码难以维护的问题。作者提出了一套全面的AI编程代理框架，涵盖三大支柱：指导思想（Principles）、工作流程（Process）和辅助工具（Tools）。该框架旨在帮助开发者从依赖AI生成代码转变为驾驭AI，通过结构化规划、迭代开发和多感官反馈，构建可理解、可维护的生产级应用，从而克服“随性编程”带来的困境，实现真正的AI增强学习和高效开发。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - vibe-coding
-people:
-  - Corey J. Gallon
-companies_orgs:
-  - Rexmore
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了“随性编程”（Vibe Coding）的弊端，即AI加速开发中缺乏规划导致代码难以维护的问题。作者提出了一套全面的AI编程代理框架，涵盖三大支柱：指导思想（Principles）、工作流程（Process）和辅助工具（Tools）。该框架旨在帮助开发者从依赖AI生成代码转变为驾驭AI，通过结构化规划、迭代开发和多感官反馈，构建可理解、可维护的生产级应用，从而克服“随性编程”带来的困境，实现真正的AI增强学习和高效开发。
+tags:
+- development
+- management
+- multi-sensory-feedback
+- software-engineering-principle
+title: 告别“随性编程”：AI辅助开发的高效框架与实践
 ---
+
 ### “随性编程”的困境与AI加速开发的挑战
 
 灵感来袭，你有一个想法，并且清楚地知道如何实现它。你启动了你最喜欢的**AI编程代理**（AI Coding Agent: 能够根据指令生成代码的AI工具），输入提示词，然后将任务交给它。看，它完成了！也就是说，你完成了。应用程序运行良好。这才是**10倍工程师**（10x Engineer: 指生产力远超普通工程师的开发者）真正感受到的。你是个天才，是AI革命中的反叛者。

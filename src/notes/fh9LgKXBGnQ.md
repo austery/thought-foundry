@@ -1,44 +1,42 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: business
+companies_orgs:
+- Vectara
+- Google
+- Anthropic
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ofer Mendelevitch
+products_models:
+- Gemini
+- ChatGPT
+- Perplexity
+- Jira
+- Notion
+- Google Drive
+- SharePoint
+- HHM
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=fh9LgKXBGnQ
 speaker: AI Engineer
-tags:
-  - enterprise-ai
-  - deep-research
-  - hallucination-mitigation
-  - agent-operating-system
-  - rag-workflow
-title: 企业深度研究：AI在企业应用中的下一个杀手级应用
-summary: 本文介绍了Vectara的可信赖代理操作系统及其在多模态数据摄取、检索准确性和幻觉缓解方面的核心功能。文章详细阐述了“企业深度研究”的概念，即AI代理对企业私有数据进行深入、多步骤的调查，以生成全面的报告。此外，文中还探讨了该技术在响应RFP、员工入职培训和生成投资备忘录等场景中的实际应用，突出了其在提升企业效率和信息准确性方面的巨大潜力。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Ofer Mendelevitch
-companies_orgs:
-  - Vectara
-  - Google
-  - Anthropic
-products_models:
-  - Gemini
-  - ChatGPT
-  - Perplexity
-  - Jira
-  - Notion
-  - Google Drive
-  - SharePoint
-  - HHM
-media_books: []
 status: evergreen
+summary: 本文介绍了Vectara的可信赖代理操作系统及其在多模态数据摄取、检索准确性和幻觉缓解方面的核心功能。文章详细阐述了“企业深度研究”的概念，即AI代理对企业私有数据进行深入、多步骤的调查，以生成全面的报告。此外，文中还探讨了该技术在响应RFP、员工入职培训和生成投资备忘录等场景中的实际应用，突出了其在提升企业效率和信息准确性方面的巨大潜力。
+tags:
+- enterprise-ai
+- llm
+- research
+- system
+title: 企业深度研究：AI在企业应用中的下一个杀手级应用
 ---
+
 ### Vectara的可信赖代理操作系统
 
 大家好，我是Vectara的Ofer。在Vectara，我们开发了一个**可信赖代理操作系统**（Trustworthy Agent Operating System: 旨在提供可靠、安全的AI代理服务平台）。

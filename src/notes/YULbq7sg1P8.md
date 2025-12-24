@@ -1,62 +1,62 @@
 ---
-author: 北美王路飞
+area: market-analysis
+category: finance
+companies_orgs:
+- AIG
+- AIG FP
+- 穆迪
+- 标普
+- 高盛
+- 德意志银行
+- 花旗银行
+- New Century
+- Frontpoint
+- 康沃尔资本
+- 雷曼兄弟
+- 摩根大通
+- 贝尔斯登
 date: '2025-09-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大空头》
+- 华尔街日报
+people:
+- 吉恩·帕克
+- 乔·卡萨诺
+- 克雷格·李普曼
+- 史蒂夫·艾斯曼
+- 理查德·莱德利
+- 吉米·麦
+- 阿尔弗·洛斯特
+- 加里·戈顿
+- 丹尼·摩西
+- 文尼·丹尼尔
+- 本·霍克特
+- 周温
+- 约翰·德瓦尼
+products_models:
+- 布莱克-斯科尔斯模型
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=YULbq7sg1P8
 speaker: 北美王路飞
-tags:
-  - subprime-mortgage-crisis
-  - credit-default-swap
-  - collateralized-debt-obligation
-  - systemic-risk
-  - whistleblower
-title: 2008年金融危机系列：AIG的疯狂、独裁管理与次贷骗局
-summary: 本文深入剖析了2008年美国金融危机中AIG公司扮演的关键角色，揭示了一个价值数万亿美元的市场如何演变成一场系统性的骗局。通过介绍AIG金融产品部负责人乔·卡萨诺的独裁管理、内部吹哨人吉恩·帕克的警示，以及史蒂夫·艾斯曼、康沃尔资本等做空者的视角，文章展现了次贷市场从狂热到崩塌的全过程。它探讨了贪婪、错误的激励机制以及复杂金融产品如何共同扭曲了整个金融系统，最终导致全球性的灾难。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 吉恩·帕克
-  - 乔·卡萨诺
-  - 克雷格·李普曼
-  - 史蒂夫·艾斯曼
-  - 理查德·莱德利
-  - 吉米·麦
-  - 阿尔弗·洛斯特
-  - 加里·戈顿
-  - 丹尼·摩西
-  - 文尼·丹尼尔
-  - 本·霍克特
-  - 周温
-  - 约翰·德瓦尼
-companies_orgs:
-  - AIG
-  - AIG FP
-  - 穆迪
-  - 标普
-  - 高盛
-  - 德意志银行
-  - 花旗银行
-  - New Century
-  - Frontpoint
-  - 康沃尔资本
-  - 雷曼兄弟
-  - 摩根大通
-  - 贝尔斯登
-products_models:
-  - 布莱克-斯科尔斯模型
-media_books:
-  - 《大空头》
-  - 华尔街日报
 status: evergreen
+summary: 本文深入剖析了2008年美国金融危机中AIG公司扮演的关键角色，揭示了一个价值数万亿美元的市场如何演变成一场系统性的骗局。通过介绍AIG金融产品部负责人乔·卡萨诺的独裁管理、内部吹哨人吉恩·帕克的警示，以及史蒂夫·艾斯曼、康沃尔资本等做空者的视角，文章展现了次贷市场从狂热到崩塌的全过程。它探讨了贪婪、错误的激励机制以及复杂金融产品如何共同扭曲了整个金融系统，最终导致全球性的灾难。
+tags:
+- credit
+- crisis
+- debt
+- systemic-risk
+- whistleblower
+title: 2008年金融危机系列：AIG的疯狂、独裁管理与次贷骗局
 ---
+
 ### 金融风暴的序曲：一场系统性的骗局
 
 上一期我们探讨了席卷全球的金融风暴是如何开始的，并介绍了最早察觉到危机的几位“怪人”。今天，我们将深入探讨一个更引人深思的话题：一个价值数万亿美元、由全球顶尖金融天才构建的精密体系，为何能在光天化日之下，沦为一个连赌场都不如的骗局？

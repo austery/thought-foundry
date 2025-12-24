@@ -1,39 +1,39 @@
 ---
-author: Veritasium
-date: '2021-02-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=058hRtaCWC0
-speaker: Veritasium
-tags:
-  - veritasium
-  - soft-robotics
-  - pneumatic-systems
-  - human-robot-interaction
-  - space-exploration
-  - compliant-materials
-title: 软体机器人：柔性结构如何改变人机交互与探索？
-summary: 本文深入探讨了软体机器人的独特之处，它们由柔性材料而非传统金属或木材构建，通过压缩空气驱动。文章详细阐述了软体机器人在安全性、适应性（如在矿井、MRI环境或太空中的应用）以及物体抓取方面的显著优势，并介绍了斯坦福大学研究人员Zach Hammond及其团队的创新设计。同时，文章也提及了软体机器人面临的挑战，如漏气风险，并展望了其在未来人机协作中的广阔前景，强调了柔性设计在机械系统中的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Zach Hammond
+category: technology
 companies_orgs:
-  - Stanford
-  - KiwiCo
-  - Boston Dynamics
-  - NASA
-products_models: []
+- Stanford
+- KiwiCo
+- Boston Dynamics
+- NASA
+date: '2021-02-18'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Big Hero 6
+- Big Hero 6
+people:
+- Zach Hammond
+products_models: []
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=058hRtaCWC0
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了软体机器人的独特之处，它们由柔性材料而非传统金属或木材构建，通过压缩空气驱动。文章详细阐述了软体机器人在安全性、适应性（如在矿井、MRI环境或太空中的应用）以及物体抓取方面的显著优势，并介绍了斯坦福大学研究人员Zach
+  Hammond及其团队的创新设计。同时，文章也提及了软体机器人面临的挑战，如漏气风险，并展望了其在未来人机协作中的广阔前景，强调了柔性设计在机械系统中的重要性。
+tags:
+- human
+- soft-robotic
+- space-exploration
+- system
+- technology
+title: 软体机器人：柔性结构如何改变人机交互与探索？
 ---
+
 ### 软体机器人：柔性设计的奥秘与工作原理
 
 这些是**软体机器人**（Soft Robots: 由柔性材料而非传统金属或木材构建的机器人）。它们的结构部件不是由金属或木材制成，而是由塑料管等柔性材料构成。但它们是如何工作的？以及为什么我们首先需要一个软体机器人呢？

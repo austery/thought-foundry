@@ -1,39 +1,37 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 芝加哥大学
+- 世界银行
+- 国际货币基金组织
 date: '2024-08-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mora
+products_models:
+- HIV
+- SIV
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=caOdjnuA3ZA
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - hiv-aids-africa
-  - transactional-sex
-  - uneven-modernization
-  - gender-inequality
-  - socioeconomic-disparity
-title: 揭秘非洲艾滋病“挑食”现象：交易式性关系与不均衡发展
-summary: 撒哈拉以南非洲的艾滋病疫情呈现出独特的“挑食”现象，年轻女性感染率远高于男性，且富裕、受教育者更易感染。本文深入探讨了这一科学谜题背后的社会经济与文化驱动因素，包括不均衡的现代化进程、贫富差距、西方文化渗透以及“交易式性关系”（堂爹现象）。这些因素共同构建了一个跨世代的病毒传播链，揭示了全球化背景下，当地女性在追求现代身份过程中所面临的困境与风险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Mora
-companies_orgs:
-  - 芝加哥大学
-  - 世界银行
-  - 国际货币基金组织
-products_models:
-  - HIV
-  - SIV
-media_books: []
 status: evergreen
+summary: 撒哈拉以南非洲的艾滋病疫情呈现出独特的“挑食”现象，年轻女性感染率远高于男性，且富裕、受教育者更易感染。本文深入探讨了这一科学谜题背后的社会经济与文化驱动因素，包括不均衡的现代化进程、贫富差距、西方文化渗透以及“交易式性关系”（堂爹现象）。这些因素共同构建了一个跨世代的病毒传播链，揭示了全球化背景下，当地女性在追求现代身份过程中所面临的困境与风险。
+tags:
+- gender-inequality
+- llm
+- technology
+- transactional-sex
+title: 揭秘非洲艾滋病“挑食”现象：交易式性关系与不均衡发展
 ---
+
 ### 非洲艾滋病谜团：何谓“嗜女瘟”？
 
 社会科学的研究告诉我们，在异性性行为中，女生的性愉悦很长一段时间不受到重视，因此许多女性会把性愉悦的工作外包给科技产品，也就是性玩具或情趣用品。不少调查都显示，女生拥有或使用性玩具的比率比男生还高。情趣梦天堂拥有广受好评并提供现场讲解的实体店面，是许多性玩具新手的朝圣之地。情趣梦天堂在盛夏推出女性玩具专区，多达400多种女性情趣用品在商城同时上线。情趣梦天堂很特别的是，他们希望消费者确切知道每个商品怎么用，所以他们不只在店内提供讲解，他们的商城也有很详细的文字图片说明，有些特色商品甚至会提供开箱或实际使用的影片。情趣梦天堂目前的销售冠军是手持迷你炮机，可以手持自用，也可以是男生前戏的辅助道具，当然也可以搭配它的专属炮架和无线遥控解放双手。尺寸是9乘以3.2厘米，可以加热到36度，有三档震动调整，也可以切换伸缩频率，质感很好，包装也很美。现在只要输入折扣码“寿司坦丁”，就能享有全款消费999元限折100元，凡消费就送瑟色平安符，消费满2699元再送独家福寿浴巾。情趣梦天堂还要抽奖送给寿司坦丁的观众两组42480元的手持迷你炮机，只要回答影片最后的问题，把答案写在评论区就可以参加抽奖。

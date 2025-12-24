@@ -1,42 +1,41 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Macdonald-Laurier Institute
+- Carleton University
+- NATO
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Hub
+people:
+- Mark Carney
+- Richard Shimooka
+- Stephanie Carvin
+products_models:
+- CAF Cybercom
+- Golden Dome
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=6wBiU62WgUU
 speaker: TVO Today
-tags:
-  - defense-spending
-  - military-modernization
-  - modern-warfare
-  - geopolitical-strategy
-  - military-technology
-title: 加拿大国防开支与现代战争：准备好了吗？
-summary: 本文探讨了加拿大2025年联邦预算中大幅增加的国防开支，以及其对武装部队现代化和应对现代战争挑战的影响。专家讨论了自二战以来战争形态的演变，包括核武器、非国家行为体冲突、信息战以及人工智能、生物技术和无人机等技术进步。文章还分析了加拿大军队在防空、远程火炮和网络能力方面的不足，并探讨了国防工业基础建设和与美国互操作性的战略考量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Richard Shimooka
-  - Stephanie Carvin
-companies_orgs:
-  - Macdonald-Laurier Institute
-  - Carleton University
-  - NATO
-products_models:
-  - CAF Cybercom
-  - Golden Dome
-media_books:
-  - The Hub
 status: evergreen
+summary: 本文探讨了加拿大2025年联邦预算中大幅增加的国防开支，以及其对武装部队现代化和应对现代战争挑战的影响。专家讨论了自二战以来战争形态的演变，包括核武器、非国家行为体冲突、信息战以及人工智能、生物技术和无人机等技术进步。文章还分析了加拿大军队在防空、远程火炮和网络能力方面的不足，并探讨了国防工业基础建设和与美国互操作性的战略考量。
+tags:
+- geopolitical
+- geopolitical-strategy
+- military
+- technology
+title: 加拿大国防开支与现代战争：准备好了吗？
 ---
+
 ### 加拿大国防开支与现代战争的挑战
 
 主持人：国防开支是2025年联邦预算中的一个主要项目。

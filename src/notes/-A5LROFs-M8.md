@@ -1,62 +1,64 @@
 ---
-author: Darren聊美股
+area: market-analysis
+category: finance
+companies_orgs:
+- Goldman Sachs
+- Amplify
+- Rex Shares
+- YieldMax
+- Global X
+- Kurv ETF
+- Robinhood
+- Palantir
+- SoFi
+- BMNR
+- Tesla
+- Nvidia
+- Oscar
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Seeking Alpha
+people:
+- Michael Burry
+products_models:
+- S&P 500
+- Nasdaq 100
+- GPIX
+- TSPY
+- GPIQ
+- QDVO
+- TSII
+- TSLY
+- TSLP
+- NVII
+- NVDY
+- XYLD
+- QYLD
+- Alpha Picks
+project:
+- investment-strategy
+- us-analysis
+- fire-movement
+series: ''
 source: https://www.youtube.com/watch?v=-A5LROFs-M8
 speaker: Darren聊美股
-tags:
-  - us-stock-market-volatility
-  - covered-call-etf
-  - passive-income
-  - long-term-investing
-  - financial-independence
-title: 2025年美股Covered Call ETF全面盘点：稳健收益与财务自由之路
-summary: 本视频深入盘点了2025年美国市场值得关注的Covered Call ETF，旨在帮助投资者在美股震荡中实现稳健收益和财务自由。主持人Darren分析了近期市场回调的原因，并强调了Covered Call ETF在降低波动、提供稳定现金流方面的优势。视频详细介绍了追踪标普500和纳斯达克100的优质ETF，如GPIX、TSPY、GPIQ、QDVO，以及Rex Shares推出的追踪个股（如特斯拉、英伟达）的创新产品。同时，视频纠正了对Covered Call ETF的常见误解，并通过实例展示了其在实现被动收入、提前退休方面的巨大潜力，鼓励投资者深入了解这类工具以优化投资组合。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - fire-movement
-people:
-  - Michael Burry
-companies_orgs:
-  - Goldman Sachs
-  - Amplify
-  - Rex Shares
-  - YieldMax
-  - Global X
-  - Kurv ETF
-  - Robinhood
-  - Palantir
-  - SoFi
-  - BMNR
-  - Tesla
-  - Nvidia
-  - Oscar
-products_models:
-  - S&P 500
-  - Nasdaq 100
-  - GPIX
-  - TSPY
-  - GPIQ
-  - QDVO
-  - TSII
-  - TSLY
-  - TSLP
-  - NVII
-  - NVDY
-  - XYLD
-  - QYLD
-  - Alpha Picks
-media_books:
-  - Seeking Alpha
 status: evergreen
+summary: 本视频深入盘点了2025年美国市场值得关注的Covered Call ETF，旨在帮助投资者在美股震荡中实现稳健收益和财务自由。主持人Darren分析了近期市场回调的原因，并强调了Covered
+  Call ETF在降低波动、提供稳定现金流方面的优势。视频详细介绍了追踪标普500和纳斯达克100的优质ETF，如GPIX、TSPY、GPIQ、QDVO，以及Rex
+  Shares推出的追踪个股（如特斯拉、英伟达）的创新产品。同时，视频纠正了对Covered Call ETF的常见误解，并通过实例展示了其在实现被动收入、提前退休方面的巨大潜力，鼓励投资者深入了解这类工具以优化投资组合。
+tags:
+- financial-independence
+- income
+- investment
+- long-term-investing
+- us-stock-market-volatility
+title: 2025年美股Covered Call ETF全面盘点：稳健收益与财务自由之路
 ---
+
 ### 美股震荡与Covered Call ETF的应对之道
 
 进入十一月以来，美股持续走弱。本周**标普500**（S&P 500: 衡量美国500家大型上市公司股票表现的指数）再度下挫超过2%，主要有三点原因：第一，大盘从四月起已连续上涨六个月，技术性回调几乎不可避免；第二，著名空头Michael Burry公开做空英伟达和Palantir，引发市场对AI泡沫的担忧；第三，政府关门持续时间过长，市场流动性明显下降。像Oscar这类政策依赖性强的股票，不确定性也在增加。直到周五收盘前传出政府即将重启的消息，市场才出现了明显的V型反弹。

@@ -1,51 +1,51 @@
 ---
-author: 政經孫老師
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 彭博
+- 台湾自测会产业情报研究所
+- 美国新闻周刊
+- 海軍研究所
+- 华盛顿战略与国际研究中心
+- 昆西战略研究所
+- 台积电
 date: '2025-07-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 天下杂志
+- 悲伤的5个阶段
+people:
+- 梁家河
+- 蒋介石
+- Donald Trump
+- 赖清德
+- 库伯勒-罗丝
+products_models:
+- 微晶片
+- 半导体
+- 晶片
+- 处理器
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=g8UPK1_nz3Y
 speaker: 政經孫老師
-tags:
-  - taiwan-strait-crisis
-  - global-economy
-  - semiconductor-supply-chain
-  - geopolitical-risk
-  - us-china-relations
-title: 台海危机：全球经济崩溃论的夸大与中国攻台的真实考量
-summary: 针对台海危机可能引发全球经济崩溃的普遍观点，本文从经济角度深入剖析，认为其严重性被夸大。文章指出，尽管台湾半导体产业和台海航线至关重要，但全球经济体系具备应对小规模冲突的能力。更重要的是，中国大陆攻台的意愿和能力受多重因素制约，包括其对台湾半导体的依赖、外交成本、自身经济状况以及美国为保护其经济利益而采取的军事威慑。文章最终认为，大规模战争的可能性极低，而“假打”以巩固内部权力则是一种讽刺的现实考量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 梁家河
-  - 蒋介石
-  - 川普
-  - 赖清德
-  - 库伯勒-罗丝
-companies_orgs:
-  - 彭博
-  - 台湾自测会产业情报研究所
-  - 美国新闻周刊
-  - 海軍研究所
-  - 华盛顿战略与国际研究中心
-  - 昆西战略研究所
-  - 台积电
-products_models:
-  - 微晶片
-  - 半导体
-  - 晶片
-  - 处理器
-media_books:
-  - 天下杂志
-  - 悲伤的5个阶段
 status: evergreen
+summary: 针对台海危机可能引发全球经济崩溃的普遍观点，本文从经济角度深入剖析，认为其严重性被夸大。文章指出，尽管台湾半导体产业和台海航线至关重要，但全球经济体系具备应对小规模冲突的能力。更重要的是，中国大陆攻台的意愿和能力受多重因素制约，包括其对台湾半导体的依赖、外交成本、自身经济状况以及美国为保护其经济利益而采取的军事威慑。文章最终认为，大规模战争的可能性极低，而“假打”以巩固内部权力则是一种讽刺的现实考量。
+tags:
+- geopolitical-risk
+- global-economy
+- semiconductor-supply-chain
+- taiwan-strait-crisis
+- us-china-relations
+title: 台海危机：全球经济崩溃论的夸大与中国攻台的真实考量
 ---
+
 ### 台海危机：被夸大的全球经济冲击
 
 大家好，我是孙老师。今天我们来探讨一下台海危机的问题。台湾海峡爆发战争或军事冲突的可能性，最近又受到人们的关注和媒体的炒作。当然，如果台海爆发危机，中国和台湾都将是受害者。但如果从全球经济的整体角度来看，这里的战争也会影响全球的贸易和经济。关于这方面的讨论非常多，媒体和专家得出了一个共同结论：如果台海爆发战争，全球经济将付出惨重代价，全球经济体系会直接崩溃，结果将非常严重。

@@ -1,54 +1,52 @@
 ---
-author: 视野环球财经
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- NVIDIA
+- Synopsys
+- Merck
+- Google
+- Broadcom
+- OpenAI
+- Microsoft
+- AMD
+- Oracle
+- Tesla
+- Meta Platforms
+- Lululemon
+- Eli Lilly
+- Amazon
+- Bank of Japan
+- Federal Reserve
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Reno W.
+- Donald Trump
+- Hassett
+products_models:
+- ChatGPT
+- TPU
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=pVxSs52GNhg
 speaker: 视野环球财经
-tags:
-  - us-stock-market
-  - monetary-policy
-  - corporate-earnings
-  - market-volatility
-  - ai-sector-investment
-title: 美股震荡中探寻投资机会：日本加息、ISM数据与科技巨头动态分析
-summary: 本期节目深入分析了2025年12月美股市场的动态，包括日本央行潜在加息对美股的短期影响、美国国债收益率走高的原因、以及11月ISM制造业PMI数据。重点探讨了英伟达投资新思科技（Synopsys）的估值与技术面，并比较了AI领域两大阵营的资金流向。此外，节目还更新了特斯拉、微软、礼来、Lululemon等个股的走势，并提供了VIX指数和CTA资金流向的解读，为投资者在圣诞行情中提供合理预期。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Reno W.
-  - Donald Trump
-  - Hassett
-companies_orgs:
-  - NVIDIA
-  - Synopsys
-  - Merck
-  - Google
-  - Broadcom
-  - OpenAI
-  - Microsoft
-  - AMD
-  - Oracle
-  - Tesla
-  - Meta Platforms
-  - Lululemon
-  - Eli Lilly
-  - Amazon
-  - Bank of Japan
-  - Federal Reserve
-products_models:
-  - ChatGPT
-  - TPU
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了2025年12月美股市场的动态，包括日本央行潜在加息对美股的短期影响、美国国债收益率走高的原因、以及11月ISM制造业PMI数据。重点探讨了英伟达投资新思科技（Synopsys）的估值与技术面，并比较了AI领域两大阵营的资金流向。此外，节目还更新了特斯拉、微软、礼来、Lululemon等个股的走势，并提供了VIX指数和CTA资金流向的解读，为投资者在圣诞行情中提供合理预期。
+tags:
+- corporate-earning
+- investment
+- market-volatility
+- us-stock-market
+title: 美股震荡中探寻投资机会：日本加息、ISM数据与科技巨头动态分析
 ---
+
 ### 市场概览与本期焦点
 
 大家好，欢迎回到视野环球财经，我是Reno W.。现在是美东时间25年12月1号周一晚上的7点15分。今天的四大指数在12月的第一个交易日震荡收跌。标普500指数有363只成分股下跌，140只上涨。虽然下跌股票数量较多，但跌幅较大的股票不多，且整体成交量水平不算特别高。因此，今天的下跌并不关键。

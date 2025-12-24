@@ -1,65 +1,64 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 抗日杀奸团
+- 西南联大
+- 中央航校
+- 滇军第60军
+- 东北军政大学
+- 齐齐哈尔黑龙江省第一监狱
 date: '2025-08-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《急流者》
+- 《最后的愿望》
+- 《整本经》
+- 《心经》
+- 《西游记》
+- 《国家记忆》
+people:
+- 赖恩典
+- 柴静
+- 傅新德
+- 王亚六
+- 杨良平
+- 陈秀珍
+- 陈秉静
+- 方先觉
+- 卢庆一
+- 万爱花
+- 李华生
+- 李建平
+- 梁家佑
+- 戴安澜
+- 孙立人
+- 姚昆
+- 刘富川
+- 王文成
+- 关锋
+- 黄锡璠
+products_models: []
+project:
+- historical-insights
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Bxwx9D8NyeA
 speaker: 柴静 Chai Jing
-tags:
-  - oral-history
-  - wwii-veterans
-  - historical-memory
-  - cultural-revolution
-  - truth-and-reconciliation
-title: 抗战老兵的沉默与记忆：赖恩典15年口述历史的追寻
-summary: 本节目聚焦独立摄影师赖恩典耗时15年记录抗战老兵口述历史的历程。他揭示了老兵们在战争中的英勇与战后的悲惨命运，尤其是在文革期间遭受的政治迫害。节目探讨了历史记忆的扭曲、真相的脆弱性，以及个人在巨大历史洪流中坚持记录的意义与挑战。赖恩典的努力旨在还原历史本貌，让被遗忘的个体生命重获尊严，并呼吁社会正视历史，而非沉溺于廉价的民族主义情绪。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 赖恩典
-  - 柴静
-  - 傅新德
-  - 王亚六
-  - 杨良平
-  - 陈秀珍
-  - 陈秉静
-  - 方先觉
-  - 卢庆一
-  - 万爱花
-  - 李华生
-  - 李建平
-  - 梁家佑
-  - 戴安澜
-  - 孙立人
-  - 姚昆
-  - 刘富川
-  - 王文成
-  - 关锋
-  - 黄锡璠
-companies_orgs:
-  - 抗日杀奸团
-  - 西南联大
-  - 中央航校
-  - 滇军第60军
-  - 东北军政大学
-  - 齐齐哈尔黑龙江省第一监狱
-products_models: []
-media_books:
-  - 《急流者》
-  - 《最后的愿望》
-  - 《整本经》
-  - 《心经》
-  - 《西游记》
-  - 《国家记忆》
 status: evergreen
+summary: 本节目聚焦独立摄影师赖恩典耗时15年记录抗战老兵口述历史的历程。他揭示了老兵们在战争中的英勇与战后的悲惨命运，尤其是在文革期间遭受的政治迫害。节目探讨了历史记忆的扭曲、真相的脆弱性，以及个人在巨大历史洪流中坚持记录的意义与挑战。赖恩典的努力旨在还原历史本貌，让被遗忘的个体生命重获尊严，并呼吁社会正视历史，而非沉溺于廉价的民族主义情绪。
+tags:
+- cultural-revolution
+- historical-memory
+- history
+- philosophy
+title: 抗战老兵的沉默与记忆：赖恩典15年口述历史的追寻
 ---
+
 ### 引言：国家记忆与民间追寻
 
 在历史的长河中，许多抗战老兵曾为国族冒死，却最终被遗忘。他们曾是国家的脊梁，却在和平年代被冠以“三无犯人”或“国民党的残渣与孽”等罪名，甚至连一个字都不敢提及自己的过往。一个国家若没有勇气面对真相，不愿为保卫自己的士兵承担责任，那么这些老兵的命运，便如同那句“赵耀，你对中国人做了什么？”的质问，最终只能得到“我个人没有对他们做什么，他们甚至不喜欢我”的无奈回答。许多老兵的经历，就这样被长期尘封，甚至消失。

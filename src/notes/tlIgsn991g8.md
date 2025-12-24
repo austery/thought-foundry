@@ -1,67 +1,65 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- Tesla
+- Lumen
+- Fox Business
+- Poland's Ministry of Defense
+- UK Ministry of Defense
+- S&P 500
+- Microsoft
+- Google
+- Meta
+- Robinhood
+- Nvidia
+- Amazon
+- Compass Point
+- Anthropic
+- NextEra Energy
+- Bloomberg
+- Qualcomm
+- AMD
+- Human
+- Waymo
+- Apple
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Scott Bent
+- Adam Jonas
+- Elon Musk
+products_models:
+- CyberCab
+- Semi
+- Mega Pack 3
+- FSD
+- RoboTaxi
+- Optimus Bots
+- MI450
+- Blackwell
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=tlIgsn991g8
 speaker: Amit Kukreja
-tags:
-  - stock-market-outlook
-  - ai-inference
-  - trade-deal
-  - autonomous-driving
-  - market-speculation
-title: Palantir获大单、特斯拉获升级、中美贸易协议或将达成：市场回顾
-summary: 本期节目回顾了近期市场动态，重点讨论了数据分析公司Palantir获得波兰国防部和英国的巨额合同，以及其在西方防御体系中的战略地位。同时，分析了特斯拉在自动驾驶技术（FSD和RoboTaxi）方面的进展及其股价前景。宏观层面，节目探讨了美国财政部长耶伦与中方代表的会谈，预期的中美贸易协议对市场的影响，以及美联储降息和大型科技公司财报对牛市的推动作用。此外，还提及了Robinhood、Google和Qualcomm的最新动态和市场表现，强调了健康牛市中去除市场泡沫的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Amit Kukreja
-  - Scott Bent
-  - Adam Jonas
-  - Elon Musk
-companies_orgs:
-  - Palantir
-  - Tesla
-  - Lumen
-  - Fox Business
-  - Poland's Ministry of Defense
-  - UK Ministry of Defense
-  - S&P 500
-  - Microsoft
-  - Google
-  - Meta
-  - Robinhood
-  - Nvidia
-  - Amazon
-  - Compass Point
-  - Anthropic
-  - NextEra Energy
-  - Bloomberg
-  - Qualcomm
-  - AMD
-  - Human
-  - Waymo
-  - Apple
-products_models:
-  - CyberCab
-  - Semi
-  - Mega Pack 3
-  - FSD
-  - RoboTaxi
-  - Optimus Bots
-  - MI450
-  - Blackwell
-media_books: []
 status: evergreen
+summary: 本期节目回顾了近期市场动态，重点讨论了数据分析公司Palantir获得波兰国防部和英国的巨额合同，以及其在西方防御体系中的战略地位。同时，分析了特斯拉在自动驾驶技术（FSD和RoboTaxi）方面的进展及其股价前景。宏观层面，节目探讨了美国财政部长耶伦与中方代表的会谈，预期的中美贸易协议对市场的影响，以及美联储降息和大型科技公司财报对牛市的推动作用。此外，还提及了Robinhood、Google和Qualcomm的最新动态和市场表现，强调了健康牛市中去除市场泡沫的重要性。
+tags:
+- autonomous-driving
+- llm
+- market-speculation
+- stock-market-outlook
+- trade
+title: Palantir获大单、特斯拉获升级、中美贸易协议或将达成：市场回顾
 ---
+
 ### 开场与市场概览
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目。感谢大家的到来。今天是周一，全新一周的开始。

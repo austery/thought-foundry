@@ -1,50 +1,49 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Huawei
+- Ford
+- General Motors
+- Stellantis
+- APEC
+- G7
+- Five Eyes
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Carney
+- Xi Jinping
+- Pierre Trudeau
+- Mao Zedong
+- Meng Wanzhou
+- Michael Kovrig
+- Michael Spavor
+- Donald Trump
+- Justin Trudeau
+products_models:
+- Jeep Compass
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=OT1AnoXtjTU
 speaker: 大伟探秘加拿大
-tags:
-  - canada-china-relations
-  - geopolitical-strategy
-  - trade-war
-  - economic-pressure
-  - foreign-policy-shift
-title: 卡尼与习近平会晤：加中关系八年破冰背后的地缘政治与经济博弈
-summary: 在韩国APEC峰会上，加拿大总理马克·卡尼与中国国家主席习近平举行了八年来的首次会晤，双方称之为“转折点”。本文深入分析了此次会晤背后的地缘政治算计和经济压力，特别是美国特朗普政府的贸易保护主义对加拿大经济的冲击，以及加拿大寻求对冲风险、中国寻求削弱西方统一战线的战略考量。文章回顾了中加关系从友好到冰点的历史，并展望了未来两国在能源、矿产等领域的务实合作模式，以及加拿大在两大国夹缝中寻求独立外交路线的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Xi Jinping
-  - Pierre Trudeau
-  - Mao Zedong
-  - Meng Wanzhou
-  - Michael Kovrig
-  - Michael Spavor
-  - Donald Trump
-  - Justin Trudeau
-companies_orgs:
-  - Huawei
-  - Ford
-  - General Motors
-  - Stellantis
-  - APEC
-  - G7
-  - Five Eyes
-products_models:
-  - Jeep Compass
-media_books: []
 status: evergreen
+summary: 在韩国APEC峰会上，加拿大总理马克·卡尼与中国国家主席习近平举行了八年来的首次会晤，双方称之为“转折点”。本文深入分析了此次会晤背后的地缘政治算计和经济压力，特别是美国特朗普政府的贸易保护主义对加拿大经济的冲击，以及加拿大寻求对冲风险、中国寻求削弱西方统一战线的战略考量。文章回顾了中加关系从友好到冰点的历史，并展望了未来两国在能源、矿产等领域的务实合作模式，以及加拿大在两大国夹缝中寻求独立外交路线的挑战。
+tags:
+- canada-china-relations
+- economic
+- foreign-policy-shift
+- geopolitical-strategy
+- trade-war
+title: 卡尼与习近平会晤：加中关系八年破冰背后的地缘政治与经济博弈
 ---
+
 ### 加中关系八年破冰：一次备受瞩目的“转折点”会晤
 
 就在刚刚韩国举行的**APEC**（亚太经合组织: Asia-Pacific Economic Cooperation, 促进亚太地区经济合作的国际组织）峰会上，加拿大的总理马克·卡尼与中国的国家主席习近平进行了一次备受瞩目的会面。这是八年来中加首脑间的首次会晤，双方都不约而同地将其称之为一个转折点。转折点这个词分量很重，它意味着过去的某一页就被翻过去了，新的篇章即将开始。但问题是，这个转折是转向友谊与合作的康庄大道，还是仅仅在悬崖边上的一次紧急刹车？那么这次会晤的背后，到底是隐藏着怎样的地缘政治算计和经济压力？要理解这一切，我们就不能只看这一次握手、一张照片，我们需要把镜头拉远，回顾历史看清现在，并尝试展望未来。今天我们就来深入地解析这次关键的会晤，看看它到底意味着什么，以及它将如何塑造加拿大乃至世界格局的未来。

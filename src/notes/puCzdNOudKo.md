@@ -1,53 +1,52 @@
 ---
-author: 记者易速利
+area: society-systems
+category: general
+companies_orgs:
+- FBI
+- 洛杉矶县政府儿童福利机构
+- 马克代孕投资有限责任公司
+- 育道管理
+- 埃尔蒙地市政府
+- 星道移民服务公司
+- 新疆创达冷冻有限公司
+- 美国新疆总商会
+- 捐卵与代孕伦理协会
 date: '2025-10-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《洛杉矶时报》
+people:
+- 宣国军
+- 谢尔维亚·张
+- 李春梅
+- 马浩仁
+- 麦格弗兰
+- 凯拉·埃里奥特
+- 秦刚
+- 郑爽
+- 约翰·肯尼迪
+- 罗伯特·肯尼迪
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=puCzdNOudKo
 speaker: 记者易速利
-tags:
-  - surrogacy-scandal
-  - illegal-gambling
-  - drug-trafficking
-  - real-estate-crime
-  - child-welfare
-title: 南加州地产大亨宣国军夫妇代孕20余子引全美关注：豪宅藏匿非法活动，地产帝国涉多重罪行
-summary: 南加州地产大亨宣国军与谢尔维亚·张夫妇通过代孕获得20余名子女，引发全美关注。警方在其阿卡迪亚豪宅发现虐待儿童证据，并揭露其地产帝国涉及非法聚赌、大麻种植及贩运迷幻蘑菇等犯罪活动。尽管夫妇俩曾被捕后释放，面临民事诉讼，但刑事指控尚未成立。此案也暴露了美国代孕行业的监管漏洞及中国资金的渗透，以及租户马浩仁的复杂犯罪背景。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - 宣国军
-  - 谢尔维亚·张
-  - 李春梅
-  - 马浩仁
-  - 麦格弗兰
-  - 凯拉·埃里奥特
-  - 秦刚
-  - 郑爽
-  - 约翰·肯尼迪
-  - 罗伯特·肯尼迪
-companies_orgs:
-  - FBI
-  - 洛杉矶县政府儿童福利机构
-  - 马克代孕投资有限责任公司
-  - 育道管理
-  - 埃尔蒙地市政府
-  - 星道移民服务公司
-  - 新疆创达冷冻有限公司
-  - 美国新疆总商会
-  - 捐卵与代孕伦理协会
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 《洛杉矶时报》
 status: evergreen
+summary: 南加州地产大亨宣国军与谢尔维亚·张夫妇通过代孕获得20余名子女，引发全美关注。警方在其阿卡迪亚豪宅发现虐待儿童证据，并揭露其地产帝国涉及非法聚赌、大麻种植及贩运迷幻蘑菇等犯罪活动。尽管夫妇俩曾被捕后释放，面临民事诉讼，但刑事指控尚未成立。此案也暴露了美国代孕行业的监管漏洞及中国资金的渗透，以及租户马浩仁的复杂犯罪背景。
+tags:
+- child
+- health
+- illegal-gambling
+- real
+- surrogacy-scandal
+title: 南加州地产大亨宣国军夫妇代孕20余子引全美关注：豪宅藏匿非法活动，地产帝国涉多重罪行
 ---
 
 ### 南加州豪宅惊现多名幼童：代孕风波初现端倪

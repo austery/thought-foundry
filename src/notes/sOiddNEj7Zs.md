@@ -1,48 +1,48 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- TVO Today
+- British Medical Journal
+- The Lancet
+- Ontario government
+- Canadian Psychiatric Association
+- Women's Health in Women's Hands
+- Global Mail
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mistreated (podcast)
+- Insecure (TV show)
+people:
+- Farrah Khan
+- Nam Kiwanuka
+- Dr. Noticia Mascoy
+- Audrey Lorde
+- Sheila Cola
+- Issa Rae
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=sOiddNEj7Zs
 speaker: TVO Today
-tags:
-  - healthcare-system
-  - medical-mistreatment
-  - cancer-diagnosis
-  - trauma-and-healing
-  - systemic-bias
-title: “我想活得像个真正活着的人”：一位女性在医疗系统中的抗争与重生
-summary: 本期节目采访了法拉·汗（Farrah Khan），一位在年轻时先后被诊断出宫颈癌和乳腺癌的女性。她分享了自己在加拿大医疗系统中令人心碎的经历，揭示了作为一名酷儿、有色人种女性所面临的系统性偏见、医疗不当行为和非人化对待。通过她的故事，我们不仅看到了个人在巨大创伤下的挣扎与韧性，也深刻反思了医疗系统在同理心、创伤知情护理以及对边缘化群体关怀方面的严重缺失。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Farrah Khan
-  - Nam Kiwanuka
-  - Dr. Noticia Mascoy
-  - Audrey Lorde
-  - Sheila Cola
-  - Issa Rae
-companies_orgs:
-  - TVO Today
-  - British Medical Journal
-  - The Lancet
-  - Ontario government
-  - Canadian Psychiatric Association
-  - Women's Health in Women's Hands
-  - Global Mail
-products_models: []
-media_books:
-  - Mistreated (podcast)
-  - Insecure (TV show)
 status: evergreen
+summary: 本期节目采访了法拉·汗（Farrah Khan），一位在年轻时先后被诊断出宫颈癌和乳腺癌的女性。她分享了自己在加拿大医疗系统中令人心碎的经历，揭示了作为一名酷儿、有色人种女性所面临的系统性偏见、医疗不当行为和非人化对待。通过她的故事，我们不仅看到了个人在巨大创伤下的挣扎与韧性，也深刻反思了医疗系统在同理心、创伤知情护理以及对边缘化群体关怀方面的严重缺失。
+tags:
+- bias
+- health
+- healthcare-system
+- medical
+- psychology
+title: “我想活得像个真正活着的人”：一位女性在医疗系统中的抗争与重生
 ---
+
 ### 内容提示
 
 在我们进入本期节目之前，请注意，我们今天的对话包含了关于癌症诊断与治疗、医疗不当行为、歧视性语言使用以及儿童性虐待的讨论。请谨慎收听。如果您感觉需要支持，我们在节目说明中列出了一些资源。

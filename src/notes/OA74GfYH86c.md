@@ -1,43 +1,43 @@
 ---
-author: 海伦子Hellen
+area: market-analysis
+category: business
+companies_orgs:
+- Tesla
+- Waymo
 date: '2025-06-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 泰斯la 99 T
+- moneyx YZ
+people:
+- Elon Musk
+- 老于
+products_models:
+- Robotaxi
+- Model 3
+- Model Y
+- FSD
+project:
+- us-analysis
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=OA74GfYH86c
 speaker: 海伦子Hellen
-tags:
-  - robotaxi-launch
-  - autonomous-driving
-  - user-experience
-  - market-strategy
-  - privacy-concerns
-title: 特斯拉Robotaxi首次载人测试：细节、体验与未来展望
-summary: 特斯拉Robotaxi于6月22日在美国奥斯汀启动小规模试运营，首批乘客体验良好。本文详细介绍了其运营模式、固定收费、App功能（如车内温度调节、流媒体同步）、以及特斯拉在推广上的谨慎策略。同时，探讨了Robotaxi的隐私性、成本优势及其对未来出行方式的深远影响，强调了视觉系统与神经网络在降低成本、扩大规模方面的潜力。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Elon Musk
-  - 老于
-companies_orgs:
-  - Tesla
-  - Waymo
-products_models:
-  - Robotaxi
-  - Model 3
-  - Model Y
-  - FSD
-media_books:
-  - 泰斯la 99 T
-  - moneyx YZ
 status: evergreen
+summary: 特斯拉Robotaxi于6月22日在美国奥斯汀启动小规模试运营，首批乘客体验良好。本文详细介绍了其运营模式、固定收费、App功能（如车内温度调节、流媒体同步）、以及特斯拉在推广上的谨慎策略。同时，探讨了Robotaxi的隐私性、成本优势及其对未来出行方式的深远影响，强调了视觉系统与神经网络在降低成本、扩大规模方面的潜力。
+tags:
+- autonomous-driving
+- canada
+- financial
+- market-strategy
+- user-experience
+title: 特斯拉Robotaxi首次载人测试：细节、体验与未来展望
 ---
+
 ### 特斯拉Robotaxi首次载人测试启动
 
 特斯拉的**Robotaxi**（自动驾驶出租车: 一种无需人类驾驶员即可运行的共享出行服务）终于来了。此前我们曾探讨过特斯拉Robotaxi的竞争壁垒及车主加入Robotaxi车队的愿景。今天，我们将深入了解已公布的细节以及首批乘客的体验。

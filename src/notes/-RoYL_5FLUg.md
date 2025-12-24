@@ -1,48 +1,46 @@
 ---
-author: 海伦子Hellen
+area: society-systems
+category: business
+companies_orgs:
+- Boeing
+- NASA
+- SpaceX
+- ULA
+- Lockheed Martin
+- Airbus
+- Alaska Airlines
+- Latam Airlines
 date: '2024-08-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Starliner
+- Dragon
+- 737 MAX
+- '777'
+- 787 Dreamliner
+- Space Launch System
+- Atlas V
+project:
+- us-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=-RoYL_5FLUg
 speaker: 海伦子Hellen
-tags:
-  - boeing-failures
-  - aerospace-safety
-  - corporate-culture
-  - space-exploration
-  - commercial-crew-program
-title: 波音灾难永无止尽：从载人飞船困境到民航安全隐患的深层剖析
-summary: 波音公司近期再次陷入危机，其载人飞船Starliner在国际空间站遭遇推进器故障和氦气泄漏，导致宇航员滞留。这并非孤立事件，从737 MAX的多次空难到近期民航客机的一系列事故，波音屡次被曝出制造缺陷和管理问题。文章深入探讨了波音在航天和民航领域的持续性安全隐患，揭示了其“利润优先于人命”的企业文化，并分析了其在大而不倒背景下的市场垄断与监管困境。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - geopolitics-watch
-people: []
-companies_orgs:
-  - Boeing
-  - NASA
-  - SpaceX
-  - ULA
-  - Lockheed Martin
-  - Airbus
-  - Alaska Airlines
-  - Latam Airlines
-products_models:
-  - Starliner
-  - Dragon
-  - 737 MAX
-  - '777'
-  - 787 Dreamliner
-  - Space Launch System
-  - Atlas V
-media_books: []
 status: evergreen
+summary: 波音公司近期再次陷入危机，其载人飞船Starliner在国际空间站遭遇推进器故障和氦气泄漏，导致宇航员滞留。这并非孤立事件，从737 MAX的多次空难到近期民航客机的一系列事故，波音屡次被曝出制造缺陷和管理问题。文章深入探讨了波音在航天和民航领域的持续性安全隐患，揭示了其“利润优先于人命”的企业文化，并分析了其在大而不倒背景下的市场垄断与监管困境。
+tags:
+- canada
+- corporate-culture
+- failure
+- safety
+- space-exploration
+title: 波音灾难永无止尽：从载人飞船困境到民航安全隐患的深层剖析
 ---
+
 ### 波音载人飞船Starliner的困境与宇航员滞留
 
 对于**波音公司**（Boeing: 美国航空航天巨头）来说，坏消息可以说是永无止境。波音公司的载人飞船**Starliner**（波音CST-100 Starliner: 一款由波音公司开发的载人航天器）在两名宇航员于6月5号登上**国际空间站**（International Space Station, ISS: 一个在近地轨道运行的科研设施）后，原本是一个只有10天的任务。然而，由于飞船在做对接的时候，28个反应控制推进器中的5个无法正常点火，导致这两名宇航员直到今天还困在国际空间站上下不来。

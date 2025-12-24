@@ -1,46 +1,46 @@
 ---
-author: Patrick Boyle
+area: market-analysis
+category: finance
+companies_orgs:
+- Redfin
+- Home Depot
+- Walmart
+- American Express
+- Morgan Stanley
+- McKinsey
+- The National Rental Home Council
+- Federal Reserve
+- Fitch
 date: '2025-08-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- Financial Times
+people:
+- John Burn-Murdoch
+products_models:
+- DeleteMe
+project:
+- us-analysis
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=T8J-IjF8IsM
 speaker: Patrick Boyle
-tags:
-  - mortgage-rates
-  - housing-market
-  - wealth-divide
-  - consumer-spending
-  - affordability
-title: 美国住房市场两极分化：抵押贷款利率如何加剧财富鸿沟？
-summary: 近年来，美国购房成本急剧上升，尤其是抵押贷款利率飙升，导致住房市场出现显著分化。本文深入探讨了低利率时期购房者与当前高利率购房者之间的财富鸿沟，分析了消费者支出持续强劲的矛盾现象、住房供应短缺、机构投资者角色以及代际财富差距的扩大。文章还探讨了抵押贷款作为金融工具的特性，并对比了全球不同抵押贷款体系，最终指出当前政策预期与市场现实之间的挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - investment-strategy
-people:
-  - John Burn-Murdoch
-companies_orgs:
-  - Redfin
-  - Home Depot
-  - Walmart
-  - American Express
-  - Morgan Stanley
-  - McKinsey
-  - The National Rental Home Council
-  - Federal Reserve
-  - Fitch
-products_models:
-  - DeleteMe
-media_books:
-  - The Economist
-  - Financial Times
 status: evergreen
+summary: 近年来，美国购房成本急剧上升，尤其是抵押贷款利率飙升，导致住房市场出现显著分化。本文深入探讨了低利率时期购房者与当前高利率购房者之间的财富鸿沟，分析了消费者支出持续强劲的矛盾现象、住房供应短缺、机构投资者角色以及代际财富差距的扩大。文章还探讨了抵押贷款作为金融工具的特性，并对比了全球不同抵押贷款体系，最终指出当前政策预期与市场现实之间的挑战。
+tags:
+- affordability
+- consumer-spending
+- housing-market
+- rate
+- wealth
+title: 美国住房市场两极分化：抵押贷款利率如何加剧财富鸿沟？
 ---
+
 ### 美国住房市场的抵押贷款分化
 
 近年来，在美国购买房屋的成本急剧上升。

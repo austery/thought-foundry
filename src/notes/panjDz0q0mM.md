@@ -1,69 +1,68 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: business
+companies_orgs:
+- Amazon
+- IBM
+- Netflix
+- SoftBank
+- MD Anderson Cancer Center
+- Oracle
+- Microsoft
+- Zoom Pizza
+- Quibi
+- NBC
+- Sony
+- Warner Brothers
+- Lionsgate
+- MGM
+- Alibaba
+- Goldman Sachs
+- JP Morgan
+- Roku
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Gone with the Wind
+- A Different World
+- Arcane
+- YouTube
+products_models:
+- Just Walk Out
+- Amazon Go
+- Amazon Fresh
+- Watson Health
+- Radiant
+- Zoom
+- Teams
+- Google Meet
+- Notion
+- Cursor
+- Lovable
+- Asana
+- ClickUp
+- Roku Originals
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=panjDz0q0mM
 speaker: TechButMakeItReal
-tags:
-  - ai-business-failure
-  - unit-economics
-  - product-market-fit
-  - automation-challenges
-  - business-strategy
-title: AI商业转型失败的五大案例及其深刻教训
-summary: 本文深入探讨了历史上五大失败的AI商业转型案例，包括亚马逊的Just Walk Out、IBM的Watson Health、Netflix的AI内容升级、Zoom Pizza以及短视频平台Quibi。通过分析这些案例，文章揭示了在AI应用中常见的挑战，如高昂的运营成本、单位经济效益的缺陷、技术与市场现实的脱节、以及对基本物理原理和用户需求的忽视。文章强调了在投资AI技术时，不能高估模型而低估产品质量，并呼吁在扩展前进行充分测试，确保产品与市场契合。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people: []
-companies_orgs:
-  - Amazon
-  - IBM
-  - Netflix
-  - SoftBank
-  - MD Anderson Cancer Center
-  - Oracle
-  - Microsoft
-  - Zoom Pizza
-  - Quibi
-  - NBC
-  - Sony
-  - Warner Brothers
-  - Lionsgate
-  - MGM
-  - Alibaba
-  - Goldman Sachs
-  - JP Morgan
-  - Roku
-products_models:
-  - Just Walk Out
-  - Amazon Go
-  - Amazon Fresh
-  - Watson Health
-  - Radiant
-  - Zoom
-  - Teams
-  - Google Meet
-  - Notion
-  - Cursor
-  - Lovable
-  - Asana
-  - ClickUp
-  - Roku Originals
-media_books:
-  - Gone with the Wind
-  - A Different World
-  - Arcane
-  - YouTube
 status: evergreen
+summary: 本文深入探讨了历史上五大失败的AI商业转型案例，包括亚马逊的Just Walk Out、IBM的Watson Health、Netflix的AI内容升级、Zoom
+  Pizza以及短视频平台Quibi。通过分析这些案例，文章揭示了在AI应用中常见的挑战，如高昂的运营成本、单位经济效益的缺陷、技术与市场现实的脱节、以及对基本物理原理和用户需求的忽视。文章强调了在投资AI技术时，不能高估模型而低估产品质量，并呼吁在扩展前进行充分测试，确保产品与市场契合。
+tags:
+- automation-challenge
+- business
+- business-strategy
+- product-market-fit
+title: AI商业转型失败的五大案例及其深刻教训
 ---
+
 ### 引言：AI转型中的现实挑战
 
 一位顾客抓了五个番茄就走了。当摄像头识别错误时，谁知道他们付了多少钱？一辆行驶中的卡车里正在烤披萨。谁能阻止奶酪滑落？一部重制版的《乱世佳人》上线流媒体。当人物面部看起来不对劲时，谁来批准它上线？自动化只有在背后有大量人工支持时才能良好运作。今天的故事是关于五次失败的**AI转型**（AI Pivots: 指企业将核心业务或产品策略转向人工智能驱动的尝试），这些产品押注遭遇了物理定律、市场现实和利润率的严峻挑战。我们将研究五个**单位经济效益**（Unit Economics: 指每单位产品或服务所产生的收入和成本）崩溃导致产品失败的重大案例，并从中吸取教训。让我们深入探讨。

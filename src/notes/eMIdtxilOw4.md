@@ -1,54 +1,54 @@
 ---
-author: TechButMakeItReal
+area: tech-insights
+category: technology
+companies_orgs:
+- Nvidia
+- Anthropic
+- McDonald's
+- Walmart
+- Mercedes-Benz
+- Google
+- Promeo
+- Harvey
+- Shopify
+- Slack
+- Zoom
+- Microsoft
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jensen Huang
+- Dwaresh Patel
+- Andrej Karpathy
+products_models:
+- MBUX
+- Google Cloud
+- Gemini
+- Notion Agent
+- Perplexity Agent
+- GPT-4
+- GPT-5
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=eMIdtxilOw4
 speaker: TechButMakeItReal
-tags:
-  - ai-agents
-  - business-models
-  - enterprise-adoption
-  - invisible-costs
-  - agent-ops
-title: AI智能体：炒作、经济学与企业落地的真实图景
-summary: 2025年被誉为“AI智能体之年”，但现实与预期存在巨大差距。本文深入探讨了AI智能体的商业模式、隐性成本以及企业落地中的挑战。虽然90%的智能体部署在30天内失败，但成功的案例表明，智能体并非廉价劳动力替代品，而是与劳动力预算竞争的新型软件。文章还揭示了Agent Ops和智能体管理基础设施等新兴市场机遇，强调了理解其真实价值和部署复杂性的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Jensen Huang
-  - Dwaresh Patel
-  - Andrej Karpathy
-companies_orgs:
-  - Nvidia
-  - Anthropic
-  - McDonald's
-  - Walmart
-  - Mercedes-Benz
-  - Google
-  - Promeo
-  - Harvey
-  - Shopify
-  - Slack
-  - Zoom
-  - Microsoft
-products_models:
-  - MBUX
-  - Google Cloud
-  - Gemini
-  - Notion Agent
-  - Perplexity Agent
-  - GPT-4
-  - GPT-5
-media_books: []
 status: evergreen
+summary: 2025年被誉为“AI智能体之年”，但现实与预期存在巨大差距。本文深入探讨了AI智能体的商业模式、隐性成本以及企业落地中的挑战。虽然90%的智能体部署在30天内失败，但成功的案例表明，智能体并非廉价劳动力替代品，而是与劳动力预算竞争的新型软件。文章还揭示了Agent
+  Ops和智能体管理基础设施等新兴市场机遇，强调了理解其真实价值和部署复杂性的重要性。
+tags:
+- agent
+- ai-agent
+- business-model
+- cost
+- investment
+title: AI智能体：炒作、经济学与企业落地的真实图景
 ---
+
 ### 2025：AI智能体之年——炒作与现实的落差
 
 英伟达（Nvidia）首席执行官**黄仁勋**（Jensen Huang）将2025年称为“**AI智能体**（AI Agents: 能够自主感知环境、做出决策并执行任务的人工智能系统）之年”。

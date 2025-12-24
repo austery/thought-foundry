@@ -1,46 +1,46 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: culture
+companies_orgs:
+- Tim Hortons
+- 日本农林水产省
+- 日本观光厅
+- 松屋
+- 吉野家
+- SUKIYA
+- '711'
+- 全家
+- 罗森
+- Costco
+- Lululemon
+- 大丸百货
 date: '2025-09-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《东京女子图鉴》
+people:
+- 女主角绫
+products_models: []
+project:
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=3IpCIKyu4Dc
 speaker: 大伟探秘加拿大
-tags:
-  - immigration-experience
-  - cultural-integration
-  - societal-comparison
-  - quality-of-life
-  - personal-values
-title: 十年加拿大移民再看日本：我后悔了吗？
-summary: 一位在加拿大生活近十年的中国移民，深度游历日本后，对两国移民体验进行了主观对比。文章赞美日本作为游客目的地的极致便利与秩序，但也深入探讨了其社会在精神空间、规则束缚和文化同质性方面对移民融入的挑战。作者最终认为，加拿大虽不完美，但其包容多元、无需“归化”的社会环境，更适合作为第一代移民安身立命、为下一代提供健康成长的家园，这关乎个人价值观与人生优先权的探索。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - 女主角绫
-companies_orgs:
-  - Tim Hortons
-  - 日本农林水产省
-  - 日本观光厅
-  - 松屋
-  - 吉野家
-  - SUKIYA
-  - '711'
-  - 全家
-  - 罗森
-  - Costco
-  - Lululemon
-  - 大丸百货
-products_models: []
-media_books:
-  - 《东京女子图鉴》
 status: evergreen
+summary: 一位在加拿大生活近十年的中国移民，深度游历日本后，对两国移民体验进行了主观对比。文章赞美日本作为游客目的地的极致便利与秩序，但也深入探讨了其社会在精神空间、规则束缚和文化同质性方面对移民融入的挑战。作者最终认为，加拿大虽不完美，但其包容多元、无需“归化”的社会环境，更适合作为第一代移民安身立命、为下一代提供健康成长的家园，这关乎个人价值观与人生优先权的探索。
+tags:
+- cultural
+- experience
+- life
+- societal
+- value
+title: 十年加拿大移民再看日本：我后悔了吗？
 ---
+
 ### 引言：十年移民路，日本之行引发的思考
 
 作为一个在加拿大已经生活了近10年的中国移民，我必须要承认，我的生活在某种程度上已经进入了一种模式化的安逸。每天一杯**Tim Hortons**（加拿大著名的咖啡连锁店）咖啡开启新的一天，也习惯了邻居们之间互相“How are you doing”的问候，更习惯了在长周末开车去国家公园，去寻找那种所谓**好山好水好无聊**（加拿大自然风光优美但生活节奏相对平淡的俗语）的宁静。这十年，我从一个对未来充满迷茫的新移民，一步步走过来，有了稳定的工作和生活，似乎也已经找到了最适合我自己的第二故乡。

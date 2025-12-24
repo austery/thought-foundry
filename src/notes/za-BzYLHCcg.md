@@ -1,34 +1,33 @@
 ---
-title: 关税、通胀与极度贪婪的市场：当前投资策略深度解析
-summary: 本文深入探讨了关税政策对美国经济（GDP、通胀）的潜在影响，分析了美联储主席鲍威尔的政策立场，并详细解读了当前市场情绪，特别是CNN恐慌贪婪指数的各项指标，最后提出了在当前“阿尔法市场”下的投资策略。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- inflation
-- market-analysis
-- monetary-policy
-- tariffs
-- us-economy
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-07-09'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+people: []
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=za-BzYLHCcg
+speaker: 投资TALK君
 status: evergreen
+summary: 本文深入探讨了关税政策对美国经济（GDP、通胀）的潜在影响，分析了美联储主席鲍威尔的政策立场，并详细解读了当前市场情绪，特别是CNN恐慌贪婪指数的各项指标，最后提出了在当前“阿尔法市场”下的投资策略。
+tags:
+- inflation
+- market-analysis
+- tariff
+- us-economy
+title: 关税、通胀与极度贪婪的市场：当前投资策略深度解析
 ---
+
 ### 开场与内容概述
 
 大家好，我是市场分析员小涛。今天我们将深入探讨一系列重要议题，包括美国前总统特朗普对美联储主席鲍威尔的持续言论、关税政策的量化影响分析，特别是彭博团队对此进行的详细研究，以及市场情绪面，尤其是CNN恐慌贪婪指数所揭示的“极度乐观”状态下我们应如何应对。

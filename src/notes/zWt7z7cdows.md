@@ -1,72 +1,72 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- European Economic and Trade Office in Taiwan
+- Guangfu High School
+- Green Recall
+- KMT
+- Nazi Party
+- Fascist Fighting Leagues
+- Fascist Party
+- Black Hundreds
+- Sturmabteilung
+- Iron Guard
+- Harvard University
+- Yale University
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Rembrandt as Educator
+people:
+- Chu Li-lun
+- Song Jianliang
+- Maurice Barrès
+- Mazzini
+- Julius Langbehn
+- Rembrandt
+- Goethe
+- Le Bon
+- Mussolini
+- Hitler
+- Adorno
+- Giovanni Gentile
+- Hans von Seeckt
+- Chiang Kai-shek
+- Chiang Wei-kuo
+- Hu Gui
+- William Kirby
+- Karl Marx
+- Pierre Drieu La Rochelle
+- Gertrud Scholtz-Klink
+- Ernst Rohm
+- Donald Trump
+- Elon Musk
+- Jason Stanley
+- Marci Shore
+- Timothy Snyder
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zWt7z7cdows
 speaker: 超級歪 SuperY
-tags:
-  - fascism
-  - totalitarianism
-  - nationalism
-  - racism
-  - crisis-narrative
-title: 如何辨识法西斯主义：历史、特征与当代警示
-summary: 本文深入探讨了法西斯主义的复杂本质，详细阐述了其历史起源和核心特征，包括极权主义、魅力型领导、排他性民族主义、危机叙事以及反动立场。通过墨索里尼的意大利、纳粹德国以及国民党在中国大陆和台湾的统治等历史案例，文章揭示了法西斯意识形态如何显现。讨论进一步延伸至如何从阶级、种族和性别角度识别当代的法西斯倾向，并以对美国近期政治发展的批判性审视和学者们对21世纪法西斯主义可能卷土重来的警告作结。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - us-analysis
-people:
-  - Chu Li-lun
-  - Song Jianliang
-  - Maurice Barrès
-  - Mazzini
-  - Julius Langbehn
-  - Rembrandt
-  - Goethe
-  - Le Bon
-  - Mussolini
-  - Hitler
-  - Adorno
-  - Giovanni Gentile
-  - Hans von Seeckt
-  - Chiang Kai-shek
-  - Chiang Wei-kuo
-  - Hu Gui
-  - William Kirby
-  - Karl Marx
-  - Pierre Drieu La Rochelle
-  - Gertrud Scholtz-Klink
-  - Ernst Rohm
-  - Donald Trump
-  - Elon Musk
-  - Jason Stanley
-  - Marci Shore
-  - Timothy Snyder
-companies_orgs:
-  - European Economic and Trade Office in Taiwan
-  - Guangfu High School
-  - Green Recall
-  - KMT
-  - Nazi Party
-  - Fascist Fighting Leagues
-  - Fascist Party
-  - Black Hundreds
-  - Sturmabteilung
-  - Iron Guard
-  - Harvard University
-  - Yale University
-products_models: []
-media_books:
-  - Rembrandt as Educator
 status: evergreen
+summary: 本文深入探讨了法西斯主义的复杂本质，详细阐述了其历史起源和核心特征，包括极权主义、魅力型领导、排他性民族主义、危机叙事以及反动立场。通过墨索里尼的意大利、纳粹德国以及国民党在中国大陆和台湾的统治等历史案例，文章揭示了法西斯意识形态如何显现。讨论进一步延伸至如何从阶级、种族和性别角度识别当代的法西斯倾向，并以对美国近期政治发展的批判性审视和学者们对21世纪法西斯主义可能卷土重来的警告作结。
+tags:
+- crisis
+- fascism
+- nationalism
+- society
+- totalitarianism
+title: 如何辨识法西斯主义：历史、特征与当代警示
 ---
+
 ### 法西斯主义的定义与特征
 
 台湾政治中经常出现给政治对手贴标签的现象，例如称他们为纳粹或**法西斯**（Fascism: 一种极权主义的民族主义政治意识形态）。

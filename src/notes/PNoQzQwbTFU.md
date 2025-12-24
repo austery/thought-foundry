@@ -1,36 +1,34 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- TED
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Claudia Passos Ferreira
+- Ghislaine Dehaene
+- Lorina Naci
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=PNoQzQwbTFU
 speaker: TED
-tags:
-  - newborn-consciousness
-  - infant-brain-development
-  - neural-signals
-  - attentional-blink
-  - medical-ethics
-title: 新生儿的意识之谜：科学如何揭示婴儿内心世界
-summary: 本文探讨了新生儿意识的科学研究进展，挑战了传统上认为婴儿是被动观察者的观点。通过测量大脑活动，神经科学家发现新生儿和晚期胎儿表现出意识感知的神经信号，包括对意外刺激的反应和注意力网络的切换。这些发现对新生儿手术麻醉和堕胎伦理等领域具有重要的医学和伦理启示，揭示了婴儿从出生甚至更早阶段就已积极感知世界。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Claudia Passos Ferreira
-  - Ghislaine Dehaene
-  - Lorina Naci
-companies_orgs:
-  - TED
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了新生儿意识的科学研究进展，挑战了传统上认为婴儿是被动观察者的观点。通过测量大脑活动，神经科学家发现新生儿和晚期胎儿表现出意识感知的神经信号，包括对意外刺激的反应和注意力网络的切换。这些发现对新生儿手术麻醉和堕胎伦理等领域具有重要的医学和伦理启示，揭示了婴儿从出生甚至更早阶段就已积极感知世界。
+tags:
+- development
+- ethics
+- llm
+- newborn-consciousness
+title: 新生儿的意识之谜：科学如何揭示婴儿内心世界
 ---
+
 ### 踏入新世界：新生儿的感知体验
 
 你在一片全新的世界中醒来。

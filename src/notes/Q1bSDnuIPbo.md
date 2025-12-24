@@ -1,37 +1,35 @@
 ---
-author: Veritasium
-date: '2022-05-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Q1bSDnuIPbo
-speaker: Veritasium
-tags:
-  - veritasium
-  - black-hole-imaging
-  - radio-interferometry
-  - astronomical-observation
-  - space-time-physics
-  - data-processing
-title: 揭秘：黑洞图像是如何拍摄的？甚长基线干涉测量技术详解
-summary: 本视频深入探讨了超大质量黑洞人马座A*的首张图像是如何通过事件视界望远镜协作组织拍摄的。文章详细解释了观测黑洞所面临的挑战，包括星系中心的尘埃、黑洞的尺寸与活跃度，并重点介绍了甚长基线干涉测量（VLBI）技术如何利用全球望远镜网络实现地球大小的角分辨率。此外，视频还阐释了黑洞图像中“阴影”的物理意义，以及广义相对论如何影响光线路径和吸积盘的观测效果。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Luciano Rezzolla
+category: technology
 companies_orgs:
-  - Event Horizon Telescope collaboration
-  - European Southern Observatory
-  - Goethe University Frankfurt
-  - KiwiCo
+- Event Horizon Telescope collaboration
+- European Southern Observatory
+- Goethe University Frankfurt
+- KiwiCo
+date: '2022-05-12'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Luciano Rezzolla
 products_models: []
-media_books: []
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=Q1bSDnuIPbo
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了超大质量黑洞人马座A*的首张图像是如何通过事件视界望远镜协作组织拍摄的。文章详细解释了观测黑洞所面临的挑战，包括星系中心的尘埃、黑洞的尺寸与活跃度，并重点介绍了甚长基线干涉测量（VLBI）技术如何利用全球望远镜网络实现地球大小的角分辨率。此外，视频还阐释了黑洞图像中“阴影”的物理意义，以及广义相对论如何影响光线路径和吸积盘的观测效果。
+tags:
+- astronomical-observation
+- data
+- history
+- llm
+- space
+title: 揭秘：黑洞图像是如何拍摄的？甚长基线干涉测量技术详解
 ---
+
 ### 银河系中心黑洞的首张图像
 
 这是一个位于我们银河系中心、被称为**人马座A***（Sagittarius A*: 银河系中心的超大质量黑洞）的超大质量黑洞的图像。

@@ -1,64 +1,64 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Oaktree Capital
+- Norges Bank Investment Management
+- Wharton
+- London Business School
+- Citibank
+- Lehman Brothers
+- Federal Reserve
 date: '2024-06-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- Decision Making Under Uncertainty in Oil and Gas
+- Mastering the Market Cycle
+- The Pendulum
+- Security Analysis
+- Thinking in Bets
+- You Bet
+- Fooled by Randomness
+- The Illusion of Knowledge
+- Dare to Be Great II
+people:
+- Howard Marks
+- Charlie Munger
+- Warren Buffett
+- Stan Druckenmiller
+- Seth Klarman
+- Richard Feynman
+- Elroy Dimson
+- Mark Twain
+- Annie Duke
+- Nassim Nicholas Taleb
+- Daniel Boorstin
+- Benjamin Graham
+- David Dodd
+- Bruce Karsh
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=vZJHQrGS7PE
 speaker: Norges Bank Investment Management
-tags:
-  - investment-philosophy
-  - risk-management
-  - market-cycles
-  - contrarian-investing
-  - decision-making
-title: 橡树资本霍华德·马克斯：投资哲学、风险控制与逆向思维
-summary: 在本次访谈中，橡树资本联合创始人霍华德·马克斯深入阐述了他的投资哲学，强调风险控制、市场效率、专业化及对宏观预测和市场时机的摒弃。他详细探讨了知识的局限性、随机性在投资中的作用，以及如何通过理解市场周期和逆向思维来做出明智决策。马克斯还分享了他对风险管理的看法，以及如何从扑克等游戏中汲取投资智慧，并对年轻投资者提出了宝贵建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - systems-thinking
-people:
-  - Howard Marks
-  - Charlie Munger
-  - Warren Buffett
-  - Stan Druckenmiller
-  - Seth Klarman
-  - Richard Feynman
-  - Elroy Dimson
-  - Mark Twain
-  - Annie Duke
-  - Nassim Nicholas Taleb
-  - Daniel Boorstin
-  - Benjamin Graham
-  - David Dodd
-  - Bruce Karsh
-companies_orgs:
-  - Oaktree Capital
-  - Norges Bank Investment Management
-  - Wharton
-  - London Business School
-  - Citibank
-  - Lehman Brothers
-  - Federal Reserve
-products_models: []
-media_books:
-  - The Economist
-  - Decision Making Under Uncertainty in Oil and Gas
-  - Mastering the Market Cycle
-  - The Pendulum
-  - Security Analysis
-  - Thinking in Bets
-  - You Bet
-  - Fooled by Randomness
-  - The Illusion of Knowledge
-  - Dare to Be Great II
 status: evergreen
+summary: 在本次访谈中，橡树资本联合创始人霍华德·马克斯深入阐述了他的投资哲学，强调风险控制、市场效率、专业化及对宏观预测和市场时机的摒弃。他详细探讨了知识的局限性、随机性在投资中的作用，以及如何通过理解市场周期和逆向思维来做出明智决策。马克斯还分享了他对风险管理的看法，以及如何从扑克等游戏中汲取投资智慧，并对年轻投资者提出了宝贵建议。
+tags:
+- decision-making
+- investing
+- investment-philosophy
+- market-cycle
+- risk-management
+title: 橡树资本霍华德·马克斯：投资哲学、风险控制与逆向思维
 ---
+
 ### 投资之路的起点
 
 主持人: 大家好，我是赫林，在奥斯陆与橡树资本（Oaktree Capital: 一家全球领先的另类投资管理公司）的联合创始人、投资大师霍华德·马克斯在一起。很高兴您能来这里。您是世界上最令人印象深刻和受人尊敬的投资者之一，也因撰写各种备忘录而闻名。我们很想先问问您，最初是如何进入金融行业的？

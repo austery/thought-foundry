@@ -1,54 +1,54 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- SHU SHU工作室
+- 复旦儿科社工部
 date: '2025-06-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+- 《再见列宁》
+- 《图画史》
+- 《你想活出怎样的人生》
+- 《狂人日记》
+- artistic-book
+people:
+- 开开
+- 嘉佳
+- 豆豆
+- 草莓
+- 至柔
+- 朵朵
+- 图钉
+- 穗穗
+- 安安
+- 双而
+- 清欢
+- 小愚
+- 滢滢
+- Lucy Lippard
+products_models: []
+project:
+- cultural-critique
+- knowledge-pipeline
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=bacmSmpNytU
 speaker: 一席YiXi
-tags:
-  - artistic-book
-  - emotional-expression
-  - social-isolation
-  - intergenerational-communication
-  - childhood-insight
-title: 当孩子用书对抗世界的墙：艺术家书如何成为青少年的表达容器
-summary: 通过儿童与青少年创作的艺术家书，本文揭示了年轻一代如何以视觉与手工书籍为媒介，直面暴力、隔离、家庭沟通困境与社会压力，并在创作中完成自我认知与情感疗愈。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - knowledge-pipeline
-  - personal-growth-lab
-people:
-  - 开开
-  - 嘉佳
-  - 豆豆
-  - 草莓
-  - 至柔
-  - 朵朵
-  - 图钉
-  - 穗穗
-  - 安安
-  - 双而
-  - 清欢
-  - 小愚
-  - 滢滢
-  - Lucy Lippard
-companies_orgs:
-  - SHU SHU工作室
-  - 复旦儿科社工部
-products_models: []
-media_books:
-  - 《繁花》
-  - 《再见列宁》
-  - 《图画史》
-  - 《你想活出怎样的人生》
-  - 《狂人日记》
 status: evergreen
+summary: 通过儿童与青少年创作的艺术家书，本文揭示了年轻一代如何以视觉与手工书籍为媒介，直面暴力、隔离、家庭沟通困境与社会压力，并在创作中完成自我认知与情感疗愈。
+tags:
+- communication
+- emotional
+- life
+- social
+title: 当孩子用书对抗世界的墙：艺术家书如何成为青少年的表达容器
 ---
+
 ### 艺术家书：孩子对抗世界的沉默武器
 
 大家好，我是开开，一个以儿童和青少年为作者的出版人。不同于传统编辑，我的工作不是筛选成熟的文本，而是与5至17岁的孩子一起，用书作为工具，去观察、思考和表达他们所经历的世界。

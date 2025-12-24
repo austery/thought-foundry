@@ -1,42 +1,41 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- CME
+- BitMEX
+- Morgan Stanley
+- UBS
+- ECB
+- Tesla
+- Goldman Sachs
 date: '2025-06-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Elon Musk
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=3YmDDx3171c
 speaker: Shanghao Jin
-tags:
-  - fiscal-expansion
-  - us-economic-outlook
-  - geopolitical-impact
-  - market-positioning
-  - bitcoin-dynamics
-title: 2025年6月市场展望：财政扩张、地缘政治与美元及比特币的深层逻辑
-summary: 本期市场概述深入分析了当前全球经济的宏观基本面、美国财政扩张政策及其长期影响。报告指出，尽管美国经济数据呈现软化趋势，但科技巨头盈利强劲。同时，地缘政治（如中美贸易关系和899条款）对全球投资流向产生复杂影响。在货币政策方面，欧洲央行降息与美联储的相对坚韧形成对比，美元面临对冲压力但短期内难以做空。最后，报告揭示了比特币价格上涨的套利驱动机制，并对其可持续性提出疑问。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Elon Musk
-companies_orgs:
-  - CME
-  - BitMEX
-  - Morgan Stanley
-  - UBS
-  - ECB
-  - Tesla
-  - Goldman Sachs
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期市场概述深入分析了当前全球经济的宏观基本面、美国财政扩张政策及其长期影响。报告指出，尽管美国经济数据呈现软化趋势，但科技巨头盈利强劲。同时，地缘政治（如中美贸易关系和899条款）对全球投资流向产生复杂影响。在货币政策方面，欧洲央行降息与美联储的相对坚韧形成对比，美元面临对冲压力但短期内难以做空。最后，报告揭示了比特币价格上涨的套利驱动机制，并对其可持续性提出疑问。
+tags:
+- dynamic
+- financial
+- geopolitical-impact
+- market
+- us-economic-outlook
+title: 2025年6月市场展望：财政扩张、地缘政治与美元及比特币的深层逻辑
 ---
+
 ### 市场概览与宏观经济基本面
 
 上一周市场经历了大量**新闻流**（news flow: 指市场中不断涌现的各类新闻和信息）的驱动，整体表现出较高的**波动性**（volatile: 市场价格或指数在一段时间内变化的剧烈程度）。这些新闻主要来自政治层面（尤其是美国）、美国的经济数据以及全球**中央银行**（Central Bank: 负责制定和执行货币政策的金融机构）的行为。尽管市场波动，但其走势基本遵循了这些新闻流。

@@ -1,47 +1,45 @@
 ---
-author: 课代表立正
+area: tech-insights
+category: technology
+companies_orgs:
+- Meta
+- Twitter
+- MIT
+- CMU
+- 智源
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 田渊栋
+- Denny Zhou
+- Ilya Sutskever
+- Geoffrey Hinton
+- Richard Sutton
+- Luis von Ahn
+- 赵智沉
+products_models:
+- GPT-5
+- SVM
+project:
+- ai-impact-analysis
+- systems-thinking
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=dymM40bVIhQ
 speaker: 课代表立正
-tags:
-  - ai-grokking
-  - model-generalization
-  - ai-research-paradigms
-  - representation-learning
-  - elegance-in-ai
-title: 田渊栋谈AI的“顿悟”：模型开窍的关键，对优雅的追求与科研范式之争
-summary: Meta前研究科学家田渊栋深入探讨AI领域备受关注的“顿悟”（Grokking）现象，揭示模型从记忆到泛化的内在机制。他分享了AI研究中直觉与经验的重要性，并对比了当前主流的“规模法则”与深入理解模型内部机制的两种科研范式。此外，田渊栋还探讨了AI学习中的“优雅”追求、损失函数作为“代理”的角色，以及AI作为研究助手的潜力，为理解AI如何产生新知识提供了独到见解。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - knowledge-pipeline
-people:
-  - 田渊栋
-  - Denny Zhou
-  - Ilya Sutskever
-  - Geoffrey Hinton
-  - Richard Sutton
-  - Luis von Ahn
-  - 赵智沉
-companies_orgs:
-  - Meta
-  - Twitter
-  - MIT
-  - CMU
-  - 智源
-products_models:
-  - GPT-5
-  - SVM
-media_books: []
 status: evergreen
+summary: Meta前研究科学家田渊栋深入探讨AI领域备受关注的“顿悟”（Grokking）现象，揭示模型从记忆到泛化的内在机制。他分享了AI研究中直觉与经验的重要性，并对比了当前主流的“规模法则”与深入理解模型内部机制的两种科研范式。此外，田渊栋还探讨了AI学习中的“优雅”追求、损失函数作为“代理”的角色，以及AI作为研究助手的潜力，为理解AI如何产生新知识提供了独到见解。
+tags:
+- learning
+- llm
+- model
+- research
+title: 田渊栋谈AI的“顿悟”：模型开窍的关键，对优雅的追求与科研范式之争
 ---
+
 ### 离开Meta后的思考与团队贡献
 
 **课代表立正**: 我是在准备访谈的时候才发现您在Meta已经工作10年了。

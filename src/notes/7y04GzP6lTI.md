@@ -1,119 +1,117 @@
 ---
-author: Amit Kukreja
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Nvidia
+- Google
+- Amazon
+- Broadcom
+- Tesla
+- Palantir
+- MicroStrategy
+- S&P 500
+- Federal Reserve
+- CNBC
+- SemiAnalysis
+- Synopsys
+- Morgan Stanley
+- JPMorgan Chase
+- Goldman Sachs
+- Polymarket
+- Robinhood
+- Susquehanna
+- CBS
+- Bank of America
+- Shopify
+- Adobe
+- Salesforce
+- Piper Sandler
+- SoftBank
+- OpenAI
+- SpaceX
+- xAI
+- AMD
+- CoreWeave
+- Intel
+- Apple
+- Microsoft
+- Meta
+- Oracle
+- Reddit
+- Joby Aviation
+- Kratos Defense & Security Solutions
+- Fanatics
+- Costco
+- Walmart
+- Dell
+- General Motors
+- BMW
+- Siemens
+- Boeing
+- Cadence Design Systems
+- GoTo
+- OpenDoor
+- GameStop
+- Coinbase
+- Eli Lilly
+- Bristol Myers Squibb
+- MongoDB
+- CrowdStrike
+- Okta
+- Snowflake
+- Macy's
+- Klarna
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Substack
+people:
+- Michael Burry
+- Tom Lee
+- Jensen Huang
+- Dylan Patel
+- Elon Musk
+- Michael Saylor
+- Tobi Lütke
+- Donald Trump
+- Kevin Hassett
+- Sam Altman
+- Jamie Dimon
+- Alex Karp
+- Masayoshi Son
+products_models:
+- Bitcoin
+- Ethereum
+- Solana
+- XRP
+- Google TPU
+- Nvidia Blackwell
+- CUDA
+- Omniverse
+- Gemini 3
+- ChatGPT
+- AWS
+- FSD (Full Self-Driving)
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=7y04GzP6lTI
 speaker: Amit Kukreja
-tags:
-  - yen-carry-trade
-  - competitive-moat
-  - consumer-spending
-  - monetary-policy
-  - prediction-markets
-title: 日本收益率飙升引发市场震荡：Nvidia 竞争加剧与加密货币前景分析
-summary: 本期市场分析深入探讨了2025年12月首个交易日的市场动态。核心议题包括日本十年期国债收益率飙升至2008年以来新高，及其通过“日元套利交易”对加密货币和风险资产造成的冲击。文章详细分析了谷歌TPU对Nvidia构成的竞争威胁，并结合黄仁勋的最新回应，探讨了Nvidia的核心护城河。此外，内容还涵盖了强劲的“黑五”消费数据、美联储的降息预期，以及对未来市场走势的多维度解读。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Michael Burry
-  - Tom Lee
-  - Jensen Huang
-  - Dylan Patel
-  - Elon Musk
-  - Michael Saylor
-  - Tobi Lütke
-  - Donald Trump
-  - Kevin Hassett
-  - Sam Altman
-  - Jamie Dimon
-  - Alex Karp
-  - Masayoshi Son
-companies_orgs:
-  - Nvidia
-  - Google
-  - Amazon
-  - Broadcom
-  - Tesla
-  - Palantir
-  - MicroStrategy
-  - S&P 500
-  - Federal Reserve
-  - CNBC
-  - SemiAnalysis
-  - Synopsys
-  - Morgan Stanley
-  - JPMorgan Chase
-  - Goldman Sachs
-  - Polymarket
-  - Robinhood
-  - Susquehanna
-  - CBS
-  - Bank of America
-  - Shopify
-  - Adobe
-  - Salesforce
-  - Piper Sandler
-  - SoftBank
-  - OpenAI
-  - SpaceX
-  - xAI
-  - AMD
-  - CoreWeave
-  - Intel
-  - Apple
-  - Microsoft
-  - Meta
-  - Oracle
-  - Reddit
-  - Joby Aviation
-  - Kratos Defense & Security Solutions
-  - Fanatics
-  - Costco
-  - Walmart
-  - Dell
-  - General Motors
-  - BMW
-  - Siemens
-  - Boeing
-  - Cadence Design Systems
-  - GoTo
-  - OpenDoor
-  - GameStop
-  - Coinbase
-  - Eli Lilly
-  - Bristol Myers Squibb
-  - MongoDB
-  - CrowdStrike
-  - Okta
-  - Snowflake
-  - Macy's
-  - Klarna
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Solana
-  - XRP
-  - Google TPU
-  - Nvidia Blackwell
-  - CUDA
-  - Omniverse
-  - Gemini 3
-  - ChatGPT
-  - AWS
-  - FSD (Full Self-Driving)
-media_books:
-  - Substack
 status: evergreen
+summary: 本期市场分析深入探讨了2025年12月首个交易日的市场动态。核心议题包括日本十年期国债收益率飙升至2008年以来新高，及其通过“日元套利交易”对加密货币和风险资产造成的冲击。文章详细分析了谷歌TPU对Nvidia构成的竞争威胁，并结合黄仁勋的最新回应，探讨了Nvidia的核心护城河。此外，内容还涵盖了强劲的“黑五”消费数据、美联储的降息预期，以及对未来市场走势的多维度解读。
+tags:
+- consumer-spending
+- investment
+- prediction-market
+- trade
+title: 日本收益率飙升引发市场震荡：Nvidia 竞争加剧与加密货币前景分析
 ---
+
 ### 欢迎回来与感恩节后记
 大家早上好，欢迎回到新一期的市场开盘直播。今天是12月1日，星期一，也是今年的最后一个月。我没有迟到，尽管大家都在刷屏说我晚了。我实际上是在8:45前五秒开始的，就为了能准时。
 

@@ -1,69 +1,69 @@
 ---
-author: 记者易速利
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Justice Department
+- FBI
+- Congress
+- White House
+- Harvard University
+- MIT
+- Rolling Stones
+- Amazon
+- Turning Point USA
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《洛丽塔》
+- 《性之囚徒》
+- 《情色如役的路线图，原则、技能和工具》
+people:
+- Jeffrey Epstein
+- Bill Clinton
+- Donald Trump
+- Ghislaine Maxwell
+- Kevin Spacey
+- Larry Summers
+- Pam Bondi
+- Todd Branch
+- Virginia Giuffre
+- Prince Andrew
+- Michael Jackson
+- Mick Jagger
+- Noam Chomsky
+- Woody Allen
+- Steven Pinker
+- Ann Coulter
+- Vladimir Nabokov
+- Charlie Kirk
+- Marjorie Taylor Greene
+- Raja Krishnamoorthi
+- Thomas Massie
+- Sofia Hellqvist
+- Julie K. Brown
+- Carolyn Witte
+- Susi Wiles
+- Leon Black
+products_models: []
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zbN22F2zQs8
 speaker: 记者易速利
-tags:
-  - epstein-files
-  - conspiracy-theory
-  - justice-department
-  - social-trust
-  - media-analysis
-title: 爱泼斯坦文件公布：阴谋论与社会信任的挑战
-summary: 美国司法部公布了部分爱泼斯坦案文件，但大量信息被遮盖，引发公众对透明度的质疑。文件揭示了爱泼斯坦与多位名人的关系，包括比尔·克林顿和凯文·史派西等。然而，由于信息不完整和司法部门的保密原则，公众普遍感到不满，阴谋论盛行。文章探讨了社会对精英阶层的不信任，以及信息披露在支离破碎的舆论环境中难以满足所有人的困境。同时，也分析了爱泼斯坦的犯罪心理及其社交网络中不同层级人物的责任。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-people:
-  - Jeffrey Epstein
-  - Bill Clinton
-  - Donald Trump
-  - Ghislaine Maxwell
-  - Kevin Spacey
-  - Larry Summers
-  - Pam Bondi
-  - Todd Branch
-  - Virginia Giuffre
-  - Prince Andrew
-  - Michael Jackson
-  - Mick Jagger
-  - Noam Chomsky
-  - Woody Allen
-  - Steven Pinker
-  - Ann Coulter
-  - Vladimir Nabokov
-  - Charlie Kirk
-  - Marjorie Taylor Greene
-  - Raja Krishnamoorthi
-  - Thomas Massie
-  - Sofia Hellqvist
-  - Julie K. Brown
-  - Carolyn Witte
-  - Susi Wiles
-  - Leon Black
-companies_orgs:
-  - Justice Department
-  - FBI
-  - Congress
-  - White House
-  - Harvard University
-  - MIT
-  - Rolling Stones
-  - Amazon
-  - Turning Point USA
-products_models: []
-media_books:
-  - 《洛丽塔》
-  - 《性之囚徒》
-  - 《情色如役的路线图，原则、技能和工具》
 status: evergreen
+summary: 美国司法部公布了部分爱泼斯坦案文件，但大量信息被遮盖，引发公众对透明度的质疑。文件揭示了爱泼斯坦与多位名人的关系，包括比尔·克林顿和凯文·史派西等。然而，由于信息不完整和司法部门的保密原则，公众普遍感到不满，阴谋论盛行。文章探讨了社会对精英阶层的不信任，以及信息披露在支离破碎的舆论环境中难以满足所有人的困境。同时，也分析了爱泼斯坦的犯罪心理及其社交网络中不同层级人物的责任。
+tags:
+- conspiracy-theory
+- epstein-file
+- geopolitical
+- media
+- social
+title: 爱泼斯坦文件公布：阴谋论与社会信任的挑战
 ---
+
 ### 爱泼斯坦文件公布与司法部透明度争议
 
 在经过数月的拖延之后，**美国司法部** 终于开始公布对性犯罪者 **杰弗里·爱泼斯坦**（Jeffrey Epstein: 美国金融家，因性侵未成年少女和性贩卖被捕）调查的数十万份文件。此举是 **国会** 通过一项法律，强制司法部全面公开文件后的结果。在圣诞节临近、华盛顿关注新闻的人最少的周五傍晚，国会规定的最后期限只剩下几个小时的时候，司法部公布了俗称“爱泼斯坦文件”的一部分，但并非全部。国会通过的《爱泼斯坦透明法案》预先考虑到了司法部可能采取的规避手段，明确规定司法部不得以损害声誉或政治敏感为由，扣留、拖延或删减相关记录，即使对象是政府官员或公众人物。

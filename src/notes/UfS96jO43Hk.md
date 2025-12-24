@@ -1,38 +1,37 @@
 ---
-author: Best Partners TV
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 趣店
+- 支付宝
+- 美国证监会
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 罗敏
+products_models:
+- 趣分期
+- 大白汽车
+- 万里目
+project:
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=UfS96jO43Hk
 speaker: Best Partners TV
-tags:
-  - capital-operation
-  - valuation-inversion
-  - share-buyback
-  - predatory-lending
-  - business-ethics
-title: 趣店：一家没有主营业务却躺赚百亿的资本游戏
-summary: 趣店作为一家上市公司，在主营业务营收暴跌的情况下，却通过资本运作实现了巨额利润增长。其创始人罗敏巧妙利用近百亿现金储备进行投资和股份回购，制造了“估值倒挂”的假象，最终实现个人财富的快速增值和公司私有化。文章揭示了趣店从校园贷起家，经历多次转型失败，最终转向纯粹资本套利的商业模式，并警示普通投资者警惕此类缺乏实体支撑的“躺赚”陷阱。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - investment-strategy
-people:
-  - 罗敏
-companies_orgs:
-  - 趣店
-  - 支付宝
-  - 美国证监会
-products_models:
-  - 趣分期
-  - 大白汽车
-  - 万里目
-media_books: []
 status: evergreen
+summary: 趣店作为一家上市公司，在主营业务营收暴跌的情况下，却通过资本运作实现了巨额利润增长。其创始人罗敏巧妙利用近百亿现金储备进行投资和股份回购，制造了“估值倒挂”的假象，最终实现个人财富的快速增值和公司私有化。文章揭示了趣店从校园贷起家，经历多次转型失败，最终转向纯粹资本套利的商业模式，并警示普通投资者警惕此类缺乏实体支撑的“躺赚”陷阱。
+tags:
+- business
+- canada
+- capital
+- technology
+- valuation
+title: 趣店：一家没有主营业务却躺赚百亿的资本游戏
 ---
+
 大家好，这里是最佳拍档。今天来跟大家聊聊中国一家相当神奇的公司——**趣店**。
 
 ### 营收利润反差

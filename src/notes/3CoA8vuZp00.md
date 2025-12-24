@@ -1,62 +1,62 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中科院
+- 核研所
+- CIA
+- 国际原子能总署
+- 科学与国际安全研究所
+- 西门子公司
+- 美国国务院
+- 国防情报局
+- 联合国
 date: '2023-06-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《如何拆除原子弹？》
+- 《台湾昔日的核武计划》
+people:
+- 蒋介石
+- 蒋经国
+- 郝柏村
+- 张宪义
+- 李登辉
+- 吴大猷
+- 伯格曼
+- 卡特
+- 毛泽东
+- D.B. Albright
+- 刘华珍
+- 金胜哲
+- 郑友善
+- Eno
+- Bono
+- Leonard Unger
+products_models:
+- TRR
+- 经国号
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3CoA8vuZp00
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - taiwan-nuclear-program
-  - geopolitical-strategy
-  - us-foreign-policy
-  - cold-war-era
-  - nuclear-proliferation
-title: 台湾核武秘辛：从研发到拆除的地缘政治博弈
-summary: 本文深入探讨了台湾在冷战时期秘密发展核武器的历程，从中共核试爆引发的焦虑，到蒋氏父子推动核武计划的决心。文章详细阐述了美国对此的密切监控与强力干预，以及最终在关键时刻拆除台湾核设施的行动。同时，也探讨了如果历史改写，台湾与韩国在核电发展道路上可能出现的迥异结果。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - 蒋介石
-  - 蒋经国
-  - 郝柏村
-  - 张宪义
-  - 李登辉
-  - 吴大猷
-  - 伯格曼
-  - 卡特
-  - 毛泽东
-  - D.B. Albright
-  - 刘华珍
-  - 金胜哲
-  - 郑友善
-  - Eno
-  - Bono
-  - Leonard Unger
-companies_orgs:
-  - 中科院
-  - 核研所
-  - CIA
-  - 国际原子能总署
-  - 科学与国际安全研究所
-  - 西门子公司
-  - 美国国务院
-  - 国防情报局
-  - 联合国
-products_models:
-  - TRR
-  - 经国号
-media_books:
-  - 《如何拆除原子弹？》
-  - 《台湾昔日的核武计划》
 status: evergreen
+summary: 本文深入探讨了台湾在冷战时期秘密发展核武器的历程，从中共核试爆引发的焦虑，到蒋氏父子推动核武计划的决心。文章详细阐述了美国对此的密切监控与强力干预，以及最终在关键时刻拆除台湾核设施的行动。同时，也探讨了如果历史改写，台湾与韩国在核电发展道路上可能出现的迥异结果。
+tags:
+- geopolitical-strategy
+- nuclear
+- nuclear-proliferation
+- us-foreign-policy
+- war
+title: 台湾核武秘辛：从研发到拆除的地缘政治博弈
 ---
+
 ### 台湾的秘密核武之路：一个被拆除的原子弹故事
 
 台湾距离成为一个真正的**核武国家**（Nuclear-armed state: 拥有核武器的国家）几乎只剩下一件事情要做。我至今仍认为U2乐队的《如何拆除原子弹？》是他们最好的一张专辑。当时我不太懂这标题是什么意思，我当时只觉得Eno长得好像我叔叔。现在，我可以对U2说，这个问题你们问台湾人就对了，因为我们是一个曾经亲眼见证自己的原子弹被拆掉的国家。台湾曾经是一个秘密的核武国家。在这一集，我想透过几篇近几年出版的最新研究，和大家聊聊台湾原子弹是怎么出现，又怎么被拆除的？台湾的核武计划对台湾造成了什么影响？如果历史改变，台湾原子弹顺利诞生，这到底是一件好事还是一件坏事呢？

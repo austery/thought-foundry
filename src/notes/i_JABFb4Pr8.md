@@ -1,57 +1,55 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 美国国防部
+- 战略与国际研究中心
+- 大疆
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Xi Jinping
+- Mao Zedong
+- 何伟东
+- 张又侠
+- 张声明
+- 刘振利
+- Pete Hexeth
+- Charles Q. Brown Jr.
+- 董军
+- Robert Burke
+- 泽连斯基
+- 帕帕罗
+products_models:
+- B-2 Ghost bomber
+- F-22 Mengqin fighter jet
+- F-35 Lightning II
+- B-21 stealth bomber
+- J-20
+- Type 052D destroyer
+- K-52
+- Mi-8MTV
+- A10 attack aircraft
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=i_JABFb4Pr8
 speaker: 记者易速利
-tags:
-  - military-corruption
-  - industrial-capacity
-  - us-china-military-competition
-  - modern-warfare
-  - combat-experience
-title: 中美军事实力对比：解放军的挑战与美军工业衰退的隐忧
-summary: 本文深入分析了中美两国军事力量的现状与未来走向。解放军在习近平任期内经历了大规模高层清洗，同时其装备技术正以惊人速度现代化，但缺乏实战经验和高层贪腐问题显而易见。相对地，美军将军们拥有丰富的实战经验且相对清廉，但美国工业体系的衰落，尤其在造船和航空制造领域，已严重影响其在长期冲突中的作战能力。文章强调，现代战争的胜负日益取决于工业生产能力和后勤保障，而非单纯的军事技术或个体体能。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Xi Jinping
-  - Mao Zedong
-  - 何伟东
-  - 张又侠
-  - 张声明
-  - 刘振利
-  - Pete Hexeth
-  - Charles Q. Brown Jr.
-  - 董军
-  - Robert Burke
-  - 泽连斯基
-  - 帕帕罗
-companies_orgs:
-  - 美国国防部
-  - 战略与国际研究中心
-  - 大疆
-products_models:
-  - B-2 Ghost bomber
-  - F-22 Mengqin fighter jet
-  - F-35 Lightning II
-  - B-21 stealth bomber
-  - J-20
-  - Type 052D destroyer
-  - K-52
-  - Mi-8MTV
-  - A10 attack aircraft
-media_books: []
 status: evergreen
+summary: 本文深入分析了中美两国军事力量的现状与未来走向。解放军在习近平任期内经历了大规模高层清洗，同时其装备技术正以惊人速度现代化，但缺乏实战经验和高层贪腐问题显而易见。相对地，美军将军们拥有丰富的实战经验且相对清廉，但美国工业体系的衰落，尤其在造船和航空制造领域，已严重影响其在长期冲突中的作战能力。文章强调，现代战争的胜负日益取决于工业生产能力和后勤保障，而非单纯的军事技术或个体体能。
+tags:
+- china
+- experience
+- geopolitical
+- military
+title: 中美军事实力对比：解放军的挑战与美军工业衰退的隐忧
 ---
+
 ### 解放军高层清洗与军事现代化
 
 在习近平的第三个任期内，他提拔的79位**将军**（General/Admiral: 军队最高级别军官）中，有15位或失踪或正在接受调查。这是自1976年毛泽东时代结束以来，中国军队人员最大规模的一次清洗。从外部观察解放军时，尽管隔着一层厚厚的毛玻璃，我们仍然不会错过两个最显而易见且具有矛盾性的现象。

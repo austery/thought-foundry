@@ -1,48 +1,48 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- FCC
+- AIG
+- Lehman Brothers
+- MIT
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《模型思维》
+- 《穷查理宝典》
+- edX
+people:
+- George Box
+- Scott Page
+- Charlie Munger
+- Kennedy
+- Khrushchev
+- Graham Allison
+- Andrew Lo
+- Jeff Bezos
+- Jean-Baptiste Lamarck
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=OhYiedmk8O0
 speaker: 北美王路飞
-tags:
-  - multi-model-thinking
-  - information-overload
-  - decision-making
-  - cognitive-bias
-  - wisdom-hierarchy
-title: 决策者工具箱：多模型思维助你驾驭信息洪流，从糊涂走向智慧
-summary: 面对信息爆炸和观点冲突，我们常陷入“懂得越多越糊涂”的困境。本文深入探讨“多模型思维”这一核心决策工具，揭示单一归因的局限性，并阐述如何通过整合不同思维模型，从数据、信息、知识迈向智慧。通过具体案例和“RedCape”模型超能力，文章旨在帮助读者构建多元认知框架，提升在复杂世界中做出明智决策的能力，最终学会与不确定性共舞。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - George Box
-  - Scott Page
-  - Charlie Munger
-  - Kennedy
-  - Khrushchev
-  - Graham Allison
-  - Andrew Lo
-  - Jeff Bezos
-  - Jean-Baptiste Lamarck
-companies_orgs:
-  - FCC
-  - AIG
-  - Lehman Brothers
-  - MIT
-products_models: []
-media_books:
-  - 《模型思维》
-  - 《穷查理宝典》
-  - edX
 status: evergreen
+summary: 面对信息爆炸和观点冲突，我们常陷入“懂得越多越糊涂”的困境。本文深入探讨“多模型思维”这一核心决策工具，揭示单一归因的局限性，并阐述如何通过整合不同思维模型，从数据、信息、知识迈向智慧。通过具体案例和“RedCape”模型超能力，文章旨在帮助读者构建多元认知框架，提升在复杂世界中做出明智决策的能力，最终学会与不确定性共舞。
+tags:
+- cognitive-bias
+- decision-making
+- history
+- information-overload
+- model
+title: 决策者工具箱：多模型思维助你驾驭信息洪流，从糊涂走向智慧
 ---
+
 ### 开篇：信息洪流与认知困境
 
 大家好，欢迎来到我的频道。今天我想测试一个新的视频类型，就是YouTube上推出的课程功能。大家可以看看，在观看过程中它和之前的视频有什么区别。我计划制作一个关于思维模型的大系列，将多本相关书籍结合起来，做成一系列视频。这个系列节目将首先在超新星会员中发布，然后逐步公开。

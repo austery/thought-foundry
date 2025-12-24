@@ -1,62 +1,62 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 神州医药总会
+- 中华医学会
+- 洛克菲勒基金会
 date: '2025-03-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《鼠疫绝为》
+- 《先千年》
+- 《林宿商对》
+people:
+- 张哲家
+- 李金邦
+- 汉尼巴
+- 唐三藏
+- 周魔制
+- 李鸿章
+- 唐宗海
+- 雷祥林
+- 喜良
+- 俞波涛
+- 梅森尼
+- 伍连德
+- 袁世凯
+- 颜福庆
+- 陈独秀
+- 鲁迅
+- 巴金
+- 老舍
+- 愚言
+- 江少元
+- 章太炎
+- 运铁桥
+- 俞健全
+- 阎锡山
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=IDKa3f2kseY
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - sino-western-medicine-clash
-  - public-health-policy
-  - scientific-modernization
-  - cultural-identity
-  - political-instability
-title: 气化世界的崩毁：中西医交锋与现代中国的医学转型
-summary: 本文深入探讨了19世纪末至20世纪初，西方医学进入中国后，传统中医所面临的挑战与转型。从最初的文化自信，到1910年东北肺鼠疫的冲击，再到五四运动中科学主义对中医的批判，文章揭示了中医在政治、社会和知识精英层面的地位变迁。尽管面临制度性排斥和理论质疑，中医因其可及性和经济性，在民间仍保持了强大的生命力，为后续中西医融合的尝试埋下了伏笔。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 张哲家
-  - 李金邦
-  - 汉尼巴
-  - 唐三藏
-  - 周魔制
-  - 李鸿章
-  - 唐宗海
-  - 雷祥林
-  - 喜良
-  - 俞波涛
-  - 梅森尼
-  - 伍连德
-  - 袁世凯
-  - 颜福庆
-  - 陈独秀
-  - 鲁迅
-  - 巴金
-  - 老舍
-  - 愚言
-  - 江少元
-  - 章太炎
-  - 运铁桥
-  - 俞健全
-  - 阎锡山
-companies_orgs:
-  - 神州医药总会
-  - 中华医学会
-  - 洛克菲勒基金会
-products_models: []
-media_books:
-  - 《鼠疫绝为》
-  - 《先千年》
-  - 《林宿商对》
 status: evergreen
+summary: 本文深入探讨了19世纪末至20世纪初，西方医学进入中国后，传统中医所面临的挑战与转型。从最初的文化自信，到1910年东北肺鼠疫的冲击，再到五四运动中科学主义对中医的批判，文章揭示了中医在政治、社会和知识精英层面的地位变迁。尽管面临制度性排斥和理论质疑，中医因其可及性和经济性，在民间仍保持了强大的生命力，为后续中西医融合的尝试埋下了伏笔。
+tags:
+- cultural-identity
+- health
+- political
+- public-health-policy
+- scientific
+title: 气化世界的崩毁：中西医交锋与现代中国的医学转型
 ---
+
 ### 西医登陆与中医的最初回应
 
 19世纪后半叶，西方医学登陆中国。晚清的知识分子虽然很快就放弃了本土的算学和天文学，但他们普遍认为本土的传统医学一点也不输西方医学。医学史学者张哲家告诉我们，当时不少人喜欢写中医擅长A、西医擅长B，这种看似抬举双方的比较文，但他们会说A比B重要。例如，**气化**（Qi-hua: 中医理论中，气在体内运行、转化、生成各种物质和能量的过程）就被认为是比人体构造更高维度的现象。人们真正的意思是：中医，你很赞。

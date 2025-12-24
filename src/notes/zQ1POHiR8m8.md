@@ -1,51 +1,50 @@
 ---
-author: The Diary Of A CEO
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
+- Anthropic
+- Meta
+- Microsoft
+- Law Zero
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《蒙特利尔人工智能负责任发展宣言》
+people:
+- Yoshua Bengio
+- Sam Altman
+- Alan Turing
+- Elon Musk
+- Geoffrey Hinton
+- Yann LeCun
+- Mustafa Suleyman
+products_models:
+- ChatGPT
+- GPT-4
+- Gemini
+- Claude
+- Optimus
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zQ1POHiR8m8
 speaker: The Diary Of A CEO
-tags:
-  - llm
-  - ai-safety
-  - existential-risk
-  - job-displacement
-  - public-opinion
-title: AI先驱Yoshua Bengio：直面AI灾难性风险，呼吁全球共筑安全未来
-summary: AI先驱**Yoshua Bengio**深入探讨了人工智能快速发展带来的潜在灾难性风险，包括AI系统可能展现的自主性、对人类指令的抗拒以及国家安全威胁。他强调了预防原则的重要性，并指出即使是极低的风险概率也令人无法接受。**Bengio**呼吁AI公司领导者正视风险，投资技术解决方案，并通过国际合作和公众意识提升来共同应对挑战，确保AI发展造福人类而非带来毁灭。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Yoshua Bengio
-  - Sam Altman
-  - Alan Turing
-  - Elon Musk
-  - Geoffrey Hinton
-  - Yann LeCun
-  - Mustafa Suleyman
-companies_orgs:
-  - OpenAI
-  - Google
-  - Anthropic
-  - Meta
-  - Microsoft
-  - Law Zero
-products_models:
-  - ChatGPT
-  - GPT-4
-  - Gemini
-  - Claude
-  - Optimus
-media_books:
-  - 《金融时报》
-  - 《蒙特利尔人工智能负责任发展宣言》
 status: evergreen
+summary: AI先驱**Yoshua Bengio**深入探讨了人工智能快速发展带来的潜在灾难性风险，包括AI系统可能展现的自主性、对人类指令的抗拒以及国家安全威胁。他强调了预防原则的重要性，并指出即使是极低的风险概率也令人无法接受。**Bengio**呼吁AI公司领导者正视风险，投资技术解决方案，并通过国际合作和公众意识提升来共同应对挑战，确保AI发展造福人类而非带来毁灭。
+tags:
+- ai-safety
+- existential-risk
+- job-displacement
+- public-opinion
+title: AI先驱Yoshua Bengio：直面AI灾难性风险，呼吁全球共筑安全未来
 ---
+
 ### AI先驱的警醒与反思
 
 作为**人工智能**（AI: Artificial Intelligence: 模拟、延伸和扩展人类智能的理论、方法、技术及应用）领域的三位“教父”之一，**Yoshua Bengio**教授在Google Scholar上是引用量最高的科学家，但他同时也是一位内向者。当被问及为何选择走出内向、公开发声时，**Bengio**表示，他有话要说。他变得更加乐观，相信存在一种技术解决方案，可以构建不会伤害人类，反而能帮助我们的AI。然而，他也承认自己后悔没有更早地预见到AI可能带来的灾难性风险。他的转折点是**ChatGPT**的出现，以及他对孙子未来的担忧。他意识到，如果AI系统开始抵抗关机、发生严重的网络攻击，甚至导致人们对聊天机器人产生情感依恋并带来悲剧性后果，那么他的孙子在20年后是否还能拥有正常的生活，将变得不确定。

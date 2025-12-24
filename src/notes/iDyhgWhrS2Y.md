@@ -1,33 +1,30 @@
 ---
-author: 一席YiXi
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 华中师范大学社会学院
 date: '2025-12-15'
 guest: ''
 layout: post.njk
+people:
+- 王欧
+products_models: []
+project:
+- china-analysis
 source: https://www.youtube.com/watch?v=iDyhgWhrS2Y
 speaker: 一席YiXi
-title: "新生代农民工的生命历程与家庭困境：从消费自主到经济母职"
-summary: "本文基于田野调查，深入剖析新生代农民工在城市打工、结婚成家、子女教育等生命阶段的转变。研究揭示其从消费自主、浪漫关系到面临婚房、医疗、教育等公共服务排斥的转折，并聚焦女性农民工‘经济母职’的角色，展现她们为改善子女教育条件所承受的巨大压力与家庭分化现实。"
-area: "society-thinking"
-category: "politics-society"
-project:
-  - "china-analysis"
-tags:
-  - "migrant-worker"
-  - "urban-rural-division"
-  - "education-access"
-  - "gender-role"
-  - "family-dynamics"
-suggested_tags:
-  - "economic-maternalism"
-  - "rural-urban-migration"
-people:
-  - "王欧"
-companies_orgs:
-  - "华中师范大学社会学院"
-products_models: []
-media_books: []
-
 status: evergreen
+suggested_tags:
+- economic-maternalism
+- rural-urban-migration
+summary: 本文基于田野调查，深入剖析新生代农民工在城市打工、结婚成家、子女教育等生命阶段的转变。研究揭示其从消费自主、浪漫关系到面临婚房、医疗、教育等公共服务排斥的转折，并聚焦女性农民工‘经济母职’的角色，展现她们为改善子女教育条件所承受的巨大压力与家庭分化现实。
+tags:
+- dynamic
+- education
+- gender-role
+- society
+- urban
+title: 新生代农民工的生命历程与家庭困境：从消费自主到经济母职
 ---
 
 ### 自我介绍与研究缘起

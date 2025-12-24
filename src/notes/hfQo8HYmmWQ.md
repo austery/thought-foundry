@@ -1,38 +1,36 @@
 ---
-author: Big Think
+area: tech-insights
+category: science
+companies_orgs:
+- Altos Labs
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Ageless: The New Science of Getting Older Without Getting Old'
+people:
+- Andrew Steele
+- Shinya Yamanaka
+- Jeff Bezos
+products_models:
+- AlphaFold
+project:
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=hfQo8HYmmWQ
 speaker: Big Think
-tags:
-  - longevity-science
-  - cellular-reprogramming
-  - senescent-cells
-  - biological-age
-  - ethical-considerations
-title: 延长人类寿命：科学突破与伦理考量
-summary: 安德鲁·斯蒂尔博士探讨了寿命科学的最新进展，包括 senolytic 药物、细胞重编程和现有药物的再利用。他强调，延长健康寿命不仅具有巨大的经济价值，还能提高人们的生活质量。同时，他也呼吁社会对寿命科学给予更多关注和资金支持，并反思与长寿相关的伦理问题。
-insight: ''
-draft: true
-series: ''
-category: science
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Andrew Steele
-  - Shinya Yamanaka
-  - Jeff Bezos
-companies_orgs:
-  - Altos Labs
-products_models:
-  - AlphaFold
-media_books:
-  - 'Ageless: The New Science of Getting Older Without Getting Old'
 status: evergreen
+summary: 安德鲁·斯蒂尔博士探讨了寿命科学的最新进展，包括 senolytic 药物、细胞重编程和现有药物的再利用。他强调，延长健康寿命不仅具有巨大的经济价值，还能提高人们的生活质量。同时，他也呼吁社会对寿命科学给予更多关注和资金支持，并反思与长寿相关的伦理问题。
+tags:
+- health
+- history
+- science
+title: 延长人类寿命：科学突破与伦理考量
 ---
+
 ### 寿命科学的迷思与真相
 
 人们一听到寿命科学或寿命医学，脑海中立刻浮现的可能是试图阻止死亡。比如，亿万富翁每天服用数百种补品以求长生不老，或者人们进行疯狂的锻炼和尝试奇异的饮食。人们关注何时进食、吃什么、吃多少。但我认为，这些实际上分散了我们对寿命科学宏伟目标的注意力。我们不是在讨论永生，而是在于延长你的健康寿命，延长你免受疾病、痛苦和记忆丧失困扰的生命阶段。

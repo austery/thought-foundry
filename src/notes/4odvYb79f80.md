@@ -1,49 +1,48 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Uber
+- Walmart
+- Department of Homeland Security
+- Red Cross
+- United Nations
+- Federal Trade Commission
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Michael Babaro
+- Julie Turkowitz
+- Luis Chakon
+- Aldo Kulminarees
+- Donald Trump
+- Nicolas Maduro
+- Christine Gnome
+- Bill Cassidy
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=4odvYb79f80
 speaker: New York Times Podcasts
-tags:
-  - mass-deportation
-  - prison-abuse
-  - human-rights
-  - migration-deterrence
-  - torture-allegations
-title: 特朗普政府的驱逐计划：萨尔瓦多监狱中的酷刑与人权危机
-summary: 本期节目深入调查了特朗普政府将数百名委内瑞拉国民驱逐至萨尔瓦多一所臭名昭著的监狱，导致他们遭受身体、精神乃至性虐待的事件。记者朱莉·图尔科维茨通过对40名获释男性的采访，揭露了狱中普遍存在的酷刑，包括缺乏医疗、强迫体位、橡皮子弹射击等。节目还探讨了美国政府对萨尔瓦多监狱状况的知情，以及这些男性最终因美委两国政治交易而被释放的复杂背景，反思了美国移民威慑政策的道德代价。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Michael Babaro
-  - Julie Turkowitz
-  - Luis Chakon
-  - Aldo Kulminarees
-  - Donald Trump
-  - Nicolas Maduro
-  - Christine Gnome
-  - Bill Cassidy
-companies_orgs:
-  - New York Times
-  - Uber
-  - Walmart
-  - Department of Homeland Security
-  - Red Cross
-  - United Nations
-  - Federal Trade Commission
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期节目深入调查了特朗普政府将数百名委内瑞拉国民驱逐至萨尔瓦多一所臭名昭著的监狱，导致他们遭受身体、精神乃至性虐待的事件。记者朱莉·图尔科维茨通过对40名获释男性的采访，揭露了狱中普遍存在的酷刑，包括缺乏医疗、强迫体位、橡皮子弹射击等。节目还探讨了美国政府对萨尔瓦多监狱状况的知情，以及这些男性最终因美委两国政治交易而被释放的复杂背景，反思了美国移民威慑政策的道德代价。
+tags:
+- geopolitical
+- human-right
+- mass-deportation
+- torture-allegation
+title: 特朗普政府的驱逐计划：萨尔瓦多监狱中的酷刑与人权危机
 ---
+
 ### 特朗普政府的驱逐计划：萨尔瓦多监狱中的酷刑与人权危机
 
 **Michael Babaro:** 大家好，我是《纽约时报》的迈克尔·巴巴罗，这里是《The Daily》。

@@ -1,54 +1,53 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 太子控股集团
+- 美国财政部
+- 美国司法部
+- FBI
+- 摩根大通
+- 花旗银行
+- 汇丰银行
+- 富国银行
+- 国际劳工组织
+- 太子银行
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《低俗小说》
+- The Daily Beast
+- Telegram
+- WhatsApp
+- YouTube
+people:
+- 陈志
+- 洪森
+- 洪马赖
+- 祝忠彪
+- Sam Haines
+- Melvin
+- Hutchinson
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dITN1Yr-rMU
 speaker: 记者易速利
-tags:
-  - pig-butchering-scam
-  - human-trafficking
-  - cybercrime-empire
-  - cryptocurrency-laundering
-  - international-sanctions
-title: 美英联手制裁陈志与太子集团：揭露东南亚网络犯罪帝国与“杀猪盘”骗局
-summary: 美国财政部与英国联手制裁柬埔寨籍中国富豪陈志及其太子控股集团，指控其主导东南亚网络犯罪帝国。该集团涉嫌通过虚假招聘诱骗数十万劳工从事“杀猪盘”式网络诈骗，涉及数百亿美元。美英执法机构查扣了价值150亿美元的比特币，并冻结多处资产，成为史上最大规模打击金融诈骗与人口贩运行动之一。文章详细揭示了诈骗模式、受害者困境、洗钱手法及国际合作的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 陈志
-  - 洪森
-  - 洪马赖
-  - 祝忠彪
-  - Sam Haines
-  - Melvin
-  - Hutchinson
-companies_orgs:
-  - 太子控股集团
-  - 美国财政部
-  - 美国司法部
-  - FBI
-  - 摩根大通
-  - 花旗银行
-  - 汇丰银行
-  - 富国银行
-  - 国际劳工组织
-  - 太子银行
-products_models: []
-media_books:
-  - 《低俗小说》
-  - The Daily Beast
-  - Telegram
-  - WhatsApp
-  - YouTube
 status: evergreen
+summary: 美国财政部与英国联手制裁柬埔寨籍中国富豪陈志及其太子控股集团，指控其主导东南亚网络犯罪帝国。该集团涉嫌通过虚假招聘诱骗数十万劳工从事“杀猪盘”式网络诈骗，涉及数百亿美元。美英执法机构查扣了价值150亿美元的比特币，并冻结多处资产，成为史上最大规模打击金融诈骗与人口贩运行动之一。文章详细揭示了诈骗模式、受害者困境、洗钱手法及国际合作的挑战。
+tags:
+- human
+- international
+- investment
+- pig-butchering-scam
+- technology
+title: 美英联手制裁陈志与太子集团：揭露东南亚网络犯罪帝国与“杀猪盘”骗局
 ---
 
 ### 美英联手制裁：揭露太子集团的网络犯罪帝国

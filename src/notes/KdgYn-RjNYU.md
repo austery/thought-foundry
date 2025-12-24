@@ -1,38 +1,37 @@
 ---
-author: Norges Bank Investment Management
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Norges Bank Investment Management
+- Norwegian Government Petroleum Fund
+- Oakland A's
 date: '2025-02-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Moneyball
+people:
+- Billy Beane
+- Brad Pitt
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=KdgYn-RjNYU
 speaker: Norges Bank Investment Management
-tags:
-  - sovereign-wealth-fund
-  - external-management
-  - investment-strategy
-  - portfolio-management
-  - risk-management
-title: 挪威主权财富基金：深度解析其外部管理人投资策略
-summary: 本文深入探讨了挪威政府全球养老基金（原名挪威政府石油基金）的投资策略，特别是其如何通过外部管理人实现超额收益。基金成立于1990年，旨在为挪威人民的未来世代提供福祉。文章详细介绍了基金的资产配置、全球投资布局、外部管理人的选择标准（如偏好小型私有机构、个人决策者、注重在地研究和ESG考量），以及严格的筛选、监控和优化流程，揭示了其独特的投资哲学和风险管理方法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Billy Beane
-  - Brad Pitt
-companies_orgs:
-  - Norges Bank Investment Management
-  - Norwegian Government Petroleum Fund
-  - Oakland A's
-products_models: []
-media_books:
-  - Moneyball
 status: evergreen
+summary: 本文深入探讨了挪威政府全球养老基金（原名挪威政府石油基金）的投资策略，特别是其如何通过外部管理人实现超额收益。基金成立于1990年，旨在为挪威人民的未来世代提供福祉。文章详细介绍了基金的资产配置、全球投资布局、外部管理人的选择标准（如偏好小型私有机构、个人决策者、注重在地研究和ESG考量），以及严格的筛选、监控和优化流程，揭示了其独特的投资哲学和风险管理方法。
+tags:
+- management
+- portfolio-management
+- risk-management
+- sovereign-wealth-fund
+title: 挪威主权财富基金：深度解析其外部管理人投资策略
 ---
+
 ### 挪威主权财富基金的诞生与增长
 
 我们是多么幸运！1969年，在最后一次钻探中发现了石油。

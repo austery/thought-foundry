@@ -1,48 +1,48 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- Novonesis
+- Christian Hansen
+- Novozymes
+- EU Commission
+- Noma
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Life of Genghis Khan
+people:
+- Nicolai Tangen
+- Ester Baiget
+- Genghis Khan
+products_models:
+- enzymes
+- microbes
+- probiotics
+- biofuels
+- cultures
+project:
+- ai-impact-analysis
+- entrepreneurship
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=UPtPobAYCcM
 speaker: Norges Bank Investment Management
-tags:
-  - bio-solutions
-  - enzyme-technology
-  - fermentation-process
-  - regulatory-environment
-  - sustainable-innovation
-title: 诺维信CEO艾斯特·拜格特：生物解决方案如何重塑世界与商业
-summary: 挪威主权财富基金CEO尼古拉·坦根对话诺维信（Novonesis）CEO艾斯特·拜格特，深入探讨了生物解决方案如何利用酶和微生物替代传统化学品，应用于食品、清洁、生物燃料等多个行业。拜格特详细阐述了诺维信的商业模式、研发投入、市场地位以及在监管环境中的挑战与机遇。她强调了公司通过科学创新、客户导向和长期主义实现高速增长，并分享了对AI在生物工程中应用的看法，以及对未来碳捕获、塑料回收等潜在突破性解决方案的展望。访谈还触及了企业文化、领导力风格及个人成长等话题。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - geopolitics-watch
-people:
-  - Nicolai Tangen
-  - Ester Baiget
-  - Genghis Khan
-companies_orgs:
-  - Norges Bank Investment Management
-  - Novonesis
-  - Christian Hansen
-  - Novozymes
-  - EU Commission
-  - Noma
-products_models:
-  - enzymes
-  - microbes
-  - probiotics
-  - biofuels
-  - cultures
-media_books:
-  - The Life of Genghis Khan
 status: evergreen
+summary: 挪威主权财富基金CEO尼古拉·坦根对话诺维信（Novonesis）CEO艾斯特·拜格特，深入探讨了生物解决方案如何利用酶和微生物替代传统化学品，应用于食品、清洁、生物燃料等多个行业。拜格特详细阐述了诺维信的商业模式、研发投入、市场地位以及在监管环境中的挑战与机遇。她强调了公司通过科学创新、客户导向和长期主义实现高速增长，并分享了对AI在生物工程中应用的看法，以及对未来碳捕获、塑料回收等潜在突破性解决方案的展望。访谈还触及了企业文化、领导力风格及个人成长等话题。
+tags:
+- health
+- innovation
+- regulatory
+- society
+- technology
+title: 诺维信CEO艾斯特·拜格特：生物解决方案如何重塑世界与商业
 ---
+
 ### 诺维信：用生物解决方案改变世界
 
 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 负责管理挪威政府全球养老基金）的首席执行官尼古拉·坦根。

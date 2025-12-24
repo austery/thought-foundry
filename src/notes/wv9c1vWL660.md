@@ -1,32 +1,28 @@
 ---
-title: 股市投资回报：揭秘散户赚钱的真相与合理预期
-summary: 本文探讨了股市中“90%股民赔钱”的说法，分析散户投资回报的真实比例与合理预期。文章揭示了指数回报与个体差异，区分了机构与散户投资的本质，并引入均值回归理论，为散户提供了务实的投资策略与心态建议。
 area: market-analysis
 category: finance
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - market-cycles
-tags:
-  - index-funds
-  - investment-returns
-  - mean-reversion
-  - retail-investing
-  - stock-market
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-02-18'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=wv9c1vWL660
+speaker: 一口新飯
 status: evergreen
+summary: 本文探讨了股市中“90%股民赔钱”的说法，分析散户投资回报的真实比例与合理预期。文章揭示了指数回报与个体差异，区分了机构与散户投资的本质，并引入均值回归理论，为散户提供了务实的投资策略与心态建议。
+tags:
+- investing
+- investment
+- stock-market
+- technology
+title: 股市投资回报：揭秘散户赚钱的真相与合理预期
 ---
 
 ### 股市神话的解构与投资预期的重塑

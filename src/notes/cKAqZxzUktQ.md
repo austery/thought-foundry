@@ -1,31 +1,30 @@
 ---
-title: 告别低效努力：掌握“心流”的秘密，实现专注学习与工作
-summary: 本文深度解析了专注的本质并非意志力，而是“心流”状态。通过“目标、规则、感受、时间”四要素的同步，即“one thing at a time”，可以创造专注条件，大幅提升学习工作效率。文章以正反案例详细阐释了如何触发和维持心流，并提供了重启执行力的实用方法。
 area: personal-growth
 category: productivity
-project:
-- personal-growth-lab
-tags:
-- flow-state
-- focus
-- learning-strategy
-- productivity
-people:
-- kevinfeng
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: KevinFeng 冯凯文
-speaker: KevinFeng 冯凯文
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- kevinfeng
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=cKAqZxzUktQ
+speaker: KevinFeng 冯凯文
 status: evergreen
+summary: 本文深度解析了专注的本质并非意志力，而是“心流”状态。通过“目标、规则、感受、时间”四要素的同步，即“one thing at a time”，可以创造专注条件，大幅提升学习工作效率。文章以正反案例详细阐释了如何触发和维持心流，并提供了重启执行力的实用方法。
+tags:
+- productivity
+- psychology
+- state
+- strategy
+title: 告别低效努力：掌握“心流”的秘密，实现专注学习与工作
 ---
+
 ### 专注的本质：意志力还是心流？
 
 过去我曾认为，学习和工作难以专注是因为意志力不足。我曾以为，只要意志力足够强大，就能做到专注。但随着时间的推移，我发现事实并非如此。越是强迫自己专注，反而越是难以集中。这就像睡觉一样，越想睡着，越睡不着。

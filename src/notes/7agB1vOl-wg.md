@@ -1,69 +1,70 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Linux Foundation
+- Google
+- Apple
+- Qualcomm
+- Samsung
+- Debian
+- Red Hat
+- IBM
+- Novell
+- SUSE
+- Microsoft
+- Uber
+- MIT
+- Stanford University
+- Linaro
 date: '2025-07-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Code Complete
+- Programming Pearls
+people:
+- Greg Kroah-Hartman
+- Linus Torvalds
+- Johan
+- Chester
+- Sasha
+products_models:
+- Linux
+- Android
+- Chromebook
+- iPhone
+- Mac
+- Pixel
+- Raspberry Pi
+- Windows
+- Git
+- GitHub
+- Minix
+- Rust
+- Zig
+- Hair
+- C
+- C++
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=7agB1vOl-wg
 speaker: The Pragmatic Engineer
-tags:
-  - open-source-development
-  - release-cycle
-  - maintainer-model
-  - trust-based-collaboration
-  - kernel-architecture
-title: 揭秘 Linux 开发：信任、代码与九周发布周期
-summary: Linux 内核维护者 Greg Kroah-Hartman 深入剖析了这一全球应用最广泛的操作系统的构建过程。本文详细介绍了 Linux 严格的九周发布周期、基于信任的层级式代码审查与合并流程，并通过一个真实的补丁提交案例，展示了从开发者到 Linus Torvalds 的完整路径。此外，还探讨了为何手机的代码复杂度是服务器的三倍、开源贡献的职业价值，以及在 C 语言主导的内核中引入 Rust 的挑战与未来。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Greg Kroah-Hartman
-  - Linus Torvalds
-  - Johan
-  - Chester
-  - Sasha
-companies_orgs:
-  - Linux Foundation
-  - Google
-  - Apple
-  - Qualcomm
-  - Samsung
-  - Debian
-  - Red Hat
-  - IBM
-  - Novell
-  - SUSE
-  - Microsoft
-  - Uber
-  - MIT
-  - Stanford University
-  - Linaro
-products_models:
-  - Linux
-  - Android
-  - Chromebook
-  - iPhone
-  - Mac
-  - Pixel
-  - Raspberry Pi
-  - Windows
-  - Git
-  - GitHub
-  - Minix
-  - Rust
-  - Zig
-  - Hair
-  - C
-  - C++
-media_books:
-  - Code Complete
-  - Programming Pearls
 status: evergreen
+summary: Linux 内核维护者 Greg Kroah-Hartman 深入剖析了这一全球应用最广泛的操作系统的构建过程。本文详细介绍了 Linux 严格的九周发布周期、基于信任的层级式代码审查与合并流程，并通过一个真实的补丁提交案例，展示了从开发者到
+  Linus Torvalds 的完整路径。此外，还探讨了为何手机的代码复杂度是服务器的三倍、开源贡献的职业价值，以及在 C 语言主导的内核中引入 Rust 的挑战与未来。
+tags:
+- architecture
+- cycle
+- development
+- model
+- trust
+title: 揭秘 Linux 开发：信任、代码与九周发布周期
 ---
+
 ### 引言：Linux 的九周发布周期
 
 Linux 有一个为期九周的发布周期，因为每隔九周就会有一个新版本发布。当 Linus Torvalds 在某个时间点发布一个版本后，**合并窗口**（Merge Window: 指的是允许新功能代码合入主干分支的特定时间段）就会开启。在接下来的两周内，所有的维护者会把他们自上个版本以来积累的待处理内容全部发送给 Linus。我们有两周时间来添加所有新功能，然后他会发布第一个**候选版本**（Release Candidate 1: 简称 RC1，是正式版发布前供测试的预览版本）。从那时起的接下来七周，就只进行漏洞修复。所以，这期间只有漏洞修复、回归修复，我们会回滚一些东西，但不会再有新功能。

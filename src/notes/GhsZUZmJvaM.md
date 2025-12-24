@@ -1,37 +1,33 @@
 ---
-author: Veritasium
-date: '2019-08-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=GhsZUZmJvaM
-speaker: Veritasium
-tags:
-  - veritasium
-  - mars-helicopter
-  - space-exploration
-  - aerodynamics
-  - autonomous-flight
-  - engineering-challenges
-title: 火星直升机：在稀薄大气中飞行的工程奇迹
-summary: 本文深入探讨了火星直升机——首个在地球以外星球上进行动力飞行的无人机——的工程挑战与创新。文章详细介绍了火星稀薄大气、低重力环境对直升机设计的影响，包括高速旋转的旋翼、轻量化结构、以及独特的测试方法如重力卸载和模拟火星大气的真空室。此外，还阐述了其自主飞行系统、能源管理策略及未来在深空探索中的潜在应用。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-  - ai-impact-analysis
-people: []
+category: technology
 companies_orgs:
-  - Jet Propulsion Laboratory
+- Jet Propulsion Laboratory
+date: '2019-08-10'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 products_models:
-  - Mars helicopter
-  - Mars 2020 mission
-  - Vega missions
-media_books: []
+- Mars helicopter
+- Mars 2020 mission
+- Vega missions
+project:
+- systems-thinking
+- ai-impact-analysis
+series: ''
+source: https://www.youtube.com/watch?v=GhsZUZmJvaM
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了火星直升机——首个在地球以外星球上进行动力飞行的无人机——的工程挑战与创新。文章详细介绍了火星稀薄大气、低重力环境对直升机设计的影响，包括高速旋转的旋翼、轻量化结构、以及独特的测试方法如重力卸载和模拟火星大气的真空室。此外，还阐述了其自主飞行系统、能源管理策略及未来在深空探索中的潜在应用。
+tags:
+- challenge
+- geopolitical
+- science
+- space-exploration
+title: 火星直升机：在稀薄大气中飞行的工程奇迹
 ---
+
 ### 火星直升机：突破地外飞行极限
 
 主持人: 我现在在帕萨迪纳的**喷气推进实验室**（Jet Propulsion Laboratory: 美国国家航空航天局（NASA）下属的一个研究中心，主要负责行星探测任务），我来这里是为了看第一架将在另一个星球上飞行的无人机，那就是**火星直升机**（Mars Helicopter: 首个在地球以外星球上进行动力飞行的无人机）。

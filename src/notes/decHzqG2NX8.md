@@ -1,43 +1,42 @@
 ---
-author: TED
+area: society-systems
+category: general
+companies_orgs:
+- Tencent
+- Gasgene
+- Feynman Dynamics
+- Yuanchu
+- Moguang
+- TED
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Xu Hao
+products_models:
+- CRISPR
+- CarbonX Program
+- sustainable aviation fuel
+project:
+- systems-thinking
+- entrepreneurship
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=decHzqG2NX8
 speaker: TED
-tags:
-  - low-carbon-solutions
-  - decarbonization
-  - climate-change-innovation
-  - sustainable-manufacturing
-  - industrial-scale-up
-title: 如何将污染转化为玩具、牙膏及更多产品：加速低碳解决方案
-summary: 腾讯的徐浩分享了如何通过科学、工程和商业的协同作用，加速全球低碳解决方案的落地。他以乙醇发展为例，引出CarbonX项目，并介绍了Gasgene、Feynman Dynamics、Yuanchu和Moguang等创新公司。这些公司利用前沿科技将二氧化碳转化为日常用品、生产可持续航空燃料、制造更便宜的碳酸钙，并开发出能减缓冰川融化的辐射制冷材料。演讲强调，通过早期整合多方智慧，我们能更快实现净零排放和更清洁的未来，对未来充满乐观。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-  - china-analysis
-people:
-  - Xu Hao
-companies_orgs:
-  - Tencent
-  - Gasgene
-  - Feynman Dynamics
-  - Yuanchu
-  - Moguang
-  - TED
-products_models:
-  - CRISPR
-  - CarbonX Program
-  - sustainable aviation fuel
-media_books: []
 status: evergreen
+summary: 腾讯的徐浩分享了如何通过科学、工程和商业的协同作用，加速全球低碳解决方案的落地。他以乙醇发展为例，引出CarbonX项目，并介绍了Gasgene、Feynman
+  Dynamics、Yuanchu和Moguang等创新公司。这些公司利用前沿科技将二氧化碳转化为日常用品、生产可持续航空燃料、制造更便宜的碳酸钙，并开发出能减缓冰川融化的辐射制冷材料。演讲强调，通过早期整合多方智慧，我们能更快实现净零排放和更清洁的未来，对未来充满乐观。
+tags:
+- environment
+- geopolitical
+- innovation
+- manufacturing
+title: 如何将污染转化为玩具、牙膏及更多产品：加速低碳解决方案
 ---
+
 ### 科学、工程与商业：加速低碳转型
 
 人类使用酒精已有数千年历史。

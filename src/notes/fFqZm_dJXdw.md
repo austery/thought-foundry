@@ -1,52 +1,52 @@
 ---
-author: How I AI
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- Work OS
+- OpenAI
+- Perplexity AI
+- Cursor
+- Miro
+- AI Product Academy
+- Maven
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Marilyn Nika
+- Clarvo
+- Mark Cuban
+products_models:
+- Perplexity
+- Vzero Lovable
+- Google AI Studio
+- Flow
+- Sora
+- Notebook LM
+- Endopath
+- Study Buddy
+- Front Desk
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=fFqZm_dJXdw
 speaker: How I AI
-tags:
-  - ai-product-management
-  - workflow-automation
-  - market-research-ai
-  - ai-prototyping
-  - ai-video-generation
-title: AI赋能产品经理：革新工作流程，从构思到发布的高效实践
-summary: 本期节目深入探讨了人工智能如何彻底改变产品经理的工作方式。Google的AI产品负责人Marilyn Nika分享了她如何利用AI工具进行市场调研、生成产品需求文档（PRD）、快速构建原型，甚至通过AI视频生成影响利益相关者。节目还展示了AI作为评审在Demo Day中的创新应用，强调了AI增强型产品经理在未来竞争中的优势。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Marilyn Nika
-  - Clarvo
-  - Mark Cuban
-companies_orgs:
-  - Google
-  - Work OS
-  - OpenAI
-  - Perplexity AI
-  - Cursor
-  - Miro
-  - AI Product Academy
-  - Maven
-products_models:
-  - Perplexity
-  - Vzero Lovable
-  - Google AI Studio
-  - Flow
-  - Sora
-  - Notebook LM
-  - Endopath
-  - Study Buddy
-  - Front Desk
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了人工智能如何彻底改变产品经理的工作方式。Google的AI产品负责人Marilyn Nika分享了她如何利用AI工具进行市场调研、生成产品需求文档（PRD）、快速构建原型，甚至通过AI视频生成影响利益相关者。节目还展示了AI作为评审在Demo
+  Day中的创新应用，强调了AI增强型产品经理在未来竞争中的优势。
+tags:
+- generation
+- llm
+- management
+- market
+- workflow-automation
+title: AI赋能产品经理：革新工作流程，从构思到发布的高效实践
 ---
+
 ### AI赋能产品经理：提升效率与影响力
 
 当所有我们日常使用的工具开始涌现时，我开始思考如何成为一名**AI增强型产品经理**（AI Enhanced PM: 利用人工智能工具和技术来提升产品管理效率和效果的产品经理）。

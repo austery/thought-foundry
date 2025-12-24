@@ -1,52 +1,53 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Nvidia
+- OpenAI
+- Microsoft
+- Sega
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Terminator
+people:
+- Jensen Huang
+- Joe Rogan
+- Donald Trump
+- Elon Musk
+- Geoffrey Hinton
+- Ilya Sutskever
+- Alex Krizhevsky
+- Shoichiro Irimajiri
+products_models:
+- Direct3D
+- RIVA 128
+- DGX-1
+- AlexNet
+- GPT
+- ChatGPT
+- GTX 580
+project:
+- us-analysis
+- historical-insights
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=caKyQNfj9BM
 speaker: Best Partners TV
-tags:
-  - ai-future
-  - energy-competition
-  - nvidias-journey
-  - fear-as-motivation
-title: 黄仁勋的AI远见：能源、恐惧与英伟达的生存之道
-summary: 本文回顾了英伟达CEO黄仁勋与乔·罗根的深度对话。内容涵盖黄仁勋对人工智能未来的看法，强调AI发展与能源战略的紧密联系，并以冷静的视角化解公众对AI的恐惧。同时，文章深入探讨了英伟达1993年濒临倒闭的危机时刻，以及公司如何通过对深度学习的长期投入奠定AI时代的领导地位。黄仁勋还分享了他作为移民少年在逆境中形成的‘恐惧驱动’的个人哲学，并为年轻人提供了拥抱AI的实用建议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - ai-impact-analysis
-people:
-  - Jensen Huang
-  - Joe Rogan
-  - Donald Trump
-  - Elon Musk
-  - Geoffrey Hinton
-  - Ilya Sutskever
-  - Alex Krizhevsky
-  - Shoichiro Irimajiri
-companies_orgs:
-  - Nvidia
-  - OpenAI
-  - Microsoft
-  - Sega
-products_models:
-  - Direct3D
-  - RIVA 128
-  - DGX-1
-  - AlexNet
-  - GPT
-  - ChatGPT
-  - GTX 580
-media_books:
-  - The Terminator
 status: evergreen
+summary: 本文回顾了英伟达CEO黄仁勋与乔·罗根的深度对话。内容涵盖黄仁勋对人工智能未来的看法，强调AI发展与能源战略的紧密联系，并以冷静的视角化解公众对AI的恐惧。同时，文章深入探讨了英伟达1993年濒临倒闭的危机时刻，以及公司如何通过对深度学习的长期投入奠定AI时代的领导地位。黄仁勋还分享了他作为移民少年在逆境中形成的‘恐惧驱动’的个人哲学，并为年轻人提供了拥抱AI的实用建议。
+tags:
+- energy
+- future
+- psychology
+title: 黄仁勋的AI远见：能源、恐惧与英伟达的生存之道
+companies:
+- nvidias-journey
 ---
+
 ### 黄仁勋的AI远见：能源、恐惧与英伟达的生存之道
 
 在人类科技变革的最前沿，英伟达CEO黄仁勋无疑是站在聚光灯下的人物。他将一家游戏显卡公司打造成全球市值巅峰的企业，成为人工智能时代的“军火商”。最近，黄仁勋做客了全美顶流播客节目，与主持人乔·罗根（Joe Rogan）进行了长达数小时的深度对话，内容不仅涉及芯片与AI，更触及人类命运、能源未来以及个人成长。

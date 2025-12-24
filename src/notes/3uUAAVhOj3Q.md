@@ -1,38 +1,35 @@
 ---
-author: 夸克说
+area: society-systems
+category: general
+companies_orgs:
+- 恒大
+- 碧桂园
+- 万科
+- 住建部
+- 国务院
+- 浙工大
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3uUAAVhOj3Q
 speaker: 夸克说
-tags:
-  - urban-planning
-  - real-estate
-  - property-rights
-  - urban-decay
-  - infrastructure
-title: 中国高层住宅的潜在危机：从香港大火到产权陷阱
-summary: 本文分析了中国高层住宅面临的诸多问题，从香港宏福苑大火等安全隐患，到房屋质量、维修费用、产权年限以及拆迁重建等方面的挑战。文章指出，由于建筑质量、维护不足以及土地所有权等因素，中国的高层住宅可能面临快速贬值和难以重建的困境，并探讨了与其他国家高层住宅所有权模式的差异。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people: []
-companies_orgs:
-  - 恒大
-  - 碧桂园
-  - 万科
-  - 住建部
-  - 国务院
-  - 浙工大
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文分析了中国高层住宅面临的诸多问题，从香港宏福苑大火等安全隐患，到房屋质量、维修费用、产权年限以及拆迁重建等方面的挑战。文章指出，由于建筑质量、维护不足以及土地所有权等因素，中国的高层住宅可能面临快速贬值和难以重建的困境，并探讨了与其他国家高层住宅所有权模式的差异。
+tags:
+- infrastructure
+- real
+- right
+- urban
+title: 中国高层住宅的潜在危机：从香港大火到产权陷阱
 ---
+
 ### 中国高层住宅的火灾隐患与楼房质量问题
 
 大家好，欢迎收看夸克说，我是夸克。上期节目我讲了中国的城市为什么基本都住楼房，并和其他的一些国家进行了对比。因为时间所限，关于楼房的种种弊端，只讲到了上世纪70年代以来，各国的拆除高楼运动，并没有详细展开。然而，刚过了两天，位于香港大埔的鸿福院，就发生了香港44年来最严重的火灾。

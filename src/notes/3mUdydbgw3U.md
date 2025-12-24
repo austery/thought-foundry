@@ -1,26 +1,25 @@
 ---
-title: 稳定币深度解析：金融维稳与赌场扩张的双重真相
-summary: null
 area: null
-category: null
-project: []
-tags:
-  - 加密货币
-  - 稳定币
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
 author: Lei
-speaker: 政經孫老師
+category: null
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project: []
 series: null
 source: https://www.youtube.com/watch?v=3mUdydbgw3U&t
+speaker: 政經孫老師
+summary: null
+tags:
+- crypto
+- stablecoin
+title: 稳定币深度解析：金融维稳与赌场扩张的双重真相
 ---
+
 总字数：约 7,800 字 \| 预计阅读时间：约 26 分钟
 
 

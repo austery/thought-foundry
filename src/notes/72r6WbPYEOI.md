@@ -1,93 +1,93 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- S&P 500
+- Palantir
+- Robin Hood
+- Google
+- AMD
+- SoFi
+- Amazon
+- Meta
+- Rocket Lab
+- Coinbase
+- Wells Fargo
+- Cisco
+- Federal Reserve
+- OpenAI
+- Nvidia
+- Broadcom
+- Grab
+- Microsoft
+- Apple
+- Tesla
+- Salesforce
+- PayPal
+- Intel
+- Uber
+- Dell
+- SMCI
+- Verizon
+- Twilio
+- Roku
+- Chevron
+- Exxon
+- JPMorgan Chase
+- Oracle
+- Boeing
+- Wharton
+- Axios
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- Substack
+people:
+- Tom Lee
+- Elon Musk
+- Joe Rogan
+- Peter Thiel
+- Jerome Powell
+- Mark Newton
+- Jeffrey Gundlock
+- Michael Burry
+- Donald Trump
+- Mike Johnson
+- Jamie Dimon
+- Larry Fink
+- Alex Hungate
+- Alex Karp
+- Jim Cramer
+- Lisa Su
+- Mark Zuckerberg
+products_models:
+- AWS
+- Tesla Roadster
+- SNAP
+- M2
+- GBTC
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=72r6WbPYEOI
 speaker: Amit Kukreja
-tags:
-  - bull-market
-  - investor-sentiment
-  - fed-rate-cut
-  - capital-expenditure
-  - earnings-growth
-title: 十月市场回顾与展望：科技巨头财报、美联储动向及牛市前景分析
-summary: 本文深入分析了美股在十月份的收官表现，市场展现出强大韧性，连续六个月收涨。内容涵盖了科技巨头（如亚马逊、Meta）的财报解读、Tom Lee对“最受憎恨的反弹”的量化分析，以及美联储降息预期与政府停摆等宏观因素对后市的影响。文章还探讨了投资者情绪、AI对利润率的提振作用，并展望了十一月的市场走势。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Tom Lee
-  - Elon Musk
-  - Joe Rogan
-  - Peter Thiel
-  - Jerome Powell
-  - Mark Newton
-  - Jeffrey Gundlock
-  - Michael Burry
-  - Donald Trump
-  - Mike Johnson
-  - Jamie Dimon
-  - Larry Fink
-  - Alex Hungate
-  - Alex Karp
-  - Jim Cramer
-  - Lisa Su
-  - Mark Zuckerberg
-companies_orgs:
-  - S&P 500
-  - Palantir
-  - Robin Hood
-  - Google
-  - AMD
-  - SoFi
-  - Amazon
-  - Meta
-  - Rocket Lab
-  - Coinbase
-  - Wells Fargo
-  - Cisco
-  - Federal Reserve
-  - OpenAI
-  - Nvidia
-  - Broadcom
-  - Grab
-  - Microsoft
-  - Apple
-  - Tesla
-  - Salesforce
-  - PayPal
-  - Intel
-  - Uber
-  - Dell
-  - SMCI
-  - Verizon
-  - Twilio
-  - Roku
-  - Chevron
-  - Exxon
-  - JPMorgan Chase
-  - Oracle
-  - Boeing
-  - Wharton
-  - Axios
-products_models:
-  - AWS
-  - Tesla Roadster
-  - SNAP
-  - M2
-  - GBTC
-media_books:
-  - Financial Times
-  - Substack
 status: evergreen
+summary: 本文深入分析了美股在十月份的收官表现，市场展现出强大韧性，连续六个月收涨。内容涵盖了科技巨头（如亚马逊、Meta）的财报解读、Tom Lee对“最受憎恨的反弹”的量化分析，以及美联储降息预期与政府停摆等宏观因素对后市的影响。文章还探讨了投资者情绪、AI对利润率的提振作用，并展望了十一月的市场走势。
+tags:
+- capital-expenditure
+- fed-rate-cut
+- growth
+- investor-sentiment
+- market
+title: 十月市场回顾与展望：科技巨头财报、美联储动向及牛市前景分析
 ---
+
 ### 十月市场收官：坚韧中收涨
 
 大家好，欢迎回到新一期的“市场收盘”节目。今天是十月的最后一天，我们即将结束十月份的行情。今年只剩下两个月了，看起来今天我们将以一个上涨的姿态收官。感谢大家的到来，我们有很多内容要讨论，自从早上市开盘直播以来，又出现了很多头条新闻。

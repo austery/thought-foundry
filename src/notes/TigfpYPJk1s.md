@@ -1,54 +1,53 @@
 ---
-author: Hung-yi Lee
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
+- Anthropic
+- Meta
+- Mistral
+- Google DeepMind
+- Hugging Face
 date: '2025-09-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《红楼梦》
+people:
+- Jensen Huang
+products_models:
+- ChatGPT
+- Gemini
+- Claude
+- Llama
+- WaveNet
+- Diffusion Model
+- Gemma
+- Colab
+- Transformers
+- PyTorch
+- JAX
+- OLAMA
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=TigfpYPJk1s
 speaker: Hung-yi Lee
-tags:
-  - language-models
-  - text-generation
-  - tokenization
-  - prompt-engineering
-  - open-source-ai
-title: 一堂课搞懂生成式AI：从“文字接龙”原理到代码实战
-summary: 本讲座深入浅出地剖析了生成式人工智能（如ChatGPT）的核心原理。讲师李宏毅解释了语言模型如何通过“文字接龙”和概率分布来生成文本，并探讨了Token、Prompt、世界知识、AI幻觉等关键概念。后半部分通过代码实战，演示了如何使用Hugging Face和开源模型（如Llama）进行文本生成，涵盖了从分词、模型调用到多轮对话的完整流程。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Hung-yi Lee
-  - Jensen Huang
-companies_orgs:
-  - OpenAI
-  - Google
-  - Anthropic
-  - Meta
-  - Mistral
-  - Google DeepMind
-  - Hugging Face
-products_models:
-  - ChatGPT
-  - Gemini
-  - Claude
-  - Llama
-  - WaveNet
-  - Diffusion Model
-  - Gemma
-  - Colab
-  - Transformers
-  - PyTorch
-  - JAX
-  - OLAMA
-media_books:
-  - 《红楼梦》
 status: evergreen
+summary: 本讲座深入浅出地剖析了生成式人工智能（如ChatGPT）的核心原理。讲师李宏毅解释了语言模型如何通过“文字接龙”和概率分布来生成文本，并探讨了Token、Prompt、世界知识、AI幻觉等关键概念。后半部分通过代码实战，演示了如何使用Hugging
+  Face和开源模型（如Llama）进行文本生成，涵盖了从分词、模型调用到多轮对话的完整流程。
+tags:
+- generation
+- investment
+- model
+- open-source-ai
+title: 一堂课搞懂生成式AI：从“文字接龙”原理到代码实战
 ---
+
 ### 课程概述：理解生成式AI背后的原理
 
 大家好，今天这堂课的目标是让大家一堂课搞懂生成式人工智慧的原理。我相信大家在日常生活中或多或少都有使用生成式人工智慧平台的经验，例如OpenAI的ChatGPT、Google的Gemini或是Anthropic的Claude。本课程希望让大家对这些生成式AI背后的运作原理有基本的认识。

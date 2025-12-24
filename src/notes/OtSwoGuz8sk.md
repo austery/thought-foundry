@@ -1,41 +1,41 @@
 ---
-author: TED
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OECD
+- Amazon
+- G20
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- TED
+people:
+- Esther Duflo
+- Warren Buffett
+- Jeff Bezos
+- Neto Setubal
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=OtSwoGuz8sk
 speaker: TED
-tags:
-  - climate-justice
-  - wealth-tax
-  - carbon-emissions
-  - global-inequality
-  - direct-cash-transfers
-title: 向富人征税以应对气候变化：一项全球正义的呼吁
-summary: 本文探讨了气候变化对贫困国家造成的巨大生命和经济损失，并指出富裕国家和富人对全球变暖负有道德责任。作者提出了一项大胆的解决方案：通过对全球最富有的3000人征收3%的财富税，以及将跨国公司最低税率从15%提高到21%，每年筹集数千亿美元。这些资金将通过直接现金转移的方式，帮助受气候变化影响最严重的贫困人口，以重建信任并推动全球气候行动。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - us-analysis
-people:
-  - Esther Duflo
-  - Warren Buffett
-  - Jeff Bezos
-  - Neto Setubal
-companies_orgs:
-  - OECD
-  - Amazon
-  - G20
-products_models: []
-media_books:
-  - TED
 status: evergreen
+summary: 本文探讨了气候变化对贫困国家造成的巨大生命和经济损失，并指出富裕国家和富人对全球变暖负有道德责任。作者提出了一项大胆的解决方案：通过对全球最富有的3000人征收3%的财富税，以及将跨国公司最低税率从15%提高到21%，每年筹集数千亿美元。这些资金将通过直接现金转移的方式，帮助受气候变化影响最严重的贫困人口，以重建信任并推动全球气候行动。
+tags:
+- cash
+- climate
+- environment
+- global
+- wealth
+title: 向富人征税以应对气候变化：一项全球正义的呼吁
 ---
+
 ### 气候变化的隐形杀手：贫困国家的生命代价
 
 多数时候，当我们思考气候变化时，脑海中会浮现出野火、风暴和洪水的画面。

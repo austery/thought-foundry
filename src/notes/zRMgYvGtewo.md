@@ -1,78 +1,77 @@
 ---
-author: 張内咸
+area: society-thinking
+category: politics-society
+companies_orgs:
+- YouTube
+- Netflix
+- Disney
+- Amazon
+- 中影
+- 万达
+- 博纳
+- 国民党
+- 民进党
+- 共产党
 date: '2025-04-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《热辣滚烫》
+- 《百元之恋》
+- 《猎狐行动》
+- 《悲情城市》
+- 《比悲伤更悲伤的故事》
+- 《我的少女时代》
+- 《周处除三害》
+- 《关于我和鬼变成家人的那件事》
+- 《FA电影欣赏》
+- 《自由时代周刊》
+- 《笑林广记》
+people:
+- 贾玲
+- 梁朝伟
+- 段奕宏
+- 侯孝贤
+- 杨德昌
+- 邓小平
+- 刘少奇
+- 江泽民
+- 胡锦涛
+- 勃列日涅夫
+- 赫鲁晓夫
+- 萨达姆
+- Xi Jinping
+- 毛泽东
+- 蒋介石
+- 郑南榕
+- 李敖
+- 闻一多
+- 李公朴
+- 弗朗哥
+- 庇隆
+- 纳瑟尔
+- 朴正熙
+- 北野武
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=zRMgYvGtewo
 speaker: 張内咸
-tags:
-  - film-industry-decline
-  - taiwan-strait-conflict
-  - political-polarization
-  - historical-narratives
-  - media-evolution
-title: 深度问答：电影产业衰落、洗钱疑云与台海统一的真实图景
-summary: 本期节目集中回答观众提问，深入探讨了全球电影产业的衰落趋势，分析了中国电影面临的独特困境，并揭示了电影制作作为洗钱工具的灰色地带。同时，节目还追溯了政治讽刺笑话的历史渊源，并对备受关注的台海统一议题进行了批判性分析，强调现代战争需以民间仇恨为基础，并反思了大陆对台湾历史认知的盲区，特别是郑南榕事件。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 贾玲
-  - 梁朝伟
-  - 段奕宏
-  - 侯孝贤
-  - 杨德昌
-  - 邓小平
-  - 刘少奇
-  - 江泽民
-  - 胡锦涛
-  - 勃列日涅夫
-  - 赫鲁晓夫
-  - 萨达姆
-  - 习近平
-  - 毛泽东
-  - 蒋介石
-  - 郑南榕
-  - 李敖
-  - 闻一多
-  - 李公朴
-  - 弗朗哥
-  - 庇隆
-  - 纳瑟尔
-  - 朴正熙
-  - 北野武
-companies_orgs:
-  - YouTube
-  - Netflix
-  - Disney
-  - Amazon
-  - 中影
-  - 万达
-  - 博纳
-  - 国民党
-  - 民进党
-  - 共产党
-products_models: []
-media_books:
-  - 《热辣滚烫》
-  - 《百元之恋》
-  - 《猎狐行动》
-  - 《悲情城市》
-  - 《比悲伤更悲伤的故事》
-  - 《我的少女时代》
-  - 《周处除三害》
-  - 《关于我和鬼变成家人的那件事》
-  - 《FA电影欣赏》
-  - 《自由时代周刊》
-  - 《笑林广记》
 status: evergreen
+summary: 本期节目集中回答观众提问，深入探讨了全球电影产业的衰落趋势，分析了中国电影面临的独特困境，并揭示了电影制作作为洗钱工具的灰色地带。同时，节目还追溯了政治讽刺笑话的历史渊源，并对备受关注的台海统一议题进行了批判性分析，强调现代战争需以民间仇恨为基础，并反思了大陆对台湾历史认知的盲区，特别是郑南榕事件。
+tags:
+- historical-narrative
+- industry
+- media
+- taiwan-strait-conflict
+title: 深度问答：电影产业衰落、洗钱疑云与台海统一的真实图景
 ---
+
 大家好，又见面了。前面十几期节目播出以后，每期节目的观看量大概在一千左右，这个频道在YouTube上应该算是非常小众的。虽然观众数量不多，但是水平很高，评论非常多。评论区当中出现的一些观众提问，我觉得非常有意思，如果只是在评论区随便回复几个字，感觉很浪费。所以我录了这期节目，集中回答一下前几个月的观众提问。这些观众提问有些是留言在评论区的，也有通过邮件发给我的。通过这期节目，我们可以把问答的内容分享给所有的观众，我觉得对大家来说都会有新的收获。当然并不是所有的观众留言都会回答，只是精选了一部分。精选出来的问题也是五花八门，为了节目的流畅度，稍微做了一下分类。一部分问题是关于娱乐和影视工业话题的，另一部分问题是关于政治和社会现象的。今天的节目内容先讲娱乐再讲政治，因为如果把这些问题全都掺杂在一起的话，聊起来会很乱。
 
 ### 电影工业的衰落与流变

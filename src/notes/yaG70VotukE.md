@@ -1,47 +1,45 @@
 ---
-author: How I AI
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Pendo
+- Google
+- Google DeepMind
+- LaunchDarkly
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Brian Greenbaum
+- Andrew Ing
+- Mark
+products_models:
+- Cursor
+- Figma
+- Spotify
+- Bolt.new
+- Midjourney
+- Gemini 2.5 Pro
+- Gemini 2.5 Flash
+- Gemini 2.5 Flash Light
+- Claude
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=yaG70VotukE
 speaker: How I AI
-tags:
-  - ai-adoption
-  - product-management
-  - design
-  - llm
-  - prompt-engineering
-title: 如何让你的团队对AI充满热情并实际运用它 | Brian Greenbaum (Pendo)
-summary: 本期节目中，Pendo的产品负责人Brian Greenbaum分享了他如何激发整个产品团队（包括设计师和产品经理）对AI的热情并推动其广泛采用。他详细介绍了通过同步互动会议和异步Slack渠道进行AI技能提升的策略，强调了创建AI知识中心和明确使用政策的重要性。Brian还分享了他利用AI构建内部工具，展示其价值，从而影响公司产品路线图的成功经验。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Brian Greenbaum
-  - Andrew Ing
-  - Mark
-companies_orgs:
-  - Pendo
-  - Google
-  - Google DeepMind
-  - LaunchDarkly
-products_models:
-  - Cursor
-  - Figma
-  - Spotify
-  - Bolt.new
-  - Midjourney
-  - Gemini 2.5 Pro
-  - Gemini 2.5 Flash
-  - Gemini 2.5 Flash Light
-  - Claude
-media_books: []
 status: evergreen
+summary: 本期节目中，Pendo的产品负责人Brian Greenbaum分享了他如何激发整个产品团队（包括设计师和产品经理）对AI的热情并推动其广泛采用。他详细介绍了通过同步互动会议和异步Slack渠道进行AI技能提升的策略，强调了创建AI知识中心和明确使用政策的重要性。Brian还分享了他利用AI构建内部工具，展示其价值，从而影响公司产品路线图的成功经验。
+tags:
+- ai-adoption
+- design
+- product-management
+title: 如何让你的团队对AI充满热情并实际运用它 | Brian Greenbaum (Pendo)
 ---
+
 ### AI赋能产品团队的契机
 
 在一次深刻的体验之后，我立即意识到需要提升整个产品团队的技能水平，不仅是设计师，还包括产品经理。我们需要更熟悉 **AI技术**（Artificial Intelligence: 模拟人类智能的机器系统），并理解如何运用它。我休陪产假时发出的这条信息，成功激发了领导们的极大热情。我当时并不完全清楚事情会如何发展，只知道需要让更多人关注 **AI**。主持人指出，如果你是第一个站出来表示要探索团队如何利用 **AI**、并愿意领导这一变革的人，这将是一个独特的领导机会，能够展示跨职能的广泛影响力。

@@ -1,136 +1,137 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- S&P 500
+- Dell
+- Abercrombie & Fitch
+- HP
+- Workday
+- Zscaler
+- Zoom
+- CleanSpark
+- Autodesk
+- Federal Reserve
+- Google
+- OpenAI
+- Salesforce
+- Berkshire Hathaway
+- Meta
+- Wedbush
+- Novo Nordisk
+- Eli Lilly
+- Oscar Health
+- Politico
+- UnitedHealth Group
+- Elevance Health
+- National Guard
+- Bank of America
+- Amazon
+- NATO
+- Substack
+- Evercore ISI
+- Morgan Stanley
+- Fundstrat
+- Disney
+- Bloomberg
+- Vanguard
+- Binance
+- Grab
+- GoTo
+- SoftBank
+- Rocket Lab
+- Palantir
+- Bitmine
+- Robinhood
+- Coinbase
+- MicroStrategy
+- Alibaba
+- Goldman Sachs
+- Apple
+- Broadcom
+- Amkor Technology
+- Microsoft
+- Blue Owl Capital
+- JPMorgan
+- SpaceX
+- Blue Origin
+- FCC
+- United Launch Alliance
+- Pershing Square
+- Universal Music Group
+- Fox
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- All-In Podcast
+- The Information
+- There Will Be Blood
+- Gangs of New York
+people:
+- Sam Altman
+- Marc Benioff
+- Sundar Pichai
+- Donald Trump
+- Murad Momani
+- Volodymyr Zelenskyy
+- Michael Burry
+- David Friedberg
+- Jensen Huang
+- Julian Emanuel
+- Mike Wilson
+- Mark Newton
+- Tom Lee
+- Patrick Cow
+- Jared Moskowitz
+- Bill Ackman
+- Xi Jinping
+- Andy Jassy
+- Paul Dano
+products_models:
+- Bitcoin
+- Gemini 3.0
+- ChatGPT
+- TPU
+- Ozempic
+- Wegovy
+- Affordable Care Act
+- Obamacare
+- Waymo
+- FSD
+- Blackwell GB200
+- Blackwell GB300
+- Nvidia A100
+- Vera Rubin
+- Ethereum
+- Qwen
+- Starlink
+- AWS
+- Project Kuiper
+- Grok
+- Nvidia H200
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Zddeo13g5Rg
 speaker: Amit Kukreja
-tags:
-  - market-outlook
-  - fed-policy
-  - ai-investment-theme
-  - capex-cycle
-  - gpu-depreciation
-title: 市场周评：谷歌AI引领科技股反弹，特朗普新政与美联储降息预期搅动全局
-summary: 本周市场在多重因素交织下展开。谷歌凭借其广受好评的Gemini 3.0模型以及与北约的云合作协议，股价飙升并创下历史新高，引领科技股反弹。与此同时，前总统特朗普提出的平价医疗法案（ACA）补贴延长计划，意外点燃了医疗保健板块，Oscar Health等公司股价大涨。市场对英伟达的看法出现分歧，尽管其业绩强劲，但关于GPU折旧的会计争议引发了激烈讨论。宏观层面，美联储官员的鸽派言论使得12月降息的概率大幅提升，成为支撑市场情绪的关键因素，而亚马逊宣布投资500亿美元建设政府AI基础设施，则为AI资本支出周期注入了新的强心剂。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Sam Altman
-  - Marc Benioff
-  - Sundar Pichai
-  - Donald Trump
-  - Murad Momani
-  - Volodymyr Zelenskyy
-  - Michael Burry
-  - David Friedberg
-  - Jensen Huang
-  - Julian Emanuel
-  - Mike Wilson
-  - Mark Newton
-  - Tom Lee
-  - Patrick Cow
-  - Jared Moskowitz
-  - Bill Ackman
-  - Xi Jinping
-  - Andy Jassy
-  - Paul Dano
-companies_orgs:
-  - Nvidia
-  - S&P 500
-  - Dell
-  - Abercrombie & Fitch
-  - HP
-  - Workday
-  - Zscaler
-  - Zoom
-  - CleanSpark
-  - Autodesk
-  - Federal Reserve
-  - Google
-  - OpenAI
-  - Salesforce
-  - Berkshire Hathaway
-  - Meta
-  - Wedbush
-  - Novo Nordisk
-  - Eli Lilly
-  - Oscar Health
-  - Politico
-  - UnitedHealth Group
-  - Elevance Health
-  - National Guard
-  - Bank of America
-  - Amazon
-  - NATO
-  - Substack
-  - Evercore ISI
-  - Morgan Stanley
-  - Fundstrat
-  - Disney
-  - Bloomberg
-  - Vanguard
-  - Binance
-  - Grab
-  - GoTo
-  - SoftBank
-  - Rocket Lab
-  - Palantir
-  - Bitmine
-  - Robinhood
-  - Coinbase
-  - MicroStrategy
-  - Alibaba
-  - Goldman Sachs
-  - Apple
-  - Broadcom
-  - Amkor Technology
-  - Microsoft
-  - Blue Owl Capital
-  - JPMorgan
-  - SpaceX
-  - Blue Origin
-  - FCC
-  - United Launch Alliance
-  - Pershing Square
-  - Universal Music Group
-  - Fox
-products_models:
-  - Bitcoin
-  - Gemini 3.0
-  - ChatGPT
-  - TPU
-  - Ozempic
-  - Wegovy
-  - Affordable Care Act
-  - Obamacare
-  - Waymo
-  - FSD
-  - Blackwell GB200
-  - Blackwell GB300
-  - Nvidia A100
-  - Vera Rubin
-  - Ethereum
-  - Qwen
-  - Starlink
-  - AWS
-  - Project Kuiper
-  - Grok
-  - Nvidia H200
-media_books:
-  - All-In Podcast
-  - The Information
-  - There Will Be Blood
-  - Gangs of New York
 status: evergreen
+summary: 本周市场在多重因素交织下展开。谷歌凭借其广受好评的Gemini 3.0模型以及与北约的云合作协议，股价飙升并创下历史新高，引领科技股反弹。与此同时，前总统特朗普提出的平价医疗法案（ACA）补贴延长计划，意外点燃了医疗保健板块，Oscar
+  Health等公司股价大涨。市场对英伟达的看法出现分歧，尽管其业绩强劲，但关于GPU折旧的会计争议引发了激烈讨论。宏观层面，美联储官员的鸽派言论使得12月降息的概率大幅提升，成为支撑市场情绪的关键因素，而亚马逊宣布投资500亿美元建设政府AI基础设施，则为AI资本支出周期注入了新的强心剂。
+tags:
+- ai-investment-theme
+- cycle
+- fed-policy
+- market-outlook
+- technology
+title: 市场周评：谷歌AI引领科技股反弹，特朗普新政与美联储降息预期搅动全局
 ---
+
 ### 市场周初展望：感恩节前的平静与动荡
 
 大家早上好，欢迎回到新一期的市场开盘直播。现在是周一早上，我们正式开始了十一月的最后一周，这感觉有点疯狂，因为大约七天后我们就要进入十二月了，甚至很难想象 2025 年即将结束。

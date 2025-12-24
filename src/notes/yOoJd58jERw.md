@@ -1,51 +1,50 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Apollo Global Management
+- Norges Bank Investment Management
+- Drexel Burnham
+- GE Capital
+- Blackstone
+- EQT
+- KKR
+- Pimco
+- BlackRock
+- Fidelity
+- Citibank
 date: '2024-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Marc Rowan
+- Nicolai Tangen
+- Warren Buffett
+products_models:
+- S&P 500
+- ETFs
+- 401k
+- Spotify
+- OpenAI
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=yOoJd58jERw
 speaker: Norges Bank Investment Management
-tags:
-  - private-credit
-  - asset-management
-  - market-liquidity
-  - investment-philosophy
-  - financial-system-evolution
-title: 阿波罗CEO马克·罗文：金融市场变革、私人信贷崛起与投资哲学
-summary: 阿波罗全球管理公司（Apollo Global Management）首席执行官马克·罗文在播客中深入探讨了另类资产管理行业的演变。他指出，私人信贷正在取代银行的部分职能，成为长期资本的重要来源，尤其是在基础设施和能源转型等领域。罗文强调了阿波罗“购买价格至关重要”的投资哲学，以及在市场波动中坚持获取超额收益（Alpha）而非市场风险（Beta）的策略。他还分享了对当前市场风险、领导力文化和未来金融产品发展的看法，并预测私人市场将与公共市场趋同，呼吁投资者重新思考资产配置。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Marc Rowan
-  - Nicolai Tangen
-  - Warren Buffett
-companies_orgs:
-  - Apollo Global Management
-  - Norges Bank Investment Management
-  - Drexel Burnham
-  - GE Capital
-  - Blackstone
-  - EQT
-  - KKR
-  - Pimco
-  - BlackRock
-  - Fidelity
-  - Citibank
-products_models:
-  - S&P 500
-  - ETFs
-  - 401k
-  - Spotify
-  - OpenAI
-media_books: []
 status: evergreen
+summary: 阿波罗全球管理公司（Apollo Global Management）首席执行官马克·罗文在播客中深入探讨了另类资产管理行业的演变。他指出，私人信贷正在取代银行的部分职能，成为长期资本的重要来源，尤其是在基础设施和能源转型等领域。罗文强调了阿波罗“购买价格至关重要”的投资哲学，以及在市场波动中坚持获取超额收益（Alpha）而非市场风险（Beta）的策略。他还分享了对当前市场风险、领导力文化和未来金融产品发展的看法，并预测私人市场将与公共市场趋同，呼吁投资者重新思考资产配置。
+tags:
+- asset-management
+- investment-philosophy
+- market-liquidity
+- private-credit
+- system
+title: 阿波罗CEO马克·罗文：金融市场变革、私人信贷崛起与投资哲学
 ---
+
 ### 引言：金融界的远见者与阿波罗的崛起
 
 **Nicolai:** 大家好，我是挪威银行投资管理公司（**Norges Bank Investment Management**: 挪威主权财富基金，管理挪威政府全球养老基金）的首席执行官尼古拉·坦根。今天，我们有幸邀请到金融界的真正远见者马克·罗文（Marc Rowan），他是**阿波罗全球管理公司**（Apollo Global Management: 全球领先的另类资产管理公司之一）的联合创始人，该公司是全球最具影响力的**另类资产管理公司**（Alternative Asset Management Firm: 投资于股票、债券等传统资产之外的资产，如私募股权、对冲基金、房地产等）之一。

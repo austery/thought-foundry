@@ -1,43 +1,43 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: psychology
+companies_orgs:
+- Apple Podcasts
+- Etsy
+- New York Times Podcasts
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Mel Robbins Podcast
+- The Let Them Theory
+- The 5-Second Rule
+- The Wire Cutter Show
+- TED Talks
+people:
+- Mel Robbins
+- Kyra Blackwell
+- Rosie Garin
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Uq5teDMA5TA
 speaker: New York Times Podcasts
-tags:
-  - let-them-theory
-  - holiday-stress
-  - boundary-setting
-  - personal-acceptance
-  - emotional-regulation
-title: 梅尔·罗宾斯：如何运用“随他们去”理论，在假日季保持平静与理智
-summary: 本期节目邀请了个人成长专家梅尔·罗宾斯，她分享了其独特的“随他们去”理论，旨在帮助人们在充满挑战的假日季中保持内心的平静与理智。罗宾斯强调，该理论的核心在于接受他人的意见、行为和失望，并将注意力集中在自己可控的思想和行动上。她还回顾了自己从中年危机走向成功的经历，并提供了关于设定界限、处理家庭关系、应对评判以及培养自我接纳的实用建议，以期建立更健康的人际关系和实现真正的自我转变。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Mel Robbins
-  - Kyra Blackwell
-  - Rosie Garin
-companies_orgs:
-  - Apple Podcasts
-  - Etsy
-  - New York Times Podcasts
-products_models: []
-media_books:
-  - The Mel Robbins Podcast
-  - The Let Them Theory
-  - The 5-Second Rule
-  - The Wire Cutter Show
-  - TED Talks
 status: evergreen
+summary: 本期节目邀请了个人成长专家梅尔·罗宾斯，她分享了其独特的“随他们去”理论，旨在帮助人们在充满挑战的假日季中保持内心的平静与理智。罗宾斯强调，该理论的核心在于接受他人的意见、行为和失望，并将注意力集中在自己可控的思想和行动上。她还回顾了自己从中年危机走向成功的经历，并提供了关于设定界限、处理家庭关系、应对评判以及培养自我接纳的实用建议，以期建立更健康的人际关系和实现真正的自我转变。
+tags:
+- emotional-regulation
+- personal
+- psychology
+- technology
+- theory
+title: 梅尔·罗宾斯：如何运用“随他们去”理论，在假日季保持平静与理智
 ---
+
 ### 接受他人的意见与情绪
 
 让他们持有自己的观点。

@@ -1,33 +1,31 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: culture
+companies_orgs:
+- Providence City Court
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Frank Caprio
+- Antonio Caprio
+products_models: []
+project:
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=GyuUOp1eKcE
 speaker: 徒步的騎手
-tags:
-  - judicial-philosophy
-  - compassion-in-law
-  - human-centered-justice
-  - social-responsibility
-title: 法官卡普里奥的遗产：当法律的天平遇见人性的温度
-summary: 弗兰克·卡普里奥法官，一位美国地方法院的法官，因其独特的审判风格和深刻的人文关怀而闻名全球。本文探讨了他如何将同情心和理解融入到冰冷的法律条文中，通过分析他处理的几个经典案例，揭示了他“法律之下，人性至上”的司法哲学。文章不仅回顾了他从贫寒移民家庭到受人尊敬的法官的历程，更重要的是，展现了他留给世界的宝贵精神遗产——在规则与人情之间找到最佳平衡的智慧。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - personal-growth-lab
-people:
-  - Frank Caprio
-  - Antonio Caprio
-companies_orgs:
-  - Providence City Court
-products_models: []
-media_books: []
 status: evergreen
+summary: 弗兰克·卡普里奥法官，一位美国地方法院的法官，因其独特的审判风格和深刻的人文关怀而闻名全球。本文探讨了他如何将同情心和理解融入到冰冷的法律条文中，通过分析他处理的几个经典案例，揭示了他“法律之下，人性至上”的司法哲学。文章不仅回顾了他从贫寒移民家庭到受人尊敬的法官的历程，更重要的是，展现了他留给世界的宝贵精神遗产——在规则与人情之间找到最佳平衡的智慧。
+tags:
+- human
+- law
+- philosophy
+- social
+title: 法官卡普里奥的遗产：当法律的天平遇见人性的温度
 ---
 
 ### 一位感动世界的地方法官

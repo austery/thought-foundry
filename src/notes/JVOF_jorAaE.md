@@ -1,31 +1,30 @@
 ---
-title: 亚当·斯密的真实面貌：资本主义之父被误解的愿景
-summary: 本文深入探讨了被誉为“资本主义之父”的苏格兰哲学家亚当·斯密的真实思想。纠正了普遍存在的误解，揭示了他如何将经济学视为一种道德哲学，旨在构建一个让普通人享有尊严的社会。文章详细阐述了劳动分工、看不见的手、商业的真正目的以及消费者力量等核心概念，强调了斯密对社会福祉的深切关怀。
 area: market-analysis
 category: finance
-project: []
-tags:
-- capitalism-reimagined
-- consumer-impact
-- division-of-labor
-- economic-philosophy
-- invisible-hand
-people:
-- adam-s-axiom
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-05-16'
-author: Adam's Axiom
-speaker: Adam's Axiom
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- adam-s-axiom
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JVOF_jorAaE
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了被誉为“资本主义之父”的苏格兰哲学家亚当·斯密的真实思想。纠正了普遍存在的误解，揭示了他如何将经济学视为一种道德哲学，旨在构建一个让普通人享有尊严的社会。文章详细阐述了劳动分工、看不见的手、商业的真正目的以及消费者力量等核心概念，强调了斯密对社会福祉的深切关怀。
+tags:
+- economic
+- impact
+- investment
+- invisible-hand
+- labor
+title: 亚当·斯密的真实面貌：资本主义之父被误解的愿景
 ---
+
 ### 亚当·斯密：被误解的资本主义之父
 
 当你听到“资本主义之父”时，脑海中会浮现出什么？是一个戴着高礼帽的冷酷商人？还是一个在工人受苦时只顾数钱的无情工厂主？几代人以来，我们一直将**亚当·斯密**（Adam Smith: 苏格兰经济学家和哲学家，被誉为现代经济学之父）与历史上最无情的经济恶棍归为一类。毫无疑问，这位为我们市场经济创建蓝图的人，一定痴迷于不惜一切代价追求利润。但令人震惊的真相是，真正的亚当·斯密会对这种描绘感到震惊。

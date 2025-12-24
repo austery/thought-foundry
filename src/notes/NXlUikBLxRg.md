@@ -1,79 +1,80 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Purdue Pharma
+- FDA
+- DEA
+- Roche
+- Pfizer
+- IMS Health
+- Nichols Dezenhall
+- Memorial Sloan Kettering Cancer Center
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Medical Tribune
+- The Daily Times
+- Canadian Medical Association Journal
+- Forbes
+- Pain Killer
+people:
+- Arthur Sackler
+- Raymond Sackler
+- Mortimer Sackler
+- Russell Portenoy
+- Catherine Foley
+- Henry Welch
+- Cecily Saunders
+- Curtis Wright IV
+- Art Van Zee
+- Greg Stewart
+- Lindsey Myers
+- Jane Myers
+- David Haddox
+- Jay McCloskey
+- Robin Hogan
+- Mark Alfonso
+- Susan Bertrand
+- Randy Ramseyer
+- Rick Mountcastle
+- Laura Nagel
+- Rudy Giuliani
+- Asa Hutchinson
+- Howard Udell
+- Maureen Sara
+- Gordon Heim
+- Sister Beth Davies
+- Barry Meier
+products_models:
+- OxyContin
+- Valium
+- MS Contin
+- Talwin NX
+- Fentanyl
+- Heroin
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=NXlUikBLxRg
 speaker: 北美王路飞
-tags:
-  - opioid-crisis
-  - pharmaceutical-marketing
-  - regulatory-capture
-  - corporate-greed
-  - public-health
-title: 痛苦帝国：奥施康定如何引爆美国阿片危机
-summary: 本文深入剖析萨克勒家族和普渡制药如何通过欺骗性营销、收买科学及利用监管漏洞，将奥施康定推向市场，最终引爆美国史上最严重的阿片类药物滥用危机。文章揭示了制药巨头如何系统性地将谎言包装成“奇迹疗法”，导致数十万人死亡，并探讨了这场“化学战争”背后的多方合谋与深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Arthur Sackler
-  - Raymond Sackler
-  - Mortimer Sackler
-  - Russell Portenoy
-  - Catherine Foley
-  - Henry Welch
-  - Cecily Saunders
-  - Curtis Wright IV
-  - Art Van Zee
-  - Greg Stewart
-  - Lindsey Myers
-  - Jane Myers
-  - David Haddox
-  - Jay McCloskey
-  - Robin Hogan
-  - Mark Alfonso
-  - Susan Bertrand
-  - Randy Ramseyer
-  - Rick Mountcastle
-  - Laura Nagel
-  - Rudy Giuliani
-  - Asa Hutchinson
-  - Howard Udell
-  - Maureen Sara
-  - Gordon Heim
-  - Sister Beth Davies
-  - Barry Meier
-companies_orgs:
-  - Purdue Pharma
-  - FDA
-  - DEA
-  - Roche
-  - Pfizer
-  - IMS Health
-  - Nichols Dezenhall
-  - Memorial Sloan Kettering Cancer Center
-products_models:
-  - OxyContin
-  - Valium
-  - MS Contin
-  - Talwin NX
-  - Fentanyl
-  - Heroin
-media_books:
-  - Medical Tribune
-  - The Daily Times
-  - Canadian Medical Association Journal
-  - Forbes
-  - Pain Killer
 status: evergreen
+summary: 本文深入剖析萨克勒家族和普渡制药如何通过欺骗性营销、收买科学及利用监管漏洞，将奥施康定推向市场，最终引爆美国史上最严重的阿片类药物滥用危机。文章揭示了制药巨头如何系统性地将谎言包装成“奇迹疗法”，导致数十万人死亡，并探讨了这场“化学战争”背后的多方合谋与深远影响。
+tags:
+- corporate
+- crisis
+- public-health
+- regulatory
+title: 痛苦帝国：奥施康定如何引爆美国阿片危机
+companies:
+- pharmaceutical-marketing
 ---
+
 ### 萨克勒家族的表象与奥施康定的阴影
 
 在纽约大都会艺术博物馆的萨克勒翼，阳光透过巨大的玻璃幕墙，洒落在丹泽神庙上。这里是人类文明的结晶，是艺术、历史和美的殿堂。在哈佛、耶鲁、牛津和卢浮宫，**萨克勒家族**（Sackler family: 普渡制药的拥有者家族）的名字被镌刻在人类最顶级的学术和艺术机构的墙壁上。这是一个曾代表着慷慨、博爱和高尚品味的家族。

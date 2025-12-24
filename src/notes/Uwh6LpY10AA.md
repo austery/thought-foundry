@@ -1,44 +1,43 @@
 ---
-author: 徒步的騎手
-date: 2024-12-27
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=Uwh6LpY10AA'
-speaker: 徒步的騎手
-tags:
-  - unequal-starting-points
-  - personal-resilience
-  - overcoming-fear
-  - life-philosophy
-  - societal-critique
-title: 不要怕：人生起跑线与平等的追求
-summary: 本文探讨了个人生活与国家大事的相对重要性，并结合德国哲学家海德格尔的观点，强调语言对三观的塑造。通过圣诞故事中“不要害怕”的启示、美国与中国的贫富差距、以及“生在第三垒”的棒球比喻，阐述了“生而不平等”的现实。文章最终以多位女性的励志故事为例，鼓励人们在面对低起跑线和不确定性时，要心怀希望，凭借毅力奔跑，追求生命中的平等与爱。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - historical-insights
-people:
-  - 马廷·海德格尔
-  - 耶稣
-  - 玛利亚
-  - 佛祖释迦牟尼
-  - 先知穆罕默德
-  - Margaret McNeil
-  - Morgan Hurd
+category: psychology
 companies_orgs:
-  - 北大
-  - 哈佛
-  - 美国海军学院
-products_models: '[]'
+- 北大
+- 哈佛
+- 美国海军学院
+date: 2024-12-27
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《路加福音》
-  - 《詹姆斯王清定本圣经》
+- 《路加福音》
+- 《詹姆斯王清定本圣经》
+people:
+- 马廷·海德格尔
+- 耶稣
+- 玛利亚
+- 佛祖释迦牟尼
+- 先知穆罕默德
+- Margaret McNeil
+- Morgan Hurd
+products_models: '[]'
+project:
+- personal-growth-lab
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=Uwh6LpY10AA
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了个人生活与国家大事的相对重要性，并结合德国哲学家海德格尔的观点，强调语言对三观的塑造。通过圣诞故事中“不要害怕”的启示、美国与中国的贫富差距、以及“生在第三垒”的棒球比喻，阐述了“生而不平等”的现实。文章最终以多位女性的励志故事为例，鼓励人们在面对低起跑线和不确定性时，要心怀希望，凭借毅力奔跑，追求生命中的平等与爱。
+tags:
+- life-philosophy
+- personal-resilience
+- psychology
+- science
+- societal
+title: 不要怕：人生起跑线与平等的追求
 ---
 
 ### “国家大事”与“生活大事”：语言与三观的塑造

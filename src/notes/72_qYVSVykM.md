@@ -1,139 +1,138 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- SoFi
+- Meta
+- Google
+- Microsoft
+- Amazon
+- Apple
+- Nvidia
+- AMD
+- PayPal
+- Intel
+- Deckers
+- Tesla
+- Reddit
+- e.l.f. Beauty
+- Bitmine
+- Super Micro Computer
+- Enphase Energy
+- Palo Alto Networks
+- Nebius
+- IREN
+- Cipher Mining
+- CleanSpark
+- HIVE Digital Technologies
+- Bitfarms
+- Marathon Digital
+- Riot Platforms
+- Oklo
+- Rocket Lab
+- Roblox
+- Uber
+- Coinbase
+- OpenDoor
+- CoreWeave
+- MicroStrategy
+- Amkor Technology
+- Asset Entities
+- Alibaba
+- JD.com
+- Hims & Hers Health
+- Oscar Health
+- Baidu
+- Beyond Meat
+- MP Materials
+- Citigroup
+- JPMorgan Chase
+- Truist Financial
+- SoftBank
+- UiPath
+- QXO
+- GXO Logistics
+- BNY Mellon
+- Netscape
+- OpenAI
+- Goldman Sachs
+- Bank of America
+- Cadence Design Systems
+- Whirlpool
+- Royal Caribbean
+- UPS
+- Visa
+- The Cheesecake Factory
+- Mondelēz International
+- Broadcom
+- Salesforce
+- BigBear.ai
+- Duolingo
+- Circle
+- Tether
+- Galaxy Digital
+- Grab
+- Zelle
+- Andreessen Horowitz
+- The New York Times
+- Forbes
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Philosopher in the Valley
+people:
+- Steve Fiorillo
+- Michael Steinberger
+- Alex Karp
+- Donald Trump
+- Xi Jinping
+- Bent
+- Greer
+- Mike Alfred
+- Tom Lee
+- Mark Newton
+- Warren Buffett
+- Jensen Huang
+- Lisa Su
+- Brad Jacob
+- Timothy Mellon
+- Andrew Mellon
+products_models:
+- S&P 500
+- NASDAQ
+- VIX
+- Dow Jones Industrial Average
+- Bitcoin
+- Ethereum
+- Substack
+- iPhone 17
+- ChatGPT
+- Neutron
+- Oreo
+- Russell 2000
+- KraneShares CSI China Internet ETF
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=72_qYVSVykM
 speaker: Amit Kukreja
-tags:
-  - us-china-trade-deal
-  - market-rally
-  - buy-the-dip
-  - earnings-season
-  - federal-reserve
-title: 中美贸易协议曙光初现，市场或迎新一轮飙升
-summary: 市场情绪高涨，股指期货全线飘绿，预示着一个激动人心的交易周。核心驱动力是中美贸易谈判取得重大进展，似乎即将达成协议。本文深入分析了这一宏观利好，并结合即将到来的美联储利率决议、大型科技公司财报周等关键事件，探讨了市场“逢低买入”策略的有效性以及未来可能出现的“融涨”行情。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Amit Kukreja
-  - Steve Fiorillo
-  - Michael Steinberger
-  - Alex Karp
-  - Donald Trump
-  - Xi Jinping
-  - Bent
-  - Greer
-  - Mike Alfred
-  - Tom Lee
-  - Mark Newton
-  - Warren Buffett
-  - Jensen Huang
-  - Lisa Su
-  - Brad Jacob
-  - Timothy Mellon
-  - Andrew Mellon
-companies_orgs:
-  - Palantir
-  - SoFi
-  - Meta
-  - Google
-  - Microsoft
-  - Amazon
-  - Apple
-  - Nvidia
-  - AMD
-  - PayPal
-  - Intel
-  - Deckers
-  - Tesla
-  - Reddit
-  - e.l.f. Beauty
-  - Bitmine
-  - Super Micro Computer
-  - Enphase Energy
-  - Palo Alto Networks
-  - Nebius
-  - IREN
-  - Cipher Mining
-  - CleanSpark
-  - HIVE Digital Technologies
-  - Bitfarms
-  - Marathon Digital
-  - Riot Platforms
-  - Oklo
-  - Rocket Lab
-  - Roblox
-  - Uber
-  - Coinbase
-  - OpenDoor
-  - CoreWeave
-  - MicroStrategy
-  - Amkor Technology
-  - Asset Entities
-  - Alibaba
-  - JD.com
-  - Hims & Hers Health
-  - Oscar Health
-  - Baidu
-  - Beyond Meat
-  - MP Materials
-  - Citigroup
-  - JPMorgan Chase
-  - Truist Financial
-  - SoftBank
-  - UiPath
-  - QXO
-  - GXO Logistics
-  - BNY Mellon
-  - Netscape
-  - OpenAI
-  - Goldman Sachs
-  - Bank of America
-  - Cadence Design Systems
-  - Whirlpool
-  - Royal Caribbean
-  - UPS
-  - Visa
-  - The Cheesecake Factory
-  - Mondelēz International
-  - Broadcom
-  - Salesforce
-  - BigBear.ai
-  - Duolingo
-  - Circle
-  - Tether
-  - Galaxy Digital
-  - Grab
-  - Zelle
-  - Andreessen Horowitz
-  - The New York Times
-  - Forbes
-products_models:
-  - S&P 500
-  - NASDAQ
-  - VIX
-  - Dow Jones Industrial Average
-  - Bitcoin
-  - Ethereum
-  - Substack
-  - iPhone 17
-  - ChatGPT
-  - Neutron
-  - Oreo
-  - Russell 2000
-  - KraneShares CSI China Internet ETF
-media_books:
-  - The Philosopher in the Valley
 status: evergreen
+summary: 市场情绪高涨，股指期货全线飘绿，预示着一个激动人心的交易周。核心驱动力是中美贸易谈判取得重大进展，似乎即将达成协议。本文深入分析了这一宏观利好，并结合即将到来的美联储利率决议、大型科技公司财报周等关键事件，探讨了市场“逢低买入”策略的有效性以及未来可能出现的“融涨”行情。
+tags:
+- china
+- earnings-season
+- federal-reserve
+- investment
+- market
+title: 中美贸易协议曙光初现，市场或迎新一轮飙升
 ---
+
 ### 市场全线飘绿，新高或在眼前
 
 大家好，欢迎回到新一期的《市场未来秀》。我们正在直播，天哪，这周一早上真是太刺激了。当我们从周日晚上过渡到市场开盘时，情况变得非常令人兴奋。很明显，我们正在上涨，女士们先生们。对于那些还没看到的人来说，股指期货全线飘绿。

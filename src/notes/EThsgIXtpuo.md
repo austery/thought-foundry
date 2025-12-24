@@ -1,33 +1,30 @@
 ---
-title: 市场周报：美联储政策转向、阿根廷援助与AI泡沫警示
-summary: 本周市场焦点：白银飙升，加密货币走弱。深入探讨美联储内部利率政策分歧、美国财政部对阿根廷的战略性援助，以及AI投资热潮中潜在的泡沫风险。
-area: market-analysis
-category: finance
-project:
-- ai-impact-analysis
-- geopolitics-watch
-tags:
-- ai-bubble
-- argentina-economy
-- federal-reserve
-- geopolitics
-- monetary-policy
-people:
-- joseph-wang
+area: society-thinking
+category: politics-society
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-27'
-author: Joseph Wang
-speaker: Joseph Wang
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- joseph-wang
+products_models: []
+project:
+- ai-impact-analysis
+- geopolitics-watch
 series: ''
 source: https://www.youtube.com/watch?v=EThsgIXtpuo
+speaker: Joseph Wang
 status: evergreen
+summary: 本周市场焦点：白银飙升，加密货币走弱。深入探讨美联储内部利率政策分歧、美国财政部对阿根廷的战略性援助，以及AI投资热潮中潜在的泡沫风险。
+tags:
+- ai-bubble
+- economy
+- federal-reserve
+title: 市场周报：美联储政策转向、阿根廷援助与AI泡沫警示
 ---
+
 ### 市场回顾与本周焦点
 
 Hello, my friends. Today is September 27th, and this is Markets Weekly. This past week, the equity markets were kind of boring, not much going on, but I think there was some real action in some corners of the market.

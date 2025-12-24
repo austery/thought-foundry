@@ -1,57 +1,57 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Deutsche Welle
+- FBI
+- Daily Telegraph
+- 民进党
 date: '2023-06-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人选之人-造浪者》
+- 《纸牌屋》
+- 《卫报》
+- 《Redstockings宣言》
+- 《房思琪的初恋乐园》
+people:
+- Luis Fitzgerald
+- 彭仁郁
+- Kevin Spacey
+- Geoffrey Rush
+- Harvey Weinstein
+- Louis CK
+- Marinda Fricker
+- Kate Manne
+- Catherine Mackinnon
+- Primo Levi
+- Brock Turner
+- Simone de Beauvoir
+- Bell Hooks
+- Justin Baldoni
+- Mary Wollstonecraft
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=tST7Znl64vg
 speaker: 超級歪 SuperY
-tags:
-  - me-too-movement
-  - sexual-harassment
-  - patriarchal-culture
-  - gender-inequality
-  - testimonial-injustice
-  - himpathy
-title: 台湾#MeToo运动深度解析：父权文化下的司法困境与社会觉醒
-summary: 2023年，台湾#MeToo运动在剧集《人选之人-造浪者》播出后迅速蔓延，揭示了性骚扰事件长期存在的深层社会问题。本文深入探讨了受害者为何难以立即举报、法律系统在性骚扰案件中的失灵，以及“作证不正义”和“他者同情”等现象。文章强调，#MeToo运动为受害者提供了法律之外的替代性正义途径，并呼吁男性积极参与反思父权文化、挑战有毒的男性气质，共同推动台湾社会的性别平等革命。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Luis Fitzgerald
-  - 彭仁郁
-  - Kevin Spacey
-  - Geoffrey Rush
-  - Harvey Weinstein
-  - Louis CK
-  - Marinda Fricker
-  - Kate Manne
-  - Catherine Mackinnon
-  - Primo Levi
-  - Brock Turner
-  - Simone de Beauvoir
-  - Bell Hooks
-  - Justin Baldoni
-  - Mary Wollstonecraft
-companies_orgs:
-  - Deutsche Welle
-  - FBI
-  - Daily Telegraph
-  - 民进党
-products_models: []
-media_books:
-  - 《人选之人-造浪者》
-  - 《纸牌屋》
-  - 《卫报》
-  - 《Redstockings宣言》
-  - 《房思琪的初恋乐园》
 status: evergreen
+summary: 2023年，台湾#MeToo运动在剧集《人选之人-造浪者》播出后迅速蔓延，揭示了性骚扰事件长期存在的深层社会问题。本文深入探讨了受害者为何难以立即举报、法律系统在性骚扰案件中的失灵，以及“作证不正义”和“他者同情”等现象。文章强调，#MeToo运动为受害者提供了法律之外的替代性正义途径，并呼吁男性积极参与反思父权文化、挑战有毒的男性气质，共同推动台湾社会的性别平等革命。
+tags:
+- culture
+- gender-inequality
+- geopolitical
+- himpathy
+- movement
+- society
+title: 台湾#MeToo运动深度解析：父权文化下的司法困境与社会觉醒
 ---
+
 ### 台湾#MeToo运动的爆发与质疑
 
 2023年，台湾电视剧《人选之人-造浪者》热播后，台湾政坛爆发多起性骚扰丑闻，随后蔓延至学界、艺文界和演艺圈，每天都有多起性骚扰事件被揭露，台湾的**#MeToo运动**（MeToo Movement: 一场旨在揭露和谴责性骚扰与性侵犯的社会运动）终于到来。这一运动甚至登上了国际媒体德国之声。我们应如何看待这场运动？如何理解性骚扰的根本原因？这场运动是否有机会带来台湾近二十年来最重大的性别平等改革？首先，让我们从对#MeToo运动最常见的质疑开始：受害者为何不立即举报？为何到现在才说？是不是想跟风？

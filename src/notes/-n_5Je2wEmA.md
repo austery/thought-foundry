@@ -1,35 +1,35 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-06-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《那不勒斯四部曲》
+people:
+- 金子
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=-n_5Je2wEmA
 speaker: 一席YiXi
-tags:
-  - class-migration
-  - educational-pressure
-  - emotional-suppression
-  - meaningless-leisure
-  - identity-fragmentation
-title: 牡蛎给芝加哥带来了海，我给北京带来了一所河南的高中
-summary: 一位来自河南小镇的女性讲述她从高压高考体制走向北京时尚圈的经历，揭示‘小镇做题家’在阶级跃迁中的精神创伤、身份撕裂与对无意义快乐的重新追寻。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - personal-growth-lab
-people:
-  - 金子
-companies_orgs: []
-products_models: []
-media_books:
-  - 《那不勒斯四部曲》
 status: evergreen
+summary: 一位来自河南小镇的女性讲述她从高压高考体制走向北京时尚圈的经历，揭示‘小镇做题家’在阶级跃迁中的精神创伤、身份撕裂与对无意义快乐的重新追寻。
+tags:
+- class
+- emotional
+- identity
+- psychology
+- society
+title: 牡蛎给芝加哥带来了海，我给北京带来了一所河南的高中
 ---
+
 ### 一个河南女孩的“非典型”成长叙事
 
 大家好，我是金子。今天我不是以一个人民大学研究生、时尚杂志新媒体负责人或新晋作家的身份站在这里，而是作为一个河南人——一个在北京工作、带着河南高中烙印的普通人。

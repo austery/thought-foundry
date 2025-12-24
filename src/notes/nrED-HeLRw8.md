@@ -1,39 +1,39 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- McKenzie Health Institute
+- Health Canada
+- Canadian Institutes of Health Research
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- (MIS)Treated
+people:
+- Nam Kiwanuka
+- Marani Belo
+- Amber Mack
+products_models:
+- AI
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=nrED-HeLRw8
 speaker: TVO Today
-tags:
-  - women-health
-  - economic-impact
-  - healthcare-gap
-  - research-funding
-  - national-strategy
-title: 女性健康与经济：加拿大370亿加元的机遇与挑战
-summary: 麦肯锡健康研究所的一份报告揭示，女性健康与职场生产力之间存在深刻关联。报告指出，解决加拿大女性健康方面的差距，将为加拿大经济带来至少370亿加元的增长机会。文章深入探讨了女性健康问题远超生殖健康范畴，涵盖癌症、心血管疾病和心理健康等，并指出数据、疗效和护理方面存在严重鸿沟。为弥合这些差距，报告呼吁加拿大制定一项协调、负责任的国家女性健康战略，以期在全球范围内树立典范。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - Nam Kiwanuka
-  - Marani Belo
-  - Amber Mack
-companies_orgs:
-  - McKenzie Health Institute
-  - Health Canada
-  - Canadian Institutes of Health Research
-products_models:
-  - AI
-media_books:
-  - (MIS)Treated
 status: evergreen
+summary: 麦肯锡健康研究所的一份报告揭示，女性健康与职场生产力之间存在深刻关联。报告指出，解决加拿大女性健康方面的差距，将为加拿大经济带来至少370亿加元的增长机会。文章深入探讨了女性健康问题远超生殖健康范畴，涵盖癌症、心血管疾病和心理健康等，并指出数据、疗效和护理方面存在严重鸿沟。为弥合这些差距，报告呼吁加拿大制定一项协调、负责任的国家女性健康战略，以期在全球范围内树立典范。
+tags:
+- economic-impact
+- gap
+- health
+- research
+- strategy
+title: 女性健康与经济：加拿大370亿加元的机遇与挑战
 ---
+
 ### 女性健康与经济的深度关联
 
 您正在收听《(MIS)Treated》节目，我是Nam Kiwanuka。去年十月，**McKenzie健康研究所**（McKenzie Health Institute: 一家致力于健康研究和分析的机构）发布了一项分析报告，指出女性健康与职场生产力之间存在深刻的相互关联。

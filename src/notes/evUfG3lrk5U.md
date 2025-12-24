@@ -1,38 +1,36 @@
 ---
-author: Veritasium
-date: '2022-11-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=evUfG3lrk5U
-speaker: Veritasium
-tags:
-  - veritasium
-  - supernova
-  - gamma-ray-burst
-  - stellar-evolution
-  - cosmic-radiation
-  - mass-extinction
-title: 如果恒星在地球附近爆炸会怎样？超新星、伽马射线暴及其对生命的影响
-summary: 本文探讨了恒星在地球附近爆炸的潜在影响，重点介绍了超新星和伽马射线暴这两种宇宙中最强大的爆炸。文章解释了恒星如何从稳定的核聚变走向剧烈死亡，特别是铁核的形成和中微子的关键作用。此外，它还讨论了这些宇宙事件可能对地球生命造成的辐射威胁，以及它们在地球历史（如大灭绝）和太阳系形成中的意外作用。通过历史观测和现代科学发现，揭示了这些罕见但极具影响力的天文现象。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Johannes Kepler
+category: science
 companies_orgs:
-  - Brilliant
-products_models:
-  - Vela satellites
+- Brilliant
+date: '2022-11-15'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - De Stella Nova
-  - The Last Economy
+- De Stella Nova
+- The Last Economy
+people:
+- Johannes Kepler
+products_models:
+- Vela satellites
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=evUfG3lrk5U
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了恒星在地球附近爆炸的潜在影响，重点介绍了超新星和伽马射线暴这两种宇宙中最强大的爆炸。文章解释了恒星如何从稳定的核聚变走向剧烈死亡，特别是铁核的形成和中微子的关键作用。此外，它还讨论了这些宇宙事件可能对地球生命造成的辐射威胁，以及它们在地球历史（如大灭绝）和太阳系形成中的意外作用。通过历史观测和现代科学发现，揭示了这些罕见但极具影响力的天文现象。
+tags:
+- evolution
+- mass-extinction
+- science
+- supernovum
+title: 如果恒星在地球附近爆炸会怎样？超新星、伽马射线暴及其对生命的影响
 ---
+
 ### 恒星爆炸的惊人力量与超新星的诞生
 
 如果一颗恒星在地球附近爆炸，会发生什么？

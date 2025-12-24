@@ -1,59 +1,58 @@
 ---
-author: 王红雨
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Canada Post
+- TD Bank
+- CIBC
+- National Bank of Canada
+- Air Canada
+- Telus
+- Canadian Pacific Railway
+- Canadian Commercial Bank
+- Canada Pension Plan Investment Board (CPPIB)
+- BC Bank
 date: '2025-06-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Canadian Income 2023》
+- 《经济学》
+people:
+- Yuval Noah Harari
+- Mankiw
+products_models:
+- 401K
+- IRA
+- RSP
+- TFSA
+- OAS
+- GIS
+- CPP
+- DB Pension
+- DC Pension
+- IRP
+- Whole Life Insurance
+- Life Annuity
+project:
+- investment-strategy
+- personal-growth-lab
+- fire-movement
+series: ''
 source: https://www.youtube.com/watch?v=Q5yG7Xqo6es
 speaker: 王红雨
-tags:
-  - retirement-planning
-  - pension-systems
-  - investment-strategies
-  - financial-independence
-  - longevity-risk
-title: 加拿大退休金制度深度解析：高额养老金的秘密与个人应对策略
-summary: 本期节目深入探讨了加拿大退休金制度的构成，揭示了目前老年人较高税后收入的来源，特别是企业终生年金（DB计划）的关键作用。随着DB计划的逐步退出，个人养老金规划面临挑战。文章详细比较了政府、企业和个人养老金的特点，并提出了在信息和AI时代，个人如何通过投资房产、分红保险、年金等多种资产配置，将收入转化为退休后的稳定现金流，以应对长寿风险和不断变化的经济环境。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - personal-growth-lab
-  - fire-movement
-people:
-  - Yuval Noah Harari
-  - Mankiw
-companies_orgs:
-  - Canada Post
-  - TD Bank
-  - CIBC
-  - National Bank of Canada
-  - Air Canada
-  - Telus
-  - Canadian Pacific Railway
-  - Canadian Commercial Bank
-  - Canada Pension Plan Investment Board (CPPIB)
-  - BC Bank
-products_models:
-  - 401K
-  - IRA
-  - RSP
-  - TFSA
-  - OAS
-  - GIS
-  - CPP
-  - DB Pension
-  - DC Pension
-  - IRP
-  - Whole Life Insurance
-  - Life Annuity
-media_books:
-  - 《Canadian Income 2023》
-  - 《经济学》
 status: evergreen
+summary: 本期节目深入探讨了加拿大退休金制度的构成，揭示了目前老年人较高税后收入的来源，特别是企业终生年金（DB计划）的关键作用。随着DB计划的逐步退出，个人养老金规划面临挑战。文章详细比较了政府、企业和个人养老金的特点，并提出了在信息和AI时代，个人如何通过投资房产、分红保险、年金等多种资产配置，将收入转化为退休后的稳定现金流，以应对长寿风险和不断变化的经济环境。
+tags:
+- financial-independence
+- retirement-planning
+- risk
+- system
+title: 加拿大退休金制度深度解析：高额养老金的秘密与个人应对策略
 ---
+
 ### 加拿大老年人高收入之谜
 
 大家好，今天是2025年6月5号，欢迎大家回到我的频道。接着上次我们聊的加拿大人退休金话题，我们曾提到一份报告显示，2023年加拿大65岁以上老年家庭的中位数税后年收入达到79,700加元，相当于8万块钱。很多朋友对此感到惊讶，今天我们就来分析一下，为什么目前这波老年人的退休金如此之高，以及我们未来退休时能否达到这个水平。

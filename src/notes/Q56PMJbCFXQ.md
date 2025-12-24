@@ -1,56 +1,55 @@
 ---
-author: Veritasium
-date: '2025-04-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Q56PMJbCFXQ
-speaker: Veritasium
-tags:
-  - veritasium
-  - structural-engineering
-  - engineering-ethics
-  - wind-loads
-  - tuned-mass-damper
-  - crisis-management
-title: 学生提问如何拯救了纽约花旗中心摩天大楼
-summary: 1978年，纽约花旗中心（Citicorp Center）的结构工程师比尔·勒梅苏里耶发现这座摩天大楼存在致命缺陷：在特定风向下有倒塌风险。面对职业声誉和数千人性命的抉择，勒梅苏里耶启动了秘密修复计划，最终成功加固大楼。这个故事不仅展现了工程学的挑战与创新，更成为工程伦理的经典案例，强调了专业责任的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Bill LeMessurier
-  - Ralph Peterson
-  - Hugh Stubbins
-  - Alan Davenport
-  - Diane Hartley
-  - Lee DeCarolis
-  - Walter Wriston
+category: technology
 companies_orgs:
-  - Citicorp
-  - Saint Peter's
-  - Veritasium
-  - Red Cross
-  - AT&T
-  - The New York Times
-  - LeMessurier Associates
-  - Boston Properties
-  - National Institute of Standards and Technology
-  - American Institute of Architects
-  - Columbia Space Initiative
-products_models:
-  - Citicorp Center
-  - Tuned Mass Damper
-  - Saily
+- Citicorp
+- Saint Peter's
+- Veritasium
+- Red Cross
+- AT&T
+- The New York Times
+- LeMessurier Associates
+- Boston Properties
+- National Institute of Standards and Technology
+- American Institute of Architects
+- Columbia Space Initiative
+date: '2025-04-26'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The New Yorker
-  - BBC
+- The New Yorker
+- BBC
+people:
+- Bill LeMessurier
+- Ralph Peterson
+- Hugh Stubbins
+- Alan Davenport
+- Diane Hartley
+- Lee DeCarolis
+- Walter Wriston
+products_models:
+- Citicorp Center
+- Tuned Mass Damper
+- Saily
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=Q56PMJbCFXQ
+speaker: veritasium
 status: evergreen
+summary: 1978年，纽约花旗中心（Citicorp Center）的结构工程师比尔·勒梅苏里耶发现这座摩天大楼存在致命缺陷：在特定风向下有倒塌风险。面对职业声誉和数千人性命的抉择，勒梅苏里耶启动了秘密修复计划，最终成功加固大楼。这个故事不仅展现了工程学的挑战与创新，更成为工程伦理的经典案例，强调了专业责任的重要性。
+tags:
+- crisis-management
+- engineering
+- ethics
+- tuned-mass-damper
+- wind-load
+title: 学生提问如何拯救了纽约花旗中心摩天大楼
 ---
+
 ### 纽约花旗中心：一场被学生提问揭示的工程危机
 
 这里是**花旗中心**（Citicorp Center: 位于纽约曼哈顿的一座摩天大楼）。

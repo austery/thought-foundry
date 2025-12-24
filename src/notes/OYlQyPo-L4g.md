@@ -1,47 +1,44 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: business
+companies_orgs:
+- OpenAI
+- Anthropic
+- Google
+- Microsoft
+- Shopify
+- Asana
+- Monday.com
+- Marketo
 date: '2025-09-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- ChatGPT
+- Claude
+- Gemini
+- GitHub Copilot
+- Midjourney
+- GPT
+- LLM
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=OYlQyPo-L4g
 speaker: TechButMakeItReal
-tags:
-  - ai-business-models
-  - profit-margins
-  - unit-economics
-  - hype-cycle
-  - saas-economics
-title: 为什么大多数AI初创公司都不是好生意
-summary: 本文深入探讨了AI初创公司，特别是那些纯粹基于生成式AI（GenAI）构建的公司的经济困境。与传统SaaS（软件即服务）产品的高利润率相比，GenAI原生应用面临着显著更低的利润率和高昂的单位运营成本。文章指出，即使是ChatGPT这样的行业领导者，其付费用户转化率也异常低下，且许多AI产品依赖“僵尸订阅”和媒体炒作而非实际产品价值。最终，作者强调了可持续AI业务的关键在于将AI作为增强现有价值的工具，而非产品本身的核心，并建议关注解决传统“无聊”行业中实际问题的AI应用。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people: []
-companies_orgs:
-  - OpenAI
-  - Anthropic
-  - Google
-  - Microsoft
-  - Shopify
-  - Asana
-  - Monday.com
-  - Marketo
-products_models:
-  - ChatGPT
-  - Claude
-  - Gemini
-  - GitHub Copilot
-  - Midjourney
-  - GPT
-  - LLM
-media_books: []
 status: evergreen
+summary: 本文深入探讨了AI初创公司，特别是那些纯粹基于生成式AI（GenAI）构建的公司的经济困境。与传统SaaS（软件即服务）产品的高利润率相比，GenAI原生应用面临着显著更低的利润率和高昂的单位运营成本。文章指出，即使是ChatGPT这样的行业领导者，其付费用户转化率也异常低下，且许多AI产品依赖“僵尸订阅”和媒体炒作而非实际产品价值。最终，作者强调了可持续AI业务的关键在于将AI作为增强现有价值的工具，而非产品本身的核心，并建议关注解决传统“无聊”行业中实际问题的AI应用。
+tags:
+- ai-business-model
+- business
+- cycle
+- financial
+title: 为什么大多数AI初创公司都不是好生意
 ---
+
 ### AI应用浪潮下的经济现实
 
 发布应用程序从未如此简单。

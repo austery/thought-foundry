@@ -1,45 +1,44 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 伯克希尔·哈撒韦
+- 步步高集团
+- 网易
+- 苹果
+- 贵州茅台
+- 通用电气
+- 拼多多
 date: '2024-05-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《福布斯》
+people:
+- 段永平
+- 巴菲特
+- 查理·芒格
+- Greg Abel
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xfWc-WOcOYo
 speaker: Shijun Tang
-tags:
-  - value-investing
-  - cash-reserves
-  - market-cycles
-  - inflation-hedging
-  - cash-flow-valuation
-title: 来自中国的隐形巨鲸：段永平的投资哲学与巴菲特的现金策略
-summary: 本文深度解析中国投资者段永平如何以价值投资理念成就百亿财富，同时剖析巴菲特2024年减持苹果背后的深层动机——高利率环境、资本利得税预期与保险准备金需求，揭示价值投资在动荡市场中的真正力量。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 段永平
-  - 巴菲特
-  - 查理·芒格
-  - Greg Abel
-companies_orgs:
-  - 伯克希尔·哈撒韦
-  - 步步高集团
-  - 网易
-  - 苹果
-  - 贵州茅台
-  - 通用电气
-  - 拼多多
-products_models: []
-media_books:
-  - 《福布斯》
 status: evergreen
+summary: 本文深度解析中国投资者段永平如何以价值投资理念成就百亿财富，同时剖析巴菲特2024年减持苹果背后的深层动机——高利率环境、资本利得税预期与保险准备金需求，揭示价值投资在动荡市场中的真正力量。
+tags:
+- cash
+- cash-flow-valuation
+- inflation-hedging
+- market-cycle
+title: 来自中国的隐形巨鲸：段永平的投资哲学与巴菲特的现金策略
 ---
+
 ### 中国隐形巨鲸：段永平的低调财富之路
 
 这周，我通过YouTube认识了一个人——段永平。他在90年代就创建了两家巨型航母级公司，旗下品牌在其竞争领域都是行业翘楚。他一掷千金，拍下与股神巴菲特共进午餐的机会；他激流勇退，却在股市中傲视群雄；他热衷慈善，为母校累计捐款已超一亿人民币。没错，这个人就是段永平。

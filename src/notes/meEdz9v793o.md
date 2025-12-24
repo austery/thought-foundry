@@ -1,54 +1,53 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: psychology
+companies_orgs:
+- Norges Bank Investment Management
+- UK Met Office
+- Google DeepMind
+- Moorfields Hospital
+- World Anti-Doping Agency
+- Winton Capital Management
+- NHS
+- Bureau of Labor Statistics
+- UK Statistics Authority
 date: '2025-09-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicolai Tangen
+- Sir David Spiegelhalter
+- Barack Obama
+- Osama bin Laden
+- John Krebs
+- Jonathan Van-Tam
+- Robert F. Kennedy Jr.
+- Donald Trump
+- Daniel Ellsberg
+- Glenn Brier
+- Rachel Botsman
+- Bill Gates
+products_models:
+- AstraZeneca vaccine
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=meEdz9v793o
 speaker: Norges Bank Investment Management
-tags:
-  - risk-communication
-  - uncertainty-management
-  - evidence-based-decision-making
-  - public-trust
-  - resilience
-title: 统计学大师戴维·斯皮格尔哈尔特爵士论风险、不确定性与信任式沟通
-summary: 挪威主权财富基金首席执行官尼古拉·坦根与著名统计学家戴维·斯皮格尔哈尔特爵士深入探讨了人类心理学如何应对不确定性与风险。斯皮格尔哈尔特爵士分享了他对“理性”概念的批判，强调了在决策中想象力、多样化意见和判断力的重要性。他还讨论了数据在公共领域被武器化的问题，以及在危机中（如新冠疫情）进行可信赖沟通的五项原则。文章还触及了人工智能、气候风险和选举预测等多个领域，并强调了培养韧性以应对深层不确定性的核心价值。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Nicolai Tangen
-  - Sir David Spiegelhalter
-  - Barack Obama
-  - Osama bin Laden
-  - John Krebs
-  - Jonathan Van-Tam
-  - Robert F. Kennedy Jr.
-  - Donald Trump
-  - Daniel Ellsberg
-  - Glenn Brier
-  - Rachel Botsman
-  - Bill Gates
-companies_orgs:
-  - Norges Bank Investment Management
-  - UK Met Office
-  - Google DeepMind
-  - Moorfields Hospital
-  - World Anti-Doping Agency
-  - Winton Capital Management
-  - NHS
-  - Bureau of Labor Statistics
-  - UK Statistics Authority
-products_models:
-  - AstraZeneca vaccine
-media_books: []
 status: evergreen
+summary: 挪威主权财富基金首席执行官尼古拉·坦根与著名统计学家戴维·斯皮格尔哈尔特爵士深入探讨了人类心理学如何应对不确定性与风险。斯皮格尔哈尔特爵士分享了他对“理性”概念的批判，强调了在决策中想象力、多样化意见和判断力的重要性。他还讨论了数据在公共领域被武器化的问题，以及在危机中（如新冠疫情）进行可信赖沟通的五项原则。文章还触及了人工智能、气候风险和选举预测等多个领域，并强调了培养韧性以应对深层不确定性的核心价值。
+tags:
+- evidence-based-decision-making
+- management
+- public-trust
+- resilience
+- risk
+title: 统计学大师戴维·斯皮格尔哈尔特爵士论风险、不确定性与信任式沟通
 ---
+
 ### 引言：与风险沟通大师同行
 
 背景音乐响起。

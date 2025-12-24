@@ -1,43 +1,42 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 内蒙古大学
+- 北京大学
+- 香港中文大学
 date: '2025-03-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《植物分类学报》
+- 《中国植物志》
+- 《内蒙古植物志》
+people:
+- 马平
+- 马毓泉
+- 胡秀英
+- 钱学森
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=W17mAqMDulU
 speaker: 一席YiXi
-tags:
-  - scientific-illustration
-  - ecological-memory
-  - intergenerational-sacrifice
-  - scientific-accuracy-vs-artistic-expression
-  - resilience-in-nature
-title: 为了父亲的事业：一位植物科学画师的四十年坚守与精神传承
-summary: 马平讲述了自己如何因父亲的学术使命而投身植物科学画，历经政治动荡、职业迷茫，最终在生态绘画中找到精神寄托。他强调科学画不是艺术装饰，而是承载自然真相与时代记忆的严谨工作。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - 马平
-  - 马毓泉
-  - 胡秀英
-  - 钱学森
-companies_orgs:
-  - 内蒙古大学
-  - 北京大学
-  - 香港中文大学
-products_models: []
-media_books:
-  - 《植物分类学报》
-  - 《中国植物志》
-  - 《内蒙古植物志》
 status: evergreen
+summary: 马平讲述了自己如何因父亲的学术使命而投身植物科学画，历经政治动荡、职业迷茫，最终在生态绘画中找到精神寄托。他强调科学画不是艺术装饰，而是承载自然真相与时代记忆的严谨工作。
+tags:
+- health
+- memory
+- resilience-in-nature
+- scientific
+title: 为了父亲的事业：一位植物科学画师的四十年坚守与精神传承
 ---
+
 ### 父亲的使命：从科学画开始的人生抉择
 
 大家好，我是马平。我的职业是植物科学画画师。

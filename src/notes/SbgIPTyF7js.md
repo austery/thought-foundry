@@ -1,37 +1,37 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 初日醫學
+- Cofit
 date: '2025-03-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《月經週期瘦身攻略》
+people:
+- 李思賢
+- 宋晏仁
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=SbgIPTyF7js
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - menstrual-health
-  - sweet-cravings
-  - hormonal-influence
-  - dietary-strategies
-  - weight-loss-phases
-title: 生理期想吃甜有罪恶感？减重医师教你健康管理经期食欲与情绪
-summary: 许多女性在生理期前或期间会特别想吃甜食，并因此感到罪恶。初日诊所李思贤医师指出，这主要受雌激素和黄体酮等荷尔蒙变化影响。本文将深入探讨经期食欲增加的原因，并提供两款超商甜食组合（红豆汤+无糖豆浆；黑巧克力+香蕉+无糖豆浆），帮助女性在享受甜食的同时缓解经期不适。此外，文章还分享了如何在月经结束后7天（滤泡期）把握减重黄金期，实现健康瘦身。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 李思賢
-  - 宋晏仁
-companies_orgs:
-  - 初日診所
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books:
-  - 《月經週期瘦身攻略》
 status: evergreen
+summary: 许多女性在生理期前或期间会特别想吃甜食，并因此感到罪恶。初日诊所李思贤医师指出，这主要受雌激素和黄体酮等荷尔蒙变化影响。本文将深入探讨经期食欲增加的原因，并提供两款超商甜食组合（红豆汤+无糖豆浆；黑巧克力+香蕉+无糖豆浆），帮助女性在享受甜食的同时缓解经期不适。此外，文章还分享了如何在月经结束后7天（滤泡期）把握减重黄金期，实现健康瘦身。
+tags:
+- canada
+- influence
+- loss
+- menstrual-health
+- strategy
+title: 生理期想吃甜有罪恶感？减重医师教你健康管理经期食欲与情绪
 ---
+
 ### 经期甜食渴望的生理学根源
 
 在诊间问诊时，我（初日诊所思思医师）经常遇到女性朋友询问：“医师，月经来的时候可以吃甜的吗？我忍不住吃一点，却觉得很罪恶，该怎么办呢？”这时我都会告诉她们别担心。根据2020年一项针对311名女大学生的研究，有85.8%的受试者在生理期前食欲增加，尤其是对甜食的需求特别明显。我也注意到我太太在月经来时，情绪会比较低落，特别想吃甜点来改善心情。我最早发现这个现象之后，我就告诉她，不过到底你该选择什么甜食呢？到底你在月经来时想吃甜又是什么造成的呢？今天这集，我们会谈谈女性在经期想吃甜食的原因，以及经期的甜食饮食指南，教你如何健康应对。

@@ -1,37 +1,34 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日诊所
+- 初日医学
+- Cofit
 date: '2025-05-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 邓雯心
+- 雪力
+- 宋晏仁
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=PKTwVcCVp5Q
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - menopause-symptoms
-  - early-onset-menopause
-  - hormone-balance
-  - lifestyle-adjustment
-  - health-management
-title: 更年期早知道：35岁起身体的八大非典型提醒与生活调适
-summary: 许多女性对更年期的起始时间存在误解，认为其只发生在特定年龄。邓雯心医师指出，更年期症状可能早在35岁就出现，且诊断并非仅凭抽血。文章详细解析了更年期的八大非典型症状（心、干、痛、晕、脑、累、痒、胖），强调了生活习惯（糖、酒精、熬夜）对更年期影响的重要性，并澄清了荷尔蒙治疗旨在减少伤害而非延缓卵巢衰退的常见迷思。建议女性倾听身体声音，通过有意识的生活调整来应对更年期。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 邓雯心
-  - 雪力
-  - 宋晏仁
-companies_orgs:
-  - 初日诊所
-  - 初日医学
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 许多女性对更年期的起始时间存在误解，认为其只发生在特定年龄。邓雯心医师指出，更年期症状可能早在35岁就出现，且诊断并非仅凭抽血。文章详细解析了更年期的八大非典型症状（心、干、痛、晕、脑、累、痒、胖），强调了生活习惯（糖、酒精、熬夜）对更年期影响的重要性，并澄清了荷尔蒙治疗旨在减少伤害而非延缓卵巢衰退的常见迷思。建议女性倾听身体声音，通过有意识的生活调整来应对更年期。
+tags:
+- geopolitical
+- health
+- health-management
+title: 更年期早知道：35岁起身体的八大非典型提醒与生活调适
 ---
+
 ### 更年期何时来临？年龄与症状的迷思
 
 之前在雪力老师频道上发布的一支视频引起了非常多的共鸣，观看次数已达六十万次左右，留言也持续更新，目前已有五百多条。这次我们将综合大家的问题，先挑出三大类进行解答。第一个大类主题是关于“更年期是不是来了”的疑问。有网友提到，她37岁时就觉得身体有些变化，但去看专科医师时，对方认为她想太多，觉得37岁太年轻。也有人说她47岁，这个年纪确实比较符合一般认知，但她感觉越来越负面，很想知道自己是否已进入更年期阶段。甚至有人表示，她25岁、30岁时就慢慢出现这些问题，推算下来会不会40岁就要进入更年期了。

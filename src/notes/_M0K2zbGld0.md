@@ -1,69 +1,69 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Deutsche Bank
+- OpenAI
+- Oracle
+- Microsoft
+- Apple
+- Alphabet
+- ECB
+- Federal Reserve
+- IMF
+- BYD
+- Xiaomi
+- US Treasury
 date: '2025-09-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- The New York Times
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Ozan Tarman
+- Mario Draghi
+- Rick Rieder
+- Matt Rasin
+- George Cervados
+- Christine Lagarde
+- Isabel Schnabel
+- Philip Lane
+- Mark Wall
+- Binky Chadha
+- James Bullard
+- Jerome Powell
+- Donald Trump
+- Jensen Huang
+- Xi Jinping
+products_models:
+- Chrome
+- S301
+project:
+- investment-strategy
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=_M0K2zbGld0
 speaker: Bloomberg Podcasts
-tags:
-  - gold-market
-  - tech-stocks
-  - dollar-depreciation
-  - fiscal-dominance
-  - geopolitical-risk
-  - market-anomalies
-  - wealth-gap
-title: 黄金与科技股齐涨：市场异象、美元疲软与地缘政治下的投资洞察
-summary: 本期Odd Lots播客探讨了当前市场中黄金和科技股（尤其是英伟达）同步上涨的异象。德意志银行全球宏观副主席Ozan Tarman分享了客户对美元疲软、美国主权风险与企业实力分化、财政主导、美联储独立性以及关税影响的看法。节目还深入分析了中国经济在全球格局中的角色及其对通胀的影响，揭示了全球投资者在不确定性下的策略调整。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - china-analysis
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Ozan Tarman
-  - Mario Draghi
-  - Rick Rieder
-  - Matt Rasin
-  - George Cervados
-  - Christine Lagarde
-  - Isabel Schnabel
-  - Philip Lane
-  - Mark Wall
-  - Binky Chadha
-  - James Bullard
-  - Jerome Powell
-  - Donald Trump
-  - Jensen Huang
-  - Xi Jinping
-companies_orgs:
-  - Bloomberg
-  - Deutsche Bank
-  - OpenAI
-  - Oracle
-  - Microsoft
-  - Apple
-  - Alphabet
-  - ECB
-  - Federal Reserve
-  - IMF
-  - BYD
-  - Xiaomi
-  - US Treasury
-products_models:
-  - Chrome
-  - S301
-media_books:
-  - Odd Lots
-  - The New York Times
 status: evergreen
+summary: 本期Odd Lots播客探讨了当前市场中黄金和科技股（尤其是英伟达）同步上涨的异象。德意志银行全球宏观副主席Ozan Tarman分享了客户对美元疲软、美国主权风险与企业实力分化、财政主导、美联储独立性以及关税影响的看法。节目还深入分析了中国经济在全球格局中的角色及其对通胀的影响，揭示了全球投资者在不确定性下的策略调整。
+tags:
+- financial
+- geopolitical-risk
+- gold-market
+- market
+- tech-stock
+- technology
+- wealth
+title: 黄金与科技股齐涨：市场异象、美元疲软与地缘政治下的投资洞察
 ---
+
 ### 市场异象：股票与黄金齐涨
 
 **Joe Weisenthal:** 大家好，欢迎收听Odd Lots播客的又一期节目。我是Joe Weisenthal。

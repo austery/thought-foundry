@@ -1,35 +1,34 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- TED
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ilyena Hirskyj-Douglas
+products_models:
+- Arduino
+- Raspberry Pi
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=qGISrbDdL_g
 speaker: TED
-tags:
-  - animal-computer-interaction
-  - animal-well-being
-  - social-connection
-  - technological-empowerment
-  - animal-cognition
-title: 当动物使用互联网：科技如何赋能它们的社交与福祉
-summary: 讲者Ilyena Hirskyj-Douglas探讨了如何利用科技让动物拥有更多生活选择和社交掌控权。她分享了为狗和白面僧面猴打造互动装置的经验，发现科技能改善动物的福祉，例如减少压力。通过让狗和鹦鹉进行视频通话，研究显示动物能建立偏好社交关系，甚至能分辨实时与预录互动。这项研究揭示了动物复杂的社交需求，并展望了科技在提升动物生活质量方面的巨大潜力。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - Ilyena Hirskyj-Douglas
-companies_orgs:
-  - TED
-products_models:
-  - Arduino
-  - Raspberry Pi
-media_books: []
 status: evergreen
+summary: 讲者Ilyena Hirskyj-Douglas探讨了如何利用科技让动物拥有更多生活选择和社交掌控权。她分享了为狗和白面僧面猴打造互动装置的经验，发现科技能改善动物的福祉，例如减少压力。通过让狗和鹦鹉进行视频通话，研究显示动物能建立偏好社交关系，甚至能分辨实时与预录互动。这项研究揭示了动物复杂的社交需求，并展望了科技在提升动物生活质量方面的巨大潜力。
+tags:
+- animal-cognition
+- animal-well-being
+- history
+- social
+- technological
+title: 当动物使用互联网：科技如何赋能它们的社交与福祉
 ---
+
 ### 引言：科技与动物的连接
 
 此刻，在座的许多人可能就有一只狗待在家中，它们与外界断绝联系且当下与人隔绝。我们人类已经设法跨越了这道鸿沟，只要快速滑一下手机，就能透过视讯或电话与家人联络。我研究的问题是：如果我们也为动物做同样的事呢？如果我们允许动物使用网络并在线上进行联络呢？

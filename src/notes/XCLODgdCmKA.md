@@ -1,49 +1,47 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- NewLimit
+- Eli Lilly
+- Pfizer
+- OpenAI
+- Roche
+- Genentech
 date: '2025-08-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Through the Looking Glass》
+- 《Frederick Appelbaum的著作》
+people:
+- Jacob Kimmel
+- Shinya Yamanaka
+- Alexander Fleming
+- Alexander von Humboldt
+products_models:
+- Ozempic
+- Tirzepatide
+- LillyDirect
+- GPT-4
+- Claude Code
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=XCLODgdCmKA
 speaker: Dwarkesh Patel
-tags:
-  - epigenetic-reprogramming
-  - aging
-  - drug-discovery
-  - evolutionary-biology
-  - ai-in-biology
-title: 进化让我们快速衰老死亡；我们可以改变它 — Jacob Kimmel
-summary: 本期访谈中，NewLimit联合创始人Jacob Kimmel深入探讨了人类为何会衰老，并从进化生物学角度提出了三大原因：高风险率、亲缘选择与优化限制。他详细介绍了NewLimit如何通过表观遗传重编程来逆转细胞衰老，并阐述了AI模型在加速药物发现中的关键作用。此外，Kimmel还讨论了药物递送的挑战与未来方向，以及长寿疗法对医疗经济和制药行业商业模式的深远影响，包括Eroom定律和按效果付费等创新模式。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Jacob Kimmel
-  - Dwarkesh Patel
-  - Shinya Yamanaka
-  - Alexander Fleming
-  - Alexander von Humboldt
-companies_orgs:
-  - NewLimit
-  - Eli Lilly
-  - Pfizer
-  - OpenAI
-  - Roche
-  - Genentech
-products_models:
-  - Ozempic
-  - Tirzepatide
-  - LillyDirect
-  - GPT-4
-  - Claude Code
-media_books:
-  - 《Through the Looking Glass》
-  - 《Frederick Appelbaum的著作》
 status: evergreen
+summary: 本期访谈中，NewLimit联合创始人Jacob Kimmel深入探讨了人类为何会衰老，并从进化生物学角度提出了三大原因：高风险率、亲缘选择与优化限制。他详细介绍了NewLimit如何通过表观遗传重编程来逆转细胞衰老，并阐述了AI模型在加速药物发现中的关键作用。此外，Kimmel还讨论了药物递送的挑战与未来方向，以及长寿疗法对医疗经济和制药行业商业模式的深远影响，包括Eroom定律和按效果付费等创新模式。
+tags:
+- drug-discovery
+- health
+- llm
+- technology
+title: 进化让我们快速衰老死亡；我们可以改变它 — Jacob Kimmel
 ---
+
 今天，我很高兴能采访 **Jacob Kimmel**，他是 **NewLimit** 的总裁兼联合创始人。**NewLimit** 致力于通过表观遗传重编程，使细胞恢复到年轻状态。Jacob，非常感谢你来参加播客。
 
 非常感谢邀请我。期待这次对话。好的，第一个问题。从第一性原理来看，为什么进化如此轻易地抛弃我们？我知道进化关心我们的孩子。但如果我们拥有更长、更健康的寿命，我们就能拥有更多的孩子，对吗？我们可以更长时间地照顾他们，也可以照顾我们的孙辈。抗衰老药物是否会产生某种多效性效应，反而会阻碍我们保持年轻？

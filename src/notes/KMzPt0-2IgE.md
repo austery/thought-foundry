@@ -1,74 +1,74 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- 美国司法部
+- 中国公安部
+- One MDB
+- 国际刑警组织
+- 白宫
+- 国务院
+- 国防部
+- 黑人男性投票行动委员会
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街之狼》
+- 《彭博商业周刊》
+- 《综艺》
+- 《琼斯夫人》
+- 《华尔街日报》
+people:
+- Pras Michel
+- Jho Low
+- Donald Trump
+- Barack Obama
+- Jeff Sessions
+- Steve Wynn
+- John Kelly
+- Reince Priebus
+- George Higginbotham
+- Nikki Lynn Davis
+- Elliott Broidy
+- Guo Wengui
+- Sun Lijun
+- Leonardo DiCaprio
+- Miranda Kerr
+- Kim Kardashian
+- Peter Zeidenberg
+- Xi Xiaoxing
+- Zhang Yuheng
+- Tao Feng
+- Mark Wahlberg
+- Rick Gates
+- Cui Tiankai
+- Steve Bannon
+- Peter Navarro
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=KMzPt0-2IgE
 speaker: 记者易速利
-tags:
-  - foreign-influence-operations
-  - political-lobbying
-  - extradition-efforts
-  - us-china-relations
-  - financial-fraud
-  - campaign-finance-violations
-  - legal-proceedings
-title: 说唱歌手普拉斯涉华影响力案：刘特佐、孙力军与郭文贵交织的权力暗战
-summary: 美国著名说唱歌手普拉斯·米歇尔因涉嫌为马来西亚富商刘特佐和中国公安部前副部长孙力军进行非法游说，试图影响美国政府对刘特佐欺诈案的调查并遣返郭文贵，被判刑14年。此案揭露了一场横跨奥巴马和特朗普政府的复杂外国影响力运作，牵涉多位美国政界、商界和娱乐界名人，以及中美两国高层，最终多数涉案人员落入法网，而刘特佐和郭文贵则面临各自的法律困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Pras Michel
-  - Jho Low
-  - Donald Trump
-  - Barack Obama
-  - Jeff Sessions
-  - Steve Wynn
-  - John Kelly
-  - Reince Priebus
-  - George Higginbotham
-  - Nikki Lynn Davis
-  - Elliott Broidy
-  - Guo Wengui
-  - Sun Lijun
-  - Leonardo DiCaprio
-  - Miranda Kerr
-  - Kim Kardashian
-  - Peter Zeidenberg
-  - Xi Xiaoxing
-  - Zhang Yuheng
-  - Tao Feng
-  - Mark Wahlberg
-  - Rick Gates
-  - Cui Tiankai
-  - Steve Bannon
-  - Peter Navarro
-companies_orgs:
-  - FBI
-  - 美国司法部
-  - 中国公安部
-  - One MDB
-  - 国际刑警组织
-  - 白宫
-  - 国务院
-  - 国防部
-  - 黑人男性投票行动委员会
-products_models: []
-media_books:
-  - 《华尔街之狼》
-  - 《彭博商业周刊》
-  - 《综艺》
-  - 《琼斯夫人》
-  - 《华尔街日报》
 status: evergreen
+summary: 美国著名说唱歌手普拉斯·米歇尔因涉嫌为马来西亚富商刘特佐和中国公安部前副部长孙力军进行非法游说，试图影响美国政府对刘特佐欺诈案的调查并遣返郭文贵，被判刑14年。此案揭露了一场横跨奥巴马和特朗普政府的复杂外国影响力运作，牵涉多位美国政界、商界和娱乐界名人，以及中美两国高层，最终多数涉案人员落入法网，而刘特佐和郭文贵则面临各自的法律困境。
+tags:
+- extradition-effort
+- finance
+- financial-fraud
+- influence
+- legal
+- political
+- us-china-relations
+title: 说唱歌手普拉斯涉华影响力案：刘特佐、孙力军与郭文贵交织的权力暗战
 ---
+
 ### 说唱歌手普拉斯的定罪与外国影响力计划
 
 美国著名的说唱歌手**普拉斯·米歇尔**（Pras Michel）于周四被联邦法官判刑14年，他应该是这些年被定罪的名声最大的中国间谍。然而，他在中文世界的知名度可能不高，因此他的故事值得深入探讨。美国司法部门对他的指控是，他与在逃的马来西亚富商**刘特佐**（Jho Low: 马来西亚金融家，因涉嫌一马公司贪腐案被全球通缉）合作，参与了一项设计金额高达1亿美元的外国影响力计划。

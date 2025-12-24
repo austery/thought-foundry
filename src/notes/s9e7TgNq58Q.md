@@ -1,33 +1,32 @@
 ---
-author: TechButMakeItReal
+area: society-systems
+category: career
+companies_orgs: []
 date: '2024-12-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Daria
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=s9e7TgNq58Q
 speaker: TechButMakeItReal
-tags:
-  - uae-tech-jobs
-  - international-career
-  - tax-free-income
-  - interview-process
-  - cultural-differences
-  - job-market-insights
-title: 我在阿联酋科技行业求职的真实经历：为何我拒绝了四份工作邀约
-summary: 一位在科技行业拥有八年经验的产品经理，分享了她在阿联酋（特别是迪拜和阿布扎比）求职的经历。尽管阿联酋以其低税收和优厚待遇吸引着全球人才，但她发现面试流程漫长、薪资预期与实际存在差距，且存在合同条件变动和职位外包等问题。本文深入探讨了这些不为人知的细节，并为考虑前往中东地区发展职业的人士提供了宝贵建议。
-insight: ''
-draft: true
-series: ''
-category: career
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - Daria
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 一位在科技行业拥有八年经验的产品经理，分享了她在阿联酋（特别是迪拜和阿布扎比）求职的经历。尽管阿联酋以其低税收和优厚待遇吸引着全球人才，但她发现面试流程漫长、薪资预期与实际存在差距，且存在合同条件变动和职位外包等问题。本文深入探讨了这些不为人知的细节，并为考虑前往中东地区发展职业的人士提供了宝贵建议。
+tags:
+- canada
+- career
+- cultural-difference
+- market
+- tax
+- tech
+title: 我在阿联酋科技行业求职的真实经历：为何我拒绝了四份工作邀约
 ---
+
 ### 为什么考虑中东：高税负下的职业选择
 
 厌倦了无休止地工作，却眼睁睁看着一半薪水被税收吞噬，而拥有房产（或多处房产）且无需背负30年债务的梦想，感觉遥不可及。是的，这正是前段时间让我萌生去中东工作念头的确切原因。

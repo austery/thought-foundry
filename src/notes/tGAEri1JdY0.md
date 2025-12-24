@@ -1,44 +1,43 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs:
+- Tsinghua University
+- Kuomintang
+- Communist Party
 date: '2025-01-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Book of Rites
+- Revolution and Counter-Revolution
+- Youth and the Countryside
+- Song of the Seven Sons
+- Autumn Residence on the Bashang
+people:
+- Anthony
+- Li Dazhao
+- Wen Yiduo
+- Ai Qing
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=tGAEri1JdY0
 speaker: Anthony看世界
-tags:
-  - cultural-regression
-  - chinese-education
-  - nationalism
-  - collectivism
-  - oedipus-complex
-title: 中国文化中的退行倾向：从语文教育到民族主义的心理学解读
-summary: 本期节目深入探讨中国文化中一种鼓励退行的倾向，从语文教育中对思乡和“回归母胎”的强调入手，分析其与传统宗族和皇权制度的关联。节目指出，这种情感教育并非普遍人性，而是经过意识形态过滤的理想化状态。通过心理学概念“退行”，揭示了这种文化如何鼓励不成熟人格，并进一步探讨了在现代化冲击下，这种退行倾向如何被20世纪的中国知识分子与马克思主义、民族主义结合，形成新的集体主义“母胎”，最终导致对个体发展的压制。文章以闻一多和艾青为例，剖析了这种文化现象的深层心理机制和历史演变。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Anthony
-  - Li Dazhao
-  - Wen Yiduo
-  - Ai Qing
-companies_orgs:
-  - Tsinghua University
-  - Kuomintang
-  - Communist Party
-products_models: []
-media_books:
-  - Book of Rites
-  - Revolution and Counter-Revolution
-  - Youth and the Countryside
-  - Song of the Seven Sons
-  - Autumn Residence on the Bashang
 status: evergreen
+summary: 本期节目深入探讨中国文化中一种鼓励退行的倾向，从语文教育中对思乡和“回归母胎”的强调入手，分析其与传统宗族和皇权制度的关联。节目指出，这种情感教育并非普遍人性，而是经过意识形态过滤的理想化状态。通过心理学概念“退行”，揭示了这种文化如何鼓励不成熟人格，并进一步探讨了在现代化冲击下，这种退行倾向如何被20世纪的中国知识分子与马克思主义、民族主义结合，形成新的集体主义“母胎”，最终导致对个体发展的压制。文章以闻一多和艾青为例，剖析了这种文化现象的深层心理机制和历史演变。
+tags:
+- chinese-education
+- collectivism
+- cultural
+- geopolitical
+- nationalism
+title: 中国文化中的退行倾向：从语文教育到民族主义的心理学解读
 ---
 
 ### 中国语文教育中的“回归母胎”倾向

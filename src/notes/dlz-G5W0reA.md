@@ -1,38 +1,36 @@
 ---
-author: 投资TALK君
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- BlackRock
+- JPMorgan
+- Bloomberg
 date: '2025-03-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Josef Wang
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dlz-G5W0reA
 speaker: 投资TALK君
-tags:
-  - deleveraging-event
-  - pce-data
-  - market-volatility
-  - investment-strategy
-  - economic-uncertainty
-title: 市场深度调整：史上第五大去杠杆行情、PCE数据警示与贝莱德的机构视角
-summary: 本期节目分析了近期美股市场的剧烈波动，指出当前正经历史上第五大去杠杆行情。主持人详细解读了PPI数据对即将公布的PCE数据的影响，并引用贝莱德对机构投资者的最新观点，探讨了经济衰退的可能性、市场领导者的变化以及投资策略调整。节目强调了在不确定市场中保持投资的重要性，并提醒投资者避免抄底思维，并分享了机构对于市场未来走势的看法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Josef Wang
-companies_orgs:
-  - BlackRock
-  - JPMorgan
-  - Bloomberg
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目分析了近期美股市场的剧烈波动，指出当前正经历史上第五大去杠杆行情。主持人详细解读了PPI数据对即将公布的PCE数据的影响，并引用贝莱德对机构投资者的最新观点，探讨了经济衰退的可能性、市场领导者的变化以及投资策略调整。节目强调了在不确定市场中保持投资的重要性，并提醒投资者避免抄底思维，并分享了机构对于市场未来走势的看法。
+tags:
+- economic
+- market-volatility
+- pce-datum
+- technology
+title: 市场深度调整：史上第五大去杠杆行情、PCE数据警示与贝莱德的机构视角
 ---
+
 ### 近期市场走势与经济数据概览
 
 近期股市波动剧烈，周四美股再次下跌，好在周五盘前期货市场表现不错。市场分析人小陶指出，最近这段时间波动确实非常大。今天的内容将首先回顾市场走势，然后讨论PPI数据对月底将公布的PCE数据的影响，最后分享贝莱德对当前市场的看法。

@@ -1,42 +1,41 @@
 ---
-author: 徒步的騎手
-date: 2025-06-24
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=rMAU_GpvHIk'
-speaker: 徒步的騎手
-tags:
-  - ai-workplace-transformation
-  - cognitive-offloading
-  - strategic-thinking
-  - future-of-work
-  - job-displacement
-title: AI重塑职场：认知卸载与脑力淘汰赛中的生存法则
-summary: 亚马逊总裁公开信预示AI将颠覆职场，大量重复性入门职位将被取代，同时催生需要战略性思考和驾驭AI能力的新岗位。文章深入探讨了AI Agent的崛起、认知卸载对人类思维能力的负面影响，以及在即将到来的脑力淘汰赛中，个人如何通过学习和创造性思维来避免被淘汰的冷酷现实。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Jeff Bezos
-  - Andy Jassy
+category: general
 companies_orgs:
-  - Amazon
-  - Google
-  - Microsoft
-  - Facebook
-products_models:
-  - ChatGPT
-  - Gemini
-  - Grok
+- Amazon
+- Google
+- Microsoft
+- Meta
+date: 2025-06-24
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《华尔街日报》
+- 《华尔街日报》
+people:
+- Jeff Bezos
+- Andy Jassy
+products_models:
+- ChatGPT
+- Gemini
+- Grok
+project:
+- ai-impact-analysis
+- systems-thinking
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=rMAU_GpvHIk
+speaker: 徒步的騎手
 status: evergreen
+summary: 亚马逊总裁公开信预示AI将颠覆职场，大量重复性入门职位将被取代，同时催生需要战略性思考和驾驭AI能力的新岗位。文章深入探讨了AI Agent的崛起、认知卸载对人类思维能力的负面影响，以及在即将到来的脑力淘汰赛中，个人如何通过学习和创造性思维来避免被淘汰的冷酷现实。
+tags:
+- cognitive
+- future-of-work
+- job-displacement
+- thinking
+- transformation
+title: AI重塑职场：认知卸载与脑力淘汰赛中的生存法则
 ---
 
 ### 亚马逊的警示：AI时代的职场巨变

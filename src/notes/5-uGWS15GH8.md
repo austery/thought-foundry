@@ -1,39 +1,38 @@
 ---
-author: Bloomberg Podcasts
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Bridgewater
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Principles of Life and Work
+- How Countries Go Broke
+people:
+- Ray Dalio
+- Joe Weisenthal
+- Tracy Alloway
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5-uGWS15GH8
 speaker: Bloomberg Podcasts
-tags:
-  - historical-cycles
-  - debt-cycle
-  - wealth-inequality
-  - technological-disruption
-  - political-polarization
-title: 瑞·达利欧：历史的五大驱动力及其如何定义我们当前的时代转折点
-summary: 桥水基金创始人瑞·达利欧分享了他对过去500年历史的宏观研究，提炼出驱动帝国兴衰的五大核心力量：货币与债务周期、贫富差距、世界秩序变迁、自然灾害和技术发明。他分析了当前AI浪潮、债务高企和地缘政治紧张局势如何共同作用，使我们处于一个历史性的转折点，并探讨了在当前环境下如何理解财富、政治和组织文化。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Ray Dalio
-  - Joe Weisenthal
-  - Tracy Alloway
-companies_orgs:
-  - Bridgewater
-products_models: []
-media_books:
-  - Principles of Life and Work
-  - How Countries Go Broke
 status: evergreen
+summary: 桥水基金创始人瑞·达利欧分享了他对过去500年历史的宏观研究，提炼出驱动帝国兴衰的五大核心力量：货币与债务周期、贫富差距、世界秩序变迁、自然灾害和技术发明。他分析了当前AI浪潮、债务高企和地缘政治紧张局势如何共同作用，使我们处于一个历史性的转折点，并探讨了在当前环境下如何理解财富、政治和组织文化。
+tags:
+- debt
+- historical
+- technological-disruption
+- wealth-inequality
+title: 瑞·达利欧：历史的五大驱动力及其如何定义我们当前的时代转折点
 ---
+
 ### 播客开场与时代背景的共识
 
 我们正在经历一个非同寻常的变革时代。

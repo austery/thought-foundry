@@ -1,41 +1,39 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- HIMS
+- 诺和诺德
+- 礼来
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money or Life 美股频道
+products_models:
+- GLP-1减肥药
+- 促睾酮素
+- at home lab kits
+- 微剂量元素GLP-1减肥药物
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=oLZUYVLe4BQ
 speaker: Money or Life 美股频道
-tags:
-  - hims-stock-analysis
-  - q3-earnings
-  - investment-strategy
-  - glp-1-drugs
-  - telemedicine-platform
-title: HIMS三季度财报前瞻：坚守长期愿景，应对短期市场波动
-summary: 本文深入探讨了远程医疗公司HIMS在三季度财报前的投资策略。尽管近期股价表现不佳，作者强调了HIMS的用户增长、不断扩大的产品线（包括GLP-1减肥药和激素疗法），以及公司设定的2030年营收和EBITDA长期财务指引。作者分享了其个人持仓及在财报前不进行任何操作的决定，并分析了GLP-1药物对营收的短期爆发性影响及长期有机增长潜力，呼吁投资者保持理性，着眼长远。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people: []
-companies_orgs:
-  - HIMS
-  - 诺和诺德
-  - 礼来
-products_models:
-  - GLP-1减肥药
-  - 促睾酮素
-  - at home lab kits
-  - 微剂量元素GLP-1减肥药物
-media_books:
-  - Money or Life 美股频道
 status: evergreen
+summary: 本文深入探讨了远程医疗公司HIMS在三季度财报前的投资策略。尽管近期股价表现不佳，作者强调了HIMS的用户增长、不断扩大的产品线（包括GLP-1减肥药和激素疗法），以及公司设定的2030年营收和EBITDA长期财务指引。作者分享了其个人持仓及在财报前不进行任何操作的决定，并分析了GLP-1药物对营收的短期爆发性影响及长期有机增长潜力，呼吁投资者保持理性，着眼长远。
+tags:
+- earning
+- health
+- hims-stock-analysis
+- platform
+title: HIMS三季度财报前瞻：坚守长期愿景，应对短期市场波动
 ---
+
 ### HIMS股价表现与投资情绪
 
 大家好，欢迎来到Money or Life美股频道。本期视频我们来聊一聊**HIMS**（远程医疗平台: 提供在线问诊、处方和药物配送服务）这家公司，因为其最近的股价表现让很多投资者感到失望。那么，是否应该卖出HIMS？在三季度财报之前的计划是什么？我们将在本期视频中简单探讨。

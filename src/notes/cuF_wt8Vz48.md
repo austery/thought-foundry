@@ -1,45 +1,45 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- University of Toronto
+- Canada's EDS Foundation
+- OHIP
+- Ministry of Health
+- Human Rights Tribunal of Ontario
+- TVO
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mistreated
+- The McKenzie report on the women's health gap in Canada
+people:
+- Nam Kiwanuka
+- Rodney Graham
+- Lena Dunham
+- Jamila Jamil
+- Sydney Jazualdi
+products_models: []
+project:
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=cuF_wt8Vz48
 speaker: TVO Today
-tags:
-  - ehlers-danlos-syndrome
-  - craniocervical-instability
-  - healthcare-access
-  - medical-misdiagnosis
-  - systemic-neglect
-title: 埃勒斯-丹洛斯综合征远不止“关节松弛”：一位患者在加拿大医疗系统中的困境
-summary: 本期节目深入探讨埃勒斯-丹洛斯综合征（EDS）和颅颈不稳（CCI）这两种常被误诊和忽视的疾病。患者Sydney Jazualdi分享了她在遭遇车祸后，因CCI导致生活完全失能，却在安大略省医疗体系中面临重重障碍，难以获得诊断和治疗的经历。节目呼吁政策制定者正视这些疾病，为患者提供应有的医疗支持和尊严。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-people:
-  - Nam Kiwanuka
-  - Rodney Graham
-  - Lena Dunham
-  - Jamila Jamil
-  - Sydney Jazualdi
-companies_orgs:
-  - University of Toronto
-  - Canada's EDS Foundation
-  - OHIP
-  - Ministry of Health
-  - Human Rights Tribunal of Ontario
-  - TVO
-products_models: []
-media_books:
-  - Mistreated
-  - The McKenzie report on the women's health gap in Canada
 status: evergreen
+summary: 本期节目深入探讨埃勒斯-丹洛斯综合征（EDS）和颅颈不稳（CCI）这两种常被误诊和忽视的疾病。患者Sydney Jazualdi分享了她在遭遇车祸后，因CCI导致生活完全失能，却在安大略省医疗体系中面临重重障碍，难以获得诊断和治疗的经历。节目呼吁政策制定者正视这些疾病，为患者提供应有的医疗支持和尊严。
+tags:
+- canada
+- healthcare-access
+- history
+- medical
+- technology
+title: 埃勒斯-丹洛斯综合征远不止“关节松弛”：一位患者在加拿大医疗系统中的困境
 ---
+
 ### 埃勒斯-丹洛斯综合征：一种被忽视的疾病
 
 Nam Kiwanuka: 您正在收听“被误诊”（Mistreated）节目，我是Nam Kiwanuka。

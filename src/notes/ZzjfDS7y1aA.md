@@ -1,46 +1,45 @@
 ---
-author: Patrick Boyle
+area: market-analysis
+category: finance
+companies_orgs:
+- Jane Street
+- Securities and Exchange Board of India
+- Millennium Management
+- National Stock Exchange
+- Futures Industry Association
+- Tello Mobile
 date: '2025-07-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- Financial Times
+people:
+- Matt Levine
+- Robin Wigglesworth
+- Ananth Narayan
+products_models:
+- BANKNIFTY
+- S&P 500
+project:
+- investment-strategy
+- systems-thinking
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ZzjfDS7y1aA
 speaker: Patrick Boyle
-tags:
-  - india-derivatives-market
-  - market-manipulation
-  - arbitrage-trading
-  - retail-investor-losses
-  - financial-regulation
-title: Jane Street 在印度赚取数十亿美元后被禁：套利与操纵的界限
-summary: 本文深入探讨了量化交易巨头 Jane Street 在印度衍生品市场遭遇的监管风波。Jane Street 在印度市场两年内获利43亿美元后，被印度证券交易委员会（SEBI）指控通过“邪恶计划”操纵指数，并被禁止交易。文章分析了印度衍生品市场独特的零售主导、高杠杆特征，以及套利与操纵之间模糊的界限。同时，也揭示了印度散户投资者在该市场中遭受的巨额损失，并呈现了监管机构与交易公司对此事件的不同观点，引发了对快速增长市场中算法交易监管的深刻思考。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - market-cycles
-people:
-  - Matt Levine
-  - Robin Wigglesworth
-  - Ananth Narayan
-companies_orgs:
-  - Jane Street
-  - Securities and Exchange Board of India
-  - Millennium Management
-  - National Stock Exchange
-  - Futures Industry Association
-  - Tello Mobile
-products_models:
-  - BANKNIFTY
-  - S&P 500
-media_books:
-  - The Economist
-  - Financial Times
 status: evergreen
+summary: 本文深入探讨了量化交易巨头 Jane Street 在印度衍生品市场遭遇的监管风波。Jane Street 在印度市场两年内获利43亿美元后，被印度证券交易委员会（SEBI）指控通过“邪恶计划”操纵指数，并被禁止交易。文章分析了印度衍生品市场独特的零售主导、高杠杆特征，以及套利与操纵之间模糊的界限。同时，也揭示了印度散户投资者在该市场中遭受的巨额损失，并呈现了监管机构与交易公司对此事件的不同观点，引发了对快速增长市场中算法交易监管的深刻思考。
+tags:
+- financial-regulation
+- investment
+- loss
+- market
+title: Jane Street 在印度赚取数十亿美元后被禁：套利与操纵的界限
 ---
+
 ### 印度衍生品市场的独特生态与Jane Street的崛起
 
 在印度的股票市场，可谓是“尾巴摇狗”。**衍生品交易**（Derivatives trading: 金融合约，其价值来源于标的资产，如股票或指数）不仅与**现金股票**（Cash equities: 指直接买卖公司股票的交易）交易量不相上下，甚至远远超过后者。衍生品交易额是现金股票交易额的300多倍。这种由大量热衷于**期权**（Options: 一种金融衍生品，赋予持有人在未来某个时间以特定价格买入或卖出标的资产的权利，而非义务）的**零售交易者**（Retail traders: 指非专业投资者，通常是个人投资者）推动的倒挂现象，在全球其他任何地方都前所未有。

@@ -1,89 +1,89 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Hamas
+- Chicago Mercantile Exchange
+- European Union
+- Saab AB
+- Nexperia
+- Wingtech Technology
+- 3M
+- Texas Instruments
+- Analog Devices
+- World Trade Organization
+- Asia Society Policy Institute
+- Brookings Institution
+- University of California, San Diego
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+- Reuters
+- Bloomberg
+- Deutsche Welle
+- The New York Times
+people:
+- Donald Trump
+- Jerome Powell
+- Benjamin Netanyahu
+- Recep Tayyip Erdoğan
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Wang Wentao
+- Xi Jinping
+- Li Chenggang
+- John Thune
+- James Lankford
+- Rick Scott
+- Ron Johnson
+- Paul Ingrassia
+- Jared Kushner
+- David Witkoff
+- Marco Rubio
+- Sergei Lavrov
+- Valery Gerasimov
+- Hu Jintao
+- Mao Zedong
+- Deng Xiaoping
+- Zhao Ziyang
+- Jiang Zemin
+- Mikhail Gorbachev
+- 金壮龙
+- 刘建超
+- 马兴瑞
+- Neil Thomas
+- Jonathan
+- Christopher Johnson
+- 史中汉
+- Peter Navarro
+- Kevin Rudd
+- 彭丽媛
+products_models:
+- F-35
+- Gripen
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=YCkECjSmXc8
 speaker: LT視界
-tags:
-  - geopolitical-tensions
-  - us-china-relations
-  - economic-policy
-  - political-succession
-  - supply-chain-security
-title: 中美博弈下的全球震荡：从利率困境到产业人质，再探中共权力核心的未解之谜
-summary: 本篇文章深入探讨了当前全球面临的多重挑战与权力格局的深刻变动。从美联储在国债重压下的利率决策困境，到加沙停火协议的脆弱性及其背后的地缘政治博弈，再到乌克兰战局的持续升级。特别关注中美在半导体领域的“产业人质”僵局，以及贸易谈判中的策略对抗。文章还剖析了美国国内政治的复杂性，并聚焦中共四中全会，揭示了高层人事调整的深层逻辑和习近平接班人问题的“无人敢提”的政治敏感性，展现了全球秩序重塑中的复杂性与不确定性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Benjamin Netanyahu
-  - Recep Tayyip Erdoğan
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - Wang Wentao
-  - Xi Jinping
-  - Li Chenggang
-  - John Thune
-  - James Lankford
-  - Rick Scott
-  - Ron Johnson
-  - Paul Ingrassia
-  - Jared Kushner
-  - David Witkoff
-  - Marco Rubio
-  - Sergei Lavrov
-  - Valery Gerasimov
-  - Hu Jintao
-  - Mao Zedong
-  - Deng Xiaoping
-  - Zhao Ziyang
-  - Jiang Zemin
-  - Mikhail Gorbachev
-  - 金壮龙
-  - 刘建超
-  - 马兴瑞
-  - Neil Thomas
-  - Jonathan
-  - Christopher Johnson
-  - 史中汉
-  - Peter Navarro
-  - Kevin Rudd
-  - 彭丽媛
-companies_orgs:
-  - Federal Reserve
-  - Hamas
-  - Chicago Mercantile Exchange
-  - European Union
-  - Saab AB
-  - Nexperia
-  - Wingtech Technology
-  - 3M
-  - Texas Instruments
-  - Analog Devices
-  - World Trade Organization
-  - Asia Society Policy Institute
-  - Brookings Institution
-  - University of California, San Diego
-products_models:
-  - F-35
-  - Gripen
-media_books:
-  - The Wall Street Journal
-  - Reuters
-  - Bloomberg
-  - Deutsche Welle
-  - The New York Times
 status: evergreen
+summary: 本篇文章深入探讨了当前全球面临的多重挑战与权力格局的深刻变动。从美联储在国债重压下的利率决策困境，到加沙停火协议的脆弱性及其背后的地缘政治博弈，再到乌克兰战局的持续升级。特别关注中美在半导体领域的“产业人质”僵局，以及贸易谈判中的策略对抗。文章还剖析了美国国内政治的复杂性，并聚焦中共四中全会，揭示了高层人事调整的深层逻辑和习近平接班人问题的“无人敢提”的政治敏感性，展现了全球秩序重塑中的复杂性与不确定性。
+tags:
+- economic-policy
+- geopolitical-tension
+- political
+- supply-chain-security
+- us-china-relations
+title: 中美博弈下的全球震荡：从利率困境到产业人质，再探中共权力核心的未解之谜
 ---
+
 ### 美联储利率决策与美国国债困境
 
 当前华尔街最关注的问题之一是，**美联储**（Federal Reserve: 美国中央银行体系）的利率决策可能受制于国债成本。这不仅关乎**唐纳德·川普**（Donald Trump）反复要求大幅度降息的理由，也涉及其观点的利弊。鉴于美国债务负担沉重，未来若需再次加息，将是一项极为敏感和艰难的任务。

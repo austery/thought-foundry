@@ -1,59 +1,57 @@
 ---
-author: 东京人文论坛
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 哲学星期五
+- 国民党
+- 民进党
+- 联合国
+- 国际转型正义中心
+- 联合国教科文组织
+- 自由之家
 date: '2025-06-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 叶浩
+- 汉娜·阿伦特
+- 赖清德
+- 约翰·斯图尔特·密尔
+- 以赛亚·伯林
+- 卢梭
+- 霍布斯
+- 洛克
+- 蒋介石
+- 殷海光
+- 雷震
+- 胡适
+- 蔡英文
+- 谢长廷
+- 马英九
+- 李登辉
+- 蒋经国
+- 亨廷顿
+- 张彭春
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=6AWdo-9FtWQ
 speaker: 东京人文论坛
-tags:
-  - transitional-justice
-  - national-identity
-  - political-polarization
-  - historical-narratives
-  - time-lag-politics
-title: 理解台湾的“时差政治”：历史、认同与转型正义的纠葛
-summary: 政治大学副教授叶浩深入剖析了台湾政治中的“时差”现象。他提出“双螺旋结构”理论，认为移民浪潮与思想移植的交织，塑造了台湾社会对民主化、转型正义和国家正常化等议题的复杂分歧。文章通过分析德国、南非等国际转型正义案例，对比台湾蓝绿阵营迥异的历史观与政治诉求，揭示了不同群体活在不同“时间感”中的现实，并探讨了这种“时差政治”在东亚脉络下的深层挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 叶浩
-  - 汉娜·阿伦特
-  - 赖清德
-  - 约翰·斯图尔特·密尔
-  - 以赛亚·伯林
-  - 卢梭
-  - 霍布斯
-  - 洛克
-  - 蒋介石
-  - 殷海光
-  - 雷震
-  - 胡适
-  - 蔡英文
-  - 谢长廷
-  - 马英九
-  - 李登辉
-  - 蒋经国
-  - 亨廷顿
-  - 张彭春
-companies_orgs:
-  - 哲学星期五
-  - 国民党
-  - 民进党
-  - 联合国
-  - 国际转型正义中心
-  - 联合国教科文组织
-  - 自由之家
-products_models: []
-media_books: []
 status: evergreen
+summary: 政治大学副教授叶浩深入剖析了台湾政治中的“时差”现象。他提出“双螺旋结构”理论，认为移民浪潮与思想移植的交织，塑造了台湾社会对民主化、转型正义和国家正常化等议题的复杂分歧。文章通过分析德国、南非等国际转型正义案例，对比台湾蓝绿阵营迥异的历史观与政治诉求，揭示了不同群体活在不同“时间感”中的现实，并探讨了这种“时差政治”在东亚脉络下的深层挑战。
+tags:
+- geopolitical
+- historical-narrative
+- national-identity
+- politics
+title: 理解台湾的“时差政治”：历史、认同与转型正义的纠葛
 ---
+
 ### 引言：从公民共和主义到台湾的“时差政治”
 
 各位好，今天能来到这个小型的论坛，我感到非常荣幸。刚刚主持人提到我们在台湾组织的“哲学星期五”，最初也是从类似这样的小型论坛开始的。在太阳花运动前后，“哲学星期五”发展得非常兴盛，在台湾有二十多个地方，每个礼拜五晚上都有这样的聚会。兴盛时期，在全球多个国家总共有45个城市都有“哲学星期五”。其背后的核心理念，源自汉娜·阿伦特的**公民共和主义**（Civic Republicanism: 一种强调公民参与、公共利益和公民美德的政治思想），这也是我们主要的思想基础。

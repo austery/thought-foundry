@@ -1,25 +1,25 @@
 ---
-author: 投资TALK君
+area: ''
+category: ''
+companies_orgs: []
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=RaJa2YnyAq8
 speaker: 投资TALK君
+status: evergreen
+summary: ''
 tags: []
 title: 市场回顾与宏观数据解读
-summary: ''
-insight: ''
-draft: true
-series: ''
-category: ''
-area: ''
-project: []
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-status: evergreen
 ---
+
 ### 市场回顾与宏观数据解读  
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析小涛。今天这期内容主要和大家回顾一下周二、周一市场的走势，并重点聊一聊宏观数据的解读。  

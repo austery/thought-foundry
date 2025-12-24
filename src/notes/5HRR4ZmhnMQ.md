@@ -1,37 +1,35 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-09-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 魏士航医师
+- 周建安医师
+- 宋晏仁医师
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=5HRR4ZmhnMQ
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - gout
-  - hyperuricemia
-  - bmi-management
-  - fructose-impact
-  - insulin-resistance
-title: 痛风的真正元凶：BMI、果糖与胰岛素阻抗，而非海鲜
-summary: 许多人误以为痛风是海鲜摄取过多所致，但研究显示，肥胖（BMI）、高果糖饮食及胰岛素阻抗才是导致尿酸升高和痛风发作的关键因素。本文将深入探讨这些核心关联，并提供多喝水、渐进式体重控制、健康饮食、酒精管理及必要时药物治疗等五大策略，帮助读者有效远离高尿酸与痛风。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 魏士航医师
-  - 周建安医师
-  - 宋晏仁医师
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 许多人误以为痛风是海鲜摄取过多所致，但研究显示，肥胖（BMI）、高果糖饮食及胰岛素阻抗才是导致尿酸升高和痛风发作的关键因素。本文将深入探讨这些核心关联，并提供多喝水、渐进式体重控制、健康饮食、酒精管理及必要时药物治疗等五大策略，帮助读者有效远离高尿酸与痛风。
+tags:
+- impact
+- insulin-resistance
+- management
+- science
+title: 痛风的真正元凶：BMI、果糖与胰岛素阻抗，而非海鲜
 ---
+
 ### 痛风迷思：海鲜并非唯一元凶
 
 秋分时节，天气逐渐转凉，许多人会选择煮火锅或海鲜来暖胃驱寒。然而，也有不少人担心吃火锅或海鲜会导致痛风发作，甚至认为痛风就是海鲜吃太多造成的。诚然，火锅如同一个蕴藏丰富**普林**（Purine: 一种存在于食物中的化合物，在体内代谢后会产生尿酸）的仓库，高汤、海鲜等高普林食材在锅中不断炖煮浓缩，一餐下来，体内的普林含量便会瞬间升高。

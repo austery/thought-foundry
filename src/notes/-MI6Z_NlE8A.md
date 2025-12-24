@@ -1,31 +1,30 @@
 ---
-title: 创伤如何摧毁我们与他人建立联系的能力：Bessel van der Kolk 深度解读
-summary: 精神病学家 Bessel van der Kolk 探讨创伤对大脑和身体的影响，以及它如何阻碍人际连接。文章分析了创伤的根源、表现形式，并介绍了创新的治疗方法。
 area: personal-growth
 category: psychology
-project: []
-tags:
-- ptsd
-- 创伤
-- 大脑科学
-- 心理健康
-- 治疗
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- big-think
 date: '2025-10-07'
-author: Big Think
-speaker: Big Think
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- big-think
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-MI6Z_NlE8A
+speaker: Big Think
 status: evergreen
+summary: 精神病学家 Bessel van der Kolk 探讨创伤对大脑和身体的影响，以及它如何阻碍人际连接。文章分析了创伤的根源、表现形式，并介绍了创新的治疗方法。
+tags:
+- health
+- psychology
+- ptsd
+- science
+- 治疗
+title: 创伤如何摧毁我们与他人建立联系的能力：Bessel van der Kolk 深度解读
 ---
+
 ### 创伤的定义与影响
 
 In the preamble to the definition of PTSD, we write, these people have been exposed to an extraordinary event that's outside of normal human experience.

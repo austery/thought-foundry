@@ -1,45 +1,45 @@
 ---
-author: 政經孫老師
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 圣塔菲研究所
+- 中国共产党
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《心理利己主义》
+- 《野兽正义：动物的道德生活》
+- 《说苑》
+- 《强互惠的演化》
+people:
+- 乔尔范伯格
+- 贝科夫
+- 皮尔斯
+- 赫伯特金蒂斯
+- 萨米尔鲍勒斯
+- 刘向
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=KtaSz9xhwu4
 speaker: 政經孫老師
-tags:
-  - extreme-egoism
-  - altruism-suppression
-  - social-trust
-  - political-control
-  - societal-collapse
-title: 中国人的极端利己主义：心理、社会与生物学根源及其未来走向
-summary: 本文深入探讨了中国社会中普遍存在的极端利己主义现象，分析其在日常生活、职场、家庭乃至政治层面的具体表现。文章从心理学和生物学角度，结合心理利己主义理论、镜像神经元和梭形细胞等概念，阐释了利他行为的生物学基础。同时，文章指出中国特殊的政治和社会环境如何通过持续破坏信任、鼓励互相告密，刻意抑制了国民大脑中与利他行为相关的功能区，导致了这种病态的利己主义。最终，文章警告，一个缺乏强互惠行为的社会，其适应能力极低，在全球巨变中面临崩溃和“团灭”的风险，以此为全人类提供了警示。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 乔尔范伯格
-  - 贝科夫
-  - 皮尔斯
-  - 赫伯特金蒂斯
-  - 萨米尔鲍勒斯
-  - 刘向
-companies_orgs:
-  - 圣塔菲研究所
-  - 中国共产党
-products_models: []
-media_books:
-  - 《心理利己主义》
-  - 《野兽正义：动物的道德生活》
-  - 《说苑》
-  - 《强互惠的演化》
 status: evergreen
+summary: 本文深入探讨了中国社会中普遍存在的极端利己主义现象，分析其在日常生活、职场、家庭乃至政治层面的具体表现。文章从心理学和生物学角度，结合心理利己主义理论、镜像神经元和梭形细胞等概念，阐释了利他行为的生物学基础。同时，文章指出中国特殊的政治和社会环境如何通过持续破坏信任、鼓励互相告密，刻意抑制了国民大脑中与利他行为相关的功能区，导致了这种病态的利己主义。最终，文章警告，一个缺乏强互惠行为的社会，其适应能力极低，在全球巨变中面临崩溃和“团灭”的风险，以此为全人类提供了警示。
+tags:
+- canada
+- political-control
+- psychology
+- social
+- societal
+title: 中国人的极端利己主义：心理、社会与生物学根源及其未来走向
 ---
+
 ### 中国人行为特性的底层逻辑
 
 在日常生活中，我们普遍熟悉中国人的某些特性，例如缺乏公德心、极度自私以及喜欢占便宜等。尤其是在中国社会底层，互害现象非常严重。这些都是我们非常熟悉的中国人特性，但这些共同特性背后是否存在一种底层逻辑？本文将深入探讨这个问题。需要说明的是，本文所讨论的现象不限于拥有中国国籍的人，而是将“中国人”定义为一种道德和生活状态。无论民族、肤色、语言或居住地，任何表现出这种道德状态的人，都可被视为“道德上的中国人”。这种“道德中国人”的特点，可以总结为“极端的利己主义”，它导致了普遍低下的道德水准，甚至有时比动物更低。

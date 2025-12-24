@@ -1,80 +1,80 @@
 ---
-author: Big Think
+area: personal-systems
+category: psychology
+companies_orgs:
+- Ritholtz Wealth Management
+- S&P 500
+- GameStop
+- Hertz
+- Mutual of Omaha
+- Dow Jones
+- Microsoft
+- Intel
+- Arizona State University
+- Vanguard Group
+- Yale Endowment
+- BlackRock
+- State Street
+- Bureau of Labor Statistics
+- New York Stock Exchange
+- Federal Reserve
+- Internal Revenue Service
+- TikTok
+- Instagram
+- Meta
+- Twitter
+- Bloomberg
+- The Washington Post
+- The Wall Street Journal
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How Not to Invest
+- Star Trek
+- Mutual of Omaha's Wild Kingdom
+- Winning the Loser's Game
+- Jaws
+- Star Wars
+- Raiders of the Lost Ark
+- E.T.
+- The Big Picture
+- Masters in Business
+people:
+- Barry Ritholtz
+- William Bernstein
+- Charlie Ellis
+- Warren Buffet
+- Peter Lynch
+- Hendrik Bessembinder
+- Paul Samuelson
+- Jack Bogle
+- William Goldman
+- Philip Tetlock
+- Wright Brothers
+products_models:
+- 401k
+- 403b
+- NFT
+- SPAC
+project:
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=S-UqYUfvwss
 speaker: Big Think
-tags:
-  - cognitive-bias
-  - behavioral-finance
-  - investment-psychology
-  - long-term-investing
-title: 战胜天性：投资成功的关键在于避免认知陷阱
-summary: 著名投资顾问巴里·里茨霍尔兹深入剖析了为何人类进化而来的大脑并不适应现代投资环境。他指出，我们的生存本能，如恐惧、贪婪和从众心理，在金融市场中会转化为一系列代价高昂的认知偏误。文章详细解读了确认偏误、损失厌恶、叙事谬误等多个心理陷阱，并提出，投资是一场“输家的游戏”，胜利的关键不在于击败市场，而在于通过建立自动化、多元化、低成本的投资体系，避免犯下非受迫性失误，从而战胜自己的人性弱点。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Barry Ritholtz
-  - William Bernstein
-  - Charlie Ellis
-  - Warren Buffet
-  - Peter Lynch
-  - Hendrik Bessembinder
-  - Paul Samuelson
-  - Jack Bogle
-  - William Goldman
-  - Philip Tetlock
-  - Wright Brothers
-companies_orgs:
-  - Ritholtz Wealth Management
-  - S&P 500
-  - GameStop
-  - Hertz
-  - Mutual of Omaha
-  - Dow Jones
-  - Microsoft
-  - Intel
-  - Arizona State University
-  - Vanguard Group
-  - Yale Endowment
-  - BlackRock
-  - State Street
-  - Bureau of Labor Statistics
-  - New York Stock Exchange
-  - Federal Reserve
-  - Internal Revenue Service
-  - TikTok
-  - Instagram
-  - Facebook
-  - Twitter
-  - Bloomberg
-  - The Washington Post
-  - The Wall Street Journal
-products_models:
-  - 401k
-  - 403b
-  - NFT
-  - SPAC
-media_books:
-  - How Not to Invest
-  - Star Trek
-  - Mutual of Omaha's Wild Kingdom
-  - Winning the Loser's Game
-  - Jaws
-  - Star Wars
-  - Raiders of the Lost Ark
-  - E.T.
-  - The Big Picture
-  - Masters in Business
 status: evergreen
+summary: 著名投资顾问巴里·里茨霍尔兹深入剖析了为何人类进化而来的大脑并不适应现代投资环境。他指出，我们的生存本能，如恐惧、贪婪和从众心理，在金融市场中会转化为一系列代价高昂的认知偏误。文章详细解读了确认偏误、损失厌恶、叙事谬误等多个心理陷阱，并提出，投资是一场“输家的游戏”，胜利的关键不在于击败市场，而在于通过建立自动化、多元化、低成本的投资体系，避免犯下非受迫性失误，从而战胜自己的人性弱点。
+tags:
+- behavioral-finance
+- cognitive-bias
+- investment-psychology
+- long-term-investing
+title: 战胜天性：投资成功的关键在于避免认知陷阱
 ---
+
 ### 投资：一个已被解决的问题
 
 我认为很多人没有意识到，投资其实是一个已经被解决了的问题。我们知道股票和固定收益的平均回报率是多少，也了解通货膨胀的长期形态。我们大致清楚经济的运行规律及其波动范围。然而，那个我们尚未解决的变量，那张“王牌”，其实是我们自身的行为。

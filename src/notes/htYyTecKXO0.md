@@ -1,51 +1,50 @@
 ---
-author: 徒步的騎手
-date: 2025-03-25
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=htYyTecKXO0'
-speaker: 徒步的騎手
-tags:
-  - us-constitutional-crisis
-  - judicial-independence
-  - executive-power
-  - checks-and-balances
-  - democratic-resilience
-title: 美国宪法危机了么？川普、司法权与民主的韧性
-summary: 本文深入探讨了美国总统川普与联邦司法机构之间的冲突，包括其试图绕过法院遣返移民、威胁弹劾法官等举动，以及首席大法官约翰·罗伯茨对此的回应。文章引用宪法学教授斯蒂芬·乌拉戴克的定义，阐释了“宪法危机”的内涵，并结合行政命令、司法审核、弹劾等机制，分析了美国权力制衡的运作。通过回顾美国历史上的挑战，文章强调了美国民主的韧性，并呼吁以成熟的心态看待政治，理解民主进程中的挫折与抗争。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - John Roberts
-  - Stephen Vladeck
-  - Richard Nixon
-  - Franklin D. Roosevelt
-  - Winston Churchill
-  - John F. Kennedy
-  - Lyndon B. Johnson
-  - Martin Luther King Jr.
-  - Dietrich Bonhoeffer
-  - William Hastie
+category: geopolitics
 companies_orgs:
-  - US Supreme Court
-  - Fox News
-  - PBS
-  - US Congress
-  - NATO
-  - EU
-products_models: '[]'
+- US Supreme Court
+- Fox News
+- PBS
+- US Congress
+- NATO
+- EU
+date: 2025-03-25
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《狱中书简》
-  - 《英语国家史》
+- 《狱中书简》
+- 《英语国家史》
+people:
+- Donald Trump
+- John Roberts
+- Stephen Vladeck
+- Richard Nixon
+- Franklin D. Roosevelt
+- Winston Churchill
+- John F. Kennedy
+- Lyndon B. Johnson
+- Martin Luther King Jr.
+- Dietrich Bonhoeffer
+- William Hastie
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=htYyTecKXO0
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了美国总统川普与联邦司法机构之间的冲突，包括其试图绕过法院遣返移民、威胁弹劾法官等举动，以及首席大法官约翰·罗伯茨对此的回应。文章引用宪法学教授斯蒂芬·乌拉戴克的定义，阐释了“宪法危机”的内涵，并结合行政命令、司法审核、弹劾等机制，分析了美国权力制衡的运作。通过回顾美国历史上的挑战，文章强调了美国民主的韧性，并呼吁以成熟的心态看待政治，理解民主进程中的挫折与抗争。
+tags:
+- checks-and-balance
+- crisis
+- democratic-resilience
+- executive-power
+- judicial-independence
+title: 美国宪法危机了么？川普、司法权与民主的韧性
 ---
 
 ### 川普与司法权的冲突：宪法危机之辩

@@ -1,30 +1,29 @@
 ---
-title: 特朗普政府的“反恐战争”：法律边界与辩护困境
-summary: 本文探讨特朗普政府将贩毒分子定性为“非法战斗人员”的法律依据，分析了“自卫”理论的局限性，并讨论了国内及国际层面可能面临的法律挑战和争议。
 area: null
 category: null
-project: []
-tags:
-- drug-trafficking
-- international-law
-- legal-theory
-- war-powers
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-08'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TucMapNSTeo
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本文探讨特朗普政府将贩毒分子定性为“非法战斗人员”的法律依据，分析了“自卫”理论的局限性，并讨论了国内及国际层面可能面临的法律挑战和争议。
+tags:
+- health
+- law
+- power
+- theory
+title: 特朗普政府的“反恐战争”：法律边界与辩护困境
 ---
+
 ### 特朗普政府将贩毒分子定性为“非法战斗人员”
 
 委内瑞拉总统尼古拉斯·马杜罗请求教皇帮助维护国家和平，而美国军方则持续袭击委内瑞拉海域涉嫌运毒的船只。美国总统唐纳德·特朗普将此行为定性为与贩毒集团的“武装冲突”，并表示“我们正在打击委内瑞拉恐怖分子……每次看到一艘船，就会有数千人因船上的货物而死亡。”自上个月以来，美军已在加勒比地区发动了四次致命袭击，最近一次造成四人死亡。特朗普政府告知立法者，总统将毒贩视为非法战斗人员，需要动用军事力量打击他们。总统对战争权力的主张为扩大行动奠定了基础，并引发了关于政府在没有国会批准的情况下能走多远的疑问。

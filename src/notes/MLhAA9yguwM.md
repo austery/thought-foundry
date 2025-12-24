@@ -1,32 +1,30 @@
 ---
-author: AI Engineer
+area: tech-work
+category: ai-ml
+companies_orgs: []
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Michele Catasta
+products_models:
+- Rapid Agent
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=MLhAA9yguwM
 speaker: AI Engineer
-tags:
-  - llm
-  - autonomous-agents
-  - software-development
-  - nontechnical-users
-title: 自主性：非技术用户的编码代理
-summary: Michele Catasta 讨论了为非技术用户构建自主编码代理的挑战和机遇，强调了自主性的重要性、当前技术的局限性以及 Replit 在此领域的创新方法。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Michele Catasta
-companies_orgs: []
-products_models:
-  - Rapid Agent
-media_books: []
 status: evergreen
+summary: Michele Catasta 讨论了为非技术用户构建自主编码代理的挑战和机遇，强调了自主性的重要性、当前技术的局限性以及 Replit 在此领域的创新方法。
+tags:
+- agent
+- software-development
+- technology
+title: 自主性：非技术用户的编码代理
 ---
+
 ### 自主性：非技术用户的编码代理
 
 在Replit，我们正在为非技术用户构建一个编码代理。这是一个非常特殊的挑战，我认为与这个房间里的许多人面临的挑战非常不同。

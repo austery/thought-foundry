@@ -1,30 +1,28 @@
 ---
-title: 从余朦胧事件看中国社会认知：阴谋论、权力与海外声援的困境
-summary: 本期节目深入探讨余朦胧事件引发的社会热议，剖析阴谋论、权力解读在中国民众中的普遍性，并以核酸造假、官僚体系扭曲等案例，反思社会问题根源。同时，节目还讨论了苦难叙事节目的制作挑战，以及海外声援政治犯的伦理与实践困境。
 area: null
 category: null
-project: []
-tags:
-- bureaucracy-critique
-- chinese-politics
-- conspiracy-theories
-- human-rights-activism
-- media-scrutiny
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: 三個水槍手
-speaker: 三個水槍手
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9ST8Ux60IWY
+speaker: 三個水槍手
 status: evergreen
+summary: 本期节目深入探讨余朦胧事件引发的社会热议，剖析阴谋论、权力解读在中国民众中的普遍性，并以核酸造假、官僚体系扭曲等案例，反思社会问题根源。同时，节目还讨论了苦难叙事节目的制作挑战，以及海外声援政治犯的伦理与实践困境。
+tags:
+- chinese-politics
+- conspiracy-theory
+- critique
+- human
+- media
+title: 从余朦胧事件看中国社会认知：阴谋论、权力与海外声援的困境
 ---
+
 ### 余朦胧事件引发的舆论风暴与“幼稚”的指责
 
 **李厚诚:** 我每周都有期读评论节目。上周的读评论节目没有任何悬念，评论之多，你们俩看了吗？应该看到了吧？

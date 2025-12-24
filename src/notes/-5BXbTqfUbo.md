@@ -1,42 +1,42 @@
 ---
-author: 天下文化
+area: personal-systems
+category: career
+companies_orgs:
+- 明基亚太
+- 哈佛大学
+- 天下文化
 date: '2025-08-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《重啟人生》
+- 《与成功有约最后一堂课》
+- 《幸福的那个游戏》
+people:
+- 梁晓华
+- 张安佐
+- Arthur Brooks
+- Stephen Covey
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=-5BXbTqfUbo
 speaker: 天下文化
-tags:
-  - career-transition
-  - life-reboot
-  - leadership-resilience
-  - personal-values
-  - first-second-curve
-title: 掌握际遇变化，重塑职涯与人生：张安佐谈《重启人生》的领导智慧与心法
-summary: 前明基亚太总经理张安佐在《对谈领导力》节目中，分享了如何通过《重啟人生》一书的启发，应对职涯与人生的起伏。他深入探讨了人生“第一曲线”与“第二曲线”的概念，强调积累的经验和智慧能开启新高峰。张安佐结合自身从职场到教职的转型、以及在企业低潮期展现领导韧性的经验，提出了重塑自我价值、培养利他点和实践“人生重开机”的行动建议，为听众提供了在不确定时代下寻找新起点的深刻洞察。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 梁晓华
-  - 张安佐
-  - Arthur Brooks
-  - Stephen Covey
-companies_orgs:
-  - 明基亚太
-  - 哈佛大学
-  - 天下文化
-products_models: []
-media_books:
-  - 《重啟人生》
-  - 《与成功有约最后一堂课》
-  - 《幸福的那个游戏》
 status: evergreen
+summary: 前明基亚太总经理张安佐在《对谈领导力》节目中，分享了如何通过《重啟人生》一书的启发，应对职涯与人生的起伏。他深入探讨了人生“第一曲线”与“第二曲线”的概念，强调积累的经验和智慧能开启新高峰。张安佐结合自身从职场到教职的转型、以及在企业低潮期展现领导韧性的经验，提出了重塑自我价值、培养利他点和实践“人生重开机”的行动建议，为听众提供了在不确定时代下寻找新起点的深刻洞察。
+tags:
+- career-transition
+- first-second-curve
+- leadership-resilience
+- life
+- value
+title: 掌握际遇变化，重塑职涯与人生：张安佐谈《重启人生》的领导智慧与心法
 ---
+
 ### 开启职涯新篇章：从《重啟人生》谈领导智慧
 
 **主持人:** 欢迎收听《对谈领导力》，本节目由领导影响力学院与天下文化共同出品。我是主持人梁晓华。今天我们再次邀请到好朋友，前明基亚太的张安佐总经理来到节目中。今天您要推荐的书是这本叫做**《重啟人生》**（From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life: 一本探讨如何在人生下半场找到幸福、目标和新高峰的著作）。

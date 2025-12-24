@@ -1,37 +1,37 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- Beijing Municipal Government
+- Urban Management Bureau
+- Administration for Industry and Commerce
+- Meituan
 date: '2024-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《卖炭翁》
+people:
+- Bai Juyi
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=KkwyUc3CLag
 speaker: 莊也雜談
-tags:
-  - low-income-groups
-  - urban-migration
-  - urban-governance
-  - social-inequality
-  - cost-of-living
-title: 北京“低端人口”的生存现状：从挣扎到无奈逃离的城市边缘群体
-summary: 本文深入探讨了北京“低端人口”（低学历、低收入外来务工人员）的生存困境。从2017年大兴火灾后的强制清退，到2019年至今的柔性驱离措施，如限制群租、关闭打工子弟学校、整治路边摊等，这些政策迫使大量低收入群体离开北京。文章通过亲身经历和采访，揭示了他们面临的高昂生活成本、就业压力以及回乡无门的现实，反映了中国城市化进程中的社会矛盾。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-people:
-  - Bai Juyi
-companies_orgs:
-  - Beijing Municipal Government
-  - Urban Management Bureau
-  - Administration for Industry and Commerce
-  - Meituan
-products_models: []
-media_books:
-  - 《卖炭翁》
 status: evergreen
+summary: 本文深入探讨了北京“低端人口”（低学历、低收入外来务工人员）的生存困境。从2017年大兴火灾后的强制清退，到2019年至今的柔性驱离措施，如限制群租、关闭打工子弟学校、整治路边摊等，这些政策迫使大量低收入群体离开北京。文章通过亲身经历和采访，揭示了他们面临的高昂生活成本、就业压力以及回乡无门的现实，反映了中国城市化进程中的社会矛盾。
+tags:
+- cost-of-living
+- income
+- social-inequality
+- urban
+- urban-governance
+title: 北京“低端人口”的生存现状：从挣扎到无奈逃离的城市边缘群体
 ---
+
 ### 深入探讨北京“低端人口”的生存现状
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊回国的话题。上集我们谈到了在北京生活比较滋润的一群人，包括企事业单位的退休人员、体制内员工、大厂员工以及在外企工作的人。今天，我们将深入探讨那些在北京生活不那么舒服的人群，换句话说，就是那些低学历、低收入，绝大多数生活在城乡结合部的**外来人口**（Wàilái Rénkǒu: 指从外地来到某地居住和工作的人）。

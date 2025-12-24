@@ -5,14 +5,11 @@ area: null
 category: null
 project: []
 tags:
-  - 乌克兰
-  - 俄罗斯
-  - 无人机
-  - 非对称战争
-people: []
+- geopolitical
+- technology
+- 俄罗斯
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-06-20'
 author: Lei
 speaker: null
@@ -23,6 +20,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 TED Explains the World with Ian Bremmer
 
 TED与伊恩·布雷默共同解读世界

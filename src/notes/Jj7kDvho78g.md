@@ -1,39 +1,39 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: business
+companies_orgs:
+- GE Aerospace
+- 通用电气
+- Pratt & Whitney
+- Rolls Royce
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Jj7kDvho78g
 speaker: Shijun Tang
-tags:
-  - industrial-moat
-  - aftermarket-revenue-model
-  - oligopoly-market-structure
-  - capital-allocation-efficiency
-  - spinoff-transformation
-title: GE Aerospace：从旧通用电气脱胎的复利机器，护城河为何能称冠全球？
-summary: 本文深度剖析GE Aerospace的业务结构、市场垄断地位与高护城河特征，揭示其维修服务收入占六成、窄体机市场独大、长期合同锁定客户等核心优势，并评估其作为复利机器的投资价值。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-companies_orgs:
-  - GE Aerospace
-  - 通用电气
-  - Pratt & Whitney
-  - Rolls Royce
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深度剖析GE Aerospace的业务结构、市场垄断地位与高护城河特征，揭示其维修服务收入占六成、窄体机市场独大、长期合同锁定客户等核心优势，并评估其作为复利机器的投资价值。
+tags:
+- capital-allocation-efficiency
+- investment
+- market
+- model
+- transformation
+title: GE Aerospace：从旧通用电气脱胎的复利机器，护城河为何能称冠全球？
 ---
+
 ### GE Aerospace 的业务重构：从臃肿集团到专注引擎巨头
 
 今天这期内容，我们来深入剖析GE Aerospace——这家由原通用电气（General Electric）剥离而出、如今仅以单一核心业务运营的航空引擎巨头。其股票代码仍为GE，但公司实质早已脱胎换骨。

@@ -6,16 +6,15 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-native
-- engineering-efficiency
+- engineering
+- llm
 - organizational-structure
 - team-management
 people:
-  - 主持人
-  - 人川
+- 主持人
+- 人川
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-26
 author: Lei
 speaker: ''
@@ -27,6 +26,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 ### 前言：组织形式是 AI 时代的核心壁垒
 
 主持人: 我最近经常和各种人去讨论 AI 时代的组织形式这件事情。因为我觉得组织形式在 AI 时代的重要性，其实现在是远被大大低估的。甚至于中长期来看，组织形式很可能就是新一代的创业公司和传统公司相比，最大的竞争优势跟壁垒。因为传统的大厂现在最大的问题就是分工实在是太细了。分工如果太细，就说明这个团队里面缺少核心的人对模型的掌控和对最终产品的输出结果来负责。但反而是创业公司，几个人就能做很多端到端的事情，他们更理解模型能力的边界，更理解哪些用户需求是可以用模型的哪些能力来达到的。

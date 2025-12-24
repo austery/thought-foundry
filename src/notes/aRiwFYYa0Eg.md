@@ -1,53 +1,53 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Carrington Fox
+- Millennium
+- More Capital
+- Wheatzville Food Co-op
+- Jane Street
+- Georgia Pacific
+- Amazon
 date: '2025-07-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+- Alpha Trader
+- Liars Poker
+- Market Wizards
+- Thinking in Bets
+people:
+- Jill Weisenthal
+- Tracy Aloway
+- Brian Yelington
+- Brent Donnelly
+- Stanley Druckenmiller
+- Sam Bankman-Fried
+- Wendy Rhodess
+products_models:
+- E*TRADE
+project:
+- investment-strategy
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=aRiwFYYa0Eg
 speaker: Bloomberg Podcasts
-tags:
-  - hedge-fund-careers
-  - portfolio-management
-  - risk-management
-  - trading-psychology
-  - analyst-roles
-title: 多策略对冲基金：如何入职、留任与精进交易之道
-summary: 本期OddLots播客深入探讨了在多策略对冲基金中担任投资组合经理（PM）和分析师的职业生涯。嘉宾Brian Yelington分享了对冲基金的招聘流程、评估交易员表现的方法、风险管理的重要性，以及如何识别和培养交易“优势”。节目还讨论了交易心理、绩效考核、人工智能对分析师角色的潜在影响，以及如何避免团队内部的“群体思维”和“交易拥挤”现象，为有志于此的专业人士提供了宝贵的见解。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - entrepreneurship
-people:
-  - Jill Weisenthal
-  - Tracy Aloway
-  - Brian Yelington
-  - Brent Donnelly
-  - Stanley Druckenmiller
-  - Sam Bankman-Fried
-  - Wendy Rhodess
-companies_orgs:
-  - Bloomberg
-  - Carrington Fox
-  - Millennium
-  - More Capital
-  - Wheatzville Food Co-op
-  - Jane Street
-  - Georgia Pacific
-  - Amazon
-products_models:
-  - E*TRADE
-media_books:
-  - OddLots podcast
-  - Alpha Trader
-  - Liars Poker
-  - Market Wizards
-  - Thinking in Bets
 status: evergreen
+summary: 本期OddLots播客深入探讨了在多策略对冲基金中担任投资组合经理（PM）和分析师的职业生涯。嘉宾Brian Yelington分享了对冲基金的招聘流程、评估交易员表现的方法、风险管理的重要性，以及如何识别和培养交易“优势”。节目还讨论了交易心理、绩效考核、人工智能对分析师角色的潜在影响，以及如何避免团队内部的“群体思维”和“交易拥挤”现象，为有志于此的专业人士提供了宝贵的见解。
+tags:
+- analyst-role
+- career
+- portfolio-management
+- psychology
+- risk-management
+title: 多策略对冲基金：如何入职、留任与精进交易之道
 ---
+
 ### 多策略对冲基金的职业生涯：入职与留任
 
 **Jill Weisenthal:** 大家好，欢迎收听新一期的OddLots播客。我是Jill Weisenthal。

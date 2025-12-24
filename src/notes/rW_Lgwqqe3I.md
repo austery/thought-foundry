@@ -1,31 +1,30 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: history
+companies_orgs: []
 date: '2024-08-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Reich
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=rW_Lgwqqe3I
 speaker: Dwarkesh Patel
-tags:
-  - human-evolution
-  - neanderthals
-  - cultural-innovation
-  - genetics
-  - admixture
-title: 人类物种的演化与灭绝：文化创新与基因混合的视角
-summary: 本视频探讨了约7万年前地球上存在多种人类物种，而最终只有源自撒哈拉以南非洲的智人（Homo sapiens）得以繁衍壮大的原因。演讲者倾向于认为文化创新而非基因是关键驱动力，解释了知识积累、群体规模与信息丢失的动态平衡。同时，通过分析古DNA研究，揭示了非非洲人群的祖先中，尼安德特人（Neanderthals）的比例可能远超2%，并探讨了尼安德特人基因因生物适应性较低而在与智人混合后逐渐被淘汰的机制，提出了非非洲人群可能是被智人基因“现代化”的尼安德特人后裔的观点。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - David Reich
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频探讨了约7万年前地球上存在多种人类物种，而最终只有源自撒哈拉以南非洲的智人（Homo sapiens）得以繁衍壮大的原因。演讲者倾向于认为文化创新而非基因是关键驱动力，解释了知识积累、群体规模与信息丢失的动态平衡。同时，通过分析古DNA研究，揭示了非非洲人群的祖先中，尼安德特人（Neanderthals）的比例可能远超2%，并探讨了尼安德特人基因因生物适应性较低而在与智人混合后逐渐被淘汰的机制，提出了非非洲人群可能是被智人基因“现代化”的尼安德特人后裔的观点。
+tags:
+- admixture
+- cultural
+- health
+- human-evolution
+- neanderthal
+title: 人类物种的演化与灭绝：文化创新与基因混合的视角
 ---
+
 ### 人类物种的演化与灭绝
 
 大约7万年前，地球上存在着半打（六种）不同的人类物种，它们分布在世界各地，差异很大。随后，一支源自**撒哈拉以南非洲**（Sub-Saharan Africa: 非洲撒哈拉沙漠以南地区）的人群开始在全球范围内爆炸式扩张。这似乎表明有什么发生了变化。您认为是什么原因呢？我非常倾向于认为这并非基因所致，而是**文化创新**（Cultural Innovation: 指人类社会在文化、技术、思想等方面产生的新的发展和突破）。

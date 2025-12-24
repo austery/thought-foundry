@@ -1,97 +1,96 @@
 ---
-author: 張内咸
+area: society-thinking
+category: politics-society
+companies_orgs:
+- World Health Organization
+- United Nations Educational, Scientific and Cultural Organization
+- Mosfilm
+- Bilibili
+- Marvel
 date: '2025-06-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《尚氣》
+- 《Monster Hunter》
+- 《功夫熊貓》
+- 《鬼子來了》
+- 《別告訴她》
+- 《活著》
+- 《霸王別姬》
+- 《狼犬丹尼》
+- 《暗物質》
+- 《龍年》
+- 《神機箭》
+- 《傳染病》
+- 《藝伎回憶錄》
+- 《千年女優》
+- 《小美人魚》
+- 《金陵十三釵》
+- 《功夫夢》
+- 《空手道小子》
+- 《笑林小子》
+- 《北京55日》
+- 《德蘇·烏紮拉》
+people:
+- Donald Trump
+- Vladimir Putin
+- Xi Jinping
+- Lu Xun
+- Li Lianjie
+- Liu Ye
+- Meryl Streep
+- Mickey Rourke
+- Christian Bale
+- Ni Ni
+- Jackie Chan
+- Kurosawa Akira
+- Vladimir Arsenyev
+- Desu Uzala
+- Huang Taiji
+- Han Geng
+- Mao Zedong
+- Lin Biao
+- Jiang Wen
+- Jia Zhangke
+- Lou Ye
+- Wang Xiaoshuai
+- Zhang Yimou
+- Chen Kaige
+- Yang Xiaoming
+- Steven Soderbergh
+- Zhang Ziyi
+- Gong Li
+- Michelle Yeoh
+- Rob Marshall
+- Napoleon Bonaparte
+- Joseph Stalin
+- Leonid Brezhnev
+- Jiang Jieshi
+products_models:
+- Monster Hunter
+- Weibo
+- Douban
+- Samurai Warriors
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=sw_ElLO1mYI
 speaker: 張内咸
-tags:
-  - cultural-sensitivity
-  - nationalism
-  - media-censorship
-  - historical-interpretation
-  - political-polarization
-title: 全球「辱華」神片TOP10：從以伊衝突看中國人的「玻璃心」與彈性
-summary: 本期節目深入探討了「辱華」現象在當代中國社會中的複雜性，從以伊衝突引發的集體「破防」談起，引出中國人面對外來文化產品時的敏感與「精神勝利法」。主持人張内咸不僅梳理了「辱華」、醜化中國與反共三種概念的區別，更列舉了十部被認為「辱華」的電影，包括李連傑主演的《狼犬丹尼》、黑澤明的《德蘇·烏紮拉》等，分析其「辱華」原因及中國社會的反應，揭示了中國人「既自信又自卑」的彈性心理。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Vladimir Putin
-  - Xi Jinping
-  - Lu Xun
-  - Li Lianjie
-  - Liu Ye
-  - Meryl Streep
-  - Mickey Rourke
-  - Christian Bale
-  - Ni Ni
-  - Jackie Chan
-  - Kurosawa Akira
-  - Vladimir Arsenyev
-  - Desu Uzala
-  - Huang Taiji
-  - Han Geng
-  - Mao Zedong
-  - Lin Biao
-  - Jiang Wen
-  - Jia Zhangke
-  - Lou Ye
-  - Wang Xiaoshuai
-  - Zhang Yimou
-  - Chen Kaige
-  - Yang Xiaoming
-  - Steven Soderbergh
-  - Zhang Ziyi
-  - Gong Li
-  - Michelle Yeoh
-  - Rob Marshall
-  - Napoleon Bonaparte
-  - Joseph Stalin
-  - Leonid Brezhnev
-  - Jiang Jieshi
-companies_orgs:
-  - World Health Organization
-  - United Nations Educational, Scientific and Cultural Organization
-  - Mosfilm
-  - Bilibili
-  - Marvel
-products_models:
-  - Monster Hunter
-  - Weibo
-  - Douban
-  - Samurai Warriors
-media_books:
-  - 《尚氣》
-  - 《Monster Hunter》
-  - 《功夫熊貓》
-  - 《鬼子來了》
-  - 《別告訴她》
-  - 《活著》
-  - 《霸王別姬》
-  - 《狼犬丹尼》
-  - 《暗物質》
-  - 《龍年》
-  - 《神機箭》
-  - 《傳染病》
-  - 《藝伎回憶錄》
-  - 《千年女優》
-  - 《小美人魚》
-  - 《金陵十三釵》
-  - 《功夫夢》
-  - 《空手道小子》
-  - 《笑林小子》
-  - 《北京55日》
-  - 《德蘇·烏紮拉》
 status: evergreen
+summary: 本期節目深入探討了「辱華」現象在當代中國社會中的複雜性，從以伊衝突引發的集體「破防」談起，引出中國人面對外來文化產品時的敏感與「精神勝利法」。主持人張内咸不僅梳理了「辱華」、醜化中國與反共三種概念的區別，更列舉了十部被認為「辱華」的電影，包括李連傑主演的《狼犬丹尼》、黑澤明的《德蘇·烏紮拉》等，分析其「辱華」原因及中國社會的反應，揭示了中國人「既自信又自卑」的彈性心理。
+tags:
+- cultural
+- historical
+- media
+- nationalism
+title: 全球「辱華」神片TOP10：從以伊衝突看中國人的「玻璃心」與彈性
 ---
+
 ### 引言：小粉紅的「破防」與以伊衝突
 
 大家好，我是張内咸。過去的一周，真的是讓**小粉紅**（Xiao Fen Hong: 指中國網絡上極端民族主義的年輕人）集體「破防」的一周。先是以色列宣布對伊朗實施「**斬首行動**」（Decapitation Strike: 指通過精準打擊消滅敵方領導層或指揮系統的軍事行動），緊接著伊朗表示要對以色列展開「報復行動」，大戰一觸即發，全世界等著看美國的表現。川普弱弱地說：「你等等，給我們兩周時間研究研究。」正當伊朗鬆了口氣的時候，沒想到隔天美國就出動B2轟炸機，空襲了伊朗的核設施基地。川普說：「祝賀祝賀。」以色列說：「充分合作。」伊朗咬著牙說：「材料還在。」美國趕緊補充說：「基本摧毀。」普京一看都沒人理他了，插嘴說：「毫無道理。」川普翻了翻白眼說：「全面停火。」感覺從頭到尾就習近平沒說話。習近平不說，因為他不用**X**（X: 指社交媒體平台Twitter，在中國大陸常被代指）嘛。

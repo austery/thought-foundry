@@ -1,64 +1,64 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- NASA
 date: '2024-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Interstellar
+- La Jetée
+- Flatland
+- '2001: A Space Odyssey'
+- Gravity
+- Memento
+- Inception
+- The Prestige
+- About Time
+- Source Code
+people:
+- Murphy
+- Cooper
+- Professor Brandon
+- Emilia Brand
+- Mann
+- Socrates
+- Karen Barad
+- Johnathan Nolan
+- Edwin Abbott
+- Adam Smith
+- Dietrich von Hildebrand
+- Yuri Gagarin
+- Hannah Arendt
+- Einstein
+- Bergson
+- Leonard
+- Kip Thorne
+- Martin Hägglund
+- Nikola Tesla
+products_models:
+- Ever Given
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=0L20z8y3EGY
 speaker: 超級歪 SuperY
-tags:
-  - time-philosophy
-  - love-essence
-  - human-agency
-  - finitude-of-existence
-  - interstellar-analysis
-title: 《星际穿越》十周年：电影背后的时间哲学、爱的本质与人类的有限性
-summary: 本文深入探讨了电影《星际穿越》上映十周年之际所蕴含的深刻哲学议题。从马尔萨斯式危机背景下的道德困境，到量子力学中的能动实在论，再到爱因斯坦与柏格森关于时间本质的辩论，以及爱与人类有限性的哲学思考。文章通过分析电影情节，揭示了人类在面对未知、追求超越时，如何重新审视自身与地球、时间以及爱的关系，最终强调了世俗信念中有限生命所赋予行动的意义。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - Murphy
-  - Cooper
-  - Professor Brandon
-  - Emilia Brand
-  - Mann
-  - Socrates
-  - Karen Barad
-  - Johnathan Nolan
-  - Edwin Abbott
-  - Adam Smith
-  - Dietrich von Hildebrand
-  - Yuri Gagarin
-  - Hannah Arendt
-  - Einstein
-  - Bergson
-  - Leonard
-  - Kip Thorne
-  - Martin Hägglund
-  - Nikola Tesla
-companies_orgs:
-  - NASA
-products_models:
-  - Ever Given
-media_books:
-  - Interstellar
-  - La Jetée
-  - Flatland
-  - '2001: A Space Odyssey'
-  - Gravity
-  - Memento
-  - Inception
-  - The Prestige
-  - About Time
-  - Source Code
 status: evergreen
+summary: 本文深入探讨了电影《星际穿越》上映十周年之际所蕴含的深刻哲学议题。从马尔萨斯式危机背景下的道德困境，到量子力学中的能动实在论，再到爱因斯坦与柏格森关于时间本质的辩论，以及爱与人类有限性的哲学思考。文章通过分析电影情节，揭示了人类在面对未知、追求超越时，如何重新审视自身与地球、时间以及爱的关系，最终强调了世俗信念中有限生命所赋予行动的意义。
+tags:
+- analysis
+- finitude-of-existence
+- human
+- love
+- time-philosophy
+title: 《星际穿越》十周年：电影背后的时间哲学、爱的本质与人类的有限性
 ---
+
 ### 《星际穿越》：马尔萨斯式危机与道德困境
 
 在电影《星际穿越》上映十周年之际，我们将深入解析这部作品。故事背景设定在2067年的地球，彼时气候灾难和农作物病害导致了严重的粮食危机，人类面临灭绝的威胁。女主角**墨菲**（Murphy）一天在书房中发现了引力异常，她与父亲**库珀**（Cooper）循着引力的二进制坐标，意外来到了**NASA**（美国国家航空航天局）的秘密基地，并了解了外星殖民计划。为了拯救地球上濒临灭绝的人类，库珀告别家人，踏上了为人类寻找第二个家园的太空冒险之旅。

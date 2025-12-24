@@ -1,74 +1,71 @@
 ---
-title: 20251116「温故知新」月中读书会
-summary: "本次社区读书会汇集了处于人生不同阶段的成员。从大一新生Allen立志进入麦肯锡的“输出倒逼输入”法，到职场人Panpan和Xuan探索副业与自由职业的转型，再到张老师引用的《From Strength to Strength》关于中年“流体智力”向“晶体智力”转型的深度探讨。Ray在最后分享了关于“不纠结公平、与运气做朋友”的人生哲学，并强调了“松弛感”对于长期创作和生活的关键作用。"
-date: '2025-11-20'
+area: personal-systems
 author: Lei
-layout: post.njk
-area: "personal-systems"
-category: "psychology"
-project:
-  - "personal-growth-lab"
-  - "knowledge-pipeline"
-tags:
-  - "hero-journey"
-  - "midlife-transition"
-  - "career-pivot"
-  - "wealth-mindset"
-  - "uncertainty"
-speaker: 一口新饭读书会
-source: https://www.youtube.com/watch?v=cdc6WipdSIM
-people:
-  - "Ray"
-  - "Allen"
-  - "谢语论"
-  - "张修修"
-  - "Paul Millerd"
-  - "Panpan"
-  - "张敏"
-  - "Xuan"
-  - "Alex"
-  - "Derek Sivers"
-  - "张老师"
-  - "Arthur Brooks"
-  - "Vivian"
-  - "王浩"
-  - "小西瓜"
-  - "Naval Ravikant"
-  - "Adler"
-  - "Nassim Nicholas Taleb"
-  - "Celine"
-  - "当年明月"
-  - "王阳明"
-  - "蔡澜"
-
+category: psychology
 companies_orgs:
-  - "McKinsey"
-  - "BCG"
-  - "Meta"
-  - "Facebook"
-  - "Google"
-  - "Big Four accounting firms"
-
-products_models:
-  - "MoneyXYZ"
-  - "Framer"
-  - "ChatGPT"
-
+- McKinsey
+- BCG
+- Meta
+- Google
+- Big Four accounting firms
+date: '2025-11-20'
+layout: post.njk
 media_books:
-  - "《The Pathless Path》"
-  - "《The Almanack of Naval Ravikant》"
-  - "《Early Retirement Extreme》"
-  - "《Influence》"
-  - "《From Strength to Strength》"
-  - "《Good Energy》"
-  - "《Just Keep Buying》"
-  - "《被讨厌的勇气》"
-  - "《当下的力量》"
-  - "《跑步治愈》"
-  - "《The Black Swan》"
-  - "《Don't Believe Everything You Think》"
-  - "《The Five Types of Wealth》"
-  - "《明朝那些事儿》"
+- 《The Pathless Path》
+- 《The Almanack of Naval Ravikant》
+- 《Early Retirement Extreme》
+- 《Influence》
+- 《From Strength to Strength》
+- 《Good Energy》
+- 《Just Keep Buying》
+- 《被讨厌的勇气》
+- 《当下的力量》
+- 《跑步治愈》
+- 《The Black Swan》
+- 《Don't Believe Everything You Think》
+- 《The Five Types of Wealth》
+- 《明朝那些事儿》
+people:
+- Ray
+- Allen
+- 谢语论
+- 张修修
+- Paul Millerd
+- Panpan
+- 张敏
+- Xuan
+- Alex
+- Derek Sivers
+- 张老师
+- Arthur Brooks
+- Vivian
+- 王浩
+- 小西瓜
+- Naval Ravikant
+- Adler
+- Nassim Nicholas Taleb
+- Celine
+- 当年明月
+- 王阳明
+- 蔡澜
+products_models:
+- MoneyXYZ
+- Framer
+- ChatGPT
+project:
+- personal-growth-lab
+- knowledge-pipeline
+source: https://www.youtube.com/watch?v=cdc6WipdSIM
+speaker: 一口新饭读书会
+summary: 本次社区读书会汇集了处于人生不同阶段的成员。从大一新生Allen立志进入麦肯锡的“输出倒逼输入”法，到职场人Panpan和Xuan探索副业与自由职业的转型，再到张老师引用的《From
+  Strength to Strength》关于中年“流体智力”向“晶体智力”转型的深度探讨。Ray在最后分享了关于“不纠结公平、与运气做朋友”的人生哲学，并强调了“松弛感”对于长期创作和生活的关键作用。
+tags:
+- career
+- hero-journey
+- life
+- llm
+- wealth
+title: 20251116「温故知新」月中读书会
 ---
 
 Ray: Hello. Hello, Alan. 哎，可以把En也邀请上来。好，对，好像突然放春节序曲啊？哎，等一下。Allen可以邀请一下。哎，Hello hello，邀请哦。Hello Allen，你是新人，对，应该是Hello。嗯，Hello hello，第一次见，好清秀。

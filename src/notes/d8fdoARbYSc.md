@@ -1,71 +1,71 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Demon Slayer Corps
 date: '2025-08-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Demon Slayer: Infinity Castle Arc'
+- The Tale of Heike
+- Dai Chuu Nagon Monogatari
+- Kokon Chomonshu
+people:
+- Muzan Kibutsuji
+- Kocho Shinobu
+- Doma
+- Agatsuma Zenitsu
+- Gyutaro
+- Kamado Tanjiro
+- Tomioka Giyu
+- Akaza
+- Audre Lorde
+- Carl Jung
+- Kaigaku
+- Ryomen Sukuna
+- Kidomaru
+- Hantengu
+- Yanagita Kunio
+- Lev Mechnikov
+- Koshihara Sho
+- Urokodaki Sakonji
+- Leo Tolstoy
+- Peter Kropotkin
+- Arishima Takeo
+- Thich Quang Duc
+- Rengoku Kyojuro
+- Kokushibo
+- Herbert Spencer
+- Kaneko Kentarō
+- Itō Hirobumi
+- Kamado Nezuko
+- Daki
+- Tokito Muichiro
+- Rui
+- Koyuki
+products_models:
+- Youlisn K-song Bluetooth speaker
+project:
+- cultural-critique
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=d8fdoARbYSc
 speaker: 超級歪 SuperY
-tags:
-  - human-nature
-  - social-darwinism
-  - mutual-aid
-  - self-and-shadow
-  - selflessness
-title: 《鬼灭之刃：无限城篇》的人性论哲学：从历史、心理到互助与无我
-summary: 本文深入分析《鬼灭之刃：无限城篇》中的三场关键战役，探讨“鬼”在不同历史时期和文化语境中的象征意义。文章从日本古代的社会压抑、荣格的“自我与阴影”理论，到社会达尔文主义的“强者至上”观念，以及炭治郎所代表的“互助论”和“无我论”进行哲学解读。最终，文章将鬼的存在视为人类遗忘记忆、重复创伤的象征，并提出《鬼灭之刃》是一场集体精神分析，旨在唤醒现代人被遗忘的互助精神。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - systems-thinking
-people:
-  - Muzan Kibutsuji
-  - Kocho Shinobu
-  - Doma
-  - Agatsuma Zenitsu
-  - Gyutaro
-  - Kamado Tanjiro
-  - Tomioka Giyu
-  - Akaza
-  - Audre Lorde
-  - Carl Jung
-  - Kaigaku
-  - Ryomen Sukuna
-  - Kidomaru
-  - Hantengu
-  - Yanagita Kunio
-  - Lev Mechnikov
-  - Koshihara Sho
-  - Urokodaki Sakonji
-  - Leo Tolstoy
-  - Peter Kropotkin
-  - Arishima Takeo
-  - Thich Quang Duc
-  - Rengoku Kyojuro
-  - Kokushibo
-  - Herbert Spencer
-  - Kaneko Kentarō
-  - Itō Hirobumi
-  - Kamado Nezuko
-  - Daki
-  - Tokito Muichiro
-  - Rui
-  - Koyuki
-companies_orgs:
-  - Demon Slayer Corps
-products_models:
-  - Youlisn K-song Bluetooth speaker
-media_books:
-  - 'Demon Slayer: Infinity Castle Arc'
-  - The Tale of Heike
-  - Dai Chuu Nagon Monogatari
-  - Kokon Chomonshu
 status: evergreen
+summary: 本文深入分析《鬼灭之刃：无限城篇》中的三场关键战役，探讨“鬼”在不同历史时期和文化语境中的象征意义。文章从日本古代的社会压抑、荣格的“自我与阴影”理论，到社会达尔文主义的“强者至上”观念，以及炭治郎所代表的“互助论”和“无我论”进行哲学解读。最终，文章将鬼的存在视为人类遗忘记忆、重复创伤的象征，并提出《鬼灭之刃》是一场集体精神分析，旨在唤醒现代人被遗忘的互助精神。
+tags:
+- human-nature
+- llm
+- psychology
+- self
+- social
+title: 《鬼灭之刃：无限城篇》的人性论哲学：从历史、心理到互助与无我
 ---
+
 ### “鬼”的象征意义：从历史到哲学
 
 今天，我们将深入分析电影《鬼灭之刃：无限城篇》。

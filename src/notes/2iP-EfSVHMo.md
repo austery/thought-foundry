@@ -1,57 +1,56 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: general
+companies_orgs:
+- NBA
+- FBI
+- Miami Heat
+- Portland Trail Blazers
+- Los Angeles Lakers
+- Toronto Raptors
+- Sacramento Kings
+- Dallas Mavericks
+- Fort Wayne Pistons
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《个人犯规》
+people:
+- Kash Patel
+- Terry Rozier
+- Chauncey Billups
+- Damon Jones
+- Jontay Porter
+- Malik Beasley
+- Tim Donaghy
+- David Stern
+- Jack Molinas
+- Vlade Divac
+- Mike Bibby
+- Kobe Bryant
+- Shaquille O'Neal
+- Dirk Nowitzki
+- Dwyane Wade
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=2iP-EfSVHMo
 speaker: 北美王路飞
-tags:
-  - nba-corruption
-  - sports-gambling
-  - match-fixing
-  - regulatory-challenges
-  - sports-integrity
-title: NBA赌球丑闻：揭秘体育帝国深处的腐败与危机
-summary: 本文深入探讨了NBA历史上体育博彩和假球丑闻的演变，从早期的控分操纵到现代的微操纵和内部信息泄露。文章详细揭露了昌西·比卢普斯、特里·罗齐尔、蒂姆·多纳希等关键人物的涉案细节，以及赌博合法化对联盟诚信带来的挑战。它探讨了腐败对运动员、公平竞争和联盟公信力的深远影响，并呼吁联盟在拥抱商业利益的同时，加强监管以抵御腐蚀性力量。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - Kash Patel
-  - Terry Rozier
-  - Chauncey Billups
-  - Damon Jones
-  - Jontay Porter
-  - Malik Beasley
-  - Tim Donaghy
-  - David Stern
-  - Jack Molinas
-  - Vlade Divac
-  - Mike Bibby
-  - Kobe Bryant
-  - Shaquille O'Neal
-  - Dirk Nowitzki
-  - Dwyane Wade
-companies_orgs:
-  - NBA
-  - FBI
-  - Miami Heat
-  - Portland Trail Blazers
-  - Los Angeles Lakers
-  - Toronto Raptors
-  - Sacramento Kings
-  - Dallas Mavericks
-  - Fort Wayne Pistons
-products_models: []
-media_books:
-  - 《个人犯规》
 status: evergreen
+summary: 本文深入探讨了NBA历史上体育博彩和假球丑闻的演变，从早期的控分操纵到现代的微操纵和内部信息泄露。文章详细揭露了昌西·比卢普斯、特里·罗齐尔、蒂姆·多纳希等关键人物的涉案细节，以及赌博合法化对联盟诚信带来的挑战。它探讨了腐败对运动员、公平竞争和联盟公信力的深远影响，并呼吁联盟在拥抱商业利益的同时，加强监管以抵御腐蚀性力量。
+tags:
+- challenge
+- life
+- match-fixing
+- nba-corruption
+title: NBA赌球丑闻：揭秘体育帝国深处的腐败与危机
 ---
+
 ### NBA腐败风暴：内部侵蚀与古老幽灵
 
 大家好，欢迎来到我的频道。今天，我们要讨论一个价值千亿的体育帝国，以及一个可能正在从内部侵蚀它的古老幽灵。我们谈论的是NBA，一个关于激情、汗水与梦想的地方。但如果，我说是如果，这背后的一切，有一部分是被安排好的呢？

@@ -1,71 +1,69 @@
 ---
-author: 莊也雜談
+area: society-thinking
+category: politics-society
+companies_orgs:
+- G7
+- G8
+- G20
+- European Community
+- European Union
+- United Nations
+- NATO
+- World Bank
+- FBI
+- RCMP
 date: '2025-06-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Justin Trudeau
+- Mark Carney
+- Emmanuel Macron
+- Giorgia Meloni
+- Keir Starmer
+- Joe Biden
+- Angela Merkel
+- Pierre Trudeau
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Anthony Albanese
+- Luiz Inácio Lula da Silva
+- Narendra Modi
+- Claudia Sheinbaum
+- Cyril Ramaphosa
+- Lee Jae-myung
+- Mark Rutte
+- António Guterres
+- Ajay Banga
+- Mohammed bin Salman
+- Prabowo Subianto
+- Kim Jong Un
+- Hardeep Singh Nijjar
+- Stephen Harper
+products_models:
+- F/A-18 Hornet
+- Air Force One
+- Truth Social
+project:
+- geopolitics-watch
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=AYPZHFFjXA8
 speaker: 莊也雜談
-tags:
-  - g7-summit
-  - international-relations
-  - diplomatic-strategy
-  - geopolitics
-  - trade-war
-title: 2025年G7峰会：全球乱局下的加拿大外交策略与挑战
-summary: 本文深入剖析了2025年在加拿大举行的G7峰会。面对中东战火突起、美国总统特朗普提前离场以及全球经济不确定性等多重挑战，加拿大总理卡尼如何运用务实的外交策略，在复杂局面中维护国家利益。文章探讨了峰会的历史沿革、关键议题、幕后外交细节，以及加拿大在国际舞台上所面临的机遇与困境，特别是其对乌克兰的援助和与印度关系的微妙处理。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - historical-insights
-people:
-  - Donald Trump
-  - Justin Trudeau
-  - Mark Carney
-  - Emmanuel Macron
-  - Giorgia Meloni
-  - Keir Starmer
-  - Joe Biden
-  - Angela Merkel
-  - Pierre Trudeau
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - Anthony Albanese
-  - Luiz Inácio Lula da Silva
-  - Narendra Modi
-  - Claudia Sheinbaum
-  - Cyril Ramaphosa
-  - Lee Jae-myung
-  - Mark Rutte
-  - António Guterres
-  - Ajay Banga
-  - Mohammed bin Salman
-  - Prabowo Subianto
-  - Kim Jong Un
-  - Hardeep Singh Nijjar
-  - Stephen Harper
-companies_orgs:
-  - G7
-  - G8
-  - G20
-  - European Community
-  - European Union
-  - United Nations
-  - NATO
-  - World Bank
-  - FBI
-  - RCMP
-products_models:
-  - F/A-18 Hornet
-  - Air Force One
-  - Truth Social
-media_books: []
 status: evergreen
+summary: 本文深入剖析了2025年在加拿大举行的G7峰会。面对中东战火突起、美国总统特朗普提前离场以及全球经济不确定性等多重挑战，加拿大总理卡尼如何运用务实的外交策略，在复杂局面中维护国家利益。文章探讨了峰会的历史沿革、关键议题、幕后外交细节，以及加拿大在国际舞台上所面临的机遇与困境，特别是其对乌克兰的援助和与印度关系的微妙处理。
+tags:
+- g7-summit
+- international-relations
+- strategy
+- trade-war
+title: 2025年G7峰会：全球乱局下的加拿大外交策略与挑战
 ---
+
 ### 2025年G7峰会：历史沿革与成员变迁
 
 大家好，我是庄也。今天我们来聊聊本周刚刚闭幕的G7峰会，它于6月15日至17日召开。本届**G7峰会**（Group of Seven Summit: 由世界七个主要发达民主经济体组成的政府间政治和经济论坛）原本是加拿大总理卡尼精心筹划，意在展示国家领导力的一次国际亮相。谁料中东战火突起，美国总统特朗普临时提前退场，峰会议程也被全面打乱。就这样，原本的一次高光时刻，却变成了一场临场应变的外交大考。面对突发情况，卡尼如何化解尴尬、稳住局面？他能否在混乱中守住加拿大的核心利益？今天庄也就带着您一起看清这场全球瞩目的外交峰会，其背后隐藏的玄机和奥妙。

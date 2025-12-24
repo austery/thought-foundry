@@ -1,34 +1,33 @@
 ---
-title: 深度解读：伊朗市场动态与投资前景 - Odd Lots
-summary: null
-area: market-analysis
-category: finance
-project:
-- geopolitics-watch
-- investment-strategy
-tags:
-  - geopolitics
-  - 伊朗经济
-  - 制裁
-  - 投资前景
-  - 股票市场
-people:
-  - Tracy Alloway
-  - Joe Weisenthal (Odd Lots)
-  - Matia Wial (Antelon Capital CEO & CIO)
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: society-thinking
 author: Lei
-speaker: ''
+category: politics-society
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Tracy Alloway
+- Joe Weisenthal (Odd Lots)
+- Matia Wial (Antelon Capital CEO & CIO)
+products_models: []
+project:
+- geopolitics-watch
+- investment-strategy
 series: null
 source: https://www.youtube.com/watch?v=EppHLdwUqUI&t=1s
+speaker: ''
+summary: null
+tags:
+- financial
+- geopolitical
+- investment
+- 股票市场
+title: 深度解读：伊朗市场动态与投资前景 - Odd Lots
 ---
+
 ## 引言：揭开伊朗经济的神秘面纱
 
 **Host 1:** One thing we have learned in all our episodes looking at the

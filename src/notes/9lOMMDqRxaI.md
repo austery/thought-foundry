@@ -1,70 +1,69 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Tron
+- SEC
+- DOJ
+- Blue Origin
+- Tether
+- PayPal
+- UNODC
+- FTX
+- Binance
+- Circle
+- Coinbase
+- Dominion Securities
+- NASDAQ
+- Hamas
+- TRM
 date: '2025-10-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- Bloomberg Businessweek
+- 《交易的艺术》
+people:
+- Justin Sun
+- Donald Trump
+- Lamar Odom
+- Elizabeth Warren
+- Gary Gensler
+- Paul Atkins
+- Jeff Bezos
+- Eric Trump
+- Marsha Blackburn
+- Lindsey Lohan
+- Candra Last
+- Sam Bankman-Fried
+- Zhao Changpeng
+- David Geffen
+- 熊子涵
+- 魏源
+products_models:
+- World Liberty
+- BitTorrent
+- USDT
+- A330
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9lOMMDqRxaI
 speaker: 记者易速利
-tags:
-  - crypto-regulation
-  - political-influence
-  - stablecoin-utility
-  - financial-crime
-  - art-market
-title: 孙宇晨的加密帝国、政治博弈与艺术纠纷：一场跨越全球的财富与权力游戏
-summary: 本文深入探讨了加密货币亿万富翁孙宇晨的复杂世界，包括他与美国前总统特朗普的密切联系、其区块链平台波场创在全球支付和非法活动中的双重角色，以及他与美国监管机构和艺术界巨头的多重法律纠纷。文章揭示了孙宇晨如何游走于加密创新、政治影响力与法律边缘之间，以及加密货币行业在监管放松和政治干预下的演变。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Justin Sun
-  - Donald Trump
-  - Lamar Odom
-  - Elizabeth Warren
-  - Gary Gensler
-  - Paul Atkins
-  - Jeff Bezos
-  - Eric Trump
-  - Marsha Blackburn
-  - Lindsey Lohan
-  - Candra Last
-  - Sam Bankman-Fried
-  - Zhao Changpeng
-  - David Geffen
-  - 熊子涵
-  - 魏源
-companies_orgs:
-  - Tron
-  - SEC
-  - DOJ
-  - Blue Origin
-  - Tether
-  - PayPal
-  - UNODC
-  - FTX
-  - Binance
-  - Circle
-  - Coinbase
-  - Dominion Securities
-  - NASDAQ
-  - Hamas
-  - TRM
-products_models:
-  - World Liberty
-  - BitTorrent
-  - USDT
-  - A330
-media_books:
-  - Bloomberg
-  - Bloomberg Businessweek
-  - 《交易的艺术》
 status: evergreen
+summary: 本文深入探讨了加密货币亿万富翁孙宇晨的复杂世界，包括他与美国前总统特朗普的密切联系、其区块链平台波场创在全球支付和非法活动中的双重角色，以及他与美国监管机构和艺术界巨头的多重法律纠纷。文章揭示了孙宇晨如何游走于加密创新、政治影响力与法律边缘之间，以及加密货币行业在监管放松和政治干预下的演变。
+tags:
+- crypto-regulation
+- financial
+- investment
+- market
+- political-influence
+title: 孙宇晨的加密帝国、政治博弈与艺术纠纷：一场跨越全球的财富与权力游戏
 ---
 
 ### 孙宇晨的美国之旅与特朗普的加密情缘

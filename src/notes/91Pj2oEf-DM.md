@@ -1,66 +1,67 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- CoBank
+- Coca-Cola
+- Starbucks
+- McDonald's
+- PepsiCo
+- USDA
+- FDA
+- Holing Association USA
+- Wisconsin Feeder Pig Cooperative
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+- Barrens
+- Starting Strength
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Corey Guyger
+- Austin Freric
+- Mike McCloskey
+- Sue McCloskey
+- William Dempster Horde
+products_models:
+- Fairlife
+- Celsius
+- Core Power
+- Shabbani
+- Greek yogurt
+- cottage cheese
+- Propel water
+- Muscle Milk
+- mozzarella
+- whey protein isolates
+- collagens
+- colostrum
+- lactoferrin
+project:
+- investment-strategy
+- market-cycles
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=91Pj2oEf-DM
 speaker: Bloomberg Podcasts
-tags:
-  - dairy-industry
-  - protein-boom
-  - fairlife-milk
-  - agricultural-technology
-  - market-regulation
-  - consumption-trends
-title: 牛奶行业的蛋白质热潮：Fairlife如何改变市场格局与乳业未来
-summary: 本期《Odd Lots》播客深入探讨了Fairlife牛奶如何在美国引发蛋白质热潮，并分析了其成功背后的技术、分销策略和市场动态。嘉宾CoBank首席乳业经济学家Corey Guyger详细阐述了超高温瞬时灭菌、基因组学、性别分选精液等创新技术如何提升奶牛生产效率和农场盈利能力。节目还讨论了乳制品消费趋势、行业监管、贸易关系以及未来乳业的投资方向，揭示了传统乳业在创新驱动下如何实现增长和转型。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - entrepreneurship
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Corey Guyger
-  - Austin Freric
-  - Mike McCloskey
-  - Sue McCloskey
-  - William Dempster Horde
-companies_orgs:
-  - CoBank
-  - Coca-Cola
-  - Starbucks
-  - McDonald's
-  - PepsiCo
-  - USDA
-  - FDA
-  - Holing Association USA
-  - Wisconsin Feeder Pig Cooperative
-products_models:
-  - Fairlife
-  - Celsius
-  - Core Power
-  - Shabbani
-  - Greek yogurt
-  - cottage cheese
-  - Propel water
-  - Muscle Milk
-  - mozzarella
-  - whey protein isolates
-  - collagens
-  - colostrum
-  - lactoferrin
-media_books:
-  - Odd Lots podcast
-  - Barrens
-  - Starting Strength
 status: evergreen
+summary: 本期《Odd Lots》播客深入探讨了Fairlife牛奶如何在美国引发蛋白质热潮，并分析了其成功背后的技术、分销策略和市场动态。嘉宾CoBank首席乳业经济学家Corey
+  Guyger详细阐述了超高温瞬时灭菌、基因组学、性别分选精液等创新技术如何提升奶牛生产效率和农场盈利能力。节目还讨论了乳制品消费趋势、行业监管、贸易关系以及未来乳业的投资方向，揭示了传统乳业在创新驱动下如何实现增长和转型。
+tags:
+- health
+- industry
+- llm
+- market-regulation
+- technology
+- trend
+title: 牛奶行业的蛋白质热潮：Fairlife如何改变市场格局与乳业未来
 ---
+
 ### 播客开场与健身房牛奶现象
 
 **Tracy:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Alloway。

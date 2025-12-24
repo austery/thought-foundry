@@ -1,116 +1,117 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Netflix
+- Paramount
+- Warner Bros. Discovery
+- Skydance Media
+- CBS
+- CNN
+- TNT
+- Discovery
+- HBO
+- DC
+- WGA
+- SAG
+- YouTube
+- X
+- Instagram
+- TikTok
+- Disney
+- OpenAI
+- Microsoft
+- Meta
+- Google
+- FTC
+- DOJ
+- FBI
+- PragerU
+- Rumble
+- New York Times
+- Wall Street Journal
+- New York Post
+- CNBC
+- ServiceTitan
+- Amazon
+- Starbucks
+- NATO
+- UN
+- OKX
+- Google Cloud
+- Battalion Medals
+- B&M Baked Beans
+- Ruger
+- Challenger, Gray & Christmas
+- Yale Budget Lab
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- All-In Podcast
+- The New Yorker
+- Wall Street Journal
+- New York Post
+- War Games
+- Terminator 2
+- Star Trek
+- Sherman Act
+- The New York Times
+people:
+- Tucker Carlson
+- David Sacks
+- Chamath Palihapitiya
+- Jason Calacanis
+- Donald Trump
+- David Zaslav
+- Larry Ellison
+- David Ellison
+- Bari Weiss
+- Ted Sarandos
+- Lena Khan
+- Teddy Roosevelt
+- William Howard Taft
+- Woodrow Wilson
+- FDR
+- Nick Fuentes
+- Ben Shapiro
+- Piers Morgan
+- Elon Musk
+- Andrew Tate
+- Jim Cramer
+- Sam Altman
+- Caitlyn Jenner
+- Milo Yiannopoulos
+- Tony Hinchcliffe
+- Cash Patel
+- Dan Bongino
+products_models:
+- ChatGPT
+- Grok
+- Ruger LCR
+- PC-24
+- Phenom 300
+project:
+- us-analysis
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=cY5UFw2AIZo
 speaker: All-In Podcast
-tags:
-  - media-consolidation
-  - ai-risks-benefits
-  - identity-politics
-  - america-first
-  - job-displacement
-title: 媒体并购、AI未来与美国政治思潮：Tucker Carlson深度对话
-summary: 本期All-In播客邀请Tucker Carlson，深入探讨一系列紧迫议题。核心内容包括派拉蒙与Netflix争夺华纳兄弟探索公司的并购战，审视媒体整合与反垄断问题。对话还涉及争议人物Nick Fuentes的崛起，分析身份政治动态及在线放大效应。此外，嘉宾们辩论了日益增长的反AI情绪，特别是右翼阵营的担忧，权衡其感知风险与潜在益处，并强调AI发展中清晰沟通和伦理规范的重要性。闪电问答环节则涵盖地缘政治、国内政策及个人观点。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Tucker Carlson
-  - David Sacks
-  - Chamath Palihapitiya
-  - Jason Calacanis
-  - Donald Trump
-  - David Zaslav
-  - Larry Ellison
-  - David Ellison
-  - Bari Weiss
-  - Ted Sarandos
-  - Lena Khan
-  - Teddy Roosevelt
-  - William Howard Taft
-  - Woodrow Wilson
-  - FDR
-  - Nick Fuentes
-  - Ben Shapiro
-  - Piers Morgan
-  - Elon Musk
-  - Andrew Tate
-  - Jim Cramer
-  - Sam Altman
-  - Caitlyn Jenner
-  - Milo Yiannopoulos
-  - Tony Hinchcliffe
-  - Cash Patel
-  - Dan Bongino
-companies_orgs:
-  - Netflix
-  - Paramount
-  - Warner Bros. Discovery
-  - Skydance Media
-  - CBS
-  - CNN
-  - TNT
-  - Discovery
-  - HBO
-  - DC
-  - WGA
-  - SAG
-  - YouTube
-  - X
-  - Instagram
-  - TikTok
-  - Disney
-  - OpenAI
-  - Microsoft
-  - Facebook
-  - Google
-  - FTC
-  - DOJ
-  - FBI
-  - PragerU
-  - Rumble
-  - New York Times
-  - Wall Street Journal
-  - New York Post
-  - CNBC
-  - ServiceTitan
-  - Amazon
-  - Starbucks
-  - NATO
-  - UN
-  - OKX
-  - Google Cloud
-  - Battalion Medals
-  - B&M Baked Beans
-  - Ruger
-  - Challenger, Gray & Christmas
-  - Yale Budget Lab
-products_models:
-  - ChatGPT
-  - Grok
-  - Ruger LCR
-  - PC-24
-  - Phenom 300
-media_books:
-  - All-In Podcast
-  - The New Yorker
-  - Wall Street Journal
-  - New York Post
-  - War Games
-  - Terminator 2
-  - Star Trek
-  - Sherman Act
-  - The New York Times
 status: evergreen
+summary: 本期All-In播客邀请Tucker Carlson，深入探讨一系列紧迫议题。核心内容包括派拉蒙与Netflix争夺华纳兄弟探索公司的并购战，审视媒体整合与反垄断问题。对话还涉及争议人物Nick
+  Fuentes的崛起，分析身份政治动态及在线放大效应。此外，嘉宾们辩论了日益增长的反AI情绪，特别是右翼阵营的担忧，权衡其感知风险与潜在益处，并强调AI发展中清晰沟通和伦理规范的重要性。闪电问答环节则涵盖地缘政治、国内政策及个人观点。
+tags:
+- america-first
+- identity-politics
+- job-displacement
+- llm
+- media
+title: 媒体并购、AI未来与美国政治思潮：Tucker Carlson深度对话
 ---
+
 ### 开场白与特朗普的圣诞派对
 
 好的，本周David Friedberg因事缺席，我们请来了All-In播客的第四次嘉宾，独一无二的Tucker Carlson。Tucker，你好吗？

@@ -1,150 +1,149 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Broadcom
+- S&P 500
+- OpenAI
+- Alibaba
+- Tencent
+- Goldman Sachs
+- Oracle
+- AMD
+- Google
+- Anthropic
+- Robinhood
+- SpaceX
+- Aurora Cannabis
+- Tillray
+- Costco
+- Lululemon
+- Abercrombie & Fitch
+- Urban Outfitters
+- GoFundMe
+- Five Below
+- JPMorgan
+- Blackstone
+- Bank of America
+- Deutsche Bank
+- Citigroup
+- Interactive Brokers
+- YouTube
+- PayPal
+- Fermy
+- SoundHound
+- Palantir
+- Rocket Lab
+- Huawei
+- DraftKings
+- FanDuel
+- XAI
+- X (Twitter)
+- Oscar Health
+- UnitedHealth Group
+- Cigna
+- Elevance Health
+- CrowdStrike
+- Palo Alto Networks
+- Microsoft
+- Amazon
+- Apple
+- Meta
+- Waymo
+- Tesla
+- Carvana
+- Ripple
+- BitGo
+- Fidelity Digital Assets
+- Paxos
+- Bernstein
+- Wells Fargo
+- GE Vernova
+- Constellation Energy
+- Eaton
+- NextEra Energy
+- Quant
+- Verdive
+- Brenda
+- Kinder Morgan
+- Roblox
+- Bloom Energy
+- Centrus Energy
+- Spotify
+- Trivari Research
+- AdvisorShares
+- AK Media
+- Commodity Futures Trading Commission (CFTC)
+- Office of the Comptroller of the Currency (OCC)
+- Writer Guild of America
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- Time magazine
+- Bloomberg
+- Wall Street Journal
+- Business Insider
+- Prof G podcast
+- The Big Short
+- The Last Economy
+people:
+- Jensen Huang
+- David Sacks
+- Tom Lee
+- Elon Musk
+- Sam Altman
+- Steve Eisman
+- Gary Marcus
+- Irwin Simon
+- Larry Ellison
+- Sema Modi
+- Mike Sani
+- Vlad Tenev
+- Lisa Su
+- Chris
+- Matt
+- Scarlet
+- Goulsby
+products_models:
+- H200 AI chips
+- H20 chip
+- Blackwell architecture
+- Reuben architecture
+- Ironwood GPUs
+- TPUs
+- Gemini Flash
+- ChatGPT5
+- Claude
+- Sonnet 4.5
+- Grock
+- FSD (Full Self-Driving)
+- Sora
+- HBM
+- Python
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=TP4mijlTIB8
 speaker: Amit Kukreja
-tags:
-  - ai-chips
-  - market-trends
-  - earnings-reports
-  - regulatory-policy
-  - prediction-markets
-title: 市场综述：英伟达、博通财报、AI政策与加密货币动态
-summary: 本期市场综述深入探讨了英伟达和博通的最新财报，以及标普500指数创历史新高的市场背景。重点分析了中国对英伟达H200芯片的强劲需求、博通因OpenAI合作预期放缓而股价下跌的原因。同时，节目还涵盖了特朗普政府关于AI联邦标准和大麻重新分类的政策动向，以及GoFundMe数据揭示的消费者财务状况、数据中心投资趋势和预测市场的发展。节目最后讨论了AI发展中的乐观与担忧，以及对未来市场走势的展望。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-  - china-analysis
-people:
-  - Amit Kukreja
-  - Jensen Huang
-  - David Sacks
-  - Tom Lee
-  - Elon Musk
-  - Sam Altman
-  - Steve Eisman
-  - Gary Marcus
-  - Irwin Simon
-  - Larry Ellison
-  - Sema Modi
-  - Mike Sani
-  - Vlad Tenev
-  - Lisa Su
-  - Chris
-  - Matt
-  - Scarlet
-  - Goulsby
-companies_orgs:
-  - Nvidia
-  - Broadcom
-  - S&P 500
-  - OpenAI
-  - Alibaba
-  - Tencent
-  - Goldman Sachs
-  - Oracle
-  - AMD
-  - Google
-  - Anthropic
-  - Robinhood
-  - SpaceX
-  - Aurora Cannabis
-  - Tillray
-  - Costco
-  - Lululemon
-  - Abercrombie & Fitch
-  - Urban Outfitters
-  - GoFundMe
-  - Five Below
-  - JPMorgan
-  - Blackstone
-  - Bank of America
-  - Deutsche Bank
-  - Citigroup
-  - Interactive Brokers
-  - YouTube
-  - PayPal
-  - Fermy
-  - SoundHound
-  - Palantir
-  - Rocket Lab
-  - Huawei
-  - DraftKings
-  - FanDuel
-  - XAI
-  - X (Twitter)
-  - Oscar Health
-  - UnitedHealth Group
-  - Cigna
-  - Elevance Health
-  - CrowdStrike
-  - Palo Alto Networks
-  - Microsoft
-  - Amazon
-  - Apple
-  - Meta
-  - Waymo
-  - Tesla
-  - Carvana
-  - Ripple
-  - BitGo
-  - Fidelity Digital Assets
-  - Paxos
-  - Bernstein
-  - Wells Fargo
-  - GE Vernova
-  - Constellation Energy
-  - Eaton
-  - NextEra Energy
-  - Quant
-  - Verdive
-  - Brenda
-  - Kinder Morgan
-  - Roblox
-  - Bloom Energy
-  - Centrus Energy
-  - Spotify
-  - Trivari Research
-  - AdvisorShares
-  - AK Media
-  - Commodity Futures Trading Commission (CFTC)
-  - Office of the Comptroller of the Currency (OCC)
-  - Writer Guild of America
-products_models:
-  - H200 AI chips
-  - H20 chip
-  - Blackwell architecture
-  - Reuben architecture
-  - Ironwood GPUs
-  - TPUs
-  - Gemini Flash
-  - ChatGPT5
-  - Claude
-  - Sonnet 4.5
-  - Grock
-  - FSD (Full Self-Driving)
-  - Sora
-  - HBM
-  - Python
-media_books:
-  - Financial Times
-  - Time magazine
-  - Bloomberg
-  - Wall Street Journal
-  - Business Insider
-  - Prof G podcast
-  - The Big Short
-  - The Last Economy
 status: evergreen
+summary: 本期市场综述深入探讨了英伟达和博通的最新财报，以及标普500指数创历史新高的市场背景。重点分析了中国对英伟达H200芯片的强劲需求、博通因OpenAI合作预期放缓而股价下跌的原因。同时，节目还涵盖了特朗普政府关于AI联邦标准和大麻重新分类的政策动向，以及GoFundMe数据揭示的消费者财务状况、数据中心投资趋势和预测市场的发展。节目最后讨论了AI发展中的乐观与担忧，以及对未来市场走势的展望。
+tags:
+- ai-chip
+- earnings-report
+- market-trend
+- policy
+- prediction-market
+title: 市场综述：英伟达、博通财报、AI政策与加密货币动态
 ---
+
 ### 市场综述与本周亮点
 
 大家早上好，欢迎回到《市场开盘》节目。

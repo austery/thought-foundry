@@ -1,40 +1,38 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 澜起科技
+- 兆易创新
+- 普冉股份
+- 聚辰股份
+- 中集集团
+- 三星电子
+- 海力士
 date: '2025-05-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=cyP1PE5mMj0
 speaker: 海淀拙大叔
-tags:
-  - investment-logic
-  - semiconductor-industry
-  - market-cycles
-  - high-capacity-chips
-  - ai-infrastructure
-title: 澜起科技：业绩符合投资逻辑吗？深度分析其业务增长、技术壁垒与未来趋势
-summary: 本文深入分析澜起科技的投资逻辑，包括行业周期底部反转、高运力芯片业务爆发、高技术壁垒及AI基础设施带来的趋势性增长。通过对内存接口芯片和各类高运力芯片（如Retimer、MRCD、CKD、MXC）的详细解读，验证了公司业绩与前期投资逻辑的符合性，并探讨了其作为细分领域隐形冠军的成长路径和战略聚焦。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - 澜起科技
-  - 兆易创新
-  - 普冉股份
-  - 聚辰股份
-  - 中集集团
-  - 三星电子
-  - 海力士
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析澜起科技的投资逻辑，包括行业周期底部反转、高运力芯片业务爆发、高技术壁垒及AI基础设施带来的趋势性增长。通过对内存接口芯片和各类高运力芯片（如Retimer、MRCD、CKD、MXC）的详细解读，验证了公司业绩与前期投资逻辑的符合性，并探讨了其作为细分领域隐形冠军的成长路径和战略聚焦。
+tags:
+- ai-infrastructure
+- high
+- investment
+- market-cycle
+- semiconductor
+title: 澜起科技：业绩符合投资逻辑吗？深度分析其业务增长、技术壁垒与未来趋势
 ---
+
 ### 澜起科技研究：业绩是否符合投资逻辑？
 
 在对公司进行跟进分析时，我们通常需要关注以下几个核心内容：首先，业务增长是否与此前的投资逻辑相符；其次，原有的投资逻辑是否依然成立；最后，公司的市值天花板在哪里，是否仍具备继续投资的价值。

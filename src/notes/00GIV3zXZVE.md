@@ -1,60 +1,62 @@
 ---
-author: 海伦子Hellen
+area: market-analysis
+category: finance
+companies_orgs:
+- AST SpaceMobile
+- Rocket Lab
+- SpaceX
+- Redwire Corporation
+- Intuitive Machines
+- AT&T
+- Vodafone
+- Rakuten Mobile
+- T-Mobile
+- Blue Origin
+- NASA
+- Boeing
+- Deep Space Systems
+- Made In Space
+- OMI
+- AE Industrial Partners
+- Tesla
+- Nvidia
+- Apple
 date: '2025-03-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+people:
+- Elon Musk
+- Peter To
+products_models:
+- Starlink
+- BlueBird
+- Neutron rocket
+- Nova-C
+- Near Space Network Service
+- Artemis
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=00GIV3zXZVE
 speaker: 海伦子Hellen
-tags:
-  - commercial-space
-  - space-investment
-  - market-valuation
-  - satellite-communication
-  - lunar-exploration
-title: 商业太空公司投资分析：为何我暂未布局AST、Redwire与Intuitive Machines？
-summary: 本期视频深入探讨了三家近期股价大幅上涨的商业太空公司：AST SpaceMobile、Redwire Corporation和Intuitive Machines。主持人详细介绍了它们各自的业务模式、市场表现、股价飙升的原因以及潜在的风险点，包括发射不确定性、市场竞争、需求体量和融资压力。同时，主持人也分享了其个人投资理念，即专注于具备“大新兴资产”属性的公司，并强调了本金在实现财务自由中的关键作用，解释了为何目前仅重仓Rocket Lab和Tesla。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Elon Musk
-  - Peter To
-companies_orgs:
-  - AST SpaceMobile
-  - Rocket Lab
-  - SpaceX
-  - Redwire Corporation
-  - Intuitive Machines
-  - AT&T
-  - Vodafone
-  - Rakuten Mobile
-  - T-Mobile
-  - Blue Origin
-  - NASA
-  - Boeing
-  - Deep Space Systems
-  - Made In Space
-  - OMI
-  - AE Industrial Partners
-  - Tesla
-  - Nvidia
-  - Apple
-products_models:
-  - Starlink
-  - BlueBird
-  - Neutron rocket
-  - Nova-C
-  - Near Space Network Service
-  - Artemis
-media_books:
-  - X
 status: evergreen
+summary: 本期视频深入探讨了三家近期股价大幅上涨的商业太空公司：AST SpaceMobile、Redwire Corporation和Intuitive
+  Machines。主持人详细介绍了它们各自的业务模式、市场表现、股价飙升的原因以及潜在的风险点，包括发射不确定性、市场竞争、需求体量和融资压力。同时，主持人也分享了其个人投资理念，即专注于具备“大新兴资产”属性的公司，并强调了本金在实现财务自由中的关键作用，解释了为何目前仅重仓Rocket
+  Lab和Tesla。
+tags:
+- commercial-space
+- communication
+- investment
+- market-valuation
+- technology
+title: 商业太空公司投资分析：为何我暂未布局AST、Redwire与Intuitive Machines？
 ---
+
 ### 商业太空公司：机遇与风险并存
 
 大家好，我是Helen。今天想跟大家聊聊从去年开始股价就大幅上涨的几家商业太空公司，包括它们具体是做什么的、为什么股价起飞如此之快，以及几个我认为存在风险的地方。当然，我也很想听听大家的意见，看看有没有我没有察觉到的点。

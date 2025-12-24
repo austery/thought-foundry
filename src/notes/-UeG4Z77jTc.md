@@ -1,60 +1,60 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Pixar
+- Apple
+- Disney
+- Lucasfilm
+- Norges Bank Investment Management
+- SIGGRAPH
 date: '2024-09-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Creativity, Inc.
+people:
+- Ed Catmull
+- Steve Jobs
+- John Lasseter
+- Alan Kay
+- Ivan Sutherland
+- Tom Schumacher
+- Brad Bird
+- Pete Docter
+- Andrew Stanton
+- George Lucas
+- Nikolai
+products_models:
+- Toy Story
+- Finding Nemo
+- The Incredibles
+- Cars
+- Monsters, Inc.
+- Ratatouille
+- Toy Story 2
+- iPad
+- iPhone
+project:
+- systems-thinking
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=-UeG4Z77jTc
 speaker: Norges Bank Investment Management
-tags:
-  - organizational-culture
-  - creative-leadership
-  - talent-development
-  - openness-transparency
-  - learning-from-failure
-title: 皮克斯联合创始人埃德·卡特穆尔：创造力、文化与人才的秘密
-summary: 皮克斯联合创始人埃德·卡特穆尔分享了公司成功的秘诀，包括如何培养集体创造力、构建支持性文化、授权项目领导者、鼓励开放反馈以及吸引顶尖人才。他强调了谦逊、从错误中学习以及重视人际关系的重要性，并探讨了人工智能对动画行业及人类价值观的潜在影响。卡特穆尔的经验揭示了在快速变化的时代中，核心价值观和人际协作对于持续创新和成功至关重要。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Ed Catmull
-  - Steve Jobs
-  - John Lasseter
-  - Alan Kay
-  - Ivan Sutherland
-  - Tom Schumacher
-  - Brad Bird
-  - Pete Docter
-  - Andrew Stanton
-  - George Lucas
-  - Nikolai
-companies_orgs:
-  - Pixar
-  - Apple
-  - Disney
-  - Lucasfilm
-  - Norges Bank Investment Management
-  - SIGGRAPH
-products_models:
-  - Toy Story
-  - Finding Nemo
-  - The Incredibles
-  - Cars
-  - Monsters, Inc.
-  - Ratatouille
-  - Toy Story 2
-  - iPad
-  - iPhone
-media_books:
-  - Creativity, Inc.
 status: evergreen
+summary: 皮克斯联合创始人埃德·卡特穆尔分享了公司成功的秘诀，包括如何培养集体创造力、构建支持性文化、授权项目领导者、鼓励开放反馈以及吸引顶尖人才。他强调了谦逊、从错误中学习以及重视人际关系的重要性，并探讨了人工智能对动画行业及人类价值观的潜在影响。卡特穆尔的经验揭示了在快速变化的时代中，核心价值观和人际协作对于持续创新和成功至关重要。
+tags:
+- creative-leadership
+- development
+- learning
+- organizational-culture
+- technology
+title: 皮克斯联合创始人埃德·卡特穆尔：创造力、文化与人才的秘密
 ---
+
 ### 皮克斯的创始愿景与文化基石
 
 皮克斯凭借《玩具总动员》、《海底总动员》、《超人总动员》、《赛车总动员》、《怪兽电力公司》等作品，在动画界占据了主导地位。这家公司已经赢得了27项奥斯卡金像奖。今天，我们非常荣幸地邀请到埃德·卡特穆尔，他与史蒂夫·乔布斯和约翰·拉塞特共同创立了皮克斯。埃德还写了我读过的关于创造力最好的书，那就是《**创造力公司**》（Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration）。如果你还没读过，你应该赶紧去买一本。埃德，非常荣幸能邀请您参加播客。

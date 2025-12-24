@@ -1,31 +1,30 @@
 ---
-title: 1.75亿美元的“巨大错误”：摩根大通如何被“空气公司”欺骗
-summary: 本文揭露了查理·贾维斯如何通过虚假用户数据，将她的初创公司Frank以1.75亿美元卖给摩根大通，最终导致她被判刑并赔偿巨款的欺诈案。这起事件也引发了对顶级投行尽职调查能力的深刻质疑。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- due-diligence
-- financial-fraud
-- startup-scandal
-people:
-- charlie-jarvis
 companies_orgs:
 - jpmorgan-chase
-products_models: []
-media_books: []
 date: '2025-10-03'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- charlie-jarvis
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=o3X-qDa08I8
+speaker: 北美王路飞
 status: evergreen
+summary: 本文揭露了查理·贾维斯如何通过虚假用户数据，将她的初创公司Frank以1.75亿美元卖给摩根大通，最终导致她被判刑并赔偿巨款的欺诈案。这起事件也引发了对顶级投行尽职调查能力的深刻质疑。
+tags:
+- due-diligence
+- financial-fraud
+- startup
+title: 1.75亿美元的“巨大错误”：摩根大通如何被“空气公司”欺骗
 ---
+
 ### 华尔街新星的陨落
 
 2025年9月29日，纽约联邦法庭上，一位曾登上福布斯精英榜，被誉为改变美国大学生财务未来的天才女生查理·贾维斯声泪俱下。28岁时，她将自己的公司以1.75亿美元的天价卖给了华尔街巨头**摩根大通**（JPMorgan Chase: 一家全球领先的金融服务公司，也是美国最大的银行之一），一跃成为亿万富翁和银行的董事总经理。然而仅仅四年后，她不仅被曾经的买家告上法庭，还面临着美国司法部和证监会的双重刑事指控。最终，法官宣判她联邦监禁85个月，即超过七年时间，同时命令她赔偿2.87亿美元的巨款。

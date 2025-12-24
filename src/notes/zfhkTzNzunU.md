@@ -1,40 +1,38 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs:
+- 南京大学
 date: '2025-07-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《哲学论证》
+- 《论证与说服50讲》
+- 大问题节目
+- 某乎
+people:
+- 胡星铭
+- 亚里士多德
+- 笛卡尔
+- 阿奎那
+products_models: []
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=zfhkTzNzunU
 speaker: 大问题Dialectic
-tags:
-  - prayer-argument
-  - logical-proof
-  - valid-argument
-  - conditional-statements
-  - philosophy-of-religion
-title: 哲学暴论：你不祷告，反而能推导出上帝存在？一个纯逻辑证明的解析
-summary: 本期节目深入探讨了一个名为“祷告论证”的哲学命题，该论证声称从“你不向上帝祷告”的前提，能逻辑必然地推导出“上帝存在”的结论。文章详细拆解了该论证的逻辑结构，解释了有效论证、条件句及其等价转换等核心逻辑概念，并邀请读者思考其背后的哲学深意与潜在问题。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - 胡星铭
-  - 亚里士多德
-  - 笛卡尔
-  - 阿奎那
-companies_orgs:
-  - 南京大学
-products_models: []
-media_books:
-  - 《哲学论证》
-  - 《论证与说服50讲》
-  - 大问题节目
-  - 某乎
 status: evergreen
+summary: 本期节目深入探讨了一个名为“祷告论证”的哲学命题，该论证声称从“你不向上帝祷告”的前提，能逻辑必然地推导出“上帝存在”的结论。文章详细拆解了该论证的逻辑结构，解释了有效论证、条件句及其等价转换等核心逻辑概念，并邀请读者思考其背后的哲学深意与潜在问题。
+tags:
+- philosophy
+- philosophy-of-religion
+- society
+title: 哲学暴论：你不祷告，反而能推导出上帝存在？一个纯逻辑证明的解析
 ---
+
 ### 悖论式开场：你不祷告，上帝反而存在？
 
 从“你不向上帝祷告”这个前提，反而能必然性地推导出“上帝存在”这个结论。朋友们，这个论证是一个**有效论证**（Valid Argument: 指如果所有前提都为真，那么结论必然为真的论证）！这个论证完全符合逻辑规则，无懈可击。这怎么说？意思是你越是不信上帝，反而证明了上帝的存在？

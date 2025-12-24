@@ -1,30 +1,30 @@
 ---
-title: Theranos谎言帝国的升级：女王、暴君与恐惧文化
-summary: 本期深入探讨Theranos如何从内部被恐惧与欺骗侵蚀。在伊丽莎白·霍尔姆斯与桑尼·巴尔瓦尼的领导下，公司不仅对Walgreens和Safeway编织宏大谎言，更在内部建立起严酷的暴君文化，最终导致技术危机与法律诉讼的爆发。
 area: null
 category: null
-project: []
-tags:
-- corporate-fraud
-people:
-- elizabeth-holmes
-- sunny-balwani
 companies_orgs:
 - theranos
-products_models: []
-media_books:
-- bad-blood
 date: '2025-09-19'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bad-blood
+people:
+- elizabeth-holmes
+- sunny-balwani
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1YsauyrwBx4
+speaker: 北美王路飞
 status: evergreen
+summary: 本期深入探讨Theranos如何从内部被恐惧与欺骗侵蚀。在伊丽莎白·霍尔姆斯与桑尼·巴尔瓦尼的领导下，公司不仅对Walgreens和Safeway编织宏大谎言，更在内部建立起严酷的暴君文化，最终导致技术危机与法律诉讼的爆发。
+tags:
+- corporate-fraud
+title: Theranos谎言帝国的升级：女王、暴君与恐惧文化
 ---
+
 ### 谎言王国的全面升级
 
 上一期我们讲到伊丽莎白·霍尔姆斯在2008年成功平息了一场董事会政变，清除了所有内部的反对声音，彻底掌控了公司。一个靠着胶水、机器人和弥天大谎建立起来的王国似乎坚不可摧。但是，一个谎言需要无数个新的谎言来掩盖。当一个公司从上到下都充斥着恐惧和欺骗时，它会变成什么样呢？今天，我们就接着**《坏血》**（Bad Blood: Secrets and Lies in a Silicon Valley Startup，一本揭露Theranos公司骗局的纪实文学作品）这本书来看一下第二幕，当女王迎来她的暴君，这个谎言帝国是如何全面升级的。

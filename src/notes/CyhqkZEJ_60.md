@@ -1,37 +1,33 @@
 ---
-author: Big Think
+area: tech-insights
+category: technology
+companies_orgs:
+- Dyno Therapeutics
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Eric Kelsic
+products_models:
+- Zolgensma
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=CyhqkZEJ_60
 speaker: Big Think
-tags:
-  - gene-therapy
-  - gene-delivery
-  - ai-guided-design
-  - capsid-engineering
-  - personalized-medicine
-  - genetic-agency
-title: 基因疗法的未来：AI如何解锁细胞内精准递送与个性化治疗
-summary: Dyno Therapeutics首席执行官Eric Kelsic探讨了基因疗法的巨大潜力与当前挑战。他详细介绍了利用腺相关病毒（AAV）衣壳作为基因递送载体的技术，并强调了通过AI指导设计和机器学习来优化衣壳序列的重要性。文章还讨论了Zolgensma等突破性疗法，降低基因治疗成本的愿景，以及未来基因技术可能赋予个体更大的“基因自主权”，从而实现个性化、可升级的治疗方案，彻底改变我们对基因的认知。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Eric Kelsic
-companies_orgs:
-  - Dyno Therapeutics
-products_models:
-  - Zolgensma
-media_books: []
 status: evergreen
+summary: Dyno Therapeutics首席执行官Eric Kelsic探讨了基因疗法的巨大潜力与当前挑战。他详细介绍了利用腺相关病毒（AAV）衣壳作为基因递送载体的技术，并强调了通过AI指导设计和机器学习来优化衣壳序列的重要性。文章还讨论了Zolgensma等突破性疗法，降低基因治疗成本的愿景，以及未来基因技术可能赋予个体更大的“基因自主权”，从而实现个性化、可升级的治疗方案，彻底改变我们对基因的认知。
+tags:
+- design
+- engineering
+- health
+title: 基因疗法的未来：AI如何解锁细胞内精准递送与个性化治疗
 ---
+
 ### 基因疗法的愿景与挑战
 
 作为人类，我们都渴望同样的东西：充满美好体验的生活，与家人和朋友共度更多时光，拥有更多去爱的机会。

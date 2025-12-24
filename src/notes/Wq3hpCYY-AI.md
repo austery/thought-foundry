@@ -1,92 +1,92 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- S&P 500
+- Nvidia
+- Palantir
+- Broadcom
+- Netflix
+- Bitmine
+- Bloom Energy
+- Amazon
+- Oracle
+- OpenAI
+- Google
+- Anthropic
+- CoreWeave
+- Robinhood
+- Apple
+- Oscar Health
+- UnitedHealth Group
+- Grab
+- Aurora Cannabis
+- Planet Labs
+- Rocket Lab
+- Disney
+- Verizon
+- Amcor
+- Microsoft
+- AMD
+- Micron Technology
+- Goldman Sachs
+- Funstrath
+- New York University
+- ExxonMobil
+- Chevron
+- Lowe's
+- Home Depot
+- SL Green Realty
+- Realty Income
+- JPMorgan Chase
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Coming Wave
+- Wall Street Journal
+- All-In Podcast
+people:
+- Jose
+- Tom Lee
+- Scott Galloway
+- Charles Birdsy
+- Derek Wall
+- Larry Ellison
+- Jensen Huang
+- Justin
+- Steve
+- Alex Karp
+- Jamie Dimon
+- Kevin Warsh
+- Kevin Hassett
+- Mike Wilson
+- Dan Ives
+- Cathie Wood
+products_models:
+- FSD
+- Grok
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Wq3hpCYY-AI
 speaker: Amit Kukreja
-tags:
-  - ai-market-fragility
-  - stock-market-valuation
-  - data-center-delays
-  - investment-sentiment
-  - crypto-liquidation
-title: AI叙事下的市场波动：甲骨文与OpenAI新闻如何冲击股市
-summary: 本期节目深入探讨了近期市场因甲骨文（Oracle）和OpenAI数据中心延迟传闻而引发的剧烈波动，以及博通（Broadcom）财报不佳对AI板块的连锁反应。嘉宾们分析了当前AI股票的估值泡沫、潜在的市场回调风险，并讨论了汤姆·李（Tom Lee）对2026年市场走势的复杂预测。同时，节目还触及了加密货币市场的流动性危机、美联储政策走向以及美国政治事件对经济的影响，为投资者提供了多维度的市场洞察和投资策略思考。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Jose
-  - Tom Lee
-  - Scott Galloway
-  - Charles Birdsy
-  - Derek Wall
-  - Larry Ellison
-  - Jensen Huang
-  - Justin
-  - Steve
-  - Alex Karp
-  - Jamie Dimon
-  - Kevin Warsh
-  - Kevin Hassett
-  - Mike Wilson
-  - Dan Ives
-  - Cathie Wood
-companies_orgs:
-  - S&P 500
-  - Nvidia
-  - Palantir
-  - Broadcom
-  - Netflix
-  - Bitmine
-  - Bloom Energy
-  - Amazon
-  - Oracle
-  - OpenAI
-  - Google
-  - Anthropic
-  - CoreWeave
-  - Robinhood
-  - Apple
-  - Oscar Health
-  - UnitedHealth Group
-  - Grab
-  - Aurora Cannabis
-  - Planet Labs
-  - Rocket Lab
-  - Disney
-  - Verizon
-  - Amcor
-  - Microsoft
-  - AMD
-  - Micron Technology
-  - Goldman Sachs
-  - Funstrath
-  - New York University
-  - ExxonMobil
-  - Chevron
-  - Lowe's
-  - Home Depot
-  - SL Green Realty
-  - Realty Income
-  - JPMorgan Chase
-products_models:
-  - FSD
-  - Grok
-media_books:
-  - The Coming Wave
-  - Wall Street Journal
-  - All-In Podcast
 status: evergreen
+summary: 本期节目深入探讨了近期市场因甲骨文（Oracle）和OpenAI数据中心延迟传闻而引发的剧烈波动，以及博通（Broadcom）财报不佳对AI板块的连锁反应。嘉宾们分析了当前AI股票的估值泡沫、潜在的市场回调风险，并讨论了汤姆·李（Tom
+  Lee）对2026年市场走势的复杂预测。同时，节目还触及了加密货币市场的流动性危机、美联储政策走向以及美国政治事件对经济的影响，为投资者提供了多维度的市场洞察和投资策略思考。
+tags:
+- crypto-liquidation
+- data-center-delay
+- investment
+- market
+- stock-market-valuation
+title: AI叙事下的市场波动：甲骨文与OpenAI新闻如何冲击股市
 ---
+
 ### 市场收盘：AI叙事下的动荡一天
 
 大家好，欢迎回到另一期市场收盘节目。

@@ -1,74 +1,74 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Tesla
+- CalPERS
+- Federal Reserve Bank of San Francisco
+- Federal Reserve Bank of New York
+- Federal Reserve Bank of Cleveland
+- Federal Reserve Bank of Philadelphia
+- Federal Reserve Bank of St. Louis
+- Turning Point USA
+- Hindu American Foundation
+- Temu
+- French Directorate General for Competition, Consumer Affairs and Fraud Control
+- China Rare Earth Group
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Hill
+- The New York Times
+- Reuters
+- The Wall Street Journal
+- Nikkei Asia
+- CNN
+- Financial Times
+people:
+- Elon Musk
+- Mary C. Daly
+- John C. Williams
+- Loretta Mester
+- Patrick Harker
+- Alberto G. Musalem
+- J.D. Vance
+- Marco Rubio
+- Charlie Kirk
+- Nikki Haley
+- Tulsi Gabbard
+- Ted Cruz
+- Suhag Shukla
+- Barack Obama
+- Mandani
+- Bill Clinton
+- Hillary Clinton
+- Joe Biden
+- Xi Jinping
+- Janet Yellen
+products_models:
+- Fentanyl
+- PMI
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=uMeXqLrWoss
 speaker: LT視界
-tags:
-  - us-china-trade-deal
-  - geopolitical-strategy
-  - us-politics-2028
-  - economic-indicators
-  - supply-chain-resilience
-title: 中美贸易协议细节曝光：中国妥协超预期，美方解读存疑
-summary: 本期节目深入分析了白宫公布的中美贸易协议细节，揭示了中国在稀土、农产品关税等方面的意外妥协，远超此前媒体报道。同时，节目探讨了美国经济事件、2028年总统大选的共和党内部动态，以及中国电商平台Temu的道德争议。LT视界还对协议的真实性、双方的理解偏差及贸易战的深层战略影响提出了独到见解，强调西方正借此机会弥补自身短板。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Elon Musk
-  - Mary C. Daly
-  - John C. Williams
-  - Loretta Mester
-  - Patrick Harker
-  - Alberto G. Musalem
-  - J.D. Vance
-  - Marco Rubio
-  - Charlie Kirk
-  - Nikki Haley
-  - Tulsi Gabbard
-  - Ted Cruz
-  - Suhag Shukla
-  - Barack Obama
-  - Mandani
-  - Bill Clinton
-  - Hillary Clinton
-  - Joe Biden
-  - Xi Jinping
-  - Janet Yellen
-companies_orgs:
-  - Tesla
-  - CalPERS
-  - Federal Reserve Bank of San Francisco
-  - Federal Reserve Bank of New York
-  - Federal Reserve Bank of Cleveland
-  - Federal Reserve Bank of Philadelphia
-  - Federal Reserve Bank of St. Louis
-  - Turning Point USA
-  - Hindu American Foundation
-  - Temu
-  - French Directorate General for Competition, Consumer Affairs and Fraud Control
-  - China Rare Earth Group
-products_models:
-  - Fentanyl
-  - PMI
-media_books:
-  - The Hill
-  - The New York Times
-  - Reuters
-  - The Wall Street Journal
-  - Nikkei Asia
-  - CNN
-  - Financial Times
 status: evergreen
+summary: 本期节目深入分析了白宫公布的中美贸易协议细节，揭示了中国在稀土、农产品关税等方面的意外妥协，远超此前媒体报道。同时，节目探讨了美国经济事件、2028年总统大选的共和党内部动态，以及中国电商平台Temu的道德争议。LT视界还对协议的真实性、双方的理解偏差及贸易战的深层战略影响提出了独到见解，强调西方正借此机会弥补自身短板。
+tags:
+- china
+- economic-indicator
+- geopolitical-strategy
+- supply-chain-resilience
+- us-politics-2028
+title: 中美贸易协议细节曝光：中国妥协超预期，美方解读存疑
 ---
+
 ### 本周财经头条：美国经济数据与特斯拉股东大会
 
 在新的一周开始之际，有五个重大经济事件值得关注。首先，美国政府继续停摆，原计划未来一周发布的两个重要宏观经济数据很可能再次跳票。一个是周二原计划发布的美国10月份贸易数据，这是判断贸易战进程的基础性数据，但该数据不会提供。另一个更重要的数据是原计划周五发布的10月份非农数据，这是了解和判断美国宏观经济状况最基础、最重要的一个数据，也是**美联储**（Federal Reserve: 美国中央银行系统）利率政策制定者最关注的美国经济数据，但大概率周五不会公布。假如未来一周这两个重要数据都不能如期公布，那同时也标志着本次美国政府的停摆将创造历史记录。到本周三，这次政府停摆将平历史记录35天，周四开始将创造新的记录。美国各界对政府长时间的停摆批评声越来越大，尽管两党都在指责对方应负主要责任，但对美国民众来讲，这就是政府的失职。

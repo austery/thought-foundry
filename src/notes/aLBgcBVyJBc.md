@@ -1,40 +1,39 @@
 ---
-author: 徒步的騎手
-date: 2025-04-04
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=aLBgcBVyJBc'
-speaker: 徒步的騎手
-tags:
-  - government-size-debate
-  - dogmatic-interpretation
-  - policy-effectiveness
-  - economic-stimulus
-  - social-welfare-systems
-title: 解构‘小政府’与‘大政府’：超越教条主义的现实审视
-summary: 本文深入探讨了‘小政府’与‘大政府’概念的复杂性，挑战了将其简单化、教条化的倾向。通过分析里根总统的言论、美国历史政策（如罗斯福新政、1965年移民法）及各国政府支出数据，文章指出政府规模与自由度、福利水平并非线性关系。它强调政府在不同领域有选择性地‘大’或‘小’，并警示教条主义思维在政治和经济领域可能导致的灾难性后果，呼吁对复杂现实进行具体分析而非盲目套用口号。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - Ronald Reagan
-  - George Washington
-  - Franklin D. Roosevelt
-  - Lyndon B. Johnson
-  - Felix Frankfurter
-  - Friedrich Hayek
+category: geopolitics
 companies_orgs:
-  - International Monetary Fund (IMF)
-products_models: '[]'
+- International Monetary Fund (IMF)
+date: 2025-04-04
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《奴役之路》
+- 《奴役之路》
+people:
+- Ronald Reagan
+- George Washington
+- Franklin D. Roosevelt
+- Lyndon B. Johnson
+- Felix Frankfurter
+- Friedrich Hayek
+products_models: '[]'
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=aLBgcBVyJBc
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了‘小政府’与‘大政府’概念的复杂性，挑战了将其简单化、教条化的倾向。通过分析里根总统的言论、美国历史政策（如罗斯福新政、1965年移民法）及各国政府支出数据，文章指出政府规模与自由度、福利水平并非线性关系。它强调政府在不同领域有选择性地‘大’或‘小’，并警示教条主义思维在政治和经济领域可能导致的灾难性后果，呼吁对复杂现实进行具体分析而非盲目套用口号。
+tags:
+- canada
+- economic-stimulus
+- government
+- policy
+- social-welfare-system
+title: 解构‘小政府’与‘大政府’：超越教条主义的现实审视
 ---
 
 ### “小政府”教条的起源与误读

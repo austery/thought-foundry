@@ -1,59 +1,59 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: general
+companies_orgs:
+- YouTube
+- Bilibili
+- TikTok
+- 小红书
+- 微信公众号
+- Substack
+- 知识星球
+- X
+- OPUS
+- 曹操说
+- 马斯库
+- 中规中矩
+- 旧教官场
+- LT世界
 date: '2025-07-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- New York Times
+- Wall Street Journal
+- 《圣经》
+people:
+- 李厚辰
+- 王之安
+- 五月散人
+- 柴进
+- 王亚军
+products_models:
+- ChatGPT
+project:
+- china-analysis
+- geopolitics-watch
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Vhd7xnKPXKk
 speaker: 东京人文论坛
-tags:
-  - self-media-creation
-  - content-strategy
-  - platform-algorithms
-  - civil-society
-  - information-overload
-  - ai-assistance
-  - community-building
-  - overseas-chinese
-title: 海外自媒体的挑战与机遇：内容选择、平台算法与公民社会链接
-summary: 本文深入探讨了海外华人制作自媒体所面临的挑战与机遇。内容涵盖当前自媒体领域白热化的竞争、平台算法对内容创作的影响、如何实现内容的可持续性、AI技术在自媒体制作中的应用，以及YouTube、Substack和播客等不同平台的特点。文章强调了自媒体在构建公民社会中的作用，并鼓励创作者结合线上线下互动，探索多元化内容形式，以应对信息爆炸时代的挑战。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - personal-growth-lab
-people:
-  - 李厚辰
-  - 王之安
-  - 五月散人
-  - 柴进
-  - 王亚军
-companies_orgs:
-  - YouTube
-  - Bilibili
-  - TikTok
-  - 小红书
-  - 微信公众号
-  - Substack
-  - 知识星球
-  - X
-  - OPUS
-  - 曹操说
-  - 马斯库
-  - 中规中矩
-  - 旧教官场
-  - LT世界
-products_models:
-  - ChatGPT
-media_books:
-  - New York Times
-  - Wall Street Journal
-  - 《圣经》
 status: evergreen
+summary: 本文深入探讨了海外华人制作自媒体所面临的挑战与机遇。内容涵盖当前自媒体领域白热化的竞争、平台算法对内容创作的影响、如何实现内容的可持续性、AI技术在自媒体制作中的应用，以及YouTube、Substack和播客等不同平台的特点。文章强调了自媒体在构建公民社会中的作用，并鼓励创作者结合线上线下互动，探索多元化内容形式，以应对信息爆炸时代的挑战。
+tags:
+- chinese
+- civil-society
+- community-building
+- content-strategy
+- information-overload
+- llm
+- platform
+- self
+title: 海外自媒体的挑战与机遇：内容选择、平台算法与公民社会链接
 ---
+
 ### 引言：自媒体与海外公民社会
 
 今天下午我们继续讨论互联网对海外**公民社会**（Civil Society: 介于国家、市场和家庭之间，由公民自愿结成的各类非政府、非营利性组织和活动所构成的社会领域）的作用，主要聚焦于大家做**自媒体**（Self-media: 个人或组织通过互联网平台自主发布信息、表达观点、进行内容创作的媒体形式）的可能性。在座的很多人可能都听说过“三个水上手”这个频道，这本身就体现了自媒体的作用。我相信很多人对“五雷”的印象也可能更多是通过节目建立起来的。

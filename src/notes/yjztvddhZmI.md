@@ -1,43 +1,41 @@
 ---
-author: Veritasium
-date: '2021-07-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yjztvddhZmI
-speaker: Veritasium
-tags:
-  - veritasium
-  - autonomous-vehicles
-  - road-safety
-  - ai-adoption
-  - human-error
-  - transportation-future
-title: 为何我们现在就应该拥抱自动驾驶汽车
-summary: 本视频深入探讨了自动驾驶汽车的现状、安全优势及未来潜力。通过亲身体验、历史类比（如自动电梯和飞机自动着陆）以及详细的数据分析，揭示了人类驾驶的局限性及其导致的交通事故，并强调了Waymo等公司在L4级自动驾驶技术上的进展。文章指出，自动驾驶不仅能显著提升道路安全、减少死亡人数，还能带来交通效率提升、城市空间优化等多重社会效益，呼吁公众更早地接受这项变革性技术。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Derek
-  - Steve Mann
-  - Beulah
+category: technology
 companies_orgs:
-  - Waymo
-  - Google
-  - Asiana Airlines
-  - National Transportation and Safety Board
+- Waymo
+- Google
+- Asiana Airlines
+- National Transportation and Safety Board
+date: '2021-07-23'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek
+- Steve Mann
+- Beulah
 products_models:
-  - Firefly
-  - Asiana Airlines flight 214
-media_books: []
+- Firefly
+- Asiana Airlines flight 214
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=yjztvddhZmI
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了自动驾驶汽车的现状、安全优势及未来潜力。通过亲身体验、历史类比（如自动电梯和飞机自动着陆）以及详细的数据分析，揭示了人类驾驶的局限性及其导致的交通事故，并强调了Waymo等公司在L4级自动驾驶技术上的进展。文章指出，自动驾驶不仅能显著提升道路安全、减少死亡人数，还能带来交通效率提升、城市空间优化等多重社会效益，呼吁公众更早地接受这项变革性技术。
+tags:
+- ai-adoption
+- autonomous-vehicle
+- future
+- human
+- safety
+title: 为何我们现在就应该拥抱自动驾驶汽车
 ---
+
 ### 首次自动驾驶体验与公众认知
 
 好的，我即将进行人生中第一次乘坐完全自动驾驶汽车的体验。哇，没有司机！

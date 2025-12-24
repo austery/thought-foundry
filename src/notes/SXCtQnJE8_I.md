@@ -1,44 +1,46 @@
 ---
+area: society-systems
 author: ''
+category: productivity
+companies_orgs:
+- Zapier
+- HubSpot
+- Google
+- OpenAI
+- Table Group
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Five Dysfunctions of a Team
+people:
+- Courtney Hickey
+- Wade
+- Claraveo
+products_models:
+- Zapier Agents
+- Fathom
+- NotebookLM
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=SXCtQnJE8_I
 speaker: ''
-tags:
-  - ai-interns
-  - meeting-automation
-  - internal-alignment
-  - ea-workflows
-  - culture-reinforcement
-title: Zapier EA 如何利用 AI 打造“AI 实习生”军团，自动化会议准备并扩展内部协作
-summary: 本文探讨了 Zapier 的行政助理 (EA) Courtney Hickey 如何利用 AI 工具（如 Zapier Agents 和 OpenAI GPT）来自动化会议准备、增强内部协作、强化公司文化以及简化战略文档审阅。文章强调了 AI 如何赋能 EA 执行更高价值的任务，充当“AI 实习生”或“第二大脑”，从而节省时间并提高效率。讨论还涉及 AI 在扩展组织文化和战略思维方面的潜力。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Courtney Hickey
-  - Wade
-  - Claraveo
-companies_orgs:
-  - Zapier
-  - HubSpot
-  - Google
-  - OpenAI
-  - Table Group
-products_models:
-  - Zapier Agents
-  - Fathom
-  - NotebookLM
-media_books:
-  - The Five Dysfunctions of a Team
 status: evergreen
+summary: 本文探讨了 Zapier 的行政助理 (EA) Courtney Hickey 如何利用 AI 工具（如 Zapier Agents 和 OpenAI
+  GPT）来自动化会议准备、增强内部协作、强化公司文化以及简化战略文档审阅。文章强调了 AI 如何赋能 EA 执行更高价值的任务，充当“AI 实习生”或“第二大脑”，从而节省时间并提高效率。讨论还涉及
+  AI 在扩展组织文化和战略思维方面的潜力。
+tags:
+- code
+- culture
+- llm
+- meeting-automation
+title: Zapier EA 如何利用 AI 打造“AI 实习生”军团，自动化会议准备并扩展内部协作
 ---
+
 ### AI 赋能行政助理：自动化会议准备与提升效率
 
 Courtney Hickey，Zapier 的 CEO 行政助理 (Executive Assistant)，分享了她如何拥抱人工智能 (AI)，将其视为提升工作效率和自动化重复性任务的关键工具。她强调，AI 并非要取代人类，而是能够帮助行政助理摆脱繁琐的日常工作，从而专注于更具挑战性和趣味性的任务。她认为，AI 在行政助理角色中的应用是必然趋势，关键在于何时以及如何采纳这些工具，并以“边做边学”的态度不断探索和优化。

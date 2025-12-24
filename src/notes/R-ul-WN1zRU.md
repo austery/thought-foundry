@@ -1,53 +1,53 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- World Economic Forum
+- Apple
+- Red Cross
+- AFD
+- Fortune 50
+- Fortune 100
+- United Nations
+- OECD
 date: '2025-06-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- Wall Street Journal
+- New York Times
+- Washington Post
+people:
+- Nicolai Tangen
+- Børge Brende
+- Klaus Schwab
+- Donald Trump
+- President Santos
+products_models:
+- Air Force One
+- DeepSeek
+project:
+- geopolitics-watch
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=R-ul-WN1zRU
 speaker: Norges Bank Investment Management
-tags:
-  - world-economic-forum
-  - geopolitical-fragmentation
-  - new-technologies
-  - global-governance
-  - economic-resilience
-title: 世界经济论坛主席博尔格·布伦德：在两股世界秩序之间运作
-summary: 世界经济论坛主席兼首席执行官博尔格·布伦德探讨了当前全球碎片化和两股世界秩序并存的挑战。他分析了地缘政治对经济增长的影响、新技术的变革力量（尤其是AI），以及如何通过公私合作应对气候变化和不平等。布伦德强调了在复杂世界中建立信任和寻找共同解决方案的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Nicolai Tangen
-  - Børge Brende
-  - Klaus Schwab
-  - Donald Trump
-  - President Santos
-companies_orgs:
-  - Norges Bank Investment Management
-  - World Economic Forum
-  - Apple
-  - Red Cross
-  - AFD
-  - Fortune 50
-  - Fortune 100
-  - United Nations
-  - OECD
-products_models:
-  - Air Force One
-  - DeepSeek
-media_books:
-  - Financial Times
-  - Wall Street Journal
-  - New York Times
-  - Washington Post
 status: evergreen
+summary: 世界经济论坛主席兼首席执行官博尔格·布伦德探讨了当前全球碎片化和两股世界秩序并存的挑战。他分析了地缘政治对经济增长的影响、新技术的变革力量（尤其是AI），以及如何通过公私合作应对气候变化和不平等。布伦德强调了在复杂世界中建立信任和寻找共同解决方案的重要性。
+tags:
+- economic
+- economic-resilience
+- geopolitical
+- global
+- technology
+title: 世界经济论坛主席博尔格·布伦德：在两股世界秩序之间运作
 ---
+
 ### 欢迎与世界经济论坛
 
 **Nicolai:** 大家好，我是挪威主权财富基金（Norges Bank Investment Management: 挪威中央银行旗下的主权财富基金，管理挪威政府的石油收入）的首席执行官尼古拉·坦根。今天我非常高兴，因为我的挪威同胞博尔格·布伦德（Børge Brende）加入了我们。

@@ -1,42 +1,43 @@
 ---
-author: 北美王路飞
+area: finance-wealth
+category: crypto
+companies_orgs:
+- Google
+- Firm One
+- Terraform Labs
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Rick and Morty》
+people:
+- Do Kwon
+- Paul
+products_models:
+- Terra
+- Luna
+- UST
+- Anchor
+- Chai
+- Basis Cash
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=IOUQ-WuYuRs
 speaker: 北美王路飞
-tags:
-  - crypto
-  - fraud
-  - stablecoin
-  - ponzi-scheme
-  - market-manipulation
-title: Do Kwon的覆灭：400亿加密骗局的史诗级欺诈与15年监禁
-summary: 本文深入剖析了加密货币创始人**Do Kwon**如何通过**Terra**生态系统策划了一场价值**400亿美元**的“史诗级欺诈”。从其早期的失败项目，到通过**Anchor协议**提供20%高额利息，以及伪造**Chai**支付交易数据，再到与**Firm One**公司秘密操纵**UST**价格，揭示了其精心编织的谎言网络。最终，**Do Kwon**因证券欺诈和电信欺诈被判15年监禁，这场骗局给20多万投资者带来了毁灭性打击，警示金融世界没有永动机。
-insight: ''
-draft: true
-series: ''
-category: crypto
-area: finance-wealth
-project: []
-people:
-  - Do Kwon
-  - Paul
-companies_orgs:
-  - Google
-  - Firm One
-  - Terraform Labs
-products_models:
-  - Terra
-  - Luna
-  - UST
-  - Anchor
-  - Chai
-  - Basis Cash
-media_books:
-  - 《Rick and Morty》
 status: evergreen
+summary: 本文深入剖析了加密货币创始人**Do Kwon**如何通过**Terra**生态系统策划了一场价值**400亿美元**的“史诗级欺诈”。从其早期的失败项目，到通过**Anchor协议**提供20%高额利息，以及伪造**Chai**支付交易数据，再到与**Firm
+  One**公司秘密操纵**UST**价格，揭示了其精心编织的谎言网络。最终，**Do Kwon**因证券欺诈和电信欺诈被判15年监禁，这场骗局给20多万投资者带来了毁灭性打击，警示金融世界没有永动机。
+tags:
+- crypto
+- fraud
+- market
+- ponzi-scheme
+- stablecoin
+title: Do Kwon的覆灭：400亿加密骗局的史诗级欺诈与15年监禁
 ---
+
 ### 狂妄之言与审判
 “告诉他们滚蛋！”这是**Do Kwon**在几年前面对监管调查时的原话。那时候他觉得自己就是神，告诉身边的人他在世界各地都买了政治保险，没有人能动得了他。这种狂妄的语气，简直是不可一世。然而，就在几天前，即**2025年12月11日**，美国联邦法院给了他一个无法拒绝的回应。法官**Paul**看着这位曾经不可一世的加密之王，说出了一个极具分量的词：“Epic”。但这并非史诗级的创新或技术革命，而是**史诗级的欺诈**。
 

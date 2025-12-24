@@ -1,49 +1,49 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- TVO
+- Proper Television
+- The Tyee
+- Rotman School of Management
+- University of Toronto
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Selling Sunset
+- Gilmore Girls
+- How Great Ideas Happen
+- Simon & Garfunkel record
+- John Hughes movies
+people:
+- Cathie James
+- Sarah Krichel
+- George E Newman
+- Diego Garcia
+- Ricardo
+products_models:
+- Canon C70
+- Instant Pot
+- Crock-Pot
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=zHkEEOAdgrI
 speaker: TVO Today
-tags:
-  - escapism
-  - nostalgia
-  - reality-tv
-  - hustle-culture
-title: 为何我们沉迷于逃避现实？深度解析真人秀、怀旧与现代文化的连接
-summary: 本文探讨了现代社会中人们对逃避现实（escapism）和怀旧（nostalgia）的普遍追求。通过分析真人秀的吸引力、“烂烂日”（Rot Day）现象以及怀旧文化如何驱动消费和创新，揭示了这些现象背后对“内卷文化”的反思和对更简单、真实连接的渴望。节目还展示了电视制作人在田野调查中的实践，强调了内容创作的真实性与观众连接的重要性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - Cathie James
-  - Sarah Krichel
-  - George E Newman
-  - Diego Garcia
-  - Ricardo
-companies_orgs:
-  - TVO
-  - Proper Television
-  - The Tyee
-  - Rotman School of Management
-  - University of Toronto
-products_models:
-  - Canon C70
-  - Instant Pot
-  - Crock-Pot
-media_books:
-  - Selling Sunset
-  - Gilmore Girls
-  - How Great Ideas Happen
-  - Simon & Garfunkel record
-  - John Hughes movies
 status: evergreen
+summary: 本文探讨了现代社会中人们对逃避现实（escapism）和怀旧（nostalgia）的普遍追求。通过分析真人秀的吸引力、“烂烂日”（Rot Day）现象以及怀旧文化如何驱动消费和创新，揭示了这些现象背后对“内卷文化”的反思和对更简单、真实连接的渴望。节目还展示了电视制作人在田野调查中的实践，强调了内容创作的真实性与观众连接的重要性。
+tags:
+- code
+- culture
+- nostalgia
+- reality-tv
+title: 为何我们沉迷于逃避现实？深度解析真人秀、怀旧与现代文化的连接
 ---
+
 ### 引言：逃避现实的诱惑
 
 >> 听到我说我因为工作原因看和读很多新闻，你可能不会感到惊讶。我必须经常思考和谈论新闻。但有时我的大脑需要休息一下。所以，我开始看一部不一定是影评人首选的节目：《黯然销魂饭》（Selling Sunset）。洛杉矶。房地产。戏剧。让我们来看看第九季的预告片，它刚刚杀青。

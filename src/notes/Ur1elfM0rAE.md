@@ -1,68 +1,68 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Googlen
+- JP Morgan
+- Westpac
+- Bloomberg
+- StreetAccount
+- Tesla
+- BYD
+- Rivian
+- Lucid
+- Amazon
+- Meta
+- Microsoft
+- Apple
+- Google
+- Alibaba
+- Berkshire Hathaway
 date: '2024-05-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Little Book That Beat the Market》
+- 《The Little Book That Still Beats the Market》
+people:
+- 唐石峻
+- Joe Grable
+- Charlie Munger
+- Warren Buffett
+- Mark Zuckerberg
+- Elon Musk
+- Jason Huang
+- Tim Cook
+- Andy Jassy
+- Sundar Pichai
+- Satya Nadella
+- 张勇
+- Jeff Bezos
+- Bill Gates
+products_models:
+- ETF
+- Just Works
+- Smart Cut
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Ur1elfM0rAE
 speaker: Shijun Tang
-tags:
-  - magic-formula-failure
-  - ev-bubble-burst
-  - operating-income
-  - compound-interest
-  - ai-impact-on-labor
-title: 神奇公式失效与EV泡沫破灭：美股投资中的永恒法则与AI冲击下的市场重构
-summary: 本文深入剖析了‘神奇公式’在近十年失效的原因、EV行业泡沫破裂的多重因素，以及AI驱动下企业效率重构对投资策略的深远影响。作者强调经营利润、复利效应与市场噪音的对抗，揭示价值投资在技术变革时代的核心原则。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - Joe Grable
-  - Charlie Munger
-  - Warren Buffett
-  - Mark Zuckerberg
-  - Elon Musk
-  - Jason Huang
-  - Tim Cook
-  - Andy Jassy
-  - Sundar Pichai
-  - Satya Nadella
-  - 张勇
-  - Jeff Bezos
-  - Bill Gates
-companies_orgs:
-  - Googlen
-  - JP Morgan
-  - Westpac
-  - Bloomberg
-  - StreetAccount
-  - Tesla
-  - BYD
-  - Rivian
-  - Lucid
-  - Amazon
-  - Meta
-  - Microsoft
-  - Apple
-  - Google
-  - Alibaba
-  - Berkshire Hathaway
-products_models:
-  - ETF
-  - Just Works
-  - Smart Cut
-media_books:
-  - 《The Little Book That Beat the Market》
-  - 《The Little Book That Still Beats the Market》
 status: evergreen
+summary: 本文深入剖析了‘神奇公式’在近十年失效的原因、EV行业泡沫破裂的多重因素，以及AI驱动下企业效率重构对投资策略的深远影响。作者强调经营利润、复利效应与市场噪音的对抗，揭示价值投资在技术变革时代的核心原则。
+tags:
+- ai-impact-on-labor
+- bubble
+- compound-interest
+- failure
+- income
+title: 神奇公式失效与EV泡沫破灭：美股投资中的永恒法则与AI冲击下的市场重构
 ---
+
 ### “神奇公式”的兴衰：从神坛到现实
 
 “神奇公式”（The Magic Formula）曾是2005年至2015年间无数投资者的圣经，由哥伦比亚商学院教授、Googlen资产管理公司创始人兼首席投资官Joe Grable在其畅销书《The Little Book That Beat the Market》及续作《The Little Book That Still Beats the Market》中系统提出。该策略宣称能实现高达30%的年化回报，其核心逻辑是：仅投资市值超过5000万美元的非金融、非公用事业公司，通过筛选**最高每股收益（EPS）**和**最高资本回报率（ROC）**的股票，每月买入前2至3名，并在财年结束前一周卖出亏损股以抵免资本利得，随后在财年末一周卖出盈利股。

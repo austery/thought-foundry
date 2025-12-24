@@ -1,39 +1,37 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Apollo Global Management
+- Drexel Burnham
 date: '2024-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicola Tangen
+- Marc Rowan
+products_models:
+- S&P 500
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=p67KL7Yhj50
 speaker: Norges Bank Investment Management
-tags:
-  - private-markets
-  - investment-philosophy
-  - public-market-inefficiency
-  - fiscal-stimulus
-  - us-deficit
-title: Apollo创始人Marc Rowan：私募市场、投资哲学与宏观风险洞察
-summary: Marc Rowan讨论了Apollo在全球另类资产管理领域的成长，强调了“购买价格至关重要”的投资哲学。他澄清了私募信贷与银行的竞争误解，指出公共市场价格发现机制的失效，并探讨了美国经济的独特现状，包括财政刺激、低失业率及潜在的长期赤字风险。文章还分享了他对工作压力的看法，强调了对工作的热爱与积极心态。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Nicola Tangen
-  - Marc Rowan
-companies_orgs:
-  - Norges Bank Investment Management
-  - Apollo Global Management
-  - Drexel Burnham
-products_models:
-  - S&P 500
-media_books: []
 status: evergreen
+summary: Marc Rowan讨论了Apollo在全球另类资产管理领域的成长，强调了“购买价格至关重要”的投资哲学。他澄清了私募信贷与银行的竞争误解，指出公共市场价格发现机制的失效，并探讨了美国经济的独特现状，包括财政刺激、低失业率及潜在的长期赤字风险。文章还分享了他对工作压力的看法，强调了对工作的热爱与积极心态。
+tags:
+- fiscal-stimulus
+- geopolitical
+- investment-philosophy
+- market
+title: Apollo创始人Marc Rowan：私募市场、投资哲学与宏观风险洞察
 ---
+
 ### 引言：金融远见者Marc Rowan与Apollo的崛起
 
 大家好，我是挪威银行投资管理公司（**Norges Bank Investment Management**: 挪威主权财富基金）的首席执行官Nicola Tangen。今天我们有幸邀请到金融界的真正远见者Marc Rowan，他是全球最具影响力的另类资产管理公司之一——**Apollo Global Management**（阿波罗全球管理公司）的联合创始人。我们很荣幸持有阿波罗略低于2%的股份，价值近15亿美元。Marc，很高兴您能来这里。

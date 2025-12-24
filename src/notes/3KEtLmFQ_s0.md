@@ -6,14 +6,13 @@ layout: post.njk
 source: https://www.youtube.com/watch?v=3KEtLmFQ_s0
 speaker: 东京人文论坛
 tags:
-  - japanese-xenophobia
-  - national-identity
-  - cultural-preservation
-  - right-wing-politics
-  - foreigner-discrimination
-  - misinformation-spread
-  - emperor-system
-  - meiji-restoration
+- cultural
+- geopolitical
+- meiji-restoration
+- misinformation-spread
+- national-identity
+- politics
+- system
 title: 日本为何排外？从历史传统到当下右翼思潮的深度剖析
 summary: 本文深入探讨了日本社会根深蒂固的排外情绪，追溯其历史渊源，包括独特的“万世一系”天皇制度、文化遗产的保存、以及“黑船事件”后的民族主义思潮。文章分析了日本“家国一体”的特殊认知，并揭示了当代右翼政党利用社交媒体散布虚假信息，导致“外国人税”等歧视现象的出现。最终，作者呼吁在日外国人应积极反抗不公，而非盲目融入，并强调日本社会需正视自身问题。
 insight: ''
@@ -22,32 +21,33 @@ series: ''
 category: geopolitics
 area: society-systems
 project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
+- geopolitics-watch
+- historical-insights
+- cultural-critique
 people:
-  - 神谷宗幣
-  - 梁文道
-  - 马家辉
-  - 佩里
-  - 吉永兰
-  - 师平
-  - 贾葭
+- 神谷宗幣
+- 梁文道
+- 马家辉
+- 佩里
+- 吉永兰
+- 师平
+- 贾葭
 companies_orgs:
-  - 中央电视台
-  - 正仓院
-  - 东京国立博物馆
-  - 金刚组
-  - 参政党
-  - 出国管理厅
-  - 新宿高速BUS
+- 中央电视台
+- 正仓院
+- 东京国立博物馆
+- 金刚组
+- 参政党
+- 出国管理厅
+- 新宿高速BUS
 products_models: []
 media_books:
-  - 朝日新闻
-  - 推特
-  - 小红书
+- 朝日新闻
+- 推特
+- 小红书
 status: evergreen
 ---
+
 ### 引言：日本人排外吗？一个有历史根源的民族心理
 
 很抱歉来晚了。我今天出门很早，去关西机场见了一位四年未见的大学同学。他是一位中央电视台的记者，路过大阪机场去和歌山玩。我打趣他说：“你们这么散布仇日情绪，自己还跑到日本来玩。”他回答说：“宣传工作是宣传工作，旅游是生活。”我想他应该也是党员，在中央台那么多年了。我接着又恶心了他一下，说：“你们都趁地震后跑来玩，这两天还有余震呢。”他说：“真的吗？”所以我就说，体制内的这些人，信息处理能力真的是有问题的。

@@ -1,18 +1,53 @@
 ---
-title: 经济与金融领域最具影响力的30本书籍
-summary: 本文深入探讨了经济与金融领域最具影响力的30本经典书籍，从亚当·斯密的《国富论》到瑞·达利欧的《原则》，涵盖了经济理论、投资策略、市场行为和金融危机等核心议题。通过逐一解析这些著作的革命性思想和深远影响，揭示了它们如何塑造了我们对市场、投资和人类经济行为的理解。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- personal-growth-lab
-tags:
-- economic-theory
-- financial-crises
-- investment-strategy
-- market-psychology
-- wealth-inequality
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Bank of England
+- Bridgewater
+- Long-Term Capital Management
+- Sony
+- Toyota
+- Vanguard
+date: '2025-01-03'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- A Random Walk Down Wall Street
+- Animal Spirits
+- Capital in the Twenty-First Century
+- Capitalism and Freedom
+- Common Stocks and Uncommon Profits
+- Expected Returns
+- Flash Boys
+- Irrational Exuberance
+- Japanese Management Techniques
+- Liar's Poker
+- Manias, Panics, and Crashes
+- Market Wizards
+- 'Money: The True Story of a Made-Up Thing'
+- Options, Futures, and Other Derivatives
+- Principles
+- Reminiscences of a Stock Operator
+- Security Analysis
+- Stabilizing an Unstable Economy
+- Technical Analysis of Financial Markets
+- The Alchemy of Finance
+- The Big Short
+- The Black Swan
+- The General Theory of Employment, Interest and Money
+- The Intelligent Investor
+- The Most Important Thing
+- The Mystery of Capital
+- The Oriental Economist
+- The Psychology of Money
+- The Rise and Fall of American Growth
+- The Wealth of Nations
+- Theory of Games and Economic Behavior
+- Thinking, Fast and Slow
+- This Time Is Different
+- When Genius Failed
 people:
 - Adam Smith
 - Antti Ilmanen
@@ -49,13 +84,6 @@ people:
 - Thomas Piketty
 - Warren Buffett
 - adam-s-axiom
-companies_orgs:
-- Bank of England
-- Bridgewater
-- Long-Term Capital Management
-- Sony
-- Toyota
-- Vanguard
 products_models:
 - Black-Scholes Model
 - Economic Machine
@@ -66,52 +94,23 @@ products_models:
 - Reflexivity
 - Scuttlebutt Method
 - System 1 and System 2
-media_books:
-- A Random Walk Down Wall Street
-- Animal Spirits
-- Capital in the Twenty-First Century
-- Capitalism and Freedom
-- Common Stocks and Uncommon Profits
-- Expected Returns
-- Flash Boys
-- Irrational Exuberance
-- Japanese Management Techniques
-- Liar's Poker
-- Manias, Panics, and Crashes
-- Market Wizards
-- 'Money: The True Story of a Made-Up Thing'
-- Options, Futures, and Other Derivatives
-- Principles
-- Reminiscences of a Stock Operator
-- Security Analysis
-- Stabilizing an Unstable Economy
-- Technical Analysis of Financial Markets
-- The Alchemy of Finance
-- The Big Short
-- The Black Swan
-- The General Theory of Employment, Interest and Money
-- The Intelligent Investor
-- The Most Important Thing
-- The Mystery of Capital
-- The Oriental Economist
-- The Psychology of Money
-- The Rise and Fall of American Growth
-- The Wealth of Nations
-- Theory of Games and Economic Behavior
-- Thinking, Fast and Slow
-- This Time Is Different
-- When Genius Failed
-date: '2025-01-03'
-author: Adam's Axiom
-speaker: Adam's Axiom
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
+project:
+- investment-strategy
+- market-cycles
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=K3vagMJ4g1U
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了经济与金融领域最具影响力的30本经典书籍，从亚当·斯密的《国富论》到瑞·达利欧的《原则》，涵盖了经济理论、投资策略、市场行为和金融危机等核心议题。通过逐一解析这些著作的革命性思想和深远影响，揭示了它们如何塑造了我们对市场、投资和人类经济行为的理解。
+tags:
+- economic-theory
+- financial-crisis
+- market-psychology
+- wealth-inequality
+title: 经济与金融领域最具影响力的30本书籍
 ---
+
 ### 1. 《国富论》：亚当·斯密的经济学奠基之作
 
 亚当·斯密的《**国富论**》（The Wealth of Nations）是开启无数经济学学位和争论的著作。该书于1776年美国宣布独立时出版，斯密则通过这部作品向**重商主义**（Mercantilism: 一种认为国家财富主要通过贸易顺差积累的经济思想）宣战，发表了历史上最具影响力的经济学“金句”。他提出的“**看不见的手**”（Invisible Hand: 市场中个体追求自身利益，最终却能促进社会整体利益的现象）概念，如此优雅地解释了市场力量，以至于经济学家们在接下来的200年里都在试图重新将其“缝合”起来。这本书引入了**劳动分工**（Division of Labor: 将生产过程分解为多个专业化任务）等革命性思想，以一个不起眼的针厂为例来解释生产力。尽管今天的科技公司首席执行官们在假装自己发现了效率的同时，仍然引用着这本书。斯密的核心信息是，自由市场和自利行为可以服务于公共利益，这改变了世界，即使今天的解读略显“贪婪是好事”。然而，当斯密解释市场如何运作时，下一位作者即将向我们展示市场可能如何惊人地失灵。

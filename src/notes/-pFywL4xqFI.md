@@ -1,49 +1,48 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 巨子生物
+- 锦波
+- 爱美克
+- 华西
+- 花旗
+- 汇丰
+- 沪港通
+- 深港通
+- 国家药监局
 date: '2025-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伟大的博弈》
+people:
+- 约翰·戈登
+products_models:
+- 冻干纤维产品
+- 重组一型胶原蛋白
+- 三型胶原蛋白
+- 阿尔法一亚型胶原蛋白
+- 蛋白溶液
+- 可赴美
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=-pFywL4xqFI
 speaker: 海淀拙大叔
-tags:
-  - long-short-battle
-  - biotech-investment
-  - collagen-products
-  - market-dynamics
-  - investment-strategy
-title: 巨子生物多空决战：新产品获批后的市场博弈与投资策略
-summary: 本期节目深入探讨了巨子生物新获批的冻干纤维产品及其对公司股价的深远影响。文章详细分析了该产品的技术特点、市场定位，并以此为背景，推演了资本市场中多头与空头可能采取的策略。同时，节目观察了主要机构投资者在市场中的持仓变化，并对巨子生物的长期发展前景和潜在风险进行了展望，强调了深入研究和均衡配置在投资中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - 约翰·戈登
-companies_orgs:
-  - 巨子生物
-  - 锦波
-  - 爱美克
-  - 华西
-  - 花旗
-  - 汇丰
-  - 沪港通
-  - 深港通
-  - 国家药监局
-products_models:
-  - 冻干纤维产品
-  - 重组一型胶原蛋白
-  - 三型胶原蛋白
-  - 阿尔法一亚型胶原蛋白
-  - 蛋白溶液
-  - 可赴美
-media_books:
-  - 《伟大的博弈》
 status: evergreen
+summary: 本期节目深入探讨了巨子生物新获批的冻干纤维产品及其对公司股价的深远影响。文章详细分析了该产品的技术特点、市场定位，并以此为背景，推演了资本市场中多头与空头可能采取的策略。同时，节目观察了主要机构投资者在市场中的持仓变化，并对巨子生物的长期发展前景和潜在风险进行了展望，强调了深入研究和均衡配置在投资中的关键作用。
+tags:
+- investment
+- long
+- market-dynamic
+- product
+title: 巨子生物多空决战：新产品获批后的市场博弈与投资策略
 ---
+
 ### 巨子生物新产品获批及其市场影响
 
 巨子生物近期发布公告，宣布其最新的**冻干纤维**（Lyophilized Fiber: 一种通过冷冻干燥技术制成的纤维产品，常用于生物医疗和护肤领域）产品已获批。该产品有四个值得关注的特点：

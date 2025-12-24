@@ -1,34 +1,32 @@
 ---
-title: CEO Connect Driving Our Future with AI and a One-Page Strategy
-summary: The CEO discusses the latest engagement survey results, emphasizing the critical,
-  multi-billion dollar importance of adopting AI to stay competitive. A new, clear
-  one-page strategic plan is introduced, designed to align the entire company, with
-  the central rally cry to become "better and faster with AI."
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - corporate-strategy
-  - engagement-survey
-  - leadership
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-08-15
+area: tech-engineering
 author: Lei
-speaker: PCC insider
+category: ai-ml
 channel: null
+companies_orgs: []
+date: 2025-08-15
 draft: true
 file_name: ceo_connect_driving_future_with_ai_and_one_page_strategy.md
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: null
+speaker: PCC insider
+summary: The CEO discusses the latest engagement survey results, emphasizing the critical,
+  multi-billion dollar importance of adopting AI to stay competitive. A new, clear
+  one-page strategic plan is introduced, designed to align the entire company, with
+  the central rally cry to become "better and faster with AI."
+tags:
+- corporate-strategy
+- leadership
+- society
+title: CEO Connect Driving Our Future with AI and a One-Page Strategy
 ---
+
 ## Introduction
 
 Hello everybody, welcome. I will try to keep an eye on the chat a little bit, but talking to myself and checking the chat are hard things to do, so welcome everyone. This is the August CEO Connect. For those of you who haven't been to one of these before, the intent is really to be transparent about what we're doing, share some information and thoughts that I have, and in large part, help with clarity and alignment.

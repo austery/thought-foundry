@@ -1,33 +1,33 @@
 ---
-title: Levi Strauss首席财务官：关税挑战下的增长与消费者韧性
-summary: Levi Strauss首席财务官Harmit Singh探讨了公司在面临关税挑战下的强劲表现，包括营收增长、利润率提升及消费者韧性。他还分享了公司多元化的供应链策略、产品创新方向以及对未来增长目标的展望。
 area: market-analysis
 category: finance
-project:
-- ai-impact-analysis
-- investment-strategy
-tags:
-- consumer-behavior
-- financial-performance
-- supply-chain
-- tariffs
-people: []
 companies_orgs:
 - levi-strauss
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+people: []
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=GABZK0KGkiE
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: Levi Strauss首席财务官Harmit Singh探讨了公司在面临关税挑战下的强劲表现，包括营收增长、利润率提升及消费者韧性。他还分享了公司多元化的供应链策略、产品创新方向以及对未来增长目标的展望。
+tags:
+- consumer-behavior
+- financial-performance
+- supply-chain
+- tariff
+title: Levi Strauss首席财务官：关税挑战下的增长与消费者韧性
 ---
+
 ### Levi Strauss股价表现与分析师预期
 
 Bloomberg: Levi Strauss shares are trading slightly lower today after dropping as much as 14% on Friday.

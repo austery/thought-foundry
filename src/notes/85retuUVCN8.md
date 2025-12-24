@@ -1,49 +1,48 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: finance
+companies_orgs:
+- Visa
+- Mastercard
+- Amex
+- Capital One
+- Discover
+- JPMorgan
+- Lending Club
+- Alphabet
+- Meta
+- Goldman Sachs
+- New York Fed
+- Cfpb
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Itamar Drechsler
+- Joe Weisenthal
+- Tracy Alloway
+- Jerome Powell
+products_models:
+- Personal lines of credit
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=85retuUVCN8
 speaker: Bloomberg Podcasts
-tags:
-  - credit-card-rates
-  - interchange-fees
-  - consumer-behavior
-  - marketing-spend
-  - risk-premium
-title: 信用卡利率为何居高不下？揭秘发卡银行的隐秘收入与消费者行为
-summary: 本期访谈深入剖析了美国信用卡利率高达 23% 的深层原因。沃顿商学院教授 Itamar Drechsler 指出，高利率并非主要由违约风险驱动，而是由高昂的商户交换费、巨额的营销开支以及消费者对利率变化不敏感的行为共同支撑。文章对比了个人信用贷款等更低成本的替代方案，揭示了信用卡业务作为银行业中投资回报率（ROI）最高的部门的运作逻辑，并探讨了宏观政策对该领域的影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Itamar Drechsler
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Jerome Powell
-companies_orgs:
-  - Visa
-  - Mastercard
-  - Amex
-  - Capital One
-  - Discover
-  - JPMorgan
-  - Lending Club
-  - Alphabet
-  - Meta
-  - Goldman Sachs
-  - New York Fed
-  - Cfpb
-products_models:
-  - Personal lines of credit
-media_books: []
 status: evergreen
+summary: 本期访谈深入剖析了美国信用卡利率高达 23% 的深层原因。沃顿商学院教授 Itamar Drechsler 指出，高利率并非主要由违约风险驱动，而是由高昂的商户交换费、巨额的营销开支以及消费者对利率变化不敏感的行为共同支撑。文章对比了个人信用贷款等更低成本的替代方案，揭示了信用卡业务作为银行业中投资回报率（ROI）最高的部门的运作逻辑，并探讨了宏观政策对该领域的影响。
+tags:
+- business
+- consumer-behavior
+- interchange-fee
+- rate
+- risk
+title: 信用卡利率为何居高不下？揭秘发卡银行的隐秘收入与消费者行为
 ---
+
 ### 信用卡利率的悖论：消费者对政策利率的敏感度
 
 At the risk of sounding, heretical here,

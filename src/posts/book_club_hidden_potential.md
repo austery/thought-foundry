@@ -1,38 +1,38 @@
 ---
-title: 读书会笔记：《Hidden Potential》——释放内在潜能
-area: personal-growth
-category: psychology
-project:
-- ai-impact-analysis
-- personal-growth-lab
-tags:
-  - ai
-  - personal-growth
-  - 学习方法
-people:
-  - Vivi
-  - Cate W
-  - Carmen Tao
-  - Qi Shi
-  - Su Ge
-  - 彭哥
-companies_orgs: []
-products_models: []
-media_books:
-- hidden potential
-- 读书会
-date: 2025-07-28
+area: tech-engineering
 author: Lei
-speaker: ''
+category: ai-ml
 channel: ''
+companies_orgs: []
+date: 2025-07-28
 draft: true
 file_name: book_club_hidden_potential.md
 guest: ''
 insight: 本次读书会深入探讨了《Hidden Potential》的核心思想，强调通过拥抱不完美、刻意练习和集体智慧来释放潜能，并结合AI时代背景，探讨了人类在未来不可替代的价值所在。
 layout: post.njk
+media_books:
+- hidden potential
+- 读书会
+people:
+- Vivi
+- Cate W
+- Carmen Tao
+- Qi Shi
+- Su Ge
+- 彭哥
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
 series: Hidden Potential
 source: ''
+speaker: ''
+tags:
+- learning
+- personal-growth
+title: 读书会笔记：《Hidden Potential》——释放内在潜能
 ---
+
 ## 开场与主题引入
 
 Vivi: 早安。我们以后每个月会增加一场读书会。因为亚洲和北美的会员比较多，所以就分了一下时区。中间有一场是由咱们的管理员主持，没有我和瑞，是给大家自己准备的一场。因为感觉好像只有会员场不太能够完全满足大家的表达欲，所以中间加了一小时，让大家继续保持读书的热情，并且了解一下大家的一些想法。有的人可能月末会比较忙，没有时间，那么中旬可能会有时间。

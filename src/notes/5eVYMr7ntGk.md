@@ -1,41 +1,42 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- BBC
+- CBC
+- TVO
+- NBC
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Live Aid
+- famine-reporting
+people:
+- Brian Stewart
+- Birhan Woldu
+- Anthony Feinstein
+- Bob Geldof
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5eVYMr7ntGk
 speaker: TVO Today
-tags:
-  - famine-reporting
-  - foreign-correspondence
-  - moral-injury
-  - journalistic-ethics
-  - humanitarian-crisis
-title: 从战地记者到道德创伤：一位资深记者的人生轨迹与全球视野
-summary: 本文采访了资深记者Brian Stewart，回顾了他作为外国记者报道埃塞俄比亚饥荒、冷战等重大全球事件的经历。他深入探讨了记者职业的责任感、目睹苦难所带来的情感创伤（包括PTSD和道德伤害），以及他与埃塞俄比亚饥荒幸存者Birhan Woldu的感人故事。文章还反思了当前新闻业资源削减的趋势及其对民主的潜在影响，并呼吁重建海外新闻报道能力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Brian Stewart
-  - Birhan Woldu
-  - Anthony Feinstein
-  - Bob Geldof
-companies_orgs:
-  - BBC
-  - CBC
-  - TVO
-  - NBC
-products_models: []
-media_books:
-  - Live Aid
 status: evergreen
+summary: 本文采访了资深记者Brian Stewart，回顾了他作为外国记者报道埃塞俄比亚饥荒、冷战等重大全球事件的经历。他深入探讨了记者职业的责任感、目睹苦难所带来的情感创伤（包括PTSD和道德伤害），以及他与埃塞俄比亚饥荒幸存者Birhan
+  Woldu的感人故事。文章还反思了当前新闻业资源削减的趋势及其对民主的潜在影响，并呼吁重建海外新闻报道能力。
+tags:
+- crisis
+- ethics
+- geopolitical
+- moral-injury
+title: 从战地记者到道德创伤：一位资深记者的人生轨迹与全球视野
 ---
+
 ### 引言与记者生涯概述
 
 Brian，非常感谢您邀请我们到您温馨的家中做客。您最近怎么样？

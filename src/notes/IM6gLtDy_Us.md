@@ -1,38 +1,38 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中金资本
+- 中金公司
+- 财政部
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财新》
+people:
+- Xi Jinping
+- 韩涛
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=IM6gLtDy_Us
 speaker: 小翠時政財經
-tags:
-  - financial-corruption
-  - state-owned-enterprises
-  - power-concentration
-  - anti-corruption-campaign
-  - financial-regulation
-title: 中金资本腐败窝案：国家队里的国家队为何被“一锅端”？
-summary: 本期节目深入剖析了中国金融巨头中金资本的腐败窝案。作为央企中金公司旗下的私募投资管理机构，中金资本凭借其强大的背景和资源迅速壮大，管理资产规模超5600亿。然而，自2021年起，其高管团队因权力过度集中、利益输送、内外勾结等问题接连落马，几乎全军覆没。节目揭示了中金资本利用母基金、子基金和直投业务进行贪腐的三种主要套路，并指出其问题根源在于权力与市场边界不清、缺乏透明制衡的中国金融业通病。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-  - 韩涛
-companies_orgs:
-  - 中金资本
-  - 中金公司
-  - 财政部
-products_models: []
-media_books:
-  - 《财新》
 status: evergreen
+summary: 本期节目深入剖析了中国金融巨头中金资本的腐败窝案。作为央企中金公司旗下的私募投资管理机构，中金资本凭借其强大的背景和资源迅速壮大，管理资产规模超5600亿。然而，自2021年起，其高管团队因权力过度集中、利益输送、内外勾结等问题接连落马，几乎全军覆没。节目揭示了中金资本利用母基金、子基金和直投业务进行贪腐的三种主要套路，并指出其问题根源在于权力与市场边界不清、缺乏透明制衡的中国金融业通病。
+tags:
+- anti
+- financial
+- financial-regulation
+- power
+- state
+title: 中金资本腐败窝案：国家队里的国家队为何被“一锅端”？
 ---
+
 ### 引言：中金资本的崛起与覆灭
 
 今天我们要聊的是中国金融圈的一只超级大鳄——**中金资本**（CICC Capital: 中金公司旗下的私募股权投资管理机构）。它是著名央企**中金公司**（CICC: 中国国际金融股份有限公司，中国首家中外合资投资银行）旗下的子公司，也是国内背景最硬、资源最广、能量最大的私募投资管理机构。2017年，中金资本刚成立，就拿到了财政部母基金的管理资格，此后一路高歌猛进。截至2024年9月，中金资本累计资产管理规模已超过5,600亿，投资近1,500个直投项目，拥有390只子基金。

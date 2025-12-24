@@ -1,75 +1,76 @@
 ---
-author: Patrick Boyle
+area: market-analysis
+category: business
+companies_orgs:
+- Tesla
+- BYD
+- Blackstone
+- XAI
+- SpaceX
+- Neuralink
+- X Corp
+- California Department of Motor Vehicles
+- Uber
+- Waymo
+- Zoox
+- Intel
+- Columbia Business School
+- The Economist
+- Financial Times
+- LA Times
+- Quartz
+- Electric
 date: '2025-08-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Painted Black
+people:
+- Elon Musk
+- Steven Schwarzman
+- Bill Gates
+- Warren Buffett
+- Jeff Bezos
+- Mark Zuckerberg
+- Fred Lambert
+- Matt Levine
+- Jay Ritter
+- Donald Trump
+- Joe Biden
+- Robin Denholm
+- Kimbal Musk
+- James Murdoch
+products_models:
+- Cybertruck
+- Model Y
+- Model 2
+- Autopilot
+- Full Self-Driving
+- Hyperloop
+- Robo-taxi
+- Humanoid robots
+- Cybercabs
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=W8HEjee20V0
 speaker: Patrick Boyle
-tags:
-  - tesla-sales-decline
-  - executive-compensation
-  - corporate-governance
-  - autonomous-driving-hype
-  - market-valuation
-title: 销量下滑，薪酬飙升：特斯拉怪异新现实的内幕
-summary: 本文深入探讨了特斯拉当前面临的矛盾现实。尽管销量在全球范围内大幅下滑，竞争对手比亚迪（BYD）异军突起，且公司面临多项法律诉讼和高管离职潮，特斯拉董事会却批准了埃隆·马斯克（Elon Musk）高达290亿美元的薪酬方案。文章分析了特斯拉的销售困境、Cybertruck的失败、董事会治理问题、马斯克对AI和机器人项目的资源分流，以及其自动驾驶承诺的信任危机。最终，文章质疑特斯拉是否仍是增长型公司，抑或仅是一个依靠马斯克未来主义叙事支撑的“邪教股”。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Elon Musk
-  - Steven Schwarzman
-  - Bill Gates
-  - Warren Buffett
-  - Jeff Bezos
-  - Mark Zuckerberg
-  - Fred Lambert
-  - Matt Levine
-  - Jay Ritter
-  - Donald Trump
-  - Joe Biden
-  - Robin Denholm
-  - Kimbal Musk
-  - James Murdoch
-companies_orgs:
-  - Tesla
-  - BYD
-  - Blackstone
-  - XAI
-  - SpaceX
-  - Neuralink
-  - X Corp
-  - California Department of Motor Vehicles
-  - Uber
-  - Waymo
-  - Zoox
-  - Intel
-  - Columbia Business School
-  - The Economist
-  - Financial Times
-  - LA Times
-  - Quartz
-  - Electric
-products_models:
-  - Cybertruck
-  - Model Y
-  - Model 2
-  - Autopilot
-  - Full Self-Driving
-  - Hyperloop
-  - Robo-taxi
-  - Humanoid robots
-  - Cybercabs
-media_books:
-  - Painted Black
 status: evergreen
+summary: 本文深入探讨了特斯拉当前面临的矛盾现实。尽管销量在全球范围内大幅下滑，竞争对手比亚迪（BYD）异军突起，且公司面临多项法律诉讼和高管离职潮，特斯拉董事会却批准了埃隆·马斯克（Elon
+  Musk）高达290亿美元的薪酬方案。文章分析了特斯拉的销售困境、Cybertruck的失败、董事会治理问题、马斯克对AI和机器人项目的资源分流，以及其自动驾驶承诺的信任危机。最终，文章质疑特斯拉是否仍是增长型公司，抑或仅是一个依靠马斯克未来主义叙事支撑的“邪教股”。
+tags:
+- autonomous-driving-hype
+- corporate-governance
+- decline
+- executive-compensation
+- market-valuation
+title: 销量下滑，薪酬飙升：特斯拉怪异新现实的内幕
 ---
+
 ### 特斯拉销量暴跌与马斯克天价薪酬
 
 今年7月，特斯拉在英国的销量不足一千辆。这并非笔误。这家曾定义电动汽车（EV: Electric Vehicle）革命的公司，其在英国的销量暴跌了近60%，而其中国竞争对手**比亚迪**（BYD: Build Your Dreams，一家中国汽车制造商）则销量飙升，增长了四倍，在英国以3比1的比例超越了特斯拉。

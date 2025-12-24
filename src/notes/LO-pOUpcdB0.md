@@ -1,33 +1,31 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs: []
 date: '2025-06-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=LO-pOUpcdB0
 speaker: 海淀拙大叔
-tags:
-  - pmi-indicator
-  - economic-recovery
-  - inventory-cycle
-  - stock-market-correlation
-  - macroeconomic-forecast
-title: PMI指标预示经济繁荣即将到来：海淀拙大叔的宏观经济分析
-summary: 海淀拙大叔在本期宏观经济论中，深入解析了采购经理人指数（PMI）如何作为经济反转的先行指标。文章详细阐述了PMI的构成、不同行业PMI的复苏顺序，以及制造业PMI子指标（如新订单、库存、价格剪刀差）对经济周期的预示作用。通过分析库存周期与上证指数的历史关联，预测中国经济正从被动去库存迈向主动补库存的繁荣期，并展望了未来资本市场的表现。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - china-analysis
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 海淀拙大叔在本期宏观经济论中，深入解析了采购经理人指数（PMI）如何作为经济反转的先行指标。文章详细阐述了PMI的构成、不同行业PMI的复苏顺序，以及制造业PMI子指标（如新订单、库存、价格剪刀差）对经济周期的预示作用。通过分析库存周期与上证指数的历史关联，预测中国经济正从被动去库存迈向主动补库存的繁荣期，并展望了未来资本市场的表现。
+tags:
+- cycle
+- economic
+- financial
+- pmi-indicator
+- stock-market-correlation
+title: PMI指标预示经济繁荣即将到来：海淀拙大叔的宏观经济分析
 ---
+
 ### PMI：经济繁荣的先行指标
 
 本期宏观经济论将聚焦于**采购经理人指数**（PMI: Purchasing Managers' Index, 衡量制造业或服务业经济活动的综合指标），探讨其如何预示经济反转和繁荣的到来。此前，关于房价未来上涨的观点曾引发广泛讨论，多数人的不相信反而坚定了经济拐点即将到来的判断。今天，我们将通过PMI指标，深入分析经济走向。

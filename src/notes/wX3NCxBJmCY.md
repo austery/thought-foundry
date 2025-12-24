@@ -1,36 +1,34 @@
 ---
-title: AI浪潮下的日本：独特市场、商业文化与社会未来
-summary: 资深创投人李路成深度解析日本AI市场，探讨中国公司出海机遇、日本商业文化，并展望AI对日本社会的未来影响。
 area: market-analysis
 category: technology
+companies_orgs:
+- indigo
+date: '2025-10-08'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+products_models: []
 project:
 - ai-impact-analysis
 - cultural-critique
 - entrepreneurship
 - investment-strategy
 - market-cycles
-tags:
-- chinese-companies-japan
-- future-of-ai
-- japan-ai-market
-- japanese-business-culture
-- venture-capital-japan
-people: []
-companies_orgs:
-- indigo
-products_models: []
-media_books: []
-date: '2025-10-08'
-author: INDIGO 数字镜像
-speaker: INDIGO 数字镜像
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=wX3NCxBJmCY
+speaker: INDIGO 数字镜像
 status: evergreen
+summary: 资深创投人李路成深度解析日本AI市场，探讨中国公司出海机遇、日本商业文化，并展望AI对日本社会的未来影响。
+tags:
+- chinese
+- culture
+- future-of-ai
+- market
+- venture-capital-japan
+title: AI浪潮下的日本：独特市场、商业文化与社会未来
 ---
+
 ### 日本创投视角：AI时代下的独特市场观察
 
 **卢总:** 欢迎回到 Indigo Talk。这一期我邀请了新朋友李路成，他在日本从事**创投**（Venture Capital: 对初创企业进行股权投资，以期在未来获得高回报的投资行为）工作，这在日本比较少见。他之前在雅虎做创投，现在自己出来创业，也在做投资。我今年6月份在东京见到他，当时我们很久没见了，我说我们是不是约个时间，正好聊一聊AI之后的日本。我觉得大家很关心以下几个主题：首先是AI；其次，很多中国公司通过日本出海并进入日本市场；还有一些朋友通过投资经营签或高级人才移民到日本。所以大家对日本市场其实既陌生（作为旅游来说不陌生），但对于科技领域可能会比较陌生。我们先请路成介绍一下他现在做的工作。

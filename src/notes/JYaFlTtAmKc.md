@@ -1,48 +1,48 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Bloomberg
+- Alaska Housing Finance Corporation
+- Alaska Association of the Housing Authorities
+- HUD
 date: '2025-08-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Jimmy Orr
+- Daniel Delfino
+- Stacy Barnes
+- Brian Butcher
+- Senator Stevens
+- Mary Daly
+- Mayor Adams
+products_models:
+- AKwarm
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=JYaFlTtAmKc
 speaker: Bloomberg Podcasts
-tags:
-  - housing-affordability
-  - construction-challenges
-  - rural-housing
-  - community-partnerships
-  - infrastructure-bottlenecks
-title: 阿拉斯加住房之谜：地广人稀，为何一房难求？
-summary: 本期Odd Lots播客深入探讨了阿拉斯加州独特的住房困境。尽管阿拉斯加幅员辽阔，且部分地区人口呈下降趋势，但住房可负担性、建设成本、土地可用性、人口流动以及度假租赁的兴起等多重因素，共同导致了严重的住房紧张。阿拉斯加住房金融公司（AHFC）的嘉宾们分享了该州在应对这些复杂挑战时的创新策略，包括加强社区合作、提升现有住房韧性以及利用技术连接分散资源等，为美国其他地区提供了宝贵的经验。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Jimmy Orr
-  - Daniel Delfino
-  - Stacy Barnes
-  - Brian Butcher
-  - Senator Stevens
-  - Mary Daly
-  - Mayor Adams
-companies_orgs:
-  - Bloomberg
-  - Alaska Housing Finance Corporation
-  - Alaska Association of the Housing Authorities
-  - HUD
-products_models:
-  - AKwarm
-media_books:
-  - Odd Lots
 status: evergreen
+summary: 本期Odd Lots播客深入探讨了阿拉斯加州独特的住房困境。尽管阿拉斯加幅员辽阔，且部分地区人口呈下降趋势，但住房可负担性、建设成本、土地可用性、人口流动以及度假租赁的兴起等多重因素，共同导致了严重的住房紧张。阿拉斯加住房金融公司（AHFC）的嘉宾们分享了该州在应对这些复杂挑战时的创新策略，包括加强社区合作、提升现有住房韧性以及利用技术连接分散资源等，为美国其他地区提供了宝贵的经验。
+tags:
+- challenge
+- community-partnership
+- geopolitical
+- housing-affordability
+- infrastructure
+title: 阿拉斯加住房之谜：地广人稀，为何一房难求？
 ---
+
 ### 阿拉斯加的住房之谜
 
 Joe: 大家好，欢迎收听新一期的**Odd Lots**（一档探讨经济和金融话题的播客）播客。我是Joe Weisenthal。

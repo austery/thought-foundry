@@ -1,35 +1,33 @@
 ---
-title: 24分钟速览顶尖经济学理论：从古典到现代的演变
-summary: 本文深入探讨了塑造现代经济思想的十五大顶尖经济学理论，包括古典经济学、凯恩斯主义、马克思主义、奥地利学派、新古典经济学、博弈论、行为经济学、新制度经济学、货币主义、新凯恩斯主义、公共选择理论、现代货币理论、女权主义经济学、生态经济学和供给侧经济学。文章梳理了这些理论的核心原则、演变历程及其对当前经济辩论和政策制定的深远影响。
-area: market-analysis
-category: finance
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
-tags:
-- economic-theories
-- fiscal-policy
-- government-intervention
-- market-failures
-- monetary-policy
-- rationality
-people:
-- adam-s-axiom
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-05-03'
-author: Adam's Axiom
-speaker: Adam's Axiom
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- adam-s-axiom
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=4X4_E6DPV0s
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了塑造现代经济思想的十五大顶尖经济学理论，包括古典经济学、凯恩斯主义、马克思主义、奥地利学派、新古典经济学、博弈论、行为经济学、新制度经济学、货币主义、新凯恩斯主义、公共选择理论、现代货币理论、女权主义经济学、生态经济学和供给侧经济学。文章梳理了这些理论的核心原则、演变历程及其对当前经济辩论和政策制定的深远影响。
+tags:
+- economic-theory
+- fiscal-policy
+- government-intervention
+- market
+- philosophy
+title: 24分钟速览顶尖经济学理论：从古典到现代的演变
 ---
+
 ### 古典经济学
 
 古典经济学作为现代经济思想的基石，始于亚当·斯密在1776年出版的划时代著作《**国富论**》（The Wealth of Nations: 探讨国民财富的性质和原因）。古典经济学倡导由**看不见的手**（invisible hand: 市场在个人追求私利时能自动实现社会利益）所支配的自由市场，认为在没有政府干预的情况下，个人自利行为会带来最优结果。

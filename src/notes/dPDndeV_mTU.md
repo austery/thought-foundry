@@ -1,36 +1,33 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs: []
 date: '2025-01-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sarah Paine
+- FDR
+- Hitler
+- Tojo
+- Takahashi Korekiyo
+- Prince Konoe
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=dPDndeV_mTU
 speaker: Dwarkesh Patel
-tags:
-  - world-war-ii
-  - international-system
-  - geopolitics
-  - counterfactuals
-title: 二战是否可避免？——石油禁运与国际体系的抉择
-summary: 本期节目深入探讨了二战前美国对日石油禁运的决策及其影响。嘉宾分析了日本内部政治斗争、国际体系的重要性，以及历史的复杂性与反事实的可能性，指出战争的爆发是多重因素交织的结果，而非简单的单方面过错。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - Sarah Paine
-  - Dwarkesh Patel
-  - FDR
-  - Hitler
-  - Tojo
-  - Takahashi Korekiyo
-  - Prince Konoe
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了二战前美国对日石油禁运的决策及其影响。嘉宾分析了日本内部政治斗争、国际体系的重要性，以及历史的复杂性与反事实的可能性，指出战争的爆发是多重因素交织的结果，而非简单的单方面过错。
+tags:
+- counterfactual
+- system
+- war
+title: 二战是否可避免？——石油禁运与国际体系的抉择
 ---
+
 ### 战争的导火索
 Basically, **America** put in this oil embargo and knew that the outcome of failed negotiations on getting rid of that embargo was a total **World War** of this kind. And it's not even for the main strategic objective, which is, you know, you've got to get **Hitler**, you've got to get **beat Germany**.
 

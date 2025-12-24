@@ -1,36 +1,35 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs: []
 date: '2025-06-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《周期》
+people:
+- 霍华德·马克思
+- 霍莫·霍伊特
+- 任大炮
+products_models: []
+project:
+- china-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=BIAHeh9KHpQ
 speaker: 海淀拙大叔
-tags:
-  - housing-market
-  - monetary-policy
-  - asset-prices
-  - economic-cycles
-  - supply-demand
-title: 中国房地产市场：边际反转、供给短缺与周期性上涨的深度分析
-summary: 本文深入分析了中国房地产市场的当前趋势与未来走向。基于货币宽松政策的传导效应，文章指出一线城市房价已出现边际反转，二三线城市跌幅收敛。通过对比历史新开工面积数据和美国案例，预测2026-2027年住房竣工面积将断崖式下降，导致供给短缺。结合当前历史低位的房贷利率，文章认为中国房价将进入上涨周期，并探讨了人口净流入对区域房价的影响及房地产周期的普遍规律。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - market-cycles
-people:
-  - 霍华德·马克思
-  - 霍莫·霍伊特
-  - 任大炮
-companies_orgs: []
-products_models: []
-media_books:
-  - 《周期》
 status: evergreen
+summary: 本文深入分析了中国房地产市场的当前趋势与未来走向。基于货币宽松政策的传导效应，文章指出一线城市房价已出现边际反转，二三线城市跌幅收敛。通过对比历史新开工面积数据和美国案例，预测2026-2027年住房竣工面积将断崖式下降，导致供给短缺。结合当前历史低位的房贷利率，文章认为中国房价将进入上涨周期，并探讨了人口净流入对区域房价的影响及房地产周期的普遍规律。
+tags:
+- asset
+- economic-cycle
+- financial
+- housing-market
+title: 中国房地产市场：边际反转、供给短缺与周期性上涨的深度分析
 ---
+
 ### 货币政策传导效应与资产价格上涨
 
 大家好，我是海淀拙大叔，今天是6月14号周六。大家可能还记得去年10月11号我发布的一个视频，主题是“人民币：只有懂我，我才是你的”。当时视频的主要观点是，只要货币政策出现大力度宽松，首先上涨的将是**资产价格**（Asset Prices: 股票、房地产等非实物资产的价格），随后经过不断传导，最终会影响到**商品价格**（Commodity Prices: 原材料、农产品等实物商品的价格），导致**通货膨胀**（Inflation: 货币购买力下降，物价普遍上涨的现象）的出现。

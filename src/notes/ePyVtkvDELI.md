@@ -1,32 +1,31 @@
 ---
-title: 信用卡积分旅行最大化攻略
-summary: 专家分享如何利用信用卡积分最大化旅行优惠，涵盖积分类型、避险策略及有效运用。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- credit-card-points
-- financial-tips
-- loyalty-programs
-- points-redemption
-- travel-hacking
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-10'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=ePyVtkvDELI
+speaker: New York Times Podcasts
 status: evergreen
+summary: 专家分享如何利用信用卡积分最大化旅行优惠，涵盖积分类型、避险策略及有效运用。
+tags:
+- canada
+- credit
+- financial
+- points-redemption
+- travel
+title: 信用卡积分旅行最大化攻略
 ---
+
 ### 节目介绍：用积分实现优惠旅行
 
 Rosie Garin: I'm Rosie Garin and you're listening to the Wire Cutter Show.

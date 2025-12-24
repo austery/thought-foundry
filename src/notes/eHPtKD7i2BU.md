@@ -1,73 +1,73 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: general
+companies_orgs:
+- Wirecutter
+- Offerman Wood Shop
+- University of Illinois
+- Cranert Center
+- Lee Nielsen Hand Planes
+- Home Depot
+- Nike
+- New York Times Podcasts
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Miss Congeniality 2: Armed and Fabulous'
+- Parks and Recreation
+- Little Woodchucks
+- Where the Deer and the Antelope Play
+- The Soul of a Tree
+- The Memory of Old Jack
+- Good Clean Fun
+- The Wire Cutter Show
+people:
+- Nick Offerman
+- Christine Zerette
+- Kyra Blackwell
+- Rosie Garren
+- Doug Mahoney
+- Ron Swanson
+- Ken Egan
+- George Nakashima
+- Meera Nakashima
+- James Krenov
+- Wendel Berry
+- Megan Mullally
+- Lee Buchanan
+- Mattie Maziello
+- Nick Pitman
+- Katherine Anderson
+- Dan Powell
+- Marian Lozano
+- Rowan Nemoto
+- Diane Wong
+- Cliff Levy
+- Ben Fman
+products_models:
+- Estwing hammer
+- Laguna bandsaw
+- iPhone
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=eHPtKD7i2BU
 speaker: New York Times Podcasts
-tags:
-  - woodworking-philosophy
-  - handcrafting
-  - durable-tools
-  - patience-and-focus
-  - slow-living
-title: 尼克·奥弗曼的持久之物建造指南
-summary: 演员兼专业木匠尼克·奥弗曼分享了他对木工的热爱，以及亲手制作物品的重要性。他强调了投资耐用工具的价值，并探讨了木工作为一种精神实践，如何鼓励人们放慢生活节奏。本文还介绍了他的新书《小木工》，一本面向儿童的木工指南。
-insight: ''
-draft: true
-series: ''
-category: general
-area: personal-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Nick Offerman
-  - Christine Zerette
-  - Kyra Blackwell
-  - Rosie Garren
-  - Doug Mahoney
-  - Ron Swanson
-  - Ken Egan
-  - George Nakashima
-  - Meera Nakashima
-  - James Krenov
-  - Wendel Berry
-  - Megan Mullally
-  - Lee Buchanan
-  - Mattie Maziello
-  - Nick Pitman
-  - Katherine Anderson
-  - Dan Powell
-  - Marian Lozano
-  - Rowan Nemoto
-  - Diane Wong
-  - Cliff Levy
-  - Ben Fman
-companies_orgs:
-  - Wirecutter
-  - Offerman Wood Shop
-  - University of Illinois
-  - Cranert Center
-  - Lee Nielsen Hand Planes
-  - Home Depot
-  - Nike
-  - New York Times Podcasts
-products_models:
-  - Estwing hammer
-  - Laguna bandsaw
-  - iPhone
-media_books:
-  - 'Miss Congeniality 2: Armed and Fabulous'
-  - Parks and Recreation
-  - Little Woodchucks
-  - Where the Deer and the Antelope Play
-  - The Soul of a Tree
-  - The Memory of Old Jack
-  - Good Clean Fun
-  - The Wire Cutter Show
 status: evergreen
+summary: 演员兼专业木匠尼克·奥弗曼分享了他对木工的热爱，以及亲手制作物品的重要性。他强调了投资耐用工具的价值，并探讨了木工作为一种精神实践，如何鼓励人们放慢生活节奏。本文还介绍了他的新书《小木工》，一本面向儿童的木工指南。
+tags:
+- canada
+- life
+- philosophy
+- psychology
+- tool
+title: 尼克·奥弗曼的持久之物建造指南
 ---
+
 ### 木工：从电影片酬到带锯机
 
 尼克·奥弗曼: 我记得当我被选为《**特工佳丽2：武装与迷人**》（Miss Congeniality 2: Armed and Fabulous: 一部2005年的美国喜剧电影）中的反派时，我获得了一笔虽然不多但很可观的报酬。

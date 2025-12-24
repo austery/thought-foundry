@@ -6,13 +6,11 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-  - 市场影响
-  - 美国经济
-  - 财政赤字
-people: []
+- financial
+- us-economy
+- 市场影响
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-06'
 author: Lei
 speaker: null
@@ -23,6 +21,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=0vB4CiIiOYU&t
 ---
+
 ## 一、激烈的政治博弈：法案的诞生之路
 
 报道捕捉到了唐纳德·特朗普在凌晨一点仍在白宫，紧密关注“大而美”法案投票进展的画面。与此同时，为了阻止该法案，民主党领袖哈基姆·杰弗里斯在众议院进行了长达8小时44分钟的发言，直至声音沙哑。

@@ -1,25 +1,25 @@
 ---
-author: New York Times Podcasts
+area: ''
+category: ''
+companies_orgs: []
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=AFM9Axya_34
 speaker: New York Times Podcasts
+status: evergreen
+summary: ''
 tags: []
 title: Trump’s Combative Prime Time Speech, and the Growing Right-to-Die Movement
-summary: ''
-insight: ''
-draft: true
-series: ''
-category: ''
-area: ''
-project: []
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-status: evergreen
 ---
+
 ### 节目开场
 
 From the New York Times, it's the headlines. I'm Tracy Mumford. Today's Thursday, December 18th. [music] Here's what we're covering.

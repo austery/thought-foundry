@@ -1,64 +1,63 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: culture
+companies_orgs:
+- 西南联合大学
+- 芝加哥大学
+- 普林斯顿高等研究院
+- 加州大学伯克利分校
+- 哥伦比亚大学
+- 纽约州立大学石溪分校
+- 南开大学
+- 清华大学
+- 中科院
+- 上海交通大学
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 奥本海默
+- 纽约客杂志
+people:
+- 李政道
+- 杨振宁
+- 吴大猷
+- 恩里科·费米
+- 奥本海默
+- 爱因斯坦
+- 米尔斯
+- 吴健雄
+- 周恩来
+- 姚期智
+- 温帆
+- 秦女士
+- 杰米·里伯恩斯坦
+products_models:
+- 杨米尔斯理论
+- 非阿贝尔规范场理论
+- 标准模型
+- 吴氏实验
+- 杨巴克斯特方程
+- 李模型
+- CUSPEA项目
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=VomLeYF1M7g
 speaker: 北美王路飞
-tags:
-  - scientific-collaboration
-  - nobel-prize
-  - parity-non-conservation
-  - scientific-disputes
-  - human-nature-in-science
-title: 杨振宁与李政道：从黄金搭档到半世纪决裂的科学传奇
-summary: 本文深入复盘了诺贝尔物理学奖得主杨振宁与李政道之间长达半个多世纪的复杂关系。从他们在西南联大的初识，到芝加哥大学的亦师亦友，再到普林斯顿的巅峰合作——宇称不守恒理论的提出与诺奖的荣光，以及最终因荣誉归属和署名争议导致的决裂。文章探讨了这场科学界憾事背后的深层原因，包括科学荣誉分配机制、个人性格碰撞及时代文化烙印，并回顾了两人决裂后的独立学术成就及其对中国科学发展的不同贡献。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - 李政道
-  - 杨振宁
-  - 吴大猷
-  - 恩里科·费米
-  - 奥本海默
-  - 爱因斯坦
-  - 米尔斯
-  - 吴健雄
-  - 周恩来
-  - 姚期智
-  - 温帆
-  - 秦女士
-  - 杰米·里伯恩斯坦
-companies_orgs:
-  - 西南联合大学
-  - 芝加哥大学
-  - 普林斯顿高等研究院
-  - 加州大学伯克利分校
-  - 哥伦比亚大学
-  - 纽约州立大学石溪分校
-  - 南开大学
-  - 清华大学
-  - 中科院
-  - 上海交通大学
-products_models:
-  - 杨米尔斯理论
-  - 非阿贝尔规范场理论
-  - 标准模型
-  - 吴氏实验
-  - 杨巴克斯特方程
-  - 李模型
-  - CUSPEA项目
-media_books:
-  - 奥本海默
-  - 纽约客杂志
 status: evergreen
+summary: 本文深入复盘了诺贝尔物理学奖得主杨振宁与李政道之间长达半个多世纪的复杂关系。从他们在西南联大的初识，到芝加哥大学的亦师亦友，再到普林斯顿的巅峰合作——宇称不守恒理论的提出与诺奖的荣光，以及最终因荣誉归属和署名争议导致的决裂。文章探讨了这场科学界憾事背后的深层原因，包括科学荣誉分配机制、个人性格碰撞及时代文化烙印，并回顾了两人决裂后的独立学术成就及其对中国科学发展的不同贡献。
+tags:
+- human-nature-in-science
+- nobel-prize
+- non
+- scientific
+title: 杨振宁与李政道：从黄金搭档到半世纪决裂的科学传奇
 ---
+
 ### 两位巨星陨落：一个时代的终章
 
 2024年8月4日，**诺贝尔物理学奖**（Nobel Prize in Physics: 瑞典皇家科学院颁发的物理学领域最高荣誉）得主李政道先生在美国逝世，享年98岁。仅仅一年多后，2025年10月18日，与他分享这一殊荣的杨振宁先生在北京与世长辞，享年103岁。一个物理学的伟大时代，随着两位巨星的相继陨落，正式落下了帷幕。

@@ -1,54 +1,55 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-08-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 大问题Dialectic
+- 《看透世界：100个哲学大概念开悟人生！》
+- 《西方哲学史》
+people:
+- 休谟
+- 康德
+- 黑格尔
+- 泰勒斯
+- 赫拉克利特
+- 毕达哥拉斯
+- 苏格拉底
+- 柏拉图
+- 亚里士多德
+- 尼采
+- 叔本华
+- 萨特
+- 海德格尔
+- 维特根斯坦
+- 西周
+products_models:
+- DeepSeek
+- Gemini
+- ChatGPT
+project:
+- personal-growth-lab
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=P3r9NG3BP3g
 speaker: 大问题Dialectic
-tags:
-  - philosophical-thinking
-  - ai-era
-  - education-reform
-  - critical-thinking
-  - meta-discipline
-title: 在AI时代，为何我们更应学习哲学：打破“做题家”思维，培养元学科能力
-summary: 本期节目探讨了在AI时代学习哲学的重要性。针对应试教育培养出的“做题家”思维，节目指出其在面对复杂模糊问题时的局限性。随着AI日益取代标准化工作，哲学作为一门“元学科”，能帮助我们打破旧有认知框架，培养提出新问题、质疑前提、从第一性原理思考的能力，从而应对不确定性，并从更高维度加持专业发展。节目还介绍了学习哲学的两种路径，并推荐了相关课程。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 休谟
-  - 康德
-  - 黑格尔
-  - 泰勒斯
-  - 赫拉克利特
-  - 毕达哥拉斯
-  - 苏格拉底
-  - 柏拉图
-  - 亚里士多德
-  - 尼采
-  - 叔本华
-  - 萨特
-  - 海德格尔
-  - 维特根斯坦
-  - 西周
-companies_orgs: []
-products_models:
-  - DeepSeek
-  - Gemini
-  - ChatGPT
-media_books:
-  - 大问题Dialectic
-  - 《看透世界：100个哲学大概念开悟人生！》
-  - 《西方哲学史》
 status: evergreen
+summary: 本期节目探讨了在AI时代学习哲学的重要性。针对应试教育培养出的“做题家”思维，节目指出其在面对复杂模糊问题时的局限性。随着AI日益取代标准化工作，哲学作为一门“元学科”，能帮助我们打破旧有认知框架，培养提出新问题、质疑前提、从第一性原理思考的能力，从而应对不确定性，并从更高维度加持专业发展。节目还介绍了学习哲学的两种路径，并推荐了相关课程。
+tags:
+- critical-thinking
+- education-reform
+- llm
+- thinking
+title: 在AI时代，为何我们更应学习哲学：打破“做题家”思维，培养元学科能力
+companies:
+- meta-discipline
 ---
+
 ### 告别“做题家”思维：AI时代下的挑战与反思
 
 大家好，欢迎收看大问题节目。本期我们要探讨的大问题是：为什么在这个时代，我们更应该学习哲学？

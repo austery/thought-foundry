@@ -1,43 +1,43 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Cognition
+- Codto
+- Cosign
+- Macco
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Will Hang
+- Cathy Zhou
+products_models:
+- Codeex
+- Devin
+- GPT-5
+- Nvidia B200
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=p1CmPZ2j6Lk
 speaker: AI Engineer
-tags:
-  - agent-reinforcement-fine-tuning
-  - llm-agents
-  - tool-use
-  - model-optimization
-  - domain-shift
-title: OpenAI Agent RFT：通过强化微调提升智能体性能的策略与实践
-summary: OpenAI的Will Hang和Cathy Zhou介绍了Agent RFT（智能体强化微调），这是一种通过改变模型权重来显著提升智能体性能的方法。文章详细阐述了智能体的定义、与外部世界交互的能力，以及如何通过提示工程、任务优化和最终的Agent RFT来逐步优化其表现。通过Cognition、Codto、Cosign和Macco等客户案例，展示了Agent RFT在代码编辑、代码审查和GPU内核编写等复杂任务中的实际应用，并强调了数据质量、并行工具调用、行为稳定性和奖励函数设计等成功关键原则。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Will Hang
-  - Cathy Zhou
-companies_orgs:
-  - OpenAI
-  - Cognition
-  - Codto
-  - Cosign
-  - Macco
-products_models:
-  - Codeex
-  - Devin
-  - GPT-5
-  - Nvidia B200
-media_books: []
 status: evergreen
+summary: OpenAI的Will Hang和Cathy Zhou介绍了Agent RFT（智能体强化微调），这是一种通过改变模型权重来显著提升智能体性能的方法。文章详细阐述了智能体的定义、与外部世界交互的能力，以及如何通过提示工程、任务优化和最终的Agent
+  RFT来逐步优化其表现。通过Cognition、Codto、Cosign和Macco等客户案例，展示了Agent RFT在代码编辑、代码审查和GPU内核编写等复杂任务中的实际应用，并强调了数据质量、并行工具调用、行为稳定性和奖励函数设计等成功关键原则。
+tags:
+- agent
+- llm
+- model
+- shift
+- tool
+title: OpenAI Agent RFT：通过强化微调提升智能体性能的策略与实践
 ---
+
 ### 智能体强化微调 (Agent RFT) 简介
 
 大家好，我是Will。

@@ -1,48 +1,48 @@
 ---
-author: 人民公園說AI
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
+- Anthropic
+- Oracle
+- Alibaba
+- MiniMax
+- Tencent
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sam Altman
+- Demis Hassabis
+- Andrej Karpathy
+- Yan Junjie
+products_models:
+- Claude Code
+- Gemini 3
+- Sora
+- Qianwen
+- Antigravity
+- Nano Banana
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=4t3Wp1b8GNY
 speaker: 人民公園說AI
-tags:
-  - llm
-  - ai-agent
-  - product-innovation
-  - ai-awards
-  - enterprise-ai
-title: 2025 AI年度颁奖：Google无敌、Claude Code封神、甲骨文逆袭与奥特曼的忧虑
-summary: 本次AI年度颁奖盛典回顾了2025年AI领域的重大进展与亮点。Claude Code因其开创性的本地AI代理能力荣获年度最佳产品奖；OpenAI团队凭借其快速的产品迭代和组织能力摘得年度最佳团队奖；Demis Hassabis（Google）获颁最佳Boss奖；Anthropic凭借Claude Code的商业成功获得最佳逆袭奖。此外，Oracle、腾讯、Andrej Karpathy及Google Antigravity也因其在AI领域的独特贡献获得特别奖项。讨论还展望了AI在2026年的发展趋势，尤其是在商业化和新硬件方面的潜力。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sam Altman
-  - Demis Hassabis
-  - Andrej Karpathy
-  - Yan Junjie
-companies_orgs:
-  - OpenAI
-  - Google
-  - Anthropic
-  - Oracle
-  - Alibaba
-  - MiniMax
-  - Tencent
-products_models:
-  - Claude Code
-  - Gemini 3
-  - Sora
-  - Qianwen
-  - Antigravity
-  - Nano Banana
-media_books: []
 status: evergreen
+summary: 本次AI年度颁奖盛典回顾了2025年AI领域的重大进展与亮点。Claude Code因其开创性的本地AI代理能力荣获年度最佳产品奖；OpenAI团队凭借其快速的产品迭代和组织能力摘得年度最佳团队奖；Demis
+  Hassabis（Google）获颁最佳Boss奖；Anthropic凭借Claude Code的商业成功获得最佳逆袭奖。此外，Oracle、腾讯、Andrej
+  Karpathy及Google Antigravity也因其在AI领域的独特贡献获得特别奖项。讨论还展望了AI在2026年的发展趋势，尤其是在商业化和新硬件方面的潜力。
+tags:
+- ai-agent
+- enterprise-ai
+- innovation
+- llm
+title: 2025 AI年度颁奖：Google无敌、Claude Code封神、甲骨文逆袭与奥特曼的忧虑
 ---
+
 ### 年度颁奖开场
 
 大家好，今天我们进入“人民公园说AI”的年终颁奖环节。虽然我们只做了一年，但因为“AI圈一天，人间一年”，我们上半年已经颁发过一次奖项了。事实证明，一年颁两次非常有必要，因为上半年没颁出去的奖，下半年可能就找不到人了。

@@ -1,92 +1,92 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 摩根大通
+- 美联储
+- 纽约联邦储备银行
+- MSCI
+- 美联社
+- 中央情报局
+- FBI
+- 美国司法部
+- 美国移民局
+- Axios
+- 路透社
+- 克里姆林宫
+- 彭博社
+- 贝壳研究院
+- 万科
+- 深圳地铁
+- 安踏体育用品有限公司
+- 彪马
+- 李宁公司
+- 中国央视
+- 人民日报
+- 新华社
+- 人民网
+- 联合国
+- 白宫
+- NHK
+- 香港明报
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 华尔街日报
+- 福克斯新闻
+- Axios
+- 彭博社
+- 路透社
+- 美联社
+- 香港明报
+- NHK
+- 中国央视新闻
+people:
+- Williams
+- Rajeev Batra
+- Rahmanullah Lakhanwal
+- Channing Piro
+- Bondi
+- Patel
+- Vladimir Putin
+- Donald Trump
+- Witkoff
+- Ushakov
+- Sergei Ryabkov
+- 何伟豪
+- 李家超
+- Xi Jinping
+- 王毅
+- 博纳
+- Emmanuel Macron
+- 高市早苗
+- 官穆元念
+- 魏玲玲
+products_models:
+- MSCI中国指数
+- MSCI亚太指数
+- 0.357口径史密斯威森左轮手枪
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=fuHksgcx98c
 speaker: LT視界
-tags:
-  - market-forecast
-  - geopolitical-strategy
-  - intelligence-leak
-  - real-estate-crisis
-  - diplomatic-maneuvers
-title: 摩根大通预测反转、华盛顿枪击案与中日外交：全球热点深度解析
-summary: 本期节目深入分析了多项全球重要新闻。从摩根大通对美联储降息预测的快速转变，到其上调中国股市评级，揭示了市场的不确定性。华盛顿特区枪击案嫌犯与CIA的关联，引发了对国家安全和移民政策的关注。乌克兰和平协议的最新进展和美俄秘密通话泄密事件，凸显了国际关系的复杂性。此外，香港高层火灾暴露的建筑安全隐患，以及万科危机对中国房地产市场和政府应对能力的挑战，都值得深思。最后，中方在对日问题上采取的“告洋状”策略和舆论的突然转向，揭示了其外交手腕和内部考量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Williams
-  - Rajeev Batra
-  - Rahmanullah Lakhanwal
-  - Channing Piro
-  - Bondi
-  - Patel
-  - Vladimir Putin
-  - Donald Trump
-  - Witkoff
-  - Ushakov
-  - Sergei Ryabkov
-  - 何伟豪
-  - 李家超
-  - 习近平
-  - 王毅
-  - 博纳
-  - Emmanuel Macron
-  - 高市早苗
-  - 官穆元念
-  - 魏玲玲
-companies_orgs:
-  - 摩根大通
-  - 美联储
-  - 纽约联邦储备银行
-  - MSCI
-  - 美联社
-  - 中央情报局
-  - FBI
-  - 美国司法部
-  - 美国移民局
-  - Axios
-  - 路透社
-  - 克里姆林宫
-  - 彭博社
-  - 贝壳研究院
-  - 万科
-  - 深圳地铁
-  - 安踏体育用品有限公司
-  - 彪马
-  - 李宁公司
-  - 中国央视
-  - 人民日报
-  - 新华社
-  - 人民网
-  - 联合国
-  - 白宫
-  - NHK
-  - 香港明报
-products_models:
-  - MSCI中国指数
-  - MSCI亚太指数
-  - 0.357口径史密斯威森左轮手枪
-media_books:
-  - 华尔街日报
-  - 福克斯新闻
-  - Axios
-  - 彭博社
-  - 路透社
-  - 美联社
-  - 香港明报
-  - NHK
-  - 中国央视新闻
 status: evergreen
+summary: 本期节目深入分析了多项全球重要新闻。从摩根大通对美联储降息预测的快速转变，到其上调中国股市评级，揭示了市场的不确定性。华盛顿特区枪击案嫌犯与CIA的关联，引发了对国家安全和移民政策的关注。乌克兰和平协议的最新进展和美俄秘密通话泄密事件，凸显了国际关系的复杂性。此外，香港高层火灾暴露的建筑安全隐患，以及万科危机对中国房地产市场和政府应对能力的挑战，都值得深思。最后，中方在对日问题上采取的“告洋状”策略和舆论的突然转向，揭示了其外交手腕和内部考量。
+tags:
+- crisis
+- geopolitical
+- geopolitical-strategy
+- intelligence
+- market
+title: 摩根大通预测反转、华盛顿枪击案与中日外交：全球热点深度解析
 ---
+
 ### 美国感恩节与市场动态
 
 今天是11月27日，也是美国的**感恩节**（Thanksgiving: 美国和加拿大等国家的重要节日，通常在每年11月的第四个星期四，家人团聚，感谢丰收和祝福）。一年一度的纽约**梅西感恩节大游行**（Macy's Thanksgiving Day Parade: 每年感恩节在纽约市举行的大型游行活动，以巨型气球和花车闻名）是全美假日季开启的一个重大标志。从今天开始，美国人将一直处在节日的氛围之中，人们见面会互相祝贺节日快乐，美国的商业零售也将进入全年的一个高峰期。今年的梅西大游行有8000人参加，有42个大型气球和28辆花车，全球有5000万名观众通过直播收看了今天的大游行。

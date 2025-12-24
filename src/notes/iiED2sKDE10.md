@@ -1,40 +1,40 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Meta
+- Tesla
+- FICO
+- Baidu
+- S&P Global
 date: '2025-02-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富自由之路》
+people:
+- 唐石峻
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=iiED2sKDE10
 speaker: Shijun Tang
-tags:
-  - long-term-holding
-  - fundamental-analysis
-  - market-efficiency
-  - active-investing
-  - valuation-metrics
-title: 从META到FICO：一位投资者的持仓逻辑与市场认知突围
-summary: 本文详述了一位投资人如何通过基本面分析长期持有META并获得超额回报，同时对比特斯拉与FICO的财务表现，揭示主动选股对市场定价机制的关键作用，强调专业投资知识是跑赢指数的前提。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - Meta
-  - Tesla
-  - FICO
-  - Baidu
-  - S&P Global
-products_models: []
-media_books:
-  - 《财富自由之路》
 status: evergreen
+summary: 本文详述了一位投资人如何通过基本面分析长期持有META并获得超额回报，同时对比特斯拉与FICO的财务表现，揭示主动选股对市场定价机制的关键作用，强调专业投资知识是跑赢指数的前提。
+tags:
+- fundamental-analysis
+- investing
+- long
+- market-efficiency
+- valuation
+title: 从META到FICO：一位投资者的持仓逻辑与市场认知突围
 ---
+
 ### META持仓：从安全边际到长期信心的转变
 
 我持有Meta很长时间，买入时的仓位均价是162美元。目前我的涨幅达到354%，差不多翻了四到五倍。最近，Meta的股价一度站上740美元，作为投资者，我自然感到非常开心。我也不是那种完全冷静、没有情绪的人——没有情绪的是机器，不是人。虽然作为投资人，我一直努力抑制自己的情绪，但我必须承认，我能真切地感受到巨大的喜悦。

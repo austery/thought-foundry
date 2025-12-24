@@ -1,54 +1,53 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Uber
+- Google
+- YouTube
+- Amazon
+- Apple
+- Procter & Gamble
+- Johnson & Johnson
+- Nike
+- LVMH
+- Hermès
+- Tesla
+- NVIDIA
+- Intel
+- TSMC
+- 腾讯
+- 可口可乐
+- Monster Beverage
 date: '2024-06-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富》
+- 《金融时报》
+people:
+- 唐石峻
+- 巴菲特
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Swbzc_7P0u4
 speaker: Shijun Tang
-tags:
-  - value-investing
-  - free-cash-flow
-  - economic-moat
-  - capital-expenditure
-  - shareholder-alignment
-title: 什么公司值得你投资？——唐石峻谈价值投资的七大核心原则
-summary: 本文系统梳理了投资人唐石峻关于上市公司投资的核心观点，强调只有具备持续盈利能力、强大护城河、良好治理与低资本依赖的公司才值得长期持有，反对投机行为，倡导建立个人能力圈与理性投资心态。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - historical-insights
-people:
-  - 唐石峻
-  - 巴菲特
-companies_orgs:
-  - Uber
-  - Google
-  - YouTube
-  - Amazon
-  - Apple
-  - Procter & Gamble
-  - Johnson & Johnson
-  - Nike
-  - LVMH
-  - Hermès
-  - Tesla
-  - NVIDIA
-  - Intel
-  - TSMC
-  - 腾讯
-  - 可口可乐
-  - Monster Beverage
-products_models: []
-media_books:
-  - 《财富》
-  - 《金融时报》
 status: evergreen
+summary: 本文系统梳理了投资人唐石峻关于上市公司投资的核心观点，强调只有具备持续盈利能力、强大护城河、良好治理与低资本依赖的公司才值得长期持有，反对投机行为，倡导建立个人能力圈与理性投资心态。
+tags:
+- capital-expenditure
+- economic-moat
+- flow
+- llm
+title: 什么公司值得你投资？——唐石峻谈价值投资的七大核心原则
 ---
+
 ### 投资的本质：只有上市公司才值得长期持有
 
 在投资领域，唐石峻明确指出，真正值得投资的资产只有两类：房产和股票。但房产投资门槛高、回报难预测，不适合大多数人。相比之下，上市公司股票才是普通人更可行的选择——因为当你买入一家上市公司的股票时，你实质上成为了这家企业的股东，公司从管理层到基层员工都在为你创造价值。更重要的是，这些公司已经通过了资本市场的严格筛选，具备基本的财务健康度和运营能力。

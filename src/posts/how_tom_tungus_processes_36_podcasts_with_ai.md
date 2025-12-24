@@ -1,35 +1,35 @@
 ---
-title: How Tom Tungus Uses AI to Process 36 Weekly Podcasts and Automate Blog Writing
+area: tech-engineering
+author: Lei
+category: ai-ml
+channel: null
+companies_orgs: []
+date: 2025-08-25
+guest: ''
+insight: null
+layout: post.njk
+media_books:
+- podcast-processing
+people:
+- Clarvo
+- Tom Tungus
+products_models: []
+project:
+- ai-impact-analysis
+series: null
+source: https://www.youtube.com/watch?v=8P7v1lgl
+speaker: ''
+status: evergreen
 summary: Tom Tungus reveals his personal AI system that transcribes 36 weekly podcasts,
   extracts key insights, and automates blog post drafting. He uses an iterative 'AP
   English teacher' prompt to grade and refine the AI-generated content, creating a
   hyper-personalized workflow.
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
 tags:
 - ai-automation
 - content-creation
-- podcast-processing
-- prompt-engineering
-people:
-  - Clarvo
-  - Tom Tungus
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-08-25
-author: Lei
-speaker: ''
-channel: null
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: https://www.youtube.com/watch?v=8P7v1lgl
-status: evergreen
+title: How Tom Tungus Uses AI to Process 36 Weekly Podcasts and Automate Blog Writing
 ---
+
 ## Introduction
 
 Clarvo: Welcome back to how I AI. I'm Clarvo product leader and AI obsessive here on a mission to help you build better with these new tools.

@@ -1,37 +1,36 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 美联储
 date: '2025-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《阿甘经济宏观论第12集》
+people:
+- Warren Buffett
+- Ronald Reagan
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=vw2Vivp32cs
 speaker: 海淀拙大叔
-tags:
-  - investment-returns
-  - stock-market-history
-  - economic-cycles
-  - financial-innovation
-  - monetary-policy
-title: 为什么投资收益率假设10%是合理的？历史数据与经济周期分析
-summary: 本文深入探讨了投资收益率假设为10%的合理性，通过分析道琼斯指数129年的历史数据，结合工业革命、金融创新和货币政策演变，解释了不同时期股市涨幅加速的原因及波动性变化。同时，文章对比了中国A股与美、德、英、日等国股市，展望了未来投资前景，指出10%的收益率并非神话。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - historical-insights
-people:
-  - Warren Buffett
-  - Ronald Reagan
-companies_orgs:
-  - 美联储
-products_models: []
-media_books:
-  - 《阿甘经济宏观论第12集》
 status: evergreen
+summary: 本文深入探讨了投资收益率假设为10%的合理性，通过分析道琼斯指数129年的历史数据，结合工业革命、金融创新和货币政策演变，解释了不同时期股市涨幅加速的原因及波动性变化。同时，文章对比了中国A股与美、德、英、日等国股市，展望了未来投资前景，指出10%的收益率并非神话。
+tags:
+- economic-cycle
+- financial-innovation
+- investment
+- stock-market-history
+title: 为什么投资收益率假设10%是合理的？历史数据与经济周期分析
 ---
+
 ### 投资收益率10%的假设：质疑与历史视角
 
 在发布“阿甘财富增长论”第一集后，许多人对10%的复利收益率假设提出了质疑，认为在中国市场这几乎不可能实现。主要的质疑点包括：收益率假设过高；中国和美国市场存在差异，不能直接类比标普指数；中国基金的表现不如美国；美国市场具有独特性，其他国家难以复制；以及中国股市长期在3000点徘徊，未来前景不明。

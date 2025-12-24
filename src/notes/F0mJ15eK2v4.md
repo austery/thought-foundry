@@ -1,30 +1,28 @@
 ---
-title: 第四课：为人父母 - 一项神圣的使命
-summary: null
-area: personal-growth
-category: culture
-project: []
-tags:
-  - 亲子关系
-  - 婚姻关系
-  - 宗教
-  - 家庭教育
-people:
-  - 林静芝
-  - 李秀全
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: life-family
 author: Lei
-speaker: ''
+category: family-relations
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 林静芝
+- 李秀全
+products_models: []
+project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=F0mJ15eK2v4
+speaker: ''
+summary: null
+tags:
+- parenting
+- religion
+title: 第四课：为人父母 - 一项神圣的使命
 ---
+
 ## 引言：从夫妻关系到亲子关系
 
 **李秀全老师:**

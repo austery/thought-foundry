@@ -1,75 +1,76 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Exor
+- Ferrari
+- Stellantis
+- Fiat
+- Jeep
+- Maserati
+- The Economist Group
+- Juventus
+- Berkshire Hathaway
+- Wallenberg
+- SGS
+- CNH
+- Iveco
+- Chrysler
+- ACC
+- TotalEnergies
+- Mercedes
+- LG
+- Samsung
+- Citroen
+- Dodge
+- Leapmotor
+- Y Combinator
+- Norges Bank Investment Management
+- Philips
 date: '2024-06-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John Elkann
+- Nikolai
+- Warren Buffett
+- Sergio Marchionne
+- John Luigi Gabetti
+- Sam Altman
+- Jony Ive
+- Marc Newson
+- Charles Leclerc
+- Giovanni Soldini
+- Giovanni Agnelli
+- Gianni Agnelli
+products_models:
+- Fiat 500
+- Citroen Ami
+- Fiat Topolino
+- Jeep Grand Wagoneer
+- Apple Watch
+project:
+- investment-strategy
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=BLdDJ8BWqhw
 speaker: Norges Bank Investment Management
-tags:
-  - long-term-ownership
-  - company-building
-  - leadership-philosophy
-  - electric-vehicles
-  - innovation-and-renewal
-title: Exor 首席执行官 John Elkann：构建卓越公司，拥抱未来挑战
-summary: Exor 首席执行官 John Elkann 在本次访谈中深入探讨了 Exor 作为一家拥有法拉利、Stellantis 和尤文图斯等品牌的控股公司的运营哲学。他分享了 Exor 如何通过长期承诺、卓越领导力以及不断创新来应对挑战并实现增长。Elkann 还讨论了公司在电动汽车、医疗保健和意大利科技创业领域的战略布局，以及家族所有权对企业稳定性和长期愿景的重要性。他强调了好奇心和学习对年轻一代的重要性，并展望了 Exor 及其投资组合的未来发展。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - entrepreneurship
-people:
-  - John Elkann
-  - Nikolai
-  - Warren Buffett
-  - Sergio Marchionne
-  - John Luigi Gabetti
-  - Sam Altman
-  - Jony Ive
-  - Marc Newson
-  - Charles Leclerc
-  - Giovanni Soldini
-  - Giovanni Agnelli
-  - Gianni Agnelli
-companies_orgs:
-  - Exor
-  - Ferrari
-  - Stellantis
-  - Fiat
-  - Jeep
-  - Maserati
-  - The Economist Group
-  - Juventus
-  - Berkshire Hathaway
-  - Wallenberg
-  - SGS
-  - CNH
-  - Iveco
-  - Chrysler
-  - ACC
-  - TotalEnergies
-  - Mercedes
-  - LG
-  - Samsung
-  - Citroen
-  - Dodge
-  - Leapmotor
-  - Y Combinator
-  - Norges Bank Investment Management
-  - Philips
-products_models:
-  - Fiat 500
-  - Citroen Ami
-  - Fiat Topolino
-  - Jeep Grand Wagoneer
-  - Apple Watch
-media_books: []
 status: evergreen
+summary: Exor 首席执行官 John Elkann 在本次访谈中深入探讨了 Exor 作为一家拥有法拉利、Stellantis 和尤文图斯等品牌的控股公司的运营哲学。他分享了
+  Exor 如何通过长期承诺、卓越领导力以及不断创新来应对挑战并实现增长。Elkann 还讨论了公司在电动汽车、医疗保健和意大利科技创业领域的战略布局，以及家族所有权对企业稳定性和长期愿景的重要性。他强调了好奇心和学习对年轻一代的重要性，并展望了
+  Exor 及其投资组合的未来发展。
+tags:
+- company-building
+- electric-vehicle
+- innovation
+- leadership-philosophy
+- long
+title: Exor 首席执行官 John Elkann：构建卓越公司，拥抱未来挑战
 ---
+
 ### Exor 的核心理念与多元化投资组合
 
 **Nikolai**: 大家好，我今天非常幸运，因为我们邀请到了 **John Elkann**（Exor 首席执行官：一家拥有法拉利、Stellantis 等品牌的荷兰控股公司，根植于意大利）来访。

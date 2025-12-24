@@ -1,88 +1,88 @@
 ---
-author: a16z
+area: market-analysis
+category: business
+companies_orgs:
+- a16z
+- Google
+- Adobe
+- Zendesk
+- Salesforce
+- Netsuite
+- Microsoft
+- Apple
+- ADP
+- Paychex
+- GE
+- Epic
+- Cerner
+- Meta
+- Rubrik
+- OpenAI
+- Salient
+- Honey
+- Zynga
+- VisiCalc
+- Lotus
+- XAI
+- Anthropic
+- Cohere
+- Tata Consultancy Services
+- Wipro
+- Infosys
+- JPMorgan
+- Vista Equity Partners
+- Tener
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Hacker News
+people:
+- David Sacks
+- Clay Christensen
+- Philippe Khan
+- Dan Rose
+- Steve Jobs
+- Drew Houston
+- Steve Ballmer
+- Ro Khanna
+- Jack Welch
+products_models:
+- Gemini Flash
+- GPT
+- Microsoft Word
+- Microsoft Excel
+- Microsoft Office 365
+- iPhone
+- iPad
+- Macintosh Programmers Workshop
+- Xcode
+- ChatGPT
+- VisiCalc
+- Lotus 1-2-3
+- Honey Nut Cheerios
+- Screen Time
+project:
+- ai-impact-analysis
+- entrepreneurship
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=fgzr3PhzIMk
 speaker: a16z
-tags:
-  - ai-defensibility
-  - software-market
-  - scale-advantage
-  - pricing-strategy
-  - incumbent-innovation
-  - startup-opportunities
-title: AI时代下的“护城河”：软件如何重塑市场与竞争格局
-summary: 本文深入探讨了在AI时代，企业“护城河”（defensibility）的本质及其演变。讨论了AI如何通过软件替代劳动力，从而改变市场机会，将软件的潜在市场从IT支出扩展到劳动力成本。文章分析了规模效应在构建护城河中的关键作用，以及传统按席位（per-seat）定价模式面临的挑战。同时，也探讨了“功能、产品、公司”的层级概念，并思考了AI时代下，初创企业与现有巨头在价值捕获方面的动态平衡与市场整合趋势。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - market-cycles
-people:
-  - David Sacks
-  - Clay Christensen
-  - Philippe Khan
-  - Dan Rose
-  - Steve Jobs
-  - Drew Houston
-  - Steve Ballmer
-  - Ro Khanna
-  - Jack Welch
-companies_orgs:
-  - a16z
-  - Google
-  - Adobe
-  - Zendesk
-  - Salesforce
-  - Netsuite
-  - Microsoft
-  - Apple
-  - ADP
-  - Paychex
-  - GE
-  - Epic
-  - Cerner
-  - Facebook
-  - Rubrik
-  - OpenAI
-  - Salient
-  - Honey
-  - Zynga
-  - VisiCalc
-  - Lotus
-  - XAI
-  - Anthropic
-  - Cohere
-  - Tata Consultancy Services
-  - Wipro
-  - Infosys
-  - JPMorgan
-  - Vista Equity Partners
-  - Tener
-products_models:
-  - Gemini Flash
-  - GPT
-  - Microsoft Word
-  - Microsoft Excel
-  - Microsoft Office 365
-  - iPhone
-  - iPad
-  - Macintosh Programmers Workshop
-  - Xcode
-  - ChatGPT
-  - VisiCalc
-  - Lotus 1-2-3
-  - Honey Nut Cheerios
-  - Screen Time
-media_books:
-  - Hacker News
 status: evergreen
+summary: 本文深入探讨了在AI时代，企业“护城河”（defensibility）的本质及其演变。讨论了AI如何通过软件替代劳动力，从而改变市场机会，将软件的潜在市场从IT支出扩展到劳动力成本。文章分析了规模效应在构建护城河中的关键作用，以及传统按席位（per-seat）定价模式面临的挑战。同时，也探讨了“功能、产品、公司”的层级概念，并思考了AI时代下，初创企业与现有巨头在价值捕获方面的动态平衡与市场整合趋势。
+tags:
+- history
+- innovation
+- llm
+- market
+- startup
+- strategy
+title: AI时代下的“护城河”：软件如何重塑市场与竞争格局
 ---
+
 ### AI时代下软件市场机遇的根本性转变
 
 当前产品周期的根本不同之处在于，软件本身能够实际完成工作，因此，如今软件的市场机会不再仅仅是IT支出，而主要在于劳动力成本。这并非意味着所有工作都会消失，我实际上认为这根本不会发生。有很多任务，如果我能以一美元的价格雇人完成，我百分之百会这样做。但我从未能以一美元雇到人。现在，我可以用一美元“雇佣”软件。虽然了解模型能力和前沿技术发展很重要，但你仍然需要弄清楚如何应用这项技术。

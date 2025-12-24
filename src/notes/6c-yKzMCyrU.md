@@ -1,45 +1,45 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- TVO Today
+- Progressive Contractors Association of Canada
+- Skilled Trades Ontario
+- Ontario Construction Secretariat
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- OnPoli
+people:
+- Mark Carney
+- Peter Bethlenfalvy
+- John Michael McGrath
+- Karen Renkema
+- Brian Baron
+products_models:
+- Skills Development Fund
+- Union Training and Innovation Program
+- Red Seal trades
+- Ontario Youth Apprenticeship Program
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=6c-yKzMCyrU
 speaker: TVO Today
-tags:
-  - government-budgets
-  - economic-policy
-  - skilled-trades
-  - infrastructure-development
-  - workforce-shortage
-title: 加拿大联邦与安大略省预算：优先事项、经济现实与技术工人挑战
-summary: 近期，加拿大联邦政府与安大略省政府相继公布了各自的财政文件，揭示了其在经济不确定时期优先关注工人、基础设施建设及经济稳定的政治意图和经济现实。本期节目深入探讨了联邦与省级的预算赤字、资本投资计划，以及在推动大规模建设项目的背景下，加拿大，特别是安大略省，如何应对技术工人短缺的挑战。专家们分析了学徒制培训的现状、技能发展基金的成效与争议，以及跨省劳动力流动面临的障碍，强调了吸引和培养技术人才对未来经济发展的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project: []
-people:
-  - Mark Carney
-  - Peter Bethlenfalvy
-  - John Michael McGrath
-  - Karen Renkema
-  - Brian Baron
-companies_orgs:
-  - TVO Today
-  - Progressive Contractors Association of Canada
-  - Skilled Trades Ontario
-  - Ontario Construction Secretariat
-products_models:
-  - Skills Development Fund
-  - Union Training and Innovation Program
-  - Red Seal trades
-  - Ontario Youth Apprenticeship Program
-media_books:
-  - The Rundown
-  - OnPoli
 status: evergreen
+summary: 近期，加拿大联邦政府与安大略省政府相继公布了各自的财政文件，揭示了其在经济不确定时期优先关注工人、基础设施建设及经济稳定的政治意图和经济现实。本期节目深入探讨了联邦与省级的预算赤字、资本投资计划，以及在推动大规模建设项目的背景下，加拿大，特别是安大略省，如何应对技术工人短缺的挑战。专家们分析了学徒制培训的现状、技能发展基金的成效与争议，以及跨省劳动力流动面临的障碍，强调了吸引和培养技术人才对未来经济发展的重要性。
+tags:
+- development
+- economic-policy
+- government
+- investment
+- trade
+title: 加拿大联邦与安大略省预算：优先事项、经济现实与技术工人挑战
 ---
+
 ### 加拿大联邦与安大略省的财政概览
 
 上周，我们收到了两份重磅发布的文件。

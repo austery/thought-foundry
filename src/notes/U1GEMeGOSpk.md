@@ -1,68 +1,68 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Alibaba
+- 腾讯
+- 福特基金会
+- 卡特中心
+- 世界贸易组织
+- 网信办
 date: '2024-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国家为什么会失败》
+- 《自由的宰狼》
+- 《南方周末》
+people:
+- Hugo Chávez
+- Han Kuo-yu
+- Robert F. Kennedy Jr.
+- Adolf Hitler
+- Kakuei Tanaka
+- Jack Ma
+- Deng Xiaoping
+- Donald Trump
+- Dmitry Medvedev
+- Vladimir Putin
+- Boris Yeltsin
+- Indira Gandhi
+- Wang Zhian
+- Peng Biao
+- Xu Zhiyong
+- Sun Zhigang
+- Wen Jiabao
+- He Weifang
+- Hu Yaobang
+- Zhou Yongkang
+- Wu Jinglian
+- Zhou Ze
+- Xi Jinping
+- Chen Yun
+- 马博士
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=U1GEMeGOSpk
 speaker: 东京人文论坛
-tags:
-  - populism
-  - extractive-institutions
-  - inclusive-institutions
-  - institutional-drift
-  - economic-reform
-  - political-systems
-title: 民粹主义与制度漂移：解析国家兴衰的深层逻辑
-summary: 本文深入探讨了民粹主义如何成为一种榨取性政治制度，并结合《国家为什么会失败》一书的理论框架，分析了俄罗斯、印度及中国等国家的政治经济发展模式。文章重点讨论了中国过去四十年经济成功的真正原因，以及中国在不同历史时期发生的“制度漂移”现象。最后，文章探讨了一个国家是否可能永远陷入榨取性制度的困境，并思考了制度螺旋式演进的方向性问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Hugo Chávez
-  - Han Kuo-yu
-  - Robert F. Kennedy Jr.
-  - Adolf Hitler
-  - Kakuei Tanaka
-  - Jack Ma
-  - Deng Xiaoping
-  - Donald Trump
-  - Dmitry Medvedev
-  - Vladimir Putin
-  - Boris Yeltsin
-  - Indira Gandhi
-  - Wang Zhian
-  - Peng Biao
-  - Xu Zhiyong
-  - Sun Zhigang
-  - Wen Jiabao
-  - He Weifang
-  - Hu Yaobang
-  - Zhou Yongkang
-  - Wu Jinglian
-  - Zhou Ze
-  - Xi Jinping
-  - Chen Yun
-  - 马博士
-companies_orgs:
-  - 阿里巴巴
-  - 腾讯
-  - 福特基金会
-  - 卡特中心
-  - 世界贸易组织
-  - 网信办
-products_models: []
-media_books:
-  - 《国家为什么会失败》
-  - 《自由的宰狼》
-  - 《南方周末》
 status: evergreen
+summary: 本文深入探讨了民粹主义如何成为一种榨取性政治制度，并结合《国家为什么会失败》一书的理论框架，分析了俄罗斯、印度及中国等国家的政治经济发展模式。文章重点讨论了中国过去四十年经济成功的真正原因，以及中国在不同历史时期发生的“制度漂移”现象。最后，文章探讨了一个国家是否可能永远陷入榨取性制度的困境，并思考了制度螺旋式演进的方向性问题。
+tags:
+- economic-reform
+- extractive-institution
+- geopolitical
+- institutional
+- political-system
+- populism
+title: 民粹主义与制度漂移：解析国家兴衰的深层逻辑
 ---
+
 ### 民粹主义的榨取性本质
 
 许多人认为，即使是**民主**（Democracy: 一种政治制度，公民通过选举选出代表来管理国家）也无法保证政治多元化，尤其是在**民粹政治**（Populist Politics: 一种政治思潮，通常强调“人民”与“精英”之间的对立，并声称代表“人民”的普遍意愿）兴起时。例如，书中提到的查韦斯案例，以及最近美国出现的民粹政治现象，都引发了人们对这种制度是否具有**榨取式制度**（Extractive Institutions: 一种政治经济制度，其设计旨在从大部分人口中榨取资源和财富，并将其集中于少数精英手中）性质的思考。

@@ -1,40 +1,40 @@
 ---
-author: KevinFeng 冯凯文
+area: personal-systems
+category: psychology
+companies_orgs:
+- Google X
+- Microsoft
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- You are not everything that you think
+people:
+- Mo
+- Heli
+- Steven
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=kOH5XBSO6-o
 speaker: KevinFeng 冯凯文
-tags:
-  - happiness-formula
-  - radical-acceptance
-  - self-awareness
-  - emotional-regulation
-  - ambition-expectation
-  - masculine-feminine-traits
-  - materialism-critique
-title: 8秒钟的幸福公式：从物质追求到内心觉醒与自我接纳
-summary: 本文分享了对一期英文播客的深刻感悟，探讨了幸福的真谛。播客主讲人Mo提出“8秒钟幸福公式”和“即时彻底接纳”的概念，揭示了物质财富无法带来持久快乐，并强调了区分脑中声音与自我、平衡阴阳两面特质的重要性。文章结合个人经历，反思了对幸福、痛苦、两性关系及梦想与期望的理解，鼓励听众通过自我察觉，找到通向内心平静与成长的路径。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Mo
-  - Heli
-  - Steven
-companies_orgs:
-  - Google X
-  - Microsoft
-products_models: []
-media_books:
-  - You are not everything that you think
 status: evergreen
+summary: 本文分享了对一期英文播客的深刻感悟，探讨了幸福的真谛。播客主讲人Mo提出“8秒钟幸福公式”和“即时彻底接纳”的概念，揭示了物质财富无法带来持久快乐，并强调了区分脑中声音与自我、平衡阴阳两面特质的重要性。文章结合个人经历，反思了对幸福、痛苦、两性关系及梦想与期望的理解，鼓励听众通过自我察觉，找到通向内心平静与成长的路径。
+tags:
+- ambition-expectation
+- critique
+- emotional-regulation
+- financial
+- llm
+- radical-acceptance
+- self-awareness
+title: 8秒钟的幸福公式：从物质追求到内心觉醒与自我接纳
 ---
+
 ### 播客感悟：通向自我察觉的幸福之门
 
 最近，我收听了一期令我深受触动的英文播客。这期播客对我而言是前所未有的喜爱，其中一些观点在我脑海中引发了深刻的个人顿悟，让我觉得必须独自静思数周，因为它们是真正改变人生的内容。我从未在播客中表现出如此大的热情，所以如果大家愿意相信我，请务必听听这一期。它让我们突然明白了自己为何不开心，以及如何变得开心，方法简单到只需要8秒钟。

@@ -1,52 +1,52 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- CIA
+- Taliban
+- DoD
+- House Armed Services Committee
+- Senate Armed Services Committee
+- KFC
+- Chick-fil-A
+- Wallace
+- Hey Tea
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Pediatrics
+- Washington Post
+people:
+- Tracy Mumford
+- Had Ali Aziz
+- Pete Hegsth
+- Juan Orlando Hernandez
+- Donald Trump
+products_models:
+- smartphone
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=nNF9zgDp808
 speaker: New York Times Podcasts
-tags:
-  - immigration-policy
-  - war-crimes
-  - drug-trafficking
-  - fire-safety
-  - market-expansion
-title: 特朗普收紧移民政策，中国快餐品牌加速出海
-summary: 本期节目聚焦多项全球热点。首先，美国总统特朗普在枪击事件后，推行激进移民政策，暂停所有庇护申请并审查现有身份。其次，美国议员正调查加勒比海反毒行动中可能存在的战争罪行。此外，特朗普计划赦免洪都拉斯前总统胡安·奥兰多·埃尔南德斯，引发争议。香港一高层火灾暴露出建筑安全隐患，竹脚手架问题再受关注。最后，面对国内市场饱和，中国快餐和饮品品牌正积极拓展美国市场，调整口味并以价格优势竞争。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Tracy Mumford
-  - Had Ali Aziz
-  - Pete Hegsth
-  - Juan Orlando Hernandez
-  - Donald Trump
-companies_orgs:
-  - New York Times
-  - CIA
-  - Taliban
-  - DoD
-  - House Armed Services Committee
-  - Senate Armed Services Committee
-  - KFC
-  - Chick-fil-A
-  - Wallace
-  - Hey Tea
-products_models:
-  - smartphone
-media_books:
-  - The Daily
-  - Pediatrics
-  - Washington Post
 status: evergreen
+summary: 本期节目聚焦多项全球热点。首先，美国总统特朗普在枪击事件后，推行激进移民政策，暂停所有庇护申请并审查现有身份。其次，美国议员正调查加勒比海反毒行动中可能存在的战争罪行。此外，特朗普计划赦免洪都拉斯前总统胡安·奥兰多·埃尔南德斯，引发争议。香港一高层火灾暴露出建筑安全隐患，竹脚手架问题再受关注。最后，面对国内市场饱和，中国快餐和饮品品牌正积极拓展美国市场，调整口味并以价格优势竞争。
+tags:
+- health
+- immigration-policy
+- market
+- safety
+- war
+title: 特朗普收紧移民政策，中国快餐品牌加速出海
 ---
+
 ### 特朗普政府收紧移民政策
 
 美国总统特朗普正在采取一项新的、积极的举措，以限制对美国的移民，此前华盛顿特区发生了两名**国民警卫队士兵**（National Guard soldiers: 美国各州和地区军事力量，通常在紧急情况下协助联邦政府或州政府）被枪击事件。

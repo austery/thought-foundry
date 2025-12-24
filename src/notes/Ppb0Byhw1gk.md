@@ -1,35 +1,32 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-06-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 陳威龍
+- 徐國峰
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Ppb0Byhw1gk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - running-technique
-  - core-strength
-  - injury-prevention
-  - beginner-running
-  - exercise-nutrition
-title: 科学跑步专家：核心训练助你跑得稳、不伤膝！
-summary: 本期节目邀请科学化跑步教練徐國峰与初日醫學的陳威龍醫師，深入探讨跑步与肌肉的关系，破除跑步会掉肌肉的迷思。节目强调核心力量对跑步表现的重要性，并分享了新手跑者如何享受跑步、避免受伤的策略。此外，还探讨了超慢跑与快走的优劣，并提供了实用的跑前热身技巧和跑步饮食建议，旨在帮助跑者更健康、高效地提升跑步能力。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 陳威龍
-  - 徐國峰
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目邀请科学化跑步教練徐國峰与初日醫學的陳威龍醫師，深入探讨跑步与肌肉的关系，破除跑步会掉肌肉的迷思。节目强调核心力量对跑步表现的重要性，并分享了新手跑者如何享受跑步、避免受伤的策略。此外，还探讨了超慢跑与快走的优劣，并提供了实用的跑前热身技巧和跑步饮食建议，旨在帮助跑者更健康、高效地提升跑步能力。
+tags:
+- core-strength
+- health
+- technology
+title: 科学跑步专家：核心训练助你跑得稳、不伤膝！
 ---
+
 ### 跑步与肌肉：破除迷思
 
 在追求更好跑步表现的过程中，有些人会过度专注于单一肌肉群的训练，例如小腿肌肉，这可能导致**跟腱**（Achilles tendon: 连接小腿肌肉到脚跟骨的强韧肌腱）拉断等伤害。这种孤立的肌肉训练，如单块大腿肌、腹肌或小腿肌的训练，通常是为了健美选手追求肌肉美观而设计。然而，真正好用的肌肉需要学会协同合作，让韧带、跟腱以及**肌膜**（Fascia: 包裹肌肉、器官和骨骼的结缔组织）共同参与完成动作，身体才能保持健康。

@@ -1,47 +1,48 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- SpaceX
+- Neuralink
+- The Boring Company
+- xAI
+- PayPal
+- Nvidia
 date: '2025-09-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money or Life 美股频道
+- Patreon
+- x平台
+people:
+- Elon Musk
+products_models:
+- FSD
+- RoboTaxi
+- Cybercab
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zu44z9hWSg4
 speaker: Money or Life 美股频道
-tags:
-  - tesla-compensation-plan
-  - stock-investment
-  - market-capitalization-goals
-  - operational-milestones
-  - adjusted-ebitda
-title: 特斯拉万亿薪酬计划深度解读：为何我决定持续加仓？
-summary: 本期视频深入解读了特斯拉为埃隆·马斯克制定的十年万亿薪酬激励计划。该计划将马斯克的薪酬与特斯拉的市值及运营里程碑（如2000万辆电动车交付、1000万FSD订阅、100万机器人交付和100万无人出租车商业化运营）紧密挂钩。视频分析了该计划的严苛性与潜在收益，并结合历史数据和个人预期，解释了为何在研究该计划后，决定持续加仓特斯拉股票，认为其未来五年复合收益率有望达到25%以上。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Elon Musk
-companies_orgs:
-  - Tesla
-  - SpaceX
-  - Neuralink
-  - The Boring Company
-  - xAI
-  - PayPal
-  - Nvidia
-products_models:
-  - FSD
-  - RoboTaxi
-  - Cybercab
-media_books:
-  - Money or Life 美股频道
-  - Patreon
-  - x平台
 status: evergreen
+summary: 本期视频深入解读了特斯拉为埃隆·马斯克制定的十年万亿薪酬激励计划。该计划将马斯克的薪酬与特斯拉的市值及运营里程碑（如2000万辆电动车交付、1000万FSD订阅、100万机器人交付和100万无人出租车商业化运营）紧密挂钩。视频分析了该计划的严苛性与潜在收益，并结合历史数据和个人预期，解释了为何在研究该计划后，决定持续加仓特斯拉股票，认为其未来五年复合收益率有望达到25%以上。
+tags:
+- financial
+- history
+- investment
+- market
+title: 特斯拉万亿薪酬计划深度解读：为何我决定持续加仓？
+companies:
+- tesla-compensation-plan
 ---
+
 大家好，欢迎来到Money or Life美股频道。我是Ace，本期视频将为大家解读特斯拉专门为埃隆·马斯克（Elon Musk）准备的万亿薪酬激励计划，并分享在研究该计划后，我决定再次加仓特斯拉的原因。欢迎大家订阅Money or Life美股频道，这里有最深入的个股分析，以及我关注的AI相关和太空相关个股的长期追踪。也欢迎大家通过Patreon加入我的会员社群。
 
 这次发布的十年万亿薪酬计划与特斯拉公司主推的产品直接挂钩，所以我们先来看一下特斯拉在最近刚刚发布的**总体规划**（Master Plan: 特斯拉未来十年的发展蓝图）。我个人看了两三遍这个视频，不仅仅因为我是特斯拉的投资者和马斯克的拥护者，更是因为特斯拉公司和马斯克本人致力于解放人类双手，让我们享有更好的生活，实现所谓的**可持续富足**（Sustainable Abundance: 在不牺牲未来世代需求的前提下，满足当前世代的需求）。本期视频中的许多信息都是一手的，直接从特斯拉最近发布的**委托书**（Proxy Statement: 公司在股东大会前向股东发出的文件，包含会议议程和决策信息）中获取。大家如果感兴趣可以直接去读这份文件，它主要是为2025年的股东大会做准备，该大会将于今年11月6号举办。这次股东大会的重头戏有两点：第一点是刚刚提到的十年特斯拉CEO激励计划；第二点是决定特斯拉是否要投资马斯克的另一家公司xAI。

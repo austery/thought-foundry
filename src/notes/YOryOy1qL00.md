@@ -1,37 +1,36 @@
 ---
-author: TED
+area: personal-systems
+category: psychology
+companies_orgs:
+- TED
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'On Muscle: The Stuff That Moves Us and Why It Matters'
+- How to Be a Better Human
+people:
+- Bonnie Tsui
+- Chris
+- Arnold Schwarzenegger
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=YOryOy1qL00
 speaker: TED
-tags:
-  - muscle-health
-  - strength-training
-  - personal-development
-  - cognitive-health
-  - aging-well
-title: 肌肉的秘密：超越力量，塑造人生
-summary: 本文探讨了肌肉在个人健康和成长中的深层意义。从冲浪爱好者的视角出发，文章揭示了肌肉不仅是机械运动的工具，更是影响认知健康的内分泌组织。强调了力量训练的重要性，尤其是在30岁后肌肉流失的背景下。通过与作家邦妮·崔的对话，文章将肌肉的锻炼视为一种挑战自我、超越舒适区、并最终实现个人成长的隐喻，鼓励听众通过运动发现自身潜能。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Bonnie Tsui
-  - Chris
-  - Arnold Schwarzenegger
-companies_orgs:
-  - TED
-products_models: []
-media_books:
-  - 'On Muscle: The Stuff That Moves Us and Why It Matters'
-  - How to Be a Better Human
 status: evergreen
+summary: 本文探讨了肌肉在个人健康和成长中的深层意义。从冲浪爱好者的视角出发，文章揭示了肌肉不仅是机械运动的工具，更是影响认知健康的内分泌组织。强调了力量训练的重要性，尤其是在30岁后肌肉流失的背景下。通过与作家邦妮·崔的对话，文章将肌肉的锻炼视为一种挑战自我、超越舒适区、并最终实现个人成长的隐喻，鼓励听众通过运动发现自身潜能。
+tags:
+- health
+- llm
+- personal-development
+- strength-training
+title: 肌肉的秘密：超越力量，塑造人生
 ---
+
 ### 冲浪之旅：从挣扎到觉醒
 
 冲浪需要我调动全身数十块肌肉，将爆发力与平衡感和力量结合起来。这是一种伪装成轻松优雅的全身锻炼。哦，顺便说一句，那不是我。你以为那是我吗？那家伙太棒了，我不知道他是怎么做到的。我冲浪的时候根本不像那样，更像是这样：没有抓住浪，拼命划水，差点抓住浪，然后假装自己抓住了浪。

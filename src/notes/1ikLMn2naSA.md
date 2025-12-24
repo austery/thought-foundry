@@ -1,97 +1,87 @@
 ---
-author: "Lei"
-date: "2025-11-11"
-guest: ''
-layout: "post.njk"
-source: "https://www.youtube.com/watch?v=1ikLMn2naSA"
-speaker: ''
-title: "段永平：我的投资与人生感悟"
-summary: "著名投资人、步步高创始人段永平先生分享了他的人生哲学、创业历程与核心投资理念。他深入探讨了“买股票就是买公司”的原则，并详细剖析了对苹果、茅台、英伟达、拼多多等公司的投资逻辑。访谈还涉及他对企业文化、子女教育、AI革命以及个人投资者建议的深刻见解。"
-
-area: "market-analysis"
-
-category: "finance"
-
-project:
-  - "investment-strategy"
-  - "china-analysis"
-
-tags:
-  - "investment-philosophy"
-  - "value-investing"
-  - "business-model"
-  - "corporate-culture"
-  - "long-term-investing"
-
-people:
-  - 段永平
-  - 方三文
-  - 巴菲特
-  - 芒格
-  - 郭台铭
-  - 德鲁克
-  - 松下幸之助
-  - 中村邦夫
-  - 乔布斯
-  - 蒂姆·库克
-  - 沈炜
-  - 陈明永
-  - 刘作虎
-  - 彼得·林奇
-  - 杰克·韦尔奇
-  - 黄仁勋
-  - 埃隆·马斯克
-  - 雪球
-
+area: finance-wealth
+author: Lei
+category: stock-investment
 companies_orgs:
-  - "雪球"
-  - "英伟达 (NVIDIA)"
-  - "伯克希尔·哈撒韦 (Berkshire Hathaway)"
-  - "步步高 (Bubugao)"
-  - "小霸王 (Subor)"
-  - "OPPO"
-  - "VIVO"
-  - "苹果 (Apple)"
-  - "腾讯 (Tencent)"
-  - "茅台 (Moutai)"
-  - "网易 (NetEase)"
-  - "阿里巴巴 (Alibaba)"
-  - "雅虎 (Yahoo)"
-  - "通用电气 (GE)"
-  - "拼多多 (Pinduoduo)"
-  - "谷歌 (Google)"
-  - "神华 (Shenhua)"
-  - "西方石油 (Occidental Petroleum)"
-  - "AMD"
-  - "OpenAI"
-  - "台积电 (TSMC)"
-  - "台联电 (UMC)"
-  - "联发科 (MediaTek)"
-  - "松下 (Panasonic)"
-  - "索尼 (Sony)"
-  - "摩托罗拉 (Motorola)"
-  - "诺基亚 (Nokia)"
-  - "三星 (Samsung)"
-  - "IBM"
-  - "特斯拉 (Tesla)"
-  - "SpaceX"
-  - "星链 (Starlink)"
-  - "老干妈"
-
-products_models:
-  - "iPad"
-  - "iPhone"
-  - "iTV"
-  - "Apple TV"
-  - "ChatGPT"
-  - "Gemini"
-  - "DeepSeek"
-  - "53度飞天茅台"
-
-media_books: []
-
+- 雪球
+- 英伟达 (NVIDIA)
+- 伯克希尔·哈撒韦 (Berkshire Hathaway)
+- 步步高 (Bubugao)
+- 小霸王 (Subor)
+- OPPO
+- VIVO
+- 苹果 (Apple)
+- 腾讯 (Tencent)
+- 茅台 (Moutai)
+- 网易 (NetEase)
+- 阿里巴巴 (Alibaba)
+- 雅虎 (Yahoo)
+- 通用电气 (GE)
+- 拼多多 (Pinduoduo)
+- 谷歌 (Google)
+- 神华 (Shenhua)
+- 西方石油 (Occidental Petroleum)
+- AMD
+- OpenAI
+- 台积电 (TSMC)
+- 台联电 (UMC)
+- 联发科 (MediaTek)
+- 松下 (Panasonic)
+- 索尼 (Sony)
+- 摩托罗拉 (Motorola)
+- 诺基亚 (Nokia)
+- 三星 (Samsung)
+- IBM
+- 特斯拉 (Tesla)
+- SpaceX
+- 星链 (Starlink)
+- 老干妈
+date: '2025-11-11'
 draft: true
-status: "evergreen"
+guest: ''
+layout: post.njk
+media_books: []
+people:
+- 段永平
+- 方三文
+- 巴菲特
+- 芒格
+- 郭台铭
+- 德鲁克
+- 松下幸之助
+- 中村邦夫
+- 乔布斯
+- 蒂姆·库克
+- 沈炜
+- 陈明永
+- 刘作虎
+- 彼得·林奇
+- 杰克·韦尔奇
+- 黄仁勋
+- 埃隆·马斯克
+- 雪球
+products_models:
+- iPad
+- iPhone
+- iTV
+- Apple TV
+- ChatGPT
+- Gemini
+- DeepSeek
+- 53度飞天茅台
+project:
+- investment-strategy
+- china-analysis
+source: https://www.youtube.com/watch?v=1ikLMn2naSA
+speaker: ''
+status: evergreen
+summary: 著名投资人、步步高创始人段永平先生分享了他的人生哲学、创业历程与核心投资理念。他深入探讨了“买股票就是买公司”的原则，并详细剖析了对苹果、茅台、英伟达、拼多多等公司的投资逻辑。访谈还涉及他对企业文化、子女教育、AI革命以及个人投资者建议的深刻见解。
+tags:
+- business-model
+- corporate-culture
+- investment-philosophy
+- long-term-investing
+title: 段永平：我的投资与人生感悟
 ---
 
 ## 序言与投资理念快问快答

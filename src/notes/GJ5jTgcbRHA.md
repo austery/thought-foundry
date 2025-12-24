@@ -1,35 +1,33 @@
 ---
-author: Anthropic
+area: tech-insights
+category: technology
+companies_orgs:
+- Anthropic
+- Google
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Claude
+- Claude.ai
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=GJ5jTgcbRHA
 speaker: Anthropic
-tags:
-  - ai-collaboration
-  - knowledge-management
-  - contextual-ai
-  - project-management-ai
-title: Claude.ai 项目功能入门：提升协作与效率的智能工作空间
-summary: 本文详细介绍了 Claude.ai 的“项目”功能，这是一个为用户提供自包含工作环境的强大工具。通过项目，用户可以创建独立的聊天历史、定制知识库和个性化设置，从而获得更精准、更符合团队目标的AI响应。文章深入探讨了项目知识库、定制指令、协作共享和权限管理等核心特性，并提供了新产品开发、课程设计、个人财务规划和家居装修等多种应用场景示例，旨在帮助用户利用Claude.ai项目优化信息组织、激发创意并简化工作流程。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people: []
-companies_orgs:
-  - Anthropic
-  - Google
-products_models:
-  - Claude
-  - Claude.ai
-media_books: []
 status: evergreen
+summary: 本文详细介绍了 Claude.ai 的“项目”功能，这是一个为用户提供自包含工作环境的强大工具。通过项目，用户可以创建独立的聊天历史、定制知识库和个性化设置，从而获得更精准、更符合团队目标的AI响应。文章深入探讨了项目知识库、定制指令、协作共享和权限管理等核心特性，并提供了新产品开发、课程设计、个人财务规划和家居装修等多种应用场景示例，旨在帮助用户利用Claude.ai项目优化信息组织、激发创意并简化工作流程。
+tags:
+- ai-collaboration
+- knowledge-management
+- llm
+- management
+title: Claude.ai 项目功能入门：提升协作与效率的智能工作空间
 ---
+
 ### Claude.ai 项目功能简介
 
 什么是项目？它们如何改善与 Claude 的协作体验？通过项目功能，Claude 用户可以创建自包含的环境，这些环境拥有独立的聊天历史、特定的知识库和定制化的设置。我们将概述项目的功能、用途、创建方法以及一些高级特性。

@@ -1,51 +1,50 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Central Party School
+- Yan'an University
+- Northwest Bureau
 date: '2025-07-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Chuan Xi Lu
+- 大学
+- How the Red Sun Rises
+- How the Steel Was Tempered
+- Turgenev's works
+- Tolstoy's works
+people:
+- Wang Yangming
+- Mencius
+- Mao Zedong
+- Yang Changji
+- Li Jinxi
+- Meng Yuan
+- Xiao Hui
+- Zhu Ming
+- Zhou Enlai
+- Xie Juezai
+- Carl Schmidt
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=IcheECofOe8
 speaker: Anthony看世界
-tags:
-  - yangming-philosophy-of-mind
-  - cultural-revolution
-  - mental-self-abuse
-  - authoritarianism
-  - societal-despair
-title: 阳明心学与文革：中国文化中精神自虐机制的深层关联
-summary: 本文深入探讨了王阳明心学与中国文化大革命之间的惊人关联。文章指出，阳明心学表面上强调个体主观能动性，实则内含保守、僵化且高度集权的逻辑，通过对“自以为是”和“为自己辩护”的压制，培养了一种精神自虐和对外部权威无条件服从的心理。这种思维模式为后来的思想改造运动提供了理论基础，尤其是在社会绝望和无力感时期，它演变为一种以主观狂热对抗现实的危险机制，并在文革中得到制度化实践。文章还将其与俄国布尔什维克革命和魏玛共和国时期的社会思潮进行对比，揭示了人类精神在绝望中走向激进的普遍规律。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Wang Yangming
-  - Mencius
-  - Mao Zedong
-  - Yang Changji
-  - Li Jinxi
-  - Meng Yuan
-  - Xiao Hui
-  - Zhu Ming
-  - Zhou Enlai
-  - Xie Juezai
-  - Carl Schmidt
-companies_orgs:
-  - Central Party School
-  - Yan'an University
-  - Northwest Bureau
-products_models: []
-media_books:
-  - Chuan Xi Lu
-  - 大学
-  - How the Red Sun Rises
-  - How the Steel Was Tempered
-  - Turgenev's works
-  - Tolstoy's works
 status: evergreen
+summary: 本文深入探讨了王阳明心学与中国文化大革命之间的惊人关联。文章指出，阳明心学表面上强调个体主观能动性，实则内含保守、僵化且高度集权的逻辑，通过对“自以为是”和“为自己辩护”的压制，培养了一种精神自虐和对外部权威无条件服从的心理。这种思维模式为后来的思想改造运动提供了理论基础，尤其是在社会绝望和无力感时期，它演变为一种以主观狂热对抗现实的危险机制，并在文革中得到制度化实践。文章还将其与俄国布尔什维克革命和魏玛共和国时期的社会思潮进行对比，揭示了人类精神在绝望中走向激进的普遍规律。
+tags:
+- authoritarianism
+- cultural-revolution
+- philosophy
+- self
+- societal
+title: 阳明心学与文革：中国文化中精神自虐机制的深层关联
 ---
 
 ### 阳明心学与文革：精神自虐机制的深层关联

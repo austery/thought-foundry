@@ -1,89 +1,89 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- Amazon
+- Microsoft
+- Google
+- Oracle
+- Kempner Capital Management
+- 高盛
+- 美国最高法院
+- 白宫
+- 中国人民政治协商会议
+- 中国人民银行
+- 国务院发展研究中心
+- 上海交通大学
+- 自然资源部
+- 最高人民检察院
+- 广东省政协
+- 国务院台湾事务办公室
+- 中国侨联
+- 中国共产党
+- 美国农业部
+- 美国财政部
+- 中纪委
+- X平台
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《商业内幕》
+- 《经济学人》
+- 《路透社》
+- 《彭博社》
+- 《美国有线电视新闻网》
+- 《人民日报》
+- 《新华社》
+- 《星岛日报》
+people:
+- Donald Trump
+- Tony
+- John Kennedy
+- Bessent
+- Xi Jinping
+- Li Daokui
+- Cai Qi
+- Yi Gang
+- Fu Xinguo
+- Liu Duo
+- Zhang Junkuo
+- Zhang Zhaolin
+- Zhang Jie
+- Cao Weixing
+- Chen Guoqing
+- Wang Long
+- Chen Yuanfeng
+- Sui Jun
+- Mao Ning
+- Mao Zedong
+- Deng Xiaoping
+- Xi Zhongxun
+- 霍克塞斯
+products_models:
+- 空军一号
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=A6VhRM1t8XM
 speaker: LT視界
-tags:
-  - ai-investment
-  - prisoner-dilemma
-  - us-tariffs
-  - us-china-trade
-  - chinese-politics
-title: 华尔街关注OpenAI囚徒困境，川普关税面临高院考验，中共裸官整治与中美关系新动向
-summary: 本期节目深入探讨了多个全球热点。首先分析OpenAI与科技巨头的合作如何引发华尔街对“囚徒困境”的担忧。接着关注美国最高法院即将审理的川普关税政策，及其对全球经济和中美贸易战的潜在影响。此外，节目还更新了中美贸易谈判进展，以及北京政策顾问对中美“平等伙伴”关系的解读。最后，聚焦中国政坛，讨论蔡奇强调的“从严治党”和近期对“裸官”的整治行动，并对相关政策进行深入剖析。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Tony
-  - John Kennedy
-  - Bessent
-  - Xi Jinping
-  - Li Daokui
-  - Cai Qi
-  - Yi Gang
-  - Fu Xinguo
-  - Liu Duo
-  - Zhang Junkuo
-  - Zhang Zhaolin
-  - Zhang Jie
-  - Cao Weixing
-  - Chen Guoqing
-  - Wang Long
-  - Chen Yuanfeng
-  - Sui Jun
-  - Mao Ning
-  - Mao Zedong
-  - Deng Xiaoping
-  - Xi Zhongxun
-  - 霍克塞斯
-companies_orgs:
-  - OpenAI
-  - Amazon
-  - Microsoft
-  - Google
-  - Oracle
-  - Kempner Capital Management
-  - 高盛
-  - 美国最高法院
-  - 白宫
-  - 中国人民政治协商会议
-  - 中国人民银行
-  - 国务院发展研究中心
-  - 上海交通大学
-  - 自然资源部
-  - 最高人民检察院
-  - 广东省政协
-  - 国务院台湾事务办公室
-  - 中国侨联
-  - 中国共产党
-  - 美国农业部
-  - 美国财政部
-  - 中纪委
-  - X平台
-products_models:
-  - 空军一号
-media_books:
-  - 《华尔街日报》
-  - 《商业内幕》
-  - 《经济学人》
-  - 《路透社》
-  - 《彭博社》
-  - 《美国有线电视新闻网》
-  - 《人民日报》
-  - 《新华社》
-  - 《星岛日报》
 status: evergreen
+summary: 本期节目深入探讨了多个全球热点。首先分析OpenAI与科技巨头的合作如何引发华尔街对“囚徒困境”的担忧。接着关注美国最高法院即将审理的川普关税政策，及其对全球经济和中美贸易战的潜在影响。此外，节目还更新了中美贸易谈判进展，以及北京政策顾问对中美“平等伙伴”关系的解读。最后，聚焦中国政坛，讨论蔡奇强调的“从严治党”和近期对“裸官”的整治行动，并对相关政策进行深入剖析。
+tags:
+- ai-investment
+- canada
+- chinese-politics
+- us-china-relations
+- us-tariff
+title: 华尔街关注OpenAI囚徒困境，川普关税面临高院考验，中共裸官整治与中美关系新动向
 ---
+
 ### OpenAI与科技巨头的“囚徒困境”
 
 今天，华尔街广泛关注的焦点是人工智能巨头**OpenAI**（一家人工智能研究机构）与亚马逊签署了一份价值380亿美元的云端服务协议。据《华尔街日报》报道，这份多年期运算能力协议标志着双方建立了合作关系，旨在满足OpenAI快速增长的运算需求，亚马逊预计所有协商的运算能力将于明年年底交付。亚马逊此举也面临投资者压力，要求加快旗下**亚马逊网络服务公司**（Amazon Web Services, AWS: 亚马逊旗下的云计算服务平台）的云端业务增长，因为近年来微软、谷歌等竞争对手在满足人工智能客户新需求方面的云端业务收入增长速度更快。

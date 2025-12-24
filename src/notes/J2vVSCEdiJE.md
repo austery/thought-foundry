@@ -1,43 +1,42 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 中国证监会
+- 央行
+- 恒大
+- 河南村镇银行
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 路透社
+- 彭博社
+- 小翠時政財經
+people:
+- 吴清
+- 潘功胜
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=J2vVSCEdiJE
 speaker: 小翠時政財經
-tags:
-  - chinese-economy
-  - financial-system
-  - credit-contraction
-  - technocrat-dilemma
-  - monetary-policy
-title: 央行报告揭示中国经济真相：贷款、M2、社融全线承压，技术官僚进退维谷
-summary: 中国央行最新货币政策执行报告预示金融总量将下滑，贷款、M2及社会融资增速均面临挑战。报告表面解释为经济结构优化，实则揭露了房地产衰退、地方债风险、银行坏账激增等深层问题。文章分析了技术官僚在政策执行中面临的困境，以及他们如何通过“反话”来应对高层压力，揭示中国经济信用扩张时代的终结。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - 吴清
-  - 潘功胜
-  - 习近平
-companies_orgs:
-  - 中国证监会
-  - 央行
-  - 恒大
-  - 河南村镇银行
-products_models: []
-media_books:
-  - 路透社
-  - 彭博社
-  - 小翠時政財經
 status: evergreen
+summary: 中国央行最新货币政策执行报告预示金融总量将下滑，贷款、M2及社会融资增速均面临挑战。报告表面解释为经济结构优化，实则揭露了房地产衰退、地方债风险、银行坏账激增等深层问题。文章分析了技术官僚在政策执行中面临的困境，以及他们如何通过“反话”来应对高层压力，揭示中国经济信用扩张时代的终结。
+tags:
+- chinese-economy
+- credit
+- system
+- technology
+title: 央行报告揭示中国经济真相：贷款、M2、社融全线承压，技术官僚进退维谷
 ---
+
 ### 中国技术官僚的困境与央行报告的“反话”
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月13日。

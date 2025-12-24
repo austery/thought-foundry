@@ -1,51 +1,51 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Washington Post
+- The Intercept
+- Justice Department
+- Office of Legal Counsel
+- CIA
+- International Criminal Court
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Rachel Abrams
+- Charlie Savage
+- Admiral Frank Bradley
+- Pete Hegsath
+- Donald Trump
+- Jack Goldsmith
+- John Yu
+- Eric Holder
+- Barack Obama
+- Vladimir Putin
+- Matt Van Eps
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dqs-LJHpUhA
 speaker: New York Times Podcasts
-tags:
-  - boat-strikes
-  - war-crimes
-  - legal-scrutiny
-  - executive-power
-  - drug-cartels
-title: 美国船只袭击是否构成战争罪？对军事行动合法性的深度审视
-summary: 本文深入探讨美国军方对南美毒品走私船只的袭击行动，特别是针对幸存者的第二次打击是否构成战争罪。文章分析了美国政府将此定义为“武装冲突”的法律理论、国会两党对问责制的呼吁，以及司法部法律顾问办公室（OLC）备忘录在提供法律保护方面的作用。同时，也讨论了国际法在此类事件中的适用性和局限性，并强调了此次行动背后更广泛的法律和道德争议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Rachel Abrams
-  - Charlie Savage
-  - Admiral Frank Bradley
-  - Pete Hegsath
-  - Donald Trump
-  - Jack Goldsmith
-  - John Yu
-  - Eric Holder
-  - Barack Obama
-  - Vladimir Putin
-  - Matt Van Eps
-companies_orgs:
-  - New York Times
-  - Washington Post
-  - The Intercept
-  - Justice Department
-  - Office of Legal Counsel
-  - CIA
-  - International Criminal Court
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本文深入探讨美国军方对南美毒品走私船只的袭击行动，特别是针对幸存者的第二次打击是否构成战争罪。文章分析了美国政府将此定义为“武装冲突”的法律理论、国会两党对问责制的呼吁，以及司法部法律顾问办公室（OLC）备忘录在提供法律保护方面的作用。同时，也讨论了国际法在此类事件中的适用性和局限性，并强调了此次行动背后更广泛的法律和道德争议。
+tags:
+- boat-strike
+- executive-power
+- health
+- legal
+- war
+title: 美国船只袭击是否构成战争罪？对军事行动合法性的深度审视
 ---
+
 ### 美国船只袭击的法律争议
 
 我是《纽约时报》的雷切尔·艾布拉姆斯，这里是《每日》节目。美国军方开始向来自南美的船只开火，至今已有三个月，造成80多人死亡，这促使民主党人紧急质疑这些袭击是否违法。

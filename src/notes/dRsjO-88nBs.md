@@ -1,30 +1,27 @@
 ---
-title: Claude Code SDK 与 GitHub Actions：构建无头自动化
-summary: 深入探讨 Claude Code SDK 及其 GitHub Action，演示如何利用它们实现无头自动化，进行代码审查、功能开发及 bug 修复，并提供详细的安装与使用指南。
 area: null
 category: null
-project: []
-tags:
-- automation
-- claude-code
-- code-development
-- github-actions
-- sdk
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-07-31'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dRsjO-88nBs
+speaker: Anthropic
 status: evergreen
+summary: 深入探讨 Claude Code SDK 及其 GitHub Action，演示如何利用它们实现无头自动化，进行代码审查、功能开发及 bug 修复，并提供详细的安装与使用指南。
+tags:
+- automation
+- claude-code
+- code
+- development
+title: Claude Code SDK 与 GitHub Actions：构建无头自动化
 ---
+
 ### 介绍与议程概述
 
 Good afternoon, everybody. My name is Sedara. I am an engineer on the Claude Code team. Today, we're going to be talking a little bit about the **Claude Code SDK** (Software Development Kit: 软件开发工具包) and the **Claude GitHub Action** (GitHub 操作: 在 GitHub 仓库中自动化任务的工具) that was just announced today.

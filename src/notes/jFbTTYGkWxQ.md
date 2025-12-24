@@ -1,55 +1,54 @@
 ---
-author: TechButMakeItReal
+area: society-systems
+category: technology
+companies_orgs:
+- Meta
+- Kaspersky
+- Acorn Computers
+- Monzo
+- Starling Bank
+- Revolut
+- Wise
+- Darktrace
+- GoCardless
+- Zepz
+- Onfido
+- Amazon
+- Microsoft
+- Google
+- OpenAI
+- Future Research
 date: '2025-06-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- McKenzie's 2024 global AI survey
+- The Information
+products_models:
+- ARM chip
+- iPhone
+- Samsung device
+- YouTube
+project:
+- ai-impact-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=jFbTTYGkWxQ
 speaker: TechButMakeItReal
-tags:
-  - uk-tech-market
-  - skills-gap
-  - ai-transformation
-  - tech-layoffs
-  - brexit-impact
-title: 英国科技行业裁员潮与人才短缺的悖论：2025年市场深度解析
-summary: 2025年，英国科技行业面临着一个显著的悖论：尽管大量裁员，却仍存在严重的技能短缺。本文深入探讨了这一现象背后的原因，包括疫情后的成本削减、地缘政治紧张、AI转型带来的技能错配、以及脱欧对人才流动的影响。同时，文章也分析了英国作为欧洲领先科技中心的韧性，其在吸引投资和特定领域（如AI、网络安全、金融科技）的优势，并展望了未来市场趋势和人才发展方向。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - geopolitics-watch
-people: []
-companies_orgs:
-  - Meta
-  - Kaspersky
-  - Acorn Computers
-  - Monzo
-  - Starling Bank
-  - Revolut
-  - Wise
-  - Darktrace
-  - GoCardless
-  - Zepz
-  - Onfido
-  - Amazon
-  - Microsoft
-  - Google
-  - OpenAI
-  - Future Research
-products_models:
-  - ARM chip
-  - iPhone
-  - Samsung device
-  - YouTube
-media_books:
-  - McKenzie's 2024 global AI survey
-  - The Information
 status: evergreen
+summary: 2025年，英国科技行业面临着一个显著的悖论：尽管大量裁员，却仍存在严重的技能短缺。本文深入探讨了这一现象背后的原因，包括疫情后的成本削减、地缘政治紧张、AI转型带来的技能错配、以及脱欧对人才流动的影响。同时，文章也分析了英国作为欧洲领先科技中心的韧性，其在吸引投资和特定领域（如AI、网络安全、金融科技）的优势，并展望了未来市场趋势和人才发展方向。
+tags:
+- ai-transformation
+- gap
+- impact
+- market
+- tech
+title: 英国科技行业裁员潮与人才短缺的悖论：2025年市场深度解析
 ---
+
 ### 引言：英国科技行业的悖论
 
 想象一下，你是一名在伦敦工作的软件工程师。

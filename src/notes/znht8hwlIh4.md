@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-06-05
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=znht8hwlIh4'
-speaker: 徒步的騎手
-tags:
-  - elite-education-critique
-  - moral-hypocrisy
-  - rhetoric-analysis
-  - discerning-ideals
-  - useful-idiot
-title: 哈佛毕业演讲争议：精英教育的失职与识别“假理想”的智慧
-summary: 本文深入探讨了哈佛大学毕业典礼上一场备受争议的演讲，指出其空洞、虚假的风格反映出精英大学普遍存在的“假大空”教育问题。作者批评这种“永远正确”的概念串联，认为它们可能成为现实世界邪恶的遮羞布，并揭示了部分知识分子炫耀“道德奢侈品”的现象。文章还分析了哈佛大学在学术独立性方面的挑战，并引用斯蒂芬·金的毕业箴言，强调毕业生应保持清醒、识别真假理想，避免沦为“有用的蠢货”或工具人。
-insight: ''
-draft: true
-series: ''
-category: culture
 area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - cultural-critique
-people:
-  - 江宇荣
-  - Donald Trump
-  - Stephen King
-  - 王船山
+category: culture
 companies_orgs:
-  - 哈佛大学
-  - 哈马斯
-  - 最高法院
-  - 科罗拉多大学波德分校
-products_models: '[]'
+- 哈佛大学
+- 哈马斯
+- 最高法院
+- 科罗拉多大学波德分校
+date: 2025-06-05
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Harvard Crimson
+- The Harvard Crimson
+people:
+- 江宇荣
+- Donald Trump
+- Stephen King
+- 王船山
+products_models: '[]'
+project:
+- us-analysis
+- systems-thinking
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=znht8hwlIh4
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了哈佛大学毕业典礼上一场备受争议的演讲，指出其空洞、虚假的风格反映出精英大学普遍存在的“假大空”教育问题。作者批评这种“永远正确”的概念串联，认为它们可能成为现实世界邪恶的遮羞布，并揭示了部分知识分子炫耀“道德奢侈品”的现象。文章还分析了哈佛大学在学术独立性方面的挑战，并引用斯蒂芬·金的毕业箴言，强调毕业生应保持清醒、识别真假理想，避免沦为“有用的蠢货”或工具人。
+tags:
+- analysis
+- discerning-ideal
+- education
+- geopolitical
+- moral-hypocrisy
+title: 哈佛毕业演讲争议：精英教育的失职与识别“假理想”的智慧
 ---
 
 ### 对哈佛毕业演讲的批评与“假大空”现象

@@ -1,39 +1,39 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- PDVSA
+- OAS
+- UNASUR
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- New York Times
+people:
+- Hugo Chávez
+- Irene Sáez
+- Carmona
+- Nicolás Maduro
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=B06ZEFZofsk
 speaker: 北美王路飞
-tags:
-  - populism
-  - bolivarian-revolution
-  - political-transition
-  - oil-politics
-title: 「查韦斯：从阶下囚到拉美枭雄，如何重塑委内瑞拉？」
-summary: 本篇内容深入剖析了雨果·查韦斯如何从一名被边缘化的退伍军人，崛起成为委内瑞拉的政治强人。文章回顾了1998年他如何抓住社会绝望情绪赢得大选，通过颁布新宪法重塑国家认同，以及面对精英反对、政变企图和经济挑战时的强硬手腕。同时，也探讨了他推动的社会任务和外交政策，以及其留下的复杂遗产，揭示了委内瑞拉如何从一个被精英主导的国家，转变为一个更加觉醒但充满矛盾的社会。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Hugo Chávez
-  - Irene Sáez
-  - Carmona
-  - Nicolás Maduro
-companies_orgs:
-  - PDVSA
-  - OAS
-  - UNASUR
-products_models: []
-media_books:
-  - New York Times
 status: evergreen
+summary: 本篇内容深入剖析了雨果·查韦斯如何从一名被边缘化的退伍军人，崛起成为委内瑞拉的政治强人。文章回顾了1998年他如何抓住社会绝望情绪赢得大选，通过颁布新宪法重塑国家认同，以及面对精英反对、政变企图和经济挑战时的强硬手腕。同时，也探讨了他推动的社会任务和外交政策，以及其留下的复杂遗产，揭示了委内瑞拉如何从一个被精英主导的国家，转变为一个更加觉醒但充满矛盾的社会。
+tags:
+- political
+- politics
+- populism
+- revolution
+title: 「查韦斯：从阶下囚到拉美枭雄，如何重塑委内瑞拉？」
 ---
+
 ### 委内瑞拉的石油诅咒与社会裂痕
 
 通过之前两期节目，大家应该知道委内瑞拉这个国家，它地底下埋的东西，那不仅仅是石油，那是全世界最大的能源储备之一。照理说啊，住在这上面的人，哪怕不是说人人都是富豪，至少应该过得很滋润，对吧？但你猜怎么着？如果你穿越回1998年，在加拉加斯的街头随便抓一个路人，问你觉得这些石油财富跟你有关吗？绝大多数人都会给你个苦笑。事实上，当时《纽约时报》引用了一项民意调查，显示竟然有超过85%的委内瑞拉人觉得，自己完全被这一大笔国家财富给骗了。这太离谱了，对吧？85%的人认为自己被排除在这个国家财富盛宴之外。那时候，委内瑞拉虽然是一个石油大国，但是国际油价跌到了谷底，每桶呢还不到8美金。更糟糕的是，当时的社会已经完全对政府失去了信心。老百姓看着那些传统的政党，今天你上台，明天我上台，全是贪腐无能，还有那种让普通人勒紧裤腰带的紧缩政策。大家心里只有一个念头啊：这帮人救不了我们。在这种绝望的情绪里呢，一场彻底改变Venezuela命运的大戏，拉开了帷幕。

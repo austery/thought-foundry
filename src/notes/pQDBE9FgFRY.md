@@ -1,37 +1,37 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- 零下56
+- 北美房车full time RV
 date: '2023-07-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- youtube-collaboration
+people:
+- 莊也
+- 东南
+- 老王
+products_models: []
+project:
+- personal-growth-lab
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=pQDBE9FgFRY
 speaker: 莊也雜談
-tags:
-  - youtube-collaboration
-  - street-scam
-  - canadian-law
-  - street-photography-rights
-  - toronto-travel
-title: 多伦多街头奇遇：网红庄也遭遇碰瓷与街拍法律解析
-summary: 知名博主庄也分享了他在多伦多接待YouTube大咖东南并进行深度游的经历。期间，他们不仅遭遇了一场令人啼笑皆非的街头碰瓷事件，庄也还借此机会深入探讨了加拿大关于街拍隐私权与肖像权的法律界定，并分享了作为内容创作者的成长与思考。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - 莊也
-  - 东南
-  - 老王
-companies_orgs:
-  - 零下56
-  - 北美房车full time RV
-products_models: []
-media_books: []
 status: evergreen
+summary: 知名博主庄也分享了他在多伦多接待YouTube大咖东南并进行深度游的经历。期间，他们不仅遭遇了一场令人啼笑皆非的街头碰瓷事件，庄也还借此机会深入探讨了加拿大关于街拍隐私权与肖像权的法律界定，并分享了作为内容创作者的成长与思考。
+tags:
+- law
+- right
+- street-scam
+- travel
+title: 多伦多街头奇遇：网红庄也遭遇碰瓷与街拍法律解析
 ---
+
 ### 节目更新与受访经历
 
 大家好，我是庄也，欢迎您收看庄也杂谈加拿大系列节目。在节目开始之前，先跟大家说一声抱歉，估计您也发现了，我这两周有一点**脱更**（Tuō gēng: 停止或延迟更新内容），节目更新得不太及时，说好的班夫最后两集一直拖拖拉拉出不来。当然，这其中是有原因的，我也得先道歉。这两天有不少网友催更，问我怎么还不更新。首先，是因为公司有点事；另外也是最重要的事，我在这两周一直在准备接受一个采访。有人问是什么采访？中央电视台？这当然不是了。这位采访我的是YouTube上的一位**大咖**（Dà kā: 行业内的知名人物或专家），就是那位位于卡尔加里的加拿大华人频道“零下56”里面的网红**Up主**（Up zhǔ: 视频内容创作者）东南。估计一说到这个名字，屏幕前很多观众朋友都认识，这绝对妥妥地算是咱们加拿大YouTuber中的一个大网红。所以说，对这次采访其实我也很重视，里里外外一直忙活这事。当然了，为采访这事我忙活了这么久，甚至把咱们班夫的节目都给耽误了，那么这个采访活动咱们也不能悄无声息地让它“let go”。录制节目那天实际上是在6月29日，已经结束了，所以说我就简单聊一聊6月29日，也就是上个周四，在采访过程中发生那些非常好玩的事。

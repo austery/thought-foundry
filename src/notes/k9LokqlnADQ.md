@@ -1,59 +1,59 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 北约
+- 欧盟
+- 国际货币基金组织
+- 世界银行
+- 哈佛大学
+- 兰德公司
+- 伊斯兰国
+- G7
 date: '2025-08-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大棋局》
+- 《美国国家利益》
+people:
+- 库奇马
+- 克林顿
+- 布热津斯基
+- 基辛格
+- 戈尔
+- 尤先科
+- 季莫申科
+- 小布什
+- 赖斯
+- 奥巴马
+- 雅努科维奇
+- 希拉里·克林顿
+- 拜登
+- Donald Trump
+- 梁强
+- 沈毅
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=k9LokqlnADQ
 speaker: 北美王路飞
-tags:
-  - us-ukraine-strategy
-  - russia-containment
-  - geopolitical-shifts
-  - nuclear-disarmament
-  - western-integration
-title: 美国在乌克兰的战略布局：20年伏笔与大国博弈的演变
-summary: 本文深入复盘美国自1992年苏联解体以来在乌克兰的战略布局，基于中国社科院专家梁强的研究，并结合2022-2025年的最新事态进行修正与批判性分析。文章详细阐述了美国如何通过解除核武器、推动乌克兰融入西方体系、以及帮助其摆脱对俄能源依赖这“三板斧”，逐步将乌克兰从俄罗斯轨道拉出。同时，文章也探讨了美乌关系的不对称性、美国政策的演变，以及对早期预测的修正，揭示了乌克兰从“棋子”到“枢纽”的地位跃升，为理解当前地缘政治格局提供了重要视角。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 库奇马
-  - 克林顿
-  - 布热津斯基
-  - 基辛格
-  - 戈尔
-  - 尤先科
-  - 季莫申科
-  - 小布什
-  - 赖斯
-  - 奥巴马
-  - 雅努科维奇
-  - 希拉里·克林顿
-  - 拜登
-  - 川普
-  - 梁强
-  - 沈毅
-companies_orgs:
-  - 北约
-  - 欧盟
-  - 国际货币基金组织
-  - 世界银行
-  - 哈佛大学
-  - 兰德公司
-  - 伊斯兰国
-  - G7
-products_models: []
-media_books:
-  - 《大棋局》
-  - 《美国国家利益》
 status: evergreen
+summary: 本文深入复盘美国自1992年苏联解体以来在乌克兰的战略布局，基于中国社科院专家梁强的研究，并结合2022-2025年的最新事态进行修正与批判性分析。文章详细阐述了美国如何通过解除核武器、推动乌克兰融入西方体系、以及帮助其摆脱对俄能源依赖这“三板斧”，逐步将乌克兰从俄罗斯轨道拉出。同时，文章也探讨了美乌关系的不对称性、美国政策的演变，以及对早期预测的修正，揭示了乌克兰从“棋子”到“枢纽”的地位跃升，为理解当前地缘政治格局提供了重要视角。
+tags:
+- geopolitical-shift
+- integration
+- llm
+- nuclear
+- strategy
+title: 美国在乌克兰的战略布局：20年伏笔与大国博弈的演变
 ---
+
 ### 引言：美国在乌克兰的战略谜团
 
 今天，我们将深入复盘美国在乌克兰的战略布局，追溯其历史脉络与地缘政治考量。自2014年乌克兰危机爆发，克里米亚并入俄罗斯，乌东战火燃起以来，一个现象引人深思：与乌克兰相隔遥远、历史渊源不深、经济依赖不大的美国，却表现出前所未有的重视，提供了空前的政治、经济和军事支持，俨然成为乌克兰的头号支持者。

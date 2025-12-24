@@ -1,51 +1,51 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Universa Investments
+- Bloomberg
+- Apple
+- Costco
+- Whole Foods
+- Stop and Shop
 date: '2025-07-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Antifragile
+- Fooled by Randomness
+- The Black Swan
+people:
+- Nassim Nicholas Taleb
+- Donald Trump
+- Tracy Alloway
+- Joe Weisenthal
+- Carmen Rodriguez
+- Kell Brooks
+products_models:
+- Twitter
+- Discord
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=uQ2oPbJ-wS4
 speaker: Bloomberg Podcasts
-tags:
-  - volatility
-  - fragility
-  - tariffs
-  - debt-crisis
-  - good-life-philosophy
-title: 纳西姆·塔勒布：在波动时代中追求美好生活与识别脆弱性
-summary: 本期节目中，纳西姆·塔勒布深入探讨了他对美好生活的定义，强调“有用”而非享乐。他分析了现代信息消费模式，并分享了其在社交媒体上的“链式屏蔽”策略。塔勒布还对市场波动、特朗普的关税政策以及西方经济（特别是美国）日益增长的债务和结构性增长衰退等问题进行了批判性审视。他区分了“黑天鹅”与“灰天鹅”事件，并强调识别系统脆弱性的重要性，以应对不可预测的冲击。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Nassim Nicholas Taleb
-  - Donald Trump
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Carmen Rodriguez
-  - Kell Brooks
-companies_orgs:
-  - Universa Investments
-  - Bloomberg
-  - Apple
-  - Costco
-  - Whole Foods
-  - Stop and Shop
-products_models:
-  - Twitter
-  - Discord
-media_books:
-  - Odd Lots
-  - Antifragile
-  - Fooled by Randomness
-  - The Black Swan
 status: evergreen
+summary: 本期节目中，纳西姆·塔勒布深入探讨了他对美好生活的定义，强调“有用”而非享乐。他分析了现代信息消费模式，并分享了其在社交媒体上的“链式屏蔽”策略。塔勒布还对市场波动、特朗普的关税政策以及西方经济（特别是美国）日益增长的债务和结构性增长衰退等问题进行了批判性审视。他区分了“黑天鹅”与“灰天鹅”事件，并强调识别系统脆弱性的重要性，以应对不可预测的冲击。
+tags:
+- crisis
+- good-life-philosophy
+- investment
+- llm
+- tariff
+title: 纳西姆·塔勒布：在波动时代中追求美好生活与识别脆弱性
 ---
+
 ### 节目开场与嘉宾介绍
 
 欢迎各位“奇思妙想”（**Odd Lots**）的听众。您正在收听的是6月26日在纽约市现场录制的另一期节目，本期嘉宾是独一无二的纳西姆·尼古拉斯·塔勒布（**Nassim Nicholas Taleb**），他是**Universa Investments**的杰出科学家和顾问。

@@ -1,53 +1,53 @@
 ---
-author: AI Engineer
+area: tech-work
+category: ai-ml
+companies_orgs:
+- DX
+- Atlassian
+- Google
+- Dora
+- Microsoft
+- Dropbox
+- Morgan Stanley
+- Zapier
+- Spotify
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- AI strategy playbook
+- Google's project Aristotle
+- SweetBench
+- Dora space framework
+people:
+- Justin Reock
+- W. Edwards Deming
+products_models:
+- AI
+- Genai
+- Bedrock
+- Fireworks AI
+- Spring Boot
+- Cobalt
+- Pearl
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=PmZDupFP3UM
 speaker: AI Engineer
-tags:
-  - llm
-  - developer-productivity
-  - ai-adoption
-  - metrics
-  - engineering-workflow
-title: AI 赋能工程：DX (Atlassian 收购) 的 Justin Reock 谈领导力与实践
-summary: 本次演讲探讨了生成式人工智能（GenAI）在工程领域的当前影响与变动性，重点关注了采用、教育和度量等方面的挑战。演讲者强调了制定清晰的 AI 政策、给予学习时间、跨软件开发生命周期（SDLC）集成 AI 的重要性，并聚焦于速度和质量等关键指标。此外，还讨论了如何减少对 AI 的恐惧、培养心理安全感，以及利用 AI 提升员工成功率和竞争优势。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Justin Reock
-  - W. Edwards Deming
-companies_orgs:
-  - DX
-  - Atlassian
-  - Google
-  - Dora
-  - Microsoft
-  - Dropbox
-  - Morgan Stanley
-  - Zapier
-  - Spotify
-products_models:
-  - AI
-  - Genai
-  - Bedrock
-  - Fireworks AI
-  - Spring Boot
-  - Cobalt
-  - Pearl
-media_books:
-  - AI strategy playbook
-  - Google's project Aristotle
-  - SweetBench
-  - Dora space framework
 status: evergreen
+summary: 本次演讲探讨了生成式人工智能（GenAI）在工程领域的当前影响与变动性，重点关注了采用、教育和度量等方面的挑战。演讲者强调了制定清晰的 AI 政策、给予学习时间、跨软件开发生命周期（SDLC）集成
+  AI 的重要性，并聚焦于速度和质量等关键指标。此外，还讨论了如何减少对 AI 的恐惧、培养心理安全感，以及利用 AI 提升员工成功率和竞争优势。
+tags:
+- ai-adoption
+- developer-productivity
+- engineering
+- metric
+title: AI 赋能工程：DX (Atlassian 收购) 的 Justin Reock 谈领导力与实践
 ---
+
 ### 引言与指南
 
 非常感谢大家加入我今天的会议。很高兴看到这么多人留到最后，会议室座无虚席。在接下来的时间里，我们将涵盖大量内容。因此，我将直接开始。如果您想深入了解任何细节，我们已经发布了一本面向高级管理人员的《AI战略手册》。我将介绍的内容大部分都包含在这本手册中，您可以稍后参考。如果您错过了手册的二维码，别担心，我会在最后再次展示。

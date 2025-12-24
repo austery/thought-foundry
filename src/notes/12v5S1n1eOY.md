@@ -1,40 +1,39 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Box
+- OpenAI
+- Anthropic
 date: '2025-08-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ben Kuss
+products_models:
+- Gemini
+- Llama
+- GPT-2
+- GPT-3
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=12v5S1n1eOY
 speaker: AI Engineer
-tags:
-  - agentic-ai
-  - data-extraction
-  - unstructured-content
-  - enterprise-ai
-  - platform-architecture
-title: Box公司CTO Ben Kuss：构建代理式AI平台——Box的AI代理之旅
-summary: Box公司首席技术官Ben Kuss分享了Box在AI领域的探索，特别是其代理式AI平台的构建历程。Box作为领先的非结构化内容平台，面临从海量企业非结构化数据中提取信息的挑战。尽管早期生成式AI模型表现出色，但面对复杂文档、OCR难题和准确性要求时，传统方法和单纯依赖模型升级不足以解决问题。Box转而采用代理式AI架构，通过智能工作流、多模型协作和反馈机制，显著提升了数据提取的准确性和系统的可演进性。Kuss强调，及早构建代理式AI架构对于解决复杂企业AI挑战至关重要。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ben Kuss
-companies_orgs:
-  - Box
-  - OpenAI
-  - Anthropic
-products_models:
-  - Gemini
-  - Llama
-  - GPT-2
-  - GPT-3
-media_books: []
 status: evergreen
+summary: Box公司首席技术官Ben Kuss分享了Box在AI领域的探索，特别是其代理式AI平台的构建历程。Box作为领先的非结构化内容平台，面临从海量企业非结构化数据中提取信息的挑战。尽管早期生成式AI模型表现出色，但面对复杂文档、OCR难题和准确性要求时，传统方法和单纯依赖模型升级不足以解决问题。Box转而采用代理式AI架构，通过智能工作流、多模型协作和反馈机制，显著提升了数据提取的准确性和系统的可演进性。Kuss强调，及早构建代理式AI架构对于解决复杂企业AI挑战至关重要。
+tags:
+- agentic-ai
+- content
+- data
+- enterprise-ai
+- platform
+title: Box公司CTO Ben Kuss：构建代理式AI平台——Box的AI代理之旅
 ---
+
 ### Box的AI代理之旅：从非结构化内容到智能平台
 
 大家好。我是Box公司的**CTO**（Chief Technology Officer: 首席技术官）Ben Kuss。

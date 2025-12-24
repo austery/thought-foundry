@@ -1,72 +1,72 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- US House of Representatives
+- US Senate
+- FBI
+- DOJ
+- AIPAC
+- Google
+- New York Times
+- The Daily Beast
+- Israeli intelligence
+- Mossad
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《烈火与怒火》
+- 《无人之女》
+people:
+- Jeffrey Epstein
+- Donald Trump
+- Bill Clinton
+- Larry Summers
+- Ghislaine Maxwell
+- Prince Andrew
+- Virginia Giuffre
+- Nancy Mays
+- Lauren Boebert
+- Marjorie Taylor Greene
+- Thomas Massey
+- Michael Wolf
+- Steve Bannon
+- Alex Acosta
+- Pam Bondi
+- Cash Patel
+- Dan Bongino
+- Barack Obama
+- Hillary Clinton
+- Joe Biden
+- Ehud Barak
+- Robert Maxwell
+- Xi Jinping
+- Zoran Mardani
+- Bill Gates
+products_models:
+- Google Drive
+- Project Pinpoint
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=4A_eqOBT9ac
 speaker: 北美王路飞
-tags:
-  - epstein-files-release
-  - political-pressure
-  - deep-state-corruption
-  - us-political-polarization
-  - campaign-strategy
-title: 爱泼斯坦邮件曝光：特朗普、克林顿与美国政治精英的深层网络
-summary: 近期，美国众议院监督委员会公开了数万页爱泼斯坦相关邮件，揭露了包括特朗普、克林顿、拉里·萨默斯在内的多位政商名流与爱泼斯坦的密切往来。本文深入分析了这些邮件内容、共和党内部围绕文件公开的政治斗争，以及爱泼斯坦案背后牵扯的庞大情报与精英网络，探讨了其对美国政治格局和民众信任的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jeffrey Epstein
-  - Donald Trump
-  - Bill Clinton
-  - Larry Summers
-  - Ghislaine Maxwell
-  - Prince Andrew
-  - Virginia Giuffre
-  - Nancy Mays
-  - Lauren Boebert
-  - Marjorie Taylor Greene
-  - Thomas Massey
-  - Michael Wolf
-  - Steve Bannon
-  - Alex Acosta
-  - Pam Bondi
-  - Cash Patel
-  - Dan Bongino
-  - Barack Obama
-  - Hillary Clinton
-  - Joe Biden
-  - Ehud Barak
-  - Robert Maxwell
-  - Xi Jinping
-  - Zoran Mardani
-  - Bill Gates
-companies_orgs:
-  - US House of Representatives
-  - US Senate
-  - FBI
-  - DOJ
-  - AIPAC
-  - Google
-  - New York Times
-  - The Daily Beast
-  - Israeli intelligence
-  - Mossad
-products_models:
-  - Google Drive
-  - Project Pinpoint
-media_books:
-  - 《烈火与怒火》
-  - 《无人之女》
 status: evergreen
+summary: 近期，美国众议院监督委员会公开了数万页爱泼斯坦相关邮件，揭露了包括特朗普、克林顿、拉里·萨默斯在内的多位政商名流与爱泼斯坦的密切往来。本文深入分析了这些邮件内容、共和党内部围绕文件公开的政治斗争，以及爱泼斯坦案背后牵扯的庞大情报与精英网络，探讨了其对美国政治格局和民众信任的深远影响。
+tags:
+- campaign-strategy
+- epstein-files-release
+- political
+- political-pressure
+- state
+title: 爱泼斯坦邮件曝光：特朗普、克林顿与美国政治精英的深层网络
 ---
+
 ### 爱泼斯坦文件公开：政治风暴的开端
 
 大家好，欢迎来到我们周六的直播。今天，我们将深入探讨爱泼斯坦（Jeffrey Epstein）遗产文件公开事件。大家必须清楚，我们今天讨论的文件与众议院及参议院即将投票表决的爱泼斯坦文件并非同一批。我们今天要讲的文件是近期由民主党和共和党的众议院监督委员会分别公开的爱泼斯坦邮件。

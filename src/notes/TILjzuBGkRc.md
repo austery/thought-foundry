@@ -1,40 +1,38 @@
 ---
-author: Veritasium
-date: '2022-12-24'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=TILjzuBGkRc
-speaker: Veritasium
-tags:
-  - veritasium
-  - scent-detection
-  - airflow-visualization
-  - forensic-science
-  - public-safety
-  - mask-effectiveness
-title: 揭秘嗅觉与气流：从犬鼻到法医科学的痕迹检测技术
-summary: 本文深入探讨了美国政府实验室如何利用先进的气流可视化技术，结合犬类卓越的嗅觉原理，来解决犯罪和提升公共安全。文章详细介绍了纹影成像、影图法和激光光片等技术，以及它们在检测枪击残留物、追踪人类热羽流中的皮肤细胞、识别违禁品制造痕迹和评估口罩有效性等方面的应用。同时，还探讨了利用无人机进行痕迹采样的新兴方法，并强调了洛卡德交换原理在法医科学中的核心作用。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Veritasium
-  - Matt
+category: technology
 companies_orgs:
-  - US Government lab
-  - NIST
-  - Lutron
+- US Government lab
+- NIST
+- Lutron
+date: '2022-12-24'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Veritasium
+- Matt
 products_models:
-  - Caseta by Lutron
-  - N95
-media_books: []
+- Caseta by Lutron
+- N95
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=TILjzuBGkRc
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了美国政府实验室如何利用先进的气流可视化技术，结合犬类卓越的嗅觉原理，来解决犯罪和提升公共安全。文章详细介绍了纹影成像、影图法和激光光片等技术，以及它们在检测枪击残留物、追踪人类热羽流中的皮肤细胞、识别违禁品制造痕迹和评估口罩有效性等方面的应用。同时，还探讨了利用无人机进行痕迹采样的新兴方法，并强调了洛卡德交换原理在法医科学中的核心作用。
+tags:
+- llm
+- mask-effectivenes
+- public-safety
+- scent-detection
+- science
+title: 揭秘嗅觉与气流：从犬鼻到法医科学的痕迹检测技术
 ---
+
 ### 犬类嗅觉的科学奥秘与痕迹检测的起源
 
 在美国政府的这个实验室里，研究人员通过研究气流来侦破案件。他们利用镜子、灯光和激光，能够照亮空气温度和密度最微小的差异，并追踪毒品粉末如何在房屋房间内沉降，确定是哪个人开了枪，或者发现从密封包裹中逸出的微粒。本视频的一部分由Lutron的Caseta赞助。几个世纪以来，我们用于检测微量物质的最佳工具始终如一。

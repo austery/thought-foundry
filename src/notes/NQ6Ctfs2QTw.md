@@ -1,84 +1,84 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Chinese Academy of Sciences
+- Huawei
+- State Grid Corporation of China
+- Sinopec
+- Baidu
+- Gree Electric
+- Communist Party of China
 date: '2025-10-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- NY Times
+- Bloomberg
+- 人民日报
+- 《理想国》
+- 《奥本海默》
+- 《新青年》
+people:
+- Donald Trump
+- Xi Jinping
+- Vladimir Putin
+- Shimon Sakaguchi
+- Susumu Kitagawa
+- Tu Youyou
+- Chen-Ning Yang
+- Tsung-Dao Lee
+- Samuel C.C. Ting
+- Xuesen Qian
+- Jiaxian Deng
+- Robert Oppenheimer
+- Leonid Kantorovich
+- Karl Marx
+- Émile Durkheim
+- Max Weber
+- Auguste Comte
+- Francis Bacon
+- René Descartes
+- Bertrand Russell
+- Karl Popper
+- Thomas More
+- Lei Feng
+- Duxiu Chen
+- Shih Hu
+- Hongzhang Li
+- Yukichi Fukuzawa
+- Yuanhua Wang
+- Honglin Li
+- Zunxin Bao
+- Benli Qin
+- Siyuan Cao
+products_models:
+- 两弹一星
+- 东风导弹
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=NQ6Ctfs2QTw
 speaker: 張内咸
-tags:
-  - us-china-trade
-  - scientific-development
-  - nobel-prize
-  - national-strategy
-  - social-critique
-  - enlightenment-philosophy
-  - altruism
-  - political-correctness
-title: 从贸易战到诺奖：中国科研投入与国家战略的深层思考
-summary: 本文深入探讨了中美贸易战的反复与西方媒体对中国崛起的矛盾报道，并以诺贝尔奖为例，对比中日两国在科研领域的巨大差距。文章分析了中国科研投入的悖论、对文科生的歧视、以及科研成果的军事化导向。同时，也反思了中国社会中利他主义的缺失、社会共识的困境，以及启蒙运动的未竟之路，揭示了这些深层问题对中国科技发展和文明进步的根本性影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Vladimir Putin
-  - Shimon Sakaguchi
-  - Susumu Kitagawa
-  - Tu Youyou
-  - Chen-Ning Yang
-  - Tsung-Dao Lee
-  - Samuel C.C. Ting
-  - Xuesen Qian
-  - Jiaxian Deng
-  - Robert Oppenheimer
-  - Leonid Kantorovich
-  - Karl Marx
-  - Émile Durkheim
-  - Max Weber
-  - Auguste Comte
-  - Francis Bacon
-  - René Descartes
-  - Bertrand Russell
-  - Karl Popper
-  - Thomas More
-  - Lei Feng
-  - Duxiu Chen
-  - Shih Hu
-  - Hongzhang Li
-  - Yukichi Fukuzawa
-  - Yuanhua Wang
-  - Honglin Li
-  - Zunxin Bao
-  - Benli Qin
-  - Siyuan Cao
-companies_orgs:
-  - Chinese Academy of Sciences
-  - Huawei
-  - State Grid Corporation of China
-  - Sinopec
-  - Baidu
-  - Gree Electric
-  - Communist Party of China
-products_models:
-  - 两弹一星
-  - 东风导弹
-media_books:
-  - NY Times
-  - Bloomberg
-  - 人民日报
-  - 《理想国》
-  - 《奥本海默》
-  - 《新青年》
 status: evergreen
+summary: 本文深入探讨了中美贸易战的反复与西方媒体对中国崛起的矛盾报道，并以诺贝尔奖为例，对比中日两国在科研领域的巨大差距。文章分析了中国科研投入的悖论、对文科生的歧视、以及科研成果的军事化导向。同时，也反思了中国社会中利他主义的缺失、社会共识的困境，以及启蒙运动的未竟之路，揭示了这些深层问题对中国科技发展和文明进步的根本性影响。
+tags:
+- altruism
+- development
+- nobel-prize
+- philosophy
+- political-correctness
+- social
+- strategy
+- us-china-relations
+title: 从贸易战到诺奖：中国科研投入与国家战略的深层思考
 ---
+
 ### 中美贸易战：雷声大雨点小？
 
 过去一周，许多人，尤其是炒股的人，心情又经历了一次过山车。大部分人曾以为中美**贸易战**（Trade War: 指国家之间通过提高关税、设置贸易壁垒等手段进行的经济冲突）快要结束了，因为双方嘴炮打了半年，搞得所有人都精疲力尽。其实中国和美国现在社会问题都很严重，都在打肿脸充胖子，坚持得非常勉强。所以，无论什么政策，注定都是雷声大雨点小，因为日子还得过，生意还得做。然而，一觉醒来，中美之间又开始没完没了地闹。一边又要限制**稀土**（Rare Earth Elements: 一组在地壳中含量稀少、具有独特物理化学性质的金属元素，广泛应用于高科技产业）出口，一边又要加征关税。闹也就算了，怎么又原样不动地回到了半年前？那这半年当中到底都谈了些什么？哪怕换点新姿势呢，我们都看腻了。

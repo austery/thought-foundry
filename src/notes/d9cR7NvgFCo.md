@@ -1,46 +1,46 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: psychology
+companies_orgs:
+- Norges Bank Investment Management
+- Wall Street
 date: '2024-08-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- K Ultra
+- The Imitation Game
+people:
+- Magnus Carlsen
+- Peter
+- Wei Yi
+- Vladimir Kramnik
+- Viswanathan Anand
+- Ding Liren
+products_models:
+- Enigma code
+- Chess960
+project:
+- investment-strategy
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=d9cR7NvgFCo
 speaker: Norges Bank Investment Management
-tags:
-  - decision-making
-  - intuition-vs-analysis
-  - risk-management
-  - ai-in-chess
-  - mindset-and-optimism
-title: 国际象棋大师马格努斯·卡尔森的商业智慧：从棋盘到投资的洞察
-summary: 世界排名第一的国际象棋大师马格努斯·卡尔森在播客中分享了他对商业和投资的独特见解。他探讨了直觉与分析的平衡、风险管理、团队协作、人工智能对国际象棋的影响，以及积极心态在成功中的关键作用。卡尔森强调了持续学习和适应变化的重要性，并分享了他在职业生涯中如何应对挑战和保持乐观。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Magnus Carlsen
-  - Peter
-  - Wei Yi
-  - Vladimir Kramnik
-  - Viswanathan Anand
-  - Ding Liren
-companies_orgs:
-  - Norges Bank Investment Management
-  - Wall Street
-products_models:
-  - Enigma code
-  - Chess960
-media_books:
-  - In Good Company
-  - K Ultra
-  - The Imitation Game
 status: evergreen
+summary: 世界排名第一的国际象棋大师马格努斯·卡尔森在播客中分享了他对商业和投资的独特见解。他探讨了直觉与分析的平衡、风险管理、团队协作、人工智能对国际象棋的影响，以及积极心态在成功中的关键作用。卡尔森强调了持续学习和适应变化的重要性，并分享了他在职业生涯中如何应对挑战和保持乐观。
+tags:
+- analysis
+- decision-making
+- llm
+- mindset
+- risk-management
+title: 国际象棋大师马格努斯·卡尔森的商业智慧：从棋盘到投资的洞察
 ---
+
 ### 开场与国际象棋的商业启示
 
 大家好，欢迎收听“In Good Company”播客。

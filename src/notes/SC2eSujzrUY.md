@@ -1,60 +1,58 @@
 ---
-author: Veritasium
-date: '2025-05-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=SC2eSujzrUY
-speaker: Veritasium
-tags:
-  - veritasium
-  - pfas
-  - forever-chemicals
-  - environmental-contamination
-  - corporate-responsibility
-  - public-health
-title: 特氟龙背后的秘密：杜邦如何用‘永远的化学品’污染地球
-summary: 本文揭示了特氟龙（Teflon）的诞生及其背后的环境与健康危机。从最初作为冰箱制冷剂的安全替代品，到广泛应用于不粘锅、防水衣物等日常用品，特氟龙的生产依赖于全氟辛酸（PFOA，即C8）等“永远的化学品”。杜邦等公司在知晓这些化学品毒性、持久性和生物累积性后，仍长期隐瞒信息并排放污染物，导致全球范围的广泛污染和严重的健康问题。文章探讨了PFAS的危害、监管挑战以及个人和社会的应对策略。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Roy J. Plunkett
-  - Marc Gregoire
-  - Earl Tennant
-  - Rob Bilott
-  - Sandra Tennant
-  - John Gotti
+category: general
 companies_orgs:
-  - DuPont
-  - 3M
-  - Chemours
-  - US Army
-  - US Environmental Protection Agency (EPA)
-  - Department of Justice
-  - National Academies of Sciences, Engineering, and Medicine
-  - Puraffinity
-  - Ground News
+- DuPont
+- 3M
+- Chemours
+- US Army
+- US Environmental Protection Agency (EPA)
+- Department of Justice
+- National Academies of Sciences, Engineering, and Medicine
+- Puraffinity
+- Ground News
+date: '2025-05-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Roy J. Plunkett
+- Marc Gregoire
+- Earl Tennant
+- Rob Bilott
+- Sandra Tennant
+- John Gotti
 products_models:
-  - Teflon
-  - Gore-Tex
-  - Scotchgard
-  - GenX
-  - PFOA
-  - PFOS
-  - PFHxS
-  - PFPeA
-  - methyl chloride
-  - tetrafluoroethylene (TFE)
-  - polytetrafluoroethylene (PTFE)
-  - uranium hexafluoride
-media_books: []
+- Teflon
+- Gore-Tex
+- Scotchgard
+- GenX
+- PFOA
+- PFOS
+- PFHxS
+- PFPeA
+- methyl chloride
+- tetrafluoroethylene (TFE)
+- polytetrafluoroethylene (PTFE)
+- uranium hexafluoride
+project:
+- us-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=SC2eSujzrUY
+speaker: veritasium
 status: evergreen
+summary: 本文揭示了特氟龙（Teflon）的诞生及其背后的环境与健康危机。从最初作为冰箱制冷剂的安全替代品，到广泛应用于不粘锅、防水衣物等日常用品，特氟龙的生产依赖于全氟辛酸（PFOA，即C8）等“永远的化学品”。杜邦等公司在知晓这些化学品毒性、持久性和生物累积性后，仍长期隐瞒信息并排放污染物，导致全球范围的广泛污染和严重的健康问题。文章探讨了PFAS的危害、监管挑战以及个人和社会的应对策略。
+tags:
+- corporate
+- pfa
+- public-health
+- society
+- technology
+title: 特氟龙背后的秘密：杜邦如何用‘永远的化学品’污染地球
 ---
+
 ### 冰箱的致命秘密与特氟龙的诞生
 
 1929年，芝加哥的人们不断神秘地死在家中。

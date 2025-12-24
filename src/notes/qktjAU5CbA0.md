@@ -1,52 +1,52 @@
 ---
-author: 老周横眉
+area: market-analysis
+category: finance
+companies_orgs:
+- 上海证券交易所
+- 路透社
+- 康美药业
+- 富达基金
+- 中金
+- GMT Research
+- Vanguard
+- BlackRock
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融投资史》
+- 《从优秀到卓越》
+- 《斯坦福大学证券集体诉讼数据》
+people:
+- Edward Chancellor
+- Jim Collins
+- Tullock
+products_models:
+- Nasdaq
+- Dow Jones Industrial Index
+- S&P
+- Nikkei
+- Hang Seng
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=qktjAU5CbA0
 speaker: 老周横眉
-tags:
-  - china-stock-market
-  - investor-rights
-  - financial-regulation
-  - state-owned-enterprises
-  - market-stability
-title: 中国股市：十年新高背后的结构性陷阱与投资迷思
-summary: 近期中国A股市场突破十年新高，引发投资者关注。本文深入探讨了中国股市的本质，指出其作为融资平台而非投资市场的特性。通过分析缺乏投资者保护、低分红、定向增发、国有企业主导以及政府干预等深层结构性问题，揭示了中国股市对长期价值投资者的不友好性。文章借用“狐狸与刺猬”的比喻，警示投机者可能面临的风险，并强调其与西方成熟市场的根本差异。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Edward Chancellor
-  - Jim Collins
-  - Tullock
-companies_orgs:
-  - 上海证券交易所
-  - 路透社
-  - 康美药业
-  - 富达基金
-  - 中金
-  - GMT Research
-  - Vanguard
-  - BlackRock
-products_models:
-  - Nasdaq
-  - Dow Jones Industrial Index
-  - S&P
-  - Nikkei
-  - Hang Seng
-media_books:
-  - 《金融投资史》
-  - 《从优秀到卓越》
-  - 《斯坦福大学证券集体诉讼数据》
 status: evergreen
+summary: 近期中国A股市场突破十年新高，引发投资者关注。本文深入探讨了中国股市的本质，指出其作为融资平台而非投资市场的特性。通过分析缺乏投资者保护、低分红、定向增发、国有企业主导以及政府干预等深层结构性问题，揭示了中国股市对长期价值投资者的不友好性。文章借用“狐狸与刺猬”的比喻，警示投机者可能面临的风险，并强调其与西方成熟市场的根本差异。
+tags:
+- china-stock-market
+- financial-regulation
+- market
+- right
+- state
+title: 中国股市：十年新高背后的结构性陷阱与投资迷思
 ---
+
 ### 中国股市：狐狸与刺猬的博弈
 
 中国股市吸引的是**狐狸**（Fox: 狡猾多变，追求短期利益的投机者），而并非**刺猬**（Hedgehog: 坚守单一原则，追求长期价值的投资者）。这是今年5月底，现代金融与投资经典著作之一《金融投资史》的作者爱德华·钱赛乐在路透社发表的一篇文章标题。

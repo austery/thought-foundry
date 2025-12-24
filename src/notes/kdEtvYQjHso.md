@@ -1,75 +1,75 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Kuomintang
+- Democratic Progressive Party
+- Chinese Communist Party
+- Xinhua News Agency
+- Huang Fu-hsing Party Department
+- Glorious Social Work Foundation
+- Taiwan People's Party
+- People First Party
+- Want Want China Holdings
+- NATO
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 人民政协报
+- 德国之声
+people:
+- Zheng Liwen
+- Xi Jinping
+- Chiang Chi-chen
+- Eric Chu
+- Hau Lung-pin
+- Chen Chih-tung
+- Lo Chih-chiang
+- Hung Hsiu-chu
+- Lu Shiow-yen
+- Chiang Wan-an
+- Jaw Shaw-kong
+- Wang Huning
+- Wang Yi
+- Tsai Ing-wen
+- Ko Wen-je
+- Huang Kuo-chang
+- Li Yi-hsiu
+- Xin Haonian
+- Volodymyr Zelenskyy
+- Ma Ying-jeou
+- James Soong
+- Lee Teng-hui
+- Lien Chan
+- Sean Lien
+- Hsu Hung-ting
+- Hou Yu-ih
+- Chou Wei-hang
+- Anthony Wong
+- He Weidong
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=kdEtvYQjHso
 speaker: FearNation 世界苦茶
-tags:
-  - fearnation
-  - kmt-leadership
-  - cross-strait-relations
-  - ccp-influence
-  - taiwan-political-factions
-  - one-china-principle
-title: 红统党主席郑立文当选：国民党路线大摇摆及其对台海局势的影响
-summary: 国民党党主席选举结果揭晓，郑立文当选，引发了对国民党未来路线及台海局势的广泛关注。本文深入分析了郑立文的“红统”立场，包括其对“九二共识”和“一中各表”的表述，以及对解放军围台军演的看法。探讨了中共贺电中微妙的措辞变化，并剖析了国民党内部华独派、建制派、洪统派和中间派的复杂生态。文章还讨论了中共可能通过扶持“红统”力量来影响台湾政治的策略，以及台湾社会对民主制度和两岸关系的不同认知，最终评估了此次选举对国民党长期发展和台海稳定的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Zheng Liwen
-  - Xi Jinping
-  - Chiang Chi-chen
-  - Eric Chu
-  - Hau Lung-pin
-  - Chen Chih-tung
-  - Lo Chih-chiang
-  - Hung Hsiu-chu
-  - Lu Shiow-yen
-  - Chiang Wan-an
-  - Jaw Shaw-kong
-  - Wang Huning
-  - Wang Yi
-  - Tsai Ing-wen
-  - Ko Wen-je
-  - Huang Kuo-chang
-  - Li Yi-hsiu
-  - Xin Haonian
-  - Volodymyr Zelenskyy
-  - Ma Ying-jeou
-  - James Soong
-  - Lee Teng-hui
-  - Lien Chan
-  - Sean Lien
-  - Hsu Hung-ting
-  - Hou Yu-ih
-  - Chou Wei-hang
-  - Anthony Wong
-  - He Weidong
-companies_orgs:
-  - Kuomintang
-  - Democratic Progressive Party
-  - Chinese Communist Party
-  - Xinhua News Agency
-  - Huang Fu-hsing Party Department
-  - Glorious Social Work Foundation
-  - Taiwan People's Party
-  - People First Party
-  - Want Want China Holdings
-  - NATO
-products_models: []
-media_books:
-  - 人民政协报
-  - 德国之声
 status: evergreen
+summary: 国民党党主席选举结果揭晓，郑立文当选，引发了对国民党未来路线及台海局势的广泛关注。本文深入分析了郑立文的“红统”立场，包括其对“九二共识”和“一中各表”的表述，以及对解放军围台军演的看法。探讨了中共贺电中微妙的措辞变化，并剖析了国民党内部华独派、建制派、洪统派和中间派的复杂生态。文章还讨论了中共可能通过扶持“红统”力量来影响台湾政治的策略，以及台湾社会对民主制度和两岸关系的不同认知，最终评估了此次选举对国民党长期发展和台海稳定的深远影响。
+tags:
+- china
+- cross-strait-relations
+- influence
+- kmt-leadership
+- political
+- science
+title: 红统党主席郑立文当选：国民党路线大摇摆及其对台海局势的影响
 ---
+
 ### 国民党主席选举与郑立文的当选
 
 对台湾问题的关注是毋庸置疑的。此前，台湾政治经历了一次大的波折，即“大罢免”行动。在“大罢免”大失败之后，国民党的势力反而变得很强，且台湾社会对民进党和赖清德政府的支持率也在下降。因此，国民党看到了希望，期待能在2026年的**九合一选举**（台湾地方公职人员选举，包括县市长、县市议员等）和2028年的总统选举中，在三届之后重新执政。在此背景下，谁将成为国民党的新主席人选，便成为了各方关注的焦点。

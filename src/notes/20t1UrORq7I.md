@@ -1,49 +1,49 @@
 ---
-author: How I AI
+area: tech-insights
+category: technology
+companies_orgs:
+- WorkOS
+- Google
+- OpenAI
+- Perplexity
+- Cursor
+- Canva
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+people:
+- Clarvo
+- Michael Rabone
+products_models:
+- Lovable
+- Midjourney
+- ChatGPT
+- Gemini Flash
+- WorkOS APIs
+- Google Fonts
+- Tailwind
+- Runaway Pancakes
+project:
+- ai-impact-analysis
+- vibe-coding
+series: ''
 source: https://www.youtube.com/watch?v=20t1UrORq7I
 speaker: How I AI
-tags:
-  - vibe-coding
-  - ai-design-tools
-  - recipe-management
-  - thanksgiving-planning
-  - web-development-tips
-title: AI赋能：用Lovable、Midjourney和ChatGPT打造专属感恩节派对中心
-summary: 本期《How I AI》节目展示了如何使用Lovable“Vibe Code”一个个性化的感恩节派对中心。节目分享了利用Google字体和Midjourney提升设计水平的技巧，以及使用ChatGPT简化食谱（尤其适合亲子烹饪）的独家秘诀。主持人Clarvo分享了关于主持、烹饪和网站建设的个人见解，旨在将基础原型转化为精美制作的“农场到餐桌”式软件，让您的节日聚会更加轻松愉快。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - vibe-coding
-people:
-  - Clarvo
-  - Michael Rabone
-companies_orgs:
-  - WorkOS
-  - Google
-  - OpenAI
-  - Perplexity
-  - Cursor
-  - Canva
-products_models:
-  - Lovable
-  - Midjourney
-  - ChatGPT
-  - Gemini Flash
-  - WorkOS APIs
-  - Google Fonts
-  - Tailwind
-  - Runaway Pancakes
-media_books:
-  - How I AI
 status: evergreen
+summary: 本期《How I AI》节目展示了如何使用Lovable“Vibe Code”一个个性化的感恩节派对中心。节目分享了利用Google字体和Midjourney提升设计水平的技巧，以及使用ChatGPT简化食谱（尤其适合亲子烹饪）的独家秘诀。主持人Clarvo分享了关于主持、烹饪和网站建设的个人见解，旨在将基础原型转化为精美制作的“农场到餐桌”式软件，让您的节日聚会更加轻松愉快。
+tags:
+- design
+- development
+- management
+- thanksgiving-planning
+- vibe-coding
+title: AI赋能：用Lovable、Midjourney和ChatGPT打造专属感恩节派对中心
 ---
+
 ### 欢迎来到《How I AI》
 
 欢迎回到《How I AI》，我是Clarvo，一名产品负责人和AI狂热者，肩负着帮助大家利用这些新工具更好地进行构建的使命。

@@ -1,47 +1,47 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 北约
+- 共同社
+- 言论NPO
+- 四川日中友好基金会
+- 北京大学
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《我国未绝技的弱点：太监化》
+people:
+- 梅洛尼
+- 高市早苗
+- Vladimir Putin
+- Donald Trump
+- 贝鲁斯科尼
+- 安倍晋三
+- 饶毅
+products_models:
+- 一带一路
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=e2VvxuaYRJ4
 speaker: 徒步的騎手
-tags:
-  - us-japan-alliance
-  - taiwan-strait
-  - authoritarian-diplomacy
-  - political-modernization
-  - civilizational-divide
-title: 台湾有事即日本有事：地缘政治的冰冷现实与中国“太监化”外交的根源
-summary: 本文探讨了当前世界分裂的趋势，以意大利总理梅洛尼和日本首相高市早苗的崛起为例，分析了清醒果断的政治家如何打破传统政治格局。文章深入剖析了“台湾有事就是日本有事”这一地缘政治现实，并揭示了中国“村霸加泼妇”式外交背后，由历史驯化和“太监化”文化导致的深层原因。最后，文章指出东亚地区正形成一条现代文明断层线，预示着潜在的冲突与挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 梅洛尼
-  - 高市早苗
-  - 普京
-  - 川普
-  - 贝鲁斯科尼
-  - 安倍晋三
-  - 饶毅
-companies_orgs:
-  - 北约
-  - 共同社
-  - 言论NPO
-  - 四川日中友好基金会
-  - 北京大学
-products_models:
-  - 一带一路
-media_books:
-  - 《我国未绝技的弱点：太监化》
 status: evergreen
+summary: 本文探讨了当前世界分裂的趋势，以意大利总理梅洛尼和日本首相高市早苗的崛起为例，分析了清醒果断的政治家如何打破传统政治格局。文章深入剖析了“台湾有事就是日本有事”这一地缘政治现实，并揭示了中国“村霸加泼妇”式外交背后，由历史驯化和“太监化”文化导致的深层原因。最后，文章指出东亚地区正形成一条现代文明断层线，预示着潜在的冲突与挑战。
+tags:
+- diplomacy
+- geopolitical
+- political
+- society
+- taiwan-strait
+title: 台湾有事即日本有事：地缘政治的冰冷现实与中国“太监化”外交的根源
 ---
+
 ### 世界的分裂与文明的进程
 
 今天将探讨“台湾有事就是日本有事”这一话题，因为这句话正引发中国与日本之间的激烈摩擦。近年来，人们常说世界正变得越来越分裂，至于具体如何分裂，每个人的感受可能不尽相同。有些国家突破了历史的桎梏，在政治和文化上展现出崭新的气象，现代文明化不断深化和拓展。然而，另一些国家在现代文明化反复难产之后，又一次回到历史的桎梏当中。中文世界对这种回到历史桎梏中的国家肯定不陌生，因为中国就是其中之一。改革开放尚未深化到制度层面，国家便又回到了皇帝与太监的统治模式。俄国亦是如此，几经折腾，最终变成了“普希金一家亲”，在历史的桎梏中自娱自虐。

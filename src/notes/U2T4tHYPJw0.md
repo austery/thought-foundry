@@ -1,103 +1,103 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Labour Party
+- Conservative Party
+- Liberal Democrats
+- 英国皇家检察署
+- MI6
+- GCHQ
+- MI5
+- Rhodium Group
+- Volkswagen
+- 小米
+- Morgan Stanley
+- Goldman Sachs
+- NVIDIA
+- OpenAI
+- Google
+- Maxon
+- Faulhaber
+- 禾赛科技
+- 速腾聚创
+- 蓝点触控
+- 坤为科技
+- 明智
+- 顶智
+- 绿的谐波
+- ATI
+- 清华大学
+- 麻省理工学院
+- 中国科学院
+- 华为
+- Jamestown Foundation
+- Australian Strategic Policy Institute
+- ITIF
+- KASTI
+- CSET
+- NATO
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《经济学人》
+- Politico
+- 《纽约时报》
+- Web of Science
+- 《把哈佛的中国学生送回家》
+- 《2025年将美国人工智能能力与中国脱钩法案》
+- 《1911年官方保密法》
+- 《道路交通安全法》
+people:
+- Donald Trump
+- Xi Jinping
+- Keir Starmer
+- Chris Cash
+- Chris Berry
+- Angela Rayner
+- Rachel Reeves
+- Rishi Sunak
+- Tony Radakin
+- Noah Barkin
+- Mike Gallagher
+- Jared Kushner
+- Cui Tiankai
+- Robert Lighthizer
+- Liu He
+- Janet Yellen
+- He Lifeng
+- Elon Musk
+- Jensen Huang
+- Steve Bannon
+- Qin Gang
+- Liu Jianchao
+- Wang Qishan
+- 赖清德
+- Ken McCallum
+products_models:
+- Optimus
+- Project GR00T
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=U2T4tHYPJw0
 speaker: FearNation 世界苦茶
-tags:
-  - us-china-competition
-  - taiwan-strait
-  - tech-decoupling
-  - regulatory-innovation
-  - geopolitical-strategy
-title: 多维透视：英美对华政策、科技竞争与台海局势的复杂交织
-summary: 本期节目深度分析了多篇国际智库和媒体文章，探讨了英国对华政策的转向、中国在自动驾驶和机器人领域的快速崛起及其对西方技术的依赖。同时，节目揭示了美中贸易谈判的僵局、特朗普对台海威胁的淡化，以及美国限制中国学生政策的潜在反噬效应。文章强调了地缘政治背景下，各国在经济利益、国家安全与科技竞争之间寻求平衡的复杂性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Keir Starmer
-  - Chris Cash
-  - Chris Berry
-  - Angela Rayner
-  - Rachel Reeves
-  - Rishi Sunak
-  - Tony Radakin
-  - Noah Barkin
-  - Mike Gallagher
-  - Jared Kushner
-  - Cui Tiankai
-  - Robert Lighthizer
-  - Liu He
-  - Janet Yellen
-  - He Lifeng
-  - Elon Musk
-  - Jensen Huang
-  - Steve Bannon
-  - Qin Gang
-  - Liu Jianchao
-  - Wang Qishan
-  - 赖清德
-  - Ken McCallum
-companies_orgs:
-  - Labour Party
-  - Conservative Party
-  - Liberal Democrats
-  - 英国皇家检察署
-  - MI6
-  - GCHQ
-  - MI5
-  - Rhodium Group
-  - Volkswagen
-  - 小米
-  - Morgan Stanley
-  - Goldman Sachs
-  - NVIDIA
-  - OpenAI
-  - Google
-  - Maxon
-  - Faulhaber
-  - 禾赛科技
-  - 速腾聚创
-  - 蓝点触控
-  - 坤为科技
-  - 明智
-  - 顶智
-  - 绿的谐波
-  - ATI
-  - 清华大学
-  - 麻省理工学院
-  - 中国科学院
-  - 华为
-  - Jamestown Foundation
-  - Australian Strategic Policy Institute
-  - ITIF
-  - KASTI
-  - CSET
-  - NATO
-products_models:
-  - Optimus
-  - Project GR00T
-media_books:
-  - 《经济学人》
-  - Politico
-  - 《纽约时报》
-  - Web of Science
-  - 《把哈佛的中国学生送回家》
-  - 《2025年将美国人工智能能力与中国脱钩法案》
-  - 《1911年官方保密法》
-  - 《道路交通安全法》
 status: evergreen
+summary: 本期节目深度分析了多篇国际智库和媒体文章，探讨了英国对华政策的转向、中国在自动驾驶和机器人领域的快速崛起及其对西方技术的依赖。同时，节目揭示了美中贸易谈判的僵局、特朗普对台海威胁的淡化，以及美国限制中国学生政策的潜在反噬效应。文章强调了地缘政治背景下，各国在经济利益、国家安全与科技竞争之间寻求平衡的复杂性。
+tags:
+- geopolitical-strategy
+- innovation
+- taiwan-strait
+- tech
+- us-china-relations
+title: 多维透视：英美对华政策、科技竞争与台海局势的复杂交织
 ---
+
 大家好，欢迎来到本期的世界苦茶观察线节目。观察线节目旨在汇总全球智库和国际媒体对中国问题的深度分析。本节目为AI制作，播放速度已照顾到收听较慢的听众，如果你觉得太慢可以调整至1.25倍。AI脚本和声音会不断优化。以下是精选的全世界对中国的分析，内容涵盖特朗普关于中国不会进攻台海的言论、中国机器人行业的新进展等。
 
 ### 英国对华政策的钟摆效应：经济与安全的权衡

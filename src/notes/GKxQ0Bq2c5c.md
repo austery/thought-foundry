@@ -1,73 +1,73 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- YC (Y Combinator)
+- Google
+- DeepMind
+- Tesla
+- SpaceX
+- xAI
+- Microsoft
+- Stripe
+- LinkedIn
+- Apple
 date: '2025-09-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《权力的游戏》
+- 《奥本海默》
+- 《AI帝国》
+people:
+- Elon Musk
+- Sam Altman
+- Bill Gates
+- Steve Jobs
+- Jeff Bezos
+- Mark Zuckerberg
+- Paul Graham
+- Larry Page
+- Sergey Brin
+- Nicole Shanahan
+- Ilya Sutskever
+- Greg Brockman
+- Andrej Karpathy
+- Reid Hoffman
+- Demis Hassabis
+- Lee Sedol
+- Donald Trump
+- Masayoshi Son
+- J. Robert Oppenheimer
+products_models:
+- AGI
+- AlphaGo
+- GPT-2
+- GPT-3
+- GPT-4
+- ChatGPT
+- Grok
+project:
+- us-analysis
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=GKxQ0Bq2c5c
 speaker: 北美王路飞
-tags:
-  - ai-governance
-  - power-struggle
-  - non-profit-to-profit-transition
-  - tech-rivalry
-  - founding-principles
-title: 马斯克与奥特曼的AI帝国之争：硅谷“权游”的十年恩怨
-summary: 本文深入探讨了埃隆·马斯克与萨姆·奥特曼之间长达十年的戏剧性竞争，追溯了他们从共同创立OpenAI，怀揣“拯救人类”的共同愿景，到最终走向激烈法律和商业对抗的历程。文章揭示了OpenAI内部的权力斗争、从非营利理想转向“利润上限”模式的转变，以及在通用人工智能（AGI）未来控制权背后，两位科技巨头复杂的人性、野心与权谋。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Elon Musk
-  - Sam Altman
-  - Bill Gates
-  - Steve Jobs
-  - Jeff Bezos
-  - Mark Zuckerberg
-  - Paul Graham
-  - Larry Page
-  - Sergey Brin
-  - Nicole Shanahan
-  - Ilya Sutskever
-  - Greg Brockman
-  - Andrej Karpathy
-  - Reid Hoffman
-  - Demis Hassabis
-  - Lee Sedol
-  - Donald Trump
-  - Masayoshi Son
-  - J. Robert Oppenheimer
-companies_orgs:
-  - OpenAI
-  - YC (Y Combinator)
-  - Google
-  - DeepMind
-  - Tesla
-  - SpaceX
-  - xAI
-  - Microsoft
-  - Stripe
-  - LinkedIn
-  - Apple
-products_models:
-  - AGI
-  - AlphaGo
-  - GPT-2
-  - GPT-3
-  - GPT-4
-  - ChatGPT
-  - Grok
-media_books:
-  - 《权力的游戏》
-  - 《奥本海默》
-  - 《AI帝国》
 status: evergreen
+summary: 本文深入探讨了埃隆·马斯克与萨姆·奥特曼之间长达十年的戏剧性竞争，追溯了他们从共同创立OpenAI，怀揣“拯救人类”的共同愿景，到最终走向激烈法律和商业对抗的历程。文章揭示了OpenAI内部的权力斗争、从非营利理想转向“利润上限”模式的转变，以及在通用人工智能（AGI）未来控制权背后，两位科技巨头复杂的人性、野心与权谋。
+tags:
+- ai-governance
+- non
+- power-struggle
+- principle
+- tech
+title: 马斯克与奥特曼的AI帝国之争：硅谷“权游”的十年恩怨
 ---
+
 ### 硅谷“权游”：马斯克与奥特曼的十年恩怨
 
 大家好，欢迎来到我的频道。今天我们要讲述的故事，堪称是硅谷版的**《权力的游戏》**（Game of Thrones: 一部讲述权力斗争的史诗奇幻小说及电视剧）。在我们这个时代，科技圈的神是换了一茬又一茬，从比尔·盖茨到史蒂夫·乔布斯，从贝索斯再到扎克伯格。要说现在哪两个名字放在一起最具戏剧性，最能体现出人性的复杂和权力的诱惑，那必须是埃隆·马斯克（Elon Musk）和萨姆·奥特曼（Sam Altman）。

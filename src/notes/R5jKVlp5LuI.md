@@ -1,43 +1,43 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- Live Ocean
 date: '2024-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nikolai Tangen
+- Peter Burling
+- Blair Tuke
+- Ben Ainslie
+- Nathan Outteridge
+- Guy Endean
+products_models:
+- America's Cup
+- 49er
+- SailGP
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=R5jKVlp5LuI
 speaker: Norges Bank Investment Management
-tags:
-  - risk-management
-  - decision-making
-  - team-dynamics
-  - process-orientation
-  - marine-conservation
-title: 帆船运动中的风险与决策：彼得·伯林访谈
-summary: 本文是挪威银行投资管理公司首席运营官尼古拉·唐根对帆船传奇彼得·伯林的访谈。伯林分享了他在美洲杯和奥运会中取得成功的经验，探讨了帆船运动与商业金融在风险管理、决策制定上的共通之处。他强调了技术创新、团队协作、开放沟通以及持续学习的重要性。此外，伯林还介绍了其海洋保护慈善机构“Live Ocean”的工作，呼吁关注海洋生态面临的紧迫挑战。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Nikolai Tangen
-  - Peter Burling
-  - Blair Tuke
-  - Ben Ainslie
-  - Nathan Outteridge
-  - Guy Endean
-companies_orgs:
-  - Norges Bank Investment Management
-  - Live Ocean
-products_models:
-  - America's Cup
-  - 49er
-  - SailGP
-media_books: []
 status: evergreen
+summary: 本文是挪威银行投资管理公司首席运营官尼古拉·唐根对帆船传奇彼得·伯林的访谈。伯林分享了他在美洲杯和奥运会中取得成功的经验，探讨了帆船运动与商业金融在风险管理、决策制定上的共通之处。他强调了技术创新、团队协作、开放沟通以及持续学习的重要性。此外，伯林还介绍了其海洋保护慈善机构“Live
+  Ocean”的工作，呼吁关注海洋生态面临的紧迫挑战。
+tags:
+- canada
+- decision-making
+- dynamic
+- environment
+- risk-management
+title: 帆船运动中的风险与决策：彼得·伯林访谈
 ---
+
 ### 帆船传奇的成功秘诀：庆祝、动力与风险
 
 大家好，我是**挪威银行投资管理公司**（Norges Bank Investment Management: 负责管理挪威主权财富基金）的**首席运营官**（COO: Chief Operating Officer）尼古拉·唐根。今天我非常高兴能邀请到彼得·伯林。彼得·伯林是帆船界的传奇人物，他曾三次赢得**美洲杯帆船赛**（America's Cup: 历史悠久的国际帆船赛事）冠军，包括最近的一次，还赢得了无数世界锦标赛和奥运会冠军。可以说，他最近一直在主宰帆船界。欢迎彼得！

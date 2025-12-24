@@ -1,40 +1,37 @@
 ---
-author: 徒步的騎手
-date: 2025-02-13
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=RMBcda2IFPk'
-speaker: 徒步的騎手
-tags:
-  - ordered-liberty
-  - constitutional-rights
-  - government-power
-  - abortion-rights
-  - gun-rights
-title: 法律如何为自由划界：美国经验与中国启示
-summary: 本期讲座深入探讨法律如何为个人自由设定界限，特别以美国最高法院的判例为核心，阐释“有秩序的自由”概念。文章通过堕胎权和持枪权两大争议焦点，分析了美国自由派与保守派在政府权力与公民自由边界上的分歧与演变。同时，文章也澄清了美国政府的多元结构及其在保护公民自由方面的双重作用，并反思了中国社会对自由的追求与现状，强调法律保障基本权利的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 乔治·华盛顿
-  - 约翰·保罗二世
-  - 约翰·阿什克罗夫特
-  - 本布里奇·科尔比
-  - 亚伯拉罕·林肯
-  - 莱昂纳德·科恩
+category: geopolitics
 companies_orgs:
-  - 美国最高法院
-  - 美国国会
-products_models: '[]'
+- 美国最高法院
+- 美国国会
+date: 2025-02-13
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- 乔治·华盛顿
+- 约翰·保罗二世
+- 约翰·阿什克罗夫特
+- 本布里奇·科尔比
+- 亚伯拉罕·林肯
+- 莱昂纳德·科恩
+products_models: '[]'
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=RMBcda2IFPk
+speaker: 徒步的騎手
 status: evergreen
+summary: 本期讲座深入探讨法律如何为个人自由设定界限，特别以美国最高法院的判例为核心，阐释“有秩序的自由”概念。文章通过堕胎权和持枪权两大争议焦点，分析了美国自由派与保守派在政府权力与公民自由边界上的分歧与演变。同时，文章也澄清了美国政府的多元结构及其在保护公民自由方面的双重作用，并反思了中国社会对自由的追求与现状，强调法律保障基本权利的重要性。
+tags:
+- ordered-liberty
+- power
+- right
+title: 法律如何为自由划界：美国经验与中国启示
 ---
 
 ### 法律与有秩序的自由

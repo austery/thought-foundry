@@ -1,57 +1,57 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 蚂蚁金融
+- 大疆
+- 比亚迪
+- 尚威士
+- 中储粮
+- 腾讯
+- 微博
+- Nvidia
+- 特斯拉
+- 日本加密货币协会
 date: '2024-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国家为什么失败》
+- 《自由的窄廊》
+people:
+- 熊彼特
+- 杨小凯
+- Elon Musk
+- 秦晖
+- 唐季
+- 成龙
+- 江雪
+products_models:
+- ChatGPT
+- GPU
+- 锂电池
+- 光伏电池板
+- 白皮松
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qkrxpQfeDZI
 speaker: 东京人文论坛
-tags:
-  - extractive-institutions
-  - technological-imitation
-  - creative-destruction
-  - economic-overcapacity
-  - social-governance
-title: 榨取型社会下的中国转型：模仿、创新与制度成本
-summary: 本文探讨了中国在转型过程中，作为一种榨取型社会，如何在全球经济中展现出强大的技术模仿能力和市场占有率。讨论深入分析了这种模式对创新生态、产业生命周期、社会自组织能力以及经济可持续性带来的深远影响和高昂成本。文章通过具体案例，揭示了中国社会在经济、政治和文化层面所面临的制度性榨取机制。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 熊彼特
-  - 杨小凯
-  - 马斯克
-  - 秦晖
-  - 唐季
-  - 成龙
-  - 江雪
-companies_orgs:
-  - 蚂蚁金融
-  - 大疆
-  - 比亚迪
-  - 尚威士
-  - 中储粮
-  - 腾讯
-  - 微博
-  - 英伟达
-  - 特斯拉
-  - 日本加密货币协会
-products_models:
-  - ChatGPT
-  - GPU
-  - 锂电池
-  - 光伏电池板
-  - 白皮松
-media_books:
-  - 《国家为什么失败》
-  - 《自由的窄廊》
 status: evergreen
+summary: 本文探讨了中国在转型过程中，作为一种榨取型社会，如何在全球经济中展现出强大的技术模仿能力和市场占有率。讨论深入分析了这种模式对创新生态、产业生命周期、社会自组织能力以及经济可持续性带来的深远影响和高昂成本。文章通过具体案例，揭示了中国社会在经济、政治和文化层面所面临的制度性榨取机制。
+tags:
+- creative-destruction
+- economic
+- extractive-institution
+- social
+- technological
+title: 榨取型社会下的中国转型：模仿、创新与制度成本
 ---
+
 ### 诺奖著作与中国转型：讨论的缘起
 
 本次讨论活动围绕诺贝尔经济学奖得主的研究，特别是其著作《国家为什么失败》和《自由的窄廊》，旨在探讨制度经济学与中国转型之间的关系。前一次活动主要由主讲人阐述，而本次及后续活动则更侧重于参与者之间的互动讨论，以期提升大家的参与感和吸收效果。本次讨论的核心是深入剖析中国转型中的具体问题，尤其是那些被主讲人称为“失败国家的千万细节”。这些细节对于理解不同国家模式的差异至关重要，因为若不关注细节，许多国家似乎仅有三四种模式。然而，诺奖得主的著作通过大量案例来论证其观点，而非依赖复杂的理论框架。因此，本次讨论也将以中国的具体例子来印证书中的理论。

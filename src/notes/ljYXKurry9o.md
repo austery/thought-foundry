@@ -1,43 +1,41 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- Google Research
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《嵌套学习：深度学习架构的幻象》
+products_models:
+- HOPE模型
+- Transformer
+- RetNet
+- DeltaNet
+- TTT
+- Samba
+- Titans (LMM)
+- CNN
+- MLP
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=ljYXKurry9o
 speaker: Best Partners TV
-tags:
-  - nested-learning
-  - deep-learning-limitations
-  - continuous-learning
-  - memory-consolidation
-  - ai-architecture
-title: 谷歌重磅论文揭示深度学习“记忆缺陷”：嵌套学习与HOPE模型如何突破AI瓶颈
-summary: 当前大语言模型存在“记忆缺陷”，即训练后难以持续学习新知识。谷歌研究院的《嵌套学习：深度学习架构的幻象》论文提出了一种全新的“嵌套学习”范式，借鉴人脑记忆机制，构建多层次、多时间尺度的学习框架。论文还设计了HOPE模型，在语言建模和常识推理任务中超越了主流架构，为持续学习和长上下文推理提供了颠覆性解决方案。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people: []
-companies_orgs:
-  - Google Research
-products_models:
-  - HOPE模型
-  - Transformer
-  - RetNet
-  - DeltaNet
-  - TTT
-  - Samba
-  - Titans (LMM)
-  - CNN
-  - MLP
-media_books:
-  - 《嵌套学习：深度学习架构的幻象》
 status: evergreen
+summary: 当前大语言模型存在“记忆缺陷”，即训练后难以持续学习新知识。谷歌研究院的《嵌套学习：深度学习架构的幻象》论文提出了一种全新的“嵌套学习”范式，借鉴人脑记忆机制，构建多层次、多时间尺度的学习框架。论文还设计了HOPE模型，在语言建模和常识推理任务中超越了主流架构，为持续学习和长上下文推理提供了颠覆性解决方案。
+tags:
+- architecture
+- continuous-learning
+- learning
+- memory
+title: 谷歌重磅论文揭示深度学习“记忆缺陷”：嵌套学习与HOPE模型如何突破AI瓶颈
 ---
+
 ### 深度学习的“记忆缺陷”与传统架构的局限
 
 近几年，**大语言模型**（Large Language Models: 简称LLM，指参数量巨大、能够理解和生成自然语言的人工智能模型）带来了很多震撼，但这些看似强大的模型背后，隐藏着一个致命的先天缺陷：它们本质上是静态的。这就像得了一种特殊的记忆疾病，训练结束后就很难再学习新的知识，只能依赖有限的上下文窗口进行即时适应，一旦超出了这个范围，就会忘记之前的信息。更关键的是，深度学习几十年来依赖的**层叠结构**（Layered Architecture: 指深度学习模型中由多个计算层堆叠而成的结构）在解决复杂算法的实现和持续学习等问题上，并没有我们想象中那么有效。

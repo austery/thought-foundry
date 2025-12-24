@@ -1,47 +1,47 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2024-06-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《不要出生，是不是比较好？》
+- 《奥义书》
+- 《传道书》
+- 《作为意志和表象的世界》
+- 《生而为人有多艰难》
+- 《悲剧的诞生》
+- 《法句经》
+- 《大般涅槃经》
+people:
+- Oedipus
+- Masao Sekine
+- Buddha
+- Schopenhauer
+- David Benatar
+- Nietzsche
+- Karl Löwith
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=fow0MhLJ2Iw
 speaker: 超級歪 SuperY
-tags:
-  - anti-natalism
-  - birth-affirmation
-  - existential-philosophy
-  - suffering-existence
-  - meaning-of-life
-title: 反出生主义：从古希腊到现代的哲学思辨
-summary: 本文深入探讨了“反出生主义”哲学思潮，从古希腊、古印度佛教追溯至叔本华和贝纳塔等现代哲学家。同时，文章也介绍了尼采的“肯定出生”哲学，通过“永恒轮回”和“爱命运”与之对话。文章分析了不同哲学流派对生命意义、痛苦与幸福的理解，以及在当代低生育率背景下，反出生主义重新引发社会讨论的原因。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - Oedipus
-  - Masao Sekine
-  - Buddha
-  - Schopenhauer
-  - David Benatar
-  - Nietzsche
-  - Karl Löwith
-companies_orgs: []
-products_models: []
-media_books:
-  - 《不要出生，是不是比较好？》
-  - 《奥义书》
-  - 《传道书》
-  - 《作为意志和表象的世界》
-  - 《生而为人有多艰难》
-  - 《悲剧的诞生》
-  - 《法句经》
-  - 《大般涅槃经》
 status: evergreen
+summary: 本文深入探讨了“反出生主义”哲学思潮，从古希腊、古印度佛教追溯至叔本华和贝纳塔等现代哲学家。同时，文章也介绍了尼采的“肯定出生”哲学，通过“永恒轮回”和“爱命运”与之对话。文章分析了不同哲学流派对生命意义、痛苦与幸福的理解，以及在当代低生育率背景下，反出生主义重新引发社会讨论的原因。
+tags:
+- anti
+- birth-affirmation
+- life
+- philosophy
+- suffering-existence
+title: 反出生主义：从古希腊到现代的哲学思辨
 ---
+
 ### 台湾低生育率与反出生主义的兴起
 
 根据2024年的统计调查，台湾的生育率在全球排名倒数第一，每位台湾女性的生育率仅为1.11人。这一数字不仅超越日本、直追韩国，使台湾成为亚洲乃至全球生育率最低的地区之一。随着越来越多的年轻人选择不婚不育，这种“不生”的趋势实际上自古有之。今天我们将探讨的正是近年来备受关注的“**反出生主义**”（Anti-natalism: 认为出生在世比未出生更糟，且出生在道德上是错误的哲学观点）哲学。

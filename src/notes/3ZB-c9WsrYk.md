@@ -1,87 +1,86 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 长荣航空
+- AMD
+- Alibaba
+- 京东集团
+- 拼多多
+- IBM
+- SAP
+- 戴尔
+- Microsoft
+- 东芝
+- 埃森哲
+- 摩根斯坦利
+- 爱立信
+- 亚马逊
+- Zoom
+- Google
+- Oracle
+- 普华永道
+- 佳能
+- 英特尔
+- 通用
+- 东风本田
+- Vmware
+- Broadcom
+- 新东方
+- 腾讯
+- 华为
+- 百度
+- 美团
+- 小米
+- 比亚迪
+- 国家电网
+- 中石油
+- 中石化
+- 中国铁道
+- 宝钢
+- 鞍钢
+- 平安保险
+- 中国移动
+- 国际货币基金组织
 date: '2024-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 苏姿丰
+- 马云
+- 罗永浩
+- 董宇辉
+- 李佳琦
+- 薇娅
+- 辛有志
+- 疯狂小杨哥
+products_models:
+- 拼多多
+- 京东
+- 淘宝天猫
+- 抖音
+- 快手
+project:
+- china-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=3ZB-c9WsrYk
 speaker: 莊也雜談
-tags:
-  - chinese-economy
-  - social-impact
-  - employment-trends
-  - e-commerce-platforms
-  - live-streaming-economy
-  - urban-life-china
-title: 中国经济下行与社会变迁：北京不同人群的生活图景
-summary: 本期节目，庄也深入探讨了中国经济下行背景下，北京不同社会群体的真实生活状态。他从退休老人、体制内人员、大型民企及外企员工等角度，剖析了当前就业压力、消费模式转变，以及直播带货等新兴行业带来的机遇与挑战。节目也触及了“去中国化”对外企员工的影响，展现了当下中国社会的复杂面貌。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - 苏姿丰
-  - 马云
-  - 罗永浩
-  - 董宇辉
-  - 李佳琦
-  - 薇娅
-  - 辛有志
-  - 疯狂小杨哥
-companies_orgs:
-  - 长荣航空
-  - AMD
-  - 阿里巴巴
-  - 京东集团
-  - 拼多多
-  - IBM
-  - SAP
-  - 戴尔
-  - 微软
-  - 东芝
-  - 埃森哲
-  - 摩根斯坦利
-  - 爱立信
-  - 亚马逊
-  - Zoom
-  - Google
-  - Oracle
-  - 普华永道
-  - 佳能
-  - 英特尔
-  - 通用
-  - 东风本田
-  - Vmware
-  - Broadcom
-  - 新东方
-  - 腾讯
-  - 华为
-  - 百度
-  - 美团
-  - 小米
-  - 比亚迪
-  - 国家电网
-  - 中石油
-  - 中石化
-  - 中国铁道
-  - 宝钢
-  - 鞍钢
-  - 平安保险
-  - 中国移动
-  - 国际货币基金组织
-products_models:
-  - 拼多多
-  - 京东
-  - 淘宝天猫
-  - 抖音
-  - 快手
-media_books: []
 status: evergreen
+summary: 本期节目，庄也深入探讨了中国经济下行背景下，北京不同社会群体的真实生活状态。他从退休老人、体制内人员、大型民企及外企员工等角度，剖析了当前就业压力、消费模式转变，以及直播带货等新兴行业带来的机遇与挑战。节目也触及了“去中国化”对外企员工的影响，展现了当下中国社会的复杂面貌。
+tags:
+- china
+- chinese-economy
+- economy
+- platform
+- social-impact
+- trend
+title: 中国经济下行与社会变迁：北京不同人群的生活图景
 ---
+
 ### 引言：回国见闻与争议反思
 
 大家好，欢迎收看庄也杂谈。今天我们继续聊我回国的话题。在开始之前，还是先交代两句。关于长荣航空退我第一排座位票钱的事，这事有了新的进展。前天查账户的时候，500多加币已经退回了我的信用卡，已经到账。再次感谢长荣航空。

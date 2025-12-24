@@ -1,45 +1,43 @@
 ---
-author: EO
+area: tech-insights
+category: technology
+companies_orgs:
+- Cinder
+- Meta
+- Y Combinator
+- Accel
+- NSA
+- CIA
+- FBI
+- National Center for Missing and Exploited Children
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Glen Wise
+- Michael Seibel
+- Declan
+products_models: []
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=xo3eKArnIo4
 speaker: EO
-tags:
-  - ai-safety
-  - online-harm
-  - trust-and-safety
-  - platform-abuse
-  - innovation-vs-regulation
-title: AI时代下的信任与安全：Cinder创始人Glen Wise的创业之路
-summary: 随着AI技术的普及，网络滥用和有害内容日益复杂。Cinder的联合创始人兼CEO Glen Wise分享了他从政府情报机构到Meta，再到创立Cinder的历程。他强调，在技术创新的同时，必须有人阻止有害行为的发生，以确保互联网的安全。CCinder致力于构建一个中心化的信任与安全平台，帮助企业应对从简单内容识别到复杂网络威胁的各类挑战，旨在让互联网成为一个更安全、更开放的空间。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Glen Wise
-  - Michael Seibel
-  - Declan
-companies_orgs:
-  - Cinder
-  - Meta
-  - Y Combinator
-  - Accel
-  - NSA
-  - CIA
-  - FBI
-  - Facebook
-  - National Center for Missing and Exploited Children
-products_models: []
-media_books: []
 status: evergreen
+summary: 随着AI技术的普及，网络滥用和有害内容日益复杂。Cinder的联合创始人兼CEO Glen Wise分享了他从政府情报机构到Meta，再到创立Cinder的历程。他强调，在技术创新的同时，必须有人阻止有害行为的发生，以确保互联网的安全。CCinder致力于构建一个中心化的信任与安全平台，帮助企业应对从简单内容识别到复杂网络威胁的各类挑战，旨在让互联网成为一个更安全、更开放的空间。
+tags:
+- ai-safety
+- innovation
+- online
+- platform
+- safety
+title: AI时代下的信任与安全：Cinder创始人Glen Wise的创业之路
 ---
+
 ### AI时代的潘多拉魔盒与安全需求
 
 技术的**潘多拉魔盒**（Pandora's Box: 指一旦开启便会释放出无数灾祸的源头）已经打开。现实是，孩子们正在与人工智能（AI）一同成长，他们与那些会说“是”、会迎合、会安抚他们的系统对话，因为这些系统就是被训练来做这些的。与此同时，AI也被用于非常可怕的事情。我认为这确实存在一个真正的担忧。

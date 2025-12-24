@@ -1,92 +1,91 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- OpenAI
+- Robinhood
+- Nvidia
+- Broadcom
+- Google
+- Lululemon
+- Costco
+- Oracle
+- Rocket Lab
+- Planet Labs
+- Amcor
+- SoFi
+- Meta
+- Apple
+- Tesla
+- Grab
+- TSM
+- Baba
+- Shopify
+- Disney
+- Thrive Capital
+- Anthropic
+- AMD
+- Microsoft
+- IBM
+- Samsung
+- Burger King
+- Warner Brothers
+- Netflix
+- Alphabet
+- JPMorgan
+- Goldman Sachs
+- Federal Reserve
+- Supreme Court
+- CFTC
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Time magazine
+- X
+- Chappelle Show
+people:
+- Sam
+- Chris
+- Steve
+- Tom Lee
+- Jensen Huang
+- Bob Iger
+- Larry Ellison
+- Elon Musk
+- Jerome Powell
+- Stephanie Guild
+- Courtney Reagan
+products_models:
+- GPT 5.2
+- Gemini Flash
+- H100
+- Blackwell
+- CUDA
+- NVLink
+- PeopleSoft
+- Starlink
+- Obamacare
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=fHSldYkntSc
 speaker: Amit Kukreja
-tags:
-  - ai-models
-  - market-outlook
-  - earnings-reports
-  - fed-policy
-  - semiconductor-industry
-title: AI模型发布、财报季与美联储政策展望：市场动态深度解析
-summary: 本期市场收盘节目深入探讨了当前复杂的市场环境，包括标普500指数逼近历史新高、OpenAI发布新模型GPT 5.2对谷歌的影响、以及博通、Lululemon和Costco的最新财报。节目嘉宾还详细分析了美联储的鸽派立场及其对经济、通胀和劳动力市场的影响。此外，还就英伟达的看涨前景、AI芯片竞争格局、住房市场趋势以及“太空数据中心”概念的未来进行了激烈的辩论和展望。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Sam
-  - Chris
-  - Steve
-  - Tom Lee
-  - Jensen Huang
-  - Bob Iger
-  - Larry Ellison
-  - Elon Musk
-  - Jerome Powell
-  - Stephanie Guild
-  - Courtney Reagan
-companies_orgs:
-  - OpenAI
-  - Robinhood
-  - Nvidia
-  - Broadcom
-  - Google
-  - Lululemon
-  - Costco
-  - Oracle
-  - Rocket Lab
-  - Planet Labs
-  - Amcor
-  - SoFi
-  - Meta
-  - Apple
-  - Tesla
-  - Grab
-  - TSM
-  - Baba
-  - Shopify
-  - Disney
-  - Thrive Capital
-  - Anthropic
-  - AMD
-  - Microsoft
-  - IBM
-  - Samsung
-  - Burger King
-  - Warner Brothers
-  - Netflix
-  - Alphabet
-  - JPMorgan
-  - Goldman Sachs
-  - Federal Reserve
-  - Supreme Court
-  - CFTC
-products_models:
-  - GPT 5.2
-  - Gemini Flash
-  - H100
-  - Blackwell
-  - CUDA
-  - NVLink
-  - PeopleSoft
-  - Starlink
-  - Obamacare
-media_books:
-  - Time magazine
-  - X
-  - Chappelle Show
 status: evergreen
+summary: 本期市场收盘节目深入探讨了当前复杂的市场环境，包括标普500指数逼近历史新高、OpenAI发布新模型GPT 5.2对谷歌的影响、以及博通、Lululemon和Costco的最新财报。节目嘉宾还详细分析了美联储的鸽派立场及其对经济、通胀和劳动力市场的影响。此外，还就英伟达的看涨前景、AI芯片竞争格局、住房市场趋势以及“太空数据中心”概念的未来进行了激烈的辩论和展望。
+tags:
+- ai-model
+- earnings-report
+- fed-policy
+- market-outlook
+- semiconductor
+title: AI模型发布、财报季与美联储政策展望：市场动态深度解析
 ---
+
 ### 市场概览与主要股票动态
 
 大家好，欢迎回到市场收盘节目。

@@ -1,66 +1,66 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- BP
+- Vale
+- Mitsui
+- NASA
+- Starbucks
+- United Nations
+- OECD
+- CCP
+- Soviet Union
+- International Energy Agency
+- Mondragon Cooperative
 date: '2023-07-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人类世的资本论》
+- 《资本论》
+- 《全球财富报告2022》
+people:
+- 斋藤幸平
+- William Nordhaus
+- Stephan Lessenich
+- Ulrich Brand
+- James Hansen
+- Bernie Sanders
+- Jeremy Corbyn
+- Roosevelt
+- Bolsonaro
+- Karl Marx
+- Edward Said
+- Justus von Liebig
+- Karl Fraas
+- Andreas Malm
+- Thomas Piketty
+- Erica Chenoweth
+- marxist-ecology
+products_models:
+- iPhone
+- 电动汽车
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ywDE1UvYLh4
 speaker: 超級歪 SuperY
-tags:
-  - degrowth-communism
-  - climate-crisis
-  - capitalism-critique
-  - greenwashing
-  - imperial-mode-of-living
-  - marxist-ecology
-title: 《人类世的资本论》：气候危机下的资本主义批判与“去成长共产主义”展望
-summary: 面对全球极端气候频发，本文深入探讨斋藤幸平《人类世的资本论》一书，批判资本主义通过“外部化”和“漂绿”掩盖环境破坏，并揭示“绿色新政”的局限性。文章从马克思晚年生态学笔记出发，提出“去成长共产主义”作为超越资本主义、重建公有财产、实现社会整体繁荣的解决方案，并以巴塞罗那的实践为例，呼吁社会转型。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - 斋藤幸平
-  - William Nordhaus
-  - Stephan Lessenich
-  - Ulrich Brand
-  - James Hansen
-  - Bernie Sanders
-  - Jeremy Corbyn
-  - Roosevelt
-  - Bolsonaro
-  - Karl Marx
-  - Edward Said
-  - Justus von Liebig
-  - Karl Fraas
-  - Andreas Malm
-  - Thomas Piketty
-  - Erica Chenoweth
-companies_orgs:
-  - BP
-  - Vale
-  - Mitsui
-  - NASA
-  - Starbucks
-  - United Nations
-  - OECD
-  - CCP
-  - Soviet Union
-  - International Energy Agency
-  - Mondragon Cooperative
-products_models:
-  - iPhone
-  - 电动汽车
-media_books:
-  - 《人类世的资本论》
-  - 《资本论》
-  - 《全球财富报告2022》
 status: evergreen
+summary: 面对全球极端气候频发，本文深入探讨斋藤幸平《人类世的资本论》一书，批判资本主义通过“外部化”和“漂绿”掩盖环境破坏，并揭示“绿色新政”的局限性。文章从马克思晚年生态学笔记出发，提出“去成长共产主义”作为超越资本主义、重建公有财产、实现社会整体繁荣的解决方案，并以巴塞罗那的实践为例，呼吁社会转型。
+tags:
+- capitalism-critique
+- crisis
+- degrowth-communism
+- environment
+- life
+title: 《人类世的资本论》：气候危机下的资本主义批判与“去成长共产主义”展望
 ---
+
 ### 极端气候下的全球困境与资本主义的失败
 
 今年，全球经历了百年未见的极端天气，台湾气温高达38摄氏度，仿佛一块被烘烤的地瓜，短短五天内有136人因中暑受伤。专家预测，未来四十年内，台湾可能将没有冬天。极端气候已然影响台湾，我们作为生于斯长于斯的人，该如何面对？今天，我们将通过《人类世的资本论》一书，深入探讨气候危机如何凸显资本主义的失效，以及如何通过“**去成长**”（Degrowth: 减少物质和能源消耗，以实现生态可持续性和社会公平）来达成2050年净零碳排放的目标。

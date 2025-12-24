@@ -1,38 +1,38 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Starbucks
+- 瑞幸咖啡
+- 库迪咖啡
 date: '2024-04-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Laxman Narasimhan
+products_models:
+- Deep Brew
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=pJOQdiXKwrM
 speaker: Shijun Tang
-tags:
-  - retail-finance-model
-  - consumer-loyalty-program
-  - brand-resilience
-  - market-penetration-challenge
-  - cash-flow-structure
-title: 绿色王者的陨落？星巴克股价深度分析：会员卡金融化与市场困局
-summary: 本文深入剖析星巴克最新财报，揭示其会员充值卡形成的22亿美元无息贷款如何重塑财务结构，并探讨其在中美市场面临的增长压力与品牌韧性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Laxman Narasimhan
-companies_orgs:
-  - Starbucks
-  - 瑞幸咖啡
-  - 库迪咖啡
-products_models:
-  - Deep Brew
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入剖析星巴克最新财报，揭示其会员充值卡形成的22亿美元无息贷款如何重塑财务结构，并探讨其在中美市场面临的增长压力与品牌韧性。
+tags:
+- brand-resilience
+- consumer
+- flow
+- market
+- model
+title: 绿色王者的陨落？星巴克股价深度分析：会员卡金融化与市场困局
 ---
+
 ### 星巴克股价与市场关注度的转折点
 
 大家好，欢迎来到我的频道。星巴克的股价最新已来到86.85美元，自跌破90美元后，正式进入我的关注范围。这家在1990年代迅速崛起的公司，曾以惊人的扩张速度占领全球市场，但其发展并非一帆风顺。

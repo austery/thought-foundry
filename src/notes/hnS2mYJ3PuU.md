@@ -1,37 +1,36 @@
 ---
-author: Nico投资有道
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Neverless
+- Revolut
+- Wise
+- SafePal
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nico
+products_models:
+- Neverless APP
+- Wise
+- Fiat24
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=hnS2mYJ3PuU
 speaker: Nico投资有道
-tags:
-  - llm
-  - crypto-exchange
-  - kyc-compliance
-title: Neverless：合规加密货币交易所的出入金解决方案
-summary: 介绍Neverless交易所的合规资质、入金方式、出金路径及增值服务，为加密货币投资者提供低成本且操作灵活的出入金解决方案。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Nico
-companies_orgs:
-  - Neverless
-  - Revolut
-  - Wise
-  - SafePal
-products_models:
-  - Neverless APP
-  - Wise
-  - Fiat24
-media_books: []
 status: evergreen
+summary: 介绍Neverless交易所的合规资质、入金方式、出金路径及增值服务，为加密货币投资者提供低成本且操作灵活的出入金解决方案。
+tags:
+- crypto-exchange
+title: Neverless：合规加密货币交易所的出入金解决方案
+companies:
+- kyc-compliance
 ---
+
 ### 欧洲持牌交易所Neverless简介
 
 **Neverless**是一家新兴的欧洲合规加密货币交易所，由前Revolut高管创立。Revolut作为一家知名的英国金融科技公司和持牌虚拟银行，在全球拥有5,000万用户基础。Neverless在合规方面拥有双重保障：获得了拉脱维亚的MIFID牌照（欧盟金融工具市场指令），并在西班牙完成了VASP登记。这些资质表明它能够合法提供加密货币投资服务，并具备KYC合规功能。

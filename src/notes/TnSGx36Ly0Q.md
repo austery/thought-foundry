@@ -1,51 +1,50 @@
 ---
-author: AI Engineer
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Los Alamos National Laboratory
+- Nvidia
+- HPE
+- OpenAI
+- Microsoft
+- UC family of schools
+- Department of Energy
+- Department of Defense
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Myshatyn
+products_models:
+- Maniac 1
+- GraceHopper
+- Venado
+- ChemCam
+- NIST AI Risk Management Framework
+- NIST 853
+- FedRAMP
+- CCSRG
+- CNSSI 1253
+project:
+- us-analysis
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=TnSGx36Ly0Q
 speaker: AI Engineer
-tags:
-  - government-ai
-  - ai-regulation
-  - national-security
-  - ai-agents
-  - data-classification
-title: 政府AI：智能代理如何应对严格监管与国家安全挑战
-summary: 洛斯阿拉莫斯国家实验室的企业AI架构师Mark Myshatyn探讨了该实验室在AI领域的悠久历史及其在核科学和国家安全任务中的应用。他强调了生成式AI和智能代理如何加速科学研究，并详细阐述了联邦政府在采纳AI工具时面临的严格监管、信任和安全挑战。讲座还讨论了与商业界和学术界合作的重要性，并为希望与政府合作开发AI解决方案的公司提供了关于可解释性、隔离性、治理和速度的指导。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Mark Myshatyn
-companies_orgs:
-  - Los Alamos National Laboratory
-  - Nvidia
-  - HPE
-  - OpenAI
-  - Microsoft
-  - UC family of schools
-  - Department of Energy
-  - Department of Defense
-products_models:
-  - Maniac 1
-  - GraceHopper
-  - Venado
-  - ChemCam
-  - NIST AI Risk Management Framework
-  - NIST 853
-  - FedRAMP
-  - CCSRG
-  - CNSSI 1253
-media_books: []
 status: evergreen
+summary: 洛斯阿拉莫斯国家实验室的企业AI架构师Mark Myshatyn探讨了该实验室在AI领域的悠久历史及其在核科学和国家安全任务中的应用。他强调了生成式AI和智能代理如何加速科学研究，并详细阐述了联邦政府在采纳AI工具时面临的严格监管、信任和安全挑战。讲座还讨论了与商业界和学术界合作的重要性，并为希望与政府合作开发AI解决方案的公司提供了关于可解释性、隔离性、治理和速度的指导。
+tags:
+- ai-agent
+- ai-regulation
+- data
+- government
+- national-security
+title: 政府AI：智能代理如何应对严格监管与国家安全挑战
 ---
+
 ### 洛斯阿拉莫斯国家实验室的AI之旅
 
 大家好，我是**洛斯阿拉莫斯国家实验室**（Los Alamos National Laboratory: LANL，美国能源部下属的核武器设计和科学研究机构）的企业AI架构师Mark Myshatyn。

@@ -1,41 +1,39 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-05-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Analects of Confucius
+- Zhenguan Zhengyao
+- Romance of the Three Kingdoms
+- What is Enlightenment?
+people:
+- Confucius
+- Li Shimin
+- Liu Bei
+- Cao Cao
+- Kant
+- Rogers
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=DdrqjtXGg-c
 speaker: Anthony看世界
-tags:
-  - unconditional-love
-  - self-acceptance
-  - shadow-self
-  - emotional-repression
-  - inner-world
-title: 接纳人性的复杂性：超越“容忍”，拥抱内在的阴暗面
-summary: 本文深入探讨了如何真正接纳人性的复杂性，包括其光明面与阴暗面。作者指出，真正的接纳并非传统文化中基于实用利益的“容忍”，而是一种纯粹的、无条件的精神理解。文章分析了人们为何害怕体验负面情绪，以及将内心想法等同于实际行为的心理误区。通过区分内在世界与外部现实，鼓励个体勇敢探索自我，实现精神整合，并将其视为一种高级审美体验和自我成长的过程。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Confucius
-  - Li Shimin
-  - Liu Bei
-  - Cao Cao
-  - Kant
-  - Rogers
-companies_orgs: []
-products_models: []
-media_books:
-  - Analects of Confucius
-  - Zhenguan Zhengyao
-  - Romance of the Three Kingdoms
-  - What is Enlightenment?
 status: evergreen
+summary: 本文深入探讨了如何真正接纳人性的复杂性，包括其光明面与阴暗面。作者指出，真正的接纳并非传统文化中基于实用利益的“容忍”，而是一种纯粹的、无条件的精神理解。文章分析了人们为何害怕体验负面情绪，以及将内心想法等同于实际行为的心理误区。通过区分内在世界与外部现实，鼓励个体勇敢探索自我，实现精神整合，并将其视为一种高级审美体验和自我成长的过程。
+tags:
+- emotional
+- inner-world
+- love
+- self
+title: 接纳人性的复杂性：超越“容忍”，拥抱内在的阴暗面
 ---
 
 ### 引言：接纳人性的复杂性

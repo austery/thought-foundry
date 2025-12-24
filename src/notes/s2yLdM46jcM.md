@@ -1,47 +1,47 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- World Labs
+- 斯坦福大学
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《计算机器与智能》
+people:
+- 李飞飞
+- Alan Turing
+- Eratosthenes
+- James Hargreaves
+- James Watson
+- Francis Crick
+products_models:
+- 大语言模型
+- 珍妮纺纱机
+- DNA双螺旋结构
+- Marble平台
+- RTFM
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=s2yLdM46jcM
 speaker: Best Partners TV
-tags:
-  - spatial-intelligence
-  - world-models
-  - ai-development
-  - cognitive-ai
-  - future-of-ai
-title: 李飞飞：AI的下一个十年是空间智能，构建世界模型面临三大挑战
-summary: 斯坦福大学教授李飞飞撰文指出，当前人工智能虽掌握海量抽象知识，却缺乏对物理世界常识和空间规律的理解，这成为AI升级的致命缺陷。她提出，AI的下一个十年突破在于解锁空间智能，并构建能够理解、推理、生成和交互的“世界模型”。文章详细阐述了世界模型应具备的生成式、多模态和交互性三大核心能力，并揭示了在训练任务函数、高质量数据获取及新型模型架构研发方面的三大挑战。李飞飞强调，空间智能是人类认知和文明进步的基础，AI应成为人类的伙伴，而非替代者，共同探索未来。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 李飞飞
-  - Alan Turing
-  - Eratosthenes
-  - James Hargreaves
-  - James Watson
-  - Francis Crick
-companies_orgs:
-  - World Labs
-  - 斯坦福大学
-products_models:
-  - 大语言模型
-  - 珍妮纺纱机
-  - DNA双螺旋结构
-  - Marble平台
-  - RTFM
-media_books:
-  - 《计算机器与智能》
 status: evergreen
+summary: 斯坦福大学教授李飞飞撰文指出，当前人工智能虽掌握海量抽象知识，却缺乏对物理世界常识和空间规律的理解，这成为AI升级的致命缺陷。她提出，AI的下一个十年突破在于解锁空间智能，并构建能够理解、推理、生成和交互的“世界模型”。文章详细阐述了世界模型应具备的生成式、多模态和交互性三大核心能力，并揭示了在训练任务函数、高质量数据获取及新型模型架构研发方面的三大挑战。李飞飞强调，空间智能是人类认知和文明进步的基础，AI应成为人类的伙伴，而非替代者，共同探索未来。
+tags:
+- ai-development
+- cognitive
+- future-of-ai
+- intelligence
+- world-model
+title: 李飞飞：AI的下一个十年是空间智能，构建世界模型面临三大挑战
 ---
+
 ### 李飞飞：AI的下一个十年是空间智能
 
 11月10日，李飞飞亲自撰文，认为**生成式AI**（Generative AI: 能够生成文本、图像、音频等新内容的AI模型）的下一个战场是**空间智能**（Spatial Intelligence: 理解、推理和操作三维空间信息的能力）。

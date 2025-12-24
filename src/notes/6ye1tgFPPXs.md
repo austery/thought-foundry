@@ -1,31 +1,28 @@
 ---
-title: 中国社会的三大网络理论：性压抑、立功梭哈与安卓苹果之辨
-summary: 本文探讨了中国社交媒体上流行的“性压抑”、“立功梭哈”和“安卓苹果”三大理论，分析其内涵、社会背景及其所反映的中国社会现象，包括婚恋观念、阶层分化与民众情绪。
 area: personal-growth
 category: culture
-project:
-- cultural-critique
-tags:
-- chinese-social-theories
-- incel
-- internet-culture
-- marriage-and-dating
-- social-stratification
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-10'
-author: 三個水槍手
-speaker: 三個水槍手
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=6ye1tgFPPXs
+speaker: 三個水槍手
 status: evergreen
+summary: 本文探讨了中国社交媒体上流行的“性压抑”、“立功梭哈”和“安卓苹果”三大理论，分析其内涵、社会背景及其所反映的中国社会现象，包括婚恋观念、阶层分化与民众情绪。
+tags:
+- culture
+- incel
+- marriage-and-dating
+- social
+title: 中国社会的三大网络理论：性压抑、立功梭哈与安卓苹果之辨
 ---
+
 ### 近期时事与舆论焦点
 
 主持人: 最近中国社会看似平静，但实际上却暗流涌动。国庆到元旦期间，通常是新闻的沉闷期，但今年即将召开的**四中全会**（Fourth Plenary Session: 中国共产党中央委员会全体会议，通常讨论和决定重大政策和人事问题）预计将是史上中央委员更换人数最多的一次。这反映出社会在表面平静之下，酝酿着潜在的变化。

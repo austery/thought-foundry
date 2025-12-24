@@ -1,38 +1,35 @@
 ---
-author: Veritasium
-date: '2021-07-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=rhgwIhB58PA
-speaker: Veritasium
-tags:
-  - veritasium
-  - learning-styles-myth
-  - education-research
-  - multimodal-learning
-  - critical-thinking
-  - cognitive-bias
-title: 教育界最大的迷思：学习风格真的存在吗？
-summary: 本文深入探讨了教育领域中广为流传的“学习风格”理论，特别是VARK模型。通过引用多项研究和实验，揭示了该理论缺乏确凿证据支持的事实。文章还解释了人们为何会误信学习风格，并提出了更有效的多模态学习方法，强调批判性思维在信息获取中的重要性。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - personal-growth-lab
-  - knowledge-pipeline
-people:
-  - Neil Fleming
-  - Derek Muller
+category: psychology
 companies_orgs:
-  - Google
-  - Veritasium
+- Google
+- Veritasium
+date: '2021-07-09'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Neil Fleming
+- Derek Muller
 products_models:
-  - VARK
-media_books: []
+- VARK
+project:
+- personal-growth-lab
+- knowledge-pipeline
+series: ''
+source: https://www.youtube.com/watch?v=rhgwIhB58PA
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了教育领域中广为流传的“学习风格”理论，特别是VARK模型。通过引用多项研究和实验，揭示了该理论缺乏确凿证据支持的事实。文章还解释了人们为何会误信学习风格，并提出了更有效的多模态学习方法，强调批判性思维在信息获取中的重要性。
+tags:
+- cognitive-bias
+- critical-thinking
+- education
+- learning
+title: 教育界最大的迷思：学习风格真的存在吗？
 ---
+
 ### 学习风格：一个普遍的信念
 
 本视频探讨的是学习风格。你属于哪种类型的学习者呢？

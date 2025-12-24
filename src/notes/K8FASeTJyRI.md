@@ -1,185 +1,185 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- Palantir
+- Nvidia
+- OpenAI
+- Duolingo
+- DoorDash
+- ELF
+- D-Wave Quantum
+- Oscar
+- Warner Brothers
+- Netflix
+- Comcast
+- Moderna
+- DataDog
+- Celsius
+- Alani Nu
+- Walmart
+- AMD
+- Soundtown
+- Airbnb
+- The Trade Desk
+- Iren
+- Archer
+- SMR
+- DraftKings
+- OpenDoor
+- Affirm
+- Square
+- MP Materials
+- Monster Energy
+- Peloton
+- Sweet Green
+- Wynn Hotels
+- Dropbox
+- Texas Roadhouse
+- USA Rare Earth
+- Coinbase
+- JP Morgan
+- Bank of America
+- Chipotle
+- McDonald's
+- Cava
+- Google
+- PayPal
+- Perplexity
+- Snapchat
+- SoftBank
+- Marvell
+- ARM
+- Qualcomm
+- Stagwell
+- Axios
+- Fox News
+- U.S. Supreme Court
+- Challenger, Gray & Christmas
+- BLS
+- ADP
+- UPS
+- Amazon
+- Target
+- Paramount
+- Rivian
+- Nebius
+- CoreWeave
+- ESPN
+- Microsoft
+- Figma
+- Circle
+- Berkshire Hathaway
+- BlackRock
+- Vanguard
+- ISS
+- Glass Lewis
+- Deepseek
+- Mizuho
+- Anthropic
+- Shift4
+- NASA
+- CMS
+- FDA
+- Eli Lilly
+- Novo Nordisk
+- EMD Serono
+- Uber
+- Polymarket
+- The Honest Company
+- Lyft
+- Joby Aviation
+- Dutch Bros
+- Oracle
+- Pinterest
+- Zeta Global
+- Tempus AI
+- Axon
+- Hims & Hers Health
+- Bitfarms
+- Rocket Lab
+- Super Micro Computer
+- Reddit
+- Meta
+- Salesforce
+- MercadoLibre
+- BigBear.ai
+- Verizon
+- Molina Healthcare
+- Cipher Mining
+- Micron Technology
+- Arista Networks
+- Vertiv
+- Vistra
+- Kratos Defense & Security Solutions
+- Chime
+- IonQ
+- Rigetti Computing
+- Oklo
+- Bloom Energy
+- Royal Caribbean
+- Take-Two Interactive
+- United Airlines
+- Delta Air Lines
+- Nike
+- Toast
+- MicroStrategy
+- Galaxy Digital
+- Apple
+- Ralph Lauren
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+people:
+- Jensen Huang
+- Sam Altman
+- Vlad Tenev
+- Alex Karp
+- Donald Trump
+- Larry Fink
+- Michael Burry
+- Nancy Pelosi
+- David Sacks
+- Peter Thiel
+- Mark Zuckerberg
+- Elon Musk
+- Robert F. Kennedy Jr.
+- Kathy Wood
+products_models:
+- Zepbound
+- Wegovy
+- Trump RX
+- Foundry
+- Gemini
+- Ironwood
+- Tranium
+- Maya
+- Siri
+- ChatGPT
+- Grok
+- Ozempic
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=K8FASeTJyRI
 speaker: Amit Kukreja
-tags:
-  - earnings-season
-  - market-volatility
-  - consumer-spending
-  - operating-leverage
-  - ai-investment
-title: Robinhood财报惊艳但市场为何抛售？深入解读财报季与宏观逆风
-summary: 本期市场分析深入探讨了2025年第三季度财报季的复杂动态。Robinhood公布了堪称现象级的财报，但股价不涨反跌，揭示了市场对已包含高预期的股票的审慎态度。同时，Duolingo、DoorDash等消费类股因指引疲软而遭重创，暗示消费者可能正在走弱。此外，英伟达CEO黄仁勋和OpenAI的言论引发了AI领域的不安。宏观层面，创纪录的裁员数据、政府停摆风险以及最高法院对关税的审理共同加剧了市场的不确定性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Jensen Huang
-  - Sam Altman
-  - Vlad Tenev
-  - Alex Karp
-  - Donald Trump
-  - Larry Fink
-  - Michael Burry
-  - Nancy Pelosi
-  - David Sacks
-  - Peter Thiel
-  - Mark Zuckerberg
-  - Elon Musk
-  - Robert F. Kennedy Jr.
-  - Kathy Wood
-companies_orgs:
-  - Robinhood
-  - Palantir
-  - Nvidia
-  - OpenAI
-  - Duolingo
-  - DoorDash
-  - ELF
-  - D-Wave Quantum
-  - Oscar
-  - Warner Brothers
-  - Netflix
-  - Comcast
-  - Moderna
-  - DataDog
-  - Celsius
-  - Alani Nu
-  - Walmart
-  - AMD
-  - Soundtown
-  - Airbnb
-  - The Trade Desk
-  - Iren
-  - Archer
-  - SMR
-  - DraftKings
-  - OpenDoor
-  - Affirm
-  - Square
-  - MP Materials
-  - Monster Energy
-  - Peloton
-  - Sweet Green
-  - Wynn Hotels
-  - Dropbox
-  - Texas Roadhouse
-  - USA Rare Earth
-  - Coinbase
-  - JP Morgan
-  - Bank of America
-  - Chipotle
-  - McDonald's
-  - Cava
-  - Google
-  - PayPal
-  - Perplexity
-  - Snapchat
-  - SoftBank
-  - Marvell
-  - ARM
-  - Qualcomm
-  - Stagwell
-  - Axios
-  - Fox News
-  - U.S. Supreme Court
-  - Challenger, Gray & Christmas
-  - BLS
-  - ADP
-  - UPS
-  - Amazon
-  - Target
-  - Paramount
-  - Rivian
-  - Nebius
-  - CoreWeave
-  - ESPN
-  - Microsoft
-  - Figma
-  - Circle
-  - Berkshire Hathaway
-  - BlackRock
-  - Vanguard
-  - ISS
-  - Glass Lewis
-  - Deepseek
-  - Mizuho
-  - Anthropic
-  - Shift4
-  - NASA
-  - CMS
-  - FDA
-  - Eli Lilly
-  - Novo Nordisk
-  - EMD Serono
-  - Uber
-  - Polymarket
-  - The Honest Company
-  - Lyft
-  - Joby Aviation
-  - Dutch Bros
-  - Oracle
-  - Pinterest
-  - Zeta Global
-  - Tempus AI
-  - Axon
-  - Hims & Hers Health
-  - Bitfarms
-  - Rocket Lab
-  - Super Micro Computer
-  - Reddit
-  - Meta
-  - Salesforce
-  - MercadoLibre
-  - BigBear.ai
-  - Verizon
-  - Molina Healthcare
-  - Cipher Mining
-  - Micron Technology
-  - Arista Networks
-  - Vertiv
-  - Vistra
-  - Kratos Defense & Security Solutions
-  - Chime
-  - IonQ
-  - Rigetti Computing
-  - Oklo
-  - Bloom Energy
-  - Royal Caribbean
-  - Take-Two Interactive
-  - United Airlines
-  - Delta Air Lines
-  - Nike
-  - Toast
-  - MicroStrategy
-  - Galaxy Digital
-  - Apple
-  - Ralph Lauren
-products_models:
-  - Zepbound
-  - Wegovy
-  - Trump RX
-  - Foundry
-  - Gemini
-  - Ironwood
-  - Tranium
-  - Maya
-  - Siri
-  - ChatGPT
-  - Grok
-  - Ozempic
-media_books:
-  - Financial Times
 status: evergreen
+summary: 本期市场分析深入探讨了2025年第三季度财报季的复杂动态。Robinhood公布了堪称现象级的财报，但股价不涨反跌，揭示了市场对已包含高预期的股票的审慎态度。同时，Duolingo、DoorDash等消费类股因指引疲软而遭重创，暗示消费者可能正在走弱。此外，英伟达CEO黄仁勋和OpenAI的言论引发了AI领域的不安。宏观层面，创纪录的裁员数据、政府停摆风险以及最高法院对关税的审理共同加剧了市场的不确定性。
+tags:
+- ai-investment
+- consumer-spending
+- earnings-season
+- market-volatility
+- technology
+title: Robinhood财报惊艳但市场为何抛售？深入解读财报季与宏观逆风
 ---
+
 ### 本周市场速览与宏观动态
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月6日，星期四，我们正在直播。在我看来，这周过得非常快。其他人有同感吗？上周感觉像过了一年，可能是因为事情太多了。真不敢相信已经是周四了，明天就是周五，一周又要结束了。

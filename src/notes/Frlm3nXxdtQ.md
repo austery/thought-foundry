@@ -1,42 +1,42 @@
 ---
-author: TVO Today
+area: society-systems
+category: science
+companies_orgs:
+- University of Toronto
+- Unicure
+- SickKids Hospital
+- Health Canada
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+people:
+- Rachel Harding
+- Terry Pirovolakis
+- Michael Pirovolakis
+products_models:
+- AMT-130
+- CRISPR
+project:
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Frlm3nXxdtQ
 speaker: TVO Today
-tags:
-  - rare-diseases
-  - gene-therapy
-  - medical-research
-  - patient-advocacy
-  - healthcare-access
-title: 罕见病研究现状：基因疗法突破与患者家庭的挑战
-summary: 本文探讨了罕见病研究的最新进展，特别是亨廷顿病和SPG50型痉挛性截瘫的基因疗法突破。Rachel Harding博士介绍了亨廷顿病基因疗法如何减缓疾病进展，Terry Pirovolakis分享了他儿子Michael与SPG50抗争并接受基因疗法的故事。文章还深入讨论了罕见病治疗面临的商业化障碍、高昂的治疗费用以及患者家庭在推动疗法研发中的关键作用，并展望了未来基因医学的发展方向，强调早期筛查的重要性。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Rachel Harding
-  - Terry Pirovolakis
-  - Michael Pirovolakis
-companies_orgs:
-  - University of Toronto
-  - Unicure
-  - SickKids Hospital
-  - Health Canada
-products_models:
-  - AMT-130
-  - CRISPR
-media_books:
-  - The Rundown
 status: evergreen
+summary: 本文探讨了罕见病研究的最新进展，特别是亨廷顿病和SPG50型痉挛性截瘫的基因疗法突破。Rachel Harding博士介绍了亨廷顿病基因疗法如何减缓疾病进展，Terry
+  Pirovolakis分享了他儿子Michael与SPG50抗争并接受基因疗法的故事。文章还深入讨论了罕见病治疗面临的商业化障碍、高昂的治疗费用以及患者家庭在推动疗法研发中的关键作用，并展望了未来基因医学的发展方向，强调早期筛查的重要性。
+tags:
+- health
+- healthcare-access
+- medical-research
+- patient-advocacy
+title: 罕见病研究现状：基因疗法突破与患者家庭的挑战
 ---
+
 ### 罕见病基因疗法的潜力与挑战
 
 **基于DNA的基因疗法**（DNA-based gene therapies: 利用DNA作为载体或工具来治疗疾病的方法）有潜力彻底改变我们对罕见病的理解，并提供新的治疗方案。

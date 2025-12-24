@@ -1,45 +1,37 @@
 ---
-title: "压缩即智能：AGI 的最小描述长度之路"
-summary: "OpenAI 研究员 Jack Rae 在斯坦福 MLSys 研讨会上深入探讨了压缩与通用人工智能（AGI）之间的本质联系。他论证了生成式模型实际上是最先进的无损压缩器，并基于最小描述长度（MDL）原则提出：更好的压缩意味着更强的泛化能力与理解力。文章结合算术编码、模型缩放定律及 S4 架构，解析了为何追求极致的数据压缩可能是通往 AGI 的关键路径，同时指出了当前像素级建模的局限性。"
-source: https://www.youtube.com/watch?v=dO4TPJkeaaU
-area: "tech-insights"
-speaker : Lei
-category : "technology"
-date: 2023-02-27
-project :
-    - ai-impact-analysis
-    - systems-thinking
-tags:
-  - "compression"
-  - "generalization"
-  - "minimum-description-length"
-  - "generative-models"
-  - "scaling-laws"
-
-people:
-layout: post.njk
+area: tech-insights
+category: technology
 companies_orgs:
-
- - "Stanford"
- - "OpenAI"
- - "FAIR"
-
-products_models:
-
-- "Llama"
-- "AlphaZero"
-- "BERT"
-- "GPT-2"
-- "S4"
-- "NNCP"
-- "OPT-175B"
-
+- Stanford
+- OpenAI
+- FAIR
+date: 2023-02-27
+layout: post.njk
 media_books:
-
--  "The New Yorker"
+- The New Yorker
+products_models:
+- Llama
+- AlphaZero
+- BERT
+- GPT-2
+- S4
+- NNCP
+- OPT-175B
+project:
+- ai-impact-analysis
+- systems-thinking
+source: https://www.youtube.com/watch?v=dO4TPJkeaaU
+speaker: Lei
+summary: OpenAI 研究员 Jack Rae 在斯坦福 MLSys 研讨会上深入探讨了压缩与通用人工智能（AGI）之间的本质联系。他论证了生成式模型实际上是最先进的无损压缩器，并基于最小描述长度（MDL）原则提出：更好的压缩意味着更强的泛化能力与理解力。文章结合算术编码、模型缩放定律及
+  S4 架构，解析了为何追求极致的数据压缩可能是通往 AGI 的关键路径，同时指出了当前像素级建模的局限性。
+tags:
+- canada
+- code
+- health
+- model
+- scaling-law
+title: 压缩即智能：AGI 的最小描述长度之路
 ---
-
-
 
 ###介绍与开场大家好，欢迎来到斯坦福 MLSys 研讨会系列的第 76 期。
 

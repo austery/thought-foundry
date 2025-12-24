@@ -1,40 +1,37 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
 date: '2024-05-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John Schulman
+products_models:
+- GPT-3
+- GPT-3.5
+- GPT-4
+- Lambda
+- Mina
+- ChatGPT
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ERpNuLzKmJY
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - prompt-engineering
-  - instruction-following
-  - conversational-ai
-  - rlhf
-title: ChatGPT诞生内幕：OpenAI联合创始人John Schulman的讲述
-summary: 本次访谈深入探讨了大型语言模型（LLM）的发展历程，从OpenAI的基础模型到指令遵循模型，再到ChatGPT的诞生。演讲者**John Schulman**回顾了早期模型面临的挑战，如提示复杂性，以及Google等公司在聊天AI领域的探索。他重点介绍了**GPT-3.5**和**GPT-4**的演进，**强化学习（RL）**在模型训练中的作用，以及如何通过混合指令和聊天数据，最终打造出更易用、行为更合理的**ChatGPT**。访谈还触及了微调API的局限性以及模型在可靠性和事实性方面的挑战。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - John Schulman
-companies_orgs:
-  - OpenAI
-  - Google
-products_models:
-  - GPT-3
-  - GPT-3.5
-  - GPT-4
-  - Lambda
-  - Mina
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 本次访谈深入探讨了大型语言模型（LLM）的发展历程，从OpenAI的基础模型到指令遵循模型，再到ChatGPT的诞生。演讲者**John Schulman**回顾了早期模型面临的挑战，如提示复杂性，以及Google等公司在聊天AI领域的探索。他重点介绍了**GPT-3.5**和**GPT-4**的演进，**强化学习（RL）**在模型训练中的作用，以及如何通过混合指令和聊天数据，最终打造出更易用、行为更合理的**ChatGPT**。访谈还触及了微调API的局限性以及模型在可靠性和事实性方面的挑战。
+tags:
+- instruction-following
+- llm
+- technology
+title: ChatGPT诞生内幕：OpenAI联合创始人John Schulman的讲述
 ---
+
 ### LLM的未来与聊天机器人
 
 你是在什么时候，**OpenAI**联合创始人**John Schulman**，意识到**大型语言模型（LLM）**是未来的方向，并且开发一个像**ChatGPT**这样的聊天机器人，或者某种指令遵循的方式来指导它们，会是一件有用的事情？在**ChatGPT**出现之前，**OpenAI**就已经有了**指令遵循模型（Instruction Following Models）**。当时的想法是，我们有基础模型（base models），人们可以通过复杂的方式来提示它们。但这些模型很难提示，它们本质上是进行自动补全，所以你需要设置一个非常好的提示，并包含一些示例。

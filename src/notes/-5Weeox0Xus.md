@@ -1,52 +1,52 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- OPEC
+- Morgan Stanley
+- Memorial Sloan Kettering
 date: '2024-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+- Financial Times
+- More Money Than God
+people:
+- Nicola Tangan
+- Stan Druckenmiller
+- George Soros
+- Scott Bessent
+- Alan Greenspan
+- Ed Hyman
+- Christian Broda
+- Gary Kasparov
+- Sebastian Mallaby
+- Helmut Schlesinger
+products_models:
+- ChatGPT
+- CUDA
+project:
+- investment-strategy
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=-5Weeox0Xus
 speaker: Norges Bank Investment Management
-tags:
-  - macro-investing
-  - fed-policy
-  - inflation-outlook
-  - ai-investment
-  - investment-philosophy
-title: 斯坦·德鲁肯米勒：洞察宏观经济、AI投资与美联储政策的传奇投资人
-summary: 传奇宏观投资者斯坦·德鲁肯米勒在访谈中分享了他对当前经济形势、美联储政策、AI投资热潮以及个人投资哲学的深刻见解。他强调了自下而上的宏观分析方法，对美联储过早宣布抗通胀胜利表示担忧，并探讨了AI领域未来的投资机会。德鲁肯米勒还回顾了其职业生涯中的关键交易，如1992年做空英镑，并分享了其“先买后分析”的策略以及对年轻投资者的建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - historical-insights
-people:
-  - Nicola Tangan
-  - Stan Druckenmiller
-  - George Soros
-  - Scott Bessent
-  - Alan Greenspan
-  - Ed Hyman
-  - Christian Broda
-  - Gary Kasparov
-  - Sebastian Mallaby
-  - Helmut Schlesinger
-companies_orgs:
-  - Norges Bank Investment Management
-  - OPEC
-  - Morgan Stanley
-  - Memorial Sloan Kettering
-products_models:
-  - ChatGPT
-  - CUDA
-media_books:
-  - The Wall Street Journal
-  - Financial Times
-  - More Money Than God
 status: evergreen
+summary: 传奇宏观投资者斯坦·德鲁肯米勒在访谈中分享了他对当前经济形势、美联储政策、AI投资热潮以及个人投资哲学的深刻见解。他强调了自下而上的宏观分析方法，对美联储过早宣布抗通胀胜利表示担忧，并探讨了AI领域未来的投资机会。德鲁肯米勒还回顾了其职业生涯中的关键交易，如1992年做空英镑，并分享了其“先买后分析”的策略以及对年轻投资者的建议。
+tags:
+- ai-investment
+- fed-policy
+- inflation-outlook
+- investing
+- investment-philosophy
+title: 斯坦·德鲁肯米勒：洞察宏观经济、AI投资与美联储政策的传奇投资人
 ---
+
 ### 宏观经济展望与美联储政策
 
 **Nicola Tangan:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 负责管理挪威政府全球养老基金）的首席执行官尼古拉·坦根。今天，我与投资界的传奇人物斯坦·德鲁肯米勒（**Stan Druckenmiller**: 著名宏观对冲基金经理，索罗斯量子基金前首席策略师）在这里。斯坦，很高兴见到你。你目前最关注哪些重要数据？

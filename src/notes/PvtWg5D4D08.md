@@ -1,38 +1,37 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs:
+- 中国央行
+- 统计局
+- 证监会
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 吴清
+products_models:
+- Surfshark VPN
+project:
+- china-analysis
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=PvtWg5D4D08
 speaker: 小翠時政財經
-tags:
-  - china-economy
-  - employment-crisis
-  - consumption-decline
-  - deflation-risk
-  - investment-sentiment
-title: 央行报告揭示中国经济三大困境：就业恶化、消费低迷与内需萎缩
-summary: 中国央行最新季度调查报告揭示了当前经济面临的严峻挑战。报告显示，居民收入信心不足，就业形势持续恶化，青年失业率高企。尽管A股上涨，但居民风险偏好依然较低，储蓄意愿强烈，消费和投资意愿减弱。企业面临通缩压力，销售价格下降而原材料成本上升，内需市场竞争激烈。整体经济体感偏冷，亟需政策有效应对。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - market-cycles
-  - investment-strategy
-people:
-  - 吴清
-companies_orgs:
-  - 中国央行
-  - 统计局
-  - 证监会
-products_models:
-  - Surfshark VPN
-media_books: []
 status: evergreen
+summary: 中国央行最新季度调查报告揭示了当前经济面临的严峻挑战。报告显示，居民收入信心不足，就业形势持续恶化，青年失业率高企。尽管A股上涨，但居民风险偏好依然较低，储蓄意愿强烈，消费和投资意愿减弱。企业面临通缩压力，销售价格下降而原材料成本上升，内需市场竞争激烈。整体经济体感偏冷，亟需政策有效应对。
+tags:
+- china-economy
+- crisis
+- decline
+- investment
+- risk
+title: 央行报告揭示中国经济三大困境：就业恶化、消费低迷与内需萎缩
 ---
+
 大家好，欢迎回到小翠时政财经。
 
 ### 央行调查报告及时发布：经济摸底与挑战

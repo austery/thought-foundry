@@ -1,58 +1,58 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 联合国人权高专办
+- 澳洲战略政策研究所
+- 中共
+- 法务部
+- 警察大学
+- 公安局
+- 高等人民法院
+- 检察院
+- 居委会
+- 村委会
+- 韶关血日玩具厂
 date: '2023-01-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《美国社会学评论》
+- 《中国研究三部曲》
+- 《新疆镇压档案》
+- 《新疆受害者资料库》
+- 微博
+- white-paper-protest
+people:
+- Xi Jinping
+- 李克强
+- 朱海伦
+- 马飞
+- 熊选国
+- 阿娜伊提·阿布利兹
+- 江国庆
+- 赖永连
+- 李建军
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=I4sHPxToexc
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - mass-incarceration
-  - xinjiang-crackdown
-  - zero-covid-policy
-  - white-paper-protest
-  - authoritarian-governance
-title: 中国的“大监禁时代”：从新疆镇压、清零到白纸运动，解析习近平的治理逻辑
-summary: 本文探讨了中国在过去十年中进入的“大监禁时代”，重点分析了新疆镇压和新冠清零政策下的大规模任意监禁。文章指出，这些政策反映了习近平的运动式治理逻辑，即通过强力控制而非解决根本社会问题来维护稳定。同时，也揭示了这些政策如何导致社会矛盾激化，并最终引发了白纸运动等政治性抗争，迫使当局做出妥协。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 习近平
-  - 李克强
-  - 朱海伦
-  - 马飞
-  - 熊选国
-  - 阿娜伊提·阿布利兹
-  - 江国庆
-  - 赖永连
-  - 李建军
-companies_orgs:
-  - 联合国人权高专办
-  - 澳洲战略政策研究所
-  - 中共
-  - 法务部
-  - 警察大学
-  - 公安局
-  - 高等人民法院
-  - 检察院
-  - 居委会
-  - 村委会
-  - 韶关血日玩具厂
-products_models: []
-media_books:
-  - 《美国社会学评论》
-  - 《中国研究三部曲》
-  - 《新疆镇压档案》
-  - 《新疆受害者资料库》
-  - 微博
 status: evergreen
+summary: 本文探讨了中国在过去十年中进入的“大监禁时代”，重点分析了新疆镇压和新冠清零政策下的大规模任意监禁。文章指出，这些政策反映了习近平的运动式治理逻辑，即通过强力控制而非解决根本社会问题来维护稳定。同时，也揭示了这些政策如何导致社会矛盾激化，并最终引发了白纸运动等政治性抗争，迫使当局做出妥协。
+tags:
+- authoritarian-governance
+- canada
+- history
+- policy
+title: 中国的“大监禁时代”：从新疆镇压、清零到白纸运动，解析习近平的治理逻辑
 ---
+
 ### 国际视野下的“大规模监禁”现象
 
 大家好，这里是寿司坦丁，在这里你可以用最轻松的方式接收国际上最有趣的社会科学研究发现。今天的主题是“大规模监禁”，这是一个在美国备受关注的问题。在1990年代后半段，美国开始进行社会福利改革，福利支出大幅缩减，朝向**从福利到工作**（workfare: 将社会福利转变为短期津贴，旨在帮助受助者在找到自给自足的工作前维持生计）的方向前进。这意味着社会福利变成了一种让你在找到养得起自己的工作之前，不至于饿死的短期津贴。十年之间，福利支出在美国GDP的比例重叠一个百分比，这明显是为了解决福利依赖的问题，也就是担心社会福利会让人失去工作的动力。

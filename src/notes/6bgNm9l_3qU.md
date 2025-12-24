@@ -1,37 +1,35 @@
 ---
-author: Veritasium
-date: '2023-06-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6bgNm9l_3qU
-speaker: Veritasium
-tags:
-  - veritasium
-  - funnel-web-spider
-  - venom-extraction
-  - antivenom-production
-  - neurotoxin
-  - public-health
-title: 揭秘漏斗网蜘蛛：地球上最致命毒液的提取与抗蛇毒血清的生产
-summary: 本文深入探讨了澳大利亚漏斗网蜘蛛的致命毒液及其对人类的独特影响。文章详细介绍了这种蜘蛛的习性、毒液作用机制，以及澳大利亚爬行动物公园如何通过人工提取毒液并利用兔子生产救命的抗蛇毒血清。自1981年以来，这项重要的工作已成功避免了漏斗网蜘蛛咬伤致死事件，强调了科学研究在公共健康安全中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Derek Muller
-  - Jake
+category: science
 companies_orgs:
-  - Australian Reptile Park
-  - BetterHelp
+- Australian Reptile Park
+- BetterHelp
+date: '2023-06-21'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Jake
 products_models: []
-media_books: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=6bgNm9l_3qU
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了澳大利亚漏斗网蜘蛛的致命毒液及其对人类的独特影响。文章详细介绍了这种蜘蛛的习性、毒液作用机制，以及澳大利亚爬行动物公园如何通过人工提取毒液并利用兔子生产救命的抗蛇毒血清。自1981年以来，这项重要的工作已成功避免了漏斗网蜘蛛咬伤致死事件，强调了科学研究在公共健康安全中的关键作用。
+tags:
+- business
+- code
+- health
+- public-health
+- venom-extraction
+title: 揭秘漏斗网蜘蛛：地球上最致命毒液的提取与抗蛇毒血清的生产
 ---
+
 ### 漏斗网蜘蛛：致命威胁与毒液提取
 
 对于某些人来说，这个房间可能是地球上最可怕的地方。

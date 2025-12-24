@@ -1,62 +1,63 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Motorola
+- Nokia
+- Ericson
+- MIT
 date: '2025-01-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《匠人》
+- 《百科全书》
+- 《民主与教育》
+people:
+- Richard Sennett
+- Daniel Levitin
+- Hobbes
+- Suzuki Shoichi
+- David Sudnow
+- Michael Polanyi
+- Merleau-Ponty
+- Ivan Sutherland
+- Renzo Piano
+- Hayao Miyazaki
+- Christopher Wren
+- John Dewey
+- Pico della Mirandola
+- Diderot
+- John Ruskin
+- Edwards Deming
+- Richard Lester
+- Michael Piore
+- Huizinga
+- Erik Erikson
+- Catherine the Great
+products_models:
+- CAD software
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Ne7SDQ1VlgQ
 speaker: 超級歪 SuperY
-tags:
-  - craftsman-spirit
-  - implicit-knowledge
-  - human-creativity
-  - skill-acquisition
-  - industrial-revolution
-title: 《匠人》：重拾被现代社会遗忘的匠人精神与创造力
-summary: 美国社会学家理查德·桑内特在其著作《匠人》中，深入探讨了匠人精神的本质、锻造过程及其在历史长河中的演变。本文将分析匠人如何通过身体感知、内隐知识、工具运用和直觉飞跃来磨练技艺，以及耐心和逆向思维在面对困难时的重要性。同时，文章也揭示了匠人精神在现代社会中被贬低和忽视的原因，并探讨了如何从童年游戏和合作文化中重新找回这份被遗忘的创造力与工作热情。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Richard Sennett
-  - Daniel Levitin
-  - Hobbes
-  - Suzuki Shoichi
-  - David Sudnow
-  - Michael Polanyi
-  - Merleau-Ponty
-  - Ivan Sutherland
-  - Renzo Piano
-  - Hayao Miyazaki
-  - Christopher Wren
-  - John Dewey
-  - Pico della Mirandola
-  - Diderot
-  - John Ruskin
-  - Edwards Deming
-  - Richard Lester
-  - Michael Piore
-  - Huizinga
-  - Erik Erikson
-  - Catherine the Great
-companies_orgs:
-  - Motorola
-  - Nokia
-  - Ericson
-  - MIT
-products_models:
-  - CAD software
-media_books:
-  - 《匠人》
-  - 《百科全书》
-  - 《民主与教育》
 status: evergreen
+summary: 美国社会学家理查德·桑内特在其著作《匠人》中，深入探讨了匠人精神的本质、锻造过程及其在历史长河中的演变。本文将分析匠人如何通过身体感知、内隐知识、工具运用和直觉飞跃来磨练技艺，以及耐心和逆向思维在面对困难时的重要性。同时，文章也揭示了匠人精神在现代社会中被贬低和忽视的原因，并探讨了如何从童年游戏和合作文化中重新找回这份被遗忘的创造力与工作热情。
+tags:
+- human
+- philosophy
+- revolution
+- skill
+title: 《匠人》：重拾被现代社会遗忘的匠人精神与创造力
+companies:
+- craftsman-spirit
 ---
+
 ### 匠人精神的定义与一万小时定律
 
 你是否曾好奇，伟大的作品是如何被创造出来的？美国社会学家理查德·桑内特（Richard Sennett）研究了各行各业的顶尖人物，包括音乐家、建筑师、工匠和日本匠人，他发现这些人普遍拥有一种共同的特质，这便是所谓的**匠人精神**（Craftsman Spirit: 一种追求卓越、精益求精的工作态度和能力）。今天我们将探讨桑内特的著作《匠人》，分析匠人精神是如何被锻造的，为何当代社会不再鼓励这种精神，以及我们如何才能找回每个人心中的匠人。

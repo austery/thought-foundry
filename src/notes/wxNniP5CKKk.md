@@ -1,31 +1,30 @@
 ---
-title: Stephen Wolfram拆解ChatGPT本质：幻觉智能与文字接龙的奥秘
-summary: 基于Stephen Wolfram的著作，本文深入剖析ChatGPT的运作机制，揭示其“智能”实为强大文字接龙的幻觉。探讨AI成功要素、神经网络原理、词嵌入与注意力机制，并提出结合符号计算AI以克服其局限性。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- computational-irreducibility
-- neural-networks
-people:
-- stephen-wolfram
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models:
-- chatgpt
-media_books: []
 date: '2025-09-11'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people:
+- stephen-wolfram
+products_models:
+- chatgpt
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=wxNniP5CKKk
+speaker: 北美王路飞
 status: evergreen
+summary: 基于Stephen Wolfram的著作，本文深入剖析ChatGPT的运作机制，揭示其“智能”实为强大文字接龙的幻觉。探讨AI成功要素、神经网络原理、词嵌入与注意力机制，并提出结合符号计算AI以克服其局限性。
+tags:
+- computational-irreducibility
+- neural-network
+title: Stephen Wolfram拆解ChatGPT本质：幻觉智能与文字接龙的奥秘
 ---
+
 ### ChatGPT本质的深度解析
 
 本期节目将深入探讨**ChatGPT**（Generative Pre-trained Transformer: 一种基于深度学习的语言模型）的本质。内容基于Stephen Wolfram于2023年发表的著作《ChatGPT在做什么以及它为什么能够成功》。主持人此前也曾制作过关于此书的节目，但因流量较低而未能广泛传播。现在重新制作，希望能为听众带来更深刻的理解。

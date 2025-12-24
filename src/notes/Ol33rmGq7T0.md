@@ -1,38 +1,35 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 初日醫學
+- Cofit
+- 卫福部
 date: '2025-02-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李思賢
+products_models:
+- Inbody
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Ol33rmGq7T0
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - metabolic-health
-  - body-composition
-  - visceral-fat
-  - insulin-resistance
-  - weight-management
-  - healthy-lifestyle
-title: 瘦不代表健康：揭秘“代谢健康型肥胖”与“隐形胖”的真相
-summary: 本篇文章深入探讨了两种特殊的肥胖类型：代谢健康型肥胖（MHO）和外瘦内胖（TOFI，即“泡芙人”）。MHO患者体重超标但代谢指标正常，脂肪主要集中于皮下；而TOFI患者外表纤瘦，内脏脂肪却严重超标，面临更高的代谢疾病风险。文章详细解释了这两种情况的特征、对健康的潜在威胁，并提供了具体的改善方法，包括饮食调整、运动建议及简单的自我检测方式，帮助读者更全面地理解和管理自身健康。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 李思賢
-companies_orgs:
-  - 初日診所
-  - 初日醫學
-  - Cofit
-  - 卫福部
-products_models:
-  - Inbody
-media_books: []
 status: evergreen
+summary: 本篇文章深入探讨了两种特殊的肥胖类型：代谢健康型肥胖（MHO）和外瘦内胖（TOFI，即“泡芙人”）。MHO患者体重超标但代谢指标正常，脂肪主要集中于皮下；而TOFI患者外表纤瘦，内脏脂肪却严重超标，面临更高的代谢疾病风险。文章详细解释了这两种情况的特征、对健康的潜在威胁，并提供了具体的改善方法，包括饮食调整、运动建议及简单的自我检测方式，帮助读者更全面地理解和管理自身健康。
+tags:
+- health
+- insulin-resistance
+- metabolic-health
+- weight-management
+title: 瘦不代表健康：揭秘“代谢健康型肥胖”与“隐形胖”的真相
 ---
+
 ### 瘦不代表健康：重新认识肥胖与健康的复杂关系
 
 大家好，我是初日診所的思思醫師。多数人都会同意“瘦比胖更健康”这句话，然而近年来的研究告诉我们，身材胖瘦与健康之间的关系，并非大家印象中那么简单。我参考了我的门诊经验和相关研究，发现有两种“胖”特别值得我们深入探讨，它们可能会挑战传统上对肥胖与健康的认知。

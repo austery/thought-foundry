@@ -1,57 +1,56 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Royal African Company
+- British Board of Trade
 date: '2024-06-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《政府论》
+- 《理想国》
+- 《联邦党人文集第十篇》
+people:
+- John Locke
+- Aristotle
+- Thomas Hobbes
+- Robert Boyle
+- Jean-Jacques Rousseau
+- Karl Marx
+- C.B. Macpherson
+- Benjamin Franklin
+- Thomas Jefferson
+- James Madison
+- Jeremy Bentham
+- John Rawls
+- G.A. Cohen
+- Domenico Losurdo
+- James II
+- Plato
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=IZXhxB0WCtI
 speaker: 超級歪 SuperY
-tags:
-  - liberalism
-  - property-rights
-  - state-of-nature
-  - social-contract
-  - colonialism
-  - capitalism
-  - majority-rule
-  - right-to-revolution
-title: 洛克《政府论》：自由主义之父如何奠定美国建国哲学，并促成资本主义与殖民主义？
-summary: 本期节目深入探讨了自由主义之父约翰·洛克的政治哲学，特别是其《政府论》对美国建国思想的深远影响。文章详细阐述了洛克关于私有财产起源、政府合法性来源（基于人民同意）、多数决民主以及革命权利的理论。同时，也批判性地分析了洛克思想如何为资本主义无限发展、殖民主义对原住民土地的剥夺以及奴隶制度提供了理论基础，揭示了自由主义理念的内在矛盾。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - John Locke
-  - Aristotle
-  - Thomas Hobbes
-  - Robert Boyle
-  - Jean-Jacques Rousseau
-  - Karl Marx
-  - C.B. Macpherson
-  - Benjamin Franklin
-  - Thomas Jefferson
-  - James Madison
-  - Jeremy Bentham
-  - John Rawls
-  - G.A. Cohen
-  - Domenico Losurdo
-  - James II
-  - Plato
-companies_orgs:
-  - Royal African Company
-  - British Board of Trade
-products_models: []
-media_books:
-  - 《政府论》
-  - 《理想国》
-  - 《联邦党人文集第十篇》
 status: evergreen
+summary: 本期节目深入探讨了自由主义之父约翰·洛克的政治哲学，特别是其《政府论》对美国建国思想的深远影响。文章详细阐述了洛克关于私有财产起源、政府合法性来源（基于人民同意）、多数决民主以及革命权利的理论。同时，也批判性地分析了洛克思想如何为资本主义无限发展、殖民主义对原住民土地的剥夺以及奴隶制度提供了理论基础，揭示了自由主义理念的内在矛盾。
+tags:
+- colonialism
+- investment
+- majority-rule
+- right
+- social
+- society
+- state
+title: 洛克《政府论》：自由主义之父如何奠定美国建国哲学，并促成资本主义与殖民主义？
 ---
+
 ### 洛克政治哲学的起源与背景
 
 欢迎来到“哲学爽歪歪”节目，本周是美国的独立日，而美国的建国思想深受**自由主义**（Liberalism: 一种以个人自由为核心价值的政治哲学）之父约翰·洛克（John Locke）的启发。今天，我们将深入探讨洛克的政治哲学。

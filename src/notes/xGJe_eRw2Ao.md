@@ -1,43 +1,43 @@
 ---
-author: TED
+area: society-systems
+category: general
+companies_orgs:
+- TED
+- Spoonful Records
+- Buckeye Donuts
+- Heat Archive
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How to Be a Better Human
+people:
+- Hanif Abdurraqib
+- Sarah Kay
+- Brett
+- Amy
+- Elijah
+- Chris
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=xGJe_eRw2Ao
 speaker: TED
-tags:
-  - hometown-love
-  - community-building
-  - sense-of-belonging
-  - local-culture
-  - human-connection
-title: 如何热爱你的家乡：在哥伦布市寻找归属与社区
-summary: 本文深入探讨了“家”的深刻含义以及社区的重要性，并以诗人兼作家哈尼夫·阿卜杜拉奇布（Hanif Abdurraqib）为例。通过他与俄亥俄州哥伦布市的深厚联结，文章阐述了互相关怀、地方互动和归属感如何共同培育一个充满活力的社区。它强调家不仅仅是一个地方，更是一个通过慷慨和关注建立起来的关系网络，并挑战我们反思自己的内心是否仍在积极地与他人建立联系。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Hanif Abdurraqib
-  - Sarah Kay
-  - Brett
-  - Amy
-  - Elijah
-  - Chris
-companies_orgs:
-  - TED
-  - Spoonful Records
-  - Buckeye Donuts
-  - Heat Archive
-products_models: []
-media_books:
-  - How to Be a Better Human
 status: evergreen
+summary: 本文深入探讨了“家”的深刻含义以及社区的重要性，并以诗人兼作家哈尼夫·阿卜杜拉奇布（Hanif Abdurraqib）为例。通过他与俄亥俄州哥伦布市的深厚联结，文章阐述了互相关怀、地方互动和归属感如何共同培育一个充满活力的社区。它强调家不仅仅是一个地方，更是一个通过慷慨和关注建立起来的关系网络，并挑战我们反思自己的内心是否仍在积极地与他人建立联系。
+tags:
+- community-building
+- culture
+- human
+- investment
+- love
+title: 如何热爱你的家乡：在哥伦布市寻找归属与社区
 ---
+
 ### 家的定义与归属感
 
 家是什么？

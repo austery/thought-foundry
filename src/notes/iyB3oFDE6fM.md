@@ -1,46 +1,46 @@
 ---
-author: 美投讲美股
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 富达基金
+- 迪士尼
+- 耐克
+- Gap
+- 家得宝
+- Supercuts
+- The Body Shop
+- IBM
+- 克莱斯勒
+- 吉列
 date: '2025-06-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《战胜华尔街》
+- 《巴伦周刊》
+people:
+- 彼得·林奇
+- 沃伦·巴菲特
+products_models: []
+project:
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=iyB3oFDE6fM
 speaker: 美投讲美股
-tags:
-  - investment-strategy
-  - individual-investor
-  - market-outperformance
-  - cyclical-stocks
-  - growth-stocks
-title: 彼得·林奇的投资智慧：散户如何战胜华尔街？
-summary: 本视频深入探讨了彼得·林奇的投资哲学，特别是其著作《战胜华尔街》中的核心策略。它揭示了散户投资者如何利用自身优势，通过理解简单熟悉的业务，并采取定投等纪律性长期投资方法，从而超越专业基金经理。内容涵盖了基金经理的固有局限性，并通过“小学生选股实验”、业余投资俱乐部以及林奇本人对零售成长股（如The Body Shop）和周期股（如克莱斯勒）的投资案例，生动阐释了这些投资智慧。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - historical-insights
-people:
-  - 彼得·林奇
-  - 沃伦·巴菲特
-companies_orgs:
-  - 富达基金
-  - 迪士尼
-  - 耐克
-  - Gap
-  - 家得宝
-  - Supercuts
-  - The Body Shop
-  - IBM
-  - 克莱斯勒
-  - 吉列
-products_models: []
-media_books:
-  - 《战胜华尔街》
-  - 《巴伦周刊》
 status: evergreen
+summary: 本视频深入探讨了彼得·林奇的投资哲学，特别是其著作《战胜华尔街》中的核心策略。它揭示了散户投资者如何利用自身优势，通过理解简单熟悉的业务，并采取定投等纪律性长期投资方法，从而超越专业基金经理。内容涵盖了基金经理的固有局限性，并通过“小学生选股实验”、业余投资俱乐部以及林奇本人对零售成长股（如The
+  Body Shop）和周期股（如克莱斯勒）的投资案例，生动阐释了这些投资智慧。
+tags:
+- growth-stock
+- investment
+- market
+- stock
+title: 彼得·林奇的投资智慧：散户如何战胜华尔街？
 ---
+
 ### 散户能否战胜华尔街？彼得·林奇的肯定回答
 
 大家好，我是美投君。**散户**（Individual Investors: 指非专业机构，以个人名义进行股票买卖的投资者）真的可以击败华尔街吗？答案是绝对可以，而且这并非小概率事件。只要掌握一套方法，人人都能战胜华尔街。这并非我个人观点，而是**富达基金**（Fidelity Investments: 美国一家大型的金融服务公司）有史以来最著名的基金经理，被誉为**股圣**（Stock Saint: 对投资大师的尊称）的彼得·林奇所言。

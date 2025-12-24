@@ -1,45 +1,45 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: general
+companies_orgs:
+- Flickr
+- Slack
+- Salesforce
+- Ticketmaster
+- Instagram
+- Apple Pay
+- Shopify
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《麻省理工科技评论》
+people:
+- 斯图尔特·巴特菲尔德
+- 莱尼
+- 肯·伯恩斯
+- 泰勒·斯威夫特
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=LSiJPdxR6MY
 speaker: Best Partners TV
-tags:
-  - utility-curve
-  - owners-delusion
-  - cognitive-load
-  - hyper-realistic-work-like-activities
-  - friction-vs-cognition
-title: 斯图尔特·巴特菲尔德：从游戏失败中诞生的Slack与产品哲学
-summary: 本文深入剖析Slack创始人斯图尔特·巴特菲尔德的产品哲学，揭示效用曲线、拥有者的错觉、认知负担与超现实类工作等核心概念，揭示伟大产品源于对人性的清醒认知而非功能堆砌。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 斯图尔特·巴特菲尔德
-  - 莱尼
-  - 肯·伯恩斯
-  - 泰勒·斯威夫特
-companies_orgs:
-  - Flickr
-  - Slack
-  - Salesforce
-  - Ticketmaster
-  - Instagram
-  - Apple Pay
-  - Shopify
-products_models: []
-media_books:
-  - 《麻省理工科技评论》
 status: evergreen
+summary: 本文深入剖析Slack创始人斯图尔特·巴特菲尔德的产品哲学，揭示效用曲线、拥有者的错觉、认知负担与超现实类工作等核心概念，揭示伟大产品源于对人性的清醒认知而非功能堆砌。
+tags:
+- cognitive
+- friction-vs-cognition
+- geopolitical
+- utility-curve
+- work
+title: 斯图尔特·巴特菲尔德：从游戏失败中诞生的Slack与产品哲学
 ---
+
 ### 从失败中诞生的奇迹：斯图尔特·巴特菲尔德的产品哲学
 
 在科技创业的叙事中，成功常被包装成一场精密策划的必然。我们习惯于相信那些“从第一天起就看清未来”的创始人故事，仿佛伟大产品诞生于清晰的蓝图。但斯图尔特·巴特菲尔德（Stewart Butterfield）的经历却截然不同——他的两次颠覆性成功，Flickr与Slack，竟都源于一场彻底失败的游戏项目。这并非偶然的运气，而是他基于深刻产品哲学与人性洞察所做出的一系列理性抉择的结果。

@@ -1,94 +1,95 @@
 ---
-author: The Knowledge Project Podcast
+area: market-analysis
+category: business
+companies_orgs:
+- Au Bon Pain
+- Panera Bread
+- McDonald's
+- Chick-fil-A
+- Starbucks
+- Chipotle
+- GoDaddy
+- Namecheap
+- Cloudflare
+- CES
+- Cava
+- Berkshire Hathaway
+- Pepsi
+- Sarah Lee
+- St. Louis Bread Company
+- Anheuser-Busch
+- Miller
+- Samuel Adams
+- Snapple
+- Tesco
+- Kroger
+- No Labels
+- JAB Holding Company
+- Shopify
+- Act III Holdings
+- Zoës Kitchen
+- Burger King
+- Corner Bakery
+- Qdoba
+- Darden Restaurants
+- Dairy Queen
+- Bruegger's Bagels
+- Sweetgreen
+- Whole Foods
+- Amazon
+- Tatte Bakery & Cafe
+- Life Alive
+- Level99
+- Honest Greens
+- BJ's Restaurants
+- PAR Technology
+- MIT
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Know What Matters
+people:
+- Shane Parrish
+- Warren Buffett
+- Howard Schultz
+- Steve Ells
+- Scott Davis
+- Dwight Juen
+- Jim Cook
+- Terry Heckler
+- Bill Morton
+- Kee Pasco
+- Brett Schulman
+- Lu King
+- Tony Robbins
+- Noah El Bogen
+- Tzurit Or
+products_models:
+- Remarkable 2
+- Remarkable Paper Pro
+- Remarkable Paper Pro Move
+project:
+- entrepreneurship
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=h1fIVmf7uaw
 speaker: The Knowledge Project Podcast
-tags:
-  - long-term-thinking
-  - better-competitive-alternative
-  - discovery-vs-delivery
-  - fast-casual-dining
-  - concept-essence
-title: 长期贪婪，短期不傻：Panera 创始人揭示 78 亿美元出售背后的商业哲学
-summary: Panera 创始人深入剖析了他“长期贪婪，短期不傻”的商业与人生哲学。他强调，无论是建立价值数十亿美元的企业，还是管理个人健康，成功的核心在于面向未来、定义自己真正尊重的东西，并将其分解为可执行的项目。本文详细阐述了他如何通过同理心洞察消费者需求，开创“快餐休闲”品类，并以“更优竞争替代方案”为核心原则，引领 Panera 和 Cava 实现颠覆性增长。这不仅是一部创业史，更是一套关于如何在商业与生活中做出明智抉择的深刻思考体系。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-  - historical-insights
-people:
-  - Shane Parrish
-  - Warren Buffett
-  - Howard Schultz
-  - Steve Ells
-  - Scott Davis
-  - Dwight Juen
-  - Jim Cook
-  - Terry Heckler
-  - Bill Morton
-  - Kee Pasco
-  - Brett Schulman
-  - Lu King
-  - Tony Robbins
-  - Noah El Bogen
-  - Tzurit Or
-companies_orgs:
-  - Au Bon Pain
-  - Panera Bread
-  - McDonald's
-  - Chick-fil-A
-  - Starbucks
-  - Chipotle
-  - GoDaddy
-  - Namecheap
-  - Cloudflare
-  - CES
-  - Cava
-  - Berkshire Hathaway
-  - Pepsi
-  - Sarah Lee
-  - St. Louis Bread Company
-  - Anheuser-Busch
-  - Miller
-  - Samuel Adams
-  - Snapple
-  - Tesco
-  - Kroger
-  - No Labels
-  - JAB Holding Company
-  - Shopify
-  - Act III Holdings
-  - Zoës Kitchen
-  - Burger King
-  - Corner Bakery
-  - Qdoba
-  - Darden Restaurants
-  - Dairy Queen
-  - Bruegger's Bagels
-  - Sweetgreen
-  - Whole Foods
-  - Amazon
-  - Tatte Bakery & Cafe
-  - Life Alive
-  - Level99
-  - Honest Greens
-  - BJ's Restaurants
-  - PAR Technology
-  - MIT
-products_models:
-  - Remarkable 2
-  - Remarkable Paper Pro
-  - Remarkable Paper Pro Move
-media_books:
-  - Know What Matters
 status: evergreen
+summary: Panera 创始人深入剖析了他“长期贪婪，短期不傻”的商业与人生哲学。他强调，无论是建立价值数十亿美元的企业，还是管理个人健康，成功的核心在于面向未来、定义自己真正尊重的东西，并将其分解为可执行的项目。本文详细阐述了他如何通过同理心洞察消费者需求，开创“快餐休闲”品类，并以“更优竞争替代方案”为核心原则，引领
+  Panera 和 Cava 实现颠覆性增长。这不仅是一部创业史，更是一套关于如何在商业与生活中做出明智抉择的深刻思考体系。
+tags:
+- discovery-vs-delivery
+- fast-casual-dining
+- philosophy
+- science
+- thinking
+title: 长期贪婪，短期不傻：Panera 创始人揭示 78 亿美元出售背后的商业哲学
 ---
+
 ### 长期贪婪，而非短期愚蠢
 
 我从事这个行业已经超过半个世纪了。我曾参与在美国创建面包咖啡馆，比如 Au Bon Pain 和 Panera，这些都是市场上的主导品牌。你是如何培养出这种应用于所有这些不同概念的长期思维的？我有一个说法：我选择“长期贪婪，而非短期愚蠢”。

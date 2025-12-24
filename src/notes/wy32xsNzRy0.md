@@ -1,50 +1,49 @@
 ---
-author: 徒步的騎手
-date: 2025-04-30
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=wy32xsNzRy0'
-speaker: 徒步的騎手
-tags:
-  - us-supreme-court
-  - judicial-review
-  - immigrant-rights
-  - government-overreach
-  - rule-of-law
-title: 美国最高法院的紧急裁决与司法底线：从移民遣返到领事馆绑架案
-summary: 本文深入探讨了美国司法系统在紧急情况下的运作及其对个人权利的保护。通过分析美国最高法院连夜叫停非法移民遣返的案例，揭示了政府试图规避法律的策略与法院的制衡作用。文章还回顾了上世纪80年代中国驻休斯顿领事馆绑架中国公民李存信事件中法院的紧急介入，强调了司法机构作为阻止政府滥用权力、保障个人自由的最后一道防线的重要性。无论时代如何变迁，美国法院制度对公民权利的保障始终如一。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Justice Alito
-  - Justice Thomas
-  - Li Cunxin
-  - Charles Foster
-  - Chen Yiye
-  - Chen Chong
-  - George W. Bush
-  - Ronald Reagan
-  - George H.W. Bush
+category: geopolitics
 companies_orgs:
-  - NBC News
-  - Beijing Dance Academy
-  - Houston Ballet
-  - 中国驻休斯顿领事馆
-products_models: '[]'
+- NBC News
+- Beijing Dance Academy
+- Houston Ballet
+- 中国驻休斯顿领事馆
+date: 2025-04-30
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《毛时代的最后舞者》
-  - 《小花》
-  - 《火烧圆明园》
-  - 《垂帘听政》
+- 《毛时代的最后舞者》
+- 《小花》
+- 《火烧圆明园》
+- 《垂帘听政》
+- judicial-review
+people:
+- Donald Trump
+- Justice Alito
+- Justice Thomas
+- Li Cunxin
+- Charles Foster
+- Chen Yiye
+- Chen Chong
+- George W. Bush
+- Ronald Reagan
+- George H.W. Bush
+products_models: '[]'
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=wy32xsNzRy0
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了美国司法系统在紧急情况下的运作及其对个人权利的保护。通过分析美国最高法院连夜叫停非法移民遣返的案例，揭示了政府试图规避法律的策略与法院的制衡作用。文章还回顾了上世纪80年代中国驻休斯顿领事馆绑架中国公民李存信事件中法院的紧急介入，强调了司法机构作为阻止政府滥用权力、保障个人自由的最后一道防线的重要性。无论时代如何变迁，美国法院制度对公民权利的保障始终如一。
+tags:
+- geopolitical
+- government
+- right
+- rule-of-law
+title: 美国最高法院的紧急裁决与司法底线：从移民遣返到领事馆绑架案
 ---
 
 大家好，上周我在东京做了三场演讲，节目因此没有更新，十分抱歉。这周又回到了徒步路上，可以恢复节目录制和更新。上上周五傍晚，在德克萨斯州发生了一件不同寻常的事情。

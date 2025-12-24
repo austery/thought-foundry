@@ -1,66 +1,65 @@
 ---
-author: 小翠時政財經
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 蚂蚁集团
+- OpenAI
+- 华为
+- ASML
+- 台积电
+- 甲骨文
+- 亚马逊
+- 黑石
+- Nvidia
+- AMD
+- 博通
+- 摩根大通
+- 美银
+- 科磊
+- 泛林集团
+- 奈飞
+- 华纳兄弟
+- 派拉蒙
+- 特斯拉
+- Google
+- 软银
+- Uber Eats
+- DoorDash
+- 美光
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《路透社》
+- 《The Information》
+people:
+- Xi Jinping
+- Donald Trump
+- 黄仁勋
+- Larry Ellison
+products_models:
+- 蚂蚁阿福
+- EUV
+- ChatGPT
+- Gemini
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=0e5y2wT4xBA
 speaker: 小翠時政財經
-tags:
-  - llm
-  - chip-industry
-  - market-analysis
-  - data-center
-  - economic-outlook
-title: 中国“光刻机鬼故事”与AI投资：甲骨文、OpenAI及市场情绪分析
-summary: 本期节目深入分析了中国“芯片迈哈顿计划”中EUV光刻机原型机的报道，质疑其真实性及对A股和美股的影响。同时，详细解读了甲骨文与OpenAI数据中心项目融资困境，强调OpenAI的强大融资能力和AI投资的长期逻辑。节目还探讨了AI时代谷歌与ChatGPT在应用生态上的竞争，并驳斥了“大空头”对美国经济基本面的悲观论调，指出AI基础设施建设将持续推动经济增长。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 习近平
-  - Donald Trump
-  - 黄仁勋
-  - Larry Ellison
-companies_orgs:
-  - 蚂蚁集团
-  - OpenAI
-  - 华为
-  - ASML
-  - 台积电
-  - 甲骨文
-  - 亚马逊
-  - 黑石
-  - 英伟达
-  - AMD
-  - 博通
-  - 摩根大通
-  - 美银
-  - 科磊
-  - 泛林集团
-  - 奈飞
-  - 华纳兄弟
-  - 派拉蒙
-  - 特斯拉
-  - 谷歌
-  - 软银
-  - Uber Eats
-  - DoorDash
-  - 美光
-products_models:
-  - 蚂蚁阿福
-  - EUV
-  - ChatGPT
-  - Gemini
-media_books:
-  - 《金融时报》
-  - 《路透社》
-  - 《The Information》
 status: evergreen
+summary: 本期节目深入分析了中国“芯片迈哈顿计划”中EUV光刻机原型机的报道，质疑其真实性及对A股和美股的影响。同时，详细解读了甲骨文与OpenAI数据中心项目融资困境，强调OpenAI的强大融资能力和AI投资的长期逻辑。节目还探讨了AI时代谷歌与ChatGPT在应用生态上的竞争，并驳斥了“大空头”对美国经济基本面的悲观论调，指出AI基础设施建设将持续推动经济增长。
+tags:
+- data-center
+- economic-outlook
+- industry
+- market-analysis
+title: 中国“光刻机鬼故事”与AI投资：甲骨文、OpenAI及市场情绪分析
 ---
+
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月18日，欢迎收看我们今天的每日要闻节目。首先，我们从中国A股市场讲起。12月18日，A股市场走势分化，截至收盘，沪指上涨0.16%，深成指下跌1.29%，创业板指下跌2.17%。港股恒生指数尾盘飘红，最终收涨0.12%，恒生科技指数收跌0.73%，像**小米**、**阿里巴巴**等公司股价昨日均下跌。
 
 ### 市场热点速览

@@ -5,14 +5,12 @@ area: null
 category: null
 project: []
 tags:
-- deep-research
-- 健康
-- 衰老
-- 长寿
-people: []
+- health
+- investment
+- llm
+- research
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-19'
 author: Lei
 speaker: Google Gemini
@@ -23,6 +21,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 第一部分：重塑衰老生物学的基础认知
 
 ### 1.1 衰老的本质：从“必然衰败”到“可塑过程”

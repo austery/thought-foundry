@@ -1,41 +1,39 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- United Nations
+- European Union
+- Soviet Union
+- Chinese Communist Party
+- Kuomintang
 date: '2025-02-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Harry S. Truman
+- Chiang Kai-shek
+- George Marshall
+- Joseph McCarthy
+products_models: []
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=tlNHLGVRKlc
 speaker: Dwarkesh Patel
-tags:
-  - american-power
-  - foreign-policy
-  - geopolitics
-  - historical-analysis
-  - allies-institutions
-title: 美国力量的局限性：历史教训与地缘政治反思
-summary: 本期节目深入探讨了美国力量的局限性，尤其是在二战后外交政策上的决策失误。演讲者强调了过度扩张的风险，并指出盟友与国际机构（如联合国、欧盟）的重要性。通过对比中国、欧洲、伊朗等地的历史案例，分析了国家建设与国家重建的差异，以及忽视本土专业知识和民众支持的后果。节目还探讨了美国在处理敌对势力合作、政治可行性以及从孤立主义转向大国角色的历史演变。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - Harry S. Truman
-  - Chiang Kai-shek
-  - George Marshall
-  - Joseph McCarthy
-companies_orgs:
-  - United Nations
-  - European Union
-  - Soviet Union
-  - Chinese Communist Party
-  - Kuomintang
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了美国力量的局限性，尤其是在二战后外交政策上的决策失误。演讲者强调了过度扩张的风险，并指出盟友与国际机构（如联合国、欧盟）的重要性。通过对比中国、欧洲、伊朗等地的历史案例，分析了国家建设与国家重建的差异，以及忽视本土专业知识和民众支持的后果。节目还探讨了美国在处理敌对势力合作、政治可行性以及从孤立主义转向大国角色的历史演变。
+tags:
+- allies-institution
+- foreign-policy
+- historical-analysis
+- power
+title: 美国力量的局限性：历史教训与地缘政治反思
 ---
+
 ### 力量的边界与代价
 
 我认为美国人需要警惕**过度扩张**。任何国家都必须警惕过度扩张，因为我们拥有**有限的资源**。此外，你还在谈论派遣你的同胞美国人去送死。要求某人做出那种牺牲，这可不是小事。要知道，这必须是值得的，对吧？美国有三亿人，而世界有八十亿人。要保持谨慎。

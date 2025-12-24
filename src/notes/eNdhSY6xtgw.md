@@ -1,53 +1,53 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 新华社
+- 世界贸易组织
+- 二十国集团峰会
+- 本田
+- Stellantis
+- LG Energy Solution
+- Northvolt
 date: '2025-06-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 加通社
+- 新华网
+people:
+- 李强
+- 马克·卡尼
+- 孟晚舟
+- Jean Chrétien
+- Stephen Harper
+- Justin Trudeau
+- 庄文浩
+- Joe Biden
+- Donald Trump
+- 王鏑
+products_models:
+- USMCA
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=eNdhSY6xtgw
 speaker: 莊也雜談
-tags:
-  - canada-china-relations
-  - trade-war-impact
-  - economic-challenges
-  - diplomatic-reset
-  - us-influence
-title: 加中关系破冰：一次关键通话背后的合作与挑战
-summary: 近期，中国总理李强与加拿大新任总理马克·卡尼举行了一次关键通话，标志着两国关系在多年僵局后迎来破冰。在美加贸易战升级、加拿大经济面临巨大压力的背景下，此次通话揭示了加拿大寻求多元化贸易伙伴的迫切需求，以及中国对稳定资源供应和拓展电动车市场的渴望。文章深入分析了此次对话的内幕、加拿大对华政策转变的动因，并探讨了未来合作可能面临的地缘政治、意识形态及法律风险，强调了务实合作对两国经济繁荣的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 李强
-  - 马克·卡尼
-  - 孟晚舟
-  - Jean Chrétien
-  - Stephen Harper
-  - Justin Trudeau
-  - 庄文浩
-  - Joe Biden
-  - Donald Trump
-  - 王鏑
-companies_orgs:
-  - 新华社
-  - 世界贸易组织
-  - 二十国集团峰会
-  - 本田
-  - Stellantis
-  - LG Energy Solution
-  - Northvolt
-products_models:
-  - USMCA
-media_books:
-  - 加通社
-  - 新华网
 status: evergreen
+summary: 近期，中国总理李强与加拿大新任总理马克·卡尼举行了一次关键通话，标志着两国关系在多年僵局后迎来破冰。在美加贸易战升级、加拿大经济面临巨大压力的背景下，此次通话揭示了加拿大寻求多元化贸易伙伴的迫切需求，以及中国对稳定资源供应和拓展电动车市场的渴望。文章深入分析了此次对话的内幕、加拿大对华政策转变的动因，并探讨了未来合作可能面临的地缘政治、意识形态及法律风险，强调了务实合作对两国经济繁荣的重要性。
+tags:
+- canada-china-relations
+- diplomatic-reset
+- economic
+- influence
+- trade-war-impact
+title: 加中关系破冰：一次关键通话背后的合作与挑战
 ---
+
 ### 加中关系：从模范生到冰点
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天，我们来聊一聊加中关系。曾几何时，加中关系是中国与西方国家中的模范生。从1970年建交到2016年高层频繁互访，两国合作顺风顺水，贸易额也节节攀升。然而，一场突如其来的**孟晚舟事件**（指2018年底华为公司CFO孟晚舟在加拿大被捕，引发的中加外交危机），像一块巨石砸进湖面，激起了持续6年的政治涟漪，最终让双方陷入前所未有的僵局。

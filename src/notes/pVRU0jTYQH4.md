@@ -1,66 +1,66 @@
 ---
-author: LT視界
+area: society-systems
+category: general
+companies_orgs:
+- Federal Reserve
+- Bank of England
+- European Commission
+- Nvidia
+- Chinese Communist Party
+- 浙江省委宣传部
+- 中国外交部
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《华尔街日报》
+- 路透社
+- 彭博社
+- 《法国回声报》
+- 福克斯新闻
+- 《星岛日报》
+- Bilibili
+- 微博
+- 网易
+- 《北京日报》
+- 朝阳少侠
+- 《芳华》
+people:
+- Donald Trump
+- Volodymyr Zelenskyy
+- Jared Kushner
+- Kellogg
+- Emmanuel Macron
+- Ursula von der Leyen
+- Jensen Huang
+- Hu Xijin
+- Long Yingtai
+- Deng Xiaoping
+- Xi Jinping
+- Vladimir Putin
+- Wang Qishan
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=pVRU0jTYQH4
 speaker: LT視界
-tags:
-  - us-monetary-policy
-  - geopolitical-strategy
-  - trade-imbalance
-  - chinese-social-discourse
-  - critical-thinking
-title: 美联储降息预期、乌克兰和谈进展与马克龙对华贸易警告：中国民间舆论如何以逻辑挑战官方叙事
-summary: 本文梳理了全球经济与地缘政治的最新动态，包括美联储降息预期、乌克兰和平协议进展、俄罗斯对美国新安全战略的欢迎，以及法国总统马克龙对中欧贸易逆差的警告。文章深入分析了中国社交网络上的两大热点：电影《芳华》引发的文革反思，以及“大国崛起与小民尊严”的论战。特别指出，中国民众正以逻辑思维对抗官方叙事，这被视为挑战集权和洗脑的“最后希望”。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Jared Kushner
-  - Kellogg
-  - Emmanuel Macron
-  - Ursula von der Leyen
-  - Jensen Huang
-  - Hu Xijin
-  - Long Yingtai
-  - Deng Xiaoping
-  - Xi Jinping
-  - Vladimir Putin
-  - Wang Qishan
-companies_orgs:
-  - Federal Reserve
-  - Bank of England
-  - European Commission
-  - Nvidia
-  - Chinese Communist Party
-  - 浙江省委宣传部
-  - 中国外交部
-products_models: []
-media_books:
-  - 《金融时报》
-  - 《华尔街日报》
-  - 路透社
-  - 彭博社
-  - 《法国回声报》
-  - 福克斯新闻
-  - 《星岛日报》
-  - Bilibili
-  - 微博
-  - 网易
-  - 《北京日报》
-  - 朝阳少侠
-  - 《芳华》
 status: evergreen
+summary: 本文梳理了全球经济与地缘政治的最新动态，包括美联储降息预期、乌克兰和平协议进展、俄罗斯对美国新安全战略的欢迎，以及法国总统马克龙对中欧贸易逆差的警告。文章深入分析了中国社交网络上的两大热点：电影《芳华》引发的文革反思，以及“大国崛起与小民尊严”的论战。特别指出，中国民众正以逻辑思维对抗官方叙事，这被视为挑战集权和洗脑的“最后希望”。
+tags:
+- critical-thinking
+- geopolitical-strategy
+- social
+- trade
+- us-monetary-policy
+title: 美联储降息预期、乌克兰和谈进展与马克龙对华贸易警告：中国民间舆论如何以逻辑挑战官方叙事
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月7日，我们首先来了解今天的财经头条。
 
 ### 全球经济事件前瞻

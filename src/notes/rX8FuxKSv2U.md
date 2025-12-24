@@ -1,46 +1,46 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- Global Mail
+- CBC
+- CBC Gem
+- Crave
+- Netflix
+- Canadian Heritage
+- Canada Council for the Arts
+- Telephone
+- Canadian Academy
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Apprentice
+people:
+- Mark Carney
+- Sebastian Stan
+- Kate Blanchett
+- Jeremy Strong
+products_models:
+- Squid Game
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=rX8FuxKSv2U
 speaker: TVO Today
-tags:
-  - canadian-identity
-  - cultural-protectionism
-  - cultural-funding
-  - streaming-act
-title: 捍卫加拿大文化：一场关乎身份认同的持久战
-summary: 在文化领域，加拿大面临着来自外部的巨大压力。本文深入探讨了加拿大文化在经济和政治层面所受到的挑战，强调了保护和支持本土文化的重要性。文章呼吁 Canadians 珍视并积极维护自身的文化独特性，从而避免在文化上被同化，并确保国家身份的延续。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Mark Carney
-  - Sebastian Stan
-  - Kate Blanchett
-  - Jeremy Strong
-companies_orgs:
-  - Global Mail
-  - CBC
-  - CBC Gem
-  - Crave
-  - Netflix
-  - Canadian Heritage
-  - Canada Council for the Arts
-  - Telephone
-  - Canadian Academy
-products_models:
-  - Squid Game
-media_books:
-  - The Apprentice
 status: evergreen
+summary: 在文化领域，加拿大面临着来自外部的巨大压力。本文深入探讨了加拿大文化在经济和政治层面所受到的挑战，强调了保护和支持本土文化的重要性。文章呼吁 Canadians
+  珍视并积极维护自身的文化独特性，从而避免在文化上被同化，并确保国家身份的延续。
+tags:
+- cultural
+- identity
+- streaming-act
+title: 捍卫加拿大文化：一场关乎身份认同的持久战
 ---
+
 ### 加拿大文化认同的危机
 
 感谢 Barry 再次加入 The Rundown 节目。

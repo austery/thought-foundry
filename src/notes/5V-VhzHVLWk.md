@@ -1,34 +1,34 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-04-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5V-VhzHVLWk
 speaker: 海淀拙大叔
-tags:
-  - trade-war
-  - us-china-relations
-  - geopolitical-strategy
-  - economic-impact
-  - global-supply-chains
-title: 美国关税战：历史视角下的中国反击与全球经济格局重塑
-summary: 本文深入分析了美国特朗普政府此次大规模加征关税的深层动机与影响。从历史大收缩的视角，探讨了美国以放弃全球霸权为代价，寻求自身中心化的战略逻辑。文章详细阐述了中国在此背景下必须采取的坚决反击策略，并量化分析了关税战对中国GDP增长的潜在冲击。同时，为投资者提供了在贸易战背景下，受损与受益行业的具体分析，并展望了关税战对全球经济格局的长期重塑作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - Donald Trump
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了美国特朗普政府此次大规模加征关税的深层动机与影响。从历史大收缩的视角，探讨了美国以放弃全球霸权为代价，寻求自身中心化的战略逻辑。文章详细阐述了中国在此背景下必须采取的坚决反击策略，并量化分析了关税战对中国GDP增长的潜在冲击。同时，为投资者提供了在贸易战背景下，受损与受益行业的具体分析，并展望了关税战对全球经济格局的长期重塑作用。
+tags:
+- economic-impact
+- geopolitical-strategy
+- global-supply-chain
+- trade-war
+- us-china-relations
+title: 美国关税战：历史视角下的中国反击与全球经济格局重塑
 ---
+
 ### 美国关税战的背景与深层逻辑
 
 本期《阿甘经济宏观论》将探讨关税战、中国的反击及其影响。这是“美国大收缩系列”的第六集，为临时加更。美国此次行动可谓是堵上了国运。**唐纳德·特朗普**（Donald Trump）此次加征**关税**（Tariff: 国家对进出口商品征收的税费）的决绝程度、范围之广和幅度之高，都远超预期。实际上，此次加征关税的实质是美国以放弃**全球霸权**（Global Hegemony: 一个国家在国际体系中拥有主导地位和影响力）为代价，来换取其自身的再次中心化。而中国此次也只能以率先坚决应战为代价，来争取形成统一战线，共同反制美国。此次加税预计将拉低中国**GDP**（国内生产总值: 衡量一个国家经济活动的指标）增长1%。因此，我们急需加大内部刺激力度。

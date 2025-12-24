@@ -1,65 +1,62 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- Airalo
+- Nihao Mobile
+- 中国联通
+- 美团
+- 饿了么
+- 携程
+- 高德
+- 百度
+- 中国铁路
+- 滴滴
+- 支付宝
+- 京东
+- 拼多多
+- 淘宝
+- 天猫
+- 唯品会
+- 抖音
+- 小红书
+- 苏宁易购
+- 大众点评
 date: '2024-10-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- PrivateVPN
+- Let'sVPN
+- iPhone X
+- ChatGPT
+- Google Flight
+- Expedia
+- Booking.com
+- Ctrip (英文版)
+- Yelp
+- TripAdvisor
+- Google Maps
+- 公交一卡通APP
+- 玲珑通卡
+- 青桔单车
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=-7QPPqMwGg4
 speaker: 莊也雜談
-tags:
-  - china-travel-tips
-  - cashless-society
-  - vpn-usage
-  - mobile-payments
-  - app-recommendations
-title: 2024回国实用干货分享：行前准备与中国生活必备APP指南
-summary: 本期节目详细分享了2024年海外华人回国探亲、访友或旅游的实用干货。内容涵盖了回国前的机票购买、VPN选择、上网解决方案（如eSIM、国内电话卡），以及微信支付的多种绑定方式。此外，还全面盘点了在中国生活必备的各类APP，包括餐饮、住宿、出行（打车、导航、购票、公共交通、共享单车）及购物等方面的应用，旨在为计划回国的华人提供最新、最全面的参考信息。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - china-analysis
-people: []
-companies_orgs:
-  - Airalo
-  - Nihao Mobile
-  - 中国联通
-  - 美团
-  - 饿了么
-  - 携程
-  - 高德
-  - 百度
-  - 中国铁路
-  - 滴滴
-  - 支付宝
-  - 京东
-  - 拼多多
-  - 淘宝
-  - 天猫
-  - 唯品会
-  - 抖音
-  - 小红书
-  - 苏宁易购
-  - 大众点评
-products_models:
-  - PrivateVPN
-  - Let'sVPN
-  - iPhone X
-  - ChatGPT
-  - Google Flight
-  - Expedia
-  - Booking.com
-  - Ctrip (英文版)
-  - Yelp
-  - TripAdvisor
-  - Google Maps
-  - 公交一卡通APP
-  - 玲珑通卡
-  - 青桔单车
-media_books: []
 status: evergreen
+summary: 本期节目详细分享了2024年海外华人回国探亲、访友或旅游的实用干货。内容涵盖了回国前的机票购买、VPN选择、上网解决方案（如eSIM、国内电话卡），以及微信支付的多种绑定方式。此外，还全面盘点了在中国生活必备的各类APP，包括餐饮、住宿、出行（打车、导航、购票、公共交通、共享单车）及购物等方面的应用，旨在为计划回国的华人提供最新、最全面的参考信息。
+tags:
+- china
+- code
+- geopolitical
+- society
+title: 2024回国实用干货分享：行前准备与中国生活必备APP指南
 ---
+
 ### 序言：回国探亲与生活感悟
 
 大家好，我是庄也，欢迎收看庄也杂谈。可能很多人会惊讶我突然出现，因为这段时间我没有更新节目，似乎玩起了“失踪”。其实，我在上一期节目的结尾已经提到，我回了一趟国。有人可能会问，为什么我回国如此频繁？去年的节目中，2023年我回国的经历依然历历在目，言犹在耳，结果转眼刚过去一年，我怎么又回去了？这确实是没办法，家里有个老父亲。俗话说“家有一老如一宝”，我不能把这个宝贝疙瘩扔在国内不闻不问。而且我父亲的年纪也越来越大了，到今年已经86岁了。他现在身体还不错，能吃能睡能跑能跳，还给自己定了一个目标，要活到120岁。其实他也不用活到120岁，只要他能够健健康康地活到100岁，我就谢天谢地了。就算100岁，到现在距离也不过14年而已。说句不好听的，见一面少一面，所以趁老人身体还健康，多回家看看，多陪陪老人，总比亲人离去之后看不到、后悔遗憾要好得多。

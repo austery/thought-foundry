@@ -1,90 +1,90 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 商务部
+- 外交部
+- 自民党
+- 公民党
+- 网信办
+- 中宣部
+- 金团联
+- 日铁
+- 日立
+- 日本生命保险
+- 三菱UFJ银行
+- 三菱重工
+- 住友化学
+- 三井物产
+- 东京瓦斯
+- 三菱商事
+- 新日铁
+- 三菱电机
+- 丰田
+- 东日航
+- 全日空
+- 东京海上控股
+- 野村证券
+- 大和证券
+- ASO
+- NIC
+- 特斯拉
+- 德国大众
+- 乐天超市
+- 立宪民主党
+- 国民党
+- 民众党
+- 日本台湾青善协会
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 华尔街日报
+- 澎湃新闻
+- 《如何和日本人谈生意》
+- 日经
+- 产经
+people:
+- 刘劲松
+- 高市早苗
+- 李强
+- 王毅
+- Donald Trump
+- Xi Jinping
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- 滨崎步
+- Margaret Thatcher
+- 魏玲
+- 垂秀夫
+- 尹锡悦
+- 岸田文雄
+- Joe Biden
+- 李在明
+- 蒋介石
+- 石破茂
+products_models:
+- 萨德
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=m0CtZaZc_sY
 speaker: 三個水槍手
-tags:
-  - china-japan-relations
-  - political-economy
-  - cultural-decoupling
-  - geopolitical-strategy
-  - public-opinion
-title: 中日关系：从“政冷经热”到文化脱钩的深层矛盾与未来走向
-summary: 本期节目深入探讨了当前中日关系复杂且矛盾的“政冷经热”动态。分析了文化脱钩、经济胁迫及地缘政治联盟等深层紧张因素的影响。讨论内容涵盖了滨崎步演唱会取消事件等具体案例，以及这些事件对地区稳定和国际外交的广泛影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 刘劲松
-  - 高市早苗
-  - 李强
-  - 王毅
-  - Donald Trump
-  - 习近平
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - 滨崎步
-  - Margaret Thatcher
-  - 魏玲
-  - 垂秀夫
-  - 尹锡悦
-  - 岸田文雄
-  - Joe Biden
-  - 李在明
-  - 蒋介石
-  - 石破茂
-companies_orgs:
-  - 商务部
-  - 外交部
-  - 自民党
-  - 公民党
-  - 网信办
-  - 中宣部
-  - 金团联
-  - 日铁
-  - 日立
-  - 日本生命保险
-  - 三菱UFJ银行
-  - 三菱重工
-  - 住友化学
-  - 三井物产
-  - 东京瓦斯
-  - 三菱商事
-  - 新日铁
-  - 三菱电机
-  - 丰田
-  - 东日航
-  - 全日空
-  - 东京海上控股
-  - 野村证券
-  - 大和证券
-  - ASO
-  - NIC
-  - 特斯拉
-  - 德国大众
-  - 乐天超市
-  - 立宪民主党
-  - 国民党
-  - 民众党
-  - 日本台湾青善协会
-products_models:
-  - 萨德
-media_books:
-  - 华尔街日报
-  - 澎湃新闻
-  - 《如何和日本人谈生意》
-  - 日经
-  - 产经
 status: evergreen
+summary: 本期节目深入探讨了当前中日关系复杂且矛盾的“政冷经热”动态。分析了文化脱钩、经济胁迫及地缘政治联盟等深层紧张因素的影响。讨论内容涵盖了滨崎步演唱会取消事件等具体案例，以及这些事件对地区稳定和国际外交的广泛影响。
+tags:
+- china-japan-relations
+- cultural
+- geopolitical-strategy
+- political-economy
+- public-opinion
+title: 中日关系：从“政冷经热”到文化脱钩的深层矛盾与未来走向
 ---
+
 ### 中日关系现状与中国策略
 
 **武律:** 我觉得可能性不大，就是日本的名义不可能左转，而且我认为中国跟日本的关系有改善。我认为短时期内日本的政局也比较稳定。不是说中国怎么能够跟世界重新修好，那只有一个**二次改开**（Second Reform and Opening Up: 指中国在经济和社会领域进行新一轮的改革开放），我回去是吧？

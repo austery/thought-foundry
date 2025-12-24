@@ -1,30 +1,25 @@
 ---
-title: 提示词工程101：使用Claude构建高效AI应用
-summary: Anthropic团队分享提示词工程最佳实践，通过真实车险案例，逐步演示如何构建结构化、高质量的AI提示词，提升Claude模型的性能与可靠性。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-best-practices
-- claude-ai
-- llm
-- prompt-engineering
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-07-31'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=ysPbXH0LpIE
+speaker: Anthropic
 status: evergreen
+summary: Anthropic团队分享提示词工程最佳实践，通过真实车险案例，逐步演示如何构建结构化、高质量的AI提示词，提升Claude模型的性能与可靠性。
+tags:
+- llm
+title: 提示词工程101：使用Claude构建高效AI应用
 ---
+
 ### 欢迎与提示词工程简介
 
 Hi everyone. Thank you for joining us today for prompting 101. My name is Hannah. I'm part of the applied AI team here at Anthropic. And with me is Christian, also part of the applied AI team. And what we're going to do today is take you through a little bit of prompting best practices. And we're going to use a real-world scenario and build up a prompt together.

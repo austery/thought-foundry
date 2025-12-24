@@ -1,37 +1,35 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- BYD
+- Apple
+- Huawei
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- SU7
+project:
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=F7QFMq_F1h8
 speaker: 小翠時政財經
-tags:
-  - stock-volatility
-  - ev-profitability
-  - market-saturation
-  - ecosystem-lock-in
-  - r-and-d-spending
-title: 小米遭遇機構集體看空：五大戰線與四大風險的深度解析
-summary: 尽管小米三季度财报营收和利润向好，但股价持续下跌，机构资金悄然撤退。本文深入剖析了小米面临的五大业务战线（造车、芯片、AI OS、IoT、手机主业）中的四大核心风险，包括电动车业务的重资产压力、手机业务的天花板、以及互联网服务增长放缓等问题，解释了资本市场集体看空的原因。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-people: []
-companies_orgs:
-  - Tesla
-  - BYD
-  - Apple
-  - Huawei
-products_models:
-  - SU7
-media_books: []
 status: evergreen
+summary: 尽管小米三季度财报营收和利润向好，但股价持续下跌，机构资金悄然撤退。本文深入剖析了小米面临的五大业务战线（造车、芯片、AI OS、IoT、手机主业）中的四大核心风险，包括电动车业务的重资产压力、手机业务的天花板、以及互联网服务增长放缓等问题，解释了资本市场集体看空的原因。
+tags:
+- ecosystem
+- financial
+- market
+- r-and-d-spending
+- stock
+title: 小米遭遇機構集體看空：五大戰線與四大風險的深度解析
 ---
+
 ### 股价惨烈下跌与机构的集体撤退
 
 大家好，欢迎回到小翠时政财经。

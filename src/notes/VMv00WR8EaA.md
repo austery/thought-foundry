@@ -1,79 +1,80 @@
 ---
-author: a16z
+area: market-analysis
+category: business
+companies_orgs:
+- a16z
+- Google
+- Adify
+- Cox
+- Silicon Valley Bank
+- DoubleClick
+- Flycast
+- Omnature
+- Comscore
+- Meta
+- Laridan
+- General Mills
+- JPMorgan Chase
+- Nvidia
+- OpenAI
+- Carbon
+- wine.com
+- GE
+- McKinsey
+- Towers Watson
+- Accenture
+- Sequoia
+- Waste Management
+- Harvard
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- US News World Reports
+- Seinfeld
+people:
+- Russ Frerichs
+- Josh McFarland
+- Jim
+- Larry Page
+- Jeff Bezos
+- Ed Glazier
+- Henry
+- Tina
+products_models:
+- Chat GPT
+- Cursor
+- Claude
+- Harvey
+- Gemini
+- Llama
+- Sharp Wizard
+- Palm Pilot
+- Workday
+- SharePoint
+- Google Analytics
+- Urchin
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=VMv00WR8EaA
 speaker: a16z
-tags:
-  - ai-productivity
-  - enterprise-ai-adoption
-  - measurement-governance
-  - future-of-work
-  - goodharts-law
-title: 7000亿美元的AI生产力问题：企业如何衡量与驱动AI价值？
-summary: 本期节目深入探讨了企业在AI时代面临的巨大生产力挑战。尽管AI技术潜力巨大，但企业在实际采用中面临着衡量投资回报、员工培训与接受度、数据安全与合规性等多重困境。嘉宾Russ Frerichs分享了其公司Laridan如何通过提供衡量、治理和赋能工具，帮助企业克服这些障碍，从而真正释放AI的生产力潜力，并探讨了AI对未来就业和企业竞争格局的深远影响。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Russ Frerichs
-  - Josh McFarland
-  - Jim
-  - Larry Page
-  - Jeff Bezos
-  - Ed Glazier
-  - Henry
-  - Tina
-companies_orgs:
-  - a16z
-  - Google
-  - Adify
-  - Cox
-  - Silicon Valley Bank
-  - DoubleClick
-  - Flycast
-  - Omnature
-  - Comscore
-  - Facebook
-  - Laridan
-  - General Mills
-  - JPMorgan Chase
-  - Nvidia
-  - OpenAI
-  - Carbon
-  - wine.com
-  - GE
-  - McKinsey
-  - Towers Watson
-  - Accenture
-  - Sequoia
-  - Waste Management
-  - Harvard
-products_models:
-  - Chat GPT
-  - Cursor
-  - Claude
-  - Harvey
-  - Gemini
-  - Llama
-  - Sharp Wizard
-  - Palm Pilot
-  - Workday
-  - SharePoint
-  - Google Analytics
-  - Urchin
-media_books:
-  - US News World Reports
-  - Seinfeld
 status: evergreen
+summary: 本期节目深入探讨了企业在AI时代面临的巨大生产力挑战。尽管AI技术潜力巨大，但企业在实际采用中面临着衡量投资回报、员工培训与接受度、数据安全与合规性等多重困境。嘉宾Russ
+  Frerichs分享了其公司Laridan如何通过提供衡量、治理和赋能工具，帮助企业克服这些障碍，从而真正释放AI的生产力潜力，并探讨了AI对未来就业和企业竞争格局的深远影响。
+tags:
+- ai-productivity
+- enterprise-ai-adoption
+- future-of-work
+- governance
+- law
+title: 7000亿美元的AI生产力问题：企业如何衡量与驱动AI价值？
 ---
+
 ### AI生产力悖论：企业面临的紧迫挑战
 
 主持人: 我们采访的公司中，有85%表示，他们坚信只有未来18个月的时间来成为行业领导者，否则就会落后。你知道，我们有一个小群聊，里面有位朋友说：“哦，所有这些东西都被过度炒作了，最终会归零。”然而，我每次使用AI时，都觉得它非常棒。

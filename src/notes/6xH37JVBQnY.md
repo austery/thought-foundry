@@ -1,31 +1,31 @@
 ---
-title: 女性的母职困境与自我挣扎：《暗处的女儿》深度解析
-summary: 《暗处的女儿》深度解析女性母职、自我与社会期待的冲突，探讨如何平衡个人价值与社会角色。
 area: null
 category: null
-project: []
-tags:
-- female-identity
-- motherhood
-- societal-expectations
-people:
-- elena-ferrante
-- stella-an
 companies_orgs: []
-products_models: []
-media_books:
-- the-lost-daughter
 date: '2025-08-23'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- the-lost-daughter
+people:
+- elena-ferrante
+- stella-an
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6xH37JVBQnY
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 《暗处的女儿》深度解析女性母职、自我与社会期待的冲突，探讨如何平衡个人价值与社会角色。
+tags:
+- identity
+- motherhood
+- societal
+title: 女性的母职困境与自我挣扎：《暗处的女儿》深度解析
 ---
+
 ### 埃莱娜·费兰特：神秘作家与母职探讨
 
 大家好，我是安争鸣。欢迎回到读书时间。许多人可能对**埃莱娜·费兰特**（Elena Ferrante: 一位神秘的意大利作家，以其自传式作品和对女性心理的深刻刻画而闻名）这个名字比较陌生，但如果提到HBO的热播剧《我的天才女友》，大家或许会有些印象。没错，埃莱娜·费兰特正是《我的天才女友》原著小说“**那不勒斯四部曲**”（Neapolitan Novels: 埃莱娜·费兰特创作的系列小说，以意大利那不勒斯为背景，深刻描绘了两位女性跨越数十年的友谊、成长与社会变迁）的作者。

@@ -1,31 +1,28 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=NWfvpA9QIAo
 speaker: Anthony看世界
-tags:
-  - narcissistic-personality-disorder
-  - toxic-relationships
-  - self-help
-  - social-support
-  - power-dynamics
-title: 解构NPD：超越识别与逃离，构建真正的自救之路
-summary: 本期节目深入探讨自恋型人格障碍（NPD）的自救之道。节目指出，将NPD过度妖魔化反而可能使其充满病态吸引力，并让受害者陷入无力感。真正的出路在于通过理性分析，将施暴者从“不可理喻的恶魔”还原为“可预测的脆弱个体”，并认识到NPD的操控力主要来源于外部环境、文化系统以及受害者自身的创伤。文章强调，构建财务和情感独立性、建立强大的社会支持系统，才是抵御NPD操控、实现根本性自救的关键。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨自恋型人格障碍（NPD）的自救之道。节目指出，将NPD过度妖魔化反而可能使其充满病态吸引力，并让受害者陷入无力感。真正的出路在于通过理性分析，将施暴者从“不可理喻的恶魔”还原为“可预测的脆弱个体”，并认识到NPD的操控力主要来源于外部环境、文化系统以及受害者自身的创伤。文章强调，构建财务和情感独立性、建立强大的社会支持系统，才是抵御NPD操控、实现根本性自救的关键。
+tags:
+- power-dynamic
+- psychology
+- relationship
+- self
+- social
+title: 解构NPD：超越识别与逃离，构建真正的自救之路
 ---
 
 ### 引言：NPD批判的意义与误区

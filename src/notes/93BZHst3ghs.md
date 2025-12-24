@@ -1,32 +1,31 @@
 ---
-title: 深入探讨智能体经济与AI-Crypto的未来融合
-summary: Indigo与郑迪深入探讨了新兴的智能体经济、谷歌的AtoP协议，以及Web3和稳定币在实现机器间支付中的关键作用，并展望了由此引发的深刻社会变革。
-area: market-analysis
-category: finance
-project:
-- ai-impact-analysis
-tags:
-- agent-economy
-- ai-governance
-- crypto-integration
-- web3
-people:
-  - Indigo
-  - 郑迪
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-09-25
+area: finance-wealth
 author: Lei
-speaker: ''
+category: crypto
+companies_orgs: []
+date: 2025-09-25
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Indigo
+- 郑迪
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=93BZHst3ghs
+speaker: ''
 status: evergreen
+summary: Indigo与郑迪深入探讨了新兴的智能体经济、谷歌的AtoP协议，以及Web3和稳定币在实现机器间支付中的关键作用，并展望了由此引发的深刻社会变革。
+tags:
+- ai-governance
+- crypto-integration
+- economy
+title: 深入探讨智能体经济与AI-Crypto的未来融合
 ---
+
 ### 引言
 
 Indigo: 欢迎回到Indigo Talk，这是我们新的一期。这一期我邀请了一个老朋友，币圈人称迪神，郑迪老师。今天他也在做一个投资和**Crypto**（加密货币：使用密码学原理确保交易安全及控制交易单位创造的交易媒介）的社群，因为我自己也有一个科技加速社群，我们两个社群还经常互访一下。

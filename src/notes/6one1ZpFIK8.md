@@ -1,68 +1,67 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Starbucks
+- Taco Bell
+- Chipotle
+- Nike
+- Microsoft
+- Google
+- Alphabet
+- Amazon
+- Meta
+- Tesla
+- Monster Beverage Corporation
+- Red Bull
+- Celsius
+- Seiussius
 date: '2024-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Warren Buffett
+- Charlie Munger
+- Howard Schultz
+- Brian Niccol
+- John Donahoe
+- Elliot
+- Steve Ballmer
+- Donald Trump
+products_models:
+- Air Max
+- Air Jordan
+- Office 365
+- LinkedIn
+- Azure
+- Windows
+- Xbox
+- Surface
+- Bing
+- YouTube
+- SaaS
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=6one1ZpFIK8
 speaker: Shijun Tang
-tags:
-  - earnings-reporting
-  - unrealized-gains-losses
-  - financial-misrepresentation
-  - capital-structure-analysis
-  - investor-behavior
-title: 为什么巴菲特拒绝现代净利计算？从星巴克、耐克到谷歌的财报真相
-summary: 本文深入剖析巴菲特为何反对将未实现资本损益纳入净利计算，揭示财报数字与真实经营状况的背离，并通过星巴克、耐克、微软、谷歌等案例，揭示现代财务报告体系如何误导投资者。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - Shijun Tang
-  - Warren Buffett
-  - Charlie Munger
-  - Howard Schultz
-  - Brian Niccol
-  - John Donahoe
-  - Elliot
-  - Steve Ballmer
-  - Donald Trump
-companies_orgs:
-  - Starbucks
-  - Taco Bell
-  - Chipotle
-  - Nike
-  - Microsoft
-  - Google
-  - Alphabet
-  - Amazon
-  - Meta
-  - Tesla
-  - Monster Beverage Corporation
-  - Red Bull
-  - Celsius
-  - Seiussius
-products_models:
-  - Air Max
-  - Air Jordan
-  - Office 365
-  - LinkedIn
-  - Azure
-  - Windows
-  - Xbox
-  - Surface
-  - Bing
-  - YouTube
-  - SaaS
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入剖析巴菲特为何反对将未实现资本损益纳入净利计算，揭示财报数字与真实经营状况的背离，并通过星巴克、耐克、微软、谷歌等案例，揭示现代财务报告体系如何误导投资者。
+tags:
+- analysis
+- earnings-reporting
+- financial
+- investment
+- loss
+title: 为什么巴菲特拒绝现代净利计算？从星巴克、耐克到谷歌的财报真相
 ---
+
 ### 巴菲特为何反对现代净利计算？
 
 为什么巴菲特不喜欢现代的净利润计算方式？这个问题的答案，远比表面看起来更深刻。在2024年致伯克希尔股东的信中，巴菲特再次明确表达了他对现行会计准则的不满。他指出，当前将“未实现的资本利得和损失”纳入净利润的做法，严重扭曲了投资者对公司真实经营状况的理解。

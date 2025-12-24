@@ -1,60 +1,61 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- IMF
+- US Treasury
+- Bloomberg
+- FT
+- YPF
+- BlackRock
+- Moody's
+- Fitch
 date: '2025-10-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Default: The Landmark Court Battle Over Argentina''s Hundred Billion Dollar Debt
+  Restructuring'
+- Eva
+- The Triumph of Broken Promises
+- A Free Country Deep in Debt
+people:
+- Javier Milei
+- Donald Trump
+- Juan Perón
+- Carlos Menem
+- Néstor Kirchner
+- Cristina Fernández de Kirchner
+- Mauricio Macri
+- Alberto Fernández
+- Gregory Moff
+- Axel Kicillof
+- Jonathan Blackman
+- Rosemary Pooler
+- Luis Caputo
+- Santiago Bausili
+- Federico Sturzenegger
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=7m-d11T6Nhc
 speaker: Bloomberg Podcasts
-tags:
-  - argentina-economy
-  - financial-bailouts
-  - political-reform
-  - peronism
-  - austerity-measures
-title: 阿根廷：为何深陷无休止的债务危机与救助循环？
-summary: 本期播客深入探讨了阿根廷长期以来反复出现的金融困境，包括多次债务违约和国际救助。节目分析了庇隆主义和“机器政治”等历史政治因素如何阻碍了该国经济改革的持续性，使其未能像其他拉美国家一样实现稳定。同时，节目也审视了现任总统哈维尔·米莱的紧缩政策、美国财政部提供的最新200亿美元救助，并探讨了即将到来的中期选举对阿根廷未来能否摆脱这种困境的关键影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Javier Milei
-  - Donald Trump
-  - Juan Perón
-  - Carlos Menem
-  - Néstor Kirchner
-  - Cristina Fernández de Kirchner
-  - Mauricio Macri
-  - Alberto Fernández
-  - Gregory Moff
-  - Axel Kicillof
-  - Jonathan Blackman
-  - Rosemary Pooler
-  - Luis Caputo
-  - Santiago Bausili
-  - Federico Sturzenegger
-companies_orgs:
-  - IMF
-  - US Treasury
-  - Bloomberg
-  - FT
-  - YPF
-  - BlackRock
-  - Moody's
-  - Fitch
-products_models: []
-media_books:
-  - 'Default: The Landmark Court Battle Over Argentina''s Hundred Billion Dollar Debt Restructuring'
-  - Eva
-  - The Triumph of Broken Promises
-  - A Free Country Deep in Debt
 status: evergreen
+summary: 本期播客深入探讨了阿根廷长期以来反复出现的金融困境，包括多次债务违约和国际救助。节目分析了庇隆主义和“机器政治”等历史政治因素如何阻碍了该国经济改革的持续性，使其未能像其他拉美国家一样实现稳定。同时，节目也审视了现任总统哈维尔·米莱的紧缩政策、美国财政部提供的最新200亿美元救助，并探讨了即将到来的中期选举对阿根廷未来能否摆脱这种困境的关键影响。
+tags:
+- economy
+- financial
+- geopolitical
+- peronism
+- political-reform
+title: 阿根廷：为何深陷无休止的债务危机与救助循环？
 ---
+
 ### 阿根廷的最新救助与历史困境
 
 **Tracy Alloway:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是特蕾西·阿洛威。

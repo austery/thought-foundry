@@ -1,40 +1,40 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- OECD AI expert group on AI Risk and Accountability
+- World Economic Forum
+- Taskforce for Nature-related Financial Disclosures
 date: '2024-02-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Responsible Investment report
+- sharpened climate change expectations
+people:
+- Mille
+products_models: []
+project:
+- investment-strategy
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=N6if2sx7_fk
 speaker: Norges Bank Investment Management
-tags:
-  - responsible-investment
-  - climate-action
-  - ai-governance
-  - corporate-transparency
-  - nature-risk
-title: 挪威主权财富基金2023年负责任投资报告：气候、AI与透明度
-summary: 挪威主权财富基金发布2023年负责任投资报告，强调战争、气候变化、通胀及人工智能对投资环境的影响。报告详述了基金在气候行动、负责任AI发展、公司治理（如董事会多元化和高管薪酬）以及提升投资透明度方面的努力。基金致力于推动投资组合公司实现2050年净零排放目标，并积极运用数据和AI工具评估可持续性披露，同时参与制定行业标准，以应对自然退化等全球性挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Mille
-companies_orgs:
-  - Norges Bank Investment Management
-  - OECD AI expert group on AI Risk and Accountability
-  - World Economic Forum
-  - Taskforce for Nature-related Financial Disclosures
-products_models: []
-media_books:
-  - Responsible Investment report
-  - sharpened climate change expectations
 status: evergreen
+summary: 挪威主权财富基金发布2023年负责任投资报告，强调战争、气候变化、通胀及人工智能对投资环境的影响。报告详述了基金在气候行动、负责任AI发展、公司治理（如董事会多元化和高管薪酬）以及提升投资透明度方面的努力。基金致力于推动投资组合公司实现2050年净零排放目标，并积极运用数据和AI工具评估可持续性披露，同时参与制定行业标准，以应对自然退化等全球性挑战。
+tags:
+- ai-governance
+- climate
+- corporate
+- investment
+- risk
+title: 挪威主权财富基金2023年负责任投资报告：气候、AI与透明度
 ---
+
 ### 2023年：挑战、机遇与负责任投资的承诺
 
 2023年是受战争、气候和通货膨胀影响的一年。

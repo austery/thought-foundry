@@ -1,55 +1,54 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- White House
+- Justice Department
+- Department of Homeland Security
+- FBI
+- Department of Transportation
+- Variety
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- After The Hunt
+- Die, My Love
+- Christy
+- Marty Supreme
+people:
+- Donald Trump
+- Thomas Massie
+- Jeremy Allen White
+- Jennifer Lawrence
+- Robert Pattinson
+- Sydney Sweeney
+- Keanu Reeves
+- Dwayne Johnson
+- Russell Crowe
+- Julia Roberts
+- Timothy Chalamet
+products_models:
+- Cryptocurrency ATMs
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=0KJpNfcogSk
 speaker: New York Times Podcasts
-tags:
-  - epstein-files
-  - immigration-enforcement
-  - crypto-scams
-  - us-politics
-  - hollywood-box-office
-title: 特朗普政策转向、移民打击与加密货币诈骗：每日头条速览
-summary: 本期节目聚焦美国多项热点新闻。特朗普总统意外改变立场，支持公开爱泼斯坦文件；其政府在夏洛特加大移民打击力度，并导致其他执法行动受影响。此外，交通部取消了拜登时代的一项航空乘客赔偿提案。节目还揭示了加密货币ATM如何成为诈骗中心，以及好莱坞近期票房的低迷现象。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Thomas Massie
-  - Jeremy Allen White
-  - Jennifer Lawrence
-  - Robert Pattinson
-  - Sydney Sweeney
-  - Keanu Reeves
-  - Dwayne Johnson
-  - Russell Crowe
-  - Julia Roberts
-  - Timothy Chalamet
-companies_orgs:
-  - White House
-  - Justice Department
-  - Department of Homeland Security
-  - FBI
-  - Department of Transportation
-  - Variety
-products_models:
-  - Cryptocurrency ATMs
-media_books:
-  - The Daily
-  - After The Hunt
-  - Die, My Love
-  - Christy
-  - Marty Supreme
 status: evergreen
+summary: 本期节目聚焦美国多项热点新闻。特朗普总统意外改变立场，支持公开爱泼斯坦文件；其政府在夏洛特加大移民打击力度，并导致其他执法行动受影响。此外，交通部取消了拜登时代的一项航空乘客赔偿提案。节目还揭示了加密货币ATM如何成为诈骗中心，以及好莱坞近期票房的低迷现象。
+tags:
+- crypto-scam
+- epstein-file
+- geopolitical
+- hollywood-box-office
+title: 特朗普政策转向、移民打击与加密货币诈骗：每日头条速览
 ---
+
 ### 特朗普在爱泼斯坦文件上的意外转向
 
 来自《纽约时报》的头条新闻，今天是11月17日星期一。

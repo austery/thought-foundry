@@ -1,39 +1,38 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-06-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Small Logic
+- Groundwork of the Metaphysics of Morals
+- Critique of Practical Reason
+- Spring, Summer, Fall, Winter, and Spring
+people:
+- Husserl
+- Hegel
+- Kant
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=T2v04hzBr-Q
 speaker: Anthony看世界
-tags:
-  - free-will
-  - determinism
-  - self-awareness
-  - existential-dilemma
-  - human-reflexivity
-title: 自由意志是幻觉吗？哲学与科学视角下的决定论探讨
-summary: 本视频深入探讨了关于自由意志的哲学议题，回应了许多人因基因或生理决定论而产生的虚无感。通过对比东方宗教中“自我即幻象”的观点，并从胡塞尔的现象学、黑格尔的机械论批判以及康德的自由意志理论出发，视频论证了人类主观经验的直接性与不可还原性，以及人类行为的反射性。最终，它提出了一种超越纯粹科学决定论的自我理解，强调了自由意志作为行动始因的不可动摇性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - historical-insights
-people:
-  - Husserl
-  - Hegel
-  - Kant
-companies_orgs: []
-products_models: []
-media_books:
-  - Small Logic
-  - Groundwork of the Metaphysics of Morals
-  - Critique of Practical Reason
-  - Spring, Summer, Fall, Winter, and Spring
 status: evergreen
+summary: 本视频深入探讨了关于自由意志的哲学议题，回应了许多人因基因或生理决定论而产生的虚无感。通过对比东方宗教中“自我即幻象”的观点，并从胡塞尔的现象学、黑格尔的机械论批判以及康德的自由意志理论出发，视频论证了人类主观经验的直接性与不可还原性，以及人类行为的反射性。最终，它提出了一种超越纯粹科学决定论的自我理解，强调了自由意志作为行动始因的不可动摇性。
+tags:
+- determinism
+- existential-dilemma
+- free-will
+- human
+- self-awareness
+title: 自由意志是幻觉吗？哲学与科学视角下的决定论探讨
 ---
 
 ### 自由意志的困境：虚无感与决定论

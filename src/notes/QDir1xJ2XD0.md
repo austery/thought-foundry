@@ -1,48 +1,48 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Nvidia
+- The Hershey Company
+- Justice Department
+- United Nations
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- The Daily
+people:
+- Donald Trump
+- Xi Jinping
+- David Pearson
+products_models:
+- Rolos
+- Almond Joy
+- Mr. Goodbar
+- Butterfinger
+- Baby Ruth
+- Kit Kats
+- Cookies 'n' Creme Fangs
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=QDir1xJ2XD0
 speaker: New York Times Podcasts
-tags:
-  - nuclear-testing
-  - us-china-trade
-  - ai-chips
-  - market-valuation
-  - political-retribution
-title: 特朗普威胁恢复核试验，英伟达市值突破5万亿美元，多重全球事件引关注
-summary: 本期播客聚焦美国前总统特朗普关于恢复核武器试验的言论及其对国际关系的影响，同时探讨了英伟达市值突破5万亿美元的里程碑事件，以及其在AI芯片市场的主导地位和对美国经济的潜在风险。此外，节目还提及了特朗普政府对1月6日事件相关检察官的报复行动，牙买加飓风灾情，以及巧克力产品成分变化等新闻。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - David Pearson
-companies_orgs:
-  - Nvidia
-  - The Hershey Company
-  - Justice Department
-  - United Nations
-products_models:
-  - Rolos
-  - Almond Joy
-  - Mr. Goodbar
-  - Butterfinger
-  - Baby Ruth
-  - Kit Kats
-  - Cookies 'n' Creme Fangs
-media_books:
-  - The New York Times
-  - The Daily
 status: evergreen
+summary: 本期播客聚焦美国前总统特朗普关于恢复核武器试验的言论及其对国际关系的影响，同时探讨了英伟达市值突破5万亿美元的里程碑事件，以及其在AI芯片市场的主导地位和对美国经济的潜在风险。此外，节目还提及了特朗普政府对1月6日事件相关检察官的报复行动，牙买加飓风灾情，以及巧克力产品成分变化等新闻。
+tags:
+- ai-chip
+- market-valuation
+- nuclear
+- political
+- us-china-relations
+title: 特朗普威胁恢复核试验，英伟达市值突破5万亿美元，多重全球事件引关注
 ---
+
 ### 特朗普威胁恢复核武器试验
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是10月30日星期四，以下是我们即将报道的内容。

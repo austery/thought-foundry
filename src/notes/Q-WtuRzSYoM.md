@@ -1,44 +1,43 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NATO
+- Norges Bank Investment Management
+- EU
 date: '2024-10-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Jens Stoltenberg's book
+people:
+- Jens Stoltenberg
+- Donald Trump
+- Barack Obama
+- Joe Biden
+- Recep Tayyip Erdoğan
+- President Putin
+products_models: []
+project:
+- geopolitics-watch
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Q-WtuRzSYoM
 speaker: Norges Bank Investment Management
-tags:
-  - global-security
-  - ukraine-war
-  - autocratic-alignment
-  - ai-warfare
-  - crisis-leadership
-title: 斯托尔滕贝格：全球安全挑战、乌克兰战争与危机领导力
-summary: 北约前秘书长延斯·斯托尔滕贝格在一次播客访谈中，深入探讨了自其著作出版以来全球安全格局的重大变化。他指出世界变得更加危险，强调北约在保护近十亿人口方面变得更为强大。斯托尔滕贝格还就乌克兰战争的结局、独裁政权间的日益紧密联系、欧盟在防务政策中的作用、太空武器化以及人工智能对未来战争的影响发表了看法，并分享了在创伤性危机中保持冷静和寻求共识的领导经验。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - historical-insights
-people:
-  - Jens Stoltenberg
-  - Donald Trump
-  - Barack Obama
-  - Joe Biden
-  - Recep Tayyip Erdoğan
-  - President Putin
-companies_orgs:
-  - NATO
-  - Norges Bank Investment Management
-  - EU
-products_models: []
-media_books:
-  - In Good Company
-  - Jens Stoltenberg's book
 status: evergreen
+summary: 北约前秘书长延斯·斯托尔滕贝格在一次播客访谈中，深入探讨了自其著作出版以来全球安全格局的重大变化。他指出世界变得更加危险，强调北约在保护近十亿人口方面变得更为强大。斯托尔滕贝格还就乌克兰战争的结局、独裁政权间的日益紧密联系、欧盟在防务政策中的作用、太空武器化以及人工智能对未来战争的影响发表了看法，并分享了在创伤性危机中保持冷静和寻求共识的领导经验。
+tags:
+- crisis-leadership
+- llm
+- security
+- ukraine-war
+title: 斯托尔滕贝格：全球安全挑战、乌克兰战争与危机领导力
 ---
+
 ### 全球安全格局的演变
 
 北约前秘书长延斯·斯托尔滕贝格（**Jens Stoltenberg**：曾任挪威首相，后担任北大西洋公约组织秘书长）在播客节目《In Good Company》中接受采访时，回顾了他八年前出版的一本书，该书涵盖了直到十年前的时期。主持人询问他，自那本书问世以来，世界发生了哪些最重要的变化。

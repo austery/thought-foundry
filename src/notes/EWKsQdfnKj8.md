@@ -1,49 +1,49 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- NVIDIA
+- Waymo
+- Eureka
 date: '2025-10-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall-E
+- Idiocracy
+people:
+- Andrej Karpathy
+- Dwarkesh Patel
+- Richard Sutton
+products_models:
+- Claude
+- Codex
+- AlexNet
+- Transformer
+- ChatGPT
+- micrograd
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=EWKsQdfnKj8
 speaker: Best Partners TV
-tags:
-  - agi-timeline
-  - ai-intelligence-forms
-  - reinforcement-learning
-  - economic-growth
-  - ai-education
-  - model-collapse
-  - cognitive-core
-  - automation-challenges
-title: AGI十年之遥：Andrej Karpathy论AI现状、未来与教育
-summary: Andrej Karpathy在最新访谈中深入探讨了人工智能的现状与未来。他认为，通用人工智能（**AGI**）的实现仍需十年，当前乐观预测多为融资驱动。Karpathy提出AI是“召唤幽灵”而非“构建动物”，其智能形式与生物智能截然不同。他批评**强化学习**效率低下且有缺陷，并预测AGI将平滑融入经济增长，而非带来爆炸式增长。最后，他分享了创办教育机构Eureka的愿景，旨在AI时代提升人类认知能力，避免被边缘化。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Andrej Karpathy
-  - Dwarkesh Patel
-  - Richard Sutton
-companies_orgs:
-  - OpenAI
-  - NVIDIA
-  - Waymo
-  - Eureka
-products_models:
-  - Claude
-  - Codex
-  - AlexNet
-  - Transformer
-  - ChatGPT
-  - micrograd
-media_books:
-  - Wall-E
-  - Idiocracy
 status: evergreen
+summary: Andrej Karpathy在最新访谈中深入探讨了人工智能的现状与未来。他认为，通用人工智能（**AGI**）的实现仍需十年，当前乐观预测多为融资驱动。Karpathy提出AI是“召唤幽灵”而非“构建动物”，其智能形式与生物智能截然不同。他批评**强化学习**效率低下且有缺陷，并预测AGI将平滑融入经济增长，而非带来爆炸式增长。最后，他分享了创办教育机构Eureka的愿景，旨在AI时代提升人类认知能力，避免被边缘化。
+tags:
+- automation-challenge
+- cognitive
+- economic-growth
+- education
+- intelligence
+- llm
+- model
+- reinforcement-learning
+title: AGI十年之遥：Andrej Karpathy论AI现状、未来与教育
 ---
+
 ### Andrej Karpathy：AGI仍需十年，AI是“幽灵”而非“动物”
 
 近期，在OpenAI和英伟达积极构建万亿AI联盟的同时，对AI泡沫的抨击也甚嚣尘上。德瓦克什·帕特尔（Dwarkesh Patel）对安德烈·卡帕西（Andrej Karpathy）的最新两小时采访，为我们深入了解人工智能的现状与未来提供了独特视角。

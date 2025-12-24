@@ -1,50 +1,50 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Fox News
+- CNN
+- Louvre
+- Amazon
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 60 Minutes
+- The Daily
+- Wicked
+people:
+- Donald Trump
+- Zoran Mandani
+- Andrew Cuomo
+- Scott Bessant
+- Chris Wright
+- Kim Barker
+- Benson Kiputo
+- Helen Oiri
+- Jordan Litz
+products_models:
+- SNAP
+- Cobots
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Hv3E_ya91KI
 speaker: New York Times Podcasts
-tags:
-  - us-elections
-  - campaign-strategy
-  - government-shutdown
-  - nuclear-testing
-  - war-gamification
-title: 美国地方选举前瞻：关键州选情与特朗普政府争议
-summary: 本周新闻聚焦美国即将举行的重要地方选举，包括新泽西州、弗吉尼亚州的州长竞选以及加州的特别选举。纽约市市长竞选中，民主社会主义者佐兰·曼达尼民调领先前州长安德鲁·科莫，并引发特朗普总统的关注和评论。此外，报道还涉及特朗普政府因拒绝拨付食品券紧急资金而被联邦法官裁定违法，以及对核试验言论的澄清。国际方面，巴黎卢浮宫盗窃案的DNA证据取得进展，乌克兰则推行一项基于无人机战果的士兵奖励计划。最后，回顾了纽约市马拉松的精彩瞬间。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Zoran Mandani
-  - Andrew Cuomo
-  - Scott Bessant
-  - Chris Wright
-  - Kim Barker
-  - Benson Kiputo
-  - Helen Oiri
-  - Jordan Litz
-companies_orgs:
-  - Fox News
-  - CNN
-  - Louvre
-  - Amazon
-products_models:
-  - SNAP
-  - Cobots
-media_books:
-  - 60 Minutes
-  - The Daily
-  - Wicked
 status: evergreen
+summary: 本周新闻聚焦美国即将举行的重要地方选举，包括新泽西州、弗吉尼亚州的州长竞选以及加州的特别选举。纽约市市长竞选中，民主社会主义者佐兰·曼达尼民调领先前州长安德鲁·科莫，并引发特朗普总统的关注和评论。此外，报道还涉及特朗普政府因拒绝拨付食品券紧急资金而被联邦法官裁定违法，以及对核试验言论的澄清。国际方面，巴黎卢浮宫盗窃案的DNA证据取得进展，乌克兰则推行一项基于无人机战果的士兵奖励计划。最后，回顾了纽约市马拉松的精彩瞬间。
+tags:
+- campaign-strategy
+- government-shutdown
+- nuclear
+- us-election
+- war
+title: 美国地方选举前瞻：关键州选情与特朗普政府争议
 ---
+
 ### 美国地方选举与政治动态
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是11月3日星期一。以下是我们将报道的内容。

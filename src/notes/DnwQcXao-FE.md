@@ -1,33 +1,32 @@
 ---
-title: 直击美联储会议：降息条件、点阵图解读与市场展望
-summary: 本文解读美联储最新会议，分析SEP和点阵图，探讨鲍威尔对降息条件、通胀及关税的看法，评估市场反应及降息路径，纠正美债持有情况误解。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- federal-reserve
-- inflation
-- interest-rates
-- market-analysis
-- monetary-policy
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-06-19'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+people: []
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=DnwQcXao-FE
+speaker: 投资TALK君
 status: evergreen
+summary: 本文解读美联储最新会议，分析SEP和点阵图，探讨鲍威尔对降息条件、通胀及关税的看法，评估市场反应及降息路径，纠正美债持有情况误解。
+tags:
+- federal-reserve
+- inflation
+- interest-rate
+- market-analysis
+title: 直击美联储会议：降息条件、点阵图解读与市场展望
 ---
+
 ### 美联储SEP：经济预测与降息预期
 
 直接开始。今天主要讨论美联储会议，随后将分析市场反应，以及如何解读鲍威尔今天的发言究竟是**鸽派**（Dovish: 倾向于通过降低利率或增加货币供应来刺激经济的货币政策立场）还是**鹰派**（Hawkish: 倾向于通过提高利率或收紧货币供应来抑制通胀的货币政策立场）。我将分享个人看法。

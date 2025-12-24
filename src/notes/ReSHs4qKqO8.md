@@ -1,35 +1,34 @@
 ---
-author: 徒步的騎手
-date: 2025-08-10
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ReSHs4qKqO8'
-speaker: 徒步的騎手
-tags:
-  - risk-perception
-  - predator-prey-dynamics
-  - personal-boundaries
-  - behavioral-psychology
-  - self-protection
-title: “人渣”的猎物筛选机制：如何避免成为被攻击的目标
-summary: 为什么有些人似乎总是被“人渣”盯上？本文深入探讨了捕食者的猎物筛选逻辑，指出他们倾向于选择风险最低、回报最高的目标。文章分析了两种最容易吸引攻击者的极端人格陷阱——“胆怯”与“鲁莽”，并提出了一种更具生存智慧的状态：“沉稳但不呆板，勇敢但不鲁莽”。最后，文章提供了三个重塑个人风险信号、建立安全边界的具体方法，帮助读者有效降低被侵害的风险。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 伊坂幸太郎
-  - Oskar Schindler
+category: psychology
 companies_orgs:
-  - 纳粹
-products_models: '[]'
+- 纳粹
+date: 2025-08-10
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《辛德勒的名单》
+- 《辛德勒的名单》
+people:
+- 伊坂幸太郎
+- Oskar Schindler
+products_models: '[]'
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=ReSHs4qKqO8
+speaker: 徒步的騎手
 status: evergreen
+summary: 为什么有些人似乎总是被“人渣”盯上？本文深入探讨了捕食者的猎物筛选逻辑，指出他们倾向于选择风险最低、回报最高的目标。文章分析了两种最容易吸引攻击者的极端人格陷阱——“胆怯”与“鲁莽”，并提出了一种更具生存智慧的状态：“沉稳但不呆板，勇敢但不鲁莽”。最后，文章提供了三个重塑个人风险信号、建立安全边界的具体方法，帮助读者有效降低被侵害的风险。
+tags:
+- dynamic
+- personal
+- psychology
+- risk
+- self
+title: “人渣”的猎物筛选机制：如何避免成为被攻击的目标
 ---
 
 ### 引言：为什么有些人总被“人渣”盯上？

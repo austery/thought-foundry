@@ -1,44 +1,44 @@
 ---
-author: 海伦子Hellen
+area: market-analysis
+category: business
+companies_orgs:
+- Tesla
+- SpaceX
+- Waymo
+- Cruise
 date: '2024-10-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+people:
+- Elon Musk
+products_models:
+- Robotaxi
+- Optimus
+- Starship
+- Model Y
+- Model 3
+- Model X
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=Dm685govdZc
 speaker: 海伦子Hellen
-tags:
-  - autonomous-driving
-  - robotics
-  - business-model
-  - market-strategy
-  - ai-training
-title: 特斯拉Robotaxi与Optimus发布会：惊喜、失望与未来商业模式深度解析
-summary: 本文深入分析了特斯拉Robotaxi和Optimus机器人在发布会上的表现，探讨了其在自动驾驶时间线、技术细节、商业模式及市场反响等方面的亮点与不足。文章指出，尽管发布会引发了股价波动和部分失望，但特斯拉在规模化、成本控制和AI端到端训练方面的独特优势，预示着其在未来出行和机器人服务领域的巨大潜力，并强调了自动驾驶对社会发展的长远价值。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Elon Musk
-companies_orgs:
-  - Tesla
-  - SpaceX
-  - Waymo
-  - Cruise
-products_models:
-  - Robotaxi
-  - Optimus
-  - Starship
-  - Model Y
-  - Model 3
-  - Model X
-media_books:
-  - X
 status: evergreen
+summary: 本文深入分析了特斯拉Robotaxi和Optimus机器人在发布会上的表现，探讨了其在自动驾驶时间线、技术细节、商业模式及市场反响等方面的亮点与不足。文章指出，尽管发布会引发了股价波动和部分失望，但特斯拉在规模化、成本控制和AI端到端训练方面的独特优势，预示着其在未来出行和机器人服务领域的巨大潜力，并强调了自动驾驶对社会发展的长远价值。
+tags:
+- autonomous-driving
+- business-model
+- llm
+- market-strategy
+- robotic
+title: 特斯拉Robotaxi与Optimus发布会：惊喜、失望与未来商业模式深度解析
 ---
+
 ### 振奋人心的航天突破与未来展望
 
 过去的一周，对于埃隆·马斯克及其支持者来说，无疑是振奋人心的一周。特斯拉不仅发布了**无人驾驶出租车**（Robotaxi: 一种不需人类司机操作的自动驾驶车辆，提供出行服务），SpaceX新建的**助推器**（Booster: 火箭发射时提供初始推力的部分，通常可回收重复使用）也成功实现了在发射台上的回收。当新建5飞助推器精准落入“筷子”中的那一刻，其激动之情溢于言表。新建助推器分离后，返回时的最大速度接近音速的四倍，同时产生了剧烈高温，却能精准地降落在小小的发射架上，并且没有发生爆炸，这确实是人类航天史上的一大突破。

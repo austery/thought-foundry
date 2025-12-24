@@ -1,44 +1,43 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- SSR
+- 德州大学奥斯汀分校
+- 美国社会学会
+- 美国最高法院
+- 美国联邦上诉法院
+- 美国卫生统计中心
 date: '2022-08-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Regnerus
+- Bill Clinton
+- Christen Smith
+products_models:
+- New Family Structure Study
+- 捍卫婚姻法案
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=TtoAwuaabj8
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - same-sex-marriage
-  - social-science-research
-  - research-methodology
-  - family-structures
-  - sexual-orientation-identity
-title: 同性恋家庭子女养育争议：深度解析Mark Regnerus研究及其方法论缺陷
-summary: 本文深入探讨了2012年Mark Regnerus发表的《新家庭结构调查研究》及其引发的巨大争议。该研究声称同性恋家长养育的子女在多项指标上表现不如异性恋家庭子女，但其研究设计和方法论遭到学界和媒体的广泛质疑。文章详细分析了研究中对“同性家庭”的定义偏差、比较组选择不当等关键缺陷，并结合当时美国同性婚姻诉讼的背景，揭示了该研究在学术严谨性与社会影响之间的张力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Regnerus
-  - Bill Clinton
-  - Christen Smith
-companies_orgs:
-  - SSR
-  - 德州大学奥斯汀分校
-  - 美国社会学会
-  - 美国最高法院
-  - 美国联邦上诉法院
-  - 美国卫生统计中心
-products_models:
-  - New Family Structure Study
-  - 捍卫婚姻法案
-media_books: []
 status: evergreen
+summary: 本文深入探讨了2012年Mark Regnerus发表的《新家庭结构调查研究》及其引发的巨大争议。该研究声称同性恋家长养育的子女在多项指标上表现不如异性恋家庭子女，但其研究设计和方法论遭到学界和媒体的广泛质疑。文章详细分析了研究中对“同性家庭”的定义偏差、比较组选择不当等关键缺陷，并结合当时美国同性婚姻诉讼的背景，揭示了该研究在学术严谨性与社会影响之间的张力。
+tags:
+- family
+- identity
+- research
+- same-sex-marriage
+- social
+title: 同性恋家庭子女养育争议：深度解析Mark Regnerus研究及其方法论缺陷
 ---
+
 ### 争议研究：同性亲密关系与子女养育
 
 曾与男性发生过性行为的美国**异性恋男性**（异男）数量，竟然比美国所有同性恋男性加起来还要多。这里是寿司坦丁，在这里，你可以用最轻松的方式接收国际上最有趣的社会科学。一项研究发现，其作者名为Mark Regnerus，我们称他为“小雷”。这篇论文的题目，如果用当下热门的议题来翻译，可以理解为“曾与同性谈过恋爱或发生过性行为的人，他们的小孩……”。小雷指出，他发现在同性家庭中长大的人，在十几项指标中都不如在异性恋家庭中长大的孩子。

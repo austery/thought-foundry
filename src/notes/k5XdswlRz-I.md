@@ -1,46 +1,46 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- White House
+- National Guard
+- House of Representatives
+- Senate
+- Louvre
+- Natural Science Institute of Iceland
+- Arizona Attorney General's Office
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Donald Trump
+- Tracy Mumford
+- Mike Johnson
+- Adalita Galva
+- Vladimir Putin
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=k5XdswlRz-I
 speaker: New York Times Podcasts
-tags:
-  - drug-interdiction
-  - russia-sanctions
-  - immigration-policy
-  - government-shutdown
-  - presidential-actions
-title: 特朗普政府扩大海上打击，制裁俄罗斯，并计划拆除白宫东翼
-summary: 本期《纽约时报》头条新闻报道了特朗普政府的一系列最新举措。美国扩大了对太平洋地区涉嫌贩毒船只的致命打击，并宣布对俄罗斯石油公司实施新制裁。在国内，旧金山面临联邦移民执法行动，白宫东翼也将被拆除以建造新的宴会厅。此外，国会内部就新当选代表的宣誓和政府停摆问题存在争议，卢浮宫发生珠宝盗窃案，以及冰岛首次发现野生蚊子。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Tracy Mumford
-  - Mike Johnson
-  - Adalita Galva
-  - Vladimir Putin
-companies_orgs:
-  - New York Times
-  - White House
-  - National Guard
-  - House of Representatives
-  - Senate
-  - Louvre
-  - Natural Science Institute of Iceland
-  - Arizona Attorney General's Office
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期《纽约时报》头条新闻报道了特朗普政府的一系列最新举措。美国扩大了对太平洋地区涉嫌贩毒船只的致命打击，并宣布对俄罗斯石油公司实施新制裁。在国内，旧金山面临联邦移民执法行动，白宫东翼也将被拆除以建造新的宴会厅。此外，国会内部就新当选代表的宣誓和政府停摆问题存在争议，卢浮宫发生珠宝盗窃案，以及冰岛首次发现野生蚊子。
+tags:
+- canada
+- geopolitical
+- government-shutdown
+- health
+- immigration-policy
+title: 特朗普政府扩大海上打击，制裁俄罗斯，并计划拆除白宫东翼
 ---
+
 ### 《纽约时报》头条新闻概览
 
 这里是《纽约时报》的头条新闻。我是特蕾西·芒福德。今天是10月23日星期四。以下是我们今天将报道的内容。

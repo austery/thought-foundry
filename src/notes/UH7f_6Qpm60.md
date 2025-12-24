@@ -1,37 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: general
+companies_orgs:
+- 衛生署食品衛生處
+- 初日醫學
+- Cofit
 date: '2025-07-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 文長安
+- 宋晏仁
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=UH7f_6Qpm60
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - food-safety
-  - food-additives
-  - ultra-processed-foods
-  - food-regulation
-  - consumer-awareness
-title: 文長安教授談食品安全：不含防腐劑的食品更危險？
-summary: 資深食品安全專家文長安教授在《初日會客室》中，揭示了現代食品加工業的諸多隱憂。他指出，許多標榜「不含防腐劑」的食品，可能因添加了其他複方化學物質而更具潛在危害。文教授也深入探討了反式脂肪標示的盲點、加工食品對腸道微生物的影響、豆腐與米飯的品質變遷，以及健康食品與糖醇的潛在風險。他強調，食品安全不僅關乎急性中毒，更應關注長期慢性危害，呼籲消費者提升判斷力，選擇更單純的食品。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - 文長安
-  - 宋晏仁
-companies_orgs:
-  - 衛生署食品衛生處
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 資深食品安全專家文長安教授在《初日會客室》中，揭示了現代食品加工業的諸多隱憂。他指出，許多標榜「不含防腐劑」的食品，可能因添加了其他複方化學物質而更具潛在危害。文教授也深入探討了反式脂肪標示的盲點、加工食品對腸道微生物的影響、豆腐與米飯的品質變遷，以及健康食品與糖醇的潛在風險。他強調，食品安全不僅關乎急性中毒，更應關注長期慢性危害，呼籲消費者提升判斷力，選擇更單純的食品。
+tags:
+- consumer
+- food-safety
+- life
+- regulation
+- ultra-processed-food
+title: 文長安教授談食品安全：不含防腐劑的食品更危險？
 ---
+
 ### 蟑螂不吃的生日蛋糕：食品添加劑的隱憂
 
 **宋晏仁 宋醫師:** 嗨，大家好，我是宋晏仁宋醫師，歡迎來到初日會客室。今天要為您訪問的是一位非常特別的人，他就是文長安文教授。文老師您好。

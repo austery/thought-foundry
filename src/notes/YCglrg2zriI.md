@@ -1,55 +1,55 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Maga Inc
+- Republican Party
+- Democratic Party
+- Twitter
+- FBI
 date: '2025-08-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《2024》
+- The Daily Beast
+people:
+- Donald Trump
+- Ron DeSantis
+- Elon Musk
+- Kanye West
+- Nick Fuentes
+- Susie Wells
+- James Blair
+- Tony Fabrizio
+- Chris Christie
+- Nikki Haley
+- Tim Scott
+- Mike Pence
+- Ronna McDaniel
+- Joe Biden
+products_models:
+- Ozempic
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=YCglrg2zriI
 speaker: 北美王路飞
-tags:
-  - us-election-2024
-  - campaign-strategy
-  - political-polarization
-  - psychological-warfare
-  - media-manipulation
-title: 攻心计：特朗普如何巧妙终结德桑蒂斯的总统梦？
-summary: 本文深入分析了2024年美国总统大选共和党初选阶段，唐纳德·特朗普如何运用独特的竞选策略，击败其党内最大竞争对手罗恩·德桑蒂斯。文章详细阐述了特朗普如何将法律困境转化为政治资产，通过心理战和人身攻击瓦解对手，以及德桑蒂斯在政治理解和竞选策略上的失误。最终揭示了在信息爆炸时代，政治从事实辩论转向叙事与情感战争的趋势。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Ron DeSantis
-  - Elon Musk
-  - Kanye West
-  - Nick Fuentes
-  - Susie Wells
-  - James Blair
-  - Tony Fabrizio
-  - Chris Christie
-  - Nikki Haley
-  - Tim Scott
-  - Mike Pence
-  - Ronna McDaniel
-  - Joe Biden
-companies_orgs:
-  - Maga Inc
-  - Republican Party
-  - Democratic Party
-  - Twitter
-  - FBI
-products_models:
-  - Ozempic
-media_books:
-  - 《2024》
-  - The Daily Beast
 status: evergreen
+summary: 本文深入分析了2024年美国总统大选共和党初选阶段，唐纳德·特朗普如何运用独特的竞选策略，击败其党内最大竞争对手罗恩·德桑蒂斯。文章详细阐述了特朗普如何将法律困境转化为政治资产，通过心理战和人身攻击瓦解对手，以及德桑蒂斯在政治理解和竞选策略上的失误。最终揭示了在信息爆炸时代，政治从事实辩论转向叙事与情感战争的趋势。
+tags:
+- campaign-strategy
+- media
+- us-election-2024
+title: 攻心计：特朗普如何巧妙终结德桑蒂斯的总统梦？
+companies:
+- psychological-warfare
 ---
+
 ### 特朗普的法律困境与支持率逆势上涨
 
 今天，我们将深入探讨《2024》这本书的第二集内容，主要分析唐纳德·特朗普是如何击败其党内最大竞争对手罗恩·德桑蒂斯的。回顾2023年，全球媒体的目光都聚焦在特朗普这位前总统身上，他当时官司缠身，一个接一个。客观来说，民主党当时对特朗普确实存在一定的**猎巫行动**（Witch Hunt: 指对异己进行无端指控和迫害的行为），将司法武器政治化。从封口费到机密文件，纽约、佛罗里达、华盛顿、亚特兰大四地同时进行的四轮起诉，这种架势换作任何一个政治人物，其政治生涯基本上都将画上句号。然而，最令人不解的是，特朗普的官司越多，他在共和党内的支持率反而不降反升，一路飙涨。党内竞争对手要么偃旗息鼓，要么直接选择支持他。一个麻烦缠身的前总统，为何会成为党内无人能敌的“疯王”？他究竟使用了何种策略？今天，我们就来详细分析这个故事。

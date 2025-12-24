@@ -1,30 +1,30 @@
 ---
-title: 市场周评：FOMC会议、财政主导与全球资本流动
-summary: null
 area: null
-category: null
-project: []
-tags:
-  - fomc
-  - 市场分析
-  - 美元
-people:
-  - Felix
-  - Quinn Thompson
-  - Joseph Wang
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
 author: Lei
-speaker: ''
+category: null
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Felix
+- Quinn Thompson
+- Joseph Wang
+products_models: []
+project: []
 series: null
 source: null
+speaker: ''
+summary: null
+tags:
+- financial
+- market-analysis
+- us-economy
+title: 市场周评：FOMC会议、财政主导与全球资本流动
 ---
+
 ## 1. 开场与介绍
 
 **Felix:**

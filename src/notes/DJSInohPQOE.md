@@ -1,35 +1,34 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Bridgewater
+- Norges Bank Investment Management
 date: '2024-04-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Greg Jensen
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=DJSInohPQOE
 speaker: Norges Bank Investment Management
-tags:
-  - investment-philosophy
-  - systematic-investing
-  - diversification-strategy
-  - continuous-improvement
-  - economic-understanding
-title: 桥水基金的投资哲学：卓越源于持续改进与系统化思维
-summary: 桥水基金首席投资官格雷格·詹森阐述了其投资哲学的核心原则，强调卓越在于持续改进。他详细介绍了理解经济系统、构建优质投资组合的三个关键要素：深入理解基本面、将想法系统化、以及制定应对错误的策略。詹森还解释了贝塔和阿尔法的区别，并强调了多元化和风险预算在投资中的重要性，最终指出组织层面的理解复利是实现长期成功的关键。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Greg Jensen
-companies_orgs:
-  - Bridgewater
-  - Norges Bank Investment Management
-products_models: []
-media_books: []
 status: evergreen
+summary: 桥水基金首席投资官格雷格·詹森阐述了其投资哲学的核心原则，强调卓越在于持续改进。他详细介绍了理解经济系统、构建优质投资组合的三个关键要素：深入理解基本面、将想法系统化、以及制定应对错误的策略。詹森还解释了贝塔和阿尔法的区别，并强调了多元化和风险预算在投资中的重要性，最终指出组织层面的理解复利是实现长期成功的关键。
+tags:
+- economic
+- geopolitical
+- investing
+- investment-philosophy
+- strategy
+title: 桥水基金的投资哲学：卓越源于持续改进与系统化思维
 ---
+
 ### 桥水基金的卓越哲学：持续改进是核心
 
 非常感谢邀请我。

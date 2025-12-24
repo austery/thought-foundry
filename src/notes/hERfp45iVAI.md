@@ -1,46 +1,45 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-06-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Yu Shu
+- Chuan Xi Lu
+- Song of Poverty and Pleasure
+- The Cultural Revolution is Good
+- The Courage to Be Disliked
+people:
+- Sima Guang
+- Zhang Zai
+- Chen Xianzhang
+- Li Yu
+- Wang Yangming
+- Plato
+- Anselm
+- Thomas Aquinas
+- Ichiro Kishimi
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=hERfp45iVAI
 speaker: Anthony看世界
-tags:
-  - yangming-philosophy
-  - neo-confucianism
-  - spiritual-victory
-  - cultural-revolution
-  - self-cultivation
-title: 王阳明心学：精神胜利法与文化回光返照的深层解析
-summary: 本文深入探讨了王阳明心学的本质及其在中国文化发展中的地位。作者认为，阳明心学是唐宋以来文化危机背景下，士大夫阶层为应对心理困境而发展出的一种“精神胜利法”，它通过将天理内化于心，实现自我麻痹和心理慰藉。文章对比了阳明心学与程朱理学的异同，并将其与西方哲学中信仰与理性的发展路径进行对照，指出阳明心学表面上的自由实则是一种内在的桎梏，甚至与文革时期的某些意识形态逻辑存在隐秘的连接。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Sima Guang
-  - Zhang Zai
-  - Chen Xianzhang
-  - Li Yu
-  - Wang Yangming
-  - Plato
-  - Anselm
-  - Thomas Aquinas
-  - Ichiro Kishimi
-companies_orgs: []
-products_models: []
-media_books:
-  - Yu Shu
-  - Chuan Xi Lu
-  - Song of Poverty and Pleasure
-  - The Cultural Revolution is Good
-  - The Courage to Be Disliked
 status: evergreen
+summary: 本文深入探讨了王阳明心学的本质及其在中国文化发展中的地位。作者认为，阳明心学是唐宋以来文化危机背景下，士大夫阶层为应对心理困境而发展出的一种“精神胜利法”，它通过将天理内化于心，实现自我麻痹和心理慰藉。文章对比了阳明心学与程朱理学的异同，并将其与西方哲学中信仰与理性的发展路径进行对照，指出阳明心学表面上的自由实则是一种内在的桎梏，甚至与文革时期的某些意识形态逻辑存在隐秘的连接。
+tags:
+- cultural-revolution
+- neo-confucianism
+- philosophy
+- self
+- spiritual-victory
+title: 王阳明心学：精神胜利法与文化回光返照的深层解析
 ---
 
 ### 导言：阳明心学的本质与文化危机

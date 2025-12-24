@@ -1,35 +1,34 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国房地产信息集团
+- 中国央行
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- recourse-loan
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=6JoRAIgXzdE
 speaker: 老周横眉
-tags:
-  - china-housing-market
-  - mortgage-default
-  - financial-literacy
-  - loan-repayment-methods
-  - recourse-loans
-title: 房价跌破房贷余额，我该断供吗？中国房贷的金融与法律深度解析
-summary: 面对中国房价持续下跌，许多房主面临房产价值低于房贷余额的困境。本文深入探讨了在当前楼市逆转背景下，是否应继续偿还房贷的金融与法律考量。内容涵盖等额本息与等额本金两种还款方式的详细计算、中美房贷追索权法律差异、断供的个人后果，以及与银行协商、利用LPR调整等实用建议，旨在帮助读者在复杂环境中做出明智决策。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people: []
-companies_orgs:
-  - 中国房地产信息集团
-  - 中国央行
-products_models: []
-media_books: []
 status: evergreen
+summary: 面对中国房价持续下跌，许多房主面临房产价值低于房贷余额的困境。本文深入探讨了在当前楼市逆转背景下，是否应继续偿还房贷的金融与法律考量。内容涵盖等额本息与等额本金两种还款方式的详细计算、中美房贷追索权法律差异、断供的个人后果，以及与银行协商、利用LPR调整等实用建议，旨在帮助读者在复杂环境中做出明智决策。
+tags:
+- china-housing-market
+- financial-literacy
+- history
+- society
+title: 房价跌破房贷余额，我该断供吗？中国房贷的金融与法律深度解析
 ---
+
 ### 房价下跌与断供困境：一个灵魂拷问
 
 最近一年多以来，在中国房价持续下跌的大环境下，经常会有人问我一个灵魂拷问：“老周啊，我房子的价格都跌到比我的房贷余额还低了，这个贷款我还还不还啊？”这个问题背后反映的是很多中国人正在经历的痛苦现实：房子不再是致富的工具，反而成了**负资产**（Negative Equity: 指资产的市场价值低于其相关债务的状况）。面对这样的楼市逆转，我们到底应该怎么做呢？我认为首先你需要具备正确的金融认知，才能在这个乱世当中做出正确的判断。

@@ -1,53 +1,52 @@
 ---
-author: 海伦子Hellen
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Blue Origin
+- SpaceX
+- NASA
+- Amazon
+- United Launch Alliance
+- Boeing
+- Lockheed Martin
 date: '2024-07-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Lex Fridman Podcast
+people:
+- Jeff Bezos
+- Elon Musk
+- Yuri Gagarin
+- Alan Shepard
+- Lex Fridman
+products_models:
+- New Shepard
+- Falcon 9
+- Falcon Heavy
+- Starship
+- New Glenn
+- Project Kuiper
+- Saturn V
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=jMJNf9rOxig
 speaker: 海伦子Hellen
-tags:
-  - space-exploration
-  - private-space-companies
-  - reusable-rockets
-  - space-colonization
-  - orbital-mechanics
-title: 贝索斯的蓝色起源：一场低调而宏大的太空探索之旅
-summary: 本文深入探讨了杰夫·贝索斯旗下蓝色起源公司在太空探索领域的独特路径与愿景。尽管其发展速度相对较慢，并常与SpaceX产生法律纠纷，但蓝色起源拥有将重工业迁出地球、开发外星资源以满足人类需求的宏大目标。文章详细介绍了其亚轨道飞行器新谢波德号的特点及太空旅游体验，以及即将首飞的轨道级重型火箭新格伦号的战略意义。同时，也分析了冷战时期太空竞赛对贝索斯一代人的深远影响，以及蓝色起源在构建太空基础设施方面的长远布局。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jeff Bezos
-  - Elon Musk
-  - Yuri Gagarin
-  - Alan Shepard
-  - Lex Fridman
-companies_orgs:
-  - Blue Origin
-  - SpaceX
-  - NASA
-  - Amazon
-  - United Launch Alliance
-  - Boeing
-  - Lockheed Martin
-products_models:
-  - New Shepard
-  - Falcon 9
-  - Falcon Heavy
-  - Starship
-  - New Glenn
-  - Project Kuiper
-  - Saturn V
-media_books:
-  - Lex Fridman Podcast
 status: evergreen
+summary: 本文深入探讨了杰夫·贝索斯旗下蓝色起源公司在太空探索领域的独特路径与愿景。尽管其发展速度相对较慢，并常与SpaceX产生法律纠纷，但蓝色起源拥有将重工业迁出地球、开发外星资源以满足人类需求的宏大目标。文章详细介绍了其亚轨道飞行器新谢波德号的特点及太空旅游体验，以及即将首飞的轨道级重型火箭新格伦号的战略意义。同时，也分析了冷战时期太空竞赛对贝索斯一代人的深远影响，以及蓝色起源在构建太空基础设施方面的长远布局。
+tags:
+- reusable-rocket
+- science
+- space
+- space-exploration
+title: 贝索斯的蓝色起源：一场低调而宏大的太空探索之旅
 ---
+
 ### 蓝色起源：低调的太空玩家与频繁的法律纠纷
 
 与SpaceX相比，杰夫·贝索斯旗下的**蓝色起源**（Blue Origin）公司似乎一直保持着较低的存在感，关注和谈论它的人也相对较少，这主要是因为其项目进度确实比SpaceX慢很多。然而，最近蓝色起源再次引起关注，因为它又在起诉SpaceX，要求监管机构限制SpaceX火箭在佛罗里达州的发射次数，理由是对当地社区和环境造成了影响。

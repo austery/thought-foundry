@@ -1,40 +1,37 @@
 ---
-author: 美投讲美股
+area: market-analysis
+category: finance
+companies_orgs:
+- SEC
+- ProShares
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- TQQQ
+- QQQ
+- IWM
+- URTY
+- ChatGPT
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=CPXNOD1pcFY
 speaker: 美投讲美股
-tags:
-  - leveraged-etf
-  - volatility-decay
-  - market-drawdown
-  - investment-risk
-  - speculative-trading
-title: 揭秘TQQQ：三倍杠杆ETF的真相与风险
-summary: TQQQ作为追踪纳斯达克100指数三倍收益的杠杆ETF，以其惊人的历史涨幅吸引了众多投资者。然而，其背后隐藏着波动率损耗、高昂成本和极端回撤的巨大风险。本文将深入解析TQQQ的运作机制，通过历史回测揭示其在熊市中的毁灭性表现，并探讨其作为短期投机工具而非长期投资产品的正确使用方法，帮助投资者认清其本质，避免盲目追逐高收益的陷阱。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people: []
-companies_orgs:
-  - SEC
-  - ProShares
-products_models:
-  - TQQQ
-  - QQQ
-  - IWM
-  - URTY
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: TQQQ作为追踪纳斯达克100指数三倍收益的杠杆ETF，以其惊人的历史涨幅吸引了众多投资者。然而，其背后隐藏着波动率损耗、高昂成本和极端回撤的巨大风险。本文将深入解析TQQQ的运作机制，通过历史回测揭示其在熊市中的毁灭性表现，并探讨其作为短期投机工具而非长期投资产品的正确使用方法，帮助投资者认清其本质，避免盲目追逐高收益的陷阱。
+tags:
+- investment
+- investment-risk
+- market
+- speculative-trading
+title: 揭秘TQQQ：三倍杠杆ETF的真相与风险
 ---
+
 ### TQQQ的诱惑与监管警告
 
 大家好，我是美投君，你们的美股探路者。视频一开始，我想先给大家看一张图，这是**TQQQ**（3倍纳斯达克100指数ETF: 一种旨在提供纳斯达克100指数每日三倍收益的杠杆交易型开放式指数基金）的股价表现。那条矮一点的浅蓝色线，则是我们熟悉的**QQQ**（纳斯达克100指数ETF: 追踪纳斯达克100指数表现的交易型开放式指数基金）的表现。不知道大家看到这张图时有何感受？

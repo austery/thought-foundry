@@ -1,51 +1,51 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Generation Investment Management
+- International Energy Agency
+- WTO
+- NATO
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Master Builder
+- Manden
+people:
+- Al Gore
+- Christine Lagarde
+- Donald Trump
+- Cousin Minnie Pearl
+- Joel Mokyr
+- Nelson Mandela
+- Henrik Ibsen
+- Haakon
+- Ida Wolden Bache
+- Nicolai Tangen
+- Kristin Halvorsen
+products_models: []
+project:
+- geopolitics-watch
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=2Dn1vWVLFu4
 speaker: Norges Bank Investment Management
-tags:
-  - climate-transition
-  - political-will
-  - renewable-energy
-  - global-inequality
-  - geopolitical-challenge
-title: 戈尔：全球气候转型面临政治逆风与地缘挑战，但政治意愿是可再生资源
-summary: 美国前副总统阿尔·戈尔在挪威央行气候大会上指出，全球可持续发展转型正处于关键时刻，尽管可再生能源发展迅速，但政治阻力巨大。他强调，化石燃料行业通过政治影响力阻碍创新，导致气候行动停滞不前。戈尔呼吁各国加强合作，特别是挪威在气候融资和森林保护方面的领导作用。他指出，发展中国家在获取私人资本方面面临挑战，并警示中国在清洁能源技术领域的市场主导地位带来的地缘政治影响。最后，他引用易卜生和曼德拉的话，强调政治意愿是实现气候目标的关键可再生资源。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - china-analysis
-  - us-analysis
-people:
-  - Al Gore
-  - Christine Lagarde
-  - Donald Trump
-  - Cousin Minnie Pearl
-  - Joel Mokyr
-  - Nelson Mandela
-  - Henrik Ibsen
-  - Haakon
-  - Ida Wolden Bache
-  - Nicolai Tangen
-  - Kristin Halvorsen
-companies_orgs:
-  - Norges Bank Investment Management
-  - Generation Investment Management
-  - International Energy Agency
-  - WTO
-  - NATO
-products_models: []
-media_books:
-  - The Master Builder
-  - Manden
 status: evergreen
+summary: 美国前副总统阿尔·戈尔在挪威央行气候大会上指出，全球可持续发展转型正处于关键时刻，尽管可再生能源发展迅速，但政治阻力巨大。他强调，化石燃料行业通过政治影响力阻碍创新，导致气候行动停滞不前。戈尔呼吁各国加强合作，特别是挪威在气候融资和森林保护方面的领导作用。他指出，发展中国家在获取私人资本方面面临挑战，并警示中国在清洁能源技术领域的市场主导地位带来的地缘政治影响。最后，他引用易卜生和曼德拉的话，强调政治意愿是实现气候目标的关键可再生资源。
+tags:
+- challenge
+- climate
+- global
+- political
+- renewable-energy
+title: 戈尔：全球气候转型面临政治逆风与地缘挑战，但政治意愿是可再生资源
 ---
+
 ### 开场致辞与“我感觉很好”的故事
 
 非常感谢，殿下，哈康王储。非常感谢您。我期待稍后与您会面，也感谢您在气候问题上所做的个人承诺，这非常重要。感谢挪威银行行长兼主席伊达·沃尔登·巴赫和尼古拉·坦根邀请我，尼古拉。我很荣幸来到这里，尤其是能与克里斯蒂娜·拉加德同台。那真是一场精彩的演讲，确实非常出色。克里斯蒂娜，多年来我们成为了非常亲密的朋友，能与您和克里斯汀·哈尔沃森在这里，我感到非常荣幸。非常感谢，期待在这些发言之后进行对话。很高兴再次回到奥斯陆。我在这里待了三天，遇到的朋友们问我的第一个问题就是关于唐纳德·特朗普。我今天不打算谈论唐纳德·特朗普，但我遇到了一位在美国经商的挪威商人朋友，我问他如何看待特朗普的政策和决定。他说：“我感觉很好。”他说话的方式让我想起了一个我四十年前听过的故事。我来自田纳西州纳什维尔，那是乡村音乐和大奥普里剧院的故乡。在那些日子里，有一位名叫“珍珠表姐”的喜剧演员，她穿着印花连衣裙，戴着一顶草帽，帽子上还挂着价格标签。她的幽默是质朴的乡村风格。她讲了一个故事：作为一名年轻的国会议员，我在参加了一天的市政厅会议后开车回农场。

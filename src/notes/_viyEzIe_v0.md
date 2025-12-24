@@ -1,57 +1,57 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- World Trade Organization
+- Council on Foreign Relations
+- Goldman Sachs
+- NATO
+- European Union
+- Shanghai Cooperation Organization
+- BRICS
+- Hyundai
+- Volkswagen
+- Renault
 date: '2025-09-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Odd Thoughts
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Michael Froman
+- Donald Trump
+- Joe Biden
+- Barack Obama
+- Xi Jinping
+- Robert Kaplan
+- Narendra Modi
+- Vladimir Putin
+- Jim O'Neil
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=_viyEzIe_v0
 speaker: Bloomberg Podcasts
-tags:
-  - global-trade-system
-  - us-china-trade
-  - industrial-policy
-  - supply-chain-diversification
-  - polyamorous-world-order
-title: 迈克尔·弗罗曼论全球贸易体系的演变：从规则到“多角恋”世界秩序
-summary: 本期播客深入探讨了全球贸易体系的深刻变革。前美国贸易代表迈克尔·弗罗曼指出，曾经基于规则的多边体系已在特朗普政府和中国经济模式的冲击下走向终结。他详细阐述了中国产能过剩、知识产权盗窃等问题对全球贸易的冲击，以及美国在应对中采取的关税和产业政策。弗罗曼提出，未来将是一个“多角恋”式的复杂世界秩序，各国将根据自身利益与不同伙伴建立联盟，而非简单的两极或多极对抗。文章还讨论了战略产业的供应链韧性、友岸外包的挑战以及中美两国在产业政策上的趋同现象。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Michael Froman
-  - Donald Trump
-  - Joe Biden
-  - Barack Obama
-  - Xi Jinping
-  - Robert Kaplan
-  - Narendra Modi
-  - Vladimir Putin
-  - Jim O'Neil
-companies_orgs:
-  - Bloomberg
-  - World Trade Organization
-  - Council on Foreign Relations
-  - Goldman Sachs
-  - NATO
-  - European Union
-  - Shanghai Cooperation Organization
-  - BRICS
-  - Hyundai
-  - Volkswagen
-  - Renault
-products_models: []
-media_books:
-  - Odd Lots
-  - Odd Thoughts
 status: evergreen
+summary: 本期播客深入探讨了全球贸易体系的深刻变革。前美国贸易代表迈克尔·弗罗曼指出，曾经基于规则的多边体系已在特朗普政府和中国经济模式的冲击下走向终结。他详细阐述了中国产能过剩、知识产权盗窃等问题对全球贸易的冲击，以及美国在应对中采取的关税和产业政策。弗罗曼提出，未来将是一个“多角恋”式的复杂世界秩序，各国将根据自身利益与不同伙伴建立联盟，而非简单的两极或多极对抗。文章还讨论了战略产业的供应链韧性、友岸外包的挑战以及中美两国在产业政策上的趋同现象。
+tags:
+- geopolitical
+- industrial-policy
+- supply-chain-diversification
+- system
+- us-china-relations
+title: 迈克尔·弗罗曼论全球贸易体系的演变：从规则到“多角恋”世界秩序
 ---
+
 ### 全球贸易体系的现状与挑战
 
 [音乐]

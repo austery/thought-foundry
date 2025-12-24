@@ -1,53 +1,51 @@
 ---
-author: Best Partners TV
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Meta
+- OpenAI
+- Google
+- Anthropic
+- AMI (Advanced Machine Intelligence)
+- IBM
+- Bell Labs
+- NVIDIA
+- Sandbox AQ
+- Wayve
+- SSI
+- Physical Intelligence
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Information Bottleneck》
+people:
+- Yann LeCun
+- Alex Wang
+products_models:
+- JEPA (Joint Embedding Predictive Architecture)
+- Barlow Twins
+- VICReg (Variance–Invariance–Covariance Regularization)
+- SigReg (Signal Regularization)
+- Dreamer
+- Large Quantitative Models
+- SAM (Segment Anything)
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=jYuH2tCRJ60
 speaker: Best Partners TV
-tags:
-  - llm
-  - world-model
-  - agi
-  - ai-safety
-  - prompt-engineering
-title: Yann LeCun 批判硅谷AI路径：世界模型是未来，AGI是胡扯
-summary: 图灵奖得主Yann LeCun批判当前硅谷主流AI发展路径，认为扩大大语言模型规模是死胡同，AGI概念站不住脚。他离开Meta创办AMI公司，押注以认知与感知优先的世界模型技术路线。LeCun强调AI应具备理解和预测世界的能力，而非仅记忆和复述，并指出安全应与发展同步，目标驱动架构是关键。他预测，达到狗水平智能需5-10年，人类水平智能则更久。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Yann LeCun
-  - Alex Wang
-companies_orgs:
-  - Meta
-  - OpenAI
-  - Google
-  - Anthropic
-  - AMI (Advanced Machine Intelligence)
-  - IBM
-  - Bell Labs
-  - NVIDIA
-  - Sandbox AQ
-  - Wayve
-  - SSI
-  - Physical Intelligence
-products_models:
-  - JEPA (Joint Embedding Predictive Architecture)
-  - Barlow Twins
-  - VICReg (Variance–Invariance–Covariance Regularization)
-  - SigReg (Signal Regularization)
-  - Dreamer
-  - Large Quantitative Models
-  - SAM (Segment Anything)
-media_books:
-  - 《The Information Bottleneck》
 status: evergreen
+summary: 图灵奖得主Yann LeCun批判当前硅谷主流AI发展路径，认为扩大大语言模型规模是死胡同，AGI概念站不住脚。他离开Meta创办AMI公司，押注以认知与感知优先的世界模型技术路线。LeCun强调AI应具备理解和预测世界的能力，而非仅记忆和复述，并指出安全应与发展同步，目标驱动架构是关键。他预测，达到狗水平智能需5-10年，人类水平智能则更久。
+tags:
+- agi
+- ai-safety
+- world-model
+title: Yann LeCun 批判硅谷AI路径：世界模型是未来，AGI是胡扯
 ---
+
 大家好，这里是最佳拍档，我是大飞。最近呢，图灵奖得主、前**Meta**首席AI科学家**Yann LeCun**在《**The Information Bottleneck**》栏目里，用将近两小时的时间，把当前硅谷追捧的AI发展路径**批了个体无完肤**。他直言，靠扩大大语言模型的规模、喂合成数据、搞强化学习微调就想通往超级智能，**完全是胡扯**。甚至说，**AGI**（Artificial General Intelligence: 通用人工智能）的概念本身就站不住脚。
 
 ### 路线之争

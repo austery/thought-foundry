@@ -1,31 +1,31 @@
 ---
-title: 中国民意：武统、经济困境与领导人形象的复杂交织
-summary: 本期节目深入探讨了中国民众对武力统一台湾的真实态度，经济下行对民意的影响，以及民众对最高领导人形象的看法。讨论涵盖了多项民意调查，经济困境如何塑造公众行为，以及领导人个人权威与政治体制之间的张力。
 area: tech-insights
 category: technology
+companies_orgs: []
+date: '2025-10-13'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books: []
+people: []
+products_models: []
 project:
 - ai-impact-analysis
+series: ''
+source: https://www.youtube.com/watch?v=iInoaaH6yIY
+speaker: 三個水槍手
+status: evergreen
+summary: 本期节目深入探讨了中国民众对武力统一台湾的真实态度，经济下行对民意的影响，以及民众对最高领导人形象的看法。讨论涵盖了多项民意调查，经济困境如何塑造公众行为，以及领导人个人权威与政治体制之间的张力。
 tags:
 - chinese-public-opinion
 - cross-strait-relations
 - economic-impact
 - leadership-charisma
 - political-leadership
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-13'
-author: 三個水槍手
-speaker: 三個水槍手
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=iInoaaH6yIY
-status: evergreen
+title: 中国民意：武统、经济困境与领导人形象的复杂交织
 ---
+
 ### 台湾问题民意调查的解读
 
 主持人: 我给二位先分享一个调查。这份调查是2024年9月1号到25号，一家美国调查公司**亚高尔**（美国调查公司: 在线调查公司）针对中国公民进行的一次网络调查。他们在网上调查了2211名介于18岁到54岁的中国公民，询问一个问题：“你接不接受中国以武力接管台湾？”结果显示，大幅度不赞同接管台湾的有50%多，赞同武力接管台湾的20%多，中立的20%多。这份调查显示，55%的人不赞成在任何情况之下以武力接管台湾。

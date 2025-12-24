@@ -1,33 +1,30 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-10-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Epictetus
+products_models: []
+project:
+- china-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=V5_kDxTi9Lg
 speaker: 徒步的騎手
-tags:
-  - personal-responsibility
-  - locus-of-control
-  - societal-control
-  - fear-of-failure
-  - cultural-critique
-title: 谁是你人生的第一责任人？剖析中国社会中被扭曲的责任感
-summary: 本期内容探讨了个人责任的核心议题。从一位听众在“垃圾时间”里自我拯救的真实故事出发，深入剖析了为何在中国社会，个人责任感常常被“假大空”的集体概念所绑架和稀释。文章指出了导致这种现象的三大原因：泛滥的“巨婴”文化、国家主导的人生安排以及缺乏边界的传统人情社会。最后，文章提出了一个清晰的行动框架：区分可控与不可控，从外部归因转向内部审视，并勇敢地拥抱失败，以此重新夺回人生的主导权。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Epictetus
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期内容探讨了个人责任的核心议题。从一位听众在“垃圾时间”里自我拯救的真实故事出发，深入剖析了为何在中国社会，个人责任感常常被“假大空”的集体概念所绑架和稀释。文章指出了导致这种现象的三大原因：泛滥的“巨婴”文化、国家主导的人生安排以及缺乏边界的传统人情社会。最后，文章提出了一个清晰的行动框架：区分可控与不可控，从外部归因转向内部审视，并勇敢地拥抱失败，以此重新夺回人生的主导权。
+tags:
+- control
+- cultural-critique
+- failure
+- personal-responsibility
+title: 谁是你人生的第一责任人？剖析中国社会中被扭曲的责任感
 ---
 
 ### 在绝望中把自己活成希望

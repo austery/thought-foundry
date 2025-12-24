@@ -1,47 +1,47 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- OpenAI
+- Google
+- Meta
+- Nvidia
+- CME
+- Binance
 date: '2025-10-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 财经
+people:
+- Donald Trump
+- Franklin D. Roosevelt
+- Vladimir Putin
+products_models:
+- GPT-2
+- GPT-3
+- GPT-4
+- GPT-5
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=LLx502eHIfw
 speaker: Shanghao Jin
-tags:
-  - us-government-shutdown
-  - us-china-tariffs
-  - ai-market-bubble
-  - fiscal-policy-impact
-  - crypto-liquidation-event
-title: 市场概述：美国政治、中美关税、AI泡沫与加密市场异动分析
-summary: 本次市场概述深入探讨了美国政治僵局、中美关税冲突、AI技术泡沫以及加密货币市场爆仓事件。分析了美国政府关门背后的深层原因，包括平价医疗法案的争议和总统行政令的滥用。在中美关系方面，讨论了稀土长臂管辖与关税升级，并预测双方最终将达成和解。同时，文章评估了AI领域的估值现状，认为当前市场泡沫程度不及2000年，并展望了财政周期和AI周期可能结束的时点。最后，详细解析了加密市场爆仓事件的成因，强调了市场杠杆、做市商策略和以太坊清算能力不足等因素。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-  - Franklin D. Roosevelt
-  - Vladimir Putin
-companies_orgs:
-  - OpenAI
-  - Google
-  - Meta
-  - Nvidia
-  - CME
-  - Binance
-products_models:
-  - GPT-2
-  - GPT-3
-  - GPT-4
-  - GPT-5
-media_books:
-  - 财经
 status: evergreen
+summary: 本次市场概述深入探讨了美国政治僵局、中美关税冲突、AI技术泡沫以及加密货币市场爆仓事件。分析了美国政府关门背后的深层原因，包括平价医疗法案的争议和总统行政令的滥用。在中美关系方面，讨论了稀土长臂管辖与关税升级，并预测双方最终将达成和解。同时，文章评估了AI领域的估值现状，认为当前市场泡沫程度不及2000年，并展望了财政周期和AI周期可能结束的时点。最后，详细解析了加密市场爆仓事件的成因，强调了市场杠杆、做市商策略和以太坊清算能力不足等因素。
+tags:
+- ai-market-bubble
+- crypto-liquidation-event
+- fiscal-policy-impact
+- us-china-tariff
+- us-government-shutdown
+title: 市场概述：美国政治、中美关税、AI泡沫与加密市场异动分析
 ---
+
 ### 美国政治僵局与政府关门影响
 
 大家好，我们两周没有交流了。这次会议其实是一次重录，因为实际会议时发生了一些技术问题，导致录制中断。因此，我在讲解时会更加谨慎。两周前，我们讨论了几个重要事件，其中之一是美国政府关门。当时，**唐纳德·特朗普**（Donald Trump）与民主党之间出现了**僵持**（Stand Off: 指双方对峙，互不让步的局面）。我们当时预期政府可能会关门，但没想到会持续这么长时间。

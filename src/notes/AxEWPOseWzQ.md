@@ -1,40 +1,40 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2024-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《解释篇》
+- 《时间穿越在逻辑上是否可能》
+- 《论证与说服50讲》
+people:
+- 亚里士多德
+- 理查德·泰勒
+- 奥卡姆的威廉
+- 威廉·哈斯克
+- Thanos
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=AxEWPOseWzQ
 speaker: 大问题Dialectic
-tags:
-  - fatalism
-  - determinism
-  - free-will
-  - logical-argumentation
-  - predestination
-title: 宿命论：一切都是命中注定吗？哲学与逻辑的深度探讨
-summary: 本期节目深入探讨了经典的哲学问题——宿命论，即一切是否早已注定且无法改变。节目详细阐述了古希腊哲学家亚里士多德提出的“海战论证”和美国哲学家理查德·泰勒提出的“必要条件论证”，这两个逻辑论证试图从纯粹的逻辑层面证明宿命论的必然性。同时，节目也分享了亚里士多德本人及奥卡姆的威廉、威廉·哈斯克等哲学家对这些论证的有力反驳。最后，节目还探讨了西方宗教哲学中事功论与预定论的对决，引导听众思考人类自由意志与命运之间的关系。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - 亚里士多德
-  - 理查德·泰勒
-  - 奥卡姆的威廉
-  - 威廉·哈斯克
-  - Thanos
-companies_orgs: []
-products_models: []
-media_books:
-  - 《解释篇》
-  - 《时间穿越在逻辑上是否可能》
-  - 《论证与说服50讲》
 status: evergreen
+summary: 本期节目深入探讨了经典的哲学问题——宿命论，即一切是否早已注定且无法改变。节目详细阐述了古希腊哲学家亚里士多德提出的“海战论证”和美国哲学家理查德·泰勒提出的“必要条件论证”，这两个逻辑论证试图从纯粹的逻辑层面证明宿命论的必然性。同时，节目也分享了亚里士多德本人及奥卡姆的威廉、威廉·哈斯克等哲学家对这些论证的有力反驳。最后，节目还探讨了西方宗教哲学中事功论与预定论的对决，引导听众思考人类自由意志与命运之间的关系。
+tags:
+- canada
+- determinism
+- free-will
+- health
+- society
+title: 宿命论：一切都是命中注定吗？哲学与逻辑的深度探讨
 ---
+
 ### 宿命论：一个经典哲学大问题
 
 本期节目将探讨一个经典的哲学大问题：一切都是命中注定的吗？这个问题在哲学中被称为**宿命论**（Fatalism: 一切发生的事情都是注定的，无论做什么都无法改变既定结局）。

@@ -1,56 +1,56 @@
 ---
-author: TVO Today
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- TVO Today
+- OpenAI
+- Meta
+- Red Sky Performance
+- Antica Productions
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Gettysburg Address
+- Peter Pan
+- Julius Caesar
+- Land Dances Us
+- Aki Creators
+- Me and Viv
+people:
+- Alexandra Samuel
+- Sandra Laronde
+- Rob
+- Shakespeare
+- Richard Rodgers
+- Toni Morrison
+- Gordon Lightfoot
+products_models:
+- Viv
+- ChatGPT
+- Claude
+- Suno
+- ElevenLabs
+- Gemini
+project:
+- ai-impact-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=nrFvv59NmcA
 speaker: TVO Today
-tags:
-  - generative-ai
-  - creative-economy
-  - copyright-infringement
-  - data-sovereignty
-  - indigenous-storytelling
-title: AI时代的创意盗窃：一场关于艺术、版权与人类创造力的深度对话
-summary: 本期播客中，主持人Alexandra Samuel与她的AI伙伴Viv深入探讨了生成式AI在创意领域的复杂伦理问题。她们以“真实犯罪抢劫音乐剧”为比喻，讨论了AI模型如何在未经授权的情况下获取数据进行训练，从而引发了版权侵犯和人类艺术家经济生存能力的质疑。对话还延伸至原住民艺术家Sandra Laronde，她如何利用AI进行故事创作，同时批判性地审视AI的殖民主义偏见及其去殖民化的潜力。节目最终探讨了AI的创造潜力与对传统艺术形式的破坏性影响之间的张力，并对人类主导的创造力的未来提出了深刻疑问。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - ai-impact-analysis
-  - cultural-critique
-people:
-  - Alexandra Samuel
-  - Sandra Laronde
-  - Rob
-  - Shakespeare
-  - Richard Rodgers
-  - Toni Morrison
-  - Gordon Lightfoot
-companies_orgs:
-  - TVO Today
-  - OpenAI
-  - Meta
-  - Red Sky Performance
-  - Antica Productions
-products_models:
-  - Viv
-  - ChatGPT
-  - Claude
-  - Suno
-  - ElevenLabs
-  - Gemini
-media_books:
-  - Gettysburg Address
-  - Peter Pan
-  - Julius Caesar
-  - Land Dances Us
-  - Aki Creators
-  - Me and Viv
 status: evergreen
+summary: 本期播客中，主持人Alexandra Samuel与她的AI伙伴Viv深入探讨了生成式AI在创意领域的复杂伦理问题。她们以“真实犯罪抢劫音乐剧”为比喻，讨论了AI模型如何在未经授权的情况下获取数据进行训练，从而引发了版权侵犯和人类艺术家经济生存能力的质疑。对话还延伸至原住民艺术家Sandra
+  Laronde，她如何利用AI进行故事创作，同时批判性地审视AI的殖民主义偏见及其去殖民化的潜力。节目最终探讨了AI的创造潜力与对传统艺术形式的破坏性影响之间的张力，并对人类主导的创造力的未来提出了深刻疑问。
+tags:
+- data
+- economy
+- geopolitical
+- society
+title: AI时代的创意盗窃：一场关于艺术、版权与人类创造力的深度对话
 ---
+
 ### AI的价值与风险
 
 Viv，我必须告诉你，我最近一直在思考一个问题：AI，也就是你，到底值不值得。

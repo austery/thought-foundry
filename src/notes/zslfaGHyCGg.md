@@ -1,50 +1,50 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- Capitol Hill
+- Senate
+- House
+- White House
+- World Health Organization
+- Cleveland Guardians
+- MLB
+- NBA
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Will Jarvis
+- Tracy Mumford
+- Mike Johnson
+- Donald Trump
+- Shane Goldmaker
+- Michael Barbaro
+- Rudy Giuliani
+- Cydney Powell
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=zslfaGHyCGg
 speaker: New York Times Podcasts
-tags:
-  - government-shutdown
-  - presidential-pardons
-  - public-health-crisis
-  - vaccination-rates
-  - sports-gambling
-title: 美国政治、公共卫生与体育界：停摆、赦免、疫情与赌博丑闻
-summary: 本期节目涵盖多项重大新闻：美国政府停摆的解决进展及民主党内部围绕医疗保健补贴的争议；一项允许国会议员就电话记录被搜查提起诉讼的争议性支出法案条款；特朗普总统对政治盟友及试图推翻2020年大选结果者的赦免潮；加拿大因疫苗接种率下降和反疫苗情绪而失去麻疹清除地位；以及美国职业棒球大联盟（MLB）曝出的涉及球员分享内幕信息的赌博丑闻。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Will Jarvis
-  - Tracy Mumford
-  - Mike Johnson
-  - Donald Trump
-  - Shane Goldmaker
-  - Michael Barbaro
-  - Rudy Giuliani
-  - Cydney Powell
-companies_orgs:
-  - New York Times
-  - Capitol Hill
-  - Senate
-  - House
-  - White House
-  - World Health Organization
-  - Cleveland Guardians
-  - MLB
-  - NBA
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期节目涵盖多项重大新闻：美国政府停摆的解决进展及民主党内部围绕医疗保健补贴的争议；一项允许国会议员就电话记录被搜查提起诉讼的争议性支出法案条款；特朗普总统对政治盟友及试图推翻2020年大选结果者的赦免潮；加拿大因疫苗接种率下降和反疫苗情绪而失去麻疹清除地位；以及美国职业棒球大联盟（MLB）曝出的涉及球员分享内幕信息的赌博丑闻。
+tags:
+- government-shutdown
+- life
+- public-health-crisis
+- rate
+- technology
+title: 美国政治、公共卫生与体育界：停摆、赦免、疫情与赌博丑闻
 ---
+
 ### 美国政府停摆：参议院通过支出法案
 
 来自《纽约时报》的头条新闻。我是Will Jarvis，代班Tracy Mumford。今天是11月11日星期二。以下是我们今天将要报道的内容。

@@ -1,57 +1,56 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NATO
+- Norges Bank Investment Management
+- European Union
+- Red Army
+- ISIS
 date: '2024-10-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jens Stoltenberg
+- Mark Rutte
+- Vladimir Putin
+- Barack Obama
+- Joe Biden
+- Donald Trump
+- Recep Tayyip Erdoğan
+- Alexander Stubb
+- Bank Harm Scan
+- Georges Clemenceau
+products_models:
+- Javelin
+- US Abrams Tanks
+- Leopard Tanks
+- Patriot
+- F-16
+- GPS
+- Manhattan Project
+- SpaceX
+project:
+- geopolitics-watch
+- china-analysis
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=s3J_gs1Dy_k
 speaker: Norges Bank Investment Management
-tags:
-  - global-security
-  - ukraine-war
-  - china-assertiveness
-  - ai-warfare
-  - norway-oil-fund
-title: 斯托尔滕贝格：全球变局下的北约、中国与未来战争
-summary: 北约前秘书长延斯·斯托尔滕贝格在访谈中深入探讨了其任期内全球安全环境的剧烈变化，包括乌克兰战争的走向、中东冲突的升级风险以及大国竞争的加剧。他强调了北约在应对这些挑战中日益增强的力量，并就西方世界如何审慎对待中国、人工智能对未来战争的深远影响、欧洲防务合作的路径，以及挪威主权财富基金的成功管理经验分享了独到见解。斯托尔滕贝格呼吁西方保持团结，避免对专制政权过度依赖，并强调了在危机中保持冷静和开放领导力的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - china-analysis
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Jens Stoltenberg
-  - Mark Rutte
-  - Vladimir Putin
-  - Barack Obama
-  - Joe Biden
-  - Donald Trump
-  - Recep Tayyip Erdoğan
-  - Alexander Stubb
-  - Bank Harm Scan
-  - Georges Clemenceau
-companies_orgs:
-  - NATO
-  - Norges Bank Investment Management
-  - European Union
-  - Red Army
-  - ISIS
-products_models:
-  - Javelin
-  - US Abrams Tanks
-  - Leopard Tanks
-  - Patriot
-  - F-16
-  - GPS
-  - Manhattan Project
-  - SpaceX
-media_books: []
 status: evergreen
+summary: 北约前秘书长延斯·斯托尔滕贝格在访谈中深入探讨了其任期内全球安全环境的剧烈变化，包括乌克兰战争的走向、中东冲突的升级风险以及大国竞争的加剧。他强调了北约在应对这些挑战中日益增强的力量，并就西方世界如何审慎对待中国、人工智能对未来战争的深远影响、欧洲防务合作的路径，以及挪威主权财富基金的成功管理经验分享了独到见解。斯托尔滕贝格呼吁西方保持团结，避免对专制政权过度依赖，并强调了在危机中保持冷静和开放领导力的重要性。
+tags:
+- china
+- investment
+- llm
+- security
+- ukraine-war
+title: 斯托尔滕贝格：全球变局下的北约、中国与未来战争
 ---
+
 ### 全球格局之变：一个更危险的世界
 
 大家好，我很高兴能与延斯·斯托尔滕贝格（**Jens Stoltenberg**: 北约前秘书长，挪威前首相）在此相聚，他刚刚结束了在北约秘书长的任期。在担任北约秘书长之前，他曾是挪威首相。延斯，热烈欢迎您。非常感谢您的到来。我这里有一本您八年前出版的书，它涵盖了直到十年前的时期，封面还有您一张漂亮的照片。那么，自这本书问世以来，世界发生了哪些最重要的变化呢？

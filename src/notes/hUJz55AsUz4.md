@@ -1,34 +1,32 @@
 ---
-title: 深度解析中国科技崛起的驱动力：创业文化、竞争格局与全球影响
-summary: 本期播客探讨了中国在技术领域的快速崛起，重点分析了中国创业者和VC对西方的深入研究，以及中国在电动汽车、AI等关键行业的创新水平。嘉宾强调了理解中国竞争力的重要性，并讨论了中美关系背景下竞争、脱钩与合作的复杂性。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- cultural-critique
-- investment-strategy
-tags:
-- 中国科技
-- 中美竞争
-- 创新文化
-- 政策改革
-- 风险投资
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bg2-pod
 date: '2025-10-06'
-author: Bg2 Pod
-speaker: Bg2 Pod
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bg2-pod
+products_models: []
+project:
+- china-analysis
+- cultural-critique
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=hUJz55AsUz4
+speaker: Bg2 Pod
 status: evergreen
+summary: 本期播客探讨了中国在技术领域的快速崛起，重点分析了中国创业者和VC对西方的深入研究，以及中国在电动汽车、AI等关键行业的创新水平。嘉宾强调了理解中国竞争力的重要性，并讨论了中美关系背景下竞争、脱钩与合作的复杂性。
+tags:
+- geopolitical
+- society
+- technology
+- venture-capital
+title: 深度解析中国科技崛起的驱动力：创业文化、竞争格局与全球影响
 ---
+
 ### 对中国学习态度的观察
 
 Over lunch, this individual told me, you know, every founder and every VC in China studies the West at a nauseating level. So they listen to all the podcasts, they read everything they possibly can, they study any speech, they look at the financials. And he said, "The West doesn't do that of China."

@@ -1,46 +1,45 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 富士康
 date: '2025-03-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《乘船而去》
+- 《流星花园》
+- 《恶作剧之吻》
+- 《天国的嫁衣》
+- 《放羊的星星》
+- 《搭车去柏林》
+people:
+- 陈小雨
+- 外婆
+- 姐姐阿真
+- 卡姐
+- 谷岳
+- Randall Okita
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=lDcy4kiJXFU
 speaker: 一席YiXi
-tags:
-  - life-rhythm
-  - homelessness-of-home
-  - non-linear-growth
-  - cultural-erasure
-  - meaning-making
-title: 在生命的河流中寻找自己的船：一位编剧的故乡、破碎与重生
-summary: 陈小雨讲述从富二代到破产、从迪拜困局到大理躺平，最终通过拍摄电影《乘船而去》重新理解故乡、亲情与生命节奏的故事。她揭示：梦想并非唯一价值，每个人的生存姿态——无论快艇、大船或小舟——都值得被尊重。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - 陈小雨
-  - 外婆
-  - 姐姐阿真
-  - 卡姐
-  - 谷岳
-  - Randall Okita
-companies_orgs:
-  - 富士康
-products_models: []
-media_books:
-  - 《乘船而去》
-  - 《流星花园》
-  - 《恶作剧之吻》
-  - 《天国的嫁衣》
-  - 《放羊的星星》
-  - 《搭车去柏林》
 status: evergreen
+summary: 陈小雨讲述从富二代到破产、从迪拜困局到大理躺平，最终通过拍摄电影《乘船而去》重新理解故乡、亲情与生命节奏的故事。她揭示：梦想并非唯一价值，每个人的生存姿态——无论快艇、大船或小舟——都值得被尊重。
+tags:
+- cultural
+- growth
+- life
+- psychology
+title: 在生命的河流中寻找自己的船：一位编剧的故乡、破碎与重生
 ---
+
 ### 生命的河流与破碎的故乡
 
 大家好，我是陈小雨。我是一个编剧和导演，在2019年创作了电影《乘船而去》——一部关于归宿的家庭影片，故事发生在我的老家浙江德清。

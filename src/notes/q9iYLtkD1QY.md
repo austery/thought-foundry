@@ -1,39 +1,38 @@
 ---
-author: 徒步的騎手
-date: 2025-01-17
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=q9iYLtkD1QY'
-speaker: 徒步的騎手
-tags:
-  - food-security
-  - social-welfare
-  - propaganda-analysis
-  - value-famine
-  - societal-hatred
-title: 美国食物保障体系的深层含义与中国“价值饥荒”的警示
-summary: 本文揭露中国官媒对美国饥饿问题的虚假宣传，详细介绍了美国政府的食品营养救助项目和民间公益组织（如Food Bank和Meals on Wheels）如何确保低收入家庭的食物安全。文章强调了这些救助不仅解决温饱，更秉持“喂养希望”的理念，帮助贫困儿童健康成长。作者将此与中国社会现状对比，批评政府宣扬仇恨并打压民间公益，导致国民陷入“价值饥荒”，呼吁社会关爱与现代文明价值的回归。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 周树人
+category: geopolitics
 companies_orgs:
-  - 中央电视台
-  - Food Bank
-  - Meals on Wheels
-  - 绿洲公益
-products_models: '[]'
+- 中央电视台
+- Food Bank
+- Meals on Wheels
+- 绿洲公益
+date: 2025-01-17
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《华尔街日报》
-  - 《狂人日记》
+- 《华尔街日报》
+- 《狂人日记》
+people:
+- 周树人
+products_models: '[]'
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=q9iYLtkD1QY
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文揭露中国官媒对美国饥饿问题的虚假宣传，详细介绍了美国政府的食品营养救助项目和民间公益组织（如Food Bank和Meals on Wheels）如何确保低收入家庭的食物安全。文章强调了这些救助不仅解决温饱，更秉持“喂养希望”的理念，帮助贫困儿童健康成长。作者将此与中国社会现状对比，批评政府宣扬仇恨并打压民间公益，导致国民陷入“价值饥荒”，呼吁社会关爱与现代文明价值的回归。
+tags:
+- analysis
+- security
+- social-welfare
+- societal
+- value
+title: 美国食物保障体系的深层含义与中国“价值饥荒”的警示
 ---
 
 ### 揭穿“美国饥饿论”的谎言

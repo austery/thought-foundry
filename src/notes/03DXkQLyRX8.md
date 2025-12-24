@@ -1,50 +1,50 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- PG&E
+- Norges Bank Investment Management
+- General Motors
+- Consumer Energy
+- Nvidia
+- Nuclear Regulatory Commission
+- Department of Energy
+- Toyota
 date: '2024-08-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Patricia Poppe
+- Nicolai Tangen
+- Mary Barra
+- Warren Buffett
+- Bob Flexon
+- Jensen Huang
+- Thomas Edison
+products_models:
+- Cadillac Lyriq
+- Ford Lightning
+project:
+- us-analysis
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=03DXkQLyRX8
 speaker: Norges Bank Investment Management
-tags:
-  - utility-transformation
-  - climate-resilience
-  - operational-excellence
-  - decarbonization
-  - leadership-philosophy
-title: PG&E 首席执行官 Patricia Poppe：以爱领导，重建信任与能源未来
-summary: 本播客采访了 PG&E 首席执行官 Patricia Poppe，她分享了如何带领这家曾因气候灾害破产的美国大型公用事业公司走出危机。Poppe 强调了运营转型而非财务重组的重要性，推行“精益运营系统”和“突破性思维”，并倡导“以爱领导”的企业文化。她还讨论了公司在电网现代化、脱碳、电动汽车整合以及核能利用方面的战略，旨在以更低的社会成本实现气候韧性和可靠的能源供应，同时重建客户和投资者的信任。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Patricia Poppe
-  - Nicolai Tangen
-  - Mary Barra
-  - Warren Buffett
-  - Bob Flexon
-  - Jensen Huang
-  - Thomas Edison
-companies_orgs:
-  - PG&E
-  - Norges Bank Investment Management
-  - General Motors
-  - Consumer Energy
-  - Nvidia
-  - Nuclear Regulatory Commission
-  - Department of Energy
-  - Toyota
-products_models:
-  - Cadillac Lyriq
-  - Ford Lightning
-media_books: []
 status: evergreen
+summary: 本播客采访了 PG&E 首席执行官 Patricia Poppe，她分享了如何带领这家曾因气候灾害破产的美国大型公用事业公司走出危机。Poppe
+  强调了运营转型而非财务重组的重要性，推行“精益运营系统”和“突破性思维”，并倡导“以爱领导”的企业文化。她还讨论了公司在电网现代化、脱碳、电动汽车整合以及核能利用方面的战略，旨在以更低的社会成本实现气候韧性和可靠的能源供应，同时重建客户和投资者的信任。
+tags:
+- climate-resilience
+- environment
+- health
+- leadership-philosophy
+- transformation
+title: PG&E 首席执行官 Patricia Poppe：以爱领导，重建信任与能源未来
 ---
+
 ### 欢迎与 PG&E 的转型之旅
 
 大家好，我是**挪威主权财富基金**（Norges Bank Investment Management: 挪威政府养老基金全球）的首席执行官 Nicolai Tangen。今天，我们邀请到了 PG&E 的首席执行官 Patricia Poppe。

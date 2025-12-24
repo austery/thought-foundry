@@ -1,30 +1,26 @@
 ---
-title: 30岁马来西亚创业者Wilson：从负债千万到年入1500万美金的逆袭之路
-summary: 马来西亚30岁创业者Wilson分享十年创业经历。他从接手亏损公司到打造年入1500万美金的商业帝国，讲述了面对恐惧、系统化管理、持续学习及对五种财富的独特见解。
 area: market-analysis
 category: business
-project:
-  - entrepreneurship
-tags:
-  - business-transformation
-  - entrepreneurship
-  - leadership-development
-  - malaysian-business
-  - wealth-management
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-05-07'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- entrepreneurship
 series: ''
 source: https://www.youtube.com/watch?v=F3b_s8OiNdU
+speaker: 一口新飯
 status: evergreen
+summary: 马来西亚30岁创业者Wilson分享十年创业经历。他从接手亏损公司到打造年入1500万美金的商业帝国，讲述了面对恐惧、系统化管理、持续学习及对五种财富的独特见解。
+tags:
+- business
+- entrepreneurship
+- leadership-development
+- wealth-management
+title: 30岁马来西亚创业者Wilson：从负债千万到年入1500万美金的逆袭之路
 ---
 
 ### 开场白与Wilson的自我介绍

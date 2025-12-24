@@ -1,41 +1,40 @@
 ---
-author: TechButMakeItReal
+area: knowledge-meta
+category: career-development
+companies_orgs:
+- Perplexity
+- Notion
+- Reforge
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ali Abdal
+- Maria
+- Lauren
+products_models:
+- iPhone 13
+- Notion AI
+- Gamma
+project:
+- ai-impact-analysis
+- pkm-research
+series: ''
 source: https://www.youtube.com/watch?v=xZkh7URUOyA
 speaker: TechButMakeItReal
-tags:
-  - youtube-strategy
-  - content-creation
-  - research-process
-  - team-collaboration
-  - ai-productivity
-title: 频道建设第一年回顾：收入、团队与未来展望
-summary: 本视频回顾了YouTube频道在一年内从零到55,000订阅者的成长历程。主持人分享了早期单人制作的挑战、从职业导向内容到深度商业与科技分析的转型，以及内容质量远胜数量的核心理念。她详细介绍了每周严谨的研发与制作流程，并强调了团队合作的重要性。此外，视频还探讨了AI工具的应用、未来发展规划（包括内容垂直扩展和“创始人系列”）以及将频道视为长期事业而非短期盈利工具的战略思考。
-insight: ''
-draft: true
-series: ''
-category: career-development
-area: knowledge-meta
-project:
-  - ai-impact-analysis
-  - pkm-research
-people:
-  - Ali Abdal
-  - Maria
-  - Lauren
-companies_orgs:
-  - Perplexity
-  - Notion
-  - Reforge
-products_models:
-  - iPhone 13
-  - Notion AI
-  - Gamma
-media_books: []
 status: evergreen
+summary: 本视频回顾了YouTube频道在一年内从零到55,000订阅者的成长历程。主持人分享了早期单人制作的挑战、从职业导向内容到深度商业与科技分析的转型，以及内容质量远胜数量的核心理念。她详细介绍了每周严谨的研发与制作流程，并强调了团队合作的重要性。此外，视频还探讨了AI工具的应用、未来发展规划（包括内容垂直扩展和“创始人系列”）以及将频道视为长期事业而非短期盈利工具的战略思考。
+tags:
+- ai-productivity
+- content-creation
+- research
+- strategy
+- team-collaboration
+title: 频道建设第一年回顾：收入、团队与未来展望
 ---
+
 ### 频道启动与初心
 
 一年前，我创建了一个YouTube频道，如今我们已拥有**55,000名订阅者**。感谢每一位在过去一年中与我们同行的朋友。今天，我们将揭秘频道幕后的故事：它是如何建立、如何起飞、我们如何准备一切，以及明年将发生什么。我们将回答大家在帖子下提出的所有问题。过去一年无疑是我生命中最艰难也最激动人心的一年，我想将其分为四个章节来讲述，首先是“如何开始”。

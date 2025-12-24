@@ -1,46 +1,44 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- B站
+- 上海交通大学
 date: '2025-07-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《本草纲目》
+- 《天工开物》
+- 《荷马史诗》
+- 《四库全书》
+people:
+- 沈辛成
+- 蔡元培
+- 苏轼
+- 荷马
+- 李时珍
+- 宋应星
+- 陈睿钊
+products_models: []
+project:
+- historical-insights
+- pkm-research
+series: ''
 source: https://www.youtube.com/watch?v=uVjmBVJvP8s
 speaker: 一席YiXi
-tags:
-  - standardized-testing
-  - ai-disruption
-  - educational-reform
-  - ability-based-learning
-  - meaning-formation
-title: 被应试教育筛选的能力，在AI时代为何变得无关紧要？
-summary: 上海交通大学教师沈辛成深入剖析了当代教育的困境。他指出，学生普遍存在的“意愿无能”源于高考体系“表繁里简”的错位——看似丰富的九门学科，实则主要考核记忆、数理和推演三种能力，忽略了感知、操作、狂热与创造。在AI时代，被标准化考试奉为圭臬的“记忆”已是最廉价的能力。文章通过“樗栎之材”的历史隐喻，呼吁教育应从筛选“栋梁”转向激发个体独特的异质才能，寻找考卷之外的广阔天地。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - pkm-research
-people:
-  - 沈辛成
-  - 蔡元培
-  - 苏轼
-  - 荷马
-  - 李时珍
-  - 宋应星
-  - 陈睿钊
-companies_orgs:
-  - B站
-  - 上海交通大学
-products_models: []
-media_books:
-  - 《本草纲目》
-  - 《天工开物》
-  - 《荷马史诗》
-  - 《四库全书》
 status: evergreen
+summary: 上海交通大学教师沈辛成深入剖析了当代教育的困境。他指出，学生普遍存在的“意愿无能”源于高考体系“表繁里简”的错位——看似丰富的九门学科，实则主要考核记忆、数理和推演三种能力，忽略了感知、操作、狂热与创造。在AI时代，被标准化考试奉为圭臬的“记忆”已是最廉价的能力。文章通过“樗栎之材”的历史隐喻，呼吁教育应从筛选“栋梁”转向激发个体独特的异质才能，寻找考卷之外的广阔天地。
+tags:
+- educational-reform
+- learning
+- llm
+- psychology
+- technology
+title: 被应试教育筛选的能力，在AI时代为何变得无关紧要？
 ---
-
 
 ### 教育中的“拜神”现象与意愿的缺失
 

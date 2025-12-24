@@ -1,28 +1,27 @@
 ---
-title: 彪悍的人生，无需解释：一次心梗带来的富足思维觉醒
-summary: 作者经历心梗后，通过罗永浩的“彪悍的人生不需要解释”这句话，结合《十倍思维》的“需要者”与“想要者”概念，深入探讨了富足主义与匮乏主义的冲突，并强调了“知行合一”对于追求内在“想要”的重要性，最终实现了对疾病的接纳与对自由的坚守。
 area: personal-growth
 category: psychology
-project:
-  - personal-growth-lab
-tags:
-  - life-philosophy
-  - personal-growth
-people:
-  - wang-yangming
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-08-18'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people:
+- wang-yangming
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=Vs81k1uQ1Ek
+speaker: 一口新飯
 status: evergreen
+summary: 作者经历心梗后，通过罗永浩的“彪悍的人生不需要解释”这句话，结合《十倍思维》的“需要者”与“想要者”概念，深入探讨了富足主义与匮乏主义的冲突，并强调了“知行合一”对于追求内在“想要”的重要性，最终实现了对疾病的接纳与对自由的坚守。
+tags:
+- life-philosophy
+- personal-growth
+title: 彪悍的人生，无需解释：一次心梗带来的富足思维觉醒
 ---
 
 ### 领悟“彪悍人生”的真谛

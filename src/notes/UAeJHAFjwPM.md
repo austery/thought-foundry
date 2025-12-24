@@ -1,41 +1,40 @@
 ---
-author: Veritasium
-date: '2023-11-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=UAeJHAFjwPM
-speaker: Veritasium
-tags:
-  - veritasium
-  - night-vision-technology
-  - image-intensification
-  - thermal-imaging
-  - active-illumination
-  - electromagnetic-spectrum
-title: 夜视镜是如何工作的？从原理到军事应用与未来展望
-summary: 本文深入探讨了夜视镜的工作原理，详细介绍了三种主要类型：主动照明、图像增强和热成像。通过在极暗环境下的实地测试，揭示了不同类型夜视镜的性能差异、优缺点及其在军事和民用领域的应用。文章还回顾了夜视技术从二战时期的Gen 0到现代Gen 3的发展历程，并展望了未来的研究方向，强调了亲身体验对理解创新的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-people:
-  - Derek
-  - Emily
-  - Ben
+category: technology
 companies_orgs:
-  - Navy
-  - Brilliant
+- Navy
+- Brilliant
+date: '2023-11-04'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek
+- Emily
+- Ben
 products_models:
-  - PVS-31As
-  - GPNVG-18s
-  - Chandra X-ray Observatory
-  - ChatGPT
-media_books: []
+- PVS-31As
+- GPNVG-18s
+- Chandra X-ray Observatory
+- ChatGPT
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=UAeJHAFjwPM
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了夜视镜的工作原理，详细介绍了三种主要类型：主动照明、图像增强和热成像。通过在极暗环境下的实地测试，揭示了不同类型夜视镜的性能差异、优缺点及其在军事和民用领域的应用。文章还回顾了夜视技术从二战时期的Gen
+  0到现代Gen 3的发展历程，并展望了未来的研究方向，强调了亲身体验对理解创新的重要性。
+tags:
+- active-illumination
+- electromagnetic-spectrum
+- history
+- llm
+- technology
+title: 夜视镜是如何工作的？从原理到军事应用与未来展望
 ---
+
 ### 探索极致黑暗：夜视镜的奥秘
 
 当您将世界上最好的夜视镜带入世界上最黑暗的房间时，会发生什么？

@@ -1,53 +1,50 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: history
+companies_orgs:
+- Harvard
+- Caltech
+- 23andMe
 date: '2024-08-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Reich
+- Ptolemy
+- David Gokhman
+- Liran Carmel
+- Eske Willerslev
+- Kristian Kristiansen
+- Johannes Krause
+- Kyle Harper
+- James Scott
+- Robert Allen
+- Colin Renfrew
+- Marija Gimbutas
+- Nat Friedman
+products_models:
+- 《我们是谁，我们从何而来：古DNA与人类新史学》
+- 《反谷物：深层历史、国家暴政与农民的抵抗艺术》
+- 《罗马的命运：气候、疾病与帝国的终结》
+- FOXP2基因
+- Yersinia pestis
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=Uj6skZIxPuI
 speaker: Dwarkesh Patel
-tags:
-  - ancient-dna
-  - human-evolution
-  - population-genetics
-  - neanderthal
-  - cultural-innovation
-  - disease-impact
-title: 戴维·赖希：古DNA如何重塑人类历史认知
-summary: 哈佛遗传学家戴维·赖希探讨了古DNA如何彻底改变我们对人类历史和进化的理解。他深入分析了现代人类与尼安德特人、丹尼索瓦人之间复杂的混合关系，挑战了传统进化模型。对话还涉及文化创新在人类扩张中的作用、鼠疫杆菌等古老疾病对人口动态的毁灭性影响，以及未来古DNA研究，特别是非洲地区，将如何揭示更多人类起源的奥秘。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - David Reich
-  - Dwarkesh Patel
-  - Ptolemy
-  - David Gokhman
-  - Liran Carmel
-  - Eske Willerslev
-  - Kristian Kristiansen
-  - Johannes Krause
-  - Kyle Harper
-  - James Scott
-  - Robert Allen
-  - Colin Renfrew
-  - Marija Gimbutas
-  - Nat Friedman
-companies_orgs:
-  - Harvard
-  - Caltech
-  - 23andMe
-products_models:
-  - 《我们是谁，我们从何而来：古DNA与人类新史学》
-  - 《反谷物：深层历史、国家暴政与农民的抵抗艺术》
-  - 《罗马的命运：气候、疾病与帝国的终结》
-  - FOXP2基因
-  - Yersinia pestis
-media_books: []
 status: evergreen
+summary: 哈佛遗传学家戴维·赖希探讨了古DNA如何彻底改变我们对人类历史和进化的理解。他深入分析了现代人类与尼安德特人、丹尼索瓦人之间复杂的混合关系，挑战了传统进化模型。对话还涉及文化创新在人类扩张中的作用、鼠疫杆菌等古老疾病对人口动态的毁灭性影响，以及未来古DNA研究，特别是非洲地区，将如何揭示更多人类起源的奥秘。
+tags:
+- cultural
+- health
+- human-evolution
+- impact
+- neanderthal
+title: 戴维·赖希：古DNA如何重塑人类历史认知
 ---
+
 今天，我很荣幸能与**戴维·赖希**（David Reich: 哈佛大学的古DNA遗传学家）对话。**戴维**及其实验室的工作，以及他所从事的领域，彻底改变了我们对人类历史和人类进化的理解。从许多角度来看，这都是引人入胜的研究。就其本身而言，它非常有趣。从**人工智能**（AI: Artificial Intelligence）的角度来看，了解人类进化及其对**AI**未来的启示也同样有趣。
 
 ### 古人类与现代人类的复杂关系

@@ -1,21 +1,21 @@
 ---
-title: 20251019_Office Hour 直播答疑+分享AI新动向，你的 Vibe Coding 难题一网打尽！
-source: https://www.youtube.com/watch?v=ufwIj6Ot0g4
-speaker: 用AI發電
-author:
+area: tech-engineering
+author: null
+category: ai-ml
 date: 2025-10-19
-published:
-summary: 本次 Office Hour 是一场深入 Vibe Coding 实战的“难题会诊”。Mike 与社群成员们围绕一个核心问题展开：在真实的开发旅程中，我们如何跨越从“项目启动”到“长期维护”的种种障碍,分享会从最佳工具的选择（Codex vs Claude Code）开始，深入探讨了 iOS 与 Web 项目截然不同的测试工作流，并给出了如何启动一个全新项目（“脚手架”心法）以及如何重构一个混乱的旧项目（“Spec 驱动”战术）的清晰路径。这份手册沉淀了本次讨论的精华，旨在为你提供一套可复用的思维模式与战术武器库。
-tags:
-  - ai-coding
-status: inbox
-area: tech-insights
-category: technology
+layout: post.njk
 project:
 - ai-impact-analysis
-layout: post.njk
+published: null
+source: https://www.youtube.com/watch?v=ufwIj6Ot0g4
+speaker: 用AI發電
+status: inbox
+summary: 本次 Office Hour 是一场深入 Vibe Coding 实战的“难题会诊”。Mike 与社群成员们围绕一个核心问题展开：在真实的开发旅程中，我们如何跨越从“项目启动”到“长期维护”的种种障碍,分享会从最佳工具的选择（Codex
+  vs Claude Code）开始，深入探讨了 iOS 与 Web 项目截然不同的测试工作流，并给出了如何启动一个全新项目（“脚手架”心法）以及如何重构一个混乱的旧项目（“Spec
+  驱动”战术）的清晰路径。这份手册沉淀了本次讨论的精华，旨在为你提供一套可复用的思维模式与战术武器库。
+tags: []
+title: 20251019_Office Hour 直播答疑+分享AI新动向，你的 Vibe Coding 难题一网打尽！
 ---
-
 
 ### 导语：从工具选型到项目重构
 

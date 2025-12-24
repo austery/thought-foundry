@@ -1,36 +1,36 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2024-06-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《一席》
+people:
+- 扎琼衣扎
+- 扎琼巴让
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=9dxgD_yfaOU
 speaker: 一席YiXi
-tags:
-  - ecological-restoration
-  - indigenous-knowledge
-  - land-degradation
-  - human-nature-relationship
-  - narrative-power
-title: 大地庞大，但每个人的家就这么小：一位牧民导演的草原修复之路
-summary: 扎琼衣扎讲述自己如何从一名普通牧民成长为纪录片导演，通过亲身参与生态修复、发明工具、拍摄影像，揭示草原退化的多重成因，并以本土智慧重建人与土地的联结。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 扎琼衣扎
-  - 扎琼巴让
-companies_orgs: []
-products_models: []
-media_books:
-  - 《一席》
 status: evergreen
+summary: 扎琼衣扎讲述自己如何从一名普通牧民成长为纪录片导演，通过亲身参与生态修复、发明工具、拍摄影像，揭示草原退化的多重成因，并以本土智慧重建人与土地的联结。
+tags:
+- geopolitical
+- human-nature-relationship
+- land-degradation
+- philosophy
+- power
+title: 大地庞大，但每个人的家就这么小：一位牧民导演的草原修复之路
 ---
+
 ### 草原是家，也是我的课堂
 
 大家好，我叫扎琼衣扎，是一名当地纪录片导演，也是一名牧民。我出生在若尔盖大草原——中国三大湿地之一，黄河母亲河30%的水源来自这里。这片广袤的川西北草原，是我从小成长的地方。

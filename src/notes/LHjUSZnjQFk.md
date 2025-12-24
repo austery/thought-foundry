@@ -1,62 +1,61 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Diageo
+- Norges Bank Investment Management
+- Reynolds American
+- British American Tobacco
+- PepsiCo
+- Kraft
+- Nestle
+- Coke
 date: '2025-03-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Debra Crew
+- Nicola Tangan
+- Susan Cameron
+- Javier Ferrán
+- George Clooney
+products_models:
+- Smirnoff
+- Guinness
+- Bailey's
+- Johnny Walker
+- Tanqueray
+- Guinness 0.0
+- RTDs
+- Don Julio 1942
+- Lagavulin
+- Captain Morgan Sweet Chili Lime
+- Smirnoff Tamarindo
+- Casamigos
+- Ritual
+- Seedlip
+- Red Bull
+project:
+- investment-strategy
+- entrepreneurship
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=LHjUSZnjQFk
 speaker: Norges Bank Investment Management
-tags:
-  - beverage-industry
-  - consumer-trends
-  - premiumization
-  - brand-building
-  - corporate-culture
-  - leadership-development
-title: 帝亚吉欧CEO黛布拉·克鲁：洞察烈酒行业趋势、品牌策略与领导力
-summary: 帝亚吉欧（Diageo）首席执行官黛布拉·克鲁（Debra Crew）在播客中分享了对全球饮料行业的深刻见解。她探讨了行业增长的长期趋势、经济压力下的韧性，以及Z世代消费者适度饮酒但追求高端化和多样化体验的新习惯。克鲁详细阐述了帝亚吉欧如何通过产品组合的优化、数据驱动的营销策略以及重塑公司文化来适应这些变化，强调了从“追求最佳”到“追求更好”的文化转型，以及从失败中学习的重要性。她还分享了个人领导力风格和职业发展的心得。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - entrepreneurship
-  - market-cycles
-people:
-  - Debra Crew
-  - Nicola Tangan
-  - Susan Cameron
-  - Javier Ferrán
-  - George Clooney
-companies_orgs:
-  - Diageo
-  - Norges Bank Investment Management
-  - Reynolds American
-  - British American Tobacco
-  - PepsiCo
-  - Kraft
-  - Nestle
-  - Coke
-products_models:
-  - Smirnoff
-  - Guinness
-  - Bailey's
-  - Johnny Walker
-  - Tanqueray
-  - Guinness 0.0
-  - RTDs
-  - Don Julio 1942
-  - Lagavulin
-  - Captain Morgan Sweet Chili Lime
-  - Smirnoff Tamarindo
-  - Casamigos
-  - Ritual
-  - Seedlip
-  - Red Bull
-media_books: []
 status: evergreen
+summary: 帝亚吉欧（Diageo）首席执行官黛布拉·克鲁（Debra Crew）在播客中分享了对全球饮料行业的深刻见解。她探讨了行业增长的长期趋势、经济压力下的韧性，以及Z世代消费者适度饮酒但追求高端化和多样化体验的新习惯。克鲁详细阐述了帝亚吉欧如何通过产品组合的优化、数据驱动的营销策略以及重塑公司文化来适应这些变化，强调了从“追求最佳”到“追求更好”的文化转型，以及从失败中学习的重要性。她还分享了个人领导力风格和职业发展的心得。
+tags:
+- business
+- canada
+- corporate-culture
+- industry
+- leadership-development
+- trend
+title: 帝亚吉欧CEO黛布拉·克鲁：洞察烈酒行业趋势、品牌策略与领导力
 ---
+
 ### 欢迎与帝亚吉欧CEO黛布拉·克鲁对话
 
 Nicola Tangan: 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威中央银行负责管理政府全球养老基金的部门）的首席执行官尼古拉·坦根（Nicola Tangan）。

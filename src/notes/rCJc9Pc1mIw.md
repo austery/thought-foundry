@@ -1,37 +1,35 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- SWIFT
+- 国际清算银行
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- DeepSeek
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=rCJc9Pc1mIw
 speaker: 海淀拙大叔
-tags:
-  - us-china-competition
-  - geopolitical-strategy
-  - hegemony-challenge
-  - strategic-anxiety
-  - financial-warfare
-title: 中国如何反制美国战略大收缩：体系性与技术性手段并举
-summary: 本期节目深入探讨了中国在面对美国全球战略收缩时，应如何采取体系性与技术性相结合的反制策略。体系性手段旨在从根本上摧毁美国的能源、科技和美元霸权，通过可再生能源技术、开放AI生态和人民币国际化来实现。技术性手段则侧重于制造美国的战略焦虑，包括促进军备竞赛、延缓其全球收缩进程、鼓励制造业流向非美地区，并适时利用金融手段。文章强调，这些策略旨在为中国在全球竞争中争取主动权，但同时也需警惕潜在的激烈反制。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people: []
-companies_orgs:
-  - SWIFT
-  - 国际清算银行
-products_models:
-  - DeepSeek
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了中国在面对美国全球战略收缩时，应如何采取体系性与技术性相结合的反制策略。体系性手段旨在从根本上摧毁美国的能源、科技和美元霸权，通过可再生能源技术、开放AI生态和人民币国际化来实现。技术性手段则侧重于制造美国的战略焦虑，包括促进军备竞赛、延缓其全球收缩进程、鼓励制造业流向非美地区，并适时利用金融手段。文章强调，这些策略旨在为中国在全球竞争中争取主动权，但同时也需警惕潜在的激烈反制。
+tags:
+- anxiety
+- challenge
+- financial
+- geopolitical-strategy
+- us-china-relations
+title: 中国如何反制美国战略大收缩：体系性与技术性手段并举
 ---
+
 ### 中国反制美国战略大收缩的策略与时机
 
 本期《阿甘经济宏观论》第16集将探讨美国战略大收缩背景下，中国应如何应对并进行投资。我们认为，美国的收缩意味着中国在全球竞争中获得了主动权，并正转变为进攻方。这与100年前英国全球收缩后，集中资源围堵德国的历史进程有相似之处。中国的反制手段应是体系性与技术性相结合的策略。体系性手段旨在摧毁美国能源、科技和美元霸权的根基，这是一个长期且慢变量的过程。技术性手段则旨在阻挠美国的收缩进程，使其陷入高强度的战略焦虑，不敢也不能迅速从全球收缩，这是一个快速见效的快变量。

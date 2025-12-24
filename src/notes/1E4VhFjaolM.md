@@ -1,57 +1,55 @@
 ---
-author: 东京人文论坛
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 台积电
+- 新浪微博
+- 腾讯
+- 中石化
+- Alibaba
+- 农夫山泉
+- 安踏
+- 晋江
+- 娃哈哈
+- 宁德时代
+- 海康威视
+- 中粮
+- 三菱
+- Polymarket
+- FBI
 date: '2024-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Elon Musk
+- Donald Trump
+- 马化腾
+- 马云
+- 刘宗坤
+- 张小龙
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=1E4VhFjaolM
 speaker: 东京人文论坛
-tags:
-  - state-society-relations
-  - corporate-influence
-  - political-systems
-  - resource-allocation
-  - political-polarization
-  - checks-and-balances
-  - authoritarianism
-  - liberal-democracy
-title: 企业在国家与社会博弈中的角色及美国政治体系的韧性与危机
-summary: 本期讨论了企业在国家与社会博弈中扮演的复杂角色，从韩国财阀推动民主化到中国国企的负面影响，再到民营企业在社会力量成长中的潜在作用。文章还深入探讨了官僚资产阶级化对政策的影响。后半部分聚焦美国政治体系，分析了其可能脱离“自由走廊”的危机，如权力制衡失灵和政治极化，以及维持其韧性的机制，如联邦与州权力分配、言论自由和修宪难度。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - Elon Musk
-  - Donald Trump
-  - 马化腾
-  - 马云
-  - 刘宗坤
-  - 张小龙
-companies_orgs:
-  - 台积电
-  - 新浪微博
-  - 腾讯
-  - 中石化
-  - 阿里巴巴
-  - 农夫山泉
-  - 安踏
-  - 晋江
-  - 娃哈哈
-  - 宁德时代
-  - 海康威视
-  - 中粮
-  - 三菱
-  - Polymarket
-  - FBI
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期讨论了企业在国家与社会博弈中扮演的复杂角色，从韩国财阀推动民主化到中国国企的负面影响，再到民营企业在社会力量成长中的潜在作用。文章还深入探讨了官僚资产阶级化对政策的影响。后半部分聚焦美国政治体系，分析了其可能脱离“自由走廊”的危机，如权力制衡失灵和政治极化，以及维持其韧性的机制，如联邦与州权力分配、言论自由和修宪难度。
+tags:
+- authoritarianism
+- checks-and-balance
+- corporate
+- geopolitical
+- political-system
+- resource-allocation
+- state
+title: 企业在国家与社会博弈中的角色及美国政治体系的韧性与危机
 ---
+
 ### 企业在国家与社会博弈中的多重角色
 
 **主持人:** 好的，那我们来谈谈企业部分。刚才我们讲了宗教，其实有很多原因，比如中国特殊原因，再加上现在也是个世俗社会，其实在任何国家宗教都处于一个相对退潮的状态。而企业在整个社会中则一直在前进。我们刚才已经讲了很多企业在社会国家博弈之中的特殊角色。实际上，大家仔细想的话，企业在社会国家博弈之中起了很重要的作用。

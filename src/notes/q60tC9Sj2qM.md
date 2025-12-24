@@ -1,40 +1,39 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- AstraZeneca
+- CPSO
 date: '2024-01-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《CEO world》
+- 《美国新闻周刊》
+products_models:
+- 易瑞沙
+- 泰瑞沙
+project:
+- us-analysis
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=q60tC9Sj2qM
 speaker: 莊也雜談
-tags:
-  - canadian-healthcare
-  - free-medical-care
-  - wait-times
-  - medical-education
-  - drug-costs
-  - public-health-policy
-title: 加拿大免费医疗：深度解析其优缺点与真实面貌
-summary: 本期节目深入分析了加拿大备受关注的医疗保健系统。它不仅强调了加拿大医疗在公平性、高质量和可持续性方面的显著优势，使其在全球排名第四，也坦诚地揭示了其面临的挑战，包括急诊和专科等待时间过长、医护人员培养周期不均、非居民覆盖限制以及药品费用高昂等问题。节目旨在提供一个全面、中立的视角，帮助观众理解加拿大医疗的真实运作，以及它如何为居民提供独特的安全感和性价比。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - systems-thinking
-people: []
-companies_orgs:
-  - AstraZeneca
-  - CPSO
-products_models:
-  - 易瑞沙
-  - 泰瑞沙
-media_books:
-  - 《CEO world》
-  - 《美国新闻周刊》
 status: evergreen
+summary: 本期节目深入分析了加拿大备受关注的医疗保健系统。它不仅强调了加拿大医疗在公平性、高质量和可持续性方面的显著优势，使其在全球排名第四，也坦诚地揭示了其面临的挑战，包括急诊和专科等待时间过长、医护人员培养周期不均、非居民覆盖限制以及药品费用高昂等问题。节目旨在提供一个全面、中立的视角，帮助观众理解加拿大医疗的真实运作，以及它如何为居民提供独特的安全感和性价比。
+tags:
+- canadian
+- cost
+- education
+- medical
+- public-health-policy
+- time
+title: 加拿大免费医疗：深度解析其优缺点与真实面貌
 ---
+
 ### 加拿大医疗系统：全球排名与核心优势
 
 大家好，我是庄也，欢迎收看庄也杂谈加拿大。今天我们继续“加拿大深度观察系列”，旨在客观分析加拿大的各项特点。本期节目将聚焦加拿大的医疗保健系统，深入探讨其优缺点。

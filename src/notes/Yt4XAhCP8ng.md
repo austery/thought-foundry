@@ -1,45 +1,45 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times
 date: '2023-09-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《性別打結—拆除父權違建》
+- 《三道猴子的一生》
+- 《超人总动员》
+- 《花木兰》
+people:
+- Allan Johnson
+- Margaret Thatcher
+- 蔡英文
+- John F. Kennedy
+- Nikita Khrushchev
+- Arlie Hochschild
+- Johnny Depp
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=Yt4XAhCP8ng
 speaker: 超級歪 SuperY
-tags:
-  - patriarchy
-  - gender-roles
-  - feminism
-  - social-systems
-  - gender-equality
-title: 拆解父权制：从起源、运作机制到男性困境与女性主义的误解
-summary: 本文深入探讨父权制的起源、运作机制及其对男性和女性的影响。从定义父权制为男性主导、男性认同和男性中心，到揭示其历史根源与当代运作方式，包括男性间的竞争、联盟及对女性的物化。文章还驳斥了对女性主义的常见误解，强调父权制是导致两性困境的根本原因，并呼吁通过提升意识和集体行动来拆解这一系统。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - Allan Johnson
-  - Margaret Thatcher
-  - 蔡英文
-  - John F. Kennedy
-  - Nikita Khrushchev
-  - Arlie Hochschild
-  - Johnny Depp
-companies_orgs:
-  - New York Times
-products_models: []
-media_books:
-  - 《性別打結—拆除父權違建》
-  - 《三道猴子的一生》
-  - 《超人总动员》
-  - 《花木兰》
 status: evergreen
+summary: 本文深入探讨父权制的起源、运作机制及其对男性和女性的影响。从定义父权制为男性主导、男性认同和男性中心，到揭示其历史根源与当代运作方式，包括男性间的竞争、联盟及对女性的物化。文章还驳斥了对女性主义的常见误解，强调父权制是导致两性困境的根本原因，并呼吁通过提升意识和集体行动来拆解这一系统。
+tags:
+- gender
+- gender-role
+- social
+- society
+- technology
+title: 拆解父权制：从起源、运作机制到男性困境与女性主义的误解
 ---
+
 ### 父权制的定义与运作机制
 
 上个月，《三道猴子的一生》爆红，许多人开始讨论台湾底层男性的困境。在政治场域中，各种性别歧视与厌女争议也层出不穷。在#MeToo运动之后，各种红药丸与PUA（Pick-up Artist: 搭讪艺术家）的讨论又再度浮现。这些议题最终都会回归到一个根本问题：**父权制**。但父权制究竟是什么？它又是如何运作的？今天我们要面对的书是《性別打結—拆除父權違建》（The Gender Knot），作者是美国社会学家艾伦·约翰逊（Allan Johnson）。这本书旨在清晰地阐释父权制的来龙去脉，让我们一起了解父权制是什么，它如何压迫女性与男性，以及如何拆解父权制。

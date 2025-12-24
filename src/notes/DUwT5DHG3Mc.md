@@ -1,65 +1,64 @@
 ---
-author: FearNation 世界苦茶
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- WTO
+- Binance
+- Nvidia
+- 华为
+- 寒武纪
+- 摩尔线程
+- 万科
+- 深圳国资委
+- 国际货币基金组织
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 南天出版社
+people:
+- Xi Jinping
+- 毛泽东
+- 李克强
+- 秦晖
+- Donald Trump
+- 张廷发
+- 毛远新
+- 胡锡进
+- Martin Wolf
+- Barack Obama
+- 赵长鹏
+- JT
+- Christian Richt
+- Alex Bruh
+- Rom Cow
+- How Lee
+- SW
+- Antomic Power Promptry
+products_models:
+- P-2空对空导弹
+- 大型语言模型AI
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=DUwT5DHG3Mc
 speaker: FearNation 世界苦茶
-tags:
-  - china-economic-policy
-  - employment-crisis
-  - trade-surplus
-  - banking-sector-health
-  - policy-implementation
-title: 中国经济困境与政策选择：从消费、就业到地缘政治影响的深度对话
-summary: 本文整理了一场关于中国经济现状与未来走向的深度互动讨论。参与者围绕消费政策的有效性、新质生产力对就业的冲击、贸易顺差的地缘政治影响、银行体系的健康状况、扶贫政策的争议，以及中国能否借鉴日本模式等核心议题展开探讨。讨论揭示了对中国经济数据真实性、政策执行力以及体制内改革动力的多重疑问，并深入分析了中国经济体系的韧性与潜在风险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 习近平
-  - 毛泽东
-  - 李克强
-  - 秦晖
-  - Donald Trump
-  - 张廷发
-  - 毛远新
-  - 胡锡进
-  - Martin Wolf
-  - Barack Obama
-  - 赵长鹏
-  - FearNation 世界苦茶
-  - JT
-  - Christian Richt
-  - Alex Bruh
-  - Rom Cow
-  - How Lee
-  - SW
-  - Antomic Power Promptry
-companies_orgs:
-  - WTO
-  - Binance
-  - Nvidia
-  - 华为
-  - 寒武纪
-  - 摩尔线程
-  - 万科
-  - 深圳国资委
-  - 国际货币基金组织
-products_models:
-  - P-2空对空导弹
-  - 大型语言模型AI
-media_books:
-  - 《金融时报》
-  - 南天出版社
 status: evergreen
+summary: 本文整理了一场关于中国经济现状与未来走向的深度互动讨论。参与者围绕消费政策的有效性、新质生产力对就业的冲击、贸易顺差的地缘政治影响、银行体系的健康状况、扶贫政策的争议，以及中国能否借鉴日本模式等核心议题展开探讨。讨论揭示了对中国经济数据真实性、政策执行力以及体制内改革动力的多重疑问，并深入分析了中国经济体系的韧性与潜在风险。
+tags:
+- china-economic-policy
+- crisis
+- health
+- policy
+- trade
+title: 中国经济困境与政策选择：从消费、就业到地缘政治影响的深度对话
 ---
+
 ### 消费政策的困境与经济危机的认知
 
 **FearNation 世界苦茶:** 很高兴各位连麦的同学能参与讨论。首先请JT分享他的看法。

@@ -1,44 +1,44 @@
 ---
-author: Money & Macro
+area: finance-wealth
+category: macro-economics
+companies_orgs:
+- OpenAI
+- Nvidia
+- SpaceX
+- Tesla
+- BASF
+- The Economist
+- CSIS
 date: '2025-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《世界 ahead 2026》
+people:
+- Yuri
+- Trump
+- Elon Musk
+products_models:
+- Doge
+project:
+- ai-impact-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=aZB7vcVXCVc
 speaker: Money & Macro
-tags:
-  - china
-  - trade-war
-  - government-debt
-  - ai-bubble
-  - taiwan-geopolitics
-title: 2026年五大全球经济趋势预测
-summary: 本文预测了2026年将主导全球经济的五大关键趋势：中国将在更多行业占据主导地位；贸易战将扩大范围；政府债务将成为制约因素；人工智能（AI）泡沫短期内不会破裂；以及中国可能封锁或隔离台湾。演讲者Yuri博士基于其过往准确的预测能力，分析了这些宏观趋势的驱动因素和潜在影响。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - china-analysis
-people:
-  - Yuri
-  - Trump
-  - Elon Musk
-companies_orgs:
-  - OpenAI
-  - Nvidia
-  - SpaceX
-  - Tesla
-  - BASF
-  - The Economist
-  - CSIS
-products_models:
-  - Doge
-media_books:
-  - 《世界 ahead 2026》
 status: evergreen
+summary: 本文预测了2026年将主导全球经济的五大关键趋势：中国将在更多行业占据主导地位；贸易战将扩大范围；政府债务将成为制约因素；人工智能（AI）泡沫短期内不会破裂；以及中国可能封锁或隔离台湾。演讲者Yuri博士基于其过往准确的预测能力，分析了这些宏观趋势的驱动因素和潜在影响。
+tags:
+- ai-bubble
+- china
+- government-debt
+- taiwan-geopolitics
+- trade-war
+title: 2026年五大全球经济趋势预测
 ---
+
 ### 预测的基石与过往回顾
 
 2025年被**特朗普**及其关税所主导。而2026年，将是中国主导全球经济的年份。越来越多的政府将触及债务上限。**AI泡沫**（人工智能泡沫: 指对人工智能行业过度投资，导致估值远超实际价值的现象）不会破裂，而中国将封锁**台湾**。大家好，我是Yuri，拥有经济学博士学位。每年年底，我都会预测将在下一年主导全球经济的五大关键宏观趋势。去年的预测结果出奇地准确，我预见了人口下降将开始对欧洲、日本和中国产生影响；**特朗普**的贸易战将缓慢展开，因为他最激进的关税建议更多是谈判策略而非实际政策；以及**Elon Musk**的Doge项目可能不会成功，因为他不太可能在一年内就搞懂美国政治。我的其他几项重大预测是：全球经济将步履维艰，各国政府将面临控制债务的艰难抉择，以及绿色能源革命将继续带来惊喜。回望过去，这些预测都已成为现实。全球经济再次令人失望，欧洲和日本的增长尤其缓慢。我去年提到的法国、巴西和英国等高风险国家政府，都面临了危机。尽管**特朗普**的贸易战混乱来得很快，但大部分是其谈判策略的一部分，实际关税的实施却很缓慢。最后，好消息是，绿色能源革命加速发展，2025年电动汽车、太阳能和风力涡轮机的采用量有望再次创下纪录。事实上，我唯一真正错的预测是，大多数预测不会成真。这不禁让我思考，为什么我的主要预测会如此准确？毕竟，经济学家在做预测方面声名狼藉，我自己去年也说过，像天气这样复杂的人类非智能系统，只能可靠预测几天。而像体育比赛这样微小的人类复杂系统，其结果也同样难以预测，无论是专家还是科学家都对此束手无策。因此，认为任何人都能准确预测未来一整年的全球经济，简直是疯狂的。

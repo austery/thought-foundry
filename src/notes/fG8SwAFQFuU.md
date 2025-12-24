@@ -1,39 +1,38 @@
 ---
-author: Veritasium
-date: '2024-01-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fG8SwAFQFuU
-speaker: Veritasium
-tags:
-  - veritasium
-  - cosmic-scale
-  - astronomy-education
-  - celestial-bodies
-  - pluto-reclassification
-  - human-perception
-title: 探索宇宙的浩瀚：从月球到星系，人类的认知挑战
-summary: 本视频探讨了人们对宇宙浩瀚尺度的理解程度。通过挑战参与者对天体大小进行排序，视频深入剖析了行星、卫星、恒星和星系的定义，揭示了它们令人难以置信的庞大数量。讨论环节揭示了常见的认知误区，包括冥王星的重新分类，并以卡尔·萨根对人类在宇宙中位置的深刻反思作结，强调了我们在地球上的共同责任。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Derek
-  - Carl Sagan
+category: science
 companies_orgs:
-  - NASA
-  - Ground News
-products_models:
-  - Voyager 1
+- NASA
+- Ground News
+date: '2024-01-15'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Pale Blue Dot
+- The Pale Blue Dot
+people:
+- Derek
+- Carl Sagan
+products_models:
+- Voyager 1
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=fG8SwAFQFuU
+speaker: veritasium
 status: evergreen
+summary: 本视频探讨了人们对宇宙浩瀚尺度的理解程度。通过挑战参与者对天体大小进行排序，视频深入剖析了行星、卫星、恒星和星系的定义，揭示了它们令人难以置信的庞大数量。讨论环节揭示了常见的认知误区，包括冥王星的重新分类，并以卡尔·萨根对人类在宇宙中位置的深刻反思作结，强调了我们在地球上的共同责任。
+tags:
+- education
+- health
+- human
+- science
+- society
+title: 探索宇宙的浩瀚：从月球到星系，人类的认知挑战
 ---
+
 ### 引言：宇宙尺度的认知挑战
 
 **德里克**：人们真的理解宇宙的尺度吗？

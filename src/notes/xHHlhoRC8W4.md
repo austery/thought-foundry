@@ -1,68 +1,70 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- DX
+- Booking.com
+- Workhuman
+- Forbes
+- CIO magazine
+- Gizmodo
+- OpenAI
+- Wall Street Journal
+- Microsoft
+- Google
+- Meta
+- Asana
+- Ramp
+- Tecton
+- Vercel
+- Dropbox
+- AWS
+- Twilio
+- Indeed.com
+- Shopify
+- DORA
 date: '2025-07-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Pragmatic Engineer
+- Write Useful Books
+- Unsavory Truth
+people:
+- Laura Tacho
+- Greg KH
+- Jesse Adams
+- Rob Fitzpatrick
+- Marian Nestle
+products_models:
+- GitHub Copilot
+- Claude
+- Dependabot
+- Cursor
+- Cody
+- Granola
+- Q Developer Pro
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=xHHlhoRC8W4
 speaker: The Pragmatic Engineer
-tags:
-  - developer-productivity
-  - ai-measurement
-  - media-hype
-  - developer-experience
-  - structured-rollout
-title: 超越代码生成：AI 在软件工程中的真实价值与衡量之道
-summary: AI 真的会取代程序员吗？本期内容深入探讨了 AI 对软件工程的真实影响，揭穿了媒体的过度炒作。嘉宾 Laura Tacho 指出，AI 的最大价值并非代码生成，而在于调试、重构等耗时任务。有趣的是，研究发现 AI 可能会因自动化了开发者享受的编码部分而降低工作满意度。文章最后提出了一套基于“使用率、影响、成本”的数据驱动框架，帮助工程领导者衡量 AI 的真实投资回报，并分享了 Booking.com、Workhuman 等公司的实践案例，强调了结构化落地和数据驱动决策的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Laura Tacho
-  - Greg KH
-  - Jesse Adams
-  - Rob Fitzpatrick
-  - Marian Nestle
-companies_orgs:
-  - DX
-  - Booking.com
-  - Workhuman
-  - Forbes
-  - CIO magazine
-  - Gizmodo
-  - OpenAI
-  - Wall Street Journal
-  - Microsoft
-  - Google
-  - Meta
-  - Asana
-  - Ramp
-  - Tecton
-  - Vercel
-  - Dropbox
-  - AWS
-  - Twilio
-  - Indeed.com
-  - Shopify
-  - DORA
-products_models:
-  - GitHub Copilot
-  - Claude
-  - Dependabot
-  - Cursor
-  - Cody
-  - Granola
-  - Q Developer Pro
-media_books:
-  - The Pragmatic Engineer
-  - Write Useful Books
-  - Unsavory Truth
 status: evergreen
+summary: AI 真的会取代程序员吗？本期内容深入探讨了 AI 对软件工程的真实影响，揭穿了媒体的过度炒作。嘉宾 Laura Tacho 指出，AI 的最大价值并非代码生成，而在于调试、重构等耗时任务。有趣的是，研究发现
+  AI 可能会因自动化了开发者享受的编码部分而降低工作满意度。文章最后提出了一套基于“使用率、影响、成本”的数据驱动框架，帮助工程领导者衡量 AI 的真实投资回报，并分享了
+  Booking.com、Workhuman 等公司的实践案例，强调了结构化落地和数据驱动决策的重要性。
+tags:
+- developer-experience
+- developer-productivity
+- llm
+- media
+- structured-rollout
+title: 超越代码生成：AI 在软件工程中的真实价值与衡量之道
 ---
+
 ### 开发者满意度悖论
 主持人：节省下来的时间会带来什么影响？作为一名开发者，这对我们意味着什么？
 

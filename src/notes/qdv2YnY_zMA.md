@@ -1,66 +1,64 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: business
+companies_orgs:
+- Palantir
+- NVIDIA
+- North Slope
+- Crisis 24
+- Cubic Corporation
+- Kavanaaugh Corporation
+- Lowe's
+- AWS
+- GCP
+- Azure
+- Tampa General
+- R1
+- PG&E
+- Department of War
+- US Army
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Justin
+- Kevin
+- Bill Ward
+- Sid
+- Jeffrey
+- Steve
+- Joe
+- Jesse
+- Dr. Karp
+- Jensen Huang
+- Unkid
+products_models:
+- Foundry
+- AIP
+- CUDA
+- Neotron models
+- ChatGPT
+- OSDK app
+project:
+- ai-impact-analysis
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=qdv2YnY_zMA
 speaker: Amit Kukreja
-tags:
-  - enterprise-ai
-  - data-ontology
-  - supply-chain-optimization
-  - forward-deployed-engineering
-  - digital-transformation
-title: Palantir Paragon大会：揭秘与NVIDIA、Cubic、Crisis24等伙伴的深度合作
-summary: 本文深入探讨了Palantir在Paragon大会上宣布的与NVIDIA、North Slope、Crisis24、Cubic和Kavanaaugh等公司的战略合作。这些合作展示了Palantir的本体论（Ontology）和AI平台（AIP）如何与NVIDIA的加速计算技术结合，共同赋能企业，实现从供应链优化到战场决策、从医疗健康到建筑施工的全面数字化转型。文章强调了前沿部署工程师（FDE）模式、价值创造负担以及边缘计算在推动AI落地和提升企业运营效率中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - us-analysis
-people:
-  - Amit Kukreja
-  - Justin
-  - Kevin
-  - Bill Ward
-  - Sid
-  - Jeffrey
-  - Steve
-  - Joe
-  - Jesse
-  - Dr. Karp
-  - Jensen Huang
-  - Unkid
-companies_orgs:
-  - Palantir
-  - NVIDIA
-  - North Slope
-  - Crisis 24
-  - Cubic Corporation
-  - Kavanaaugh Corporation
-  - Lowe's
-  - AWS
-  - GCP
-  - Azure
-  - Tampa General
-  - R1
-  - PG&E
-  - Department of War
-  - US Army
-products_models:
-  - Foundry
-  - AIP
-  - CUDA
-  - Neotron models
-  - ChatGPT
-  - OSDK app
-media_books: []
 status: evergreen
+summary: 本文深入探讨了Palantir在Paragon大会上宣布的与NVIDIA、North Slope、Crisis24、Cubic和Kavanaaugh等公司的战略合作。这些合作展示了Palantir的本体论（Ontology）和AI平台（AIP）如何与NVIDIA的加速计算技术结合，共同赋能企业，实现从供应链优化到战场决策、从医疗健康到建筑施工的全面数字化转型。文章强调了前沿部署工程师（FDE）模式、价值创造负担以及边缘计算在推动AI落地和提升企业运营效率中的关键作用。
+tags:
+- data
+- digital-transformation
+- engineering
+- enterprise-ai
+- supply-chain-optimization
+title: Palantir Paragon大会：揭秘与NVIDIA、Cubic、Crisis24等伙伴的深度合作
 ---
+
 ### Paragon大会开场：Palantir与NVIDIA的AI合作
 
 大家好。我正在Palantir的年终12月活动Paragon现场，我将在这里进行一次非常特别的采访，讨论一个非常特别的合作关系。我与NVIDIA负责商业AI的Justin以及Palantir负责商业销售的Kevin在一起。感谢两位莅临。

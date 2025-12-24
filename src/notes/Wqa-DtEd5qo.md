@@ -1,54 +1,55 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- Money or Life 美股频道
+- Pure Storage
+- Rocket Lab
+- CoreWeave
+- Circle
+- Tesla
+- Hims
+- MicroStrategy
+- Google
+- Microsoft
+- Blue Origin
+- SpaceX
+- CNBC
+- SEC
+- Grab
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- SEMI analysis
+- X
+people:
+- Michael Saylor
+- Warren Buffett
+products_models:
+- TPU
+- Neutron Rocket
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Wqa-DtEd5qo
 speaker: Money or Life 美股频道
-tags:
-  - market-downturn
-  - growth-stock-investing
-  - high-beta-strategy
-  - left-side-buying
-  - investment-psychology
-title: 美股暴跌周复盘：高Beta成长股策略与市场应对
-summary: 本期节目中，主持人Ace分享了在美股暴跌一周中的个人投资心路与策略。面对高Beta成长股的显著回调，他阐述了坚持左侧加仓、不猜底的原则，并详细介绍了Rocket Lab、特斯拉、CoreWeave、Circle和MicroStrategy等持仓股票的表现与操作。Ace强调了持续学习的重要性，以及在市场恐慌中保持独立思考、回归公司基本面的投资哲学，同时透露了当前仓位和未来的调整计划。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Michael Saylor
-  - Warren Buffett
-companies_orgs:
-  - Money or Life 美股频道
-  - Pure Storage
-  - Rocket Lab
-  - CoreWeave
-  - Circle
-  - Tesla
-  - Hims
-  - MicroStrategy
-  - Google
-  - Microsoft
-  - Blue Origin
-  - SpaceX
-  - CNBC
-  - SEC
-  - Grab
-products_models:
-  - TPU
-  - Neutron Rocket
-media_books:
-  - SEMI analysis
-  - X
 status: evergreen
+summary: 本期节目中，主持人Ace分享了在美股暴跌一周中的个人投资心路与策略。面对高Beta成长股的显著回调，他阐述了坚持左侧加仓、不猜底的原则，并详细介绍了Rocket
+  Lab、特斯拉、CoreWeave、Circle和MicroStrategy等持仓股票的表现与操作。Ace强调了持续学习的重要性，以及在市场恐慌中保持独立思考、回归公司基本面的投资哲学，同时透露了当前仓位和未来的调整计划。
+tags:
+- growth
+- investment-psychology
+- left-side-buying
+- market-downturn
+- strategy
+title: 美股暴跌周复盘：高Beta成长股策略与市场应对
 ---
+
 ### 美股暴跌周复盘与个人应对策略
 
 大家好，欢迎来到Money or Life美股频道。今天是2025年11月15号周六。本周美股市场表现不佳，特别是对于持有大量成长股的投资者而言。在本周，我制作了多期视频和文字内容，包括Pure Storage的个股分析，以及Rocket Lab、CoreWeave和Circle三季度财报的视频分析，并为会员和所有观众创作了文字内容。鉴于许多朋友可能仍在等待每周更新，我将简要汇报本周的经历、目前的仓位和未来的计划。

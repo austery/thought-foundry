@@ -1,46 +1,45 @@
 ---
-author: 老周横眉
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 香港搭棚商会
+- 港九搭棚同进工会
+- 山东晨旭化纤绳网有限公司
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《纽约时报》
+- 脸书
+- TVB
+people:
+- 黄碧娇
+- 李家超
+- 张珊珊
+- 崔少仁
+- 潘卓红
+- Xi Jinping
+- 习远平
+products_models: []
+project:
+- geopolitics-watch
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=LjBox32qfXA
 speaker: 老周横眉
-tags:
-  - fire-safety
-  - scaffolding-technology
-  - political-polarization
-  - government-accountability
-  - urban-planning
-title: 香港宏福苑大火：竹棚争议背后，揭示香港的深层困境与治理危机
-summary: 香港宏福苑大火引发了关于竹棚与金属架的激烈争论，但评论指出，这场争论分散了公众对更深层问题的关注，如工程贪腐、受灾居民安置及政府问责。文章深入探讨了竹棚在香港的独特优势与安全规范，并呼吁政府提供宏观数据以平息争议。同时，文中揭露了阻燃网的质量疑点及政府的不作为，并严厉批评了香港特首李家超的政治表态，最终对香港的未来表达了沉痛的失望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - china-analysis
-  - historical-insights
-people:
-  - 黄碧娇
-  - 李家超
-  - 张珊珊
-  - 崔少仁
-  - 潘卓红
-  - 习近平
-  - 习远平
-companies_orgs:
-  - 香港搭棚商会
-  - 港九搭棚同进工会
-  - 山东晨旭化纤绳网有限公司
-products_models: []
-media_books:
-  - 《纽约时报》
-  - 脸书
-  - TVB
 status: evergreen
+summary: 香港宏福苑大火引发了关于竹棚与金属架的激烈争论，但评论指出，这场争论分散了公众对更深层问题的关注，如工程贪腐、受灾居民安置及政府问责。文章深入探讨了竹棚在香港的独特优势与安全规范，并呼吁政府提供宏观数据以平息争议。同时，文中揭露了阻燃网的质量疑点及政府的不作为，并严厉批评了香港特首李家超的政治表态，最终对香港的未来表达了沉痛的失望。
+tags:
+- government-accountability
+- safety
+- technology
+- urban
+title: 香港宏福苑大火：竹棚争议背后，揭示香港的深层困境与治理危机
 ---
+
 ### 香港宏福苑火灾：一场被争议模糊的悲剧
 
 香港大埔宏福苑火灾在过去几天牵动着全球华人的心。如此惨剧，本来应该是唤起全社会的悲悯与共情、团结一心的时刻，但结果网上却因为政治和立场原因，演变成了部分中国大陆和香港人民之间的骂战和嘲讽，真的非常令人揪心。现在看来，网上几乎90%的讨论都是关于**竹棚**（Bamboo Scaffolding: 香港传统建筑脚手架，以竹材搭建）和**金属架**（Metal Scaffolding: 现代建筑常用的脚手架，通常由钢管或铝合金制成）之间的争吵。中国大陆网民嘲讽香港作为一个国际金融中心，怎么还在用竹棚这种早就过时的东西？他们认为，竹棚脚手架就是本次火灾蔓延如此迅猛、结果如此惨烈的罪魁祸首。香港人则认为，竹棚脚手架有非常多的优势，并且其实并不容易燃烧。他们认为火灾的真正罪魁祸首是产自中国的**蓬网**（Scaffolding Net: 建筑工地外部覆盖的防护网，用于防止坠物），没有达到**阻燃标准**（Fire Retardant Standard: 材料在特定条件下抵抗燃烧或延缓燃烧的性能指标）。而本次香港政府和大陆媒体之所以一直把矛头指向竹棚是另有目的的，于是双方人马在网上炒成一锅粥。

@@ -1,35 +1,35 @@
 ---
-title: 市场反弹：特朗普妥协信号、银行财报季展望及美中贸易动态解析
-summary: 本期节目分析了周末市场对特朗普言论的反应，探讨了美中贸易中的稀土出口底线。同时，对即将到来的银行财报季进行了前瞻性展望，结合技术面与估值，为投资者提供了短中期策略，并分析了标普500的EPS增长预期。
 area: market-analysis
 category: finance
+companies_orgs: []
+date: '2025-10-13'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- talk
+people: []
+products_models: []
 project:
 - china-analysis
 - investment-strategy
 - market-cycles
 - us-analysis
+series: ''
+source: https://www.youtube.com/watch?v=p2HoA_sj6Kw
+speaker: 投资TALK君
+status: evergreen
+summary: 本期节目分析了周末市场对特朗普言论的反应，探讨了美中贸易中的稀土出口底线。同时，对即将到来的银行财报季进行了前瞻性展望，结合技术面与估值，为投资者提供了短中期策略，并分析了标普500的EPS增长预期。
 tags:
-- bank-earnings
+- bank-earning
 - economic-outlook
 - market-analysis
 - technical-analysis
-- us-china-trade
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- talk
-date: '2025-10-13'
-author: 投资TALK君
-speaker: 投资TALK君
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=p2HoA_sj6Kw
-status: evergreen
+- us-china-relations
+title: 市场反弹：特朗普妥协信号、银行财报季展望及美中贸易动态解析
 ---
+
 ### 美中贸易争端与市场反应更新
 
 周末期间，市场对特朗普周五推文引发的下跌做出了反馈。许多观众可能不熟悉“Tackle”这个词，它在美式口语中意指**特朗普**（Donald Trump: 美国前总统，政治人物）最终会向市场或现实妥协。其英文原意是“Trump always checks out”，即特朗普永远会向后退缩，这与向市场妥协的意思相似。目前，在录制本期节目时，美股期货市场已经出现反弹，但反弹幅度远小于周五的跌幅，大约只恢复了一半。**B圈**（加密货币市场: Bitcoin等数字货币的交易市场）也出现了反弹，但尚未恢复到周五下跌前的水平。

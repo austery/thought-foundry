@@ -1,40 +1,39 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Google
+- 人民网
+- 北京青年报
+- 豆瓣
 date: '2025-01-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 不平等的童年
+people:
+- Anthony
+- Anne LaRue
+products_models:
+- Gemini Flash
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=gsarvC-E5vk
 speaker: Anthony看世界
-tags:
-  - diaosi-culture
-  - internet-subculture
-  - social-involution
-  - self-deprecation
-  - mainstream-ideology
-title: 中国“屌丝叙事”的演变：从自嘲到社会结构批判
-summary: 本文深入探讨了中国互联网亚文化中“屌丝叙事”的演变，从最初的自嘲标签发展为对社会结构性困境的深刻批判。文章分析了“躺平学”、“做题家”、“打工人”、“牛马”、“鼠鼠”和“NPC”等流行梗，揭示了当代年轻人面对教育内卷、职场压迫和城乡差距时的无力感与身份困境。同时，文章也批判性地审视了主流社会对这些叙事的压制、美化与收编，指出其作为情绪宣泄的局限性，以及未能触及深层社会矛盾根源的问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Anthony
-  - Anne LaRue
-companies_orgs:
-  - Google
-  - 人民网
-  - 北京青年报
-  - 豆瓣
-products_models:
-  - Gemini Flash
-media_books:
-  - 不平等的童年
 status: evergreen
+summary: 本文深入探讨了中国互联网亚文化中“屌丝叙事”的演变，从最初的自嘲标签发展为对社会结构性困境的深刻批判。文章分析了“躺平学”、“做题家”、“打工人”、“牛马”、“鼠鼠”和“NPC”等流行梗，揭示了当代年轻人面对教育内卷、职场压迫和城乡差距时的无力感与身份困境。同时，文章也批判性地审视了主流社会对这些叙事的压制、美化与收编，指出其作为情绪宣泄的局限性，以及未能触及深层社会矛盾根源的问题。
+tags:
+- culture
+- llm
+- self
+- social
+- society
+title: 中国“屌丝叙事”的演变：从自嘲到社会结构批判
 ---
 
 ### 互联网亚文化中的“屌丝叙事”：从躺平到更深层的批判

@@ -1,54 +1,54 @@
 ---
-author: ZetaBook
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国民党
+- 海基会
+- 海协会
+- 陆委会
+- 民进党
+- 国立故宫博物馆
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《医山问答》
+people:
+- 连战
+- 马英九
+- 郑丽文
+- 清太宗皇太极
+- 明神宗万历帝
+- 丰臣秀吉
+- 明义宗崇祯帝
+- 宋时烈
+- 洪大容
+- 蒋介石
+- 苏起
+products_models:
+- ECFA
+- 九二共识
+- 一中各表
+- 宪法一中
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=UGyDVRf48M8
 speaker: ZetaBook
-tags:
-  - small-china-ideology
-  - political-legitimacy
-  - cross-strait-relations
-  - tributary-system
-  - cultural-identity
-title: 小中華意識形態的傳承：從朝鮮「中華正統」到台灣「九二共識」
-summary: 本文深入探討了面對強大外部威脅時，弱勢政權如何通過「小中華意識形態」維持其內部合法性與集體自尊。文章以朝鮮在明清交替時期的「中華正統在朝鮮」觀念，對比台灣國民黨在「九二共識」框架下的「一中各表」策略。分析指出，這兩種策略本質上都是一種精神勝利法，旨在通過文化優越感或模糊的政治共識，在現實政治壓力下尋求生存空間與經貿紅利，同時維護內部統治的道德基礎。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 连战
-  - 马英九
-  - 郑丽文
-  - 清太宗皇太极
-  - 明神宗万历帝
-  - 丰臣秀吉
-  - 明义宗崇祯帝
-  - 宋时烈
-  - 洪大容
-  - 蒋介石
-  - 苏起
-companies_orgs:
-  - 国民党
-  - 海基会
-  - 海协会
-  - 陆委会
-  - 民进党
-  - 国立故宫博物馆
-products_models:
-  - ECFA
-  - 九二共识
-  - 一中各表
-  - 宪法一中
-media_books:
-  - 《医山问答》
 status: evergreen
+summary: 本文深入探討了面對強大外部威脅時，弱勢政權如何通過「小中華意識形態」維持其內部合法性與集體自尊。文章以朝鮮在明清交替時期的「中華正統在朝鮮」觀念，對比台灣國民黨在「九二共識」框架下的「一中各表」策略。分析指出，這兩種策略本質上都是一種精神勝利法，旨在通過文化優越感或模糊的政治共識，在現實政治壓力下尋求生存空間與經貿紅利，同時維護內部統治的道德基礎。
+tags:
+- china
+- cross-strait-relations
+- cultural-identity
+- political-legitimacy
+- system
+title: 小中華意識形態的傳承：從朝鮮「中華正統」到台灣「九二共識」
 ---
+
 ### 朝貢體系與台灣的“九二共識”
 
 上期“禁書筆記”提出了一個觀點，即**朝貢體系**（Tributary System: 東亞歷史上以中國為中心，周邊國家向中國皇帝進貢並獲得冊封的國際關係模式）是解決台海問題的金鑰匙。許多台灣觀眾認為，今天的中國已非傳統古代的中國，因此歷史經驗無法借鑒。然而，向中國磕頭，用政治紅利向北京朝貢以換取經貿紅利，這並非“禁書筆記”獨創。國民黨早在连战時期就已開始實踐，這是一個已經發生的事實。

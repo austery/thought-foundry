@@ -1,46 +1,44 @@
 ---
-author: a16z
+area: tech-insights
+category: science
+companies_orgs:
+- Chan Zuckerberg Initiative
+- UCSF
+- Stanford
+- Berkeley
+- Evolutionary Scale
+- Meta
+- NIH
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Zuckerberg
+- Priscilla Chan
+- Alex Reeves
+products_models:
+- AlphaFold
+- Cell by Gene
+- Variant Former
+- Diffusion Model
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=YnV8pgHtO5Y
 speaker: a16z
-tags:
-  - ai-in-biology
-  - virtual-cells
-  - precision-medicine
-  - scientific-tools
-  - philanthropy-in-science
-title: AI如何加速基础科学，以本世纪末治愈所有疾病
-summary: 陈-扎克伯格倡议（CZI）的创始人马克·扎克伯格和普莉希拉·陈分享了他们利用人工智能（AI）加速生物医学研究的愿景。他们提出，通过构建共享工具和虚拟细胞模型，可以弥合生物学和AI之间的鸿沟，从而更有效地治愈和预防疾病。文章探讨了CZI的慈善策略、其生物中心（Biohub）的运作模式，以及如何通过开源数据和跨学科合作，推动精准医疗的发展，最终实现对人类健康的重大突破。
-insight: ''
-draft: true
-series: ''
-category: science
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Mark Zuckerberg
-  - Priscilla Chan
-  - Alex Reeves
-companies_orgs:
-  - Chan Zuckerberg Initiative
-  - UCSF
-  - Stanford
-  - Berkeley
-  - Evolutionary Scale
-  - Meta
-  - NIH
-products_models:
-  - AlphaFold
-  - Cell by Gene
-  - Variant Former
-  - Diffusion Model
-media_books: []
 status: evergreen
+summary: 陈-扎克伯格倡议（CZI）的创始人马克·扎克伯格和普莉希拉·陈分享了他们利用人工智能（AI）加速生物医学研究的愿景。他们提出，通过构建共享工具和虚拟细胞模型，可以弥合生物学和AI之间的鸿沟，从而更有效地治愈和预防疾病。文章探讨了CZI的慈善策略、其生物中心（Biohub）的运作模式，以及如何通过开源数据和跨学科合作，推动精准医疗的发展，最终实现对人类健康的重大突破。
+tags:
+- health
+- llm
+- science
+- scientific
+title: AI如何加速基础科学，以本世纪末治愈所有疾病
 ---
+
 ### AI与生物学：弥合鸿沟，加速发现
 
 Mark: 这是一个，我认为，**人工智能**（AI: Artificial Intelligence，模拟人类智能的机器或程序）将发挥巨大作用的领域。

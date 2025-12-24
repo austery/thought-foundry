@@ -1,34 +1,33 @@
 ---
-author: 徒步的騎手
-date: 2024-12-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=qSuZcS42aR4'
-speaker: 徒步的騎手
-tags:
-  - life-philosophy
-  - personal-resilience
-  - positive-mindset
-  - uncertainty-management
-  - self-expression
-title: 面对“柠檬年”：尼采哲学、积极心态与2025年的个人期许
-summary: 2024年充满不确定性，引发了普遍的焦虑与迷茫。本文从尼采“爱命运”的哲学思想出发，结合“生活给你柠檬，就做柠檬水”的美国俗语，探讨在不利环境中保持积极心态、承担个人责任的重要性。作者分享了对2025年的期许：做自己能做的事，说自己想说的话，并强调了重复表达真理的必要性，旨在传递希望，鼓励读者在变幻的世界中找到属于自己的快乐与平静。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Friedrich Nietzsche
-  - André Gide
-  - 刘叔叔
+category: psychology
 companies_orgs: '[]'
-products_models:
-  - Substack
+date: 2024-12-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Friedrich Nietzsche
+- André Gide
+- 刘叔叔
+products_models:
+- Substack
+project:
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=qSuZcS42aR4
+speaker: 徒步的騎手
 status: evergreen
+summary: 2024年充满不确定性，引发了普遍的焦虑与迷茫。本文从尼采“爱命运”的哲学思想出发，结合“生活给你柠檬，就做柠檬水”的美国俗语，探讨在不利环境中保持积极心态、承担个人责任的重要性。作者分享了对2025年的期许：做自己能做的事，说自己想说的话，并强调了重复表达真理的必要性，旨在传递希望，鼓励读者在变幻的世界中找到属于自己的快乐与平静。
+tags:
+- life-philosophy
+- management
+- mindset
+- personal-resilience
+- self
+title: 面对“柠檬年”：尼采哲学、积极心态与2025年的个人期许
 ---
 
 ### 开篇：时间的流逝与不确定性

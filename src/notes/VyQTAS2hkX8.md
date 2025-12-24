@@ -1,58 +1,58 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国同盟会
+- 光复会
+- 黄埔军校
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《蒋介石早年时代》
+- 《新撰外国地理》
+- 《新撰中学地理》
+- 《军声》
+- 《阿Q正传》
+- 《呐喊自序》
+people:
+- 蒋介石
+- 孙中山
+- 汪精卫
+- 鲁迅
+- 张群
+- 宋教仁
+- 陶成章
+- 陈英士
+- 黄兴
+- 梁启超
+- 蔡锷
+- 阎锡山
+- 张太炎
+- 蔡元培
+- 徐锡麟
+- 陈诚
+- 李宗仁
+- 白崇禧
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=VyQTAS2hkX8
 speaker: 东京人文论坛
-tags:
-  - small-figures-in-history
-  - formative-years
-  - ambition-vs-talent
-  - sino-japanese-relations
-title: 东京造“蒋介石”：一个不起眼的小人物如何塑造近代中国
-summary: 本讲座深入探讨了蒋介石在东京的早年岁月，揭示了他如何从一个默默无闻、成绩平平的留学生，成长为影响中国历史进程的关键人物。讲座分析了日本的军事教育、生活方式和政治环境如何深刻塑造了蒋介石的性格、世界观及其后来的“新生活运动”。通过与汪精卫、鲁迅等同时代人的对比，文章阐述了“小人物创造历史”以及志向大于才华的观点，强调了东京这段经历对他一生的决定性影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 蒋介石
-  - 孙中山
-  - 汪精卫
-  - 鲁迅
-  - 张群
-  - 宋教仁
-  - 陶成章
-  - 陈英士
-  - 黄兴
-  - 梁启超
-  - 蔡锷
-  - 阎锡山
-  - 张太炎
-  - 蔡元培
-  - 徐锡麟
-  - 陈诚
-  - 李宗仁
-  - 白崇禧
-companies_orgs:
-  - 中国同盟会
-  - 光复会
-  - 黄埔军校
-products_models: []
-media_books:
-  - 《蒋介石早年时代》
-  - 《新撰外国地理》
-  - 《新撰中学地理》
-  - 《军声》
-  - 《阿Q正传》
-  - 《呐喊自序》
 status: evergreen
+summary: 本讲座深入探讨了蒋介石在东京的早年岁月，揭示了他如何从一个默默无闻、成绩平平的留学生，成长为影响中国历史进程的关键人物。讲座分析了日本的军事教育、生活方式和政治环境如何深刻塑造了蒋介石的性格、世界观及其后来的“新生活运动”。通过与汪精卫、鲁迅等同时代人的对比，文章阐述了“小人物创造历史”以及志向大于才华的观点，强调了东京这段经历对他一生的决定性影响。
+tags:
+- history
+- sino-japanese-relations
+- talent
+- technology
+title: 东京造“蒋介石”：一个不起眼的小人物如何塑造近代中国
 ---
+
 ### 历史角落里不起眼的小人物
 我想说的第一句话是：历史常常是在一个不起眼的角落，由不起眼的人创造出来的。所以今天《东京重造中国》的第九讲，我把它称为总结篇，其主角就是一个不起眼的小人物。
 

@@ -1,33 +1,32 @@
 ---
-author: 徒步的騎手
-date: 2025-04-07
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=VrCxr0q7u84'
-speaker: 徒步的騎手
-tags:
-  - long-distance-walking
-  - overthinking
-  - personal-reflection
-  - pilgrimage-routes
-  - japanese-culture
-title: 走出东京：徒步之旅与告别过度思考
-summary: 本文记录了作者从东京出发，徒步前往京都的经历，这是他第六次长途徒步。文章探讨了长途徒步的魅力，从西班牙圣雅各之路到日本四国遍路，以及人们踏上旅途的深层原因，如摆脱模板化生活、重新思考人生。作者分享了自己年轻时的梦想如何通过徒步实现，并深入剖析了“过度思考”这一现代病。通过身体的疲惫和感官的回归，徒步帮助人们摆脱焦虑，专注于当下，体验真实而简单的生命。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: personal-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Mr. Wolf
+category: psychology
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-04-07
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《低俗小说》
+- 《低俗小说》
+people:
+- Mr. Wolf
+products_models: '[]'
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=VrCxr0q7u84
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文记录了作者从东京出发，徒步前往京都的经历，这是他第六次长途徒步。文章探讨了长途徒步的魅力，从西班牙圣雅各之路到日本四国遍路，以及人们踏上旅途的深层原因，如摆脱模板化生活、重新思考人生。作者分享了自己年轻时的梦想如何通过徒步实现，并深入剖析了“过度思考”这一现代病。通过身体的疲惫和感官的回归，徒步帮助人们摆脱焦虑，专注于当下，体验真实而简单的生命。
+tags:
+- culture
+- history
+- long
+- overthinking
+- personal
+title: 走出东京：徒步之旅与告别过度思考
 ---
 
 ### 徒步远行：从四国遍路到东京京都之路

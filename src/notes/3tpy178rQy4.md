@@ -1,64 +1,64 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国外交部
+- 中央警卫局
+- 中共中央
+- 全国人民代表大会
 date: '2024-09-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《关于个人崇拜及其后果》
+- 《海瑞罢官》
+- 《60分钟》
+people:
+- 柴静
+- 奥丽亚娜·法拉奇
+- 邓小平
+- 毛泽东
+- 周恩来
+- 刘少奇
+- 江青
+- 华国锋
+- 林彪
+- 钱希臣
+- 施燕华
+- 亨利·基辛格
+- 桑德罗·佩尔蒂尼
+- 鲁霍拉·霍梅尼
+- 彭德怀
+- 理查德·尼克松
+- 埃德加·斯诺
+- 叶剑英
+- 李先念
+- 陈云
+- 赵紫阳
+- 尼基塔·赫鲁晓夫
+- 约瑟夫·斯大林
+- 迈克·华莱士
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=3tpy178rQy4
 speaker: 柴静 Chai Jing
-tags:
-  - cultural-revolution
-  - political-reform
-  - leadership-transition
-  - historical-evaluation
-  - feudalism-in-communism
-title: 邓小平与法拉奇的世纪对话：重评毛泽东、文革与中国未来
-summary: 本文回顾了1980年奥丽亚娜·法拉奇对邓小平的两次历史性采访。邓小平在采访中直面了对毛泽东、文化大革命和华国锋的评价，揭示了中国在改革开放初期面临的政治困境与制度遗产。文章探讨了邓小平对个人崇拜、封建主义残余及领导人终身制的深刻反思，以及他如何通过这次对话向世界阐明中国未来的方向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 柴静
-  - 奥丽亚娜·法拉奇
-  - 邓小平
-  - 毛泽东
-  - 周恩来
-  - 刘少奇
-  - 江青
-  - 华国锋
-  - 林彪
-  - 钱希臣
-  - 施燕华
-  - 亨利·基辛格
-  - 桑德罗·佩尔蒂尼
-  - 鲁霍拉·霍梅尼
-  - 彭德怀
-  - 理查德·尼克松
-  - 埃德加·斯诺
-  - 叶剑英
-  - 李先念
-  - 陈云
-  - 赵紫阳
-  - 尼基塔·赫鲁晓夫
-  - 约瑟夫·斯大林
-  - 迈克·华莱士
-companies_orgs:
-  - 中国外交部
-  - 中央警卫局
-  - 中共中央
-  - 全国人民代表大会
-products_models: []
-media_books:
-  - 《关于个人崇拜及其后果》
-  - 《海瑞罢官》
-  - 《60分钟》
 status: evergreen
+summary: 本文回顾了1980年奥丽亚娜·法拉奇对邓小平的两次历史性采访。邓小平在采访中直面了对毛泽东、文化大革命和华国锋的评价，揭示了中国在改革开放初期面临的政治困境与制度遗产。文章探讨了邓小平对个人崇拜、封建主义残余及领导人终身制的深刻反思，以及他如何通过这次对话向世界阐明中国未来的方向。
+tags:
+- cultural-revolution
+- geopolitical
+- historical
+- leadership-transition
+- political-reform
+title: 邓小平与法拉奇的世纪对话：重评毛泽东、文革与中国未来
 ---
+
 ### 历史的重访：邓小平与法拉奇的对话
 
 2001年，我刚入新闻记者行业时，最早的自学教材是**奥丽亚娜·法拉奇**（Oriana Fallaci: 意大利著名记者、作家，以其尖锐的采访风格闻名）在1980年对邓小平的访问。这个访问的核心是谈毛泽东和**文革**（Cultural Revolution: 中华人民共和国在1966年至1976年间发生的一场政治运动），也谈到了毛泽东和邓小平、周恩来、刘少奇、江青和华国锋的关系。说实话，当时我看的时候只是在学采访的技巧，因为对我来说，毛和他的时代已经成为过去，我和我的国家正在飞速向前。

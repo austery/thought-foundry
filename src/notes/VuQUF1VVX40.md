@@ -1,42 +1,38 @@
 ---
-author: Hung-yi Lee
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Google
+- Eleven Labs
+- Heygen
+- Genspark
+- NTU Cool
+- JudgeBoi
+- 台灣大專院校人工智慧學程聯盟
 date: '2025-09-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- course-introduction
+products_models:
+- ChatGPT
+- VO3
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=VuQUF1VVX40
 speaker: Hung-yi Lee
-tags:
-  - generative-ai
-  - machine-learning
-  - ai-principles
-  - course-introduction
-  - ai-tools
-title: 生成式人工智慧與機器學習導論2025：從使用者到創造者的AI之旅
-summary: 本课程《生成式人工智慧與機器學習導論2025》旨在引导学生从仅仅使用ChatGPT等AI工具，深入理解其背后的原理，并最终成为AI的创造者。李宏毅教授强调，理解AI的运作机制能避免误解，将“魔术”转化为“科学”。课程内容涵盖现有生成式AI的运作方式、构建方法，并包含实践性作业，其中部分作业需要较长的模型训练时间，以模拟真实世界中AI开发的挑战。本课程适合未来希望深入AI领域或期望更智慧地使用AI工具的同学。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Hung-yi Lee
-companies_orgs:
-  - Google
-  - Eleven Labs
-  - Heygen
-  - Genspark
-  - NTU Cool
-  - JudgeBoi
-  - 台灣大專院校人工智慧學程聯盟
-products_models:
-  - ChatGPT
-  - VO3
-media_books: []
 status: evergreen
+summary: 本课程《生成式人工智慧與機器學習導論2025》旨在引导学生从仅仅使用ChatGPT等AI工具，深入理解其背后的原理，并最终成为AI的创造者。李宏毅教授强调，理解AI的运作机制能避免误解，将“魔术”转化为“科学”。课程内容涵盖现有生成式AI的运作方式、构建方法，并包含实践性作业，其中部分作业需要较长的模型训练时间，以模拟真实世界中AI开发的挑战。本课程适合未来希望深入AI领域或期望更智慧地使用AI工具的同学。
+tags:
+- principle
+- tool
+title: 生成式人工智慧與機器學習導論2025：從使用者到創造者的AI之旅
 ---
+
 ### 开场白与课程愿景
 
 大家好，我们现在开始上课。刚才大家看到的影片，其实是使用Google的**VO3**（Video Generation AI: 谷歌开发的一款能够根据文字描述生成视频的人工智能）随意生成的一些影片，作为我们课程的开场。现在，我们来正式开始这门课程。

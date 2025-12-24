@@ -1,47 +1,45 @@
 ---
-author: Veritasium
-date: '2022-12-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=J_n1FZaKzF8
-speaker: Veritasium
-tags:
-  - veritasium
-  - kinetic-weapons
-  - space-warfare
-  - missile-defense
-  - weapon-feasibility
-  - orbital-mechanics
-title: “上帝之杖”：揭秘美国军事史上最疯狂的太空武器构想及其可行性挑战
-summary: 本文深入探讨了美国军事史上一个极具争议的太空武器构想——“上帝之杖”（Rods from God）。该概念设想将巨型钨棒从轨道投向地球目标，以其巨大的动能造成毁灭性打击。文章详细阐述了其物理原理、历史沿革、潜在优势（如精准打击、无核辐射）以及在实际操作中面临的巨大挑战，包括瞄准精度、通信、轨道部署成本和导弹防御的局限性，最终揭示了其在现实中难以实现的困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jerry Pournelle
-  - Adam Savage
+category: geopolitics
 companies_orgs:
-  - Boeing
-  - Soviet Union
-  - US Air Force
-  - International Space Station
-products_models:
-  - Sputnik
-  - ICBM
-  - MOAB
-  - Brilliant Pebbles
-  - Hypervelocity Rod Bundles
-  - Rods from God
+- Boeing
+- Soviet Union
+- US Air Force
+- International Space Station
+date: '2022-12-21'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Footfall
+- Footfall
+people:
+- Jerry Pournelle
+- Adam Savage
+products_models:
+- Sputnik
+- ICBM
+- MOAB
+- Brilliant Pebbles
+- Hypervelocity Rod Bundles
+- Rods from God
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=J_n1FZaKzF8
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了美国军事史上一个极具争议的太空武器构想——“上帝之杖”（Rods from God）。该概念设想将巨型钨棒从轨道投向地球目标，以其巨大的动能造成毁灭性打击。文章详细阐述了其物理原理、历史沿革、潜在优势（如精准打击、无核辐射）以及在实际操作中面临的巨大挑战，包括瞄准精度、通信、轨道部署成本和导弹防御的局限性，最终揭示了其在现实中难以实现的困境。
+tags:
+- geopolitical
+- llm
+- science
+- space
+title: “上帝之杖”：揭秘美国军事史上最疯狂的太空武器构想及其可行性挑战
 ---
+
 ### 序言：一项大胆的实验
 
 这是我制作过的规模最大、最雄心勃勃、也最昂贵的视频，它也将令人感到恐惧。

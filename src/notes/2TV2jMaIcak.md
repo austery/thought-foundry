@@ -1,58 +1,58 @@
 ---
-author: 硅谷101
+area: market-analysis
+category: business
+companies_orgs:
+- Beyond Meat
+- Impossible Foods
+- Unreal Foods
+- Remastered Foods
+- Meatless Farm
+- GFI
+- McDonald's
+- Walmart
+- Whole Foods
+- Reddit
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《The Power Law》
+people:
+- Gabor Forgacs
+- Ethan Brown
+- Patrick Brown
+- Dimitri Semenikhin
+- Bill Gates
+- Li Ka-shing
+- Leonardo DiCaprio
+- Vinod Khosla
+- Robert F. Kennedy Jr.
+- Peter (Impossible Foods CEO)
+products_models:
+- McPlant
+- Impossible cheeseburger
+- Bacon cheeseburger
+project:
+- investment-strategy
+- market-cycles
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=2TV2jMaIcak
 speaker: 硅谷101
-tags:
-  - alternative-protein-market
-  - capital-speculation
-  - consumer-rejection
-  - ultra-processed-foods
-  - business-model-failure
-title: 人造肉千亿赛道崩塌：资本幻想、精英主义泡沫与市场现实的碰撞
-summary: 曾被资本热捧、寄予厚望的千亿人造肉市场，在短短几年内迅速走向坍塌。本文深入剖析了Beyond Meat和Impossible Foods等明星公司的兴衰，揭示了其股价暴跌、濒临破产的背后原因。从消费者对口味、价格、健康神话的质疑，到超加工食品的争议，以及市场定位的战略失误，共同导致了这场科技精英主义泡沫的破灭。文章探讨了人造肉行业面临的残酷商业现实，以及未来可能的出路。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - entrepreneurship
-people:
-  - Gabor Forgacs
-  - Ethan Brown
-  - Patrick Brown
-  - Dimitri Semenikhin
-  - Bill Gates
-  - Li Ka-shing
-  - Leonardo DiCaprio
-  - Vinod Khosla
-  - Robert F. Kennedy Jr.
-  - Peter (Impossible Foods CEO)
-companies_orgs:
-  - Beyond Meat
-  - Impossible Foods
-  - Unreal Foods
-  - Remastered Foods
-  - Meatless Farm
-  - GFI
-  - McDonald's
-  - Walmart
-  - Whole Foods
-  - Reddit
-products_models:
-  - McPlant
-  - Impossible cheeseburger
-  - Bacon cheeseburger
-media_books:
-  - 《华尔街日报》
-  - 《The Power Law》
 status: evergreen
+summary: 曾被资本热捧、寄予厚望的千亿人造肉市场，在短短几年内迅速走向坍塌。本文深入剖析了Beyond Meat和Impossible Foods等明星公司的兴衰，揭示了其股价暴跌、濒临破产的背后原因。从消费者对口味、价格、健康神话的质疑，到超加工食品的争议，以及市场定位的战略失误，共同导致了这场科技精英主义泡沫的破灭。文章探讨了人造肉行业面临的残酷商业现实，以及未来可能的出路。
+tags:
+- business-model-failure
+- capital
+- consumer
+- market
+- ultra-processed-food
+title: 人造肉千亿赛道崩塌：资本幻想、精英主义泡沫与市场现实的碰撞
 ---
+
 ### 人造肉：从资本宠儿到市场弃儿
 
 2019年，**人造肉**（泛指概念，主要分为**植物基植物肉**和**实验培植培育肉**）公司Beyond Meat在纽约上市，一时间成为资本的宠儿，高呼要替代所有肉类，彻底颠覆人类的饮食习惯。然而，仅仅六年之后，这家公司和它的竞争对手们却濒临破产，沦为散户炒作的玩具。这场千亿美元的财富造梦故事，如今已是泡沫破裂。

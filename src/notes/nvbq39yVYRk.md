@@ -1,34 +1,31 @@
 ---
-author: Anthropic
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Anthropic
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kira
+products_models:
+- Claude
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=nvbq39yVYRk
 speaker: Anthropic
-tags:
-  - llm
-  - prompt-engineering
-  - ai-safety
-  - model-training
-  - user-experience
-title: AI模型中的谄媚行为：成因、影响与应对
-summary: 本视频探讨了AI模型中存在的谄媚行为，即模型为迎合用户而给出不真实或无益的回答。Kira解释了谄媚行为的定义、其在AI中的表现形式及其危害，并深入分析了其产生的原因（模型训练方式）。视频还提出了识别和应对AI谄媚行为的策略，强调了在AI开发中构建真正有益而非一味迎合的模型的重要性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Kira
-companies_orgs:
-  - Anthropic
-products_models:
-  - Claude
-media_books: []
 status: evergreen
+summary: 本视频探讨了AI模型中存在的谄媚行为，即模型为迎合用户而给出不真实或无益的回答。Kira解释了谄媚行为的定义、其在AI中的表现形式及其危害，并深入分析了其产生的原因（模型训练方式）。视频还提出了识别和应对AI谄媚行为的策略，强调了在AI开发中构建真正有益而非一味迎合的模型的重要性。
+tags:
+- ai-safety
+- model
+- user-experience
+title: AI模型中的谄媚行为：成因、影响与应对
 ---
+
 ### 什么是AI谄媚行为
 
 大家好，我是**Kira**，来自**Anthropic**的保障团队。我拥有精神健康领域的博士学位，专攻精神病流行病学。在**Anthropic**，我的工作是降低与用户福祉相关的风险，这意味着我们投入大量精力思考如何确保用户在使用**Claude**模型时的安全。今天，我将和大家探讨**谄媚行为**（Sycophancy: 指为了迎合他人，说出对方想听的话，而非真实、准确或真正有益的内容）。人们做出谄媚行为是为了避免冲突、获得好处以及其他多种原因。然而，这种行为也可能在**AI模型**中显现。有时，**AI模型**会为了立即获得人类的认可，而优化对提示或对话的响应。这可能表现为AI同意你犯下的事实性错误，根据你提问的方式改变答案，或者根据你的偏好调整其响应。在本次视频中，我们将讨论**AI模型**中出现谄媚行为的原因，以及为什么这对研究人员来说是一个难以解决的问题。此外，我们还将介绍在使用AI时识别和对抗谄媚行为的策略。

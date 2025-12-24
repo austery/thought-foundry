@@ -1,48 +1,48 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- PayPal
+- Visa
+- Google
+- SAP
+- Tesla
+- Vanguard Group
+- CrowdStrike
+- Polymarket
 date: '2024-08-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《理性乐观派》
+people:
+- 唐石峻
+- Alex Ch
+- 沃伦·巴菲特
+- 约翰·博格
+- 约翰·洛克菲勒
+- 埃隆·马斯克
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=n2iSePOkokk
 speaker: Shijun Tang
-tags:
-  - cash-flow-generation
-  - share-buybacks
-  - rational-optimism
-  - index-fund-philosophy
-  - attention-economy
-title: PayPal暴涨背后的财务真相：理性乐观主义与指数基金的财富密码
-summary: 本文深度解析PayPal财报为何在市场悲观情绪中逆势暴涨，揭示公司强大的现金流与股份回购策略，并延伸至理性乐观主义、指数基金的历史意义与投资哲学，强调知识与专注力是普通人突破出身限制的关键。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-  - Alex Ch
-  - 沃伦·巴菲特
-  - 约翰·博格
-  - 约翰·洛克菲勒
-  - 埃隆·马斯克
-companies_orgs:
-  - PayPal
-  - Visa
-  - Google
-  - SAP
-  - Tesla
-  - Vanguard Group
-  - CrowdStrike
-  - Polymarket
-products_models: []
-media_books:
-  - 《理性乐观派》
 status: evergreen
+summary: 本文深度解析PayPal财报为何在市场悲观情绪中逆势暴涨，揭示公司强大的现金流与股份回购策略，并延伸至理性乐观主义、指数基金的历史意义与投资哲学，强调知识与专注力是普通人突破出身限制的关键。
+tags:
+- attention-economy
+- flow
+- philosophy
+- rational-optimism
+- technology
+title: PayPal暴涨背后的财务真相：理性乐观主义与指数基金的财富密码
 ---
+
 ### PayPal财报暴雷？不，是现金流的全面爆发
 
 每股PayPal在两天内暴涨了15.36%。我已持有该股票789天，期间从未卖出一股。这次财报数据完全出乎我的意料——用一个词形容就是“大获全盛”。我未曾预料到PayPal竟能创造如此惊人的现金流。

@@ -1,48 +1,47 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- Uber
+- Google
+- Waymo
+- Snowflake
+- 美国土木工程师学会
+- 《哈佛商业评论》
+- 盖洛普
 date: '2024-06-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- George Moscone
+- Kamala Harris
+- Sridhar Ramaswamy
+- Modi
+- Joe Biden
+- Barack Obama
+products_models:
+- FastTrak
+- Cable Car
+- BART
+project:
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=fgzSA4Gl7p4
 speaker: 莊也雜談
-tags:
-  - san-francisco-travel
-  - urban-safety
-  - autonomous-vehicles
-  - immigration-policy
-  - ethnic-demographics
-title: 旧金山深度体验：金门大桥、九曲花街、城市安全及移民观察
-summary: 本篇游记详细记录了作者在旧金山的五日行程，从举世闻名的金门大桥、蜿蜒的九曲花街等地标景点，到当地美食体验。文章深入探讨了旧金山的城市安全现状，分析了官方数据与媒体报道的差异，并提供了游客防范措施。此外，作者还分享了对Waymo无人驾驶出租车的观察，并对比了美国与加拿大在吸引印度裔和华裔精英移民方面的政策差异及社会影响。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-people:
-  - George Moscone
-  - Kamala Harris
-  - Sridhar Ramaswamy
-  - Modi
-  - Joe Biden
-  - Barack Obama
-companies_orgs:
-  - Uber
-  - Google
-  - Waymo
-  - Snowflake
-  - 美国土木工程师学会
-  - 《哈佛商业评论》
-  - 盖洛普
-products_models:
-  - FastTrak
-  - Cable Car
-  - BART
-media_books: []
 status: evergreen
+summary: 本篇游记详细记录了作者在旧金山的五日行程，从举世闻名的金门大桥、蜿蜒的九曲花街等地标景点，到当地美食体验。文章深入探讨了旧金山的城市安全现状，分析了官方数据与媒体报道的差异，并提供了游客防范措施。此外，作者还分享了对Waymo无人驾驶出租车的观察，并对比了美国与加拿大在吸引印度裔和华裔精英移民方面的政策差异及社会影响。
+tags:
+- autonomous-vehicle
+- geopolitical
+- immigration-policy
+- safety
+- travel
+title: 旧金山深度体验：金门大桥、九曲花街、城市安全及移民观察
 ---
+
 ### 金门大桥：工程奇迹与淘金记忆
 
 大家好，我是庄也，欢迎收看庄也杂谈。上集讲到我和老吴漫步到金门大桥，今天咱们就先仔细说一下这座举世闻名的金门大桥。几乎所有来加州的游客都会提到它。这座桥于1933年开工，1937年5月27日正式通车，至今已有87年历史。美国土木工程师学会将其列为七大不可思议工程之一。

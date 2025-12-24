@@ -1,98 +1,98 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- Odd Lots
+- OpenAI
+- Breaking Points
+- The Bulwark
+- Pod Save America
+- Heatmap
+- Google
+- Palantir
+- Microsoft
+- Expedia
+- Instagram
+- Teamsters
+- FTC
+- Robinhood
+- Thinking Machines Lab
+- Anthropic
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+- Breaking Points
+- The Bulwark
+- Pod Save America
+- Heatmap
+- Financial Times
+- Wall Street Journal
+- Bloomberg
+- The Wizard of Oz
+- The Anxious Generation
+- Zero to One
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Sager Enjeti
+- Sarah Frier
+- JD Vance
+- Peter Thiel
+- Tim Miller
+- Ryan Grim
+- Matt Walsh
+- John Favro
+- David Sacks
+- Sam Altman
+- Derek Thompson
+- Jensen Huang
+- Scott Bessent
+- Ron DeSantis
+- Bernie Sanders
+- David Wiggle
+- White Patman
+- Sam Rayburn
+- Kamala Harris
+- Elon Musk
+- Tucker Carlson
+- Andrew Yang
+- Jack Dorsey
+- John Kugan
+- Marjorie Taylor Green
+- Mira Murati
+- John Cassidy
+- Mark Zuckerberg
+- Sean O'Brien
+products_models:
+- Gemini Flash
+- ChatGPT
+- Microsoft Copilot
+- Sora
+- Meta AI Instagram chatbots
+- XAI
+project:
+- us-analysis
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=EufqQyyJLHk
 speaker: Bloomberg Podcasts
-tags:
-  - ai-politics
-  - labor-displacement
-  - data-centers
-  - populism
-  - public-trust
-title: 人工智能的政治影响即将爆发：一场跨越左右翼的民粹主义反弹
-summary: 本期Odd Lots播客探讨了人工智能日益增长的政治影响，指出AI技术正从一个技术进步的承诺转变为引发公众担忧的焦点。嘉宾Sager Enjeti认为，AI在经济不确定时期对劳动力市场的潜在冲击、对电力消耗的巨大需求以及缺乏民主监管，正使其成为一个两党共同关注的民粹主义议题。文章深入分析了AI与美国政治力量（如特朗普政府、科技巨头、左右翼民粹主义者）之间的复杂关系，并预测在未来的选举中，AI的监管和影响将成为核心辩论点。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Sager Enjeti
-  - Sarah Frier
-  - JD Vance
-  - Peter Thiel
-  - Tim Miller
-  - Ryan Grim
-  - Matt Walsh
-  - John Favro
-  - David Sacks
-  - Sam Altman
-  - Derek Thompson
-  - Jensen Huang
-  - Scott Bessent
-  - Ron DeSantis
-  - Bernie Sanders
-  - David Wiggle
-  - White Patman
-  - Sam Rayburn
-  - Kamala Harris
-  - Elon Musk
-  - Tucker Carlson
-  - Andrew Yang
-  - Jack Dorsey
-  - John Kugan
-  - Marjorie Taylor Green
-  - Mira Murati
-  - John Cassidy
-  - Mark Zuckerberg
-  - Sean O'Brien
-companies_orgs:
-  - Bloomberg
-  - Odd Lots
-  - OpenAI
-  - Breaking Points
-  - The Bulwark
-  - Pod Save America
-  - Heatmap
-  - Google
-  - Palantir
-  - Microsoft
-  - Expedia
-  - Instagram
-  - Teamsters
-  - FTC
-  - Robinhood
-  - Thinking Machines Lab
-  - Anthropic
-products_models:
-  - Gemini Flash
-  - ChatGPT
-  - Microsoft Copilot
-  - Sora
-  - Meta AI Instagram chatbots
-  - XAI
-media_books:
-  - Odd Lots podcast
-  - Breaking Points
-  - The Bulwark
-  - Pod Save America
-  - Heatmap
-  - Financial Times
-  - Wall Street Journal
-  - Bloomberg
-  - The Wizard of Oz
-  - The Anxious Generation
-  - Zero to One
 status: evergreen
+summary: 本期Odd Lots播客探讨了人工智能日益增长的政治影响，指出AI技术正从一个技术进步的承诺转变为引发公众担忧的焦点。嘉宾Sager Enjeti认为，AI在经济不确定时期对劳动力市场的潜在冲击、对电力消耗的巨大需求以及缺乏民主监管，正使其成为一个两党共同关注的民粹主义议题。文章深入分析了AI与美国政治力量（如特朗普政府、科技巨头、左右翼民粹主义者）之间的复杂关系，并预测在未来的选举中，AI的监管和影响将成为核心辩论点。
+tags:
+- data-center
+- labor
+- politics
+- populism
+- public-trust
+title: 人工智能的政治影响即将爆发：一场跨越左右翼的民粹主义反弹
 ---
+
 ### 人工智能：从技术奇迹到政治引爆点
 
 **Joe Weisenthal:** 大家好，欢迎收听新一期的Odd Lots播客。我是Joe Weisenthal。

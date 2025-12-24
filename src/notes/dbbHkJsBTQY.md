@@ -1,68 +1,68 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- White House
+- CBS
+- Bloomberg
+- Anshi Semiconductor
+- Li Auto
+- BYD
+- Xiaomi
+- Sanhua Intelligent Controls
+- Citi
+- Berkshire Hathaway
+- Micron Technology
+- Samsung
+- Microsoft
+- Nvidia
+- Ariel
+- Dell Technologies
+- OpenAI
+- 美国能源部DOE
+- Ford
 date: '2025-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《CBS 60分钟》
+- 《彭博社》
+people:
+- Donald Trump
+- Joe Biden
+- Xi Jinping
+- Lee Jae-myung
+- Zhao Changpeng
+- Warren Buffett
+- Elon Musk
+- Sam Altman
+- 高市早苗
+products_models:
+- 小米手机
+- 理想Maga
+- DDR5
+- GB300
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dbbHkJsBTQY
 speaker: 小翠時政財經
-tags:
-  - us-china-relations
-  - trade-negotiations
-  - ai-investment
-  - nuclear-energy-tech
-  - robotics-market
-  - political-commentary
-title: 川习会后续：白宫披露中美贸易谈判新细节，AI投资周期与核能、机器人市场展望
-summary: 本文深入分析了白宫最新披露的川习会贸易谈判细节，揭示了中方在稀土、芬太尼和关税等方面的具体让步，并探讨了这些信息对中美关系判断的反转影响。同时，文章关注了习近平与特朗普近期引发舆论关注的言行，以及全球资本市场在核能（钍基熔盐堆）、机器人和AI领域的投资热点。最后，对AI投资周期的阶段性划分、未来创新方向以及美国福利制度的宏观挑战进行了探讨。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Joe Biden
-  - Xi Jinping
-  - Lee Jae-myung
-  - Zhao Changpeng
-  - Warren Buffett
-  - Elon Musk
-  - Sam Altman
-  - 高市早苗
-companies_orgs:
-  - White House
-  - CBS
-  - Bloomberg
-  - Anshi Semiconductor
-  - Li Auto
-  - BYD
-  - Xiaomi
-  - Sanhua Intelligent Controls
-  - Citi
-  - Berkshire Hathaway
-  - Micron Technology
-  - Samsung
-  - Microsoft
-  - Nvidia
-  - Ariel
-  - Dell Technologies
-  - OpenAI
-  - 美国能源部DOE
-  - Ford
-products_models:
-  - 小米手机
-  - 理想Maga
-  - DDR5
-  - GB300
-media_books:
-  - 《CBS 60分钟》
-  - 《彭博社》
 status: evergreen
+summary: 本文深入分析了白宫最新披露的川习会贸易谈判细节，揭示了中方在稀土、芬太尼和关税等方面的具体让步，并探讨了这些信息对中美关系判断的反转影响。同时，文章关注了习近平与特朗普近期引发舆论关注的言行，以及全球资本市场在核能（钍基熔盐堆）、机器人和AI领域的投资热点。最后，对AI投资周期的阶段性划分、未来创新方向以及美国福利制度的宏观挑战进行了探讨。
+tags:
+- ai-investment
+- market
+- political
+- tech
+- trade-negotiation
+- us-china-relations
+title: 川习会后续：白宫披露中美贸易谈判新细节，AI投资周期与核能、机器人市场展望
 ---
+
 ### 中美贸易谈判新进展：白宫披露更多细节
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月3日，美国正式进入冬令时。今天我们将首先更新关于**川习会**（Trump-Xi Meeting: 指美国前总统唐纳德·特朗普与中国国家主席习近平之间的会晤）的后续信息，因为白宫又释放了一些此前未知的细节。接着，我们将讨论资本市场的情况。

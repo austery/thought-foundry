@@ -1,91 +1,90 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TSMC
+- NASA
+- Bell Labs
+- Texas Instruments
+- Fairchild Semiconductor
+- KGB
+- CoCom
+- IBM
+- Hewlett-Packard
+- Samsung
+- Intel
+- Nvidia
+- Apple
+- Microsoft
+- Philips
+- Huawei
+- Nokia
+- Ericsson
+- U.S. Department of Defense
+- Tsinghua Unigroup
+- AT&T
+- Industrial Technology Research Institute (ITRI)
 date: '2023-04-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《晶片戰爭》
+- 《日本可以說不》
+people:
+- Chris Miller
+- Morris Chang
+- William Shockley
+- Jack Kilby
+- Robert Noyce
+- Yuri Gagarin
+- John F. Kennedy
+- Nikita Khrushchev
+- Boris Malin
+- Ronald Reagan
+- Mikhail Gorbachev
+- Hayato Ikeda
+- Akio Morita
+- Charles Sporck
+- K. T. Li
+- Mao Zedong
+- Andy Grove
+- Jerry Sanders
+- Lee Byung-chul
+- Liu He
+- Ren Zhengfei
+- Donald Trump
+- Joe Biden
+- Miyazawa Kiichi
+- Ginni Rometty
+- Zhao Weiguo
+products_models:
+- Transistor
+- Integrated Circuit
+- ENIAC
+- SN-51
+- Walkman
+- iPhone
+- GPU
+- 3D graphics processor
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=r5P1082ybvY
 speaker: 超級歪 SuperY
-tags:
-  - chip-war
-  - semiconductor-history
-  - geopolitical-competition
-  - cold-war-legacy
-  - taiwan-security
-title: 【晶片戰爭】從矽谷到台積電：一場決定全球命運的半導體史詩
-summary: 本文深入探討半導體產業的歷史演變，從二戰催生的電腦技術，到美蘇冷戰時期晶片如何成為軍事霸權的關鍵。文章詳述了矽谷的誕生、日本半導體的崛起與美國的反擊，以及台灣台積電在「晶圓代工」模式下的成功。最終聚焦於當今中美晶片戰的深層原因、華為的挑戰、美國的制裁策略，以及台灣在全球半導體供應鏈中的關鍵地位與地緣政治影響。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Chris Miller
-  - Morris Chang
-  - William Shockley
-  - Jack Kilby
-  - Robert Noyce
-  - Yuri Gagarin
-  - John F. Kennedy
-  - Nikita Khrushchev
-  - Boris Malin
-  - Ronald Reagan
-  - Mikhail Gorbachev
-  - Hayato Ikeda
-  - Akio Morita
-  - Charles Sporck
-  - K. T. Li
-  - Mao Zedong
-  - Andy Grove
-  - Jerry Sanders
-  - Lee Byung-chul
-  - Liu He
-  - Ren Zhengfei
-  - Donald Trump
-  - Joe Biden
-  - Miyazawa Kiichi
-  - Ginni Rometty
-  - Zhao Weiguo
-companies_orgs:
-  - TSMC
-  - NASA
-  - Bell Labs
-  - Texas Instruments
-  - Fairchild Semiconductor
-  - KGB
-  - CoCom
-  - IBM
-  - Hewlett-Packard
-  - Samsung
-  - Intel
-  - Nvidia
-  - Apple
-  - Microsoft
-  - Philips
-  - Huawei
-  - Nokia
-  - Ericsson
-  - U.S. Department of Defense
-  - Tsinghua Unigroup
-  - AT&T
-  - Industrial Technology Research Institute (ITRI)
-products_models:
-  - Transistor
-  - Integrated Circuit
-  - ENIAC
-  - SN-51
-  - Walkman
-  - iPhone
-  - GPU
-  - 3D graphics processor
-media_books:
-  - 《晶片戰爭》
-  - 《日本可以說不》
 status: evergreen
+summary: 本文深入探討半導體產業的歷史演變，從二戰催生的電腦技術，到美蘇冷戰時期晶片如何成為軍事霸權的關鍵。文章詳述了矽谷的誕生、日本半導體的崛起與美國的反擊，以及台灣台積電在「晶圓代工」模式下的成功。最終聚焦於當今中美晶片戰的深層原因、華為的挑戰、美國的制裁策略，以及台灣在全球半導體供應鏈中的關鍵地位與地緣政治影響。
+tags:
+- geopolitical-competition
+- security
+- semiconductor-history
+- war
+title: 【晶片戰爭】從矽谷到台積電：一場決定全球命運的半導體史詩
 ---
+
 ### 晶片戰爭：全球化已死？
 
 今年三月，美國歷史學家 Chris Miller 來台，與台積電創辦人張忠謀展開一場半導體的世紀對談。張忠謀在會談中表示，他支持美國對中國的晶片制裁政策，甚至揚言全球化已死，至少在晶片產業，全球化已死，自由貿易已結束。到底要如何理解中國跟美國的晶片戰？這場晶片戰跟台灣又有何關聯？

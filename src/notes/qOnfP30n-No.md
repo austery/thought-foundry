@@ -1,50 +1,50 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 殡役公司
 date: '2024-06-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《诗人》
+- 《红楼梦》
+- 《桃花扇》
+- 《诗经》
+people:
+- 黄晓丹
+- 欧文·亚隆
+- 陶渊明
+- 陈子昂
+- 张九龄
+- 欧丽娟
+- 沈佺期
+- 李白
+- 李商隐
+- 王维
+- 叶嘉莹
+- 杜宇
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=qOnfP30n-No
 speaker: 一席YiXi
-tags:
-  - mortality-acceptance
-  - meaning-in-emptiness
-  - non-attachment
-  - aesthetic-redemption
-  - freedom-as-restraint
-title: 随时间而来的真理：陶渊明、王维与李商隐如何回应生命的终极问题
-summary: 黄晓丹通过陶渊明、王维与李商隐的诗作，探讨死亡、无意义与自由三大终极问题，揭示文学如何以自然观照、审美创造与非功利选择，为短暂生命赋予深层意义。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - personal-growth-lab
-people:
-  - 黄晓丹
-  - 欧文·亚隆
-  - 陶渊明
-  - 陈子昂
-  - 张九龄
-  - 欧丽娟
-  - 沈佺期
-  - 李白
-  - 李商隐
-  - 王维
-  - 叶嘉莹
-  - 杜宇
-companies_orgs:
-  - 殡役公司
-products_models: []
-media_books:
-  - 《诗人》
-  - 《红楼梦》
-  - 《桃花扇》
-  - 《诗经》
 status: evergreen
+summary: 黄晓丹通过陶渊明、王维与李商隐的诗作，探讨死亡、无意义与自由三大终极问题，揭示文学如何以自然观照、审美创造与非功利选择，为短暂生命赋予深层意义。
+tags:
+- aesthetic-redemption
+- freedom
+- mortality-acceptance
+- non
+- psychology
+title: 随时间而来的真理：陶渊明、王维与李商隐如何回应生命的终极问题
 ---
+
 ### 死亡：从露水到山川的生命流转
 
 大家好，我是黄晓丹，一名大学教师，教授中国古代文学。今年暑假，我出版了一本书《诗人》，书中讲述了十四位中国古诗人的故事——但其中不仅出现了陶渊明、王维，也出现了梵高、托尔金，甚至我家的小狗黄发财。这本书看似“不伦不类”，但它的出发点却很朴素：今天的读者，不再关心文学史上的时代背景或诗人的学术贡献；他们想知道的是，在现实生活中遭遇的困境，古人是否也曾面对？为什么有些诗歌穿越千年，依然打动我们？

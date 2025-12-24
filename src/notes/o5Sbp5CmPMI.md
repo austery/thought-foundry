@@ -1,49 +1,48 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Apple
+- Microsoft
+- Nvidia
+- Google
+- Meta
+- Tesla
+- Amazon
+- Federal Reserve
+- ECB
+- Bank of Japan
 date: '2025-01-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Doug Shell
+- Isabel
+- Molin
+- John McCarthy
+- Harald
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=o5Sbp5CmPMI
 speaker: Norges Bank Investment Management
-tags:
-  - sovereign-wealth-fund
-  - investment-returns
-  - asset-allocation
-  - market-outlook
-  - concentration-risk
-title: 挪威主权财富基金2024年创纪录强劲回报：市场洞察与未来展望
-summary: 挪威主权财富基金在2024年取得了创纪录的13.3%强劲回报，绝对价值增长为史上最高。尽管整体表现出色，基金仍相对基准指数落后45个基点。报告深入分析了股票、固定收益、房地产和可再生能源基础设施等资产类别的表现，特别强调了美国科技股（如英伟达）和AI驱动的增长，以及市场集中度风险。同时，基金也对未来的市场波动和投资策略进行了展望。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
-people:
-  - Doug Shell
-  - Isabel
-  - Molin
-  - John McCarthy
-  - Harald
-companies_orgs:
-  - Norges Bank Investment Management
-  - Apple
-  - Microsoft
-  - Nvidia
-  - Google
-  - Meta
-  - Tesla
-  - Amazon
-  - Federal Reserve
-  - ECB
-  - Bank of Japan
-products_models: []
-media_books: []
 status: evergreen
+summary: 挪威主权财富基金在2024年取得了创纪录的13.3%强劲回报，绝对价值增长为史上最高。尽管整体表现出色，基金仍相对基准指数落后45个基点。报告深入分析了股票、固定收益、房地产和可再生能源基础设施等资产类别的表现，特别强调了美国科技股（如英伟达）和AI驱动的增长，以及市场集中度风险。同时，基金也对未来的市场波动和投资策略进行了展望。
+tags:
+- asset-allocation
+- investment
+- market-outlook
+- risk
+- sovereign-wealth-fund
+title: 挪威主权财富基金2024年创纪录强劲回报：市场洞察与未来展望
 ---
+
 ### 2024年挪威主权财富基金表现创纪录
 
 主持人: 哇，真是激动人心的一年，我们非常高兴向大家汇报去年的业绩。

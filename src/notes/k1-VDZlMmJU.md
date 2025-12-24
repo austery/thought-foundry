@@ -1,42 +1,42 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Center for Civil Liberties
+- United Nations
+- International Criminal Court
+- International Court of Justice
+- European Union
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- Transactional diplomacy cannot bring peace to Ukraine
+people:
+- Alexandra Matviichuk
+- Donald Trump
+- Vladimir Putin
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=k1-VDZlMmJU
 speaker: TVO Today
-tags:
-  - transactional-diplomacy
-  - human-rights-abuse
-  - international-accountability
-  - world-order-collapse
-  - ukraine-russia-war
-title: 诺贝尔奖得主：乌克兰为民主而战能给世界带来什么启示
-summary: 2022年诺贝尔和平奖得主、公民自由中心主席亚历山德拉·马特维丘克深入探讨了俄乌战争中的外交、人权与国际秩序。她批评了“交易性外交”的局限性，强调在和平谈判中融入“人道维度”的重要性。马特维丘克还解释了设立“普京审判庭”的必要性，以填补国际法在追究侵略罪方面的空白，并指出当前世界秩序的崩溃以及民主被视为理所当然的危险。她最终强调，尽管国际体系失灵，但普通人的努力仍能带来希望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Alexandra Matviichuk
-  - Donald Trump
-  - Vladimir Putin
-companies_orgs:
-  - Center for Civil Liberties
-  - United Nations
-  - International Criminal Court
-  - International Court of Justice
-  - European Union
-products_models: []
-media_books:
-  - The Rundown
-  - Transactional diplomacy cannot bring peace to Ukraine
 status: evergreen
+summary: 2022年诺贝尔和平奖得主、公民自由中心主席亚历山德拉·马特维丘克深入探讨了俄乌战争中的外交、人权与国际秩序。她批评了“交易性外交”的局限性，强调在和平谈判中融入“人道维度”的重要性。马特维丘克还解释了设立“普京审判庭”的必要性，以填补国际法在追究侵略罪方面的空白，并指出当前世界秩序的崩溃以及民主被视为理所当然的危险。她最终强调，尽管国际体系失灵，但普通人的努力仍能带来希望。
+tags:
+- diplomacy
+- human
+- international
+- war
+- world-order-collapse
+title: 诺贝尔奖得主：乌克兰为民主而战能给世界带来什么启示
 ---
+
 ### 诺贝尔奖得主谈乌克兰的民主之战
 
 **亚历山德拉·马特维丘克**（Alexandra Matviichuk: 2022年诺贝尔和平奖得主，乌克兰人权律师）是**公民自由中心**（Center for Civil Liberties: 2022年诺贝尔和平奖共同获奖机构）的主席，该组织于2022年获得了**诺贝尔和平奖**（Nobel Peace Prize: 旨在表彰为促进民族团结、裁军或和平会议做出贡献的人）。

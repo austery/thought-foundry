@@ -1,30 +1,27 @@
 ---
-title: 负债：人生最大的奢侈品
-summary: 本文揭示负债的三大真相：它限制行动、剥夺选择，使人脆弱。理解这些负面影响，有助于我们审慎看待负债，重获财务自由。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-tags:
-  - debt
-  - decision-making
-  - financial-fragility
-  - personal-finance
-  - risk-management
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-03-22'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=xHjMDCwW1dA
+speaker: 一口新飯
 status: evergreen
+summary: 本文揭示负债的三大真相：它限制行动、剥夺选择，使人脆弱。理解这些负面影响，有助于我们审慎看待负债，重获财务自由。
+tags:
+- debt
+- decision-making
+- financial
+- personal-finance
+- risk-management
+title: 负债：人生最大的奢侈品
 ---
 
 ### 债务：人生最大的奢侈品

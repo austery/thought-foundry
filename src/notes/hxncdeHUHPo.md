@@ -1,30 +1,27 @@
 ---
-title: 加西三天之旅费用总结与维多利亚周边遗珠景点盘点
-summary: 本期节目详细总结了加西三天之旅的总费用，并深入盘点了温哥华岛及大维多利亚地区六个被遗憾错过的精彩景点，包括空中步道、历史城堡、唐人街、古老雨林、冲浪小镇托菲诺和环太平洋国家公园。
 area: personal-growth
 category: lifestyle
-project: []
-tags:
-- national-parks
-- tofino
-- travel-expenses
-- victoria-attractions
-- western-canada-travel
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-28'
-author: 莊也雜談
-speaker: 莊也雜談
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hxncdeHUHPo
+speaker: 莊也雜談
 status: evergreen
+summary: 本期节目详细总结了加西三天之旅的总费用，并深入盘点了温哥华岛及大维多利亚地区六个被遗憾错过的精彩景点，包括空中步道、历史城堡、唐人街、古老雨林、冲浪小镇托菲诺和环太平洋国家公园。
+tags:
+- geopolitics
+- national
+- travel
+- victoria-attraction
+title: 加西三天之旅费用总结与维多利亚周边遗珠景点盘点
 ---
+
 ### 加西之旅：费用总结与景点回顾
 
 大家好，我是庄也。欢迎收看庄也杂谈。本期节目将继续探讨加西之旅，主要总结在大温哥华及大维多利亚地区三天旅行的所有费用，并补充介绍一些因时间关系未能到访，但非常值得一去的精华景点，为未来的旅行提供参考。

@@ -1,43 +1,41 @@
 ---
-author: Norges Bank Investment Management
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Apollo
+- Norges Bank Investment Management
+- Apple
+- Microsoft
+- Nvidia
+- Bank of England
+- Wellington
+- Helman and Freeman
+- Oak Tree
 date: '2024-04-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Marc Rowan
+- Adam U
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=jVCcAcFW1W4
 speaker: Norges Bank Investment Management
-tags:
-  - financial-market-change
-  - investment-strategy
-  - public-private-markets
-  - market-liquidity
-  - economic-tailwinds
-title: 金融市场巨变：投资策略的范式转移与未来展望
-summary: Apollo首席执行官Marc Rowan在2024年投资大会上指出，过去40年推动金融市场增长的四大“顺风”已不复存在，投资者必须重新审视传统假设。他强调了公共市场流动性下降、银行去中介化以及指数化和集中化带来的挑战，并预测机构投资者将大幅转向私人市场，以寻求多元化和更匹配长期投资需求的解决方案。文章呼吁投资者拥抱变革，质疑现有范式，以适应全新的金融格局。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Marc Rowan
-  - Adam U
-companies_orgs:
-  - Apollo
-  - Norges Bank Investment Management
-  - Apple
-  - Microsoft
-  - Nvidia
-  - Bank of England
-  - Wellington
-  - Helman and Freeman
-  - Oak Tree
-products_models: []
-media_books: []
 status: evergreen
+summary: Apollo首席执行官Marc Rowan在2024年投资大会上指出，过去40年推动金融市场增长的四大“顺风”已不复存在，投资者必须重新审视传统假设。他强调了公共市场流动性下降、银行去中介化以及指数化和集中化带来的挑战，并预测机构投资者将大幅转向私人市场，以寻求多元化和更匹配长期投资需求的解决方案。文章呼吁投资者拥抱变革，质疑现有范式，以适应全新的金融格局。
+tags:
+- economic
+- financial-market-change
+- market
+- market-liquidity
+title: 金融市场巨变：投资策略的范式转移与未来展望
 ---
+
 ### 拥抱变革：投资新时代的呼唤
 
 感谢大家。我们都从最近Adam U以及今天上午的演讲中受益匪浅，这些建议都非常精彩。我想以我自己的方式来探讨这个问题。我告诉我的团队：“不要防守，要保持好奇心，因为变化是永恒的。”我认为，我们作为投资者，作为金融服务从业者，一直低估了变化的影响。我们抵制变化，否认变化，墨守成规。所以，我想分享一些关于变化及其影响力的例子。

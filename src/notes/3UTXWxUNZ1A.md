@@ -1,52 +1,52 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- House of Commons
+- NORAD
+- Canadian Armed Forces
+- Canadian War Museum
+- NATO
+- Macdonald-Laurier Institute
+- Carleton University
+- Royal Canadian Navy
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- In Their Own Voices
+- The Hub
+people:
+- King George V
+- François-Philippe Champagne
+- Michael Petrou
+- William Newberry
+- Alex Baldwin
+- Richard Shimooka
+- Stephanie Carvin
+- Mark Carney
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3UTXWxUNZ1A
 speaker: TVO Today
-tags:
-  - remembrance-day
-  - defense-spending
-  - military-modernization
-  - veterans-experience
-  - canadian-society
-title: 2025年的阵亡将士纪念日：加拿大军事记忆与国防现代化
-summary: 本文探讨了加拿大阵亡将士纪念日不断演变的意义，尤其是在2025年。文章深入分析了个人与军事服务之间日益疏远的联系、战争对退伍军人及社会的持久影响，以及加拿大当前的国防开支和现代化努力。专家们讨论了现代战争的变化、加拿大武装部队的能力差距，以及在国防政策与经济发展之间取得平衡的潜在风险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - King George V
-  - François-Philippe Champagne
-  - Michael Petrou
-  - William Newberry
-  - Alex Baldwin
-  - Richard Shimooka
-  - Stephanie Carvin
-  - Mark Carney
-companies_orgs:
-  - TVO Today
-  - House of Commons
-  - NORAD
-  - Canadian Armed Forces
-  - Canadian War Museum
-  - NATO
-  - Macdonald-Laurier Institute
-  - Carleton University
-  - Royal Canadian Navy
-products_models: []
-media_books:
-  - The Rundown
-  - In Their Own Voices
-  - The Hub
 status: evergreen
+summary: 本文探讨了加拿大阵亡将士纪念日不断演变的意义，尤其是在2025年。文章深入分析了个人与军事服务之间日益疏远的联系、战争对退伍军人及社会的持久影响，以及加拿大当前的国防开支和现代化努力。专家们讨论了现代战争的变化、加拿大武装部队的能力差距，以及在国防政策与经济发展之间取得平衡的潜在风险。
+tags:
+- canadian
+- experience
+- geopolitical
+- military
+- remembrance-day
+title: 2025年的阵亡将士纪念日：加拿大军事记忆与国防现代化
 ---
+
 ### 阵亡将士纪念日的历史与演变
 
 1919年11月6日，英王**乔治五世**（King George V: 英国国王，在位期间经历第一次世界大战）的一封信在**下议院**（House of Commons: 加拿大联邦议会的下议院）被宣读。

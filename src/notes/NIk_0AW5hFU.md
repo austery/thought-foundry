@@ -1,44 +1,43 @@
 ---
-author: Veritasium
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- CERN
+- Institut d'Optique
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《What is Real》
+people:
+- Albert Einstein
+- Niels Bohr
+- John Bell
+- Boris Podolsky
+- Nathan Rosen
+- Erwin Schrödinger
+- Werner Heisenberg
+- Adam Becker
+- Alain Aspect
+- Chien-Shiung Wu
+products_models:
+- NordVPN
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=NIk_0AW5hFU
 speaker: Veritasium
-tags:
-  - quantum-mechanics-interpretation
-  - non-locality
-  - bell-theorem
-  - relativity
-  - many-worlds-interpretation
-title: 光速之外：爱因斯坦、贝尔定理与量子力学的非局域性之争
-summary: 本视频深入探讨了物理学中关于光速限制和非局域性的核心争议。从爱因斯坦对牛顿引力理论的修正，到他通过思想实验挑战量子力学的哥本哈根诠释，再到贝尔定理如何通过实验验证了量子力学的非局域性。最后，视频介绍了多世界诠释如何提供了一种无需超光速影响的局部解释，以及这场持续数十年的物理学辩论对我们理解现实的深远影响。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - Albert Einstein
-  - Niels Bohr
-  - John Bell
-  - Boris Podolsky
-  - Nathan Rosen
-  - Erwin Schrödinger
-  - Werner Heisenberg
-  - Adam Becker
-  - Alain Aspect
-  - Chien-Shiung Wu
-companies_orgs:
-  - CERN
-  - Institut d'Optique
-products_models:
-  - NordVPN
-media_books:
-  - 《What is Real》
 status: evergreen
+summary: 本视频深入探讨了物理学中关于光速限制和非局域性的核心争议。从爱因斯坦对牛顿引力理论的修正，到他通过思想实验挑战量子力学的哥本哈根诠释，再到贝尔定理如何通过实验验证了量子力学的非局域性。最后，视频介绍了多世界诠释如何提供了一种无需超光速影响的局部解释，以及这场持续数十年的物理学辩论对我们理解现实的深远影响。
+tags:
+- canada
+- non
+- science
+- technology
+title: 光速之外：爱因斯坦、贝尔定理与量子力学的非局域性之争
 ---
+
 **爱因斯坦**（Albert Einstein: 20世纪最伟大的物理学家之一，相对论的创立者）在1935年提出了一个思想实验，揭示了**量子力学**（Quantum Mechanics: 描述微观粒子行为的物理理论）打破了物理学中最神圣的原则之一：没有任何东西能比光速更快。当时的物理学家们认为他错了，觉得56岁的爱因斯坦已经年迈，无法接受过于激进的新物理理论。然而，30年后，一位科学家偶然发现了爱因斯坦被遗忘的论文，并意识到其中的预测实际上可以被实验验证。当科学家们进行实验时，他们震惊地发现，量子物理确实打破了宇宙的速度限制。我们不得不承认，某种类似超光速的效应确实存在于宇宙中。本视频将探讨物理学中最令人费解、也最容易被误解的实验之一，它甚至可能是我们生活在**多世界**（Many Worlds: 量子力学的一种诠释，认为所有可能的量子结果都在不同的平行宇宙中实现）中的最有力证据。
 
 ### 爱因斯坦与相对论

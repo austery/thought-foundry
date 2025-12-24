@@ -1,43 +1,41 @@
 ---
-author: AI Engineer
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Netflix
+- Cloudflare
 date: '2025-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Mythical Man-Month
+people:
+- Jake Nations
+- Edsger W. Dijkstra
+- Fred Brooks
+- Rich Hickey
+products_models:
+- AI
+- Co-pilot
+- Cursor
+- Claude
+- Codeex
+- Gemini
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=eIoohUmYpGI
 speaker: AI Engineer
-tags:
-  - llm
-  - prompt-engineering
-  - software-development
-  - complexity
-title: The Infinite Software Crisis – Jake Nations, Netflix
-summary: 本次演讲探讨了在AI工具加速代码生成的同时，如何应对日益增长的软件复杂性。演讲者Jake Nations指出，AI通过提供“容易”的解决方案，可能导致开发者忽视“简单”的本质，从而积累难以理解的代码。他回顾了软件工程史上的类似危机，并提出了“上下文工程”或“规范驱动开发”的方法，强调在AI时代，人类的思考、规划和深入理解系统仍然是不可或缺的，以避免知识鸿沟和系统维护的困境。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Jake Nations
-  - Edsger W. Dijkstra
-  - Fred Brooks
-  - Rich Hickey
-companies_orgs:
-  - Netflix
-  - Cloudflare
-products_models:
-  - AI
-  - Co-pilot
-  - Cursor
-  - Claude
-  - Codeex
-  - Gemini
-media_books:
-  - The Mythical Man-Month
 status: evergreen
+summary: 本次演讲探讨了在AI工具加速代码生成的同时，如何应对日益增长的软件复杂性。演讲者Jake Nations指出，AI通过提供“容易”的解决方案，可能导致开发者忽视“简单”的本质，从而积累难以理解的代码。他回顾了软件工程史上的类似危机，并提出了“上下文工程”或“规范驱动开发”的方法，强调在AI时代，人类的思考、规划和深入理解系统仍然是不可或缺的，以避免知识鸿沟和系统维护的困境。
+tags:
+- science
+- software-development
+title: The Infinite Software Crisis – Jake Nations, Netflix
 ---
+
 大家好，下午好。我将以一个坦白开始我的演讲。我曾提交过自己并不完全理解的代码，生成它、测试它、部署它，却无法解释它是如何工作的。而事实是，我敢打赌你们每个人都这样做过。
 
 ### 承认现实

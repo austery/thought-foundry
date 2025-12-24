@@ -1,44 +1,44 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 维基百科
+- 复旦大学
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中国各地回族与汉族的基因交流研究》
+- 《共产主义起源》
+- 《中国共产党纪律处分条例》
+people:
+- Xi Jinping
+- 成吉思汗
+- 努尔哈赤
+- 王汗
+- 泽连斯基
+- 马云
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=kIbC33Q6_GY
 speaker: 夸克说
-tags:
-  - ccp-identity
-  - ethnic-theory
-  - political-control
-  - totalitarianism
-  - cultural-boundaries
-title: 中共党员是汉人吗？深入剖析“共族”理论与中国现状
-summary: 本期节目挑战了将中共与中国人民捆绑的普遍观念。视频论证中共党员构成了一个独特的、外来形成的新兴民族——“共族”，其特征是拥有独特的文化边界、生活方式和一套全面干预个人生活与精神的极权主义意识形态。主讲人提出，中国目前处于一种“小族压迫大族”的统治模式，其残酷程度甚至超越了古代的征服王朝或殖民统治。认识到这一点，对于推动中国民主化和世界和平至关重要。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 习近平
-  - 成吉思汗
-  - 努尔哈赤
-  - 王汗
-  - 泽连斯基
-  - 马云
-companies_orgs:
-  - 维基百科
-  - 复旦大学
-products_models: []
-media_books:
-  - 《中国各地回族与汉族的基因交流研究》
-  - 《共产主义起源》
-  - 《中国共产党纪律处分条例》
 status: evergreen
+summary: 本期节目挑战了将中共与中国人民捆绑的普遍观念。视频论证中共党员构成了一个独特的、外来形成的新兴民族——“共族”，其特征是拥有独特的文化边界、生活方式和一套全面干预个人生活与精神的极权主义意识形态。主讲人提出，中国目前处于一种“小族压迫大族”的统治模式，其残酷程度甚至超越了古代的征服王朝或殖民统治。认识到这一点，对于推动中国民主化和世界和平至关重要。
+tags:
+- cultural
+- identity
+- political-control
+- theory
+- totalitarianism
+title: 中共党员是汉人吗？深入剖析“共族”理论与中国现状
 ---
+
 ### 中共与中国的捆绑迷思
 
 大家好，欢迎收看夸克说。经常关注的朋友应该都很熟悉**粉红**（Pinkie: 指代中国民族主义网民）和**中共网军**（CCP Cyber Army: 中国共产党控制的网络评论员队伍）的一个话术，那就是把中共和中国捆绑起来。比如，他们在提到爱国和恨国这两个词时，其实就默认了国等于党。任何人一旦批评中共，他们就会给你扣上一个**反华**（Anti-China: 反对中国或中华民族）的帽子，并进一步偷换概念，说你是反对所有的中国人，是种族歧视或者反人类。

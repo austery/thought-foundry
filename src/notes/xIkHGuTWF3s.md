@@ -1,45 +1,44 @@
 ---
-author: 海伦子Hellen
+area: society-systems
+category: geopolitics
+companies_orgs:
+- SpaceX
+- Rocket Lab
+- FAA
+- FCC
+- FEMA
+- US Space Force
 date: '2024-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Elon Musk
+- Ronald Reagan
+- Joe Rogan
+products_models:
+- Starship
+- Starlink
+- Falcon 9
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=xIkHGuTWF3s
 speaker: 海伦子Hellen
-tags:
-  - commercial-space
-  - government-regulation
-  - bureaucracy-reform
-  - us-space-policy
-  - starship-development
-title: 特朗普与马斯克：商业太空加速与官僚主义之战
-summary: 本文探讨了特朗普再次当选后，商业太空和星际探索将如何加速发展。重点分析了埃隆·马斯克对特朗普的全力支持，以及两人对官僚主义和过度监管的共同厌恶。文章通过具体案例揭示了政府监管对SpaceX项目造成的阻碍，并展望了马斯克可能在政府效率改革中扮演的“影子总统”角色，预示着美国太空产业的未来走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Elon Musk
-  - Ronald Reagan
-  - Joe Rogan
-companies_orgs:
-  - SpaceX
-  - Rocket Lab
-  - FAA
-  - FCC
-  - FEMA
-  - US Space Force
-products_models:
-  - Starship
-  - Starlink
-  - Falcon 9
-media_books: []
 status: evergreen
+summary: 本文探讨了特朗普再次当选后，商业太空和星际探索将如何加速发展。重点分析了埃隆·马斯克对特朗普的全力支持，以及两人对官僚主义和过度监管的共同厌恶。文章通过具体案例揭示了政府监管对SpaceX项目造成的阻碍，并展望了马斯克可能在政府效率改革中扮演的“影子总统”角色，预示着美国太空产业的未来走向。
+tags:
+- commercial-space
+- government
+- policy
+- reform
+- starship-development
+title: 特朗普与马斯克：商业太空加速与官僚主义之战
 ---
+
 ### 特朗普任期与商业太空的加速发展
 
 特朗普上任之后，有一点非常确定，那就是会加速商业太空和星际探索的发展。SpaceX虽然没有公开上市，但**Rocket Lab**（一家美国航空航天公司，专注于小型卫星发射服务）的股价在过去6个月已上涨了228.71%。当然，Rocket Lab在特朗普当选前已在上涨，但其后期的涨幅无疑与市场对商业太空未来发展的信心相关。

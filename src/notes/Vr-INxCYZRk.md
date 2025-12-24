@@ -1,43 +1,42 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-06-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《怪獸訓練肌力課程設計》
+- Easy Strength
+people:
+- 何立安
+- 宋晏仁
+- Pavel Tsatsouline
+- Dan John
+- Stuart McGill
+- Ekkekakis
+products_models:
+- YouBike
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Vr-INxCYZRk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - elastic-training
-  - easy-strength
-  - core-stability
-  - exercise-psychology
-  - daily-activity
-title: 何立安博士：探索轻松高效的训练哲学——弹性训练与日常活动的力量
-summary: 本期节目特邀何立安博士，深入探讨其新书《怪兽训练肌力课程设计》中提出的“弹性训练法”。何博士挑战传统训练观念，倡导在舒适圈内训练，强调神经适应，并循序渐进地扩展身体极限。节目内容涵盖下背痛的解决方案、训练量与疲劳的平衡、结合人类学视角的日常活动重要性，以及如何在有限时间和经济条件下提升体能。何博士强调持续、愉悦的运动和策略性肌力训练对长期健康与体能提升的关键作用。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - 何立安
-  - 宋晏仁
-  - Pavel Tsatsouline
-  - Dan John
-  - Stuart McGill
-  - Ekkekakis
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models:
-  - YouBike
-media_books:
-  - 《怪獸訓練肌力課程設計》
-  - Easy Strength
 status: evergreen
+summary: 本期节目特邀何立安博士，深入探讨其新书《怪兽训练肌力课程设计》中提出的“弹性训练法”。何博士挑战传统训练观念，倡导在舒适圈内训练，强调神经适应，并循序渐进地扩展身体极限。节目内容涵盖下背痛的解决方案、训练量与疲劳的平衡、结合人类学视角的日常活动重要性，以及如何在有限时间和经济条件下提升体能。何博士强调持续、愉悦的运动和策略性肌力训练对长期健康与体能提升的关键作用。
+tags:
+- core-stability
+- easy-strength
+- llm
+- psychology
+title: 何立安博士：探索轻松高效的训练哲学——弹性训练与日常活动的力量
 ---
+
 ### 欢迎来到初日会客室：何立安博士的训练哲学
 
 **宋晏仁:** 嗨 大家好，我是宋晏仁宋医师，欢迎来到初日会客室。今天我们再度邀访我们的好朋友何立安博士。何博士您好。

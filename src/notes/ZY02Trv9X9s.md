@@ -1,40 +1,39 @@
 ---
-author: 徒步的騎手
-date: 2025-04-18
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ZY02Trv9X9s'
-speaker: 徒步的騎手
-tags:
-  - two-extremes-thinking
-  - modernization-vs-civilization
-  - independent-personality
-  - democratic-transition
-  - political-culture
-title: 当取代坏的不是好，而是更坏：中国现代化进程中的思维与人格困境
-summary: 本文深入探讨了中文世界中普遍存在的二极管式思维和“只要现代化不要文明化”的社会现象。通过对比中国与日本、韩国、台湾的现代化路径，文章批判了对民主转型的捷径幻想，并援引福泽谕吉的独立人格思想，强调了国民精神素质和制度建设的重要性。最终，文章指出“政治是文化的下游”，认为独立人格是社会走向文明的基石，并探讨了个人在面对社会困境时的不同选择。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Andrew Breitbart
-  - 福泽谕吉
-  - 释迦牟尼
-  - 孔子
-  - 孟子
-  - 麦克阿瑟
-  - Donald Trump
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-04-18
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《劝学篇》
+- 《劝学篇》
+people:
+- Andrew Breitbart
+- 福泽谕吉
+- 释迦牟尼
+- 孔子
+- 孟子
+- 麦克阿瑟
+- Donald Trump
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=ZY02Trv9X9s
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了中文世界中普遍存在的二极管式思维和“只要现代化不要文明化”的社会现象。通过对比中国与日本、韩国、台湾的现代化路径，文章批判了对民主转型的捷径幻想，并援引福泽谕吉的独立人格思想，强调了国民精神素质和制度建设的重要性。最终，文章指出“政治是文化的下游”，认为独立人格是社会走向文明的基石，并探讨了个人在面对社会困境时的不同选择。
+tags:
+- democratic
+- political
+- psychology
+- society
+- thinking
+title: 当取代坏的不是好，而是更坏：中国现代化进程中的思维与人格困境
 ---
 
 ### 二极管思维与现代化陷阱

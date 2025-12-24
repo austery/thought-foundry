@@ -1,61 +1,61 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Novartis
+- Norges Bank Investment Management
+- Alcon
+- Sandoz
+- Isomorphic Labs
+- Google DeepMind
+- Palantir
+- Microsoft Research Labs
+- Amazon
+- Bernstein
 date: '2025-06-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Bhagavad Gita
+- Dao Ching
+- The Power Paradox
+- Nexus
+- Enlightenment Now
+- Financial Times
+people:
+- Nicolai Tangan
+- Vas Narasimhan
+- Scott Pelton
+- Yuval Noah Harari
+- Steven Pinker
+- Dr. Kelner
+- Draghi
+- Donald Trump
+products_models:
+- radolyan therapies
+- cell and gene therapies
+- RNA therapeutics
+project:
+- ai-impact-analysis
+- china-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=A_z4Jow0c7A
 speaker: Norges Bank Investment Management
-tags:
-  - pharmaceutical-innovation
-  - rd-strategy
-  - european-pharma-challenges
-  - china-biotech-ecosystem
-  - leadership-philosophy
-title: 诺华CEO：制药业的创新、挑战与领导力之道
-summary: 诺华CEO Vas Narasimhan分享了公司转型为纯粹创新药物公司的战略，强调了AI、细胞与基因疗法等前沿技术在研发中的关键作用。他深入探讨了欧洲制药业面临的政策挑战，以及中国生物制药生态系统的崛起。Narasimhan还阐述了他的领导力哲学，包括培养“受启发、好奇、无层级”的企业文化，以及个人健康管理对领导力的影响。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - china-analysis
-  - personal-growth-lab
-people:
-  - Nicolai Tangan
-  - Vas Narasimhan
-  - Scott Pelton
-  - Yuval Noah Harari
-  - Steven Pinker
-  - Dr. Kelner
-  - Draghi
-  - Donald Trump
-companies_orgs:
-  - Novartis
-  - Norges Bank Investment Management
-  - Alcon
-  - Sandoz
-  - Isomorphic Labs
-  - Google DeepMind
-  - Palantir
-  - Microsoft Research Labs
-  - Amazon
-  - Bernstein
-products_models:
-  - radolyan therapies
-  - cell and gene therapies
-  - RNA therapeutics
-media_books:
-  - In Good Company
-  - Bhagavad Gita
-  - Dao Ching
-  - The Power Paradox
-  - Nexus
-  - Enlightenment Now
-  - Financial Times
 status: evergreen
+summary: 诺华CEO Vas Narasimhan分享了公司转型为纯粹创新药物公司的战略，强调了AI、细胞与基因疗法等前沿技术在研发中的关键作用。他深入探讨了欧洲制药业面临的政策挑战，以及中国生物制药生态系统的崛起。Narasimhan还阐述了他的领导力哲学，包括培养“受启发、好奇、无层级”的企业文化，以及个人健康管理对领导力的影响。
+tags:
+- challenge
+- china
+- leadership-philosophy
+- pharmaceutical-innovation
+- strategy
+title: 诺华CEO：制药业的创新、挑战与领导力之道
 ---
+
 ### 诺华的战略聚焦与创新引擎
 
 **Nicolai Tangan:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威央行投资管理公司，管理挪威政府全球养老基金）的首席执行官Nicolai Tangan。今天，我非常荣幸能与诺华（**Novartis**: 全球领先的制药公司）的首席执行官Vas Narasimhan共处一室。

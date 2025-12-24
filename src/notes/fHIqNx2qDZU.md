@@ -1,38 +1,35 @@
 ---
-title: 全球焦点：稀土战升级、地缘政治动荡与经济前景展望
-summary: 本期节目深入解析全球热点事件，涵盖美国经济展望、诺贝尔和平奖、日本政局变动、中东和平进程，以及引发广泛关注的中国稀土出口管制对中美关系和全球经济的深远影响。
-area: market-analysis
-category: geopolitics
+area: society-thinking
+category: politics-society
+companies_orgs: []
+date: '2025-10-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+products_models: []
 project:
 - ai-impact-analysis
 - china-analysis
 - geopolitics-watch
 - us-analysis
+series: ''
+source: https://www.youtube.com/watch?v=fHIqNx2qDZU
+speaker: LT視界
+status: evergreen
+summary: 本期节目深入解析全球热点事件，涵盖美国经济展望、诺贝尔和平奖、日本政局变动、中东和平进程，以及引发广泛关注的中国稀土出口管制对中美关系和全球经济的深远影响。
 tags:
-- ai-chips
-- geopolitics
-- japan-politics
+- ai-chip
+- canada
 - middle-east-peace
-- nobel-peace-prize
+- politics
 - rare-earth
 - taiwan
 - us-china-relations
 - us-economy
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-11'
-author: LT視界
-speaker: LT視界
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=fHIqNx2qDZU
-status: evergreen
+title: 全球焦点：稀土战升级、地缘政治动荡与经济前景展望
 ---
+
 ### 开篇致辞与经济头条概览
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月10日，我们首先向台湾的网友致以节日的问候，今天是中华民国的国庆日。今天的财经头条，我们一起来了解三个方面的最新报道。

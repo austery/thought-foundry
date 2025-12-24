@@ -1,48 +1,47 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 日本央行
+- 欧盟
+- 国际货币基金组织
+- 北京字节跳动
+- 甲骨文公司
+- 华尔街日报
+- 彭博社
+- 布朗大学
+- 麻省理工学院
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Donald Trump
+- Xi Jinping
+- Vladimir Putin
+- 安东尼奥·科斯塔
+- 冯德莱恩
+- 周寿之
+products_models:
+- DeepSeek
+- HIMARS
+project:
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=pILQGp7qD14
 speaker: LT視界
-tags:
-  - geopolitics
-  - taiwan
-  - us-china-relations
-  - economic-policy
-title: 中共警告不要碰其軟肋，此地無銀三百兩；美國對台立場的微妙變化，兩岸都未必理解；南京導航系統失靈，背後是中共心裡有鬼。
-summary: 本期节目涵盖多条重要新闻：日本央行加息25个基点，触及30年新高，市场反应复杂；欧盟承诺向乌克兰提供1050亿美元贷款，但未能动用俄罗斯资产，凸显内部分歧；美国发生一起离奇枪击案，嫌疑人系科学家；TikTok与投资者达成协议成立美国合资公司，以避免禁令；南京发生大规模卫星导航系统失灵事件，官方解释引发民众猜测；中国公布2025年度汉字“忍”；美国对台军售规模空前，并要求公布中国高层财富，引发中共强烈反应。节目深入分析了这些事件背后的政治、经济及战略意涵，特别是中美关系及中共的软肋。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-  - china-analysis
-people:
-  - 川普
-  - 习近平
-  - 普京
-  - 安东尼奥·科斯塔
-  - 冯德莱恩
-  - 周寿之
-companies_orgs:
-  - 日本央行
-  - 欧盟
-  - 国际货币基金组织
-  - 北京字节跳动
-  - 甲骨文公司
-  - 华尔街日报
-  - 彭博社
-  - 布朗大学
-  - 麻省理工学院
-products_models:
-  - DeepSeek
-  - HIMARS
-media_books: []
 status: evergreen
+summary: 本期节目涵盖多条重要新闻：日本央行加息25个基点，触及30年新高，市场反应复杂；欧盟承诺向乌克兰提供1050亿美元贷款，但未能动用俄罗斯资产，凸显内部分歧；美国发生一起离奇枪击案，嫌疑人系科学家；TikTok与投资者达成协议成立美国合资公司，以避免禁令；南京发生大规模卫星导航系统失灵事件，官方解释引发民众猜测；中国公布2025年度汉字“忍”；美国对台军售规模空前，并要求公布中国高层财富，引发中共强烈反应。节目深入分析了这些事件背后的政治、经济及战略意涵，特别是中美关系及中共的软肋。
+tags:
+- economic-policy
+- taiwan
+- us-china-relations
+title: 中共警告不要碰其軟肋，此地無銀三百兩；美國對台立場的微妙變化，兩岸都未必理解；南京導航系統失靈，背後是中共心裡有鬼。
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月19日。
 
 ### 日本央行加息

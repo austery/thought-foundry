@@ -1,37 +1,35 @@
 ---
-author: TVO Today
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York City DSA
+- Broadbent Institute
+- TVO Today
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Zohran Mamdani
+- Jen Hassam
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=PgmF-tta5tk
 speaker: TVO Today
-tags:
-  - us-politics
-  - campaign-strategy
-  - grassroots-organizing
-  - democratic-socialism
-  - digital-campaigning
-title: 佐兰·曼达尼的竞选：草根动员与数字策略的成功蓝图
-summary: 本文探讨了民主社会主义者佐兰·曼达尼在纽约市市长竞选中意外获胜的案例。他的竞选活动以其草根动员、数字策略和大量志愿者参与而闻名，成功吸引了进步人士和年轻人。文章深入分析了曼达尼如何从一名志愿者成长为市长候选人，以及他的竞选模式（包括独特的寻宝游戏活动）如何抵御主流媒体的攻击并激发社区参与。同时，也探讨了加拿大政治党派能从其成功中汲取哪些经验，强调了志愿者基础和社区组织的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Zohran Mamdani
-  - Jen Hassam
-companies_orgs:
-  - New York City DSA
-  - Broadbent Institute
-  - TVO Today
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了民主社会主义者佐兰·曼达尼在纽约市市长竞选中意外获胜的案例。他的竞选活动以其草根动员、数字策略和大量志愿者参与而闻名，成功吸引了进步人士和年轻人。文章深入分析了曼达尼如何从一名志愿者成长为市长候选人，以及他的竞选模式（包括独特的寻宝游戏活动）如何抵御主流媒体的攻击并激发社区参与。同时，也探讨了加拿大政治党派能从其成功中汲取哪些经验，强调了志愿者基础和社区组织的重要性。
+tags:
+- campaign-strategy
+- democratic
+- digital
+- grassroots-organizing
+title: 佐兰·曼达尼的竞选：草根动员与数字策略的成功蓝图
 ---
+
 ### 曼达尼的崛起与竞选启示
 
 官方消息称，**民主社会主义者**（Democratic Socialist: 一种主张通过民主手段实现社会主义目标的政治意识形态）佐兰·曼达尼将成为下一任纽约市市长。他的竞选活动激发了进步人士和年轻人的热情，其成功震惊了许多传统政治势力。

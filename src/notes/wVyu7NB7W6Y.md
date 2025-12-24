@@ -1,62 +1,59 @@
 ---
-author: Veritasium
-date: '2024-09-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=wVyu7NB7W6Y
-speaker: Veritasium
-tags:
-  - veritasium
-  - ss7-vulnerability
-  - phone-security
-  - two-factor-authentication
-  - location-tracking
-  - telecom-history
-title: 揭露电话系统漏洞：SS7攻击的原理、历史与现实威胁
-summary: 本视频深入探讨了全球电话系统核心——信令系统7号（SS7）的严重安全漏洞。从史蒂夫·乔布斯和沃兹尼亚克利用“蓝盒子”免费通话的早期电话破解历史，到现代黑客如何通过SS7拦截电话、短信、绕过双因素认证，甚至追踪目标位置，视频详细揭示了这些攻击的原理和现实影响，包括迪拜公主拉蒂法被绑架的案例。尽管存在严重风险，SS7因其作为2G/3G通信骨干的地位，以及“先行者劣势”效应，其淘汰进程异常缓慢，对个人隐私和国家安全构成持续威胁。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Linus
-  - Derek
-  - Steve Jobs
-  - Steve Wozniak
-  - Princess Latifa
-  - Sheikh Mohammed
-  - Tiina
-  - Hervé Jaubert
-  - Karsten Nohl
-  - Alexandre De Oliveira
-  - James
-  - Yvonne
-  - Sarah
-  - Crofton Black
-  - Ted Lieu
-  - Tobias Engel
+category: technology
 companies_orgs:
-  - Linus Tech Tips
-  - Veritasium
-  - Apple
-  - Radio Shack
-  - Hacksmith
-  - NSO Group
-  - Chaos Computer Club
-  - Brilliant
+- Linus Tech Tips
+- Veritasium
+- Apple
+- Radio Shack
+- Hacksmith
+- NSO Group
+- Chaos Computer Club
+- Brilliant
+date: '2024-09-21'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Linus
+- Derek
+- Steve Jobs
+- Steve Wozniak
+- Princess Latifa
+- Sheikh Mohammed
+- Tiina
+- Hervé Jaubert
+- Karsten Nohl
+- Alexandre De Oliveira
+- James
+- Yvonne
+- Sarah
+- Crofton Black
+- Ted Lieu
+- Tobias Engel
 products_models:
-  - Blue Box
-  - Pegasus
-  - Signal
-  - WhatsApp
-media_books: []
+- Blue Box
+- Pegasus
+- Signal
+- WhatsApp
+project:
+- systems-thinking
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=wVyu7NB7W6Y
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了全球电话系统核心——信令系统7号（SS7）的严重安全漏洞。从史蒂夫·乔布斯和沃兹尼亚克利用“蓝盒子”免费通话的早期电话破解历史，到现代黑客如何通过SS7拦截电话、短信、绕过双因素认证，甚至追踪目标位置，视频详细揭示了这些攻击的原理和现实影响，包括迪拜公主拉蒂法被绑架的案例。尽管存在严重风险，SS7因其作为2G/3G通信骨干的地位，以及“先行者劣势”效应，其淘汰进程异常缓慢，对个人隐私和国家安全构成持续威胁。
+tags:
+- history
+- location-tracking
+- security
+- two-factor-authentication
+title: 揭露电话系统漏洞：SS7攻击的原理、历史与现实威胁
 ---
+
 ### 电话网络入侵：一个令人不安的演示
 
 这是来自Linus Tech Tips的Linus，我们入侵了电话网络，以便监视他。

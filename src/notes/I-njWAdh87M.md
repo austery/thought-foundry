@@ -1,42 +1,40 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Nasdaq
+- Norges Bank Investment Management
+- OMX
+- Verafin
+- AWS
 date: '2025-05-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Adena T. Friedman
+- Min
+products_models:
+- ISK program
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=I-njWAdh87M
 speaker: Norges Bank Investment Management
-tags:
-  - financial-markets
-  - market-integrity
-  - capital-markets
-  - technological-transformation
-  - company-growth
-  - public-markets
-title: 纳斯达克CEO艾德娜·弗里德曼：市场演变、卓越公司特质与北欧资本市场活力
-summary: 纳斯达克CEO艾德娜·弗里德曼在挪威银行投资管理公司会议上分享了纳斯达克的战略愿景、财务表现及其作为市场运营商和技术提供商的转型历程。她强调了流动性、透明度和诚信在构建伟大金融系统中的核心作用，并探讨了卓越公司的关键特质，包括拥抱技术、韧性运营和清晰的使命。弗里德曼还深入分析了北欧资本市场充满活力的原因，以及AI和云计算如何赋能金融市场和反金融犯罪。最后，她讨论了公司私有化趋势及其对普通投资者参与价值创造的影响，呼吁进行政策改革以重振公共市场。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Adena T. Friedman
-  - Min
-companies_orgs:
-  - Nasdaq
-  - Norges Bank Investment Management
-  - OMX
-  - Verafin
-  - AWS
-products_models:
-  - ISK program
-media_books: []
 status: evergreen
+summary: 纳斯达克CEO艾德娜·弗里德曼在挪威银行投资管理公司会议上分享了纳斯达克的战略愿景、财务表现及其作为市场运营商和技术提供商的转型历程。她强调了流动性、透明度和诚信在构建伟大金融系统中的核心作用，并探讨了卓越公司的关键特质，包括拥抱技术、韧性运营和清晰的使命。弗里德曼还深入分析了北欧资本市场充满活力的原因，以及AI和云计算如何赋能金融市场和反金融犯罪。最后，她讨论了公司私有化趋势及其对普通投资者参与价值创造的影响，呼吁进行政策改革以重振公共市场。
+tags:
+- capital-market
+- financial-market
+- growth
+- market
+- transformation
+title: 纳斯达克CEO艾德娜·弗里德曼：市场演变、卓越公司特质与北欧资本市场活力
 ---
+
 ### 纳斯达克的财务表现与核心愿景
 
 **主持人:** 艾德娜，很高兴今天能邀请到您。作为**纳斯达克**（Nasdaq: 全球领先的证券交易所集团）的首席执行官，您一定对公司有着非常独特而深刻的见解。没有压力，能来到这里真是太棒了。我们刚刚听到了关于如何打造最优秀公司的讨论。那么，您能先告诉我们，是什么让纳斯达克成为一家伟大的公司吗？

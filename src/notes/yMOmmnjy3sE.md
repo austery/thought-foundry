@@ -1,32 +1,30 @@
 ---
-title: 斯坦福实用指南：如何将你的AI生产力提升十倍 | 杰里米·厄特利
-summary: 斯坦福教授杰里米·厄特利分享了上下文工程、思维链推理等实用AI协作技巧，强调将AI视为“超级热情实习生”，通过指导它将生产力提升十倍。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- personal-growth-lab
-tags:
-- ai
-- ai-collaboration
-- cognitive-bias
-- productivity
-- prompt-engineering
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-27'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=yMOmmnjy3sE
+speaker: EO
 status: evergreen
+summary: 斯坦福教授杰里米·厄特利分享了上下文工程、思维链推理等实用AI协作技巧，强调将AI视为“超级热情实习生”，通过指导它将生产力提升十倍。
+tags:
+- ai-collaboration
+- cognitive-bias
+- productivity
+title: 斯坦福实用指南：如何将你的AI生产力提升十倍 | 杰里米·厄特利
 ---
+
 ### AI：一个热情的实习生
 
 I joke, **AI** (Artificial Intelligence: 人工智能) is bad software, but it's good people.

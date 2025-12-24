@@ -1,43 +1,44 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- Pacific Oasis
+- Forest Service
+- National Guard
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Only the Brave
+people:
+- Rachel Abrams
+- Hannah Dryer
+- Joel Eisinger
+- Matt Eisinger
+- Steve Dods
+products_models: []
+project:
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=k0dSvGY6dqo
 speaker: New York Times Podcasts
-tags:
-  - wildfire-safety
-  - worker-protection
-  - public-health-crisis
-  - regulatory-failure
-  - occupational-hazard
-title: 美国野火的隐形受害者：私人消防员的健康危机与系统性困境
-summary: 这篇文章揭示了美国私人消防员在日益严峻的野火季中面临的严峻健康危机。由于监管漏洞和行业文化，这些消防员在没有足够保护的情况下工作，导致严重的肺部疾病和癌症。文章通过一名年轻消防员Joel Eisinger的案例，深入探讨了私人公司消防员在患病后难以获得工伤赔偿，以及政府和行业长期以来对烟雾危害的否认文化。尽管国会已为联邦消防员提供保障，但私人合同制消防员仍处于弱势，凸显了美国野火应对系统中的深层问题。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-people:
-  - Rachel Abrams
-  - Hannah Dryer
-  - Joel Eisinger
-  - Matt Eisinger
-  - Steve Dods
-companies_orgs:
-  - New York Times
-  - Pacific Oasis
-  - Forest Service
-  - National Guard
-products_models: []
-media_books:
-  - The Daily
-  - Only the Brave
 status: evergreen
+summary: 这篇文章揭示了美国私人消防员在日益严峻的野火季中面临的严峻健康危机。由于监管漏洞和行业文化，这些消防员在没有足够保护的情况下工作，导致严重的肺部疾病和癌症。文章通过一名年轻消防员Joel
+  Eisinger的案例，深入探讨了私人公司消防员在患病后难以获得工伤赔偿，以及政府和行业长期以来对烟雾危害的否认文化。尽管国会已为联邦消防员提供保障，但私人合同制消防员仍处于弱势，凸显了美国野火应对系统中的深层问题。
+tags:
+- failure
+- public-health-crisis
+- safety
+- society
+- technology
+title: 美国野火的隐形受害者：私人消防员的健康危机与系统性困境
 ---
+
 ### 引言：野火季背后的隐形危机
 
 我是《纽约时报》的雷切尔·艾布拉姆斯（Rachel Abrams），这里是《The Daily》节目。

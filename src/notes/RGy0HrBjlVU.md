@@ -1,30 +1,30 @@
 ---
-title: PPI数据超预期：市场过度反应还是滞涨前兆？
-summary: 本期内容深入分析了超预期的PPI数据及其对市场和美联储降息预期的影响。演讲者认为市场对数据的反应过度，并结合PCE预测、企业盈利（EPS）趋势和消费者状况，阐述了对后市的乐观看法，同时点评了英特尔和UNH等个股动态。
 area: null
-category: null
-project: []
-tags:
-  - ppi
-  - 市场分析
-  - 财报
-people:
-- 美联储
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-08-14
 author: Lei
-speaker: 投资TALK君
+category: null
 channel: null
+companies_orgs: []
+date: 2025-08-14
 draft: true
 file_name: 20250814_ppi_data_market_overreaction_analysis.md
 guest: null
 insight: null
 layout: post.njk
+people:
+- 美联储
+products_models: []
+project: []
 series: null
 source: https://www.youtube.com/watch?v=RGy0HrBjlVU&t
+speaker: 投资TALK君
+summary: 本期内容深入分析了超预期的PPI数据及其对市场和美联储降息预期的影响。演讲者认为市场对数据的反应过度，并结合PCE预测、企业盈利（EPS）趋势和消费者状况，阐述了对后市的乐观看法，同时点评了英特尔和UNH等个股动态。
+tags:
+- earnings-report
+- financial
+- market-analysis
+title: PPI数据超预期：市场过度反应还是滞涨前兆？
 ---
+
 ## 今日市场回顾与PPI数据冲击
 
 我先聊一下今天的市场，大家非常关注 **PPI** (生产者价格指数) 数据。然后有些个别的事件，比如像英特尔，像 UNH，大家可能都比较关注。因为今天很多机构的持仓公布了，盘后好像大家对于机构的持仓都非常感兴趣，甚至有些标的因为巴菲特买了这支个股，然后出现上涨。

@@ -1,54 +1,54 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- HumanLayer
+- Boundary ML
+- Thought Works
+- GitHub
+- Vercel
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- HackerNews
+- Momento
+people:
+- Dex Horthy
+- Eigor
+- Jeff Huntley
+- Vibv
+- Martin Fowler
+- Brietta
+- Sean
+- Simon
+- Mitchell
+- Jake
+- Blake
+products_models:
+- Claude Code
+- Cursor
+- Hadoop
+- Parket Java
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=rmvDxxNubIg
 speaker: AI Engineer
-tags:
-  - context-engineering
-  - coding-agents
-  - brownfield-codebases
-  - software-development-lifecycle
-  - mental-alignment
-title: AI编码代理：如何在复杂代码库中解决难题并避免“笨拙区”
-summary: 本演讲深入探讨了在复杂和遗留代码库（即“棕地代码库”）中使用AI编码代理所面临的挑战。主讲人Dex Horthy分享了如何通过“上下文工程”和“有意压缩”来优化AI模型的性能，避免因上下文窗口过大导致的“笨拙区”。他提出了“研究-计划-实施”的工作流程，强调了人类在循环中的关键作用，以及如何通过“心智对齐”来提升团队协作效率。演讲还讨论了AI编码代理的未来发展趋势，以及企业在适应AI驱动的软件开发生命周期中面临的文化挑战。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Dex Horthy
-  - Eigor
-  - Jeff Huntley
-  - Vibv
-  - Martin Fowler
-  - Brietta
-  - Sean
-  - Simon
-  - Mitchell
-  - Jake
-  - Blake
-companies_orgs:
-  - HumanLayer
-  - Boundary ML
-  - Thought Works
-  - GitHub
-  - Vercel
-products_models:
-  - Claude Code
-  - Cursor
-  - Hadoop
-  - Parket Java
-media_books:
-  - HackerNews
-  - Momento
 status: evergreen
+summary: 本演讲深入探讨了在复杂和遗留代码库（即“棕地代码库”）中使用AI编码代理所面临的挑战。主讲人Dex Horthy分享了如何通过“上下文工程”和“有意压缩”来优化AI模型的性能，避免因上下文窗口过大导致的“笨拙区”。他提出了“研究-计划-实施”的工作流程，强调了人类在循环中的关键作用，以及如何通过“心智对齐”来提升团队协作效率。演讲还讨论了AI编码代理的未来发展趋势，以及企业在适应AI驱动的软件开发生命周期中面临的文化挑战。
+tags:
+- code
+- coding-agent
+- context-engineering
+- llm
+- software-development-lifecycle
+title: AI编码代理：如何在复杂代码库中解决难题并避免“笨拙区”
 ---
+
 ### 欢迎与AI在软件工程中的挑战
 
 大家好！我是Dex。正如精彩的开场介绍所说，我从事**AI代理**（AI Agents: 能够自主感知环境、做出决策并执行任务的软件实体）的开发已经有一段时间了。我们在六月AI工程师大会上关于《12要素代理》（12-Factor Agents: 基于“12要素应用”原则构建的AI代理，旨在实现健壮、可扩展和易于维护的特性）的演讲，是史上最受欢迎的演讲之一，我认为位列前八。它无疑是六月AI工程师大会上最精彩的演讲之一。我可能在其中提到了关于**上下文工程**（Context Engineering: 一种优化AI模型输入信息（上下文窗口）的技术，旨在提高模型性能和准确性）的一些内容。

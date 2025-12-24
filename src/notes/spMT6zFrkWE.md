@@ -1,51 +1,50 @@
 ---
-author: 徒步的騎手
-date: 2025-03-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=spMT6zFrkWE'
-speaker: 徒步的騎手
-tags:
-  - phrase-slavery
-  - theoretical-simplification
-  - geopolitical-theories
-  - cultural-determinism
-  - post-cold-war-order
-title: 文明的冲突与短语的奴隶：对简化理论传播的批判
-summary: 本文深入探讨了“短语的奴隶”现象，批判了学术界和政界将复杂理论简化为朗朗上口短语的趋势。以亨廷顿的“文明的冲突”和“修昔底德陷阱”为例，文章指出这种简化导致公众对深层背景和理论缺乏理解。文章追溯了“文明的冲突”短语的真正来源，并结合历史与现实，反驳了亨廷顿理论的局限性，提出当今世界的冲突更多是“野蛮与文明”的对立，而非文明间的冲突。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - Samuel Huntington
-  - Francis Fukuyama
-  - Graham Allison
-  - Hamilton Eckenrode
-  - Bernard Lewis
-  - Eliot Cohen
-  - Farid Zakaria
-  - Jefferson Davis
+category: geopolitics
 companies_orgs:
-  - CNN
-  - Harvard University
-  - Johns Hopkins University
-  - US State Department
-products_models: '[]'
+- CNN
+- Harvard University
+- Johns Hopkins University
+- US State Department
+date: 2025-03-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《第三波浪潮》
-  - 《文明的冲突及世界秩序的重建》
-  - 《我们是谁》
-  - 《外交事务》
-  - 《大西洋月刊》
-  - Jefferson Davis President of the South
-  - GPS
+- 《第三波浪潮》
+- 《文明的冲突及世界秩序的重建》
+- 《我们是谁》
+- 《外交事务》
+- 《大西洋月刊》
+- Jefferson Davis President of the South
+- GPS
+people:
+- Samuel Huntington
+- Francis Fukuyama
+- Graham Allison
+- Hamilton Eckenrode
+- Bernard Lewis
+- Eliot Cohen
+- Farid Zakaria
+- Jefferson Davis
+products_models: '[]'
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=spMT6zFrkWE
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了“短语的奴隶”现象，批判了学术界和政界将复杂理论简化为朗朗上口短语的趋势。以亨廷顿的“文明的冲突”和“修昔底德陷阱”为例，文章指出这种简化导致公众对深层背景和理论缺乏理解。文章追溯了“文明的冲突”短语的真正来源，并结合历史与现实，反驳了亨廷顿理论的局限性，提出当今世界的冲突更多是“野蛮与文明”的对立，而非文明间的冲突。
+tags:
+- cultural-determinism
+- phrase-slavery
+- theoretical-simplification
+- theory
+- war
+title: 文明的冲突与短语的奴隶：对简化理论传播的批判
 ---
 
 ### 引言：短语的奴隶与理论的简化

@@ -1,65 +1,65 @@
 ---
-author: 老周横眉
+area: society-systems
+category: culture
+companies_orgs:
+- Bayer
+- 北京天坛医院
+- 北京顺心控股有限公司
+- 中国科技部
+- 北京同仁堂
+- 国际癌症研究机构
+- 中共中央
+- 上海市卫生局
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《埃博斯植草文稿》
+- 《神农本草经》
+- 《本草纲目》
+- 《柳叶刀》
+- 《圣经》
+- 《古兰经》
+- 《黄帝内经》
+- 《天工开物》
+people:
+- Hippocrates
+- George Washington
+- Rafael Pira
+- Felix Hoffman
+- 于昌石
+- 王永军
+products_models:
+- 阿司匹林
+- 中风醒脑口服液
+- 仁丹
+- 治保丹
+- 止血丹
+- 苏合香丸
+- 朱砂安神丸
+- 安宫牛黄丸
+- 安神补脑液
+- 当归苦参丸
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=h8F-OIPmiDU
 speaker: 老周横眉
-tags:
-  - traditional-chinese-medicine
-  - modern-medicine
-  - scientific-validation
-  - cultural-inertia
-  - public-health-risks
-title: 中医：博大精深还是伪科学？深入剖析传统医学与现代科学的冲突
-summary: 本视频深入探讨了中医与现代医学的本质差异，批判了将中医神化、认为其优于或等同于西医的观点。通过对比传统医学的试错经验与现代科学的实证体系，揭示了中医在理论基础、进步能力及安全性方面的局限性，并以阿司匹林、缠足、古代皇帝寿命、朱砂和马兜铃酸等案例，论证了盲目相信“老祖宗智慧”的危害，呼吁正视科学，警惕将中医政治化的倾向。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Hippocrates
-  - George Washington
-  - Rafael Pira
-  - Felix Hoffman
-  - 于昌石
-  - 王永军
-companies_orgs:
-  - Bayer
-  - 北京天坛医院
-  - 北京顺心控股有限公司
-  - 中国科技部
-  - 北京同仁堂
-  - 国际癌症研究机构
-  - 中共中央
-  - 上海市卫生局
-products_models:
-  - 阿司匹林
-  - 中风醒脑口服液
-  - 仁丹
-  - 治保丹
-  - 止血丹
-  - 苏合香丸
-  - 朱砂安神丸
-  - 安宫牛黄丸
-  - 安神补脑液
-  - 当归苦参丸
-media_books:
-  - 《埃博斯植草文稿》
-  - 《神农本草经》
-  - 《本草纲目》
-  - 《柳叶刀》
-  - 《圣经》
-  - 《古兰经》
-  - 《黄帝内经》
-  - 《天工开物》
 status: evergreen
+summary: 本视频深入探讨了中医与现代医学的本质差异，批判了将中医神化、认为其优于或等同于西医的观点。通过对比传统医学的试错经验与现代科学的实证体系，揭示了中医在理论基础、进步能力及安全性方面的局限性，并以阿司匹林、缠足、古代皇帝寿命、朱砂和马兜铃酸等案例，论证了盲目相信“老祖宗智慧”的危害，呼吁正视科学，警惕将中医政治化的倾向。
+tags:
+- chinese
+- cultural
+- health
+- public-health-risk
+- scientific
+title: 中医：博大精深还是伪科学？深入剖析传统医学与现代科学的冲突
 ---
+
 ### 中医：一个引发争议的古老话题
 
 今天，我们将挑战一个在华人世界里极具争议的话题——中医。本次节目的主要对象是那些将中医神化，认为中医博大精深能与西医平起平坐，甚至比西医更强，认为西医治不了的病到中医这里都能治好的人。即使你认为中医只是比西医稍微弱一点，但各有千秋，不应该褒医贬医，本视频也希望能尝试说服你。

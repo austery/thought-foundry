@@ -1,31 +1,31 @@
 ---
-title: 《知识分子》：揭开托尔斯泰与萨特等思想巨匠的道德假面
-summary: 保罗·约翰逊的《知识分子》一书，通过揭示托尔斯泰、萨特等思想巨匠在私生活中的道德瑕疵，挑战了“有才便可无德”的观念，引发对知识分子角色的深刻反思。
 area: null
 category: null
-project: []
-tags:
-- intellectuals
-- morality
+companies_orgs: []
+date: '2025-07-19'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 people:
 - jean-paul-sartre
 - leo-tolstoy
 - paul-johnson
 - stella-an
-companies_orgs: []
 products_models: []
-media_books: []
-date: '2025-07-19'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=14-rWGEgSwI
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 保罗·约翰逊的《知识分子》一书，通过揭示托尔斯泰、萨特等思想巨匠在私生活中的道德瑕疵，挑战了“有才便可无德”的观念，引发对知识分子角色的深刻反思。
+tags:
+- philosophy
+title: 《知识分子》：揭开托尔斯泰与萨特等思想巨匠的道德假面
+companies:
+- intellectual
 ---
+
 ### 现代社会的缔造者：知识分子的光环与争议
 
 自1789年以来，世界历史的发展突飞猛进，知识分子在这一过程中功不可没，他们施加了重大的影响力，甚至起到了决定性的作用。从18世纪起，知识分子在经济上取得相对独立，不再依赖恩主的供养，思想上也摆脱了神权的束缚。他们带着强烈的使命感，探讨人类的各种问题，为未来设计蓝图。可以说，没有这些知识分子的思考，就没有现代社会的政治、经济和意识形态秩序，“现代性”本身就是这些伟大头脑的创造。

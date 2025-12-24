@@ -1,38 +1,38 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2024-06-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《思成记》
+people:
+- 陈思呈
+- 梁启超
+- 巴金
+- 私人齐木阁
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=EIXQ3r5xog8
 speaker: 一席YiXi
-tags:
-  - tea-culture
-  - ritual-and-routine
-  - cultural-continuity
-  - everyday-resilience
-  - sensory-memory
-title: 每个潮州人自带一座茶馆：功夫茶中的生活哲学与文化韧性
-summary: 陈思呈通过潮州功夫茶的日常实践，揭示喝茶如何成为一种文化仪式、情感联结与精神慰藉。从乡村到城市，从中国南端到北疆，茶不仅是饮品，更是承载记忆、尊严与生活智慧的载体。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 陈思呈
-  - 梁启超
-  - 巴金
-  - 私人齐木阁
-companies_orgs: []
-products_models: []
-media_books:
-  - 《思成记》
 status: evergreen
+summary: 陈思呈通过潮州功夫茶的日常实践，揭示喝茶如何成为一种文化仪式、情感联结与精神慰藉。从乡村到城市，从中国南端到北疆，茶不仅是饮品，更是承载记忆、尊严与生活智慧的载体。
+tags:
+- cultural
+- culture
+- everyday-resilience
+- memory
+- ritual-and-routine
+title: 每个潮州人自带一座茶馆：功夫茶中的生活哲学与文化韧性
 ---
+
 ### 茶，是潮州人的日常仪式
 
 我是一个写作者，叫陈思呈，祖籍潮州。虽然我现在生活在广州，但我的身份认同里，最核心的一条是：我是一个潮州人。提到潮州人，外界常贴上“贤惠”之类的标签，但这些我都不太符合。唯一让我感到自己真正属于这个群体的，是喝茶——准确地说，是喝功夫茶。

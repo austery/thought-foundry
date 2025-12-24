@@ -1,53 +1,52 @@
 ---
-author: 三個水槍手
+area: knowledge-meta
+category: knowledge-meta
+companies_orgs:
+- 东京大学
+- 人民论坛
+- 大声
+- 南华早报
+- BBC
+- 端传媒
+- 腾讯
+- Alibaba
+- 网易
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 吴薇
+- 朴志强
+- 张杰平
+- 许成刚
+- 吴国光
+- 王菲玲
+- 文冠中
+- 吴思
+- 徐有渔
+- 秦辉
+- 王志安
+- 李后成
+- 武雷
+products_models: []
+project:
+- ai-impact-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=96uuIQqkZTM
 speaker: 三個水槍手
-tags:
-  - chinese-language
-  - independent-media
-  - freedom-of-speech
-  - public-memory
-title: 大聲創始人吳薇東京大學直播:在夾縫中發出最大聲
-summary: 本次直播聚焦「大聲」創始人吳薇在東京大學的演講。她深入剖析了當代中文世界表達能力下降、語言被政治化、公共記憶消失等困境，並結合自身從外媒記者到創辦獨立媒體「大聲」的經歷，闡述了「大聲」旨在重建真實中文思考與表達空間的使命。演講探討了海外中文媒體的挑戰、個人主體性的重塑，以及在複雜時代中恢復語言複雜性、賦予無聲者話語權的願景。
-insight: ''
-draft: true
-series: ''
-category: knowledge-meta
-area: knowledge-meta
-project:
-  - ai-impact-analysis
-  - china-analysis
-people:
-  - 吴薇
-  - 朴志强
-  - 张杰平
-  - 许成刚
-  - 吴国光
-  - 王菲玲
-  - 文冠中
-  - 吴思
-  - 徐有渔
-  - 秦辉
-  - 王志安
-  - 李后成
-  - 武雷
-companies_orgs:
-  - 东京大学
-  - 人民论坛
-  - 大声
-  - 南华早报
-  - BBC
-  - 端传媒
-  - 腾讯
-  - 阿里巴巴
-  - 网易
-products_models: []
-media_books: []
 status: evergreen
+summary: 本次直播聚焦「大聲」創始人吳薇在東京大學的演講。她深入剖析了當代中文世界表達能力下降、語言被政治化、公共記憶消失等困境，並結合自身從外媒記者到創辦獨立媒體「大聲」的經歷，闡述了「大聲」旨在重建真實中文思考與表達空間的使命。演講探討了海外中文媒體的挑戰、個人主體性的重塑，以及在複雜時代中恢復語言複雜性、賦予無聲者話語權的願景。
+tags:
+- chinese
+- freedom-of-speech
+- media
+- public
+title: 大聲創始人吳薇東京大學直播:在夾縫中發出最大聲
 ---
+
 ### 开场与“大声”的诞生
 
 非常抱歉，刚才调试出现了一点小问题，耽误了大家十分钟。今天非常荣幸能在**东京大学**，感谢**阿古老师**和**人民论坛**的**贾佳老师**，以及各位老师的邀请，能在这样一个有文化氛围的媒体环境中进行讨论。今天我想探讨一个重要的问题：什么是“夹缝”，以及我们的空间在哪里？

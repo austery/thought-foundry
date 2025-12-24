@@ -1,45 +1,45 @@
 ---
-author: 北美王路飞
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Silicon Valley Bank
+- FDIC
 date: '2025-08-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《生活多美好》
+people:
+- Jerome Powell
+- Ben Bernanke
+- William Jennings Bryan
+- Andrew Mellon
+- Herbert Hoover
+- Franklin D. Roosevelt
+- Jimmy Stewart
+products_models:
+- S&P
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ZiOnkZCMrKE
 speaker: 北美王路飞
-tags:
-  - great-depression
-  - federal-reserve-policy
-  - gold-standard
-  - liquidationism
-  - monetary-policy-failure
-title: 揭秘大萧条：美联储如何从“救世主”沦为“纵火犯”？
-summary: 本文深入探讨了美联储在1929年大萧条初期所扮演的争议角色。作为旨在稳定经济的中央银行，美联储却因固守金本位制和信奉清算主义，不仅未能有效应对危机，反而通过错误的货币政策和对银行倒闭的坐视不理，将美国乃至全球经济推向更深渊。文章分析了美联储两大核心使命的失败，并对比了罗斯福总统如何通过务实政策纠正了这些错误，最终带领美国走出危机，为后世央行提供了宝贵的反面教材。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - Jerome Powell
-  - Ben Bernanke
-  - William Jennings Bryan
-  - Andrew Mellon
-  - Herbert Hoover
-  - Franklin D. Roosevelt
-  - Jimmy Stewart
-companies_orgs:
-  - Federal Reserve
-  - Silicon Valley Bank
-  - FDIC
-products_models:
-  - S&P
-media_books:
-  - 《生活多美好》
 status: evergreen
+summary: 本文深入探讨了美联储在1929年大萧条初期所扮演的争议角色。作为旨在稳定经济的中央银行，美联储却因固守金本位制和信奉清算主义，不仅未能有效应对危机，反而通过错误的货币政策和对银行倒闭的坐视不理，将美国乃至全球经济推向更深渊。文章分析了美联储两大核心使命的失败，并对比了罗斯福总统如何通过务实政策纠正了这些错误，最终带领美国走出危机，为后世央行提供了宝贵的反面教材。
+tags:
+- federal-reserve-policy
+- investment
+- policy
+- psychology
+- technology
+title: 揭秘大萧条：美联储如何从“救世主”沦为“纵火犯”？
 ---
+
 ### 美联储：从“定海神针”到“纵火犯”的争议角色
 
 上周五，美联储主席鲍威尔在Jackson Hole发表了演讲，表示美联储未来会考虑降息，这一消息立刻引发市场大涨。在今天，美联储的形象是全球经济的“定海神针”和金融世界的“超级央行”。例如，2022年为应对通货膨胀，美联储展开了一系列加息活动，导致当年资产表现普遍糟糕；而在新冠疫情期间，美联储则通过“印钞机”进行无限量的量化宽松，成功让经济起死回生。

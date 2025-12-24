@@ -1,52 +1,52 @@
 ---
-author: Peter Pang
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=vJGoQigiXAE'
-speaker: Peter Pang
-tags:
-  - agile-software-development
-  - project-management
-  - software-engineering
-  - development-methodology
-  - organizational-culture
-title: 敏捷开发的困境：我们是否只是在“假装”敏捷？
-summary: 本文深入探讨了敏捷开发（Agile Software Development）在实践中面临的挑战与缺陷。从敏捷宣言的诞生背景出发，分析了其作为一套理论集合而非单一理论的特性，以及在推广中被“捆绑销售”的策略。文章揭示了敏捷体系中主观预测与客观承诺界限模糊的根本问题，并批判性地审视了每日站会、结对编程等具体流程在实际应用中的低效。通过将软件工程与传统工程的PDCA模式进行对比，揭示了敏捷方法论与软件开发特性之间的“水土不服”，呼吁行业寻找真正贴合软件开发的大统一理论。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Kent Beck
-  - Martin Fowler
-  - Steve Mellor
-  - Uncle Bob
-  - Walter Shewhart
-  - Edwards Deming
+category: technology
 companies_orgs:
-  - Chrysler
-  - Bell Labs
-products_models:
-  - eXtreme Programming (XP)
-  - Scrum
-  - RUP
-  - UML
-  - OOA
-  - PDCA
-  - SPC
+- Chrysler
+- Bell Labs
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《Adoptive Software Development》
-  - 《The Programmatic Programmer》
-  - 《Clean Code》
-  - 《人月神话》
-  - 《Manifesto for Agile Software Development》
+- 《Adoptive Software Development》
+- 《The Programmatic Programmer》
+- 《Clean Code》
+- 《人月神话》
+- 《Manifesto for Agile Software Development》
+people:
+- Kent Beck
+- Martin Fowler
+- Steve Mellor
+- Uncle Bob
+- Walter Shewhart
+- Edwards Deming
+products_models:
+- eXtreme Programming (XP)
+- Scrum
+- RUP
+- UML
+- OOA
+- PDCA
+- SPC
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=vJGoQigiXAE
+speaker: Peter Pang
 status: evergreen
+summary: 本文深入探讨了敏捷开发（Agile Software Development）在实践中面临的挑战与缺陷。从敏捷宣言的诞生背景出发，分析了其作为一套理论集合而非单一理论的特性，以及在推广中被“捆绑销售”的策略。文章揭示了敏捷体系中主观预测与客观承诺界限模糊的根本问题，并批判性地审视了每日站会、结对编程等具体流程在实际应用中的低效。通过将软件工程与传统工程的PDCA模式进行对比，揭示了敏捷方法论与软件开发特性之间的“水土不服”，呼吁行业寻找真正贴合软件开发的大统一理论。
+tags:
+- agile-software-development
+- development
+- management
+- organizational-culture
+- software-engineering
+title: 敏捷开发的困境：我们是否只是在“假装”敏捷？
 ---
+
 ### 敏捷开发的现状与挑战
 
 **敏捷开发**（Agile Software Development: 一种“小快灵”的软件开发管理模式）在当今的计算机行业中，几乎被视为大家寻找已久的“大统一理论”。然而，我认为，基本上没有多少团队在做正宗的敏捷开发。这并非因为团队能力不足，而是因为正宗的敏捷开发确实存在诸多问题。因此，在很多情况下，我们实际所做的，是我们所理解的敏捷，或者说是在敏捷精神的指导下，带有团队风格、产品需求和企业文化特色的敏捷。我觉得这其实是一件好事，正如著名项目经理Atomic Energy所说：“we shall be developing agilely, but not necessarily Agile Development”，即要“敏捷地开发”，但不一定要“敏捷开发”。

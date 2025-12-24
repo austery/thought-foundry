@@ -1,82 +1,81 @@
 ---
-author: AI Engineer
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Amazon
+- Google
+- Anthropic
+- Nvidia
+- Replit
+- Commonwealth Bank of Australia
+- Netflix
+- AWS
+- Zapier
+- Booking.com
+- Travelopia
+- Capital One
+- Fidelity
+- Cisco
+- Apple
+- Southwest Airlines
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Vibe Coding
+- The Phoenix Project
+- Wall Street Journal
+- State of DevOps research
+- DORA study
+people:
+- Steve Yegge
+- Gene Kim
+- Andrew Glover
+- Jeff Bezos
+- Rick Dalzell
+- Adrian Cockcroft
+- Dr. Nicole Forsgren
+- Jez Humble
+- Dario Amodei
+- Dr. Eric Meyer
+- Jordan Hubard
+- Bruno Passos
+- Shri Balakrishnan
+- Dr. Top Pal
+- Swathy
+- John Rouseer
+- Roger Safner
+- Kent Beck
+products_models:
+- Cloud Code
+- Log4j
+- Neo4j
+- Visual Basic
+- C#
+- Link
+- Haskell
+- Hack
+- PHP
+- iOS App
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=7Dtu2bilcFs
 speaker: AI Engineer
-tags:
-  - ai-coding
-  - vibe-coding
-  - developer-productivity
-  - organizational-transformation
-  - future-of-work
-title: 2026：IDE的终结？AI编码与Vibe Coding的未来
-summary: Steve Yegge和Gene Kim探讨了AI对软件开发领域的颠覆性影响，预测传统集成开发环境（IDE）将走向终结。他们介绍了“Vibe Coding”——一种通过AI迭代对话而非手动编写代码的全新范式，并强调了其在提升生产力、实现复杂任务、降低协调成本以及增加创新选择性方面的巨大潜力。文章通过多个案例研究，展示了AI编码如何重塑技术组织和整个经济，并呼吁工程师拥抱这一变革，适应新的工作方式。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Steve Yegge
-  - Gene Kim
-  - Andrew Glover
-  - Jeff Bezos
-  - Rick Dalzell
-  - Adrian Cockcroft
-  - Dr. Nicole Forsgren
-  - Jez Humble
-  - Dario Amodei
-  - Dr. Eric Meyer
-  - Jordan Hubard
-  - Bruno Passos
-  - Shri Balakrishnan
-  - Dr. Top Pal
-  - Swathy
-  - John Rouseer
-  - Roger Safner
-  - Kent Beck
-companies_orgs:
-  - OpenAI
-  - Amazon
-  - Google
-  - Anthropic
-  - Nvidia
-  - Replit
-  - Commonwealth Bank of Australia
-  - Netflix
-  - AWS
-  - Zapier
-  - Booking.com
-  - Travelopia
-  - Capital One
-  - Fidelity
-  - Cisco
-  - Apple
-  - Southwest Airlines
-products_models:
-  - Cloud Code
-  - Log4j
-  - Neo4j
-  - Visual Basic
-  - C#
-  - Link
-  - Haskell
-  - Hack
-  - PHP
-  - iOS App
-media_books:
-  - Vibe Coding
-  - The Phoenix Project
-  - Wall Street Journal
-  - State of DevOps research
-  - DORA study
 status: evergreen
+summary: Steve Yegge和Gene Kim探讨了AI对软件开发领域的颠覆性影响，预测传统集成开发环境（IDE）将走向终结。他们介绍了“Vibe Coding”——一种通过AI迭代对话而非手动编写代码的全新范式，并强调了其在提升生产力、实现复杂任务、降低协调成本以及增加创新选择性方面的巨大潜力。文章通过多个案例研究，展示了AI编码如何重塑技术组织和整个经济，并呼吁工程师拥抱这一变革，适应新的工作方式。
+tags:
+- developer-productivity
+- future-of-work
+- transformation
+- vibe-coding
+title: 2026：IDE的终结？AI编码与Vibe Coding的未来
 ---
+
 ### AI编码的未来：从“云代码”到CNC机器
 
 大家好。我很高兴来到这里。我将主讲前半部分，我的合著者Gene Kim将主讲后半部分。好的，期待与大家交流。今天，我们将快速地讨论一些内容。我将告诉大家明年的工具会是什么样子。去年，我向大家介绍了聊天工具，但大家都忽略了我；而今年，每个人都在使用聊天工具，所以我们现在就要纠正这种状况。

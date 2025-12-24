@@ -1,82 +1,82 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- Netflix
+- IMDb
+- YouTube
+- B站
+- 腾讯
+- 爱奇艺
+- 阿里巴巴影业
 date: '2025-05-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《三体》
+- 《平面国》
+- 《基地》
+- 《异乡异客》
+- 《盗梦侦探》
+- 《Inception》
+- 《铳梦》
+- 《艾丽塔：战斗天使》
+- 《流浪地球》
+- 《战狼》
+- 《749局》
+- 《上海堡垒》
+- 《阿修罗》
+- 《Kill Bill》
+- 《John Wick》
+- 《海底两万里》
+- 《地心历险记》
+- 《西游记》
+- 《封神演义》
+people:
+- 刘慈欣
+- Edwin Abbott
+- Christopher Nolan
+- James Cameron
+- 吴京
+- 陆川
+- 高晓松
+- Isaac Asimov
+- Robert Heinlein
+- Quentin Tarantino
+- Keanu Reeves
+- Donnie Yen
+- René Descartes
+- Baruch Spinoza
+- Gottfried Wilhelm Leibniz
+- 朱熹
+products_models:
+- 奥特曼
+- 高达
+- 哆啦A梦
+- Minecraft
+- 漫威
+- DC
+project:
+- china-analysis
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1Xu1TETrRes
 speaker: 張内咸
-tags:
-  - three-body-problem
-  - cultural-differences
-  - sci-fi-vs-fantasy
-  - chinese-film-industry
-  - cultural-export
-  - rationalism-empiricism
-title: 《三体》中西方改编对比：文化输出、科幻根源与中国电影产业的困境
-summary: 本文深入探讨了刘慈欣科幻小说《三体》中西方影视改编的差异，并以此为切入点，剖析了中国文化输出的困境、科幻文学在东西方文化中的根源差异，以及中国影视产业所面临的深层问题。文章通过对比两版《三体》的视觉符号，揭示了中国文化中言行割裂的现象，并强调了理解文化传播客观规律的重要性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-  - historical-insights
-people:
-  - 刘慈欣
-  - Edwin Abbott
-  - Christopher Nolan
-  - James Cameron
-  - 吴京
-  - 陆川
-  - 高晓松
-  - Isaac Asimov
-  - Robert Heinlein
-  - Quentin Tarantino
-  - Keanu Reeves
-  - Donnie Yen
-  - René Descartes
-  - Baruch Spinoza
-  - Gottfried Wilhelm Leibniz
-  - 朱熹
-companies_orgs:
-  - Netflix
-  - IMDb
-  - YouTube
-  - B站
-  - 腾讯
-  - 爱奇艺
-  - 阿里巴巴影业
-products_models:
-  - 奥特曼
-  - 高达
-  - 哆啦A梦
-  - Minecraft
-  - 漫威
-  - DC
-media_books:
-  - 《三体》
-  - 《平面国》
-  - 《基地》
-  - 《异乡异客》
-  - 《盗梦侦探》
-  - 《Inception》
-  - 《铳梦》
-  - 《艾丽塔：战斗天使》
-  - 《流浪地球》
-  - 《战狼》
-  - 《749局》
-  - 《上海堡垒》
-  - 《阿修罗》
-  - 《Kill Bill》
-  - 《John Wick》
-  - 《海底两万里》
-  - 《地心历险记》
-  - 《西游记》
-  - 《封神演义》
 status: evergreen
+summary: 本文深入探讨了刘慈欣科幻小说《三体》中西方影视改编的差异，并以此为切入点，剖析了中国文化输出的困境、科幻文学在东西方文化中的根源差异，以及中国影视产业所面临的深层问题。文章通过对比两版《三体》的视觉符号，揭示了中国文化中言行割裂的现象，并强调了理解文化传播客观规律的重要性。
+tags:
+- chinese-film-industry
+- cultural
+- cultural-difference
+- problem
+- rationalism-empiricism
+- sci-fi-vs-fantasy
+title: 《三体》中西方改编对比：文化输出、科幻根源与中国电影产业的困境
 ---
+
 ### 频道成长与《三体》之约
 
 大家好，我是张内咸。前几个月，我曾在一期节目中提及美国版《三体》，并许诺待频道订阅数过万时，将从技术角度拆解美版与中国版《三体》的区别。没想到，频道订阅数很快就突破了万位，观众们也对这个约定记忆犹新。因此，本期节目将兑现承诺，深入探讨《三体》的影视改编。

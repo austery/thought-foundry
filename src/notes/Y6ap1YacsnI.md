@@ -1,38 +1,37 @@
 ---
-author: TVO Today
+area: society-systems
+category: business
+companies_orgs:
+- DMZ
+- Monarch
+- Toronto Metropolitan University
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Abdullah Nobar
+- Kelsey Han
+products_models: []
+project:
+- us-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Y6ap1YacsnI
 speaker: TVO Today
-tags:
-  - canadian-tech-sector
-  - startup-growth
-  - venture-capital
-  - government-procurement
-  - ai-funding
-title: 加拿大科技行业面临增长困境？挑战与出路
-summary: 本期节目探讨了加拿大科技行业在获取资本、留住人才和扩大规模方面面临的挑战。嘉宾Kelsey Han和Abdullah Nobar指出，加拿大创业率下降、市场规模有限、缺乏商业化激励以及风险投资不足是主要问题。他们讨论了加拿大公司寻求美国市场、AI融资偏好以及跨省贸易壁垒。解决方案包括政府采购、税收优惠和培养本土创新文化，以确保加拿大科技企业能在本土实现全球化发展。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - us-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Abdullah Nobar
-  - Kelsey Han
-companies_orgs:
-  - DMZ
-  - Monarch
-  - Toronto Metropolitan University
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目探讨了加拿大科技行业在获取资本、留住人才和扩大规模方面面临的挑战。嘉宾Kelsey Han和Abdullah Nobar指出，加拿大创业率下降、市场规模有限、缺乏商业化激励以及风险投资不足是主要问题。他们讨论了加拿大公司寻求美国市场、AI融资偏好以及跨省贸易壁垒。解决方案包括政府采购、税收优惠和培养本土创新文化，以确保加拿大科技企业能在本土实现全球化发展。
+tags:
+- government
+- investment
+- startup-growth
+- tech
+- venture-capital
+title: 加拿大科技行业面临增长困境？挑战与出路
 ---
+
 ### 加拿大科技行业的增长困境
 
 加拿大科技公司在获取资金和留住人才方面可能面临挑战。那么，我们能做些什么来帮助创始人在本土建立公司呢？**DMZ**（一家位于多伦多都会大学的科技孵化器）的执行董事Abdullah Nobar和**Monarch**（一个领导力发展平台）的首席执行官Kelsey Han与我坐下来解释了这些问题。

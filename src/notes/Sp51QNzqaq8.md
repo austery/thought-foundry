@@ -1,82 +1,82 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 三联书店
+- 联合国
+- 共和党
+- 央视
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《民国律师的传统》
+- 《大典》
+- 《递进民主制》
+- 《一中想象》
+- 《08宪章》
+- 抖音
+- 微博
+- YouTube
+- 大声
+people:
+- 李沪辰
+- 吴薇
+- 贾老师
+- 马家家
+- 蒋经国
+- 刘仲敬
+- 王庚武
+- 张笑语
+- 王飞林
+- 朱水溪
+- 吴国光
+- 孙中山
+- 王立雄
+- Xi Jinping
+- 韩正
+- 李佳琪
+- 宋教人
+- 李元洪
+- 王志安
+- 江峰
+- 邓小平
+- 达赖喇嘛
+- 江雪
+- 长平
+- 马云
+- 钟睒睒
+- 王传福
+- Charlie Kirk
+- Joe Rogan
+- Zoran Mamdani
+- Donald Trump
+- 石之瑜
+- 梁启超
+- 章太炎
+products_models:
+- 安卓
+- 苹果
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Sp51QNzqaq8
 speaker: 三個水槍手
-tags:
-  - china-political-transition
-  - national-fragmentation
-  - democratic-pathways
-  - populist-politics
-  - identity-politics
-title: 中国能否分裂成多个国家？一场关于政治想象力的深度对话
-summary: 本期节目深入探讨了中国未来政治转型的多种可能性，特别是围绕“中国能否分裂成若干国家”这一极具争议的话题。嘉宾吴薇与主持人李沪辰、贾老师从历史、文化、地理及社会心理等多个维度，剖析了大一统观念在国人心中的执念，并提出了包括“省际协调”、“新宪法制订”乃至“二次改开”等不同的民主转型路径设想。节目还讨论了民粹主义、互联网舆论对政治想象力的影响，强调了负责任的政治讨论和理论支撑的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 李沪辰
-  - 吴薇
-  - 贾老师
-  - 马家家
-  - 蒋经国
-  - 刘仲敬
-  - 王庚武
-  - 张笑语
-  - 王飞林
-  - 朱水溪
-  - 吴国光
-  - 孙中山
-  - 王立雄
-  - 习近平
-  - 韩正
-  - 李佳琪
-  - 宋教人
-  - 李元洪
-  - 王志安
-  - 江峰
-  - 邓小平
-  - 达赖喇嘛
-  - 江雪
-  - 长平
-  - 马云
-  - 钟睒睒
-  - 王传福
-  - Charlie Kirk
-  - Joe Rogan
-  - Zoran Mamdani
-  - Donald Trump
-  - 石之瑜
-  - 梁启超
-  - 章太炎
-companies_orgs:
-  - 三联书店
-  - 联合国
-  - 共和党
-  - 央视
-products_models:
-  - 安卓
-  - 苹果
-media_books:
-  - 《民国律师的传统》
-  - 《大典》
-  - 《递进民主制》
-  - 《一中想象》
-  - 《08宪章》
-  - 抖音
-  - 微博
-  - YouTube
-  - 大声
 status: evergreen
+summary: 本期节目深入探讨了中国未来政治转型的多种可能性，特别是围绕“中国能否分裂成若干国家”这一极具争议的话题。嘉宾吴薇与主持人李沪辰、贾老师从历史、文化、地理及社会心理等多个维度，剖析了大一统观念在国人心中的执念，并提出了包括“省际协调”、“新宪法制订”乃至“二次改开”等不同的民主转型路径设想。节目还讨论了民粹主义、互联网舆论对政治想象力的影响，强调了负责任的政治讨论和理论支撑的重要性。
+tags:
+- democratic
+- identity-politics
+- national
+- political
+- politics
+title: 中国能否分裂成多个国家？一场关于政治想象力的深度对话
 ---
+
 ### 节目开场与争议话题的引爆
 
 李沪辰: 大家好，我是你们的李沪辰，今天我们首次进行读评论节目，并邀请到了嘉宾吴薇。

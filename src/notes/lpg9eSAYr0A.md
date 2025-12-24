@@ -1,63 +1,63 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: geopolitics
+companies_orgs:
+- SEC
+- CNBC
+- Meta
+- Oracle
+- CoreWeave
+- Google
+- National Association of Realtors
+- FHFA
+- LA City Council
+- Fannie Mae
+- Freddie Mac
+- Hyundai
+- ICE
+- Fox
+- Y Combinator
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Big Short
+- Politico
+people:
+- Michael Burry
+- Bill Ackman
+- Ben Shapiro
+- Howard Lutnick
+- Alex Karp
+- Stephen Miller
+- Bill Palti
+- Laura Ingraham
+products_models:
+- H100
+- Nvidia chip
+- Obamacare
+- Prop 13
+- Grok
+project:
+- us-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=lpg9eSAYr0A
 speaker: All-In Podcast
-tags:
-  - ai-valuation
-  - housing-affordability
-  - h1b-visa-reform
-  - solar-storm-impact
-  - depreciation-accounting
-title: Michael Burry做空AI与Palantir，美国住房危机与H-1B签证改革辩论
-summary: 本期节目深入探讨了Michael Burry做空AI及Palantir的争议，以及主流媒体在报道金融信息时的失误。嘉宾们还就美国日益严重的住房可负担性危机展开辩论，从50年抵押贷款、租金管制到城市规划，并讨论了H-1B签证制度的改革必要性及其滥用问题。此外，节目还简要提及了近期发生的强烈太阳风暴及其潜在影响，以及对未来计算模式和全球人才流动的思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Michael Burry
-  - Bill Ackman
-  - Ben Shapiro
-  - Howard Lutnick
-  - Alex Karp
-  - Stephen Miller
-  - Bill Palti
-  - Laura Ingraham
-companies_orgs:
-  - SEC
-  - CNBC
-  - Meta
-  - Oracle
-  - CoreWeave
-  - Google
-  - National Association of Realtors
-  - FHFA
-  - LA City Council
-  - Fannie Mae
-  - Freddie Mac
-  - Hyundai
-  - ICE
-  - Fox
-  - Y Combinator
-products_models:
-  - H100
-  - Nvidia chip
-  - Obamacare
-  - Prop 13
-  - Grok
-media_books:
-  - The Big Short
-  - Politico
 status: evergreen
+summary: 本期节目深入探讨了Michael Burry做空AI及Palantir的争议，以及主流媒体在报道金融信息时的失误。嘉宾们还就美国日益严重的住房可负担性危机展开辩论，从50年抵押贷款、租金管制到城市规划，并讨论了H-1B签证制度的改革必要性及其滥用问题。此外，节目还简要提及了近期发生的强烈太阳风暴及其潜在影响，以及对未来计算模式和全球人才流动的思考。
+tags:
+- ai-valuation
+- canada
+- housing-affordability
+- impact
+- reform
+title: Michael Burry做空AI与Palantir，美国住房危机与H-1B签证改革辩论
 ---
+
 ### Michael Burry的AI与Palantir空头及媒体素养
 
 **Jason:** 大家好，Chamath和Friedberg都在。但Sacksy Poo昨晚在白宫待到很晚，今天来不了了，我们稍后会展示一些照片。不过，我们还是开始吧，我们想为你们准备一期节目，并及时在周末前呈现。我们先从Michael Burry和他的空头头寸说起。你们都知道Michael Burry，他是电影《**大空头**》（The Big Short: 一部讲述2008年金融危机前少数人预见并做空市场的电影）中的资本配置者，他刚刚撤销了在**SEC**（Securities and Exchange Commission: 美国证券交易委员会）的注册。他针对人工智能和Palantir进行了大笔押注。几周前，他披露了对Palantir的空头头寸，虽然规模不大。CNBC报道称其价值约为9亿美元，但Burry表示CNBC错了，实际只有900万美元。他提出了一个非常有趣的指控，这与我们节目中一直在讨论的关于建设的问题有关。

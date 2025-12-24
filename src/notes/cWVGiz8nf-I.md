@@ -1,30 +1,26 @@
 ---
-title: 美联储加息缩表与“美元回流”：国际资本流动的真相与“收割论”的迷思
-summary: 本视频深入探讨美联储加息缩表与“美元回流”现象，区分国际资本类型，解析国际资本流动背后的“推拉因素”和投资组合理论。通过分析1997年亚洲金融危机，揭示“收割论”的过度简化，强调各国自身经济结构在资本流动中的决定性作用，倡导独立思考。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-tags:
-  - asian-financial-crisis
-  - capital-flows
-  - dollar-repatriation
-  - federal-reserve
-  - monetary-policy
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-06-11'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=cWVGiz8nf-I
+speaker: 一口新飯
 status: evergreen
+summary: 本视频深入探讨美联储加息缩表与“美元回流”现象，区分国际资本类型，解析国际资本流动背后的“推拉因素”和投资组合理论。通过分析1997年亚洲金融危机，揭示“收割论”的过度简化，强调各国自身经济结构在资本流动中的决定性作用，倡导独立思考。
+tags:
+- asian-financial-crisis
+- federal-reserve
+- flow
+- technology
+title: 美联储加息缩表与“美元回流”：国际资本流动的真相与“收割论”的迷思
 ---
 
 ### 引言：揭示“收割论”的困扰

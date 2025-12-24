@@ -1,42 +1,39 @@
 ---
-author: 徒步的騎手
-date: 2025-06-28
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=XnEqVGucKAA'
-speaker: 徒步的騎手
-tags:
-  - political-anxiety
-  - social-media-impact
-  - political-polarization
-  - psychological-resilience
-  - chinese-political-culture
-title: 政治焦虑：时代流行病及其解药
-summary: 本期节目深入探讨了在信息爆炸时代，政治焦虑和政治抑郁如何成为普遍的心理现象。文章分析了政客利用情绪、社交媒体放大极端言论、以及中国特有的历史教育如何共同制造并加剧这种集体心理困境。通过揭示政治焦躁病的心理机制及其三大表现，节目呼吁人们将注意力从外部政治转向自身生活，重建健康的政治人格，并提供了远离网络噪音、回归现实生活的具体疗愈方案，强调真正的反抗是按照自己的方式生活，而非被情绪和政客所操控。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - personal-growth-lab
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Vladimir Putin
-  - Qu Yuan
-  - 胡适
-  - 朱东润
-  - 卢生
-  - 司马迁
-  - 马克·吐温
+area: society-thinking
+category: politics-society
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-06-28
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《史记》
+- 《史记》
+people:
+- Donald Trump
+- Xi Jinping
+- Vladimir Putin
+- Qu Yuan
+- 胡适
+- 朱东润
+- 卢生
+- 司马迁
+- 马克·吐温
+products_models: '[]'
+project:
+- us-analysis
+- china-analysis
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=XnEqVGucKAA
+speaker: 徒步的騎手
 status: evergreen
+summary: 本期节目深入探讨了在信息爆炸时代，政治焦虑和政治抑郁如何成为普遍的心理现象。文章分析了政客利用情绪、社交媒体放大极端言论、以及中国特有的历史教育如何共同制造并加剧这种集体心理困境。通过揭示政治焦躁病的心理机制及其三大表现，节目呼吁人们将注意力从外部政治转向自身生活，重建健康的政治人格，并提供了远离网络噪音、回归现实生活的具体疗愈方案，强调真正的反抗是按照自己的方式生活，而非被情绪和政客所操控。
+tags:
+- political
+- psychological-resilience
+- social-media-impact
+title: 政治焦虑：时代流行病及其解药
 ---
 
 ### 政治焦虑：时代的流行病

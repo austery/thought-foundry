@@ -1,38 +1,36 @@
 ---
-author: 硅谷101
+area: tech-insights
+category: technology
+companies_orgs:
+- Mariana University
+- Fortune 500 insurance leader
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- GPT-4
+- Llama 2
+- GPT-4o
+- 30B model
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=hcka838hvQw
 speaker: 硅谷101
-tags:
-  - voice-agent
-  - commercial-deployment
-  - llm-architecture
-  - real-time-ai
-  - in-domain-evaluation
-title: 语音代理商业落地：李沐分享经验与教训
-summary: 本次演讲中，李沐分享了语音代理（Voice Agent）在商业落地中的经验与教训。他通过两个实际项目——一个开放世界游戏和一个AI电话营销员——深入探讨了语音代理的技术挑战、模型架构选择、实时交互优化以及数据训练策略。演讲强调了预训练、领域内评估和满足严格监管要求的重要性，并展望了语音代理在多角色、复杂世界设定及通用产品销售中的未来发展。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people: []
-companies_orgs:
-  - Mariana University
-  - Fortune 500 insurance leader
-products_models:
-  - GPT-4
-  - Llama 2
-  - GPT-4o
-  - 30B model
-media_books: []
 status: evergreen
+summary: 本次演讲中，李沐分享了语音代理（Voice Agent）在商业落地中的经验与教训。他通过两个实际项目——一个开放世界游戏和一个AI电话营销员——深入探讨了语音代理的技术挑战、模型架构选择、实时交互优化以及数据训练策略。演讲强调了预训练、领域内评估和满足严格监管要求的重要性，并展望了语音代理在多角色、复杂世界设定及通用产品销售中的未来发展。
+tags:
+- agent
+- investment
+- llm
+- real
+- society
+title: 语音代理商业落地：李沐分享经验与教训
 ---
+
 ### 语音代理：商业落地的机遇与挑战
 
 今天，我将讨论**语音代理**（Voice Agent: 一种通过语音界面与用户交互的智能代理），这是今年一个非常热门的话题，因为人们认为这项技术已经成熟，可以投入实际应用和商业落地。

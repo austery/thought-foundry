@@ -1,62 +1,62 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: business
+companies_orgs:
+- AppLovin
+- Meta
+- Google
+- Palantir
+- Muddy Waters
+- Apple
+- NVIDIA
+- Shopify
+- Futu Moomoo
+- Unity
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money or Life 美股频道
+- YouTube
+- Instagram
+- Facebook
+- Triple Whale
+- two and a half gamers
+- chew on this podcast
+- Seeking Alpha
+people:
+- Spencer
+products_models:
+- Axon
+- Axon 2.0
+- APP Discovery
+- MAX
+- IDFA
+- GCP
+- L4 Tensor Core GPU
+- Audience Network
+- PIG
+- SDK
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=XWe52lsp6d0
 speaker: Money or Life 美股频道
-tags:
-  - ad-tech-business
-  - mobile-gaming-ads
-  - ai-in-advertising
-  - post-idfa-era
-  - short-selling-analysis
-title: AppLovin深度剖析：AI时代广告巨头的崛起、挑战与投资价值
-summary: 本期视频深入剖析广告技术公司AppLovin，探讨其在AI时代如何凭借移动游戏生态、激励视频广告和Axon引擎实现弯道超车。内容涵盖AppLovin与Meta、谷歌的本质差异，前Meta员工的行业洞察，浑水做空报告的核心指控，以及公司财务数据和投资观点。视频旨在帮助投资者全面理解AppLovin的商业模式、技术优势、潜在风险及估值。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Spencer
-companies_orgs:
-  - AppLovin
-  - Meta
-  - Google
-  - Palantir
-  - Muddy Waters
-  - Apple
-  - NVIDIA
-  - Shopify
-  - Futu Moomoo
-  - Unity
-products_models:
-  - Axon
-  - Axon 2.0
-  - APP Discovery
-  - MAX
-  - IDFA
-  - GCP
-  - L4 Tensor Core GPU
-  - Audience Network
-  - PIG
-  - SDK
-media_books:
-  - Money or Life 美股频道
-  - YouTube
-  - Instagram
-  - Facebook
-  - Triple Whale
-  - two and a half gamers
-  - chew on this podcast
-  - Seeking Alpha
 status: evergreen
+summary: 本期视频深入剖析广告技术公司AppLovin，探讨其在AI时代如何凭借移动游戏生态、激励视频广告和Axon引擎实现弯道超车。内容涵盖AppLovin与Meta、谷歌的本质差异，前Meta员工的行业洞察，浑水做空报告的核心指控，以及公司财务数据和投资观点。视频旨在帮助投资者全面理解AppLovin的商业模式、技术优势、潜在风险及估值。
+tags:
+- history
+- llm
+- mobile-gaming-ad
+- short-selling-analysis
+- tech
+title: AppLovin深度剖析：AI时代广告巨头的崛起、挑战与投资价值
 ---
+
 ### AppLovin的广告业务与AI受益
 
 大家好，欢迎来到Money or Life美股频道。我是Ace。上期视频我为大家科普了广告业务，我自己觉得广告业务真的太有意思了。真正为广告业务买单的都是我们这些终端消费者。而且最近几年，整个广告业务的增速非常快，部分原因就是得益于AI的发展。提起AI，我们今天要聊的主角**AppLovin**（一家领先的移动应用营销平台），可以说他是受益于AI最大的公司，可能没有之一。如果非要比的话，我想到另一家公司那就是Palantir而已了。

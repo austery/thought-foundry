@@ -1,37 +1,35 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: history
+companies_orgs:
+- Zars
+- Nazis
 date: '2024-04-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Stalin
+- Hitler
+- Tojo Hideki
+- Emperor Hirohito
+- Sun Tzu
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=X3tuS9bgBfo
 speaker: Dwarkesh Patel
-tags:
-  - death-ground
-  - national-identity
-  - world-war-ii
-  - military-strategy
-title: 希特勒将俄军逼入绝境：战争韧性与国家认同的深层解析
-summary: 本期节目深入探讨了‘死亡之地’概念在历史战争中的应用，分析了俄罗斯、乌克兰和日本在极端压力下的韧性表现，以及战争如何塑造国家认同。节目还对比了不同战略目标和文化背景对军队士气的影响，并探讨了历史的假设性选择及其深远后果。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - Stalin
-  - Hitler
-  - Tojo Hideki
-  - Emperor Hirohito
-  - Sun Tzu
-  - Dwarkesh Patel
-companies_orgs:
-  - Zars
-  - Nazis
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了‘死亡之地’概念在历史战争中的应用，分析了俄罗斯、乌克兰和日本在极端压力下的韧性表现，以及战争如何塑造国家认同。节目还对比了不同战略目标和文化背景对军队士气的影响，并探讨了历史的假设性选择及其深远后果。
+tags:
+- death-ground
+- national-identity
+- strategy
+- war
+title: 希特勒将俄军逼入绝境：战争韧性与国家认同的深层解析
 ---
+
 ### 俄罗斯的顽强抵抗
 
 俄罗斯为何起初并不强劲，但最终却能如此顽强地抵抗德国人？尽管损失了数千万人，政府却未像**沙皇**在一战时那样崩溃。不仅如此，一个共产主义国家竟然能大量、可靠地生产出先进的坦克。这其中充满了许多谜团：中央计划经济为何奏效？政府为何没有崩溃，尽管**斯大林**你知道杀害了那么多人，本应被憎恨？但**希特勒**杀的人更多，也更遭人恨。你现在思考的是俄罗斯做了什么，我将换个角度，思考德国人做了什么。

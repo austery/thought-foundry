@@ -1,49 +1,48 @@
 ---
-author: TED
+area: society-systems
+category: culture
+companies_orgs:
+- CNN
+- The Washington Post
+- Planned Parenthood
+- Meta
+- Instagram
+- Twitter
+- Bluesky
+- TikTok
+- Xiaohongshu
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Deja Foxx
+- Maya
+- Zehra Naqvi
+products_models:
+- AO3
+- Lore
+- Sunroom
+- OnlyFans
+- Diem
+project:
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=yWj33Ud8iag
 speaker: TED
-tags:
-  - online-harassment
-  - digital-community
-  - gen-z-activism
-  - platform-design
-  - internet-governance
-title: 从爆红经历看互联网的挑战与Z世代女性的解决方案
-summary: Deja Foxx 分享了她从15岁因争取避孕措施而意外爆红的经历，揭示了社交媒体在赋予个人力量的同时，也存在算法阴暗面和仇恨言论的挑战。她强调，尽管大型科技公司未能有效解决这些问题，但以Z世代女性为代表的年轻一代，正通过建立如“Z世代女孩帮”、AO3、Lore、Sunroom和Diem等创新平台和社群，构建一个更尊重、安全、自主且以女性视角为核心的数字世界，重新定义网络互动和公共讨论。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-people:
-  - Deja Foxx
-  - Maya
-  - Zehra Naqvi
-companies_orgs:
-  - CNN
-  - The Washington Post
-  - Planned Parenthood
-  - Facebook
-  - Instagram
-  - Twitter
-  - Bluesky
-  - TikTok
-  - Xiaohongshu
-products_models:
-  - AO3
-  - Lore
-  - Sunroom
-  - OnlyFans
-  - Diem
-media_books: []
 status: evergreen
+summary: Deja Foxx 分享了她从15岁因争取避孕措施而意外爆红的经历，揭示了社交媒体在赋予个人力量的同时，也存在算法阴暗面和仇恨言论的挑战。她强调，尽管大型科技公司未能有效解决这些问题，但以Z世代女性为代表的年轻一代，正通过建立如“Z世代女孩帮”、AO3、Lore、Sunroom和Diem等创新平台和社群，构建一个更尊重、安全、自主且以女性视角为核心的数字世界，重新定义网络互动和公共讨论。
+tags:
+- design
+- digital-community
+- gen-z-activism
+- governance
+- online
+title: 从爆红经历看互联网的挑战与Z世代女性的解决方案
 ---
+
 ### 个人经历：从私密到公开的爆红之路
 
 我出生于亚利桑那州土桑市，由一位单亲妈妈抚养长大。15岁时，由于母亲药物滥用，我搬了出去。第二年，也就是2017年，我和男友一家人住在一起时，当地的参议员投票决定削减我所依赖的补助。当时我身无分文、没有保险、也没有父母陪伴，走进一家诊所，却无法获得控制自己身体和未来所需的**避孕措施**（Contraception: 阻止怀孕的方法）。

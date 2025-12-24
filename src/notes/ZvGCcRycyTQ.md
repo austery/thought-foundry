@@ -1,45 +1,45 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times
+- New York Liberty
+- University of Maryland
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How to Get Rich
+- Modern Love
+people:
+- Anna Martin
+- Natasha Cloud
+- Ramit Sethi
+- Izzy Harrison
+- Emil Cloud
+- Sharon Cloud
+- Donald Trump
+products_models:
+- Netflix show How to Get Rich
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=ZvGCcRycyTQ
 speaker: New York Times Podcasts
-tags:
-  - identity-journey
-  - lgbtq-visibility
-  - family-support
-  - self-acceptance
-  - athlete-life
-title: WNBA球星娜塔莎·克劳德：爱与身份的自我探索
-summary: WNBA球星娜塔莎·克劳德在《摩登情爱》播客中分享了她的个人成长历程。她坦诚讲述了自己作为混血儿的身份认同挑战，以及在全白人家庭中成长、直到成年才真正拥抱黑人身份的经历。克劳德还深入探讨了她与养父母之间深厚的爱，以及她作为公开出柜的同性恋运动员，如何在职业生涯中找到自我，并与同为WNBA球员的伴侣伊兹·哈里森共同面对生活和赛场的挑战。这是一个关于爱、接纳与自信的动人故事。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Anna Martin
-  - Natasha Cloud
-  - Ramit Sethi
-  - Izzy Harrison
-  - Emil Cloud
-  - Sharon Cloud
-  - Donald Trump
-companies_orgs:
-  - New York Times
-  - New York Liberty
-  - University of Maryland
-products_models:
-  - Netflix show How to Get Rich
-media_books:
-  - How to Get Rich
-  - Modern Love
 status: evergreen
+summary: WNBA球星娜塔莎·克劳德在《摩登情爱》播客中分享了她的个人成长历程。她坦诚讲述了自己作为混血儿的身份认同挑战，以及在全白人家庭中成长、直到成年才真正拥抱黑人身份的经历。克劳德还深入探讨了她与养父母之间深厚的爱，以及她作为公开出柜的同性恋运动员，如何在职业生涯中找到自我，并与同为WNBA球员的伴侣伊兹·哈里森共同面对生活和赛场的挑战。这是一个关于爱、接纳与自信的动人故事。
+tags:
+- family
+- identity
+- lgbtq-visibility
+- life
+- self
+title: WNBA球星娜塔莎·克劳德：爱与身份的自我探索
 ---
+
 ### 播客开场：金钱与关系
 
 大家好，我是安娜。在我们开始节目之前，我想问大家一个问题，如果听起来有点直接，请不要介意。好的，问题来了：金钱问题是否正在影响你的感情？

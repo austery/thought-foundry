@@ -1,42 +1,39 @@
 ---
-author: 莊也雜談
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 长荣航空
+- 加拿大航空
+- Expedia
+- Uber
+- 大统华
+- 皮尔逊机场
 date: '2025-07-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+products_models:
+- Ford Bronco SUV
+- CarPlay
+- Google 地图
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=DOvq-kJUhKY
 speaker: 莊也雜談
-tags:
-  - vancouver-travel
-  - victoria-travel
-  - travel-planning-tips
-  - canadian-cities-comparison
-  - road-trip-essentials
-title: 温哥华/维多利亚三天两夜深度游：行程规划、实用经验与城市初印象
-summary: 本期节目分享了庄也与太太在维多利亚长周末期间，前往温哥华和维多利亚的旅行经历。内容涵盖了详细的行程规划、AI辅助旅行计划的经验、机票酒店租车预订技巧、机场停车指南，以及温哥华与多伦多两地驾驶文化的对比。节目还提供了关于轮渡预订、景点门票、停车地点和衣物准备等实用建议，为计划短期温哥华旅行的游客提供了宝贵的参考。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Donald Trump
-companies_orgs:
-  - 长荣航空
-  - 加拿大航空
-  - Expedia
-  - Uber
-  - 大统华
-  - 皮尔逊机场
-products_models:
-  - Ford Bronco SUV
-  - CarPlay
-  - Google 地图
-media_books: []
 status: evergreen
+summary: 本期节目分享了庄也与太太在维多利亚长周末期间，前往温哥华和维多利亚的旅行经历。内容涵盖了详细的行程规划、AI辅助旅行计划的经验、机票酒店租车预订技巧、机场停车指南，以及温哥华与多伦多两地驾驶文化的对比。节目还提供了关于轮渡预订、景点门票、停车地点和衣物准备等实用建议，为计划短期温哥华旅行的游客提供了宝贵的参考。
+tags:
+- canadian
+- life
+- travel
+title: 温哥华/维多利亚三天两夜深度游：行程规划、实用经验与城市初印象
 ---
+
 ### 引言：山海之约与温哥华情缘
 
 大家好，欢迎收看庄也杂谈。本期节目将与大家分享我与太太在今年五月**维多利亚长周末**（Victoria Day long weekend: 加拿大五月第三个星期一的法定假日，纪念维多利亚女王诞辰）期间，前往温哥华和维多利亚的旅行经历。

@@ -1,57 +1,57 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 联合国军
+- 美国国务院
+- 远东司令部
+- 民间情报教育局
+- 中华民国政府
 date: '2024-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《蒋介石日记》
+- 《美联社》
+people:
+- 刘春瑾
+- 常成
+- 柴静
+- 毛泽东
+- 杜鲁门
+- 蒋介石
+- 李奇威
+- 彭德怀
+- 王顺清
+- 李大安
+- 于靖
+- 谭兴东
+- 叶公超
+- 波伦
+- 艾奇逊
+- 戴玉书
+- 朱家俊
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=lRDwjwmsWkk
 speaker: 柴静 Chai Jing
-tags:
-  - korean-war-pow
-  - voluntary-repatriation
-  - political-indoctrination
-  - kmt-ccp-conflict
-  - us-taiwan-relations
-title: 韩战志愿军战俘的抉择：国共内斗、美台博弈与个人命运
-summary: 朝鲜战争中，两万多名中国人民志愿军被俘，其中三分之二选择去台湾。本文通过前战俘刘春瑾先生和专家常成教授的视角，深入探讨了战俘营内残酷的国共内斗、美台对战俘问题的博弈，以及战俘个人在政治冲击和生存压力下的复杂抉择。揭示了战俘遣返背后中美台三方的不同策略与历史悬疑。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 刘春瑾
-  - 常成
-  - 柴静
-  - 毛泽东
-  - 杜鲁门
-  - 蒋介石
-  - 李奇威
-  - 彭德怀
-  - 王顺清
-  - 李大安
-  - 于靖
-  - 谭兴东
-  - 叶公超
-  - 波伦
-  - 艾奇逊
-  - 戴玉书
-  - 朱家俊
-companies_orgs:
-  - 联合国军
-  - 美国国务院
-  - 远东司令部
-  - 民间情报教育局
-  - 中华民国政府
-products_models: []
-media_books:
-  - 《蒋介石日记》
-  - 《美联社》
 status: evergreen
+summary: 朝鲜战争中，两万多名中国人民志愿军被俘，其中三分之二选择去台湾。本文通过前战俘刘春瑾先生和专家常成教授的视角，深入探讨了战俘营内残酷的国共内斗、美台对战俘问题的博弈，以及战俘个人在政治冲击和生存压力下的复杂抉择。揭示了战俘遣返背后中美台三方的不同策略与历史悬疑。
+tags:
+- conflict
+- political
+- relations
+- technology
+- war
+title: 韩战志愿军战俘的抉择：国共内斗、美台博弈与个人命运
 ---
+
 ### 引言：韩战战俘的复杂命运
 
 在**抗美援朝**（Korean War: 指1950年代初发生在朝鲜半岛的战争，中国称之为抗美援朝战争）战争中，两万多名中国人民志愿军被**联合国军**（UN Forces: 指朝鲜战争中由美国主导，多国部队组成的军事联盟）俘虏。停战之后，他们中三分之二的人选择去往台湾。这并非一个简单的选择，它不但引发了战俘营内残酷的流血斗争，而且导致整个韩战的后半段为此而战。直到今天，这个事件仍然存在巨大的历史悬疑，因为中美台三方各有表述。

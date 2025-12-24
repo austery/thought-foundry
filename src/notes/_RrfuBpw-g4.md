@@ -1,59 +1,58 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: general
+companies_orgs:
+- WeWork
+- Tesla
+- Foxconn
+- Apple
+- Xiaomi
+- GREE
+- Weichai
+- XCMG
+- 胖东来
+- Porsche
+- Volkswagen
+- Toyota
+- Nokia
+- 汇川技术
+- Oracle
+- Microsoft
+- Nvidia
+- 爱奇艺
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 刘强东
+- Sam Altman
+- Xi Jinping
+- Donald Trump
+- Franklin D. Roosevelt
+- 王志安
+products_models:
+- iPhone
+- Model Y
+- MQB platform
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=_RrfuBpw-g4
 speaker: 北美王路飞
-tags:
-  - structural-unemployment
-  - demographic-challenges
-  - automation-impact
-  - us-china-comparison
-  - consumption-stimulus
-title: 回国见闻：从基建消费到就业与人口的深度观察
-summary: 通过一次回国体验，深入探讨了中国当前的社会经济现状。话题涵盖了城市基建、外卖便利性、制造业自动化带来的结构性失业、中美生产效率对比，以及对人口危机、消费刺激和未来发展模式的激烈辩论，呈现了一幅复杂而真实的中国图景。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - 刘强东
-  - Sam Altman
-  - 习近平
-  - Donald Trump
-  - Franklin D. Roosevelt
-  - 王志安
-companies_orgs:
-  - WeWork
-  - Tesla
-  - Foxconn
-  - Apple
-  - Xiaomi
-  - GREE
-  - Weichai
-  - XCMG
-  - 胖东来
-  - Porsche
-  - Volkswagen
-  - Toyota
-  - Nokia
-  - 汇川技术
-  - Oracle
-  - Microsoft
-  - Nvidia
-  - 爱奇艺
-products_models:
-  - iPhone
-  - Model Y
-  - MQB platform
-media_books: []
 status: evergreen
+summary: 通过一次回国体验，深入探讨了中国当前的社会经济现状。话题涵盖了城市基建、外卖便利性、制造业自动化带来的结构性失业、中美生产效率对比，以及对人口危机、消费刺激和未来发展模式的激烈辩论，呈现了一幅复杂而真实的中国图景。
+tags:
+- automation-impact
+- challenge
+- china
+- consumption
+- society
+title: 回国见闻：从基建消费到就业与人口的深度观察
 ---
+
 ### 回国初体验：基建、美食与生活成本
 
 我这次回国，去了南京、上海、深圳，还有一个南通如东，基本上覆盖了北上南深。我还缺浙江没去，之前去过台州、宁波等地。当时感觉浙江的基础建设确实很不错。其实你去几个城市就能明显感觉到，虽然很多地方有相似之处，但基础设施的完善程度跟经济发达程度是成正比的，这一点非常明显。深圳肯定是顶级的，但我认为浙江应该在南京之上。

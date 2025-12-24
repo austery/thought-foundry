@@ -1,81 +1,80 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 美国银行
+- Nvidia
+- Microsoft
+- 安斯瓦帕克
+- 北约
+- 中共
+- 乌克兰国家反腐败局
+- 反腐败行动中心
+- 欧亚集团
+- 中央顾问委员会
+- 川普集团
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《路透社》
+- 《华尔街日报》
+- 《彭博社》
+- 《美联社》
+- 《纽约时报》
+- 《经济学人》
+- 《光明日报》
+- 《外交事务》
+- 《学习时报》
+people:
+- 黄仁勋
+- Donald Trump
+- 穆罕默德·本·萨勒曼
+- 彭斯
+- Elon Musk
+- 齐亚埃尔·查尔
+- 图斯克
+- 泽连斯基
+- 蒂莫尔·明迪奇
+- 谢苗·克里·沃罗斯
+- 卡列纽克
+- 高市早苗
+- 刘进松
+- 薛建
+- 蒙哥马利
+- 石破茂
+- 安倍晋三
+- 王教授
+- 邓一文
+- Xi Jinping
+- 邓小平
+- 江泽民
+- 胡锦涛
+- 华国锋
+- 赵紫阳
+products_models:
+- Blackwell
+- F-35战斗机
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=aj_MbEYnr5I
 speaker: LT視界
-tags:
-  - ai-investment
-  - geopolitics
-  - political-system
-  - corruption
-  - us-foreign-policy
-title: AI泡沫、地缘政治与中国老人政治的终结：多维度新闻解析
-summary: 本期节目深入分析了多项全球重大新闻。首先探讨了**人工智能**领域的泡沫化争议，以及市场对**英伟达**财报的期待与担忧。随后，详细解析了**川普**接待沙特王储引发的外交政策讨论，包括美国对沙特的战略清晰度及潜在风险。接着，关注**乌克兰**腐败调查对**泽连斯基**政府构成的挑战。最后，通过**邓一文**的文章，剖析了**习近平**如何系统性瓦解**中国**的“老人政治”及其对未来决策的深远影响，并分享了**上海**一则教授借名买房的家庭纠纷案例，引发对社会伦理和法律界限的思考。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - ai-impact-analysis
-  - china-analysis
-  - us-analysis
-people:
-  - 黄仁勋
-  - 川普
-  - 穆罕默德·本·萨勒曼
-  - 彭斯
-  - 马斯克
-  - 齐亚埃尔·查尔
-  - 图斯克
-  - 泽连斯基
-  - 蒂莫尔·明迪奇
-  - 谢苗·克里·沃罗斯
-  - 卡列纽克
-  - 高市早苗
-  - 刘进松
-  - 薛建
-  - 蒙哥马利
-  - 石破茂
-  - 安倍晋三
-  - 王教授
-  - 邓一文
-  - 习近平
-  - 邓小平
-  - 江泽民
-  - 胡锦涛
-  - 华国锋
-  - 赵紫阳
-companies_orgs:
-  - 美国银行
-  - 英伟达
-  - 微软
-  - 安斯瓦帕克
-  - 北约
-  - 中共
-  - 乌克兰国家反腐败局
-  - 反腐败行动中心
-  - 欧亚集团
-  - 中央顾问委员会
-  - 川普集团
-products_models:
-  - Blackwell
-  - F-35战斗机
-media_books:
-  - 《金融时报》
-  - 《路透社》
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《美联社》
-  - 《纽约时报》
-  - 《经济学人》
-  - 《光明日报》
-  - 《外交事务》
-  - 《学习时报》
 status: evergreen
+summary: 本期节目深入分析了多项全球重大新闻。首先探讨了**人工智能**领域的泡沫化争议，以及市场对**英伟达**财报的期待与担忧。随后，详细解析了**川普**接待沙特王储引发的外交政策讨论，包括美国对沙特的战略清晰度及潜在风险。接着，关注**乌克兰**腐败调查对**泽连斯基**政府构成的挑战。最后，通过**邓一文**的文章，剖析了**习近平**如何系统性瓦解**中国**的“老人政治”及其对未来决策的深远影响，并分享了**上海**一则教授借名买房的家庭纠纷案例，引发对社会伦理和法律界限的思考。
+tags:
+- ai-investment
+- corruption
+- political-system
+- us-foreign-policy
+title: AI泡沫、地缘政治与中国老人政治的终结：多维度新闻解析
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月18日，我们首先来了解今天的财经头条。
 
 ### 人工智能泡沫化争议

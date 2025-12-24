@@ -1,55 +1,56 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Z.ai
+- Hugging Face
+- Monoscope
+- GitHub
+- Reddit
+- Discord
+- Google
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John
+products_models:
+- GLM 4.6
+- GLM 4.5
+- GLM 4.0414
+- GLM 30B
+- ChatGLM 6B
+- CodeGeeX
+- CodeView
+- Video-LLM
+- GPT-4
+- GPT-4.5
+- Claude 3.5
+- Claude 4
+- DeepSeek 3.2
+- LLaMA Factory
+- MS Swift
+project:
+- ai-impact-analysis
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=m6MF1OR_9kM
 speaker: AI Engineer
-tags:
-  - large-language-models
-  - open-source-ai
-  - model-training
-  - multimodal-ai
-  - benchmark-performance
-title: Z.ai GLM 4.6 系列模型：从一亿次开源下载中学到的经验
-summary: Z.ai 团队分享了其 GLM 4.6 系列模型的最新进展和训练经验。GLM 系列自2022年首次开源以来，已发布超过65个模型，累计下载量突破1亿次。GLM 4.6 在数学和编码等多个公共基准测试中表现出色，甚至超越了某些商业模型。演讲详细介绍了模型的多阶段训练设计，包括通用预训练、推理持续训练、代码微调以及长上下文和智能体数据的使用，并探讨了其强化学习框架 SLIDE 的设计和效率优化。此外，还介绍了 GLM 4.5V 多模态模型在图像和视频理解方面的能力，以及模型的使用方式和社区活动。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - knowledge-pipeline
-people:
-  - John
-companies_orgs:
-  - Z.ai
-  - Hugging Face
-  - Monoscope
-  - GitHub
-  - Reddit
-  - Discord
-  - Google
-products_models:
-  - GLM 4.6
-  - GLM 4.5
-  - GLM 4.0414
-  - GLM 30B
-  - ChatGLM 6B
-  - CodeGeeX
-  - CodeView
-  - Video-LLM
-  - GPT-4
-  - GPT-4.5
-  - Claude 3.5
-  - Claude 4
-  - DeepSeek 3.2
-  - LLaMA Factory
-  - MS Swift
-media_books: []
 status: evergreen
+summary: Z.ai 团队分享了其 GLM 4.6 系列模型的最新进展和训练经验。GLM 系列自2022年首次开源以来，已发布超过65个模型，累计下载量突破1亿次。GLM
+  4.6 在数学和编码等多个公共基准测试中表现出色，甚至超越了某些商业模型。演讲详细介绍了模型的多阶段训练设计，包括通用预训练、推理持续训练、代码微调以及长上下文和智能体数据的使用，并探讨了其强化学习框架
+  SLIDE 的设计和效率优化。此外，还介绍了 GLM 4.5V 多模态模型在图像和视频理解方面的能力，以及模型的使用方式和社区活动。
+tags:
+- large-language-model
+- model
+- multimodal-ai
+- open-source-ai
+- performance
+title: Z.ai GLM 4.6 系列模型：从一亿次开源下载中学到的经验
 ---
+
 ### GLM 系列模型概述
 
 大家好，我是来自 **Z.ai** 的 John，非常高兴能在这里与大家分享我们最新的模型系列——**GLM 4.6** 系列。

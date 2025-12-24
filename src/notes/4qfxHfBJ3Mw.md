@@ -1,60 +1,60 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: psychology
+companies_orgs:
+- Wall Street
+- Merrill Lynch
+- CNBC
+- Uber
+- PipeDrive
+- LinkedIn
+- Stanstorm
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Read Your Mind: Proven Habits for Success from the World''s Greatest Mentalist'
+- The Diary Of A CEO
+- Dragon's Den
+- How to Win Friends and Influence People
+- Atomic Habits
+- Wild Seed
+people:
+- Oz Pearlman
+- Steven Bartlett
+- Joe Rogan
+- Mr. Beast
+- Derren Brown
+- Steven Spielberg
+- Michelle Obama
+- David Goggins
+- Jimmy Fallon
+- Jimmy Carr
+- Jay Shetty
+- Mark Cuban
+- Adam Grant
+- Octavia E. Butler
+products_models:
+- iPhone
+- Cybertruck
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=4qfxHfBJ3Mw
 speaker: The Diary Of A CEO
-tags:
-  - human-behavior
-  - fear-of-rejection
-  - active-listening
-  - memory-improvement
-title: 从读心术到影响力：Oz Pearlman 解构人际交往与成功的心理战术
-summary: 世界顶尖的“读心术师”Oz Pearlman 揭示，他的能力并非超自然现象，而是基于对人性的深刻洞察、敏锐的观察力和心理学技巧。在本篇内容中，他分享了如何通过解读微小的细节来“阅读”他人，如何通过创造“积极的好奇心缺口”来赢得信任，以及如何通过建立行为基准来识别谎言。这些实用的策略，从提升记忆力的“洗发水法则”到克服恐惧的心理方法，都可以被应用于个人和职业生活中，以增强影响力并获得成功。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Oz Pearlman
-  - Steven Bartlett
-  - Joe Rogan
-  - Mr. Beast
-  - Derren Brown
-  - Steven Spielberg
-  - Michelle Obama
-  - David Goggins
-  - Jimmy Fallon
-  - Jimmy Carr
-  - Jay Shetty
-  - Mark Cuban
-  - Adam Grant
-  - Octavia E. Butler
-companies_orgs:
-  - Wall Street
-  - Merrill Lynch
-  - CNBC
-  - Uber
-  - PipeDrive
-  - LinkedIn
-  - Stanstorm
-products_models:
-  - iPhone
-  - Cybertruck
-media_books:
-  - 'Read Your Mind: Proven Habits for Success from the World''s Greatest Mentalist'
-  - The Diary Of A CEO
-  - Dragon's Den
-  - How to Win Friends and Influence People
-  - Atomic Habits
-  - Wild Seed
 status: evergreen
+summary: 世界顶尖的“读心术师”Oz Pearlman 揭示，他的能力并非超自然现象，而是基于对人性的深刻洞察、敏锐的观察力和心理学技巧。在本篇内容中，他分享了如何通过解读微小的细节来“阅读”他人，如何通过创造“积极的好奇心缺口”来赢得信任，以及如何通过建立行为基准来识别谎言。这些实用的策略，从提升记忆力的“洗发水法则”到克服恐惧的心理方法，都可以被应用于个人和职业生活中，以增强影响力并获得成功。
+tags:
+- active-listening
+- human-behavior
+- memory
+- psychology
+title: 从读心术到影响力：Oz Pearlman 解构人际交往与成功的心理战术
 ---
+
 ### 引言：揭开“读心术”的神秘面纱
 
 **Oz Pearlman:** 我花了三十年时间逆向工程人类思维，向你展示如何利用它来了解别人在见到你时在想什么，或者判断某人是在说真话还是在撒谎。我们来做点有趣的事。

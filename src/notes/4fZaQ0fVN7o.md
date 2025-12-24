@@ -1,63 +1,63 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央电视台
+- 新华社
+- 人民日报
+- 国安部
+- 北京电影学院
+- 北京电影制片厂
+- 中央新影厂
+- 中央戏剧学院
 date: '2025-07-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《那些五脊六兽的日子》
+- 《待业青年》
+- 《草莓百分百》
+- 《零八宪章》
+- 《新青年》
+- 《敬告青年》
+- independent-film
+people:
+- 张内咸
+- 艾未未
+- 罗永浩
+- 韩寒
+- 薄熙来
+- 周永康
+- 娄烨
+- 贾樟柯
+- 梁龙
+- 蒋方舟
+- 刘晓波
+- 陈独秀
+- 艾青
+- 狄龙
+- 王维华
+- 周迅
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=4fZaQ0fVN7o
 speaker: 張内咸
-tags:
-  - independent-film
-  - beijing-cultural-scene
-  - political-censorship
-  - freedom-of-expression
-  - public-intellectuals
-title: 从地下电影到YouTube：张内咸眼中的北京自由变迁
-summary: 张内咸回顾了自己从2010年代在北京拍摄独立电影的经历，探讨了当时相对宽松的创作环境，以及如今言论和创作自由的急剧收缩。他通过三部作品《待业青年》、《草莓百分百》和《那些五脊六兽的日子》，展现了北京青年在“新时代”前的精神状态，并对比了中国社会从“批判政府是主流”到“全民抓间谍”的巨大转变。张内咸也分享了他作为YouTuber的定位，以及对中国独立电影未来的看法。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 张内咸
-  - 艾未未
-  - 罗永浩
-  - 韩寒
-  - 薄熙来
-  - 周永康
-  - 娄烨
-  - 贾樟柯
-  - 梁龙
-  - 蒋方舟
-  - 刘晓波
-  - 陈独秀
-  - 艾青
-  - 狄龙
-  - 王维华
-  - 周迅
-companies_orgs:
-  - 中央电视台
-  - 新华社
-  - 人民日报
-  - 国安部
-  - 北京电影学院
-  - 北京电影制片厂
-  - 中央新影厂
-  - 中央戏剧学院
-products_models: []
-media_books:
-  - 《那些五脊六兽的日子》
-  - 《待业青年》
-  - 《草莓百分百》
-  - 《零八宪章》
-  - 《新青年》
-  - 《敬告青年》
 status: evergreen
+summary: 张内咸回顾了自己从2010年代在北京拍摄独立电影的经历，探讨了当时相对宽松的创作环境，以及如今言论和创作自由的急剧收缩。他通过三部作品《待业青年》、《草莓百分百》和《那些五脊六兽的日子》，展现了北京青年在“新时代”前的精神状态，并对比了中国社会从“批判政府是主流”到“全民抓间谍”的巨大转变。张内咸也分享了他作为YouTuber的定位，以及对中国独立电影未来的看法。
+tags:
+- cultural
+- freedom
+- political
+- public
+title: 从地下电影到YouTube：张内咸眼中的北京自由变迁
 ---
+
 ### 频道半年回顾与早期电影生涯
 
 大家好，我是张内咸，又见面了。不知不觉，做这个频道已经半年了，从今年一月底上线第一期节目，到现在已经是七月底。最开始录节目的时候，北京还是冬天最冷的时候，而现在外面正是北京最热的时候，小朋友们在放暑假。离我自己上学的时代一晃都过去那么多年了，我都快忘记了没有生小孩以前我的生活是什么样子的。那个时候每当放暑假，我当然也是很开心的。

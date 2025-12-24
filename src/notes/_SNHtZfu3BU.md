@@ -1,31 +1,29 @@
 ---
-title: 以色列人质归来：战争的终结与社会的反思
-summary: 在为期两年的战争后，以色列人质重获自由。本文深入探讨了人质回归对以色列社会的影响，以及冲突各方对和平与重建的复杂情感与期望。
 area: null
 category: null
-project: []
-tags:
-- hostage-crisis
-- humanitarian-crisis
-- israel-gaza-conflict
-- israeli-society
-- middle-east-peace
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-14'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_SNHtZfu3BU
+speaker: New York Times Podcasts
 status: evergreen
+summary: 在为期两年的战争后，以色列人质重获自由。本文深入探讨了人质回归对以色列社会的影响，以及冲突各方对和平与重建的复杂情感与期望。
+tags:
+- crisis
+- israel-gaza-conflict
+- middle-east-peace
+- society
+title: 以色列人质归来：战争的终结与社会的反思
 ---
+
 ### 人质广场的希望与期待
 
 From the New York Times, I'm Rachel Abrams and this is The Daily. Early Monday morning, thousands of people had already gathered in what's become known as Hostage Square in Tel Aviv.

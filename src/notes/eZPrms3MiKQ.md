@@ -1,35 +1,33 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-01-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Louis Althusser
+- Pierre Bourdieu
+- Slavoj Žižek
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=eZPrms3MiKQ
 speaker: Anthony看世界
-tags:
-  - self-deprecation
-  - social-hierarchy
-  - ideological-control
-  - online-subculture
-  - interpellation
-title: 中国社会的自嘲亚文化：精神失败法如何巩固而非解构社会等级？
-summary: 本文深入探讨中国社会中盛行的自嘲亚文化，如“屌丝”、“做题家”等，分析其表面上表达对社会结构的不满，实则通过“精神失败法”巩固并再生产了既有的等级秩序。文章援引阿尔都塞的意识形态理论（如询唤），以及布尔迪厄对教育体系的批判，揭示这种自嘲如何将消极转为主动，却在无意中加剧了弱势群体的边缘化，并强化了社会不平等。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - cultural-critique
-people:
-  - Louis Althusser
-  - Pierre Bourdieu
-  - Slavoj Žižek
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨中国社会中盛行的自嘲亚文化，如“屌丝”、“做题家”等，分析其表面上表达对社会结构的不满，实则通过“精神失败法”巩固并再生产了既有的等级秩序。文章援引阿尔都塞的意识形态理论（如询唤），以及布尔迪厄对教育体系的批判，揭示这种自嘲如何将消极转为主动，却在无意中加剧了弱势群体的边缘化，并强化了社会不平等。
+tags:
+- control
+- interpellation
+- online
+- self
+- social
+title: 中国社会的自嘲亚文化：精神失败法如何巩固而非解构社会等级？
 ---
 
 ### 中国社会自嘲亚文化的兴起与演变

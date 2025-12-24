@@ -1,67 +1,67 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 北京电影制片厂
+- 上海电影制片厂
 date: '2025-10-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《One Piece》
+- 《甜蜜的事业》
+- 《我们的生活充满阳光》
+- 《庐山恋》
+- 《小时代》
+- 《那些年我们一起追的女孩》
+- 《顽主》
+- 《狂吻俄罗斯》
+- 《Lord of War》
+- 《不见不散》
+- 《开往春天的地铁》
+- 《知音》
+- 《读者》
+- 《家庭医生》
+- 《红灯梦》
+- 《洋妞到我家》
+- 《老炮儿》
+- 《你行!你上!》
+people:
+- 邓小平
+- 王朔
+- 冯小刚
+- 葛优
+- 梁天
+- 张国立
+- 徐帆
+- 耿乐
+- 徐静蕾
+- 陈佩斯
+- Sam Voutas
+- 管虎
+- 刘晓波
+- 姜文
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=kcPlhH5MklU
 speaker: 張内咸
-tags:
-  - jingquan-decline
-  - beijing-identity
-  - political-marginalization
-  - cultural-suppression
-  - social-commentary
-title: 从《甜蜜的事业》到《你行!你上!》：十部电影看懂京圈文化的消亡与北京人的权力边缘化
-summary: 本文深入剖析了北京人“又反又爱国”的矛盾性格，探讨了“京爷”与“天龙人”等标签背后的社会现实。通过分析从1975年到2025年间的十部关键电影，文章追溯了曾经辉煌的“京圈”文化如何被系统性地打压和消解，揭示了北京人在政治和文化层面被边缘化的历史进程，展现了一场长达半个世纪的“精神大逃杀”。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 邓小平
-  - 王朔
-  - 冯小刚
-  - 葛优
-  - 梁天
-  - 张国立
-  - 徐帆
-  - 耿乐
-  - 徐静蕾
-  - 陈佩斯
-  - Sam Voutas
-  - 管虎
-  - 刘晓波
-  - 姜文
-companies_orgs:
-  - 北京电影制片厂
-  - 上海电影制片厂
-products_models: []
-media_books:
-  - 《One Piece》
-  - 《甜蜜的事业》
-  - 《我们的生活充满阳光》
-  - 《庐山恋》
-  - 《小时代》
-  - 《那些年我们一起追的女孩》
-  - 《顽主》
-  - 《狂吻俄罗斯》
-  - 《Lord of War》
-  - 《不见不散》
-  - 《开往春天的地铁》
-  - 《知音》
-  - 《读者》
-  - 《家庭医生》
-  - 《红灯梦》
-  - 《洋妞到我家》
-  - 《老炮儿》
-  - 《你行!你上!》
 status: evergreen
+summary: 本文深入剖析了北京人“又反又爱国”的矛盾性格，探讨了“京爷”与“天龙人”等标签背后的社会现实。通过分析从1975年到2025年间的十部关键电影，文章追溯了曾经辉煌的“京圈”文化如何被系统性地打压和消解，揭示了北京人在政治和文化层面被边缘化的历史进程，展现了一场长达半个世纪的“精神大逃杀”。
+tags:
+- cultural
+- decline
+- identity
+- political
+- social-commentary
+title: 从《甜蜜的事业》到《你行!你上!》：十部电影看懂京圈文化的消亡与北京人的权力边缘化
 ---
+
 ### 别开生面的观众互动
 
 上周节目播出后，一些观众纷纷留言表示：“感谢张导的节目，六四这一天发生了什么，我们记住了，而且记得特别清楚。”我上期节目是讲这个的吗？谁教你们这么接梗的？你们在剧场听相声、听脱口秀的时候也这样吗？演员不得让你们玩死？

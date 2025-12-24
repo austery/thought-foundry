@@ -1,37 +1,35 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-09-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 余英时
+- 许倬云
+- 托马斯·曼
+- 以赛亚·柏林
+- 顾炎武
+- 马克思
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=B0LyPKotbC0
 speaker: 徒步的騎手
-tags:
-  - intellectual-identity
-  - character-and-politics
-  - cultural-integrity
-  - state-centrism
-title: 余英时的风骨与许倬云的媚世：你的人格，决定你爱什么样的国家
-summary: 本文探讨了中国知识分子面临的精神困境，将其比作一种深植于“国家天下”观念的“鸦片”。通过对比历史学家余英时与许倬云截然不同的人生选择——前者坚守“我在哪里，哪里就是中国”的文化风骨，后者则被批评为“媚世”——文章深入剖析了个人品格与政治认同之间的深刻联系。最终，文章引用以赛亚·柏林的观点，指出一个人的人格最终决定了他会认同和喜爱什么样的国家制度。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 余英时
-  - 许倬云
-  - 托马斯·曼
-  - 以赛亚·柏林
-  - 顾炎武
-  - 马克思
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了中国知识分子面临的精神困境，将其比作一种深植于“国家天下”观念的“鸦片”。通过对比历史学家余英时与许倬云截然不同的人生选择——前者坚守“我在哪里，哪里就是中国”的文化风骨，后者则被批评为“媚世”——文章深入剖析了个人品格与政治认同之间的深刻联系。最终，文章引用以赛亚·柏林的观点，指出一个人的人格最终决定了他会认同和喜爱什么样的国家制度。
+tags:
+- cultural-integrity
+- identity
+- politics
+- state
+title: 余英时的风骨与许倬云的媚世：你的人格，决定你爱什么样的国家
 ---
 
 ### 中国知识分子的两种“鸦片”

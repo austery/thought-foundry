@@ -1,63 +1,63 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 清华大学
+- 北京市公安局
+- 公安部
+- 中央政法委
+- 央视
+- 国务院法制办
+- 北京市人民政府
+- 上海复旦大学
+- 白宫
+- 新华网
+- 人民日报
 date: '2024-03-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《朱令的十二年》
+- 《澳大利亚人报》
+- 天涯论坛
+- 《政府信息公开条例》
+- 《刑诉法》
+people:
+- 朱令
+- 柴静
+- 周明欣
+- 吴成之
+- 孙维
+- 孙月琪
+- 孙福林
+- 王捕
+- 张良基
+- 强卫
+- 江泽民
+- 陈章立
+- 贺敏
+- 童宇峰
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=j0-KOI5OpSM
 speaker: 柴静 Chai Jing
-tags:
-  - zhu-ling-case
-  - rule-of-law
-  - judicial-justice
-  - information-disclosure
-  - criminal-investigation
-title: 朱令案十年回访：法治之困与未竟的追寻
-summary: 本期节目是柴静对朱令案的十年回访，深入探讨了这起清华大学铊中毒案在侦办过程中面临的重重困境。节目揭示了警方在获取关键证据、审讯嫌疑人、处理案件法律状态上的诸多疑点，以及朱令父母在漫长等待中对司法公正的执着。同时，也触及了案件背后可能存在的权力干预、信息不透明等问题，并反思了“人治”与“法治”的深刻议题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 朱令
-  - 柴静
-  - 周明欣
-  - 吴成之
-  - 孙维
-  - 孙月琪
-  - 孙福林
-  - 王捕
-  - 张良基
-  - 强卫
-  - 江泽民
-  - 陈章立
-  - 贺敏
-  - 童宇峰
-companies_orgs:
-  - 清华大学
-  - 北京市公安局
-  - 公安部
-  - 中央政法委
-  - 央视
-  - 国务院法制办
-  - 北京市人民政府
-  - 上海复旦大学
-  - 白宫
-  - 新华网
-  - 人民日报
-products_models: []
-media_books:
-  - 《朱令的十二年》
-  - 《澳大利亚人报》
-  - 天涯论坛
-  - 《政府信息公开条例》
-  - 《刑诉法》
 status: evergreen
+summary: 本期节目是柴静对朱令案的十年回访，深入探讨了这起清华大学铊中毒案在侦办过程中面临的重重困境。节目揭示了警方在获取关键证据、审讯嫌疑人、处理案件法律状态上的诸多疑点，以及朱令父母在漫长等待中对司法公正的执着。同时，也触及了案件背后可能存在的权力干预、信息不透明等问题，并反思了“人治”与“法治”的深刻议题。
+tags:
+- geopolitical
+- information
+- investment
+- rule-of-law
+- zhu-ling-case
+title: 朱令案十年回访：法治之困与未竟的追寻
 ---
+
 ### 清华投毒案：侦办疑云与朱家三问
 
 从上一集节目我们了解到，清华大学没有及时告知警方他们的实验室存在**铊盐**（Thallium salt: 一种剧毒化学物质），并且管理混乱，同时贻误了报案时机，导致宿舍的失窃案发生，关键证据灭失。这意味着警方在1995年5月5日立案之后，在获取直接证据时存在极大的困难。

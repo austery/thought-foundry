@@ -1,34 +1,34 @@
 ---
-title: 加沙停火、OpenAI芯片交易与美国经济展望：彭博商业周刊每日报道
-summary: 本期《彭博商业周刊每日》聚焦以色列与哈马斯停火协议的最新进展、OpenAI与博通的芯片合作，以及美国经济在政府停摆和关税影响下的工业与零售业表现。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
-tags:
-- corporate-earnings
-- gaza-ceasefire
-- openai-broadcom-deal
-- supply-chain-diversification
-- us-china-trade
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=ETzS3oEZxqA
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期《彭博商业周刊每日》聚焦以色列与哈马斯停火协议的最新进展、OpenAI与博通的芯片合作，以及美国经济在政府停摆和关税影响下的工业与零售业表现。
+tags:
+- corporate-earning
+- geopolitical
+- supply-chain-diversification
+- us-china-relations
+title: 加沙停火、OpenAI芯片交易与美国经济展望：彭博商业周刊每日报道
+companies:
+- openai-broadcom-deal
 ---
+
 ### 开场与市场概览
 
 Carol Massar: This is Bloomberg Businessweek Daily, reporting from the magazine that helps global leaders stay ahead with insight on the people, companies and trends shaping today's complex economy.

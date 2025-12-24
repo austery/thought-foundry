@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- South China Morning Post
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《日本时报》
+- 《黔驴技穷》
+people:
+- Shinzo Abe
+- Sanae Takaichi
+- Wang Qishan
+- Thomas Hobbes
+- Justin Trudeau
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=C36j5iz3eg4
 speaker: 徒步的騎手
-tags:
-  - chinese-patriotism
-  - domestic-abuse-politics
-  - self-instrumentalization
-  - overtourism-japan
-  - authoritarian-logic
-title: 以惩罚日本为名：中国对日制裁如何演变成一场对内家暴
-summary: 文章深入分析了中国在国际冲突中，尤其是在对日关系上，如何采取“家暴式”制裁手段。表面上旨在惩罚日本，实则精准打击本国航空公司、旅行社及在日本经营的中国人。这种将国民视为工具、牺牲国民利益以维护“面子”的模式，不仅无助于国际博弈，反而加剧了国际社会的鄙视，并揭示了中国社会中“自我工具化”的悲哀现象，最终如同“黔驴技穷”般自损形象。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Shinzo Abe
-  - Sanae Takaichi
-  - Wang Qishan
-  - Thomas Hobbes
-  - Justin Trudeau
-companies_orgs:
-  - South China Morning Post
-products_models: []
-media_books:
-  - 《日本时报》
-  - 《黔驴技穷》
 status: evergreen
+summary: 文章深入分析了中国在国际冲突中，尤其是在对日关系上，如何采取“家暴式”制裁手段。表面上旨在惩罚日本，实则精准打击本国航空公司、旅行社及在日本经营的中国人。这种将国民视为工具、牺牲国民利益以维护“面子”的模式，不仅无助于国际博弈，反而加剧了国际社会的鄙视，并揭示了中国社会中“自我工具化”的悲哀现象，最终如同“黔驴技穷”般自损形象。
+tags:
+- chinese
+- geopolitical
+- politics
+- self
+title: 以惩罚日本为名：中国对日制裁如何演变成一场对内家暴
 ---
+
 ### 经济下行与“折腾”的恶性循环
 
 又到周末了，我们来轻松地聊聊政治。几年前，我曾在推特上指出，中国经济已开始在滑梯上运行。可以预见的是，经济越差，**土皇帝**（Local Emperor: 指代拥有绝对权力、独断专行且缺乏现代治理理念的统治者）就越会折腾。毛时代有句名言叫“越穷越革命”，后来有人补充说“越革命越穷”。用今天的话来说，就是经济越差越折腾，越折腾经济就越差。在国内，这种折腾当然是针对中国老百姓；在国外，与发达国家对抗也是以折腾中国老百姓为主。在“土皇帝”的统治理念中，中国人就是他手中用来与发达国家对抗的工具。

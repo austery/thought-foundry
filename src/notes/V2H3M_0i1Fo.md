@@ -1,30 +1,29 @@
 ---
-title: 诗歌的力量：莎拉·凯的创作、教育与治愈之旅
-summary: 诗人莎拉·凯分享诗歌如何作为导航工具，在教育、治愈和社区建设中的作用，并进行诗歌处方问答。
 area: null
 category: null
-project: []
-tags:
-- creative-writing
-- education
-- poetry
-- spoken-word
-people:
-- sarah-kay
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-11'
-author: TED
-speaker: TED
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- sarah-kay
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=V2H3M_0i1Fo
+speaker: TED
 status: evergreen
+summary: 诗人莎拉·凯分享诗歌如何作为导航工具，在教育、治愈和社区建设中的作用，并进行诗歌处方问答。
+tags:
+- education
+- life
+- poetry
+- spoken-word
+title: 诗歌的力量：莎拉·凯的创作、教育与治愈之旅
 ---
+
 ### 欢迎与介绍
 
 Elise Hugh: Hello and welcome, TED members. I am Elise Hugh, the host of TED Talks Daily podcast, and I am so glad to be here with you today for the latest edition of the TED Talks Daily Book Club. Welcome.

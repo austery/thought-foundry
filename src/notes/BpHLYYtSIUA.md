@@ -1,44 +1,44 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: culture
+companies_orgs:
+- 穆迪
+- 教育部
+- 海底捞
 date: '2023-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《HENLEY PRIVATE WEALTH MIGRATION REPORT 2023》
+- 《经济学人》
+people:
+- 老贾
+- 老马
+- 老魏
+- Xi Jinping
+products_models:
+- 人教版教材
+- 部编版教材
+- 总书记思想读本
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=BpHLYYtSIUA
 speaker: 莊也雜談
-tags:
-  - chinese-emigration
-  - education-reform
-  - middle-class-anxiety
-  - social-policy
-  - economic-uncertainty
-title: 从坚决不润到非润不可：是什么让中国中产对教育如此焦虑？
-summary: 庄也分享回国见闻，探讨中国“润”现象背后的深层原因。报告显示高净值人士流出加速，但更引人关注的是，曾坚决不移民的中产阶级，如今因孩子教育问题而急于寻求海外出路。文章深入分析了中国基础教育的功利化、资源不公、人文缺失，以及“双减”政策、普职比调整和意识形态教育带来的新焦虑，揭示教育改革如何成为压垮中产的“最后一根稻草”。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 老贾
-  - 老马
-  - 老魏
-  - 习近平
-companies_orgs:
-  - 穆迪
-  - 教育部
-  - 海底捞
-products_models:
-  - 人教版教材
-  - 部编版教材
-  - 总书记思想读本
-media_books:
-  - 《HENLEY PRIVATE WEALTH MIGRATION REPORT 2023》
-  - 《经济学人》
 status: evergreen
+summary: 庄也分享回国见闻，探讨中国“润”现象背后的深层原因。报告显示高净值人士流出加速，但更引人关注的是，曾坚决不移民的中产阶级，如今因孩子教育问题而急于寻求海外出路。文章深入分析了中国基础教育的功利化、资源不公、人文缺失，以及“双减”政策、普职比调整和意识形态教育带来的新焦虑，揭示教育改革如何成为压垮中产的“最后一根稻草”。
+tags:
+- anxiety
+- chinese
+- economic
+- education-reform
+- social
+title: 从坚决不润到非润不可：是什么让中国中产对教育如此焦虑？
 ---
+
 ### 引言：中国“润”潮下的社会观察
 
 今天我们继续聊聊我回国探亲的所见所闻，特别是关于当下中国社会一个非常火热且敏感的话题——“**润**”（Run: 指通过移民或其他方式离开中国，前往海外生活）。这个话题之所以难以深入探讨，一是因为其涉及面广，二是因为其敏感性。因此，我将通过此次回国的亲身经历、所见所闻，以及身边朋友们的故事，从三个方面来阐述：第一，现在国内想“润”的人多不多？第二，我身边都是哪些人想“润”？第三，这些人之所以想“润”，其背后最大的原因是什么？

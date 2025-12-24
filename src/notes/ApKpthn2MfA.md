@@ -1,71 +1,70 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: psychology
+companies_orgs:
+- 任天堂
+- 大宇公司
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 黄高乐
+- 大卫·贝克
+- 孙膑
+- 田忌
+- 齐威王
+- 香农
+- 孙颖莎
+- 陈梦
+- 张继科
+- 斯金纳
+- 巴甫洛夫
+- 威尔·莱特
+- 席德·梅尔
+products_models:
+- 小霸王学习机
+- 双人成行
+- 模拟城市3000
+- 过山车大亨
+- Foldit
+- 大航海时代4
+- 仙剑奇侠传
+- 轩辕剑
+- 虚拟人生2
+- 大富翁4
+- 英雄无敌3
+- 大航海时代：起源
+- 模拟城市4
+- 我的世界
+- 潜水员戴夫
+- 城市：天际线
+- 文明
+- 极乐迪斯科
+- 底特律：化身为人
+- 黑神话·悟空
+- 中国龙
+- 3 Tiles
+- 羊了个羊
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=ApKpthn2MfA
 speaker: 一席YiXi
-tags:
-  - game-design-ethics
-  - behavioral-psychology
-  - educational-gaming
-  - player-agency
-  - addiction-mechanisms
-title: 独立游戏制作人黄高乐：玩游戏，而不要被游戏玩
-summary: 独立游戏制作人黄高乐分享了他对游戏的深刻理解。他通过回顾经典游戏，阐述了游戏作为信息载体的教育潜力，并揭示了现代游戏设计中利用“泰勒制”和“斯金纳箱”机制导致玩家成瘾的问题。黄高乐呼吁玩家像选择名著一样选择游戏，并像阅读名著一样玩游戏，从而培养自主性、批判性思维，真正做到“玩游戏，而不要被游戏玩”。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people:
-  - 黄高乐
-  - 大卫·贝克
-  - 孙膑
-  - 田忌
-  - 齐威王
-  - 香农
-  - 孙颖莎
-  - 陈梦
-  - 张继科
-  - 斯金纳
-  - 巴甫洛夫
-  - 威尔·莱特
-  - 席德·梅尔
-companies_orgs:
-  - 任天堂
-  - 大宇公司
-products_models:
-  - 小霸王学习机
-  - 双人成行
-  - 模拟城市3000
-  - 过山车大亨
-  - Foldit
-  - 大航海时代4
-  - 仙剑奇侠传
-  - 轩辕剑
-  - 虚拟人生2
-  - 大富翁4
-  - 英雄无敌3
-  - 大航海时代：起源
-  - 模拟城市4
-  - 我的世界
-  - 潜水员戴夫
-  - 城市：天际线
-  - 文明
-  - 极乐迪斯科
-  - 底特律：化身为人
-  - 黑神话·悟空
-  - 中国龙
-  - 3 Tiles
-  - 羊了个羊
-media_books: []
 status: evergreen
+summary: 独立游戏制作人黄高乐分享了他对游戏的深刻理解。他通过回顾经典游戏，阐述了游戏作为信息载体的教育潜力，并揭示了现代游戏设计中利用“泰勒制”和“斯金纳箱”机制导致玩家成瘾的问题。黄高乐呼吁玩家像选择名著一样选择游戏，并像阅读名著一样玩游戏，从而培养自主性、批判性思维，真正做到“玩游戏，而不要被游戏玩”。
+tags:
+- addiction-mechanism
+- design
+- history
+- psychology
+- society
+title: 独立游戏制作人黄高乐：玩游戏，而不要被游戏玩
 ---
+
 我是一个游戏的老玩家，今天来给大家讲一讲我对游戏的理解。在幼儿园的时候，我们家买了一台**小霸王学习机**（Subor Learning Machine: 一种结合了游戏和学习功能的家用游戏机），我爸就跟我一起用它玩游戏。这是我人生非常早期接触的游戏，它们都是双人合作制的游戏，是我那个年代的**《双人成行》**（It Takes Two: 一款强调双人合作的冒险游戏）。后来我们家买了电脑，我爸就跟我一起玩电脑游戏。
 
 有一天，我的一个同学的母亲来问我，为什么我玩游戏成绩在班里名列前茅，而她的儿子也喜欢玩游戏，却耽误了学习呢？我当时没有办法回答她的这个问题，直到我现在长大了，做了很多年的游戏从业者，对游戏有了更多的认识之后，才想清楚这个问题的答案。其实，游戏的形式、内容和我们玩游戏的态度，都会让游戏对玩家产生不同的影响。

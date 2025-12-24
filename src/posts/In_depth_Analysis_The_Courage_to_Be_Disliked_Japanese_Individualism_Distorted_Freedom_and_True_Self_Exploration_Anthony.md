@@ -6,11 +6,10 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-  - 个人主义
-  - 自我探索
-  - 自由
-  - 阿德勒心理学
-people: []
+- adlerian-psychology
+- 个人主义
+- 自我探索
+- 自由
 companies_orgs: []
 products_models: []
 media_books:
@@ -25,6 +24,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 大家好，我是安东尼，欢迎来到我的频道。
 
 ## 引言：《被讨厌的勇气》及其争议

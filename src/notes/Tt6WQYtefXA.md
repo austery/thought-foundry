@@ -1,39 +1,38 @@
 ---
-author: Veritasium
-date: '2024-03-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Tt6WQYtefXA
-speaker: Veritasium
-tags:
-  - veritasium
-  - japanese-swordsmithing
-  - tatara-method
-  - steel-metallurgy
-  - traditional-craft
-  - forging-quenching
-title: 日本刀的诞生：从沙土到传奇武士刀的千年工艺
-summary: 本视频深入探讨了日本武士刀的制作过程，从收集铁砂、采用传承千年的踏鞴炼钢法，到精密的锻造、淬火、打磨，每一步都凝聚了匠人的极致专注与技艺。文章详细解释了钢材的冶金原理、折叠锻打的奥秘以及淬火如何赋予刀刃独特的硬度和标志性的弧度。通过对日本刀制作工艺的全面展示，揭示了其作为武器和艺术品的双重价值，以及匠人对细节和工艺的热爱。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - historical-insights
-people:
-  - Miyamoto Musashi
-  - Akihara Kokaji
-  - Takara Takanashi
+category: technology
 companies_orgs:
-  - Victoria Albert Museum
-  - Henson Shaving
+- Victoria Albert Museum
+- Henson Shaving
+date: '2024-03-21'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Miyamoto Musashi
+- Akihara Kokaji
+- Takara Takanashi
 products_models:
-  - Katana
-  - AL-13 razor
-media_books: []
+- Katana
+- AL-13 razor
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=Tt6WQYtefXA
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了日本武士刀的制作过程，从收集铁砂、采用传承千年的踏鞴炼钢法，到精密的锻造、淬火、打磨，每一步都凝聚了匠人的极致专注与技艺。文章详细解释了钢材的冶金原理、折叠锻打的奥秘以及淬火如何赋予刀刃独特的硬度和标志性的弧度。通过对日本刀制作工艺的全面展示，揭示了其作为武器和艺术品的双重价值，以及匠人对细节和工艺的热爱。
+tags:
+- canada
+- forging-quenching
+- geopolitical
+- technology
+title: 日本刀的诞生：从沙土到传奇武士刀的千年工艺
+companies:
+- steel-metallurgy
 ---
+
 ### 日本刀的传奇与制作之旅
 
 这是一个关于日本刀如何制作的视频，这些刀剑足够坚韧和锋利，甚至能将子弹一分为二。

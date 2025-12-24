@@ -1,42 +1,41 @@
 ---
-author: Joseph Wang
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Meta
+- Amazon
+- White House
+- World Gold Council
+- Polish Central Bank
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Xi Jinping
+products_models:
+- GLD ETF
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=9jBjJPtavx0
 speaker: Joseph Wang
-tags:
-  - trade-negotiations
-  - gold-market
-  - tariffs-impact
-  - us-manufacturing
-  - investment-deals
-title: 市场周报：亚洲贸易谈判、黄金市场动态与美国关税影响分析
-summary: 本期市场周报深入探讨了美国总统亚洲之行带来的贸易与投资协议，特别是与日本、韩国和中国的谈判成果。同时，分析了世界黄金协会关于黄金供需的最新报告，揭示了金价上涨背后的驱动因素。最后，审视了美联储关于关税对美国制造业影响的研究，探讨了其在提振国内产能方面面临的挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Xi Jinping
-companies_orgs:
-  - Federal Reserve
-  - Meta
-  - Amazon
-  - White House
-  - World Gold Council
-  - Polish Central Bank
-products_models:
-  - GLD ETF
-media_books: []
 status: evergreen
+summary: 本期市场周报深入探讨了美国总统亚洲之行带来的贸易与投资协议，特别是与日本、韩国和中国的谈判成果。同时，分析了世界黄金协会关于黄金供需的最新报告，揭示了金价上涨背后的驱动因素。最后，审视了美联储关于关税对美国制造业影响的研究，探讨了其在提振国内产能方面面临的挑战。
+tags:
+- gold-market
+- investment
+- manufacturing
+- tariffs-impact
+- trade-negotiation
+title: 市场周报：亚洲贸易谈判、黄金市场动态与美国关税影响分析
 ---
+
 ### 市场回顾与本周焦点
 
 大家好，今天是11月1日，欢迎收看本期市场周报。

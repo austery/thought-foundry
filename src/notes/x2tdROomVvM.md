@@ -1,37 +1,37 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- City Bank
 date: '2024-04-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Right Kind of Wrongs
+people:
+- Amy Edmondson
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=x2tdROomVvM
 speaker: Norges Bank Investment Management
-tags:
-  - psychological-safety
-  - investment-decisions
-  - learning-from-failure
-  - organizational-culture
-  - risk-management
-title: 投资中的心理安全：如何通过高质量对话和从失败中学习做出明智决策
-summary: 在2024年投资大会上，Amy Edmondson教授深入探讨了心理安全对投资者成功的重要性。她强调，高质量的投资决策本质上是“押注”，需要团队成员敢于提出异议、分享不适的真相。文章详细阐述了心理安全脆弱性、风险-回报计算的非对称性，以及如何通过区分基本、复杂和智能错误来促进组织学习。最终，Edmondson教授建议，与其直接谈论心理安全，不如专注于如何进行高质量对话，并培养一种理性应对失望、着眼于未来学习的心态。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - investment-strategy
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Amy Edmondson
-companies_orgs:
-  - Norges Bank Investment Management
-  - City Bank
-products_models: []
-media_books:
-  - The Right Kind of Wrongs
 status: evergreen
+summary: 在2024年投资大会上，Amy Edmondson教授深入探讨了心理安全对投资者成功的重要性。她强调，高质量的投资决策本质上是“押注”，需要团队成员敢于提出异议、分享不适的真相。文章详细阐述了心理安全脆弱性、风险-回报计算的非对称性，以及如何通过区分基本、复杂和智能错误来促进组织学习。最终，Edmondson教授建议，与其直接谈论心理安全，不如专注于如何进行高质量对话，并培养一种理性应对失望、着眼于未来学习的心态。
+tags:
+- investment
+- learning
+- organizational-culture
+- risk-management
+- safety
+title: 投资中的心理安全：如何通过高质量对话和从失败中学习做出明智决策
 ---
+
 ### 心理安全：投资者成功的基石
 
 主持人：现在我能听到你了。很好，这里非常安全，所以没问题。这次会议很棒，我喜欢开场和视频。我们也一样，这里有很棒的人，但有时他们也会感到疲惫。

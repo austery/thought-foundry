@@ -1,55 +1,55 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 支联会
+- 香港专上学生联会
+- 教协
+- 民主党
+- 中联办
+- 中国维权律师关注组
+- 独立中文笔会
+- Yahoo
 date: '2025-05-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人民日报》
+people:
+- 司徒华
+- 梅艳芳
+- 刘德华
+- 成龙
+- 罗文
+- 梁振英
+- 刘晓波
+- 黄毓民
+- 陈云
+- 李怡
+- 周幸彤
+- 何俊仁
+- 李卓人
+- 师涛
+products_models:
+- 零八宪章
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=NfL0XmOkGlw
 speaker: 东京人文论坛
-tags:
-  - collective-memory
-  - identity-politics
-  - civil-society
-  - political-symbolism
-title: 香港六四烛光晚会：从大中华情怀到本土认同，一段跨越32年的民主记忆
-summary: 本文深入探讨了香港维多利亚公园六四烛光晚会为何能坚持32年之久。讲者剖析了晚会作为香港民主运动源头的历史背景，回顾了1989年香港社会从全城动员支持北京学运，到六四后陷入幻灭的历程。文章将晚会的历史划分为三个阶段：90年代后的低潮期、2008年后的复兴期，以及2015年后伴随本土思潮兴起的争议与分裂。最终，讲者从文化认同、普世价值和制度保障三个层面，解释了这场集体记忆得以延续的深层原因，并记录了其在《国安法》时代下的终结。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 司徒华
-  - 梅艳芳
-  - 刘德华
-  - 成龙
-  - 罗文
-  - 梁振英
-  - 刘晓波
-  - 黄毓民
-  - 陈云
-  - 李怡
-  - 周幸彤
-  - 何俊仁
-  - 李卓人
-  - 师涛
-companies_orgs:
-  - 支联会
-  - 香港专上学生联会
-  - 教协
-  - 民主党
-  - 中联办
-  - 中国维权律师关注组
-  - 独立中文笔会
-  - Yahoo
-products_models:
-  - 零八宪章
-media_books:
-  - 《人民日报》
 status: evergreen
+summary: 本文深入探讨了香港维多利亚公园六四烛光晚会为何能坚持32年之久。讲者剖析了晚会作为香港民主运动源头的历史背景，回顾了1989年香港社会从全城动员支持北京学运，到六四后陷入幻灭的历程。文章将晚会的历史划分为三个阶段：90年代后的低潮期、2008年后的复兴期，以及2015年后伴随本土思潮兴起的争议与分裂。最终，讲者从文化认同、普世价值和制度保障三个层面，解释了这场集体记忆得以延续的深层原因，并记录了其在《国安法》时代下的终结。
+tags:
+- civil-society
+- identity-politics
+- memory
+- political
+title: 香港六四烛光晚会：从大中华情怀到本土认同，一段跨越32年的民主记忆
 ---
+
 非常感谢武雷律师邀请我来做这个讲座。其实当武雷跟我说要谈香港的时候，我想了很久到底要说什么。我曾想过讲“六七暴动”，也想过讲“雨伞运动”，还想过讲“反送中运动”。可是想来想去，还是觉得讲香港的六四晚会，可能更容易让大家理解。
 
 因为对很多香港人来说，六四晚会是香港集体记忆里第一次大型的民主运动，是第一次可以大规模动员起来的运动。它也是香港人接触什么是民主、什么是自由的第一个切入点。现在很多中国的朋友觉得我们香港人在2014年、2019年特别有勇气，但我想说的是，香港民主运动的源头，其实和北京天安门的八九学运有非常大的关系。

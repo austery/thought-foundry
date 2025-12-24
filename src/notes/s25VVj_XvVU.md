@@ -1,42 +1,42 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- UL Solutions
+- Norges Bank Investment Management
+- USG Corporation
+- FCC
+- Underwriters Electrical Bureau
 date: '2025-03-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jennifer Scanlon
+- Nikolai Tangen
+products_models:
+- AI PCs
+- AI servers
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=s25VVj_XvVU
 speaker: Norges Bank Investment Management
-tags:
-  - safety-testing
-  - regulatory-compliance
-  - ai-applications
-  - leadership-development
-  - corporate-culture
-title: UL Solutions 首席执行官 Jennifer Scanlon 谈安全测试、AI影响与领导力演变
-summary: UL Solutions 首席执行官 Jennifer Scanlon 在播客中分享了公司在安全测试领域的广泛业务、市场增长驱动因素以及人工智能如何重塑行业。她深入探讨了全球监管差异、公司上市带来的文化变革，以及她作为领导者如何运用数据分析、应对地缘政治挑战。Scanlon 还分享了她对领导力风格演变、有效沟通以及企业文化建设的独到见解，强调了倾听和项目管理在职业生涯中的重要性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Jennifer Scanlon
-  - Nikolai Tangen
-companies_orgs:
-  - UL Solutions
-  - Norges Bank Investment Management
-  - USG Corporation
-  - FCC
-  - Underwriters Electrical Bureau
-products_models:
-  - AI PCs
-  - AI servers
-media_books: []
 status: evergreen
+summary: UL Solutions 首席执行官 Jennifer Scanlon 在播客中分享了公司在安全测试领域的广泛业务、市场增长驱动因素以及人工智能如何重塑行业。她深入探讨了全球监管差异、公司上市带来的文化变革，以及她作为领导者如何运用数据分析、应对地缘政治挑战。Scanlon
+  还分享了她对领导力风格演变、有效沟通以及企业文化建设的独到见解，强调了倾听和项目管理在职业生涯中的重要性。
+tags:
+- ai-application
+- corporate-culture
+- leadership-development
+- regulatory
+- safety
+title: UL Solutions 首席执行官 Jennifer Scanlon 谈安全测试、AI影响与领导力演变
 ---
+
 ### UL Solutions 简介与核心业务
 
 大家好，我是尼古拉·坦根（Nikolai Tangen），挪威主权财富基金的首席执行官。

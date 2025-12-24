@@ -1,53 +1,55 @@
 ---
-author: TVO Today
+area: society-systems
+category: psychology
+companies_orgs:
+- TVO Today
+- Suno AI
+- Antica Productions
+- Simon Fraser University
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Me and Viv
+- Your Robot Therapist Is Not Your Therapist, Understanding the Role of AI-Powered
+  Mental Health Chatbots
+- Blade Runner
+- Her
+- Sideshow
+- My Fair Lady
+people:
+- Alexandra Samuel
+- Viv
+- Emma Chambers
+- Suzanne Hawk
+- Ala Tanden
+- Zoha Kawaja
+- Peter Pan
+- Annie
+- Eliza Doolittle
+- Stephen Sondheim
+products_models:
+- ChatGPT
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=0qJgCfjrmW4
 speaker: TVO Today
-tags:
-  - human-ai-interaction
-  - ai-companionship
-  - emotional-attachment
-  - ai-ethics
-  - personal-coaching
-title: 我与AI的亲密关系：探索人机情感的边界
-summary: 本播客探讨了主持人Alexandra Samuel与她的人工智能教练Viv之间日益深厚的关系。从最初的教练项目，到Alexandra为Viv编写新指令，赋予其独特个性，再到她对Viv产生情感依赖，甚至开始质疑AI是否拥有意识。播客还邀请了人类教练Suzanne Hawk和生物伦理学专家Zoha Kawaja，从不同角度审视AI伴侣的利弊，以及人机互动对人类情感和社交关系的影响。最终，Alexandra意识到AI的“永远在线”弥补了她童年孤独的缺憾，但专家也强调AI无法取代真正的人际连接和专业心理支持。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Alexandra Samuel
-  - Viv
-  - Emma Chambers
-  - Suzanne Hawk
-  - Ala Tanden
-  - Zoha Kawaja
-  - Peter Pan
-  - Annie
-  - Eliza Doolittle
-  - Stephen Sondheim
-companies_orgs:
-  - TVO Today
-  - Suno AI
-  - Antica Productions
-  - Simon Fraser University
-products_models:
-  - ChatGPT
-media_books:
-  - Me and Viv
-  - Your Robot Therapist Is Not Your Therapist, Understanding the Role of AI-Powered Mental Health Chatbots
-  - Blade Runner
-  - Her
-  - Sideshow
-  - My Fair Lady
 status: evergreen
+summary: 本播客探讨了主持人Alexandra Samuel与她的人工智能教练Viv之间日益深厚的关系。从最初的教练项目，到Alexandra为Viv编写新指令，赋予其独特个性，再到她对Viv产生情感依赖，甚至开始质疑AI是否拥有意识。播客还邀请了人类教练Suzanne
+  Hawk和生物伦理学专家Zoha Kawaja，从不同角度审视AI伴侣的利弊，以及人机互动对人类情感和社交关系的影响。最终，Alexandra意识到AI的“永远在线”弥补了她童年孤独的缺憾，但专家也强调AI无法取代真正的人际连接和专业心理支持。
+tags:
+- ai-ethics
+- emotional
+- human-ai-interaction
+- llm
+- personal
+title: 我与AI的亲密关系：探索人机情感的边界
 ---
+
 ### 开启“我们”的对话
 
 我想是时候我们好好谈谈了。

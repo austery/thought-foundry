@@ -1,64 +1,65 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Writer
+- Daily
+- Vappy
+- Anthropic
+- OpenAI
+- AMP
 date: '2025-08-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Latent Space podcast
+people:
+- Sam Julian
+- Quinn
+- John
+- Elizabeth Triken
+- Eric Suns
+- Greg Brockman
+- Omar
+- Anker
+- Barry
+- Dominic
+- Ryzen Martin
+- Lori
+- Einstein
+- Marie Curie
+products_models:
+- GPT
+- MCP
+- LM OS
+- LN SDLC
+- AI News
+- Copilot
+- ChatGPT
+- Notebook LM
+- Agents SDK
+- Cloud
+- Canvas
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=IHkyFhU6JEY
 speaker: AI Engineer
-tags:
-  - ai-engineering
-  - standard-models
-  - agent-development
-  - ai-applications
-  - conference-insights
-title: 设计AI密集型应用：AI工程的标准模型与未来方向
-summary: 本次大会的主讲人swyx深入探讨了AI工程领域的演进，强调了从演示阶段迈向生产的重要性。他提出AI工程正处于类似物理学“标准模型”形成的关键时期，并介绍了LM OS、LN SDLC和构建有效智能体等候选标准模型。swyx还通过他开发的“AI新闻”产品，提出了“人类输入与AI输出价值比”的思维模型，并详细阐述了用于构建AI密集型应用的SPAD模型。他鼓励参会者共同思考并定义AI工程的未来标准模型。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Sam Julian
-  - Quinn
-  - John
-  - Elizabeth Triken
-  - Eric Suns
-  - Greg Brockman
-  - Omar
-  - Anker
-  - Barry
-  - Dominic
-  - Ryzen Martin
-  - Lori
-  - Einstein
-  - Marie Curie
-companies_orgs:
-  - Writer
-  - Daily
-  - Vappy
-  - Anthropic
-  - OpenAI
-  - AMP
-products_models:
-  - GPT
-  - MCP
-  - LM OS
-  - LN SDLC
-  - AI News
-  - Copilot
-  - ChatGPT
-  - Notebook LM
-  - Agents SDK
-  - Cloud
-  - Canvas
-media_books:
-  - Latent Space podcast
 status: evergreen
+summary: 本次大会的主讲人swyx深入探讨了AI工程领域的演进，强调了从演示阶段迈向生产的重要性。他提出AI工程正处于类似物理学“标准模型”形成的关键时期，并介绍了LM
+  OS、LN SDLC和构建有效智能体等候选标准模型。swyx还通过他开发的“AI新闻”产品，提出了“人类输入与AI输出价值比”的思维模型，并详细阐述了用于构建AI密集型应用的SPAD模型。他鼓励参会者共同思考并定义AI工程的未来标准模型。
+tags:
+- ai-application
+- conference-insight
+- development
+- engineering
+- model
+title: 设计AI密集型应用：AI工程的标准模型与未来方向
 ---
+
 ### 欢迎与大会概览
 
 大家好，欢迎来到本次大会。通常，我会在大会开幕时进行一次简短的演讲，介绍大会的进展，并分享AI工程的最新状况以及我们如何组织这次会议。这次演讲将结合这些内容，我将尝试回答大家关于大会、AI新闻以及AI未来发展的所有问题，让我们直接开始。

@@ -1,64 +1,64 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: career
+companies_orgs:
+- Norges Bank Investment Management
+- Sports Illustrated
+- Harvard
+- MIT
+- US Census Bureau
+- Northwestern
+- 3M
+- Google
+- Google X
+- NASA
+- Y Combinator
+- Netflix
+- Bayy Gford
 date: '2024-07-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Range
+people:
+- David Epstein
+- Robin Hogarth
+- Serena Williams
+- Malcolm Gladwell
+- Dash Wong
+- Thomas Edison
+- Adam Grant
+- Ed Hoffman
+- Paul Graham
+- Reed Hastings
+- Mark Zuckerberg
+- Picasso
+- Einstein
+products_models:
+- Claude
+- Perplexity
+- ChatGPT
+- Site
+project:
+- personal-growth-lab
+- systems-thinking
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=c8mG6Tsk1fk
 speaker: Norges Bank Investment Management
-tags:
-  - generalism-specialization
-  - wicked-learning-environments
-  - sampling-period
-  - career-adaptability
-  - deliberate-practice
-title: 《范围》作者David Epstein：为什么通才在专业化世界中更具优势
-summary: 《范围》一书的作者David Epstein在本期播客中挑战了早期专业化的传统观念。他指出，在一个日益复杂多变的“恶性学习环境”中，拥有广泛技能和多元经验的通才更具适应和创新能力。Epstein探讨了职业生涯中“采样期”的重要性、体育和教育中多样化训练的益处，以及企业如何通过组建多元化团队和鼓励实验来促进创新。他还讨论了人工智能对专业化的影响，倡导关注战略性思维和持续学习。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - ai-impact-analysis
-people:
-  - David Epstein
-  - Robin Hogarth
-  - Serena Williams
-  - Malcolm Gladwell
-  - Dash Wong
-  - Thomas Edison
-  - Adam Grant
-  - Ed Hoffman
-  - Paul Graham
-  - Reed Hastings
-  - Mark Zuckerberg
-  - Picasso
-  - Einstein
-companies_orgs:
-  - Norges Bank Investment Management
-  - Sports Illustrated
-  - Harvard
-  - MIT
-  - US Census Bureau
-  - Northwestern
-  - 3M
-  - Google
-  - Google X
-  - NASA
-  - Y Combinator
-  - Netflix
-  - Bayy Gford
-products_models:
-  - Claude
-  - Perplexity
-  - ChatGPT
-  - Site
-media_books:
-  - Range
 status: evergreen
+summary: 《范围》一书的作者David Epstein在本期播客中挑战了早期专业化的传统观念。他指出，在一个日益复杂多变的“恶性学习环境”中，拥有广泛技能和多元经验的通才更具适应和创新能力。Epstein探讨了职业生涯中“采样期”的重要性、体育和教育中多样化训练的益处，以及企业如何通过组建多元化团队和鼓励实验来促进创新。他还讨论了人工智能对专业化的影响，倡导关注战略性思维和持续学习。
+tags:
+- career
+- financial
+- health
+- history
+- learning
+title: 《范围》作者David Epstein：为什么通才在专业化世界中更具优势
 ---
+
 ### 通才与专才：重新定义成功与成就
 
 大家好，欢迎收听“In Good Company”播客。

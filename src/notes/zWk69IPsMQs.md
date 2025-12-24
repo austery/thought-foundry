@@ -1,30 +1,29 @@
 ---
-title: 时间管理的奥秘：聚焦重要事项，超越99%的人
-summary: 本文探讨了时间管理的真正奥秘，指出高效率并非完成更多工作，而是聚焦于重要事项。通过Sam Altman和Richard Hamming的启发，分享了超越99%人群的四项可执行方法，强调深度思考、简化任务、降低认知负荷及优先处理核心事务。
 area: personal-growth
 category: productivity
-project:
-  - personal-growth-lab
-tags:
-  - personal-development
-  - productivity
-  - time-management
-people:
-  - richard-hamming
-  - sam-altman
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-07-22'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people:
+- richard-hamming
+- sam-altman
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=zWk69IPsMQs
+speaker: 一口新飯
 status: evergreen
+summary: 本文探讨了时间管理的真正奥秘，指出高效率并非完成更多工作，而是聚焦于重要事项。通过Sam Altman和Richard Hamming的启发，分享了超越99%人群的四项可执行方法，强调深度思考、简化任务、降低认知负荷及优先处理核心事务。
+tags:
+- personal-development
+- productivity
+- time-management
+title: 时间管理的奥秘：聚焦重要事项，超越99%的人
 ---
 
 ### 效率的悖论：努力与卓越的距离

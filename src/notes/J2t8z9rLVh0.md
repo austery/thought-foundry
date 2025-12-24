@@ -1,97 +1,97 @@
 ---
-author: Amit Kukreja
+area: tech-insights
+category: technology
+companies_orgs:
+- Nvidia
+- Microsoft
+- Google
+- Amazon
+- Nokia
+- Intel
+- TSMC
+- Samsung
+- ASML
+- SoFi
+- Figure
+- Denny's
+- Department of Energy
+- OpenAI
+- Perplexity
+- Cursor
+- Palantir
+- CoreWeave
+- Oracle
+- Foxconn
+- Siemens
+- Disney
+- Uber
+- CrowdStrike
+- SAP
+- Synopsis
+- Cadence
+- Caterpillar
+- Agility Robotics
+- Johnson & Johnson
+- Apple
+- IBM
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jensen Huang
+- Brad Gerstner
+- Brett Adcock
+- Richard Feynman
+- Donald Trump
+- Chris Wright
+- Sam Altman
+- Bill McDermott
+- Christian Klein
+- George Kurtz
+- Alex Karp
+- Elon Musk
+- Peggy Johnson
+products_models:
+- Blackwell
+- Vera Rubin
+- CUDA
+- GTC
+- NVL 144
+- Arc
+- QPU
+- GPU
+- DGX1
+- Omniverse
+- DSX
+- Jetson Thor
+- Drive Hyperion
+- Palantir Ontology
+- ChatGPT
+- CUDA Q
+- Spectrum X
+- MVLink
+- Bluefield
+- ConnectX
+project:
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=J2t8z9rLVh0
 speaker: Amit Kukreja
-tags:
-  - ai-factories
-  - accelerated-computing
-  - quantum-computing
-  - physical-ai
-  - co-design
-title: 英伟达 GTC 2025：黄仁勋发布 Blackwell 架构、Rubin 平台及 5000 亿美元业务展望
-summary: 在 GTC 2025 主题演讲中，英伟达 CEO 黄仁勋详细阐述了 AI 行业的两大平台转型。他发布了性能卓越的 Blackwell 架构和下一代 Rubin 平台，并宣布了与诺基亚在 6G、与 Palantir 在企业 AI 领域的重磅合作。黄仁勋还提出了“AI 工厂”和“物理 AI”等关键概念，并披露了到 2026 年价值 5000 亿美元的惊人业务前景，强调了在美国本土制造的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Jensen Huang
-  - Brad Gerstner
-  - Brett Adcock
-  - Richard Feynman
-  - Donald Trump
-  - Chris Wright
-  - Sam Altman
-  - Bill McDermott
-  - Christian Klein
-  - George Kurtz
-  - Alex Karp
-  - Elon Musk
-  - Peggy Johnson
-companies_orgs:
-  - Nvidia
-  - Microsoft
-  - Google
-  - Amazon
-  - Nokia
-  - Intel
-  - TSMC
-  - Samsung
-  - ASML
-  - SoFi
-  - Figure
-  - Denny's
-  - Department of Energy
-  - OpenAI
-  - Perplexity
-  - Cursor
-  - Palantir
-  - CoreWeave
-  - Oracle
-  - Foxconn
-  - Siemens
-  - Disney
-  - Uber
-  - CrowdStrike
-  - SAP
-  - Synopsis
-  - Cadence
-  - Caterpillar
-  - Agility Robotics
-  - Johnson & Johnson
-  - Apple
-  - IBM
-products_models:
-  - Blackwell
-  - Vera Rubin
-  - CUDA
-  - GTC
-  - NVL 144
-  - Arc
-  - QPU
-  - GPU
-  - DGX1
-  - Omniverse
-  - DSX
-  - Jetson Thor
-  - Drive Hyperion
-  - Palantir Ontology
-  - ChatGPT
-  - CUDA Q
-  - Spectrum X
-  - MVLink
-  - Bluefield
-  - ConnectX
-media_books: []
 status: evergreen
+summary: 在 GTC 2025 主题演讲中，英伟达 CEO 黄仁勋详细阐述了 AI 行业的两大平台转型。他发布了性能卓越的 Blackwell 架构和下一代
+  Rubin 平台，并宣布了与诺基亚在 6G、与 Palantir 在企业 AI 领域的重磅合作。黄仁勋还提出了“AI 工厂”和“物理 AI”等关键概念，并披露了到
+  2026 年价值 5000 亿美元的惊人业务前景，强调了在美国本土制造的重要性。
+tags:
+- accelerated-computing
+- design
+- llm
+- quantum-computing
+title: 英伟达 GTC 2025：黄仁勋发布 Blackwell 架构、Rubin 平台及 5000 亿美元业务展望
 ---
+
 ### GTC 2025 展前预测与讨论
 
 Amit：好了，大家好，欢迎。我们实际上只迟到了十秒钟，不算太晚。感谢大家的到来。我们现在正在为英伟达的 **GTC**（GPU Technology Conference: GPU 技术大会）做准备。黄仁勋（Jensen Huang）大约在五分钟后，也就是东部时间中午12点开始演讲，可能会稍晚一点。Tanner，你有什么期待？这应该是一场盛会。

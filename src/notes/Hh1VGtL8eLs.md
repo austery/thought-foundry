@@ -1,105 +1,105 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- SoftBank
+- Nvidia
+- Nebius
+- OpenAI
+- ARM
+- Marvell
+- S&P 500
+- ADP
+- Meta
+- Microsoft
+- Amazon
+- AWS
+- ClickHouse
+- Coreweave
+- Grab
+- GoTo
+- Bloomberg
+- SoFi
+- Coinbase
+- Robinhood
+- OCC
+- Bank of America
+- JP Morgan
+- Wells Fargo
+- Rocket Lab
+- Big Bear AI
+- Oracle
+- AMD
+- Google
+- Intel
+- Duolingo
+- Netflix
+- T-Mobile
+- Axon
+- PayPal
+- Anthropic
+- C Limited
+- Shopify
+- US Army
+- US Navy
+- US Air Force
+- YouTube
+- CNBC
+- The Wall Street Journal
+- DA Davidson
+- Wedbush
+- Goldman Sachs
+- BlackRock
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Substack
+- Twitter
+people:
+- Masayoshi Son
+- Roman
+- Anthony Noto
+- Michael Burry
+- Yann LeCun
+- Alexander Wang
+- Lisa Su
+- Alex Karp
+- Tom Lee
+- Cathie Wood
+- Larry Fink
+- Kevin Hasset
+- John Cena
+- Donald Trump
+- Joe Biden
+- Jerome Powell
+products_models:
+- Instagram Reels
+- Lightning Network
+- SoFi USD
+- FSD
+- Claude
+- OpenDoor
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Hh1VGtL8eLs
 speaker: Amit Kukreja
-tags:
-  - earnings-season
-  - ai-capex
-  - data-centers
-  - market-consolidation
-  - crypto-adoption
-title: 软银抛售英伟达，Nebius财报亮眼，SoFi重启加密货币业务
-summary: 本期市场分析深入探讨了多个关键动态：Nebius公布了超预期的强劲财报，并宣布与Meta达成30亿美元的新协议，推动其股价备受关注。软银出售了价值58亿美元的英伟达股份，此举并非看空，而是为了将资金重新部署到OpenAI和ARM等其他高增长AI项目中。SoFi作为首家全国性银行，正式重启加密货币交易平台，其CEO详细阐述了此举的战略意义。此外，Grab与GoTo的合并传闻愈演愈烈，可能重塑东南亚市场格局。宏观方面，政府停摆即将结束，但疲软的ADP就业数据引发了对劳动力市场的担忧。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Masayoshi Son
-  - Roman
-  - Anthony Noto
-  - Michael Burry
-  - Yann LeCun
-  - Alexander Wang
-  - Lisa Su
-  - Alex Karp
-  - Tom Lee
-  - Cathie Wood
-  - Larry Fink
-  - Kevin Hasset
-  - John Cena
-  - Donald Trump
-  - Joe Biden
-  - Jerome Powell
-companies_orgs:
-  - SoftBank
-  - Nvidia
-  - Nebius
-  - OpenAI
-  - ARM
-  - Marvell
-  - S&P 500
-  - ADP
-  - Meta
-  - Microsoft
-  - Amazon
-  - AWS
-  - ClickHouse
-  - Coreweave
-  - Grab
-  - GoTo
-  - Bloomberg
-  - SoFi
-  - Coinbase
-  - Robinhood
-  - OCC
-  - Bank of America
-  - JP Morgan
-  - Wells Fargo
-  - Rocket Lab
-  - Big Bear AI
-  - Oracle
-  - AMD
-  - Google
-  - Intel
-  - Duolingo
-  - Netflix
-  - T-Mobile
-  - Axon
-  - PayPal
-  - Anthropic
-  - C Limited
-  - Shopify
-  - US Army
-  - US Navy
-  - US Air Force
-  - YouTube
-  - CNBC
-  - The Wall Street Journal
-  - DA Davidson
-  - Wedbush
-  - Goldman Sachs
-  - BlackRock
-products_models:
-  - Instagram Reels
-  - Lightning Network
-  - SoFi USD
-  - FSD
-  - Claude
-  - OpenDoor
-media_books:
-  - Substack
-  - Twitter
 status: evergreen
+summary: 本期市场分析深入探讨了多个关键动态：Nebius公布了超预期的强劲财报，并宣布与Meta达成30亿美元的新协议，推动其股价备受关注。软银出售了价值58亿美元的英伟达股份，此举并非看空，而是为了将资金重新部署到OpenAI和ARM等其他高增长AI项目中。SoFi作为首家全国性银行，正式重启加密货币交易平台，其CEO详细阐述了此举的战略意义。此外，Grab与GoTo的合并传闻愈演愈烈，可能重塑东南亚市场格局。宏观方面，政府停摆即将结束，但疲软的ADP就业数据引发了对劳动力市场的担忧。
+tags:
+- crypto-adoption
+- data-center
+- earnings-season
+- llm
+- market
+title: 软银抛售英伟达，Nebius财报亮眼，SoFi重启加密货币业务
 ---
+
 ### 市场开盘概览：盘前回调与宏观动态
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月11日，星期二，上午8:46。感谢大家的到来。今天我们有很多内容要谈。

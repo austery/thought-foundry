@@ -1,58 +1,56 @@
 ---
-author: Hung-yi Lee
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Anthropic
+- Google
+- OpenAI
+- Meta
+- Databricks
+- Appier
+- LangChain
+- Stanford
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- arXiv
+- Reddit
+products_models:
+- ChatGPT
+- GPT-3
+- GPT-3.5
+- GPT-4
+- GPT-4o
+- Claude
+- Claude 3 Opus
+- Gemini
+- Gemini 1.5
+- Gemma 2 9B
+- Llama 4
+- AlphaGo
+- Gemini CLI
+- Hugging Face
+- ChatDev
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=lVdajtNpaGI
 speaker: Hung-yi Lee
-tags:
-  - context-engineering
-  - prompt-engineering
-  - ai-agent
-  - in-context-learning
-  - retrieval-augmented-generation
-title: 上下文工程 (Context Engineering)：AI Agent 时代的关键技术
-summary: 本文深入探讨了“上下文工程” (Context Engineering) 的核心概念，阐述了其与“提示工程” (Prompt Engineering) 的异同。文章详细分析了构成语言模型上下文的各项要素，包括用户提示、系统提示、对话历史、外部知识（RAG）和工具使用，并解释了为何在 AI Agent 时代管理上下文至关重要。最后，介绍了选择、压缩和多智能体系统等关键的上下文工程技术，以避免“上下文过载”问题。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Hung-yi Lee
-companies_orgs:
-  - Anthropic
-  - Google
-  - OpenAI
-  - Meta
-  - Databricks
-  - Appier
-  - LangChain
-  - Stanford
-products_models:
-  - ChatGPT
-  - GPT-3
-  - GPT-3.5
-  - GPT-4
-  - GPT-4o
-  - Claude
-  - Claude 3 Opus
-  - Gemini
-  - Gemini 1.5
-  - Gemma 2 9B
-  - Llama 4
-  - AlphaGo
-  - Gemini CLI
-  - Hugging Face
-  - ChatDev
-media_books:
-  - arXiv
-  - Reddit
 status: evergreen
+summary: 本文深入探讨了“上下文工程” (Context Engineering) 的核心概念，阐述了其与“提示工程” (Prompt Engineering)
+  的异同。文章详细分析了构成语言模型上下文的各项要素，包括用户提示、系统提示、对话历史、外部知识（RAG）和工具使用，并解释了为何在 AI Agent 时代管理上下文至关重要。最后，介绍了选择、压缩和多智能体系统等关键的上下文工程技术，以避免“上下文过载”问题。
+tags:
+- ai-agent
+- context-engineering
+- generation
+- learning
+title: 上下文工程 (Context Engineering)：AI Agent 时代的关键技术
 ---
+
 ### 什么是上下文工程 (Context Engineering)？
 
 今天我们要讲什么是**上下文工程**（Context Engineering: 一种管理和优化语言模型输入信息的技术，尤其在 AI Agent 场景下至关重要）。这是一个最近很热门的术语。我们会介绍它的概念，并告诉你它与你熟悉的**提示工程**（Prompt Engineering: 专注于设计和优化单个提示词以引导模型输出的技术）有什么差异。

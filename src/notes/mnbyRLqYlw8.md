@@ -1,45 +1,45 @@
 ---
-author: 王红雨
+area: society-systems
+category: finance
+companies_orgs: []
 date: '2025-05-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《无意义的工作》
+- 《时间的朋友》
+- 《单向度的人》
+people:
+- 大卫·格雷博
+- 刘擎
+- 马尔库塞
+- 马克斯·韦伯
+- 罗振宇
+- Donald Trump
+- 乔丹·彼得森
+- 梁宁
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=mnbyRLqYlw8
 speaker: 王红雨
-tags:
-  - canadian-economy
-  - work-meaning
-  - self-employment
-  - financial-planning
-  - asset-management
-  - social-contract
-title: 加拿大工作、收入与财富：在不确定时代如何平衡一生
-summary: 本期节目深入探讨加拿大人的工作意义、收入稳定性与财富管理。面对关税战、失业率上升等外部冲击，以及自雇行业的挑战，王红雨提出通过资产积累平衡一生收入的策略。节目还分析了加拿大不同年龄段的家庭财富状况，并强调提升财商和自律性的重要性，以应对社会契约下的财务需求。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - 大卫·格雷博
-  - 刘擎
-  - 马尔库塞
-  - 马克斯·韦伯
-  - 罗振宇
-  - Donald Trump
-  - 乔丹·彼得森
-  - 梁宁
-companies_orgs: []
-products_models: []
-media_books:
-  - 《无意义的工作》
-  - 《时间的朋友》
-  - 《单向度的人》
 status: evergreen
+summary: 本期节目深入探讨加拿大人的工作意义、收入稳定性与财富管理。面对关税战、失业率上升等外部冲击，以及自雇行业的挑战，王红雨提出通过资产积累平衡一生收入的策略。节目还分析了加拿大不同年龄段的家庭财富状况，并强调提升财商和自律性的重要性，以应对社会契约下的财务需求。
+tags:
+- asset-management
+- economy
+- financial-planning
+- self
+- social
+- work
+title: 加拿大工作、收入与财富：在不确定时代如何平衡一生
 ---
+
 ### 引言：加拿大人的收入、工作与财富
 
 大家好，欢迎再次回到我的频道。今天是2025年5月16号。今天要和大家聊一个每个人都很关心而且很敏感的话题，那就是加拿大人的收入、工作和财富。我先跟大家说说我对这个问题的一些看法，主要有四个观点，然后用整期视频来跟大家解释我为什么会这么想。

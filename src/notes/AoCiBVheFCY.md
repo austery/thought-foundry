@@ -1,34 +1,33 @@
 ---
-author: 徒步的騎手
-date: 2025-08-12
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=AoCiBVheFCY'
-speaker: 徒步的騎手
-tags:
-  - surrogacy-industry
-  - legal-loopholes
-  - human-trafficking
-  - transnational-gray-market
-title: 加州华裔夫妇“批量生产”22名婴儿：FBI介入调查跨国代孕产业链
-summary: 一对居住在加州的华裔夫妇被发现拥有22名通过代孕出生的孩子，引发了美国联邦调查局（FBI）的介入。这一惊人案件揭开了一条利用美国法律漏洞的跨国灰色产业链。本文深入探讨了该事件的细节、加州代孕法律的背景、中国客户的需求动机，以及此案所反映出的将规则利用到极致的极端思维模式。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-people:
-  - 张欣 (Silvia John)
-  - 黄健 (Jian Huang)
+category: general
 companies_orgs:
-  - FBI
-  - Marke Surrogacy Investment
-products_models: '[]'
+- FBI
+- Marke Surrogacy Investment
+date: 2025-08-12
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- 张欣 (Silvia John)
+- 黄健 (Jian Huang)
+products_models: '[]'
+project:
+- us-analysis
+- china-analysis
+series: ''
+source: https://www.youtube.com/watch?v=AoCiBVheFCY
+speaker: 徒步的騎手
 status: evergreen
+summary: 一对居住在加州的华裔夫妇被发现拥有22名通过代孕出生的孩子，引发了美国联邦调查局（FBI）的介入。这一惊人案件揭开了一条利用美国法律漏洞的跨国灰色产业链。本文深入探讨了该事件的细节、加州代孕法律的背景、中国客户的需求动机，以及此案所反映出的将规则利用到极致的极端思维模式。
+tags:
+- human
+- industry
+- legal
+- market
+title: 加州华裔夫妇“批量生产”22名婴儿：FBI介入调查跨国代孕产业链
 ---
 
 ### 震惊社区：一对华裔夫妇与22个孩子

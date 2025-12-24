@@ -1,34 +1,33 @@
 ---
-title: 个股投资案例分析：Frank的公司股票投资复盘
-summary: null
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-  - 安全边际
-  - 投资
-  - 能力圈
-people:
-  - Lei
-  - Frank
-  - Vivian
-  - Zhao Rui
-  - Wang Will
-  - Alvin
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: finance-wealth
 author: Lei
-speaker: ''
+category: stock-investment
 channel: 加拿大ETF投资小组
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Lei
+- Frank
+- Vivian
+- Zhao Rui
+- Wang Will
+- Alvin
+products_models: []
+project:
+- investment-strategy
 series: null
 source: null
+speaker: ''
+summary: null
+tags:
+- circle-of-competence
+- safety
+title: 个股投资案例分析：Frank的公司股票投资复盘
 ---
+
 ## 引言：抓住疫情带来的逆向投资机会
 
 **Frank:**

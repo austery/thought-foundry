@@ -1,38 +1,37 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Peninsula Canada
+- TVO Today
+- Advanced Symbolics Inc.
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Charlie Herrera Vacuor
+- Charlie Kirk
+products_models:
+- Poly
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=qmD7V3_YtzA
 speaker: TVO Today
-tags:
-  - workplace-politics
-  - freedom-of-speech
-  - employment-law
-  - social-media-policy
-  - empathy-in-workplace
-title: 如何在加拿大职场中管理政治言论：法律、政策与同理心
-summary: 本文探讨了加拿大职场中政治言论的复杂性。它深入分析了政治言论的法律保护、雇主制定指导方针的责任、渐进式纪律的重要性，以及如何处理有争议的线上讨论。文章强调了同理心和清晰沟通在营造尊重工作环境中的作用，并探讨了雇员和雇主行为的法律影响。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Charlie Herrera Vacuor
-  - Charlie Kirk
-companies_orgs:
-  - Peninsula Canada
-  - TVO Today
-  - Advanced Symbolics Inc.
-products_models:
-  - Poly
-media_books: []
 status: evergreen
+summary: 本文探讨了加拿大职场中政治言论的复杂性。它深入分析了政治言论的法律保护、雇主制定指导方针的责任、渐进式纪律的重要性，以及如何处理有争议的线上讨论。文章强调了同理心和清晰沟通在营造尊重工作环境中的作用，并探讨了雇员和雇主行为的法律影响。
+tags:
+- freedom-of-speech
+- law
+- politics
+- social
+- society
+title: 如何在加拿大职场中管理政治言论：法律、政策与同理心
 ---
+
 ### 职场政治言论：美加差异与后果
 
 在美国，许多雇主几乎可以以任何理由解雇员工。但在加拿大情况并非如此。但这并不意味着你不会因为在办公室或互联网上发表的言论而面临后果。**Peninsula Canada**（一家提供雇佣法和人力资源咨询服务的公司）的资深雇佣法和人力资源顾问**Charlie Herrera Vacuor**对此进行了解释。

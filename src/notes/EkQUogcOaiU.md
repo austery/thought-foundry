@@ -1,63 +1,63 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Tesla
+- X
+- xAI
+- Wikipedia
+- Full Fact
+- The Register
+- Surfshark
+- Manhattan Institute
+- MIT
+- Harvard
+- CNN
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Guardian
+- Encyclopedia Britannica
+- Reddit
+- The Business of the Culture War
+- FT
+people:
+- Elon Musk
+- Andrew Dudfield
+- Larry Sanger
+- Emily Bender
+- John Burn-Murdock
+- Michael D’Angelo
+- Pliny the Elder
+- George Floyd
+- Donald Trump
+products_models:
+- Grokipedia
+- Grok
+- ChatGPT
+- Claude Opus 4
+- Starship
+project:
+- us-analysis
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=EkQUogcOaiU
 speaker: Patrick Boyle
-tags:
-  - ai-bias
-  - information-control
-  - culture-war
-  - media-polarization
-  - knowledge-systems
-title: 埃隆·马斯克的“反觉醒”百科全书：Grokipedia的真相与偏见
-summary: 本文深入探讨了埃隆·马斯克推出的AI驱动百科全书Grokipedia，旨在取代维基百科。文章分析了Grokipedia在事实核查、内容透明度及意识形态偏见方面存在的深层问题，并将其与维基百科的开放共识模式进行对比。Grokipedia被指责过度依赖维基百科内容，并可能通过AI算法放大政治两极分化。最终，文章质疑了将知识工程化、商业化的硅谷思维，强调了真相的复杂性和人类探究的价值。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Elon Musk
-  - Andrew Dudfield
-  - Larry Sanger
-  - Emily Bender
-  - John Burn-Murdock
-  - Michael D’Angelo
-  - Pliny the Elder
-  - George Floyd
-  - Donald Trump
-companies_orgs:
-  - Tesla
-  - X
-  - xAI
-  - Wikipedia
-  - Full Fact
-  - The Register
-  - Surfshark
-  - Manhattan Institute
-  - MIT
-  - Harvard
-  - CNN
-products_models:
-  - Grokipedia
-  - Grok
-  - ChatGPT
-  - Claude Opus 4
-  - Starship
-media_books:
-  - The Guardian
-  - Encyclopedia Britannica
-  - Reddit
-  - The Business of the Culture War
-  - FT
 status: evergreen
+summary: 本文深入探讨了埃隆·马斯克推出的AI驱动百科全书Grokipedia，旨在取代维基百科。文章分析了Grokipedia在事实核查、内容透明度及意识形态偏见方面存在的深层问题，并将其与维基百科的开放共识模式进行对比。Grokipedia被指责过度依赖维基百科内容，并可能通过AI算法放大政治两极分化。最终，文章质疑了将知识工程化、商业化的硅谷思维，强调了真相的复杂性和人类探究的价值。
+tags:
+- bias
+- control
+- culture
+- media
+- system
+title: 埃隆·马斯克的“反觉醒”百科全书：Grokipedia的真相与偏见
 ---
+
 ### 马斯克的Grokipedia：一场关于知识与权力的博弈
 
 我不太确定发生了什么，但如果你一直在关注埃隆·马斯克（Elon Musk）试图从特斯拉（Tesla）获得万亿美元薪酬的故事，那么马斯克似乎很有可能一直在搞一些副业——比如他新的在线百科全书——**Grokipedia**（一个由AI驱动的百科全书项目）——这样他就可以说服特斯拉股东支付他巨额资金，否则他将放弃他们去追求这些其他兴趣。

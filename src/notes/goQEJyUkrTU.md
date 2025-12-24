@@ -1,35 +1,33 @@
 ---
-author: 北美王路飞
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 甲骨文
+- OpenAI
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 拉里·埃里森
+- 山姆·奥特曼
+products_models:
+- GPT-4
+- 星际之门
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=goQEJyUkrTU
 speaker: 北美王路飞
-tags:
-  - llm
-  - ai-infrastructure
-  - tech-investment
-title: 3000亿美金的疯狂豪赌：81岁埃里森的最后一战，是封神还是毁灭？
-summary: 拉里·埃里森以3000亿美元投资与OpenAI的山姆·奥特曼共同打造「星际之门」项目，引发市场广泛关注。这一庞大的AI基础设施建设工程旨在为OpenAI打造世界上最大的数据中心园区，但也伴随着巨大的风险。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 拉里·埃里森
-  - 山姆·奥特曼
-companies_orgs:
-  - 甲骨文
-  - OpenAI
-products_models:
-  - GPT-4
-  - 星际之门
-media_books: []
 status: evergreen
+summary: 拉里·埃里森以3000亿美元投资与OpenAI的山姆·奥特曼共同打造「星际之门」项目，引发市场广泛关注。这一庞大的AI基础设施建设工程旨在为OpenAI打造世界上最大的数据中心园区，但也伴随着巨大的风险。
+tags:
+- ai-infrastructure
+- investment
+title: 3000亿美金的疯狂豪赌：81岁埃里森的最后一战，是封神还是毁灭？
 ---
+
 ### 1. 背景介绍
 
 2024年，人工智能（AI）领域的竞争愈发激烈。作为硅谷最具传奇色彩的企业家之一，甲骨文创始人拉里·埃里森（Larry Ellison）以其大胆的投资策略和对未来的精准把握，再次成为焦点。近期，埃里森以3000亿美元的投资，携手OpenAI的山姆·奥特曼（Sam Altman）共同打造“星际之门”（Stargate）项目，引发市场广泛关注和热议。

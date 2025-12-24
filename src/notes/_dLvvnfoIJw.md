@@ -1,35 +1,33 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-06-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- A New Intellectual Framework for Psychiatry
+people:
+- Evans
+- Bohman
+- Eric R. Kandel
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=_dLvvnfoIJw
 speaker: Anthony看世界
-tags:
-  - free-will
-  - determinism
-  - gene-environment-interaction
-  - subjective-experience
-  - neuroplasticity
-title: 自由意志与基因：主观体验如何重塑你的大脑和命运？
-summary: 本文深入探讨了自由意志与基因决定论的关系，驳斥了认为人类行为完全由基因或神经机制决定的观点。通过分子生物学和神经科学的最新发现，文章揭示了基因与环境之间复杂的互动，强调主观体验在塑造基因表达（表型）和神经回路中的关键作用。最终，文章指出，认识到主观能动性是重塑自我和命运的基础，并批判了将唯物主义视为宗教的盲目崇拜。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Evans
-  - Bohman
-  - Eric R. Kandel
-companies_orgs: []
-products_models: []
-media_books:
-  - A New Intellectual Framework for Psychiatry
 status: evergreen
+summary: 本文深入探讨了自由意志与基因决定论的关系，驳斥了认为人类行为完全由基因或神经机制决定的观点。通过分子生物学和神经科学的最新发现，文章揭示了基因与环境之间复杂的互动，强调主观体验在塑造基因表达（表型）和神经回路中的关键作用。最终，文章指出，认识到主观能动性是重塑自我和命运的基础，并批判了将唯物主义视为宗教的盲目崇拜。
+tags:
+- determinism
+- experience
+- free-will
+- health
+title: 自由意志与基因：主观体验如何重塑你的大脑和命运？
 ---
 
 ### 自由意志与基因决定论的哲学困境

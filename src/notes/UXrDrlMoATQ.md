@@ -1,70 +1,70 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 民主党
+- 天主教会
+- 泰晤士报
+- 科威特政府
+- 华盛顿邮报
+- 纽约时报
+- 白宫
+- 农委会
+- 台湾事实查核中心
+- 美玉姨
+- 英国石油公司
+- 互联网研究机构
+- 维基解密
+- 中国国民党
+- 民主进步党
 date: '2022-01-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《向下扎根！德國教育的公民思辨課》
+- 《君士坦丁献土》
+- 《锡安长老会纪要》
+- 《我的奋斗》
+- 今日俄罗斯
+- Twitter
+- Facebook
+- Instagram
+- Line
+- Google
+- Ghostery
+people:
+- Donald Trump
+- Ramses II
+- Constantine the Great
+- Lorenzo Valla
+- Hitler
+- George W. Bush
+- Barack Obama
+- Manfred Theisen
+- Lyudmila Savchuk
+- Recep Tayyip Erdoğan
+- Eli Pariser
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=UXrDrlMoATQ
 speaker: 超級歪 SuperY
-tags:
-  - fake-news
-  - cognitive-warfare
-  - media-literacy
-  - filter-bubbles
-  - disinformation
-title: 从古埃及到数字时代：假新闻、认知作战与公民思辨
-summary: 本视频深入探讨了假新闻和认知作战的悠久历史、演变及其在数字时代的影响。从古埃及法老的虚假宣传，到罗马教廷的千年骗局，再到现代战争中的信息操纵，揭示了假新闻如何塑造历史进程。视频还详细介绍了辨别假新闻的四大方法，并分析了社交媒体、算法和“过滤气泡”如何加剧信息两极分化。最终强调提升公民媒体素养的重要性，以应对日益复杂的认知作战挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Ramses II
-  - Constantine the Great
-  - Lorenzo Valla
-  - Hitler
-  - George W. Bush
-  - Barack Obama
-  - Manfred Theisen
-  - Lyudmila Savchuk
-  - Recep Tayyip Erdoğan
-  - Eli Pariser
-companies_orgs:
-  - 民主党
-  - 天主教会
-  - 泰晤士报
-  - 科威特政府
-  - 华盛顿邮报
-  - 纽约时报
-  - 白宫
-  - 农委会
-  - 台湾事实查核中心
-  - 美玉姨
-  - 英国石油公司
-  - 互联网研究机构
-  - 维基解密
-  - 中国国民党
-  - 民主进步党
-products_models: []
-media_books:
-  - 《向下扎根！德國教育的公民思辨課》
-  - 《君士坦丁献土》
-  - 《锡安长老会纪要》
-  - 《我的奋斗》
-  - 今日俄罗斯
-  - Twitter
-  - Facebook
-  - Instagram
-  - Line
-  - Google
-  - Ghostery
 status: evergreen
+summary: 本视频深入探讨了假新闻和认知作战的悠久历史、演变及其在数字时代的影响。从古埃及法老的虚假宣传，到罗马教廷的千年骗局，再到现代战争中的信息操纵，揭示了假新闻如何塑造历史进程。视频还详细介绍了辨别假新闻的四大方法，并分析了社交媒体、算法和“过滤气泡”如何加剧信息两极分化。最终强调提升公民媒体素养的重要性，以应对日益复杂的认知作战挑战。
+tags:
+- bubble
+- cognitive
+- disinformation
+- fake-news
+- media-literacy
+title: 从古埃及到数字时代：假新闻、认知作战与公民思辨
 ---
+
 ### 假新闻与认知作战的现代挑战
 
 在2020年美国总统大选期间，唐纳德·特朗普指控选举舞弊，并呼吁紧急计票。他声称：“如果计算合法选票，我将轻松赢得选举；如果计算非法选票，民主党人就会窃取我们的胜利。”随后，一篇关于“民主党舞弊”的新闻在台湾的特朗普支持者中广泛传播，但最终被证实是**假新闻**（Fake News: 故意捏造或传播的虚假信息，旨在误导受众）。

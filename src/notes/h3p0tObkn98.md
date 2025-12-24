@@ -1,37 +1,37 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: culture
+companies_orgs:
+- OCS
 date: '2023-03-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- '《American Hookup: The New Culture of Sex on Campus》'
+people:
+- Lisa Wade
+- 林根后
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=h3p0tObkn98
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - hookup-culture
-  - gender-inequality
-  - sexual-pleasure
-  - social-norms
-  - patriarchy
-  - uneven-gender-revolution
-title: 约炮文化中的社会学洞察：打破晕船、女性高潮与性爱分离的迷思
-summary: 本文深入探讨了美国大学校园的约炮文化，分析了“约炮晕船”现象、约炮市场中的社会地位交换，以及男女在性高潮和性愉悦分工上的显著差异。文章通过社会学研究数据，破除了女性高潮困难和女性无法性爱分离的迷思，揭示了父权文化对两性的压迫，并提出了“不均匀的性别革命”概念，强调了改变现有约炮文化规范的必要性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-people:
-  - Lisa Wade
-  - 林根后
-companies_orgs:
-  - OCS
-products_models: []
-media_books:
-  - '《American Hookup: The New Culture of Sex on Campus》'
 status: evergreen
+summary: 本文深入探讨了美国大学校园的约炮文化，分析了“约炮晕船”现象、约炮市场中的社会地位交换，以及男女在性高潮和性愉悦分工上的显著差异。文章通过社会学研究数据，破除了女性高潮困难和女性无法性爱分离的迷思，揭示了父权文化对两性的压迫，并提出了“不均匀的性别革命”概念，强调了改变现有约炮文化规范的必要性。
+tags:
+- culture
+- gender-inequality
+- revolution
+- sexual-pleasure
+- social
+- technology
+title: 约炮文化中的社会学洞察：打破晕船、女性高潮与性爱分离的迷思
 ---
+
 ### 引言：约炮文化与“晕船”现象
 
 本期节目将与大家探讨一些关于约炮的社会学研究。由于内容不可避免地会涉及性相关词汇，温馨提醒您，若身处不便收听的环境，建议佩戴耳机。

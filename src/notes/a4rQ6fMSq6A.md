@@ -1,48 +1,47 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Polymarket
+- FBI
+- 伯克希尔·哈撒韦
+- Ota
+- Block
+- 比亚迪
+- Monster Beverage
+- Directional ETFs
 date: '2024-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交事务》
+people:
+- 唐石峻
+- 巴菲特
+- Elon Musk
+products_models:
+- 刀片电池
+- Square支付系统
+- Cash App
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=a4rQ6fMSq6A
 speaker: Shijun Tang
-tags:
-  - value-investing
-  - fundamental-analysis
-  - leverage-risk
-  - share-repurchases
-  - market-efficiency
-title: 财务自由之路：投资随时都不嫌晚，从价值分析到杠杆陷阱的全面洞察
-summary: 本文深入探讨投资的核心原则：耐心、基本面分析与能力圈意识。通过分析Ota、Block、比亚迪和Monster等公司，揭示价值投资的本质，并警示杠杆ETF如YINN的高风险本质。任何时间开始投资都不晚，关键在于理解企业价值而非追逐市场噪音。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - 巴菲特
-  - 马斯克
-companies_orgs:
-  - Polymarket
-  - FBI
-  - 伯克希尔·哈撒韦
-  - Ota
-  - Block
-  - 比亚迪
-  - Monster Beverage
-  - Directional ETFs
-products_models:
-  - 刀片电池
-  - Square支付系统
-  - Cash App
-media_books:
-  - 《外交事务》
 status: evergreen
+summary: 本文深入探讨投资的核心原则：耐心、基本面分析与能力圈意识。通过分析Ota、Block、比亚迪和Monster等公司，揭示价值投资的本质，并警示杠杆ETF如YINN的高风险本质。任何时间开始投资都不晚，关键在于理解企业价值而非追逐市场噪音。
+tags:
+- fundamental-analysis
+- leverage-risk
+- market-efficiency
+- share-repurchase
+title: 财务自由之路：投资随时都不嫌晚，从价值分析到杠杆陷阱的全面洞察
 ---
+
 ### 投资的核心：耐心与基本面分析
 
 你有充足的时间来投资，任何时间都是最好的投资时间。如果你懂你在干什么？其实投资的关键在于你对公司基本面的了解。只要你懂得分析一家公司的知识，无论市场是牛市还是熊市，你都可以找到合适的投资机会。其实，价值投资人做的事情非常简单：利用市场短暂的无效期，抓住非凡的投资机会。因为从长期来看，市场的效率会逐渐显现；任何极端的情况，终将回归均值。

@@ -1,63 +1,63 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央军委
+- 公安部
+- 北京电影学院
+- 北京舞蹈学院
+- B站
+- 国家卫健委
+- 京东
 date: '2024-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《穹顶之下》
+- 《无问西东》
+- 《八佰》
+- 《大护法》
+- 《毛选》
+people:
+- Donald Trump
+- 马云
+- 李子阳
+- 柴静
+- 王小洪
+- Xi Jinping
+- 毛泽东
+- 李克强
+- 胡耀邦
+- 周恩来
+- 彭德怀
+- 太宰治
+- 鲁迅
+- 孙歌
+- 汪晖
+- 刘仲敬
+- 玉木一郎
+- 李小牧
+- 唐百芬
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=hZR2EGv8RBs
 speaker: 东京人文论坛
-tags:
-  - inclusive-politics
-  - political-transition
-  - civil-society
-  - public-opinion
-  - populism
-title: 中国能否孕育出包容性政治？从经济诉求到民间力量的转型路径探讨
-summary: 本次讨论深入探讨了中国社会是否以及如何能够产生对“包容性政治制度”的需求。文章从“经济权利是否必然导向政治权利”这一经典问题出发，分析了外卖员、学生、退伍军人等群体的抗议案例，揭示了动员能力的具体路径。同时，文章也剖析了中国年轻一代复杂的政治光谱、B站等网络平台对民粹主义的塑造作用，以及在潜在的政治转型中，电影、宗教和女权主义等非传统力量可能扮演的关键角色。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Donald Trump
-  - 马云
-  - 李子阳
-  - 柴静
-  - 王小洪
-  - 习近平
-  - 毛泽东
-  - 李克强
-  - 胡耀邦
-  - 周恩来
-  - 彭德怀
-  - 太宰治
-  - 鲁迅
-  - 孙歌
-  - 汪晖
-  - 刘仲敬
-  - 玉木一郎
-  - 李小牧
-  - 唐百芬
-companies_orgs:
-  - 中央军委
-  - 公安部
-  - 北京电影学院
-  - 北京舞蹈学院
-  - B站
-  - 国家卫健委
-  - 京东
-products_models: []
-media_books:
-  - 《穹顶之下》
-  - 《无问西东》
-  - 《八佰》
-  - 《大护法》
-  - 《毛选》
 status: evergreen
+summary: 本次讨论深入探讨了中国社会是否以及如何能够产生对“包容性政治制度”的需求。文章从“经济权利是否必然导向政治权利”这一经典问题出发，分析了外卖员、学生、退伍军人等群体的抗议案例，揭示了动员能力的具体路径。同时，文章也剖析了中国年轻一代复杂的政治光谱、B站等网络平台对民粹主义的塑造作用，以及在潜在的政治转型中，电影、宗教和女权主义等非传统力量可能扮演的关键角色。
+tags:
+- civil-society
+- political
+- politics
+- populism
+- public-opinion
+title: 中国能否孕育出包容性政治？从经济诉求到民间力量的转型路径探讨
 ---
+
 ### 中国社会是否存在包容性的上限？
 
 一个复杂的问题是，中国社会的发展是否存在一个上限？也就是说，其包容性是否已经达到了顶点，无法再进一步提升？或许当前的体制擅长在现有框架内玩弄进退平衡的手段。

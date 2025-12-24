@@ -1,69 +1,69 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Federal Reserve
+- Wall Street Journal
+- White House
+- Pakistan Army
+- Ministry of Foreign Affairs of China
+- COSCO
+- BlackRock
+- Pinduoduo
+- State Administration for Market Regulation
+- Shanghai Police
+- Caixin Media
+- Reuters
+- Bloomberg
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- Wall Street Journal
+- Vanity Fair
+- The Hill
+- New York Post
+- Reuters
+people:
+- Christopher Waller
+- Donald Trump
+- Kevin Hassett
+- Kevin Warsh
+- Cassidy Hutchinson
+- Mike Pence
+- Marco Rubio
+- Asim Munir
+- Xi Jinping
+- Guo Jia Kun
+- Fan Jiezhen
+- Wen Xue
+- Xu Mintao
+- Guo Hua
+- Hu Qida
+- Tu Tu Xing
+- Han Bing
+products_models:
+- Ural crude oil
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=fdKMNHdpW8E
 speaker: LT視界
-tags:
-  - fed
-  - trump
-  - china-politics
-  - international-relations
-  - pinduoduo
-title: 美联储信号、川普幕僚风波与中国权贵火拼：深度解析多条重磅新闻
-summary: 本期节目解析了美联储理事沃勒的降息言论及其对市场的影响，川普阵营的最新动态，包括其对白宫幕僚爆料的回应及潜在美联储主席人选。同时关注了巴基斯坦与美国关系、中泰边境冲突中的中国角色、巴拿马运河港口争夺战、俄油流向中国海域的现象，以及备受瞩目的拼多多与中国监管机构的冲突事件，揭示了中国权贵内斗的复杂性与监管模式的深层问题。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - Christopher Waller
-  - Donald Trump
-  - Kevin Hassett
-  - Kevin Warsh
-  - Cassidy Hutchinson
-  - Mike Pence
-  - Marco Rubio
-  - Asim Munir
-  - Xi Jinping
-  - Guo Jia Kun
-  - Fan Jiezhen
-  - Wen Xue
-  - Xu Mintao
-  - Guo Hua
-  - Hu Qida
-  - Tu Tu Xing
-  - Han Bing
-companies_orgs:
-  - Federal Reserve
-  - Wall Street Journal
-  - White House
-  - Pakistan Army
-  - Ministry of Foreign Affairs of China
-  - COSCO
-  - BlackRock
-  - Pinduoduo
-  - State Administration for Market Regulation
-  - Shanghai Police
-  - Caixin Media
-  - Reuters
-  - Bloomberg
-products_models:
-  - Ural crude oil
-media_books:
-  - Bloomberg
-  - Wall Street Journal
-  - Vanity Fair
-  - The Hill
-  - New York Post
-  - Reuters
 status: evergreen
+summary: 本期节目解析了美联储理事沃勒的降息言论及其对市场的影响，川普阵营的最新动态，包括其对白宫幕僚爆料的回应及潜在美联储主席人选。同时关注了巴基斯坦与美国关系、中泰边境冲突中的中国角色、巴拿马运河港口争夺战、俄油流向中国海域的现象，以及备受瞩目的拼多多与中国监管机构的冲突事件，揭示了中国权贵内斗的复杂性与监管模式的深层问题。
+tags:
+- china-politics
+- financial
+- international-relations
+title: 美联储信号、川普幕僚风波与中国权贵火拼：深度解析多条重磅新闻
+companies:
+- pinduoduo
 ---
+
 ### 今日财经头条
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月17日，我们首先来了解今天的财经头条。

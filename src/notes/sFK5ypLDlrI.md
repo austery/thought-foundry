@@ -1,47 +1,46 @@
 ---
-author: Peter Pang
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=sFK5ypLDlrI'
-speaker: Peter Pang
-tags:
-  - blockchain-limitations
-  - decentralization-critique
-  - proof-of-work
-  - consortium-blockchain
-  - digital-currency-architecture
-title: 区块链：一场技术热潮的幻灭与反思
-summary: 本文深入批判了区块链技术热潮，指出其核心创新“去中心化”的真正价值仅限于电子货币领域。作者详细阐述了区块链的复杂性和固有低效性，尤其是在公有链中，如何阻碍了其更广泛的应用。尽管业界曾试图强行赋予其价值，但大多数现实世界问题更需要传统架构的效率和灵活性，而非去中心化。作者总结认为，除了特定的货币应用场景，区块链未能兑现其承诺，最终沦为骗局滋生的温床，而非一项革命性技术。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - 中本聪
-  - Lan Sassaman
-  - Helen Finney
+category: technology
 companies_orgs:
-  - IBM
-  - 英特尔
-  - 新加坡能源
-  - 央行
-  - 美联储
-products_models:
-  - 比特币
-  - NFT
-  - 数字人民币
-  - Hyperledger Fabric
-  - Kafka
-  - Raft协议
-  - BFT
+- IBM
+- 英特尔
+- 新加坡能源
+- 央行
+- 美联储
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- 中本聪
+- Lan Sassaman
+- Helen Finney
+products_models:
+- 比特币
+- NFT
+- 数字人民币
+- Hyperledger Fabric
+- Kafka
+- Raft协议
+- BFT
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=sFK5ypLDlrI
+speaker: Peter Pang
 status: evergreen
+summary: 本文深入批判了区块链技术热潮，指出其核心创新“去中心化”的真正价值仅限于电子货币领域。作者详细阐述了区块链的复杂性和固有低效性，尤其是在公有链中，如何阻碍了其更广泛的应用。尽管业界曾试图强行赋予其价值，但大多数现实世界问题更需要传统架构的效率和灵活性，而非去中心化。作者总结认为，除了特定的货币应用场景，区块链未能兑现其承诺，最终沦为骗局滋生的温床，而非一项革命性技术。
+tags:
+- critique
+- digital
+- llm
+- work
+title: 区块链：一场技术热潮的幻灭与反思
 ---
+
 ### 区块链：一场席卷全球的技术狂热
 
 曾经有这么一个技术热潮，它席卷全球，让全民狂热，人人参与。资本为它孤注一掷，投入了大量的定制硬件。它号称是革命性的技术突破，誓要颠覆现有的商业秩序。我说的不是现在的AI，而是十年前比AI还火的**区块链**（Blockchain: 一种分布式账本技术，通过密码学方法将数据块串联起来，并由网络中的多个节点共同维护，以实现去中心化和不可篡改性）。当年这矿我挖过，这币我炒过，技术我研究过，项目我开发过。作为曾经的重度参与者，看着如今“死翘翘”的区块链，我却丝毫不怀念它，甚至想说一句：好死。

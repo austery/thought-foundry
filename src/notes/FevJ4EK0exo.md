@@ -1,49 +1,48 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg
+- Federal Reserve
+- San Francisco Fed
+- BLS
+- FOMC
+- ADP
 date: '2025-08-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Moby Dick
+people:
+- Mary Daly
+- Tracy Alloway
+- Joe Weisenthal
+- Neil Duta
+- Donald Trump
+- Jerome Powell
+products_models:
+- iPhone
+- Blackberry
+- Truth Social
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=FevJ4EK0exo
 speaker: Bloomberg Podcasts
-tags:
-  - monetary-policy
-  - inflation-expectations
-  - labor-market-dynamics
-  - leading-economic-indicators
-title: 从阿拉斯加透视美国经济：旧金山联储主席戴利深度解析通胀、关税与AI浪潮
-summary: 旧金山联储主席玛丽·戴利（Mary Daly）在本次访谈中，深入探讨了为何阿拉斯加州是当前美国经济的一个重要领先指标。她详细分析了该州如何成为一个缩影，集中反映了通胀、关税、联邦支出、人口变动和住房市场等全国性议题。戴利分享了她通过实地调研获得的、超越官方数据的宝贵洞见，并讨论了美联储在应对经济不确定性、数据质量挑战、AI技术扩散以及政治压力时的政策考量与决策逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Mary Daly
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Neil Duta
-  - Donald Trump
-  - Jerome Powell
-companies_orgs:
-  - Bloomberg
-  - Federal Reserve
-  - San Francisco Fed
-  - BLS
-  - FOMC
-  - ADP
-products_models:
-  - iPhone
-  - Blackberry
-  - Truth Social
-media_books:
-  - Odd Lots
-  - Moby Dick
 status: evergreen
+summary: 旧金山联储主席玛丽·戴利（Mary Daly）在本次访谈中，深入探讨了为何阿拉斯加州是当前美国经济的一个重要领先指标。她详细分析了该州如何成为一个缩影，集中反映了通胀、关税、联邦支出、人口变动和住房市场等全国性议题。戴利分享了她通过实地调研获得的、超越官方数据的宝贵洞见，并讨论了美联储在应对经济不确定性、数据质量挑战、AI技术扩散以及政治压力时的政策考量与决策逻辑。
+tags:
+- inflation-expectation
+- labor-market-dynamic
+- leading-economic-indicator
+title: 从阿拉斯加透视美国经济：旧金山联储主席戴利深度解析通胀、关税与AI浪潮
 ---
+
 ### 为什么是阿拉斯加？
 Tracy：大家好，欢迎收听新一期的 Odd Lots 播客。我是 Tracy Alloway。
 

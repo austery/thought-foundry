@@ -1,84 +1,83 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Robinhood
+- Google
+- S&P 500
+- JP Morgan
+- Bank of America
+- Weeble
+- Kalshi
+- Susquehanna International Group
+- CFTC
+- Piper Sandler
+- Meta
+- Microsoft
+- Amazon
+- Apple
+- Tesla
+- Palantir
+- Coreweave
+- OpenAI
+- Federal Reserve
+- Abercrombie & Fitch
+- Kohl's
+- Best Buy
+- Urban Outfitters
+- Dell
+- Super Safe Intelligence
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Substack
+- Politico
+- The Washington Post
+people:
+- Vlad Tenev
+- Jensen Huang
+- Michael Burry
+- Jerome Powell
+- John Williams
+- Mary Daly
+- Christopher Waller
+- Alex Karp
+- Sundar Pichai
+- Sam Altman
+- Ilia Sutskever
+- Jack Dorsey
+- Satoshi Nakamoto
+- Dan Ives
+- Tom Lee
+- Brad Gerstner
+- Mark Mahaney
+products_models:
+- TPU
+- Gemini 3
+- ChatGPT
+- iPhone
+- WhatsApp
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=dQs74-Tsz0U
 speaker: Amit Kukreja
-tags:
-  - market-rebound
-  - rate-cut-expectations
-  - consumer-spending
-  - ai-stock-volatility
-title: 英伟达强硬回应，Robinhood垂直整合，市场在感恩节前尝试反弹
-summary: 本期市场分析聚焦感恩节前的最后一个完整交易日。主要议题包括：英伟达在股价下跌后对谷歌和批评者做出回应；Robinhood通过与Susquehanna成立合资公司，垂直整合其预测市场业务，股价大涨；宏观数据显示劳动力市场依然稳健，强化了降息预期。此外，报告还探讨了零售业股票的意外强势反弹，以及多家银行对未来市场走势的不同预测。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Vlad Tenev
-  - Jensen Huang
-  - Michael Burry
-  - Jerome Powell
-  - John Williams
-  - Mary Daly
-  - Christopher Waller
-  - Alex Karp
-  - Sundar Pichai
-  - Sam Altman
-  - Ilia Sutskever
-  - Jack Dorsey
-  - Satoshi Nakamoto
-  - Dan Ives
-  - Tom Lee
-  - Brad Gerstner
-  - Mark Mahaney
-companies_orgs:
-  - Nvidia
-  - Robinhood
-  - Google
-  - S&P 500
-  - JP Morgan
-  - Bank of America
-  - Weeble
-  - Kalshi
-  - Susquehanna International Group
-  - CFTC
-  - Piper Sandler
-  - Meta
-  - Microsoft
-  - Amazon
-  - Apple
-  - Tesla
-  - Palantir
-  - Coreweave
-  - OpenAI
-  - Federal Reserve
-  - Abercrombie & Fitch
-  - Kohl's
-  - Best Buy
-  - Urban Outfitters
-  - Dell
-  - Super Safe Intelligence
-products_models:
-  - TPU
-  - Gemini 3
-  - ChatGPT
-  - iPhone
-  - WhatsApp
-media_books:
-  - Substack
-  - Politico
-  - The Washington Post
 status: evergreen
+summary: 本期市场分析聚焦感恩节前的最后一个完整交易日。主要议题包括：英伟达在股价下跌后对谷歌和批评者做出回应；Robinhood通过与Susquehanna成立合资公司，垂直整合其预测市场业务，股价大涨；宏观数据显示劳动力市场依然稳健，强化了降息预期。此外，报告还探讨了零售业股票的意外强势反弹，以及多家银行对未来市场走势的不同预测。
+tags:
+- consumer-spending
+- market-rebound
+- rate-cut-expectation
+- stock
+title: 英伟达强硬回应，Robinhood垂直整合，市场在感恩节前尝试反弹
 ---
+
 ### 感恩节前的市场概览
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月26日，星期三。这基本上是本交易周的最后一天，也是最后一个完整的交易日。明天，由于美国迎来感恩节，市场将会休市。然后周五，我们将只有半天交易时间。因此，与今天相比，周五的交易量将会相对清淡。今天我们可能也会看到一些清淡的交易量。但就完整的交易日而言，这确实是本周的最后一天了。

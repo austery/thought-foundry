@@ -1,33 +1,32 @@
 ---
-author: Veritasium
-date: '2020-07-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Kp_kqamkYpw
-speaker: Veritasium
-tags:
-  - veritasium
-  - missing-baryon-problem
-  - cosmology
-  - fast-radio-bursts
-  - warm-hot-intergalactic-medium
-  - big-bang-nucleosynthesis
-title: 宇宙中缺失的一半物质：重子搜寻之旅
-summary: 本文探讨了宇宙中长期存在的“缺失重子问题”，即理论预测的重子物质（构成普通物质的粒子）远多于实际观测到的数量。文章解释了重子物质丰度的理论基础，回顾了早期寻找缺失重子的尝试，并详细介绍了科学家如何利用快速射电暴（FRB）及其色散效应，最终在温热星系际介质（WHIM）中找到了宇宙中缺失的另一半重子，从而验证了数十年前的宇宙学模拟结果。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project: []
-people: []
+category: science
 companies_orgs:
-  - KiwiCo
-products_models: []
+- KiwiCo
+date: '2020-07-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Nature
+- Nature
+products_models: []
+project: []
+series: ''
+source: https://www.youtube.com/watch?v=Kp_kqamkYpw
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了宇宙中长期存在的“缺失重子问题”，即理论预测的重子物质（构成普通物质的粒子）远多于实际观测到的数量。文章解释了重子物质丰度的理论基础，回顾了早期寻找缺失重子的尝试，并详细介绍了科学家如何利用快速射电暴（FRB）及其色散效应，最终在温热星系际介质（WHIM）中找到了宇宙中缺失的另一半重子，从而验证了数十年前的宇宙学模拟结果。
+tags:
+- big-bang-nucleosynthesi
+- cosmology
+- fast-radio-burst
+- problem
+title: 宇宙中缺失的一半物质：重子搜寻之旅
+companies:
+- warm-hot-intergalactic-medium
 ---
+
 ### 宇宙中缺失的一半物质
 
 直到最近，宇宙中仍有大约一半的物质处于缺失、隐藏或未被探测到的状态。

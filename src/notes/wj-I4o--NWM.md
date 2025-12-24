@@ -1,50 +1,51 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- Trump Administration
+- Tesla
+- United Nations Climate Body
+- Walmart
+- Louvre Museum
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Headlines (Podcast)
+- TikTok
+people:
+- Donald Trump
+- JD Vance
+- Marco Rubio
+- Elon Musk
+- King Tut
+- Dick Cheney
+- George W. Bush
+- Zoran Mandani
+- William J. Gainor
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=wj-I4o--NWM
 speaker: New York Times Podcasts
-tags:
-  - snap-benefits
-  - climate-diplomacy
-  - executive-compensation
-  - humanoid-robotics
-  - cultural-repatriation
-title: 美国社会热点：食品券风波、气候外交与马斯克巨额薪酬
-summary: 本周，美国面临多项社会与经济挑战。联邦法官命令特朗普政府全额资助4200万低收入美国人的食品券计划，但政府誓言上诉，引发受助者担忧。同时，美国缺席在巴西举行的COP 30气候大会，并被指试图破坏国际气候协议。在商业领域，特斯拉股东批准了埃隆·马斯克可能使其成为全球首位万亿富翁的巨额薪酬方案，引发了对财富和权力集中的争议。此外，埃及大博物馆正式开放，重燃文物归还故土的呼声。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - JD Vance
-  - Marco Rubio
-  - Elon Musk
-  - King Tut
-  - Dick Cheney
-  - George W. Bush
-  - Zoran Mandani
-  - William J. Gainor
-companies_orgs:
-  - New York Times
-  - Trump Administration
-  - Tesla
-  - United Nations Climate Body
-  - Walmart
-  - Louvre Museum
-products_models: []
-media_books:
-  - The Headlines (Podcast)
-  - TikTok
 status: evergreen
+summary: 本周，美国面临多项社会与经济挑战。联邦法官命令特朗普政府全额资助4200万低收入美国人的食品券计划，但政府誓言上诉，引发受助者担忧。同时，美国缺席在巴西举行的COP
+  30气候大会，并被指试图破坏国际气候协议。在商业领域，特斯拉股东批准了埃隆·马斯克可能使其成为全球首位万亿富翁的巨额薪酬方案，引发了对财富和权力集中的争议。此外，埃及大博物馆正式开放，重燃文物归还故土的呼声。
+tags:
+- cultural
+- diplomacy
+- executive-compensation
+- humanoid-robotic
+- snap-benefit
+title: 美国社会热点：食品券风波、气候外交与马斯克巨额薪酬
 ---
+
 ### 美国食品券计划面临政治与法律挑战
 
 来自《纽约时报》的头条新闻，我是威尔·贾维斯，代班特蕾西·芒福德。今天是11月7日星期五，以下是我们正在报道的内容。

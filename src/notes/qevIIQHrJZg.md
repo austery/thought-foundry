@@ -1,37 +1,34 @@
 ---
-author: Veritasium
-date: '2021-04-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qevIIQHrJZg
-speaker: Veritasium
-tags:
-  - veritasium
-  - soft-robotics
-  - tip-extension
-  - pneumatic-systems
-  - search-and-rescue
-  - space-exploration
-title: 藤蔓机器人：从考古到太空探索，一种可拯救生命的柔性增长型机器人
-summary: 本文介绍了一种受植物生长启发的新型柔性机器人——藤蔓机器人。它通过压缩空气从尖端生长，能够克服粘性表面和尖刺障碍，甚至在被刺穿后仍能继续工作。文章详细探讨了其在考古勘探、医疗插管（使过程更安全快捷）、以及行星表面探测（如火星任务）等多个领域的潜在应用，展示了其独特的机械智能和巨大的实用价值。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people: []
+category: technology
 companies_orgs:
-  - NASA
-  - Morning Brew
+- NASA
+- Morning Brew
+date: '2021-04-16'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 products_models:
-  - Mars InSight mission
-  - laryngoscope
-media_books: []
+- Mars InSight mission
+- laryngoscope
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=qevIIQHrJZg
+speaker: veritasium
 status: evergreen
+summary: 本文介绍了一种受植物生长启发的新型柔性机器人——藤蔓机器人。它通过压缩空气从尖端生长，能够克服粘性表面和尖刺障碍，甚至在被刺穿后仍能继续工作。文章详细探讨了其在考古勘探、医疗插管（使过程更安全快捷）、以及行星表面探测（如火星任务）等多个领域的潜在应用，展示了其独特的机械智能和巨大的实用价值。
+tags:
+- soft-robotic
+- space-exploration
+- system
+- technology
+- tip-extension
+title: 藤蔓机器人：从考古到太空探索，一种可拯救生命的柔性增长型机器人
 ---
+
 ### 柔性增长型机器人：藤蔓的启示
 
 这是一种能够生长到自身数百倍大小的机器人，并且不会被粘合剂或尖刺所阻挡。尽管它看起来有些简单和廉价，但它拥有数十种潜在应用，其中之一可能是在未来某天拯救你的生命。

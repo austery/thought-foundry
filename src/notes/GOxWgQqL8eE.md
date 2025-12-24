@@ -1,79 +1,79 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- TVO Today
+- LCBO
+- Ontario Inc.
+- Supply Ontario
+- Investigative Journalism Bureau
+- University of Toronto
+- Elementary Teachers' Federation of Ontario
+- Near North District School Board
+- The Beer Store
+- Cornell University
+- Monk School of Global Affairs
+- Montreal Canadiens
+- Toronto Maple Leafs
+- Adawapiskat First Nation
+- Neskantaga First Nation
+- Martin Falls First Nation
+- Webequie First Nation
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Better Call Saul
+- TVO.org
+people:
+- Steve Paikin
+- John Michael McGrath
+- Howard Ferguson
+- Ernest Drury
+- Doug Ford
+- Paul Calandra
+- Ken Dryden
+- Peter Loewen
+- Michael Dryden
+- Linda Dryden
+- Sarah Dryden
+- Blake Dryden
+- Jim Bradley
+- Mike Schreiner
+- Maurice O'Shaughnessy
+- Dave Cook
+- Mike Harris
+products_models:
+- OHIP
+- Healthcare Connect
+- EQAO
+- Ontario Secondary School Literacy Test
+- Keeping Criminals Behind Bars Act
+- Animals for Research Act
+- Andrew's Law
+- Environmental Bill of Rights
+- Ontario Sex Offender and Trafficker Registry
+- Bill 5
+- Ontario Deposit Return Program
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=GOxWgQqL8eE
 speaker: TVO Today
-tags:
-  - healthcare-spending
-  - government-accountability
-  - public-policy
-  - education-reform
-  - indigenous-relations
-title: 安大略省审计长报告揭示医疗支出问题及其他省政要闻
-summary: 本期节目深入探讨了安大略省审计长年度报告中的关键发现，特别是医疗保健系统（包括医生账单、个人防护设备采购和初级护理可及性）的支出问题。此外，节目还讨论了省政府新推出的司法和犯罪法案、EQAO考试成绩、酒瓶回收计划的未来、对前省议员肯·德莱顿和吉姆·布拉德利的悼念，以及“火焰之环”矿产开发项目与原住民部落之间的复杂关系。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Steve Paikin
-  - John Michael McGrath
-  - Howard Ferguson
-  - Ernest Drury
-  - Doug Ford
-  - Paul Calandra
-  - Ken Dryden
-  - Peter Loewen
-  - Michael Dryden
-  - Linda Dryden
-  - Sarah Dryden
-  - Blake Dryden
-  - Jim Bradley
-  - Mike Schreiner
-  - Maurice O'Shaughnessy
-  - Dave Cook
-  - Mike Harris
-companies_orgs:
-  - TVO Today
-  - LCBO
-  - Ontario Inc.
-  - Supply Ontario
-  - Investigative Journalism Bureau
-  - University of Toronto
-  - Elementary Teachers' Federation of Ontario
-  - Near North District School Board
-  - The Beer Store
-  - Cornell University
-  - Monk School of Global Affairs
-  - Montreal Canadiens
-  - Toronto Maple Leafs
-  - Adawapiskat First Nation
-  - Neskantaga First Nation
-  - Martin Falls First Nation
-  - Webequie First Nation
-products_models:
-  - OHIP
-  - Healthcare Connect
-  - EQAO
-  - Ontario Secondary School Literacy Test
-  - Keeping Criminals Behind Bars Act
-  - Animals for Research Act
-  - Andrew's Law
-  - Environmental Bill of Rights
-  - Ontario Sex Offender and Trafficker Registry
-  - Bill 5
-  - Ontario Deposit Return Program
-media_books:
-  - Better Call Saul
-  - TVO.org
 status: evergreen
+summary: 本期节目深入探讨了安大略省审计长年度报告中的关键发现，特别是医疗保健系统（包括医生账单、个人防护设备采购和初级护理可及性）的支出问题。此外，节目还讨论了省政府新推出的司法和犯罪法案、EQAO考试成绩、酒瓶回收计划的未来、对前省议员肯·德莱顿和吉姆·布拉德利的悼念，以及“火焰之环”矿产开发项目与原住民部落之间的复杂关系。
+tags:
+- education-reform
+- government-accountability
+- health
+- policy
+- relations
+title: 安大略省审计长报告揭示医疗支出问题及其他省政要闻
 ---
+
 ### 欢迎收听 OnPy 播客
 
 Steve Paikin: 欢迎大家收听 OnPy 播客。我是史蒂夫·帕金。

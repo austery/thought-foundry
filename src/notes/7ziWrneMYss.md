@@ -1,40 +1,38 @@
 ---
-author: Veritasium
-date: '2022-03-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7ziWrneMYss
-speaker: Veritasium
-tags:
-  - veritasium
-  - snake-venom
-  - antivenom-production
-  - immune-response
-  - evolutionary-biology
-  - public-health
-title: 马匹如何帮助人类对抗蛇毒：抗蛇毒血清的科学与历史
-summary: 本文深入探讨了澳大利亚致命毒蛇的危险性，以及抗蛇毒血清的生产过程。从蛇毒的提取、毒液的进化机制，到不同毒素类型及其对人体的作用，文章详细介绍了蛇毒的科学原理。此外，还追溯了抗蛇毒血清的发明历史，从早期蛇捕手的观察到阿尔伯特·卡尔梅特利用兔子进行实验，最终发展出现代使用马匹生产抗体的技术。文章还提及了蛇毒专家被咬伤的亲身经历，以及未来抗蛇毒血清研究的方向，强调了这项工作在全球范围内拯救生命的重要性。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - historical-insights
-people:
-  - Zac
-  - Derek Muller
-  - Edward Nicholson
-  - Albert Calmette
-  - Timothy Jackson
+category: science
 companies_orgs:
-  - Australian Reptile Park
-  - World Health Organization
+- Australian Reptile Park
+- World Health Organization
+date: '2022-03-22'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Zac
+- Derek Muller
+- Edward Nicholson
+- Albert Calmette
+- Timothy Jackson
 products_models:
-  - Brilliant
-media_books: []
+- Brilliant
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=7ziWrneMYss
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了澳大利亚致命毒蛇的危险性，以及抗蛇毒血清的生产过程。从蛇毒的提取、毒液的进化机制，到不同毒素类型及其对人体的作用，文章详细介绍了蛇毒的科学原理。此外，还追溯了抗蛇毒血清的发明历史，从早期蛇捕手的观察到阿尔伯特·卡尔梅特利用兔子进行实验，最终发展出现代使用马匹生产抗体的技术。文章还提及了蛇毒专家被咬伤的亲身经历，以及未来抗蛇毒血清研究的方向，强调了这项工作在全球范围内拯救生命的重要性。
+tags:
+- business
+- immune-response
+- public-health
+- snake-venom
+- technology
+title: 马匹如何帮助人类对抗蛇毒：抗蛇毒血清的科学与历史
 ---
+
 ### 澳大利亚的致命之舞：蛇与抗蛇毒血清
 
 **Zac:** 你们能抓住它的尾部吗？

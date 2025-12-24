@@ -1,44 +1,44 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: general
+companies_orgs:
+- Linking Publishing
+- Catholic Church
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Discourse on the Origin and Basis of Inequality Among Men
+- Confessions
+- Encyclopédie
+people:
+- Jean-Jacques Rousseau
+- Aristotle
+- Denis Diderot
+- Madame de Warens
+- Alexander the Great
+- Herbert Marcuse
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=0KraEt1ebD0
 speaker: 超級歪 SuperY
-tags:
-  - social-inequality
-  - human-nature
-  - state-of-nature
-  - amour-propre
-  - civilization-critique
-title: 卢梭《论不平等的起源》：人性本善，文明致恶？
-summary: 本文深入探讨法国哲学家卢梭的经典著作《论人类不平等的起源与基础》。文章首先介绍卢梭的生平及其独特的哲学背景，随后阐述他如何区分“自然人”与“文明人”，并批判文明对人性的腐蚀。核心论点在于，不平等并非源于自然，而是由社会化的“虚荣心”（amour-propre）所塑造。卢梭进一步揭示了不平等如何导致自由的丧失和社会福祉的损害，并辩证地指出虚荣心对文明进步的双重影响，最终探讨了不平等在社会中普遍存在的深层原因。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - Jean-Jacques Rousseau
-  - Aristotle
-  - Denis Diderot
-  - Madame de Warens
-  - Alexander the Great
-  - Herbert Marcuse
-companies_orgs:
-  - Linking Publishing
-  - Catholic Church
-products_models: []
-media_books:
-  - Discourse on the Origin and Basis of Inequality Among Men
-  - Confessions
-  - Encyclopédie
 status: evergreen
+summary: 本文深入探讨法国哲学家卢梭的经典著作《论人类不平等的起源与基础》。文章首先介绍卢梭的生平及其独特的哲学背景，随后阐述他如何区分“自然人”与“文明人”，并批判文明对人性的腐蚀。核心论点在于，不平等并非源于自然，而是由社会化的“虚荣心”（amour-propre）所塑造。卢梭进一步揭示了不平等如何导致自由的丧失和社会福祉的损害，并辩证地指出虚荣心对文明进步的双重影响，最终探讨了不平等在社会中普遍存在的深层原因。
+tags:
+- canada
+- critique
+- human-nature
+- social-inequality
+- state
+title: 卢梭《论不平等的起源》：人性本善，文明致恶？
 ---
+
 ### 卢梭的生平与思想启蒙
 
 “哲学爽歪歪”节目，每集都会向您介绍一位哲学家。

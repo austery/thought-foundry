@@ -1,53 +1,53 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- SpaceX
+- Rocket Lab
+- Tesla
+- Robinhood
+- Nvidia
+- Hims & Hers
+- CoreWeave
+- EchoStar
+- Blue Origin
+- SDA
+- Broadcom
+- Oracle
+- RedWire
+- MSTR
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money or Life美股频道
+- X platform
+people:
+- Elon Musk
+products_models:
+- Starlink
+- Starship
+- Neutron Rocket
+- Archimedes engine
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=FMHw09ptvPw
 speaker: Money or Life 美股频道
-tags:
-  - space-economy
-  - stock-analysis
-  - investment-strategy
-  - ai-sentiment
-  - spacex-valuation
-title: 太空热潮与AI情绪波动：RKLB、TSLA等个股深度复盘与展望
-summary: 本期节目对近期市场热点进行深度复盘与前瞻。首先聚焦太空经济的投资热潮，特别是SpaceX高达8,000亿美金的估值及其上市传闻。随后，主持人Ace分享了本周的仓位调整，包括温和减仓以保护账户，并详细分析了特斯拉（TSLA）、火箭实验室（RKLB）、Robinhood（HOOD）、英伟达（NVDA）、Hims & Hers（HIMS）及CoreWeave（CRWV）等关键股票的技术图形和投资策略。节目探讨了AI板块情绪的短期承压及其对相关股票的影响，并提供了具体的买卖点位和风险控制建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Elon Musk
-companies_orgs:
-  - SpaceX
-  - Rocket Lab
-  - Tesla
-  - Robinhood
-  - Nvidia
-  - Hims & Hers
-  - CoreWeave
-  - EchoStar
-  - Blue Origin
-  - SDA
-  - Broadcom
-  - Oracle
-  - RedWire
-  - MSTR
-products_models:
-  - Starlink
-  - Starship
-  - Neutron Rocket
-  - Archimedes engine
-media_books:
-  - Money or Life美股频道
-  - X platform
 status: evergreen
+summary: 本期节目对近期市场热点进行深度复盘与前瞻。首先聚焦太空经济的投资热潮，特别是SpaceX高达8,000亿美金的估值及其上市传闻。随后，主持人Ace分享了本周的仓位调整，包括温和减仓以保护账户，并详细分析了特斯拉（TSLA）、火箭实验室（RKLB）、Robinhood（HOOD）、英伟达（NVDA）、Hims
+  & Hers（HIMS）及CoreWeave（CRWV）等关键股票的技术图形和投资策略。节目探讨了AI板块情绪的短期承压及其对相关股票的影响，并提供了具体的买卖点位和风险控制建议。
+tags:
+- llm
+- space-economy
+- stock-analysis
+- valuation
+title: 太空热潮与AI情绪波动：RKLB、TSLA等个股深度复盘与展望
 ---
+
 ### 美股复盘与推演：太空热潮与AI情绪波动
 
 本周的美股复盘与推演节目分为三个部分。第一部分，将再次和大家聊一聊最近的太空投资热潮。我这里放了一张马斯克的头像截图，因为正是他的SpaceX公司最近要上市的消息，以及高达8,000亿美金的最新估值，引爆了整个太空板块。我这里放的“投资太空，一起FOMO”的标题，当然是有开玩笑的成分，不过我确实也感觉到了FOMO（Fear Of Missing Out: 害怕错过）情绪快要到来，或者说已经开始到来了。

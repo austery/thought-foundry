@@ -1,44 +1,44 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 一席YiXi
 date: '2025-08-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《西游记》
+- 《西游新记》
+- 《太白金星有点烦》
+people:
+- 刘勃
+- 吴承恩
+- 鲁迅
+- 胡适
+- 钱钟书
+- 玄奘
+- 丘处机
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=SeGzxphoziE
 speaker: 一席YiXi
-tags:
-  - multi-author-text
-  - cultural-layering
-  - religious-syncretism
-  - classic-reinterpretation
-  - authorship-myth
-title: 《西游记》不是一部小说：从瑜伽僧到全真教，揭开经典背后的多层作者战争
-summary: 刘勃剖析《西游记》并非单一作者创作，而是历经瑜伽僧、全真教与文人游戏者三拨作者叠加改造的‘世代累积’文本，揭示其内在矛盾实为时代思想冲突的镜像，并挑战语文教育对‘主题’的单一解读。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 刘勃
-  - 吴承恩
-  - 鲁迅
-  - 胡适
-  - 钱钟书
-  - 玄奘
-  - 丘处机
-companies_orgs:
-  - 一席YiXi
-products_models: []
-media_books:
-  - 《西游记》
-  - 《西游新记》
-  - 《太白金星有点烦》
 status: evergreen
+summary: 刘勃剖析《西游记》并非单一作者创作，而是历经瑜伽僧、全真教与文人游戏者三拨作者叠加改造的‘世代累积’文本，揭示其内在矛盾实为时代思想冲突的镜像，并挑战语文教育对‘主题’的单一解读。
+tags:
+- cultural
+- geopolitical
+- history
+- multi-author-text
+- society
+title: 《西游记》不是一部小说：从瑜伽僧到全真教，揭开经典背后的多层作者战争
 ---
+
 ### 《西游记》的四个版本：童年、课本、原著与真相
 
 大家好，作为一个中国人，你从小接触的《西游记》可能不止一个版本。第一个是童年时在动画片、童书和电视剧里看到的《西游记》——那个充满奇幻与英雄主义的故事。第二个是语文课上的《西游记》，它被简化为“四大名著”之一，拥有标准答案和答题模板。第三个是原著版本——当你真正翻开那本满是文言与怪异句式的古籍，才发现它和你记忆中的故事完全不同：唐僧懦弱、多疑、甚至猥琐；孙悟空才是真正的智者和行动派。而第四个版本，是今天网上流行的“权谋版《西游记》”——有人告诉你，这书里藏着顶级官场智慧、暗黑政治隐喻。

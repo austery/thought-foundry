@@ -1,55 +1,55 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- White House
+- Washington Post
+- Trump Organization
+- Pentagon
+- Hamas
+- United Nations
+- UN Security Council
+- Almage Europe
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Donald Trump
+- Mohammed bin Salman
+- Jamal Khashoggi
+- Vivian Nurim
+- Eric Trump
+- Donald Trump Jr.
+- Jared Kushner
+- Martin Luther King Jr.
+- John F. Kennedy
+- Amelia Earhart
+- Tracy Mumford
+products_models:
+- F-35 fighter jets
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=noINFz33SJ0
 speaker: New York Times Podcasts
-tags:
-  - us-saudi-relations
-  - conflict-of-interest
-  - gaza-peace-plan
-  - political-pressure
-  - humanitarian-displacement
-title: 特朗普家族的沙特商业关系、加沙和平计划及其他头条新闻
-summary: 本期新闻头条聚焦于美国与沙特阿拉伯之间的复杂关系，包括特朗普总统家族在沙特的商业利益、F-35战机对沙特的潜在出售以及由此引发的伦理和国家安全担忧。同时，联合国安理会批准了特朗普的加沙和平计划，旨在推动停火后的地区稳定。此外，报道还揭露了数百名加沙居民通过神秘航班被送往南非的事件，以及追踪帝王蝶迁徙的新技术突破。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Mohammed bin Salman
-  - Jamal Khashoggi
-  - Vivian Nurim
-  - Eric Trump
-  - Donald Trump Jr.
-  - Jared Kushner
-  - Martin Luther King Jr.
-  - John F. Kennedy
-  - Amelia Earhart
-  - Tracy Mumford
-companies_orgs:
-  - New York Times
-  - White House
-  - Washington Post
-  - Trump Organization
-  - Pentagon
-  - Hamas
-  - United Nations
-  - UN Security Council
-  - Almage Europe
-products_models:
-  - F-35 fighter jets
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期新闻头条聚焦于美国与沙特阿拉伯之间的复杂关系，包括特朗普总统家族在沙特的商业利益、F-35战机对沙特的潜在出售以及由此引发的伦理和国家安全担忧。同时，联合国安理会批准了特朗普的加沙和平计划，旨在推动停火后的地区稳定。此外，报道还揭露了数百名加沙居民通过神秘航班被送往南非的事件，以及追踪帝王蝶迁徙的新技术突破。
+tags:
+- conflict
+- geopolitical
+- political-pressure
+- relations
+- society
+title: 特朗普家族的沙特商业关系、加沙和平计划及其他头条新闻
 ---
+
 ### 特朗普家族与沙特的商业联系
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是11月18日星期二，以下是我们正在报道的内容。

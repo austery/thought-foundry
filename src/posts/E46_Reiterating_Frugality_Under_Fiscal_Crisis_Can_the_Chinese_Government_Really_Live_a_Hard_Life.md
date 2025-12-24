@@ -1,32 +1,32 @@
 ---
-title: E46 财政危机下重提“厉行节约”，中国政府真的能过苦日子吗？
-summary: null
-area: market-analysis
-category: geopolitics
-project:
-- china-analysis
-tags:
-  - 中国政治
-  - 官僚体系
-  - 政治
-people:
-  - 李厚辰
-  - 伍雷
-  - 贾葭
-companies_orgs: []
-products_models: []
-media_books:
-- 三个水枪手
-date: '2025-07-10'
+area: society-thinking
 author: Lei
-speaker: 三個水槍手
+category: politics-society
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 三个水枪手
+people:
+- 李厚辰
+- 伍雷
+- 贾葭
+products_models: []
+project:
+- china-analysis
 series: null
 source: null
+speaker: 三個水槍手
+summary: null
+tags:
+- china-politics
+- 官僚体系
+title: E46 财政危机下重提“厉行节约”，中国政府真的能过苦日子吗？
 ---
+
 本期节目探讨中国政府在财政压力下重提“厉行节约”的背景、具体措施及其可能面临的挑战。三位讨论者结合个人经历和观察，分析了政府浪费的普遍现象，并对新政策的有效性持怀疑态度。
 
 ## 开场：财政困境与“过苦日子”的反复

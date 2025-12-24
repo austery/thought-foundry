@@ -1,53 +1,53 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2024-07-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《茶经》
+- 《叶家传》
+- 《大观茶论》
+- 《茶谱》
+- 《岁时茶山记》
+people:
+- 徐千懿
+- 陆羽
+- 李白
+- 苏东坡
+- 朱权
+- 大方和尚
+- 皮日休
+- 赵明成
+- 李清照
+products_models:
+- 松罗茶
+- 仙人掌茶
+- 龙团凤饼
+- 建州贡茶
+- 阳羡茶
+- 顾渚紫笋
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=FQIDrP7ExKY
 speaker: 一席YiXi
-tags:
-  - tea-aesthetics
-  - traditional-craft
-  - nature-and-ritual
-  - cultural-evolution
-  - artisanal-revival
-title: 中国茶审美的脉动：从唐宋到明清的味觉哲学
-summary: 徐千懿以茶为镜，梳理中国茶审美的历史演进：唐代重自然野趣与‘辣感’，宋代追求精工细琢的‘活’味，明代倡导回归本真，而当代则在工艺与交通的突破中，重新定义中国茶的传统。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 徐千懿
-  - 陆羽
-  - 李白
-  - 苏东坡
-  - 朱权
-  - 大方和尚
-  - 皮日休
-  - 赵明成
-  - 李清照
-companies_orgs: []
-products_models:
-  - 松罗茶
-  - 仙人掌茶
-  - 龙团凤饼
-  - 建州贡茶
-  - 阳羡茶
-  - 顾渚紫笋
-media_books:
-  - 《茶经》
-  - 《叶家传》
-  - 《大观茶论》
-  - 《茶谱》
-  - 《岁时茶山记》
 status: evergreen
+summary: 徐千懿以茶为镜，梳理中国茶审美的历史演进：唐代重自然野趣与‘辣感’，宋代追求精工细琢的‘活’味，明代倡导回归本真，而当代则在工艺与交通的突破中，重新定义中国茶的传统。
+tags:
+- canada
+- cultural-evolution
+- environment
+- life
+- technology
+title: 中国茶审美的脉动：从唐宋到明清的味觉哲学
 ---
+
 ### 唐代：自然野趣与“辣感”的审美奠基
 
 大家好，我叫徐千懿，目前在安徽农业大学茶叶系任教。虽然我是茶学教师，但并非茶学专业出身——我毕业于北京大学哲学系，博士论文研究的是先秦《诗经》。听起来，茶与哲学似乎相距甚远，但茶的魅力恰恰就在于它能穿透学科的界限。

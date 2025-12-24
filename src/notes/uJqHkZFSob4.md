@@ -1,32 +1,29 @@
 ---
-author: 徒步的騎手
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- 大众汽车
+- 西门子
+- 巴斯夫
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sam Altman
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=uJqHkZFSob4
 speaker: 徒步的騎手
-tags:
-  - llm
-  - trade-friction
-  - germany-china-relations
-title: 德国与中国关系的转变：从合作共赢到贸易摩擦
-summary: 德国与中国的关系从过去的合作共赢转变为贸易摩擦，主要原因是中国企业的崛起和德国企业的依赖与风险。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sam Altman
-companies_orgs:
-  - OpenAI
-  - 大众汽车
-  - 西门子
-  - 巴斯夫
-media_books: []
 status: evergreen
+summary: 德国与中国的关系从过去的合作共赢转变为贸易摩擦，主要原因是中国企业的崛起和德国企业的依赖与风险。
+tags:
+- china
+- trade
+title: 德国与中国关系的转变：从合作共赢到贸易摩擦
 ---
 
 ### 中德关系的蜜月与裂痕  

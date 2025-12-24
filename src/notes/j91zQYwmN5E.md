@@ -1,47 +1,47 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: business
+companies_orgs:
+- Uber
+- Spotify
+- Airbnb
+- Booking
+- 特斯拉
+- Google
+- 亚马逊
+- 穆迪
+- 摩根士丹利
+- Nvidia
 date: '2025-03-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富》
+- 《华尔街日报》
+people:
+- 唐石峻
+- 巴菲特
+products_models: []
+project:
+- us-analysis
+- market-cycles
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=j91zQYwmN5E
 speaker: Shijun Tang
-tags:
-  - platform-business-model
-  - autonomous-vehicle-disruption
-  - network-effects
-  - cash-flow-generation
-  - profitability-transition
-title: Uber、亚马逊与穆迪：平台型企业的盈利转型与护城河分析
-summary: 本文深入剖析Uber从烧钱到盈利的转型路径、亚马逊多元业务结构及其护城河，以及穆迪作为信用评级巨头的稳定现金流模式，揭示平台型公司在自动化冲击下的长期竞争力与投资价值。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - historical-insights
-people:
-  - 唐石峻
-  - 巴菲特
-companies_orgs:
-  - Uber
-  - Spotify
-  - Airbnb
-  - Booking
-  - 特斯拉
-  - Google
-  - 亚马逊
-  - 穆迪
-  - 摩根士丹利
-  - 英伟达
-products_models: []
-media_books:
-  - 《财富》
-  - 《华尔街日报》
 status: evergreen
+summary: 本文深入剖析Uber从烧钱到盈利的转型路径、亚马逊多元业务结构及其护城河，以及穆迪作为信用评级巨头的稳定现金流模式，揭示平台型公司在自动化冲击下的长期竞争力与投资价值。
+tags:
+- financial
+- flow
+- network-effect
+- platform-business-model
+- technology
+title: Uber、亚马逊与穆迪：平台型企业的盈利转型与护城河分析
 ---
+
 ### Uber的盈利转型：从烧钱巨头到平台赢家
 
 Uber这次财报亮了！对于我来说，它是一家让我心情非常复杂的公司。早几年，我一直把它当成反面教材——典型的“一分钱不赚、靠融资和增发烧钱”的企业。它的财报曾是我最讨厌的类型：营收增长，亏损扩大，毫无盈利希望。

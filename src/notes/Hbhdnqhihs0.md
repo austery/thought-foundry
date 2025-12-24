@@ -1,56 +1,57 @@
 ---
-author: 海伦子Hellen
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Blue Origin
+- SpaceX
+- Amazon
+- Tesla
+- Rocket Lab
+- NASA
+- Shift4 Payments
+- Space Force
 date: '2025-02-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《纽约时报》
+people:
+- Jeff Bezos
+- Elon Musk
+- Jared Isaacman
+- Donald Trump
+products_models:
+- New Glenn
+- Starship
+- Falcon 9
+- Falcon Heavy
+- Electron
+- Neutron
+- Starlink
+- Space Launch System
+- Orion
+- 詹姆斯·韦伯太空望远镜
+project:
+- us-analysis
+- geopolitics-watch
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=Hbhdnqhihs0
 speaker: 海伦子Hellen
-tags:
-  - commercial-space
-  - reusable-rockets
-  - space-economy
-  - nasa-future
-  - orbital-refueling
-title: 2025年商业太空：贝索斯、马斯克与NASA的新篇章
-summary: 2025年被视为商业太空产业爆发的关键一年。本文深入探讨了贝索斯、马斯克等商业巨头在太空领域的布局，特别关注蓝色起源的“新格伦号”重型火箭首飞、SpaceX“星舰”的密集试飞计划及其轨道加注技术，以及Rocket Lab“中子号”火箭的市场潜力。同时，文章还分析了新任NASA局长贾里德·艾萨克曼对“阿尔忒弥斯计划”和NASA管理模式可能带来的变革，强调了商业力量在推动太空探索成本降低和公众参与度提升中的核心作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - investment-strategy
-people:
-  - Jeff Bezos
-  - Elon Musk
-  - Jared Isaacman
-  - Donald Trump
-companies_orgs:
-  - Blue Origin
-  - SpaceX
-  - Amazon
-  - Tesla
-  - Rocket Lab
-  - NASA
-  - Shift4 Payments
-  - Space Force
-products_models:
-  - New Glenn
-  - Starship
-  - Falcon 9
-  - Falcon Heavy
-  - Electron
-  - Neutron
-  - Starlink
-  - Space Launch System
-  - Orion
-  - 詹姆斯·韦伯太空望远镜
-media_books:
-  - 《纽约时报》
 status: evergreen
+summary: 2025年被视为商业太空产业爆发的关键一年。本文深入探讨了贝索斯、马斯克等商业巨头在太空领域的布局，特别关注蓝色起源的“新格伦号”重型火箭首飞、SpaceX“星舰”的密集试飞计划及其轨道加注技术，以及Rocket
+  Lab“中子号”火箭的市场潜力。同时，文章还分析了新任NASA局长贾里德·艾萨克曼对“阿尔忒弥斯计划”和NASA管理模式可能带来的变革，强调了商业力量在推动太空探索成本降低和公众参与度提升中的核心作用。
+tags:
+- commercial-space
+- future
+- reusable-rocket
+- science
+- space-economy
+title: 2025年商业太空：贝索斯、马斯克与NASA的新篇章
 ---
+
 ### 2025年商业太空展望：从爱好到万亿级产业
 
 在一个月前接受《纽约时报》采访时，杰夫·贝索斯被问及：**蓝色起源**（Blue Origin: 杰夫·贝索斯创立的私人航天公司）对他而言是爱好还是一门生意？贝索斯明确回答：“当然是一门生意。”他认为蓝色起源将成为他最好的一门生意，甚至会超越他另一家市值高达2.47万亿美元的公司——亚马逊。主持人之所以提出这个问题，是因为贝索斯曾公开表示自己从小就着迷于太空，这使得他能够将个人爱好与商业追求完美结合。然而，火箭制造是一项极其耗费资金、时间与人才的事业，投资回报周期漫长，并非寻常人会主动涉足的领域。

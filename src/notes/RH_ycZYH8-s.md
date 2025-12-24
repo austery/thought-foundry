@@ -1,67 +1,65 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- NATO
+- United Nations
+- Communist International
+- Chinese Communist Party
+- Nationalist Party
+- Whampoa Military Academy
+- Russian Orthodox Church
 date: '2025-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sarah Paine
+- Vladimir Putin
+- Mao
+- Chiang Kai-shek
+- Stalin
+- Trotsky
+- Lev Karakhan
+- Leonid Brezhnev
+- Yuri Andropov
+- Konstantin Chernenko
+- Mikhail Gorbachev
+- Deng Xiaoping
+- Xi Jinping
+- Nicholas II
+- Pericles
+- Hitler
+- Saddam Hussein
+- Franklin Roosevelt
+- Dwight D. Eisenhower
+products_models:
+- Molotov-Ribbentrop Pact
+- Anti-Comintern Pact
+- Karakhan Manifesto
+- Treaty of Aigun
+- Treaty of Peking
+- Yalta Agreement
+- Marshall Plan
+- Belt and Road Initiative
+- Mein Kampf
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=RH_ycZYH8-s
 speaker: Dwarkesh Patel
-tags:
-  - geopolitics
-  - sino-russian-relations
-  - cold-war
-  - imperialism
-  - power-dynamics
-title: 萨拉·佩恩：俄罗斯如何阻碍中国崛起
-summary: 本讲座深入探讨了俄中关系的历史演变，揭示了俄罗斯作为大陆帝国如何通过一系列策略，从鸦片战争到朝鲜战争，反复阻碍中国的崛起。讲座分析了权力平衡的逆转，即中国崛起而俄罗斯衰落的历程，并探讨了当前两国“兄弟情”的脆弱性及其对全球地缘政治的深远影响。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - Sarah Paine
-  - Vladimir Putin
-  - Mao
-  - Chiang Kai-shek
-  - Stalin
-  - Trotsky
-  - Lev Karakhan
-  - Leonid Brezhnev
-  - Yuri Andropov
-  - Konstantin Chernenko
-  - Mikhail Gorbachev
-  - Deng Xiaoping
-  - Xi Jinping
-  - Nicholas II
-  - Pericles
-  - Hitler
-  - Saddam Hussein
-  - Franklin Roosevelt
-  - Dwight D. Eisenhower
-companies_orgs:
-  - NATO
-  - United Nations
-  - Communist International
-  - Chinese Communist Party
-  - Nationalist Party
-  - Whampoa Military Academy
-  - Russian Orthodox Church
-products_models:
-  - Molotov-Ribbentrop Pact
-  - Anti-Comintern Pact
-  - Karakhan Manifesto
-  - Treaty of Aigun
-  - Treaty of Peking
-  - Yalta Agreement
-  - Marshall Plan
-  - Belt and Road Initiative
-  - Mein Kampf
-media_books: []
 status: evergreen
+summary: 本讲座深入探讨了俄中关系的历史演变，揭示了俄罗斯作为大陆帝国如何通过一系列策略，从鸦片战争到朝鲜战争，反复阻碍中国的崛起。讲座分析了权力平衡的逆转，即中国崛起而俄罗斯衰落的历程，并探讨了当前两国“兄弟情”的脆弱性及其对全球地缘政治的深远影响。
+tags:
+- cold-war
+- imperialism
+- power-dynamic
+- relations
+title: 萨拉·佩恩：俄罗斯如何阻碍中国崛起
 ---
+
 ### 俄中关系的历史视角
 
 人们普遍关注中俄之间能否建立持久关系。从历史角度看，两国关系更像是冰川而非友善，小国依附大国令人深思。我的专业领域正是**俄中关系**，我在研究生阶段研究的正是这一课题。我的博士论文探讨了两国边境的历史，从19世纪中期的**鸦片战争**（Opium Wars: 1840-1860年间英国、法国等西方列强对中国发动的两次战争）一直到1920年代**外蒙古**（Outer Mongolia: 历史上中国北部的蒙古族聚居区，后在苏联影响下独立）被从中国势力范围夺走并纳入俄罗斯势力范围。

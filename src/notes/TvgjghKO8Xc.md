@@ -1,31 +1,30 @@
 ---
-title: 特朗普政府关门裁员的法律挑战与曼吉昂案死刑辩论
-summary: 探讨特朗普政府关门期间解雇联邦雇员的法律挑战，以及曼吉昂案死刑指控和证据排除的法律争议。
 area: null
 category: null
-project: []
-tags:
-- death-penalty
-- federal-employees
-- government-shutdown
-- legal-challenges
-- miranda-rights
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-15'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TvgjghKO8Xc
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 探讨特朗普政府关门期间解雇联邦雇员的法律挑战，以及曼吉昂案死刑指控和证据排除的法律争议。
+tags:
+- challenge
+- death-penalty
+- financial
+- government-shutdown
+- right
+title: 特朗普政府关门裁员的法律挑战与曼吉昂案死刑辩论
 ---
+
 ### 政府关门期间的联邦雇员裁员争议
 
 彭博法律频道主持人June Graasso指出，在过去44年里，美国政府已发生15次**政府关门**（Government Shutdown: 指美国联邦政府因国会未能及时通过拨款法案而暂停非必要政府服务的状态）事件。然而，在唐纳德·特朗普总统之前，没有哪位总统曾利用政府关门来解雇大批联邦雇员。特朗普甚至在政府停摆开始前就威胁要解雇联邦工作人员，并确实兑现了这些威胁。根据法庭文件，至少有4000名来自不同机构的联邦工作人员已被解雇。特朗普将此归咎于民主党，称这是“他们的关门，不是我们的关门”。

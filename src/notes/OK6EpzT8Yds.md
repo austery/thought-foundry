@@ -1,34 +1,34 @@
 ---
-title: 区域银行危机再现？Bitmine获90美元评级，Palantir携手Snowflake | 每日回顾
-summary: 本期节目回顾了当日股市下跌的原因，主要探讨了区域银行面临的潜在信用问题，Bitmine获得机构90美元目标价升级，以及Palantir与Snowflake合作的新动态。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- bitmine
-- regional-banks
-- stock-market
-people:
-- amit-kukreja
 companies_orgs:
 - palantir
 - snowflake
-products_models:
-- ethereum
-media_books: []
 date: '2025-10-16'
-author: Amit Kukreja
-speaker: Amit Kukreja
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people:
+- amit-kukreja
+products_models:
+- ethereum
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=OK6EpzT8Yds
+speaker: Amit Kukreja
 status: evergreen
+summary: 本期节目回顾了当日股市下跌的原因，主要探讨了区域银行面临的潜在信用问题，Bitmine获得机构90美元目标价升级，以及Palantir与Snowflake合作的新动态。
+tags:
+- bitmine
+- regional-bank
+- stock-market
+title: 区域银行危机再现？Bitmine获90美元评级，Palantir携手Snowflake | 每日回顾
 ---
+
 ### 市场概览：区域银行引发担忧
 
 Hey everybody, welcome back to the channel. We are back on another episode of the daily recap. This is the last daily recap for the week as we have come towards the end of the week on Thursday. Thank you again to everyone who's been showing support on these episodes. I really do love making them every day and I'm happy that people are enjoying them.

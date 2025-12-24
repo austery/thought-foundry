@@ -1,50 +1,50 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- GSK
+- Norges Bank Investment Management
+- Microsoft
+- Novartis
+- Pfizer
+- WHO
+- EMA
+- FDA
+- MHRA
 date: '2025-04-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Demon Copperhead
+- In Good Company
+people:
+- Emma Walmsley
+- Nicola Tangan
+- Bill Gates
+products_models:
+- Trilogy
+- Shingrix
+- Arexvy
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=00y-iTXE6bk
 speaker: Norges Bank Investment Management
-tags:
-  - pharmaceutical-innovation
-  - r-d-productivity
-  - vaccine-development
-  - healthcare-access
-  - corporate-culture
-title: GSK首席执行官Emma Walmsley：创新、文化与全球健康挑战
-summary: GSK首席执行官Emma Walmsley在播客中深入探讨了公司在医药研发、疫苗创新、AI技术应用以及企业文化转型方面的策略。她强调了以患者为中心的创新，通过抗体药物偶联物和寡核苷酸等新技术平台应对癌症和乙型肝炎等重大疾病。同时，她分享了GSK在提升研发效率、应对疫苗犹豫、抗微生物药物耐药性等全球健康挑战的经验，并阐述了公司在平衡药物定价与可及性方面的社会责任，以及如何通过文化变革推动业绩增长。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Emma Walmsley
-  - Nicola Tangan
-  - Bill Gates
-companies_orgs:
-  - GSK
-  - Norges Bank Investment Management
-  - Microsoft
-  - Novartis
-  - Pfizer
-  - WHO
-  - EMA
-  - FDA
-  - MHRA
-products_models:
-  - Trilogy
-  - Shingrix
-  - Arexvy
-media_books:
-  - Demon Copperhead
-  - In Good Company
 status: evergreen
+summary: GSK首席执行官Emma Walmsley在播客中深入探讨了公司在医药研发、疫苗创新、AI技术应用以及企业文化转型方面的策略。她强调了以患者为中心的创新，通过抗体药物偶联物和寡核苷酸等新技术平台应对癌症和乙型肝炎等重大疾病。同时，她分享了GSK在提升研发效率、应对疫苗犹豫、抗微生物药物耐药性等全球健康挑战的经验，并阐述了公司在平衡药物定价与可及性方面的社会责任，以及如何通过文化变革推动业绩增长。
+tags:
+- corporate-culture
+- development
+- healthcare-access
+- pharmaceutical-innovation
+- productivity
+title: GSK首席执行官Emma Walmsley：创新、文化与全球健康挑战
 ---
+
 ### 播客引言：GSK的创新之旅
 
 **Nicola Tangan:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 管理挪威政府全球养老基金的机构）的首席执行官**Nicola Tangan**。今天，我非常荣幸能与全球制药巨头**GSK**（GlaxoSmithKline: 葛兰素史克，一家全球领先的制药公司）的首席执行官**Emma Walmsley**女士共处一室。

@@ -1,36 +1,33 @@
 ---
-author: AI超元域
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Google
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Gemini 3 Flash
+- GPT-4 Turbo
+- Claude 4.5
+- GPT-4
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=6wuIT0DU1Jk
 speaker: AI超元域
-tags:
-  - llm
-  - gemini-3-flash
-  - multimodal-ai
-  - ocr
-  - coding-performance
-title: 谷歌发布Gemini 3 Flash：OCR能力惊艳，但复杂编码挑战重重
-summary: 本文深度评测了谷歌最新发布的**Gemini 3 Flash**模型。实测显示，该模型在OCR、视觉理解及成本效益方面表现出色，知识库更新至2025年1月。然而，在复杂编码任务上，尤其是在独立开发iOS应用时，其表现远不如预期，频繁出现错误，与基准测试结果存在显著差异。文章建议根据其强项（多模态、OCR）进行应用。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - Google
-products_models:
-  - Gemini 3 Flash
-  - GPT-4 Turbo
-  - Claude 4.5
-  - GPT-4
-media_books: []
 status: evergreen
+summary: 本文深度评测了谷歌最新发布的**Gemini 3 Flash**模型。实测显示，该模型在OCR、视觉理解及成本效益方面表现出色，知识库更新至2025年1月。然而，在复杂编码任务上，尤其是在独立开发iOS应用时，其表现远不如预期，频繁出现错误，与基准测试结果存在显著差异。文章建议根据其强项（多模态、OCR）进行应用。
+tags:
+- llm
+- multimodal-ai
+- ocr
+- performance
+title: 谷歌发布Gemini 3 Flash：OCR能力惊艳，但复杂编码挑战重重
 ---
+
 谷歌在今天凌晨发布了全新的 **Gemini 3 Flash**（Google推出的最新AI模型）模型。目前，我们可以直接在 **Google Studio**（一个用于使用Google AI模型的环境）中使用该模型，并且在谷歌推出的AI编程助手**中**，我们也可以直接使用这款模型。在模型列表中，只需下拉即可找到 **Gemini 3 Flash**。
 
 ### 价格与性能

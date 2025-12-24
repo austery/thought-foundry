@@ -1,54 +1,54 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- DeepSeek
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- LAION
+- Wukong
+- Fox基准
+- OmniDocBench基准
+people:
+- 大飞
+- Andrej Karpathy
+products_models:
+- GPT-4
+- Claude
+- DeepSeek-OCR
+- DeepEncoder
+- DeepSeek3B-MoE-A570M
+- Vary
+- InternVL2.0
+- Qwen2-VL
+- NaViT
+- SAM-base
+- CLIP-large
+- GOT-OCR2.0
+- MinerU2.0
+- PaddleOCR
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=5C5pRcLFKys
 speaker: Best Partners TV
-tags:
-  - ocr-technology
-  - large-language-models
-  - text-compression
-  - deepencoder
-  - moe-architecture
-  - long-context-processing
-title: DeepSeek-OCR：以视觉模态突破大语言模型长文本处理瓶颈
-summary: DeepSeek最新开源的DeepSeek-OCR模型，提出了一种创新方法来解决大语言模型处理长文本的计算量痛点。它通过将文本转化为图像，再压缩为少量视觉token，实现了高达10倍的文本压缩率，同时保持97%的解码精度。文章详细介绍了其核心组件DeepEncoder和MoE解码器的巧妙设计，以及多分辨率支持、全面的数据引擎和分阶段训练策略。DeepSeek-OCR不仅在OCR性能上达到领先水平，更重要的是为未来大语言模型的超长上下文处理、记忆机制模拟和视觉-语言模型协同优化提供了全新思路。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 大飞
-  - Andrej Karpathy
-companies_orgs:
-  - DeepSeek
-products_models:
-  - GPT-4
-  - Claude
-  - DeepSeek-OCR
-  - DeepEncoder
-  - DeepSeek3B-MoE-A570M
-  - Vary
-  - InternVL2.0
-  - Qwen2-VL
-  - NaViT
-  - SAM-base
-  - CLIP-large
-  - GOT-OCR2.0
-  - MinerU2.0
-  - PaddleOCR
-media_books:
-  - LAION
-  - Wukong
-  - Fox基准
-  - OmniDocBench基准
 status: evergreen
+summary: DeepSeek最新开源的DeepSeek-OCR模型，提出了一种创新方法来解决大语言模型处理长文本的计算量痛点。它通过将文本转化为图像，再压缩为少量视觉token，实现了高达10倍的文本压缩率，同时保持97%的解码精度。文章详细介绍了其核心组件DeepEncoder和MoE解码器的巧妙设计，以及多分辨率支持、全面的数据引擎和分阶段训练策略。DeepSeek-OCR不仅在OCR性能上达到领先水平，更重要的是为未来大语言模型的超长上下文处理、记忆机制模拟和视觉-语言模型协同优化提供了全新思路。
+tags:
+- architecture
+- canada
+- code
+- large-language-model
+- long
+- technology
+title: DeepSeek-OCR：以视觉模态突破大语言模型长文本处理瓶颈
 ---
+
 ### 引言：长文本处理的痛点与DeepSeek-OCR的破局之道
 
 在处理几万字的学术论文或电子书时，我们常常会遇到大型语言模型（**LLM**：Large Language Model，一种基于深度学习的语言模型）的两个棘手问题：要么提示序列长度超出上限，要么生成速度慢得让人失去耐心。这背后隐藏着**LLM**的一个根深蒂固的技术痛点：它们的计算量会随着文本序列长度的增加呈平方增长。简单来说，文本长度翻倍，计算量可能要翻四倍，这对硬件资源的消耗是毁灭性的。

@@ -1,78 +1,77 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 中国证券监督管理委员会
+- 国家金融监督管理总局
+- 美联储
+- 瑞银
+- 摩根大通
+- Netflix
+- 华纳兄弟探索
+- Meta
+- 甲骨文
+- SpaceX
+- OpenAI
+- 特斯拉
+- AMD
+- Nvidia
+- Google
+- 万科
+- 深圳地铁
+- 浙江金融资产交易中心
+- 宁波市国有资产监督管理委员会
+- 国信证券
+- 中国民生银行
+- 英特尔
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《彭博社》
+- 《The Information》
+- 《路透社》
+- 《Joe Rogan Experience》
+people:
+- 吴清
+- 植田和男
+- 鲍威尔
+- 哈赛特
+- 珍妮特·耶伦
+- 马克龙
+- Elon Musk
+- 黄仁勋
+- 马克·扎克伯格
+- 凯茜·伍德
+- 唐纳德·特朗普
+- 乔·拜登
+products_models:
+- ChatGPT
+- Gemini
+- Starlink
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=LLXlVgxoSsE
 speaker: 小翠時政財經
-tags:
-  - us-national-security
-  - china-economy
-  - geopolitical-competition
-  - monetary-policy
-  - fiscal-policy
-  - stagflation-risk
-  - ai-industry-trends
-  - market-outlook
-title: 2025年终展望：中美日经济政策与地缘战略深度解析
-summary: 本期节目深入分析了2025年全球主要经济体的最新动态与政策走向。中国股市在政策支持下强势反弹，但房地产风险化解排序下降引发关注。日本经济面临技术性衰退和通胀压力，滞胀风险显现。美国则在财政货币双宽松的预期下，股市展望乐观，同时其国家安全战略报告明确将中国列为主要竞争对手，强调盟友责任和台海问题。节目还探讨了AI产业发展、科技巨头动态及P2P爆雷等社会现象，揭示了全球经济与地缘政治的复杂格局。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 吴清
-  - 植田和男
-  - 鲍威尔
-  - 哈赛特
-  - 珍妮特·耶伦
-  - 马克龙
-  - 马斯克
-  - 黄仁勋
-  - 马克·扎克伯格
-  - 凯茜·伍德
-  - 唐纳德·特朗普
-  - 乔·拜登
-companies_orgs:
-  - 中国证券监督管理委员会
-  - 国家金融监督管理总局
-  - 美联储
-  - 瑞银
-  - 摩根大通
-  - Netflix
-  - 华纳兄弟探索
-  - Meta
-  - 甲骨文
-  - SpaceX
-  - OpenAI
-  - 特斯拉
-  - AMD
-  - 英伟达
-  - 谷歌
-  - 万科
-  - 深圳地铁
-  - 浙江金融资产交易中心
-  - 宁波市国有资产监督管理委员会
-  - 国信证券
-  - 中国民生银行
-  - 英特尔
-products_models:
-  - ChatGPT
-  - Gemini
-  - Starlink
-media_books:
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《The Information》
-  - 《路透社》
-  - 《Joe Rogan Experience》
 status: evergreen
+summary: 本期节目深入分析了2025年全球主要经济体的最新动态与政策走向。中国股市在政策支持下强势反弹，但房地产风险化解排序下降引发关注。日本经济面临技术性衰退和通胀压力，滞胀风险显现。美国则在财政货币双宽松的预期下，股市展望乐观，同时其国家安全战略报告明确将中国列为主要竞争对手，强调盟友责任和台海问题。节目还探讨了AI产业发展、科技巨头动态及P2P爆雷等社会现象，揭示了全球经济与地缘政治的复杂格局。
+tags:
+- china-economy
+- fiscal-policy
+- geopolitical-competition
+- industry
+- market-outlook
+- risk
+- us-national-security
+title: 2025年终展望：中美日经济政策与地缘战略深度解析
 ---
+
 ### 中日美经济动态与政策展望
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月8日。我的身体已经恢复，但声音尚未恢复到最佳状态，请大家多多包涵。

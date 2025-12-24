@@ -1,46 +1,46 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- North West Company
+- Canadian Northern Railway
+- Canadian National Railway
+- Canadian Pacific Railway
+- Fairmont Hotels & Resorts
+- Hudson's Bay Company
+- Stoney Nation
 date: '2023-08-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- River of No Return
+people:
+- Marilyn Monroe
+- Edith Cavell
+- Pierre Bostonais
+- Princess Patricia
+- Queen Victoria
+- King George V
+- Princess Louise
+products_models: []
+project:
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=sezhT4g3SW0
 speaker: 莊也雜談
-tags:
-  - jasper-national-park
-  - canadian-rockies
-  - travel-guide
-  - natural-landscapes
-  - historical-landmarks
-title: 贾斯珀国家公园深度游：仙境湖泊、历史小镇与冰川奇观
-summary: 本期节目将带您深入探索加拿大贾斯珀国家公园的众多魅力景点。从历史悠久的贾斯珀小镇，到令人心旷神怡的玛琳湖与精灵岛，再到神秘莫测的药湖、壮丽的马林峡谷、雄伟的伊迪斯卡维尔山及其冰川，以及适合水上运动的金字塔湖和帕塔里夏湖。节目详细介绍了各景点的历史背景、游玩攻略和独特之处，为您的贾斯珀之旅提供全面指南。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-people:
-  - Marilyn Monroe
-  - Edith Cavell
-  - Pierre Bostonais
-  - Princess Patricia
-  - Queen Victoria
-  - King George V
-  - Princess Louise
-companies_orgs:
-  - North West Company
-  - Canadian Northern Railway
-  - Canadian National Railway
-  - Canadian Pacific Railway
-  - Fairmont Hotels & Resorts
-  - Hudson's Bay Company
-  - Stoney Nation
-products_models: []
-media_books:
-  - River of No Return
 status: evergreen
+summary: 本期节目将带您深入探索加拿大贾斯珀国家公园的众多魅力景点。从历史悠久的贾斯珀小镇，到令人心旷神怡的玛琳湖与精灵岛，再到神秘莫测的药湖、壮丽的马林峡谷、雄伟的伊迪斯卡维尔山及其冰川，以及适合水上运动的金字塔湖和帕塔里夏湖。节目详细介绍了各景点的历史背景、游玩攻略和独特之处，为您的贾斯珀之旅提供全面指南。
+tags:
+- canadian-rocky
+- historical
+- national
+- natural-landscape
+- travel
+title: 贾斯珀国家公园深度游：仙境湖泊、历史小镇与冰川奇观
 ---
+
 ### 贾斯珀国家公园概览与小镇探秘
 
 大家好，我是庄野，欢迎收看庄野杂谈加拿大系列节目。今天虽然外面下着雨，但我们继续讲述**班夫**（Banff: 加拿大落基山脉著名国家公园及小镇）的故事。不过，今天主要介绍的景点与班夫国家公园没有太大关系，而是集中在**贾斯珀**（Jasper: 加拿大落基山脉著名国家公园及小镇）、**优贺**（Yoho: 加拿大落基山脉国家公园）和**库特尼**（Kootenay: 加拿大落基山脉国家公园）这几个公园。今天我们先从贾斯珀开始。

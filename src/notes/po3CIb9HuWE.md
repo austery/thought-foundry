@@ -1,68 +1,67 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Google
+- Oracle
+- IBM
+- PayPal
+- Federal Trade Commission
+- X
+- Microsoft
+- Palantir
+- Anduril
+- Fair Shake
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jacob Silverman
+- Elon Musk
+- Peter Thiel
+- Stuart Brand
+- Marshall McLuhan
+- Steve Jobs
+- Safra Catz
+- Ginni Rometty
+- David Sacks
+- Doug Leone
+- Marc Andreessen
+- Lena Khan
+- Sergey Brin
+- Gil Duran
+- Gavin Newsom
+- Chesa Boudin
+- JD Vance
+- Blake Masters
+- Max Chaffkin
+- Donald Trump
+- Joe Biden
+products_models:
+- 'Gilded Rage: Elon Musk and the Radicalization of Silicon Valley'
+- The Making of Elon Musk
+- Stanford Review
+- Thy Diversity Myth
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=po3CIb9HuWE
 speaker: TVO Today
-tags:
-  - tech-political-influence
-  - silicon-valley-radicalization
-  - unlimited-campaign-spending
-  - charter-cities
-  - anti-dei
-title: 科技亿万富翁如何重塑美国政治？
-summary: 本文深入探讨了美国科技寡头如何利用其巨额财富和影响力，从硅谷的反主流文化根源转向保守主义，进而积极介入美国政治。文章分析了彼得·蒂尔等关键人物的激进化影响，科技精英对地方政治的干预，以及他们通过“网络国家”和“特许城市”寻求主权和规避监管的尝试。同时，也揭示了他们对DEI政策的反对与自身身份认同的讽刺，以及未来可能寻求政府合同并与国家安全机构深度融合的趋势，最终引发了对新闻业和民主未来的担忧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jacob Silverman
-  - Elon Musk
-  - Peter Thiel
-  - Stuart Brand
-  - Marshall McLuhan
-  - Steve Jobs
-  - Safra Catz
-  - Ginni Rometty
-  - David Sacks
-  - Doug Leone
-  - Marc Andreessen
-  - Lena Khan
-  - Sergey Brin
-  - Gil Duran
-  - Gavin Newsom
-  - Chesa Boudin
-  - JD Vance
-  - Blake Masters
-  - Max Chaffkin
-  - Donald Trump
-  - Joe Biden
-companies_orgs:
-  - Google
-  - Oracle
-  - IBM
-  - PayPal
-  - Federal Trade Commission
-  - X
-  - Microsoft
-  - Palantir
-  - Anduril
-  - Fair Shake
-products_models:
-  - 'Gilded Rage: Elon Musk and the Radicalization of Silicon Valley'
-  - The Making of Elon Musk
-  - Stanford Review
-  - Thy Diversity Myth
-media_books: []
 status: evergreen
+summary: 本文深入探讨了美国科技寡头如何利用其巨额财富和影响力，从硅谷的反主流文化根源转向保守主义，进而积极介入美国政治。文章分析了彼得·蒂尔等关键人物的激进化影响，科技精英对地方政治的干预，以及他们通过“网络国家”和“特许城市”寻求主权和规避监管的尝试。同时，也揭示了他们对DEI政策的反对与自身身份认同的讽刺，以及未来可能寻求政府合同并与国家安全机构深度融合的趋势，最终引发了对新闻业和民主未来的担忧。
+tags:
+- anti
+- llm
+- silicon-valley-radicalization
+- society
+- tech-political-influence
+title: 科技亿万富翁如何重塑美国政治？
 ---
+
 ### 科技寡头对美国政治的影响
 
 美国的科技寡头们非常富有，其中许多人也对“**觉醒心智病毒**”（woke mind virus: 指在社会正义和身份政治议题上过度敏感或激进的思潮）、监管和民主感到非常愤怒，他们正在利用其非凡的财富和权力，试图让世界反映他们的愿景。

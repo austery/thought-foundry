@@ -1,42 +1,41 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 超全能診所
+- Cofit
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Cell》期刊
+- 《万万黴想到》
+people:
+- 邓雯心医师
+- 王伟全医师
+- Neil Nathan
+- Dr. Jill Crista
+products_models:
+- 降黴十八香
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=7fXXPLJDhaE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - mold-toxins
-  - chronic-fatigue
-  - brain-fog
-  - environmental-health
-  - detoxification-strategies
-title: 警惕隐形杀手：体内霉菌毒素的危害与排毒策略
-summary: 许多人长期遭受疲劳、过敏、慢性炎症和反复减肥失败的困扰，却可能忽视了一个隐形元凶——霉菌毒素。本文深入探讨了霉菌毒素的来源、如何进入人体、对健康造成的广泛影响（包括癌症、慢性疲劳、脑雾、慢性疼痛等），并提供了居家环境防霉、饮食调整、以及通过检测和“4D排毒疗法”进行干预的全面策略，帮助读者识别并有效清除体内的霉菌毒素。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 邓雯心医师
-  - 王伟全医师
-  - Neil Nathan
-  - Dr. Jill Crista
-companies_orgs:
-  - 初日診所
-  - 超全能診所
-  - Cofit
-products_models:
-  - 降黴十八香
-media_books:
-  - 《Cell》期刊
-  - 《万万黴想到》
 status: evergreen
+summary: 许多人长期遭受疲劳、过敏、慢性炎症和反复减肥失败的困扰，却可能忽视了一个隐形元凶——霉菌毒素。本文深入探讨了霉菌毒素的来源、如何进入人体、对健康造成的广泛影响（包括癌症、慢性疲劳、脑雾、慢性疼痛等），并提供了居家环境防霉、饮食调整、以及通过检测和“4D排毒疗法”进行干预的全面策略，帮助读者识别并有效清除体内的霉菌毒素。
+tags:
+- brain
+- health
+- mold-toxin
+- strategy
+title: 警惕隐形杀手：体内霉菌毒素的危害与排毒策略
 ---
+
 ### 隐藏的健康困扰：霉菌毒素的威胁
 
 嗨，大家好，我是雯心医师。你知道吗？许多人在健康上遇到的困扰，比如疲劳、整天不知道在累什么、一直在过敏、慢性发炎，以及门诊最常见的反复减肥失败，背后可能隐藏着一个重大原因，而你至今可能都还不知道——那就是**霉菌毒素**。为了深入探讨这个专业话题，我特别邀请到了我的好朋友，超全能诊所的王伟全医师来与我们分享。

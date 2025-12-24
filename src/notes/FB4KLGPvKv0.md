@@ -1,59 +1,57 @@
 ---
-author: 课代表立正
+area: society-systems
+category: general
+companies_orgs:
+- YouTube
+- SpaceX
+- Google
+- Amazon
+- Cloudflare
+- Stripe
+- Reddit
+- X
+- TikTok
+- Instagram
+- 微博
+- 新浪
+- 皇家地理协会
+- WeWork
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Eric
+- Naval Ravikant
+- Elon Musk
+- 李佳琦
+products_models:
+- 'Cities: Skylines'
+- Countryball
+- Python
+- C
+- Gemini
+- Google Maps
+- Apple Maps
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=FB4KLGPvKv0
 speaker: 课代表立正
-tags:
-  - ai-impact-on-jobs
-  - future-education
-  - capital-strategy
-  - talent-identification
-  - social-connectivity
-title: 微博VP谈AI时代育儿：培养下一代的核心竞争力与资本思维
-summary: 一位资深互联网高管兼AI投资人，分享了在AI时代背景下，如何培养下一代应对未来挑战的独到见解。他强调了发现并发展孩子天赋的重要性，如地理特长和编程思维，并探讨了在白领技能面临淘汰、贫富差距日益扩大的趋势下，资本积累、建立有效连接以及成为专业人士的策略。文章还深入分析了AI对未来职业市场、社会结构和社交网络进化的影响，为家长提供了前瞻性的育儿和职业规划思路。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - investment-strategy
-people:
-  - Eric
-  - Naval Ravikant
-  - Elon Musk
-  - 李佳琦
-  - 课代表立正
-companies_orgs:
-  - YouTube
-  - SpaceX
-  - Google
-  - Amazon
-  - Cloudflare
-  - Stripe
-  - Reddit
-  - X
-  - TikTok
-  - Instagram
-  - 微博
-  - 新浪
-  - 皇家地理协会
-  - WeWork
-products_models:
-  - 'Cities: Skylines'
-  - Countryball
-  - Python
-  - C
-  - Gemini
-  - Google Maps
-  - Apple Maps
-media_books: []
 status: evergreen
+summary: 一位资深互联网高管兼AI投资人，分享了在AI时代背景下，如何培养下一代应对未来挑战的独到见解。他强调了发现并发展孩子天赋的重要性，如地理特长和编程思维，并探讨了在白领技能面临淘汰、贫富差距日益扩大的趋势下，资本积累、建立有效连接以及成为专业人士的策略。文章还深入分析了AI对未来职业市场、社会结构和社交网络进化的影响，为家长提供了前瞻性的育儿和职业规划思路。
+tags:
+- ai-impact-on-job
+- education
+- social
+- strategy
+- talent
+title: 微博VP谈AI时代育儿：培养下一代的核心竞争力与资本思维
 ---
+
 ### 发现并培养孩子的天赋特长
 
 我的大儿子Eric今年17岁，正在读11年级。最近他因为期末成绩有两门不理想，可能会影响大学申请，被他妈妈责骂了一顿。对他妈妈来说，成绩很重要，但我更看重他是否尽力而为。有些机会，比如申请藤校，即使机会渺茫，也值得一试。Eric虽然成绩不突出，但他有一个天生的特长——地理特别好。我也不知道为什么，我也没教过他，但他对地理的感知、画地图（map）这些东西就是很擅长。

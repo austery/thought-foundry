@@ -1,74 +1,73 @@
 ---
-author: LT視界
+area: society-systems
+category: politics-society
+companies_orgs:
+- Apple
+- FBI
+- White House
+- 中国外交部
+- 中央电视台
+- 新华社
+- 解放军报
+- 德国之声
+- Reuters
+- Financial Times
+- 韩联社
+- 美国疾控中心
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《路透社》
+- 《美联社》
+- 《牛弹琴》
+- 《德国之声》
+- 《韩联社》
+people:
+- Tim Cook
+- John Ternus
+- Steve Jobs
+- Elon Musk
+- Donald Trump
+- Marjorie Taylor Greene
+- Kathy Hochul
+- Mandani
+- Peter Thiel
+- J.D. Vance
+- Mark Zuckerberg
+- Sheryl Sandberg
+- Francis Fukuyama
+- Hillary Clinton
+- Barack Obama
+- 高市早苗
+- 孙卫东
+- Xi Jinping
+- Nancy Pelosi
+- 李在民
+- 胡锡进
+products_models:
+- iPhone
+- Apple Car
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=i6Z-U233qqk
 speaker: LT視界
-tags:
-  - us-politics
-  - geopolitical-tensions
-  - socialism-in-us
-  - generational-shift
-  - media-propaganda
-title: 苹果库克继任计划、川普与格林决裂、纽约市长曼达尼的社会主义挑战及中日冲突升级
-summary: 本文深入探讨了多项国际与国内热点事件：苹果公司CEO库克继任计划的推进及其面临的创新挑战；美国前总统川普与共和党众议员马乔丽·泰勒·格林公开决裂的政治影响；纽约市长曼达尼“全民托育”政见的现实困境与美国社会对社会主义思潮的反思；以及中日关系因日本高官涉台言论而急剧升温，中国官方媒体言辞激烈，解放军表态，引发国际社会关注。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Tim Cook
-  - John Ternus
-  - Steve Jobs
-  - Elon Musk
-  - Donald Trump
-  - Marjorie Taylor Greene
-  - Kathy Hochul
-  - Mandani
-  - Peter Thiel
-  - J.D. Vance
-  - Mark Zuckerberg
-  - Sheryl Sandberg
-  - Francis Fukuyama
-  - Hillary Clinton
-  - Barack Obama
-  - 高市早苗
-  - 孙卫东
-  - 习近平
-  - Nancy Pelosi
-  - 李在民
-  - 胡锡进
-companies_orgs:
-  - Apple
-  - FBI
-  - White House
-  - 中国外交部
-  - 中央电视台
-  - 新华社
-  - 解放军报
-  - 德国之声
-  - Reuters
-  - Financial Times
-  - 韩联社
-  - 美国疾控中心
-products_models:
-  - iPhone
-  - Apple Car
-media_books:
-  - 《金融时报》
-  - 《路透社》
-  - 《美联社》
-  - 《牛弹琴》
-  - 《德国之声》
-  - 《韩联社》
 status: evergreen
+summary: 本文深入探讨了多项国际与国内热点事件：苹果公司CEO库克继任计划的推进及其面临的创新挑战；美国前总统川普与共和党众议员马乔丽·泰勒·格林公开决裂的政治影响；纽约市长曼达尼“全民托育”政见的现实困境与美国社会对社会主义思潮的反思；以及中日关系因日本高官涉台言论而急剧升温，中国官方媒体言辞激烈，解放军表态，引发国际社会关注。
+tags:
+- geopolitical-tension
+- media
+- shift
+- society
+title: 苹果库克继任计划、川普与格林决裂、纽约市长曼达尼的社会主义挑战及中日冲突升级
 ---
+
 ### 财经头条：苹果CEO库克继任计划浮出水面
 
 今天，英国《金融时报》的一篇报道在国际财经界引起了广泛议论，标题为“苹果推进了执行长库克的继任计划”，预示着苹果公司即将更换领导人。报道指出，苹果公司董事会正加紧规划库克的继任者工作，准备让蒂姆·库克在明年辞去这家科技巨头的执行长一职。《金融时报》援引几位熟悉情况的人士的话说，负责苹果硬件工程的高级副总裁约翰·特努斯被广泛认为是库克最有可能的继承者。苹果公司内部讨论人士透露，其董事会和高阶管理人员最近加强了为库克在任14年后交出执行长的准备工作。该报道还宣称，苹果不太可能在1月下旬下一个财报之前任命新的执行长，这意味着库克最早也要在明年二季度下台。库克于2011年成为执行长，此前传奇的苹果创始人史蒂夫·乔布斯辞职。

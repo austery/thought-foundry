@@ -1,58 +1,59 @@
 ---
-author: Norges Bank Investment Management
+area: tech-insights
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- IBM
+- Dell Computer Corporation
+- Dell Technologies
+- FedEx
+- EMC
+- VMware
+- MSD Capital
+- BDT
+- Goldman Sachs
 date: '2024-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Play Nice But Win
+people:
+- Nicola Tangan
+- Michael Dell
+- Fred Smith
+- Charles Schwab
+- Bill Gates
+- Steve Jobs
+- Sam Altman
+- Greg Lemkau
+- Byron Trott
+products_models:
+- IBM PC
+- PC
+- CPU
+- GPU
+- NPU
+project:
+- entrepreneurship
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=dG1WSP72mnY
 speaker: Norges Bank Investment Management
-tags:
-  - entrepreneurial-mindset
-  - supply-chain-innovation
-  - ai-development
-  - corporate-transformation
-  - risk-taking
-title: 戴尔创始人迈克尔·戴尔：从宿舍创业到科技巨头，以及他对AI和未来的看法
-summary: 戴尔公司创始人迈克尔·戴尔在播客中回顾了其从大学宿舍创业，将戴尔打造成全球领先科技巨头的非凡历程。他分享了早期拆解IBM PC的经历如何启发了他对直销模式和供应链效率的洞察，以及戴尔如何通过私有化和大规模收购（如EMC）实现战略转型。戴尔还深入探讨了人工智能（AI）的爆发式发展及其对企业和个人电脑（AI PC）的深远影响，并分享了他对领导力、企业文化和未来科技趋势的独特见解。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - entrepreneurship
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Nicola Tangan
-  - Michael Dell
-  - Fred Smith
-  - Charles Schwab
-  - Bill Gates
-  - Steve Jobs
-  - Sam Altman
-  - Greg Lemkau
-  - Byron Trott
-companies_orgs:
-  - Norges Bank Investment Management
-  - IBM
-  - Dell Computer Corporation
-  - Dell Technologies
-  - FedEx
-  - EMC
-  - VMware
-  - MSD Capital
-  - BDT
-  - Goldman Sachs
-products_models:
-  - IBM PC
-  - PC
-  - CPU
-  - GPU
-  - NPU
-media_books:
-  - Play Nice But Win
 status: evergreen
+summary: 戴尔公司创始人迈克尔·戴尔在播客中回顾了其从大学宿舍创业，将戴尔打造成全球领先科技巨头的非凡历程。他分享了早期拆解IBM PC的经历如何启发了他对直销模式和供应链效率的洞察，以及戴尔如何通过私有化和大规模收购（如EMC）实现战略转型。戴尔还深入探讨了人工智能（AI）的爆发式发展及其对企业和个人电脑（AI
+  PC）的深远影响，并分享了他对领导力、企业文化和未来科技趋势的独特见解。
+tags:
+- ai-development
+- corporate
+- entrepreneurial-mindset
+- risk-taking
+- supply-chain-innovation
+title: 戴尔创始人迈克尔·戴尔：从宿舍创业到科技巨头，以及他对AI和未来的看法
 ---
+
 ### 戴尔的创业之路：从好奇心到商业洞察
 
 **Nicola Tangan:** 大家好，我是Nicola Tangan。

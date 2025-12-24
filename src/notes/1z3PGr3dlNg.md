@@ -1,60 +1,59 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bilibili
+- Vietnamese People's Army
+- Khmer Rouge
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《芳华》
+- 《高山下的花环》
+- 《铁甲008》
+- 《十五的月亮》
+- 《他们真年轻》
+- 《血染的风采》
+- 《小花》
+people:
+- Deng Xiaoping
+- Ho Chi Minh
+- Mao Zedong
+- Liu Shaoqi
+- Zhou Enlai
+- Li Fuchun
+- Nie Rongzhen
+- Fan Wenzhen
+- Vo Nguyen Giap
+- Le Duan
+- Richard Nixon
+- Jimmy Carter
+- Zbigniew Brzezinski
+- Xu Shiyou
+- Yang Dezhi
+- Wang Bicheng
+- Zhou Deli
+- Li Qilin
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1z3PGr3dlNg
 speaker: 记者易速利
-tags:
-  - sino-vietnamese-war
-  - veteran-affairs
-  - geopolitical-strategy
-  - war-reflection
-  - social-justice
-title: 《芳华》：触碰禁忌的战争反思与老兵困境
-summary: 本文深入探讨电影《芳华》如何以艺术形式触及中国社会对1979年对越自卫反击战的禁忌话题。文章分析了战争背后的地缘政治考量、士兵付出的巨大生命代价，以及伤残老兵在战后未能得到妥善安置的现实困境。通过回顾历史细节与国际反应，揭示了这场被‘冰冻’的战争及其对当下社会公平期待的启示。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Deng Xiaoping
-  - Ho Chi Minh
-  - Mao Zedong
-  - Liu Shaoqi
-  - Zhou Enlai
-  - Li Fuchun
-  - Nie Rongzhen
-  - Fan Wenzhen
-  - Vo Nguyen Giap
-  - Le Duan
-  - Richard Nixon
-  - Jimmy Carter
-  - Zbigniew Brzezinski
-  - Xu Shiyou
-  - Yang Dezhi
-  - Wang Bicheng
-  - Zhou Deli
-  - Li Qilin
-companies_orgs:
-  - Bilibili
-  - Vietnamese People's Army
-  - Khmer Rouge
-products_models: []
-media_books:
-  - 《芳华》
-  - 《高山下的花环》
-  - 《铁甲008》
-  - 《十五的月亮》
-  - 《他们真年轻》
-  - 《血染的风采》
-  - 《小花》
 status: evergreen
+summary: 本文深入探讨电影《芳华》如何以艺术形式触及中国社会对1979年对越自卫反击战的禁忌话题。文章分析了战争背后的地缘政治考量、士兵付出的巨大生命代价，以及伤残老兵在战后未能得到妥善安置的现实困境。通过回顾历史细节与国际反应，揭示了这场被‘冰冻’的战争及其对当下社会公平期待的启示。
+tags:
+- geopolitical-strategy
+- llm
+- social-justice
+- war
+title: 《芳华》：触碰禁忌的战争反思与老兵困境
 ---
+
 ### 《芳华》的社会回响与时代焦虑
 
 电影《芳华》成为热门话题是一件大好事。将自己对时代焦虑的情绪投射到一部8年前的文艺作品上，这种解读方式既可能源于对当下现实的不满，也可能来自于对过去黄金时代的想象。这种对电影的极端解读，往往超越了仔细辨析文本的程度，而是将其置于显微镜下观察。电影的创作者冯小刚和严歌苓，意图打造一个理智与情感的容器，希望为观众提供怀旧回忆后冷静反思的机会。然而，部分观众却向这个容器中倾倒了大量对社会不公的愤懑。

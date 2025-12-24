@@ -1,55 +1,54 @@
 ---
-author: 美投讲美股
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Apple
+- Brown Brothers Harriman
+- Quantum Fund
+- Key Square
+- White House
+- Bloomberg
 date: '2025-05-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Scott Bessent
+- Jerome Powell
+- Jim Rogers
+- George Soros
+- Steven Mnuchin
+- Peter Navarro
+- Elon Musk
+- Shinzo Abe
+- Joe Biden
+- John F. Kennedy
+- Lyndon B. Johnson
+- Richard Nixon
+- Barack Obama
+- Ronald Reagan
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=WQzDNXu48Xc
 speaker: 美投讲美股
-tags:
-  - us-economic-policy
-  - trade-tariffs
-  - us-dollar-strength
-  - political-influence
-  - financial-markets
-title: 贝森特：从华尔街精英到白宫二号人物，他如何左右川普与美股？
-summary: 本文深入探讨美国财长贝森特从华尔街精英到白宫二号实权人物的崛起之路。他以务实、理性的经济政策理念，成功影响川普的重大决策，包括贸易关税和美联储政策。文章详细解析贝森特的个人履历、其“小政府经济”和“战略脱钩”等核心执政理念，以及这些理念对未来四年美股走势的深远影响，为投资者提供可预期的政策分析。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Scott Bessent
-  - Jerome Powell
-  - Jim Rogers
-  - George Soros
-  - Steven Mnuchin
-  - Peter Navarro
-  - Elon Musk
-  - Shinzo Abe
-  - Joe Biden
-  - John F. Kennedy
-  - Lyndon B. Johnson
-  - Richard Nixon
-  - Barack Obama
-  - Ronald Reagan
-companies_orgs:
-  - Federal Reserve
-  - Apple
-  - Brown Brothers Harriman
-  - Quantum Fund
-  - Key Square
-  - White House
-  - Bloomberg
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨美国财长贝森特从华尔街精英到白宫二号实权人物的崛起之路。他以务实、理性的经济政策理念，成功影响川普的重大决策，包括贸易关税和美联储政策。文章详细解析贝森特的个人履历、其“小政府经济”和“战略脱钩”等核心执政理念，以及这些理念对未来四年美股走势的深远影响，为投资者提供可预期的政策分析。
+tags:
+- financial-market
+- geopolitical
+- political-influence
+- trade-tariff
+- us-economic-policy
+title: 贝森特：从华尔街精英到白宫二号人物，他如何左右川普与美股？
 ---
+
 ### 贝森特：白宫的幕后推手
 
 谁是当今金融市场上最重要的男人？多数人的第一反应可能是**唐纳德·川普**（Donald Trump）。确实，川普的一言一行都在左右着金融市场的走势。然而，有这么一个人，他却左右着川普的决策：是他曾说服川普暂停“**解放日**”（指代2024年4月2日川普政府公布激进对等关税政策引发市场动荡的时期）的激进关税；是他拉住了川普，使其绝不能威胁**美联储**（Federal Reserve: 美国中央银行系统）主席**杰罗姆·鲍威尔**（Jerome Powell）；是他让川普豁免了中国的电子商品关税，救了**苹果**（Apple）一命；也是他主导了中美之间的谈判，暂时缓解了两国在贸易上的紧张关系。

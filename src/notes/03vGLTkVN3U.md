@@ -1,67 +1,66 @@
 ---
-author: LT視界
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- NVIDIA
+- OpenAI
+- Meta
+- Microsoft
+- Amazon
+- CNBC
+- FBI
+- Polymarket
+- London School of Economics
+- Harvard University
+- Asian Infrastructure Investment Bank
+- European Union
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+- CNBC
+- Reuters
+- Bloomberg
+- The Harvard Crimson
+- 《新的中国战略手册》
+people:
+- Larry Summers
+- Jin Keyu
+- Jin Liqun
+- Donald Trump
+- Joe Biden
+- Emmanuel Macron
+- Volodymyr Zelenskyy
+- Elizabeth Warren
+- Mike Johnson
+- Pete Hogseth
+- Driscoll
+- Mao Ning
+- Sanae Takaichi
+products_models:
+- ChatGPT
+- Rafale
+- Army Tactical Missile System
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=03vGLTkVN3U
 speaker: LT視界
-tags:
-  - ai-employment-impact
-  - us-china-trade
-  - geopolitical-tensions
-  - political-scandals
-  - monetary-policy
-title: 英伟达财报揭示AI时代焦虑，爱泼斯坦文件牵出中共身影：全球经济与地缘政治新观察
-summary: 本期节目聚焦全球经济与地缘政治热点。英伟达财报揭示AI时代就业焦虑，英国降息预期影响美联储决策。乌克兰战争方面，特朗普重启军援并尝试和谈，法乌战机采购面临资金困境。美国商务部长雷蒙多预判特朗普关税政策难以取消，凸显中美关系复杂性。爱泼斯坦文件意外牵涉中共高层家庭成员，引发舆论哗然。节目最后分析了中日冲突升级的多个层面，描绘了当前国际局势的复杂与挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Larry Summers
-  - Jin Keyu
-  - Jin Liqun
-  - Donald Trump
-  - Joe Biden
-  - Emmanuel Macron
-  - Volodymyr Zelenskyy
-  - Elizabeth Warren
-  - Mike Johnson
-  - Pete Hogseth
-  - Driscoll
-  - Mao Ning
-  - Sanae Takaichi
-companies_orgs:
-  - NVIDIA
-  - OpenAI
-  - Facebook
-  - Microsoft
-  - Amazon
-  - CNBC
-  - FBI
-  - Polymarket
-  - London School of Economics
-  - Harvard University
-  - Asian Infrastructure Investment Bank
-  - European Union
-products_models:
-  - ChatGPT
-  - Rafale
-  - Army Tactical Missile System
-media_books:
-  - The Wall Street Journal
-  - CNBC
-  - Reuters
-  - Bloomberg
-  - The Harvard Crimson
-  - 《新的中国战略手册》
 status: evergreen
+summary: 本期节目聚焦全球经济与地缘政治热点。英伟达财报揭示AI时代就业焦虑，英国降息预期影响美联储决策。乌克兰战争方面，特朗普重启军援并尝试和谈，法乌战机采购面临资金困境。美国商务部长雷蒙多预判特朗普关税政策难以取消，凸显中美关系复杂性。爱泼斯坦文件意外牵涉中共高层家庭成员，引发舆论哗然。节目最后分析了中日冲突升级的多个层面，描绘了当前国际局势的复杂与挑战。
+tags:
+- geopolitical-tension
+- impact
+- political-scandal
+- us-china-relations
+title: 英伟达财报揭示AI时代焦虑，爱泼斯坦文件牵出中共身影：全球经济与地缘政治新观察
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月19日，我们首先来了解今天的财经头条。
 
 ### 全球财经焦点：英伟达财报、AI焦虑与英国降息预期

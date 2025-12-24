@@ -1,30 +1,25 @@
 ---
-title: Couch Potato Portfolio：平衡风险与回报的指数基金投资策略
-summary: 本文深入探讨了Couch Potato Portfolio，一种旨在平衡风险与回报的懒人指数投资策略。它通过股票与债券的平衡配置和定期再平衡，帮助投资者克服人性弱点，实现长期稳定增长。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-tags:
-  - asset-allocation
-  - couch-potato-portfolio
-  - index-investing
-  - passive-investing
-  - rebalancing
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-11-07'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=c3eiLNETGM8
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入探讨了Couch Potato Portfolio，一种旨在平衡风险与回报的懒人指数投资策略。它通过股票与债券的平衡配置和定期再平衡，帮助投资者克服人性弱点，实现长期稳定增长。
+tags:
+- asset-allocation
+- investing
+- investment
+title: Couch Potato Portfolio：平衡风险与回报的指数基金投资策略
 ---
 
 ### 指数投资的多元选择与“沙发土豆”策略

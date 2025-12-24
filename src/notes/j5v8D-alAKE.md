@@ -1,56 +1,55 @@
 ---
-author: Veritasium
-date: '2021-03-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=j5v8D-alAKE
-speaker: Veritasium
-tags:
-  - veritasium
-  - planned-obsolescence
-  - phoebus-cartel
-  - right-to-repair
-  - consumerism
-  - business-strategy
-title: 揭秘百年阴谋：从灯泡到iPhone，计划性报废如何塑造我们的消费世界
-summary: 本文深入探讨了“计划性报废”这一商业策略的百年历史。从1924年灯泡制造商组成的“菲比斯卡特尔”刻意缩短产品寿命，到苹果公司通过软件更新限制旧设备性能，再到通用汽车通过“动态报废”推动汽车年年换新，揭示了企业如何通过缩短产品寿命和制造审美过时来驱动消费。文章还讨论了“维修权”运动的兴起，以及技术进步（如LED灯）如何挑战了这一模式，最终反思了消费主义的深层逻辑。
-insight: ''
-draft: true
-series: ''
-category: business
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Bernard London
-  - Casey Neistat
-  - Harley Earl
-  - Henry Ford
-  - Warren De la Rue
-  - Thomas Edison
+category: business
 companies_orgs:
-  - NordVPN
-  - Apple
-  - General Motors
-  - DuPont
-  - Phillips
-  - International General Electric
-  - Tokyo Electric
-  - OSRAM
-  - Associated Electric
-products_models:
-  - iPhone
-  - iPod
-  - Model T
-  - LED
-  - compact fluorescent
-  - incandescent light bulb
+- NordVPN
+- Apple
+- General Motors
+- DuPont
+- Phillips
+- International General Electric
+- Tokyo Electric
+- OSRAM
+- Associated Electric
+date: '2021-03-26'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - QI
-  - The Man in the White Suit
+- QI
+- The Man in the White Suit
+people:
+- Bernard London
+- Casey Neistat
+- Harley Earl
+- Henry Ford
+- Warren De la Rue
+- Thomas Edison
+products_models:
+- iPhone
+- iPod
+- Model T
+- LED
+- compact fluorescent
+- incandescent light bulb
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=j5v8D-alAKE
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了“计划性报废”这一商业策略的百年历史。从1924年灯泡制造商组成的“菲比斯卡特尔”刻意缩短产品寿命，到苹果公司通过软件更新限制旧设备性能，再到通用汽车通过“动态报废”推动汽车年年换新，揭示了企业如何通过缩短产品寿命和制造审美过时来驱动消费。文章还讨论了“维修权”运动的兴起，以及技术进步（如LED灯）如何挑战了这一模式，最终反思了消费主义的深层逻辑。
+tags:
+- business-strategy
+- consumerism
+- geopolitical
+- planned-obsolescence
+- right
+title: 揭秘百年阴谋：从灯泡到iPhone，计划性报废如何塑造我们的消费世界
 ---
+
 ### 灯泡的百年之谜与“永恒产品”的困境
 
 这是一个关于汽车、手机和灯泡，以及一个真实阴谋如何让它们变得更糟的视频。

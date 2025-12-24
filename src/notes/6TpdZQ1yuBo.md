@@ -1,38 +1,38 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 世界自然基金会
+- 黄海水产研究所
+- 韩华道达尔
 date: '2024-12-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《周易》
+people:
+- 付军胜
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=6TpdZQ1yuBo
 speaker: 一席YiXi
-tags:
-  - plastic-pollution
-  - consumer-culture
-  - urbanization-impact
-  - cultural-memory
-  - ecological-interdependence
-title: 在海滩上捡了800多只拖鞋：一位艺术家对海洋污染与文明的沉思
-summary: 青年艺术家付军胜通过长期收集和艺术化处理海滩漂浮物，揭示塑料污染、生态破坏与人类文明的深层关联。他以拖鞋、包装袋、废弃玩具为媒介，反思消费主义、城市化与自然的断裂，并尝试用中国五行哲学重构人与自然的关系。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - systems-thinking
-people:
-  - 付军胜
-companies_orgs:
-  - 世界自然基金会
-  - 黄海水产研究所
-  - 韩华道达尔
-products_models: []
-media_books:
-  - 《周易》
 status: evergreen
+summary: 青年艺术家付军胜通过长期收集和艺术化处理海滩漂浮物，揭示塑料污染、生态破坏与人类文明的深层关联。他以拖鞋、包装袋、废弃玩具为媒介，反思消费主义、城市化与自然的断裂，并尝试用中国五行哲学重构人与自然的关系。
+tags:
+- cultural
+- culture
+- environment
+- impact
+- philosophy
+title: 在海滩上捡了800多只拖鞋：一位艺术家对海洋污染与文明的沉思
 ---
+
 ### 漂浮物中的时间与文明
 
 大家好，我叫付军胜，是一位来自山东烟台的青年艺术家。近八年来，我一直生活在家乡的海岛上进行创作。我们的故事，从一个塑料袋开始。

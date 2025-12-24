@@ -1,43 +1,42 @@
 ---
-author: 政經孫老師
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Microsoft
+- Google
+- Gallup
+- MIT
 date: '2025-09-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《美國經濟季刊》
+- 《中國不承認的地下經濟》
+- 新華網
+- 搜狐新聞
+people:
+- Goddard
+products_models:
+- S&P 500
+project:
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=J31TiOvG3bI
 speaker: 政經孫老師
-tags:
-  - middle-class-crisis
-  - ai-job-displacement
-  - asset-depreciation
-  - low-end-services
-  - underground-economy
-title: 中產破產潮：全球與中國白領階層的未來出路分析
-summary: 本文深入分析全球及中國白領中產階層面臨的破產危機。探討人工智慧對就業的衝擊、資產貶值（股市與房市），並對比美國與中國中產的處境。文章指出，中國中產面臨更嚴峻挑戰，最終出路可能指向低端服務業或地下經濟。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-people:
-  - Goddard
-companies_orgs:
-  - Microsoft
-  - Google
-  - Gallup
-  - MIT
-products_models:
-  - S&P 500
-media_books:
-  - 《美國經濟季刊》
-  - 《中國不承認的地下經濟》
-  - 新華網
-  - 搜狐新聞
 status: evergreen
-
+summary: 本文深入分析全球及中國白領中產階層面臨的破產危機。探討人工智慧對就業的衝擊、資產貶值（股市與房市），並對比美國與中國中產的處境。文章指出，中國中產面臨更嚴峻挑戰，最終出路可能指向低端服務業或地下經濟。
+tags:
+- ai-job-displacement
+- asset
+- crisis
+- economy
+- low-end-service
+title: 中產破產潮：全球與中國白領階層的未來出路分析
 ---
+
 今天我們來談談白領中產的問題。這個問題分成兩部分來說：第一是全球普遍的情況，第二是中國特殊的情況。
 
 ### 全球白領中產的普遍困境

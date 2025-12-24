@@ -1,31 +1,28 @@
 ---
-title: 美国法定准备金率的兴衰：为何被废除及货币乘数理论的过时
-summary: 本文深入探讨美国法定准备金率从诞生到废除的历史，揭示其在提供流动性、调节信贷和控制货币总量三大使命上的失败，并解释了为何货币乘数理论早已不适用于现代货币体系。
 area: market-analysis
 category: geopolitics
-project:
-  - historical-insights
-  - us-analysis
-tags:
-  - banking-history
-  - federal-reserve
-  - money-multiplier
-  - reserve-requirements
-  - us-monetary-policy
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-09-02'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- historical-insights
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=dKH_GDa0Rac
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入探讨美国法定准备金率从诞生到废除的历史，揭示其在提供流动性、调节信贷和控制货币总量三大使命上的失败，并解释了为何货币乘数理论早已不适用于现代货币体系。
+tags:
+- federal-reserve
+- history
+- investment
+- society
+- us-monetary-policy
+title: 美国法定准备金率的兴衰：为何被废除及货币乘数理论的过时
 ---
 
 ### 美联储货币政策与华人对准备金率的困惑

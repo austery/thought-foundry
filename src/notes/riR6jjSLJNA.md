@@ -1,33 +1,32 @@
 ---
-author: 柴静 Chai Jing
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 香港保安局
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李先生
+- 何伟豪
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=riR6jjSLJNA
 speaker: 柴静 Chai Jing
-tags:
-  - fire-disaster
-  - survival-story
-  - accountability
-  - loss-grief
-  - community-support
-title: 香港大火幸存者口述实录：追问‘为什么’与绝境求生
-summary: 香港宏福苑大火幸存者李先生讲述火场逃生经历，质疑消防系统失灵，并深切怀念失联邻居。他呼吁追究责任，为逝者讨回公道，反思生命意义。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project: []
-people:
-  - 李先生
-  - 何伟豪
-companies_orgs:
-  - 香港保安局
-products_models: []
-media_books: []
 status: evergreen
+summary: 香港宏福苑大火幸存者李先生讲述火场逃生经历，质疑消防系统失灵，并深切怀念失联邻居。他呼吁追究责任，为逝者讨回公道，反思生命意义。
+tags:
+- accountability
+- community-support
+- environment
+- loss
+- survival-story
+title: 香港大火幸存者口述实录：追问‘为什么’与绝境求生
 ---
+
 ### 起火与求生
 11月26日，香港发生严重火灾。截至我录制本节目时，死亡人数已接近150人，且数字仍在上升。今天，我要采访的是这场火灾的幸存者**李先生**。他在火海浓烟中被围困，拍摄了记录，并在冒险拯救两位年长邻居后一同逃生。他既是充满人性的故事叙述者，也是这场重大灾难现场的目击证人。事发当天下午2点51分，火灾发生在**宏福苑**（应为宏昌阁）。当路人报警时，李先生正身处同一栋建筑的二楼，离火源很近。三分钟后，楼内有人闻到烟味。他按响了警铃，但并未响起，只能拍门提醒邻居离开。到3点钟，整个走廊已是浓烟弥漫，能见度极低。此时，李先生才收到浓烟的警告——他带着孩子在外的妻子打来电话，转述邻居模糊的话：“着火了，快离开家！”
 

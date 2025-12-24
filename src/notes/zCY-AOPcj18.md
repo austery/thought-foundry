@@ -5,18 +5,17 @@ area: null
 category: null
 project: []
 tags:
-- covid-19-impact
-- democracy-crisis
-- global-governance
-- low-human-rights-advantage
+- crisis
+- global
+- human
+- impact
 people:
-  - qin-hui
-  - 李厚辰
-  - 伍雷
-  - 秦晖
+- qin-hui
+- 李厚辰
+- 伍雷
+- 秦晖
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-25
 author: Lei
 speaker: 三個水槍手
@@ -28,6 +27,7 @@ series: null
 source: https://www.youtube.com/watch?v=zCY-AOPcj18
 status: evergreen
 ---
+
 ### 引言：后疫情时代的民主危机
 
 李厚辰: 今天特别荣幸，我们能够邀请到秦晖老师。所以这期呢，也是“三个水枪手”和“秦川雁塔”的一次合作，希望能开启我们长期合作的序幕。

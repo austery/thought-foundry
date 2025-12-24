@@ -1,52 +1,51 @@
 ---
-author: 柴静 Chai Jing
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 美国国务院
+- 美国驻成都总领馆
+- 中国驻休斯顿总领馆
+- 美国CIA
+- 民进党
+- 中央电视台
 date: '2024-05-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《我爱你中国》
+- 《华尔街日报》
+- 《餐桌上的人类》
+people:
+- 庄祖宜
+- 林结伟
+- 柴静
+- 陈涛
+- 特朗普
+- 方方
+- 李宗盛
+- 白瑞文
+- Margarita
+- 赵老师
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=JnD8fpdFSSk
 speaker: 柴静 Chai Jing
-tags:
-  - us-china-relations
-  - diplomatic-tensions
-  - online-harassment
-  - political-polarization
-  - identity-crisis
-title: 庄祖宜：中美领馆风波中的个人困境与人性反思——“被两方夹攻时我对世界特别绝望”
-summary: 美国前驻成都总领事夫人庄祖宜在沉寂四年后，首次接受采访，回顾中美互撤领馆风波中她所遭受的政治批判、人身威胁和网络暴力。她曾因热爱中国文化而在社交媒体上广受欢迎，却在政治紧张时期成为两方攻击的靶子，被指控为间谍、遭受性别羞辱。庄祖宜分享了她的绝望、挣扎与疗愈过程，并反思了民族主义情绪、网络谣言对个体造成的巨大伤害，以及在复杂世界中如何自处。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - 庄祖宜
-  - 林结伟
-  - 柴静
-  - 陈涛
-  - 特朗普
-  - 方方
-  - 李宗盛
-  - 白瑞文
-  - Margarita
-  - 赵老师
-companies_orgs:
-  - 美国国务院
-  - 美国驻成都总领馆
-  - 中国驻休斯顿总领馆
-  - 美国CIA
-  - 民进党
-  - 中央电视台
-products_models: []
-media_books:
-  - 《我爱你中国》
-  - 《华尔街日报》
-  - 《餐桌上的人类》
 status: evergreen
+summary: 美国前驻成都总领事夫人庄祖宜在沉寂四年后，首次接受采访，回顾中美互撤领馆风波中她所遭受的政治批判、人身威胁和网络暴力。她曾因热爱中国文化而在社交媒体上广受欢迎，却在政治紧张时期成为两方攻击的靶子，被指控为间谍、遭受性别羞辱。庄祖宜分享了她的绝望、挣扎与疗愈过程，并反思了民族主义情绪、网络谣言对个体造成的巨大伤害，以及在复杂世界中如何自处。
+tags:
+- crisis
+- diplomatic-tension
+- online
+- us-china-relations
+title: 庄祖宜：中美领馆风波中的个人困境与人性反思——“被两方夹攻时我对世界特别绝望”
 ---
+
 ### 沉寂四年后的首次发声：中美风波中的个人困境
 
 今天节目中，我们访谈的是庄祖宜，她是美国驻中国成都最后一任总领事林结伟的妻子。庄祖宜曾是在中国知名度最高的外交官夫人，她在中国的社交媒体上发表关于美食、音乐和家庭生活的帖子，在微博中拥有将近60万粉丝。然而，在四年前中国和美国互撤领事馆的政治风波中，庄祖宜受到来自不同政治阵营的批判，其中包括了人身威胁和严重的性别羞辱。此后四年，她保持沉默，再也没有更新过微博。

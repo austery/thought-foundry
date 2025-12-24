@@ -1,69 +1,69 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 人道中国
+- 劳改基金
+- 秋雨圣约教会
+- 方舟教会
+- 守望教会
+- 西安教会
+- 信友堂教会
+- 主佑中华团契
+- 波兰团结工会
 date: '2025-07-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《和平非暴力》
+- 《1987》
+- 《圣经》
+people:
+- 周峰锁
+- 刘晓波
+- 耶稣基督
+- 马丁·路德·金
+- 圣雄甘地
+- 约翰·保罗二世
+- 邓小平
+- 胡平
+- 梭罗
+- 列夫·托尔斯泰
+- 吉恩·夏普
+- 朴钟哲
+- 李翰烈
+- 高智晟
+- 余杰
+- 王怡
+- 赵长青
+- 赵京
+- 洪予健
+- 浦志强
+- 徐友渔
+- 胡石根
+- 郝建
+- 刘荻
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=LdMPdAnwdRs
 speaker: 东京人文论坛
-tags:
-  - christianity-china
-  - civil-society
-  - democratization-movements
-  - human-rights
-  - nonviolent-resistance
-title: 基督教、公民社会与中国民主化：周峰锁的观察与反思
-summary: 周峰锁从个人经历和历史观察出发，深入探讨了基督教信仰、教会与中国民主化、人权运动之间的复杂关系。他强调信仰的个人性和排他性，反对将基督教视为“救中国”的功能性工具，但同时认为强大的基督教会是中国走向民主化的关键民间力量。文章通过刘晓波的转变、和平非暴力运动的基督教根源，以及韩国、台湾和东欧民主化进程中教会的重要作用，阐释了基督信仰在推动普世价值和公民社会发展中的独特贡献。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 周峰锁
-  - 刘晓波
-  - 耶稣基督
-  - 马丁·路德·金
-  - 圣雄甘地
-  - 约翰·保罗二世
-  - 邓小平
-  - 胡平
-  - 梭罗
-  - 列夫·托尔斯泰
-  - 吉恩·夏普
-  - 朴钟哲
-  - 李翰烈
-  - 高智晟
-  - 余杰
-  - 王怡
-  - 赵长青
-  - 赵京
-  - 洪予健
-  - 浦志强
-  - 徐友渔
-  - 胡石根
-  - 郝建
-  - 刘荻
-companies_orgs:
-  - 人道中国
-  - 劳改基金
-  - 秋雨圣约教会
-  - 方舟教会
-  - 守望教会
-  - 西安教会
-  - 信友堂教会
-  - 主佑中华团契
-  - 波兰团结工会
-products_models: []
-media_books:
-  - 《和平非暴力》
-  - 《1987》
-  - 《圣经》
 status: evergreen
+summary: 周峰锁从个人经历和历史观察出发，深入探讨了基督教信仰、教会与中国民主化、人权运动之间的复杂关系。他强调信仰的个人性和排他性，反对将基督教视为“救中国”的功能性工具，但同时认为强大的基督教会是中国走向民主化的关键民间力量。文章通过刘晓波的转变、和平非暴力运动的基督教根源，以及韩国、台湾和东欧民主化进程中教会的重要作用，阐释了基督信仰在推动普世价值和公民社会发展中的独特贡献。
+tags:
+- china
+- civil-society
+- human-right
+- movement
+- nonviolent-resistance
+title: 基督教、公民社会与中国民主化：周峰锁的观察与反思
 ---
+
 ### 引言：基督教、公民社会与中国民主化
 
 大家好，感谢大家在周日早起。今天我们共同分享和敬拜。广义来讲，我作为一名基督徒、民运人士和人权活动者，基督教、基督信仰、基督教会与民主化、人权的关系，一直是我们思考和面临的问题。我本人并没有一个现成的答案，今天只是从我个人的角度进行一些分享。我可能不是一个理论家，更多地是讲述一些事实和实践层面的体会。

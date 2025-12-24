@@ -1,51 +1,51 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Google
+- Google Brain
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The MAD Podcast
+- Attention is All You Need
+people:
+- Łukasz Kaiser
+- Matt Turck
+- Ray Kurzweil
+- Ilia Sutskever
+- Yann LeCun
+products_models:
+- GPT-5.1
+- Transformer
+- Gemini
+- Codex
+- ChatGPT
+- GPT-4
+- GPT-3.5
+- TensorFlow
+- Emacs
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=3K-R4yVjJfU
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - reasoning-models
-  - scaling-laws
-  - reinforcement-learning
-  - chain-of-thought
-  - multimodality
-title: OpenAI科学家、Transformer作者Łukasz Kaiser深度解析AI前沿：GPT-5.1、推理模型与未来
-summary: OpenAI研究科学家、Transformer论文的合著者Łukasz Kaiser深入探讨了现代AI的前沿。他驳斥了“AI进展放缓”的论调，指出AI能力正经历平滑的指数级增长，其核心驱动力是“推理模型”这一新范式。Kaiser详细阐释了推理模型、思维链（Chain of Thought）和强化学习（RL）的工作原理，并分享了Transformer架构诞生的幕后故事。他还讨论了预训练的未来、多模态的挑战，以及为何当前最先进的模型仍会被一些简单的逻辑谜题难住。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Łukasz Kaiser
-  - Matt Turck
-  - Ray Kurzweil
-  - Ilia Sutskever
-  - Yann LeCun
-companies_orgs:
-  - OpenAI
-  - Google
-  - Google Brain
-products_models:
-  - GPT-5.1
-  - Transformer
-  - Gemini
-  - Codex
-  - ChatGPT
-  - GPT-4
-  - GPT-3.5
-  - TensorFlow
-  - Emacs
-media_books:
-  - The MAD Podcast
-  - Attention is All You Need
 status: evergreen
+summary: OpenAI研究科学家、Transformer论文的合著者Łukasz Kaiser深入探讨了现代AI的前沿。他驳斥了“AI进展放缓”的论调，指出AI能力正经历平滑的指数级增长，其核心驱动力是“推理模型”这一新范式。Kaiser详细阐释了推理模型、思维链（Chain
+  of Thought）和强化学习（RL）的工作原理，并分享了Transformer架构诞生的幕后故事。他还讨论了预训练的未来、多模态的挑战，以及为何当前最先进的模型仍会被一些简单的逻辑谜题难住。
+tags:
+- llm
+- model
+- reinforcement-learning
+- scaling-law
+title: OpenAI科学家、Transformer作者Łukasz Kaiser深度解析AI前沿：GPT-5.1、推理模型与未来
 ---
+
 ### 播客介绍
 
 **Matt Turck:** 嗨，我是 Matt，欢迎来到 Matt 播客。我今天的嘉宾是 Łukasz Kaiser，他是现代人工智能的关键构建者之一，毫不夸张地说，他塑造了这个领域的历史。Łukasz 是《Attention is All You Need》论文的合著者之一，这意味着他是 **Transformer**（Transformer: 一种基于自注意力机制的深度学习模型架构，现已成为驱动我们今天使用的几乎所有 AI 的核心）架构的发明者之一。他现在是 OpenAI 的一位顶尖研究科学家，正在帮助推动第二次重大的范式转变，即向 GPT-5.1 背后的那种推理模型发展。

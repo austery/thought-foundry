@@ -5,13 +5,10 @@ area: null
 category: null
 project: []
 tags:
-  - 英特尔
-  - 财报
-people: []
+- earnings-report
 companies_orgs:
 - 特斯拉
 products_models: []
-media_books: []
 date: 2025-07-24
 author: Lei
 speaker: 投资TALK君
@@ -22,7 +19,10 @@ guest: null
 insight: null
 layout: post.njk
 source: null
+companies:
+- 英特尔
 ---
+
 ## 引言
 
 各位观众大家好，欢迎来到一个即使已经非常晚，也要为大家更新视频的日更美股博主，我是市场分析员肖涛。今天的内容上线时间又有点晚，因为确实非常忙，但这无法阻挡我为大家做视频的热情，还是得上线，该讲的还是得讲。

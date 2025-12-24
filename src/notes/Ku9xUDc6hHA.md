@@ -1,68 +1,70 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- Bloomberg
+- GameStop
+- Schwab
+- Morgan Stanley
+- SpaceX
+- OpenAI
+- SEC
+- Paxos
+- Kraken
+- Coinbase
+- Circle
+- Uniswap
+- MetaMask
+- Amazon
+- Microsoft
+- Apple
+- Google
 date: '2025-07-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+- Wall Street Bets
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Vlad Tenev
+- Hester Peirce
+- Bo Hines
+- David Sacks
+products_models:
+- Robinhood 24-hour market
+- Robinhood Gold card
+- Robinhood Strategies
+- USDC
+- Tether
+- Bitcoin
+- Ethereum
+- Arbitrum
+- Base
+project:
+- investment-strategy
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Ku9xUDc6hHA
 speaker: Bloomberg Podcasts
-tags:
-  - tokenization
-  - retail-trading
-  - crypto-regulation
-  - capital-markets
-  - fintech-strategy
-title: Robinhood CEO畅谈代币化未来：零售交易、监管与金融生态系统演变
-summary: 在2025年，零售交易和代币化正经历前所未有的发展。Robinhood首席执行官弗拉德·特内夫（Vlad Tenev）深入探讨了公司如何通过免佣金交易、用户界面优化以及多元化产品（如24小时市场、Robinhood Gold信用卡和数字投顾服务）来吸引并服务活跃交易者和长期投资者。他强调，代币化将带来24/7交易、DeFi集成和更高的可靠性，并透露Robinhood正在构建自己的以太坊Layer 2区块链以支持全球金融生态系统。文章还讨论了美国监管环境的变化，以及代币化如何为私人股票市场带来流动性，实现金融的进一步民主化，尽管这仍面临监管挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Vlad Tenev
-  - Hester Peirce
-  - Bo Hines
-  - David Sacks
-companies_orgs:
-  - Robinhood
-  - Bloomberg
-  - GameStop
-  - Schwab
-  - Morgan Stanley
-  - SpaceX
-  - OpenAI
-  - SEC
-  - Paxos
-  - Kraken
-  - Coinbase
-  - Circle
-  - Uniswap
-  - MetaMask
-  - Amazon
-  - Microsoft
-  - Apple
-  - Google
-products_models:
-  - Robinhood 24-hour market
-  - Robinhood Gold card
-  - Robinhood Strategies
-  - USDC
-  - Tether
-  - Bitcoin
-  - Ethereum
-  - Arbitrum
-  - Base
-media_books:
-  - OddLots podcast
-  - Wall Street Bets
 status: evergreen
+summary: 在2025年，零售交易和代币化正经历前所未有的发展。Robinhood首席执行官弗拉德·特内夫（Vlad Tenev）深入探讨了公司如何通过免佣金交易、用户界面优化以及多元化产品（如24小时市场、Robinhood
+  Gold信用卡和数字投顾服务）来吸引并服务活跃交易者和长期投资者。他强调，代币化将带来24/7交易、DeFi集成和更高的可靠性，并透露Robinhood正在构建自己的以太坊Layer
+  2区块链以支持全球金融生态系统。文章还讨论了美国监管环境的变化，以及代币化如何为私人股票市场带来流动性，实现金融的进一步民主化，尽管这仍面临监管挑战。
+tags:
+- capital-market
+- crypto-regulation
+- investment
+- llm
+- strategy
+title: Robinhood CEO畅谈代币化未来：零售交易、监管与金融生态系统演变
 ---
+
 ### 零售交易的演变与Robinhood的崛起
 
 欢迎收听新一期的**OddLots podcast**（OddLots播客：彭博社旗下探讨金融市场和经济的播客节目）。我是乔·魏森塔尔（Joe Weisenthal）。

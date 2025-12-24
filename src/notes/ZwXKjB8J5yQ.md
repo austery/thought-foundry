@@ -1,44 +1,44 @@
 ---
-author: 安争鸣（Stella An）
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国家互联网信息办公室
+- Bilibili
+- 微博
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《共产党宣言》
+- 《光明共和国》
+- 《葬送的芙莉莲》
+people:
+- 安争鸣
+- 张雪峰
+- 马克思
+- 恩格斯
+- 威亚贝尔
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=ZwXKjB8J5yQ
 speaker: 安争鸣（Stella An）
-tags:
-  - reporting-culture
-  - class-struggle-ideology
-  - social-darwinism
-  - power-imbalance
-  - cyberbullying
-title: 举报文化：阶级斗争思维的社会遗毒与个人反思
-summary: 本期节目深入探讨了中国网络上盛行的“举报文化”，指出其根源在于从小被灌输的“阶级斗争”思维，导致许多人以“敌我”视角看待世界，并渴望通过不对等的权力碾压异见者。安争鸣分享了自己被网络攻击和举报的经历，并反思了这种思维对个人和社会的影响，呼吁在行动前进行独立思考，以促进更健康的社会对话。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - cultural-critique
-people:
-  - 安争鸣
-  - 张雪峰
-  - 马克思
-  - 恩格斯
-  - 威亚贝尔
-companies_orgs:
-  - 国家互联网信息办公室
-  - Bilibili
-  - 微博
-products_models: []
-media_books:
-  - 《共产党宣言》
-  - 《光明共和国》
-  - 《葬送的芙莉莲》
 status: evergreen
+summary: 本期节目深入探讨了中国网络上盛行的“举报文化”，指出其根源在于从小被灌输的“阶级斗争”思维，导致许多人以“敌我”视角看待世界，并渴望通过不对等的权力碾压异见者。安争鸣分享了自己被网络攻击和举报的经历，并反思了这种思维对个人和社会的影响，呼吁在行动前进行独立思考，以促进更健康的社会对话。
+tags:
+- class
+- culture
+- investment
+- power
+- social
+title: 举报文化：阶级斗争思维的社会遗毒与个人反思
 ---
+
 ### 网络奇遇与舆论战场
 
 大家好，我是安争鸣。今天这期节目是一期聊天节目，估计老观众一听就明白，我肯定是又遇到想要吐槽的事情了。没错，接下来我就给大家讲一讲我最近在网络上的奇遇。

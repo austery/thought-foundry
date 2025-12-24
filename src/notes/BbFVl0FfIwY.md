@@ -5,10 +5,9 @@ area: null
 category: null
 project: []
 tags:
-  - 健康
-  - 衰老
-  - 长寿
-people: []
+- health
+- investment
+- llm
 companies_orgs:
 - 一席
 products_models: []
@@ -24,6 +23,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=BbFVl0FfIwY
 ---
+
 ## 引言：重新认识衰老
 
 各位下午好，我是来自中国科学院遗传与发育生物学研究所的研究员田烨。今天我想跟大家探讨的话题是衰老以及如何延缓衰老。作为一名科研工作者，我将从生物学的角度与大家分享一些见解。

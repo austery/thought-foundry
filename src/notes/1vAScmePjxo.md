@@ -1,30 +1,28 @@
 ---
-title: Waymo自动驾驶深度体验：特斯拉能否弯道超车？
-summary: 作者亲身体验Waymo自动驾驶出租车，探讨其高精度地图与多传感器融合的技术优势及运营策略。文章分析了Waymo的规模化挑战，并对比特斯拉的纯视觉方案，最终展望特斯拉Robotaxi发布会的期待，思考自动驾驶的未来价值。
 area: market-analysis
 category: geopolitics
-project:
-  - us-analysis
-tags:
-  - autonomous-driving
-  - lidar
-  - tesla-fsd
-  - waymo
-people: []
 companies_orgs: []
-products_models:
-  - robotaxi
-media_books: []
 date: '2024-10-06'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- robotaxi
+project:
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=1vAScmePjxo
+speaker: 一口新飯
 status: evergreen
+summary: 作者亲身体验Waymo自动驾驶出租车，探讨其高精度地图与多传感器融合的技术优势及运营策略。文章分析了Waymo的规模化挑战，并对比特斯拉的纯视觉方案，最终展望特斯拉Robotaxi发布会的期待，思考自动驾驶的未来价值。
+tags:
+- autonomous-driving
+- technology
+- waymo
+title: Waymo自动驾驶深度体验：特斯拉能否弯道超车？
+companies:
+- tesla-fsd
 ---
 
 ### Waymo Robotaxi初体验：科技感与安全性的震撼

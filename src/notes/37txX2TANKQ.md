@@ -1,37 +1,36 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Fidelity
+- Norges Bank Investment Management
 date: '2025-02-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Anthony Bolton
+- Nikolai
+products_models: []
+project:
+- investment-strategy
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=37txX2TANKQ
 speaker: Norges Bank Investment Management
-tags:
-  - contrarian-investing
-  - market-sentiment
-  - portfolio-management
-  - market-cycles
-  - investment-psychology
-title: 逆向投资之父安东尼·博尔顿：如何在市场中反其道而行之
-summary: 资深基金经理安东尼·博尔顿分享其逆向投资哲学。他强调在市场中，受欢迎即风险，不受欢迎即机会。文章深入探讨了逆向投资者的性格特质、市场分析方法（如关注股价图和股东名单），并对当前市场（如中国与美国、AI影响）提出了独到见解，同时讨论了管理大型基金和组织多元化投资团队的挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-  - us-analysis
-people:
-  - Anthony Bolton
-  - Nikolai
-companies_orgs:
-  - Fidelity
-  - Norges Bank Investment Management
-products_models: []
-media_books: []
 status: evergreen
+summary: 资深基金经理安东尼·博尔顿分享其逆向投资哲学。他强调在市场中，受欢迎即风险，不受欢迎即机会。文章深入探讨了逆向投资者的性格特质、市场分析方法（如关注股价图和股东名单），并对当前市场（如中国与美国、AI影响）提出了独到见解，同时讨论了管理大型基金和组织多元化投资团队的挑战。
+tags:
+- investing
+- investment-psychology
+- market-cycle
+- market-sentiment
+- portfolio-management
+title: 逆向投资之父安东尼·博尔顿：如何在市场中反其道而行之
 ---
+
 ### 逆向投资的本质：反其道而行之
 
 主持人：大家好，今天我们非常荣幸能邀请到安东尼·博尔顿（Anthony Bolton），在我看来，他堪称**逆向投资**（Contrarian Investing: 一种投资策略，与市场主流观点或趋势反向操作）之父。

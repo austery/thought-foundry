@@ -1,49 +1,49 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- Amazon
+- OpenAI
+- Meta
+- Anthropic
+- Microsoft
+- Palantir
+- Futu MoMo
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+- Yahoo Finance
+- Bloomberg
+- TradingView
+people:
+- 小陶
+- 扎克伯格
+- 萨提亚·纳德拉
+products_models:
+- AIP
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Y1_HPP57m-o
 speaker: 投资TALK君
-tags:
-  - ai-bubble
-  - capital-expenditure
-  - operating-income
-  - tech-earnings
-  - valuation-analysis
-title: 两个指标看大科技AI泡沫：亚马逊、Meta与Palantir财报深度分析
-summary: 本期节目深入探讨了如何通过运营利润与资本性支出两大指标，评估大型科技公司在AI领域的潜在风险与泡沫。通过亚马逊和Meta的案例，分析了资本开支对未来盈利的挑战。同时，详细解读了Palantir强劲的财报数据、独特的商业模式及其高估值背后的逻辑，并讨论了AI泡沫的判断方法与投资策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - 小陶
-  - 扎克伯格
-  - 萨提亚·纳德拉
-companies_orgs:
-  - Google
-  - Amazon
-  - OpenAI
-  - Meta
-  - Anthropic
-  - Microsoft
-  - Palantir
-  - Futu MoMo
-products_models:
-  - AIP
-media_books:
-  - X
-  - Yahoo Finance
-  - Bloomberg
-  - TradingView
 status: evergreen
+summary: 本期节目深入探讨了如何通过运营利润与资本性支出两大指标，评估大型科技公司在AI领域的潜在风险与泡沫。通过亚马逊和Meta的案例，分析了资本开支对未来盈利的挑战。同时，详细解读了Palantir强劲的财报数据、独特的商业模式及其高估值背后的逻辑，并讨论了AI泡沫的判断方法与投资策略。
+tags:
+- ai-bubble
+- analysis
+- capital-expenditure
+- income
+- tech-earning
+title: 两个指标看大科技AI泡沫：亚马逊、Meta与Palantir财报深度分析
 ---
+
 ### 市场概览与大科技的AI投资趋势
 
 各位观众大家好，欢迎来到一个大家喜欢聊财报的专业美股频道。今天，我将和大家聊一下周一盘后发布财报的Palantir。在聊Palantir的财报之前，我们先来探讨一个重要话题：周一有一条新闻提到Google也开始举债，通过融资的方式进行**资本性支出**（Capex: Capital Expenditure，指用于购买、改进或延长固定资产使用寿命的支出）。那么，有没有哪些指标可以帮助我们衡量这些大型科技公司未来是否存在一定的风险？无论是从资产负债表还是从市场担忧的角度来看，包括整个行业中AI是否存在泡沫的问题，我们应该如何面对？

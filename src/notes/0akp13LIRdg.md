@@ -1,56 +1,56 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 民政局
+- 居委会
+- Netflix
 date: '2025-02-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Instagram
+- YouTube
+- 《流星花园》
+- 《花样男子》
+- 《一起来看流星雨》
+- 《老友记》
+- 《三体》
+- 《我们的孩子：美国梦的危机》
+people:
+- 徐熙媛
+- 蔡英文
+- 蔡依林
+- 郑爽
+- Matthew Perry
+- 张国荣
+- 贾宏声
+- 汪小菲
+- 张兰
+- 刘慈欣
+- 曾国祥
+- Robert Putnam
+products_models: []
+project:
+- cultural-critique
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=0akp13LIRdg
 speaker: 張内咸
-tags:
-  - mental-health
-  - societal-pressure
-  - cultural-differences
-  - appearance-anxiety
-  - codependency
-title: 从大S离世看东亚社会：抑郁、拖累症与容貌焦虑的深层文化根源
-summary: 本文以大S离世的新闻为引，深入探讨了东亚社会中普遍存在的心理健康问题，如抑郁症、家庭关系中的“拖累症”以及女性普遍面临的“容貌焦虑”。通过对比中西方社会在处理这些问题上的差异，文章批判了中国社会对个体差异的不宽容、对心理健康的忽视，并呼吁社会观念现代化，以更好地接纳多元、疏导压力，避免更多悲剧的发生。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 徐熙媛
-  - 蔡英文
-  - 蔡依林
-  - 郑爽
-  - Matthew Perry
-  - 张国荣
-  - 贾宏声
-  - 汪小菲
-  - 张兰
-  - 刘慈欣
-  - 曾国祥
-  - Robert Putnam
-companies_orgs:
-  - 民政局
-  - 居委会
-  - Netflix
-products_models: []
-media_books:
-  - Instagram
-  - YouTube
-  - 《流星花园》
-  - 《花样男子》
-  - 《一起来看流星雨》
-  - 《老友记》
-  - 《三体》
-  - 《我们的孩子：美国梦的危机》
 status: evergreen
+summary: 本文以大S离世的新闻为引，深入探讨了东亚社会中普遍存在的心理健康问题，如抑郁症、家庭关系中的“拖累症”以及女性普遍面临的“容貌焦虑”。通过对比中西方社会在处理这些问题上的差异，文章批判了中国社会对个体差异的不宽容、对心理健康的忽视，并呼吁社会观念现代化，以更好地接纳多元、疏导压力，避免更多悲剧的发生。
+tags:
+- anxiety
+- code
+- cultural-difference
+- mental-health
+- societal
+title: 从大S离世看东亚社会：抑郁、拖累症与容貌焦虑的深层文化根源
 ---
+
 ### 大S离世：娱乐新闻背后的社会反思
 
 大家好，我是张内咸。昨天早上我正给孩子做饭，我媳妇突然冲进厨房，手里拿着手机，满脸惊恐地跟我说：“坏了，出大事了！”给我吓了一跳，我就看她那个手在颤抖着，手机啪挞一下就掉地上了。我当时就感觉心里咯噔一下，这是出什么大事了？主要是我想不出来什么大事能把我媳妇吓成这样，她一个天天在厨房里剁白菜帮子的人，什么国家大事她也不关心，能是啥事？打仗啦？社保又涨钱啦？结果我媳妇瞪着眼睛，鼻孔里冒出两管气，说：“大S去世了！”她说这句话的时候面如死灰，我还以为我家哪个亲戚没了呢，反应了半天才明白她说的是那个大S，娱乐新闻里那个。天呐，给我吓的呀！

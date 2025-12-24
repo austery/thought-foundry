@@ -1,27 +1,27 @@
 ---
+area: ''
 author: Lei
+category: ''
+created: 1984-01-24T03:00
 date: 2025-07-13
-guest: 
-insight:
+guest: null
+insight: null
 layout: post.njk
-series:
+program: 知行小酒馆
+project: 知行小酒馆
+series: null
 source: https://www.youtube.com/watch?v=ob4SSriRvt0
 speaker: 知行小酒馆
-summary:
-tags:
-  - 视频文稿
-  - 个人成长
-  - 知行小酒馆
-  - t-literature-note
-title: E195 对话半佛仙人：世上无难事，只要肯放弃（地球online🎮非典型通关秘籍）
-program: 知行小酒馆
-created: 1984-01-24T03:00
-updated: 2025-09-01T13:04
-area: ""
-project: 知行小酒馆
-category: ""
 status: evergreen
+summary: null
+tags:
+- history
+- personal-growth
+- video-transcript
+title: "E195 对话半佛仙人：世上无难事，只要肯放弃（地球online\U0001F3AE非典型通关秘籍）"
+updated: 2025-09-01T13:04
 ---
+
 ## 引言：一次关于“内耗”的奇特对话
 
 **雨白：** 欢迎来到知行小酒馆，这是一档有知有行出品的播客节目。我们关注投资，更关注怎样更好的生活。我是李白，这期节目的起心动念来自一次闲聊。

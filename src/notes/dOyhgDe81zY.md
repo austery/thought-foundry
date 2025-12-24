@@ -1,68 +1,68 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国人民大学
+- 中山大学
+- 日本防卫省
+- 日本华北交通公司
+- 满铁图书馆
+- 哈佛燕京学社
+- 上海文献保存同志会
+- 商务印书馆
+- 暨南大学
+- 中国书店
+- 英国商会
+- 美国领事馆
+- 香港大学
+- 冯平山图书馆
+- 东京帝国图书馆
+- 盟军总司令部
+- 清华大学
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《广东战后报告》
+- 《广东进军抄》
+- book-rescue
+people:
+- 火野苇平
+- 阿英
+- 容肇祖
+- 郑振铎
+- 郑源
+- 朱自清
+- 俞平伯
+- 清水董三
+- 周佛海
+- 张寿镛
+- 张元济
+- 何炳松
+- 许地山
+- 博萨尔
+- 福武直
+- 中生胜美
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dOyhgDe81zY
 speaker: 一席YiXi
-tags:
-  - sino-japanese-war
-  - cultural-heritage-preservation
-  - wartime-looting
-  - national-identity
-  - book-rescue
-title: 乱世微光：吴真追寻抗战时期被劫书籍的十六年
-summary: 本文记录了吴真教授十六年来追寻抗战时期被劫中国书籍的经历。她揭示了日军有组织、有目的的文化掠夺行为，以及中国在这一“沉默战场”上遭受的巨大损失。文章重点讲述了郑振铎先生在上海孤岛时期，冒着生命危险，通过秘密组织和个人努力抢救和保护中国古籍的英勇事迹，最终促成三万余册古籍回归。这段历史不仅展现了书籍的劫难，更凸显了书籍在乱世中作为精神支柱的微光力量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 火野苇平
-  - 阿英
-  - 容肇祖
-  - 郑振铎
-  - 郑源
-  - 朱自清
-  - 俞平伯
-  - 清水董三
-  - 周佛海
-  - 张寿镛
-  - 张元济
-  - 何炳松
-  - 许地山
-  - 博萨尔
-  - 福武直
-  - 中生胜美
-companies_orgs:
-  - 中国人民大学
-  - 中山大学
-  - 日本防卫省
-  - 日本华北交通公司
-  - 满铁图书馆
-  - 哈佛燕京学社
-  - 上海文献保存同志会
-  - 商务印书馆
-  - 暨南大学
-  - 中国书店
-  - 英国商会
-  - 美国领事馆
-  - 香港大学
-  - 冯平山图书馆
-  - 东京帝国图书馆
-  - 盟军总司令部
-  - 清华大学
-products_models: []
-media_books:
-  - 《广东战后报告》
-  - 《广东进军抄》
 status: evergreen
+summary: 本文记录了吴真教授十六年来追寻抗战时期被劫中国书籍的经历。她揭示了日军有组织、有目的的文化掠夺行为，以及中国在这一“沉默战场”上遭受的巨大损失。文章重点讲述了郑振铎先生在上海孤岛时期，冒着生命危险，通过秘密组织和个人努力抢救和保护中国古籍的英勇事迹，最终促成三万余册古籍回归。这段历史不仅展现了书籍的劫难，更凸显了书籍在乱世中作为精神支柱的微光力量。
+tags:
+- cultural
+- geopolitical
+- national-identity
+- war
+title: 乱世微光：吴真追寻抗战时期被劫书籍的十六年
 ---
+
 ### 引言：追书之旅的起点
 
 大家好，我是吴真，来自中国人民大学。今天很高兴在这里和大家分享我过去十六年的追书经历。上海也是我追寻书籍的一个重要站点，但这段经历的起点是在日本东京。2009年，我偶然翻到了一本名为**《广东战后报告》**的著作。这本书的作者提到，1938年底他在广州，看到许多大学的图书被日军搞得一片狼藉，其中有一位来自帝国大学的教授正在搜集和汇总这些图书。

@@ -1,34 +1,34 @@
 ---
-author: 徒步的騎手
-date: 2025-08-14
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ObeI-z35qnQ'
-speaker: 徒步的騎手
-tags:
-  - ancient-civilization-syndrome
-  - historical-burden
-  - national-psychology
-  - geopolitical-analysis
-title: 文明古国综合症：从中印的非理性行为看历史的重负
-summary: 近期南海的撞船事件，揭示了一种更深层次的现象——“文明古国综合症”。本文探讨了中国和印度这两个文明古国，在面对现代世界时所表现出的共同困境：尽管拥有现代化的硬件，其国民的思维方式却常常被沉重的历史包袱所束缚，停留在过去。文章通过分析印巴冲突、V.S. 奈保尔对“历史囚徒”的论述，以及圣雄甘地致信希特勒的天真行为，深入剖析了这种综合症如何导致国家行为的非理性，并阻碍其真正融入现代文明体系。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - V.S. Naipaul
-  - Mahatma Gandhi
-  - Adolf Hitler
-  - 刘晓波
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-08-14
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- V.S. Naipaul
+- Mahatma Gandhi
+- Adolf Hitler
+- 刘晓波
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ObeI-z35qnQ
+speaker: 徒步的騎手
 status: evergreen
+summary: 近期南海的撞船事件，揭示了一种更深层次的现象——“文明古国综合症”。本文探讨了中国和印度这两个文明古国，在面对现代世界时所表现出的共同困境：尽管拥有现代化的硬件，其国民的思维方式却常常被沉重的历史包袱所束缚，停留在过去。文章通过分析印巴冲突、V.S.
+  奈保尔对“历史囚徒”的论述，以及圣雄甘地致信希特勒的天真行为，深入剖析了这种综合症如何导致国家行为的非理性，并阻碍其真正融入现代文明体系。
+tags:
+- analysis
+- historical
+- psychology
+- society
+title: 文明古国综合症：从中印的非理性行为看历史的重负
 ---
 
 ### 从南海撞船事件说起

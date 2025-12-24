@@ -1,48 +1,48 @@
 ---
-author: 政經孫老師
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《靈知主義宗教》
+- 《新政治科學》
+- 《政治觀念史第八卷》
+- 死海古卷
+people:
+- Hans Jonas
+- Eric Voegelin
+- Hegel
+- Marx
+- Hitler
+- Cyrus
+- Alexander the Great
+- St. Augustine
+- Schelling
+- Comte
+- marxism
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=-1nEQMeCrRs
 speaker: 政經孫老師
-tags:
-  - gnosticism
-  - marxism
-  - modern-ideologies
-  - political-extremism
-  - secularization
-  - re-mythologization
-title: 現代世界亂象之源：靈知主義如何滲透並禍亂當代文明？馬克思主義為何是一種靈知宗教？
-summary: 本文深入探討了當今世界各種極端思想和社會亂象的深層根源，追溯至古老的靈知主義。作者闡述了靈知主義（Gnosticism）的起源、核心教義及其與正統基督教的根本區別。文章指出，隨著中世紀後基督教影響力衰弱，靈知主義以世俗化的面貌全面復興，並滲透到現代進步主義、社會主義及馬克思主義等意識形態中。特別強調馬克思主義作為一種現代靈知宗教，鼓吹通過暴力革命在人間建立天堂，最終導致災難性後果。文章呼籲反思，並探討未來文明的出路。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - Hans Jonas
-  - Eric Voegelin
-  - Hegel
-  - Marx
-  - Hitler
-  - Cyrus
-  - Alexander the Great
-  - St. Augustine
-  - Schelling
-  - Comte
-companies_orgs: []
-products_models: []
-media_books:
-  - 《靈知主義宗教》
-  - 《新政治科學》
-  - 《政治觀念史第八卷》
-  - 死海古卷
 status: evergreen
+summary: 本文深入探討了當今世界各種極端思想和社會亂象的深層根源，追溯至古老的靈知主義。作者闡述了靈知主義（Gnosticism）的起源、核心教義及其與正統基督教的根本區別。文章指出，隨著中世紀後基督教影響力衰弱，靈知主義以世俗化的面貌全面復興，並滲透到現代進步主義、社會主義及馬克思主義等意識形態中。特別強調馬克思主義作為一種現代靈知宗教，鼓吹通過暴力革命在人間建立天堂，最終導致災難性後果。文章呼籲反思，並探討未來文明的出路。
+tags:
+- gnosticism
+- history
+- political
+- society
+- technology
+title: 現代世界亂象之源：靈知主義如何滲透並禍亂當代文明？馬克思主義為何是一種靈知宗教？
 ---
+
 ### 全球亂象的深層根源：靈知主義
 
 今天我們來探討全球亂象的源頭。當今世界可謂亂象叢生，各種極端思想橫行無忌，例如極端的LGBT（同性戀、雙性戀、跨性別者）、極端的種族主義、極端的福利主義，以及西方社會中普遍存在的“聖母情懷”所導致的難民問題和社會矛盾。這些當代的極端思想，本質上都可以歸結為左派的極端思維。從歷史角度看，歷史上的**進步主義**（Progressivism: 一種認為社會可以通過改革不斷進步的政治哲學）、**馬克思主義**（Marxism: 一種以歷史唯物主義為基礎，主張通過階級鬥爭實現共產主義的社會經濟理論）和**社會主義**（Socialism: 一種主張社會或集體控制生產資料，以實現更公平分配的社會經濟體系）等，都與今天的這些極端思潮一脈相承。

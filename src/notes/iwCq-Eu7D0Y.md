@@ -1,35 +1,35 @@
 ---
-author: Harvard Business Review
+area: personal-systems
+category: psychology
+companies_orgs:
+- Harvard Business Review
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Muriel Wilkins
+- Alison Beard
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=iwCq-Eu7D0Y
 speaker: Harvard Business Review
-tags:
-  - hidden-blockers
-  - leadership-mindset
-  - self-coaching
-  - belief-reframing
-  - organizational-culture
-title: 领导力提升：如何识别并克服阻碍你成长的隐性信念
-summary: 本文深入探讨了领导者如何识别并克服阻碍其成长的“隐性障碍”——那些根深蒂固却未被意识到的信念。通过审视当前结果、行为和潜在思维模式，文章揭示了七种常见障碍，如“我需要立即完成”和“我不能犯错”。Muriel Wilkins强调，理解这些信念的来源和作用至关重要，而非简单地消除它们。她提出了“揭示、剖析、重构”三步法，帮助领导者将限制性信念转化为赋能性思维，从而提升个人和组织的适应性与效能。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Muriel Wilkins
-  - Alison Beard
-companies_orgs:
-  - Harvard Business Review
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了领导者如何识别并克服阻碍其成长的“隐性障碍”——那些根深蒂固却未被意识到的信念。通过审视当前结果、行为和潜在思维模式，文章揭示了七种常见障碍，如“我需要立即完成”和“我不能犯错”。Muriel
+  Wilkins强调，理解这些信念的来源和作用至关重要，而非简单地消除它们。她提出了“揭示、剖析、重构”三步法，帮助领导者将限制性信念转化为赋能性思维，从而提升个人和组织的适应性与效能。
+tags:
+- hidden-blocker
+- leadership-mindset
+- organizational-culture
+- philosophy
+- self
+title: 领导力提升：如何识别并克服阻碍你成长的隐性信念
 ---
+
 ### 发现阻碍：从好奇心开始
 
 MURIEL WILKINS: 我认为，首先要从好奇心开始。所以你不能只想着我需要做些什么不同的事情，这正是我们大多数行动导向型的人会做的。你需要停下来思考一下，现在正在发生什么？我正在得到什么样的结果？**认知失调**（Cognitive Dissonance: 指当一个人同时持有两种或多种相互冲突的信念、观念、态度或价值观时所感受到的一种不舒服的心理状态）在哪里？让我来**逆向工程**（Reverse Engineer: 指通过分析现有产品或系统，推导出其设计原理、结构和功能的行为）一下。我正在采取哪些行为或行动，导致了当前的结果？然后，再退一步问自己，是什么样的思维模式在驱动着那种行动和行为？我正在做出哪些假设，无论是关于我需要如何领导，关于我所领导的人，还是关于我所处的环境，这些假设又驱动着我当前的行动？

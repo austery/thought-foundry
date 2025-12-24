@@ -1,41 +1,42 @@
 ---
-author: EO
+area: society-systems
+category: business
+companies_orgs:
+- Scatter
+- Eman Venture Labs
+- Sky Sports News
+- Google
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Matt Hagger
+products_models:
+- TailTree
+- iPhone
+- Android
+- G1 Android device
+project:
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=pztijFSlfZs
 speaker: EO
-tags:
-  - startup-failure
-  - entrepreneurial-mindset
-  - creativity-preservation
-  - learning-from-failure
-  - resilience
-title: 从创业失败中拯救我的心态：Matt Hagger 的 TaleTree 之旅
-summary: 连续创业者 Matt Hagger 分享了他20年的创业历程，包括在英国和硅谷的经历，以及他曾创立的 Scatter 应用的失败。他强调了创业失败是宝贵的财富，能赋予创业者韧性和经验。Hagger 还探讨了童年经历、勇气、信念对创业心态的重要性，以及学校教育如何可能扼杀创造力。他介绍了他的新项目 TailTree，旨在通过社区和平台赋能儿童，让他们在后 AI 时代保持想象力和创造力，并呼吁人们拥抱“竞技场中的人”心态，从失败中学习，持续前进。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Matt Hagger
-companies_orgs:
-  - Scatter
-  - Eman Venture Labs
-  - Sky Sports News
-  - Google
-products_models:
-  - TailTree
-  - iPhone
-  - Android
-  - G1 Android device
-media_books: []
 status: evergreen
+summary: 连续创业者 Matt Hagger 分享了他20年的创业历程，包括在英国和硅谷的经历，以及他曾创立的 Scatter 应用的失败。他强调了创业失败是宝贵的财富，能赋予创业者韧性和经验。Hagger
+  还探讨了童年经历、勇气、信念对创业心态的重要性，以及学校教育如何可能扼杀创造力。他介绍了他的新项目 TailTree，旨在通过社区和平台赋能儿童，让他们在后 AI
+  时代保持想象力和创造力，并呼吁人们拥抱“竞技场中的人”心态，从失败中学习，持续前进。
+tags:
+- canada
+- entrepreneurial-mindset
+- failure
+- learning
+- resilience
+title: 从创业失败中拯救我的心态：Matt Hagger 的 TaleTree 之旅
 ---
+
 ### 创业之路：从硅谷到失败的洗礼
 
 在过去的20年里，我曾是英国和后来的洛杉矶硅谷的**连续创业者**（Serial entrepreneur：指连续创办多家公司的创业者）。我的第二家公司是 Scatter，一款照片分享产品。我曾希望它能成为全球每一位成员都能访问和使用的产品。

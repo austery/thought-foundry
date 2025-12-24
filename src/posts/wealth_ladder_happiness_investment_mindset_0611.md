@@ -1,67 +1,56 @@
 ---
-
-author: "Lei"
-date: "2025-11-06"
-guest:
-layout: "post.njk"
-source: ""
-speaker: 一口新饭读书会
-title: "财富阶梯与幸福感：一场关于金钱、目标和个人价值的深度探讨"
-summary: "本次读书会围绕财富阶梯的概念展开了深入讨论。参与者们分享了各自在不同财富阶段的亲身经历，探讨了从Level 1的生存挣扎到更高阶财富自由的心理变化。讨论不仅涵盖了投资策略、消费观念和被动收入的重要性，更触及了金钱与幸福感、个人价值实现、子女财商教育以及人际关系等深层话题，并对书中的财富框架提出了批判性思考。"
-
-area: "personal-systems"
-
-category: "lifestyle"
-
-project:
-  - "fire-movement"
-  - "personal-growth-lab"
-
-tags:
-  - "wealth-levels"
-  - "financial-freedom"
-  - "happiness"
-  - "investment-mindset"
-  - "personal-finance"
-
-people:
-  - Vivi
-  - Lu Yao
-  - Carmen
-  - Peng Lei
-  - Su Ge
-  - A Lian
-  - Match
-  - Rui
-  - Elon Musk
-  - Donald Trump
-  - Kamala Harris
-  - Bill Gates
-  - James Simons
-  - Michelangelo
+area: personal-systems
+author: Lei
+category: lifestyle
 companies_orgs:
-  - "YouTube"
-  - "ChatGPT"
-  - "Tesla"
-
-products_models:
-  - "S&P 500"
-  - "Starlink"
-
-media_books:
-  - "《Just Keep Buying》"
-  - "《拿铁因素》"
-  - "《黑天鹅》"
-  - "《Millionaire Teacher》"
-  - "《Secrets of the Millionaire Mind》"
-  - "《21世纪资本论》"
-  - "All-In Podcast"
-
+- YouTube
+- ChatGPT
+- Tesla
+date: '2025-11-06'
 draft: true
-status: "evergreen"
-
+guest: null
+layout: post.njk
+media_books:
+- 《Just Keep Buying》
+- 《拿铁因素》
+- 《黑天鹅》
+- 《Millionaire Teacher》
+- 《Secrets of the Millionaire Mind》
+- 《21世纪资本论》
+- All-In Podcast
+people:
+- Vivi
+- Lu Yao
+- Carmen
+- Peng Lei
+- Su Ge
+- A Lian
+- Match
+- Rui
+- Elon Musk
+- Donald Trump
+- Kamala Harris
+- Bill Gates
+- James Simons
+- Michelangelo
+products_models:
+- S&P 500
+- Starlink
+project:
+- fire-movement
+- personal-growth-lab
+source: ''
+speaker: 一口新饭读书会
+status: evergreen
+summary: 本次读书会围绕财富阶梯的概念展开了深入讨论。参与者们分享了各自在不同财富阶段的亲身经历，探讨了从Level 1的生存挣扎到更高阶财富自由的心理变化。讨论不仅涵盖了投资策略、消费观念和被动收入的重要性，更触及了金钱与幸福感、个人价值实现、子女财商教育以及人际关系等深层话题，并对书中的财富框架提出了批判性思考。
+tags:
+- financial
+- financial-freedom
+- investment
+- personal-finance
+- wealth
+title: 财富阶梯与幸福感：一场关于金钱、目标和个人价值的深度探讨
 ---
-
 
 ## 开场与闲聊
 

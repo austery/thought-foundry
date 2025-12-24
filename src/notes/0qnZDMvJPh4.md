@@ -1,76 +1,76 @@
 ---
-author: Internet of Bugs
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Google
+- Tesla
+- Y Combinator
+- Carnegie Mellon
+- MIT
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- Attention Is All You Need
+- ChatGPT Is a Blurry JPEG of the Web
+- The New Yorker
+- Arrival
+- Story of Your Life
+- Internet of Bugs
+people:
+- Sam Altman
+- Sundar Pichai
+- Ted Chiang
+- Carl
+products_models:
+- Generative AI
+- LLMs
+- ChatGPT
+- Fortran
+- Algol
+- Cobol
+- SQL
+- C
+- TCP/IP
+- CDMA
+- BGP
+- CPAN
+- Perl
+- Ant
+- Maven
+- Java
+- Python
+- pip
+- NodeJS
+- NPM
+- JPEGs
+- MP3s
+- MP4s
+- WordPress
+- Squarespace
+- Map-Reduce
+project:
+- ai-impact-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=0qnZDMvJPh4
 speaker: Internet of Bugs
-tags:
-  - ai-hype-critique
-  - software-evolution
-  - lossy-compression
-  - data-processing
-  - technological-disruption
-title: 生成式AI在科技史上的位置：一个反主流观点
-summary: 本文探讨了生成式AI在科技发展史上的真实地位，反驳了将其与电力、工业革命或晶体管相提并论的夸大宣传。作者认为，生成式AI本质上是数据处理技术结合有损压缩的最新迭代，类似于“模糊的JPEG”，而非颠覆性创新。文章通过回顾过去70年软件领域的重大变革，如关系型数据库和互联网，来论证当前AI的非根本性，并指出其营销宣传远超实际颠覆程度。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Sam Altman
-  - Sundar Pichai
-  - Ted Chiang
-  - Carl
-companies_orgs:
-  - OpenAI
-  - Google
-  - Tesla
-  - Y Combinator
-  - Carnegie Mellon
-  - MIT
-products_models:
-  - Generative AI
-  - LLMs
-  - ChatGPT
-  - Fortran
-  - Algol
-  - Cobol
-  - SQL
-  - C
-  - TCP/IP
-  - CDMA
-  - BGP
-  - CPAN
-  - Perl
-  - Ant
-  - Maven
-  - Java
-  - Python
-  - pip
-  - NodeJS
-  - NPM
-  - JPEGs
-  - MP3s
-  - MP4s
-  - WordPress
-  - Squarespace
-  - Map-Reduce
-media_books:
-  - The New York Times
-  - Attention Is All You Need
-  - ChatGPT Is a Blurry JPEG of the Web
-  - The New Yorker
-  - Arrival
-  - Story of Your Life
-  - Internet of Bugs
 status: evergreen
+summary: 本文探讨了生成式AI在科技发展史上的真实地位，反驳了将其与电力、工业革命或晶体管相提并论的夸大宣传。作者认为，生成式AI本质上是数据处理技术结合有损压缩的最新迭代，类似于“模糊的JPEG”，而非颠覆性创新。文章通过回顾过去70年软件领域的重大变革，如关系型数据库和互联网，来论证当前AI的非根本性，并指出其营销宣传远超实际颠覆程度。
+tags:
+- canada
+- critique
+- data
+- evolution
+- technological-disruption
+title: 生成式AI在科技史上的位置：一个反主流观点
 ---
+
 ### 生成式AI的炒作与历史地位
 
 大约一年前，我制作了一个关于AI炒作失控的视频。

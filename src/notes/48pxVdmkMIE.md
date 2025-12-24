@@ -1,48 +1,46 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Physical Intelligence
+- UC Berkeley
+- Google
+- Meta
+- OpenAI
+- Nvidia
+- Waymo
+- Tesla
 date: '2025-09-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sergey Levine
+- Adnan Esmail
+products_models:
+- GPT-4
+- Claude
+- Gemma
+- PR2
+- Tesla FSD
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=48pxVdmkMIE
 speaker: Dwarkesh Patel
-tags:
-  - robotics
-  - foundation-model
-  - llm
-  - automation
-  - perception
-  - simulation
-  - data-flywheel
-title: 谢尔盖·莱文：机器人基础模型与通用自动化未来
-summary: Physical Intelligence 联合创始人兼加州大学伯克利分校教授**谢尔盖·莱文**探讨了机器人基础模型的现状与未来愿景。他阐述了通用机器人实现路径、数据飞轮效应、感知与常识的重要性，并比较了机器人与大语言模型的发展异同。对话还深入探讨了模拟训练的局限性、硬件成本下降趋势以及自动化对社会经济的深远影响。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sergey Levine
-  - Adnan Esmail
-companies_orgs:
-  - Physical Intelligence
-  - UC Berkeley
-  - Google
-  - Meta
-  - OpenAI
-  - Nvidia
-  - Waymo
-  - Tesla
-products_models:
-  - GPT-4
-  - Claude
-  - Gemma
-  - PR2
-  - Tesla FSD
-media_books: []
 status: evergreen
+summary: Physical Intelligence 联合创始人兼加州大学伯克利分校教授**谢尔盖·莱文**探讨了机器人基础模型的现状与未来愿景。他阐述了通用机器人实现路径、数据飞轮效应、感知与常识的重要性，并比较了机器人与大语言模型的发展异同。对话还深入探讨了模拟训练的局限性、硬件成本下降趋势以及自动化对社会经济的深远影响。
+tags:
+- automation
+- data
+- model
+- perception
+- robotic
+- simulation
+title: 谢尔盖·莱文：机器人基础模型与通用自动化未来
 ---
+
 ### 机器人基础模型愿景
 
 今天，我与**谢尔盖·莱文**（Sergey Levine）进行了交流，他是**Physical Intelligence**（一家机器人基础模型公司）的联合创始人，同时也是**加州大学伯克利分校**（UC Berkeley）的教授，更是机器人学、强化学习（RL: Reinforcement Learning: 通过与环境互动学习最优行为的机器学习范式）和人工智能领域的全球顶尖研究员之一。**Physical Intelligence**致力于构建**机器人基础模型**（Robotic Foundation Models: 能够原则上控制任何机器人执行任何任务的通用模型）。我们之所以关注这一点，是因为我们将其视为**人工智能**（AI: Artificial Intelligence: 模拟人类智能的计算机系统）问题的一个非常基础的方面。机器人本质上涵盖了所有**人工智能**技术。如果我们能拥有一个真正通用的机器人，那么它就有望完成人类所能做的大部分工作。目前，我们已经搭建了许多基础功能，这些基础功能相当出色，运行良好。我们的机器人可以叠衣服，可以进入新家清理厨房。但在我看来，**Physical Intelligence**目前所做的工作仅仅是非常非常早期的开端，它只是奠定了基本构建模块，在此基础上，我们才能解决所有真正棘手的问题。

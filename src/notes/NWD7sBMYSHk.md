@@ -1,39 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Mia C’bon
+- 初日诊所
+- 初日医学
+- Cofit
 date: '2025-04-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李思贤
+- 马可老师
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=NWD7sBMYSHk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - mediterranean-diet
-  - healthy-cooking
-  - olive-oil
-  - dietary-myths
-  - blood-sugar-control
-  - cholesterol-management
-  - meal-preparation
-title: 你选对油了吗？地中海饮食专家教你健康用油与美味料理秘诀
-summary: 本期节目邀请李思贤医师与地中海料理专家马可老师，深入探讨地中海饮食的益处，包括对糖尿病、高胆固醇和荷尔蒙平衡的帮助。节目中不仅破解了地中海饮食中关于油脂和淀粉的常见迷思，还详细介绍了如何挑选优质橄榄油，并现场示范了两道简单易学的地中海料理：巴萨米克醋炒蘑菇虾意面和简易版疯狂水煮鱼，旨在帮助观众轻松在家实践健康饮食。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 李思贤
-  - 马可老师
-companies_orgs:
-  - Mia C’bon
-  - 初日诊所
-  - 初日医学
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目邀请李思贤医师与地中海料理专家马可老师，深入探讨地中海饮食的益处，包括对糖尿病、高胆固醇和荷尔蒙平衡的帮助。节目中不仅破解了地中海饮食中关于油脂和淀粉的常见迷思，还详细介绍了如何挑选优质橄榄油，并现场示范了两道简单易学的地中海料理：巴萨米克醋炒蘑菇虾意面和简易版疯狂水煮鱼，旨在帮助观众轻松在家实践健康饮食。
+tags:
+- control
+- environment
+- health
+- management
+- technology
+title: 你选对油了吗？地中海饮食专家教你健康用油与美味料理秘诀
 ---
+
 ### 地中海饮食：世界第一的健康选择
 
 **思思医师:** 大家好，我是思思医师。今天我们来到 Mia C’bon，要跟大家介绍一种已经蝉联七年世界第一的饮食法，那就是**地中海饮食**（Mediterranean Diet: 一种以植物性食物为主，强调橄榄油、全谷物、豆类、坚果、蔬菜、水果和鱼类的饮食模式）。这种饮食不仅对糖尿病患者很有益，对高胆固醇的患者也很有帮助。我们今天来这里帮大家破解一些地中海料理的迷思，让大家知道地中海饮食并没有那么难准备。我们今天邀请到一位精通地中海料理的专家，他本身拥有一间地中海料理餐厅，并且出过食谱，而且成功靠地中海饮食减重——马可老师。

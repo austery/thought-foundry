@@ -1,62 +1,62 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- DoubleLine Capital
+- Bloomberg Podcasts
+- Federal Reserve
+- Bank of Japan
+- Harvard University
+- Yale University
+- Pimco
+- Dodge & Cox
+- IBM
+- Microsoft
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+- Grant's conference
+- The Last of the Mohicans
+people:
+- Jeffrey Gundlach
+- Tracy Alloway
+- Joe Weisenthal
+- Jerome Powell
+- Donald Trump
+- Jamie Dimon
+- Jim Grant
+- Nancy Pelosi
+- Chuck Schumer
+- Mitch McConnell
+- Bill Gross
+- Dana Emery
+products_models:
+- Janus Unconstrained Bond Fund
+- S&P 500
+- Nasdaq
+- CDO
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=n7JV_DaBFXk
 speaker: Bloomberg Podcasts
-tags:
-  - asset-overvaluation
-  - private-credit-risk
-  - us-national-debt
-  - yield-curve-control
-  - market-speculation
-title: 杰弗里·冈拉克：几乎所有金融资产都被高估，私人信贷或成下一场危机
-summary: 知名基金经理杰弗里·冈拉克在Odd Lots播客中指出，当前几乎所有金融资产都被高估。他表达了对美国长期国债市场、不断扩大的财政赤字以及投机狂热的深切担忧。冈拉克尤其强调，私人信贷市场存在巨大的流动性错配和估值问题，其风险特征与2006年的次级抵押贷款相似，可能引发下一场金融危机。他还讨论了美联储可能采取的收益率曲线控制措施，并建议投资者减少美元资产配置，增加黄金等实物资产。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Jeffrey Gundlach
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Jerome Powell
-  - Donald Trump
-  - Jamie Dimon
-  - Jim Grant
-  - Nancy Pelosi
-  - Chuck Schumer
-  - Mitch McConnell
-  - Bill Gross
-  - Dana Emery
-companies_orgs:
-  - DoubleLine Capital
-  - Bloomberg Podcasts
-  - Federal Reserve
-  - Bank of Japan
-  - Harvard University
-  - Yale University
-  - Pimco
-  - Dodge & Cox
-  - IBM
-  - Microsoft
-products_models:
-  - Janus Unconstrained Bond Fund
-  - S&P 500
-  - Nasdaq
-  - CDO
-media_books:
-  - Odd Lots podcast
-  - Grant's conference
-  - The Last of the Mohicans
 status: evergreen
+summary: 知名基金经理杰弗里·冈拉克在Odd Lots播客中指出，当前几乎所有金融资产都被高估。他表达了对美国长期国债市场、不断扩大的财政赤字以及投机狂热的深切担忧。冈拉克尤其强调，私人信贷市场存在巨大的流动性错配和估值问题，其风险特征与2006年的次级抵押贷款相似，可能引发下一场金融危机。他还讨论了美联储可能采取的收益率曲线控制措施，并建议投资者减少美元资产配置，增加黄金等实物资产。
+tags:
+- asset
+- control
+- debt
+- market-speculation
+- risk
+title: 杰弗里·冈拉克：几乎所有金融资产都被高估，私人信贷或成下一场危机
 ---
+
 ### 投资生涯与市场洞察
 
 **Jeff:** 我有70%的成功率。

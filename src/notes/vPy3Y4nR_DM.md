@@ -1,58 +1,57 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg
+- Citadel
+- ADP
+- BLS
+- Cleveland Fed
+- Amazon
+- UPS
+- OpenAI
+- Nvidia
+- McDonald's
+- Chipotle
+- Sweetgreen
+- Cava
+- Upwork
+- Blue Owl
+- University of Texas
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Lots More
+- Bloomberg Opinion
+people:
+- Connor S.
+- Lee Everett
+- Austin Goulsby
+- Jamie Diamond
+- Sam Altman
+- Ron DeSantis
+products_models: []
+project:
+- us-analysis
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=vPy3Y4nR_DM
 speaker: Bloomberg Podcasts
-tags:
-  - labor-market
-  - economic-data
-  - monetary-policy
-  - corporate-layoffs
-  - ai-impact
-title: 美国劳动力市场恶化：数据、美联储与AI影响
-summary: 本期节目深入探讨了美国劳动力市场的严峻现状，分析了非农就业数据（NFP）、ADP报告、挑战者裁员报告及首次申领失业金人数等关键经济指标的矛盾之处。嘉宾们讨论了政府停摆对数据发布的影响，以及人工智能在企业裁员和投资决策中的潜在作用。节目还评估了美联储在当前经济环境下的货币政策困境，并预测了未来几个月就业市场的走势，指出消费需求疲软和企业成本压力可能导致裁员潮。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - ai-impact-analysis
-people:
-  - Connor S.
-  - Lee Everett
-  - Austin Goulsby
-  - Jamie Diamond
-  - Sam Altman
-  - Ron DeSantis
-companies_orgs:
-  - Bloomberg
-  - Citadel
-  - ADP
-  - BLS
-  - Cleveland Fed
-  - Amazon
-  - UPS
-  - OpenAI
-  - Nvidia
-  - McDonald's
-  - Chipotle
-  - Sweetgreen
-  - Cava
-  - Upwork
-  - Blue Owl
-  - University of Texas
-products_models: []
-media_books:
-  - Odd Lots
-  - Lots More
-  - Bloomberg Opinion
 status: evergreen
+summary: 本期节目深入探讨了美国劳动力市场的严峻现状，分析了非农就业数据（NFP）、ADP报告、挑战者裁员报告及首次申领失业金人数等关键经济指标的矛盾之处。嘉宾们讨论了政府停摆对数据发布的影响，以及人工智能在企业裁员和投资决策中的潜在作用。节目还评估了美联储在当前经济环境下的货币政策困境，并预测了未来几个月就业市场的走势，指出消费需求疲软和企业成本压力可能导致裁员潮。
+tags:
+- ai-impact
+- corporate
+- economic-datum
+- labor-market
+title: 美国劳动力市场恶化：数据、美联储与AI影响
 ---
+
 ### 播客十周年与劳动力市场数据
 
 **Bloomberg:** 你们知道今天是什么日子吗？

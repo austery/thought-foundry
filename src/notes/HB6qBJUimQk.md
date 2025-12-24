@@ -1,39 +1,37 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Globe and Mail
+- CNN
+- TVO Today
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nathan Vanderklippe
+- Dr. Dawn Bowdish
+- Donald Trump
+products_models:
+- Advil
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=HB6qBJUimQk
 speaker: TVO Today
-tags:
-  - measles-outbreak
-  - vaccine-hesitancy
-  - public-health-systems
-  - disease-transmission
-  - elimination-status
-title: 加拿大麻疹卷土重来：从清零到失守的全球追踪与公共卫生挑战
-summary: 本文深入探讨了加拿大麻疹疫情的卷土重来，导致该国失去麻疹清零地位的原因。记者Nathan Vanderklippe和免疫学家Dr. Dawn Bowdish追溯了病毒从亚洲到北美的传播路径，并分析了疫苗接种率下降、公共卫生系统薄弱以及新冠疫情遗留影响等关键因素。文章强调了疫苗接种的不可替代性，以及投资公共卫生系统和有效沟通以应对疫苗犹豫的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Nathan Vanderklippe
-  - Dr. Dawn Bowdish
-  - Donald Trump
-companies_orgs:
-  - Globe and Mail
-  - CNN
-  - TVO Today
-products_models:
-  - Advil
-media_books: []
 status: evergreen
+summary: 本文深入探讨了加拿大麻疹疫情的卷土重来，导致该国失去麻疹清零地位的原因。记者Nathan Vanderklippe和免疫学家Dr. Dawn Bowdish追溯了病毒从亚洲到北美的传播路径，并分析了疫苗接种率下降、公共卫生系统薄弱以及新冠疫情遗留影响等关键因素。文章强调了疫苗接种的不可替代性，以及投资公共卫生系统和有效沟通以应对疫苗犹豫的重要性。
+tags:
+- geopolitical
+- health
+- measles-outbreak
+- public-health-system
+title: 加拿大麻疹卷土重来：从清零到失守的全球追踪与公共卫生挑战
 ---
+
 ### 加拿大麻疹清零地位的丧失及其影响
 
 自加拿大在1998年正式消灭麻疹以来，我们曾经历过疫情爆发，但从未像这次一样严重。

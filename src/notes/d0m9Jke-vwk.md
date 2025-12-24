@@ -1,52 +1,53 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Bank of Japan
+- ASEAN
+- U.S. Department of State
+- CIA
+- National Bureau of Statistics of China
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- The Wall Street Journal
+- Reuters
+people:
+- Donald Trump
+- Xi Jinping
+- Lula
+- Anwar Ibrahim
+- Sanae Takaichi
+- Steven Mnuchin
+- Robert Lighthizer
+- Jair Bolsonaro
+- Vladimir Putin
+products_models:
+- Burevestnik missile
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=d0m9Jke-vwk
 speaker: LT視界
-tags:
-  - global-economic-outlook
-  - us-trade-policy
-  - international-diplomacy
-  - political-personalities
-  - central-bank-decisions
-title: 全球经济展望、中美贸易协议与川普外交：马来西亚总理安华妙语谈川普
-summary: 本周全球经济焦点包括美联储的预期降息、川普与习近平的会晤、欧元区GDP数据以及日本央行的政策会议。与此同时，美国正积极推进与中国、东南亚国家和巴西的贸易谈判。值得关注的是，前总统川普在访问马来西亚期间展现了其非传统的 G外交风格，马来西亚总理安华·伊布拉欣幽默地提及川普曾“差点坐牢”。此外，美国情报机构对俄罗斯总统普京的和平意愿存在分歧，而俄罗斯则持续展示其“海燕”核动力巡航导弹。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Lula
-  - Anwar Ibrahim
-  - Sanae Takaichi
-  - Steven Mnuchin
-  - Robert Lighthizer
-  - Jair Bolsonaro
-  - Vladimir Putin
-companies_orgs:
-  - Federal Reserve
-  - Bank of Japan
-  - ASEAN
-  - U.S. Department of State
-  - CIA
-  - National Bureau of Statistics of China
-products_models:
-  - Burevestnik missile
-media_books:
-  - Bloomberg
-  - The Wall Street Journal
-  - Reuters
 status: evergreen
+summary: 本周全球经济焦点包括美联储的预期降息、川普与习近平的会晤、欧元区GDP数据以及日本央行的政策会议。与此同时，美国正积极推进与中国、东南亚国家和巴西的贸易谈判。值得关注的是，前总统川普在访问马来西亚期间展现了其非传统的
+  G外交风格，马来西亚总理安华·伊布拉欣幽默地提及川普曾“差点坐牢”。此外，美国情报机构对俄罗斯总统普京的和平意愿存在分歧，而俄罗斯则持续展示其“海燕”核动力巡航导弹。
+tags:
+- diplomacy
+- financial
+- global-economic-outlook
+- political
+- us-trade-policy
+title: 全球经济展望、中美贸易协议与川普外交：马来西亚总理安华妙语谈川普
 ---
+
 ### 本周全球经济事件前瞻
 
 本周伊始，全球市场将迎来一系列不容错过的重大经济事件。首先是周三，**美联储**（Federal Reserve: 美国中央银行系统）公开市场委员会预计将调整利率政策。华尔街几乎百分之百的交易员认为，美联储将宣布降息25个**基点**（Basis Point: 衡量利率或收益率变动的最小单位，1个基点等于0.01%）。这种降息预期已在市场中做了定价，即交易员们已通过大宗商品交易价格、股价和债券等体现了这部分利好收益。因此，周三美联储的决定预计不会给市场带来特别大的刺激。

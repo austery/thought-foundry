@@ -1,83 +1,85 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Meta
+- Qwen
+- Deepseek
+- Moonshot AI
+- Allen Institute for AI
+- AI2
+- Zhipu AI
+- Ant Group
+- Meituan
+- Nvidia
+- OpenAI
+- Airbnb
+- Cursor
+- AMD
+- Hugging Face
+- Anthropic
+- Google
+- Amazon
+- University of California, Berkeley
+- University of Washington
+- National Science Foundation
+- Bloomberg
+- The Economist
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The MAD Podcast
+- Interconnects
+people:
+- Matt Turck
+- Nathan Lambert
+- Luca Soldaini
+- Paul Allen
+- Martin Casado
+- Richard Sutton
+- Dario Amodei
+products_models:
+- Llama
+- Olmo 3
+- Kimmy
+- Qwen 3
+- Gemma 3
+- Nemotron Nano V2
+- Chat GPT
+- Gemini Flash
+- Tulu
+- GLM 4.5
+- Composer 2
+- GitHub Copilot
+- Alexa
+- Semantic Scholar
+- Malmo
+- Mmo act
+- ASA
+- TensorFlow
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=HGoQnDFHTVA
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - open-source-ai
-  - us-china-tech-race
-  - large-language-models
-  - model-training-pipeline
-  - geopolitical-competition
-title: 美国能否赢得开源AI竞赛？AI2发布Olmo 3的深度解析
-summary: 艾伦人工智能研究所（AI2）的 Nathan Lambert 和 Luca Soldaini 深入探讨了他们最新发布的 Olmo 3 模型家族。本期内容不仅详细介绍了 Olmo 3 的“完全开放”理念——超越“开放权重”，提供包括数据、训练方法和中间检查点在内的一切资源，还将其置于当前地缘政治格局下进行分析。面对 Qwen、Deepseek 等中国开源力量的迅速崛起，以及 Meta Llama 未来不确定性带来的影响，美国开源生态系统正面临严峻挑战。文章详细拆解了构建现代AI模型的六阶段技术流程，并就AI的未来、复杂性以及AGI的发展路径提出了深刻见解。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Matt Turck
-  - Nathan Lambert
-  - Luca Soldaini
-  - Paul Allen
-  - Martin Casado
-  - Richard Sutton
-  - Dario Amodei
-companies_orgs:
-  - Meta
-  - Qwen
-  - Deepseek
-  - Moonshot AI
-  - Allen Institute for AI
-  - AI2
-  - Zhipu AI
-  - Ant Group
-  - Meituan
-  - Nvidia
-  - OpenAI
-  - Airbnb
-  - Cursor
-  - AMD
-  - Hugging Face
-  - Anthropic
-  - Google
-  - Amazon
-  - University of California, Berkeley
-  - University of Washington
-  - National Science Foundation
-  - Bloomberg
-  - The Economist
-products_models:
-  - Llama
-  - Olmo 3
-  - Kimmy
-  - Qwen 3
-  - Gemma 3
-  - Nemotron Nano V2
-  - Chat GPT
-  - Gemini Flash
-  - Tulu
-  - GLM 4.5
-  - Composer 2
-  - GitHub Copilot
-  - Alexa
-  - Semantic Scholar
-  - Malmo
-  - Mmo act
-  - ASA
-  - TensorFlow
-media_books:
-  - The MAD Podcast
-  - Interconnects
 status: evergreen
+summary: 艾伦人工智能研究所（AI2）的 Nathan Lambert 和 Luca Soldaini 深入探讨了他们最新发布的 Olmo 3 模型家族。本期内容不仅详细介绍了
+  Olmo 3 的“完全开放”理念——超越“开放权重”，提供包括数据、训练方法和中间检查点在内的一切资源，还将其置于当前地缘政治格局下进行分析。面对 Qwen、Deepseek
+  等中国开源力量的迅速崛起，以及 Meta Llama 未来不确定性带来的影响，美国开源生态系统正面临严峻挑战。文章详细拆解了构建现代AI模型的六阶段技术流程，并就AI的未来、复杂性以及AGI的发展路径提出了深刻见解。
+tags:
+- china
+- geopolitical-competition
+- large-language-model
+- model
+- open-source-ai
+title: 美国能否赢得开源AI竞赛？AI2发布Olmo 3的深度解析
 ---
+
 ### 引言：地缘政治背景下的开源AI新篇章
 
 **Nathan:** Meta 领导层发生了重大变动，Llama 的未来变得不明朗。这导致影响力出现了一个巨大的真空，而这个真空已经被 Qwen、Deepseek、Kimmy Moonshot 等公司所填补，尤其是在那些试图用开源模型构建应用的人群中，这是一个巨大的转变。

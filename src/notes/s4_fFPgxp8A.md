@@ -1,45 +1,45 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中华人民共和国外交部
+- 中共中央宣传部
+- 腾讯
+- 抖音
+- 中央情报局
+- Google
+- 百度
 date: '2025-05-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《不跪》
+- 《复仇者联盟》
+people:
+- Donald Trump
+products_models:
+- HSK
+- hao123
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=s4_fFPgxp8A
 speaker: 張内咸
-tags:
-  - us-china-propaganda
-  - bureaucracy-critique
-  - cultural-communication
-  - internet-literacy
-  - political-satire
-title: 中美宣传战中的文化与官僚困境：从“不跪”到CIA招聘的荒诞剧
-summary: 本文深入剖析了中美两国在国际宣传领域的尴尬现状。从中国外交部宣传片《不跪》引发的“低级红高级黑”争议，揭示了中国体制内抽象指令与基层执行间的脱节及官僚僵化问题。随后，文章转向美国中央情报局（CIA）针对中国的招聘广告，指出其在文化理解、语言翻译和互联网传播策略上的严重失误。通过对比两国宣传的“翻车”案例，探讨了文化隔阂、绩效设计缺陷以及互联网时代信息传播的复杂性，并以幽默视角观察了中国社会独特的“内卷”现象。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-companies_orgs:
-  - 中华人民共和国外交部
-  - 中共中央宣传部
-  - 腾讯
-  - 抖音
-  - 中央情报局
-  - Google
-  - 百度
-products_models:
-  - HSK
-  - hao123
-media_books:
-  - 《不跪》
-  - 《复仇者联盟》
 status: evergreen
+summary: 本文深入剖析了中美两国在国际宣传领域的尴尬现状。从中国外交部宣传片《不跪》引发的“低级红高级黑”争议，揭示了中国体制内抽象指令与基层执行间的脱节及官僚僵化问题。随后，文章转向美国中央情报局（CIA）针对中国的招聘广告，指出其在文化理解、语言翻译和互联网传播策略上的严重失误。通过对比两国宣传的“翻车”案例，探讨了文化隔阂、绩效设计缺陷以及互联网时代信息传播的复杂性，并以幽默视角观察了中国社会独特的“内卷”现象。
+tags:
+- china
+- critique
+- cultural
+- history
+- political
+title: 中美宣传战中的文化与官僚困境：从“不跪”到CIA招聘的荒诞剧
 ---
+
 ### 中美宣传“翻车”：从《不跪》到CIA招聘的荒诞剧
 
 大家好，我是张内咸，又见面了。刚才大家看到的就是外交部发布的那支著名影片《不跪》。上周发布出来以后，所有人都看傻了。最开始网友以为是哪个爱国自媒体做的，因为影片质量看起来像是B站UP主自制的，不像是官方做的宣传片。大家还在想：“外交部应该只是转发了一下吧？”后来外交部认真地把这条影片发布以后，网友认真地看了半天，发现这个东西还真的是外交部自己做的片子。别说海外的华人了，中国人自己也觉得很尴尬。外交部发完这条微博以后，自己还以为挺帅气的，没想到“翻车”了，被网友群嘲，各种批评的声音铺天盖地就涌过来了。

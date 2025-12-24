@@ -1,51 +1,51 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Amazon
+- Uber
+- Barclays Bank
+- SsangYong Motors
 date: '2025-07-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Squid Game
+- The Hunger Games
+- 'The Hunger Games: Sparks'
+- Evangelion
+- Death Note
+people:
+- Maurizio Lazzarato
+- Alex Gourevitch
+- Michael Burawoy
+- Mark Fisher
+- Guy Debord
+- Tsunehiro Uno
+- Hwang Dong-hyuk
+- Adrian Hon
+products_models:
+- Duolingo
+project:
+- systems-thinking
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=lXP8xBAUato
 speaker: 超級歪 SuperY
-tags:
-  - capitalism-critique
-  - debt-economy
-  - gamification-of-labor
-  - structural-domination
-  - spectacle-society
-title: 《鱿鱼游戏》的哲学解析：资本主义是阶级翻转的契机还是人性的泯灭？
-summary: 本文深入剖析了热门剧集《鱿鱼游戏》，从哲学角度探讨其对资本主义社会中债务问题、结构性支配、劳动游戏化及景观社会等现象的批判。文章引用多位哲学家和思想家的观点，揭示了资本主义如何通过制造“负债人”、将工作转化为零和游戏、以及将苦难变为娱乐景观来维持其运作，并探讨了在这一困境中，个人如何可能挑战并改变既定结构的可能性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-  - historical-insights
-people:
-  - Maurizio Lazzarato
-  - Alex Gourevitch
-  - Michael Burawoy
-  - Mark Fisher
-  - Guy Debord
-  - Tsunehiro Uno
-  - Hwang Dong-hyuk
-  - Adrian Hon
-companies_orgs:
-  - Amazon
-  - Uber
-  - Barclays Bank
-  - SsangYong Motors
-products_models:
-  - Duolingo
-media_books:
-  - Squid Game
-  - The Hunger Games
-  - 'The Hunger Games: Sparks'
-  - Evangelion
-  - Death Note
 status: evergreen
+summary: 本文深入剖析了热门剧集《鱿鱼游戏》，从哲学角度探讨其对资本主义社会中债务问题、结构性支配、劳动游戏化及景观社会等现象的批判。文章引用多位哲学家和思想家的观点，揭示了资本主义如何通过制造“负债人”、将工作转化为零和游戏、以及将苦难变为娱乐景观来维持其运作，并探讨了在这一困境中，个人如何可能挑战并改变既定结构的可能性。
+tags:
+- capitalism-critique
+- economy
+- labor
+- society
+- structural-domination
+title: 《鱿鱼游戏》的哲学解析：资本主义是阶级翻转的契机还是人性的泯灭？
 ---
+
 ### 《鱿鱼游戏》：一场关于生存的残酷考验
 
 《鱿鱼游戏》第三季迎来了黑暗的结局，在全球观众中引发了热烈讨论。

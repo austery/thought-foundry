@@ -1,47 +1,46 @@
 ---
-author: 徒步的騎手
-date: 2025-04-15
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=FbuYDvb2Jio'
-speaker: 徒步的騎手
-tags:
-  - us-china-trade-war
-  - alliance-dynamics
-  - geopolitical-strategy
-  - international-trust
-  - foreign-policy-impact
-title: 川普贸易战：盟友为何袖手旁观？
-summary: 本文探讨了美国前总统川普对中国发起的贸易战及其对美国与盟友关系的影响。文章指出，川普政府对盟友采取的“无差别打击”策略，包括征收关税和言语羞辱，严重损害了盟友对美国的信任。结果，欧盟、日本、韩国、澳大利亚等传统盟友选择袖手旁观，甚至重新评估对华关系，而非与美国联手对抗中国。文章强调，若美国不改变策略，将可能失去盟友，并为中国提供战略机遇，并最终可能既丧失价值观也无法获得实际利益。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Steven Mnuchin
-  - Ursula von der Leyen
-  - 李强
-  - Pedro Sánchez
-  - Jeppe Kofod
-  - Malcolm Turnbull
-  - Jeremy Shapiro
-  - Gaeta
-  - J.D. Vance
+category: geopolitics
 companies_orgs:
-  - 欧盟委员会
-  - 欧洲外交关系委员会
-products_models: '[]'
+- 欧盟委员会
+- 欧洲外交关系委员会
+date: 2025-04-15
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《华尔街日报》
-  - 《经济学人》
-  - 《新约》
+- 《华尔街日报》
+- 《经济学人》
+- 《新约》
+people:
+- Donald Trump
+- Steven Mnuchin
+- Ursula von der Leyen
+- 李强
+- Pedro Sánchez
+- Jeppe Kofod
+- Malcolm Turnbull
+- Jeremy Shapiro
+- Gaeta
+- J.D. Vance
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=FbuYDvb2Jio
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了美国前总统川普对中国发起的贸易战及其对美国与盟友关系的影响。文章指出，川普政府对盟友采取的“无差别打击”策略，包括征收关税和言语羞辱，严重损害了盟友对美国的信任。结果，欧盟、日本、韩国、澳大利亚等传统盟友选择袖手旁观，甚至重新评估对华关系，而非与美国联手对抗中国。文章强调，若美国不改变策略，将可能失去盟友，并为中国提供战略机遇，并最终可能既丧失价值观也无法获得实际利益。
+tags:
+- dynamic
+- foreign-policy-impact
+- geopolitical-strategy
+- trust
+- us-china-relations
+title: 川普贸易战：盟友为何袖手旁观？
 ---
 
 ### 引言：在动荡世界中观察川普贸易战

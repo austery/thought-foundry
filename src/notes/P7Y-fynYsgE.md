@@ -1,83 +1,83 @@
 ---
-author: The Diary Of A CEO
+area: society-systems
+category: general
+companies_orgs:
+- Time magazine
+- Stanford University
+- University of California, Berkeley
+- OpenAI
+- Google DeepMind
+- Nvidia
+- Anthropic
+- Google
+- Tesla
+- Alphabet Inc.
+- Amazon
+- European Union
+- International Association for Safe and Ethical AI
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+- Oppenheimer
+- The Culture series
+- Metropolis
+- WALL-E
+- Toy Story
+- The Incredibles
+- The Polar Express
+- Humans
+- 'Human Compatible: Artificial Intelligence and the Problem of Control'
+- The Alignment Problem
+people:
+- Stuart Russell
+- Richard Branson
+- Geoffrey Hinton
+- King Midas
+- Sam Altman
+- Elon Musk
+- Dario Amodei
+- J. Robert Oppenheimer
+- Queen Elizabeth
+- Adolf Hitler
+- Jan Leike
+- Ilya Sutskever
+- Alan Turing
+- John Maynard Keynes
+- Iain M. Banks
+- Andy Jassy
+- David Coleman
+- Rishi Sunak
+- Mark Andreessen
+- Jensen Huang
+- Donald Trump
+- Yoshua Bengio
+- Brian Christian
+products_models:
+- ChatGPT
+- GPT-4
+- Waymo
+- Optimus
+project:
+- ai-impact-analysis
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=P7Y-fynYsgE
 speaker: The Diary Of A CEO
-tags:
-  - existential-risk
-  - ai-safety
-  - intelligence-explosion
-  - gorilla-problem
-title: AI教父斯图尔特·罗素的终极警告：人类正用俄罗斯轮盘赌自己的未来
-summary: AI领域的泰斗、教科书作者斯图尔特·罗素教授发出了严峻警告。他认为，在无法保证绝对安全的情况下，追求超级智能无异于一场拿全人类命运做赌注的“俄罗斯轮盘赌”。通过“大猩猩困境”的比喻，他揭示了超级智能带来的生存风险。罗素教授对当前科技公司在巨大利益驱使下罔顾安全的竞赛感到震惊，并呼吁政府必须进行有效监管，否则人类可能在不远的将来彻底失去控制权。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - Stuart Russell
-  - Richard Branson
-  - Geoffrey Hinton
-  - King Midas
-  - Sam Altman
-  - Elon Musk
-  - Dario Amodei
-  - J. Robert Oppenheimer
-  - Queen Elizabeth
-  - Adolf Hitler
-  - Jan Leike
-  - Ilya Sutskever
-  - Alan Turing
-  - John Maynard Keynes
-  - Iain M. Banks
-  - Andy Jassy
-  - David Coleman
-  - Rishi Sunak
-  - Mark Andreessen
-  - Jensen Huang
-  - Donald Trump
-  - Yoshua Bengio
-  - Brian Christian
-companies_orgs:
-  - Time magazine
-  - Stanford University
-  - University of California, Berkeley
-  - OpenAI
-  - Google DeepMind
-  - Nvidia
-  - Anthropic
-  - Google
-  - Tesla
-  - Alphabet Inc.
-  - Amazon
-  - European Union
-  - International Association for Safe and Ethical AI
-products_models:
-  - ChatGPT
-  - GPT-4
-  - Waymo
-  - Optimus
-media_books:
-  - The Diary Of A CEO
-  - Oppenheimer
-  - The Culture series
-  - Metropolis
-  - WALL-E
-  - Toy Story
-  - The Incredibles
-  - The Polar Express
-  - Humans
-  - 'Human Compatible: Artificial Intelligence and the Problem of Control'
-  - The Alignment Problem
 status: evergreen
+summary: AI领域的泰斗、教科书作者斯图尔特·罗素教授发出了严峻警告。他认为，在无法保证绝对安全的情况下，追求超级智能无异于一场拿全人类命运做赌注的“俄罗斯轮盘赌”。通过“大猩猩困境”的比喻，他揭示了超级智能带来的生存风险。罗素教授对当前科技公司在巨大利益驱使下罔顾安全的竞赛感到震惊，并呼吁政府必须进行有效监管，否则人类可能在不远的将来彻底失去控制权。
+tags:
+- ai-safety
+- existential-risk
+- intelligence
+- problem
+title: AI教父斯图尔特·罗素的终极警告：人类正用俄罗斯轮盘赌自己的未来
 ---
+
 ### AI 教父的警告：不确保安全就是自取灭亡
 
 去年十月，包括理查德·布兰森 (Richard Branson) 和杰弗里·辛顿 (Jeffrey Hinton) 在内的超过 850 名专家签署了一份声明，呼吁禁止发展人工智能超级智能，因为他们对可能导致人类灭绝的风险感到担忧。除非我们能想出办法保证 AI 系统的安全，否则我们都将万劫不复。

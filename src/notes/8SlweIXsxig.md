@@ -1,65 +1,66 @@
 ---
-author: New York Times Podcasts
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- New York Times Book Review
+- Crown
+- Melon Foundation
+- Restless Books
+- AP
+- Chicago Sun-Times
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Correspondent
+- James (by Péter Esterházy)
+- Chain Gang Allstars
+- Alchemized
+- Fifty Shades of Gray
+- Twilight
+- Harry Potter fanfiction novels
+- Let Them Theory
+- The Bible
+- 107 Days
+- The Last Samurai
+- The Melancholy of Resistance
+- Satan Tango
+- Thursday Murder Club
+- Beneath the Trees Where Nobody Sees
+- I Will Prescribe You a Cat
+- romance-novel
+people:
+- MJ Franklin
+- Tina Jordan
+- John Maher
+- Alexandra Alter
+- Joan Didion
+- Anne Patchet
+- Rebecca Yaros
+- James Patterson
+- Mr. Beast
+- Mel Robbins
+- Kamala Harris
+products_models:
+- ChatGPT
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=8SlweIXsxig
 speaker: New York Times Podcasts
-tags:
-  - book-industry
-  - literary-trends
-  - fanfiction
-  - romance-novels
-  - llm
-title: 2025年图书界回顾：趋势、挑战与亮点
-summary: 本次播客深入探讨了2025年图书界的整体状况。主持人MJ Franklin与嘉宾Tina Jordan、John Maher和Alexandra Alter共同回顾了这一年的图书市场。大家普遍认为2025年是“失落的一年”或“充满损失的一年”，图书界缺乏引人注目的爆款，商业畅销书与评论界赞誉的书籍未能有效融合。行业面临挑战，包括出版商资金压力、非营利性出版社的困境以及媒体报道的萎缩。然而，粉丝文化对主流出版业的影响力日益增强，特别是“浪漫奇幻”（Romantasy）和“暗黑浪漫”（Dark Romance）的兴起，以及源自粉丝创作的图书大获成功。非虚构类图书市场表现疲软，但自助、宗教类及部分政治回忆录销量可观。播客还讨论了出版业的创新尝试，如播客、读书会等，以及独立小出版社的重要性。最后，嘉宾们分享了年度亮点，包括作者的长期创作坚持、类型小说的繁荣以及特定图书的成功。
-insight: ''
-draft: true
-series: ''
-category: career-development
-area: knowledge-meta
-project:
-  - ai-impact-analysis
-people:
-  - MJ Franklin
-  - Tina Jordan
-  - John Maher
-  - Alexandra Alter
-  - Joan Didion
-  - Anne Patchet
-  - Rebecca Yaros
-  - James Patterson
-  - Mr. Beast
-  - Mel Robbins
-  - Kamala Harris
-companies_orgs:
-  - New York Times Book Review
-  - Crown
-  - Melon Foundation
-  - Restless Books
-  - AP
-  - Chicago Sun-Times
-products_models:
-  - ChatGPT
-media_books:
-  - The Correspondent
-  - James (by Péter Esterházy)
-  - Chain Gang Allstars
-  - Alchemized
-  - Fifty Shades of Gray
-  - Twilight
-  - Harry Potter fanfiction novels
-  - Let Them Theory
-  - The Bible
-  - 107 Days
-  - The Last Samurai
-  - The Melancholy of Resistance
-  - Satan Tango
-  - Thursday Murder Club
-  - Beneath the Trees Where Nobody Sees
-  - I Will Prescribe You a Cat
 status: evergreen
+summary: 本次播客深入探讨了2025年图书界的整体状况。主持人MJ Franklin与嘉宾Tina Jordan、John Maher和Alexandra
+  Alter共同回顾了这一年的图书市场。大家普遍认为2025年是“失落的一年”或“充满损失的一年”，图书界缺乏引人注目的爆款，商业畅销书与评论界赞誉的书籍未能有效融合。行业面临挑战，包括出版商资金压力、非营利性出版社的困境以及媒体报道的萎缩。然而，粉丝文化对主流出版业的影响力日益增强，特别是“浪漫奇幻”（Romantasy）和“暗黑浪漫”（Dark
+  Romance）的兴起，以及源自粉丝创作的图书大获成功。非虚构类图书市场表现疲软，但自助、宗教类及部分政治回忆录销量可观。播客还讨论了出版业的创新尝试，如播客、读书会等，以及独立小出版社的重要性。最后，嘉宾们分享了年度亮点，包括作者的长期创作坚持、类型小说的繁荣以及特定图书的成功。
+tags:
+- fanfiction
+- industry
+- trend
+title: 2025年图书界回顾：趋势、挑战与亮点
 ---
+
 Hello and welcome to the Book Review Podcast. I'm MJ Franklin, an editor here at The New York Times Book Review. The year is almost done, the holidays are upon us, and the new year is on the horizon. But before we jump to 2026, I wanted to take a break and ask: what did 2025 mean for books? I don't mean the biggest and best books; you can find that in our previous episode. Today, I want to explore the big picture of 2025 for the book world. What was the year like? Were there dominant storylines or emerging trends? Looking back in 10, 20, or 50 years, how will we characterize this year in books? Joining me to debrief are my wonderful colleagues: Tina Jordan, a deputy editor here at The Book Review, and John Maher, a new book news editor. Welcome back to Alexandra Alter, a books reporter for The New York Times.
 
 Alexandra, you write profiles of authors, literary trends, and breaking news about the publishing industry. You know everything. Not as much as Tina and John, but collectively, we might know almost everything. Our powers combined! I wanted to gather the smartest book people I know to talk about the year. First, a vibe check: How are you feeling about 2025? I'll start. I feel the year was both exhausting and 'meh.' Not that there weren't good books, but the energy seemed deflated. Tina, do you agree?

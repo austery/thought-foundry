@@ -1,43 +1,44 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央电视台
+- 检察院
 date: '2024-07-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《张居正》
+- 《水流云在》
+- 《废墟夕阳》
+people:
+- 柴静
+- 熊召政
+- 野夫
+- 刘主席
+- 冯亦代
+- 英若诚
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=_VrA94WCsx0
 speaker: 柴静 Chai Jing
-tags:
-  - june-fourth-incident
-  - informant-case
-  - intellectual-responsibility
-  - historical-truth
-  - political-persecution
-title: 柴静访熊召政：六四告密案、历史真相与知识分子的沉默
-summary: 资深媒体人柴静就“六四告密案”采访作家熊召政，试图了解其在野夫因该案入狱事件中的角色。面对柴静对历史真相、个人形象和知识分子责任的追问，熊召政选择沉默，称时机未到，历史终将还原真相。柴静强调了其回应的重要性，以避免被视为告密者形象，并引用其他知识分子晚年反思的案例，呼吁其为历史和自我作出解释。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 柴静
-  - 熊召政
-  - 野夫
-  - 刘主席
-  - 冯亦代
-  - 英若诚
-companies_orgs:
-  - 中央电视台
-  - 检察院
-products_models: []
-media_books:
-  - 《张居正》
-  - 《水流云在》
-  - 《废墟夕阳》
 status: evergreen
+summary: 资深媒体人柴静就“六四告密案”采访作家熊召政，试图了解其在野夫因该案入狱事件中的角色。面对柴静对历史真相、个人形象和知识分子责任的追问，熊召政选择沉默，称时机未到，历史终将还原真相。柴静强调了其回应的重要性，以避免被视为告密者形象，并引用其他知识分子晚年反思的案例，呼吁其为历史和自我作出解释。
+tags:
+- historical
+- history
+- informant-case
+- political-persecution
+title: 柴静访熊召政：六四告密案、历史真相与知识分子的沉默
+companies:
+- intellectual-responsibility
 ---
+
 ### 开场与采访缘由
 
 资深媒体人柴静在一次电话采访中，向熊召政先生表明身份，并告知其正在制作一期关于野夫的独立采访节目。柴静指出，野夫在采访中谈及了**六四事件**（1989年春夏之交发生在中国北京的民主运动）期间与熊先生的一段往事。为了能够准确和公正地呈现这件事情，柴静希望熊先生能够对此事发表看法。

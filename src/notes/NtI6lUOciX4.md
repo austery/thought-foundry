@@ -1,43 +1,43 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-08-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《德米安：彷徨少年时》
+- 《你当像鸟飞向你的山》
+- 《野草》
+- 《哈姆雷特》
+people:
+- 杜素娟
+- 赫尔曼·黑塞
+- 鲁迅
+- 拜伦
+- 莎士比亚
+- 辛克莱
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=NtI6lUOciX4
 speaker: 一席YiXi
-tags:
-  - self-awareness
-  - parental-control
-  - adolescent-development
-  - emotional-suppression
-  - critical-thinking
-title: 青春叛逆期：一场被误解的自我觉醒之旅
-summary: 杜素娟通过《德米安：彷徨少年时》与鲁迅、莎士比亚的文本，揭示‘青春叛逆’实为自我意识萌发的信号，批判父母将服从等同于安全的错误认知，并提出‘证伪’与‘沟通’是突破成长困境的关键路径。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - cultural-critique
-people:
-  - 杜素娟
-  - 赫尔曼·黑塞
-  - 鲁迅
-  - 拜伦
-  - 莎士比亚
-  - 辛克莱
-companies_orgs: []
-products_models: []
-media_books:
-  - 《德米安：彷徨少年时》
-  - 《你当像鸟飞向你的山》
-  - 《野草》
-  - 《哈姆雷特》
 status: evergreen
+summary: 杜素娟通过《德米安：彷徨少年时》与鲁迅、莎士比亚的文本，揭示‘青春叛逆’实为自我意识萌发的信号，批判父母将服从等同于安全的错误认知，并提出‘证伪’与‘沟通’是突破成长困境的关键路径。
+tags:
+- control
+- critical-thinking
+- development
+- emotional
+- self-awareness
+title: 青春叛逆期：一场被误解的自我觉醒之旅
 ---
+
 ### 青春叛逆：一场被误解的自我觉醒
 
 大家好，我是杜素娟。在华东政法大学教书二十六年，也是一名关注青少年成长的B站UP主。今天我想和大家探讨一个我们耳熟能详、却充满误解的话题——“青春叛逆期”。

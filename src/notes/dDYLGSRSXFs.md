@@ -1,49 +1,49 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 网信办
+- 中央电视台
+- 浙江省委宣传部
+- 腾讯
+- 华为
+- Bilibili
+- 抖音
+- 小红书
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《法治在线》
+people:
+- 户晨风
+- 张雪峰
+- 米歇尔·福柯
+- 梁文道
+- 柴静
+- 郭文贵
+- 刘仲敬
+products_models:
+- 鸿蒙
+project:
+- china-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dDYLGSRSXFs
 speaker: FearNation 世界苦茶
-tags:
-  - emotion-governance
-  - internet-censorship
-  - social-control
-  - positive-energy-algorithm
-title: 从户晨风事件解析网信办“清朗行动”：当国家开始治理你的情绪
-summary: 中国网信办的“清朗行动”已从内容审查升级为“情绪治理”。本文以网红户晨风被封事件为切入点，深入剖析了这一转变。文章指出，情绪治理并非随意执法，而是一项有计划、有目标的系统性工程，旨在通过“处罚型”行动打击负面情绪的集结点，并利用“正能量算法”稀释负面信息，从而管理社会风险。这种策略反映了当局对社会不满情绪蔓延的深层忧虑，并可能导致负面情绪的个人化、网络暴力的弥散化以及公共场域表演性的增强，最终对社会心理和个体生活产生深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - 户晨风
-  - 张雪峰
-  - 米歇尔·福柯
-  - 梁文道
-  - 柴静
-  - 郭文贵
-  - 刘仲敬
-companies_orgs:
-  - 网信办
-  - 中央电视台
-  - 浙江省委宣传部
-  - 腾讯
-  - 华为
-  - Bilibili
-  - 抖音
-  - 小红书
-products_models:
-  - 鸿蒙
-media_books:
-  - 《法治在线》
 status: evergreen
+summary: 中国网信办的“清朗行动”已从内容审查升级为“情绪治理”。本文以网红户晨风被封事件为切入点，深入剖析了这一转变。文章指出，情绪治理并非随意执法，而是一项有计划、有目标的系统性工程，旨在通过“处罚型”行动打击负面情绪的集结点，并利用“正能量算法”稀释负面信息，从而管理社会风险。这种策略反映了当局对社会不满情绪蔓延的深层忧虑，并可能导致负面情绪的个人化、网络暴力的弥散化以及公共场域表演性的增强，最终对社会心理和个体生活产生深远影响。
+tags:
+- energy
+- governance
+- internet-censorship
+- social-control
+title: 从户晨风事件解析网信办“清朗行动”：当国家开始治理你的情绪
 ---
+
 ### 引言：超越“压制真相”与“口袋罪”的传统解读
 
 今天我们来探讨一个大家非常熟悉的话题——网信办的**清朗行动**（Qinglang Campaign: 由中国国家互联网信息办公室发起的一系列旨在“净化”网络环境的专项整治行动）。自2016年起，尤其是在疫情之后，清朗行动的频率和知名度都越来越高。

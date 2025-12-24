@@ -1,34 +1,33 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: life-family
+category: health-wellness
+companies_orgs:
+- UCSF（加州大學舊金山分校）
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 許翱麟
+- 宋晏仁
+- Bryan Johnson
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=E8TWhte2huc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - aging
-  - anti-aging
-  - longevity
-  - lifestyle
-  - dietary-restriction
-title: 老化研究專家：科學上唯一證實有效抗老的方式，一毛錢都不必花｜【初日會客室】許翱麟 教授
-summary: 本期節目邀請到基礎科學研究人員許翱麟教授，探討老化及其抗老化議題。教授解釋了老化的生理意義，強調抗老化的真正目的是延長健康壽命而非追求長生不死。研究指出，基因影響老化速度約十幾到二十個百分點，環境因素則扮演關鍵角色，包括飲食限制（如熱量限制、限時進食法168）和社會影響力。極端方法如血液交換被認為不可取，而吃得好、有運動、好好睡覺是科學證實最有效的方式。人類抗老研究的最大挑戰是缺乏統一的有效指標。生物體複雜度遠超想像，2040年克服所有疾病的可能性不高，但許多疾病將被治癒。最後，教授認為自我意識是最有趣的生物學議題。
-insight: ''
-draft: true
-series: ''
-category: health-wellness
-area: life-family
-project: []
-people:
-  - 許翱麟
-  - 宋晏仁
-  - Bryan Johnson
-companies_orgs:
-  - UCSF（加州大學舊金山分校）
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期節目邀請到基礎科學研究人員許翱麟教授，探討老化及其抗老化議題。教授解釋了老化的生理意義，強調抗老化的真正目的是延長健康壽命而非追求長生不死。研究指出，基因影響老化速度約十幾到二十個百分點，環境因素則扮演關鍵角色，包括飲食限制（如熱量限制、限時進食法168）和社會影響力。極端方法如血液交換被認為不可取，而吃得好、有運動、好好睡覺是科學證實最有效的方式。人類抗老研究的最大挑戰是缺乏統一的有效指標。生物體複雜度遠超想像，2040年克服所有疾病的可能性不高，但許多疾病將被治癒。最後，教授認為自我意識是最有趣的生物學議題。
+tags:
+- anti
+- health
+- investment
+- life
+- llm
+title: 老化研究專家：科學上唯一證實有效抗老的方式，一毛錢都不必花｜【初日會客室】許翱麟 教授
 ---
+
 ### 節目開場
 嗨 大家好 我是**宋晏仁** (宋醫師) 歡迎您來到初日會客室 今天為您邀請的是非常傑出的基礎科學研究人員 科學家 要談的題目是跟老化相關的題目 邀訪的是**許翱麟** (許教授)
 

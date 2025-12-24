@@ -1,46 +1,46 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 协和医学院
+- 中日友好医院
+- 北京理工大学
+- 三鹿集团
+- 国家卫生健康委员会
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- 董袭莹
+- 肖飞
+- 邹医生
+- 邱贵兴
+- 赵继怀
+- Ban Xiaojuan
+- 田文华
+- 老周
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=8gDqT1aGB98
 speaker: 老周横眉
-tags:
-  - china-healthcare-system
-  - medical-education-reform
-  - academic-corruption
-  - social-inequality
-  - power-dynamics
-title: 董小姐事件：协和“4+4”制度下的特权与中国医疗体系的深层危机
-summary: 近期，董小姐事件引发广泛关注，其背后牵扯出中国协和医学院“4+4”学制的争议。该学制原意旨在吸引跨领域人才，但在中国实践中却被指沦为权贵子女的“绿色通道”。文章深入剖析了中国“4+4”与西方同类制度的本质区别，揭露了董小姐学术造假、人品不端等问题，并进一步探讨了中国医疗教育体系中普遍存在的权力寻租与深层腐败，以及权力阶层在看似稳固下的深层焦虑与恐惧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 董袭莹
-  - 肖飞
-  - 邹医生
-  - 邱贵兴
-  - 赵继怀
-  - Ban Xiaojuan
-  - 田文华
-  - 老周
-companies_orgs:
-  - 协和医学院
-  - 中日友好医院
-  - 北京理工大学
-  - 三鹿集团
-  - 国家卫生健康委员会
-products_models: []
-media_books: []
 status: evergreen
+summary: 近期，董小姐事件引发广泛关注，其背后牵扯出中国协和医学院“4+4”学制的争议。该学制原意旨在吸引跨领域人才，但在中国实践中却被指沦为权贵子女的“绿色通道”。文章深入剖析了中国“4+4”与西方同类制度的本质区别，揭露了董小姐学术造假、人品不端等问题，并进一步探讨了中国医疗教育体系中普遍存在的权力寻租与深层腐败，以及权力阶层在看似稳固下的深层焦虑与恐惧。
+tags:
+- academic-corruption
+- china-healthcare-system
+- medical-education-reform
+- power-dynamic
+- social-inequality
+title: 董小姐事件：协和“4+4”制度下的特权与中国医疗体系的深层危机
 ---
+
 ### 董小姐事件：从桃色新闻到公共议题
 
 曾几何时，人们怀疑过药是假的，怀疑过设备失灵，甚至怀疑过自己身体不行，却从没想过医生会是假的。这是最近几天中国网友的普遍心声。最近，27岁的医学博士董袭莹（人称“董小姐”）在中国走红。起初，这只是一个桃色新闻，但经过两天的发酵，这件桃色新闻已经变成了一件真正与老百姓生活相关的公共事件。董小姐也从肖飞、邹医生等众多情妇当中的一个小配角，一跃成为大女主。这件事硬生生地从下半身的裤带关系，牵扯出了裙带关系。

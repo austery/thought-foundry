@@ -1,31 +1,30 @@
 ---
-title: 「灰区」新闻网爆料：比尔·阿克曼曾就以色列问题向查理·柯克施压
-summary: 一篇「灰区新闻网」的独家报道揭露了亿万富翁比尔·阿克曼如何在一个月前对查理·柯克施压，要求其改变对以色列影响力的批评立场。文章还探讨了亲以色列游说集团的幕后操作及其对美国政治和媒体的渗透。
 area: market-analysis
 category: geopolitics
-project:
-- us-analysis
-tags:
-- israel-lobby
-- us-foreign-policy
-people:
-- bill-ackman
-- charlie-kirk
 companies_orgs:
 - grayzone-news
-products_models: []
-media_books: []
 date: '2025-09-22'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- bill-ackman
+- charlie-kirk
+products_models: []
+project:
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=95frzLLs-V8
+speaker: 北美王路飞
 status: evergreen
+summary: 一篇「灰区新闻网」的独家报道揭露了亿万富翁比尔·阿克曼如何在一个月前对查理·柯克施压，要求其改变对以色列影响力的批评立场。文章还探讨了亲以色列游说集团的幕后操作及其对美国政治和媒体的渗透。
+tags:
+- geopolitical
+- us-foreign-policy
+title: 「灰区」新闻网爆料：比尔·阿克曼曾就以色列问题向查理·柯克施压
 ---
+
 ### 「灰区」新闻网的独家报道
 
 今天我们来解读一篇在直播中曾提及的文章。这篇文章于2025年9月15日，由**马克思·布鲁门萨尔**（Max Blumenthal: 左翼独立新闻网站“灰区”的创始人）在**灰区新闻网**（The Grayzone: 一个左翼独立新闻网站）发表。标题为《亿万富翁**比尔·阿克曼**（Bill Ackman: 知名对冲基金经理、亲以色列金融家）和**查理·柯克**（Charlie Kirk: 保守派活动家、美国转折点组织TPUSA创始人）召开了一场充满火药味的以色列问题干预会》。

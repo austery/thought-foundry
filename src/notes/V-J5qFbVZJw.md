@@ -1,57 +1,57 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: general
+companies_orgs:
+- 清华大学
+- 协和医院
+- 北京市劳动卫生职业病防治所
+- 公安局
+- 帮助朱立基金会
 date: '2024-03-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《1-109号》
+- 《约翰·克里斯托弗》
+- 《现眼》
+people:
+- 朱令
+- 孙维
+- 柴静
+- 赫米博士
+- 李顺伟
+- 童宇峰
+- 薛方宇
+- 白广美
+- 童爱君
+- 张力
+- 王琪
+- 李梦成
+- 李树森
+- 王大中
+- 贺美英
+- 马林
+- 王浦
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=V-J5qFbVZJw
 speaker: 柴静 Chai Jing
-tags:
-  - thallium-poisoning
-  - evidence-loss
-  - institutional-responsibility
-  - police-investigation
-  - lack-of-transparency
-title: 清华朱令铊中毒案：关键证据为何屡次灭失，真相何在？
-summary: 本文深入探讨清华大学朱令铊中毒案中，关键证据的灭失过程及其对案件侦破的影响。从迟迟未确诊、校方对铊的管理失职、宿舍失窃案、到学校与警方在信息公开和责任认定上的争议，揭示了案件侦查的重重阻碍，以及受害者家属和同学在追寻真相过程中的困境与坚持。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - 朱令
-  - 孙维
-  - 柴静
-  - 赫米博士
-  - 李顺伟
-  - 童宇峰
-  - 薛方宇
-  - 白广美
-  - 童爱君
-  - 张力
-  - 王琪
-  - 李梦成
-  - 李树森
-  - 王大中
-  - 贺美英
-  - 马林
-  - 王浦
-companies_orgs:
-  - 清华大学
-  - 协和医院
-  - 北京市劳动卫生职业病防治所
-  - 公安局
-  - 帮助朱立基金会
-products_models: []
-media_books:
-  - 《1-109号》
-  - 《约翰·克里斯托弗》
-  - 《现眼》
 status: evergreen
+summary: 本文深入探讨清华大学朱令铊中毒案中，关键证据的灭失过程及其对案件侦破的影响。从迟迟未确诊、校方对铊的管理失职、宿舍失窃案、到学校与警方在信息公开和责任认定上的争议，揭示了案件侦查的重重阻碍，以及受害者家属和同学在追寻真相过程中的困境与坚持。
+tags:
+- institutional
+- investment
+- loss
+- technology
+- thallium-poisoning
+title: 清华朱令铊中毒案：关键证据为何屡次灭失，真相何在？
 ---
+
 ### 迟滞的诊断与清华的沉默
 
 在上集节目中，赫米博士指出，朱令头发的检测结果显示她曾反复多次长期涉入**剧毒物**（Highly Toxic Substance: 具有极高毒性，能对人体造成严重伤害甚至死亡的物质）。尤其在最后一次急性中毒期间，她涉入的**铊**（Thallium: 一种剧毒重金属元素）远高于平常的频率和剂量。而那段时间，朱令因生病，大部分活动范围都在宿舍。案发后，朱令的室友孙维是警方已知的唯一嫌疑人。然而，孙维在2005年的声明中表示，警方在没有任何证据的情况下将其列为嫌疑人，并在一年后解除其嫌疑时承认，没有证据证明他与朱令中毒案有关。不过，八年之后，北京警方发表声明，称此案未侦破是因为没有获取认定犯罪嫌疑人的直接证据。这两种表述在法律语境下有实质性区别。

@@ -1,64 +1,64 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Intuit
+- Adobe
+- Broadcom
+- Moody's
+- AMD
+- Applied Materials
+- NVIDIA
+- Apple
+- Samsung
+- Intel
+- SK hynix
+- Microchip
+- Amazon
+- Google
+- Meta
+- Tesla
+- Microsoft
+- AWS
+- Alibaba
 date: '2024-10-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- 巴菲特
+products_models:
+- QuickBooks
+- TurboTax
+- Creative Cloud
+- PDF
+- Photoshop
+- Premiere Pro
+- Document Cloud
+- CA Technologies
+- VMware
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=PoGuHURiLHo
 speaker: Shijun Tang
-tags:
-  - market-misconception
-  - long-term-investing
-  - reinvestment-wealth
-  - capital-expenditure-efficiency
-  - subscription-business-model
-title: 为什么90%投资者亏钱？揭开指数基金迷思与真正的复利机器
-summary: 本文剖析了‘普通人无法跑赢大盘’的普遍迷思，指出多数人实为投机者而非投资者，并深入分析Intuit、Adobe、Broadcom、Moody's与AMAT等五家真正具备复利能力的公司，揭示长期价值投资的核心逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - 唐石峻
-  - 巴菲特
-companies_orgs:
-  - Intuit
-  - Adobe
-  - Broadcom
-  - Moody's
-  - AMD
-  - Applied Materials
-  - NVIDIA
-  - Apple
-  - Samsung
-  - Intel
-  - SK hynix
-  - Microchip
-  - Amazon
-  - Google
-  - Meta
-  - Tesla
-  - Microsoft
-  - AWS
-  - Alibaba
-products_models:
-  - QuickBooks
-  - TurboTax
-  - Creative Cloud
-  - PDF
-  - Photoshop
-  - Premiere Pro
-  - Document Cloud
-  - CA Technologies
-  - VMware
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文剖析了‘普通人无法跑赢大盘’的普遍迷思，指出多数人实为投机者而非投资者，并深入分析Intuit、Adobe、Broadcom、Moody's与AMAT等五家真正具备复利能力的公司，揭示长期价值投资的核心逻辑。
+tags:
+- capital-expenditure-efficiency
+- long-term-investing
+- market
+- subscription-business-model
+- wealth
+title: 为什么90%投资者亏钱？揭开指数基金迷思与真正的复利机器
 ---
+
 ### 普通人真跑不赢大盘吗？一个被广泛误传的迷思
 
 普通人不可能跑赢大盘吗？如果没有买“七巨头”，你还不如去买指数基金。公开股权市场是一个危险丛生的迷宫，稍不注意，你就会亏很多钱——毕竟你看到的数据也是这么反馈的：市场中超过80%到90%的人都亏钱，绝大多数普通参与者都跑不过大盘。所谓选股，那是专业人士做的事，普通人根本玩不转。

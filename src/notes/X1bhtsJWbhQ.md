@@ -1,101 +1,100 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Robinhood
+- OpenDoor
+- Take-Two Interactive
+- MP Materials
+- Nvidia
+- Oklo
+- Rocket Lab
+- SoFi
+- Meta
+- Grab
+- GoTo
+- Expedia
+- CNBC
+- ADP
+- Challenger, Gray & Christmas
+- Indeed
+- TSMC
+- Samsung
+- Intel
+- OpenAI
+- AMD
+- Oracle
+- Broadcom
+- American Airlines
+- GameStop
+- Archer Aviation
+- AppLovin
+- Palantir
+- Citron Research
+- Duolingo
+- Reuters
+- Trump Media & Technology Group
+- Google
+- Amazon
+- Microsoft
+- Citi
+- Blackstone
+- Apollo Global Management
+- Ares Management
+- Politico
+- Goldman Sachs
+- JPMorgan Chase
+- Charles Schwab
+- Forge Global
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Elon Musk
+- Donald Trump
+- Nancy Pelosi
+- Sam Altman
+- David Sachs
+- Vlad Tenev
+- Michael Burry
+- Jensen Huang
+- Alex Karp
+- Jamie Dimon
+- Brad Gersonner
+- Kevin Hasset
+- John Thune
+- Mike Johnson
+- Gene Munster
+- Jane Fraser
+products_models:
+- Bitcoin
+- Ethereum
+- Grand Theft Auto
+- FSD
+- Blackwell
+- H100
+- H20
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=X1bhtsJWbhQ
 speaker: Amit Kukreja
-tags:
-  - market-downturn
-  - labor-market-weakness
-  - government-shutdown-impact
-  - ai-compute-demand
-  - investment-psychology
-title: 市场动荡：马斯克获天价薪酬，英伟达对华销售受阻，美股全线下跌
-summary: 本周股市以惨淡收场，市场普遍下跌。核心驱动因素包括持续疲软的劳动力市场数据、对动量股的获利了结，以及美国政府长期停摆对经济的负面影响。个股方面，特斯拉股东批准了马斯克的万亿薪酬方案，同时马斯克暗示可能自建芯片厂以应对算力瓶颈。美国政府升级对华芯片禁令，禁止英伟达和AMD向中国销售任何重要AI芯片。OpenAI的融资言论引发市场担忧，而Grab与GoTo的合并传闻则为市场带来一丝波澜。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Elon Musk
-  - Donald Trump
-  - Nancy Pelosi
-  - Sam Altman
-  - David Sachs
-  - Vlad Tenev
-  - Michael Burry
-  - Jensen Huang
-  - Alex Karp
-  - Jamie Dimon
-  - Brad Gersonner
-  - Kevin Hasset
-  - John Thune
-  - Mike Johnson
-  - Gene Munster
-  - Jane Fraser
-companies_orgs:
-  - Tesla
-  - Robinhood
-  - OpenDoor
-  - Take-Two Interactive
-  - MP Materials
-  - Nvidia
-  - Oklo
-  - Rocket Lab
-  - SoFi
-  - Meta
-  - Grab
-  - GoTo
-  - Expedia
-  - CNBC
-  - ADP
-  - Challenger, Gray & Christmas
-  - Indeed
-  - TSMC
-  - Samsung
-  - Intel
-  - OpenAI
-  - AMD
-  - Oracle
-  - Broadcom
-  - American Airlines
-  - GameStop
-  - Archer Aviation
-  - AppLovin
-  - Palantir
-  - Citron Research
-  - Duolingo
-  - Reuters
-  - Trump Media & Technology Group
-  - Google
-  - Amazon
-  - Microsoft
-  - Citi
-  - Blackstone
-  - Apollo Global Management
-  - Ares Management
-  - Politico
-  - Goldman Sachs
-  - JPMorgan Chase
-  - Charles Schwab
-  - Forge Global
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Grand Theft Auto
-  - FSD
-  - Blackwell
-  - H100
-  - H20
-media_books: []
 status: evergreen
+summary: 本周股市以惨淡收场，市场普遍下跌。核心驱动因素包括持续疲软的劳动力市场数据、对动量股的获利了结，以及美国政府长期停摆对经济的负面影响。个股方面，特斯拉股东批准了马斯克的万亿薪酬方案，同时马斯克暗示可能自建芯片厂以应对算力瓶颈。美国政府升级对华芯片禁令，禁止英伟达和AMD向中国销售任何重要AI芯片。OpenAI的融资言论引发市场担忧，而Grab与GoTo的合并传闻则为市场带来一丝波澜。
+tags:
+- financial
+- government-shutdown-impact
+- investment-psychology
+- labor-market-weakness
+- market-downturn
+title: 市场动荡：马斯克获天价薪酬，英伟达对华销售受阻，美股全线下跌
 ---
+
 ### 市场开盘概览：全线普跌
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月7日，星期五，感谢各位的到来。今天盘前市场表现糟糕，为本周股市的惨淡画上了一个句号。这真是难熬的一天，但老实说，过去几天一直都有这种感觉，所以我理解大家普遍感到很烦恼。

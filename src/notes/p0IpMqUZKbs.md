@@ -1,40 +1,40 @@
 ---
-author: TED
+area: society-systems
+category: geopolitics
+companies_orgs:
+- North American Traditional Indigenous Food Systems
+- Cheyenne River Sue Tribe
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Iliad
+- How to Be a Better Human
+people:
+- Sean Sherman
+- Linda Black Elk
+- Achilles
+products_models:
+- Oamni
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=p0IpMqUZKbs
 speaker: TED
-tags:
-  - indigenous-food
-  - ethnobotany
-  - cultural-preservation
-  - sustainable-harvesting
-  - food-sovereignty
-title: 与自然共食：原住民美食如何重塑我们与土地的关系
-summary: 本篇文章探讨了原住民美食如何帮助我们重新思考食物的来源、文化意义以及与土地的连接。通过介绍奥格拉拉拉科塔族厨师肖恩·谢尔曼的餐厅Oamni及其独特的烹饪哲学，以及民族植物学家琳达·布莱克·埃尔克关于野生植物的知识，文章揭示了北美原住民饮食的丰富多样性，并强调了可持续采摘和尊重植物的重要性。同时，文章也深入探讨了殖民历史对原住民饮食文化的压制，以及通过食物主权来恢复文化认同和社区力量的未来愿景。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Sean Sherman
-  - Linda Black Elk
-  - Achilles
-companies_orgs:
-  - North American Traditional Indigenous Food Systems
-  - Cheyenne River Sue Tribe
-products_models:
-  - Oamni
-media_books:
-  - The Iliad
-  - How to Be a Better Human
 status: evergreen
+summary: 本篇文章探讨了原住民美食如何帮助我们重新思考食物的来源、文化意义以及与土地的连接。通过介绍奥格拉拉拉科塔族厨师肖恩·谢尔曼的餐厅Oamni及其独特的烹饪哲学，以及民族植物学家琳达·布莱克·埃尔克关于野生植物的知识，文章揭示了北美原住民饮食的丰富多样性，并强调了可持续采摘和尊重植物的重要性。同时，文章也深入探讨了殖民历史对原住民饮食文化的压制，以及通过食物主权来恢复文化认同和社区力量的未来愿景。
+tags:
+- cultural
+- ethnobotany
+- geopolitical
+- life
+- llm
+title: 与自然共食：原住民美食如何重塑我们与土地的关系
 ---
+
 ### 重新认识食物的来源
 
 当我搬到洛杉矶时，有一次我在杂货店买柠檬，我的邻居看见我，问道：“你为什么要买柠檬？”

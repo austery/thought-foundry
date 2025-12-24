@@ -1,49 +1,49 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Google
+- Amazon
+- Meta
+- ASML
+- TSMC
+- NVIDIA
+- Skynet
 date: '2024-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Terminator 2
+- Terminator
+people:
+- Nicolai Tangen
+- Arnold Schwarzenegger
+products_models:
+- ChatGPT
+- T-800
+- T-1000
+project:
+- investment-strategy
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=m2FCGwuAlaI
 speaker: Norges Bank Investment Management
-tags:
-  - ai-security
-  - sovereign-wealth-fund
-  - geopolitical-risk
-  - investment-optimization
-  - supply-chain-vulnerability
-title: AI如何保护挪威万亿主权财富基金
-summary: 挪威主权财富基金（Oljefondet）的代表探讨了人工智能在保护和管理其庞大资产中的作用。文章回顾了Y2K和互联网泡沫等技术变革，强调了AI带来的机遇与挑战，特别是如何利用AI应对金融风险、信息泄露、地缘政治脆弱性及供应链攻击。同时，基金也在探索AI在投资策略中的应用，以优化投资组合并识别新的价值创造机会，但强调AI仅作为交易员的决策支持工具。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Nicolai Tangen
-  - Arnold Schwarzenegger
-companies_orgs:
-  - Norges Bank Investment Management
-  - Google
-  - Amazon
-  - Meta
-  - ASML
-  - TSMC
-  - NVIDIA
-  - Skynet
-products_models:
-  - ChatGPT
-  - T-800
-  - T-1000
-media_books:
-  - In Good Company
-  - Terminator 2
-  - Terminator
 status: evergreen
+summary: 挪威主权财富基金（Oljefondet）的代表探讨了人工智能在保护和管理其庞大资产中的作用。文章回顾了Y2K和互联网泡沫等技术变革，强调了AI带来的机遇与挑战，特别是如何利用AI应对金融风险、信息泄露、地缘政治脆弱性及供应链攻击。同时，基金也在探索AI在投资策略中的应用，以优化投资组合并识别新的价值创造机会，但强调AI仅作为交易员的决策支持工具。
+tags:
+- geopolitical-risk
+- investment
+- security
+- sovereign-wealth-fund
+- supply-chain-vulnerability
+title: AI如何保护挪威万亿主权财富基金
 ---
+
 ### 科技革命的启示：从Y2K到AI时代
 
 （背景音乐）

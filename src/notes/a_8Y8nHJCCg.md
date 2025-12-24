@@ -1,41 +1,41 @@
 ---
-author: Peter Pang
+area: tech-insights
+category: technology
+companies_orgs: []
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《三体》
+people:
+- Stanislaw Ulam
+- John von Neumann
+- Jensen Huang
+products_models:
+- ENIAC
+- Fat Man
+- Little Boy
+- Ray Tracing
+- DLSS
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=a_8Y8nHJCCg
 speaker: Peter Pang
-tags:
-  - monte-carlo-simulation
-  - computational-methods
-  - random-sampling
-  - scientific-algorithms
-  - big-data-analysis
-title: 蒙特卡罗模拟：科学史上最“赖皮”却最有用的算法
-summary: 本文深入探讨了蒙特卡罗模拟这一在现代科学史上极具影响力的算法。从其在二战核武器研发中的诞生，到其核心原理——通过大规模随机模拟逼近真实结果，再到其在核物理、统计学、金融、图形渲染等领域的广泛应用，揭示了算力进步如何将这一“赖皮”却高效的统计方法变为解决复杂问题的强大工具。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Stanislaw Ulam
-  - John von Neumann
-  - Jensen Huang
-companies_orgs: []
-products_models:
-  - ENIAC
-  - Fat Man
-  - Little Boy
-  - Ray Tracing
-  - DLSS
-media_books:
-  - 《三体》
 status: evergreen
+summary: 本文深入探讨了蒙特卡罗模拟这一在现代科学史上极具影响力的算法。从其在二战核武器研发中的诞生，到其核心原理——通过大规模随机模拟逼近真实结果，再到其在核物理、统计学、金融、图形渲染等领域的广泛应用，揭示了算力进步如何将这一“赖皮”却高效的统计方法变为解决复杂问题的强大工具。
+tags:
+- computational-method
+- data
+- random-sampling
+- scientific
+- technology
+title: 蒙特卡罗模拟：科学史上最“赖皮”却最有用的算法
 ---
+
 ### 蒙特卡罗模拟：从有限算力到无限可能
 
 计算机自发明之初，其计算能力便如坐火箭般疯狂飙升。然而，再强大的算力也是有限的，在无穷无尽的宇宙面前，它不过是沧海一粟。困扰我们的并非宇宙的浩瀚，而是其内在的**不确定性**。看过《三体》的观众应该能理解**混沌理论**（Chaos Theory: 描述对初始条件敏感的动力学系统，微小变化可导致巨大差异的理论）的威力：微小的误差会被指数级放大，使计算结果与真实结果产生天壤之别。直到有一天，一位天才想到了一个天才的做法：如果过程难以计算，那不如干脆不计算过程，只模拟结果。通过大量的随机模拟获得海量数据，再从统计学的角度找到最接近真相的答案。这就是**蒙特卡罗模拟**（Monte Carlo Simulation: 一种通过随机抽样和统计学方法解决复杂问题的计算方法），现代科学史上最“赖皮”却也是最有用的算法之一。

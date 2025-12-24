@@ -1,49 +1,49 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Bloomberg Audio Studios
+- Furniture Enterprises of Alaska
+- Sadler's Furniture
+- Williams and K Home Furnishings
+- Ashley
+- Mattress Firm
+- Lazy Boy
+- Ultimate Mattress
+- FDIC
+- Walmart
+- Home Depot
 date: '2025-08-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Moby Dick
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Dave Kavitt
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=061mrtLveDE
 speaker: Bloomberg Podcasts
-tags:
-  - alaskan-economy
-  - furniture-retail
-  - supply-chain-challenges
-  - tariff-volatility
-  - economic-cycles
-title: 阿拉斯加家具业：关税、物流与经济周期的独特视角
-summary: 本期播客深入探讨了在阿拉斯加经营家具业务所面临的独特挑战。嘉宾戴夫·卡维特分享了其公司在极端气候、高昂运费（受琼斯法案影响）、油气产业驱动的经济周期波动、住房市场停滞以及劳动力短缺等方面的经验。节目还分析了关税政策的不确定性如何影响供应链和定价策略，以及不同消费群体对经济压力的敏感度。通过阿拉斯加的案例，节目提供了一个观察宏观经济趋势的微观视角。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Dave Kavitt
-companies_orgs:
-  - Bloomberg Audio Studios
-  - Furniture Enterprises of Alaska
-  - Sadler's Furniture
-  - Williams and K Home Furnishings
-  - Ashley
-  - Mattress Firm
-  - Lazy Boy
-  - Ultimate Mattress
-  - FDIC
-  - Walmart
-  - Home Depot
-products_models: []
-media_books:
-  - Odd Lots
-  - Moby Dick
 status: evergreen
+summary: 本期播客深入探讨了在阿拉斯加经营家具业务所面临的独特挑战。嘉宾戴夫·卡维特分享了其公司在极端气候、高昂运费（受琼斯法案影响）、油气产业驱动的经济周期波动、住房市场停滞以及劳动力短缺等方面的经验。节目还分析了关税政策的不确定性如何影响供应链和定价策略，以及不同消费群体对经济压力的敏感度。通过阿拉斯加的案例，节目提供了一个观察宏观经济趋势的微观视角。
+tags:
+- economic-cycle
+- economy
+- llm
+- supply-chain-challenge
+- tariff-volatility
+title: 阿拉斯加家具业：关税、物流与经济周期的独特视角
 ---
+
 ### 极端气候与家具的奇妙联系
 
 Tracy: 大家好，欢迎收听新一期的《Odd Lots》播客。我是特雷西·阿洛韦。

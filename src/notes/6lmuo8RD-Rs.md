@@ -1,60 +1,62 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: tech-insights
+category: technology
+companies_orgs:
+- Poolside
+- First Mark
+- Nvidia
+- OpenAI
+- Anthropic
+- AWS
+- GCP
+- Azure
+- CoreWeave
+- TSMC
+- xAI
+- Google
+- Red Panda
+- Palantir
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The MAD Podcast
+- The Unreasonable Effectiveness of Recurrent Neural Networks
+people:
+- Eiso Kant
+- Matt Turck
+- Andrej Karpathy
+products_models:
+- GPT-4
+- GB200
+- GB300
+- Malibu
+- Laguna
+- Point
+- VS Code
+- IntelliJ
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=6lmuo8RD-Rs
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - agi-race
-  - physical-infrastructure
-  - reinforcement-learning
-  - model-commoditization
-  - scaling-laws
-title: 智能已商品化：Poolside创始人揭示能源与算力如何决定AGI竞赛的终局
-summary: Poolside 联合创始人 Eiso Kant 认为，在通往通用人工智能（AGI）的竞赛中，智能本身正迅速商品化。真正的护城河在于能源和算力这两大物理基础设施。他详细阐述了 Poolside 的宏大计划“Project Horizon”——一个千兆瓦级别的 AI 数据中心，并解释了为何前沿模型公司必须垂直整合能源、算力和智能。Kant 还首次公开了公司新的研究方向“学会学习的强化学习”（RL to L），旨在为 AI 找到超越传统预训练和强化学习的、更通用的自监督目标。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Eiso Kant
-  - Matt Turck
-  - Andrej Karpathy
-companies_orgs:
-  - Poolside
-  - First Mark
-  - Nvidia
-  - OpenAI
-  - Anthropic
-  - AWS
-  - GCP
-  - Azure
-  - CoreWeave
-  - TSMC
-  - xAI
-  - Google
-  - Red Panda
-  - Palantir
-products_models:
-  - GPT-4
-  - GB200
-  - GB300
-  - Malibu
-  - Laguna
-  - Point
-  - VS Code
-  - IntelliJ
-media_books:
-  - The MAD Podcast
-  - The Unreasonable Effectiveness of Recurrent Neural Networks
 status: evergreen
+summary: Poolside 联合创始人 Eiso Kant 认为，在通往通用人工智能（AGI）的竞赛中，智能本身正迅速商品化。真正的护城河在于能源和算力这两大物理基础设施。他详细阐述了
+  Poolside 的宏大计划“Project Horizon”——一个千兆瓦级别的 AI 数据中心，并解释了为何前沿模型公司必须垂直整合能源、算力和智能。Kant
+  还首次公开了公司新的研究方向“学会学习的强化学习”（RL to L），旨在为 AI 找到超越传统预训练和强化学习的、更通用的自监督目标。
+tags:
+- infrastructure
+- llm
+- model
+- reinforcement-learning
+- scaling-law
+title: 智能已商品化：Poolside创始人揭示能源与算力如何决定AGI竞赛的终局
 ---
+
 ### 核心观点节选
 
 **Eiso Kant:** 我甚至敢说，智能将成为一种商品。如果你是一家**基础模型**（Foundation Model: 指像 GPT-4 这样经过大规模数据训练、具备通用能力的 AI 模型）公司，却不建设实体基础设施，那你只是在“角色扮演”你的业务。“地平线计划”（Project Horizon）就是我们正在美国建设的最大数据中心园区之一。我们讨论的算力规模，是以数百兆瓦，乃至很快将以千兆瓦为单位计算的。我们称之为“学会学习的强化学习”（Reinforcement Learning to Learn, RL to L）。这可能是我第一次公开谈论这个概念。

@@ -8,22 +8,21 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
-  - ai工具
-  - context-engineering
-  - vibe-coding
-  - 生产力
+- context-engineering
+- llm
+- vibe-coding
+- 生产力
 people:
-  - 张敏
-  - Ray
-  - Long
-  - 小西瓜
-  - Mike
-  - Betty
-  - 伊文
-  - Alex
+- 张敏
+- Ray
+- Long
+- 小西瓜
+- Mike
+- Betty
+- 伊文
+- Alex
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-07-27
 author: Lei
 speaker: ''
@@ -36,6 +35,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与初体验
 
 张敏: Hello, Chloe。Hello, long change。早上好，你们是在国内吗？Chloe 是在国内。Hello, 我来邀请一下 Betty。哎哟，克洛伊拒绝我了，上来聊聊呗。

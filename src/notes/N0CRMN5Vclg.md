@@ -1,48 +1,48 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Justice Department
+- PY Homes
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- It's a Wonderful Life
+- Truth Social
+- The Daily
+people:
+- Donald Trump
+- Franklin D. Roosevelt
+- Connor Dohy
+- Bill Py
+- Laura Loomer
+- Marjorie Taylor Green
+- Christopher Rufo
+- Jeffrey Epstein
+- Michael Bubaro
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=N0CRMN5Vclg
 speaker: New York Times Podcasts
-tags:
-  - housing-affordability
-  - 50-year-mortgage
-  - housing-policy
-  - mortgage-reform
-  - housing-shortage
-title: 特朗普的50年抵押贷款提案：一项激进的住房可负担性解决方案及其争议
-summary: 特朗普总统提出引入50年期抵押贷款，旨在解决美国住房市场的高可负担性问题。此提案挑战了美国金融系统的基石，并引发了广泛争议。本文深入探讨了这一激进方案的背景、与罗斯福总统30年期抵押贷款政策的历史对比，以及其可能带来的经济影响和各方批评。同时，文章还简要提及了其他住房解决方案，并强调了解决住房短缺的根本性挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Franklin D. Roosevelt
-  - Connor Dohy
-  - Bill Py
-  - Laura Loomer
-  - Marjorie Taylor Green
-  - Christopher Rufo
-  - Jeffrey Epstein
-  - Michael Bubaro
-companies_orgs:
-  - New York Times
-  - Justice Department
-  - PY Homes
-products_models: []
-media_books:
-  - It's a Wonderful Life
-  - Truth Social
-  - The Daily
 status: evergreen
+summary: 特朗普总统提出引入50年期抵押贷款，旨在解决美国住房市场的高可负担性问题。此提案挑战了美国金融系统的基石，并引发了广泛争议。本文深入探讨了这一激进方案的背景、与罗斯福总统30年期抵押贷款政策的历史对比，以及其可能带来的经济影响和各方批评。同时，文章还简要提及了其他住房解决方案，并强调了解决住房短缺的根本性挑战。
+tags:
+- history
+- housing-affordability
+- housing-policy
+- investment
+- reform
+title: 特朗普的50年抵押贷款提案：一项激进的住房可负担性解决方案及其争议
 ---
+
 ### 特朗普的50年抵押贷款提案
 
 主持人迈克尔·布巴罗：几天前，当特朗普总统提出引入**50年期抵押贷款**（50-year mortgage: 一种将还款期限延长至50年的住房贷款）时，他挑战了美国住房市场和金融体系的基石。

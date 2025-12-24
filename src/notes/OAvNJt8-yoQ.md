@@ -1,51 +1,50 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- World Bank
+- Chinese Academy of Social Sciences
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《独生：中国最激进的实验》
+- 《人民日报》
+- 《人口炸弹》
+- 《经济学人》
+- 《华尔街日报》
+people:
+- Hua Guofeng
+- Deng Xiaoping
+- Chen Yun
+- Chen Muhua
+- Song Jian
+- Paul Ehrlich
+- Julian Simon
+- Liang Zhongtang
+- Mao Zedong
+products_models:
+- Dornbusch's Law
+- Population System Model
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=OAvNJt8-yoQ
 speaker: 徒步的騎手
-tags:
-  - one-child-policy
-  - demographic-crisis
-  - aging-population
-  - social-collapse
-  - policy-making
-title: 中国人口结构性坍塌：独生子女政策的深远影响与未富先老危机
-summary: 本期节目深入探讨了中国独生子女政策造成的结构性人口危机。从一个家庭的隐秘二胎故事切入，节目分析了危机从缓慢酝酿到突然爆发的“多恩布什法则”如何在中国应验。文章对比了中国“未富先老”与西方国家自然老龄化的差异，揭示了强制性政策对社会结构、生育观念的深远影响。同时，批判了“人口爆炸论”在西方的遭遇及其在中国被滥用为极端政策“科学依据”的过程，指出中国已成为一个比美国更老的国家，未来将面临巨大的社会供养压力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Hua Guofeng
-  - Deng Xiaoping
-  - Chen Yun
-  - Chen Muhua
-  - Song Jian
-  - Paul Ehrlich
-  - Julian Simon
-  - Liang Zhongtang
-  - Mao Zedong
-companies_orgs:
-  - World Bank
-  - Chinese Academy of Social Sciences
-products_models:
-  - Dornbusch's Law
-  - Population System Model
-media_books:
-  - 《独生：中国最激进的实验》
-  - 《人民日报》
-  - 《人口炸弹》
-  - 《经济学人》
-  - 《华尔街日报》
 status: evergreen
+summary: 本期节目深入探讨了中国独生子女政策造成的结构性人口危机。从一个家庭的隐秘二胎故事切入，节目分析了危机从缓慢酝酿到突然爆发的“多恩布什法则”如何在中国应验。文章对比了中国“未富先老”与西方国家自然老龄化的差异，揭示了强制性政策对社会结构、生育观念的深远影响。同时，批判了“人口爆炸论”在西方的遭遇及其在中国被滥用为极端政策“科学依据”的过程，指出中国已成为一个比美国更老的国家，未来将面临巨大的社会供养压力。
+tags:
+- crisis
+- llm
+- policy
+- social
+title: 中国人口结构性坍塌：独生子女政策的深远影响与未富先老危机
 ---
+
 ### 隐秘的二胎与危机的酝酿
 
 十几年前，一位朋友在国内酒后吐露心声。他有一个在美国留学的女儿，那是他的大女儿。他还有一个小儿子，当时还在上小学。他在体制内工作，太太做生意，他们夫妻俩都喜欢孩子，不想只生一个。然而，如果生二胎，他的工作可能就保不住了。他太太生了二胎，是个儿子，但他们一直不敢告诉女儿那是她弟弟，怕女儿在外面说漏了嘴，惹出祸来。他们跟女儿说那是农村亲戚的孩子，寄养在他们家，跟她做伴，以后可以在城里上学。他们夫妻对朋友也是这么说，朋友们也不知道那个男孩是他们的儿子，当然在户口本上也不是他们的儿子。直到女儿来美国留学，他们才把事情告诉她，说那不是你表弟，那是你亲弟弟。多年以后，等两个孩子都长大了，他们才可以名正言顺地成为一家人。那个连生孩子都要偷偷摸摸的国家，据说正在东升西降。

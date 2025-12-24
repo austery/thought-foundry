@@ -1,89 +1,89 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Google
+- Amazon
+- Tesla
+- Nvidia
+- Meta
+- Apple
+- Microsoft
+- Palantir
+- Robin Hood
+- SoFi
+- AMD
+- Netflix
+- Alibaba
+- Anthropic
+- OpenAI
+- Zoom
+- SanDisk
+- Micron
+- Broadcom
+- Salesforce
+- Cisco
+- Substack
+- Business Insider
+- Bloomberg
+- The Wall Street Journal
+- S&P 500
+- Stability AI
+- Paramount Global
+- Warner Brothers
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Rush Hour
+- Breaking Bad
+- Gangs of New York
+people:
+- John Williams
+- Mary Daly
+- Donald Trump
+- Xi Jinping
+- Michael Burry
+- David Sacks
+- Larry Ellison
+- Vlad Tenev
+- Larry Page
+- Sergey Brin
+- Sam Altman
+- Mark Benioff
+- Josh Brown
+- Gene Munster
+- Tom Lee
+products_models:
+- Bitcoin
+- Ethereum
+- Claude Opus 4.5
+- Google Gemini 3
+- ChatGPT
+- Grok
+- Google TPU
+- FSD
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=49u9cMwrKao
 speaker: Amit Kukreja
-tags:
-  - rate-cut-expectations
-  - market-rebound
-  - ai-investment
-  - data-center-boom
-  - us-china-relations
-title: 美联储降息信号提振市场，特朗普AI行政令与亚马逊巨额投资共推科技股反弹
-summary: 在经历数周下跌后，市场迎来强劲反弹，科技股普遍上涨。本轮上涨的核心驱动力是美联储降息预期的显著升温，旧金山和纽约联储主席的鸽派言论将降息概率推高至85%。此外，特朗普对华关系的积极表态、亚马逊在数据中心领域的巨额投资（合计650亿美元），以及白宫签署旨在加速AI研发的“创世纪计划”行政令，共同提振了市场情绪，尽管部分投资者仍对反弹的可持续性持谨慎态度。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - John Williams
-  - Mary Daly
-  - Donald Trump
-  - Xi Jinping
-  - Michael Burry
-  - David Sacks
-  - Larry Ellison
-  - Vlad Tenev
-  - Larry Page
-  - Sergey Brin
-  - Sam Altman
-  - Mark Benioff
-  - Josh Brown
-  - Gene Munster
-  - Tom Lee
-companies_orgs:
-  - Federal Reserve
-  - Google
-  - Amazon
-  - Tesla
-  - Nvidia
-  - Meta
-  - Apple
-  - Microsoft
-  - Palantir
-  - Robin Hood
-  - SoFi
-  - AMD
-  - Netflix
-  - Alibaba
-  - Anthropic
-  - OpenAI
-  - Zoom
-  - SanDisk
-  - Micron
-  - Broadcom
-  - Salesforce
-  - Cisco
-  - Substack
-  - Business Insider
-  - Bloomberg
-  - The Wall Street Journal
-  - S&P 500
-  - Stability AI
-  - Paramount Global
-  - Warner Brothers
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Claude Opus 4.5
-  - Google Gemini 3
-  - ChatGPT
-  - Grok
-  - Google TPU
-  - FSD
-media_books:
-  - Rush Hour
-  - Breaking Bad
-  - Gangs of New York
 status: evergreen
+summary: 在经历数周下跌后，市场迎来强劲反弹，科技股普遍上涨。本轮上涨的核心驱动力是美联储降息预期的显著升温，旧金山和纽约联储主席的鸽派言论将降息概率推高至85%。此外，特朗普对华关系的积极表态、亚马逊在数据中心领域的巨额投资（合计650亿美元），以及白宫签署旨在加速AI研发的“创世纪计划”行政令，共同提振了市场情绪，尽管部分投资者仍对反弹的可持续性持谨慎态度。
+tags:
+- ai-investment
+- data-center-boom
+- market-rebound
+- rate-cut-expectation
+- us-china-relations
+title: 美联储降息信号提振市场，特朗普AI行政令与亚马逊巨额投资共推科技股反弹
 ---
+
 ### 市场迎来久违大涨，科技股全线飘红
 
 大家好，欢迎回来。我们经历了几天，毫不夸张地说，市场一片惨淡。

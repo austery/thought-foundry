@@ -1,31 +1,29 @@
 ---
-title: 图灵奖得主Judea Pearl的灵魂拷问：AI能回答“为什么”吗？
-summary: 本视频探讨了Judea Pearl提出的“因果关系之梯”，揭示了当前AI的局限性。从关联、干预到反事实推理，深入剖析了人类智慧的核心，并展望了强人工智能的未来发展方向。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- causality
-- counterfactual-reasoning
-- critical-thinking
-people:
-- judea-pearl
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-09'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- judea-pearl
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=vIWImun6W5o
+speaker: 北美王路飞
 status: evergreen
+summary: 本视频探讨了Judea Pearl提出的“因果关系之梯”，揭示了当前AI的局限性。从关联、干预到反事实推理，深入剖析了人类智慧的核心，并展望了强人工智能的未来发展方向。
+tags:
+- critical-thinking
+- geopolitical
+- philosophy
+title: 图灵奖得主Judea Pearl的灵魂拷问：AI能回答“为什么”吗？
 ---
+
 ### AI的真正局限：因果关系之梯
 
 你是否曾想过，那些画出蒙娜丽莎、太空漫步图的AI，以及打败世界围棋冠军的**AlphaGo**（AlphaGo: 谷歌DeepMind开发的人工智能围棋程序），在某些方面可能还不如一个三岁的孩子聪明？这不是科幻，也不是危言耸听，而是当前人工智能最顶尖学者们正在激烈讨论的一个事实。究其原因，所有这些强大的AI，都被困在了**因果关系之梯**（Ladder of Causality: Judea Pearl提出的一个框架，用于描述不同层次的因果推理能力）的最底层。而我们每个人，包括三岁的孩子，每天都在这个梯子顶端自由攀爬。

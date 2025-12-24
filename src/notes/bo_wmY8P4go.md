@@ -1,44 +1,44 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times
+- Bumble
+- City Bank
+- Capital One
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Modern Love
+- How to Get Rich
+people:
+- Anna Martin
+- Janine Lynn
+- Adon
+- Reit Sati
+products_models:
+- AMX
+- Venmo
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=bo_wmY8P4go
 speaker: New York Times Podcasts
-tags:
-  - dating-etiquette
-  - financial-compatibility
-  - relationship-dynamics
-  - cultural-rituals
-  - money-in-relationships
-title: 第三次约会就提议开联名账户：金钱、文化与亲密关系的奇特融合
-summary: 一位散文家分享了她在第三次约会时向男友提议开设联名银行账户的经历。这一看似极端的举动，实则源于她对约会中结账尴尬的厌倦，以及深受中国家庭文化中金钱观和人际关怀仪式的影响。文章探讨了金钱在亲密关系中的复杂性，以及如何通过开放的财务对话来建立更深层次的理解和承诺，最终促成了一段长达九年的婚姻。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Anna Martin
-  - Janine Lynn
-  - Adon
-  - Reit Sati
-companies_orgs:
-  - New York Times
-  - Bumble
-  - City Bank
-  - Capital One
-products_models:
-  - AMX
-  - Venmo
-media_books:
-  - Modern Love
-  - How to Get Rich
 status: evergreen
+summary: 一位散文家分享了她在第三次约会时向男友提议开设联名银行账户的经历。这一看似极端的举动，实则源于她对约会中结账尴尬的厌倦，以及深受中国家庭文化中金钱观和人际关怀仪式的影响。文章探讨了金钱在亲密关系中的复杂性，以及如何通过开放的财务对话来建立更深层次的理解和承诺，最终促成了一段长达九年的婚姻。
+tags:
+- cultural
+- financial
+- life
+- relationship
+- relationship-dynamic
+title: 第三次约会就提议开联名账户：金钱、文化与亲密关系的奇特融合
 ---
+
 ### 约会中结账的尴尬时刻
 
 **Anna Martin:** 大家好，我是《纽约时报》的安娜·马丁，这里是“摩登爱情”。让我来告诉你们约会中最不喜欢的环节。

@@ -1,64 +1,64 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Council on Foreign Relations
+- Jamestown Foundation
+- Huawei
+- NVIDIA
+- 山西百姓信息技术
+- 韩华海洋集团
+- 国防科技大学
+- 中航工业
+- 广州警察学院
+- 苹果
+- 耐克
+- 亚马逊
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Washington Post
+- Financial Times
+- 《总统的收件箱》
+- 《我们准备好了吗？》
+- 《广州警察学院学报》
+- 《中华人民共和国爱国主义教育法》
+people:
+- Donald Trump
+- Xi Jinping
+- Rush Doshi
+- Joseph Torigian
+- 毛泽东
+products_models:
+- DeepSeek
+- GPT-4
+- H100
+- H800
+- 升腾
+- 麒麟
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=v3d8uBgQl14
 speaker: FearNation 世界苦茶
-tags:
-  - us-china-competition
-  - trade-war
-  - economic-coercion
-  - ai-military-application
-  - red-tourism
-  - supply-chain-strategy
-  - ideological-control
-title: 美智库深度解析中美战略竞争：从贸易战、AI主权到红色旅游的全面清算
-summary: 本期节目汇总全球智库对中国问题的深度分析，探讨中美战略竞争的多个维度。美国建制派已承认对华接触政策失败，竞争转向世界秩序的根本性对抗。内容涵盖中国利用稀土出口管制重塑供应链、经济韧性与结构性挑战、DeepSeek等AI模型在解放军和公共安全系统中的应用，以及中国经济胁迫与“经济北约”的提议。节目还剖析了中国红色旅游热潮背后的意识形态工程与消费主义悖论，揭示了中美关系复杂且多层次的清算与对抗。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Rush Doshi
-  - Joseph Torigian
-  - 毛泽东
-companies_orgs:
-  - Council on Foreign Relations
-  - Jamestown Foundation
-  - Huawei
-  - NVIDIA
-  - 山西百姓信息技术
-  - 韩华海洋集团
-  - 国防科技大学
-  - 中航工业
-  - 广州警察学院
-  - 苹果
-  - 耐克
-  - 亚马逊
-products_models:
-  - DeepSeek
-  - GPT-4
-  - H100
-  - H800
-  - 升腾
-  - 麒麟
-media_books:
-  - Washington Post
-  - Financial Times
-  - 《总统的收件箱》
-  - 《我们准备好了吗？》
-  - 《广州警察学院学报》
-  - 《中华人民共和国爱国主义教育法》
 status: evergreen
+summary: 本期节目汇总全球智库对中国问题的深度分析，探讨中美战略竞争的多个维度。美国建制派已承认对华接触政策失败，竞争转向世界秩序的根本性对抗。内容涵盖中国利用稀土出口管制重塑供应链、经济韧性与结构性挑战、DeepSeek等AI模型在解放军和公共安全系统中的应用，以及中国经济胁迫与“经济北约”的提议。节目还剖析了中国红色旅游热潮背后的意识形态工程与消费主义悖论，揭示了中美关系复杂且多层次的清算与对抗。
+tags:
+- control
+- economic
+- military
+- red-tourism
+- supply-chain-strategy
+- trade-war
+- us-china-relations
+title: 美智库深度解析中美战略竞争：从贸易战、AI主权到红色旅游的全面清算
 ---
+
 本期世界苦茶观察线节目汇总了全球智库和国际媒体对中国问题的深度分析。该节目为AI制作，播放速度照顾收听较慢的听众，如果觉得太慢可以调整至1.25倍。AI脚本和声音会不断优化。以下是精选的全世界对中国的分析，关于美中清算的开始以及美国对贸易战的新反应等内容。
 
 ### 美国外交关系协会：中美根本性竞争与清算

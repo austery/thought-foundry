@@ -1,45 +1,44 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CNN
+- 自由黨
+- 保守黨
+- 世界銀行
 date: '2025-01-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Justin Trudeau
+- Doug Ford
+- Mélanie Joly
+- Pierre Poilievre
+- Jean Chrétien
+- Fidel Castro
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qSbTpTkBfnk
 speaker: 莊也雜談
-tags:
-  - us-canada-relations
-  - political-sovereignty
-  - national-identity
-  - social-values
-  - governance-systems
-  - economic-disparities
-title: 特朗普提議吞併加拿大：六大理由為何難以實現？
-summary: 本文深入探討美國前總統特朗普關於加拿大成為美國第51個州的提議。從國家主權、歷史認同、社會價值觀、政治與司法制度及經濟結構六大方面，詳細分析了美加合併難以實現的深層原因。同時也探討了特朗普此言論的談判策略意圖，以及部分支持合併的觀點，最終強調加拿大獨立自主的珍貴性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Justin Trudeau
-  - Doug Ford
-  - Mélanie Joly
-  - Pierre Poilievre
-  - Jean Chrétien
-  - Fidel Castro
-companies_orgs:
-  - CNN
-  - 自由黨
-  - 保守黨
-  - 世界銀行
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探討美國前總統特朗普關於加拿大成為美國第51個州的提議。從國家主權、歷史認同、社會價值觀、政治與司法制度及經濟結構六大方面，詳細分析了美加合併難以實現的深層原因。同時也探討了特朗普此言論的談判策略意圖，以及部分支持合併的觀點，最終強調加拿大獨立自主的珍貴性。
+tags:
+- economic
+- national-identity
+- political
+- social
+- system
+- us-canada-relations
+title: 特朗普提議吞併加拿大：六大理由為何難以實現？
 ---
+
 哈嘍大家好，今天咱們聊一聊關於特朗普想要把加拿大變為美國的第51個州這個腦洞大開的話題。咱們說這事兒，首先聊一下這件事情的來龍去脈。
 
 ### 特朗普吞併加拿大提議的緣起與加方反應

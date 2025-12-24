@@ -1,52 +1,52 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Neo4j
+- ISO
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Matrix
+- Graph Academy
+- Nodes AI 2026
+- graphrag.com
+people:
+- Stephen Chin
+- Sid
+products_models:
+- DSPy
+- BAML
+- Neo4j Aura
+- LLM Knowledge Graph Builder
+- VEX
+- Jackson
+- Jasper
+- Neo4j Cypher MCP Server
+- Claude Code
+- Cypher
+- GQL
+project:
+- ai-impact-analysis
+- systems-thinking
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=LLuKshphGOE
 speaker: AI Engineer
-tags:
-  - context-engineering
-  - knowledge-graphs
-  - rag
-  - llm-memory
-  - agentic-ai
-title: 利用图技术连接点滴：上下文工程、检索模式与代理记忆
-summary: 本次峰会演讲探讨了如何通过图技术解决AI应用中的上下文工程问题，以提升检索模式和代理记忆能力。主讲人Stephen Chin介绍了上下文工程的演变，从简单的提示工程到动态、广阔的上下文输入，强调了AI记忆（短期与长期）的重要性。文章详细阐述了知识图谱作为结构化信息表示的优势，以及如何结合大型语言模型（LLM）实现强大的图RAG（检索增强生成）和可解释AI。通过两个Neo4j相关演示，展示了图技术在漏洞管理和多阶段查询中的实际应用，最终旨在赋能开发者成为信息架构师，更好地控制AI输出。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - knowledge-pipeline
-people:
-  - Stephen Chin
-  - Sid
-companies_orgs:
-  - Neo4j
-  - ISO
-products_models:
-  - DSPy
-  - BAML
-  - Neo4j Aura
-  - LLM Knowledge Graph Builder
-  - VEX
-  - Jackson
-  - Jasper
-  - Neo4j Cypher MCP Server
-  - Claude Code
-  - Cypher
-  - GQL
-media_books:
-  - The Matrix
-  - Graph Academy
-  - Nodes AI 2026
-  - graphrag.com
 status: evergreen
+summary: 本次峰会演讲探讨了如何通过图技术解决AI应用中的上下文工程问题，以提升检索模式和代理记忆能力。主讲人Stephen Chin介绍了上下文工程的演变，从简单的提示工程到动态、广阔的上下文输入，强调了AI记忆（短期与长期）的重要性。文章详细阐述了知识图谱作为结构化信息表示的优势，以及如何结合大型语言模型（LLM）实现强大的图RAG（检索增强生成）和可解释AI。通过两个Neo4j相关演示，展示了图技术在漏洞管理和多阶段查询中的实际应用，最终旨在赋能开发者成为信息架构师，更好地控制AI输出。
+tags:
+- agentic-ai
+- context-engineering
+- llm
+- memory
+- philosophy
+title: 利用图技术连接点滴：上下文工程、检索模式与代理记忆
 ---
+
 ### 引言：利用图技术赋能AI应用
 
 大家好，欢迎来到AI工程师代码峰会上的我的演讲。我将探讨如何利用**图技术**（Graph Technology: 一种以图形结构存储数据的方法，用于表示实体之间的关系）连接数据点，并解决诸如**上下文工程**（Context Engineering: 为AI模型提供相关、结构化信息以优化其输出的过程）、改进检索模式以及**代理记忆**（Agentic Memory: AI代理存储和检索信息以支持长期交互和决策的能力）等问题。

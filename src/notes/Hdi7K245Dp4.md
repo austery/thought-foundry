@@ -1,52 +1,52 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Rocket Lab
+- CoreWeave
+- Hims & Hers
+- Circle
+- Tesla
+- Palantir
+- Meta
+- Novo Nordisk
+- Eli Lilly
+- Oracle
+- Nabius
+- Azure
+- Crusoe
+- FluidStack
+- SamiAnalysis
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Elon Musk
+- Donald Trump
+products_models:
+- Cybercap
+- Optimus
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Hdi7K245Dp4
 speaker: Money or Life 美股频道
-tags:
-  - market-downturn
-  - investment-strategy
-  - portfolio-management
-  - growth-stocks
-  - technical-analysis
-title: 市场深度回撤下的投资策略与个股分析：特斯拉、Hims & Hers、CoreWeave与Rocket Lab
-summary: 本视频深入探讨了在近期美股市场深度回撤背景下的投资策略和心态调整。作者分享了其对保护本金的思考，并针对不同类型投资者提出了具体建议。文章详细分析了特斯拉、Hims & Hers、CoreWeave、Circle和Rocket Lab等个股的最新动态、技术面表现及未来展望，强调了在市场波动中保持长期信念和灵活操作的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Elon Musk
-  - Donald Trump
-companies_orgs:
-  - Rocket Lab
-  - CoreWeave
-  - Hims & Hers
-  - Circle
-  - Tesla
-  - Palantir
-  - Meta
-  - Novo Nordisk
-  - Eli Lilly
-  - Oracle
-  - Nabius
-  - Azure
-  - Crusoe
-  - FluidStack
-  - SamiAnalysis
-products_models:
-  - Cybercap
-  - Optimus
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了在近期美股市场深度回撤背景下的投资策略和心态调整。作者分享了其对保护本金的思考，并针对不同类型投资者提出了具体建议。文章详细分析了特斯拉、Hims
+  & Hers、CoreWeave、Circle和Rocket Lab等个股的最新动态、技术面表现及未来展望，强调了在市场波动中保持长期信念和灵活操作的重要性。
+tags:
+- growth-stock
+- market-downturn
+- portfolio-management
+- technical-analysis
+title: 市场深度回撤下的投资策略与个股分析：特斯拉、Hims & Hers、CoreWeave与Rocket Lab
 ---
+
 ### 市场深度回撤下的投资心态与策略
 
 大家好，欢迎来到本频道。我是Ace。本周的每个交易日都非常艰难，因为每天都在下跌，尤其是在周二和周四收盘之后。但无论股价如何，生活和我的视频制作都必须继续。我还记得四月份的时候，当时我正在国内休假，股市迎来一波暴跌，跌到了我的本金，所以心态有些失衡。然而，那个时候我依然在尽量克制和冷静地思考、操作，并努力为大家输出内容。现在只是四月之后又一个小的坎，希望我们可以一起渡过。接下来，我将分享面对这次回撤的一些思考以及我接下来的持仓计划。

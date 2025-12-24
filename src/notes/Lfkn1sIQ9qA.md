@@ -1,41 +1,41 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- 国安部门
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《走向未来丛书》
+people:
+- Donald Trump
+- Joe Biden
+- Hunter Biden
+- 怀特
+- 凯恩斯
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Lfkn1sIQ9qA
 speaker: 北美王路飞
-tags:
-  - fentanyl-crisis
-  - military-intervention-justification
-  - domestic-policy-vs-military-action
-  - constitutional-principles
-  - drug-control-strategies
-title: 芬太尼危机能否构成武装侵略？深度剖析美国干预委内瑞拉的法理困境与日本禁毒经验
-summary: 本文从宪政原则和国际法角度，探讨美国将芬太尼危机军事化的法理基础是否站得住脚。通过对比美国与日本在禁毒问题上的内政治理差异，论证毒品问题本质上是内政而非军事侵略的范畴。同时，分析了技术层面军事拦截的局限性，并指出解决社会毒瘤需回归经济结构和终极关怀的治本之道。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Joe Biden
-  - Hunter Biden
-  - 怀特
-  - 凯恩斯
-companies_orgs:
-  - FBI
-  - 国安部门
-products_models: []
-media_books:
-  - 《走向未来丛书》
 status: evergreen
+summary: 本文从宪政原则和国际法角度，探讨美国将芬太尼危机军事化的法理基础是否站得住脚。通过对比美国与日本在禁毒问题上的内政治理差异，论证毒品问题本质上是内政而非军事侵略的范畴。同时，分析了技术层面军事拦截的局限性，并指出解决社会毒瘤需回归经济结构和终极关怀的治本之道。
+tags:
+- crisis
+- military
+- policy
+- principle
+- strategy
+title: 芬太尼危机能否构成武装侵略？深度剖析美国干预委内瑞拉的法理困境与日本禁毒经验
 ---
+
 ### 个人插曲：关于“黑名单”的讨论
 
 哎，好，大家好啊，都都能听到是吧？那好好来，那路飞呢，那我把那个什么我我这边PPT，我是从Zoom里发给你哈。对，从Zoom里发给我。

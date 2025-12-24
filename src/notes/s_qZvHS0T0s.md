@@ -1,34 +1,34 @@
 ---
-author: 大问题Dialectic
+area: society-thinking
+category: philosophy-thinking
+companies_orgs: []
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- 巴鲁赫·斯宾诺莎
+- 黑格尔
+- 恩格斯
+- 苏格拉底
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=s_qZvHS0T0s
 speaker: 大问题Dialectic
-tags:
-  - spinoza
-  - freedom
-  - determinism
-  - pantheism
-  - self-awareness
-title: 斯宾诺莎：自由是对必然的认识
-summary: 本讲深入探讨了17世纪荷兰哲学家巴鲁赫·斯宾诺莎的自由观。在泛神论和决定论的世界观下，斯宾诺莎区分了虚假的自由（以为拥有自由意志）和真正的自由（认识到自身行动受自然必然性制约）。通过理性洞察世界的必然秩序，并理解自身与大自然的合一，人能从情欲的束缚中解脱，达到内心的平和与“至善”境界，从而获得真正的自由。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - 巴鲁赫·斯宾诺莎
-  - 黑格尔
-  - 恩格斯
-  - 苏格拉底
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本讲深入探讨了17世纪荷兰哲学家巴鲁赫·斯宾诺莎的自由观。在泛神论和决定论的世界观下，斯宾诺莎区分了虚假的自由（以为拥有自由意志）和真正的自由（认识到自身行动受自然必然性制约）。通过理性洞察世界的必然秩序，并理解自身与大自然的合一，人能从情欲的束缚中解脱，达到内心的平和与“至善”境界，从而获得真正的自由。
+tags:
+- determinism
+- freedom
+- pantheism
+- self-awareness
+- spinoza
+title: 斯宾诺莎：自由是对必然的认识
 ---
+
 欢迎来到《100个哲学大概念开悟人生》。今天要讲的哲学大概念，其观念来自荷兰哲学家**巴鲁赫·斯宾诺莎**（Baruch Spinoza: 17世纪荷兰哲学家，泛神论和决定论的代表人物）。后世的**黑格尔**和**恩格斯**等哲学家对这句话也有进一步的继承和发挥。你可能听了“自由是对必然的认识”这个命题，对自由和必然的概念感到不明白。别急，今天这一讲我们就把斯宾诺莎这一命题讲明白，让你从内心获得一种真正的自由。
 
 ### 斯宾诺莎的泛神论与决定论

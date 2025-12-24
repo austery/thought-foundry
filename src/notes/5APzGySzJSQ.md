@@ -1,86 +1,85 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- TKO Group Holdings
+- Norges Bank Investment Management
+- UFC
+- WWE
+- William Morris
+- IMG
+- Creative Artists Agency
+- Inner Talent
+- ICM
+- Endeavor
+- Silver Lake
+- KKR
+- ESPN
+- Netflix
+- Amazon
+- Apple
+- NFL
+- NBA
+- Disney
+- Comcast
+- Warner Brothers
+- Paramount
+- Sony
+- Raiders
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Entourage
+people:
+- Nicolai Tangen
+- Ariel Emanuel
+- Robbie Lance
+- Amy Litman
+- Greg Daniels
+- Larry David
+- Bill Haber
+- Dana White
+- Mark Shapiro
+- Vince McMahon
+- Egon Durban
+- Triple H
+- Jeffrey Deitch
+- Sam Gilliam
+- Mark Bradford
+- Noah Davis
+- Carrie James Marshall
+- Benny Andrews
+- Kara Walker
+- Zeke Emanuel
+- Rahm Emanuel
+- Bill Maher
+- Tom Brady
+products_models:
+- PBR
+- Freeze Art Fair
+- Barrett-Jackson
+- Ali Act
+- Wrestle Palooa
+project:
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=5APzGySzJSQ
 speaker: Norges Bank Investment Management
-tags:
-  - entertainment-industry
-  - sports-business
-  - negotiation-strategy
-  - leadership-principles
-  - live-events-strategy
-title: 从超级经纪人到媒体大亨：Ariel Emanuel的商业帝国与人生哲学
-summary: TKO集团控股公司首席执行官Ariel Emanuel分享了他从好莱坞经纪人到体育娱乐巨头的职业历程。他详细阐述了Endeavor的创立、UFC和WWE的收购与合并，以及TKO集团在现场活动领域的战略布局。Emanuel还探讨了谈判技巧、客户关系维护、行业变革适应以及从失败中学习的个人哲学，为年轻创业者提供了宝贵建议。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Nicolai Tangen
-  - Ariel Emanuel
-  - Robbie Lance
-  - Amy Litman
-  - Greg Daniels
-  - Larry David
-  - Bill Haber
-  - Dana White
-  - Mark Shapiro
-  - Vince McMahon
-  - Egon Durban
-  - Triple H
-  - Jeffrey Deitch
-  - Sam Gilliam
-  - Mark Bradford
-  - Noah Davis
-  - Carrie James Marshall
-  - Benny Andrews
-  - Kara Walker
-  - Zeke Emanuel
-  - Rahm Emanuel
-  - Bill Maher
-  - Tom Brady
-companies_orgs:
-  - TKO Group Holdings
-  - Norges Bank Investment Management
-  - UFC
-  - WWE
-  - William Morris
-  - IMG
-  - Creative Artists Agency
-  - Inner Talent
-  - ICM
-  - Endeavor
-  - Silver Lake
-  - KKR
-  - ESPN
-  - Netflix
-  - Amazon
-  - Apple
-  - NFL
-  - NBA
-  - Disney
-  - Comcast
-  - Warner Brothers
-  - Paramount
-  - Sony
-  - Raiders
-products_models:
-  - PBR
-  - Freeze Art Fair
-  - Barrett-Jackson
-  - Ali Act
-  - Wrestle Palooa
-media_books:
-  - In Good Company
-  - Entourage
 status: evergreen
+summary: TKO集团控股公司首席执行官Ariel Emanuel分享了他从好莱坞经纪人到体育娱乐巨头的职业历程。他详细阐述了Endeavor的创立、UFC和WWE的收购与合并，以及TKO集团在现场活动领域的战略布局。Emanuel还探讨了谈判技巧、客户关系维护、行业变革适应以及从失败中学习的个人哲学，为年轻创业者提供了宝贵建议。
+tags:
+- business
+- industry
+- leadership-principle
+- strategy
+title: 从超级经纪人到媒体大亨：Ariel Emanuel的商业帝国与人生哲学
 ---
+
 ### 引言：超级经纪人与媒体大亨
 
 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威央行投资管理公司，负责管理挪威政府养老基金）的首席执行官Nicolai Tangen。今天，我非常荣幸能与超级经纪人兼媒体大亨Ariel Emanuel共处一室。

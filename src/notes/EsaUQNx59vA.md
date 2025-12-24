@@ -1,53 +1,54 @@
 ---
-author: 硅谷101
+area: society-systems
+category: technology
+companies_orgs:
+- Meta
+- FAIR
+- OpenAI
+- AI2
+- Reflect
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 硅谷101
+people:
+- 田渊栋
+- 陈倩
+- Mark Zuckerberg
+- Alex Wang
+- Andrej Karpathy
+- Sam Altman
+- Ilya Sutskever
+- Demis Hassabis
+products_models:
+- LLM
+- Llama
+- GPT-5
+- GPTOSS model
+- SFT
+project:
+- ai-impact-analysis
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=EsaUQNx59vA
 speaker: 硅谷101
-tags:
-  - ai-research-direction
-  - llm-development
-  - reinforcement-learning
-  - ai-talent-strategy
-  - open-source-ai
-  - skin-law
-title: 田渊栋专访：Meta裁员背后的AI路线之思与未来展望
-summary: 本期专访前FAIR研究总监田渊栋，深入探讨了Meta人工智能部门裁员背后的行业深层趋势。他分享了对大型语言模型（LLM）发展路线、强化学习（RL）作用、AI开源与闭源策略以及AI人才未来走向的独到见解。田渊栋强调了人类洞察力在高级AI研究中的不可替代性，并反思了“缩放定律”（Skin Law）可能带来的挑战，同时展望了AI自动化对未来研究范式和职业发展的影响。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - 田渊栋
-  - 陈倩
-  - Mark Zuckerberg
-  - Alex Wang
-  - Andrej Karpathy
-  - Sam Altman
-  - Ilya Sutskever
-  - Demis Hassabis
-companies_orgs:
-  - Meta
-  - FAIR
-  - OpenAI
-  - AI2
-  - Reflect
-products_models:
-  - LLM
-  - Llama
-  - GPT-5
-  - GPTOSS model
-  - SFT
-media_books:
-  - 硅谷101
 status: evergreen
+summary: 本期专访前FAIR研究总监田渊栋，深入探讨了Meta人工智能部门裁员背后的行业深层趋势。他分享了对大型语言模型（LLM）发展路线、强化学习（RL）作用、AI开源与闭源策略以及AI人才未来走向的独到见解。田渊栋强调了人类洞察力在高级AI研究中的不可替代性，并反思了“缩放定律”（Skin
+  Law）可能带来的挑战，同时展望了AI自动化对未来研究范式和职业发展的影响。
+tags:
+- development
+- law
+- open-source-ai
+- reinforcement-learning
+- research
+- strategy
+title: 田渊栋专访：Meta裁员背后的AI路线之思与未来展望
 ---
+
 ### Meta裁员与AI行业大趋势
 
 大家好，欢迎收看硅谷101，我是陈倩。2025年10月22日，Meta首席执行官马克·扎克伯格批准了对公司人工智能部门裁减约600名员工的计划，这是Meta今年在AI领域最大规模的裁员，主要针对被称为超智能实验室的核心研发部门。Meta为何裁员，其AI开源路线如何碰壁，以及空降的新AI负责人Alex Wang将如何重塑Meta的AI策略，这些内容我们在上一期节目中已提及。我们也为此采访了这次裁员风波中的核心人物之一，前FAIR研究总监及AI科学家田渊栋。本次采访不仅限于Meta公司层面，更深入探讨了资深AI科学家们对AI路线和未来前沿研究的思考。本期视频将完整呈现采访内容，特别是关于**大型语言模型**（LLM: Large Language Model）的路线、开源与闭源研究实验室的存在，以及AI人才对研发和工程的选择等话题。

@@ -1,42 +1,42 @@
 ---
-author: AI超元域
-date: 2025-10-30
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=K6-sR__mA3s'
-speaker: AI超元域
-tags:
-  - ai-coding
-  - agent-skills
-  - documentation-automation
-  - developer-productivity
-  - framework-learning
-title: Skill Seeker：让Claude成为你的技术导师，告别框架学习文档噩梦
-summary: Anthropic的Agent Skills功能为AI定制化带来重大突破，但手动创建Skill耗时费力。本视频介绍开源工具Skill Seeker，它能自动化将任何文档、网站或PDF转换为Claude AI的技能包。通过智能爬虫、AI增强和自动打包，Skill Seeker大幅降低学习新框架和开源项目的成本，实现高质量的技能输出，并演示了如何利用它为CrewAI和AutoGen框架生成智能体代码。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - knowledge-pipeline
-people: '[]'
+area: tech-engineering
+category: ai-ml
 companies_orgs:
-  - Anthropic
-  - Microsoft
-products_models:
-  - Claude
-  - Claude Code
-  - Skill Seeker
-  - CrewAI
-  - AutoGen
-  - Codex CLI
-  - MCP
-  - Ollama
+- Anthropic
+- Microsoft
+date: 2025-10-30
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people: '[]'
+products_models:
+- Claude
+- Claude Code
+- Skill Seeker
+- CrewAI
+- AutoGen
+- Codex CLI
+- MCP
+- Ollama
+project:
+- ai-impact-analysis
+- knowledge-pipeline
+series: ''
+source: https://www.youtube.com/watch?v=K6-sR__mA3s
+speaker: AI超元域
 status: evergreen
+summary: Anthropic的Agent Skills功能为AI定制化带来重大突破，但手动创建Skill耗时费力。本视频介绍开源工具Skill Seeker，它能自动化将任何文档、网站或PDF转换为Claude
+  AI的技能包。通过智能爬虫、AI增强和自动打包，Skill Seeker大幅降低学习新框架和开源项目的成本，实现高质量的技能输出，并演示了如何利用它为CrewAI和AutoGen框架生成智能体代码。
+tags:
+- developer-productivity
+- documentation-automation
+- learning
+- skill
+title: Skill Seeker：让Claude成为你的技术导师，告别框架学习文档噩梦
 ---
+
 ### AI Agent Skills与Skill Seeker简介
 
 Anthropic 最近密集发布了新功能，尤其是前几天发布的**Agent Skills**（AI代理技能：允许AI模型加载自定义指令、脚本和资源，以在特定任务上表现更出色）和**Claude Code Web**（Claude AI的网页版编程环境）。对于AI编码的场景，这些功能非常有帮助，特别是Agent Skills功能被普遍认为是AI定制化领域的一次重大突破。

@@ -1,55 +1,55 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 南方都市报
+- 南方周末
+- 新媒体女性
+- 网易
+- 新浪微博
+- 中国妇女报
+- 共青团中央
+- 厦门大学
 date: '2025-07-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中国的自由主义者为什么不支持女权主义》
+- 《送我上青云》
+people:
+- 李思磐
+- 艾晓明
+- 郭建梅
+- 梁军
+- 高小贤
+- 邝飙
+- 叶海燕
+- 吕频
+- 王思聪
+- 黄雪琴
+- 梁钰
+- 杨国斌
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=Fd_HNbKGzOQ
 speaker: 东京人文论坛
-tags:
-  - chinese-feminism
-  - social-movements-and-media
-  - generational-activism
-  - digital-activism
-  - state-civil-society-relations
-title: 二十年风云：中国女权运动与媒体、国家的复杂博弈
-summary: 资深媒体人与女权行动者李思磐回顾了过去二十年中国女权运动的演变。文章深入剖析了运动与国家、媒体之间的动态关系，从“世妇会”一代的体制内协商，到广州公共空间的占领，再到青年行动派的媒体事件，直至社交媒体时代的网络动员与“米兔”浪潮。文章揭示了不同代际行动者的策略差异，以及在不断变化的政治与媒介环境下，运动所面临的挑战与转型。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 李思磐
-  - 艾晓明
-  - 郭建梅
-  - 梁军
-  - 高小贤
-  - 邝飙
-  - 叶海燕
-  - 吕频
-  - 王思聪
-  - 黄雪琴
-  - 梁钰
-  - 杨国斌
-companies_orgs:
-  - 南方都市报
-  - 南方周末
-  - 新媒体女性
-  - 网易
-  - 新浪微博
-  - 中国妇女报
-  - 共青团中央
-  - 厦门大学
-products_models: []
-media_books:
-  - 《中国的自由主义者为什么不支持女权主义》
-  - 《送我上青云》
 status: evergreen
+summary: 资深媒体人与女权行动者李思磐回顾了过去二十年中国女权运动的演变。文章深入剖析了运动与国家、媒体之间的动态关系，从“世妇会”一代的体制内协商，到广州公共空间的占领，再到青年行动派的媒体事件，直至社交媒体时代的网络动员与“米兔”浪潮。文章揭示了不同代际行动者的策略差异，以及在不断变化的政治与媒介环境下，运动所面临的挑战与转型。
+tags:
+- chinese
+- digital
+- health
+- social
+- state-civil-society-relations
+title: 二十年风云：中国女权运动与媒体、国家的复杂博弈
 ---
+
 ### 我的位置：作为亲历者的二十年回顾
 
 我想从我的个人位置开始谈起。女权主义的方法论非常强调我们自身的位置，即“我”在何处，我是以一个什么样的行动者位置，来开始我的行动与思考。我之所以将时间范围定为二十年，是因为这正是我亲身经历的时期，尽管中国的民间女权运动历史远不止二十年。我会比较重点地讲述我自己了解的事情。

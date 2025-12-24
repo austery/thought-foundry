@@ -1,37 +1,35 @@
 ---
-author: 课代表立正
+area: personal-systems
+category: psychology
+companies_orgs:
+- 人民邮电出版社
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- AI builders课程
+- 个体破局课程
+- 奔驰的大G
+- Model X
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=8fVg8l9LqlM
 speaker: 课代表立正
-tags:
-  - financial-freedom
-  - money-mindset
-  - consumption-labor-cycle
-  - scarcity-abundance
-  - investor-perspective
-title: 跳出“消费-劳动”循环：重构你与金钱的关系
-summary: 本文深入剖析了现代社会中个人与金钱关系的底层逻辑，指出“消费-劳动”循环的陷阱。作者通过两年实践，总结出三层“底层代码”：从价格决策转向自由决策、从消费者视角转向投资者视角、从匮乏心态转向富足心态。文章旨在帮助读者摆脱金钱的束缚，建立健康积极的金钱观，最终实现真正的财富自由和人生格局的提升。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people: []
-companies_orgs:
-  - 人民邮电出版社
-products_models:
-  - AI builders课程
-  - 个体破局课程
-  - 奔驰的大G
-  - Model X
-media_books: []
 status: evergreen
+summary: 本文深入剖析了现代社会中个人与金钱关系的底层逻辑，指出“消费-劳动”循环的陷阱。作者通过两年实践，总结出三层“底层代码”：从价格决策转向自由决策、从消费者视角转向投资者视角、从匮乏心态转向富足心态。文章旨在帮助读者摆脱金钱的束缚，建立健康积极的金钱观，最终实现真正的财富自由和人生格局的提升。
+tags:
+- cycle
+- financial-freedom
+- investment
+- mindset
+- society
+title: 跳出“消费-劳动”循环：重构你与金钱的关系
 ---
+
 ### 引言：跳出“消费-劳动”循环
 
 我们当前稳定的社会体系正是这样设计的，70%的经济动力都来自于个人消费。我们社会的基石是消费和劳动，因此我们从小到大的金钱教育也驱动着我们不断消费，从而驱动我们的劳动，再不断劳动，从而驱动我们的消费，这样经济才能持续运转。然而，身处这个循环之中，你是没有办法得到真正的财富自由的。今天是2025年10月，我也正好花了过去整整两年时间，才从这个循环里跳出来。我发现在这个过程中，难的不是赚钱的技能，这些技能要么我本来就有，要么就很容易学会。真正难的是理清思路。

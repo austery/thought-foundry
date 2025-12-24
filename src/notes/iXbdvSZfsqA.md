@@ -1,55 +1,54 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Porsche
+- Volkswagen
+- Norges Bank Investment Management
+- Audi
+- Bentley
+- Lamborghini
+- Skoda
+- Seat
 date: '2024-05-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Oliver Blume
+- Nikolai
+- Aksel Lund Svindal
+- Martin Winterkorn
+- Sajjad Khan
+products_models:
+- '911'
+- '356'
+- '718'
+- Cayenne
+- Panamera
+- Macan
+- Taycan
+- Taycan GT
+- PDK
+project:
+- china-analysis
+- investment-strategy
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=iXbdvSZfsqA
 speaker: Norges Bank Investment Management
-tags:
-  - automotive-industry
-  - electric-vehicles
-  - e-fuels
-  - brand-strategy
-  - corporate-leadership
-title: 保时捷与大众集团CEO奥利弗·布鲁姆：驾驭梦想与创新
-summary: 本文是挪威银行投资管理公司对保时捷和大众集团CEO奥利弗·布鲁姆的深度访谈实录。布鲁姆分享了保时捷作为全球标志性品牌的独特魅力、其产品策略、在中国市场的表现及电动化布局。他还深入探讨了大众集团的多元品牌管理、德国工业政策面临的挑战与机遇，以及他作为企业领导者的个人职业发展和管理哲学。此次访谈不仅揭示了汽车行业领军者的战略洞察，也展现了其对创新、团队合作和梦想的执着追求。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - entrepreneurship
-people:
-  - Oliver Blume
-  - Nikolai
-  - Aksel Lund Svindal
-  - Martin Winterkorn
-  - Sajjad Khan
-companies_orgs:
-  - Porsche
-  - Volkswagen
-  - Norges Bank Investment Management
-  - Audi
-  - Bentley
-  - Lamborghini
-  - Skoda
-  - Seat
-products_models:
-  - '911'
-  - '356'
-  - '718'
-  - Cayenne
-  - Panamera
-  - Macan
-  - Taycan
-  - Taycan GT
-  - PDK
-media_books: []
 status: evergreen
+summary: 本文是挪威银行投资管理公司对保时捷和大众集团CEO奥利弗·布鲁姆的深度访谈实录。布鲁姆分享了保时捷作为全球标志性品牌的独特魅力、其产品策略、在中国市场的表现及电动化布局。他还深入探讨了大众集团的多元品牌管理、德国工业政策面临的挑战与机遇，以及他作为企业领导者的个人职业发展和管理哲学。此次访谈不仅揭示了汽车行业领军者的战略洞察，也展现了其对创新、团队合作和梦想的执着追求。
+tags:
+- corporate-leadership
+- e-fuel
+- electric-vehicle
+- industry
+- strategy
+title: 保时捷与大众集团CEO奥利弗·布鲁姆：驾驭梦想与创新
 ---
+
 ### 驾驭梦想：保时捷与大众集团CEO奥利弗·布鲁姆访谈
 
 大家好，今天我们将与保时捷和大众汽车的首席执行官奥利弗·布鲁姆（Oliver Blume）一起进行一次激动人心的旅程。保时捷是全球最知名的品牌之一，挪威银行投资管理公司拥有保时捷和大众汽车超过1%的股份。2022年保时捷上市（**IPO**：Initial Public Offering，首次公开募股）时，我们是其基石投资者，所以我们可说是在这场竞赛中并肩前行。

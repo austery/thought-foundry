@@ -1,47 +1,47 @@
 ---
-author: 政經孫老師
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Oxford Political Science Research Encyclopedia
+- Bloomberg
+- Institute for Supply Management
 date: '2025-08-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Foreign Affairs
+people:
+- Donald Trump
+- Jerome Powell
+- Adriana Kugler
+- Christopher Waller
+- Stephen Miller
+- Alvin Hansen
+- Lawrence Summers
+products_models:
+- Phillips Curve
+- PMI
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=n_rMHoC5b1s
 speaker: 政經孫老師
-tags:
-  - us-monetary-policy
-  - interest-rates
-  - long-term-stagnation
-  - us-economy
-  - stock-market
-title: 川普与美联储的利率之战：美国经济的深层症结与未来走向
-summary: 本文深入探讨了美国前总统川普与美联储之间围绕利率政策的激烈冲突。川普力主大幅降息以刺激股市和民营经济，而美联储则坚持其抗通胀的官僚立场。文章揭示了双方分歧的根本原因在于其组织性质与自我定位的差异，并指出美国经济面临“长期滞胀”的深层结构性问题。在高利率难以为继的背景下，川普的降息策略被视为短期内支撑经济的唯一途径，预示着未来美国市场将更受政治而非经济基本面驱动。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Adriana Kugler
-  - Christopher Waller
-  - Stephen Miller
-  - Alvin Hansen
-  - Lawrence Summers
-companies_orgs:
-  - Federal Reserve
-  - Oxford Political Science Research Encyclopedia
-  - Bloomberg
-  - Institute for Supply Management
-products_models:
-  - Phillips Curve
-  - PMI
-media_books:
-  - Foreign Affairs
 status: evergreen
+summary: 本文深入探讨了美国前总统川普与美联储之间围绕利率政策的激烈冲突。川普力主大幅降息以刺激股市和民营经济，而美联储则坚持其抗通胀的官僚立场。文章揭示了双方分歧的根本原因在于其组织性质与自我定位的差异，并指出美国经济面临“长期滞胀”的深层结构性问题。在高利率难以为继的背景下，川普的降息策略被视为短期内支撑经济的唯一途径，预示着未来美国市场将更受政治而非经济基本面驱动。
+tags:
+- interest-rate
+- long
+- stock-market
+- us-economy
+- us-monetary-policy
+title: 川普与美联储的利率之战：美国经济的深层症结与未来走向
 ---
+
 ### 川普与美联储的利率冲突：一场持续的战争
 
 今天我们来探讨川普和**美联储**（Federal Reserve: 美国中央银行体系，负责制定货币政策）之间的战争。这个话题关系到美联储的利率走势和美国经济的未来，因此有必要深入讨论。川普对美联储的批评由来已久，主要集中在利率政策上。川普一直希望美联储能够降息，但美联储却坚持不降息，这导致了双方的矛盾。

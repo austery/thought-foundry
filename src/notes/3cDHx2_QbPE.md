@@ -1,74 +1,72 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Terraform Industries
+- NASA
+- OpenAI
+- xAI
+- Google
+- Meta
+- BYD
+- CATL
+- SMIC
+- TSMC
+- GE
+- Samsung
+- SK Hynix
+- PJM
+- PG&E
+- NREL
+- DOE
+- Caterpillar
+- McDonald's
+- Kohl's
+- Siemens
+- Philips
+- Kaiser Industries
 date: '2025-08-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How to feed the AIs
+- Scale Microgrids
+people:
+- Casey Handmer
+- Elon Musk
+- Henry Kaiser
+- Brian Potter
+- Austin Vernon
+- James Bradbury
+- Gwern
+- Jensen Huang
+products_models:
+- Hyperloop
+- Starlink
+- H100
+- CoWoS
+- Claude
+- Grok
+- Apple II
+- Tesla Megapack
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=3cDHx2_QbPE
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - energy
-  - solar-power
-  - data-center
-  - industrial-policy
-  - supply-chain
-title: AI时代能源之战：中美竞争与太阳能未来展望
-summary: 本期播客中，Terraform Industries创始人兼CEO Casey Handmer与主持人Dwarkesh Patel深入探讨了AI时代能源基础设施的工业竞赛。Handmer认为，尽管中国在太阳能制造方面具有显著优势，但美国仍有机会通过自动化生产和创新来赢得这场AI能源竞赛。他强调，AI数据中心对能源成本不敏感，但对能源可用性极度敏感，这将推动太阳能和电池储能的大规模部署，最终可能导致电网的“修剪”和能源生产的去中心化。讨论还触及了AI对经济价值、GDP衡量方式的影响，以及未来文明可能走向的“硅基认知”形态。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Casey Handmer
-  - Dwarkesh Patel
-  - Elon Musk
-  - Henry Kaiser
-  - Brian Potter
-  - Austin Vernon
-  - James Bradbury
-  - Gwern
-  - Jensen Huang
-companies_orgs:
-  - Terraform Industries
-  - NASA
-  - OpenAI
-  - xAI
-  - Google
-  - Meta
-  - BYD
-  - CATL
-  - SMIC
-  - TSMC
-  - GE
-  - Samsung
-  - SK Hynix
-  - PJM
-  - PG&E
-  - NREL
-  - DOE
-  - Caterpillar
-  - McDonald's
-  - Kohl's
-  - Siemens
-  - Philips
-  - Kaiser Industries
-products_models:
-  - Hyperloop
-  - Starlink
-  - H100
-  - CoWoS
-  - Claude
-  - Grok
-  - Apple II
-  - Tesla Megapack
-media_books:
-  - How to feed the AIs
-  - Scale Microgrids
 status: evergreen
+summary: 本期播客中，Terraform Industries创始人兼CEO Casey Handmer与主持人Dwarkesh Patel深入探讨了AI时代能源基础设施的工业竞赛。Handmer认为，尽管中国在太阳能制造方面具有显著优势，但美国仍有机会通过自动化生产和创新来赢得这场AI能源竞赛。他强调，AI数据中心对能源成本不敏感，但对能源可用性极度敏感，这将推动太阳能和电池储能的大规模部署，最终可能导致电网的“修剪”和能源生产的去中心化。讨论还触及了AI对经济价值、GDP衡量方式的影响，以及未来文明可能走向的“硅基认知”形态。
+tags:
+- data-center
+- energy
+- industrial-policy
+- power
+- supply-chain
+title: AI时代能源之战：中美竞争与太阳能未来展望
 ---
+
 ### 嘉宾介绍与核心议题
 
 今天我将采访**Casey Handmer**。Casey在许多令人惊叹的项目中工作过，他拥有**Caltech**（加州理工学院: 位于美国加利福尼亚州帕萨迪纳的私立研究型大学）的博士学位，研究引力波黑洞相关技术，之后参与了**Hyperloop**（超级高铁: 一种高速运输系统概念，通过低压管道运送乘客或货物舱）项目，并在**NASA**（美国国家航空航天局: 美国联邦政府的独立机构，负责民用空间计划、航空航天研究）的**Jet Propulsion Laboratory (JPL)**（喷气推进实验室: 美国国家航空航天局（NASA）下属的一个研究中心，负责行星机器人探测器任务）工作。现在，他是**Terraform Industries**（Terraform Industries: Casey Handmer 创立的公司，致力于从阳光和空气中制造合成燃料及其他基础材料）的创始人兼首席执行官。Casey，欢迎你。谢谢，很高兴终于来到这里。

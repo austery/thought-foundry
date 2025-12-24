@@ -1,50 +1,49 @@
 ---
-author: Nico投资有道
+area: market-analysis
+category: finance
+companies_orgs:
+- IMF
+- 美联储
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- ChatGPT
+- TradingView
+products_models:
+- Bitcoin
+- Ethereum
+- Solana
+- Cardano
+- Sui
+- Uniswap
+- Chainlink
+- Dogecoin
+- XRP
+- Litecoin
+- S&P 500
+- Nasdaq
+- Russell 2000
+- EMA
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=wOyuzSCQoUI
 speaker: Nico投资有道
-tags:
-  - bitcoin-halving-cycle
-  - crypto-market-outlook
-  - macro-liquidity
-  - traditional-finance-integration
-  - ema-indicator
-title: 比特币四年周期已失效？加密市场新范式与投资策略
-summary: 本视频深入探讨了比特币四年减半周期是否已终结，分析了当前加密市场低迷的原因，并指出传统金融融合与全球宏观流动性将主导未来走势。作者认为，过往的四年周期已成历史，加密货币市场正走向两极分化，并分享了基于EMA指标的逢低买入策略，强调投资者需保持耐心和长期持有，以应对市场的新变化。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs:
-  - IMF
-  - 美联储
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Solana
-  - Cardano
-  - Sui
-  - Uniswap
-  - Chainlink
-  - Dogecoin
-  - XRP
-  - Litecoin
-  - S&P 500
-  - Nasdaq
-  - Russell 2000
-  - EMA
-media_books:
-  - ChatGPT
-  - TradingView
 status: evergreen
+summary: 本视频深入探讨了比特币四年减半周期是否已终结，分析了当前加密市场低迷的原因，并指出传统金融融合与全球宏观流动性将主导未来走势。作者认为，过往的四年周期已成历史，加密货币市场正走向两极分化，并分享了基于EMA指标的逢低买入策略，强调投资者需保持耐心和长期持有，以应对市场的新变化。
+tags:
+- crypto-market-outlook
+- cycle
+- ema-indicator
+- finance
+- financial
+title: 比特币四年周期已失效？加密市场新范式与投资策略
 ---
+
 ### 比特币四年周期是否存在？加密货币牛市是否结束？
 
 比特币的四年周期还存在吗？加密货币的牛市结束了吗？在价格大幅回调和市场极度悲观的情况下，目前我们是否应该继续投资加密货币？在今天这期视频中，我将详细分享对于比特币四年周期以及后续市场走势的看法，并公开我接下来的主动操作策略，相信这一定会对你的加密货币投资有所帮助。

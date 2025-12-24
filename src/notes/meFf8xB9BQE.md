@@ -1,44 +1,42 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- BLS
+- Chicago Fed
+- FOMC
 date: '2025-09-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Austin Goolsbee
+- Liz Truss
+- Christopher Waller
+- Jerome Powell
+- Donald Trump
+- jobs-report
+products_models:
+- Jolts report
+- ADP employment
+- ISM services employment
+project:
+- us-analysis
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=meFf8xB9BQE
 speaker: Bloomberg Podcasts
-tags:
-  - jobs-report
-  - economic-data-reliability
-  - monetary-policy
-  - fiscal-situation
-  - labor-market
-title: 月度就业报告的深层问题：数据偏差、经济放缓与全球展望
-summary: 本期节目深入探讨了美国月度就业报告（特别是非农就业数据）的可靠性问题，指出其在衡量就业增长方面的潜在偏差，尤其是“企业生灭调整”的不足。讨论还涵盖了美国经济放缓的迹象、美联储货币政策的潜在走向（降息预期），以及美国和欧洲（特别是法国）在财政状况、生产力增长和创新能力方面的对比。节目强调了在当前经济波动时期，理解经济数据的复杂性及其对政策和市场预期的影响至关重要。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - geopolitics-watch
-people:
-  - Austin Goolsbee
-  - Liz Truss
-  - Christopher Waller
-  - Jerome Powell
-  - Donald Trump
-companies_orgs:
-  - BLS
-  - Chicago Fed
-  - FOMC
-products_models:
-  - Jolts report
-  - ADP employment
-  - ISM services employment
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了美国月度就业报告（特别是非农就业数据）的可靠性问题，指出其在衡量就业增长方面的潜在偏差，尤其是“企业生灭调整”的不足。讨论还涵盖了美国经济放缓的迹象、美联储货币政策的潜在走向（降息预期），以及美国和欧洲（特别是法国）在财政状况、生产力增长和创新能力方面的对比。节目强调了在当前经济波动时期，理解经济数据的复杂性及其对政策和市场预期的影响至关重要。
+tags:
+- economic
+- financial
+- labor-market
+title: 月度就业报告的深层问题：数据偏差、经济放缓与全球展望
 ---
+
 ### 月度就业报告的可靠性困境
 
 主持人：乔，我有一个令人尴尬的坦白。

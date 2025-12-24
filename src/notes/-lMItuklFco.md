@@ -1,49 +1,48 @@
 ---
-author: How I AI
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Honeybook
+- Brex
+- OpenAI
+- Google
+- Google DeepMind
+- San Francisco Giants
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+people:
+- Mihal Pled
+- Clarva
+products_models:
+- ChatGPT
+- Gemini 2.5 Pro
+- Gemini 2.5 Flash
+- Gemini 2.5 Flash Light
+- NotebookLM
+- Claude
+- Slackbot
+project:
+- ai-impact-analysis
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=-lMItuklFco
 speaker: How I AI
-tags:
-  - ai-agent-mode
-  - custom-gpts
-  - prompt-engineering
-  - workflow-automation
-  - persona-modeling
-title: ChatGPT智能代理模式：招聘、客户画像与通勤优化
-summary: 本期节目深入探讨了如何利用ChatGPT的智能代理模式、自定义GPTs和NotebookLM等先进AI工具，解决企业和个人在日常运营和生活中面临的实际问题。嘉宾Mihal Pled分享了三个创新用例：通过智能代理模式自动化领英（LinkedIn）招聘流程，显著提升候选人筛选效率；利用AI构建详细的客户画像，为市场调研和产品决策提供即时洞察；以及通过日历自动化功能，有效优化通勤停车策略，避免高峰期高昂费用。节目强调了AI在提高效率、提升工作质量方面的巨大潜力，并讨论了内部工具团队在AI时代的重要性及有效的提示词工程技巧。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Mihal Pled
-  - Clarva
-companies_orgs:
-  - Honeybook
-  - Brex
-  - OpenAI
-  - Google
-  - Google DeepMind
-  - San Francisco Giants
-products_models:
-  - ChatGPT
-  - Gemini 2.5 Pro
-  - Gemini 2.5 Flash
-  - Gemini 2.5 Flash Light
-  - NotebookLM
-  - Claude
-  - Slackbot
-media_books:
-  - How I AI
 status: evergreen
+summary: 本期节目深入探讨了如何利用ChatGPT的智能代理模式、自定义GPTs和NotebookLM等先进AI工具，解决企业和个人在日常运营和生活中面临的实际问题。嘉宾Mihal
+  Pled分享了三个创新用例：通过智能代理模式自动化领英（LinkedIn）招聘流程，显著提升候选人筛选效率；利用AI构建详细的客户画像，为市场调研和产品决策提供即时洞察；以及通过日历自动化功能，有效优化通勤停车策略，避免高峰期高昂费用。节目强调了AI在提高效率、提升工作质量方面的巨大潜力，并讨论了内部工具团队在AI时代的重要性及有效的提示词工程技巧。
+tags:
+- ai-agent-mode
+- llm
+- workflow-automation
+title: ChatGPT智能代理模式：招聘、客户画像与通勤优化
 ---
+
 ### 开启AI代理模式：你的“小帮手”
 
 Clarva: 我们将从一个在“How I AI”节目中尚未出现过的话题开始，那就是ChatGPT的**代理模式**（Agent Mode: 一种允许AI执行多步骤任务并与外部环境交互的运行模式）。

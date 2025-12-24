@@ -1,68 +1,68 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- FBI
+- Department of Justice
+- White House
+- Target
+- Walmart
+- OpenAI
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- The Daily
+- JAMA Network Open
+- The Queen of Versailles
+- Cabaret
+- Boop
+- Wicked
+- Hamilton
+- The Lion King
+- Phantom of the Opera
+- Cats
+- Good Night and Good Luck
+- Othello
+people:
+- James Comey
+- Leticia James
+- Lindseay Halligan
+- Devlin Barrett
+- Caroline Levit
+- Xi Jinping
+- Donald Trump
+- Joe Biden
+- Kristen Chenoweth
+- Steven Schwarz
+- Billy Porter
+- Andrew Lloyd Weber
+- George Clooney
+- Denzel Washington
+- Jake Gyllenhaal
+products_models:
+- Obamacare
+- ChatGPT
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=1hAK60RkVmk
 speaker: New York Times Podcasts
-tags:
-  - trump-legal-challenges
-  - geopolitical-diplomacy
-  - healthcare-subsidies
-  - social-media-mental-health
-  - broadway-struggles
-title: 特朗普“报复行动”遇重大挫折，医保成本或飙升，社会文化多面观察
-summary: 一篇综合报道，涵盖了美国前总统特朗普的“报复行动”在法律层面遭遇重大挫折，联邦法官驳回了针对詹姆斯·科米和莱蒂西亚·詹姆斯的刑事指控。文章还讨论了中国领导人习近平与特朗普的通话内容，以及特朗普政府考虑延长奥巴马医改补贴的动向。此外，还探讨了社交媒体对心理健康的影响，百老汇音乐剧的困境，以及人工智能在假日购物中的应用。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - James Comey
-  - Leticia James
-  - Lindseay Halligan
-  - Devlin Barrett
-  - Caroline Levit
-  - Xi Jinping
-  - Donald Trump
-  - Joe Biden
-  - Kristen Chenoweth
-  - Steven Schwarz
-  - Billy Porter
-  - Andrew Lloyd Weber
-  - George Clooney
-  - Denzel Washington
-  - Jake Gyllenhaal
-companies_orgs:
-  - FBI
-  - Department of Justice
-  - White House
-  - Target
-  - Walmart
-  - OpenAI
-products_models:
-  - Obamacare
-  - ChatGPT
-media_books:
-  - The New York Times
-  - The Daily
-  - JAMA Network Open
-  - The Queen of Versailles
-  - Cabaret
-  - Boop
-  - Wicked
-  - Hamilton
-  - The Lion King
-  - Phantom of the Opera
-  - Cats
-  - Good Night and Good Luck
-  - Othello
 status: evergreen
+summary: 一篇综合报道，涵盖了美国前总统特朗普的“报复行动”在法律层面遭遇重大挫折，联邦法官驳回了针对詹姆斯·科米和莱蒂西亚·詹姆斯的刑事指控。文章还讨论了中国领导人习近平与特朗普的通话内容，以及特朗普政府考虑延长奥巴马医改补贴的动向。此外，还探讨了社交媒体对心理健康的影响，百老汇音乐剧的困境，以及人工智能在假日购物中的应用。
+tags:
+- broadway-struggle
+- challenge
+- geopolitical
+- health
+- social-media-mental-health
+title: 特朗普“报复行动”遇重大挫折，医保成本或飙升，社会文化多面观察
 ---
+
 ### 特朗普“报复行动”遭遇重大挫折
 
 以下是《纽约时报》今日头条新闻的精选内容，涵盖了美国政治、国际关系、社会趋势及文化动态。

@@ -1,40 +1,40 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Weka
+- Manis
+- Anthropic
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Context Engineering blog
+people:
+- Val Bercovici
+- Kellen Fox
+products_models:
+- Claw Code
+- Codex
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=NTBX-wxUhHs
 speaker: AI Engineer
-tags:
-  - context-platform-engineering
-  - token-anxiety
-  - kv-cache-hit-rate
-  - memory-tiers
-  - ai-agent-optimization
-title: Weka开源语境平台工程工具包，助力AI智能体消除令牌焦虑
-summary: Weka首席AI官Val Bercovici与产品管理主管Kellen Fox在AI.engineering代码峰会上宣布开源其语境平台工程工具包。该工具包旨在通过优化键值（KV）缓存命中率和内存分层，解决AI智能体开发中的“令牌焦虑”和性能瓶颈。文章深入探讨了语境平台工程如何简化生产级AI智能体的开发，并展示了Weka基于NVMe的增强内存网格在处理大规模并发用户和预填充令牌时的卓越性能，为AI推理提供商和开发者提供了更高效、经济的解决方案。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Val Bercovici
-  - Kellen Fox
-companies_orgs:
-  - Weka
-  - Manis
-  - Anthropic
-products_models:
-  - Claw Code
-  - Codex
-media_books:
-  - Context Engineering blog
 status: evergreen
+summary: Weka首席AI官Val Bercovici与产品管理主管Kellen Fox在AI.engineering代码峰会上宣布开源其语境平台工程工具包。该工具包旨在通过优化键值（KV）缓存命中率和内存分层，解决AI智能体开发中的“令牌焦虑”和性能瓶颈。文章深入探讨了语境平台工程如何简化生产级AI智能体的开发，并展示了Weka基于NVMe的增强内存网格在处理大规模并发用户和预填充令牌时的卓越性能，为AI推理提供商和开发者提供了更高效、经济的解决方案。
+tags:
+- ai-agent-optimization
+- anxiety
+- engineering
+- memory
+- rate
+title: Weka开源语境平台工程工具包，助力AI智能体消除令牌焦虑
 ---
+
 ### 介绍与工具包开源
 
 **Val Bercovici:** 大家好，我是Weka的首席AI官Val Bercovici。

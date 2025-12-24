@@ -1,37 +1,37 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: history
+companies_orgs:
+- Los Alamos
 date: '2024-04-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Memoirs
+- oppenheimer
+people:
+- J. Robert Oppenheimer
+- Louis Alvarez
+- Hans Bethe
+- Edward Teller
+- Dwight D. Eisenhower
+- Hannibal
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=UG22Ytgj4uc
 speaker: Dwarkesh Patel
-tags:
-  - oppenheimer
-  - leadership
-  - psychology
-  - history
-title: 奥本海默：复杂人格与领导力剖析
-summary: 本内容深入剖析了J. Robert Oppenheimer复杂分裂的人格特质，探讨了他作为科学家和领导者在社交场合与工作环境中的截然不同表现。内容揭示了他的不安全感如何影响其学术追求和人际关系，并对比了他在二战期间作为一位心理洞察力敏锐的实验室主任的卓越领导力，以及战后与Edward Teller的理念分歧。通过历史人物的视角，展现了奥本海默多面而深刻的形象。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - J. Robert Oppenheimer
-  - Louis Alvarez
-  - Hans Bethe
-  - Edward Teller
-  - Dwight D. Eisenhower
-  - Hannibal
-companies_orgs:
-  - Los Alamos
-products_models: []
-media_books:
-  - Memoirs
 status: evergreen
+summary: 本内容深入剖析了J. Robert Oppenheimer复杂分裂的人格特质，探讨了他作为科学家和领导者在社交场合与工作环境中的截然不同表现。内容揭示了他的不安全感如何影响其学术追求和人际关系，并对比了他在二战期间作为一位心理洞察力敏锐的实验室主任的卓越领导力，以及战后与Edward
+  Teller的理念分歧。通过历史人物的视角，展现了奥本海默多面而深刻的形象。
+tags:
+- leadership
+- psychology
+title: 奥本海默：复杂人格与领导力剖析
 ---
+
 ### 人格分裂与社交魅力
 
 **J. Robert Oppenheimer** was a man with a very divided self and an insecure self. He never quite pulled himself together as a human being. And as is true with many people with that kind of personality structure, he was a superb actor. He could play lots of different roles, and he did. Women adored him; he was one of the most lavish courters of women. He would bring a bouquet of flowers to their first date, which was apparently shocking to people in those days. He was just a lovely, courtly man.

@@ -1,62 +1,61 @@
 ---
-author: Patrick Boyle
+area: market-analysis
+category: finance
+companies_orgs:
+- MicroStrategy
+- Strategy
+- GameStop
+- Metaplanet
+- Smarter Web Company
+- Sequans
+- Robin Wigglesworth
+- Bloomberg
+- The Financial Times
+- The Economist
+- BlackRock
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Hitchhiker's Guide to the Galaxy
+- The Last Economy
+- Gold Is A Bet On Human Failure
+- Crypto got everything it wanted. Now it’s sinking.
+people:
+- Michael Saylor
+- Phong Le
+- Elon Musk
+- SBF
+- Caroline the wood nymph
+- Joe Weisenthal
+- Zeke Faux
+- Dan Toomey
+products_models:
+- Gemini Flash
+- Sora
+- MSTX
+- MSTU
+- MSTP
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=fhsrkvEY55s
 speaker: Patrick Boyle
-tags:
-  - leverage-cycle
-  - speculative-finance
-  - nav-premium-illusion
-  - hype-capitalism
-  - asset-price-inflation
-title: 加密货币的无限金钱漏洞已失效：从疯狂投机到金融现实的崩塌
-summary: “本文剖析了加密货币财库公司如何通过炒作、杠杆和AI表情包制造虚假繁荣，最终因比特币价格停滞、高息优先股分红压力与市场理性回归而崩塌。揭示了‘空心公司’模式的不可持续性，以及金融系统对纯粹投机泡沫的清算。”
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Patrick Boyle
-  - Michael Saylor
-  - Phong Le
-  - Elon Musk
-  - SBF
-  - Caroline the wood nymph
-  - Joe Weisenthal
-  - Zeke Faux
-  - Dan Toomey
-companies_orgs:
-  - MicroStrategy
-  - Strategy
-  - GameStop
-  - Metaplanet
-  - Smarter Web Company
-  - Sequans
-  - Robin Wigglesworth
-  - Bloomberg
-  - The Financial Times
-  - The Economist
-  - BlackRock
-products_models:
-  - Gemini Flash
-  - Sora
-  - MSTX
-  - MSTU
-  - MSTP
-media_books:
-  - The Hitchhiker's Guide to the Galaxy
-  - The Last Economy
-  - Gold Is A Bet On Human Failure
-  - Crypto got everything it wanted. Now it’s sinking.
 status: evergreen
+summary: “本文剖析了加密货币财库公司如何通过炒作、杠杆和AI表情包制造虚假繁荣，最终因比特币价格停滞、高息优先股分红压力与市场理性回归而崩塌。揭示了‘空心公司’模式的不可持续性，以及金融系统对纯粹投机泡沫的清算。”
+tags:
+- asset-price-inflation
+- cycle
+- finance
+- geopolitical
+- investment
+title: 加密货币的无限金钱漏洞已失效：从疯狂投机到金融现实的崩塌
 ---
+
 ### 加密货币财库公司的疯狂循环：从AI表情包到金融幻觉
 
 加密货币的“无限金钱漏洞”似乎已经失效——我们或许永远无法真正知道究竟哪里出了问题。这套机制原本是这样运作的：你找一家无关紧要的公司，筹集资金购买比特币——或者任何其他代币（它们本质上都一样）——然后在社交媒体上发布一些近乎宗教式的言论，宣称货币的未来，并投入大量精力制作AI表情包。因为如今在企业金融教科书里已经公认：高质量的AI表情包确实能推高代币价格。这启动了一个飞轮效应：加密货币价格上涨 → 推动公司股价上升 → 你再发行更多股票融资 → 买入更多加密货币 → 如此循环往复。如果有人质疑现金流、市盈率，甚至热力学基本定律——那可能只是提醒你：该多做点AI表情包了。既然经营一家真正的企业如此枯燥、容易出错，为什么不去买点东西、发个推文、然后拉升它的价格呢？

@@ -1,30 +1,30 @@
 ---
-title: 参议员兰福德：共和党在避免政府关门方面远未达到60票门槛
-summary: 参议员詹姆斯·兰福德讨论了政府关门、联邦雇员工资以及奥巴马医改补贴的未来。他强调了结束政府关门的必要性，并批评了将联邦雇员作为政府关门代价的做法。
 area: null
 category: null
-project: []
-tags:
-- drug-interdiction
-- federal-employees
-- government-shutdown
-- obamacare
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-07'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+people:
+- obamacare
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aD09xI1ycwI
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 参议员詹姆斯·兰福德讨论了政府关门、联邦雇员工资以及奥巴马医改补贴的未来。他强调了结束政府关门的必要性，并批评了将联邦雇员作为政府关门代价的做法。
+tags:
+- financial
+- government-shutdown
+- health
+title: 参议员兰福德：共和党在避免政府关门方面远未达到60票门槛
 ---
+
 ### 政府关门与联邦雇员的待遇
 
 What's your thought on the president's ideas here on using this as an opportunity to limit the size and scale of government? Should that be the conversation now should be the conversation at any point. Obviously, September the 30th, there were 150,000 federal employees that ended their their connection to the federal government. Those are the folks that were given the opportunity to be early out through the early months of the Trump administration, said you could stay until September the 30th. So we had 150,000 employees that left at that point. What the president is doing now is he's basically sorting in every agency to say if they're considered essential or nonessential, if they're considered nonessential, then there's a second look to say if they're nonessential now in the shutdown, are they nonessential long term on that? That should be a reasonable thing any business would do. Federal government is no different than any business. If you want to be able to take a hard look at it and say, if we can function without them, should we? Is that the right thing to be able to do and then to be able to make the wise decision from there?

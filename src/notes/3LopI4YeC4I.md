@@ -1,40 +1,39 @@
 ---
-author: Veritasium
-date: '2020-08-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=3LopI4YeC4I
-speaker: Veritasium
-tags:
-  - veritasium
-  - egocentric-bias
-  - role-of-luck
-  - success-perception
-  - cognitive-bias
-  - social-inequality
-title: 为什么自欺欺人是一种超能力：成功、运气与偏见
-summary: 本文深入探讨了人类普遍存在的自我中心偏误，以及我们如何倾向于低估运气在个人成功中的关键作用。通过分析冰球运动员的生日优势、国家财富对收入的影响以及NASA宇航员的选拔过程等案例，揭示了成功往往是能力与运气的复杂结合。文章进一步讨论了相信自己完全掌控命运的“有用错觉”，以及忽视运气可能导致自以为是、减少对社会的贡献。最终，作者提出了一种矛盾的成功观：既要相信努力，又要承认运气，并以此激励我们回馈他人，提升社会福祉。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Michael Stevens
+category: psychology
 companies_orgs:
-  - NASA
-  - Vsauce
-products_models:
-  - snatoms
-  - snatomsX
+- NASA
+- Vsauce
+date: '2020-08-28'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - How Much Does a Shadow Weigh?
-  - 60-minutes interview
+- How Much Does a Shadow Weigh?
+- 60-minutes interview
+people:
+- Michael Stevens
+products_models:
+- snatoms
+- snatomsX
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=3LopI4YeC4I
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了人类普遍存在的自我中心偏误，以及我们如何倾向于低估运气在个人成功中的关键作用。通过分析冰球运动员的生日优势、国家财富对收入的影响以及NASA宇航员的选拔过程等案例，揭示了成功往往是能力与运气的复杂结合。文章进一步讨论了相信自己完全掌控命运的“有用错觉”，以及忽视运气可能导致自以为是、减少对社会的贡献。最终，作者提出了一种矛盾的成功观：既要相信努力，又要承认运气，并以此激励我们回馈他人，提升社会福祉。
+tags:
+- bias
+- cognitive-bias
+- perception
+- role-of-luck
+- social-inequality
+title: 为什么自欺欺人是一种超能力：成功、运气与偏见
 ---
+
 ### 自我中心偏误：我们都觉得自己贡献最大
 
 在新冠疫情封锁期间，一条新闻标题曾迅速走红：

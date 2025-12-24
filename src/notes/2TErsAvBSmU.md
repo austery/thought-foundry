@@ -1,55 +1,55 @@
 ---
-author: Norges Bank Investment Management
+area: tech-insights
+category: technology
+companies_orgs:
+- SAP
+- Norges Bank Investment Management
+- Apple
+- Amazon
+- Microsoft
+- Adobe
+- Adidas
+- Capgemini
 date: '2025-04-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Invader's Dilemma
+people:
+- Christian Klein
+- Nikolai Tangen
+- Satya Nadella
+- Shantanu Narayen
+- Jim Hagemann Snabe
+- Bill McDermott
+- Sebastian Steinhaeuser
+- Lars Dalgaard
+- Bernard
+- G. Oswald
+products_models:
+- ERP
+- S/4HANA
+- Jewel
+- BP
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=2TErsAvBSmU
 speaker: Norges Bank Investment Management
-tags:
-  - enterprise-software
-  - cloud-transformation
-  - ai-productivity
-  - technological-nationalism
-  - european-competitiveness
-title: SAP CEO Christian Klein：云转型、AI与欧洲科技竞争力
-summary: SAP首席执行官Christian Klein在访谈中深入探讨了SAP作为全球软件巨头的业务核心、云转型战略以及人工智能如何驱动企业生产力。他分享了SAP在企业资源规划（ERP）领域的领导地位，以及如何通过创新应对技术民族主义和欧洲竞争力挑战。Klein还讨论了量子计算的未来影响、人才培养的重要性，并对欧洲在科技创新和监管方面的现状提出了独到见解。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Christian Klein
-  - Nikolai Tangen
-  - Satya Nadella
-  - Shantanu Narayen
-  - Jim Hagemann Snabe
-  - Bill McDermott
-  - Sebastian Steinhaeuser
-  - Lars Dalgaard
-  - Bernard
-  - G. Oswald
-companies_orgs:
-  - SAP
-  - Norges Bank Investment Management
-  - Apple
-  - Amazon
-  - Microsoft
-  - Adobe
-  - Adidas
-  - Capgemini
-products_models:
-  - ERP
-  - S/4HANA
-  - Jewel
-  - BP
-media_books:
-  - The Invader's Dilemma
 status: evergreen
+summary: SAP首席执行官Christian Klein在访谈中深入探讨了SAP作为全球软件巨头的业务核心、云转型战略以及人工智能如何驱动企业生产力。他分享了SAP在企业资源规划（ERP）领域的领导地位，以及如何通过创新应对技术民族主义和欧洲竞争力挑战。Klein还讨论了量子计算的未来影响、人才培养的重要性，并对欧洲在科技创新和监管方面的现状提出了独到见解。
+tags:
+- ai-productivity
+- enterprise-software
+- geopolitical
+- technological-nationalism
+- transformation
+title: SAP CEO Christian Klein：云转型、AI与欧洲科技竞争力
 ---
+
 ### SAP：全球业务的核心驱动力
 
 主持人Nikolai Tangen欢迎了**SAP**（Software AG: 一家德国跨国软件公司，专注于企业应用软件）的首席执行官Christian Klein。他介绍道，SAP是欧洲最大的公司，也是全球第三大软件公司，挪威主权财富基金持有该公司近3%的股份，价值90亿美元，相当于每位挪威人2万挪威克朗。Christian Klein在SAP从学生实习生做起，20年后成为首席执行官，这段职业旅程令人惊叹。

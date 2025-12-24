@@ -1,43 +1,41 @@
 ---
-author: Joseph Wang
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- Nvidia
+- Bank of Japan
+- New York Fed
+- Silicon Valley Bank
+- Ministry of Finance
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Governor Waller
+- Fed President Williams
+- Tekkashi
+products_models:
+- Grock
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=-kQhM94-t8M
 speaker: Joseph Wang
-tags:
-  - equity-market-volatility
-  - ai-bubble
-  - japanese-bond-yields
-  - fiscal-stimulus
-  - monetary-policy
-  - retail-deleveraging
-title: 市场周报：美股震荡与日本债券收益率飙升背后的逻辑
-summary: 本期市场周报深入分析了近期美股市场的剧烈波动，探讨了AI泡沫破裂的可能性，以及非农就业数据和英伟达财报的影响。同时，文章还关注了日本债券收益率的异常飙升，剖析了日本政府的财政刺激政策、央行独立性担忧以及人口结构变化对债券市场的影响。作者认为美股当前更可能是修正而非熊市，并对日本市场的潜在全球影响进行了评估。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Governor Waller
-  - Fed President Williams
-  - Tekkashi
-companies_orgs:
-  - Federal Reserve
-  - Nvidia
-  - Bank of Japan
-  - New York Fed
-  - Silicon Valley Bank
-  - Ministry of Finance
-products_models:
-  - Grock
-media_books: []
 status: evergreen
+summary: 本期市场周报深入分析了近期美股市场的剧烈波动，探讨了AI泡沫破裂的可能性，以及非农就业数据和英伟达财报的影响。同时，文章还关注了日本债券收益率的异常飙升，剖析了日本政府的财政刺激政策、央行独立性担忧以及人口结构变化对债券市场的影响。作者认为美股当前更可能是修正而非熊市，并对日本市场的潜在全球影响进行了评估。
+tags:
+- ai-bubble
+- equity-market-volatility
+- financial
+- fiscal-stimulus
+- technology
+title: 市场周报：美股震荡与日本债券收益率飙升背后的逻辑
 ---
+
 ### 市场概览：美股波动与日本债券异动
 
 大家好，今天是11月22日，这里是《市场周报》。过去一周，市场经历了异常激动人心的时刻。

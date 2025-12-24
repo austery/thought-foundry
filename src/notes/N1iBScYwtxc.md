@@ -1,41 +1,40 @@
 ---
-author: 王红雨
+area: market-analysis
+category: finance
+companies_orgs:
+- CMHC
+- Build Canada Home
+- G7
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ray Dalio
+- Gu Chaoming
+- Carney
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=N1iBScYwtxc
 speaker: 王红雨
-tags:
-  - canada-federal-budget
-  - housing-crisis
-  - financial-innovation
-  - economic-recession-theory
-  - real-estate-hongkongization
-  - debt-management
-title: 2025年加拿大联邦预算案深度解读：背景、框架、住房政策与香港化趋势
-summary: 本期节目深入剖析加拿大联邦政府2025年预算案。主持人详细解读了预算案在国际贸易秩序重塑背景下的出台原因、庞大金额的合理性，以及其在基建、生产力、国防和住房方面的投资重点。特别关注了住房政策的重大金融工具改革，包括资产证券化和担保上限的提升，并预测加拿大房地产市场可能出现“香港化”趋势，即政府提供大量廉租房，而私有产权房产价值将日益凸显。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-  - historical-insights
-people:
-  - Ray Dalio
-  - Gu Chaoming
-  - Carney
-companies_orgs:
-  - CMHC
-  - Build Canada Home
-  - G7
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入剖析加拿大联邦政府2025年预算案。主持人详细解读了预算案在国际贸易秩序重塑背景下的出台原因、庞大金额的合理性，以及其在基建、生产力、国防和住房方面的投资重点。特别关注了住房政策的重大金融工具改革，包括资产证券化和担保上限的提升，并预测加拿大房地产市场可能出现“香港化”趋势，即政府提供大量廉租房，而私有产权房产价值将日益凸显。
+tags:
+- canada
+- crisis
+- economic-recession-theory
+- financial-innovation
+- management
+- real
+title: 2025年加拿大联邦预算案深度解读：背景、框架、住房政策与香港化趋势
 ---
+
 ### 2025年加拿大联邦预算案背景与框架
 
 11月4号，加拿大联邦政府终于公布了2025年的预算案。这份预算案本应在4月份公布，不仅公布得非常晚，而且金额巨大，内容庞杂。今天，就来跟大家聊一聊这份预算案的大致框架，以及其中大家最关心的住房政策细节。欢迎大家再次回到我的频道。今天是2025年11月6号，将跟大家拆解这份预算案的大体背景、目标、内容概览以及住房政策的详解，最后是我的看法。

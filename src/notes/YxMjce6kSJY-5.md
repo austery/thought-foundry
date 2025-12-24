@@ -1,32 +1,32 @@
 ---
-title: 边境沙皇与5万美元现金：霍曼案为何持续发酵？
-summary: 探讨白宫边境沙皇汤姆·霍曼涉嫌收受5万美元现金的FBI调查案。尽管特朗普政府关闭了此案，但围绕现金、录音和法律解释的争议，使这桩丑闻持续成为公众焦点。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- border-czar
-- fbi-investigation
-- political-corruption
-- trump-administration
-people:
-- tom-homeman
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-15'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+people:
+- tom-homeman
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=YxMjce6kSJY
+speaker: New York Times Podcasts
 status: evergreen
+summary: 探讨白宫边境沙皇汤姆·霍曼涉嫌收受5万美元现金的FBI调查案。尽管特朗普政府关闭了此案，但围绕现金、录音和法律解释的争议，使这桩丑闻持续成为公众焦点。
+tags:
+- geopolitical
+- investment
+- political-corruption
+- trump-administration
+title: 边境沙皇与5万美元现金：霍曼案为何持续发酵？
 ---
+
 ### 边境沙皇的现金疑云
 
 Natalie Kitroof: From the New York Times, I'm Natalie Kitroof.

@@ -1,46 +1,46 @@
 ---
-author: Shanghao Jin
+area: society-systems
+category: geopolitics
+companies_orgs:
+- GOP
+- Federal Reserve
 date: '2025-04-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《猩球崛起》
+people:
+- Donald Trump
+- 蒋介石
+- 白崇禧
+- 李宗仁
+- 唐生志
+- Elon Musk
+products_models:
+- S&P 500
+- Nasdaq
+- 恒生H股
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=CPpwPnpLc8g
 speaker: Shanghao Jin
-tags:
-  - us-tariff-policy
-  - global-trade-war
-  - economic-recession
-  - bear-market-strategy
-  - populism-politics
-  - ai-job-displacement
-title: 美国关税政策对全球经济与市场的影响及长期投资展望
-summary: 本文深入分析了美国新关税政策对全球经济的深远影响，指出其可能引发美国经济衰退、全球市场重估，并预测了熊市中的市场走势。作者强调了投资耐心，并提出需关注盈利预期调整及金融体系脆断等信号。尽管短期面临挑战，但长期看好美国科技巨头在人工智能驱动下的发展潜力，同时警示了民粹主义在决策中的风险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - 蒋介石
-  - 白崇禧
-  - 李宗仁
-  - 唐生志
-  - Elon Musk
-companies_orgs:
-  - GOP
-  - Federal Reserve
-products_models:
-  - S&P 500
-  - Nasdaq
-  - 恒生H股
-media_books:
-  - 《猩球崛起》
 status: evergreen
+summary: 本文深入分析了美国新关税政策对全球经济的深远影响，指出其可能引发美国经济衰退、全球市场重估，并预测了熊市中的市场走势。作者强调了投资耐心，并提出需关注盈利预期调整及金融体系脆断等信号。尽管短期面临挑战，但长期看好美国科技巨头在人工智能驱动下的发展潜力，同时警示了民粹主义在决策中的风险。
+tags:
+- ai-job-displacement
+- economic-recession
+- global-trade-war
+- market
+- populism-politics
+- us-tariff-policy
+title: 美国关税政策对全球经济与市场的影响及长期投资展望
 ---
+
 ### 市场概览与尾部风险的显现
 
 大家好，今天的内容是周会的一个重录。由于周会中包含一些敏感讨论，我已将其去除并进行了重录。上周二、周三是美国的“解放日”，但实际上却让大家的钱包都“解放”了。我认为现在市场处于一个特殊阶段，可能是我最不需要你们的时候。我们从今年12月和1月就开始讨论美国可能存在的**尾部风险**（Tail Risk: 指发生概率极低但一旦发生会造成巨大损失的事件）。真正需要关注和处理尾部风险的时机，是风险尚未发生之时，而现在风险已经显现。

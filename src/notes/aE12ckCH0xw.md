@@ -1,31 +1,28 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-07-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=aE12ckCH0xw
 speaker: Anthony看世界
-tags:
-  - emotional-debt
-  - parental-guilt
-  - chinese-families
-  - family-trauma
-  - interpersonal-relationships
-title: 中国家庭的“恩情高利贷”：如何摆脱原生家庭带来的情感债务与愧疚感？
-summary: 本视频深入探讨了中国家庭中普遍存在的一种情感创伤：子女因父母的“巨大投入”而背负沉重的愧疚感和情感债务。通过案例分析，揭示了将亲子关系视为投资的错误逻辑，以及这种模式如何导致子女产生自我攻击倾向。视频强调了情感互动而非物质投入在个体心智发展中的核心作用，并提出情感是可增值的“非排他性货币”，而非有限资源，从而驳斥了“恩情高利贷”的观念，鼓励建立健康的亲子关系。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了中国家庭中普遍存在的一种情感创伤：子女因父母的“巨大投入”而背负沉重的愧疚感和情感债务。通过案例分析，揭示了将亲子关系视为投资的错误逻辑，以及这种模式如何导致子女产生自我攻击倾向。视频强调了情感互动而非物质投入在个体心智发展中的核心作用，并提出情感是可增值的“非排他性货币”，而非有限资源，从而驳斥了“恩情高利贷”的观念，鼓励建立健康的亲子关系。
+tags:
+- chinese
+- debt
+- family
+- relationship
+- technology
+title: 中国家庭的“恩情高利贷”：如何摆脱原生家庭带来的情感债务与愧疚感？
 ---
 
 ### 中国家庭的普遍创伤：情感债务与愧疚感

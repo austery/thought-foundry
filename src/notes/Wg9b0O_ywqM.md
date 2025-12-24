@@ -1,30 +1,27 @@
 ---
-title: 二元思维：人类的本能、影响与应对之道
-summary: 本文探讨了人类普遍存在的二元思维本能，它如何影响我们的观点、决策和对他人的影响。文章分析了分类深度、视角和表达框架这三个维度，并提出应对复杂世界中二元思维挑战的方法。
 area: personal-growth
 category: psychology
-project:
-  - personal-growth-lab
-tags:
-  - binary-thinking
-  - cognitive-bias
-  - decision-making
-  - human-instinct
-  - psychology
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-02-10'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=Wg9b0O_ywqM
+speaker: 一口新飯
 status: evergreen
+summary: 本文探讨了人类普遍存在的二元思维本能，它如何影响我们的观点、决策和对他人的影响。文章分析了分类深度、视角和表达框架这三个维度，并提出应对复杂世界中二元思维挑战的方法。
+tags:
+- cognitive-bias
+- decision-making
+- human
+- psychology
+- thinking
+title: 二元思维：人类的本能、影响与应对之道
 ---
 
 ### 二元思维的普遍性与本能根源

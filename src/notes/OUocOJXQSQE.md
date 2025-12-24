@@ -1,50 +1,49 @@
 ---
-author: Harvard Business Review
+area: market-analysis
+category: business
+companies_orgs:
+- Walmart
+- Sam's Club
+- Instacart
+- Uber
+- Meta
+- Harvard Business Review
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Doug McMillon
+- Sam Walton
+- Lee Scott
+- Rob Walton
+- Daniel Danker
+- Suresh Kumar
+- Liore Arussy
+- Gavin Dia
+- Ginger Tay
+- Adi Ignatius
+products_models:
+- ChatGPT
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=OUocOJXQSQE
 speaker: Harvard Business Review
-tags:
-  - organizational-change
-  - ai-transformation
-  - purpose-driven-leadership
-  - supply-chain-resilience
-  - geopolitical-risk
-title: 沃尔玛CEO道格·麦克米伦：在不确定时代以目标引领变革
-summary: 沃尔玛CEO道格·麦克米伦探讨了在当前充满不确定性的商业环境中，如何以目标为导向进行领导。他强调了在AI颠覆、地缘政治波动下，保持企业身份认同并拥抱变革的重要性。麦克米伦详细阐述了沃尔玛如何将AI视为增长机遇，而非仅仅是效率工具，以及公司如何通过投资员工、技术和可持续发展来平衡利润与企业宗旨。他还分享了沃尔玛在应对疫情供应链冲击和关税不确定性中的学习经验，并强调了持续组织变革和领导者快速决策的关键性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Doug McMillon
-  - Sam Walton
-  - Lee Scott
-  - Rob Walton
-  - Daniel Danker
-  - Suresh Kumar
-  - Liore Arussy
-  - Gavin Dia
-  - Ginger Tay
-  - Adi Ignatius
-companies_orgs:
-  - Walmart
-  - Sam's Club
-  - Instacart
-  - Uber
-  - Facebook
-  - Harvard Business Review
-products_models:
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 沃尔玛CEO道格·麦克米伦探讨了在当前充满不确定性的商业环境中，如何以目标为导向进行领导。他强调了在AI颠覆、地缘政治波动下，保持企业身份认同并拥抱变革的重要性。麦克米伦详细阐述了沃尔玛如何将AI视为增长机遇，而非仅仅是效率工具，以及公司如何通过投资员工、技术和可持续发展来平衡利润与企业宗旨。他还分享了沃尔玛在应对疫情供应链冲击和关税不确定性中的学习经验，并强调了持续组织变革和领导者快速决策的关键性。
+tags:
+- ai-transformation
+- geopolitical-risk
+- organizational
+- purpose-driven-leadership
+- supply-chain-resilience
+title: 沃尔玛CEO道格·麦克米伦：在不确定时代以目标引领变革
 ---
+
 ### 沃尔玛的领导力与不确定性挑战
 
 **ADI IGNATIUS:** 沃尔玛是全球最大的公司，也是最大的私人雇主和最成功的零售商，每周有2.55亿顾客光顾。

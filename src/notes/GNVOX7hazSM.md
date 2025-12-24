@@ -1,41 +1,39 @@
 ---
-author: 徒步的騎手
-date: 2025-06-19
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=GNVOX7hazSM'
-speaker: 徒步的騎手
-tags:
-  - reverse-discrimination
-  - civil-rights-act
-  - equal-justice
-  - compensatory-justice
-  - dei-policies
-title: '美国最高法院9:0判决：逆向歧视、法律面前人人平等及身份政治的转向'
-summary: '近期美国最高法院做出多项9:0一致判决，其中一项关于职场逆向歧视的裁决尤为引人关注。该判决废除了职场歧视诉讼中的双重举证标准，强调《民权法案》保护的是“任何个人”，而非特定群体。这标志着美国司法在平等问题上正从关注群体补偿转向强调个体权利，对身份政治和多元、公平与包容（DEI）政策将产生深远影响。'
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Marlene Ames
-  - John Roberts
-  - Ketanji Brown Jackson
-  - Joe Biden
-  - Lyndon B. Johnson
+category: geopolitics
 companies_orgs:
-  - Ohio Department of Youth Services
-  - FBI
-products_models: '[]'
+- Ohio Department of Youth Services
+- FBI
+date: 2025-06-19
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《金融时报》
-  - 《财新周刊》
+- 《金融时报》
+- 《财新周刊》
+people:
+- Marlene Ames
+- John Roberts
+- Ketanji Brown Jackson
+- Joe Biden
+- Lyndon B. Johnson
+products_models: '[]'
+project:
+- us-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=GNVOX7hazSM
+speaker: 徒步的騎手
 status: evergreen
+summary: 近期美国最高法院做出多项9:0一致判决，其中一项关于职场逆向歧视的裁决尤为引人关注。该判决废除了职场歧视诉讼中的双重举证标准，强调《民权法案》保护的是“任何个人”，而非特定群体。这标志着美国司法在平等问题上正从关注群体补偿转向强调个体权利，对身份政治和多元、公平与包容（DEI）政策将产生深远影响。
+tags:
+- geopolitical
+- policy
+- society
+- technology
+title: 美国最高法院9:0判决：逆向歧视、法律面前人人平等及身份政治的转向
 ---
 
 ### 引言：最高法院的里程碑式判决

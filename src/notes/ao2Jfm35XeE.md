@@ -1,45 +1,43 @@
 ---
-author: Veritasium
-date: '2021-12-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ao2Jfm35XeE
-speaker: Veritasium
-tags:
-  - veritasium
-  - snowflake-formation
-  - crystal-growth
-  - nucleation-barriers
-  - nakaya-diagram
-  - molecular-physics
-title: 雪花之谜：85年未解之谜的分子物理学解释
-summary: 本视频深入探讨了雪花形成的科学奥秘。肯·利布雷希特博士展示了如何在实验室中精确控制条件来“设计”雪花，并揭示了“没有两片雪花相同”这一说法的复杂性。视频详细解释了雪花从分子层面形成六边形晶体的过程，并介绍了中谷宇吉郎的“中谷图”如何描述雪花形态与温度、湿度的关系。最后，利布雷希特博士提出了一个关于“成核势垒”的新假说，有望解释雪花为何在不同温度下呈现出柱状和晶片状等多样形态，解开了长达85年的科学谜团。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Ken Libbrecht
-  - Derek Muller
-  - Wilson A. Bentley
-  - Ukichiro Nakaya
+category: science
 companies_orgs:
-  - US Post Office
-  - University of Hokkaido
-  - Brilliant
-products_models:
-  - Frozen
-  - Snow Crystals
-  - Nakaya Diagram
-  - Gemini Flash
+- US Post Office
+- University of Hokkaido
+- Brilliant
+date: '2021-12-01'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Snow Crystals
+- Snow Crystals
+people:
+- Ken Libbrecht
+- Derek Muller
+- Wilson A. Bentley
+- Ukichiro Nakaya
+products_models:
+- Frozen
+- Snow Crystals
+- Nakaya Diagram
+- Gemini Flash
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ao2Jfm35XeE
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了雪花形成的科学奥秘。肯·利布雷希特博士展示了如何在实验室中精确控制条件来“设计”雪花，并揭示了“没有两片雪花相同”这一说法的复杂性。视频详细解释了雪花从分子层面形成六边形晶体的过程，并介绍了中谷宇吉郎的“中谷图”如何描述雪花形态与温度、湿度的关系。最后，利布雷希特博士提出了一个关于“成核势垒”的新假说，有望解释雪花为何在不同温度下呈现出柱状和晶片状等多样形态，解开了长达85年的科学谜团。
+tags:
+- growth
+- nakaya-diagram
+- snowflake-formation
+- technology
+title: 雪花之谜：85年未解之谜的分子物理学解释
 ---
+
 ### 实验室中的雪花大师
 
 **Ken:** 现在，我要打开2000伏电压。

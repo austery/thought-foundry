@@ -1,43 +1,43 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- DeepMind
+- Google
+- GRU
 date: '2024-06-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《古拉格群岛》
+- 《水族馆内幕》
+people:
+- Leopold Aschenbrenner
+products_models:
+- iPhone
+- GPT-4
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=667IffkMDmU
 speaker: Dwarkesh Patel
-tags:
-  - espionage
-  - ai-security
-  - state-actors
-  - zero-days
-  - national-security
-  - algorithmic-progress
-  - model-weights
-title: AI 实验室面临严峻的间谍活动威胁
-summary: 本次内容探讨了国家级间谍活动对 AI 实验室构成的严重威胁，包括零日漏洞利用、技术窃取以及对模型权重和算法秘密的潜在攻击。演讲者强调了加强 AI 安全和国家安全的重要性，指出当前防护措施远不足以应对高级威胁。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Leopold Aschenbrenner
-  - Dwarkesh Patel
-companies_orgs:
-  - OpenAI
-  - DeepMind
-  - Google
-  - GRU
-products_models:
-  - iPhone
-  - GPT-4
-media_books:
-  - 《古拉格群岛》
-  - 《水族馆内幕》
 status: evergreen
+summary: 本次内容探讨了国家级间谍活动对 AI 实验室构成的严重威胁，包括零日漏洞利用、技术窃取以及对模型权重和算法秘密的潜在攻击。演讲者强调了加强 AI
+  安全和国家安全的重要性，指出当前防护措施远不足以应对高级威胁。
+tags:
+- history
+- llm
+- model
+- national-security
+- security
+- state
+- zero-day
+title: AI 实验室面临严峻的间谍活动威胁
 ---
+
 人们确实低估了**间谍活动**。我认为安全问题的一部分在于，人们没有意识到**国家级间谍活动**可能有多么激烈。例如，一家**以色列**公司拥有可以“零点击”（zero-click）破解任何**iPhone**的软件。只需输入你的号码，就可以直接下载所有内容。美国也曾渗透过一个**原子武器项目**。这真是太疯狂了。
 
 情报机构拥有大量的**零日漏洞**（Zero-day exploit: 指尚未被软件开发者发现或修复的安全漏洞，可被攻击者利用进行攻击）。当情况变得非常棘手时，他们可能会派遣**特种部队**前往数据中心。或者，**中国**会威胁人们的家人，说：“看，如果你不合作，不给我们**情报**（Intel），后果自负。”

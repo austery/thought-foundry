@@ -1,37 +1,37 @@
 ---
-author: TVO Today
+area: society-systems
+category: science
+companies_orgs:
+- McMaster University
+- Food Allergy Canada
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Journal of Paediatrics
+- LEAP trial
+people:
+- Josh Koenig
+- Robert F. Kennedy Jr.
+products_models: []
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Q_-p9kWMT58
 speaker: TVO Today
-tags:
-  - peanut-allergies
-  - early-introduction
-  - immune-system
-  - medical-research
-  - misinformation
-title: 花生过敏率下降：科学新发现与误区澄清
-summary: 最新研究显示，早期引入花生制品可显著降低儿童花生过敏的风险。本文深入探讨了这一转变背后的科学原理——免疫系统如何通过早期接触建立耐受性。同时，文章也针对疫苗和铝佐剂导致过敏的错误信息进行了澄清，强调了循证医学的重要性。此外，还介绍了过敏研究领域的最新进展，包括一种能“记住”过敏反应的新型记忆细胞的发现，为未来的治疗提供了新方向。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - Josh Koenig
-  - Robert F. Kennedy Jr.
-companies_orgs:
-  - McMaster University
-  - Food Allergy Canada
-products_models: []
-media_books:
-  - Journal of Paediatrics
-  - LEAP trial
 status: evergreen
+summary: 最新研究显示，早期引入花生制品可显著降低儿童花生过敏的风险。本文深入探讨了这一转变背后的科学原理——免疫系统如何通过早期接触建立耐受性。同时，文章也针对疫苗和铝佐剂导致过敏的错误信息进行了澄清，强调了循证医学的重要性。此外，还介绍了过敏研究领域的最新进展，包括一种能“记住”过敏反应的新型记忆细胞的发现，为未来的治疗提供了新方向。
+tags:
+- medical-research
+- misinformation
+- peanut-allergy
+- system
+- technology
+title: 花生过敏率下降：科学新发现与误区澄清
 ---
+
 ### 花生过敏率下降：新指南与影响
 
 花生过敏很常见，而且可能致命。

@@ -1,107 +1,108 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: finance
+companies_orgs:
+- Lux Capital
+- Alphabet
+- Google
+- Apple
+- Meta
+- Anthropic
+- OpenAI
+- Microsoft
+- Runway ML
+- Salesforce
+- Intel
+- XAI
+- Alibaba
+- Hugging Face
+- Cognition
+- Y Combinator
+- Carlyle
+- Blackstone
+- KKR
+- TPG
+- Apollo
+- Andreessen Horowitz
+- General Atlantic
+- General Catalyst
+- Insight Partners
+- Lightspeed Venture Partners
+- Control Labs
+- Sakana AI
 date: '2025-09-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- The Wall Street Journal
+- Invest for Kids conference
+- SF Standard
+- Attention Is All You Need
+people:
+- Josh Wolfe
+- Joe Wisenthal
+- Tracy Alloway
+- Mark Benoff
+- Jensen Huang
+- Elon Musk
+- Carl Icahn
+- Bill Conway
+- Brandon Reeves
+- Vinod Khosla
+- Jake Sullivan
+- Karl Popper
+- Demis Hassabis
+- Ilya Sutskever
+- Mira Murati
+- Scott Wu
+- Plato
+- Socrates
+- Leon Jones
+products_models:
+- Bard
+- Gemini Flash
+- Veo 3
+- Midjourney
+- Claude
+- Nano Banana
+- Photoshop
+- MS Paint
+- Qwen
+- GPT
+- H100 chips
+- Blackwell chips
+- Red Hat
+- Linux
+- GitHub
+- WhatsApp
+- Instagram
+- Facebook
+- Twitter
+- Gmail
+- Google Calendar
+- Google Slides
+project:
+- ai-impact-analysis
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Sd7cCpoJjbI
 speaker: Bloomberg Podcasts
-tags:
-  - ai-investment
-  - venture-capital
-  - open-source-ai
-  - labor-market-impact
-  - ai-ethics
-title: AI时代：风险投资的社会契约、市场洗牌与未来机遇
-summary: 本期Odd Lots播客邀请Lux Capital联合创始人Josh Wolfe，深入探讨了AI时代下风险投资（VC）行业的激励机制、市场动态及潜在变革。他指出，随着资本成本上升，VC行业正面临一场“大洗牌”，小型基金（minnows）可能大量消亡，而大型基金（megas）则寻求上市。文章还讨论了AI市场中被低估和高估的领域，例如谷歌和苹果在AI领域的“黑马”地位、边缘推理的崛起，以及2D AI（语音、图像、文本）的过度炒作。Josh Wolfe强调了人才在AI领域的关键作用，并预言了“生命记录”技术和AI权利等新兴社会议题的出现，认为AI正在重塑投资者与创始人之间的社会契约。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - systems-thinking
-people:
-  - Josh Wolfe
-  - Joe Wisenthal
-  - Tracy Alloway
-  - Mark Benoff
-  - Jensen Huang
-  - Elon Musk
-  - Carl Icahn
-  - Bill Conway
-  - Brandon Reeves
-  - Vinod Khosla
-  - Jake Sullivan
-  - Karl Popper
-  - Demis Hassabis
-  - Ilya Sutskever
-  - Mira Murati
-  - Scott Wu
-  - Plato
-  - Socrates
-  - Leon Jones
-companies_orgs:
-  - Lux Capital
-  - Alphabet
-  - Google
-  - Apple
-  - Meta
-  - Anthropic
-  - OpenAI
-  - Microsoft
-  - Runway ML
-  - Salesforce
-  - Intel
-  - XAI
-  - Alibaba
-  - Hugging Face
-  - Cognition
-  - Y Combinator
-  - Carlyle
-  - Blackstone
-  - KKR
-  - TPG
-  - Apollo
-  - Andreessen Horowitz
-  - General Atlantic
-  - General Catalyst
-  - Insight Partners
-  - Lightspeed Venture Partners
-  - Control Labs
-  - Sakana AI
-products_models:
-  - Bard
-  - Gemini Flash
-  - Veo 3
-  - Midjourney
-  - Claude
-  - Nano Banana
-  - Photoshop
-  - MS Paint
-  - Qwen
-  - GPT
-  - H100 chips
-  - Blackwell chips
-  - Red Hat
-  - Linux
-  - GitHub
-  - WhatsApp
-  - Instagram
-  - Facebook
-  - Twitter
-  - Gmail
-  - Google Calendar
-  - Google Slides
-media_books:
-  - Odd Lots
-  - The Wall Street Journal
-  - Invest for Kids conference
-  - SF Standard
-  - Attention Is All You Need
 status: evergreen
+summary: 本期Odd Lots播客邀请Lux Capital联合创始人Josh Wolfe，深入探讨了AI时代下风险投资（VC）行业的激励机制、市场动态及潜在变革。他指出，随着资本成本上升，VC行业正面临一场“大洗牌”，小型基金（minnows）可能大量消亡，而大型基金（megas）则寻求上市。文章还讨论了AI市场中被低估和高估的领域，例如谷歌和苹果在AI领域的“黑马”地位、边缘推理的崛起，以及2D
+  AI（语音、图像、文本）的过度炒作。Josh Wolfe强调了人才在AI领域的关键作用，并预言了“生命记录”技术和AI权利等新兴社会议题的出现，认为AI正在重塑投资者与创始人之间的社会契约。
+tags:
+- ai-ethics
+- ai-investment
+- labor-market-impact
+- open-source-ai
+- venture-capital
+title: AI时代：风险投资的社会契约、市场洗牌与未来机遇
 ---
+
 ### 风险投资的激励机制与有限合伙人的尽职调查
 
 **VC**（Venture Capital: 风险投资）的激励机制主要有两点：首先是获得最佳回报以保持竞争力。如果我的投资回报率只有12%，而同行VC能达到20%，那么资金自然会流向那些能获得更好回报的地方，我就会因此失去竞争力。因此，我的资本成本，也就是**LP**（Limited Partner: 有限合伙人）的资本成本，就是超越同行的表现。这意味着我必须更早地进入市场，拥有更多的股权，不能随便做愚蠢的交易。

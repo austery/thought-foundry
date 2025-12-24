@@ -1,44 +1,43 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- Goldman Sachs
+- Nvidia
+- Microsoft
+- Amazon
+- Google
+- Tesla
+- Costco
 date: '2025-06-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Elon Musk
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=FUyHWoaw6uQ
 speaker: Shanghao Jin
-tags:
-  - market-outlook
-  - us-economy
-  - fiscal-spending
-  - tariff-impact
-  - stock-valuation
-  - market-positioning
-  - tech-investment
-title: 2025年6月市场展望：特朗普政策、估值风险与科技股机遇
-summary: 本期市场概述深入分析了当前全球市场的宏观经济趋势与投资策略。重点探讨了特朗普关税政策的市场反应、美国经济增长前景、市场头寸变化及估值风险。文章指出，尽管整体市场估值偏高，但半导体和云服务等科技领域仍具投资机会。同时，详细分析了全球财政支出周期、软硬经济数据差异，并对特斯拉的投资前景进行了深度剖析，强调了其面临的估值压力和增长挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Elon Musk
-companies_orgs:
-  - Goldman Sachs
-  - Nvidia
-  - Microsoft
-  - Amazon
-  - Google
-  - Tesla
-  - Costco
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期市场概述深入分析了当前全球市场的宏观经济趋势与投资策略。重点探讨了特朗普关税政策的市场反应、美国经济增长前景、市场头寸变化及估值风险。文章指出，尽管整体市场估值偏高，但半导体和云服务等科技领域仍具投资机会。同时，详细分析了全球财政支出周期、软硬经济数据差异，并对特斯拉的投资前景进行了深度剖析，强调了其面临的估值压力和增长挑战。
+tags:
+- financial
+- investment
+- market
+- market-outlook
+- stock-valuation
+- tariff-impact
+- us-economy
+title: 2025年6月市场展望：特朗普政策、估值风险与科技股机遇
 ---
+
 ### 特朗普政策与市场反应
 
 最近一段时间以来，从瑞士会议之后，市场上出现了一个非常有名的交易现象，被称为**Tack Stand for Always Check Out**（Tack：指特朗普的政策波动性大，市场预期他最终会“认怂”）。尽管美国法院对特朗普的裁决有所反复，例如巡回法院曾推翻其裁决又重新恢复，但市场对特朗普重新对中国加税的言论并未完全买账。特朗普曾在社交媒体上表示中国未能履行承诺，但他这种言论的波动性很大，市场普遍认为其政策不必过于严肃对待。

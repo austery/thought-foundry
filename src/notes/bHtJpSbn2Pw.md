@@ -1,56 +1,56 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- MicroStrategy
+- Intel
+- Google
+- Tesla
+- Apple
+- Microsoft
+- Amazon
+- Circle
+- Disney
+- Nvidia
+- OpenAI
+- CoreWeave
+- Coinbase
+- Palantir
+- investing.com
+- VST
+- GE Vernova
+- Federal Reserve
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CNN
+people:
+- Donald Trump
+- Sam Altman
+- Warren Buffett
+products_models:
+- iPhone
+- IBIT
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=bHtJpSbn2Pw
 speaker: 投资TALK君
-tags:
-  - market-sentiment
-  - valuation-correction
-  - left-side-trading
-  - asset-premium
-title: 市场回调下的投资策略：为何我选择加仓英特尔并重新审视比特币与MSTR
-summary: 在市场情绪低迷、指数全面回调的背景下，讲者分享了其“左侧交易”的仓位调整策略，并阐述了加仓英特尔的逻辑。他认为当前AI领域的调整主要体现在估值层面，而非需求消失。此外，他深入分析了MicroStrategy（MSTR）相对于比特币的溢价变化，并指出当溢价收缩至低位时，可能预示着比特币的潜在机会。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - Sam Altman
-  - Warren Buffett
-companies_orgs:
-  - MicroStrategy
-  - Intel
-  - Google
-  - Tesla
-  - Apple
-  - Microsoft
-  - Amazon
-  - Circle
-  - Disney
-  - Nvidia
-  - OpenAI
-  - CoreWeave
-  - Coinbase
-  - Palantir
-  - investing.com
-  - VST
-  - GE Vernova
-  - Federal Reserve
-products_models:
-  - iPhone
-  - IBIT
-media_books:
-  - CNN
 status: evergreen
+summary: 在市场情绪低迷、指数全面回调的背景下，讲者分享了其“左侧交易”的仓位调整策略，并阐述了加仓英特尔的逻辑。他认为当前AI领域的调整主要体现在估值层面，而非需求消失。此外，他深入分析了MicroStrategy（MSTR）相对于比特币的溢价变化，并指出当溢价收缩至低位时，可能预示着比特币的潜在机会。
+tags:
+- asset
+- left-side-trading
+- market-sentiment
+- valuation
+title: 市场回调下的投资策略：为何我选择加仓英特尔并重新审视比特币与MSTR
 ---
+
 ### 周一市场回顾：全面下跌与参与度降温
 
 大家好，今天我们首先对过去的市场走势做一个总结。自从特朗普发币之后，我在比特币和加密货币领域的操作几乎为零，中间只做过两笔山寨币（altcoin）交易。今年的重点几乎全部放在了美股上。

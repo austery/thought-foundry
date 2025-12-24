@@ -1,38 +1,37 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- FBI
+- 旧金山顶级企业安保公司
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《判断人心：一位资深FBI特工的行为预测用户手册》
+- 《连线杂志》
+people:
+- Derek
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=quVHh_Pd8l8
 speaker: 北美王路飞
-tags:
-  - fbi-people-reading
-  - language-analysis
-  - trust-signals
-  - manipulative-communication
-  - behavior-prediction
-title: FBI识人术：语言如何揭示真实意图与人品
-summary: 本期节目深入探讨FBI顶尖探员德里克亲授的识人术，揭示语言如何作为洞察人心的“X光片”。通过德里克亲身经历的面试故事，节目详细分析了建立信任的“积极语言信号”和暴露操控意图的“负面危险信号”共20条。内容强调了系统性倾听的重要性，以及如何通过语言模式和非语言信号，看穿表象，识别值得信赖的合作伙伴，避免职场及生活中的潜在风险。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Derek
-  - 北美王路飞
-companies_orgs:
-  - FBI
-  - 旧金山顶级企业安保公司
-products_models: []
-media_books:
-  - 《判断人心：一位资深FBI特工的行为预测用户手册》
-  - 《连线杂志》
 status: evergreen
+summary: 本期节目深入探讨FBI顶尖探员德里克亲授的识人术，揭示语言如何作为洞察人心的“X光片”。通过德里克亲身经历的面试故事，节目详细分析了建立信任的“积极语言信号”和暴露操控意图的“负面危险信号”共20条。内容强调了系统性倾听的重要性，以及如何通过语言模式和非语言信号，看穿表象，识别值得信赖的合作伙伴，避免职场及生活中的潜在风险。
+tags:
+- analysis
+- canada
+- communication
+- life
+- trust
+title: FBI识人术：语言如何揭示真实意图与人品
 ---
+
 ### 语言：洞察人心的X光片
 
 大家好，欢迎来到我的频道。今天我们继续探讨超新星会员节目，关于FBI顶尖探员亲授的识破人心的信号。今天的主题是语言。你可能会觉得语言是每个人都会听的信号，但德里克告诉我们，语言绝不仅仅是说话的内容，它更像是一个人的X光片，能够清晰地照出这个人的思维模式、真实意图，甚至他的人品。我们将通过作者德里克的一次真实经历——他退休后再就业的面试过程，来展示他是如何运用自己的语言分析法，看穿一切表象背后的真相。

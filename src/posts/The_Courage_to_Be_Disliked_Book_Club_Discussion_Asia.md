@@ -6,22 +6,22 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-  - 自我接纳
-  - 课题分离
-  - 阿德勒心理学
+- adlerian-psychology
+- psychology
+- self
 people:
-  - Ray
-  - Lichi
-  - Vincent
-  - Winnie
-  - Jay
-  - Kwang
-  - Brian
-  - Eddie
-  - Junian
-  - alex
-  - Daniel
-  - David
+- Ray
+- Lichi
+- Vincent
+- Winnie
+- Jay
+- Kwang
+- Brian
+- Eddie
+- Junian
+- alex
+- Daniel
+- David
 companies_orgs: []
 products_models: []
 media_books:
@@ -36,6 +36,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与预告
 
 ### Ray:

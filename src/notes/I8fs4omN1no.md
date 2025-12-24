@@ -1,39 +1,38 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Klein
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Gemini 3.0
+- Gemini 2.5
+- GBT 5
+- GBT 5.1
+- Sonnet 4
+- Sonnet 4.5
+project:
+- ai-impact-analysis
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=I8fs4omN1no
 speaker: AI Engineer
-tags:
-  - ai-coding-agents
-  - model-capability
-  - benchmarks
-  - reinforcement-learning
-  - klein-bench
-title: 构建高效AI编码代理的宝贵经验：模型能力超越工程技巧
-summary: 本文分享了构建AI编码代理的宝贵经验。演讲者指出，过去依赖巧妙的脚手架（如RAG、搜索树）来弥补模型不足的时代已经过去，因为前沿模型能够直接超越这些抽象层。重点已转向提升模型本身的能力，通过严谨的基准测试和强化学习（RL）环境，而非仅仅依赖代理的“聪明”工程技巧。演讲者介绍了Klein Bench，一个旨在创建真实世界编码任务基准的开源项目，以期通过社区贡献加速前沿AI研究。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - knowledge-pipeline
-people: []
-companies_orgs:
-  - Klein
-products_models:
-  - Gemini 3.0
-  - Gemini 2.5
-  - GBT 5
-  - GBT 5.1
-  - Sonnet 4
-  - Sonnet 4.5
-media_books: []
 status: evergreen
+summary: 本文分享了构建AI编码代理的宝贵经验。演讲者指出，过去依赖巧妙的脚手架（如RAG、搜索树）来弥补模型不足的时代已经过去，因为前沿模型能够直接超越这些抽象层。重点已转向提升模型本身的能力，通过严谨的基准测试和强化学习（RL）环境，而非仅仅依赖代理的“聪明”工程技巧。演讲者介绍了Klein
+  Bench，一个旨在创建真实世界编码任务基准的开源项目，以期通过社区贡献加速前沿AI研究。
+tags:
+- agent
+- klein-bench
+- model
+- reinforcement-learning
+- technology
+title: 构建高效AI编码代理的宝贵经验：模型能力超越工程技巧
 ---
+
 ### 宝贵经验：模型能力超越工程技巧
 
 能够站在这里，与许多我一直以来汲取灵感的杰出人士同台，这感觉非常棒。今天，我将分享一些我们在构建AI编码代理过程中学到的经验。

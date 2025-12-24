@@ -1,49 +1,48 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Tesla
+- Rocket Lab
+- Palantir
+- Nvidia
+- Nebius
+- CoreWeave
+- HIMS
+- MicroStrategy
+- Uber
+- Circle
+- Robinhood
 date: '2025-09-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money or Life 美股频道
+- X
+people:
+- Elon Musk
+products_models:
+- Robotaxi
+- USDC
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=4FFITjcPvtw
 speaker: Money or Life 美股频道
-tags:
-  - us-stock-market
-  - investment-strategy
-  - market-outlook
-  - stock-valuation
-  - robotaxi-impact
-title: 2025年9月美股复盘：Ace持仓策略与市场展望
-summary: 本期节目中，Ace分享了其截至2025年9月6日的最新美股持仓情况，包括特斯拉、火箭实验室、Palantir、Nebius、CoreWeave、Robinhood和Circle等。他详细分析了当前大盘走势，对非农数据公布后的市场反应进行解读，并阐述了对重仓股及新进仓位的操作逻辑和估值判断。Ace对市场保持乐观，并提供了多只个股的深度技术与基本面分析。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Elon Musk
-companies_orgs:
-  - Tesla
-  - Rocket Lab
-  - Palantir
-  - Nvidia
-  - Nebius
-  - CoreWeave
-  - HIMS
-  - MicroStrategy
-  - Uber
-  - Circle
-  - Robinhood
-products_models:
-  - Robotaxi
-  - USDC
-media_books:
-  - Money or Life 美股频道
-  - X
 status: evergreen
+summary: 本期节目中，Ace分享了其截至2025年9月6日的最新美股持仓情况，包括特斯拉、火箭实验室、Palantir、Nebius、CoreWeave、Robinhood和Circle等。他详细分析了当前大盘走势，对非农数据公布后的市场反应进行解读，并阐述了对重仓股及新进仓位的操作逻辑和估值判断。Ace对市场保持乐观，并提供了多只个股的深度技术与基本面分析。
+tags:
+- impact
+- market-outlook
+- stock-valuation
+- us-stock-market
+title: 2025年9月美股复盘：Ace持仓策略与市场展望
 ---
+
 ### 2025年9月6日美股复盘与持仓更新
 
 大家好，欢迎来到Money or Life美股频道。今天是2025年9月6号周六。本周的美股复盘加推演节目，我主要是跟大家更新一下我目前的持仓，以及我持仓里面大部分股票我都会去过一下，跟大家说一下在过去一两周我是否有买入或者卖出的操作，以及我对这些股票的看法。几天前，我的YouTube频道订阅数超过了5万，感谢大家对我的支持。如果屏幕前的朋友们还没有订阅Money or Life美股频道，那么欢迎你们订阅，在这里有最深入的个股分析以及我的周末复盘等等精彩的节目。也欢迎你们加入我的YouTube或者是Patreon会员社群。

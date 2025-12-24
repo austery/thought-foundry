@@ -1,95 +1,95 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Keel Digital Solutions
+- Ontario Provincial Police
+- Ministry of Colleges and Universities
+- Ontario Big City Mayors
+- CBC
+- TTC
+- Metrolinx
+- Global News
+- Wayside
+- TVO Today
+- OpenAI
+- Disney
+- Hamilton Street Railway
+- OC Transpo
+- Ontario Power Generation
+- Bruce Power
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OnPy podcast
+- TVO website
+- The Rundown
+- Big of True
+people:
+- Steve Pen
+- John Michael McGrath
+- Doug Ford
+- David Pacini
+- Marat Styles
+- John Sanfield Macdonald
+- John Alexander McDonald
+- Walter Allward
+- Olivia Chow
+- Rob Ford
+- Ernie Eves
+- Jim Flaherty
+- Jack Layton
+- Paul Martin
+- Kawhi Leonard
+- Lauren Hill
+- Bob Nixon
+- Harry Nixon
+- Dalton McGuinty Jr.
+- Kathleen Wynne
+- Bob Rae
+- George Drew
+- George Henry
+- Oliver Mowat
+- Bill Davis
+- Frank Sinatra
+- Molly Thomas
+- Nam Kiwanuka
+- Matthew O'Meara
+- Colin Kish
+- Jonathan Hallowell
+- Lorie F
+- John Ferry
+- Tina
+products_models:
+- Skills Development Fund
+- Get Ahead
+- Keel Mind
+- Safer Municipalities Act
+- Trespass to Property Act
+- Finch West Light Rail Transit Line
+- Eglinton Crosstown LRT
+- ION LRT
+- Sora
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=T6OyKsOn-eA
 speaker: TVO Today
-tags:
-  - ontario-politics
-  - homelessness-crisis
-  - urban-transit
-  - addiction-support
-  - e-bike-regulation
-title: 安大略省年终回顾：政治风波、社会挑战与交通建设
-summary: 本期TVO Today播客回顾了安大略省2025年末的多个重要议题。内容涵盖了针对一家获得政府合同公司的刑事调查、安大略省大城市市长呼吁宣布无家可归和毒品使用进入紧急状态的请求，以及多伦多芬奇西轻轨（LRT）开通后的运营挑战。此外，节目还讨论了电动自行车法规的必要性、一个帮助男性戒除毒瘾的汉密尔顿组织，并以一场关于安大略省知识的年终问答节目收尾，展现了该省面临的复杂政治、社会和基础设施挑战。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Steve Pen
-  - John Michael McGrath
-  - Doug Ford
-  - David Pacini
-  - Marat Styles
-  - John Sanfield Macdonald
-  - John Alexander McDonald
-  - Walter Allward
-  - Olivia Chow
-  - Rob Ford
-  - Ernie Eves
-  - Jim Flaherty
-  - Jack Layton
-  - Paul Martin
-  - Kawhi Leonard
-  - Lauren Hill
-  - Bob Nixon
-  - Harry Nixon
-  - Dalton McGuinty Jr.
-  - Kathleen Wynne
-  - Bob Rae
-  - George Drew
-  - George Henry
-  - Oliver Mowat
-  - Bill Davis
-  - Frank Sinatra
-  - Molly Thomas
-  - Nam Kiwanuka
-  - Matthew O'Meara
-  - Colin Kish
-  - Jonathan Hallowell
-  - Lorie F
-  - John Ferry
-  - Tina
-companies_orgs:
-  - Keel Digital Solutions
-  - Ontario Provincial Police
-  - Ministry of Colleges and Universities
-  - Ontario Big City Mayors
-  - CBC
-  - TTC
-  - Metrolinx
-  - Global News
-  - Wayside
-  - TVO Today
-  - OpenAI
-  - Disney
-  - Hamilton Street Railway
-  - OC Transpo
-  - Ontario Power Generation
-  - Bruce Power
-products_models:
-  - Skills Development Fund
-  - Get Ahead
-  - Keel Mind
-  - Safer Municipalities Act
-  - Trespass to Property Act
-  - Finch West Light Rail Transit Line
-  - Eglinton Crosstown LRT
-  - ION LRT
-  - Sora
-media_books:
-  - OnPy podcast
-  - TVO website
-  - The Rundown
-  - Big of True
 status: evergreen
+summary: 本期TVO Today播客回顾了安大略省2025年末的多个重要议题。内容涵盖了针对一家获得政府合同公司的刑事调查、安大略省大城市市长呼吁宣布无家可归和毒品使用进入紧急状态的请求，以及多伦多芬奇西轻轨（LRT）开通后的运营挑战。此外，节目还讨论了电动自行车法规的必要性、一个帮助男性戒除毒瘾的汉密尔顿组织，并以一场关于安大略省知识的年终问答节目收尾，展现了该省面临的复杂政治、社会和基础设施挑战。
+tags:
+- addiction-support
+- crisis
+- ontario-politics
+- regulation
+- urban
+title: 安大略省年终回顾：政治风波、社会挑战与交通建设
 ---
+
 ### 播客开场与年终回顾
 
 **Steve:** 欢迎大家收听OnPy播客。

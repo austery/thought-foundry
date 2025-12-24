@@ -1,47 +1,46 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- PO.AI
+- National Science Foundation
+- IBM
 date: '2025-08-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Chin Keong Lam
+- Jesus
+products_models:
+- LLM
+- RAG
+- KAG
+- N8N
+- Neo4j
+- OpenAI model
+- Anthropic model
+- Chroma DB
+- LangChain
+- Cypher
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=9AQOvT8LnMI
 speaker: AI Engineer
-tags:
-  - knowledge-graph
-  - ai-system-architecture
-  - knowledge-augmented-generation
-  - competitive-analysis
-  - multihop-query
-title: 智慧驱动的知识增强生成：超越RAG，构建可扩展的专家AI系统
-summary: 本文深入探讨了知识增强生成（KAG）系统，并将其与传统的检索增强生成（RAG）系统进行对比。作者介绍了PO.AI如何利用知识图谱构建智慧驱动的AI系统，以实现更准确、更具洞察力的复杂查询响应。文章详细阐述了KAG的核心概念、其在竞争分析中的实际应用，以及如何通过N8N和多智能体架构进行实现。最后，强调了知识图谱在处理复杂关系、提升准确性、可扩展性及丰富查询能力方面的优势，并分享了构建此类系统的基准测试结果。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Chin Keong Lam
-  - Jesus
-companies_orgs:
-  - PO.AI
-  - National Science Foundation
-  - IBM
-products_models:
-  - LLM
-  - RAG
-  - KAG
-  - N8N
-  - Neo4j
-  - OpenAI model
-  - Anthropic model
-  - Chroma DB
-  - LangChain
-  - Cypher
-media_books: []
 status: evergreen
+summary: 本文深入探讨了知识增强生成（KAG）系统，并将其与传统的检索增强生成（RAG）系统进行对比。作者介绍了PO.AI如何利用知识图谱构建智慧驱动的AI系统，以实现更准确、更具洞察力的复杂查询响应。文章详细阐述了KAG的核心概念、其在竞争分析中的实际应用，以及如何通过N8N和多智能体架构进行实现。最后，强调了知识图谱在处理复杂关系、提升准确性、可扩展性及丰富查询能力方面的优势，并分享了构建此类系统的基准测试结果。
+tags:
+- analysis
+- generation
+- multihop-query
+- philosophy
+- system
+title: 智慧驱动的知识增强生成：超越RAG，构建可扩展的专家AI系统
 ---
+
 ### 介绍PO.AI及其智慧驱动的AI系统
 
 大家好，我是Chin Keong Lam，**PO.AI**（一家专注于构建专家AI系统的公司）的创始人兼首席执行官。

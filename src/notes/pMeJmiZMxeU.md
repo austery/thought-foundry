@@ -1,40 +1,37 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Lululemon
+- Nike
+- Adidas
+- Under Armour
+- Alo Yoga
+- Vuori
+- Athleta
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=pMeJmiZMxeU
 speaker: Shijun Tang
-tags:
-  - lululemon-stock
-  - financial-analysis
-  - competitive-advantage
-  - brand-loyalty
-  - athleisure-market
-title: Lululemon (LULU) 股价暴跌：这家运动潮牌还有翻身机会吗？
-summary: 本文深入分析了加拿大运动品牌Lululemon (LULU) 近期股价暴跌近七成的原因。文章从公司最新财报、基本面、竞争环境及护城河等多个角度进行探讨，揭示了其面临的挑战，包括传统巨头和新兴品牌的冲击，以及中国市场的平替竞争。尽管LULU财务健康且品质得分高，但其增长放缓和品牌护城河的脆弱性，使得其投资前景充满不确定性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Shijun Tang
-companies_orgs:
-  - Lululemon
-  - Nike
-  - Adidas
-  - Under Armour
-  - Alo Yoga
-  - Vuori
-  - Athleta
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了加拿大运动品牌Lululemon (LULU) 近期股价暴跌近七成的原因。文章从公司最新财报、基本面、竞争环境及护城河等多个角度进行探讨，揭示了其面临的挑战，包括传统巨头和新兴品牌的冲击，以及中国市场的平替竞争。尽管LULU财务健康且品质得分高，但其增长放缓和品牌护城河的脆弱性，使得其投资前景充满不确定性。
+tags:
+- business
+- competitive-advantage
+- financial-analysis
+- market
+- stock
+title: Lululemon (LULU) 股价暴跌：这家运动潮牌还有翻身机会吗？
 ---
+
 ### Lululemon (LULU) 股价深度分析：挑战与前景
 
 今天我们来聊聊美股**Lululemon (LULU)**（加拿大运动潮牌: 一家专注于瑜伽、运动和休闲服饰的零售公司）。这家来自加拿大的运动潮牌，其股价已经再次创下新低。它真的再也没有翻身的机会了吗？今天这期视频，我们将从公司最新的财报、公司最新的基本面、公司所处的竞争环境以及公司的护城河等多个角度，来尝试回答这个问题。欢迎阅读这期唐石峻财富体验。

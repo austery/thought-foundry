@@ -1,41 +1,39 @@
 ---
-author: Veritasium
-date: '2021-01-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=YMDJA4UvXLA
-speaker: Veritasium
-tags:
-  - veritasium
-  - potash-history
-  - elemental-potassium
-  - agricultural-revolution
-  - resource-geopolitics
-  - mining-safety
-title: 改变世界的爆炸性元素：从犹他盐湖到全球粮食的钾肥故事
-summary: 本文深入探讨了钾肥（Potash）这一对人类文明至关重要的元素的迷人历史。从其在肥皂和玻璃制造中的古老用途，到在火药和现代肥料中的关键作用，钾肥深刻影响了社会发展。文章阐述了钾元素（Potassium）的发现过程、钾肥开采技术的演变，以及它如何支撑全球半数人口的生存，从而解放了人类时间，使其能够追求更多元化的生活方式。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Derek Muller
-  - Humphry Davy
-  - George Washington
-  - Mike Coronella
+category: geopolitics
 companies_orgs:
-  - Google Earth
-  - NASA
+- Google Earth
+- NASA
+date: '2021-01-27'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Humphry Davy
+- George Washington
+- Mike Coronella
 products_models:
-  - Gatorade
-  - Davy lamp
-media_books: []
+- Gatorade
+- Davy lamp
+project:
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=YMDJA4UvXLA
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了钾肥（Potash）这一对人类文明至关重要的元素的迷人历史。从其在肥皂和玻璃制造中的古老用途，到在火药和现代肥料中的关键作用，钾肥深刻影响了社会发展。文章阐述了钾元素（Potassium）的发现过程、钾肥开采技术的演变，以及它如何支撑全球半数人口的生存，从而解放了人类时间，使其能够追求更多元化的生活方式。
+tags:
+- agricultural-revolution
+- geopolitical
+- history
+- safety
+- society
+title: 改变世界的爆炸性元素：从犹他盐湖到全球粮食的钾肥故事
 ---
+
 ### 犹他沙漠中的神秘蓝色池塘
 
 世界充满了神秘之地，你可以通过**谷歌地球**（Google Earth: 谷歌公司开发的虚拟地球仪软件）从高空俯瞰，但那里究竟发生了什么，原因又是什么？我是德里克·穆勒，一名科学家、教育家和电影制作人，我将揭示这些神奇之地背后的故事。只需放下大头针，我便启程。

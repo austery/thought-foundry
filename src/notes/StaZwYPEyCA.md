@@ -1,43 +1,40 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Berkshire Hathaway
+- Apple
+- Coca-Cola
+- American Express
+- Bank of America
+- Moody's
 date: '2025-09-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Charlie Munger
+- Warren Buffett
+- Donald Trump
+- Desmond Story
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=StaZwYPEyCA
 speaker: Shijun Tang
-tags:
-  - compound-interest-machine
-  - investment-framework
-  - financial-metrics
-  - moat-theory
-  - value-investing
-title: 如何寻找复利机器：唐世俊的2个投资框架与16项清单
-summary: 本视频深入探讨了如何识别“复利机器”型公司，以实现长期财富积累。主讲人唐世俊分享了他独创的投资体系，该体系结合了主观判断（如护城河、地缘风险、回报可预测性和定价能力）和客观财务指标（包括财务状况、股东回报、资本投入效率、现金流增长及经营利润等12项具体数据）。通过这2个框架和16项清单，投资者可以系统性地评估公司品质，寻找那些能够持续创造价值并带来复利效应的优质企业。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Shijun Tang
-  - Charlie Munger
-  - Warren Buffett
-  - Donald Trump
-  - Desmond Story
-companies_orgs:
-  - Berkshire Hathaway
-  - Apple
-  - Coca-Cola
-  - American Express
-  - Bank of America
-  - Moody's
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了如何识别“复利机器”型公司，以实现长期财富积累。主讲人唐世俊分享了他独创的投资体系，该体系结合了主观判断（如护城河、地缘风险、回报可预测性和定价能力）和客观财务指标（包括财务状况、股东回报、资本投入效率、现金流增长及经营利润等12项具体数据）。通过这2个框架和16项清单，投资者可以系统性地评估公司品质，寻找那些能够持续创造价值并带来复利效应的优质企业。
+tags:
+- compound-interest-machine
+- financial
+- investment
+- theory
+title: 如何寻找复利机器：唐世俊的2个投资框架与16项清单
 ---
+
 ### 寻找复利机器：躺着赚钱的梦想
 
 买入一只股票，每天不用盯着股价看，可以开开心心地享受生活，晚上也能安安心心地睡一个好觉，股价随着时间的推移也会越涨越高，而你则可以妥妥地躺着赚钱。乍一听上去，这似乎是痴人说梦，但是，假如我告诉你这并不是做梦，世界上有不少公司的股票真的可以帮你实现这一梦想呢？这些公司我称它们为**复利机器**（Compound Interest Machine: 能够通过持续的盈利和再投资，使财富像滚雪球一样增长的公司）。你缺乏的仅仅是寻找这些复利机器的方法而已。

@@ -4,23 +4,21 @@ date: '2025-12-19'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=9p-kFa_Xmfk
-speaker: '初日醫學 - 宋晏仁醫師 x Cofit'
-title: "瘦子也会血糖失控？急诊医师的胰岛素阻抗自救实录"
-summary: "急诊科医师刘曜增分享了他在体重仅62公斤时，如何因高压轮班、睡眠不足与精緻饮食导致血糖濒临失控。通过解析皮质醇、脂肪肝与糖尿病风险的科学关联，他详述了如何通过调整饮食顺序、重拾运动与改善睡眠，成功逆转代谢危机。"
-area: "personal-systems"
-category: "lifestyle"
+speaker: 初日醫學 - 宋晏仁醫師 x Cofit
+title: 瘦子也会血糖失控？急诊医师的胰岛素阻抗自救实录
+summary: 急诊科医师刘曜增分享了他在体重仅62公斤时，如何因高压轮班、睡眠不足与精緻饮食导致血糖濒临失控。通过解析皮质醇、脂肪肝与糖尿病风险的科学关联，他详述了如何通过调整饮食顺序、重拾运动与改善睡眠，成功逆转代谢危机。
+area: personal-systems
+category: lifestyle
 project:
-  - "personal-growth-lab"
-
+- personal-growth-lab
 tags:
-  - "insulin-resistance"
-  - "metabolic-syndrome"
-  - "sleep-deprivation"
-  - "stress-management"
-  - "diabetes-prevention"
---- 
-
-
+- health
+- insulin-resistance
+- stress-management
+- technology
+companies:
+- metabolic-syndrome
+---
 
 ### 急诊室背后的健康危机
 

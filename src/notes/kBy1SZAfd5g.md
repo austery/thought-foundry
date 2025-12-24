@@ -1,38 +1,36 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Tencent
+- S&P 500
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- WeChat
+- QQ
+- AI Cloud
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=kBy1SZAfd5g
 speaker: Shijun Tang
-tags:
-  - tencent
-  - tcehy
-  - stock-performance
-  - business-model
-  - future-outlook
-title: 腾讯（TCEHY）深度复盘：是无敌的复利机器，还是高位落袋为安？| 647天持仓分析
-summary: 本视频深度复盘了美股上市的腾讯（TCEHY）。主持人分享了其647天持仓腾讯的卓越投资回报，并详细剖析了腾讯最新的财报数据，包括增值服务（游戏、社交）、广告业务、以及金融科技与企业云等核心板块的营收、毛利率与增长情况。文章探讨了AI驱动的广告业务和企业云作为未来主要催化剂的潜力，并强调了微信作为超级APP和强大游戏组合构筑的护城河。通过财务健康度、估值及公司品质评分分析，主持人表达了对腾讯长期前景的看好，认为其是可与亚马逊、微软比肩的优秀企业。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Shijun Tang
-companies_orgs:
-  - Tencent
-  - S&P 500
-products_models:
-  - WeChat
-  - QQ
-  - AI Cloud
-media_books: []
 status: evergreen
+summary: 本视频深度复盘了美股上市的腾讯（TCEHY）。主持人分享了其647天持仓腾讯的卓越投资回报，并详细剖析了腾讯最新的财报数据，包括增值服务（游戏、社交）、广告业务、以及金融科技与企业云等核心板块的营收、毛利率与增长情况。文章探讨了AI驱动的广告业务和企业云作为未来主要催化剂的潜力，并强调了微信作为超级APP和强大游戏组合构筑的护城河。通过财务健康度、估值及公司品质评分分析，主持人表达了对腾讯长期前景的看好，认为其是可与亚马逊、微软比肩的优秀企业。
+tags:
+- business-model
+- future
+- stock
+title: 腾讯（TCEHY）深度复盘：是无敌的复利机器，还是高位落袋为安？| 647天持仓分析
+companies:
+- tencent
+- tcehy
 ---
+
 ### 主持人介绍与投资背景
 
 今天这期我们来谈谈腾讯，股票代码TCEHY。腾讯自从22年10月以来，已经从最低点24.75美元一股，历时1078天，一度已经涨到了87.68美元一股，涨幅一度有254.26%。腾讯已经赢麻了么？腾讯未来还会一直涨下去吗？今天这个视频我们就从腾讯最新财报、基本面公司的竞争环境，以及公司的护城河等多个方面来详细谈一谈腾讯这家公司。

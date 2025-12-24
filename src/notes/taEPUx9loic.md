@@ -1,40 +1,40 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 王家卫
+- 秦文
+- 谷二
+- 老尹
+- 索隆
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=taEPUx9loic
 speaker: 北美王路飞
-tags:
-  - copyright-dispute
-  - natural-rights
-  - industry-norms
-  - scriptwriting-ethics
-  - intellectual-property
-title: 编剧行规不能凌驾于自然财产权之上：以《繁花》谷二事件为例的著作权法律分析
-summary: 本文深入探讨了备受关注的《繁花》编剧谷二事件，从法律和哲学角度分析了著作权归属问题。老尹指出，行业行规不能凌驾于天赋人权中的财产权之上，著作权作为自然权利的延伸，不应受口头或书面约定甚至行业惯例的无效干预。文章还强调了系统性编剧训练和跨艺术领域知识在深入理解创作过程中的重要性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-  - historical-insights
-people:
-  - 王家卫
-  - 秦文
-  - 谷二
-  - 老尹
-  - 北美王路飞
-  - 索隆
-companies_orgs: []
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 本文深入探讨了备受关注的《繁花》编剧谷二事件，从法律和哲学角度分析了著作权归属问题。老尹指出，行业行规不能凌驾于天赋人权中的财产权之上，著作权作为自然权利的延伸，不应受口头或书面约定甚至行业惯例的无效干预。文章还强调了系统性编剧训练和跨艺术领域知识在深入理解创作过程中的重要性。
+tags:
+- ethics
+- industry
+- right
+- society
+title: 编剧行规不能凌驾于自然财产权之上：以《繁花》谷二事件为例的著作权法律分析
+companies:
+- intellectual-property
 ---
+
 ### 《繁花》谷二事件：行业行规与著作权争议
 
 老尹制作的《繁花》系列节目，其特点在于强烈的个人特色，与众多大V的视角截然不同。上一集节目中，我们曾用四个词概括了故事梗概：**洗稿**（Plagiarism: 抄袭或不当借鉴他人作品），强行抢夺谷二的劳动成果，对谷二进行**PUA**（Pick-Up Artist: 原指搭讪艺术家，此处引申为通过情感操控使人顺从），以及对这位年轻编剧进行人格羞辱。最终，国内民间的舆论几乎一边倒地支持谷二，批评王家卫和秦文等业界大佬。这表明，只要不涉及政治敏感话题，国内朋友的**三观**（价值观、人生观、世界观）还是相当正的，这一点令人欣慰。

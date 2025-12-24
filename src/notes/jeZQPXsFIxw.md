@@ -1,64 +1,62 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Meta
+- Google
+- Amazon
+- ByteDance
+- Applied Materials
+- Mastercard
+- Visa
+- American Express
+- PayPal
+- Stripe
+- Apple Pay
+- Google Pay
+- S&P 500
+- ASML
+- Lam Research
+- Tokyo Electron
+- KLA
 date: '2025-08-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Zuckerberg
+- Charlie Munger
+products_models:
+- Facebook
+- Instagram
+- WhatsApp
+- Messenger
+- Threads
+- YouTube
+- Amazon Prime
+- Reels
+- TikTok
+- Douyin
+- EUV lithography
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=jeZQPXsFIxw
 speaker: Shijun Tang
-tags:
-  - investment-thesis
-  - portfolio-management
-  - digital-advertising
-  - semiconductor-equipment
-  - payment-networks
-title: 持有Meta 1234天：投资Thesis、应用材料与万事达卡深度分析
-summary: 本期视频深入探讨了作者持有Meta 1234天后的投资理念演变，对其未来前景进行了乐观展望。同时，分析了半导体设备巨头应用材料近期股价下跌的原因及公司基本面，并对支付网络巨头万事达卡的护城河和财务表现进行了详细解读。视频旨在分享投资经验，帮助观众通过投资实现财务自由。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Shijun Tang
-  - Mark Zuckerberg
-  - Charlie Munger
-companies_orgs:
-  - Meta
-  - Google
-  - Amazon
-  - ByteDance
-  - Applied Materials
-  - Mastercard
-  - Visa
-  - American Express
-  - PayPal
-  - Stripe
-  - Apple Pay
-  - Google Pay
-  - S&P 500
-  - ASML
-  - Lam Research
-  - Tokyo Electron
-  - KLA
-products_models:
-  - Facebook
-  - Instagram
-  - WhatsApp
-  - Messenger
-  - Threads
-  - YouTube
-  - Amazon Prime
-  - Reels
-  - TikTok
-  - Douyin
-  - EUV lithography
-media_books: []
 status: evergreen
+summary: 本期视频深入探讨了作者持有Meta 1234天后的投资理念演变，对其未来前景进行了乐观展望。同时，分析了半导体设备巨头应用材料近期股价下跌的原因及公司基本面，并对支付网络巨头万事达卡的护城河和财务表现进行了详细解读。视频旨在分享投资经验，帮助观众通过投资实现财务自由。
+tags:
+- digital
+- investment-thesis
+- network
+- portfolio-management
+- semiconductor-equipment
+title: 持有Meta 1234天：投资Thesis、应用材料与万事达卡深度分析
 ---
+
 ### Meta投资回顾与未来展望
 
 我持有**Meta**（Meta Platforms, Inc.: 脸书母公司，全球领先的社交媒体和数字广告公司）已经1234天了，这可能是一个巧合，因为我写文案的这天正好是第1234天。如果你关注我有一段时间了，你肯定知道，Meta在我所有仓位中，按照回报的比例来看是最高的。今天我们就来详细谈谈，看看持有1234天之后，我的**投资Thesis**（Investment Thesis: 投资论点，指支持一项投资决策的核心理由和预期）到底有没有变化，以及我对Meta的未来究竟如何看待。

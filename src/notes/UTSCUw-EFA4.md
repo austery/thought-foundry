@@ -1,54 +1,52 @@
 ---
-author: 视野环球财经
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Oracle
+- Broadcom
+- Federal Reserve
+- Federal Open Market Committee
+- New York Fed
+- Bank of England
+- European Central Bank
+- Bank of Japan
+- 深圳百事智能股份有限公司
+- NVIDIA
+- OpenAI
+- ServiceNow
+- Keefe, Bruyette & Woods
+- Micron Technology
+- Tesla
+- Google
+- Advanced Micro Devices
+- Adobe
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- 沃什
+- 哈塞特
+- Elon Musk
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=UTSCUw-EFA4
 speaker: 视野环球财经
-tags:
-  - stock-market-analysis
-  - fed-policy
-  - corporate-bankruptcy
-  - ai-industry-impact
-  - investment-strategy
-title: 美股市场动态：美联储人选、经济数据与个股深度解析
-summary: 本期节目分析了美东时间12月15日的市场动态，四大指数高开低走，科技股承压。主持人梳理了周末美联储人选的最新变化（沃什反超哈塞特），并回顾了纽约联储制造业数据及本周重要经济事件。节目重点讨论了个股表现，包括一家申请破产的明星成长股、债券跌至垃圾级的甲骨文、大幅回吐的ServiceNow、强势上涨的特斯拉，以及英伟达和AMD的未来走势与投资策略。最后，提醒听众圣诞假期出行注意安全。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-  - 沃什
-  - 哈塞特
-  - Elon Musk
-companies_orgs:
-  - Oracle
-  - Broadcom
-  - Federal Reserve
-  - Federal Open Market Committee
-  - New York Fed
-  - Bank of England
-  - European Central Bank
-  - Bank of Japan
-  - 深圳百事智能股份有限公司
-  - NVIDIA
-  - OpenAI
-  - ServiceNow
-  - Keefe, Bruyette & Woods
-  - Micron Technology
-  - Tesla
-  - Google
-  - Advanced Micro Devices
-  - Adobe
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目分析了美东时间12月15日的市场动态，四大指数高开低走，科技股承压。主持人梳理了周末美联储人选的最新变化（沃什反超哈塞特），并回顾了纽约联储制造业数据及本周重要经济事件。节目重点讨论了个股表现，包括一家申请破产的明星成长股、债券跌至垃圾级的甲骨文、大幅回吐的ServiceNow、强势上涨的特斯拉，以及英伟达和AMD的未来走势与投资策略。最后，提醒听众圣诞假期出行注意安全。
+tags:
+- corporate
+- fed-policy
+- industry
+- stock-market-analysis
+title: 美股市场动态：美联储人选、经济数据与个股深度解析
 ---
+
 大家好，欢迎回到视野环球财经，我是Reno。现在是美东时间2025年12月15号周一晚上的7点35分。今天的四大指数高开低走，全天低位震荡，最终是**罗素**（Russell: 美国小型股指数）和**纳指**（Nasdaq: 美国科技股为主的股票市场指数）的表现最差。板块方面，医疗保健、公共事业、非必需品表现较好，而科技、能源和通信则表现落后。科技股在上周**甲骨文**（Oracle: 美国大型企业软件公司）和**博通**（Broadcom: 美国半导体及基础设施软件公司）财报之后，今天仍旧表现出承压迹象，恐慌似乎有蔓延的趋势。
 
 ### 美联储人选变化

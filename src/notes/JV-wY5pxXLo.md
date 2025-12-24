@@ -1,46 +1,44 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- Shopify
+- Cobalt Cowboys
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Last Economy
+people:
+- David Sacks
+- Andre Kapati
+products_models:
+- Gemini Flash
+- Cursor
+- Composer One
+- Glink
+- Sizzy
+- Zero to Ship
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=JV-wY5pxXLo
 speaker: AI Engineer
-tags:
-  - vibe-coding
-  - ai-assisted-development
-  - technical-debt
-  - skill-architecture
-  - legacy-systems
-title: 从振动编码到振动工程：AI时代的开发者生存指南
-summary: “本文深入探讨了AI辅助编程（Vibe Coding）如何重塑软件开发流程，提出‘振动工程’作为新范式，并分析其对职业结构、技术债务与开发者价值的深远影响。”
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - David Sacks
-  - Andre Kapati
-companies_orgs:
-  - Google
-  - Shopify
-  - Cobalt Cowboys
-products_models:
-  - Gemini Flash
-  - Cursor
-  - Composer One
-  - Glink
-  - Sizzy
-  - Zero to Ship
-media_books:
-  - The Last Economy
 status: evergreen
+summary: “本文深入探讨了AI辅助编程（Vibe Coding）如何重塑软件开发流程，提出‘振动工程’作为新范式，并分析其对职业结构、技术债务与开发者价值的深远影响。”
+tags:
+- debt
+- development
+- skill
+- system
+- vibe-coding
+title: 从振动编码到振动工程：AI时代的开发者生存指南
 ---
-
 
 ## 开场白：多线程生活与开发者工具
 那是我旧头像。好了，这是我的新头像。我在美国才待了三天，Twitter 上就已经收到了全套周边产品。如果你关注我，接下来一周我的时间线会很奇怪，但之后我们会回归正常的欧洲作息。别担心。

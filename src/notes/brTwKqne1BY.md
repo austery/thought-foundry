@@ -1,44 +1,44 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OECD
+- United Nations
+- Amazon
+- Intel
+- Google
+- Meta
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《机器人拯救不了日本》
+- 《经济增长的终结：人口下降的意外后果》
+people:
+- Charles Jones
+- James Adrian Wright
+products_models:
+- Deepseek
+project:
+- china-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=brTwKqne1BY
 speaker: 老周横眉
-tags:
-  - population-crisis
-  - aging-society
-  - ai-economic-impact
-  - social-security-crisis
-  - innovation-decline
-title: AI能否拯救东亚人口危机？深度老龄化与技术革命下的社会经济挑战
-summary: 视频深入探讨了人工智能能否解决东亚地区日益严峻的人口危机。作者指出，尽管AI能提高人均生产力并降低部分成本，但无法解决养老金、医保等核心问题，也难以替代人性化的长期照护。此外，AI作为资本密集型技术，可能加剧资本集中和工资收入下降，进一步冲击现有社保体系。文章还分析了中国在人口危机中面临的独特挑战，并为不同年龄段的普通人提供了应对建议，强调终身学习、健康维护和独立养老的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Charles Jones
-  - James Adrian Wright
-companies_orgs:
-  - OECD
-  - United Nations
-  - Amazon
-  - Intel
-  - Google
-  - Meta
-products_models:
-  - Deepseek
-media_books:
-  - 《机器人拯救不了日本》
-  - 《经济增长的终结：人口下降的意外后果》
 status: evergreen
+summary: 视频深入探讨了人工智能能否解决东亚地区日益严峻的人口危机。作者指出，尽管AI能提高人均生产力并降低部分成本，但无法解决养老金、医保等核心问题，也难以替代人性化的长期照护。此外，AI作为资本密集型技术，可能加剧资本集中和工资收入下降，进一步冲击现有社保体系。文章还分析了中国在人口危机中面临的独特挑战，并为不同年龄段的普通人提供了应对建议，强调终身学习、健康维护和独立养老的重要性。
+tags:
+- ai-economic-impact
+- crisis
+- innovation
+- social
+- society
+title: AI能否拯救东亚人口危机？深度老龄化与技术革命下的社会经济挑战
 ---
+
 ### AI与东亚人口危机的交汇
 
 上期视频曾探讨中日韩台在未来25年内将面临的极其严峻的人口危机。预计到2050年，中日韩台65岁及以上的老人比例将达到30%至40%，这是**OECD**（经济合作与发展组织：由38个市场经济国家组成的政府间国际经济组织）对超级老龄社会定义的3倍。中国80岁以上的老人也将在未来30年内翻4倍，届时每10个人当中就有一个超过80岁。在没有战争、饥荒和瘟疫的情况下，这样级别的人口崩溃在人类历史上是前所未有的，也必然带来一系列严重的经济和社会问题。人口自愿性的断崖式下跌是一张单程车票，有去无回，无可逆转。

@@ -1,43 +1,42 @@
 ---
-author: Hung-yi Lee
+area: society-systems
+category: technology
+companies_orgs:
+- DeepSeek
+- OpenAI
+- Mistral
+- Gemma
+- Anthropic
 date: '2025-05-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- o1
+- Claude
+- GSM8K
+- ARC-AGI
+- Keras
+project:
+- ai-impact-analysis
+- systems-thinking
+- pkm-research
+series: ''
 source: https://www.youtube.com/watch?v=s266BzGNKKc
 speaker: Hung-yi Lee
-tags:
-  - llm-evaluation
-  - reasoning-ability
-  - benchmark-testing
-  - goodharts-law
-  - human-bias-evaluation
-title: 大型语言模型评估的挑战与古德哈特定律
-summary: 本课程深入探讨了大型语言模型（LLM）推理能力的评估方法。文章首先介绍了通过数学和编程问题进行粗暴评估的现状，并揭示了模型可能存在记忆而非真正推理的问题。随后，讨论了GSM8K和ARC-AGI等基准测试的局限性，以及Chatbot Arena这种人类评测机制如何因风格偏好而被“攻破”。最终，文章引用古德哈特定律，指出任何被设定为目标的指标都将失去其有效性，强调了评估系统对模型发展的异化影响。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - pkm-research
-people: []
-companies_orgs:
-  - DeepSeek
-  - OpenAI
-  - Mistral
-  - Gemma
-  - Anthropic
-products_models:
-  - o1
-  - Claude
-  - GSM8K
-  - ARC-AGI
-  - Keras
-media_books: []
 status: evergreen
+summary: 本课程深入探讨了大型语言模型（LLM）推理能力的评估方法。文章首先介绍了通过数学和编程问题进行粗暴评估的现状，并揭示了模型可能存在记忆而非真正推理的问题。随后，讨论了GSM8K和ARC-AGI等基准测试的局限性，以及Chatbot
+  Arena这种人类评测机制如何因风格偏好而被“攻破”。最终，文章引用古德哈特定律，指出任何被设定为目标的指标都将失去其有效性，强调了评估系统对模型发展的异化影响。
+tags:
+- human
+- law
+- llm
+- philosophy
+- technology
+title: 大型语言模型评估的挑战与古德哈特定律
 ---
+
 ### 大型语言模型推理能力的评估现状
 
 本堂课将探讨大型语言模型（LLM）的评估问题。在讨论了许多关于模型推理能力的内容后，我们如何判断这些模型是否真的具备良好的推理能力呢？

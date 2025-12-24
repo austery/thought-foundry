@@ -1,61 +1,63 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Noetic AI
+- Blackrock
+- Wachtell Lipton
+- T-Mobile
+- Sprint
+- Allergan
+- Actavis
+- Raytheon
+- Citibank
+- Revlon
+- McDonald's
+- First Brands
+- Blue Owl
+- Meta
+- JPMorgan
+- Frank
+- Superior Industries
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+- Wall Street Journal
+- Cockroaches in the Coal Mine
+people:
+- Dan Wertman
+- Joe Weisenthal
+- Tracy Alloway
+- Paul Khodorkovsky
+- Joel Wertheimer
+- Jamie Dimon
+- Howard Marks
+products_models:
+- ChatGPT API
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=n5Pc4y_8luU
 speaker: Bloomberg Podcasts
-tags:
-  - credit-market-weakness
-  - off-balance-sheet-financing
-  - deal-terms
-  - structural-protections
-  - ai-in-finance
-title: AI如何揭示信用市场的脆弱性：交易条款与结构性保护的深度解析
-summary: 本期《Odd Lots》播客深入探讨了AI在分析信用市场交易条款中的应用，以及当前信用市场（特别是私募信贷）的脆弱性。嘉宾Dan Wertman介绍了Noetic AI如何利用AI量化市场协议条款，揭示了贷款人寻求更多结构性保护、借款人争取更大经济灵活性的“强化”趋势。节目通过“披萨餐厅”类比，生动阐释了Meta与Blue Owl等公司在数据中心交易中使用的复杂表外融资结构，并强调在快速变化的AI时代，理解并优化交易条款对于风险管理至关重要。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Dan Wertman
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Paul Khodorkovsky
-  - Joel Wertheimer
-  - Jamie Dimon
-  - Howard Marks
-companies_orgs:
-  - Noetic AI
-  - Blackrock
-  - Wachtell Lipton
-  - T-Mobile
-  - Sprint
-  - Allergan
-  - Actavis
-  - Raytheon
-  - Citibank
-  - Revlon
-  - McDonald's
-  - First Brands
-  - Blue Owl
-  - Meta
-  - JPMorgan
-  - Frank
-  - Superior Industries
-products_models:
-  - ChatGPT API
-media_books:
-  - Odd Lots podcast
-  - Wall Street Journal
-  - Cockroaches in the Coal Mine
 status: evergreen
+summary: 本期《Odd Lots》播客深入探讨了AI在分析信用市场交易条款中的应用，以及当前信用市场（特别是私募信贷）的脆弱性。嘉宾Dan Wertman介绍了Noetic
+  AI如何利用AI量化市场协议条款，揭示了贷款人寻求更多结构性保护、借款人争取更大经济灵活性的“强化”趋势。节目通过“披萨餐厅”类比，生动阐释了Meta与Blue
+  Owl等公司在数据中心交易中使用的复杂表外融资结构，并强调在快速变化的AI时代，理解并优化交易条款对于风险管理至关重要。
+tags:
+- ai-in-finance
+- canada
+- financial
+- market
+- term
+title: AI如何揭示信用市场的脆弱性：交易条款与结构性保护的深度解析
 ---
+
 ### 引言：披萨餐厅与信用市场
 
 **Joe:** 你是一个披萨狂热者。你非常喜欢披萨。你决定在余生中的每一顿饭都吃披萨。你致力于以披萨为生。

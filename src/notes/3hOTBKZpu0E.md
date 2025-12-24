@@ -1,48 +1,49 @@
 ---
-author: 安争鸣（Stella An）
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 纳粹德国
+- 红色高棉
+- 法西斯政权
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《同流者》
+- 《鄙视》
+- 《冷漠的人》
+people:
+- 安争鸣
+- 阿尔贝托·莫拉维亚
+- 马尔切洛
+- 利诺
+- 朱莉娅
+- 夸德里教授
+- 莉娜
+- 奥兰多
+- 墨索里尼
+products_models: []
+project:
+- historical-insights
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=3hOTBKZpu0E
 speaker: 安争鸣（Stella An）
-tags:
-  - political-conformity
-  - authoritarianism
-  - individual-complicity
-  - psychological-mechanisms
-  - moral-dilemma
-title: 《同流者》：揭示普通人如何成为暴政的共谋
-summary: 本期节目深入探讨了意大利作家阿尔贝托·莫拉维亚的经典小说《同流者》，通过分析主人公马尔切洛的心理历程，揭示了普通人如何在暴政下选择同流合污，成为其共谋。文章剖析了马尔切洛因原生家庭创伤和对“正常”的极度渴望，逐步压抑自我、迎合主流法西斯价值观，最终走向毁灭的悲剧。节目强调，对自由勇敢者的仇恨往往源于对自身被压抑部分的嫉妒，并警示人们不要心存侥幸，成为暴政的同谋。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - 安争鸣
-  - 阿尔贝托·莫拉维亚
-  - 马尔切洛
-  - 利诺
-  - 朱莉娅
-  - 夸德里教授
-  - 莉娜
-  - 奥兰多
-  - 墨索里尼
-companies_orgs:
-  - 纳粹德国
-  - 红色高棉
-  - 法西斯政权
-products_models: []
-media_books:
-  - 《同流者》
-  - 《鄙视》
-  - 《冷漠的人》
 status: evergreen
+summary: 本期节目深入探讨了意大利作家阿尔贝托·莫拉维亚的经典小说《同流者》，通过分析主人公马尔切洛的心理历程，揭示了普通人如何在暴政下选择同流合污，成为其共谋。文章剖析了马尔切洛因原生家庭创伤和对“正常”的极度渴望，逐步压抑自我、迎合主流法西斯价值观，最终走向毁灭的悲剧。节目强调，对自由勇敢者的仇恨往往源于对自身被压抑部分的嫉妒，并警示人们不要心存侥幸，成为暴政的同谋。
+tags:
+- authoritarianism
+- moral-dilemma
+- political-conformity
+- society
+title: 《同流者》：揭示普通人如何成为暴政的共谋
+companies:
+- psychological-mechanism
 ---
+
 ### 暴政的本质与普通人的共谋
 
 大家好，我是安争鸣，欢迎回到读书时间。自从人类社会诞生以来，**暴政**（Tyranny: 权力被少数人或个人滥用，对民众进行压迫和控制的政治体制）就从未消失。甚至到了20世纪，还出现了**纳粹德国**（Nazi Germany: 指1933年至1945年间，由阿道夫·希特勒及其纳粹党统治下的德国，以极端民族主义、种族主义和独裁统治为特征）、**红色高棉**（Khmer Rouge: 指柬埔寨共产党在1975年至1979年间建立的极端共产主义政权，以大规模屠杀、强制劳动和社会改造闻名）这种邪恶到极致的政权。

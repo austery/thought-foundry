@@ -1,31 +1,30 @@
 ---
-title: 强化学习之父Rich Sutton的宏大构想：OaK架构如何让超级智能从经验中涌现
-summary: 强化学习之父Rich Sutton提出OaK架构，批评大语言模型路径依赖，强调AI应通过运行时经验持续学习、建立世界模型、创造开放式抽象，以实现真正超级智能的涌现，并指出当前持续学习和新特征元学习的挑战。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-philosophy
-- oak-architecture
-- reinforcement-learning
-- rich-sutton
-- superintelligence
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-25'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=zg_vPdIPBRw
+speaker: Best Partners TV
 status: evergreen
+summary: 强化学习之父Rich Sutton提出OaK架构，批评大语言模型路径依赖，强调AI应通过运行时经验持续学习、建立世界模型、创造开放式抽象，以实现真正超级智能的涌现，并指出当前持续学习和新特征元学习的挑战。
+tags:
+- ai-philosophy
+- architecture
+- reinforcement-learning
+- superintelligence
+title: 强化学习之父Rich Sutton的宏大构想：OaK架构如何让超级智能从经验中涌现
+people:
+- rich-sutton
 ---
+
 ### 警世之言：AI发展方向的迷失与终极目标
 
 在人工智能（AI）行业巨头们普遍追逐**缩放定律**（Scaling Laws: 指模型性能随参数量、数据量和计算量增加而提升的经验法则）之时，强化学习之父、图灵奖得主**Rich Sutton**（强化学习之父、图灵奖得主，人工智能领域的思想泰斗）却发出了警示：AI行业在某种程度上已经迷失了方向。在RLC 2025的讲台上，Sutton再次抛出了一套宏大的构想，直指AI的终极问题——**超级智能**（Superintelligence: 拥有超越人类智能水平，并能解决各种复杂问题的人工智能）将如何从经验中涌现？

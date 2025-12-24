@@ -1,49 +1,49 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《手册》
+- 《对话录》
+- 《从优秀到伟大》
+- 《论语》
+people:
+- 艾比克泰德
+- 莱茵霍尔德·尼布尔
+- James Stockdale
+- 乔治·华盛顿
+- 托马斯·杰斐逊
+- 阿里安
+- James Collins
+- 奥勒留
+- 帕斯卡尔
+- 崔健
+- 孔子
+- 苏格拉底
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=vDBkOJ7Ou_Y
 speaker: 徒步的騎手
-tags:
-  - stoic-philosophy
-  - dichotomy-of-control
-  - stockdale-paradox
-  - resilience-in-adversity
-  - inner-freedom
-title: 至暗时刻的生存哲学：艾比克泰德、斯托克戴尔悖论与不自由时代的自由
-summary: 本文探讨了古罗马哲学家艾比克泰德的斯多葛哲学，特别是“控制二分法”，以及越战战俘James Stockdale提出的“斯托克戴尔悖论”。文章深入分析了在政治高压、经济下行、社会失序的“至暗时刻”中，如何运用这些哲学智慧，区分可控与不可控，保持内在平静与必胜信念，避免盲目乐观与彻底绝望，从而在不自由的时代中实现精神自由与积极行动，应对内卷与躺平的挑战。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - china-analysis
-people:
-  - 艾比克泰德
-  - 莱茵霍尔德·尼布尔
-  - James Stockdale
-  - 乔治·华盛顿
-  - 托马斯·杰斐逊
-  - 阿里安
-  - James Collins
-  - 奥勒留
-  - 帕斯卡尔
-  - 崔健
-  - 孔子
-  - 苏格拉底
-companies_orgs: []
-products_models: []
-media_books:
-  - 《手册》
-  - 《对话录》
-  - 《从优秀到伟大》
-  - 《论语》
 status: evergreen
+summary: 本文探讨了古罗马哲学家艾比克泰德的斯多葛哲学，特别是“控制二分法”，以及越战战俘James Stockdale提出的“斯托克戴尔悖论”。文章深入分析了在政治高压、经济下行、社会失序的“至暗时刻”中，如何运用这些哲学智慧，区分可控与不可控，保持内在平静与必胜信念，避免盲目乐观与彻底绝望，从而在不自由的时代中实现精神自由与积极行动，应对内卷与躺平的挑战。
+tags:
+- control
+- freedom
+- investment
+- philosophy
+- resilience-in-adversity
+title: 至暗时刻的生存哲学：艾比克泰德、斯托克戴尔悖论与不自由时代的自由
 ---
+
 ### 人生阅历与知识的价值
 
 人生在世，有两样关键的东西并非与生俱来：一是专业知识，二是人生阅历。这两者都需通过学习和亲身经历方能获得。一个人无论天资多么聪颖，若不学习、不经历，则无法弥补专业知识的不足，更无法弥补人生阅历的欠缺。

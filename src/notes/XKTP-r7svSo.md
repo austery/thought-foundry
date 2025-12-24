@@ -1,33 +1,32 @@
 ---
-title: 塑造经济理论的15个关键概念
-summary: 本文深入探讨了凯恩斯主义、古典经济学、货币主义等15个主要经济学派的核心概念。这些理论，涵盖总需求、看不见的手、博弈论、行为偏差及货币主权等，挑战传统假设，深刻塑造了我们对经济运行、政策制定及社会公平的理解。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- behavioral-insights
-- economic-theory
-- government-intervention
-- macroeconomics
-- market-mechanisms
-people:
-- adam-s-axiom
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-05-06'
-author: Adam's Axiom
-speaker: Adam's Axiom
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- adam-s-axiom
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=XKTP-r7svSo
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了凯恩斯主义、古典经济学、货币主义等15个主要经济学派的核心概念。这些理论，涵盖总需求、看不见的手、博弈论、行为偏差及货币主权等，挑战传统假设，深刻塑造了我们对经济运行、政策制定及社会公平的理解。
+tags:
+- behavioral-insight
+- economic-theory
+- financial
+- government-intervention
+- market
+title: 塑造经济理论的15个关键概念
 ---
+
 ### 凯恩斯经济学
 
 **凯恩斯经济学**（Keynesian economics: 由约翰·梅纳德·凯恩斯创立的经济学派，主张政府干预以稳定经济）由约翰·梅纳德·凯恩斯（John Maynard Keynes）在其1936年的著作《就业、利息和货币通论》（*The General Theory of Employment, Interest and Money*）中提出，通过挑战市场会自动自我修正的古典假设，彻底改变了经济思想。凯恩斯认为，经济体可能在存在高失业率的情况下达到均衡，从而证明了政府干预的合理性。

@@ -1,64 +1,64 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《论共产党员的修养》
+people:
+- 毛泽东
+- 刘少奇
+- 周恩来
+- 邓小平
+- 陈云
+- 彭德怀
+- 林彪
+- 江青
+- 赫鲁晓夫
+- 斯大林
+- 胡志明
+- 邓拓
+- 吴晗
+- 康生
+- 陈伯达
+- 张春桥
+- 姚文元
+- 胡乔木
+- 杨尚昆
+- 李维汉
+- 邓子恢
+- 王稼祥
+- 叶剑英
+- 彭真
+- 罗瑞卿
+- 王光美
+- 谢富治
+- 高岗
+- 饶漱石
+- 张闻天
+- 黄克诚
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=IIx7FnynXJE
 speaker: 柴静 Chai Jing
-tags:
-  - cultural-revolution
-  - power-struggle
-  - ideological-purification
-  - intra-party-conflict
-  - anti-intellectualism
-title: 高华：毛泽东为何以及如何发动文化大革命？
-summary: 历史学家高华深入剖析了毛泽东发动文革的两大核心动因：一是对其理想社会主义的乌托邦式追求，二是对“大权旁落”的深刻恐惧和夺回权力的政治算计。讲座详细梳理了从大跃进失败后到文革前夕，毛泽东与刘少奇等一线领导的政策分歧、关键事件（如窃听器事件）以及毛为发动文革所做的意识形态和组织准备，揭示了个人意志、理想主义与权力斗争如何交织并最终引爆了这场历史浩劫。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 毛泽东
-  - 刘少奇
-  - 周恩来
-  - 邓小平
-  - 陈云
-  - 彭德怀
-  - 林彪
-  - 江青
-  - 赫鲁晓夫
-  - 斯大林
-  - 胡志明
-  - 邓拓
-  - 吴晗
-  - 康生
-  - 陈伯达
-  - 张春桥
-  - 姚文元
-  - 胡乔木
-  - 杨尚昆
-  - 李维汉
-  - 邓子恢
-  - 王稼祥
-  - 叶剑英
-  - 彭真
-  - 罗瑞卿
-  - 王光美
-  - 谢富治
-  - 高岗
-  - 饶漱石
-  - 张闻天
-  - 黄克诚
-companies_orgs: []
-products_models: []
-media_books:
-  - 《论共产党员的修养》
 status: evergreen
+summary: 历史学家高华深入剖析了毛泽东发动文革的两大核心动因：一是对其理想社会主义的乌托邦式追求，二是对“大权旁落”的深刻恐惧和夺回权力的政治算计。讲座详细梳理了从大跃进失败后到文革前夕，毛泽东与刘少奇等一线领导的政策分歧、关键事件（如窃听器事件）以及毛为发动文革所做的意识形态和组织准备，揭示了个人意志、理想主义与权力斗争如何交织并最终引爆了这场历史浩劫。
+tags:
+- anti
+- conflict
+- cultural-revolution
+- philosophy
+- power-struggle
+title: 高华：毛泽东为何以及如何发动文化大革命？
 ---
+
 ### 文革发动的两大动因：理想追求与权力危机
 
 今天我讲的题目是毛泽东与文革的发动，将包含两个方面：他为什么要发动文革，以及文革是如何发动起来的。我认为，毛泽东发动文革有两方面的因素：第一，集中体现了他对他所理想的社会主义的追求；第二，也是一个非常重要的因素，就是毛泽东认为他在文革前夕已经大权旁落，急于夺回权力。我认为，这两个因素在文革的整个过程，特别是在初期，是紧密缠绕在一起的。

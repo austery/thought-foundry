@@ -1,33 +1,32 @@
 ---
-title: 股市狂欢：标普500指数大涨，芯片股领跑，宏观因素退居次席
-summary: 标普500指数创五月以来最大涨幅，芯片股因OpenAI合作表现强劲。节目还讨论了关键矿产、Beyond Meat的困境，以及女性财富转移和泰勒·斯威夫特对市场的影响。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- s-and-p-500
-- semiconductors
-- stock-market
-- wealth-transfer
-people: []
 companies_orgs:
 - openai
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=EM-DFGOiJ04
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 标普500指数创五月以来最大涨幅，芯片股因OpenAI合作表现强劲。节目还讨论了关键矿产、Beyond Meat的困境，以及女性财富转移和泰勒·斯威夫特对市场的影响。
+tags:
+- s-and-p-500
+- semiconductor
+- stock-market
+- wealth
+title: 股市狂欢：标普500指数大涨，芯片股领跑，宏观因素退居次席
 ---
+
 ### 市场收盘概览：逢低买入者回归
 
 About two minutes away from the end of the trading day, Katie Grifeld and Matt Miller in for Roma Bosik. And here to help take us through the closing bell, we're joined by a global simulcast, Carol Masser and Bailey Lipult. He's in for Tim Stenovic, bringing together all of our audiences, Carol Masser to parse through the most crucial moments of this trading day on this Monday. And the dip buyers, they're back.

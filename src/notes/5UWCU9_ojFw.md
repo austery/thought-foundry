@@ -1,30 +1,29 @@
 ---
-title: Meta遭遇AI人才大流失：天价挖人为何失效？
-summary: Meta为组建AI“天团”投入巨额资金挖人，但Llama模型表现不佳，内部组织架构频繁调整，导致新老员工纷纷离职，甚至重返竞争对手OpenAI。本文探讨Meta人才流失背后的深层原因。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- meta-ai
-- organizational-issues
-- talent-drain
-- tech-competition
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-29'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=5UWCU9_ojFw
+speaker: Best Partners TV
 status: evergreen
+summary: Meta为组建AI“天团”投入巨额资金挖人，但Llama模型表现不佳，内部组织架构频繁调整，导致新老员工纷纷离职，甚至重返竞争对手OpenAI。本文探讨Meta人才流失背后的深层原因。
+tags:
+- organizational
+- talent
+- tech
+title: Meta遭遇AI人才大流失：天价挖人为何失效？
+companies:
+- meta-ai
 ---
+
 ### Meta AI人才流失：重金挖人遭遇“离职大戏”
 
 在AI领域竞争白热化的当下，Meta这家巨头公司为占据一席之地，其老板马克·扎克伯格（Mark Zuckerberg）亲自下场，砸出天文数字般的薪酬去挖人。本以为能组建起一支所向披靡的“天团”，但这个“天团”还未真正开始施展拳脚，就接连上演了“离职大戏”。这还得从Meta的开源模型**Llama 4**（Language Model for Meta AI: Meta公司开发的一系列大型语言模型之一）表现不佳说起，其在整个大模型赛道中可以说是接近颜面扫地。这让小扎和Meta深刻意识到，他们在AI技术上已经明显掉队。

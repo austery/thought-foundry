@@ -1,42 +1,42 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- FBI
 date: '2025-03-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《看不见的中东》
+people:
+- 姚璐
+- 诺瓦
+- 艾哈迈德
+- 拉赫曼
+- 巴图
+- 穆罕默德
+- 朵阿
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=eXe8jcuvTwk
 speaker: 一席YiXi
-tags:
-  - gender-oppression
-  - everyday-resistance
-  - media-misrepresentation
-  - agency-in-adversity
-  - cultural-perception-gap
-title: 当目光投向具体的人：中东女性在禁锢中的微光与抵抗
-summary: 摄影师姚璐通过四年中东旅居经历，揭示战乱地区普通人如何在动荡中维系日常，并展现中东女性在严苛社会结构下，以日常行动进行无声抵抗的坚韧力量。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 姚璐
-  - 诺瓦
-  - 艾哈迈德
-  - 拉赫曼
-  - 巴图
-  - 穆罕默德
-  - 朵阿
-companies_orgs:
-  - FBI
-products_models: []
-media_books:
-  - 《看不见的中东》
 status: evergreen
+summary: 摄影师姚璐通过四年中东旅居经历，揭示战乱地区普通人如何在动荡中维系日常，并展现中东女性在严苛社会结构下，以日常行动进行无声抵抗的坚韧力量。
+tags:
+- cultural
+- gender
+- history
+- media
+- technology
+title: 当目光投向具体的人：中东女性在禁锢中的微光与抵抗
 ---
+
 ### 被误解的中东：从新闻图像到真实生活
 
 大家好，我是姚璐，是一名摄影师，也是一个写作者。今天我想分享的是我2016年到2020年间在中东旅行的见闻。

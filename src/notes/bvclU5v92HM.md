@@ -1,50 +1,49 @@
 ---
-author: 视野环球财经
+area: market-analysis
+category: finance
+companies_orgs:
+- 视野环球财经
+- 伯克希尔·哈撒韦
+- Google
+- Microsoft
+- 苹果
+- 特斯拉
+- Netflix
+- 甲骨文
+- Nvidia
+- 美国银行
+- 美国运通
+- 联合健康
+- AMD
+- Meta
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 洛根
+- 施密德
+- 黄仁勋
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=bvclU5v92HM
 speaker: 视野环球财经
-tags:
-  - us-stock-market
-  - nvidia-earnings
-  - fed-policy
-  - ai-investment
-  - corporate-holdings
-title: 美股市场展望：英伟达财报与科技巨头动向分析
-summary: 本文深入分析了当前美股市场的走势，探讨了美联储官员的鹰派言论对降息预期的影响，并详细解读了伯克希尔·哈撒韦的最新13F报告中对谷歌、苹果等科技巨头的持仓调整。文章特别强调了英伟达即将发布的财报对AI概念股及整体市场走向的关键性影响，并提出了两种市场走势预判，同时对特斯拉、微软、甲骨文等个股进行了技术分析，为投资者提供了全面的市场洞察和策略建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 洛根
-  - 施密德
-  - 黄仁勋
-companies_orgs:
-  - 视野环球财经
-  - 伯克希尔·哈撒韦
-  - 谷歌
-  - 微软
-  - 苹果
-  - 特斯拉
-  - Netflix
-  - 甲骨文
-  - 英伟达
-  - 美国银行
-  - 美国运通
-  - 联合健康
-  - AMD
-  - Meta
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了当前美股市场的走势，探讨了美联储官员的鹰派言论对降息预期的影响，并详细解读了伯克希尔·哈撒韦的最新13F报告中对谷歌、苹果等科技巨头的持仓调整。文章特别强调了英伟达即将发布的财报对AI概念股及整体市场走向的关键性影响，并提出了两种市场走势预判，同时对特斯拉、微软、甲骨文等个股进行了技术分析，为投资者提供了全面的市场洞察和策略建议。
+tags:
+- ai-investment
+- corporate
+- fed-policy
+- nvidia-earning
+- us-stock-market
+title: 美股市场展望：英伟达财报与科技巨头动向分析
 ---
+
 ### 市场概览与宏观经济动向
 
 大家好，欢迎回到视野环球财经，我是Rino。现在是美东时间25年11月14号周晚上的8点45分。今天的四大指数呈现低开高走的态势，成功收复了盘前的恐慌性跌幅，收盘位置与昨天几乎持平。尽管有些指数表面上有所上涨，但标普500指数的下跌个股数量为311只，上涨的仅有186只。在标普的11个板块中，除了能源板块涨幅超过1%外，其他板块表现平平，甚至有6个板块收跌。

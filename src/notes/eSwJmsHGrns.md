@@ -1,49 +1,49 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: psychology
+companies_orgs:
+- New York Times
+- CDC
+- UCLA
+- National Council for Severe Autism
+- Lancet Commission
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Diagnostic and Statistical Manual of Mental Disorders
+- Saturday Night Live
+- The Big Bang Theory
+- Love on the Spectrum
+- Sesame Street
+people:
+- Robert F. Kennedy Jr.
+- Azen Gures
+- Kathy Lord
+- Temple Grandin
+- Elon Musk
+products_models: []
+project:
+- us-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=eSwJmsHGrns
 speaker: New York Times Podcasts
-tags:
-  - autism-diagnosis
-  - neurodiversity-movement
-  - resource-allocation
-  - diagnostic-criteria
-  - profound-autism
-title: 自闭症诊断的困境：不断扩大的定义与资源分配的挑战
-summary: 本文探讨了美国自闭症诊断率持续上升的现象，并揭示其背后复杂的原因。文章深入分析了自闭症定义如何从狭窄走向宽泛，以及神经多样性运动如何改变了社会对自闭症的认知。同时，也揭示了诊断范围扩大所带来的意想不到的后果，尤其是在教育和研究资源分配方面，对重度自闭症患者家庭造成了新的困境。文章还讨论了重新引入“重度自闭症”类别的提议及其潜在影响。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Robert F. Kennedy Jr.
-  - Azen Gures
-  - Kathy Lord
-  - Temple Grandin
-  - Elon Musk
-companies_orgs:
-  - New York Times
-  - CDC
-  - UCLA
-  - National Council for Severe Autism
-  - Lancet Commission
-products_models: []
-media_books:
-  - The Daily
-  - Diagnostic and Statistical Manual of Mental Disorders
-  - Saturday Night Live
-  - The Big Bang Theory
-  - Love on the Spectrum
-  - Sesame Street
 status: evergreen
+summary: 本文探讨了美国自闭症诊断率持续上升的现象，并揭示其背后复杂的原因。文章深入分析了自闭症定义如何从狭窄走向宽泛，以及神经多样性运动如何改变了社会对自闭症的认知。同时，也揭示了诊断范围扩大所带来的意想不到的后果，尤其是在教育和研究资源分配方面，对重度自闭症患者家庭造成了新的困境。文章还讨论了重新引入“重度自闭症”类别的提议及其潜在影响。
+tags:
+- autism-diagnosi
+- canada
+- diagnostic-criterion
+- movement
+- resource-allocation
+title: 自闭症诊断的困境：不断扩大的定义与资源分配的挑战
 ---
+
 ### 自闭症诊断率的惊人增长与误解
 
 来自《纽约时报》，我是瑞秋·艾布拉姆斯，这里是《The Daily》。小罗伯特·F·肯尼迪多次将自闭症发病率的飙升视为其作为卫生与公众服务部部长的核心使命。他将责任归咎于从泰诺到疫苗的一切，最近他指示疾病控制与预防中心（**CDC**：美国疾病控制与预防中心）放弃其长期以来的立场，即疫苗不会导致自闭症。然而，尽管近几十年来自闭症的发病率有所增加，但其原因比肯尼迪所呈现的更为复杂。

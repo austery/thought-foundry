@@ -1,55 +1,55 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Nvidia
+- Palantir
+- Ministry of Finance of China
+- National Development and Reform Commission of China
+- Heilongjiang Natural and Ecological Resources Trading Center
+- Qiqihar Zheyuan Environmental Protection Industry Co., Ltd.
+- General Office of the State Council of China
+- US-China Business Council
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- The Wall Street Journal
+- Reuters
+- Associated Press
+- China Business News
+- Xinhua News Agency
+- Jiemian News
+people:
+- Michael Burry
+- Robert Shiller
+- Donald Trump
+- Modi
+- Elizabeth Bushey
+- Xie Feng
+products_models:
+- ChatGPT
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Y_NHrHNzHXk
 speaker: LT視界
-tags:
-  - us-stock-market-bubble
-  - government-shutdown
-  - local-government-debt
-  - trade-war-conditions
-  - political-red-lines
-title: 全球经济与政治动态：美国股市泡沫、政府停摆、印度关税及中国地方债的深层挑战
-summary: 本期节目深入探讨了全球多项重要动态。财经方面，分析了迈克尔·博里做空英伟达和席勒估值法对美国股市泡沫的警告，以及其对全球资本市场的影响。政治方面，关注美国政府停摆僵局、多州地方选举对川普执政的初步考验，以及印度出口商面临美国高关税的困境。此外，还讨论了ChatGPT作为个人教练的应用，中国促进进口的尝试、春节假期延长，以及地方政府通过拍卖水库淤泥处置权来融资的“三资三化”金融游戏，揭示了中国地方债危机的严峻性。最后，分析了中共就中美贸易协议提出的“四条红线”及其背后对内宣示的真实意图。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Michael Burry
-  - Robert Shiller
-  - Donald Trump
-  - Modi
-  - Elizabeth Bushey
-  - Xie Feng
-companies_orgs:
-  - Nvidia
-  - Palantir
-  - Ministry of Finance of China
-  - National Development and Reform Commission of China
-  - Heilongjiang Natural and Ecological Resources Trading Center
-  - Qiqihar Zheyuan Environmental Protection Industry Co., Ltd.
-  - General Office of the State Council of China
-  - US-China Business Council
-products_models:
-  - ChatGPT
-media_books:
-  - Bloomberg
-  - The Wall Street Journal
-  - Reuters
-  - Associated Press
-  - China Business News
-  - Xinhua News Agency
-  - Jiemian News
 status: evergreen
+summary: 本期节目深入探讨了全球多项重要动态。财经方面，分析了迈克尔·博里做空英伟达和席勒估值法对美国股市泡沫的警告，以及其对全球资本市场的影响。政治方面，关注美国政府停摆僵局、多州地方选举对川普执政的初步考验，以及印度出口商面临美国高关税的困境。此外，还讨论了ChatGPT作为个人教练的应用，中国促进进口的尝试、春节假期延长，以及地方政府通过拍卖水库淤泥处置权来融资的“三资三化”金融游戏，揭示了中国地方债危机的严峻性。最后，分析了中共就中美贸易协议提出的“四条红线”及其背后对内宣示的真实意图。
+tags:
+- government
+- government-shutdown
+- political
+- trade-war-condition
+- us-stock-market-bubble
+title: 全球经济与政治动态：美国股市泡沫、政府停摆、印度关税及中国地方债的深层挑战
 ---
+
 ### 财经头条：美国股市泡沫警告
 
 彭博社报道指出，在泡沫警告之后，英伟达（Nvidia）和帕兰特尔（Palantir）的股票被看跌。这一报道试图揭示美国股市的大变局。当前市场舆论普遍认为，**迈克尔·博里**（Michael Burry: 因成功做空2008年美国房地产市场而闻名的对冲基金经理）的一份报告给市场带来了巨大的负面冲击。

@@ -1,47 +1,46 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Communist Party
+- NATO
+- European Union
+- Hamas
+- Israeli military
+- Israeli government
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Xi Jinping
+- Scott Bessant
+- Pete Hgsith
+- Benjamin Netanyahu
+products_models:
+- Fentanyl
+- Semiconductors
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=aXd0dTfc2Pk
 speaker: New York Times Podcasts
-tags:
-  - rare-earth-metals
-  - trade-war
-  - supply-chain-disruption
-  - geopolitical-leverage
-  - manufacturing-dominance
-title: 中美贸易战升级：稀土限制与全球供应链的未来
-summary: 本期播客深入探讨了中美贸易战的最新升级，特别是中国对稀土出口实施的严厉新限制。文章分析了这些限制对全球供应链、美国制造业和国家安全造成的潜在损害，以及对欧洲汽车市场和俄乌冲突的影响。讨论还触及了中国采取强硬立场的动机，以及这种策略可能带来的长期经济风险，并展望了未来中美谈判的可能走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Scott Bessant
-  - Pete Hgsith
-  - Benjamin Netanyahu
-companies_orgs:
-  - Communist Party
-  - NATO
-  - European Union
-  - Hamas
-  - Israeli military
-  - Israeli government
-products_models:
-  - Fentanyl
-  - Semiconductors
-media_books: []
 status: evergreen
+summary: 本期播客深入探讨了中美贸易战的最新升级，特别是中国对稀土出口实施的严厉新限制。文章分析了这些限制对全球供应链、美国制造业和国家安全造成的潜在损害，以及对欧洲汽车市场和俄乌冲突的影响。讨论还触及了中国采取强硬立场的动机，以及这种策略可能带来的长期经济风险，并展望了未来中美谈判的可能走向。
+tags:
+- geopolitical
+- manufacturing
+- rare-earth-metal
+- supply-chain-disruption
+- trade-war
+title: 中美贸易战升级：稀土限制与全球供应链的未来
 ---
+
 ### 中美贸易战：紧张局势升级
 
 Natalie Kitrov: 大家好，我是Natalie Kitrov，这里是《纽约时报》的每日播客。

@@ -1,39 +1,38 @@
 ---
-author: 投资TALK君
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Nvidia
+- Federal Reserve
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 小陶
+- Donald Trump
+- Hassett
+- Jerome Powell
+products_models:
+- TLT
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=M92E2VtGaFk
 speaker: 投资TALK君
-tags:
-  - ai
-  - nvidia
-  - federal-reserve
-  - macro-economics
-  - stock-market
-title: 市场周报与英伟达估值：宏观数据前瞻与美联储主席人选分析
-summary: 本期节目由市场分析员小陶主讲，回顾了过去一周的市场走势，包括股指、债券、大宗商品等资产表现，并分析了市场参与度。重点讨论了美联储主席人选的最新动态，特别是川普可能属意的候选人及其政策倾向。此外，节目深入剖析了英伟达的估值，认为其当前估值并不昂贵，并预测了未来盈利增长。最后，前瞻了本周即将公布的非农、失业率和CPI等宏观数据，并对通胀趋势及2026年标普500的估值与投资策略进行了展望。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - 小陶
-  - Donald Trump
-  - Hassett
-  - Jerome Powell
-companies_orgs:
-  - Nvidia
-  - Federal Reserve
-products_models:
-  - TLT
-media_books: []
 status: evergreen
+summary: 本期节目由市场分析员小陶主讲，回顾了过去一周的市场走势，包括股指、债券、大宗商品等资产表现，并分析了市场参与度。重点讨论了美联储主席人选的最新动态，特别是川普可能属意的候选人及其政策倾向。此外，节目深入剖析了英伟达的估值，认为其当前估值并不昂贵，并预测了未来盈利增长。最后，前瞻了本周即将公布的非农、失业率和CPI等宏观数据，并对通胀趋势及2026年标普500的估值与投资策略进行了展望。
+tags:
+- federal-reserve
+- financial
+- stock-market
+title: 市场周报与英伟达估值：宏观数据前瞻与美联储主席人选分析
+companies:
+- nvidia
 ---
+
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员**小陶**。有几天没有和大家见面，甚是想念，所以今天为大家准备了非常多的内容，来和大家分享。
 
 首先，我们先对过去一周市场的走势去做一个总结。当下市场的参与度，**标普**、**纳指**还有**罗素2000**，看一下哪一个指数现在市场更加的乐观。然后我们来聊一下**AI**这一块，市场现在对于AI不是那么的看好。我今天以**英伟达**为例，其实我个人认为英伟达现在的一个估值算不上贵，某种程度算得上是便宜的。为什么我认为是便宜的，后面和大家分享一下。

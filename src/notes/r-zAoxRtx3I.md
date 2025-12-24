@@ -1,68 +1,68 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 路透社
+- 彭博社
+- 华尔街日报
+- 经济学人
+- 白宫
+- 中国商务部
+- 七国集团
+- 东盟
+- 欧盟
+- 德国央行
+- 中国共产党中央军事委员会
+- 中国国防部
+- 共青团
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《热点透视》
+- 《经济学人》
+- 《路透社》
+- 《彭博社》
+- 《华尔街日报》
+- 《BBC》
+people:
+- Xi Jinping
+- 唐纳德·川普
+- 李强
+- 金正恩
+- 王文涛
+- 何立峰
+- 凯瑟琳·德萨尔
+- 安娜莱娜·贝尔伯克
+- 约阿希姆·纳格尔
+- 董军
+- 蔡奇
+- 张又侠
+- 张升民
+- 史蒂文·姆努钦
+products_models:
+- 抖音TikTok
+- 原料药API
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=r-zAoxRtx3I
 speaker: LT視界
-tags:
-  - us-china-trade-war
-  - economic-coercion
-  - political-strategy
-  - military-purge
-  - authoritarian-consolidation
-title: 中美贸易战关键节点：习近平的“核选项”与军队清洗
-summary: 本期节目深入分析中美贸易战的最新动态，包括川习会前的紧张谈判、双方各自的“核选项”威胁，以及《经济学人》关于中国正在赢得贸易战的争议性观点。同时，节目还探讨了中德关系的恶化，以及中共四中全会后习近平对军队的清洗及其权力巩固的深层逻辑。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-  - 唐纳德·川普
-  - 李强
-  - 金正恩
-  - 王文涛
-  - 何立峰
-  - 凯瑟琳·德萨尔
-  - 安娜莱娜·贝尔伯克
-  - 约阿希姆·纳格尔
-  - 董军
-  - 蔡奇
-  - 张又侠
-  - 张升民
-  - 史蒂文·姆努钦
-companies_orgs:
-  - 路透社
-  - 彭博社
-  - 华尔街日报
-  - 经济学人
-  - 白宫
-  - 中国商务部
-  - 七国集团
-  - 东盟
-  - 欧盟
-  - 德国央行
-  - 中国共产党中央军事委员会
-  - 中国国防部
-  - 共青团
-products_models:
-  - 抖音TikTok
-  - 原料药API
-media_books:
-  - 《热点透视》
-  - 《经济学人》
-  - 《路透社》
-  - 《彭博社》
-  - 《华尔街日报》
-  - 《BBC》
 status: evergreen
+summary: 本期节目深入分析中美贸易战的最新动态，包括川习会前的紧张谈判、双方各自的“核选项”威胁，以及《经济学人》关于中国正在赢得贸易战的争议性观点。同时，节目还探讨了中德关系的恶化，以及中共四中全会后习近平对军队的清洗及其权力巩固的深层逻辑。
+tags:
+- economic
+- geopolitical
+- military
+- political-strategy
+- us-china-relations
+title: 中美贸易战关键节点：习近平的“核选项”与军队清洗
 ---
+
 ### 中美贸易战进入关键阶段
 
 我们首先来了解有关中美贸易战的七个方面的最新信息。

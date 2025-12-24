@@ -1,50 +1,50 @@
 ---
-author: 徒步的騎手
-date: 2025-01-19
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=Gr3NjrebTvg'
-speaker: 徒步的騎手
-tags:
-  - information-quality
-  - digital-divide
-  - media-literacy
-  - cognitive-bias
-  - internet-censorship
-title: 互联网时代的心智难民：信息鸿沟与阶层分化
-summary: 本文深入探讨了互联网时代信息消费模式对个体心智和整个社会阶层的影响。文章指出，所谓的“免费”劣质信息并非真正免费，其代价是精神世界的劣质化，进而导致社会分化为掌握高质量信息的精英阶层和被劣质信息充斥的“心智难民”。通过TikTok事件和中美信息环境对比，文章强调了在信息爆炸时代，批判性思维和信息鉴别力的极端重要性，并引用互联网先驱Tim O'Reilly的观点警示：在互联网上，如果你不付费，你就是被卖掉的产品。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Tim O'Reilly
-  - Barack Obama
-  - Sarah Palin
-  - Isaac Newton
-  - Augustine of Hippo
-  - George H.W. Bush
+category: general
 companies_orgs:
-  - TikTok
-  - 小红书
-  - YouTube
-  - Facebook
-  - Instagram
-  - Twitter
-  - 抖音
-  - Chrysler
-products_models:
-  - Honda Civic
-  - GMC Yukon SUV
+- TikTok
+- 小红书
+- YouTube
+- Meta
+- Instagram
+- Twitter
+- 抖音
+- Chrysler
+date: 2025-01-19
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《原罪与正义》
-  - Substack
+- 《原罪与正义》
+- Substack
+people:
+- Tim O'Reilly
+- Barack Obama
+- Sarah Palin
+- Isaac Newton
+- Augustine of Hippo
+- George H.W. Bush
+products_models:
+- Honda Civic
+- GMC Yukon SUV
+project:
+- us-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=Gr3NjrebTvg
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了互联网时代信息消费模式对个体心智和整个社会阶层的影响。文章指出，所谓的“免费”劣质信息并非真正免费，其代价是精神世界的劣质化，进而导致社会分化为掌握高质量信息的精英阶层和被劣质信息充斥的“心智难民”。通过TikTok事件和中美信息环境对比，文章强调了在信息爆炸时代，批判性思维和信息鉴别力的极端重要性，并引用互联网先驱Tim
+  O'Reilly的观点警示：在互联网上，如果你不付费，你就是被卖掉的产品。
+tags:
+- cognitive-bias
+- digital
+- information
+- internet-censorship
+- media-literacy
+title: 互联网时代的心智难民：信息鸿沟与阶层分化
 ---
 
 ### 引言：心智难民与信息时代

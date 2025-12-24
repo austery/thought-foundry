@@ -1,30 +1,29 @@
 ---
-title: 一句“孙子兵法”，如何让英国政坛教父身败名裂？
-summary: 英国驻美大使彼得·曼德尔森因与臭名昭著的金融家爱泼斯坦的往来邮件被曝光而身败名裂。邮件内容揭示了曼德尔森不仅与爱泼斯坦关系密切，甚至在其定罪后仍提供支持，并建议其运用“孙子兵法”反击，最终导致其被首相解职，引发了对精英体制和政府审查的深刻质疑。
 area: null
 category: null
-project: []
-tags:
-- media-leak
-- peter-mandelson
-- political-scandal
-- uk-politics
-people:
-- jeffrey-epstein
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-27'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- jeffrey-epstein
+- peter-mandelson
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fs3fNWb96ZA
+speaker: 北美王路飞
 status: evergreen
+summary: 英国驻美大使彼得·曼德尔森因与臭名昭著的金融家爱泼斯坦的往来邮件被曝光而身败名裂。邮件内容揭示了曼德尔森不仅与爱泼斯坦关系密切，甚至在其定罪后仍提供支持，并建议其运用“孙子兵法”反击，最终导致其被首相解职，引发了对精英体制和政府审查的深刻质疑。
+tags:
+- media
+- political-scandal
+- uk-politics
+title: 一句“孙子兵法”，如何让英国政坛教父身败名裂？
 ---
+
 ### 英国驻美大使彼得·曼德尔森与爱泼斯坦丑闻爆发
 
 近日，一则爆炸性新闻震动了英美政坛：英国新任驻美大使、工党传奇人物**彼得·曼德尔森**（Peter Mandelson: 英国工党资深政治家，曾任多项内阁职务，后任英国驻美大使），因其与臭名昭著的恋童癖金融家**爱泼斯坦**（Jeffrey Epstein: 臭名昭著的美国金融家，因性侵未成年少女被定罪）的关系被**彭博社**（Bloomberg News: 全球知名的金融信息与新闻服务提供商）曝光而身败名裂。现年71岁的曼德尔森，此前被任命为英国驻美大使，肩负着与**特朗普**（Donald Trump: 美国前总统）政府建立密切关系的重任，然而上任仅7个月，便被首相勒令解职。

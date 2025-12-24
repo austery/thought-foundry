@@ -1,38 +1,36 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-08-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 杨小凯
+- 林毅夫
+- Daron Acemoglu
+- 托尔斯泰
+- 陀思妥耶夫斯基
+- 索尔仁尼琴
+- 戈尔巴乔夫
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=pE6-4vWAamk
 speaker: 徒步的騎手
-tags:
-  - latecomer-disadvantage
-  - institutional-economics
-  - development-trap
-  - sino-economic-model
-title: 杨小凯 vs 林毅夫：中国为何两度陷入“后发劣势”的陷阱？
-summary: 本文深入探讨了经济学家杨小凯提出的“后发劣势”理论，并将其与林毅夫的“后发优势”理论进行对比，以解释为何许多后发国家的短期成功反而锁定了长期失败。文章分析了中国在近代史和改革开放后两次陷入“中学为体，西学为用”的模式，即只进行技术模仿而回避根本的制度改革。这种模式虽然能带来短期经济增长，但最终会导致经济停滞和社会僵化，形成一种比崩溃更具杀伤力的“溃而不崩”状态，让几代人陷入长期的困顿。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 杨小凯
-  - 林毅夫
-  - Daron Acemoglu
-  - 托尔斯泰
-  - 陀思妥耶夫斯基
-  - 索尔仁尼琴
-  - 戈尔巴乔夫
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了经济学家杨小凯提出的“后发劣势”理论，并将其与林毅夫的“后发优势”理论进行对比，以解释为何许多后发国家的短期成功反而锁定了长期失败。文章分析了中国在近代史和改革开放后两次陷入“中学为体，西学为用”的模式，即只进行技术模仿而回避根本的制度改革。这种模式虽然能带来短期经济增长，但最终会导致经济停滞和社会僵化，形成一种比崩溃更具杀伤力的“溃而不崩”状态，让几代人陷入长期的困顿。
+tags:
+- development
+- economic
+- history
+- institutional
+title: 杨小凯 vs 林毅夫：中国为何两度陷入“后发劣势”的陷阱？
 ---
 
 ### “溃而不崩”：一种更具杀伤力的状态

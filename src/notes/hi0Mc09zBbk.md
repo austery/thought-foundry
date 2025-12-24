@@ -1,50 +1,50 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2022-10-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《反穀》
+- 《吉尔伽美什史诗》
+- 《周礼》
+people:
+- James Scott
+- Melinda Zeder
+- Ester Boserup
+- Max Weber
+- Marshall Sahlins
+- Robert Carneiro
+- Owen Lattimore
+- Aristotle
+- Socrates
+- Plato
+- Thucydides
+- Brasidas
+- Attila
+- Enkidu
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=hi0Mc09zBbk
 speaker: 超級歪 SuperY
-tags:
-  - state-formation
-  - civilization-critique
-  - agricultural-origins
-  - taxation-systems
-  - forced-labor
-  - nomadic-life
-title: 颠覆传统认知：国家是如何诞生的？《反穀》揭示文明起源的另一面
-summary: 本期节目深入探讨美国人类学家詹姆斯·斯科特在《反穀》一书中提出的国家起源新观点。传统观念认为农业发展自然导致定居和国家形成，但最新考古证据表明，国家在农业出现数千年后才诞生。文章揭示了国家如何利用谷物进行税收、通过官僚体系和文字进行人口控制、以及早期国家伴随的疾病、强制劳动和生活质量下降等问题。同时，重新评估了所谓“野蛮人”的自由生活，挑战了将帝国强大等同于文明进步的传统叙事，指出国家并非人类历史的常数。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - James Scott
-  - Melinda Zeder
-  - Ester Boserup
-  - Max Weber
-  - Marshall Sahlins
-  - Robert Carneiro
-  - Owen Lattimore
-  - Aristotle
-  - Socrates
-  - Plato
-  - Thucydides
-  - Brasidas
-  - Attila
-  - Enkidu
-companies_orgs: []
-products_models: []
-media_books:
-  - 《反穀》
-  - 《吉尔伽美什史诗》
-  - 《周礼》
 status: evergreen
+summary: 本期节目深入探讨美国人类学家詹姆斯·斯科特在《反穀》一书中提出的国家起源新观点。传统观念认为农业发展自然导致定居和国家形成，但最新考古证据表明，国家在农业出现数千年后才诞生。文章揭示了国家如何利用谷物进行税收、通过官僚体系和文字进行人口控制、以及早期国家伴随的疾病、强制劳动和生活质量下降等问题。同时，重新评估了所谓“野蛮人”的自由生活，挑战了将帝国强大等同于文明进步的传统叙事，指出国家并非人类历史的常数。
+tags:
+- agricultural-origin
+- critique
+- labor
+- life
+- state
+- system
+title: 颠覆传统认知：国家是如何诞生的？《反穀》揭示文明起源的另一面
 ---
+
 ### 重新审视国家起源：挑战传统文明叙事
 
 今年八月，南希·佩洛西访问台湾，国家安全、统独议题再次引发热议。台湾将如何在中国和美国这两个大帝国之间找到出路？要厘清这个问题，我们首先必须理解“国家”究竟是什么。今天我们要面对的这本书——**《反穀》**（Against the Grain: A Deep History of the Earliest States，一本挑战传统国家起源论的著作），便探讨了国家是一种怎样的存在。本书的作者是美国人类学家詹姆斯·斯科特。他在这本书中，以最新的考古证据重述了国家的起源，颠覆了我们对文明的传统看法。

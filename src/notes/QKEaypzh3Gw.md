@@ -1,53 +1,53 @@
 ---
-author: Nico投资有道
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- Meta
+- Amazon
+- OpenAI
+- Microsoft
+- Tesla
+- X
+- 复星券商
 date: '2025-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Mark Zuckerberg
+- Elon Musk
+products_models:
+- Gemini
+- AI Overview
+- ChatGPT
+- Grok
+- Facebook
+- Instagram
+- WhatsApp
+- AWS
+- Azure
+- Telegram
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=QKEaypzh3Gw
 speaker: Nico投资有道
-tags:
-  - us-stock-market
-  - earnings-season
-  - ai-investment
-  - long-term-investing
-  - capital-expenditure
-title: 美股财报季深度解读：Nico分享三支看好股票的投资逻辑与AI赋能
-summary: 本期视频Nico深入分析了美股科技巨头第三季度财报，重点解读Google、Meta和Amazon的业绩表现、AI战略布局及未来增长潜力。他分享了对这三家公司的买入计划和长期投资逻辑，强调AI对核心业务的赋能作用，并探讨了当前市场对AI泡沫的担忧与科技巨头加大资本开支的对比，为美股投资者提供了重要的基本面分析视角。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Mark Zuckerberg
-  - Elon Musk
-companies_orgs:
-  - Google
-  - Meta
-  - Amazon
-  - OpenAI
-  - Microsoft
-  - Tesla
-  - X
-  - 复星券商
-products_models:
-  - Gemini
-  - AI Overview
-  - ChatGPT
-  - Grok
-  - Facebook
-  - Instagram
-  - WhatsApp
-  - AWS
-  - Azure
-  - Telegram
-media_books: []
 status: evergreen
+summary: 本期视频Nico深入分析了美股科技巨头第三季度财报，重点解读Google、Meta和Amazon的业绩表现、AI战略布局及未来增长潜力。他分享了对这三家公司的买入计划和长期投资逻辑，强调AI对核心业务的赋能作用，并探讨了当前市场对AI泡沫的担忧与科技巨头加大资本开支的对比，为美股投资者提供了重要的基本面分析视角。
+tags:
+- ai-investment
+- capital-expenditure
+- earnings-season
+- long-term-investing
+- us-stock-market
+title: 美股财报季深度解读：Nico分享三支看好股票的投资逻辑与AI赋能
 ---
+
 ### 美股财报季高潮：投资策略与基本面分析
 
 本周，**美股财报季**（Earnings Season: 上市公司定期公布财务业绩的时期）正式进入高潮，各大科技巨头的三季度财报数据陆续公布。在看完这些财报之后，我正在买入三家公司的股票。如果你想知道我买了哪些股票、我看好的原因、我的买入计划以及我对未来美股走势的看法，请务必完整看完这期视频，相信会对你的美股投资有所帮助。

@@ -1,30 +1,30 @@
 ---
-title: 《Just Keep Buying》深度解读指南
-summary: null
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-  - 投资
-  - 理财
-  - 财富积累
-people:
-- nickmaggiulli
-companies_orgs: []
-products_models: []
-media_books:
-- justkeepbuying
-date: '2025-07-10'
+area: finance-wealth
 author: Lei
-speaker: null
+category: stock-investment
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+media_books:
+- justkeepbuying
+people:
+- nickmaggiulli
+products_models: []
+project:
+- investment-strategy
 series: null
 source: https://www.harriman-house.com/press/full/4200
+speaker: null
+summary: null
+tags:
+- wealth-accumulation
+- wealth-management
+title: 《Just Keep Buying》深度解读指南
 ---
+
 ### 作者背景: 数据分析达人 Nick Maggiulli
 
 Nick Maggiulli (昵称“老王”, Maggiulli

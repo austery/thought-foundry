@@ -1,68 +1,69 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中共
+- 国民党
+- 同盟会
 date: '2025-02-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《解放日报》
+- 《明史·海瑞传》
+- 《炎黄春秋》
+- BBC
+- 《自治通鉴》
+- 《论语》
+people:
+- 李南央
+- 李锐
+- 毛泽东
+- 柴静
+- 彭德怀
+- 周恩来
+- 田家英
+- 王实味
+- 胡乔木
+- 周小舟
+- 林彪
+- 刘少奇
+- 陈云
+- 邓小平
+- 胡耀邦
+- 赵紫阳
+- 朱德
+- 张闻天
+- 黄克诚
+- 罗瑞卿
+- 薄一波
+- 李继芳
+- 宋教仁
+- 黄兴
+- 丁玲
+- 陈伯达
+- 李慎之
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=dGA16idg4lg
 speaker: 柴静 Chai Jing
-tags:
-  - ccp-history
-  - personality-cult
-  - intra-party-struggle
-  - intellectual-persecution
-  - historical-truth
-title: 李南央对话柴静：父亲李锐的笔记如何打破我的“毛泽东神话”
-summary: 毛泽东前秘书李锐之女李南央，在与柴静的对话中，深入回顾了其父一生的政治浮沉。她讲述了父亲如何从一位投奔延安的理想主义青年，因反对“大跃进”而在庐山会议上被打倒，并经历了二十年的流放与监禁。通过整理父亲留下的海量日记与口述史，李南央揭示了中共党内斗争的残酷真相，以及知识分子在其中的“原罪”感。这次对话不仅是对个人家庭史的回溯，更是对一段宏大历史的微观审视，探讨了个人崇拜的形成、极权体制的运作以及历史真相的力量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 李南央
-  - 李锐
-  - 毛泽东
-  - 柴静
-  - 彭德怀
-  - 周恩来
-  - 田家英
-  - 王实味
-  - 胡乔木
-  - 周小舟
-  - 林彪
-  - 刘少奇
-  - 陈云
-  - 邓小平
-  - 胡耀邦
-  - 赵紫阳
-  - 朱德
-  - 张闻天
-  - 黄克诚
-  - 罗瑞卿
-  - 薄一波
-  - 李继芳
-  - 宋教仁
-  - 黄兴
-  - 丁玲
-  - 陈伯达
-  - 李慎之
-companies_orgs:
-  - 中共
-  - 国民党
-  - 同盟会
-products_models: []
-media_books:
-  - 《解放日报》
-  - 《明史·海瑞传》
-  - 《炎黄春秋》
-  - BBC
-  - 《自治通鉴》
-  - 《论语》
 status: evergreen
+summary: 毛泽东前秘书李锐之女李南央，在与柴静的对话中，深入回顾了其父一生的政治浮沉。她讲述了父亲如何从一位投奔延安的理想主义青年，因反对“大跃进”而在庐山会议上被打倒，并经历了二十年的流放与监禁。通过整理父亲留下的海量日记与口述史，李南央揭示了中共党内斗争的残酷真相，以及知识分子在其中的“原罪”感。这次对话不仅是对个人家庭史的回溯，更是对一段宏大历史的微观审视，探讨了个人崇拜的形成、极权体制的运作以及历史真相的力量。
+tags:
+- historical
+- history
+- party
+- psychology
+title: 李南央对话柴静：父亲李锐的笔记如何打破我的“毛泽东神话”
+companies:
+- intellectual-persecution
 ---
+
 ### 人都要受四种限制，马恩列斯毛也不例外
 
 六年前，曾担任毛泽东秘书的李锐先生在北京去世。1958年，李锐因反对三峡工程上马，被毛泽东指定为自己的秘书。然而仅一年半后，由于反对**大跃进**（Great Leap Forward: 1958年至1961年在中国发起的一场旨在快速实现工业化和农业集体化的政治运动，最终导致了大规模饥荒），他被认定为“彭德怀反党集团”成员，此后二十年，过着流放的生活。直到生命尽头，李锐始终坚持自己的政治信仰，积极鼓吹**宪政**（Constitutionalism: 一种主张国家权力依据宪法受到限制、公民权利得到保障的政治理念）。

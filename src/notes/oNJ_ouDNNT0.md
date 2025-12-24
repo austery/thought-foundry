@@ -1,33 +1,29 @@
 ---
-title: 凯茜·伍德：AI如何使GDP翻倍，比特币牛市目标150万美元，以及埃隆的万亿薪酬
-summary: 凯茜·伍德分析了颠覆性创新如何重塑经济，预测AI将加速GDP增长并抑制通胀。她分享了ARK的投资策略，包括比特币和特斯拉的展望，并讨论了零售投资者准入及公司治理等挑战。
-area: market-analysis
-category: finance
-project:
-- ai-impact-analysis
-- investment-strategy
-tags:
-- ai
-- all-in-podcast
-- disruptive-innovation
-- economic-forecast
-- investment-strategy
-people: []
-companies_orgs: []
-products_models:
-- bitcoin
-media_books: []
-date: '2025-10-14'
+area: tech-engineering
 author: All-In Podcast
-speaker: All-In Podcast
+category: ai-ml
+companies_orgs: []
+date: '2025-10-14'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- bitcoin
+project:
+- ai-impact-analysis
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=oNJ_ouDNNT0
+speaker: all-in-podcast
 status: evergreen
+summary: 凯茜·伍德分析了颠覆性创新如何重塑经济，预测AI将加速GDP增长并抑制通胀。她分享了ARK的投资策略，包括比特币和特斯拉的展望，并讨论了零售投资者准入及公司治理等挑战。
+tags:
+- economic
+- innovation
+title: 凯茜·伍德：AI如何使GDP翻倍，比特币牛市目标150万美元，以及埃隆的万亿薪酬
 ---
+
 ### 颠覆性创新：经济增长的驱动力
 
 **Host:** One of the most disruptive and innovative forces in the **ETF** (Exchange Traded Fund: 一种在交易所交易的基金) world today, the investor queen Cathie Wood. The **ARK Innovation ETF** (ARK创新ETF: 一种由方舟投资公司管理的交易所交易基金) is now trading near a 52-week high, having returned an astounding 148% and more than 170% last year, and now has $17 billion under management. My conviction is so high because of what I do on a day-to-day basis. We are doing original research, trying to figure out these companies that are going to transform the world.

@@ -5,16 +5,14 @@ area: null
 category: null
 project: []
 tags:
-  - 创造力
-  - 多巴胺
-  - 无聊
-  - 空白焦虑
+- psychology
+- 创造力
+- 无聊
 people:
-  - 小蓝
-  - 潘潘
+- 小蓝
+- 潘潘
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-08-18
 author: Lei
 speaker: ''
@@ -27,6 +25,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 引言：我们为何害怕无聊？
 
 小蓝: 嘿，找到你，欢迎乘坐我们的成长列车。我是小兰。

@@ -1,33 +1,30 @@
 ---
-title: GitHub CEO Thomas Dohmke的AI预言：开发者奥德赛与编程未来
-summary: GitHub CEO Thomas Dohmke即将离职，GitHub将并入微软Core AI团队。他预言未来两年内90%代码由AI生成，开发者将面临新阶层分化，并探讨AI编程对通用人工智能的关键作用，以及AI
-  Agent如何重塑软件开发流程和协作模式。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- vibe-coding
-tags:
-- ai-agent
-- ai-programming
-- developer-future
-- github-copilot
-- software-development
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-22'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- vibe-coding
 series: ''
 source: https://www.youtube.com/watch?v=Qn5eCavq68I
+speaker: Best Partners TV
 status: evergreen
+summary: GitHub CEO Thomas Dohmke即将离职，GitHub将并入微软Core AI团队。他预言未来两年内90%代码由AI生成，开发者将面临新阶层分化，并探讨AI编程对通用人工智能的关键作用，以及AI
+  Agent如何重塑软件开发流程和协作模式。
+tags:
+- ai-agent
+- future
+- llm
+- software-development
+title: GitHub CEO Thomas Dohmke的AI预言：开发者奥德赛与编程未来
 ---
+
 ### GitHub重组与AI编程的野心
 
 科技圈近期传出一个重磅消息，GitHub的首席执行官**托马斯·多姆克**（Thomas Dohmke）宣布将在年底离职，转而投身创业。与此同时，**GitHub**（全球最大的开发者社区和代码托管平台）将不再聘请新的CEO，而是把整个公司并入微软新组建的Core AI团队。作为全球最大的开发者社区和代码托管平台，GitHub一直以来都是开发者们的重要阵地。然而，它将很快不再被仅仅视为一个“开发者社区”，而是要成为微软AI工具链的底座。这一转变无疑显示出微软在AI编程领域的野心，也预示着未来AI编程工具的竞争将更加激烈和多元化。

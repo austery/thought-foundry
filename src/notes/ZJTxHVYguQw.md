@@ -1,53 +1,52 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- MI6
+- Goldman Sachs
+- IRGC
+- NATO
+- OPEC
+- CNN
+- Federal Reserve
+- Circle
+- Tether
 date: '2025-07-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Jerome Powell
+- Khamenei
+- Vladimir Putin
+- Elon Musk
+- Benjamin Netanyahu
+- Alex
+products_models:
+- USDT
+- USDC
+- Bitcoin
+- ETF
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ZJTxHVYguQw
 speaker: Shanghao Jin
-tags:
-  - us-stock-market
-  - trump-policies
-  - geopolitical-risk
-  - oil-prices
-  - stablecoins
-title: 市场概述：美股高位、特朗普政策与全球地缘政治及市场展望
-summary: 本期节目深入分析了当前美股市场的高位运行及其背后的驱动因素，包括对特朗普政策、地缘政治风险（特别是伊朗核危机）以及美联储货币政策的预期。主持人详细探讨了油价走势、特朗普“大美丽法案”面临的挑战，并对稳定币在宏观经济和加密货币市场中的作用进行了评估。节目指出，尽管市场普遍乐观，但估值偏高及地缘政治不确定性仍是潜在风险，并强调了美国在AI和科技领域的特殊优势。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Khamenei
-  - Vladimir Putin
-  - Elon Musk
-  - Benjamin Netanyahu
-  - Alex
-companies_orgs:
-  - MI6
-  - Goldman Sachs
-  - IRGC
-  - NATO
-  - OPEC
-  - CNN
-  - Federal Reserve
-  - Circle
-  - Tether
-products_models:
-  - USDT
-  - USDC
-  - Bitcoin
-  - ETF
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了当前美股市场的高位运行及其背后的驱动因素，包括对特朗普政策、地缘政治风险（特别是伊朗核危机）以及美联储货币政策的预期。主持人详细探讨了油价走势、特朗普“大美丽法案”面临的挑战，并对稳定币在宏观经济和加密货币市场中的作用进行了评估。节目指出，尽管市场普遍乐观，但估值偏高及地缘政治不确定性仍是潜在风险，并强调了美国在AI和科技领域的特殊优势。
+tags:
+- environment
+- geopolitical-risk
+- stablecoin
+- trump-policy
+- us-stock-market
+title: 市场概述：美股高位、特朗普政策与全球地缘政治及市场展望
 ---
+
 ### 美股市场回顾与展望
 
 美股近期走出了一个**历史新高**（All-time High），这在一定程度上出乎意料。此前，美股在四月份出现下跌，主要受三方面因素影响：首先是**特朗普**（Donald Trump）的政策，市场将其视为一种**尾部风险**（Tail Risk: 指发生概率极低但一旦发生影响极大的事件），其发展具有高度不确定性。其次，市场开始对特朗普政策的负面影响进行定价，认为这可能终结**美国特殊性**（US Exceptionalism: 指美国在政治、经济、军事等方面被认为独一无二的地位），尤其是在AI投资地位方面。当时市场普遍认为，特朗普的政策会削弱美国公司在全球的影响力，从而结束美国的特殊性，其中AI领域受影响最严重。然而，我们当时认为美国的特殊性并未取消，特别是在AI和科技领域的优势，短期内难以被动摇，因此科技公司和半导体公司的业绩不会太差，尤其是半导体行业，其确定性很强。第三个导致前期市场波动和下跌的原因是市场同时在定价十年期国债达到5%的可能性，这包括对美国财政支出、特朗普“**大美丽法案**”（Big Beautiful Bill: 特朗普提出的综合性法案）以及国债供应和货币政策的担忧。我们从一开始就排除了美国国债会跌到5%以及美国会出现货币问题的可能性。尽管如此，我对**关税**（Tariff: 国家对进出口商品征收的税）的估计可能更为严重，以至于在市场下跌时我既没有加仓也没有减仓，一直持有AI和半导体公司的股票。

@@ -1,40 +1,39 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- S&P Global
+- Moody's
+- Fitch
+- Google
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models:
+- S&P 500 Index
+- Dow Jones Index
+- S&P 500 ETF
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=Fzlt6dIUq5Q
 speaker: Shijun Tang
-tags:
-  - stock-analysis
-  - business-model
-  - competitive-advantage
-  - financial-performance
-  - investment-thesis
-title: 深度解析标普全球（SPGI）：被低估的金融市场基石与复利机器潜力
-summary: 本文深入分析美股标普全球（SPGI），探讨其在当前牛市中表现不佳的原因，并从公司财报、业务模式、竞争环境及护城河等多维度进行剖析。尽管SPGI股价表现平平，但其核心信用评级和指数业务拥有极高毛利率和法定护城河。文章详细审视了其财务状况、现金分配策略及品质评分，最终认为SPGI作为金融基础设施，其长期投资价值被市场低估，作者将继续持有该头寸。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Shijun Tang
-companies_orgs:
-  - S&P Global
-  - Moody's
-  - Fitch
-  - Google
-products_models:
-  - S&P 500 Index
-  - Dow Jones Index
-  - S&P 500 ETF
-media_books: []
 status: evergreen
+summary: 本文深入分析美股标普全球（SPGI），探讨其在当前牛市中表现不佳的原因，并从公司财报、业务模式、竞争环境及护城河等多维度进行剖析。尽管SPGI股价表现平平，但其核心信用评级和指数业务拥有极高毛利率和法定护城河。文章详细审视了其财务状况、现金分配策略及品质评分，最终认为SPGI作为金融基础设施，其长期投资价值被市场低估，作者将继续持有该头寸。
+tags:
+- business-model
+- competitive-advantage
+- financial-performance
+- investment-thesis
+- stock-analysis
+title: 深度解析标普全球（SPGI）：被低估的金融市场基石与复利机器潜力
 ---
+
 ### 美股标普全球（SPGI）的当前表现与投资疑问
 
 今天我们将深入探讨美股**标普全球**（S&P Global: 一家提供金融信息和分析服务的公司，股票代码SPGI）。标普全球今年的回报表现差强人意。在“七巨头”争相刷新历史新高之际，标普全球在这样一个大牛市中不进反退。截至今年11月，其**年初至今**（Year to Date, YTD: 从年初到当前日期的累计表现）的回报率为负0.38%。形成鲜明对比的是，其旗下的产品**标普500指数**（S&P 500 Index: 由标准普尔公司编制的美国500家大型上市公司股票指数），YTD却跑出了12.51%的年化率，表现远超其母公司。

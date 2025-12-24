@@ -1,30 +1,28 @@
 ---
-title: 社区驱动的公共安全转型：从帮派和平条约到全国倡议
-summary: Aqeela Sherrills讲述了她从帮派成员到和平倡导者的转变，以及如何通过社区主导的解决方案，显著降低暴力并重塑公共安全。
 area: null
 category: null
-project: []
-tags:
-- community-violence-intervention
-- gang-peace-treaty
-- newark-strategy
-- public-safety
-- social-justice
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-10'
-author: TED
-speaker: TED
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IKOpcSRxHxQ
+speaker: TED
 status: evergreen
+summary: Aqeela Sherrills讲述了她从帮派成员到和平倡导者的转变，以及如何通过社区主导的解决方案，显著降低暴力并重塑公共安全。
+tags:
+- community-violence-intervention
+- history
+- public-safety
+- social-justice
+- strategy
+title: 社区驱动的公共安全转型：从帮派和平条约到全国倡议
 ---
+
 ### 洛杉矶的和平协议
 
 In 1992, the year that the Los Angeles homicide rate reached an all-time high, members of the Crips and Bloods, two of the largest gangs in the US, sat down together and brokered a peace treaty.

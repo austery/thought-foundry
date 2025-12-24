@@ -1,40 +1,40 @@
 ---
-author: 课代表立正
+area: personal-systems
+category: career
+companies_orgs:
+- 腾讯
+- Statsig
+- Superlinear Academy
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary of A CEO
+- My First Million
+- Founders
+people:
+- Alex Hormozi
+products_models:
+- 从会工作到会赚钱
+project:
+- personal-growth-lab
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=9vlSuEgPPec
 speaker: 课代表立正
-tags:
-  - career-transition
-  - entrepreneurship
-  - employment-value
-  - personal-capital
-  - business-building
-title: 频道转型：从职业发展到商业创业——打工性价比的时代变迁
-summary: 主持人分享其频道从职业发展转向商业创业的转型，指出当前时代打工的性价比显著降低，而商业创业的天花板和成功率反而更高。他结合自身在腾讯和Statsig的经历，阐述了从高管职位转向自主创业的动因，强调了市场验证的重要性。文章还提供了从工作过渡到商业的策略，包括积累人力资本、利用课程辅助，并提醒读者转型过程的难度和所需时间，鼓励积极探索。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - Alex Hormozi
-companies_orgs:
-  - 腾讯
-  - Statsig
-  - Superlinear Academy
-products_models:
-  - 从会工作到会赚钱
-media_books:
-  - The Diary of A CEO
-  - My First Million
-  - Founders
 status: evergreen
+summary: 主持人分享其频道从职业发展转向商业创业的转型，指出当前时代打工的性价比显著降低，而商业创业的天花板和成功率反而更高。他结合自身在腾讯和Statsig的经历，阐述了从高管职位转向自主创业的动因，强调了市场验证的重要性。文章还提供了从工作过渡到商业的策略，包括积累人力资本、利用课程辅助，并提醒读者转型过程的难度和所需时间，鼓励积极探索。
+tags:
+- business
+- career-transition
+- entrepreneurship
+- personal
+- value
+title: 频道转型：从职业发展到商业创业——打工性价比的时代变迁
 ---
+
 ### 频道转型：从职业发展到商业创业
 
 今天，我想跟大家沟通一下我频道接下来重点的变化，那就是从职业发展转向商业。为什么会有这个变化呢？因为时代变了。在上一个时代，如果你想要成功、想要赚钱、想要做一些有意义的事情，职场是我们成功率最大的机会。而且在那个时代，你只要肯努力，回报是很多的，似乎我们面前有无数的升职加薪，然后跳槽去更好公司的机会。可是在这个时代不是这个样子了。这个时代打工的性价比低了很多，而且很多东西并不受我们控制。相反的，做商业无论是天花板、成功率，还是我们做这件事情的成本，都变好了很多，让这个天平也向商业倾斜。

@@ -1,42 +1,40 @@
 ---
-author: Veritasium
-date: '2023-11-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FUHkTs-Ipfg
-speaker: Veritasium
-tags:
-  - veritasium
-  - coin-rotation-paradox
-  - sat-exam
-  - sidereal-time
-  - problem-solving
-  - mathematical-puzzles
-title: SAT史上无人答对的数学题：硬币悖论与时间之谜
-summary: 本文探讨了1982年SAT考试中一道无人答对的数学题，揭示了看似简单的圆周滚动问题背后隐藏的“硬币旋转悖论”。文章深入分析了该悖论的数学原理及其在天文学中对恒星年与太阳日的解释，同时回顾了这道错误题目对考生和考试机构的影响，强调了实践探索在理解科学现象中的重要性。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Shivan Kartha
-  - Bruce Taub
-  - Doug Jungreis
+category: science
 companies_orgs:
-  - College Board
-  - Educational Testing Service
-  - NBC News
+- College Board
+- Educational Testing Service
+- NBC News
+date: '2023-11-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Shivan Kartha
+- Bruce Taub
+- Doug Jungreis
 products_models:
-  - SAT
-  - Brilliant
-  - Scientific Thinking
-media_books: []
+- SAT
+- Brilliant
+- Scientific Thinking
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=FUHkTs-Ipfg
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了1982年SAT考试中一道无人答对的数学题，揭示了看似简单的圆周滚动问题背后隐藏的“硬币旋转悖论”。文章深入分析了该悖论的数学原理及其在天文学中对恒星年与太阳日的解释，同时回顾了这道错误题目对考生和考试机构的影响，强调了实践探索在理解科学现象中的重要性。
+tags:
+- investment
+- problem
+- sat-exam
+- science
+- time
+title: SAT史上无人答对的数学题：硬币悖论与时间之谜
 ---
+
 ### 1982年SAT的“送命题”
 
 1982年，一道**SAT**（Scholastic Assessment Test: 学术能力评估测试）数学题让所有考生都答错了。题目如下：

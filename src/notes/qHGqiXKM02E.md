@@ -1,63 +1,62 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- Department of Justice
+- Senate
+- House of Representatives
+- Smithsonian Institution
 date: '2025-10-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《更高的忠诚》
+- Fox News
+- Newsmax
+- 《华盛顿邮报》
+- ABC
+people:
+- James Comey
+- Lindsey Halligan
+- Donald Trump
+- Ted Cruz
+- Andrew McCabe
+- Hillary Clinton
+- Patrick Fitzgerald
+- Rod Blagojevich
+- Dick Cheney
+- Michael Luttig
+- Joe Biden
+- Eric Siebert
+- Natasha James
+- Bondi
+- Blanche
+- Adam Schiff
+- Marine Comey
+- Troy Edwards
+- Patrice Comey
+- Anthony Weiner
+- trump-comey-feud
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qHGqiXKM02E
 speaker: 记者易速利
-tags:
-  - political-prosecution
-  - justice-system-integrity
-  - trump-comey-feud
-  - congressional-testimony
-  - election-influence
-title: 特朗普前私人律师起诉科米：一场充满政治色彩的司法对决
-summary: 本文深入探讨了前联邦调查局局长詹姆斯·科米被起诉的案件，该案由特朗普的前私人律师林塞·哈里根主导。起诉指控科米向国会撒谎并妨碍调查，但科米的强大辩护团队质疑其政治报复性质。文章详细介绍了哈里根的背景、科米与特朗普的恩怨、以及此案对美国司法系统公正性的影响，并分析了案件的复杂性和未来走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - James Comey
-  - Lindsey Halligan
-  - Donald Trump
-  - Ted Cruz
-  - Andrew McCabe
-  - Hillary Clinton
-  - Patrick Fitzgerald
-  - Rod Blagojevich
-  - Dick Cheney
-  - Michael Luttig
-  - Joe Biden
-  - Eric Siebert
-  - Natasha James
-  - Bondi
-  - Blanche
-  - Adam Schiff
-  - Marine Comey
-  - Troy Edwards
-  - Patrice Comey
-  - Anthony Weiner
-companies_orgs:
-  - FBI
-  - Department of Justice
-  - Senate
-  - House of Representatives
-  - Smithsonian Institution
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 《更高的忠诚》
-  - Fox News
-  - Newsmax
-  - 《华盛顿邮报》
-  - ABC
 status: evergreen
+summary: 本文深入探讨了前联邦调查局局长詹姆斯·科米被起诉的案件，该案由特朗普的前私人律师林塞·哈里根主导。起诉指控科米向国会撒谎并妨碍调查，但科米的强大辩护团队质疑其政治报复性质。文章详细介绍了哈里根的背景、科米与特朗普的恩怨、以及此案对美国司法系统公正性的影响，并分析了案件的复杂性和未来走向。
+tags:
+- congressional-testimony
+- influence
+- political
+- system
+title: 特朗普前私人律师起诉科米：一场充满政治色彩的司法对决
 ---
 
 ### 科米被起诉案：开庭审理与辩方策略

@@ -1,51 +1,51 @@
 ---
-author: Bloomberg Podcasts
+area: society-thinking
+category: history
+companies_orgs:
+- MeatEater
+- Boone and Crockett Club
+- Random House Penguin
+- Ford
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《MeatEater's American History》
+people:
+- Steven Rinella
+- Daniel Boone
+- Davy Crockett
+- Theodore Roosevelt
+- George Washington
+- William T. Hornaday
+- Jim Bridger
+- Jedediah Smith
+- John Colter
+- Thomas Jefferson
+- Lewis
+- Clark
+- John Jacob Astor
+- Abraham Lincoln
+- Mack Faragher
+products_models: []
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Khk3VzVWE9k
 speaker: Bloomberg Podcasts
-tags:
-  - hunting
-  - economic-history
-  - wildlife-management
-  - conservation
-  - frontier-life
-title: 狩猎的经济史：从殖民时期到现代美国野生动物管理
-summary: 本播客探讨了狩猎在美国经济史中的核心作用，从殖民时期的鹿皮和熊油贸易，到工业革命时期对野牛皮的巨大需求。嘉宾史蒂文·里内拉揭示了丹尼尔·布恩等“长猎人”的生活，以及狩猎如何塑造了美国文化和货币概念。节目还深入讨论了野生动物的过度开发、早期保护主义的兴起，以及现代美国狩猎系统如何通过自我征税和许可证制度实现可持续发展。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project:
-  - us-analysis
-people:
-  - Steven Rinella
-  - Daniel Boone
-  - Davy Crockett
-  - Theodore Roosevelt
-  - George Washington
-  - William T. Hornaday
-  - Jim Bridger
-  - Jedediah Smith
-  - John Colter
-  - Thomas Jefferson
-  - Lewis
-  - Clark
-  - John Jacob Astor
-  - Abraham Lincoln
-  - Mack Faragher
-companies_orgs:
-  - MeatEater
-  - Boone and Crockett Club
-  - Random House Penguin
-  - Ford
-products_models: []
-media_books:
-  - 《MeatEater's American History》
 status: evergreen
+summary: 本播客探讨了狩猎在美国经济史中的核心作用，从殖民时期的鹿皮和熊油贸易，到工业革命时期对野牛皮的巨大需求。嘉宾史蒂文·里内拉揭示了丹尼尔·布恩等“长猎人”的生活，以及狩猎如何塑造了美国文化和货币概念。节目还深入讨论了野生动物的过度开发、早期保护主义的兴起，以及现代美国狩猎系统如何通过自我征税和许可证制度实现可持续发展。
+tags:
+- economic-history
+- environment
+- hunting
+- life
+- management
+title: 狩猎的经济史：从殖民时期到现代美国野生动物管理
 ---
+
 ### 熊肉的美味与狩猎的经济价值
 
 主持人讨论了熊肉的味道，嘉宾**史蒂文·里内拉**（Steven Rinella: 《MeatEater》的创始人兼作者）表示熊肉口感非常像牛肉，味道极佳。尽管在某些文化层面存在禁忌，例如佛罗里达州目前正在进行的**黑熊**（Black Bear）狩猎引发了争议，但它确实是一种优质食物，在过去备受珍视。**丹尼尔·布恩**（Daniel Boone: 美国拓荒者、猎人）的另一项生意就是生产**熊肉培根**（Bear Bacon），供国内消费。**本杰明·富兰克林**（Benjamin Franklin: 美国开国元勋）甚至可能在费城的市场上购买到熊肉培根或熏制黑熊火腿，这在当时是一种非常受欢迎的食物。然而，熊肉可能携带**旋毛虫病**（Trichinosis: 由旋毛虫寄生引起的人畜共患病），在美国，大多数旋毛虫病病例并非来自猪，而是来自黑熊，因此必须彻底煮熟。尽管如此，里内拉的家人仍然大量食用熊肉。

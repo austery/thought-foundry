@@ -1,35 +1,36 @@
 ---
-author: TED
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ojfZMid20iA'
-speaker: TED
-tags:
-  - mercury-contamination
-  - artisanal-gold-mining
-  - deforestation
-  - public-health
-  - amazon-rainforest
-title: 黄金的隐性成本：亚马逊雨林中的汞污染与健康危机
-summary: Claudia Vega揭示了手工黄金开采对亚马逊雨林造成的严重汞污染及其对环境和人类健康的深远影响。全球约20%的黄金来自这种开采方式，导致大规模毁林，并释放大量剧毒汞。文章探讨了汞的神经毒性、对原住民的危害，以及如何通过科学研究和信息传播来推动更负责任的采矿方式和消费选择，强调森林的价值远超黄金。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Claudia Vega
+category: general
 companies_orgs:
-  - Centro de Innovación Científica Amazónica
-  - WHO
-products_models: '[]'
+- Centro de Innovación Científica Amazónica
+- WHO
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Claudia Vega
+products_models: '[]'
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ojfZMid20iA
+speaker: TED
 status: evergreen
+summary: Claudia Vega揭示了手工黄金开采对亚马逊雨林造成的严重汞污染及其对环境和人类健康的深远影响。全球约20%的黄金来自这种开采方式，导致大规模毁林，并释放大量剧毒汞。文章探讨了汞的神经毒性、对原住民的危害，以及如何通过科学研究和信息传播来推动更负责任的采矿方式和消费选择，强调森林的价值远超黄金。
+tags:
+- deforestation
+- mercury-contamination
+- public-health
+- technology
+title: 黄金的隐性成本：亚马逊雨林中的汞污染与健康危机
+companies:
+- amazon-rainforest
 ---
+
 ### 序言：森林的价值与黄金的代价
 
 从小我就热爱大自然，我一直喜欢置身森林的感觉。

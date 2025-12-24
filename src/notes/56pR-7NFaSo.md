@@ -1,62 +1,61 @@
 ---
-author: 知行小酒馆
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 沃托组织
+- 东印度公司
+- 晋商
+- 日升昌
+- 大盛魁
+- 广州十三行
+- 票号
 date: '2025-09-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《危机、改革与崩溃》
+- 《大明王朝1566》
+people:
+- 于小华
+- 忽必烈
+- 朱元璋
+- 雍正
+- 乾隆
+- 张居正
+- 崇祯
+- 李自成
+- 哥伦布
+- 马可·波罗
+- 曾国藩
+- 李鸿章
+- 赫德
+- 胡雪岩
+- 林则徐
+- 华盛顿
+- 丹尼·罗德里克
+- 彭慕兰
+- 魏忠贤
+- 徐阶
+- 左宗棠
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=56pR-7NFaSo
 speaker: 知行小酒馆
-tags:
-  - dynastic-cycle
-  - fiscal-collapse
-  - globalization-impact
-  - monetary-policy
-title: 元明清七百年兴衰史：财政与货币如何决定帝国命运
-summary: 本文以金融和全球化的独特视角，深入剖析了元、明、清三个王朝七百年的兴衰历程。文章逐一探讨了元朝的纸币实验、明朝对全球白银流动的依赖，以及清朝在财政集权下的繁荣与最终的金融崩溃。通过分析这三个帝国的财政结构、货币政策及其在全球贸易网络中的角色，揭示了财政赤字、利益固化和外部冲击如何共同塑造了帝国的最终命运。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 于小华
-  - 忽必烈
-  - 朱元璋
-  - 雍正
-  - 乾隆
-  - 张居正
-  - 崇祯
-  - 李自成
-  - 哥伦布
-  - 马可·波罗
-  - 曾国藩
-  - 李鸿章
-  - 赫德
-  - 胡雪岩
-  - 林则徐
-  - 华盛顿
-  - 丹尼·罗德里克
-  - 彭慕兰
-  - 魏忠贤
-  - 徐阶
-  - 左宗棠
-companies_orgs:
-  - 沃托组织
-  - 东印度公司
-  - 晋商
-  - 日升昌
-  - 大盛魁
-  - 广州十三行
-  - 票号
-products_models: []
-media_books:
-  - 《危机、改革与崩溃》
-  - 《大明王朝1566》
 status: evergreen
+summary: 本文以金融和全球化的独特视角，深入剖析了元、明、清三个王朝七百年的兴衰历程。文章逐一探讨了元朝的纸币实验、明朝对全球白银流动的依赖，以及清朝在财政集权下的繁荣与最终的金融崩溃。通过分析这三个帝国的财政结构、货币政策及其在全球贸易网络中的角色，揭示了财政赤字、利益固化和外部冲击如何共同塑造了帝国的最终命运。
+tags:
+- cycle
+- financial
+- impact
+title: 元明清七百年兴衰史：财政与货币如何决定帝国命运
 ---
+
 ### 前言：以全球化视角重审帝国命运
 
 欢迎来到知行小酒馆，我们关注投资与更美好的生活。今天我们挑战一个宏大的主题：王朝的兴衰。但我们的切入点并非帝王将相或宫闱秘闻，而是一个更底层的视角：财政、税收、货币、人口与全球流动。

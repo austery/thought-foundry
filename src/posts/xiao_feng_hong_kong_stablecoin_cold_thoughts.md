@@ -6,17 +6,16 @@ area: null
 category: null
 project: []
 tags:
-  - rwa
-  - 区块链
-  - 数字资产监管
-  - 香港稳定币
+- blockchain
+- investment
+- technology
+- 香港稳定币
 people:
-  - 泓君
-  - 刘峰
-  - 肖风
+- 泓君
+- 刘峰
+- 肖风
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-08-01
 author: Lei
 speaker: ''
@@ -29,6 +28,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与介绍
 
 **泓君**: 欢迎收听硅谷101，这是一集硅谷101与 Web3 101 的串台节目。之前我们的节目聊过很多美元稳定币，就有很多听众给我们留言说能不能聊一下香港稳定币。这次我们的节目就请到了业界的大佬，HashKey Group 的董事长兼 CEO、万向区块链董事长肖风博士。Hello 肖博士，你好。

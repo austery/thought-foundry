@@ -1,46 +1,46 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Intel
+- Nvidia
+- Moomoo
+- Bloomberg
+- Federal Reserve
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《彭博》
+people:
+- Pat Gelsinger
+- Donald Trump
+- Xi Jinping
+- Jensen Huang
+products_models:
+- 18A
+- 14A
+- TLT
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=B9bkGvtXabg
 speaker: 投资TALK君
-tags:
-  - intel-earnings
-  - market-outlook
-  - ai-inference
-  - us-china-relations
-  - semiconductor-technology
-title: 英特尔财报深度解析：技术迭代、AI战略与中美谈判对市场的影响
-summary: 本期节目深入分析了英特尔强劲的第三季度财报，探讨了其在技术迭代、AI推理市场布局及与英伟达合作方面的未来展望。同时，节目还回顾了周四美股市场走势，并对即将公布的CPI数据以及中美领导人会晤的潜在影响进行了前瞻性分析。主持人强调了在财报季中，应专注于公司基本面而非短期股价波动，并对英特尔的长期发展潜力持乐观态度。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Pat Gelsinger
-  - Donald Trump
-  - Xi Jinping
-  - Jensen Huang
-companies_orgs:
-  - Intel
-  - Nvidia
-  - Moomoo
-  - Bloomberg
-  - Federal Reserve
-products_models:
-  - 18A
-  - 14A
-  - TLT
-media_books:
-  - 《彭博》
 status: evergreen
+summary: 本期节目深入分析了英特尔强劲的第三季度财报，探讨了其在技术迭代、AI推理市场布局及与英伟达合作方面的未来展望。同时，节目还回顾了周四美股市场走势，并对即将公布的CPI数据以及中美领导人会晤的潜在影响进行了前瞻性分析。主持人强调了在财报季中，应专注于公司基本面而非短期股价波动，并对英特尔的长期发展潜力持乐观态度。
+tags:
+- earning
+- llm
+- market-outlook
+- semiconductor-technology
+- us-china-relations
+title: 英特尔财报深度解析：技术迭代、AI战略与中美谈判对市场的影响
 ---
+
 各位观众大家好，欢迎来到一个即使昨天只睡了4个小时，今天还是元气满满，在凌晨为大家做视频的专业美股频道。我是市场分析员小涛。今天主要和大家聊一下周四盘后发布财报的英特尔。
 
 ### 市场概览与投资策略

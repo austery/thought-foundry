@@ -1,38 +1,38 @@
 ---
-author: KevinFeng 冯凯文
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Podcast
+people:
+- KevinFeng
+- Even
+- Alex
+- Dr. K
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Kt_QEMYCYt0
 speaker: KevinFeng 冯凯文
-tags:
-  - life-meaning
-  - happiness-pursuit
-  - sisyphus-syndrome
-  - personal-control
-  - ego-reduction
-  - digital-detox
-title: 为什么你总是开心不起来？找到生活意义的两阶段指南
-summary: 本视频深入探讨了现代人普遍感到不开心、生活缺乏意义的现象，并借鉴一场播客辩论的内容，提出了重新找回人生意义和快乐能力的具体方法。文章分析了导致“西西弗斯化”的两个主要原因：缺乏“游戏”与“奖励”的平衡，以及手机成瘾导致的感知力下降。随后，详细阐述了“准备阶段”的三个步骤（赋予意义、重新连接自我、缩小自我），以及“行动阶段”的两个步骤（重获掌控感、找到自我故事），为读者提供了实用的心理调适和行动策略。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - KevinFeng
-  - Even
-  - Alex
-  - Dr. K
-companies_orgs: []
-products_models: []
-media_books:
-  - Podcast
 status: evergreen
+summary: 本视频深入探讨了现代人普遍感到不开心、生活缺乏意义的现象，并借鉴一场播客辩论的内容，提出了重新找回人生意义和快乐能力的具体方法。文章分析了导致“西西弗斯化”的两个主要原因：缺乏“游戏”与“奖励”的平衡，以及手机成瘾导致的感知力下降。随后，详细阐述了“准备阶段”的三个步骤（赋予意义、重新连接自我、缩小自我），以及“行动阶段”的两个步骤（重获掌控感、找到自我故事），为读者提供了实用的心理调适和行动策略。
+tags:
+- control
+- digital
+- financial
+- geopolitical
+- life
+- psychology
+title: 为什么你总是开心不起来？找到生活意义的两阶段指南
 ---
+
 ### 为什么我们逐渐“西西弗斯化”？
 
 我第一次真正明白为什么会觉得不开心、生活没有意义，以及要怎么样重新找回自己变得快乐的能力。这支影片想要跟大家聊两件事：第一，为什么我们会逐渐**西西弗斯化**（Sisyphusification: 像希腊神话中被惩罚的西西弗斯一样，永无止境地重复徒劳无功的劳动），开始推石头，失去意义，不再开心；第二，怎么样重新找回人生的意义和方向，重新开心起来，过好每一天。如果你也感觉自己好像在推一颗永远都推不到山顶的石头，那么请坐下来倒杯咖啡。

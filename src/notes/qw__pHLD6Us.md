@@ -1,36 +1,35 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CBC
+- Al Jazeera
+- TVO Today
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Brian Stewart
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qw__pHLD6Us
 speaker: TVO Today
-tags:
-  - canada-global-standing
-  - diplomatic-influence
-  - foreign-aid
-  - media-coverage
-  - international-crises
-title: 加拿大在全球舞台上的地位：从“撒玛利亚国家”到影响力重建
-summary: 资深记者布莱恩·斯图尔特探讨了加拿大在全球舞台上的影响力变迁。他指出，加拿大护照曾象征着强大的外交影响力，尤其是在维和与对外援助方面被誉为“撒玛利亚国家”。然而，这种影响力在后期有所衰退，国际社会认为加拿大一度失去焦点。斯图尔特也观察到加拿大正努力重拾其在全球事务中的中心地位，并强调媒体在报道国际危机时应承担更多责任，不仅关注灾难，更要展现恢复与重建的希望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Brian Stewart
-companies_orgs:
-  - CBC
-  - Al Jazeera
-  - TVO Today
-products_models: []
-media_books: []
 status: evergreen
+summary: 资深记者布莱恩·斯图尔特探讨了加拿大在全球舞台上的影响力变迁。他指出，加拿大护照曾象征着强大的外交影响力，尤其是在维和与对外援助方面被誉为“撒玛利亚国家”。然而，这种影响力在后期有所衰退，国际社会认为加拿大一度失去焦点。斯图尔特也观察到加拿大正努力重拾其在全球事务中的中心地位，并强调媒体在报道国际危机时应承担更多责任，不仅关注灾难，更要展现恢复与重建的希望。
+tags:
+- crisis
+- global
+- influence
+- llm
+- media
+title: 加拿大在全球舞台上的地位：从“撒玛利亚国家”到影响力重建
 ---
+
 ### 加拿大护照的全球影响力今昔
 
 布莱恩·斯图尔特提到，他曾撰文指出，拥有一本加拿大护照在过去意义非凡，仅仅看到“加拿大”这个词，就感觉其中蕴含着某种力量。他认为，在某些领域，加拿大护照至今仍具有一定影响力。

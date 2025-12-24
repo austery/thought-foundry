@@ -1,44 +1,42 @@
 ---
-author: 徒步的騎手
-date: 2025-02-11
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=Rp03uYZbh6g'
-speaker: 徒步的騎手
-tags:
-  - us-politics
-  - executive-orders
-  - political-strategy
-  - constitutional-limits
-  - public-discourse
-title: 让子弹飞一会儿：解析特朗普新政、行政命令与理性反应
-summary: 本文深入分析了特朗普上任初期通过行政命令推行“新政”的策略，特别是班农提出的“放水淹”战术。文章区分了公众对政治事件的本能反应（reflex）与理性反应（reaction），强调了美国宪政法治体系对总统权力的制约。同时，文章探讨了总统政治资本的有限性，并建议公民应聚焦真实信息，避免被虚假宣传误导，保持理性思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Donald Trump
-  - Steve Bannon
-  - Elon Musk
-  - Ezra Klein
-  - Ivan Pavlov
-  - Joseph Stalin
-  - Vladimir Lenin
+category: politics-society
 companies_orgs:
-  - CBS
-  - 联邦法院
-  - 美国最高法院
-products_models: '[]'
+- CBS
+- 联邦法院
+- 美国最高法院
+date: 2025-02-11
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 路透社
-  - Ezra Klein的博客
+- 路透社
+- Ezra Klein的博客
+people:
+- Donald Trump
+- Steve Bannon
+- Elon Musk
+- Ezra Klein
+- Ivan Pavlov
+- Joseph Stalin
+- Vladimir Lenin
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=Rp03uYZbh6g
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入分析了特朗普上任初期通过行政命令推行“新政”的策略，特别是班农提出的“放水淹”战术。文章区分了公众对政治事件的本能反应（reflex）与理性反应（reaction），强调了美国宪政法治体系对总统权力的制约。同时，文章探讨了总统政治资本的有限性，并建议公民应聚焦真实信息，避免被虚假宣传误导，保持理性思考。
+tags:
+- constitutional
+- executive-order
+- political-strategy
+- public
+title: 让子弹飞一会儿：解析特朗普新政、行政命令与理性反应
 ---
 
 ### 引言：本能与理性的反应

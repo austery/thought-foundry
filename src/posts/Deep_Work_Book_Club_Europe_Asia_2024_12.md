@@ -6,13 +6,13 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-  - personal-growth
-  - 专注力
-  - 时间管理
-  - 深度工作
+- business
+- personal-growth
+- psychology
+- 深度工作
 people:
-  - Vivi
-  - Lillian
+- Vivi
+- Lillian
 companies_orgs: []
 products_models: []
 media_books:
@@ -27,6 +27,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与主持人分享
 
 ### Vivi (主持人)

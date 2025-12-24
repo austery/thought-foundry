@@ -1,57 +1,56 @@
 ---
-author: Best Partners TV
+area: market-analysis
+category: finance
+companies_orgs:
+- 红杉资本
+- Airbnb
+- DoorDash
+- Zipline
+- Link Exchange
+- Microsoft
+- Coinbase
+- 亚马逊
+- Zappos
+- Clay
+- Citadel Securities
+- Citadel
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Alfred Lin
+- Roelof Botha
+- Molly O’Shea
+- Elon Musk
+- Keller
+- Brian Chesky
+- Brian Armstrong
+- Kareem
+- Ken Griffin
+- Robert Merton
+- Constantine
+products_models:
+- AWS
+project:
+- investment-strategy
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=cXktR1AaRNY
 speaker: Best Partners TV
-tags:
-  - investment-philosophy
-  - venture-capital
-  - ai-strategy
-  - company-resilience
-  - founder-evaluation
-title: 红杉新掌舵人阿尔弗雷德·林：四个标准差的投资哲学与AI时代的长期主义
-summary: 本文深入剖析了红杉资本新任掌舵人阿尔弗雷德·林的投资哲学。他强调只投资“四个标准差”的异类创始人，并分享了如何通过第一性原理帮助Zipline和Airbnb等公司度过“熔炉时刻”。在AI快速迭代的时代，阿尔弗雷德·林呼吁创业者关注长期价值，从自动化转向重塑用户体验，并指出公司文化应在变化中保持核心，以适应技术变革。他认为，真正的增长应以留存率和飞轮效应为衡量标准，而非短期收入竞赛。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Alfred Lin
-  - Roelof Botha
-  - Molly O’Shea
-  - Elon Musk
-  - Keller
-  - Brian Chesky
-  - Brian Armstrong
-  - Kareem
-  - Ken Griffin
-  - Robert Merton
-  - Constantine
-companies_orgs:
-  - 红杉资本
-  - Airbnb
-  - DoorDash
-  - Zipline
-  - Link Exchange
-  - 微软
-  - Coinbase
-  - 亚马逊
-  - Zappos
-  - Clay
-  - Citadel Securities
-  - Citadel
-products_models:
-  - AWS
-media_books: []
 status: evergreen
+summary: 本文深入剖析了红杉资本新任掌舵人阿尔弗雷德·林的投资哲学。他强调只投资“四个标准差”的异类创始人，并分享了如何通过第一性原理帮助Zipline和Airbnb等公司度过“熔炉时刻”。在AI快速迭代的时代，阿尔弗雷德·林呼吁创业者关注长期价值，从自动化转向重塑用户体验，并指出公司文化应在变化中保持核心，以适应技术变革。他认为，真正的增长应以留存率和飞轮效应为衡量标准，而非短期收入竞赛。
+tags:
+- ai-strategy
+- company-resilience
+- investment
+- investment-philosophy
+- venture-capital
+title: 红杉新掌舵人阿尔弗雷德·林：四个标准差的投资哲学与AI时代的长期主义
 ---
+
 大家好，这里是最佳拍档，我是大飞。
 
 ### 红杉资本新掌舵人：阿尔弗雷德·林的投资哲学

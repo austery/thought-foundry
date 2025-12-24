@@ -1,31 +1,29 @@
 ---
-title: 在高利率环境下我们应该如何投资
-summary: 本期内容探讨在未来可能长期持续的高利率环境下，个人投资者应如何调整策略。通过回顾70至80年代的历史数据，强调投资逻辑应从过去十年的估值驱动转向关注公司的实际收益和分红，即回归价值投资。对于普通人而言，投资标普500指数是稳健的选择。同时，文章也给出了在当前环境下，个人应该通过降低债务和建立健康的财务规则来为未来的机会做好准备。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-  - investment-strategy
-  - 债务管理
-  - 标普500
-  - 高利率
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2023-12-10
+area: finance-wealth
 author: Lei
-speaker: 一口新饭读书会
+category: stock-investment
 channel: ''
+companies_orgs: []
+date: 2023-12-10
 draft: true
 file_name: how_to_invest_in_high_interest_rate_environment.md
 guest: ''
 insight: 这是Ray在他的会员视频里，除了唯一一期关于投资的话题，特斯拉除外。现在回看一下，看看1年半前他的分析如何，看看他的思考的如何？
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: ''
+speaker: 一口新饭读书会
+summary: 本期内容探讨在未来可能长期持续的高利率环境下，个人投资者应如何调整策略。通过回顾70至80年代的历史数据，强调投资逻辑应从过去十年的估值驱动转向关注公司的实际收益和分红，即回归价值投资。对于普通人而言，投资标普500指数是稳健的选择。同时，文章也给出了在当前环境下，个人应该通过降低债务和建立健康的财务规则来为未来的机会做好准备。
+tags:
+- financial
+- 标普500
+- 高利率
+title: 在高利率环境下我们应该如何投资
 ---
+
 哈喽会员朋友们，欢迎大家来到每个月一期的会员专属播客。在这一期里，我想跟大家聊一个话题：在未来可能比较长的高利率状态下，我们应该怎样去投资。
 
 我最近刚刚做了一个视频，讲解美国2024年是否会经济衰退，以及收益率倒挂的解除意味着什么，为什么最近的10年期国债收益率在猛增。如果你还没有看过那期节目，我强烈建议你去看一下，因为它对我们每一个投资者，或者说每个个人其实都有一定的意义。我就想针对那期视频来深入地展开讲一讲，在这种未来比较长时间的高利率状态下，我们个人应该怎样去投资。

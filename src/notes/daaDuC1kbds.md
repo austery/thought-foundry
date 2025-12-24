@@ -1,34 +1,32 @@
 ---
-author: Veritasium
-date: '2022-08-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=daaDuC1kbds
-speaker: Veritasium
-tags:
-  - veritasium
-  - jumping-robot
-  - energy-storage
-  - work-multiplication
-  - space-exploration
-  - spring-design
-title: 世界最高跳跃机器人：工程奇迹与未来探索
-summary: 本文深入探讨了一款重量不足网球、跳跃高度可达31米的世界最高跳跃机器人。文章详细介绍了其独特的工程设计，包括能量储存、混合弹簧机制和“功倍增”原理，并将其与生物跳跃机制进行对比。此外，还探讨了这类机器人在月球等低重力环境下进行空间探索的巨大潜力。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Elliot
+category: technology
 companies_orgs:
-  - Brilliant
+- Brilliant
+date: '2022-08-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Elliot
 products_models: []
-media_books: []
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=daaDuC1kbds
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了一款重量不足网球、跳跃高度可达31米的世界最高跳跃机器人。文章详细介绍了其独特的工程设计，包括能量储存、混合弹簧机制和“功倍增”原理，并将其与生物跳跃机制进行对比。此外，还探讨了这类机器人在月球等低重力环境下进行空间探索的巨大潜力。
+tags:
+- design
+- energy-storage
+- space-exploration
+- technology
+- work
+title: 世界最高跳跃机器人：工程奇迹与未来探索
 ---
+
 ### 世界纪录：跳跃机器人的非凡成就
 
 这个微型机器人重量不足一个网球，却能跳得比世界上任何东西都高。

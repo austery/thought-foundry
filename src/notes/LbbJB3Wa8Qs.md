@@ -1,69 +1,70 @@
 ---
-author: Amit Kukreja
+area: tech-insights
+category: business
+companies_orgs:
+- Palantir
+- Slate
+- The New York Times
+- Haverford College
+- Stanford Law School
+- Yale University
+- In-Q-Tel
+- Meta
+- Google
+- ICE
+- NHS
+- Airbus
+- BP
+- PayPal
+- Axios
+- CNBC
+- S&P 500
 date: '2025-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Philosopher in the Valley
+- Detroit Free Press
+people:
+- Michael Steinberger
+- Alex Karp
+- Peter Thiel
+- Donald Trump
+- Deborah Birx
+- Volodymyr Zelenskyy
+- Stephen Cohen
+- Joe Lonsdale
+- Nathan Gettings
+- Jurgen Habermas
+- Tom Enders
+- Richard Branson
+- David Boies
+- Benjamin Netanyahu
+- Kamala Harris
+- Joe Biden
+products_models:
+- Metropolis
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=LbbJB3Wa8Qs
 speaker: Amit Kukreja
-tags:
-  - leadership-philosophy
-  - founder-psychology
-  - corporate-identity
-  - tech-geopolitics
-  - public-perception
-title: 解密 Palantir 创始人：与 Alex Karp 传记作者的深度对话
-summary: 在这次专访中，《硅谷哲人》的作者 Michael Steinberger 深入探讨了他花费五年时间研究 Palantir 创始人 Alex Karp 的心路历程。访谈揭示了 Karp 复杂的个人背景——包括他的混血身份、犹太血统和阅读障碍——如何塑造了他独特的领导哲学。内容还涵盖了 Palantir 备受争议的公众形象、Karp 从进步派到支持特朗普的政治演变，以及公司在地缘政治冲突中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Michael Steinberger
-  - Alex Karp
-  - Amit Kukreja
-  - Peter Thiel
-  - Donald Trump
-  - Deborah Birx
-  - Volodymyr Zelenskyy
-  - Stephen Cohen
-  - Joe Lonsdale
-  - Nathan Gettings
-  - Jurgen Habermas
-  - Tom Enders
-  - Richard Branson
-  - David Boies
-  - Benjamin Netanyahu
-  - Kamala Harris
-  - Joe Biden
-companies_orgs:
-  - Palantir
-  - Slate
-  - The New York Times
-  - Haverford College
-  - Stanford Law School
-  - Yale University
-  - In-Q-Tel
-  - Facebook
-  - Google
-  - ICE
-  - NHS
-  - Airbus
-  - BP
-  - PayPal
-  - Axios
-  - CNBC
-  - S&P 500
-products_models:
-  - Metropolis
-media_books:
-  - The Philosopher in the Valley
-  - Detroit Free Press
 status: evergreen
+summary: 在这次专访中，《硅谷哲人》的作者 Michael Steinberger 深入探讨了他花费五年时间研究 Palantir 创始人 Alex Karp
+  的心路历程。访谈揭示了 Karp 复杂的个人背景——包括他的混血身份、犹太血统和阅读障碍——如何塑造了他独特的领导哲学。内容还涵盖了 Palantir 备受争议的公众形象、Karp
+  从进步派到支持特朗普的政治演变，以及公司在地缘政治冲突中的关键作用。
+tags:
+- identity
+- leadership-philosophy
+- psychology
+- public
+- tech
+title: 解密 Palantir 创始人：与 Alex Karp 传记作者的深度对话
 ---
+
 ### 序言：从葡萄酒评论到解读硅谷哲人
 
 **Amit Kukreja:** 大家好，欢迎回到频道。今天我请到了一位非常特别的嘉宾，Michael Steinberger，来讨论他的新书《硅谷哲人》。Michael，感谢你的到来。

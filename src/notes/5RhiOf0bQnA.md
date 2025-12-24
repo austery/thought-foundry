@@ -1,43 +1,43 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 联合国儿童基金会
+- 联合国教科文组织
 date: '2024-07-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《西部买妻》
+- 《中国人的家当》
+people:
+- 马宏杰
+- 戈洪兴
+- 杨林贵
+- 党有娇
+- 鲍风山
+- 陶警官
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=5RhiOf0bQnA
 speaker: 一席YiXi
-tags:
-  - poverty-and-survival
-  - cultural-erasure
-  - legal-injustice
-  - social-stigma
-  - folk-tradition
-title: 草根的生存与尊严：一位摄影记者对耍猴人与底层群体的十二年纪实
-summary: 摄影师马宏杰通过十二年追踪耍猴人、买妻者与贫困家庭，揭示中国底层群体在法律、文化与经济夹缝中的生存状态，呼吁社会以理解与包容取代偏见与苛责。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - us-analysis
-people:
-  - 马宏杰
-  - 戈洪兴
-  - 杨林贵
-  - 党有娇
-  - 鲍风山
-  - 陶警官
-companies_orgs:
-  - 联合国儿童基金会
-  - 联合国教科文组织
-products_models: []
-media_books:
-  - 《西部买妻》
-  - 《中国人的家当》
 status: evergreen
+summary: 摄影师马宏杰通过十二年追踪耍猴人、买妻者与贫困家庭，揭示中国底层群体在法律、文化与经济夹缝中的生存状态，呼吁社会以理解与包容取代偏见与苛责。
+tags:
+- cultural
+- folk-tradition
+- legal
+- social
+- society
+title: 草根的生存与尊严：一位摄影记者对耍猴人与底层群体的十二年纪实
 ---
+
 ### 耍猴人：被城市遗忘的底层生存图景
 
 我不知道大家有没有在街头看到过这样的耍猴人？我估计可能不会很多。如果谁看到过可以举一下手。

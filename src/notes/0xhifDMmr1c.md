@@ -1,55 +1,54 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Meta
+- 亚马逊
+- Google
+- 苹果
+- OpenAI
+- Alibaba
+- 拼多多
+- 沃尔玛
+- eBay
+- Shopify
+- Netflix
+- 迪士尼
+- 华纳
+- SpaceX
 date: '2025-06-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《福布斯富豪榜》
+people:
+- 唐石峻
+- 扎克伯格
+- 杰夫·贝佐斯
+- 巴菲特
+products_models:
+- 拉莫
+- CBT
+- Sbt
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=0xhifDMmr1c
 speaker: Shijun Tang
-tags:
-  - compound-growth
-  - network-effect
-  - value-investing
-  - option-trading-risk
-  - corporate-culture
-title: Meta与亚马逊的天花板之争：普通人的投资陷阱与长期价值
-summary: 本文深入分析Meta和亚马逊的业务护城河、AI战略布局与财务表现，揭示为何普通投资者不应沉迷于高杠杆期权或差价合约交易，而应回归价值投资本质——耐心持有优质企业，相信复利的力量。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-  - 扎克伯格
-  - 杰夫·贝佐斯
-  - 巴菲特
-companies_orgs:
-  - Meta
-  - 亚马逊
-  - Google
-  - 苹果
-  - OpenAI
-  - 阿里巴巴
-  - 拼多多
-  - 沃尔玛
-  - eBay
-  - Shopify
-  - Netflix
-  - 迪士尼
-  - 华纳
-  - SpaceX
-products_models:
-  - 拉莫
-  - CBT
-  - Sbt
-media_books:
-  - 《福布斯富豪榜》
 status: evergreen
+summary: 本文深入分析Meta和亚马逊的业务护城河、AI战略布局与财务表现，揭示为何普通投资者不应沉迷于高杠杆期权或差价合约交易，而应回归价值投资本质——耐心持有优质企业，相信复利的力量。
+tags:
+- corporate-culture
+- growth
+- network-effect
+- risk
+title: Meta与亚马逊的天花板之争：普通人的投资陷阱与长期价值
 ---
+
 ### Meta的护城河：规模、网络效应与开源AI的双重引擎
 
 我持有Meta已经1178天了，目前总回报为236.13%。但如果除去我四月份进行的补仓股份，我的实际回报率将飙升至351.47%，相当于翻了近4.5倍。很多人在网络上炫耀自己的浮盈时，总是从最初买入的第一笔价格开始计算回报——这种算法虽然数字好看，但毫无实际意义。因为随着我们不断加仓（Average Up），后续的仓位会稀释整体回报率，真实的复合年化收益率才是衡量长期投资成败的核心指标。

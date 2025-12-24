@@ -1,32 +1,31 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs: []
 date: '2024-06-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Tony Blair
+products_models: []
+project:
+- ''
+series: ''
 source: https://www.youtube.com/watch?v=RWBZyQ4Na4o
 speaker: Dwarkesh Patel
-tags:
-  - leadership
-  - politics
-  - policy
-  - governance
-  - distraction
-title: 政府的干扰阴谋：领导者如何应对政治噪音
-summary: 本视频探讨了政治领导者面临的普遍挑战：被各种事件、危机和丑闻分散注意力，导致核心任务和政策制定效率低下。演讲者强调了“政策优先，政治次之”的重要性，并指出领导者需要培养一种“禅意”心态来应对政治噪音和社交媒体的攻击，避免陷入“兔子洞”，从而确保最终能找到并执行正确的答案。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - ''
-people:
-  - Tony Blair
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频探讨了政治领导者面临的普遍挑战：被各种事件、危机和丑闻分散注意力，导致核心任务和政策制定效率低下。演讲者强调了“政策优先，政治次之”的重要性，并指出领导者需要培养一种“禅意”心态来应对政治噪音和社交媒体的攻击，避免陷入“兔子洞”，从而确保最终能找到并执行正确的答案。
+tags:
+- distraction
+- governance
+- leadership
+- policy
+title: 政府的干扰阴谋：领导者如何应对政治噪音
 ---
+
 ### 干扰的本质
 
 政府的本质就是一种**干扰的阴谋**。这是因为你总是会遇到各种事件、危机和丑闻。当你面临如此多让你偏离**核心任务**的事情时，最困难的就是保持专注。领导者常常会遇到这种情况，我，你知道，有时我们会对领导者说：“好吧，我们来做一个分析：这是你的**优先事项**，这是你花在它们上面的时间。”结果发现，人们实际上只花了4%的时间在他们的优先事项上。然后你会说：“嗯，难怪你没有成功。”所以，当你回顾你担任首相的时期，或者不一定是你，任何一位国家元首或西方政府的领导人，他们有多少时间是**根本上被浪费**的？这些时间并没有**根本上推动事情向前发展**。你知道，就像会见人员、大使、记者等等。有多少时间只是这样度过的？很多。我不知道，超过80%？90%？不，我想那太高了。但确实是很多，而且今天只会更多，因为人们有这样的期望。

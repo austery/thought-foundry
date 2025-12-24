@@ -1,39 +1,39 @@
 ---
-author: KevinFeng 冯凯文
+area: personal-systems
+category: lifestyle
+companies_orgs: []
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- youtube-channel
+people:
+- David Fraglomani
+- Tatsuki
+- Picasso
+- Da Vinci
+products_models: []
+project:
+- personal-growth-lab
+- entrepreneurship
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=sIdjcprFBnA
 speaker: KevinFeng 冯凯文
-tags:
-  - english-learning
-  - youtube-channels
-  - visual-aesthetics
-  - personal-development
-  - journaling
-  - self-discovery
-  - lifestyle-inspiration
-title: 2025年画面最美英文YouTube频道推荐：氛围感学习与自我成长
-summary: 本期视频推荐了五个画面精美、内容深刻的英文YouTube频道，旨在帮助观众在学习英语的同时，获得生活启发和个人成长。频道内容涵盖创业历程、日记实践、自我探索、生活方式改造等，强调通过沉浸式体验和高质量内容，打开看世界的新窗口，实现语言学习与个人发展的双重提升。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-  - historical-insights
-people:
-  - David Fraglomani
-  - Tatsuki
-  - Picasso
-  - Da Vinci
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期视频推荐了五个画面精美、内容深刻的英文YouTube频道，旨在帮助观众在学习英语的同时，获得生活启发和个人成长。频道内容涵盖创业历程、日记实践、自我探索、生活方式改造等，强调通过沉浸式体验和高质量内容，打开看世界的新窗口，实现语言学习与个人发展的双重提升。
+tags:
+- learning
+- life
+- personal-development
+- science
+- self-discovery
+- visual-aesthetic
+title: 2025年画面最美英文YouTube频道推荐：氛围感学习与自我成长
 ---
+
 ### 沉浸式英文学习：画面与内容的双重享受
 
 你是否曾想学英文，却又不想看那些枯燥的英文教学影片？这正是我们所想的。因此，我今天为你准备了五个频道推荐。我之所以敢向你保证，是因为这些频道能真正触及你的内心，它们的画面实在太美、太有质感，美到你想要收藏每一帧。毫不夸张地说，你光看画面就想多看两年。所以，这次推荐的不是那些普通的英文教学频道，而是那种你会想要一看再看的英文频道。

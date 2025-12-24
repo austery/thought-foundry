@@ -1,51 +1,51 @@
 ---
-author: 视野环球财经
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- Oracle
+- NVIDIA
+- AMD
+- Intel
+- Open AI
+- Microsoft
+- Amazon
+- Google
+- Home Depot
+- Toll Brothers
+- Tesla
+- SpaceX
+- XAI
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《彭博社》
+people:
+- Elon Musk
+products_models:
+- H200
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=vvHw6Xylsb8
 speaker: 视野环球财经
-tags:
-  - us-stock-market
-  - corporate-earnings
-  - monetary-policy
-  - labor-market
-  - ai-industry
-title: 美股市场前瞻：甲骨文财报、英伟达出口政策与宏观经济展望
-summary: 本期节目深入分析了美股市场的最新动态，包括在美联储会议和甲骨文财报前的市场缩量交投，以及最新发布的职位空缺数据对劳动力市场和美联储政策预期的影响。同时，节目详细探讨了英伟达对华出口政策的变数、甲骨文财报对AI板块的潜在推动力，以及家得宝的业绩预警和特斯拉SpaceX IPO传闻。最后，对CTA策略和历史市场表现进行了更新。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Elon Musk
-companies_orgs:
-  - Federal Reserve
-  - Oracle
-  - NVIDIA
-  - AMD
-  - Intel
-  - Open AI
-  - Microsoft
-  - Amazon
-  - Google
-  - Home Depot
-  - Toll Brothers
-  - Tesla
-  - SpaceX
-  - XAI
-products_models:
-  - H200
-media_books:
-  - 《金融时报》
-  - 《彭博社》
 status: evergreen
+summary: 本期节目深入分析了美股市场的最新动态，包括在美联储会议和甲骨文财报前的市场缩量交投，以及最新发布的职位空缺数据对劳动力市场和美联储政策预期的影响。同时，节目详细探讨了英伟达对华出口政策的变数、甲骨文财报对AI板块的潜在推动力，以及家得宝的业绩预警和特斯拉SpaceX
+  IPO传闻。最后，对CTA策略和历史市场表现进行了更新。
+tags:
+- corporate-earning
+- industry
+- labor-market
+- us-stock-market
+title: 美股市场前瞻：甲骨文财报、英伟达出口政策与宏观经济展望
 ---
+
 ### 市场概览与宏观经济数据
 
 大家好，欢迎回到视野环球财经，我是Reno。现在是美东时间25年12月9号周二晚上的7点35分。今天市场整体呈现**缩量交投**（Volume Contraction Trading: 指市场交易量减少，投资者情绪谨慎）的态势，交投平淡。罗素指数的表现相对不错，盘中还打出了一个高点。市场目前正等待明天美联储的议息会议，以及明天盘后甲骨文的财报。预计甲骨文财报的波动会比较大，可能对纳指起到新高推动或者砸盘跳水的作用，我们稍后会详细讲解。

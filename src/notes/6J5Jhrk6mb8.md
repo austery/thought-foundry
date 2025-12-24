@@ -1,50 +1,49 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 加拿大广播公司
+- 北约
+- 加拿大统计局
+- 加拿大建房局
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 商鹏飛
+- 马可·卡尼
+- 唐纳德·特朗普
+- 约翰·迪芬贝克
+- 弗朗西斯·斯嘉帕雷贾
+- 伊丽莎白·梅
+- 戈德·约翰斯
+- 洛裡·伊德劳特
+- 唐·戴维斯
+- 克里斯·邓特雷蒙
+- 马特·热内鲁
+- 香农·斯塔布斯
+- 博励治
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=6J5Jhrk6mb8
 speaker: 莊也雜談
-tags:
-  - canadian-federal-budget
-  - fiscal-deficit
-  - us-canada-trade-war
-  - political-strategy
-  - economic-challenges
-title: 加拿大2025年预算案：一场影响未来十年的政治经济豪赌
-summary: 加拿大2025-2026财年联邦预算案引发政坛剧烈动荡。面对783亿加元的历史性赤字和主要反对党的集体反对，总理马可·卡尼的少数派政府一度面临倒台风险。本预算案旨在应对美加贸易战、国内经济衰退和民生危机，通过巨额“代际投资”刺激经济。文章深入分析了预算案的具体内容、各党派的激烈博弈，以及最终通过的诡异过程，揭示了加拿大在内忧外患下，政府在短期经济稳定与长期财政健康之间做出的艰难抉择。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 商鹏飛
-  - 马可·卡尼
-  - 唐纳德·特朗普
-  - 约翰·迪芬贝克
-  - 弗朗西斯·斯嘉帕雷贾
-  - 伊丽莎白·梅
-  - 戈德·约翰斯
-  - 洛裡·伊德劳特
-  - 唐·戴维斯
-  - 克里斯·邓特雷蒙
-  - 马特·热内鲁
-  - 香农·斯塔布斯
-  - 博励治
-companies_orgs:
-  - 加拿大广播公司
-  - 北约
-  - 加拿大统计局
-  - 加拿大建房局
-products_models: []
-media_books: []
 status: evergreen
+summary: 加拿大2025-2026财年联邦预算案引发政坛剧烈动荡。面对783亿加元的历史性赤字和主要反对党的集体反对，总理马可·卡尼的少数派政府一度面临倒台风险。本预算案旨在应对美加贸易战、国内经济衰退和民生危机，通过巨额“代际投资”刺激经济。文章深入分析了预算案的具体内容、各党派的激烈博弈，以及最终通过的诡异过程，揭示了加拿大在内忧外患下，政府在短期经济稳定与长期财政健康之间做出的艰难抉择。
+tags:
+- canadian
+- economic
+- financial
+- political-strategy
+- us-canada-trade-war
+title: 加拿大2025年预算案：一场影响未来十年的政治经济豪赌
 ---
+
 ### 2025年加拿大联邦预算案：一场政治风暴的开端
 
 大家好，我是庄也。欢迎您收看庄也杂谈。今天，我们要聊一个非常重磅，并且将深刻影响未来十年加拿大命运的大事件——刚刚正式通过的2025-2026财年加拿大联邦预算案。为了方便，我们简称它为“2025年预算”。

@@ -6,14 +6,12 @@ category: finance
 project:
 - investment-strategy
 tags:
-  - 半导体投资
-people: []
+- investment
 companies_orgs:
 - asml
 - lam research
 - 台积电
 products_models: []
-media_books: []
 date: 2025-08-04
 author: Lei
 speaker: Shijun Tang
@@ -26,6 +24,7 @@ insight: 我很认同每个人都要有自己的投资体系，要逻辑自洽�
 layout: post.njk
 source: https://www.youtube.com/watch?v=EgzXI18t9pI
 ---
+
 ## 引言：半导体巨头的十字路口
 
 **ASML** 最近跌惨了！短短两个星期暴跌了17.31%！**ASML** 的未来还有戏吗？现在究竟是抄底的好机会？还是说 **ASML** 其实自始至终都是一个价值陷阱呢？

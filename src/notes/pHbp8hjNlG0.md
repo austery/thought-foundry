@@ -1,88 +1,88 @@
 ---
-author: 張内咸脫口秀
+area: society-systems
+category: culture
+companies_orgs:
+- Google
+- YouTube
+- Polymarket
+- 新浪微博
+- 奥斯卡金像奖
+- 金马奖
+- 金鸡奖
+- 上海国际电影节
+- 海南国际电影节
+- 法国坎城影展
+- 德国柏林影展
+- 意大利威尼斯影展
+- 美国电影学院
+- 东京国际影展
+- 釜山国际影展
+- sundance
+- IMDb
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《我们的青春，在台湾》
+- film-festival
+people:
+- 范冰冰
+- 傅榆
+- 娄烨
+- 王小帅
+- 郭帆
+- 吴京
+- 英格玛·伯格曼
+- Conan O'Brien
+- 泽连斯基
+- JD Vance
+- 杨德昌
+- 周星驰
+- 成龙
+- Jet Li
+- Donald Trump
+- 蒋介石
+- 毛主席
+products_models:
+- 抖音
+- 小红书
+- 《流浪地球》
+- 《我们的青春，在台湾》
+- 《地母》
+- Interstellar
+- 《南京照相馆》
+- 《731》
+- 《卧虎藏龙》
+- 《叶问》
+- 《英雄》
+- 《花样年华》
+- 《功夫》
+- 《无间道》
+- 《十面埋伏》
+- 《叶问2》
+- 《少林足球》
+- 《霍元甲》
+- 《一一》
+- 《尖峰时刻4》
+project:
+- cultural-critique
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=pHbp8hjNlG0
 speaker: 張内咸脫口秀
-tags:
-  - chinese-cinema
-  - film-festivals
-  - cultural-censorship
-  - aesthetic-trends
-  - geopolitics-of-culture
-title: 金马奖被封杀后：华语电影集体失控了吗？
-summary: 张内咸在本期脱口秀中探讨了金马奖被封杀后华语电影的现状与未来。他分析了金马奖的历史地位、政治因素、以及华语电影在全球的影响力。他认为，中国电影的审查制度和审美县城化导致了创作的萎缩，而海外华语电影市场也面临着诸多挑战，最终对华语电影的未来持悲观态度。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - china-analysis
-  - historical-insights
-people:
-  - 范冰冰
-  - 傅榆
-  - 娄烨
-  - 王小帅
-  - 郭帆
-  - 吴京
-  - 英格玛·伯格曼
-  - Conan O'Brien
-  - 泽连斯基
-  - JD Vance
-  - 杨德昌
-  - 周星驰
-  - 成龙
-  - Jet Li
-  - 川普
-  - 蒋介石
-  - 毛主席
-companies_orgs:
-  - Google
-  - YouTube
-  - Polymarket
-  - 新浪微博
-  - 奥斯卡金像奖
-  - 金马奖
-  - 金鸡奖
-  - 上海国际电影节
-  - 海南国际电影节
-  - 法国坎城影展
-  - 德国柏林影展
-  - 意大利威尼斯影展
-  - 美国电影学院
-  - 东京国际影展
-  - 釜山国际影展
-  - sundance
-  - IMDb
-products_models:
-  - 抖音
-  - 小红书
-  - 《流浪地球》
-  - 《我们的青春，在台湾》
-  - 《地母》
-  - Interstellar
-  - 《南京照相馆》
-  - 《731》
-  - 《卧虎藏龙》
-  - 《叶问》
-  - 《英雄》
-  - 《花样年华》
-  - 《功夫》
-  - 《无间道》
-  - 《十面埋伏》
-  - 《叶问2》
-  - 《少林足球》
-  - 《霍元甲》
-  - 《一一》
-  - 《尖峰时刻4》
-media_books:
-  - 《我们的青春，在台湾》
 status: evergreen
+summary: 张内咸在本期脱口秀中探讨了金马奖被封杀后华语电影的现状与未来。他分析了金马奖的历史地位、政治因素、以及华语电影在全球的影响力。他认为，中国电影的审查制度和审美县城化导致了创作的萎缩，而海外华语电影市场也面临着诸多挑战，最终对华语电影的未来持悲观态度。
+tags:
+- chinese
+- cultural
+- culture
+- trend
+title: 金马奖被封杀后：华语电影集体失控了吗？
 ---
+
 ### 悲喜交加的开场：父亲们的“网络寻亲”
 
 大家好，我是张内咸，又见面了。上周节目播出后，我家突然多了很多长辈，这真是始料未及。可能是我疏忽了，没想到Google还有“网络寻亲系统”这种功能，能帮你找到失散多年的父亲。感觉我们家像提前过年了似的，父亲还带了一大群叔叔阿姨来探望我。虽然我手忙脚乱，但心里很感动，世上还是好人多啊。

@@ -1,56 +1,54 @@
 ---
-author: Veritasium
-date: '2024-04-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6akmv1bsz1M
-speaker: Veritasium
-tags:
-  - veritasium
-  - black-holes
-  - general-relativity
-  - spacetime-curvature
-  - white-holes
-  - wormholes
-title: 爱因斯坦数学的奇妙推论：黑洞、白洞与虫洞的科学探索
-summary: 本文深入探讨了爱因斯坦广义相对论的奇特结果，包括黑洞的形成、视界现象、白洞的存在可能性、平行宇宙以及虫洞作为星际旅行方式的理论。文章追溯了从牛顿到爱因斯坦，再到施瓦西、钱德拉塞卡和克尔等科学家对引力理论和宇宙奥秘的探索历程，并通过时空图和坐标系变换，揭示了这些宇宙现象背后的数学与物理原理，并讨论了其在现实中存在的可能性。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Isaac Newton
-  - Albert Einstein
-  - Karl Schwarzschild
-  - Ralph Fowler
-  - Subrahmanyan Chandrasekhar
-  - Arthur Eddington
-  - Jay Robert Oppenheimer
-  - George Volkoff
-  - Hartland Snyder
-  - Roy Kerr
-  - Michael Morris
-  - Kip Thorne
-  - Derek Muller
-  - Geraint F. Lewis
+category: science
 companies_orgs:
-  - Google
-  - Incogni
-  - ScienceClic
+- Google
+- Incogni
+- ScienceClic
+date: '2024-04-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Isaac Newton
+- Albert Einstein
+- Karl Schwarzschild
+- Ralph Fowler
+- Subrahmanyan Chandrasekhar
+- Arthur Eddington
+- Jay Robert Oppenheimer
+- George Volkoff
+- Hartland Snyder
+- Roy Kerr
+- Michael Morris
+- Kip Thorne
+- Derek Muller
+- Geraint F. Lewis
 products_models:
-  - Schwarzschild metric
-  - Einstein's field equations
-  - Kruskal-Szekers diagram
-  - Penrose diagram
-  - Mercator projection
-  - Gall-Peters projection
-media_books: []
+- Schwarzschild metric
+- Einstein's field equations
+- Kruskal-Szekers diagram
+- Penrose diagram
+- Mercator projection
+- Gall-Peters projection
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=6akmv1bsz1M
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了爱因斯坦广义相对论的奇特结果，包括黑洞的形成、视界现象、白洞的存在可能性、平行宇宙以及虫洞作为星际旅行方式的理论。文章追溯了从牛顿到爱因斯坦，再到施瓦西、钱德拉塞卡和克尔等科学家对引力理论和宇宙奥秘的探索历程，并通过时空图和坐标系变换，揭示了这些宇宙现象背后的数学与物理原理，并讨论了其在现实中存在的可能性。
+tags:
+- black-hole
+- general-relativity
+- technology
+- white-hole
+- wormhole
+title: 爱因斯坦数学的奇妙推论：黑洞、白洞与虫洞的科学探索
 ---
+
 ### 黑洞视界：时间冻结的幻象
 
 你永远无法看到任何东西进入黑洞。

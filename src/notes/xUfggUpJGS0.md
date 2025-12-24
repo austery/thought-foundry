@@ -1,51 +1,49 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- PDVSA
+- Shell
+- Exxon
+- IMF
+- OPEC
+- AD Party
+- COPEI Party
+- URD Party
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Juan Vicente Gómez
+- Pérez Jiménez
+- Betancourt
+- Caldera
+- Villalba
+- Carlos Andrés Pérez
+- Juan Pablo Pérez Alfonzo
+- Luis Herrera Campins
+- Blanca Ibáñez
+- Hugo Chávez
+- Louis Armstrong
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xUfggUpJGS0
 speaker: 北美王路飞
-tags:
-  - oil-curse
-  - political-decay
-  - economic-collapse
-  - resource-curse
-  - venezuela-history
-title: 从拉美土豪到独裁深渊：委内瑞拉的石油诅咒与制度失灵
-summary: 本文深入剖析了委内瑞拉如何从一个富裕的‘民主模范生’，一步步走向政治衰败和经济崩溃的历程。从石油的发现与依赖，到独裁统治的兴起，再到民主体制下的腐败与动荡，最终揭示了‘资源诅咒’如何侵蚀国家制度，导致财富的挥霍与人民的苦难，并引出了查韦斯时代的到来。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Juan Vicente Gómez
-  - Pérez Jiménez
-  - Betancourt
-  - Caldera
-  - Villalba
-  - Carlos Andrés Pérez
-  - Juan Pablo Pérez Alfonzo
-  - Luis Herrera Campins
-  - Blanca Ibáñez
-  - Hugo Chávez
-  - Louis Armstrong
-companies_orgs:
-  - PDVSA
-  - Shell
-  - Exxon
-  - IMF
-  - OPEC
-  - AD Party
-  - COPEI Party
-  - URD Party
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入剖析了委内瑞拉如何从一个富裕的‘民主模范生’，一步步走向政治衰败和经济崩溃的历程。从石油的发现与依赖，到独裁统治的兴起，再到民主体制下的腐败与动荡，最终揭示了‘资源诅咒’如何侵蚀国家制度，导致财富的挥霍与人民的苦难，并引出了查韦斯时代的到来。
+tags:
+- economic
+- environment
+- history
+- political
+title: 从拉美土豪到独裁深渊：委内瑞拉的石油诅咒与制度失灵
 ---
+
 ### 从拉美土豪到独裁深渊：委内瑞拉的石油诅咒与制度失灵
 
 如果时光倒流回40年前，你在美国迈阿密走进一家商场，只要听到这句西班牙语“Ta barato，dame dos”（这太便宜了，给我来俩），你就知道，委内瑞拉人来了。那是一个疯狂的年代，那时候的委内瑞拉人被称为是拉美的沙特土豪。他们的货币强势到什么程度？4.3 **玻利瓦尔**（Bolívar: 委内瑞拉的法定货币）就能换一美金，这汇率雷打不动的维持了20年。哪怕是一个普通的中产阶级家庭，周末飞去迈阿密，不仅去度假，还是去进货的，买衣服、买家电，甚至有人去买房子。你敢信吗？仅仅1981年这一年，就有25万人次委内瑞拉人飞往迈阿密扫货。佛罗里达对于委内瑞拉的出口额，短短几年内翻了4倍。甚至有杂志封面上直接写着：“迈阿密，是被委内瑞拉的10元美油喂肥的。”

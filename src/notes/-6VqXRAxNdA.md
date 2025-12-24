@@ -1,32 +1,31 @@
 ---
-title: Zwift 首席执行官谈论盈利能力与虚拟骑行平台
-summary: Zwift 首席执行官 Eric Min 深入探讨了公司的盈利能力、硬件业务的成功以及未来的产品路线图，特别是人工智能在个性化训练中的应用。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- hardware
-- profitability
-- virtual-cycling
-- zwift
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-07'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=-6VqXRAxNdA
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: Zwift 首席执行官 Eric Min 深入探讨了公司的盈利能力、硬件业务的成功以及未来的产品路线图，特别是人工智能在个性化训练中的应用。
+tags:
+- financial
+- technology
+- zwift
+title: Zwift 首席执行官谈论盈利能力与虚拟骑行平台
+companies:
+- virtual-cycling
 ---
+
 ### 智能单车的市场反响
 
 About a year ago, you had just announced this with Rye. That's a 1300 dollar smart bike to get more people on the app. Has it worked?

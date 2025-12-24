@@ -1,28 +1,29 @@
 ---
 author: Lei
 date: 2025-09-01
-guest: 
+guest: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=JA7LR8slBwg
 speaker: 知行小酒馆
 tags:
-  - entrepreneurship
-  - management
-  - long-termism
-  - company-culture
-  - anker
+- culture
+- entrepreneurship
+- long
+- management
 title: E202 对话阳萌：如果人生是场注定结束的旅程，那就快乐且长久地去创造吧
 summary: 安克创新CEO阳萌分享了他关于构建一家长久企业的思考。他强调以第一性原理、求极致和共成长为核心价值观，通过打造分布式、赋能式的系统来管理多品类业务，而非依赖超级英雄。他坦诚地回顾了公司经历的低谷，并阐述了如何通过逻辑和底层思考找到出路，最终目标是建立一个能激发创造者、活得比自己更久的企业生态。
-insight:
+insight: null
 file_name: dialogue_yang_meng_create_happily_and_long_term.md
 draft: true
-series:
-category:
+series: null
+category: null
 area: public-thinking
 project: 知行小酒馆
 status: evergreen
 created: 2025-09-01T12:55
 updated: 2025-09-02T13:55
+companies:
+- anker
 ---
 
 ## 开场：一次意料之外的访谈

@@ -1,117 +1,120 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Robin Hood
+- Tesla
+- Nvidia
+- S&P 500
+- AMD
+- SoFi
+- Grab
+- Google
+- Reddit
+- Amazon
+- Meta
+- Salesforce
+- PayPal
+- E.L.F. Beauty
+- Duolingo
+- SoundHound
+- Airbnb
+- Oklo
+- DraftKings
+- Opendoor
+- Affirm
+- Square
+- MP Materials
+- Monster Beverage
+- Peloton
+- Texas Roadhouse
+- Take-Two Interactive
+- OpenAI
+- Rocket Lab
+- AWS
+- ESPN
+- Disney
+- Ark Innovation
+- Coinbase
+- Roku
+- Palantir
+- Eli Lilly
+- Novo Nordisk
+- Marvell
+- Figma
+- The Trade Desk
+- IREN
+- Sunrun
+- Absci
+- USA Rare Earth
+- Amprius Technologies
+- Expedia
+- Dropbox
+- Price Waterhouse Coopers
+- XAI
+- Tulipshare Capital LLC
+- National Center for Public Policy Research
+- Broadridge Financial Solutions
+- TSMC
+- Samsung
+- Intel
+- Waymo
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Culture Series
+people:
+- Jensen Huang
+- Sam Altman
+- Bill Ackman
+- Vlad Tenev
+- Elon Musk
+- Brandon Ehrhart
+- Robyn Denholm
+- Steven Hawk
+- Tom Lee
+products_models:
+- TPU
+- SNAP
+- VIX
+- FSD
+- Optimus
+- Model Y
+- Autopilot
+- Grok
+- Cybertruck
+- CyberCab
+- AI5 Chip
+- Mega Pack
+- Powerwall
+- Supercharger
+- 4680 cell
+- Roadster
+- Grand Theft Auto 6
+- Blackwell
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=pAmigOV51AI
 speaker: Amit Kukreja
-tags:
-  - earnings-season
-  - market-selloff
-  - macroeconomic-factors
-  - humanoid-robots
-  - ai-chips
-title: 市场普跌下的财报季：特斯拉股东大会揭示“可持续富足”新篇章
-summary: 在11月6日这个市场普遍下跌的交易日，多重宏观利空因素（包括潜在的关税退款、政府停摆、以及创纪录的裁员数据）共同打压了市场情绪。尽管 Robin Hood 交出了史上最佳财报之一，其股价依然大跌。文章详细梳理了包括 IREN、Opendoor、Airbnb 在内的多家公司盘后财报表现，业绩喜忧参半。此外，OpenAI CEO Sam Altman 上调了营收预期。本次直播的核心是特斯拉年度股东大会，埃隆·马斯克详细阐述了公司的新使命——“实现可持续的富足”，并分享了关于 Optimus 机器人、自动驾驶（FSD）、自研 AI 芯片以及未来产品线（如 CyberCab）的宏大愿景。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Jensen Huang
-  - Sam Altman
-  - Bill Ackman
-  - Vlad Tenev
-  - Elon Musk
-  - Brandon Ehrhart
-  - Robyn Denholm
-  - Steven Hawk
-  - Tom Lee
-companies_orgs:
-  - Robin Hood
-  - Tesla
-  - Nvidia
-  - S&P 500
-  - AMD
-  - SoFi
-  - Grab
-  - Google
-  - Reddit
-  - Amazon
-  - Meta
-  - Salesforce
-  - PayPal
-  - E.L.F. Beauty
-  - Duolingo
-  - SoundHound
-  - Airbnb
-  - Oklo
-  - DraftKings
-  - Opendoor
-  - Affirm
-  - Square
-  - MP Materials
-  - Monster Beverage
-  - Peloton
-  - Texas Roadhouse
-  - Take-Two Interactive
-  - OpenAI
-  - Rocket Lab
-  - AWS
-  - ESPN
-  - Disney
-  - Ark Innovation
-  - Coinbase
-  - Roku
-  - Palantir
-  - Eli Lilly
-  - Novo Nordisk
-  - Marvell
-  - Figma
-  - The Trade Desk
-  - IREN
-  - Sunrun
-  - Absci
-  - USA Rare Earth
-  - Amprius Technologies
-  - Expedia
-  - Dropbox
-  - Price Waterhouse Coopers
-  - XAI
-  - Tulipshare Capital LLC
-  - National Center for Public Policy Research
-  - Broadridge Financial Solutions
-  - TSMC
-  - Samsung
-  - Intel
-  - Waymo
-products_models:
-  - TPU
-  - SNAP
-  - VIX
-  - FSD
-  - Optimus
-  - Model Y
-  - Autopilot
-  - Grok
-  - Cybertruck
-  - CyberCab
-  - AI5 Chip
-  - Mega Pack
-  - Powerwall
-  - Supercharger
-  - 4680 cell
-  - Roadster
-  - Grand Theft Auto 6
-  - Blackwell
-media_books:
-  - The Culture Series
 status: evergreen
+summary: 在11月6日这个市场普遍下跌的交易日，多重宏观利空因素（包括潜在的关税退款、政府停摆、以及创纪录的裁员数据）共同打压了市场情绪。尽管 Robin
+  Hood 交出了史上最佳财报之一，其股价依然大跌。文章详细梳理了包括 IREN、Opendoor、Airbnb 在内的多家公司盘后财报表现，业绩喜忧参半。此外，OpenAI
+  CEO Sam Altman 上调了营收预期。本次直播的核心是特斯拉年度股东大会，埃隆·马斯克详细阐述了公司的新使命——“实现可持续的富足”，并分享了关于 Optimus
+  机器人、自动驾驶（FSD）、自研 AI 芯片以及未来产品线（如 CyberCab）的宏大愿景。
+tags:
+- ai-chip
+- earnings-season
+- financial
+- humanoid-robot
+- market
+title: 市场普跌下的财报季：特斯拉股东大会揭示“可持续富足”新篇章
 ---
+
 ### 市场收盘回顾：多重利空打击下的普跌行情
 
 好的，各位朋友，欢迎回到新一期的市场收盘节目。今天是11月6日，星期四。股市今天相当惨淡。

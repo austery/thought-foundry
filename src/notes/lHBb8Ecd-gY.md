@@ -1,34 +1,32 @@
 ---
-title: 美股市场周报：宏观数据、财报季与投资策略展望
-summary: 本期节目总结了上周美股市场走势，分析了CPI、PPI及PCE数据对美联储政策的影响，回顾了财报季表现，并探讨了投资心态与策略。同时，对联合航空、特斯拉、英特尔等公司财报进行前瞻性分析，并介绍了Investing.com的AI选股功能。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- earnings-season
-- investment-strategy
-- macro-economy
-- market-analysis
-- us-equities
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-07-21'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=lHBb8Ecd-gY
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目总结了上周美股市场走势，分析了CPI、PPI及PCE数据对美联储政策的影响，回顾了财报季表现，并探讨了投资心态与策略。同时，对联合航空、特斯拉、英特尔等公司财报进行前瞻性分析，并介绍了Investing.com的AI选股功能。
+tags:
+- earnings-season
+- economy
+- investment
+- market-analysis
+title: 美股市场周报：宏观数据、财报季与投资策略展望
 ---
+
 ### 市场回顾与本周展望
 
 大家好，欢迎来到专业美股频道。借着周日晚上，我们将对上周市场走势进行总结，并对本周的宏观数据和财报进行展望。上周我们分享了五到六家公司的财报，本期将重点讨论**联合航空**（United Airlines: 美国一家大型航空公司）的财报，以观察消费者在旅游领域的健康状况。

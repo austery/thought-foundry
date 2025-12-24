@@ -1,40 +1,36 @@
 ---
-author: 老科谈科技股
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Gartner
+- OpenAI
+- Microsoft
+- Google
+- Nvidia
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jensen Huang
+products_models:
+- GPT-4
+- Cursor
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=02mwepIbgb0
 speaker: 老科谈科技股
-tags:
-  - llm
-  - prompt-engineering
-  - ai-infrastructure
-  - cybersecurity
-  - generative-ai
-title: 2026年十大技术趋势？科技股投资者必看！选择大于努力！(老科谈科技股 263期)
-summary: 本文解读Gartner发布的2026年十大战略技术趋势，包括AI原生开发、AI超算、机密计算、多智能体系统等。分析这些趋势对科技股投资者的意义，强调AI安全、AI基础设施及软件结构变革的重要性，并指出选择比努力更关键的投资理念。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Jensen Huang
-companies_orgs:
-  - Gartner
-  - OpenAI
-  - Microsoft
-  - Google
-  - Nvidia
-products_models:
-  - GPT-4
-  - Cursor
-media_books: []
 status: evergreen
+summary: 本文解读Gartner发布的2026年十大战略技术趋势，包括AI原生开发、AI超算、机密计算、多智能体系统等。分析这些趋势对科技股投资者的意义，强调AI安全、AI基础设施及软件结构变革的重要性，并指出选择比努力更关键的投资理念。
+tags:
+- ai-infrastructure
+- technology
+title: 2026年十大技术趋势？科技股投资者必看！选择大于努力！(老科谈科技股 263期)
 ---
+
 大家好！
 今天是2025年12月20日。欢迎来到这个追踪科技行业大趋势、顺势而为投资科技股的频道。2025年年底，著名咨询公司**Gartner**发布了2026年十大战略技术趋势。我今天给大家用通俗语言解释一下，并说说我认为了科技股投资者该如何应对和布局。
 

@@ -1,39 +1,38 @@
 ---
-author: Shanghao Jin
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
 date: '2025-03-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Joe Biden
+- Volodymyr Zelenskyy
+products_models:
+- DeepSeek
+- FSD
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=eiD3P7mzSRU
 speaker: Shanghao Jin
-tags:
-  - us-china-relations
-  - trade-tariffs
-  - economic-outlook
-  - ai-market-bubble
-  - political-uncertainty
-title: 中美经济前景、特朗普政策与AI泡沫：2025年市场展望
-summary: 近期市场波动剧烈，本文深入探讨了中美两国经济的当前困境与未来走向，并分析了特朗普潜在政策（关税、减税）对美国经济的短期负面及长期正面影响。同时，文章对中国经济的反弹性质、深层结构性问题以及AI技术泡沫进行了剖析，指出2025年市场面临诸多不确定性，建议投资者保持谨慎，并对加密货币市场提出警示。讲者认为，美国长期前景乐观，而中国经济反弹后仍面临下行压力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Joe Biden
-  - Volodymyr Zelenskyy
-companies_orgs:
-  - OpenAI
-products_models:
-  - DeepSeek
-  - FSD
-media_books: []
 status: evergreen
+summary: 近期市场波动剧烈，本文深入探讨了中美两国经济的当前困境与未来走向，并分析了特朗普潜在政策（关税、减税）对美国经济的短期负面及长期正面影响。同时，文章对中国经济的反弹性质、深层结构性问题以及AI技术泡沫进行了剖析，指出2025年市场面临诸多不确定性，建议投资者保持谨慎，并对加密货币市场提出警示。讲者认为，美国长期前景乐观，而中国经济反弹后仍面临下行压力。
+tags:
+- ai-market-bubble
+- economic-outlook
+- political
+- trade-tariff
+- us-china-relations
+title: 中美经济前景、特朗普政策与AI泡沫：2025年市场展望
 ---
+
 ### 市场波动与三大核心议题
 
 近期市场波动剧烈，引发了广泛关注。当前，市场主要围绕三大核心议题展开讨论：首先，美国经济是否已达顶峰，宏观层面应如何解读？其次，人工智能（AI）是否构成泡沫，若成立，泡沫何时可能破裂？第三，中国经济是否已触底，在美国机会不佳的情况下，中国市场是否会迎来重大机遇，特别是考虑到**DeepSeek**（深度求索: 一家中国人工智能公司，以其大模型产品闻名）的出现和即将召开的**两会**（全国人民代表大会和中国人民政治协商会议: 中国每年举行的重要政治会议，通常会发布新的政策和经济目标）可能带来的新政策？这些问题在对冲基金圈内引发了密集的闭门会议和讨论。

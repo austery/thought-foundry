@@ -1,44 +1,41 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 中金公司
 date: '2025-04-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《无欲望社会》
+- 《债务危机》
+- 《浅析日本失去的30年》
+people:
+- 游梦
+- 顾朝明
+- 达利欧
+- 徐小年
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ZQkiAEflp2c
 speaker: 海淀拙大叔
-tags:
-  - asset-bubble-burst
-  - balance-sheet-recession
-  - zombie-companies
-  - economic-structural-transformation
-  - macro-leverage
-  - monetary-policy
-  - fiscal-stimulus
-title: 中国与日本“失去的三十年”：基于资产负债表衰退理论的政策比较与启示
-summary: 本集深入探讨了中国与日本在面对经济长期停滞时所采取的不同政策路径。节目首先指出日本“失去的三十年”源于僵尸企业退出缓慢及经济结构调整的缺失。随后，详细阐述了顾朝明的**资产负债表衰退理论**，并结合日本的宏观杠杆率数据对其有效性进行了批判性分析。对比之下，中国自2018年以来采取了主动刺破资产泡沫、债务重组及发展新质生产力的策略，与日本的被动应对形成鲜明对比，旨在避免重蹈日本覆辙。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - 海淀拙大叔
-  - 游梦
-  - 顾朝明
-  - 达利欧
-  - 徐小年
-companies_orgs:
-  - 中金公司
-products_models: []
-media_books:
-  - 《无欲望社会》
-  - 《债务危机》
-  - 《浅析日本失去的30年》
 status: evergreen
+summary: 本集深入探讨了中国与日本在面对经济长期停滞时所采取的不同政策路径。节目首先指出日本“失去的三十年”源于僵尸企业退出缓慢及经济结构调整的缺失。随后，详细阐述了顾朝明的**资产负债表衰退理论**，并结合日本的宏观杠杆率数据对其有效性进行了批判性分析。对比之下，中国自2018年以来采取了主动刺破资产泡沫、债务重组及发展新质生产力的策略，与日本的被动应对形成鲜明对比，旨在避免重蹈日本覆辙。
+tags:
+- asset
+- economic
+- financial
+- fiscal-stimulus
+- zombie-company
+title: 中国与日本“失去的三十年”：基于资产负债表衰退理论的政策比较与启示
 ---
+
 ### 引言：中日经济停滞的异同与政策选择
 
 在《查甘经济宏观论》第13集中，我们将探讨中国与日本“失去的三十年”有何不同，并深入分析**资产负债表衰退理论**（Balance Sheet Recession Theory: 资产泡沫破灭后，企业和家庭部门因资产价值缩水而专注于还债，抑制投资和消费，导致经济长期停滞的现象）。本集旨在回应用户游梦的疑问：中国是否会像日本一样，经历“失去的三十年”？

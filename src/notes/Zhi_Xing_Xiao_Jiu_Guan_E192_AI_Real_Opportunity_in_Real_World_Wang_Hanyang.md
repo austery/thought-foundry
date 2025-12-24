@@ -1,31 +1,31 @@
 ---
-title: 'E192 AI: 真正的机会，不在AI，在现实世界'
-summary: null
-area: personal-growth
-category: psychology
-project:
-- ai-impact-analysis
-- personal-growth-lab
-tags:
-  - ai
-  - personal-growth
-people:
-  - 雨白
-  - 王汉洋
-companies_orgs: []
-products_models: []
-media_books:
-- 知行小酒馆
-date: '2025-06-10'
+area: tech-engineering
 author: Lei
-speaker: 知行小酒馆
+category: ai-ml
 channel: 知行小酒馆
+companies_orgs: []
+date: '2025-06-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 知行小酒馆
+people:
+- 雨白
+- 王汉洋
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
 series: null
 source: null
+speaker: 知行小酒馆
+summary: null
+tags:
+- personal-growth
+title: 'E192 AI: 真正的机会，不在AI，在现实世界'
 ---
+
 ## 开场：一个有趣的朋友——王汉洋
 
 **雨白:**

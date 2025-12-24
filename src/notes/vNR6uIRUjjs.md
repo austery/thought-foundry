@@ -1,67 +1,68 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- Chili's
+- Cracker Barrel
+- Red Robin
+- TGI Fridays
+- Olive Garden
+- Applebee's
+- Sysco
+- US Foods
+- Performance Food Group
+- Sam's Club
+- Costco
+- Federal Trade Commission
+- Walmart
+- Amazon
+- Starbucks
+- Unilever
+- Ben & Jerry's
+- General Mills
+- Fonterra
+- Kroger
+- Albertson's
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+- Wall Street Journal
+- CNBC
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Austin Frerick
+- Doha
+- John Baugh
+- Howard Schultz
+- Mike Froman
+products_models:
+- 'Barons: Money, Power, and the Corruption of America''s Food Industry'
+- Sigma
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=vNR6uIRUjjs
 speaker: Bloomberg Podcasts
-tags:
-  - food-supply-chain
-  - market-dominance
-  - antitrust-policy
-  - restaurant-industry
-  - food-homogenization
-title: 揭秘餐饮业的幕后巨头：Sysco如何塑造我们的餐桌与市场
-summary: 本期播客深入探讨了美国餐饮业背后鲜为人知的供应链巨头Sysco。节目揭示了Sysco如何通过大规模收购（“滚雪球”策略）建立其在食品分销领域的垄断地位，以及这种主导地位如何影响餐厅的采购选择、食品质量和整体餐饮体验。嘉宾Austin Frerick还讨论了反垄断政策的漏洞，以及这种集中化对地方经济和食品多样性造成的负面影响，呼吁对市场定义和并购活动进行更严格的监管，以期挽救美国餐饮业的独特风味。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Austin Frerick
-  - Doha
-  - John Baugh
-  - Howard Schultz
-  - Mike Froman
-companies_orgs:
-  - Bloomberg
-  - Chili's
-  - Cracker Barrel
-  - Red Robin
-  - TGI Fridays
-  - Olive Garden
-  - Applebee's
-  - Sysco
-  - US Foods
-  - Performance Food Group
-  - Sam's Club
-  - Costco
-  - Federal Trade Commission
-  - Walmart
-  - Amazon
-  - Starbucks
-  - Unilever
-  - Ben & Jerry's
-  - General Mills
-  - Fonterra
-  - Kroger
-  - Albertson's
-products_models:
-  - 'Barons: Money, Power, and the Corruption of America''s Food Industry'
-  - Sigma
-media_books:
-  - Odd Lots Podcast
-  - Wall Street Journal
-  - CNBC
 status: evergreen
+summary: 本期播客深入探讨了美国餐饮业背后鲜为人知的供应链巨头Sysco。节目揭示了Sysco如何通过大规模收购（“滚雪球”策略）建立其在食品分销领域的垄断地位，以及这种主导地位如何影响餐厅的采购选择、食品质量和整体餐饮体验。嘉宾Austin
+  Frerick还讨论了反垄断政策的漏洞，以及这种集中化对地方经济和食品多样性造成的负面影响，呼吁对市场定义和并购活动进行更严格的监管，以期挽救美国餐饮业的独特风味。
+tags:
+- food-supply-chain
+- industry
+- life
+- market-dominance
+- policy
+title: 揭秘餐饮业的幕后巨头：Sysco如何塑造我们的餐桌与市场
 ---
+
 ### 欢迎来到“奇思妙想”播客
 
 Joe: 大家好，欢迎收听“奇思妙想”播客的又一期节目。我是Joe Weisenthal。

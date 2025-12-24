@@ -1,32 +1,30 @@
 ---
-title: 律师社会与工程师国家：中美竞争与未来走向
-summary: 本期节目深入探讨了美国“律师型社会”与中国“工程师型国家”在治理模式、产业政策及外交策略上的差异与竞争，呼吁两国超越僵化框架，相互学习，以应对长期而复杂的全球挑战。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- foreign-policy
-- governance-models
-- industrial-policy
-- manufacturing
-- us-china-relations
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-06'
-author: a16z
-speaker: a16z
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=yYgvCYVUthI
+speaker: a16z
 status: evergreen
+summary: 本期节目深入探讨了美国“律师型社会”与中国“工程师型国家”在治理模式、产业政策及外交策略上的差异与竞争，呼吁两国超越僵化框架，相互学习，以应对长期而复杂的全球挑战。
+tags:
+- foreign-policy
+- industrial-policy
+- manufacturing
+- model
+- us-china-relations
+title: 律师社会与工程师国家：中美竞争与未来走向
 ---
+
 ### 超越刻板框架，追求共同进步
 
 I want people to get out of these rigid frameworks like socialist, capitalist, neoliberal, autocratic to think about the US and China.

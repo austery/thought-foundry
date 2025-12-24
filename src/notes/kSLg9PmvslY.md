@@ -1,30 +1,28 @@
 ---
-title: 掌控欲望：解析模仿力量，迈向个人成长与自由
-summary: 本文深入探讨《模仿欲望的力量》一书核心理念，揭示人类欲望的模仿本质及其引发的恶性循环。通过识别模仿对象、脱钩现有系统、追寻深层欲望，实现主动掌控欲望，迈向良性循环与个人幸福。
 area: personal-growth
 category: psychology
-project:
-  - personal-growth-lab
-tags:
-  - book-summary
-  - mimetic-desire
-  - personal-growth
-  - self-control
-  - social-psychology
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-12-19'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- book-summary
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=kSLg9PmvslY
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入探讨《模仿欲望的力量》一书核心理念，揭示人类欲望的模仿本质及其引发的恶性循环。通过识别模仿对象、脱钩现有系统、追寻深层欲望，实现主动掌控欲望，迈向良性循环与个人幸福。
+tags:
+- personal-growth
+- psychology
+- self
+- social
+title: 掌控欲望：解析模仿力量，迈向个人成长与自由
 ---
 
 ### 欲望的模仿本质与痛苦根源

@@ -1,37 +1,37 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-09-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Lovely China
+- Little Soldier Zhang Ga
+people:
+- Anthony
+- Fang Zhimin
+- Lacan
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=OHxBZUOYHHo
 speaker: Anthony看世界
-tags:
-  - ntr-fantasy
-  - chinese-nationalism
-  - sex-education
-  - masculinity
-  - psychoanalysis
-title: NTR幻想与中国民族主义：一种扭曲的性教育心理分析
-summary: 本文深入探讨了NTR（寝取られ）幻想背后的深层心理动机，并将其与中国的民族主义宣传和历史教育联系起来。通过分析日本成人影片中的经典NTR场景以及中国历史叙事中对“国耻”的描绘，文章揭示了这种扭曲的心理结构如何塑造了部分中国男性的阳刚之气，并导致了对女性的工具化和对自身无力感的病态补偿。最终，文章指出这种“知耻而后勇”的官方叙事未能真正解决个体深层的阉割感和焦虑。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Anthony
-  - Fang Zhimin
-  - Lacan
-companies_orgs: []
-products_models: []
-media_books:
-  - Lovely China
-  - Little Soldier Zhang Ga
 status: evergreen
+summary: 本文深入探讨了NTR（寝取られ）幻想背后的深层心理动机，并将其与中国的民族主义宣传和历史教育联系起来。通过分析日本成人影片中的经典NTR场景以及中国历史叙事中对“国耻”的描绘，文章揭示了这种扭曲的心理结构如何塑造了部分中国男性的阳刚之气，并导致了对女性的工具化和对自身无力感的病态补偿。最终，文章指出这种“知耻而后勇”的官方叙事未能真正解决个体深层的阉割感和焦虑。
+tags:
+- chinese-nationalism
+- education
+- masculinity
+- ntr-fantasy
+title: NTR幻想与中国民族主义：一种扭曲的性教育心理分析
+companies:
+- psychoanalysi
 ---
 
 ### NTR幻想的深层动机

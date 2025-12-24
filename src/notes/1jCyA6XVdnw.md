@@ -1,44 +1,43 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Oracle
+- OpenAI
+- Home Depot
+- Microsoft
+- Nvidia
+- Walmart
+- Anthropic
+- Redfin
+- Futu Moomoo
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- X
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=1jCyA6XVdnw
 speaker: 投资TALK君
-tags:
-  - ai-bubble
-  - us-housing-market
-  - market-sentiment
-  - corporate-finance
-  - investment-tools
-title: Oracle与Home Depot财报揭示市场信号：AI泡沫、楼市寒冬与投资策略
-summary: 本期节目深入分析了甲骨文（Oracle）因OpenAI订单引发的财务担忧，以及家得宝（Home Depot）财报所反映的美国房地产市场低迷现状。主持人探讨了市场避险情绪、恐慌贪婪指数的解读，并指出当前AI领域可能存在的泡沫。同时，节目还详细介绍了富途牛牛的财报分析和期权交易功能，为投资者提供了实用的市场洞察和工具使用指南。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - Oracle
-  - OpenAI
-  - Home Depot
-  - Microsoft
-  - Nvidia
-  - Walmart
-  - Anthropic
-  - Redfin
-  - Futu Moomoo
-products_models: []
-media_books:
-  - Financial Times
-  - X
 status: evergreen
+summary: 本期节目深入分析了甲骨文（Oracle）因OpenAI订单引发的财务担忧，以及家得宝（Home Depot）财报所反映的美国房地产市场低迷现状。主持人探讨了市场避险情绪、恐慌贪婪指数的解读，并指出当前AI领域可能存在的泡沫。同时，节目还详细介绍了富途牛牛的财报分析和期权交易功能，为投资者提供了实用的市场洞察和工具使用指南。
+tags:
+- ai-bubble
+- corporate
+- investment
+- market-sentiment
+- us-housing-market
+title: Oracle与Home Depot财报揭示市场信号：AI泡沫、楼市寒冬与投资策略
 ---
+
 ### 市场概览与避险情绪
 
 本期节目将主要探讨社交媒体上周二被广泛传播的一篇文章，该文章来自《金融时报》（Financial Times），内容关于**甲骨文公司**（Oracle: 全球大型企业级软件和硬件产品供应商）目前面临的挑战。文章深入分析了**甲骨文公司**的现状，并探讨了这是否与**AI泡沫**（AI bubble: 人工智能相关公司估值过高，脱离实际价值的现象）有关，以及是否提供了新的观点和数据。此外，节目还将讨论周二盘前发布财报的**家得宝**（Home Depot: 美国大型家居建材零售商），借此机会分析美国房地产市场的最新动态。

@@ -1,65 +1,65 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- MicroStrategy
+- Vornado
+- SL Green
+- Equinix
+- Digital Realty
+- Colony Capital
+- DigitalBridge
+- Carvana
+- DriveTime Finance
+- Ugly Duckling
+- Nvidia
+- Cisco
+- Lucent
+- Kodak
+- Blockbuster
+- Yellow Pages
+- Tesla
 date: '2025-06-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+people:
+- Jim Chanos
+- Michael Saylor
+- Cliff Asness
+- Jim Egan
+- Elon Musk
+- Tracy Alloway
+- Joe Weisenthal
+- Carmen Rodriguez
+- Arman Dashel Bennett
+- Kaleb Brooks
+products_models:
+- S&P 500
+- Bloomberg terminal
+- ChatGPT
+project:
+- investment-strategy
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=2z71Xwkygyo
 speaker: Bloomberg Podcasts
-tags:
-  - bitcoin-treasury-companies
-  - short-selling
-  - commercial-real-estate
-  - ai-investment-boom
-  - market-irrationality
-title: 吉姆·查诺斯：比特币国库公司、AI投资热潮与市场非理性
-summary: 著名做空者吉姆·查诺斯在一次现场活动中分享了他对当前市场的看法。他批评了“比特币国库公司”的荒谬商业模式，认为其估值脱离现实。查诺斯还讨论了纽约商业地产的挑战、数据中心REITs面临的资本支出压力，以及二手车零售商Carvana的财务问题。他指出，私募股权的“黄金时代”已过，并警告AI投资热潮可能导致企业利润率的均值回归。最后，他强调了做空时机选择的难度，并以特斯拉为例说明了市场中“希望与梦想”型股票的非理性估值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
-people:
-  - Jim Chanos
-  - Michael Saylor
-  - Cliff Asness
-  - Jim Egan
-  - Elon Musk
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Carmen Rodriguez
-  - Arman Dashel Bennett
-  - Kaleb Brooks
-companies_orgs:
-  - Bloomberg
-  - MicroStrategy
-  - Vornado
-  - SL Green
-  - Equinix
-  - Digital Realty
-  - Colony Capital
-  - DigitalBridge
-  - Carvana
-  - DriveTime Finance
-  - Ugly Duckling
-  - Nvidia
-  - Cisco
-  - Lucent
-  - Kodak
-  - Blockbuster
-  - Yellow Pages
-  - Tesla
-products_models:
-  - S&P 500
-  - Bloomberg terminal
-  - ChatGPT
-media_books:
-  - Odd Lots
 status: evergreen
+summary: 著名做空者吉姆·查诺斯在一次现场活动中分享了他对当前市场的看法。他批评了“比特币国库公司”的荒谬商业模式，认为其估值脱离现实。查诺斯还讨论了纽约商业地产的挑战、数据中心REITs面临的资本支出压力，以及二手车零售商Carvana的财务问题。他指出，私募股权的“黄金时代”已过，并警告AI投资热潮可能导致企业利润率的均值回归。最后，他强调了做空时机选择的难度，并以特斯拉为例说明了市场中“希望与梦想”型股票的非理性估值。
+tags:
+- ai-investment-boom
+- investment
+- market
+- real
+- short-selling
+title: 吉姆·查诺斯：比特币国库公司、AI投资热潮与市场非理性
 ---
+
 ### 欢迎辞与吉姆·查诺斯
 
 大家好，Odd Lots的听众们。你们即将收听一期非常特别的节目。这是我们在纽约近期活动中现场录制的一段对话。

@@ -1,46 +1,45 @@
 ---
-author: Veritasium
-date: '2025-03-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=20vUNgRdB4o
-speaker: Veritasium
-tags:
-  - veritasium
-  - mars-exploration
-  - space-technology
-  - autonomous-flight
-  - off-the-shelf-components
-  - aerospace-engineering
-title: 火星上的奇迹：机智号直升机1004天传奇与未来探索
-summary: 本文深入探讨了美国宇航局（NASA）的“机智号”火星直升机如何从最初的30天技术验证任务，克服火星极端环境、导航系统故障和尘暴等挑战，最终在火星表面坚持了1004天。文章详细分析了其坠毁原因，并介绍了下一代火星直升机“Chopper”的设计理念，强调了“机智号”对未来行星探索的深远影响，以及其作为“天气站”的持续贡献。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Kenneth Farley
-  - Alex
+category: technology
 companies_orgs:
-  - NASA
-  - Jet Propulsion Laboratory
-  - Incogni
-products_models:
-  - Ingenuity
-  - Perseverance Rover
-  - Chopper
-  - Samsung Galaxy S5
-  - Google Pixel 3
+- NASA
+- Jet Propulsion Laboratory
+- Incogni
+date: '2025-03-20'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Martian
-  - Astrum
+- The Martian
+- Astrum
+people:
+- Kenneth Farley
+- Alex
+products_models:
+- Ingenuity
+- Perseverance Rover
+- Chopper
+- Samsung Galaxy S5
+- Google Pixel 3
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=20vUNgRdB4o
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了美国宇航局（NASA）的“机智号”火星直升机如何从最初的30天技术验证任务，克服火星极端环境、导航系统故障和尘暴等挑战，最终在火星表面坚持了1004天。文章详细分析了其坠毁原因，并介绍了下一代火星直升机“Chopper”的设计理念，强调了“机智号”对未来行星探索的深远影响，以及其作为“天气站”的持续贡献。
+tags:
+- engineering
+- geopolitical
+- off-the-shelf-component
+- science
+- technology
+title: 火星上的奇迹：机智号直升机1004天传奇与未来探索
 ---
+
 ### 火星任务的严峻考验
 
 本应为期30天的任务，在第427天却演变成了一场噩梦。

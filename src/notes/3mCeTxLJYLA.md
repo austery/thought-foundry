@@ -1,31 +1,29 @@
 ---
-title: iPhone 15 Pro与AI闪念笔记：打造个人专属智能语音效率系统
-summary: 本视频展示了如何利用iPhone 15 Pro的动作按钮，结合OpenAI的Whisper语音识别与ChatGPT，实现高效的“闪念笔记”和“语音键盘”功能。内容涵盖了从概念、应用场景到详细的设置教程，旨在帮助用户构建定制化的AI效率工具。
 area: tech-insights
 category: technology
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-tags:
-  - ai-productivity
-  - apple-shortcuts
-  - iphone-15-pro
-  - voice-notes
-people: []
 companies_orgs: []
-products_models:
-  - chatgpt
-media_books: []
 date: '2023-09-28'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- chatgpt
+project:
+- ai-impact-analysis
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=3mCeTxLJYLA
+speaker: 一口新飯
 status: evergreen
+summary: 本视频展示了如何利用iPhone 15 Pro的动作按钮，结合OpenAI的Whisper语音识别与ChatGPT，实现高效的“闪念笔记”和“语音键盘”功能。内容涵盖了从概念、应用场景到详细的设置教程，旨在帮助用户构建定制化的AI效率工具。
+tags:
+- ai-productivity
+- canada
+- voice-note
+title: iPhone 15 Pro与AI闪念笔记：打造个人专属智能语音效率系统
+companies:
+- apple-shortcut
 ---
 
 ### 购置iPhone 15 Pro：为效率神器而升级

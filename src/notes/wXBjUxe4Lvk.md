@@ -1,53 +1,53 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- TED
+- Harris Poll
+- LetGrow
+- Boston College
+- Long Island University
+- Sears
+- Nike
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily Mail
+- How Children Lost the Right to Rome in Four Generations
+- Journal of Pediatrics
+- Law and Order
+- Stranger Things
+- The Anxious Generation
+people:
+- Lenore Skenazy
+- Eton Pates
+- Adam Walsh
+- Peter Gray
+- Jonathan Haidt
+- Camilo Ortiz
+products_models:
+- Long Island Railroad
+- Apollo 13
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=wXBjUxe4Lvk
 speaker: TED
-tags:
-  - child-independence
-  - overprotective-parenting
-  - child-anxiety
-  - resilience-building
-  - community-involvement
-title: 如何培养自信独立的孩子：应对焦虑时代的育儿挑战
-summary: 本文探讨了在当今焦虑时代如何培养自信独立的孩子。作者Lenore Skenazy分享了她因倡导“放养式育儿”而被称作“美国最差妈妈”的经历，并深入分析了过度保护的育儿方式对儿童心理健康和发展造成的负面影响。文章揭示了媒体渲染恐惧、社会过度监管等因素如何导致儿童独立性下降，以及如何通过实际行动，如“放养式体验”作业和社区协作，帮助孩子重获自由，培养韧性与自主性，同时减轻父母的育儿负担。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Lenore Skenazy
-  - Eton Pates
-  - Adam Walsh
-  - Peter Gray
-  - Jonathan Haidt
-  - Camilo Ortiz
-companies_orgs:
-  - TED
-  - Harris Poll
-  - LetGrow
-  - Boston College
-  - Long Island University
-  - Sears
-  - Nike
-products_models:
-  - Long Island Railroad
-  - Apollo 13
-media_books:
-  - The Daily Mail
-  - How Children Lost the Right to Rome in Four Generations
-  - Journal of Pediatrics
-  - Law and Order
-  - Stranger Things
-  - The Anxious Generation
 status: evergreen
+summary: 本文探讨了在当今焦虑时代如何培养自信独立的孩子。作者Lenore Skenazy分享了她因倡导“放养式育儿”而被称作“美国最差妈妈”的经历，并深入分析了过度保护的育儿方式对儿童心理健康和发展造成的负面影响。文章揭示了媒体渲染恐惧、社会过度监管等因素如何导致儿童独立性下降，以及如何通过实际行动，如“放养式体验”作业和社区协作，帮助孩子重获自由，培养韧性与自主性，同时减轻父母的育儿负担。
+tags:
+- anxiety
+- child
+- community-involvement
+- overprotective-parenting
+- resilience-building
+title: 如何培养自信独立的孩子：应对焦虑时代的育儿挑战
 ---
+
 ### “美国最差妈妈”与“放养式育儿”的文化冲击
 
 您在演讲开始时提到，在您让九岁的儿子独自乘坐纽约市地铁后，您曾被称为“**美国最差妈妈**”（America's Worst Mom: 一个讽刺性称号，指因允许孩子独立行动而受到公众批评的母亲），而您欣然接受了这个称号。

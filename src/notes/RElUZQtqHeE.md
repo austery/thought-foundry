@@ -1,37 +1,37 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 财新峰会
+- 全国人大
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 小翠时政财经
+people:
+- 楼继伟
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=RElUZQtqHeE
 speaker: 小翠時政財經
-tags:
-  - property-tax
-  - real-estate-bubble
-  - fiscal-crisis
-  - social-stability
-  - ai-era-impact
-title: 中国房产税何时落地？前财长爆料与AI时代下的房地产终局猜想
-summary: 中国前财政部长楼继伟近日放风，暗示房产税立法已完成，技术难题已解决，只待时机开征。本文分析了房产税落地的真正阻碍并非技术，而是政治风险与系统性危机。文章进一步探讨了房产税的最佳开征时机应是房地产市场进入横盘期，而非触底时。最后，提出一个大胆设想：中国或将借AI时代东风，通过社会结构重组和政府兜底住房福利，以新加坡式的住房双轨制来化解房地产泡沫，并为房产税开征铺平道路。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 楼继伟
-  - 习近平
-companies_orgs:
-  - 财新峰会
-  - 全国人大
-products_models: []
-media_books:
-  - 小翠时政财经
 status: evergreen
+summary: 中国前财政部长楼继伟近日放风，暗示房产税立法已完成，技术难题已解决，只待时机开征。本文分析了房产税落地的真正阻碍并非技术，而是政治风险与系统性危机。文章进一步探讨了房产税的最佳开征时机应是房地产市场进入横盘期，而非触底时。最后，提出一个大胆设想：中国或将借AI时代东风，通过社会结构重组和政府兜底住房福利，以新加坡式的住房双轨制来化解房地产泡沫，并为房产税开征铺平道路。
+tags:
+- crisis
+- impact
+- real
+- social
+- tax
+title: 中国房产税何时落地？前财长爆料与AI时代下的房地产终局猜想
 ---
+
 ### 前财长楼继伟爆料：房产税已箭在弦上
 
 大家好，欢迎回到“小翠时政财经”。美东时间2025年11月15日，在第16届财新峰会上，中国前财政部长楼继伟突然对外放风，透露了一个信息量巨大的消息。他表示，中国的**房产税**（Property Tax: 对房屋所有者征收的税费）其实早在2013年就已提出，全国人大层面的立法工作也已完成，而过去外界认为的那些技术难点，如今也已基本解决。

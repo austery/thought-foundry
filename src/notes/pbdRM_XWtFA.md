@@ -1,52 +1,52 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 共青团中央
+- 中信
+- 中宣部
 date: '2024-02-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《英国宪法史纲》
+- 《资本论》
+- 《穹顶之下》
+people:
+- 李克强
+- 柴静
+- 陶景周
+- 龚祥瑞
+- 张伟
+- 王军涛
+- 李少明
+- 李鸿林
+- 胡耀邦
+- 张志新
+- 邓小平
+- 约翰·洛克
+- 贝多芬
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=pbdRM_XWtFA
 speaker: 柴静 Chai Jing
-tags:
-  - li-keqiang-legacy
-  - pku-era
-  - rule-of-law
-  - market-economy
-  - political-reform
-title: 李克强的北大岁月：权力制约、法治精神与改革开放的印记
-summary: 本文通过李克强两位北大同学的视角，回顾了这位中国前总理在北大的求学经历及其价值观的形成。文章探讨了他在贫困中求学、对法治与市场经济的深刻理解，以及他温和、务实的个性。从龚祥瑞教授的宪政思想，到对洛克私有产权理论的认同，再到简政放权的实践，李克强的北大岁月塑造了他对国家治理的独特理念，也折射出改革开放初期中国思想解放的时代缩影。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 李克强
-  - 柴静
-  - 陶景周
-  - 龚祥瑞
-  - 张伟
-  - 王军涛
-  - 李少明
-  - 李鸿林
-  - 胡耀邦
-  - 张志新
-  - 邓小平
-  - 约翰·洛克
-  - 贝多芬
-companies_orgs:
-  - 共青团中央
-  - 中信
-  - 中宣部
-products_models: []
-media_books:
-  - 《英国宪法史纲》
-  - 《资本论》
-  - 《穹顶之下》
 status: evergreen
+summary: 本文通过李克强两位北大同学的视角，回顾了这位中国前总理在北大的求学经历及其价值观的形成。文章探讨了他在贫困中求学、对法治与市场经济的深刻理解，以及他温和、务实的个性。从龚祥瑞教授的宪政思想，到对洛克私有产权理论的认同，再到简政放权的实践，李克强的北大岁月塑造了他对国家治理的独特理念，也折射出改革开放初期中国思想解放的时代缩影。
+tags:
+- history
+- legacy
+- market
+- political-reform
+- rule-of-law
+title: 李克强的北大岁月：权力制约、法治精神与改革开放的印记
 ---
+
 ### 李克强：从农家子弟到北大精英的求学之路
 
 2月3日是中国前总理李克强逝世**百日祭**（中国传统习俗：逝世满一百天的祭奠）。按照中国传统的百日之期，我们以这期节目来与他告别。李克强被称为是中国最弱势的一任总理，但是他在68岁去世的时候，得到了中国民间的巨大哀悼。人们把缅怀他，称为是在缅怀一个时代。因为李克强的命运，由**改革开放**（中国自1978年起推行的经济和社会发展战略）塑造。他是1977年中国恢复高考之后，第一代考上北大的学生，和这个国家一起，经历了法律、经济和思想界在一片荒芜当中重建的过程。他在这个阶段建立起了什么样的价值观和知识体系？他的性情如何？有什么个性弱点？这些又如何影响了此后的中国政治？今天节目中我请到他的两位北大同学来谈李克强的北大岁月。

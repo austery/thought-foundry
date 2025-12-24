@@ -1,43 +1,43 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- Proper Television
+- TVO Today
+- The Thai
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Selling Sunset
+- The Real Housewives
+- Master Chef Canada
+- The Great Canadian Bake Show
+- Listing Large
+- Gilmore Girls
+people:
+- Kathy James
+- Sarah Cresell
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=jC8K2r7es70
 speaker: TVO Today
-tags:
-  - reality-tv
-  - escapism
-  - rot-day
-  - nostalgia-tv
-  - hustle-culture
-title: 为何沉迷真人秀？深度解析逃避现实与怀旧文化
-summary: 本文探讨了真人秀电视节目为何经久不衰，深入分析了其作为逃避现实的工具、奢华展现的吸引力，以及“烂日”（Rot Day）等新兴文化现象。节目制作人与媒体评论员分享了关于内容创作、角色塑造、竞争元素以及怀旧趋势的见解，并反思了过度沉迷可能带来的现实生活代价。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Kathy James
-  - Sarah Cresell
-companies_orgs:
-  - Proper Television
-  - TVO Today
-  - The Thai
-products_models: []
-media_books:
-  - Selling Sunset
-  - The Real Housewives
-  - Master Chef Canada
-  - The Great Canadian Bake Show
-  - Listing Large
-  - Gilmore Girls
 status: evergreen
+summary: 本文探讨了真人秀电视节目为何经久不衰，深入分析了其作为逃避现实的工具、奢华展现的吸引力，以及“烂日”（Rot Day）等新兴文化现象。节目制作人与媒体评论员分享了关于内容创作、角色塑造、竞争元素以及怀旧趋势的见解，并反思了过度沉迷可能带来的现实生活代价。
+tags:
+- code
+- culture
+- nostalgia-tv
+- reality-tv
+- rot-day
+title: 为何沉迷真人秀？深度解析逃避现实与怀旧文化
 ---
+
 ### 真人秀的持久魅力
 
 《摩门妻子们的秘密生活》、《爱岛》、《几乎所有你听过的城市的真人家庭主妇》等等。在真人秀（**Reality TV**: A genre of television programming that documents unscripted situations.）这一类型真正兴起三十多年后，它依然比以往任何时候都更加强大。那么，究竟是什么让真人秀节目让我们欲罢不能，一再回归呢？

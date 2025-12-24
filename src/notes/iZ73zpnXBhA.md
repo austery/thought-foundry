@@ -1,31 +1,30 @@
 ---
-title: OpenAI信任危机：奥特曼的权力游戏与理想主义者的挣扎
-summary: 本文揭示了OpenAI首席执行官山姆·奥特曼被核心高管联手“背刺”并解雇的惊人内幕，以及他如何凭借强大的人脉和资本力量成功复辟。同时，文章也探讨了首席科学家伊尔雅·苏兹克维在理想与现实之间挣扎，并另起炉灶的故事。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-governance
-- corporate-politics
-people:
-- ilya-sutskever
-- sam-altman
 companies_orgs:
 - openai
-products_models: []
-media_books: []
 date: '2025-09-26'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- ilya-sutskever
+- sam-altman
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=iZ73zpnXBhA
+speaker: 北美王路飞
 status: evergreen
+summary: 本文揭示了OpenAI首席执行官山姆·奥特曼被核心高管联手“背刺”并解雇的惊人内幕，以及他如何凭借强大的人脉和资本力量成功复辟。同时，文章也探讨了首席科学家伊尔雅·苏兹克维在理想与现实之间挣扎，并另起炉灶的故事。
+tags:
+- ai-governance
+- politics
+title: OpenAI信任危机：奥特曼的权力游戏与理想主义者的挣扎
 ---
+
 ### 马斯克的AI之路与OpenAI的铁三角
 
 此前，埃隆·马斯克与山姆·奥特曼曾有一段竞争故事，最终以马斯克另辟蹊径，创办了自己的**XAI**（X.AI: 埃隆·马斯克创立的人工智能公司），意图与**OpenAI**（开放人工智能: 一家致力于开发和推广友好型人工智能的美国研究机构）一较高下而告终。此后，OpenAI内部形成了一个“铁三角”组合，由山姆·奥特曼、首席技术官以及**伊尔雅·苏兹克维**（Ilya Sutskever: OpenAI的首席科学家，人工智能领域的知名研究员）构成。苏兹克维是人工智能先驱辛顿的学生。在那段时间里，OpenAI发展迅猛，甚至让马斯克都感到眼红。

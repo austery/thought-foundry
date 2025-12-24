@@ -1,67 +1,66 @@
 ---
-author: 三個水槍手
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 南方周末
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李沪尘
+- 纪连海
+- 颜从年
+- 孙中山
+- 当年明月
+- 王力雄
+- 郭继承
+- 沈逸
+- 金灿荣
+- 方志敏
+- 毛泽东
+- 王志安
+- 宋鸿兵
+- 邓小平
+- 蒋介石
+- 陈云
+- 刘仲敬
+- 顾颉刚
+- 鲁迅
+- Otto von Bismarck
+- Martin Luther King Jr.
+- 袁阔成
+- 易中天
+- 贺卫方
+- Xi Jinping
+- 李自成
+- 努尔哈赤
+- Benedetto Croce
+- 董宇辉
+- 罗翔
+- huanghan
+products_models:
+- 《明朝那些事儿》
+- 《毛选》
+- 《货币战争》
+- 《香港民族论》
+- 《红楼梦》
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=UMic9Pgus9g
 speaker: 三個水槍手
-tags:
-  - huanghan
-  - nationalism
-  - ideology
-  - social-movements
-  - historical-revisionism
-title: 皇汉思潮：中国大汉族民族主义的崛起与挑战
-summary: 本期节目深入探讨了2025年末在中国互联网上突然爆发的“皇汉”思潮。嘉宾们分析了皇汉主义作为一种“大帐篷意识形态”如何融合了汉服、反排外、民国派、明粉等多种社会潮流，并探讨了其核心诉求——强调汉族中心地位、批判少数民族政策、以及对中国历史的重构。节目还详细剖析了“建制派皇汉”代表人物“吃瓜盟主”的观点及其与官方意识形态的契合与冲突，并对比了“北派皇汉”与“南派皇汉”的不同主张，最终讨论了这股思潮对中国社会和政治可能带来的深远影响。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - 李沪尘
-  - 纪连海
-  - 颜从年
-  - 孙中山
-  - 当年明月
-  - 王力雄
-  - 郭继承
-  - 沈逸
-  - 金灿荣
-  - 方志敏
-  - 毛泽东
-  - 王志安
-  - 宋鸿兵
-  - 邓小平
-  - 蒋介石
-  - 陈云
-  - 刘仲敬
-  - 顾颉刚
-  - 鲁迅
-  - Otto von Bismarck
-  - Martin Luther King Jr.
-  - 袁阔成
-  - 易中天
-  - 贺卫方
-  - 习近平
-  - 李自成
-  - 努尔哈赤
-  - Benedetto Croce
-  - 董宇辉
-  - 罗翔
-companies_orgs:
-  - 南方周末
-products_models:
-  - 《明朝那些事儿》
-  - 《毛选》
-  - 《货币战争》
-  - 《香港民族论》
-  - 《红楼梦》
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了2025年末在中国互联网上突然爆发的“皇汉”思潮。嘉宾们分析了皇汉主义作为一种“大帐篷意识形态”如何融合了汉服、反排外、民国派、明粉等多种社会潮流，并探讨了其核心诉求——强调汉族中心地位、批判少数民族政策、以及对中国历史的重构。节目还详细剖析了“建制派皇汉”代表人物“吃瓜盟主”的观点及其与官方意识形态的契合与冲突，并对比了“北派皇汉”与“南派皇汉”的不同主张，最终讨论了这股思潮对中国社会和政治可能带来的深远影响。
+tags:
+- historical
+- nationalism
+- social
+- society
+title: 皇汉思潮：中国大汉族民族主义的崛起与挑战
 ---
+
 ### 2025年末中国社会思潮观察
 
 我们借机会做一个小广告，我们本周末是20号21号，在东京的**中叶四季森公园**做一个赌书节。这期节目必须周五播出，如果播出的话，然后我们周六会上午10点有一个“三个水箱手”读者见面会、观众见面会，欢迎大家想打我们的、想给我们送好吃的、送水箱手的都可以。我觉得这个时间到2025年年末，本来应该是总结的时候，但结果我觉得中国现在社会氛围非常诡异，妖蛾子特别多，而且是翻江倒海的。我感觉，今年如果我们可以总结的话，今年是中国人的社会理论大年。我只关心一个问题：习总江山稳不稳？这是不是征兆？我们可以从这往下聊的。

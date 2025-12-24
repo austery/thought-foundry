@@ -1,42 +1,41 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- NASDAQ
+- Norges Bank Investment Management
+- Apple
+- Microsoft
+- Amazon
+- Alphabet
+- Norwegian Exchange
 date: '2024-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicola Tangan
+- Adena Friedman
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=6fsq-TYpMh0
 speaker: Norges Bank Investment Management
-tags:
-  - capital-markets
-  - financial-technology
-  - public-vs-private-companies
-  - market-concentration
-  - leadership-development
-title: 纳斯达克CEO艾德娜·弗里德曼：塑造全球金融的未来
-summary: 本播客节选深入探讨了纳斯达克（NASDAQ）如何从一个市场运营商转型为全球金融科技巨头。纳斯达克首席执行官艾德娜·弗里德曼分享了公司在流动性、透明度和诚信三大支柱上的发展战略，并讨论了全球资本市场的未来趋势，包括公司上市的结构性与周期性考量，以及市场集中度问题。此外，她还提供了关于领导力、信任和对年轻人的职业建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - personal-growth-lab
-people:
-  - Nicola Tangan
-  - Adena Friedman
-companies_orgs:
-  - NASDAQ
-  - Norges Bank Investment Management
-  - Apple
-  - Microsoft
-  - Amazon
-  - Alphabet
-  - Norwegian Exchange
-products_models: []
-media_books: []
 status: evergreen
+summary: 本播客节选深入探讨了纳斯达克（NASDAQ）如何从一个市场运营商转型为全球金融科技巨头。纳斯达克首席执行官艾德娜·弗里德曼分享了公司在流动性、透明度和诚信三大支柱上的发展战略，并讨论了全球资本市场的未来趋势，包括公司上市的结构性与周期性考量，以及市场集中度问题。此外，她还提供了关于领导力、信任和对年轻人的职业建议。
+tags:
+- capital-market
+- financial
+- leadership-development
+- market-concentration
+- public
+title: 纳斯达克CEO艾德娜·弗里德曼：塑造全球金融的未来
 ---
+
 ### 播客引言与嘉宾介绍
 
 大家好，欢迎收听本期播客的精简版，我们每周五都会推出精简版，完整版则在每周三发布。

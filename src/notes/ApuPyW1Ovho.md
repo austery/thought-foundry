@@ -1,65 +1,65 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: business
+companies_orgs:
+- MDA Space
+- ASTS
+- Rocket Lab
+- Starlink
+- Globalstar
+- Echostar
+- Viasat
+- Telesat
+- Apple
+- Thales
+- FCC
+- SpaceX
+- JenaOptronic
+- Tesat
+- Airbus
+- Saft
+- NASA
+- Blue Origin
 date: '2025-10-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Money or Life 美股频道
+people:
+- Ace
+products_models:
+- AURORA
+- Canadaarm
+- Canadaarm2
+- Canadaarm3
+- MDA SKYMAKER
+- CHORUS
+- Flatelite
+- Photon
+- Pioneer
+- Explorer
+- Lightning
+- Kuiper
+- OneWeb
+project:
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=ApuPyW1Ovho
 speaker: Money or Life 美股频道
-tags:
-  - satellite-manufacturing
-  - space-robotics
-  - low-earth-orbit
-  - space-economy
-  - telecommunications
-title: MDA Space：一家低调但稳步增长的卫星制造公司深度解析
-summary: 本期视频深入分析了MDA Space这家在太空制造领域拥有悠久历史的公司。视频详细介绍了其三大核心业务：卫星系统、太空机器人和空间地理情报，并重点阐述了其AURORA卫星平台的技术优势、主要客户及其订单波折。同时，视频还提供了卫星星座和制造的行业框架，并结合MDA的财务数据，探讨了其稳健的增长潜力和投资价值，强调了太空通讯未来发展的广阔前景。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Ace
-companies_orgs:
-  - MDA Space
-  - ASTS
-  - Rocket Lab
-  - Starlink
-  - Globalstar
-  - Echostar
-  - Viasat
-  - Telesat
-  - Apple
-  - Thales
-  - FCC
-  - SpaceX
-  - JenaOptronic
-  - Tesat
-  - Airbus
-  - Saft
-  - NASA
-  - Blue Origin
-products_models:
-  - AURORA
-  - Canadaarm
-  - Canadaarm2
-  - Canadaarm3
-  - MDA SKYMAKER
-  - CHORUS
-  - Flatelite
-  - Photon
-  - Pioneer
-  - Explorer
-  - Lightning
-  - Kuiper
-  - OneWeb
-media_books:
-  - Money or Life 美股频道
 status: evergreen
+summary: 本期视频深入分析了MDA Space这家在太空制造领域拥有悠久历史的公司。视频详细介绍了其三大核心业务：卫星系统、太空机器人和空间地理情报，并重点阐述了其AURORA卫星平台的技术优势、主要客户及其订单波折。同时，视频还提供了卫星星座和制造的行业框架，并结合MDA的财务数据，探讨了其稳健的增长潜力和投资价值，强调了太空通讯未来发展的广阔前景。
+tags:
+- manufacturing
+- science
+- space-economy
+- space-robotic
+- telecommunication
+title: MDA Space：一家低调但稳步增长的卫星制造公司深度解析
 ---
+
 ### MDA Space公司概览及其核心业务
 
 本期视频将为大家带来MDA Space这家太空制造领域的公司分析。制作这期视频，不仅因为对MDA感兴趣，更是希望通过对MDA的分析，学习更多太空制造和太空应用方面的公司。因此，视频中会提到许多其他公司，例如ASTS、Rocket Lab、Starlink、Globalstar、Echostar、Viasat和Telesat等。

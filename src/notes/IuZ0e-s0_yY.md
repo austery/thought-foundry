@@ -1,55 +1,55 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Fox News
+- Washington Post
+- US Navy SEAL Team Six
+- US Department of Defense
+- US Congress
+- US House of Representatives
+- US Senate
+- NATO
+- The Atlantic
+- New York Times
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《无间道》
+- 《狂飙》
+- 《2025年国家毒品威胁评估》
+people:
+- Peter Hegseth
+- Donald Trump
+- Frank Bradley
+- Vance
+- Juan Orlando Hernández
+- Osama bin Laden
+- Franklin
+- William W. Belknap
+products_models:
+- Signal
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=IuZ0e-s0_yY
 speaker: 北美王路飞
-tags:
-  - war-crimes-allegations
-  - political-controversy
-  - impeachment-process
-  - media-relations
-  - drug-interdiction
-title: 美国战争部长争议事件：从“二次打击”到弹劾风波
-summary: 本文深入探讨了美国战争部长黑格赛斯近期引发的一系列争议事件。从涉嫌违反《日内瓦公约》的“二次打击”毒贩船事件，到其在外交、内部管理和媒体关系上的不当行为，揭示了其任命以来面临的巨大舆论压力和法律挑战。文章还分析了针对黑格赛斯的弹劾动议及其在参议院通过的低概率，并探讨了这些事件对特朗普政府的潜在影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Peter Hegseth
-  - Donald Trump
-  - Frank Bradley
-  - Vance
-  - Juan Orlando Hernández
-  - Osama bin Laden
-  - Franklin
-  - William W. Belknap
-companies_orgs:
-  - Fox News
-  - Washington Post
-  - US Navy SEAL Team Six
-  - US Department of Defense
-  - US Congress
-  - US House of Representatives
-  - US Senate
-  - NATO
-  - The Atlantic
-  - New York Times
-products_models:
-  - Signal
-media_books:
-  - 《无间道》
-  - 《狂飙》
-  - 《2025年国家毒品威胁评估》
 status: evergreen
+summary: 本文深入探讨了美国战争部长黑格赛斯近期引发的一系列争议事件。从涉嫌违反《日内瓦公约》的“二次打击”毒贩船事件，到其在外交、内部管理和媒体关系上的不当行为，揭示了其任命以来面临的巨大舆论压力和法律挑战。文章还分析了针对黑格赛斯的弹劾动议及其在参议院通过的低概率，并探讨了这些事件对特朗普政府的潜在影响。
+tags:
+- health
+- media
+- political
+- society
+- war
+title: 美国战争部长争议事件：从“二次打击”到弹劾风波
 ---
+
 ### 美国战争部长黑格赛斯争议事件始末
 
 今天我们将主要探讨美国战争部长黑格赛斯涉嫌的一系列争议事件。

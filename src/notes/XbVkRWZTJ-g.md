@@ -1,46 +1,45 @@
 ---
-author: 徒步的騎手
-date: 2025-07-15
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=XbVkRWZTJ-g'
-speaker: 徒步的騎手
-tags:
-  - china-economic-downturn
-  - political-repression
-  - social-polarization
-  - individual-resilience
-  - future-scenarios
-title: 中国已错过转向十字路口：下行螺旋中的个人生存之道
-summary: 本文深入分析中国社会自2019年以来所经历的政治、经济与社会全面下行趋势，指出中国已错过改革的十字路口，并陷入由政治高压、经济失速、房地产泡沫破裂等多重危机交织而成的下行螺旋。文章回顾了王兴、高善文、许章润等先知先觉的预警，探讨了未来十年可能出现的三种剧本，并为普通人，特别是年轻人和中年人，提供了调整认知、掌握硬技能、现金为王、保持身心健康及回归个人生活等五条应对建议，强调在不确定时代中活出希望的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 王兴
-  - 高善文
-  - 许章润
-  - 孙中山
-  - 晋惠帝
+category: geopolitics
 companies_orgs:
-  - 美团
-  - 恒大集团
-  - 碧桂园
-  - 融创
-  - 世茂
-  - 世界银行
-  - 清华大学
-products_models:
-  - mRNA疫苗
+- 美团
+- 恒大集团
+- 碧桂园
+- 融创
+- 世茂
+- 世界银行
+- 清华大学
+date: 2025-07-15
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《我们当下的恐惧与期待》
+- 《我们当下的恐惧与期待》
+people:
+- 王兴
+- 高善文
+- 许章润
+- 孙中山
+- 晋惠帝
+products_models:
+- mRNA疫苗
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=XbVkRWZTJ-g
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入分析中国社会自2019年以来所经历的政治、经济与社会全面下行趋势，指出中国已错过改革的十字路口，并陷入由政治高压、经济失速、房地产泡沫破裂等多重危机交织而成的下行螺旋。文章回顾了王兴、高善文、许章润等先知先觉的预警，探讨了未来十年可能出现的三种剧本，并为普通人，特别是年轻人和中年人，提供了调整认知、掌握硬技能、现金为王、保持身心健康及回归个人生活等五条应对建议，强调在不确定时代中活出希望的重要性。
+tags:
+- china-economic-downturn
+- future
+- individual-resilience
+- political
+- social
+title: 中国已错过转向十字路口：下行螺旋中的个人生存之道
 ---
 
 ### 预警与现实：中国社会下行螺旋的形成

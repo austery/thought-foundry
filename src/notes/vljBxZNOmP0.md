@@ -1,56 +1,56 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: culture
+companies_orgs:
+- B站
+- 中共中央
+- 中国共产党
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《芳华》
+- 《让子弹飞》
+- 《大明王朝1566》
+- 《文化大革命十年史》
+- 《真话集》
+- 《毛泽东选集》
+- 《马恩通信集》
+- 《若干历史问题的决议》
+people:
+- 毛泽东
+- 刘少奇
+- 彭德怀
+- 林彪
+- 江青
+- 姜文
+- 严歌苓
+- 冯小刚
+- 陈宝国
+- 巴金
+- 邓小平
+- Xi Jinping
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=vljBxZNOmP0
 speaker: 三個水槍手
-tags:
-  - historical-memory
-  - ideological-reconstruction
-  - red-aesthetic-revival
-  - class-narrative-shift
-  - authoritarian-appeasement
-title: 《芳华》误读与红色审美复兴：年轻一代为何重新拥抱文革叙事？
-summary: 本文深度剖析当代中国年轻人对《芳华》、《让子弹飞》等作品的重新解读，揭示其背后‘红色审美’复兴现象。通过分析文革历史记忆的断层、官方叙事的遮蔽与社会阶层焦虑，探讨为何一代人将毛泽东时代理想化，并形成以‘反权贵’为核心的集体情绪。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - us-analysis
-people:
-  - 毛泽东
-  - 刘少奇
-  - 彭德怀
-  - 林彪
-  - 江青
-  - 姜文
-  - 严歌苓
-  - 冯小刚
-  - 陈宝国
-  - 巴金
-  - 邓小平
-  - 习近平
-companies_orgs:
-  - B站
-  - 中共中央
-  - 中国共产党
-products_models: []
-media_books:
-  - 《芳华》
-  - 《让子弹飞》
-  - 《大明王朝1566》
-  - 《文化大革命十年史》
-  - 《真话集》
-  - 《毛泽东选集》
-  - 《马恩通信集》
-  - 《若干历史问题的决议》
 status: evergreen
+summary: 本文深度剖析当代中国年轻人对《芳华》、《让子弹飞》等作品的重新解读，揭示其背后‘红色审美’复兴现象。通过分析文革历史记忆的断层、官方叙事的遮蔽与社会阶层焦虑，探讨为何一代人将毛泽东时代理想化，并形成以‘反权贵’为核心的集体情绪。
+tags:
+- code
+- historical-memory
+- narrative
+- philosophy
+- technology
+title: 《芳华》误读与红色审美复兴：年轻一代为何重新拥抱文革叙事？
 ---
+
 ### 从《芳华》到红色审美：一场被误读的历史复兴
 
 最近，一部关于电影《芳华》的视频评论在B站引发爆炸性传播，单个视频播放量突破一千五百万。它并非简单影评，而是一场对历史的重新诠释——将文革时期描绘为“纯洁的理想主义”，将毛泽东塑造成“人民的救星”。这一现象远非偶然，它揭示了当代中国年轻一代与历史记忆之间深刻而危险的断裂。

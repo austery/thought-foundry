@@ -1,71 +1,71 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 大声传媒
+- BBC
+- CCTV
+- 北京大学
+- 清华大学
+- 中国人民大学
+- Google
+- Twitter
+- Meta
+- 公盟
+- 端传媒
+- 无界新闻
+- 国务院网信办
+- 中央网信办
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《南华早报》
+- 《瞭望东方》
+- 《财新》
+- 《人物》
+- 《环球时报》
+- 《中国青年报》
+people:
+- 吴薇
+- Xi Jinping
+- 胡锦涛
+- 艾未未
+- 李大同
+- 方滨兴
+- 王向伟
+- 张洁平
+- 许志永
+- 卢跃刚
+- Hillary Clinton
+- Donald Trump
+- Steven Spielberg
+- Jürgen Habermas
+- 吴国光
+- 许成钢
+products_models:
+- 微博
+- 微信
+- YouTube
+- 饭否
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=bnezc1E6l_Y
 speaker: 三個水槍手
-tags:
-  - media-freedom
-  - civil-society
-  - digital-authoritarianism
-  - historical-memory
-title: 吴薇亲述：穿越中国媒体二十年兴衰，从《南华早报》到创办“大声”
-summary: 资深媒体人吴薇回顾了她二十余年的职业生涯，从在北京作为《南华早报》记者亲历中国媒体的“黄金十年”，到在BBC见证香港反送中运动，再到纽约创办独立华文社群“大声”。她深入剖析了中国媒体环境的变迁、公民社会的兴衰以及技术在赋权与管制中的双重角色，最终阐述了她对“自由、体面、美”的个人追求与实践。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 吴薇
-  - 习近平
-  - 胡锦涛
-  - 艾未未
-  - 李大同
-  - 方滨兴
-  - 王向伟
-  - 张洁平
-  - 许志永
-  - 卢跃刚
-  - Hillary Clinton
-  - Donald Trump
-  - Steven Spielberg
-  - Jürgen Habermas
-  - 吴国光
-  - 许成钢
-companies_orgs:
-  - 大声传媒
-  - BBC
-  - CCTV
-  - 北京大学
-  - 清华大学
-  - 中国人民大学
-  - Google
-  - Twitter
-  - Facebook
-  - 公盟
-  - 端传媒
-  - 无界新闻
-  - 国务院网信办
-  - 中央网信办
-products_models:
-  - 微博
-  - 微信
-  - YouTube
-  - 饭否
-media_books:
-  - 《南华早报》
-  - 《瞭望东方》
-  - 《财新》
-  - 《人物》
-  - 《环球时报》
-  - 《中国青年报》
 status: evergreen
+summary: 资深媒体人吴薇回顾了她二十余年的职业生涯，从在北京作为《南华早报》记者亲历中国媒体的“黄金十年”，到在BBC见证香港反送中运动，再到纽约创办独立华文社群“大声”。她深入剖析了中国媒体环境的变迁、公民社会的兴衰以及技术在赋权与管制中的双重角色，最终阐述了她对“自由、体面、美”的个人追求与实践。
+tags:
+- civil-society
+- digital-authoritarianism
+- historical-memory
+- media
+title: 吴薇亲述：穿越中国媒体二十年兴衰，从《南华早报》到创办“大声”
 ---
+
 ### 开场：大声、朋友与奇遇
 
 吴薇：我叫吴薇，北京人，在甘肃兰州出生，在山东淄博待过几年，在北京待了足够长的时间。我花了二十多年，在中英文媒体都工作过，从一个实习新闻助理，一路干到一个国际媒体的语言组组长和十八线小干部。现在我在纽约做“大声”。“大声”的宗旨是“自由、体面、美”，我们是一个基于价值观的华文独立社群。我希望在我们这儿能做深度访谈，放大公共领域的故事、知识和探索。我一定是无审查的，希望能跟我的观众社群连接，并且好好地证明：人是可以在自由的状态下活得漂亮的。

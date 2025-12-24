@@ -1,54 +1,53 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Justice Department
+- NBC News
+- Federal Reserve
+- SpaceX
+- Blue Origin
+- Berkshire Hathaway
+- US Mint
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Christy Gnome
+- Eric Swallwell
+- Adam Schiff
+- Leticia James
+- Lisa Cook
+- Nick Corasanti
+- Elon Musk
+- Jeff Bezos
+- Warren Buffett
+products_models:
+- SNAP program
+- Dairy Queen
+- Geico
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=emlHKw0Sgso
 speaker: New York Times Podcasts
-tags:
-  - government-shutdown
-  - election-integrity
-  - air-pollution
-  - space-industry
-  - military-action
-title: 美国政府停摆影响深远，阿拉斯加试行手机投票，新德里空气污染严峻，蓝色起源挑战SpaceX
-summary: 本期新闻聚焦美国政府停摆对经济和民生的持续影响，包括失业人数增加和粮食援助计划受阻。同时，报道了特朗普政府面临的法律争议，包括军方行动的合法性及针对政治对手的指控。此外，阿拉斯加州正在进行一项大规模的手机投票实验，以应对地理障碍并提高投票率，但选举信任危机引发担忧。新德里则面临严重的空气污染，政府采取紧急措施，并揭示了空气净化技术带来的社会不平等。最后，蓝色起源公司成功回收火箭，打破了SpaceX在可重复使用火箭领域的长期主导地位，预示着太空竞赛进入新阶段。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Christy Gnome
-  - Eric Swallwell
-  - Adam Schiff
-  - Leticia James
-  - Lisa Cook
-  - Nick Corasanti
-  - Elon Musk
-  - Jeff Bezos
-  - Warren Buffett
-companies_orgs:
-  - New York Times
-  - Justice Department
-  - NBC News
-  - Federal Reserve
-  - SpaceX
-  - Blue Origin
-  - Berkshire Hathaway
-  - US Mint
-products_models:
-  - SNAP program
-  - Dairy Queen
-  - Geico
-media_books: []
 status: evergreen
+summary: 本期新闻聚焦美国政府停摆对经济和民生的持续影响，包括失业人数增加和粮食援助计划受阻。同时，报道了特朗普政府面临的法律争议，包括军方行动的合法性及针对政治对手的指控。此外，阿拉斯加州正在进行一项大规模的手机投票实验，以应对地理障碍并提高投票率，但选举信任危机引发担忧。新德里则面临严重的空气污染，政府采取紧急措施，并揭示了空气净化技术带来的社会不平等。最后，蓝色起源公司成功回收火箭，打破了SpaceX在可重复使用火箭领域的长期主导地位，预示着太空竞赛进入新阶段。
+tags:
+- geopolitical
+- government-shutdown
+- industry
+- llm
+- military
+title: 美国政府停摆影响深远，阿拉斯加试行手机投票，新德里空气污染严峻，蓝色起源挑战SpaceX
 ---
+
 ### 政府停摆余波未了：经济损失与民生困境
 
 美国联邦政府已开始恢复运转，但即使雇员重返工作岗位，政府服务恢复在线，这场创纪录的停摆所带来的更广泛影响才刚刚显现。

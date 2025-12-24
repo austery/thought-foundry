@@ -1,83 +1,83 @@
 ---
-author: 记者易速利
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- 哈佛大学
+- Showtime
+- HBO
+- 《纽约时报》
+- CNBC
+- Palantir
+- 通用汽车
+- 花旗银行
+- 摩根大通
+- 美联储
+- 潘兴广场资本管理公司
+- 美林证券
+- 纽约证券交易所
+- 美国证券交易委员会
+- 联邦存款保险公司
+- OpenAI
+- Google
+- 脸书
+- 亚马逊
+- Reddit
+- 美国无线电公司
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《1929》
+- 《太大而不能倒》
+- 《美国货币史》
+- 《了不起的盖茨比》
+people:
+- Jason Furman
+- Andrew Ross Sorkin
+- John J. Raskob
+- Charles E. Mitchell
+- Carter Glass
+- Jesse Livermore
+- Jamie Dimon
+- Elizabeth Warren
+- Alexandria Ocasio-Cortez
+- Bill Ackman
+- 米尔顿·弗里德曼
+- 约翰·梅纳德·凯恩斯
+- 赫伯特·胡佛
+- 富兰克林·罗斯福
+- 唐纳德·特朗普
+- 温斯顿·丘吉尔
+- 格劳乔·马克斯
+- 沃伦·巴菲特
+- 黄仁勋
+- 萨姆·奥特曼
+- 马克·吐温
+products_models:
+- Dubuque
+- 比特币
+- 稳定币
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1AeM-3zkoMo
 speaker: 记者易速利
-tags:
-  - stock-market-bubble
-  - ai-investment
-  - 1929-crash
-  - financial-leverage
-  - market-regulation
-title: AI狂热下的美股风险：从1929年大萧条吸取教训
-summary: 本文深入探讨了当前美国股市，特别是AI领域（以英伟达为代表）的投资狂热与潜在泡沫。通过与1929年大萧条前夕的社会经济状况进行对比，文章分析了过度信贷、监管真空和非理性繁荣等历史教训。尽管美国金融系统已建立多重护栏，但作者警告股市仍可能出现50%的暴跌，尤其指出风险投资、加密货币等“影子银行”领域缺乏透明度与高杠杆问题，并提供了应对市场波动的投资建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - Jason Furman
-  - Andrew Ross Sorkin
-  - John J. Raskob
-  - Charles E. Mitchell
-  - Carter Glass
-  - Jesse Livermore
-  - Jamie Dimon
-  - Elizabeth Warren
-  - Alexandria Ocasio-Cortez
-  - Bill Ackman
-  - 米尔顿·弗里德曼
-  - 约翰·梅纳德·凯恩斯
-  - 赫伯特·胡佛
-  - 富兰克林·罗斯福
-  - 唐纳德·特朗普
-  - 温斯顿·丘吉尔
-  - 格劳乔·马克斯
-  - 沃伦·巴菲特
-  - 黄仁勋
-  - 萨姆·奥特曼
-  - 马克·吐温
-companies_orgs:
-  - 英伟达
-  - 哈佛大学
-  - Showtime
-  - HBO
-  - 《纽约时报》
-  - CNBC
-  - Palantir
-  - 通用汽车
-  - 花旗银行
-  - 摩根大通
-  - 美联储
-  - 潘兴广场资本管理公司
-  - 美林证券
-  - 纽约证券交易所
-  - 美国证券交易委员会
-  - 联邦存款保险公司
-  - OpenAI
-  - 谷歌
-  - 脸书
-  - 亚马逊
-  - Reddit
-  - 美国无线电公司
-products_models:
-  - Dubuque
-  - 比特币
-  - 稳定币
-media_books:
-  - 《1929》
-  - 《太大而不能倒》
-  - 《美国货币史》
-  - 《了不起的盖茨比》
 status: evergreen
+summary: 本文深入探讨了当前美国股市，特别是AI领域（以英伟达为代表）的投资狂热与潜在泡沫。通过与1929年大萧条前夕的社会经济状况进行对比，文章分析了过度信贷、监管真空和非理性繁荣等历史教训。尽管美国金融系统已建立多重护栏，但作者警告股市仍可能出现50%的暴跌，尤其指出风险投资、加密货币等“影子银行”领域缺乏透明度与高杠杆问题，并提供了应对市场波动的投资建议。
+tags:
+- ai-investment
+- financial
+- history
+- market-regulation
+- stock-market-bubble
+title: AI狂热下的美股风险：从1929年大萧条吸取教训
 ---
+
 ### 美股牛市的终结与AI泡沫的警示
 
 美国股市出现动荡时，不少人会提心吊胆。自2009年**道琼斯指数**（Dow Jones Industrial Average: 美国股市的重要指数之一）从6600点的低点以来，已达到46000点高位，持续16年的牛市会不会有一个结束的时候呢？事实上，最近几个月，“回调”、“泡沫”、“崩盘”、“买黄金”、“降低风险敞口”这些术语出现的频度在增加。现在有一种感觉是，美国股市只靠几根顶梁柱撑着，尤其是**英伟达**（Nvidia: 全球领先的图形处理器和人工智能芯片制造商）。

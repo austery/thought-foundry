@@ -1,43 +1,42 @@
 ---
-author: Veritasium
+area: tech-insights
+category: technology
+companies_orgs:
+- Rolls-Royce
+- Cambridge University
+- KiwiCo
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Frank Whittle
+- Amelia
+- Henry
+- Kim
+products_models:
+- Gloucester E2839
+- A350
+- 97K engine
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=QtxVdC7pBQM
 speaker: Veritasium
-tags:
-  - jet-engine-design
-  - materials-science
-  - high-temperature-alloys
-  - single-crystal-casting
-  - thermal-management
-  - engine-efficiency
-title: 喷气发动机为何不会熔化？探秘极限材料与工程奇迹
-summary: 本文深入探讨了现代喷气发动机如何在远超其材料熔点的极端高温下运行。文章详细介绍了涡轮发动机的工作原理，从空气压缩、燃烧到能量转化，并揭示了推力主要来源于巨型风扇而非高温燃气。核心在于材料科学的突破，特别是镍基高温合金的开发，通过独特的伽马和伽马素相微观结构，以及单晶铸造技术，大幅提升了涡轮叶片的强度和耐用性。此外，叶片内部的冷却通道和陶瓷涂层提供了额外的热防护。文章最终强调了这些工程奇迹对航空旅行普及的深远影响。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Frank Whittle
-  - Amelia
-  - Henry
-  - Kim
-companies_orgs:
-  - Rolls-Royce
-  - Cambridge University
-  - KiwiCo
-products_models:
-  - Gloucester E2839
-  - A350
-  - 97K engine
-media_books: []
 status: evergreen
+summary: 本文深入探讨了现代喷气发动机如何在远超其材料熔点的极端高温下运行。文章详细介绍了涡轮发动机的工作原理，从空气压缩、燃烧到能量转化，并揭示了推力主要来源于巨型风扇而非高温燃气。核心在于材料科学的突破，特别是镍基高温合金的开发，通过独特的伽马和伽马素相微观结构，以及单晶铸造技术，大幅提升了涡轮叶片的强度和耐用性。此外，叶片内部的冷却通道和陶瓷涂层提供了额外的热防护。文章最终强调了这些工程奇迹对航空旅行普及的深远影响。
+tags:
+- design
+- efficiency
+- high
+- management
+- materials-science
+- single-crystal-casting
+title: 喷气发动机为何不会熔化？探秘极限材料与工程奇迹
 ---
+
 ### 喷气发动机的惊人奥秘
 
 这是世界上最强大的**喷气发动机**（Jet Engine: 一种通过高速喷射工质产生推力的发动机）之一。

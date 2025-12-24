@@ -1,40 +1,39 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央纪律检查委员会
+- 国家监察委员会
+- 审计署
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 陈伟俊
+- 马兴瑞
+- 陈全国
+- 陈小江
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=SxWkj6EW7ps
 speaker: FearNation 世界苦茶
-tags:
-  - xinjiang-governance
-  - political-corruption
-  - central-local-relations
-  - economic-development-strategy
-  - energy-projects
-title: 新疆官场地震：陈伟俊落马与马兴瑞缺席背后的治疆逻辑断裂与重组
-summary: 2025年11月，新疆维吾尔自治区常务副主席陈伟俊因涉嫌严重违纪违法接受审查，前党委书记马兴瑞同时缺席重要会议，引发新疆官场剧烈震荡。本文深入分析此次事件，揭示其背后中国治疆逻辑从“以发展促稳定”向“大整顿大清洗”的剧烈回调，以及“沙戈荒”新能源大跃进中的腐败问题。文章探讨了技术官僚路线的触礁、中央财政困境、地方治理瘫痪及国际回旋镖效应，并推演了未来两种治理剧本。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 陈伟俊
-  - 马兴瑞
-  - 陈全国
-  - 陈小江
-companies_orgs:
-  - 中央纪律检查委员会
-  - 国家监察委员会
-  - 审计署
-products_models: []
-media_books: []
 status: evergreen
+summary: 2025年11月，新疆维吾尔自治区常务副主席陈伟俊因涉嫌严重违纪违法接受审查，前党委书记马兴瑞同时缺席重要会议，引发新疆官场剧烈震荡。本文深入分析此次事件，揭示其背后中国治疆逻辑从“以发展促稳定”向“大整顿大清洗”的剧烈回调，以及“沙戈荒”新能源大跃进中的腐败问题。文章探讨了技术官僚路线的触礁、中央财政困境、地方治理瘫痪及国际回旋镖效应，并推演了未来两种治理剧本。
+tags:
+- energy
+- governance
+- political-corruption
+- relations
+- strategy
+title: 新疆官场地震：陈伟俊落马与马兴瑞缺席背后的治疆逻辑断裂与重组
 ---
+
 ### 新疆官场突发地震：陈伟俊落马与马兴瑞缺席
 
 今天我们探讨的是新疆突发的官场地震，我们将把所有细节说明白。我们要把目光投向中国西北，聊一聊2025年11月底在新疆发生的一场毫无预兆但影响深远的政治地震。这不仅仅是几个人事变动的问题，它背后折射出的是过去10年中国治疆逻辑的一次剧烈断裂和重组。

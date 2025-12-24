@@ -1,44 +1,44 @@
 ---
-author: 天下文化
+area: personal-systems
+category: psychology
+companies_orgs:
+- 天下文化
+- HP
+- 殼牌
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《九十自述》
+- 《第二座山》
+- 《大象與跳蚤》
+- 《命定之書》
+people:
+- 查爾斯·韓第
+- 范永銀
+- 張忠謀
+- 蒙格
+- 巴菲特
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=CLeYz8K1CsM
 speaker: 天下文化
-tags:
-  - life-wisdom
-  - self-reflection
-  - perspective-shift
-  - better-vs-bigger
-  - handling-flaws
-title: 韓第大師的生命智慧：《九十自述》帶來的跨世代啟示與人生重啟
-summary: 本集邀請范永銀深入探討管理學大師查爾斯·韓第的晚年智慧，特別聚焦於如何面對缺點、消除成見，以及追求“更好而非最大”的人生哲學。透過韓第的視角，主持人與來賓分享了個人在職涯低谷、財務壓力下的體悟，強調擴大眼界與自我和解的重要性，為迷惘的讀者提供心靈指引。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - 查爾斯·韓第
-  - 范永銀
-  - 張忠謀
-  - 蒙格
-  - 巴菲特
-companies_orgs:
-  - 天下文化
-  - HP
-  - 殼牌
-products_models: []
-media_books:
-  - 《九十自述》
-  - 《第二座山》
-  - 《大象與跳蚤》
-  - 《命定之書》
 status: evergreen
+summary: 本集邀請范永銀深入探討管理學大師查爾斯·韓第的晚年智慧，特別聚焦於如何面對缺點、消除成見，以及追求“更好而非最大”的人生哲學。透過韓第的視角，主持人與來賓分享了個人在職涯低谷、財務壓力下的體悟，強調擴大眼界與自我和解的重要性，為迷惘的讀者提供心靈指引。
+tags:
+- better-vs-bigger
+- geopolitical
+- life
+- self
+- shift
+title: 韓第大師的生命智慧：《九十自述》帶來的跨世代啟示與人生重啟
 ---
+
 ### 節目開場與對韓第大師的敬意
 
 歡迎各位收聽天下文化相信閱讀 書房憲場單元。我是主持人謝文憲憲哥。今天邀請到好朋友來聊聊。雖然我們兩個人都不到90歲，看也知道沒有像到90歲。我今年57歲，范大（范永銀）59歲，沒有到60。但是我們在對談的時候，對這本書以及這位作者，都有非常深刻的體悟。當然這一集雖然這本書我們之前也找過朱為民醫師來聊過，但我覺得今天跟范大會有更多不同的火花的原因是因為，其實我們一開始聊到，他的太太是義大利人，所以我們邀請到這個知名暢銷書作者，未來也會是一個很厲害的下一本書的作者，我們在《第二座山》或者重啟人生這一類的議題當中會有非常多跟大家互動的東西。而且范大也是我在銷售談判領域當中學習的對象。我們歡迎范永銀范大。

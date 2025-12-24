@@ -1,62 +1,61 @@
 ---
-author: LT視界
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- Nvidia
+- Nokia
+- Samsung Electronics
+- Hyundai Motor
+- Microsoft
+- Apple
+- Google
+- 美国参议院
+- 最高法院
+- Rosneft
+- Lukoil
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- The Wall Street Journal
+- Reuters
+- X
+people:
+- Nick Timiraos
+- Jeffries Meade
+- Stephen Miller
+- Jensen Huang
+- Donald Trump
+- Xi Jinping
+- 李在明
+- Vance
+- Rubio
+- Vladimir Putin
+- Dmitryev
+products_models:
+- Blackwell
+- NV-Q-Link
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=wEuo9bxVHZw
 speaker: LT視界
-tags:
-  - monetary-policy
-  - ai-market-growth
-  - us-china-tech-rivalry
-  - international-trade-negotiations
-  - ukraine-peace-diplomacy
-title: 美联储降息、英伟达市值突破与全球地缘政治新动向
-summary: 本期节目深入分析了美联储降息25个基点的决策及其对市场的影响，同时探讨了英伟达市值突破5万亿美元的里程碑，以及唐纳德·川普关于向中国供应先进芯片的言论。此外，节目还涵盖了美韩贸易协议的达成、川普第三任期竞选的澄清，以及美国参议院推翻巴西关税的举动。最后，重点关注了俄罗斯石油出口的韧性，以及普京特使关于乌克兰一年内实现和平的惊人表态，揭示了全球经济与地缘政治的最新复杂动态。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Nick Timiraos
-  - Jeffries Meade
-  - Stephen Miller
-  - Jensen Huang
-  - Donald Trump
-  - Xi Jinping
-  - 李在明
-  - Vance
-  - Rubio
-  - Vladimir Putin
-  - Dmitryev
-companies_orgs:
-  - Federal Reserve
-  - Nvidia
-  - Nokia
-  - Samsung Electronics
-  - Hyundai Motor
-  - Microsoft
-  - Apple
-  - Google
-  - 美国参议院
-  - 最高法院
-  - Rosneft
-  - Lukoil
-products_models:
-  - Blackwell
-  - NV-Q-Link
-media_books:
-  - Bloomberg
-  - The Wall Street Journal
-  - Reuters
-  - X
 status: evergreen
+summary: 本期节目深入分析了美联储降息25个基点的决策及其对市场的影响，同时探讨了英伟达市值突破5万亿美元的里程碑，以及唐纳德·川普关于向中国供应先进芯片的言论。此外，节目还涵盖了美韩贸易协议的达成、川普第三任期竞选的澄清，以及美国参议院推翻巴西关税的举动。最后，重点关注了俄罗斯石油出口的韧性，以及普京特使关于乌克兰一年内实现和平的惊人表态，揭示了全球经济与地缘政治的最新复杂动态。
+tags:
+- china
+- diplomacy
+- market
+- trade
+title: 美联储降息、英伟达市值突破与全球地缘政治新动向
 ---
+
 ### 美联储降息决策与市场反应
 
 今天，10月29日，我们首先来了解财经头条。网友们都非常关注今天**美联储**（Federal Reserve: 美国中央银行系统）**公开市场委员会**（Federal Open Market Committee, FOMC: 负责制定美国货币政策的机构）的决定。我们分享《华尔街日报》的报道，这是尼克·蒂米拉奥斯亲自撰写的一篇报道。在美联储宣布决定之后的五分钟之内，尼克·蒂米拉奥斯就发表了比较长的报道，显然这个报道是在美联储宣布决定之前他早就写好了的，甚至一个字没有改就直接发表了。所以它体现了尼克·蒂米拉奥斯在这次美联储公开决定之前，对美联储内部的一些讨论和内部一些观点他是了如指掌的。当然了，这也是美联储赋予他所谓的新美联储通讯社的能力体现。

@@ -1,46 +1,45 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York Times
+- USAID
+- Justice Department
+- FBI
+- Kremlin
+- Politico
+- CDC
+- Department of Agriculture
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Donald Trump
+- Marco Rubio
+- Vladimir Putin
+- Paul Ingracia
+- Martin Luther King
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=vRmPf3bKM7c
 speaker: New York Times Podcasts
-tags:
-  - foreign-aid-cuts
-  - somalia-crisis
-  - government-shutdown
-  - us-politics
-  - public-health
-title: 特朗普2.3亿美元索赔，索马里援助削减引发危机，以及美国多项焦点新闻
-summary: 本期《纽约时报》头条新闻涵盖了特朗普政府的多项争议：他要求司法部赔偿2.3亿美元以补偿联邦调查，同时其政府大幅削减了对索马里的外国援助，导致当地医疗和粮食系统陷入混乱。此外，节目还讨论了特朗普取消与普京会晤、其提名人因种族主义言论被撤回，以及美国禽流感疫情和政府停摆期间优胜美地国家公园的乱象。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Marco Rubio
-  - Vladimir Putin
-  - Paul Ingracia
-  - Martin Luther King
-companies_orgs:
-  - New York Times
-  - USAID
-  - Justice Department
-  - FBI
-  - Kremlin
-  - Politico
-  - CDC
-  - Department of Agriculture
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期《纽约时报》头条新闻涵盖了特朗普政府的多项争议：他要求司法部赔偿2.3亿美元以补偿联邦调查，同时其政府大幅削减了对索马里的外国援助，导致当地医疗和粮食系统陷入混乱。此外，节目还讨论了特朗普取消与普京会晤、其提名人因种族主义言论被撤回，以及美国禽流感疫情和政府停摆期间优胜美地国家公园的乱象。
+tags:
+- crisis
+- government-shutdown
+- llm
+- public-health
+title: 特朗普2.3亿美元索赔，索马里援助削减引发危机，以及美国多项焦点新闻
 ---
+
 ### 节目开场与美国对外援助削减
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是10月22日星期三，以下是我们关注的重点。

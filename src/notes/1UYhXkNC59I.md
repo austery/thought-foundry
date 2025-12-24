@@ -1,37 +1,36 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Tinder
+- 麦当劳
+- 肯德基
 date: '2022-07-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mary Douglas
+- 迪克牛仔
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1UYhXkNC59I
 speaker: 超級歪 SuperY
-tags:
-  - culture-shock
-  - study-abroad-experience
-  - social-dynamics
-  - academic-innovation
-  - racism-in-europe
-title: 英国留学一年：文化冲击、学术差异与社会观察
-summary: 本文分享了作者在英国近一年的留学生活体验，深入探讨了文化冲击、社交差异、学术环境的创新性与学习方式的独特之处。同时，也直面了英国社会存在的治安问题、无家可归者现象以及普遍存在的种族歧视，并对比了台湾与欧美在生活和学术上的优劣。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Mary Douglas
-  - 迪克牛仔
-companies_orgs:
-  - Tinder
-  - 麦当劳
-  - 肯德基
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文分享了作者在英国近一年的留学生活体验，深入探讨了文化冲击、社交差异、学术环境的创新性与学习方式的独特之处。同时，也直面了英国社会存在的治安问题、无家可归者现象以及普遍存在的种族歧视，并对比了台湾与欧美在生活和学术上的优劣。
+tags:
+- culture
+- experience
+- innovation
+- social-dynamic
+- society
+title: 英国留学一年：文化冲击、学术差异与社会观察
 ---
+
 ### 英国留学初体验：环境与社交的文化冲击
 
 今天，我将与大家分享我在英国近一年的留学生活时光，以及期间遇到的各种经历。我将探讨留学与海外生活的优缺点，并分享一些我在当地感受到的文化冲击。首先，我们从文化冲击部分开始。

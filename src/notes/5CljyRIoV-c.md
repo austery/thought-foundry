@@ -1,58 +1,57 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- TVO Today
+- National Institutes of Health
+- Queen's University
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- (MIS)Treated
+- All I Wanna Do
+- Whatta Man
+- I'd Do Anything For Love
+- Insane in the Brain
+- Big Little Lies
+people:
+- Nam Kiwanuka
+- Dr. Michelle Cohen
+- Sheryl Crow
+- Salt 'n' Pepa
+- Meatloaf
+- Cypress Hill
+- Rudolf Virchow
+- Nicole Kidman
+- Donald Trump
+- Matthew O'Mara
+- Max Stussi
+- Jonathan Halliwell
+- Laurie Few
+- John Ferri
+products_models:
+- Thalidomide
+- Women's Health Initiative
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=5CljyRIoV-c
 speaker: TVO Today
-tags:
-  - women-health
-  - clinical-trials
-  - gender-bias
-  - medical-research
-  - healthcare-policy
-title: 被忽视的半边天：女性健康研究的系统性偏见与挑战
-summary: 本文探讨了女性在临床试验中长期被排除的历史，揭示了直到1990年代美国和加拿大才将女性纳入试验的现状及其对女性健康的深远影响。文章深入分析了将男性身体视为默认标准所导致的系统性偏见，造成对女性生理学理解的不足、误诊和治疗不当。同时，文章也审视了政策改变后的缓慢进展、女性健康研究资金持续不足的困境，以及在医学领导层中实现公平代表性的挑战。最后，本文还讨论了当前女性健康倡议面临的威胁，并为在充满偏见的医疗系统中寻求帮助的女性提供了建议。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Nam Kiwanuka
-  - Dr. Michelle Cohen
-  - Sheryl Crow
-  - Salt 'n' Pepa
-  - Meatloaf
-  - Cypress Hill
-  - Rudolf Virchow
-  - Nicole Kidman
-  - Donald Trump
-  - Matthew O'Mara
-  - Max Stussi
-  - Jonathan Halliwell
-  - Laurie Few
-  - John Ferri
-companies_orgs:
-  - TVO Today
-  - National Institutes of Health
-  - Queen's University
-products_models:
-  - Thalidomide
-  - Women's Health Initiative
-media_books:
-  - (MIS)Treated
-  - All I Wanna Do
-  - Whatta Man
-  - I'd Do Anything For Love
-  - Insane in the Brain
-  - Big Little Lies
 status: evergreen
+summary: 本文探讨了女性在临床试验中长期被排除的历史，揭示了直到1990年代美国和加拿大才将女性纳入试验的现状及其对女性健康的深远影响。文章深入分析了将男性身体视为默认标准所导致的系统性偏见，造成对女性生理学理解的不足、误诊和治疗不当。同时，文章也审视了政策改变后的缓慢进展、女性健康研究资金持续不足的困境，以及在医学领导层中实现公平代表性的挑战。最后，本文还讨论了当前女性健康倡议面临的威胁，并为在充满偏见的医疗系统中寻求帮助的女性提供了建议。
+tags:
+- bias
+- health
+- healthcare-policy
+- medical-research
+title: 被忽视的半边天：女性健康研究的系统性偏见与挑战
 ---
+
 ### 导语：女性在临床试验中的长期缺位
 
 您正在收听《(MIS)Treated》节目，我是Nam Kiwanuka。

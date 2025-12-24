@@ -1,29 +1,28 @@
 ---
-title: 如何利用自定义GPT打造高效写作教练
-summary: 讲话者分享了如何构建一个自定义GPT来优化工作沟通。这个GPT依据简洁写作原则，将冗长的信息精简为清晰、可读且保留个人风格的短消息，显著提升了团队响应效率。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- concise-writing
-- custom-gpt
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- how-i-ai
 date: '2025-10-11'
-author: How I AI
-speaker: How I AI
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- how-i-ai
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=bz-POj6myUE
+speaker: How I AI
 status: evergreen
+summary: 讲话者分享了如何构建一个自定义GPT来优化工作沟通。这个GPT依据简洁写作原则，将冗长的信息精简为清晰、可读且保留个人风格的短消息，显著提升了团队响应效率。
+tags:
+- life
+- llm
+title: 如何利用自定义GPT打造高效写作教练
 ---
+
 ### 引入定制化写作助手
 
 You've also built a custom GPT to make sure that your writing is concise. So, can you show us a little bit of what that looks like?

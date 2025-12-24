@@ -1,65 +1,65 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 自民党
+- 社会党
+- 公民党
+- 共产党
+- 联合国
+- 联合国安理会
+- 联合国大会
 date: '2025-05-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《文明论概略》
+- 《新脱亚论》
+people:
+- 石破茂
+- 高市早苗
+- Donald Trump
+- 赫鲁晓夫
+- 周恩来
+- 邓小平
+- 岸信介
+- 安倍晋三
+- 池田勇人
+- 田中角荣
+- Richard Nixon
+- Henry Kissinger
+- 毛泽东
+- 林彪
+- 华春莹
+- 赵立坚
+- 王毅
+- Marco Rubio
+- 杨洁篪
+- 福泽谕吉
+- 渡边利夫
+products_models:
+- 六代机
+- 四川舰
+project:
+- geopolitics-watch
+- historical-insights
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=4MQo1sgzOH8
 speaker: 东京人文论坛
-tags:
-  - sino-japanese-relations
-  - post-war-diplomacy
-  - geopolitical-shifts
-  - nationalism-impact
-  - economic-interdependence
-title: 战后中日关系史：2025年的我们身处何方？
-summary: 本文深入探讨了战后中日关系的发展脉络，从历史事件、内政外交的相互影响，到两国在意识形态和国民认知上的“路径依赖”。文章指出，中日关系的正常化具有偶然性，并未根本解决结构性矛盾。尤其在中国经济面临挑战、民族主义情绪高涨的背景下，中日关系正处于一个充满不确定性和危险性的时期，需要警惕潜在的冲突升级。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - china-analysis
-people:
-  - 石破茂
-  - 高市早苗
-  - Donald Trump
-  - 赫鲁晓夫
-  - 周恩来
-  - 邓小平
-  - 岸信介
-  - 安倍晋三
-  - 池田勇人
-  - 田中角荣
-  - Richard Nixon
-  - Henry Kissinger
-  - 毛泽东
-  - 林彪
-  - 华春莹
-  - 赵立坚
-  - 王毅
-  - Marco Rubio
-  - 杨洁篪
-  - 福泽谕吉
-  - 渡边利夫
-companies_orgs:
-  - 自民党
-  - 社会党
-  - 公民党
-  - 共产党
-  - 联合国
-  - 联合国安理会
-  - 联合国大会
-products_models:
-  - 六代机
-  - 四川舰
-media_books:
-  - 《文明论概略》
-  - 《新脱亚论》
 status: evergreen
+summary: 本文深入探讨了战后中日关系的发展脉络，从历史事件、内政外交的相互影响，到两国在意识形态和国民认知上的“路径依赖”。文章指出，中日关系的正常化具有偶然性，并未根本解决结构性矛盾。尤其在中国经济面临挑战、民族主义情绪高涨的背景下，中日关系正处于一个充满不确定性和危险性的时期，需要警惕潜在的冲突升级。
+tags:
+- economic
+- geopolitical-shift
+- nationalism-impact
+- sino-japanese-relations
+- war
+title: 战后中日关系史：2025年的我们身处何方？
 ---
+
 ### 引言：关注外交与中日关系的必要性
 
 在探讨中日关系时，我深感惶恐。一方面，我虽在日本生活一年多，但日语不通，对日本民众的心情和态度缺乏一手感知和深入了解。另一方面，在王克老师等专家面前谈论中日关系，更显得班门弄斧。因此，我仅以抛砖引玉的态度，分享我的观点和看法，其中可能存在史实不够充分或总结有误之处，期待各位老师的指正和补充。

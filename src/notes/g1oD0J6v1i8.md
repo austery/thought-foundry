@@ -1,44 +1,44 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- World Bank
+- Beijing University
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《皇帝内经》
+people:
+- Dr. Wang
+- Rao Yi
+- Wu Mi
+- Chen Yinque
+- Confucius
+- Zhuangzi
+products_models:
+- Chaihu Injection
+- Lianhua Qingwen Capsule
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=g1oD0J6v1i8
 speaker: 徒步的騎手
-tags:
-  - chinese-healthcare
-  - tcm-injections
-  - resource-inequality
-  - cognitive-ignorance
-  - government-propaganda
-title: 中国医疗体系的深层病灶：中药注射剂、资源匮乏与认知蒙昧
-summary: 本文深入探讨了中国医疗体系面临的严峻挑战，特别是中药注射剂的滥用及其背后的科学性缺失。文章揭示了中国医疗资源分配的严重不公，政府在医疗投入上的不足，以及由此导致的大部分民众被迫接受低效甚至有害医疗服务的现状。同时，也分析了官方宣传如何利用民族主义情绪，加剧了民众对现代医学的认知蒙昧，形成“中草药义和团”现象，最终导致物质和认知的双重剥夺。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Dr. Wang
-  - Rao Yi
-  - Wu Mi
-  - Chen Yinque
-  - Confucius
-  - Zhuangzi
-companies_orgs:
-  - World Bank
-  - Beijing University
-products_models:
-  - Chaihu Injection
-  - Lianhua Qingwen Capsule
-media_books:
-  - 《皇帝内经》
 status: evergreen
+summary: 本文深入探讨了中国医疗体系面临的严峻挑战，特别是中药注射剂的滥用及其背后的科学性缺失。文章揭示了中国医疗资源分配的严重不公，政府在医疗投入上的不足，以及由此导致的大部分民众被迫接受低效甚至有害医疗服务的现状。同时，也分析了官方宣传如何利用民族主义情绪，加剧了民众对现代医学的认知蒙昧，形成“中草药义和团”现象，最终导致物质和认知的双重剥夺。
+tags:
+- chinese
+- cognitive
+- government
+- society
+- tcm-injection
+title: 中国医疗体系的深层病灶：中药注射剂、资源匮乏与认知蒙昧
 ---
+
 ### 中药注射剂的危害与专家批判
 
 今天是2025年10月29日，北风呼啸，气温骤降30华氏度，这样的天气很适合制作博客。我们从推特上的一则帖子说起。一位网名为Dr. Wang的推主（我们暂称他为王医生）发布了高质量的推文，本频道第97期节目《你为何老是被人渣盯上》就曾受到他推文的启发。今天，王医生发布了一篇关于**中药注射剂**（Traditional Chinese Medicine Injections: 将中药提取物制成注射剂型，通过静脉或肌肉注射给药）的帖子。他指出，目前中国国内有119种中药注射剂品种，但仅有8家企业提供了上市后的评价情况说明。在帖子结尾，他告诫大家：“为了你的健康，拒绝中药注射剂。”

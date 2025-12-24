@@ -1,77 +1,77 @@
 ---
-author: 張内咸
+area: society-systems
+category: general
+companies_orgs:
+- 大碗娱乐
+- 开心麻花
+- 东映
+- 聚德华天
+- 金融街资本
+- 复星高科技
+- OpenAI
 date: '2025-01-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《哪吒2》
+- 《封神》第二部
+- 《红海行动2》
+- 《热辣滚烫》
+- 《你好,李焕英》
+- 《百元之恋》
+- 《曲苑杂坛》
+- 《我猜》
+- 《傻冒经理》
+- 《顽主》
+- 《寅次郎的故事》
+- 《父与子》
+- 《二子开店》
+- 《包子铺》
+- 维基百科
+people:
+- 张内咸
+- 贾玲
+- 冯巩
+- 郭德纲
+- 洛桑
+- 吴宗宪
+- 陈佩斯
+- 陈强
+- 王朔
+- 冯小刚
+- Xi Jinping
+- 李克强
+- 乔布斯
+- Samuel Altman
+- 谷爱玲
+- 刘少奇
+- 周恩来
+- 朱德
+- 毛泽东
+- 司马懿
+products_models:
+- iPhone
+- GPT
+project:
+- china-analysis
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ZJJuitPZzX8
 speaker: 張内咸
-tags:
-  - chinese-social-dynamics
-  - praise-to-kill
-  - big-hit-sure-death
-  - film-industry-critique
-  - political-influence-on-business
-title: 中国电影与庆丰包子：透视‘大热必死’与‘捧杀’的社会逻辑
-summary: 本文深入探讨了中国社会中普遍存在的“大热必死”和“捧杀”现象，通过分析中国电影市场的“内卷”困境、贾玲电影的票房争议，以及庆丰包子铺和“握手经济”等案例，揭示了政治流量如何被资本化，以及过度吹捧如何导致个人和企业的衰落。文章对比了中西方文化中对待成功和低调的不同态度，并引用陈佩斯喜剧和历史人物故事，剖析了这种中国式社会逻辑的深层根源及其对社会发展的深远影响。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-  - historical-insights
-people:
-  - 张内咸
-  - 贾玲
-  - 冯巩
-  - 郭德纲
-  - 洛桑
-  - 吴宗宪
-  - 陈佩斯
-  - 陈强
-  - 王朔
-  - 冯小刚
-  - 习近平
-  - 李克强
-  - 乔布斯
-  - Samuel Altman
-  - 谷爱玲
-  - 刘少奇
-  - 周恩来
-  - 朱德
-  - 毛泽东
-  - 司马懿
-companies_orgs:
-  - 大碗娱乐
-  - 开心麻花
-  - 东映
-  - 聚德华天
-  - 金融街资本
-  - 复星高科技
-  - OpenAI
-products_models:
-  - iPhone
-  - GPT
-media_books:
-  - 《哪吒2》
-  - 《封神》第二部
-  - 《红海行动2》
-  - 《热辣滚烫》
-  - 《你好,李焕英》
-  - 《百元之恋》
-  - 《曲苑杂坛》
-  - 《我猜》
-  - 《傻冒经理》
-  - 《顽主》
-  - 《寅次郎的故事》
-  - 《父与子》
-  - 《二子开店》
-  - 《包子铺》
-  - 维基百科
 status: evergreen
+summary: 本文深入探讨了中国社会中普遍存在的“大热必死”和“捧杀”现象，通过分析中国电影市场的“内卷”困境、贾玲电影的票房争议，以及庆丰包子铺和“握手经济”等案例，揭示了政治流量如何被资本化，以及过度吹捧如何导致个人和企业的衰落。文章对比了中西方文化中对待成功和低调的不同态度，并引用陈佩斯喜剧和历史人物故事，剖析了这种中国式社会逻辑的深层根源及其对社会发展的深远影响。
+tags:
+- big-hit-sure-death
+- industry
+- llm
+- political-influence-on-business
+- social
+title: 中国电影与庆丰包子：透视‘大热必死’与‘捧杀’的社会逻辑
 ---
+
 ### 引言：中国电影市场的“内卷”与困境
 
 马上就要过年了，先给大家提前拜个年，大家过年好。不知道今年的**春节档**（Chūn Jié Dàng: 中国农历新年期间的电影上映高峰期）票房会怎么样。官方宣传号称是史上最强春节档，有《哪吒2》、乌尔善的《封神》第二部，还有《红海行动2》等等一大堆。这是强吗？这是**卷**（juǎn: “内卷”，指非理性的内部竞争，导致过度消耗和停滞）！应该叫史上最卷春节档。一个良性正常的市场，应该是把票房分散开，每个月都有不同的热点。你去看看国外是怎么做市场的，哪儿有把一整年里所有的大作全都丢到一块儿“斗蛐蛐”的？

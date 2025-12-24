@@ -1,49 +1,49 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 德州大学奥斯汀分校
+- 三一大学
+- 美国小儿医学会
+- 美国心理学会
+- 美国社会学会
+- Institute for American Values
+- Witherspoon Institute
+- National Organization for Marriage
+- 皮尤研究中心
 date: '2023-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Social Science Research》
+- 《纽约时报》
+people:
+- 寿斯坦丁
+- Mark Regnerus
+- Amy Ys Tr
+- Brad Wilcox
+- Michael J. Rosenfeld
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=twRmVjqqQ3M
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - same-sex-parenting
-  - academic-ethics
-  - social-science-research
-  - culture-wars
-  - lgbtq-rights
-title: 学术争议与同性亲职研究：一场影响深远的文化战争
-summary: 本文深入探讨了美国同性婚姻诉讼期间，围绕同性恋亲职研究引发的学术争议和文化战争。文章揭露了一项声称“打破无差别共识”的研究如何受到保守派资金操纵，以及其在法庭上的失败。同时，介绍了荷兰和比利时学者利用大样本数据进行的里程碑式研究，揭示了同性家庭子女学业成就的细微差异，并反思了以子女发展评判婚姻权利的伦理困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 寿斯坦丁
-  - Mark Regnerus
-  - Amy Ys Tr
-  - Brad Wilcox
-  - Michael J. Rosenfeld
-companies_orgs:
-  - 德州大学奥斯汀分校
-  - 三一大学
-  - 美国小儿医学会
-  - 美国心理学会
-  - 美国社会学会
-  - Institute for American Values
-  - Witherspoon Institute
-  - National Organization for Marriage
-  - 皮尤研究中心
-products_models: []
-media_books:
-  - 《Social Science Research》
-  - 《纽约时报》
 status: evergreen
+summary: 本文深入探讨了美国同性婚姻诉讼期间，围绕同性恋亲职研究引发的学术争议和文化战争。文章揭露了一项声称“打破无差别共识”的研究如何受到保守派资金操纵，以及其在法庭上的失败。同时，介绍了荷兰和比利时学者利用大样本数据进行的里程碑式研究，揭示了同性家庭子女学业成就的细微差异，并反思了以子女发展评判婚姻权利的伦理困境。
+tags:
+- culture
+- ethics
+- right
+- same-sex-parenting
+- social
+title: 学术争议与同性亲职研究：一场影响深远的文化战争
 ---
+
 ### 同性婚姻诉讼中的学术战场
 
 这里是寿斯坦丁，在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究发现。Mark Regnerus是美国德州大学奥斯汀分校的郑教授，他所任职的社会学系全美排名前20。对许多博士生或新晋学者来说，职业阶梯的终点就是在这样一所声望卓著的机构当上正教授。然而，Mark Regnerus（下称“小雷”）的名声却在业界谷底，有人说他专门生产“垃圾科学”。五年前，他升上正教授时，业界的八卦论坛甚至有人唱衰，这所社会学系会因此掉到200名以外。这一切都与11年前，江湖上掀起的那场腥风血雨有关。

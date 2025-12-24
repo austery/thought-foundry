@@ -1,55 +1,56 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- DBS
+- Singapore Airlines
+- Ritz Carlton
+- Amazon
+- AWS
+- Google
+- Microsoft
+- ING
+- Citibank
+- Temasek Holdings
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Huffington Post
+- Financial Times Business Book of the Year
+people:
+- Nicolola Tangian
+- Tan Su Shan
+- Ariana Huffington
+- Kathy Wood
+- Peter Diamandis
+- Salim Ismail
+products_models:
+- Bloomberg Terminal
+- Twitch
+- Discord
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=z8UOnqhZHvs
 speaker: Norges Bank Investment Management
-tags:
-  - singapore-business-model
-  - digital-transformation
-  - ai-in-banking
-  - wealth-management-asia
-  - corporate-culture-innovation
-title: 星展银行CEO陈淑珊：新加坡的成功之道、DBS的数字化转型与AI赋能
-summary: 本期播客中，挪威主权财富基金CEO Nicolola Tangian对话星展银行（DBS）CEO陈淑珊。陈淑珊分享了DBS作为新加坡发展银行的演变历程，以及新加坡如何凭借信任、正直、开放和“怕输”精神实现经济腾飞。她深入探讨了DBS在数字化、AI赋能、财富管理方面的战略，以及如何通过独特的企业文化（如WRECKON和Meeting Mojo）激发创新。同时，她还分享了个人领导力风格、工作与生活平衡的智慧，并展望了AI对银行业务的深远影响。最后，两位CEO就地缘政治下的市场敏捷性、长期投资和文化差异进行了交流。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - personal-growth-lab
-people:
-  - Nicolola Tangian
-  - Tan Su Shan
-  - Ariana Huffington
-  - Kathy Wood
-  - Peter Diamandis
-  - Salim Ismail
-companies_orgs:
-  - Norges Bank Investment Management
-  - DBS
-  - Singapore Airlines
-  - Ritz Carlton
-  - Amazon
-  - AWS
-  - Google
-  - Microsoft
-  - ING
-  - Citibank
-  - Temasek Holdings
-products_models:
-  - Bloomberg Terminal
-  - Twitch
-  - Discord
-media_books:
-  - The Huffington Post
-  - Financial Times Business Book of the Year
 status: evergreen
+summary: 本期播客中，挪威主权财富基金CEO Nicolola Tangian对话星展银行（DBS）CEO陈淑珊。陈淑珊分享了DBS作为新加坡发展银行的演变历程，以及新加坡如何凭借信任、正直、开放和“怕输”精神实现经济腾飞。她深入探讨了DBS在数字化、AI赋能、财富管理方面的战略，以及如何通过独特的企业文化（如WRECKON和Meeting
+  Mojo）激发创新。同时，她还分享了个人领导力风格、工作与生活平衡的智慧，并展望了AI对银行业务的深远影响。最后，两位CEO就地缘政治下的市场敏捷性、长期投资和文化差异进行了交流。
+tags:
+- corporate-culture-innovation
+- digital-transformation
+- financial
+- singapore-business-model
+- wealth-management-asia
+title: 星展银行CEO陈淑珊：新加坡的成功之道、DBS的数字化转型与AI赋能
 ---
+
 ### 引言：DBS的定位与全球金融影响力
 
 **Nicolola Tangian:** 大家好，我是挪威主权财富基金的首席执行官Nicolola Tangian。今天我非常荣幸能与**DBS**（Development Bank of Singapore: 新加坡发展银行）的首席执行官Susan对话，DBS是本地区最大的银行。不仅如此，Susan还是全球金融界最重要的、最有影响力的女性之一。非常感谢您抽出时间。

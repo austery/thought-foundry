@@ -1,88 +1,88 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 环球时报
+- 人民日报
+- 参考消息
+- 南方周末
+- 21世纪环球报道
+- 凤凰周刊
+- 新华社
+- 中国青年报
+- National Endowment for Democracy
+- 抖音
+- 快手
+- Bilibili
+- 腾讯
+- Alibaba
+- 清华大学国际传媒研究中心
+- 南方报业集团
+- 新京报
+- 南方都市报
 date: '2024-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《环球时报》
+- 《人民日报》
+- 《参考消息》
+- 《南方周末》
+- 《新京报》
+- 《南方都市报》
+- 《时代》周刊
+- 《财经》
+- 《三联生活周刊》
+- 《中国新闻周刊》
+- 《瞭望东方周刊》
+- 《人物》
+people:
+- 胡锡进
+- 江泽民
+- 李登辉
+- 陈水扁
+- 野田佳彦
+- 小泉纯一郎
+- 方滨兴
+- 艾未未
+- Nancy Pelosi
+- 苗德顺
+- 尹锡悦
+- 傅国豪
+- 周小平
+- 铁头
+- 兔主席
+- 任仲夷
+- 潘岳
+- 巩俐
+- Xi Jinping
+- 习明泽
+- 王志安
+- 刘晓波
+- 郭敬明
+- 韩寒
+- 李锡光
+- 钱钢
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=eFenxW80FQ0
 speaker: 东京人文论坛
-tags:
-  - commercial-nationalism
-  - media-propaganda
-  - public-opinion-shaping
-  - traffic-nationalism
-title: 胡锡进与《环球时报》：中国商业民族主义的兴衰史
-summary: 本讲座以胡锡进和《环球时报》为案例，深入剖析了中国“商业民族主义”的起源、发展与演变。讲者追溯了《环球时报》如何从一份奇闻异事小报，精准抓住民族主义情绪，崛起为中国发行量第二的媒体，并开创了将爱国主义商业化的模式。内容还探讨了其著名的中英文版“精神分裂”现象，以及这种模式在社交媒体时代如何演变为“流量民族主义”。最后，讲座分析了胡锡进本人如何被自己煽动的潮流反噬，并对这种现象的未来提出了展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 胡锡进
-  - 江泽民
-  - 李登辉
-  - 陈水扁
-  - 野田佳彦
-  - 小泉纯一郎
-  - 方滨兴
-  - 艾未未
-  - Nancy Pelosi
-  - 苗德顺
-  - 尹锡悦
-  - 傅国豪
-  - 周小平
-  - 铁头
-  - 兔主席
-  - 任仲夷
-  - 潘岳
-  - 巩俐
-  - 习近平
-  - 习明泽
-  - 王志安
-  - 刘晓波
-  - 郭敬明
-  - 韩寒
-  - 李锡光
-  - 钱钢
-companies_orgs:
-  - 环球时报
-  - 人民日报
-  - 参考消息
-  - 南方周末
-  - 21世纪环球报道
-  - 凤凰周刊
-  - 新华社
-  - 中国青年报
-  - National Endowment for Democracy
-  - 抖音
-  - 快手
-  - Bilibili
-  - 腾讯
-  - 阿里巴巴
-  - 清华大学国际传媒研究中心
-  - 南方报业集团
-  - 新京报
-  - 南方都市报
-products_models: []
-media_books:
-  - 《环球时报》
-  - 《人民日报》
-  - 《参考消息》
-  - 《南方周末》
-  - 《新京报》
-  - 《南方都市报》
-  - 《时代》周刊
-  - 《财经》
-  - 《三联生活周刊》
-  - 《中国新闻周刊》
-  - 《瞭望东方周刊》
-  - 《人物》
 status: evergreen
+summary: 本讲座以胡锡进和《环球时报》为案例，深入剖析了中国“商业民族主义”的起源、发展与演变。讲者追溯了《环球时报》如何从一份奇闻异事小报，精准抓住民族主义情绪，崛起为中国发行量第二的媒体，并开创了将爱国主义商业化的模式。内容还探讨了其著名的中英文版“精神分裂”现象，以及这种模式在社交媒体时代如何演变为“流量民族主义”。最后，讲座分析了胡锡进本人如何被自己煽动的潮流反噬，并对这种现象的未来提出了展望。
+tags:
+- commercial-nationalism
+- media
+- public-opinion-shaping
+- traffic-nationalism
+title: 胡锡进与《环球时报》：中国商业民族主义的兴衰史
 ---
+
 ### 引言：胡锡进的崛起与江泽民时代
 
 为什么要以《环球时报》为例呢？今天这个日子很好，是伟大的无产阶级革命家、军事家、政治家江泽民同志的生日。之所以提到江泽民，是因为胡锡进的崛起与江泽民时代有密切关系。民族主义这个叙事，恰恰是在江时代形成甚至奠基的。

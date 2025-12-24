@@ -1,31 +1,27 @@
 ---
-title: Anthropic可解释性团队：揭秘大模型的思考方式与内部机制
-summary: Anthropic可解释性团队通过深入研究揭示大模型内部运作。他们探讨了模型如何形成抽象概念、进行计算、处理多语言，并区分了模型的真实思考与输出。研究强调理解模型对建立信任、优化性能及解决幻觉至关重要。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- ai-interpretability
-- llm
-- neural-networks
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs:
 - anthropic
-products_models: []
-media_books: []
 date: '2025-08-23'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=9DDWtaEvKy4
+speaker: Best Partners TV
 status: evergreen
+summary: Anthropic可解释性团队通过深入研究揭示大模型内部运作。他们探讨了模型如何形成抽象概念、进行计算、处理多语言，并区分了模型的真实思考与输出。研究强调理解模型对建立信任、优化性能及解决幻觉至关重要。
+tags:
+- llm
+- neural-network
+title: Anthropic可解释性团队：揭秘大模型的思考方式与内部机制
 ---
+
 ### 引言：揭开大模型的神秘面纱
 
 Anthropic于8月16日发布了最新一期官方YouTube视频，其中三位可解释性团队的研究员深入探讨，试图揭示**大语言模型**（Large Language Model, LLM: 基于大量文本数据训练，能够理解和生成人类语言的人工智能模型）的思考方式。本次访谈总结将聚焦于揭开大模型内部运作的秘密，探究其作为“黑盒”的本质。

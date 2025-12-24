@@ -1,44 +1,43 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Landlord and Tenant Board
+- 省租户权益倡导中心
+- 法律援助组织
+- 安省小业主房东联盟
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CTV
+- 多伦多星报
+- Kijiji
+- Facebook Marketplace
+- MLS
+people:
+- David
+- 外go女士
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=-otGbdVkF9M
 speaker: 莊也雜談
-tags:
-  - ontario-bill-60
-  - landlord-tenant-rights
-  - housing-policy
-  - eviction-process
-  - rental-market
-  - social-justice
-title: 安省60号法案：房东与租客权利的巨大变革及其深远影响
-summary: 加拿大安大略省近期通过的60号法案，旨在解决房东租客委员会（LTB）案件积压问题，并调整房东与租客之间的权利义务。本文深入解读了该法案在欠租驱逐、自住驱逐、听证会申诉及复议期限等方面的重大修改，探讨了其对房东和租客群体带来的深远影响，以及引发的社会争议和对未来住房政策的启示。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - David
-  - 外go女士
-companies_orgs:
-  - Landlord and Tenant Board
-  - 省租户权益倡导中心
-  - 法律援助组织
-  - 安省小业主房东联盟
-products_models: []
-media_books:
-  - CTV
-  - 多伦多星报
-  - Kijiji
-  - Facebook Marketplace
-  - MLS
 status: evergreen
+summary: 加拿大安大略省近期通过的60号法案，旨在解决房东租客委员会（LTB）案件积压问题，并调整房东与租客之间的权利义务。本文深入解读了该法案在欠租驱逐、自住驱逐、听证会申诉及复议期限等方面的重大修改，探讨了其对房东和租客群体带来的深远影响，以及引发的社会争议和对未来住房政策的启示。
+tags:
+- housing-policy
+- market
+- right
+- social-justice
+- technology
+title: 安省60号法案：房东与租客权利的巨大变革及其深远影响
 ---
+
 ### 安省60号法案：背景与个人视角
 
 大家好，我是庄野，欢迎收看庄野杂谈。今天我们来聊聊安大略省刚刚通过的**60号法案**（Bill 60: 全称“2025年对抗延迟加速建设法案”，旨在解决住房危机、加速建设并改革租赁法）。之所以选择这个话题，一方面是源于观众的留言点播，另一方面也是我个人对此深感兴趣。尽管我现在拥有自己的房产，但在此之前，我也曾是租房大军中的一员，对租房的关切感同身受。我身边也有许多朋友，曾将或正将房产用于出租，成为光荣的房东。甚至未来，我退休后也可能卖掉现有房产，重新回到租房市场。因此，这个问题与我们现在或未来每个普通人的日常生活都密切相关。

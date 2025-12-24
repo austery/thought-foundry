@@ -1,52 +1,52 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- BBC
+- TVO Today
+- Canadian Armed Forces
+- Taliban
+- Pan American Airways
+- United States
+- Canada
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+people:
+- Lyse Doucet
+- Amanullah
+- Hazrat
+- Truman Capote
+- Margaret Atwood
+- Juan Trippe
+- Osama bin Laden
+- Malala Yousafzai
+- Robertson Davies
+products_models:
+- The Finest Hotel in Kabul
+- In Cold Blood
+project:
+- geopolitics-watch
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=nmSWaFc5l8c
 speaker: TVO Today
-tags:
-  - afghanistan-history
-  - canadian-foreign-policy
-  - conflict-reporting
-  - human-resilience
-  - geopolitical-impact
-title: 阿富汗的往昔、加拿大的角色，以及见证这一切的酒店
-summary: 本文探讨了阿富汗自2001年塔利班倒台以来的动荡历史，以及加拿大在其中扮演的角色。通过聚焦喀布尔洲际酒店的故事，BBC首席国际记者Lyse Doucet的新书揭示了一个国家和其人民在战争、政治变迁与日常生活中所展现的韧性与尊严。文章还讨论了9/11事件对阿富汗的影响，以及在冲突报道中同理心的重要性，强调了实地新闻工作和公民责任的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - us-analysis
-people:
-  - Lyse Doucet
-  - Amanullah
-  - Hazrat
-  - Truman Capote
-  - Margaret Atwood
-  - Juan Trippe
-  - Osama bin Laden
-  - Malala Yousafzai
-  - Robertson Davies
-companies_orgs:
-  - BBC
-  - TVO Today
-  - Canadian Armed Forces
-  - Taliban
-  - Pan American Airways
-  - United States
-  - Canada
-products_models:
-  - The Finest Hotel in Kabul
-  - In Cold Blood
-media_books:
-  - The Rundown
 status: evergreen
+summary: 本文探讨了阿富汗自2001年塔利班倒台以来的动荡历史，以及加拿大在其中扮演的角色。通过聚焦喀布尔洲际酒店的故事，BBC首席国际记者Lyse Doucet的新书揭示了一个国家和其人民在战争、政治变迁与日常生活中所展现的韧性与尊严。文章还讨论了9/11事件对阿富汗的影响，以及在冲突报道中同理心的重要性，强调了实地新闻工作和公民责任的重要性。
+tags:
+- canadian-foreign-policy
+- conflict
+- geopolitical-impact
+- history
+- human-resilience
+title: 阿富汗的往昔、加拿大的角色，以及见证这一切的酒店
 ---
+
 ### 阿富汗的希望与变迁
 
 主持人: 你还记得2001年**塔利班**（Taliban: 阿富汗的一个伊斯兰原教旨主义政治与军事组织）倒台的时候吗？

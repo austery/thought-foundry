@@ -6,18 +6,16 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-browser
-- browser-war
-- google-chrome
-- search-engine
+- llm
+- technology
+- war
 people:
-  - Howie Sheng
-  - Howie Xu
-  - Guru Pangal
+- Howie Sheng
+- Howie Xu
+- Guru Pangal
 companies_orgs:
 - perplexity
 products_models: []
-media_books: []
 date: 2025-08-29
 author: Lei
 speaker: ''
@@ -31,7 +29,10 @@ series: null
 source: https://www.youtube.com/watch?v=Jb1U0BH31x0
 status: evergreen
 updated: 2025-08-29T16:34
+companies:
+- google-chrome
 ---
+
 ## 什么是AI浏览器？
 
 Howie Sheng: First question, help us to define what is an AI browser. So, guru, why don't you start first?

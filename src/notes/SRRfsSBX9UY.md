@@ -1,29 +1,27 @@
 ---
+area: finance-wealth
 author: Lei
+category: stock-investment
+created: 1984-01-24T03:00
 date: 2025-07-10
-guest: 
-insight:
+guest: null
+insight: null
 layout: post.njk
-series:
+project: 知行小酒馆
+series: null
 source: https://www.youtube.com/watch?v=SRRfsSBX9UY
 speaker: 知行小酒馆
+status: evergreen
 summary: 可以看看段永平的书，好像是他在雪球的合集
 tags:
-  - 段永平
-  - 人生哲学
-  - 投资
-  - 投资大师
-  - 知行小酒馆
-
-
+- investment-master
+- life-philosophy
 title: E189 聊聊段永平，以及你想活出怎样的人生
-created: 1984-01-24T03:00
 updated: 2025-09-01T13:04
-area: ""
-project: 知行小酒馆
-category: ""
-status: evergreen
+people:
+- 段永平
 ---
+
 ## 引言：聊聊段永平的契机
 
 **雨白:**

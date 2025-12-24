@@ -1,34 +1,34 @@
 ---
-title: 批判“赢学”与迎合施虐者：一种既缺德又愚蠢的生存策略
-summary: 本期节目批判了社会达尔文主义下的“赢学”思维，以及为求生存而讨好施虐者的行为，探讨其道德与实用性，并呼吁人们不要做蠢事。
 area: personal-growth
 category: culture
-project:
-- cultural-critique
-- investment-strategy
-- market-cycles
-tags:
-- appeasement-strategy
-- chinese-internet-culture
-- social-darwinism
-- stockholm-syndrome
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books:
-- win-ology
 date: '2025-09-13'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- win-ology
+people:
+- stella-an
+products_models: []
+project:
+- cultural-critique
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=kz2UiEMUxUQ
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 本期节目批判了社会达尔文主义下的“赢学”思维，以及为求生存而讨好施虐者的行为，探讨其道德与实用性，并呼吁人们不要做蠢事。
+tags:
+- culture
+- investment
+- social
+- strategy
+title: 批判“赢学”与迎合施虐者：一种既缺德又愚蠢的生存策略
 ---
+
 ### 对“赢学”与“计算机党”的批判
 
 大家好，我是安争鸣。今天我们暂时不读书，因为最近发生了一些事情，让我不吐不快。所以，我打算久违地跟大家聊聊天，听我吐吐槽。

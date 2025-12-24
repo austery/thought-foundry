@@ -1,33 +1,31 @@
 ---
-title: 回顾25年市场：资产关系解析与未来布局展望
-summary: 本文回顾了过去一周及今年以来的市场走势，深入分析了各类资产（美股、美债、黄金、比特币、欧洲股市）之间的相关性，并基于财报数据和市场情绪，对未来投资布局提供了展望。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- asset-correlation
-- financial-markets
-- global-economy
-- investment-strategy
-- market-analysis
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-04-26'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=6KKcrfuKRsQ
+speaker: 投资TALK君
 status: evergreen
+summary: 本文回顾了过去一周及今年以来的市场走势，深入分析了各类资产（美股、美债、黄金、比特币、欧洲股市）之间的相关性，并基于财报数据和市场情绪，对未来投资布局提供了展望。
+tags:
+- asset
+- financial-market
+- global-economy
+- market-analysis
+title: 回顾25年市场：资产关系解析与未来布局展望
 ---
+
 ### 市场回顾与资产表现总结
 
 欢迎来到专业美股频道，我是市场分析员小陶。本周我们做到了全勤，虽然大家看到这期内容时已是4月26日周六，但过去一周我们依然非常勤快。今天，我们将借由过去一周的市场走势，回顾今年以来的整体表现，将所有资产串联起来，并对未来走势进行展望。回顾之后，我们将从数据出发，总结过去一周的财报季度，并分享市场参与度指标——20日均线和50日均线。

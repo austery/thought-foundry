@@ -1,48 +1,47 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Cisco
+- Outshift
+- GitHub
+- Galileo
+- LangChain
+- ArangoDB
+- Neo4j
+- ServiceNow
+- agency.org
 date: '2025-08-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ola Mabadeje
+products_models:
+- OpenConfig
+- AQL
+- Batfish
+- RoutNet
+- MCP
+- A2A
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=m0dxZ-NDKHo
 speaker: AI Engineer
-tags:
-  - multi-agent-ai
-  - network-knowledge-graph
-  - digital-twin
-  - change-management
-  - network-automation
-title: 思科Outshift：利用多智能体AI和网络知识图谱应对网络变更挑战
-summary: 思科Outshift团队的产品负责人Ola Mabadeje介绍了他们如何利用多智能体AI系统、网络知识图谱和数字孪生技术，解决网络变更管理中普遍存在的生产环境故障问题。该方案通过自然语言接口与ITSM工具集成，利用AI智能体进行影响评估和测试计划生成，并在数字孪生环境中运行测试，显著减少了令牌消耗和响应时间。文章详细阐述了知识图谱的构建挑战、多模型灵活性、性能等技术要求，并展示了一个实际的防火墙规则变更管理演示，强调了开放标准和可伸缩系统的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ola Mabadeje
-companies_orgs:
-  - Cisco
-  - Outshift
-  - GitHub
-  - Galileo
-  - LangChain
-  - ArangoDB
-  - Neo4j
-  - ServiceNow
-  - agency.org
-products_models:
-  - OpenConfig
-  - AQL
-  - Batfish
-  - RoutNet
-  - MCP
-  - A2A
-media_books: []
 status: evergreen
+summary: 思科Outshift团队的产品负责人Ola Mabadeje介绍了他们如何利用多智能体AI系统、网络知识图谱和数字孪生技术，解决网络变更管理中普遍存在的生产环境故障问题。该方案通过自然语言接口与ITSM工具集成，利用AI智能体进行影响评估和测试计划生成，并在数字孪生环境中运行测试，显著减少了令牌消耗和响应时间。文章详细阐述了知识图谱的构建挑战、多模型灵活性、性能等技术要求，并展示了一个实际的防火墙规则变更管理演示，强调了开放标准和可伸缩系统的重要性。
+tags:
+- agent
+- digital
+- management
+- network
+- network-automation
+title: 思科Outshift：利用多智能体AI和网络知识图谱应对网络变更挑战
 ---
+
 ### 引言：思科Outshift的AI探索
 
 大家好，我是来自思科的Ola Mabadeje，一名产品经理。

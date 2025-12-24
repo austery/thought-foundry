@@ -1,63 +1,52 @@
 ---
-
-author: "Lei"
-date: "2025-11-05"
-guest:
-layout: "post.njk"
-source: ""
-speaker: 一口新饭读书会
-title: "财富的阶梯：从生存挣扎到财务自由的个人经验与反思"
-summary: "本次读书会深入探讨了财富的六个层级概念。参与者们分享了各自在不同财富阶段的亲身经历和感悟，从Level 1的生存挣扎到对更高阶财富自由的思考。讨论不仅涵盖了投资、储蓄等实际策略，更触及了金钱与幸福感、个人价值实现以及子女财商教育等深层话题，反思了财富阶梯作为人生地图的意义与局限性。"
-
-area: "personal-systems"
-
-category: "lifestyle"
-
-project:
-  - "fire-movement"
-  - "personal-growth-lab"
-
-tags:
-  - "wealth-levels"
-  - "financial-freedom"
-  - "investing-mindset"
-  - "personal-finance"
-  - "happiness"
-
-people:
-  - Zalira
-  - Remy
-  - Lu Yao
-  - Vance
-  - Frank
-  - Xiao Xigua
-  - Vivi
-  - Wes
-  - Chandler
-  - Jeff Bezos
-  - Warren Buffett
+area: personal-systems
+author: Lei
+category: lifestyle
 companies_orgs:
-  - "Amazon"
-  - "Tesla"
-  - "Nvidia"
-
-products_models:
-  - "SP500"
-  - "VOO"
-  - "QQQ"
-  - "Bitcoin"
-
-media_books:
-  - "《老友记》"
-  - "《Just Keep Buying》"
-  - "《拿铁因素》"
-  - "《成为母亲》"
-
+- Amazon
+- Tesla
+- Nvidia
+date: '2025-11-05'
 draft: true
-status: "evergreen"
-
+guest: null
+layout: post.njk
+media_books:
+- 《老友记》
+- 《Just Keep Buying》
+- 《拿铁因素》
+- 《成为母亲》
+people:
+- Zalira
+- Remy
+- Lu Yao
+- Vance
+- Frank
+- Xiao Xigua
+- Vivi
+- Wes
+- Chandler
+- Jeff Bezos
+- Warren Buffett
+products_models:
+- SP500
+- VOO
+- QQQ
+- Bitcoin
+project:
+- fire-movement
+- personal-growth-lab
+source: ''
+speaker: 一口新饭读书会
+status: evergreen
+summary: 本次读书会深入探讨了财富的六个层级概念。参与者们分享了各自在不同财富阶段的亲身经历和感悟，从Level 1的生存挣扎到对更高阶财富自由的思考。讨论不仅涵盖了投资、储蓄等实际策略，更触及了金钱与幸福感、个人价值实现以及子女财商教育等深层话题，反思了财富阶梯作为人生地图的意义与局限性。
+tags:
+- financial
+- financial-freedom
+- investing
+- personal-finance
+- wealth
+title: 财富的阶梯：从生存挣扎到财务自由的个人经验与反思
 ---
-
 
 ## 开场与技术调试
 

@@ -1,40 +1,39 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
 date: '2024-03-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sholto Douglas
+- Trenton Bricken
+- Chris Ola
+products_models:
+- GPT-4
+- Gemini
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=UeI29-AdhQI
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-research
-  - compute-power
-  - model-scaling
-  - research-bottlenecks
-  - interpretability
-title: AI 进展加速：计算、研究与未来
-summary: 本次对话深入探讨了人工智能研究的加速潜力。演讲者认为，AI 的发展正从单纯的工程瓶颈转向计算能力和数据获取的限制。他们讨论了计算资源如何影响研究效率（以 Gemini 项目为例），以及 AI 如何作为研究员的协作者，通过加速算法进展和生成合成数据来推动模型能力提升。理解实验失败的原因、在信息不完美的情况下做出决策、以及严苛的优先级排序，是当前 AI 研究的核心挑战。最终，机器学习研究的经验主义本质，使其在探索 AI 架构时，如同生物进化般进行着贪婪的优化。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sholto Douglas
-  - Trenton Bricken
-  - Dwarkesh Patel
-  - Chris Ola
-companies_orgs:
-  - OpenAI
-  - Google
-products_models:
-  - GPT-4
-  - Gemini
-media_books: []
 status: evergreen
+summary: 本次对话深入探讨了人工智能研究的加速潜力。演讲者认为，AI 的发展正从单纯的工程瓶颈转向计算能力和数据获取的限制。他们讨论了计算资源如何影响研究效率（以
+  Gemini 项目为例），以及 AI 如何作为研究员的协作者，通过加速算法进展和生成合成数据来推动模型能力提升。理解实验失败的原因、在信息不完美的情况下做出决策、以及严苛的优先级排序，是当前
+  AI 研究的核心挑战。最终，机器学习研究的经验主义本质，使其在探索 AI 架构时，如同生物进化般进行着贪婪的优化。
+tags:
+- ai-research
+- canada
+- model
+- power
+- research
+title: AI 进展加速：计算、研究与未来
 ---
+
 ### AI 研究的加速潜力
 在智能爆炸的设想中，当人工智能研究员被 AI 取代时，会涌现出大量自动化 AI 研究员，它们能加速研究进程，创造更多 AI 研究员，并推动更深层次的进展。然而，这种设想是否可行，需要我们直接询问 AI 研究员。如果拥有成千上万的 AI 研究员，是否就能引发智能爆炸？目前的瓶颈似乎更多在于运行模型所需的**计算能力**（Compute Power）和**数据信号**的获取，而非纯粹的工程实现难度。
 

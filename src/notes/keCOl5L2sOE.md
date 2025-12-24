@@ -1,47 +1,46 @@
 ---
-author: 徒步的騎手
-date: 2025-01-15
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=keCOl5L2sOE'
-speaker: 徒步的騎手
-tags:
-  - chinese-fraud-industry
-  - propaganda-fraud
-  - societal-deception
-  - historical-patterns
-  - systemic-corruption
-title: 中国诈骗业的歧视链：从民间到官办，历史与制度的透视
-summary: 本文深入探讨了中国诈骗业的广泛蔓延及其独特的“歧视链”，从缅北经济诈骗到官方主导的舆论诈骗。文章追溯了中国社会造假和欺骗的悠久历史，引用纪晓岚《阅微草堂笔记》揭示康乾盛世时期民间诈骗的猖獗。进一步分析了苏俄意识形态对中国社会道德护栏的摧毁，以及现代官办舆论诈骗对国民造成的深远灾难。文章指出，整个制度的虚假性是系统性诈骗的根本原因，呼吁重建内在道德和外在法律护栏。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 胡锡进
-  - 纪晓岚
-  - George Macartney
-  - 乾隆皇帝
-  - 严复
-  - Vice Chairman Lin Biao
-  - 蒲松林
+category: geopolitics
 companies_orgs:
-  - 中国运营商
-  - 《卫报》
-  - 《时代周报》
-  - 《世界报》
-  - 公检法
-products_models: '[]'
+- 中国运营商
+- 《卫报》
+- 《时代周报》
+- 《世界报》
+- 公检法
+date: 2025-01-15
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《聊斋志异》
-  - 《阅微草堂笔记》
-  - 《旧王绝论》
+- 《聊斋志异》
+- 《阅微草堂笔记》
+- 《旧王绝论》
+people:
+- 胡锡进
+- 纪晓岚
+- George Macartney
+- 乾隆皇帝
+- 严复
+- Vice Chairman Lin Biao
+- 蒲松林
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=keCOl5L2sOE
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了中国诈骗业的广泛蔓延及其独特的“歧视链”，从缅北经济诈骗到官方主导的舆论诈骗。文章追溯了中国社会造假和欺骗的悠久历史，引用纪晓岚《阅微草堂笔记》揭示康乾盛世时期民间诈骗的猖獗。进一步分析了苏俄意识形态对中国社会道德护栏的摧毁，以及现代官办舆论诈骗对国民造成的深远灾难。文章指出，整个制度的虚假性是系统性诈骗的根本原因，呼吁重建内在道德和外在法律护栏。
+tags:
+- fraud
+- historical
+- industry
+- societal
+- systemic-corruption
+title: 中国诈骗业的歧视链：从民间到官办，历史与制度的透视
 ---
 
 ### 中国诈骗业的兴盛与“歧视链”

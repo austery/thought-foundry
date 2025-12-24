@@ -1,41 +1,41 @@
 ---
-author: KevinFeng 冯凯文
+area: personal-systems
+category: productivity
+companies_orgs:
+- Apple
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Almanac of Naval Ravikant
+- Useful Not True
+- Don't believe everything you think
+- Diary of a CEO
+- Boundary Investor
+- The Art of Spending
+people:
+- LeBron James
+- Michael Jordan
+- Morgan Housel
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=L2B1NhxfvIw
 speaker: KevinFeng 冯凯文
-tags:
-  - self-improvement
-  - mindset
-  - financial-literacy
-  - value-exchange
-  - long-term-thinking
-title: 走出人生低谷：高中生也能读懂的两本英文逆袭书
-summary: 冯凯文分享了两本简单易懂的英文书籍，它们帮助他走出了人生低谷，重燃对生活的希望。这两本书分别从财富观念和思维模式入手，提供实用的建议和方法，帮助读者重塑自我认知，找到人生的方向和动力。适合想要提升自我、改变生活现状的读者。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - LeBron James
-  - Michael Jordan
-  - Morgan Housel
-companies_orgs:
-  - Apple
-products_models: []
-media_books:
-  - The Almanac of Naval Ravikant
-  - Useful Not True
-  - Don't believe everything you think
-  - Diary of a CEO
-  - Boundary Investor
-  - The Art of Spending
 status: evergreen
+summary: 冯凯文分享了两本简单易懂的英文书籍，它们帮助他走出了人生低谷，重燃对生活的希望。这两本书分别从财富观念和思维模式入手，提供实用的建议和方法，帮助读者重塑自我认知，找到人生的方向和动力。适合想要提升自我、改变生活现状的读者。
+tags:
+- financial-literacy
+- mindset
+- self-improvement
+- thinking
+- value
+title: 走出人生低谷：高中生也能读懂的两本英文逆袭书
 ---
+
 ### 引言：走出低谷，重塑人生
 
 今天跟大家分享两本词汇语法都超级简单，高中毕业应该就能够读的英文书，但它们却帮我从低谷走了出来。什么都不顺，连呼吸都感觉有压力的日子，直到有一天我读到了这两本书，那一刻我突然就意识到，也许我们可以换一种方式看世界，可以过上不一样的人生。那如果你也想学英文，顺便想要提升自己，甚至逆袭自己的生活的话，那么请务必一定要读这两本书。

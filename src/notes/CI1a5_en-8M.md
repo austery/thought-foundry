@@ -1,49 +1,49 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Rapid Support Forces
+- Wagner Group
+- Africa Corps
+- United Nations
+- Red Crescent
+- Red Cross
+- BBC
+- Daily Telegraph
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Rachel Abrams
+- Declan Walsh
+- Muhammad Hamdan
+- Donald Trump
+- Chuck Schumer
+- Joe Biden
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=CI1a5_en-8M
 speaker: New York Times Podcasts
-tags:
-  - sudan-civil-war
-  - gold-smuggling
-  - humanitarian-crisis
-  - foreign-intervention
-  - conflict-financing
-title: 苏丹内战背后的黄金热潮：一场被忽视的人道危机与国际角力
-summary: 本文深入探讨了苏丹持续两年半的内战，揭示了其背后由黄金驱动的残酷现实。冲突已导致数百万人流离失所，数十万人丧生，并引发了全球最大的人道主义危机。报道详细分析了快速支援部队（RSF）和苏丹军队如何通过手工采金和工业化采矿获取资金，以及俄罗斯瓦格纳集团和阿联酋在其中扮演的角色。文章还探讨了国际社会，特别是美国，在解决这场危机中的复杂立场和挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - us-analysis
-people:
-  - Rachel Abrams
-  - Declan Walsh
-  - Muhammad Hamdan
-  - Donald Trump
-  - Chuck Schumer
-  - Joe Biden
-companies_orgs:
-  - New York Times
-  - Rapid Support Forces
-  - Wagner Group
-  - Africa Corps
-  - United Nations
-  - Red Crescent
-  - Red Cross
-  - BBC
-  - Daily Telegraph
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本文深入探讨了苏丹持续两年半的内战，揭示了其背后由黄金驱动的残酷现实。冲突已导致数百万人流离失所，数十万人丧生，并引发了全球最大的人道主义危机。报道详细分析了快速支援部队（RSF）和苏丹军队如何通过手工采金和工业化采矿获取资金，以及俄罗斯瓦格纳集团和阿联酋在其中扮演的角色。文章还探讨了国际社会，特别是美国，在解决这场危机中的复杂立场和挑战。
+tags:
+- conflict
+- crisis
+- geopolitical
+- gold-smuggling
+- war
+title: 苏丹内战背后的黄金热潮：一场被忽视的人道危机与国际角力
 ---
+
 ### 苏丹冲突：被忽视的人道主义灾难
 
 我们接下来要谈论的，可能是地球上最被忽视的人类苦难故事。

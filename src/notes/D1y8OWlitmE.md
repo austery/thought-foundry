@@ -1,55 +1,55 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- University of Ottawa Heart Institute
+- Ontario Taxpayers Federation
+- OECD
 date: '2025-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Premier Files
+- Be a Good One
+people:
+- Dalton McGuinty
+- Steve
+- John Turner
+- David Peterson
+- Bob Rae
+- Terri
+- Joe Cordiano
+- Gerard Kennedy
+- Mike Harris
+- Jerry Phillips
+- John Tory
+- Stephen Harper
+- Jean Chrétien
+- Jeremy Bentham
+- Bill Davis
+products_models:
+- La-Z-Boy
+- HST
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=D1y8OWlitmE
 speaker: TVO Today
-tags:
-  - political-leadership
-  - campaign-strategy
-  - governance-challenges
-  - public-service
-  - political-legacy
-title: 安大略省前省长道尔顿·麦金蒂：政治生涯的回顾与领导力感悟
-summary: 本文深入探讨了安大略省前省长道尔顿·麦金蒂的政治生涯，从他独特的成长背景和家庭教育，到他如何克服重重挑战，三度赢得省选，成为一个世纪以来最成功的自由党省长。麦金蒂分享了他在担任反对党领袖和省长期间的领导哲学、应对危机的策略，以及对公共服务的深刻理解。文章还触及了他个人生活中的重要时刻，并反思了政治生涯对他的影响，以及他卸任后的生活和对未来的展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - Dalton McGuinty
-  - Steve
-  - John Turner
-  - David Peterson
-  - Bob Rae
-  - Terri
-  - Joe Cordiano
-  - Gerard Kennedy
-  - Mike Harris
-  - Jerry Phillips
-  - John Tory
-  - Stephen Harper
-  - Jean Chrétien
-  - Jeremy Bentham
-  - Bill Davis
-companies_orgs:
-  - University of Ottawa Heart Institute
-  - Ontario Taxpayers Federation
-  - OECD
-products_models:
-  - La-Z-Boy
-  - HST
-media_books:
-  - The Premier Files
-  - Be a Good One
 status: evergreen
+summary: 本文深入探讨了安大略省前省长道尔顿·麦金蒂的政治生涯，从他独特的成长背景和家庭教育，到他如何克服重重挑战，三度赢得省选，成为一个世纪以来最成功的自由党省长。麦金蒂分享了他在担任反对党领袖和省长期间的领导哲学、应对危机的策略，以及对公共服务的深刻理解。文章还触及了他个人生活中的重要时刻，并反思了政治生涯对他的影响，以及他卸任后的生活和对未来的展望。
+tags:
+- campaign-strategy
+- challenge
+- political
+- political-leadership
+- public-service
+title: 安大略省前省长道尔顿·麦金蒂：政治生涯的回顾与领导力感悟
 ---
+
 ### 安大略省前省长道尔顿·麦金蒂：政治生涯的回顾
 
 **MAN:** 安大略省前省长们是否仍然坚持他们赖以成名的政策？

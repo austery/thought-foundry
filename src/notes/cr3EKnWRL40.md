@@ -1,66 +1,68 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- CNBC
+- Nvidia
+- Goldman Sachs
+- Morgan Stanley
+- Citadel
+- Grab
+- Uber
+- Shopify
+- Spotify
+- AMD
+- Microsoft
+- Amazon
+- Google
+- Meta
+- Apple
+- Robinhood
+- Coinbase
+- MicroStrategy
+- Schwab
+- Federal Reserve
+- SEC
+- Eli Lilly
+- Novo Nordisk
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Big Short
+people:
+- Alex Karp
+- Michael Burry
+- Tom Lee
+- Ken Griffin
+- Anthony Tan
+- Lisa Su
+- Mike Johnson
+products_models:
+- Blackwell
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=cr3EKnWRL40
 speaker: Amit Kukreja
-tags:
-  - short-selling
-  - market-volatility
-  - earnings-analysis
-  - ai-bubble
-  - commercial-real-estate
-title: Palantir CEO Alex Karp 猛烈回击空头 Michael Burry，解读AI泡沫与市场动荡
-summary: Palantir CEO Alex Karp 在 CNBC 访谈中，就公司创纪录的业绩、被市场误解的原因以及对 Michael Burry 等空头势力的强烈不满发表了看法。Karp 认为 Palantir 为美国及其盟友创造了不公平优势，并批评了“专家阶层”的短视。与此同时，尽管多家公司财报强劲，市场却因政府停摆担忧、商业地产风险及大空头 Michael Burry 做空 Palantir 和英伟达的消息而普遍下跌，引发了关于 AI 泡沫和市场走向的激烈讨论。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Alex Karp
-  - Michael Burry
-  - Tom Lee
-  - Ken Griffin
-  - Anthony Tan
-  - Lisa Su
-  - Mike Johnson
-companies_orgs:
-  - Palantir
-  - CNBC
-  - Nvidia
-  - Goldman Sachs
-  - Morgan Stanley
-  - Citadel
-  - Grab
-  - Uber
-  - Shopify
-  - Spotify
-  - AMD
-  - Microsoft
-  - Amazon
-  - Google
-  - Meta
-  - Apple
-  - Robinhood
-  - Coinbase
-  - MicroStrategy
-  - Schwab
-  - Federal Reserve
-  - SEC
-  - Eli Lilly
-  - Novo Nordisk
-products_models:
-  - Blackwell
-media_books:
-  - The Big Short
 status: evergreen
+summary: Palantir CEO Alex Karp 在 CNBC 访谈中，就公司创纪录的业绩、被市场误解的原因以及对 Michael Burry 等空头势力的强烈不满发表了看法。Karp
+  认为 Palantir 为美国及其盟友创造了不公平优势，并批评了“专家阶层”的短视。与此同时，尽管多家公司财报强劲，市场却因政府停摆担忧、商业地产风险及大空头
+  Michael Burry 做空 Palantir 和英伟达的消息而普遍下跌，引发了关于 AI 泡沫和市场走向的激烈讨论。
+tags:
+- ai-bubble
+- earnings-analysis
+- market-volatility
+- real
+- short-selling
+title: Palantir CEO Alex Karp 猛烈回击空头 Michael Burry，解读AI泡沫与市场动荡
 ---
+
 ### Palantir CEO Alex Karp：我们是一家反常规的公司
 
 早上好，很高兴见到你。我们之前在节目中请过你的传记作者，现在终于能和你本人对话了。Palantir 的财报可以说全面超预期，我们可以稍后讨论为什么股市的反应是这样。但昨天我听了电话会议，你提出了一些非常有趣的观点，关于为什么你认为这家公司，甚至你自己，被如此严重地误解了。

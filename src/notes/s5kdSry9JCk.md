@@ -1,32 +1,31 @@
 ---
-title: 市场狂热与关税终局：美股投机现象及贸易谈判分析
-summary: 本周市场周报分析了当前美股市场中的投机狂热现象，探讨了个股异动、加密资产策略及杠杆问题，并深入解读了与日本、欧盟的关税谈判终局及其对经济的潜在影响。
 area: market-analysis
-category: finance
-project:
-- investment-strategy
-- us-analysis
-tags:
-  - 关税谈判
-  - 加密货币
-  - 市场投机
-  - 美股
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-07-26
 author: Lei
-speaker: Joseph Wang
+category: finance
 channel: null
+companies_orgs: []
+date: 2025-07-26
 draft: true
 file_name: market_frenzy_tariff_endgame_us_stock_speculation.md
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- us-analysis
 series: null
 source: https://www.youtube.com/watch?v=s5kdSry9JCk&t
+speaker: Joseph Wang
+summary: 本周市场周报分析了当前美股市场中的投机狂热现象，探讨了个股异动、加密资产策略及杠杆问题，并深入解读了与日本、欧盟的关税谈判终局及其对经济的潜在影响。
+tags:
+- crypto
+- geopolitics
+- stock
+- 市场投机
+title: 市场狂热与关税终局：美股投机现象及贸易谈判分析
 ---
+
 ## 市场中的投机狂热：猿族全面掌控？
 
 Hello my friends. Today is July 26 and this is Markets Weekly. Now, this past week was a pretty slow week when it came to data, but when it comes to the stock market, it was basically a perfect week. As they say, the **S&P 500** (标准普尔500指数：追踪美国500家大型上市公司股票表现的指数) made new all-time highs every single day.

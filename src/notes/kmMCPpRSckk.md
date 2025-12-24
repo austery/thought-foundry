@@ -1,37 +1,37 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 自然之友
+- 《柳叶刀》
 date: '2024-09-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《柳叶刀》
+people:
+- 卢辉
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- climate-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=kmMCPpRSckk
 speaker: 一席YiXi
-tags:
-  - climate-sensitive-diseases
-  - elderly-vulnerability
-  - heat-stress-physiology
-  - healthcare-adaptation
-  - climate-perception-gap
-title: 脆弱的健康：当气候变化成为基层医疗的日常挑战
-summary: 临床医师卢辉分享他在广东肇庆基层医院工作中，发现极端天气如何加剧老年人群的健康风险，并通过通俗科普推动气候适应行动的故事。揭示气候变化不是远方议题，而是直接影响生命与医疗系统的现实危机。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - climate-impact-analysis
-people:
-  - 卢辉
-companies_orgs:
-  - 自然之友
-  - 《柳叶刀》
-products_models: []
-media_books:
-  - 《柳叶刀》
 status: evergreen
+summary: 临床医师卢辉分享他在广东肇庆基层医院工作中，发现极端天气如何加剧老年人群的健康风险，并通过通俗科普推动气候适应行动的故事。揭示气候变化不是远方议题，而是直接影响生命与医疗系统的现实危机。
+tags:
+- adaptation
+- climate
+- history
+- perception
+- psychology
+title: 脆弱的健康：当气候变化成为基层医疗的日常挑战
 ---
+
 ### 气候变化不是远方的新闻，而是急诊室的日常
 
 大家好，我是来自广东肇庆的卢辉，一名有16年临床经验的医生。我在当地一家二级医院工作，服务基层群众，处理最常见的疾病与突发状况。由于医院同时承担120急救任务，我每年约有四分之一的时间跟随救护车出诊。创伤患者的病情千变万化，我们戏称这像“开盲盒”——你永远不知道下一个病人会遭遇什么。

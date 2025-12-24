@@ -1,70 +1,69 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: general
+companies_orgs:
+- 联合国
+- 世界银行
+- IMF
+- Freedom House
+- WTO
+- 欧盟
+- BBC
+- ICE
+- 小红书
+- Google Meet
+- YouTube
+- Meta
+- Spotify
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《复杂社会的崩溃》
+- 《善恶的彼岸》
+- 《午夜巴黎》
+people:
+- 罗世宏
+- 戈尔巴乔夫
+- 昆汀·塔伦蒂诺
+- Joseph Tainter
+- 尼采
+- 黑格尔
+- 马克斯·韦伯
+- Donald Trump
+- 欧尔班
+- 杜特尔特
+- 斯蒂文·平克
+- 哈贝马斯
+- 凯文·凯利
+- 刘仲敬
+- 金刻羽
+- 张北海
+- 茨威格
+- 拜登
+- 查韦斯
+- 马杜罗
+- 米莱
+products_models:
+- CGI
+project:
+- historical-insights
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=Gw1xjIQ2UhY
 speaker: FearNation 世界苦茶
-tags:
-  - golden-age-theory
-  - historical-mean-reversion
-  - societal-decline
-  - historical-optimism
-title: 黄金时代的终结：当我们确定最好的时候已经过去
-summary: 本文探讨了一个核心观点：二战后至21世纪初的“黄金时代”是人类历史上的一个巨大例外，而非历史常态。讲者从技术红利、制度建设、民主浪潮、社会共识和文化繁荣等多个维度，论证了支撑这一时代的支柱已逐渐瓦解。我们并非在经历暂时的低谷，而是回归到一个充满不确定性的历史均值。文章后半部分通过与听众的深入对话，探讨了在这样一个“下坡路”的世界中，个人应如何自处，以及我们还能抱持怎样的希望。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - cultural-critique
-people:
-  - 罗世宏
-  - 戈尔巴乔夫
-  - 昆汀·塔伦蒂诺
-  - Joseph Tainter
-  - 尼采
-  - 黑格尔
-  - 马克斯·韦伯
-  - Donald Trump
-  - 欧尔班
-  - 杜特尔特
-  - 斯蒂文·平克
-  - 哈贝马斯
-  - 凯文·凯利
-  - 刘仲敬
-  - 金刻羽
-  - 张北海
-  - 茨威格
-  - 拜登
-  - 查韦斯
-  - 马杜罗
-  - 米莱
-companies_orgs:
-  - 联合国
-  - 世界银行
-  - IMF
-  - Freedom House
-  - WTO
-  - 欧盟
-  - BBC
-  - ICE
-  - 小红书
-  - Google Meet
-  - YouTube
-  - Facebook
-  - Spotify
-products_models:
-  - CGI
-media_books:
-  - 《复杂社会的崩溃》
-  - 《善恶的彼岸》
-  - 《午夜巴黎》
 status: evergreen
+summary: 本文探讨了一个核心观点：二战后至21世纪初的“黄金时代”是人类历史上的一个巨大例外，而非历史常态。讲者从技术红利、制度建设、民主浪潮、社会共识和文化繁荣等多个维度，论证了支撑这一时代的支柱已逐渐瓦解。我们并非在经历暂时的低谷，而是回归到一个充满不确定性的历史均值。文章后半部分通过与听众的深入对话，探讨了在这样一个“下坡路”的世界中，个人应如何自处，以及我们还能抱持怎样的希望。
+tags:
+- historical
+- societal
+- theory
+title: 黄金时代的终结：当我们确定最好的时候已经过去
 ---
+
 ### 引言：当最好的时光已成过往
 今天我想和大家讨论一个话题：如果我们能确定，最好的时候已经过去了，该怎么办？
 

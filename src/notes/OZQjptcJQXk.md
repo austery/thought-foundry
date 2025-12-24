@@ -1,46 +1,45 @@
 ---
-author: 郭里有范
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 必和必拓
+- 中国钢铁新闻网
+- 中国统计局
+- 钢铁业协会
+- 淡水河谷
+- 力拓
+- 中国矿产资源集团
+- 中铝
+- 中国人民银行
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- ABC新闻
+- Steel Orbis
+- 路透
+- 彭博
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=OZQjptcJQXk
 speaker: 郭里有范
-tags:
-  - iron-ore-pricing
-  - yuan-internationalization
-  - supply-demand-dynamics
-  - resource-geopolitics
-  - market-monopoly
-title: 中澳铁矿石博弈真相：人民币结算、定价权与市场挑战
-summary: 本文深入剖析了关于中国赢得铁矿石定价权、人民币结算的传言，揭示了中澳铁矿石博弈的复杂现实。文章指出，中国钢铁业利润微薄，而三大矿山利润丰厚，导致受害者情结。通过分析房地产放缓与钢材产量不降反升的悖论、价格战对国内矿业的冲击，以及人民币结算的局限性，阐明了中国在铁矿石市场面临的结构性挑战。同时，也探讨了西芒杜铁矿等未来可能打破现有平衡的策略。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - geopolitics-watch
-  - market-cycles
-people: []
-companies_orgs:
-  - 必和必拓
-  - 中国钢铁新闻网
-  - 中国统计局
-  - 钢铁业协会
-  - 淡水河谷
-  - 力拓
-  - 中国矿产资源集团
-  - 中铝
-  - 中国人民银行
-products_models: []
-media_books:
-  - ABC新闻
-  - Steel Orbis
-  - 路透
-  - 彭博
 status: evergreen
+summary: 本文深入剖析了关于中国赢得铁矿石定价权、人民币结算的传言，揭示了中澳铁矿石博弈的复杂现实。文章指出，中国钢铁业利润微薄，而三大矿山利润丰厚，导致受害者情结。通过分析房地产放缓与钢材产量不降反升的悖论、价格战对国内矿业的冲击，以及人民币结算的局限性，阐明了中国在铁矿石市场面临的结构性挑战。同时，也探讨了西芒杜铁矿等未来可能打破现有平衡的策略。
+tags:
+- canada
+- dynamic
+- geopolitical
+- market
+- science
+title: 中澳铁矿石博弈真相：人民币结算、定价权与市场挑战
 ---
+
 ### 辟谣：铁矿石定价权与人民币结算的“爽文”真相
 
 今天的节目咱们从辟个谣开始。前段时间都说中国赢了铁矿石定价权，听起来确实挺提气，澳洲矿石用人民币结算，打破美元垄断。那真是这样吗？从官方公布的消息，至少是截至我录这期视频的时候，中国和**必和必拓**（BHP Billiton: 全球最大的矿业公司之一）还在谈，没有达成任何协议。

@@ -1,62 +1,62 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 海口市公安局
+- 武汉大学
+- 海南大学
+- 北京人艺
 date: '2024-07-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Voices Carry
+- 《毁于日记》
+- 《是非恩仇20年》
+- 《父亲家族历史》
+- 《地主之伤》
+- 《江上的母亲》
+- 《究体诗集》
+- 《亚洲周刊》
+- 《张居正》
+- 《门后的守望者》
+people:
+- 柴静
+- 野夫
+- 熊昭正
+- 阿西
+- 卢凯森
+- 刘道玉
+- 易中天
+- 殷若诚
+- 黄苗子
+- 冯亦代
+- 张伯驹
+- 张一和
+- 李秀笃
+- 赵紫阳
+- 张居正
+products_models: []
+project:
+- historical-insights
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=ysQgLFl8F4Q
 speaker: 柴静 Chai Jing
-tags:
-  - june-4th-incident
-  - political-imprisonment
-  - betrayal-and-ethics
-  - historical-accountability
-  - intellectuals-in-politics
-title: 野夫：六四告密案、背叛与历史的审判
-summary: 本文记录了作家野夫（石坪）在1989年六四事件后，因营救朋友而入狱的经历。他详细讲述了狱中遭遇朋友熊昭正告密背叛的细节，以及他如何面对个人痛苦、家庭变故和道德困境。野夫坚信为恶者必须付出代价，并以笔为剑，试图通过写作寻求历史的公正审判，反思知识分子在特殊年代的抉择与坚守。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - 柴静
-  - 野夫
-  - 熊昭正
-  - 阿西
-  - 卢凯森
-  - 刘道玉
-  - 易中天
-  - 殷若诚
-  - 黄苗子
-  - 冯亦代
-  - 张伯驹
-  - 张一和
-  - 李秀笃
-  - 赵紫阳
-  - 张居正
-companies_orgs:
-  - 海口市公安局
-  - 武汉大学
-  - 海南大学
-  - 北京人艺
-products_models: []
-media_books:
-  - Voices Carry
-  - 《毁于日记》
-  - 《是非恩仇20年》
-  - 《父亲家族历史》
-  - 《地主之伤》
-  - 《江上的母亲》
-  - 《究体诗集》
-  - 《亚洲周刊》
-  - 《张居正》
-  - 《门后的守望者》
 status: evergreen
+summary: 本文记录了作家野夫（石坪）在1989年六四事件后，因营救朋友而入狱的经历。他详细讲述了狱中遭遇朋友熊昭正告密背叛的细节，以及他如何面对个人痛苦、家庭变故和道德困境。野夫坚信为恶者必须付出代价，并以笔为剑，试图通过写作寻求历史的公正审判，反思知识分子在特殊年代的抉择与坚守。
+tags:
+- ethics
+- historical
+- history
+- political
+- politics
+title: 野夫：六四告密案、背叛与历史的审判
 ---
+
 ### 引言：未曾触及的伤痛
 
 我认识这位作者很多年了。但有一件事我们从未面对面谈过，那就是她1989年六四之后被释放，又成为囚犯的经历。这是她写作的核心，也是她生命的核心。但我从未问过。我总觉得那份痛苦太深，朋友之间似乎不便触及。但又觉得不可回避，所以最近也附在台湾做访问学者，借这个机会，我们来把这个故事完成。

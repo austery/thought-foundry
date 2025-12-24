@@ -1,48 +1,47 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- FBI
+- White House
+- Pentagon
+- Medicare
+- Department of the Interior
+- National Park Service
+- Hamas
+- United Airlines
+- Disneyland
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+people:
+- Mark Kelly
+- Donald Trump
+- Linda McMahon
+- Howard Lutnik
+- Steve Wickoff
+- George W. Bush
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=v8nIqB581Cs
 speaker: New York Times Podcasts
-tags:
-  - us-politics
-  - government-oversight
-  - gaza-conflict
-  - humanitarian-aid
-  - political-intimidation
-title: 民主党议员称遭FBI调查，美国计划在加沙建设住房区
-summary: 本期新闻聚焦美国国内政治与中东地缘动态。民主党议员因呼吁美军拒绝非法命令而声称正受FBI调查，引发白宫强烈反弹。同时，报道还涵盖了特朗普政府在药品定价、过渡期捐款披露及国家公园管理方面的最新举措。国际方面，美国正积极推动在加沙建设临时住房区，以期将巴勒斯坦民众从哈马斯控制区吸引出来，但该计划面临多方质疑。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Mark Kelly
-  - Donald Trump
-  - Linda McMahon
-  - Howard Lutnik
-  - Steve Wickoff
-  - George W. Bush
-companies_orgs:
-  - FBI
-  - White House
-  - Pentagon
-  - Medicare
-  - Department of the Interior
-  - National Park Service
-  - Hamas
-  - United Airlines
-  - Disneyland
-products_models: []
-media_books:
-  - The New York Times
 status: evergreen
+summary: 本期新闻聚焦美国国内政治与中东地缘动态。民主党议员因呼吁美军拒绝非法命令而声称正受FBI调查，引发白宫强烈反弹。同时，报道还涵盖了特朗普政府在药品定价、过渡期捐款披露及国家公园管理方面的最新举措。国际方面，美国正积极推动在加沙建设临时住房区，以期将巴勒斯坦民众从哈马斯控制区吸引出来，但该计划面临多方质疑。
+tags:
+- gaza-conflict
+- government
+- llm
+- political
+title: 民主党议员称遭FBI调查，美国计划在加沙建设住房区
 ---
+
 ### 民主党议员称因呼吁拒绝非法命令而遭FBI调查
 
 “我们的法律很明确，你可以拒绝非法命令。你必须拒绝非法命令。”上周发布视频，告知美国军队可以拒绝**非法命令**（illegal orders: 违反法律或道德原则的指令）的民主党**国会议员**（members of Congress）表示，他们目前正受到**FBI**（Federal Bureau of Investigation: 美国联邦调查局，负责调查联邦犯罪并维护国家安全）的调查。

@@ -1,55 +1,54 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CIA
+- BASF
+- 自民党
+- 维新会
+- 公民党
+- 立宪民主党
+- 欧盟
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《经济学人》
+people:
+- 枫糖小猫
+- Nobita
+- OC伯伯
+- 曾博
+- Mark Zuckerberg
+- 高市早苗
+- 泽连斯基
+- 索隆
+- 丁毅
+- 蒋介石
+- 麻生太郎
+- 秦辉
+- Jeffrey Sachs
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=NeUqbNci7NU
 speaker: 北美王路飞
-tags:
-  - russia-ukraine-war
-  - japan-foreign-policy
-  - constitutional-revision
-  - eu-challenges
-  - non-proliferation
-title: 日本右翼、俄乌冲突与国际秩序：一场多方视角的深度探讨
-summary: 本期节目汇集了多位嘉宾的深刻见解，从日本政治人物高市早苗的右翼主张、俄乌战争的动态演变，到欧盟内部的结构性挑战，以及核不扩散条约的未来走向。讨论还涵盖了对“枫糖小猫”等网络现象的社会观察，以及个人在复杂国际局势下的心态转变与道义选择。节目深入剖析了权力博弈、国家利益与理想主义之间的尖锐冲突。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 枫糖小猫
-  - Nobita
-  - OC伯伯
-  - 曾博
-  - Mark Zuckerberg
-  - 高市早苗
-  - 泽连斯基
-  - 索隆
-  - 丁毅
-  - 蒋介石
-  - 麻生太郎
-  - 秦辉
-  - Jeffrey Sachs
-  - 北美王路飞
-companies_orgs:
-  - CIA
-  - BASF
-  - 自民党
-  - 维新会
-  - 公民党
-  - 立宪民主党
-  - 欧盟
-products_models: []
-media_books:
-  - 《经济学人》
 status: evergreen
+summary: 本期节目汇集了多位嘉宾的深刻见解，从日本政治人物高市早苗的右翼主张、俄乌战争的动态演变，到欧盟内部的结构性挑战，以及核不扩散条约的未来走向。讨论还涵盖了对“枫糖小猫”等网络现象的社会观察，以及个人在复杂国际局势下的心态转变与道义选择。节目深入剖析了权力博弈、国家利益与理想主义之间的尖锐冲突。
+tags:
+- challenge
+- constitutional
+- japan-foreign-policy
+- non
+- russia-ukraine-war
+title: 日本右翼、俄乌冲突与国际秩序：一场多方视角的深度探讨
 ---
+
 ### 对“枫糖小猫”争议的辩护与社会观察
 
 **大川:** 大家好，今天我想为“枫糖小猫”说几句公道话。最近我看了王路飞采访Nobita的节目，也关注到“枫糖小猫”与Nobita、OC伯伯之间的争论。首先，我想澄清的是，“枫糖小猫”并非好吃懒做。他现在正在找工作，并且已经找到了一份，边工作边养活自己，同时也在考虑申请大学院。他有一个明确的目标，是想“**二润**”（Second Run: 移民到第三国），计划前往欧洲或加拿大申请“**难民签证**”（Refugee Visa: 寻求政治庇护或难民身份的签证）。我们能给他的建议是，要么在日本找份简单的工作养活自己，要么回国“躺平”，他目前的选择有限。

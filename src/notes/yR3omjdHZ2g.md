@@ -1,30 +1,27 @@
 ---
-title: 银行存款的“秘密”：商业银行如何凭空创造货币
-summary: 本文揭示银行存款并非他人储蓄，而是银行通过发放贷款凭空创造的数字。深入探讨货币种类、银行货币创造机制及央行政策、信誉对该过程的限制与影响。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-tags:
-  - banking-system
-  - central-banks
-  - debt-crisis
-  - financial-literacy
-  - money-creation
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-07-09'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=yR3omjdHZ2g
+speaker: 一口新飯
 status: evergreen
+summary: 本文揭示银行存款并非他人储蓄，而是银行通过发放贷款凭空创造的数字。深入探讨货币种类、银行货币创造机制及央行政策、信誉对该过程的限制与影响。
+tags:
+- crisis
+- financial
+- financial-literacy
+- investment
+- system
+title: 银行存款的“秘密”：商业银行如何凭空创造货币
 ---
 
 ### 存款的来源：一个普遍的误解

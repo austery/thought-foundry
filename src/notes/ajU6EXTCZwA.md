@@ -1,30 +1,29 @@
 ---
-title: 硅谷之王的十年复仇暗战：一篇八卦如何引爆百亿博弈
-summary: 本文深入探讨了彼得·蒂尔与Gawker媒体长达十年的复仇之战。从一篇八卦报道引发的个人羞辱，到蒂尔将其升华为一场捍卫创新与个人自由的文化战争，揭示了两位看似对立却本质相似的精英，在隐私与透明度哲学冲突下，如何利用秘密、耐心与法律，展开一场不对称的权力博弈。
 area: null
 category: null
-project: []
-tags:
-  - peter-thiel
-  - gawker-media
-  - media-ethics
-  - revenge
-people:
-- peter-thiel
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-10'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- peter-thiel
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ajU6EXTCZwA
+speaker: 北美王路飞
 status: evergreen
+summary: 本文深入探讨了彼得·蒂尔与Gawker媒体长达十年的复仇之战。从一篇八卦报道引发的个人羞辱，到蒂尔将其升华为一场捍卫创新与个人自由的文化战争，揭示了两位看似对立却本质相似的精英，在隐私与透明度哲学冲突下，如何利用秘密、耐心与法律，展开一场不对称的权力博弈。
+tags:
+- gawker-media
+- media
+- peter-thiel
+- technology
+title: 硅谷之王的十年复仇暗战：一篇八卦如何引爆百亿博弈
 ---
+
 ### 引言：一场由八卦引发的百亿复仇
 
 大家好，欢迎来到我的频道。最近我对**彼得·蒂尔**（Peter Thiel: 硅谷著名风险投资家、Paypal联合创始人、Facebook早期投资人）非常感兴趣。一方面，左翼媒体常将他描绘成幕后操纵右翼**Maga**（MAGA: Make America Great Again，美国前总统特朗普的政治口号）运动的终极“大boss”，包括他曾支持**JD Vance**（J.D. Vance: 美国政治家、作家），是**萨姆·奥特曼**（Sam Altman: OpenAI联合创始人兼CEO）的导师，也投资了**埃隆·马斯克**（Elon Musk: 特斯拉、SpaceX和X平台创始人）的**SpaceX**（SpaceX: 美国太空探索技术公司）。于是，我对他的一些经历和访谈进行了深入研究。今天我将开启一个新系列，讲述这场由一篇博客引发的百亿复仇。

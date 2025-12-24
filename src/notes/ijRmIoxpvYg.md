@@ -1,55 +1,56 @@
 ---
-author: 海伦子Hellen
+area: society-systems
+category: business
+companies_orgs:
+- SpaceX
+- NASA
+- Blue Origin
+- Virgin Galactic
+- Relativity Space
+- Shift4 Payments
 date: '2024-08-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+- 《星际穿越》
+people:
+- 前泽友作
+- Jared Isaacman
+- Scott
+- Anna Menon
+- Sarah Gillis
+- Jeff Bezos
+- Elon Musk
+- Matt Damon
+products_models:
+- Starship
+- Dragon
+- Falcon 9
+- Starlink
+- Gemini 11
+- Apollo
+- Inspiration4
+project:
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=ijRmIoxpvYg
 speaker: 海伦子Hellen
-tags:
-  - space-exploration
-  - civilian-spaceflight
-  - radiation-research
-  - eva-suit-design
-  - commercial-space
-title: 北极星黎明：SpaceX商业太空探索的新里程碑与挑战
-summary: 本文深入探讨了SpaceX的北极星黎明（Polaris Dawn）任务，将其置于商业太空探索日益发展的背景下。在钱泽友座（Yusaku Maezawa）的dearMoon项目取消后，北极星黎明以其独特的科学和技术目标脱颖而出，包括首次在太空测试星链激光通讯、进行舱外活动以测试SpaceX自研宇航服，并研究范艾伦辐射带对人体的影响。任务将创造新的轨道高度记录，并面临无气闸舱太空行走等挑战，为未来月球和火星探索积累宝贵经验。文章还介绍了任务发起人贾里德·艾萨克曼（Jared Isaacman）的太空探索愿景，展现了商业航天在推动人类进步中的重要作用。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - entrepreneurship
-  - systems-thinking
-people:
-  - 前泽友作
-  - Jared Isaacman
-  - Scott
-  - Anna Menon
-  - Sarah Gillis
-  - Jeff Bezos
-  - Elon Musk
-  - Matt Damon
-companies_orgs:
-  - SpaceX
-  - NASA
-  - Blue Origin
-  - Virgin Galactic
-  - Relativity Space
-  - Shift4 Payments
-products_models:
-  - Starship
-  - Dragon
-  - Falcon 9
-  - Starlink
-  - Gemini 11
-  - Apollo
-  - Inspiration4
-media_books:
-  - X
-  - 《星际穿越》
 status: evergreen
+summary: 本文深入探讨了SpaceX的北极星黎明（Polaris Dawn）任务，将其置于商业太空探索日益发展的背景下。在钱泽友座（Yusaku Maezawa）的dearMoon项目取消后，北极星黎明以其独特的科学和技术目标脱颖而出，包括首次在太空测试星链激光通讯、进行舱外活动以测试SpaceX自研宇航服，并研究范艾伦辐射带对人体的影响。任务将创造新的轨道高度记录，并面临无气闸舱太空行走等挑战，为未来月球和火星探索积累宝贵经验。文章还介绍了任务发起人贾里德·艾萨克曼（Jared
+  Isaacman）的太空探索愿景，展现了商业航天在推动人类进步中的重要作用。
+tags:
+- commercial-space
+- design
+- research
+- space-exploration
+- technology
+title: 北极星黎明：SpaceX商业太空探索的新里程碑与挑战
 ---
+
 ### 商业太空任务的变迁：从dearMoon到北极星黎明
 
 我个人最期待的太空任务原本有两个，其中之一就是今天要深入探讨的北极星计划。另一个是前泽友作（Yusaku Maezawa）的dearMoon绕月飞行项目，但大约两个月前，前泽友作已在X（前身为Twitter）上证实dearMoon计划已取消。官方给出的理由是星舰（Starship）的研发进程过于缓慢，未能按时间表进行。该项目原本预计在2023年下半年即可抵达月球轨道，但按目前状况来看，可能还需要一两年甚至更久。前泽友作认为这打乱了他本人及其他八位同行人员的生活计划。毕竟，乘坐火箭前往太空需要一段不短的培训时间，即使星舰的自动化程度再高，宇航员也需要在外太空停留三天，至少需要具备基本的太空常识和应对紧急情况的能力。

@@ -1,33 +1,29 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs: []
 date: '2025-04-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=8VaRzHSQXbk
 speaker: 海淀拙大叔
-tags:
-  - economic-cycles
-  - monetary-policy
-  - investment-strategy
-  - asset-bubbles
-  - inflation-outlook
-title: 中国经济四大周期叠加向上：投资机遇与风险展望
-summary: 本文深入探讨了当前中国经济面临的四大周期性变化：货币周期、基金周期（库存周期）、资本市场周期和信贷周期。作者指出，目前这四大周期均已触底，并正逐步转向叠加向上的趋势。文章详细分析了资产牛市形成的三大前提——资金充裕、利率走低和投资者风险偏好提升，并结合具体经济指标，预测了未来经济复苏、繁荣乃至资产泡沫的演进路径。同时，文章强调了外资流入对形成货币大泡沫的关键作用，并提供了识别周期拐点的投资策略建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了当前中国经济面临的四大周期性变化：货币周期、基金周期（库存周期）、资本市场周期和信贷周期。作者指出，目前这四大周期均已触底，并正逐步转向叠加向上的趋势。文章详细分析了资产牛市形成的三大前提——资金充裕、利率走低和投资者风险偏好提升，并结合具体经济指标，预测了未来经济复苏、繁荣乃至资产泡沫的演进路径。同时，文章强调了外资流入对形成货币大泡沫的关键作用，并提供了识别周期拐点的投资策略建议。
+tags:
+- asset
+- economic-cycle
+- inflation-outlook
+title: 中国经济四大周期叠加向上：投资机遇与风险展望
 ---
+
 ### 投资核心：认清经济周期
 
 在投资领域，判断周期至关重要。我们在周期上升时所获得的收益，大部分会在周期下跌时回吐。因此，“一年三倍”如过江之鲫，而“三年一倍”则寥若星辰。这凸显了认清周期的重要性。

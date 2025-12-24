@@ -1,57 +1,57 @@
 ---
-author: Big Think
+area: society-systems
+category: psychology
+companies_orgs:
+- Big Think
+- Wetherspoons
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Within Reason
+- Summa Theologica
+- The God Delusion
+- The Myth of Sisyphus
+- Book of Ecclesiastes
+- Fathers and Sons
+- Tractatus Logico-Philosophicus
+- Language, Truth & Logic
+people:
+- Alex O'Connor
+- Thomas Aquinas
+- Aristotle
+- Albert Camus
+- Friedrich Nietzsche
+- Emil Cioran
+- Jean-Paul Sartre
+- Fyodor Dostoevsky
+- Leo Tolstoy
+- Ivan Turgenev
+- Ludwig Wittgenstein
+- A.J. Ayer
+- Simon Blackburn
+- Peter Geach
+- Gottlob Frege
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=aqWTlUOhowk
 speaker: Big Think
-tags:
-  - first-cause-argument
-  - problem-of-suffering
-  - nihilism
-  - emotivism
-title: 哲学家 Alex O'Connor：从第一因到虚无主义，我们如何理解存在与意义
-summary: 哲学家 Alex O'Connor 深入探讨了关于上帝存在与否的最强论证。他详细阐述了基于层级因果关系的“第一因论证”，并将其与传统的时间性因果论证区分开来，认为宇宙需要一个持续存在的根本性支撑。同时，他也指出了“恶之问题”或“苦难问题”是反对一个全善上帝存在的有力论据。此外，他还剖析了虚无主义的本质，探讨了生命意义的主观性与客观性，并最终介绍了情感主义伦理学，认为道德判断本质上是情感的表达，而非客观事实的陈述。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Alex O'Connor
-  - Thomas Aquinas
-  - Aristotle
-  - Albert Camus
-  - Friedrich Nietzsche
-  - Emil Cioran
-  - Jean-Paul Sartre
-  - Fyodor Dostoevsky
-  - Leo Tolstoy
-  - Ivan Turgenev
-  - Ludwig Wittgenstein
-  - A.J. Ayer
-  - Simon Blackburn
-  - Peter Geach
-  - Gottlob Frege
-companies_orgs:
-  - Big Think
-  - Wetherspoons
-products_models: []
-media_books:
-  - Within Reason
-  - Summa Theologica
-  - The God Delusion
-  - The Myth of Sisyphus
-  - Book of Ecclesiastes
-  - Fathers and Sons
-  - Tractatus Logico-Philosophicus
-  - Language, Truth & Logic
 status: evergreen
+summary: 哲学家 Alex O'Connor 深入探讨了关于上帝存在与否的最强论证。他详细阐述了基于层级因果关系的“第一因论证”，并将其与传统的时间性因果论证区分开来，认为宇宙需要一个持续存在的根本性支撑。同时，他也指出了“恶之问题”或“苦难问题”是反对一个全善上帝存在的有力论据。此外，他还剖析了虚无主义的本质，探讨了生命意义的主观性与客观性，并最终介绍了情感主义伦理学，认为道德判断本质上是情感的表达，而非客观事实的陈述。
+tags:
+- emotivism
+- geopolitical
+- philosophy
+- problem
+title: 哲学家 Alex O'Connor：从第一因到虚无主义，我们如何理解存在与意义
 ---
+
 认为自己是出于某种写在宇宙法则中的原因而存在，而不是一场或喜或悲的意外，这种想法确实更令人慰藉。我认为有非常充分的论据可以相信，宇宙存在某种基本原则，某个必然存在的实体，某个第一因。但我认为，犹太-基督教传统对于这个存在的描述是一个不完美的近似。
 
 <details>

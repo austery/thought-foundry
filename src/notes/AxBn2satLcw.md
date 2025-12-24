@@ -1,44 +1,42 @@
 ---
-author: Shanghao Jin
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Goldman Sachs
+- OpenAI
+- Google
+- Meta
+- Nvidia
+- Oracle
+- TikTok
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+products_models:
+- GPT
+- FSD
+- CDS
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=AxBn2satLcw
 speaker: Shanghao Jin
-tags:
-  - ai-economy
-  - market-volatility
-  - fiscal-policy
-  - monetary-policy
-  - financial-deregulation
-title: 2025年市场展望：AI非泡沫，政策真空下的投资机遇
-summary: 本文深入分析了当前市场波动，指出AI并非泡沫，而是一场由大型科技公司驱动的工业革命。讲者探讨了特朗普关税、两党纷争等因素导致的经济数据恶化和美联储政策受限，以及财政政策的真空期。尽管短期存在不确定性，但长期来看，AI的持续需求、全球财政刺激和金融去监管将是市场的主要驱动力，认为目前的市场回调是买入良机。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Donald Trump
-companies_orgs:
-  - Goldman Sachs
-  - OpenAI
-  - Google
-  - Meta
-  - Nvidia
-  - Oracle
-  - TikTok
-products_models:
-  - GPT
-  - FSD
-  - CDS
-media_books: []
 status: evergreen
+summary: 本文深入分析了当前市场波动，指出AI并非泡沫，而是一场由大型科技公司驱动的工业革命。讲者探讨了特朗普关税、两党纷争等因素导致的经济数据恶化和美联储政策受限，以及财政政策的真空期。尽管短期存在不确定性，但长期来看，AI的持续需求、全球财政刺激和金融去监管将是市场的主要驱动力，认为目前的市场回调是买入良机。
+tags:
+- economy
+- financial-deregulation
+- fiscal-policy
+- market-volatility
+title: 2025年市场展望：AI非泡沫，政策真空下的投资机遇
 ---
+
 ### 市场波动与AI泡沫之辩
 
 近期市场波动较大，特别是加密货币市场跌幅凶猛，这引发了大家对美股的担忧。此外，关于**AI**（人工智能: 模拟、延伸和扩展人类智能的理论、方法、技术及应用系统）是否存在泡沫、泡沫程度如何，以及我们当前所处的市场状态，都是大家普遍关心的问题。

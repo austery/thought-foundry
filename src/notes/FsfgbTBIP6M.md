@@ -1,49 +1,48 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Oxford Economics
+- Bloomberg
+- High Fliers Research
+- OpenAI
+- Shokz
+- Simmons & Simmons
+- Goldman Sachs
+- American Society of Employers
+- PwC
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Last Economy
+people:
+- David Sacks
+- John Burn-Murdoch
+- George Akerlof
+- Hannah Farkas
+products_models:
+- Gemini Flash
+project:
+- us-analysis
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=FsfgbTBIP6M
 speaker: Patrick Boyle
-tags:
-  - job-market-transformation
-  - credential-inflation
-  - automation-displacement
-  - generational-economic-shift
-  - structural-unemployment
-title: AI时代：职业阶梯的消亡与新一代的生存突围
-summary: “随着人工智能取代初级岗位、学历通胀加剧和经济不确定性上升，传统‘大学—稳定工作’的路径正在崩塌。本文深入剖析美国与英国毕业生就业困境的结构性成因，揭示技能转型、人口结构与组织变革如何重塑职场格局。”
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Patrick Boyle
-  - David Sacks
-  - John Burn-Murdoch
-  - George Akerlof
-  - Hannah Farkas
-companies_orgs:
-  - Oxford Economics
-  - Bloomberg
-  - High Fliers Research
-  - OpenAI
-  - Shokz
-  - Simmons & Simmons
-  - Goldman Sachs
-  - American Society of Employers
-  - PwC
-products_models:
-  - Gemini Flash
-media_books:
-  - The Last Economy
 status: evergreen
+summary: “随着人工智能取代初级岗位、学历通胀加剧和经济不确定性上升，传统‘大学—稳定工作’的路径正在崩塌。本文深入剖析美国与英国毕业生就业困境的结构性成因，揭示技能转型、人口结构与组织变革如何重塑职场格局。”
+tags:
+- automation-displacement
+- credential-inflation
+- economic
+- market
+- society
+title: AI时代：职业阶梯的消亡与新一代的生存突围
 ---
+
 ### 职业阶梯的崩塌：从“学位即门票”到“技能即生存”
 
 几十年来，全球年轻一代都相信一个清晰的承诺：只要进入大学——哪怕背负一些债务——就能获得一张通往中产阶级的入场券。这张门票意味着一份白领工作、高于非毕业生的薪资，以及最终实现房产拥有权的机会。但如今，这张承诺已被打破——昔日的“黄金门票”，不过是学生贷款上一张10%折扣券。

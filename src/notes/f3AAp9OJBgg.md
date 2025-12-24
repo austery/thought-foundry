@@ -1,52 +1,52 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Alibaba
+- Nvidia
+- 博通
+- 苹果
+- Salesforce
+- 台积电
+- 三星
+- 中芯国际
+- 英特尔
+- Netflix
+- 迪士尼
+- 华纳兄弟
+- 亚马逊
 date: '2025-02-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富的逻辑》
+people:
+- 唐石峻
+- 查理·芒格
+products_models:
+- DeepSeek
+- Qwen-1000K
+- Qwen2.5-Matrix
+project:
+- us-analysis
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=f3AAp9OJBgg
 speaker: Shijun Tang
-tags:
-  - ai-model-commoditization
-  - tech-market-volatility
-  - moat-analysis
-  - investment-cognitive-shift
-  - semiconductor-advantage
-title: DeepSeek引爆AI竞争：美股科技股震荡与护城河重构
-summary: 本视频深度剖析DeepSeek模型以极低成本挑战英伟达等AI巨头，引发美股科技板块剧烈震荡，并探讨台积电、网飞与迪士尼的护城河差异，揭示AI模型商品化如何重塑投资逻辑与行业竞争格局。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - 唐石峻
-  - 查理·芒格
-companies_orgs:
-  - 阿里巴巴
-  - 英伟达
-  - 博通
-  - 苹果
-  - Salesforce
-  - 台积电
-  - 三星
-  - 中芯国际
-  - 英特尔
-  - Netflix
-  - 迪士尼
-  - 华纳兄弟
-  - 亚马逊
-products_models:
-  - DeepSeek
-  - Qwen-1000K
-  - Qwen2.5-Matrix
-media_books:
-  - 《财富的逻辑》
 status: evergreen
+summary: 本视频深度剖析DeepSeek模型以极低成本挑战英伟达等AI巨头，引发美股科技板块剧烈震荡，并探讨台积电、网飞与迪士尼的护城河差异，揭示AI模型商品化如何重塑投资逻辑与行业竞争格局。
+tags:
+- ai-model-commoditization
+- investment
+- moat-analysis
+- semiconductor-advantage
+- tech-market-volatility
+title: DeepSeek引爆AI竞争：美股科技股震荡与护城河重构
 ---
+
 ### AI模型商品化引爆科技股震荡
 
 DeepSeek前几天直接干翻了整个美股科技板块。阿里在大年三十这天推出“通义千问1000K”，也就是Qwen2.5-Matrix，这一举动在市场引发强烈震荡。美股中AI相关的大标的——英伟达、博通等——创下单日暴跌纪录。其中，英伟达在单个交易日内股价暴跌17%，市值蒸发高达558亿美元。你可能对这个数字没有概念，我来举个例子：阿里近期虽经历暴涨，但即便在当前高点，其市值也不过约3800亿美元。也就是说，英伟达一天之内跌掉的市值，相当于四个阿里。

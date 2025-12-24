@@ -1,30 +1,28 @@
 ---
-title: '一个得罪保险销售的视频: 投资与保险的底层逻辑与购买原则'
-summary: 本文深入探讨了投资与保险的关系，揭示人类追求确定性的本能如何影响决策，并详细分类了四种保险产品，提供了明智的购买原则。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-tags:
-  - cognitive-bias
-  - decision-making
-  - financial-planning
-  - insurance
-  - investment
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-12-21'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=-3N3PCD2HeA
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入探讨了投资与保险的关系，揭示人类追求确定性的本能如何影响决策，并详细分类了四种保险产品，提供了明智的购买原则。
+tags:
+- cognitive-bias
+- decision-making
+- financial-planning
+- insurance
+title: '一个得罪保险销售的视频: 投资与保险的底层逻辑与购买原则'
 ---
 
 ### 投资与保险关系的困惑

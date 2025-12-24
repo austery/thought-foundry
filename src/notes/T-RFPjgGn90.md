@@ -1,49 +1,48 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-08-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《三体》
+- 《The Book of Why》
+- 《为什么》
+- 《纯粹理性批判》
+- 《形而上学》
+people:
+- 亚里士多德
+- 大卫·休谟
+- 伊曼努尔·康德
+- 大卫·刘易斯
+- 朱迪亚·珀尔
+- 伽利略
+- 牛顿
+- 拉普拉斯
+- 罗素
+- 刘慈欣
+- 约翰·洛克
+- 卡尔·皮尔逊
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=T-RFPjgGn90
 speaker: 大问题Dialectic
-tags:
-  - causal-inference
-  - philosophy-of-science
-  - epistemology
-  - counterfactual-thinking
-title: 因果关系的本质：从亚里士多德到人工智能的五次思想交锋
-summary: 因果关系是客观规律还是主观幻觉？本文深入探讨了这一古老的哲学难题，系统梳理了从亚里士多德的“四因说”、休谟的心理习惯论，到康德的先验范畴，再到刘易斯的反事实依赖和朱迪亚·珀尔的干预模型。通过五位思想巨匠的视角，揭示我们理解“为什么”的思维演变，以及它如何影响从科学到人工智能的未来。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - ai-impact-analysis
-people:
-  - 亚里士多德
-  - 大卫·休谟
-  - 伊曼努尔·康德
-  - 大卫·刘易斯
-  - 朱迪亚·珀尔
-  - 伽利略
-  - 牛顿
-  - 拉普拉斯
-  - 罗素
-  - 刘慈欣
-  - 约翰·洛克
-  - 卡尔·皮尔逊
-companies_orgs: []
-products_models: []
-media_books:
-  - 《三体》
-  - 《The Book of Why》
-  - 《为什么》
-  - 《纯粹理性批判》
-  - 《形而上学》
 status: evergreen
+summary: 因果关系是客观规律还是主观幻觉？本文深入探讨了这一古老的哲学难题，系统梳理了从亚里士多德的“四因说”、休谟的心理习惯论，到康德的先验范畴，再到刘易斯的反事实依赖和朱迪亚·珀尔的干预模型。通过五位思想巨匠的视角，揭示我们理解“为什么”的思维演变，以及它如何影响从科学到人工智能的未来。
+tags:
+- llm
+- philosophy
+- thinking
+title: 因果关系的本质：从亚里士多德到人工智能的五次思想交锋
 ---
+
 ### 引言：因果关系，一个动摇科学根基的哲学问题
 
 欢迎收看大问题节目。本期要探讨的大问题是：因果关系本身是什么？所有科学研究都建立在因果关系的基础之上，但这个问题至今仍是一个争论不休的哲学问题。

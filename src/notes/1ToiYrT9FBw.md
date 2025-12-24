@@ -1,53 +1,52 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: general
+companies_orgs:
+- 耶稣会
+- 天主教会
 date: '2023-12-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《沉思录》
+- 《论灵魂的激情》
+- 《圣经》
+- 《黑客帝国》
+people:
+- René Descartes
+- Princess Elizabeth of Bohemia
+- Augustine
+- Immanuel Kant
+- Plato
+- Aristotle
+- Jesus
+- Galileo Galilei
+- Isaac Newton
+- Gottfried Wilhelm Leibniz
+- Gilbert Ryle
+- Socrates
+- Friedrich Nietzsche
+- Sigmund Freud
+- Michel Foucault
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=1ToiYrT9FBw
 speaker: 超級歪 SuperY
-tags:
-  - cartesian-philosophy
-  - mind-body-dualism
-  - proof-of-god
-  - scientific-revolution
-  - enlightenment-era
-title: 笛卡儿《沉思录》深度解析：心物二元论、上帝存在与近代科学的起源
-summary: 本文深入解析笛卡儿《沉思录》的后三篇沉思，探讨了上帝的完美性与人类错误、上帝存在论证的几何学基础，以及心物二元论。文章详细阐述了笛卡儿如何通过自由意志解释人类错误，并用数学真理的可靠性来论证上帝的存在。同时，也揭示了笛卡儿在心物互动问题上遭遇波西米亚伊丽莎白公主的挑战，以及其哲学对近代科学、理性时代和后续哲学思潮的深远影响。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - René Descartes
-  - Princess Elizabeth of Bohemia
-  - Augustine
-  - Immanuel Kant
-  - Plato
-  - Aristotle
-  - Jesus
-  - Galileo Galilei
-  - Isaac Newton
-  - Gottfried Wilhelm Leibniz
-  - Gilbert Ryle
-  - Socrates
-  - Friedrich Nietzsche
-  - Sigmund Freud
-  - Michel Foucault
-companies_orgs:
-  - 耶稣会
-  - 天主教会
-products_models: []
-media_books:
-  - 《沉思录》
-  - 《论灵魂的激情》
-  - 《圣经》
-  - 《黑客帝国》
 status: evergreen
+summary: 本文深入解析笛卡儿《沉思录》的后三篇沉思，探讨了上帝的完美性与人类错误、上帝存在论证的几何学基础，以及心物二元论。文章详细阐述了笛卡儿如何通过自由意志解释人类错误，并用数学真理的可靠性来论证上帝的存在。同时，也揭示了笛卡儿在心物互动问题上遭遇波西米亚伊丽莎白公主的挑战，以及其哲学对近代科学、理性时代和后续哲学思潮的深远影响。
+tags:
+- health
+- philosophy
+- scientific
+- society
+title: 笛卡儿《沉思录》深度解析：心物二元论、上帝存在与近代科学的起源
 ---
+
 ### 引言：笛卡儿《沉思录》的未解之谜
 
 哲学令人心旷神怡，每一集都将带你认识一位哲学思想家。在上一期视频中，我们介绍了笛卡儿《沉思录》的前三篇沉思。本集我们将继续探索后三篇沉思，处理上一集遗留的问题：如果上帝存在，他为何创造会犯错误的人类？上帝存在的证明是否存在循环论证，是否有更好的证明？“我思”这一精神实体与我的身体之间究竟是什么关系？

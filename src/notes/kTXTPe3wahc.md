@@ -1,44 +1,44 @@
 ---
-author: Veritasium
-date: '2020-03-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=kTXTPe3wahc
-speaker: Veritasium
-tags:
-  - veritasium
-  - quantum-mechanics
-  - many-worlds-interpretation
-  - schrodingers-cat
-  - wave-function-collapse
-  - superposition
-title: 平行世界可能存在：量子力学多世界诠释的逻辑与一致性
-summary: 本视频深入探讨了量子力学中的一个核心问题——测量问题，即波函数平滑演化与粒子定域测量的矛盾。通过回顾经典力学、量子力学的基础，以及薛定谔猫思想实验，视频引出了多世界诠释（Many-Worlds Interpretation）。该诠释摒弃了波函数坍缩的假设，认为每次测量都导致宇宙波函数分支，创造出无数个平行世界。视频还邀请了加州理工学院的肖恩·卡罗尔教授，讨论了多世界诠释如何解决能量守恒、分支频率等常见疑问，并强调其在数学上的简洁与优雅。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Newton
-  - Schrödinger
-  - De Broglie
-  - Max Born
-  - Einstein
-  - Hugh Everett
-  - Sean Carroll
+category: science
 companies_orgs:
-  - Caltech
-products_models:
-  - Norton 360
-  - Norton 360 Deluxe
+- Caltech
+date: '2020-03-06'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Something Deeply Hidden
+- Something Deeply Hidden
+people:
+- Newton
+- Schrödinger
+- De Broglie
+- Max Born
+- Einstein
+- Hugh Everett
+- Sean Carroll
+products_models:
+- Norton 360
+- Norton 360 Deluxe
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=kTXTPe3wahc
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了量子力学中的一个核心问题——测量问题，即波函数平滑演化与粒子定域测量的矛盾。通过回顾经典力学、量子力学的基础，以及薛定谔猫思想实验，视频引出了多世界诠释（Many-Worlds
+  Interpretation）。该诠释摒弃了波函数坍缩的假设，认为每次测量都导致宇宙波函数分支，创造出无数个平行世界。视频还邀请了加州理工学院的肖恩·卡罗尔教授，讨论了多世界诠释如何解决能量守恒、分支频率等常见疑问，并强调其在数学上的简洁与优雅。
+tags:
+- canada
+- quantum-mechanic
+- schrodingers-cat
+- science
+- superposition
+title: 平行世界可能存在：量子力学多世界诠释的逻辑与一致性
 ---
+
 ### 经典与量子：测量之谜
 
 本视频的一部分由诺顿360（Norton 360）赞助。

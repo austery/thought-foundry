@@ -1,39 +1,38 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《原始思维》
+- 《文化大革命与巫术文化》
+people:
+- Wang Yi
+- Levibrühl
+- Mao Zedong
+- 林副主席
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=uS-Jd9V17sY
 speaker: Anthony看世界
-tags:
-  - witch-hunting-mentality
-  - cultural-revolution
-  - primitive-thinking
-  - chinese-nationalism
-  - collective-paranoia
-  - exorcism-ritual
-title: 文革巫术思维的轮回：中国民族主义的深层心理根源
-summary: 本文深入探讨了中国社会中普遍存在的“巫术狩猎心态”，追溯其在文化大革命时期的极端表现，并分析其与原始思维的深层联系。文章指出，这种心态导致对绝对纯粹的偏执追求和敌人无限扩大化，并以当代中国民族主义中的反日情绪和“抓间谍”现象为例，揭示了其非理性本质。通过对比德国对纳粹符号的理性限制，本文强调了中国这种集体“驱邪仪式”的特点，并探讨了主体性缺失如何导致迷信的持续存在。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Wang Yi
-  - Levibrühl
-  - Mao Zedong
-  - 林副主席
-companies_orgs: []
-products_models: []
-media_books:
-  - 《原始思维》
-  - 《文化大革命与巫术文化》
 status: evergreen
+summary: 本文深入探讨了中国社会中普遍存在的“巫术狩猎心态”，追溯其在文化大革命时期的极端表现，并分析其与原始思维的深层联系。文章指出，这种心态导致对绝对纯粹的偏执追求和敌人无限扩大化，并以当代中国民族主义中的反日情绪和“抓间谍”现象为例，揭示了其非理性本质。通过对比德国对纳粹符号的理性限制，本文强调了中国这种集体“驱邪仪式”的特点，并探讨了主体性缺失如何导致迷信的持续存在。
+tags:
+- chinese-nationalism
+- cultural-revolution
+- exorcism-ritual
+- society
+- technology
+- thinking
+title: 文革巫术思维的轮回：中国民族主义的深层心理根源
 ---
 
 ### 巫术狩猎心态的蔓延与深层根源

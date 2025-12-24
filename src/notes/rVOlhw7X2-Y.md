@@ -1,54 +1,54 @@
 ---
-author: 一口新飯
+area: personal-systems
+category: finance
+companies_orgs:
+- Interactive Brokers
+- NVIDIA
+- AMD
+- Oracle
+- Lemonade
+- Google
+- Tesla
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《绝命毒师》
+- 《No Half Measure》
+- 《The Wealth Ladder》
+- 《Just Keep Buying》
+people:
+- Elon Musk
+- Mike
+- Warren Buffett
+- 李嘉诚
+products_models:
+- ChatGPT
+- FSD V12
+- FSD V13
+- FSD V14
+- Optimus
+- Robotaxi
+- 标普五百指数基金
+project:
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=rVOlhw7X2-Y
 speaker: 一口新飯
-tags:
-  - investment-philosophy
-  - long-term-investing
-  - wealth-ladder
-  - diversification-vs-concentration
-  - personal-investment
-title: 为什么我不寻找下一个特斯拉：旧路无法带你抵达新远方
-summary: 本文深入探讨了作者为何不追逐下一个“特斯拉”或热门股票的投资哲学。核心观点包括：投资不应“做一半”，需在集中与分散之间做出明确选择；追逐热点易养成短期交易的坏习惯；财富增长需跨越不同阶梯，不能墨守成规；以及特斯拉本身仍具巨大潜力。文章强调，真正的财富增长往往源于对自身事业的投资，而非盲目模仿他人或追逐市场热点。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: personal-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Elon Musk
-  - Mike
-  - Warren Buffett
-  - 李嘉诚
-companies_orgs:
-  - Interactive Brokers
-  - NVIDIA
-  - AMD
-  - Oracle
-  - Lemonade
-  - Google
-  - Tesla
-products_models:
-  - ChatGPT
-  - FSD V12
-  - FSD V13
-  - FSD V14
-  - Optimus
-  - Robotaxi
-  - 标普五百指数基金
-media_books:
-  - 《绝命毒师》
-  - 《No Half Measure》
-  - 《The Wealth Ladder》
-  - 《Just Keep Buying》
 status: evergreen
+summary: 本文深入探讨了作者为何不追逐下一个“特斯拉”或热门股票的投资哲学。核心观点包括：投资不应“做一半”，需在集中与分散之间做出明确选择；追逐热点易养成短期交易的坏习惯；财富增长需跨越不同阶梯，不能墨守成规；以及特斯拉本身仍具巨大潜力。文章强调，真正的财富增长往往源于对自身事业的投资，而非盲目模仿他人或追逐市场热点。
+tags:
+- diversification-vs-concentration
+- investment
+- investment-philosophy
+- long-term-investing
+- wealth
+title: 为什么我不寻找下一个特斯拉：旧路无法带你抵达新远方
 ---
+
 ### 投资哲学：为何不追逐下一个“特斯拉”
 
 我们好久没有聊过投资了，今天就跟大家聊聊天。很多熟悉我的朋友都知道，我是一名**特斯拉**（Tesla: 一家电动汽车、人工智能和机器人公司）的长期投资者，从2018年底至今一直在持有，这是我人生中最成功的一笔投资。因此，很多老观众都问我，为什么不试图去寻找下一个特斯拉？例如，经常有人问我，为什么不去投资**英伟达**（NVIDIA: 一家全球领先的图形处理器和人工智能芯片公司）？看着最近**超微半导体**（AMD: 一家全球领先的半导体公司）、**甲骨文**（Oracle: 一家全球领先的企业级软件公司）这些公司疯涨，包括我的一位好朋友投资的**Lemonade**（一家利用人工智能提供保险服务的公司）也在疯狂地增长。很多人都会好奇，为什么会错过这些显而易见的投资机会，不去投资这些热门的股票呢？所以，今天我就想借这个视频来简单分享一下，我为什么不试图去寻找下一个特斯拉，或者说我为什么不去追求投资那些所谓的热门股。我主要会讲四个原因，其中我还会给大家推荐一本书。

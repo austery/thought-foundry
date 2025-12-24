@@ -1,43 +1,44 @@
 ---
-author: EO
+area: tech-insights
+category: business
+companies_orgs:
+- Further AI
+- IIT Bombay
+- Microsoft
+- Y Combinator
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Half Monk, Half Machine
+people:
+- Aman Gour
+- Sashank
+- Michael Seibel
+- Tom Bloomfield
+products_models:
+- Microsoft Community Training
+- TurboHire
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=cweJsYgLRRc
 speaker: EO
-tags:
-  - ai-in-insurance
-  - startup-strategy
-  - vertical-saas
-  - first-principles
-  - entrepreneurial-journey
-title: 从零背景到2500万美元：一位移民如何用AI重塑保险业
-summary: 本文记录了Aman Gour从印度小镇到创立AI保险科技公司Further AI的创业历程。他分享了在IIT的学习、微软的经历以及首次创业的挑战。文章重点阐述了Further AI如何通过“垂直化”战略，利用AI解决保险业的痛点，并强调了第一性原理思维、以客户为中心的销售策略以及拥抱不适的个人哲学。Further AI已完成A轮融资并实现数百万美元营收，旨在成为保险AI领域的领导者。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Aman Gour
-  - Sashank
-  - Michael Seibel
-  - Tom Bloomfield
-companies_orgs:
-  - Further AI
-  - IIT Bombay
-  - Microsoft
-  - Y Combinator
-products_models:
-  - Microsoft Community Training
-  - TurboHire
-media_books:
-  - Half Monk, Half Machine
 status: evergreen
+summary: 本文记录了Aman Gour从印度小镇到创立AI保险科技公司Further AI的创业历程。他分享了在IIT的学习、微软的经历以及首次创业的挑战。文章重点阐述了Further
+  AI如何通过“垂直化”战略，利用AI解决保险业的痛点，并强调了第一性原理思维、以客户为中心的销售策略以及拥抱不适的个人哲学。Further AI已完成A轮融资并实现数百万美元营收，旨在成为保险AI领域的领导者。
+tags:
+- entrepreneurial-journey
+- llm
+- principle
+- strategy
+- vertical-saa
+title: 从零背景到2500万美元：一位移民如何用AI重塑保险业
 ---
+
 ### 早期经历与创业萌芽
 
 我来自印度中部的一个小镇。

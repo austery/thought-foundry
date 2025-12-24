@@ -1,49 +1,46 @@
 ---
-author: Veritasium
-date: '2025-04-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=lcjdwSY2AzM
-speaker: Veritasium
-tags:
-  - veritasium
-  - energy-conservation
-  - noethers-theorem
-  - symmetry
-  - general-relativity
-  - expanding-universe
-title: 物理学中最大的误解：诺特定理如何揭示能量守恒的真相
-summary: 本文深入探讨了物理学中一个长期存在的误解：能量守恒定律并非在所有情况下都成立。我们将追溯爱因斯坦在广义相对论中遇到的能量守恒难题，以及数学家埃米·诺特如何通过其开创性的定理解决了这一困境。诺特定理揭示了守恒定律与宇宙对称性之间的深刻联系，并解释了为何在膨胀的宇宙中，能量（以我们传统理解的方式）实际上并不守恒。文章还探讨了诺特对现代物理学的深远影响及其个人经历。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Emmy Noether
-  - Albert Einstein
-  - David Hilbert
-  - Euler
-  - Lagrange
+category: science
 companies_orgs:
-  - University of Gottingen
-  - University of Erlangen
-  - Erlangen Academic Senate
-  - Bryn Mawr
-  - KiwiCo
+- University of Gottingen
+- University of Erlangen
+- Erlangen Academic Senate
+- Bryn Mawr
+- KiwiCo
+date: '2025-04-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Emmy Noether
+- Albert Einstein
+- David Hilbert
+- Euler
+- Lagrange
 products_models:
-  - General Theory of Relativity
-  - Special Theory of Relativity
-  - Bianchi identities
-  - Higgs boson
-  - quarks
-  - Rapid-Fire Disc Launcher crate
-media_books: []
+- General Theory of Relativity
+- Special Theory of Relativity
+- Bianchi identities
+- Higgs boson
+- quarks
+- Rapid-Fire Disc Launcher crate
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=lcjdwSY2AzM
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了物理学中一个长期存在的误解：能量守恒定律并非在所有情况下都成立。我们将追溯爱因斯坦在广义相对论中遇到的能量守恒难题，以及数学家埃米·诺特如何通过其开创性的定理解决了这一困境。诺特定理揭示了守恒定律与宇宙对称性之间的深刻联系，并解释了为何在膨胀的宇宙中，能量（以我们传统理解的方式）实际上并不守恒。文章还探讨了诺特对现代物理学的深远影响及其个人经历。
+tags:
+- energy
+- general-relativity
+- science
+- symmetry
+title: 物理学中最大的误解：诺特定理如何揭示能量守恒的真相
 ---
+
 ### 能量守恒的悖论：太空中的一块石头
 
 想象一下，你是一名宇航员，在深空中漂浮，然后你尽力扔出一块石头。你可能会认为这块石头会以恒定的速度沿直线继续飞行，这正是**牛顿第一定律**（Newton's First Law: 描述物体在不受力或所受合力为零时运动状态的定律）。然而，实际情况是，它最终会减速并停止。那么，这究竟是为什么？这块石头的所有能量都去哪儿了呢？

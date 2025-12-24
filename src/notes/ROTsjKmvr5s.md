@@ -1,31 +1,29 @@
 ---
-title: 为什么你搞不定“钱的问题”？《金钱成熟的七个阶段》揭示你的底层金钱故事
-summary: 本视频深入探讨《金钱成熟的七个阶段》，揭示金钱问题源于童年形成的底层金钱故事。通过理解“纯洁”与“痛苦”阶段，帮助我们认识并改变固有的金钱信念。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - personal-growth-lab
-tags:
-  - childhood-beliefs
-  - financial-literacy
-  - money-psychology
-  - personal-finance
-people:
-  - george-kinder
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-11-13'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- george-kinder
+products_models: []
+project:
+- investment-strategy
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=ROTsjKmvr5s
+speaker: 一口新飯
 status: evergreen
+summary: 本视频深入探讨《金钱成熟的七个阶段》，揭示金钱问题源于童年形成的底层金钱故事。通过理解“纯洁”与“痛苦”阶段，帮助我们认识并改变固有的金钱信念。
+tags:
+- financial-literacy
+- life
+- personal-finance
+- psychology
+title: 为什么你搞不定“钱的问题”？《金钱成熟的七个阶段》揭示你的底层金钱故事
 ---
 
 ### 金钱问题的深层根源

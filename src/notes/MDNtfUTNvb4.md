@@ -8,14 +8,12 @@ project:
 - entrepreneurship
 tags:
 - ai-agent
-- ai-for-business
+- business
 - entrepreneurship
-- international-trade
 - sme
-people: []
+- trade
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-22
 author: Lei
 speaker: 硅谷101
@@ -27,6 +25,7 @@ series: null
 source: https://www.youtube.com/watch?v=MDNtfUTNvb4
 status: evergreen
 ---
+
 ## 引言：硅谷是否活在AI泡沫中？
 
 硅谷真的在AI泡沫当中自嗨吗？经常看到有观众给我们留言说，AI就是硅谷技术圈的自嗨，你们生活在自己的bubble（泡沫）中，AI根本没有改变普通人的生活。

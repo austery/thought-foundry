@@ -1,39 +1,40 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 公民联合
+- 联邦选举委员会
 date: '2025-08-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 希拉里大电影
+people:
+- 普莱希·哈里森
+- 保罗·舒梅克
+- 巴拉克·奥巴马
+- 希拉里·克林顿
+products_models: []
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=kDtRaYn8t6Y
 speaker: 北美王路飞
-tags:
-  - political-financing
-  - us-supreme-court
-  - citizens-united
-  - super-pacs
-  - democratic-erosion
-title: 金钱与言论：公民联合案如何重塑美国政治
-summary: 本文深入探讨了金钱在美国政治中的巨大影响力，从理想化的“一人一票”民主愿景，揭示了“金钱即言论”这一理念如何通过2010年“公民联合诉联邦选举委员会案”的最高法院裁决，彻底改变了美国政治生态。文章详细阐述了超级政治行动委员会（Super PAC）的崛起，以及无限政治献金如何将选举变为富人的“拍卖会”，加剧了政治极化和贫富差距，最终侵蚀了民主的根基。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - 普莱希·哈里森
-  - 保罗·舒梅克
-  - 巴拉克·奥巴马
-  - 希拉里·克林顿
-companies_orgs:
-  - 公民联合
-  - 联邦选举委员会
-products_models: []
-media_books:
-  - 希拉里大电影
 status: evergreen
+summary: 本文深入探讨了金钱在美国政治中的巨大影响力，从理想化的“一人一票”民主愿景，揭示了“金钱即言论”这一理念如何通过2010年“公民联合诉联邦选举委员会案”的最高法院裁决，彻底改变了美国政治生态。文章详细阐述了超级政治行动委员会（Super
+  PAC）的崛起，以及无限政治献金如何将选举变为富人的“拍卖会”，加剧了政治极化和贫富差距，最终侵蚀了民主的根基。
+tags:
+- citizens-united
+- democratic
+- geopolitical
+- political
+- super-pac
+title: 金钱与言论：公民联合案如何重塑美国政治
 ---
+
 ### 美国民主的理想与现实：金钱的隐形之手
 
 今天我们将深入探讨一个核心议题：金钱是如何操纵美国政治游戏的。在来到美国之前，许多人对自由民主充满向往，羡慕美国作为民主灯塔，宣扬人人平等、“一人一票”，每个人的声音都与华尔街大佬一样重要。这听起来特别美好，然而，在美国生活十几年后，我们可能会发现这一切可能都只是一个精心包装的童话故事。

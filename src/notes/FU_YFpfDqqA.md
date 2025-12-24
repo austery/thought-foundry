@@ -1,51 +1,50 @@
 ---
-author: Veritasium
-date: '2023-05-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FU_YFpfDqqA
-speaker: Veritasium
-tags:
-  - veritasium
-  - thermionic-emission
-  - vacuum-tubes
-  - boolean-algebra
-  - digital-computers
-  - electronic-switches
-title: 灯泡如何成为早期计算机的基石
-summary: 本文追溯了电子技术从爱迪生灯泡到早期数字计算机的发展历程。从热电子发射、弗莱明二极管到李·德·福雷斯特三极管，这些技术不仅推动了无线电和长途电话的进步，更通过布尔代数与继电器、真空管的结合，奠定了现代计算的基础，揭示了从机械开关到电子开关的演变，以及早期计算机的巨大挑战和突破。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Thomas Edison
-  - John Ambrose Fleming
-  - Lee de Forest
-  - Claude Shannon
-  - George Boole
-  - George Stibitz
-  - Derek
-  - David
+category: technology
 companies_orgs:
-  - Bell Labs
-  - US military
-  - National Advisory Committee for Astronautics
-  - NACA
-  - NASA
-  - Los Alamos
-products_models:
-  - Model K
-  - Model I
-  - ENIAC
+- Bell Labs
+- US military
+- National Advisory Committee for Astronautics
+- NACA
+- NASA
+- Los Alamos
+date: '2023-05-13'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - brilliant.org
+- brilliant.org
+people:
+- Thomas Edison
+- John Ambrose Fleming
+- Lee de Forest
+- Claude Shannon
+- George Boole
+- George Stibitz
+- Derek
+- David
+products_models:
+- Model K
+- Model I
+- ENIAC
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=FU_YFpfDqqA
+speaker: veritasium
 status: evergreen
+summary: 本文追溯了电子技术从爱迪生灯泡到早期数字计算机的发展历程。从热电子发射、弗莱明二极管到李·德·福雷斯特三极管，这些技术不仅推动了无线电和长途电话的进步，更通过布尔代数与继电器、真空管的结合，奠定了现代计算的基础，揭示了从机械开关到电子开关的演变，以及早期计算机的巨大挑战和突破。
+tags:
+- boolean-algebra
+- digital
+- electronic-switch
+- environment
+- vacuum-tube
+title: 灯泡如何成为早期计算机的基石
 ---
+
 ### 爱迪生效应与热电子发射
 
 现代电子时代的开端与灯泡息息相关，但其方式可能与你想象的不同。早期的灯泡由一个碳灯丝组成，密封在一个内部真空的玻璃球中。当灯丝两端施加电势差时，电流流过灯丝，将其加热到超过2000开尔文，温度高到足以使其发光。如果灯泡内有大量氧气，灯丝会立即烧毁，这就是需要真空的原因。

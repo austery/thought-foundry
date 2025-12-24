@@ -1,50 +1,49 @@
 ---
-author: 知行小酒馆
+area: society-systems
+category: general
+companies_orgs:
+- 有知有行
+- Polymarket
+- 宜家
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《等待戈多》
+people:
+- 雨白
+- 14 39
+- 拿铁
+- 阿法
+- 曼曼
+- 阿修
+- 星星
+- 周一
+- 陆小亚
+products_models:
+- 电热锅
+- 酸汤火锅底料
+- 贝贝南瓜
+- 电动车
+project:
+- personal-growth-lab
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=be0F8NYEHvI
 speaker: 知行小酒馆
-tags:
-  - personal-worth
-  - everyday-happiness
-  - financial-autonomy
-  - emotional-recovery
-  - intergenerational-care
-title: 2025年，我花得最幸福的一笔钱：五位听友的真实生活回响
-summary: 通过五位普通人的故事，探讨幸福感如何在日常消费中悄然生长——从一双鞋、一间房、一个鞋拔子，到为父母买养老保险与一场音乐节门票。幸福不是昂贵的消费，而是对生活的一次温柔回应。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 雨白
-  - 14 39
-  - 拿铁
-  - 阿法
-  - 曼曼
-  - 阿修
-  - 星星
-  - 周一
-  - 陆小亚
-companies_orgs:
-  - 有知有行
-  - Polymarket
-  - 宜家
-products_models:
-  - 电热锅
-  - 酸汤火锅底料
-  - 贝贝南瓜
-  - 电动车
-media_books:
-  - 《等待戈多》
 status: evergreen
+summary: 通过五位普通人的故事，探讨幸福感如何在日常消费中悄然生长——从一双鞋、一间房、一个鞋拔子，到为父母买养老保险与一场音乐节门票。幸福不是昂贵的消费，而是对生活的一次温柔回应。
+tags:
+- care
+- emotional
+- financial
+- personal
+title: 2025年，我花得最幸福的一笔钱：五位听友的真实生活回响
 ---
+
 ### 一双鞋，四年的等待：当消费成为对自己的确认
 
 “14 39”这个名字不是编号，而是一双鞋的标价——他花了四年时间，终于在2025年决定买下它。这不是一次冲动的购物，而是一场漫长的自我对话。

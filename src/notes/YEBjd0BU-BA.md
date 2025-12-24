@@ -1,44 +1,44 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 恒大
+- 国务院
+- 中国共产党
 date: '2025-08-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大富翁》
+people:
+- 张内咸
+- 马云
+- 马化腾
+- 许家印
+- 邓丽君
+products_models:
+- 抖音
+- 快手
+- 任天堂红白机
+project:
+- china-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=YEBjd0BU-BA
 speaker: 張内咸
-tags:
-  - chinese-society
-  - cultural-observations
-  - economic-realities
-  - generational-divide
-  - social-commentary
-title: 中国社会观察：从内容分级到经济现实的复杂图景
-summary: 本期节目深入探讨了中国社会的多重面向，从缺乏内容分级制度对儿童成长环境的影响，到职场中的“摸鱼”文化和独特的“蹲文化”。主持人通过个人经历，剖析了中国南北方在商业思维和生活习惯上的差异，并以母亲的购房经历和一次荒诞的“商学院要饭”事件，展现了中国经济复杂性背后的社会与文化逻辑，强调了简单结论的不可行性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-people:
-  - 张内咸
-  - 马云
-  - 马化腾
-  - 许家印
-  - 邓丽君
-companies_orgs:
-  - 恒大
-  - 国务院
-  - 中国共产党
-products_models:
-  - 抖音
-  - 快手
-  - 任天堂红白机
-media_books:
-  - 《大富翁》
 status: evergreen
+summary: 本期节目深入探讨了中国社会的多重面向，从缺乏内容分级制度对儿童成长环境的影响，到职场中的“摸鱼”文化和独特的“蹲文化”。主持人通过个人经历，剖析了中国南北方在商业思维和生活习惯上的差异，并以母亲的购房经历和一次荒诞的“商学院要饭”事件，展现了中国经济复杂性背后的社会与文化逻辑，强调了简单结论的不可行性。
+tags:
+- chinese
+- cultural
+- economic-reality
+- health
+- social-commentary
+title: 中国社会观察：从内容分级到经济现实的复杂图景
 ---
+
 ### 开篇致歉与内容警示
 
 大家好，我是张内咸，又见面了。首先要对一部分观众表达歉意。上周的节目中，我做了一个讨论中国电影**分级制度**（Content Rating System: 对影视内容进行年龄限制和分类的制度）的专题。由于中国没有通过内容分级保护青少年的概念，而且是从上到下压根就没有这个意识，所以我们会在墙内的电影、电视、网络和手机上，看到各种各样令人无法直视的大尺度内容。这些内容连成年人看了都会感觉非常不适，何况是小朋友呢？

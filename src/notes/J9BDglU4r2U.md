@@ -1,47 +1,47 @@
 ---
-author: 郭里有范
+area: society-systems
+category: geopolitics
+companies_orgs:
+- ASEAN
+- G7
+- Mitsubishi Shipbuilding
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《标准世界地图集》
+people:
+- Donald Trump
+- Ferdinand Marcos Jr.
+- Sanae Takaichi
+- Sukarno
+- Aung San
+- Hiroo Okazaki
+- Shinzo Abe
+- Kim Jong Un
+- Barack Obama
+- Park Geun-hye
+products_models: []
+project:
+- geopolitics-watch
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=J9BDglU4r2U
 speaker: 郭里有范
-tags:
-  - japan-remilitarization
-  - south-china-sea-dispute
-  - collective-self-defense
-  - indo-pacific-strategy
-  - historical-reconciliation
-title: 日本为何死盯南海？解析其军事正常化与地区领导权战略
-summary: 本文深入分析了日本积极介入南海问题的深层动机，超越了传统的中美博弈视角。文章首先探讨了日本如何通过历史、政治和经济手段，在二战后修复与东南亚国家的关系，甚至从“侵略者”转变为“保护者”。随后，文章揭示了日本介入南海的真正目的并非单纯保护航道，而是借此实现“国家正常化”，即摆脱战败国标签，重建军事大国地位，并最终争取联合国安理会常任理事国席位。文章强调，2026年将是南海局势的关键节点，日本的角色将日益凸显，成为影响地区格局的重要变量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - historical-insights
-people:
-  - Donald Trump
-  - Ferdinand Marcos Jr.
-  - Sanae Takaichi
-  - Sukarno
-  - Aung San
-  - Hiroo Okazaki
-  - Shinzo Abe
-  - Kim Jong Un
-  - Barack Obama
-  - Park Geun-hye
-companies_orgs:
-  - ASEAN
-  - G7
-  - Mitsubishi Shipbuilding
-products_models: []
-media_books:
-  - 《标准世界地图集》
 status: evergreen
+summary: 本文深入分析了日本积极介入南海问题的深层动机，超越了传统的中美博弈视角。文章首先探讨了日本如何通过历史、政治和经济手段，在二战后修复与东南亚国家的关系，甚至从“侵略者”转变为“保护者”。随后，文章揭示了日本介入南海的真正目的并非单纯保护航道，而是借此实现“国家正常化”，即摆脱战败国标签，重建军事大国地位，并最终争取联合国安理会常任理事国席位。文章强调，2026年将是南海局势的关键节点，日本的角色将日益凸显，成为影响地区格局的重要变量。
+tags:
+- china
+- geopolitical
+- historical
+- self
+- strategy
+title: 日本为何死盯南海？解析其军事正常化与地区领导权战略
 ---
+
 ### 日本与菲律宾：历史的倒转与南海新变局
 
 2024年7月，日本外相与菲律宾国防部长签署了**互惠准入协议**（Reciprocal Access Agreement: 允许军队在对方国家训练和驻扎的协议）。然而，如果将时光倒流80年，谁能想到会有今天这一幕？1945年，在菲律宾首都，日本军队制造了震惊世界的**马尼拉大屠杀**，导致10万菲律宾平民惨死。80年之后，日本自卫队竟然被菲律宾政府用红地毯请了回来。这份日菲互惠准入协议意味着二战后第一次，日本军队可以在亚洲的受害国成建制地训练和驻扎。更具讽刺意味的是，菲律宾也是全亚洲唯一一个明确支持日本解禁**集体自卫权**（Collective Self-Defense: 盟友受攻击时，本国可出兵协助反击的权利）的国家，简单来说，就是菲律宾支持日本可以出兵打仗。

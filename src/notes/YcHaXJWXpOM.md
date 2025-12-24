@@ -1,51 +1,51 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Amazon
+- Google
+- Qualcomm
+- NVIDIA
+- Intel
+- AMD
+- OpenAI
+- Federal Reserve
+- Atlanta Fed
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- 贝ES之
+people:
+- Donald Trump
+- Xi Jinping
+- Jerome Powell
+- Sam Altman
+- Jensen Huang
+- Andy Jassy
+products_models:
+- ChatGPT
+project:
+- us-analysis
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=YcHaXJWXpOM
 speaker: 投资TALK君
-tags:
-  - ai-efficiency
-  - market-breadth
-  - us-china-trade
-  - macroeconomic-data
-  - ai-inference-competition
-title: AI落地引发大裁员，高通加入AI推理战局：市场、地缘与宏观数据展望
-summary: 本期节目深入探讨了当前美股市场的动态，包括中美贸易关系对市场情绪的影响、市场广度与大科技股的引领作用。重点分析了亚马逊因AI落地而进行的大规模裁员，以及高通推出新芯片后AI推理市场竞争加剧的格局。节目还前瞻了美联储会议、GDP和PCE数据，并强调美联储更多是市场叙事的背景板，而关税和AI叙事才是主导当前市场交易的核心逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Jerome Powell
-  - Sam Altman
-  - Jensen Huang
-  - Andy Jassy
-companies_orgs:
-  - Amazon
-  - Google
-  - Qualcomm
-  - NVIDIA
-  - Intel
-  - AMD
-  - OpenAI
-  - Federal Reserve
-  - Atlanta Fed
-products_models:
-  - ChatGPT
-media_books:
-  - Bloomberg
-  - 贝ES之
 status: evergreen
+summary: 本期节目深入探讨了当前美股市场的动态，包括中美贸易关系对市场情绪的影响、市场广度与大科技股的引领作用。重点分析了亚马逊因AI落地而进行的大规模裁员，以及高通推出新芯片后AI推理市场竞争加剧的格局。节目还前瞻了美联储会议、GDP和PCE数据，并强调美联储更多是市场叙事的背景板，而关税和AI叙事才是主导当前市场交易的核心逻辑。
+tags:
+- competition
+- efficiency
+- financial
+- market
+- us-china-relations
+title: AI落地引发大裁员，高通加入AI推理战局：市场、地缘与宏观数据展望
 ---
+
 各位观众大家好，欢迎来到本周的专业美股频道。我是市场分析员萧涛。今天主要和大家聊聊近期发生的一些新闻，大多数新闻都与芯片板块或大科技相关，主要围绕着AI展开。同时，我们也将通过宏观数据，探讨本周将要发布的一些重要经济数据，包括周三的美联储会议，以及我们对此的预期。
 
 ### 市场概览与中美关系影响

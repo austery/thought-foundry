@@ -1,45 +1,44 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: psychology
+companies_orgs:
+- Norges Bank Investment Management
 date: '2024-04-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Annie Duke
+- Danny Kahneman
+- Amos Tversky
+- Rob Hall
+- Doug Hansen
+- G. Garvey
+- Murphy
+- Woodcock
+- Alex Emus
+- Bers
+- Milkman
+products_models:
+- Prospect Theory
+project:
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=M_PA-2Lx3RE
 speaker: Norges Bank Investment Management
-tags:
-  - quitting-decisions
-  - cognitive-biases
-  - escalation-of-commitment
-  - sunk-cost-effect
-  - exit-strategy
-title: 投资与决策中的退出艺术：为何我们难以割舍，又如何明智放手
-summary: 本讲座深入探讨了决策者在面对不确定性时，为何难以做出及时有效的退出决策。讲者Annie Duke解释了沉没成本、禀赋效应、确定损失厌恶等多种认知偏误如何导致我们过度承诺，未能及时止损。她提出了设定明确的终止标准、建立更好的反馈循环以及寻求“退出教练”等实用策略，以帮助投资者和决策者提高退出决策的质量，从而显著提升回报。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Annie Duke
-  - Danny Kahneman
-  - Amos Tversky
-  - Rob Hall
-  - Doug Hansen
-  - G. Garvey
-  - Murphy
-  - Woodcock
-  - Alex Emus
-  - Bers
-  - Milkman
-companies_orgs:
-  - Norges Bank Investment Management
-products_models:
-  - Prospect Theory
-media_books: []
 status: evergreen
+summary: 本讲座深入探讨了决策者在面对不确定性时，为何难以做出及时有效的退出决策。讲者Annie Duke解释了沉没成本、禀赋效应、确定损失厌恶等多种认知偏误如何导致我们过度承诺，未能及时止损。她提出了设定明确的终止标准、建立更好的反馈循环以及寻求“退出教练”等实用策略，以帮助投资者和决策者提高退出决策的质量，从而显著提升回报。
+tags:
+- cognitive-bias
+- effect
+- quitting-decision
+- society
+- strategy
+title: 投资与决策中的退出艺术：为何我们难以割舍，又如何明智放手
 ---
+
 ### 决策中的不确定性与退出选项
 
 大家好，很高兴能以线上形式来到这里。今天，我将和大家探讨“退出”这个话题，特别是我们如何改进退出决策，以及为什么我们真的需要这样做。作为决策者，我们面临的问题是，不确定性使得启动任何事情都变得非常困难，因为有两种形式的不确定性会影响我们做出的任何决策。

@@ -1,35 +1,35 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-03-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《深呼吸，开始麻醉了》
+people:
+- 蒋政宇
+products_models: []
+project:
+- historical-insights
+- knowledge-pipeline
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=bXfuvYe72Hg
 speaker: 一席YiXi
-tags:
-  - medical-decision-making
-  - life-support-systems
-  - clinical-ethics
-  - healthcare-workforce-crisis
-  - pain-perception
-title: 深呼吸，开始麻醉了：一位麻醉医生的生死守门人日记
-summary: 一位中国麻醉医生通过真实手术案例，揭示麻醉并非‘打一针就走’，而是贯穿术前、术中到术后，守护生命体征平衡的系统性工程。他讲述在大出血、静默肺、血荒等极端情境下，如何以10秒决策维系生命，并直面医学灰色地带的伦理抉择。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - knowledge-pipeline
-  - cultural-critique
-people:
-  - 蒋政宇
-companies_orgs: []
-products_models: []
-media_books:
-  - 《深呼吸，开始麻醉了》
 status: evergreen
+summary: 一位中国麻醉医生通过真实手术案例，揭示麻醉并非‘打一针就走’，而是贯穿术前、术中到术后，守护生命体征平衡的系统性工程。他讲述在大出血、静默肺、血荒等极端情境下，如何以10秒决策维系生命，并直面医学灰色地带的伦理抉择。
+tags:
+- crisis
+- ethics
+- medical-decision-making
+- perception
+- system
+title: 深呼吸，开始麻醉了：一位麻醉医生的生死守门人日记
 ---
+
 ### 麻醉不是“打一针就走”
 
 大家好，我是麻醉医生蒋政宇。  

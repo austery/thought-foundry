@@ -1,49 +1,49 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- CNN
+- Barclays
+- JPMorgan
+- 美国银行
+- S&P Global
+- ISM
+- Bloomberg
+- See Money
 date: '2025-03-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- All In Podcast
+people:
+- Donald Trump
+- Steven Mnuchin
+- Kevin Hassett
+- Jerome Powell
+- Christopher Waller
+products_models:
+- TLT
+- VIX
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=xfXC2A0MCEk
 speaker: 投资TALK君
-tags:
-  - us-trade-policy
-  - market-sentiment
-  - economic-data
-  - portfolio-rebalancing
-  - tariff-impact
-title: 特朗普团队解读贸易战：关税政策的针对性与市场情绪及经济数据展望
-summary: 本期节目深入分析了过去一周的市场走势，包括美元指数、美债收益率及各大股指的表现，并结合CNN恐慌贪婪指数和市场参与度指标，揭示当前市场情绪。重点探讨了特朗普团队对未来贸易战和关税政策的最新表态，强调关税将更具针对性，旨在调整市场对不确定性的预期。节目还展望了本周即将公布的关键经济数据，特别是PCE和密歇根调查指数，并分析了季度末养老基金再平衡对股市的潜在影响，为投资者提供了客观的数据视角和策略建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Steven Mnuchin
-  - Kevin Hassett
-  - Jerome Powell
-  - Christopher Waller
-companies_orgs:
-  - CNN
-  - Barclays
-  - JPMorgan
-  - 美国银行
-  - S&P Global
-  - ISM
-  - Bloomberg
-  - See Money
-products_models:
-  - TLT
-  - VIX
-media_books:
-  - All In Podcast
 status: evergreen
+summary: 本期节目深入分析了过去一周的市场走势，包括美元指数、美债收益率及各大股指的表现，并结合CNN恐慌贪婪指数和市场参与度指标，揭示当前市场情绪。重点探讨了特朗普团队对未来贸易战和关税政策的最新表态，强调关税将更具针对性，旨在调整市场对不确定性的预期。节目还展望了本周即将公布的关键经济数据，特别是PCE和密歇根调查指数，并分析了季度末养老基金再平衡对股市的潜在影响，为投资者提供了客观的数据视角和策略建议。
+tags:
+- economic-datum
+- investment
+- market-sentiment
+- tariff-impact
+- us-trade-policy
+title: 特朗普团队解读贸易战：关税政策的针对性与市场情绪及经济数据展望
 ---
+
 各位观众大家好，欢迎来到一个不单止聊新闻的专业美股频道，我是市场分选小桃。今天这期内容，首先我们将对过去一周市场的走势进行快速总结，包括当下市场的情绪面、市场参与度以及**CNN恐慌贪婪指数**（CNN Fear & Greed Index: 衡量市场情绪的指标）中的各项指标，以观察市场反弹后情绪面的恢复情况及未来扩展空间。在我录制本期视频时，期货市场出现反弹，我们将探讨这是否与未来关税政策相关的新闻有关，并进行更新。最后，我们将展望本周即将公布的数据，特别是**PCE**（Personal Consumption Expenditures: 个人消费支出物价指数，美联储偏爱的通胀指标），并从市场**波动率**（Volatility: 衡量资产价格变动剧烈程度的指标）指标分析市场在未来一两周内对哪些数据和事件更为敏感，这可能与大家的预期有所不同。废话不多说，我们马上开始今天的内容。
 
 ### 市场回顾与情绪分析

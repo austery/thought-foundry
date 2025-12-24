@@ -1,38 +1,38 @@
 ---
-author: TED
+area: personal-systems
+category: psychology
+companies_orgs:
+- UCSF
+- TED
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Today I Learned
+people:
+- Harini Bhat
+- Juan Manuel Garcia Ruiz
+products_models:
+- GTA 6
+project:
+- personal-growth-lab
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=Pry6l7h48ro
 speaker: TED
-tags:
-  - curiosity
-  - learning
-  - personal-development
-  - science-communication
-  - embracing-unknown
-title: 拥抱未知：好奇心如何驱动发现与学习
-summary: 哈里尼·巴特（Harini Bhat）的TED演讲探讨了拥抱好奇心而非执着于即时答案的强大力量。她分享了自己从“万事通”心态转变为通过好奇心驱动学习的历程，并创办了“今日我学到”频道，旨在将严谨的科学研究以引人入胜的方式呈现给大众。文章强调，真正的发现源于对未知的痴迷，鼓励每个人去寻找激发内心好奇的“特奥蒂瓦坎”，并保持永不满足的求知欲。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - knowledge-pipeline
-people:
-  - Harini Bhat
-  - Juan Manuel Garcia Ruiz
-companies_orgs:
-  - UCSF
-  - TED
-products_models:
-  - GTA 6
-media_books:
-  - Today I Learned
 status: evergreen
+summary: 哈里尼·巴特（Harini Bhat）的TED演讲探讨了拥抱好奇心而非执着于即时答案的强大力量。她分享了自己从“万事通”心态转变为通过好奇心驱动学习的历程，并创办了“今日我学到”频道，旨在将严谨的科学研究以引人入胜的方式呈现给大众。文章强调，真正的发现源于对未知的痴迷，鼓励每个人去寻找激发内心好奇的“特奥蒂瓦坎”，并保持永不满足的求知欲。
+tags:
+- communication
+- curiosity
+- embracing-unknown
+- learning
+- personal-development
+title: 拥抱未知：好奇心如何驱动发现与学习
 ---
+
 ### 未知之美：好奇心驱动的探索
 
 举手示意，如果你不知道这是什么。

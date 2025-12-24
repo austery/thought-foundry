@@ -1,69 +1,69 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- YouTube
+- 央视
+- 局面
+- 山姆超市
+- 人民大学
+- 中科院物理所
+- Costco
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《夸克说》
+- 《玻璃心》
+- 《东方红》
+- 《珊瑚颂》
+- 《红灯记》
+- 《白毛女》
+- 《马克思原著》
+- 《小岛大浪吹》
+- 《江宁婆婆》
+people:
+- 户晨风
+- 夸克
+- 夏河
+- 王志安
+- 罗永浩
+- 于敏洪
+- 董宇辉
+- Xi Jinping
+- 习明泽
+- 吴京
+- 秦晖
+- 黄明志
+- 孟晚舟
+- 郑刚
+- 张明
+products_models:
+- iPhone
+- 华为
+- 丰田
+- 特斯拉
+- 安卓
+- 苹果
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=CpMFzZbvUiM
 speaker: 夸克说
-tags:
-  - cognitive-patterns
-  - fact-vs-emotion
-  - common-sense-dissemination
-  - political-enlightenment
-  - chinese-diaspora-media
-title: 户晨风现象：事实判断、常识传播与中国社会认知转型
-summary: 本文探讨了为何支持户晨风在海外平台YouTube发展，并分析其内容对中国社会认知转型的潜在价值。文章指出，户晨风的核心贡献在于推动中国人从情感判断转向事实判断，回归生活常识，并以通俗易懂的方式扩大了常识的传播范围。同时，文章对比了户晨风与王志安、罗永浩等人的思维模式差异，强调户晨风在引导公众进行温和启蒙和认知升级方面的独特作用，认为他能成为中国民众政治态度转变的重要跳板。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 户晨风
-  - 夸克
-  - 夏河
-  - 王志安
-  - 罗永浩
-  - 于敏洪
-  - 董宇辉
-  - 习近平
-  - 习明泽
-  - 吴京
-  - 秦晖
-  - 黄明志
-  - 孟晚舟
-  - 郑刚
-  - 张明
-companies_orgs:
-  - YouTube
-  - 央视
-  - 局面
-  - 山姆超市
-  - 人民大学
-  - 中科院物理所
-  - Costco
-products_models:
-  - iPhone
-  - 华为
-  - 丰田
-  - 特斯拉
-  - 安卓
-  - 苹果
-media_books:
-  - 《夸克说》
-  - 《玻璃心》
-  - 《东方红》
-  - 《珊瑚颂》
-  - 《红灯记》
-  - 《白毛女》
-  - 《马克思原著》
-  - 《小岛大浪吹》
-  - 《江宁婆婆》
 status: evergreen
+summary: 本文探讨了为何支持户晨风在海外平台YouTube发展，并分析其内容对中国社会认知转型的潜在价值。文章指出，户晨风的核心贡献在于推动中国人从情感判断转向事实判断，回归生活常识，并以通俗易懂的方式扩大了常识的传播范围。同时，文章对比了户晨风与王志安、罗永浩等人的思维模式差异，强调户晨风在引导公众进行温和启蒙和认知升级方面的独特作用，认为他能成为中国民众政治态度转变的重要跳板。
+tags:
+- cognitive
+- common-sense-dissemination
+- media
+- political
+- psychology
+title: 户晨风现象：事实判断、常识传播与中国社会认知转型
 ---
+
 ### 户晨风被封杀后的去向与影响力探讨
 
 不久之前，户晨风被封杀了。这已经不是他第一次经历永封又解封，再被封的过程，但这次的情况可能更严重，大概率是真正永封了。网上随即出现两种讨论：第一种是关于户晨风为什么被封杀的，关于这一点我单做了一期节目讨论；这期咱们着重聊聊第二点，也是墙外讨论比较多的，就是户晨风要不要来YouTube做节目。

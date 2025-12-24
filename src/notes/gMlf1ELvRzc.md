@@ -1,41 +1,40 @@
 ---
-author: Veritasium
-date: '2021-03-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=gMlf1ELvRzc
-speaker: Veritasium
-tags:
-  - veritasium
-  - pi-calculation
-  - newtonian-calculus
-  - binomial-theorem
-  - mathematical-history
-  - infinite-series
-title: 牛顿如何彻底改变了圆周率的计算方式
-summary: 本文探讨了圆周率（Pi）计算方法在历史上的演变。从古希腊阿基米德通过多边形逼近的漫长且耗时的方法，到艾萨克·牛顿引入二项式定理和微积分（流数术）后，计算效率得到了指数级提升。牛顿的方法将原本需要数年完成的计算缩短至数日，彻底颠覆了数学界对Pi的认知和计算实践，展示了数学洞察力如何能带来巨大的进步。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Isaac Newton
-  - Archimedes
-  - Francois Viete
-  - Ludolph van Ceulen
-  - Christoph Grienberger
-  - Derek Muller
-  - Alex Kontorovich
+category: science
 companies_orgs:
-  - Brilliant
+- Brilliant
+date: '2021-03-16'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- infinite-series
+people:
+- Isaac Newton
+- Archimedes
+- Francois Viete
+- Ludolph van Ceulen
+- Christoph Grienberger
+- Derek Muller
+- Alex Kontorovich
+- newtonian-calculu
 products_models: []
-media_books: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=gMlf1ELvRzc
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了圆周率（Pi）计算方法在历史上的演变。从古希腊阿基米德通过多边形逼近的漫长且耗时的方法，到艾萨克·牛顿引入二项式定理和微积分（流数术）后，计算效率得到了指数级提升。牛顿的方法将原本需要数年完成的计算缩短至数日，彻底颠覆了数学界对Pi的认知和计算实践，展示了数学洞察力如何能带来巨大的进步。
+tags:
+- history
+- pi-calculation
+- science
+title: 牛顿如何彻底改变了圆周率的计算方式
 ---
+
 ### 圆周率的直观理解
 
 本视频将探讨我们过去计算**圆周率**（Pi: 一个圆的周长与其直径之比的数学常数，约等于3.14159）的荒谬方式。

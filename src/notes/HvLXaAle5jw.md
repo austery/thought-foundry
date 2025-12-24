@@ -1,45 +1,44 @@
 ---
-author: Peter Pang
-date: 2025-10-30
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=HvLXaAle5jw'
-speaker: Peter Pang
-tags:
-  - code-refactoring
-  - software-development-practices
-  - agile-methodology
-  - business-value-alignment
-  - ai-in-programming
-title: 程序员为何热爱重构，而项目管理者却不买账？——兼论AI编程时代的机遇
-summary: 本文深入探讨了代码重构在软件开发中的重要性与实践困境。从重构的理论起源、TDD的兴衰，到商业价值与成本的权衡，揭示了程序员与项目管理者在重构认知上的鸿沟。文章还提出了将重构与商业价值挂钩的策略，并展望了AI编程时代可能为重构带来的转机。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - William
-  - Martin Fowler
-  - Atomic Energy
+category: technology
 companies_orgs:
-  - 阿里巴巴
-  - 伊利诺伊大学
-  - 华盛顿大学
-products_models:
-  - SonarQube
-  - CodeSense
-  - Cursor
-  - Llama 4 Scout
+- Alibaba
+- 伊利诺伊大学
+- 华盛顿大学
+date: 2025-10-30
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《Design Patterns》
-  - 《refactoring》
+- 《Design Patterns》
+- 《refactoring》
+people:
+- William
+- Martin Fowler
+- Atomic Energy
+products_models:
+- SonarQube
+- CodeSense
+- Cursor
+- Llama 4 Scout
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=HvLXaAle5jw
+speaker: Peter Pang
 status: evergreen
+summary: 本文深入探讨了代码重构在软件开发中的重要性与实践困境。从重构的理论起源、TDD的兴衰，到商业价值与成本的权衡，揭示了程序员与项目管理者在重构认知上的鸿沟。文章还提出了将重构与商业价值挂钩的策略，并展望了AI编程时代可能为重构带来的转机。
+tags:
+- code
+- llm
+- software-development-practice
+- value
+title: 程序员为何热爱重构，而项目管理者却不买账？——兼论AI编程时代的机遇
 ---
+
 ### 程序员对重构的执着与现实的割裂
 
 程序员普遍喜欢**重构**（Refactoring: 在不改变代码外部行为的前提下，改进其内部结构的过程），因为将混乱的代码变得整洁能带来极大的愉悦感。在程序员圈子里，重构被公认为一个好习惯，无论是学校里的老师、职场中的前辈，还是各种软件开发理念和编程思维，都经常提及重构。

@@ -1,50 +1,50 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 守语者
+- 上海守语公益服务中心
+- 武汉聋人学校
+- 广州大学
+- 民政局
+- 康复学校
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《众手揎哗》
+- 《聋女独白》
+- documentary-film
+people:
+- 崔竞
+- 顽真
+- 立早
+- 另翎
+- H阿姨
+- 余姐
+- 曹群
+- 梅豆
+- 晴子
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3lpn9q98g2M
 speaker: 一席YiXi
-tags:
-  - deaf-identity
-  - sign-language-culture
-  - societal-discrimination
-  - family-relationships
-  - documentary-film
-title: 崔竞：我的聋人身份探索之旅——从自卑到拥抱手语文化
-summary: 崔竞，一位聋人女性，分享了她从童年对聋人身份的自卑与排斥，到通过接触聋人文化、参与纪录片《众手揎哗》的拍摄，最终实现自我认同的深刻历程。她探讨了社会对聋人的歧视、家庭沟通的挑战，以及聋人社群在个体成长中的重要性，呼吁社会接纳多样性，让每个人都能感受到被爱与尊重。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-  - historical-insights
-people:
-  - 崔竞
-  - 顽真
-  - 立早
-  - 另翎
-  - H阿姨
-  - 余姐
-  - 曹群
-  - 梅豆
-  - 晴子
-companies_orgs:
-  - 守语者
-  - 上海守语公益服务中心
-  - 武汉聋人学校
-  - 广州大学
-  - 民政局
-  - 康复学校
-products_models: []
-media_books:
-  - 《众手揎哗》
-  - 《聋女独白》
 status: evergreen
+summary: 崔竞，一位聋人女性，分享了她从童年对聋人身份的自卑与排斥，到通过接触聋人文化、参与纪录片《众手揎哗》的拍摄，最终实现自我认同的深刻历程。她探讨了社会对聋人的歧视、家庭沟通的挑战，以及聋人社群在个体成长中的重要性，呼吁社会接纳多样性，让每个人都能感受到被爱与尊重。
+tags:
+- culture
+- family-relationship
+- identity
+- societal
+title: 崔竞：我的聋人身份探索之旅——从自卑到拥抱手语文化
 ---
+
 ### 身份标签与手语表达
 
 嗨，大家好，我是崔竞，这是我的手语名字。每个人都有非常多的身份标签，我身上有哪些标签呢？我是聋人，同时也是一个女性，还是**守语者**（一个致力于推广手语和聋人文化的组织）的联合创办人，以及**上海守语公益服务中心**的理事长。有这么多的标签，但是我今天之所以能够来到现场，是因为我曾经拍摄一个纪录片，我是纪录片的导演之一，这部纪录片叫做**《众手揎哗》**（一部关于中国聋人历史和文化的纪录片）。最近几年，如果可以选择面对公众，我会尽量选择用手语表达。

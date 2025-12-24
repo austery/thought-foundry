@@ -1,61 +1,60 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- White House
+- Salesforce
+- Nvidia
+- Binance
+- FBI
+- New York Times
+- Amazon Web Services
+- Netflix
+- Slack
+- McDonald's
+- Los Angeles Dodgers
+- Toronto Blue Jays
+- Seattle Mariners
+- Miami Heat
+- Portland Trailblazers
+- La Cosa Nostra
+- Etsy
+- Costco
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Iron Maiden
+people:
+- Donald Trump
+- Mark Benioff
+- Jensen Huang
+- Changpeng Zhao
+- Ronald Reagan
+- Cash Patel
+- Terry Rozier
+- Chauncey Billups
+- Takayichi
+- Margaret Thatcher
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=PFWiZ34FxJI
 speaker: New York Times Podcasts
-tags:
-  - us-politics
-  - crypto-pardon
-  - trade-dispute
-  - government-shutdown
-  - sports-gambling-scandal
-title: 特朗普赦免加密货币创始人、NBA赌博丑闻与政府停摆
-summary: 本期《纽约时报》头条新闻涵盖了多个重大事件：特朗普总统赦免了币安（Binance）创始人赵长鹏，引发了对其与加密货币行业关系的质疑；同时，他因安大略省的广告而突然停止了与加拿大的贸易谈判。美国政府持续停摆进入第24天，两党在联邦雇员薪资问题上僵持不下。此外，联邦调查局（FBI）揭露了一起涉及NBA球员和教练的重大赌博及操纵比赛丑闻，凸显了体育博彩快速发展带来的风险。节目还简要提及了日本新首相的诞生及其他趣闻。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Mark Benioff
-  - Jensen Huang
-  - Changpeng Zhao
-  - Ronald Reagan
-  - Cash Patel
-  - Terry Rozier
-  - Chauncey Billups
-  - Takayichi
-  - Margaret Thatcher
-companies_orgs:
-  - White House
-  - Salesforce
-  - Nvidia
-  - Binance
-  - FBI
-  - New York Times
-  - Amazon Web Services
-  - Netflix
-  - Slack
-  - McDonald's
-  - Los Angeles Dodgers
-  - Toronto Blue Jays
-  - Seattle Mariners
-  - Miami Heat
-  - Portland Trailblazers
-  - La Cosa Nostra
-  - Etsy
-  - Costco
-products_models: []
-media_books:
-  - Iron Maiden
 status: evergreen
+summary: 本期《纽约时报》头条新闻涵盖了多个重大事件：特朗普总统赦免了币安（Binance）创始人赵长鹏，引发了对其与加密货币行业关系的质疑；同时，他因安大略省的广告而突然停止了与加拿大的贸易谈判。美国政府持续停摆进入第24天，两党在联邦雇员薪资问题上僵持不下。此外，联邦调查局（FBI）揭露了一起涉及NBA球员和教练的重大赌博及操纵比赛丑闻，凸显了体育博彩快速发展带来的风险。节目还简要提及了日本新首相的诞生及其他趣闻。
+tags:
+- crypto-pardon
+- government-shutdown
+- life
+- trade
+title: 特朗普赦免加密货币创始人、NBA赌博丑闻与政府停摆
 ---
+
 ### 特朗普与科技加密行业的影响力
 
 欢迎收听《纽约时报》的头条新闻。今天是10月24日星期五。以下是我们将要报道的内容。

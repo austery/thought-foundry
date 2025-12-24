@@ -1,59 +1,59 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg Podcasts
+- Bloomberg Economics
+- Goldman Sachs
+- Federal Reserve
+- PBoC
+- US Treasury
 date: '2025-10-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- TrumpEnomics
+- 'The Price of Money: A Guide to the Past, Present, and Future of the Natural Rate
+  of Interest'
+people:
+- Stephen Myron
+- Tom Orlik
+- Jamie Rush
+- Stephanie Flanders
+- Joe Weisenthal
+- Tracy Alloway
+- Ben Bernanke
+- Jason Furman
+- Neel Kashkari
+- Milton Friedman
+- Donald Trump
+- Vladimir Putin
+- Dan Hanson
+products_models:
+- ChatGPT
+- Taylor rule
+- Laubach-Williams model
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=6HrYqFaOljI
 speaker: Bloomberg Podcasts
-tags:
-  - neutral-rate-of-interest
-  - monetary-policy
-  - government-debt
-  - deglobalization
-  - ai-investment
-  - central-bank-independence
-title: 中性利率飙升：解读全球资金成本上涨的五大动因
-summary: 本期《奇思妙想》播客深入探讨了过去六年全球资金成本（即中性利率R-star）飙升的深层原因。嘉宾Tom Orlik和Jamie Rush基于其新书，详细阐述了人口结构变化、政府债务激增、逆全球化趋势、人工智能投资以及国防开支增长这五大关键因素如何共同推高中性利率。节目还讨论了中性利率作为货币政策工具的争议性，以及地缘政治和央行独立性对未来利率走向的潜在影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Stephen Myron
-  - Tom Orlik
-  - Jamie Rush
-  - Stephanie Flanders
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Ben Bernanke
-  - Jason Furman
-  - Neel Kashkari
-  - Milton Friedman
-  - Donald Trump
-  - Vladimir Putin
-  - Dan Hanson
-companies_orgs:
-  - Bloomberg Podcasts
-  - Bloomberg Economics
-  - Goldman Sachs
-  - Federal Reserve
-  - PBoC
-  - US Treasury
-products_models:
-  - ChatGPT
-  - Taylor rule
-  - Laubach-Williams model
-media_books:
-  - Odd Lots
-  - TrumpEnomics
-  - 'The Price of Money: A Guide to the Past, Present, and Future of the Natural Rate of Interest'
 status: evergreen
+summary: 本期《奇思妙想》播客深入探讨了过去六年全球资金成本（即中性利率R-star）飙升的深层原因。嘉宾Tom Orlik和Jamie Rush基于其新书，详细阐述了人口结构变化、政府债务激增、逆全球化趋势、人工智能投资以及国防开支增长这五大关键因素如何共同推高中性利率。节目还讨论了中性利率作为货币政策工具的争议性，以及地缘政治和央行独立性对未来利率走向的潜在影响。
+tags:
+- ai-investment
+- central-bank-independence
+- deglobalization
+- government-debt
+- rate
+title: 中性利率飙升：解读全球资金成本上涨的五大动因
 ---
+
 ### 中性利率：一个“看不见”的魔法对象
 
 **Joe:** 崔西，我觉得这场对话真正探讨的是一个你不能直视的魔法对象，因为它会让你凝固。

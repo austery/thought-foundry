@@ -1,52 +1,51 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 摩根大通
+- 彭博社
+- 华尔街日报
+- 经济学人
+- Google
+- 亚马逊
+- Alphabet
+- 万科
+- 中国央行
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《2025年美国国家安全战略》
+- 《21世纪经济导报》
+people:
+- Xi Jinping
+- Donald Trump
+- 万斯
+- 马克龙
+- 莫茨
+- 斯塔莫
+- 韩文秀
+- 马云
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zuahf5YonrA
 speaker: LT視界
-tags:
-  - us-europe-strategic-fracture
-  - populist-rise-in-europe
-  - real-estate-crash-china
-  - deflationary-spiral
-  - state-debt-expansion
-title: 川普为何撕裂欧美？中共房市困局与中国经济的深层危机
-summary: 本文深入分析川普政府将欧洲视为战略对手背后的动机，揭示其支持欧洲右翼民粹势力以瓦解欧盟的政治算计；同时剖析中国房地产崩盘引发的金融连锁反应，以及政府‘着力稳定’政策背后的无力与矛盾。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - china-analysis
-people:
-  - 习近平
-  - 川普
-  - 万斯
-  - 马克龙
-  - 莫茨
-  - 斯塔莫
-  - 韩文秀
-  - 马云
-companies_orgs:
-  - 摩根大通
-  - 彭博社
-  - 华尔街日报
-  - 经济学人
-  - 谷歌
-  - 亚马逊
-  - Alphabet
-  - 万科
-  - 中国央行
-products_models: []
-media_books:
-  - 《2025年美国国家安全战略》
-  - 《21世纪经济导报》
 status: evergreen
+summary: 本文深入分析川普政府将欧洲视为战略对手背后的动机，揭示其支持欧洲右翼民粹势力以瓦解欧盟的政治算计；同时剖析中国房地产崩盘引发的金融连锁反应，以及政府‘着力稳定’政策背后的无力与矛盾。
+tags:
+- china
+- financial
+- geopolitical
+- state
+title: 川普为何撕裂欧美？中共房市困局与中国经济的深层危机
 ---
+
 ### 川普为何撕裂欧美？颠覆性战略背后的真正动机
 
 美国国家安全战略报告突然将欧洲定位为“文明消亡”的威胁，引发全球震惊。这并非偶然的外交失误，而是一次精心策划的战略转向。华尔街日报指出，川普政府将矛头指向移民与文化问题，却刻意回避了欧洲真正的结构性危机——庞大的福利国家体系导致高税收、低创新与财政僵化。但真正揭开谜底的，是《经济学人》的深度分析：川普的目标并非“抛弃”欧洲，而是**重构欧洲政治生态**。

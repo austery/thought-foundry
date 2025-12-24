@@ -1,37 +1,36 @@
 ---
-author: 徒步的騎手
-date: 2025-05-10
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=Fgs8mJKinUc'
-speaker: 徒步的騎手
-tags:
-  - student-visa-policy
-  - us-immigration
-  - political-uncertainty
-  - freedom-of-speech
-  - personal-conduct
-title: 川普政府学生签证政策急转弯：留学生如何明智应对与自我保护
-summary: 本文深入探讨了川普政府时期学生签证政策的反复无常，包括约1800名留学生身份被取消后又陆续恢复的案例，以及政府在取消签证时所依据的模糊标准。文章强调了留学生身份的脆弱性，即便未违法，不当言行也可能导致签证吊销。同时，提供了具体建议，指导留学生如何了解规则、理性判断、避免争议，以明智地保护自己，顺利完成学业，并为未来做好规划。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Rubio
+category: geopolitics
 companies_orgs:
-  - 美国国务院
-  - 国土安全部
-  - 休斯顿大学
-  - 全国犯罪信息中心
-products_models: '[]'
+- 美国国务院
+- 国土安全部
+- 休斯顿大学
+- 全国犯罪信息中心
+date: 2025-05-10
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Donald Trump
+- Rubio
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=Fgs8mJKinUc
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了川普政府时期学生签证政策的反复无常，包括约1800名留学生身份被取消后又陆续恢复的案例，以及政府在取消签证时所依据的模糊标准。文章强调了留学生身份的脆弱性，即便未违法，不当言行也可能导致签证吊销。同时，提供了具体建议，指导留学生如何了解规则、理性判断、避免争议，以明智地保护自己，顺利完成学业，并为未来做好规划。
+tags:
+- freedom-of-speech
+- geopolitical
+- personal
+- policy
+- political
+title: 川普政府学生签证政策急转弯：留学生如何明智应对与自我保护
 ---
 
 ### 川普政府学生签证政策的反复与应对

@@ -1,47 +1,46 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- United Nations
+- Amtrak
+- BYD
+- USAID
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Rachel Abrams
+- David Galis
+- Brad Plumer
+- Donald Trump
+- Xi
+- WaBo
+- Chris Wright
+products_models:
+- Paris Climate Agreement
+- Inflation Reduction Act
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=ENJ6UmECe1Q
 speaker: New York Times Podcasts
-tags:
-  - renewable-energy
-  - fossil-fuels
-  - climate-change-policy
-  - geopolitical-competition
-  - ai-energy-demand
-title: 美国能源未来何去何从：中国在全球绿色能源竞赛中崛起
-summary: 本期节目深入探讨了美国和中国在能源政策上的显著分歧及其全球影响。在特朗普政府退出《巴黎气候协定》并大力推行化石燃料之际，中国正积极投资并主导太阳能、风能、电动汽车等可再生能源技术。文章分析了中国在绿色能源领域的巨大出口量和由此带来的地缘政治影响力，以及美国将重心放在化石燃料和AI竞赛上的战略考量。节目嘉宾指出，美国此举可能导致其在未来关键产业中落后于中国，并引发制造业就业流失的担忧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Rachel Abrams
-  - David Galis
-  - Brad Plumer
-  - Donald Trump
-  - Xi
-  - WaBo
-  - Chris Wright
-companies_orgs:
-  - New York Times
-  - United Nations
-  - Amtrak
-  - BYD
-  - USAID
-products_models:
-  - Paris Climate Agreement
-  - Inflation Reduction Act
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了美国和中国在能源政策上的显著分歧及其全球影响。在特朗普政府退出《巴黎气候协定》并大力推行化石燃料之际，中国正积极投资并主导太阳能、风能、电动汽车等可再生能源技术。文章分析了中国在绿色能源领域的巨大出口量和由此带来的地缘政治影响力，以及美国将重心放在化石燃料和AI竞赛上的战略考量。节目嘉宾指出，美国此举可能导致其在未来关键产业中落后于中国，并引发制造业就业流失的担忧。
+tags:
+- energy
+- environment
+- geopolitical-competition
+- policy
+- renewable-energy
+title: 美国能源未来何去何从：中国在全球绿色能源竞赛中崛起
 ---
+
 ### 美国缺席COP气候大会，中国崛起为绿色能源领袖
 
 自特朗普于一月上任以来，他的政府推翻了拜登时代为应对气候变化所做的诸多努力，减缓了可再生能源的发展，并推动石油和天然气的扩张。

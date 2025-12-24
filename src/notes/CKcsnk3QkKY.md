@@ -1,34 +1,33 @@
 ---
-title: CPI数据深度解析：美联储视角、市场影响与经济展望
-summary: 本期节目深入探讨了CPI数据的重要性，强调美联储对数据的解读远超数据本身。分析了市场对通胀、降息及衰退的预期，并结合前经济委员会主任的观点，对关税、劳动力市场和利率曲线进行了详细阐述。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- federal-reserve
-- inflation
-- investment-strategy
-- market-analysis
-- us-economy
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-08-12'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+people: []
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=CKcsnk3QkKY
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入探讨了CPI数据的重要性，强调美联储对数据的解读远超数据本身。分析了市场对通胀、降息及衰退的预期，并结合前经济委员会主任的观点，对关税、劳动力市场和利率曲线进行了详细阐述。
+tags:
+- federal-reserve
+- inflation
+- market-analysis
+- us-economy
+title: CPI数据深度解析：美联储视角、市场影响与经济展望
 ---
+
 ### CPI数据的重要性与美联储的解读视角
 
 本期节目主要围绕即将公布的**消费者物价指数**（**CPI**：Consumer Price Index，衡量消费者购买商品和服务价格变化的指标）数据展开讨论。尽管数据可能已公布，但其重要性在于美联储将如何解读。相比数据本身，美联储的行动更为关键。此外，节目还将探讨与衰退相关的数据，并简要提及本周即将发布财报的公司。由于时间较晚，主持人希望尽快进入正题，并提醒观众点赞留言。主持人还透露，本周五至下周三以及九月份将暂停更新视频，但若有重要事件，仍会在X平台或YouTube社区以文字形式分享。

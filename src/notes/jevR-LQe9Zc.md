@@ -1,49 +1,47 @@
 ---
-author: 徒步的騎手
-date: 2025-03-28
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=jevR-LQe9Zc'
-speaker: 徒步的騎手
-tags:
-  - us-political-spectrum
-  - political-polarization
-  - misinformation-bias
-  - extremist-politics
-  - checks-and-balances
-title: 美国政治的真实光谱：中间偏右的主流与“排水沟”中的极端分子
-summary: 本文深入剖析中文世界对美国左右派政治的常见误解，指出美国总体上是一个中间偏右的国家，且两党间存在复杂的制衡与合作。文章澄清了平权措施的真实背景，并强调了信息茧房导致的“垃圾进垃圾出”现象。通过区分政治主流与“可卡因左派/右派”等极端分子，文章呼吁关注艾森豪威尔总统所倡导的中间道路，而非被边缘化的极端声音所迷惑。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Noam Chomsky
-  - Elizabeth Warren
-  - Bernie Sanders
-  - Henry Kissinger
-  - Nancy Pelosi
-  - Donald Trump
-  - Joe Biden
-  - Martin Luther King Jr.
-  - Lyndon B. Johnson
-  - Richard Nixon
-  - Dwight D. Eisenhower
-  - 袁立
-  - Dan Carlin
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - Fox News
-  - CNN
-  - Hamas
-products_models: '[]'
+- Fox News
+- CNN
+- Hamas
+date: 2025-03-28
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 不明白博客
-  - 约翰逊总统传记
+- 不明白博客
+- 约翰逊总统传记
+people:
+- Noam Chomsky
+- Elizabeth Warren
+- Bernie Sanders
+- Henry Kissinger
+- Nancy Pelosi
+- Donald Trump
+- Joe Biden
+- Martin Luther King Jr.
+- Lyndon B. Johnson
+- Richard Nixon
+- Dwight D. Eisenhower
+- 袁立
+- Dan Carlin
+products_models: '[]'
+project:
+- us-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=jevR-LQe9Zc
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入剖析中文世界对美国左右派政治的常见误解，指出美国总体上是一个中间偏右的国家，且两党间存在复杂的制衡与合作。文章澄清了平权措施的真实背景，并强调了信息茧房导致的“垃圾进垃圾出”现象。通过区分政治主流与“可卡因左派/右派”等极端分子，文章呼吁关注艾森豪威尔总统所倡导的中间道路，而非被边缘化的极端声音所迷惑。
+tags:
+- checks-and-balance
+- misinformation-bias
+- political
+- politics
+title: 美国政治的真实光谱：中间偏右的主流与“排水沟”中的极端分子
 ---
 
 ### 美国政治的真实光谱：中间偏右的主流

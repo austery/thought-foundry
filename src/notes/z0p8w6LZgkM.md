@@ -1,27 +1,28 @@
 ---
 author: Lei
 date: 2025-09-16
-guest:
+guest: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=z0p8w6LZgkM
 speaker: 北美王路飞
 tags:
-  - peter-thiel
-  - gawker-media
-  - hulk-hogan
-  - litigation-strategy
+- gawker-media
+- peter-thiel
+- strategy
 title: 硅谷之王的复仇暗战：摔跤手性爱录像背后的千万美元棋局
 summary: 本期深入探讨彼得·蒂尔如何策划一场耗资千万美元、长达五年的秘密诉讼，最终扳倒八卦媒体Gawker。通过摔跤手霍根的性爱录像案，揭示硅谷资本与网络媒体的权力对决及深层人性考验。
-insight:
+insight: null
 file_name: peter_thiel_revenge_venture_capital_project.md
 draft: true
-series:
-category:
-area:
+series: null
+category: null
+area: null
 project: Peter Thiel revenge
 status: evergreen
 created: 2025-09-16T08:55
 updated: 2025-09-16T08:55
+people:
+- hulk-hogan
 ---
 
 ## 复仇即风投：Thiel的诉讼组合策略

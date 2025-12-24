@@ -1,54 +1,54 @@
 ---
-author: EO
+area: tech-insights
+category: technology
+companies_orgs:
+- StrapMines
+- Microsoft
+- Google
+- WhatsApp
+- Roblox
+- Elicit
+- Runway
+- Obo
+- HF Zero
+- Grammarly
+- Meta
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Harry Potter
+people:
+- Summer Kim
+- Jess Hog
+- Jenny Low
+- Aisha Chakmla
+- Anton
+products_models:
+- ChatGPT
+- Perplexity
+- Sora
+- LLMs
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=HmDUWxpPgnI
 speaker: EO
-tags:
-  - ai-product-development
-  - user-experience-ai
-  - generative-ai-primitives
-  - human-ai-interaction
-  - ethical-ai-design
-title: AI产品致胜之道：UX、创新与未来展望
-summary: 本文汇集了100位AI产品领导者的真知灼见，探讨如何打造成功的AI产品。文章强调了用户体验（UX）在AI时代的关键作用，呼吁超越简单的聊天界面，转向结构化、自适应和可混搭的AI交互。演讲者们指出，产品构建应从技术能力而非仅客户需求出发，并强调理解用户提示的重要性。文中的“Spark”项目生动展示了如何通过创造魔法般的体验，将AI与人类的创造力、协作和善意相结合。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Summer Kim
-  - Jess Hog
-  - Jenny Low
-  - Aisha Chakmla
-  - Anton
-companies_orgs:
-  - StrapMines
-  - Microsoft
-  - Google
-  - WhatsApp
-  - Roblox
-  - Elicit
-  - Runway
-  - Obo
-  - HF Zero
-  - Grammarly
-  - Meta
-products_models:
-  - ChatGPT
-  - Perplexity
-  - Sora
-  - LLMs
-media_books:
-  - Harry Potter
 status: evergreen
+summary: 本文汇集了100位AI产品领导者的真知灼见，探讨如何打造成功的AI产品。文章强调了用户体验（UX）在AI时代的关键作用，呼吁超越简单的聊天界面，转向结构化、自适应和可混搭的AI交互。演讲者们指出，产品构建应从技术能力而非仅客户需求出发，并强调理解用户提示的重要性。文中的“Spark”项目生动展示了如何通过创造魔法般的体验，将AI与人类的创造力、协作和善意相结合。
+tags:
+- ai-product-development
+- design
+- experience
+- human-ai-interaction
+- llm
+title: AI产品致胜之道：UX、创新与未来展望
 ---
+
 ### AI产品开发：从能力出发，超越传统UX
 
 人工智能（AI）无疑已经极大地改变了我们构建产品的方式。人们普遍存在着一种“**错失恐惧症**”（FOMO: Fear Of Missing Out: 害怕错过重要事件或趋势的焦虑），我认为这就是一切的开端。

@@ -1,88 +1,88 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs:
+- 宁德时代
+- 摩根士丹利
+- 恩杰股份
+- 天赐材料
+- 腾讯
+- Alibaba
+- ByteDance
+- 中芯国际
+- 台积电
+- 英特尔
+- 京东
+- 思科
+- AMD
+- Nvidia
+- 甲骨文
+- 巴莱克银行
+- xAI
+- OpenAI
+- 特斯拉
+- Microsoft
+- Google
+- Waymo
+- 亚马逊
+- 美国联邦住房金融局
+- 美联储
+- 中国人民银行
+- 证监会
+- 通用汽车
+- 苹果
+- 贝莱德
+- 汇丰
+- Visa
+- SEC
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《华尔街日报》
+- 彭博社
+- 路透社
+people:
+- Wu Qing
+- Jack Ma
+- Cathie Wood
+- Jensen Huang
+- Lisa Su
+- Warren Buffett
+- Elon Musk
+- Duan Yongping
+- Sam Altman
+- Donald Trump
+products_models:
+- 通义千问
+- ChatGPT
+- 豆包
+- H100
+- H200
+- Blackwell GPU
+- 微信小游戏
+- 小程序
+project:
+- china-analysis
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=1jnhSxecmQ8
 speaker: 小翠時政財經
-tags:
-  - ai-investment
-  - geopolitical-economy
-  - housing-policy
-  - market-speculation
-  - corporate-governance
-title: A股、美股、AI与地缘政治：市场深度解析与投资策略
-summary: 本期节目深度解析A股、港股及美股市场动态，涵盖宁德时代、腾讯、阿里、中芯国际、京东等公司财报。重点关注AI产业最新进展，包括思科、AMD、英伟达、甲骨文、xAI和微软的战略布局，并批判性解读“大空头”的AI看空言论。此外，节目还剖析了特朗普的房地产政策、中国央行贷款数据造假、证监会主席吴清辞职等宏观经济与地缘政治事件，并分享投资理念。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - investment-strategy
-people:
-  - Wu Qing
-  - Jack Ma
-  - Cathie Wood
-  - Jensen Huang
-  - Lisa Su
-  - Warren Buffett
-  - Elon Musk
-  - Duan Yongping
-  - Sam Altman
-  - Donald Trump
-companies_orgs:
-  - 宁德时代
-  - 摩根士丹利
-  - 恩杰股份
-  - 天赐材料
-  - 腾讯
-  - 阿里巴巴
-  - 字节跳动
-  - 中芯国际
-  - 台积电
-  - 英特尔
-  - 京东
-  - 思科
-  - AMD
-  - 英伟达
-  - 甲骨文
-  - 巴莱克银行
-  - xAI
-  - OpenAI
-  - 特斯拉
-  - 微软
-  - 谷歌
-  - Waymo
-  - 亚马逊
-  - 美国联邦住房金融局
-  - 美联储
-  - 中国人民银行
-  - 证监会
-  - 通用汽车
-  - 苹果
-  - 贝莱德
-  - 汇丰
-  - Visa
-  - SEC
-products_models:
-  - 通义千问
-  - ChatGPT
-  - 豆包
-  - H100
-  - H200
-  - Blackwell GPU
-  - 微信小游戏
-  - 小程序
-media_books:
-  - 《金融时报》
-  - 《华尔街日报》
-  - 彭博社
-  - 路透社
 status: evergreen
+summary: 本期节目深度解析A股、港股及美股市场动态，涵盖宁德时代、腾讯、阿里、中芯国际、京东等公司财报。重点关注AI产业最新进展，包括思科、AMD、英伟达、甲骨文、xAI和微软的战略布局，并批判性解读“大空头”的AI看空言论。此外，节目还剖析了特朗普的房地产政策、中国央行贷款数据造假、证监会主席吴清辞职等宏观经济与地缘政治事件，并分享投资理念。
+tags:
+- ai-investment
+- corporate-governance
+- geopolitical-economy
+- housing-policy
+- market-speculation
+title: A股、美股、AI与地缘政治：市场深度解析与投资策略
 ---
+
 ### A股市场表现与宁德时代前景分析
 
 截至收盘，**沪指**（上海证券交易所综合股价指数）上涨0.73%，**深成指**（深圳证券交易所成分指数）上涨1.78%，**创业板指**（深圳证券交易所创业板指数）上涨2.55%。板块方面，存储芯片板块全面飙升，锂电池、福建及消费板块亦表现良好。回顾一年前，我对A股在“924新政”后的预判，发现对国家队操盘思路及对A股的调控方向把握得相当准确，尽管在具体点位上不一定精准。

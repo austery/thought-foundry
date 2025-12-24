@@ -1,48 +1,47 @@
 ---
-author: 北美王路飞
+area: market-analysis
+category: finance
+companies_orgs:
+- NVIDIA
+- 联邦航空管理局
+- Meta
+- Google
+- 甲骨文
+- Microsoft
+- AMD
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Lyn Alden
+- Michael Burry
+- Michael Lewis
+- 中本聪
+products_models:
+- ChatGPT
+- H100
+- Blackwell
+- 以太坊
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=3YiWvfPcnKw
 speaker: 北美王路飞
-tags:
-  - two-speed-economy
-  - fiscal-deficit
-  - ai-bubble
-  - hard-assets
-  - liquidity-cycle
-title: 深度解析全球经济的“大撕裂”：双速经济下的泡沫与生存法则
-summary: 本文基于宏观分析师Lyn Alden的观点，深入探讨了当前全球经济呈现的“双速经济”现象，即官方数据显示增长，但民众体感却是停滞。文章剖析了美国经济如何依赖财政赤字和AI/数据中心资本开支维持表面繁荣，而其他多数行业则举步维艰。同时，文中详细分析了AI泡沫的本质、其在物理世界的工程局限性、市场崩溃的潜在信号，以及科技巨头面临的折旧陷阱。最后，文章展望了2026年的流动性拐点，并探讨了比特币和黄金作为硬资产在当前分裂世界中的角色，为普通投资者提供了应对策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Lyn Alden
-  - Michael Burry
-  - Michael Lewis
-  - 中本聪
-companies_orgs:
-  - NVIDIA
-  - 联邦航空管理局
-  - Meta
-  - 谷歌
-  - 甲骨文
-  - 微软
-  - AMD
-products_models:
-  - ChatGPT
-  - H100
-  - Blackwell
-  - 以太坊
-media_books: []
 status: evergreen
+summary: 本文基于宏观分析师Lyn Alden的观点，深入探讨了当前全球经济呈现的“双速经济”现象，即官方数据显示增长，但民众体感却是停滞。文章剖析了美国经济如何依赖财政赤字和AI/数据中心资本开支维持表面繁荣，而其他多数行业则举步维艰。同时，文中详细分析了AI泡沫的本质、其在物理世界的工程局限性、市场崩溃的潜在信号，以及科技巨头面临的折旧陷阱。最后，文章展望了2026年的流动性拐点，并探讨了比特币和黄金作为硬资产在当前分裂世界中的角色，为普通投资者提供了应对策略。
+tags:
+- ai-bubble
+- asset
+- cycle
+- economy
+- financial
+title: 深度解析全球经济的“大撕裂”：双速经济下的泡沫与生存法则
 ---
+
 ### 经济体感与数据背离：双速经济的现实
 
 生活在北美的朋友们或许有这样的感受：即便美股屡创新高，GDP也保持正增长，但身边的朋友们，或是楼下小店的店主，却普遍反映生意难做、工作难找。这便是我们当下的现实——数据在天上飞，体感在地上爬。这种现象令人费解，因为通常经济向好时，大家的日子都会好过；经济变差时，大家也都会受影响。然而，我们现在仿佛生活在两个平行的宇宙中。

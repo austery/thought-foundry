@@ -1,34 +1,33 @@
 ---
-author: Nico投资有道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- TMGM
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Nico
+products_models:
+- 以太坊
+- 比特币
+- 标普指数
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ITxFxM52tos
 speaker: Nico投资有道
-tags:
-  - investment
-  - stock-market
-  - financial-freedom
-title: 投资忠告：普通人如何避免亏损
-summary: 本文讨论了投资市场中普通人容易犯的错误，分析了交易投机、成长投资和价值投资的不同策略，并提供如何找到适合自己投资定位的建议。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Nico
-companies_orgs:
-  - TMGM
-products_models:
-  - 以太坊
-  - 比特币
-  - 标普指数
-media_books: []
 status: evergreen
+summary: 本文讨论了投资市场中普通人容易犯的错误，分析了交易投机、成长投资和价值投资的不同策略，并提供如何找到适合自己投资定位的建议。
+tags:
+- financial-freedom
+- stock-market
+title: 投资忠告：普通人如何避免亏损
 ---
+
 在想明白这个道理之前，普通人一定不要轻易踏入投资市场。这恰恰是**90%以上的人**长期无法赚到钱的最根本原因。
 
 哈喽大家好，我是Nico。欢迎来到《Nico投资有道》。自从去年七月份开始在YouTube做投资入门教程以来，我已经分享了投资观点和心得有一年半的时间。最近我发现了一个严重的问题：在我的视频中，关于投资入门的内容缺少了一环——**每个人进入市场必须学习的第一课。**

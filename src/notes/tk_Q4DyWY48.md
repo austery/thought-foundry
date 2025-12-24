@@ -1,52 +1,52 @@
 ---
-author: Big Think
+area: life-family
+category: parenting
+companies_orgs:
+- Ethics and Public Policy Center
+- University of North Carolina
+- Meta
+- Snapchat
+- Wall Street Journal
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《科技退出：青少年智能手机戒断实用指南》
+- 《好图片，坏图片（少年版）》
+- 《社交陷阱》
+- 《花花公子》
+- 《美国女孩玩偶目录》
+- Pornhub
+people:
+- Claire Morurell
+- Maryann Wolf
+- Victoria Dunley
+products_models:
+- Gab phone
+- Bark phone
+- Wise phone
+- Google Chat
+- Microsoft Excel
+- Google Scholar
+- TikTok
+- Instagram
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=tk_Q4DyWY48
 speaker: Big Think
-tags:
-  - social-media-addiction
-  - child-brain-development
-  - parenting-strategies
-  - digital-detox
-  - policy-advocacy
-title: 社交媒体如何改变青少年大脑：Clare Morell 访谈
-summary: 演讲者Clare Morell深入探讨智能手机和社交媒体对儿童大脑发育、心理健康及社交能力造成的负面影响。她提出“科技退出”理念，鼓励家长通过数字排毒、替代方案和政策倡导来保护孩子，并强调社会各界需共同努力，为青少年创造一个更健康的成长环境。
-insight: ''
-draft: true
-series: ''
-category: parenting
-area: life-family
-project: []
-people:
-  - Claire Morurell
-  - Maryann Wolf
-  - Victoria Dunley
-companies_orgs:
-  - Ethics and Public Policy Center
-  - University of North Carolina
-  - Meta
-  - Snapchat
-  - Wall Street Journal
-products_models:
-  - Gab phone
-  - Bark phone
-  - Wise phone
-  - Google Chat
-  - Microsoft Excel
-  - Google Scholar
-  - TikTok
-  - Instagram
-media_books:
-  - 《科技退出：青少年智能手机戒断实用指南》
-  - 《好图片，坏图片（少年版）》
-  - 《社交陷阱》
-  - 《花花公子》
-  - 《美国女孩玩偶目录》
-  - Pornhub
 status: evergreen
+summary: 演讲者Clare Morell深入探讨智能手机和社交媒体对儿童大脑发育、心理健康及社交能力造成的负面影响。她提出“科技退出”理念，鼓励家长通过数字排毒、替代方案和政策倡导来保护孩子，并强调社会各界需共同努力，为青少年创造一个更健康的成长环境。
+tags:
+- development
+- digital
+- parenting-strategy
+- policy
+- social
+title: 社交媒体如何改变青少年大脑：Clare Morell 访谈
 ---
+
 社交媒体是让孩子们沉迷于智能手机的完美配方，因为它劫持了人类发展的正常部分。数以千计的社交媒体公司工程师，他们的工作就是让社交媒体尽可能地上瘾，因为其盈利模式就是从用户的时间、注意力和数据中获利。所以，用户就是利润。我是**克莱尔·莫雷尔**（Claire Morurell），**伦理与公共政策中心**（Ethics and Public Policy Center）的研究员，我的新书是**《科技退出：青少年智能手机戒断实用指南》**（The Tech Exit: A Practical Guide to Freeing Kids and Teens from Smartphones）。
 
 ### 智能手机对儿童的伤害

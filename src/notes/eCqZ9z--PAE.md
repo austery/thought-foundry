@@ -1,39 +1,38 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2024-08-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nassim Nicholas Taleb
+- Martin Luther King Jr.
+- Malcolm X
+- Hegel
+products_models:
+- 《黑天鹅》
+- 《反脆弱》
+- 《论证与说服50讲》
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=eCqZ9z--PAE
 speaker: 大问题Dialectic
-tags:
-  - online-argumentation
-  - persuasion-strategy
-  - communication-skills
-  - constructive-criticism
-  - rhetoric
-title: 不要成为网络杠精：论证是为了赢，而非赢得争论
-summary: 本文探讨了在论证与说服中，区分“赢得争论”与“真正赢”的重要性。作者批评了互联网上常见的“杠精”现象，指出其本质是情绪宣泄和优越感展示，而非有效沟通。文章随后提出了三条论证基本礼仪：避免术语黑话、提供解决方案而非单纯批评、以及尊重论证对象并视其为自己人，强调论证的目的是影响和团结他人，而非羞辱或树敌。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Nassim Nicholas Taleb
-  - Martin Luther King Jr.
-  - Malcolm X
-  - Hegel
-companies_orgs: []
-products_models:
-  - 《黑天鹅》
-  - 《反脆弱》
-  - 《论证与说服50讲》
-media_books: []
 status: evergreen
+summary: 本文探讨了在论证与说服中，区分“赢得争论”与“真正赢”的重要性。作者批评了互联网上常见的“杠精”现象，指出其本质是情绪宣泄和优越感展示，而非有效沟通。文章随后提出了三条论证基本礼仪：避免术语黑话、提供解决方案而非单纯批评、以及尊重论证对象并视其为自己人，强调论证的目的是影响和团结他人，而非羞辱或树敌。
+tags:
+- communication-skill
+- constructive-criticism
+- online
+- rhetoric
+- strategy
+title: 不要成为网络杠精：论证是为了赢，而非赢得争论
 ---
+
 ### 论证的真正目的：赢得行动而非争论
 
 你好，我是夏栋，欢迎来到《论证与说服50讲》。金融交易员和思想家，同时也是《黑天鹅》和《反脆弱》的作者纳西姆•塔勒布（Nassim Nicholas Taleb）曾说过：“一个真正自由的人从不试图赢得一场争论，他们只追求赢。”然而，反观我们的现实生活，尤其是在当今的互联网上，我们会发现大部分人都只是想赢得争论。

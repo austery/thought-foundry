@@ -1,76 +1,75 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- TCI
+- Aena
+- Heathrow Airport
+- Visa
+- Meta
+- McDonald's
+- Red Eléctrica
+- Pratt & Whitney
+- GE
+- Safran
+- Deutsche Börse
+- Eurex
+- London Stock Exchange
+- LCH Clearnet
+- CME Group
+- Credit Suisse
+- Anglo Irish Bank
+- Bear Stearns
+- Microsoft
+- Zoom
+- Alphabet
+- YouTube
+- Rolls-Royce
+- Moody's
+- ABN AMRO
+- Royal Bank of Scotland
+- Fortis
+- Zodiac Aerospace
+- Bain Capital
+- Wirecard
+- Bronte Capital
+- Financial Times
+- Harvard Business School
 date: '2025-05-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Chris Hohn
+- Nikolai Tangan
+- Warren Buffett
+- Brady Dugan
+- Bill Gates
+- Charlie Munger
+- John
+- Bill Bullinger
+products_models:
+- Microsoft Teams
+project:
+- investment-strategy
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=M01NZc2QlDk
 speaker: Norges Bank Investment Management
-tags:
-  - barriers-to-entry
-  - long-termism
-  - pricing-power
-  - conviction-investing
-  - activist-investing
-title: "传奇投资人 Chris Hohn：探寻投资与人生的终极护城河"
-summary: "TCI 基金创始人、传奇投资人 Chris Hohn 深入剖析了他的投资哲学。他强调，卓越投资的核心并非增长，而是由高准入门槛构成的可持续“护城河”。Hohn 详细阐述了多种护城河类型，如不可替代的实物资产、知识产权、网络效应和客户转换成本。他分享了对长期主义、集中投资和激进主义演变的看法，并坦率地列出了他会避开的“糟糕行业”。最后，他探讨了投资之外的议题，包括企业文化、慈善事业的驱动力以及个人精神追求的重要性。"
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Chris Hohn
-  - Nikolai Tangan
-  - Warren Buffett
-  - Brady Dugan
-  - Bill Gates
-  - Charlie Munger
-  - John
-  - Bill Bullinger
-companies_orgs:
-  - Norges Bank Investment Management
-  - TCI
-  - Aena
-  - Heathrow Airport
-  - Visa
-  - Meta
-  - McDonald's
-  - Red Eléctrica
-  - Pratt & Whitney
-  - GE
-  - Safran
-  - Deutsche Börse
-  - Eurex
-  - London Stock Exchange
-  - LCH Clearnet
-  - CME Group
-  - Credit Suisse
-  - Anglo Irish Bank
-  - Bear Stearns
-  - Microsoft
-  - Zoom
-  - Alphabet
-  - YouTube
-  - Rolls-Royce
-  - Moody's
-  - ABN AMRO
-  - Royal Bank of Scotland
-  - Fortis
-  - Zodiac Aerospace
-  - Bain Capital
-  - Wirecard
-  - Bronte Capital
-  - Financial Times
-  - Harvard Business School
-products_models:
-  - Microsoft Teams
-media_books: []
 status: evergreen
+summary: TCI 基金创始人、传奇投资人 Chris Hohn 深入剖析了他的投资哲学。他强调，卓越投资的核心并非增长，而是由高准入门槛构成的可持续“护城河”。Hohn
+  详细阐述了多种护城河类型，如不可替代的实物资产、知识产权、网络效应和客户转换成本。他分享了对长期主义、集中投资和激进主义演变的看法，并坦率地列出了他会避开的“糟糕行业”。最后，他探讨了投资之外的议题，包括企业文化、慈善事业的驱动力以及个人精神追求的重要性。
+tags:
+- investing
+- long
+- pricing-power
+- technology
+title: 传奇投资人 Chris Hohn：探寻投资与人生的终极护城河
 ---
+
 ### 优质投资的核心：高进入壁垒
 
 大家好，我是尼古拉·坦根（Nikolai Tangan），今天我们请到了一位堪称史上最杰出的投资者之一——克里斯·霍恩（Chris Horn）。他的基金 TCI 不仅是欧洲有史以来最优秀、最成功的基金之一，其同名慈善机构如今也位列全球规模最大的慈善组织之林。克里斯，你持续地为世界带来巨大的积极影响，感谢你的到来。

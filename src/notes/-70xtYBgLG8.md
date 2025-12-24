@@ -1,63 +1,63 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- DoorDash
+- Norges Bank Investment Management
+- Stanford
+- Y Combinator
+- McKinsey
+- eBay
+- Square
+- Meta
+- Wol
 date: '2024-03-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Who's the Boss
+people:
+- Tony Xu
+- Tony Danza
+- Christopher Payne
+- Prabir Adarkar
+- Andrew
+- Sam Altman
+- Paul Graham
+- Jessica Livingston
+- Gary Tan
+- Miki Kuusi
+products_models:
+- Nintendo
+- Duck Hunt
+- Microsoft Excel
+- PowerPoint
+- iPhone
+- Google Voice
+- Find My Friends
+- Facebook
+- Instagram
+- WhatsApp
+- Reality Labs
+project:
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=-70xtYBgLG8
 speaker: Norges Bank Investment Management
-tags:
-  - entrepreneurship
-  - startup-growth
-  - delivery-logistics
-  - company-culture
-  - personal-development
-title: DoorDash CEO徐迅达：从美国梦到全球配送巨头，一位创业者的成长与思考
-summary: DoorDash首席执行官徐迅达分享了他的个人成长、创业历程以及对公司文化、人才发展和未来技术的深刻见解。他讲述了从中国移民美国、通过努力学习和工作进入斯坦福，最终创立并带领DoorDash成为全球领先的食品配送公司的故事。徐迅达强调了独立思考、团队协作、行动偏好以及在数字与物理世界中不断创新的重要性，并分享了他对年轻一代的建议。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Tony Xu
-  - Tony Danza
-  - Christopher Payne
-  - Prabir Adarkar
-  - Andrew
-  - Sam Altman
-  - Paul Graham
-  - Jessica Livingston
-  - Gary Tan
-  - Miki Kuusi
-companies_orgs:
-  - DoorDash
-  - Norges Bank Investment Management
-  - Stanford
-  - Y Combinator
-  - McKinsey
-  - eBay
-  - Square
-  - Meta
-  - Wol
-products_models:
-  - Nintendo
-  - Duck Hunt
-  - Microsoft Excel
-  - PowerPoint
-  - iPhone
-  - Google Voice
-  - Find My Friends
-  - Facebook
-  - Instagram
-  - WhatsApp
-  - Reality Labs
-media_books:
-  - Who's the Boss
 status: evergreen
+summary: DoorDash首席执行官徐迅达分享了他的个人成长、创业历程以及对公司文化、人才发展和未来技术的深刻见解。他讲述了从中国移民美国、通过努力学习和工作进入斯坦福，最终创立并带领DoorDash成为全球领先的食品配送公司的故事。徐迅达强调了独立思考、团队协作、行动偏好以及在数字与物理世界中不断创新的重要性，并分享了他对年轻一代的建议。
+tags:
+- business
+- culture
+- entrepreneurship
+- personal-development
+- startup-growth
+title: DoorDash CEO徐迅达：从美国梦到全球配送巨头，一位创业者的成长与思考
 ---
+
 ### 美国梦的缩影：一位创业者的非凡旅程
 
 今天，我与**DoorDash**（DoorDash: 美国最大的第三方外卖平台）的首席执行官徐迅达（Tony Xu）坐在一起。他的人生经历非常令人惊叹：年幼时从中国来到美国，努力工作，做过各种各样的工作，最终考入**斯坦福**（Stanford: 位于美国加利福尼亚州的私立研究型大学），创立了这家令人难以置信的公司，如今它已成为美国最大的食品配送公司，并即将征服世界，创造了数十亿美元的财富，其中大部分用于慈善事业。可以说，我正坐在一个活生生的“**美国梦**”（American Dream: 指通过努力工作、勇气和决心，在美国取得成功和繁荣的信念）面前。

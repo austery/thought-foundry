@@ -1,36 +1,34 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2024-09-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 夏栋
+- 王思聪
+- 鲁迅
+- 周作人
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=3A6YmG3_J2c
 speaker: 大问题Dialectic
-tags:
-  - logic-introduction
-  - argumentation-structure
-  - validity-reliability
-  - deductive-reasoning
-  - critical-thinking
-title: 逻辑学导论：论证的三要件、有效性与可靠性
-summary: 本讲深入探讨论证与说服的核心内功——逻辑学。文章详细阐述了论证的三个基本要件：前提、结论和推理过程。通过区分简单论证与复杂论证，并引入“论证高度”的概念，揭示了构建复杂推理的机制。核心内容聚焦于如何判断一个论证的质量，即其“有效性”（推理规则的正确性）和“可靠性”（推理规则正确且前提真实），并提供了三步评估法及具体案例分析，旨在帮助读者清晰地理解和构建符合逻辑的论证。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - 夏栋
-  - 王思聪
-  - 鲁迅
-  - 周作人
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本讲深入探讨论证与说服的核心内功——逻辑学。文章详细阐述了论证的三个基本要件：前提、结论和推理过程。通过区分简单论证与复杂论证，并引入“论证高度”的概念，揭示了构建复杂推理的机制。核心内容聚焦于如何判断一个论证的质量，即其“有效性”（推理规则的正确性）和“可靠性”（推理规则正确且前提真实），并提供了三步评估法及具体案例分析，旨在帮助读者清晰地理解和构建符合逻辑的论证。
+tags:
+- critical-thinking
+- philosophy
+- society
+- validity-reliability
+title: 逻辑学导论：论证的三要件、有效性与可靠性
 ---
+
 ### 论证与说服的内功心法：逻辑学
 
 你好，我是夏栋，欢迎来到《论证与说服50讲》。从今天这一讲开始，我们将深入探讨论证与说服这门功夫的“内功心法”修炼，即确保你的论证符合逻辑，是讲得通道理的。逻辑学是一门放诸四海而皆准的学问。

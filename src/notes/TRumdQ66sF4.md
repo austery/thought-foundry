@@ -1,45 +1,45 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Schroders
+- Norges Bank Investment Management
 date: '2024-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Longevity Imperative
+- The Anxious Generation
+- Ravenous
+- AI Supremacy
+- Right Kind of Wrong
+people:
+- Peter Harrison
+- Jonathan Haidt
+- Amy Edmondson
+- Boris Johnson
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=TRumdQ66sF4
 speaker: Norges Bank Investment Management
-tags:
-  - investment-management
-  - asset-management
-  - private-markets
-  - capital-markets
-  - ai-impact
-  - esg-investing
-title: Peter Harrison：施罗德200年基业长青的秘诀、资管行业巨变与AI未来
-summary: 施罗德首席执行官Peter Harrison分享了公司近200年成功的秘诀：坚定的家族所有权和持续变革的能力。他深入探讨了资产管理行业的重大变革，包括被动管理和私募市场的崛起、费用的下降以及治理和气候议程的革命。Harrison还分析了英美资本市场的差异、英国脱欧的影响，并强调了人工智能将如何颠覆财富管理和投资决策。最后，他分享了关于团队建设、领导力以及对ESG和地缘政治摩擦的看法，并推荐了几本关于社会和商业的优秀书籍。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - geopolitics-watch
-people:
-  - Peter Harrison
-  - Jonathan Haidt
-  - Amy Edmondson
-  - Boris Johnson
-companies_orgs:
-  - Schroders
-  - Norges Bank Investment Management
-products_models: []
-media_books:
-  - The Longevity Imperative
-  - The Anxious Generation
-  - Ravenous
-  - AI Supremacy
-  - Right Kind of Wrong
 status: evergreen
+summary: 施罗德首席执行官Peter Harrison分享了公司近200年成功的秘诀：坚定的家族所有权和持续变革的能力。他深入探讨了资产管理行业的重大变革，包括被动管理和私募市场的崛起、费用的下降以及治理和气候议程的革命。Harrison还分析了英美资本市场的差异、英国脱欧的影响，并强调了人工智能将如何颠覆财富管理和投资决策。最后，他分享了关于团队建设、领导力以及对ESG和地缘政治摩擦的看法，并推荐了几本关于社会和商业的优秀书籍。
+tags:
+- ai-impact
+- asset-management
+- capital-market
+- investing
+- investment
+- market
+title: Peter Harrison：施罗德200年基业长青的秘诀、资管行业巨变与AI未来
 ---
+
 ### 施罗德的基业长青之道
 
 今天我们非常荣幸邀请到Peter Harrison来到节目中，Peter是**施罗德**（Schroders: 欧洲最大的资产管理公司之一）的首席执行官。

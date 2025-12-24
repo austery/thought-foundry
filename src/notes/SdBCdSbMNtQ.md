@@ -1,34 +1,33 @@
 ---
-title: 美加楼市深度剖析：川普、美联储独立性与移民政策如何塑造房价未来
-summary: 本期深入分析美加楼市现状与未来趋势。探讨川普与美联储独立性争议，以及移民政策对加拿大房价的关键影响，并对比两国房价增速与消费者信贷健康状况。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- canada-housing-market
-- economic-outlook
-- fed-independence
-- immigration-policy
-- us-housing-market
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-08-27'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=SdBCdSbMNtQ
+speaker: 投资TALK君
 status: evergreen
+summary: 本期深入分析美加楼市现状与未来趋势。探讨川普与美联储独立性争议，以及移民政策对加拿大房价的关键影响，并对比两国房价增速与消费者信贷健康状况。
+tags:
+- canada-housing-market
+- economic-outlook
+- financial
+- immigration-policy
+- us-housing-market
+title: 美加楼市深度剖析：川普、美联储独立性与移民政策如何塑造房价未来
 ---
+
 ### 市场概览与银行板块表现
 
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且即使上期视频点赞量明显下滑情况下，还要为大家做日更的专业美股频道。我是市场分析员小涛。这样的开场白是不是暗示得有点明显了？没有关系，即使点赞量和留言量下降，我还是会为大家做日更，起码把这个班值到我回国之前。

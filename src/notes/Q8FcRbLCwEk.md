@@ -1,51 +1,50 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: finance
+companies_orgs:
+- Federal Housing Finance Agency
+- Federal Housing Administration
+- Fannie Mae
+- Freddie Mac
+- Politico
+- CBS
+- NAHB
+- AP
+- Financial Times
+- Fox News
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Bill Pulte
+- Ben Castleman
+- Alan Greenspan
+- Stewart Lee
+products_models:
+- Gamma
+- PowerPoint
+- Dodd-Frank Act
+- Help to Buy scheme
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Q8FcRbLCwEk
 speaker: Patrick Boyle
-tags:
-  - 50-year-mortgage
-  - housing-affordability
-  - housing-supply
-  - mortgage-risk
-  - equity-building
-title: 特朗普的50年抵押贷款计划：你必须了解的真相
-summary: 特朗普提出50年抵押贷款计划，旨在降低月供以帮助美国人购房。然而，本文深入分析指出，这一看似简单的方案实则弊大于利。延长贷款期限不仅会增加借款人支付的利息总额，大幅削弱房屋净值积累，还可能推高房价，并带来巨大的立法和金融风险。文章回顾了30年期抵押贷款的历史，并警告美国不应重蹈日本等国超长期贷款的覆辙。真正的解决方案在于增加住房供应，而非金融工程。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Donald Trump
-  - Bill Pulte
-  - Ben Castleman
-  - Alan Greenspan
-  - Stewart Lee
-companies_orgs:
-  - Federal Housing Finance Agency
-  - Federal Housing Administration
-  - Fannie Mae
-  - Freddie Mac
-  - Politico
-  - CBS
-  - NAHB
-  - AP
-  - Financial Times
-  - Fox News
-products_models:
-  - Gamma
-  - PowerPoint
-  - Dodd-Frank Act
-  - Help to Buy scheme
-media_books: []
 status: evergreen
+summary: 特朗普提出50年抵押贷款计划，旨在降低月供以帮助美国人购房。然而，本文深入分析指出，这一看似简单的方案实则弊大于利。延长贷款期限不仅会增加借款人支付的利息总额，大幅削弱房屋净值积累，还可能推高房价，并带来巨大的立法和金融风险。文章回顾了30年期抵押贷款的历史，并警告美国不应重蹈日本等国超长期贷款的覆辙。真正的解决方案在于增加住房供应，而非金融工程。
+tags:
+- geopolitical
+- history
+- housing-affordability
+- investment
+- risk
+title: 特朗普的50年抵押贷款计划：你必须了解的真相
 ---
+
 ### 特朗普的50年抵押贷款提议及其潜在风险
 
 上周末，特朗普总统在推特上提出了设立**50年抵押贷款**（50-year mortgage: 一种将还款期限延长至50年的住房贷款）的想法，以此帮助那些希望购房的美国人降低月供。

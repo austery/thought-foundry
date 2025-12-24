@@ -1,34 +1,31 @@
 ---
-author: 莊也雜談
+area: life-family
+category: health-wellness
+companies_orgs:
+- Ontario Health atHome
+- VHA Home HealthCare
+- AHS
+- CILT
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=79YUs8-_ew0
 speaker: 莊也雜談
-tags:
-  - senior-care
-  - home-care
-  - government-benefits
-  - retirement-planning
-  - canada
-title: 加拿大居家养老：安省、BC省、阿省政府居家护理福利详解
-summary: 本期节目深入探讨加拿大居家养老的政府福利，以安省为例，详细介绍了居家护理的申请流程、评估标准、服务内容及费用。同时，对比了BC省和阿尔伯塔省的居家护理政策差异，并提供了最大限度利用社会资源、减轻护理压力的实用建议，包括反向贷款、保姆移民、抱团养老及政府补贴项目。
-insight: ''
-draft: true
-series: ''
-category: health-wellness
-area: life-family
-project: []
-people: []
-companies_orgs:
-  - Ontario Health atHome
-  - VHA Home HealthCare
-  - AHS
-  - CILT
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨加拿大居家养老的政府福利，以安省为例，详细介绍了居家护理的申请流程、评估标准、服务内容及费用。同时，对比了BC省和阿尔伯塔省的居家护理政策差异，并提供了最大限度利用社会资源、减轻护理压力的实用建议，包括反向贷款、保姆移民、抱团养老及政府补贴项目。
+tags:
+- canada
+- care
+- government
+- retirement-planning
+title: 加拿大居家养老：安省、BC省、阿省政府居家护理福利详解
 ---
+
 哈喽，大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们还是讲退休话题。上期咱们讲了退休规划和住房准备，以及如何申请老年的廉租房。今天咱们继续讲第二部分，就是跟居家护理相关的话题。对于居家养老的老人来说，随着年岁增长，身体可能会在某些方面出现问题，比如说突然发生一个小中风，导致身体部分功能丧失，但并未全瘫，可能需要轮椅或者是助步器；或者出现了一些老年痴呆的早期症状，但还不严重；或者是摔了一跤受了轻伤，需要卧床休息一段时间等等。
 
 ### 居家护理申请条件

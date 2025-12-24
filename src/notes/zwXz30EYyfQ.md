@@ -1,48 +1,49 @@
 ---
-author: EO
+area: tech-insights
+category: science
+companies_orgs:
+- Radical AI
+- Ali Corp
+- US National Guard
+- Army Research Lab
+- Rice University
+- Google
+- Lawrence Berkeley National Lab
+- SpaceX
+- Doubleclick
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- novel-discovery
+people:
+- Joseph Krauss
+- Kevin Ryan
+- Jorge
+- Herd Cedar
+products_models:
+- AlphaGo
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=zwXz30EYyfQ
 speaker: EO
-tags:
-  - ai-for-science
-  - novel-discovery
-  - materials-science
-  - scientific-process-reinvention
-  - bias-to-action
-  - startup-culture
-title: Radical AI：用AI重塑科学发现，告别低垂果实
-summary: Radical AI的联合创始人兼CEO Joseph Krauss分享了公司利用人工通用智能（AGI）推动科学发现的愿景。他强调，AI不应只解决小问题，而应专注于颠覆性的新颖发现，尤其是在耗时漫长的材料科学领域。Krauss还讲述了自己从军旅生涯到创业的经历，以及Radical AI如何通过独特的使命驱动文化和“51%决策法则”来加速创新，旨在从根本上重塑人类发展轨迹。
-insight: ''
-draft: true
-series: ''
-category: science
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Joseph Krauss
-  - Kevin Ryan
-  - Jorge
-  - Herd Cedar
-companies_orgs:
-  - Radical AI
-  - Ali Corp
-  - US National Guard
-  - Army Research Lab
-  - Rice University
-  - Google
-  - Lawrence Berkeley National Lab
-  - SpaceX
-  - Doubleclick
-products_models:
-  - AlphaGo
-media_books: []
 status: evergreen
+summary: Radical AI的联合创始人兼CEO Joseph Krauss分享了公司利用人工通用智能（AGI）推动科学发现的愿景。他强调，AI不应只解决小问题，而应专注于颠覆性的新颖发现，尤其是在耗时漫长的材料科学领域。Krauss还讲述了自己从军旅生涯到创业的经历，以及Radical
+  AI如何通过独特的使命驱动文化和“51%决策法则”来加速创新，旨在从根本上重塑人类发展轨迹。
+tags:
+- bias
+- materials-science
+- science
+- scientific
+- startup-culture
+title: Radical AI：用AI重塑科学发现，告别低垂果实
 ---
+
 ### AI的真正潜力：追求新颖发现
 
 人工智能（AI: Artificial Intelligence）如此不可思议，这项技术将改变世界。我不明白的是，为什么每个人都在摘取低垂的果实，解决一些小问题。

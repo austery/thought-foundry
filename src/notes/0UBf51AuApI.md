@@ -1,31 +1,29 @@
 ---
-author: 一席YiXi
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 新华网
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=0UBf51AuApI
 speaker: 一席YiXi
-tags:
-  - agriculture
-  - rural-china
-  - farmer-income
-  - land-policy
-title: 遇真纪事：中国农民的土地与收入真相
-summary: 本片记录了中国传统农业向现代农业过渡时期，农民的土地承包、收入困境与时代变迁。通过深入田野的调查，揭示了粮食与经济作物种植的微薄收益，个体农户在产业链中的弱势地位，以及农民作为国家发展基石的历史贡献与当下养老困境。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people: []
-companies_orgs:
-  - 新华网
-products_models: []
-media_books: []
 status: evergreen
+summary: 本片记录了中国传统农业向现代农业过渡时期，农民的土地承包、收入困境与时代变迁。通过深入田野的调查，揭示了粮食与经济作物种植的微薄收益，个体农户在产业链中的弱势地位，以及农民作为国家发展基石的历史贡献与当下养老困境。
+tags:
+- china
+- income
+- policy
+- society
+title: 遇真纪事：中国农民的土地与收入真相
 ---
+
 ### 时代交接的农民
 
 我们意识到当下2025年，正是传统农业向现代农业过渡的时代。而我们这些年所记录的，恰恰就是时代的交接处。那么，时代交接处的土地、农民还有农作物，现在都是一种什么样的状态呢？

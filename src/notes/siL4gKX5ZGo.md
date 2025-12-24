@@ -1,53 +1,53 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- JPMorgan Chase
+- Bank of America
+- Goldman Sachs
+- Apple
+- GE
+- Netflix
+- GE HealthCare
+- Tesla
+- IBM
+- American Airlines
+- Honeywell
+- Dow Inc.
+- Intel
+- Bloomberg
+- Federal Reserve
+- Futu Moomoo
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Morningstar
+people:
+- Donald Trump
+- Xi Jinping
+- Javier Milei
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=siL4gKX5ZGo
 speaker: 投资TALK君
-tags:
-  - us-china-trade
-  - cpi-inflation
-  - corporate-earnings
-  - apple-stock
-  - market-sentiment
-title: 苹果创新高与地缘博弈：美股市场、通胀及财报深度分析
-summary: 本期节目深入分析了周一美股市场的反弹态势，VIX恐慌指数的投资信号，以及黄金和原油的走势。主持人详细解读了特朗普可能对华实施关税的最新进展及其对APEC会议的影响，同时探讨了阿根廷向美国寻求美元援助的背后逻辑，揭示了非美地区对美元的依赖。此外，节目还分享了苹果股价创历史新高的投资心得，总结了第三季度财报季的初步表现，并展望了本周即将发布的重磅公司财报和关键CPI数据，为投资者提供了全面的市场洞察和策略建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Javier Milei
-companies_orgs:
-  - JPMorgan Chase
-  - Bank of America
-  - Goldman Sachs
-  - Apple
-  - GE
-  - Netflix
-  - GE HealthCare
-  - Tesla
-  - IBM
-  - American Airlines
-  - Honeywell
-  - Dow Inc.
-  - Intel
-  - Bloomberg
-  - Federal Reserve
-  - Futu Moomoo
-products_models: []
-media_books:
-  - Morningstar
 status: evergreen
+summary: 本期节目深入分析了周一美股市场的反弹态势，VIX恐慌指数的投资信号，以及黄金和原油的走势。主持人详细解读了特朗普可能对华实施关税的最新进展及其对APEC会议的影响，同时探讨了阿根廷向美国寻求美元援助的背后逻辑，揭示了非美地区对美元的依赖。此外，节目还分享了苹果股价创历史新高的投资心得，总结了第三季度财报季的初步表现，并展望了本周即将发布的重磅公司财报和关键CPI数据，为投资者提供了全面的市场洞察和策略建议。
+tags:
+- corporate-earning
+- cpi-inflation
+- market-sentiment
+- stock
+- us-china-relations
+title: 苹果创新高与地缘博弈：美股市场、通胀及财报深度分析
 ---
+
 ### 周一市场概览与投资信号
 
 各位观众大家好，欢迎来到专业美股频道。我是市场风选小唐。今天我们将直接开始，分享一些最新的市场动态和个人看法。

@@ -1,42 +1,41 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Jellyfish
+- GitHub
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicholas Arcolano
+products_models:
+- Copilot
+- Cursor
+- Claude Code
+- Devon
+- Codeex
+- Linear
+- Jira
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=WqZq8L-v9pA
 speaker: AI Engineer
-tags:
-  - ai-adoption
-  - developer-productivity
-  - code-architecture
-  - pull-requests
-  - software-development
-title: 2000万次拉取请求数据揭示：AI转型如何影响软件开发生产力与代码架构
-summary: 这篇文章基于对2000万次拉取请求数据的分析，深入探讨了AI在软件开发转型中的实际影响。研究发现，交互式AI编码工具的采用率已接近90%，显著提升了拉取请求吞吐量和缩短了开发周期。然而，自主编码代理的普及率仍较低。文章还揭示了代码架构对AI生产力增益的关键影响，指出集中式架构能实现4倍的生产力提升，而高度分布式架构则效果不佳，强调了上下文工程的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Nicholas Arcolano
-companies_orgs:
-  - Jellyfish
-  - GitHub
-products_models:
-  - Copilot
-  - Cursor
-  - Claude Code
-  - Devon
-  - Codeex
-  - Linear
-  - Jira
-media_books: []
 status: evergreen
+summary: 这篇文章基于对2000万次拉取请求数据的分析，深入探讨了AI在软件开发转型中的实际影响。研究发现，交互式AI编码工具的采用率已接近90%，显著提升了拉取请求吞吐量和缩短了开发周期。然而，自主编码代理的普及率仍较低。文章还揭示了代码架构对AI生产力增益的关键影响，指出集中式架构能实现4倍的生产力提升，而高度分布式架构则效果不佳，强调了上下文工程的重要性。
+tags:
+- ai-adoption
+- code
+- developer-productivity
+- pull-request
+- software-development
+title: 2000万次拉取请求数据揭示：AI转型如何影响软件开发生产力与代码架构
 ---
+
 ### AI转型中的关键问题与数据驱动的洞察
 
 大家好，我叫尼古拉斯·阿科拉诺，是Jellyfish的研究主管。

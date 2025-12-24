@@ -1,37 +1,35 @@
 ---
-author: Veritasium
-date: '2020-10-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XRr1kaXKBsU
-speaker: Veritasium
-tags:
-  - veritasium
-  - general-relativity
-  - gravity
-  - spacetime-curvature
-  - equivalence-principle
-  - inertial-frames
-title: 爱因斯坦的引力错觉：广义相对论如何颠覆我们对重力的理解
-summary: 本视频深入探讨了爱因斯坦的广义相对论，揭示了引力并非一种力，而是一种由弯曲时空产生的“错觉”。通过等效原理，视频解释了自由落体与深空中的惯性运动是等价的。文章还探讨了弯曲时空如何解释物体运动，并介绍了爱丁顿的日食实验等广义相对论的验证，以及一个尚未实现的辐射电荷实验，挑战了我们对引力本质的传统认知。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Albert Einstein
-  - Arthur Eddington
+category: science
 companies_orgs:
-  - Lutron
+- Lutron
+date: '2020-10-09'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Albert Einstein
+- Arthur Eddington
 products_models:
-  - Caseta
-media_books: []
+- Caseta
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=XRr1kaXKBsU
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了爱因斯坦的广义相对论，揭示了引力并非一种力，而是一种由弯曲时空产生的“错觉”。通过等效原理，视频解释了自由落体与深空中的惯性运动是等价的。文章还探讨了弯曲时空如何解释物体运动，并介绍了爱丁顿的日食实验等广义相对论的验证，以及一个尚未实现的辐射电荷实验，挑战了我们对引力本质的传统认知。
+tags:
+- general-relativity
+- inertial-frame
+- principle
+- science
+- technology
+title: 爱因斯坦的引力错觉：广义相对论如何颠覆我们对重力的理解
 ---
+
 ### 引力并非一种力：广义相对论的视角
 
 根据**广义相对论**（General Theory of Relativity: 爱因斯坦提出的关于引力本质的理论），引力并非一种力。根本没有**引力场**（Gravitational Fields: 描述引力作用的物理场），引力只是一种错觉。在这个视频中，我将通过发射到外太空来向你证明这一点。

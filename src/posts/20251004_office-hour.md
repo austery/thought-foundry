@@ -1,22 +1,20 @@
 ---
-title: 20251004 office hour小白專場 開放問答
-source: https://www.youtube.com/watch?v=aJs-8slesUA
-speaker: 用AI發電
-author:
+area: tech-engineering
+author: null
+category: ai-ml
 date: 2025-10-04
-published:
-summary: 欢迎来到本次的“小白专场”开放问答实战手册。这是一场关于如何将AI深度融入从编码、调试到产品构思、市场推广全流程的思维风暴。在本手册中，我们将跟随社区成员的真实问题，提炼出那些能够被反复使用的核心“心法”与“战术”。无论你是正在与AI Agent搏斗的开发者，还是探索产品化路径的创业者，这份手册都将为你提供宝贵的、可立即上手的行动指南。
-tags:
-  - ai-coding
-status: inbox
-area: tech-insights
-category: technology
+layout: post.njk
 project:
 - ai-impact-analysis
-layout: post.njk
+published: null
+source: https://www.youtube.com/watch?v=aJs-8slesUA
+speaker: 用AI發電
+status: inbox
+summary: 欢迎来到本次的“小白专场”开放问答实战手册。这是一场关于如何将AI深度融入从编码、调试到产品构思、市场推广全流程的思维风暴。在本手册中，我们将跟随社区成员的真实问题，提炼出那些能够被反复使用的核心“心法”与“战术”。无论你是正在与AI
+  Agent搏斗的开发者，还是探索产品化路径的创业者，这份手册都将为你提供宝贵的、可立即上手的行动指南。
+tags: []
+title: 20251004 office hour小白專場 開放問答
 ---
-
-  
 
 ### 第一部分：核心理念 — AI时代下的个体生存法则
 

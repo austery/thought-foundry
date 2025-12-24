@@ -1,47 +1,46 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Institute for Canadian Citizenship
+- University of Waterloo
+- LM Law Group
+- TVO Today
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jan
+- Daniel Burnernhard
+- Sangita Patel
+- Muel Scooter
+- Elizabeth Long
+- Pierre Polyv
+- David Eie
+- Alina Dyap
+products_models:
+- Canoe Pass
+- International Mobility Program
+- Global Talent Stream
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=0Gxe8WQI1z0
 speaker: TVO Today
-tags:
-  - temporary-foreign-worker-program
-  - immigrant-retention
-  - youth-unemployment
-  - canadian-immigration-policy
-  - labor-market-dynamics
-title: 加拿大是否应废除临时外国劳工计划？
-summary: 本期节目探讨了加拿大临时外国劳工计划（TFWP）的争议，包括其对青年失业率的影响以及各方对其改革或废除的呼吁。加拿大公民研究所的报告指出，未来乐观情绪和归属感是移民留加的关键因素。专家们深入分析了TFWP的历史、运作机制及其与国际流动计划（IMP）的区别，并就如何优化移民政策以留住人才、促进经济增长提出了具体建议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Jan
-  - Daniel Burnernhard
-  - Sangita Patel
-  - Muel Scooter
-  - Elizabeth Long
-  - Pierre Polyv
-  - David Eie
-  - Alina Dyap
-companies_orgs:
-  - Institute for Canadian Citizenship
-  - University of Waterloo
-  - LM Law Group
-  - TVO Today
-products_models:
-  - Canoe Pass
-  - International Mobility Program
-  - Global Talent Stream
-media_books: []
 status: evergreen
+summary: 本期节目探讨了加拿大临时外国劳工计划（TFWP）的争议，包括其对青年失业率的影响以及各方对其改革或废除的呼吁。加拿大公民研究所的报告指出，未来乐观情绪和归属感是移民留加的关键因素。专家们深入分析了TFWP的历史、运作机制及其与国际流动计划（IMP）的区别，并就如何优化移民政策以留住人才、促进经济增长提出了具体建议。
+tags:
+- canadian-immigration-policy
+- geopolitical
+- immigrant-retention
+- labor-market-dynamic
+- youth-unemployment
+title: 加拿大是否应废除临时外国劳工计划？
 ---
+
 ### 节目介绍：加拿大移民政策的挑战
 
 Jan: 大家好，我是简。你们可能已经注意到我此刻不在演播室里。

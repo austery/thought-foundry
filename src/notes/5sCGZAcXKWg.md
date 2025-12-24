@@ -1,75 +1,75 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: career
+companies_orgs:
+- ABC
+- Netflix
+- JPMorgan Chase
+- DraftKings
+- Fabletics
+- C4 Energy
+- Heartbeat Ventures
+- Snapchat
+- Function Health
+- ElevenLabs
+- MoonPay
+- Young Labs
+- Sweat Pals
+- Radiant
+- Noranics
+- Paltown
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+- Think Like a Man
+- Ride Along
+- Central Intelligence
+- Friday After Next
+- Shaq's All-Star Comedy Jam
+- Seriously Funny
+- Acting My Age
+people:
+- Kevin Hart
+- Henry Witherspoon
+- Nancy Hart
+- Chris Rock
+- Eddie Murphy
+- Cat Williams
+- Will Packer
+- Ice Cube
+- Dwayne Johnson
+- Steve Harvey
+- Shaquille O'Neal
+- Tommy Davidson
+- Scooter Braun
+- Evan Spiegel
+- Michael Rubin
+- Jay-Z
+products_models:
+- Gran Coramino Tequila
+- Ace of Spades
+project:
+- personal-growth-lab
+- entrepreneurship
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5sCGZAcXKWg
 speaker: The Diary Of A CEO
-tags:
-  - persistence
-  - lifelong-learning
-  - career-development
-  - failure-as-feedback
-  - mindset
-title: 凯文·哈特深度访谈：成功没有捷径，唯有13年的坚持与无畏提问
-summary: 著名喜剧演员兼企业家凯文·哈特分享了他从费城街头走向全球舞台的非凡历程。他揭示了母亲“永不放弃”的教诲如何塑造了他，并详细描述了长达13年在喜剧界的艰苦奋斗。哈特强调，真正的成长源于敢于承认自己的无知，并不断提问。这篇访谈深入探讨了他关于职业发展、拥抱失败、从艺人到投资者的转型，以及在压力与家庭之间寻求平衡的独特见解，为所有追求卓越的人提供了宝贵的经验。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-  - historical-insights
-people:
-  - Kevin Hart
-  - Henry Witherspoon
-  - Nancy Hart
-  - Chris Rock
-  - Eddie Murphy
-  - Cat Williams
-  - Will Packer
-  - Ice Cube
-  - Dwayne Johnson
-  - Steve Harvey
-  - Shaquille O'Neal
-  - Tommy Davidson
-  - Scooter Braun
-  - Evan Spiegel
-  - Michael Rubin
-  - Jay-Z
-companies_orgs:
-  - ABC
-  - Netflix
-  - JPMorgan Chase
-  - DraftKings
-  - Fabletics
-  - C4 Energy
-  - Heartbeat Ventures
-  - Snapchat
-  - Function Health
-  - ElevenLabs
-  - MoonPay
-  - Young Labs
-  - Sweat Pals
-  - Radiant
-  - Noranics
-  - Paltown
-products_models:
-  - Gran Coramino Tequila
-  - Ace of Spades
-media_books:
-  - The Diary Of A CEO
-  - Think Like a Man
-  - Ride Along
-  - Central Intelligence
-  - Friday After Next
-  - Shaq's All-Star Comedy Jam
-  - Seriously Funny
-  - Acting My Age
 status: evergreen
+summary: 著名喜剧演员兼企业家凯文·哈特分享了他从费城街头走向全球舞台的非凡历程。他揭示了母亲“永不放弃”的教诲如何塑造了他，并详细描述了长达13年在喜剧界的艰苦奋斗。哈特强调，真正的成长源于敢于承认自己的无知，并不断提问。这篇访谈深入探讨了他关于职业发展、拥抱失败、从艺人到投资者的转型，以及在压力与家庭之间寻求平衡的独特见解，为所有追求卓越的人提供了宝贵的经验。
+tags:
+- career-development
+- failure
+- lifelong-learning
+- mindset
+- persistence
+title: 凯文·哈特深度访谈：成功没有捷径，唯有13年的坚持与无畏提问
 ---
+
 ### 承认无知：开启成长的大门
 
 你不能害怕说出自己的无知，那会阻碍你前进。

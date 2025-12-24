@@ -1,32 +1,29 @@
 ---
-title: 美元数字化的新路径：稳定币如何助力美国“弯道超车”对抗数字人民币
-summary: 面对数字人民币的崛起，美国正探索一条独特的美元数字化道路。本文深入探讨了稳定币的定义、优势及其在美国金融战略中的关键作用，分析其如何通过私营创新和现有体系维护，成为美元对抗数字人民币、巩固国际地位的潜在武器。
 area: market-analysis
 category: geopolitics
-project:
-  - china-analysis
-  - investment-strategy
-  - us-analysis
-tags:
-  - cbdc
-  - digital-dollar
-  - financial-innovation
-  - us-china-competition
-people: []
 companies_orgs: []
-products_models:
-  - stablecoin
-media_books: []
 date: '2023-06-30'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- stablecoin
+project:
+- china-analysis
+- investment-strategy
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=QsDSlshyR_M
+speaker: 一口新飯
 status: evergreen
+summary: 面对数字人民币的崛起，美国正探索一条独特的美元数字化道路。本文深入探讨了稳定币的定义、优势及其在美国金融战略中的关键作用，分析其如何通过私营创新和现有体系维护，成为美元对抗数字人民币、巩固国际地位的潜在武器。
+tags:
+- cbdc
+- digital
+- financial-innovation
+- us-china-relations
+title: 美元数字化的新路径：稳定币如何助力美国“弯道超车”对抗数字人民币
 ---
 
 ### 数字货币浪潮下的美元策略

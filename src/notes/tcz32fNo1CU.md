@@ -1,38 +1,38 @@
 ---
-author: 安争鸣（Stella An）
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《战争的底层逻辑》
+- Why Don’t We Learn from History?
+people:
+- B. H. Liddell Hart
+- Napoleon
+- Hitler
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=tcz32fNo1CU
 speaker: 安争鸣（Stella An）
-tags:
-  - war-causation
-  - political-decision-making
-  - historical-lessons
-  - freedom-vs-security
-  - power-dynamics
-title: 掌权者是下大棋还是一坨大便？李德·哈特《战争的底层逻辑》解读
-summary: 本期节目深入探讨了英国战略大师李德·哈特在其著作《为什么我们总是不能从历史中吸取教训》（中文译名《战争的底层逻辑》）中的核心观点。节目质疑了掌权者决策的智慧，并指出许多看似“大棋”的决策，实则可能源于掌权者的虚荣、自负与对历史的选择性遗忘。文章分析了历史叙事如何被胜利者和权力所操控，以及自由社会在追求安全过程中如何走向“自杀性病变”，最终强调了将自由置于安全之上，并以理性对抗人性中“战争病菌”的重要性，以期实现真正的和平。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - B. H. Liddell Hart
-  - Napoleon
-  - Hitler
-companies_orgs: []
-products_models: []
-media_books:
-  - 《战争的底层逻辑》
-  - Why Don’t We Learn from History?
 status: evergreen
+summary: 本期节目深入探讨了英国战略大师李德·哈特在其著作《为什么我们总是不能从历史中吸取教训》（中文译名《战争的底层逻辑》）中的核心观点。节目质疑了掌权者决策的智慧，并指出许多看似“大棋”的决策，实则可能源于掌权者的虚荣、自负与对历史的选择性遗忘。文章分析了历史叙事如何被胜利者和权力所操控，以及自由社会在追求安全过程中如何走向“自杀性病变”，最终强调了将自由置于安全之上，并以理性对抗人性中“战争病菌”的重要性，以期实现真正的和平。
+tags:
+- historical
+- political-decision-making
+- power-dynamic
+- security
+- war
+title: 掌权者是下大棋还是一坨大便？李德·哈特《战争的底层逻辑》解读
 ---
+
 ### 掌权者：大棋还是大便？
 
 我们常常困惑，那些身居高位的政府官员乃至国家领导人，既然能坐到那个位置，理应比普通人更优秀。然而，有时他们的决策却令人费解，甚至显得愚蠢。作为普通人，我们通常会认为，这背后必有深意，他们可能在下一盘“大棋”，而我们只是认知水平有限，无法领会其精妙。但有没有这样一种可能，我们认为又臭又蠢的东西，它确实不是一盘大棋，而就是一坨大便呢？

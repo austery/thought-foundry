@@ -1,66 +1,66 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: psychology
+companies_orgs:
+- Holiday Magic
+- Mind Dynamics
+- EST
+- The Forum
+- Hunger Project
+- Landmark Forum
+- LifeSpring
+- AsiaWorks
+- Life Dynamics
+- ASK
+- Hong Kong Polytechnic University
+- Chinese Communist Party
+- Next Magazine
 date: '2025-02-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Pit
+- Circle of Power
+- Journal of Psychiatry
+- Neon Genesis Evangelion
+- Fight Club
+- lgat-course
+people:
+- William P. Patrick
+- Alexander Everett
+- Ben Gay
+- Werner Erhard
+- Yoko Ono
+- Robert Kiyosaki
+- Janice Haaken
+- Richard Adams
+- Margaret Singer
+- Robert Chaen
+- Chris Gentry
+- Robert White
+- Tomomi Shiotani
+- Kazuhiko Nakamura
+- Chuck Palahniuk
+- Robert Lifton
+products_models: []
+project:
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=JRi75OSqizY
 speaker: 超級歪 SuperY
-tags:
-  - lgat-courses
-  - psychological-manipulation
-  - cult-dynamics
-  - personal-growth-industry
-  - information-asymmetry
-title: 揭秘心靈成長課程：從美國傳銷騙局到亞洲的心理操控史
-summary: 本文深入剖析了在亚洲广受欢迎的“心靈成長課程”（LGAT，即“三階段課程”）的真实历史。从其在美国1960年代起源于传销骗局，到演变为利用心理操控技巧进行“个人成长”训练，再到在欧美遭遇抵制后转战亚洲市场。文章揭示了这些课程如何通过特定机制影响学员，以及其在全球各地引发的争议、诉讼和对社会心理的深远影响。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - historical-insights
-  - personal-growth-lab
-people:
-  - William P. Patrick
-  - Alexander Everett
-  - Ben Gay
-  - Werner Erhard
-  - Yoko Ono
-  - Robert Kiyosaki
-  - Janice Haaken
-  - Richard Adams
-  - Margaret Singer
-  - Robert Chaen
-  - Chris Gentry
-  - Robert White
-  - Tomomi Shiotani
-  - Kazuhiko Nakamura
-  - Chuck Palahniuk
-  - Robert Lifton
-companies_orgs:
-  - Holiday Magic
-  - Mind Dynamics
-  - EST
-  - The Forum
-  - Hunger Project
-  - Landmark Forum
-  - LifeSpring
-  - AsiaWorks
-  - Life Dynamics
-  - ASK
-  - Hong Kong Polytechnic University
-  - Chinese Communist Party
-  - Next Magazine
-products_models: []
-media_books:
-  - The Pit
-  - Circle of Power
-  - Journal of Psychiatry
-  - Neon Genesis Evangelion
-  - Fight Club
 status: evergreen
+summary: 本文深入剖析了在亚洲广受欢迎的“心靈成長課程”（LGAT，即“三階段課程”）的真实历史。从其在美国1960年代起源于传销骗局，到演变为利用心理操控技巧进行“个人成长”训练，再到在欧美遭遇抵制后转战亚洲市场。文章揭示了这些课程如何通过特定机制影响学员，以及其在全球各地引发的争议、诉讼和对社会心理的深远影响。
+tags:
+- dynamic
+- information-asymmetry
+- personal-growth-industry
+- psychological-manipulation
+title: 揭秘心靈成長課程：從美國傳銷騙局到亞洲的心理操控史
 ---
+
 ### 心靈課程爭議的緣起與現狀
 
 三個月前，鍾大加寧的一段影片在台灣YouTuber圈引發了一場風暴，探討了加入心靈成長課程是否等同於誤入邪教的議題。許多YouTuber紛紛分享了他們參與心靈課程的經驗。近期，錫蘭又發布了一段影片，揭露了「三階段課程」的內幕，這進一步引發了廣泛討論，甚至促使衛生福利部介入調查。

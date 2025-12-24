@@ -1,30 +1,30 @@
 ---
-title: 深度解析：挑战英伟达的中国芯片巨头华为
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Eva Dou
-companies_orgs:
-- 英伟达
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: tech-engineering
 author: Lei
-speaker: ''
+category: ai-ml
 channel: null
+companies_orgs:
+- Nvidia
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books: []
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Eva Dou
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=0R37p35EoeM&list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV
+speaker: ''
+summary: null
+tags: []
+title: 深度解析：挑战英伟达的中国芯片巨头华为
 ---
+
 # 探秘华为：挑战英伟达的中国芯片巨头
 
 ## 引言：AI芯片领域的潜在挑战者

@@ -1,48 +1,48 @@
 ---
-author: 老周横眉
+area: society-systems
+category: culture
+companies_orgs:
+- 西贝
+- 爱康国宾
+- 华为
+- 比亚迪
+- 小米
+- Google
+- 星巴克
+- 麦当劳
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 虎嗅
+people:
+- 罗永浩
+- 贾国龙
+- 张晓麟
+- 张立刚
+- 拉里·佩奇
+- 谢尔盖·布林
+- 埃里克·施密特
+products_models: []
+project:
+- china-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=wAQ0Ii5Fox4
 speaker: 老周横眉
-tags:
-  - pre-made-dishes
-  - food-safety
-  - public-relations
-  - consumer-trust
-  - corporate-culture
-title: 西贝与罗永浩之争：预制菜、食品安全与中国企业公关困境
-summary: 本文深入分析了西贝餐饮与罗永浩因预制菜引发的争议，揭示了贾国龙在公关处理上的多重失误。文章探讨了中国社会对预制菜的特殊敏感性，对比了中西方企业在危机公关中的不同思维模式，并指出中国企业普遍存在的“一言堂”文化和信任缺失问题。同时，文章也对预制菜的法律定义、公众认知以及食品安全的核心挑战进行了探讨，呼吁社会对预制菜采取更理性的态度，并强调消费者知情权与成本效率之间的平衡。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-people:
-  - 罗永浩
-  - 贾国龙
-  - 张晓麟
-  - 张立刚
-  - 拉里·佩奇
-  - 谢尔盖·布林
-  - 埃里克·施密特
-companies_orgs:
-  - 西贝
-  - 爱康国宾
-  - 华为
-  - 比亚迪
-  - 小米
-  - 谷歌
-  - 星巴克
-  - 麦当劳
-products_models: []
-media_books:
-  - 虎嗅
 status: evergreen
+summary: 本文深入分析了西贝餐饮与罗永浩因预制菜引发的争议，揭示了贾国龙在公关处理上的多重失误。文章探讨了中国社会对预制菜的特殊敏感性，对比了中西方企业在危机公关中的不同思维模式，并指出中国企业普遍存在的“一言堂”文化和信任缺失问题。同时，文章也对预制菜的法律定义、公众认知以及食品安全的核心挑战进行了探讨，呼吁社会对预制菜采取更理性的态度，并强调消费者知情权与成本效率之间的平衡。
+tags:
+- canada
+- consumer
+- corporate-culture
+- food-safety
+- relations
+title: 西贝与罗永浩之争：预制菜、食品安全与中国企业公关困境
 ---
+
 ### 西贝与罗永浩的预制菜风波始末
 
 最近，中国知名连锁餐饮品牌**西贝**与**罗永浩**围绕**预制菜**（Pre-made dishes: 预先制作好的菜肴，通常经过清洗、切割、烹饪、调味等环节，然后进行包装或冷冻，消费者购买后只需简单加热或烹饪即可食用）问题展开了一场争论。罗永浩称西贝的菜品几乎全是预制菜，而西贝的创始人**贾国龙**则坚决否认，并表示将起诉罗永浩。预制菜的兴起在过去两年一直是中国人关注的焦点，而食品安全始终是中国人心头难以摆脱的担忧。除了名人吵架的八卦效应，这成为了过去几天中国最热门的话题。

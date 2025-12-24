@@ -1,49 +1,48 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 安氏半导体 (Nexperia)
+- 文泰科技 (Wingtech Technology)
+- 荷兰经济事务部
+- 阿姆斯特丹上诉法院企业法庭
+- 中国商务部
+- ASML
+- 大众 (Volkswagen)
+- Stellantis
+- 本田 (Honda)
+- 宝马 (BMW)
+- 博世 (Bosch)
+- 大陆 (Continental)
+- 欧洲汽车制造商协会 (Essia)
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 张学震
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=DfxieOlyJzY
 speaker: FearNation 世界苦茶
-tags:
-  - us-china-tech-war
-  - supply-chain-weaponization
-  - de-risking-strategy
-  - semiconductor-industry
-  - geopolitical-intervention
-  - asset-seizure
-title: 安世半导体风暴：地缘政治下的供应链武器化与信任崩塌
-summary: 本文深入探讨安世半导体事件，揭示其从一起商业收购演变为中美荷三国地缘政治冲突的始末。荷兰政府以“治理缺陷”为由接管安世，引发中国反制，导致全球汽车供应链震荡。文章分析了中荷双方的叙事，指出这并非单纯商业纠纷，而是供应链武器化的典型案例。事件不仅加速了西方“去风险”战略，也为中国资本的海外投资敲响警钟，预示着全球半导体行业将走向分裂、高成本和不确定的新时代。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 张学震
-companies_orgs:
-  - 安氏半导体 (Nexperia)
-  - 文泰科技 (Wingtech Technology)
-  - 荷兰经济事务部
-  - 阿姆斯特丹上诉法院企业法庭
-  - 中国商务部
-  - ASML
-  - 大众 (Volkswagen)
-  - Stellantis
-  - 本田 (Honda)
-  - 宝马 (BMW)
-  - 博世 (Bosch)
-  - 大陆 (Continental)
-  - 欧洲汽车制造商协会 (Essia)
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨安世半导体事件，揭示其从一起商业收购演变为中美荷三国地缘政治冲突的始末。荷兰政府以“治理缺陷”为由接管安世，引发中国反制，导致全球汽车供应链震荡。文章分析了中荷双方的叙事，指出这并非单纯商业纠纷，而是供应链武器化的典型案例。事件不仅加速了西方“去风险”战略，也为中国资本的海外投资敲响警钟，预示着全球半导体行业将走向分裂、高成本和不确定的新时代。
+tags:
+- asset
+- china
+- geopolitical
+- semiconductor
+- strategy
+- supply-chain-weaponization
+title: 安世半导体风暴：地缘政治下的供应链武器化与信任崩塌
 ---
+
 ### 安世半导体：一场全球科技战前沿的商业惊悚片
 
 今天我们探讨的是中国和荷兰围绕**安氏半导体**（Nexperia: 一家总部位于荷兰的半导体公司，原为恩智浦半导体标准产品业务部门）的争夺。我们将把所有细节说明白。这是一个听起来像是商业惊悚片，但却真实发生在当下全球科技战前沿的故事。这家公司现在正处在一场超级大国角力与国家主权干预的风暴中心，已经被硬生生地撕裂成了两半。这一切是如何发生的？我们今天就来做个全景式的复盘。

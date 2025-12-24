@@ -1,50 +1,49 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 美国司法部
+- 美国国土安全部
+- 美国缉毒局
+- 通用汽车公司
+- 太阳卡特尔
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《百年孤独》
+- 新浪网
+- 搜狐网
+people:
+- 张志东
+- 陈志高
+- Donald Trump
+- Joe Biden
+- Hugo Chávez
+- Nicolás Maduro
+- George H.W. Bush
+- Manuel Noriega
+- María Corina Machado
+- Janet Yellen
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=9VBqs_upEeU
 speaker: 徒步的騎手
-tags:
-  - fentanyl-trade
-  - international-crime
-  - venezuela-crisis
-  - us-foreign-policy
-  - drug-supply-chains
-title: 中国毒枭张志东落网：揭秘中墨美毒品产业链与中国三大犯罪输出
-summary: 本期节目深入探讨了中国毒枭张志东在逃亡半个地球后被捕并引渡至美国的案件，揭示了从中国到墨西哥再到美国的芬太尼毒品产业链。文章还分析了中国在加入世贸组织后，除了制造业出口，也成为电信诈骗、人口走私和贩毒三大犯罪产业的出口大国。此外，节目还关注了美国在委内瑞拉周边的大规模军事集结，以及委内瑞拉在可卡因贩运中的角色，并探讨了马杜罗政府可能面临的挑战，将其与巴拿马前总统诺列加的命运进行对比。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 张志东
-  - 陈志高
-  - Donald Trump
-  - Joe Biden
-  - Hugo Chávez
-  - Nicolás Maduro
-  - George H.W. Bush
-  - Manuel Noriega
-  - María Corina Machado
-  - Janet Yellen
-companies_orgs:
-  - 美国司法部
-  - 美国国土安全部
-  - 美国缉毒局
-  - 通用汽车公司
-  - 太阳卡特尔
-products_models: []
-media_books:
-  - 《百年孤独》
-  - 新浪网
-  - 搜狐网
 status: evergreen
+summary: 本期节目深入探讨了中国毒枭张志东在逃亡半个地球后被捕并引渡至美国的案件，揭示了从中国到墨西哥再到美国的芬太尼毒品产业链。文章还分析了中国在加入世贸组织后，除了制造业出口，也成为电信诈骗、人口走私和贩毒三大犯罪产业的出口大国。此外，节目还关注了美国在委内瑞拉周边的大规模军事集结，以及委内瑞拉在可卡因贩运中的角色，并探讨了马杜罗政府可能面临的挑战，将其与巴拿马前总统诺列加的命运进行对比。
+tags:
+- drug-supply-chain
+- international
+- trade
+- us-foreign-policy
+- venezuela-crisis
+title: 中国毒枭张志东落网：揭秘中墨美毒品产业链与中国三大犯罪输出
 ---
 
 ### 中国犯罪出口、张志东引渡与委内瑞拉危机

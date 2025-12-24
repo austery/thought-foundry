@@ -1,57 +1,57 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: general
+companies_orgs:
+- EmmaSleepTaiwan
+- Basecamp
+- The Mix Global
+- Draugiem Group
+- OECD
+- 世界衛生組織
+- 紐西蘭經濟研究所
+- 加州大學
+- 公視新聞實驗室
+- 倫敦精神病學研究所
 date: '2024-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《週休三日革命》
+- 《經濟學人》
+- PTV News Lab (2023) 週休三日簽下去過門檻！台灣成亞洲首個週休三日國家？
+- 世界衛生組織報告
+people:
+- Andrew Barnes
+- Jason Fried
+- Steve Jobs
+- Jack Ma
+- Elon Musk
+- Christin Munsch
+- Ella
+products_models:
+- Emma床墊
+- Hybrid床墊
+- 黑鑽石記憶枕
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=ayI4X42oBFU
 speaker: 超級歪 SuperY
-tags:
-  - four-day-work-week
-  - work-life-balance
-  - productivity-myth
-  - labor-rights
-  - hustle-culture
-title: 週休三日：全球實驗揭示的生產力提升與社會變革潛力
-summary: 近期全球多國的週休三日實驗結果顯示，縮短工時不僅未降低生產力，反而提升了員工幸福感與工作效率。本文深入探討了週休三日如何挑戰19世紀的傳統工時觀念，並帶來多重社會效益，包括緩解氣候危機、促進性別平等及應對人口老化。同時，文章也提供了實施週休三日的策略與應對挑戰的方法，呼籲台灣借鑒國際經驗，推動勞資雙贏的未來工作模式。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - Andrew Barnes
-  - Jason Fried
-  - Steve Jobs
-  - Jack Ma
-  - Elon Musk
-  - Christin Munsch
-  - Ella
-companies_orgs:
-  - EmmaSleepTaiwan
-  - Basecamp
-  - The Mix Global
-  - Draugiem Group
-  - OECD
-  - 世界衛生組織
-  - 紐西蘭經濟研究所
-  - 加州大學
-  - 公視新聞實驗室
-  - 倫敦精神病學研究所
-products_models:
-  - Emma床墊
-  - Hybrid床墊
-  - 黑鑽石記憶枕
-media_books:
-  - 《週休三日革命》
-  - 《經濟學人》
-  - PTV News Lab (2023) 週休三日簽下去過門檻！台灣成亞洲首個週休三日國家？
-  - 世界衛生組織報告
 status: evergreen
+summary: 近期全球多國的週休三日實驗結果顯示，縮短工時不僅未降低生產力，反而提升了員工幸福感與工作效率。本文深入探討了週休三日如何挑戰19世紀的傳統工時觀念，並帶來多重社會效益，包括緩解氣候危機、促進性別平等及應對人口老化。同時，文章也提供了實施週休三日的策略與應對挑戰的方法，呼籲台灣借鑒國際經驗，推動勞資雙贏的未來工作模式。
+tags:
+- culture
+- productivity
+- right
+- work
+- work-life-balance
+title: 週休三日：全球實驗揭示的生產力提升與社會變革潛力
 ---
+
 ### 台灣勞權困境與週休三日新趨勢
 
 近期，台灣勞動部發生的霸凌案件震驚社會，引發了許多人對勞動權益保障議題的討論。與此同時，各國實施**週休三日**（Four-Day Work Week）的實驗結果陸續出爐，包括英國、冰島、德國和日本都出現了成功的案例。近年來，許多歐洲國家，例如冰島，率先推動縮短工時，而最新的實驗結果顯示，工作效率和品質並未因此降低。

@@ -1,66 +1,66 @@
 ---
-author: Harvard Business Review
+area: society-systems
+category: psychology
+companies_orgs:
+- Harvard Business Review
+- Apple
+- KGB
+- Kimberly-Clark
+- Federal Reserve
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Emperor's New Clothes
+- Blade Runner
+- Alien
+- '1984'
+- The Tonight Show
+- Talmud
+- Gandhi
+people:
+- Adi Ignatius
+- Steven Pinker
+- John Maynard Keynes
+- Larry David
+- Matt Damon
+- Ridley Scott
+- George Orwell
+- Walter Cronkite
+- Huntley
+- Brinkley
+- Michael Chwe
+- Alan Greenspan
+- Thomas Schelling
+- Mahatma Gandhi
+- Johnny Carson
+- Justin Wolfers
+- Nicolae Ceaușescu
+products_models:
+- Apple Macintosh
+- Discover Card
+- Monster.com
+- Charmin
+project:
+- geopolitics-watch
+- systems-thinking
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=X4UnZgBlRLg
 speaker: Harvard Business Review
-tags:
-  - common-knowledge
-  - coordination-problems
-  - speculative-bubbles
-  - pluralistic-ignorance
-  - authoritarian-control
-title: 理解“常识”：从市场泡沫到社会协调的关键洞察
-summary: 本文深入探讨了史蒂芬·平克教授提出的“常识”（common knowledge）概念，即“已知被知晓”的信息。文章阐释了常识在人类协调、经济投机（如凯恩斯选美竞赛、投机泡沫）、市场营销（网络效应）以及政治控制（如威权主义下的抗议）中的关键作用。同时，也讨论了“多元无知”等现象如何导致集体误判，以及礼貌等“良性伪善”如何维系社会关系。理解常识的运作机制，能为我们提供一个审视世界和人际互动的新视角。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - market-cycles
-people:
-  - Adi Ignatius
-  - Steven Pinker
-  - John Maynard Keynes
-  - Larry David
-  - Matt Damon
-  - Ridley Scott
-  - George Orwell
-  - Walter Cronkite
-  - Huntley
-  - Brinkley
-  - Michael Chwe
-  - Alan Greenspan
-  - Thomas Schelling
-  - Mahatma Gandhi
-  - Johnny Carson
-  - Justin Wolfers
-  - Nicolae Ceaușescu
-companies_orgs:
-  - Harvard Business Review
-  - Apple
-  - KGB
-  - Kimberly-Clark
-  - Federal Reserve
-products_models:
-  - Apple Macintosh
-  - Discover Card
-  - Monster.com
-  - Charmin
-media_books:
-  - The Emperor's New Clothes
-  - Blade Runner
-  - Alien
-  - '1984'
-  - The Tonight Show
-  - Talmud
-  - Gandhi
 status: evergreen
+summary: 本文深入探讨了史蒂芬·平克教授提出的“常识”（common knowledge）概念，即“已知被知晓”的信息。文章阐释了常识在人类协调、经济投机（如凯恩斯选美竞赛、投机泡沫）、市场营销（网络效应）以及政治控制（如威权主义下的抗议）中的关键作用。同时，也讨论了“多元无知”等现象如何导致集体误判，以及礼貌等“良性伪善”如何维系社会关系。理解常识的运作机制，能为我们提供一个审视世界和人际互动的新视角。
+tags:
+- bubble
+- control
+- philosophy
+- pluralistic-ignorance
+- problem
+title: 理解“常识”：从市场泡沫到社会协调的关键洞察
 ---
+
 ### “常识”的定义与重要性
 
 **ADI IGNATIUS:** 好的，史蒂芬，感谢您今天与我们在一起。

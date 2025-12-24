@@ -1,41 +1,41 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: education
+companies_orgs:
+- 北京大学
+- 宜家
+- 美国大使馆
 date: '2025-07-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《渔夫和金鱼》
+people:
+- 赵冬梅
+- 佟浩然
+- 泱泱
+- 老吴
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=lQJQvi9LEsM
 speaker: 一席YiXi
-tags:
-  - education-system-critique
-  - parental-identity-transformation
-  - non-traditional-learning
-  - academic-privilege-blindness
-  - social-validation-pressure
-title: 当学霸母亲遇见辍学儿子：一场关于教育体制的自我救赎
-summary: 北大历史教授赵冬梅讲述儿子佟浩然（泱泱）因学业压力辍学后，她如何从焦虑与控制中觉醒，重新理解教育的本质。这不是关于失败的故事，而是一场母亲对体制化教育的深刻反思与自我疗愈。
-insight: ''
-draft: true
-series: ''
-category: education
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - 赵冬梅
-  - 佟浩然
-  - 泱泱
-  - 老吴
-companies_orgs:
-  - 北京大学
-  - 宜家
-  - 美国大使馆
-products_models: []
-media_books:
-  - 《渔夫和金鱼》
 status: evergreen
+summary: 北大历史教授赵冬梅讲述儿子佟浩然（泱泱）因学业压力辍学后，她如何从焦虑与控制中觉醒，重新理解教育的本质。这不是关于失败的故事，而是一场母亲对体制化教育的深刻反思与自我疗愈。
+tags:
+- canada
+- identity
+- learning
+- social
+- system
+title: 当学霸母亲遇见辍学儿子：一场关于教育体制的自我救赎
 ---
+
 ### 一位北大教授的自我颠覆：从学霸母亲到辍学孩子的守护者
 
 我是北京大学历史学系的赵冬梅。上次来到一席，我以教授的身份讲述学术；这一次，我只是一个母亲——泱泱的妈妈。

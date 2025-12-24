@@ -1,52 +1,51 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国国家移民管理局外国人管理司
+- 瑞幸咖啡
 date: '2023-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中华人共和国反间谍法》
+products_models:
+- 苹果
+- 特斯拉
+- 微软
+- Oracle
+- Google地圖
+- Twitter
+- Facebook
+- YouTube
+- TikTok
+- 百度
+- 高德地圖
+- 微信
+- 抖音
+- 快手
+- 小紅書
+- VPN
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=wv1zy5IZOJk
 speaker: 莊也雜談
-tags:
-  - foreigner-registration
-  - china-travel-policy
-  - geopolitical-tensions
-  - anti-espionage-law
-  - digital-payment-challenges
-title: 外籍人士入境中国24小时内报备指南：风险、后果与注意事项
-summary: 本期节目深入探讨了外籍人士入境中国后，在24小时内向当地派出所报备登记的关键要求。内容涵盖了哪些情况建议报备、哪些情况可能无需报备、未报备的潜在后果及罚款额度。此外，节目还分析了当前在华外国游客数量骤减的原因，包括疫情影响、地缘政治紧张以及外国人在中国生活面临的实际不便，如网络限制和移动支付障碍等。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people: []
-companies_orgs:
-  - 中国国家移民管理局外国人管理司
-  - 瑞幸咖啡
-products_models:
-  - 苹果
-  - 特斯拉
-  - 微软
-  - Oracle
-  - Google地圖
-  - Twitter
-  - Facebook
-  - YouTube
-  - TikTok
-  - 百度
-  - 高德地圖
-  - 微信
-  - 抖音
-  - 快手
-  - 小紅書
-  - VPN
-media_books:
-  - 《中华人共和国反间谍法》
 status: evergreen
+summary: 本期节目深入探讨了外籍人士入境中国后，在24小时内向当地派出所报备登记的关键要求。内容涵盖了哪些情况建议报备、哪些情况可能无需报备、未报备的潜在后果及罚款额度。此外，节目还分析了当前在华外国游客数量骤减的原因，包括疫情影响、地缘政治紧张以及外国人在中国生活面临的实际不便，如网络限制和移动支付障碍等。
+tags:
+- challenge
+- china
+- geopolitical
+- geopolitical-tension
+- law
+title: 外籍人士入境中国24小时内报备指南：风险、后果与注意事项
 ---
+
 ### 外籍人士入境中国24小时报备之问
 
 哈喽大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们继续聊我回国的经历。上集咱们聊了一下我们回到国内，刚下飞机，看到故国山水，心头百感交集，说了一大堆有的没的“废话”。虽说也是嘚啵嘚啵说了20多分钟，但基本上就是纯灌水，还有位观众朋友向苍天呐喊：“还我干货庄也啊！”看了留言呢，我也是挺惭愧的。你看，今天下雨我都没敢出门录，怕被雷劈到。另外还有一个原因，就是外面太冷了。因此说呢，咱们今天就多聊一些可操作性比较强的干货知识，回答观众朋友们最关心的几个问题。

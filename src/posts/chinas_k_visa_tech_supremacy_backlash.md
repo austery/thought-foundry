@@ -9,17 +9,16 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-- k-visa
-- talent-acquisition
-- tech-war
+- life
+- talent
+- tech
 - us-china-relations
 people:
-  - Houchen
-  - Jia
-  - Wu
+- Houchen
+- Jia
+- Wu
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-10-04
 author: Lei
 speaker: ''
@@ -31,6 +30,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 ## 从“外国人永居条例”风波谈起
 
 侯辰: 最近的**K签证**（K签证：中国为吸引外国高科技人才推出的一种签证类型，允许持有人在没有雇主担保的情况下入境寻找工作）引发了巨大的网络舆论翻车，这情景和2020年那次“外国人永久居留管理条例”的风波简直一模一样。你们还记得那个事吗？当时也是因为要放宽外国人绿卡，结果在网上引起了万民唾骂，最后国家只好把这事收回去了。

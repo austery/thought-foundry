@@ -1,54 +1,54 @@
 ---
-author: Patrick Boyle
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- US Treasury
+- Central Bank of Argentina
+- IMF
+- People's Bank of China
+- Cato Institute
+- G7
+- The Council on Foreign Relations
 date: '2025-10-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- Bloomberg
+- The Atlantic
+- FT Alphaville
+- Fox News
+people:
+- Javier Milei
+- Scott Bessent
+- Donald Trump
+- José Luis Espert
+- Milton Friedman
+- George Soros
+- Brad Setser
+products_models:
+- US Exchange Stabilization Fund
+- Extended Fund Facility
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=eRUEqQmQoP0
 speaker: Patrick Boyle
-tags:
-  - argentina-economy
-  - currency-crisis
-  - economic-reforms
-  - us-foreign-policy
-  - geopolitical-rivalry
-title: “电锯”失灵：米莱能否阻止阿根廷货币崩溃？
-summary: 阿根廷正面临严重的货币危机，比索汇率面临崩溃。尽管总统米莱实施了大胆的自由市场改革，并取得了初步成功，但其政治基础日益不稳，且美国财政部介入支持比索的举动也引发争议。本文探讨了阿根廷经济困境的根源、米莱改革的挑战以及美国干预背后的地缘政治考量，并结合历史案例分析了固定汇率制度的风险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Javier Milei
-  - Scott Bessent
-  - Donald Trump
-  - José Luis Espert
-  - Milton Friedman
-  - George Soros
-  - Brad Setser
-companies_orgs:
-  - US Treasury
-  - Central Bank of Argentina
-  - IMF
-  - People's Bank of China
-  - Cato Institute
-  - G7
-  - The Council on Foreign Relations
-products_models:
-  - US Exchange Stabilization Fund
-  - Extended Fund Facility
-media_books:
-  - The Economist
-  - Bloomberg
-  - The Atlantic
-  - FT Alphaville
-  - Fox News
 status: evergreen
+summary: 阿根廷正面临严重的货币危机，比索汇率面临崩溃。尽管总统米莱实施了大胆的自由市场改革，并取得了初步成功，但其政治基础日益不稳，且美国财政部介入支持比索的举动也引发争议。本文探讨了阿根廷经济困境的根源、米莱改革的挑战以及美国干预背后的地缘政治考量，并结合历史案例分析了固定汇率制度的风险。
+tags:
+- crisis
+- economic-reform
+- economy
+- geopolitical
+- us-foreign-policy
+title: “电锯”失灵：米莱能否阻止阿根廷货币崩溃？
 ---
+
 ### 阿根廷货币危机加剧
 
 阿根廷一直在像一个透支的赌徒一样挥霍美元。在短短七个交易日内，其财政部已出售18亿美元以捍卫比索，并维持市场预期在中期选举后将崩溃的汇率。本周短期债务利率飙升超过87%，而中央银行的“弹药”也所剩无几。阿根廷政府正在干预现货和期货市场，恢复选择性外汇管制，并紧紧抓住一个日益虚构的汇率区间。

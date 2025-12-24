@@ -1,40 +1,38 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-08-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- GQ
+people:
+- 李唐越
+- 陈威龙
+- 宋晏仁
+products_models:
+- 胆固醇平衡懒人包
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=S3amXI7SQzw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - heart-health
-  - kidney-health
-  - blood-sugar-control
-  - body-image
-  - lifestyle-habits
-title: 心肾健康与身材焦虑：医生视角下的健康管理与人生选择
-summary: 本文深入探讨了心肾健康的关键威胁，指出高血糖、不良生活习惯和高血压对心脏和肾脏的危害远超想象。两位医生分享了他们对健康管理的深刻见解，并讨论了社会对身材的严苛标准如何引发普遍焦虑。此外，他们还真诚地分享了作为医生和父亲的挑战，以及对理想职业（厨师、时尚设计师）的独特憧憬，展现了医学专业人士的多元人生思考。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people:
-  - 李唐越
-  - 陈威龙
-  - 宋晏仁
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models:
-  - 胆固醇平衡懒人包
-media_books:
-  - GQ
 status: evergreen
+summary: 本文深入探讨了心肾健康的关键威胁，指出高血糖、不良生活习惯和高血压对心脏和肾脏的危害远超想象。两位医生分享了他们对健康管理的深刻见解，并讨论了社会对身材的严苛标准如何引发普遍焦虑。此外，他们还真诚地分享了作为医生和父亲的挑战，以及对理想职业（厨师、时尚设计师）的独特憧憬，展现了医学专业人士的多元人生思考。
+tags:
+- control
+- health
+- psychology
+title: 心肾健康与身材焦虑：医生视角下的健康管理与人生选择
 ---
+
 ### 医生间的轻松对话：游戏与年龄的思考
 
 李医师和威龙医师，两位是如何一同登上这个舞台的呢？

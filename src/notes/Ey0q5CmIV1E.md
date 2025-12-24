@@ -1,77 +1,75 @@
 ---
-author: Norges Bank Investment Management
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Adobe
+- Norges Bank Investment Management
+- Glassdoor
+- OpenAI
+- Google
+- Nvidia
+- Microsoft
+- Meta
+- The New York Times
+- BBC
+- Eli Lilly
+- KKR
+- YPO
+- Pfizer
+- eBay
+- PayPal
+- Starbucks
+- Runway ML
 date: '2024-06-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Shantanu Narayen
+- Nikolai
+- John Warnock
+- Chuck Geschke
+- Satya Nadella
+- Sundar Pichai
+- Arvind Krishna
+- Laxman Narasimhan
+- Sam Altman
+- John Donahoe
+- George Roberts
+- Romesh Wadwani
+- Albert Bourla
+- Dave Ricks
+products_models:
+- Photoshop
+- Illustrator
+- Premier
+- After Effects
+- Express
+- PostScript
+- PDF
+- Document Cloud
+- Experience Cloud
+- Firefly
+- ChatGPT
+- Sora
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Ey0q5CmIV1E
 speaker: Norges Bank Investment Management
-tags:
-  - digital-experiences
-  - generative-ai
-  - corporate-culture
-  - leadership-philosophy
-  - market-expansion
-title: Adobe CEO Shantanu Narayen：创新、领导力与AI时代的未来
-summary: Adobe CEO Shantanu Narayen在播客中分享了公司40多年来持续创新的秘诀，包括从PostScript到云服务的转型。他深入探讨了生成式AI如何赋能创意、加速文档工作流，并强调了Adobe在内容真实性方面的责任。Narayen还分享了其印度成长背景对领导力的影响，以及他如何通过设定“不合理期望”来激励团队。他认为AI将极大拓展市场，而非取代人类创意，并强调了领导者在快速变化时代保持学习和适应的重要性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Shantanu Narayen
-  - Nikolai
-  - John Warnock
-  - Chuck Geschke
-  - Satya Nadella
-  - Sundar Pichai
-  - Arvind Krishna
-  - Laxman Narasimhan
-  - Sam Altman
-  - John Donahoe
-  - George Roberts
-  - Romesh Wadwani
-  - Albert Bourla
-  - Dave Ricks
-companies_orgs:
-  - Adobe
-  - Norges Bank Investment Management
-  - Glassdoor
-  - OpenAI
-  - Google
-  - Nvidia
-  - Microsoft
-  - Meta
-  - The New York Times
-  - BBC
-  - Eli Lilly
-  - KKR
-  - YPO
-  - Pfizer
-  - eBay
-  - PayPal
-  - Starbucks
-  - Runway ML
-products_models:
-  - Photoshop
-  - Illustrator
-  - Premier
-  - After Effects
-  - Express
-  - PostScript
-  - PDF
-  - Document Cloud
-  - Experience Cloud
-  - Firefly
-  - ChatGPT
-  - Sora
-media_books: []
 status: evergreen
+summary: Adobe CEO Shantanu Narayen在播客中分享了公司40多年来持续创新的秘诀，包括从PostScript到云服务的转型。他深入探讨了生成式AI如何赋能创意、加速文档工作流，并强调了Adobe在内容真实性方面的责任。Narayen还分享了其印度成长背景对领导力的影响，以及他如何通过设定“不合理期望”来激励团队。他认为AI将极大拓展市场，而非取代人类创意，并强调了领导者在快速变化时代保持学习和适应的重要性。
+tags:
+- corporate-culture
+- digital
+- leadership-philosophy
+- market
+title: Adobe CEO Shantanu Narayen：创新、领导力与AI时代的未来
 ---
+
 ### Adobe的使命与核心业务
 
 **Nikolai:** 大家好，今天我们采访的这位男士，他让我们在照片中看起来更美，并使我们每年能够打开4000亿个**PDF**（Portable Document Format: 一种独立于应用程序、硬件和操作系统，用于表示文档的文件格式）。

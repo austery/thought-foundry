@@ -1,61 +1,60 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Google
+- DeepMind
+- IBM
+- OpenAI
+- Microsoft
+- Meta
+- 初日醫學
+- Cofit
+- 台北醫學大學
+- 韓國圍棋協會
 date: '2025-05-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《WIRED 杂志》
+people:
+- 李友專
+- 宋晏仁
+- Sam Altman
+- John Hopfield
+- 이세돌
+- 柯潔
+- Jensen Huang
+products_models:
+- LaMDA
+- ChatGPT
+- Deep Blue
+- AlphaGo
+- AlphaGo Zero
+- Watson
+- Watson for Oncology
+- GPT
+- 卷積神經網路 (CNN)
+- AlphaFold
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=dTFkbp7TSug
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - ai-development
-  - machine-learning
-  - medical-ai
-  - ai-consciousness
-  - future-of-ai
-title: AI的演进、医疗应用与未来挑战：从寒冬到神级AI的思考
-summary: 本文深入探讨了人工智能（AI）从早期被视为“脏词”的寒冬期，到如今ChatGPT等大语言模型（LLM）崛起的发展历程。李友專教授分享了AI在围棋、医疗诊断等领域的突破性进展，特别是AlphaGo和AlphaFold的案例。文章还讨论了AI可能产生意识（如LaMDA事件）、发展为“神级AI”的潜在风险，以及AI在医疗领域“提早知道”的巨大价值。同时，也探讨了AI对人类社会和职业的深远影响，呼吁人们思考AI与人类共存的未来。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 李友專
-  - 宋晏仁
-  - Sam Altman
-  - John Hopfield
-  - 이세돌
-  - 柯潔
-  - Jensen Huang
-companies_orgs:
-  - Google
-  - DeepMind
-  - IBM
-  - OpenAI
-  - Microsoft
-  - Meta
-  - 初日醫學
-  - Cofit
-  - 台北醫學大學
-  - 韓國圍棋協會
-products_models:
-  - LaMDA
-  - ChatGPT
-  - Deep Blue
-  - AlphaGo
-  - AlphaGo Zero
-  - Watson
-  - Watson for Oncology
-  - GPT
-  - 卷積神經網路 (CNN)
-  - AlphaFold
-media_books:
-  - 《WIRED 杂志》
 status: evergreen
+summary: 本文深入探讨了人工智能（AI）从早期被视为“脏词”的寒冬期，到如今ChatGPT等大语言模型（LLM）崛起的发展历程。李友專教授分享了AI在围棋、医疗诊断等领域的突破性进展，特别是AlphaGo和AlphaFold的案例。文章还讨论了AI可能产生意识（如LaMDA事件）、发展为“神级AI”的潜在风险，以及AI在医疗领域“提早知道”的巨大价值。同时，也探讨了AI对人类社会和职业的深远影响，呼吁人们思考AI与人类共存的未来。
+tags:
+- ai-consciousness
+- ai-development
+- future-of-ai
+- medical
+title: AI的演进、医疗应用与未来挑战：从寒冬到神级AI的思考
 ---
+
 ### 欢迎来到初日会客室：AI时代的深度对话
 
 大家好，我是宋晏仁医师，欢迎您来到初日会客室。今天我们非常荣幸地邀请到我的老朋友，台北医科大学的李友專教授，来和我们深入探讨一个最近非常热门的话题——人工智能（**AI**，Artificial Intelligence: 人工智慧）。

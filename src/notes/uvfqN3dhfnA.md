@@ -1,48 +1,48 @@
 ---
-author: 人民公園說AI
+area: tech-insights
+category: technology
+companies_orgs:
+- 亚马逊云科技
+- Hertz
+- DeepSeek
+- OpenAI
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ilya Sutskever
+- 小苏
+- 老修
+products_models:
+- Amazon Nova Forge
+- Amazon Nova Act
+- Kiro
+- Cursor
+- ChatGPT
+- Gemini
+- Claude
+- Codex
+- DeepSeek 3.2
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=uvfqN3dhfnA
 speaker: 人民公園說AI
-tags:
-  - vertical-ai-models
-  - ai-agents
-  - enterprise-ai
-  - poc-to-production
-  - spec-driven-development
-title: 从大模型到垂直模型：亚马逊云科技re:Invent 2025深度解读
-summary: 本次亚马逊云科技re:Invent 2025大会揭示了AI发展的新趋势，即从卷大模型和Agent转向垂直模型。大会重点介绍了Amazon Nova Forge平台，它允许在预训练阶段融入行业数据，大幅降低垂直模型开发成本。同时，Amazon Nova Act解决了老旧系统无API的集成痛点。Kiro则通过其规范驱动的开发流程，确保AI项目从概念验证（POC）顺利过渡到生产环境，避免了“POC监狱”的困境。此次大会强调了企业级AI的可控性与稳定性，将AI的“魔法”转化为可拆解、可教学的“魔术”，推动AI平权。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ilya Sutskever
-  - 小苏
-  - 老修
-companies_orgs:
-  - 亚马逊云科技
-  - Hertz
-  - DeepSeek
-  - OpenAI
-products_models:
-  - Amazon Nova Forge
-  - Amazon Nova Act
-  - Kiro
-  - Cursor
-  - ChatGPT
-  - Gemini
-  - Claude
-  - Codex
-  - DeepSeek 3.2
-media_books: []
 status: evergreen
+summary: 本次亚马逊云科技re:Invent 2025大会揭示了AI发展的新趋势，即从卷大模型和Agent转向垂直模型。大会重点介绍了Amazon Nova
+  Forge平台，它允许在预训练阶段融入行业数据，大幅降低垂直模型开发成本。同时，Amazon Nova Act解决了老旧系统无API的集成痛点。Kiro则通过其规范驱动的开发流程，确保AI项目从概念验证（POC）顺利过渡到生产环境，避免了“POC监狱”的困境。此次大会强调了企业级AI的可控性与稳定性，将AI的“魔法”转化为可拆解、可教学的“魔术”，推动AI平权。
+tags:
+- ai-agent
+- business
+- development
+- enterprise-ai
+- vertical-ai-model
+title: 从大模型到垂直模型：亚马逊云科技re:Invent 2025深度解读
 ---
+
 ### AI发展新趋势：从大模型到垂直模型
 
 **小苏:** 胎教的时候就已经在给他喂行业数据了，他一出生他就懂得说黑话了，就把一个训练**垂直模型**（Vertical Model: 针对特定行业或领域数据进行训练，具备专业知识和解决特定问题能力的AI模型）的成本大大降低了。就你以前想说我做法律、我做金融，是需要一个自己的垂直模型的，但是谁敢去把他给训练出来呢？这样子的话，他相当于是懂了这个行业的基本的行话嘛，然后又懂了你专有的数据。如果我现在在这个胎教的环节我就给你弄好了，就会很好的去解决做大量后训练的问题。其实就拒绝了现在模型那种当玩具这么一个属性，我觉得更多是真正进入到生产环境中，能让他真正能用上。

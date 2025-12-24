@@ -1,75 +1,75 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 天主教廷
+- 台湾中影
 date: '2025-05-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《饮食男女》
+- 《推手》
+- 《喜宴》
+- 《卧虎藏龙》
+- 《食神》
+- 《金玉满堂》
+- 《满汉全席》
+- 《决战食神》
+- 《御前厨神之满汉全席》
+- 《饮食男女2之好远又好近》
+- 《寿司之神》
+- 《浓情巧克力》
+- 《美味关系》
+- 《舌尖上的中国》
+- 《深夜食堂》
+- 《孤独的美食家剧场版》
+people:
+- 张内咸
+- 周星驰
+- 徐克
+- 张国荣
+- 李安
+- 归亚蕾
+- 谢霆锋
+- 黄磊
+- 梁家辉
+- 赵文瑄
+- 哥白尼
+- 布鲁诺
+- 李小龙
+- 柯受良
+- 索绪尔
+- Donald Trump
+- 伍德罗·威尔逊
+- 弗拉基米尔·列宁
+- 石班瑜
+products_models:
+- 旺旺
+- 奇多
+- 小浣熊干脆面
+- 可口可乐
+project:
+- china-analysis
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=GDcL1nc-IqI
 speaker: 張内咸
-tags:
-  - chinese-film-industry
-  - cultural-expression
-  - propaganda-language
-  - structural-aphasia
-  - national-identity
-  - visual-anthropology
-title: 美食强国，电影废国？从《饮食男女》看中国电影的文化困境与符号失语
-summary: 本期节目深入探讨了中国电影行业面临的深层文化困境，尤其是在美食题材电影上的缺失。主持人张内咸指出，从“战狼式”促销文案到“消费标兵”的荒谬，中文语言正经历“结构性失语”，党的语言与民族符号混淆，导致文化表达受阻。文章以李安的《饮食男女》为例，分析了视觉人类学在定义民族文化中的重要性，并呼吁在文化彻底崩塌前，恢复语言交流与开放，重塑民族符号的清晰性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-  - systems-thinking
-people:
-  - 张内咸
-  - 周星驰
-  - 徐克
-  - 张国荣
-  - 李安
-  - 归亚蕾
-  - 谢霆锋
-  - 黄磊
-  - 梁家辉
-  - 赵文瑄
-  - 哥白尼
-  - 布鲁诺
-  - 李小龙
-  - 柯受良
-  - 索绪尔
-  - Donald Trump
-  - 伍德罗·威尔逊
-  - 弗拉基米尔·列宁
-  - 石班瑜
-companies_orgs:
-  - 天主教廷
-  - 台湾中影
-products_models:
-  - 旺旺
-  - 奇多
-  - 小浣熊干脆面
-  - 可口可乐
-media_books:
-  - 《饮食男女》
-  - 《推手》
-  - 《喜宴》
-  - 《卧虎藏龙》
-  - 《食神》
-  - 《金玉满堂》
-  - 《满汉全席》
-  - 《决战食神》
-  - 《御前厨神之满汉全席》
-  - 《饮食男女2之好远又好近》
-  - 《寿司之神》
-  - 《浓情巧克力》
-  - 《美味关系》
-  - 《舌尖上的中国》
-  - 《深夜食堂》
-  - 《孤独的美食家剧场版》
 status: evergreen
+summary: 本期节目深入探讨了中国电影行业面临的深层文化困境，尤其是在美食题材电影上的缺失。主持人张内咸指出，从“战狼式”促销文案到“消费标兵”的荒谬，中文语言正经历“结构性失语”，党的语言与民族符号混淆，导致文化表达受阻。文章以李安的《饮食男女》为例，分析了视觉人类学在定义民族文化中的重要性，并呼吁在文化彻底崩塌前，恢复语言交流与开放，重塑民族符号的清晰性。
+tags:
+- chinese-film-industry
+- cultural
+- history
+- language
+- llm
+- national-identity
+title: 美食强国，电影废国？从《饮食男女》看中国电影的文化困境与符号失语
 ---
+
 ### 中国电影的“消费年”与“战狼式”促销
 
 大家好，我是张内咸。好久没聊电影了，我也好久没看电影了。前段时间，我看到一条推送，标题是“跨省联动 多部门协作 直击中国电影行业”。看到这条推送，我吓了一跳，以为是要跨省抓谁，结果仔细一看，才明白这是个促销信息。推送说2025年是史上第一个“中国电影消费年”，预计要投入10亿元观影优惠补贴，以发挥电影对提振社会消费的带动作用。所以才要“跨省联动多部门协作”，“直击中国电影行业”，打出“促进消费组合拳”。

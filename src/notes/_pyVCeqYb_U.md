@@ -1,81 +1,81 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CCTV Movie Channel
+- 人民日报
+- 外交部
+- Central Literature Research Office
+- 公安局
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Lover's Grief over the Yellow River
+- Battle on Shangganling
+- The Battle at Lake Changjin II
+- The Battle at Lake Changjin
+- Captain America
+- Rambo
+- Nezha
+- The Gulag Archipelago
+- And Quiet Flows the Don
+- Saint Seiya
+- Legend of Heavenly Sphere Shurato
+- Daughter of the Nile
+- Red River
+- The Heroic Legend of Arslan
+- 'Altair: A Record of Battles'
+- Uncharted Waters
+- 小约翰可汗
+- Nine Commentaries on the Communist Party
+people:
+- 毛主席
+- 江泽民
+- 高市早苗
+- Donald Trump
+- 毛宁
+- Xi Jinping
+- 沈毅
+- 宋江
+- 李奎
+- 王柯
+- 周恩来
+- 蒋介石
+- Fyodor Dostoevsky
+- Mikhail Sholokhov
+- Gordon Chang
+- 武律
+- 贾老师
+- 李厚诚
+- 吴朝柱
+products_models:
+- iPhone
+- THAAD missile
+- Android phone
+- WPS Office
+- BCG vaccine
+- Smallpox vaccine
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=_pyVCeqYb_U
 speaker: 三個水槍手
-tags:
-  - sino-japanese-relations
-  - emotional-politics
-  - national-narrative
-  - cultural-influence
-  - geopolitical-strategy
-title: 中国人对日矛盾情结：情绪价值、国家叙事与独立思考
-summary: 本期节目深入探讨中国人对日本的复杂情感，分析了“反日不矛盾”观点背后的税收军备与文化入侵逻辑，并指出国家叙事如何引导民众情绪。节目强调了在宏大叙事下进行独立思考的重要性，并以丹美文化、日本对华援助及俄罗斯文化为例，探讨了文化输出与地缘政治的关联。同时，也反思了自媒体在提供情绪价值方面的作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 毛主席
-  - 江泽民
-  - 高市早苗
-  - Donald Trump
-  - 毛宁
-  - 习近平
-  - 沈毅
-  - 宋江
-  - 李奎
-  - 王柯
-  - 周恩来
-  - 蒋介石
-  - Fyodor Dostoevsky
-  - Mikhail Sholokhov
-  - Gordon Chang
-  - 武律
-  - 贾老师
-  - 李厚诚
-  - 吴朝柱
-companies_orgs:
-  - CCTV Movie Channel
-  - 人民日报
-  - 外交部
-  - Central Literature Research Office
-  - 公安局
-products_models:
-  - iPhone
-  - THAAD missile
-  - Android phone
-  - WPS Office
-  - BCG vaccine
-  - Smallpox vaccine
-media_books:
-  - Lover's Grief over the Yellow River
-  - Battle on Shangganling
-  - The Battle at Lake Changjin II
-  - The Battle at Lake Changjin
-  - Captain America
-  - Rambo
-  - Nezha
-  - The Gulag Archipelago
-  - And Quiet Flows the Don
-  - Saint Seiya
-  - Legend of Heavenly Sphere Shurato
-  - Daughter of the Nile
-  - Red River
-  - The Heroic Legend of Arslan
-  - 'Altair: A Record of Battles'
-  - Uncharted Waters
-  - 小约翰可汗
-  - Nine Commentaries on the Communist Party
 status: evergreen
+summary: 本期节目深入探讨中国人对日本的复杂情感，分析了“反日不矛盾”观点背后的税收军备与文化入侵逻辑，并指出国家叙事如何引导民众情绪。节目强调了在宏大叙事下进行独立思考的重要性，并以丹美文化、日本对华援助及俄罗斯文化为例，探讨了文化输出与地缘政治的关联。同时，也反思了自媒体在提供情绪价值方面的作用。
+tags:
+- cultural
+- geopolitical-strategy
+- national
+- politics
+- sino-japanese-relations
+title: 中国人对日矛盾情结：情绪价值、国家叙事与独立思考
 ---
+
 ### 中国人对日情结：矛盾、情绪与国家叙事
 
 本期节目围绕“中国人对日本的矛盾心理”展开讨论。有观众提出，喜欢日本文化与反日并不矛盾，并举例称日本人崇拜中华文化却反华，韩国人喜欢中国文化却反华，以及全世界被美国“修理”过的国家也看好莱坞却讨厌美国。因此，他们认为将中国人喜欢日本商品、日本动漫与反日视为矛盾，是“看中国人不爽”。

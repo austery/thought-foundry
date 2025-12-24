@@ -1,41 +1,41 @@
 ---
-author: TVO Today
+area: society-systems
+category: psychology
+companies_orgs:
+- TVO Today
+- The Conversation
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mistreated
+- Degrassi the Next Generation
+people:
+- Nam Kiwanuka
+- Andrea Lewis
+products_models:
+- GLP1s
+- Ozempic
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=TzjQ6jm8iHs
 speaker: TVO Today
-tags:
-  - pcos
-  - reproductive-health
-  - misdiagnosis
-  - societal-stigma
-  - self-advocacy
-  - hormonal-disorder
-title: 多囊卵巢综合征：揭示误解、打破污名与自我赋能
-summary: 本期节目深入探讨了多囊卵巢综合征（PCOS），一种影响全球八分之一女性的常见但鲜为人知的疾病。嘉宾Andrea Lewis分享了她被误诊的经历、PCOS带来的身体和心理挑战，以及社会对女性生殖健康的普遍误解和污名。节目强调了PCOS管理的复杂性、患者自我赋能的重要性，并呼吁医疗系统和社会对女性生殖健康问题给予更多关注和理解。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Nam Kiwanuka
-  - Andrea Lewis
-companies_orgs:
-  - TVO Today
-  - The Conversation
-products_models:
-  - GLP1s
-  - Ozempic
-media_books:
-  - Mistreated
-  - Degrassi the Next Generation
 status: evergreen
+summary: 本期节目深入探讨了多囊卵巢综合征（PCOS），一种影响全球八分之一女性的常见但鲜为人知的疾病。嘉宾Andrea Lewis分享了她被误诊的经历、PCOS带来的身体和心理挑战，以及社会对女性生殖健康的普遍误解和污名。节目强调了PCOS管理的复杂性、患者自我赋能的重要性，并呼吁医疗系统和社会对女性生殖健康问题给予更多关注和理解。
+tags:
+- health
+- hormonal-disorder
+- misdiagnosi
+- pco
+- self
+- societal
+title: 多囊卵巢综合征：揭示误解、打破污名与自我赋能
 ---
+
 ### 揭秘多囊卵巢综合征：一种被误解的普遍疾病
 
 **Nam Kiwanuka:** 您正在收听《误诊》（Mistreated）。我是Nam Kiwanuka。您可能听说过**PCOS**（Polycystic Ovarian Syndrome: 多囊卵巢综合征）。

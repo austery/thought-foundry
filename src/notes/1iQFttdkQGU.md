@@ -1,54 +1,53 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Formula 1
+- Norges Bank Investment Management
+- Ferrari
+- Lamborghini
+- Audi
+- Red Bull
+- FIA
+- Cadillac
+- Apple
+- Hollywood
 date: '2025-05-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Drive to Survive
+- F1
+people:
+- Stefano Domenicali
+- Nicolai Tangen
+- Ayrton Senna
+- Roland Ratzenberger
+- Chase Carey
+- Brad Pitt
+- Jerry Bruckheimer
+- Joseph Kosinski
+products_models:
+- Fiat 500
+project:
+- systems-thinking
+- entrepreneurship
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=1iQFttdkQGU
 speaker: Norges Bank Investment Management
-tags:
-  - formula-1-management
-  - sports-entertainment
-  - fan-engagement
-  - sustainability-goals
-  - organizational-speed
-title: F1总裁兼CEO斯蒂法诺·多梅尼卡利：从赛车运动到全球娱乐平台的转型与未来展望
-summary: F1总裁兼CEO斯蒂法诺·多梅尼卡利在访谈中深入探讨了F1如何从一项传统赛车运动转型为全球娱乐平台。他分享了F1在吸引年轻、多元化粉丝群体方面的策略，平衡历史赛道与新市场拓展的挑战，以及实现碳中和的宏伟目标。多梅尼卡利还讨论了车手特质、团队协作、监管变化对赛事的影响，以及如何通过数据利用和媒体合作（如Netflix的《极速求生》）推动F1的商业增长和品牌影响力。他强调了在高速发展环境中，组织速度、决策质量和持续学习的重要性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-  - cultural-critique
-people:
-  - Stefano Domenicali
-  - Nicolai Tangen
-  - Ayrton Senna
-  - Roland Ratzenberger
-  - Chase Carey
-  - Brad Pitt
-  - Jerry Bruckheimer
-  - Joseph Kosinski
-companies_orgs:
-  - Formula 1
-  - Norges Bank Investment Management
-  - Ferrari
-  - Lamborghini
-  - Audi
-  - Red Bull
-  - FIA
-  - Cadillac
-  - Apple
-  - Hollywood
-products_models:
-  - Fiat 500
-media_books:
-  - Drive to Survive
-  - F1
 status: evergreen
+summary: F1总裁兼CEO斯蒂法诺·多梅尼卡利在访谈中深入探讨了F1如何从一项传统赛车运动转型为全球娱乐平台。他分享了F1在吸引年轻、多元化粉丝群体方面的策略，平衡历史赛道与新市场拓展的挑战，以及实现碳中和的宏伟目标。多梅尼卡利还讨论了车手特质、团队协作、监管变化对赛事的影响，以及如何通过数据利用和媒体合作（如Netflix的《极速求生》）推动F1的商业增长和品牌影响力。他强调了在高速发展环境中，组织速度、决策质量和持续学习的重要性。
+tags:
+- llm
+- management
+- organizational
+- society
+title: F1总裁兼CEO斯蒂法诺·多梅尼卡利：从赛车运动到全球娱乐平台的转型与未来展望
 ---
+
 ### F1：一项运动还是一场电视秀？
 
 **Nicolai:** 大家好。我是**挪威主权财富基金**（Norwegian Southern Wealth Fund: 挪威政府养老基金全球）的首席执行官**尼古拉·坦根**（Nicolai Tangen），今天我非常荣幸能与赛车运动传奇人物**斯蒂法诺·多梅尼卡利**（Stefano Domenicali）共处一室，他目前担任**一级方程式赛车**（Formula 1: 简称F1）的总裁兼首席执行官。斯蒂法诺，非常感谢您的加入。

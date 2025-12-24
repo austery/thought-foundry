@@ -1,31 +1,28 @@
 ---
-title: 从头设计蛋白质：AI赋能下的生命科学新突破
-summary: 诺贝尔奖得主David Baker分享了其团队如何利用AI从头设计蛋白质，并将其应用于疫苗、可持续发展、作物耐热性及生物传感等领域。他强调了开放科学、负责任创新以及蛋白质设计在解决人类未曾面临问题上的巨大潜力。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- biotechnology
-- medicine
-- protein-design
-- sustainability
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-18'
-author: TED
-speaker: TED
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=k-9sQXhHHmk
+speaker: TED
 status: evergreen
+summary: 诺贝尔奖得主David Baker分享了其团队如何利用AI从头设计蛋白质，并将其应用于疫苗、可持续发展、作物耐热性及生物传感等领域。他强调了开放科学、负责任创新以及蛋白质设计在解决人类未曾面临问题上的巨大潜力。
+tags:
+- design
+- health
+- llm
+- technology
+title: 从头设计蛋白质：AI赋能下的生命科学新突破
 ---
+
 ### 开场与诺贝尔奖
 
 Host: Hi, David.

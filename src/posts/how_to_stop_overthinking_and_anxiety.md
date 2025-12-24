@@ -5,21 +5,20 @@ area: null
 category: null
 project: []
 tags:
+- anxiety
+- psychology
 - 佛法
-- 修心
 - 思虑过多
 - 放下
-- 焦虑
 people:
-  - Zera
-  - 王哥
-  - Jay
-  - Jeffrey
-  - Vivi
-  - Candy
+- Zera
+- 王哥
+- Jay
+- Jeffrey
+- Vivi
+- Candy
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-08-21
 author: Lei
 speaker: ''
@@ -31,6 +30,7 @@ series: null
 source: null
 status: evengreen
 ---
+
 ## 开场与焦虑的普遍性
 
 Zera: 可以听见我说话？可以。我现在把我们的问题发到评论区。没关系，我们可以等一会儿。我之前有一场欧洲场，等了很久都没有人，我差点就要关了，结果在最后一秒有人进来了，真是惊险。所以明姐，你那边风景还蛮好的。

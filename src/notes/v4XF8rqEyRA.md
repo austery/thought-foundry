@@ -1,40 +1,38 @@
 ---
-author: TED
+area: society-systems
+category: general
+companies_orgs:
+- TED
+- Netflix
+- La Liste
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Latif Nasser
+- Amaury Guichon
+- Frank
+products_models:
+- YouTube
+- TikTok
+- Instagram
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=v4XF8rqEyRA
 speaker: TED
-tags:
-  - chocolate-artistry
-  - culinary-craft
-  - pastry-industry
-  - social-media-fame
-  - career-journey
-title: 巧克力魔法师Amaury Guichon：艺术、匠心与甜点世界的革新
-summary: Amaury Guichon是一位享誉全球的法瑞裔甜点师，以其精巧绝伦的巧克力雕塑闻名。他分享了自己14岁入行，从烹饪转向甜点，并最终在美国拉斯维加斯发展事业的经历。Guichon强调，尽管作品外观惊艳，他更注重口味和质地，认为甜点制作是科学与艺术的结合。他还谈到通过社交媒体打破行业壁垒，提升甜点师的社会地位，并现场展示了复杂的巧克力时钟制作过程，让观众领略到甜点艺术的魅力。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - Latif Nasser
-  - Amaury Guichon
-  - Frank
-companies_orgs:
-  - TED
-  - Netflix
-  - La Liste
-products_models:
-  - YouTube
-  - TikTok
-  - Instagram
-media_books: []
 status: evergreen
+summary: Amaury Guichon是一位享誉全球的法瑞裔甜点师，以其精巧绝伦的巧克力雕塑闻名。他分享了自己14岁入行，从烹饪转向甜点，并最终在美国拉斯维加斯发展事业的经历。Guichon强调，尽管作品外观惊艳，他更注重口味和质地，认为甜点制作是科学与艺术的结合。他还谈到通过社交媒体打破行业壁垒，提升甜点师的社会地位，并现场展示了复杂的巧克力时钟制作过程，让观众领略到甜点艺术的魅力。
+tags:
+- career
+- industry
+- social
+- technology
+title: 巧克力魔法师Amaury Guichon：艺术、匠心与甜点世界的革新
 ---
+
 ### 享誉世界的巧克力艺术家
 
 好的，主厨，我想可以说全世界都为您的精致巧克力雕塑所着迷。

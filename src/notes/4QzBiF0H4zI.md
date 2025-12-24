@@ -1,38 +1,37 @@
 ---
-author: TVO Today
+area: society-systems
+category: psychology
+companies_orgs:
+- TVO Today
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- My Mother's Daughter
+people:
+- Pura Felicia
+- Andrew Wong
+- Nova
+- Sydney Crosby
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=4QzBiF0H4zI
 speaker: TVO Today
-tags:
-  - youth-competition
-  - child-development
-  - parental-pressure
-  - healthy-competition
-  - resilience
-title: 激烈竞争对孩子是好是坏？——儿童竞争心理学探讨
-summary: 本文探讨了激烈竞争对儿童成长和心理健康的影响，区分了健康与不健康的竞争。世界冠军跨栏运动员普丽塔·费利西亚和临床心理学家安德鲁·黄分享了他们的见解，强调了社交、乐趣、技能发展的重要性，并警告了过度职业化、父母投射期望以及只关注输赢的危害。他们建议父母应帮助孩子培养多元身份、韧性，并学会从失败中学习，而非一味追求胜利。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Pura Felicia
-  - Andrew Wong
-  - Nova
-  - Sydney Crosby
-companies_orgs:
-  - TVO Today
-products_models: []
-media_books:
-  - My Mother's Daughter
 status: evergreen
+summary: 本文探讨了激烈竞争对儿童成长和心理健康的影响，区分了健康与不健康的竞争。世界冠军跨栏运动员普丽塔·费利西亚和临床心理学家安德鲁·黄分享了他们的见解，强调了社交、乐趣、技能发展的重要性，并警告了过度职业化、父母投射期望以及只关注输赢的危害。他们建议父母应帮助孩子培养多元身份、韧性，并学会从失败中学习，而非一味追求胜利。
+tags:
+- competition
+- development
+- resilience
+- technology
+title: 激烈竞争对孩子是好是坏？——儿童竞争心理学探讨
 ---
+
 ### 竞争：动力还是压力？
 
 体育界充满了励志格言，比如“付出百分之一百一十的努力”、“不劳无获”。

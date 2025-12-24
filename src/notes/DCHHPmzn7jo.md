@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-02-08
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=DCHHPmzn7jo'
-speaker: 徒步的騎手
-tags:
-  - humor-suppression
-  - chinese-society
-  - stand-up-comedy
-  - political-control
-  - cultural-criticism
-title: 中国是否开得起玩笑？从脱口秀遭遇看社会幽默感的缺失
-summary: 本文探讨了中国社会对幽默和玩笑的接受度，通过分析脱口秀演员的遭遇（如杨笠、黄鹤及侮辱解放军事件），揭示了高压社会、伪道学传统及精神阉割如何导致国民幽默感萎缩、心理脆弱，甚至将娱乐上纲上线。文章引用林语堂的观点，反思中国文化在幽默感方面的历史变迁与当下困境，并呼吁社会摆脱“巨婴”心态，重拾幽默与智慧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-  - historical-insights
-people:
-  - 杨笠
-  - 黄鹤
-  - 林语堂
+category: geopolitics
 companies_orgs:
-  - 纽约时报
-  - 波士顿环球报
-products_models: '[]'
+- 纽约时报
+- 波士顿环球报
+date: 2025-02-08
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - In China, comedy is giving women a voice, but can men take a joke?
-  - Why can't men in China take a joke?
-  - Can China Take a Joke
-  - 《普心难断》
+- In China, comedy is giving women a voice, but can men take a joke?
+- Why can't men in China take a joke?
+- Can China Take a Joke
+- 《普心难断》
+people:
+- 杨笠
+- 黄鹤
+- 林语堂
+products_models: '[]'
+project:
+- china-analysis
+- cultural-critique
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=DCHHPmzn7jo
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了中国社会对幽默和玩笑的接受度，通过分析脱口秀演员的遭遇（如杨笠、黄鹤及侮辱解放军事件），揭示了高压社会、伪道学传统及精神阉割如何导致国民幽默感萎缩、心理脆弱，甚至将娱乐上纲上线。文章引用林语堂的观点，反思中国文化在幽默感方面的历史变迁与当下困境，并呼吁社会摆脱“巨婴”心态，重拾幽默与智慧。
+tags:
+- canada
+- chinese
+- cultural
+- political-control
+- stand-up-comedy
+title: 中国是否开得起玩笑？从脱口秀遭遇看社会幽默感的缺失
 ---
 
 ### 中国人是否开得起玩笑？

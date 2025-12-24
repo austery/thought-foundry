@@ -1,54 +1,54 @@
 ---
-author: 夸克说
+area: society-systems
+category: culture
+companies_orgs:
+- Bilibili
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《知否》
+- 《史记·殷本纪》
+- 《红楼梦》
+people:
+- 夸克
+- Sigmund Freud
+- 风歌亡命天涯
+- 盛小六
+- 李世民
+- 孔子
+- 孟子
+- 西门庆
+- 贾宝玉
+- 贾政
+- 朱元璋
+- 朱棣
+- 陈胜
+- 吴广
+- 项羽
+- 刘邦
+- 赵佗
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=odCaDnnMpbc
 speaker: 夸克说
-tags:
-  - chinese-male-behavior
-  - patriarchal-system
-  - primogeniture
-  - societal-pressure
-  - cultural-inertia
-title: 中国男性为何热衷娶妻生子：从性压抑到宗法制度的深层解析
-summary: 本文深入探讨了简中互联网上热议的“力工梭哈”和“理工男脉冲”现象，以及将其归因于“性压抑理论”的局限性。通过回溯周代商的历史变革，详细剖析了宗法制度和嫡长子继承制对中国社会价值观的深远影响，揭示了男性将娶妻生子视为人生首要目标的文化根源。文章进一步探讨了宗族集体主义、贵族对性资源的挤占如何加剧了民间内卷，并指出即便在现代社会，文化惯性、社会压力及国家意志仍共同塑造着这一现象。最终，文章将“父权制压迫”的核心归结为权力而非性别，强调在特定社会结构下，底层男性和女性都可能是受害者。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 夸克
-  - Sigmund Freud
-  - 风歌亡命天涯
-  - 盛小六
-  - 李世民
-  - 孔子
-  - 孟子
-  - 西门庆
-  - 贾宝玉
-  - 贾政
-  - 朱元璋
-  - 朱棣
-  - 陈胜
-  - 吴广
-  - 项羽
-  - 刘邦
-  - 赵佗
-companies_orgs:
-  - Bilibili
-products_models: []
-media_books:
-  - 《知否》
-  - 《史记·殷本纪》
-  - 《红楼梦》
 status: evergreen
+summary: 本文深入探讨了简中互联网上热议的“力工梭哈”和“理工男脉冲”现象，以及将其归因于“性压抑理论”的局限性。通过回溯周代商的历史变革，详细剖析了宗法制度和嫡长子继承制对中国社会价值观的深远影响，揭示了男性将娶妻生子视为人生首要目标的文化根源。文章进一步探讨了宗族集体主义、贵族对性资源的挤占如何加剧了民间内卷，并指出即便在现代社会，文化惯性、社会压力及国家意志仍共同塑造着这一现象。最终，文章将“父权制压迫”的核心归结为权力而非性别，强调在特定社会结构下，底层男性和女性都可能是受害者。
+tags:
+- canada
+- chinese
+- cultural
+- societal
+- system
+title: 中国男性为何热衷娶妻生子：从性压抑到宗法制度的深层解析
 ---
+
 ### 现象与理论：力工梭哈、理工男脉冲与性压抑
 
 本期节目，我们将探讨简中互联网上近期热议，但又被官方迅速和谐的几个概念：**力工梭哈**（一种形容中国男性将娶妻生子视为人生最重要目标，为此不惜拼命压缩消费、牺牲健康，甚至从事高危工作的现象）定律、**理工男脉冲**（与力工梭哈本质相同，但在追求目标时手段略有不同，更倾向于分期投入而非一次性梭哈）和**性压抑理论**。

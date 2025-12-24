@@ -1,52 +1,53 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg Intelligence
+- Amazon
+- Walmart
+- International Paper
+- Smurfit Kappa
+- WestRock
+- Packaging Corporation of America
+- Georgia-Pacific
+- Pratt Industries
+- UPS
+- FedEx
+- International Safe Transit Authority
+- Sprouts Market
+- National Renewable Energy Lab
 date: '2025-09-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- The Box
+people:
+- Ryan Fox
+products_models:
+- Bloomberg Terminal
+- Bloomberg Corrugated Box Cost Index
+project:
+- us-analysis
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=UIynJIjIjl8
 speaker: Bloomberg Podcasts
-tags:
-  - box-shipments
-  - macroeconomic-indicators
-  - consumer-spending
-  - packaging-industry
-  - recycling-economics
-title: 纸箱：一个被忽视的美国经济晴雨表
-summary: 本期《Odd Lots》播客深入探讨了瓦楞纸箱作为美国经济非传统宏观指标的价值。嘉宾Ryan Fox指出，美国纸箱出货量已跌至2015年以来的最低水平，反映出消费者支出和零售健康的潜在问题。尽管需求下降且库存高企，纸箱价格却反常上涨，这与行业的高度垂直整合和缺乏开放市场竞争有关。节目还讨论了回收经济的挑战、包装技术的创新以及关税和消费者债务对行业前景的影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - investment-strategy
-people:
-  - Ryan Fox
-companies_orgs:
-  - Bloomberg Intelligence
-  - Amazon
-  - Walmart
-  - International Paper
-  - Smurfit Kappa
-  - WestRock
-  - Packaging Corporation of America
-  - Georgia-Pacific
-  - Pratt Industries
-  - UPS
-  - FedEx
-  - International Safe Transit Authority
-  - Sprouts Market
-  - National Renewable Energy Lab
-products_models:
-  - Bloomberg Terminal
-  - Bloomberg Corrugated Box Cost Index
-media_books:
-  - Odd Lots
-  - The Box
 status: evergreen
+summary: 本期《Odd Lots》播客深入探讨了瓦楞纸箱作为美国经济非传统宏观指标的价值。嘉宾Ryan Fox指出，美国纸箱出货量已跌至2015年以来的最低水平，反映出消费者支出和零售健康的潜在问题。尽管需求下降且库存高企，纸箱价格却反常上涨，这与行业的高度垂直整合和缺乏开放市场竞争有关。节目还讨论了回收经济的挑战、包装技术的创新以及关税和消费者债务对行业前景的影响。
+tags:
+- consumer-spending
+- industry
+- macroeconomic-indicator
+- society
+title: 纸箱：一个被忽视的美国经济晴雨表
+companies:
+- recycling-economics
 ---
+
 ### 纸箱：一个不寻常的宏观经济指标
 
 **Tracy:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Alloway。

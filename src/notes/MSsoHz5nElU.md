@@ -1,40 +1,39 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- Canadian Tire
+- Flair Air
+- Holiday Inn
+- Ramada
+- Obriens Boat Tour
 date: '2024-08-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- James Cook
+products_models:
+- Moose Burger
+- Kia SUV
+- Bear spray
+project:
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=MSsoHz5nElU
 speaker: 莊也雜談
-tags:
-  - newfoundland-travel
-  - canada-road-trip
-  - travel-budget
-  - regional-economy
-  - wildlife-watching
-title: 纽芬兰七日自驾游深度总结：费用、景点与经济面面观
-summary: 本篇详细记录了庄也杂谈在纽芬兰为期七天的自驾之旅。从科纳布鲁克到落基港，再到圣约翰斯，作者分享了沿途的风景、历史文化、美食体验，并深入探讨了纽芬兰的经济现状、物价水平及独特的加油站文化。文章还详细曝光了此行的总花费，并对观鸟观鲸体验进行了中肯评价。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - historical-insights
-people:
-  - James Cook
-companies_orgs:
-  - Canadian Tire
-  - Flair Air
-  - Holiday Inn
-  - Ramada
-  - Obriens Boat Tour
-products_models:
-  - Moose Burger
-  - Kia SUV
-  - Bear spray
-media_books: []
 status: evergreen
+summary: 本篇详细记录了庄也杂谈在纽芬兰为期七天的自驾之旅。从科纳布鲁克到落基港，再到圣约翰斯，作者分享了沿途的风景、历史文化、美食体验，并深入探讨了纽芬兰的经济现状、物价水平及独特的加油站文化。文章还详细曝光了此行的总花费，并对观鸟观鲸体验进行了中肯评价。
+tags:
+- canada
+- economy
+- life
+- newfoundland-travel
+- travel
+title: 纽芬兰七日自驾游深度总结：费用、景点与经济面面观
 ---
+
 ### 纽芬兰之旅：科纳布鲁克与第七日行程
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊纽芬兰的自驾之旅。上集我们讲到在科纳布鲁克（Corner Brook）住店，接下来，咱们就书接上文，说一下第七天，也就是7月5日星期五，这天都发生了什么事。

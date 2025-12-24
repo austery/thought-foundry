@@ -1,66 +1,66 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Silicon Valley Bank
+- Consumer Financial Protection Bureau
+- Federal Trade Commission
+- Silvergate Bank
+- FTX
+- Federal Deposit Insurance Corporation
+- Signature Bank
+- First Republic Bank
+- Federal Reserve
+- Apple
+- Meta
+- PayPal
+- JPMorgan
+- Wells Fargo
+- Robinhood
+- Walmart
+- Alipay
+- WeChat Pay
 date: '2025-07-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+- FT
+- Bloomberg Podcasts
+people:
+- Tracy Aloway
+- Joe Weisenthal
+- Roit Chopra
+- Josh Younger
+- Stephen Kelly
+- Mark Zuckerberg
+- Sheryl Sandberg
+- Nigel Farage
+products_models:
+- Libra project
+- Apple Pay
+- Bank Term Funding Program
+project:
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=elxkRPcsSQQ
 speaker: Bloomberg Podcasts
-tags:
-  - bank-regulation
-  - financial-stability
-  - fintech
-  - stablecoins
-  - buy-now-pay-later
-  - deposit-insurance
-title: 美国银行如何应对监管与创新挑战：从SVB危机到金融科技的未来
-summary: 本期播客深入探讨了美国金融系统的复杂性，审视了硅谷银行倒闭事件、银行监管的作用与挑战，以及金融科技的演变格局。嘉宾们讨论了未受保存款的影响、美联储的应对措施，以及稳定币和“先买后付”（BNPL）服务的兴起。对话强调了创新与稳定之间的张力、市场整合的风险，以及在快速变化的金融世界中建立清晰监管框架的必要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-people:
-  - Tracy Aloway
-  - Joe Weisenthal
-  - Roit Chopra
-  - Josh Younger
-  - Stephen Kelly
-  - Mark Zuckerberg
-  - Sheryl Sandberg
-  - Nigel Farage
-companies_orgs:
-  - Bloomberg
-  - Silicon Valley Bank
-  - Consumer Financial Protection Bureau
-  - Federal Trade Commission
-  - Silvergate Bank
-  - FTX
-  - Federal Deposit Insurance Corporation
-  - Signature Bank
-  - First Republic Bank
-  - Federal Reserve
-  - Apple
-  - Meta
-  - PayPal
-  - JPMorgan
-  - Wells Fargo
-  - Robinhood
-  - Walmart
-  - Alipay
-  - WeChat Pay
-products_models:
-  - Libra project
-  - Apple Pay
-  - Bank Term Funding Program
-media_books:
-  - Odd Lots podcast
-  - FT
-  - Bloomberg Podcasts
 status: evergreen
+summary: 本期播客深入探讨了美国金融系统的复杂性，审视了硅谷银行倒闭事件、银行监管的作用与挑战，以及金融科技的演变格局。嘉宾们讨论了未受保存款的影响、美联储的应对措施，以及稳定币和“先买后付”（BNPL）服务的兴起。对话强调了创新与稳定之间的张力、市场整合的风险，以及在快速变化的金融世界中建立清晰监管框架的必要性。
+tags:
+- buy-now-pay-later
+- deposit-insurance
+- financial-stability
+- fintech
+- regulation
+- stablecoin
+title: 美国银行如何应对监管与创新挑战：从SVB危机到金融科技的未来
 ---
+
 ### 硅谷银行危机：传统业务模式的意外失败
 
 **Tracy Aloway:** 几年前，如果我告诉你有一家银行，它吸收存款，比如活期账户，然后把这些钱投资于美国国债，但这种商业模式最终会彻底失败，银行会倒闭，你会怎么说？

@@ -1,31 +1,31 @@
 ---
-title: 两次从地狱爬出的男人：霍华德·卢特尼克的传奇人生与政治旅程
-summary: 本文讲述了霍华德·卢特尼克——一位两次从人生谷底爬起的华尔街精英，如何在9/11事件后重建公司、守护员工家庭，又如何凭借其独特韧性与智慧，从特朗普的密友蜕变为其政府的核心成员，甚至在幕后指导谈判对手，最终成为商务部长的传奇故事。
 area: market-analysis
 category: business
-project:
-- entrepreneurship
-tags:
-- 9-11-attacks
-- business-leadership
-- resilience
-people:
-- donald-trump
-- howard-lutnick
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people:
+- donald-trump
+- howard-lutnick
+products_models: []
+project:
+- entrepreneurship
 series: ''
 source: https://www.youtube.com/watch?v=9SWouQT4jJs
+speaker: 北美王路飞
 status: evergreen
+summary: 本文讲述了霍华德·卢特尼克——一位两次从人生谷底爬起的华尔街精英，如何在9/11事件后重建公司、守护员工家庭，又如何凭借其独特韧性与智慧，从特朗普的密友蜕变为其政府的核心成员，甚至在幕后指导谈判对手，最终成为商务部长的传奇故事。
+tags:
+- 9-11-attack
+- business-leadership
+- resilience
+title: 两次从地狱爬出的男人：霍华德·卢特尼克的传奇人生与政治旅程
 ---
+
 ### 魔鬼邻居与直觉的礼物
 
 你是否曾想过，如果魔鬼就住在你家隔壁，你能在第一次见面时就认出他吗？这并非电影情节，而是霍华德·卢特尼克在成为特朗普政府商务部长多年前的真实经历。时间回到2005年，卢特尼克刚刚搬入纽约东71街11号的新家，而住在9号、与他一墙之隔的邻居，正是后来臭名昭著的**杰弗里·爱泼斯坦**（Jeffrey Epstein: 美国金融家，因性侵未成年少女和性交易被捕并定罪的罪犯）。

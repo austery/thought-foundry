@@ -1,49 +1,49 @@
 ---
-author: 柴静 Chai Jing
+area: society-thinking
+category: history
+companies_orgs:
+- 人民日报
+- 华北局
+- 中科院
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《顾准日记》
+people:
+- 顾准
+- 毛泽东
+- 张树凡
+- 李瑞英
+- 赫鲁晓夫
+- 彭德怀
+- 沈万山
+- 陆宪文
+- 张申
+- 杨守吉
+- 汪碧
+- 张富红
+- 李雪峰
+- 许云洲
+- gu-zhun
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=RmpTm4KRWAk
 speaker: 柴静 Chai Jing
-tags:
-  - great-famine
-  - gu-zhun
-  - political-ideology
-  - historical-analysis
-  - propaganda
-title: “集中营”纪录大饥荒：有天大的谎言，才有天大的灾难｜顾准日记
-summary: 本视频通过**顾准**的日记，记录了其在**河南信阳**劳改期间亲历的**大饥荒**。揭示了这场灾难并非天灾，而是国家对抗农民的冲突，源于虚报的统计数字、政治挂帅的意识形态以及对真相的掩盖，并探讨了其对个人尊严和理想主义的冲击。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - 顾准
-  - 毛泽东
-  - 张树凡
-  - 李瑞英
-  - 赫鲁晓夫
-  - 彭德怀
-  - 沈万山
-  - 陆宪文
-  - 张申
-  - 杨守吉
-  - 汪碧
-  - 张富红
-  - 李雪峰
-  - 许云洲
-companies_orgs:
-  - 人民日报
-  - 华北局
-  - 中科院
-products_models: []
-media_books:
-  - 《顾准日记》
 status: evergreen
+summary: 本视频通过**顾准**的日记，记录了其在**河南信阳**劳改期间亲历的**大饥荒**。揭示了这场灾难并非天灾，而是国家对抗农民的冲突，源于虚报的统计数字、政治挂帅的意识形态以及对真相的掩盖，并探讨了其对个人尊严和理想主义的冲击。
+tags:
+- china
+- historical-analysis
+- political
+- society
+title: “集中营”纪录大饥荒：有天大的谎言，才有天大的灾难｜顾准日记
 ---
+
 ### 思想家的亲历
 
 上期节目说到高华的时候，我谈到了顾准。**顾准**（Gu Zhun: 20世纪中国最重要的思想家之一）是20世纪中国最重要的，也是最著名的思想家之一。而1959年，作为**右派**（Rightist: 在1957年反右运动中被划为“资产阶级右派”的知识分子或干部），在**河南信阳**（Henan Xinyang: 劳改地点）劳改时，亲历了**大饥荒**（Great Famine: 1959-1961年中国发生的全国性饥荒）。这是他思想历程中最为残酷也最为关键的一段。据估计，信阳地区800万人口中超过100万死于饥荒。顾准认为，大饥荒不是天灾，也不是简单的人祸，而是一场国家对抗农民的冲突。

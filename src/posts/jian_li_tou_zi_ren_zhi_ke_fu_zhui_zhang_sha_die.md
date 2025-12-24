@@ -6,16 +6,15 @@ category: finance
 project:
 - investment-strategy
 tags:
-  - 投资认知
-  - 比特币
-  - 长期持有
-  - 风险管理
+- bitcoin
+- investment
+- long
+- risk-management
 people:
-  - 课代表立正
-  - Terry
+- 课代表立正
+- Terry
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-08-09
 author: Lei
 speaker: ''
@@ -28,6 +27,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与近期回顾
 
 课代表: hello Terry。

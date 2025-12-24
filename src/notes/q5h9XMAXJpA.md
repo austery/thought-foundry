@@ -1,30 +1,30 @@
 ---
-title: 3个月英文质变：100LS方法深度解析与避坑指南
-summary: 本文深度解析100LS英文学习法，结合个人经验，揭示其有效性与潜在陷阱，并提供创新性执行策略，助你高效突破语言瓶颈。
 area: null
 category: null
+companies_orgs: []
+date: '2025-10-08'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books: []
+people:
+- kevinfeng
+products_models: []
 project: []
+series: ''
+source: https://www.youtube.com/watch?v=q5h9XMAXJpA
+speaker: KevinFeng 冯凯文
+status: evergreen
+summary: 本文深度解析100LS英文学习法，结合个人经验，揭示其有效性与潜在陷阱，并提供创新性执行策略，助你高效突破语言瓶颈。
 tags:
 - efficiency
 - english
 - language-learning
 - methodology
-people:
-- kevinfeng
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-08'
-author: KevinFeng 冯凯文
-speaker: KevinFeng 冯凯文
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=q5h9XMAXJpA
-status: evergreen
+title: 3个月英文质变：100LS方法深度解析与避坑指南
 ---
+
 ### 告别卡顿与天书：解锁英文学习新思路
 
 你是否在说英文时常常词不达意，听外国人讲话如同听天书？今天，我们将分享一个能在短时间内显著提升英文水平的简便方法。当然，没有完美无缺的方法，在介绍具体步骤的同时，我们也会深入剖析其背后的潜在陷阱，帮助你精准避坑，实现更高效的进步。

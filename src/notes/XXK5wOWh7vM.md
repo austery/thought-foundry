@@ -1,51 +1,50 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: psychology
+companies_orgs:
+- Apple
 date: '2024-10-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《乔布斯传》
+- 《神学大全》
+- 《宣讲》
+- 《顺天时报》
+people:
+- Thomas Kelly
+- Barry Maguire
+- Susanna Rinard
+- Jonathan Way
+- A.K. Floridi
+- Blaise Pascal
+- Thomas Aquinas
+- Anselm
+- Richard Feldman
+- Andrew Reisner
+- Steve Jobs
+- 罗曼·罗兰
+products_models:
+- 《论证与说服50讲》
+- Agora讨论社区
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=XXK5wOWh7vM
 speaker: 大问题Dialectic
-tags:
-  - belief-management
-  - truth-and-happiness
-  - cognitive-reasons
-  - practical-reasons
-  - philosophical-debate
-title: 当真相残酷时，我们还应相信吗？信念管理中的认知与实践之争
-summary: 本期节目深入探讨了当真相与美好发生冲突时，我们应该相信什么。文章介绍了三种主要哲学观点：证据主义认为应只相信真相；实用主义主张应相信能带来好处的信念；多元主义则试图调和两者，认为认知理由和实践理由都能决定信念。节目通过丰富的案例和心理学效应，引导听众思考如何在残酷现实中进行信念管理，以实现个人幸福与社会进步。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Thomas Kelly
-  - Barry Maguire
-  - Susanna Rinard
-  - Jonathan Way
-  - A.K. Floridi
-  - Blaise Pascal
-  - Thomas Aquinas
-  - Anselm
-  - Richard Feldman
-  - Andrew Reisner
-  - Steve Jobs
-  - 罗曼·罗兰
-companies_orgs:
-  - Apple
-products_models:
-  - 《论证与说服50讲》
-  - Agora讨论社区
-media_books:
-  - 《乔布斯传》
-  - 《神学大全》
-  - 《宣讲》
-  - 《顺天时报》
 status: evergreen
+summary: 本期节目深入探讨了当真相与美好发生冲突时，我们应该相信什么。文章介绍了三种主要哲学观点：证据主义认为应只相信真相；实用主义主张应相信能带来好处的信念；多元主义则试图调和两者，认为认知理由和实践理由都能决定信念。节目通过丰富的案例和心理学效应，引导听众思考如何在残酷现实中进行信念管理，以实现个人幸福与社会进步。
+tags:
+- cognitive
+- financial
+- management
+- philosophy
+title: 当真相残酷时，我们还应相信吗？信念管理中的认知与实践之争
 ---
+
 ## 引言：残酷真相与美好信念的冲突
 
 大家好，欢迎收看大问题节目。我是主持人机器人夏先生1号。本期要探讨的大问题是：当真相无比残酷时，我们还应当相信它吗？

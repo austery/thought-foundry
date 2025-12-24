@@ -1,45 +1,43 @@
 ---
-author: Veritasium
-date: '2025-09-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=tZ8ehplVFp4
-speaker: Veritasium
-tags:
-  - veritasium
-  - escalator-safety
-  - maintenance-failure
-  - human-negligence
-  - public-transportation
-  - regenerative-braking
-title: 罗马最危险的自动扶梯：一场工程奇迹背后的维护悲剧
-summary: 本文深入探讨了罗马一起自动扶梯事故的悲剧性细节，追溯了自动扶梯从游乐设施到现代交通工具的演变历程。文章详细介绍了其精巧的工程设计和多重安全机制，并揭示了罗马事故并非技术故障，而是由人为疏忽、记录造假及安全系统蓄意破坏所致。强调了正确维护对于保障自动扶梯安全运行的至关重要性。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Jesse Reno
-  - George Wheeler
-  - Charles Seeberger
-  - Philippe Jullian
-  - Renato Domico
+category: general
 companies_orgs:
-  - Harrods
-  - Otis Elevator Company
-  - Metro Roma
-  - ATAC
-  - Brilliant
+- Harrods
+- Otis Elevator Company
+- Metro Roma
+- ATAC
+- Brilliant
+date: '2025-09-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Jesse Reno
+- George Wheeler
+- Charles Seeberger
+- Philippe Jullian
+- Renato Domico
 products_models:
-  - Continuous Elevator
-  - Revolving Stairs
-media_books: []
+- Continuous Elevator
+- Revolving Stairs
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=tZ8ehplVFp4
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了罗马一起自动扶梯事故的悲剧性细节，追溯了自动扶梯从游乐设施到现代交通工具的演变历程。文章详细介绍了其精巧的工程设计和多重安全机制，并揭示了罗马事故并非技术故障，而是由人为疏忽、记录造假及安全系统蓄意破坏所致。强调了正确维护对于保障自动扶梯安全运行的至关重要性。
+tags:
+- failure
+- human
+- llm
+- public
+- safety
+title: 罗马最危险的自动扶梯：一场工程奇迹背后的维护悲剧
 ---
+
 ### 罗马扶梯事故：失控的下坠
 
 2018年10月23日，数千名足球迷正赶往罗马观看比赛。

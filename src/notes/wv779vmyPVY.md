@@ -1,28 +1,27 @@
 ---
-title: 斯坦福大学教授：如何在13分钟内学会由AI驱动的创造力
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - prompt
-people: 
- - Jeremy Utley
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-04-27'
+area: tech-engineering
 author: Lei
-speaker: EO
+category: ai-ml
 channel: null
+companies_orgs: []
+date: '2025-04-27'
 guest: null
 insight: null
 layout: post.njk
+people:
+- Jeremy Utley
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=wv779vmyPVY&t
+speaker: EO
+summary: null
+tags:
+- llm
+title: 斯坦福大学教授：如何在13分钟内学会由AI驱动的创造力
 ---
+
 > I've always been jealous of Winston Churchill. There's a quote, by the way. The history of innovation is the bed, the bus and the bathtub. It's always these moments when we're not really thinking about work or we're kind of doing something else that good ideas come to us.
 
 我一直很羡慕温斯顿·丘吉尔。顺便提一句，有这样一句名言：创新的历史诞生于床笫、公交和浴缸。总是在我们没有真正思考工作，或者正在做别的事情的时候，好点子才会不期而至。

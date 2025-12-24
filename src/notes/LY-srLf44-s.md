@@ -1,72 +1,72 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 同盟会
+- 华兴会
+- 光复会
+- 新中会
+- 共进会
+- 创造社
+- 黑龙会
+- 丑安会
+- 保定陆军军官学校
+- 东京帝国大学
+- 振武学校
 date: '2025-09-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《民报》
+- 《阿Q正传》
+- 《域外小说集》
+people:
+- 梁启超
+- 孙文
+- 黄兴
+- 宋教仁
+- 章太炎
+- 蔡锷
+- 鲁迅
+- 郁达夫
+- 范旭东
+- 钱穆
+- 陈寅恪
+- 汪精卫
+- 蒋中正
+- 袁世凯
+- 张勋
+- 范源濂
+- 蔡元培
+- 郭沫若
+- 陶成章
+- 杨度
+- 康有为
+- 慈禧太后
+- 溥仪
+- 严复
+- 陈其美
+- 胡汉民
+- 陆皓东
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=LY-srLf44-s
 speaker: 东京人文论坛
-tags:
-  - nation-building
-  - revolutionary-movements
-  - internal-conflict
-  - overseas-students
-title: 在东京重造中国：1895-1925年间的革命、思想与人物
-summary: 本讲座深入探讨了1895年至1925年间，东京如何成为重塑近代中国的中心。讲者分析了三类关键人群——流亡者、留学生与华侨，如何通过革命与非革命两条路径，在思想、制度、工业、教育和文学等多个维度上“重造中国”。文章详细剖析了同盟会内部的派系斗争，如孙中山、黄兴、章太炎等人的矛盾，并以鲁迅等人的经历为例，揭示了那个时代复杂的历史图景。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 梁启超
-  - 孙文
-  - 黄兴
-  - 宋教仁
-  - 章太炎
-  - 蔡锷
-  - 鲁迅
-  - 郁达夫
-  - 范旭东
-  - 钱穆
-  - 陈寅恪
-  - 汪精卫
-  - 蒋中正
-  - 袁世凯
-  - 张勋
-  - 范源濂
-  - 蔡元培
-  - 郭沫若
-  - 陶成章
-  - 杨度
-  - 康有为
-  - 慈禧太后
-  - 溥仪
-  - 严复
-  - 陈其美
-  - 胡汉民
-  - 陆皓东
-companies_orgs:
-  - 同盟会
-  - 华兴会
-  - 光复会
-  - 新中会
-  - 共进会
-  - 创造社
-  - 黑龙会
-  - 丑安会
-  - 保定陆军军官学校
-  - 东京帝国大学
-  - 振武学校
-products_models: []
-media_books:
-  - 《民报》
-  - 《阿Q正传》
-  - 《域外小说集》
 status: evergreen
+summary: 本讲座深入探讨了1895年至1925年间，东京如何成为重塑近代中国的中心。讲者分析了三类关键人群——流亡者、留学生与华侨，如何通过革命与非革命两条路径，在思想、制度、工业、教育和文学等多个维度上“重造中国”。文章详细剖析了同盟会内部的派系斗争，如孙中山、黄兴、章太炎等人的矛盾，并以鲁迅等人的经历为例，揭示了那个时代复杂的历史图景。
+tags:
+- conflict
+- life
+- movement
+- nation-building
+title: 在东京重造中国：1895-1925年间的革命、思想与人物
 ---
+
 ### 从个人体验到历史命题：为何是东京？
 
 我们现在正式开始今天的主题：在东京重造中国。

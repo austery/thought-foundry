@@ -1,48 +1,47 @@
 ---
-author: Veritasium
-date: '2025-06-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=J3i3F2e4IYs
-speaker: Veritasium
-tags:
-  - veritasium
-  - football-physics
-  - aerodynamics
-  - gyroscopic-precession
-  - spin-effect
-  - drag-reduction
-title: 揭秘足球投掷物理：为何汤姆·布雷迪的传球总会晃动和偏转？
-summary: 本文深入探讨了美式橄榄球传球的物理学原理，以传奇四分卫汤姆·布雷迪的投掷为例，揭示了即使是顶尖选手也无法投出“完美”螺旋球的奥秘。文章解释了旋转如何减少空气阻力、稳定球体飞行，以及陀螺进动如何导致球体在飞行中发生“翻转”和细微的偏转。通过风洞实验和计算流体动力学分析，揭示了这些看似的“缺陷”实则是精准传球不可或缺的物理机制，并探讨了外部环境对传球准确性的影响。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Tom Brady
-  - Derek Muller
-  - Henry
-  - Ricky
-  - Claude-Etienne Minie
-  - Jerry Rice
-  - Joe Montana
-  - Steve Young
-  - Phillip
+category: science
 companies_orgs:
-  - NFL
-  - NordVPN
-  - The American Journal of Physics
-products_models:
-  - Musket
-  - Minie bullet
+- NFL
+- NordVPN
+- The American Journal of Physics
+date: '2025-06-01'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The American Journal of Physics
+- The American Journal of Physics
+people:
+- Tom Brady
+- Derek Muller
+- Henry
+- Ricky
+- Claude-Etienne Minie
+- Jerry Rice
+- Joe Montana
+- Steve Young
+- Phillip
+products_models:
+- Musket
+- Minie bullet
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=J3i3F2e4IYs
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了美式橄榄球传球的物理学原理，以传奇四分卫汤姆·布雷迪的投掷为例，揭示了即使是顶尖选手也无法投出“完美”螺旋球的奥秘。文章解释了旋转如何减少空气阻力、稳定球体飞行，以及陀螺进动如何导致球体在飞行中发生“翻转”和细微的偏转。通过风洞实验和计算流体动力学分析，揭示了这些看似的“缺陷”实则是精准传球不可或缺的物理机制，并探讨了外部环境对传球准确性的影响。
+tags:
+- effect
+- financial
+- llm
+- science
+- technology
+title: 揭秘足球投掷物理：为何汤姆·布雷迪的传球总会晃动和偏转？
 ---
+
 ### 汤姆·布雷迪的“不完美”螺旋球
 
 这是汤姆·布雷迪。他是美国橄榄球史上最伟大的四分卫。

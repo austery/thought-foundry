@@ -1,47 +1,46 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Bloomberg Audio Studios
+- Terteranova Capital
+- Ferrero
+- Ministry of Agriculture in Turkey
 date: '2025-08-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- The Big Short
+people:
+- Joe Wisenthal
+- Tracy Alloway
+- Michael Burry
+- Burton Flynn
+- Ivan Neunev
+- Isabella Weber
+products_models:
+- Nutella
+- Fix chocolate
+- Dubai chocolate
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=e-ibLQTtOJY
 speaker: Bloomberg Podcasts
-tags:
-  - commodity-markets
-  - supply-chain-disruption
-  - investment-strategy
-  - market-opaqueness
-  - agricultural-productivity
-title: 土耳其榛子：下一个开心果？探秘小众大宗商品的投资机遇
-summary: 本期Odd Lots播客深入探讨了榛子作为一种小众大宗商品的投资潜力。嘉宾Terteranova Capital的Burton Flynn和Ivan Neunev分析了土耳其作为全球主要榛子产地的市场结构、面临的自然灾害（霜冻、虫害、干旱）及其对全球供应的严重影响。他们还介绍了智利如何通过工业化种植成为新兴产地，以及在不透明的边境市场中，投资者如何通过深入研究和改善公司投资者关系来发现被低估的投资机会。节目也提及了开心果市场因天气而非迪拜巧克力热潮导致的供应短缺，并讨论了可可市场作为类似案例的投资策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Joe Wisenthal
-  - Tracy Alloway
-  - Michael Burry
-  - Burton Flynn
-  - Ivan Neunev
-  - Isabella Weber
-companies_orgs:
-  - Bloomberg Audio Studios
-  - Terteranova Capital
-  - Ferrero
-  - Ministry of Agriculture in Turkey
-products_models:
-  - Nutella
-  - Fix chocolate
-  - Dubai chocolate
-media_books:
-  - Odd Lots
-  - The Big Short
 status: evergreen
+summary: 本期Odd Lots播客深入探讨了榛子作为一种小众大宗商品的投资潜力。嘉宾Terteranova Capital的Burton Flynn和Ivan
+  Neunev分析了土耳其作为全球主要榛子产地的市场结构、面临的自然灾害（霜冻、虫害、干旱）及其对全球供应的严重影响。他们还介绍了智利如何通过工业化种植成为新兴产地，以及在不透明的边境市场中，投资者如何通过深入研究和改善公司投资者关系来发现被低估的投资机会。节目也提及了开心果市场因天气而非迪拜巧克力热潮导致的供应短缺，并讨论了可可市场作为类似案例的投资策略。
+tags:
+- market
+- productivity
+- supply-chain-disruption
+title: 土耳其榛子：下一个开心果？探秘小众大宗商品的投资机遇
 ---
+
 ### 开场白与坚果情结
 
 **Bloomberg Audio Studios** 播客、电台新闻。

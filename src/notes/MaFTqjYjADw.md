@@ -1,40 +1,40 @@
 ---
-author: Internet of Bugs
+area: society-systems
+category: general
+companies_orgs:
+- Volkswagen
+- Uber
+- Character.ai
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- If Anyone Builds it Everyone Dies
+- Dune
+- AI 2027 report
+people:
+- Carl
+products_models: []
+project:
+- ai-impact-analysis
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=MaFTqjYjADw
 speaker: Internet of Bugs
-tags:
-  - ai-doomerism
-  - ai-safety
-  - ai-regulation
-  - societal-harm
-  - corporate-accountability
-title: 别再担忧AI灭绝人类：我们应关注当下真实的AI危害与责任追究
-summary: 本文驳斥了关于人工智能（AI）将导致人类灭绝的“AI末日论”，认为这种论调是煽动性的、不切实际的，并分散了人们对AI当下造成的真实危害的注意力。作者通过类比小行星撞击与飞机失事，强调了关注AI目前在社会、经济和人身安全方面造成的具体问题的重要性，例如错误的面部识别、自驾车事故、有害的聊天机器人等。文章呼吁停止将AI拟人化，并主张通过追究相关公司和个人的刑事责任来解决这些问题，而非沉溺于遥远的AI灭绝辩论。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - us-analysis
-people:
-  - Carl
-companies_orgs:
-  - Volkswagen
-  - Uber
-  - Character.ai
-products_models: []
-media_books:
-  - If Anyone Builds it Everyone Dies
-  - Dune
-  - AI 2027 report
 status: evergreen
+summary: 本文驳斥了关于人工智能（AI）将导致人类灭绝的“AI末日论”，认为这种论调是煽动性的、不切实际的，并分散了人们对AI当下造成的真实危害的注意力。作者通过类比小行星撞击与飞机失事，强调了关注AI目前在社会、经济和人身安全方面造成的具体问题的重要性，例如错误的面部识别、自驾车事故、有害的聊天机器人等。文章呼吁停止将AI拟人化，并主张通过追究相关公司和个人的刑事责任来解决这些问题，而非沉溺于遥远的AI灭绝辩论。
+tags:
+- ai-regulation
+- ai-safety
+- corporate
+- llm
+- societal
+title: 别再担忧AI灭绝人类：我们应关注当下真实的AI危害与责任追究
 ---
+
 ### 驳斥“AI末日论”：关注当下真实危害
 
 在我上一期关于“**武器化广告技术**（Weaponized AdTech: 利用广告技术进行操纵、宣传或影响用户行为）”如何已经掌控社会，以及人工智能（AI）如何使其变得更糟的视频之后，有几个人联系我，希望我谈谈**AI末日论**（AI Doomerism: 关于人工智能可能导致人类灭绝或严重灾难的悲观观点），那我就谈谈吧。

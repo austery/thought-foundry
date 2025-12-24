@@ -1,52 +1,49 @@
 ---
-author: Veritasium
-date: '2023-10-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=lFlu60qs7_4
-speaker: Veritasium
-tags:
-  - veritasium
-  - non-euclidean-geometry
-  - parallel-postulate
-  - general-relativity
-  - cosmic-curvature
-  - spacetime-geometry
-title: 欧几里得的“错误”如何揭示隐藏的宇宙几何
-summary: 本文探讨了欧几里得《几何原本》中第五公设的深远影响。两千年来，数学家们试图证明这一看似多余的公设，却意外催生了非欧几何。博利亚伊和高斯独立发现了双曲几何，而黎曼则拓展了球面几何的概念。这些新几何学起初被视为抽象，但爱因斯坦的广义相对论证明，它们是理解我们弯曲时空和宇宙结构（包括其平坦性）的核心。一个古老的数学文本中的一句话，最终成为了现代宇宙学的基石。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Euclid
-  - János Bolyai
-  - Farkas Bolyai
-  - Carl Friedrich Gauss
-  - Proclus
-  - Ptolemy
-  - al-Haytham
-  - Omar Khayyam
-  - Nikolai Lobachevsky
-  - Riemann
-  - Eugenio Beltrami
-  - Einstein
-  - Newton
+category: science
 companies_orgs:
-  - NANOGrav
-  - Plank mission
-  - Brilliant.org
+- NANOGrav
+- Plank mission
+- Brilliant.org
+date: '2023-10-21'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Euclid
+- János Bolyai
+- Farkas Bolyai
+- Carl Friedrich Gauss
+- Proclus
+- Ptolemy
+- al-Haytham
+- Omar Khayyam
+- Nikolai Lobachevsky
+- Riemann
+- Eugenio Beltrami
+- Einstein
+- Newton
 products_models:
-  - Euclid's Elements
-  - Poincare Disk Model
-  - Measurement
-media_books: []
+- Euclid's Elements
+- Poincare Disk Model
+- Measurement
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=lFlu60qs7_4
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了欧几里得《几何原本》中第五公设的深远影响。两千年来，数学家们试图证明这一看似多余的公设，却意外催生了非欧几何。博利亚伊和高斯独立发现了双曲几何，而黎曼则拓展了球面几何的概念。这些新几何学起初被视为抽象，但爱因斯坦的广义相对论证明，它们是理解我们弯曲时空和宇宙结构（包括其平坦性）的核心。一个古老的数学文本中的一句话，最终成为了现代宇宙学的基石。
+tags:
+- general-relativity
+- non
+- science
+- technology
+title: 欧几里得的“错误”如何揭示隐藏的宇宙几何
 ---
+
 ### 欧几里得的“错误”如何揭示隐藏的宇宙几何
 
 在最古老的数学著作之一中，一个简单的句子却蕴含着理解我们宇宙的关键。

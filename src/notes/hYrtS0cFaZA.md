@@ -1,31 +1,28 @@
 ---
-title: 从零手搓TPU：三个月实现AI推训一体芯片设计的奇迹
-summary: 加拿大工程师团队在三个月内，从零基础出发，成功设计并开源了一款能同时支持推理和训练的**TPU**原型芯片。他们通过“第一性原理”和“不靠谱方法”的独特理念，深入理解并重新发明了**MLP**、脉动阵列等核心机制，展现了独立解决复杂问题的能力。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- ai-chip-design
-- first-principles
-- open-source-hardware
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models:
-- tpu
-media_books: []
 date: '2025-08-28'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- tpu
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=hYrtS0cFaZA
+speaker: Best Partners TV
 status: evergreen
+summary: 加拿大工程师团队在三个月内，从零基础出发，成功设计并开源了一款能同时支持推理和训练的**TPU**原型芯片。他们通过“第一性原理”和“不靠谱方法”的独特理念，深入理解并重新发明了**MLP**、脉动阵列等核心机制，展现了独立解决复杂问题的能力。
+tags:
+- ai-chip-design
+- principle
+- technology
+title: 从零手搓TPU：三个月实现AI推训一体芯片设计的奇迹
 ---
+
 ### 项目缘起：零基础挑战AI芯片设计
 
 这是一个听起来几乎不可能完成的项目：仅用三个月时间，一群非芯片设计专业的学生，从零开始，成功打造出了一块能够运行的**TPU**（Tensor Processing Unit: 谷歌设计的专用AI芯片，用于加速机器学习模型的推理和训练）原型。这块芯片不仅能进行推理，还能支持训练，并且已完全开源。尽管谷歌的**TPU**已迭代至第七代，背后有顶尖工程师团队和先进工艺支持，但来自加拿大西安大略大学的工程师们，利用一个暑假的时间，完成了这项看似不可能的挑战，并将他们的项目命名为TinyTPU。

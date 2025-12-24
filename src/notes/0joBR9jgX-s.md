@@ -1,74 +1,75 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs:
+- 小米集团
+- 日本央行
+- 中国外交部
+- 美联储
+- OpenAI
+- Google
+- XAI
+- Anthropic
+- Nvidia
+- AMD
+- Microsoft
+- 亚马逊
+- 伯克希尔哈撒韦
+- 阿斯麦
+- 台积电
+- 英特尔
+- 美国能源部
+- 星座能源公司
+- FBI
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- BBC
+- 《浮夸》
+people:
+- 高市早苗
+- 刘劲松
+- Donald Trump
+- Janet Yellen
+- Sam Altman
+- Jensen Huang
+- 段永平
+- Warren Buffett
+- 罗为人
+- Pat Gelsinger
+- 金井正邦
+- Lawrence Summers
+- 金刻羽
+- Elon Musk
+- Cristiano Ronaldo
+products_models:
+- 小米汽车
+- Gemini 3
+- ChatGPT
+- TPU
+- GPU
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=0joBR9jgX-s
 speaker: 小翠時政財經
-tags:
-  - ai-development
-  - semiconductor-industry
-  - geopolitical-economy
-  - market-liquidity
-  - corporate-ethics
-title: 中国股市震荡、日本经济承压：全球科技与地缘政治下的多重挑战
-summary: 本期节目深入分析了当前全球经济与政治格局中的多项关键事件。中国股市的微幅波动与电动车行业的安全隐患并存；日本经济因央行政策的不确定性而面临汇率和债市压力，同时中日关系因贸易制裁和外交事件持续恶化。美国股市在流动性紧缺下进行估值调整，而特朗普的关注点则转向物价和爱泼斯坦案。AI领域，谷歌Gemini 3的发布加剧了与OpenAI的竞争，半导体行业则爆出英特尔与台积电的技术窃取丑闻。此外，节目还探讨了美国能源政策的转向、劳动力市场的结构性变化以及爱泼斯坦案对美国政坛的深远影响，并对特朗普的务实风格进行了评价。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - 高市早苗
-  - 刘劲松
-  - Donald Trump
-  - Janet Yellen
-  - Sam Altman
-  - Jensen Huang
-  - 段永平
-  - Warren Buffett
-  - 罗为人
-  - Pat Gelsinger
-  - 金井正邦
-  - Lawrence Summers
-  - 金刻羽
-  - Elon Musk
-  - Cristiano Ronaldo
-companies_orgs:
-  - 小米集团
-  - 日本央行
-  - 中国外交部
-  - 美联储
-  - OpenAI
-  - Google
-  - XAI
-  - Anthropic
-  - 英伟达
-  - AMD
-  - 微软
-  - 亚马逊
-  - 伯克希尔哈撒韦
-  - 阿斯麦
-  - 台积电
-  - 英特尔
-  - 美国能源部
-  - 星座能源公司
-  - FBI
-products_models:
-  - 小米汽车
-  - Gemini 3
-  - ChatGPT
-  - TPU
-  - GPU
-media_books:
-  - BBC
-  - 《浮夸》
 status: evergreen
+summary: 本期节目深入分析了当前全球经济与政治格局中的多项关键事件。中国股市的微幅波动与电动车行业的安全隐患并存；日本经济因央行政策的不确定性而面临汇率和债市压力，同时中日关系因贸易制裁和外交事件持续恶化。美国股市在流动性紧缺下进行估值调整，而特朗普的关注点则转向物价和爱泼斯坦案。AI领域，谷歌Gemini
+  3的发布加剧了与OpenAI的竞争，半导体行业则爆出英特尔与台积电的技术窃取丑闻。此外，节目还探讨了美国能源政策的转向、劳动力市场的结构性变化以及爱泼斯坦案对美国政坛的深远影响，并对特朗普的务实风格进行了评价。
+tags:
+- ai-development
+- ethics
+- geopolitical-economy
+- market-liquidity
+- semiconductor
+title: 中国股市震荡、日本经济承压：全球科技与地缘政治下的多重挑战
 ---
+
 ### 中国股市与电动车行业动态
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月19日，欢迎收看我们今天的每日要闻节目。今天我们的内容很多，所以我们抓紧时间赶紧开始。

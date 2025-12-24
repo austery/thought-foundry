@@ -1,38 +1,36 @@
 ---
-author: AI超元域
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- HuggingFace
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- DeepSeek-OCR
+- LoRA
+- Colab
+- T4 GPU
+- ONNX
+project:
+- ai-impact-analysis
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=QpCj4LAMYJg
 speaker: AI超元域
-tags:
-  - model-fine-tuning
-  - chinese-ocr
-  - low-resource-ai
-  - dataset-creation
-title: 微调的力量：DeepSeek-OCR中文识别蜕变与零成本教程
-summary: 本视频详细介绍了如何通过微调（Fine-tuning）提升小参数OCR模型（如DeepSeek-OCR）的中文识别准确率，尤其针对手写体和扫描件。视频演示了如何利用Google Colab的免费GPU，在不到10分钟内完成模型微调，并讲解了中文OCR数据集的制作方法，实现识别错误率降低70%以上。这是一个零成本打造专属领域OCR识别神器的保姆级教程。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - knowledge-pipeline
-people: []
-companies_orgs:
-  - Google
-  - HuggingFace
-products_models:
-  - DeepSeek-OCR
-  - LoRA
-  - Colab
-  - T4 GPU
-  - ONNX
-media_books: []
 status: evergreen
+summary: 本视频详细介绍了如何通过微调（Fine-tuning）提升小参数OCR模型（如DeepSeek-OCR）的中文识别准确率，尤其针对手写体和扫描件。视频演示了如何利用Google
+  Colab的免费GPU，在不到10分钟内完成模型微调，并讲解了中文OCR数据集的制作方法，实现识别错误率降低70%以上。这是一个零成本打造专属领域OCR识别神器的保姆级教程。
+tags:
+- chinese
+- llm
+- model
+title: 微调的力量：DeepSeek-OCR中文识别蜕变与零成本教程
 ---
+
 ### OCR模型挑战与微调的必要性
 
 在之前的视频中，我为大家测试了多款开源OCR大模型，涵盖了从10亿参数到30亿参数再到90亿参数的模型。通过测试发现，参数量越大的模型识别准确率越高，但对显卡的要求也更高。而参数量较小的模型对显卡要求较低，但识别准确率往往不尽如人意。特别是我们之前测试的**DeepSeek-OCR**模型，在测试时甚至将清晰的汉字“1”错误识别为“2”。此外，我们可能需要在更细分的领域使用OCR模型，例如特定格式的文本或手写体。在这些场景下，小参数模型的表现往往不理想。

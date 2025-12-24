@@ -1,38 +1,36 @@
 ---
-author: Veritasium
-date: '2021-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=H1_OpWiyijU
-speaker: Veritasium
-tags:
-  - veritasium
-  - robotics
-  - multi-modal-locomotion
-  - control-systems
-  - adaptive-landing-gear
-  - future-mobility
-title: LEONARDO：会走路、飞行、滑板和走绳索的机器人
-summary: 本视频介绍了LEONARDO机器人，它巧妙地融合了行走与飞行能力，并展现了滑板和走绳索等独特技能。由Chung博士团队开发，LEONARDO利用螺旋桨增强稳定性，并在一个巨大的风扇阵列设施中进行测试。视频探讨了其坚固的设计、滑板时的能源效率以及实现平衡的先进控制系统。此外，还展望了LEONARDO在未来太空探索（如火星直升机）和飞行汽车中的潜在应用，强调了多模态移动在复杂环境中的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Derek Muller
-  - Dr. Chung
+category: technology
 companies_orgs:
-  - Bluehost
+- Bluehost
+date: '2021-10-16'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Dr. Chung
 products_models:
-  - LEONARDO
-  - WordPress
-media_books: []
+- LEONARDO
+- WordPress
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=H1_OpWiyijU
+speaker: veritasium
 status: evergreen
+summary: 本视频介绍了LEONARDO机器人，它巧妙地融合了行走与飞行能力，并展现了滑板和走绳索等独特技能。由Chung博士团队开发，LEONARDO利用螺旋桨增强稳定性，并在一个巨大的风扇阵列设施中进行测试。视频探讨了其坚固的设计、滑板时的能源效率以及实现平衡的先进控制系统。此外，还展望了LEONARDO在未来太空探索（如火星直升机）和飞行汽车中的潜在应用，强调了多模态移动在复杂环境中的重要性。
+tags:
+- future
+- life
+- multi-modal-locomotion
+- robotic
+- system
+title: LEONARDO：会走路、飞行、滑板和走绳索的机器人
 ---
+
 ### 介绍LEONARDO：多功能机器人
 
 这是一个会走路、飞行、滑板和走绳索的机器人。

@@ -1,52 +1,52 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Money or Life美股频道
+- JP Morgan Chase
+- Fluence Energy
+- EOS Energy
+- Sungrow
+- Figure AI
 date: '2025-10-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+people:
+- Joe Biden
+products_models:
+- Model 3
+- Model Y
+- Model S
+- Model X
+- Cybertruck
+- FSD
+- Optimus
+- Figure 03
+- iPhone
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=6ujahuQD9nQ
 speaker: Money or Life 美股频道
-tags:
-  - tesla-investment
-  - ev-market
-  - energy-storage
-  - full-self-driving
-  - humanoid-robotics
-  - made-in-america
-title: 为何持续加仓特斯拉？四大业务进展与投资逻辑深度解析
-summary: 本文深入探讨了主持人Ace持续加仓特斯拉的投资逻辑，分析了特斯拉在电动汽车、储能、自动驾驶（FSD）和人形机器人（Optimus）四大核心业务的最新进展。文章强调了特斯拉如何顺应美国本土制造、AI发展和国家安全利益的时代潮流，并结合摩根大通的万亿投资计划，论证了特斯拉作为AI应用层最佳投资标的的确定性与潜力，同时提醒投资者注意风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Joe Biden
-companies_orgs:
-  - Tesla
-  - Money or Life美股频道
-  - JP Morgan Chase
-  - Fluence Energy
-  - EOS Energy
-  - Sungrow
-  - Figure AI
-products_models:
-  - Model 3
-  - Model Y
-  - Model S
-  - Model X
-  - Cybertruck
-  - FSD
-  - Optimus
-  - Figure 03
-  - iPhone
-media_books:
-  - X
 status: evergreen
+summary: 本文深入探讨了主持人Ace持续加仓特斯拉的投资逻辑，分析了特斯拉在电动汽车、储能、自动驾驶（FSD）和人形机器人（Optimus）四大核心业务的最新进展。文章强调了特斯拉如何顺应美国本土制造、AI发展和国家安全利益的时代潮流，并结合摩根大通的万亿投资计划，论证了特斯拉作为AI应用层最佳投资标的的确定性与潜力，同时提醒投资者注意风险。
+tags:
+- energy-storage
+- ev-market
+- full-self-driving
+- humanoid-robotic
+- investment
+- made-in-america
+title: 为何持续加仓特斯拉？四大业务进展与投资逻辑深度解析
 ---
+
 ### 特斯拉投资逻辑：顺应时代潮流的确定性选择
 
 大家好，欢迎来到Money or Life美股频道。最近，我决定再次小幅度地加仓**特斯拉**（Tesla: 一家美国电动汽车及清洁能源公司），尽管我的特斯拉仓位已超过30%，但我依然想再加一点。这样做的主要原因在于，特斯拉的各个业务板块都在稳步前进，财报即将发布，并且11月6日还将举行股东大会。我对特斯拉接下来的表现持比较乐观的态度。在当前倡导“美国制造”和“AI”的潮流下，我认为特斯拉这家公司是顺应时代的投资选择。在我看来，特斯拉这家公司的确定性又增加了，这也是我选择持续加码的原因。本期视频，我将向大家介绍特斯拉四大业务的主要进展，包括**电动汽车**（EV: Electric Vehicle）、储能业务、**自动驾驶**（FSD: Full Self-Driving）和**人形机器人**（Optimus: Tesla开发的人形机器人项目）。

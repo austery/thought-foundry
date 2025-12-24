@@ -1,95 +1,95 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Oracle
+- Nvidia
+- Tesla
+- Palantir
+- Robinhood
+- Amazon
+- Meta
+- Salesforce
+- AMD
+- SoFi
+- Google
+- Apple
+- Renaissance Technologies
+- Fundstrat
+- Federal Reserve
+- OpenAI
+- Vantage Data Centers
+- Wells Fargo
+- Goldman Sachs
+- JPMorgan Chase
+- BlackRock
+- Jane Street
+- Citadel
+- OpenDoor
+- Intel
+- Ford
+- Snapchat
+- Alphabet
+- IBM
+- Netflix
+- Bank of America
+- Bank of England
+- Booz Allen Hamilton
+- Accenture
+- Zoom
+- European Commission
+- TikTok
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+people:
+- Donald Trump
+- Ronald Reagan
+- Mark Carney
+- Mark Newton
+- Vlad Tenev
+- Evan Spiegel
+- Jerome Powell
+- Bernie Sanders
+- Kevin Hassett
+- Jamie Diamond
+- Lisa Su
+- Tom Lee
+- Alex Karp
+- Larry Ellison
+- Ken Griffin
+- Hakeem Jeffries
+- Mike Johnson
+- Jim Cramer
+products_models:
+- S&P 500
+- Ethereum
+- Bitcoin
+- IBIT
+- JPM Coin
+- Snapchat Spectacles
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=WEj0L7bKzG8
 speaker: Amit Kukreja
-tags:
-  - cpi-data
-  - market-sentiment
-  - momentum-stocks
-  - data-center-investment
-  - earnings-season
-title: CPI数据优于预期，推动标普500创下历史新高
-summary: 本期市场分析深入探讨了超出预期的CPI数据如何推动股市全面上涨，特别是标普500指数在盘前创下历史新高。主持人分析了这是否意味着高增长动量股的近期回调已经结束，并讨论了市场的复杂情绪。此外，内容还涵盖了甲骨文为数据中心融资400亿美元的重磅消息、特朗普终止与加拿大贸易谈判但市场反应平淡的事件，以及摩根大通接受加密货币作为抵押品等关键动态，全面解读了当前市场的驱动因素和潜在风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Ronald Reagan
-  - Mark Carney
-  - Mark Newton
-  - Vlad Tenev
-  - Evan Spiegel
-  - Jerome Powell
-  - Bernie Sanders
-  - Kevin Hassett
-  - Jamie Diamond
-  - Lisa Su
-  - Tom Lee
-  - Alex Karp
-  - Larry Ellison
-  - Ken Griffin
-  - Hakeem Jeffries
-  - Mike Johnson
-  - Jim Cramer
-companies_orgs:
-  - Oracle
-  - Nvidia
-  - Tesla
-  - Palantir
-  - Robinhood
-  - Amazon
-  - Meta
-  - Salesforce
-  - AMD
-  - SoFi
-  - Google
-  - Apple
-  - Renaissance Technologies
-  - Fundstrat
-  - Federal Reserve
-  - OpenAI
-  - Vantage Data Centers
-  - Wells Fargo
-  - Goldman Sachs
-  - JPMorgan Chase
-  - BlackRock
-  - Jane Street
-  - Citadel
-  - OpenDoor
-  - Intel
-  - Ford
-  - Snapchat
-  - Alphabet
-  - IBM
-  - Netflix
-  - Bank of America
-  - Bank of England
-  - Booz Allen Hamilton
-  - Accenture
-  - Zoom
-  - European Commission
-  - TikTok
-products_models:
-  - S&P 500
-  - Ethereum
-  - Bitcoin
-  - IBIT
-  - JPM Coin
-  - Snapchat Spectacles
-media_books:
-  - Bloomberg
 status: evergreen
+summary: 本期市场分析深入探讨了超出预期的CPI数据如何推动股市全面上涨，特别是标普500指数在盘前创下历史新高。主持人分析了这是否意味着高增长动量股的近期回调已经结束，并讨论了市场的复杂情绪。此外，内容还涵盖了甲骨文为数据中心融资400亿美元的重磅消息、特朗普终止与加拿大贸易谈判但市场反应平淡的事件，以及摩根大通接受加密货币作为抵押品等关键动态，全面解读了当前市场的驱动因素和潜在风险。
+tags:
+- data-center-investment
+- earnings-season
+- financial
+- market-sentiment
+- stock
+title: CPI数据优于预期，推动标普500创下历史新高
 ---
+
 ### CPI 数据提振市场，标普500创历史新高
 
 大家早上好，欢迎回到新一期的市场开盘直播。朋友们，盘前市场一片大好，而且是“非常”好。我们之所以“非常”好，是因为标普500指数刚刚触及了676点。我们谈论的是在盘前就创下历史新高的那种“好”。

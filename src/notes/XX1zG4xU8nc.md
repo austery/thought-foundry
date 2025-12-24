@@ -1,32 +1,30 @@
 ---
-title: 苏林改革：越南的豪赌与区域强国之路
-summary: 本文深入探讨越南新任总书记苏林的崛起及其激进改革。从内部权力重组、行政精简，到对外与美达成关税协议、与中加强军事合作，分析苏林如何在中美之间寻求平衡，以巩固执政合法性并推动越南经济发展，同时探讨其改革对区域政治经济的深远影响。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- economic-reform
-- political-power
-- southeast-asia
-- us-china-relations
-- vietnam-politics
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-02'
-author: 郭里有范
-speaker: 郭里有范
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=XX1zG4xU8nc
+speaker: 郭里有范
 status: evergreen
+summary: 本文深入探讨越南新任总书记苏林的崛起及其激进改革。从内部权力重组、行政精简，到对外与美达成关税协议、与中加强军事合作，分析苏林如何在中美之间寻求平衡，以巩固执政合法性并推动越南经济发展，同时探讨其改革对区域政治经济的深远影响。
+tags:
+- economic-reform
+- llm
+- political
+- politics
+- us-china-relations
+title: 苏林改革：越南的豪赌与区域强国之路
 ---
+
 ### 苏林：两年内登上权力巅峰的越南新强人
 
 画面上的这位是**越共总书记**（General Secretary of the Communist Party of Vietnam: 越南共产党的最高领导人）苏林，他在两年之内，从公安部长登上了权力巅峰。上任一年，苏林打破了政治默契，解除了已经投降认输的前总理、前国家主席和前国会主席三位国级领导人的所有党内职务。他还裁撤了5个中央部委，将63个省合并成了34个，取消了全部的县级行政区，同时裁掉了10多万公务员。此外，苏林宣布要搞从幼儿园到高中的15年全免费教育。

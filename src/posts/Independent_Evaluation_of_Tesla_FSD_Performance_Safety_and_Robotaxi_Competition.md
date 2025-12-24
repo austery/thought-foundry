@@ -1,32 +1,29 @@
 ---
-title: 对特斯拉完全自动驾驶（FSD）技术的独立评估：性能、安全与Robotaxi的博弈
-summary: 这是对于另外一篇“徒步的骑手”对于特斯拉质疑的回应，也是我思考是否投资特斯拉的起点。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-  - 投资
-  - 智能驾驶
-  - 汽车安全
-  - 自动驾驶
-people: []
+area: finance-wealth
+author: Lei
+category: stock-investment
+channel: null
 companies_orgs:
 - 特斯拉
-products_models: []
-media_books: []
 date: 2025-07-26
-author: Lei
-speaker: Google Gemini
-channel: null
 draft: true
 file_name: null
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: null
 source: null
+speaker: Google Gemini
+summary: 这是对于另外一篇“徒步的骑手”对于特斯拉质疑的回应，也是我思考是否投资特斯拉的起点。
+tags:
+- automotive-safety
+- autonomous-driving
+title: 对特斯拉完全自动驾驶（FSD）技术的独立评估：性能、安全与Robotaxi的博弈
 ---
+
 ## 执行摘要
 
 本报告旨在对特斯拉的完全自动驾驶（Full Self-Driving, FSD）技术进行全面、客观的评估。报告首先分析了用户提供的批评性文本，该文本准确地捕捉了FSD早期版本存在的“不可预测性”、权威机构的负面安全评级以及数据透明度等历史性问题。然而，随着FSD v12版本的推出，其底层架构发生了根本性变革，使得部分批评已显过时。

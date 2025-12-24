@@ -1,46 +1,47 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- 高盛
+- 摩根士丹利
+- Microsoft
+- 亚马逊
+- Google
+- 英特尔
+- Nvidia
+- 台积电
+- 美联储
+- 众议院预算委员会
 date: '2025-05-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Donald Trump
+- 陈立武
+products_models:
+- Intel 18A
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=aEda4v32hvc
 speaker: Shanghao Jin
-tags:
-  - us-economic-outlook
-  - tariff-policy
-  - fed-monetary-policy
-  - market-valuation
-  - semiconductor-industry
-title: 特朗普关税、美国经济衰退与美联储政策对市场的影响分析
-summary: 本文深入分析了近期美国市场的反弹，探讨了特朗普政府的关税政策（特别是与中国、英国和台湾地区的协议）对市场情绪的影响。作者对美国经济前景持谨慎悲观态度，认为衰退概率较大，且美联储将维持观望。文章还讨论了企业盈利、市场估值（S&P 500指数的PE倍数）、利率走势以及AI和半导体公司的投资机会，并强调了政治不确定性下资产配置的挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - 陈立武
-companies_orgs:
-  - 高盛
-  - 摩根士丹利
-  - 微软
-  - 亚马逊
-  - 谷歌
-  - 英特尔
-  - 英伟达
-  - 台积电
-  - 美联储
-  - 众议院预算委员会
-products_models:
-  - Intel 18A
-media_books: []
 status: evergreen
+summary: 本文深入分析了近期美国市场的反弹，探讨了特朗普政府的关税政策（特别是与中国、英国和台湾地区的协议）对市场情绪的影响。作者对美国经济前景持谨慎悲观态度，认为衰退概率较大，且美联储将维持观望。文章还讨论了企业盈利、市场估值（S&P
+  500指数的PE倍数）、利率走势以及AI和半导体公司的投资机会，并强调了政治不确定性下资产配置的挑战。
+tags:
+- fed-monetary-policy
+- market-valuation
+- semiconductor
+- tariff-policy
+- us-economic-outlook
+title: 特朗普关税、美国经济衰退与美联储政策对市场的影响分析
 ---
+
 ### 市场反弹与特朗普关税政策的影响
 
 近期市场出现了大规模反弹。首先，大家普遍关注的是**特朗普**（Donald Trump）的关税政策。昨天，特朗普的关税政策与中国达成了协议。实际上，达成协议的三个经济体包括英国、中国和台湾地区。观察这三项协议，它们对市场的影响非常正面。从二月份以来，市场情绪很大程度上出现反转，原本认为政策是亲商业的，后来发现其“胡搞”，市场认为白宫层面并不关心市场会如何。

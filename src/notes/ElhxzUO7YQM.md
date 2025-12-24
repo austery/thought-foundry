@@ -1,40 +1,39 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: geopolitics
+companies_orgs:
+- California Forever
+- Google
+- All-In Podcast
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Yan Stramic
+products_models:
+- Boeing 747
+- Golden Gate Bridge
+- Hoover Dam
+project:
+- us-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ElhxzUO7YQM
 speaker: All-In Podcast
-tags:
-  - city-building
-  - advanced-manufacturing
-  - shipbuilding
-  - california-development
-  - national-security
-title: 加州永恒：一家创业公司如何建造美国下一座伟大城市
-summary: 加州永恒（California Forever）是一家由硅谷投资者支持的创业公司，致力于在加利福尼亚州的索拉诺县建造一座新的城市。该项目旨在通过建设宜居、可负担且环保的社区，解决加州面临的住房和基础设施危机。文章强调了通过发展先进制造业（索拉诺铸造厂）和造船业来提升美国生产力与国家安全的重要性，并呼吁重振美国的建设精神。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Yan Stramic
-companies_orgs:
-  - California Forever
-  - Google
-  - All-In Podcast
-products_models:
-  - Boeing 747
-  - Golden Gate Bridge
-  - Hoover Dam
-media_books: []
 status: evergreen
+summary: 加州永恒（California Forever）是一家由硅谷投资者支持的创业公司，致力于在加利福尼亚州的索拉诺县建造一座新的城市。该项目旨在通过建设宜居、可负担且环保的社区，解决加州面临的住房和基础设施危机。文章强调了通过发展先进制造业（索拉诺铸造厂）和造船业来提升美国生产力与国家安全的重要性，并呼吁重振美国的建设精神。
+tags:
+- development
+- manufacturing
+- national-security
+- shipbuilding
+- society
+title: 加州永恒：一家创业公司如何建造美国下一座伟大城市
 ---
+
 ### 建造美国下一座伟大城市：加州永恒的愿景
 
 梦想是建造一个宜居、可负担且环保的社区。**加州永恒**（California Forever: 一家旨在加州索拉诺县建造新城市的创业公司）在**索拉诺县**（Solano County: 位于加利福尼亚州，介于硅谷和萨克拉门托之间）拥有超过100平方英里的土地，并由**硅谷**（Silicon Valley: 美国高科技产业的中心地带）投资者支持，旨在建造一座新城市。

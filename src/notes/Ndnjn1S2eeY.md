@@ -1,43 +1,43 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Alibaba
+- Federal Reserve
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- What Went Wrong With Capitalism
+people:
+- Ruchir Sharma
+- Sundar Pichai
+- Jack Ma
+- Xi Jinping
+- Donald Trump
+products_models:
+- AI
+- LLM
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Ndnjn1S2eeY
 speaker: Norges Bank Investment Management
-tags:
-  - ai-bubble
-  - capitalism
-  - government-intervention
-  - market-cycles
-  - interest-rates
-title: AI泡沫何时破裂？—— 深度解析资本主义与全球经济趋势
-summary: 本文深入探讨了AI泡沫的潜在风险，分析了当前资本主义面临的挑战，包括政府角色的变化、市场过度投资与高估值现象。文章还审视了全球经济格局，对比了美、欧、中等地的经济表现与政策走向，并预测了未来12个月的投资趋势，强调了利率、质量股票及国际市场的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Ruchir Sharma
-  - Sundar Pichai
-  - Jack Ma
-  - Xi Jinping
-  - Donald Trump
-companies_orgs:
-  - Alibaba
-  - Federal Reserve
-products_models:
-  - AI
-  - LLM
-media_books:
-  - What Went Wrong With Capitalism
 status: evergreen
+summary: 本文深入探讨了AI泡沫的潜在风险，分析了当前资本主义面临的挑战，包括政府角色的变化、市场过度投资与高估值现象。文章还审视了全球经济格局，对比了美、欧、中等地的经济表现与政策走向，并预测了未来12个月的投资趋势，强调了利率、质量股票及国际市场的重要性。
+tags:
+- ai-bubble
+- government-intervention
+- interest-rate
+- investment
+- market-cycle
+title: AI泡沫何时破裂？—— 深度解析资本主义与全球经济趋势
 ---
+
 ### 资本主义的现状与政府角色的演变
 
 大家好，欢迎来到这次访谈。今天我们有幸邀请到一位特别的嘉宾—— रुचिर·夏尔马（Ruchir Sharma）。他是一位深刻的思想家，我们去年曾就他的著作《资本主义出了什么问题？》（What Went Wrong With Capitalism）进行过深入交流。

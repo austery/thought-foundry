@@ -7,15 +7,12 @@ project:
 - ai-impact-analysis
 - china-analysis
 tags:
-  - ai竞赛
-  - 中国研究
-  - 中美战略
-  - 台海冲突
-  - 数字身份
-people: []
+- geopolitical
+- llm
+- 中国研究
+- 数字身份
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: 李厚辰
@@ -26,6 +23,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 引言：全球顶尖智库的中国观察
 
 全球中国研究简报是一个汇总全球智库如哈德逊研究中心、CSIS等，以及国际媒体如《纽约时报》、Politico新闻网等针对中国的深度分析和报道，还为您搜集分析中国问题的相关内容，关注全球顶尖思考者对中国问题的关切和分析。在信息爆炸时代，帮您选择内容进行深度解读，为希望成为中国问题专家的思考者提供最好的信息。欢迎订阅频道或分享给你的朋友们。

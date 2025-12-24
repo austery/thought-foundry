@@ -1,47 +1,45 @@
 ---
-author: 课代表立正
+area: personal-systems
+category: career
+companies_orgs:
+- LinkedIn
+- GitHub
+- Costco
+- Apple
+- Google
+- Palantir
+- Andreessen Horowitz
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Diffusion Model
+- Cursor
+- ChatGPT
+- Kimi
+- GLM
+- Tongyi Qianwen
+- DeepSeek
+- Shopify
+- BigCommerce
+project:
+- personal-growth-lab
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=XyswlA2wJ8Y
 speaker: 课代表立正
-tags:
-  - side-project-value
-  - career-transition
-  - ai-era-mindset
-  - personal-capital
-title: AI时代职业反思：为什么“打工”性价比骤降，而个人项目价值凸显？
-summary: 在这场问答中，讲者深入探讨了AI时代下的职业规划与个人发展。内容涵盖了从应对职场竞争、选择技术方向（如Diffusion Model），到剖析AI产品经理（AIPM）的真实价值。核心观点认为，传统“打工”的性价比正急剧下降，而利用AI工具构建个人项目、发展副业的价值则前所未有地凸显。讲者鼓励大家转变思维，通过动手实践来积累个人资本，以适应未来的不确定性。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - LinkedIn
-  - GitHub
-  - Costco
-  - Apple
-  - Google
-  - Palantir
-  - Andreessen Horowitz
-products_models:
-  - Diffusion Model
-  - Cursor
-  - ChatGPT
-  - Kimi
-  - GLM
-  - Tongyi Qianwen
-  - DeepSeek
-  - Shopify
-  - BigCommerce
-media_books: []
 status: evergreen
+summary: 在这场问答中，讲者深入探讨了AI时代下的职业规划与个人发展。内容涵盖了从应对职场竞争、选择技术方向（如Diffusion Model），到剖析AI产品经理（AIPM）的真实价值。核心观点认为，传统“打工”的性价比正急剧下降，而利用AI工具构建个人项目、发展副业的价值则前所未有地凸显。讲者鼓励大家转变思维，通过动手实践来积累个人资本，以适应未来的不确定性。
+tags:
+- career-transition
+- mindset
+- personal
+- value
+title: AI时代职业反思：为什么“打工”性价比骤降，而个人项目价值凸显？
 ---
+
 ### 职业抉择：应对职场竞争与技术方向选择
 
 你好，如果碰到同事抢项目，具体情况需要更详细的描述。我的回答长度会和你的提问长度差不多，你提供的信息越多，我的回答也越具体。

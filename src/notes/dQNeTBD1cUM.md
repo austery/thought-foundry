@@ -1,31 +1,28 @@
 ---
-title: 特斯拉2023年第三季度财报深度解读：大麻烦与转型挑战
-summary: 本文深度分析特斯拉2023年第三季度财报，揭示其利润率持续下滑的困境，探讨宏观经济、战略失误及Cybertruck量产带来的挑战。文章同时评估特斯拉作为科技公司的长期潜力，并分享了作者的个人投资策略。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - electric-vehicles
-  - market-analysis
-  - profit-margins
-  - tech-investment
-  - tesla-earnings
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-10-21'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=dQNeTBD1cUM
+speaker: 一口新飯
 status: evergreen
+summary: 本文深度分析特斯拉2023年第三季度财报，揭示其利润率持续下滑的困境，探讨宏观经济、战略失误及Cybertruck量产带来的挑战。文章同时评估特斯拉作为科技公司的长期潜力，并分享了作者的个人投资策略。
+tags:
+- earning
+- electric-vehicle
+- financial
+- investment
+- market-analysis
+title: 特斯拉2023年第三季度财报深度解读：大麻烦与转型挑战
 ---
 
 ### 特斯拉面临的短期困境与挑战

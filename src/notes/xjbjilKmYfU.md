@@ -1,65 +1,65 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 科协
+- 共产党
+- 国民党
+- 中科院
 date: '2025-05-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《三体》
+- 《流浪地球》
+- 《哪吒》
+- 《黑悟空》
+- 《超新星纪元》
+- 《温故1942》
+- 《罪与罚》
+- 《枫》
+- 《纽约客》
+people:
+- 刘慈欣
+- 张内咸
+- 叶文洁
+- 灭霸萨诺斯
+- 吴京
+- 郭帆
+- 儒勒·凡尔纳
+- 莫言
+- 余华
+- 冯·诺伊曼
+- 牛顿
+- 秦始皇
+- 温家宝
+- 胡耀邦
+- 赵紫阳
+- 蒋介石
+- 刘少奇
+- 林彪
+products_models:
+- PS5
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=xjbjilKmYfU
 speaker: 張内咸
-tags:
-  - three-body-problem
-  - cultural-revolution
-  - chinese-propaganda
-  - sci-fi-adaptations
-  - futurism
-title: 《三体》的中国式解读与刘慈欣的真实世界：从文革到未来主义的深层反思
-summary: 本期节目深入探讨了刘慈欣科幻小说《三体》及其影视改编，对比了中美版本对原著的理解与扭曲。主持人通过剖析刘慈欣的个人经历（如文革、河南大洪水），揭示了作品中隐藏的对社会现实的讽刺与反思，而非盲目推崇未来主义。文章批判了中国科幻创作的现状、官方对文化产品的政治化利用，并探讨了中国社会达尔文主义与未来主义思潮的根源，最终指出文化交流受阻对中国文化发展的影响。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 刘慈欣
-  - 张内咸
-  - 叶文洁
-  - 灭霸萨诺斯
-  - 吴京
-  - 郭帆
-  - 儒勒·凡尔纳
-  - 莫言
-  - 余华
-  - 冯·诺伊曼
-  - 牛顿
-  - 秦始皇
-  - 温家宝
-  - 胡耀邦
-  - 赵紫阳
-  - 蒋介石
-  - 刘少奇
-  - 林彪
-companies_orgs:
-  - 科协
-  - 共产党
-  - 国民党
-  - 中科院
-products_models:
-  - PS5
-media_books:
-  - 《三体》
-  - 《流浪地球》
-  - 《哪吒》
-  - 《黑悟空》
-  - 《超新星纪元》
-  - 《温故1942》
-  - 《罪与罚》
-  - 《枫》
-  - 《纽约客》
 status: evergreen
+summary: 本期节目深入探讨了刘慈欣科幻小说《三体》及其影视改编，对比了中美版本对原著的理解与扭曲。主持人通过剖析刘慈欣的个人经历（如文革、河南大洪水），揭示了作品中隐藏的对社会现实的讽刺与反思，而非盲目推崇未来主义。文章批判了中国科幻创作的现状、官方对文化产品的政治化利用，并探讨了中国社会达尔文主义与未来主义思潮的根源，最终指出文化交流受阻对中国文化发展的影响。
+tags:
+- adaptation
+- chinese
+- cultural-revolution
+- futurism
+- problem
+title: 《三体》的中国式解读与刘慈欣的真实世界：从文革到未来主义的深层反思
 ---
+
 ### 对《三体》与中国科幻的初探
 
 在上周的节目中，我们展开了对刘慈欣创作的小说**《三体》**（The Three-Body Problem: 刘慈欣创作的科幻小说系列）以及中国**科幻**（Science Fiction: 以科学理论为基础，通过想象力创造未来世界或非现实情境的文学艺术形式）的讨论。当然，YouTube上的观众并非每一个人都听说过这个作品，即便听说过，可能也不感兴趣。这很正常，因为事实上我本人也对这个作品不太感冒。尽管我确实很早以前就读过这部小说，但我既不是刘慈欣的粉丝，也不是中国科幻的受众群体。

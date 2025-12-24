@@ -1,59 +1,59 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 南京大学
+- 国家教委
+- 苏共
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《红太阳是怎样升起的》
+- 《大江大海1949》
+- 《暴人难书》
+- 《金刚经》
+- 《人民日报》
+people:
+- 高华
+- 傅高义
+- 龙应台
+- 胡杰
+- 高启发
+- 杨尚昆
+- 彭真
+- 王瑶
+- 钱理群
+- 钱刚
+- 钱永祥
+- 司马迁
+- 顾准
+- 格瓦拉
+- 毛泽东
+- 林彪
+- 刘少奇
+- 孙小康
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=ga4F9-q3k-k
 speaker: 柴静 Chai Jing
-tags:
-  - historical-truth
-  - yanan-rectification
-  - cultural-revolution
-  - political-repression
-  - academic-integrity
-title: 高华：说出真相是我的宿命——柴静访谈与历史学家的坚守
-summary: 本期节目通过柴静对历史学家高华的介绍，深入探讨了高华的生平、治学理念及其代表作《红太阳是怎样升起的》。文章回顾了高华在政治高压下对历史真相的执着追溯，从延安整风到文革，他以严谨的史料考证和人性深描，揭示了历史事件的复杂性。同时，节目也呈现了高华在学术研究中面临的挑战、个人命运与时代洪流的交织，以及他至死不渝地坚守民主、自由、社会正义和人道主义的“五四价值”。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 高华
-  - 傅高义
-  - 龙应台
-  - 胡杰
-  - 高启发
-  - 杨尚昆
-  - 彭真
-  - 王瑶
-  - 钱理群
-  - 钱刚
-  - 钱永祥
-  - 司马迁
-  - 顾准
-  - 格瓦拉
-  - 毛泽东
-  - 林彪
-  - 刘少奇
-  - 孙小康
-companies_orgs:
-  - 南京大学
-  - 国家教委
-  - 苏共
-products_models: []
-media_books:
-  - 《红太阳是怎样升起的》
-  - 《大江大海1949》
-  - 《暴人难书》
-  - 《金刚经》
-  - 《人民日报》
 status: evergreen
+summary: 本期节目通过柴静对历史学家高华的介绍，深入探讨了高华的生平、治学理念及其代表作《红太阳是怎样升起的》。文章回顾了高华在政治高压下对历史真相的执着追溯，从延安整风到文革，他以严谨的史料考证和人性深描，揭示了历史事件的复杂性。同时，节目也呈现了高华在学术研究中面临的挑战、个人命运与时代洪流的交织，以及他至死不渝地坚守民主、自由、社会正义和人道主义的“五四价值”。
+tags:
+- academic-integrity
+- china
+- cultural-revolution
+- historical
+- political
+title: 高华：说出真相是我的宿命——柴静访谈与历史学家的坚守
 ---
+
 ### 纪念高华：一位历史学家的遗产
 
 上期节目我采访**龙应台**（Lung Ying-tai: 台湾著名作家、文化评论家，曾任台湾文化部长）时，提到了大陆历史学家高华，评论区中有许多人在纪念他。**傅高义**（Ezra Vogel: 美国著名汉学家，哈佛大学荣休教授）曾经说过，高华在2011年去世，是当代中国历史研究领域失去了最杰出的学者之一，但14年后，人们没有忘记他。在这个频道，我将播出高华教授生前的讲座《毛泽东何以发动文革》，并对他做一个简单的介绍。

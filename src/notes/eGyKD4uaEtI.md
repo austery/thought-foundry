@@ -1,91 +1,91 @@
 ---
-author: New York Times Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- New York Times
+- Netflix
+- Warner Brothers Studios
+- Paramount
+- Discovery
+- Warner Brothers Discovery
+- HBO
+- Oracle
+- CBS
+- Apple TV
+- Google
+- Amazon
+- YouTube
+- TikTok
+- Disney
+- ESPN
+- Hulu
+- NBC Universal
+- Pentagon
+- Supreme Court
+- White House
+- Congress
+- Peopleoft
+- Skydance
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Casablanca
+- Batman
+- The Godfather
+- Mission Impossible
+- Ted Lasso
+- Minecraft
+- Sinners
+- Weapons
+- One Battle After Another
+- K-pop Demon Hunters
+- Knives Out
+- Barbie
+- Wall Street
+- Teldar Paper
+- Game of Thrones
+- Sex in the City
+- The Sopranos
+- Wednesday
+- The Diplomat
+people:
+- Michael Baro
+- Nicole Sperling
+- Kyle Buchanan
+- Lauren Hirs
+- David Zaslav
+- David Ellison
+- Larry Ellison
+- Ted Sarandos
+- Donald Trump
+- Barry Weiss
+- Clarence Thomas
+- Gordon Gecko
+products_models:
+- Paramount Plus
+- HBO Max
+- Max
+project:
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=eGyKD4uaEtI
 speaker: New York Times Podcasts
-tags:
-  - media-consolidation
-  - streaming-wars
-  - theatrical-distribution
-  - antitrust-concerns
-  - content-strategy
-title: Netflix与派拉蒙：华纳兄弟争夺战的幕后风云
-summary: 本期播客深入探讨了流媒体巨头Netflix与媒体大亨大卫·埃里森旗下的派拉蒙公司之间，围绕华纳兄弟影业展开的高风险争夺战。Netflix提出的830亿美元收购要约旨在巩固其流媒体主导地位并拓展新业务领域，但面临反垄断担忧以及进一步侵蚀院线体验的风险。派拉蒙公司在近期收购了大量媒体资产后，正发起恶意收购，力求监管确定性，并强调需要一个更大的竞争对手来抗衡Netflix。主持人与嘉宾们探讨了此次交易对股东、消费者、创意社区以及电影电视未来的影响，揭示了行业整合带来的挑战以及对内容质量和多样性的潜在冲击。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-people:
-  - Michael Baro
-  - Nicole Sperling
-  - Kyle Buchanan
-  - Lauren Hirs
-  - David Zaslav
-  - David Ellison
-  - Larry Ellison
-  - Ted Sarandos
-  - Donald Trump
-  - Barry Weiss
-  - Clarence Thomas
-  - Gordon Gecko
-companies_orgs:
-  - New York Times
-  - Netflix
-  - Warner Brothers Studios
-  - Paramount
-  - Discovery
-  - Warner Brothers Discovery
-  - HBO
-  - Oracle
-  - CBS
-  - Apple TV
-  - Google
-  - Amazon
-  - YouTube
-  - TikTok
-  - Disney
-  - ESPN
-  - Hulu
-  - NBC Universal
-  - Pentagon
-  - Supreme Court
-  - White House
-  - Congress
-  - Peopleoft
-  - Skydance
-products_models:
-  - Paramount Plus
-  - HBO Max
-  - Max
-media_books:
-  - The Daily
-  - Casablanca
-  - Batman
-  - The Godfather
-  - Mission Impossible
-  - Ted Lasso
-  - Minecraft
-  - Sinners
-  - Weapons
-  - One Battle After Another
-  - K-pop Demon Hunters
-  - Knives Out
-  - Barbie
-  - Wall Street
-  - Teldar Paper
-  - Game of Thrones
-  - Sex in the City
-  - The Sopranos
-  - Wednesday
-  - The Diplomat
 status: evergreen
+summary: 本期播客深入探讨了流媒体巨头Netflix与媒体大亨大卫·埃里森旗下的派拉蒙公司之间，围绕华纳兄弟影业展开的高风险争夺战。Netflix提出的830亿美元收购要约旨在巩固其流媒体主导地位并拓展新业务领域，但面临反垄断担忧以及进一步侵蚀院线体验的风险。派拉蒙公司在近期收购了大量媒体资产后，正发起恶意收购，力求监管确定性，并强调需要一个更大的竞争对手来抗衡Netflix。主持人与嘉宾们探讨了此次交易对股东、消费者、创意社区以及电影电视未来的影响，揭示了行业整合带来的挑战以及对内容质量和多样性的潜在冲击。
+tags:
+- code
+- content-strategy
+- media
+- theatrical-distribution
+- war
+title: Netflix与派拉蒙：华纳兄弟争夺战的幕后风云
 ---
+
 ### 华纳兄弟争夺战：Netflix与派拉蒙的角力
 
 **Michael:** 大家好，我是《纽约时报》的迈克尔·巴罗，这里是《The Daily》节目。

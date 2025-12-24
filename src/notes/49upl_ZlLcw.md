@@ -1,31 +1,29 @@
 ---
-title: 联邦法官量刑争议与宠物法律地位：从财产到家庭成员
-summary: 本文探讨了马里兰州联邦法官黛博拉·博尔曼对刺杀最高法院大法官未遂案的量刑引发的争议，以及美国法律体系中宠物地位的演变，从财产到在离婚和信托中被视为家庭成员，同时呼吁立法改革以更好地保护宠物权益。
 area: null
 category: null
-project: []
-tags:
-- estate-planning
-- family-law
-- federal-judiciary
-- pet-rights
-- sentencing-law
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-14'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=49upl_ZlLcw
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本文探讨了马里兰州联邦法官黛博拉·博尔曼对刺杀最高法院大法官未遂案的量刑引发的争议，以及美国法律体系中宠物地位的演变，从财产到在离婚和信托中被视为家庭成员，同时呼吁立法改革以更好地保护宠物权益。
+tags:
+- estate
+- financial
+- law
+- right
+title: 联邦法官量刑争议与宠物法律地位：从财产到家庭成员
 ---
+
 ### 刺杀未遂案量刑引发的争议
 
 June Graasso: 我是彭博法律频道的主持人，也是彭博电台的June Graasso。

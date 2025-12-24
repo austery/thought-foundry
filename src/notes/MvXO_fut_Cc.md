@@ -1,46 +1,46 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 西北战地服务团
 date: '2024-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财主底儿女们》
+- 《太阳照在桑干河上》
+people:
+- 姜涛
+- 陆蠡
+- 丁玲
+- 蒋淳祖
+- 龙同志
+- 田间
+- 萧军
+- 萧红
+- 毛泽东
+- 洛宾基
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=MvXO_fut_Cc
 speaker: 一席YiXi
-tags:
-  - group-dynamics
-  - labeling-and-reductionism
-  - emotional-labor-in-groups
-  - historical-memory-and-social-change
-  - leadership-through-observation
-title: 当「有问题的个人」遇到「有问题的团体」：从陆蠡、丁玲看中国现代团体生活的困境与光亮
-summary: 本文通过分析陆蠡小说《财主底儿女们》与丁玲领导西北战地服务团的真实经验，揭示团体生活中的权力结构、情感压抑与标签化倾向，并提出「一个一个认识人」作为超越抽象化社会认知的关键人文实践。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 姜涛
-  - 陆蠡
-  - 丁玲
-  - 蒋淳祖
-  - 龙同志
-  - 田间
-  - 萧军
-  - 萧红
-  - 毛泽东
-  - 洛宾基
-companies_orgs:
-  - 西北战地服务团
-products_models: []
-media_books:
-  - 《财主底儿女们》
-  - 《太阳照在桑干河上》
 status: evergreen
+summary: 本文通过分析陆蠡小说《财主底儿女们》与丁玲领导西北战地服务团的真实经验，揭示团体生活中的权力结构、情感压抑与标签化倾向，并提出「一个一个认识人」作为超越抽象化社会认知的关键人文实践。
+tags:
+- dynamic
+- labor
+- leadership-through-observation
+- science
+- social
+title: 当「有问题的个人」遇到「有问题的团体」：从陆蠡、丁玲看中国现代团体生活的困境与光亮
 ---
+
 ### 团体生活的光与影：从陆蠡的小说谈起
 
 大家好，我是姜涛，来自北京大学中文系。我这些年主要研究1940年代战争情境下的文学经验与文学背后的人。今天要讨论的，是一个看似离我们遥远、实则直指当下的问题：在那个年代，年轻人是如何过团体生活的？

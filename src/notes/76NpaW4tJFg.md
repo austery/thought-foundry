@@ -1,44 +1,43 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Simon Fraser University
+- Meta
+- Google
+- Microsoft
+- X
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- Black Mirror
+people:
+- Stephanie Dick
+- Johannes Gutenberg
+products_models:
+- ChatGPT
+project:
+- historical-insights
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=76NpaW4tJFg
 speaker: TVO Today
-tags:
-  - technological-change
-  - societal-impact
-  - historical-parallels
-  - ai-ethics
-  - information-democratization
-title: 印刷机与现代AI：历史如何指引我们应对技术变革？
-summary: 西蒙菲沙大学助理教授Stephanie Dick探讨了技术发展中的历史模式，特别是印刷机和电报的案例，以理解当前人工智能带来的机遇与风险。她指出，技术进步常伴随对社会和人性的深远影响，而我们对AI的理解和应用，应超越技术本身，更多地关注公共教育、社会协商以及我们希望构建的社会形态。文章强调了信任、问责制以及重新定义智能的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Stephanie Dick
-  - Johannes Gutenberg
-companies_orgs:
-  - Simon Fraser University
-  - Meta
-  - Facebook
-  - Google
-  - Microsoft
-  - X
-products_models:
-  - ChatGPT
-media_books:
-  - The New York Times
-  - Black Mirror
 status: evergreen
+summary: 西蒙菲沙大学助理教授Stephanie Dick探讨了技术发展中的历史模式，特别是印刷机和电报的案例，以理解当前人工智能带来的机遇与风险。她指出，技术进步常伴随对社会和人性的深远影响，而我们对AI的理解和应用，应超越技术本身，更多地关注公共教育、社会协商以及我们希望构建的社会形态。文章强调了信任、问责制以及重新定义智能的重要性。
+tags:
+- ai-ethics
+- historical
+- information
+- societal-impact
+- technological
+title: 印刷机与现代AI：历史如何指引我们应对技术变革？
 ---
+
 ### 历史的回响：技术进步的双重性
 
 技术并非孤立存在。它不断塑造着我们，而我们也持续塑造着它。随之而来的是巨大的可能性与真实的风险并存。西蒙菲沙大学传播学院助理教授Stephanie Dick经常思考这个问题。她研究数学、计算和**人工智能**（AI: Artificial Intelligence）的历史。她探讨了历史能如何指导我们理解当前所处的时刻，以及我们应该思考哪些问题来决定下一步的方向。

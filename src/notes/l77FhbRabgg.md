@@ -1,44 +1,43 @@
 ---
-author: 天下文化
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 天下文化
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《有錢到老後》
+- 《別把錢留到死》
+people:
+- 谢文献
+- 贤人老师
+- 威廉·班根
+products_models:
+- '0050'
+- '0056'
+- 00878
+- 劳工保险
+- 全民健康保险
+project:
+- investment-strategy
+- personal-growth-lab
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=l77FhbRabgg
 speaker: 天下文化
-tags:
-  - retirement-planning
-  - financial-independence
-  - investment-strategy
-  - mid-career-crisis
-  - wealth-transfer
-title: 《有钱到老后》：中年职场危机、退休三桶金与4%法则的深度解析
-summary: 本期节目主持人谢文献与退休教练贤人老师深入探讨《有钱到老后》一书的核心理念。贤人老师分享了其49岁遭遇职场危机并转型成为退休教练的经历，强调了退休规划的重要性。节目详细解读了“三桶金”投资策略和“4%法则”，旨在帮助听众在退休前建立稳健的财务基础，避免过度焦虑，并探讨了财富传承、投资纪律及退休后生活态度的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: personal-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-  - market-cycles
-people:
-  - 谢文献
-  - 贤人老师
-  - 威廉·班根
-companies_orgs:
-  - 天下文化
-products_models:
-  - '0050'
-  - '0056'
-  - '00878'
-  - 劳工保险
-  - 全民健康保险
-media_books:
-  - 《有錢到老後》
-  - 《別把錢留到死》
 status: evergreen
+summary: 本期节目主持人谢文献与退休教练贤人老师深入探讨《有钱到老后》一书的核心理念。贤人老师分享了其49岁遭遇职场危机并转型成为退休教练的经历，强调了退休规划的重要性。节目详细解读了“三桶金”投资策略和“4%法则”，旨在帮助听众在退休前建立稳健的财务基础，避免过度焦虑，并探讨了财富传承、投资纪律及退休后生活态度的重要性。
+tags:
+- crisis
+- financial-independence
+- retirement-planning
+- wealth
+title: 《有钱到老后》：中年职场危机、退休三桶金与4%法则的深度解析
 ---
+
 ### 中年职场转型与退休规划的启示
 
 **谢文献:** 欢迎各位听众收听天下文化相信阅读书房现场单元，我是主持人谢文献。很多人都知道我将近60岁，今年是57岁，1968年出生，这是一个非常特别的年份。我最近看了一本非常特别的书，它很打动我。虽然我的大部分财产可能都放在房地产、现金和股票，金额可能没那么高，但是我的两个儿子长大成人之后，我一直在跟我老婆想，有一天我要是离开之后，这两个小孩如果拿到很多的遗产，他们到底是好还是不好？我看完这本书之后，我有些不同的想法。这本书名为《有钱到老后》，因为我看到退休教练贤人老师的内容之后，就发现我一定要约他来聊聊这本书。我们请贤人教练跟大家打声招呼。我现在叫你贤哥还是贤弟？没关系，你刚刚已经暴露我们的年龄，因为你书上有写，所以意外地这样发现我们同年了，我们两个同年，而且是同年次的，同一届的。

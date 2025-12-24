@@ -1,65 +1,63 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Hamas
+- Department of State
+- White House
+- Amazon
+- Affinity Partners
+- Phoenix Holdings
+- Silver Lake
+- Public Investment Fund of Saudi Arabia (PIF)
+- Electronic Arts
 date: '2025-10-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Steve Witkoff
+- Jared Kushner
+- Ivanka Trump
+- Jeff Bezos
+- Benjamin Netanyahu
+- Tony Blair
+- Susie Wiles
+- Donald Trump Jr.
+- Kimberly Guilfoyle
+- Steven Mnuchin
+- Karoline Leavitt
+- Joseph Kushner
+- Charles Kushner
+- Chris Christie
+- Murray Kushner
+- Esther Kushner
+- Billy
+- James O'Toole
+- Susanna
+- Al Gore
+- Natalie Portman
+- Steve Bannon
+products_models:
+- Abraham Accords
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=-jLf9PtpTNg
 speaker: 记者易速利
-tags:
-  - unconventional-diplomacy
-  - middle-east-peace
-  - kushner-family-history
-  - political-influence
-  - gaza-reconstruction
-title: 库什纳与维特科夫：特朗普中东外交的幕后推手与家族遗产
-summary: 本文深入探讨了特朗普政府时期，其女婿贾里德·库什纳和老友史蒂夫·维特科夫在中东外交，特别是加沙冲突调停中扮演的非传统角色。文章详细阐述了两人如何凭借其独特的背景和与特朗普的紧密关系，推动了人质释放和和平倡议，并揭示了库什纳家族从房地产发家到卷入政治风波的复杂历史，以及其在商业和政治领域所面临的伦理争议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Steve Witkoff
-  - Jared Kushner
-  - Ivanka Trump
-  - Jeff Bezos
-  - Benjamin Netanyahu
-  - Tony Blair
-  - Susie Wiles
-  - Donald Trump Jr.
-  - Kimberly Guilfoyle
-  - Steven Mnuchin
-  - Karoline Leavitt
-  - Joseph Kushner
-  - Charles Kushner
-  - Chris Christie
-  - Murray Kushner
-  - Esther Kushner
-  - Billy
-  - James O'Toole
-  - Susanna
-  - Al Gore
-  - Natalie Portman
-  - Steve Bannon
-companies_orgs:
-  - Hamas
-  - Department of State
-  - White House
-  - Amazon
-  - Affinity Partners
-  - Phoenix Holdings
-  - Silver Lake
-  - Public Investment Fund of Saudi Arabia (PIF)
-  - Electronic Arts
-products_models:
-  - Abraham Accords
-media_books: []
 status: evergreen
+summary: 本文深入探讨了特朗普政府时期，其女婿贾里德·库什纳和老友史蒂夫·维特科夫在中东外交，特别是加沙冲突调停中扮演的非传统角色。文章详细阐述了两人如何凭借其独特的背景和与特朗普的紧密关系，推动了人质释放和和平倡议，并揭示了库什纳家族从房地产发家到卷入政治风波的复杂历史，以及其在商业和政治领域所面临的伦理争议。
+tags:
+- diplomacy
+- geopolitical
+- history
+- middle-east-peace
+- political-influence
+title: 库什纳与维特科夫：特朗普中东外交的幕后推手与家族遗产
 ---
 
 ### 特朗普中东外交的非传统路径

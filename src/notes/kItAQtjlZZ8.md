@@ -1,58 +1,57 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: finance
+companies_orgs:
+- Science
+- Western Alliance
+- NVIDIA
+- Microsoft
+- BYD
+- ADM
+- Amazon
+- JPMorgan Chase
+- Nomura
+- OCC
+- FDIC
+- SEC
+- CFPB
+- 英国皇家铸币厂
 date: '2025-10-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reuters
+people:
+- Donald Trump
+- Jerome Powell
+- Huang Renxun
+- 段永平
+products_models:
+- Xbox
+- Bitcoin
+- Stablecoin
+- ABS
+project:
+- us-analysis
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=kItAQtjlZZ8
 speaker: 小翠時政財經
-tags:
-  - regional-banks
-  - liquidity-crisis
-  - loan-fraud
-  - us-china-decoupling
-  - gold-silver-market
-  - fiscal-pressure-china
-  - us-election-2024
-title: 美股“活久见”：区域银行危机再现，全球股市震荡，川普政策与中国财政压力
-summary: 2025年10月17日，全球资本市场经历“活久见”行情。美国区域银行因贷款欺诈和坏账问题再次爆雷，引发市场对流动性紧张和银行业危机的担忧，导致美股及全球股市大跌。与此同时，加密货币市场信心受挫，黄金白银则持续疯涨。宏观层面，美国AI产业“去中国化”进程加速，中国面临财政压力，大学学费上涨。前总统川普提出降低试管婴儿费用并设立育儿基金，旨在提振生育率并为美股注入流动性。本文深入分析了这些事件背后的原因、影响及未来展望。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - market-cycles
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Huang Renxun
-  - 段永平
-companies_orgs:
-  - Science
-  - Western Alliance
-  - NVIDIA
-  - Microsoft
-  - BYD
-  - ADM
-  - Amazon
-  - JPMorgan Chase
-  - Nomura
-  - OCC
-  - FDIC
-  - SEC
-  - CFPB
-  - 英国皇家铸币厂
-products_models:
-  - Xbox
-  - Bitcoin
-  - Stablecoin
-  - ABS
-media_books:
-  - Reuters
 status: evergreen
+summary: 2025年10月17日，全球资本市场经历“活久见”行情。美国区域银行因贷款欺诈和坏账问题再次爆雷，引发市场对流动性紧张和银行业危机的担忧，导致美股及全球股市大跌。与此同时，加密货币市场信心受挫，黄金白银则持续疯涨。宏观层面，美国AI产业“去中国化”进程加速，中国面临财政压力，大学学费上涨。前总统川普提出降低试管婴儿费用并设立育儿基金，旨在提振生育率并为美股注入流动性。本文深入分析了这些事件背后的原因、影响及未来展望。
+tags:
+- china
+- crisis
+- fraud
+- market
+- regional-bank
+- us-election-2024
+title: 美股“活久见”：区域银行危机再现，全球股市震荡，川普政策与中国财政压力
 ---
+
 ### 2025年资本市场：活久见与每日要闻
 
 大家好，欢迎回到小翠时政财经。今天是东时间2025年10月17日，欢迎收看我们今天的每日要闻节目。今天的节目内容非常精彩，因为股市事件频发。今年的资本市场，如果用一个词来形容，那真的是“活久见”。黄金白银猛涨，甚至涨过了美股和所有风险资产。大家一边买美股，一边买黄金对冲风险，个个都很专业。每一天的行情都精彩得可以写进剧本。我记得我看过一部美剧叫《Billions》，我觉得今年可以写一个姐妹剧叫《Trillions》，毕竟通货膨胀了嘛，单位都不够用了。

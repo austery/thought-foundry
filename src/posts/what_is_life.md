@@ -5,12 +5,10 @@ area: null
 category: null
 project: []
 tags:
-  - 生命科学
-  - 进化论
-people: []
+- health
+- science
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-06-08'
 author: Lei
 speaker: null
@@ -21,6 +19,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 # What is life? / 生命是什么？
 
 **讲述者简介**

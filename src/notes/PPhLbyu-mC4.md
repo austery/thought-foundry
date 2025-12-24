@@ -1,50 +1,49 @@
 ---
-author: 徒步的騎手
-date: 2025-01-21
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=PPhLbyu-mC4'
-speaker: 徒步的騎手
-tags:
-  - us-national-identity
-  - american-creed
-  - pursuit-of-happiness
-  - universal-civilization
-  - us-china-relations
-title: 美国是一个什么样的国家？观念、信条与普世文明的构建
-summary: 本文深入探讨了美国的国家本质，将其与以历史和族群为基础的民族国家（如中国）进行对比。文章指出，美国是一个建立在共同观念之上的国家，其核心是“美国信条”——即独立宣言中“人人生而平等，造物主赋予不可剥夺的生命、自由和追求幸福的权利”。通过分析“美国梦”的深层含义、宪政制度的演进以及V.S.奈保尔提出的“普世文明”概念，揭示了美国如何通过这些超越种族和文化的观念，凝聚不同背景的移民，并对全球产生深远影响。文章强调，美国是一个不断追求“更完美联邦”的动态过程，其民主的本质在于永不止息的抗争。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Samuel Huntington
-  - Gunnar Myrdal
-  - Friedrich Hayek
-  - James Adams
-  - V.S. Naipaul
-  - William Hasty
-  - Bill Clinton
-  - George W. Bush
-  - Barack Obama
-  - Donald Trump
-  - Joe Biden
+category: geopolitics
 companies_orgs:
-  - Carnegie Corporation
-products_models: '[]'
+- Carnegie Corporation
+date: 2025-01-21
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《我们是谁》
-  - 《美国难题》
-  - 《美国的民主》
-  - 《美国史诗》
-  - 《纽约时报》
-  - 《环球时报》
+- 《我们是谁》
+- 《美国难题》
+- 《美国的民主》
+- 《美国史诗》
+- 《纽约时报》
+- 《环球时报》
+people:
+- Samuel Huntington
+- Gunnar Myrdal
+- Friedrich Hayek
+- James Adams
+- V.S. Naipaul
+- William Hasty
+- Bill Clinton
+- George W. Bush
+- Barack Obama
+- Donald Trump
+- Joe Biden
+products_models: '[]'
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=PPhLbyu-mC4
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了美国的国家本质，将其与以历史和族群为基础的民族国家（如中国）进行对比。文章指出，美国是一个建立在共同观念之上的国家，其核心是“美国信条”——即独立宣言中“人人生而平等，造物主赋予不可剥夺的生命、自由和追求幸福的权利”。通过分析“美国梦”的深层含义、宪政制度的演进以及V.S.奈保尔提出的“普世文明”概念，揭示了美国如何通过这些超越种族和文化的观念，凝聚不同背景的移民，并对全球产生深远影响。文章强调，美国是一个不断追求“更完美联邦”的动态过程，其民主的本质在于永不止息的抗争。
+tags:
+- american-creed
+- financial
+- society
+- us-china-relations
+- us-national-identity
+title: 美国是一个什么样的国家？观念、信条与普世文明的构建
 ---
 
 ### 美国对中国及个人命运的深远影响

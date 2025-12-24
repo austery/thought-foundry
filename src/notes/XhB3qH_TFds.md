@@ -1,64 +1,63 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Google DeepMind
+- Stanford
+- Flatiron Institute
+- CERN
+- LIGO
+- OpenAI
+- Princeton
+- Western Digital
+- Brookhaven
 date: '2024-12-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《原子弹秘史》
+- 《漫游在银河系搭便车指南》
+- 《福尔摩斯探案集》
+people:
+- Adam Brown
+- Edwin Hubble
+- Albert Einstein
+- Jacob Bekenstein
+- Stephen Hawking
+- Roger Penrose
+- Juan Maldacena
+- Archimedes
+- Scott Aaronson
+- Shirley Ho
+- John Hopfield
+- Geoffrey Hinton
+- Luis Alvarez
+- Curtis LeMay
+- Leonard Susskind
+- David Reich
+- Max Born
+- Stanislav Petrov
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=XhB3qH_TFds
 speaker: Dwarkesh Patel
-tags:
-  - cosmology
-  - quantum-gravity
-  - black-holes
-  - ai-in-science
-  - multiverse
-  - vacuum-decay
-  - space-elevator
-title: 亚当·布朗：泡泡宇宙、太空电梯与黑洞信息论
-summary: 本期节目中，**谷歌DeepMind**的**亚当·布朗**教授探讨了宇宙的终极命运，包括暗能量导致的加速膨胀和热寂的可能性。他深入分析了“**泡泡宇宙**”理论、**真空衰变**以及人类文明通过工程手段改变物理常数的潜力。对话还涉及**AI**在物理研究中的应用，如文献搜索和作为导师的角色，以及**黑洞**信息存储、能量开采的物理极限，最后分享了搭便车的奇遇和对未来文明的展望。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Adam Brown
-  - Dwarkesh Patel
-  - Edwin Hubble
-  - Albert Einstein
-  - Jacob Bekenstein
-  - Stephen Hawking
-  - Roger Penrose
-  - Juan Maldacena
-  - Archimedes
-  - Scott Aaronson
-  - Shirley Ho
-  - John Hopfield
-  - Geoffrey Hinton
-  - Luis Alvarez
-  - Curtis LeMay
-  - Leonard Susskind
-  - David Reich
-  - Max Born
-  - Stanislav Petrov
-companies_orgs:
-  - Google DeepMind
-  - Stanford
-  - Flatiron Institute
-  - CERN
-  - LIGO
-  - OpenAI
-  - Princeton
-  - Western Digital
-  - Brookhaven
-products_models: []
-media_books:
-  - 《原子弹秘史》
-  - 《漫游在银河系搭便车指南》
-  - 《福尔摩斯探案集》
 status: evergreen
+summary: 本期节目中，**谷歌DeepMind**的**亚当·布朗**教授探讨了宇宙的终极命运，包括暗能量导致的加速膨胀和热寂的可能性。他深入分析了“**泡泡宇宙**”理论、**真空衰变**以及人类文明通过工程手段改变物理常数的潜力。对话还涉及**AI**在物理研究中的应用，如文献搜索和作为导师的角色，以及**黑洞**信息存储、能量开采的物理极限，最后分享了搭便车的奇遇和对未来文明的展望。
+tags:
+- black-hole
+- cosmology
+- multiverse
+- science
+- space
+- technology
+- vacuum-decay
+title: 亚当·布朗：泡泡宇宙、太空电梯与黑洞信息论
 ---
+
 ### 宇宙的终极命运
 
 今天我与**亚当·布朗**聊天，他是**谷歌DeepMind**的**Blueshift**团队创始人兼负责人，该团队致力于解决数学和推理问题，同时他也是**斯坦福大学**的理论物理学家。**亚当**，欢迎你。

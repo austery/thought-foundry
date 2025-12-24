@@ -1,50 +1,48 @@
 ---
-author: Veritasium
-date: '2024-11-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=2oDXbFcHliM
-speaker: Veritasium
-tags:
-  - veritasium
-  - glass-technology
-  - material-science
-  - gorilla-glass
-  - transparent-materials
-  - ion-exchange
-title: 玻璃：从易碎到坚不可摧的材料革命
-summary: 玻璃，这一曾是脆弱象征的材料，如今已成为现代生活中不可或缺的组成部分，承载着我们对透明、耐刮擦、超薄甚至柔韧的期待。本文深入探讨了玻璃的悠久历史、从自然形成到人工制造的演变，以及康宁大猩猩玻璃等创新技术如何通过离子交换等工艺，使其具备前所未有的坚固性。从早期的切割工具到推动科学革命的透镜和望远镜，再到现代智能设备的屏幕和光纤，玻璃的不断进步深刻改变了人类的生活方式和对宇宙的认知。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Steve Jobs
-  - Wendell Weeks
-  - Hans Janssen
-  - Zacharias Janssen
-  - Antony Van Leeuwenhoek
-  - Robert Hook
-  - Hans Lippershey
-  - Galileo Galilei
-  - Angelo Barovier
-  - Petr
+category: technology
 companies_orgs:
-  - Apple
-  - Corning
-  - Veritasium
-products_models:
-  - iPhone
-  - Gorilla Glass
-  - Saily
+- Apple
+- Corning
+- Veritasium
+date: '2024-11-13'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Micrographia
+- Micrographia
+people:
+- Steve Jobs
+- Wendell Weeks
+- Hans Janssen
+- Zacharias Janssen
+- Antony Van Leeuwenhoek
+- Robert Hook
+- Hans Lippershey
+- Galileo Galilei
+- Angelo Barovier
+- Petr
+products_models:
+- iPhone
+- Gorilla Glass
+- Saily
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=2oDXbFcHliM
+speaker: veritasium
 status: evergreen
+summary: 玻璃，这一曾是脆弱象征的材料，如今已成为现代生活中不可或缺的组成部分，承载着我们对透明、耐刮擦、超薄甚至柔韧的期待。本文深入探讨了玻璃的悠久历史、从自然形成到人工制造的演变，以及康宁大猩猩玻璃等创新技术如何通过离子交换等工艺，使其具备前所未有的坚固性。从早期的切割工具到推动科学革命的透镜和望远镜，再到现代智能设备的屏幕和光纤，玻璃的不断进步深刻改变了人类的生活方式和对宇宙的认知。
+tags:
+- gorilla-glas
+- ion-exchange
+- material-science
+- technology
+title: 玻璃：从易碎到坚不可摧的材料革命
 ---
+
 ### 玻璃：从易碎到坚韧的蜕变
 
 玻璃本质上是**脆性**（brittle）的。

@@ -1,39 +1,39 @@
 ---
-author: Amit Kukreja
+area: society-systems
+category: general
+companies_orgs:
+- AK Media
+- Google
+- Eventbrite
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- ''
+- channel-update
+people:
+- Jessica
+products_models:
+- ''
+project:
+- knowledge-pipeline
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=_TUd8TRXW44
 speaker: Amit Kukreja
-tags:
-  - community-building
-  - personal-growth
-  - channel-updates
-  - live-streaming
-  - sobriety-journey
-title: 新经理直播与2026年频道更新：Amit Kukreja 介绍新成员 Jessica
-summary: 本次直播宣布了 Amit Kukreja 频道团队的重大更新，正式引入新经理 Jessica。直播详细介绍了 Jessica 的背景，包括她在公关领域的十年经验以及她克服个人挑战（如酗酒和寻求清醒）的励志旅程。同时，Amit 分享了频道在2026年的发展规划，包括内容创作、社区互动（如市场开/闭市贡献者、播客嘉宾招募）以及线下聚会（Meetups）的组织优化。直播还涵盖了对加拿大文化、魁北克语言政策、个人投资理念以及生活选择等话题的探讨，展现了频道团队的真实与多元。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - knowledge-pipeline
-  - personal-growth-lab
-people:
-  - Amit Kukreja
-  - Jessica
-companies_orgs:
-  - AK Media
-  - Google
-  - Eventbrite
-products_models:
-  - ''
-media_books:
-  - ''
 status: evergreen
+summary: 本次直播宣布了 Amit Kukreja 频道团队的重大更新，正式引入新经理 Jessica。直播详细介绍了 Jessica 的背景，包括她在公关领域的十年经验以及她克服个人挑战（如酗酒和寻求清醒）的励志旅程。同时，Amit
+  分享了频道在2026年的发展规划，包括内容创作、社区互动（如市场开/闭市贡献者、播客嘉宾招募）以及线下聚会（Meetups）的组织优化。直播还涵盖了对加拿大文化、魁北克语言政策、个人投资理念以及生活选择等话题的探讨，展现了频道团队的真实与多元。
+tags:
+- community-building
+- live-streaming
+- personal-growth
+- sobriety-journey
+title: 新经理直播与2026年频道更新：Amit Kukreja 介绍新成员 Jessica
 ---
+
 ### 频道新篇章：引入新经理与2026年发展蓝图
 
 大家好，欢迎回到频道。这是我新经理直播的正式介绍。我们有很多内容要讨论，也有很多2026年的更新。女士们先生们，这位是 Jessica。

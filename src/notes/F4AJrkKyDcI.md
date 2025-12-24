@@ -1,40 +1,39 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 美联储
+- 高盛
+- 白宫
 date: '2025-04-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Jerome Powell
+- Janet Yellen
+- Peter Navarro
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=F4AJrkKyDcI
 speaker: Shanghao Jin
-tags:
-  - trade-war
-  - fed-policy
-  - economic-recession
-  - market-uncertainty
-  - us-trade-policy
-title: 特朗普关税政策、美联储决策与2025年市场展望
-summary: 本期节目深入分析了当前市场面临的巨大不确定性，主要源于特朗普政府的关税政策及其在全球范围内引发的贸易混战。主持人指出，美联储主席鲍威尔明确表示不会为白宫的政策“买单”，其决策基于对通胀的担忧、政策不确定性以及维护个人声誉的考量。节目预测市场短期内将持续波动，经济衰退概率增大，并强调在政策明朗前应保持谨慎，避免盲目抄底，同时对美国经济的长期前景持乐观态度。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Janet Yellen
-  - Peter Navarro
-companies_orgs:
-  - 美联储
-  - 高盛
-  - 白宫
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了当前市场面临的巨大不确定性，主要源于特朗普政府的关税政策及其在全球范围内引发的贸易混战。主持人指出，美联储主席鲍威尔明确表示不会为白宫的政策“买单”，其决策基于对通胀的担忧、政策不确定性以及维护个人声誉的考量。节目预测市场短期内将持续波动，经济衰退概率增大，并强调在政策明朗前应保持谨慎，避免盲目抄底，同时对美国经济的长期前景持乐观态度。
+tags:
+- economic-recession
+- fed-policy
+- market
+- trade-war
+- us-trade-policy
+title: 特朗普关税政策、美联储决策与2025年市场展望
 ---
+
 ### 市场波动与风险提示
 
 整个市场正经历着巨大的变化。当前市场波动性极高，未来几个月我们将面临更大的**尾部风险**（Tail Risk: 指发生概率极低但一旦发生会造成巨大损失的风险），这种不确定性可能向上也可能向下。与以往不同的是，当前的下跌过程并非市场自然演变，而是完全由人为政策所制造。这意味着政策也可能随时被取消或被更大的政策所取代，导致未来政策的不确定性更强。例如，昨天关于墨西哥和日本未能与美国达成关税协议的消息，就可能导致市场继续下跌。

@@ -1,35 +1,33 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 澜起科技
+- 台积电
 date: '2025-05-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- DDR5
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=VzwntRIZq3w
 speaker: 海淀拙大叔
-tags:
-  - investment-logic
-  - high-growth-analysis
-  - ddr5-market
-  - ai-infrastructure-growth
-  - financial-indicators
-title: 澜起科技的投资逻辑：高增长能否持续至2026年后？
-summary: 本文深入分析了澜起科技的投资逻辑，重点探讨其高增长能否持续。通过拆分内存接口芯片和高运力芯片业务，结合DDR5渗透率提升、AI基础设施建设以及合同负债、预付款等财务数据，预测澜起科技在2026年底前大概率保持高增长。文章也指出，2026年后，公司增长将取决于第二曲线高运力芯片业务的占比和增长率。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs:
-  - 澜起科技
-  - 台积电
-products_models:
-  - DDR5
-media_books: []
 status: evergreen
+summary: 本文深入分析了澜起科技的投资逻辑，重点探讨其高增长能否持续。通过拆分内存接口芯片和高运力芯片业务，结合DDR5渗透率提升、AI基础设施建设以及合同负债、预付款等财务数据，预测澜起科技在2026年底前大概率保持高增长。文章也指出，2026年后，公司增长将取决于第二曲线高运力芯片业务的占比和增长率。
+tags:
+- ai-infrastructure-growth
+- financial
+- growth
+- investment
+- market
+title: 澜起科技的投资逻辑：高增长能否持续至2026年后？
 ---
+
 ### 澜起科技投资逻辑的核心问题
 
 阿甘公司研究论第19集的第二部分，本文将探讨**澜起科技**（Montage Technology: 一家专注于内存接口芯片和高性能计算芯片的中国公司）的投资逻辑是否依然存在。我们曾提到，在跟进分析一家公司时有三个关注点。首先，公司的增长是否符合之前的投资逻辑，这一点在上一期已讨论过，结论是符合的。其次，当前的投资逻辑是否能持续存在？最后，未来的市值天花板在哪里？这里的“投资逻辑是否存在”核心是探讨其高增长能否继续。要回答这个问题，我们需要先拆分澜起科技的业务构成。

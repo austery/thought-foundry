@@ -1,37 +1,36 @@
 ---
-author: TED
+area: market-analysis
+category: finance
+companies_orgs:
+- TED
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Edmond Rhys Jones
+products_models:
+- parametric-insurance
+- digital-twins
+project:
+- investment-strategy
+- market-cycles
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=7onAN_t68t0
 speaker: TED
-tags:
-  - climate-shocks
-  - economic-disruption
-  - financial-resilience
-  - complexity-economics
-  - simulation-models
-title: 气候冲击如何瓦解经济：超越传统经济模型的洞察
-summary: 本文深入探讨了气候变化对全球经济的深远影响，指出传统经济模型未能充分揭示气候冲击带来的金融动荡。作者强调需要采用复杂经济学中的模拟工具，如“数字孪生”，来更准确地预测和管理这些风险。文章还提出了通过创新金融产品（如参数化保险）构建经济韧性的重要性，以应对未来不可避免的气候挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - systems-thinking
-people:
-  - Edmond Rhys Jones
-companies_orgs:
-  - TED
-products_models:
-  - parametric-insurance
-  - digital-twins
-media_books: []
 status: evergreen
+summary: 本文深入探讨了气候变化对全球经济的深远影响，指出传统经济模型未能充分揭示气候冲击带来的金融动荡。作者强调需要采用复杂经济学中的模拟工具，如“数字孪生”，来更准确地预测和管理这些风险。文章还提出了通过创新金融产品（如参数化保险）构建经济韧性的重要性，以应对未来不可避免的气候挑战。
+tags:
+- climate
+- economic
+- financial-resilience
+- model
+- science
+title: 气候冲击如何瓦解经济：超越传统经济模型的洞察
 ---
+
 ### 气候冲击：经济学与科学之间的鸿沟
 
 2021年是自然灾害频发的一年。那一年，巴基斯坦的洪水夺走了1700人的生命，欧洲则开始了500年来最严重的干旱。

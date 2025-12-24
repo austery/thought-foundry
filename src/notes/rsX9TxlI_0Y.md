@@ -1,52 +1,52 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: culture
+companies_orgs:
+- DAAD
 date: '2024-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《生命幻想曲》
+- 《革命时隔》
+- 《永别了墓地》
+- 《婴儿》
+- 《你叫小木耳》
+- 《红楼梦》
+- 《死亡之岛》
+people:
+- 顾城
+- 谢烨
+- 李英
+- 顾彬
+- 顾湘
+- 王安忆
+- 曾慧燕
+- 柴静
+- 毛泽东
+- 周恩来
+- 大禹
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=rsX9TxlI_0Y
 speaker: 柴静 Chai Jing
-tags:
-  - gu-cheng-philosophy
-  - xie-ye-sacrifice
-  - utopian-ideals
-  - cultural-revolution-impact
-  - complex-relationships
-title: 顾城谢烨悲剧：诗意乌托邦的崩塌与人性的极端挣扎
-summary: 本文深入探讨了诗人顾城与谢烨复杂的一生及其悲剧性结局。文章追溯了顾城受文革影响的早年经历、他对欲望与社会的独特哲学观，以及他与谢烨在新西兰共建“岛屿王国”的尝试。叙述剖析了他们关系中的错综复杂、李英的介入，以及理想最终如何在暴力中走向崩塌。通过顾彬等人的视角，本文反思了定义他们生命的深刻人性挣扎、哲学矛盾与对绝对自由的极致追求。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - systems-thinking
-people:
-  - 顾城
-  - 谢烨
-  - 李英
-  - 顾彬
-  - 顾湘
-  - 王安忆
-  - 曾慧燕
-  - 柴静
-  - 毛泽东
-  - 周恩来
-  - 大禹
-companies_orgs:
-  - DAAD
-products_models: []
-media_books:
-  - 《生命幻想曲》
-  - 《革命时隔》
-  - 《永别了墓地》
-  - 《婴儿》
-  - 《你叫小木耳》
-  - 《红楼梦》
-  - 《死亡之岛》
 status: evergreen
+summary: 本文深入探讨了诗人顾城与谢烨复杂的一生及其悲剧性结局。文章追溯了顾城受文革影响的早年经历、他对欲望与社会的独特哲学观，以及他与谢烨在新西兰共建“岛屿王国”的尝试。叙述剖析了他们关系中的错综复杂、李英的介入，以及理想最终如何在暴力中走向崩塌。通过顾彬等人的视角，本文反思了定义他们生命的深刻人性挣扎、哲学矛盾与对绝对自由的极致追求。
+tags:
+- cultural-revolution-impact
+- philosophy
+- relationship
+- utopian-ideal
+- xie-ye-sacrifice
+title: 顾城谢烨悲剧：诗意乌托邦的崩塌与人性的极端挣扎
 ---
+
 ### 童年创伤与诗歌启蒙
 
 或许，有些原因人人心知肚明，却难以言说。例如在1968年，十二岁的顾城，曾试图用树枝撕裂天空，却只戳出了几个微小的窟窿。他透过天外的光亮，人们将其称作月亮和星星。他的童话诗，正是在这一年**公宣队**（公共安全宣传队：文化大革命时期负责治安与政治宣传的组织）抄家之后写成的。顾城自己说，他的所谓童话，并非完全生自自然状态，实际上，它源于文化大革命给他造成的恐惧。当中那些残酷的景象给顾城留下了太深的印象，他说他要回到大自然去，要到农村去。顾城只上了三年学，此后他去了山东农村，跟着父亲下放养猪。他说，在他成长的时期，所有的传统文化和一切外国的影响都在文革这种白热的爆炸当中消失了，他是一个**现代的原始人**（Modern Primitive：顾城对自己的描述，指在现代社会中保持原始纯粹状态的人）。

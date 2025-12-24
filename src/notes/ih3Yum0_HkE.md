@@ -1,82 +1,82 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs:
+- Ministry of Finance of China
+- Reuters
+- Ant Group
+- JD.com
+- SanDisk
+- Goldman Sachs
+- Sanhua Intelligent Controls
+- Tesla
+- China Gold Association
+- Tencent
+- Pop Mart
+- BYD
+- State Administration for Market Regulation
+- Bank of Japan
+- Federal Reserve
+- TSMC
+- Nvidia
+- AMD
+- Oracle
+- Microsoft
+- FBI
+- Ministry of Commerce of China
+- Hanwha Ocean
+- National Computer Virus Emergency Response Center
+- Prince Group (Cambodia)
+- Burger King
+- Starbucks
+- CPE Yuanfeng
+- Restaurant Brands International
+- State Council General Office of China
+- China Business News
+- Fannie Mae
+- Intel
+- Berkshire Hathaway
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Donald Trump
+- Jensen Huang
+- Janet Yellen
+- Sanae Takaichi
+- Xue Jin
+- Lei Jun
+- Barack Obama
+- Warren Buffett
+products_models:
+- Affordable Care Act
+- Humanoid Robots
+- GPU
+- AI Accelerators
+- SSD
+- Embedded Modules
+- Fentanyl
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ih3Yum0_HkE
 speaker: 小翠時政財經
-tags:
-  - us-government-shutdown
-  - fiscal-policy
-  - consumer-spending
-  - humanoid-robots
-  - geopolitical-tensions
-title: 美政府重开提振市场，中国机器人豪赌存风险，多国经济政策引关注
-summary: 本期节目聚焦全球经济与政策热点。美国政府有望重新开门，提振资本市场。中国财政部发布提振消费政策，并有互联网平台恢复消费信贷业务，但网贷不良率高企引发担忧。同时，中国企业在人形机器人领域激进扩产，高盛警示存在豪赌风险。日本政府暗示将削弱财政整顿承诺，寻求更大开支灵活性。美国前总统特朗普提出50年房贷和关税分红等新政，引发争议。节目还深入探讨了奥巴马医保对中产阶级的负面影响，以及中国对芬太尼出口管制和对民营企业扶持政策的解读。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - Jensen Huang
-  - Janet Yellen
-  - Sanae Takaichi
-  - Xue Jin
-  - Lei Jun
-  - Barack Obama
-  - Warren Buffett
-companies_orgs:
-  - Ministry of Finance of China
-  - Reuters
-  - Ant Group
-  - JD.com
-  - SanDisk
-  - Goldman Sachs
-  - Sanhua Intelligent Controls
-  - Tesla
-  - China Gold Association
-  - Tencent
-  - Pop Mart
-  - BYD
-  - State Administration for Market Regulation
-  - Bank of Japan
-  - Federal Reserve
-  - TSMC
-  - Nvidia
-  - AMD
-  - Oracle
-  - Microsoft
-  - FBI
-  - Ministry of Commerce of China
-  - Hanwha Ocean
-  - National Computer Virus Emergency Response Center
-  - Prince Group (Cambodia)
-  - Burger King
-  - Starbucks
-  - CPE Yuanfeng
-  - Restaurant Brands International
-  - State Council General Office of China
-  - China Business News
-  - Fannie Mae
-  - Intel
-  - Berkshire Hathaway
-products_models:
-  - Affordable Care Act
-  - Humanoid Robots
-  - GPU
-  - AI Accelerators
-  - SSD
-  - Embedded Modules
-  - Fentanyl
-media_books: []
 status: evergreen
+summary: 本期节目聚焦全球经济与政策热点。美国政府有望重新开门，提振资本市场。中国财政部发布提振消费政策，并有互联网平台恢复消费信贷业务，但网贷不良率高企引发担忧。同时，中国企业在人形机器人领域激进扩产，高盛警示存在豪赌风险。日本政府暗示将削弱财政整顿承诺，寻求更大开支灵活性。美国前总统特朗普提出50年房贷和关税分红等新政，引发争议。节目还深入探讨了奥巴马医保对中产阶级的负面影响，以及中国对芬太尼出口管制和对民营企业扶持政策的解读。
+tags:
+- consumer-spending
+- fiscal-policy
+- geopolitical-tension
+- humanoid-robot
+- us-government-shutdown
+title: 美政府重开提振市场，中国机器人豪赌存风险，多国经济政策引关注
 ---
+
 ### 市场概览与中国消费刺激政策
 
 大家好，欢迎回到小崔时政财经。今天是美东时间2025年11月10日，欢迎收看本周的每日要闻节目。今天是一个令人振奋的日子，因为美国政府终于有望重新开门，资本市场普遍表现良好。

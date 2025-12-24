@@ -1,52 +1,52 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Nanos Research
+- York University
+- Clean Energy Canada
+- McMaster University's DeGroote School of Business
+- Brookings Institution
+- ISO (Independent Electricity System Operator)
+- Ontario Energy Board
+- WTO
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+people:
+- Doug Ford
+- Mike Schreiner
+- Mark Winfield
+- Mark Carney
+- Joanna Kyriazis
+- Addisu
+- Donald Trump
+products_models:
+- Small Modular Reactor
+- Chinese Electric Vehicles
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=xUE8nfhzqAM
 speaker: TVO Today
-tags:
-  - electricity-subsidies
-  - nuclear-expansion
-  - ev-tariffs
-  - trade-policy
-  - energy-security
-  - consumer-impact
-title: 安大略省电价上涨与加拿大对中国电动汽车关税的辩论
-summary: 本文深入探讨了加拿大当前面临的两大经济和政策挑战：安大略省电价飙升及其政府补贴策略，以及联邦政府对中国电动汽车征收高额关税的争议。文章分析了核能项目对电价的影响、监管缺失，并比较了加拿大与欧盟在电动汽车关税上的不同做法。专家们讨论了这些政策对消费者、国内汽车产业、贸易关系及能源安全的长远影响，并提出了未来政策调整的建议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Doug Ford
-  - Mike Schreiner
-  - Mark Winfield
-  - Mark Carney
-  - Joanna Kyriazis
-  - Addisu
-  - Donald Trump
-companies_orgs:
-  - Nanos Research
-  - York University
-  - Clean Energy Canada
-  - McMaster University's DeGroote School of Business
-  - Brookings Institution
-  - ISO (Independent Electricity System Operator)
-  - Ontario Energy Board
-  - WTO
-products_models:
-  - Small Modular Reactor
-  - Chinese Electric Vehicles
-media_books:
-  - The Rundown
 status: evergreen
+summary: 本文深入探讨了加拿大当前面临的两大经济和政策挑战：安大略省电价飙升及其政府补贴策略，以及联邦政府对中国电动汽车征收高额关税的争议。文章分析了核能项目对电价的影响、监管缺失，并比较了加拿大与欧盟在电动汽车关税上的不同做法。专家们讨论了这些政策对消费者、国内汽车产业、贸易关系及能源安全的长远影响，并提出了未来政策调整的建议。
+tags:
+- energy
+- ev-tariff
+- impact
+- nuclear
+- society
+- trade-policy
+title: 安大略省电价上涨与加拿大对中国电动汽车关税的辩论
 ---
+
 ### 安大略省电价上涨与中国电动汽车关税争议概览
 
 自11月1日起，安大略省居民面临29%的电价上涨，但省长**道格·福特**（Doug Ford: 安大略省现任省长）也将提高电力补贴，这意味着实际的“价格冲击”不会那么大。

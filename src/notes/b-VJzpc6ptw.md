@@ -1,30 +1,29 @@
 ---
-title: 蓝色起源首次载人飞行：太空旅行的商业化与未来展望
-summary: 本文探讨蓝色起源New Shepard首次载人飞行，分析商业太空旅行的兴起、科学探索的意义以及NASA在其中的角色。同时，对比了SpaceX的星舰计划，展望了月球和火星探索的未来。
 area: null
 category: null
-project: []
-tags:
-- commercial-spaceflight
-- space-exploration
-people: []
 companies_orgs:
 - blue-origin
 - nasa
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-08'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b-VJzpc6ptw
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本文探讨蓝色起源New Shepard首次载人飞行，分析商业太空旅行的兴起、科学探索的意义以及NASA在其中的角色。同时，对比了SpaceX的星舰计划，展望了月球和火星探索的未来。
+tags:
+- space-exploration
+- technology
+title: 蓝色起源首次载人飞行：太空旅行的商业化与未来展望
 ---
+
 ### 商业太空旅行的可能性
 
 The whole idea here is that you can buy a ticket and cross the Von Karman line, which is the agreed to dotted line over the Earth's surface at which you become, you know, in outer space. And you can call yourself an astronaut. It's a suborbital flight. And if you've got another four or $500,000 burning in your pocket, you can buy a ticket. That's the purpose of this flight.

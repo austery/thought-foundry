@@ -1,45 +1,46 @@
 ---
-author: Internet of Bugs
+area: society-systems
+category: general
+companies_orgs:
+- SciShow
+- Kyle Hill
+- Kurzgesagt
+- 3Blue1Brown
+- OpenAI
+- Anthropic
+- Google DeepMind
+- Control AI
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- giant brains or machines that think
+- If Anyone Build It, Everyone Dies
+- The Hitchhiker's Guide to the Galaxy
+people:
+- Carl
+- Hank Green
+products_models:
+- ChatGPT
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=4lKyNdZz3Vw
 speaker: Internet of Bugs
-tags:
-  - ai-misinformation
-  - industry-propaganda
-  - existential-risk-hype
-  - science-communication-critique
-  - ai-narratives
-title: 科学YouTuber如何误导你：揭穿AI宣传中的谎言
-summary: 本文批判性地分析了YouTube上流行的AI内容，指出许多科学频道传播关于AI的‘必然性’、‘特殊性’和‘致命性’等不实叙事。作者‘Internet of Bugs’的Carl认为，这些宣传往往由AI行业资助，旨在转移公众对AI当前带来的实际危害（如虚假信息、操纵和失业）的关注，并提出了识别这些‘谎言’（L.I.E.S.）的方法，强调关注即时风险和问责制的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-people:
-  - Carl
-  - Hank Green
-companies_orgs:
-  - SciShow
-  - Kyle Hill
-  - Kurzgesagt
-  - 3Blue1Brown
-  - OpenAI
-  - Anthropic
-  - Google DeepMind
-  - Control AI
-products_models:
-  - ChatGPT
-media_books:
-  - giant brains or machines that think
-  - If Anyone Build It, Everyone Dies
-  - The Hitchhiker's Guide to the Galaxy
 status: evergreen
+summary: 本文批判性地分析了YouTube上流行的AI内容，指出许多科学频道传播关于AI的‘必然性’、‘特殊性’和‘致命性’等不实叙事。作者‘Internet
+  of Bugs’的Carl认为，这些宣传往往由AI行业资助，旨在转移公众对AI当前带来的实际危害（如虚假信息、操纵和失业）的关注，并提出了识别这些‘谎言’（L.I.E.S.）的方法，强调关注即时风险和问责制的重要性。
+tags:
+- ai-misinformation
+- critique
+- industry
+- narrative
+- risk
+title: 科学YouTuber如何误导你：揭穿AI宣传中的谎言
 ---
+
 ### 引言：科学YouTuber与AI的“末日预言”
 
 今天，我想和大家谈谈那些将人工智能（AI）视为“迫在眉睫的末日”的YouTuber。毫无疑问，YouTube上有大量的AI相关评论。毕竟，那些花大量时间撰写脚本和制作视频的人，很可能对生成脚本和视频的软件有很多看法。当然，YouTuber们会制作视频来表达他们对AI的看法，因为YouTuber们会制作视频来表达他们对一切事物的看法。

@@ -1,50 +1,49 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Molycorp
+- Magnaquench
+- CBS TV
+- Harvard University
+- 扬子新闻
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Lindsey Graham
+- 胡锦涛
+- 邓小平
+- 老布什
+- 麦克格罗提
+- 王浩
+- Xi Jinping
+products_models:
+- F-35 fighter
+- Arleigh Burke-class destroyer
+- 福建号核潜艇
+- EDA software
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=g7-SMMcXy1Q
 speaker: 老周横眉
-tags:
-  - rare-earth-monopoly
-  - us-china-competition
-  - critical-minerals
-  - environmental-impact
-  - supply-chain-dependence
-title: 中国稀土垄断：美西方能否摆脱依赖？芯片与稀土的中美博弈
-summary: 本视频深入探讨中国在全球稀土产业链的垄断地位，分析稀土作为现代武器和高科技产品关键原材料的战略重要性。文章揭示了中国稀土产业发展背后的环境代价和人权问题，并评估美西方摆脱对中国稀土依赖的挑战。同时，对比了稀土与芯片在中美博弈中的战略地位，探讨谁的“王牌”更具优势，并反思大国崛起对普通民众的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Lindsey Graham
-  - 胡锦涛
-  - 邓小平
-  - 老布什
-  - 麦克格罗提
-  - 王浩
-  - 习近平
-companies_orgs:
-  - Molycorp
-  - Magnaquench
-  - CBS TV
-  - Harvard University
-  - 扬子新闻
-products_models:
-  - F-35 fighter
-  - Arleigh Burke-class destroyer
-  - 福建号核潜艇
-  - EDA software
-media_books: []
 status: evergreen
+summary: 本视频深入探讨中国在全球稀土产业链的垄断地位，分析稀土作为现代武器和高科技产品关键原材料的战略重要性。文章揭示了中国稀土产业发展背后的环境代价和人权问题，并评估美西方摆脱对中国稀土依赖的挑战。同时，对比了稀土与芯片在中美博弈中的战略地位，探讨谁的“王牌”更具优势，并反思大国崛起对普通民众的影响。
+tags:
+- critical-mineral
+- impact
+- rare-earth-monopoly
+- supply-chain-dependence
+- us-china-relations
+title: 中国稀土垄断：美西方能否摆脱依赖？芯片与稀土的中美博弈
 ---
+
 ### 稀土：中美竞争的终极战略战场
 
 中美之间的关税大战目前看起来是暂告一段落了，但另一场我们看不到的战争也许才刚刚开始。当大家都把目光聚焦在芯片、人工智能、太空和火箭的时候，也许这一片看起来极其荒凉的沙地，才是中美竞争的终极战场。这些看起来像沙土的东西，其实是世界上最强大的金属小颗粒，被称为**稀土元素**（Rare Earth Elements: 17种具有特殊磁性、光学和化学性质的金属元素）。稀土已经成为了现代社会不可或缺的原材料，它存在于你的手机、音响、硬盘、电脑、电视机、电动车里的电池、风力发电机等等。但稀土之所以成为一个国家最重要的战略物资，是因为几乎所有最先进的现代武器都需要它。美军有超过3400种武器系统含有稀土材料。例如，美国武器中的F-35战斗机，每架含有417公斤稀土；除了F-35，每艘阿利伯克级驱逐舰需要2359公斤稀土；福建号核潜艇需要4173公斤稀土。其他系统，如反坦克导弹、反舰巡航导弹、雷达、夜视和无线电设备等，都需要稀土来制造，以使美国拥有世界上最好的军事系统。然而，世界稀土生产几乎全部被一个国家垄断，那就是中国。中国不仅拥有世界最丰富的稀土储量，目前世界稀土产量的85%到90%都由中国生产。中国在全球稀土领域的垄断，对于美国而言，当你的整个国防系统如此严重依赖你最大的竞争对手，甚至可以说已经成为你的敌对国家时，这个问题就变得非常严重。这个话题非常敏感，以至于中美两国的政客都很少在公开场合讨论它。结果是，许多人对这个关于未来世界局势的话题知之甚少。所以今天我将带你了解更多关于这场中美之间非常隐蔽，但很可能是未来几年最重要的战役。在本视频中，我将回答一个最重要的问题：美国和其他西方盟友是否有可能在未来几年内赶上中国的稀土生产，摆脱在这个关键原材料上被中国“卡脖子”的局面？要回答这个问题，我们必须充分了解稀土战争的历史，以及中国是如何成为全球稀土产业的主导者的。

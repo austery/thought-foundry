@@ -1,75 +1,74 @@
 ---
-author: INDIGO 数字镜像
+area: society-systems
+category: finance
+companies_orgs:
+- Tesla
+- 新浪
+- ETRADE
+- OpenAI
+- Nvidia
+- Oracle
+- xAI
+- Microsoft
+- Cohere
+- Anthropic
+- TogetherAI
+- 麦肯锡
+- 德勤
+- MIT
+- 斯坦福大学
+- Tempus
+- Lemonade
+- Google
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Ray Dalio
+- Sam Altman
+- Jensen Huang
+- Elon Musk
+- Andrej Karpathy
+products_models:
+- Optimus
+- Crypto
+- VEO 3
+- Sora 2
+- Spark
+- MacBook Pro
+- Codex
+- Claude
+- Tax Form
+- Office
+- Copilot
+- ChatGPT
+- Gemini
+- AirPods
+- QQQ
+- VGT
+- VOO
+- SP500
+project:
+- investment-strategy
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=pKU7JRB3fSM
 speaker: INDIGO 数字镜像
-tags:
-  - ai-application-layer
-  - investment-bubble
-  - future-of-work
-  - verifiable-feedback-loop
-  - human-in-the-loop
-title: AI时代的“牛马”自救指南：应用真相与投资未来
-summary: 本期深入探讨了AI时代下的投资策略与个人发展。内容涵盖了当前美股市场的AI驱动牛市情绪、对OpenAI和Nvidia生态圈是真实创新还是市场泡沫的辨析，以及AI在传统行业的实际应用与挑战。嘉宾们重点讨论了AI在医疗、保险等领域成功的关键在于“可验证的闭环”，并为职场人士提出了“牛马自救计划”的建议。最后，对话展望了未来社会需要的稀缺技能，如创造力、讲故事的能力和强大的个人驱动力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Donald Trump
-  - Ray Dalio
-  - Sam Altman
-  - Jensen Huang
-  - Elon Musk
-  - Andrej Karpathy
-companies_orgs:
-  - Tesla
-  - 新浪
-  - ETRADE
-  - OpenAI
-  - Nvidia
-  - Oracle
-  - xAI
-  - Microsoft
-  - Cohere
-  - Anthropic
-  - TogetherAI
-  - 麦肯锡
-  - 德勤
-  - MIT
-  - 斯坦福大学
-  - Tempus
-  - Lemonade
-  - Google
-products_models:
-  - Optimus
-  - Crypto
-  - VEO 3
-  - Sora 2
-  - Spark
-  - MacBook Pro
-  - Codex
-  - Claude
-  - Tax Form
-  - Office
-  - Copilot
-  - ChatGPT
-  - Gemini
-  - AirPods
-  - QQQ
-  - VGT
-  - VOO
-  - SP500
-media_books: []
 status: evergreen
+summary: 本期深入探讨了AI时代下的投资策略与个人发展。内容涵盖了当前美股市场的AI驱动牛市情绪、对OpenAI和Nvidia生态圈是真实创新还是市场泡沫的辨析，以及AI在传统行业的实际应用与挑战。嘉宾们重点讨论了AI在医疗、保险等领域成功的关键在于“可验证的闭环”，并为职场人士提出了“牛马自救计划”的建议。最后，对话展望了未来社会需要的稀缺技能，如创造力、讲故事的能力和强大的个人驱动力。
+tags:
+- ai-application-layer
+- future-of-work
+- human
+- investment
+- psychology
+title: AI时代的“牛马”自救指南：应用真相与投资未来
 ---
+
 ### 当前美股市场情绪：AI驱动的牛市与回调隐忧
 
 今年算是牛市，非常强劲。我看到所有刚刚进入美股半年的朋友今年都赚钱了，但学费迟早是要交的，美股股价跌起来会很快。我们可以分享一下此刻对美股的一些看法。

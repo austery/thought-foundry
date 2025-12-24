@@ -1,82 +1,82 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- Amazon
+- BMR
+- Meta
+- SoFi
+- Nvidia
+- Microsoft
+- Anthropic
+- Public Investment Fund
+- Micron
+- AMD
+- Cloudflare
+- PayPal
+- Palantir
+- Robin Hood
+- Eli Lilly
+- Oracle
+- OpenAI
+- Berkshire Hathaway
+- DeepSeek
+- EOS Energy
+- Warner Brothers
+- Pfizer
+- Johnson & Johnson
+- Regeneron
+- Verizon
+- White House
+- US Congress
+- US Senate
+- CNBC
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+people:
+- Jason
+- Sundar Pichai
+- Elon Musk
+- Donald Trump
+- Sam Altman
+- Alan Greenspan
+- Klay Higgins
+- Jensen Huang
+- Aswath Damodaran
+products_models:
+- Gemini 3
+- Google AI Studio
+- TPU
+- GPU
+- Azure
+- S&P 500
+- NASDAQ
+- VIX
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=JjYho9o6ciI
 speaker: Amit Kukreja
-tags:
-  - market-volatility
-  - technical-analysis
-  - ai-investment
-  - market-sentiment
-  - healthy-correction
-title: 谷歌Gemini 3惊艳亮相，市场回调是健康调整还是泡沫预警？
-summary: 本期市场收盘深入探讨了当前动荡的市场格局。谷歌发布Gemini 3，其强大功能获得普遍赞誉，再次点燃了市场对人工智能真实潜力的信心。同时，沙特阿拉伯宣布计划将对美投资增至一万亿美元，重点投向AI和科技领域，为行业注入强心剂。然而，市场情绪依然脆弱，知名教授Aswath Damodaran警告AI领域存在泡沫。节目后半段，技术分析专家Jason详细解读了标普500指数和英伟达、Meta、特斯拉等关键个股的技术图表，探讨了当前回调的性质，并区分了短期交易与长期投资的不同策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Amit Kukreja
-  - Jason
-  - Sundar Pichai
-  - Elon Musk
-  - Donald Trump
-  - Sam Altman
-  - Alan Greenspan
-  - Klay Higgins
-  - Jensen Huang
-  - Aswath Damodaran
-companies_orgs:
-  - Google
-  - Amazon
-  - BMR
-  - Meta
-  - SoFi
-  - Nvidia
-  - Microsoft
-  - Anthropic
-  - Public Investment Fund
-  - Micron
-  - AMD
-  - Cloudflare
-  - PayPal
-  - Palantir
-  - Robin Hood
-  - Eli Lilly
-  - Oracle
-  - OpenAI
-  - Berkshire Hathaway
-  - DeepSeek
-  - EOS Energy
-  - Warner Brothers
-  - Pfizer
-  - Johnson & Johnson
-  - Regeneron
-  - Verizon
-  - White House
-  - US Congress
-  - US Senate
-  - CNBC
-products_models:
-  - Gemini 3
-  - Google AI Studio
-  - TPU
-  - GPU
-  - Azure
-  - S&P 500
-  - NASDAQ
-  - VIX
-media_books:
-  - The Wall Street Journal
 status: evergreen
+summary: 本期市场收盘深入探讨了当前动荡的市场格局。谷歌发布Gemini 3，其强大功能获得普遍赞誉，再次点燃了市场对人工智能真实潜力的信心。同时，沙特阿拉伯宣布计划将对美投资增至一万亿美元，重点投向AI和科技领域，为行业注入强心剂。然而，市场情绪依然脆弱，知名教授Aswath
+  Damodaran警告AI领域存在泡沫。节目后半段，技术分析专家Jason详细解读了标普500指数和英伟达、Meta、特斯拉等关键个股的技术图表，探讨了当前回调的性质，并区分了短期交易与长期投资的不同策略。
+tags:
+- ai-investment
+- health
+- market-sentiment
+- market-volatility
+- technical-analysis
+title: 谷歌Gemini 3惊艳亮相，市场回调是健康调整还是泡沫预警？
 ---
+
 ### 市场收盘概览：震荡中收跌
 
 大家好，欢迎回到新一期的市场收盘直播。我们面临着各种新闻头条的来回冲击。大约20分钟后，Jason会加入我们进行“技术分析星期二”环节，届时他将从技术角度为我们带来所有最新动态。

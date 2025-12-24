@@ -1,41 +1,40 @@
 ---
-author: 莊也雜談
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 加拿大公民研究所
+- 路透社
+- GlassDoor
+- 菲沙研究所
 date: '2024-01-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《新闻联播》
+people:
+- Justin Trudeau
+products_models:
+- Netflix
+- TikTok
+- YouTube
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=8FcP2fDxjXQ
 speaker: 莊也雜談
-tags:
-  - cost-of-living
-  - immigration-challenges
-  - healthcare-system
-  - political-polarization
-  - quality-of-life
-title: 不再宜居？揭秘八大原因：为何近期大量人口选择离开加拿大
-summary: 本文深入探讨了近期大量人口离开加拿大的八大原因，包括高昂的生活成本、就业挑战、社会治安恶化、恶劣天气、政治正确、医疗系统问题、生活无聊以及思乡情结。作者对每个原因进行了分析，并提出了应对策略，旨在为潜在移民提供客观的加拿大生活全貌。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Justin Trudeau
-companies_orgs:
-  - 加拿大公民研究所
-  - 路透社
-  - GlassDoor
-  - 菲沙研究所
-products_models:
-  - Netflix
-  - TikTok
-  - YouTube
-media_books:
-  - 《新闻联播》
 status: evergreen
+summary: 本文深入探讨了近期大量人口离开加拿大的八大原因，包括高昂的生活成本、就业挑战、社会治安恶化、恶劣天气、政治正确、医疗系统问题、生活无聊以及思乡情结。作者对每个原因进行了分析，并提出了应对策略，旨在为潜在移民提供客观的加拿大生活全貌。
+tags:
+- challenge
+- cost-of-living
+- healthcare-system
+- life
+title: 不再宜居？揭秘八大原因：为何近期大量人口选择离开加拿大
 ---
+
 大家好，欢迎收看庄也杂谈。首先祝各位会员和粉丝朋友们2024年新年快乐。今天这个喜庆的日子，我们来聊一个比较轻松的话题。最近一段时间，有不少加拿大的居民纷纷离开加拿大，这听起来有些奇怪。我们常说加拿大是全球移民目的地国家中的佼佼者，为何还会有人选择离开？这个消息是真是假？如果是真的，他们离开的原因又是什么？今天，我们将就此话题解开真相。
 
 ### 离开加拿大的趋势与数据

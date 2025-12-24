@@ -1,48 +1,47 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: general
+companies_orgs:
+- FBI
+- KGB
+- SVR
+- 加拿大公民及移民部
+- 加拿大最高法院
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 艾琳娜的回忆录
+people:
+- Donald Heathfield
+- Tracey Lee Ann Foley
+- Tim Vavilov
+- Alexander Vavilov
+- Sterling Bell
+- Hadayt Nazami
+- Andrey Bezrukov
+- Elena Vavilova
+products_models:
+- The Americans
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=z-66HU7Wy3Q
 speaker: 大伟探秘加拿大
-tags:
-  - espionage-program
-  - canadian-citizenship-law
-  - legal-precedent
-  - administrative-law
-  - birthright-citizenship
-title: 间谍之子如何改写加拿大法律：瓦维洛夫案的深远影响
-summary: 本文讲述了俄罗斯间谍夫妇的儿子亚历山大·瓦维洛夫（Alexander Vavilov）如何通过一场长达十年的法律诉讼，不仅成功恢复了自己的加拿大公民身份，更促使加拿大最高法院确立了全新的行政复议标准——瓦维洛夫标准。这个案例从冷战时期的间谍潜伏，到现代法治国家对公民权利的保障，深刻揭示了法律在面对国家安全与个人权利冲突时的复杂性与尊严，其影响甚至惠及了加拿大普通民众。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - Donald Heathfield
-  - Tracey Lee Ann Foley
-  - Tim Vavilov
-  - Alexander Vavilov
-  - Sterling Bell
-  - Hadayt Nazami
-  - Andrey Bezrukov
-  - Elena Vavilova
-companies_orgs:
-  - FBI
-  - KGB
-  - SVR
-  - 加拿大公民及移民部
-  - 加拿大最高法院
-products_models:
-  - The Americans
-media_books:
-  - 艾琳娜的回忆录
 status: evergreen
+summary: 本文讲述了俄罗斯间谍夫妇的儿子亚历山大·瓦维洛夫（Alexander Vavilov）如何通过一场长达十年的法律诉讼，不仅成功恢复了自己的加拿大公民身份，更促使加拿大最高法院确立了全新的行政复议标准——瓦维洛夫标准。这个案例从冷战时期的间谍潜伏，到现代法治国家对公民权利的保障，深刻揭示了法律在面对国家安全与个人权利冲突时的复杂性与尊严，其影响甚至惠及了加拿大普通民众。
+tags:
+- history
+- law
+- legal
+- society
+title: 间谍之子如何改写加拿大法律：瓦维洛夫案的深远影响
 ---
+
 ### 现实版“美国谍梦”：潜伏的俄罗斯间谍夫妇
 
 如果让您想象一个俄罗斯**克格勃**（KGB: 苏联国家安全委员会，前苏联的主要情报和秘密警察机构）的顶级间谍，您的脑海里会浮现出什么样的形象？是穿着风衣、在阴暗小巷里街头的冷酷杀手，还是像007那样开着豪车、端着马提尼的特工？现实往往比电影更加荒诞。在2010年之前的美国麻省剑桥市，也就是哈佛和麻省理工学院的所在地，最顶级的俄罗斯间谍可能就是住在您隔壁的那对总是满脸笑容的夫妇。

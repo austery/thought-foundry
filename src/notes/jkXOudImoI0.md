@@ -1,52 +1,52 @@
 ---
-author: Big Think
+area: society-systems
+category: technology
+companies_orgs:
+- Every
+- Big Think
+- Apple
+- Meta
+- Google
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Protagoras
+people:
+- Dan Shipper
+- Socrates
+- Protagoras
+- Plato
+- Descartes
+- Newton
+- Galileo
+- Herbert Simon
+- Alan Newell
+- Freud
+- Eliezer Yudkowsky
+products_models:
+- ChatGPT
+- General Problem Solver
+project:
+- ai-impact-analysis
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=jkXOudImoI0
 speaker: Big Think
-tags:
-  - rationalism
-  - intuition
-  - neural-networks
-  - allocation-economy
-  - consciousness
-title: 理性主义的局限：从苏格拉底到神经网络
-summary: 演讲者探讨了理性主义从古希腊到科学启蒙的历史演变，将其基于规则、显性化的方法与现代人工智能（如神经网络和大型语言模型）的直觉、模式匹配特性进行对比。他认为，人工智能凸显了直觉思维的价值，挑战了传统科学方法，并将工作模式转变为“分配经济”，同时丰富了我们对人性的理解。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Dan Shipper
-  - Socrates
-  - Protagoras
-  - Plato
-  - Descartes
-  - Newton
-  - Galileo
-  - Herbert Simon
-  - Alan Newell
-  - Freud
-  - Eliezer Yudkowsky
-companies_orgs:
-  - Every
-  - Big Think
-  - Apple
-  - Meta
-  - Google
-products_models:
-  - ChatGPT
-  - General Problem Solver
-media_books:
-  - Protagoras
 status: evergreen
+summary: 演讲者探讨了理性主义从古希腊到科学启蒙的历史演变，将其基于规则、显性化的方法与现代人工智能（如神经网络和大型语言模型）的直觉、模式匹配特性进行对比。他认为，人工智能凸显了直觉思维的价值，挑战了传统科学方法，并将工作模式转变为“分配经济”，同时丰富了我们对人性的理解。
+tags:
+- consciousness
+- economy
+- intuition
+- neural-network
+- rationalism
+title: 理性主义的局限：从苏格拉底到神经网络
 ---
+
 ### 理性主义的局限：从苏格拉底到神经网络
 
 

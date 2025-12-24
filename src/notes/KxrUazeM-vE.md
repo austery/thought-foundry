@@ -1,39 +1,38 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 中華民國肥胖研究學會
+- 初日醫學
+- Cofit
 date: '2025-02-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《心態致瘦》
+people:
+- 宋晏仁
+- 蘇琮祺
+- Jon Kabat-Zinn
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=KxrUazeM-vE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - weight-loss-psychology
-  - emotional-eating
-  - mindful-eating
-  - self-care
-  - behavioral-change
-title: 減重心理師：用心理學輕鬆減重，從「體重管理」到「照顧自己」
-summary: 本篇文章深入探討如何運用心理學原理來解決肥胖問題。蘇琮祺心理師指出，減重不僅是「管住嘴、邁開腿」，更重要的是處理情緒、提升內在覺察。文章介紹了「正念飲食」與「STOP」練習，幫助人們從壓抑限制轉向有意識的選擇與安排。透過案例分析，揭示情緒性進食的深層心理根源，並強調將減重視為「照顧自己」的過程，而非單純的體重管理。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 宋晏仁
-  - 蘇琮祺
-  - Jon Kabat-Zinn
-companies_orgs:
-  - 中華民國肥胖研究學會
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books:
-  - 《心態致瘦》
 status: evergreen
+summary: 本篇文章深入探討如何運用心理學原理來解決肥胖問題。蘇琮祺心理師指出，減重不僅是「管住嘴、邁開腿」，更重要的是處理情緒、提升內在覺察。文章介紹了「正念飲食」與「STOP」練習，幫助人們從壓抑限制轉向有意識的選擇與安排。透過案例分析，揭示情緒性進食的深層心理根源，並強調將減重視為「照顧自己」的過程，而非單純的體重管理。
+tags:
+- change
+- emotional
+- psychology
+- self
+title: 減重心理師：用心理學輕鬆減重，從「體重管理」到「照顧自己」
 ---
+
 ### 心理學與肥胖治療的結合：從「心」開始的減重之路
 
 歡迎來到初日會客室，我是宋晏仁醫師。今天我們邀請到心理學專家，蘇琮祺諮商心理師，來探討一個許多人面臨的問題：肥胖其實不只是食物的問題，更是心理的問題。蘇心理師不僅是中華民國肥胖研究學會的成員，其著作《心態致瘦》更將心理學與減重結合，為讀者提供了全新的視角。

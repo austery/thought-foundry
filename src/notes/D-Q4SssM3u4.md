@@ -1,54 +1,54 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 华尔街银行
+- WTO
+- 鸿海
+- 富士康
+- NAFTA
 date: '2024-05-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《愤怒经济学》
+- 《巴拿马文件》
+people:
+- Mark Blyth
+- Aristotle
+- Keynes
+- Karl Polanyi
+- Michal Kalecki
+- Paul Volcker
+- Milton Friedman
+- Hayek
+- 撒切尔夫人
+- 罗斯福
+- 特朗普
+- 皮凯蒂
+- 沃伦参议员
+products_models: []
+project:
+- systems-thinking
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=D-Q4SssM3u4
 speaker: 超級歪 SuperY
-tags:
-  - capitalism-evolution
-  - wealth-inequality
-  - wage-stagnation
-  - economic-crises
-  - social-anger
-  - policy-solutions
-title: 愤怒经济学：解析资本主义百年危机与社会愤怒的根源
-summary: 本文深入探讨马克·布莱斯（Mark Blyth）的“愤怒经济学”理论，剖析资本主义在过去百年间经历的三大阶段及其引发的社会愤怒。文章以台湾贫富差距和薪资停滞为例，揭示财富不均、工资停滞和政治失灵如何加剧民众不满。最终，提出超越传统税收的激进解决方案，包括国家财富基金、数据红利和独立财政委员会，以修复系统缺陷并重建对资本主义的信任。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - systems-thinking
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Blyth
-  - Aristotle
-  - Keynes
-  - Karl Polanyi
-  - Michal Kalecki
-  - Paul Volcker
-  - Milton Friedman
-  - Hayek
-  - 撒切尔夫人
-  - 罗斯福
-  - 特朗普
-  - 皮凯蒂
-  - 沃伦参议员
-companies_orgs:
-  - 华尔街银行
-  - WTO
-  - 鸿海
-  - 富士康
-  - NAFTA
-products_models: []
-media_books:
-  - 《愤怒经济学》
-  - 《巴拿马文件》
 status: evergreen
+summary: 本文深入探讨马克·布莱斯（Mark Blyth）的“愤怒经济学”理论，剖析资本主义在过去百年间经历的三大阶段及其引发的社会愤怒。文章以台湾贫富差距和薪资停滞为例，揭示财富不均、工资停滞和政治失灵如何加剧民众不满。最终，提出超越传统税收的激进解决方案，包括国家财富基金、数据红利和独立财政委员会，以修复系统缺陷并重建对资本主义的信任。
+tags:
+- economic
+- evolution
+- history
+- policy
+- social
+- wealth-inequality
+title: 愤怒经济学：解析资本主义百年危机与社会愤怒的根源
 ---
+
 ### 引言：台湾贫富差距与全球愤怒经济学
 
 今年四月，主计总处发布了台湾最新的贫富差距统计数据。根据中华民国110年家庭财富分配统计，前20%家庭的财富约为5133万元，而末20%家庭的财富仅约77万元，贫富差距高达66.9倍。过去40年来，全球各国GDP持续增长，但许多人却感觉生活品质下降，贫富差距不断扩大，政客也不听取民意，这导致全球各地民众怒火中烧，示威游行，并试图通过选票来罢免某些政党。为什么国家越来越富裕，人们的生活却越来越艰难呢？

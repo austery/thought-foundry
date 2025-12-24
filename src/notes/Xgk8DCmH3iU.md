@@ -1,40 +1,40 @@
 ---
-author: 政經孫老師
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中共財經委員會
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《古希臘羅馬的貨幣體系》
+- 《中國的通脹螺旋》
+people:
+- 米尔顿·弗里德曼
+- 塔西佗
+- 张公权
+- 梁金河
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Xgk8DCmH3iU
 speaker: 政經孫老師
-tags:
-  - china-deflation
-  - economic-collapse
-  - systemic-corruption
-  - historical-parallels
-  - supply-demand-dynamics
-title: 中国经济深陷通缩螺旋：制度性腐败与历史宿命
-summary: 文章深入探讨中国经济当前面临的长期通缩问题，指出其并非货币超发不足，而是源于供需关系失衡、社会集体心理变化及制度性腐败。通过与古罗马经济衰落的对比，揭示了生产性经济凋敝、投机性经济发达、贫富差距加剧的共通模式。文章强调，随着房地产泡沫破裂，中国已失去“输入性通胀”的掩盖，正陷入自我强化的通缩螺旋，最终可能导致国家解体。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 米尔顿·弗里德曼
-  - 塔西佗
-  - 张公权
-  - 梁金河
-companies_orgs:
-  - 中共財經委員會
-products_models: []
-media_books:
-  - 《古希臘羅馬的貨幣體系》
-  - 《中國的通脹螺旋》
 status: evergreen
+summary: 文章深入探讨中国经济当前面临的长期通缩问题，指出其并非货币超发不足，而是源于供需关系失衡、社会集体心理变化及制度性腐败。通过与古罗马经济衰落的对比，揭示了生产性经济凋敝、投机性经济发达、贫富差距加剧的共通模式。文章强调，随着房地产泡沫破裂，中国已失去“输入性通胀”的掩盖，正陷入自我强化的通缩螺旋，最终可能导致国家解体。
+tags:
+- china
+- dynamic
+- economic
+- historical
+- systemic-corruption
+title: 中国经济深陷通缩螺旋：制度性腐败与历史宿命
 ---
+
 ### 中国经济的通缩困境：长期性与螺旋式发展
 
 今天我们将深入探讨中国的**通缩**（Deflation: 指商品和服务的普遍价格水平持续下降，导致货币购买力上升，但同时可能伴随经济活动放缓和失业增加）问题。当前，如果不谈及通缩，根本无法清晰地理解中国经济的现状，因为两者紧密相连。本文将从通缩的角度剖析中国经济的现状，并指出中国目前面临的并非短期通缩，而是一种长期通缩，乃至是不断自我加强、形成循环的**通缩螺旋**。通缩的最终尽头是什么，我们将在稍后揭示。

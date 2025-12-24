@@ -1,42 +1,42 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《利维坦》
+- 《蝇王》
+- 《蜘蛛侠》
+- 《蝙蝠侠》
+- 《圣经》
+people:
+- Thomas Hobbes
+- Jean-Jacques Rousseau
+- John Locke
+- John Rawls
+- Plato
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=hhY4EZsPJIo
 speaker: 大问题Dialectic
-tags:
-  - state-of-nature
-  - social-contract
-  - political-philosophy
-  - monopoly-of-violence
-  - human-nature
-title: 霍布斯《利维坦》：从自然状态到国家起源的哲学思考
-summary: 本讲深入探讨了英国哲学家托马斯·霍布斯的经典著作《利维坦》，阐释了其核心概念：国家诞生前的“自然状态”——一种“一切人反对一切人”的战争状态。文章分析了霍布斯基于人性本恶和自我保全需求提出的“社会契约论”，即人们为结束混乱、保障安全而将暴力使用权让渡给国家。最后，通过超级英雄的案例，探讨了国家垄断暴力的必要性与挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Thomas Hobbes
-  - Jean-Jacques Rousseau
-  - John Locke
-  - John Rawls
-  - Plato
-companies_orgs: []
-products_models: []
-media_books:
-  - 《利维坦》
-  - 《蝇王》
-  - 《蜘蛛侠》
-  - 《蝙蝠侠》
-  - 《圣经》
 status: evergreen
+summary: 本讲深入探讨了英国哲学家托马斯·霍布斯的经典著作《利维坦》，阐释了其核心概念：国家诞生前的“自然状态”——一种“一切人反对一切人”的战争状态。文章分析了霍布斯基于人性本恶和自我保全需求提出的“社会契约论”，即人们为结束混乱、保障安全而将暴力使用权让渡给国家。最后，通过超级英雄的案例，探讨了国家垄断暴力的必要性与挑战。
+tags:
+- human-nature
+- monopoly-of-violence
+- political-philosophy
+- social
+- state
+title: 霍布斯《利维坦》：从自然状态到国家起源的哲学思考
 ---
+
 ### 霍布斯《利维坦》：国家的本质与起源
 
 欢迎来到《100个哲学大概念开悟人生》。今天要讲的哲学大概念是**《利维坦》**（Leviathan: 英国哲学家托马斯·霍布斯于1651年出版的政治哲学著作）。这本书是政治哲学的一部经典著作，它介绍了国家的本质，或者说国家的起源。国家这种东西是怎么来的呢？霍布斯认为，国家这种东西它并不是从一开始就有的。在国家诞生之前，人类生活在一种**自然状态**（State of Nature: 在国家和法律出现之前，人类社会所处的原始状态）之中。

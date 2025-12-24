@@ -1,46 +1,44 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 东鹏饮料
+- 海天味业
+- 千禾味业
+- 珀莱雅
+- 贝泰妮
+- 京东
+- 腾讯
+- 盐津铺子
+- 泡泡玛特
+- 卡游
 date: '2025-10-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- 二锅头
+- 茅台
+- 五粮液
+project:
+- investment-strategy
+- market-cycles
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=uIFGtsm6ZfQ
 speaker: 海淀拙大叔
-tags:
-  - investment-framework
-  - market-cycles
-  - consumer-sector-outlook
-  - value-growth-investing
-  - digitalization-impact
-title: 海淀拙大叔的投资框架：十大要点与消费行业预判
-summary: 海淀拙大叔分享其独特的投资框架，总结为十大要点，涵盖宏观判断与微观研究。文章详细阐述了如何在经济、市场、行业及情绪底部，寻找困境反转、长期盈利高增长且确定性强的公司。并以此框架为例，对当前消费行业进行深入预判，指出可选消费、颜值经济等细分领域的投资机会，强调数字化能力、品牌壁垒和成瘾性等关键特征。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - china-analysis
-people: []
-companies_orgs:
-  - 东鹏饮料
-  - 海天味业
-  - 千禾味业
-  - 珀莱雅
-  - 贝泰妮
-  - 京东
-  - 腾讯
-  - 盐津铺子
-  - 泡泡玛特
-  - 卡游
-products_models:
-  - 二锅头
-  - 茅台
-  - 五粮液
-media_books: []
 status: evergreen
+summary: 海淀拙大叔分享其独特的投资框架，总结为十大要点，涵盖宏观判断与微观研究。文章详细阐述了如何在经济、市场、行业及情绪底部，寻找困境反转、长期盈利高增长且确定性强的公司。并以此框架为例，对当前消费行业进行深入预判，指出可选消费、颜值经济等细分领域的投资机会，强调数字化能力、品牌壁垒和成瘾性等关键特征。
+tags:
+- consumer
+- growth
+- impact
+- investment
+- market-cycle
+title: 海淀拙大叔的投资框架：十大要点与消费行业预判
 ---
+
 ### 海淀拙大叔的十大投资要点概述
 
 海淀拙大叔在此分享其财富增长论的第六部分，主要探讨“什么是最好的投资”，并将其总结为十大投资要点。他认为，最好的投资是在**周期的底部**（包括经济周期、资本市场周期、行业周期和投资者情绪周期），买入那些处于**困境且即将反转**（Turnaround Investing: 指投资于那些目前经营困难但未来有望好转的公司）的、**长期盈利能力强**、**长期高增长**、**确定性高**的好公司，并长期持有。

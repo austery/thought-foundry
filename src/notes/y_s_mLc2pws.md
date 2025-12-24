@@ -1,54 +1,52 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 可口可乐
+- 伯克希尔
+- IBM
+- Davis
+- Lululemon
+- Crocs
+- 百事可乐
+- Celsius
+- 红牛
+- Monster
+- Google
+- 亚马逊
+- 苹果
+- 特斯拉
+- Nvidia
+- 佐治亚州亚特兰大信托公司银行
+- 可口可乐世界博物馆
 date: '2025-09-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Warren Buffett
+- Charlie Munger
+- Chaleo Yoovidhya
+- Dietrich Mateschitz
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=y_s_mLc2pws
 speaker: Shijun Tang
-tags:
-  - investment-strategy
-  - dividend-stocks
-  - competitive-advantage
-  - financial-analysis
-  - beverage-market
-title: 可口可乐与Celsius：复利机器还是过山车？深度解析两大饮料巨头投资价值
-summary: 本文深入探讨了可口可乐和Celsius两家饮料公司的投资价值。可口可乐作为巴菲特的重仓股，以其坚不可摧的护城河和稳定的股息增长，被视为长期持有的典范。而Celsius则以其股价的剧烈波动和对百事可乐的依赖性，展现了功能饮料市场的机遇与挑战。文章分析了两家公司的财务状况、竞争优势，并从个人投资视角提供了独到见解。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Warren Buffett
-  - Charlie Munger
-  - Chaleo Yoovidhya
-  - Dietrich Mateschitz
-companies_orgs:
-  - 可口可乐
-  - 伯克希尔
-  - IBM
-  - Davis
-  - Lululemon
-  - Crocs
-  - 百事可乐
-  - Celsius
-  - 红牛
-  - Monster
-  - Google
-  - 亚马逊
-  - 苹果
-  - 特斯拉
-  - 英伟达
-  - 佐治亚州亚特兰大信托公司银行
-  - 可口可乐世界博物馆
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了可口可乐和Celsius两家饮料公司的投资价值。可口可乐作为巴菲特的重仓股，以其坚不可摧的护城河和稳定的股息增长，被视为长期持有的典范。而Celsius则以其股价的剧烈波动和对百事可乐的依赖性，展现了功能饮料市场的机遇与挑战。文章分析了两家公司的财务状况、竞争优势，并从个人投资视角提供了独到见解。
+tags:
+- competitive-advantage
+- financial-analysis
+- market
+- stock
+title: 可口可乐与Celsius：复利机器还是过山车？深度解析两大饮料巨头投资价值
 ---
+
 ### 投资可口可乐：是无敌复利机器还是神话？
 
 今天我们来谈谈可口可乐，它是股神巴菲特的重仓股票，也被很多投资人戏称为永远都不会卖出的股票。今天我们就来详细谈谈，看看可口可乐是不是真的可以拿一辈子都不用卖出。

@@ -1,38 +1,38 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: psychology
+companies_orgs:
+- New York Times Podcasts
+- New York Times
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Modern Love
+people:
+- Claire Corey
+- Anna Martin
+- Don
+- Roger
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=9fvrxJoZZAQ
 speaker: New York Times Podcasts
-tags:
-  - love-story
-  - personal-resilience
-  - cancer-journey
-  - unexpected-romance
-  - life-appreciation
-title: 在生命尽头找到爱与魔法：一个关于希望与重逢的故事
-summary: 本文讲述了克莱尔·科里（Claire Corey）从年轻时对爱情的憧憬，经历多次心碎，到50多岁被诊断出晚期癌症后，反而学会了热爱生命本身。在最意想不到的时刻，她与27年前的旧爱唐（Don）重逢，并最终步入婚姻殿堂。这是一个关于如何在逆境中找到爱、希望与生活意义的感人故事，展现了生命中意想不到的转折和对当下的珍视。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Claire Corey
-  - Anna Martin
-  - Don
-  - Roger
-companies_orgs:
-  - New York Times Podcasts
-  - New York Times
-products_models: []
-media_books:
-  - Modern Love
 status: evergreen
+summary: 本文讲述了克莱尔·科里（Claire Corey）从年轻时对爱情的憧憬，经历多次心碎，到50多岁被诊断出晚期癌症后，反而学会了热爱生命本身。在最意想不到的时刻，她与27年前的旧爱唐（Don）重逢，并最终步入婚姻殿堂。这是一个关于如何在逆境中找到爱、希望与生活意义的感人故事，展现了生命中意想不到的转折和对当下的珍视。
+tags:
+- health
+- history
+- life
+- love
+- personal-resilience
+title: 在生命尽头找到爱与魔法：一个关于希望与重逢的故事
 ---
+
 ### 序言：重温爱的故事
 
 主持人安娜·马丁：大家好，我是安娜。今天我想重温我最喜欢的一集。我们大约在一年前录制了这一集，我至今仍常常想起它。请务必听到最后，因为我们为大家准备了一个非常甜蜜的更新。

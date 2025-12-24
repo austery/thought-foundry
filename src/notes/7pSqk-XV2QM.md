@@ -1,52 +1,51 @@
 ---
-author: Veritasium
-date: '2020-09-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7pSqk-XV2QM
-speaker: Veritasium
-tags:
-  - veritasium
-  - nuclear-testing
-  - radioactive-fallout
-  - government-secrecy
-  - public-health
-  - forensic-science
-title: 柯达如何意外揭露核试验：一场辐射侦测与历史教训
-summary: 本文揭示了美国政府在早期核试验中的保密工作如何被柯达公司意外揭露。通过分析受污染的X光胶片，柯达科学家朱利安·韦伯推断出核裂变的存在。文章探讨了核尘埃的传播、对公众健康的长期影响（特别是碘-131和锶-90），以及政府与柯达之间达成的秘密协议。最后，文章还介绍了核试验遗留的放射性物质在现代法医学和文物鉴定中的应用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Fermi
-  - Feynman
-  - Oppenheimer
-  - Von Neumann
-  - Julian Webb
-  - Stafford Warren
-  - Colonel Holzman
-  - Tom Harkin
-  - Travis Fimmel
-  - Winter McGrath
+category: geopolitics
 companies_orgs:
-  - Kodak
-  - Albuquerque Tribune
-  - Atomic Energy Commission
-  - US Government
-  - Manhattan Project
-  - HBO Max
-products_models:
-  - Raised by Wolves
+- Kodak
+- Albuquerque Tribune
+- Atomic Energy Commission
+- US Government
+- Manhattan Project
+- HBO Max
+date: '2020-09-16'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Physical Review
+- Physical Review
+people:
+- Fermi
+- Feynman
+- Oppenheimer
+- Von Neumann
+- Julian Webb
+- Stafford Warren
+- Colonel Holzman
+- Tom Harkin
+- Travis Fimmel
+- Winter McGrath
+products_models:
+- Raised by Wolves
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=7pSqk-XV2QM
+speaker: veritasium
 status: evergreen
+summary: 本文揭示了美国政府在早期核试验中的保密工作如何被柯达公司意外揭露。通过分析受污染的X光胶片，柯达科学家朱利安·韦伯推断出核裂变的存在。文章探讨了核尘埃的传播、对公众健康的长期影响（特别是碘-131和锶-90），以及政府与柯达之间达成的秘密协议。最后，文章还介绍了核试验遗留的放射性物质在现代法医学和文物鉴定中的应用。
+tags:
+- government
+- nuclear
+- public-health
+- radioactive-fallout
+- science
+title: 柯达如何意外揭露核试验：一场辐射侦测与历史教训
 ---
+
 ### 三位一体核试验：秘密的开端
 
 在新墨西哥州的沙漠中，有一个地方每年只向公众开放两天，但我却有幸与一个小型的摄制组独自造访。

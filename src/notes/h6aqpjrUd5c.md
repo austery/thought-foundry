@@ -1,32 +1,30 @@
 ---
-author: EO
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Reducto
+- OpenAI
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Adit Abraham
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=h6aqpjrUd5c
 speaker: EO
-tags:
-  - llm
-  - ai-ml
-  - startup
-title: 早期阶段也应亲力亲为 | Reducto, Adit Abraham
-summary: Reducto 创始人 Adit Abraham 分享了公司早期阶段的经验，包括亲力亲为、紧密的客户合作、投资者的支持以及未来的发展愿景。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Adit Abraham
-companies_orgs:
-  - Reducto
-  - OpenAI
-products_models: []
-media_books: []
 status: evergreen
+summary: Reducto 创始人 Adit Abraham 分享了公司早期阶段的经验，包括亲力亲为、紧密的客户合作、投资者的支持以及未来的发展愿景。
+tags:
+- llm
+- startup
+title: 早期阶段也应亲力亲为 | Reducto, Adit Abraham
 ---
+
 ### 早期阶段也应亲力亲为
 
 在早期阶段，Reducto 团队做了大量手动且不 sexy 的工作。他们尝试雇佣初始的数据标注团队，但准确率不够高，所以 Adit Abraham 自己花了很多时间标注文档。如果把 Reducto 处理的页面堆叠起来，高度将是珠穆朗玛峰的 10 倍。

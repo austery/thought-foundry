@@ -1,53 +1,53 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: productivity
+companies_orgs:
+- Norges Bank Investment Management
+- Accenture
+- MSC Industrial Supply
+- ARBA Live
+- Microsoft
+- Caltech
+- National Research Institute in Palanza, Italy
 date: '2025-03-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 100 Things Every Presenter Needs to Know About People
+- Made to Stick
+- Planes, Trains and Automobiles
+people:
+- Andy Craig
+- Nicola Tangan
+- Steve Martin
+- John Candy
+- Richard Feynman
+- Susan Weinschenk
+- Chip Heath
+- Dan Heath
+- Julie Sweet
+- Eric Gershwin
+- Jake Gershwin
+products_models:
+- PowerPoint
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=SFGhm_epcN0
 speaker: Norges Bank Investment Management
-tags:
-  - effective-communication
-  - storytelling
-  - jargon-avoidance
-  - presentation-skills
-  - journalistic-mindset
-title: 告别职场行话：如何用“周末语言”提升沟通影响力
-summary: 本期节目中，沟通专家安迪·克雷格探讨了职场沟通中“周末语言”的重要性。他指出，人们在周末交流时更自然、更具故事性，但在工作中却常陷入枯燥的行话和复杂的演示文稿。克雷格强调，摆脱行话、采用记者思维、通过故事和生动细节来传达信息，并有效利用视觉辅助工具，是提升沟通效果的关键。他还分享了如何通过刻意练习和避免“知识的诅咒”来成为更具影响力的演讲者。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Andy Craig
-  - Nicola Tangan
-  - Steve Martin
-  - John Candy
-  - Richard Feynman
-  - Susan Weinschenk
-  - Chip Heath
-  - Dan Heath
-  - Julie Sweet
-  - Eric Gershwin
-  - Jake Gershwin
-companies_orgs:
-  - Norges Bank Investment Management
-  - Accenture
-  - MSC Industrial Supply
-  - ARBA Live
-  - Microsoft
-  - Caltech
-  - National Research Institute in Palanza, Italy
-products_models:
-  - PowerPoint
-media_books:
-  - 100 Things Every Presenter Needs to Know About People
-  - Made to Stick
-  - Planes, Trains and Automobiles
 status: evergreen
+summary: 本期节目中，沟通专家安迪·克雷格探讨了职场沟通中“周末语言”的重要性。他指出，人们在周末交流时更自然、更具故事性，但在工作中却常陷入枯燥的行话和复杂的演示文稿。克雷格强调，摆脱行话、采用记者思维、通过故事和生动细节来传达信息，并有效利用视觉辅助工具，是提升沟通效果的关键。他还分享了如何通过刻意练习和避免“知识的诅咒”来成为更具影响力的演讲者。
+tags:
+- communication
+- mindset
+- skill
+- storytelling
+- technology
+title: 告别职场行话：如何用“周末语言”提升沟通影响力
 ---
+
 ### 职场沟通的“周末语言”之谜
 
 大家好，我是来自**挪威主权财富基金**（Norges Bank Investment Management: 挪威政府运营的全球最大主权财富基金）的尼古拉·坦根。今天，我们将与安迪·克雷格对话，他可能是世界上在商业故事讲述方面首屈一指的专家。事情是这样的，在周末，我们总能听到很多有趣的轶事和故事，但一到办公室，我们却变得如此无聊。那么，安迪，请告诉我们这是为什么？

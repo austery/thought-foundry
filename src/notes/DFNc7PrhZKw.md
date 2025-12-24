@@ -1,84 +1,83 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Bridgewater Associates
+- Bloomberg
+- The Wall Street Journal
+- The Economist
+- Reuters
+- 美国国家公园管理局
+- 国民党
+- 民进党
+- 美国国会
+- Chatham House
+- American Enterprise Institute
+- Johns Hopkins University
+- 北京大学
+- 复旦大学
+- 中国人民大学
+- 北京公众与环境研究中心
+- 欧盟
+- 北约
+- 白宫
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《经济学人》
+- 《华尔街日报》
+- 《彭博社》
+- 《路透社》
+- 《国家安全战略》
+- 《国防战略》
+people:
+- Ray Dalio
+- George Soros
+- Donald Trump
+- J.D. Vance
+- Joe Biden
+- Jessica Chen Weiss
+- Ryan Fedasiuk
+- 王辉耀
+- 王勇
+- 王栋
+- 吴新博
+- 马军
+- 郑立文
+- Xi Jinping
+- 刘鹤
+- Mike Pompeo
+- Kaja Berger
+- Timothy Garton Ash
+- O'Brien
+- Warren Buffett
+- Martin Luther King Jr.
+products_models:
+- 小红书
+- TikTok
+- Facebook
+- Instagram
+- Google
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=DFNc7PrhZKw
 speaker: LT視界
-tags:
-  - market-bubbles
-  - us-national-security-strategy
-  - geopolitical-realignment
-  - us-china-competition
-  - political-polarization
-title: 美国新国家安全战略引发全球震动：市场泡沫预警、对欧立场转变与中国自信解读
-summary: 本期节目深入探讨了《经济学人》关于预判市场泡沫破裂的分析，回顾了互联网泡沫时期投资大师的教训。接着，详细解读了特朗普政府最新国家安全战略，指出其对欧洲态度的转变，以及对华措辞的缓和。节目还讨论了台湾对中国社交媒体小红书的争议，并分析了中国对美国新战略的解读，认为这是“大变局”的提前到来，展现出前所未有的自信，并对这种自信的周期性风险进行了探讨。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Ray Dalio
-  - George Soros
-  - Donald Trump
-  - J.D. Vance
-  - Joe Biden
-  - Jessica Chen Weiss
-  - Ryan Fedasiuk
-  - 王辉耀
-  - 王勇
-  - 王栋
-  - 吴新博
-  - 马军
-  - 郑立文
-  - 习近平
-  - 刘鹤
-  - Mike Pompeo
-  - Kaja Berger
-  - Timothy Garton Ash
-  - O'Brien
-  - Warren Buffett
-  - Martin Luther King Jr.
-companies_orgs:
-  - Bridgewater Associates
-  - Bloomberg
-  - The Wall Street Journal
-  - The Economist
-  - Reuters
-  - 美国国家公园管理局
-  - 国民党
-  - 民进党
-  - 美国国会
-  - Chatham House
-  - American Enterprise Institute
-  - Johns Hopkins University
-  - 北京大学
-  - 复旦大学
-  - 中国人民大学
-  - 北京公众与环境研究中心
-  - 欧盟
-  - 北约
-  - 白宫
-products_models:
-  - 小红书
-  - TikTok
-  - Facebook
-  - Instagram
-  - Google
-media_books:
-  - 《经济学人》
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《路透社》
-  - 《国家安全战略》
-  - 《国防战略》
 status: evergreen
+summary: 本期节目深入探讨了《经济学人》关于预判市场泡沫破裂的分析，回顾了互联网泡沫时期投资大师的教训。接着，详细解读了特朗普政府最新国家安全战略，指出其对欧洲态度的转变，以及对华措辞的缓和。节目还讨论了台湾对中国社交媒体小红书的争议，并分析了中国对美国新战略的解读，认为这是“大变局”的提前到来，展现出前所未有的自信，并对这种自信的周期性风险进行了探讨。
+tags:
+- geopolitical
+- market-bubble
+- us-china-relations
+- us-national-security-strategy
+title: 美国新国家安全战略引发全球震动：市场泡沫预警、对欧立场转变与中国自信解读
 ---
+
 ### 市场泡沫的预判与投资挑战
 
 今天，我们首先来分享《经济学人》的一篇报道，这篇报道引起了全球许多专业财经媒体的广泛转载和关注，标题是《如何预判泡沫的破裂》。全球资本市场目前最聚焦的话题，依然是担心当前市场的泡沫，其中最突出的是人工智能领域的空前投资集中，以及三年疫情期间全球各国政府超发的大量货币且没有任何退出机制。因此，全球性的忐忑和恐慌普遍存在。包括目前中国的股市涨势不错，实际上中国投资界也在研究这个问题，即中国的股市是否有泡沫，会不会再次跌回3000点以内。当然，官方媒体畅想光明论，不研究这些问题，但作为实际投资者，没有人敢对这类问题掉以轻心。

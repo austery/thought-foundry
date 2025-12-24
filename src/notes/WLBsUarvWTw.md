@@ -1,86 +1,84 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Epoch AI
+- Mechanize
+- OpenAI
+- Google DeepMind
+- Anthropic
+- TSMC
+- Apple
+- SpaceX
+- Tesla
+- Nvidia
+- Metaculus
+- 80,000 Hours podcast
+- Lunar Society podcast LLC
 date: '2025-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《梯度更新》
+- 《圣经》
+- 《罗默论文》
+- 《克雷默论文》
+- 《戴维·鲁德曼论文》
+- 《安迪·琼斯论文》
+- 《Anthropic原创Transformer电路论文》
+people:
+- Tamay Besiroglu
+- Ege Erdil
+- Sam Altman
+- Robin Hanson
+- Dario Amodei
+- Joseph Henrich
+- Scott Alexander
+- Daniel Kokotajlo
+- Ilya Sutskever
+- Elon Musk
+- Jeff Dean
+- Jensen Huang
+- Tyler Cowen
+- Matthew
+- Jaime Sevilla
+- Bryan Caplan
+- David Rudman
+- Andy Jones
+- Karpathy
+- Kremer
+- Thomas Edison
+- Isaac Newton
+- Albert Einstein
+- John von Neumann
+products_models:
+- ChatGPT
+- GPT-4
+- GPT-4o
+- AlphaZero
+- AlphaGo
+- AlphaGo Zero
+- Claude
+- AlexNet
+- Tesla FSD
+- H100
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=WLBsUarvWTw
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - agi
-  - economic-growth
-  - compute-scaling
-  - automation
-title: AGI尚需30年：AI发展、经济增长与未来展望
-summary: 本播客中，Tamay Besiroglu和Ege Erdil（Mechanize公司创始人）挑战了“智能爆炸”的观点，认为AI发展如同工业革命，需要广泛的互补性创新。他们预测全面远程工作自动化需等到2045年左右，远超硅谷主流预期。讨论深入探讨了计算规模、现实任务的复杂性、莫拉维克悖论以及AI驱动的爆炸性经济增长潜力，强调广泛技术和经济升级而非“纯软件奇点”的重要性。此外，他们还触及了AI企业、中央计划和未来预测的挑战，并分享了对AI研究的独特见解和职业发展建议。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Tamay Besiroglu
-  - Ege Erdil
-  - Dwarkesh Patel
-  - Sam Altman
-  - Robin Hanson
-  - Dario Amodei
-  - Joseph Henrich
-  - Scott Alexander
-  - Daniel Kokotajlo
-  - Ilya Sutskever
-  - Elon Musk
-  - Jeff Dean
-  - Jensen Huang
-  - Tyler Cowen
-  - Matthew
-  - Jaime Sevilla
-  - Bryan Caplan
-  - David Rudman
-  - Andy Jones
-  - Karpathy
-  - Kremer
-  - Thomas Edison
-  - Isaac Newton
-  - Albert Einstein
-  - John von Neumann
-companies_orgs:
-  - Epoch AI
-  - Mechanize
-  - OpenAI
-  - Google DeepMind
-  - Anthropic
-  - TSMC
-  - Apple
-  - SpaceX
-  - Tesla
-  - Nvidia
-  - Metaculus
-  - 80,000 Hours podcast
-  - Lunar Society podcast LLC
-products_models:
-  - ChatGPT
-  - GPT-4
-  - GPT-4o
-  - AlphaZero
-  - AlphaGo
-  - AlphaGo Zero
-  - Claude
-  - AlexNet
-  - Tesla FSD
-  - H100
-media_books:
-  - 《梯度更新》
-  - 《圣经》
-  - 《罗默论文》
-  - 《克雷默论文》
-  - 《戴维·鲁德曼论文》
-  - 《安迪·琼斯论文》
-  - 《Anthropic原创Transformer电路论文》
 status: evergreen
+summary: 本播客中，Tamay Besiroglu和Ege Erdil（Mechanize公司创始人）挑战了“智能爆炸”的观点，认为AI发展如同工业革命，需要广泛的互补性创新。他们预测全面远程工作自动化需等到2045年左右，远超硅谷主流预期。讨论深入探讨了计算规模、现实任务的复杂性、莫拉维克悖论以及AI驱动的爆炸性经济增长潜力，强调广泛技术和经济升级而非“纯软件奇点”的重要性。此外，他们还触及了AI企业、中央计划和未来预测的挑战，并分享了对AI研究的独特见解和职业发展建议。
+tags:
+- agi
+- automation
+- compute-scaling
+- economic-growth
+title: AGI尚需30年：AI发展、经济增长与未来展望
 ---
+
 ### 智能爆炸的误解
 
 今天，我与**Tamay Besiroglu**和**Ege Erdil**进行了交流。他们曾运营**Epoch AI**，现在正推出**Mechanize**公司，致力于自动化所有工作。**Tamay**最近提出了一个有趣的观点，即“**智能爆炸**”这个概念是错误的或具有误导性的。他认为这个概念并不十分有用，就像把**工业革命**称为“马力爆炸”一样。当然，在工业革命期间，我们看到了原始物理力量的急剧加速，但还有许多其他因素在解释工业革命期间的增长和技术变革加速方面可能同样重要。

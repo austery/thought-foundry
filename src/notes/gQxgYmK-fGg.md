@@ -1,30 +1,27 @@
 ---
-title: 时间与财务自由的真相：十年迷失与自我发现之路
-summary: 深度探讨时间与财务自由的真实含义，分享作者十年间从迷失到自我发现的旅程，区分体验式幸福与反思式幸福，并强调主动探索人生意义的重要性。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - personal-growth-lab
-tags:
-  - financial-freedom
-  - happiness-philosophy
-  - personal-growth
-  - self-discovery
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-05-28'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=gQxgYmK-fGg
+speaker: 一口新飯
 status: evergreen
+summary: 深度探讨时间与财务自由的真实含义，分享作者十年间从迷失到自我发现的旅程，区分体验式幸福与反思式幸福，并强调主动探索人生意义的重要性。
+tags:
+- financial-freedom
+- personal-growth
+- philosophy
+- self-discovery
+title: 时间与财务自由的真相：十年迷失与自我发现之路
 ---
 
 ### 自由的真相与迷思

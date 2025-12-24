@@ -1,31 +1,30 @@
 ---
-title: 面对网络“开盒”与暴力：一位自媒体博主的经历与反思
-summary: 一位自媒体博主分享了她多次被“开盒”和网络暴力的经历，探讨了这种行为背后的认知扭曲与群体影响，并提供了应对策略，鼓励受害者保持冷静、积极行动，并认识到网络暴力以恐惧为食的本质。
 area: null
 category: null
-project: []
-tags:
-- content-creation
-- cyberbullying
-- doxxing
-- mental-resilience
-- social-phenomenon
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-16'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UKmfM09wX_4
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 一位自媒体博主分享了她多次被“开盒”和网络暴力的经历，探讨了这种行为背后的认知扭曲与群体影响，并提供了应对策略，鼓励受害者保持冷静、积极行动，并认识到网络暴力以恐惧为食的本质。
+tags:
+- content-creation
+- doxxing
+- investment
+- mental-resilience
+- social
+title: 面对网络“开盒”与暴力：一位自媒体博主的经历与反思
 ---
+
 ### 突如其来的“开盒”事件
 
 我是安争鸣。最近发生了一些事情，所以今天我们不读书，而是久违地聊聊天。星期一晚上11点左右，我刚关灯准备睡觉时，手机突然响了。认识我的人都知道我有失眠和偏头痛的毛病，所以从来没有人会在这个时间给我打电话，当时我就觉得不太对劲。我最初以为是朋友家里出了急事需要帮忙，结果没想到出事的不是别人，而是我。电话是我一个朋友打来的，她一接通就告诉我：“安同学，你知道吗？你又被人**开盒**（Doxxing: 通过非法手段获取并公开他人个人信息的行为）了。” 有个疑似**小粉红**（Little Pink: 中国大陆网络上对持有极端民族主义或爱国主义观点的年轻群体的称呼）的人，不知道这个手机号绑定的是我的微信，就把我当成了她。对方一上来就说：“你是安争鸣吧？我告诉你，我手里面有你的个人资料，我现在命令你把你YouTube上的影片都给我删除。你放心，我绝对不要你一分钱，我就要你把影片删了。”

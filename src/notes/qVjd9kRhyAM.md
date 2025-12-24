@@ -1,60 +1,60 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- WTO
+- 通用
+- 福特
+- 斯特兰蒂斯
+- 罗纳德.里根基金会
+- 中国驻加拿大大使馆
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Facebook
+- X
+people:
+- 安妮塔.阿南德
+- 特鲁多
+- 克雷蒂安
+- 保罗.马丁
+- 斯蒂芬.哈珀
+- 孟晚舟
+- Michael Kovrig
+- Michael Spavor
+- Joe Biden
+- Donald Trump
+- 马可.卡尼
+- 李强
+- 王毅
+- 博励治
+- 福特
+- 罗纳德.里根
+- 温家宝
+products_models:
+- USMCA
+- 跨山输油管
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=qVjd9kRhyAM
 speaker: 莊也雜談
-tags:
-  - canada-china-relations
-  - trade-disputes
-  - us-trade-policy
-  - geopolitical-strategy
-  - economic-diversification
-title: 加中关系：从冰点到“重新校准”的务实博弈
-summary: 加拿大外长访华标志着中加关系在经历七年低谷后，开始进行深度破冰尝试。面对美国贸易保护主义的巨大压力和国内经济困境，加拿大寻求与中国重建以交易驱动的务实平衡关系。本文深入探讨了中加关系的历史演变、孟晚舟事件的影响、电动车和农产品关税争端，以及美国政策对加拿大的冲击。分析认为，尽管双方有合作意愿，但受制于国际国内形势，中加关系难以回到昔日“蜜月期”，只能在有限领域内维持利益导向的“选择性接触”。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 安妮塔.阿南德
-  - 特鲁多
-  - 克雷蒂安
-  - 保罗.马丁
-  - 斯蒂芬.哈珀
-  - 孟晚舟
-  - Michael Kovrig
-  - Michael Spavor
-  - Joe Biden
-  - Donald Trump
-  - 马可.卡尼
-  - 李强
-  - 王毅
-  - 博励治
-  - 福特
-  - 罗纳德.里根
-  - 温家宝
-companies_orgs:
-  - WTO
-  - 通用
-  - 福特
-  - 斯特兰蒂斯
-  - 罗纳德.里根基金会
-  - 中国驻加拿大大使馆
-products_models:
-  - USMCA
-  - 跨山输油管
-media_books:
-  - Facebook
-  - X
 status: evergreen
+summary: 加拿大外长访华标志着中加关系在经历七年低谷后，开始进行深度破冰尝试。面对美国贸易保护主义的巨大压力和国内经济困境，加拿大寻求与中国重建以交易驱动的务实平衡关系。本文深入探讨了中加关系的历史演变、孟晚舟事件的影响、电动车和农产品关税争端，以及美国政策对加拿大的冲击。分析认为，尽管双方有合作意愿，但受制于国际国内形势，中加关系难以回到昔日“蜜月期”，只能在有限领域内维持利益导向的“选择性接触”。
+tags:
+- canada-china-relations
+- economic-diversification
+- geopolitical-strategy
+- trade
+- us-trade-policy
+title: 加中关系：从冰点到“重新校准”的务实博弈
 ---
+
 ### 引言：加外长访华，破冰之旅？
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们来聊一聊中加关系发展的最新状况。2025年10月16日至17日，一则重磅新闻震撼了国际舆论场：加拿大外长**安妮塔.阿南德**（Anita Anand）踏上了访华之旅。这不仅仅是一次例行的访问，它更像是一场对过去七年中加关系低谷的深度破冰尝试。在美国贸易保护主义的巨大压力之下，加拿大主动将目光投向东方。那么，中加关系是否真的迎来了转圜的关键时刻？这一次的高级别对话，究竟是仅出于交易驱动的权宜之计，还是意味着中加关系将重拾当年的蜜月期，甚至重建战略合作伙伴关系？这背后的动因、面临的困境，以及对两国经济和未来政治格局的影响，都值得我们深入探究。今天我们将深入剖析中加关系复杂博弈下的真实走向，这其中每一个细节都可能牵动着您未来的财富与生活。好，咱们就废话少说，直入主题。

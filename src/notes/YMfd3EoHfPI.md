@@ -1,79 +1,78 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: history
+companies_orgs:
+- 胡佛研究所
+- OpenAI
+- 魏玛政府
+- 共产党
+- 德国社会民主党
+- 俄罗斯人民联盟
+- 内务人民委员部
+- 世界贸易组织
 date: '2025-07-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《斯大林：权力悖论》
+- 《斯大林：等待希特勒》
+- 《一个真正信徒的教育》
+- 《锡安长老会纪要》
+- 《非公民社会》
+people:
+- Stephen Kotkin
+- 列宁
+- 斯大林
+- 彼得·杜尔诺沃
+- 斯托雷平
+- 维特
+- 希特勒
+- 蒋介石
+- 托马斯·杰斐逊
+- 列夫·科佩列夫
+- 毛泽东
+- 赫鲁晓夫
+- 戈尔巴乔夫
+- Xi Jinping
+- 邓小平
+- 江泽民
+- 吉米·卡特
+- 布什
+- 克林顿
+- 墨索里尼
+- 托洛茨基
+- 布哈林
+- 加米涅夫
+- 季诺维也夫
+- 爱德华·伯恩斯坦
+- 马克思
+- 凯恩斯
+- 戈培尔
+- Vladimir Putin
+- 哈梅内伊
+- 马云
+products_models:
+- GPT-4
+project:
+- ai-impact-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=YMfd3EoHfPI
 speaker: Dwarkesh Patel
-tags:
-  - authoritarianism
-  - communism
-  - modernization-dilemma
-  - peasant-question
-  - political-legitimacy
-  - ideology
-title: 斯大林如何成为史上最强大的独裁者
-summary: 本播客深入探讨了独裁政权的历史演变与内在逻辑。嘉宾史蒂芬·科特金教授以沙皇俄国为例，剖析了现代化进程中独裁者面临的政治合法性困境。他解释了意识形态、农民土地问题如何驱动了俄国革命，以及斯大林如何通过建立庞大的镇压机器来巩固权力。讨论还涵盖了中国经济改革的深层原因、共产主义失败的悖论，并对比了希特勒与斯大林镇压方式的差异。最终，科特金教授强调了政治合法性对于任何政权长期存续的决定性作用，并警示了技术在独裁统治下可能带来的风险。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project:
-  - ai-impact-analysis
-  - china-analysis
-people:
-  - Stephen Kotkin
-  - Dwarkesh Patel
-  - 列宁
-  - 斯大林
-  - 彼得·杜尔诺沃
-  - 斯托雷平
-  - 维特
-  - 希特勒
-  - 蒋介石
-  - 托马斯·杰斐逊
-  - 列夫·科佩列夫
-  - 毛泽东
-  - 赫鲁晓夫
-  - 戈尔巴乔夫
-  - 习近平
-  - 邓小平
-  - 江泽民
-  - 吉米·卡特
-  - 布什
-  - 克林顿
-  - 墨索里尼
-  - 托洛茨基
-  - 布哈林
-  - 加米涅夫
-  - 季诺维也夫
-  - 爱德华·伯恩斯坦
-  - 马克思
-  - 凯恩斯
-  - 戈培尔
-  - 普京
-  - 哈梅内伊
-  - 马云
-companies_orgs:
-  - 胡佛研究所
-  - OpenAI
-  - 魏玛政府
-  - 共产党
-  - 德国社会民主党
-  - 俄罗斯人民联盟
-  - 内务人民委员部
-  - 世界贸易组织
-products_models:
-  - GPT-4
-media_books:
-  - 《斯大林：权力悖论》
-  - 《斯大林：等待希特勒》
-  - 《一个真正信徒的教育》
-  - 《锡安长老会纪要》
-  - 《非公民社会》
 status: evergreen
+summary: 本播客深入探讨了独裁政权的历史演变与内在逻辑。嘉宾史蒂芬·科特金教授以沙皇俄国为例，剖析了现代化进程中独裁者面临的政治合法性困境。他解释了意识形态、农民土地问题如何驱动了俄国革命，以及斯大林如何通过建立庞大的镇压机器来巩固权力。讨论还涵盖了中国经济改革的深层原因、共产主义失败的悖论，并对比了希特勒与斯大林镇压方式的差异。最终，科特金教授强调了政治合法性对于任何政权长期存续的决定性作用，并警示了技术在独裁统治下可能带来的风险。
+tags:
+- authoritarianism
+- communism
+- history
+- peasant-question
+- political-legitimacy
+- society
+title: 斯大林如何成为史上最强大的独裁者
 ---
+
 我的嘉宾是**史蒂芬·科特金**（Stephen Kotkin: 知名历史学家，胡佛研究所高级研究员），他是胡佛研究所的高级研究员，也是他三卷本斯大林传记中已完成三分之二的作者。第一本是**《斯大林：权力悖论》**，第二本是**《斯大林：等待希特勒》**。感谢您来到我的播客。感谢您的邀请。
 
 ### 沙皇政权的压迫与现代化困境

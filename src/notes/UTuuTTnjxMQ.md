@@ -1,92 +1,90 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Anthropic
+- Google
+- McKinsey
+- DeepMind
+- NVIDIA
+- Apple
 date: '2024-03-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交》论文
+- NeurIPS最佳论文
+- GPT-4论文
+- AlphaFold论文
+- 宪法式RL论文
+- 《叠加玩具模型》
+- 《走向单语义性》
+- 《符号物种》
+- Othello
+- 影响力函数论文
+- 休眠特工论文
+- MNIST
+- Mixtral论文
+- ImageNet
+- Distill Pub文章
+- 维苏威挑战赛
+people:
+- Sholto Douglas
+- Trenton Bricken
+- Noam Brown
+- Sam Altman
+- Sasha Rush
+- Rylan Schaeffer
+- Carl Shulman
+- John Carmack
+- Alec Radford
+- Demis Hassabis
+- Ilya Sutskever
+- Grant Sanderson
+- Pentti Kanerva
+- Tristan Hume
+- Bruno Olshausen
+- Sergey Brin
+- Jeff Dean
+- Chris Olah
+- Andy Jones
+- Simon Boehm
+- Neel Nanda
+products_models:
+- Gemini
+- GPT-4
+- Claude
+- AlphaFold
+- GPT-2
+- GPT-3
+- GPT-3.5
+- Gemini Ultra
+- SWE-bench
+- DALL-E
+- Mixtral of Experts
+- AlexNet
+- BERT
+- Gemma
+- Copilot
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=UTuuTTnjxMQ
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - interpretability
-  - superposition
-  - context-length
-  - ai-safety
-  - scaling-laws
-title: LLM如何思考：长上下文、可解释性与AI智能爆炸
-summary: 本期播客中，Sholto Douglas和Trenton Bricken深入探讨了大型语言模型的内部运作机制。他们讨论了长上下文窗口的重要性、模型可解释性中的“叠加”现象、AI智能爆炸的可能性以及AI研究的瓶颈。嘉宾们还分享了他们在AI领域快速成长的个人经历，强调了主动性和系统级理解的重要性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sholto Douglas
-  - Trenton Bricken
-  - Dwarkesh Patel
-  - Noam Brown
-  - Sam Altman
-  - Sasha Rush
-  - Rylan Schaeffer
-  - Carl Shulman
-  - John Carmack
-  - Alec Radford
-  - Demis Hassabis
-  - Ilya Sutskever
-  - Grant Sanderson
-  - Pentti Kanerva
-  - Tristan Hume
-  - Bruno Olshausen
-  - Sergey Brin
-  - Jeff Dean
-  - Chris Olah
-  - Andy Jones
-  - Simon Boehm
-  - Neel Nanda
-companies_orgs:
-  - OpenAI
-  - Anthropic
-  - Google
-  - McKinsey
-  - DeepMind
-  - NVIDIA
-  - Apple
-products_models:
-  - Gemini
-  - GPT-4
-  - Claude
-  - AlphaFold
-  - GPT-2
-  - GPT-3
-  - GPT-3.5
-  - Gemini Ultra
-  - SWE-bench
-  - DALL-E
-  - Mixtral of Experts
-  - AlexNet
-  - BERT
-  - Gemma
-  - Copilot
-media_books:
-  - 《外交》论文
-  - NeurIPS最佳论文
-  - GPT-4论文
-  - AlphaFold论文
-  - 宪法式RL论文
-  - 《叠加玩具模型》
-  - 《走向单语义性》
-  - 《符号物种》
-  - Othello
-  - 影响力函数论文
-  - 休眠特工论文
-  - MNIST
-  - Mixtral论文
-  - ImageNet
-  - Distill Pub文章
-  - 维苏威挑战赛
 status: evergreen
+summary: 本期播客中，Sholto Douglas和Trenton Bricken深入探讨了大型语言模型的内部运作机制。他们讨论了长上下文窗口的重要性、模型可解释性中的“叠加”现象、AI智能爆炸的可能性以及AI研究的瓶颈。嘉宾们还分享了他们在AI领域快速成长的个人经历，强调了主动性和系统级理解的重要性。
+tags:
+- ai-safety
+- canada
+- context-length
+- scaling-law
+- superposition
+title: LLM如何思考：长上下文、可解释性与AI智能爆炸
 ---
+
 今天，我很高兴能与我的两位好友**Sholto Douglas**和**Trenton Bricken**进行对话。**Noam Brown**，**《外交》论文**的作者，曾这样评价**Sholto**：“他进入这个领域才一年半，但在AI界，人们都知道他是**Gemini**成功背后最重要的人物之一。”而**Trenton**则在**Anthropic**工作，专注于**机械可解释性**（Mechanistic Interpretability: 旨在理解神经网络内部工作机制的研究领域），据广泛报道，他已经解决了AI对齐问题。
 
 当然，这只是**Twitter**上朋友的玩笑。本期播客将只关注AI的能力，因为对齐问题已经解决，无需进一步讨论。

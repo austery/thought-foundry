@@ -1,68 +1,67 @@
 ---
-author: Hung-yi Lee
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Meta
+- PTT
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《哈利波特》
+- 《MIB 星際戰警》
+- 《海賊王》
+- 《火影忍者》
+- 《艾爾登法環》
+- 《聖劍傳說2》
+- 《鬼滅之刃》
+people:
+- Donald Trump
+- Joe Biden
+- 黃士誠
+- 樊樺
+- 盧克函
+- 李品哲
+- 蘇軒
+- 林冠婷
+- 黃維坪
+products_models:
+- ChatGPT
+- Gemini
+- Claude
+- Llama
+- DeepSeek
+- Gemma
+- GPT-2
+- GPT-4
+- GPT-4 Mini
+- GPT-5
+- Llama 2
+- Llama 3
+- Whisper
+- Wav2Vec 2.0
+- Conformer
+- Speech T5
+- TAIDE LX
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=EnWz5XuOnIQ
 speaker: Hung-yi Lee
-tags:
-  - lifelong-learning
-  - model-finetuning
-  - catastrophic-forgetting
-  - model-merging
-  - test-time-adaptation
-title: 通用AI模型的終身學習：從微調、編輯到合併的四大核心技術
-summary: 本文深入探討通用AI模型（如Llama、GPT）在初始訓練完成後，如何進行「終身學習」以適應新知識、學習新技能甚至遺忘特定資訊。內容聚焦於後訓練（Post-training）的三大評估目標：可靠性、通用性與局部性，並剖析了其核心挑戰——災難性遺忘。文章詳細介紹了四種主流的持續學習技術：梯度下降微調（Fine-tuning）、模型編輯（Model Editing）、模型合併（Model Merging）以及測試時訓練（Test-Time Training），為理解和實踐AI模型的持續演進提供了全面的技術藍圖。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Hung-yi Lee
-  - Donald Trump
-  - Joe Biden
-  - 黃士誠
-  - 樊樺
-  - 盧克函
-  - 李品哲
-  - 蘇軒
-  - 林冠婷
-  - 黃維坪
-companies_orgs:
-  - OpenAI
-  - Meta
-  - PTT
-products_models:
-  - ChatGPT
-  - Gemini
-  - Claude
-  - Llama
-  - DeepSeek
-  - Gemma
-  - GPT-2
-  - GPT-4
-  - GPT-4 Mini
-  - GPT-5
-  - Llama 2
-  - Llama 3
-  - Whisper
-  - Wav2Vec 2.0
-  - Conformer
-  - Speech T5
-  - TAIDE LX
-media_books:
-  - 《哈利波特》
-  - 《MIB 星際戰警》
-  - 《海賊王》
-  - 《火影忍者》
-  - 《艾爾登法環》
-  - 《聖劍傳說2》
-  - 《鬼滅之刃》
 status: evergreen
+summary: 本文深入探討通用AI模型（如Llama、GPT）在初始訓練完成後，如何進行「終身學習」以適應新知識、學習新技能甚至遺忘特定資訊。內容聚焦於後訓練（Post-training）的三大評估目標：可靠性、通用性與局部性，並剖析了其核心挑戰——災難性遺忘。文章詳細介紹了四種主流的持續學習技術：梯度下降微調（Fine-tuning）、模型編輯（Model
+  Editing）、模型合併（Model Merging）以及測試時訓練（Test-Time Training），為理解和實踐AI模型的持續演進提供了全面的技術藍圖。
+tags:
+- adaptation
+- catastrophic-forgetting
+- lifelong-learning
+- model
+title: 通用AI模型的終身學習：從微調、編輯到合併的四大核心技術
 ---
+
 ### 通用模型的終身學習之旅
 今天我們要探討的主題是通用模型的終身學習。在之前的課程中，我們已經介紹了通用模型的誕生過程，例如大家每天都在使用的 ChatGPT、Gemini、Claude、Llama、DeepSeek 等模型，通常是如何被打造出來的。
 

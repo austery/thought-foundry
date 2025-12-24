@@ -1,61 +1,60 @@
 ---
-author: 張内咸
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 长江和记集团
+- BlackRock
+- 联想
+- 华为
+- 港澳办
+- Qualcomm
+- 海康威视
+- 英国东印度公司
+- 长江塑胶厂
+- 长江商学院
 date: '2025-03-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大公报》
+- 《战狼2》
+- 《哪吒2》
+- 《变形金刚：源起》
+- 《狮子山下》
+people:
+- 李嘉诚
+- Donald Trump
+- 吴京
+- 柳传志
+- 吴晓波
+- Warren Buffett
+- Lee Kuan Yew
+- 郭得胜
+- 李兆基
+- 郑裕彤
+- 江泽民
+- Xi Jinping
+- 邓小平
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=GdDU3SBM5u8
 speaker: 張内咸
-tags:
-  - li-ka-shing-strategy
-  - geopolitical-economy
-  - de-globalization
-  - political-polarization
-  - investment-principles
-title: 李嘉诚的第三张牌：97岁高龄如何洞察全球变局与逆全球化浪潮
-summary: 本文深入探讨了李嘉诚家族将全球港口出售给贝莱德集团的交易，分析了中国官方、财经媒体及反共媒体对此事的不同解读。主持人张内咸认为，这笔交易是李嘉诚继1967年和1989年两次“抄底”后的第三次关键决策，展现了他对逆全球化趋势、劳资关系紧张及政治格局变化的深刻洞察。文章还批判了中国官方媒体的双标思维和川普政府“理想主义的保守主义”政策，揭示了李嘉诚作为“政商老油条”的独特商业智慧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 李嘉诚
-  - Donald Trump
-  - 吴京
-  - 柳传志
-  - 吴晓波
-  - Warren Buffett
-  - Lee Kuan Yew
-  - 郭得胜
-  - 李兆基
-  - 郑裕彤
-  - 江泽民
-  - 习近平
-  - 邓小平
-companies_orgs:
-  - 长江和记集团
-  - BlackRock
-  - 联想
-  - 华为
-  - 港澳办
-  - Qualcomm
-  - 海康威视
-  - 英国东印度公司
-  - 长江塑胶厂
-  - 长江商学院
-products_models: []
-media_books:
-  - 《大公报》
-  - 《战狼2》
-  - 《哪吒2》
-  - 《变形金刚：源起》
-  - 《狮子山下》
 status: evergreen
+summary: 本文深入探讨了李嘉诚家族将全球港口出售给贝莱德集团的交易，分析了中国官方、财经媒体及反共媒体对此事的不同解读。主持人张内咸认为，这笔交易是李嘉诚继1967年和1989年两次“抄底”后的第三次关键决策，展现了他对逆全球化趋势、劳资关系紧张及政治格局变化的深刻洞察。文章还批判了中国官方媒体的双标思维和川普政府“理想主义的保守主义”政策，揭示了李嘉诚作为“政商老油条”的独特商业智慧。
+tags:
+- de-globalization
+- geopolitical-economy
+- investment
+- strategy
+title: 李嘉诚的第三张牌：97岁高龄如何洞察全球变局与逆全球化浪潮
 ---
+
 ### 中文YouTube生态与内容创作困境
 
 最近，我做这个账号有一些感想。最初的计划是做娱乐属性的内容，因为我毕竟是导演，是影视行业的资深从业人员，按说聊娱乐才是我分内的事。结果没想到，YouTube上**简中区**（简体中文区: 指YouTube上使用简体中文内容的区域）的整体气氛太严肃了，基本上全是政治、政治、政治，要不就是教你怎么赚钱、怎么洗钱、怎么移民、怎么“润”，娱乐内容根本没人看。这跟YouTube的整体氛围是相反的，YouTube有28亿用户，其中66%是英语内容，主要的流量都来自于娱乐、教育、生活方式，新闻政治类的内容反而是关注度最低的一个类别，看的人很少。

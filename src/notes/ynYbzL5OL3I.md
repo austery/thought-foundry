@@ -1,57 +1,57 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- RDA
+- 联合国
 date: '2023-02-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《阿凡達》
+- 《與狼共舞》
+- 《白蓮花大飯店》
+- 《氣象戰》
+- 《安達魯之犬》
+- colonial-discourse
+people:
+- Jake Sully
+- Neytiri
+- Grace Augustine
+- Selfridge
+- Edward B. Tylor
+- Colin Calloway
+- Benjamin Franklin
+- Gayatri Spivak
+- Paul Frommer
+- Martin Jay
+- Plato
+- René Descartes
+- Theodor W. Adorno
+- Donald Trump
+- Suzanne Simard
+- Marc Bekoff
+- Erysichthon
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=ynYbzL5OL3I
 speaker: 超級歪 SuperY
-tags:
-  - deep-ecology
-  - indigenous-philosophy
-  - capitalism-critique
-  - colonial-discourse
-  - ecological-crisis
-title: 《阿凡達》：深度生態學、原住民哲學與對資本主義文明的批判
-summary: 本期節目深入解析電影《阿凡達》第一集，探討其如何透過潘多拉星球的原住民納美人，對西方文明的視覺中心主義、理性啟蒙神話及資本主義剝削進行深刻批判。節目從萬物有靈論、殖民論述、底層發聲困境等多角度，揭示現代社會對自然環境的盲目與破壞，並結合歷史、哲學與最新科學發現，呼籲重新審視人與自然的關係，學習原住民智慧，以應對日益嚴重的生態危機。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Jake Sully
-  - Neytiri
-  - Grace Augustine
-  - Selfridge
-  - Edward B. Tylor
-  - Colin Calloway
-  - Benjamin Franklin
-  - Gayatri Spivak
-  - Paul Frommer
-  - Martin Jay
-  - Plato
-  - René Descartes
-  - Theodor W. Adorno
-  - Donald Trump
-  - Suzanne Simard
-  - Marc Bekoff
-  - Erysichthon
-companies_orgs:
-  - RDA
-  - 联合国
-products_models: []
-media_books:
-  - 《阿凡達》
-  - 《與狼共舞》
-  - 《白蓮花大飯店》
-  - 《氣象戰》
-  - 《安達魯之犬》
 status: evergreen
+summary: 本期節目深入解析電影《阿凡達》第一集，探討其如何透過潘多拉星球的原住民納美人，對西方文明的視覺中心主義、理性啟蒙神話及資本主義剝削進行深刻批判。節目從萬物有靈論、殖民論述、底層發聲困境等多角度，揭示現代社會對自然環境的盲目與破壞，並結合歷史、哲學與最新科學發現，呼籲重新審視人與自然的關係，學習原住民智慧，以應對日益嚴重的生態危機。
+tags:
+- capitalism-critique
+- crisis
+- environment
+- philosophy
+title: 《阿凡達》：深度生態學、原住民哲學與對資本主義文明的批判
 ---
+
 ### 《阿凡達》：西方文明與非西方社會的對比
 
 今天我們將深入解析電影**《阿凡達》**（Avatar）第一集。**《阿凡達》**的故事講述了2154年，人類發現潘多拉星球，為了開發當地的稀有礦藏，人類化身為**納美人**（Na’vi: 潘多拉星球的原住民）偵查當地原住民社會。男主角傑克·薩利（Jake Sully）代替哥哥，開始受訓加入潘多拉計劃。電影中有一段對話，描述了潘多拉星球的危險：「在那道護欄後面，任何活的東西，不論天上飛的地上爬的，都想把你生吞活剝地吃了。這裡有一群叫納美人的原住民族，他們喜歡在弓箭上塗上神經毒素，讓你的心跳在一分鐘內停止。」

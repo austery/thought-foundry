@@ -1,47 +1,47 @@
 ---
-author: How I AI
+area: tech-insights
+category: technology
+companies_orgs:
+- Microsoft
+- GitHub
 date: '2025-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+- Strange New Worlds
+- Apple Podcasts
+- Spotify
+people:
+- Clarvo
+- Marco Casalaina
+products_models:
+- GPT-3
+- GPT-4
+- GitHub Spark
+- SpecKit
+- Lovable
+- Bolt
+- Vzero
+project:
+- ai-impact-analysis
+- vibe-coding
+series: ''
 source: https://www.youtube.com/watch?v=3ZAqtHJJXSs
 speaker: How I AI
-tags:
-  - ai-application
-  - vibe-coding
-  - halloween-project
-  - llm-prompts
-  - mobile-app-development
-title: 用AI打造万圣节儿童友好型算命应用：Marco Casalaina的即兴编程分享
-summary: 在一次意外的万圣节特别节目中，Marco Casalaina展示了如何利用AI工具（如GitHub Spark）快速开发一个儿童友好型算命应用，用于社区万圣节派对。他分享了从预设签文到实时生成趣味签文的演进过程，并探讨了如何通过调整提示词使AI生成更具体、幽默的预测。此外，他还简要介绍了SpecKit在更严肃项目中的应用，强调了AI在快速原型开发和日常实用工具创建中的潜力。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - vibe-coding
-people:
-  - Clarvo
-  - Marco Casalaina
-companies_orgs:
-  - Microsoft
-  - GitHub
-products_models:
-  - GPT-3
-  - GPT-4
-  - GitHub Spark
-  - SpecKit
-  - Lovable
-  - Bolt
-  - Vzero
-media_books:
-  - How I AI
-  - Strange New Worlds
-  - Apple Podcasts
-  - Spotify
 status: evergreen
+summary: 在一次意外的万圣节特别节目中，Marco Casalaina展示了如何利用AI工具（如GitHub Spark）快速开发一个儿童友好型算命应用，用于社区万圣节派对。他分享了从预设签文到实时生成趣味签文的演进过程，并探讨了如何通过调整提示词使AI生成更具体、幽默的预测。此外，他还简要介绍了SpecKit在更严肃项目中的应用，强调了AI在快速原型开发和日常实用工具创建中的潜力。
+tags:
+- ai-application
+- canada
+- development
+- llm
+- vibe-coding
+title: 用AI打造万圣节儿童友好型算命应用：Marco Casalaina的即兴编程分享
 ---
+
 ### 欢迎来到万圣节特别节目
 
 **Clarvo:** 欢迎来到“How I AI”的万圣节特别节目，这是一个充满鬼魅且计划之外的节目。

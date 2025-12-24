@@ -1,56 +1,55 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Finansdepartementet
+- Stortinget
+- Etikkrådet
+- TV2
+- Dagbladet
+- Reuters
+- Bloomberg
+- E24
+- VG
+- NTB
+- Aftenposten
+- Morgenbladet
+- Tel Aviv Stock Exchange
 date: '2025-08-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Historikriket for Palestina
+- Aftenposten
+- Financial Times
+people:
+- Nikolai Tangen
+- Tron
+- Marte
+- Erik Hilde
+- Jonas Gahr Støre
+products_models:
+- Deepsek model
+- reference index
+project:
+- geopolitics-watch
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=YhbHl1A6PNc
 speaker: Norges Bank Investment Management
-tags:
-  - israel-investments
-  - ethical-investing
-  - sovereign-wealth-fund
-  - geopolitical-risk
-  - responsible-investment
-title: 挪威主权财富基金：以色列投资审查、半年业绩与信任危机应对
-summary: 本次新闻发布会聚焦挪威银行投资管理公司（NBIM）在加沙冲突背景下对以色列的投资、其半年业绩以及如何应对公众信任危机。NBIM已启动对其以色列投资组合的全面审查，撤回了外部管理，并剥离了部分不在其参考指数内的公司，承认了过去的疏忽。基金强调其对道德准则和负责任管理的承诺，同时公布了上半年的财务表现。首席执行官尼古拉·唐根回应了辞职呼吁，并重申基金的独立性不受政治影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - geopolitics-watch
-  - investment-strategy
-people:
-  - Nikolai Tangen
-  - Tron
-  - Marte
-  - Erik Hilde
-  - Jonas Gahr Støre
-companies_orgs:
-  - Norges Bank Investment Management
-  - Finansdepartementet
-  - Stortinget
-  - Etikkrådet
-  - TV2
-  - Dagbladet
-  - Reuters
-  - Bloomberg
-  - E24
-  - VG
-  - NTB
-  - Aftenposten
-  - Morgenbladet
-  - Tel Aviv Stock Exchange
-products_models:
-  - Deepsek model
-  - reference index
-media_books:
-  - Historikriket for Palestina
-  - Aftenposten
-  - Financial Times
 status: evergreen
+summary: 本次新闻发布会聚焦挪威银行投资管理公司（NBIM）在加沙冲突背景下对以色列的投资、其半年业绩以及如何应对公众信任危机。NBIM已启动对其以色列投资组合的全面审查，撤回了外部管理，并剥离了部分不在其参考指数内的公司，承认了过去的疏忽。基金强调其对道德准则和负责任管理的承诺，同时公布了上半年的财务表现。首席执行官尼古拉·唐根回应了辞职呼吁，并重申基金的独立性不受政治影响。
+tags:
+- geopolitical-risk
+- investing
+- investment
+- sovereign-wealth-fund
+title: 挪威主权财富基金：以色列投资审查、半年业绩与信任危机应对
 ---
+
 ### 开场白与议程
 
 大家好，欢迎参加新闻发布会。

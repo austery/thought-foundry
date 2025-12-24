@@ -1,36 +1,34 @@
 ---
-author: Anthropic
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Anthropic
+- Google
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Claude
+- Claude Opus
+- Claude Sonnet
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=0vZ_UVLhSQQ
 speaker: Anthropic
-tags:
-  - ai-collaboration
-  - prompt-engineering
-  - ai-models
-  - contextual-ai
-  - productivity-tools
-title: Claude.ai 入门指南：您的智能协作伙伴
-summary: 本指南详细介绍了如何高效利用人工智能协作工具Claude。文章涵盖了Claude的界面导航、编写有效提示词的最佳实践（包括设定情境、定义任务和明确规则）、如何通过上传文档和集成外部工具（如网络搜索和Google Drive）来提供上下文信息，以及如何根据任务需求选择合适的Claude模型（如Opus和Sonnet）和高级模式（如扩展思考模式和研究模式）。通过持续互动，用户可以最大化Claude的潜力，将其作为提升工作效率的强大智能伙伴。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - Anthropic
-  - Google
-products_models:
-  - Claude
-  - Claude Opus
-  - Claude Sonnet
-media_books: []
 status: evergreen
+summary: 本指南详细介绍了如何高效利用人工智能协作工具Claude。文章涵盖了Claude的界面导航、编写有效提示词的最佳实践（包括设定情境、定义任务和明确规则）、如何通过上传文档和集成外部工具（如网络搜索和Google
+  Drive）来提供上下文信息，以及如何根据任务需求选择合适的Claude模型（如Opus和Sonnet）和高级模式（如扩展思考模式和研究模式）。通过持续互动，用户可以最大化Claude的潜力，将其作为提升工作效率的强大智能伙伴。
+tags:
+- ai-collaboration
+- ai-model
+- llm
+- tool
+title: Claude.ai 入门指南：您的智能协作伙伴
 ---
+
 ### 拥抱智能协作：Claude 简介
 
 想象一下，你正面对一张空白页面，为一个复杂的大项目绞尽脑汁，却不知从何开始。如果有一个伙伴能帮助你将其分解，那该多好？

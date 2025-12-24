@@ -1,44 +1,43 @@
 ---
-author: 视野环球财经
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- 德意志银行
+- 瑞银
+- 美国劳工统计局
+- 美联储
+- 甲骨文
+- 耐克
+- OpenAI
+- 银狐资本
+- MGX
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models:
+- SOXX
+- SMH
+- TikTok
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=bZ_k5IGQhaI
 speaker: 视野环球财经
-tags:
-  - economic-data
-  - market-analysis
-  - llm
-  - semiconductor
-  - corporate-earnings
-title: 美股市场前瞻：2026年机构预测最大风险、经济数据与个股深度解析
-summary: 本期节目深入分析了最新的经济数据，包括低于预期的11月CPI和失业人数，以及其对美联储降息预期的影响。重点揭示了德意志银行调查中专业机构对2026年市场面临的最大风险预测，其中AI和科技泡沫破裂高居榜首。同时，节目详细更新了半导体ETF（SOXX、SMH）的关键技术位，并对耐克（NKE）的悲观财报与甲骨文（ORCL）因TikTok交易获得的潜在利好进行了深度解读，最后对大盘走势和期权结算日可能带来的波动进行了展望。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people: []
-companies_orgs:
-  - 德意志银行
-  - 瑞银
-  - 美国劳工统计局
-  - 美联储
-  - 甲骨文
-  - 耐克
-  - OpenAI
-  - 银狐资本
-  - MGX
-products_models:
-  - SOXX
-  - SMH
-  - TikTok
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了最新的经济数据，包括低于预期的11月CPI和失业人数，以及其对美联储降息预期的影响。重点揭示了德意志银行调查中专业机构对2026年市场面临的最大风险预测，其中AI和科技泡沫破裂高居榜首。同时，节目详细更新了半导体ETF（SOXX、SMH）的关键技术位，并对耐克（NKE）的悲观财报与甲骨文（ORCL）因TikTok交易获得的潜在利好进行了深度解读，最后对大盘走势和期权结算日可能带来的波动进行了展望。
+tags:
+- corporate-earning
+- economic-datum
+- market-analysis
+- semiconductor
+title: 美股市场前瞻：2026年机构预测最大风险、经济数据与个股深度解析
 ---
+
 大家好，欢迎回到视野环球财经，我是Reno。现在是美东时间25年12月18号周四晚上的7点45分。今天的四大指数全天高位震荡，科技股大幅反弹，纳指领涨，收复了部分昨天的跌幅。咱们今天的节目首先还是看一下数据，因为今天出了**CPI**（Consumer Price Index: 衡量通货膨胀的关键经济指标），然后呢再看一看机构认为的2026年最大的风险是什么，看和你想的是不是一样。还有就是关于**SOXX**（费城半导体指数ETF: 追踪费城半导体指数表现的交易所交易基金）和**SMH**（VanEck Semiconductor ETF: 追踪MVIS美国上市半导体25指数的交易所交易基金）的关键位置的防守在哪里，因为最近很长时间没有讲这两个**ETF**（Exchange Traded Fund: 交易所交易基金）。另外，今天**耐克**（Nike: 知名运动品牌）的财报之后大跌了10%，咱们看一看它现在面临的问题，以及之前咱们提到过关于**甲骨文**（Oracle: 知名企业软件和数据库公司）的潜在利好，这根救命稻草终于是来了，来得晚是晚了点，但是虽迟还是到。
 
 ### 11月CPI数据低于预期

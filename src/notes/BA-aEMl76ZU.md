@@ -1,82 +1,83 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- Universal
+- TVO Today
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Vibe
+- 'Family: The Explosive Story Behind the Fast & Furious Blockbusters That Supercharged
+  the World'
+- cinematic-universe
+- film-franchise
+people:
+- Barry Herz
+- Kenneth Lee
+- David Ayer
+- Gary Scott Thompson
+- Neil H. Maritz
+- Kevin Feige
+- James Gunn
+- Justin Lin
+- Sung Kang
+- Vin Diesel
+- Paul Walker
+- Ted Levine
+- Timothy Olyphant
+- Doug Liman
+- Caleb Walker
+- Cody Walker
+- Carrie Fisher
+- Ian Holm
+- Dwayne Johnson
+- Michelle Rodriguez
+- Jordana Brewster
+- Charlize Theron
+- Helen Mirren
+- Jason Momoa
+- Heath Ledger
+- Jason Statham
+products_models:
+- Fast X
+- Triple X
+- Pitch Black
+- Go
+- Gone in 60 Seconds
+- Saving Private Ryan
+- Riddick
+- Ghost Protocol
+- Star Wars
+- DC
+- Marvel
+- The Lord of the Rings
+- Harry Potter
+- Batman
+- Spider-Man
+- Jurassic Park
+- Transformers
+- Alien Romulus
+project:
+- historical-insights
+- cultural-critique
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=BA-aEMl76ZU
 speaker: TVO Today
-tags:
-  - film-franchise
-  - hollywood-trends
-  - cinematic-universes
-  - digital-resurrection
-  - diversity-representation
-  - production-challenges
-title: 《速度与激情》系列如何重塑好莱坞：一部电影传奇的幕后故事
-summary: 本访谈深入探讨了《速度与激情》系列电影的起源、演变及其对好莱坞的深远影响。作者巴里·赫兹分享了该系列如何从一部街头赛车电影发展成为全球现象级大片，并率先引领了多元化选角、拓展国际市场和构建电影宇宙等行业趋势。访谈还揭示了系列创作过程中的幕后挑战，包括范·迪塞尔与巨石强森之间的紧张关系、保罗·沃克意外离世后的数字复活技术应用，以及该系列未来的走向和创意困境。赫兹认为，尽管面临诸多挑战，该系列仍能不断创新并吸引观众。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - us-analysis
-people:
-  - Barry Herz
-  - Kenneth Lee
-  - David Ayer
-  - Gary Scott Thompson
-  - Neil H. Maritz
-  - Kevin Feige
-  - James Gunn
-  - Justin Lin
-  - Sung Kang
-  - Vin Diesel
-  - Paul Walker
-  - Ted Levine
-  - Timothy Olyphant
-  - Doug Liman
-  - Caleb Walker
-  - Cody Walker
-  - Carrie Fisher
-  - Ian Holm
-  - Dwayne Johnson
-  - Michelle Rodriguez
-  - Jordana Brewster
-  - Charlize Theron
-  - Helen Mirren
-  - Jason Momoa
-  - Heath Ledger
-  - Jason Statham
-companies_orgs:
-  - Universal
-  - TVO Today
-products_models:
-  - Fast X
-  - Triple X
-  - Pitch Black
-  - Go
-  - Gone in 60 Seconds
-  - Saving Private Ryan
-  - Riddick
-  - Ghost Protocol
-  - Star Wars
-  - DC
-  - Marvel
-  - The Lord of the Rings
-  - Harry Potter
-  - Batman
-  - Spider-Man
-  - Jurassic Park
-  - Transformers
-  - Alien Romulus
-media_books:
-  - Vibe
-  - 'Family: The Explosive Story Behind the Fast & Furious Blockbusters That Supercharged the World'
 status: evergreen
+summary: 本访谈深入探讨了《速度与激情》系列电影的起源、演变及其对好莱坞的深远影响。作者巴里·赫兹分享了该系列如何从一部街头赛车电影发展成为全球现象级大片，并率先引领了多元化选角、拓展国际市场和构建电影宇宙等行业趋势。访谈还揭示了系列创作过程中的幕后挑战，包括范·迪塞尔与巨石强森之间的紧张关系、保罗·沃克意外离世后的数字复活技术应用，以及该系列未来的走向和创意困境。赫兹认为，尽管面临诸多挑战，该系列仍能不断创新并吸引观众。
+tags:
+- canada
+- challenge
+- digital
+- trend
+title: 《速度与激情》系列如何重塑好莱坞：一部电影传奇的幕后故事
 ---
+
 ### 《速度与激情》的缘起与作者的创作动机
 
 主持人：巴里·赫兹，欢迎来到《Rundown》节目。

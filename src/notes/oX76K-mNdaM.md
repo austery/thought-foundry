@@ -1,35 +1,34 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: history
+companies_orgs: []
 date: '2024-08-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Reich
+- SK Wellers
+- Christian Christensen
+- Robert Allen
+- Kyle Harper
+- Montazuma
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=oX76K-mNdaM
 speaker: Dwarkesh Patel
-tags:
-  - plague
-  - historical-impact
-  - population-dynamics
-  - ancient-dna
-title: 塑造历史的细菌：鼠疫耶尔森氏菌 – David Reich
-summary: 本期节目深入探讨了鼠疫耶尔森氏菌（Yersinia pestis）对人类历史的深远影响。从古代欧洲的惊人死亡率，到其在人口迁徙、社会动荡乃至工业革命中的作用，揭示了这一单一病原体如何塑造了文明的进程。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - David Reich
-  - SK Wellers
-  - Christian Christensen
-  - Robert Allen
-  - Kyle Harper
-  - Montazuma
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了鼠疫耶尔森氏菌（Yersinia pestis）对人类历史的深远影响。从古代欧洲的惊人死亡率，到其在人口迁徙、社会动荡乃至工业革命中的作用，揭示了这一单一病原体如何塑造了文明的进程。
+tags:
+- dynamic
+- health
+- impact
+- plague
+title: 塑造历史的细菌：鼠疫耶尔森氏菌 – David Reich
 ---
+
 ### 惊人的死亡比例
 It looks like this particular agent has been killing people for 5,000 years, four or 5,000 years in **Western Eurasia** and in fact is killing a scarily large fraction of the population. As a quantitative person reading this literature, I think people are embarrassed by the implication.
 

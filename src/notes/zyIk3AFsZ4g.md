@@ -1,114 +1,114 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- S&P 500
+- SoFi
+- Google
+- Nvidia
+- Palantir
+- Robin Hood
+- Meta
+- Amazon
+- Salesforce
+- Reddit
+- Apple
+- SMCI
+- Big Bear AI
+- Rigetti
+- Rocket Lab
+- AST SpaceMobile
+- Terawolf
+- Plug Power
+- Oxy
+- Coreweave
+- Nebius
+- IREN
+- Cypher
+- NBC
+- Costco
+- Tesla
+- Papa John's
+- Oracle
+- JP Morgan
+- Celsius
+- D-Wave
+- Duolingo
+- Zeta
+- EOSC energy
+- NASDAQ
+- Weeble
+- AMD
+- Open Door
+- Northern Data
+- Rumble
+- CleanSpark
+- Next Decade
+- Beyond Meat
+- Paramount
+- Sky Dance
+- Microsoft
+- OpenAI
+- AWS
+- Core Scientific
+- NASA
+- Jasper
+- CrowdStrike
+- Rakuten
+- Poolside
+- Periodic Labs
+- Mistral
+- Openpipe
+- Marimo
+- Monolith
+- Nissan
+- Stalantis
+- Vast Data
+- Goldman Sachs
+- Jefferies
+- Barclays
+- Evercore
+- Deutsche Bank
+- Wells Fargo
+- Morgan Stanley
+- Northland Securities
+- DA Davidson
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Michael Burry
+- Tom Lee
+- Donald Trump
+- Marjorie Taylor Greene
+- Peter Beck
+- Mike Intrator
+- Nitin Agrawal
+products_models:
+- Bitcoin
+- Ethereum
+- Neutron
+- NVL72
+- GB300
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zyIk3AFsZ4g
 speaker: Amit Kukreja
-tags:
-  - earnings-report
-  - market-recap
-  - ai-stocks
-  - data-centers
-title: 市场收盘：Rocket Lab 与 Big Bear AI 财报超预期，Coreweave 因指引承压
-summary: 本日市场收盘，美股在政府停摆有望结束的预期下普遍上涨。财报季迎来高潮，Rocket Lab 和 Big Bear AI 业绩超预期，股价大涨；而 Coreweave 虽业绩超预期，但因数据中心交付延迟影响指引，股价承压。知名分析师 Tom Lee 评论称 AI 股估值合理，基金经理面临追赶业绩压力。此外，内容还涵盖了特朗普关于关税和经济政策的最新言论，以及多家科技公司的详细财报解读。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Michael Burry
-  - Tom Lee
-  - Donald Trump
-  - Marjorie Taylor Greene
-  - Peter Beck
-  - Mike Intrator
-  - Nitin Agrawal
-companies_orgs:
-  - S&P 500
-  - SoFi
-  - Google
-  - Nvidia
-  - Palantir
-  - Robin Hood
-  - Meta
-  - Amazon
-  - Salesforce
-  - Reddit
-  - Apple
-  - SMCI
-  - Big Bear AI
-  - Rigetti
-  - Rocket Lab
-  - AST SpaceMobile
-  - Terawolf
-  - Plug Power
-  - Oxy
-  - Coreweave
-  - Nebius
-  - IREN
-  - Cypher
-  - NBC
-  - Costco
-  - Tesla
-  - Papa John's
-  - Oracle
-  - JP Morgan
-  - Celsius
-  - D-Wave
-  - Duolingo
-  - Zeta
-  - EOSC energy
-  - NASDAQ
-  - Weeble
-  - AMD
-  - Open Door
-  - Northern Data
-  - Rumble
-  - CleanSpark
-  - Next Decade
-  - Beyond Meat
-  - Paramount
-  - Sky Dance
-  - Microsoft
-  - OpenAI
-  - AWS
-  - Core Scientific
-  - NASA
-  - Jasper
-  - CrowdStrike
-  - Rakuten
-  - Poolside
-  - Periodic Labs
-  - Mistral
-  - Openpipe
-  - Marimo
-  - Monolith
-  - Nissan
-  - Stalantis
-  - Vast Data
-  - Goldman Sachs
-  - Jefferies
-  - Barclays
-  - Evercore
-  - Deutsche Bank
-  - Wells Fargo
-  - Morgan Stanley
-  - Northland Securities
-  - DA Davidson
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Neutron
-  - NVL72
-  - GB300
-media_books: []
 status: evergreen
+summary: 本日市场收盘，美股在政府停摆有望结束的预期下普遍上涨。财报季迎来高潮，Rocket Lab 和 Big Bear AI 业绩超预期，股价大涨；而
+  Coreweave 虽业绩超预期，但因数据中心交付延迟影响指引，股价承压。知名分析师 Tom Lee 评论称 AI 股估值合理，基金经理面临追赶业绩压力。此外，内容还涵盖了特朗普关于关税和经济政策的最新言论，以及多家科技公司的详细财报解读。
+tags:
+- data-center
+- earnings-report
+- market
+- stock
+title: 市场收盘：Rocket Lab 与 Big Bear AI 财报超预期，Coreweave 因指引承压
 ---
+
 ### 市场全面上涨与背后动因
 
 大家好，欢迎回到“市场收盘”节目。今天是11月10日，星期一，我们迎来了全面上涨的一天。**S&P 500**（Standard & Poor's 500: 标准普尔500指数，一个衡量美国500家大型上市公司股票表现的指数）指数收于681.95点，远高于今早还在677点附近徘徊的水平。能够站稳在680点以上是一个非常积极的信号，这是我早上谈到的核心水平之一。最终，指数当天上涨了10个点，涨幅1.62%，带动了整个市场的活跃气氛。

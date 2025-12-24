@@ -1,61 +1,61 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Harkonnen family
+- Atreides family
+- NASA
+- BP
+- Bene Gesserit
 date: '2024-03-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《沙丘》
+- 《沙丘：神帝》
+- 《阿凡达》
+- 《我是传奇》
+- 《疯狂的麦克斯》
+- 《银翼杀手》
+- 《铃芽之旅》
+people:
+- Paul Atreides
+- Jessica
+- Frank Herbert
+- Ibn Khaldun
+- Timothy Morton
+- Tony Hayward
+- Kynes
+- Chani
+- Fikret Berkes
+- Makoto Shinkai
+- Yanis Varoufakis
+- Michael Hardt
+- Antonio Negri
+- Anna Tsing
+- Donna Haraway
+- Sam
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=NeMz-YdJI2Y
 speaker: 超級歪 SuperY
-tags:
-  - ecological-crisis
-  - anti-imperialism
-  - hyperobjects
-  - symbiotic-ecology
-  - historical-cycles
-title: 《沙丘》电影解析：生态危机、帝国循环与跨物种联盟的启示
-summary: 本文深入解析电影《沙丘》所蕴含的深刻哲学与生态主题。从香料作为“超客体”的隐喻，到帝国生态无知与弗瑞曼人智慧的对比；从伊本·赫勒敦的循环史观，到对好莱坞“白人救世主”叙事的批判；再到沙虫所代表的“神圣生态学”与跨物种联盟的反抗力量。文章探讨了《沙丘》如何预示“技术封建主义”的未来，并呼吁人类重新审视自身作为多物种共生体的本质，在资本主义废墟中寻找共存的绿洲。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Paul Atreides
-  - Jessica
-  - Frank Herbert
-  - Ibn Khaldun
-  - Timothy Morton
-  - Tony Hayward
-  - Kynes
-  - Chani
-  - Fikret Berkes
-  - Makoto Shinkai
-  - Yanis Varoufakis
-  - Michael Hardt
-  - Antonio Negri
-  - Anna Tsing
-  - Donna Haraway
-  - Sam
-companies_orgs:
-  - Harkonnen family
-  - Atreides family
-  - NASA
-  - BP
-  - Bene Gesserit
-products_models: []
-media_books:
-  - 《沙丘》
-  - 《沙丘：神帝》
-  - 《阿凡达》
-  - 《我是传奇》
-  - 《疯狂的麦克斯》
-  - 《银翼杀手》
-  - 《铃芽之旅》
 status: evergreen
+summary: 本文深入解析电影《沙丘》所蕴含的深刻哲学与生态主题。从香料作为“超客体”的隐喻，到帝国生态无知与弗瑞曼人智慧的对比；从伊本·赫勒敦的循环史观，到对好莱坞“白人救世主”叙事的批判；再到沙虫所代表的“神圣生态学”与跨物种联盟的反抗力量。文章探讨了《沙丘》如何预示“技术封建主义”的未来，并呼吁人类重新审视自身作为多物种共生体的本质，在资本主义废墟中寻找共存的绿洲。
+tags:
+- anti
+- crisis
+- health
+- historical
+- hyperobject
+title: 《沙丘》电影解析：生态危机、帝国循环与跨物种联盟的启示
 ---
+
 ### 《沙丘》故事背景与香料争夺战
 
 《沙丘》的故事背景设定在一万年后的未来世界。片中，厄崔迪家族在卡乐丹星球接到皇帝的命令，负责接管原本由哈克南家族统治的沙漠星球厄拉科斯。然而，在接管之后，厄崔迪家族却遭到皇帝军团和哈克南家族的联手剿灭。主角保罗和他的母亲杰西卡幸存下来，并加入了厄拉科斯星球的原住民弗瑞曼人的社会，由此开启了一段王子复仇记。

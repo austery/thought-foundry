@@ -1,45 +1,45 @@
 ---
-author: 老周横眉
+area: market-analysis
+category: finance
+companies_orgs:
+- 娃哈哈
+- 农夫山泉
+- 汇丰银行
+- 金号投资
+- Fistra
+- 中国共产党
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《书经》
+people:
+- 宗庆后
+- 宗馥莉
+products_models: []
+project:
+- investment-strategy
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=d0yoDctYyxc
 speaker: 老周横眉
-tags:
-  - offshore-trust
-  - family-trust
-  - wealth-inheritance
-  - asset-protection
-  - tax-avoidance
-  - political-risk-china
-  - estate-dispute
-  - special-purpose-vehicle
-title: 从娃哈哈家族争产案，深度解析家族信托的运作逻辑与财富传承的挑战
-summary: 娃哈哈创始人宗庆后离世后，其家族爆发的遗产争夺战牵扯出高达21亿美元的离岸信托基金。本文将以这一备受瞩目的事件为引，深入剖析家族信托的运作机制、类型优势及在财富传承、资产保护和税务规划中的作用。同时，文章也将探讨中国富豪面临的政治风险，并结合娃哈哈案例，揭示离岸信托设立过程中的潜在漏洞与教训，强调专业规划的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 宗庆后
-  - 宗馥莉
-companies_orgs:
-  - 娃哈哈
-  - 农夫山泉
-  - 汇丰银行
-  - 金号投资
-  - Fistra
-  - 中国共产党
-products_models: []
-media_books:
-  - 《书经》
 status: evergreen
+summary: 娃哈哈创始人宗庆后离世后，其家族爆发的遗产争夺战牵扯出高达21亿美元的离岸信托基金。本文将以这一备受瞩目的事件为引，深入剖析家族信托的运作机制、类型优势及在财富传承、资产保护和税务规划中的作用。同时，文章也将探讨中国富豪面临的政治风险，并结合娃哈哈案例，揭示离岸信托设立过程中的潜在漏洞与教训，强调专业规划的重要性。
+tags:
+- asset
+- estate
+- family
+- political
+- tax
+- technology
+- trust
+- wealth
+title: 从娃哈哈家族争产案，深度解析家族信托的运作逻辑与财富传承的挑战
 ---
+
 ## 从民族企业家到豪门内战
 
 曾经以“一妻一女一布鞋”这个简朴标签，深受中国人民爱戴的所谓民族企业家，宗庆后，他“塌房”了。过去一周，“一妻一女一布鞋”已经变成了“四个孩子三个妈，一双布鞋人人夸，国内挣钱国外花，您是表演艺术家”。这是因为这位前中国首富、已故的娃哈哈创始人突然被媒体爆出，他的家族正陷入了一场激烈的遗产争夺战，涉及340亿元人民币的资产。

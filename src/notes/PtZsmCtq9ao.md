@@ -1,45 +1,43 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Tesla
+- Money or Life 美股频道
+- 富途moomoo
+- 宁德时代
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Elon Musk
+- Ace
+products_models:
+- FSD
+- CyberCab
+- Model Y
+- Optimus
+- MegaPack
+- PowerWall
+- LFP电池
+project:
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=PtZsmCtq9ao
 speaker: Money or Life 美股频道
-tags:
-  - tesla-earnings
-  - energy-storage
-  - full-self-driving
-  - humanoid-robot
-  - investment-strategy
-title: 特斯拉2025年第三季度财报深度解读：增长、盈利与未来展望
-summary: 本期视频深入分析了特斯拉2025年第三季度财报。尽管每股收益（EPS）不及预期，但总营收和毛利率均超预期。报告强调了特斯拉健康的自由现金流、储能业务的强劲增长，以及FSD和人形机器人Optimus等核心技术取得的进展，尽管部分项目存在延迟。视频还分享了个人对特斯拉的投资策略，即持续逢低买入并长期持有。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Elon Musk
-  - Ace
-companies_orgs:
-  - Tesla
-  - Money or Life 美股频道
-  - 富途moomoo
-  - 宁德时代
-products_models:
-  - FSD
-  - CyberCab
-  - Model Y
-  - Optimus
-  - MegaPack
-  - PowerWall
-  - LFP电池
-media_books: []
 status: evergreen
+summary: 本期视频深入分析了特斯拉2025年第三季度财报。尽管每股收益（EPS）不及预期，但总营收和毛利率均超预期。报告强调了特斯拉健康的自由现金流、储能业务的强劲增长，以及FSD和人形机器人Optimus等核心技术取得的进展，尽管部分项目存在延迟。视频还分享了个人对特斯拉的投资策略，即持续逢低买入并长期持有。
+tags:
+- earning
+- energy-storage
+- full-self-driving
+- humanoid-robot
+title: 特斯拉2025年第三季度财报深度解读：增长、盈利与未来展望
 ---
+
 ### 特斯拉2025年第三季度财报概览
 
 特斯拉在几个小时前刚刚发布了2025年第三季度财报。最近，特斯拉的股价一直在412美元到445美元的区间波动。财报发布后，盘后和目前最新的夜盘交易显示，股价变动为负3.6%。

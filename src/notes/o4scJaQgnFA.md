@@ -1,36 +1,35 @@
 ---
-author: AI Engineer
+area: tech-work
+category: ai-ml
+companies_orgs:
+- The Browser Company of New York
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Samir Mody
+- Josh
+products_models:
+- Arc
+- DIA
+- GPT
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=o4scJaQgnFA
 speaker: AI Engineer
-tags:
-  - llm
-  - prompt-engineering
-  - browser-development
-  - ai-security
-title: 从 Arc 到 DIA：构建 AI 浏览器的经验教训
-summary: The Browser Company of New York 的 AI 工程主管 Samir Mody 分享了公司从构建 Arc 浏览器到 AI 原生浏览器 DIA 的转型历程。他深入探讨了在快速迭代、优化工具、将模型行为视为工艺以及应对 AI 安全挑战（如提示注入）方面学到的关键经验。演讲强调了拥抱技术变革、以用户为中心的设计以及跨职能协作在构建下一代 AI 产品中的重要性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Samir Mody
-  - Josh
-companies_orgs:
-  - The Browser Company of New York
-products_models:
-  - Arc
-  - DIA
-  - GPT
-media_books: []
 status: evergreen
+summary: The Browser Company of New York 的 AI 工程主管 Samir Mody 分享了公司从构建 Arc 浏览器到 AI
+  原生浏览器 DIA 的转型历程。他深入探讨了在快速迭代、优化工具、将模型行为视为工艺以及应对 AI 安全挑战（如提示注入）方面学到的关键经验。演讲强调了拥抱技术变革、以用户为中心的设计以及跨职能协作在构建下一代
+  AI 产品中的重要性。
+tags:
+- development
+- security
+title: 从 Arc 到 DIA：构建 AI 浏览器的经验教训
 ---
+
 ### 公司愿景与使命
 大家好，我是 Samir，在 **The Browser Company of New York** 担任 AI 工程主管。今天，我将与大家分享我们如何从构建 **Arc** 浏览器转型到 **DIA**，以及在构建 AI 浏览器过程中学到的经验。
 

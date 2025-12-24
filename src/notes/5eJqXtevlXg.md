@@ -1,42 +1,41 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- BetterUp
+- OpenAI
+- Meta
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Agents Rule of Two
+people:
+- Brian John
+- Dex Hory
+products_models:
+- Codeex CLI
+- Clog Code
+- OpenAI's API
+project:
+- ai-impact-analysis
+- systems-thinking
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=5eJqXtevlXg
 speaker: AI Engineer
-tags:
-  - ai-agents
-  - cli-tools
-  - context-management
-  - developer-workflows
-  - permission-management
-title: 将子代理集成到Codeex CLI：提升AI工作流效率与灵活性
-summary: 演讲者Brian John介绍了一种将**子代理**集成到**Codeex CLI**的方法，旨在解决工具和模型锁定问题。他解释了子代理如何通过分担任务来改善**上下文管理**，并详细阐述了涉及包装脚本和子Codeex会话的设计。演讲中还强调了在Codeex沙盒中管理权限的复杂性，并讨论了相关的安全考量。最后，他通过一个概念验证项目进行了演示，为AI驱动的开发工作流提供了一种更灵活的实现途径。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - knowledge-pipeline
-people:
-  - Brian John
-  - Dex Hory
-companies_orgs:
-  - BetterUp
-  - OpenAI
-  - Meta
-products_models:
-  - Codeex CLI
-  - Clog Code
-  - OpenAI's API
-media_books:
-  - The Agents Rule of Two
 status: evergreen
+summary: 演讲者Brian John介绍了一种将**子代理**集成到**Codeex CLI**的方法，旨在解决工具和模型锁定问题。他解释了子代理如何通过分担任务来改善**上下文管理**，并详细阐述了涉及包装脚本和子Codeex会话的设计。演讲中还强调了在Codeex沙盒中管理权限的复杂性，并讨论了相关的安全考量。最后，他通过一个概念验证项目进行了演示，为AI驱动的开发工作流提供了一种更灵活的实现途径。
+tags:
+- ai-agent
+- management
+- technology
+- tool
+title: 将子代理集成到Codeex CLI：提升AI工作流效率与灵活性
 ---
+
 ### 介绍与背景
 
 大家好，我是Brian John，今天很高兴能和大家分享关于在**Codeex CLI**（Codeex命令行界面: 一个用于与AI模型交互的命令行工具）中“破解”**子代理**（Sub-agents: 能够独立执行特定任务的AI代理）的话题。

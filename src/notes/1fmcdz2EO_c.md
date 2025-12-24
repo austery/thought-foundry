@@ -1,32 +1,31 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
 date: '2024-05-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John Schulman
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=1fmcdz2EO_c
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-collaboration
-  - long-horizon-tasks
-  - ai-development
-title: 2025年AI模型将成为同事而非搜索引擎：OpenAI联合创始人John Schulman的观点
-summary: 本期内容探讨了AI模型在未来一到两年内的发展趋势。演讲者预测，AI将从简单的信息检索工具转变为能够承担复杂项目（如完整编码项目）的协作伙伴。这种转变的关键在于模型能够进行长时序的连贯推理和执行，并能从错误中恢复。虽然目前模型在单次交互中表现出色，但长时序的连贯性是其局限。通过长远强化学习（Long Horizon RL）等训练方法，模型有望克服这一障碍，并可能达到与人类同事相当的协作水平，尽管实现通用人工智能（AGI）仍面临其他未知挑战。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - John Schulman
-companies_orgs:
-  - OpenAI
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期内容探讨了AI模型在未来一到两年内的发展趋势。演讲者预测，AI将从简单的信息检索工具转变为能够承担复杂项目（如完整编码项目）的协作伙伴。这种转变的关键在于模型能够进行长时序的连贯推理和执行，并能从错误中恢复。虽然目前模型在单次交互中表现出色，但长时序的连贯性是其局限。通过长远强化学习（Long
+  Horizon RL）等训练方法，模型有望克服这一障碍，并可能达到与人类同事相当的协作水平，尽管实现通用人工智能（AGI）仍面临其他未知挑战。
+tags:
+- ai-collaboration
+- ai-development
+- long
+title: 2025年AI模型将成为同事而非搜索引擎：OpenAI联合创始人John Schulman的观点
 ---
+
 ### AI 模型将承担复杂项目
 
 一到两年内，我们会发现模型能处理比现在多得多的复杂任务。**你可以想象让模型完成一个完整的编码项目，而不是仅仅给你一个编写函数的建议。** 你可以想象给模型高层级的指令，告诉它要编写什么代码，它就会去编写多个文件，进行测试，查看输出，并进行一些迭代。这意味着更复杂的任务，**从一次性的查询（比如将模型用作更智能的搜索引擎）转向与模型协作完成整个项目。** 根本上，**突破点在于它能够足够长时间地保持连贯性，以编写多个代码文件。**

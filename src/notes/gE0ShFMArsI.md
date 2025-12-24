@@ -1,60 +1,60 @@
 ---
-author: How I AI
+area: market-analysis
+category: business
+companies_orgs:
+- Suzie
+- Meta
+- Google
+- Brex
+- Dropbox
+- Airbnb
+- Open Door
+- Gong
+- Salesforce
+- Qualtrics
+- SurveyMonkey
+- Proctor and Gamble
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+- Generation AI
+people:
+- Matt Britton
+- Claravel
+- Mark Zuckerberg
+- Edward Sver
+- Mark Benioff
+products_models:
+- Zapier
+- Browse AI
+- Zoom
+- GPT-4 Turbo
+- GPT-5
+- ChatGPT
+- Adwords
+- Botpress
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=gE0ShFMArsI
 speaker: How I AI
-tags:
-  - ai-automation
-  - go-to-market
-  - sales-enablement
-  - customer-sentiment
-  - data-driven-marketing
-title: CEO如何将2.5万小时销售电话转化为自学习市场策略引擎
-summary: 本期节目深入探讨了Suzie公司CEO Matt Britton如何利用AI自动化工具（特别是Zapier和Browse AI）处理2.5万小时的销售电话录音，构建了一个强大的自学习市场策略引擎。该系统能够自动生成客户情绪分析、流失预警、Google广告关键词、销售代表辅导、跟进邮件，甚至博客文章。文章强调了领导者亲身实践AI工具的重要性，以及如何通过数据驱动的自动化提升销售、营销和客户成功效率，最终实现业务的闭环增长。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Matt Britton
-  - Claravel
-  - Mark Zuckerberg
-  - Edward Sver
-  - Mark Benioff
-companies_orgs:
-  - Suzie
-  - Facebook
-  - Google
-  - Brex
-  - Dropbox
-  - Airbnb
-  - Open Door
-  - Gong
-  - Salesforce
-  - Qualtrics
-  - SurveyMonkey
-  - Proctor and Gamble
-products_models:
-  - Zapier
-  - Browse AI
-  - Zoom
-  - GPT-4 Turbo
-  - GPT-5
-  - ChatGPT
-  - Adwords
-  - Botpress
-media_books:
-  - How I AI
-  - Generation AI
 status: evergreen
+summary: 本期节目深入探讨了Suzie公司CEO Matt Britton如何利用AI自动化工具（特别是Zapier和Browse AI）处理2.5万小时的销售电话录音，构建了一个强大的自学习市场策略引擎。该系统能够自动生成客户情绪分析、流失预警、Google广告关键词、销售代表辅导、跟进邮件，甚至博客文章。文章强调了领导者亲身实践AI工具的重要性，以及如何通过数据驱动的自动化提升销售、营销和客户成功效率，最终实现业务的闭环增长。
+tags:
+- ai-automation
+- data
+- geopolitical
+- market
+- society
+title: CEO如何将2.5万小时销售电话转化为自学习市场策略引擎
 ---
+
 ### 销售团队的痛点与数据宝藏
 
 我的公司销售团队一直告诉我，他们不知道如何找到任何信息，不知道客户对什么感兴趣。

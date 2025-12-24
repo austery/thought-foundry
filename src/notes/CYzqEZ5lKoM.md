@@ -1,45 +1,43 @@
 ---
-author: 课代表立正
+area: tech-insights
+category: technology
+companies_orgs: []
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 鸭哥
+products_models:
+- GPT
+- RAG
+- LangChain
+- Cursor
+- Claude
+- Codex
+- Grok
+- DeepSeek
+- Gemini
+- Lovable
+- Manus
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=CYzqEZ5lKoM
 speaker: 课代表立正
-tags:
-  - ai-learning-methodology
-  - ai-application-development
-  - ai-principles
-  - mindset-shift
-  - practical-ai-skills
-title: AI课程深度解析：构建AI思维与实战技能的新范式
-summary: 本文详细介绍了某AI课程的教学理念、内容与特色。课程强调AI学习需建立全新思维模式，从底层原理出发，通过亲手实践（build）来掌握AI应用。课程提供300页原创课件、真实项目案例及专属开发平台，旨在帮助学员理解AI发展趋势、核心机会，并培养解决实际问题的能力，将AI学习视为一个持续构建的长期过程。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - 课代表立正
-  - 鸭哥
-companies_orgs: []
-products_models:
-  - GPT
-  - RAG
-  - LangChain
-  - Cursor
-  - Claude
-  - Codex
-  - Grok
-  - DeepSeek
-  - Gemini
-  - Lovable
-  - Manus
-media_books: []
 status: evergreen
+summary: 本文详细介绍了某AI课程的教学理念、内容与特色。课程强调AI学习需建立全新思维模式，从底层原理出发，通过亲手实践（build）来掌握AI应用。课程提供300页原创课件、真实项目案例及专属开发平台，旨在帮助学员理解AI发展趋势、核心机会，并培养解决实际问题的能力，将AI学习视为一个持续构建的长期过程。
+tags:
+- ai-application-development
+- learning
+- principle
+- shift
+- skill
+title: AI课程深度解析：构建AI思维与实战技能的新范式
 ---
+
 ### 课程内容与教学特色
 
 我们的AI课程并非仅仅教授那些表面的**标签**（Tags），例如**RAG**（Retrieval-Augmented Generation: 检索增强生成）、**MCP**（一种AI框架或概念）以及**LangChain**（一个用于开发基于大型语言模型应用的框架）。我们认为，单纯学习这些标签很快就会过时。课程的核心在于深度理解与实践。

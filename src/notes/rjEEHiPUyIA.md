@@ -1,64 +1,64 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs:
+- Alibaba
+- 蚂蚁集团
+- 拼多多
+- 小米
+- 百度
+- 小鹏汽车
+- 美光科技
+- Nvidia
+- Arm
+- 摩根士丹利
+- 戴尔
+- 惠普
+- Cloudflare
+- 比亚迪
+- 特斯拉
+- 麦当劳
+- Chick-fil-A
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《第五元素》
+people:
+- 马云
+- 雷军
+- Donald Trump
+- Jensen Huang
+- 高市早苗
+- 王毅
+- John Williams
+- Jeffrey Gundlach
+products_models:
+- 通义千问
+- DeepSeek
+- 豆包
+- 灵光
+- MVLink
+project:
+- china-analysis
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=rjEEHiPUyIA
 speaker: 小翠時政財經
-tags:
-  - chinese-tech-earnings
-  - ai-market-impact
-  - market-liquidity
-  - private-credit-risk
-  - china-real-estate-crisis
-title: 中国科技巨头财报解析、银行直供房风险与全球市场动态：流动性、AI估值及投资策略
-summary: 本期节目深入分析了中国A股及港股市场回调，重点解读阿里巴巴、拼多多、小米、百度、小鹏汽车等科技公司的最新财报及其AI战略。同时，探讨了日本股债汇三杀的宏观困境、美股面临的流动性危机与私人信贷市场风险，并对英伟达的战略布局和AI板块估值进行了剖析。节目还揭示了中国银行直供房现象背后的深层逻辑及其对房地产市场的影响，并分享了长期投资与资产配置的理念。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - investment-strategy
-people:
-  - 马云
-  - 雷军
-  - Donald Trump
-  - Jensen Huang
-  - 高市早苗
-  - 王毅
-  - John Williams
-  - Jeffrey Gundlach
-companies_orgs:
-  - 阿里巴巴
-  - 蚂蚁集团
-  - 拼多多
-  - 小米
-  - 百度
-  - 小鹏汽车
-  - 美光科技
-  - 英伟达
-  - Arm
-  - 摩根士丹利
-  - 戴尔
-  - 惠普
-  - Cloudflare
-  - 比亚迪
-  - 特斯拉
-  - 麦当劳
-  - Chick-fil-A
-products_models:
-  - 通义千问
-  - DeepSeek
-  - 豆包
-  - 灵光
-  - MVLink
-media_books:
-  - 《第五元素》
 status: evergreen
+summary: 本期节目深入分析了中国A股及港股市场回调，重点解读阿里巴巴、拼多多、小米、百度、小鹏汽车等科技公司的最新财报及其AI战略。同时，探讨了日本股债汇三杀的宏观困境、美股面临的流动性危机与私人信贷市场风险，并对英伟达的战略布局和AI板块估值进行了剖析。节目还揭示了中国银行直供房现象背后的深层逻辑及其对房地产市场的影响，并分享了长期投资与资产配置的理念。
+tags:
+- china
+- chinese-tech-earning
+- market
+- market-liquidity
+- risk
+title: 中国科技巨头财报解析、银行直供房风险与全球市场动态：流动性、AI估值及投资策略
 ---
+
 ### 市场概览与中国股市表现
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月18日。今天大家是不是上不了X、Facebook等很多应用？据说**Cloudflare**（CDN服务商: 提供网络安全和性能优化的公司）坏掉了。之前马斯克刚当过“鸡”，最近这些云厂商好像一家家都出现了问题，是压力太大，股市遭受打压吗？

@@ -1,53 +1,51 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- PayPal
+- Google
+- Apple
+- Alibaba
+- BYD
+- Nvidia
+- Arm Holdings
+- Uber
+- Costco
+- Coinbase
+- AMD
+- Ebay
 date: '2024-03-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Cathie Wood
+- Dan Schulman
+- Alex Chriss
+- Warren Buffett
+products_models:
+- Gemini
+- Bard
+project:
+- investment-strategy
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=YOHoeWIZQ2A
 speaker: Shijun Tang
-tags:
-  - value-investing
-  - market-valuation
-  - fundamental-analysis
-  - economic-cycles
-  - long-term-investing
-title: 美股牛市下的价值投资实录：PayPal、Google、苹果、阿里与比亚迪的长期分析
-summary: 在美股大牛市与AI热潮背景下，作者以价值投资视角剖析PayPal、Google、苹果、阿里和比亚迪的财务基本面与长期潜力，强调忽略短期波动、专注企业内在价值，并指出中概股面临的宏观风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - historical-insights
-people:
-  - Shijun Tang
-  - Cathie Wood
-  - Dan Schulman
-  - Alex Chriss
-  - Warren Buffett
-companies_orgs:
-  - PayPal
-  - Google
-  - Apple
-  - Alibaba
-  - BYD
-  - Nvidia
-  - Arm Holdings
-  - Uber
-  - Costco
-  - Coinbase
-  - AMD
-  - Ebay
-products_models:
-  - Gemini
-  - Bard
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 在美股大牛市与AI热潮背景下，作者以价值投资视角剖析PayPal、Google、苹果、阿里和比亚迪的财务基本面与长期潜力，强调忽略短期波动、专注企业内在价值，并指出中概股面临的宏观风险。
+tags:
+- economic-cycle
+- fundamental-analysis
+- long-term-investing
+- market-valuation
+title: 美股牛市下的价值投资实录：PayPal、Google、苹果、阿里与比亚迪的长期分析
 ---
+
 ### 美股牛市下的价值投资逻辑
 
 近期美股迎来大牛市，标普500指数突破5000点大关，比特币也重回69000美元前高。Nvidia、Arm Holdings、Uber、Costco、Coinbase、AMD等公司成为本轮行情的领涨者。尽管美国通胀率仍维持在3.1%，联邦利率高达5.5%，市场却呈现出“盛世降临”的氛围，散户疯狂涌入，投机主义再度主导情绪。

@@ -1,33 +1,33 @@
 ---
-title: 2025年9月FOMC会议解读：劳动力市场、通胀与利率前景
-summary: Joseph Wang深入解读2025年9月FOMC会议。他分析了美联储降息背后的劳动力市场疲软、3%通胀粘性，并探讨了点阵图、移民对就业数据的影响以及关税对通胀的潜在作用。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- federal-reserve
-- inflation
-- interest-rates
-- labor-market
-- tariffs
-people:
-- joseph-wang
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-17'
-author: Joseph Wang
-speaker: Joseph Wang
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people:
+- joseph-wang
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=fFZqJ3drtQc
+speaker: Joseph Wang
 status: evergreen
+summary: Joseph Wang深入解读2025年9月FOMC会议。他分析了美联储降息背后的劳动力市场疲软、3%通胀粘性，并探讨了点阵图、移民对就业数据的影响以及关税对通胀的潜在作用。
+tags:
+- federal-reserve
+- inflation
+- interest-rate
+- labor-market
+- tariff
+title: 2025年9月FOMC会议解读：劳动力市场、通胀与利率前景
 ---
+
 ### 会议概览与背景
 
 Today is September 17th and this is my September **FOMC** (Federal Open Market Committee: 联邦公开市场委员会) debrief.

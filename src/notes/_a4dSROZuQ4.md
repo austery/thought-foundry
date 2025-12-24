@@ -1,35 +1,33 @@
 ---
-author: 王红雨
+area: market-analysis
+category: finance
+companies_orgs:
+- CMHC
+- 央行
+- 美联储
 date: '2025-08-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=_a4dSROZuQ4
 speaker: 王红雨
-tags:
-  - real-estate-cycle
-  - housing-supply
-  - mortgage-rates
-  - immigration-impact
-  - developer-exit
-title: 2025年多伦多房地产投资策略：周期底部信号与“不卖房”的理由
-summary: 本文深入分析了2025年多伦多房地产市场的投资策略，核心观点是“不卖房”。作者从加拿大政府住房政策、建筑成本与二手房价格倒挂、住房可负担性变化以及房贷利率走势四个方面阐述了理由。文章指出，政府主导廉租房建设挤压商品房供给，开发商因成本高企集体退出市场，导致新房供给严重枯竭。同时，稳定的移民政策持续推高需求，而利率下降通道有望减轻房贷压力。因此，目前市场处于周期底部，不卖房是明智之举。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs:
-  - CMHC
-  - 央行
-  - 美联储
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了2025年多伦多房地产市场的投资策略，核心观点是“不卖房”。作者从加拿大政府住房政策、建筑成本与二手房价格倒挂、住房可负担性变化以及房贷利率走势四个方面阐述了理由。文章指出，政府主导廉租房建设挤压商品房供给，开发商因成本高企集体退出市场，导致新房供给严重枯竭。同时，稳定的移民政策持续推高需求，而利率下降通道有望减轻房贷压力。因此，目前市场处于周期底部，不卖房是明智之举。
+tags:
+- cycle
+- geopolitical
+- impact
+- rate
+- technology
+title: 2025年多伦多房地产投资策略：周期底部信号与“不卖房”的理由
 ---
+
 ### 2025年多伦多房地产：为何“不卖房”是最佳策略
 
 房地产市场具有周期性，而周期底部的显著标志之一就是开发商退出市场。鉴于此，2025年对于多伦多房地产投资者而言，最佳的投资策略就是“不卖房”。本文将从四个主要理由对此观点进行深入探讨。

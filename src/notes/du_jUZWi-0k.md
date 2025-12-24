@@ -1,31 +1,29 @@
 ---
-author: 徒步的騎手
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mao Zedong
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=du_jUZWi-0k
 speaker: 徒步的騎手
-tags:
-  - gratitude
-  - maturity
-  - parental-love
-  - letting-go
-  - personal-development
-title: 感恩与放手：成熟的标志与最难的爱
-summary: 本文探讨了感恩节背后的深刻意义，指出感恩是个人成熟的第一道门槛。通过新兵入伍的例子，阐述了孩子如何从对父母的理所当然到理解其不易。文章深入剖析了父母之爱中“放手”的艰难与伟大，认为这是一种比给予更无私的爱。作者结合自身经历，回忆了外婆当年如何克服不舍，毅然送他去城市求学，强调了这份放手之爱对其人生的深远影响，并祝愿大家感恩节快乐。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Mao Zedong
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了感恩节背后的深刻意义，指出感恩是个人成熟的第一道门槛。通过新兵入伍的例子，阐述了孩子如何从对父母的理所当然到理解其不易。文章深入剖析了父母之爱中“放手”的艰难与伟大，认为这是一种比给予更无私的爱。作者结合自身经历，回忆了外婆当年如何克服不舍，毅然送他去城市求学，强调了这份放手之爱对其人生的深远影响，并祝愿大家感恩节快乐。
+tags:
+- gratitude
+- letting-go
+- love
+- maturity
+- personal-development
+title: 感恩与放手：成熟的标志与最难的爱
 ---
 
 ### 大家好，感恩节到了

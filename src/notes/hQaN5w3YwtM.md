@@ -1,45 +1,44 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: psychology
+companies_orgs:
+- Harvard Medical School
+- Indiana State University
+- Indiana University School of Medicine
+- LinkedIn
+- OnePassword
+- Function Health
+- Manchester United
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+- The Diary of a CEO, 33 Laws of Business and Life
+people:
+- Jill Bolte Taylor
+- Steven Bartlett
+- Marty Teicher
+- Frederick Schiffer
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=hQaN5w3YwtM
 speaker: The Diary Of A CEO
-tags:
-  - brain-hemispheres
-  - neuroplasticity
-  - emotional-regulation
-  - whole-brain-living
-  - consciousness
-title: 哈佛神经科学家吉尔·泰勒博士：你的大脑在欺骗你，揭示掌控思维与情绪的真相
-summary: 哈佛大学神经科学家吉尔·博尔特·泰勒博士结合其个人经历——一次严重的中风，深入剖析了大脑的四个不同部分如何塑造我们的思想、情感和行为。她揭示了现代社会过于偏重左脑逻辑思维的失衡状态，并阐述了这如何导致创伤、成瘾和普遍的不幸福感。通过理解并有意识地调用大脑的四个“角色”，我们可以实现“全脑生活”，重新掌控自己的心理健康，在任何时刻选择我们想成为的状态，最终实现内心的平静与完整。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Jill Bolte Taylor
-  - Steven Bartlett
-  - Marty Teicher
-  - Frederick Schiffer
-companies_orgs:
-  - Harvard Medical School
-  - Indiana State University
-  - Indiana University School of Medicine
-  - LinkedIn
-  - OnePassword
-  - Function Health
-  - Manchester United
-products_models: []
-media_books:
-  - The Diary Of A CEO
-  - The Diary of a CEO, 33 Laws of Business and Life
 status: evergreen
+summary: 哈佛大学神经科学家吉尔·博尔特·泰勒博士结合其个人经历——一次严重的中风，深入剖析了大脑的四个不同部分如何塑造我们的思想、情感和行为。她揭示了现代社会过于偏重左脑逻辑思维的失衡状态，并阐述了这如何导致创伤、成瘾和普遍的不幸福感。通过理解并有意识地调用大脑的四个“角色”，我们可以实现“全脑生活”，重新掌控自己的心理健康，在任何时刻选择我们想成为的状态，最终实现内心的平静与完整。
+tags:
+- brain
+- consciousness
+- emotional-regulation
+- health
+title: 哈佛神经科学家吉尔·泰勒博士：你的大脑在欺骗你，揭示掌控思维与情绪的真相
 ---
+
 ### 解锁大脑：有意识地选择你的心理状态
 
 你给我带了一个装在盒子里的礼物，我感到既紧张又兴奋。

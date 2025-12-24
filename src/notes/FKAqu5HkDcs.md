@@ -1,55 +1,55 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CCTV
+- 解放军报
+- 人民日报
+- B站
+- 小红书
+- 今日头条
+- 抖音
+- GameStop
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《极权的起源》
+people:
+- 高市早苗
+- Nancy Pelosi
+- 安倍晋三
+- 胡锡进
+- 华春莹
+- 李连杰
+- 沈逸
+- Hannah Arendt
+- Louis Althusser
+- Carl Schmitt
+- 薛剑
+- 董宇辉
+- 铁头
+products_models:
+- 萨德导弹
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=FKAqu5HkDcs
 speaker: FearNation 世界苦茶
-tags:
-  - public-opinion
-  - political-performance
-  - nationalism
-  - internal-propaganda
-  - sino-japanese-relations
-title: “别去日本”风波背后：中国民意是真心还是表演？
-summary: 中国官方就高市早苗涉台言论发布赴日旅行警告，引发网络热议。本次分析深入探讨了中国民意的复杂构成，将其划分为三类人：真正被洗脑者、因体制身份被迫跟从者，以及自愿配合的“表演者”。其中，“表演者”又分为习惯性配合国家的表演型人格，和追求现实政治效果的“GameStop”式行动者。文章指出，此次事件本质上是一场服务于内部合法性的“内宣”，其效果最终取决于民众在经济下行周期中是否还愿意持续配合表演。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 高市早苗
-  - Nancy Pelosi
-  - 安倍晋三
-  - 胡锡进
-  - 华春莹
-  - 李连杰
-  - 沈逸
-  - Hannah Arendt
-  - Louis Althusser
-  - Carl Schmitt
-  - 薛剑
-  - 董宇辉
-  - 铁头
-companies_orgs:
-  - CCTV
-  - 解放军报
-  - 人民日报
-  - B站
-  - 小红书
-  - 今日头条
-  - 抖音
-  - GameStop
-products_models:
-  - 萨德导弹
-media_books:
-  - 《极权的起源》
 status: evergreen
+summary: 中国官方就高市早苗涉台言论发布赴日旅行警告，引发网络热议。本次分析深入探讨了中国民意的复杂构成，将其划分为三类人：真正被洗脑者、因体制身份被迫跟从者，以及自愿配合的“表演者”。其中，“表演者”又分为习惯性配合国家的表演型人格，和追求现实政治效果的“GameStop”式行动者。文章指出，此次事件本质上是一场服务于内部合法性的“内宣”，其效果最终取决于民众在经济下行周期中是否还愿意持续配合表演。
+tags:
+- nationalism
+- political
+- public-opinion
+- sino-japanese-relations
+- society
+title: “别去日本”风波背后：中国民意是真心还是表演？
 ---
+
 ### 中国民意：被洗脑还是在表演？
 
 今天我们分享一个与中国民意相关的话题。通过讨论近期因日本政治人物高市早苗的涉台表态，中国发出赴日旅游和学习警告令这一事件，我们希望深入探讨中国民意的真实面貌。

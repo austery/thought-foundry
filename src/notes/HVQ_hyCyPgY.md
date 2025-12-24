@@ -1,51 +1,51 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- The New York Times
+- The Examination
+- AutoZone
+- Home Depot
+- Walmart
+- True Metals
+- Trafigura
+- East Penn
+- Battery Council International
+- Transportation Security Administration
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Rachel Abrams
+- Peter Goodman
+- Will Fitzgibbon
+- Chris Puit
+- Vladimir Zalinski
+- Emanuel Macron
+products_models:
+- Real ID
+project:
+- us-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=HVQ_hyCyPgY
 speaker: New York Times Podcasts
-tags:
-  - lead-poisoning
-  - supply-chain-ethics
-  - environmental-pollution
-  - corporate-due-diligence
-  - regulatory-arbitrage
-title: “清洁”技术背后的污染：全球电池回收链的隐秘代价
-summary: 《纽约时报》与The Examination的一项联合调查揭露了铅酸电池回收行业中，尤其是在尼日利亚，存在的严重铅中毒和环境破坏问题。文章详细描述了发展中国家危险的工作条件和监管缺失，并将其与美国严格的标准形成对比。调查显示，美国主要的电池制造商间接从这条不道德的供应链中获益，凸显了全球贸易的复杂性、企业尽职调查的不足，以及廉价原材料背后惨重的人力成本。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Rachel Abrams
-  - Peter Goodman
-  - Will Fitzgibbon
-  - Chris Puit
-  - Vladimir Zalinski
-  - Emanuel Macron
-companies_orgs:
-  - The New York Times
-  - The Examination
-  - AutoZone
-  - Home Depot
-  - Walmart
-  - True Metals
-  - Trafigura
-  - East Penn
-  - Battery Council International
-  - Transportation Security Administration
-products_models:
-  - Real ID
-media_books:
-  - The Daily
 status: evergreen
+summary: 《纽约时报》与The Examination的一项联合调查揭露了铅酸电池回收行业中，尤其是在尼日利亚，存在的严重铅中毒和环境破坏问题。文章详细描述了发展中国家危险的工作条件和监管缺失，并将其与美国严格的标准形成对比。调查显示，美国主要的电池制造商间接从这条不道德的供应链中获益，凸显了全球贸易的复杂性、企业尽职调查的不足，以及廉价原材料背后惨重的人力成本。
+tags:
+- corporate
+- lead-poisoning
+- regulatory
+- society
+- supply-chain-ethics
+title: “清洁”技术背后的污染：全球电池回收链的隐秘代价
 ---
+
 ### “清洁”技术背后的肮脏交易
 
 我是《纽约时报》的雷切尔·艾布拉姆斯，这里是《每日》节目。

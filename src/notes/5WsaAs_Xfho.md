@@ -1,34 +1,32 @@
 ---
-title: 基于最新数据与财报，深度解析美股市场、关税影响及美联储降息前景
-summary: 本期节目深入分析了芯片关税、大非农数据对美联储降息预期的影响，并通过麦当劳、Shopify和迪士尼财报，揭示宏观经济与流媒体行业趋势。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- corporate-earnings
-- monetary-policy
-- streaming-media
-- tariff
-- us-stock-market
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-08-07'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=5WsaAs_Xfho
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入分析了芯片关税、大非农数据对美联储降息预期的影响，并通过麦当劳、Shopify和迪士尼财报，揭示宏观经济与流媒体行业趋势。
+tags:
+- corporate-earning
+- media
+- tariff
+- us-stock-market
+title: 基于最新数据与财报，深度解析美股市场、关税影响及美联储降息前景
 ---
+
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且这一周又要全勤的专业美股频道，我是市场分析员肖涛。今天又有非常多的东西可以和大家分享。首先聊一下盘后发生的，川普对于芯片这边关税的一条新闻。然后我们聊一下上一周的大非农数据，数据出来之后市场的反馈并不是非常的好。正好有观众让我仔细的对于那一次**大非农数据**去进行一个深究。那我们就今天借由彭博and one这个团队对于上一次**大非农数据**的一个深究和剖析，去看一下他们有没有改变对于接下去**美联储**降息的这个看法。
 
 同时，也是因为上周的**大非农数据**，已经有三位**美联储**成员出来改变了他们对于接下去降息的看法和想法，那对于他们的想法我们也会做一个更新。最后是三家公司的财报，通过两家公司，分别是**麦当劳**和**Shopify**，去看一下整个宏观环境。然后最后**Disney**，我会详细的讲一下他们的这一次财报。虽然在过去这段时间**Disney**的涨幅还是比较的不错，但是我个人认为这一次财报我看到了**Disney**在**流媒体**这一块才刚刚开始。废话不多说，马上开始今天内容。

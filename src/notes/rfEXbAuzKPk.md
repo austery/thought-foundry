@@ -1,86 +1,86 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CCTV News Investigation
+- Chongqing Third Factory
+- Wanguan Company
+- Chongqing Public Security Bureau
+- Chongqing High Court
+- Supreme People's Court
+- Columbia University
+- Chongqing Justice Bureau
+- Chongqing Municipal Party Committee
+- Chongqing Municipal Government Information Office
+- U.S. Consulate General in Chengdu
+- Southwest University of Political Science and Law
+- Hilton Hotel
 date: '2025-01-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《新闻调查》
+- 《财经》杂志
+- 《青年报》
+- 《新闻1+1》
+- BBC
+- Caixin
+- 《反击航视频》
+people:
+- Bo Guagua
+- Wang Lijun
+- Bo Xilai
+- Chen Kunzhi
+- Zhang Tao
+- Wu Xiaoqing
+- Gong Gangmo
+- Fan Qihang
+- Zhu Minyong
+- Wang Yong
+- Li Zhuang
+- He Weifang
+- Jiang Ping
+- Zhang Sizhi
+- Li Qiang
+- Zhao Changqing
+- Chen Mingliang
+- Ma Dang
+- Li Xiang
+- Wang Tianlun
+- Peng Zhiming
+- Zhang Shenghe
+- Li Yiwen
+- Dai Yuequan
+- Tian Hongyuan
+- Peng Hong
+- Ren Jianyu
+- Liu Shiyin
+- Bo Yibo
+products_models:
+- Maserati
+- Lamborghini
+- Bentley
+- Porsche
+- BMW
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=rfEXbAuzKPk
 speaker: 柴静 Chai Jing
-tags:
-  - chongqing-anti-gang-campaign
-  - judicial-abuse
-  - political-interference
-  - rule-of-law
-  - media-supervision
-title: 柴静亲历重庆打黑：司法运动化与权力滥用的深层反思
-summary: 本文基于柴静的亲身经历，深入剖析了重庆“打黑除恶”运动。该运动最初由她报道的一起土地拍卖案引发，随后演变为一场“黑打”，其间充斥着司法滥用、政治干预和法律保障的系统性侵蚀。柴静反思了薄熙来与王立军在其中的角色，以及陈坤志、龚刚摩、樊齐航、李强等人的命运，并探讨了这场运动对中国法治建设造成的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Bo Guagua
-  - Wang Lijun
-  - Bo Xilai
-  - Chen Kunzhi
-  - Zhang Tao
-  - Wu Xiaoqing
-  - Gong Gangmo
-  - Fan Qihang
-  - Zhu Minyong
-  - Wang Yong
-  - Li Zhuang
-  - He Weifang
-  - Jiang Ping
-  - Zhang Sizhi
-  - Li Qiang
-  - Zhao Changqing
-  - Chen Mingliang
-  - Ma Dang
-  - Li Xiang
-  - Wang Tianlun
-  - Peng Zhiming
-  - Zhang Shenghe
-  - Li Yiwen
-  - Dai Yuequan
-  - Tian Hongyuan
-  - Peng Hong
-  - Ren Jianyu
-  - Liu Shiyin
-  - Bo Yibo
-companies_orgs:
-  - CCTV News Investigation
-  - Chongqing Third Factory
-  - Wanguan Company
-  - Chongqing Public Security Bureau
-  - Chongqing High Court
-  - Supreme People's Court
-  - Columbia University
-  - Chongqing Justice Bureau
-  - Chongqing Municipal Party Committee
-  - Chongqing Municipal Government Information Office
-  - U.S. Consulate General in Chengdu
-  - Southwest University of Political Science and Law
-  - Hilton Hotel
-products_models:
-  - Maserati
-  - Lamborghini
-  - Bentley
-  - Porsche
-  - BMW
-media_books:
-  - 《新闻调查》
-  - 《财经》杂志
-  - 《青年报》
-  - 《新闻1+1》
-  - BBC
-  - Caixin
-  - 《反击航视频》
 status: evergreen
+summary: 本文基于柴静的亲身经历，深入剖析了重庆“打黑除恶”运动。该运动最初由她报道的一起土地拍卖案引发，随后演变为一场“黑打”，其间充斥着司法滥用、政治干预和法律保障的系统性侵蚀。柴静反思了薄熙来与王立军在其中的角色，以及陈坤志、龚刚摩、樊齐航、李强等人的命运，并探讨了这场运动对中国法治建设造成的深远影响。
+tags:
+- anti
+- geopolitical
+- media
+- political
+- rule-of-law
+title: 柴静亲历重庆打黑：司法运动化与权力滥用的深层反思
 ---
+
 ### 薄瓜瓜公开信引发的思考：重庆打黑的责任与争议
 
 一个月前，我看到一个熟名叫**薄瓜瓜**的人在社交媒体上发表公开信谈论他的家庭。信中提到重庆**打黑**（Anti-gang campaign: 中国政府打击有组织犯罪的专项行动）变成**黑打**（Abusive crackdown: 指在打黑行动中，执法部门滥用职权、违反法律程序，甚至刑讯逼供，将无辜者或轻罪者定性为黑社会性质犯罪的行为）时，他认为原因在于**王立军**滥用职权、目中无人，而**薄熙来**用人不当、骑虎难下。如果这封信是真的，为自己的父母辩护是人之常情。而且，薄熙来在重庆打黑中究竟要负什么责任，这一点在他和王立军的庭审中都没有涉及，给争议留下了很大的空间。

@@ -1,35 +1,34 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- TVO Today
+- Ottawa Public Health
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dr. Trevor Arnason
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Iwwmm1n2Pzc
 speaker: TVO Today
-tags:
-  - misinformation
-  - disinformation
-  - vaccine-hesitancy
-  - public-health
-  - communication-strategy
-title: 公共卫生如何应对虚假信息挑战？
-summary: 本文探讨了公共卫生机构在后疫情时代面临的挑战，特别是如何应对虚假信息和公众信任缺失。渥太华公共卫生局的特雷弗·阿纳森医生指出，信息传播方式的改变和疫苗犹豫是当前公共卫生的核心问题。文章还讨论了麻疹疫情的卷土重来以及学校疫苗接种豁免制度的影响，强调了重建信任和普及常规疫苗重要性的紧迫性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Dr. Trevor Arnason
-companies_orgs:
-  - TVO Today
-  - Ottawa Public Health
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了公共卫生机构在后疫情时代面临的挑战，特别是如何应对虚假信息和公众信任缺失。渥太华公共卫生局的特雷弗·阿纳森医生指出，信息传播方式的改变和疫苗犹豫是当前公共卫生的核心问题。文章还讨论了麻疹疫情的卷土重来以及学校疫苗接种豁免制度的影响，强调了重建信任和普及常规疫苗重要性的紧迫性。
+tags:
+- communication-strategy
+- disinformation
+- health
+- misinformation
+- public-health
+title: 公共卫生如何应对虚假信息挑战？
 ---
+
 ### 公共卫生机构重回聚光灯下
 
 主持人：还记得**新冠**（COVID-19: 2019冠状病毒病）疫情初期，人们焦急等待**安大略省首席医疗官**（Ontario's Chief Medical Officer of health: 负责省内公共卫生事务的最高级别官员）最新新闻发布会的情景吗？

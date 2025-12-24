@@ -1,53 +1,51 @@
 ---
-author: 课代表立正
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Trae
+- Microsoft
+- Google
+- Anthropic
+- OpenAI
+- Meta
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Stack Overflow
+people:
+- 石扬
+- Andrej Karpathy
+- Steve Jobs
+products_models:
+- Copilot
+- Cursor
+- Claude Code
+- ChatGPT
+- VS Code
+- JetBrains
+- TikTok
+- VI
+- MD
+- AI IDE
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=d-Mel7dGDGE
 speaker: 课代表立正
-tags:
-  - ai-coding
-  - developer-tools
-  - product-strategy
-  - ai-evolution
-  - human-in-the-loop
-title: AI编程工具的演进与未来：Trae产品负责人石扬的深度洞察
-summary: Trae产品负责人石扬在访谈中分享了AI编程工具从Copilot到Cursor再到Claude Code的演进路径。他指出Trae已成为全球第二大AI编程工具，并在代码补全等细节上实现突破。石扬强调中国团队在“命题作文”上的独特优势，并深入剖析了AI编程从插件模式到原生集成IDE的转变。他认为AI编程已步入2.5时代，并展望了3.0时代的终极形态：将更多工具原生融入AI，而非让每个工具独立搭载AI，以期大幅提升专业开发者和普通用户的效率与体验。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 石扬
-  - 课代表立正
-  - Andrej Karpathy
-  - Steve Jobs
-companies_orgs:
-  - Trae
-  - Microsoft
-  - Google
-  - Anthropic
-  - OpenAI
-  - Facebook
-products_models:
-  - Copilot
-  - Cursor
-  - Claude Code
-  - ChatGPT
-  - VS Code
-  - JetBrains
-  - TikTok
-  - VI
-  - MD
-  - AI IDE
-media_books:
-  - Stack Overflow
 status: evergreen
+summary: Trae产品负责人石扬在访谈中分享了AI编程工具从Copilot到Cursor再到Claude Code的演进路径。他指出Trae已成为全球第二大AI编程工具，并在代码补全等细节上实现突破。石扬强调中国团队在“命题作文”上的独特优势，并深入剖析了AI编程从插件模式到原生集成IDE的转变。他认为AI编程已步入2.5时代，并展望了3.0时代的终极形态：将更多工具原生融入AI，而非让每个工具独立搭载AI，以期大幅提升专业开发者和普通用户的效率与体验。
+tags:
+- ai-evolution
+- developer-tool
+- human
+- strategy
+title: AI编程工具的演进与未来：Trae产品负责人石扬的深度洞察
 ---
+
 ### AI编程工具的崛起与Trae的定位
 
 课代表立正：哈喽石扬，欢迎来到课代表立正。我们来介绍一下石扬，石扬是**Trae**（字节跳动旗下的一款AI编程工具）的负责人。在我看来，Trae目前是全球第二大的**AI编程**（Artificial Intelligence Coding: 利用人工智能辅助或自动化代码编写）工具。

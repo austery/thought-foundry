@@ -1,52 +1,52 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Department of Agriculture
+- White House
+- Pentagon
+- NBC
+- Kremlin
+- Spirit Halloween
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Netflix
+people:
+- Tracy Mumford
+- Donald Trump
+- Timothy Melon
+- Xi Jinping
+- Vladimir Putin
+- Scott Bessant
+- Damen Cave
+products_models:
+- SNAP
+- Boravestnik
+- Hurricane Melissa
+project:
+- us-analysis
+- geopolitics-watch
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=jOXhAQDQFm4
 speaker: New York Times Podcasts
-tags:
-  - government-shutdown
-  - food-security
-  - trade-tensions
-  - nuclear-weapons
-  - foreign-policy
-title: 美国食品援助告急，特朗普亚洲行与普京核导弹引担忧
-summary: 随着美国政府停摆临近一个月，数千万低收入美国人面临食品券中断，食品银行需求激增。与此同时，特朗普总统开启亚洲行，旨在讨论贸易协议并缓解地区不信任感，并将与中国国家主席习近平会晤。俄罗斯总统普京宣布成功测试一枚新型核动力导弹，引发核不扩散担忧。此外，加勒比海地区正严阵以待飓风梅丽莎的袭击，以及万圣节的流行装扮趋势。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - china-analysis
-people:
-  - Tracy Mumford
-  - Donald Trump
-  - Timothy Melon
-  - Xi Jinping
-  - Vladimir Putin
-  - Scott Bessant
-  - Damen Cave
-companies_orgs:
-  - New York Times
-  - Department of Agriculture
-  - White House
-  - Pentagon
-  - NBC
-  - Kremlin
-  - Spirit Halloween
-products_models:
-  - SNAP
-  - Boravestnik
-  - Hurricane Melissa
-media_books:
-  - The Daily
-  - Netflix
 status: evergreen
+summary: 随着美国政府停摆临近一个月，数千万低收入美国人面临食品券中断，食品银行需求激增。与此同时，特朗普总统开启亚洲行，旨在讨论贸易协议并缓解地区不信任感，并将与中国国家主席习近平会晤。俄罗斯总统普京宣布成功测试一枚新型核动力导弹，引发核不扩散担忧。此外，加勒比海地区正严阵以待飓风梅丽莎的袭击，以及万圣节的流行装扮趋势。
+tags:
+- foreign-policy
+- government-shutdown
+- nuclear
+- security
+- trade
+title: 美国食品援助告急，特朗普亚洲行与普京核导弹引担忧
 ---
+
 ### 今日头条速览
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是10月27日星期一，以下是我们今天报道的内容。

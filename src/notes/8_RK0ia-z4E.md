@@ -1,48 +1,47 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg Podcasts
+- Citadel
+- Barclays
+- SMBC Nico
+- Federal Reserve
+- Dallas Fed
+- New York Fed
 date: '2025-10-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Lots More
+people:
+- Joe Abate
+- Lori Logan
+- Hunter McMaster
+products_models:
+- Fed funds rate
+- triparty repo rate
+- SOFR
+- LIBOR
+project:
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=8_RK0ia-z4E
 speaker: Bloomberg Podcasts
-tags:
-  - monetary-policy
-  - interest-rate-targeting
-  - reserve-management
-  - financial-plumbing
-  - stablecoins
-title: 美联储利率目标与货币政策机制的演变
-summary: 本期节目深入探讨了美联储如何设定和传导利率，以及其货币政策操作机制的演变。讨论了从稀缺准备金制度到充裕准备金制度的转变，美联储联邦基金利率目标面临的挑战，以及达拉斯联储洛根提出的将目标转向三方回购利率的建议。节目还分析了维持庞大资产负债表的成本、流动性收紧的迹象、稳定币对国债市场的影响，以及全球互换利差扩大的原因。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-people:
-  - Joe Abate
-  - Lori Logan
-  - Hunter McMaster
-companies_orgs:
-  - Bloomberg Podcasts
-  - Citadel
-  - Barclays
-  - SMBC Nico
-  - Federal Reserve
-  - Dallas Fed
-  - New York Fed
-products_models:
-  - Fed funds rate
-  - triparty repo rate
-  - SOFR
-  - LIBOR
-media_books:
-  - Odd Lots
-  - Lots More
 status: evergreen
+summary: 本期节目深入探讨了美联储如何设定和传导利率，以及其货币政策操作机制的演变。讨论了从稀缺准备金制度到充裕准备金制度的转变，美联储联邦基金利率目标面临的挑战，以及达拉斯联储洛根提出的将目标转向三方回购利率的建议。节目还分析了维持庞大资产负债表的成本、流动性收紧的迹象、稳定币对国债市场的影响，以及全球互换利差扩大的原因。
+tags:
+- financial
+- interest-rate-targeting
+- management
+- stablecoin
+title: 美联储利率目标与货币政策机制的演变
 ---
+
 ### 美联储利率目标的复杂性
 
 我们一直对听众和观众说，美联储正在加息或降息，但这实际上是一个由多种利率构成的整体，我们从未真正明确指的是哪一种利率。

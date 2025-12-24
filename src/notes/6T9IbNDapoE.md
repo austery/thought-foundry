@@ -1,77 +1,75 @@
 ---
-author: 小翠時政財經
+area: society-thinking
+category: politics-society
+companies_orgs:
+- OpenAI
+- SpaceX
+- Tesla
+- Apple
+- Tencent
+- Alibaba
+- Biren Technology
+- Tianshu Zhixing
+- Moore Threads
+- Muxi Semiconductor
+- MINI Max
+- Zhipu AI
+- Oracle
+- NVIDIA
+- Broadcom
+- AMD
+- Intel
+- Shanghai Guotou
+- Guangzhou Chantu
+- Ping An Group
+- MiHoYo
+- Xiaohongshu
+- Xiaomi
+- China International Capital Corporation
+- Bloomberg
+- U.S. Securities and Exchange Commission
+- Federal Reserve
+- People's Bank of China
+- Ministry of Commerce of China
+- European Union
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Information
+people:
+- Sam Altman
+- Elon Musk
+- Bill Ackman
+- Donald Trump
+- Jerome Powell
+- Kevin Hassett
+- Kevin Warsh
+- Christopher Waller
+- Tim Cook
+- Nick Timiraos
+products_models:
+- Photoshop
+- Hao Luo AI
+- Xinyi
+- Talky
+- WeChat
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=6T9IbNDapoE
 speaker: 小翠時政財經
-tags:
-  - llm
-  - gpu
-  - ipo
-  - financial-markets
-  - geopolitics
-title: 中国AI企业融资困境、OpenAI盈利改善与马斯克SpaceX上市新路径
-summary: 本期节目深入探讨中国AI企业在政府对赌协议下的融资困境与急切上市现象，对比OpenAI盈利能力的显著提升。同时，分析马斯克SpaceX规避传统IPO的创新上市方案及其挑战，并讨论人民币汇率、日本央行政策及中美欧贸易关系等宏观经济议题。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sam Altman
-  - Elon Musk
-  - Bill Ackman
-  - Donald Trump
-  - Jerome Powell
-  - Kevin Hassett
-  - Kevin Warsh
-  - Christopher Waller
-  - Tim Cook
-  - Nick Timiraos
-companies_orgs:
-  - OpenAI
-  - SpaceX
-  - Tesla
-  - Apple
-  - Tencent
-  - Alibaba
-  - Biren Technology
-  - Tianshu Zhixing
-  - Moore Threads
-  - Muxi Semiconductor
-  - MINI Max
-  - Zhipu AI
-  - Oracle
-  - NVIDIA
-  - Broadcom
-  - AMD
-  - Intel
-  - Shanghai Guotou
-  - Guangzhou Chantu
-  - Ping An Group
-  - MiHoYo
-  - Xiaohongshu
-  - Xiaomi
-  - China International Capital Corporation
-  - Bloomberg
-  - U.S. Securities and Exchange Commission
-  - Federal Reserve
-  - People's Bank of China
-  - Ministry of Commerce of China
-  - European Union
-products_models:
-  - Photoshop
-  - Hao Luo AI
-  - Xinyi
-  - Talky
-  - WeChat
-media_books:
-  - The Information
 status: evergreen
+summary: 本期节目深入探讨中国AI企业在政府对赌协议下的融资困境与急切上市现象，对比OpenAI盈利能力的显著提升。同时，分析马斯克SpaceX规避传统IPO的创新上市方案及其挑战，并讨论人民币汇率、日本央行政策及中美欧贸易关系等宏观经济议题。
+tags:
+- financial-market
+- investment
+- technology
+title: 中国AI企业融资困境、OpenAI盈利改善与马斯克SpaceX上市新路径
 ---
+
 大家好，欢迎回到小崔时政财经。今天是美东时间2025年12月22日，欢迎收看我们今天的每日要闻节目。
 
 ### 中港股市表现与新股上市

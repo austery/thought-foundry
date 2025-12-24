@@ -1,54 +1,54 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Carnegie Mellon
+- Middlebury College
+- Lowe's
+- US Census
+- Biden administration
 date: '2025-07-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Moby Dick
+- COD
+- Salt
+- 'Firewood in the American Economy: 1700 to 2010'
+- The Mystery of Fuelwood Pricing in the United States
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Nicholas Muller
+- Bob Brackett
+- Arthur Cole
+- Bill Nordhouse
+- James Tobin
+products_models:
+- Consumer Price Index
+- Gross Domestic Product
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=TV88SRjsClc
 speaker: Bloomberg Podcasts
-tags:
-  - firewood-prices
-  - energy-transition
-  - economic-history
-  - informal-economy
-  - natural-capital
-title: 300年柴火价格揭示的美国经济变迁与能源转型
-summary: 本期播客深入探讨了美国300年来的柴火价格历史，揭示了其作为早期美国经济主要能源的重要性。嘉宾Nicholas Muller教授分享了他如何通过遗嘱记录和报纸广告收集数据，并分析了这些数据对GDP、农业生产力及能源转型理解的修正。节目讨论了城市化、运输技术进步、煤炭兴起以及社会动荡如何影响柴火市场，并将其与当前的能源辩论、自然资本估值及非正式经济衡量联系起来，强调了历史数据对理解现代经济的价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Nicholas Muller
-  - Bob Brackett
-  - Arthur Cole
-  - Bill Nordhouse
-  - James Tobin
-companies_orgs:
-  - Bloomberg
-  - Carnegie Mellon
-  - Middlebury College
-  - Lowe's
-  - US Census
-  - Biden administration
-products_models:
-  - Consumer Price Index
-  - Gross Domestic Product
-media_books:
-  - Odd Lots
-  - Moby Dick
-  - COD
-  - Salt
-  - 'Firewood in the American Economy: 1700 to 2010'
-  - The Mystery of Fuelwood Pricing in the United States
 status: evergreen
+summary: 本期播客深入探讨了美国300年来的柴火价格历史，揭示了其作为早期美国经济主要能源的重要性。嘉宾Nicholas Muller教授分享了他如何通过遗嘱记录和报纸广告收集数据，并分析了这些数据对GDP、农业生产力及能源转型理解的修正。节目讨论了城市化、运输技术进步、煤炭兴起以及社会动荡如何影响柴火市场，并将其与当前的能源辩论、自然资本估值及非正式经济衡量联系起来，强调了历史数据对理解现代经济的价值。
+tags:
+- canada
+- capital
+- economic-history
+- economy
+- energy-transition
+title: 300年柴火价格揭示的美国经济变迁与能源转型
 ---
+
 ### 探寻被遗忘的能源：柴火价格的300年历史
 
 欢迎收听《Odd Lots》播客节目。主持人Tracy Alloway和Joe Weisenthal开场时提到，他们生活中一直缺少一份关于美国过去300年柴火价格的全面历史数据。

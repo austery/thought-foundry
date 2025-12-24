@@ -1,61 +1,61 @@
 ---
-author: LT視界
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 迈克思
+- 惠誉
+- 中国国家统计局
+- 彭博社
+- 路透社
+- 华尔街日报
+- 经济学人
+- 中国社科院
+- 共和党
+- FBI
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《2025年在校大学生消费行为研究》
+- 《华尔街日报》
+- 《彭博社》
+- 《经济学人》
+- 《路透社》
+people:
+- Donald Trump
+- Xi Jinping
+- 卢特尼克
+- Steven Mnuchin
+- 李成刚
+- Kash Patel
+- J.D. Vance
+- Marco Rubio
+- 何立峰
+products_models:
+- 芬太尼
+- 稀土
+- 大豆
+- T-talk
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=m-kCN3XgkPE
 speaker: LT視界
-tags:
-  - us-china-trade
-  - geopolitical-strategy
-  - chinese-economic-challenges
-  - trade-negotiations
-  - political-analysis
-title: 川习会：超预期妥协下的中美贸易博弈与中国经济挑战
-summary: 本期节目深入探讨了当前中国经济面临的多重挑战，包括大学生消费数据折射出的中低收入阶层消费乏力，以及惠誉报告揭示的房地产危机持续深化对银行资产质量的压力。同时，节目详细分析了川普与习近平会晤前中美双方在关税、芬太尼、大豆等问题上的超预期妥协，并引用《华尔街日报》、《彭博社》和《经济学人》的观点，剖析了此次贸易协议背后的复杂意图与长期影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - 卢特尼克
-  - Steven Mnuchin
-  - 李成刚
-  - Kash Patel
-  - J.D. Vance
-  - Marco Rubio
-  - 何立峰
-companies_orgs:
-  - 迈克思
-  - 惠誉
-  - 中国国家统计局
-  - 彭博社
-  - 路透社
-  - 华尔街日报
-  - 经济学人
-  - 中国社科院
-  - 共和党
-  - FBI
-products_models:
-  - 芬太尼
-  - 稀土
-  - 大豆
-  - T-talk
-media_books:
-  - 《2025年在校大学生消费行为研究》
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《经济学人》
-  - 《路透社》
 status: evergreen
+summary: 本期节目深入探讨了当前中国经济面临的多重挑战，包括大学生消费数据折射出的中低收入阶层消费乏力，以及惠誉报告揭示的房地产危机持续深化对银行资产质量的压力。同时，节目详细分析了川普与习近平会晤前中美双方在关税、芬太尼、大豆等问题上的超预期妥协，并引用《华尔街日报》、《彭博社》和《经济学人》的观点，剖析了此次贸易协议背后的复杂意图与长期影响。
+tags:
+- economic
+- geopolitical-strategy
+- political
+- trade-negotiation
+- us-china-relations
+title: 川习会：超预期妥协下的中美贸易博弈与中国经济挑战
 ---
+
 ### 中国大学生消费报告：窥探宏观经济实况
 
 大家好，我们一起来分享今天的焦点与透视。今天是10月29日，我们首先分享中国第一财经的一篇报道，标题是“中国大学生每个月生活费1744元，月均网购7次”。这个信息在中国宏观经济数据不透明的情况下，提供了一个具体的角度，让外界了解中国的实际消费状况。

@@ -1,63 +1,62 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- Nvidia
+- OpenAI
+- Citron Research
+- Databricks
+- Snowflake
+- Tesla
+- Amazon
+- Microsoft
+- Google
+- Salesforce
+- Robinhood
+- Rocket Lab
+- Lowe's
+- Anduril
+- AWS
+- Azure
+- Google Cloud
+- TypeF Capital
+- Seeking Alpha
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CNBC
+people:
+- Alex Karp
+- Jensen Huang
+- Peter Thiel
+- Joe Lonsdale
+- Dan Ives
+- Mariana Mazzucato
+- Tom Lee
+products_models:
+- AIP
+- FedStart
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=699dlegnx30
 speaker: Amit Kukreja
-tags:
-  - hyper-growth-valuation
-  - saas-metrics
-  - strategic-partnerships
-  - capital-allocation
-  - market-perception
-title: Palantir股价突破200美元：高速增长下的估值迷思与未来展望
-summary: 随着Palantir股价历史性地突破200美元，其分析节目“Palantir Weekly”的创作者们探讨了公司进入成熟期后的新常态。本期内容深入分析了为何传统的估值指标（如市盈率）对Palantir这样的高增长公司不再适用，并展望了即将发布的财报。讨论还聚焦于与Nvidia的战略合作对企业AI格局的深远影响，以及公司应如何利用其超过60亿美元的现金储备。最后，创作者们回顾了这段独特的投资旅程，认为这是一次“一生一遇”的经历。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Amit Kukreja
-  - Alex Karp
-  - Jensen Huang
-  - Peter Thiel
-  - Joe Lonsdale
-  - Dan Ives
-  - Mariana Mazzucato
-  - Tom Lee
-companies_orgs:
-  - Palantir
-  - Nvidia
-  - OpenAI
-  - Citron Research
-  - Databricks
-  - Snowflake
-  - Tesla
-  - Amazon
-  - Microsoft
-  - Google
-  - Salesforce
-  - Robinhood
-  - Rocket Lab
-  - Lowe's
-  - Anduril
-  - AWS
-  - Azure
-  - Google Cloud
-  - TypeF Capital
-  - Seeking Alpha
-products_models:
-  - AIP
-  - FedStart
-media_books:
-  - CNBC
 status: evergreen
+summary: 随着Palantir股价历史性地突破200美元，其分析节目“Palantir Weekly”的创作者们探讨了公司进入成熟期后的新常态。本期内容深入分析了为何传统的估值指标（如市盈率）对Palantir这样的高增长公司不再适用，并展望了即将发布的财报。讨论还聚焦于与Nvidia的战略合作对企业AI格局的深远影响，以及公司应如何利用其超过60亿美元的现金储备。最后，创作者们回顾了这段独特的投资旅程，认为这是一次“一生一遇”的经历。
+tags:
+- business
+- capital-allocation
+- financial
+- growth
+- market
+title: Palantir股价突破200美元：高速增长下的估值迷思与未来展望
 ---
+
 ### Palantir Weekly 的演变：从每周更新到季度回顾
 
 Amit: 大家好，欢迎回到新一期的 Palantir Weekly。我们已经有一段时间没做这个节目了。Arie 今天来不了，我甚至不确定 Amir 是否能赶到。他说他会来，但他住在地球的另一端，考虑到时差，他可能真的来不了。

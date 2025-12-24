@@ -1,32 +1,30 @@
 ---
-title: 2025年彭博屏幕时间：娱乐产业的未来挑战与机遇
-summary: 彭博屏幕时间汇集娱乐产业领袖，探讨好莱坞未来、流媒体竞争、AI影响及创新策略，洞察派拉蒙、华纳兄弟与Netflix的转型之路。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-in-creative-industry
-- entertainment-industry
-- hollywood-future
-- netflix-strategy
-- streaming-wars
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-11'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=-6-Brq13sB8
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 彭博屏幕时间汇集娱乐产业领袖，探讨好莱坞未来、流媒体竞争、AI影响及创新策略，洞察派拉蒙、华纳兄弟与Netflix的转型之路。
+tags:
+- future
+- industry
+- strategy
+- war
+title: 2025年彭博屏幕时间：娱乐产业的未来挑战与机遇
 ---
+
 ### 彭博屏幕时间：洞察娱乐产业前沿
 
 《彭博商业周刊》日报的特别版聚焦于近期在洛杉矶举行的“彭博屏幕时间”活动，该活动汇集了定义流行文化下一阶段的大亨、名人和企业家。会议深入讨论了好莱坞电影公司的未来、体育和现场音乐的繁荣，以及人工智能（AI）对创意产业的深远影响。与会者包括演员、制片厂负责人、投资者乃至深夜节目主持人，共同探讨了在复杂多变的经济环境中，如何洞察影响当今娱乐产业的人物、公司和趋势。

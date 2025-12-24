@@ -1,39 +1,37 @@
 ---
-author: 王红雨
+area: society-systems
+category: finance
+companies_orgs:
+- 加拿大六大银行
 date: '2025-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Gottfried Wilhelm Leibniz
+- Bai Juyi
+- Ray Dalio
+products_models: []
+project:
+- investment-strategy
+- personal-growth-lab
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=pbsEURI2vP4
 speaker: 王红雨
-tags:
-  - mortgage-application
-  - credit-score
-  - personal-debt
-  - income-verification
-  - housing-market
-  - rent-vs-buy
-title: 加拿大房贷申请避坑指南：信用、债务、收入与房产选择的关键考量
-summary: 本文深入探讨了在加拿大申请房贷时常见的误区，以及如何避免银行拒绝贷款。内容涵盖了维护良好信用记录、管理个人债务、有效证明收入来源，以及识别银行不接受的房产类型等关键环节。此外，文章还探讨了租房与买房的社会经济背景、不同群体的置业观念，并强调了理性计算和充分准备在个人财务决策中的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-  - market-cycles
-people:
-  - 王红雨
-  - Gottfried Wilhelm Leibniz
-  - Bai Juyi
-  - Ray Dalio
-companies_orgs:
-  - 加拿大六大银行
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了在加拿大申请房贷时常见的误区，以及如何避免银行拒绝贷款。内容涵盖了维护良好信用记录、管理个人债务、有效证明收入来源，以及识别银行不接受的房产类型等关键环节。此外，文章还探讨了租房与买房的社会经济背景、不同群体的置业观念，并强调了理性计算和充分准备在个人财务决策中的重要性。
+tags:
+- code
+- credit
+- debt
+- housing-market
+- income
+- rent-vs-buy
+title: 加拿大房贷申请避坑指南：信用、债务、收入与房产选择的关键考量
 ---
+
 ### 加拿大房贷申请：背景与常见误区概览
 
 随着房贷利率降至4%，申请房贷预批的人数开始增多。然而，一时兴起想买房的朋友，可能会在申请过程中遇到一些意想不到的问题。大家好，欢迎再次回到我的频道。今天是2025年11月2号。今天我们来聊聊房贷预批的一些问题。我将今天的话题分为五个小题目：如果你不想获得贷款，如何搞砸自己的信用记录？如果你不想获得贷款，如何背负足够多的沉重个人债务？如果你不想申请到贷款，如何让收入难以证明？第四个是如果你不想拿到银行的贷款，如何精挑细选那些银行不接受的房产？最后总结一下，长安居大不易，每个人都不容易。

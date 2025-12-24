@@ -1,60 +1,60 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国出口信用保险公司
+- QQ
+- 哈马斯
+- 真主党
+- 北约
+- MP Materials
+- Novial Magnetics
+- Lynas
+- 中央纪律检查委员会
+- 万达集团
+- 成功百货连锁
+- 解放军
+- 台湾海巡署
+- 全球渔业观察组织
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 华尔街日报
+- CSIS战略与国际研究中心
+- 经济学人
+- 亚洲协会政策研究所
+people:
+- Xi Jinping
+- 金正恩
+- 王健林
+- 于法新
+- 朱江南
+- 利兹里
+- Donald Trump
+products_models:
+- F-35战机
+- 维吉尼亚级核潜艇
+project:
+- china-analysis
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=lyhnNVdlG_k
 speaker: FearNation 世界苦茶
-tags:
-  - sanctions-evasion
-  - rare-earth-weaponization
-  - gray-zone-tactics
-  - entrepreneurial-confidence
-  - geopolitical-risk
-title: 中国地缘政治与经济挑战：规避制裁、稀土武器化与企业家困境
-summary: 本期节目深入分析了中国在全球地缘政治和经济领域的多个关键议题。内容涵盖中国如何通过秘密支付系统规避美国对伊朗的制裁，以及美国在台湾问题上可能存在的自满情绪。同时，节目还探讨了中国将稀土作为战略武器，对美国国防供应链构成威胁，并揭示了中国企业家在当前高压环境下所面临的制度性困境。文章通过数据分析和案例研究，展现了中国在灰色地带行动、军民融合战略以及国家权力对商业领域渗透的复杂图景。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - 习近平
-  - 金正恩
-  - 王健林
-  - 于法新
-  - 朱江南
-  - 利兹里
-  - Donald Trump
-companies_orgs:
-  - 中国出口信用保险公司
-  - QQ
-  - 哈马斯
-  - 真主党
-  - 北约
-  - MP Materials
-  - Novial Magnetics
-  - Lynas
-  - 中央纪律检查委员会
-  - 万达集团
-  - 成功百货连锁
-  - 解放军
-  - 台湾海巡署
-  - 全球渔业观察组织
-products_models:
-  - F-35战机
-  - 维吉尼亚级核潜艇
-media_books:
-  - 华尔街日报
-  - CSIS战略与国际研究中心
-  - 经济学人
-  - 亚洲协会政策研究所
 status: evergreen
+summary: 本期节目深入分析了中国在全球地缘政治和经济领域的多个关键议题。内容涵盖中国如何通过秘密支付系统规避美国对伊朗的制裁，以及美国在台湾问题上可能存在的自满情绪。同时，节目还探讨了中国将稀土作为战略武器，对美国国防供应链构成威胁，并揭示了中国企业家在当前高压环境下所面临的制度性困境。文章通过数据分析和案例研究，展现了中国在灰色地带行动、军民融合战略以及国家权力对商业领域渗透的复杂图景。
+tags:
+- geopolitical
+- geopolitical-risk
+- psychology
+- rare-earth-weaponization
+- technology
+title: 中国地缘政治与经济挑战：规避制裁、稀土武器化与企业家困境
 ---
+
 ### 中国秘密规避美国对伊朗制裁的支付系统
 
 《华尔街日报》的一篇文章揭示了在全球金融体系的眼皮底下，中国如何精心构建了一套隐蔽的支付系统，以绕开美国对伊朗的严厉制裁。这篇文章的核心观点非常明确：中国不再仅仅是伊朗石油的一个大买家，而是建立了一个独立于国际银行体系之外的、类似以物易物的资金闭环。

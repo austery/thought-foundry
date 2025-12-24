@@ -1,41 +1,40 @@
 ---
-author: Anthropic
+area: tech-insights
+category: technology
+companies_orgs:
+- Anthropic
+- Linux Foundation
+- Google
+- Microsoft
+- Amazon
+- Bloomberg
+- Block
+- Cloudflare
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Sacks
+products_models:
+- Claude
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=PLyCki2K0Lg
 speaker: Anthropic
-tags:
-  - model-context-protocol
-  - open-source
-  - linux-foundation
-  - ai-integration
-  - tool-calling
-title: 模型上下文协议（MCP）：Anthropic 如何构建并捐赠一项开放AI集成标准
-summary: 本文深入探讨了Anthropic推出的模型上下文协议（MCP），一项旨在促进大型语言模型与各类软件及硬件集成的开源标准。文章详细介绍了MCP的起源、发展历程、其作为开放科学和标准化协议的独特之处，以及Anthropic将其捐赠给Linux基金会的意义。同时，也讨论了MCP面临的安全挑战、上下文膨胀问题，并展望了其未来发展方向，强调了开放社区协作在推动AI技术进步中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - David Sacks
-companies_orgs:
-  - Anthropic
-  - Linux Foundation
-  - Google
-  - Microsoft
-  - Amazon
-  - Bloomberg
-  - Block
-  - Cloudflare
-products_models:
-  - Claude
-media_books: []
 status: evergreen
+summary: 本文深入探讨了Anthropic推出的模型上下文协议（MCP），一项旨在促进大型语言模型与各类软件及硬件集成的开源标准。文章详细介绍了MCP的起源、发展历程、其作为开放科学和标准化协议的独特之处，以及Anthropic将其捐赠给Linux基金会的意义。同时，也讨论了MCP面临的安全挑战、上下文膨胀问题，并展望了其未来发展方向，强调了开放社区协作在推动AI技术进步中的关键作用。
+tags:
+- code
+- integration
+- model
+- open-source
+- tool
+title: 模型上下文协议（MCP）：Anthropic 如何构建并捐赠一项开放AI集成标准
 ---
+
 ### 模型上下文协议（MCP）的诞生与愿景
 
 大型语言模型（LLMs）能够生成文本，但我们期望它们能超越此功能，在现实世界中发挥更大的作用。这意味着需要将它们与我们日常使用的各种软件和硬件连接起来。模型上下文协议（MCP）正是为了实现这一目标而开发的开源标准，它由Anthropic开发并于今日宣布捐赠给Linux基金会。

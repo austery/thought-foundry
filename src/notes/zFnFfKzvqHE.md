@@ -1,44 +1,44 @@
 ---
-author: 天下文化
+area: society-systems
+category: psychology
+companies_orgs:
+- 天下文化
+- Meta
+- 哈佛
+- Bridgewater
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《静心的力量》
+- 《转念的力量》
+- 《回家》
+- 《对话领导力》
+people:
+- 赖佩霞
+- 梁晓华
+- 杨定一
+- David Hawkins
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=zFnFfKzvqHE
 speaker: 天下文化
-tags:
-  - mindfulness
-  - self-leadership
-  - mental-wellbeing
-  - societal-anxiety
-  - digital-impact
-title: 静心：在混乱中找到秩序，领导自我与团队
-summary: 《对话领导力》节目邀请总裁教练赖佩霞老师，探讨在当前社会普遍焦虑、信息过载的背景下，高阶经理人如何通过“静心”实现身心安顿、清晰思考和稳定决策。赖老师分享了她四十年的静心经验，强调静心是认识自我、活出独特本真的关键，并呼吁领导者通过自我关照，带领团队走向共好。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 赖佩霞
-  - 梁晓华
-  - 杨定一
-  - David Hawkins
-companies_orgs:
-  - 天下文化
-  - Facebook
-  - 哈佛
-  - Bridgewater
-products_models: []
-media_books:
-  - 《静心的力量》
-  - 《转念的力量》
-  - 《回家》
-  - 《对话领导力》
 status: evergreen
+summary: 《对话领导力》节目邀请总裁教练赖佩霞老师，探讨在当前社会普遍焦虑、信息过载的背景下，高阶经理人如何通过“静心”实现身心安顿、清晰思考和稳定决策。赖老师分享了她四十年的静心经验，强调静心是认识自我、活出独特本真的关键，并呼吁领导者通过自我关照，带领团队走向共好。
+tags:
+- impact
+- mindfulnes
+- self-leadership
+- societal
+- society
+title: 静心：在混乱中找到秩序，领导自我与团队
 ---
+
 ### 开场：身心安顿的时代需求
 
 **梁晓华:** 欢迎收听《对话领导力》，我是主持人梁晓华。大家可能注意到我们最近的节目呢，有一点点走向变了，就是有一点点偏**身心灵**（Mind-Body-Spirit: 关注身体、心理和精神层面的整体健康与成长）。为什么呢？因为我们这断时间采访了很多的**高阶经理人**（High-Level Managers: 在组织中担任高级管理职务，负责战略规划和决策的专业人士），本来是要了解大家的一些学习啊、工作上的一些需求，就没有想到每一个人到最后都跟我讲说，哇，这个时候要**身心安顿**（Mind-Body Tranquility: 指身心处于平静、稳定、和谐的状态）非常的困难。所以这一次呢，我们为大家邀请到的是赖佩霞老师，她现在是名作家，然后也是一个号称“总裁教练”。佩霞老师，我们跟观众朋友打声招呼。

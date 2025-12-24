@@ -1,47 +1,47 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- U.S. Bureau of Labor Statistics
+- White House
+- Supreme Court
+- Hamas
+- Carnegie Endowment for International Peace
+- Truth Social
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- The Wall Street Journal
+- Reuters
+people:
+- Donald Trump
+- Vladimir Putin
+- Benjamin Netanyahu
+- Ronald Reagan
+- J.D. Vance
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=FUkQpOipBLA
 speaker: LT視界
-tags:
-  - us-economic-policy
-  - trade-tariffs
-  - middle-east-conflict
-  - russia-sanctions
-  - presidential-decision-making
-title: 川普为何再掀桌子？美联储降息路径与国际局势深度解析
-summary: 本期节目深入分析了美国经济数据、美联储降息预期、川普政府与加拿大、以色列及俄罗斯之间的最新外交冲突。内容涵盖美国通胀数据疲软对降息的影响、川普因关税广告终止与加拿大贸易谈判的深层原因、美国副总统万斯对以色列吞并约旦河西岸投票的谴责，以及川普对俄罗斯实施严厉制裁背后的决策考量，揭示了当前复杂多变的国际政治经济格局。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Vladimir Putin
-  - Benjamin Netanyahu
-  - Ronald Reagan
-  - J.D. Vance
-companies_orgs:
-  - Federal Reserve
-  - U.S. Bureau of Labor Statistics
-  - White House
-  - Supreme Court
-  - Hamas
-  - Carnegie Endowment for International Peace
-  - Truth Social
-products_models: []
-media_books:
-  - Bloomberg
-  - The Wall Street Journal
-  - Reuters
 status: evergreen
+summary: 本期节目深入分析了美国经济数据、美联储降息预期、川普政府与加拿大、以色列及俄罗斯之间的最新外交冲突。内容涵盖美国通胀数据疲软对降息的影响、川普因关税广告终止与加拿大贸易谈判的深层原因、美国副总统万斯对以色列吞并约旦河西岸投票的谴责，以及川普对俄罗斯实施严厉制裁背后的决策考量，揭示了当前复杂多变的国际政治经济格局。
+tags:
+- conflict
+- geopolitical
+- presidential-decision-making
+- trade-tariff
+- us-economic-policy
+title: 川普为何再掀桌子？美联储降息路径与国际局势深度解析
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月24日。根据许多网友的建议和要求，从今天开始，我们会把这个节目分成两个专栏分别发布。
 
 ### 频道栏目调整说明

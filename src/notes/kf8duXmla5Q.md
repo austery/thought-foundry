@@ -1,35 +1,34 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs: []
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《寻录集》
+people:
+- 周其仁
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=kf8duXmla5Q
 speaker: 海淀拙大叔
-tags:
-  - market-style-shift
-  - economic-indicators
-  - valuation-gravity
-  - investment-philosophy
-  - monetary-policy
-title: 资本市场风格转变：经济指标与投资策略深度解析
-summary: 本文深入探讨了当前资本市场出现的风格转变，即从科技股转向传统行业资产的现象。文章指出，这种转变的深层逻辑在于资产估值的地心引力以及宏观经济指标的持续好转。通过分析M1、M1-M2剪刀差、PMI、PPI和CPI等关键经济数据，论证了股市与实体经济的高度关联性。最后，提出了“投资三看”的理念，并推荐了周其仁老师的《寻录集》，强调提升认知高度对投资成功的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - china-analysis
-people:
-  - 周其仁
-companies_orgs: []
-products_models: []
-media_books:
-  - 《寻录集》
 status: evergreen
+summary: 本文深入探讨了当前资本市场出现的风格转变，即从科技股转向传统行业资产的现象。文章指出，这种转变的深层逻辑在于资产估值的地心引力以及宏观经济指标的持续好转。通过分析M1、M1-M2剪刀差、PMI、PPI和CPI等关键经济数据，论证了股市与实体经济的高度关联性。最后，提出了“投资三看”的理念，并推荐了周其仁老师的《寻录集》，强调提升认知高度对投资成功的重要性。
+tags:
+- economic-indicator
+- investment-philosophy
+- market
+- valuation
+title: 资本市场风格转变：经济指标与投资策略深度解析
 ---
+
 ### 市场风格的转变与牛市展望
 
 在阿甘资本市场论的第25集中，我们探讨了当前市场出现的“风格转变”现象。回顾9月7日第24篇的观点，当时我们认为牛市的基础依然存在，顶部尚远，无需过度慌张，只有当成交量达到10万亿时才可能触及顶部。急跌慢涨是牛市的典型特征，不必担忧。然而，牛市每次调整之后，都会出现风格转变。9月份我们曾预言风格将发生转变，如今看来，这一预言已得到印证：以科技股为代表的“小灯资产”表现不佳，而传统行业的“老灯资产”则重新崛起。因此，对于投资者而言，均衡配置是跟随牛市走得更远的关键，必须顺势而为。

@@ -1,68 +1,67 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Gavekal Dragonomics
+- TSMC
+- General Motors
+- VW
+- Toyota
+- Honda
+- BYD
+- Tesla
+- Kleiner Perkins
+- MITI
+- Huawei
+- ByteDance
+- Xiaomi
+- Alibaba
+- Tencent
+- CATL
+- Solyndra
+- IMF
+- 美国疾病控制与预防中心
+- 国家开发银行
+- 中芯国际
+- 北约
+- 华沙条约组织
 date: '2025-06-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中国的经济：每个人都需要知道什么》
+- 《冒险经济》
+people:
+- Arthur Kroeber
+- Victor Shih
+- Thomas Schelling
+- John Doerr
+- Deng Xiaoping
+- Xi Jinping
+- Donald Trump
+- Joe Biden
+- Amar Bhidé
+products_models:
+- H100
+project:
+- ai-impact-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=qb644F-iE_s
 speaker: Dwarkesh Patel
-tags:
-  - industrial-policy
-  - us-china-relations
-  - ai-competition
-  - economic-growth
-  - electrification
-title: 中国制造业主导地位的深层原因与中美关系展望
-summary: 本播客采访了Gavekal Dragonomics创始人Arthur Kroeber，深入探讨了中国经济崛起对全球的影响。他分析了中国工业政策的成功之道，特别是电动汽车和可再生能源领域，以及其与美国在AI和技术竞争中的独特优势。Kroeber还讨论了中美两国在政治体制、经济模式和沟通机制上的根本差异，并强调了建立务实共存关系的重要性，而非陷入零和博弈的极端叙事。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-  - china-analysis
-people:
-  - Arthur Kroeber
-  - Dwarkesh Patel
-  - Victor Shih
-  - Thomas Schelling
-  - John Doerr
-  - Deng Xiaoping
-  - Xi Jinping
-  - Donald Trump
-  - Joe Biden
-  - Amar Bhidé
-companies_orgs:
-  - Gavekal Dragonomics
-  - TSMC
-  - General Motors
-  - VW
-  - Toyota
-  - Honda
-  - BYD
-  - Tesla
-  - Kleiner Perkins
-  - MITI
-  - Huawei
-  - ByteDance
-  - Xiaomi
-  - Alibaba
-  - Tencent
-  - CATL
-  - Solyndra
-  - IMF
-  - 美国疾病控制与预防中心
-  - 国家开发银行
-  - 中芯国际
-  - 北约
-  - 华沙条约组织
-products_models:
-  - H100
-media_books:
-  - 《中国的经济：每个人都需要知道什么》
-  - 《冒险经济》
 status: evergreen
+summary: 本播客采访了Gavekal Dragonomics创始人Arthur Kroeber，深入探讨了中国经济崛起对全球的影响。他分析了中国工业政策的成功之道，特别是电动汽车和可再生能源领域，以及其与美国在AI和技术竞争中的独特优势。Kroeber还讨论了中美两国在政治体制、经济模式和沟通机制上的根本差异，并强调了建立务实共存关系的重要性，而非陷入零和博弈的极端叙事。
+tags:
+- ai-competition
+- economic-growth
+- electrification
+- industrial-policy
+- us-china-relations
+title: 中国制造业主导地位的深层原因与中美关系展望
 ---
+
 今天，我采访了**Gavekal Dragonomics**（一家专注于中国研究的咨询公司）的创始人**Arthur Kroeber**，他也是**《中国的经济：每个人都需要知道什么》**（China’s Economy: What Everyone Needs to Know）一书的作者。我在中国时，一位朋友向我推荐了这本书，它成为了我理解中国运作方式最有价值和最有用的资源。**Arthur**，感谢您来到播客并抽出时间与我交流。很高兴来到这里，谢谢。
 
 ### 中国经济崛起的问题

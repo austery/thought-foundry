@@ -1,33 +1,31 @@
 ---
-title: NTR与绿帽癖的深层心理学：揭秘羞辱与被羞辱的快感机制
-summary: 本文深入剖析了NTR（性幻想中的第三者/绿帽）爱好者背后的心理结构，探讨了这种看似屈辱的幻想如何满足了个体的深层欲望。文章结合拉康精神分析理论，解释了语言、符号秩序如何带来创伤性“阉割”，以及当个体在僵化符号秩序中受挫时，此类幻想如何成为一种替代性的、主动选择的“失败”策略，从而实现对焦虑和无力感的掌控。
-category: psychology
 area: personal-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Jacques Lacan
-tags:
-- ntr
-- 创伤与补偿
-- 拉康
-- 精神分析
-- 绿帽癖
+category: psychology
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-06'
-author: Anthony看世界
-speaker: Anthony看世界
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- Jacques Lacan
+- 拉康
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=8L9g2KRaZRY
+speaker: Anthony看世界
 status: evergreen
+summary: 本文深入剖析了NTR（性幻想中的第三者/绿帽）爱好者背后的心理结构，探讨了这种看似屈辱的幻想如何满足了个体的深层欲望。文章结合拉康精神分析理论，解释了语言、符号秩序如何带来创伤性“阉割”，以及当个体在僵化符号秩序中受挫时，此类幻想如何成为一种替代性的、主动选择的“失败”策略，从而实现对焦虑和无力感的掌控。
+tags:
+- ntr
+- psychology
+- 绿帽癖
+title: NTR与绿帽癖的深层心理学：揭秘羞辱与被羞辱的快感机制
 ---
+
 ### 继续探讨NTR与绿帽癖的深层心理学
 
 Hello everyone, I'm Anthony

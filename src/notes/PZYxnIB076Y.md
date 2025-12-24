@@ -1,64 +1,63 @@
 ---
-author: 一口新飯
+area: market-analysis
+category: business
+companies_orgs:
+- Tesla
+- Waymo
+- Google
+- Interactive Brokers
+- Chase
+- Uber
+- Anthropic
+- Luminar
+- NHTSA
+- Y Combinator
 date: '2025-06-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Master Plan, Part Deux
+- MoneyXYZ
+people:
+- Elon Musk
+- Dave Lee
+- Peter Thiel
+- Charles Qi
+- Andrew Karpathy
+- Donald Trump
+- Cathie Wood
+products_models:
+- Robotaxi
+- FSD (Full Self-Driving)
+- Supervised FSD
+- Cybercab
+- Autopilot
+- Hardware 3
+- Hardware 4
+- AI-5
+- Dojo
+- ChatGPT
+- Grok
+- Claude
+- Waymo One
+project:
+- us-analysis
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=PZYxnIB076Y
 speaker: 一口新飯
-tags:
-  - autonomous-driving
-  - scaling-laws
-  - business-model-validation
-  - geofencing-strategy
-  - end-to-end-ai
-title: 亲身体验特斯拉Robotaxi：技术、运营与Waymo的深度对决
-summary: 作为特斯拉长期投资者，作者亲赴奥斯汀体验Robotaxi首日运营。通过与前特斯拉工程师的对话，文章深入探讨了Robotaxi的技术实现、与Waymo在路线上的根本差异，以及运营模式的重要性。作者认为，特斯拉已找到实现规模化的正确路径，Robotaxi服务将开启其第二条增长曲线，使其朝着成为世界上市值最高的公司迈进。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Elon Musk
-  - Dave Lee
-  - Peter Thiel
-  - Charles Qi
-  - Andrew Karpathy
-  - Donald Trump
-  - Cathie Wood
-companies_orgs:
-  - Tesla
-  - Waymo
-  - Google
-  - Interactive Brokers
-  - Chase
-  - Uber
-  - Anthropic
-  - Luminar
-  - NHTSA
-  - Y Combinator
-products_models:
-  - Robotaxi
-  - FSD (Full Self-Driving)
-  - Supervised FSD
-  - Cybercab
-  - Autopilot
-  - Hardware 3
-  - Hardware 4
-  - AI-5
-  - Dojo
-  - ChatGPT
-  - Grok
-  - Claude
-  - Waymo One
-media_books:
-  - Master Plan, Part Deux
-  - MoneyXYZ
 status: evergreen
+summary: 作为特斯拉长期投资者，作者亲赴奥斯汀体验Robotaxi首日运营。通过与前特斯拉工程师的对话，文章深入探讨了Robotaxi的技术实现、与Waymo在路线上的根本差异，以及运营模式的重要性。作者认为，特斯拉已找到实现规模化的正确路径，Robotaxi服务将开启其第二条增长曲线，使其朝着成为世界上市值最高的公司迈进。
+tags:
+- autonomous-driving
+- business-model-validation
+- llm
+- scaling-law
+- strategy
+title: 亲身体验特斯拉Robotaxi：技术、运营与Waymo的深度对决
 ---
 
 ### 引言：为何一次20分钟的打车体验价值2000美金？

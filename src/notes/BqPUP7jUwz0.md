@@ -1,44 +1,44 @@
 ---
-author: 政經孫老師
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Politico
+- Duke University
+- 美联储
+- 联合国
+- 美国最高法院
 date: '2025-02-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《美洲季刊》
+- 《外交事務》
+people:
+- James Monroe
+- Timothy Meyer
+- Vladimir Putin
+- Volodymyr Zelenskyy
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=BqPUP7jUwz0
 speaker: 政經孫老師
-tags:
-  - us-foreign-policy
-  - trade-tariffs
-  - transactional-diplomacy
-  - east-asia-geopolitics
-  - us-china-relations
-title: 川普新政下的東亞格局：關稅、外交與權力重塑
-summary: 本文深入分析川普政府外交政策對東亞地區的影響，特別聚焦於關稅策略與交易式外交。文章指出，川普的關稅政策不僅針對中國，更以經濟賬為標準，旨在保護美國本土產業並作為對內對外的政治籌碼。在外交層面，川普將亞洲視為可交換利益的邊緣地區，推行交易式外交，這對包括中國、台灣在內的東亞各國關係產生深遠影響。最終，川普的策略可能導致美俄關係改善，進而重塑亞洲權力格局，帶來短期穩定與長期動盪並存的局面。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - James Monroe
-  - Timothy Meyer
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-companies_orgs:
-  - Politico
-  - Duke University
-  - 美联储
-  - 联合国
-  - 美国最高法院
-products_models: []
-media_books:
-  - 《美洲季刊》
-  - 《外交事務》
 status: evergreen
+summary: 本文深入分析川普政府外交政策對東亞地區的影響，特別聚焦於關稅策略與交易式外交。文章指出，川普的關稅政策不僅針對中國，更以經濟賬為標準，旨在保護美國本土產業並作為對內對外的政治籌碼。在外交層面，川普將亞洲視為可交換利益的邊緣地區，推行交易式外交，這對包括中國、台灣在內的東亞各國關係產生深遠影響。最終，川普的策略可能導致美俄關係改善，進而重塑亞洲權力格局，帶來短期穩定與長期動盪並存的局面。
+tags:
+- diplomacy
+- llm
+- trade-tariff
+- us-china-relations
+- us-foreign-policy
+title: 川普新政下的東亞格局：關稅、外交與權力重塑
 ---
+
 ### 川普外交政策對亞洲的影響概述
 
 大家好，今天我們來探討一個大家都關心的問題，那就是川普的外交政策，特別是其對亞洲地區，尤其是中國周邊國家，會產生什麼樣的影響。這個話題具有很強的現實意義，因為本節目主要面向華語觀眾，而華語觀眾主要居住在東亞和東南亞地區。因此，川普的亞洲政策將直接影響到這些地區的利益。我將從關稅和外交政策兩部分來闡述這個現實問題。

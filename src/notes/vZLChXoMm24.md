@@ -1,72 +1,72 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: psychology
+companies_orgs:
+- Apple
+- BlackBerry
+- IBM
+- Pixar
+- NASA
+- Ku Klux Klan
+- Columbia University
+- Bill Gates Foundation
+- Harvard University
+- Wharton School of Business
+- National Taiwan University
+- OECD
 date: '2024-02-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《逆思維》
+- 《超人总动员》
+- 《超人总动员2》
+people:
+- Adam Grant
+- Csikszentmihalyi
+- Mike Lazaridis
+- Steve Jobs
+- David Dunning
+- Justin Kruger
+- Russell
+- Halla Tómasdóttir
+- David Oddsson
+- Ted Kaczynski
+- Andrew Lyne
+- Brad Bird
+- Neil Rackham
+- Harish Natarajan
+- Jeffrey Ashby
+- Daryl Davis
+- Peter Coleman
+- Daniel Goleman
+- Jordan Peterson
+- Robert Nozick
+- Jimmy Kimmel
+- Elizabeth Olsen
+- Samuel Jackson
+- Anderson Cooper
+products_models:
+- iPod
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=vZLChXoMm24
 speaker: 超級歪 SuperY
-tags:
-  - rethinking
-  - cognitive-bias
-  - communication-skills
-  - psychological-safety
-  - dunning-kruger-effect
-title: 《逆思維》：打破思维盲点，培养重新思考的心理学技巧
-summary: 本视频深入探讨了亚当·格兰特《逆思維》一书的核心理念，通过心理学视角，详细阐述了个人、人际和集体层面如何打破固有认知、挑战既有观点并激发重新思考。内容涵盖认知弹性、达克效应、确认偏误、异议网络、共识建立、以及如何应对二元偏误和建立心理安全等关键技巧，旨在帮助读者提升沟通效率，促进社会进步。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Adam Grant
-  - Csikszentmihalyi
-  - Mike Lazaridis
-  - Steve Jobs
-  - David Dunning
-  - Justin Kruger
-  - Russell
-  - Halla Tómasdóttir
-  - David Oddsson
-  - Ted Kaczynski
-  - Andrew Lyne
-  - Brad Bird
-  - Neil Rackham
-  - Harish Natarajan
-  - Jeffrey Ashby
-  - Daryl Davis
-  - Peter Coleman
-  - Daniel Goleman
-  - Jordan Peterson
-  - Robert Nozick
-  - Jimmy Kimmel
-  - Elizabeth Olsen
-  - Samuel Jackson
-  - Anderson Cooper
-companies_orgs:
-  - Apple
-  - BlackBerry
-  - IBM
-  - Pixar
-  - NASA
-  - Ku Klux Klan
-  - Columbia University
-  - Bill Gates Foundation
-  - Harvard University
-  - Wharton School of Business
-  - National Taiwan University
-  - OECD
-products_models:
-  - iPod
-media_books:
-  - 《逆思維》
-  - 《超人总动员》
-  - 《超人总动员2》
 status: evergreen
+summary: 本视频深入探讨了亚当·格兰特《逆思維》一书的核心理念，通过心理学视角，详细阐述了个人、人际和集体层面如何打破固有认知、挑战既有观点并激发重新思考。内容涵盖认知弹性、达克效应、确认偏误、异议网络、共识建立、以及如何应对二元偏误和建立心理安全等关键技巧，旨在帮助读者提升沟通效率，促进社会进步。
+tags:
+- cognitive-bias
+- communication-skill
+- effect
+- rethinking
+- safety
+title: 《逆思維》：打破思维盲点，培养重新思考的心理学技巧
 ---
+
 ### 引言：在分歧中寻求共识
 
 在过去的几年里，我们是否注意到与持有不同意见的人在线上沟通变得越来越困难？无论是台湾总统选举中的歧视性言论，美国否认全球变暖的观点，还是地平说阴谋论，许多议题的沟通与辩论似乎总是陷入僵局。今天，我们将探讨《逆思維》这本书如何运用心理学打破既有认知，引导我们个人、他人乃至整个集体进行重新思考。这本书全球销量已达数百万册，作者亚当·格兰特（Adam Grant）是沃顿商学院的心理学家。我们将从个人、人际关系和集体三个层面来介绍。

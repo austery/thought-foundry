@@ -1,36 +1,35 @@
 ---
-title: 投资基金类型全解析：从ETF到基础设施基金
-summary: 本文深入探讨了多种投资基金类型，包括ETF、共同基金、私募股权、对冲基金、主权财富基金、养老基金、捐赠基金、家族办公室、投行资管、房地产基金、风险投资和信贷基金。文章详细阐述了每种基金的运作模式、盈利策略及其在金融生态系统中的独特作用，帮助读者全面理解不同投资工具的特点与差异。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-- asset-management
-- diversification
-- financial-products
-- investment-funds
-- investment-strategy
-people:
-- adam-s-axiom
+area: finance-wealth
+category: stock-investment
 companies_orgs:
 - Renaissance Technologies
 - Yale
-products_models:
-- Yale Model
-media_books:
-- Reddit
 date: '2024-12-30'
-author: Adam's Axiom
-speaker: Adam's Axiom
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- Reddit
+people:
+- adam-s-axiom
+products_models:
+- Yale Model
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=U6rWRagjA8I
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了多种投资基金类型，包括ETF、共同基金、私募股权、对冲基金、主权财富基金、养老基金、捐赠基金、家族办公室、投行资管、房地产基金、风险投资和信贷基金。文章详细阐述了每种基金的运作模式、盈利策略及其在金融生态系统中的独特作用，帮助读者全面理解不同投资工具的特点与差异。
+tags:
+- asset-management
+- diversification
+- financial
+- investment
+title: 投资基金类型全解析：从ETF到基础设施基金
 ---
+
 ### 欢迎来到ETF与共同基金的世界
 
 欢迎来到**ETF**（Exchange Traded Fund: 交易所交易基金）和**共同基金**（Mutual Fund: 由基金管理公司运营的集合投资工具）的世界，在这里，金融工程师们将您的退休梦想变成了易于消化的产品，甚至您的智能手机也能在TikTok视频的间隙为您提供服务。这些投资工具是华尔街对大规模生产的回应，它们从成千上万有抱负的沃伦·巴菲特那里募集资金，并像拥有无数手臂的农民一样，通过算法将其分散到各个市场。您可以将其想象成拥有一支量化分析师团队来管理您的资金，只不过其中一半是运行着奥巴马政府时期编写代码的真实机器人。

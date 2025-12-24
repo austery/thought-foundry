@@ -1,93 +1,94 @@
 ---
-author: 夸克说
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=oqeXx3q5d-I'
-speaker: 夸克说
-tags:
-  - scientific-ethics
-  - totalitarianism
-  - political-alignment
-  - conscience-vs-morality
-  - intellectual-responsibility
-title: 杨振宁：科学家的良知与政治站队
-summary: 本文深入探讨了物理学家杨振宁的生平与价值观，分析了科学与伦理、良知与道德之间的关系，并批判性审视了杨振宁在政治立场、学术争议及对中国科技发展贡献等方面的行为。文章强调了科学家在极权体制下保持独立思考和良知的重要性，并探讨了个人选择对社会和历史进程的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Chen-Ning Yang
-  - Qian Xuesen
-  - Deng Jiaxian
-  - Max Weber
-  - Hannah Arendt
-  - Tsung-Dao Lee
-  - Yang Wuzhi
-  - Shiing-Shen Chern
-  - Hua Luogeng
-  - Zhou Enlai
-  - Zhang Wenyu
-  - Yang Zhenhan
-  - Du Yuming
-  - J. Robert Oppenheimer
-  - Chien-Shiung Wu
-  - Richard Nixon
-  - Zheng Yuanjie
-  - Mao Zedong
-  - Rao Yutai
-  - Ye Qisun
-  - Wu Youxun
-  - Zhao Jiuzhang
-  - Yao Tongbin
-  - Qian Sanqiang
-  - Wang Ganchang
-  - Shi Yigong
-  - Andrew Yao
-  - Wang Xiaoyun
-  - Werner Heisenberg
-  - Carl Friedrich von Weizsäcker
-  - Albert Einstein
-  - Wang Yi
-  - Robert Mills
-  - Daniel Chee Tsui
-  - Wu Ningkun
-  - Shi Geng
-  - Li Shutong
+category: geopolitics
 companies_orgs:
-  - CCP
-  - Stanford University
-  - University of Chicago
-  - Institute for Advanced Study, Princeton
-  - New York University
-  - People's Daily
-  - Nankai University
-  - Tsinghua University
-  - Huadong Hospital
-  - United Front Work Department
-  - Apple Daily
-  - Kuomintang
-  - Columbia University
-products_models:
-  - Yang-Mills Gauge Theory
-  - Parity Non-conservation
-  - Free-Electron Laser Technology
-  - Electron-Positron Collider
+- CCP
+- Stanford University
+- University of Chicago
+- Institute for Advanced Study, Princeton
+- New York University
+- People's Daily
+- Nankai University
+- Tsinghua University
+- Huadong Hospital
+- United Front Work Department
+- Apple Daily
+- Kuomintang
+- Columbia University
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Economy and Society
-  - The Protestant Ethic and the Spirit of Capitalism
-  - A Giant in Human History
-  - Chinese Men
-  - Song of the Motherland
-  - Little Red Book
-  - Southern Metropolis Daily Interview
+- Economy and Society
+- The Protestant Ethic and the Spirit of Capitalism
+- A Giant in Human History
+- Chinese Men
+- Song of the Motherland
+- Little Red Book
+- Southern Metropolis Daily Interview
+people:
+- Chen-Ning Yang
+- Qian Xuesen
+- Deng Jiaxian
+- Max Weber
+- Hannah Arendt
+- Tsung-Dao Lee
+- Yang Wuzhi
+- Shiing-Shen Chern
+- Hua Luogeng
+- Zhou Enlai
+- Zhang Wenyu
+- Yang Zhenhan
+- Du Yuming
+- J. Robert Oppenheimer
+- Chien-Shiung Wu
+- Richard Nixon
+- Zheng Yuanjie
+- Mao Zedong
+- Rao Yutai
+- Ye Qisun
+- Wu Youxun
+- Zhao Jiuzhang
+- Yao Tongbin
+- Qian Sanqiang
+- Wang Ganchang
+- Shi Yigong
+- Andrew Yao
+- Wang Xiaoyun
+- Werner Heisenberg
+- Carl Friedrich von Weizsäcker
+- Albert Einstein
+- Wang Yi
+- Robert Mills
+- Daniel Chee Tsui
+- Wu Ningkun
+- Shi Geng
+- Li Shutong
+products_models:
+- Yang-Mills Gauge Theory
+- Parity Non-conservation
+- Free-Electron Laser Technology
+- Electron-Positron Collider
+project:
+- china-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=oqeXx3q5d-I
+speaker: 夸克说
 status: evergreen
+summary: 本文深入探讨了物理学家杨振宁的生平与价值观，分析了科学与伦理、良知与道德之间的关系，并批判性审视了杨振宁在政治立场、学术争议及对中国科技发展贡献等方面的行为。文章强调了科学家在极权体制下保持独立思考和良知的重要性，并探讨了个人选择对社会和历史进程的深远影响。
+tags:
+- ethics
+- political
+- science
+- totalitarianism
+title: 杨振宁：科学家的良知与政治站队
+companies:
+- intellectual-responsibility
 ---
+
 ### 引言：对杨振宁的评价与核心议题
 
 大家好，欢迎收看夸克说，我是夸克。前两天，103岁的**杨振宁**（Chen-Ning Yang: 著名物理学家，诺贝尔物理学奖获得者）去世了。大家可能留意到，我在讲述他的死讯时，用了最基础的叙述方式：没有一堆头衔，没有任何尊称，也没有使用“去世”、“过世”、“仙游”一类较为婉转的说法，就是“某某某死了”。这基本上代表了我对他的态度，也是我对包括**钱学森**（Qian Xuesen: 著名科学家，中国导弹之父）和**邓稼先**（Deng Jiaxian: 著名核物理学家，中国核武器研制者）等一批在**中共**（Chinese Communist Party: 中国执政党）叙事中被极力推崇、褒扬乃至捧上神坛的理工科领域学者们的态度。接下来，我将分成两部分来解释为何我持有这样的态度。前半部分，我将尝试探讨科学与伦理、科学家的个人良知与研究工作之间的关系。节目的后半段，我将应部分网友的要求，仔细讲述杨振宁都做了些什么，然后您可以自行判断我是否应该鄙视他。

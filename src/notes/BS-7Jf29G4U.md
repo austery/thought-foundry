@@ -1,32 +1,31 @@
 ---
-title: 加沙未来、特朗普新政与全球挑战：多维新闻速览
-summary: 本期节目涵盖了加沙和平计划的复杂性、特朗普政府对住房市场、新闻自由及煤矿工人的影响，加州野火保险改革，以及快时尚品牌Shein在法国面临的抵制。
 area: market-analysis
-category: geopolitics
+category: politics-society
+companies_orgs: []
+date: '2025-10-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- new-york-times-podcasts
+people: []
+products_models: []
 project:
 - us-analysis
+series: ''
+source: https://www.youtube.com/watch?v=BS-7Jf29G4U
+speaker: New York Times Podcasts
+status: evergreen
+summary: 本期节目涵盖了加沙和平计划的复杂性、特朗普政府对住房市场、新闻自由及煤矿工人的影响，加州野火保险改革，以及快时尚品牌Shein在法国面临的抵制。
 tags:
 - environmental-policy
 - fast-fashion
 - gaza-conflict
 - trump-administration
-- us-politics
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
-date: '2025-10-14'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=BS-7Jf29G4U
-status: evergreen
+title: 加沙未来、特朗普新政与全球挑战：多维新闻速览
 ---
+
 ### 加沙停火后的胜利宣言与和平挑战
 
 This long and difficult war has now ended. Some people say it lasted 3,000 years, some say 500 years; whatever its duration, it is the granddaddy of them all.

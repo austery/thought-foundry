@@ -8,18 +8,16 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence-in-education
-- higher-education
-- student-debt
-- university-crisis
+- crisis
+- debt
+- education
 - viewpoint-diversity
 people:
-  - Interviewer
-  - Rich Lyons
-  - Sian Beilock
+- Interviewer
+- Rich Lyons
+- Sian Beilock
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-25
 author: Lei
 speaker: ''
@@ -31,6 +29,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 ### Introduction
 
 Interviewer: Ladies and gentlemen, please welcome Berkeley Chancellor Rich Lyons and Dartmouth President Sian Beilock.

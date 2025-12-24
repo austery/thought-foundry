@@ -1,29 +1,26 @@
 ---
-title: 告别阅读焦虑：重思阅读的本质与真正目标
-summary: 本文探讨了阅读的本质是思考，而非盲目追求数量和速度。它批判了速读、有声书和总结等方式，强调阅读的真正目标应是促进思维和行为的改变，并鼓励读者花时间深入阅读，实现个人成长。
 area: null
 category: null
-project: []
-tags:
-  - critical-thinking
-  - deep-reading
-  - personal-development
-  - reading-habits
-  - reading-philosophy
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-02-17'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0CGTrSHADh4
+speaker: 一口新飯
 status: evergreen
+summary: 本文探讨了阅读的本质是思考，而非盲目追求数量和速度。它批判了速读、有声书和总结等方式，强调阅读的真正目标应是促进思维和行为的改变，并鼓励读者花时间深入阅读，实现个人成长。
+tags:
+- critical-thinking
+- life
+- personal-development
+- philosophy
+- reading-habit
+title: 告别阅读焦虑：重思阅读的本质与真正目标
 ---
 
 ### 挑战“一年百本”：阅读的本质与误区

@@ -1,67 +1,67 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: productivity
+companies_orgs:
+- St. Olaf's University
+- Kenyon
+- Author's Equity
+- Amazon
+- DoorDash
+- Instacart
+- WhatsApp
+- Harvard Business Review
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+people:
+- James Clear
+- David Epstein
+- Ed Latimore
+- Jordan Peterson
+- Daniel Kahneman
+- Steven Pressfield
+- BJ Fogg
+- Trent Durstman
+- Brandon Webb
+- Sir David Brailsford
+- Chris Hoy
+- Roger Federer
+- Ash
+- Dr. Lisa Feldman
+- Kamala Harris
+products_models:
+- Atomic Habits
+- Atomic Habits Daily Calendar
+- Atomic Habits Workbook
+- 3-2-1 Newsletter
+- Range
+- Sports Genius
+- The Blind Watchmaker
+- Inner Game of Tennis
+- Dare to Dream
+- Enterprise Password Manager
+- 1% Diaries
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=rtufWBLOXgw
 speaker: The Diary Of A CEO
-tags:
-  - habit-formation
-  - behavior-change
-  - consistency
-  - systems-over-goals
-  - identity-based-habits
-title: James Clear：微习惯的力量——如何构建持久系统，而非仅仅追求目标
-summary: 本期节目中，《原子习惯》作者James Clear深入探讨了微小习惯对生活产生的深远影响。他强调应构建强大的“系统”而非仅仅设定“目标”，并介绍了行为改变的四定律（让它显而易见、有吸引力、简单、令人满足）、“两分钟法则”以及身份认同在习惯养成中的重要性。Clear还讨论了能量管理、习惯如何适应人生阶段，以及每日进步1%的复利效应，指出真正的进步源于持续的努力和对发展轨迹的关注。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - James Clear
-  - David Epstein
-  - Ed Latimore
-  - Jordan Peterson
-  - Daniel Kahneman
-  - Steven Pressfield
-  - BJ Fogg
-  - Trent Durstman
-  - Brandon Webb
-  - Sir David Brailsford
-  - Chris Hoy
-  - Roger Federer
-  - Ash
-  - Dr. Lisa Feldman
-  - Kamala Harris
-companies_orgs:
-  - St. Olaf's University
-  - Kenyon
-  - Author's Equity
-  - Amazon
-  - DoorDash
-  - Instacart
-  - WhatsApp
-  - Harvard Business Review
-products_models:
-  - Atomic Habits
-  - Atomic Habits Daily Calendar
-  - Atomic Habits Workbook
-  - 3-2-1 Newsletter
-  - Range
-  - Sports Genius
-  - The Blind Watchmaker
-  - Inner Game of Tennis
-  - Dare to Dream
-  - Enterprise Password Manager
-  - 1% Diaries
-media_books:
-  - The Diary Of A CEO
 status: evergreen
+summary: 本期节目中，《原子习惯》作者James Clear深入探讨了微小习惯对生活产生的深远影响。他强调应构建强大的“系统”而非仅仅设定“目标”，并介绍了行为改变的四定律（让它显而易见、有吸引力、简单、令人满足）、“两分钟法则”以及身份认同在习惯养成中的重要性。Clear还讨论了能量管理、习惯如何适应人生阶段，以及每日进步1%的复利效应，指出真正的进步源于持续的努力和对发展轨迹的关注。
+tags:
+- change
+- consistency
+- habit-formation
+- identity
+- technology
+title: James Clear：微习惯的力量——如何构建持久系统，而非仅仅追求目标
 ---
+
 ### 引言：习惯的力量与《原子习惯》
 
 James Clear 撰写了历史上最畅销的习惯类书籍之一，因为人们总是需要更多实用的帮助来养成习惯。他拥有各种策略和工具来让习惯得以坚持，其中一个原则可能是建立习惯最重要的一点，那就是掌握开始的艺术。作为全球领先的习惯专家之一，James Clear 正在帮助数百万人建立持久的习惯，掌握目标设定，并最终重新设计他们的生活。

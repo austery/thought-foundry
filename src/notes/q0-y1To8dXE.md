@@ -1,53 +1,53 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: culture
+companies_orgs:
+- KMT
+- CCP
+- Think Tank
+- Reform UK
+- PETA
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《黑客帝国》
+- 《V字仇杀队》
+people:
+- Joyce
+- Friedrich Nietzsche
+- Donald Trump
+- Charlie Kirk
+- Ludwig Wittgenstein
+- Antonio Gramsci
+- Bernie Sanders
+- Deng Xiaoping
+- Hu Yaobang
+- Zhao Ziyang
+- Li Yinhe
+products_models:
+- TikTok
+- Telegram
+project:
+- systems-thinking
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=q0-y1To8dXE
 speaker: FearNation 世界苦茶
-tags:
-  - post-truth-era
-  - belief-formation
-  - truth-and-politics
-  - institutional-decay
-  - dehumanization
-title: 真理的消亡与政治的胜利：在后真相时代，我们如何确信自己是对的？
-summary: 主播探讨了在当前互联网环境中，“电子宠物”现象所反映的人际非人化趋势。核心议题深入剖析了“真理性”与“政治性”之间的张力，指出在传统权威（媒体、学术）瓦解的后真相时代，人们倾向于接受更具“政治性”（即更易于接受和传播）而非更具“真理性”的观点。通过与听众的互动，文章探讨了个人信念的来源、对“真实”的感知方式，以及在真理真空下如何自处。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-  - historical-insights
-people:
-  - Joyce
-  - Friedrich Nietzsche
-  - Donald Trump
-  - Charlie Kirk
-  - Ludwig Wittgenstein
-  - Antonio Gramsci
-  - Bernie Sanders
-  - Deng Xiaoping
-  - Hu Yaobang
-  - Zhao Ziyang
-  - Li Yinhe
-companies_orgs:
-  - KMT
-  - CCP
-  - Think Tank
-  - Reform UK
-  - PETA
-products_models:
-  - TikTok
-  - Telegram
-media_books:
-  - 《黑客帝国》
-  - 《V字仇杀队》
 status: evergreen
+summary: 主播探讨了在当前互联网环境中，“电子宠物”现象所反映的人际非人化趋势。核心议题深入剖析了“真理性”与“政治性”之间的张力，指出在传统权威（媒体、学术）瓦解的后真相时代，人们倾向于接受更具“政治性”（即更易于接受和传播）而非更具“真理性”的观点。通过与听众的互动，文章探讨了个人信念的来源、对“真实”的感知方式，以及在真理真空下如何自处。
+tags:
+- dehumanization
+- history
+- institutional
+- philosophy
+- politics
+title: 真理的消亡与政治的胜利：在后真相时代，我们如何确信自己是对的？
 ---
+
 ### 互联网的“电子宠物”化与尊重的丧失
 
 今天我想先讨论一个小现象，它其实和今天的主题相关：现在的互联网环境真的非常糟糕，其中一个表现是大家丧失了非常基本的尊重。

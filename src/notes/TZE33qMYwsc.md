@@ -1,99 +1,100 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- Amazon
+- SourceGraph
+- Microsoft
+- Meta
+- Uber
+- Anthropic
+- OpenAI
+- Grab
+- GeoWorks
+- Apple
+- Shopify
+- BMW
+- Koda
+- Cursor
+- Vercel
+- Perplexity
+- Linear
+- Commonwealth Bank of Australia
 date: '2025-07-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Stevey's Blog Rants
+- Get That Job at Google
+- Get That Job at Grab
+- Sapiens
+people:
+- Steve Yegge
+- Jeff Bezos
+- Kent Beck
+- Scott Belsky
+- Dario Amodei
+- Simon Willison
+- Andrej Karpathy
+- Jason Clinton
+- Jean Kim
+- Michael Abrash
+- Grady Booch
+- Larry Page
+- Vic Gundotra
+- Theo Vassilakis
+products_models:
+- Google+
+- Flutter
+- React Native
+- Azure
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
+- Kubernetes
+- gRPC
+- Protocol Buffers
+- Slack
+- Google Wave
+- Chubby
+- Stubby
+- Bigtable
+- MapReduce
+- Unity
+- Unreal Engine
+- ChatGPT
+- Claude Sonnet
+- Django
+- Reddit
+- Digg
+- Groupon
+- Doom
+- Quake
+- Wolfenstein
+- Grand Theft Auto 6 (GTA 6)
+- Wyvern
+project:
+- ai-impact-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=TZE33qMYwsc
 speaker: The Pragmatic Engineer
-tags:
-  - tech-interviewing
-  - platform-strategy
-  - ai-assisted-development
-  - vibe-coding
-  - developer-productivity
-title: Steve Yegge 深度访谈：从谷歌平台之怒到 AI 时代的 Vibe Coding
-summary: 传奇工程师 Steve Yegge 在这次深度访谈中，回顾了他在亚马逊和谷歌的职业生涯，并深入剖析了他著名的“平台之怒”檄文背后的故事，揭示了两家科技巨头在平台战略和企业文化上的根本差异。Yegge 还分享了他对当前科技面试流程缺陷的看法，并阐述了 AI 如何颠覆软件开发，让他重返编码一线。他详细解读了“Vibe Coding”这一新范式，并对开发者在 AI 时代的未来角色和必备技能提出了极具前瞻性的见解。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Steve Yegge
-  - Jeff Bezos
-  - Kent Beck
-  - Scott Belsky
-  - Dario Amodei
-  - Simon Willison
-  - Andrej Karpathy
-  - Jason Clinton
-  - Jean Kim
-  - Michael Abrash
-  - Grady Booch
-  - Larry Page
-  - Vic Gundotra
-  - Theo Vassilakis
-companies_orgs:
-  - Google
-  - Amazon
-  - SourceGraph
-  - Microsoft
-  - Meta
-  - Facebook
-  - Uber
-  - Anthropic
-  - OpenAI
-  - Grab
-  - GeoWorks
-  - Apple
-  - Shopify
-  - BMW
-  - Koda
-  - Cursor
-  - Vercel
-  - Perplexity
-  - Linear
-  - Commonwealth Bank of Australia
-products_models:
-  - Google+
-  - Flutter
-  - React Native
-  - Azure
-  - Google Cloud Platform (GCP)
-  - Amazon Web Services (AWS)
-  - Kubernetes
-  - gRPC
-  - Protocol Buffers
-  - Slack
-  - Google Wave
-  - Chubby
-  - Stubby
-  - Bigtable
-  - MapReduce
-  - Unity
-  - Unreal Engine
-  - ChatGPT
-  - Claude Sonnet
-  - Django
-  - Reddit
-  - Digg
-  - Groupon
-  - Doom
-  - Quake
-  - Wolfenstein
-  - Grand Theft Auto 6 (GTA 6)
-  - Wyvern
-media_books:
-  - Stevey's Blog Rants
-  - Get That Job at Google
-  - Get That Job at Grab
-  - Sapiens
 status: evergreen
+summary: 传奇工程师 Steve Yegge 在这次深度访谈中，回顾了他在亚马逊和谷歌的职业生涯，并深入剖析了他著名的“平台之怒”檄文背后的故事，揭示了两家科技巨头在平台战略和企业文化上的根本差异。Yegge
+  还分享了他对当前科技面试流程缺陷的看法，并阐述了 AI 如何颠覆软件开发，让他重返编码一线。他详细解读了“Vibe Coding”这一新范式，并对开发者在 AI
+  时代的未来角色和必备技能提出了极具前瞻性的见解。
+tags:
+- developer-productivity
+- development
+- strategy
+- tech
+- vibe-coding
+title: Steve Yegge 深度访谈：从谷歌平台之怒到 AI 时代的 Vibe Coding
 ---
+
 ### 访谈开场
 
 Stevey 的平台檄文之所以广为流传，是因为它对谷歌提出了非常精彩的批评，同时也极其真实地描绘了亚马逊，包括 Jeff Bezos 根本不关心你今天过得怎么样的那一面。

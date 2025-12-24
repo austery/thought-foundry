@@ -1,47 +1,49 @@
 ---
-author: Harvard Business Review
+area: society-systems
+category: psychology
+companies_orgs:
+- University of Houston
+- Harvard Business Review
+- MIT
+- National Football League
+- Washington Commanders
+- Patriots
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Dare to Lead podcast
+- Strong Ground--The Lessons of Daring Leadership, the Tenacity of Paradox, and the
+  Wisdom of the Human Spirit
+- IdeaCast
+people:
+- Brené Brown
+- Adi Ignatius
+- Adam Grant
+- Jeff Bezos
+- Tom Brady
+- Jayden Daniels
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=RRmGlDZIdCY
 speaker: Harvard Business Review
-tags:
-  - leadership-skills
-  - uncertainty-management
-  - systems-thinking
-  - decision-making
-  - self-awareness
-title: 动荡时代的稳健领导力：寻找你的坚实根基
-summary: 本期《IdeaCast》节目中，研究教授兼畅销书作家布琳·布朗（Brené Brown）探讨了在高度不确定和快速变化的时代中，领导者如何保持稳健。她引入了“坚实根基”（Strong Ground）这一核心概念，强调领导者需要通过系统思维、战略性决策和对核心价值观的坚守来应对挑战。布朗还讨论了“口袋站位”和“扎实的自信”等关键领导力技能，呼吁领导者培养自我觉察、模式识别，并在决策时放慢节奏，以实现长期的积极影响。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Brené Brown
-  - Adi Ignatius
-  - Adam Grant
-  - Jeff Bezos
-  - Tom Brady
-  - Jayden Daniels
-companies_orgs:
-  - University of Houston
-  - Harvard Business Review
-  - MIT
-  - National Football League
-  - Washington Commanders
-  - Patriots
-products_models: []
-media_books:
-  - Dare to Lead podcast
-  - Strong Ground--The Lessons of Daring Leadership, the Tenacity of Paradox, and the Wisdom of the Human Spirit
-  - IdeaCast
 status: evergreen
+summary: 本期《IdeaCast》节目中，研究教授兼畅销书作家布琳·布朗（Brené Brown）探讨了在高度不确定和快速变化的时代中，领导者如何保持稳健。她引入了“坚实根基”（Strong
+  Ground）这一核心概念，强调领导者需要通过系统思维、战略性决策和对核心价值观的坚守来应对挑战。布朗还讨论了“口袋站位”和“扎实的自信”等关键领导力技能，呼吁领导者培养自我觉察、模式识别，并在决策时放慢节奏，以实现长期的积极影响。
+tags:
+- decision-making
+- leadership-skill
+- management
+- self-awareness
+- thinking
+title: 动荡时代的稳健领导力：寻找你的坚实根基
 ---
+
 ### 动荡时代下的领导力挑战
 
 BRENE BROWN: 我感觉我触及到了一些东西，它既给了我一种真正的稳定感，也为我提供了完成他要求我做的事情所需的力量的跳板。

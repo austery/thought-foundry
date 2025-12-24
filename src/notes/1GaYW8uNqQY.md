@@ -1,37 +1,36 @@
 ---
-author: 北美王路飞
+area: personal-systems
+category: business
+companies_orgs:
+- YouTube
+- FBI
 date: '2025-08-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Sizing People Up
+- 协同智能与人工智能共生共事
+- youtube-membership
+products_models: []
+project:
+- entrepreneurship
+- knowledge-pipeline
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=1GaYW8uNqQY
 speaker: 北美王路飞
-tags:
-  - youtube-membership
-  - content-monetization
-  - creator-economy
-  - incentive-design
-  - content-strategy
-title: 北美王路飞频道会员功能详解：超新星与七武海专属内容与早期福利
-summary: 北美王路飞频道正式开通YouTube会员功能，推出‘超新星’和‘七武海’两个会员等级。视频详细介绍了各等级的专属福利，包括月更视频、定制表情包、会员直播等。频道主旨在会员视频中分享高价值、实用性强但可能流量较低的内容，如创业尽职调查、沟通技巧、识人术等。同时，为激励早期会员，特别提供了限时福利，包括免费获取特定系列视频和书籍解读。
-insight: ''
-draft: true
-series: ''
-category: business
-area: personal-systems
-project:
-  - entrepreneurship
-  - knowledge-pipeline
-  - personal-growth-lab
-people: []
-companies_orgs:
-  - YouTube
-  - FBI
-products_models: []
-media_books:
-  - Sizing People Up
-  - 协同智能与人工智能共生共事
 status: evergreen
+summary: 北美王路飞频道正式开通YouTube会员功能，推出‘超新星’和‘七武海’两个会员等级。视频详细介绍了各等级的专属福利，包括月更视频、定制表情包、会员直播等。频道主旨在会员视频中分享高价值、实用性强但可能流量较低的内容，如创业尽职调查、沟通技巧、识人术等。同时，为激励早期会员，特别提供了限时福利，包括免费获取特定系列视频和书籍解读。
+tags:
+- content
+- content-strategy
+- creator-economy
+- design
+title: 北美王路飞频道会员功能详解：超新星与七武海专属内容与早期福利
 ---
+
 ### 频道会员功能正式上线
 
 大家好，最近我开通了频道的会员功能。实际上，我的频道很早之前就拥有了开通会员的权限，但我一直没有启用。这主要是因为我尚未完全确定是否要投入精力进行这项长期的承诺，同时，设置一个完善的会员结构也确实需要投入时间和精力进行构思。

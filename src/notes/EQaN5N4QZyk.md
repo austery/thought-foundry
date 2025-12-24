@@ -1,45 +1,45 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- Justice Department
+- Defense Department
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- The Daily
+people:
+- Donald Trump
+- James Comey
+- Leticia James
+- Lindseay Halligan
+- Jack Smith
+- Aileen Cannon
+- Mark Kelly
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=EQaN5N4QZyk
 speaker: New York Times Podcasts
-tags:
-  - retribution-campaign
-  - judicial-independence
-  - prosecutorial-misconduct
-  - us-attorney-appointment
-  - rule-of-law
-title: 特朗普“报复运动”遭遇法院重挫：两项核心起诉被驳回
-summary: 周一，一名联邦法官驳回了特朗普政府对前联邦调查局局长詹姆斯·科米和现任纽约州总检察长莱蒂西亚·詹姆斯提出的刑事指控。这一裁决是特朗普旨在惩罚政敌的“报复运动”的重大挫折。法官的决定基于一项技术性问题：负责起诉的联邦检察官林赛·哈利根的任命被认定为非法。这一判决不仅使特朗普失去了两起核心案件，也质疑了其政府利用司法部的方式。尽管案件被“不带偏见”驳回，理论上可重新提起，但此裁决对特朗普第二任期的报复策略构成了严峻挑战，并凸显了司法独立的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - James Comey
-  - Leticia James
-  - Lindseay Halligan
-  - Jack Smith
-  - Aileen Cannon
-  - Mark Kelly
-companies_orgs:
-  - FBI
-  - Justice Department
-  - Defense Department
-products_models: []
-media_books:
-  - The New York Times
-  - The Daily
 status: evergreen
+summary: 周一，一名联邦法官驳回了特朗普政府对前联邦调查局局长詹姆斯·科米和现任纽约州总检察长莱蒂西亚·詹姆斯提出的刑事指控。这一裁决是特朗普旨在惩罚政敌的“报复运动”的重大挫折。法官的决定基于一项技术性问题：负责起诉的联邦检察官林赛·哈利根的任命被认定为非法。这一判决不仅使特朗普失去了两起核心案件，也质疑了其政府利用司法部的方式。尽管案件被“不带偏见”驳回，理论上可重新提起，但此裁决对特朗普第二任期的报复策略构成了严峻挑战，并凸显了司法独立的重要性。
+tags:
+- canada
+- code
+- judicial-independence
+- llm
+- rule-of-law
+title: 特朗普“报复运动”遭遇法院重挫：两项核心起诉被驳回
 ---
+
 ### 特朗普“报复运动”遭遇法院重挫
 
 来自《**纽约时报**》（The New York Times）的迈克尔·布巴罗，这里是《**每日**》（The Daily）。

@@ -1,38 +1,37 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Novo Nordisk
+- Norges Bank Investment Management
 date: '2025-05-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Lars Fruergaard Jørgensen
+products_models:
+- GLP-1
+- Insulin
+- Amylin
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=LVxVd5P_60U
 speaker: Norges Bank Investment Management
-tags:
-  - pharmaceutical-innovation
-  - chronic-diseases
-  - healthcare-systems
-  - protein-engineering
-  - shareholder-value
-title: 诺和诺德CEO：创新是战胜慢性病、实现股东回报的关键
-summary: 诺和诺德CEO Lars Fruergaard Jørgensen在投资会议上分享了公司在制药领域的创新策略。他强调通过明确的使命（战胜严重慢性病）和核心能力（蛋白质工程）来满足未被满足的社会需求。Jørgensen以GLP-1分子和每周注射胰岛素的开发为例，阐述了创新如何推动公司发展，同时为患者和社会带来巨大价值，并最终实现可观的股东回报。他指出，在服务患者和社会的同时，创新与股东价值之间存在明确的联系。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Lars Fruergaard Jørgensen
-companies_orgs:
-  - Novo Nordisk
-  - Norges Bank Investment Management
-products_models:
-  - GLP-1
-  - Insulin
-  - Amylin
-media_books: []
 status: evergreen
+summary: 诺和诺德CEO Lars Fruergaard Jørgensen在投资会议上分享了公司在制药领域的创新策略。他强调通过明确的使命（战胜严重慢性病）和核心能力（蛋白质工程）来满足未被满足的社会需求。Jørgensen以GLP-1分子和每周注射胰岛素的开发为例，阐述了创新如何推动公司发展，同时为患者和社会带来巨大价值，并最终实现可观的股东回报。他指出，在服务患者和社会的同时，创新与股东价值之间存在明确的联系。
+tags:
+- engineering
+- health
+- healthcare-system
+- pharmaceutical-innovation
+- value
+title: 诺和诺德CEO：创新是战胜慢性病、实现股东回报的关键
 ---
+
 ### 创新：伟大公司与社会贡献的核心
 
 非常感谢您的热情介绍，也感谢今天能有这个机会来到这里。这对我来说是莫大的荣幸。

@@ -1,52 +1,52 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 上海来一份
+- CCTV
+- 黑猫平台
+- 云南润声物业服务有限公司
+- 北京同仁堂
+- 云南白药
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 新京报
+- 中国青年网
+- Lightning News
+people:
+- Mao Zedong
+- Gavin Newsom
+- Donald Trump
+- Xi Jinping
+products_models:
+- 三聚氰胺
+- 地沟油
+- 瘦肉精
+- 灌水猪
+- 毒奶粉
+- 阿索平
+project:
+- china-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=UUFeMykNvQ0
 speaker: 老周横眉
-tags:
-  - food-safety-china
-  - government-supervision-failure
-  - political-incentives
-  - special-supply-system
-  - public-trust-erosion
-title: 中国食品安全：从毒奶粉到特供，为何问题层出不穷？
-summary: 本文深入探讨了中国食品安全问题为何屡禁不止。从近期粽子吃出创可贴、学校食堂腐肉、假养生茶包，到历史上的毒奶粉、地沟油等事件，揭示了问题并非孤立事件，而是源于地方监管部门的不作为以及中共官员以GDP和税收为核心的考核机制。文章还剖析了特供食品制度对普通民众食品安全的影响，并对比了民主制度下官员对民众利益的重视，强调制度才是解决食品安全问题的根本。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Mao Zedong
-  - Gavin Newsom
-  - Donald Trump
-  - Xi Jinping
-companies_orgs:
-  - 上海来一份
-  - CCTV
-  - 黑猫平台
-  - 云南润声物业服务有限公司
-  - 北京同仁堂
-  - 云南白药
-products_models:
-  - 三聚氰胺
-  - 地沟油
-  - 瘦肉精
-  - 灌水猪
-  - 毒奶粉
-  - 阿索平
-media_books:
-  - 新京报
-  - 中国青年网
-  - Lightning News
 status: evergreen
+summary: 本文深入探讨了中国食品安全问题为何屡禁不止。从近期粽子吃出创可贴、学校食堂腐肉、假养生茶包，到历史上的毒奶粉、地沟油等事件，揭示了问题并非孤立事件，而是源于地方监管部门的不作为以及中共官员以GDP和税收为核心的考核机制。文章还剖析了特供食品制度对普通民众食品安全的影响，并对比了民主制度下官员对民众利益的重视，强调制度才是解决食品安全问题的根本。
+tags:
+- china
+- government
+- political
+- public-trust-erosion
+- system
+title: 中国食品安全：从毒奶粉到特供，为何问题层出不穷？
 ---
+
 ### 中国食品安全：一个不断重复的“老电影”
 
 中华民族是否伟大复兴了？我不知道。我只希望我的孩子能吃一口安心饭。最近，一位母亲给孩子买了一个粽子，结果从粽子里吃出了带血的创可贴。这并非出自小作坊，而是来自全国拥有3000多家连锁店的上海行业巨头“**来一份**”。

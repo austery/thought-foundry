@@ -1,41 +1,42 @@
 ---
-author: EO
+area: tech-insights
+category: technology
+companies_orgs:
+- Fundamental Research Labs
+- MIT
+- Speedrun
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I Learned to Jump Higher than LeBron James
+people:
+- Nico Christie
+- Robert
+- LeBron James
+products_models:
+- Shortcut
+project:
+- ai-impact-analysis
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=AOlmBo16wD8
 speaker: EO
-tags:
-  - ai-agents
-  - product-launch
-  - rapid-iteration
-  - work-ethic
-  - digital-humans
-title: 从扣篮冠军到AI创业者：Nico Christie的数字人类与迭代哲学
-summary: Fundamental Research Labs联合创始人Nico Christie分享了其公司构建数字人类的愿景，以及其首款产品Shortcut——一个超级Excel代理。他强调了有效产品演示的重要性，并深入探讨了他对世界级表现、快速迭代和持续投入的个人哲学。从职业扣篮生涯到MIT的学术追求，再到AI创业，Nico Christie的经历展现了通过刻苦努力和热情实现卓越的路径。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Nico Christie
-  - Robert
-  - LeBron James
-companies_orgs:
-  - Fundamental Research Labs
-  - MIT
-  - Speedrun
-products_models:
-  - Shortcut
-media_books:
-  - How I Learned to Jump Higher than LeBron James
 status: evergreen
+summary: Fundamental Research Labs联合创始人Nico Christie分享了其公司构建数字人类的愿景，以及其首款产品Shortcut——一个超级Excel代理。他强调了有效产品演示的重要性，并深入探讨了他对世界级表现、快速迭代和持续投入的个人哲学。从职业扣篮生涯到MIT的学术追求，再到AI创业，Nico
+  Christie的经历展现了通过刻苦努力和热情实现卓越的路径。
+tags:
+- ai-agent
+- code
+- human
+- product
+- work
+title: 从扣篮冠军到AI创业者：Nico Christie的数字人类与迭代哲学
 ---
+
 ### 有效的产品演示与用户价值
 
 我认为一个有趣的**启发式方法**（heuristic: 一种解决问题的方法，通常通过经验法则或试错来发现解决方案）是，在产品演示中，当前的趋势是制作高度优化的视频，并谈论那些客户根本不关心的事情。

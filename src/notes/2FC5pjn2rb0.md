@@ -1,51 +1,50 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- PayPal
+- Booking Holdings
+- FICO
+- Applied Materials
+- Amplify
+- Visa
+- Mastercard
+- Ant Group
+- Trip.com
+- S&P Global
+- TransUnion
+- Equifax
+- American Express
 date: '2024-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伯克希尔·哈撒韦股东信》
+people:
+- Alice Ch
+- Warren Buffett
+- Charlie Munger
+products_models: []
+project:
+- investment-strategy
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=2FC5pjn2rb0
 speaker: Shijun Tang
-tags:
-  - shareholder-returns
-  - free-cash-flow-growth
-  - network-effects
-  - moat-analysis
-  - compound-interest
-title: PayPal、Booking.com、FICO与AMAT：四位价值投资的隐形冠军
-summary: 本文深度剖析了PayPal、Booking.com、FICO和AMAT四家公司在电子支付、在线旅游、信用评分与半导体设备领域的长期竞争优势，揭示其低波动、高自由现金流与股东回报的共性，并结合巴菲特遗产观探讨复利投资的本质。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Shijun Tang
-  - Alice Ch
-  - Warren Buffett
-  - Charlie Munger
-companies_orgs:
-  - PayPal
-  - Booking Holdings
-  - FICO
-  - Applied Materials
-  - Amplify
-  - Visa
-  - Mastercard
-  - Ant Group
-  - Trip.com
-  - S&P Global
-  - TransUnion
-  - Equifax
-  - American Express
-products_models: []
-media_books:
-  - 《伯克希尔·哈撒韦股东信》
 status: evergreen
+summary: 本文深度剖析了PayPal、Booking.com、FICO和AMAT四家公司在电子支付、在线旅游、信用评分与半导体设备领域的长期竞争优势，揭示其低波动、高自由现金流与股东回报的共性，并结合巴菲特遗产观探讨复利投资的本质。
+tags:
+- compound-interest
+- growth
+- moat-analysis
+- network-effect
+- technology
+title: PayPal、Booking.com、FICO与AMAT：四位价值投资的隐形冠军
 ---
+
 ### 四家被低估的价值型科技企业深度解析
 
 PayPal是我少数全仓持有的股票。这里所说的“全仓持有”，是指在我的投资策略中，我已经将该股配置到了单一标的的最大额度。自2023年10月以来，PayPal的股价已上涨86.39%，近乎翻了两倍。我的平均买入价为60.68美元，即使以当前持仓计算，也已实现超过53%的浮盈。如今，PayPal已悄然成为我投资组合中最大的单一仓位，在所有持仓中排名第一。

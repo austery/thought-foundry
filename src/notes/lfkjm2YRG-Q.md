@@ -1,48 +1,45 @@
 ---
-author: Veritasium
-date: '2023-07-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=lfkjm2YRG-Q
-speaker: Veritasium
-tags:
-  - veritasium
-  - gunpowder-chemistry
-  - fireworks-technology
-  - combustion-science
-  - fuse-mechanisms
-  - color-creation
-title: 烟花的奥秘：从黑火药到量子力学的绚烂科学
-summary: 本文深入探讨了烟花的科学原理，从两千多年前中国火药的起源，到现代烟花如何通过精密的化学配方和工程设计，创造出水下燃烧、多彩形状和复杂发射效果。文章详细介绍了火药的成分、燃烧机制、引信类型、颜色生成背后的量子力学原理，以及烟花发射和安全措施，揭示了这一古老艺术与现代科学的完美结合。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Gene
-  - Mike
+category: technology
 companies_orgs:
-  - KiwiCo
-  - Potato Jet
+- KiwiCo
+- Potato Jet
+date: '2023-07-07'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Gene
+- Mike
 products_models:
-  - FPV drone
-  - black powder
-  - quick match
-  - visco fuse
-  - electric match
-  - road flares
-  - KiwiCo flame test kit
-  - mortar
-  - aerial shell
-  - brocade crown star
-  - ghost shells
-media_books: []
+- FPV drone
+- black powder
+- quick match
+- visco fuse
+- electric match
+- road flares
+- KiwiCo flame test kit
+- mortar
+- aerial shell
+- brocade crown star
+- ghost shells
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=lfkjm2YRG-Q
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了烟花的科学原理，从两千多年前中国火药的起源，到现代烟花如何通过精密的化学配方和工程设计，创造出水下燃烧、多彩形状和复杂发射效果。文章详细介绍了火药的成分、燃烧机制、引信类型、颜色生成背后的量子力学原理，以及烟花发射和安全措施，揭示了这一古老艺术与现代科学的完美结合。
+tags:
+- color-creation
+- geopolitical
+- science
+- technology
+title: 烟花的奥秘：从黑火药到量子力学的绚烂科学
 ---
+
 ### 引言：烟花的极致探索
 
 这是有史以来关于烟花最宏大、最热门、最具爆炸性的视频，涵盖了从火药的发明到火如何在水下燃烧，再到烟花的制作、颜色、形状、引信以及发射方式的一切。

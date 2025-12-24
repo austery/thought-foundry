@@ -1,26 +1,27 @@
 ---
-author: TED
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=vE2_KZH8fDQ
 speaker: TED
+status: evergreen
+summary: 本文讲述了Michelle Khare如何从一个害怕失败的孩子，转变为一位勇于挑战世界最危险特技的表演者。她通过“挑战接受”（Challenge
+  Accepted）节目，探索了恐惧的本质，强调了“业余心态”在学习和成长中的重要性，并分享了如何通过拥抱失败、直面恐惧来达成看似不可能的目标的经验。文章揭示了恐惧并非总是停止的信号，有时它更是前进的动力。
 tags: []
 title: 挑战极限：我为何勇闯世界最危险的特技
-summary: 本文讲述了Michelle Khare如何从一个害怕失败的孩子，转变为一位勇于挑战世界最危险特技的表演者。她通过“挑战接受”（Challenge Accepted）节目，探索了恐惧的本质，强调了“业余心态”在学习和成长中的重要性，并分享了如何通过拥抱失败、直面恐惧来达成看似不可能的目标的经验。文章揭示了恐惧并非总是停止的信号，有时它更是前进的动力。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-status: evergreen
 ---
+
 ### 引言：挑战不可能的特技
 
 这是我，即将完成电影史上最危险的特技之一：在起飞的C-130（C-130: 一种军用运输机）飞机侧面悬挂。没有护目镜，没有头盔，也没有降落伞。这个特技在地球上只由另一个人完成过——汤姆·克鲁斯。（笑声）所以，我想说，这可能是第一次有“凡人”尝试这个特技。我叫Michelle Khare，我在YouTube上创建了一个名为“挑战接受”（Challenge Accepted: 指进行危险特技表演的人）的节目，在那里我尝试世界上最艰难的特技和职业。

@@ -1,48 +1,47 @@
 ---
-author: The Diary Of A CEO
+area: society-systems
+category: psychology
+companies_orgs:
+- Harvard
+- Shopify
+- Simply Safe
+- Ketone IQ
+- CIA
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Talk: The Science of Conversation and the Art of Being Ourselves'
+- The New York Times
+people:
+- Allison Wood Brooks
+- Stephen
+- Juliana Pillmer
+- Julian Treasure
+- David Sacks
+- Jonathan Haidt
+- Angela Duckworth
+- Matt Gensko
+products_models:
+- Gemini Flash
+project:
+- us-analysis
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=TYXzR5KahEg
 speaker: The Diary Of A CEO
-tags:
-  - conversational-skill
-  - social-anxiety
-  - active-listening
-  - vulnerability-in-relationships
-  - ai-communication
-title: 哈佛行为专家：为什么人们不喜欢你？掌握真正的人际沟通术
-summary: 哈佛教授Allison Wood Brooks揭示了人际交往中被忽视的科学真相：人们不喜欢你，往往不是因为你不够好，而是因为沟通中的微小错误——如回避小话题、缺乏倾听、过度使用AI生成内容。本文详解如何通过提问、共情与真实表达重建深层连接。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - personal-growth-lab
-people:
-  - Allison Wood Brooks
-  - Stephen
-  - Juliana Pillmer
-  - Julian Treasure
-  - David Sacks
-  - Jonathan Haidt
-  - Angela Duckworth
-  - Matt Gensko
-companies_orgs:
-  - Harvard
-  - Shopify
-  - Simply Safe
-  - Ketone IQ
-  - CIA
-products_models:
-  - Gemini Flash
-media_books:
-  - 'Talk: The Science of Conversation and the Art of Being Ourselves'
-  - The New York Times
 status: evergreen
+summary: 哈佛教授Allison Wood Brooks揭示了人际交往中被忽视的科学真相：人们不喜欢你，往往不是因为你不够好，而是因为沟通中的微小错误——如回避小话题、缺乏倾听、过度使用AI生成内容。本文详解如何通过提问、共情与真实表达重建深层连接。
+tags:
+- active-listening
+- communication
+- relationship
+- skill
+- social
+title: 哈佛行为专家：为什么人们不喜欢你？掌握真正的人际沟通术
 ---
 
 ### 对话主题：哈佛教授解读谈话的科学 

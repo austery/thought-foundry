@@ -1,58 +1,57 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 夸克说
+- 鞍山钢铁厂
+- 海尔
+- 正泰集团
+- 新华社
+- 荷兰阿姆斯特丹的证券交易所
+- 剑桥出版
+- 英国政府
+- 共产党
+- 央行
+- 国务院
+- 地方政府
+- 城投平台
+- 乡政府
+- 水务局
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 段永平
+- 鲁冠球
+- 张瑞敏
+- 范伟
+- 黄红
+- 周庆正
+- 邹家华
+- 吴晓波
+- 撒切尔夫人
+- 毛泽东
+- 丁彬
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=QLquaYkZGPI
 speaker: 夸克说
-tags:
-  - contract-spirit
-  - business-ethics
-  - social-norms
-  - rule-of-law
-  - china-business-culture
-title: 为何中国老板常出尔反尔？契约精神的缺失与全球比较
-summary: 本文深入探讨了中国老板普遍被认为缺乏契约精神的现象，并将其置于全球视角下进行比较。通过分析历史、文化、制度及政府行为，揭示了中国市场经济中反直觉的逻辑，即不守规矩者反而能生存。文章强调，真正的资本主义核心在于契约精神和私有财产的神圣性，而中国当前模式更接近“全本主义”。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 段永平
-  - 鲁冠球
-  - 张瑞敏
-  - 范伟
-  - 黄红
-  - 周庆正
-  - 邹家华
-  - 吴晓波
-  - 撒切尔夫人
-  - 毛泽东
-  - 丁彬
-companies_orgs:
-  - 夸克说
-  - 鞍山钢铁厂
-  - 海尔
-  - 正泰集团
-  - 新华社
-  - 荷兰阿姆斯特丹的证券交易所
-  - 剑桥出版
-  - 英国政府
-  - 共产党
-  - 央行
-  - 国务院
-  - 地方政府
-  - 城投平台
-  - 乡政府
-  - 水务局
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了中国老板普遍被认为缺乏契约精神的现象，并将其置于全球视角下进行比较。通过分析历史、文化、制度及政府行为，揭示了中国市场经济中反直觉的逻辑，即不守规矩者反而能生存。文章强调，真正的资本主义核心在于契约精神和私有财产的神圣性，而中国当前模式更接近“全本主义”。
+tags:
+- business
+- china
+- contract-spirit
+- rule-of-law
+- social
+title: 为何中国老板常出尔反尔？契约精神的缺失与全球比较
 ---
+
 ### 节目开场与观众来信
 
 大家好，欢迎收看夸克说，我是夸克。节目开始前，我先发一则招聘广告：由于发展需要，本频道面向全球招聘一位AI动画长篇制作师。主要工作内容是与我合作制作由AI工具生成的连续剧型动画剧集。如果您具备相应的专业能力，欢迎给我发邮件，并附上您此前的作品及基本情况。我们将提供基于加拿大标准的有竞争力的薪酬。

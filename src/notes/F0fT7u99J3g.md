@@ -1,30 +1,29 @@
 ---
-title: 第三课：吵架十诫 (下)
-summary: null
-area: personal-growth
-category: lifestyle
-project: []
-tags:
-  - 夫妻关系
-  - 婚姻关系
-  - 宗教
-  - 家庭生活
-people:
-  - 林静芝
-  - 李秀全
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: life-family
 author: Lei
-speaker: ''
+category: family-relations
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books: []
+people:
+- 林静芝
+- 李秀全
+products_models: []
+project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=F0fT7u99J3g
+speaker: ''
+summary: null
+tags:
+- family-life
+- religion
+title: 第三课：吵架十诫 (下)
 ---
+
 ## 前言：建设性的沟通法则
 
 **林静芝师母:**

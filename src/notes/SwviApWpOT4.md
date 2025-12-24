@@ -1,33 +1,32 @@
 ---
-title: AI智能体“Vibe Coding”：代码质量如何？Claude、Google、OpenAI谁更胜一筹？
-summary: 视频深入探讨了使用AI智能体进行“Vibe Coding”的实际效果，对比了Claude Code、Gemini CLI和OpenAI Codex，揭示了它们的优缺点、局限性，并对AI代码生成能力及其对未来AI发展的影响进行了分析。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- vibe-coding
-tags:
-- ai-agent
-- ai-limitations
-- code-generation
-- software-development
-- vibe-coding
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- internet-of-bugs
 date: '2025-07-11'
-author: Internet of Bugs
-speaker: Internet of Bugs
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- internet-of-bugs
+products_models: []
+project:
+- ai-impact-analysis
+- vibe-coding
 series: ''
 source: https://www.youtube.com/watch?v=SwviApWpOT4
+speaker: Internet of Bugs
 status: evergreen
+summary: 视频深入探讨了使用AI智能体进行“Vibe Coding”的实际效果，对比了Claude Code、Gemini CLI和OpenAI Codex，揭示了它们的优缺点、局限性，并对AI代码生成能力及其对未来AI发展的影响进行了分析。
+tags:
+- ai-agent
+- code-generation
+- llm
+- software-development
+- vibe-coding
+title: AI智能体“Vibe Coding”：代码质量如何？Claude、Google、OpenAI谁更胜一筹？
 ---
+
 ### 智能体“Vibe Coding”的介绍与目的
 
 So today, I'm going to talk about using agents for "Vibe Coding", or at least as close to "Vibe Coding" as I'm going to get.

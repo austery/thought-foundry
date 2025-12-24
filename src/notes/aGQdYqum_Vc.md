@@ -1,43 +1,43 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: finance
+companies_orgs:
+- Microsoft
+- Blackrock
+- Vanguard
+- State Street
+- Fidelity
 date: '2024-07-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富自由之路》
+people:
+- 唐石峻
+- 巴菲特
+- 迈克尔·贝瑞
+- 杰姆·扬格特
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=aGQdYqum_Vc
 speaker: Shijun Tang
-tags:
-  - wealth-free-dom
-  - psychology-of-investing
-  - index-fund-bubble
-  - risk-reward-balance
-  - behavioral-biases
-title: 不要追求财富自由了，你应该追求这个：快乐与自由的真正路径
-summary: 本文深入剖析财富自由的本质，指出快乐源于现实与期待的平衡，而非单纯积累财富。作者强调通过投资实现财务自由的重要性，并揭示指数基金泡沫、人性偏见与系统性风险对投资决策的深远影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - investment-strategy
-  - us-analysis
-  - historical-insights
-people:
-  - 唐石峻
-  - 巴菲特
-  - 迈克尔·贝瑞
-  - 杰姆·扬格特
-companies_orgs:
-  - 微软
-  - Blackrock
-  - Vanguard
-  - State Street
-  - Fidelity
-products_models: []
-media_books:
-  - 《财富自由之路》
 status: evergreen
+summary: 本文深入剖析财富自由的本质，指出快乐源于现实与期待的平衡，而非单纯积累财富。作者强调通过投资实现财务自由的重要性，并揭示指数基金泡沫、人性偏见与系统性风险对投资决策的深远影响。
+tags:
+- bias
+- bubble
+- investing
+- risk
+- wealth
+title: 不要追求财富自由了，你应该追求这个：快乐与自由的真正路径
 ---
+
 ### 财富自由的幻觉：快乐源于现实与期待的平衡
 
 财富自由是为了不工作吗？这或许是许多人的终极目标。人们努力赚钱、投资，希望当资产达到一定规模后，就能停止劳碌，过上无忧无虑的生活。又或者，通过经营生意积累资本后，选择出售企业换取巨额收购款，再将资金投入低风险资产如房产指数、基金或国债，从此享受安逸人生。

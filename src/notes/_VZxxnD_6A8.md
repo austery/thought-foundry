@@ -1,32 +1,30 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2024-05-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=_VZxxnD_6A8
 speaker: 莊也雜談
-tags:
-  - south-asian-immigration
-  - canada-immigration-policy
-  - demographic-change
-  - social-impact
-  - racial-bias
-title: 加拿大南亞裔移民潮：社會衝擊與個人反思
-summary: 本期節目中，主持人莊也深入探討了加拿大南亞裔移民數量激增所帶來的社會變遷與衝擊。他引用數據指出南亞裔人口在加拿大，尤其是在安大略省多個城市中佔比顯著上升，甚至在某些城市成為多數。莊也分享了個人經歷與反思，強調在面對移民潮時應避免種族歧視和刻板印象，同時也對加拿大當前的移民政策，特別是短期內大規模單一種族移民的現象，表達了質疑和批評。節目最後提出了關於移民衝擊、政策漏洞及政府對策的關鍵問題，留待下集深入探討。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期節目中，主持人莊也深入探討了加拿大南亞裔移民數量激增所帶來的社會變遷與衝擊。他引用數據指出南亞裔人口在加拿大，尤其是在安大略省多個城市中佔比顯著上升，甚至在某些城市成為多數。莊也分享了個人經歷與反思，強調在面對移民潮時應避免種族歧視和刻板印象，同時也對加拿大當前的移民政策，特別是短期內大規模單一種族移民的現象，表達了質疑和批評。節目最後提出了關於移民衝擊、政策漏洞及政府對策的關鍵問題，留待下集深入探討。
+tags:
+- bias
+- canada-immigration-policy
+- change
+- llm
+- social-impact
+title: 加拿大南亞裔移民潮：社會衝擊與個人反思
 ---
+
 ### 加拿大南亞裔移民現狀與數據分析
 
 大家好，我是莊也，歡迎您收看莊也雜談。今天我們來聊一聊**南亞裔**（South Asian: 指出生在印度次大陸或血統可追溯到印度次大陸的加拿大人，包括印度、巴基斯坦、孟加拉國、尼泊爾、斯里蘭卡、不丹或馬爾代夫等國家）。根據2021年加拿大人口普查數據，南亞裔加拿大人有257.14萬人，約佔加拿大總人口的7%，是加拿大第二大泛族裔群體，僅次於佔比69.8%的歐洲人。

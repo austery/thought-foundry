@@ -1,37 +1,36 @@
 ---
-author: 金融汪
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 外国投资委员会
+- SEC
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- 陈天桥
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=ZuG1boaolSc
 speaker: 金融汪
-tags:
-  - us-china-investment-restrictions
-  - foreign-direct-investment
-  - vie-structure
-  - capital-control
-  - geopolitical-risk
-title: 特朗普政府对华投资限制政策的全面解析与影响
-summary: 本视频深入解析了特朗普政府“美国优先投资政策”下对华投资的全面限制。政策不仅大幅拓展了敏感行业（如食品安全、新能源、基础设施）的投资禁区，更将限制范围从直接投资延伸至间接投资、绿地投资及中概股的VIE结构和二级市场交易。此外，美国养老基金被禁止投资中国企业，并限制中国实体对美农田和敏感区域房地产的投资。这些措施预示着中美金融脱钩的起点，对中国资本市场和企业海外融资构成巨大挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - 陈天桥
-companies_orgs:
-  - 外国投资委员会
-  - SEC
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入解析了特朗普政府“美国优先投资政策”下对华投资的全面限制。政策不仅大幅拓展了敏感行业（如食品安全、新能源、基础设施）的投资禁区，更将限制范围从直接投资延伸至间接投资、绿地投资及中概股的VIE结构和二级市场交易。此外，美国养老基金被禁止投资中国企业，并限制中国实体对美农田和敏感区域房地产的投资。这些措施预示着中美金融脱钩的起点，对中国资本市场和企业海外融资构成巨大挑战。
+tags:
+- china
+- control
+- geopolitical-risk
+- investment
+- vie-structure
+title: 特朗普政府对华投资限制政策的全面解析与影响
 ---
+
 ### 对华投资限制的范围拓展
 
 接下来，我们来看一下针对敌对国家的投资限制计划。我认为这份计划实际上是专门针对中国的投资限制计划。为什么这么说呢？因为它从头到尾都在提及中国的名字。虽然它划分了盟友和敌对阵营，但实际上，这是一份专门针对中国制定的投资备忘录。对于中国对美国的投资，它大大拓展了限制行业的标准。以前，中国企业如果想投资美国，一些敏感的、高科技的或涉及国家安全的行业，比如军工行业，是想都别想的，肯定投不了。现在，除了以前不能投的，还涉及美国的食品安全、矿产资源、新能源以及核心基础设施，比如桥梁、港口、高速公路等，这些你也不能投资了。以前可能有人会说，我能不能投资个电厂、投个桥或修个路什么的，现在所有这些都不能投了。你能投资的有多少，就看**外国投资委员会**（CFIUS: Committee on Foreign Investment in the United States，负责审查外国投资对美国国家安全影响的跨部门委员会）到底能给你批多少了，因为他们的权力也在无限扩大。所以，这基本上就是没地方说理了，命运完全掌握在别人手里，也没有什么法律可循了，因为外国投资委员会的权力在扩展，你也别想去诉诸法律了。这是一个很要命的事情。

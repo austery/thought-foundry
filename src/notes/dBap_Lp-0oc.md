@@ -1,47 +1,46 @@
 ---
-author: Veritasium
-date: '2020-12-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dBap_Lp-0oc
-speaker: Veritasium
-tags:
-  - veritasium
-  - optical-illusion
-  - perception
-  - brain-bias
-  - reality-interpretation
-  - anamorphosis
-title: 艾姆斯窗错觉：为何我们所见并非真实？
-summary: 本文深入探讨了著名的艾姆斯窗错觉，解释了我们大脑如何基于经验对形状和深度进行推断，从而导致对连续旋转的物体产生往复摆动的错觉。文章还介绍了“木工环境假说”及其在不同文化背景下的验证，并延伸讨论了透视变形艺术（Anamorphosis）和艾姆斯房间。最终，文章将这些错觉提升到哲学层面，探讨了人类感知外部现实的局限性，并呼吁我们对世界的认知保持谦逊。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Adelbert Ames
-  - Hans Holbein the Younger
-  - Leonardo da Vinci
+category: psychology
 companies_orgs:
-  - NordVPN
-  - Harvard psychologists
-products_models:
-  - Ames window illusion
-  - de Heer circle
-  - Ames Room
-  - Rubik's Cube
+- NordVPN
+- Harvard psychologists
+date: '2020-12-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Ambassadors
-  - Leonardo's Eye
-  - Curiosity Show
-  - Lascaux
+- The Ambassadors
+- Leonardo's Eye
+- Curiosity Show
+- Lascaux
+people:
+- Adelbert Ames
+- Hans Holbein the Younger
+- Leonardo da Vinci
+products_models:
+- Ames window illusion
+- de Heer circle
+- Ames Room
+- Rubik's Cube
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=dBap_Lp-0oc
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了著名的艾姆斯窗错觉，解释了我们大脑如何基于经验对形状和深度进行推断，从而导致对连续旋转的物体产生往复摆动的错觉。文章还介绍了“木工环境假说”及其在不同文化背景下的验证，并延伸讨论了透视变形艺术（Anamorphosis）和艾姆斯房间。最终，文章将这些错觉提升到哲学层面，探讨了人类感知外部现实的局限性，并呼吁我们对世界的认知保持谦逊。
+tags:
+- anamorphosi
+- bias
+- canada
+- geopolitical
+- perception
+title: 艾姆斯窗错觉：为何我们所见并非真实？
 ---
+
 ### 艾姆斯窗错觉初探
 
 我将通过这个窗户，把自己变成一个视错觉。

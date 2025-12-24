@@ -1,73 +1,73 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- Chime
+- Palantir
+- Nvidia
+- OpenAI
+- SoFi
+- Rocket Lab
+- Bitstamp
+- Trade PMR
+- Kalshi
+- Morgan Stanley
+- Piper Sandler
+- Sage
+- OpenDoor
+- BlackRock
+- Airbnb
+- Grab
+- New Bank
+- DLocal
+- Uber
+- PayPal
+- Meta
+- Coinbase
+- Crypto.com
+- Truth Social
+- IRS
+- SEC
+- S&P 500
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Roy Tanner
+- Vlad Tenev
+- Michael Burry
+- Sam Altman
+- Brian Armstrong
+- Nancy Pelosi
+- Jerome Powell
+- Joe Biden
+- Donald Trump
+- Taylor Swift
+products_models:
+- Robinhood Gold
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=1zHKLzMZnyQ
 speaker: Amit Kukreja
-tags:
-  - ai-bubble
-  - prediction-markets
-  - earnings-analysis
-  - short-selling
-  - regulatory-risk
-title: Robinhood 财报前瞻：AI 泡沫论与预测市场的机遇和风险
-summary: 本期节目深入探讨了 Robinhood 即将发布的 2025 年第三季度财报，并对关键财务数据进行了预测。同时，节目还激烈辩论了迈克尔·贝瑞（Michael Burry）关于 AI 泡沫的论点，特别是他做空 Palantir 和英伟达的立场。此外，内容详细剖析了预测市场这一新兴业务模式的巨大潜力和固有风险，讨论了 Coinbase CEO 的行为所引发的市场操纵担忧以及未来的监管挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Roy Tanner
-  - Vlad Tenev
-  - Michael Burry
-  - Sam Altman
-  - Brian Armstrong
-  - Nancy Pelosi
-  - Jerome Powell
-  - Joe Biden
-  - Donald Trump
-  - Taylor Swift
-companies_orgs:
-  - Robinhood
-  - Chime
-  - Palantir
-  - Nvidia
-  - OpenAI
-  - SoFi
-  - Rocket Lab
-  - Bitstamp
-  - Trade PMR
-  - Kalshi
-  - Morgan Stanley
-  - Piper Sandler
-  - Sage
-  - OpenDoor
-  - BlackRock
-  - Airbnb
-  - Grab
-  - New Bank
-  - DLocal
-  - Uber
-  - PayPal
-  - Meta
-  - Coinbase
-  - Crypto.com
-  - Truth Social
-  - IRS
-  - SEC
-  - S&P 500
-products_models:
-  - Robinhood Gold
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了 Robinhood 即将发布的 2025 年第三季度财报，并对关键财务数据进行了预测。同时，节目还激烈辩论了迈克尔·贝瑞（Michael
+  Burry）关于 AI 泡沫的论点，特别是他做空 Palantir 和英伟达的立场。此外，内容详细剖析了预测市场这一新兴业务模式的巨大潜力和固有风险，讨论了 Coinbase
+  CEO 的行为所引发的市场操纵担忧以及未来的监管挑战。
+tags:
+- ai-bubble
+- earnings-analysis
+- prediction-market
+- risk
+- short-selling
+title: Robinhood 财报前瞻：AI 泡沫论与预测市场的机遇和风险
 ---
+
 ### Robinhood 2025年第三季度财报前瞻
 
 大家好，欢迎回到新一期的 Tech Bros 直播。今天是 11 月 3 日，星期一。大约两天后，也就是周三，我们将迎来 Robinhood 2025 年第三季度的财报。所以，本期节目将主要围绕这份财报展开。如果时间允许，我们也会谈谈其他几个话题，但 Robinhood 将是今天非常重要的话题。Roy Tanner，你最近怎么样？

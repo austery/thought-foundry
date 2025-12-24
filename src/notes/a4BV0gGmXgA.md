@@ -1,48 +1,46 @@
 ---
-author: AI Engineer
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Braintrust
+- Notion
+- Replit
+- Google
+- OpenAI
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ankur Goyal
+- Sarah
+- Joti
+products_models:
+- GPT-4
+- GPT-4o
+- GPT-4o mini
+- GPT-3.5
+- Claude 3 Sonnet
+- Claude 3 Opus
+- Gemini
+- Gemini 2.5 Pro 0520
+- Gemini Flash
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=a4BV0gGmXgA
 speaker: AI Engineer
-tags:
-  - ai-evaluations
-  - prompt-engineering
-  - llm-development
-  - agentic-systems
-  - model-updates
-title: AI评估系统：从防御到进攻的五大实践经验
-summary: 本文基于Ankur Goyal的分享，深入探讨了AI评估系统（Evals）的五大关键经验。它强调了评估系统在快速迭代新模型、有效整合用户反馈以及主动探索新用例中的核心作用。文章还深入讨论了构建高质量评估系统所需的工程化投入，包括精心设计数据集、定制评分函数和优化工具定义。最后，它呼吁企业为模型更新做好准备，并优化整个AI系统而非仅关注提示词，以充分利用大模型带来的机遇。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Ankur Goyal
-  - Sarah
-  - Joti
-companies_orgs:
-  - Braintrust
-  - Notion
-  - Replit
-  - Google
-  - OpenAI
-products_models:
-  - GPT-4
-  - GPT-4o
-  - GPT-4o mini
-  - GPT-3.5
-  - Claude 3 Sonnet
-  - Claude 3 Opus
-  - Gemini
-  - Gemini 2.5 Pro 0520
-  - Gemini Flash
-media_books: []
 status: evergreen
+summary: 本文基于Ankur Goyal的分享，深入探讨了AI评估系统（Evals）的五大关键经验。它强调了评估系统在快速迭代新模型、有效整合用户反馈以及主动探索新用例中的核心作用。文章还深入讨论了构建高质量评估系统所需的工程化投入，包括精心设计数据集、定制评分函数和优化工具定义。最后，它呼吁企业为模型更新做好准备，并优化整个AI系统而非仅关注提示词，以充分利用大模型带来的机遇。
+tags:
+- ai-evaluation
+- development
+- model
+- system
+title: AI评估系统：从防御到进攻的五大实践经验
 ---
+
 ### 评估系统有效性的三个关键指标
 
 让我们来谈谈我们随着时间的推移学到的一些有趣的事情。首先，我认为最重要的是，你需要理解并明确你的**评估系统**（Evals: 用于评估大型语言模型性能的系统）是否真的为你的组织提供了价值。我总结了三个你应该关注的积极迹象。

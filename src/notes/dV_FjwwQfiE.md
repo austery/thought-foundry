@@ -1,47 +1,46 @@
 ---
-author: 一口新飯
+area: personal-systems
+category: business
+companies_orgs:
+- 一口新饭
+- 小红书
+- YouTube
+- Bilibili
+- Weibo
+- Instagram
+- Google
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《不平等优势》
+people:
+- Ami
+- Ray
+- Elon Musk
+products_models:
+- Sony
+- Notion
+- iPad
+- DeepSeek
+project:
+- entrepreneurship
+- personal-growth-lab
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=dV_FjwwQfiE
 speaker: 一口新飯
-tags:
-  - side-hustle-economy
-  - creator-entrepreneur
-  - career-transition
-  - unequal-advantage
-  - finding-purpose
-title: 从崩溃裸辞到年入70万：Ami分享她靠热爱与副业实现自由的创业之路
-summary: 曾经，Ami是一位在大公司工作到精神崩溃的打工人；如今，她是一位年利润达70万、成功的创作创业者。在这次深度访谈中，Ami复盘了她从裸辞到全职发展文创事业和自媒体的完整心路历程。她分享了如何将个人热爱转化为可持续的商业模式，如何利用“不平等优势”发现市场空白，以及在经历产品失败与挫折后，如何凭借耐心与坚持迎来事业的爆发点。这不仅是一个关于“搞钱”的故事，更是一个关于寻找自我价值与人生意义的真实记录。
-insight: ''
-draft: true
-series: ''
-category: business
-area: personal-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-  - china-analysis
-people:
-  - Ami
-  - Ray
-  - Elon Musk
-companies_orgs:
-  - 一口新饭
-  - 小红书
-  - YouTube
-  - Bilibili
-  - Weibo
-  - Instagram
-  - Google
-products_models:
-  - Sony
-  - Notion
-  - iPad
-  - DeepSeek
-media_books:
-  - 《不平等优势》
 status: evergreen
+summary: 曾经，Ami是一位在大公司工作到精神崩溃的打工人；如今，她是一位年利润达70万、成功的创作创业者。在这次深度访谈中，Ami复盘了她从裸辞到全职发展文创事业和自媒体的完整心路历程。她分享了如何将个人热爱转化为可持续的商业模式，如何利用“不平等优势”发现市场空白，以及在经历产品失败与挫折后，如何凭借耐心与坚持迎来事业的爆发点。这不仅是一个关于“搞钱”的故事，更是一个关于寻找自我价值与人生意义的真实记录。
+tags:
+- career-transition
+- finding-purpose
+- geopolitical
+- history
+- side-hustle-economy
+title: 从崩溃裸辞到年入70万：Ami分享她靠热爱与副业实现自由的创业之路
 ---
 
 ### 嘉宾介绍与近况更新

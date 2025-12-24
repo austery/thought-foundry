@@ -1,39 +1,38 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- YouTube
 date: '2025-01-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 庄也
+- Donald Trump
+products_models:
+- 泰诺
+- COVID抗原试剂
+- ChatGPT
+project:
+- geopolitics-watch
+- fire-movement
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=op6SYDuIfNY
 speaker: 莊也雜談
-tags:
-  - covid-19-recovery
-  - public-health-awareness
-  - youtube-channel-strategy
-  - canadian-politics
-  - retirement-planning
-title: 新年伊始：我的新冠感染与康复经历及频道未来展望
-summary: 主持人庄也分享了2025年元旦期间感染新冠病毒的经历，详细描述了自己和太太的症状、就医过程及康复情况。他提醒观众新冠病毒仍未远去，呼吁大家注意防护并接种疫苗。同时，庄也展望了频道2025年的内容规划，包括退休养老系列、加拿大时政分析、城市探索及历史名人系列，并表示将更多关注加拿大本地话题。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - geopolitics-watch
-  - fire-movement
-  - historical-insights
-people:
-  - 庄也
-  - Donald Trump
-companies_orgs:
-  - YouTube
-products_models:
-  - 泰诺
-  - COVID抗原试剂
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 主持人庄也分享了2025年元旦期间感染新冠病毒的经历，详细描述了自己和太太的症状、就医过程及康复情况。他提醒观众新冠病毒仍未远去，呼吁大家注意防护并接种疫苗。同时，庄也展望了频道2025年的内容规划，包括退休养老系列、加拿大时政分析、城市探索及历史名人系列，并表示将更多关注加拿大本地话题。
+tags:
+- canadian-politics
+- health
+- public-health-awareness
+- retirement-planning
+- strategy
+title: 新年伊始：我的新冠感染与康复经历及频道未来展望
 ---
+
 ### 新年问候与新冠感染经历
 
 大家好，我是庄也，欢迎您收看庄也杂谈。2025年的元旦刚刚过去，虽说有些晚了，但在这里我还是先祝愿咱们杂谈频道的广大听众朋友们2025年新年快乐，Happy New Year！祝愿大家在新的一年里面财源广进、大吉大利、身体健康、吃嘛嘛香。

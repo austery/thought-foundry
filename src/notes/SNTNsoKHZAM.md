@@ -1,55 +1,54 @@
 ---
-author: 北美王路飞
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- 大宇公司
+- GG平台
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 金庸
+- 古龙
+- 陆晓凤杜小凤传奇
+- ai-video
+- podcast
+people:
+- 刘总
+- 老尹
+- 清月
+- Arthur Croomber
+- 特朗普
+- 周宏伟
+- 夏河
+- 刘索龙
+products_models:
+- Escape from Tarkov
+- Elden Ring
+- Black Myth
+- Xian Jian Qi Xia Zhuan
+- Hearts of Iron IV
+- Civilization VI
+- CS
+- COD
+- Dota
+- AK47
+- MD40
+- NS2
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=SNTNsoKHZAM
 speaker: 北美王路飞
-tags:
-  - llm
-  - ai-video
-  - podcast
-  - content-creation
-title: 逃离鸭科夫能治好我的电子ED吗？
-summary: 主播在玩《逃离亚科夫》时，遭遇游戏挑战并分享了关于内容创作、AI视频、个人经历及其他游戏话题的广泛讨论。内容涵盖游戏技巧、工作流程、地域文化及对热门话题的看法。
-insight: ''
-draft: true
-series: ''
-category: career-development
-area: knowledge-meta
-project:
-  - ai-impact-analysis
-people:
-  - 刘总
-  - 老尹
-  - 清月
-  - Arthur Croomber
-  - 特朗普
-  - 周宏伟
-  - 夏河
-  - 刘索龙
-companies_orgs:
-  - 大宇公司
-  - GG平台
-products_models:
-  - Escape from Tarkov
-  - Elden Ring
-  - Black Myth
-  - Xian Jian Qi Xia Zhuan
-  - Hearts of Iron IV
-  - Civilization VI
-  - CS
-  - COD
-  - Dota
-  - AK47
-  - MD40
-  - NS2
-media_books:
-  - 金庸
-  - 古龙
-  - 陆晓凤杜小凤传奇
 status: evergreen
+summary: 主播在玩《逃离亚科夫》时，遭遇游戏挑战并分享了关于内容创作、AI视频、个人经历及其他游戏话题的广泛讨论。内容涵盖游戏技巧、工作流程、地域文化及对热门话题的看法。
+tags:
+- content-creation
+title: 逃离鸭科夫能治好我的电子ED吗？
 ---
+
 ### 游戏开局
 OK，我现在这个话筒调好了，声音应该是没问题了。我在想一个办法，我刚刚买了这个游戏，现在正在玩，先把这个关了。OK，画面没有问题。我刚刚在外面被人打死了，我现在要回去。
 

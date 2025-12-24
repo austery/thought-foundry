@@ -1,47 +1,47 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: psychology
+companies_orgs:
+- Norges Bank Investment Management
+- Harvard Business School
 date: '2024-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Power of Regret
+- 'Drive: The Surprising Truth About What Motivates Us'
+- 'When: The Scientific Secrets of Perfect Timing'
+- The Grasshopper and the Ant
+- In Good Company
+people:
+- Nikolai Tangen
+- Dan Pink
+- Howard Marx
+- Annie Duke
+- Teresa Amabile
+- Sam Altman
+- Jim Loehr
+- Tony Schwartz
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Qvy9oAldcxY
 speaker: Norges Bank Investment Management
-tags:
-  - regret-management
-  - intrinsic-motivation
-  - optimal-timing
-  - decision-making
-  - career-development
-title: 丹·平克：拥抱遗憾、激发内在动力与掌握时机，活出更丰盛的人生
-summary: 在本次播客中，畅销书作家丹·平克与挪威主权财富基金的尼古拉·坦根深入探讨了人类行为的三个核心要素：遗憾、驱动力和时机。平克挑战了“无悔”哲学，强调通过反思遗憾来学习成长；他阐述了自主性、精通和目的如何激发内在动力，并揭示了利用时间生物学优化日常表现的科学方法。本次对话为个人成长、职业发展和决策制定提供了宝贵的见解。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Nikolai Tangen
-  - Dan Pink
-  - Howard Marx
-  - Annie Duke
-  - Teresa Amabile
-  - Sam Altman
-  - Jim Loehr
-  - Tony Schwartz
-companies_orgs:
-  - Norges Bank Investment Management
-  - Harvard Business School
-products_models: []
-media_books:
-  - The Power of Regret
-  - 'Drive: The Surprising Truth About What Motivates Us'
-  - 'When: The Scientific Secrets of Perfect Timing'
-  - The Grasshopper and the Ant
-  - In Good Company
 status: evergreen
+summary: 在本次播客中，畅销书作家丹·平克与挪威主权财富基金的尼古拉·坦根深入探讨了人类行为的三个核心要素：遗憾、驱动力和时机。平克挑战了“无悔”哲学，强调通过反思遗憾来学习成长；他阐述了自主性、精通和目的如何激发内在动力，并揭示了利用时间生物学优化日常表现的科学方法。本次对话为个人成长、职业发展和决策制定提供了宝贵的见解。
+tags:
+- career-development
+- decision-making
+- management
+- optimal-timing
+- psychology
+title: 丹·平克：拥抱遗憾、激发内在动力与掌握时机，活出更丰盛的人生
 ---
+
 ### 播客开场：欢迎丹·平克
 
 **Nikolai**: 大家好，我是挪威主权财富基金（**Sovereign wealth fund**: 由政府拥有和管理的投资基金）的**首席运营官**（COO: Chief Operating Officer）**尼古拉·坦根**（Nikolai Tangen）。今天，我非常高兴地欢迎**丹·平克**（Dan Pink），他撰写了七本《**纽约时报**》（New York Times: 美国知名报纸）畅销书。

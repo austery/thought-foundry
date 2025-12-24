@@ -1,41 +1,41 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Goldman Sachs
 date: '2025-06-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Jerome Powell
+- Michelle Bowman
+- Joe Biden
+products_models:
+- Robotaxi
+- FSD
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=3n6kILXaI3U
 speaker: Shanghao Jin
-tags:
-  - fed-policy
-  - us-tariffs
-  - geopolitical-risk
-  - oil-market
-  - tesla-robotaxi
-title: 市场概览：地缘政治、美联储政策与关税对全球经济的影响
-summary: 本期市场概览深入分析了地缘政治冲突（如以色列与伊朗）、美联储的谨慎货币政策以及唐纳德·特朗普政府的关税政策对全球经济和市场的影响。内容涵盖了美联储对降息的预期、关税对通胀和国内生产总值的潜在冲击、美国财政赤字问题、美欧贸易谈判进展，以及中东局势对油价的短期与长期影响。此外，还探讨了特斯拉Robotaxi技术及其在短期业绩压力下的长期潜力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Michelle Bowman
-  - Joe Biden
-companies_orgs:
-  - Federal Reserve
-  - Goldman Sachs
-products_models:
-  - Robotaxi
-  - FSD
-media_books: []
 status: evergreen
+summary: 本期市场概览深入分析了地缘政治冲突（如以色列与伊朗）、美联储的谨慎货币政策以及唐纳德·特朗普政府的关税政策对全球经济和市场的影响。内容涵盖了美联储对降息的预期、关税对通胀和国内生产总值的潜在冲击、美国财政赤字问题、美欧贸易谈判进展，以及中东局势对油价的短期与长期影响。此外，还探讨了特斯拉Robotaxi技术及其在短期业绩压力下的长期潜力。
+tags:
+- fed-policy
+- geopolitical-risk
+- market
+- us-tariff
+title: 市场概览：地缘政治、美联储政策与关税对全球经济的影响
+companies:
+- tesla-robotaxi
 ---
+
 ### 地缘政治与美联储的谨慎态度
 
 过去两周，市场受到了显著的**地缘政治**（Geopolitics: 国际政治、经济、军事等因素对地理区域的影响）影响，特别是以色列与伊朗之间的冲突。在此背景下，美联储召开了**美联储会议**（Federal Reserve Meeting: 美国中央银行联邦储备系统理事会定期召开的政策会议），其态度显得异常谨慎。

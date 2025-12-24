@@ -1,55 +1,55 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国疾病预防控制中心
+- 河南省卫生厅
+- 周口医院
+- 中国新闻周刊
+- 中国卫生部
+- 中央电视台
+- 河南省红十字会
 date: '2024-01-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中原纪事》
+- 《打断的回复之怒》
+- 《河南的艾滋病经西反映今日成就》
+- 《纽约时报》
+people:
+- 高耀洁
+- 柴静
+- 艾晓明
+- 王淑萍
+- 张可
+- 张继成
+- 桂贤
+- 张文康
+- 蒋彦永
+- 胡锦涛
+- 林世钰
+- 张静雅
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Upq4xqhyXUc
 speaker: 柴静 Chai Jing
-tags:
-  - aids-epidemic
-  - truth-telling
-  - public-health-crisis
-  - government-suppression
-  - social-justice
-title: 高耀洁医生：一位揭露河南艾滋疫情真相的孤独斗士
-summary: 本期节目深情回顾了已故高耀洁医生的一生及其为揭露河南艾滋病疫情真相所做的贡献。面对官方的掩盖与社会争议，高医生坚持不懈地走访病患、收集证据，最终促使疫情公开。节目也探讨了她因坚持真理而付出的巨大个人代价，包括被迫流亡海外、与家人分离，以及她晚年笔耕不辍，用文字记录历史的决心。高耀洁医生以其坚韧与良知，成为中国公共卫生史上不可磨灭的印记。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 高耀洁
-  - 柴静
-  - 艾晓明
-  - 王淑萍
-  - 张可
-  - 张继成
-  - 桂贤
-  - 张文康
-  - 蒋彦永
-  - 胡锦涛
-  - 林世钰
-  - 张静雅
-companies_orgs:
-  - 中国疾病预防控制中心
-  - 河南省卫生厅
-  - 周口医院
-  - 中国新闻周刊
-  - 中国卫生部
-  - 中央电视台
-  - 河南省红十字会
-products_models: []
-media_books:
-  - 《中原纪事》
-  - 《打断的回复之怒》
-  - 《河南的艾滋病经西反映今日成就》
-  - 《纽约时报》
 status: evergreen
+summary: 本期节目深情回顾了已故高耀洁医生的一生及其为揭露河南艾滋病疫情真相所做的贡献。面对官方的掩盖与社会争议，高医生坚持不懈地走访病患、收集证据，最终促使疫情公开。节目也探讨了她因坚持真理而付出的巨大个人代价，包括被迫流亡海外、与家人分离，以及她晚年笔耕不辍，用文字记录历史的决心。高耀洁医生以其坚韧与良知，成为中国公共卫生史上不可磨灭的印记。
+tags:
+- government
+- llm
+- philosophy
+- public-health-crisis
+- social-justice
+title: 高耀洁医生：一位揭露河南艾滋疫情真相的孤独斗士
 ---
+
 ### 悼念高耀洁医生：一位坚守真相的先行者
 
 在我心里有几个一直惦记着想聊的人。我联系的第一个人是**高耀洁**医生。我们俩约好在12月11号连线谈话，就在前一天下午，我正在写给她的问题时，收到了她的传记作者的短信，说高医生去世了。我在我的社交媒体平台发布了这条消息，很多人怀念她。但也有一些人说她是叛徒，他们继续散布关于高耀洁的争议，称中国的**艾滋病**（AIDS: 获得性免疫缺陷综合征，由HIV病毒引起，破坏人体免疫系统）疫情并不那么严重，主要的感染途径是吸毒和性传播。他们还说高耀洁被中国感动，甚至出国领奖，甚至只是为了个人名利而出国。

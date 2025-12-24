@@ -6,14 +6,13 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-  - personal-growth
-  - 内容创作
-  - 播客制作
-  - 社群
-people: []
+- community
+- personal-growth
+- 内容创作
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- 播客制作
 date: '2025-07-10'
 author: Lei
 speaker: 一口新饭读书会
@@ -24,6 +23,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 **讲述者简介**
 
 **主持人Vincent：**新范三人行播客主持人，前软件架构师，现为创业者，热衷于通过对话和活动链接社群，探索不同的人生故事。

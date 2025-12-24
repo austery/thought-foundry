@@ -1,60 +1,58 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: tech-insights
+category: technology
+companies_orgs:
+- TextQL
+- Oracle
+- GitHub
+- Snowflake
+- Databricks
+- Tableau
+- Palantir
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The MAD Podcast with Matt Turck
+people:
+- Ethan
+- Dylan
+- Matt
+- Anna
+products_models:
+- ERP
+- CRM
+- HR systems
+- BI tools
+- Notion
+- Glean
+- Pandas
+- Polars
+- DuckDB
+- ClickHouse
+- LookML
+- Cube
+- MetricFlow
+- PowerBI
+- Looker
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=CXsBiqIbrQo
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - enterprise-ai
-  - big-data-query
-  - data-agents
-  - semantic-layer
-  - data-integration
-title: TextQL CEO：构建处理PB级企业数据的AI代理
-summary: TextQL的CEO Ethan介绍了该公司如何构建AI代理，以应对PB级企业数据的复杂查询挑战。他指出，传统大数据基础设施配置成本高昂，而现有AI产品难以处理超大规模数据。TextQL通过独特的迭代式SQL生成和上下文管理，实现了对十万张表的零配置查询，显著降低了数据分析成本，并解锁了更细粒度、低延迟的商业洞察，尤其在金融服务和医疗保健领域表现突出。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Ethan
-  - Dylan
-  - Matt
-  - Anna
-companies_orgs:
-  - TextQL
-  - Oracle
-  - GitHub
-  - Snowflake
-  - Databricks
-  - Tableau
-  - Palantir
-products_models:
-  - ERP
-  - CRM
-  - HR systems
-  - BI tools
-  - Notion
-  - Glean
-  - Pandas
-  - Polars
-  - DuckDB
-  - ClickHouse
-  - LookML
-  - Cube
-  - MetricFlow
-  - PowerBI
-  - Looker
-media_books:
-  - The MAD Podcast with Matt Turck
 status: evergreen
+summary: TextQL的CEO Ethan介绍了该公司如何构建AI代理，以应对PB级企业数据的复杂查询挑战。他指出，传统大数据基础设施配置成本高昂，而现有AI产品难以处理超大规模数据。TextQL通过独特的迭代式SQL生成和上下文管理，实现了对十万张表的零配置查询，显著降低了数据分析成本，并解锁了更细粒度、低延迟的商业洞察，尤其在金融服务和医疗保健领域表现突出。
+tags:
+- data
+- enterprise-ai
+- semantic-layer
+title: TextQL CEO：构建处理PB级企业数据的AI代理
 ---
+
 ### TextQL：为PB级企业数据构建AI代理
 
 大家好，我叫Ethan，我是**TextQL**（一家为超大规模数据构建AI代理的公司）的首席执行官兼联合创始人，我们致力于为超大规模数据构建AI代理。

@@ -1,55 +1,57 @@
 ---
-author: How I AI
+area: tech-insights
+category: technology
+companies_orgs:
+- Faire
+- Zapier
+- Dropbox
+- Airbnb
+- Notion
+- Jira
+- Slack
+- GitHub
+- Snowflake
+- Brex
+- Qualtrics
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+people:
+- Tim
+- Alexa
+- Clarvo
+- Dan
+products_models:
+- Cursor
+- ChatGPT
+- Mode
+- EPO
+- LangChain
+- Devon
+project:
+- ai-impact-analysis
+- vibe-coding
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=KOr-xQuNK4A
 speaker: How I AI
-tags:
-  - data-analysis-workflow
-  - context-engineering
-  - semantic-layer
-  - ai-agents
-  - enterprise-search
-title: 超越 Vibe Coding：Faire 如何利用 AI 工具链革新数据分析流程
-summary: Faire 的数据团队成员 Tim 和 Alexa 详细展示了他们如何超越“Vibe Coding”，进入“Vibe Analysis”的新境界。本期节目深入探讨了他们如何利用 Cursor、企业级 AI 搜索、自定义 AI 代理等工具，将数据分析工作流提升到全新水平。内容涵盖从调查业务指标下降、进行端到端的漏斗分析，到自动化 A/B 测试报告和高效处理用户调研的全过程，为产品经理、数据分析师和工程师提供了极具实践价值的 AI 应用案例。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - vibe-coding
-  - knowledge-pipeline
-people:
-  - Tim
-  - Alexa
-  - Clarvo
-  - Dan
-companies_orgs:
-  - Faire
-  - Zapier
-  - Dropbox
-  - Airbnb
-  - Notion
-  - Jira
-  - Slack
-  - GitHub
-  - Snowflake
-  - Brex
-  - Qualtrics
-products_models:
-  - Cursor
-  - ChatGPT
-  - Mode
-  - EPO
-  - LangChain
-  - Devon
-media_books:
-  - How I AI
 status: evergreen
+summary: Faire 的数据团队成员 Tim 和 Alexa 详细展示了他们如何超越“Vibe Coding”，进入“Vibe Analysis”的新境界。本期节目深入探讨了他们如何利用
+  Cursor、企业级 AI 搜索、自定义 AI 代理等工具，将数据分析工作流提升到全新水平。内容涵盖从调查业务指标下降、进行端到端的漏斗分析，到自动化 A/B
+  测试报告和高效处理用户调研的全过程，为产品经理、数据分析师和工程师提供了极具实践价值的 AI 应用案例。
+tags:
+- ai-agent
+- business
+- context-engineering
+- data
+- semantic-layer
+title: 超越 Vibe Coding：Faire 如何利用 AI 工具链革新数据分析流程
 ---
+
 ### 导语：从快速发布到深度分析
 
 >> 我们如何从分析产品、质量及其使用情况的最开始入手，通过分析转化率来进行？

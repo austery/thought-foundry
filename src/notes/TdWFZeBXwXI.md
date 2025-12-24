@@ -1,48 +1,47 @@
 ---
-author: 徒步的騎手
-date: 2025-02-20
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=TdWFZeBXwXI'
-speaker: 徒步的騎手
-tags:
-  - electoral-dictatorship
-  - democracy-recession
-  - strongman-politics
-  - political-crisis
-  - geopolitical-strategy
-title: 终极选举年背后的民主危机：民选独裁的崛起与挑战
-summary: 2024年被誉为“终极选举年”，全球多国举行大选，表面上是民主的盛宴，但国际媒体如《金融时报》却担忧民主的存亡。本文深入探讨了“民主衰退”现象，即民主质量的下降，并重点介绍了“民选独裁”这一新型政治模式。通过分析亚历山大·马托夫斯基的著作《民选独裁危机》，文章揭示了民选独裁者如何利用选举上台，并通过制造危机、诉诸民意来维持长期执政，以普京入侵乌克兰为例，阐释了其背后的国内政治动因，以及这种模式对全球民主构成的深远挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - historical-insights
-people:
-  - Vladimir Putin
-  - Alexander Matovsky
-  - Samuel Huntington
-  - Viktor Orbán
-  - Donald Trump
-  - 克里斯多夫·尤斯汀
+category: geopolitics
 companies_orgs:
-  - Financial Times
-  - Time Magazine
-  - Munich Security Conference
-  - NATO
-  - Cornell University
-  - 美国海军研究生院
-products_models: '[]'
+- Financial Times
+- Time Magazine
+- Munich Security Conference
+- NATO
+- Cornell University
+- 美国海军研究生院
+date: 2025-02-20
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《民选独裁危机：民意和民选威权主义的兴起》
-  - '《Popular Dictatorships: Crisis, Mass Opinion and the Rise of Electoral Authoritarianism》'
-  - 《时代周刊》
-  - 《金融时报》
+- 《民选独裁危机：民意和民选威权主义的兴起》
+- '《Popular Dictatorships: Crisis, Mass Opinion and the Rise of Electoral Authoritarianism》'
+- 《时代周刊》
+- 《金融时报》
+people:
+- Vladimir Putin
+- Alexander Matovsky
+- Samuel Huntington
+- Viktor Orbán
+- Donald Trump
+- 克里斯多夫·尤斯汀
+products_models: '[]'
+project:
+- geopolitics-watch
+- us-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=TdWFZeBXwXI
+speaker: 徒步的騎手
 status: evergreen
+summary: 2024年被誉为“终极选举年”，全球多国举行大选，表面上是民主的盛宴，但国际媒体如《金融时报》却担忧民主的存亡。本文深入探讨了“民主衰退”现象，即民主质量的下降，并重点介绍了“民选独裁”这一新型政治模式。通过分析亚历山大·马托夫斯基的著作《民选独裁危机》，文章揭示了民选独裁者如何利用选举上台，并通过制造危机、诉诸民意来维持长期执政，以普京入侵乌克兰为例，阐释了其背后的国内政治动因，以及这种模式对全球民主构成的深远挑战。
+tags:
+- financial
+- geopolitical
+- geopolitical-strategy
+- political
+- politics
+title: 终极选举年背后的民主危机：民选独裁的崛起与挑战
 ---
 
 ### 2024“终极选举年”：民主的表象与危机

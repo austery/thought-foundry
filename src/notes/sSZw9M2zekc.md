@@ -1,39 +1,38 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: general
+companies_orgs:
+- Peking University
+- Tsinghua University
+- Douban
+- QQ Music
+- True Story Project
 date: '2024-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Ordinary Road
+people:
+- Professor Chu Yin
+- Hegel
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=sSZw9M2zekc
 speaker: Anthony看世界
-tags:
-  - general-studies
-  - involution
-  - anxiety
-  - societal-evaluation
-  - spiritual-liberation
-title: “普通学”的虚假慰藉：为何它无法真正对抗内卷与焦虑？
-summary: 本文深入探讨了中国社会中“普通学”现象的兴起及其局限性。在内卷和高压氛围下，许多年轻人试图通过接受“普通”来缓解焦虑，但作者认为这种“普通学”是一种虚假的自我安慰，因为它未能真正批判世俗的成功标准，反而陷入了其逻辑框架。文章呼吁真正的精神解放应主动批判和解构虚假的卓越，建立真正普世的评价体系，以实现个体与社会的和谐。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people:
-  - Professor Chu Yin
-  - Hegel
-companies_orgs:
-  - Peking University
-  - Tsinghua University
-  - Douban
-  - QQ Music
-  - True Story Project
-products_models: []
-media_books:
-  - Ordinary Road
 status: evergreen
+summary: 本文深入探讨了中国社会中“普通学”现象的兴起及其局限性。在内卷和高压氛围下，许多年轻人试图通过接受“普通”来缓解焦虑，但作者认为这种“普通学”是一种虚假的自我安慰，因为它未能真正批判世俗的成功标准，反而陷入了其逻辑框架。文章呼吁真正的精神解放应主动批判和解构虚假的卓越，建立真正普世的评价体系，以实现个体与社会的和谐。
+tags:
+- anxiety
+- health
+- history
+- involution
+- societal
+title: “普通学”的虚假慰藉：为何它无法真正对抗内卷与焦虑？
 ---
 
 ### 自我认同与“普通学”的兴起

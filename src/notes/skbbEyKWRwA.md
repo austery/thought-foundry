@@ -1,51 +1,51 @@
 ---
-author: 天下文化
+area: society-systems
+category: psychology
+companies_orgs:
+- 领导影响力学院
+- 天下文化
+- 均一基金会
+- 金门国家公园管理处
+- 台积电
+- 靖天电视
 date: '2025-09-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《我所嚮往的生活文明》
+- 《刺激1995》
+- 《四季》
+- 《科学人杂志》
+- 《联合报》
+people:
+- 张正杰
+- 梁晓华
+- 严长寿
+- 王秀杞
+- 马英九
+- 杨定一
+products_models:
+- iPad
+- 大同电锅
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=skbbEyKWRwA
 speaker: 天下文化
-tags:
-  - influence-redefinition
-  - arts-education
-  - creative-innovation
-  - mindset-transformation
-  - social-engagement
-title: 大提琴家张正杰：从音乐到人生，重新定义影响力的艺术与真诚
-summary: 知名大提琴家张正杰在《对话领导力》节目中，以严长寿先生的《我所嚮往的生活文明》为引，分享了其对影响力的独到见解。他强调艺术与人文教育的重要性，并以自身将古典音乐带入偏乡、监狱的经历，展现了“玩音乐”的创新精神和务实态度。张正杰老师提出，面对工作与逆境，心态转变至关重要，并呼吁社会应更具包容与尊重。他以真诚作为核心价值，鼓励听众在生活中寻找意义，启发了领导者和个人思考如何在快速变化的时代中，回归人的本质，创造有温度的价值。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - 张正杰
-  - 梁晓华
-  - 严长寿
-  - 王秀杞
-  - 马英九
-  - 杨定一
-companies_orgs:
-  - 领导影响力学院
-  - 天下文化
-  - 均一基金会
-  - 金门国家公园管理处
-  - 台积电
-  - 靖天电视
-products_models:
-  - iPad
-  - 大同电锅
-media_books:
-  - 《我所嚮往的生活文明》
-  - 《刺激1995》
-  - 《四季》
-  - 《科学人杂志》
-  - 《联合报》
 status: evergreen
+summary: 知名大提琴家张正杰在《对话领导力》节目中，以严长寿先生的《我所嚮往的生活文明》为引，分享了其对影响力的独到见解。他强调艺术与人文教育的重要性，并以自身将古典音乐带入偏乡、监狱的经历，展现了“玩音乐”的创新精神和务实态度。张正杰老师提出，面对工作与逆境，心态转变至关重要，并呼吁社会应更具包容与尊重。他以真诚作为核心价值，鼓励听众在生活中寻找意义，启发了领导者和个人思考如何在快速变化的时代中，回归人的本质，创造有温度的价值。
+tags:
+- education
+- influence
+- innovation
+- social
+- transformation
+title: 大提琴家张正杰：从音乐到人生，重新定义影响力的艺术与真诚
 ---
+
 欢迎收听《对话领导力》，本节目由**领导影响力学院**（Leadership Influence Academy: 专注于领导力发展和影响力提升的机构）与**天下文化**（Commonwealth Publishing: 台湾知名出版公司）共同出品。与顶尖领袖对话，从经典书籍出发，探索领导的智慧与管理心法。我是主持人梁晓华。
 
 ### 重新定义影响力的艺术人生

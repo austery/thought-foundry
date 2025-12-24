@@ -1,62 +1,62 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- World Bank
+- Paylab
+- Australian Bureau of Statistics
+- OECD
+- Brookfield
+- BHP
+- Coles
+- Woolworths
+- Loblaw
+- Sobeys
+- Air Canada
+- WestJet
+- Qantas
+- Virgin Australia
+- Bell
+- Rogers
+- Telus
+- Telstra
+- Vodafone
+- Optus
+- Credit Suisse
+- Mitsubishi
+- Ford
+- General Motors
+- Toyota
 date: '2024-04-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富》杂志
+- 《世界知识产权指标》
+people:
+- Justin Trudeau
+- Scott Morrison
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=djDfW1R5C-0
 speaker: 莊也雜談
-tags:
-  - canada-australia-economy
-  - resource-curse
-  - economic-diversification
-  - geopolitical-influence
-  - market-monopoly
-title: 澳大利亚与加拿大经济对比：资源诅咒、地缘角色与发展挑战
-summary: 本文深入探讨了澳大利亚和加拿大这两个英联邦国家的经济结构、发展轨迹及其面临的共同挑战。尽管两国地理位置遥远，但在政治制度、人口分布和自然资源依赖方面存在诸多相似之处。文章对比了两国在G7地位、经济体量、人均GDP、平均工资和失业率等方面的差异，并分析了澳大利亚经济活力更强的原因。同时，也揭示了两国在国际竞争力、市场垄断和资源诅咒等方面的共性问题，强调了产业多元化和创新投入的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Justin Trudeau
-  - Scott Morrison
-companies_orgs:
-  - World Bank
-  - Paylab
-  - Australian Bureau of Statistics
-  - OECD
-  - Brookfield
-  - BHP
-  - Coles
-  - Woolworths
-  - Loblaw
-  - Sobeys
-  - Air Canada
-  - WestJet
-  - Qantas
-  - Virgin Australia
-  - Bell
-  - Rogers
-  - Telus
-  - Telstra
-  - Vodafone
-  - Optus
-  - Credit Suisse
-  - Mitsubishi
-  - Ford
-  - General Motors
-  - Toyota
-products_models: []
-media_books:
-  - 《财富》杂志
-  - 《世界知识产权指标》
 status: evergreen
+summary: 本文深入探讨了澳大利亚和加拿大这两个英联邦国家的经济结构、发展轨迹及其面临的共同挑战。尽管两国地理位置遥远，但在政治制度、人口分布和自然资源依赖方面存在诸多相似之处。文章对比了两国在G7地位、经济体量、人均GDP、平均工资和失业率等方面的差异，并分析了澳大利亚经济活力更强的原因。同时，也揭示了两国在国际竞争力、市场垄断和资源诅咒等方面的共性问题，强调了产业多元化和创新投入的重要性。
+tags:
+- economic-diversification
+- economy
+- environment
+- geopolitical-influence
+- market
+title: 澳大利亚与加拿大经济对比：资源诅咒、地缘角色与发展挑战
 ---
+
 ### 加拿大与澳大利亚：惊人的相似与独特的差异
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们将深入探讨加拿大和澳大利亚的经济及其产业结构。这个话题可能对不关心经济的人来说有些乏味，但其中蕴含着许多有趣的干货和趣闻。

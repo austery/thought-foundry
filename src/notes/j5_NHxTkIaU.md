@@ -1,124 +1,125 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- S&P 500
+- Nvidia
+- PayPal
+- Federal Reserve
+- Palantir
+- Scion Asset Management
+- Disney
+- Netflix
+- Cisco
+- Serve Robotics
+- DLO
+- Chipotle
+- Lululemon
+- Meta
+- Oracle
+- CoreWeave
+- Google
+- JD.com
+- Bitfarms
+- Microsoft
+- Amazon
+- OpenAI
+- Circle
+- JPMorgan
+- Bank of America
+- Bloomberg
+- Fannie Mae
+- DA Davidson
+- TSMC
+- AMD
+- Starbucks
+- UPS
+- Intel
+- Verizon
+- IMF
+- UBS
+- CFTC
+- Fox News
+- CNBC
+- XAI
+- Robinhood
+- Gopuff
+- Costway Capital Management
+- Moody's
+- Visa
+- Ferrari
+- Sweetgreen
+- House Republicans
+- Democrats
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Substack
+- Yahoo Finance
+- The Wall Street Journal
+people:
+- Donald Trump
+- Michael Burry
+- Collins
+- Carolyn Levit
+- Mike Johnson
+- Chuck Schumer
+- Nancy Pelosi
+- Tim Kaine
+- Hillary Clinton
+- Kevin Hassid
+- Jamie Dimon
+- Tom Lee
+- Jensen Huang
+- Lisa Su
+- Satya Nadella
+- Bob Iger
+- Brian Nichols
+- Monish Pabrai
+- Charlie Munger
+- Bill Gates
+- Mark Newton
+- Bill Ackman
+- Eric Trump
+- Pam Bondi
+- Kash Patel
+- Neel Kashkari
+- Sam Altman
+products_models:
+- Disney Plus
+- Hulu
+- JPMcoin
+- iPhone
+- Blackwell
+- Reuben
+- H100
+- TPU
+- GPT-5.1
+- Cursor
+- YouTube TV
+- Apple CarPlay
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=j5_NHxTkIaU
 speaker: Amit Kukreja
-tags:
-  - market-volatility
-  - government-shutdown
-  - fed-policy
-  - data-center-investment
-  - santa-claus-rally
-title: 美国政府重开与“大空头”退隐：市场动荡背后的多重信号
-summary: 尽管美国政府在停摆43天后重新开放，但市场并未迎来预期的反弹，反而普遍下跌。本期内容深入探讨了市场动荡背后的多重因素：特朗普政府将重心转向“让美国再次负担得起”的经济叙事；政府停摆导致关键经济数据（如CPI和就业报告）缺失，加剧了美联储政策的不确定性；“大空头”Michael Burry澄清其做空头寸规模远小于媒体报道，并宣布关闭其资产管理公司，转型为内容创作者。此外，文章还涵盖了迪士尼、思科等公司的最新财报，并剖析了数据中心板块因Oracle债务问题引发的集体回调。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Michael Burry
-  - Collins
-  - Carolyn Levit
-  - Mike Johnson
-  - Chuck Schumer
-  - Nancy Pelosi
-  - Tim Kaine
-  - Hillary Clinton
-  - Kevin Hassid
-  - Jamie Dimon
-  - Tom Lee
-  - Jensen Huang
-  - Lisa Su
-  - Satya Nadella
-  - Bob Iger
-  - Brian Nichols
-  - Monish Pabrai
-  - Charlie Munger
-  - Bill Gates
-  - Mark Newton
-  - Bill Ackman
-  - Eric Trump
-  - Pam Bondi
-  - Kash Patel
-  - Neel Kashkari
-  - Sam Altman
-companies_orgs:
-  - S&P 500
-  - Nvidia
-  - PayPal
-  - Federal Reserve
-  - Palantir
-  - Scion Asset Management
-  - Disney
-  - Netflix
-  - Cisco
-  - Serve Robotics
-  - DLO
-  - Chipotle
-  - Lululemon
-  - Meta
-  - Oracle
-  - CoreWeave
-  - Google
-  - JD.com
-  - Bitfarms
-  - Microsoft
-  - Amazon
-  - OpenAI
-  - Circle
-  - JPMorgan
-  - Bank of America
-  - Bloomberg
-  - Fannie Mae
-  - DA Davidson
-  - TSMC
-  - AMD
-  - Starbucks
-  - UPS
-  - Intel
-  - Verizon
-  - IMF
-  - UBS
-  - CFTC
-  - Fox News
-  - CNBC
-  - XAI
-  - Robinhood
-  - Gopuff
-  - Costway Capital Management
-  - Moody's
-  - Visa
-  - Ferrari
-  - Sweetgreen
-  - House Republicans
-  - Democrats
-products_models:
-  - Disney Plus
-  - Hulu
-  - JPMcoin
-  - iPhone
-  - Blackwell
-  - Reuben
-  - H100
-  - TPU
-  - GPT-5.1
-  - Cursor
-  - YouTube TV
-  - Apple CarPlay
-media_books:
-  - Substack
-  - Yahoo Finance
-  - The Wall Street Journal
 status: evergreen
+summary: 尽管美国政府在停摆43天后重新开放，但市场并未迎来预期的反弹，反而普遍下跌。本期内容深入探讨了市场动荡背后的多重因素：特朗普政府将重心转向“让美国再次负担得起”的经济叙事；政府停摆导致关键经济数据（如CPI和就业报告）缺失，加剧了美联储政策的不确定性；“大空头”Michael
+  Burry澄清其做空头寸规模远小于媒体报道，并宣布关闭其资产管理公司，转型为内容创作者。此外，文章还涵盖了迪士尼、思科等公司的最新财报，并剖析了数据中心板块因Oracle债务问题引发的集体回调。
+tags:
+- data-center-investment
+- fed-policy
+- geopolitical
+- government-shutdown
+- market-volatility
+title: 美国政府重开与“大空头”退隐：市场动荡背后的多重信号
 ---
+
 ### 开盘观察：市场普跌，政府重开未能提振信心
 
 大家早上好，欢迎回到新一期的《市场开盘》。今天是11月13日，星期四。就在我准备直播前的五分钟，市场突然转跌。盘前市场本来基本上是绿色的，但现在标普500指数下跌了0.32%，拖累了几乎所有板块。CoreWeave、Iren、英伟达、PayPal都转为下跌。

@@ -1,54 +1,54 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 亚马逊
+- Google
+- Meta
+- 苹果
+- G7
+- 国际原子能机构
 date: '2025-07-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 维基百科
+people:
+- Donald Trump
+- Joe Biden
+- 贾斯汀·特鲁多
+- 商鹏飞
+- 博励治
+- 邓稼先
+- 哈梅内伊
+products_models:
+- USMCA
+- IR-6
+- B-2轰炸机
+- 地堡破坏者
+- 伊核协议
+- True Social
+- X
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9WPt1d1xfmQ
 speaker: 莊也雜談
-tags:
-  - us-canada-relations
-  - digital-services-tax
-  - iran-nuclear-program
-  - nuclear-proliferation
-  - diplomacy-strategy
-title: 加拿大DST税撤回与伊朗核问题深度分析：地缘博弈、务实外交及核扩散挑战
-summary: 本文深入探讨加拿大在特朗普压力下撤回数字服务税（DST）的事件，分析其背后的外交博弈与务实考量。同时，文章结合核物理专家的视角，对伊朗核问题进行了深度剖析，揭示了核武器制造的难点、伊朗拥核的不可逆性，以及国际社会在阻止核扩散方面的挑战与潜在解决方案，强调了在复杂地缘政治中寻求风险共存的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Joe Biden
-  - 贾斯汀·特鲁多
-  - 商鹏飞
-  - 博励治
-  - 邓稼先
-  - 哈梅内伊
-companies_orgs:
-  - 亚马逊
-  - 谷歌
-  - Meta
-  - 苹果
-  - G7
-  - 国际原子能机构
-products_models:
-  - USMCA
-  - IR-6
-  - B-2轰炸机
-  - 地堡破坏者
-  - 伊核协议
-  - True Social
-  - X
-media_books:
-  - 维基百科
 status: evergreen
+summary: 本文深入探讨加拿大在特朗普压力下撤回数字服务税（DST）的事件，分析其背后的外交博弈与务实考量。同时，文章结合核物理专家的视角，对伊朗核问题进行了深度剖析，揭示了核武器制造的难点、伊朗拥核的不可逆性，以及国际社会在阻止核扩散方面的挑战与潜在解决方案，强调了在复杂地缘政治中寻求风险共存的重要性。
+tags:
+- digital
+- nuclear
+- nuclear-proliferation
+- strategy
+- us-canada-relations
+title: 加拿大DST税撤回与伊朗核问题深度分析：地缘博弈、务实外交及核扩散挑战
 ---
+
 ### 加拿大数字服务税（DST）的戏剧性撤回
 
 今天我们来聊两个话题。首先是加拿大取消**数字服务税**（Digital Services Tax, DST: 针对美国大型科技公司在加拿大数字服务收入征收的税收政策）的事件。这几天，加拿大国内对此事的讨论非常热烈。这个故事特别有意思，距离DST开征仅三天，特朗普一怒，加拿大总理卡尼（指贾斯汀·特鲁多）便迅速妥协，加拿大突然撤回了这个已经立法三年的税收项目。这背后究竟是外交失败还是高明的博弈，真相远比我们想象的复杂。

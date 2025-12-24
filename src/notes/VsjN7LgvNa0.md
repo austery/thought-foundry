@@ -1,83 +1,82 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《查拉图斯特拉如是说》
+- 《西西福斯的神话》
+- 《存在与虚无》
+- 《逃避自由》
+- 《降临》
+- 《你一生的故事》
+- 《不能承受的生命之轻》
+- 《黑暗的左手》
+- 《第二性》
+- 《纯粹理性批判》
+- 《苏菲的世界》
+- 《西方哲学史》
+- 《上帝之城》
+- 《利维坦》
+- 《精神现象学》
+- 《差异与重复》
+- 《超善恶》
+- 《论语》
+- 《道德经》
+- 《圣经》
+- 《哲学研究》
+- 《逻辑学》
+- 《自然哲学》
+- 《精神哲学》
+- 《哲学僵尸》
+- 《意识的解释》
+- 《意识的硬问题》
+people:
+- Friedrich Nietzsche
+- Albert Camus
+- Søren Kierkegaard
+- Jean-Paul Sartre
+- Martin Heidegger
+- Simone de Beauvoir
+- Aristotle
+- René Descartes
+- Immanuel Kant
+- Georg Wilhelm Friedrich Hegel
+- Karl Marx
+- Arthur Schopenhauer
+- Baruch Spinoza
+- Blaise Pascal
+- Ted Chiang
+- Ursula K. Le Guin
+- Romain Rolland
+- Steve Jobs
+- 张桂梅
+- Tertullian
+- Erich Fromm
+- John Rawls
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=VsjN7LgvNa0
 speaker: 大问题Dialectic
-tags:
-  - existentialism
-  - meaning-of-life
-  - nihilism
-  - freedom-and-responsibility
-  - self-identity
-  - gender-roles
-title: 存在主义：在无意义中寻找人生的意义
-summary: 本文深入探讨了20世纪最具影响力的哲学流派之一——存在主义。文章从“存在先于本质”的核心理念出发，详细阐述了尼采的永恒轮回、加缪的荒谬反抗、克尔凯郭尔的信仰之跃、萨特的绝对自由与自欺，以及海德格尔的被抛入世界等核心概念。最后，文章还特别分析了波伏娃如何将存在主义应用于女性问题，揭示了女性“被制造”的社会过程，旨在启发读者在认清生活真相后，积极承担责任，创造属于自己的生命意义。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - cultural-critique
-people:
-  - Friedrich Nietzsche
-  - Albert Camus
-  - Søren Kierkegaard
-  - Jean-Paul Sartre
-  - Martin Heidegger
-  - Simone de Beauvoir
-  - Aristotle
-  - René Descartes
-  - Immanuel Kant
-  - Georg Wilhelm Friedrich Hegel
-  - Karl Marx
-  - Arthur Schopenhauer
-  - Baruch Spinoza
-  - Blaise Pascal
-  - Ted Chiang
-  - Ursula K. Le Guin
-  - Romain Rolland
-  - Steve Jobs
-  - 张桂梅
-  - Tertullian
-  - Erich Fromm
-  - John Rawls
-companies_orgs: []
-products_models: []
-media_books:
-  - 《查拉图斯特拉如是说》
-  - 《西西福斯的神话》
-  - 《存在与虚无》
-  - 《逃避自由》
-  - 《降临》
-  - 《你一生的故事》
-  - 《不能承受的生命之轻》
-  - 《黑暗的左手》
-  - 《第二性》
-  - 《纯粹理性批判》
-  - 《苏菲的世界》
-  - 《西方哲学史》
-  - 《上帝之城》
-  - 《利维坦》
-  - 《精神现象学》
-  - 《差异与重复》
-  - 《超善恶》
-  - 《论语》
-  - 《道德经》
-  - 《圣经》
-  - 《哲学研究》
-  - 《逻辑学》
-  - 《自然哲学》
-  - 《精神哲学》
-  - 《哲学僵尸》
-  - 《意识的解释》
-  - 《意识的硬问题》
 status: evergreen
+summary: 本文深入探讨了20世纪最具影响力的哲学流派之一——存在主义。文章从“存在先于本质”的核心理念出发，详细阐述了尼采的永恒轮回、加缪的荒谬反抗、克尔凯郭尔的信仰之跃、萨特的绝对自由与自欺，以及海德格尔的被抛入世界等核心概念。最后，文章还特别分析了波伏娃如何将存在主义应用于女性问题，揭示了女性“被制造”的社会过程，旨在启发读者在认清生活真相后，积极承担责任，创造属于自己的生命意义。
+tags:
+- freedom
+- gender-role
+- life
+- philosophy
+- self
+title: 存在主义：在无意义中寻找人生的意义
 ---
+
 ### 存在主义：应对人生无意义的哲学流派
 
 各位朋友晚上好，今天我们继续来聊一聊存在主义。存在主义可以说是20世纪影响力最大的哲学流派之一。它对许多不以哲学为学问的人的生活，都有很多启发。如果去研究现象学、本体论、认识论、语言哲学，那都比较偏学术。但存在主义能对我们普通人的日常生活带来一些启发。我就经常说存在主义有点像禅宗，它和那些比较高大上的唯识宗比起来更接地气。但它的接地气并不意味着它很“low”，它依然有很多智慧在里面，同时也会对我们的日常生活带来很多启发。

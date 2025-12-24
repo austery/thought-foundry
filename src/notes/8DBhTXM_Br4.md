@@ -1,65 +1,64 @@
 ---
-author: Veritasium
-date: '2023-09-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=8DBhTXM_Br4
-speaker: Veritasium
-tags:
-  - veritasium
-  - knot-theory
-  - mathematical-invariants
-  - molecular-knots
-  - dna-replication
-  - chemotherapy-mechanisms
-title: 绳结理论的奇妙数学：从鞋带到DNA的万物之理
-summary: 本文深入探讨了绳结理论这一迷人的数学分支，揭示了其如何从日常的鞋带问题延伸至蛋白质结构、DNA复制和新型材料开发等前沿科学领域。文章详细介绍了绳结的数学定义、等价性问题、关键不变式（如三色可染性、多项式）以及其在生物学和化学中的实际应用，包括抗生素和化疗药物的作用机制，以及如何避免耳机线缠结。绳结理论从纯粹的智力好奇心出发，最终成为理解和解决现实世界复杂问题的强大工具。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Alan Turing
-  - Peter Guthrie Tait
-  - William Thomson
-  - Lord Kelvin
-  - James Clerk Maxwell
-  - Kurt Reidemeister
-  - Wolfgang Haken
-  - Vaughan Jones
-  - Joan Birman
-  - Thomas Kirkman
-  - Charles Little
-  - Kenneth Perko
-  - John Conway
-  - Dowker
-  - Thistlethwaite
-  - Hoste
-  - Weeks
-  - Ben Burton
-  - Jean-Pierre Sauvage
-  - Dorian Raymer
-  - Douglas Smith
+category: science
 companies_orgs:
-  - British Institution of Electrical Engineers
-  - Columbia University
-  - American Math Society
-  - Guinness World Record
-  - Apple
-products_models:
-  - Kevlar
-  - Quinolones
+- British Institution of Electrical Engineers
+- Columbia University
+- American Math Society
+- Guinness World Record
+- Apple
+date: '2023-09-03'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Mendeleev's Periodic Table
-  - Michelson-Morley experiment
-  - Maxwell's equations
-  - The First 1,701,936 Knots
+- Mendeleev's Periodic Table
+- Michelson-Morley experiment
+- Maxwell's equations
+- The First 1,701,936 Knots
+people:
+- Alan Turing
+- Peter Guthrie Tait
+- William Thomson
+- Lord Kelvin
+- James Clerk Maxwell
+- Kurt Reidemeister
+- Wolfgang Haken
+- Vaughan Jones
+- Joan Birman
+- Thomas Kirkman
+- Charles Little
+- Kenneth Perko
+- John Conway
+- Dowker
+- Thistlethwaite
+- Hoste
+- Weeks
+- Ben Burton
+- Jean-Pierre Sauvage
+- Dorian Raymer
+- Douglas Smith
+products_models:
+- Kevlar
+- Quinolones
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=8DBhTXM_Br4
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了绳结理论这一迷人的数学分支，揭示了其如何从日常的鞋带问题延伸至蛋白质结构、DNA复制和新型材料开发等前沿科学领域。文章详细介绍了绳结的数学定义、等价性问题、关键不变式（如三色可染性、多项式）以及其在生物学和化学中的实际应用，包括抗生素和化疗药物的作用机制，以及如何避免耳机线缠结。绳结理论从纯粹的智力好奇心出发，最终成为理解和解决现实世界复杂问题的强大工具。
+tags:
+- health
+- history
+- science
+- technology
+- theory
+title: 绳结理论的奇妙数学：从鞋带到DNA的万物之理
 ---
+
 ### 绳结理论：从鞋带到宇宙的奥秘
 
 我们大多数人系鞋带的方式都是错的。

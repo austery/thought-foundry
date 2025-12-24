@@ -1,45 +1,45 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 哈佛大学
+- 北京大学
+- 四川大学
+- 国家统计局
+- 中国农业部
+- 经济学人
+- FBI
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中国期刊》
+people:
+- 孔子
+- 周厉王
+- Albert Hirschman
+- Martin King Whyte
+- 海明威
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xuDNSnY9SAg
 speaker: 徒步的騎手
-tags:
-  - social-inequality
-  - economic-downturn
-  - urbanization
-  - generational-divide
-  - political-control
-title: 中国民心崩塌的拐点：哈佛北大20年追踪调查揭示社会认知逆转
-summary: 本期节目基于哈佛大学与中国高校合作的20年抽样调查，分析了中国社会过去十年的变化，以及未来十年的趋势。调查显示，中国民众的乐观情绪显著下降，对社会公平的信任度降低，认为贫富差距源于制度不公。节目还探讨了农民工返乡潮、年轻人啃老等社会现象，以及在经济下行周期中，个人如何建立反脆弱性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 孔子
-  - 周厉王
-  - Albert Hirschman
-  - Martin King Whyte
-  - 海明威
-companies_orgs:
-  - 哈佛大学
-  - 北京大学
-  - 四川大学
-  - 国家统计局
-  - 中国农业部
-  - 经济学人
-  - FBI
-products_models: []
-media_books:
-  - 《中国期刊》
 status: evergreen
+summary: 本期节目基于哈佛大学与中国高校合作的20年抽样调查，分析了中国社会过去十年的变化，以及未来十年的趋势。调查显示，中国民众的乐观情绪显著下降，对社会公平的信任度降低，认为贫富差距源于制度不公。节目还探讨了农民工返乡潮、年轻人啃老等社会现象，以及在经济下行周期中，个人如何建立反脆弱性。
+tags:
+- economic-downturn
+- health
+- political-control
+- social-inequality
+- society
+title: 中国民心崩塌的拐点：哈佛北大20年追踪调查揭示社会认知逆转
 ---
+
 ### 中国社会民心坍塌：经济下行与预期落差
 
 大家好，感恩节过完了，娱乐完了政治。我们今天讲一个有点沉重的话题：中国这十年到底发生了什么？老百姓本来忙着工作、创业致富、买房买车奔中产，为什么突然出现了大面积民心坍塌，不再相信明天会更好，而是普遍为明天忧虑。拐点发生在什么时候？从过去十年形成的趋势，尤其是这几年不断加速的趋势，我们可以判断下面十年会怎么样，普通人应该怎么应对。这个频道的很多听众在国内可能已经切身感受到空气中弥漫的悲观气氛，感受到周围越来越多的人陷入焦虑，陷入迷茫。经济失去了动力，国家失去了方向，像一辆发动机熄火，方向盘失灵的汽车，正在惯性的驱使下往沟里滑。我们在海外看中文社交媒体，看英文媒体报道，也有同样的感受。这是不是只是你个人的感受？我个人的感受或者只是个别记者的感受呢？越来越多的数据，包括中国政府自己发布的数据表明，这并不是个别人的感受，并不是个别人的观察，而是中国的现实已经形成了这样的趋势。

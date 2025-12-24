@@ -1,80 +1,79 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- AI Futures Project
+- Samotsvety
+- Google DeepMind
+- Anthropic
+- XAI
+- NASA
+- TSMC
+- AMA
 date: '2025-04-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Slate Star Codex》
+- 《Astral Codex 10》
+- 《What 2026 Looks Like》
+- 《Horse, the Wheel and Language》
+- 《Superintelligence》
+- 《Secrets of Our Success》
+- 《Situational Awareness》
+- 《Asterisk》
+- 《Works in Progress》
+- 《Unsong》
+people:
+- Scott Alexander
+- Daniel Kokotajlo
+- Sam Altman
+- Dario Amodei
+- Elon Musk
+- Eli Liflund
+- Thomas Larsen
+- Jonas Vollmer
+- Robin Hanson
+- Katja Grace
+- David Anthony
+- Bill Gates
+- Eliezer Yudkowski
+- Tyler Cowen
+- Joseph Henrich
+- Larry Summers
+- Jason Furman
+- Peter Navarro
+- Garry Kasparov
+- Scott Aaronson
+- Alvaro de Menard
+- Paul Krugman
+- Clara Collier
+products_models:
+- GPT-4
+- ChatGPT
+- Claude
+- GPT3
+- GPT7
+- Grok
+- Bing
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=htOvH12T7mU
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - agi
-  - superintelligence
-  - ai-alignment
-  - forecasting
-title: AI 2027：月度AI进展预测与智能爆炸探讨
-summary: 本播客讨论了“AI 2027”情景预测，这是一个关于AI进展、通用人工智能（AGI）和超级智能月度预测。斯科特·亚历山大和丹尼尔·科科塔伊洛阐述了他们的模型，包括智能爆炸动态、AI对齐挑战、地缘政治影响（中美竞赛）以及高级AI对社会的影响。他们还探讨了透明度的重要性和博客的未来。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Scott Alexander
-  - Daniel Kokotajlo
-  - Sam Altman
-  - Dario Amodei
-  - Elon Musk
-  - Eli Liflund
-  - Thomas Larsen
-  - Jonas Vollmer
-  - Robin Hanson
-  - Katja Grace
-  - David Anthony
-  - Bill Gates
-  - Eliezer Yudkowski
-  - Tyler Cowen
-  - Joseph Henrich
-  - Larry Summers
-  - Jason Furman
-  - Peter Navarro
-  - Garry Kasparov
-  - Scott Aaronson
-  - Alvaro de Menard
-  - Paul Krugman
-  - Clara Collier
-companies_orgs:
-  - OpenAI
-  - AI Futures Project
-  - Samotsvety
-  - Google DeepMind
-  - Anthropic
-  - XAI
-  - NASA
-  - TSMC
-  - AMA
-products_models:
-  - GPT-4
-  - ChatGPT
-  - Claude
-  - GPT3
-  - GPT7
-  - Grok
-  - Bing
-media_books:
-  - 《Slate Star Codex》
-  - 《Astral Codex 10》
-  - 《What 2026 Looks Like》
-  - 《Horse, the Wheel and Language》
-  - 《Superintelligence》
-  - 《Secrets of Our Success》
-  - 《Situational Awareness》
-  - 《Asterisk》
-  - 《Works in Progress》
-  - 《Unsong》
 status: evergreen
+summary: 本播客讨论了“AI 2027”情景预测，这是一个关于AI进展、通用人工智能（AGI）和超级智能月度预测。斯科特·亚历山大和丹尼尔·科科塔伊洛阐述了他们的模型，包括智能爆炸动态、AI对齐挑战、地缘政治影响（中美竞赛）以及高级AI对社会的影响。他们还探讨了透明度的重要性和博客的未来。
+tags:
+- agi
+- ai-alignment
+- forecasting
+- superintelligence
+title: AI 2027：月度AI进展预测与智能爆炸探讨
 ---
+
 今天我很荣幸能与**斯科特·亚历山大**和**丹尼尔·科科塔伊洛**交流。斯科特当然是博客《**Slate Star Codex**》的作者，现在是《**Astral Codex 10**》。正如你所知，邀请你上播客一直是我的一个重要心愿。这是我们第一次一起做播客，对吗？是的。丹尼尔是**AI未来项目**的主管。你们今天刚刚发布了一个名为**AI 2027**的项目。这是什么？
 
 ### AI 2027：未来AI进展情景预测

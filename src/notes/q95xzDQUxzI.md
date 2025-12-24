@@ -1,54 +1,54 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- MP Materials
+- Apple
+- Nexperia
+- BMW
+- Renault
+- ZF Group
+- Huawei
+- World Trade Organization
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Journal
+- Reuters
+- The Financial Times
+- Bloomberg
+- The Economist
+- BBC
+people:
+- Donald Trump
+- Xi Jinping
+- Deng Xiaoping
+- Javier Blas
+products_models:
+- Neodymium magnets
+- Tetraanide
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=q95xzDQUxzI
 speaker: Patrick Boyle
-tags:
-  - rare-earth-supply-chain
-  - geopolitical-leverage
-  - trade-strategy
-  - supply-chain-resilience
-  - export-controls
-title: 中国稀土：全球供应链中的地缘政治利器与挑战
-summary: 近期，中美两国就稀土和计算机芯片的出口管制达成了一项为期一年的协议，这标志着两国在贸易紧张局势中的一次暂时缓和。然而，经济学家普遍认为该协议“粗略、临时且建立在沙滩之上”，未能解决根本性冲突。文章深入探讨了稀土元素在现代科技和军事领域的关键作用，以及中国如何通过数十年的战略投资，建立起在全球稀土供应链中的主导地位。中国利用其对稀土的控制作为地缘政治筹码，通过出口许可制度、技术限制等手段，获取外国供应链信息并施加压力。面对中国的稀土霸权，全球各国正积极寻求替代方案，包括产品重新设计、开发新型材料、加强回收利用以及建立战略储备，以降低对中国稀土的依赖。尽管中国拥有强大的稀土影响力，但过度使用这一“刺客锏”可能反而会加速全球供应链的多元化，削弱其长期谈判筹码。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Deng Xiaoping
-  - Javier Blas
-companies_orgs:
-  - MP Materials
-  - Apple
-  - Nexperia
-  - BMW
-  - Renault
-  - ZF Group
-  - Huawei
-  - World Trade Organization
-products_models:
-  - Neodymium magnets
-  - Tetraanide
-media_books:
-  - Wall Street Journal
-  - Reuters
-  - The Financial Times
-  - Bloomberg
-  - The Economist
-  - BBC
 status: evergreen
+summary: 近期，中美两国就稀土和计算机芯片的出口管制达成了一项为期一年的协议，这标志着两国在贸易紧张局势中的一次暂时缓和。然而，经济学家普遍认为该协议“粗略、临时且建立在沙滩之上”，未能解决根本性冲突。文章深入探讨了稀土元素在现代科技和军事领域的关键作用，以及中国如何通过数十年的战略投资，建立起在全球稀土供应链中的主导地位。中国利用其对稀土的控制作为地缘政治筹码，通过出口许可制度、技术限制等手段，获取外国供应链信息并施加压力。面对中国的稀土霸权，全球各国正积极寻求替代方案，包括产品重新设计、开发新型材料、加强回收利用以及建立战略储备，以降低对中国稀土的依赖。尽管中国拥有强大的稀土影响力，但过度使用这一“刺客锏”可能反而会加速全球供应链的多元化，削弱其长期谈判筹码。
+tags:
+- export-control
+- geopolitical
+- rare-earth-supply-chain
+- strategy
+- supply-chain-resilience
+title: 中国稀土：全球供应链中的地缘政治利器与挑战
 ---
+
 ### 中美稀土与芯片协议：一次短暂的缓和
 
 唐纳德·特朗普和习近平在本周四，他们六年多来的首次会晤中，同意推迟对**稀土元素**（Rare Earth Elements: 一组具有独特磁性、催化和光学性质的17种金属元素）和计算机芯片的出口管制。他们达成的这项协议为期一年，此前数月两国之间的关税、报复性限制和停滞不前的谈判不断升级。美国和中国还就与芬太尼相关的美国关税，以及两国航运业的针锋相对的征税达成了协议。

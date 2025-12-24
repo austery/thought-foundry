@@ -1,47 +1,44 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Microsoft
+- OpenAI
+- Anthropic
+- Amazon
+- Lumen Technologies
+- Zayo
+- Cor-weave
+- Oracle
+- QTS
+- Cooper
 date: '2024-10-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dylan Patel
+- Sam Altman
+- Elon Musk
+products_models:
+- H100
+- GB200
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=J7yvSkIOZLw
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - gpu
-  - data-center
-  - compute-infrastructure
-  - ai-training
-title: AI算力竞赛：微软与OpenAI的百亿级数据中心扩张与未来展望
-summary: 本文深入探讨了AI训练所需的庞大计算基础设施。分析了微软和OpenAI在数据中心、GPU（如H100、GB200）规模上的巨额投资，以及未来几年内计算能力的指数级增长预测。讨论了电力需求、网络连接和资金挑战，并展望了AI算力发展的关键趋势。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Dwarkesh Patel
-  - Dylan Patel
-  - Sam Altman
-  - Elon Musk
-companies_orgs:
-  - Microsoft
-  - OpenAI
-  - Anthropic
-  - Amazon
-  - Lumen Technologies
-  - Zayo
-  - Cor-weave
-  - Oracle
-  - QTS
-  - Cooper
-products_models:
-  - H100
-  - GB200
-media_books: []
 status: evergreen
+summary: 本文深入探讨了AI训练所需的庞大计算基础设施。分析了微软和OpenAI在数据中心、GPU（如H100、GB200）规模上的巨额投资，以及未来几年内计算能力的指数级增长预测。讨论了电力需求、网络连接和资金挑战，并展望了AI算力发展的关键趋势。
+tags:
+- data-center
+- infrastructure
+- llm
+- technology
+title: AI算力竞赛：微软与OpenAI的百亿级数据中心扩张与未来展望
 ---
+
 ### 训练新范式
 
 You could imagine that the training regime becomes much more paralyzable, where most of the compute for training is used to come up with synthetic data or do some kind of search. And that can happen across a wide area. You have synthetic data, you have this search stuff, you have all these post-training techniques, you have all these ways to soak up **FLOPs** (Floating Point Operations Per Second: 每秒浮点运算次数，衡量计算能力的指标), or you just figure out how to train across multiple data centers.

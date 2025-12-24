@@ -1,55 +1,54 @@
 ---
-author: 張内咸
+area: society-systems
+category: general
+companies_orgs:
+- Miramax Films
 date: '2025-08-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《黑暗荣耀》
+- 《空手道小子》
+- 《四百击》
+- 《低俗小说》
+- 《一一》
+- 《看上去很美》
+- 《1917》
+- 《混沌少年时》
+- 《新阶级》
+- 维基百科
+people:
+- 张内咸
+- Karl Marx
+- Émile Durkheim
+- Max Weber
+- Harvey Weinstein
+- 宋慧乔
+- 俾斯麦
+- 爱因斯坦
+- Milovan Djilas
+- 金正恩
+- 蒋经国
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=PKWg6fYu6kU
 speaker: 張内咸
-tags:
-  - campus-bullying
-  - social-contradictions
-  - marxist-theory
-  - social-reform
-  - multiculturalism
-title: 校园霸凌：从阶级冲突到多维矛盾的社会缩影
-summary: 本文深入探讨校园霸凌现象，从历史上的阶级差异论，到现代社会中性别、种族、网络暴力等多维矛盾的激化。作者指出，尽管社会改革不断推进，霸凌问题依然普遍存在，其成因日益复杂。文章追溯了马克思关于社会矛盾的理论，并分析了多维矛盾如何导致社会撕裂，最终认为只要差异存在，霸凌便难以根除，呼吁成年社会减少戾气，促进理解与沟通。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - 张内咸
-  - Karl Marx
-  - Émile Durkheim
-  - Max Weber
-  - Harvey Weinstein
-  - 宋慧乔
-  - 俾斯麦
-  - 爱因斯坦
-  - Milovan Djilas
-  - 金正恩
-  - 蒋经国
-companies_orgs:
-  - Miramax Films
-products_models: []
-media_books:
-  - 《黑暗荣耀》
-  - 《空手道小子》
-  - 《四百击》
-  - 《低俗小说》
-  - 《一一》
-  - 《看上去很美》
-  - 《1917》
-  - 《混沌少年时》
-  - 《新阶级》
-  - 维基百科
 status: evergreen
+summary: 本文深入探讨校园霸凌现象，从历史上的阶级差异论，到现代社会中性别、种族、网络暴力等多维矛盾的激化。作者指出，尽管社会改革不断推进，霸凌问题依然普遍存在，其成因日益复杂。文章追溯了马克思关于社会矛盾的理论，并分析了多维矛盾如何导致社会撕裂，最终认为只要差异存在，霸凌便难以根除，呼吁成年社会减少戾气，促进理解与沟通。
+tags:
+- investment
+- multiculturalism
+- social
+- theory
+title: 校园霸凌：从阶级冲突到多维矛盾的社会缩影
 ---
+
 ### 开场白：从韭菜到社会观察
 
 大家好，我是张内咸，又见面了。上周的节目中，我偶然聊到了韭菜。原本在我印象中，只有北方人才吃这种东西。很多北方的优雅男士，比如我，对于在公共场合吃韭菜是非常反感的。你们在高峰期的地铁上，遇到过吃韭菜盒子的大哥吗？关键是他们吃完还会打嗝，导致整节车厢的人都无法呼吸。我一直以为这是我们北方特色，结果没想到，居然有很多南方的朋友给我留言，说他们也吃韭菜，而且吃得很猛。哇，很带种嘛你们，居然在北方人面前说自己吃韭菜吃得猛。甚至还有外国朋友留言说，外国也种韭菜，也吃那个东西，韭菜还出海了是吧？你看，这就是YouTube的好处，作为世界平台，足够大，哪里的观众都有。但是我有点想不通，你们想证明什么？还有几个台湾的老兄说，他们台湾人也吃韭菜盒子，而且吃得还很香。难道台湾高峰期的捷运上面，也有大哥吃韭菜盒子吗？你们要是遇到这种大哥，怎么跟他讲？“你好台哦”，神经病欸。我劝你们，有些事情不要跟我们老中争，尤其在吃韭菜这个事情上。这又不是什么荣誉，有什么好争的。难道你们真的不觉得韭菜的味道很恶心吗？而且还特别容易塞牙。本来那个味道就恶心，它还总是跟你的牙齿纠缠不清，抱上就不撒手，还缠绵悱恻的。你稍微注意观察生活就会发现，北方人的牙齿和韭菜每天都在地铁里面秀恩爱，卧槽还押韵了，这是在写什么变态的言情小说吗？我让你俩秒变异地恋。

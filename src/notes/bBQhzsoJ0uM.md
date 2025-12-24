@@ -1,78 +1,78 @@
 ---
-author: The Pragmatic Engineer
+area: market-analysis
+category: business
+companies_orgs:
+- Carta
+- Microsoft
+- Apple
+- Google
+- Nvidia
+- Meta
+- Uber
+- Cursor
+- WorkOS
+- Vercel
+- Perplexity
+- Statsig
+- Silicon Valley Bank
+- Y Combinator
+- OpenAI
+- XAI
+- GitHub
+- Peloton
+- Zoom
+- Sonar
+- Salesforce
+- Figma
+- Slack
+- PayPal
+- Airbnb
+- Lattis
 date: '2025-08-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Pragmatic Engineer
+- Sorcery
+- Uncapped
+- All-In
+- Carta Data Minute
+- Stratechery
+- Silicon Valley
+- 《Apple in China》
+people:
+- Peter Walker
+- Sam Altman
+- Jack Altman
+- Molly O'Shea
+- Ben Thompson
+- Henry Ward
+- Startup L. Jackson
+products_models:
+- ChatGPT
+- OKit
+- Tableau
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=bBQhzsoJ0uM
 speaker: The Pragmatic Engineer
-tags:
-  - venture-capital
-  - startup-ecosystem
-  - hiring-trends
-  - ai-impact
-  - capital-efficiency
-title: Carta数据洞察：风险投资、人工智能与初创公司的现状
-summary: 初创公司的招聘数量正在急剧下降，这仅仅是资本寒冬的延续，还是AI已开始取代工作岗位？Carta洞察负责人Peter Walker通过独家数据揭示了风险投资领域的深刻变革。尽管投资总额保持稳定，但获得融资的公司数量减半。AI正催生规模更小、效率更高的团队，彻底改变了衡量初创公司成功的标准，例如“每名员工的年经常性收入”（ARR per FTE）已成为新的黄金标准。本文深入探讨了这些趋势对软件工程师、求职者和创始人的具体影响。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Peter Walker
-  - Sam Altman
-  - Jack Altman
-  - Molly O'Shea
-  - Ben Thompson
-  - Henry Ward
-  - Startup L. Jackson
-companies_orgs:
-  - Carta
-  - Microsoft
-  - Apple
-  - Google
-  - Nvidia
-  - Meta
-  - Facebook
-  - Uber
-  - Cursor
-  - WorkOS
-  - Vercel
-  - Perplexity
-  - Statsig
-  - Silicon Valley Bank
-  - Y Combinator
-  - OpenAI
-  - XAI
-  - GitHub
-  - Peloton
-  - Zoom
-  - Sonar
-  - Salesforce
-  - Figma
-  - Slack
-  - PayPal
-  - Airbnb
-  - Lattis
-products_models:
-  - ChatGPT
-  - OKit
-  - Tableau
-media_books:
-  - The Pragmatic Engineer
-  - Sorcery
-  - Uncapped
-  - All-In
-  - Carta Data Minute
-  - Stratechery
-  - Silicon Valley
-  - 《Apple in China》
 status: evergreen
+summary: 初创公司的招聘数量正在急剧下降，这仅仅是资本寒冬的延续，还是AI已开始取代工作岗位？Carta洞察负责人Peter Walker通过独家数据揭示了风险投资领域的深刻变革。尽管投资总额保持稳定，但获得融资的公司数量减半。AI正催生规模更小、效率更高的团队，彻底改变了衡量初创公司成功的标准，例如“每名员工的年经常性收入”（ARR
+  per FTE）已成为新的黄金标准。本文深入探讨了这些趋势对软件工程师、求职者和创始人的具体影响。
+tags:
+- ai-impact
+- capital
+- startup
+- trend
+- venture-capital
+title: Carta数据洞察：风险投资、人工智能与初创公司的现状
 ---
+
 ### 导语：VC 寒冬与 AI 崛起
 
 初创公司的招聘人数远比过去要少。2022 年 1 月，在 Carta 平台上的公司共招聘了 73,000 人。到了 2023 年 1 月，这个数字降至 40,000 人。2024 年 1 月，进一步降至 32,000 人。我预计到 2025 年 1 月，这个数字大概会在 20,000 人左右。我并不认为 AI 不会取代工作岗位，事实上，我认为它已经在这么做了。

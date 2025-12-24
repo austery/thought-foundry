@@ -1,30 +1,30 @@
 ---
-title: 《公羊的节日》：一部解剖独裁者及其统治体系的深刻小说
-summary: 小说《公羊的节日》以独裁者特鲁希略为原型，深刻剖析了独裁者的心理、权术以及维系其统治的恐惧与羞辱机制。
 area: null
 category: null
-project: []
-tags:
-- dictatorship
-people:
-- mario-vargas-llosa
-- rafael-trujillo
-- stella-an
 companies_orgs: []
-products_models: []
-media_books:
-- the-feast-of-the-goat
 date: '2025-06-14'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- the-feast-of-the-goat
+people:
+- mario-vargas-llosa
+- rafael-trujillo
+- stella-an
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=96n75aIrIjc
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 小说《公羊的节日》以独裁者特鲁希略为原型，深刻剖析了独裁者的心理、权术以及维系其统治的恐惧与羞辱机制。
+tags:
+- geopolitical
+title: 《公羊的节日》：一部解剖独裁者及其统治体系的深刻小说
 ---
+
 ### 一部描绘典型独裁者的小说：《公羊的节日》
 
 对于“独裁者”这个词，相信大家都不陌生，许多人甚至可能就生活在独裁国家，每天打开电视机，看到的都是同一个身影。20世纪堪称一个独裁者的世纪，人类历史上最邪恶的独裁者几乎都集中在这一时期。他们制造了史无前例的大规模战争、种族灭绝式的大屠杀、夺走数千万人生命的大饥荒，以及惨无人道的大规模迫害运动。古代的暴君与之相比，简直是小巫见大巫。因此，单从罪恶的角度来讲，20世纪的独裁者们无疑是前无古人。

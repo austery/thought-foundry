@@ -1,42 +1,42 @@
 ---
-author: Peter Pang
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=n7z1V2lo_gQ'
-speaker: Peter Pang
-tags:
-  - big-data-era
-  - technology-prediction
-  - data-driven-decision-making
-  - organizational-dynamics
-  - learning-from-failure
-title: 大数据时代的兴衰与技术预测的反思
-summary: 本文回顾了大数据时代的兴起与衰落，将其与当前的AI热潮进行对比。文章分析了大数据未能实现其预言的原因，包括对数据规模的严重高估、硬件性能的快速提升、以及人类在数据驱动决策中的干预和不信任。通过深入探讨这些失败案例，作者强调了从历史错误中学习的重要性，以期对未来的技术热潮保持更冷静和客观的判断，避免重蹈覆辙。
-insight: ''
-draft: true
-series: ''
-category: business
 area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people: '[]'
+category: business
 companies_orgs:
-  - Google
-  - Facebook
-  - Gartner
-  - Forrester
-  - Bilibili
-products_models:
-  - Map Reduce
-  - BigQuery
-  - Hadoop
-  - Apache log
+- Google
+- Meta
+- Gartner
+- Forrester
+- Bilibili
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people: '[]'
+products_models:
+- Map Reduce
+- BigQuery
+- Hadoop
+- Apache log
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=n7z1V2lo_gQ
+speaker: Peter Pang
 status: evergreen
+summary: 本文回顾了大数据时代的兴起与衰落，将其与当前的AI热潮进行对比。文章分析了大数据未能实现其预言的原因，包括对数据规模的严重高估、硬件性能的快速提升、以及人类在数据驱动决策中的干预和不信任。通过深入探讨这些失败案例，作者强调了从历史错误中学习的重要性，以期对未来的技术热潮保持更冷静和客观的判断，避免重蹈覆辙。
+tags:
+- data
+- data-driven-decision-making
+- dynamic
+- learning
+- technology
+title: 大数据时代的兴衰与技术预测的反思
 ---
+
 ### 大数据时代的兴衰：一场未兑现的预言
 
 “**大数据**”（Big Data: 指的是处理和分析海量、多样化、高速增长的数据的技术和方法）这个词，我已经很久没有听人提起了。曾几何时，它也是风靡全球的技术热点，就像现在的AI一样，每个企业都在想方设法地把大数据技术加入到自己的系统中。2010年代是大数据热潮的顶峰，我恰好也是在那个时间踏入职场，恰好进入了大数据部门，也算是在一线亲身经历了那个时代的起落。

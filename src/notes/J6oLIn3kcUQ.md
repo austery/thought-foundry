@@ -1,49 +1,49 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Sourdough Express
+- Bloomberg Podcasts
+- Department of Defense
+- Fred Meyers
+- Spanard Builder Supply
 date: '2025-08-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+- Ice Road Truckers
+people:
+- Jill Weisenthal
+- Tracy Alloway
+- Josh Norm
+- Bob Ellis
+- Chris Wright
+- Kerman Rodriguez
+- Dashel Bennett
+- Kale Brooks
+products_models:
+- CDL
+- Starlink
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=J6oLIn3kcUQ
 speaker: Bloomberg Podcasts
-tags:
-  - alaskan-trucking
-  - supply-chain-logistics
-  - extreme-environment-operations
-  - economic-cycles
-  - community-resilience
-title: 阿拉斯加冰雪之路上的货运：Sourdough Express的百年坚守与挑战
-summary: 本期OddLots播客深入探讨了阿拉斯加独特的货运业。嘉宾Sourdough Express总裁兼所有者Josh Norm分享了公司自1898年以来的历史、在极端环境下（如冰路）运输石油设备和军事物资的挑战与策略。节目揭示了阿拉斯加卡车司机的独特文化、工作生活，以及石油和国防开支对当地经济的深远影响。同时，也探讨了该行业面临的周期性波动、技术应用和人才培养等议题。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Jill Weisenthal
-  - Tracy Alloway
-  - Josh Norm
-  - Bob Ellis
-  - Chris Wright
-  - Kerman Rodriguez
-  - Dashel Bennett
-  - Kale Brooks
-companies_orgs:
-  - Sourdough Express
-  - Bloomberg Podcasts
-  - Department of Defense
-  - Fred Meyers
-  - Spanard Builder Supply
-products_models:
-  - CDL
-  - Starlink
-media_books:
-  - OddLots podcast
-  - Ice Road Truckers
 status: evergreen
+summary: 本期OddLots播客深入探讨了阿拉斯加独特的货运业。嘉宾Sourdough Express总裁兼所有者Josh Norm分享了公司自1898年以来的历史、在极端环境下（如冰路）运输石油设备和军事物资的挑战与策略。节目揭示了阿拉斯加卡车司机的独特文化、工作生活，以及石油和国防开支对当地经济的深远影响。同时，也探讨了该行业面临的周期性波动、技术应用和人才培养等议题。
+tags:
+- alaskan-trucking
+- community-resilience
+- economic-cycle
+- society
+- supply-chain-logistics
+title: 阿拉斯加冰雪之路上的货运：Sourdough Express的百年坚守与挑战
 ---
+
 ### 欢迎来到阿拉斯加：探索独特的货运文化
 
 **Jill Weisenthal:** 大家好，欢迎收听新一期的OddLots播客。我是Jill Weisenthal。

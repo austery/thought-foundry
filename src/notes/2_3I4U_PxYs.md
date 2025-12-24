@@ -1,38 +1,37 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-08-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Twitter
+- YouTube
+- CNBC
+people:
+- 毛泽东
+- Karen
+products_models:
+- AI
+project:
+- personal-growth-lab
+- systems-thinking
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=2_3I4U_PxYs
 speaker: 徒步的騎手
-tags:
-  - seizing-opportunity
-  - economic-downturn
-  - self-preparation
-  - generational-anxiety
-  - educational-system-critique
-title: 经济下行与政治荒诞：如何在至暗时刻抓住并创造机会？
-summary: 面对经济下行和充满不确定性的时代，当代年轻人应如何自处？本文探讨了历史周期中的个人选择，强调了“流水线”教育模式的失效。通过几个真实案例，文章论证了在至暗时刻做好准备不仅能抓住机会，更能创造机会，并提出主动学习和自我提升是突出重围的关键。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - china-analysis
-people:
-  - 毛泽东
-  - Karen
-companies_orgs: []
-products_models:
-  - AI
-media_books:
-  - Twitter
-  - YouTube
-  - CNBC
 status: evergreen
+summary: 面对经济下行和充满不确定性的时代，当代年轻人应如何自处？本文探讨了历史周期中的个人选择，强调了“流水线”教育模式的失效。通过几个真实案例，文章论证了在至暗时刻做好准备不仅能抓住机会，更能创造机会，并提出主动学习和自我提升是突出重围的关键。
+tags:
+- anxiety
+- economic-downturn
+- seizing-opportunity
+- self
+- system
+title: 经济下行与政治荒诞：如何在至暗时刻抓住并创造机会？
 ---
 
 ### “零零后”的困惑：我们这代人的机会更少了吗？

@@ -1,37 +1,36 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2024-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The State Nobility
+people:
+- Anthony
+- Bourdieu
+- Max Weber
+- Sartre
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9QhxJ3Q-TEY
 speaker: Anthony看世界
-tags:
-  - social-evaluation
-  - symbolic-violence
-  - education-system
-  - individual-self-esteem
-  - misrecognition
-title: 批判中国社会符号系统的虚假性：学校教育中的象征性暴力与个体自尊的剥夺
-summary: 本期节目深入探讨了“普通学”的局限性，并以此为切入点，批判性地审视中国社会的主流评价体系。节目运用法国社会学家布尔迪厄的文化社会学理论，揭示了象征性权力如何通过符号系统误导个体，固化社会不平等。特别指出学校教育作为现代社会的重要场域，如何通过看似客观的分类标准，对学生的内在价值进行排序和规训，从而剥夺个体自尊，并呼吁通过批判与解构来恢复个体的真实价值。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Anthony
-  - Bourdieu
-  - Max Weber
-  - Sartre
-companies_orgs: []
-products_models: []
-media_books:
-  - The State Nobility
 status: evergreen
+summary: 本期节目深入探讨了“普通学”的局限性，并以此为切入点，批判性地审视中国社会的主流评价体系。节目运用法国社会学家布尔迪厄的文化社会学理论，揭示了象征性权力如何通过符号系统误导个体，固化社会不平等。特别指出学校教育作为现代社会的重要场域，如何通过看似客观的分类标准，对学生的内在价值进行排序和规训，从而剥夺个体自尊，并呼吁通过批判与解构来恢复个体的真实价值。
+tags:
+- misrecognition
+- self
+- social
+- symbolic-violence
+- system
+title: 批判中国社会符号系统的虚假性：学校教育中的象征性暴力与个体自尊的剥夺
 ---
 
 ### 引言：“普通学”的局限性与社会焦虑

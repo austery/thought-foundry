@@ -1,58 +1,57 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国民党
+- 民进党
+- 联合国
+- Meta
+- Twitter
+- 101st Airborne Division
 date: '2024-12-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《自由中国》
+people:
+- 刘宗坤
+- 伍雷
+- 陈宜中
+- 蒋经国
+- Xi Jinping
+- 孙中山
+- 蒋介石
+- 邓小平
+- 毛泽东
+- 周恩来
+- 叶剑英
+- 胡适
+- 雷震
+- Donald Trump
+- Joe Biden
+- Dwight D. Eisenhower
+- John F. Kennedy
+- Antonio Gramsci
+- 李鸿章
+- 达赖喇嘛
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3JXej6KgqM0
 speaker: 东京人文论坛
-tags:
-  - democratic-transition
-  - checks-and-balances
-  - authoritarianism-vs-totalitarianism
-  - political-culture
-title: 中国民主化的未来：为何更可能走向俄罗斯模式而非台湾模式？
-summary: 刘宗坤律师深入剖析了中国大陆民主转型的可能性。他认为，由于缺乏选举文化、公民社会和地方制衡等关键“土壤”，中国与已有民主基础的台湾和韩国截然不同。他将中国的政治体制定义为“一党专制极权”，区别于俄罗斯的“威权政体”，并预测如果中国未来发生政治变革，其路径将更接近俄罗斯模式。讲座还探讨了台湾民主化叙事的复杂性，以及美国民主制度中权力制衡的深层运作机制。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 刘宗坤
-  - 伍雷
-  - 陈宜中
-  - 蒋经国
-  - 习近平
-  - 孙中山
-  - 蒋介石
-  - 邓小平
-  - 毛泽东
-  - 周恩来
-  - 叶剑英
-  - 胡适
-  - 雷震
-  - Donald Trump
-  - Joe Biden
-  - Dwight D. Eisenhower
-  - John F. Kennedy
-  - Antonio Gramsci
-  - 李鸿章
-  - 达赖喇嘛
-companies_orgs:
-  - 国民党
-  - 民进党
-  - 联合国
-  - Facebook
-  - Twitter
-  - 101st Airborne Division
-products_models: []
-media_books:
-  - 《自由中国》
 status: evergreen
+summary: 刘宗坤律师深入剖析了中国大陆民主转型的可能性。他认为，由于缺乏选举文化、公民社会和地方制衡等关键“土壤”，中国与已有民主基础的台湾和韩国截然不同。他将中国的政治体制定义为“一党专制极权”，区别于俄罗斯的“威权政体”，并预测如果中国未来发生政治变革，其路径将更接近俄罗斯模式。讲座还探讨了台湾民主化叙事的复杂性，以及美国民主制度中权力制衡的深层运作机制。
+tags:
+- authoritarianism-vs-totalitarianism
+- checks-and-balance
+- democratic
+- political
+title: 中国民主化的未来：为何更可能走向俄罗斯模式而非台湾模式？
 ---
 
 ### 台湾民主化叙事的困境：蓝绿阵营的视角差异

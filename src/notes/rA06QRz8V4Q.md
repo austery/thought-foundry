@@ -1,35 +1,34 @@
 ---
-author: 莊也雜談
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 联合国教科文组织
+- NASA
+- Loblaw
 date: '2024-08-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Eileen
+- Jerald
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=rA06QRz8V4Q
 speaker: 莊也雜談
-tags:
-  - newfoundland-travel
-  - fogo-island-experience
-  - gros-morne-national-park
-  - travel-challenges
-  - geological-landscapes
-title: 纽芬兰惊险之旅：从福戈岛脱险到格罗莫恩国家公园的绝美奇观
-summary: 本期节目记录了在纽芬兰自驾游中惊险刺激的一天。从清晨在福戈岛码头争分夺秒赶轮渡的经历，到驾车穿越格罗莫恩国家公园，领略西布鲁克冰蚀峡湾的壮丽景色，再到匆匆打卡火星岩地，最后在科纳布鲁克结束疲惫而充实的一天。旅程中既有对蚊虫、饮水和当地人文的观察，也有对自然奇观的深度体验与反思。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project: []
-people:
-  - Eileen
-  - Jerald
-companies_orgs:
-  - 联合国教科文组织
-  - NASA
-  - Loblaw
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目记录了在纽芬兰自驾游中惊险刺激的一天。从清晨在福戈岛码头争分夺秒赶轮渡的经历，到驾车穿越格罗莫恩国家公园，领略西布鲁克冰蚀峡湾的壮丽景色，再到匆匆打卡火星岩地，最后在科纳布鲁克结束疲惫而充实的一天。旅程中既有对蚊虫、饮水和当地人文的观察，也有对自然奇观的深度体验与反思。
+tags:
+- challenge
+- experience
+- national
+- newfoundland-travel
+- philosophy
+title: 纽芬兰惊险之旅：从福戈岛脱险到格罗莫恩国家公园的绝美奇观
 ---
+
 ### 纽芬兰自驾游：福戈岛体验与观众反馈
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续讲述在**纽芬兰**（Newfoundland: 加拿大最东部的省份，以其独特的自然风光和文化闻名）的自驾游之旅。在讲述之前，先补充一些关于上期节目中提到的**福戈岛**（Fogo Island: 纽芬兰省东北部的一个独特岛屿，以其艺术氛围和自然风光闻名）的信息。我们俩在福戈岛的旅游时长只能算是半个下午，因此对这个岛的理解和体会还是有一定的局限和欠缺。

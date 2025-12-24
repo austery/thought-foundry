@@ -1,29 +1,27 @@
 ---
-title: 加拿大小城维多利亚：花园之城与海天公路的绝美邂逅
-summary: 探索加拿大温哥华岛的花园城市维多利亚，从壮丽的海天公路到如画的布查特花园，再到充满活力的渔人码头，体验一场身心治愈的旅程。
 area: personal-growth
 category: lifestyle
-project: []
-tags:
-- canada
-- garden-city
-- travel
-- victoria
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: 莊也雜談
-speaker: 莊也雜談
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mHdrBaobkLY
+speaker: 莊也雜談
 status: evergreen
+summary: 探索加拿大温哥华岛的花园城市维多利亚，从壮丽的海天公路到如画的布查特花园，再到充满活力的渔人码头，体验一场身心治愈的旅程。
+tags:
+- canada
+- society
+- travel
+- victoria
+title: 加拿大小城维多利亚：花园之城与海天公路的绝美邂逅
 ---
+
 ### 开启温哥华岛之旅：从海天公路到马蹄湾
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天，我们将继续分享在加拿大的旅行见闻，这是我们的第三集。前两集我们分别回顾了加西之旅的整体路线和注意事项，以及在大温地区的初体验。今天，我们将聚焦于加西之旅的第二天，也就是5月18日星期日。

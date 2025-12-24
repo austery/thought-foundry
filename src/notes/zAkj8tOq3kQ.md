@@ -1,69 +1,69 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Federal Reserve
+- European Central Bank
+- Bank of England
+- Central Bank of Norway
+- Alibaba
+- American Economic Association
+- International Monetary Fund
+- Congressional Budget Office
 date: '2025-04-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- This Time Is Different
+- Civil War
+people:
+- Kenneth Rogoff
+- Nicolai Tangen
+- Carmen Reinhart
+- Donald Trump
+- Richard Nixon
+- Bernie Sanders
+- Mario Draghi
+- Lula da Silva
+- Jack Ma
+- Xi Jinping
+- Narendra Modi
+- Magnus Carlsen
+- Gukesh D
+- Bent Larsen
+- Al Gore
+- Christine Lagarde
+- Ben Bernanke
+- Larry Summers
+- Paul Krugman
+- Peter Thiel
+- Garry Kasparov
+- Vladimir Putin
+- Kamala Harris
+- Vinod Khosla
+products_models:
+- Inflation Reduction Act
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=zAkj8tOq3kQ
 speaker: Norges Bank Investment Management
-tags:
-  - trade-tariffs
-  - central-bank-independence
-  - us-dollar-dominance
-  - political-economy
-  - global-economic-outlook
-title: 经济学家肯尼斯·罗格夫：解析特朗普关税、通胀风险与中美经济变局
-summary: 著名经济学家肯尼斯·罗格夫深入剖析了当前全球经济的复杂局势。他认为，世界正进入一个类似1970年代的动荡时期，特朗普的关税政策和对全球化秩序的重塑带来了巨大不确定性。罗格夫对美国制度的基石、美元的长期主导地位以及美联储的独立性表示担忧，并预测未来可能出现由政治压力引发的通胀冲击。他还探讨了中国经济的“日本化”风险、欧洲面临的挑战以及人工智能对经济的双重影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Kenneth Rogoff
-  - Nicolai Tangen
-  - Carmen Reinhart
-  - Donald Trump
-  - Richard Nixon
-  - Bernie Sanders
-  - Mario Draghi
-  - Lula da Silva
-  - Jack Ma
-  - Xi Jinping
-  - Narendra Modi
-  - Magnus Carlsen
-  - Gukesh D
-  - Bent Larsen
-  - Al Gore
-  - Christine Lagarde
-  - Ben Bernanke
-  - Larry Summers
-  - Paul Krugman
-  - Peter Thiel
-  - Garry Kasparov
-  - Vladimir Putin
-  - Kamala Harris
-  - Vinod Khosla
-companies_orgs:
-  - Norges Bank Investment Management
-  - Federal Reserve
-  - European Central Bank
-  - Bank of England
-  - Central Bank of Norway
-  - Alibaba
-  - American Economic Association
-  - International Monetary Fund
-  - Congressional Budget Office
-products_models:
-  - Inflation Reduction Act
-media_books:
-  - This Time Is Different
-  - Civil War
 status: evergreen
+summary: 著名经济学家肯尼斯·罗格夫深入剖析了当前全球经济的复杂局势。他认为，世界正进入一个类似1970年代的动荡时期，特朗普的关税政策和对全球化秩序的重塑带来了巨大不确定性。罗格夫对美国制度的基石、美元的长期主导地位以及美联储的独立性表示担忧，并预测未来可能出现由政治压力引发的通胀冲击。他还探讨了中国经济的“日本化”风险、欧洲面临的挑战以及人工智能对经济的双重影响。
+tags:
+- central-bank-independence
+- geopolitical
+- global-economic-outlook
+- political-economy
+- trade-tariff
+title: 经济学家肯尼斯·罗格夫：解析特朗普关税、通胀风险与中美经济变局
 ---
+
 ### 序言
 挪威主权财富基金负责人尼古拉·坦根 (Nicolai Tangen) 邀请到了全球金融和经济史领域的权威专家肯尼斯·罗格夫 (Ken Rogoff)。罗格夫因其与卡门·莱因哈特 (Carmen Reinhart) 合著的开创性著作《这次不一样》(This Time It's Different) 而闻名。在本次对话中，罗格夫就当前全球经济、特朗普政府的政策影响、美元的未来、中美关系以及通货膨胀等关键问题分享了他的深刻见解。
 

@@ -1,38 +1,38 @@
 ---
-author: Best Partners TV
+area: market-analysis
+category: business
+companies_orgs:
+- Canva
+- Adobe
+- NGO
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Lenny’s Podcast
+people:
+- Melanie Perkins
+products_models:
+- PPT
+project:
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=quwaZPVMG9M
 speaker: Best Partners TV
-tags:
-  - startup-journey
-  - long-term-strategy
-  - b-column-thinking
-  - organizational-visualization
-  - social-impact
-title: Canva的创业之路：从百次拒绝到420亿美元估值，梅兰妮·珀金斯的长期主义与B栏思维
-summary: 本文深入剖析了Canva联合创始人兼CEO梅兰妮·珀金斯的创业哲学。从被100多个投资人拒绝，到公司估值超420亿美元，Canva的成功并非偶然。文章详细阐述了其核心的“B栏思维”、十年尺度的长期主义目标、可视化组织能力、将拒绝视为数据点的心态，以及把公益内建到产品中的独特策略。这些可复制的底层逻辑，为创业者和产品经理提供了宝贵启发。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Melanie Perkins
-companies_orgs:
-  - Canva
-  - Adobe
-  - NGO
-products_models:
-  - PPT
-media_books:
-  - Lenny’s Podcast
 status: evergreen
+summary: 本文深入剖析了Canva联合创始人兼CEO梅兰妮·珀金斯的创业哲学。从被100多个投资人拒绝，到公司估值超420亿美元，Canva的成功并非偶然。文章详细阐述了其核心的“B栏思维”、十年尺度的长期主义目标、可视化组织能力、将拒绝视为数据点的心态，以及把公益内建到产品中的独特策略。这些可复制的底层逻辑，为创业者和产品经理提供了宝贵启发。
+tags:
+- organizational
+- social-impact
+- startup-journey
+- strategy
+- thinking
+title: Canva的创业之路：从百次拒绝到420亿美元估值，梅兰妮·珀金斯的长期主义与B栏思维
 ---
+
 ### Canva的崛起：从百次拒绝到设计巨头
 
 今天，我们将探讨一个从被100多个投资人拒绝，到估值超过420亿美元的创业故事。这个故事的主角是**Canva**（Canva: 一个在线设计平台）的联合创始人兼CEO**梅兰妮·珀金斯**（Melanie Perkins: Canva的联合创始人兼CEO）。许多朋友可能每天都在使用Canva制作海报、剪辑视频、设计**PPT**（PowerPoint: 微软公司开发的演示文稿软件），但很少有人知道，这家现在拥有2.4亿**月活用户**（Monthly Active Users: 每月至少活跃一次的用户数量）、年收入超过30亿美元，并能连续八年保持盈利的公司，早期曾经历过两年技术重写期，完全无法发布新功能的绝境。甚至，Canva最初的业务方向也不是设计工具，而是一个**年鉴出版平台**（Yearbook Publishing Platform: 专门用于制作和出版学校年鉴的在线平台）。

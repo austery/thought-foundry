@@ -1,55 +1,53 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Open Philanthropy
+- PETA
+- Against Malaria Foundation
+- McDonald's
+- Unilever
+- Nestlé
+- Burger King
+- LDC Group
+- Cal-Maine
+- Tyson Foods
+- Smithfield
+- Perdue
+- Niman Ranch
+- Cooks Venture
+- Walmart
+- Kroger
+- Costco
+- The Humane League
+- Sinergia Animal
+- FarmKind
 date: '2025-08-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Lewis Bollard
+- Craig Watts
+- Andres
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=kWcPg8t1kJ4
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - cultivated-meat
-  - animal-welfare
-  - factory-farming
-  - policy-advocacy
-title: 人造肉比人工智能更难：工厂化养殖的困境与动物福利的未来
-summary: 本期播客中，**Open Philanthropy** 的农场动物福利项目主任**刘易斯·博拉德**探讨了工厂化养殖的挑战，以及技术和倡导在改善动物福利方面的作用。他指出，尽管**通用人工智能**可能加速替代蛋白的发展，但文化和政治障碍依然巨大。对话强调了工厂化养殖的经济效率、动物福利领域被忽视的慈善资金，以及企业和政策改革（如推广**散养鸡蛋**和**孵化期性别鉴定**技术）所带来的惊人成效。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Lewis Bollard
-  - Dwarkesh Patel
-  - Craig Watts
-  - Andres
-companies_orgs:
-  - Open Philanthropy
-  - PETA
-  - Against Malaria Foundation
-  - McDonald's
-  - Unilever
-  - Nestlé
-  - Burger King
-  - LDC Group
-  - Cal-Maine
-  - Tyson Foods
-  - Smithfield
-  - Perdue
-  - Niman Ranch
-  - Cooks Venture
-  - Walmart
-  - Kroger
-  - Costco
-  - The Humane League
-  - Sinergia Animal
-  - FarmKind
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期播客中，**Open Philanthropy** 的农场动物福利项目主任**刘易斯·博拉德**探讨了工厂化养殖的挑战，以及技术和倡导在改善动物福利方面的作用。他指出，尽管**通用人工智能**可能加速替代蛋白的发展，但文化和政治障碍依然巨大。对话强调了工厂化养殖的经济效率、动物福利领域被忽视的慈善资金，以及企业和政策改革（如推广**散养鸡蛋**和**孵化期性别鉴定**技术）所带来的惊人成效。
+tags:
+- cultivated-meat
+- policy
+- technology
+title: 人造肉比人工智能更难：工厂化养殖的困境与动物福利的未来
+companies:
+- factory-farming
 ---
+
 今天我与**刘易斯·博拉德**（Lewis Bollard）进行了一次对话，他是**Open Philanthropy**（开放慈善基金会: 动物福利领域最大的慈善机构）农场动物福利项目的主任。**刘易斯**，非常感谢你来到播客。我也很高兴能来。第一个问题，我们迟早会拥有**通用人工智能**（AGI: Artificial General Intelligence，指能够理解、学习或应用任何人类智能任务的AI）。你如何看待你试图解决的问题？你是否只是想在**AI**为我们解决这个问题之前的十年里，让动物的生存条件变得更可忍受？或者，我们现在所做的干预，比如**孵化期性别鉴定**（in-ovo sexing: 在鸡蛋孵化早期识别性别，从而避免孵化出不必要的雄性雏鸡）或推广**散养鸡蛋**（cage-free eggs: 鸡只不被关在狭小笼子里饲养的鸡蛋），是否能在这个变革时刻之后继续产生影响？
 
 工厂化养殖的终结远非必然。全球每年工厂化养殖的动物数量还在以约2%的速度增长。我们可能会走向两条不同的道路。一条是我们过去一个世纪所走的道路：技术让工厂化养殖变得越来越高效，导致越来越多的动物以越来越集约的方式遭受虐待。另一条道路是，我们减少工厂化养殖的动物数量，并减轻每只动物的痛苦。所以，即使我们拥有**AGI**，我仍然非常乐观地认为它将加速技术进步，为我们带来更好的**替代蛋白**（alternative proteins: 植物基肉、细胞培养肉等非传统肉类替代品），并改善**人道技术**（humane technology: 旨在减轻动物痛苦的技术）。

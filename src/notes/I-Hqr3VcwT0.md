@@ -1,43 +1,43 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- Goldman Sachs
+- Federal Reserve
+- Nvidia
+- Google
+- Amazon
+- BYD
 date: '2025-04-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Twitter
+people:
+- Donald Trump
+products_models:
+- FSD
+- Douyin
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=I-Hqr3VcwT0
 speaker: Shanghao Jin
-tags:
-  - us-tariffs
-  - economic-recession
-  - global-supply-chains
-  - fed-policy
-  - market-sentiment
-title: 关税政策与市场展望：2025年4月市场分析
-summary: 本期市场分析深入探讨了特朗普关税政策对全球经济和美国市场的影响。文章指出，关税的实施可能导致美国经济增长放缓甚至衰退，并详细分析了其对通胀、美联储政策及不同行业估值的冲击。同时，作者对短期市场反弹和长期投资策略提出了见解，并强调了中国经济在全球化背景下的脆弱性，建议投资者关注CDS和港股的潜在风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-companies_orgs:
-  - Goldman Sachs
-  - Federal Reserve
-  - Nvidia
-  - Google
-  - Amazon
-  - BYD
-products_models:
-  - FSD
-  - Douyin
-media_books:
-  - Twitter
 status: evergreen
+summary: 本期市场分析深入探讨了特朗普关税政策对全球经济和美国市场的影响。文章指出，关税的实施可能导致美国经济增长放缓甚至衰退，并详细分析了其对通胀、美联储政策及不同行业估值的冲击。同时，作者对短期市场反弹和长期投资策略提出了见解，并强调了中国经济在全球化背景下的脆弱性，建议投资者关注CDS和港股的潜在风险。
+tags:
+- economic-recession
+- fed-policy
+- global-supply-chain
+- market-sentiment
+- us-tariff
+title: 关税政策与市场展望：2025年4月市场分析
 ---
+
 ### 市场回顾与关税影响初探
 
 大家好，我们已经有两周没有更新市场分析了。上次分享是在3月中旬，大约3月18日左右。当时我们根据市场上的买盘力量和筹码情况，判断在月底前会有一波小幅反弹。我记得当时提醒大家要小心4月2日的关税最终政策，以及整个4月份公布的3月份经济数据。然而在此之前，市场已经出现了 **CTA**（Commodity Trading Advisor: 商品交易顾问，一种管理期货基金的投资经理）买盘、季度末的 **再平衡**（Quarter-end rebalancing: 机构投资者在季度末调整投资组合，以恢复其目标资产配置比例的行为），以及风险控制策略的清仓，整体市场风险偏好情绪已达到比较差的极限。

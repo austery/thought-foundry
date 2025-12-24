@@ -1,44 +1,44 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Carnegie Mellon University
+- FBI
+- American Sociological Association
+- The New York Times
 date: '2023-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《美国社会学期刊》
+- 《故土的陌生人》
+people:
+- Oliver Hahl
+- Hillary Clinton
+- Donald Trump
+- Barack Obama
+- Seymour Martin Lipset
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xzsCuP1ooLI
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - political-authenticity
-  - legitimacy-crisis
-  - populism
-  - us-election-dynamics
-  - voter-perception
-title: 为何说谎政客反而更显真诚？社会科学揭示“川普现象”背后的正当性危机
-summary: 卡内基梅隆大学的研究揭示，在特定情境下，选民可能明知政治人物说谎，却仍认为其真诚。本文探讨了美国2016年大选中“川普现象”的深层原因，挑战了传统上用“信息不足”或“党派脑”解释选民行为的理论。研究指出，“正当性危机”（特别是权力贬值危机）是关键因素，它让谎言成为对主流精英的象征性抗议，从而提升了政客在特定选民心中的真诚度，对民主稳定构成潜在挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Oliver Hahl
-  - Hillary Clinton
-  - Donald Trump
-  - Barack Obama
-  - Seymour Martin Lipset
-companies_orgs:
-  - Carnegie Mellon University
-  - FBI
-  - American Sociological Association
-  - The New York Times
-products_models: []
-media_books:
-  - 《美国社会学期刊》
-  - 《故土的陌生人》
 status: evergreen
+summary: 卡内基梅隆大学的研究揭示，在特定情境下，选民可能明知政治人物说谎，却仍认为其真诚。本文探讨了美国2016年大选中“川普现象”的深层原因，挑战了传统上用“信息不足”或“党派脑”解释选民行为的理论。研究指出，“正当性危机”（特别是权力贬值危机）是关键因素，它让谎言成为对主流精英的象征性抗议，从而提升了政客在特定选民心中的真诚度，对民主稳定构成潜在挑战。
+tags:
+- crisis
+- perception
+- political
+- populism
+- us-election-dynamic
+title: 为何说谎政客反而更显真诚？社会科学揭示“川普现象”背后的正当性危机
 ---
+
 ### 谎言与真诚的悖论
 
 在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究发现。我们有没有可能明知道一个人经常故意说谎，却仍然觉得这个人很真诚，甚至喜欢他？根据中研院社会所的调查，诚实很可能是人们最重视的道德规范，而说谎则违反了这一规范。谎言与真诚在定义上似乎是矛盾互斥的，理论上我们很难明知一个人喜欢说谎，却仍赞赏其真诚。然而，最新的社会科学研究可能会彻底颠覆我们的看法。

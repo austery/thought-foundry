@@ -1,40 +1,39 @@
 ---
-author: 徒步的騎手
-date: 2025-02-28
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=J8Tjn8p_ttg'
-speaker: 徒步的騎手
-tags:
-  - personal-boundaries
-  - social-dynamics
-  - online-disputes
-  - self-improvement
-  - enlightenment-critique
-title: 人能被改变吗？社交媒体时代的“走开”智慧与“去蠢化”的挑战
-summary: 人生最大的错误之一是试图改变他人，尤其是那些“杠精”和心智封闭之人。本文强调“走开”的力量，即不与无谓之人纠缠，以保护自身时间与精力。在社交媒体时代，这种自律尤为重要。文章区分了无知与愚蠢，指出启蒙对后者无效，真正需要的是“去蠢化”，这需要个人内在的改变动力。同时，文章也批判了部分知识分子对政治的盲目热情和缺乏理性思考。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 孔子
-  - Charles Portis
-  - Mandy Hill
-  - Bertrand Russell
-  - Max Weber
+category: psychology
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-02-28
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《大地惊雷》
-  - 微博
-  - 推特
-  - YouTube
+- 《大地惊雷》
+- 微博
+- 推特
+- YouTube
+people:
+- 孔子
+- Charles Portis
+- Mandy Hill
+- Bertrand Russell
+- Max Weber
+products_models: '[]'
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=J8Tjn8p_ttg
+speaker: 徒步的騎手
 status: evergreen
+summary: 人生最大的错误之一是试图改变他人，尤其是那些“杠精”和心智封闭之人。本文强调“走开”的力量，即不与无谓之人纠缠，以保护自身时间与精力。在社交媒体时代，这种自律尤为重要。文章区分了无知与愚蠢，指出启蒙对后者无效，真正需要的是“去蠢化”，这需要个人内在的改变动力。同时，文章也批判了部分知识分子对政治的盲目热情和缺乏理性思考。
+tags:
+- critique
+- online
+- personal
+- self-improvement
+- social-dynamic
+title: 人能被改变吗？社交媒体时代的“走开”智慧与“去蠢化”的挑战
 ---
 
 ### 改变他人：徒劳无功的努力

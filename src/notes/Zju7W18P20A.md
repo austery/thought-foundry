@@ -1,57 +1,55 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- A Big History of Humankind
+- Guns, Germs, and Steel
+- The Jesuit Relations
+- The Great Journey Through Huron
+- L'Ingénu
+people:
+- David Graeber
+- David Wengrow
+- Jean-Jacques Rousseau
+- Gabriel Sagard
+- Voltaire
+- Locke
+- Father Jérôme Lallemant
+- Kondiaronk
+- Lahontan
+- Montesquieu
+- Diderot
+- Christopher Boehm
+- Marcel Mauss
+- Robert Lowie
+- Eleanor Leacock
+- Turgot
+- Adam Smith
+- Marshal Sahlins
+- Gregory Bateson
+- Murray Bookchin
+products_models: []
+project:
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Zju7W18P20A
 speaker: 超級歪 SuperY
-tags:
-  - origin-of-civilization
-  - inequality
-  - enlightenment
-  - hunter-gatherer
-  - agricultural-revolution
-title: 颠覆认知！人类文明史的真相：从平等起源到自由的可能
-summary: 本文基于格雷伯与温格罗的著作《万事揭晓》，挑战了关于文明起源、不平等、科技进步、经济决定论及农业革命的主流历史叙事。通过考古和人类学新证据，文章揭示了人类历史的多元可能性，指出早期人类拥有更强的政治创造力，并质疑了现代社会对自由和进步的固有认知，为理解人类历史和寻找未来出路提供了全新视角。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - geopolitics-watch
-people:
-  - David Graeber
-  - David Wengrow
-  - Jean-Jacques Rousseau
-  - Gabriel Sagard
-  - Voltaire
-  - Locke
-  - Father Jérôme Lallemant
-  - Kondiaronk
-  - Lahontan
-  - Montesquieu
-  - Diderot
-  - Christopher Boehm
-  - Marcel Mauss
-  - Robert Lowie
-  - Eleanor Leacock
-  - Turgot
-  - Adam Smith
-  - Marshal Sahlins
-  - Gregory Bateson
-  - Murray Bookchin
-companies_orgs: []
-products_models: []
-media_books:
-  - A Big History of Humankind
-  - Guns, Germs, and Steel
-  - The Jesuit Relations
-  - The Great Journey Through Huron
-  - L'Ingénu
 status: evergreen
+summary: 本文基于格雷伯与温格罗的著作《万事揭晓》，挑战了关于文明起源、不平等、科技进步、经济决定论及农业革命的主流历史叙事。通过考古和人类学新证据，文章揭示了人类历史的多元可能性，指出早期人类拥有更强的政治创造力，并质疑了现代社会对自由和进步的固有认知，为理解人类历史和寻找未来出路提供了全新视角。
+tags:
+- agricultural-revolution
+- hunter-gatherer
+- society
+title: 颠覆认知！人类文明史的真相：从平等起源到自由的可能
 ---
+
 ### 主流历史叙事的颠覆：文明起源的神话
 
 我们通常阅读的历史科普书籍，例如尤瓦尔·赫拉利（Yuval Noah Harari）的《人类简史》或贾雷德·戴蒙德（Jared Diamond）的《枪炮、病菌与钢铁》，似乎都在重复同一个关于文明起源的理论：人类祖先曾生活在一个原始的平等状态，直到某一个“错误”——农业革命——的出现，导致了城市、国家和统治精英的出现，人类从此失去了自由与平等，直到欧洲启蒙运动才重新开始追求。这种叙事让我们认为不平等是人类历史的常态，从而接受当下的不平等。然而，过去几十年里，越来越多的考古和人类学证据表明，我们所熟知的整个故事是错误的，而且错得离谱。本书《万事揭晓》（*Everything Revealed*）的作者，人类学家大卫·格雷伯（David Graeber）和考古学家大卫·温格罗（David Wengrow），将一步步拆解这些关于文明起源的神话，恢复人类的真实历史。

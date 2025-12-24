@@ -1,61 +1,61 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 同盟会
+- 国民党
+- 早稻田大学
+- 法政大学
+- 东京大学
+- 商务印书馆
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《尖岛问题》
+- 《二十世纪之支那》
+- 《民报》
+- 《支那革命外史》
+people:
+- 宋教仁
+- 傅国涌
+- 孙中山
+- 黄兴
+- 梁启超
+- 鲁迅
+- 蒋中正
+- 汪精卫
+- 袁世凯
+- 张太炎
+- 周恩来
+- 胡适
+- 陈其美
+- 北一辉
+- 汤化龙
+- 谭人凤
+- 于右任
+- 赵秉钧
+- 梁漱溟
+- 徐世昌
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=YtuZpLIxV_w
 speaker: 东京人文论坛
-tags:
-  - republican-era-china
-  - constitutional-democracy
-  - political-assassination
-  - constructive-power
-title: 宋教仁：一位被遗忘的宪政先驱与“在东京重造中国”的梦想
-summary: 本篇内容整理自傅国涌先生的讲座，深入探讨了民国先驱宋教仁的生平与政治理想。文章聚焦于宋教仁在东京的流亡与学习生涯，阐述了他如何从一名革命者成长为具备罕见“建设力”的宪政设计师。通过详述他领导国民党赢得中国首次民主选举的历程，以及分析他被刺杀后留下的百年悬案，文章揭示了宋教仁之死如何中断了中国宪政民主的进程，并留下了“宋教人之问”——在中国这片专制深厚的土地上，实行宪政民主是否可能？
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 宋教仁
-  - 傅国涌
-  - 孙中山
-  - 黄兴
-  - 梁启超
-  - 鲁迅
-  - 蒋中正
-  - 汪精卫
-  - 袁世凯
-  - 张太炎
-  - 周恩来
-  - 胡适
-  - 陈其美
-  - 北一辉
-  - 汤化龙
-  - 谭人凤
-  - 于右任
-  - 赵秉钧
-  - 梁漱溟
-  - 徐世昌
-companies_orgs:
-  - 同盟会
-  - 国民党
-  - 早稻田大学
-  - 法政大学
-  - 东京大学
-  - 商务印书馆
-products_models: []
-media_books:
-  - 《尖岛问题》
-  - 《二十世纪之支那》
-  - 《民报》
-  - 《支那革命外史》
 status: evergreen
+summary: 本篇内容整理自傅国涌先生的讲座，深入探讨了民国先驱宋教仁的生平与政治理想。文章聚焦于宋教仁在东京的流亡与学习生涯，阐述了他如何从一名革命者成长为具备罕见“建设力”的宪政设计师。通过详述他领导国民党赢得中国首次民主选举的历程，以及分析他被刺杀后留下的百年悬案，文章揭示了宋教仁之死如何中断了中国宪政民主的进程，并留下了“宋教人之问”——在中国这片专制深厚的土地上，实行宪政民主是否可能？
+tags:
+- china
+- constitutional
+- political
+- power
+title: 宋教仁：一位被遗忘的宪政先驱与“在东京重造中国”的梦想
 ---
+
 ### 引言：我与青春偶像宋教仁
 
 “在东京重造中国”，这七个字本身是一个吓人的题目，是要杀头的。但由于我在后面加了一个括号（1895-1925），那就没事了。因为要在东京重造中国的不是我傅国涌，而是孙中山、宋教仁、黄兴、蔡锷、梁启超、鲁迅、蒋中正、汪精卫这些人。所以要杀头也是杀他们，讲的是一百多年前的历史。

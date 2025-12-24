@@ -1,37 +1,35 @@
 ---
-author: Veritasium
-date: '2021-05-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jyQwgBAaBag
-speaker: Veritasium
-tags:
-  - veritasium
-  - downwind-faster-than-wind
-  - propeller-craft
-  - physics-debate
-  - conservation-of-energy
-  - apparent-wind
-title: 挑战物理直觉：探秘“黑鸟”风力车如何顺风超速
-summary: 本视频探讨了一场关于风力驱动车辆能否顺风行驶速度超过风速的物理辩论。主持人Derek驾驶名为“黑鸟”的独特螺旋桨车辆，亲身体验并验证这一看似违反能量守恒定律的现象。视频深入解释了“黑鸟”通过将螺旋桨作为风扇而非风车运作，从风中提取能量，从而实现超越风速的原理。最终，“黑鸟”成功打破纪录，证明了这一物理现象的可能性，并引发了对直觉与科学之间关系的思考。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Rick
-  - Neil
-  - Gene
+category: technology
 companies_orgs:
-  - Kiwico
+- Kiwico
+date: '2021-05-29'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Rick
+- Neil
+- Gene
 products_models:
-  - Blackbird
-media_books: []
+- Blackbird
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=jyQwgBAaBag
+speaker: veritasium
 status: evergreen
+summary: 本视频探讨了一场关于风力驱动车辆能否顺风行驶速度超过风速的物理辩论。主持人Derek驾驶名为“黑鸟”的独特螺旋桨车辆，亲身体验并验证这一看似违反能量守恒定律的现象。视频深入解释了“黑鸟”通过将螺旋桨作为风扇而非风车运作，从风中提取能量，从而实现超越风速的原理。最终，“黑鸟”成功打破纪录，证明了这一物理现象的可能性，并引发了对直觉与科学之间关系的思考。
+tags:
+- canada
+- code
+- downwind-faster-than-wind
+- energy
+- technology
+title: 挑战物理直觉：探秘“黑鸟”风力车如何顺风超速
 ---
+
 ### 引言：一场反直觉的物理辩论
 
 这辆**螺旋桨飞行器**（Propeller Craft: 一种利用螺旋桨提供动力的交通工具）的建造，是为了解决一场物理学辩论，因为其创造者声称它能做到的事情是如此反直觉，以至于它似乎违反了**能量守恒定律**（Law of Conservation of Energy: 物理学基本定律，指在一个孤立系统中，能量总量保持不变）。因此，我来到这里亲自驾驶它，看看它是否真的有效。它安全吗？感觉有点临时拼凑，说实话。我需要一些风。给我一阵风。它有点不平衡，不是吗？

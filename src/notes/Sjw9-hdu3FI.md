@@ -1,59 +1,59 @@
 ---
-author: New York Times Podcasts
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- New York Times
+- Castle Rock
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- film-making
+people:
+- Rob Reiner
+- Michelle Reiner
+- Nick Reiner
+- Carl Reiner
+- Conan O'Brien
+- Norman Lear
+- Stephen King
+- Meg Ryan
+- Billy Crystal
+- Nora Ephron
+- William Goldman
+- Aaron Sorkin
+- Estelle Reiner
+- David Thompson
+- Donald Trump
+products_models:
+- The Daily
+- The Dick Van Dyke Show
+- All in the Family
+- This Is Spinal Tap
+- Stand by Me
+- The Princess Bride
+- Misery
+- A Few Good Men
+- When Harry Met Sally
+- Seinfeld
+- Being Charlie
+- Biographical Dictionary of Film
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=Sjw9-hdu3FI
 speaker: New York Times Podcasts
-tags:
-  - film-making
-  - family-tragedy
-  - addiction
-  - hollywood-legacy
-  - human-relationships
-title: 罗布·赖纳的悲剧人生与电影遗产
-summary: 本期节目探讨了著名导演**罗布·赖纳**及其妻子**米歇尔·赖纳**的悲剧性逝世，以及其子**尼克·赖纳**涉嫌谋杀的案件。节目深入回顾了**罗布·赖纳**的辉煌职业生涯，他如何摆脱父亲**卡尔·赖纳**的盛名阴影，通过《**一家人**》等电视剧崭露头角，并执导了《**当哈利遇到莎莉**》、《**伴我同行**》、《**公主新娘**》等多部经典电影。同时，节目也分析了他与儿子**尼克**之间复杂的关系，以及他电影中对人性善良的坚守。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - Rob Reiner
-  - Michelle Reiner
-  - Nick Reiner
-  - Carl Reiner
-  - Conan O'Brien
-  - Norman Lear
-  - Stephen King
-  - Meg Ryan
-  - Billy Crystal
-  - Nora Ephron
-  - William Goldman
-  - Aaron Sorkin
-  - Estelle Reiner
-  - David Thompson
-  - Donald Trump
-companies_orgs:
-  - New York Times
-  - Castle Rock
-products_models:
-  - The Daily
-  - The Dick Van Dyke Show
-  - All in the Family
-  - This Is Spinal Tap
-  - Stand by Me
-  - The Princess Bride
-  - Misery
-  - A Few Good Men
-  - When Harry Met Sally
-  - Seinfeld
-  - Being Charlie
-  - Biographical Dictionary of Film
-media_books: []
 status: evergreen
+summary: 本期节目探讨了著名导演**罗布·赖纳**及其妻子**米歇尔·赖纳**的悲剧性逝世，以及其子**尼克·赖纳**涉嫌谋杀的案件。节目深入回顾了**罗布·赖纳**的辉煌职业生涯，他如何摆脱父亲**卡尔·赖纳**的盛名阴影，通过《**一家人**》等电视剧崭露头角，并执导了《**当哈利遇到莎莉**》、《**伴我同行**》、《**公主新娘**》等多部经典电影。同时，节目也分析了他与儿子**尼克**之间复杂的关系，以及他电影中对人性善良的坚守。
+tags:
+- addiction
+- family
+- human
+- legacy
+title: 罗布·赖纳的悲剧人生与电影遗产
 ---
+
 《**纽约时报**》的**迈克尔·巴巴罗**为您带来《**每日**》。周二，调查**罗布·赖纳**和**米歇尔·赖纳**夫妇死亡案件的检察官表示，他们计划以一级谋杀罪起诉这对夫妇的儿子**尼克·赖纳**。今天的节目中，**朱莉娅·雅各布斯**将介绍我们所了解到的这位好莱坞传奇人物的死因，而**韦斯利·莫里斯**则会探讨为什么**赖纳**的许多电影能够成为有史以来最受欢迎的作品。
 
 **罗布·赖纳**和他的妻子**米歇尔·赖纳**的去世是一场极其残酷和悲惨的事件。我们知道，周日晚上，当局接到电话赶往**罗布·赖纳**位于**布伦特伍德**（Brentwood: 洛杉矶的一个社区）的家中。最初的消息是屋内有两名死者，公布了年龄但未公布身份。然而，这些年龄与好莱坞导演**罗布·赖纳**及其妻子——摄影师兼制片人**米歇尔·辛格·赖纳**的年龄大致相符。当晚晚些时候，他们的儿子**尼克**被捕，警方随后表示正在调查他在这起死亡事件中的角色。周二，检察官宣布他们打算以两项一级谋杀罪起名**尼克·赖纳**，这正式确认了一个孩子杀害了自己父母的真正可怕的局面。

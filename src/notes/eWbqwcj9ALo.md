@@ -1,51 +1,51 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OECD
+- Apple
+- IKEA
 date: '2022-05-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《少即是多》
+- 《晚期维多利亚大屠杀》
+people:
+- Jason Hickel
+- Thomas McKeown
+- Richard Easterlin
+- Herman Daly
+- Thomas Piketty
+- Bacon
+- Descartes
+- Locke
+- Mike Davies
+- Earl of Lauderdale
+- Simon Kuznets
+- Giorgos Kallis
+products_models:
+- GDP
+project:
+- systems-thinking
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=eWbqwcj9ALo
 speaker: 超級歪 SuperY
-tags:
-  - degrowth-theory
-  - capitalism-critique
-  - climate-justice
-  - economic-inequality
-  - ecological-sustainability
-title: “弃成长”：资本主义、生态灾难与社会公平的新经济视角
-summary: 本文深入探讨了人类学家杰森·希克尔在《少即是多》一书中提出的“弃成长”经济学新观点。文章分析了资本主义盲目追求经济增长如何导致生态灾难和全球贫富差距，并追溯了其历史根源。同时，文章批判了GDP作为发展指标的局限性，揭示了富裕国家在气候危机中的主要责任，并提出了终止计划性报废、减少广告、杜绝食物浪费和缩减破坏性产业等“弃成长”的实践路径，呼吁重新思考人与自然的关系，构建可持续社会。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - systems-thinking
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jason Hickel
-  - Thomas McKeown
-  - Richard Easterlin
-  - Herman Daly
-  - Thomas Piketty
-  - Bacon
-  - Descartes
-  - Locke
-  - Mike Davies
-  - Earl of Lauderdale
-  - Simon Kuznets
-  - Giorgos Kallis
-companies_orgs:
-  - OECD
-  - Apple
-  - IKEA
-products_models:
-  - GDP
-media_books:
-  - 《少即是多》
-  - 《晚期维多利亚大屠杀》
 status: evergreen
+summary: 本文深入探讨了人类学家杰森·希克尔在《少即是多》一书中提出的“弃成长”经济学新观点。文章分析了资本主义盲目追求经济增长如何导致生态灾难和全球贫富差距，并追溯了其历史根源。同时，文章批判了GDP作为发展指标的局限性，揭示了富裕国家在气候危机中的主要责任，并提出了终止计划性报废、减少广告、杜绝食物浪费和缩减破坏性产业等“弃成长”的实践路径，呼吁重新思考人与自然的关系，构建可持续社会。
+tags:
+- capitalism-critique
+- climate
+- economic-inequality
+- llm
+- theory
+title: “弃成长”：资本主义、生态灾难与社会公平的新经济视角
 ---
+
 ### 气候危机与“弃成长”经济学
 
 在去年举行的第26届全球气候峰会上，世界各国达成共识，承诺在2050年前实现净零碳排放。为了达成这些减碳目标，西方世界近年来开始出现一种名为“**弃成长**”（Degrowth: 一种经济学新观点，主张停止追求经济增长，以实现生态可持续和社会公平）的新思潮。人类学家杰森·希克尔在其著作《少即是多》中，深入阐述了“弃成长”的理念。他在这本书中揭示了生态灾难的根本原因、气候危机的主要责任方，以及我们应如何通过“弃成长”迈向一个生态可持续的社会。

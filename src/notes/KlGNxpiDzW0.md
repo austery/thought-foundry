@@ -1,44 +1,42 @@
 ---
-author: Joseph Wang
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- Congress
+- Wall Street
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- monetarymacro.com
+- Charles Payne Show
+people:
+- Myron
+- Bowman
+- Powell
+- Logan
+- Charles Payne
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=KlGNxpiDzW0
 speaker: Joseph Wang
-tags:
-  - monetary-policy
-  - fiscal-deficit
-  - repo-market
-  - liquidity-crisis
-  - fed-policy-dilemma
-title: 美联储的困境：政策分歧、经济脱节与财政赤字的绑架
-summary: 本文深入探讨了美联储当前面临的多重挑战。主持人查尔斯·佩恩与约瑟夫·王讨论了美联储政策与实体经济（Main Street）脱节的现象，指出在普通民众面临经济压力的同时，股市却持续飙升。文章揭示了美联储内部在是否降息问题上的“内战”，以及数据驱动派与前瞻性派之间的分歧。此外，还详细解释了回购市场流动性危机、财政赤字不断扩大如何迫使美联储持续扩张资产负债表，使其在货币政策上受制于国会。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Joseph Wang
-  - Myron
-  - Bowman
-  - Powell
-  - Logan
-  - Charles Payne
-companies_orgs:
-  - Federal Reserve
-  - Congress
-  - Wall Street
-products_models: []
-media_books:
-  - monetarymacro.com
-  - Charles Payne Show
 status: evergreen
+summary: 本文深入探讨了美联储当前面临的多重挑战。主持人查尔斯·佩恩与约瑟夫·王讨论了美联储政策与实体经济（Main Street）脱节的现象，指出在普通民众面临经济压力的同时，股市却持续飙升。文章揭示了美联储内部在是否降息问题上的“内战”，以及数据驱动派与前瞻性派之间的分歧。此外，还详细解释了回购市场流动性危机、财政赤字不断扩大如何迫使美联储持续扩张资产负债表，使其在货币政策上受制于国会。
+tags:
+- crisis
+- fed-policy-dilemma
+- financial
+- market
+title: 美联储的困境：政策分歧、经济脱节与财政赤字的绑架
 ---
+
 ### 美联储与实体经济的脱节
 
 **Charles Payne:** 他们已经达成了目标。我想请 monetarymacro.com 的首席投资官约瑟夫·王来谈谈。乔，在我看来，问题的核心似乎是**美联储**（Federal Reserve: 美国联邦储备系统）从未为**实体经济**（Main Street: 普通民众和中小企业）而建立。他们确实谈论实体经济，但我认为，只要富人和有权势的人表现出色，**华尔街**（Wall Street: 金融市场）也表现良好，美联储就觉得没问题。

@@ -1,32 +1,30 @@
 ---
-author: Big Think
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Thomas Edison
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=lwewZMJzBh4
 speaker: Big Think
-tags:
-  - learning-process
-  - resilience
-  - cognitive-dissonance
-  - organizational-learning
-title: 关于失败的艺术与科学：如何将错误转化为成长的阶梯
-summary: 本文探讨了失败在成功过程中的核心作用。作者指出，人们常将“犯错”与“我是个失败者”混淆。文章分析了组织应对失败的三种模式——“原谅与遗忘”、“硅谷标准”和“原谅与铭记”——并强调后者是深度学习的关键。同时，文章提供了应对个人失误的建设性步骤，如分离自我与错误，并引用爱迪生的名言，倡导“学会失败，否则就学不会”。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Thomas Edison
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了失败在成功过程中的核心作用。作者指出，人们常将“犯错”与“我是个失败者”混淆。文章分析了组织应对失败的三种模式——“原谅与遗忘”、“硅谷标准”和“原谅与铭记”——并强调后者是深度学习的关键。同时，文章提供了应对个人失误的建设性步骤，如分离自我与错误，并引用爱迪生的名言，倡导“学会失败，否则就学不会”。
+tags:
+- cognitive
+- learning
+- resilience
+title: 关于失败的艺术与科学：如何将错误转化为成长的阶梯
 ---
+
 ### 失败与深度学习的必然性
 
 每当有人将失败转化为成功时，就发生了非常有趣的事情，我们应该探究其方法和原因。

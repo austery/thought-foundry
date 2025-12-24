@@ -1,36 +1,34 @@
 ---
-author: EO
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Meta
+- Gigascale Capital
+- Mill
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mike Schroepfer
+products_models:
+- Fusion energy
+- Electric vehicles
+- AI chatbots
+project:
+- gigascale-capital
+series: ''
 source: https://www.youtube.com/watch?v=5qfwNBs3IVE
 speaker: EO
-tags:
-  - climate-tech
-  - deep-tech
-  - startup-investing
-title: 高保真双语档案：Mike Schroepfer - 下一代科技投资与创新
-summary: Mike Schroepfer，Meta前CTO，分享了他关于科技创新、气候变化和创业的见解。他讨论了如何识别和投资于具有突破性潜力的技术，以及如何通过创业和创新解决气候变化问题。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - gigascale-capital
-people:
-  - Mike Schroepfer
-companies_orgs:
-  - Meta
-  - Gigascale Capital
-  - Mill
-products_models:
-  - Fusion energy
-  - Electric vehicles
-  - AI chatbots
-media_books: []
 status: evergreen
+summary: Mike Schroepfer，Meta前CTO，分享了他关于科技创新、气候变化和创业的见解。他讨论了如何识别和投资于具有突破性潜力的技术，以及如何通过创业和创新解决气候变化问题。
+tags:
+- investing
+- tech
+title: 高保真双语档案：Mike Schroepfer - 下一代科技投资与创新
 ---
+
 ### 高保真双语档案：Mike Schroepfer - 下一代科技投资与创新
 
 我叫 Mike Schroepfer。

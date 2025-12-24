@@ -1,53 +1,51 @@
 ---
-author: The Diary Of A CEO
+area: life-family
+category: health-wellness
+companies_orgs:
+- UK Biobank
+- Walter Reed Medical Army Institute
+- University of Boulder Colorado
+- University of Berkeley California
+- Veterans Administration
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《记忆碎片》
+- 《星球大战》
+people:
+- Matthew Walker
+- Michael Gradazar
+- Kenneth Wright
+- Thomas Balkan
+- Rosaline Cartwright
+- Jennifer Doudna
+- Clive Wearing
+products_models:
+- Xanax
+- Valium
+- Ambien
+- Lunesta
+- Sonata
+- Prazosin
+- Suvorexant
+- Lemborexant
+- Daridorexant
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=qxxnRMT9C-8
 speaker: The Diary Of A CEO
-tags:
-  - sleep-health
-  - circadian-rhythm
-  - rem-sleep
-  - sleep-disorders
-  - mental-wellness
-title: 马修·沃克：镁补充剂无益睡眠！这种睡眠习惯增加57%心脏病风险！
-summary: 这段播客中，世界知名的睡眠专家和神经科学教授**马修·沃克**博士分享了关于睡眠的最新研究和实用建议。他揭示了镁补充剂和褪黑素的常见误区，强调了睡眠规律性对心血管健康的巨大影响（不规律睡眠增加57%的心血管疾病风险）。沃克博士还介绍了“睡眠储备”概念，以及REM睡眠在情绪处理和创造力中的关键作用。此外，他还讨论了新型助眠药物DORAs、基因型短睡眠者，以及睡眠不足对饮食和体重管理的影响。最后，沃克博士分享了个人对成功和人际关系的深刻感悟。
-insight: ''
-draft: true
-series: ''
-category: health-wellness
-area: life-family
-project: []
-people:
-  - Matthew Walker
-  - Michael Gradazar
-  - Kenneth Wright
-  - Thomas Balkan
-  - Rosaline Cartwright
-  - Jennifer Doudna
-  - Clive Wearing
-companies_orgs:
-  - UK Biobank
-  - Walter Reed Medical Army Institute
-  - University of Boulder Colorado
-  - University of Berkeley California
-  - Veterans Administration
-products_models:
-  - Xanax
-  - Valium
-  - Ambien
-  - Lunesta
-  - Sonata
-  - Prazosin
-  - Suvorexant
-  - Lemborexant
-  - Daridorexant
-media_books:
-  - 《记忆碎片》
-  - 《星球大战》
 status: evergreen
+summary: 这段播客中，世界知名的睡眠专家和神经科学教授**马修·沃克**博士分享了关于睡眠的最新研究和实用建议。他揭示了镁补充剂和褪黑素的常见误区，强调了睡眠规律性对心血管健康的巨大影响（不规律睡眠增加57%的心血管疾病风险）。沃克博士还介绍了“睡眠储备”概念，以及REM睡眠在情绪处理和创造力中的关键作用。此外，他还讨论了新型助眠药物DORAs、基因型短睡眠者，以及睡眠不足对饮食和体重管理的影响。最后，沃克博士分享了个人对成功和人际关系的深刻感悟。
+tags:
+- circadian-rhythm
+- health
+- society
+title: 马修·沃克：镁补充剂无益睡眠！这种睡眠习惯增加57%心脏病风险！
 ---
+
 ### 镁补充剂与睡眠迷思
 
 关于镁补充剂对睡眠的影响，问题在于大多数形式的**镁**（Magnesium）无法穿过血脑屏障，而睡眠是由大脑产生的。因此，无法进入大脑的物质又如何能影响大脑过程呢？你所做的可能只是制造昂贵的尿液。然而，有一种形式的镁，即**L-苏糖酸镁**（Magnesium L-Threonate），似乎有一些证据支持其对睡眠的益处。但研究远不止于此，我们有大量新证据，包括关于8小时睡眠的迷思、对儿童服用褪黑素的担忧、夜间醒来的原因，以及一种我个人支持且大多数人尚不了解的新型安眠药。

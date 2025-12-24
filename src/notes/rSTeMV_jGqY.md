@@ -1,36 +1,35 @@
 ---
-author: TechButMakeItReal
+area: tech-insights
+category: technology
+companies_orgs:
+- AWS
+- Google Cloud
+- Azure
 date: '2025-04-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Daria
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=rSTeMV_jGqY
 speaker: TechButMakeItReal
-tags:
-  - future-tech-jobs
-  - career-planning
-  - cybersecurity-trends
-  - ai-ethics
-  - cloud-computing-growth
-title: 2035年科技领域哪些职业将举足轻重？
-summary: 本视频深入探讨了未来10到15年科技行业中将占据主导地位的五大领域：网络安全、云计算、AI伦理、数据科学与机器人，以及科学与技术交叉领域（生物技术、气候技术、健康技术）。视频分析了这些领域的增长趋势、市场需求、人才缺口，并详细介绍了各类技术型和非技术型职位，为求职者和职业规划者提供了实用的行动指南。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Daria
-companies_orgs:
-  - AWS
-  - Google Cloud
-  - Azure
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了未来10到15年科技行业中将占据主导地位的五大领域：网络安全、云计算、AI伦理、数据科学与机器人，以及科学与技术交叉领域（生物技术、气候技术、健康技术）。视频分析了这些领域的增长趋势、市场需求、人才缺口，并详细介绍了各类技术型和非技术型职位，为求职者和职业规划者提供了实用的行动指南。
+tags:
+- ai-ethics
+- career
+- cloud-computing-growth
+- tech
+- trend
+title: 2035年科技领域哪些职业将举足轻重？
 ---
+
 ### 引言：未来科技就业趋势展望
 
 大家好，我是Daria。今天我们将讨论未来科技领域的就业，特别是未来10到15年的发展。即使是现在，我们也能看到一些非常清晰的趋势。我将重点介绍那些已经展现出强劲发展势头，并注定会持续增长的职位。

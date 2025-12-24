@@ -1,40 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-07-11
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=FvXmEV90tlE'
-speaker: 徒步的騎手
-tags:
-  - national-narratives
-  - personal-priorities
-  - emotional-intelligence
-  - critical-thinking
-  - historical-empathy
-title: 你的人生才是头等大事：警惕“国家大事”的话语陷阱，培养阅读的“真切感”并与自己和解
-summary: 本文探讨了中文世界中“国家大事”这一说法的语言陷阱，强调个人人生才是最重要的。文章引用林语堂先生的观点，批判了有学问而无感悟的“情感空心化”现象，并提出在信息爆炸时代，培养对知识和历史的“真切感”（gold sense）至关重要。通过回顾美国“拉温案”等案例，文章呼吁人们关注小人物的挣扎，理解抗争与抵抗对社会活力的意义，并最终学会与生命的局限和解，活出有感悟、有温情、有存心的人生。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - historical-insights
-people:
-  - 林语堂
-  - 孔子
-  - 安徒生
-  - 鲁迅
-  - 庄子
-  - Mildred Jeter Loving
-  - Richard Loving
+category: psychology
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-07-11
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《皇帝新装》
+- 《皇帝新装》
+people:
+- 林语堂
+- 孔子
+- 安徒生
+- 鲁迅
+- 庄子
+- Mildred Jeter Loving
+- Richard Loving
+products_models: '[]'
+project:
+- personal-growth-lab
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=FvXmEV90tlE
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了中文世界中“国家大事”这一说法的语言陷阱，强调个人人生才是最重要的。文章引用林语堂先生的观点，批判了有学问而无感悟的“情感空心化”现象，并提出在信息爆炸时代，培养对知识和历史的“真切感”（gold
+  sense）至关重要。通过回顾美国“拉温案”等案例，文章呼吁人们关注小人物的挣扎，理解抗争与抵抗对社会活力的意义，并最终学会与生命的局限和解，活出有感悟、有温情、有存心的人生。
+tags:
+- critical-thinking
+- emotional-intelligence
+- historical
+- national
+- personal
+title: 你的人生才是头等大事：警惕“国家大事”的话语陷阱，培养阅读的“真切感”并与自己和解
 ---
 
 ### “国家大事”的话语陷阱与个人人生的优先性

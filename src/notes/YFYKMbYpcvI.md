@@ -1,32 +1,29 @@
 ---
-title: 从大厂到创业：千万股权激励，他为何选择冒险？
-summary: 一位曾在大厂打拼、手握千万股权的科技精英，为何选择在这个AI技术爆发的时代，投身一场充满不确定性的创业征程？
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- entrepreneurship
-- personal-growth-lab
-tags:
-- ai
-- career-path
-- entrepreneurship
-- startup
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: 课代表立正
-speaker: 课代表立正
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- entrepreneurship
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=YFYKMbYpcvI
+speaker: 课代表立正
 status: evergreen
+summary: 一位曾在大厂打拼、手握千万股权的科技精英，为何选择在这个AI技术爆发的时代，投身一场充满不确定性的创业征程？
+tags:
+- career
+- entrepreneurship
+- startup
+title: 从大厂到创业：千万股权激励，他为何选择冒险？
 ---
+
 ### 创业的基因与大厂的“稳健”选择
 
 从小耳濡目染长辈的创业经历，造就了作者对创业的天然倾向。然而，大学毕业后，作者并未立刻踏上创业之路，而是选择在美国找工作，并获得了在Facebook等大厂实习的机会。这并非否定创业，而是作者认为在没有特别好的创业想法时，在大厂“打工”是一种“稳中求胜”的策略。这既能满足内心对更高风险的追求，又能获得稳定的收入和资源支持。例如，在Facebook，作者选择了当时规模尚小的Instagram团队，专注于0-1的项目，并享受在高门槛、酷炫的业务中成长的过程。

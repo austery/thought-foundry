@@ -1,54 +1,54 @@
 ---
-author: TechButMakeItReal
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Amazon
+- Google
+- Microsoft
+- HCL Technologies
+- US Citizenship and Immigration Services
+- Notion
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+people:
+- Donald Trump
+products_models:
+- Notion AI Agent
+- Slack
+- ChatGPT
+- Cursor
+- Claude
+- Gmail
+- Drive
+- Teams
+- H-1B visa
+- F1 visa
+- TN visa
+- L1 visa
+- O1 visa
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=vCyyyBZVcLM
 speaker: TechButMakeItReal
-tags:
-  - h1b-visa-reform
-  - tech-labor-market
-  - remote-work-impact
-  - global-talent-diversification
-  - immigration-policy-abuse
-title: H-1B签证政策巨变：美国科技劳动力模式转型与全球人才流向
-summary: 本文对美国H-1B签证政策的最新调整进行了深入分析，特别是特朗普总统签署的行政命令将H-1B新申请费用提高至10万美元。文章指出，H-1B签证申请量下降是必然趋势，其背后是欺诈泛滥、科技行业裁员、远程工作和全球外包兴起等多重因素的完美结合。同时，文章探讨了H-1B项目从吸引顶尖人才到填补低薪职位的异化，以及这一变化对加拿大、欧洲乃至全球科技人才流向和产业多元化的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-companies_orgs:
-  - Amazon
-  - Google
-  - Microsoft
-  - HCL Technologies
-  - US Citizenship and Immigration Services
-  - Notion
-products_models:
-  - Notion AI Agent
-  - Slack
-  - ChatGPT
-  - Cursor
-  - Claude
-  - Gmail
-  - Drive
-  - Teams
-  - H-1B visa
-  - F1 visa
-  - TN visa
-  - L1 visa
-  - O1 visa
-media_books:
-  - Bloomberg
 status: evergreen
+summary: 本文对美国H-1B签证政策的最新调整进行了深入分析，特别是特朗普总统签署的行政命令将H-1B新申请费用提高至10万美元。文章指出，H-1B签证申请量下降是必然趋势，其背后是欺诈泛滥、科技行业裁员、远程工作和全球外包兴起等多重因素的完美结合。同时，文章探讨了H-1B项目从吸引顶尖人才到填补低薪职位的异化，以及这一变化对加拿大、欧洲乃至全球科技人才流向和产业多元化的深远影响。
+tags:
+- global
+- immigration-policy-abuse
+- impact
+- reform
+- tech-labor-market
+title: H-1B签证政策巨变：美国科技劳动力模式转型与全球人才流向
 ---
+
 ### H-1B签证政策：一次无偏见的分析
 
 我将明确指出本视频并非对美国政府的批评，也不是对H-1B头条新闻的情绪化反应。

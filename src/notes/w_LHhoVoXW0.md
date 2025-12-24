@@ -1,38 +1,38 @@
 ---
-author: Best Partners TV
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Scale AI
+- Meta
+- OpenAI
+- Google
+- Anthropic
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Alexandr Wang
+- Sam Altman
+products_models:
+- GPT-4
+- ChatGPT
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=w_LHhoVoXW0
 speaker: Best Partners TV
-tags:
-  - llm
-  - ai-training-data
-  - meta-investment
-title: 【人工智能】Scale AI要被Meta毁了？ | 毒药投资 | 客户流失 | 员工恐慌 | 估值暴跌 | 挖走Alexandr Wang | 薪酬大幅下降 | 多线自救 | 大规模裁员
-summary: Scale AI，一家曾经被全球科技巨头追捧的AI独角兽，在接受了科技巨头Meta高达143亿美元的重金投资后，仅仅半年时间就陷入了客户流失、员工恐慌、估值暴跌的全面危机。这场投资也被不少行业人士称为毒药投资。创始人的离开、巨头投资背后藏着掏空的阴谋、薪酬大幅下降、多线自救、大规模裁员等问题让Scale AI雪上加霜。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Alexandr Wang
-  - Sam Altman
-companies_orgs:
-  - Scale AI
-  - Meta
-  - OpenAI
-  - 谷歌
-  - Anthropic
-products_models:
-  - GPT-4
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: Scale AI，一家曾经被全球科技巨头追捧的AI独角兽，在接受了科技巨头Meta高达143亿美元的重金投资后，仅仅半年时间就陷入了客户流失、员工恐慌、估值暴跌的全面危机。这场投资也被不少行业人士称为毒药投资。创始人的离开、巨头投资背后藏着掏空的阴谋、薪酬大幅下降、多线自救、大规模裁员等问题让Scale
+  AI雪上加霜。
+tags:
+- llm
+- meta-investment
+title: 【人工智能】Scale AI要被Meta毁了？ | 毒药投资 | 客户流失 | 员工恐慌 | 估值暴跌 | 挖走Alexandr Wang | 薪酬大幅下降
+  | 多线自救 | 大规模裁员
 ---
+
 ### Scale AI的辉煌与危机
 
 大家好，这里是最佳拍档，我是小飞。Scale AI，一家曾经被全球科技巨头追捧的AI独角兽，在接受了科技巨头Meta高达143亿美元的重金投资后，仅仅半年时间就从风光无限的行业明星陷入了客户流失、员工恐慌、估值暴跌的全面危机。而这场投资也被不少行业人士称为毒药投资。

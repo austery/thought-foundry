@@ -1,39 +1,37 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- CBC
+- Newsweek
+- Numbeo
 date: '2024-03-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 维基百科
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=iENawqlglD8
 speaker: 莊也雜談
-tags:
-  - edmonton-city-profile
-  - alberta-economy
-  - inter-city-rivalry
-  - oil-industry-impact
-  - urban-development
-  - canadian-culture
-  - healthcare-systems
-title: 埃德蒙顿：加拿大之最的城市魅力与经济韧性深度解析
-summary: 本期节目深入探讨了加拿大埃德蒙顿的独特魅力与发展韧性。从其地理特征、北美最长的城市河谷公园系统，到西埃德蒙顿购物中心等众多“加拿大之最”，展现了这座城市的独特之处。节目还详细分析了埃德蒙顿与卡尔加里在经济、文化和就业方面的竞争与差异，特别是其在油气产业“后系统”中的关键作用，以及因此带来的经济抗风险能力。此外，还涵盖了埃德蒙顿在文化艺术、公共事业和医疗教育领域的优势，为听众全面描绘了一个充满活力的加拿大北方都会。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people: []
-companies_orgs:
-  - CBC
-  - Newsweek
-  - Numbeo
-products_models: []
-media_books:
-  - 维基百科
 status: evergreen
+summary: 本期节目深入探讨了加拿大埃德蒙顿的独特魅力与发展韧性。从其地理特征、北美最长的城市河谷公园系统，到西埃德蒙顿购物中心等众多“加拿大之最”，展现了这座城市的独特之处。节目还详细分析了埃德蒙顿与卡尔加里在经济、文化和就业方面的竞争与差异，特别是其在油气产业“后系统”中的关键作用，以及因此带来的经济抗风险能力。此外，还涵盖了埃德蒙顿在文化艺术、公共事业和医疗教育领域的优势，为听众全面描绘了一个充满活力的加拿大北方都会。
+tags:
+- culture
+- economy
+- healthcare-system
+- industry
+- society
+- urban-development
+title: 埃德蒙顿：加拿大之最的城市魅力与经济韧性深度解析
 ---
+
 ### 埃德蒙顿的地理与自然风光
 
 大家好，我是庄也，欢迎收看庄也杂谈加拿大系列节目。今天我们继续讲城市系列，是埃德蒙顿的下半部分。上半部分在《庄杂第150集》，我知道时间隔得有点长，所以强烈建议大家回去复习一下。上一集主要讲了埃德蒙顿的人口、气候、狗血历史故事，以及它和南边卡尔加里之间相爱相杀、你争我夺的竞争历史。今天我们主要讲一下埃德蒙顿这个城市的其他一些比较有意思的干货知识。

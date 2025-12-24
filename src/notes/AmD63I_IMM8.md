@@ -1,69 +1,69 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 东印度公司
+- 联合国
+- 辉格党
+- 托利党
+- 自由党 (英国)
+- 工党 (英国)
+- 保守党 (英国)
+- 国民党
+- 民进党
+- 新模范军
+- 蒙德拉贡公司
 date: '2025-06-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《马基雅维里时刻》
+- 《父权制》
+- 《大洋国》
+- 《蜜蜂的寓言》
+- 《国富论》
+- 《新教伦理与资本主义精神》
+- 《故乡的异乡人》
+people:
+- John Locke
+- Thomas Hobbes
+- Oliver Cromwell
+- J.G.A. Pocock
+- James Harrington
+- Elon Musk
+- Donald Trump
+- 赖清德
+- 姚利明
+- 张文珍
+- 蔡奇
+- Robert Filmer
+- Jean-Jacques Rousseau
+- Adam Smith
+- Max Weber
+- Karl Marx
+- Hugo Chávez
+- Nicolás Maduro
+- Sheikh Hasina
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=AmD63I_IMM8
 speaker: 东京人文论坛
-tags:
-  - republicanism
-  - civic-virtue
-  - property-rights
-  - commercial-society
-  - labor-value-vs-exchange-value
-title: 洛克被高估了吗？产权、美德与现代共和制的内在冲突
-summary: 本次读书会深入探讨了《马基雅维里时刻》一书，挑战了以洛克思想为代表的、将产权制度视为现代共和制基石的传统观点。讲者分析了从克伦威尔时代的英国开始，一个以产权为核心的社会如何与古典共和主义所强调的“公民美德”产生冲突。通过对比哈林顿的农业共和理想、卢梭的“公共意志”理论，以及商业社会（股份制、公债）的兴起，揭示了经济独立性与公民参与之间的复杂关系。最终，讨论归结为“劳动价值论”与“交换价值论”两种世界观的对立，并以此视角审视当代民主制度所面临的深刻危机。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - John Locke
-  - Thomas Hobbes
-  - Oliver Cromwell
-  - J.G.A. Pocock
-  - James Harrington
-  - Elon Musk
-  - Donald Trump
-  - 赖清德
-  - 姚利明
-  - 张文珍
-  - 蔡奇
-  - Robert Filmer
-  - Jean-Jacques Rousseau
-  - Adam Smith
-  - Max Weber
-  - Karl Marx
-  - Hugo Chávez
-  - Nicolás Maduro
-  - Sheikh Hasina
-companies_orgs:
-  - 东印度公司
-  - 联合国
-  - 辉格党
-  - 托利党
-  - 自由党 (英国)
-  - 工党 (英国)
-  - 保守党 (英国)
-  - 国民党
-  - 民进党
-  - 新模范军
-  - 蒙德拉贡公司
-products_models: []
-media_books:
-  - 《马基雅维里时刻》
-  - 《父权制》
-  - 《大洋国》
-  - 《蜜蜂的寓言》
-  - 《国富论》
-  - 《新教伦理与资本主义精神》
-  - 《故乡的异乡人》
 status: evergreen
+summary: 本次读书会深入探讨了《马基雅维里时刻》一书，挑战了以洛克思想为代表的、将产权制度视为现代共和制基石的传统观点。讲者分析了从克伦威尔时代的英国开始，一个以产权为核心的社会如何与古典共和主义所强调的“公民美德”产生冲突。通过对比哈林顿的农业共和理想、卢梭的“公共意志”理论，以及商业社会（股份制、公债）的兴起，揭示了经济独立性与公民参与之间的复杂关系。最终，讨论归结为“劳动价值论”与“交换价值论”两种世界观的对立，并以此视角审视当代民主制度所面临的深刻危机。
+tags:
+- history
+- philosophy
+- right
+- society
+- value
+title: 洛克被高估了吗？产权、美德与现代共和制的内在冲突
 ---
+
 ### 导言：从克伦威尔时代看现代民主的危机
 
 谢谢大家参加这个系列节目，能够一期一期地跟下来并感受到其重要性，实属不易。今天是我们《马基雅维里时刻》读书会的第四期。从书籍本身的结构来看，我们已经推进到了倒数第二部分。这本书的叙事从佛罗伦萨历史，到英国历史，再到美国建国史。目前，我们已经进入了英国历史的深水区。

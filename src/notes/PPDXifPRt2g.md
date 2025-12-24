@@ -1,31 +1,30 @@
 ---
-title: 为什么明知该学却做不到？多巴胺真相与应对策略
-summary: 本期探讨为何人们明知该学习却难以行动。揭示多巴胺系统如何被高刺激活动挟持，并提供三项核心策略：调整任务顺序、改变休息方式、以及早睡早起，以更好地管理多巴胺，提升专注力和效率。
 area: personal-growth
 category: productivity
-project:
-- personal-growth-lab
-tags:
-- dopamine
-- productivity
-- self-discipline
-- time-management
-people:
-- kevinfeng
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-11'
-author: KevinFeng 冯凯文
-speaker: KevinFeng 冯凯文
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- kevinfeng
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=PPDXifPRt2g
+speaker: KevinFeng 冯凯文
 status: evergreen
+summary: 本期探讨为何人们明知该学习却难以行动。揭示多巴胺系统如何被高刺激活动挟持，并提供三项核心策略：调整任务顺序、改变休息方式、以及早睡早起，以更好地管理多巴胺，提升专注力和效率。
+tags:
+- productivity
+- psychology
+- self
+- time-management
+title: 为什么明知该学却做不到？多巴胺真相与应对策略
 ---
+
 ### 序言：多巴胺困境
 
 我们是否曾有这样的困扰：拿起手机可以刷好几个小时，但一翻开英文书，不到五分钟就昏昏欲睡？这并非自律不足，也不是不想学习，而是大脑在“作对”，即我们的**多巴胺**（Dopamine: 一种神经递质，与快乐、奖赏和动机有关）系统被“挟持”了。本文将深入探讨多巴胺的运作机制，并提供切实可行的策略来管理多巴胺，帮助我们走出“知道该做却做不到”的困境。

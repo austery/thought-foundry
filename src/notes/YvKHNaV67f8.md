@@ -1,49 +1,49 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 北京国安足球队
+- 黑龙江冰城队
+- 广州恒大
+- 上海上港
 date: '2024-07-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《十三邀》
+- 《我叫贾顺浩》
+people:
+- 贾顺浩
+- 罗格·施密特
+- 斯科拉里
+- 贝尼特斯
+- 项飙
+- 李景亮
+- 瓜迪奥拉
+- 萨里
+- 博阿斯
+- 斯蒂尔
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+- pkm-research
+series: ''
 source: https://www.youtube.com/watch?v=YvKHNaV67f8
 speaker: 一席YiXi
-tags:
-  - football-culture
-  - low-budget-sports-management
-  - tactical-innovation
-  - player-development-cycle
-  - systemic-inefficiency
-title: 把球踢好看：一名中国基层足球教练的突围与坚持
-summary: 贾顺浩讲述他如何在资金匮乏、系统僵化的中国职业足球环境中，以创新训练方法和人文关怀带领黑龙江冰城队保级，并坚持‘踢得好看’的足球哲学，揭示中国足球底层生态与职业精神的深层矛盾。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - pkm-research
-people:
-  - 贾顺浩
-  - 罗格·施密特
-  - 斯科拉里
-  - 贝尼特斯
-  - 项飙
-  - 李景亮
-  - 瓜迪奥拉
-  - 萨里
-  - 博阿斯
-  - 斯蒂尔
-companies_orgs:
-  - 北京国安足球队
-  - 黑龙江冰城队
-  - 广州恒大
-  - 上海上港
-products_models: []
-media_books:
-  - 《十三邀》
-  - 《我叫贾顺浩》
 status: evergreen
+summary: 贾顺浩讲述他如何在资金匮乏、系统僵化的中国职业足球环境中，以创新训练方法和人文关怀带领黑龙江冰城队保级，并坚持‘踢得好看’的足球哲学，揭示中国足球底层生态与职业精神的深层矛盾。
+tags:
+- culture
+- development
+- innovation
+- management
+- technology
+title: 把球踢好看：一名中国基层足球教练的突围与坚持
 ---
+
 ### 一场梦里的足球：从看台到教练席
 
 很多时候，当我们赢球的时候，我走去看台，球迷会给我鼓掌，唱属于我的歌，我自己会为这个情况非常非常地动容。我们没有赢球的时候，大家在网络上或者在现实里用特别难听的话骂着我，骂着我的家人去发泄——我也很理解。因为作为一个得失心很重的行业，你没有办法不去注重“赢”这个概念。在90分钟的比赛里，你就像沉浸在一场梦里面一样。

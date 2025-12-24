@@ -1,40 +1,40 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 长荣航空
+- 海航
+- 加航
+- Skytrax
 date: '2024-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《阿Q正传》
+people:
+- 庄也
+products_models:
+- 空客
+- 波音
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=vnQwZrUOXaw
 speaker: 莊也雜談
-tags:
-  - flight-delay
-  - airport-experience
-  - travel-logistics
-  - airline-service
-  - transit-journey
-title: 2024回国探亲：一次充满波折的台湾过境与航班改签经历
-summary: 主持人分享了2024年回国探亲的飞行经历。去程顺利，但在台北桃园机场体验了其独特的文化氛围。返程时，从北京飞往台北的航班因故障延误三小时，导致错过后续航班。被迫改签经温哥华转机，并对加航的服务提出批评。最终比原计划晚8小时抵达多伦多，是一次意想不到的“塞翁失马”之旅。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - 庄也
-companies_orgs:
-  - 长荣航空
-  - 海航
-  - 加航
-  - Skytrax
-products_models:
-  - 空客
-  - 波音
-media_books:
-  - 《阿Q正传》
 status: evergreen
+summary: 主持人分享了2024年回国探亲的飞行经历。去程顺利，但在台北桃园机场体验了其独特的文化氛围。返程时，从北京飞往台北的航班因故障延误三小时，导致错过后续航班。被迫改签经温哥华转机，并对加航的服务提出批评。最终比原计划晚8小时抵达多伦多，是一次意想不到的“塞翁失马”之旅。
+tags:
+- experience
+- flight-delay
+- llm
+- transit-journey
+- travel
+title: 2024回国探亲：一次充满波折的台湾过境与航班改签经历
 ---
+
 ### 引言：2024回国之旅的飞行篇
 
 大家好，我是庄也。接下来，我将继续讲述我回国的话题。前一集我们谈到了回国前手机上需要安装的软件和一些准备工作，今天开始，咱们就来聊聊这次回国乘坐飞机发生的故事。有人可能会觉得坐飞机有什么好说的，但这次的故事特别惊险刺激。

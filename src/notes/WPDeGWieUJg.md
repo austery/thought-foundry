@@ -1,50 +1,50 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-05-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《黑客帝国》
+- 《头号玩家》
+- 《楚门的世界》
+- 《盗梦空间》
+- 《全面回忆》
+- 《失控玩家》
+- 《异次元骇客》
+- 《庄子》
+- 'Reality+: Virtual Worlds and the Problems of Philosophy'
+- 《现实+：每个虚拟世界都是一个新的现实》
+people:
+- 柏拉图
+- 苏格拉底
+- 笛卡尔
+- 康德
+- 尼采
+- 胡塞尔
+- 梅洛庞蒂
+- 大卫·查尔莫斯
+- platos-allegory-of-the-cave
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=WPDeGWieUJg
 speaker: 大问题Dialectic
-tags:
-  - skepticism
-  - metaphysics
-  - platos-allegory-of-the-cave
-  - virtual-realism
-  - functionalism
-title: 为何西方哲学总爱怀疑现实？从柏拉图洞穴到虚拟实在论
-summary: 本文深入探讨了西方哲学中怀疑论传统的文化源流，指出其与强大的形而上学传统一体两面。通过古希腊哲学家柏拉图的“洞穴比喻”，文章揭示了西方思想家为何总爱怀疑感官世界。同时，本文还介绍了近现代哲学对柏拉图主义的反制，以及当代哲学家大卫·查尔莫斯如何通过计算主义和功能主义，提出虚拟实在论来反驳怀疑论，为我们的赛博生活赋予了新的真实性定义。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - 柏拉图
-  - 苏格拉底
-  - 笛卡尔
-  - 康德
-  - 尼采
-  - 胡塞尔
-  - 梅洛庞蒂
-  - 大卫·查尔莫斯
-companies_orgs: []
-products_models: []
-media_books:
-  - 《黑客帝国》
-  - 《头号玩家》
-  - 《楚门的世界》
-  - 《盗梦空间》
-  - 《全面回忆》
-  - 《失控玩家》
-  - 《异次元骇客》
-  - 《庄子》
-  - 'Reality+: Virtual Worlds and the Problems of Philosophy'
-  - 《现实+：每个虚拟世界都是一个新的现实》
 status: evergreen
+summary: 本文深入探讨了西方哲学中怀疑论传统的文化源流，指出其与强大的形而上学传统一体两面。通过古希腊哲学家柏拉图的“洞穴比喻”，文章揭示了西方思想家为何总爱怀疑感官世界。同时，本文还介绍了近现代哲学对柏拉图主义的反制，以及当代哲学家大卫·查尔莫斯如何通过计算主义和功能主义，提出虚拟实在论来反驳怀疑论，为我们的赛博生活赋予了新的真实性定义。
+tags:
+- functionalism
+- metaphysic
+- skepticism
+- virtual-realism
+title: 为何西方哲学总爱怀疑现实？从柏拉图洞穴到虚拟实在论
 ---
+
 ### 西方哲学的怀疑传统：从古至今的追问
 
 我们或许会感到奇怪，为何西方的哲学家们总是热衷于怀疑我们感官所感受到的这个现实世界是虚假的。他们一会儿怀疑自己是不是**缸中之脑**（Brain in a Vat: 一种思想实验，假设一个人的大脑被取出并放入营养液中，通过电极连接到一台计算机，计算机模拟的信号让大脑产生身处真实世界的错觉），一会儿又觉得这个世界是被计算机模拟出来的，甚至还会觉得其他人都是**NPC**（Non-Player Character: 电子游戏中由程序控制而非玩家控制的角色，在此处指代被怀疑为非真实、无自主意识的人）。这些看似“没事找事”的问题，是否反映出西方思想家们的一种独特思维模式？

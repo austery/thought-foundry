@@ -1,30 +1,28 @@
 ---
-title: 威胁情报：Anthropic 如何阻止 AI 网络犯罪
-summary: Anthropic威胁情报团队揭示AI驱动的网络犯罪，如情绪黑客、数据勒索和就业诈骗。团队通过多层防御和行业合作对抗这些威胁，并强调AI在网络安全防御中的积极作用。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-cybercrime
-- llm-security
-- threat-intelligence
-- vibe-hacking
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-27'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=EsCNkDrIGCw
+speaker: Anthropic
 status: evergreen
+summary: Anthropic威胁情报团队揭示AI驱动的网络犯罪，如情绪黑客、数据勒索和就业诈骗。团队通过多层防御和行业合作对抗这些威胁，并强调AI在网络安全防御中的积极作用。
+tags:
+- intelligence
+- security
+- technology
+- vibe-hacking
+title: 威胁情报：Anthropic 如何阻止 AI 网络犯罪
 ---
+
 ### AI 带来的当下网络威胁
 
 Stuart: All right, welcome to another video from Anthropic. My name's Stuart, from the Communications team.

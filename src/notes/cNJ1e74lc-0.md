@@ -1,62 +1,62 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Reuters
+- The Wall Street Journal
+- CME Group
+- Nvidia
+- Jinsun
+- UBS
+- Bloomberg
+- The Paper
+- European Union
+- General Administration of Customs of China
+- BNP Paribas
+- People's Bank of China
+- Malaysia Airlines
+- Hubei Jiayu Public Security Bureau
+- Beijing Chaoyang District People's Court
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- 《自由中国遗产于当代民主试炼的论坛》
+- 《台湾前途决议文》
+people:
+- Donald Trump
+- Volodymyr Zelenskyy
+- John Mathews
+- Emmanuel Macron
+- Xi Jinping
+- Lai Ching-te
+- Liu Shih-fang
+- 雷震
+- Antony Blinken
+products_models:
+- PHL-03火箭炮
+- 泰达币
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=cNJ1e74lc-0
 speaker: LT視界
-tags:
-  - china-economic-policy
-  - trade-imbalance
-  - geopolitical-tensions
-  - us-foreign-policy
-  - digital-currency-regulation
-title: 中国政治局定调2026年经济：内需优先，对外经贸斗争；贸易顺差创新高引国际警惕；乌克兰、台湾及全球财经热点分析
-summary: 本期节目深入分析了中国政治局会议对2026年经济工作的定调，强调以国内需求为主导，同时将对外经济关系定义为“国际经贸斗争”。中国11月贸易顺差首次突破万亿美元，引发国际社会对贸易失衡的担忧。节目还探讨了乌克兰战局中川普与泽连斯基的分歧、小川普对乌克兰腐败的指控，以及台湾赖清德的“中华民国”论述与对中国经济的建议。此外，还关注了马航MH370赔偿案和湖北警方“钓鱼”式寻找泰达币原主的事件，揭示了官民互信的微妙关系。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - John Mathews
-  - Emmanuel Macron
-  - Xi Jinping
-  - Lai Ching-te
-  - Liu Shih-fang
-  - 雷震
-  - Antony Blinken
-companies_orgs:
-  - Reuters
-  - The Wall Street Journal
-  - CME Group
-  - Nvidia
-  - Jinsun
-  - UBS
-  - Bloomberg
-  - The Paper
-  - European Union
-  - General Administration of Customs of China
-  - BNP Paribas
-  - People's Bank of China
-  - Malaysia Airlines
-  - Hubei Jiayu Public Security Bureau
-  - Beijing Chaoyang District People's Court
-products_models:
-  - PHL-03火箭炮
-  - 泰达币
-media_books:
-  - The New York Times
-  - 《自由中国遗产于当代民主试炼的论坛》
-  - 《台湾前途决议文》
 status: evergreen
+summary: 本期节目深入分析了中国政治局会议对2026年经济工作的定调，强调以国内需求为主导，同时将对外经济关系定义为“国际经贸斗争”。中国11月贸易顺差首次突破万亿美元，引发国际社会对贸易失衡的担忧。节目还探讨了乌克兰战局中川普与泽连斯基的分歧、小川普对乌克兰腐败的指控，以及台湾赖清德的“中华民国”论述与对中国经济的建议。此外，还关注了马航MH370赔偿案和湖北警方“钓鱼”式寻找泰达币原主的事件，揭示了官民互信的微妙关系。
+tags:
+- china-economic-policy
+- digital
+- geopolitical-tension
+- trade
+- us-foreign-policy
+title: 中国政治局定调2026年经济：内需优先，对外经贸斗争；贸易顺差创新高引国际警惕；乌克兰、台湾及全球财经热点分析
 ---
+
 ### 全球财经市场动态
 
 今天的重要新闻首先关注财经头条，有三个方面的最新信息值得分享。第一是路透社的报道，美联储会议之前，全球股票基金吸引了资金流入。由于市场预期**美联储**（Federal Reserve: 美国中央银行系统）本周可能降息，风险情绪受到提振，全球股票基金吸引了大量的资金流入。截至12月3日的当周，投资者净买入价值79.3亿美元的全球股票基金，与前一周净卖出约64.1亿美元的数据形成鲜明对比。芝加哥商品交易所交易员今天认为，美联储周三降息25个基点的概率为89.6%。也就是说，在今天这个时间节点，差不多90%的交易员认为周三美联储会做出25个基点降息的决定，这几乎成了市场的一种确定性。这个新闻通过数据佐证，得出的结论仍然是周三的降息有利于全球股市。

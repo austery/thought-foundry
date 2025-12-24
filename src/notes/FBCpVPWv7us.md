@@ -1,46 +1,44 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- 斯坦福大学
+- SambaNova Systems
+- 加州大学伯克利分校
+- IBM
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- ACE框架
+- GEPA
+- Dynamic Cheatsheet
+- ReAct
+- MIPROv2
+- CUGA
+- GPT-4.1
+- DeepSeek-V3.1
+- HotPotQA
+project:
+- ai-impact-analysis
+- systems-thinking
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=FBCpVPWv7us
 speaker: Best Partners TV
-tags:
-  - agentic-ai
-  - context-engineering
-  - large-language-models
-  - self-improving-llms
-  - prompt-optimization
-title: ACE框架：大语言模型通过上下文实现自我提升的智能体工程
-summary: 本文深入解读了斯坦福大学等机构联合提出的ACE（Agentic Context Engineering）框架。该框架旨在解决大语言模型在上下文适配中的“简洁性偏差”和“上下文坍缩”两大难题，通过生成器、反思器和整理器三大核心组件，使模型无需更新权重即可通过动态演进的上下文实现自我提升。ACE在智能体任务和金融推理任务中展现出卓越性能，显著降低了部署成本，并为AI系统的在线学习和持续学习提供了新范式。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - knowledge-pipeline
-people: []
-companies_orgs:
-  - 斯坦福大学
-  - SambaNova Systems
-  - 加州大学伯克利分校
-  - IBM
-products_models:
-  - ACE框架
-  - GEPA
-  - Dynamic Cheatsheet
-  - ReAct
-  - MIPROv2
-  - CUGA
-  - GPT-4.1
-  - DeepSeek-V3.1
-  - HotPotQA
-media_books: []
 status: evergreen
+summary: 本文深入解读了斯坦福大学等机构联合提出的ACE（Agentic Context Engineering）框架。该框架旨在解决大语言模型在上下文适配中的“简洁性偏差”和“上下文坍缩”两大难题，通过生成器、反思器和整理器三大核心组件，使模型无需更新权重即可通过动态演进的上下文实现自我提升。ACE在智能体任务和金融推理任务中展现出卓越性能，显著降低了部署成本，并为AI系统的在线学习和持续学习提供了新范式。
+tags:
+- agentic-ai
+- context-engineering
+- large-language-model
+- optimization
+- self
+title: ACE框架：大语言模型通过上下文实现自我提升的智能体工程
 ---
+
 ### 引言：ACE框架——大模型自我提升的新范式
 
 今天我们将深入解读一篇来自斯坦福大学、SambaNova Systems和加州大学伯克利分校联合团队的最新研究成果——**ACE框架**（Agentic Context Engineering: 智能体上下文工程）。这项研究的核心目标是解决大语言模型在上下文适配中最棘手的两个问题：**简洁性偏差**（Brevity Bias: 现有提示词优化工具过度追求简洁，导致关键信息遗漏的问题）和**上下文坍缩**（Context Collapse: 随着迭代次数增加，上下文信息量减少，导致模型性能下降的问题）。最终，ACE框架旨在让大语言模型无需更新权重，就能够通过动态演进的上下文实现自我提升。

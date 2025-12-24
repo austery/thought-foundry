@@ -1,41 +1,40 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- York University
+- IESO
+- Ontario Energy Board
+- Ontario Hydro
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Doug Ford
+- Mark Winfield
+- Davis
+- Wynne
+products_models:
+- Small Modular Reactor
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=P_Sw-s7Ie_0
 speaker: TVO Today
-tags:
-  - electricity-rates
-  - nuclear-power
-  - government-subsidies
-  - energy-policy
-  - regulatory-oversight
-title: 安大略省对核电的依赖是否正在推高电价？
-summary: 安大略省的电价持续上涨，省长道格·福特通过提高电力补贴来应对。本文深入探讨了电价上涨背后的原因，特别是新核电项目与现有设施翻新对电价的长期影响。文章还揭示了安大略省在能源战略上缺乏独立监管和审查机制，以及政府对可再生能源等低成本方案的排斥。同时，回顾了电力补贴政策的历史透明度问题，并对当前补贴模式的不可持续性提出了质疑。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Doug Ford
-  - Mark Winfield
-  - Davis
-  - Wynne
-companies_orgs:
-  - York University
-  - IESO
-  - Ontario Energy Board
-  - Ontario Hydro
-products_models:
-  - Small Modular Reactor
-media_books: []
 status: evergreen
+summary: 安大略省的电价持续上涨，省长道格·福特通过提高电力补贴来应对。本文深入探讨了电价上涨背后的原因，特别是新核电项目与现有设施翻新对电价的长期影响。文章还揭示了安大略省在能源战略上缺乏独立监管和审查机制，以及政府对可再生能源等低成本方案的排斥。同时，回顾了电力补贴政策的历史透明度问题，并对当前补贴模式的不可持续性提出了质疑。
+tags:
+- government
+- policy
+- power
+- rate
+- regulatory
+title: 安大略省对核电的依赖是否正在推高电价？
 ---
+
 ### 安大略省电价上涨的背景与核电关联
 
 安大略省的电价正在上涨，作为回应，省长道格·福特正在提高电力补贴。

@@ -1,34 +1,33 @@
 ---
-author: TED
+area: society-systems
+category: general
+companies_orgs:
+- TED
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Yadvinder Malhi
+products_models: []
+project:
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=CfPFU4UaaRA
 speaker: TED
-tags:
-  - ecosystem-vibrancy
-  - climate-adaptation
-  - ecological-flows
-  - biosphere-health
-  - conservation-strategy
-title: 地球的活力：生态系统韧性与气候适应之道
-summary: 生态系统生态学家Yadvinder Malhi探讨了如何通过测量能量、碳和营养物质的流动来理解地球的生命网络。他提出了“生态系统活力”的概念，强调其在应对全球变化（包括气候变化）中的关键作用。文章指出，过度关注单一功能（如碳捕获）或魅力物种可能忽视了生态系统内在的复杂性和相互关联性。通过对稀树草原和热带环礁的案例分析，Malhi呼吁我们应与地球的野性能量协同工作，以构建一个更具韧性、人类与自然共存共荣的世界。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Yadvinder Malhi
-companies_orgs:
-  - TED
-products_models: []
-media_books: []
 status: evergreen
+summary: 生态系统生态学家Yadvinder Malhi探讨了如何通过测量能量、碳和营养物质的流动来理解地球的生命网络。他提出了“生态系统活力”的概念，强调其在应对全球变化（包括气候变化）中的关键作用。文章指出，过度关注单一功能（如碳捕获）或魅力物种可能忽视了生态系统内在的复杂性和相互关联性。通过对稀树草原和热带环礁的案例分析，Malhi呼吁我们应与地球的野性能量协同工作，以构建一个更具韧性、人类与自然共存共荣的世界。
+tags:
+- climate
+- ecosystem
+- flow
+- health
+- strategy
+title: 地球的活力：生态系统韧性与气候适应之道
 ---
+
 ### 森林的奥秘与地球的脉搏
 
 当你看到这片森林时，你会想到什么？

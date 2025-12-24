@@ -1,34 +1,32 @@
 ---
-title: 全球右转浪潮：高市早苗当选与民粹主义兴起的影响
-summary: 分析全球右翼至极右翼政治浪潮，探讨其特征、对国际格局及中国的影响，并关注美国大选的关键作用。
-area: market-analysis
-category: geopolitics
-project:
-- china-analysis
-- geopolitics-watch
-- us-analysis
-tags:
-- china
-- geopolitics
-- global-politics
-- right-wing-populism
-- us-elections
-people: []
+area: society-thinking
+category: politics-society
 companies_orgs: []
-products_models: []
-media_books:
-- fearnation
 date: '2025-10-07'
-author: FearNation 世界苦茶
-speaker: FearNation 世界苦茶
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- fearnation
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=eCAGjMbpQFU
+speaker: FearNation 世界苦茶
 status: evergreen
+summary: 分析全球右翼至极右翼政治浪潮，探讨其特征、对国际格局及中国的影响，并关注美国大选的关键作用。
+tags:
+- china
+- politics
+- right-wing-populism
+- us-election
+title: 全球右转浪潮：高市早苗当选与民粹主义兴起的影响
 ---
+
 ### 全球右翼浪潮与高市早苗当选
 
 近期，日本自民党总裁选举的结果备受关注。右翼候选人高市早苗意外当选，引发了人们对其执政方向的讨论。值得注意的是，这种民粹派或极右翼的当选并非日本独有，在全球范围内，许多国家都出现了类似的政治趋势。

@@ -1,49 +1,49 @@
 ---
-author: Dwarkesh Patel
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Anthropic
+- Google
+- Meta
+- SSI (Safe Superintelligence Inc.)
+- Thinking Machines
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ilya Sutskever
+- Yann LeCun
+- Garry Kasparov
+products_models:
+- Gemini
+- GPT-3
+- AlexNet
+- Transformer
+- ResNet
+- DeepSeek R1
+- Neuralink
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=aR20FWCCjAs
 speaker: Dwarkesh Patel
-tags:
-  - age-of-research
-  - ai-generalization
-  - continual-learning
-  - scaling-laws
-  - value-function
-title: Ilya Sutskever 深度对话：超越规模定律，回归 AI 研究的本质
-summary: Ilya Sutskever 深入探讨了当前 AI 发展的核心困境：为何模型在评估指标上表现优异，却未能产生相应的经济影响。他认为，AI 发展正从“规模时代”转向“研究时代”，核心挑战在于解决模型的泛化能力远逊于人类的问题。Sutskever 强调了持续学习、价值函数的重要性，并重新定义了 AGI 的概念，认为真正的超级智能是能够高效学习的智能体，而非无所不知的成品。他还讨论了 AI 安全、对齐策略以及 SSI 公司的独特技术路径。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ilya Sutskever
-  - Dwarkesh Patel
-  - Yann LeCun
-  - Garry Kasparov
-companies_orgs:
-  - OpenAI
-  - Anthropic
-  - Google
-  - Meta
-  - SSI (Safe Superintelligence Inc.)
-  - Thinking Machines
-products_models:
-  - Gemini
-  - GPT-3
-  - AlexNet
-  - Transformer
-  - ResNet
-  - DeepSeek R1
-  - Neuralink
-media_books: []
 status: evergreen
+summary: Ilya Sutskever 深入探讨了当前 AI 发展的核心困境：为何模型在评估指标上表现优异，却未能产生相应的经济影响。他认为，AI 发展正从“规模时代”转向“研究时代”，核心挑战在于解决模型的泛化能力远逊于人类的问题。Sutskever
+  强调了持续学习、价值函数的重要性，并重新定义了 AGI 的概念，认为真正的超级智能是能够高效学习的智能体，而非无所不知的成品。他还讨论了 AI 安全、对齐策略以及
+  SSI 公司的独特技术路径。
+tags:
+- learning
+- llm
+- research
+- scaling-law
+- value
+title: Ilya Sutskever 深度对话：超越规模定律，回归 AI 研究的本质
 ---
+
 ### AI 时代的怪诞现实与缓慢起飞
 
 **Ilya:** 你知道什么事最疯狂吗？这一切都是真实发生的。

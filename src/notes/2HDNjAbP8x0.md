@@ -1,48 +1,49 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Goldman Sachs
+- AKO Capital
+- AKO Foundation
+- BP
+- NATO
+- European Union
 date: '2024-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Dragi Report
+people:
+- Nikolai Tangen
+- Sam Altman
+- Jensen Huang
+- Bill Gates
+- Magnus Carlsen
+- Jens Stoltenberg
+products_models:
+- In Good Company
+project:
+- investment-strategy
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=2HDNjAbP8x0
 speaker: Norges Bank Investment Management
-tags:
-  - investment-philosophy
-  - market-concentration
-  - geopolitical-risk
-  - leadership-development
-  - european-competitiveness
-title: 挪威主权财富基金CEO：长期投资、透明度与领导力洞察
-summary: 挪威银行投资管理公司CEO尼古拉·坦根分享了管理全球最大主权财富基金的经验。他强调长期投资、高度透明和多元化是基金成功的关键。坦根还讨论了气候变化作为金融风险、AI对市场集中度的影响、以及通过其播客《In Good Company》学到的领导力特质，包括韧性、同理心和适应性。他还就欧洲竞争力、私人市场增长以及个人学习对投资决策的影响提供了见解。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Nikolai Tangen
-  - Sam Altman
-  - Jensen Huang
-  - Bill Gates
-  - Magnus Carlsen
-  - Jens Stoltenberg
-companies_orgs:
-  - Norges Bank Investment Management
-  - Goldman Sachs
-  - AKO Capital
-  - AKO Foundation
-  - BP
-  - NATO
-  - European Union
-products_models:
-  - In Good Company
-media_books:
-  - Dragi Report
 status: evergreen
+summary: 挪威银行投资管理公司CEO尼古拉·坦根分享了管理全球最大主权财富基金的经验。他强调长期投资、高度透明和多元化是基金成功的关键。坦根还讨论了气候变化作为金融风险、AI对市场集中度的影响、以及通过其播客《In
+  Good Company》学到的领导力特质，包括韧性、同理心和适应性。他还就欧洲竞争力、私人市场增长以及个人学习对投资决策的影响提供了见解。
+tags:
+- geopolitical
+- geopolitical-risk
+- investment-philosophy
+- leadership-development
+- market-concentration
+title: 挪威主权财富基金CEO：长期投资、透明度与领导力洞察
 ---
+
 ### 长期视角：更少决策，更高质量
 
 **主持人**: 但当你采取更长期的视角时，你会做出更少的决策，而你做出的决策越少，它们往往就越好。

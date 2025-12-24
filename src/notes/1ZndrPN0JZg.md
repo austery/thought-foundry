@@ -1,38 +1,37 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-10-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 范亞萱醫師
+- Jess教練
+- Dr. Stacy Sims
+products_models:
+- HIIT
+- B-Stance
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=1ZndrPN0JZg
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - women-fitness
-  - weight-loss-myths
-  - menstrual-cycle-training
-  - strength-training
-  - progressive-overload
-title: 女性30+減肥迷思：避開三大陷阱，掌握週期性訓練策略
-summary: 許多女性在30歲後發現減肥變得困難。范亞萱醫師與Jess教練將揭示三個常見的減肥誤區：過度依賴有氧運動導致代謝不佳、空腹運動對女性減脂效果有限且可能造成壓力、以及忽略月經週期進行一成不變的訓練。文章強調重訓的重要性、運動前適當補充能量，並建議女性應根據月經週期調整訓練強度與飲食，以實現更有效率的增肌減脂，避免越減越胖的困境。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 范亞萱醫師
-  - Jess教練
-  - Dr. Stacy Sims
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models:
-  - HIIT
-  - B-Stance
-media_books: []
 status: evergreen
+summary: 許多女性在30歲後發現減肥變得困難。范亞萱醫師與Jess教練將揭示三個常見的減肥誤區：過度依賴有氧運動導致代謝不佳、空腹運動對女性減脂效果有限且可能造成壓力、以及忽略月經週期進行一成不變的訓練。文章強調重訓的重要性、運動前適當補充能量，並建議女性應根據月經週期調整訓練強度與飲食，以實現更有效率的增肌減脂，避免越減越胖的困境。
+tags:
+- canada
+- cycle
+- loss
+- society
+- strength-training
+title: 女性30+減肥迷思：避開三大陷阱，掌握週期性訓練策略
 ---
+
 ### 30歲後女性減肥的普遍困境
 
 許多朋友可能都有疑問，為什麼明明有在運動，卻好像沒有什麼效果？這是一個超級普遍且行之有年的大迷思。運動前有沒有吃東西，其實對於減脂的效果沒有什麼太大差異。大家好，我是范亞萱醫師。很多女生覺得三十歲後，身體忽然變得難搞。我們今天就要來破解三個女生容易掉進去的減肥誤區，也請到了全方位的健康教練Jess教練。大家好，我是Jess教練，我的專業是透過營養訓練跟行為心理學的引導，幫助客戶達成他們的健康目標。

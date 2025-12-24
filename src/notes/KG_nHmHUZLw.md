@@ -1,102 +1,103 @@
 ---
-author: All-In Podcast
+area: market-analysis
+category: business
+companies_orgs:
+- Endeavor
+- Creative Artists Agency
+- William Morris Endeavor
+- IMG
+- Silver Lake
+- Ultimate Fighting Championship
+- TKO Group Holdings
+- YouTube
+- Netflix
+- Amazon
+- Instagram
+- TikTok
+- Meta
+- X
+- NBC
+- Peacock
+- Disney
+- HBO
+- ICM Partners
+- United Talent Agency
+- MTV
+- CBS
+- ESPN
+- National Football League
+- National Basketball Association
+- Live Nation Entertainment
+- Gray Advertising
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Entourage
+- The Simpsons
+- South Park
+- Seinfeld
+- Fargo
+- Alien Earth
+- The Office
+people:
+- Ari Emanuel
+- George Gilder
+- Teddy Forstmann
+- Vince McMahon
+- Neil Mohan
+- Mr. Beast
+- Tucker Carlson
+- Jimmy Donaldson
+- Oprah Winfrey
+- Dr. Phil
+- Dr. Oz
+- Gwyneth Paltrow
+- Michael Rapino
+- Elon Musk
+- Zeke Emanuel
+- Rahm Emanuel
+- Adrian Grenier
+- David Zaslav
+- Michael Ovitz
+- Lew Wasserman
+- Roger Goodell
+- David Ellison
+- Bob Iger
+- Jimmy Pitaro
+- Noah Hawley
+- Greg Daniels
+- Larry David
+- Aaron Sorkin
+- James L. Brooks
+- Martin Scorsese
+- Dwayne Johnson
+- Mark Wahlberg
+- Peter Berg
+products_models:
+- Alps product
+- Optimus
+project:
+- entrepreneurship
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=KG_nHmHUZLw
 speaker: All-In Podcast
-tags:
-  - entertainment-industry
-  - creator-economy
-  - live-events
-  - content-distribution
-  - business-evolution
-title: 娱乐业的未来：Ari Emanuel 论好莱坞、AI、创作者经济与直播活动
-summary: 在《All-In Podcast》的访谈中，娱乐业巨头Ari Emanuel深入探讨了Endeavor的演变、内容分发模式的变革以及创作者经济的未来。他分享了公司从经纪业务到资产所有权的战略转型，强调了IP所有权的重要性。Emanuel还讨论了AI对行业的影响，并坚定地看好直播活动的未来，认为在自动化时代，人们对真实连接的需求将推动直播产业的持续增长。他同时分享了与Elon Musk的友谊以及对AI机器人的看法。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Ari Emanuel
-  - George Gilder
-  - Teddy Forstmann
-  - Vince McMahon
-  - Neil Mohan
-  - Mr. Beast
-  - Tucker Carlson
-  - Jimmy Donaldson
-  - Oprah Winfrey
-  - Dr. Phil
-  - Dr. Oz
-  - Gwyneth Paltrow
-  - Michael Rapino
-  - Elon Musk
-  - Zeke Emanuel
-  - Rahm Emanuel
-  - Adrian Grenier
-  - David Zaslav
-  - Michael Ovitz
-  - Lew Wasserman
-  - Roger Goodell
-  - David Ellison
-  - Bob Iger
-  - Jimmy Pitaro
-  - Noah Hawley
-  - Greg Daniels
-  - Larry David
-  - Aaron Sorkin
-  - James L. Brooks
-  - Martin Scorsese
-  - Dwayne Johnson
-  - Mark Wahlberg
-  - Peter Berg
-companies_orgs:
-  - Endeavor
-  - Creative Artists Agency
-  - William Morris Endeavor
-  - IMG
-  - Silver Lake
-  - Ultimate Fighting Championship
-  - TKO Group Holdings
-  - YouTube
-  - Netflix
-  - Amazon
-  - Instagram
-  - TikTok
-  - Facebook
-  - X
-  - NBC
-  - Peacock
-  - Disney
-  - HBO
-  - ICM Partners
-  - United Talent Agency
-  - MTV
-  - CBS
-  - ESPN
-  - National Football League
-  - National Basketball Association
-  - Live Nation Entertainment
-  - Gray Advertising
-products_models:
-  - Alps product
-  - Optimus
-media_books:
-  - Entourage
-  - The Simpsons
-  - South Park
-  - Seinfeld
-  - Fargo
-  - Alien Earth
-  - The Office
 status: evergreen
+summary: 在《All-In Podcast》的访谈中，娱乐业巨头Ari Emanuel深入探讨了Endeavor的演变、内容分发模式的变革以及创作者经济的未来。他分享了公司从经纪业务到资产所有权的战略转型，强调了IP所有权的重要性。Emanuel还讨论了AI对行业的影响，并坚定地看好直播活动的未来，认为在自动化时代，人们对真实连接的需求将推动直播产业的持续增长。他同时分享了与Elon
+  Musk的友谊以及对AI机器人的看法。
+tags:
+- business
+- content
+- creator-economy
+- industry
+- technology
+title: 娱乐业的未来：Ari Emanuel 论好莱坞、AI、创作者经济与直播活动
 ---
+
 ### Endeavor的崛起与娱乐业的演变
 
 Ari Emanuel，这位搏击运动的新巨头和好莱坞最大的权力掮客之一，在最近的访谈中回顾了他非凡的职业生涯轨迹。他建立了一个令人瞩目的商业帝国，并通过一系列资产合并，使公司实现了指数级增长。

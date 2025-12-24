@@ -1,117 +1,119 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Oracle
+- Adobe
+- OpenAI
+- Disney
+- SpaceX
+- Nvidia
+- Google
+- Microsoft
+- Amazon
+- Meta
+- Robinhood
+- SoFi
+- Rivian
+- Federal Reserve
+- JPMorgan
+- Goldman Sachs
+- Citi
+- Broadcom
+- Anthropic
+- TSMC
+- Intel
+- US Navy
+- Planet Labs
+- Rocket Lab
+- Netflix
+- Uber
+- Shopify
+- Carvana
+- American Express
+- Visa
+- Mastercard
+- Chime
+- Affirm
+- Costco
+- Lululemon
+- Abercrombie & Fitch
+- Urban Outfitters
+- Credit Suisse
+- Bank of America
+- Melius Research
+- Evercore
+- Scotia Bank
+- TD Cowen
+- Palantir
+- Coreweave
+- Nebius
+- Micron
+- Synopsis
+- Oscar
+- BMR
+- Eli Lilly
+- Warner Bros. Discovery
+- CNN
+- Waymo
+- Privy.io
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Journal
+- Financial Times
+- TIME
+people:
+- Jerome Powell
+- Tom Lee
+- Elon Musk
+- Sam Altman
+- Bob Iger
+- Jensen Huang
+- Donald Trump
+- Elizabeth Warren
+- Bernie Sanders
+- Howard Marks
+- Larry Ellison
+- Peter Beck
+- Vlad Tenev
+- Tyler Radkkey
+- Satya Nadella
+products_models:
+- Sora
+- ChatGPT
+- H200
+- Blackwell
+- Starlink
+- FSD
+- R1
+- Gen 2
+- Gen 3
+- Cosmos
+- Gemini
+project:
+- investment-strategy
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=nnz5dJr0EeQ
 speaker: Amit Kukreja
-tags:
-  - oracle-earnings
-  - fed-policy
-  - ai-ip-licensing
-  - spacex-ipo
-  - data-center-capex
-title: 市场动荡：甲骨文财报重挫科技股，鲍威尔鸽派言论被掩盖，迪士尼联手OpenAI引发争议
-summary: 本期市场回顾深入探讨了近期科技与金融市场的剧烈波动。甲骨文（Oracle）令人失望的财报和对债务融资的担忧，导致其股价暴跌并拖累了整个数据中心和AI板块。尽管美联储主席鲍威尔发表了鸽派言论，暗示通胀担忧减弱且可能进一步降息，但市场情绪仍受甲骨文负面消息主导。此外，迪士尼（Disney）与OpenAI达成数十亿美元的IP授权合作，引发了对AI内容生成伦理和IP保护的广泛讨论。节目还触及了SpaceX IPO、美国芯片政策、数据中心能耗等多个热点话题，揭示了当前市场复杂且充满不确定性的投资环境。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Jerome Powell
-  - Tom Lee
-  - Elon Musk
-  - Sam Altman
-  - Bob Iger
-  - Jensen Huang
-  - Donald Trump
-  - Elizabeth Warren
-  - Bernie Sanders
-  - Howard Marks
-  - Larry Ellison
-  - Peter Beck
-  - Vlad Tenev
-  - Tyler Radkkey
-  - Satya Nadella
-companies_orgs:
-  - Oracle
-  - Adobe
-  - OpenAI
-  - Disney
-  - SpaceX
-  - Nvidia
-  - Google
-  - Microsoft
-  - Amazon
-  - Meta
-  - Robinhood
-  - SoFi
-  - Rivian
-  - Federal Reserve
-  - JPMorgan
-  - Goldman Sachs
-  - Citi
-  - Broadcom
-  - Anthropic
-  - TSMC
-  - Intel
-  - US Navy
-  - Planet Labs
-  - Rocket Lab
-  - Netflix
-  - Uber
-  - Shopify
-  - Carvana
-  - American Express
-  - Visa
-  - Mastercard
-  - Chime
-  - Affirm
-  - Costco
-  - Lululemon
-  - Abercrombie & Fitch
-  - Urban Outfitters
-  - Credit Suisse
-  - Bank of America
-  - Melius Research
-  - Evercore
-  - Scotia Bank
-  - TD Cowen
-  - Palantir
-  - Coreweave
-  - Nebius
-  - Micron
-  - Synopsis
-  - Oscar
-  - BMR
-  - Eli Lilly
-  - Warner Bros. Discovery
-  - CNN
-  - Waymo
-  - Privy.io
-products_models:
-  - Sora
-  - ChatGPT
-  - H200
-  - Blackwell
-  - Starlink
-  - FSD
-  - R1
-  - Gen 2
-  - Gen 3
-  - Cosmos
-  - Gemini
-media_books:
-  - Wall Street Journal
-  - Financial Times
-  - TIME
 status: evergreen
+summary: 本期市场回顾深入探讨了近期科技与金融市场的剧烈波动。甲骨文（Oracle）令人失望的财报和对债务融资的担忧，导致其股价暴跌并拖累了整个数据中心和AI板块。尽管美联储主席鲍威尔发表了鸽派言论，暗示通胀担忧减弱且可能进一步降息，但市场情绪仍受甲骨文负面消息主导。此外，迪士尼（Disney）与OpenAI达成数十亿美元的IP授权合作，引发了对AI内容生成伦理和IP保护的广泛讨论。节目还触及了SpaceX
+  IPO、美国芯片政策、数据中心能耗等多个热点话题，揭示了当前市场复杂且充满不确定性的投资环境。
+tags:
+- data-center-capex
+- earning
+- fed-policy
+- llm
+title: 市场动荡：甲骨文财报重挫科技股，鲍威尔鸽派言论被掩盖，迪士尼联手OpenAI引发争议
+companies:
+- spacex-ipo
 ---
+
 ### 市场开盘与近期动态
 
 大家早上好，欢迎回到“市场开盘”节目。今天是12月11日星期四，我们正在直播。

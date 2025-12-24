@@ -1,43 +1,43 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 世界卫生组织
 date: '2025-05-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 李治中
+- 西德尼·法伯
+- 巴里·马歇尔
+- 沃伦
+- 拉尔夫·斯坦曼
+- 张亭栋
+- 韩太云
+- 王振义
+products_models: []
+project:
+- historical-insights
+- ai-impact-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=WPaqyxfYddI
 speaker: 一席YiXi
-tags:
-  - scientific-method
-  - cancer-treatment-evolution
-  - evidence-based-medicine
-  - traditional-medicine-validation
-  - placebo-and-bias
-title: 从失败实验到砒霜奇迹：科学思维如何重塑癌症治疗
-summary: 通过三个真实案例，揭示科学思维在癌症治疗中的核心作用：失败实验可能孕育突破、幽门螺杆菌的颠覆性发现，以及中医偏方经科学提纯成为全球标准疗法。强调证据而非个例，倡导理性与批判性思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - ai-impact-analysis
-  - cultural-critique
-people:
-  - 李治中
-  - 西德尼·法伯
-  - 巴里·马歇尔
-  - 沃伦
-  - 拉尔夫·斯坦曼
-  - 张亭栋
-  - 韩太云
-  - 王振义
-companies_orgs:
-  - 世界卫生组织
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 通过三个真实案例，揭示科学思维在癌症治疗中的核心作用：失败实验可能孕育突破、幽门螺杆菌的颠覆性发现，以及中医偏方经科学提纯成为全球标准疗法。强调证据而非个例，倡导理性与批判性思考。
+tags:
+- bias
+- evolution
+- health
+- scientific
+- technology
+title: 从失败实验到砒霜奇迹：科学思维如何重塑癌症治疗
 ---
+
 ### 科学的失败，是通往诺奖的路
 
 大家下午好，我是李治中，大家可以叫我菠萝。我是一个癌症生物学家，也是一个科普作家。

@@ -1,49 +1,49 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- Bloomberg Podcasts
+- Waymo
+- OpenAI
+- Anthropic
+- Databricks
+- Microsoft
+- Meta
+- Tipping Point Community
+- Robin Hood
+- DEA
+- Sfpd
+- Board of Supervisors
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+people:
+- Daniel Lurie
+- Joe Weisenthal
+- Tracy Alloway
+products_models: []
+project:
+- us-analysis
+- systems-thinking
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=rJD2IEKFP0E
 speaker: Bloomberg Podcasts
-tags:
-  - urban-governance
-  - public-safety
-  - housing-affordability
-  - homelessness-crisis
-  - ai-economy
-title: 旧金山新市长卢里：应对城市挑战，重塑未来
-summary: 旧金山新任市长丹尼尔·卢里在播客中深入探讨了该市面临的公共安全、行为健康危机、无家可归问题以及住房可负担性挑战。他强调了解决芬太尼危机、增加警力、推动住房建设和削减繁文缛节以支持小企业的重要性。卢里市长还讨论了人工智能热潮对旧金山经济的影响，并分享了其政府在提升城市生活质量和财政问责制方面的策略与初步成果。他坚信通过积极的治理和社区合作，旧金山将重拾其作为世界级城市的地位。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - ai-impact-analysis
-people:
-  - Daniel Lurie
-  - Joe Weisenthal
-  - Tracy Alloway
-companies_orgs:
-  - Bloomberg Podcasts
-  - Waymo
-  - OpenAI
-  - Anthropic
-  - Databricks
-  - Microsoft
-  - Meta
-  - Tipping Point Community
-  - Robin Hood
-  - DEA
-  - Sfpd
-  - Board of Supervisors
-products_models: []
-media_books:
-  - Odd Lots Podcast
 status: evergreen
+summary: 旧金山新任市长丹尼尔·卢里在播客中深入探讨了该市面临的公共安全、行为健康危机、无家可归问题以及住房可负担性挑战。他强调了解决芬太尼危机、增加警力、推动住房建设和削减繁文缛节以支持小企业的重要性。卢里市长还讨论了人工智能热潮对旧金山经济的影响，并分享了其政府在提升城市生活质量和财政问责制方面的策略与初步成果。他坚信通过积极的治理和社区合作，旧金山将重拾其作为世界级城市的地位。
+tags:
+- crisis
+- economy
+- housing-affordability
+- public-safety
+- urban-governance
+title: 旧金山新市长卢里：应对城市挑战，重塑未来
 ---
+
 ### 旧金山市长卢里：我的三大施政重点
 
 我的首要任务是公共安全。

@@ -1,42 +1,41 @@
 ---
-author: TED
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- TED
+- Nvidia
+- Palantir
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《皇帝的新衣》
+people:
+- Charlie Munger
+- Warren Buffett
+- Sir Isaac Newton
+- Hans Christian Andersen
+products_models:
+- Bitcoin
+- Ethereum
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=pp8vdZdNl2A
 speaker: TED
-tags:
-  - bubble
-  - crypto
-  - ai
-  - fomo
-  - investing
-title: AI 泡沫即将破裂？
-summary: 演讲者 Henrik Zeberg 警告称，当前人工智能（AI）和加密货币市场存在巨大的金融泡沫，并将其与历史上著名的泡沫事件（如郁金香狂热、南海泡沫、互联网泡沫）进行对比。他引用了**沃伦·巴菲特**和**查理·芒格**的观点，并深入分析了**FOMO**（害怕错过）心理和群体动力学在其中扮演的角色。演讲者预测，随着经济放缓和市场回调，**比特币**等资产可能面临高达95%的崩盘。
-insight: ''
-draft: true
-series: ''
-category: crypto
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Charlie Munger
-  - Warren Buffett
-  - Sir Isaac Newton
-  - Hans Christian Andersen
-companies_orgs:
-  - TED
-  - Nvidia
-  - Palantir
-products_models:
-  - Bitcoin
-  - Ethereum
-media_books:
-  - 《皇帝的新衣》
 status: evergreen
+summary: 演讲者 Henrik Zeberg 警告称，当前人工智能（AI）和加密货币市场存在巨大的金融泡沫，并将其与历史上著名的泡沫事件（如郁金香狂热、南海泡沫、互联网泡沫）进行对比。他引用了**沃伦·巴菲特**和**查理·芒格**的观点，并深入分析了**FOMO**（害怕错过）心理和群体动力学在其中扮演的角色。演讲者预测，随着经济放缓和市场回调，**比特币**等资产可能面临高达95%的崩盘。
+tags:
+- bubble
+- crypto
+- investing
+- investment
+title: AI 泡沫即将破裂？
 ---
+
 ### 引言
 
 “别以为你很特别。别以为你比我们懂得多。” 这些是出自**延特法**（Jante Law: 源自虚构作品的一套规则，宣扬墨守成规，反对个人成就或炫耀）的论断。我认为这是危险的，它正在驱动一种可能带来灾难性后果的普遍思维。今天我想谈论一个可能比刚才听到的内容更枯燥的话题：**比特币**、加密货币以及金融泡沫。

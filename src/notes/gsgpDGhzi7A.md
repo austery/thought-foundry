@@ -1,36 +1,36 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs:
+- Central China Normal University
 date: '2025-10-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Misogyny
+- The Second Sex
+people:
+- Simone de Beauvoir
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=gsgpDGhzi7A
 speaker: Anthony看世界
-tags:
-  - narcissistic-personality-disorder
-  - toxic-relationships
-  - social-phenomenon
-  - psychological-discourse
-  - power-dynamics
-title: 中国互联网NPD叙事：命名痛苦，还是偏离现实？
-summary: 本文深入探讨自恋型人格障碍（NPD）在中国互联网上成为热门话题的现象。文章首先肯定了NPD叙事在帮助人们识别有毒关系和命名无形痛苦方面的积极价值，如揭示煤气灯效应和三角关系。然而，作者也批判了互联网上将NPD妖魔化为“纯粹的邪恶”和“不可改变”的倾向，指出这偏离了NPD的真实临床表现，并可能阻碍受害者从创伤中恢复。文章强调了权力关系、社会系统和文化环境在塑造人际互动中的作用，呼吁避免简单地将复杂问题归结为个人诊断，并倡导以更现实和去魅化的视角理解人性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Simone de Beauvoir
-companies_orgs:
-  - Central China Normal University
-products_models: []
-media_books:
-  - Misogyny
-  - The Second Sex
 status: evergreen
+summary: 本文深入探讨自恋型人格障碍（NPD）在中国互联网上成为热门话题的现象。文章首先肯定了NPD叙事在帮助人们识别有毒关系和命名无形痛苦方面的积极价值，如揭示煤气灯效应和三角关系。然而，作者也批判了互联网上将NPD妖魔化为“纯粹的邪恶”和“不可改变”的倾向，指出这偏离了NPD的真实临床表现，并可能阻碍受害者从创伤中恢复。文章强调了权力关系、社会系统和文化环境在塑造人际互动中的作用，呼吁避免简单地将复杂问题归结为个人诊断，并倡导以更现实和去魅化的视角理解人性。
+tags:
+- power-dynamic
+- psychology
+- relationship
+- social
+title: 中国互联网NPD叙事：命名痛苦，还是偏离现实？
+companies:
+- psychological-discourse
 ---
 
 ### 引言：NPD叙事在中国的兴起

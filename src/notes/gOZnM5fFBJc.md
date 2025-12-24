@@ -1,31 +1,30 @@
 ---
-title: 美联储政策、全球经济与Z世代就业：彭博访谈精华
-summary: 本文梳理了彭博访谈内容，涵盖美联储对通胀和劳动力市场的权衡、AI驱动的经济变革、日本经济困境、全球经济碎片化趋势、以及Z世代的价值观与就业挑战等议题。
-area: market-analysis
-category: finance
-project:
-- ai-impact-analysis
-tags:
-- ai
-- federal-reserve
-- gen-z
-- global-economy
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-08'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+people: []
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=gOZnM5fFBJc
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本文梳理了彭博访谈内容，涵盖美联储对通胀和劳动力市场的权衡、AI驱动的经济变革、日本经济困境、全球经济碎片化趋势、以及Z世代的价值观与就业挑战等议题。
+tags:
+- federal-reserve
+- gen-z
+- global-economy
+title: 美联储政策、全球经济与Z世代就业：彭博访谈精华
 ---
+
 ### 对美联储政策的洞察
 
 Original English sentence(s) from the transcript.

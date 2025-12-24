@@ -1,38 +1,35 @@
 ---
-author: Veritasium
-date: '2022-06-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6etTERFUlUI
-speaker: Veritasium
-tags:
-  - veritasium
-  - dark-matter-detection
-  - cosmic-microwave-background
-  - gravitational-lensing
-  - modified-newtonian-dynamics
-  - weakly-interacting-massive-particles
-title: 荒诞的暗物质搜寻之旅：从地下实验室到宇宙边缘
-summary: 本文深入探讨了暗物质这一宇宙中最神秘的物质。从意大利DAMA/LIBRA实验的周期性异常信号，到弗里茨·兹威基、维拉·鲁宾等科学家通过星系运动发现的引力异常，再到子弹星系团和宇宙微波背景辐射提供的强有力证据，文章全面梳理了暗物质存在的各项线索。同时，也介绍了修正牛顿动力学等替代理论，并详细阐述了地下实验室探测弱相互作用重粒子（WIMPs）的实验原理与挑战。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Fritz Zwicky
-  - Vera Ruben
-  - Kent Ford
-  - Albert Bosma
+category: science
 companies_orgs:
-  - Brilliant
+- Brilliant
+date: '2022-06-02'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Fritz Zwicky
+- Vera Ruben
+- Kent Ford
+- Albert Bosma
 products_models:
-  - DAMA/LIBRA
-media_books: []
+- DAMA/LIBRA
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=6etTERFUlUI
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了暗物质这一宇宙中最神秘的物质。从意大利DAMA/LIBRA实验的周期性异常信号，到弗里茨·兹威基、维拉·鲁宾等科学家通过星系运动发现的引力异常，再到子弹星系团和宇宙微波背景辐射提供的强有力证据，文章全面梳理了暗物质存在的各项线索。同时，也介绍了修正牛顿动力学等替代理论，并详细阐述了地下实验室探测弱相互作用重粒子（WIMPs）的实验原理与挑战。
+tags:
+- dynamic
+- gravitational-lensing
+- science
+- technology
+title: 荒诞的暗物质搜寻之旅：从地下实验室到宇宙边缘
 ---
+
 ### 引言：寻找暗物质的地下之旅
 
 我正在墨尔本市郊的一座金矿里。

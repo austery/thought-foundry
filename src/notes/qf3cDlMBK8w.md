@@ -1,61 +1,61 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Microsoft
+- Apple
+- Meta
+- Google
+- Clue
+- Materna
+- Flow Health
+- NIH
+- TVO Today
+- Wired magazine
+- Amazon
+- South by Southwest
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Vagina Business
+- We Need to Talk about Investor's Problem with Vaginus
+people:
+- Nam Kiwanuka
+- Marina Gerner
+- Ida Tin
+- Tracy McNeel
+- Gloria Steinem
+- Jen Gunter
+products_models:
+- speculum
+- dilator
+- smart bra
+- period tracking app
+- tenaculum
+- epidural
+- abortion medication
+- Viagra
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=qf3cDlMBK8w
 speaker: TVO Today
-tags:
-  - femtech
-  - women-s-health
-  - healthcare-innovation
-  - gender-bias
-  - medical-stigma
-title: 女性科技（FemTech）的崛起：女性健康的未来之路
-summary: 本期节目探讨了女性科技（FemTech）如何应对长期被忽视和资金不足的女性健康问题。嘉宾Marina Gerner分享了女性健康领域创新面临的挑战，包括对女性身体部位的污名化、融资困难，以及男性主导的科技和投资界对女性健康缺乏关注。文章强调了通过科技创新、提高意识和消除污名来彻底改变女性医疗保健的必要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - Nam Kiwanuka
-  - Marina Gerner
-  - Ida Tin
-  - Tracy McNeel
-  - Gloria Steinem
-  - Jen Gunter
-companies_orgs:
-  - Microsoft
-  - Apple
-  - Meta
-  - Google
-  - Clue
-  - Materna
-  - Flow Health
-  - NIH
-  - TVO Today
-  - Wired magazine
-  - Amazon
-  - South by Southwest
-products_models:
-  - speculum
-  - dilator
-  - smart bra
-  - period tracking app
-  - tenaculum
-  - epidural
-  - abortion medication
-  - Viagra
-media_books:
-  - The Vagina Business
-  - We Need to Talk about Investor's Problem with Vaginus
 status: evergreen
+summary: 本期节目探讨了女性科技（FemTech）如何应对长期被忽视和资金不足的女性健康问题。嘉宾Marina Gerner分享了女性健康领域创新面临的挑战，包括对女性身体部位的污名化、融资困难，以及男性主导的科技和投资界对女性健康缺乏关注。文章强调了通过科技创新、提高意识和消除污名来彻底改变女性医疗保健的必要性。
+tags:
+- bias
+- health
+- innovation
+- medical
+- technology
+title: 女性科技（FemTech）的崛起：女性健康的未来之路
 ---
+
 ### 女性健康：被忽视的历史与科技的曙光
 
 Nam Kiwanuka: 欢迎收看《被误诊》。我是Nam Kiwanuka。

@@ -1,38 +1,37 @@
 ---
-author: 一席YiXi
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- 山西大学
+- Open M
+- 马凌画廊
+- SOH
+- 大都会博物馆图书馆
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 晋美
+- 牛晋美
+- 常羽辰
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=BJOdvP1OYaU
 speaker: 一席YiXi
-tags:
-  - life-reflection
-  - art-therapy
-  - self-discovery
-  - family-support
-title: 晋美：50岁重拾画笔，苦痛与希望皆成创作源泉
-summary: 艺术家晋美分享了她从教师家庭出身，经历下海经商、家庭变故，最终在50岁重拾画笔，用艺术表达生命感悟的故事。她强调了支持家人梦想的重要性，以及在苦难中寻找创作力量的意义。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project:
-  - ai-impact-analysis
-people:
-  - 晋美
-  - 牛晋美
-  - 常羽辰
-companies_orgs:
-  - 山西大学
-  - Open M
-  - 马凌画廊
-  - SOH
-  - 大都会博物馆图书馆
-products_models: []
-media_books: []
 status: evergreen
+summary: 艺术家晋美分享了她从教师家庭出身，经历下海经商、家庭变故，最终在50岁重拾画笔，用艺术表达生命感悟的故事。她强调了支持家人梦想的重要性，以及在苦难中寻找创作力量的意义。
+tags:
+- family
+- history
+- life
+- self-discovery
+title: 晋美：50岁重拾画笔，苦痛与希望皆成创作源泉
 ---
+
 ### 早年经历与家庭教育
 
 大家好，我是晋美 牛晋美，1961年出生在山西晋城的乡村小学校里。学校坐落在一座寺庙中，我的母亲是这里的老师。母亲在怀我时仍在上课，这体现了她对教育的重视。父母有三个孩子，他们根据“德智体美全面发展”的教育方针，为我们取名晋德、晋智、晋美，寓意我可能要从事与美相关的事业。

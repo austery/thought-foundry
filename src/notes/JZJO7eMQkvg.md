@@ -1,38 +1,37 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: general
+companies_orgs:
+- Xinhua News Agency
 date: '2024-12-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Lychee Honey
+- Snow Waves
+- Ode to Camellia
+people:
+- Anthony
+- Yang Shuo
+- Lao Liang
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=JZJO7eMQkvg
 speaker: Anthony看世界
-tags:
-  - chinese-education
-  - critical-thinking
-  - reading-writing-skills
-  - indoctrination
-  - cultural-critique
-title: 中国语文教育如何摧毁读写能力并进行思想灌输？——以《荔枝蜜》为例的批判性分析
-summary: 本视频深入探讨了中国语文教育如何通过机械化的教学方法，破坏学生的读写能力，并扼杀批判性思维。文章以经典课文《荔枝蜜》为例，揭示了这种教育模式如何将思想灌输伪装成文学鉴赏，并结合杨朔的创作背景和1961年大饥荒的历史语境，批判性地解读了课文背后歌颂牺牲、美化苦难的潜在意图，强调了多角度思考和历史连接对教育的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Anthony
-  - Yang Shuo
-  - Lao Liang
-companies_orgs:
-  - Xinhua News Agency
-products_models: []
-media_books:
-  - Lychee Honey
-  - Snow Waves
-  - Ode to Camellia
 status: evergreen
+summary: 本视频深入探讨了中国语文教育如何通过机械化的教学方法，破坏学生的读写能力，并扼杀批判性思维。文章以经典课文《荔枝蜜》为例，揭示了这种教育模式如何将思想灌输伪装成文学鉴赏，并结合杨朔的创作背景和1961年大饥荒的历史语境，批判性地解读了课文背后歌颂牺牲、美化苦难的潜在意图，强调了多角度思考和历史连接对教育的重要性。
+tags:
+- chinese-education
+- critical-thinking
+- cultural-critique
+- indoctrination
+- skill
+title: 中国语文教育如何摧毁读写能力并进行思想灌输？——以《荔枝蜜》为例的批判性分析
 ---
 
 ### 中国语文教育对读写能力的深远影响

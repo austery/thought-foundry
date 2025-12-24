@@ -1,77 +1,77 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: geopolitics
+companies_orgs:
+- SemiAnalysis
+- OpenAI
+- 甲骨文
+- Nvidia
+- Microsoft
+- Anthropic
+- Cursor
+- Google
+- CoreWeave
+- Nebius
+- Roblox
+- Shopify
+- AMD
+- 英特尔
+- 台积电
+- 安费诺
+- Uber Eats
+- Etsy
+- X
+- Meta
+- 亚马逊
+- 通用电气
+- 三菱
+- EdgeConneX
+- ERCOT电网
+- PJM电网
 date: '2025-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Invest Like The Best》
+- 《Competing in the Age of AI》
+people:
+- 迪伦·帕特尔
+- 马可·扬西蒂
+- 卡里姆·拉哈尼
+- 埃隆·马斯克
+products_models:
+- GPT-3
+- GPT-4
+- GPT-5
+- Blackwell
+- NVL72
+- Grok
+- Android
+- YouTube
+- Google Maps
+- Genie 3
+- TPU
+- Trainium
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=hEogqc9NrlM
 speaker: Best Partners TV
-tags:
-  - ai-competition
-  - computing-power
-  - geopolitical-strategy
-  - capital-flow
-  - energy-crisis
-title: AI战争的深层博弈：算力、资本与地缘政治的权力链条
-summary: 本文基于SemiAnalysis创始人迪伦·帕特尔的深度洞察，剖析了万亿美元AI竞争的本质。文章揭示了“算力即货币”的新范式，英伟达作为“中央银行”的角色，以及横跨硬件、资本和云服务的复杂权力链。同时，深入探讨了中美两国在AI领域的国家战略、人才稀缺、能源危机等核心挑战，并分析了AI对传统软件行业的颠覆性影响，以及主流AI玩家的优势与劣势，强调了系统能力而非单一技术突破才是未来竞争的关键。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - us-analysis
-people:
-  - 迪伦·帕特尔
-  - 马可·扬西蒂
-  - 卡里姆·拉哈尼
-  - 埃隆·马斯克
-companies_orgs:
-  - SemiAnalysis
-  - OpenAI
-  - 甲骨文
-  - 英伟达
-  - 微软
-  - Anthropic
-  - Cursor
-  - 谷歌
-  - CoreWeave
-  - Nebius
-  - Roblox
-  - Shopify
-  - AMD
-  - 英特尔
-  - 台积电
-  - 安费诺
-  - Uber Eats
-  - Etsy
-  - X
-  - Meta
-  - 亚马逊
-  - 通用电气
-  - 三菱
-  - EdgeConneX
-  - ERCOT电网
-  - PJM电网
-products_models:
-  - GPT-3
-  - GPT-4
-  - GPT-5
-  - Blackwell
-  - NVL72
-  - Grok
-  - Android
-  - YouTube
-  - Google Maps
-  - Genie 3
-  - TPU
-  - Trainium
-media_books:
-  - 《Invest Like The Best》
-  - 《Competing in the Age of AI》
 status: evergreen
+summary: 本文基于SemiAnalysis创始人迪伦·帕特尔的深度洞察，剖析了万亿美元AI竞争的本质。文章揭示了“算力即货币”的新范式，英伟达作为“中央银行”的角色，以及横跨硬件、资本和云服务的复杂权力链。同时，深入探讨了中美两国在AI领域的国家战略、人才稀缺、能源危机等核心挑战，并分析了AI对传统软件行业的颠覆性影响，以及主流AI玩家的优势与劣势，强调了系统能力而非单一技术突破才是未来竞争的关键。
+tags:
+- ai-competition
+- crisis
+- flow
+- geopolitical-strategy
+- power
+title: AI战争的深层博弈：算力、资本与地缘政治的权力链条
 ---
+
 ### AI竞争的本质：算力即货币，英伟达是“中央银行”
 
 大家好，这里是最佳拍档。相信大家最近打开科技新闻，几乎满屏都是AI算力、英伟达市值、大模型竞赛这些关键词。但是很少有人能说清楚，AI领域的万亿美元竞争到底是在争什么？是模型参数的大小，还是数据的多少呢？

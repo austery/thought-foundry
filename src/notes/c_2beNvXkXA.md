@@ -1,47 +1,48 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- University of Toronto
+- Canada's EDS Foundation
+- OHIP
+- Ministry of Health
+- Human Rights Tribunal of Ontario
+- CBC
+- TVO
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mistreated
+- The McKenzie Report on the Women's Health Gap in Canada
+people:
+- Nam Kiwanuka
+- Rodney Graham
+- Lena Dunham
+- Jameela Jamil
+- Sydney Jazwaldi
+- Joan Bushar
+products_models: []
+project:
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=c_2beNvXkXA
 speaker: TVO Today
-tags:
-  - ehlers-danlos-syndrome
-  - craniocervical-instability
-  - healthcare-access
-  - misdiagnosis
-  - systemic-neglect
-title: 埃勒斯-丹洛斯综合征：被忽视的疾病与医疗系统困境
-summary: 本文探讨了埃勒斯-丹洛斯综合征（EDS）和颅颈不稳（CCI）这两种复杂疾病，它们常被误诊、漏诊，并因医疗系统缺乏认知和支持而导致患者面临巨大困境。主持人Nam Kiwanuka采访了患者Sydney Jazwaldi，她因车祸触发了CCI症状，并详细讲述了在安大略省寻求诊断和治疗过程中所遭遇的官僚障碍、医生不信任以及生活质量的严重下降。文章呼吁政策制定者正视这些被系统“抹去”的患者群体，提供官方认可、诊断编码和境外治疗资金支持，以确保他们获得应有的救命医疗服务。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-people:
-  - Nam Kiwanuka
-  - Rodney Graham
-  - Lena Dunham
-  - Jameela Jamil
-  - Sydney Jazwaldi
-  - Joan Bushar
-companies_orgs:
-  - University of Toronto
-  - Canada's EDS Foundation
-  - OHIP
-  - Ministry of Health
-  - Human Rights Tribunal of Ontario
-  - CBC
-  - TVO
-products_models: []
-media_books:
-  - Mistreated
-  - The McKenzie Report on the Women's Health Gap in Canada
 status: evergreen
+summary: 本文探讨了埃勒斯-丹洛斯综合征（EDS）和颅颈不稳（CCI）这两种复杂疾病，它们常被误诊、漏诊，并因医疗系统缺乏认知和支持而导致患者面临巨大困境。主持人Nam
+  Kiwanuka采访了患者Sydney Jazwaldi，她因车祸触发了CCI症状，并详细讲述了在安大略省寻求诊断和治疗过程中所遭遇的官僚障碍、医生不信任以及生活质量的严重下降。文章呼吁政策制定者正视这些被系统“抹去”的患者群体，提供官方认可、诊断编码和境外治疗资金支持，以确保他们获得应有的救命医疗服务。
+tags:
+- canada
+- healthcare-access
+- history
+- misdiagnosi
+- technology
+title: 埃勒斯-丹洛斯综合征：被忽视的疾病与医疗系统困境
 ---
+
 ### 被忽视的埃勒斯-丹洛斯综合征
 
 在现代医学史上，没有其他疾病像**埃勒斯-丹洛斯综合征**（Ehlers-Danlos syndrome, EDS: 一种影响结缔组织的遗传性疾病）这样被忽视。这句话出自EDS专家兼风湿病学家罗德尼·格雷厄姆教授。

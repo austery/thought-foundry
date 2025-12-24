@@ -1,57 +1,57 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- FBI
+- DHS
+- ICE
+- DOJ
+- ProPublica
+- AAP
+- MIT
+- United Nations
+- Fox News
+- USAID
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《名利场》
+- 《All the President's Men》
+people:
+- Donald Trump
+- Christopher Wray
+- Mark Esper
+- Kristjen Nielsen
+- Robert F. Kennedy Jr.
+- David Shulkin
+- William Barr
+- Jeffrey Epstein
+- Bill Clinton
+- Bob Woodward
+- Dan Bongino
+products_models: []
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=0WIBd18tFOQ
 speaker: 北美王路飞
-tags:
-  - trump-administration
-  - cabinet-shakeup
-  - political-corruption
-  - fbi
-  - ice
-  - doj
-  - epstein
-  - vaccination-policy
-title: 川普内阁大地震：谁将是下一个离职者？
-summary: 本期节目深入剖析川普内阁的动荡，重点关注FBI局长、国防部长、国土安全部长、卫生部长及司法部长等关键人物面临的争议与潜在离职风险。节目分析了官员的失误、腐败指控、政策争议及对川普政府形象的影响，并回顾了过往的离职预测。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-people:
-  - Donald Trump
-  - Christopher Wray
-  - Mark Esper
-  - Kristjen Nielsen
-  - Robert F. Kennedy Jr.
-  - David Shulkin
-  - William Barr
-  - Jeffrey Epstein
-  - Bill Clinton
-  - Bob Woodward
-  - Dan Bongino
-companies_orgs:
-  - FBI
-  - DHS
-  - ICE
-  - DOJ
-  - ProPublica
-  - AAP
-  - MIT
-  - United Nations
-  - Fox News
-  - USAID
-products_models: []
-media_books:
-  - 《名利场》
-  - 《All the President's Men》
 status: evergreen
+summary: 本期节目深入剖析川普内阁的动荡，重点关注FBI局长、国防部长、国土安全部长、卫生部长及司法部长等关键人物面临的争议与潜在离职风险。节目分析了官员的失误、腐败指控、政策争议及对川普政府形象的影响，并回顾了过往的离职预测。
+tags:
+- doj
+- epstein
+- fbi
+- geopolitical
+- ice
+- policy
+- political-corruption
+- trump-administration
+title: 川普内阁大地震：谁将是下一个离职者？
 ---
+
 ### 内阁大地震
 
 好，今天我们的这个直播开始了。我们主要讲一下**川普**现在这个内阁大地震。我知道这个刘守龙最近也做了一个节目，我们后面也会聊这个事情。首先呢，就是**Susie W**，他接受**《名利场》**的11次采访，在11个月中11次采访。明明想写了一个大新闻，写了一篇长文，应该是两篇上分上下两集。采访这个人呢，是在美国的政治报道界很有名的，因为他写了一本书，讲这个白宫幕僚长。他采访了17位幕僚长加两位总统后，一度被认为是采访方面比较均衡的人。听到他要来采访，其实是很兴奋的。而且这篇文章最后会发在**《名利场》**，这本杂志在中国精英圈还是有一定分量的。你看他们拍的照片，是摄影师专门进入白宫拍摄的，很有**《名利场》**的风格。

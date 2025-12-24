@@ -1,45 +1,44 @@
 ---
-author: Veritasium
-date: '2021-08-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=S2xHZPH5Sng
-speaker: Veritasium
-tags:
-  - veritasium
-  - youtube-algorithm
-  - click-through-rate
-  - content-strategy
-  - thumbnail-optimization
-  - educational-content
-title: 标题党为何如此有效：YouTube算法、点击率与内容传播的科学
-summary: 本视频探讨了YouTube平台上的“标题党”现象及其惊人效果。随着YouTube算法从订阅量转向观看时长和点击率，优化视频标题和缩略图成为内容创作者成功的关键。视频区分了“合法诱饵”和“点击陷阱”两种标题党类型，并分享了Veritasium频道如何通过科学测试和团队协作，利用数据驱动的方法提升视频触达率，从而更有效地传播高质量的科学教育内容。
-insight: ''
-draft: true
-series: ''
-category: business
 area: tech-insights
-project:
-  - systems-thinking
-  - entrepreneurship
-  - knowledge-pipeline
-people:
-  - Derek Muller
-  - Brady Heron
-  - Jack Conte
-  - Stephen Hawking
-  - Mr. Beast
+category: business
 companies_orgs:
-  - YouTube
-  - Reddit
-  - Facebook
-  - KiwiCo
-  - Patreon
+- YouTube
+- Reddit
+- Meta
+- KiwiCo
+- Patreon
+date: '2021-08-17'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- youtube-algorithm
+people:
+- Derek Muller
+- Brady Heron
+- Jack Conte
+- Stephen Hawking
+- Mr. Beast
 products_models:
-  - ContentID
-media_books: []
+- ContentID
+project:
+- systems-thinking
+- entrepreneurship
+- knowledge-pipeline
+series: ''
+source: https://www.youtube.com/watch?v=S2xHZPH5Sng
+speaker: veritasium
 status: evergreen
+summary: 本视频探讨了YouTube平台上的“标题党”现象及其惊人效果。随着YouTube算法从订阅量转向观看时长和点击率，优化视频标题和缩略图成为内容创作者成功的关键。视频区分了“合法诱饵”和“点击陷阱”两种标题党类型，并分享了Veritasium频道如何通过科学测试和团队协作，利用数据驱动的方法提升视频触达率，从而更有效地传播高质量的科学教育内容。
+tags:
+- content
+- content-strategy
+- optimization
+- rate
+title: 标题党为何如此有效：YouTube算法、点击率与内容传播的科学
 ---
+
 ### 标题党：一个令人头疼的难题
 
 我能告诉你们我擅长什么吗？

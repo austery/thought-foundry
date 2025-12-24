@@ -1,50 +1,50 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: psychology
+companies_orgs:
+- 美国经济学会
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《计量经济学》
+- 《美国经济学刊》
+- 《经济学研究》
+- Science
+people:
+- 寿斯坦丁 Sociostanding
+- Richard Thaler
+- Daniel Kahneman
+- Amos Tversky
+- Joel
+- Herbert Simon
+- Jasckman
+- Do
+- Chir Man
+- Snowberg
+products_models:
+- iPhone
+project:
+- systems-thinking
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=lkKKQK8x66Y
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - loss-aversion
-  - behavioral-economics
-  - prospect-theory
-  - decision-making
-  - social-inequality
-  - academic-publishing
-title: 失痛钝化：损失厌恶并非普世人性，行为经济学的新发现
-summary: 行为经济学中的损失厌恶理论认为，人们对损失的痛苦感大于对同等收益的愉悦感。然而，最新研究挑战了这一普世性，发现约一半人表现出“损失耐受”，即对损失不那么敏感。文章探讨了损失厌恶的起源、展望理论，并揭示了社会结构、教育程度和认知能力如何影响人们对损失的敏感度，以及这种差异对经济决策和贫困循环的深远影响。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - us-analysis
-people:
-  - 寿斯坦丁 Sociostanding
-  - Richard Thaler
-  - Daniel Kahneman
-  - Amos Tversky
-  - Joel
-  - Herbert Simon
-  - Jasckman
-  - Do
-  - Chir Man
-  - Snowberg
-companies_orgs:
-  - 美国经济学会
-products_models:
-  - iPhone
-media_books:
-  - 《计量经济学》
-  - 《美国经济学刊》
-  - 《经济学研究》
-  - Science
 status: evergreen
+summary: 行为经济学中的损失厌恶理论认为，人们对损失的痛苦感大于对同等收益的愉悦感。然而，最新研究挑战了这一普世性，发现约一半人表现出“损失耐受”，即对损失不那么敏感。文章探讨了损失厌恶的起源、展望理论，并揭示了社会结构、教育程度和认知能力如何影响人们对损失的敏感度，以及这种差异对经济决策和贫困循环的深远影响。
+tags:
+- academic-publishing
+- behavioral-economics
+- decision-making
+- loss
+- social-inequality
+- theory
+title: 失痛钝化：损失厌恶并非普世人性，行为经济学的新发现
 ---
+
 ### 行为经济学的崛起与损失厌恶的定义
 
 这里是寿斯坦丁，在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究发现。过去三十年，社会科学中出现了很多新的研究领域，在这些年轻的学术社群中，发展速度最快、影响力最大的其中一个就是**行为经济学**（Behavioral Economics: 结合心理学与经济学，研究人类在经济决策中的非理性行为模式的学科）。九十年代末，主流的经济学者对这群说要带经济学回到初衷、说要让经济学和心理学复合的学术一端还超级怀疑和不信任。但现在行为经济学已经成为经济学的重要分支，美国经济学会在2008年正式为行为经济学创建了新的文献分类。奠定行为经济学的三位学者在本世纪也已经都拿到了诺贝尔经济学奖，Richard Thaler就是其中一位。

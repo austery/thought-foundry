@@ -1,51 +1,51 @@
 ---
-author: 政經孫老師
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 贝莱德资本
+- 路透社
+- 美联储
+- 欧洲工商管理学院
+- 第一财经频道
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《經濟發展論》
+- 《商業週期》
+- 《全球政治與民族國家長週期》
+- 《世界政治長週期》
+- 《有閑階級論》
+- 《制度，制度變遷和經濟績效》
+- 《为什么你勤劳但是不富有》
+people:
+- 熊彼特
+- 康德拉季耶夫
+- 乔治 莫德尔斯基
+- Donald Trump
+- 凡伯伦
+- 康芒斯
+- 道格拉斯 诺斯
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=mCS9rtDD1VQ
 speaker: 政經孫老師
-tags:
-  - economic-cycles
-  - political-cycles
-  - great-power-competition
-  - historical-analysis
-  - future-trends
-title: 双重周期来临：2030年或成最重要年份，动荡与冲突或成未来关键词
-summary: 政经孙老师分析了经济周期和政治周期，指出2030年左右可能是一个关键的时间节点，全球可能面临经济危机、政治冲突和强权更替。他认为，中国挑战美国不会成功，反而可能成为美国巩固霸权的垫脚石。个人能否在历史的转折点中幸存，将是见证历史的前提。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 熊彼特
-  - 康德拉季耶夫
-  - 乔治 莫德尔斯基
-  - 川普
-  - 凡伯伦
-  - 康芒斯
-  - 道格拉斯 诺斯
-companies_orgs:
-  - 贝莱德资本
-  - 路透社
-  - 美联储
-  - 欧洲工商管理学院
-  - 第一财经频道
-products_models: []
-media_books:
-  - 《經濟發展論》
-  - 《商業週期》
-  - 《全球政治與民族國家長週期》
-  - 《世界政治長週期》
-  - 《有閑階級論》
-  - 《制度，制度變遷和經濟績效》
-  - 《为什么你勤劳但是不富有》
 status: evergreen
+summary: 政经孙老师分析了经济周期和政治周期，指出2030年左右可能是一个关键的时间节点，全球可能面临经济危机、政治冲突和强权更替。他认为，中国挑战美国不会成功，反而可能成为美国巩固霸权的垫脚石。个人能否在历史的转折点中幸存，将是见证历史的前提。
+tags:
+- economic-cycle
+- future
+- historical-analysis
+- political
+- power
+title: 双重周期来临：2030年或成最重要年份，动荡与冲突或成未来关键词
 ---
+
 ### 经济与政治的双重周期
 
 稻盛佬：今天我们来说一说双重周期。那么这个频道呢，经常讨论一些政治经济的话题。讨论政治经济话题，就离不开周期这个角度。经济有经济的周期，政治也有政治的周期。那么今天这期节目呢，我们就集中讨论，用周期的观点来讲一讲未来的趋势。

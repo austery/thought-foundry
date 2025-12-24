@@ -1,45 +1,44 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- AT&T
+- Norges Bank Investment Management
+- Warner Media
+- OpenAI
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John Stankey
+- Alexander Graham Bell
+- Abraham Lincoln
+products_models:
+- SIM card
+- Princess phone
+- 5G
+- 6G
+- LLM
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=GQPMFl-JlLI
 speaker: Norges Bank Investment Management
-tags:
-  - telecom-industry
-  - fiber-optics
-  - ai-impact
-  - corporate-strategy
-  - cybersecurity
-title: AT&T CEO John Stankey 谈电信行业未来、AI驱动与领导力
-summary: 本文是挪威央行投资管理公司对AT&T首席执行官约翰·斯坦基的专访。斯坦基深入探讨了电信行业的变革，包括AT&T剥离华纳传媒、专注于核心连接业务的战略调整。他强调了光纤网络建设、5G/6G演进以及AI对数据流量和网络架构的深远影响。此外，他还分享了AT&T在网络安全领域的挑战与机遇，以及其独特的领导力文化和对年轻人的学习建议。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - John Stankey
-  - Alexander Graham Bell
-  - Abraham Lincoln
-companies_orgs:
-  - AT&T
-  - Norges Bank Investment Management
-  - Warner Media
-  - OpenAI
-products_models:
-  - SIM card
-  - Princess phone
-  - 5G
-  - 6G
-  - LLM
-media_books: []
 status: evergreen
+summary: 本文是挪威央行投资管理公司对AT&T首席执行官约翰·斯坦基的专访。斯坦基深入探讨了电信行业的变革，包括AT&T剥离华纳传媒、专注于核心连接业务的战略调整。他强调了光纤网络建设、5G/6G演进以及AI对数据流量和网络架构的深远影响。此外，他还分享了AT&T在网络安全领域的挑战与机遇，以及其独特的领导力文化和对年轻人的学习建议。
+tags:
+- ai-impact
+- corporate-strategy
+- industry
+- science
+- technology
+title: AT&T CEO John Stankey 谈电信行业未来、AI驱动与领导力
 ---
+
 ### 欢迎来到AT&T
 
 主持人: 大家好，欢迎收看“In Good Company”节目，今天我们从纽约现场直播。我抵达纽约后做的第一件事，就是把手机里的**SIM卡**（Subscriber Identity Module: 用户身份模块）换成了AT&T的SIM卡。

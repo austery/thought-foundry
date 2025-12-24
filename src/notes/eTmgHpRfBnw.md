@@ -1,39 +1,39 @@
 ---
-author: 政經孫老師
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 中国政府
 date: '2025-07-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 社会生物学
+- 金融时报
+people:
+- Edward O. Wilson
+- Cook
+- Scott
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=eTmgHpRfBnw
 speaker: 政經孫老師
-tags:
-  - social-unrest
-  - economic-downturn
-  - collective-psychology
-  - social-welfare
-  - game-theory
-title: 中国社会为何走向混乱：经济衰退、集体心理失调与人道主义危机
-summary: 本文深入分析中国社会未来可能面临的混乱局面，指出其根源不仅在于经济萧条，更在于独特的社会结构和集体心理失调。文章详细探讨了中国经济在房地产、就业及企业投资方面的困境，并对比西方国家，强调中国社会福利的严重不足。此外，文章还从生物学角度阐释资源短缺、人口拥挤和陌生化如何引发内部暴力，并结合博弈论，揭示中国文化中“不肯吃亏”和“搭便车”心态如何导致集体自毁，最终预示一场人道主义灾难。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Edward O. Wilson
-  - Cook
-  - Scott
-companies_orgs:
-  - 中国政府
-products_models: []
-media_books:
-  - 社会生物学
-  - 金融时报
 status: evergreen
+summary: 本文深入分析中国社会未来可能面临的混乱局面，指出其根源不仅在于经济萧条，更在于独特的社会结构和集体心理失调。文章详细探讨了中国经济在房地产、就业及企业投资方面的困境，并对比西方国家，强调中国社会福利的严重不足。此外，文章还从生物学角度阐释资源短缺、人口拥挤和陌生化如何引发内部暴力，并结合博弈论，揭示中国文化中“不肯吃亏”和“搭便车”心态如何导致集体自毁，最终预示一场人道主义灾难。
+tags:
+- economic-downturn
+- game-theory
+- psychology
+- social
+- social-welfare
+title: 中国社会为何走向混乱：经济衰退、集体心理失调与人道主义危机
 ---
+
 ### 中国社会混乱的深层逻辑
 
 很多人不看好中国未来的政治、经济、社会发展及稳定局势，关于中国会乱的说法也十分流行。然而，持这种观点的人却始终无法证明其背后的道理。本文将深入分析中国社会走向混乱的根本原因。

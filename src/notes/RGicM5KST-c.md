@@ -1,58 +1,57 @@
 ---
-author: Shanghao Jin
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- FOMC
+- TSMC
+- Oracle
+- OpenAI
+- Google
+- Microsoft
+- Apple
+- Nvidia
+- Intel
+- Alibaba
+- Bitmain
+- MicroStrategy
+- Huawei
+- Cambricon
 date: '2025-09-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jay Powell
+- Donald Trump
+- Sam Altman
+- Morris Chang
+- Pan Gongsheng
+- Wu Qing
+products_models:
+- H-1B
+- 401K
+- TPU
+- ETH
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=RGicM5KST-c
 speaker: Shanghao Jin
-tags:
-  - central-bank-policy
-  - inflation-concerns
-  - fiscal-stimulus
-  - ai-compute-war
-  - immigration-policy
-title: 中美央行政策困境、AI算力竞赛与全球市场展望
-summary: 本期节目深入探讨了美联储在通胀与不确定政策背景下的利率决策困境，以及中国央行在经济结构性问题面前的谨慎态度。同时，分析了H-1B签证政策对科技人才流动的影响，并详细阐述了AI算力革命如何重塑科技巨头竞争格局，预示着大规模投入与并购潮的到来。最后，简要分析了近期加密货币市场暴跌背后的华尔街套利策略。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Jay Powell
-  - Donald Trump
-  - Sam Altman
-  - Morris Chang
-  - Pan Gongsheng
-  - Wu Qing
-companies_orgs:
-  - Federal Reserve
-  - FOMC
-  - TSMC
-  - Oracle
-  - OpenAI
-  - Google
-  - Microsoft
-  - Apple
-  - Nvidia
-  - Intel
-  - Alibaba
-  - Bitmain
-  - MicroStrategy
-  - Huawei
-  - Cambricon
-products_models:
-  - H-1B
-  - 401K
-  - TPU
-  - ETH
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了美联储在通胀与不确定政策背景下的利率决策困境，以及中国央行在经济结构性问题面前的谨慎态度。同时，分析了H-1B签证政策对科技人才流动的影响，并详细阐述了AI算力革命如何重塑科技巨头竞争格局，预示着大规模投入与并购潮的到来。最后，简要分析了近期加密货币市场暴跌背后的华尔街套利策略。
+tags:
+- central-bank-policy
+- fiscal-stimulus
+- immigration-policy
+- inflation-concern
+- war
+title: 中美央行政策困境、AI算力竞赛与全球市场展望
 ---
+
 ### 开篇：宏观经济大周期回顾与今日焦点
 
 上周我们讨论了两个核心观点：一是**AI大周期**（AI Supercycle: 指人工智能技术发展带来的长期经济增长和产业变革），即Token需求将远远超过Token供应，这预示着半导体和AI领域将迎来一个巨大的周期。二是**财政大周期**（Fiscal Supercycle: 指政府通过大规模财政支出和政策干预来刺激经济的长期趋势），这不仅限于美国，包括中国、欧洲和日本都在积极推行。今天，我们将结合美联储上周的决定及其**FOMC**（Federal Open Market Committee: 联邦公开市场委员会，负责制定美国货币政策）公布的经济数据，深入探讨中国和美国央行在当前宏观环境下的政策困境。这与政府层面的消费（即财政支出）形成对比，因为央行还需要兼顾通胀问题。

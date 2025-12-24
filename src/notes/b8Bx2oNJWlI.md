@@ -1,30 +1,26 @@
 ---
-title: AI时代：如何成为超级学习者，掌握核心知识与跨领域能力
-summary: 在AI飞速发展的时代，本文探讨了如何成为超级学习者。强调回归基础知识、跨领域学习，并利用AI加速成长，以应对专业界限模糊的挑战。
-area: tech-insights
-category: technology
-project:
-  - ai-impact-analysis
-tags:
-  - ai
-  - cross-disciplinary
-  - foundational-knowledge
-  - future-skills
-  - personal-growth
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-03-17'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=b8Bx2oNJWlI
+speaker: 一口新飯
 status: evergreen
+summary: 在AI飞速发展的时代，本文探讨了如何成为超级学习者。强调回归基础知识、跨领域学习，并利用AI加速成长，以应对专业界限模糊的挑战。
+tags:
+- future
+- personal-growth
+- philosophy
+- technology
+title: AI时代：如何成为超级学习者，掌握核心知识与跨领域能力
 ---
 
 ### 引言：AI加速进化下的学习焦虑

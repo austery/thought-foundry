@@ -1,51 +1,51 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- International Crisis Group
+- The Covert Group
+- Wilson Foundation
+- NATO
+- Chinese Communist Party
+- People's Liberation Army
+- RCMP
+- CSIS
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Hill Times
+- TVO Today
+- Angus Reid
+people:
+- Michael Kovrig
+- Steve Paikin
+- Red Wilson
+- Xi Jinping
+- Pierre Trudeau
+- Barack Obama
+- Donald Trump
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=WviFnz3DLo4
 speaker: TVO Today
-tags:
-  - canada-china-relations
-  - geopolitical-strategy
-  - authoritarian-systems
-  - foreign-interference
-  - economic-diversification
-title: 加拿大对华关系：迈克尔·康明凯的警示与战略耐心
-summary: 曾在中国被任意拘押逾千日的加拿大前外交官迈克尔·康明凯，在一次访谈中深入探讨了加拿大与中国关系的复杂性。他强调，加拿大必须对中国抱有清醒的认识，避免幻想，并认识到中国日益专制的体制及其在国际舞台上的对抗性议程。康明凯呼吁加拿大采取战略耐心，加强国家安全防御，实现经济多元化，并与理念相近的盟友合作，以应对中国带来的巨大挑战，同时在有限领域内进行有边界的互动。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - us-analysis
-people:
-  - Michael Kovrig
-  - Steve Paikin
-  - Red Wilson
-  - Xi Jinping
-  - Pierre Trudeau
-  - Barack Obama
-  - Donald Trump
-companies_orgs:
-  - International Crisis Group
-  - The Covert Group
-  - Wilson Foundation
-  - NATO
-  - Chinese Communist Party
-  - People's Liberation Army
-  - RCMP
-  - CSIS
-products_models: []
-media_books:
-  - The Hill Times
-  - TVO Today
-  - Angus Reid
 status: evergreen
+summary: 曾在中国被任意拘押逾千日的加拿大前外交官迈克尔·康明凯，在一次访谈中深入探讨了加拿大与中国关系的复杂性。他强调，加拿大必须对中国抱有清醒的认识，避免幻想，并认识到中国日益专制的体制及其在国际舞台上的对抗性议程。康明凯呼吁加拿大采取战略耐心，加强国家安全防御，实现经济多元化，并与理念相近的盟友合作，以应对中国带来的巨大挑战，同时在有限领域内进行有边界的互动。
+tags:
+- canada-china-relations
+- economic-diversification
+- geopolitical
+- geopolitical-strategy
+- system
+title: 加拿大对华关系：迈克尔·康明凯的警示与战略耐心
 ---
+
 ### 加拿大与中国关系的演变：吸取历史教训
 
 加拿大与中国的关系正在迅速演变。我们是否充分吸取了近期历史的教训，以便正确处理这一关系？

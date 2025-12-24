@@ -1,60 +1,60 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Fo Guang Shan
+- Tzu Chi
+- 大午集团
+- 华西村
+- 花园村
 date: '2024-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《自由的宰狼》
+- 《湖南人与现代中国》
+- 《第三帝国新王》
+people:
+- Mao Zedong
+- Han Fuju
+- Wang Fuzhi
+- Tan Sitong
+- Li Boqin
+- Zhao Benshan
+- Chen Jiongming
+- Song Jiaoren
+- Sun Yat-sen
+- Indira Gandhi
+- Mahatma Gandhi
+- Modi
+- Sun Dawu
+- Liu Shaoqi
+- Wang Guangmei
+- Zhang Aiping
+- Jiang Zemin
+- Liu Zhongning
+products_models:
+- 龙蛙
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=SMpe8m70re4
 speaker: 东京人文论坛
-tags:
-  - local-autonomy
-  - central-local-relations
-  - chinese-federalism
-  - social-welfare
-  - civil-society
-title: 中国政治博弈的千万细节：地方自治的可能与挑战
-summary: 本文深入探讨了中国地方自治的可能性与挑战，从历史上的大一统与地方割据，到民国时期湖南独立运动和陈炯明联省自治的案例。文章还对比了印度在宪政框架下实现地方权力兴起的经验，并讨论了宗教组织、民营企业和非政府组织在提供公共服务和建立地方福利机制中的作用。通过丰富的案例分析，揭示了中国未来地方能力建设所需的前提条件和面临的困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mao Zedong
-  - Han Fuju
-  - Wang Fuzhi
-  - Tan Sitong
-  - Li Boqin
-  - Zhao Benshan
-  - Chen Jiongming
-  - Song Jiaoren
-  - Sun Yat-sen
-  - Indira Gandhi
-  - Mahatma Gandhi
-  - Modi
-  - Sun Dawu
-  - Liu Shaoqi
-  - Wang Guangmei
-  - Zhang Aiping
-  - Jiang Zemin
-  - Liu Zhongning
-companies_orgs:
-  - Fo Guang Shan
-  - Tzu Chi
-  - 大午集团
-  - 华西村
-  - 花园村
-products_models:
-  - 龙蛙
-media_books:
-  - 《自由的宰狼》
-  - 《湖南人与现代中国》
-  - 《第三帝国新王》
 status: evergreen
+summary: 本文深入探讨了中国地方自治的可能性与挑战，从历史上的大一统与地方割据，到民国时期湖南独立运动和陈炯明联省自治的案例。文章还对比了印度在宪政框架下实现地方权力兴起的经验，并讨论了宗教组织、民营企业和非政府组织在提供公共服务和建立地方福利机制中的作用。通过丰富的案例分析，揭示了中国未来地方能力建设所需的前提条件和面临的困境。
+tags:
+- chinese
+- civil-society
+- local-autonomy
+- relations
+- social-welfare
+title: 中国政治博弈的千万细节：地方自治的可能与挑战
 ---
+
 ### 政治博弈的复杂性与“自由的宰狼”
 
 上次我们探讨了国家失败的千万细节，阅读了《国家为什么会失败》这本书，深入分析了中国在转型过程中好的与不好的方面，以及国家体制压榨的细节。我们发现，平时我们很容易对中国的政治问题或未来发展形成一些大而化之的理解，但能够关注这些细节非常有益。今天，我们将问题进一步推向“政治博弈的千万细节”，这更加有趣。因为我们设想中国未来时，经常会想到中国分裂或地方自治等情况。无论是分裂还是地方自治，我们都需要探讨地方自治有哪些细节能够支撑它，从而审视未来无论是地方自治，甚至破坏大一统格局的可能性。

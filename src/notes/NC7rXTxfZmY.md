@@ -1,39 +1,39 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
+- 健保署
 date: '2025-03-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《肾脏求救中》
+- 《初日会客室》
+people:
+- 洪永祥
+- 宋晏仁
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=NC7rXTxfZmY
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - kidney-disease
-  - dialysis-prevention
-  - diabetes-management
-  - dietary-health
-  - metabolic-syndrome
-title: 肾脏科名医洪永祥：警惕慢性肾衰竭，揭秘台湾高洗肾率成因与防治关键
-summary: 洪永祥医师在《初日会客室》中，分享他从洗肾医师转变为致力于肾病预防的心路历程。他深入剖析了台湾洗肾率高企的深层原因，指出糖尿病是首要因素，并强调了台湾独特的饮食文化（如高糖饮品、加工食品）与特定基因型对肾脏健康的负面影响。文章详细介绍了慢性肾病的医学定义、分期、症状识别，以及针对不同阶段的饮食调节建议，包括限蛋白、限磷钾的注意事项，并展望了未来肾病治疗的可能方向。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - 洪永祥
-  - 宋晏仁
-companies_orgs:
-  - 初日醫學
-  - Cofit
-  - 健保署
-products_models: []
-media_books:
-  - 《肾脏求救中》
-  - 《初日会客室》
 status: evergreen
+summary: 洪永祥医师在《初日会客室》中，分享他从洗肾医师转变为致力于肾病预防的心路历程。他深入剖析了台湾洗肾率高企的深层原因，指出糖尿病是首要因素，并强调了台湾独特的饮食文化（如高糖饮品、加工食品）与特定基因型对肾脏健康的负面影响。文章详细介绍了慢性肾病的医学定义、分期、症状识别，以及针对不同阶段的饮食调节建议，包括限蛋白、限磷钾的注意事项，并展望了未来肾病治疗的可能方向。
+tags:
+- health
+- management
+- technology
+title: 肾脏科名医洪永祥：警惕慢性肾衰竭，揭秘台湾高洗肾率成因与防治关键
+companies:
+- metabolic-syndrome
 ---
+
 ### 引言：从洗肾到预防的转变
 
 宋晏仁 宋医师: 嗨，大家好，我是宋晏仁宋医师，欢迎您来到《初日会客室》。今天我们为您邀请到的是我的好朋友洪永祥洪医师。

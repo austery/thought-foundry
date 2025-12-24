@@ -1,41 +1,40 @@
 ---
-author: 王红雨
+area: society-systems
+category: finance
+companies_orgs: []
 date: '2025-10-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《我们从未中产过》
+- 《21世纪资本论》
+people:
+- 托马斯·皮凯蒂
+- 安征明
+- 斯宾塞
+products_models:
+- RSP
+- Term Insurance
+- Whole Life Insurance
+project:
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=IC97egqrxAI
 speaker: 王红雨
-tags:
-  - middle-class-decline
-  - wealth-management
-  - financial-traps
-  - real-estate-strategy
-  - education-value
-title: 中产返贫的陷阱与出路：海外华人如何避免阶层下滑？
-summary: 本文探讨了2025年中国与北美中产返贫现象，并深入剖析了中产阶级的定义、面临的五大陷阱（债务、人力资本过度投入、消费信贷、投资羊群效应、相对位置焦虑）。作者结合《我们从未中产过》一书的洞察，为海外华人提供了避免返贫的实战建议，涵盖房产投资、教育规划、投资策略及财富管理。强调了在不同阶段的财务策略，以及通过遗产规划整合人生财务的重要性，旨在帮助中产家庭稳健过渡，迈向中上阶层。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - 王红雨
-  - 托马斯·皮凯蒂
-  - 安征明
-  - 斯宾塞
-companies_orgs: []
-products_models:
-  - RSP
-  - Term Insurance
-  - Whole Life Insurance
-media_books:
-  - 《我们从未中产过》
-  - 《21世纪资本论》
 status: evergreen
+summary: 本文探讨了2025年中国与北美中产返贫现象，并深入剖析了中产阶级的定义、面临的五大陷阱（债务、人力资本过度投入、消费信贷、投资羊群效应、相对位置焦虑）。作者结合《我们从未中产过》一书的洞察，为海外华人提供了避免返贫的实战建议，涵盖房产投资、教育规划、投资策略及财富管理。强调了在不同阶段的财务策略，以及通过遗产规划整合人生财务的重要性，旨在帮助中产家庭稳健过渡，迈向中上阶层。
+tags:
+- decline
+- education
+- financial
+- strategy
+- wealth-management
+title: 中产返贫的陷阱与出路：海外华人如何避免阶层下滑？
 ---
+
 ### 中产返贫：一个不平静的2025年
 
 大家好，欢迎再次回到我的频道。今天我们来聊一个**中产返贫**（Middle-Class Falling into Poverty: 指中产阶级因经济波动、投资失误或生活变故等原因，财富缩水，生活水平下降，甚至重新陷入贫困的状态）的话题。2025年，无论是在中国还是在北美，都出现了许多中产返贫的案例。这一年确实不平静。我们来借这个机会总结一下，如何避免中产返贫发生在我们自己身上。我将分三个小题目跟大家聊这个话题：第一个是中产的定义是什么？第二个是中产家庭可能面临中产返贫的五个陷阱是什么？最后一个是聊一聊如何绕过这些陷阱，尽快走完这段钢丝，成为中上阶层。

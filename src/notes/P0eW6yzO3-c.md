@@ -1,51 +1,49 @@
 ---
-author: 徒步的騎手
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Wall Street Journal
+- Fox News
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《红旗下的蛋》
+people:
+- Donald Trump
+- Joe Biden
+- Bill Clinton
+- George W. Bush
+- Barack Obama
+- Hillary Clinton
+- Steven Pinker
+- Voltaire
+- Confucius
+- Socrates
+- 崔健
+- 吴国光
+- 杨笠
+products_models:
+- Medicaid
+- ObamaCare
+project:
+- us-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=P0eW6yzO3-c
 speaker: 徒步的騎手
-tags:
-  - political-polarization
-  - democratic-systems
-  - authoritarian-systems
-  - cognitive-bias
-  - media-literacy
-title: 民主的烂苹果与独裁的金苹果：中文世界的政治二极管现象
-summary: 本文探讨了中文世界中普遍存在的政治二极管现象，将民主制度下在“烂苹果”中做选择的现实，与集权体制下“金光闪闪”的伟人崇拜进行对比。作者通过在美国经历五位总统的视角，指出许多人将政客视为亲人或仇敌，而非理性分析。文章批判了小粉红与川粉在认知上的共性，强调恢复常识、摆脱党国思维烙印的重要性，并呼吁在复杂的政治现实中进行独立思考，而非盲目站队或陷入道德无能。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - Donald Trump
-  - Joe Biden
-  - Bill Clinton
-  - George W. Bush
-  - Barack Obama
-  - Hillary Clinton
-  - Steven Pinker
-  - Voltaire
-  - Confucius
-  - Socrates
-  - 崔健
-  - 吴国光
-  - 杨笠
-companies_orgs:
-  - Wall Street Journal
-  - Fox News
-products_models:
-  - Medicaid
-  - ObamaCare
-media_books:
-  - 《红旗下的蛋》
 status: evergreen
+summary: 本文探讨了中文世界中普遍存在的政治二极管现象，将民主制度下在“烂苹果”中做选择的现实，与集权体制下“金光闪闪”的伟人崇拜进行对比。作者通过在美国经历五位总统的视角，指出许多人将政客视为亲人或仇敌，而非理性分析。文章批判了小粉红与川粉在认知上的共性，强调恢复常识、摆脱党国思维烙印的重要性，并呼吁在复杂的政治现实中进行独立思考，而非盲目站队或陷入道德无能。
+tags:
+- cognitive-bias
+- media-literacy
+- system
+title: 民主的烂苹果与独裁的金苹果：中文世界的政治二极管现象
 ---
+
 ### 地方选举与中文世界的政治二极管现象
 
 大家好。昨天是美国的选举日，晚上各地投票结果出炉。最引人瞩目的是民主党赢得了新泽西州长、弗吉尼亚州长以及纽约市长职位。有人就此预言民主党翻身了，也有人看到纽约选出了一位社会主义市长，便预言这对共和党有利。有朋友问这些预言靠不靠谱，答案很简单：从一次地方选举预言全国政治走势，从来就没靠谱过。本期节目，我想结合这次选举，谈谈中文世界中一种比较突出的政治现象。

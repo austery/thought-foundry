@@ -1,47 +1,47 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Microsoft
+- Visa
+- AMD
+- Intel
+- 华为
+- Google
+- Amazon
+- Netflix
 date: '2025-03-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+products_models:
+- A3语言模型
+- Azure云计算
+- Kubernetes
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=9e0KQ4MwIBg
 speaker: Shijun Tang
-tags:
-  - ai-market-commoditization
-  - profit-margin-sustainability
-  - interest-rate-cycle-impact
-  - business-model-resilience
-  - share-repurchases
-title: 英伟达增速放缓、微软稳如泰山与Visa的隐形王者：AI时代下的投资逻辑重构
-summary: 本期视频分析英伟达盈利能力放缓背后的算力市场变局、微软持续强劲的业务模型，以及Visa在高利率环境中的韧性。作者强调，在AI热潮退潮时，更应关注企业基本面与长期竞争优势，而非盲目追逐技术风口。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - 英伟达
-  - 微软
-  - Visa
-  - AMD
-  - Intel
-  - 华为
-  - Google
-  - Amazon
-  - Netflix
-products_models:
-  - A3语言模型
-  - Azure云计算
-  - Kubernetes
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本期视频分析英伟达盈利能力放缓背后的算力市场变局、微软持续强劲的业务模型，以及Visa在高利率环境中的韧性。作者强调，在AI热潮退潮时，更应关注企业基本面与长期竞争优势，而非盲目追逐技术风口。
+tags:
+- business-model-resilience
+- financial
+- interest-rate-cycle-impact
+- market
+- share-repurchase
+title: 英伟达增速放缓、微软稳如泰山与Visa的隐形王者：AI时代下的投资逻辑重构
 ---
+
 ### 英伟达的增速放缓：算力神话的破灭与市场认知重构
 
 最新财报显示，英伟达的盈利能力正在放缓，股价在两个月内暴跌30%。许多投资人开始质疑：英伟达究竟还有戏吗？这不仅是市场当下的普遍困惑，也是我们亟需深入分析的问题。

@@ -1,49 +1,48 @@
 ---
-author: Veritasium
-date: '2022-11-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=nmgFG7PUHfo
-speaker: Veritasium
-tags:
-  - veritasium
-  - fast-fourier-transform
-  - nuclear-test-ban
-  - signal-processing
-  - computational-efficiency
-  - algorithm-history
-title: 史上最重要的算法：快速傅里叶变换如何影响世界
-summary: 本文深入探讨了快速傅里叶变换（FFT）这一史上最重要的算法。从其在核武器试验检测中的关键作用，到其如何加速核裁军谈判，再到其在现代信号处理、图像压缩、雷达、5G和WiFi等领域的广泛应用，揭示了FFT的深远影响。文章还追溯了FFT的早期发现者高斯，并强调了其在计算效率上的巨大飞跃。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Richard Garwin
-  - John Tukey
-  - James Cooley
-  - Carl Friedrich Gauss
-  - Joseph Fourier
-  - John F. Kennedy
+category: geopolitics
 companies_orgs:
-  - CERN
-  - IBM
-  - 80,000 Hours
-  - Oxford University
-products_models:
-  - Apollo program
-  - Pallas
-  - Ceres
-  - Juno
-  - Shrimp
+- CERN
+- IBM
+- 80,000 Hours
+- Oxford University
+date: '2022-11-03'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 3Blue1Brown
+- 3Blue1Brown
+people:
+- Richard Garwin
+- John Tukey
+- James Cooley
+- Carl Friedrich Gauss
+- Joseph Fourier
+- John F. Kennedy
+products_models:
+- Apollo program
+- Pallas
+- Ceres
+- Juno
+- Shrimp
+project:
+- us-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=nmgFG7PUHfo
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了快速傅里叶变换（FFT）这一史上最重要的算法。从其在核武器试验检测中的关键作用，到其如何加速核裁军谈判，再到其在现代信号处理、图像压缩、雷达、5G和WiFi等领域的广泛应用，揭示了FFT的深远影响。文章还追溯了FFT的早期发现者高斯，并强调了其在计算效率上的巨大飞跃。
+tags:
+- canada
+- efficiency
+- fast-fourier-transform
+- history
+- nuclear
+title: 史上最重要的算法：快速傅里叶变换如何影响世界
 ---
+
 ### 快速傅里叶变换：无处不在的幕后英雄
 
 这是一个关于**快速傅里叶变换**（Fast Fourier Transform, FFT: 一种用于将信号分解为不同频率的正弦波的算法，显著提高了傅里叶变换的计算效率）的视频，它被誉为史上最重要的算法。

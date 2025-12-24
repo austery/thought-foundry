@@ -1,59 +1,55 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Dyno Therapeutics
+- Colossal
+- OpenAI
+- NSF
+- NIH
+- FDA
+- MIT
+- Harvard
+- BU
+- Affymetrix
+- Dor Yeshorim
 date: '2025-06-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《科学》
+- 《自然》
+people:
+- George Church
+- Feng Zhang
+- Eric Drexler
+- Floyd Romesberg
+- Joe Davis
+- Alex Rich
+- Neil Gershenfeld
+- David Reich
+products_models:
+- CRISPR
+- GPT-4
+- AlphaFold
+- iPhone
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=olmHHxFQwxo
 speaker: Dwarkesh Patel
-tags:
-  - gene-editing
-  - synthetic-biology
-  - age-reversal
-  - biodefense
-  - materials-science
-  - llm
-  - agi
-title: 乔治·丘奇谈生物科技的指数级增长、AI融合与未来挑战
-summary: 本访谈中，**乔治·丘奇**教授深入探讨了生物科技的指数级发展，从基因组计划到**CRISPR**，以及逆转衰老和去灭绝等前沿领域。他预测到2050年，生物技术有望实现寿命“逃逸速度”。访谈还涵盖了基因疗法、合成生物学、生物防御的伦理与风险，以及AI与生物学融合对新材料和药物开发的深远影响。**丘奇**教授强调了遗传咨询的被低估价值，并对**AGI**的安全性表达了谨慎态度，认为科学AI比语言AI更有前景。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - George Church
-  - Dwarkesh Patel
-  - Feng Zhang
-  - Eric Drexler
-  - Floyd Romesberg
-  - Joe Davis
-  - Alex Rich
-  - Neil Gershenfeld
-  - David Reich
-companies_orgs:
-  - Dyno Therapeutics
-  - Colossal
-  - OpenAI
-  - NSF
-  - NIH
-  - FDA
-  - MIT
-  - Harvard
-  - BU
-  - Affymetrix
-  - Dor Yeshorim
-products_models:
-  - CRISPR
-  - GPT-4
-  - AlphaFold
-  - iPhone
-media_books:
-  - 《科学》
-  - 《自然》
 status: evergreen
+summary: 本访谈中，**乔治·丘奇**教授深入探讨了生物科技的指数级发展，从基因组计划到**CRISPR**，以及逆转衰老和去灭绝等前沿领域。他预测到2050年，生物技术有望实现寿命“逃逸速度”。访谈还涵盖了基因疗法、合成生物学、生物防御的伦理与风险，以及AI与生物学融合对新材料和药物开发的深远影响。**丘奇**教授强调了遗传咨询的被低估价值，并对**AGI**的安全性表达了谨慎态度，认为科学AI比语言AI更有前景。
+tags:
+- agi
+- health
+- materials-science
+- technology
+title: 乔治·丘奇谈生物科技的指数级增长、AI融合与未来挑战
 ---
+
 今天，我非常荣幸能采访到**乔治·丘奇**（George Church）。我不知道该如何介绍您。这绝非夸张，老实说，列出过去几十年里您没有参与的生物学重大突破，反而会更容易——从**人类基因组计划**（Human Genome Project）到**CRISPR**（Clustered Regularly Interspaced Short Palindromic Repeats: 一种基因编辑技术），从逆转衰老到去灭绝。所以，准备这次采访对我来说并不容易。
 
 ### 寿命“逃逸速度”的预测

@@ -1,66 +1,66 @@
 ---
-author: 郭里有范
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 兰德公司
+- 芝加哥全球事务委员会
+- 欧盟
+- 世界卫生组织
+- 联合国
+- 腾讯
+- 大疆
+- 台积电
+- 上海社科院
+- G7
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《纽约时报》
+- 《南华早报》
+- 《彭博社》
+- 《日本关键矿产战略及其对中国的影响》
+people:
+- 高市早苗
+- Xi Jinping
+- 林信义
+- 赖清德
+- 安倍晋三
+- 巴拉克·奥巴马
+- 唐纳德·川普
+- 纳伦德拉·莫迪
+- 贾瓦哈拉尔·尼赫鲁
+- 阿西姆·穆尼尔
+- 安娜莱娜·贝尔伯克
+- 王毅
+- 约翰·德鲁里
+- 乌尔苏拉·冯德莱恩
+- 奥拉夫·朔尔茨
+- 古斯塔沃·佩特罗
+- 埃马纽埃尔·马克龙
+products_models:
+- GDPR
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=rGMkW1kyTXo
 speaker: 郭里有范
-tags:
-  - g2-concept
-  - us-china-relations
-  - geopolitical-shifts
-  - rare-earths
-  - international-order
-title: 川普G2概念下的全球格局重塑：台湾、日本、印度与欧洲的应对
-summary: 本文深入探讨了川普提出的G2（中美共治）概念如何深刻影响全球地缘政治格局。通过分析台湾、日本、印度和欧洲在这一新双极世界中的反应与调整，揭示了中美对撞的余波对各国战略定位、经济关系及国际话语权带来的挑战与机遇。文章特别关注了中国稀土反制能力、美国对华态度的转变以及欧洲国际规则制定者地位的动摇等核心议题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 高市早苗
-  - 习近平
-  - 林信义
-  - 赖清德
-  - 安倍晋三
-  - 巴拉克·奥巴马
-  - 唐纳德·川普
-  - 纳伦德拉·莫迪
-  - 贾瓦哈拉尔·尼赫鲁
-  - 阿西姆·穆尼尔
-  - 安娜莱娜·贝尔伯克
-  - 王毅
-  - 约翰·德鲁里
-  - 乌尔苏拉·冯德莱恩
-  - 奥拉夫·朔尔茨
-  - 古斯塔沃·佩特罗
-  - 埃马纽埃尔·马克龙
-companies_orgs:
-  - 兰德公司
-  - 芝加哥全球事务委员会
-  - 欧盟
-  - 世界卫生组织
-  - 联合国
-  - 腾讯
-  - 大疆
-  - 台积电
-  - 上海社科院
-  - G7
-products_models:
-  - GDPR
-media_books:
-  - 《华尔街日报》
-  - 《纽约时报》
-  - 《南华早报》
-  - 《彭博社》
-  - 《日本关键矿产战略及其对中国的影响》
 status: evergreen
+summary: 本文深入探讨了川普提出的G2（中美共治）概念如何深刻影响全球地缘政治格局。通过分析台湾、日本、印度和欧洲在这一新双极世界中的反应与调整，揭示了中美对撞的余波对各国战略定位、经济关系及国际话语权带来的挑战与机遇。文章特别关注了中国稀土反制能力、美国对华态度的转变以及欧洲国际规则制定者地位的动摇等核心议题。
+tags:
+- geopolitical-shift
+- international
+- philosophy
+- rare-earth
+- us-china-relations
+title: 川普G2概念下的全球格局重塑：台湾、日本、印度与欧洲的应对
 ---
+
 ### 川普G2概念的提出与历史演变
 
 日本首相高市早苗为何突然在台湾问题上撂下狠话？德国外长为何在最后一刻取消访华？是什么原因让欧盟领导人不敢参加拉美峰会？而印度又为何尝试用人民币购买石油？这些看似不相关的事态，却隐约指向同一个方向：中美双极，即川普在10月底釜山APEC峰会上提出的**G2**（Group of Two: 指由美国和中国两个大国共同主导全球事务的构想）。

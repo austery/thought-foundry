@@ -1,79 +1,79 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: lifestyle
+companies_orgs:
+- Wirecutter
+- New York Times Podcasts
+- Norse Foundry
+- Swatch
+- Sawyer
+- Sangean
+- TWWP
+- Amazon
+- OXO
+- Cosori
+- Spyderco
+- ThermoPro
+- Sephora
+- Nordstrom
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Gift
+people:
+- Ann Marie Ki
+- Jackie Reev
+- James
+- Amy Kravitz
+- Trey French
+- Brent Butterworth
+- Jennifer Hunter
+- John Chase
+- Rachel Sarakola
+- Katherine Cast
+- Tom Dunn
+- Ellen Lee
+- Liam
+- Nicola
+- Caitlyn Wells
+- Mel Plout
+- Kathleen Squires
+products_models:
+- Yummy Taper candles
+- Company Cotton Voile Quilt
+- Swatch Flick Flack watch
+- Sawyer Squeeze water filter
+- Sangean WR15
+- TWWP Next Morning shirt
+- Amazon Echo Dot
+- Bird Buddy
+- Oxo bench scraper
+- Cosori air fryer toaster oven
+- Oh My Hair Chalk
+- Inflatable air wedge
+- Prada lip balm
+- OXO garlic press
+- O2 Garlic garlic crusher
+- Spyderco Triangle Sharpmaker
+- ThermoPro Temp Spike Plus
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=3TPl76QeRAM
 speaker: New York Times Podcasts
-tags:
-  - gift-giving
-  - product-recommendations
-  - holiday-shopping
-  - consumer-products
-  - home-essentials
-title: Wirecutter专家年度好物推荐：2025节日送礼指南
-summary: 本期节目中，来自《纽约时报》旗下产品评测网站Wirecutter的专家们分享了他们2025年最喜爱并计划赠送的节日礼物。面对每年送礼的压力和挑战，这些经验丰富的编辑和作者们从日常用品、家居舒适、户外装备到智能科技和个人护理等多个类别，提供了经过严格测试和深思熟虑的独特推荐。节目旨在帮助听众更轻松、更有趣地挑选礼物，并预告了未来几期关于为难买的人、儿童和最后一刻礼物挑选的专题。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project: []
-people:
-  - Ann Marie Ki
-  - Jackie Reev
-  - James
-  - Amy Kravitz
-  - Trey French
-  - Brent Butterworth
-  - Jennifer Hunter
-  - John Chase
-  - Rachel Sarakola
-  - Katherine Cast
-  - Tom Dunn
-  - Ellen Lee
-  - Liam
-  - Nicola
-  - Caitlyn Wells
-  - Mel Plout
-  - Kathleen Squires
-companies_orgs:
-  - Wirecutter
-  - New York Times Podcasts
-  - Norse Foundry
-  - Swatch
-  - Sawyer
-  - Sangean
-  - TWWP
-  - Amazon
-  - OXO
-  - Cosori
-  - Spyderco
-  - ThermoPro
-  - Sephora
-  - Nordstrom
-products_models:
-  - Yummy Taper candles
-  - Company Cotton Voile Quilt
-  - Swatch Flick Flack watch
-  - Sawyer Squeeze water filter
-  - Sangean WR15
-  - TWWP Next Morning shirt
-  - Amazon Echo Dot
-  - Bird Buddy
-  - Oxo bench scraper
-  - Cosori air fryer toaster oven
-  - Oh My Hair Chalk
-  - Inflatable air wedge
-  - Prada lip balm
-  - OXO garlic press
-  - O2 Garlic garlic crusher
-  - Spyderco Triangle Sharpmaker
-  - ThermoPro Temp Spike Plus
-media_books:
-  - The Gift
 status: evergreen
+summary: 本期节目中，来自《纽约时报》旗下产品评测网站Wirecutter的专家们分享了他们2025年最喜爱并计划赠送的节日礼物。面对每年送礼的压力和挑战，这些经验丰富的编辑和作者们从日常用品、家居舒适、户外装备到智能科技和个人护理等多个类别，提供了经过严格测试和深思熟虑的独特推荐。节目旨在帮助听众更轻松、更有趣地挑选礼物，并预告了未来几期关于为难买的人、儿童和最后一刻礼物挑选的专题。
+tags:
+- consumer
+- financial
+- gift-giving
+- life
+- product
+title: Wirecutter专家年度好物推荐：2025节日送礼指南
 ---
+
 ### 节日送礼的挑战与Wirecutter的解决方案
 
 大家好，朋友们。

@@ -1,53 +1,52 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- e24
+- Retri
+- Sam benchmarking
+- Meta
 date: '2025-01-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Marius
+- Lydia
+- Daniel
+- B
+- Karina
+- Nikolai
+- Marta
+- Bill Gates
+- Sam Altman
+- Elon Musk
+products_models:
+- Yammer
+- Teams
+- LinkedIn
+- YouTube
+- Instagram
+- TikTok
+project:
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=IncyudZG7IE
 speaker: Norges Bank Investment Management
-tags:
-  - communication-strategy
-  - organizational-transparency
-  - stakeholder-engagement
-  - talent-attraction
-  - digital-impact
-title: 挪威主权财富基金的沟通战略：透明度、人才吸引与全球影响力
-summary: 本文深入探讨了挪威银行投资管理公司（NBIM）的四大战略沟通目标：提升内部绩效、增强挪威国内利益相关者的信任与认知、吸引年轻人才，以及强化其作为全球负责任投资者的形象。文章详细介绍了NBIM如何通过开放式内部平台、成为全球最透明基金的努力、积极的媒体互动以及创新的社交媒体策略（包括播客和实习生接管计划）来实现这些目标，并强调了员工在传播知识和建立信任中的核心作用，最终展现了其在全球范围内的巨大影响力。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Marius
-  - Lydia
-  - Daniel
-  - B
-  - Karina
-  - Nikolai
-  - Marta
-  - Bill Gates
-  - Sam Altman
-  - Elon Musk
-companies_orgs:
-  - Norges Bank Investment Management
-  - e24
-  - Retri
-  - Sam benchmarking
-  - Meta
-products_models:
-  - Yammer
-  - Teams
-  - LinkedIn
-  - YouTube
-  - Instagram
-  - TikTok
-media_books: []
 status: evergreen
+summary: 本文深入探讨了挪威银行投资管理公司（NBIM）的四大战略沟通目标：提升内部绩效、增强挪威国内利益相关者的信任与认知、吸引年轻人才，以及强化其作为全球负责任投资者的形象。文章详细介绍了NBIM如何通过开放式内部平台、成为全球最透明基金的努力、积极的媒体互动以及创新的社交媒体策略（包括播客和实习生接管计划）来实现这些目标，并强调了员工在传播知识和建立信任中的核心作用，最终展现了其在全球范围内的巨大影响力。
+tags:
+- communication-strategy
+- impact
+- organizational
+- society
+- talent
+title: 挪威主权财富基金的沟通战略：透明度、人才吸引与全球影响力
 ---
+
 ### 挪威银行投资管理公司的沟通战略目标
 
 感谢大家，欢迎来到这次“咖啡谈话”。

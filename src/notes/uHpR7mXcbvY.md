@@ -1,46 +1,46 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Centre for Civil Liberties
+- United Nations
+- International Criminal Court
+- Amnesty International Canada
+- Government of Ontario
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- Universal Declaration of Human Rights
+- Bill 5
+people:
+- Oleksandra Matviychuk
+- Donald Trump
+- Putin
+- Alex Neve
+products_models:
+- ''
+project:
+- geopolitics-watch
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=uHpR7mXcbvY
 speaker: TVO Today
-tags:
-  - ukraine-war
-  - human-rights
-  - refugee-policy
-  - international-justice
-  - diplomacy
-title: 从战争到人权：乌克兰的未来与加拿大的责任
-summary: 本文探讨了乌克兰战争的现状、和平谈判的挑战以及人权在国际决策中的核心地位。通过对乌克兰人权活动家奥列珊德拉·马特维丘克和前国际特赦组织加拿大秘书长亚历克斯·内夫的采访，文章深入分析了‘交易性外交’的局限性、国际司法体系的不足，以及加拿大在维护全球人权方面的责任。同时，也审视了加拿大与美国之间的‘安全第三国协议’对难民保护的影响，并呼吁公众积极参与人权倡导。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - historical-insights
-people:
-  - Oleksandra Matviychuk
-  - Donald Trump
-  - Putin
-  - Alex Neve
-companies_orgs:
-  - Centre for Civil Liberties
-  - United Nations
-  - International Criminal Court
-  - Amnesty International Canada
-  - Government of Ontario
-products_models:
-  - ''
-media_books:
-  - The Rundown
-  - Universal Declaration of Human Rights
-  - Bill 5
 status: evergreen
+summary: 本文探讨了乌克兰战争的现状、和平谈判的挑战以及人权在国际决策中的核心地位。通过对乌克兰人权活动家奥列珊德拉·马特维丘克和前国际特赦组织加拿大秘书长亚历克斯·内夫的采访，文章深入分析了‘交易性外交’的局限性、国际司法体系的不足，以及加拿大在维护全球人权方面的责任。同时，也审视了加拿大与美国之间的‘安全第三国协议’对难民保护的影响，并呼吁公众积极参与人权倡导。
+tags:
+- diplomacy
+- human-right
+- international
+- policy
+- ukraine-war
+title: 从战争到人权：乌克兰的未来与加拿大的责任
 ---
+
 ### 引言：乌克兰战争、人权与加拿大的角色
 
 在2024年美国总统大选前夕，唐纳德·特朗普曾反复强调他将在上任第一天结束俄乌战争。然而，如今已接近他第二个任期的开始，欧洲自第二次世界大战以来最大、最血腥的冲突仍在继续。成千上万的人丧生，似乎看不到尽头。那么，局势究竟如何？我们离和平协议还有多远？在多年的艰辛与损失之后，又是什么给了乌克兰人希望？

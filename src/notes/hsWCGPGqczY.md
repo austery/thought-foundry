@@ -1,51 +1,51 @@
 ---
-author: Peter Pang
-date: 2025-10-30
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=hsWCGPGqczY'
-speaker: Peter Pang
-tags:
-  - dotcom-bubble
-  - ai-hype
-  - market-speculation
-  - historical-patterns
-  - software-development
-title: 互联网泡沫的兴衰：从Dotcom狂潮到AI时代的警示
-summary: 本文深入回顾了2000年互联网泡沫（Dotcom Bubble）的兴衰，揭示了早期互联网企业在缺乏盈利能力、过度依赖烧钱和技术瓶颈下，如何被资本盲目追捧并最终破裂。文章将这段历史与当前的AI热潮进行对比，指出两者在宏观叙事、资本运作和对技术细节的忽视上存在惊人的相似之处，警示我们应从历史中吸取教训，避免重蹈覆辙，并探讨了互联网第二世成功兑现承诺的关键。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - market-cycles
-people:
-  - Tim Berners-Lee
-  - Marc Andreessen
-  - Linus Torvalds
+category: general
 companies_orgs:
-  - A16Z
-  - Microsoft
-  - Apple
-  - Mosaic Communications
-  - Netscape
-  - Amazon
-  - eBay
-  - Capital Group
-products_models:
-  - Mosaic
-  - Netscape
-  - Git
-  - BitKeeper
-  - intelliSense
-  - PHP
-  - Spring
+- A16Z
+- Microsoft
+- Apple
+- Mosaic Communications
+- Netscape
+- Amazon
+- eBay
+- Capital Group
+date: 2025-10-30
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Tim Berners-Lee
+- Marc Andreessen
+- Linus Torvalds
+products_models:
+- Mosaic
+- Netscape
+- Git
+- BitKeeper
+- intelliSense
+- PHP
+- Spring
+project:
+- systems-thinking
+- historical-insights
+- market-cycles
+series: ''
+source: https://www.youtube.com/watch?v=hsWCGPGqczY
+speaker: Peter Pang
 status: evergreen
+summary: 本文深入回顾了2000年互联网泡沫（Dotcom Bubble）的兴衰，揭示了早期互联网企业在缺乏盈利能力、过度依赖烧钱和技术瓶颈下，如何被资本盲目追捧并最终破裂。文章将这段历史与当前的AI热潮进行对比，指出两者在宏观叙事、资本运作和对技术细节的忽视上存在惊人的相似之处，警示我们应从历史中吸取教训，避免重蹈覆辙，并探讨了互联网第二世成功兑现承诺的关键。
+tags:
+- bubble
+- historical
+- llm
+- market-speculation
+- software-development
+title: 互联网泡沫的兴衰：从Dotcom狂潮到AI时代的警示
 ---
+
 ### 互联网的“第一次死亡”与Dotcom泡沫
 
 许多年轻人可能不知道，互联网曾经“死”过一次。我们如今所熟悉的这个互联网，实际上是涅槃重生后的“第二世”。时间回到2000年3月，在多种利空因素的影响下，**纳斯达克**（NASDAQ: 美国的一个电子股票交易市场，以高科技公司为主）上的互联网概念股开始集体暴跌。在短短两年内，绝大部分互联网公司破产、退市，纳斯达克指数也被抹去了将近80%，导致全美陷入又一轮的金融危机。这就是著名的**Dotcom Bubble**（Dotcom Bubble: 指20世纪末互联网公司股票投机泡沫破裂的事件）。这项在1993年才向公众公开的技术，甚至还没等来它的10岁生日，就走向了墓地。互联网也因此与臭名昭著的荷兰郁金香一样，成为载入史册的经济泡沫。

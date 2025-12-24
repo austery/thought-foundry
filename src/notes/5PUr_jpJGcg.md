@@ -1,40 +1,38 @@
 ---
-author: Adam's Axiom
+area: market-analysis
+category: finance
+companies_orgs:
+- Lehman Brothers
+- AIG
+- National Bureau of Economic Research
 date: '2025-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Dow Jones Industrial Average
+- VIX
+- Credit Default Swaps
+- Inverse Volatility Products
+- Dodd-Frank Act
+project:
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=5PUr_jpJGcg
 speaker: Adam's Axiom
-tags:
-  - stock-market-crash
-  - economic-crisis
-  - financial-contagion
-  - market-volatility
-  - systemic-risk
-title: 经济史上最糟糕的日子：从黑色星期二到全球疫情
-summary: 本文深入探讨了经济史上几次最具破坏性的事件，包括1929年的黑色星期二、1987年的黑色星期一、2008年的雷曼兄弟破产和AIG救助、2015年的中国股市动荡、2020年的新冠疫情市场暴跌以及1997年的亚洲金融危机。文章分析了这些事件的起因、全球影响，以及熔断机制等应对措施，揭示了全球经济的相互关联性和金融系统在面对不确定性时的脆弱性与韧性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - market-cycles
-  - investment-strategy
-people: []
-companies_orgs:
-  - Lehman Brothers
-  - AIG
-  - National Bureau of Economic Research
-products_models:
-  - Dow Jones Industrial Average
-  - VIX
-  - Credit Default Swaps
-  - Inverse Volatility Products
-  - Dodd-Frank Act
-media_books: []
 status: evergreen
+summary: 本文深入探讨了经济史上几次最具破坏性的事件，包括1929年的黑色星期二、1987年的黑色星期一、2008年的雷曼兄弟破产和AIG救助、2015年的中国股市动荡、2020年的新冠疫情市场暴跌以及1997年的亚洲金融危机。文章分析了这些事件的起因、全球影响，以及熔断机制等应对措施，揭示了全球经济的相互关联性和金融系统在面对不确定性时的脆弱性与韧性。
+tags:
+- economic
+- financial
+- market-volatility
+- stock-market-crash
+- systemic-risk
+title: 经济史上最糟糕的日子：从黑色星期二到全球疫情
 ---
+
 ### 1929年黑色星期二：大萧条的序幕
 
 您知道吗，1929年股市在一天之内惊人地损失了12%的价值？欢迎来到**黑色星期二**（Black Tuesday: 1929年10月29日，美国股市崩盘日），这是1929年**股市崩盘**（Stock Market Crash: 股票市场价格急剧下跌的事件）的严峻高潮。这一天，经济受到了巨大冲击，并在美国民众心中留下了持久的创伤。

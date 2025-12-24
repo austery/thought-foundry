@@ -1,45 +1,45 @@
 ---
-author: 徒步的騎手
-date: 2025-10-29
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=pcA9RbzcEas'
-speaker: 徒步的騎手
-tags:
-  - christmas-traditions
-  - holiday-greetings
-  - political-correctness
-  - intergenerational-dialogue
-  - personal-growth
-title: 圣诞节的记忆、包容与成长：一位父亲的节日感悟
-summary: 本文深入探讨了作者对圣诞节的个人记忆与感悟，从高中时代收到第一张圣诞卡和礼物，到与陌生人相遇的温暖经历。文章反思了“圣诞快乐”与“节日快乐”的祝福语争议，倡导相互包容与尊重。同时，作者分享了与儿子在价值观、兴趣爱好上的代际连接与差异，以及对青少年教育（如摔跤、负责任的枪支拥有）的思考，强调了善意、自律和身心健康在人生中的宝贵价值。
-insight: ''
-draft: true
-series: ''
-category: culture
 area: society-systems
-project:
-  - us-analysis
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - 吴建林
-  - Dan Carlin
-  - Thale Wong
-  - Chris Williamson
-  - Joe Rogan
-  - Lex Friedman
-  - Tom Bell
+category: culture
 companies_orgs: '[]'
-products_models:
-  - Camry
+date: 2025-10-29
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《安娜卡列尼娜》
-  - 《银汉词典》
-  - 《罗马书》
-  - 《老无所依》
+- 《安娜卡列尼娜》
+- 《银汉词典》
+- 《罗马书》
+- 《老无所依》
+people:
+- 吴建林
+- Dan Carlin
+- Thale Wong
+- Chris Williamson
+- Joe Rogan
+- Lex Friedman
+- Tom Bell
+products_models:
+- Camry
+project:
+- us-analysis
+- personal-growth-lab
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=pcA9RbzcEas
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了作者对圣诞节的个人记忆与感悟，从高中时代收到第一张圣诞卡和礼物，到与陌生人相遇的温暖经历。文章反思了“圣诞快乐”与“节日快乐”的祝福语争议，倡导相互包容与尊重。同时，作者分享了与儿子在价值观、兴趣爱好上的代际连接与差异，以及对青少年教育（如摔跤、负责任的枪支拥有）的思考，强调了善意、自律和身心健康在人生中的宝贵价值。
+tags:
+- christmas-tradition
+- health
+- holiday-greeting
+- personal-growth
+- political-correctness
+title: 圣诞节的记忆、包容与成长：一位父亲的节日感悟
 ---
+
 ### 圣诞记忆：来自恩师的第一张圣诞卡与礼物
 
 今天是**平安夜**（Christmas Eve），祝大家节日快乐，**圣诞快乐**（Merry Christmas），**节日快乐**（Happy Holidays）。在美国生活过的人，可能都曾收到过**圣诞卡**（Christmas card）和圣诞礼物。人生总有许多第一次，我第一次收到圣诞卡是在高中时期，那是我的高中英文老师吴建林老师写的。当时我上高三，他用英文写着“Merry Christmas and Happy New Year”。从那时起，我就习惯在节日季节用“Merry Christmas and Happy New Year”来祝福他人。

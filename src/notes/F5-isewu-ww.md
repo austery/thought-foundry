@@ -1,47 +1,47 @@
 ---
-author: 课代表立正
+area: society-systems
+category: career
+companies_orgs:
+- Google
+- OpenAI
+- Perplexity
+- Meta
+- Y Combinator
+- NVIDIA
+- Thinking Machine
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Neo Show
+people:
+- Sam Altman
+- Alexandr Wang
+- Mark Zuckerberg
+- Lilian Weng
+products_models:
+- Outlook
+- Gmail
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=F5-isewu-ww
 speaker: 课代表立正
-tags:
-  - ai-era-talent
-  - full-stack-redefinition
-  - career-leverage
-  - professional-network
-  - job-market-transformation
-title: AI时代的人才画像与职场生存策略：全栈思维与人脉杠杆
-summary: 在AI技术飞速发展的时代，传统的人才定义正被重塑。本文深入探讨了“全栈”概念的演变，从技术层面扩展到跨职能的综合能力，并指出知识工作者并非消失，而是被重新定义。面对职场变革加速，文章强调了拥抱AI、培养“建造者”身份的重要性，并提出将职场视为投资，通过构建高质量人脉网络来获取无风险的职业杠杆，以应对不确定性。
-insight: ''
-draft: true
-series: ''
-category: career
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Sam Altman
-  - Alexandr Wang
-  - Mark Zuckerberg
-  - Lilian Weng
-companies_orgs:
-  - Google
-  - OpenAI
-  - Perplexity
-  - Meta
-  - Y Combinator
-  - NVIDIA
-  - Thinking Machine
-products_models:
-  - Outlook
-  - Gmail
-media_books:
-  - Neo Show
 status: evergreen
+summary: 在AI技术飞速发展的时代，传统的人才定义正被重塑。本文深入探讨了“全栈”概念的演变，从技术层面扩展到跨职能的综合能力，并指出知识工作者并非消失，而是被重新定义。面对职场变革加速，文章强调了拥抱AI、培养“建造者”身份的重要性，并提出将职场视为投资，通过构建高质量人脉网络来获取无风险的职业杠杆，以应对不确定性。
+tags:
+- career
+- code
+- market
+- network
+- talent
+title: AI时代的人才画像与职场生存策略：全栈思维与人脉杠杆
 ---
+
 ### AI时代的人才画像：可解但不易的问题
 
 我们频道里的许多同学都非常关心，在这个时代，理想的**人才画像**（Talent Profile: 对特定职位或角色所需技能、经验、特质的描述）是怎样的，以及如何才能成为这个时代更优秀的人才。正如之前提到的，像Google、OpenAI或Perplexity这样的公司，要做一个AI浏览器或类似的项目，理论上是可行的。这听起来似乎人才是一个可以解决的问题，或者说它并不是决定性的**差异化因素**（Differentiator: 使产品、服务或公司在竞争中脱颖而出的独特特征）。

@@ -1,51 +1,51 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: psychology
+companies_orgs:
+- New York Times
+- Netflix
+- Target
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How to Get Rich
+- Modern Love
+- Money for Couples
+people:
+- Ramit Sethi
+- Anna Martin
+- Michelle
+- L
+- Celica
+- Stuart
+- Cassandra
+- John
+products_models:
+- Roth IRA
+- 401k
+- Modern Love
+- How to Get Rich
+- Money for Couples
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=1x51iC04kLw
 speaker: New York Times Podcasts
-tags:
-  - money-communication
-  - relationship-finance
-  - rich-life-vision
-  - financial-vulnerability
-  - debt-management
-  - estate-planning
-title: 夫妻如何谈论金钱：从情感连接到共享富裕生活愿景
-summary: 本期《摩登情爱》节目邀请了金融专家拉米特·塞西，探讨金钱为何成为夫妻间难以启齿的话题。他强调，财务分歧往往源于不同的情感解读和成长经历，而非单纯的数字问题。塞西提出了“从贬低到好奇”的沟通原则和“富裕生活愿景”的概念，以帮助夫妻有效沟通。他还回答了听众关于开设罗斯个人退休账户、处理收入差异、应对隐瞒债务以及遗产规划等问题，倡导在关系中保持脆弱性、明确期望，并超越单纯的储蓄，专注于共同的生活目标。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Ramit Sethi
-  - Anna Martin
-  - Michelle
-  - L
-  - Celica
-  - Stuart
-  - Cassandra
-  - John
-companies_orgs:
-  - New York Times
-  - Netflix
-  - Target
-products_models:
-  - Roth IRA
-  - 401k
-  - Modern Love
-  - How to Get Rich
-  - Money for Couples
-media_books:
-  - How to Get Rich
-  - Modern Love
-  - Money for Couples
 status: evergreen
+summary: 本期《摩登情爱》节目邀请了金融专家拉米特·塞西，探讨金钱为何成为夫妻间难以启齿的话题。他强调，财务分歧往往源于不同的情感解读和成长经历，而非单纯的数字问题。塞西提出了“从贬低到好奇”的沟通原则和“富裕生活愿景”的概念，以帮助夫妻有效沟通。他还回答了听众关于开设罗斯个人退休账户、处理收入差异、应对隐瞒债务以及遗产规划等问题，倡导在关系中保持脆弱性、明确期望，并超越单纯的储蓄，专注于共同的生活目标。
+tags:
+- communication
+- estate
+- finance
+- financial
+- life
+- management
+title: 夫妻如何谈论金钱：从情感连接到共享富裕生活愿景
 ---
+
 ### 金钱：亲密关系中的“禁忌”话题
 
 主持人安娜·马丁在节目中指出，金钱是亲密关系中一个难以启齿的话题。

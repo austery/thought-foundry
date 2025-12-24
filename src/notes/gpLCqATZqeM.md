@@ -1,38 +1,35 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
+- Mia C'bon
 date: '2025-03-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- May姐健康台味
+people:
+- 小吳醫師
+- May姐
+- 李醫師
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=gpLCqATZqeM
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - low-carb-diet
-  - weight-loss-recipes
-  - healthy-substitutions
-  - soy-protein
-  - dietary-myths
-title: 減肥想吃澱粉又怕胖？May姐教你用「偽碳水」越吃越瘦的控醣料理
-summary: 本期《初日食驗室》邀請到May姐健康台味主廚May姐，分享兩道無澱粉卻飽足感十足的控醣料理：「豆皮炒麵」與「豆腐蝦仁炒飯」。小吳醫師與May姐在烹飪過程中，深入探討減重迷思，包括是否應完全戒斷碳水化合物、糖與碳水的區別，以及如何在社交聚餐中維持飲食控制。節目強調選擇正確食材、適量攝取，讓減重過程無需挨餓，也能享受美味。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 小吳醫師
-  - May姐
-  - 李醫師
-companies_orgs:
-  - 初日醫學
-  - Cofit
-  - Mia C'bon
-products_models: []
-media_books:
-  - May姐健康台味
 status: evergreen
+summary: 本期《初日食驗室》邀請到May姐健康台味主廚May姐，分享兩道無澱粉卻飽足感十足的控醣料理：「豆皮炒麵」與「豆腐蝦仁炒飯」。小吳醫師與May姐在烹飪過程中，深入探討減重迷思，包括是否應完全戒斷碳水化合物、糖與碳水的區別，以及如何在社交聚餐中維持飲食控制。節目強調選擇正確食材、適量攝取，讓減重過程無需挨餓，也能享受美味。
+tags:
+- health
+- loss
+title: 減肥想吃澱粉又怕胖？May姐教你用「偽碳水」越吃越瘦的控醣料理
 ---
+
 ### 控醣料理新思維：偽碳水讓你越吃越瘦
 
 **小吳醫師:** 哈囉大家好，我是小吳醫師。我常常在診間聽到客人跟我說：「小吳醫師，我現在在**飲控**（Dietary control: 指通過調整飲食來管理體重或健康狀況），我想要…」不知道在螢幕前的大家是不是有相同的狀況呢？想要減澱粉，但是又覺得不知道要怎麼替換。今天這支影片呢，是我們的全新系列，會從病症解析聊到飲食對策，從營養素聊到餐桌上，就是要教大家不用餓肚子、不用算熱量，能夠好好地選擇對的食物。那我們今天邀請到YT頻道「May姐健康台味」的May姐，來教大家做控醣料理，我們歡迎May姐。

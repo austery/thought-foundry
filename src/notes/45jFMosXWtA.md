@@ -1,30 +1,28 @@
 ---
-title: 从“自私”到“自救”：构建不败的人生底牌
-summary: 本视频探讨了“自私”如何成为“自救”的第一步，通过“先戴上氧气面罩”和“拿好人生底牌”两大原则，分享了个人成长、真假慷慨以及王阳明心学等洞见，旨在帮助听众实现自我负责与内在富足。
 area: personal-growth
 category: psychology
-project:
-  - personal-growth-lab
-tags:
-  - personal-growth
-  - plan-b
-  - self-salvation
-  - selfishness
-people:
-  - wang-yangming
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-11-29'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- wang-yangming
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=45jFMosXWtA
+speaker: 一口新飯
 status: evergreen
+summary: 本视频探讨了“自私”如何成为“自救”的第一步，通过“先戴上氧气面罩”和“拿好人生底牌”两大原则，分享了个人成长、真假慷慨以及王阳明心学等洞见，旨在帮助听众实现自我负责与内在富足。
+tags:
+- personal-growth
+- plan-b
+- psychology
+- self
+title: 从“自私”到“自救”：构建不败的人生底牌
 ---
 
 ### 自救的起点：学会毫无保留的“自私”

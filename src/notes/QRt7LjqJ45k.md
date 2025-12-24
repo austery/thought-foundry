@@ -1,47 +1,45 @@
 ---
-author: Veritasium
-date: '2019-12-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=QRt7LjqJ45k
-speaker: Veritasium
-tags:
-  - veritasium
-  - aging-reversal
-  - epigenetic-information
-  - longevity-genes
-  - health-span
-  - calorie-restriction
-title: 减缓衰老甚至逆转衰老：科学前沿与实践
-summary: 本视频深入探讨了减缓和逆转人类衰老的最新科学研究。主持人Veritasium与David Sinclair教授讨论了延长健康寿命而非仅仅延长生命长度的重要性，并详细阐述了表观遗传信息理论。视频揭示了长寿基因如何通过饮食限制、运动和温度变化等方式被激活，以及利用山中因子在小鼠眼中成功逆转衰老的突破性实验。同时，也探讨了月亮水母在再生方面的启示，为人类抗衰老研究提供了路线图。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - David Sinclair
-  - Yamanaka
-  - Steve Horvath
-  - Barbra Streisand
+category: science
 companies_orgs:
-  - LastPass
+- LastPass
+date: '2019-12-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- David Sinclair
+- Yamanaka
+- Steve Horvath
+- Barbra Streisand
 products_models:
-  - NMN
-  - NAD
-  - cMyc
-  - Yamanaka factors
-  - Horvath clock
-  - sirtuins
-  - AMP-kinase
-  - mTOR
-  - SIR2
-media_books: []
+- NMN
+- NAD
+- cMyc
+- Yamanaka factors
+- Horvath clock
+- sirtuins
+- AMP-kinase
+- mTOR
+- SIR2
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=QRt7LjqJ45k
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了减缓和逆转人类衰老的最新科学研究。主持人Veritasium与David Sinclair教授讨论了延长健康寿命而非仅仅延长生命长度的重要性，并详细阐述了表观遗传信息理论。视频揭示了长寿基因如何通过饮食限制、运动和温度变化等方式被激活，以及利用山中因子在小鼠眼中成功逆转衰老的突破性实验。同时，也探讨了月亮水母在再生方面的启示，为人类抗衰老研究提供了路线图。
+tags:
+- calorie-restriction
+- health
+- information
+- investment
+- technology
+title: 减缓衰老甚至逆转衰老：科学前沿与实践
 ---
+
 ### 减缓衰老研究的意义与顾虑
 
 本视频的一部分由LastPass赞助，更多信息将在节目末尾介绍。这是一个关于减缓衰老速度和延长人类寿命研究的视频。在拍摄之前，我想了解大家对这类研究的普遍看法。我做了一个Twitter投票，结果发现大多数人支持并认为应该有更多的此类研究，但也有一些重要的顾虑，我想在开头就解决这些问题。最主要的顾虑是：如果我们要延长人类寿命，那是否意味着我们将有更多“生病”的岁月，躺在床上患上阿尔茨海默症？没有人希望这样，这一点对我来说很清楚。

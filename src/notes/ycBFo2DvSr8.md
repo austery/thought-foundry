@@ -1,41 +1,40 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- UBS
+- Credit Suisse
+- Norges Bank Investment Management
+- CitiBank
+- Merrill Lynch
 date: '2024-03-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sergio Ermotti
+- James Gorman
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=ycBFo2DvSr8
 speaker: Norges Bank Investment Management
-tags:
-  - banking-industry
-  - corporate-culture
-  - leadership-development
-  - financial-regulation
-  - mergers-acquisitions
-  - crisis-management
-title: 瑞银CEO埃尔莫蒂：从足球梦想、瑞信收购到全球金融领导力
-summary: 瑞银集团首席执行官塞尔吉奥·埃尔莫蒂在访谈中回顾了其职业生涯，从早年的足球梦想转向银行业，并详细阐述了瑞银收购瑞士信贷的幕后决策与挑战。他分享了对瑞信商业模式不可持续性的看法，以及如何带领瑞银在危机中迅速稳定局势。埃尔莫蒂还探讨了瑞银的企业文化、领导力发展，以及瑞士在全球金融业中的独特地位，并对年轻一代提出了职业发展建议，强调了热情、灵活性和自我投资的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Sergio Ermotti
-  - James Gorman
-companies_orgs:
-  - UBS
-  - Credit Suisse
-  - Norges Bank Investment Management
-  - CitiBank
-  - Merrill Lynch
-products_models: []
-media_books: []
 status: evergreen
+summary: 瑞银集团首席执行官塞尔吉奥·埃尔莫蒂在访谈中回顾了其职业生涯，从早年的足球梦想转向银行业，并详细阐述了瑞银收购瑞士信贷的幕后决策与挑战。他分享了对瑞信商业模式不可持续性的看法，以及如何带领瑞银在危机中迅速稳定局势。埃尔莫蒂还探讨了瑞银的企业文化、领导力发展，以及瑞士在全球金融业中的独特地位，并对年轻一代提出了职业发展建议，强调了热情、灵活性和自我投资的重要性。
+tags:
+- business
+- corporate-culture
+- crisis-management
+- financial-regulation
+- industry
+- leadership-development
+title: 瑞银CEO埃尔莫蒂：从足球梦想、瑞信收购到全球金融领导力
 ---
+
 ### 从足球梦想走向全球金融
 
 今天，我们非常荣幸地欢迎全球金融界最具影响力的领导者之一，**瑞银集团**（UBS: 瑞士最大的银行之一，提供财富管理、投资银行等服务）首席执行官塞尔吉奥·埃尔莫蒂。

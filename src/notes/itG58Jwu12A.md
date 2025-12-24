@@ -1,40 +1,39 @@
 ---
-author: Norges Bank Investment Management
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Norges Bank Investment Management
+- Nvidia
 date: '2024-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+people:
+- Stan Druckenmiller
+- Nicola Tangan
+- George Soros
+products_models:
+- ChatGPT
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=itG58Jwu12A
 speaker: Norges Bank Investment Management
-tags:
-  - macro-investing
-  - economic-outlook
-  - budget-deficit
-  - ai-boom
-  - investment-strategy
-title: 传奇投资人斯坦·德鲁肯米勒：宏观展望、AI热潮与“先买后分析”投资哲学
-summary: 传奇投资人斯坦·德鲁肯米勒分享了其独特的投资方法和对当前宏观经济的看法。他强调从底层公司数据分析宏观趋势，并对美国预算赤字表示担忧。德鲁肯米勒还回顾了早期对AI（特别是英伟达）的投资，并阐述了“先买后分析”的投资策略。此外，他还提到了与乔治·索罗斯合作做空英镑的经典案例，并解释了2000年休假的原因。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Stan Druckenmiller
-  - Nicola Tangan
-  - George Soros
-companies_orgs:
-  - Norges Bank Investment Management
-  - Nvidia
-products_models:
-  - ChatGPT
-media_books:
-  - Financial Times
 status: evergreen
+summary: 传奇投资人斯坦·德鲁肯米勒分享了其独特的投资方法和对当前宏观经济的看法。他强调从底层公司数据分析宏观趋势，并对美国预算赤字表示担忧。德鲁肯米勒还回顾了早期对AI（特别是英伟达）的投资，并阐述了“先买后分析”的投资策略。此外，他还提到了与乔治·索罗斯合作做空英镑的经典案例，并解释了2000年休假的原因。
+tags:
+- budget-deficit
+- economic-outlook
+- investing
+- llm
+title: 传奇投资人斯坦·德鲁肯米勒：宏观展望、AI热潮与“先买后分析”投资哲学
 ---
+
 ### 引言
 
 大家好，欢迎收听本期播客的精简版，我们每周五都会推出；如果想收听完整版，请在周三收听。

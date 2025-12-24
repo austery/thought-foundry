@@ -1,44 +1,42 @@
 ---
-author: TechButMakeItReal
+area: society-systems
+category: career
+companies_orgs:
+- ZipRecruiter
+- Gartner
+- Deloitte
+- McKinsey
+- Amazon
+- AT&T
+- JPMorgan
+- KPMG
 date: '2025-02-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- ChatGPT
+- Claude
+- Reforge
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=yoUKVIHZoAs
 speaker: TechButMakeItReal
-tags:
-  - tech-job-market
-  - hiring-trends
-  - skill-shortages
-  - individual-contributors
-  - hybrid-work
-  - ai-in-hr
-title: 2025年科技就业市场与招聘趋势深度解析
-summary: 本文深入探讨了2025年科技就业市场的关键趋势，包括劳动力市场的平衡化、技能短缺的加剧、AI在绩效评估和招聘中的应用、个体贡献者职业路径的崛起，以及混合办公模式的普及和返岗政策的收紧。文章强调了适应市场变化、主动提升技能的重要性，并分析了这些趋势对求职者和企业的影响。
-insight: ''
-draft: true
-series: ''
-category: career
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people: []
-companies_orgs:
-  - ZipRecruiter
-  - Gartner
-  - Deloitte
-  - McKinsey
-  - Amazon
-  - AT&T
-  - JPMorgan
-  - KPMG
-products_models:
-  - ChatGPT
-  - Claude
-  - Reforge
-media_books: []
 status: evergreen
+summary: 本文深入探讨了2025年科技就业市场的关键趋势，包括劳动力市场的平衡化、技能短缺的加剧、AI在绩效评估和招聘中的应用、个体贡献者职业路径的崛起，以及混合办公模式的普及和返岗政策的收紧。文章强调了适应市场变化、主动提升技能的重要性，并分析了这些趋势对求职者和企业的影响。
+tags:
+- individual-contributor
+- llm
+- market
+- skill
+- trend
+- work
+title: 2025年科技就业市场与招聘趋势深度解析
 ---
+
 ### 2025年科技就业市场概览
 
 我将详细解析2025年科技就业市场的所有关键信息，包括劳动力市场的变化、技能要求、人工智能（AI）的影响以及人才招聘策略的调整。企业正积极推动员工返岗，AI已主导绩效评估，年轻一代不愿担任管理职位，“假装成功直到你真的成功”（fake it till you make it）的心态也终于开始消退。如果你还在使用ChatGPT撰写简历，那么你必须听听这些，希望我能说服你重新思考。我们将从招聘乐观情绪和劳动力市场韧性开始。

@@ -1,50 +1,50 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times Podcasts
+- Turning Point USA
+- Fox
+- Daily Wire
+- Federal Reserve
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Truth Social
+people:
+- Donald Trump
+- Charlie Kirk
+- Tucker Carlson
+- Nick Fuentes
+- Marjorie Taylor Greene
+- Mark Levin
+- Randy Fine
+- Ben Shapiro
+- JD Vance
+- Kanye West
+- Nicholas Maduro
+- trump-coalition
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=CfXoKJBpZAQ
 speaker: New York Times Podcasts
-tags:
-  - trump-coalition
-  - political-fragmentation
-  - america-first
-  - conservative-movement
-  - foreign-policy-debate
-title: 特朗普联盟的裂痕：保守派内部的挑战与“美国优先”的辩论
-summary: 本文深入探讨了唐纳德·特朗普政治联盟内部日益加剧的裂痕。从查理·柯克事件到塔克·卡尔森与尼克·富恩特斯的争议性访谈，再到马乔里·泰勒·格林从坚定盟友转变为批评者，揭示了保守派运动在核心理念和领导力上的分歧。文章分析了“美国优先”原则的演变及其对特朗普政治基础的影响，并探讨了这些内部动荡对美国政治格局的潜在长期后果。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Charlie Kirk
-  - Tucker Carlson
-  - Nick Fuentes
-  - Marjorie Taylor Greene
-  - Mark Levin
-  - Randy Fine
-  - Ben Shapiro
-  - JD Vance
-  - Kanye West
-  - Nicholas Maduro
-companies_orgs:
-  - New York Times Podcasts
-  - Turning Point USA
-  - Fox
-  - Daily Wire
-  - Federal Reserve
-products_models: []
-media_books:
-  - The Daily
-  - Truth Social
 status: evergreen
+summary: 本文深入探讨了唐纳德·特朗普政治联盟内部日益加剧的裂痕。从查理·柯克事件到塔克·卡尔森与尼克·富恩特斯的争议性访谈，再到马乔里·泰勒·格林从坚定盟友转变为批评者，揭示了保守派运动在核心理念和领导力上的分歧。文章分析了“美国优先”原则的演变及其对特朗普政治基础的影响，并探讨了这些内部动荡对美国政治格局的潜在长期后果。
+tags:
+- america-first
+- foreign-policy-debate
+- movement
+- political
+title: 特朗普联盟的裂痕：保守派内部的挑战与“美国优先”的辩论
 ---
+
 ### 特朗普联盟的裂痕与内部挑战
 
 自唐纳德·特朗普重返权力巅峰以来，他与他一手创建的运动之间日益公开的破裂，一直是令人惊讶的故事情节之一。从可负担性问题到对外战争，右翼的关键人物现在正大胆挑战特朗普的优先事项和他（在某些方面的）有效性。今天，我的同事罗伯特·德雷珀将探讨 MAGA 运动内部日益增长的紧张关系，以及这些关系告诉我们关于后特朗普时代美国右翼可能是什么样子。

@@ -1,33 +1,32 @@
 ---
-title: 美国化石燃料 vs. 中国清洁技术：出口竞赛谁是赢家？
-summary: 本期节目深入探讨了美国化石燃料出口与中国清洁技术出口之间的竞争，通过数据比较揭示了中国在清洁技术领域的领先地位，并讨论了全球能源转型中可再生能源超越煤炭发电的里程碑意义。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- clean-tech
-- energy-transition
-- fossil-fuels
-- renewable-energy
-- us-china-exports
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-14'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=YvZBCRYwk6s
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期节目深入探讨了美国化石燃料出口与中国清洁技术出口之间的竞争，通过数据比较揭示了中国在清洁技术领域的领先地位，并讨论了全球能源转型中可再生能源超越煤炭发电的里程碑意义。
+tags:
+- china
+- energy-transition
+- environment
+- renewable-energy
+- tech
+title: 美国化石燃料 vs. 中国清洁技术：出口竞赛谁是赢家？
 ---
+
 ### 清洁技术与化石燃料的出口竞赛
 
 Oscar Boyd: 欢迎收听《零度》。我是奥斯卡·博伊德。今天，我们将迎来清洁技术的一个里程碑。你好，阿特。

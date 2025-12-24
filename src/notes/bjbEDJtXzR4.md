@@ -1,36 +1,33 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 初日诊所
+- Cofit
 date: '2025-04-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 王律婷
+- 宋晏仁
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=bjbEDJtXzR4
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - child-growth
-  - childhood-obesity
-  - growth-hormone
-  - dietary-myths
-  - puberty-development
-title: 儿童成长迷思：肥胖阻碍长高？医生揭秘正确减重是关键
-summary: 本文由王律婷医师深入探讨儿童成长与体重管理之间的关系，破解“吃得多才长高”、“小时候胖不是胖”等常见迷思。文章指出，高糖高脂饮食导致的胰岛素过高会抑制生长激素，加速生长板闭合，从而影响最终身高。研究显示，青春期肥胖会减缓长高速度，而成功减重能让生长机制恢复正常。文章强调均衡饮食、摄取关键营养素和规律运动对孩子健康成长的极端重要性。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - 王律婷
-  - 宋晏仁
-companies_orgs:
-  - 初日诊所
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文由王律婷医师深入探讨儿童成长与体重管理之间的关系，破解“吃得多才长高”、“小时候胖不是胖”等常见迷思。文章指出，高糖高脂饮食导致的胰岛素过高会抑制生长激素，加速生长板闭合，从而影响最终身高。研究显示，青春期肥胖会减缓长高速度，而成功减重能让生长机制恢复正常。文章强调均衡饮食、摄取关键营养素和规律运动对孩子健康成长的极端重要性。
+tags:
+- development
+- growth
+- health
+title: 儿童成长迷思：肥胖阻碍长高？医生揭秘正确减重是关键
 ---
+
 ### 孩子长高与肥胖的迷思：科学破解成长陷阱
 
 你有没有发现班上比较胖的孩子，前面几年都长得比别人快？你以为他们是赢在起跑点吗？其实他们的生长速度可能提前见顶，甚至比其他孩子更快停止长高。你可能听长辈说过，“现在多吃一点没关系，这样才会长高”，“小时候的胖不是胖，长大就会瘦了”，“小孩不能减肥，这样会长不高”。那么，到底孩子应该怎么吃，才能真正长高但又不发胖呢？影响孩子身高的因素有80%来自遗传，20%来自后天。今天，我们将破解三个孩子成长的陷阱，并告诉你正确的减肥不但不会变矮，还有可能是长高的关键。如果你担心孩子的发育，又在跟长辈争论孩子该怎么吃，那么这一集可以帮助你利用科学反驳迷思。

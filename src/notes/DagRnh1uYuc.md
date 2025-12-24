@@ -1,30 +1,28 @@
 ---
-title: 因果百年战争：从高尔顿之迷到“赖特之钥”，看穿数据表象下的真因
-summary: 本集深入探讨相关性与因果关系的百年之争。从高尔顿发现“回归均值”到皮尔逊禁止讨论因果，再到赖特提出“路径分析”，揭示了人类如何逐步理解并量化因果效应，并提供了识别数据背后真正原因的思维工具。
 area: null
 category: null
-project: []
-tags:
-- causal-inference
-- correlation-vs-causation
-- data-science
-- sewall-wright
-- statistical-thinking
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-05'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DagRnh1uYuc
+speaker: 北美王路飞
 status: evergreen
+summary: 本集深入探讨相关性与因果关系的百年之争。从高尔顿发现“回归均值”到皮尔逊禁止讨论因果，再到赖特提出“路径分析”，揭示了人类如何逐步理解并量化因果效应，并提供了识别数据背后真正原因的思维工具。
+tags:
+- data
+- geopolitical
+- llm
+- society
+- thinking
+title: 因果百年战争：从高尔顿之迷到“赖特之钥”，看穿数据表象下的真因
 ---
+
 ### 引言：相关不等于因果的百年谜题
 
 大家好，欢迎来到本频道。今天我们将探讨一个核心问题：**相关**（correlation: 两件事物步调一致，共同变化）与**因果**（causation: 一件事导致另一件事发生）之间的区别。例如，有数据显示，在过去一百年里，全球人均巧克力消费越高的国家，诺贝尔奖得主就越多，相关性高达0.79。甚至有人在专业期刊上发表文章分析巧克力消耗与诺贝尔奖得主数量的关系。那么，按照这个结论，中国若想获得更大的科学进步，是否应该囤积并储备大量巧克力作为战略物资呢？

@@ -1,44 +1,43 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-04-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Courage to Be Disliked
+- Inferiority and Self-Awareness
+- Learning to Protect Aging Parents from Adler
+- Book of Rites
+- Chosun Ilbo
+people:
+- Ichiro Kishimi
+- Alfred Adler
+- Michel Foucault
+- Pol Pot
+- Jean-Jacques Rousseau
+- Immanuel Kant
+- Friedrich Nietzsche
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=JZ76ZFJC7bA
 speaker: Anthony看世界
-tags:
-  - japanese-individualism
-  - adlerian-psychology
-  - courage-to-be-disliked
-  - self-exploration
-  - east-asian-freedom
-title: 《被讨厌的勇气》：日本式个人主义如何扭曲东亚的自由观？
-summary: 本文深入剖析了畅销书《被讨厌的勇气》及其所倡导的日本式个人主义。作者认为，该书的“目的论”是一种低成本的心理慰藉，忽视了社会结构和个人历史的复杂性，甚至可能演变为自我暴政。文章通过对比阿德勒的原始思想，揭示了《被讨厌的勇气》如何扭曲了西方自由主义，并结合作者岸见一郎的个人经历，探讨了其哲学思想背后隐藏的痛苦与妥协，以及这种东亚式个人主义与西方个人主义的本质差异，强调了深入自我探索而非简单阅读的重要性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-  - historical-insights
-people:
-  - Ichiro Kishimi
-  - Alfred Adler
-  - Michel Foucault
-  - Pol Pot
-  - Jean-Jacques Rousseau
-  - Immanuel Kant
-  - Friedrich Nietzsche
-companies_orgs: []
-products_models: []
-media_books:
-  - The Courage to Be Disliked
-  - Inferiority and Self-Awareness
-  - Learning to Protect Aging Parents from Adler
-  - Book of Rites
-  - Chosun Ilbo
 status: evergreen
+summary: 本文深入剖析了畅销书《被讨厌的勇气》及其所倡导的日本式个人主义。作者认为，该书的“目的论”是一种低成本的心理慰藉，忽视了社会结构和个人历史的复杂性，甚至可能演变为自我暴政。文章通过对比阿德勒的原始思想，揭示了《被讨厌的勇气》如何扭曲了西方自由主义，并结合作者岸见一郎的个人经历，探讨了其哲学思想背后隐藏的痛苦与妥协，以及这种东亚式个人主义与西方个人主义的本质差异，强调了深入自我探索而非简单阅读的重要性。
+tags:
+- adlerian-psychology
+- freedom
+- geopolitical
+- llm
+- self
+title: 《被讨厌的勇气》：日本式个人主义如何扭曲东亚的自由观？
 ---
 
 ### 对《被讨厌的勇气》的批判性反思

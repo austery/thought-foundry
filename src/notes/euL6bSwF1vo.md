@@ -1,34 +1,34 @@
 ---
-title: Analysis of US Government Shutdown Impact, Trump's Gaza Plan, and the US-China
-  Soybean Standoff
-summary: This video discusses the impact of the US government shutdown on economic
-  data releases, Trump's Gaza peace plan, and the ongoing tension in US-China trade
-  relations centered on soybean purchases.
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- government-shutdown
-- soybeans
-- trade-war
-- us-china-relations
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: 2025-10-04
-author: LT視界
-speaker: LT視界
 draft: true
 guest: null
 insight: null
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: null
 source: https://www.youtube.com/watch?v=euL6bSwF1vo
+speaker: LT視界
 status: evergreen
+summary: This video discusses the impact of the US government shutdown on economic
+  data releases, Trump's Gaza peace plan, and the ongoing tension in US-China trade
+  relations centered on soybean purchases.
+tags:
+- government-shutdown
+- soybean
+- trade-war
+- us-china-relations
+title: Analysis of US Government Shutdown Impact, Trump's Gaza Plan, and the US-China
+  Soybean Standoff
 ---
+
 # 2025年10月3日 重要新闻分享
 
 ## 1. 财经头条 (Financial Headlines)

@@ -1,168 +1,167 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: politics-society
+companies_orgs:
+- AMD
+- SMCI
+- Lemonade
+- McDonald's
+- SoFi
+- Grab
+- Nvidia
+- Palantir
+- Robinhood
+- Tesla
+- Oracle
+- OpenAI
+- CrowdStrike
+- CoreWeave
+- Nebius
+- Iren
+- Ripple
+- Fortress
+- Citadel Securities
+- Unity
+- SolarEdge
+- Enphase
+- Zeta
+- Axon
+- Google
+- Meta
+- Microsoft
+- Neoscale
+- Evercore
+- Jefferies
+- Mizuho
+- Benchmark
+- BMR
+- D-Wave
+- BASF
+- Schwab
+- Duolingo
+- AppLovin
+- ARM
+- Fortinet
+- e.l.f. Beauty
+- Joby Aviation
+- EOSE
+- Snapchat
+- DoorDash
+- Lyft
+- FICO
+- Dutch Bros
+- HubSpot
+- Qualcomm
+- Salesforce
+- PayPal
+- Apple
+- Amazon
+- Circle
+- Palo Alto Networks
+- MicroStrategy
+- Hims & Hers Health
+- Uber
+- Roblox
+- Reddit
+- Tempest
+- Arista Networks
+- Astera Labs
+- Riot Platforms
+- Galaxy Digital
+- Applied Digital
+- Cipher Mining
+- CleanSpark
+- Upstart
+- Kratos Defense & Security Solutions
+- Rivian
+- Monroe
+- Pinterest
+- Fubo
+- Fiverr
+- Upwork
+- Eli Lilly
+- Novo Nordisk
+- Snowflake
+- C3.ai
+- BigBear.ai
+- Bloom Energy
+- Terawulf
+- American Airlines
+- UPS
+- BMW
+- Samsung
+- Supreme Court
+- Congress
+- Treasury
+- Democratic Party
+- Republican Party
+- Federal Reserve
+- ADP
+- Institute for Supply Management
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 60 Minutes
+- Think and Grow Rich
+- A Christmas Story
+- The Incredibles
+- Doogie Howser, M.D.
+- Napoleon Dynamite
+- Superbad
+- Animal House
+- How I Met Your Mother
+people:
+- Mandani
+- Cuomo
+- Silva
+- Donald Trump
+- Bill Ackman
+- Steve Liesman
+- Larry Ellison
+- Vladimir Putin
+- Caroline Leavitt
+- Scott Besson
+- Tom Lee
+- Michael Burry
+- Julian Emanuel
+- Vlad Tenev
+- Sawyer Merritt
+- Jason DeBolt
+- Elon Musk
+- Rick Santelli
+- David Faber
+- David Rosenberg
+- Alex Karp
+- Carl Icahn
+- Neil Patrick Harris
+products_models:
+- Ethereum
+- Bitcoin
+- XRP
+- MI450
+- Blackwell
+- R2
+- Ozempic
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Bbp-Vhk_Vic
 speaker: Amit Kukreja
-tags:
-  - market-volatility
-  - earnings-season
-  - us-politics
-  - economic-data
-  - crypto-market
-title: 市场解读：选举尘埃落定，加密货币企稳，财报季喜忧参半
-summary: 本期市场分析深入探讨了近期关键事件的影响。美国选举中民主党的全面胜利为市场带来了确定性，促使隔夜经历“血洗”的加密货币和股市出现反弹。尽管ADP私营部门就业数据超出预期，但细节显示小型企业面临压力，暗示经济复苏不均。财报季方面，Lemonade和AMD等公司表现强劲，而其他公司则喜忧参半。同时，市场密切关注政府停摆的解决方案以及最高法院对特朗普关税政策的审理，这些因素共同塑造了当前复杂且充满变数的投资环境。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Mandani
-  - Cuomo
-  - Silva
-  - Donald Trump
-  - Bill Ackman
-  - Steve Liesman
-  - Larry Ellison
-  - Vladimir Putin
-  - Caroline Leavitt
-  - Scott Besson
-  - Tom Lee
-  - Michael Burry
-  - Julian Emanuel
-  - Vlad Tenev
-  - Sawyer Merritt
-  - Jason DeBolt
-  - Elon Musk
-  - Rick Santelli
-  - David Faber
-  - David Rosenberg
-  - Alex Karp
-  - Carl Icahn
-  - Neil Patrick Harris
-companies_orgs:
-  - AMD
-  - SMCI
-  - Lemonade
-  - McDonald's
-  - SoFi
-  - Grab
-  - Nvidia
-  - Palantir
-  - Robinhood
-  - Tesla
-  - Oracle
-  - OpenAI
-  - CrowdStrike
-  - CoreWeave
-  - Nebius
-  - Iren
-  - Ripple
-  - Fortress
-  - Citadel Securities
-  - Unity
-  - SolarEdge
-  - Enphase
-  - Zeta
-  - Axon
-  - Google
-  - Meta
-  - Microsoft
-  - Neoscale
-  - Evercore
-  - Jefferies
-  - Mizuho
-  - Benchmark
-  - BMR
-  - D-Wave
-  - BASF
-  - Schwab
-  - Duolingo
-  - AppLovin
-  - ARM
-  - Fortinet
-  - e.l.f. Beauty
-  - Joby Aviation
-  - EOSE
-  - Snapchat
-  - DoorDash
-  - Lyft
-  - FICO
-  - Dutch Bros
-  - HubSpot
-  - Qualcomm
-  - Salesforce
-  - PayPal
-  - Apple
-  - Amazon
-  - Circle
-  - Palo Alto Networks
-  - MicroStrategy
-  - Hims & Hers Health
-  - Uber
-  - Roblox
-  - Reddit
-  - Tempest
-  - Arista Networks
-  - Astera Labs
-  - Riot Platforms
-  - Galaxy Digital
-  - Applied Digital
-  - Cipher Mining
-  - CleanSpark
-  - Upstart
-  - Kratos Defense & Security Solutions
-  - Rivian
-  - Monroe
-  - Pinterest
-  - Fubo
-  - Fiverr
-  - Upwork
-  - Eli Lilly
-  - Novo Nordisk
-  - Snowflake
-  - C3.ai
-  - BigBear.ai
-  - Bloom Energy
-  - Terawulf
-  - American Airlines
-  - UPS
-  - BMW
-  - Samsung
-  - Supreme Court
-  - Congress
-  - Treasury
-  - Democratic Party
-  - Republican Party
-  - Federal Reserve
-  - ADP
-  - Institute for Supply Management
-products_models:
-  - Ethereum
-  - Bitcoin
-  - XRP
-  - MI450
-  - Blackwell
-  - R2
-  - Ozempic
-media_books:
-  - 60 Minutes
-  - Think and Grow Rich
-  - A Christmas Story
-  - The Incredibles
-  - Doogie Howser, M.D.
-  - Napoleon Dynamite
-  - Superbad
-  - Animal House
-  - How I Met Your Mother
 status: evergreen
+summary: 本期市场分析深入探讨了近期关键事件的影响。美国选举中民主党的全面胜利为市场带来了确定性，促使隔夜经历“血洗”的加密货币和股市出现反弹。尽管ADP私营部门就业数据超出预期，但细节显示小型企业面临压力，暗示经济复苏不均。财报季方面，Lemonade和AMD等公司表现强劲，而其他公司则喜忧参半。同时，市场密切关注政府停摆的解决方案以及最高法院对特朗普关税政策的审理，这些因素共同塑造了当前复杂且充满变数的投资环境。
+tags:
+- crypto-market
+- earnings-season
+- economic-datum
+- market-volatility
+title: 市场解读：选举尘埃落定，加密货币企稳，财报季喜忧参半
 ---
+
 ### 选举尘埃落定与市场隔夜动荡
 
 大家早上好，欢迎回到新一期的市场开盘直播。现在是11月5日，星期三。我们有很多事情要谈。昨天有大量的财报发布，我们稍后会深入探讨。昨天还举行了大量选举，民主党在全国范围内几乎大获全胜，包括纽约市。Zoron（应为 Mandani）现在是纽约市长。

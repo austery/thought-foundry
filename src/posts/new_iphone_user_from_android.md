@@ -4,12 +4,11 @@ summary: null
 area: null
 category: null
 project: []
-tags:
-  - iphone指南
-people: []
+tags: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- iphone指南
 date: 2025-07-27
 author: Lei
 speaker: Google Gemini
@@ -20,6 +19,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 欢迎来到您的新iPhone世界
 
 亲爱的爸爸妈妈：

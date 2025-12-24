@@ -1,94 +1,94 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- OpenAI
+- Microsoft
+- Palantir
+- Grab
+- Nvidia
+- AMD
+- Oracle
+- Google
+- Amazon
+- Meta
+- Apple
+- Tesla
+- Ford
+- GM
+- Berkshire Hathaway
+- CBS
+- Fox
+- The Wall Street Journal
+- CNBC
+- Substack
+- Nebius
+- Reddit
+- XAI
+- TSMC
+- Foxconn
+- Broadcom
+- Chipotle
+- Lululemon
+- Procter & Gamble
+- Robin Hood
+- SoFi
+- PayPal
+- Hims
+- Bitmine
+- JP Morgan
+- Reserve Bank of India
+- Binance
+- IRS
+- Anduril
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Compound and Friends
+- earnings-preview
+people:
+- Donald Trump
+- Sam Altman
+- Satya Nadella
+- Warren Buffett
+- Brad Gersonner
+- Jensen Huang
+- Lisa Su
+- Alex Karp
+- Elon Musk
+- Jerome Powell
+- Steven Mnuchin
+- Bill Ackman
+- Changpeng Zhao
+- Xi Jinping
+- Vladimir Putin
+products_models:
+- Blackwell
+- ChatGPT
+- Gemini
+- Azure
+- GitHub
+- Vera Rubin
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=r7TVxsbZ3lw
 speaker: Amit Kukreja
-tags:
-  - wealth-effect
-  - us-china-trade
-  - ai-investment-bubble
-  - consumer-economy
-  - earnings-preview
-title: 特朗普确认中美协议，市场展望11月：OpenAI争议与Palantir财报前瞻
-summary: 本周市场展望深入探讨了特朗普确认中美达成新贸易协议对市场情绪的提振作用，并分析了其对英伟达等科技公司的潜在影响。同时，节目剖析了Sam Altman在访谈中引发争议的言论，凸显了OpenAI在AI生态中的“大到不能倒”地位。文章还揭示了美国经济中“财富效应”与底层消费疲软的分化现象，并对Palantir和Grab等公司即将发布的财报进行了详细前瞻。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Sam Altman
-  - Satya Nadella
-  - Warren Buffett
-  - Brad Gersonner
-  - Jensen Huang
-  - Lisa Su
-  - Alex Karp
-  - Elon Musk
-  - Jerome Powell
-  - Steven Mnuchin
-  - Bill Ackman
-  - Changpeng Zhao
-  - Xi Jinping
-  - Vladimir Putin
-companies_orgs:
-  - OpenAI
-  - Microsoft
-  - Palantir
-  - Grab
-  - Nvidia
-  - AMD
-  - Oracle
-  - Google
-  - Amazon
-  - Meta
-  - Apple
-  - Tesla
-  - Ford
-  - GM
-  - Berkshire Hathaway
-  - CBS
-  - Fox
-  - The Wall Street Journal
-  - CNBC
-  - Substack
-  - Nebius
-  - Reddit
-  - XAI
-  - TSMC
-  - Foxconn
-  - Broadcom
-  - Chipotle
-  - Lululemon
-  - Procter & Gamble
-  - Robin Hood
-  - SoFi
-  - PayPal
-  - Hims
-  - Bitmine
-  - JP Morgan
-  - Reserve Bank of India
-  - Binance
-  - IRS
-  - Anduril
-products_models:
-  - Blackwell
-  - ChatGPT
-  - Gemini
-  - Azure
-  - GitHub
-  - Vera Rubin
-media_books:
-  - The Compound and Friends
 status: evergreen
+summary: 本周市场展望深入探讨了特朗普确认中美达成新贸易协议对市场情绪的提振作用，并分析了其对英伟达等科技公司的潜在影响。同时，节目剖析了Sam Altman在访谈中引发争议的言论，凸显了OpenAI在AI生态中的“大到不能倒”地位。文章还揭示了美国经济中“财富效应”与底层消费疲软的分化现象，并对Palantir和Grab等公司即将发布的财报进行了详细前瞻。
+tags:
+- ai-investment-bubble
+- economy
+- us-china-relations
+- wealth
+title: 特朗普确认中美协议，市场展望11月：OpenAI争议与Palantir财报前瞻
 ---
+
 ### 11月市场开局展望
 大家好，欢迎回到新一期的周日市场期货节目。我们提前三分钟开始了直播，因为我已经准备就绪，不如直接开始。感谢大家的到来，希望各位度过了一个愉快的周末。朋友们，11月正式开始了，这感觉有点疯狂。2025年只剩下两个月了，今天是11月2日。今年过得相当快。10月份的股市跌宕起伏，上周我们讨论了美联储和大型科技公司财报等大量事件。但10月已经结束，我们进入了新的月份。
 

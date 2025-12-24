@@ -1,55 +1,55 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: business
+companies_orgs:
+- New York Times
+- Amazon
+- Walmart
+- UPS
+- DHL
+- ICE
+- CBS
+- KA
 date: '2025-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- 60 Minutes
+people:
+- Natalie Kitroof
+- Karen Weise
+- Jeff Bezos
+- Andy Jasse
+- Donald Trump
+- Vladimir Putin
+- Xi Jinping
+- Nicholas Maduro
+- JD Vance
+- Marco Rubio
+products_models:
+- Sparrow
+- LLM models
+project:
+- ai-impact-analysis
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Sdwd_CXBNuo
 speaker: New York Times Podcasts
-tags:
-  - automation-impact
-  - labor-market
-  - warehouse-logistics
-  - corporate-strategy
-  - ai-robotics
-title: 亚马逊的机器人革命：自动化如何重塑美国劳动力市场
-summary: 随着劳动力市场降温和人工智能的蓬勃发展，亚马逊正计划利用机器人取代数十万个工作岗位。本文深入探讨了亚马逊的内部战略文件，揭示其到2033年实现75%运营自动化的宏伟目标。文章分析了亚马逊自动化战略的演变、成本驱动因素、先进仓库的运作模式，以及这对美国就业市场和社会适应能力带来的深远影响。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - Natalie Kitroof
-  - Karen Weise
-  - Jeff Bezos
-  - Andy Jasse
-  - Donald Trump
-  - Vladimir Putin
-  - Xi Jinping
-  - Nicholas Maduro
-  - JD Vance
-  - Marco Rubio
-companies_orgs:
-  - New York Times
-  - Amazon
-  - Walmart
-  - UPS
-  - DHL
-  - ICE
-  - CBS
-  - KA
-products_models:
-  - Sparrow
-  - LLM models
-media_books:
-  - The Daily
-  - 60 Minutes
 status: evergreen
+summary: 随着劳动力市场降温和人工智能的蓬勃发展，亚马逊正计划利用机器人取代数十万个工作岗位。本文深入探讨了亚马逊的内部战略文件，揭示其到2033年实现75%运营自动化的宏伟目标。文章分析了亚马逊自动化战略的演变、成本驱动因素、先进仓库的运作模式，以及这对美国就业市场和社会适应能力带来的深远影响。
+tags:
+- ai-robotic
+- automation-impact
+- corporate-strategy
+- geopolitical
+- labor-market
+title: 亚马逊的机器人革命：自动化如何重塑美国劳动力市场
 ---
+
 ### 亚马逊的机器人革命：劳动力市场的新篇章
 
 来自《纽约时报》，我是娜塔莉·基特鲁夫，这里是《The Daily》。

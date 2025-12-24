@@ -1,76 +1,76 @@
 ---
-author: Bloomberg Podcasts
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Bloomberg
+- Quality Sprays.com
+- OpenAI
+- Persec Technologies
+- Peptide Partners
+- FDA
+- DEA
+- HHS
+- YC
+- UPS
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Odd Thoughts》
+- LessWrong
+- Substack
+- Telegram
+- Discord
+- TikTok
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Jasmine Sun
+- Zach David
+- Will Dep Pew
+- Joe Rogan
+- Andrew Huberman
+- RFK Jr.
+- DA Wallik
+products_models:
+- Oxytocin
+- GLP-1
+- Wegovy
+- Retatride
+- Ozempic
+- BPC-157
+- Melanotan
+- Epalon
+- Cax
+- Semaglutide
+- Tirzepatide
+- Sermorelin
+- AOD9604
+- PT-141
+- Vyleesi
+- Viagra
+- Adderall
+- iPhone
+- Instagram
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=QErGuO-mtfc
 speaker: Bloomberg Podcasts
-tags:
-  - peptide
-  - biohacking
-  - supply-chain
-  - regulation
-  - san-francisco-culture
-  - looks-maxing
-title: 中国肽类药物的灰色市场与硅谷生物黑客文化
-summary: 本期播客深入探讨了肽类药物的蓬勃发展，特别是来自中国的肽类产品。嘉宾**Jasmine Sun**和**Zach David**揭示了**旧金山**科技界的生物黑客文化、实验性肽的**灰色市场**及其复杂的**供应链**。讨论内容包括许多肽类药物缺乏**FDA**批准、用户的高风险承受能力，以及在“优化伦理”和“颜值最大化”趋势驱动下，这一快速扩张行业的监管未来。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Jasmine Sun
-  - Zach David
-  - Will Dep Pew
-  - Joe Rogan
-  - Andrew Huberman
-  - RFK Jr.
-  - DA Wallik
-companies_orgs:
-  - Bloomberg
-  - Quality Sprays.com
-  - OpenAI
-  - Persec Technologies
-  - Peptide Partners
-  - FDA
-  - DEA
-  - HHS
-  - YC
-  - UPS
-products_models:
-  - Oxytocin
-  - GLP-1
-  - Wegovy
-  - Retatride
-  - Ozempic
-  - BPC-157
-  - Melanotan
-  - Epalon
-  - Cax
-  - Semaglutide
-  - Tirzepatide
-  - Sermorelin
-  - AOD9604
-  - PT-141
-  - Vyleesi
-  - Viagra
-  - Adderall
-  - iPhone
-  - Instagram
-media_books:
-  - 《Odd Thoughts》
-  - LessWrong
-  - Substack
-  - Telegram
-  - Discord
-  - TikTok
 status: evergreen
+summary: 本期播客深入探讨了肽类药物的蓬勃发展，特别是来自中国的肽类产品。嘉宾**Jasmine Sun**和**Zach David**揭示了**旧金山**科技界的生物黑客文化、实验性肽的**灰色市场**及其复杂的**供应链**。讨论内容包括许多肽类药物缺乏**FDA**批准、用户的高风险承受能力，以及在“优化伦理”和“颜值最大化”趋势驱动下，这一快速扩张行业的监管未来。
+tags:
+- culture
+- health
+- looks-maxing
+- regulation
+- science
+- supply-chain
+title: 中国肽类药物的灰色市场与硅谷生物黑客文化
 ---
+
 ### 肽类药物的初探
 
 欢迎收听**Odd Thoughts**播客，主持人**Tracy Alloway**和**Joe Weisenthal**在本期节目中探讨了肽类药物的兴起。**Tracy**为**Joe**带来了一份特别的圣诞礼物——一瓶名为**催产素**（Oxytocin: 一种肽类激素，在怀孕、分娩和社交互动中产生，可增强亲密感和信任）的喷雾。**Joe**对此感到惊讶，误以为是违禁药物，但**Tracy**解释说这是在**亚马逊**上以60美元购买的合法产品。**Joe**提到**肽**（Peptide: 由短链氨基酸组成，是蛋白质的组成部分）这个词最近频繁出现，但对它的具体定义并不清楚。

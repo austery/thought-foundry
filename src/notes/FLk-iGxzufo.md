@@ -1,42 +1,43 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: culture
+companies_orgs:
+- Airbnb
+- RBC
+- Canadian Tire
+- KFC
+- McDonald's
+- TD银行
 date: '2024-07-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 莊也雜談
+people:
+- John Cabot
+- 哥伦布
+products_models:
+- Matthew号
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=FLk-iGxzufo
 speaker: 莊也雜談
-tags:
-  - newfoundland-travel
-  - canadian-history
-  - coastal-tourism
-  - town-development
-  - cultural-heritage
-title: 纽芬兰自驾游第四天：博纳维斯塔的历史回响与甘德的转型之路
-summary: 本期节目继续分享纽芬兰自驾游的第四天行程。主持人庄也带领观众深入博纳维斯塔，探访约翰·卡伯特登陆传说地、渔业历史与特色小镇风貌，品尝纽芬兰鱼饼。随后，游览了丹珍省立公园的海蚀奇观和海鹦观赏地，并因天气原因遗憾错过了Skerwink Trail。在历史悠久的Trinity古镇感受独特风情后，抵达Terra Nova国家公园，并最终探索了因机场而兴的甘德小镇，揭示其作为功能性城镇的独特历史与转型挑战，并分享了华人移民的故事。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - John Cabot
-  - 哥伦布
-companies_orgs:
-  - Airbnb
-  - RBC
-  - Canadian Tire
-  - KFC
-  - McDonald's
-  - TD银行
-products_models:
-  - Matthew号
-media_books:
-  - 莊也雜談
 status: evergreen
+summary: 本期节目继续分享纽芬兰自驾游的第四天行程。主持人庄也带领观众深入博纳维斯塔，探访约翰·卡伯特登陆传说地、渔业历史与特色小镇风貌，品尝纽芬兰鱼饼。随后，游览了丹珍省立公园的海蚀奇观和海鹦观赏地，并因天气原因遗憾错过了Skerwink
+  Trail。在历史悠久的Trinity古镇感受独特风情后，抵达Terra Nova国家公园，并最终探索了因机场而兴的甘德小镇，揭示其作为功能性城镇的独特历史与转型挑战，并分享了华人移民的故事。
+tags:
+- coastal-tourism
+- cultural-heritage
+- development
+- history
+- newfoundland-travel
+title: 纽芬兰自驾游第四天：博纳维斯塔的历史回响与甘德的转型之路
 ---
+
 ### 纽芬兰自驾游第四天：博纳维斯塔的探索与历史更正
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续讲述在纽芬兰的自驾游之旅。在开始第四天的行程之前，首先要更正上一集的一个错误。之前提到在大雾中行驶建议大家打开**雾灯**（Fog Lights: 一种在雾、雪或雨天提高能见度，且光线射程较短的车灯），但配图却错误地放成了**近光灯**（Low Beam Headlights: 用于夜间或能见度低时照明前方道路的常规车灯）。在此向细心的小伙伴们道歉，雾灯的正确样式请大家注意区分。

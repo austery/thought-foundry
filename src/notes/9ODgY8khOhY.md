@@ -1,37 +1,38 @@
 ---
-author: TVO Today
+area: market-analysis
+category: finance
+companies_orgs:
+- Wasserman Business Law
+- Competition Bureau
+- TVO Today
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Private Equity Playbook How Buyout Firms Extract Rather Than Build Value and
+  What to Do about It
+people:
+- Rachel Wasserman
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=9ODgY8khOhY
 speaker: TVO Today
-tags:
-  - private-equity
-  - buyout-funds
-  - economic-consolidation
-  - regulatory-gaps
-  - capitalism-perversion
-title: 私募股权投资的代价：当资本渗透日常商业，我们失去了什么？
-summary: 私募股权公司正大举收购那些能产生稳定现金流的日常业务，这引发了专家们对服务质量和市场竞争的担忧。本文深入探讨了私募股权的运作方式，特别是其“收购基金”模式如何通过高杠杆和债务来获取价值，而非创造价值。嘉宾Rachel Wasserman解释了这种模式对加拿大经济、企业家精神和消费者造成的深远影响，以及现有监管框架的不足。文章呼吁公众关注资本整合对社会公平和未来向上流动性的潜在威胁。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Rachel Wasserman
-companies_orgs:
-  - Wasserman Business Law
-  - Competition Bureau
-  - TVO Today
-products_models: []
-media_books:
-  - The Private Equity Playbook How Buyout Firms Extract Rather Than Build Value and What to Do about It
 status: evergreen
+summary: 私募股权公司正大举收购那些能产生稳定现金流的日常业务，这引发了专家们对服务质量和市场竞争的担忧。本文深入探讨了私募股权的运作方式，特别是其“收购基金”模式如何通过高杠杆和债务来获取价值，而非创造价值。嘉宾Rachel
+  Wasserman解释了这种模式对加拿大经济、企业家精神和消费者造成的深远影响，以及现有监管框架的不足。文章呼吁公众关注资本整合对社会公平和未来向上流动性的潜在威胁。
+tags:
+- economic
+- gap
+- investment
+- private-equity
+title: 私募股权投资的代价：当资本渗透日常商业，我们失去了什么？
 ---
+
 ### 引言：什么是私募股权？
 
 主持人：你知道谁拥有你家附近的兽医诊所吗？街角的牙科诊所呢？私募股权公司正在收购那些能产生稳定现金流的企业，这让一些专家对服务质量和市场竞争感到担忧。

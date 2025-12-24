@@ -1,60 +1,59 @@
 ---
-author: 记者易速利
+area: society-thinking
+category: politics-society
+companies_orgs:
+- New York Times
+- The New Yorker
+- Columbia University
+- Sloan Kettering Cancer Center
+- FBI
+- FDA
+- NIH
+- Presbyterian Hospital
+- Vogue
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《隐形消费》
+- 《纽约客》
+- 《华盛顿邮报》
+people:
+- Tatiana Schlosberg
+- Caroline Kennedy
+- John F. Kennedy
+- Jacqueline Kennedy
+- Robert Kennedy Jr.
+- Donald Trump
+- Joe Biden
+- Ethel Kennedy
+- Douglas Kennedy
+- Edward Kennedy
+- Maria Shriver
+- Arnold Schwarzenegger
+- Taylor Swift
+- Jack Schlossberg
+products_models:
+- MRNA疫苗
+- 米索前列醇
+project:
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=weDueAfBaWY
 speaker: 记者易速利
-tags:
-  - political-dynasty
-  - family-legacy
-  - political-polarization
-  - vaccine-hesitancy
-  - american-politics
-title: 肯尼迪家族的陨落：昔日政治王朝的悲剧、纷争与未来
-summary: 本文讲述了肯尼迪家族的现状，包括家族成员的悲剧、政治立场的分裂以及未来的发展。重点关注了卡迪安娜·施洛斯伯格与病魔抗争的故事，以及小罗伯特·肯尼迪的政治立场对家族造成的冲击。文章也探讨了肯尼迪家族的团结与分裂，以及这个家族在美国政治中的历史地位和未来走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - us-analysis
-people:
-  - Tatiana Schlosberg
-  - Caroline Kennedy
-  - John F. Kennedy
-  - Jacqueline Kennedy
-  - Robert Kennedy Jr.
-  - Donald Trump
-  - Joe Biden
-  - Ethel Kennedy
-  - Douglas Kennedy
-  - Edward Kennedy
-  - Maria Shriver
-  - Arnold Schwarzenegger
-  - Taylor Swift
-  - Jack Schlossberg
-companies_orgs:
-  - New York Times
-  - The New Yorker
-  - Columbia University
-  - Sloan Kettering Cancer Center
-  - FBI
-  - FDA
-  - NIH
-  - Presbyterian Hospital
-  - Vogue
-products_models:
-  - MRNA疫苗
-  - 米索前列醇
-media_books:
-  - 《隐形消费》
-  - 《纽约客》
-  - 《华盛顿邮报》
 status: evergreen
+summary: 本文讲述了肯尼迪家族的现状，包括家族成员的悲剧、政治立场的分裂以及未来的发展。重点关注了卡迪安娜·施洛斯伯格与病魔抗争的故事，以及小罗伯特·肯尼迪的政治立场对家族造成的冲击。文章也探讨了肯尼迪家族的团结与分裂，以及这个家族在美国政治中的历史地位和未来走向。
+tags:
+- family
+- health
+- political
+- politics
+title: 肯尼迪家族的陨落：昔日政治王朝的悲剧、纷争与未来
 ---
+
 ### 肯尼迪家族：一个政治王朝的兴衰
 
 肯尼迪家族，这个名字常常让人联想到历史、政治和悲剧。但在这背后，是一个非常真实、非常现代的家庭，他们正努力在生活中互相扶持。

@@ -1,54 +1,54 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 雅各宾派
+- 平等密谋社
+- 苏共
 date: '2025-09-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《畅怀录》
+- 《论人类不平等的起源与基础》
+- 《人民讲坛》
+- 《为平等的密谋》
+people:
+- 卢梭
+- 巴贝夫
+- 福尔泰
+- 鲁迅
+- 胡适
+- 狄德罗
+- 马拉
+- 罗伯斯比尔
+- 路易十六
+- 列宁
+- 斯大林
+- 波尔布特
+- 马克思
+- 恩格斯
+- 司马南
+products_models: []
+project:
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=lDuHOTxx6fc
 speaker: 夸克说
-tags:
-  - communism-history
-  - political-philosophy
-  - totalitarianism
-  - social-contract
-  - vanguard-party
-title: 共产主义思想的谱系：卢梭与巴贝夫的理论贡献与批判
-summary: 本期节目深入探讨了共产主义思想在法国大革命前后的演变，聚焦于两位关键人物：卢梭和巴贝夫。文章首先介绍了卢梭的生平、性格及其核心理论，包括私有财产是万恶之源、公益概念和公民宗教，并对其论证过程进行了批判性分析。随后，节目转向巴贝夫，这位被视为共产教第五代教主的人物，详细阐述了他关于彻底消灭私有制、建立平等共和国、先锋队理论和独裁专政等激进主张，揭示了其理论对后世共产主义运动的深远影响，以及与极权主义的内在联系。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 卢梭
-  - 巴贝夫
-  - 福尔泰
-  - 鲁迅
-  - 胡适
-  - 狄德罗
-  - 马拉
-  - 罗伯斯比尔
-  - 路易十六
-  - 列宁
-  - 斯大林
-  - 波尔布特
-  - 马克思
-  - 恩格斯
-  - 司马南
-companies_orgs:
-  - 雅各宾派
-  - 平等密谋社
-  - 苏共
-products_models: []
-media_books:
-  - 《畅怀录》
-  - 《论人类不平等的起源与基础》
-  - 《人民讲坛》
-  - 《为平等的密谋》
 status: evergreen
+summary: 本期节目深入探讨了共产主义思想在法国大革命前后的演变，聚焦于两位关键人物：卢梭和巴贝夫。文章首先介绍了卢梭的生平、性格及其核心理论，包括私有财产是万恶之源、公益概念和公民宗教，并对其论证过程进行了批判性分析。随后，节目转向巴贝夫，这位被视为共产教第五代教主的人物，详细阐述了他关于彻底消灭私有制、建立平等共和国、先锋队理论和独裁专政等激进主张，揭示了其理论对后世共产主义运动的深远影响，以及与极权主义的内在联系。
+tags:
+- history
+- party
+- political-philosophy
+- social
+- totalitarianism
+title: 共产主义思想的谱系：卢梭与巴贝夫的理论贡献与批判
 ---
+
 ### 共产主义思想的第四代掌门人：卢梭
 
 在上一期节目的后半段，我们探讨了**共产教**（Communist cult: 一种将共产主义意识形态比作宗教信仰的说法）的第三代代表人物**梅梅**（Gabriel Bonnot de Mably: 法国启蒙思想家，早期共产主义思想的倡导者），并介绍了他的理论贡献。然而，存在一个关键问题：梅梅的著作是在他去世后才得以出版的，并且在很长一段时间内，市面上流传的都是经过**福尔泰**（Voltaire: 法国启蒙思想家，本名弗朗索瓦-马利·阿鲁埃）删改的版本。这个删改版彻底删除了梅梅的无神论和共产主义思想，仅保留了他对教会的批判。这导致在随后的几十年里，梅梅的理论影响力极其有限，几乎无人知晓。换言之，共产教这一新兴的意识形态虽然已经具备了理论基础，但仍需要一位能够将其发扬光大的人物。这位人物便是我们接下来要介绍的第四代掌门人，大名鼎鼎的**卢梭**（Jean-Jacques Rousseau: 法国启蒙思想家，其社会契约论和不平等理论对法国大革命影响深远）。

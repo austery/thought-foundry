@@ -1,86 +1,87 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Cloudflare
+- Nvidia
+- Meta
+- Google
+- Microsoft
+- Amazon
+- Tesla
+- Palantir
+- Robin Hood
+- Morgan Stanley
+- Federal Reserve
+- ADP
+- BLS
+- OpenAI
+- Anthropic
+- Home Depot
+- SoFi
+- AMD
+- Micron
+- Berkshire Hathaway
+- Streamyard
+- Harvard University
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- Reuters
+- The Wall Street Journal
+- 60 Minutes
+people:
+- Mike Wilson
+- Tom Lee
+- Jeffrey Gundlach
+- Jesse Felder
+- Sundar Pichai
+- Sam Altman
+- Donald Trump
+- Michael Burry
+- Satya Nadella
+- Jensen Huang
+- Dario Amodei
+- Larry Summers
+- Bill Clinton
+- Jeffrey Epstein
+- Christopher Waller
+products_models:
+- S&P 500
+- Bitcoin
+- Ethereum
+- X
+- AWS
+- Azure
+- Gemini 3.0
+- Claude
+- ChatGPT
+- Blackwell
+- Office 365
+- iPhone 17
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=sC2GNDZbWq0
 speaker: Amit Kukreja
-tags:
-  - rate-cut-expectations
-  - market-sentiment
-  - rolling-recession
-  - ai-bubble-debate
-  - circular-financing
-title: 市场持续抛售：美联储降息预期摇摆不定，分析师激辩经济前景
-summary: 今日市场开盘即面临抛售压力，Cloudflare 服务中断加剧了市场动荡。尽管 ADP 就业数据疲软，但市场核心焦点仍在于美联储是否会在12月降息。摩根士丹利分析师 Mike Wilson 提出大胆预测，认为若美联储及时降息以刺激投资驱动的经济复苏，标普500指数明年或将达到7800点。然而，市场普遍的悲观情绪和对 AI 泡沫的担忧仍在持续发酵，投资者在等待更明确的经济信号。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Mike Wilson
-  - Tom Lee
-  - Jeffrey Gundlach
-  - Jesse Felder
-  - Sundar Pichai
-  - Sam Altman
-  - Donald Trump
-  - Michael Burry
-  - Satya Nadella
-  - Jensen Huang
-  - Dario Amodei
-  - Larry Summers
-  - Bill Clinton
-  - Jeffrey Epstein
-  - Christopher Waller
-companies_orgs:
-  - Cloudflare
-  - Nvidia
-  - Meta
-  - Google
-  - Microsoft
-  - Amazon
-  - Tesla
-  - Palantir
-  - Robin Hood
-  - Morgan Stanley
-  - Federal Reserve
-  - ADP
-  - BLS
-  - OpenAI
-  - Anthropic
-  - Home Depot
-  - SoFi
-  - AMD
-  - Micron
-  - Berkshire Hathaway
-  - Streamyard
-  - Harvard University
-products_models:
-  - S&P 500
-  - Bitcoin
-  - Ethereum
-  - X
-  - AWS
-  - Azure
-  - Gemini 3.0
-  - Claude
-  - ChatGPT
-  - Blackwell
-  - Office 365
-  - iPhone 17
-media_books:
-  - Bloomberg
-  - Reuters
-  - The Wall Street Journal
-  - 60 Minutes
 status: evergreen
+summary: 今日市场开盘即面临抛售压力，Cloudflare 服务中断加剧了市场动荡。尽管 ADP 就业数据疲软，但市场核心焦点仍在于美联储是否会在12月降息。摩根士丹利分析师
+  Mike Wilson 提出大胆预测，认为若美联储及时降息以刺激投资驱动的经济复苏，标普500指数明年或将达到7800点。然而，市场普遍的悲观情绪和对 AI 泡沫的担忧仍在持续发酵，投资者在等待更明确的经济信号。
+tags:
+- ai-bubble-debate
+- circular-financing
+- financial
+- market-sentiment
+- rate-cut-expectation
+title: 市场持续抛售：美联储降息预期摇摆不定，分析师激辩经济前景
 ---
+
 ### 开盘直击：市场普跌与 Cloudflare 服务中断
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是 11 月 18 日，星期二，感谢各位的到来。不仅盘前市场下跌，Cloudflare 也宕机了。不只是它的股票在跌，而是整个公司的服务都中断了。结果导致今天许多网站无法正常工作。例如，我获取新闻的重要渠道 X 平台就完全无法使用。我知道很多人也从 X 获取新闻。它曾短暂恢复过，但随后又停止工作，现在再次陷入瘫痪。如果有人发现它恢复正常了，请告诉我。但我目前无法登录，什么也看不到，页面完全加载不出来。

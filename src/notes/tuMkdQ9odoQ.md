@@ -1,70 +1,70 @@
 ---
-author: LT視界
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 美国商务部
+- 经济分析局
+- 美联储
+- 美国劳工部
+- 芝加哥商品交易所
+- 纽约联邦储备银行
+- 桥水
+- 国际原子能署
+- 甲骨文
+- OpenAI
+- 穆迪
+- 标普
+- 中国驻日本大使馆
+- 美国国务院
+- 美国农业部
+- 中银集团
+- 弗吉利亚州威廉玛丽学院
+- 福星集团
+- 美国联邦调查局
+- 中央情报局
+- 美国外国投资委员会
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 华尔街日报
+- 彭博社
+- 路透社
+- 华盛顿邮报
+- 美联社
+- 经济学人
+- 金融时报
+- 新闻周刊
+people:
+- 威廉斯
+- 凯尔·卢特尼克
+- 高市早苗
+- 格拉斯
+- 达利奥
+- Donald Trump
+- Xi Jinping
+products_models:
+- 标普500指数
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=tuMkdQ9odoQ
 speaker: LT視界
-tags:
-  - us-economic-outlook
-  - ai-market-bubble
-  - ukraine-peace-plan
-  - china-geopolitical-strategy
-  - western-vulnerabilities
-title: 全球经济与地缘政治：美国数据延迟、乌克兰协议与中国金融渗透
-summary: 近期全球市场受美国经济数据延迟和美联储降息不确定性影响，同时人工智能泡沫引发担忧。地缘政治方面，美国提出乌克兰停战28条协议，中国则通过引用联合国宪章对日本发出军事威胁。此外，一份重磅报告揭示中国对外贷款总额高达2.1万亿美元，其中80%流向西方发达国家，旨在战略性获取关键技术与资产，暴露了西方在金融领域的巨大漏洞。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 威廉斯
-  - 凯尔·卢特尼克
-  - 高市早苗
-  - 格拉斯
-  - 达利奥
-  - Donald Trump
-  - Xi Jinping
-companies_orgs:
-  - 美国商务部
-  - 经济分析局
-  - 美联储
-  - 美国劳工部
-  - 芝加哥商品交易所
-  - 纽约联邦储备银行
-  - 桥水
-  - 国际原子能署
-  - 甲骨文
-  - OpenAI
-  - 穆迪
-  - 标普
-  - 中国驻日本大使馆
-  - 美国国务院
-  - 美国农业部
-  - 中银集团
-  - 弗吉利亚州威廉玛丽学院
-  - 福星集团
-  - 美国联邦调查局
-  - 中央情报局
-  - 美国外国投资委员会
-products_models:
-  - 标普500指数
-media_books:
-  - 华尔街日报
-  - 彭博社
-  - 路透社
-  - 华盛顿邮报
-  - 美联社
-  - 经济学人
-  - 金融时报
-  - 新闻周刊
 status: evergreen
+summary: 近期全球市场受美国经济数据延迟和美联储降息不确定性影响，同时人工智能泡沫引发担忧。地缘政治方面，美国提出乌克兰停战28条协议，中国则通过引用联合国宪章对日本发出军事威胁。此外，一份重磅报告揭示中国对外贷款总额高达2.1万亿美元，其中80%流向西方发达国家，旨在战略性获取关键技术与资产，暴露了西方在金融领域的巨大漏洞。
+tags:
+- ai-market-bubble
+- china-geopolitical-strategy
+- history
+- ukraine-peace-plan
+- us-economic-outlook
+title: 全球经济与地缘政治：美国数据延迟、乌克兰协议与中国金融渗透
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月21日，我们首先来了解今天的财经头条。
 
 ### 美国经济数据延迟与市场波动

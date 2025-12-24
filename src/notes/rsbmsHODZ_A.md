@@ -1,81 +1,82 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: technology
+companies_orgs:
+- Microsoft
+- Google
+- 百度
+- 脸书
+- 辉达
+- Coursera
+- DeepMind
+- 美国海军研究室
+- 美国邮政署
+- 美国空军
+- 哈佛大学
+- 卡内基美隆大学
+- 多伦多大学
+- 贝尔实验室
+- 美国银行
+- 国防高等研究計畫署
 date: '2024-04-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《AI制造商没说的秘密》
+- 《2001太空漫游》
+- 《超智慧》
+people:
+- Frank Rosenblatt
+- Marvin Minsky
+- Jeffrey Hinton
+- 杨立坤
+- Terry Sinoski
+- 邓丽
+- 吴恩达
+- Larry Page
+- Shen Legg
+- Demis Hassabis
+- Mark Zuckerberg
+- 于凯
+- 李彦宏
+- Elon Musk
+- Nick Bostrom
+- 李世石
+- 柯杰
+- Deborah Rodge
+- Ding Pomelo
+products_models:
+- Sora
+- AlphaGo
+- Gemini
+- MARK 1号
+- Alvin
+- NetTalk
+- TensorFlow
+- ELSA Speak
+- ELSA Pro
+- ELSA Premium
+project:
+- ai-impact-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=rsbmsHODZ_A
 speaker: 超級歪 SuperY
-tags:
-  - ai-history
-  - deep-learning
-  - neural-networks
-  - ai-ethics
-  - geopolitical-ai-race
-title: AI发展秘史：从感知器到生成式AI，谁在推动变革与引发担忧？
-summary: 本文深入探讨了人工智能从早期感知器到现代生成式AI的发展历程。揭示了Frank Rosenblatt、Marvin Minsky、Jeffrey Hinton、杨立坤、吴恩达等关键人物及其理论贡献，以及Google、微软、百度、脸书等科技巨头在AI人才和技术上的激烈竞争。文章还探讨了AI在语音识别、自动驾驶、围棋对弈等领域的突破，同时不回避AI带来的偏见、假新闻、伦理挑战及中美AI竞争等深层问题，反思AI将人类社会引向何方。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Frank Rosenblatt
-  - Marvin Minsky
-  - Jeffrey Hinton
-  - 杨立坤
-  - Terry Sinoski
-  - 邓丽
-  - 吴恩达
-  - Larry Page
-  - Shen Legg
-  - Demis Hassabis
-  - Mark Zuckerberg
-  - 于凯
-  - 李彦宏
-  - Elon Musk
-  - Nick Bostrom
-  - 李世石
-  - 柯杰
-  - Deborah Rodge
-  - Ding Pomelo
-companies_orgs:
-  - 微软
-  - Google
-  - 百度
-  - 脸书
-  - 辉达
-  - Coursera
-  - DeepMind
-  - 美国海军研究室
-  - 美国邮政署
-  - 美国空军
-  - 哈佛大学
-  - 卡内基美隆大学
-  - 多伦多大学
-  - 贝尔实验室
-  - 美国银行
-  - 国防高等研究計畫署
-products_models:
-  - Sora
-  - AlphaGo
-  - Gemini
-  - MARK 1号
-  - Alvin
-  - NetTalk
-  - TensorFlow
-  - ELSA Speak
-  - ELSA Pro
-  - ELSA Premium
-media_books:
-  - 《AI制造商没说的秘密》
-  - 《2001太空漫游》
-  - 《超智慧》
 status: evergreen
+summary: 本文深入探讨了人工智能从早期感知器到现代生成式AI的发展历程。揭示了Frank Rosenblatt、Marvin Minsky、Jeffrey
+  Hinton、杨立坤、吴恩达等关键人物及其理论贡献，以及Google、微软、百度、脸书等科技巨头在AI人才和技术上的激烈竞争。文章还探讨了AI在语音识别、自动驾驶、围棋对弈等领域的突破，同时不回避AI带来的偏见、假新闻、伦理挑战及中美AI竞争等深层问题，反思AI将人类社会引向何方。
+tags:
+- ai-ethics
+- geopolitical
+- history
+- learning
+- neural-network
+title: AI发展秘史：从感知器到生成式AI，谁在推动变革与引发担忧？
 ---
+
 ### AI浪潮下的社会冲击与早期探索
 
 今年2月，Sora公布的**生成式AI**（Generative AI: 能够生成文本、图像、音频等新内容的AI模型）影片《震撼全球》，让许多内容创作者开始担心未来可能面临失业。例如，影片中提出的疑问：“我到底是什么？我是一个男性的目光吗？还是一一个人形的偶像制作成的蜡烛？我到底是什么？我是一个国际英雄吗？还是世界的坏人？”这些都反映了人们对AI能力的惊叹与不安。早在去年，歌手陈珊妮就已尝试用AI创作音乐，结果许多粉丝根本没有听出差别。近期台湾更是出现了诈骗手法，可以通过AI撷取你的声音，再用你的声音拨打诈骗电话。加州伯克莱大学教授发现，抖音上面一小段声音，就算只有短短三秒钟，AI也能轻松复制你的声音。

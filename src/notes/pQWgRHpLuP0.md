@@ -1,78 +1,77 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- OpenAI
+- Google
+- Netflix
+- Amazon
+- Anthropic
+- Microsoft
+- Apple
+- AMD
+- Broadcom
+- Nvidia
+- Palantir
+- Robinhood
+- D-Wave
+- Big Bear AI
+- Rigetti
+- IonQ
+- SMR
+- NANO Nuclear
+- MP Materials
+- US Rare Earth
+- Ondas
+- Capital One
+- Intuitive Surgical
+- Chubb Limited Insurance Company
+- Texas Instruments
+- Warner Bros Discovery
+- Comcast
+- Coinbase
+- Snapchat
+- Slack
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+people:
+- Elon Musk
+- Satya Nadella
+products_models:
+- Atlas
+- Chrome
+- Safari
+- Microsoft Edge
+- Bing
+- AWS
+- GCP
+- Azure
+- HBO Max
+- Gemini
+- XAI
+project:
+- investment-strategy
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=pQWgRHpLuP0
 speaker: Amit Kukreja
-tags:
-  - stock-market-recap
-  - momentum-stocks
-  - tech-earnings
-  - gold-market
-  - cloud-computing-competition
-title: OpenAI挑战谷歌，黄金遭遇十年最差表现，核能股重挫：市场每日回顾
-summary: 本期每日回顾深入探讨了近期股市的剧烈波动。OpenAI推出新浏览器Atlas，引发谷歌股价短期下跌，但随后因Anthropic与谷歌达成数十亿美元云合同传闻而反弹。与此同时，此前表现强劲的动量股普遍回调，而黄金则遭遇自2013年以来最糟糕的一天，市场对其高涨势头及其背后的地缘政治因素进行反思。此外，还分析了Netflix的财报表现及其面临的增长挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
-people:
-  - Amit Kukreja
-  - Elon Musk
-  - Satya Nadella
-companies_orgs:
-  - OpenAI
-  - Google
-  - Netflix
-  - Amazon
-  - Anthropic
-  - Microsoft
-  - Apple
-  - AMD
-  - Broadcom
-  - Nvidia
-  - Palantir
-  - Robinhood
-  - D-Wave
-  - Big Bear AI
-  - Rigetti
-  - IonQ
-  - SMR
-  - NANO Nuclear
-  - MP Materials
-  - US Rare Earth
-  - Ondas
-  - Capital One
-  - Intuitive Surgical
-  - Chubb Limited Insurance Company
-  - Texas Instruments
-  - Warner Bros Discovery
-  - Comcast
-  - Coinbase
-  - Snapchat
-  - Slack
-products_models:
-  - Atlas
-  - Chrome
-  - Safari
-  - Microsoft Edge
-  - Bing
-  - AWS
-  - GCP
-  - Azure
-  - HBO Max
-  - Gemini
-  - XAI
-media_books:
-  - Bloomberg
 status: evergreen
+summary: 本期每日回顾深入探讨了近期股市的剧烈波动。OpenAI推出新浏览器Atlas，引发谷歌股价短期下跌，但随后因Anthropic与谷歌达成数十亿美元云合同传闻而反弹。与此同时，此前表现强劲的动量股普遍回调，而黄金则遭遇自2013年以来最糟糕的一天，市场对其高涨势头及其背后的地缘政治因素进行反思。此外，还分析了Netflix的财报表现及其面临的增长挑战。
+tags:
+- cloud-computing-competition
+- gold-market
+- stock
+- stock-market-recap
+- tech-earning
+title: OpenAI挑战谷歌，黄金遭遇十年最差表现，核能股重挫：市场每日回顾
 ---
+
 ### 市场概览与本周焦点
 
 大家好，欢迎回到本频道。我们又回到了每日回顾的节目。这是本周的第一次每日回顾。我昨天因为和家人一起庆祝排灯节（Divali）而缺席了，祝所有庆祝排灯节的人节日快乐。本周股市开局非常疯狂，过去两天发生了不少事情。

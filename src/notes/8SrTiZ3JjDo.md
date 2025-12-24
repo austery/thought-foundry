@@ -1,56 +1,54 @@
 ---
-author: 徒步的騎手
-date: 2025-07-21
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=8SrTiZ3JjDo'
-speaker: 徒步的騎手
-tags:
-  - epstein-scandal
-  - conspiracy-theories
-  - us-politics
-  - maga-movement
-  - political-polarization
-title: 爱泼斯坦事件：阴谋论如何反噬川普及其政治遗产
-summary: 本文深入分析了爱泼斯坦（Jeffrey Epstein）丑闻如何在美国政坛引发一场阴谋论风暴，并最终反噬了曾擅长利用阴谋论的唐纳德·川普（Donald Trump）。文章探讨了阴谋论在美国社会的兴起及其政治杀伤力，爱泼斯坦的神秘背景及其权贵网络，以及政府对案件处理的疑点。重点剖析了川普在爱泼斯坦案上的立场转变，其支持者（MAGA和QAnon信徒）对其产生的怀疑，以及川普起诉《华尔街日报》的法律策略。文章最后讨论了爱泼斯坦事件对后川普时代MAGA运动走向的深远影响，揭示了民粹主义和阴谋论狂潮难以驾驭的本质。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Jeffrey Epstein
-  - Elon Musk
-  - Bill Clinton
-  - Barack Obama
-  - Robert F. Kennedy Jr.
-  - Stephen Hawking
-  - Andrew Prince
-  - Ehud Barak
-  - Ted Cruz
-  - Nick Fuentes
-  - Acosta
-  - Ghislaine Maxwell
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - Polymarket
-  - FBI
-  - The Wall Street Journal
-  - Dow Jones
-  - News Corp
-  - ABC News
-  - CBS
-products_models: '[]'
+- Polymarket
+- FBI
+- The Wall Street Journal
+- Dow Jones
+- News Corp
+- ABC News
+- CBS
+date: 2025-07-21
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《Lolita》
-  - 《经济学人》
-  - 《华尔街日报》
-  - 《纽约杂志》
+- 《Lolita》
+- 《经济学人》
+- 《华尔街日报》
+- 《纽约杂志》
+people:
+- Donald Trump
+- Jeffrey Epstein
+- Elon Musk
+- Bill Clinton
+- Barack Obama
+- Robert F. Kennedy Jr.
+- Stephen Hawking
+- Andrew Prince
+- Ehud Barak
+- Ted Cruz
+- Nick Fuentes
+- Acosta
+- Ghislaine Maxwell
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=8SrTiZ3JjDo
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入分析了爱泼斯坦（Jeffrey Epstein）丑闻如何在美国政坛引发一场阴谋论风暴，并最终反噬了曾擅长利用阴谋论的唐纳德·川普（Donald
+  Trump）。文章探讨了阴谋论在美国社会的兴起及其政治杀伤力，爱泼斯坦的神秘背景及其权贵网络，以及政府对案件处理的疑点。重点剖析了川普在爱泼斯坦案上的立场转变，其支持者（MAGA和QAnon信徒）对其产生的怀疑，以及川普起诉《华尔街日报》的法律策略。文章最后讨论了爱泼斯坦事件对后川普时代MAGA运动走向的深远影响，揭示了民粹主义和阴谋论狂潮难以驾驭的本质。
+tags:
+- conspiracy-theory
+- epstein-scandal
+- movement
+title: 爱泼斯坦事件：阴谋论如何反噬川普及其政治遗产
 ---
 
 ### 爱泼斯坦事件：一场反噬川普的阴谋论风暴

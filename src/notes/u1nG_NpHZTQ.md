@@ -1,34 +1,34 @@
 ---
-title: 摩根大通的“蟑螂”担忧、AMD与甲骨文的AI芯片合作及全球贸易新格局
-summary: 本期探讨主要银行财报、摩根大通CEO的信贷风险警告、AMD与甲骨文的AI芯片合作，以及全球贸易格局变化与贝莱德增长战略。
 area: market-analysis
 category: geopolitics
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
-tags:
-- ai-chips
-- bank-earnings
-- global-economy
-- us-china-trade
-people: []
 companies_orgs:
 - blackrock
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-14'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+people: []
+products_models: []
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=u1nG_NpHZTQ
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期探讨主要银行财报、摩根大通CEO的信贷风险警告、AMD与甲骨文的AI芯片合作，以及全球贸易格局变化与贝莱德增长战略。
+tags:
+- ai-chip
+- bank-earning
+- global-economy
+- us-china-relations
+title: 摩根大通的“蟑螂”担忧、AMD与甲骨文的AI芯片合作及全球贸易新格局
 ---
+
 ### 彭博商业周刊日报：引言与银行财报概览
 
 [Music]

@@ -1,96 +1,97 @@
 ---
-author: 人民公園說AI
+area: market-analysis
+category: business
+companies_orgs:
+- Google
+- OpenAI
+- Cursor
+- Runway
+- Pika
+- 夸克
+- 豆包
+- 质谱AI
+- MiniMax
+- 月之暗面
+- DeepSeek
+- Alibaba
+- Character.ai
+- Hugging Face
+- Anthropic
+- Perplexity
+- Scale AI
+- Figma
+- Notion
+- Meta
+- DOJ
+- Oracle
+- Nvidia
+- Palantir
+- Microsoft
+- 游戏科学
+- ByteDance
+- 携程
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 苔藓之火
+- 人民公園說AI
+- 小宇宙
+- Bilibili
+- 《大空头》
+people:
+- Raymond
+- 赵总
+- 李开复
+- Sam Altman
+- Michael Burry
+- Ilya Sutskever
+- Satya Nadella
+- 马云
+- 李飞飞
+- 冯骥
+- Noam Shazeer
+products_models:
+- GPT
+- AI PPT
+- Genspark
+- Manus
+- PowerPoint
+- Claude
+- Sora
+- Composer
+- GLM
+- Talkie
+- Kimi
+- Llama
+- TPU
+- Grok
+- AGI
+- Gemini 3
+- 《黑神话：悟空》
+- Transformer
+- Artifacts
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=06w6QGGPnhs
 speaker: 人民公園說AI
-tags:
-  - ai-bubble
-  - startup-survival
-  - scaling-laws
-  - price-war
-  - information-asymmetry
-title: Scaling Law 终结后，AI 创业的泡沫会在 2026 年破裂吗？
-summary: 随着大模型能力提升的 Scaling Law 趋于终结，AI 领域的创业环境正变得日益严峻。本次对谈深入探讨了 AI 创业公司面临的生存困境、中国大模型厂商通过价格战和专业化突围的现状，以及硅谷“斩首式收购”的新趋势。嘉宾们激辩当前 AI 热潮究竟是新一轮工业革命的开端，还是类似 2000 年的互联网泡沫，并对 2026 年的行业格局、值得关注的公司以及“个人独角兽”的兴起做出了预测。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - china-analysis
-  - us-analysis
-people:
-  - Raymond
-  - 赵总
-  - 李开复
-  - Sam Altman
-  - Michael Burry
-  - Ilya Sutskever
-  - Satya Nadella
-  - 马云
-  - 李飞飞
-  - 冯骥
-  - Noam Shazeer
-companies_orgs:
-  - Google
-  - OpenAI
-  - Cursor
-  - Runway
-  - Pika
-  - 夸克
-  - 豆包
-  - 质谱AI
-  - MiniMax
-  - 月之暗面
-  - DeepSeek
-  - 阿里巴巴
-  - Character.ai
-  - Hugging Face
-  - Anthropic
-  - Perplexity
-  - Scale AI
-  - Figma
-  - Notion
-  - Meta
-  - DOJ
-  - Oracle
-  - Nvidia
-  - Palantir
-  - Microsoft
-  - 游戏科学
-  - 字节跳动
-  - 携程
-products_models:
-  - GPT
-  - AI PPT
-  - Genspark
-  - Manus
-  - PowerPoint
-  - Claude
-  - Sora
-  - Composer
-  - GLM
-  - Talkie
-  - Kimi
-  - Llama
-  - TPU
-  - Grok
-  - AGI
-  - Gemini 3
-  - 《黑神话：悟空》
-  - Transformer
-  - Artifacts
-media_books:
-  - 苔藓之火
-  - 人民公園說AI
-  - 小宇宙
-  - Bilibili
-  - 《大空头》
 status: evergreen
+summary: 随着大模型能力提升的 Scaling Law 趋于终结，AI 领域的创业环境正变得日益严峻。本次对谈深入探讨了 AI 创业公司面临的生存困境、中国大模型厂商通过价格战和专业化突围的现状，以及硅谷“斩首式收购”的新趋势。嘉宾们激辩当前
+  AI 热潮究竟是新一轮工业革命的开端，还是类似 2000 年的互联网泡沫，并对 2026 年的行业格局、值得关注的公司以及“个人独角兽”的兴起做出了预测。
+tags:
+- ai-bubble
+- information-asymmetry
+- scaling-law
+- startup
+- war
+title: Scaling Law 终结后，AI 创业的泡沫会在 2026 年破裂吗？
 ---
+
 ### AI 创业公司的“幸”与“不幸”
 
 最近，我对于 AI 创业公司的机会信心指数，从两年前的 80 分骤降到了现在的 20 分。如今在 AI 领域创业变得异常艰难，任何一个软件产品，都很有可能在 6 到 12 个月内，因为某个大模型的更新而被彻底颠覆。

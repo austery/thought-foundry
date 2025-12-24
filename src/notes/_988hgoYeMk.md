@@ -1,47 +1,47 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: technology
+companies_orgs:
+- Microsoft
+- DeepMind
+- Coursera
+- Harvard Medical School
+- NHS
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 硅谷女孩播客
+- 《即将到来的浪潮》
+people:
+- Mustafa Suleyman
+- Demis Hassabis
+- Andrew Ng
+- Bill Gates
+products_models:
+- Copilot
+- Learn Live
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=_988hgoYeMk
 speaker: Best Partners TV
-tags:
-  - ai-future
-  - technological-revolution
-  - ai-consciousness
-  - job-displacement
-  - education-reform
-  - healthcare-equity
-  - human-ai-collaboration
-title: 穆斯塔法·苏莱曼：AI不是泡沫，而是重塑世界的巨浪
-summary: 微软AI执行副总裁穆斯塔法·苏莱曼在专访中深入探讨了人工智能的未来。他认为AI并非昙花一现的泡沫，而是一场颠覆性的技术革命，将彻底改变医疗、教育、工作和日常生活。苏莱曼强调AI不具备自我意识，并呼吁以人为本，通过制度设计应对结构性失业，最终实现AI赋能人类，共创更公平、高效的社会。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Mustafa Suleyman
-  - Demis Hassabis
-  - Andrew Ng
-  - Bill Gates
-companies_orgs:
-  - Microsoft
-  - DeepMind
-  - Coursera
-  - Harvard Medical School
-  - NHS
-products_models:
-  - Copilot
-  - Learn Live
-media_books:
-  - 硅谷女孩播客
-  - 《即将到来的浪潮》
 status: evergreen
+summary: 微软AI执行副总裁穆斯塔法·苏莱曼在专访中深入探讨了人工智能的未来。他认为AI并非昙花一现的泡沫，而是一场颠覆性的技术革命，将彻底改变医疗、教育、工作和日常生活。苏莱曼强调AI不具备自我意识，并呼吁以人为本，通过制度设计应对结构性失业，最终实现AI赋能人类，共创更公平、高效的社会。
+tags:
+- ai-consciousness
+- education-reform
+- future
+- human-ai-collaboration
+- investment
+- job-displacement
+- technological
+title: 穆斯塔法·苏莱曼：AI不是泡沫，而是重塑世界的巨浪
 ---
+
 ### AI：重塑世界的巨浪而非泡沫
 
 人工智能是否会是昙花一现的泡沫？十年后，孩子们是否还需要考大学？我们能否与AI建立情感甚至结婚？到2050年，大规模失业是否会成为现实？这些看似科幻的问题，却是我们当下需要深入思考的现实。最近，硅谷女孩播客频道对微软AI执行副总裁、**DeepMind**（DeepMind: 谷歌旗下的人工智能公司）的联合创始人穆斯塔法·苏莱曼（Mustafa Suleyman）进行了一场独家专访。作为推动现代AI革命的核心人物，苏莱曼从DeepMind到微软，一手打造了多个改变行业的AI产品。这一次，他从自己的视角，为我们绘制了一张未来十年AI重塑世界的清晰路线图。

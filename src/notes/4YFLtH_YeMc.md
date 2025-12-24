@@ -1,61 +1,60 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 总理衙门
+- 户部
+- 吏部
+- 同文馆
+- 大学堂
 date: '2024-07-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《三国演义》
+- 《西游记》
+- 《水浒传》
+people:
+- 柴静
+- 张鸣
+- 慈禧太后
+- 光绪皇帝
+- 刚毅
+- 赵舒翘
+- 徐桐
+- 王懿荣
+- 李鸿章
+- 袁世凯
+- 刘坤一
+- 张之洞
+- 载漪
+- 克林德
+- 山山斌
+- 艾世杰
+- 冯国良
+- 荣禄
+- 丽山
+- 徐景澄
+products_models: []
+project:
+- historical-insights
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=4YFLtH_YeMc
 speaker: 柴静 Chai Jing
-tags:
-  - boxer-rebellion
-  - qing-dynasty
-  - xenophobia
-  - political-manipulation
-  - historical-reflection
-title: 义和团运动：一场荒诞的排外狂热及其深远影响
-summary: 本文通过柴静对历史学者张鸣的访谈，深入探讨了1900年义和团运动的起因、发展及其深远影响。张鸣教授揭示了慈禧太后在戊戌维新失败后，如何利用义和团的排外情绪来转移内部危机，以及这场运动中迷信、政治操弄和极端暴力的交织。文章强调了义和团对中国社会和现代化进程造成的巨大破坏，以及其最终导致清政府向十一国宣战的荒诞结局。通过对历史细节的剖析，本文旨在引发对民族自省和理性学习西方的思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 柴静
-  - 张鸣
-  - 慈禧太后
-  - 光绪皇帝
-  - 刚毅
-  - 赵舒翘
-  - 徐桐
-  - 王懿荣
-  - 李鸿章
-  - 袁世凯
-  - 刘坤一
-  - 张之洞
-  - 载漪
-  - 克林德
-  - 山山斌
-  - 艾世杰
-  - 冯国良
-  - 荣禄
-  - 丽山
-  - 徐景澄
-companies_orgs:
-  - 总理衙门
-  - 户部
-  - 吏部
-  - 同文馆
-  - 大学堂
-products_models: []
-media_books:
-  - 《三国演义》
-  - 《西游记》
-  - 《水浒传》
 status: evergreen
+summary: 本文通过柴静对历史学者张鸣的访谈，深入探讨了1900年义和团运动的起因、发展及其深远影响。张鸣教授揭示了慈禧太后在戊戌维新失败后，如何利用义和团的排外情绪来转移内部危机，以及这场运动中迷信、政治操弄和极端暴力的交织。文章强调了义和团对中国社会和现代化进程造成的巨大破坏，以及其最终导致清政府向十一国宣战的荒诞结局。通过对历史细节的剖析，本文旨在引发对民族自省和理性学习西方的思考。
+tags:
+- historical
+- history
+- political
+- xenophobia
+title: 义和团运动：一场荒诞的排外狂热及其深远影响
 ---
+
 ### 访谈缘起与义和团运动的时代背景
 
 **柴静:** 最近有几位观众写信给我，希望我能够做一期关于**义和团**（Yihetuan: 清末爆发的以“扶清灭洋”为口号的农民排外运动）的节目。所以我就打电话找国内研究这个领域的历史学者张鸣，想看看他有没有可能能够谈一谈。电话打通的时候，张教授是一个非常爽快的人，他说：“可以，那现在谈。”我说：“我们能不能约下周，因为我还没有看任何史料。”他说：“你现在这个水平正好代表大众来提问，来吧。”所以这期节目是这样开始的。然后我没有任何提纲，我也没有时间出装打扮或者准备镜头和灯光。我的第一个提问是我自己很本能的一个疑问，就是1900年义和团这么一场严重排外的运动，为什么不是发生在中国和西方刚刚遭遇互为陌生人的时候，也不是在双方交战的期间，而恰恰是在**洋务运动**（Yangwu Yundong: 清朝末期进行的一场旨在学习西方军事技术和工业生产的自强运动）早已有之，中国改革开放30多年之后呢？怎么会有这么突然之间强烈的用意？

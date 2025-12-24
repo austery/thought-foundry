@@ -1,37 +1,36 @@
 ---
-author: New York Times Podcasts
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- The New York Times
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Tracy Mumford
+- Thomas Massie
+- Ro K Connor
+- Pam Bondi
+- Todd Blanch
+- Robert F. Kennedy Jr.
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=K1qxTOvS7v0
 speaker: New York Times Podcasts
-tags:
-  - llm
-  - epstein-files
-  - gun-violence
-title: 美国司法部发布爱泼斯坦文件，引发争议；美国枪支涌入加拿大
-summary: 美国司法部部分释放了爱泼斯坦文件，但因删减过多而遭国会议员批评。同时，美国枪支大量流入加拿大，导致枪支暴力事件激增。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Tracy Mumford
-  - Thomas Massie
-  - Ro K Connor
-  - Pam Bondi
-  - Todd Blanch
-  - Robert F. Kennedy Jr.
-companies_orgs:
-  - OpenAI
-  - The New York Times
-products_models: []
-media_books: []
 status: evergreen
+summary: 美国司法部部分释放了爱泼斯坦文件，但因删减过多而遭国会议员批评。同时，美国枪支大量流入加拿大，导致枪支暴力事件激增。
+tags:
+- epstein-file
+- gun-violence
+title: 美国司法部发布爱泼斯坦文件，引发争议；美国枪支涌入加拿大
 ---
+
 ### 美国司法部发布爱泼斯坦文件，引发争议
 
 美国司法部近日部分释放了与杰弗里·爱泼斯坦相关的文件，但因大量删减而遭到国会部分议员的批评。他们认为司法部没有按照法律要求充分释放所有文件。

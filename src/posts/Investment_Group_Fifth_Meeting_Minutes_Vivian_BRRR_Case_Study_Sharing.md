@@ -6,20 +6,17 @@ category: finance
 project:
 - investment-strategy
 tags:
-  - brrr策略
-  - 房地产投资
-  - 案例分享
-  - 正现金流
-  - 资金回收
+- investment
+- real-estate-investment
+- 案例分享
 people:
-  - Lei
-  - Vivian
-  - michelle
-  - alvin
-  - Frank
+- Lei
+- Vivian
+- michelle
+- alvin
+- Frank
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: ''
@@ -30,6 +27,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 一、 会议开场与新成员介绍
 
 **Lei:** 好的，我觉得可以开始了。今天我们有一位新成员

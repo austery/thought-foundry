@@ -1,40 +1,40 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-10-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《自然哲学的数学原理》
+people:
+- 威廉·奥卡姆
+- 牛顿
+- 伽利略
+- 开普勒
+- 哥白尼
+- 托勒密
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=mKFqmsQHMiI
 speaker: 大问题Dialectic
-tags:
-  - occam-s-razor
-  - simplicity-principle
-  - conspiracy-theories
-  - scientific-methodology
-  - truth-approximation
-title: 奥卡姆剃刀：以简洁逼近真理的哲学原则与实践智慧
-summary: 本文深入探讨了奥卡姆剃刀原则的起源、核心含义及其在哲学和自然科学领域的应用。从威廉·奥卡姆的唯名论到牛顿的科学方法论，再到日心说与地心说的演变，奥卡姆剃刀始终倡导“如无必要，勿增实体”。文章还强调了奥卡姆剃刀在日常生活中帮助我们识别并避免阴谋论思维陷阱的重要性，并指出它并非检验真理的唯一标准，需与其他科学衡量标准结合使用。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - personal-growth-lab
-people:
-  - 威廉·奥卡姆
-  - 牛顿
-  - 伽利略
-  - 开普勒
-  - 哥白尼
-  - 托勒密
-companies_orgs: []
-products_models: []
-media_books:
-  - 《自然哲学的数学原理》
 status: evergreen
+summary: 本文深入探讨了奥卡姆剃刀原则的起源、核心含义及其在哲学和自然科学领域的应用。从威廉·奥卡姆的唯名论到牛顿的科学方法论，再到日心说与地心说的演变，奥卡姆剃刀始终倡导“如无必要，勿增实体”。文章还强调了奥卡姆剃刀在日常生活中帮助我们识别并避免阴谋论思维陷阱的重要性，并指出它并非检验真理的唯一标准，需与其他科学衡量标准结合使用。
+tags:
+- code
+- conspiracy-theory
+- occam-s-razor
+- principle
+- scientific
+title: 奥卡姆剃刀：以简洁逼近真理的哲学原则与实践智慧
 ---
+
 ### 奥卡姆剃刀的起源与核心思想
 
 欢迎来到《100个哲学大概念开悟人生》。今天我们要讲的哲学大概念是**奥卡姆剃刀**（Occam's Razor: 如无必要，勿增实体的思维法则）。我们今天嘴上经常挂着奥卡姆剃刀这个概念，最多使用的场景之一是用它来剔除上帝的存在。殊不知，提出奥卡姆剃刀的**威廉·奥卡姆**本人是一位基督教修士。他提出奥卡姆剃刀，肯定不是用来说上帝不存在的。

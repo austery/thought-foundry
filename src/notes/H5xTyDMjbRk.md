@@ -1,47 +1,47 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- Healing Tao USA
 date: '2025-01-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《梦道华山》
+- 《道德经》
+- 《庄子》
+- 《太乙金华宗旨》
+- 《物理学之道》
+people:
+- 宗树人
+- Elijah Siegler
+- 麦考文
+- 陈宇明
+- 谢明德
+- 希拉
+- 荣格
+- 福瑞特季夫·卡普拉
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=H5xTyDMjbRk
 speaker: 一席YiXi
-tags:
-  - spiritual-individualism
-  - cultural-appropriation
-  - modern-spirituality
-  - decontextualized-tradition
-  - self-sanctification
-title: 西洋道教与现代灵性困境：当西方人在中国圣山修道
-summary: 通过《梦道华山》一书的研究，探讨西方人如何将道教从中国文化语境中剥离，转化为个人化灵性实践，并揭示这种‘灵性个人主义’虽试图逃离现代社会的机械结构，却最终无法摆脱其结构性困境。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 宗树人
-  - Elijah Siegler
-  - 麦考文
-  - 陈宇明
-  - 谢明德
-  - 希拉
-  - 荣格
-  - 福瑞特季夫·卡普拉
-companies_orgs:
-  - Healing Tao USA
-products_models: []
-media_books:
-  - 《梦道华山》
-  - 《道德经》
-  - 《庄子》
-  - 《太乙金华宗旨》
-  - 《物理学之道》
 status: evergreen
+summary: 通过《梦道华山》一书的研究，探讨西方人如何将道教从中国文化语境中剥离，转化为个人化灵性实践，并揭示这种‘灵性个人主义’虽试图逃离现代社会的机械结构，却最终无法摆脱其结构性困境。
+tags:
+- cultural
+- decontextualized-tradition
+- history
+- self
+- spiritual-individualism
+title: 西洋道教与现代灵性困境：当西方人在中国圣山修道
 ---
+
 ### 西方人眼中的“道”：一场去语境化的灵性旅行
 
 我叫宗树人，是香港大学的社会学家与人类学家，长期研究中国传统文化在当代社会的演变，尤其关注以道教、道家为核心的实践如何在全球化语境中被重新诠释。我与美国历史学家Elijah Siegler合著的《梦道华山》（Dream Trippers: Global Daoism and the Predicament of Modern Spirituality），正是对这一现象的深度观察。

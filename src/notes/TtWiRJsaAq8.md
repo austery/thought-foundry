@@ -1,42 +1,41 @@
 ---
-author: 徒步的騎手
-date: 2025-05-17
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=TtWiRJsaAq8'
-speaker: 徒步的騎手
-tags:
-  - tariff-war
-  - trade-policy
-  - economic-impact
-  - market-reaction
-  - international-alliances
-title: 特朗普关税战：从全面宣战到步步回缩的经济与政治逻辑
-summary: 本文深入分析了特朗普政府在2025年发动的关税战，从最初高调向全球宣战，到因美国经济承受巨大压力而步步后撤，最终与英国和中国达成贸易协议，大幅回缩关税。文章引用《华尔街日报》的观点，揭示了市场对关税政策的强烈负面反应，以及特朗普政府在经济现实面前的被迫妥协。文中探讨了关税战对美国制造业回流的适得其反效果，以及对国际盟友信任和国家利益造成的长期伤害，指出这场战役更像是一场缺乏周密计划的“一边施工一边画图纸”的工程。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Peter Navarro
-  - Adam Smith
+category: geopolitics
 companies_orgs:
-  - General Motors
-  - Ford
-  - Stellantis
-  - American Automotive Policy Council (AAPC)
-products_models:
-  - Boeing aircraft
-  - ethanol
+- General Motors
+- Ford
+- Stellantis
+- American Automotive Policy Council (AAPC)
+date: 2025-05-17
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《华尔街日报》
+- 《华尔街日报》
+people:
+- Donald Trump
+- Peter Navarro
+- Adam Smith
+products_models:
+- Boeing aircraft
+- ethanol
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=TtWiRJsaAq8
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入分析了特朗普政府在2025年发动的关税战，从最初高调向全球宣战，到因美国经济承受巨大压力而步步后撤，最终与英国和中国达成贸易协议，大幅回缩关税。文章引用《华尔街日报》的观点，揭示了市场对关税政策的强烈负面反应，以及特朗普政府在经济现实面前的被迫妥协。文中探讨了关税战对美国制造业回流的适得其反效果，以及对国际盟友信任和国家利益造成的长期伤害，指出这场战役更像是一场缺乏周密计划的“一边施工一边画图纸”的工程。
+tags:
+- economic-impact
+- international
+- market-reaction
+- tariff-war
+- trade-policy
+title: 特朗普关税战：从全面宣战到步步回缩的经济与政治逻辑
 ---
 
 ### 特朗普关税战的开端与市场反噬

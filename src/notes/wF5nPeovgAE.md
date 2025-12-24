@@ -1,31 +1,29 @@
 ---
-title: 黄金时代：历史的兴衰与现代的启示
-summary: 探讨历史上的黄金时代，分析其兴盛与衰落的原因，并从中汲取对当前全球化、创新和开放心态的深刻见解。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- civilization
-- globalization
-- golden-age
-- innovation
-- norges-bank-investment-management
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: Norges Bank Investment Management
-speaker: Norges Bank Investment Management
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=wF5nPeovgAE
+speaker: Norges Bank Investment Management
 status: evergreen
+summary: 探讨历史上的黄金时代，分析其兴盛与衰落的原因，并从中汲取对当前全球化、创新和开放心态的深刻见解。
+tags:
+- globalization
+- history
+- innovation
+- investment
+- society
+title: 黄金时代：历史的兴衰与现代的启示
 ---
+
 ### 什么是黄金时代？
 
 Hi everyone, I'm Nicola Tangan, the CEO of the Norwegian Sovereign Wealth Fund and today we are exploring one of history's most pressing questions, the rise and fall of great civilizations. Because there are so many things that we can learn from the past and today I'm here with Yuan Norberg, author of the newly released book which I just loved called Peak Human, what we can learn from the rise and of all of Golden Ages. Now Yuan, you have studied golden ages throughout history from ancient Athens to the modern Anglosphere and that's what we're going to zoom in on today. So Yuan, warm welcome. Thank you very much. Let's start with the beginning. What is a golden age?

@@ -1,38 +1,38 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: productivity
+companies_orgs:
+- Norges Bank Investment Management
+- Pixar
 date: '2024-09-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Glad We Met: The Art and Science of One-on-One Meetings'
+people:
+- Steven Rogelberg
+- Ed Catmull
+- Steve Jobs
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=rBPd7KkYhpY
 speaker: Norges Bank Investment Management
-tags:
-  - meeting-efficiency
-  - intentionality
-  - stewardship-mindset
-  - one-on-one-meetings
-  - active-listening
-title: 会议的科学：如何让会议更高效、更有意义
-summary: 本文深入探讨了会议的科学，旨在帮助读者提升会议效率和参与度。专家Steven Rogelberg分享了关于会议目的、时长、规模、议程设置以及一对一会议重要性的见解。核心理念包括“管家心态”、以问题为导向的议程、鼓励思想冲突以及有效的会议收尾，旨在将会议从时间消耗转变为价值创造。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Steven Rogelberg
-  - Ed Catmull
-  - Steve Jobs
-companies_orgs:
-  - Norges Bank Investment Management
-  - Pixar
-products_models: []
-media_books:
-  - 'Glad We Met: The Art and Science of One-on-One Meetings'
 status: evergreen
+summary: 本文深入探讨了会议的科学，旨在帮助读者提升会议效率和参与度。专家Steven Rogelberg分享了关于会议目的、时长、规模、议程设置以及一对一会议重要性的见解。核心理念包括“管家心态”、以问题为导向的议程、鼓励思想冲突以及有效的会议收尾，旨在将会议从时间消耗转变为价值创造。
+tags:
+- active-listening
+- efficiency
+- intentionality
+- mindset
+- one-on-one-meeting
+title: 会议的科学：如何让会议更高效、更有意义
 ---
+
 ### 会议的普遍困境与专家见解
 
 **主持人：** 今天，我们将讨论一个非常有趣的话题——会议。我们有很多会议吗？可能每天仅在美国就有超过一亿场会议。其中许多会议很棒，但也有很多效果不佳。今天我们将讨论如何改进它们。我们请来了世界顶尖专家Steven Rogelberg，热烈欢迎。

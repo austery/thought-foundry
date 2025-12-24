@@ -1,37 +1,36 @@
 ---
-author: TED
+area: personal-systems
+category: psychology
+companies_orgs:
+- Ohio State University
+- TED
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jennifer Parlamis
+- Sigmund Freud
+products_models:
+- hydraulic model
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=A6hzHov7Kng
 speaker: TED
-tags:
-  - anger-management
-  - venting
-  - cognitive-bias
-  - attribution-theory
-  - emotional-regulation
-title: 发泄怒火为何无助于解决问题：心理学研究揭示真相
-summary: 本文深入探讨了发泄怒火为何无法有效管理愤怒，反而可能加剧愤怒。作者结合个人经历和心理学研究指出，愤怒的产生源于我们对事件的归因，尤其是将原因归结为内部和可控因素。研究发现，向朋友发泄会强化这些归因，而直接与冒犯者沟通则可能减少愤怒。文章还揭示，人们持续发泄怒火的原因在于其社会和关系功能，而非情绪的真正释放。最终，文章提供了四种有效的愤怒调节策略：参与低唤醒活动、审视归因、积极收集信息以及深思熟虑行动，以帮助我们将愤怒转化为积极的动力。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Jennifer Parlamis
-  - Sigmund Freud
-companies_orgs:
-  - Ohio State University
-  - TED
-products_models:
-  - hydraulic model
-media_books: []
 status: evergreen
+summary: 本文深入探讨了发泄怒火为何无法有效管理愤怒，反而可能加剧愤怒。作者结合个人经历和心理学研究指出，愤怒的产生源于我们对事件的归因，尤其是将原因归结为内部和可控因素。研究发现，向朋友发泄会强化这些归因，而直接与冒犯者沟通则可能减少愤怒。文章还揭示，人们持续发泄怒火的原因在于其社会和关系功能，而非情绪的真正释放。最终，文章提供了四种有效的愤怒调节策略：参与低唤醒活动、审视归因、积极收集信息以及深思熟虑行动，以帮助我们将愤怒转化为积极的动力。
+tags:
+- cognitive-bias
+- emotional-regulation
+- management
+- theory
+- venting
+title: 发泄怒火为何无助于解决问题：心理学研究揭示真相
 ---
+
 ### 愤怒的起源：从婴儿车的故事说起
 
 我想从一个故事开始讲起。

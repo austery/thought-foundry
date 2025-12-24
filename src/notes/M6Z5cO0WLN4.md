@@ -1,37 +1,37 @@
 ---
-author: Norges Bank Investment Management
+area: finance-wealth
+category: macro-economics
+companies_orgs:
+- International Monetary Fund
+- World Bank
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kristalina Georgieva
+- AJ Banga
+- Donald Trump
+- Mikhail Gorbachev
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=M6Z5cO0WLN4
 speaker: Norges Bank Investment Management
-tags:
-  - imf
-  - global-economy
-  - ai-impact
-  - debt-crisis
-  - international-cooperation
-title: 危机中合作至关重要 | 国际货币基金组织总裁格奥尔基耶娃谈全球经济与AI影响
-summary: 国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃在访谈中深入探讨了IMF的职能、全球经济现状及其韧性来源。她强调了应对高债务水平和气候风险的重要性，并详细分析了人工智能对劳动力市场和生产力的深远影响。格奥尔基耶娃还分享了她对国际合作的看法，以及IMF在复杂地缘政治背景下如何保持团结，并对AI投资泡沫和能源转型发表了见解。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - ai-impact-analysis
-people:
-  - Kristalina Georgieva
-  - AJ Banga
-  - Donald Trump
-  - Mikhail Gorbachev
-companies_orgs:
-  - International Monetary Fund
-  - World Bank
-products_models: []
-media_books: []
 status: evergreen
+summary: 国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃在访谈中深入探讨了IMF的职能、全球经济现状及其韧性来源。她强调了应对高债务水平和气候风险的重要性，并详细分析了人工智能对劳动力市场和生产力的深远影响。格奥尔基耶娃还分享了她对国际合作的看法，以及IMF在复杂地缘政治背景下如何保持团结，并对AI投资泡沫和能源转型发表了见解。
+tags:
+- ai-impact
+- crisis
+- global-economy
+- international
+title: 危机中合作至关重要 | 国际货币基金组织总裁格奥尔基耶娃谈全球经济与AI影响
+companies:
+- imf
 ---
+
 ### IMF的创立与核心职能
 
 大家好，我是**挪威主权财富基金**（Norwegian Sovereign Wealth Fund: 挪威政府拥有的全球最大主权财富基金之一）的**尼古拉·坦根**（Nicolola Tangen）。今天我打上领带，因为能与**克里斯塔利娜·格奥尔基耶娃**（Kristalina Georgieva）女士同框，我感到非常荣幸。能与您在一起真是太棒了。克里斯塔利娜是**国际货币基金组织**（International Monetary Fund: 简称IMF，负责促进全球货币合作、金融稳定、国际贸易、高就业和可持续经济增长）的总裁，您以其富有远见的领导力以及倡导重要、大胆的长期改革而闻名。那么，我们先从头开始，**国际货币基金组织**究竟是什么？**国际货币基金组织**与**世界银行**（World Bank: 致力于减少贫困和支持发展中国家的发展）在第二次世界大战末期共同成立，旨在帮助各国战后重建，并建立能够稳定金融体系的机构。我们的使命是实现宏观经济和金融稳定，以促进增长和就业。我们拥有191个成员国。事实上，过去几年我们新增了两个小成员国：**安道尔**（Andorra）和**列支敦士登**（Liechtenstein）。

@@ -1,25 +1,25 @@
 ---
-author: Best Partners TV
+area: ''
+category: ''
+companies_orgs: []
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=sSpirKtNvOc
 speaker: Best Partners TV
+status: evergreen
+summary: ''
 tags: []
 title: 发布背景与定位
-summary: ''
-insight: ''
-draft: true
-series: ''
-category: ''
-area: ''
-project: []
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-status: evergreen
 ---
+
 ### 发布背景与定位  
 
 大家好，这里是最佳拍档。刚刚，谷歌发布了最新模型 Gemini 3 Flash，它专门为速度而生，可以帮助每个人更快地学习、构建和规划任何事物。早在模型发布前，Google AI Studio开发者平台和Gemini API的产品负责人Logan Kilpatrick就在X上发布了一条只有三个闪电符号的推文。当时就有大批网友猜测，这意味着谷歌即将发布主打速度至上的Flash版本模型。果然，谷歌 Gemini 3 Flash 模型如约而生。

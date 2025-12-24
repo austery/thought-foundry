@@ -1,37 +1,38 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Funstage
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Alex Gavrilescu
+products_models:
+- Backlog.md
+- Claude
+- Gemini
+- Kuso
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zMXKhhwiCIc
 speaker: AI Engineer
-tags:
-  - ai-agents
-  - task-management
-  - kanban-board
-  - developer-tools
-  - context-engineering
-title: Backlog.md：AI 智能体任务管理的终端看板工具
-summary: 您是否曾遇到人工智能智能体（AI Agent）在执行任务时偏离方向或耗尽上下文窗口的问题？Backlog.md 是一款开源的终端看板工具，旨在解决这一挑战。它通过将大型功能分解为更小的 Markdown 任务，并提供清晰的描述、验收标准和实施计划，帮助人类和 AI 智能体高效协作。Backlog.md 支持 AI 智能体通过多协议通信（MCP）或命令行界面（CLI）进行交互，确保任务范围明确、可回滚，并提供多阶段审查流程，从而实现高质量的代码生成，其中 99% 的代码由 AI 智能体完成。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Alex Gavrilescu
-companies_orgs:
-  - Funstage
-products_models:
-  - Backlog.md
-  - Claude
-  - Gemini
-  - Kuso
-media_books: []
 status: evergreen
+summary: 您是否曾遇到人工智能智能体（AI Agent）在执行任务时偏离方向或耗尽上下文窗口的问题？Backlog.md 是一款开源的终端看板工具，旨在解决这一挑战。它通过将大型功能分解为更小的
+  Markdown 任务，并提供清晰的描述、验收标准和实施计划，帮助人类和 AI 智能体高效协作。Backlog.md 支持 AI 智能体通过多协议通信（MCP）或命令行界面（CLI）进行交互，确保任务范围明确、可回滚，并提供多阶段审查流程，从而实现高质量的代码生成，其中
+  99% 的代码由 AI 智能体完成。
+tags:
+- ai-agent
+- context-engineering
+- developer-tool
+- task-management
+- technology
+title: Backlog.md：AI 智能体任务管理的终端看板工具
 ---
+
 ### 引言：AI 智能体任务管理的挑战与 Backlog.md
 
 您的**人工智能智能体**（AI Agent: 能够自主执行任务的程序）是否曾工作了将近一个小时，结果却发现它方向错了，或者在执行某个重要任务的过程中耗尽了**上下文窗口**（Context Window: AI 模型处理信息的能力范围）？

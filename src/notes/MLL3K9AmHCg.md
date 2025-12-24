@@ -1,73 +1,72 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Wall Street Journal
+- Federal Reserve
+- Chicago Mercantile Exchange
+- Reuters
+- Kremlin
+- ABC News
+- Bloomberg
+- Vanity Fair
+- Canon
+- Douyin
+- Nikkei
+- China Poly Defense
+- Observer Network
+- US Agency for International Development
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《路透社》
+- 《美国广播公司》
+- 《彭博社》
+- 《名利场》
+- 《曼谷邮报》
+- 《纽约时报》
+- 《观察者网》
+- 《日经新闻》
+people:
+- Susie Wiles
+- Elon Musk
+- J.D. Vance
+- Donald Trump
+- Jerome Powell
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Dmitry Peskov
+- Sergei Ryabkov
+- Russell Vought
+- William Barr
+- Jeffrey Epstein
+- Adolf Hitler
+- Joseph Stalin
+- Mao Zedong
+- James Comey
+- Marco Rubio
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=MLL3K9AmHCg
 speaker: LT視界
-tags:
-  - us-economy
-  - china-economy
-  - geopolitics
-  - labor-market
-  - censorship
-title: 核心数据创历史新低，中国经济面临严峻挑战；“恶意补偿”引热议，揭示社会深层矛盾
-summary: 本期节目深入分析多条国际与国内重要新闻。美国11月就业数据虽有波动，但美联储降息预期未受显著影响，12月报告将成关键。俄乌和谈方面，俄罗斯在领土和北约驻军问题上立场强硬，和平协议前景不明。美国白宫幕僚长苏西·威尔斯对马斯克、万斯等人的争议性言论，揭示了川普团队内部的裂痕。泰柬冲突中，泰国公开展示缴获的中国武器，暗示对中国立场的警示。在中国，佳能公司的高额离职补偿引发“恶意补偿”热议，抖音的审查行为则凸显了官方对社会情绪的管控。最引人关注的是，中国固定资产投资预计将迎来1995年以来的首次负增长，这对中国经济和普通民众的就业带来毁灭性影响，官方对此的“辩证法”解读难以服众。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - Susie Wiles
-  - Elon Musk
-  - J.D. Vance
-  - Donald Trump
-  - Jerome Powell
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - Dmitry Peskov
-  - Sergei Ryabkov
-  - Russell Vought
-  - William Barr
-  - Jeffrey Epstein
-  - Adolf Hitler
-  - Joseph Stalin
-  - Mao Zedong
-  - James Comey
-  - Marco Rubio
-  - Xi Jinping
-companies_orgs:
-  - Wall Street Journal
-  - Federal Reserve
-  - Chicago Mercantile Exchange
-  - Reuters
-  - Kremlin
-  - ABC News
-  - Bloomberg
-  - Vanity Fair
-  - Canon
-  - Douyin
-  - Nikkei
-  - China Poly Defense
-  - Observer Network
-  - US Agency for International Development
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 《路透社》
-  - 《美国广播公司》
-  - 《彭博社》
-  - 《名利场》
-  - 《曼谷邮报》
-  - 《纽约时报》
-  - 《观察者网》
-  - 《日经新闻》
 status: evergreen
+summary: 本期节目深入分析多条国际与国内重要新闻。美国11月就业数据虽有波动，但美联储降息预期未受显著影响，12月报告将成关键。俄乌和谈方面，俄罗斯在领土和北约驻军问题上立场强硬，和平协议前景不明。美国白宫幕僚长苏西·威尔斯对马斯克、万斯等人的争议性言论，揭示了川普团队内部的裂痕。泰柬冲突中，泰国公开展示缴获的中国武器，暗示对中国立场的警示。在中国，佳能公司的高额离职补偿引发“恶意补偿”热议，抖音的审查行为则凸显了官方对社会情绪的管控。最引人关注的是，中国固定资产投资预计将迎来1995年以来的首次负增长，这对中国经济和普通民众的就业带来毁灭性影响，官方对此的“辩证法”解读难以服众。
+tags:
+- censorship
+- china-economy
+- labor-market
+- us-economy
+title: 核心数据创历史新低，中国经济面临严峻挑战；“恶意补偿”引热议，揭示社会深层矛盾
 ---
+
 ### 美国11月就业报告
 
 今天，美国劳工部发布了就业数据，**《华尔街日报》**对此进行了两方面报道。第一个标题指出，尽管就业人数增加，美国11月份失业率仍然上升。根据政府报告，**4.6%的失业率**是四年多来的最高水准，引发了人们对美国经济潜在实力的质疑。报告显示，11月份新增就业**64000个**，而10月份则减少了**15000个**就业岗位。11月份的失业率升至4.6%，高于9月份的4.4%。劳工部之前预告，他们无法公布今年6月、8月、10月的失业潮，这意味着美国经济在过去6个月中有3个月出现了就业流失，即就业岗位总体上没有增加，反而减少。由于政府停摆43天期间暂停了数据收集，该部门最终公布了两个月的数据，而非原计划的一个月。10月份失业率数据的缺失，是因为政府停摆期间官员无法进行计算该数据所需的调查。

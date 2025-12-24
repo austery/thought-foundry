@@ -1,48 +1,47 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 天主教会
+- 英国圣公会
 date: '2025-06-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《制度基因》
+- 《蜜蜂的寓言》
+people:
+- 马基雅维里
+- 圭恰尔迪尼
+- 曼德维尔
+- 汉密尔顿
+- 杰斐逊
+- 许成钢
+- 威廉一世
+- 亨利一世
+- 鲍里斯·约翰逊
+- 克伦威尔
+- 霍布斯
+- 洛克
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=TmJrZ_ARf7c
 speaker: 东京人文论坛
-tags:
-  - constitutional-development
-  - commercial-society
-  - machiavellian-moment
-  - separation-of-powers
-  - republicanism
-title: 从马基雅维里到光荣革命：商业社会如何重塑现代共和制度
-summary: 本文深入探讨了从古典政治到现代政治的“马基雅维里时刻”这一核心转变，即政治的本质从追求绝对的善，转变为驾驭持续的变化。文章以英国宪政史为核心案例，详细剖析了从《大宪章》到《十九条提案》长达数百年的演进过程。通过分析农业社会与商业社会在政治美德、公共利益构成上的根本冲突，揭示了现代共和制度并非源于完美的设计，而是在国王、贵族与平民的持续权力博弈和习俗演化中艰难形成的。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - 马基雅维里
-  - 圭恰尔迪尼
-  - 曼德维尔
-  - 汉密尔顿
-  - 杰斐逊
-  - 许成钢
-  - 威廉一世
-  - 亨利一世
-  - 鲍里斯·约翰逊
-  - 克伦威尔
-  - 霍布斯
-  - 洛克
-companies_orgs:
-  - 天主教会
-  - 英国圣公会
-products_models: []
-media_books:
-  - 《制度基因》
-  - 《蜜蜂的寓言》
 status: evergreen
+summary: 本文深入探讨了从古典政治到现代政治的“马基雅维里时刻”这一核心转变，即政治的本质从追求绝对的善，转变为驾驭持续的变化。文章以英国宪政史为核心案例，详细剖析了从《大宪章》到《十九条提案》长达数百年的演进过程。通过分析农业社会与商业社会在政治美德、公共利益构成上的根本冲突，揭示了现代共和制度并非源于完美的设计，而是在国王、贵族与平民的持续权力博弈和习俗演化中艰难形成的。
+tags:
+- development
+- history
+- power
+- society
+title: 从马基雅维里到光荣革命：商业社会如何重塑现代共和制度
 ---
+
 ### 大西洋共和主义传统：从佛罗伦萨到英美体系
 
 今天我们讨论的内容细节很多，可能一次讲不完，讲到哪里算哪里。这本书的主题是“佛罗伦萨政治思想与大西洋共和主义传统”。佛罗伦萨部分，指的是我们上次谈到的马基雅维里所生活的时代，即佛罗伦萨和威尼斯的政治。而大西洋共和主义传统，则指大西洋两岸的英国和美国。

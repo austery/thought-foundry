@@ -1,80 +1,80 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Rosneft
+- Lukoil
+- Gazprom
+- Surgutneftegas
+- 中石化
+- 中石油
+- 中海油
+- 振华石油
+- OPEC
+- 欧盟
+- G7
+- 辽阳石化公司
+- 山东裕隆石化有限公司
+- 中国石油香港有限公司
+- 天津西山福盛国际贸易有限公司
+- 中央军委
+- 中国共产党
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+- Reuters
+- Associated Press
+- The Economist
+- Agence France-Presse
+- Bloomberg
+- International Energy Agency
+people:
+- Donald Trump
+- Joe Biden
+- Janet Yellen
+- Mohammed bin Salman
+- Tariq Al-Rumi
+- Maria Zakharova
+- Dmitry Medvedev
+- Xi Jinping
+- Mao Zedong
+- Liu Jianchao
+- Jin Zhuanglong
+- Wang Liyan
+- Wang Kangping
+- Fang Yongxiang
+- Shi Zhenglu
+- Ding Xinglong
+- Wang Jiayi
+- Fang Hongwei
+- Shi Yugang
+- 孙鑫
+- 霍夫曼
+- 王沪宁
+- 彭丽媛
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=zy9gu8LrYV0
 speaker: LT視界
-tags:
-  - us-russia-sanctions
-  - oil-market-impact
-  - ccp-fourth-plenum
-  - political-purges
-  - xi-jinping-power
-title: 川普对俄制裁升级与中共四中全会解读：全球政治经济的冲击与权力清洗
-summary: 川普政府对俄罗斯石油巨头实施了迄今最严厉的制裁，旨在削弱其经济命脉，引发国际油价波动及中印等国反应，同时OPEC表示将增产以稳定市场。同期，中共四中全会闭幕，国际舆论普遍关注其政治清洗而非经济政策，指出会议出席率创文革后新低，反映习近平权力高度集中，尤其对军队的大规模清洗令人震惊，显示其统治的焦虑与疯狂。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Joe Biden
-  - Janet Yellen
-  - Mohammed bin Salman
-  - Tariq Al-Rumi
-  - Maria Zakharova
-  - Dmitry Medvedev
-  - Xi Jinping
-  - Mao Zedong
-  - Liu Jianchao
-  - Jin Zhuanglong
-  - Wang Liyan
-  - Wang Kangping
-  - Fang Yongxiang
-  - Shi Zhenglu
-  - Ding Xinglong
-  - Wang Jiayi
-  - Fang Hongwei
-  - Shi Yugang
-  - 孙鑫
-  - 霍夫曼
-  - 王沪宁
-  - 彭丽媛
-companies_orgs:
-  - Rosneft
-  - Lukoil
-  - Gazprom
-  - Surgutneftegas
-  - 中石化
-  - 中石油
-  - 中海油
-  - 振华石油
-  - OPEC
-  - 欧盟
-  - G7
-  - 辽阳石化公司
-  - 山东裕隆石化有限公司
-  - 中国石油香港有限公司
-  - 天津西山福盛国际贸易有限公司
-  - 中央军委
-  - 中国共产党
-products_models: []
-media_books:
-  - The Wall Street Journal
-  - Reuters
-  - Associated Press
-  - The Economist
-  - Agence France-Presse
-  - Bloomberg
-  - International Energy Agency
 status: evergreen
+summary: 川普政府对俄罗斯石油巨头实施了迄今最严厉的制裁，旨在削弱其经济命脉，引发国际油价波动及中印等国反应，同时OPEC表示将增产以稳定市场。同期，中共四中全会闭幕，国际舆论普遍关注其政治清洗而非经济政策，指出会议出席率创文革后新低，反映习近平权力高度集中，尤其对军队的大规模清洗令人震惊，显示其统治的焦虑与疯狂。
+tags:
+- ccp-fourth-plenum
+- geopolitical
+- market
+- political
+- power
+title: 川普对俄制裁升级与中共四中全会解读：全球政治经济的冲击与权力清洗
 ---
+
 ### 川普对俄罗斯实施最严厉制裁
 
 10月23日，全球舆论聚焦两项重大事件：川普宣布美国对俄罗斯的最新制裁决定，以及中共四中全会的闭幕。首先，我们来分享川普对俄罗斯制裁的最新信息。

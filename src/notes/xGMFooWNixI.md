@@ -1,71 +1,71 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: geopolitics
+companies_orgs:
+- All-In Podcast
+- McKinsey & Company
+- US Navy
+- Meta
+- Twitter
+- FCC
+- FAA
+- Verizon
+- SpaceX
+- Tesla
+- ChargePoint
+- FTC
+- Amazon
+- UPS
+- NASA
+- Department of Transportation
+- Poly Market
+- Waymo
+- ICE
 date: '2025-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+people:
+- Pete Buttigieg
+- Joe Mansion
+- Bill Maher
+- Tim Cook
+- Mark Zuckerberg
+- Elon Musk
+- Donald Trump
+- Elizabeth Warren
+- Bernie Sanders
+- Joe Biden
+- Kamala Harris
+- Ron Klain
+- Gavin Newsom
+- Alexandria Ocasio-Cortez
+- David Sacks
+products_models:
+- Starlink
+- Cyber Cab
+- Robo Taxi
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=xGMFooWNixI
 speaker: All-In Podcast
-tags:
-  - identity-politics
-  - wealth-inequality
-  - fiscal-policy
-  - job-displacement
-  - government-efficiency
-title: 皮特·布蒂吉格：剖析民主党身份政治危机、财富税争议与2028年展望
-summary: 前美国交通部长皮特·布蒂吉格在All-In播客的深度访谈中，探讨了多个尖锐议题。他分析了硅谷科技领袖从民主党转向共和党的原因，认为短期经济利益是关键因素。布蒂吉格对财富税持开放态度，但强调需平衡。他坦诚民主党内部过分关注身份政治，导致信息碎片化。他还讨论了美国国债的不可持续性、政府开支的效率问题，并对人工智能引发的就业冲击和财富集中表示深切担忧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Pete Buttigieg
-  - Joe Mansion
-  - Bill Maher
-  - Tim Cook
-  - Mark Zuckerberg
-  - Elon Musk
-  - Donald Trump
-  - Elizabeth Warren
-  - Bernie Sanders
-  - Joe Biden
-  - Kamala Harris
-  - Ron Klain
-  - Gavin Newsom
-  - Alexandria Ocasio-Cortez
-  - David Sacks
-companies_orgs:
-  - All-In Podcast
-  - McKinsey & Company
-  - US Navy
-  - Facebook
-  - Twitter
-  - FCC
-  - FAA
-  - Verizon
-  - SpaceX
-  - Tesla
-  - ChargePoint
-  - FTC
-  - Amazon
-  - UPS
-  - NASA
-  - Department of Transportation
-  - Poly Market
-  - Waymo
-  - ICE
-products_models:
-  - Starlink
-  - Cyber Cab
-  - Robo Taxi
-media_books:
-  - The New York Times
 status: evergreen
+summary: 前美国交通部长皮特·布蒂吉格在All-In播客的深度访谈中，探讨了多个尖锐议题。他分析了硅谷科技领袖从民主党转向共和党的原因，认为短期经济利益是关键因素。布蒂吉格对财富税持开放态度，但强调需平衡。他坦诚民主党内部过分关注身份政治，导致信息碎片化。他还讨论了美国国债的不可持续性、政府开支的效率问题，并对人工智能引发的就业冲击和财富集中表示深切担忧。
+tags:
+- fiscal-policy
+- government
+- identity-politics
+- job-displacement
+- wealth-inequality
+title: 皮特·布蒂吉格：剖析民主党身份政治危机、财富税争议与2028年展望
 ---
+
 ### 硅谷科技精英的政治转向
 
 **主持人 (Jason Calacanis):** 好的，各位，欢迎回到 All-In 播客访谈系列。上周我们请来了乔·曼钦 (Joe Manchin)。这周，皮特·布蒂吉格 (Pete Buttigieg) 来到了这里。大家都知道皮特市长，他出生于南本德，毕业于哈佛，曾是罗德学者，在麦肯锡和美国海军服役，当然，他还竞选过总统，并在拜登政府担任交通部长。欢迎来到节目，皮特·布蒂吉格。你好吗？

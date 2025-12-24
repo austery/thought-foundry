@@ -1,35 +1,35 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-05-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Last Economy
+people:
+- 松本哉
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=RlJMqtIALec
 speaker: 一席YiXi
-tags:
-  - anti-capitalism
-  - community-connection
-  - everyday-resistance
-  - space-as-social-organism
-  - non-conformist-living
-title: 松本哉：在东京高円寺，用荒诞对抗冷漠的世界
-summary: 日本活动家松本哉分享如何通过开设回收店、居酒屋与青年旅舍，在东京高円寺构建一个反资本、反规训的自由空间，用荒诞与日常抗争重塑社区连接，并呼吁人们拒绝被系统异化，从小事开始活出真实人生。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - 松本哉
-companies_orgs: []
-products_models: []
-media_books:
-  - The Last Economy
 status: evergreen
+summary: 日本活动家松本哉分享如何通过开设回收店、居酒屋与青年旅舍，在东京高円寺构建一个反资本、反规训的自由空间，用荒诞与日常抗争重塑社区连接，并呼吁人们拒绝被系统异化，从小事开始活出真实人生。
+tags:
+- anti
+- community-connection
+- non
+- social
+- technology
+title: 松本哉：在东京高円寺，用荒诞对抗冷漠的世界
 ---
+
 ### 在东京高円寺，用荒诞构建自由的社区
 
 我叫松本哉。今天在日本东京的高円寺，我经营着三家小店：一家回收店、一家居酒屋和一家青年旅舍。它们都不赚钱，甚至可以说是“很傻”。但我做这些事，并非为了盈利——而是想创造一个能让人们自由相遇、嬉闹和交流的空间。在这样一个越来越冷漠、规训森严的世界里，我们选择用荒诞来抵抗。

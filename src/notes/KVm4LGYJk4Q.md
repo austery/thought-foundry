@@ -1,35 +1,34 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: general
+companies_orgs:
+- Cambly
 date: '2023-03-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 超级歪 SuperY
+- Connor
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=KVm4LGYJk4Q
 speaker: 超級歪 SuperY
-tags:
-  - english-learning
-  - british-english
-  - bilingual-policy
-  - language-acquisition
-  - communication-skills
-title: 英式英语的秘密与台湾双语政策：地道表达、学习误区及口语沟通的关键
-summary: 本期节目深入探讨了英式英语中常见的地道表达，如问候语、口语习惯及俚语，并对比了其与美式英语的差异。同时，节目揭示了中文母语者在学习英语时常犯的错误，如过度强调语法、对口音的执着，以及时态理解的难点。此外，还讨论了台湾2030双语国家政策的推行现状，并分享了语言学习的关键在于多角度攻击、保持简单和积极沟通，而非仅仅追求标准口音。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - 超级歪 SuperY
-  - Connor
-companies_orgs:
-  - Cambly
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了英式英语中常见的地道表达，如问候语、口语习惯及俚语，并对比了其与美式英语的差异。同时，节目揭示了中文母语者在学习英语时常犯的错误，如过度强调语法、对口音的执着，以及时态理解的难点。此外，还讨论了台湾2030双语国家政策的推行现状，并分享了语言学习的关键在于多角度攻击、保持简单和积极沟通，而非仅仅追求标准口音。
+tags:
+- british-english
+- communication-skill
+- language
+- learning
+- policy
+title: 英式英语的秘密与台湾双语政策：地道表达、学习误区及口语沟通的关键
 ---
+
 ### 英式英语的日常问候与地道表达
 
 上次制作了关于英国文化冲击的视频后，观众反响热烈，本期节目将向大家介绍台湾英语课本中学不到的、我来到英国后才了解的英语用法。

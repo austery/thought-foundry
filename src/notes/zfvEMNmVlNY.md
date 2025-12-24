@@ -1,40 +1,40 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Jointly
+- Human AI
+- AON
+- Citibank
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Alberto Romero
+products_models:
+- GPT-4
+- Claude
+- Dips
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=zfvEMNmVlNY
 speaker: AI Engineer
-tags:
-  - ai-agent-optimization
-  - context-engineering
-  - meta-learning
-  - adaptive-strategies
-  - resource-allocation
-title: Meta-AC：超越单维度优化的AI智能体自适应框架
-summary: 本文介绍了Meta-Adaptive Context Engineering (Meta-AC)，一个旨在通过协调多种适应策略来优化AI智能体的新框架。它解决了现有Agentic Context Engineering (AC)框架的局限性，如对反射器的过度依赖、反馈脆性、任务复杂性盲区以及仅关注上下文维度的问题。Meta-AC通过任务画像、元控制器、策略执行和反馈聚合层，动态分配上下文、计算、验证、记忆和参数更新等策略，从而在智能体基准测试中实现显著性能提升和计算成本降低，展现出更强的鲁棒性和泛化能力。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Alberto Romero
-companies_orgs:
-  - Jointly
-  - Human AI
-  - AON
-  - Citibank
-products_models:
-  - GPT-4
-  - Claude
-  - Dips
-media_books: []
 status: evergreen
+summary: 本文介绍了Meta-Adaptive Context Engineering (Meta-AC)，一个旨在通过协调多种适应策略来优化AI智能体的新框架。它解决了现有Agentic
+  Context Engineering (AC)框架的局限性，如对反射器的过度依赖、反馈脆性、任务复杂性盲区以及仅关注上下文维度的问题。Meta-AC通过任务画像、元控制器、策略执行和反馈聚合层，动态分配上下文、计算、验证、记忆和参数更新等策略，从而在智能体基准测试中实现显著性能提升和计算成本降低，展现出更强的鲁棒性和泛化能力。
+tags:
+- ai-agent-optimization
+- context-engineering
+- learning
+- resource-allocation
+- strategy
+title: Meta-AC：超越单维度优化的AI智能体自适应框架
 ---
+
 ### 引言：Meta-AC框架概述
 
 大家好。今天我将介绍**Meta-Adaptive Context Engineering**（Meta-AC：元自适应上下文工程），这是一个旨在超越单一维度方法优化AI智能体的新框架。我们将探讨如何协调多种适应策略，以克服现有上下文工程方法的局限性。

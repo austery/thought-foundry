@@ -1,31 +1,30 @@
 ---
-title: 如何在喧嚣世界中高效沟通：Lulu Cheng Meservey的策略
-summary: Lulu Cheng Meservey探讨了在充满信息噪音的世界中如何吸引注意力、建立信任并有效沟通。她强调人类信念、叙事弧线和精准受众识别的重要性，并分享了应对危机和打造强大沟通策略的实用见解。
 area: null
 category: null
-project: []
-tags:
-- communication-strategy
-- founder-communication
-- media-engagement
-- narrative-power
-- trust-building
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- the-knowledge-project-podcast
 date: '2025-09-16'
-author: The Knowledge Project Podcast
-speaker: The Knowledge Project Podcast
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- the-knowledge-project-podcast
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I9Njb8Lw5Xc
+speaker: The Knowledge Project Podcast
 status: evergreen
+summary: Lulu Cheng Meservey探讨了在充满信息噪音的世界中如何吸引注意力、建立信任并有效沟通。她强调人类信念、叙事弧线和精准受众识别的重要性，并分享了应对危机和打造强大沟通策略的实用见解。
+tags:
+- communication
+- communication-strategy
+- media
+- power
+- trust-building
+title: 如何在喧嚣世界中高效沟通：Lulu Cheng Meservey的策略
 ---
+
 ### 引言：抓住注意力，磨砺“钩子”
 
 在当今信息爆炸的时代，我们必须抓住的机会表面积越来越小，这意味着我们用来吸引注意力的“钩子”必须越来越锋利。Lulu Cheng Meservey是通信领域最敏锐的头脑之一。她曾担任动视暴雪（Activision Blizzard）的首席文化官兼企业事务执行副总裁，以及Substack的通讯副总裁，现在是Rostra的创始人。Rostra是唯一一家专注于创始人沟通的咨询公司。Lulu被誉为首席执行官、创始人及决策者在关键时刻的首选战略专家。

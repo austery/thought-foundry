@@ -1,48 +1,48 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《以自由论发展》
+people:
+- Xi Jinping
+- 王立军
+- 王少光
+- 林昭
+- 邓飞
+- 刘晓波
+- 田恒
+- 西乡隆盛
+- 胜海舟
+products_models:
+- 天网工程
+- 歼-10
+- 歼-20
+- DeepSeek
+- 墨子号
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9LzWf5W_-No
 speaker: 三個水槍手
-tags:
-  - state-individual-interest
-  - performance-legitimacy
-  - social-control
-  - cruel-consensus
-  - urban-rural-divide
-title: 中国人的利益与国家利益真的一致吗？从天网、禁毒到残酷的社会共识
-summary: 本文深入探讨了中国普通民众的个人利益与国家利益之间复杂且矛盾的关系。通过分析“天网工程”带来的安全与监控、严厉禁毒政策下的绩效与人权，以及高铁基建等具体案例，文章揭示了“绩效合法性”对民众的吸引力。同时，文章也探讨了在经济下行周期中，部分城市中产阶级可能与国家形成牺牲农村与老人的“残酷共识”，并最终辩论了中共是否存在一个稳固的、利益高度绑定的四亿人“基本盘”，以及这个基本盘在未来社会变动中的可能角色。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 习近平
-  - 王立军
-  - 王少光
-  - 林昭
-  - 邓飞
-  - 刘晓波
-  - 田恒
-  - 西乡隆盛
-  - 胜海舟
-companies_orgs: []
-products_models:
-  - 天网工程
-  - 歼-10
-  - 歼-20
-  - DeepSeek
-  - 墨子号
-media_books:
-  - 《以自由论发展》
 status: evergreen
+summary: 本文深入探讨了中国普通民众的个人利益与国家利益之间复杂且矛盾的关系。通过分析“天网工程”带来的安全与监控、严厉禁毒政策下的绩效与人权，以及高铁基建等具体案例，文章揭示了“绩效合法性”对民众的吸引力。同时，文章也探讨了在经济下行周期中，部分城市中产阶级可能与国家形成牺牲农村与老人的“残酷共识”，并最终辩论了中共是否存在一个稳固的、利益高度绑定的四亿人“基本盘”，以及这个基本盘在未来社会变动中的可能角色。
+tags:
+- cruel-consensu
+- performance
+- social-control
+- state
+- urban
+title: 中国人的利益与国家利益真的一致吗？从天网、禁毒到残酷的社会共识
 ---
+
 ### 引言：个人利益与国家利益是否同向？
 
 今天我们探讨一个非常尖锐的问题，尤其对于海外的自由派人士而言。许多人为“爱国”提供了一种辩护：他们认为自己实实在在地从国家发展中获得了益处，那么爱国便是理所当然的。我们经常反驳这种观点，指出“国家好不等于你好”，中国的体制本质上是剥削性的。

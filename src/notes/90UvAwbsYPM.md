@@ -1,67 +1,67 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs:
+- Peking University
+- Communist Party
+- Kuomintang
 date: '2025-03-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Analects of Confucius
+- Song of Youth
+- Creation
+- Sorrows of Death
+- Ni Huanzhi
+- War and Peace
+- Les Misérables
+- Iron Flow
+- Destruction
+- Mother
+people:
+- Confucius
+- Kant
+- Mao Zedong
+- Yang Mo
+- Yu Yongze
+- Lin Daojing
+- Junshi
+- Xianxian
+- Nietzsche
+- Lu Xun
+- Junsheng
+- Zijun
+- Ye Shengtao
+- Ni Huanzhi
+- Tolstoy
+- Hugo
+- Byron
+- Cao Xueqin
+- Du Fu
+- Gorky
+- Lu Jiachuan
+- Jiang Hua
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=90UvAwbsYPM
 speaker: Anthony看世界
-tags:
-  - chinese-enlightenment
-  - may-fourth-movement
-  - teacher-student-love
-  - intellectual-dilemma
-  - individual-subjectivity
-title: 五四知识分子的启蒙困境：从师生恋视角看中国启蒙的异化
-summary: 本文探讨了中国启蒙运动的独特困境，特别是五四时期知识分子所构想的启蒙模式。通过分析当时文学作品中常见的“师生恋”叙事，揭示了中国启蒙与西方启蒙在本质上的差异：前者倾向于自上而下的教导与被动接受，而非个体独立的自我觉醒。文章以杨沫的《青春之歌》为例，批判了这种单向启蒙模式的脆弱性及其在历史进程中的异化，指出其未能真正建立起独立的个体主体性，最终导致思想被权力吞噬的悲剧。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Confucius
-  - Kant
-  - Mao Zedong
-  - Yang Mo
-  - Yu Yongze
-  - Lin Daojing
-  - Junshi
-  - Xianxian
-  - Nietzsche
-  - Lu Xun
-  - Junsheng
-  - Zijun
-  - Ye Shengtao
-  - Ni Huanzhi
-  - Tolstoy
-  - Hugo
-  - Byron
-  - Cao Xueqin
-  - Du Fu
-  - Gorky
-  - Lu Jiachuan
-  - Jiang Hua
-companies_orgs:
-  - Peking University
-  - Communist Party
-  - Kuomintang
-products_models: []
-media_books:
-  - The Analects of Confucius
-  - Song of Youth
-  - Creation
-  - Sorrows of Death
-  - Ni Huanzhi
-  - War and Peace
-  - Les Misérables
-  - Iron Flow
-  - Destruction
-  - Mother
 status: evergreen
+summary: 本文探讨了中国启蒙运动的独特困境，特别是五四时期知识分子所构想的启蒙模式。通过分析当时文学作品中常见的“师生恋”叙事，揭示了中国启蒙与西方启蒙在本质上的差异：前者倾向于自上而下的教导与被动接受，而非个体独立的自我觉醒。文章以杨沫的《青春之歌》为例，批判了这种单向启蒙模式的脆弱性及其在历史进程中的异化，指出其未能真正建立起独立的个体主体性，最终导致思想被权力吞噬的悲剧。
+tags:
+- chinese
+- individual-subjectivity
+- love
+- movement
+title: 五四知识分子的启蒙困境：从师生恋视角看中国启蒙的异化
+companies:
+- intellectual-dilemma
 ---
 
 ### 中国启蒙的困境：从个人视角到宏大叙事

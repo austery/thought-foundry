@@ -1,37 +1,37 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 极兔速递
 date: '2025-01-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 牛童
+- 杨子静
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=7-XU6mLzSOo
 speaker: 一席YiXi
-tags:
-  - urban-migration
-  - identity-fragmentation
-  - labor-exploitation
-  - intergenerational-silence
-  - rural-nostalgia
-title: 快递与故乡：一名摄影师镜头下的城市漂泊者与身份认同
-summary: 摄影师牛童通过拍摄快递员群体，揭示了中国城乡流动中一代人的生存状态：他们在城市从事高强度劳动，却无法真正归属；春节返乡是唯一的情感出口。作品串联起个人成长、身份焦虑与代际沉默，呈现一场无声的集体迁徙。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 牛童
-  - 杨子静
-companies_orgs:
-  - 极兔速递
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 摄影师牛童通过拍摄快递员群体，揭示了中国城乡流动中一代人的生存状态：他们在城市从事高强度劳动，却无法真正归属；春节返乡是唯一的情感出口。作品串联起个人成长、身份焦虑与代际沉默，呈现一场无声的集体迁徙。
+tags:
+- health
+- identity
+- labor
+- rural-nostalgia
+- urban
+title: 快递与故乡：一名摄影师镜头下的城市漂泊者与身份认同
 ---
+
 ### 镜头里的城市漂泊者
 
 我是一名摄影师，叫牛童，来自江苏南京。2020年，我的母亲失业后加入了极兔速递，成为一名快递分拣员。那时，极兔刚进入中国市场，单量暴增，八毛件发全国的策略让派送压力陡增。我第一次意识到，母亲的工作不是简单搬运，而是一种被系统榨取的体力劳动。

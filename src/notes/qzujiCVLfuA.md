@@ -1,79 +1,80 @@
 ---
-author: a16z
+area: society-systems
+category: finance
+companies_orgs:
+- Rocket Companies
+- S&P 500
+- Bureau of Labor Statistics
+- Apple
+- Google
+- Lehman Brothers
+- Stanford University
+- JPMorgan Chase
+- Harvard University
+- First USA
+- Chase
+- PayPal
+- Groupon
+- Intuit
+- Redfin
+- Zillow
+- Fannie Mae
+- Freddie Mac
+- Zappos
+- McKinsey & Company
+- Visa
+- Mastercard
+- American Express
+- Lennar Corporation
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Thank You for Smoking
+people:
+- Alex
+- Verun
+- Henry Ford
+- William Levitt
+- Warren Buffett
+- Tony Hsieh
+- Larry Page
+- Sheryl Sandberg
+- Sharon Stone
+- Liam Neeson
+products_models:
+- Consumer Price Index
+- TurboTax
+- ChatGPT
+- Airbnb
+- FHA Loans
+- VA Loans
+- 30-Year Fixed Mortgage
+- Adjustable-Rate Mortgage
+- Home Equity Line of Credit
+- Point
+- FICO
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=qzujiCVLfuA
 speaker: a16z
-tags:
-  - housing-crisis
-  - home-ownership
-  - asset-price-inflation
-  - fintech-innovation
-  - supply-demand-dynamics
-title: 解决住房危机：金融科技、供需失衡与资产通胀的视角
-summary: 本播客深入探讨了美国住房危机，分析了导致年轻人难以购房的深层原因，包括资产价格通胀、供需失衡和监管障碍。嘉宾们讨论了金融科技在简化抵押贷款流程、降低住房成本和提升购房体验方面的潜力，并介绍了Rocket Companies如何通过垂直整合和技术创新，从抵押贷款公司转型为全面的住房所有权服务公司，以应对市场挑战并实现长期增长。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Alex
-  - Verun
-  - Henry Ford
-  - William Levitt
-  - Warren Buffett
-  - Tony Hsieh
-  - Larry Page
-  - Sheryl Sandberg
-  - Sharon Stone
-  - Liam Neeson
-companies_orgs:
-  - Rocket Companies
-  - S&P 500
-  - Bureau of Labor Statistics
-  - Apple
-  - Google
-  - Lehman Brothers
-  - Stanford University
-  - JPMorgan Chase
-  - Harvard University
-  - First USA
-  - Chase
-  - PayPal
-  - Groupon
-  - Intuit
-  - Redfin
-  - Zillow
-  - Fannie Mae
-  - Freddie Mac
-  - Zappos
-  - McKinsey & Company
-  - Visa
-  - Mastercard
-  - American Express
-  - Lennar Corporation
-products_models:
-  - Consumer Price Index
-  - TurboTax
-  - ChatGPT
-  - Airbnb
-  - FHA Loans
-  - VA Loans
-  - 30-Year Fixed Mortgage
-  - Adjustable-Rate Mortgage
-  - Home Equity Line of Credit
-  - Point
-  - FICO
-media_books:
-  - Thank You for Smoking
 status: evergreen
+summary: 本播客深入探讨了美国住房危机，分析了导致年轻人难以购房的深层原因，包括资产价格通胀、供需失衡和监管障碍。嘉宾们讨论了金融科技在简化抵押贷款流程、降低住房成本和提升购房体验方面的潜力，并介绍了Rocket
+  Companies如何通过垂直整合和技术创新，从抵押贷款公司转型为全面的住房所有权服务公司，以应对市场挑战并实现长期增长。
+tags:
+- asset-price-inflation
+- crisis
+- dynamic
+- innovation
+- life
+title: 解决住房危机：金融科技、供需失衡与资产通胀的视角
 ---
+
 ### 住房所有权：金融科技的终极前沿
 
 住房在某种意义上对我来说，就像金融科技的最后一道前沿。它是大多数消费者的终极目标。所有金融科技在某些方面都引导消费者从根本上关注**代际财富**（generational wealth: 指家族财富通过几代人的积累和传承）。而代际财富，它来源于像房屋所有权这样的事物，对吗？它来源于长期的增值。它来源于为你、你的家人以及你家人的家人创造一个安全且可持续的东西。这就是美国梦。

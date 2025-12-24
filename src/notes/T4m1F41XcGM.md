@@ -1,83 +1,83 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: finance
+companies_orgs:
+- Nvidia
+- Bank of China
+- China Construction Bank
+- Postal Savings Bank of China
+- China Everbright Bank
+- Bank of Communications
+- China CITIC Bank
+- Industrial and Commercial Bank of China
+- Agricultural Bank of China
+- Bloomberg
+- Vanke
+- Shenzhen Metro
+- Moore Threads
+- ByteDance
+- Capital Today
+- Bank of China Group
+- OpenAI
+- UBS
+- Bank of Japan
+- Meta
+- Microsoft
+- Oracle
+- Walmart
+- Target
+- Home Depot
+- Federal Reserve
+- Department of Labor
+- Muddy Waters Research
+- Google
+- Advanced Micro Devices
+- TSMC
+- ASML
+- Pinduoduo
+- Costco
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- 小翠时政财经
+people:
+- Jensen Huang
+- Elon Musk
+- Junko Koizumi
+- Sanae Takaichi
+- Xi Jinping
+- Nick Timiraos
+- Bill Ackman
+products_models:
+- TikTok
+- Nvidia A100
+- Nvidia Hopper architecture
+- Nvidia GB300
+- Nvidia GB200
+- Tensor Processing Unit
+- Robin chip
+project:
+- us-analysis
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=T4m1F41XcGM
 speaker: 小翠時政財經
-tags:
-  - ai-market-impact
-  - global-stock-markets
-  - macroeconomic-trends
-  - investment-outlook
-  - us-consumer-spending
-title: 英伟达财报力挽全球股市，中国市场逆势下跌，房地产救市新政引关注
-summary: 本期节目深入分析了英伟达强劲财报对全球股市的提振作用，尤其对比了中国A股和港股的逆势表现。同时，探讨了中国房地产市场的新一轮财政救市措施，以及日本经济面临的挑战与央行应对。节目还详细解读了英伟达的业绩数据和黄仁勋对AI未来发展的展望，驳斥了AI泡沫论，并分享了对美国消费降级和美联储降息预期的看法，为投资者提供了多维度的市场洞察。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Jensen Huang
-  - Elon Musk
-  - Junko Koizumi
-  - Sanae Takaichi
-  - Xi Jinping
-  - Nick Timiraos
-  - Bill Ackman
-companies_orgs:
-  - Nvidia
-  - Bank of China
-  - China Construction Bank
-  - Postal Savings Bank of China
-  - China Everbright Bank
-  - Bank of Communications
-  - China CITIC Bank
-  - Industrial and Commercial Bank of China
-  - Agricultural Bank of China
-  - Bloomberg
-  - Vanke
-  - Shenzhen Metro
-  - Moore Threads
-  - ByteDance
-  - Capital Today
-  - Bank of China Group
-  - OpenAI
-  - UBS
-  - Bank of Japan
-  - Meta
-  - Microsoft
-  - Oracle
-  - Walmart
-  - Target
-  - Home Depot
-  - Federal Reserve
-  - Department of Labor
-  - Muddy Waters Research
-  - Google
-  - Advanced Micro Devices
-  - TSMC
-  - ASML
-  - Pinduoduo
-  - Costco
-products_models:
-  - TikTok
-  - Nvidia A100
-  - Nvidia Hopper architecture
-  - Nvidia GB300
-  - Nvidia GB200
-  - Tensor Processing Unit
-  - Robin chip
-media_books:
-  - Bloomberg
-  - 小翠时政财经
 status: evergreen
+summary: 本期节目深入分析了英伟达强劲财报对全球股市的提振作用，尤其对比了中国A股和港股的逆势表现。同时，探讨了中国房地产市场的新一轮财政救市措施，以及日本经济面临的挑战与央行应对。节目还详细解读了英伟达的业绩数据和黄仁勋对AI未来发展的展望，驳斥了AI泡沫论，并分享了对美国消费降级和美联储降息预期的看法，为投资者提供了多维度的市场洞察。
+tags:
+- global-stock-market
+- investment-outlook
+- market
+- trend
+- us-consumer-spending
+title: 英伟达财报力挽全球股市，中国市场逆势下跌，房地产救市新政引关注
 ---
+
 大家好，欢迎回到**小翠时政财经**（Xiao Cui Political and Financial Review: 一档时政财经评论节目）。今天是美东时间2025年11月20日。今天有一个好消息，英伟达（Nvidia: 一家设计和销售图形处理器（GPU）和AI芯片的科技公司）凭借一己之力拯救了全球股市。
 
 ### 中国股市逆势下跌与房地产救市新政

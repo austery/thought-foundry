@@ -1,58 +1,58 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Daimler Truck
+- Norges Bank Investment Management
+- Mercedes-Benz
+- Fuso
+- Western Star
+- Freightliner
+- Volvo
+- Torque
+- Waymo
+- Aurora
+- Kodiak
+- Scania
+- Siemens
+- Atlas Copco
+- Lonza
+- CATL
 date: '2025-09-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- IAA
+- Women for Leaders
+people:
+- Karin Rådström
+- Joe Kaeser
+- Jim Snape
+- Albert Benny
+- Charlotte
+products_models:
+- Euro 7
+project:
+- ai-impact-analysis
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Y8dG0w2ints
 speaker: Norges Bank Investment Management
-tags:
-  - trucking-industry
-  - electrification
-  - autonomous-vehicles
-  - corporate-culture
-  - leadership-development
-title: 戴姆勒卡车CEO Karin Rådström：百年巨头的电动化、自动驾驶与文化转型之路
-summary: 戴姆勒卡车公司首席执行官Karin Rådström在一期播客中分享了公司在电动化、自动驾驶、企业文化转型以及领导力方面的深刻见解。她探讨了卡车市场周期性、多品牌战略、软件定义车辆的未来，以及如何在传统制造业中推动创新。Karin还分享了她在德国企业文化中的适应与领导经验，强调了韧性、团队合作和自我反思的重要性，并对年轻一代提出了“相信自己，敢于梦想”的建议。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Karin Rådström
-  - Joe Kaeser
-  - Jim Snape
-  - Albert Benny
-  - Charlotte
-companies_orgs:
-  - Daimler Truck
-  - Norges Bank Investment Management
-  - Mercedes-Benz
-  - Fuso
-  - Western Star
-  - Freightliner
-  - Volvo
-  - Torque
-  - Waymo
-  - Aurora
-  - Kodiak
-  - Scania
-  - Siemens
-  - Atlas Copco
-  - Lonza
-  - CATL
-products_models:
-  - Euro 7
-media_books:
-  - In Good Company
-  - IAA
-  - Women for Leaders
 status: evergreen
+summary: 戴姆勒卡车公司首席执行官Karin Rådström在一期播客中分享了公司在电动化、自动驾驶、企业文化转型以及领导力方面的深刻见解。她探讨了卡车市场周期性、多品牌战略、软件定义车辆的未来，以及如何在传统制造业中推动创新。Karin还分享了她在德国企业文化中的适应与领导经验，强调了韧性、团队合作和自我反思的重要性，并对年轻一代提出了“相信自己，敢于梦想”的建议。
+tags:
+- autonomous-vehicle
+- corporate-culture
+- electrification
+- industry
+- leadership-development
+title: 戴姆勒卡车CEO Karin Rådström：百年巨头的电动化、自动驾驶与文化转型之路
 ---
+
 ### 戴姆勒卡车：全球商用车巨头的转型之路
 
 今天，我们非常荣幸地邀请到戴姆勒卡车公司（Daimler Truck）的首席执行官兼总裁Karin Rådström。戴姆勒卡车是全球最大的商用车生产商。Karin最近被评为瑞典最重要的女商人，她正在戴姆勒卡车推动公司从传统的柴油车巨头转型为面向未来的移动出行强企。Karin结合了工程学背景和精英体育背景，我们向她表示热烈欢迎。

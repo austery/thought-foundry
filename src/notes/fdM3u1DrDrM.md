@@ -1,60 +1,59 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg
+- Federal Reserve
+- Walmart
+- Home Depot
+- BMW
+- Discord
 date: '2025-08-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Tom Barkin
+- Jerome Powell
+- Ann Wong
+- Austan Goolsbee
+- Jeffrey Schmid
+- Mary Daly
+- Donald Trump
+- Paul Volcker
+- Milton Friedman
+- Kerman Rodriguez
+- Dashelob Bennett
+- Kale Brooks
+products_models:
+- Taylor rule
+- PCE
+- CPI
+- PPI
+- City Economic Surprise Index
+- Summary of Economic Projections
+- Apple Podcast
+project:
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=fdM3u1DrDrM
 speaker: Bloomberg Podcasts
-tags:
-  - monetary-policy
-  - inflation-employment-balance
-  - tariff-economic-impact
-  - fed-independence
-  - economic-outlook
-title: 美联储主席巴尔金：中央银行正处于“困难模式”
-summary: 里士满联储主席汤姆·巴尔金在杰克逊霍尔会议上探讨了当前美国经济面临的复杂挑战。他指出，就业市场和通胀风险均存在不确定性，尤其是在劳动力数据修正、移民变化和关税影响下。巴尔金认为，尽管市场对鲍威尔的讲话解读为鸽派，但实际情况可能更为中性。他还强调了通胀的粘性、消费者行为的变化以及美联储独立性的重要性，认为当前货币政策制定正处于一个需要高度校准的“困难模式”。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Tom Barkin
-  - Jerome Powell
-  - Ann Wong
-  - Austan Goolsbee
-  - Jeffrey Schmid
-  - Mary Daly
-  - Donald Trump
-  - Paul Volcker
-  - Milton Friedman
-  - Kerman Rodriguez
-  - Dashelob Bennett
-  - Kale Brooks
-companies_orgs:
-  - Bloomberg
-  - Federal Reserve
-  - Walmart
-  - Home Depot
-  - BMW
-  - Discord
-products_models:
-  - Taylor rule
-  - PCE
-  - CPI
-  - PPI
-  - City Economic Surprise Index
-  - Summary of Economic Projections
-  - Apple Podcast
-media_books:
-  - Odd Lots Podcast
 status: evergreen
+summary: 里士满联储主席汤姆·巴尔金在杰克逊霍尔会议上探讨了当前美国经济面临的复杂挑战。他指出，就业市场和通胀风险均存在不确定性，尤其是在劳动力数据修正、移民变化和关税影响下。巴尔金认为，尽管市场对鲍威尔的讲话解读为鸽派，但实际情况可能更为中性。他还强调了通胀的粘性、消费者行为的变化以及美联储独立性的重要性，认为当前货币政策制定正处于一个需要高度校准的“困难模式”。
+tags:
+- economic-outlook
+- financial
+- inflation-employment-balance
+- tariff-economic-impact
+title: 美联储主席巴尔金：中央银行正处于“困难模式”
 ---
+
 <details>
 <summary>View/Hide Original English</summary>
 <p class="english-text">[Music]</p>

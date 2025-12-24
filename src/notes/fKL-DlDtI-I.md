@@ -1,59 +1,60 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- OddLots
+- Partnership for New York City
+- Chase Bank
+- Cornell Tech
+- Tishman Speyer
+- Pfizer
+- AlleyCorp
+- Business Insider
 date: '2025-07-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+people:
+- Zohran Mamdani
+- Joe Weisenthal
+- Tracy Alloway
+- Kathy Wild
+- David Rockefeller
+- Andrew Cuomo
+- Eric Adams
+- Bill de Blasio
+- Jamie Dimon
+- Rob Speyer
+- Albert Bourla
+- Kevin Ryan
+- Mike Bloomberg
+- Jesse Tisch
+- Mario Cuomo
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=fKL-DlDtI-I
 speaker: Bloomberg Podcasts
-tags:
-  - nyc-politics
-  - mayoral-election
-  - business-concerns
-  - public-safety
-  - affordability
-  - democratic-socialism
-title: 纽约商界精英如何看待民主社会主义市长候选人Zohran Mamdani？
-summary: 本期播客探讨了纽约市商界领袖对民主社会主义市长候选人Zohran Mamdani意外胜选的看法。纽约市伙伴关系组织（Partnership for New York City）首席执行官Kathy Wild分享了商界对Mamdani政策（如税收、住房可负担性、公共安全）的担忧，以及市长权力在这些方面的局限性。她还讨论了Mamdani与犹太社区的关系、竞选策略的转变，以及纽约市商业环境面临的真正威胁，强调公共安全和住房可负担性是吸引人才的关键。播客还深入探讨了纽约商界在代际意识和全球化焦点上的转变。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - Zohran Mamdani
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Kathy Wild
-  - David Rockefeller
-  - Andrew Cuomo
-  - Eric Adams
-  - Bill de Blasio
-  - Jamie Dimon
-  - Rob Speyer
-  - Albert Bourla
-  - Kevin Ryan
-  - Mike Bloomberg
-  - Jesse Tisch
-  - Mario Cuomo
-companies_orgs:
-  - Bloomberg
-  - OddLots
-  - Partnership for New York City
-  - Chase Bank
-  - Cornell Tech
-  - Tishman Speyer
-  - Pfizer
-  - AlleyCorp
-  - Business Insider
-products_models: []
-media_books:
-  - OddLots podcast
 status: evergreen
+summary: 本期播客探讨了纽约市商界领袖对民主社会主义市长候选人Zohran Mamdani意外胜选的看法。纽约市伙伴关系组织（Partnership for
+  New York City）首席执行官Kathy Wild分享了商界对Mamdani政策（如税收、住房可负担性、公共安全）的担忧，以及市长权力在这些方面的局限性。她还讨论了Mamdani与犹太社区的关系、竞选策略的转变，以及纽约市商业环境面临的真正威胁，强调公共安全和住房可负担性是吸引人才的关键。播客还深入探讨了纽约商界在代际意识和全球化焦点上的转变。
+tags:
+- affordability
+- business
+- democratic
+- geopolitical
+- politics
+- public-safety
+title: 纽约商界精英如何看待民主社会主义市长候选人Zohran Mamdani？
 ---
+
 ### Zohran Mamdani的意外崛起
 
 **Joe Weisenthal:** 大家好，欢迎收听《OddLots》播客的又一期节目，我是Joe Weisenthal。

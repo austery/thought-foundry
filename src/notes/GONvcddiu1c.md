@@ -1,38 +1,36 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: culture
+companies_orgs:
+- 中国铁路
+- 携程
+- YouTube
+- NDP
 date: '2024-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- '12306'
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=GONvcddiu1c
 speaker: 莊也雜談
-tags:
-  - china-travel-tips
-  - customer-service-culture
-  - cultural-differences
-  - online-discourse
-  - shanghai-travel-guide
-title: 上海之旅争议与反思：从“高华”标签到本地人推荐，兼谈高铁购票与民宿风波
-summary: 本期节目，庄也继续分享2024年回国探亲系列，重点回应了观众对上海之行的争议性留言并进行信息更正。内容涵盖了外国护照购买高铁票的实际操作、对上海服务业的体验反馈、对“地域黑”和“高华”标签的解读与反思，以及上海本地人推荐的深度游景点。此外，庄也还讲述了一段在携程平台为民宿打分时遇到的奇葩经历，并预告了未来的节目内容。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people: []
-companies_orgs:
-  - 中国铁路
-  - 携程
-  - YouTube
-  - NDP
-products_models:
-  - '12306'
-media_books: []
 status: evergreen
+summary: 本期节目，庄也继续分享2024年回国探亲系列，重点回应了观众对上海之行的争议性留言并进行信息更正。内容涵盖了外国护照购买高铁票的实际操作、对上海服务业的体验反馈、对“地域黑”和“高华”标签的解读与反思，以及上海本地人推荐的深度游景点。此外，庄也还讲述了一段在携程平台为民宿打分时遇到的奇葩经历，并预告了未来的节目内容。
+tags:
+- china
+- cultural-difference
+- culture
+- online
+- travel
+title: 上海之旅争议与反思：从“高华”标签到本地人推荐，兼谈高铁购票与民宿风波
 ---
+
 ### 上海之旅的争议与澄清
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天，咱们继续聊2024年的回国之旅，话题仍与上海有关。不过，今天咱们主要点评一下上一期节目中一些比较有争议性的留言，以及有几处需要更正或补充的信息。

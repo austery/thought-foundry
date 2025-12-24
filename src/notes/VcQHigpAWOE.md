@@ -1,44 +1,43 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- National Rifle Association
+- American Bar Association
+- The New Republic
 date: '2025-09-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- '《Gunfight: The Battle Over the Right to Bear Arms in America》'
+- 《Michigan Law Review》
+- 《Yale Law Journal》
+people:
+- Charlie Kirk
+- Antonin Scalia
+- Elena Kagan
+- Adam Winkler
+- Sanford Levinson
+- Richard Posner
+- Dick Heller
+products_models:
+- Colt revolver
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=VcQHigpAWOE
 speaker: 徒步的騎手
-tags:
-  - second-amendment
-  - gun-control-debate
-  - constitutional-interpretation
-  - us-political-polarization
-title: 美国持枪权之争：第二修正案的历史演变与政治博弈
-summary: 本文深入探讨了美国宪法第二修正案的复杂历史与现代争议。从保守派代表人物查理·科克的“代价论”谈起，文章追溯了持枪权如何从一项被忽视的集体权利，经过数十年的法律和文化运动，演变为最高法院在“哥伦比亚特区诉赫勒案”中确立的个人权利。文章还剖析了“蛮荒西部”时期严格控枪的历史事实，揭示了持枪权在美国政治、社会和文化中的深刻烙印及其引发的持续博弈。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Charlie Kirk
-  - Antonin Scalia
-  - Elena Kagan
-  - Adam Winkler
-  - Sanford Levinson
-  - Richard Posner
-  - Dick Heller
-companies_orgs:
-  - National Rifle Association
-  - American Bar Association
-  - The New Republic
-products_models:
-  - Colt revolver
-media_books:
-  - '《Gunfight: The Battle Over the Right to Bear Arms in America》'
-  - 《Michigan Law Review》
-  - 《Yale Law Journal》
 status: evergreen
+summary: 本文深入探讨了美国宪法第二修正案的复杂历史与现代争议。从保守派代表人物查理·科克的“代价论”谈起，文章追溯了持枪权如何从一项被忽视的集体权利，经过数十年的法律和文化运动，演变为最高法院在“哥伦比亚特区诉赫勒案”中确立的个人权利。文章还剖析了“蛮荒西部”时期严格控枪的历史事实，揭示了持枪权在美国政治、社会和文化中的深刻烙印及其引发的持续博弈。
+tags:
+- constitutional
+- control
+- political
+- society
+title: 美国持枪权之争：第二修正案的历史演变与政治博弈
 ---
 
 ### “值得的代价”：枪支暴力与第二修正案的现代争议

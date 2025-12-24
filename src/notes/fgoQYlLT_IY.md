@@ -1,32 +1,31 @@
 ---
-title: Hot Chips 2025 七大技术领域深度解析：AI计算、网络、光I/O、CPU、图形、安全与散热创新
-summary: Hot Chips 2025大会深入探讨了芯片行业的未来走向，涵盖AI计算、网络、光I/O、CPU、图形、安全及散热等七大关键技术领域，揭示了从存储突破到精细散热的最新进展。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-chips
-- data-center-infrastructure
-- high-performance-computing
-- hot-chips-2025
-- optical-interconnects
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- best-partners-tv
 date: '2025-09-05'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- best-partners-tv
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=fgoQYlLT_IY
+speaker: Best Partners TV
 status: evergreen
+summary: Hot Chips 2025大会深入探讨了芯片行业的未来走向，涵盖AI计算、网络、光I/O、CPU、图形、安全及散热等七大关键技术领域，揭示了从存储突破到精细散热的最新进展。
+tags:
+- ai-chip
+- data-center-infrastructure
+- performance
+- science
+- technology
+title: Hot Chips 2025 七大技术领域深度解析：AI计算、网络、光I/O、CPU、图形、安全与散热创新
 ---
+
 ### Hot Chips 2025 大会概览与核心突破
 
 国际顶级芯片会议Hot Chips已正式落下帷幕，作为芯片及系统设计领域的年度风向标，本届大会揭示了未来科技的底层逻辑。大会议程设计巧妙，首日聚焦CPU、安全、图形与网络等基础支柱，第二天则转向光学、散热与机器学习等AI时代的核心痛点。本篇文章将沿着大会的技术脉络，逐领域拆解本届Hot Chips的核心突破，旨在以通俗易懂的方式阐释藏匿于技术文档中的参数、架构与创新，从而清晰展现未来1-2年芯片行业的真实走向。

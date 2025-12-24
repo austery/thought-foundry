@@ -1,33 +1,31 @@
 ---
-title: 英伟达CEO黄仁勋：OpenAI将成万亿美元级巨头，三大定律预示AI计算需求的爆发
-summary: 英伟达CEO黄仁勋与主持人探讨了AI计算的未来，预测OpenAI将成为下一个万亿美元级的超大规模公司。他详细阐述了预训练、后训练和推理这“三大扩展定律”对计算需求的巨大推动作用，并讨论了公司与OpenAI的深度合作、ASIC竞争的本质，以及美国在吸引全球AI人才方面的战略。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- us-analysis
-tags:
-- ai基础设施
-- 美国ai战略
-- 计算扩展定律
-people: []
 companies_orgs:
 - openai
-products_models:
-- hbm
-media_books:
-- bg2-pod
 date: '2025-10-06'
-author: Bg2 Pod
-speaker: Bg2 Pod
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bg2-pod
+products_models:
+- hbm
+project:
+- ai-impact-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=pE6sw_E9Gh0
+speaker: Bg2 Pod
 status: evergreen
+summary: 英伟达CEO黄仁勋与主持人探讨了AI计算的未来，预测OpenAI将成为下一个万亿美元级的超大规模公司。他详细阐述了预训练、后训练和推理这“三大扩展定律”对计算需求的巨大推动作用，并讨论了公司与OpenAI的深度合作、ASIC竞争的本质，以及美国在吸引全球AI人才方面的战略。
+tags:
+- llm
+- 计算扩展定律
+title: 英伟达CEO黄仁勋：OpenAI将成万亿美元级巨头，三大定律预示AI计算需求的爆发
 ---
+
 ### 对OpenAI未来前景的预测
 
 I think that OpenAI is likely going to be the next multi-trillion dollar hyperscale company.

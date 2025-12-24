@@ -1,34 +1,33 @@
 ---
-author: 徒步的騎手
-date: 2025-10-09
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=HuL1I10jDME'
-speaker: 徒步的騎手
-tags:
-  - personal-transformation
-  - life-changing-moments
-  - perseverance
-  - educational-pursuit
-title: 改变命运的关键五分钟：从工厂送货员到北大研究生的逆袭之路
-summary: 本文讲述了一位普通人从工厂送货员，通过不懈努力最终考上北京大学研究生的真实经历。作者回顾了那段曾被视为“像山丘一样平坦”的岁月，并分享了几个改变其人生轨迹的关键时刻，包括来自考研同伴、难忘的学生以及骑行朋友的深刻启迪。文章的核心观点是，英雄与普通人的区别，或许就在于多坚持那关键的五分钟。
-insight: ''
-draft: true
-series: ''
-category: career
 area: personal-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - 李宗盛
-  - Ralph Waldo Emerson
+category: career
 companies_orgs:
-  - 北京大学
-products_models: '[]'
+- 北京大学
+date: 2025-10-09
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《山丘》
+- 《山丘》
+people:
+- 李宗盛
+- Ralph Waldo Emerson
+products_models: '[]'
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=HuL1I10jDME
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文讲述了一位普通人从工厂送货员，通过不懈努力最终考上北京大学研究生的真实经历。作者回顾了那段曾被视为“像山丘一样平坦”的岁月，并分享了几个改变其人生轨迹的关键时刻，包括来自考研同伴、难忘的学生以及骑行朋友的深刻启迪。文章的核心观点是，英雄与普通人的区别，或许就在于多坚持那关键的五分钟。
+tags:
+- life
+- personal
+- society
+- technology
+title: 改变命运的关键五分钟：从工厂送货员到北大研究生的逆袭之路
 ---
 
 ### 和山丘一样平坦的人生

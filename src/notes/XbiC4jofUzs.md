@@ -1,86 +1,86 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 哈佛大学化学系
+- 剑桥大学
+- 哥廷根大学
+- 加州大学伯克利分校
+- 联邦调查局 (FBI)
+- 中央情报局 (CIA)
+- S-1委员会
+- 五角大楼监督委员会
+- 普林斯顿高等研究院
+- 原子能委员会
+- 联合国
+- 美国国会
 date: '2023-08-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《罗马帝国衰亡史》
+- 《法兰西文学》
+- 《契诃夫小说》
+- 《资本论》
+- 《洛斯阿拉莫斯入门》
+- 《薄伽梵歌》
+- 《时代》杂志
+- 《黑镜》
+people:
+- J. Robert Oppenheimer
+- Patrick Blackett
+- Wolfgang Pauli
+- Niels Bohr
+- Werner Heisenberg
+- Jane Tatlock
+- Kitty Oppenheimer
+- Harrison
+- Albert Einstein
+- Lewis Strauss
+- 杨振宁
+- 李政道
+- John Donne
+- Leslie Groves
+- Robert Serber
+- George Kistiakowsky
+- Moe Berg
+- Boris Pash
+- J. Edgar Hoover
+- Haakon Chevalier
+- George Eltenton
+- Leo Szilard
+- Harry S. Truman
+- Dwight D. Eisenhower
+- Joseph Stalin
+- 长谷川毅
+- John F. Kennedy
+- William Borden
+- Joseph McCarthy
+products_models:
+- 曼哈顿计划
+- 三位一体 (Trinity) 核试验
+- 罗斯福新政
+- 弗兰克报告
+- 费米奖
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=XbiC4jofUzs
 speaker: 超級歪 SuperY
-tags:
-  - us-nuclear-program
-  - cold-war-origins
-  - political-persecution
-  - atomic-bomb-history
-  - scientific-ethics
-title: 奥本海默的传奇人生：原子弹之父的政治风波、二战终结真相与未解之谜
-summary: 本文深入探讨了“原子弹之父”奥本海默的传奇一生，从其早年天才求学经历，到领导曼哈顿计划的辉煌，再到战后因政治立场遭受麦卡锡主义迫害的悲剧。文章揭示了电影中未提及的历史细节，包括原子弹测试的代号来源、其女友的神秘死亡，并重新审视了二战结束的真正原因，挑战了原子弹是终结战争唯一因素的传统观点，探讨了奥本海默对核武器国际管制的理想与现实困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - J. Robert Oppenheimer
-  - Patrick Blackett
-  - Wolfgang Pauli
-  - Niels Bohr
-  - Werner Heisenberg
-  - Jane Tatlock
-  - Kitty Oppenheimer
-  - Harrison
-  - Albert Einstein
-  - Lewis Strauss
-  - 杨振宁
-  - 李政道
-  - John Donne
-  - Leslie Groves
-  - Robert Serber
-  - George Kistiakowsky
-  - Moe Berg
-  - Boris Pash
-  - J. Edgar Hoover
-  - Haakon Chevalier
-  - George Eltenton
-  - Leo Szilard
-  - Harry S. Truman
-  - Dwight D. Eisenhower
-  - Joseph Stalin
-  - 长谷川毅
-  - John F. Kennedy
-  - William Borden
-  - Joseph McCarthy
-companies_orgs:
-  - 哈佛大学化学系
-  - 剑桥大学
-  - 哥廷根大学
-  - 加州大学伯克利分校
-  - 联邦调查局 (FBI)
-  - 中央情报局 (CIA)
-  - S-1委员会
-  - 五角大楼监督委员会
-  - 普林斯顿高等研究院
-  - 原子能委员会
-  - 联合国
-  - 美国国会
-products_models:
-  - 曼哈顿计划
-  - 三位一体 (Trinity) 核试验
-  - 罗斯福新政
-  - 弗兰克报告
-  - 费米奖
-media_books:
-  - 《罗马帝国衰亡史》
-  - 《法兰西文学》
-  - 《契诃夫小说》
-  - 《资本论》
-  - 《洛斯阿拉莫斯入门》
-  - 《薄伽梵歌》
-  - 《时代》杂志
-  - 《黑镜》
 status: evergreen
+summary: 本文深入探讨了“原子弹之父”奥本海默的传奇一生，从其早年天才求学经历，到领导曼哈顿计划的辉煌，再到战后因政治立场遭受麦卡锡主义迫害的悲剧。文章揭示了电影中未提及的历史细节，包括原子弹测试的代号来源、其女友的神秘死亡，并重新审视了二战结束的真正原因，挑战了原子弹是终结战争唯一因素的传统观点，探讨了奥本海默对核武器国际管制的理想与现实困境。
+tags:
+- ethics
+- history
+- nuclear
+- political-persecution
+- war
+title: 奥本海默的传奇人生：原子弹之父的政治风波、二战终结真相与未解之谜
 ---
+
 ### 奥本海默的早年生活与学术之路
 
 他被称为**原子弹之父**（Father of the Atomic Bomb），却忏悔自己是“世界的毁灭者”。他曾为美国效力于**曼哈顿计划**（Manhattan Project: 美国在二战期间研制原子弹的绝密计划），晚年却遭受政治迫害。我们究竟该如何看待奥本海默？今天，让我们一起探讨奥本海默的传奇一生。

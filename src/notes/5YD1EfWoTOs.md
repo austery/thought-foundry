@@ -1,79 +1,79 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times Book Review
+- Duke University Press
+- Schomburg Center for Research in Black Culture
+- Columbia University
+- New York University (NYU)
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Baldwin, a Love Story
+- Go Tell It on the Mountain
+- Stranger in the Village
+- Dead and Alive
+- Craft and Conscience
+- Another Country
+- The Fire Next Time
+- If Beale Street Could Talk
+- Little Man, Little Man
+- No Name in the Street
+- No Papers in Muhammad
+- Giovanni's Room
+- To Crush a Serpent
+- Freaks in the American Ideal of Manhood
+- The Price of the Ticket
+- Notes of a Native Son
+- Just Above My Head
+- Hermione Lee's Virginia Woolf biography
+- james-baldwin-biography
+people:
+- Nicholas Boggs
+- MJ Franklin
+- James Baldwin
+- Buford Delaney
+- Lucian Hapersburgger
+- Engin Jazar
+- Yuron Kazak
+- Toni Morrison
+- Lorraine Hansberry
+- Maya Angelou
+- Zadie Smith
+- David Leming
+- William Buckley
+- Martin Luther King
+- Sterling Brown
+- Mary Painter
+- Aisha
+- Tan
+- David Moses
+- Lena Waithe
+- Robert Jones
+- John Keane
+- Balthus
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=5YD1EfWoTOs
 speaker: New York Times Podcasts
-tags:
-  - james-baldwin-biography
-  - love-as-framework
-  - queer-relationships
-  - literary-analysis
-  - civil-rights-movement
-title: 尼古拉斯·博格斯谈詹姆斯·鲍德温传记：以爱之名
-summary: 这本传记以爱为视角，深入探讨了詹姆斯·鲍德温的生平与创作，重点关注了他与几位重要男性的关系。书中提出，爱不仅是鲍德温作品的核心主题，更是他创作过程和个人突破的驱动力。作者尼古拉斯·博格斯分享了他独特的传记写作方法，揭示了挖掘鲍德温同性恋情所面临的挑战，以及这些关系如何深刻影响了他的杰作和对美国社会的理解。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - us-analysis
-people:
-  - Nicholas Boggs
-  - MJ Franklin
-  - James Baldwin
-  - Buford Delaney
-  - Lucian Hapersburgger
-  - Engin Jazar
-  - Yuron Kazak
-  - Toni Morrison
-  - Lorraine Hansberry
-  - Maya Angelou
-  - Zadie Smith
-  - David Leming
-  - William Buckley
-  - Martin Luther King
-  - Sterling Brown
-  - Mary Painter
-  - Aisha
-  - Tan
-  - David Moses
-  - Lena Waithe
-  - Robert Jones
-  - John Keane
-  - Balthus
-companies_orgs:
-  - New York Times Book Review
-  - Duke University Press
-  - Schomburg Center for Research in Black Culture
-  - Columbia University
-  - New York University (NYU)
-products_models: []
-media_books:
-  - Baldwin, a Love Story
-  - Go Tell It on the Mountain
-  - Stranger in the Village
-  - Dead and Alive
-  - Craft and Conscience
-  - Another Country
-  - The Fire Next Time
-  - If Beale Street Could Talk
-  - Little Man, Little Man
-  - No Name in the Street
-  - No Papers in Muhammad
-  - Giovanni's Room
-  - To Crush a Serpent
-  - Freaks in the American Ideal of Manhood
-  - The Price of the Ticket
-  - Notes of a Native Son
-  - Just Above My Head
-  - Hermione Lee's Virginia Woolf biography
 status: evergreen
+summary: 这本传记以爱为视角，深入探讨了詹姆斯·鲍德温的生平与创作，重点关注了他与几位重要男性的关系。书中提出，爱不仅是鲍德温作品的核心主题，更是他创作过程和个人突破的驱动力。作者尼古拉斯·博格斯分享了他独特的传记写作方法，揭示了挖掘鲍德温同性恋情所面临的挑战，以及这些关系如何深刻影响了他的杰作和对美国社会的理解。
+tags:
+- analysis
+- love
+- movement
+- relationship
+title: 尼古拉斯·博格斯谈詹姆斯·鲍德温传记：以爱之名
 ---
+
 ### 詹姆斯·鲍德温：一位以爱为核心的作家与偶像
 
 MJ Franklin: 欢迎收听《书评播客》。我是《纽约时报书评》的编辑MJ Franklin。本周的播客，我们邀请到尼古拉斯·博格斯来聊聊他的新书《鲍德温：一个爱情故事》。

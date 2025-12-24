@@ -1,30 +1,27 @@
 ---
-title: 财务自由之路：房地产投资的不可或缺性与新人入门指南
-summary: 本文探讨了为何房地产投资对实现财务自由至关重要，纠正了仅依赖股市的误区。内容涵盖了房地产在财富积累中的统计学作用，并为新人提供了从学习到实践的四大入门步骤及实用书籍推荐。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-tags:
-  - beginner-guide
-  - book-recommendations
-  - financial-freedom
-  - investment-strategy
-  - real-estate-investing
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-09-09'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- beginner-guide
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=qfiLVwPUXFc
+speaker: 一口新飯
 status: evergreen
+summary: 本文探讨了为何房地产投资对实现财务自由至关重要，纠正了仅依赖股市的误区。内容涵盖了房地产在财富积累中的统计学作用，并为新人提供了从学习到实践的四大入门步骤及实用书籍推荐。
+tags:
+- book-recommendation
+- financial-freedom
+- real-estate-investing
+title: 财务自由之路：房地产投资的不可或缺性与新人入门指南
 ---
 
 ### 房地产投资：实现财务自由的关键拼图

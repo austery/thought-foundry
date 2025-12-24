@@ -1,43 +1,40 @@
 ---
-author: Joseph Wang
+area: market-analysis
+category: finance
+companies_orgs:
+- ADP
+- Paychex
+- Institute for Supply Management
+- Chicago Federal Reserve Bank
+- Bank of America
+- Federal Reserve
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- S&P 500
+- Non-Farm Payrolls Report
+- Financial Stability Report
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ejT8qdk5lJI
 speaker: Joseph Wang
-tags:
-  - labor-market
-  - economic-data
-  - government-shutdown
-  - asset-valuation
-  - financial-stability
-title: 市场周报：政府停摆下的劳动力市场与美联储的“万物泡沫”警告
-summary: 本期市场周报回顾了近期股市表现，并指出由于政府停摆，关键的非农就业报告缺失，导致市场在数据真空期“盲飞”。节目深入分析了ADP、Paychex、ISM调查等多种替代劳动力市场指标，显示劳动力市场整体保持稳定或略有恶化。在此背景下，美联储官员的鹰派倾向日益增强，对12月降息持保留态度。此外，报告还详细解读了美联储最新金融稳定报告，强调股票、公司债券、房地产和农田等各类资产估值普遍偏高，存在“万物泡沫”的风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Joseph Wang
-companies_orgs:
-  - ADP
-  - Paychex
-  - Institute for Supply Management
-  - Chicago Federal Reserve Bank
-  - Bank of America
-  - Federal Reserve
-products_models:
-  - S&P 500
-  - Non-Farm Payrolls Report
-  - Financial Stability Report
-media_books: []
 status: evergreen
+summary: 本期市场周报回顾了近期股市表现，并指出由于政府停摆，关键的非农就业报告缺失，导致市场在数据真空期“盲飞”。节目深入分析了ADP、Paychex、ISM调查等多种替代劳动力市场指标，显示劳动力市场整体保持稳定或略有恶化。在此背景下，美联储官员的鹰派倾向日益增强，对12月降息持保留态度。此外，报告还详细解读了美联储最新金融稳定报告，强调股票、公司债券、房地产和农田等各类资产估值普遍偏高，存在“万物泡沫”的风险。
+tags:
+- economic-datum
+- financial-stability
+- government-shutdown
+- labor-market
+- valuation
+title: 市场周报：政府停摆下的劳动力市场与美联储的“万物泡沫”警告
 ---
+
 ### 市场概览与数据真空
 
 大家好，今天是11月8日，这里是《市场周报》。过去一周，股市表现相当低迷，出现了显著的回调。但最终，标普500指数似乎在**50日移动平均线**（50-day moving average: 衡量过去50个交易日平均价格的指标）处获得了支撑并反弹，而且我们正处于一年中季节性表现相当积极的时期，因此目前我不会过于悲观。

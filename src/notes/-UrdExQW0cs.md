@@ -1,48 +1,46 @@
 ---
-author: Veritasium
-date: '2023-03-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=-UrdExQW0cs
-speaker: Veritasium
-tags:
-  - veritasium
-  - quantum-computing
-  - cryptography
-  - post-quantum-encryption
-  - data-security
-  - prime-factorization
-title: 量子计算机的颠覆性力量与后量子加密的应对之道
-summary: 本文深入探讨了量子计算机的强大之处及其对当前加密技术的潜在威胁，特别是“先存储后解密”（SNDL）策略。文章详细解释了量子计算如何通过量子傅里里叶变换加速大数因子分解，从而破解RSA等公钥加密算法。同时，介绍了后量子密码学的最新进展，特别是基于格（Lattice-based）的加密算法，以及全球为应对量子威胁所做的努力，强调了持续创新在保护数字安全中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Riverst
-  - Shamir
-  - Adelman
-  - Peter Shor
-  - Don Coppersmith
+category: technology
 companies_orgs:
-  - National Security Administration
-  - US Congress
-  - National Institute of Standards and Technology
-  - IBM
-  - Microsoft
-  - Alphabet X
+- National Security Administration
+- US Congress
+- National Institute of Standards and Technology
+- IBM
+- Microsoft
+- Alphabet X
+date: '2023-03-20'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Riverst
+- Shamir
+- Adelman
+- Peter Shor
+- Don Coppersmith
 products_models:
-  - RSA
-  - General Number Field Sieve
-  - Brilliant
-media_books: []
+- RSA
+- General Number Field Sieve
+- Brilliant
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=-UrdExQW0cs
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了量子计算机的强大之处及其对当前加密技术的潜在威胁，特别是“先存储后解密”（SNDL）策略。文章详细解释了量子计算如何通过量子傅里里叶变换加速大数因子分解，从而破解RSA等公钥加密算法。同时，介绍了后量子密码学的最新进展，特别是基于格（Lattice-based）的加密算法，以及全球为应对量子威胁所做的努力，强调了持续创新在保护数字安全中的关键作用。
+tags:
+- canada
+- data
+- investment
+- quantum-computing
+- technology
+title: 量子计算机的颠覆性力量与后量子加密的应对之道
 ---
+
 ### 量子计算的威胁：先存储后解密
 
 目前，一些国家和个人行为者正在截获并存储大量加密数据，例如密码、银行详细信息和社会安全号码。然而，他们现在还无法打开这些文件。那么，他们为什么要这样做呢？这是因为他们相信在未来10到20年内，他们将能够使用量子计算机在几分钟内破解这些加密。

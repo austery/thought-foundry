@@ -1,34 +1,31 @@
 ---
-author: 徒步的騎手
+area: personal-systems
+category: career
+companies_orgs:
+- CNBC
 date: '2025-08-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Chabelli
+- C.S. Lewis
+products_models: []
+project:
+- personal-growth-lab
+- fire-movement
+series: ''
 source: https://www.youtube.com/watch?v=zevFSFL0uaE
 speaker: 徒步的騎手
-tags:
-  - career-planning
-  - financial-freedom
-  - income-model
-  - scarcity-mindset
-  - abundance-mindset
-title: 从零到年薪30万美元：一位移民女性的职业规划与财务自由之路
-summary: 本文深入剖析了一位30岁移民女性的成功故事。她没有上医学院，却通过精准的职业规划成为一名高薪的麻醉师助理，年收入超过30万美元。文章详细拆解了她实现财务自由的三个关键步骤：战略性的职业选择、从“打工人”到“经营者”的收入模式转变，以及从“稀缺心态”到“富足心态”的跃迁。她的经历为我们提供了关于职业发展、财富积累和人生选择的深刻启示。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - fire-movement
-people:
-  - Chabelli
-  - C.S. Lewis
-companies_orgs:
-  - CNBC
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入剖析了一位30岁移民女性的成功故事。她没有上医学院，却通过精准的职业规划成为一名高薪的麻醉师助理，年收入超过30万美元。文章详细拆解了她实现财务自由的三个关键步骤：战略性的职业选择、从“打工人”到“经营者”的收入模式转变，以及从“稀缺心态”到“富足心态”的跃迁。她的经历为我们提供了关于职业发展、财富积累和人生选择的深刻启示。
+tags:
+- career
+- financial-freedom
+- mindset
+- model
+title: 从零到年薪30万美元：一位移民女性的职业规划与财务自由之路
 ---
 
 ### 引言：一个普通女孩的非凡成就

@@ -1,46 +1,45 @@
 ---
-author: Norges Bank Investment Management
+area: tech-insights
+category: business
+companies_orgs:
+- Dell
+- IBM
+- Norges Bank Investment Management
+- University of Texas
+- EMC
+- VMware
 date: '2024-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Michael Dell
+- Nikola Tangen
+products_models:
+- PC
+- CPU
+- GPU
+- NPU
+- smartphone
+- tablet
+project:
+- entrepreneurship
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=jaaDki7pQWE
 speaker: Norges Bank Investment Management
-tags:
-  - tech-entrepreneurship
-  - pc-market
-  - ai-innovation
-  - corporate-strategy
-  - risk-acceptance
-title: 迈克尔·戴尔：从拆解IBM电脑到构建科技帝国
-summary: 本播客节选采访了戴尔公司创始人迈克尔·戴尔，回顾了他从大学宿舍创业，将戴尔打造成全球最大科技公司之一的历程。他分享了早期拆解IBM电脑发现的商业洞察，美国创业文化中对风险的接纳，以及PC行业在AI时代的新发展。戴尔还深入探讨了公司在2013年私有化，随后通过大规模收购EMC实现转型的战略决策，并阐述了戴尔以客户价值和幽默感为核心的企业文化。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - entrepreneurship
-  - historical-insights
-people:
-  - Michael Dell
-  - Nikola Tangen
-companies_orgs:
-  - Dell
-  - IBM
-  - Norges Bank Investment Management
-  - University of Texas
-  - EMC
-  - VMware
-products_models:
-  - PC
-  - CPU
-  - GPU
-  - NPU
-  - smartphone
-  - tablet
-media_books: []
 status: evergreen
+summary: 本播客节选采访了戴尔公司创始人迈克尔·戴尔，回顾了他从大学宿舍创业，将戴尔打造成全球最大科技公司之一的历程。他分享了早期拆解IBM电脑发现的商业洞察，美国创业文化中对风险的接纳，以及PC行业在AI时代的新发展。戴尔还深入探讨了公司在2013年私有化，随后通过大规模收购EMC实现转型的战略决策，并阐述了戴尔以客户价值和幽默感为核心的企业文化。
+tags:
+- ai-innovation
+- corporate-strategy
+- market
+- risk
+- tech-entrepreneurship
+title: 迈克尔·戴尔：从拆解IBM电脑到构建科技帝国
 ---
+
 ### 播客引言：科技巨头迈克尔·戴尔
 
 **Nikola Tangen:** 大家好，欢迎收听本期播客的精简版，我们每周五都会推出。完整版请在每周三收听。大家好，我是尼古拉·坦根，今天我邀请到了一位有史以来最杰出的科技企业家之一，他从大学一年级的宿舍起步，将自己的公司打造成了全球最大的科技公司之一。现在，你们中三分之一的人可能都拥有一台印有他名字的电脑：迈克尔·戴尔。欢迎您。

@@ -1,45 +1,44 @@
 ---
-author: Joseph Wang
+area: finance-wealth
+category: macro-economics
+companies_orgs:
+- S&P
+- Fed
+- IBM
+- Bloomberg
+- Bank of Japan
+- White House
+- BLS
 date: '2025-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- John Williams
+- Kevin Hassett
+- Kevin Walsh
+- Governor Waller
+- Secretary Bessant
+- Tekki u
+products_models: []
+project:
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=FsHmAfudzys
 speaker: Joseph Wang
-tags:
-  - inflation
-  - unemployment
-  - interest-rates
-  - bank-of-japan
-title: 市场周报：数据发布与日本央行动态
-summary: 本期《市场周报》回顾了近期 choppy 的市场行情，重点分析了美国发布的就业、通胀（CPI）及零售销售数据，并探讨了日本央行加息及其对全球市场潜在影响。尽管数据喜忧参半，市场对美联储政策预期未显著改变。日本央行加息至 0.75% 旨在应对高通胀，但日元走弱表明政策仍属宽松，市场关注其对全球收益率和套息交易的影响。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - investment-strategy
-people:
-  - Joseph Wang
-  - Donald Trump
-  - John Williams
-  - Kevin Hassett
-  - Kevin Walsh
-  - Governor Waller
-  - Secretary Bessant
-  - Tekki u
-companies_orgs:
-  - S&P
-  - Fed
-  - IBM
-  - Bloomberg
-  - Bank of Japan
-  - White House
-  - BLS
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期《市场周报》回顾了近期 choppy 的市场行情，重点分析了美国发布的就业、通胀（CPI）及零售销售数据，并探讨了日本央行加息及其对全球市场潜在影响。尽管数据喜忧参半，市场对美联储政策预期未显著改变。日本央行加息至
+  0.75% 旨在应对高通胀，但日元走弱表明政策仍属宽松，市场关注其对全球收益率和套息交易的影响。
+tags:
+- financial
+- inflation
+- interest-rate
+- society
+title: 市场周报：数据发布与日本央行动态
 ---
+
 ### 市场概览与本周焦点
 Hello my friends. Today is December 20th, and this is Markets Weekly. This week, markets were very choppy. It didn't seem like much was going on, and that Santa rally that many, including myself, have been expecting just isn't there, at least not yet. We only have a couple of weeks left in the year. The **S&P 500** is about a couple of percent away from 7,000. Let's see if it can get there. I was thinking this week would be about the market outlook, but actually, this past week was a full trading week. We'll do that next week when it's a shortened holiday trading week.
 

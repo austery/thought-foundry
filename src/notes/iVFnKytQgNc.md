@@ -1,38 +1,38 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 卓明
+- 深圳公益救援队
+- 水利部门
 date: '2025-03-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《一席》
+people:
+- 郝南
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=iVFnKytQgNc
 speaker: 一席YiXi
-tags:
-  - disaster-response-systems
-  - information-symmetry-in-emergencies
-  - predictive-crisis-management
-  - rescue-coordination-challenges
-  - community-resilience
-title: 从苦难出发：紧急求助平台如何重塑灾害应对的常识与确定性
-summary: 郝南分享卓明团队在多次极端洪灾中，通过构建紧急求助平台整合信息、预测灾情、优化救援路径的实践。强调在超常灾害中，系统性信息处理比个人英雄主义更能拯救生命，并揭示灾害应对中‘看不见的幕后工作’的价值。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - knowledge-pipeline
-people:
-  - 郝南
-companies_orgs:
-  - 卓明
-  - 深圳公益救援队
-  - 水利部门
-products_models: []
-media_books:
-  - 《一席》
 status: evergreen
+summary: 郝南分享卓明团队在多次极端洪灾中，通过构建紧急求助平台整合信息、预测灾情、优化救援路径的实践。强调在超常灾害中，系统性信息处理比个人英雄主义更能拯救生命，并揭示灾害应对中‘看不见的幕后工作’的价值。
+tags:
+- challenge
+- community-resilience
+- information
+- predictive-crisis-management
+- system
+title: 从苦难出发：紧急求助平台如何重塑灾害应对的常识与确定性
 ---
+
 ### 灾难中的信息迷雾：当常识失效时
 
 大家好，我叫郝南。我的工作是应对灾害。从汶川地震开始，我已经从事这项行业16年了——最初是一名志愿者，专业从事灾害响应已有整整10年。2010年，在玉树地震中，我和伙伴们共同创立了“卓明”。十五年来，我们响应了超过200次灾害。

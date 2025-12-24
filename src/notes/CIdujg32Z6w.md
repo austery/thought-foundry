@@ -1,37 +1,37 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 比亚迪
+- 理想
+- 小鹏
+- 中国央行
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=CIdujg32Z6w
 speaker: 小翠時政財經
-tags:
-  - supply-chain-finance
-  - off-balance-sheet-debt
-  - financial-regulation
-  - state-intervention
-  - byd-d-chain
-title: 比亚迪“迪链”危机：数千亿表外负债与中国金融监管的挑战
-summary: 本文深入探讨了中国电动汽车巨头比亚迪（BYD）的“迪链”金融系统所面临的危机。该系统被描述为一种企业自行发行的“货币”，帮助比亚迪实现数千亿的表外融资，但也因此积累了巨大的金融风险。文章分析了中国政府为何在此时出手干预，要求比亚迪逐步退出“迪链”，以及此举对比亚迪财务状况、供应链稳定性和中国金融监管体系的深远影响，探讨了比亚迪可能面临的挑战和出路。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-companies_orgs:
-  - 比亚迪
-  - 理想
-  - 小鹏
-  - 中国央行
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了中国电动汽车巨头比亚迪（BYD）的“迪链”金融系统所面临的危机。该系统被描述为一种企业自行发行的“货币”，帮助比亚迪实现数千亿的表外融资，但也因此积累了巨大的金融风险。文章分析了中国政府为何在此时出手干预，要求比亚迪逐步退出“迪链”，以及此举对比亚迪财务状况、供应链稳定性和中国金融监管体系的深远影响，探讨了比亚迪可能面临的挑战和出路。
+tags:
+- debt
+- financial-regulation
+- state
+- supply-chain-finance
+title: 比亚迪“迪链”危机：数千亿表外负债与中国金融监管的挑战
+companies:
+- byd-d-chain
 ---
+
 ### 比亚迪“迪链”危机浮现
 
 近日，国内媒体突然爆料称，比亚迪长期依赖的**供应链金融**（Supply Chain Finance: 一种将供应链中的贸易环节与金融服务相结合的融资模式）工具——**迪链**（D-chain: 比亚迪自行设立的、用于结算与融资的电子欠条系统），已被高层明确要求逐步退出。目前，部分比亚迪的小型供应商已不再收到迪链作为货款，而是获得**银票**（银行承兑汇票: 由银行承诺到期付款的票据）、**商票**（商业承兑汇票: 由企业承诺到期付款的票据）甚至现金。

@@ -1,30 +1,28 @@
 ---
-title: 美联储抗通胀史：70年代大通胀的启示与货币政策演变
-summary: 本文深入探讨了美联储在抗击通货膨胀历史中的演变，特别是通过回顾20世纪70年代的“大通胀”时期，剖析了凯恩斯主义与货币主义的角逐，以及美联储如何逐步确立其独立性和双重职责，最终成功控制通胀，为理解当前经济政策提供了历史视角。
-area: personal-growth
-category: culture
-project:
-  - historical-insights
-tags:
-  - federal-reserve
-  - great-inflation
-  - inflation-history
-  - keynesian-economics
-  - monetary-policy
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-04-24'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- historical-insights
 series: ''
 source: https://www.youtube.com/watch?v=D-wc9d5ZBdo
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入探讨了美联储在抗击通货膨胀历史中的演变，特别是通过回顾20世纪70年代的“大通胀”时期，剖析了凯恩斯主义与货币主义的角逐，以及美联储如何逐步确立其独立性和双重职责，最终成功控制通胀，为理解当前经济政策提供了历史视角。
+tags:
+- federal-reserve
+- great-inflation
+- inflation-history
+- keynesian-economics
+title: 美联储抗通胀史：70年代大通胀的启示与货币政策演变
 ---
 
 ### 央行与通货膨胀的历史渊源

@@ -5,14 +5,13 @@ area: null
 category: null
 project: []
 tags:
-  - 加拿大
-  - 碳税
+- canada
+- environment
 people:
-  - Steve Paikin
-  - Chris Ragan
+- Steve Paikin
+- Chris Ragan
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: ''
@@ -23,6 +22,7 @@ layout: post.njk
 series: null
 source: '#section-1'
 ---
+
 **主讲人：** Steve Paikin (主持人), Chris Ragan (麦吉尔大学教授)
 
 ## 1. 导言：碳定价的曲折之路

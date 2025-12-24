@@ -1,56 +1,55 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 腾讯
+- 太极禅院
 date: '2025-08-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 美国时代周刊
+- 日本KHK电视台
+- 凤凰卫视锵锵三人行
+- 局面
+people:
+- 徐晓冬
+- 陈之汉
+- 李瑞
+- 雷雷
+- 丁浩
+- 马云
+- 李连杰
+- 王振海
+- 王振军
+- 伊文
+- 马保国
+- 王志安
+- 一龙
+- 梁志全
+- 刘强东
+products_models:
+- 攻守道
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xYvo8TVfPto
 speaker: 北美王路飞
-tags:
-  - online-censorship
-  - cross-strait-relations
-  - martial-arts-controversy
-  - ideological-differences
-  - public-figure-influence
-title: 徐晓冬与馆长会面未果：六年封杀下的心酸与两岸交流的复杂性
-summary: 本文深入探讨了武术打假人徐晓冬在深圳试图与台湾“馆长”陈之汉会面未果的幕后故事。嘉宾李瑞作为亲历者，揭示了徐晓冬因全网封杀和边控所经历的六年心酸与坚持，以及他与馆长在影响力、身份和意识形态上的巨大落差。文章还讨论了腾讯安保人员的阻拦、徐晓冬的性格、传统武术背后的巨大利益集团，以及两岸民间交流的复杂性，并反思了社会对“较真”和“批判”的不同态度。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 徐晓冬
-  - 陈之汉
-  - 李瑞
-  - 北美王路飞
-  - 雷雷
-  - 丁浩
-  - 马云
-  - 李连杰
-  - 王振海
-  - 王振军
-  - 伊文
-  - 马保国
-  - 王志安
-  - 一龙
-  - 梁志全
-  - 刘强东
-companies_orgs:
-  - 腾讯
-  - 太极禅院
-products_models:
-  - 攻守道
-media_books:
-  - 美国时代周刊
-  - 日本KHK电视台
-  - 凤凰卫视锵锵三人行
-  - 局面
 status: evergreen
+summary: 本文深入探讨了武术打假人徐晓冬在深圳试图与台湾“馆长”陈之汉会面未果的幕后故事。嘉宾李瑞作为亲历者，揭示了徐晓冬因全网封杀和边控所经历的六年心酸与坚持，以及他与馆长在影响力、身份和意识形态上的巨大落差。文章还讨论了腾讯安保人员的阻拦、徐晓冬的性格、传统武术背后的巨大利益集团，以及两岸民间交流的复杂性，并反思了社会对“较真”和“批判”的不同态度。
+tags:
+- cross-strait-relations
+- online
+- philosophy
+- public
+- technology
+title: 徐晓冬与馆长会面未果：六年封杀下的心酸与两岸交流的复杂性
 ---
+
 ### 徐晓冬与馆长会面事件始末
 
 **北美王路飞:** 大家好，欢迎来到我的频道。今天很高兴又请到我们频道的老朋友，李瑞，瑞瑞杂谈的主播，来聊一聊最近非常火爆的“东哥去见馆长”这件事。李瑞，我看到你那天直播的时候，你好像也在车上是吧？

@@ -1,39 +1,39 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 腾讯新闻
+- 世界新闻周报
+- 清华大学
 date: '2025-07-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《思考，快与慢》
+people:
+- 丁阳
+- 丹尼尔·卡尼曼
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=5jEMjC7v3r0
 speaker: 一席YiXi
-tags:
-  - information-pollution
-  - cognitive-bias
-  - media-manipulation
-  - ai-generated-disinformation
-  - trust-erosion
-title: 到底谁在制造谣言？内容农场、剧本新闻与AI时代的认知危机
-summary: 丁阳通过多个真实案例揭示谣言如何被工业化生产、利用心理弱点传播，并指出仅靠辟谣无法根除虚假信息，必须深入理解其背后的动机与系统性成因。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 丁阳
-  - 丹尼尔·卡尼曼
-companies_orgs:
-  - 腾讯新闻
-  - 世界新闻周报
-  - 清华大学
-products_models: []
-media_books:
-  - 《思考，快与慢》
 status: evergreen
+summary: 丁阳通过多个真实案例揭示谣言如何被工业化生产、利用心理弱点传播，并指出仅靠辟谣无法根除虚假信息，必须深入理解其背后的动机与系统性成因。
+tags:
+- cognitive-bias
+- financial
+- information
+- media
+- trust
+title: 到底谁在制造谣言？内容农场、剧本新闻与AI时代的认知危机
 ---
+
 ### 从“印度克隆村”开始：谣言是如何被构建的？
 
 我叫丁阳，是腾讯新闻较真平台的首席查证员。在中国，事实查证是一个非常小众的职业，大多数人甚至从未听说过它。

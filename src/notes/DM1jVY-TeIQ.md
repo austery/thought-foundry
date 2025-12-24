@@ -1,73 +1,74 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Queen's Park
+- University of Toronto
+- United Church
+- Liberal Party
+- PC Party
+- NDP
+- LCBO
+- OLG
+- Hydro One
+- Women's Directorate
+- Ministry of Health
+- Ministry of the Attorney General
+- Toronto Board of Education
+- Citizens for Local Democracy
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Premier Files
+- The Agenda
+people:
+- Kathleen Wynne
+- Steve Paikin
+- Ralph Edwards
+- Eva Crummer
+- Paul Davidson
+- Andrew Bevan
+- Ernie Eves
+- Dalton McGuinty
+- Rosario Marchese
+- Gerard Kennedy
+- Mike Cole
+- Shelley Martel
+- Joe Cordiano
+- Sandra Pupitello
+- Charles Pascal
+- Michael Fullan
+- John Tory
+- Andrea Horwath
+- Tim Hudak
+- Ed Clark
+- Jean
+- Doug Ford
+- Michael Coteau
+- John Fraser
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=DM1jVY-TeIQ
 speaker: TVO Today
-tags:
-  - ontario-politics
-  - female-leadership
-  - lgbtq-rights
-  - public-service
-  - election-strategy
-title: 凯瑟琳·温恩访谈：一位先行者的政治之路
-summary: 本文深入探讨了安大略省前省长凯瑟琳·温恩的政治生涯。作为该省首位女性及公开出柜的省长，温恩女士分享了她的成长经历、早期政治挫折以及在教育部长任内的成就。她回顾了担任省长期间面临的挑战，包括天然气厂争议和Hydro One股权出售等重大政策决策，以及两次省选的经历。她反思了女性在政治领导中的独特标准，并强调了公共服务对社会变革的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Kathleen Wynne
-  - Steve Paikin
-  - Ralph Edwards
-  - Eva Crummer
-  - Paul Davidson
-  - Andrew Bevan
-  - Ernie Eves
-  - Dalton McGuinty
-  - Rosario Marchese
-  - Gerard Kennedy
-  - Mike Cole
-  - Shelley Martel
-  - Joe Cordiano
-  - Sandra Pupitello
-  - Charles Pascal
-  - Michael Fullan
-  - John Tory
-  - Andrea Horwath
-  - Tim Hudak
-  - Ed Clark
-  - Jean
-  - Doug Ford
-  - Michael Coteau
-  - John Fraser
-companies_orgs:
-  - Queen's Park
-  - University of Toronto
-  - United Church
-  - Liberal Party
-  - PC Party
-  - NDP
-  - LCBO
-  - OLG
-  - Hydro One
-  - Women's Directorate
-  - Ministry of Health
-  - Ministry of the Attorney General
-  - Toronto Board of Education
-  - Citizens for Local Democracy
-products_models: []
-media_books:
-  - The Premier Files
-  - The Agenda
 status: evergreen
+summary: 本文深入探讨了安大略省前省长凯瑟琳·温恩的政治生涯。作为该省首位女性及公开出柜的省长，温恩女士分享了她的成长经历、早期政治挫折以及在教育部长任内的成就。她回顾了担任省长期间面临的挑战，包括天然气厂争议和Hydro
+  One股权出售等重大政策决策，以及两次省选的经历。她反思了女性在政治领导中的独特标准，并强调了公共服务对社会变革的重要性。
+tags:
+- female-leadership
+- ontario-politics
+- public-service
+- right
+- strategy
+title: 凯瑟琳·温恩访谈：一位先行者的政治之路
 ---
+
 ### 引言：安大略省长的政治遗产
 
 STEVE: 安大略省的前省长们是否仍然坚持他们赖以成名的政策？

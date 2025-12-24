@@ -1,39 +1,39 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 央视
 date: '2025-09-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 李玫瑾
+- 李果
+- 马某
+- 弗洛伊德
+products_models: []
+project:
+- psychological-development
+- education-reform
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=hXTSghfVoP8
 speaker: 一席YiXi
-tags:
-  - life-education
-  - emotional-development
-  - inhibitory-control
-  - parenting-styles
-  - adolescent-psychology
-title: 生命教育的真相：为什么孩子选择死亡，不需要太久的生命
-summary: 李玫瑾教授通过犯罪心理学与儿童发展研究，揭示生命教育的核心不是灌输‘生命宝贵’的口号，而是通过早期情感养育、敬畏感培养与社会性经验，为孩子建立内在的‘心理制动系统’，以抵御冲动型自杀与暴力行为。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - psychological-development
-  - education-reform
-  - historical-insights
-people:
-  - 李玫瑾
-  - 李果
-  - 马某
-  - 弗洛伊德
-companies_orgs:
-  - 央视
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 李玫瑾教授通过犯罪心理学与儿童发展研究，揭示生命教育的核心不是灌输‘生命宝贵’的口号，而是通过早期情感养育、敬畏感培养与社会性经验，为孩子建立内在的‘心理制动系统’，以抵御冲动型自杀与暴力行为。
+tags:
+- control
+- development
+- education
+- parenting-style
+- psychology
+title: 生命教育的真相：为什么孩子选择死亡，不需要太久的生命
 ---
+
 ### 生命教育的困境：我们误以为“不懂事”是保护
 
 大家好，非常高兴再次来到一席的演讲台。十年前我曾在这里讲述犯罪心理，今天我想谈一个更沉重、却更迫切的话题——生命教育。

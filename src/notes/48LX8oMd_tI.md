@@ -1,49 +1,48 @@
 ---
-author: 知行小酒馆
+area: society-systems
+category: culture
+companies_orgs:
+- 知行小酒馆
+- 豆瓣
+- SKP
+- 华盛顿大学
+- 万邦书店· μαζί
 date: '2025-10-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《世上为什么要有图书馆》
+- 《桑切斯的孩子们》
+- 《百年孤独》
+- 《卡拉马佐夫兄弟》
+- 《河岸》
+people:
+- 杨素秋
+- 雨白
+- 苏童
+- 狄更斯
+- 托尔斯泰
+- 张恨水
+- 刘擎
+products_models:
+- 黑神话：悟空
+project:
+- china-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=48LX8oMd_tI
 speaker: 知行小酒馆
-tags:
-  - public-cultural-space
-  - reading-habits
-  - future-of-libraries
-  - urban-cultural-development
-title: 对话杨素秋：在短视频与网文时代，我们为什么还需要图书馆？
-summary: 在知识唾手可得、独立书店日益减少的今天，我们为何还需要图书馆？作家杨素秋与知行小酒馆创始人雨白，从西安的公共文化空间现状出发，探讨了人们与图书馆的疏离感、阅读习惯的变迁，以及图书馆作为个人精神庇护所的独特价值。对话进一步展望了图书馆的未来，提出它应超越书籍的限制，成为一个多元化的知识与媒介中心，以重新连接现代人与深度阅读。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-people:
-  - 杨素秋
-  - 雨白
-  - 苏童
-  - 狄更斯
-  - 托尔斯泰
-  - 张恨水
-  - 刘擎
-companies_orgs:
-  - 知行小酒馆
-  - 豆瓣
-  - SKP
-  - 华盛顿大学
-  - 万邦书店· μαζί
-products_models:
-  - 黑神话：悟空
-media_books:
-  - 《世上为什么要有图书馆》
-  - 《桑切斯的孩子们》
-  - 《百年孤独》
-  - 《卡拉马佐夫兄弟》
-  - 《河岸》
 status: evergreen
+summary: 在知识唾手可得、独立书店日益减少的今天，我们为何还需要图书馆？作家杨素秋与知行小酒馆创始人雨白，从西安的公共文化空间现状出发，探讨了人们与图书馆的疏离感、阅读习惯的变迁，以及图书馆作为个人精神庇护所的独特价值。对话进一步展望了图书馆的未来，提出它应超越书籍的限制，成为一个多元化的知识与媒介中心，以重新连接现代人与深度阅读。
+tags:
+- cultural
+- future
+- reading-habit
+title: 对话杨素秋：在短视频与网文时代，我们为什么还需要图书馆？
 ---
+
 ### 开场白：我们为什么还需要图书馆？
 
 雨白：欢迎来到知行小酒馆，这是一档关于投资与如何更好地生活的节目，我是雨白。今天的节目有些特别，是我们在西安举办的一场线下活动。我们从未录制过线下活动，但在西安的那天，我总觉得这场对话值得被留下来。

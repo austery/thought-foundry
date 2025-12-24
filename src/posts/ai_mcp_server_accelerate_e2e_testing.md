@@ -1,25 +1,24 @@
 ---
 title: 利用 AI 和 MCP 服务器加速端到端测试：一个 VS Code 扩展的实践分享
-summary: 本视频分享了一个创新的 AI 驱动工具，旨在解决手动编写端到端（E2E）测试耗时且易出错的问题。通过结合 VS Code 扩展、基于 Markdown的本地知识库以及 MCP 服务器，该工具能够智能生成符合项目规范的测试代码，并通过自我修正的循环学习机制，显著提升测试开发效率和一致性。
+summary: 本视频分享了一个创新的 AI 驱动工具，旨在解决手动编写端到端（E2E）测试耗时且易出错的问题。通过结合 VS Code 扩展、基于 Markdown的本地知识库以及
+  MCP 服务器，该工具能够智能生成符合项目规范的测试代码，并通过自我修正的循环学习机制，显著提升测试开发效率和一致性。
 area: tech-insights
 category: technology
 project:
 - ai-impact-analysis
 tags:
-  - ai-in-testing
-  - end-to-end-testing
-  - github-copilot
-  - mcp-server
+- end-to-end-testing
+- llm
+- technology
 people:
-  - Tejasvini Chawla
-  - Harzinder Grewal
-  - Tom Mohney
-  - Habel Kurian
-  - Anthony Yuan
-  - Ilona Medvedovsky
+- Tejasvini Chawla
+- Harzinder Grewal
+- Tom Mohney
+- Habel Kurian
+- Anthony Yuan
+- Ilona Medvedovsky
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-07-31
 author: Lei
 speaker: ''
@@ -33,6 +32,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与介绍
 
 **Ilona Medvedovsky**: OK, I think we can get started, Sweeney. Thank you.

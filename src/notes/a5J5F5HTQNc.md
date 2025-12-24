@@ -1,37 +1,36 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Health Canada
+- The Brain Institute
+- McGill University
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Saskia Sivanathan
+products_models:
+- Lecanemab
+- Leqembi
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=a5J5F5HTQNc
 speaker: TVO Today
-tags:
-  - dementia-treatment
-  - cognitive-impairment
-  - drug-approval
-  - healthcare-system
-  - biomarkers
-title: 阿尔茨海默病新药Lecanemab：能否为加拿大医疗系统带来变革？
-summary: 加拿大批准了一种名为Lecanemab（商品名Leqembi）的阿尔茨海默病新药，引发了广泛关注。该药物通过清除大脑中的淀粉样β蛋白来减缓认知衰退，但并非治愈手段，且存在脑肿胀和微出血等副作用。本文深入探讨了Lecanemab的作用机制、适用人群、高昂费用及其对加拿大医疗系统的潜在影响，并讨论了痴呆症诊断和治疗的未来展望，强调了及时诊断和多模式治疗的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - Saskia Sivanathan
-companies_orgs:
-  - Health Canada
-  - The Brain Institute
-  - McGill University
-products_models:
-  - Lecanemab
-  - Leqembi
-media_books: []
 status: evergreen
+summary: 加拿大批准了一种名为Lecanemab（商品名Leqembi）的阿尔茨海默病新药，引发了广泛关注。该药物通过清除大脑中的淀粉样β蛋白来减缓认知衰退，但并非治愈手段，且存在脑肿胀和微出血等副作用。本文深入探讨了Lecanemab的作用机制、适用人群、高昂费用及其对加拿大医疗系统的潜在影响，并讨论了痴呆症诊断和治疗的未来展望，强调了及时诊断和多模式治疗的重要性。
+tags:
+- code
+- cognitive
+- health
+- healthcare-system
+- society
+title: 阿尔茨海默病新药Lecanemab：能否为加拿大医疗系统带来变革？
 ---
+
 ### 引言：阿尔茨海默病的挑战与Lecanemab的出现
 
 目前，加拿大约有77万人患有痴呆症，预计到2031年这一数字将上升至93.7万人。阿尔茨海默病是痴呆症最常见的病因，目前尚无治愈方法。

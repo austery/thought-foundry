@@ -1,60 +1,59 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: business
+companies_orgs:
+- Grab
+- Winfast
+- 比亚迪
+- 京东
+- 淘宝
+- 美团
+- 饿了么
+- Uber
+- 神州专车
 date: '2025-08-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 新浪
+- 网易
+people:
+- Nemesis
+- 邓小平
+- 江泽民
+- 布什
+- 奥巴马
+- 特朗普
+- Xi Jinping
+- 黄仁勋
+products_models:
+- P2P
+- Twitch
+- YouTube
+- 土豆
+- 优酷
+- 爱奇艺
+- Bilibili
+project:
+- china-analysis
+- us-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=FUvv6ub08sA
 speaker: 北美王路飞
-tags:
-  - vietnam-investment
-  - business-environment
-  - political-economy
-  - foreign-capital
-  - market-dynamics
-title: 小内亲历：越南投资环境全揭秘，真的比中国好混？
-summary: 嘉宾Nemesis分享了他在越南半年多的亲身经历，深入剖析了越南的投资和营商环境。他将越南与中国进行对比，指出越南在经济发展阶段、政策导向、社会“内卷”程度、腐败现象及外资待遇等方面的异同。文章探讨了越南政府的务实外交策略、制造业的机遇与挑战、新兴产业的发展潜力，以及当地文化与商业契约精神的特点。同时，也揭示了在越南投资可能面临的潜在风险和隐患，并对未来发展趋势进行了展望。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - entrepreneurship
-people:
-  - Nemesis
-  - 北美王路飞
-  - 邓小平
-  - 江泽民
-  - 布什
-  - 奥巴马
-  - 特朗普
-  - 习近平
-  - 黄仁勋
-companies_orgs:
-  - Grab
-  - Winfast
-  - 比亚迪
-  - 京东
-  - 淘宝
-  - 美团
-  - 饿了么
-  - Uber
-  - 神州专车
-products_models:
-  - P2P
-  - Twitch
-  - YouTube
-  - 土豆
-  - 优酷
-  - 爱奇艺
-  - Bilibili
-media_books:
-  - 新浪
-  - 网易
 status: evergreen
+summary: 嘉宾Nemesis分享了他在越南半年多的亲身经历，深入剖析了越南的投资和营商环境。他将越南与中国进行对比，指出越南在经济发展阶段、政策导向、社会“内卷”程度、腐败现象及外资待遇等方面的异同。文章探讨了越南政府的务实外交策略、制造业的机遇与挑战、新兴产业的发展潜力，以及当地文化与商业契约精神的特点。同时，也揭示了在越南投资可能面临的潜在风险和隐患，并对未来发展趋势进行了展望。
+tags:
+- business
+- capital
+- investment
+- market-dynamic
+- political-economy
+title: 小内亲历：越南投资环境全揭秘，真的比中国好混？
 ---
+
 ### 嘉宾介绍与越南之行缘起
 
 **北美王路飞:** 大家好，欢迎来到我的频道。今天很高兴请到了一位在越南的朋友，叫做Nemesis，我们就叫他小内。小内将跟我分享他在越南的一些见闻。小内，你可以简单给大家介绍一下你的经历。

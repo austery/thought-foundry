@@ -1,50 +1,50 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Fidelity Fund
+- Costco
+- 波音
+- 沃尔玛
+- Sams Club
+- 可口可乐
+- 百事可乐
+- Intel
+- 空客
 date: '2024-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金钱心理学》
+people:
+- 唐石峻
+- Peter Lynch
+- 巴菲特
+- 查理·芒格
+- Harry Stonecipher
+- Dave Calhoun
+- Bob Iger
+products_models: []
+project:
+- investment-strategy
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=LSdMVc10o6E
 speaker: Shijun Tang
-tags:
-  - intrinsic-value
-  - discounted-cash-flow
-  - market-pricing-misalignment
-  - generational-wealth-myth
-  - investment-decision-framework
-title: 千万不要再犯这些选股错误了：价值投资的核心是价格与价值的平衡
-summary: 本文深入剖析了选股中的常见误区，强调‘好公司不等于好投资’，指出内在价值评估、市场定价与现金流贴现模型的重要性，并以Costco、波音、可口可乐为例，揭示价值投资的本质是好公司加好价格。同时反思了‘世代相传财富’的迷思，倡导真正的人生自由在于体验而非资产积累。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - historical-insights
-  - personal-growth-lab
-people:
-  - 唐石峻
-  - Peter Lynch
-  - 巴菲特
-  - 查理·芒格
-  - Harry Stonecipher
-  - Dave Calhoun
-  - Bob Iger
-companies_orgs:
-  - Fidelity Fund
-  - Costco
-  - 波音
-  - 沃尔玛
-  - Sams Club
-  - 可口可乐
-  - 百事可乐
-  - Intel
-  - 空客
-products_models: []
-media_books:
-  - 《金钱心理学》
 status: evergreen
+summary: 本文深入剖析了选股中的常见误区，强调‘好公司不等于好投资’，指出内在价值评估、市场定价与现金流贴现模型的重要性，并以Costco、波音、可口可乐为例，揭示价值投资的本质是好公司加好价格。同时反思了‘世代相传财富’的迷思，倡导真正的人生自由在于体验而非资产积累。
+tags:
+- flow
+- investment
+- market
+- value
+- wealth
+title: 千万不要再犯这些选股错误了：价值投资的核心是价格与价值的平衡
 ---
+
 ### 好公司不等于好投资：买贵了，你就亏定了
 
 光找到一家好公司还不够——如果你买入的价格太贵，你依然赚不到钱。很多人误以为只要选对了股票，财富就会从天而降，自己只需“拿着脑子去接钱”。但现实是：绝大多数人即使买对了股票，最终仍会亏损。

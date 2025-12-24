@@ -1,46 +1,47 @@
 ---
-author: 張内咸
+area: society-systems
+category: general
+companies_orgs:
+- 新华社
+- 唯品会
+- 抖音
+- 淘宝
+- 拼多多
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《着急》
+people:
+- Donald Trump
+- Xi Jinping
+- Vladimir Putin
+- 金正恩
+- 李在明
+- 姜昆
+- 梁左
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=7ShVJywgkD4
 speaker: 張内咸
-tags:
-  - consumer-behavior
-  - psychological-trauma
-  - economic-insecurity
-  - sales-tactics
-  - chinese-society
-title: 双十一消费行为：心理创伤、经济困境与社会转型
-summary: 本期节目探讨了从万圣节恐怖片到国际政治“三角恋”，再深入剖析双十一购物狂欢背后的中国社会现象。主持人张内咸揭示了消费者，特别是中老年群体，因长期社会压力和经济不安全感而形成的病态消费心理，如“恐慌式销售”和“侮辱式销售”的有效性。他指出，这种“难民基因”和PTSD导致人们过度囤积和追求“占便宜”，反映出社会深层的心理创伤与经济困境，并呼吁重新思考经济转型和财富分配问题。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Vladimir Putin
-  - 金正恩
-  - 李在明
-  - 姜昆
-  - 梁左
-companies_orgs:
-  - 新华社
-  - 唯品会
-  - 抖音
-  - 淘宝
-  - 拼多多
-products_models: []
-media_books:
-  - 《着急》
 status: evergreen
+summary: 本期节目探讨了从万圣节恐怖片到国际政治“三角恋”，再深入剖析双十一购物狂欢背后的中国社会现象。主持人张内咸揭示了消费者，特别是中老年群体，因长期社会压力和经济不安全感而形成的病态消费心理，如“恐慌式销售”和“侮辱式销售”的有效性。他指出，这种“难民基因”和PTSD导致人们过度囤积和追求“占便宜”，反映出社会深层的心理创伤与经济困境，并呼吁重新思考经济转型和财富分配问题。
+tags:
+- business
+- chinese
+- consumer-behavior
+- economic
+title: 双十一消费行为：心理创伤、经济困境与社会转型
+companies:
+- psychological-trauma
 ---
+
 ### 从万圣节趣事到奇葩恐惧症
 
 大家好，我是张内咸，又见面了。上周末是万圣节，我在节目里随口聊了聊恐怖片，不出所料，评论区果然又歪楼了。有的朋友说：“张导，你竟然在节目里露腿了！”我是真没想到，歪楼还能歪出这种方向。露腿？你看得还挺仔细，但那并不是我的腿。在一个多元文化的社区里，我怎么可能给陌生男性看到我的腿呢？就算我真的要在节目里展露我的身体，那我至少会把羞耻的部位打上马赛克，或者干脆做成付费节目，半夜悄悄看，不要让你老婆发现。

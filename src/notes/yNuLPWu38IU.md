@@ -1,74 +1,74 @@
 ---
-author: Norges Bank Investment Management
+area: tech-insights
+category: business
+companies_orgs:
+- Microsoft
+- Norges Bank Investment Management
+- OpenAI
+- Google
+- Intel
+- SAP
+- Nvidia
+- AMD
+- Pacific Northwest National Laboratory
+- Carnegie Mellon University
 date: '2024-03-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mindset
+- Refresh
+- Only the Paranoid Survive
+people:
+- Satya Nadella
+- Nikolai Tangen
+- Sam Altman
+- Greg Brockman
+- Jensen Huang
+- Lisa Su
+- Carol Dweck
+- Adam Grant
+- Diego Comin
+- Bill Gates
+- Steve Ballmer
+- Andy Grove
+- Colin Mayer
+products_models:
+- Windows
+- SQL Server
+- Dota 2
+- GPT-3
+- GPT-3.5
+- GitHub Copilot
+- Microsoft 365 Copilot
+- Azure
+- Mistral
+- Phi
+- Q#
+- Flight Simulator
+- DirectX
+- Civilization
+- Age of Empires
+project:
+- ai-impact-analysis
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=yNuLPWu38IU
 speaker: Norges Bank Investment Management
-tags:
-  - ai-platform-shift
-  - corporate-innovation
-  - growth-mindset
-  - empathetic-leadership
-  - full-stack-strategy
-title: 萨提亚·纳德拉：微软的AI战略、文化转型与未来愿景
-summary: 微软CEO萨提亚·纳德拉在一次播客采访中，深入探讨了公司在AI时代的核心战略、不断进行平台转型的必要性，以及他如何通过“成长型思维”和“同理心”重塑企业文化。他分享了对AI作为通用技术推动经济增长的看法，微软与OpenAI的合作历程，以及对量子计算、混合现实和游戏等领域的展望。纳德拉强调，在快速变化的科技行业，公司必须持续创新并贡献社会价值，同时鼓励年轻人永不停止学习和超越自我。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Satya Nadella
-  - Nikolai Tangen
-  - Sam Altman
-  - Greg Brockman
-  - Jensen Huang
-  - Lisa Su
-  - Carol Dweck
-  - Adam Grant
-  - Diego Comin
-  - Bill Gates
-  - Steve Ballmer
-  - Andy Grove
-  - Colin Mayer
-companies_orgs:
-  - Microsoft
-  - Norges Bank Investment Management
-  - OpenAI
-  - Google
-  - Intel
-  - SAP
-  - Nvidia
-  - AMD
-  - Pacific Northwest National Laboratory
-  - Carnegie Mellon University
-products_models:
-  - Windows
-  - SQL Server
-  - Dota 2
-  - GPT-3
-  - GPT-3.5
-  - GitHub Copilot
-  - Microsoft 365 Copilot
-  - Azure
-  - Mistral
-  - Phi
-  - Q#
-  - Flight Simulator
-  - DirectX
-  - Civilization
-  - Age of Empires
-media_books:
-  - Mindset
-  - Refresh
-  - Only the Paranoid Survive
 status: evergreen
+summary: 微软CEO萨提亚·纳德拉在一次播客采访中，深入探讨了公司在AI时代的核心战略、不断进行平台转型的必要性，以及他如何通过“成长型思维”和“同理心”重塑企业文化。他分享了对AI作为通用技术推动经济增长的看法，微软与OpenAI的合作历程，以及对量子计算、混合现实和游戏等领域的展望。纳德拉强调，在快速变化的科技行业，公司必须持续创新并贡献社会价值，同时鼓励年轻人永不停止学习和超越自我。
+tags:
+- empathetic-leadership
+- growth
+- innovation
+- platform
+- strategy
+title: 萨提亚·纳德拉：微软的AI战略、文化转型与未来愿景
 ---
+
 ### 序言：全球市值最高公司的CEO访谈
 
 主持人：大家好。我刚刚经历了我一生中最不可思议的体验，我有幸采访了萨提亚·纳德拉，微软的首席执行官，该公司现在是全球市值最高的公司。哇，请大家收听。萨提亚，您是全球市值最高公司的CEO，最近您在思考些什么？

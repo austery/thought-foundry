@@ -1,39 +1,39 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 上海社会科学院社会学研究所
 date: '2025-05-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《单身社会》
+- 《无缘社会》
+people:
+- 刘汶蓉
+- 阿尼特
+- 戈尔丁
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Go_HgsLxoRI
 speaker: 一席YiXi
-tags:
-  - marriage-decline
-  - intergenerational-dependency
-  - emotional-commodification
-  - social-network-erosion
-  - individualization-process
-title: “懒婚”现象：青年晚婚不婚背后的结构性困境与婚姻价值的重构
-summary: 本文深入分析中国大城市青年群体晚婚、不婚现象，揭示其并非源于懒惰或价值观堕落，而是婚姻制度在现代化进程中遭遇结构性冲突后的理性退缩——涉及代际依赖、经济压力、情感商品化与社会网络萎缩等深层机制。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 刘汶蓉
-  - 阿尼特
-  - 戈尔丁
-companies_orgs:
-  - 上海社会科学院社会学研究所
-products_models: []
-media_books:
-  - 《单身社会》
-  - 《无缘社会》
 status: evergreen
+summary: 本文深入分析中国大城市青年群体晚婚、不婚现象，揭示其并非源于懒惰或价值观堕落，而是婚姻制度在现代化进程中遭遇结构性冲突后的理性退缩——涉及代际依赖、经济压力、情感商品化与社会网络萎缩等深层机制。
+tags:
+- canada
+- emotional
+- health
+- marriage-decline
+- social
+title: “懒婚”现象：青年晚婚不婚背后的结构性困境与婚姻价值的重构
 ---
+
 ### “懒婚”：一种理性选择，而非道德缺陷
 
 大家好，我叫刘汶蓉，来自上海社会科学院社会学研究所，长期从事家庭社会学研究。今天我想和大家分享关于大城市青年人婚恋困境的观察与思考。

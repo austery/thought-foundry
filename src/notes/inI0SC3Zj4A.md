@@ -1,77 +1,77 @@
 ---
-author: Patrick Boyle
+area: market-analysis
+category: finance
+companies_orgs:
+- Smarter Web Company
+- MicroStrategy
+- Strategy
+- SEC
+- DC Attorney General
+- 21 Capital
+- Caner Equity Partners
+- SoftBank
+- Tether
+- Strive
+- American Bitcoin
+- Kindly MD
+- Metaplanet
+- Tesla
+- Block
+- Twitter
+- Next Technology Holding
+- We Trade Group
+- GameStop
+- Aquis exchange
+- London Stock Exchange
+- Bluebird Mining Ventures
+- Binance
+- London BTC Company
+- Department of Justice
 date: '2025-07-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- FT
+people:
+- Michael Saylor
+- Matt Levine
+- Jack Dorsey
+- J.D. Vance
+- Donald Trump
+- Jack Mallers
+- Brandon Lutnik
+- Howard Lutnik
+- Vivec Ramaswarmi
+products_models:
+- Bitcoin
+- meme coins
+- Plaude Node
+- Bitcoin ETFs
+- convertible bonds
+- leveraged strategy ETFs
+- Pokemon cards
+- NFTs
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=inI0SC3Zj4A
 speaker: Patrick Boyle
-tags:
-  - bitcoin-treasury-strategy
-  - corporate-finance
-  - stock-price-boost
-  - cryptocurrency-regulation
-  - market-inefficiency
-title: 企业资产负债表上的比特币：为何公司正将加密货币作为财资战略
-summary: 本文探讨了企业如何将比特币纳入其财资战略，以期提升公司市值。从英国一家小型网络设计公司Smarter Web Company的股价飙升，到MicroStrategy通过激进的比特币购买成为千亿市值公司，这种模式已在全球范围内被效仿。文章详细分析了这种“无限套利”机制，即投资者愿意为持有比特币的公司支付溢价，从而使公司能筹集更多资金购买比特币。同时，也讨论了美国监管环境的变化、各类公司纷纷效仿的现象，以及这种策略的潜在风险和治理挑战。比特币的角色正从数字货币演变为一种战略性企业资产。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Michael Saylor
-  - Matt Levine
-  - Jack Dorsey
-  - J.D. Vance
-  - Donald Trump
-  - Jack Mallers
-  - Brandon Lutnik
-  - Howard Lutnik
-  - Vivec Ramaswarmi
-companies_orgs:
-  - Smarter Web Company
-  - MicroStrategy
-  - Strategy
-  - SEC
-  - DC Attorney General
-  - 21 Capital
-  - Caner Equity Partners
-  - SoftBank
-  - Tether
-  - Strive
-  - American Bitcoin
-  - Kindly MD
-  - Metaplanet
-  - Tesla
-  - Block
-  - Twitter
-  - Next Technology Holding
-  - We Trade Group
-  - GameStop
-  - Aquis exchange
-  - London Stock Exchange
-  - Bluebird Mining Ventures
-  - Binance
-  - London BTC Company
-  - Department of Justice
-products_models:
-  - Bitcoin
-  - meme coins
-  - Plaude Node
-  - Bitcoin ETFs
-  - convertible bonds
-  - leveraged strategy ETFs
-  - Pokemon cards
-  - NFTs
-media_books:
-  - Bloomberg
-  - FT
 status: evergreen
+summary: 本文探讨了企业如何将比特币纳入其财资战略，以期提升公司市值。从英国一家小型网络设计公司Smarter Web Company的股价飙升，到MicroStrategy通过激进的比特币购买成为千亿市值公司，这种模式已在全球范围内被效仿。文章详细分析了这种“无限套利”机制，即投资者愿意为持有比特币的公司支付溢价，从而使公司能筹集更多资金购买比特币。同时，也讨论了美国监管环境的变化、各类公司纷纷效仿的现象，以及这种策略的潜在风险和治理挑战。比特币的角色正从数字货币演变为一种战略性企业资产。
+tags:
+- corporate
+- market-inefficiency
+- regulation
+- stock
+- strategy
+title: 企业资产负债表上的比特币：为何公司正将加密货币作为财资战略
 ---
+
 ### 比特币财资公司兴起：从小型网站公司到千亿巨头
 
 今年早些时候，一家鲜为人知的英国网站设计公司，名为**Smarter Web Company**，其市值在短短两个月内从400万英镑飙升至超过10亿英镑。

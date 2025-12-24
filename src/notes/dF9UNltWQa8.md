@@ -1,45 +1,44 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Dallas Fed
+- Goldman Sachs
+- FOMC
+- S&P 500
+- McDonald's
+- Luckin Coffee
 date: '2025-09-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Bloomberg
+people:
+- Robert Kaplan
+- Joe Weisenthal
+- Tracy Alloway
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dF9UNltWQa8
 speaker: Bloomberg Podcasts
-tags:
-  - us-economy
-  - monetary-policy
-  - ai-adoption
-  - globalization-trends
-  - trade-tariffs
-  - national-debt
-title: 卡普兰谈美联储、AI与全球化：美国经济面临的挑战与选择
-summary: 前达拉斯联储主席罗伯特·卡普兰在Odd Lots播客中讨论了美国经济面临的多重挑战。他分析了美联储的利率政策、疲软的劳动力市场以及AI热潮对电力基础设施的压力。卡普兰还对比了中美AI应用模式，探讨了全球化在没有美国积极参与的情况下仍在持续，以及关税政策对制造业和政府收入的影响。他强调了美国高企的债务水平及其对黄金市场的影响，并指出美国经济对股市的依赖日益加剧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Robert Kaplan
-  - Joe Weisenthal
-  - Tracy Alloway
-companies_orgs:
-  - Dallas Fed
-  - Goldman Sachs
-  - FOMC
-  - S&P 500
-  - McDonald's
-  - Luckin Coffee
-products_models: []
-media_books:
-  - Odd Lots
-  - Bloomberg
 status: evergreen
+summary: 前达拉斯联储主席罗伯特·卡普兰在Odd Lots播客中讨论了美国经济面临的多重挑战。他分析了美联储的利率政策、疲软的劳动力市场以及AI热潮对电力基础设施的压力。卡普兰还对比了中美AI应用模式，探讨了全球化在没有美国积极参与的情况下仍在持续，以及关税政策对制造业和政府收入的影响。他强调了美国高企的债务水平及其对黄金市场的影响，并指出美国经济对股市的依赖日益加剧。
+tags:
+- ai-adoption
+- debt
+- trade-tariff
+- trend
+- us-economy
+title: 卡普兰谈美联储、AI与全球化：美国经济面临的挑战与选择
 ---
+
 ### 播客引言
 
 欢迎收听新一期的**Odd Lots播客**（由Bloomberg Podcasts制作的金融经济类播客）。我是乔·魏森塔尔。

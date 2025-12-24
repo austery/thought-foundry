@@ -1,66 +1,66 @@
 ---
-author: How I AI
+area: tech-insights
+category: productivity
+companies_orgs:
+- Ken Burns Florentine Films
+- OpenAI
+- Brex
+- Library of Congress
+- Anthropic
+- Daughters of the American Revolution
+- PBS
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+- Muhammad Ali
+- American Revolution
+people:
+- Tim Mleier
+- Claire Vo
+- Clark
+- Russell Lee
+- Ken Burns
+products_models:
+- ChatGPT
+- Cursor
+- Super Whisper
+- Claude 45 Sonnet
+- OpenAI API
+- VS Code
+- AirTable
+- Mac Mini
+- CLIP
+- Whisper
+- Gemini
+- iPhone camera
+- Flip-Flop
+- OCR Party
+- Adobe Acrobat
+- Photoshop
+- Adobe Premiere
+- Avid Media Composer
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=9ngbZwA_h00
 speaker: How I AI
-tags:
-  - ai-automation
-  - post-production
-  - media-management
-  - semantic-search
-  - optical-character-recognition
-title: AI如何赋能纪录片制作：自动化繁琐任务，提升效率与发现力
-summary: 本期节目深入探讨了艾美奖获奖电影制作人Tim Mleier如何利用AI技术，自动化纪录片制作中繁琐的后期制作和研究任务。他分享了如何通过AI处理海量媒体文件、提取和嵌入元数据、实现语义搜索，以及利用AI进行旧文档的OCR识别。节目强调AI作为提升工作效率的工具，而非替代创意生成，并讨论了AI在电影行业的实际应用、潜在担忧以及学习新工具的重要性。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Tim Mleier
-  - Claire Vo
-  - Clark
-  - Russell Lee
-  - Ken Burns
-companies_orgs:
-  - Ken Burns Florentine Films
-  - OpenAI
-  - Brex
-  - Library of Congress
-  - Anthropic
-  - Daughters of the American Revolution
-  - PBS
-products_models:
-  - ChatGPT
-  - Cursor
-  - Super Whisper
-  - Claude 45 Sonnet
-  - OpenAI API
-  - VS Code
-  - AirTable
-  - Mac Mini
-  - CLIP
-  - Whisper
-  - Gemini
-  - iPhone camera
-  - Flip-Flop
-  - OCR Party
-  - Adobe Acrobat
-  - Photoshop
-  - Adobe Premiere
-  - Avid Media Composer
-media_books:
-  - How I AI
-  - Muhammad Ali
-  - American Revolution
 status: evergreen
+summary: 本期节目深入探讨了艾美奖获奖电影制作人Tim Mleier如何利用AI技术，自动化纪录片制作中繁琐的后期制作和研究任务。他分享了如何通过AI处理海量媒体文件、提取和嵌入元数据、实现语义搜索，以及利用AI进行旧文档的OCR识别。节目强调AI作为提升工作效率的工具，而非替代创意生成，并讨论了AI在电影行业的实际应用、潜在担忧以及学习新工具的重要性。
+tags:
+- ai-automation
+- business
+- media
+- science
+- technology
+title: AI如何赋能纪录片制作：自动化繁琐任务，提升效率与发现力
 ---
+
 ### 引言：AI在纪录片制作中的应用
 
 Claire Vo: 你是如何思考AI在你的工作以及与你共事的人们所面临的问题中，有哪些可以解决的？你又为何从最初的起点开始呢？

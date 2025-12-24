@@ -1,34 +1,32 @@
 ---
-title: 彭博新闻速递：华尔街收盘、中东协议、比特币与政府停摆
-summary: 本期彭博新闻速递涵盖华尔街股市上涨、中东和平协议进展、比特币市场动荡、政府停摆僵局、美联储降息预期及企业财报等全球重要财经与政治新闻。
 area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- economic-policy
-- markets-update
-- middle-east-peace
-- us-politics
-people: []
+category: politics-society
 companies_orgs: []
-products_models:
-- bitcoin
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models:
+- bitcoin
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=k9X6jGCcikQ
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期彭博新闻速递涵盖华尔街股市上涨、中东和平协议进展、比特币市场动荡、政府停摆僵局、美联储降息预期及企业财报等全球重要财经与政治新闻。
+tags:
+- economic-policy
+- middle-east-peace
+- technology
+title: 彭博新闻速递：华尔街收盘、中东协议、比特币与政府停摆
 ---
+
 ### 市场综述与中东和平协议
 
 News when you want it with Bloomberg News. Now, I'm Monica Rix, and that's your closing bell on Wall Street.

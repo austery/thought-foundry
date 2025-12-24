@@ -1,35 +1,33 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Tesla
 date: '2025-08-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Rishabh Garg
+products_models:
+- Optimus
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=bCGbuyv8PMk
 speaker: AI Engineer
-tags:
-  - robotics-systems
-  - high-performance-computing
-  - real-time-systems
-  - software-engineering
-  - communication-protocols
-title: 特斯拉擎天柱机器人系统挑战：高性能机器人软件设计要点
-summary: 本演讲深入探讨了高性能机器人系统在设计和实现过程中面临的挑战，特别是如何区分和诊断控制策略（policy）与底层软件系统之间的问题。演讲者以一个简化的机器人模型为例，详细阐述了通信协议（如CAN总线）的瓶颈、多线程与流水线化、同步问题导致的抖动、日志记录的潜在开销以及优先级反转等常见陷阱，并提供了相应的诊断方法和解决方案。旨在帮助工程师构建更健壮、高效的机器人系统。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Rishabh Garg
-companies_orgs:
-  - Tesla
-products_models:
-  - Optimus
-media_books: []
 status: evergreen
+summary: 本演讲深入探讨了高性能机器人系统在设计和实现过程中面临的挑战，特别是如何区分和诊断控制策略（policy）与底层软件系统之间的问题。演讲者以一个简化的机器人模型为例，详细阐述了通信协议（如CAN总线）的瓶颈、多线程与流水线化、同步问题导致的抖动、日志记录的潜在开销以及优先级反转等常见陷阱，并提供了相应的诊断方法和解决方案。旨在帮助工程师构建更健壮、高效的机器人系统。
+tags:
+- communication
+- performance
+- software-engineering
+- system
+title: 特斯拉擎天柱机器人系统挑战：高性能机器人软件设计要点
 ---
+
 ### 引言：策略与软件系统之争
 
 大家下午好，非常高兴今天能来到这里。

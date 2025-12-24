@@ -1,34 +1,30 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Cofit
+- 初日醫學
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 宋晏仁医师
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=PrfAGo29trI
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - weight-loss-journey
-  - dietary-habits
-  - nutritional-guidance
-  - body-image
-  - healthy-lifestyle
-title: 体态被评论后的健康蜕变：我的Cofit饮食管理与人生重塑之旅
-summary: 一位美食博主分享了她从饮食失控、体重飙升、甚至一度陷入忧郁的困境，到通过Cofit和宋晏仁医师的专业指导，成功实现健康蜕变的经历。她详述了错误的饮食习惯、盲目减肥的无效尝试，以及在专业营养师的陪伴下，如何学会“211吃法”、调整心态、享受弹性饮食，最终找回健康与自信。文章强调了专业指导在健康管理中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 宋晏仁医师
-companies_orgs:
-  - Cofit
-  - 初日醫學
-products_models: []
-media_books: []
 status: evergreen
+summary: 一位美食博主分享了她从饮食失控、体重飙升、甚至一度陷入忧郁的困境，到通过Cofit和宋晏仁医师的专业指导，成功实现健康蜕变的经历。她详述了错误的饮食习惯、盲目减肥的无效尝试，以及在专业营养师的陪伴下，如何学会“211吃法”、调整心态、享受弹性饮食，最终找回健康与自信。文章强调了专业指导在健康管理中的关键作用。
+tags:
+- health
+- loss
+title: 体态被评论后的健康蜕变：我的Cofit饮食管理与人生重塑之旅
 ---
+
 ### 职业挑战与健康危机：从美食博主到身心俱疲
 
 作为一名美食开箱博主，我几乎每个礼拜都要拍摄两次，时间很不固定，有时甚至会拍到半夜，就是一直吃。这些食物，天啊，就是害我胖了20公斤的“凶手”。为了流量和讨观众欢心，我有时不得不刻意去吃一些自己不想吃的东西。我非常专心地投入工作，不知不觉中，当我发现问题时，就已经来不及了。

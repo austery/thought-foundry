@@ -1,64 +1,64 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- X
+- Google
+- OpenAI
+- Alibaba
+- Foxconn Industrial Internet
+- Xiaomi
+- JPMorgan Chase
+- MicroStrategy
+- BlackRock
+- Citi
+- Federal Reserve
+- US Treasury
+- 中国科学院国家空间科学中心
+- MSCI
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 路透社
+- The Information
+people:
+- Elon Musk
+- Donald Trump
+- Sam Altman
+- Jensen Huang
+- Jeffrey Epstein
+- Jerome Powell
+- Lisa Cook
+- Marco Rubio
+- J.D. Vance
+- 贝森特
+products_models:
+- H200
+- 灵光
+- 千问APP
+- ChatGPT
+- XAI
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=D5OqAEcI8O8
 speaker: 小翠時政財經
-tags:
-  - us-china-competition
-  - cryptocurrency-politics
-  - geopolitical-tensions
-  - ai-development
-  - market-dynamics
-title: 马斯克X平台揭露中共水军，比特币大跌疑云指向川普与华尔街权力斗争
-summary: 本期节目深入分析了中国股市、中日关系、马斯克X平台揭露中共大外宣的现象，并重点探讨了比特币近期暴跌背后的深层原因。节目指出，比特币的“至暗时刻”可能并非偶然，而是以摩根大通为代表的华尔街旧势力，与以川普为代表的加密货币新势力之间，一场隐秘的货币权力争夺战。此外，节目还讨论了美国AI新政与中美太空竞赛，以及川普政府的政治策略。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Elon Musk
-  - Donald Trump
-  - Sam Altman
-  - Jensen Huang
-  - Jeffrey Epstein
-  - Jerome Powell
-  - Lisa Cook
-  - Marco Rubio
-  - J.D. Vance
-  - 贝森特
-companies_orgs:
-  - X
-  - Google
-  - OpenAI
-  - Alibaba
-  - Foxconn Industrial Internet
-  - Xiaomi
-  - JPMorgan Chase
-  - MicroStrategy
-  - BlackRock
-  - Citi
-  - Federal Reserve
-  - US Treasury
-  - 中国科学院国家空间科学中心
-  - MSCI
-products_models:
-  - H200
-  - 灵光
-  - 千问APP
-  - ChatGPT
-  - XAI
-media_books:
-  - 路透社
-  - The Information
 status: evergreen
+summary: 本期节目深入分析了中国股市、中日关系、马斯克X平台揭露中共大外宣的现象，并重点探讨了比特币近期暴跌背后的深层原因。节目指出，比特币的“至暗时刻”可能并非偶然，而是以摩根大通为代表的华尔街旧势力，与以川普为代表的加密货币新势力之间，一场隐秘的货币权力争夺战。此外，节目还讨论了美国AI新政与中美太空竞赛，以及川普政府的政治策略。
+tags:
+- ai-development
+- geopolitical-tension
+- market-dynamic
+- politics
+- us-china-relations
+title: 马斯克X平台揭露中共水军，比特币大跌疑云指向川普与华尔街权力斗争
 ---
+
 ### 中国股市与科技板块动态
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月24日，欢迎收看我们今天的每日要闻节目。

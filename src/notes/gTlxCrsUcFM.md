@@ -1,53 +1,54 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: tech-insights
+category: technology
+companies_orgs:
+- Anthropic
+- DeepMind
+- Google
+- OpenAI
+- FirstMark
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The MAD Podcast
+people:
+- Julian Schrittwieser
+- Matt Turck
+- David Silver
+- Aja Huang
+- Demis Hassabis
+- Lee Sedol
+- Richard Sutton
+products_models:
+- AlphaGo
+- AlphaGo Zero
+- Alpha Zero
+- MuZero
+- AlphaFold
+- AlphaCode
+- AlphaTensor
+- Claude
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=gTlxCrsUcFM
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - exponential-growth
-  - reinforcement-learning
-  - ai-agents
-  - ai-safety
-  - scientific-discovery
-title: Anthropic研究员Julian Schrittwieser：我们是否误读了AI的指数级增长？
-summary: Anthropic 与前 DeepMind 的核心研究员 Julian Schrittwieser 深入探讨了人工智能的指数级发展趋势。他认为，外界对“AI泡沫”的讨论与前沿实验室的实际进展脱节。他预测，到2027年，AI模型将在许多任务上超越人类专家，并可能取得诺贝尔奖级别的科学发现。他还分享了从 AlphaGo 到 MuZero 的演进历程，并讨论了强化学习、AI智能体以及AI安全与社会影响等关键议题。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Julian Schrittwieser
-  - Matt Turck
-  - David Silver
-  - Aja Huang
-  - Demis Hassabis
-  - Lee Sedol
-  - Richard Sutton
-companies_orgs:
-  - Anthropic
-  - DeepMind
-  - Google
-  - OpenAI
-  - FirstMark
-products_models:
-  - AlphaGo
-  - AlphaGo Zero
-  - Alpha Zero
-  - MuZero
-  - AlphaFold
-  - AlphaCode
-  - AlphaTensor
-  - Claude
-media_books:
-  - The MAD Podcast
 status: evergreen
+summary: Anthropic 与前 DeepMind 的核心研究员 Julian Schrittwieser 深入探讨了人工智能的指数级发展趋势。他认为，外界对“AI泡沫”的讨论与前沿实验室的实际进展脱节。他预测，到2027年，AI模型将在许多任务上超越人类专家，并可能取得诺贝尔奖级别的科学发现。他还分享了从
+  AlphaGo 到 MuZero 的演进历程，并讨论了强化学习、AI智能体以及AI安全与社会影响等关键议题。
+tags:
+- ai-agent
+- ai-safety
+- growth
+- reinforcement-learning
+- scientific-discovery
+title: Anthropic研究员Julian Schrittwieser：我们是否误读了AI的指数级增长？
 ---
+
 ### 我们再次未能理解指数级增长
 
 **Julian:** 关于 AI 泡沫的讨论似乎与前沿实验室里正在发生的事情以及我们所看到的景象严重脱节。我们没有看到任何进展放缓的迹象。多年来，我们看到的是一种非常持续的进步，大约每三四个月，模型就能独立完成一个比以前长两倍的任务。我们很难直观地理解这些**指数级趋势**（Exponential trends: 指事物在单位时间内以固定百分比增长的模式，其增长速度会越来越快）。如果你能让社会中的每个人生产力提高10倍，我们能实现怎样的富足？未来5年我们能解锁什么？我认为我们可以走得非常远。

@@ -1,50 +1,49 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- Meta Superintelligence labs
+- OpenAI
+- Google Brain
+- Stanford University AI Club
+- KOSIS
+- DeepMind
+- iRobot
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jason Wei
+products_models:
+- o1 模型
+- Deep Research
+- 思维链
+- 指令微调
+- ChatGPT
+- GPT-3
+- Operator
+- AlphaDev
+- AlphaZero
+- AlphaEvolve
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Bma6tHQYaD4
 speaker: Best Partners TV
-tags:
-  - intelligence-commodification
-  - verifier-law
-  - jagged-frontier
-  - adaptive-compute
-  - ai-development-trends
-title: Jason Wei斯坦福演讲：智能商品化、验证者法则与AI锯齿状前沿
-summary: Meta研究科学家Jason Wei在斯坦福大学的演讲中，提出了理解和驾驭AI发展的三个核心思想：智能正在成为一种商品，其获取成本趋近于零；验证者法则，即AI将优先攻克易于验证的任务；以及智能的锯齿状前沿，指出AI能力发展不均衡且快速起飞不太可能。他深入探讨了自适应计算、信息获取成本下降、领域民主化等趋势，并提供了预测AI攻克任务速度的启发式法则，为理解AI的未来提供了全面框架。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Jason Wei
-companies_orgs:
-  - Meta Superintelligence labs
-  - OpenAI
-  - Google Brain
-  - Stanford University AI Club
-  - KOSIS
-  - DeepMind
-  - iRobot
-products_models:
-  - o1 模型
-  - Deep Research
-  - 思维链
-  - 指令微调
-  - ChatGPT
-  - GPT-3
-  - Operator
-  - AlphaDev
-  - AlphaZero
-  - AlphaEvolve
-media_books: []
 status: evergreen
+summary: Meta研究科学家Jason Wei在斯坦福大学的演讲中，提出了理解和驾驭AI发展的三个核心思想：智能正在成为一种商品，其获取成本趋近于零；验证者法则，即AI将优先攻克易于验证的任务；以及智能的锯齿状前沿，指出AI能力发展不均衡且快速起飞不太可能。他深入探讨了自适应计算、信息获取成本下降、领域民主化等趋势，并提供了预测AI攻克任务速度的启发式法则，为理解AI的未来提供了全面框架。
+tags:
+- adaptive-compute
+- ai-development-trend
+- intelligence
+- jagged-frontier
+- law
+title: Jason Wei斯坦福演讲：智能商品化、验证者法则与AI锯齿状前沿
 ---
+
 ### Jason Wei斯坦福演讲：AI发展的三大核心思想
 
 上周，斯坦福大学AI俱乐部邀请了Jason Wei作为嘉宾，进行了一场精彩的演讲。如果你关注我们频道或者AI领域一段时间，那么应该对他并不陌生。Jason Wei目前在Meta Superintelligence labs担任研究科学家。在此之前，他在OpenAI参与了**o1 模型**（OpenAI One Model: OpenAI 内部研究项目，首次大规模展示自适应计算概念）和Deep Research产品的创建。更早之前，他在Google Brain工作期间，推动了**思维链**（Chain of Thought: 一种通过逐步推理来解决复杂问题的AI提示技术）和**指令微调**（Instruction Tuning: 通过在多样化任务指令上训练模型，使其能更好地遵循指令）等关键技术的发展。他的论文引用次数超过9万次，是当今AI领域最具影响力的研究者之一。

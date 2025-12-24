@@ -1,33 +1,32 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 宁德时代
 date: '2025-09-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=03i5IDzr24g
 speaker: 海淀拙大叔
-tags:
-  - bull-market-analysis
-  - investment-strategy
-  - market-sentiment
-  - asset-allocation
-  - market-cycles
-title: 牛市仍在，顶部尚远：资本市场深度分析与投资策略
-summary: 本文深入分析了当前牛市的持续性，指出其基础依然稳固，顶部远未到来。文章从资金、利率、风险偏好等多个维度论证牛市逻辑，并通过历史数据预测市场成交额峰值。同时，探讨了牛市中急跌慢涨的典型特征、投资者情绪释然机制，以及每次调整后的风格转变。最后，为投资者提供了均衡配置、看淡涨跌、顺势而为的实用建议，强调了长期持有和良好心态的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs:
-  - 宁德时代
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了当前牛市的持续性，指出其基础依然稳固，顶部远未到来。文章从资金、利率、风险偏好等多个维度论证牛市逻辑，并通过历史数据预测市场成交额峰值。同时，探讨了牛市中急跌慢涨的典型特征、投资者情绪释然机制，以及每次调整后的风格转变。最后，为投资者提供了均衡配置、看淡涨跌、顺势而为的实用建议，强调了长期持有和良好心态的重要性。
+tags:
+- asset-allocation
+- bull-market-analysis
+- market-cycle
+- market-sentiment
+title: 牛市仍在，顶部尚远：资本市场深度分析与投资策略
 ---
+
 ### 牛市基础稳固，何必慌张
 
 今天是9月7号周日，在经历市场激跌后，热门板块如AI、军工、创新药、机器人等都跌惨了。对此，有四个字可以概括：何必慌张。这四个字可以拆解为五点：

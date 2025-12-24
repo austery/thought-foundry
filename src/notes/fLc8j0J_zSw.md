@@ -7,15 +7,12 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-  - 居民收入
-  - 师姐说
-  - 政府补贴
-  - 消费储蓄
-  - 美国经济
-people: []
+- geopolitical
+- us-economy
+- 居民收入
+- 消费储蓄
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2023-12-12'
 author: Lei
 speaker: 金融汪
@@ -25,7 +22,10 @@ insight: 我很喜欢看她的思考方式，帮助我理解财富的分配。
 layout: post.njk
 series: 美国民间财富探索
 source: https://www.youtube.com/watch?v=fLc8j0J_zSw
+people:
+- 师姐说
 ---
+
 ## 引言：政府“看得见的手”与美国经济
 
 大家好，好久不见。本期视频将兑现承诺，继续有关美国居民财富分析的系列，这是第三期视频，终于制作完成了。本期视频我想和大家探讨美国居民个人挣多少钱、花多少钱以及存多少钱。当然，我的兴趣不仅仅是了解美国居民的消费倾向和储蓄倾向，更想深入探究美国政府这只“看得见的手”在社会和经济生活中的影响力到底有多大。

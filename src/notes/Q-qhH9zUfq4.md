@@ -1,42 +1,40 @@
 ---
-author: 美投讲美股
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- CME Group
+- Futu Moomoo
+- Bank of America
+- Goldman Sachs
+- Moody's
 date: '2025-09-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jerome Powell
+- Donald Trump
+products_models:
+- Moomoo AI Assistant
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Q-qhH9zUfq4
 speaker: 美投讲美股
-tags:
-  - us-stock-market
-  - monetary-policy
-  - wealth-effect
-  - labor-market-trends
-  - economic-outlook
-title: 美股为何“跌不下来”？揭秘支撑市场上涨的诡异循环与关键变量
-summary: 本期视频深入分析了当前美股市场“不可能跌”的现象。通过解读美联储降息信号、美国劳动力市场矛盾数据、消费结构变化以及财富效应，揭示了美股上涨背后的自我强化循环。同时，探讨了可能打破这一循环的关键变量，为投资者提供了安心投资的视角。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Jerome Powell
-  - Donald Trump
-companies_orgs:
-  - Federal Reserve
-  - CME Group
-  - Futu Moomoo
-  - Bank of America
-  - Goldman Sachs
-  - Moody's
-products_models:
-  - Moomoo AI Assistant
-media_books: []
 status: evergreen
+summary: 本期视频深入分析了当前美股市场“不可能跌”的现象。通过解读美联储降息信号、美国劳动力市场矛盾数据、消费结构变化以及财富效应，揭示了美股上涨背后的自我强化循环。同时，探讨了可能打破这一循环的关键变量，为投资者提供了安心投资的视角。
+tags:
+- economic-outlook
+- labor-market-trend
+- us-stock-market
+- wealth
+title: 美股为何“跌不下来”？揭秘支撑市场上涨的诡异循环与关键变量
 ---
+
 ### 美股“不可能跌”现象的背后
 
 最近的美股市场似乎进入了一种“不可能跌”的模式。无论发生什么事，市场似乎都能很快消化，然后便拼命上涨。例如，通胀抬头，美股上涨；就业下调，美股上涨；特朗普关税政策再出幺蛾子，美股依然上涨。股市上涨自然是好事，但这种持续的上涨难免让投资者心里发慌：这样的上涨真的合理吗？背后是否隐藏着什么不为人知的危机呢？正好最近市场上发生了很多大事，各项关键的经济数据也都相继出炉，本文将详细分析当前的美股市场。

@@ -1,47 +1,47 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 加拿大央行
+- 加拿大学徒主管委员会
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《庄杂第193集》
+people:
+- Mark Carney
+- Pierre Poilievre
+- Donald Trump
+- Raymond Chan
+- Michael Chong
+- Alice Wong
+- Mary Ng
+- Jagmeet Singh
+- Stephen Harper
+- Jim Flaherty
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=wsyKz3qLKvI
 speaker: 莊也雜談
-tags:
-  - canadian-election-2025
-  - party-platforms
-  - us-canada-trade
-  - tariff-impact
-  - political-strategy
-  - canadian-demographics
-title: 加拿大“超级大选”赛程过半：自由党与保守党最新政策与选情深度分析（上）
-summary: 加拿大提前大选已进行一半，自由党与保守党民调胶着。本文深入分析两党党魁的竞选行程、最新政策承诺，涵盖生活成本、住房、移民、就业、对美关税及税收等关键领域。同时，探讨前总理哈珀出山为博励治背书对选情的影响，并以理科生思维预测选战走势，揭示华裔在加拿大政治生态中的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Pierre Poilievre
-  - Donald Trump
-  - Raymond Chan
-  - Michael Chong
-  - Alice Wong
-  - Mary Ng
-  - Jagmeet Singh
-  - Stephen Harper
-  - Jim Flaherty
-companies_orgs:
-  - 加拿大央行
-  - 加拿大学徒主管委员会
-products_models: []
-media_books:
-  - 《庄杂第193集》
 status: evergreen
+summary: 加拿大提前大选已进行一半，自由党与保守党民调胶着。本文深入分析两党党魁的竞选行程、最新政策承诺，涵盖生活成本、住房、移民、就业、对美关税及税收等关键领域。同时，探讨前总理哈珀出山为博励治背书对选情的影响，并以理科生思维预测选战走势，揭示华裔在加拿大政治生态中的挑战。
+tags:
+- canadian
+- canadian-election-2025
+- platform
+- political-strategy
+- tariff-impact
+- trade
+title: 加拿大“超级大选”赛程过半：自由党与保守党最新政策与选情深度分析（上）
 ---
+
 大家好，我是庄也，欢迎您收看庄也杂谈。今天，咱们继续聊加拿大大选。从3月23日**马克·卡尼**（Mark Carney: 加拿大自由党党魁，前加拿大央行行长）解散议会开始，触发了加拿大的提前大选。到今天4月11日，这场选战已经进行了一半。自由党和保守党可以说是短兵相接，民调胶着。民调领先的自由党并没有成功拉开差距，反而被保守党步步紧逼。两党的党魁马不停蹄地在全国拉票，频频推出各种利好政策来争取选民的支持。同时，两个党还要应对外部压力，尤其是南边的**川大統領**（Donald Trump: 美国前总统），他那反复无常的关税政策。所以说，今年加拿大大选的选情非常好看。
 
 今天，咱们将深入讨论几个关键问题：这场超级大选目前的进展如何？自由党和保守党这两周都去了哪些地方？都举办了哪些助选活动？向选民们开出了哪些承诺和支票？还有现在民调显示自由党始终压着保守党一头，那么拷问灵魂的问题来了：保守党究竟还有没有机会逆袭？庄也今天就带着您回到这场加拿大超级大选，用一种理科生的思维，通过缜密的分析各种资料，为您预测一下接下来选战的走势。

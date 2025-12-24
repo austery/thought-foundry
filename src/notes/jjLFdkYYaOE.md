@@ -1,50 +1,49 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- TSN
+- Hockey Canada
+- Chicago Blackhawks
+- National Hockey League
+- Boston Globe
+- Catholic Church
+- Hamilton Steel
+- Hamilton Huskies
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'We Breed Lions: Confronting Canada''s Troubled Hockey Culture'
+- Spotlight
+- Coaching Boys into Men
+people:
+- Rick Westhead
+- Kyle Beach
+- Steven Brunt
+- Marcus Patterson
+- Tom Patterson
+- Jeffrey Epstein
+- Harvey Weinstein
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=jjLFdkYYaOE
 speaker: TVO Today
-tags:
-  - hockey-culture
-  - sexual-assault
-  - hazing
-  - culture-of-silence
-  - junior-hockey
-title: 加拿大青少年冰球的阴暗面：性侵、欺凌与沉默文化
-summary: 本文深入探讨了加拿大青少年冰球文化中长期存在的性侵、欺凌和沉默问题。资深记者里克·韦斯特海德通过其新书《我们培养狮子》揭露了这些系统性弊病，从芝加哥黑鹰队的性侵指控到加拿大冰球协会的丑闻，再到青少年冰球体系中普遍存在的欺凌仪式。文章强调了这种文化如何导致年轻球员在追求梦想时面临巨大的身心风险，并探讨了打破沉默、推广健康男子气概教育项目（如“将男孩培养成男子汉”）的重要性，以期在培养优秀球员的同时，也能塑造品格健全的年轻人。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-people:
-  - Rick Westhead
-  - Kyle Beach
-  - Steven Brunt
-  - Marcus Patterson
-  - Tom Patterson
-  - Jeffrey Epstein
-  - Harvey Weinstein
-companies_orgs:
-  - TSN
-  - Hockey Canada
-  - Chicago Blackhawks
-  - National Hockey League
-  - Boston Globe
-  - Catholic Church
-  - Hamilton Steel
-  - Hamilton Huskies
-products_models: []
-media_books:
-  - 'We Breed Lions: Confronting Canada''s Troubled Hockey Culture'
-  - Spotlight
-  - Coaching Boys into Men
 status: evergreen
+summary: 本文深入探讨了加拿大青少年冰球文化中长期存在的性侵、欺凌和沉默问题。资深记者里克·韦斯特海德通过其新书《我们培养狮子》揭露了这些系统性弊病，从芝加哥黑鹰队的性侵指控到加拿大冰球协会的丑闻，再到青少年冰球体系中普遍存在的欺凌仪式。文章强调了这种文化如何导致年轻球员在追求梦想时面临巨大的身心风险，并探讨了打破沉默、推广健康男子气概教育项目（如“将男孩培养成男子汉”）的重要性，以期在培养优秀球员的同时，也能塑造品格健全的年轻人。
+tags:
+- culture
+- hazing
+- junior-hockey
+- sexual-assault
+title: 加拿大青少年冰球的阴暗面：性侵、欺凌与沉默文化
 ---
+
 ### 加拿大冰球界的黑暗面：性侵与欺凌
 
 在此提醒各位观众，本访谈内容涉及性侵讨论。

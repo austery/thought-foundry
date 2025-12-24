@@ -1,32 +1,29 @@
 ---
-author: Anthony看世界
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-02-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=vYDDurHVz30
 speaker: Anthony看世界
-tags:
-  - statistical-thinking
-  - individual-uniqueness
-  - decision-making
-  - self-discovery
-  - subjective-meaning
-title: 警惕统计学思维：如何避免人生千篇一律并发现自我独特性
-summary: 本文探讨了“统计学思维”如何导致人们在职业、婚恋等人生决策中趋于平庸和同质化。它指出，过度依赖客观数据而忽视个体的主观意义、内在情感和独特潜能，会让人陷入“千篇一律”的困境。文章通过社会支持理论等案例，强调了主观感知的重要性，并倡导通过深入自我反思和拥抱独特经验，打破统计学的束缚，成为一个独特的“离群值”，从而实现更具意义和可持续发展的人生。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - china-analysis
-  - personal-growth-lab
-  - systems-thinking
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了“统计学思维”如何导致人们在职业、婚恋等人生决策中趋于平庸和同质化。它指出，过度依赖客观数据而忽视个体的主观意义、内在情感和独特潜能，会让人陷入“千篇一律”的困境。文章通过社会支持理论等案例，强调了主观感知的重要性，并倡导通过深入自我反思和拥抱独特经验，打破统计学的束缚，成为一个独特的“离群值”，从而实现更具意义和可持续发展的人生。
+tags:
+- decision-making
+- individual-uniquenes
+- psychology
+- self-discovery
+- thinking
+title: 警惕统计学思维：如何避免人生千篇一律并发现自我独特性
 ---
 
 ### 引言：警惕统计学思维的陷阱

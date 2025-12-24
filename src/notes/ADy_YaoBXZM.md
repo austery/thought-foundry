@@ -1,60 +1,58 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: technology
+companies_orgs:
+- Google
+- Meta
+- Microsoft
+- STMicroelectronics
+- SIX Group
+- Northvolt
+- ETH Zurich
+- EPFL
+- United Nations
+- World Trade Organization
+- International Monetary Fund
+- CERN
+- Scandit
+- Beekeeper
+- Deep Code
+- Snyk
+- IBM Research
+- Teos Banking Software
+- Luna
+- Readily 3D
+- Wiz
+- CLA
 date: '2025-06-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jacqu Pedulu
+- Albert Einstein
+products_models:
+- ABBA fertility tracker
+- IB doc
+- AED tracks
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ADy_YaoBXZM
 speaker: TechButMakeItReal
-tags:
-  - swiss-tech-market
-  - tech-layoffs
-  - niche-market
-  - talent-shortage
-  - cost-of-living
-title: 2025年瑞士科技市场深度解析：欧洲最顶尖的利基市场
-summary: 本文深入探讨了2025年瑞士科技市场的独特格局。尽管面临疫情和裁员后的谨慎复苏，瑞士凭借其在硬件、半导体、医疗科技和金融科技领域的专业化优势，构建了欧洲最顶尖的利基市场。文章分析了裁员驱动因素、人才短缺与移民政策、主要科技中心特色、以及高昂的生活成本如何影响财富积累。对于寻求稳定而非快速致富的专业人士，瑞士提供了独特的机会。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jacqu Pedulu
-  - Albert Einstein
-companies_orgs:
-  - Google
-  - Meta
-  - Microsoft
-  - STMicroelectronics
-  - SIX Group
-  - Northvolt
-  - ETH Zurich
-  - EPFL
-  - United Nations
-  - World Trade Organization
-  - International Monetary Fund
-  - CERN
-  - Scandit
-  - Beekeeper
-  - Deep Code
-  - Snyk
-  - IBM Research
-  - Teos Banking Software
-  - Luna
-  - Readily 3D
-  - Wiz
-  - CLA
-products_models:
-  - ABBA fertility tracker
-  - IB doc
-  - AED tracks
-media_books: []
 status: evergreen
+summary: 本文深入探讨了2025年瑞士科技市场的独特格局。尽管面临疫情和裁员后的谨慎复苏，瑞士凭借其在硬件、半导体、医疗科技和金融科技领域的专业化优势，构建了欧洲最顶尖的利基市场。文章分析了裁员驱动因素、人才短缺与移民政策、主要科技中心特色、以及高昂的生活成本如何影响财富积累。对于寻求稳定而非快速致富的专业人士，瑞士提供了独特的机会。
+tags:
+- cost-of-living
+- market
+- talent
+- tech
+title: 2025年瑞士科技市场深度解析：欧洲最顶尖的利基市场
 ---
+
 ### 引言：为何关注瑞士科技？
 
 瑞士的领导者和公民们，这是一条来自加拿大多伦多的信息。

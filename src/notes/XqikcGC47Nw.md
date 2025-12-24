@@ -1,47 +1,47 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: general
+companies_orgs:
+- Oracle
+- FBI
+- Southern District of New York
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Molly's Game
+- A Few Good Men
+- Social Network
+- Moneyball
+- The New York Times
+people:
+- Molly Bloom
+- Toby Maguire
+- Aaron Sorkin
+- Ben Affleck
+- Pit Barara
+products_models:
+- Shuffle Master
+project:
+- personal-growth-lab
+- entrepreneurship
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=XqikcGC47Nw
 speaker: All-In Podcast
-tags:
-  - high-stakes-poker
-  - entrepreneurial-journey
-  - legal-battles
-  - personal-transformation
-  - trust-and-integrity
-title: 《莫莉的游戏》：高额扑克世界背后的真实故事与人生抉择
-summary: 本期节目深入访谈了高额扑克游戏传奇人物莫莉·布鲁姆（Molly Bloom），她曾运营洛杉矶和纽约最顶级的地下扑克局。莫莉分享了她如何从一名受伤的滑雪运动员转型为高额扑克组织者，如何建立信任、应对黑帮勒索、联邦调查局的介入，以及最终将自己的故事搬上大银幕。她还探讨了高额玩家的心理、销售与人际连接的艺术，以及面对恐惧和不确定性的人生哲学。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-  - historical-insights
-people:
-  - Molly Bloom
-  - Toby Maguire
-  - Aaron Sorkin
-  - Ben Affleck
-  - Pit Barara
-companies_orgs:
-  - Oracle
-  - FBI
-  - Southern District of New York
-products_models:
-  - Shuffle Master
-media_books:
-  - Molly's Game
-  - A Few Good Men
-  - Social Network
-  - Moneyball
-  - The New York Times
 status: evergreen
+summary: 本期节目深入访谈了高额扑克游戏传奇人物莫莉·布鲁姆（Molly Bloom），她曾运营洛杉矶和纽约最顶级的地下扑克局。莫莉分享了她如何从一名受伤的滑雪运动员转型为高额扑克组织者，如何建立信任、应对黑帮勒索、联邦调查局的介入，以及最终将自己的故事搬上大银幕。她还探讨了高额玩家的心理、销售与人际连接的艺术，以及面对恐惧和不确定性的人生哲学。
+tags:
+- entrepreneurial-journey
+- high
+- legal
+- personal
+- trust
+title: 《莫莉的游戏》：高额扑克世界背后的真实故事与人生抉择
 ---
+
 ### 节目介绍：高额扑克传奇莫莉·布鲁姆
 
 大家好，我们的“好兄弟们”播客（All-In Podcast）在感恩节期间休息，但我们没有忘记大家。我们在拉斯维加斯录制了几段精彩的内容。首先，这是对莫莉·布鲁姆（Molly Bloom）的采访。

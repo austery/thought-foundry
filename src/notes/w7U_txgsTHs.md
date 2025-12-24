@@ -1,53 +1,53 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Rolls Royce
+- Norges Bank Investment Management
+- Boeing
+- Airbus
+- COMAC
+- GE
+- BP
+- ExxonMobil
+- Ohio State University
+- GBN
 date: '2024-10-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- History of the World
+- History of Modern Britain
+people:
+- Tufan Erginbilgiç
+- Nicola Tangan
+- Bill Gates
+- Andra Mar
+products_models:
+- Ultrafan
+- B52
+- Flora program
+- AUKUS
+project:
+- entrepreneurship
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=w7U_txgsTHs
 speaker: Norges Bank Investment Management
-tags:
-  - corporate-transformation
-  - leadership-strategy
-  - sustainable-aviation-fuel
-  - small-modular-reactors
-  - market-positioning
-title: 劳斯莱斯CEO Tufan Erginbilgiç：如何通过彻底转型重塑百年企业
-summary: 劳斯莱斯CEO Tufan Erginbilgiç在采访中深入探讨了他如何通过“燃烧的平台”宣言启动公司转型，并分享了其核心策略。他强调了外部基准测试、内部评估、以及与投资者和员工的广泛沟通的重要性。Erginbilgiç还详细阐述了合同重新谈判、提升产品效率、推动可持续航空燃料（SAF）和小型模块化反应堆（SMRs）等创新技术，以及在变革中重塑领导力与企业文化的方法。他认为，成功的转型需要清晰的战略、高度的组织协同和持续的学习精神，并最终惠及所有利益相关者。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Tufan Erginbilgiç
-  - Nicola Tangan
-  - Bill Gates
-  - Andra Mar
-companies_orgs:
-  - Rolls Royce
-  - Norges Bank Investment Management
-  - Boeing
-  - Airbus
-  - COMAC
-  - GE
-  - BP
-  - ExxonMobil
-  - Ohio State University
-  - GBN
-products_models:
-  - Ultrafan
-  - B52
-  - Flora program
-  - AUKUS
-media_books:
-  - History of the World
-  - History of Modern Britain
 status: evergreen
+summary: 劳斯莱斯CEO Tufan Erginbilgiç在采访中深入探讨了他如何通过“燃烧的平台”宣言启动公司转型，并分享了其核心策略。他强调了外部基准测试、内部评估、以及与投资者和员工的广泛沟通的重要性。Erginbilgiç还详细阐述了合同重新谈判、提升产品效率、推动可持续航空燃料（SAF）和小型模块化反应堆（SMRs）等创新技术，以及在变革中重塑领导力与企业文化的方法。他认为，成功的转型需要清晰的战略、高度的组织协同和持续的学习精神，并最终惠及所有利益相关者。
+tags:
+- corporate
+- leadership-strategy
+- llm
+- market
+- technology
+title: 劳斯莱斯CEO Tufan Erginbilgiç：如何通过彻底转型重塑百年企业
 ---
+
 ### 燃烧的平台：启动劳斯莱斯转型
 
 主持人：大家好，我是Nicola Tangan，今天我很高兴能与劳斯莱斯（Rolls Royce）的首席执行官Tufan Erginbilgiç共度时光。挪威银行投资管理公司（Norges Bank Investment Management）持有劳斯莱斯2.3%的股份，总价值超过10亿美元。非常欢迎Tufan。当你接任劳斯莱斯的工作时，你称之为“燃烧的平台”（Burning Platform: 指企业面临严峻挑战，必须立即采取行动进行根本性变革的局面），为什么你的开场白如此戏剧化？

@@ -1,36 +1,35 @@
 ---
-author: TED
+area: society-systems
+category: geopolitics
+companies_orgs:
+- AfD
+- TED
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Daphne Halikiopoulou
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=3913fIgBFhs
 speaker: TED
-tags:
-  - european-politics
-  - far-right-rise
-  - civic-nationalism
-  - voter-insecurity
-  - political-strategy
-title: 欧洲极右翼政治崛起：超越移民议题的深层原因与应对策略
-summary: 本文深入探讨了欧洲极右翼政治崛起的复杂原因，驳斥了将其简单归结为移民和文化问题的观点。作者通过数据分析指出，经济不安全感、对机构的不信任以及对环保政策的反感等更广泛的因素，驱动了大量“边缘选民”转向极右翼。文章揭示了极右翼政党如何通过“公民民族主义叙事”巧妙地扩大其支持基础，并强调反对派不应模仿极右翼，而应提出积极的替代方案。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - Daphne Halikiopoulou
-companies_orgs:
-  - AfD
-  - TED
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了欧洲极右翼政治崛起的复杂原因，驳斥了将其简单归结为移民和文化问题的观点。作者通过数据分析指出，经济不安全感、对机构的不信任以及对环保政策的反感等更广泛的因素，驱动了大量“边缘选民”转向极右翼。文章揭示了极右翼政党如何通过“公民民族主义叙事”巧妙地扩大其支持基础，并强调反对派不应模仿极右翼，而应提出积极的替代方案。
+tags:
+- civic-nationalism
+- geopolitical
+- political-strategy
+- politics
+- right
+title: 欧洲极右翼政治崛起：超越移民议题的深层原因与应对策略
 ---
+
 ### 欧洲极右翼的崛起及其普遍性
 
 欧洲各地，**极右翼**（Far Right: 指政治光谱中偏向极端民族主义、保守主义或威权主义的政治势力）正在崛起。

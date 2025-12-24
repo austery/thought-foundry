@@ -1,62 +1,62 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: psychology
+companies_orgs:
+- StumbleUpon
+- Uber
+- Stanford University
+- Harvard University
+- Johns Hopkins University
+- UC Berkeley
+- Princeton University
+- Rutgers University
+- Gamma Core
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+- Design Matters Podcast
+- The Great Nerve
+- The 4-Hour Chef
+people:
+- Tim Ferriss
+- Garrett Camp
+- Debbie Milman
+- Dick Schwarz
+- Lisa Feldman
+- Nolan Williams
+- Chris Palmer
+- Stanislav Grof
+- Ghul Dolan
+- Brian Tracy
+- Jason Calcanis
+- Joe Rogan
+- Mark Maron
+products_models:
+- Accelerated TMS
+- Vagus Nerve Stimulation
+- Internal Family Systems
+- MDMA-assisted psychotherapy
+- Ketogenic Diet
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=GFyijjy1KdU
 speaker: The Diary Of A CEO
-tags:
-  - meta-learning
-  - trauma-healing
-  - bioelectric-medicine
-  - mental-health-tools
-title: 蒂姆·费里斯：从创伤与抑郁中重塑自我的四大突破性工具与学习心法
-summary: 著名作家、生活黑客蒂姆·费里斯分享了他从数十年的创伤和抑郁中走出的心路历程。他不仅揭示了自己加速学习任何技能的“DSS”框架，还详细介绍了他亲身验证过的四种突破性心理健康工具：加速经颅磁刺激（TMS）、代谢精神病学、迷幻剂辅助疗法和迷走神经刺激（VNS）。本访谈深入探讨了如何将痛苦转化为力量，并展望了生物电医学在心理健康领域的未来。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Tim Ferriss
-  - Garrett Camp
-  - Debbie Milman
-  - Dick Schwarz
-  - Lisa Feldman
-  - Nolan Williams
-  - Chris Palmer
-  - Stanislav Grof
-  - Ghul Dolan
-  - Brian Tracy
-  - Jason Calcanis
-  - Joe Rogan
-  - Mark Maron
-companies_orgs:
-  - StumbleUpon
-  - Uber
-  - Stanford University
-  - Harvard University
-  - Johns Hopkins University
-  - UC Berkeley
-  - Princeton University
-  - Rutgers University
-  - Gamma Core
-products_models:
-  - Accelerated TMS
-  - Vagus Nerve Stimulation
-  - Internal Family Systems
-  - MDMA-assisted psychotherapy
-  - Ketogenic Diet
-media_books:
-  - The Diary Of A CEO
-  - Design Matters Podcast
-  - The Great Nerve
-  - The 4-Hour Chef
 status: evergreen
+summary: 著名作家、生活黑客蒂姆·费里斯分享了他从数十年的创伤和抑郁中走出的心路历程。他不仅揭示了自己加速学习任何技能的“DSS”框架，还详细介绍了他亲身验证过的四种突破性心理健康工具：加速经颅磁刺激（TMS）、代谢精神病学、迷幻剂辅助疗法和迷走神经刺激（VNS）。本访谈深入探讨了如何将痛苦转化为力量，并展望了生物电医学在心理健康领域的未来。
+tags:
+- health
+- learning
+- mental-health-tool
+- psychology
+title: 蒂姆·费里斯：从创伤与抑郁中重塑自我的四大突破性工具与学习心法
 ---
+
 ### 导言：在复杂中寻找简约
 
 每一种心理健康问题或诊断都在增加。我与不同的科学家合作，并在自己身上做了大量实验，因为我从小每年都会经历多次抑郁发作，我想看看我们是否能找到并解决其根本原因。因此，我将分享一些对我非常有帮助的方法。首先是脑刺激，当我做了这个之后，我连续几个月都没有焦虑。还有一种叫做迷走神经刺激的方法，过去30年里被引用最多的科学家之一已经观察到了一系列惊人的益处。

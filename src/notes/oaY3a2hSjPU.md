@@ -1,32 +1,29 @@
 ---
-title: Midjourney 提示词三要素：打造更出色的 AI 图像生成效果
-summary: 本指南将揭示 Midjourney 提示词的关键三要素：主题、背景和风格，并提供具体示例，帮助您生成更具结构感和艺术性的 AI 图像。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-art
-- creative-ai
-- image-generation
-- prompt-engineering
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models:
-- midjourney
-media_books:
-- how-i-ai
 date: '2025-10-07'
-author: How I AI
-speaker: How I AI
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- how-i-ai
+products_models:
+- midjourney
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=oaY3a2hSjPU
+speaker: How I AI
 status: evergreen
+summary: 本指南将揭示 Midjourney 提示词的关键三要素：主题、背景和风格，并提供具体示例，帮助您生成更具结构感和艺术性的 AI 图像。
+tags:
+- generation
+- llm
+title: Midjourney 提示词三要素：打造更出色的 AI 图像生成效果
 ---
+
 ### 基础提示词的局限性
 
 我们首先来了解一下，仅使用简单的提示词来生成图像时可能遇到的问题。以“一张办公椅的图片”为例，直接输入“办公椅”这个词，Midjourney 可能会生成一些参考性不错的图像，但这些图像的实用性可能并不高。它们或许可以被放入目录，但距离真正有吸引力和结构感的成品还有差距。

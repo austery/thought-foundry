@@ -1,80 +1,79 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- Nvidia
+- Palantir
+- JPMorgan Chase
+- Bitstamp
+- Wonderfy
+- Pluto
+- Kalshi
+- Coinbase
+- Polymarket
+- ForecastEX LLC
+- Interactive Brokers
+- Charles Schwab
+- Tasty Trade
+- SoFi
+- PayPal
+- Grab
+- SoftBank
+- Goto
+- Oracle
+- Anthropic
+- OpenAI
+- Microsoft
+- Apple
+- Google
+- Amazon
+- Cava
+- Chipotle
+- Starbucks
+- IRS
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- TBPN
+people:
+- Tanner Roy
+- Vlad Tenev
+- Jason Warnick
+- Jeff Bezos
+- Elon Musk
+- Anthony Noto
+- Michael Burry
+- Alex Karp
+- Satya Nadella
+- Sam Altman
+- Jensen Huang
+- Johnny Depp
+- Devin Ryan
+- Masayoshi Son
+- Anthony Tan
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=LPBYVgsOWFs
 speaker: Amit Kukreja
-tags:
-  - earnings-report
-  - fintech-growth
-  - operating-leverage
-  - prediction-markets
-  - international-expansion
-title: Robinhood Q3 财报深度解析：超预期增长与未来展望
-summary: Robinhood 第三季度财报表现出色，营收和每股收益均超预期。本期节目深入探讨了其强劲的净存款增长、Bitstamp 的整合、以及预测市场和国际扩张等新增长点。分析师们还讨论了公司的运营杠杆、收购策略，并展望了其成为万亿市值公司的潜力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Amit Kukreja
-  - Tanner Roy
-  - Vlad Tenev
-  - Jason Warnick
-  - Jeff Bezos
-  - Elon Musk
-  - Anthony Noto
-  - Michael Burry
-  - Alex Karp
-  - Satya Nadella
-  - Sam Altman
-  - Jensen Huang
-  - Johnny Depp
-  - Devin Ryan
-  - Masayoshi Son
-  - Anthony Tan
-companies_orgs:
-  - Robinhood
-  - Nvidia
-  - Palantir
-  - JPMorgan Chase
-  - Bitstamp
-  - Wonderfy
-  - Pluto
-  - Kalshi
-  - Coinbase
-  - Polymarket
-  - ForecastEX LLC
-  - Interactive Brokers
-  - Charles Schwab
-  - Tasty Trade
-  - SoFi
-  - PayPal
-  - Grab
-  - SoftBank
-  - Goto
-  - Oracle
-  - Anthropic
-  - OpenAI
-  - Microsoft
-  - Apple
-  - Google
-  - Amazon
-  - Cava
-  - Chipotle
-  - Starbucks
-  - IRS
-products_models: []
-media_books:
-  - Bloomberg
-  - TBPN
 status: evergreen
+summary: Robinhood 第三季度财报表现出色，营收和每股收益均超预期。本期节目深入探讨了其强劲的净存款增长、Bitstamp 的整合、以及预测市场和国际扩张等新增长点。分析师们还讨论了公司的运营杠杆、收购策略，并展望了其成为万亿市值公司的潜力。
+tags:
+- earnings-report
+- growth
+- international
+- prediction-market
+- technology
+title: Robinhood Q3 财报深度解析：超预期增长与未来展望
 ---
+
 ### Robinhood Q3 财报概览与初步反应
 
 Amit: 好的，大家好，欢迎回到新一期的 Tech Bros 节目。我们正在直播，有很多内容要聊。上周 Robinhood 刚刚发布了财报，那份财报相当引人注目，随着我们深入研究这些数据，会发现有很多值得分析的地方。我们也会聊一些 AI 相关的话题，看看英伟达的最新动态。但很高兴能再次和大家在一起。Tanner Roy，你怎么样？

@@ -1,62 +1,60 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: business
+companies_orgs:
+- Alphabet
+- Meta
+- Amazon
+- Microsoft
+- Snapchat
+- AppLovin
+- Pinterest
+- Trade Desk
+- Reddit
+- Unity
+- Magnite
+- PubMatic
+- TikTok
+- Disney
+- Apple
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- YouTube
+- Google Search
+- Google Network
+- Facebook
+- Instagram
+- Messenger
+- Audience Network
+- LinkedIn
+- Bing
+- Candy Crush
+- APP Discovery
+- AXON 2.0
+- MAX
+- Adjust
+project:
+- investment-strategy
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=eXXE553YhWE
 speaker: Money or Life 美股频道
-tags:
-  - online-advertising
-  - ad-tech
-  - ad-monetization
-  - real-time-bidding
-  - data-privacy
-title: 深度解析：投资科技巨头前，你必须了解的线上广告核心知识
-summary: 本视频深入探讨了线上广告的运作机制，揭示了谷歌、Meta等科技巨头如何通过广告业务实现营收。内容涵盖了广告的核心衡量指标（如CPM、ROAS），全球广告市场的规模与主要参与者，广告网络中各角色的职责（DSP、SSP），以及实时竞价技术和苹果IDFA隐私政策改革带来的挑战与应对策略。旨在为投资者提供全面理解广告行业所需的关键知识。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - Alphabet
-  - Meta
-  - Amazon
-  - Microsoft
-  - Snapchat
-  - AppLovin
-  - Pinterest
-  - Trade Desk
-  - Reddit
-  - Unity
-  - Magnite
-  - PubMatic
-  - TikTok
-  - Disney
-  - Apple
-products_models:
-  - YouTube
-  - Google Search
-  - Google Network
-  - Facebook
-  - Instagram
-  - Messenger
-  - Audience Network
-  - LinkedIn
-  - Bing
-  - Candy Crush
-  - APP Discovery
-  - AXON 2.0
-  - MAX
-  - Adjust
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了线上广告的运作机制，揭示了谷歌、Meta等科技巨头如何通过广告业务实现营收。内容涵盖了广告的核心衡量指标（如CPM、ROAS），全球广告市场的规模与主要参与者，广告网络中各角色的职责（DSP、SSP），以及实时竞价技术和苹果IDFA隐私政策改革带来的挑战与应对策略。旨在为投资者提供全面理解广告行业所需的关键知识。
+tags:
+- ad-monetization
+- data
+- online
+- real
+- tech
+title: 深度解析：投资科技巨头前，你必须了解的线上广告核心知识
 ---
+
 ### 线上广告：投资科技巨头前的必修课
 
 欢迎来到Money or Life美股频道。本期视频将与大家一同学习一个新的领域——广告。最初，本频道仅打算研究 **AppLovin** 这家公司，但随后发现广告领域其实非常有趣，且有许多基础知识需要先了解清楚，才能更好地研究那些以广告为主要营收的公司。我们熟知的 **谷歌**、**Meta** 以及 **AppLovin**、**Trade Desk** 等公司的主要营收都来自广告，那么它们究竟是如何赚钱的呢？在接下来的几期视频中，我们将一同探索。

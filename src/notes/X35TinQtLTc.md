@@ -1,40 +1,38 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 35線上賞屋
+- Cofit
+- 春韭
 date: '2025-06-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李思賢
+- Ted
+- 黃仁勳
+- 宋晏仁
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=X35TinQtLTc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - fatty-liver
-  - pre-diabetes
-  - insulin-resistance
-  - healthy-living-environment
-  - real-estate-insights
-title: 体检正常不等于健康：医生警告肝脏与糖尿病风险，兼论健康居住理念与房产选择
-summary: 初日诊所李思贤医师与35线上赏屋Ted分享健康与居住的深度见解。李医师指出，体检正常不代表完全健康，脂肪肝和糖尿病前期可能被忽视，并以Ted的亲身经历为例，强调饮食、酒精和果糖对肝脏的危害。Ted分享了通过改善生活习惯逆转健康状况的经验。对话随后转向健康居住环境的重要性，讨论了台湾房屋的通风、采光、霉菌问题，并对比了杜拜房产的独特设计，强调居住环境对身心健康的关键影响，并为购房者提供了实用建议。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 李思賢
-  - Ted
-  - 黃仁勳
-  - 宋晏仁
-companies_orgs:
-  - 初日診所
-  - 35線上賞屋
-  - Cofit
-  - 春韭
-products_models: []
-media_books: []
 status: evergreen
+summary: 初日诊所李思贤医师与35线上赏屋Ted分享健康与居住的深度见解。李医师指出，体检正常不代表完全健康，脂肪肝和糖尿病前期可能被忽视，并以Ted的亲身经历为例，强调饮食、酒精和果糖对肝脏的危害。Ted分享了通过改善生活习惯逆转健康状况的经验。对话随后转向健康居住环境的重要性，讨论了台湾房屋的通风、采光、霉菌问题，并对比了杜拜房产的独特设计，强调居住环境对身心健康的关键影响，并为购房者提供了实用建议。
+tags:
+- canada
+- health
+- insulin-resistance
+- real
+title: 体检正常不等于健康：医生警告肝脏与糖尿病风险，兼论健康居住理念与房产选择
 ---
+
 ### 健康体检的盲区与Ted的健康蜕变
 
 **李思賢醫師:** 哈啰，大家好，我是思思医师。今天很开心能来到AI教父**黄仁勋**的爱店——**春韭**。这家餐厅的名字取自杜甫诗句，展现了用心准备酒宴的精神，以供应依当季食材而设计的无菜单料理为特色，是许多明星、政商名流以及今天神秘来宾的餐厅口袋名单。它的招牌菜是用五只全鸡细火慢炖的黄金鸡汤，还有经典菜和牛黄金包，包裹澳洲M9和牛。丰富的菜肴让人食指大动，让我们边吃边聊吧。今天我们有一位非常特别的大来宾，就是35线上赏屋的Ted。

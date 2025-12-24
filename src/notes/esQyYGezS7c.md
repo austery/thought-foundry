@@ -1,46 +1,44 @@
 ---
-author: Veritasium
-date: '2022-11-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=esQyYGezS7c
-speaker: Veritasium
-tags:
-  - veritasium
-  - standard-reference-materials
-  - quality-control
-  - calibration
-  - product-safety
-  - measurement-accuracy
-title: 世界运转的基石：那些昂贵而奇特的标准参考物质
-summary: 本视频深入探讨了美国政府仓库中储存并销售的各种奇特物品，包括花生酱、污泥和钢铁。这些物品并非用于消费，而是作为“标准参考物质”（SRM），供工业界和研究人员校准设备、验证测试，以确保产品质量、安全和科学准确性。其高昂的价格反映了严谨的特性化过程，为从食品安全到结构完整性等关键测量提供了“瓶中真理”。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Dr. Place
-  - Dr. Choquette
-  - Professor Charpy
+category: general
 companies_orgs:
-  - National Institute of Standards and Technology
-  - FDA
-  - Google Domains
-  - Google Cloud
-  - Google Workspace
-  - Google Analytics
-  - National Bureau of Standards
-  - ASTM
+- National Institute of Standards and Technology
+- FDA
+- Google Domains
+- Google Cloud
+- Google Workspace
+- Google Analytics
+- National Bureau of Standards
+- ASTM
+date: '2022-11-19'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Dr. Place
+- Dr. Choquette
+- Professor Charpy
 products_models:
-  - Snatoms
-  - Charpies
-media_books: []
+- Snatoms
+- Charpies
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=esQyYGezS7c
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了美国政府仓库中储存并销售的各种奇特物品，包括花生酱、污泥和钢铁。这些物品并非用于消费，而是作为“标准参考物质”（SRM），供工业界和研究人员校准设备、验证测试，以确保产品质量、安全和科学准确性。其高昂的价格反映了严谨的特性化过程，为从食品安全到结构完整性等关键测量提供了“瓶中真理”。
+tags:
+- calibration
+- control
+- safety
+- society
+- technology
+title: 世界运转的基石：那些昂贵而奇特的标准参考物质
 ---
+
 ### 奇特的政府仓库与日常物品的秘密
 
 本视频的部分内容由Google Domains赞助。

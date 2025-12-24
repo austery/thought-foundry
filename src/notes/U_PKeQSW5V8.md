@@ -1,60 +1,60 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: business
+companies_orgs:
+- 苹果
+- 三星
+- 小米
+- vivo
+- OPPO
+- 华为
+- Booking
+- Expedia
+- 携程
+- Airbnb
+- Google
+- Applied Materials
+- ASML
+- Ventures
+- 东京电子
+- Broadcom
+- Tesla
 date: '2025-07-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- 巴菲特
+- 段永平
+- 蒂姆·库克
+products_models:
+- iPhone
+- iPad
+- Apple Watch
+- AppStore
+- arkitimessage
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=U_PKeQSW5V8
 speaker: Shijun Tang
-tags:
-  - moat-depth
-  - switching-costs
-  - pricing-power
-  - ecosystem-loyalty
-  - capital-allocation
-title: 苹果、Booking与AMAT：三巨头的护城河与复利逻辑
-summary: 本文分析苹果、Booking和Applied Materials三家公司如何通过生态系统粘性、网络效应与技术壁垒构建持久护城河，并探讨其在增长放缓背景下仍具备的复利能力，揭示高切换成本与定价权如何支撑长期股东回报。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - 巴菲特
-  - 段永平
-  - 蒂姆·库克
-companies_orgs:
-  - 苹果
-  - 三星
-  - 小米
-  - vivo
-  - OPPO
-  - 华为
-  - Booking
-  - Expedia
-  - 携程
-  - Airbnb
-  - Google
-  - Applied Materials
-  - ASML
-  - Ventures
-  - 东京电子
-  - Broadcom
-  - Tesla
-products_models:
-  - iPhone
-  - iPad
-  - Apple Watch
-  - AppStore
-  - arkitimessage
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文分析苹果、Booking和Applied Materials三家公司如何通过生态系统粘性、网络效应与技术壁垒构建持久护城河，并探讨其在增长放缓背景下仍具备的复利能力，揭示高切换成本与定价权如何支撑长期股东回报。
+tags:
+- capital-allocation
+- ecosystem
+- investment
+- pricing-power
+- switching-cost
+title: 苹果、Booking与AMAT：三巨头的护城河与复利逻辑
 ---
+
 ### 苹果：生态系统的护城河与复利根基
 
 苹果是否还能成为一台复利机器？这个问题近期因巴菲特和段永平的减持而引发广泛讨论。但作者唐石峻认为，苹果的核心价值并未因增长放缓而瓦解。

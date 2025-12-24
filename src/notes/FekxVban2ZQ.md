@@ -1,48 +1,47 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times Podcasts
+- Wire Cutter
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Manga
+- Shownen manga
+- gift-guide
+people:
+- Noah
+- Remy
+- Dior
+- Robinson
+- Chloe
+- Rosie
+products_models:
+- Lego
+- Nike
+- Vans
+- Barbie
+- Reborn baby doll
+- remote control snake
+- Lego Creator Bird 3 in one birdhouse
+- Panda toy with baby bottle and toilet
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=FekxVban2ZQ
 speaker: New York Times Podcasts
-tags:
-  - holiday-gifts
-  - kids-wishlist
-  - gift-guide
-  - children-preferences
-  - consumer-trends
-title: 2025年儿童礼物指南：听听孩子们想要什么
-summary: 本文是《纽约时报播客》的节日礼物系列节目，聚焦于孩子们真实的礼物愿望清单。通过采访不同年龄段的孩子，节目揭示了儿童在挑选礼物时的独特视角和偏好，为家长和送礼者提供实用建议，帮助他们找到最受孩子们欢迎的礼物。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project: []
-people:
-  - Noah
-  - Remy
-  - Dior
-  - Robinson
-  - Chloe
-  - Rosie
-companies_orgs:
-  - New York Times Podcasts
-  - Wire Cutter
-products_models:
-  - Lego
-  - Nike
-  - Vans
-  - Barbie
-  - Reborn baby doll
-  - remote control snake
-  - Lego Creator Bird 3 in one birdhouse
-  - Panda toy with baby bottle and toilet
-media_books:
-  - Manga
-  - Shownen manga
 status: evergreen
+summary: 本文是《纽约时报播客》的节日礼物系列节目，聚焦于孩子们真实的礼物愿望清单。通过采访不同年龄段的孩子，节目揭示了儿童在挑选礼物时的独特视角和偏好，为家长和送礼者提供实用建议，帮助他们找到最受孩子们欢迎的礼物。
+tags:
+- holiday-gift
+- life
+- trend
+title: 2025年儿童礼物指南：听听孩子们想要什么
 ---
+
 ### 节日礼物季：倾听孩子们的心声
 
 我是 Rosie，欢迎收听 Wire Cutter Show。我们即将结束今年的节日礼物系列节目。在这个系列中，我们为大家推荐产品、提供送礼建议，并解答听众关于节日期间如何为所爱之人挑选礼物的疑问。虽然本系列之前的节目大多是为成年人准备的，但根据我的经验，孩子往往是礼物清单上最难搞定的接收者——他们几乎总是很挑剔，坦率地给出反馈，对想要的东西非常具体，有时又极其模糊。

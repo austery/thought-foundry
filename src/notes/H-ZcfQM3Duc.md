@@ -1,49 +1,49 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Adobe
+- Meta
+- Salesforce
+- Oracle
+- Microsoft
+- Canva
+- Figma
+- Docusign
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- S&P 500 ETF
+products_models:
+- Photoshop
+- Adobe Premiere Pro
+- After Effects
+- Illustrator
+- Acrobat
+- Firefly
+- AEP
+- AEM
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=H-ZcfQM3Duc
 speaker: Shijun Tang
-tags:
-  - stock-analysis
-  - investment-portfolio
-  - creative-cloud
-  - financial-health
-  - valuation
-title: Adobe（ADBE）投资复盘：价值陷阱还是抄底良机？
-summary: 本期视频深入分析了Adobe（ADBE）的投资价值。博主唐石峻结合自身296天的持仓亏损经历，详细剖析了Adobe最新的财报数据、核心业务（Creative Cloud、Document Cloud、AI Firefly、Digital Experience）、市场竞争格局及公司护城河。尽管面临股价下跌，但Adobe强劲的财务指标、显著的ROIC和持续的现金流，以及管理层的大举回购，使其在博主看来仍具长期投资价值，决定继续持有。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people: []
-companies_orgs:
-  - Adobe
-  - Meta
-  - Salesforce
-  - Oracle
-  - Microsoft
-  - Canva
-  - Figma
-  - Docusign
-products_models:
-  - Photoshop
-  - Adobe Premiere Pro
-  - After Effects
-  - Illustrator
-  - Acrobat
-  - Firefly
-  - AEP
-  - AEM
-media_books:
-  - S&P 500 ETF
 status: evergreen
+summary: 本期视频深入分析了Adobe（ADBE）的投资价值。博主唐石峻结合自身296天的持仓亏损经历，详细剖析了Adobe最新的财报数据、核心业务（Creative
+  Cloud、Document Cloud、AI Firefly、Digital Experience）、市场竞争格局及公司护城河。尽管面临股价下跌，但Adobe强劲的财务指标、显著的ROIC和持续的现金流，以及管理层的大举回购，使其在博主看来仍具长期投资价值，决定继续持有。
+tags:
+- financial-health
+- investment
+- stock-analysis
+- technology
+- valuation
+title: Adobe（ADBE）投资复盘：价值陷阱还是抄底良机？
 ---
+
 ### 个人投资的困境：Adobe的巨额亏损
 
 今天这期视频我们来聊聊Adobe。Adobe的股价已经横盘了1500天，并且，最近650天，Adobe的股价又跌了差不多50%。Adobe也是我目前整个投资组合中，唯一一家亏钱的公司。这家让我亏钱的公司，是一文不值的价值陷阱呢，还是能够咸鱼翻身，在未来能帮我赚钱呢？今天这期视频我们就从公司的最新财报、公司基本面，以及公司的护城河等多个方面来详细研究一下。

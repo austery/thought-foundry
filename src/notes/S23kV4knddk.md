@@ -5,15 +5,14 @@ area: null
 category: null
 project: []
 tags:
-  - 自动驾驶
+- autonomous-driving
 people:
-  - 小苏
-  - 老修
-  - 闲哥
+- 小苏
+- 老修
+- 闲哥
 companies_orgs:
 - 特斯拉
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: ''
@@ -24,6 +23,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=S23kV4knddk&t
 ---
+
 **小苏:** 我们今天来聊一下特斯拉，特别是其Robotaxi
 (无人驾驶出租车：提供自动驾驶载客服务的车辆)
 在奥斯汀的首秀，这标志着其十年的自动驾驶探索迎来了首次商业化。首先，作为一位用真金白银投票的资深特斯拉股东和车主，老修，你来谈谈对此事的看法吧。

@@ -1,45 +1,45 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 哈佛大学
+- 麻省理工
+- 斯坦福
+- QS排行榜
+- 公安部门
 date: '2025-06-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《哈佛女孩刘亦婷》
+people:
+- 张内咸
+- 刘亦婷
+- 努尔哈赤
+- Iris
+- Siri
+products_models:
+- iPhone
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=gtpV9-CXk_k
 speaker: 張内咸
-tags:
-  - us-china-relations
-  - chinese-education-system
-  - societal-anxiety
-  - immigration-policy
-  - cultural-differences
-title: 从海淀鸡娃到中美竞争：普通人的焦虑与教育的未来
-summary: 张内咸的脱口秀深入探讨了中国社会普遍存在的生存焦虑，特别是家长对子女教育的极端投入（“鸡娃”现象）。他通过个人经历和对社会现象的观察，分析了哈佛大学对国际学生的政策变化、中美竞争背景下的教育困境，以及中美两国在教育、移民和文化认知上的显著差异。文章最终反思了“排华”的真正含义，并以幽默而深刻的方式揭示了普通人在时代洪流中的挣扎与选择。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 张内咸
-  - 刘亦婷
-  - 努尔哈赤
-  - Iris
-  - Siri
-companies_orgs:
-  - 哈佛大学
-  - 麻省理工
-  - 斯坦福
-  - QS排行榜
-  - 公安部门
-products_models:
-  - iPhone
-media_books:
-  - 《哈佛女孩刘亦婷》
 status: evergreen
+summary: 张内咸的脱口秀深入探讨了中国社会普遍存在的生存焦虑，特别是家长对子女教育的极端投入（“鸡娃”现象）。他通过个人经历和对社会现象的观察，分析了哈佛大学对国际学生的政策变化、中美竞争背景下的教育困境，以及中美两国在教育、移民和文化认知上的显著差异。文章最终反思了“排华”的真正含义，并以幽默而深刻的方式揭示了普通人在时代洪流中的挣扎与选择。
+tags:
+- cultural-difference
+- immigration-policy
+- societal
+- system
+- us-china-relations
+title: 从海淀鸡娃到中美竞争：普通人的焦虑与教育的未来
 ---
+
 大家好，我是张内咸，我们又见面了。最近这段时间又陆续发生了好多大事，才六月，2025年还没过一半，就感觉地球转得太快了点，眼睛都不够用了。不知道100年之后的人类，会如何评价今天的我们呢？我身边每个人都在忧心忡忡地谈论着国际风云变幻、中美关系、俄乌战场的局势，以及第三次世界大战的可能性。
 
 ### 政治话题的蔓延与社交边界的模糊

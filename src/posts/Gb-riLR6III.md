@@ -1,43 +1,38 @@
 ---
-title: "从高压公关到裸辞创业：Ami 的 Gen Z 职场哲学与 AI 赋能创作之路"
-summary: "本期播客邀请了身兼文创主理人与内容创作者的 Ami，分享她从高压金融公关岗位裸辞，转型为一人公司的真实历程。Ami 深入探讨了 Gen Z “工作服务于我”的职場觀，以及如何利用 AI 工具（如 AI 摄影、ElevenLabs、Sora）“偷懒”並提升效率。她还分享了关于“隐藏职场技能”、寻找 Ikigai（生存意义）以及未来内容创作趋势的独到见解。"
+title: 从高压公关到裸辞创业：Ami 的 Gen Z 职场哲学与 AI 赋能创作之路
+summary: 本期播客邀请了身兼文创主理人与内容创作者的 Ami，分享她从高压金融公关岗位裸辞，转型为一人公司的真实历程。Ami 深入探讨了 Gen Z “工作服务于我”的职場觀，以及如何利用
+  AI 工具（如 AI 摄影、ElevenLabs、Sora）“偷懒”並提升效率。她还分享了关于“隐藏职场技能”、寻找 Ikigai（生存意义）以及未来内容创作趋势的独到见解。
 source: https://www.youtube.com/watch?v=Gb-riLR6III
 speaker: 用AI發電
-date: "2025-12-15"
-area: "personal-systems"
-category: "career"
+date: '2025-12-15'
+area: personal-systems
+category: career
 project:
-  - "entrepreneurship"
-  - "ai-impact-analysis"
-  - "personal-growth-lab"
-
+- entrepreneurship
+- ai-impact-analysis
+- personal-growth-lab
 tags:
-  - "content-creation"
-  - "naked-resignation"
-  - "side-hustle"
-  - "ikigai"
-  - "ai-photography"
-
+- content-creation
+- llm
+- naked-resignation
+- side-hustle
 people:
-  - "Ami"
-  - "张独行"
-  - "Dan Koe"
-  - "Sam Altman"
-  - "张咋啦"
-
+- Ami
+- 张独行
+- Dan Koe
+- Sam Altman
+- 张咋啦
 companies_orgs:
-  - "YouTube"
-  - "Instagram"
-  - "ElevenLabs"
-  - "OpenAI"
-
+- YouTube
+- Instagram
+- ElevenLabs
+- OpenAI
 products_models:
-  - "Sora"
-  - "iPhone"
-
+- Sora
+- iPhone
 media_books:
-  - "《Let Them》"
-  - "《黑镜》"
+- 《Let Them》
+- 《黑镜》
 ---
 
 ### 嘉宾介绍与多重身份

@@ -1,43 +1,43 @@
 ---
-author: Big Think
+area: society-systems
+category: general
+companies_orgs:
+- Wired Magazine
+- Amazon
 date: '2025-12-05'
+draft: false
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Long Boom
+people:
+- Peter Leyden
+- Peter Schwartz
+- Thomas Jefferson
+- Ben Franklin
+- Donald Trump
+products_models:
+- ChatGPT 3.5
+- iPhone
+project:
+- us-analysis
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=D0DUzZItVyI
 speaker: Big Think
-tags:
-  - technological-revolution
-  - societal-transformation
-  - economic-reinvention
-  - political-cycles
-  - age-of-abundance
-title: 未来25年：技术引爆的文明重塑与大繁荣时代
-summary: 彼得·莱登指出，2025年是一个历史性时刻，人工智能、清洁能源和生物工程等颠覆性技术正开始规模化发展。他通过回顾美国历史上每隔80年出现的社会重塑周期，阐述了未来25年将迎来一个“大进步时代”，充满技术驱动的富足。文章深入探讨了这些技术如何推动经济、社会乃至政治体系的根本性变革，并呼吁人们重新思考构建21世纪文明的路径。
-insight: ''
-draft: false
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Peter Leyden
-  - Peter Schwartz
-  - Thomas Jefferson
-  - Ben Franklin
-  - Donald Trump
-companies_orgs:
-  - Wired Magazine
-  - Amazon
-products_models:
-  - ChatGPT 3.5
-  - iPhone
-media_books:
-  - The Long Boom
 status: evergreen
+summary: 彼得·莱登指出，2025年是一个历史性时刻，人工智能、清洁能源和生物工程等颠覆性技术正开始规模化发展。他通过回顾美国历史上每隔80年出现的社会重塑周期，阐述了未来25年将迎来一个“大进步时代”，充满技术驱动的富足。文章深入探讨了这些技术如何推动经济、社会乃至政治体系的根本性变革，并呼吁人们重新思考构建21世纪文明的路径。
+tags:
+- economic
+- history
+- political
+- societal
+- technological
+title: 未来25年：技术引爆的文明重塑与大繁荣时代
 ---
+
 ### 历史的转折点：大进步时代
 
 我们正生活在一个非凡的历史时刻。

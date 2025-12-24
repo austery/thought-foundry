@@ -1,81 +1,81 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 长江头条
+- 密歇根大学
+- 美国人口普查局
+- LV集团
+- 联合利华
+- Chipoli
+- HomeDeep
+- 富国银行
+- 芝加哥商品交易所
+- 华尔街日报
+- 巴黎交易所
+- 台湾统计部门
+- G20
+- 乌克兰总统办公室
+- 国家反腐败局
+- 专门反腐败检察官办公室
+- 彭博社
+- 美国移民局
+- 白宫
+- 阿里巴巴集团
+- 京东
+- 百度公司
+- 司科院
+- 新华社
+- 中共中央
+- 廉政公署
+- 香港劳工处
+- 路透社
+- 上海复旦大学国际问题研究院
+- 北约
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《经济学人》
+- 《外交事务》
+people:
+- Xi Jinping
+- 李强
+- 蔡奇
+- 胡锦涛
+- 高市早苗
+- Donald Trump
+- Vladimir Putin
+- 安德烈·耶尔马克
+- 执令司机
+- 切尔尼·绍夫
+- 明蒂奇
+- 埃德罗
+- 卢比奥
+- 王毅
+- 吴星博
+products_models:
+- TikTok
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=BeHwwSCW-9Y
 speaker: LT視界
-tags:
-  - power-configuration
-  - anti-corruption
-  - economic-slowdown
-  - us-china-relations
-  - taiwan-strait
-title: 习近平索要新权力？政治局会议解读与中国经济观察
-summary: LT视界分析了政治局会议中习近平提出的“加强对权力配置的规范和监督”的新提法，解读其对中国政治的影响。同时，节目还关注了美国消费者信心、芝加哥商品交易所事故、台湾经济增长、乌克兰腐败案、川普移民政策以及中国经济的最新动态，包括美团亏损、百度裁员和工业利润下降等。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-  - 李强
-  - 蔡奇
-  - 胡锦涛
-  - 高市早苗
-  - Donald Trump
-  - Vladimir Putin
-  - 安德烈·耶尔马克
-  - 执令司机
-  - 切尔尼·绍夫
-  - 明蒂奇
-  - 埃德罗
-  - 卢比奥
-  - 王毅
-  - 吴星博
-companies_orgs:
-  - 长江头条
-  - 密歇根大学
-  - 美国人口普查局
-  - LV集团
-  - 联合利华
-  - Chipoli
-  - HomeDeep
-  - 富国银行
-  - 芝加哥商品交易所
-  - 华尔街日报
-  - 巴黎交易所
-  - 台湾统计部门
-  - G20
-  - 乌克兰总统办公室
-  - 国家反腐败局
-  - 专门反腐败检察官办公室
-  - 彭博社
-  - 美国移民局
-  - 白宫
-  - 阿里巴巴集团
-  - 京东
-  - 百度公司
-  - 司科院
-  - 新华社
-  - 中共中央
-  - 廉政公署
-  - 香港劳工处
-  - 路透社
-  - 上海复旦大学国际问题研究院
-  - 北约
-products_models:
-  - TikTok
-media_books:
-  - 《经济学人》
-  - 《外交事务》
 status: evergreen
+summary: LT视界分析了政治局会议中习近平提出的“加强对权力配置的规范和监督”的新提法，解读其对中国政治的影响。同时，节目还关注了美国消费者信心、芝加哥商品交易所事故、台湾经济增长、乌克兰腐败案、川普移民政策以及中国经济的最新动态，包括美团亏损、百度裁员和工业利润下降等。
+tags:
+- anti
+- economic
+- power
+- taiwan-strait
+- us-china-relations
+title: 习近平索要新权力？政治局会议解读与中国经济观察
 ---
+
 ### 美国消费趋势与宏观经济观察
 
 《经济学人》报道指出，尽管美国消费者信心指数降至历史低点，但实际消费支出并未同步下降，两者出现脱钩。美国即将迎来黑色星期五和网络星期一的消费狂潮，企业将密切关注消费意愿。密歇根大学消费者信心指数已跌至仅略高于2022年6月的水平，当时正值疫情最严重时期。美国人普遍对就业前景感到沮丧，并对通货膨胀感到担忧，计划削减开支。然而，美国人口普查局数据显示，经通胀调整后，9月份零售商和餐厅的支出同比增长1%，表明消费者并未大幅勒紧裤腰带。富人受益于坚挺的股市，消费能力依旧强劲，而低收入消费者面临更大压力。富国银行预测，今年购物季的销售额将高于通货膨胀率。

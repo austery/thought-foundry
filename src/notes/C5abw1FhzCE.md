@@ -1,44 +1,44 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 甲骨文公司
+- 耶鲁大学
+- 加州大学伯克利分校
+- 旧金山警察局
+- 福斯特市检察官办公室
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《盲眼钟表匠》
+people:
+- 艾莉森·加尔瓦尼
+- 帕特里克·加尔瓦尼
+- 南希·加尔瓦尼
+- 约翰·凯克尔
+- 理查德·道金斯
+products_models: []
+project:
+- historical-insights
+- psychology
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=C5abw1FhzCE
 speaker: 记者易速利
-tags:
-  - cognitive-dissonance
-  - intergenerational-trauma
-  - justice-system-flaws
-  - parental-manipulation
-  - cold-case-reinvestigation
-title: 43年追凶：耶鲁教授艾莉森如何揭开父亲谋杀母亲的真相
-summary: 艾莉森·加尔瓦尼在5岁时目睹母亲惨死，父亲帕特被怀疑但未定罪。她以顶尖流行病学家的身份，在数十年后通过调查与证据重建，推动司法系统重启案件，最终在2025年促成父亲被逮捕。这是一场关于创伤、认知失调与正义的漫长抗争。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - psychology
-  - geopolitics-watch
-people:
-  - 艾莉森·加尔瓦尼
-  - 帕特里克·加尔瓦尼
-  - 南希·加尔瓦尼
-  - 约翰·凯克尔
-  - 理查德·道金斯
-companies_orgs:
-  - 甲骨文公司
-  - 耶鲁大学
-  - 加州大学伯克利分校
-  - 旧金山警察局
-  - 福斯特市检察官办公室
-products_models: []
-media_books:
-  - 《盲眼钟表匠》
 status: evergreen
+summary: 艾莉森·加尔瓦尼在5岁时目睹母亲惨死，父亲帕特被怀疑但未定罪。她以顶尖流行病学家的身份，在数十年后通过调查与证据重建，推动司法系统重启案件，最终在2025年促成父亲被逮捕。这是一场关于创伤、认知失调与正义的漫长抗争。
+tags:
+- cognitive
+- intergenerational-trauma
+- investment
+- system
+- technology
+title: 43年追凶：耶鲁教授艾莉森如何揭开父亲谋杀母亲的真相
 ---
+
 ### 一个母亲的死亡，一个女儿的一生
 
 艾莉森·加尔瓦尼是耶鲁大学最年轻的讲席教授之一，一位在传染病建模领域享有盛誉的流行病学家。她身材纤细、说话轻柔，学术成就斐然——25岁获得牛津大学博士学位，33岁成为耶鲁终身教授，36岁晋升为最年轻的正教授，并在2015年成为耶鲁历史上最年轻的讲席教授。但她的光芒背后，埋藏着一个长达43年的黑暗秘密：她五岁时，母亲南希·加尔瓦尼被谋杀，而凶手，正是她的父亲——帕特里克·加尔瓦尼。

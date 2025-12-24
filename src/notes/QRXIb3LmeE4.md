@@ -1,47 +1,45 @@
 ---
-author: 徒步的騎手
-date: 2025-02-18
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=QRXIb3LmeE4'
-speaker: 徒步的騎手
-tags:
-  - cultural-relativism
-  - authoritarianism
-  - modern-civilization
-  - cultural-narcissism
-  - political-culture
-title: 批判“文化差异”：野蛮、文明与政治的下游
-summary: 本文深入探讨了“文化差异”这一概念被滥用的现象，从印度烧寡妇的习俗到中国家暴案例，揭示了将野蛮行为包装成文化的本质。文章强调，真正的文化应具有生命力、可革新，而非僵化停滞。通过批判中国式文化自恋和对独裁的文化辩解，指出政治是文化的下游，劣质文化必然导致劣质制度。文章还反思了中国知识分子的局限性，并倡导接受现代文明的普世价值，以辨识真伪、推动社会进步。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - William Bentinck
-  - Jawaharlal Nehru
-  - Andrew Breitbart
-  - Stephen Bannon
-  - Donald Trump
-  - Michael Sugrue
-  - Qian Mu
-  - Ge Zhaoguang
-  - Wang Shuo
+category: geopolitics
 companies_orgs:
-  - Huffington Post
-  - Breitbart News
-  - Tulane University
-  - Princeton University
-products_models: '[]'
+- Huffington Post
+- Breitbart News
+- Tulane University
+- Princeton University
+date: 2025-02-18
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《国史大纲》
-  - 《知道分子》
+- 《国史大纲》
+- 《知道分子》
+people:
+- William Bentinck
+- Jawaharlal Nehru
+- Andrew Breitbart
+- Stephen Bannon
+- Donald Trump
+- Michael Sugrue
+- Qian Mu
+- Ge Zhaoguang
+- Wang Shuo
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=QRXIb3LmeE4
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了“文化差异”这一概念被滥用的现象，从印度烧寡妇的习俗到中国家暴案例，揭示了将野蛮行为包装成文化的本质。文章强调，真正的文化应具有生命力、可革新，而非僵化停滞。通过批判中国式文化自恋和对独裁的文化辩解，指出政治是文化的下游，劣质文化必然导致劣质制度。文章还反思了中国知识分子的局限性，并倡导接受现代文明的普世价值，以辨识真伪、推动社会进步。
+tags:
+- authoritarianism
+- cultural
+- political
+- society
+title: 批判“文化差异”：野蛮、文明与政治的下游
 ---
 
 ### “文化差异”的滥用与野蛮的辩护

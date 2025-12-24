@@ -1,45 +1,45 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 联合国人口机构UNPD
+- 经济合作与发展组织OECD
+- 中国人民解放军
+- 瑞银
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人口的力量与东亚的命运》
+- 《世界人口报告》
+- 《瑞银全球财富年鉴2023》
+people:
+- Nicholas Eberstadt
+- 周杰伦
+- LeBron James
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Mshab4k83SY
 speaker: 老周横眉
-tags:
-  - population-crisis
-  - demographic-shift
-  - aging-society
-  - low-birth-rate
-  - us-china-competition
-  - labor-force-decline
-title: 东亚的无声雪崩：人口危机如何重塑21世纪的命运与中美博弈
-summary: 本文深入剖析了美国经济学家尼古拉斯·艾伯斯塔特关于东亚人口危机的研究。文章指出，中国、日本、韩国和台湾正经历史无前例的人口老龄化与萎缩，与美国人口持续增长形成鲜明对比。这种人口结构的变化不仅将深刻影响东亚的经济、社会和军事，更将重塑中美博弈的未来格局。特别强调了低生育率、劳动人口锐减、养老负担加剧以及独生子女政策对军事潜力的深远影响，预示着一个人类历史上前所未有的新世界。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Nicholas Eberstadt
-  - 周杰伦
-  - LeBron James
-  - 习近平
-companies_orgs:
-  - 联合国人口机构UNPD
-  - 经济合作与发展组织OECD
-  - 中国人民解放军
-  - 瑞银
-products_models: []
-media_books:
-  - 《人口的力量与东亚的命运》
-  - 《世界人口报告》
-  - 《瑞银全球财富年鉴2023》
 status: evergreen
+summary: 本文深入剖析了美国经济学家尼古拉斯·艾伯斯塔特关于东亚人口危机的研究。文章指出，中国、日本、韩国和台湾正经历史无前例的人口老龄化与萎缩，与美国人口持续增长形成鲜明对比。这种人口结构的变化不仅将深刻影响东亚的经济、社会和军事，更将重塑中美博弈的未来格局。特别强调了低生育率、劳动人口锐减、养老负担加剧以及独生子女政策对军事潜力的深远影响，预示着一个人类历史上前所未有的新世界。
+tags:
+- crisis
+- demographic-shift
+- labor
+- rate
+- society
+- us-china-relations
+title: 东亚的无声雪崩：人口危机如何重塑21世纪的命运与中美博弈
 ---
+
 ### 东亚人口危机的序幕：一场无声的雪崩
 
 今天，我们将探讨一个与我们每个人及其未来生活息息相关的重要议题。长期以来，当我们谈论国家间的竞争、兴衰以及权力更迭时，我们总是从经济、技术和制度等角度进行分析。这些因素无疑是决定一个国家命运的重要组成部分。然而，当前东亚地区正面临着一场“不确定”但足以带来毁灭性后果的危机。最终，决定21世纪全球格局的，可能不是意识形态或尖端科技，而是出生证明书。

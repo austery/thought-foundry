@@ -1,110 +1,108 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Polymarket
+- FBI
+- Heritage Foundation
+- Heritage Action
+- NATO
+- UN Security Council
+- SoftBank
+- WeWork
+- Nvidia
+- ByteDance
+- Alibaba
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily Beast
+- Fox News
+- YouTube
+- Twitter
+- New York Times
+- CNN
+- Al Jazeera
+- Kyiv Independent
+- 《论持久战》
+- 《海边的西塞罗》
+- 《红楼梦》
+- 《流星花园》
+- 《雪国列车》
+- 《美丽新世界》
+- 《三国演义》
+people:
+- Donald Trump
+- Kamala Harris
+- Joe Biden
+- Liz Cheney
+- Mike Johnson
+- Roderick Bray
+- Mike Bohacek
+- Ethan Hatcher
+- Steve Bannon
+- Bill Gates
+- Prince Andrew
+- Ehud Barak
+- Woody Allen
+- Elon Musk
+- Ghislaine Maxwell
+- Marjorie Taylor Greene
+- Tim Pool
+- Charlie Kirk
+- Candace Owens
+- Andrew Tate
+- Ted Cruz
+- Xi Jinping
+- Boris Johnson
+- Vladimir Putin
+- 米尔斯海默
+- 蒋百里
+- 蒋介石
+- 毛泽东
+- 李鸿章
+- 伊藤博文
+- 马杜罗
+- 张学良
+- 王安石
+- 司马光
+- 苏轼
+- 岳飞
+- 赵构
+- 赫鲁晓夫
+- 萨达姆
+- 孙正义
+- 黄仁勋
+- 王志安
+- 方孝孺
+- 朱棣
+- 郑和
+products_models:
+- ACA
+- H1B
+- EB5
+- H20
+- GPT
+- COT
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=aUcEATBW0Tw
 speaker: 北美王路飞
-tags:
-  - us-politics
-  - foreign-policy
-  - political-polarization
-  - geopolitical-strategy
-  - russia-ukraine-war
-title: 特朗普政治困境、爱泼斯坦案与美国全球战略的转向：一场多维度的内外部挑战
-summary: 本期节目深入探讨了特朗普在印第安纳州选区重划尝试的失败，爱泼斯坦案照片曝光引发的政治波澜，以及MAGA运动内部日益加剧的分裂。同时，节目分析了特朗普政府最新国家安全战略（“唐罗主义”）所预示的美国全球霸权向区域霸权的战略转向，及其对美中关系、俄乌冲突和欧洲盟友的深远影响。嘉宾们还就俄乌战争的务实解决方案、历史教训以及社交媒体对民主社会的冲击进行了讨论。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Kamala Harris
-  - Joe Biden
-  - Liz Cheney
-  - Mike Johnson
-  - Roderick Bray
-  - Mike Bohacek
-  - Ethan Hatcher
-  - Steve Bannon
-  - Bill Gates
-  - Prince Andrew
-  - Ehud Barak
-  - Woody Allen
-  - Elon Musk
-  - Ghislaine Maxwell
-  - Marjorie Taylor Greene
-  - Tim Pool
-  - Charlie Kirk
-  - Candace Owens
-  - Andrew Tate
-  - Ted Cruz
-  - 习近平
-  - Boris Johnson
-  - Vladimir Putin
-  - 米尔斯海默
-  - 蒋百里
-  - 蒋介石
-  - 毛泽东
-  - 李鸿章
-  - 伊藤博文
-  - 马杜罗
-  - 张学良
-  - 王安石
-  - 司马光
-  - 苏轼
-  - 岳飞
-  - 赵构
-  - 赫鲁晓夫
-  - 萨达姆
-  - 孙正义
-  - 黄仁勋
-  - 王志安
-  - 方孝孺
-  - 朱棣
-  - 郑和
-companies_orgs:
-  - Polymarket
-  - FBI
-  - Heritage Foundation
-  - Heritage Action
-  - NATO
-  - UN Security Council
-  - SoftBank
-  - WeWork
-  - Nvidia
-  - ByteDance
-  - Alibaba
-products_models:
-  - ACA
-  - H1B
-  - EB5
-  - H20
-  - GPT
-  - COT
-media_books:
-  - The Daily Beast
-  - Fox News
-  - YouTube
-  - Twitter
-  - New York Times
-  - CNN
-  - Al Jazeera
-  - Kyiv Independent
-  - 《论持久战》
-  - 《海边的西塞罗》
-  - 《红楼梦》
-  - 《流星花园》
-  - 《雪国列车》
-  - 《美丽新世界》
-  - 《三国演义》
 status: evergreen
+summary: 本期节目深入探讨了特朗普在印第安纳州选区重划尝试的失败，爱泼斯坦案照片曝光引发的政治波澜，以及MAGA运动内部日益加剧的分裂。同时，节目分析了特朗普政府最新国家安全战略（“唐罗主义”）所预示的美国全球霸权向区域霸权的战略转向，及其对美中关系、俄乌冲突和欧洲盟友的深远影响。嘉宾们还就俄乌战争的务实解决方案、历史教训以及社交媒体对民主社会的冲击进行了讨论。
+tags:
+- foreign-policy
+- geopolitical-strategy
+- russia-ukraine-war
+title: 特朗普政治困境、爱泼斯坦案与美国全球战略的转向：一场多维度的内外部挑战
 ---
+
 ### 特朗普印第安纳州选区重划计划的挫败
 
 近期，特朗普在印第安纳州推动的“**杰利蝾螈**”（Gerrymandering: 重新划分选区以利于特定政党）计划遭遇重大挫败。该计划旨在重新划分选区地图，以确保共和党在明年的中期选举中能获得更多众议员席位，甚至目标是实现9比0的全共和党席位。然而，这一举动引发了印第安纳州共和党议员的强烈反弹。

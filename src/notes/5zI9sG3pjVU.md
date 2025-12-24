@@ -1,39 +1,38 @@
 ---
-author: Veritasium
-date: '2020-06-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5zI9sG3pjVU
-speaker: Veritasium
-tags:
-  - veritasium
-  - turbulent-flow
-  - laminar-flow
-  - fluid-dynamics
-  - reynolds-number
-  - boundary-layer
-title: 湍流：混沌中的秩序与力量——为什么它比层流更迷人
-summary: 本视频深入探讨了流体力学中的两种基本现象：层流和湍流。尽管层流以其有序和可预测性而著称，但视频主Veritasium与Destin（Smarter Every Day）共同揭示了湍流的真正魅力。文章详细阐述了湍流的不可预测性、耗散性及其在从宇宙尺度到日常工程（如飞机和高尔夫球）中的广泛应用，挑战了传统观念，并强调了湍流在自然界和技术创新中的关键作用。最后，视频还包含了一个关于可冲洗湿巾的实验。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Chris Hadfield
-  - Destin Sandlin
-  - Osborne Reynolds
-  - The Mythbusters
+category: science
 companies_orgs:
-  - Caltech
-products_models:
-  - Cottonelle flushable wipes
+- Caltech
+date: '2020-06-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Aviator
+- The Aviator
+people:
+- Chris Hadfield
+- Destin Sandlin
+- Osborne Reynolds
+- The Mythbusters
+products_models:
+- Cottonelle flushable wipes
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=5zI9sG3pjVU
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了流体力学中的两种基本现象：层流和湍流。尽管层流以其有序和可预测性而著称，但视频主Veritasium与Destin（Smarter
+  Every Day）共同揭示了湍流的真正魅力。文章详细阐述了湍流的不可预测性、耗散性及其在从宇宙尺度到日常工程（如飞机和高尔夫球）中的广泛应用，挑战了传统观念，并强调了湍流在自然界和技术创新中的关键作用。最后，视频还包含了一个关于可冲洗湿巾的实验。
+tags:
+- dynamic
+- flow
+- reynolds-number
+- technology
+title: 湍流：混沌中的秩序与力量——为什么它比层流更迷人
 ---
+
 ### 湍流与层流：科学家们的“陷阱”
 
 本视频的部分内容由Loda赞助。

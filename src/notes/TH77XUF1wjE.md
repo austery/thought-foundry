@@ -6,15 +6,11 @@ category: geopolitics
 project:
 - china-analysis
 tags:
-  - 中国
-  - 失业率
-  - 社会问题
-  - 经济下行
-  - 青年就业
-people: []
+- financial
+- society
+- 中国
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: 老周横眉

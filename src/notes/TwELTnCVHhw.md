@@ -1,62 +1,62 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Disney Plus
 date: '2023-10-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《异能MOVING》
+- 《超人特攻队》
+- 《X战警》
+- 《超异能英雄》
+- 《迷魂记》
+- 《美女与野兽》
+- 《史瑞克》
+- 《水底情深》
+- 金庸武侠小说
+- 《星际效应》
+people:
+- 金凤熙
+- 张喜秀
+- 李强勋
+- 张朱元
+- 黄志熙
+- 金斗直
+- 李美贤
+- Irving Goffman
+- David Graeber
+- Michel Foucault
+- Ellen Badiou
+- Massimo Liccati
+- Abraham
+- Torok
+- Icarus
+- Daedalus
+- Telemachus
+- Odysseus
+- 金正恩
+products_models: []
+project:
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=TwELTnCVHhw
 speaker: 超級歪 SuperY
-tags:
-  - social-discrimination
-  - superhero-identity
-  - disciplinary-society
-  - intergenerational-trauma
-  - philosophy-of-love
-title: 《异能MOVING》深度解析：超级英雄的社会污名、家族传承与真爱哲学
-summary: 本文深入解析热门韩剧《异能MOVING》，探讨异能者在社会中如何被污名化与歧视，并运用社会学、哲学及心理学理论，如戈夫曼的“蒙混过关”、福柯的“规训社会”和巴迪欧的“真理事件之爱”，揭示异能者如何隐藏身份、社会如何定义“正常”与“异常”。文章还分析了异能作为家族症状的传承，以及新世代如何在“父亲缺席”的时代成为文化继承者，最终强调爱与同理心作为最重要的超能力。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-people:
-  - 金凤熙
-  - 张喜秀
-  - 李强勋
-  - 张朱元
-  - 黄志熙
-  - 金斗直
-  - 李美贤
-  - Irving Goffman
-  - David Graeber
-  - Michel Foucault
-  - Ellen Badiou
-  - Massimo Liccati
-  - Abraham
-  - Torok
-  - Icarus
-  - Daedalus
-  - Telemachus
-  - Odysseus
-  - 金正恩
-companies_orgs:
-  - Disney Plus
-products_models: []
-media_books:
-  - 《异能MOVING》
-  - 《超人特攻队》
-  - 《X战警》
-  - 《超异能英雄》
-  - 《迷魂记》
-  - 《美女与野兽》
-  - 《史瑞克》
-  - 《水底情深》
-  - 金庸武侠小说
-  - 《星际效应》
 status: evergreen
+summary: 本文深入解析热门韩剧《异能MOVING》，探讨异能者在社会中如何被污名化与歧视，并运用社会学、哲学及心理学理论，如戈夫曼的“蒙混过关”、福柯的“规训社会”和巴迪欧的“真理事件之爱”，揭示异能者如何隐藏身份、社会如何定义“正常”与“异常”。文章还分析了异能作为家族症状的传承，以及新世代如何在“父亲缺席”的时代成为文化继承者，最终强调爱与同理心作为最重要的超能力。
+tags:
+- identity
+- intergenerational-trauma
+- philosophy
+- social
+- society
+title: 《异能MOVING》深度解析：超级英雄的社会污名、家族传承与真爱哲学
 ---
+
 ### 异能者的社会困境与“蒙混过关”
 
 今天，我们将对热门影集《异能MOVING》进行深度解析。《异能MOVING》的故事讲述了南韩国家安全组织召集的异能者团队，他们在任务结束后创建家庭，过着隐姓埋名的生活。然而，当他们的孩子在上高中后卷入了铲除异能人士的暗杀计划时，男主角**金凤熙**和女主角**张喜秀**因此开启了一段旅程，他们一边发掘自己被压抑的异能，一边找回家族被压抑的秘密。

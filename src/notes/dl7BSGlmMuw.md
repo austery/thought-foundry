@@ -1,56 +1,56 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Capitol Hill
+- Democratic caucus
+- GOP
+- Senate
+- House
+- Treasury Department
+- IRS
+- BBC
+- CNN
+- Delta Airlines
+- American Airlines
+- United Airlines
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Subterranean Biology
+people:
+- Will Jarvis
+- Tracy Mumford
+- Donald Trump
+- Chuck Schumer
+- John Thun
+- Shawn Duffy
+- Tim Davyy
+- Deborah Tennes
+- Caroline Levitt
+products_models:
+- Affordable Care Act
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dl7BSGlmMuw
 speaker: New York Times Podcasts
-tags:
-  - government-shutdown
-  - tax-policy
-  - media-bias
-  - water-crisis
-  - air-travel-disruptions
-title: 美国政府停摆僵局突破、特朗普政府减税以及全球多地新闻速览
-summary: 本期新闻聚焦美国政府停摆的最新进展，民主党温和派与共和党合作投票结束了僵局，但引发党内强烈反弹。同时，特朗普政府被指悄然推行大规模减税政策，惠及富裕企业和投资者。此外，节目还报道了美国航空旅行因空管人员短缺而面临严重中断、英国广播公司（BBC）高管因偏见指控辞职、伊朗面临半个世纪以来最严重的水危机，以及在阿尔巴尼亚和希腊边境发现的全球最大蜘蛛网等多元化新闻。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Will Jarvis
-  - Tracy Mumford
-  - Donald Trump
-  - Chuck Schumer
-  - John Thun
-  - Shawn Duffy
-  - Tim Davyy
-  - Deborah Tennes
-  - Caroline Levitt
-companies_orgs:
-  - New York Times
-  - Capitol Hill
-  - Democratic caucus
-  - GOP
-  - Senate
-  - House
-  - Treasury Department
-  - IRS
-  - BBC
-  - CNN
-  - Delta Airlines
-  - American Airlines
-  - United Airlines
-products_models:
-  - Affordable Care Act
-media_books:
-  - Subterranean Biology
 status: evergreen
+summary: 本期新闻聚焦美国政府停摆的最新进展，民主党温和派与共和党合作投票结束了僵局，但引发党内强烈反弹。同时，特朗普政府被指悄然推行大规模减税政策，惠及富裕企业和投资者。此外，节目还报道了美国航空旅行因空管人员短缺而面临严重中断、英国广播公司（BBC）高管因偏见指控辞职、伊朗面临半个世纪以来最严重的水危机，以及在阿尔巴尼亚和希腊边境发现的全球最大蜘蛛网等多元化新闻。
+tags:
+- crisis
+- government-shutdown
+- media
+- policy
+- travel
+title: 美国政府停摆僵局突破、特朗普政府减税以及全球多地新闻速览
 ---
+
 ### 美国政府停摆僵局突破与党内反弹
 
 来自《纽约时报》的头条新闻。我是Will Jarvis，代班Tracy Mumford。今天是11月10日星期一，以下是我们今天报道的内容。

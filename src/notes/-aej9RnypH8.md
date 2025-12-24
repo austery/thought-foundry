@@ -1,77 +1,75 @@
 ---
-author: Amit Kukreja
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Nvidia
+- Federal Reserve
+- Bureau of Labor Statistics (BLS)
+- FOMC
+- Amazon
+- Google
+- Meta
+- Tesla
+- AMD
+- Oracle
+- Microsoft
+- Walmart
+- Palantir
+- OpenAI
+- Anthropic
+- TSMC
+- White House
+- Bloomberg
+- CNBC
+- Cipher
+- CoreWeave
+- Nebius
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jensen Huang
+- Michael Burry
+- Donald Trump
+- Marco Rubio
+- David Sacks
+- Lisa Su
+- Colette Kress
+- Ray Dalio
+- Sundar Pichai
+- Alex Karp
+- Jerome Powell
+- Dan Niles
+- Stephanie Link
+- Lisa Cook
+- Larry Fink
+- jobs-report
+products_models:
+- Blackwell
+- Vera Rubin
+- A100
+- CUDA
+- NVLink
+- Gemini 3
+- TPU
+- FSD (Full Self-Driving)
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=-aej9RnypH8
 speaker: Amit Kukreja
-tags:
-  - jobs-report
-  - monetary-policy
-  - market-sentiment
-  - ai-bubble-debate
-title: 英伟达财报力挽狂澜，强劲就业数据能否动摇美联储降息预期？
-summary: 九月强劲的非农就业数据（新增11.9万）与意外上升的失业率（4.4%）共同为美联储的决策增添了复杂性，尤其是在十月数据缺失的背景下。与此同时，英伟达发布了超预期的财报和强劲指引，极大地提振了市场情绪，有力地反驳了迈克尔·贝瑞等人提出的“AI泡沫”论。当前市场正处于十字路口，一方面是科技巨头卓越的业绩表现，另一方面是悬而未决的货币政策走向，两者之间的博弈将决定年底前的市场方向。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Jensen Huang
-  - Michael Burry
-  - Donald Trump
-  - Marco Rubio
-  - David Sacks
-  - Lisa Su
-  - Colette Kress
-  - Ray Dalio
-  - Sundar Pichai
-  - Alex Karp
-  - Jerome Powell
-  - Dan Niles
-  - Stephanie Link
-  - Lisa Cook
-  - Larry Fink
-companies_orgs:
-  - Nvidia
-  - Federal Reserve
-  - Bureau of Labor Statistics (BLS)
-  - FOMC
-  - Amazon
-  - Google
-  - Meta
-  - Tesla
-  - AMD
-  - Oracle
-  - Microsoft
-  - Walmart
-  - Palantir
-  - OpenAI
-  - Anthropic
-  - TSMC
-  - White House
-  - Bloomberg
-  - CNBC
-  - Cipher
-  - CoreWeave
-  - Nebius
-products_models:
-  - Blackwell
-  - Vera Rubin
-  - A100
-  - CUDA
-  - NVLink
-  - Gemini 3
-  - TPU
-  - FSD (Full Self-Driving)
-media_books: []
 status: evergreen
+summary: 九月强劲的非农就业数据（新增11.9万）与意外上升的失业率（4.4%）共同为美联储的决策增添了复杂性，尤其是在十月数据缺失的背景下。与此同时，英伟达发布了超预期的财报和强劲指引，极大地提振了市场情绪，有力地反驳了迈克尔·贝瑞等人提出的“AI泡沫”论。当前市场正处于十字路口，一方面是科技巨头卓越的业绩表现，另一方面是悬而未决的货币政策走向，两者之间的博弈将决定年底前的市场方向。
+tags:
+- ai-bubble-debate
+- market-sentiment
+title: 英伟达财报力挽狂澜，强劲就业数据能否动摇美联储降息预期？
 ---
+
 ### 就业数据与英伟达财报主导市场开盘
 
 早上好，各位。欢迎回到新一期的市场开盘直播。我们今天提前开始了，因为有重要的就业数据要公布，还有很多事情要讨论。显然，我们看到了英伟达的财报，看起来黄仁勋（Jensen）可能拯救了市场，成为了2025年的圣诞老人。让我们直接进入正题，就业数据大约在5分钟前发布了，我们来分析一下当前的市场状况。

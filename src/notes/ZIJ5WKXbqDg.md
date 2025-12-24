@@ -1,68 +1,68 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Adobe
+- Salesforce
+- 世贸组织
+- 五角大厦
+- 中央情报局
+- 美国联邦航空管理局
+- 中国人民银行
+- 高盛
+- Alibaba
+- 星岛日报
+- 香港01
+- 紧急管理部
+- 大阪维新会
+- 自民党
+- 公民党
+- 中国中央电视台
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 日经新闻
+- 彭博社
+- 路透社
+- 《首席经济学家论坛》
+people:
+- Xi Jinping
+- Donald Trump
+- 马杜罗
+- 胡锡进
+- 李强
+- 安倍晋三
+- 石破茂
+- 高市早苗
+- 薛健
+- 吉春阳文
+- 邓炳强
+- 陕辉
+- 卢比奥
+- 纳斯尼·阿斯富拉
+- 胡安·奥兰多·爱尔兰德斯
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=ZIJ5WKXbqDg
 speaker: LT視界
-tags:
-  - us-china-relations
-  - economic-growth
-  - international-trade
-  - cultural-exchange
-  - disaster-response
-title: 高盛为中国经济指路？委内瑞拉局势紧张、中日关系再起波澜
-summary: LT视界分析了近期国际财经和政治热点：高盛建议中国设定更高的经济增长目标，引发对中国经济真实状况的讨论；委内瑞拉局势因美国威胁关闭其领空而紧张；中日关系因文化交流事件和历史问题再起波澜；香港火灾后的应对措施引发争议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-  - Donald Trump
-  - 马杜罗
-  - 胡锡进
-  - 李强
-  - 安倍晋三
-  - 石破茂
-  - 高市早苗
-  - 薛健
-  - 吉春阳文
-  - 邓炳强
-  - 陕辉
-  - 卢比奥
-  - 纳斯尼·阿斯富拉
-  - 胡安·奥兰多·爱尔兰德斯
-companies_orgs:
-  - Adobe
-  - Salesforce
-  - 世贸组织
-  - 五角大厦
-  - 中央情报局
-  - 美国联邦航空管理局
-  - 中国人民银行
-  - 高盛
-  - 阿里巴巴
-  - 星岛日报
-  - 香港01
-  - 紧急管理部
-  - 大阪维新会
-  - 自民党
-  - 公民党
-  - 中国中央电视台
-products_models: []
-media_books:
-  - 日经新闻
-  - 彭博社
-  - 路透社
-  - 《首席经济学家论坛》
 status: evergreen
+summary: LT视界分析了近期国际财经和政治热点：高盛建议中国设定更高的经济增长目标，引发对中国经济真实状况的讨论；委内瑞拉局势因美国威胁关闭其领空而紧张；中日关系因文化交流事件和历史问题再起波澜；香港火灾后的应对措施引发争议。
+tags:
+- cultural
+- economic-growth
+- environment
+- trade
+- us-china-relations
+title: 高盛为中国经济指路？委内瑞拉局势紧张、中日关系再起波澜
 ---
+
 ### 美国“黑色星期五”消费数据分析
 
 路透社和 Salesforce 的报告显示，美国人在“黑色星期五”的网上消费额分别创下 118 亿美元（同比增长 9.1%）和 180 亿美元（同比增长 3%）的纪录。Salesforce 的数据包括线上和实体店消费，奢侈服装和配件最受欢迎。虽然消费总额增加，但价格上涨抑制了消费需求，导致消费者购买的商品数量减少。LT 认为，美国人的消费市场仍然正常，比去年有一定的增长。

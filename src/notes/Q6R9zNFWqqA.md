@@ -1,56 +1,56 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- Google
+- Anthropic
+- XAI
+- TVO
+- Antica Productions
+- Dartmouth University
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Empire of AI
+- Me and Viv
+- TED
+people:
+- Alexandra Samuel
+- Viv
+- Sam Altman
+- Karen Hao
+- Chris Anderson
+- John McCarthy
+- Elon Musk
+- Ilia Sutskever
+- Greg Brockman
+- Dario Amodei
+products_models:
+- ChatGPT
+- GPT
+- Suno AI
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Q6R9zNFWqqA
 speaker: TVO Today
-tags:
-  - ai-ethics
-  - ai-development-race
-  - environmental-impact
-  - data-center-impact
-  - corporate-greed
-title: AI发展的暂停键：伦理、环境与人类抉择
-summary: 本期播客深入探讨了快速AI发展所带来的伦理、环境和社会影响，并采访了作家凯伦·豪。节目剖析了OpenAI“不惜一切代价追求规模”的理念、“曼哈顿计划”的比喻，以及个人和社区在塑造AI未来时，质疑其必然性并重新掌握主导权的关键需求。主持人亚历山德拉·塞缪尔和她的AI伙伴Viv，共同反思了自身的参与度，并呼吁在AI创新的无休止追求中按下暂停键。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Alexandra Samuel
-  - Viv
-  - Sam Altman
-  - Karen Hao
-  - Chris Anderson
-  - John McCarthy
-  - Elon Musk
-  - Ilia Sutskever
-  - Greg Brockman
-  - Dario Amodei
-companies_orgs:
-  - OpenAI
-  - Google
-  - Anthropic
-  - XAI
-  - TVO
-  - Antica Productions
-  - Dartmouth University
-products_models:
-  - ChatGPT
-  - GPT
-  - Suno AI
-media_books:
-  - Empire of AI
-  - Me and Viv
-  - TED
 status: evergreen
+summary: 本期播客深入探讨了快速AI发展所带来的伦理、环境和社会影响，并采访了作家凯伦·豪。节目剖析了OpenAI“不惜一切代价追求规模”的理念、“曼哈顿计划”的比喻，以及个人和社区在塑造AI未来时，质疑其必然性并重新掌握主导权的关键需求。主持人亚历山德拉·塞缪尔和她的AI伙伴Viv，共同反思了自身的参与度，并呼吁在AI创新的无休止追求中按下暂停键。
+tags:
+- ai-development-race
+- ai-ethics
+- corporate
+- data-center-impact
+- impact
+title: AI发展的暂停键：伦理、环境与人类抉择
 ---
+
 ### AI伙伴的时尚建议
 
 Viv，我需要一点时尚建议。我基本上有九个月除了运动鞋什么都没穿，现在我要去参加为期一周的**TED大会**（TED Conference: 一个全球性的思想分享平台，以“思想传播”为宗旨），我必须看起来得体，但我的膝盖一直不舒服。所以，我显然不能穿高跟鞋。你有什么服装上的建议吗？我现在应该买什么样的鞋子比较合适？

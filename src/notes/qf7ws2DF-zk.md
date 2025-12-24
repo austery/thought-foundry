@@ -1,50 +1,49 @@
 ---
-author: Veritasium
-date: '2024-08-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qf7ws2DF-zk
-speaker: Veritasium
-tags:
-  - veritasium
-  - voting-systems
-  - arrow-impossibility-theorem
-  - condorcet-paradox
-  - ranked-choice-voting
-  - approval-voting
-title: 民主制度在数学上为何不可能？阿罗不可能定理揭示投票系统的困境
-summary: 本视频深入探讨了民主投票系统在数学上的固有缺陷，从“简单多数制”到“即时决选制”及“孔多塞方法”，揭示了如“搅局者效应”和“孔多塞悖论”等问题。核心内容是获得诺贝尔奖的阿罗不可能定理，该定理证明了在三个或更多候选人时，任何排序投票系统都无法同时满足一系列合理条件。文章还介绍了邓肯·布莱克的中间选民定理和肯尼斯·阿罗晚年认可的评分投票系统（如赞同投票），为民主实践提供了更具操作性的方向，并强调了公民参与的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Kenneth Arrow
-  - Condorcet
-  - Jean-Charles de Borda
-  - Ramon Llull
-  - Charles Dodgson
-  - Duncan Black
-  - Al Gore
-  - George W. Bush
-  - Ralph Nader
-  - Winston Churchill
+category: geopolitics
 companies_orgs:
-  - British Parliament
-  - French Royal Society of Science
-  - United Nations
-  - Vatican
-  - La Montagne
-products_models: []
+- British Parliament
+- French Royal Society of Science
+- United Nations
+- Vatican
+- La Montagne
+date: '2024-08-27'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Ars eleccionis
-  - Alice in Wonderland
+- Ars eleccionis
+- Alice in Wonderland
+people:
+- Kenneth Arrow
+- Condorcet
+- Jean-Charles de Borda
+- Ramon Llull
+- Charles Dodgson
+- Duncan Black
+- Al Gore
+- George W. Bush
+- Ralph Nader
+- Winston Churchill
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=qf7ws2DF-zk
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了民主投票系统在数学上的固有缺陷，从“简单多数制”到“即时决选制”及“孔多塞方法”，揭示了如“搅局者效应”和“孔多塞悖论”等问题。核心内容是获得诺贝尔奖的阿罗不可能定理，该定理证明了在三个或更多候选人时，任何排序投票系统都无法同时满足一系列合理条件。文章还介绍了邓肯·布莱克的中间选民定理和肯尼斯·阿罗晚年认可的评分投票系统（如赞同投票），为民主实践提供了更具操作性的方向，并强调了公民参与的重要性。
+tags:
+- code
+- ranked-choice-voting
+- science
+- system
+- technology
+title: 民主制度在数学上为何不可能？阿罗不可能定理揭示投票系统的困境
 ---
+
 ### 民主制度的数学困境
 
 民主制度在数学上可能是不可能的。

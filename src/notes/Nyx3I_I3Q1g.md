@@ -1,60 +1,59 @@
 ---
-author: 记者易速利
+area: society-systems
+category: general
+companies_orgs:
+- FBI
+- 迈阿密热火队
+- 夏洛特黄蜂队
+- 克利夫兰骑士队
+- 波特兰开拓者队
+- 芝加哥公牛队
+- 多伦多猛龙队
+- 华盛顿奇才队
+- 底特律活塞队
+- 洛杉矶湖人队
+- 洛杉矶快船队
+- NBA
+- FanDuel
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《教父》
+people:
+- Terry Rozier
+- Damon Jones
+- LeBron James
+- Chauncey Billups
+- Kevin Garnett
+- Matt Berkey
+- Sal Piacente
+- 姚明
+- 乔丹
+- 科比
+- 奥尼尔
+- 杨汉生
+- 西蒙斯
+- 派珀
+products_models: []
+project:
+- us-analysis
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Nyx3I_I3Q1g
 speaker: 记者易速利
-tags:
-  - nba-gambling-scandal
-  - sports-integrity
-  - poker-fraud
-  - insider-betting
-  - organized-crime
-title: NBA明星涉赌丑闻：比卢普斯与罗切尔深陷欺诈风波
-summary: 近期，联邦调查局（FBI）破获两起涉及NBA球员和教练的重大案件。前夏洛特黄蜂队后卫特里·罗切尔和前克利夫兰骑士队球员达蒙·琼斯被指控泄露内部信息进行体育博彩。更引人注目的是，波特兰开拓者队主教练昌西·比卢普斯被控与黑手党合作，利用名人身份引诱富豪参与高额作弊扑克赌局。这些欺诈行为利用了X光赌桌、改造洗牌机等高科技手段。此系列丑闻严重冲击了NBA的公信力，引发了对体育赛事公平性的深刻质疑，尤其是在合法体育博彩市场爆炸式增长的背景下，凸显了监管的滞后性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - cultural-critique
-  - historical-insights
-people:
-  - Terry Rozier
-  - Damon Jones
-  - LeBron James
-  - Chauncey Billups
-  - Kevin Garnett
-  - Matt Berkey
-  - Sal Piacente
-  - 姚明
-  - 乔丹
-  - 科比
-  - 奥尼尔
-  - 杨汉生
-  - 西蒙斯
-  - 派珀
-companies_orgs:
-  - FBI
-  - 迈阿密热火队
-  - 夏洛特黄蜂队
-  - 克利夫兰骑士队
-  - 波特兰开拓者队
-  - 芝加哥公牛队
-  - 多伦多猛龙队
-  - 华盛顿奇才队
-  - 底特律活塞队
-  - 洛杉矶湖人队
-  - 洛杉矶快船队
-  - NBA
-  - FanDuel
-products_models: []
-media_books:
-  - 《教父》
 status: evergreen
+summary: 近期，联邦调查局（FBI）破获两起涉及NBA球员和教练的重大案件。前夏洛特黄蜂队后卫特里·罗切尔和前克利夫兰骑士队球员达蒙·琼斯被指控泄露内部信息进行体育博彩。更引人注目的是，波特兰开拓者队主教练昌西·比卢普斯被控与黑手党合作，利用名人身份引诱富豪参与高额作弊扑克赌局。这些欺诈行为利用了X光赌桌、改造洗牌机等高科技手段。此系列丑闻严重冲击了NBA的公信力，引发了对体育赛事公平性的深刻质疑，尤其是在合法体育博彩市场爆炸式增长的背景下，凸显了监管的滞后性。
+tags:
+- fraud
+- insider-betting
+- life
+- nba-gambling-scandal
+- society
+title: NBA明星涉赌丑闻：比卢普斯与罗切尔深陷欺诈风波
 ---
 
 ### NBA涉赌丑闻：内部信息与扑克欺诈

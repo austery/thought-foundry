@@ -1,70 +1,69 @@
 ---
-author: 硅谷101播客
+area: tech-insights
+category: technology
+companies_orgs:
+- 魔珐科技
+- 卡内基梅隆大学
+- NVIDIA
+- Pi
+- Boston Dynamics
+- Texas A&M University
+- Georgia Tech
+- University of British Columbia
+- 斯坦福大学
+- 伯克利大学
+- Epic Games
+- 宇树科技
+- 本田
+- ByteDance
+- Alibaba
+- 腾讯
+- DeepSeek
+- 豆包
+- 千问
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《硅谷101》
+people:
+- 柴金祥
+- Sam Altman
+- Tilly Norwood
+- Jensen Huang
+- Jessica Hodgins
+- Marc Raibert
+- Sergey Levine
+- Karen Liu
+- Zoran Popović
+- Michiel van de Panne
+products_models:
+- Sora
+- Sora 2
+- Genie3
+- ChatGPT
+- Unreal Engine
+- RK3566
+- VLA (Vision-Language-Action model)
+- ASIMO
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=410Zukc8Lng
 speaker: 硅谷101播客
-tags:
-  - digital-human
-  - real-time-interaction
-  - ai-rendering
-  - human-robot-interaction
-  - kinematics-dynamics
-title: 从Sora 2到具身智能：3D数字人如何重塑虚拟与现实的边界
-summary: 随着Sora 2将文生视频推向新高度，一个更深层次的变革正在发生：从2D视频生成到实时3D数字人的演进。本期节目深入探讨了3D数字人与2D视频的核心区别，揭示了通过“AI渲染”技术大幅降低成本的关键突破。文章追溯了3D动画与机器人技术长达二十年的渊源，并展望了3D数字人如何驱动物理世界的机器人，以及它将如何定义未来的人机交互范式。这不仅是一场技术的轮回，更是一次全新的开始。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 柴金祥
-  - Sam Altman
-  - Tilly Norwood
-  - Jensen Huang
-  - Jessica Hodgins
-  - Marc Raibert
-  - Sergey Levine
-  - Karen Liu
-  - Zoran Popović
-  - Michiel van de Panne
-companies_orgs:
-  - 魔珐科技
-  - 卡内基梅隆大学
-  - NVIDIA
-  - Pi
-  - Boston Dynamics
-  - Texas A&M University
-  - Georgia Tech
-  - University of British Columbia
-  - 斯坦福大学
-  - 伯克利大学
-  - Epic Games
-  - 宇树科技
-  - 本田
-  - 字节跳动
-  - 阿里巴巴
-  - 腾讯
-  - DeepSeek
-  - 豆包
-  - 千问
-products_models:
-  - Sora
-  - Sora 2
-  - Genie3
-  - ChatGPT
-  - Unreal Engine
-  - RK3566
-  - VLA (Vision-Language-Action model)
-  - ASIMO
-media_books:
-  - 《硅谷101》
 status: evergreen
+summary: 随着Sora 2将文生视频推向新高度，一个更深层次的变革正在发生：从2D视频生成到实时3D数字人的演进。本期节目深入探讨了3D数字人与2D视频的核心区别，揭示了通过“AI渲染”技术大幅降低成本的关键突破。文章追溯了3D动画与机器人技术长达二十年的渊源，并展望了3D数字人如何驱动物理世界的机器人，以及它将如何定义未来的人机交互范式。这不仅是一场技术的轮回，更是一次全新的开始。
+tags:
+- dynamic
+- human
+- llm
+- real
+title: 从Sora 2到具身智能：3D数字人如何重塑虚拟与现实的边界
 ---
+
 ### 引言：Sora 2 引爆的数字人新浪潮
 
 近期，Sora 2的发布引起了广泛关注，它能将一句话变成一段10秒的短视频，展示了强大的**文生视频**（Text-to-Video: 指通过输入文字描述直接生成视频内容的技术）能力。与此同时，完全由AI创作的好莱坞演员Tilly Norwood，诞生仅6个多月就吸引了6.5万粉丝，她会发自拍、代言品牌，却从未真实存在过。

@@ -1,36 +1,34 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
+- Subway
 date: '2025-06-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 范亞萱
+- 盈荃
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=vM7mU-MGr5s
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - blood-sugar-control
-  - sandwich-nutrition
-  - metabolic-health
-  - weight-management
-  - dietary-choices
-title: 三明治的血糖陷阱：減重醫師揭秘早餐地雷與健康選擇
-summary: 許多人早餐首選的三明治，看似清爽卻可能暗藏血糖炸彈，導致越吃越餓。范亞萱醫師深入分析白吐司、加工肉品、美乃滋等常見地雷，並解釋高澱粉高脂肪組合如何影響血糖波動與食慾。文章提供全麥麵包的辨識方法、Subway麵包健康排名、自製健康三明治建議，以及餐後運動、補充蔬菜、阻力訓練等穩定血糖的急救與長期策略，幫助讀者做出更健康的飲食選擇。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 范亞萱
-  - 盈荃
-companies_orgs:
-  - 初日醫學
-  - Cofit
-  - Subway
-products_models: []
-media_books: []
 status: evergreen
+summary: 許多人早餐首選的三明治，看似清爽卻可能暗藏血糖炸彈，導致越吃越餓。范亞萱醫師深入分析白吐司、加工肉品、美乃滋等常見地雷，並解釋高澱粉高脂肪組合如何影響血糖波動與食慾。文章提供全麥麵包的辨識方法、Subway麵包健康排名、自製健康三明治建議，以及餐後運動、補充蔬菜、阻力訓練等穩定血糖的急救與長期策略，幫助讀者做出更健康的飲食選擇。
+tags:
+- control
+- health
+- metabolic-health
+- weight-management
+title: 三明治的血糖陷阱：減重醫師揭秘早餐地雷與健康選擇
 ---
+
 ### 三明治的健康迷思與血糖衝擊
 
 三明治是許多人早餐和午餐的首選，包括我自己以前也是。我幾乎吃過各種超商和連鎖早餐店的三明治，但後來發現，如果沒有搭配正確的吃法，會讓我變成**泡芙人**（外表不胖但體脂高、肌肉量低的體型），甚至越吃越累。確實，與肉包、薯餅、飯糰等其他主食相比，三明治看起來小小一份，比較清爽、少油，但對於已經有**代謝問題**（身體處理營養素和能量的效率出現異常）的族群來說，吃錯了仍然是一個血糖炸彈。這也是我這幾年來，透過血糖實測所發現的體悟。

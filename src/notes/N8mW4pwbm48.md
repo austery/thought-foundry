@@ -1,39 +1,39 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 抖音
+- 立法院
+- 宪法法庭
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 陈悦月
+- 王路飞
+- 赖清德
+- 李智英
+- 胡锡进
+products_models:
+- GPT-4
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=N8mW4pwbm48
 speaker: 北美王路飞
-tags:
-  - taiwan-politics
-  - constitutional-crisis
-  - hong-kong-politics
-  - cross-strait-relations
-  - social-commentary
-title: 直播切片「台湾宪政危机？仅靠5名法官否决国会改革，上演“五大于六”荒诞剧！」 | 宪法法庭 | 违宪判决 | 赖清德 @ZoroLiu @LaoYinTalk @chengyue
-summary: 本期节目深入探讨了台湾近期发生的宪政危机，包括宪法法庭宣布宪法诉讼法违宪的“五大于六”事件，以及台北捷运发生的社会报复事件。嘉宾陈悦月分享了其对台湾从早期慈善捐赠印象到民主神话破灭的认知转变，并批评了当前台湾政治的意识形态化和法律崩坏。另一位发言者则结合自身在香港的金融业经历，探讨了香港泛民主派的内部斗争、与大陆反共圈的异同，以及权力斗争的普遍性，并对海外反共叙事提出质疑。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project: []
-people:
-  - 陈悦月
-  - 王路飞
-  - 赖清德
-  - 李智英
-  - 胡锡进
-companies_orgs:
-  - 抖音
-  - 立法院
-  - 宪法法庭
-products_models:
-  - GPT-4
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了台湾近期发生的宪政危机，包括宪法法庭宣布宪法诉讼法违宪的“五大于六”事件，以及台北捷运发生的社会报复事件。嘉宾陈悦月分享了其对台湾从早期慈善捐赠印象到民主神话破灭的认知转变，并批评了当前台湾政治的意识形态化和法律崩坏。另一位发言者则结合自身在香港的金融业经历，探讨了香港泛民主派的内部斗争、与大陆反共圈的异同，以及权力斗争的普遍性，并对海外反共叙事提出质疑。
+tags:
+- crisis
+- cross-strait-relations
+- politics
+- social-commentary
+- taiwan-politics
+title: 直播切片「台湾宪政危机？仅靠5名法官否决国会改革，上演“五大于六”荒诞剧！」 | 宪法法庭 | 违宪判决 | 赖清德 @ZoroLiu @LaoYinTalk
+  @chengyue
 ---
+
 ### 台湾近况
 下一位是**陈悦月**。陈悦月是**抖音**上的大V，拥有数百万粉丝。她大家好，我想聊一下**台湾**，因为前面的话题大家已经聊了很多了。台湾过去24小时发生了至少两件比较大的事情。第一件是**宪法法庭**直接宣告**宪法诉讼法**是违宪，这在网络上引发了“五大于六”的讨论。第二件是**台北捷运**发生了一起可以认为是恐袭，也可以认为是个人报复社会的事件，造成多人死亡和受伤，场面令人悲哀。
 

@@ -1,63 +1,62 @@
 ---
-author: 夸克说
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 杜邦公司
+- 哈马斯
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《东升西降从谎言变预言》
+- 《我做不到逢中必反》
+people:
+- 夏河
+- 陈老师
+- 王志安
+- Xi Jinping
+- Donald Trump
+- Frederick Douglass
+- Fritz Haber
+- Carl Bosch
+- Norman Borlaug
+- John Froelich
+- Paul Müller
+- Erik Fosse
+- Reginald Gibson
+- Eli Whitney
+- Edmund Cartwright
+- Elias Howe
+- Isaac Singer
+- Gideon Sundback
+- 邓小平
+- 郭文贵
+- 李敖
+- 王金卫
+- Volodymyr Zelenskyy
+- 宋江
+products_models:
+- 东风导弹
+- 秦王葡萄
+project:
+- china-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=2SlxUdkBrLI
 speaker: 夸克说
-tags:
-  - overseas-chinese-politics
-  - political-polarization
-  - value-immigration
-  - china-us-relations
-  - taiwan-issue
-title: 海外华人价值观转向：从“反贼”到“粉红”的夏河现象深度剖析
-summary: 近期海外中文视频圈出现“反贼”大V集体转向现象，以夏河、陈老师为代表，他们在触及台湾议题后，价值观发生180度转变，转而赞颂中共。本文深入剖析夏河此番心路历程，并探讨其论点中体现的集体主义、社达观念及逻辑谬误。同时，文章也反思了何种价值观适合移民，以及对中国经济发展、民生现状和言论自由的深层理解。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - 夏河
-  - 陈老师
-  - 王志安
-  - 习近平
-  - Donald Trump
-  - Frederick Douglass
-  - Fritz Haber
-  - Carl Bosch
-  - Norman Borlaug
-  - John Froelich
-  - Paul Müller
-  - Erik Fosse
-  - Reginald Gibson
-  - Eli Whitney
-  - Edmund Cartwright
-  - Elias Howe
-  - Isaac Singer
-  - Gideon Sundback
-  - 邓小平
-  - 郭文贵
-  - 李敖
-  - 王金卫
-  - Volodymyr Zelenskyy
-  - 宋江
-companies_orgs:
-  - 杜邦公司
-  - 哈马斯
-products_models:
-  - 东风导弹
-  - 秦王葡萄
-media_books:
-  - 《东升西降从谎言变预言》
-  - 《我做不到逢中必反》
 status: evergreen
+summary: 近期海外中文视频圈出现“反贼”大V集体转向现象，以夏河、陈老师为代表，他们在触及台湾议题后，价值观发生180度转变，转而赞颂中共。本文深入剖析夏河此番心路历程，并探讨其论点中体现的集体主义、社达观念及逻辑谬误。同时，文章也反思了何种价值观适合移民，以及对中国经济发展、民生现状和言论自由的深层理解。
+tags:
+- china
+- overseas-chinese-politics
+- taiwan
+- value
+title: 海外华人价值观转向：从“反贼”到“粉红”的夏河现象深度剖析
 ---
+
 ### 海外“反贼”的价值观转向
 
 大家好，欢迎收看夸客说。近期，海外YouTube视频圈出现了一个很有意思的现象，那就是不少已经“润”（**润**：网络流行语，指通过各种方式移民海外）到海外的“反贼大V”（**反贼大V**：指在网络上持反中共立场并拥有大量粉丝的意见领袖）们集体“回流”。这里说的“回流”并非真的回中国，而是在节目中所传达出的价值观来了个180度大转弯。他们曾经挂在嘴边的自由民主等普世价值观，突然就成了他们口中过时的“裹脚布”，取而代之的是提醒你认清现实、直面中共的强大。

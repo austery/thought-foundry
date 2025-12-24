@@ -1,54 +1,51 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- Google DeepMind
+- 伊利诺伊大学厄巴纳-香槟分校
+- Anthropic
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- MMLU-Pro
+- GPQA-Diamond
+- AIME-24
+- AIME-25
+- AlfWorld
+- BabyAI
+- ScienceWorld
+- ReAct
+- SelfRAG
+- MemOS
+- Mem0
+- Dynamic Cheatsheet
+- Agent Workflow Memory
+- Evo-Memory
+products_models:
+- Gemini-2.5
+- Claude 3.5
+- Claude 3.7
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=8c3D1yHp7QY
 speaker: Best Partners TV
-tags:
-  - test-time-learning
-  - evolutionary-memory
-  - retrieval-augmented-generation
-  - agent-based-learning
-  - memory-optimization
-  - lifelong-learning
-  - artificial-general-intelligence
-title: Evo-Memory：AI的进化记忆与自我学习新篇章
-summary: 本文深入解析Google DeepMind的重磅论文《Evo-Memory》，探讨当前AI在记忆与经验复用上的短板。文章介绍了Evo-Memory基准测试和ReMem框架，该框架通过引入‘反思性记忆’和‘记忆优化’机制，使AI能够像人类一样在实战中不断学习和进化，为通往AGI的道路提供了新的工程范式和实验证据。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people: []
-companies_orgs:
-  - Google DeepMind
-  - 伊利诺伊大学厄巴纳-香槟分校
-  - Anthropic
-products_models:
-  - Gemini-2.5
-  - Claude 3.5
-  - Claude 3.7
-media_books:
-  - MMLU-Pro
-  - GPQA-Diamond
-  - AIME-24
-  - AIME-25
-  - AlfWorld
-  - BabyAI
-  - ScienceWorld
-  - ReAct
-  - SelfRAG
-  - MemOS
-  - Mem0
-  - Dynamic Cheatsheet
-  - Agent Workflow Memory
-  - Evo-Memory
 status: evergreen
+summary: 本文深入解析Google DeepMind的重磅论文《Evo-Memory》，探讨当前AI在记忆与经验复用上的短板。文章介绍了Evo-Memory基准测试和ReMem框架，该框架通过引入‘反思性记忆’和‘记忆优化’机制，使AI能够像人类一样在实战中不断学习和进化，为通往AGI的道路提供了新的工程范式和实验证据。
+tags:
+- agi
+- generation
+- learning
+- lifelong-learning
+- memory
+title: Evo-Memory：AI的进化记忆与自我学习新篇章
 ---
+
 ### AI记忆的短板：从事实到策略的鸿沟
 
 在过去的几年里，我们见证了大语言模型惊人的飞跃，从最初的简单聊天机器人，到如今能够编写复杂软件、操控浏览器，甚至进行科学研究的**Agent**（智能体: 能够感知环境、做出决策并执行动作的AI系统）。模型的推理能力和工具使用能力已经达到了前所未有的高度。但是，有一个核心维度的能力却始终像是一块短板，限制了AI真正成为我们的长期合作伙伴，那就是记忆的进化。目前的AI系统，大多依赖于**RAG**（检索增强生成技术: Retrieval-Augmented Generation，一种结合了信息检索和文本生成的技术，用于提高大语言模型的知识准确性）。它们能记住你说过的话，能从海量的文档库里找出你要的事实，但是，它们很难记住我是如何解决这个问题的，很难从过去的成功或失败中提炼出经验，并且将它应用到未来的新任务中。换句话说，它们记得事实，却学不会策略。

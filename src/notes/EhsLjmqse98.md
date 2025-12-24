@@ -1,49 +1,48 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- Bureau of Labor Statistics
+- Federal Reserve
+- Congress
+- Office for National Statistics
 date: '2025-08-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Donald Trump
+- Erica McNurfer
+- Bill Beach
+- St. Peter
+- Jerome Powell
+- Richard Nixon
+products_models:
+- non-farm payrolls
+- unemployment rate
+- CPI
+- Current Population Survey
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=EhsLjmqse98
 speaker: Bloomberg Podcasts
-tags:
-  - us-economic-data
-  - data-politicization
-  - labor-statistics
-  - government-agency-integrity
-  - data-collection-challenges
-title: 特朗普将美国经济数据政治化：劳工统计局局长被解雇后的信任危机
-summary: 本期播客探讨了美国劳工统计局（BLS）局长在一份“糟糕”的就业报告发布后被解雇的事件。嘉宾、前BLS局长Bill Beach深入分析了此举对官方经济统计数据公信力的潜在损害、BLS在数据收集上面临的挑战（如回应率下降和现代化需求），以及政治干预如何侵蚀公众对关键经济指标的信任。节目还讨论了数据修订的必要性和复杂性，以及确保统计独立性的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Donald Trump
-  - Erica McNurfer
-  - Bill Beach
-  - St. Peter
-  - Jerome Powell
-  - Richard Nixon
-companies_orgs:
-  - Bloomberg
-  - Bureau of Labor Statistics
-  - Federal Reserve
-  - Congress
-  - Office for National Statistics
-products_models:
-  - non-farm payrolls
-  - unemployment rate
-  - CPI
-  - Current Population Survey
-media_books: []
 status: evergreen
+summary: 本期播客探讨了美国劳工统计局（BLS）局长在一份“糟糕”的就业报告发布后被解雇的事件。嘉宾、前BLS局长Bill Beach深入分析了此举对官方经济统计数据公信力的潜在损害、BLS在数据收集上面临的挑战（如回应率下降和现代化需求），以及政治干预如何侵蚀公众对关键经济指标的信任。节目还讨论了数据修订的必要性和复杂性，以及确保统计独立性的重要性。
+tags:
+- challenge
+- data
+- government
+- labor
+- us-economic-datum
+title: 特朗普将美国经济数据政治化：劳工统计局局长被解雇后的信任危机
 ---
+
 ### 播客开场与就业报告的冲击
 
 [音乐]

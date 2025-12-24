@@ -1,69 +1,70 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Stimson Center
+- Avic Changdu Aircraft
+- Boeing
+- Airbus
+- Embraer
+- COMAC
+- Lockheed Martin
+- Taliban
+- Palantir
+- Anduril
 date: '2025-09-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+- Wages of Destruction
+- Orality and Literacy
+- Verzara
+people:
+- Kelly Grieco
+- Vladimir Putin
+- Kim Jong-un
+- Mao
+- Donald Trump
+- Elon Musk
+products_models:
+- H20
+- J20
+- Loyal Wingman
+- F-35
+- F-22
+- F-47
+- B-21
+- MiG-21
+- PL-15
+- AWACS
+- Patriot system
+- A-10
+- Grippen
+- J36
+- J50
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=sv-iIZFsOzc
 speaker: Bloomberg Podcasts
-tags:
-  - military-technology
-  - air-supremacy
-  - defense-industrial-base
-  - drone-integration
-  - supply-chain-resilience
-title: 中国阅兵与新型战机：中美空中霸权之争的启示
-summary: 本期OddLots播客深入探讨了中国近期军事阅兵所展示的军事技术，特别是新型战机和无人机的发展，并将其与美国当前的军事能力进行对比。嘉宾Kelly Grieco分析了战斗机代际划分的演变、无人机在未来空战中的角色，以及中美两国在国防工业生产规模、供应链韧性方面的关键差异。讨论还触及了空中优势与空中霸权的定义，以及印度-巴基斯坦空战的经验教训，最终评估了美国在军事技术和人员素质方面对中国的相对优势与挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Kelly Grieco
-  - Vladimir Putin
-  - Kim Jong-un
-  - Mao
-  - Donald Trump
-  - Elon Musk
-companies_orgs:
-  - Stimson Center
-  - Avic Changdu Aircraft
-  - Boeing
-  - Airbus
-  - Embraer
-  - COMAC
-  - Lockheed Martin
-  - Taliban
-  - Palantir
-  - Anduril
-products_models:
-  - H20
-  - J20
-  - Loyal Wingman
-  - F-35
-  - F-22
-  - F-47
-  - B-21
-  - MiG-21
-  - PL-15
-  - AWACS
-  - Patriot system
-  - A-10
-  - Grippen
-  - J36
-  - J50
-media_books:
-  - OddLots podcast
-  - Wages of Destruction
-  - Orality and Literacy
-  - Verzara
 status: evergreen
+summary: 本期OddLots播客深入探讨了中国近期军事阅兵所展示的军事技术，特别是新型战机和无人机的发展，并将其与美国当前的军事能力进行对比。嘉宾Kelly
+  Grieco分析了战斗机代际划分的演变、无人机在未来空战中的角色，以及中美两国在国防工业生产规模、供应链韧性方面的关键差异。讨论还触及了空中优势与空中霸权的定义，以及印度-巴基斯坦空战的经验教训，最终评估了美国在军事技术和人员素质方面对中国的相对优势与挑战。
+tags:
+- geopolitical
+- integration
+- llm
+- supply-chain-resilience
+- technology
+title: 中国阅兵与新型战机：中美空中霸权之争的启示
 ---
+
 ### 中国军事阅兵与新一代战机
 
 **Jill Weisenthal:** 大家好，欢迎收听《OddLots》播客的又一期节目。我是Jill Weisenthal。

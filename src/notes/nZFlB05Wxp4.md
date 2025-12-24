@@ -1,63 +1,63 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- Quantum Fund
+- Bank of England
+- JPMorgan Chase
+- Financial Times
+- Federal Reserve
+- Secret Service
+- Congressional Budget Office
+- Goldman Sachs
+- Committee for a Responsible Federal Budget
+- IRS
+- FBI
 date: '2025-08-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg Businessweek
+- War Room
+- Breitbart News
+- All-in Podcast
+people:
+- Scott Bessent
+- George Soros
+- Donald Trump
+- Stanley Druckenmiller
+- Bill Ackman
+- Jamie Dimon
+- Lawrence Summers
+- Steven Mnuchin
+- Steve Bannon
+- Arthur Laffer
+- Elon Musk
+- Alexander Hamilton
+- John Bolton
+products_models:
+- 333 Plan
+- Big and Beautiful Bill
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=nZFlB05Wxp4
 speaker: 北美王路飞
-tags:
-  - political-strategy
-  - economic-policy
-  - power-dynamics
-  - trade-policy
-  - fiscal-policy
-title: 斯科特·贝森特：特朗普背后的“沼泽狐狸”——华尔街与民粹主义的交汇点
-summary: 本文深入剖析了斯科特·贝森特，这位曾是乔治·索罗斯门生、后成为唐纳德·特朗普财政部长的复杂人物。他被华尔街视为能驯服特朗普的“拆弹专家”，但实际上，他通过一套精密的双面策略，将特朗普的民粹主义政策包装成市场可接受的语言，并利用自身信誉为之背书。文章揭示了贝森特如何从“首席推销员”升级为“经济沙皇”，以及他这种角色对美国经济秩序可能造成的深远破坏，警示了当体系守门人选择为“野蛮人”开门时，体系崩溃的速度将超乎想象。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Scott Bessent
-  - George Soros
-  - Donald Trump
-  - Stanley Druckenmiller
-  - Bill Ackman
-  - Jamie Dimon
-  - Lawrence Summers
-  - Steven Mnuchin
-  - Steve Bannon
-  - Arthur Laffer
-  - Elon Musk
-  - Alexander Hamilton
-  - John Bolton
-companies_orgs:
-  - Bloomberg
-  - Quantum Fund
-  - Bank of England
-  - JPMorgan Chase
-  - Financial Times
-  - Federal Reserve
-  - Secret Service
-  - Congressional Budget Office
-  - Goldman Sachs
-  - Committee for a Responsible Federal Budget
-  - IRS
-  - FBI
-products_models:
-  - 333 Plan
-  - Big and Beautiful Bill
-media_books:
-  - Bloomberg Businessweek
-  - War Room
-  - Breitbart News
-  - All-in Podcast
 status: evergreen
+summary: 本文深入剖析了斯科特·贝森特，这位曾是乔治·索罗斯门生、后成为唐纳德·特朗普财政部长的复杂人物。他被华尔街视为能驯服特朗普的“拆弹专家”，但实际上，他通过一套精密的双面策略，将特朗普的民粹主义政策包装成市场可接受的语言，并利用自身信誉为之背书。文章揭示了贝森特如何从“首席推销员”升级为“经济沙皇”，以及他这种角色对美国经济秩序可能造成的深远破坏，警示了当体系守门人选择为“野蛮人”开门时，体系崩溃的速度将超乎想象。
+tags:
+- economic-policy
+- fiscal-policy
+- political-strategy
+- power-dynamic
+- trade-policy
+title: 斯科特·贝森特：特朗普背后的“沼泽狐狸”——华尔街与民粹主义的交汇点
 ---
+
 ### 华尔街之狐：斯科特·贝森特的魔幻身份
 
 大家好，欢迎来到我的频道。今天我们来聊一个特别有意思的人，他最近登上了**彭博商业周刊**（Bloomberg Businessweek: 一份国际商业杂志）的封面，甚至还在一枚硬币上印着“**In Bessent We Trust**”（In Bessent We Trust: 模仿美国货币上“In God We Trust”的说法，意指对贝森特的信任）。他就是美国财政部长斯科特·贝森特，可以说是当今美国政坛最拧巴、最让人看不懂的角色。

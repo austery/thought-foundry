@@ -1,36 +1,33 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 好夢心理治療所
+- 初日醫學
+- 初日診所
 date: '2025-07-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李思賢
+- 吳家碩
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=omoBaJs5SKo
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - sleep-habits
-  - sleep-quality
-  - stress-management
-  - diet-and-sleep
-  - exercise-and-sleep
-title: 睡眠專家揭秘：四大NG習慣讓你越睡越累，如何科學改善？
-summary: 本篇文章由李思賢醫師與吳家碩心理師共同解析，指出四個常見的睡眠NG習慣：假日補眠過度、飲酒助眠、聽助眠歌單及睡前劇烈運動。專家們深入探討這些習慣如何擾亂生理時鐘、影響深層睡眠與情緒修復，並提供科學的改善建議，如適度補眠、選擇助眠食物、創造良好睡眠儀式，以及避免睡前使用手機等，旨在幫助讀者提升睡眠品質，擺脫越睡越累的困境。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 李思賢
-  - 吳家碩
-companies_orgs:
-  - 好夢心理治療所
-  - 初日醫學
-  - 初日診所
-products_models: []
-media_books: []
 status: evergreen
+summary: 本篇文章由李思賢醫師與吳家碩心理師共同解析，指出四個常見的睡眠NG習慣：假日補眠過度、飲酒助眠、聽助眠歌單及睡前劇烈運動。專家們深入探討這些習慣如何擾亂生理時鐘、影響深層睡眠與情緒修復，並提供科學的改善建議，如適度補眠、選擇助眠食物、創造良好睡眠儀式，以及避免睡前使用手機等，旨在幫助讀者提升睡眠品質，擺脫越睡越累的困境。
+tags:
+- health
+- quality
+- stress-management
+title: 睡眠專家揭秘：四大NG習慣讓你越睡越累，如何科學改善？
 ---
+
 ### 警惕四大NG睡眠習慣：你今天睡得好嗎？
 
 **李思賢醫師:** 哈囉，大家好，我是思思醫師。你今天睡得好嗎？或許你都覺得你有睡著，睡得很好，但是你是不是常常半夜醒來上廁所，或者是你常常睡到早上，卻發覺沒有睡飽？其實你有睡著，不一定代表睡得好喔。那我們今天很高興歡迎到好夢心理治療所的吳家碩心理師，跟我們一起來聊聊四個容易打擾我們睡眠的NG習慣。這四個NG習慣不只會讓你睡不好，還會影響你的健康喔。

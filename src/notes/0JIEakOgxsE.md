@@ -1,53 +1,53 @@
 ---
-author: 硅谷101播客
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Hermès
+- LVMH Group
+- Rothschild Bank
+- Natixis
+- Société Générale
+- Crédit Agricole
+- AMF
+- FTI
+- Dior
+- Rebag
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《硅谷101》
+- 《商业就是这样》
+- 《法国世界报》
+- 《华尔街日报》
+- 《星期日周报》
+people:
+- Nicolas Puech
+- Bernard Arnault
+- Eric Freymond
+- Jean-Louis Dumas
+- Henri-Louis Bauer
+products_models:
+- Kelly bag
+- Birkin bag
+project:
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=0JIEakOgxsE
 speaker: 硅谷101播客
-tags:
-  - corporate-acquisition
-  - wealth-management
-  - family-business
-  - financial-scandal
-  - luxury-market
-title: 豪门恩怨与收购大战：140亿欧元爱马仕股份失踪之谜
-summary: 本期节目深入探讨了爱马仕第五代继承人尼古拉斯·皮埃奇的140亿欧元爱马仕股份离奇失踪案。节目还原了皮埃奇与私人财富顾问埃里克·弗雷蒙德、摩洛哥园丁之间的复杂关系，以及弗雷蒙德在法国当局调查期间的离奇死亡。同时，节目详细解析了LVMH集团在2010年如何通过期权互换合约奇袭爱马仕，以及爱马仕家族如何通过成立H51公司成功抵御收购。最后，节目分析了爱马仕独特的家族基因、极致的稀缺性策略和卓越的财务表现，揭示其成为资本市场“香饽饽”的深层原因。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - investment-strategy
-people:
-  - Nicolas Puech
-  - Bernard Arnault
-  - Eric Freymond
-  - Jean-Louis Dumas
-  - Henri-Louis Bauer
-companies_orgs:
-  - Hermès
-  - LVMH Group
-  - Rothschild Bank
-  - Natixis
-  - Société Générale
-  - Crédit Agricole
-  - AMF
-  - FTI
-  - Dior
-  - Rebag
-products_models:
-  - Kelly bag
-  - Birkin bag
-media_books:
-  - 《硅谷101》
-  - 《商业就是这样》
-  - 《法国世界报》
-  - 《华尔街日报》
-  - 《星期日周报》
 status: evergreen
+summary: 本期节目深入探讨了爱马仕第五代继承人尼古拉斯·皮埃奇的140亿欧元爱马仕股份离奇失踪案。节目还原了皮埃奇与私人财富顾问埃里克·弗雷蒙德、摩洛哥园丁之间的复杂关系，以及弗雷蒙德在法国当局调查期间的离奇死亡。同时，节目详细解析了LVMH集团在2010年如何通过期权互换合约奇袭爱马仕，以及爱马仕家族如何通过成立H51公司成功抵御收购。最后，节目分析了爱马仕独特的家族基因、极致的稀缺性策略和卓越的财务表现，揭示其成为资本市场“香饽饽”的深层原因。
+tags:
+- business
+- corporate
+- financial
+- market
+- wealth-management
+title: 豪门恩怨与收购大战：140亿欧元爱马仕股份失踪之谜
 ---
+
 我是《硅谷101》的特约研究员麻花。这期节目是《硅谷101》和《商业就是这样》的串台节目，我们将讨论一个非常昂贵的话题——**爱马仕**。12月初，**爱马仕**的第五代继承人之一**尼古拉斯·皮埃奇**将**LVMH集团**和其董事长**伯纳德·阿尔诺**告上了法庭，状告对方夺走了自己手中的天价**爱马仕**股份。**皮埃奇**手中原本有**600万股爱马仕股份**，大概占到了**爱马仕**总股本的**6%**，按照现在**爱马仕**的市值估算，大概价值**140亿欧元**。他也因此一度是**爱马仕最大的个人股东**。但从2023年开始，他发现这些价值连城的股票不翼而飞，很可能早在多年前就被转移到了**LVMH**那边。失去财富的**皮埃奇**，从富可敌国落魄到出行只能坐廉价航空的经济舱中间狭小座位。这个惊天奇案的开头源于**皮埃奇**身边的两个人：一个是认识了40年的好朋友兼私人财富顾问**埃里克·弗雷蒙德**，另一个是**皮埃奇**在疫情后找到的精神寄托，他十分想收为养子的51岁摩洛哥园丁。但事情之后的发展，却牵扯进了两个最大的奢侈品集团**爱马仕**和**LVMH**。它们上一次产生巨大交集还是在2010年，那一年**LVMH**突然宣布已持有接近20%的**爱马仕**股份，而**爱马仕**家族则聚集起散落在世界各地的52名家族成员，将零散股份注入同一个实体，保住了家族对**爱马仕**的控制权，赶走了“门口的野蛮人”。
 
 ### 豪门继承人：尼古拉斯·皮埃奇

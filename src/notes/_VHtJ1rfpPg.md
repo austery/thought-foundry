@@ -1,33 +1,31 @@
 ---
-title: 区域性银行危机与市场动荡：信贷质量、利率和宏观经济展望
-summary: 本期节目深入探讨了区域性银行信贷问题引发的市场下跌，分析了其与2023年硅谷银行危机的异同。同时，嘉宾讨论了十年期国债收益率下降、黄金上涨与比特币下跌的矛盾现象，并对AI、稀土等高贝塔股票的未来走势及2025年宏观经济前景进行了展望。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- credit-crisis
-- investment-strategy
-- macroeconomics
-- market-analysis
-- regional-banks
-people:
-- amit-kukreja
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-16'
-author: Amit Kukreja
-speaker: Amit Kukreja
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- amit-kukreja
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=_VHtJ1rfpPg
+speaker: Amit Kukreja
 status: evergreen
+summary: 本期节目深入探讨了区域性银行信贷问题引发的市场下跌，分析了其与2023年硅谷银行危机的异同。同时，嘉宾讨论了十年期国债收益率下降、黄金上涨与比特币下跌的矛盾现象，并对AI、稀土等高贝塔股票的未来走势及2025年宏观经济前景进行了展望。
+tags:
+- crisis
+- financial
+- market-analysis
+- regional-bank
+title: 区域性银行危机与市场动荡：信贷质量、利率和宏观经济展望
 ---
+
 ### 市场回顾：区域性银行引发的红色星期四
 
 All right. Hello everybody. Welcome back to another episode of the market close. We got a red day.

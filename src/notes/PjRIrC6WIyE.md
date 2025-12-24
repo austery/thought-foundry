@@ -1,31 +1,30 @@
 ---
-title: 群体如何助长个体作恶：从党卫军到网络暴民的心理机制
-summary: 探讨群体如何通过社会化、从众压力等机制扭曲个体认知，使普通人理直气壮地作恶，并指出结构性改革是杜绝恶行的关键。
 area: personal-growth
 category: psychology
-project:
-- personal-growth-lab
-tags:
-- conformity
-- evil
-- group-dynamics
-- social-psychology
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-05-31'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=PjRIrC6WIyE
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 探讨群体如何通过社会化、从众压力等机制扭曲个体认知，使普通人理直气壮地作恶，并指出结构性改革是杜绝恶行的关键。
+tags:
+- conformity
+- dynamic
+- social
+- technology
+title: 群体如何助长个体作恶：从党卫军到网络暴民的心理机制
 ---
+
 ### 为何有人能理直气壮地作恶？
 
 生活在现代社会，我的内心常常会产生一个疑问：为什么有的人能对善恶是非丧失最基本的判断力，甚至堂而皇之地作恶？无论是那些穿着防护服执法的“白色魔鬼”，还是向无辜者挥舞铁拳的“党卫军”，抑或是动辄将人举报的“自干五”，作为正常人，我们实在难以理解，他们为何能如此肆无忌惮、嚣张地作恶，甚至不以为耻，反以为荣。

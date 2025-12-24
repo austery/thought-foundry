@@ -1,32 +1,30 @@
 ---
-title: 超越标签：马拉拉·优素福扎伊的成长与自我发现
-summary: 诺奖得主马拉拉在新书《寻找我的路》中，分享了她从全球偶像到普通大学生的蜕变之旅，包括友谊、爱情、创伤应对，以及对婚姻的重新定义。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- college-life
-- malala-yousafzai
-- marriage
-- mental-health
-- self-discovery
-people: []
+area: life-family
+category: family-relations
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-15'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=gKFpNh2avys
+speaker: New York Times Podcasts
 status: evergreen
+summary: 诺奖得主马拉拉在新书《寻找我的路》中，分享了她从全球偶像到普通大学生的蜕变之旅，包括友谊、爱情、创伤应对，以及对婚姻的重新定义。
+tags:
+- life
+- llm
+- mental-health
+- self-discovery
+title: 超越标签：马拉拉·优素福扎伊的成长与自我发现
 ---
+
 ### 引言：重新介绍马拉拉
 
 Anna: Hi Malala, I'm Anna.

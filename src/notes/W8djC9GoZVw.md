@@ -1,36 +1,35 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- Supreme Court
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- TED
+products_models:
+- Ataris
+project:
+- personal-growth-lab
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=W8djC9GoZVw
 speaker: TED
-tags:
-  - adolescent-development
-  - brain-science
-  - mental-health
-  - social-media-impact
-  - societal-narratives
-title: 青少年大脑的惊人科学：重新定义成长与潜能
-summary: 本文深入探讨了青少年大脑的科学，旨在挑战社会对青少年的负面叙事。作者指出，青春期是一个从10岁到25岁的漫长转化时期，其生物学变化（如青春期启动和睡眠模式改变）和社会认知（如决策能力）常被误解。文章强调，社交媒体并非青少年心理健康问题的核心原因，而高质量的人际关系和家庭支持对他们的福祉更为关键。我们应停止对年轻人的负面评价，转而支持他们发挥适应快速变化世界的能力，共同塑造更光明的未来。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - historical-insights
-people: []
-companies_orgs:
-  - Supreme Court
-products_models:
-  - Ataris
-media_books:
-  - TED
 status: evergreen
+summary: 本文深入探讨了青少年大脑的科学，旨在挑战社会对青少年的负面叙事。作者指出，青春期是一个从10岁到25岁的漫长转化时期，其生物学变化（如青春期启动和睡眠模式改变）和社会认知（如决策能力）常被误解。文章强调，社交媒体并非青少年心理健康问题的核心原因，而高质量的人际关系和家庭支持对他们的福祉更为关键。我们应停止对年轻人的负面评价，转而支持他们发挥适应快速变化世界的能力，共同塑造更光明的未来。
+tags:
+- development
+- mental-health
+- science
+- social-media-impact
+- societal
+title: 青少年大脑的惊人科学：重新定义成长与潜能
 ---
+
 ### 重新审视青少年时期
 
 我以研究青少年大脑为生。

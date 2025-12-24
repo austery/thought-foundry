@@ -1,31 +1,30 @@
 ---
-title: 《坏血》最终章：90亿帝国崩塌，新闻的力量与时代的警示
-summary: 本期节目深入解析《坏血》最终章，讲述记者约翰·卡雷鲁如何凭一己之力扳倒估值90亿的Theranos帝国。揭示了霍尔姆斯的挣扎、公司的疯狂反击，以及吹哨人的勇气。最终，强调了新闻、事实与怀疑精神在时代洪流中的重要性。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- corporate-fraud
-- investigative-journalism
-- silicon-valley
-- theranos-scandal
-people:
-- elizabeth-holmes
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-22'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- elizabeth-holmes
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=PmYzemH4J-E
+speaker: 北美王路飞
 status: evergreen
+summary: 本期节目深入解析《坏血》最终章，讲述记者约翰·卡雷鲁如何凭一己之力扳倒估值90亿的Theranos帝国。揭示了霍尔姆斯的挣扎、公司的疯狂反击，以及吹哨人的勇气。最终，强调了新闻、事实与怀疑精神在时代洪流中的重要性。
+tags:
+- corporate-fraud
+- history
+- investment
+- silicon-valley
+title: 《坏血》最终章：90亿帝国崩塌，新闻的力量与时代的警示
 ---
+
 ### 王牌记者与帝国黄昏
 
 欢迎来到我的频道，今天我们深入探讨**《坏血》**（Bad Blood: 一本揭露Theranos公司骗局的调查报道书籍）的最终章：王牌记者、帝国覆灭与一个永恒的警示。上一集提到，当所有内部吹哨人与外部怀疑者通过一个意想不到的枢纽连接在一起时，他们将所有希望都寄托在一个人身上，这个人就是《华尔街日报》的调查记者**约翰·卡雷鲁**（John Carreyrou: 华尔街日报的调查记者）。

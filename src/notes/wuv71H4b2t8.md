@@ -1,35 +1,34 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Norwegian Central Bank
 date: '2024-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Bank Har Scan
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=wuv71H4b2t8
 speaker: Norges Bank Investment Management
-tags:
-  - fiscal-rule
-  - sovereign-wealth-fund
-  - dutch-disease
-  - economic-stability
-  - intergenerational-equity
-title: 挪威财政规则：石油财富的跨代管理与经济稳定之道
-summary: 本文探讨了挪威如何通过其独特的“支出规则”（财政规则）有效管理庞大的石油和天然气收入。该规则旨在确保跨代公平，将所有石油收入注入主权财富基金，每年仅支出其金融回报的3%，从而稳定经济并避免“荷兰病”。文章还讨论了该规则在实现政治共识和应对市场波动方面的成功与挑战，强调了规则公信力的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Bank Har Scan
-companies_orgs:
-  - Norges Bank Investment Management
-  - Norwegian Central Bank
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了挪威如何通过其独特的“支出规则”（财政规则）有效管理庞大的石油和天然气收入。该规则旨在确保跨代公平，将所有石油收入注入主权财富基金，每年仅支出其金融回报的3%，从而稳定经济并避免“荷兰病”。文章还讨论了该规则在实现政治共识和应对市场波动方面的成功与挑战，强调了规则公信力的重要性。
+tags:
+- economic
+- financial
+- health
+- investment
+- sovereign-wealth-fund
+title: 挪威财政规则：石油财富的跨代管理与经济稳定之道
 ---
+
 ### 挪威支出规则的诞生与运作
 
 挪威有一项被称为**支出规则**（håndlingsregel: 挪威管理石油财富的财政规则）的制度，这项规则规定了挪威**主权财富基金**（Norwegian Sovereign Wealth Fund: 挪威政府管理石油收入的基金）每年可以有多少资金用于支持国家预算，它确实成为了挪威经济规划的基石。

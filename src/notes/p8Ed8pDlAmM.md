@@ -1,39 +1,39 @@
 ---
-author: TED
+area: society-systems
+category: general
+companies_orgs:
+- Oracle
+- Nvidia
+- Google
+- EPRI
+- National Grid
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- TED
+people:
+- Varun Sivaram
+- flexible-ai-computing
+products_models:
+- Emerald Conductor
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=p8Ed8pDlAmM
 speaker: TED
-tags:
-  - ai-energy-demand
-  - power-grid-flexibility
-  - flexible-ai-computing
-  - data-center-load
-title: AI如何化解自身能源危机：灵活性是关键
-summary: 本文探讨了人工智能（AI）快速发展带来的巨大能源需求如何对现有电网构成挑战。演讲者Varun Sivaram提出，通过引入“灵活性”——即AI计算任务在时间和空间上的动态调整能力——AI不仅可以满足自身增长需求，还能成为稳定、清洁电网的强大盟友，从而化解潜在的能源危机，并加速清洁能源的普及。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Varun Sivaram
-companies_orgs:
-  - Oracle
-  - Nvidia
-  - Google
-  - EPRI
-  - National Grid
-products_models:
-  - Emerald Conductor
-media_books:
-  - TED
 status: evergreen
+summary: 本文探讨了人工智能（AI）快速发展带来的巨大能源需求如何对现有电网构成挑战。演讲者Varun Sivaram提出，通过引入“灵活性”——即AI计算任务在时间和空间上的动态调整能力——AI不仅可以满足自身增长需求，还能成为稳定、清洁电网的强大盟友，从而化解潜在的能源危机，并加速清洁能源的普及。
+tags:
+- data-center-load
+- energy
+- power
+title: AI如何化解自身能源危机：灵活性是关键
 ---
+
 ### AI如何化解能源危机：灵活性是关键
 
 在亚利桑那州凤凰城一个酷热的日子里，当数百万台空调推高了电力负荷时，一群耗能巨大的**人工智能**（Artificial Intelligence: 模拟人类智能的计算机系统）服务器却逆势而行，提供了帮助。在一家甲骨文（Oracle）数据中心，这些AI计算机在三小时内将其功耗降低了25%，为当天的高峰需求提供了完美的时机支持。至关重要的是，先进的英伟达（Nvidia）芯片在此期间仍能满足其任务的严格性能要求，包括训练、微调和使用AI大型语言模型。

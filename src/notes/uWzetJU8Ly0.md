@@ -1,33 +1,32 @@
 ---
-title: 新广场协议、货币战与美联储会议前瞻：市场动态与财报深度解析
-summary: 本期节目深入探讨亚洲货币市场的相对强势与潜在央行干预，更新关税政策，并展望美联储会议可能的中性偏鸽态度。同时，详细分析了Palantir和Block两家公司的最新财报表现。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- currency-markets
-- earnings-analysis
-- fed-monetary-policy
-- investment-outlook
-- trade-tariffs
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-05-06'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=uWzetJU8Ly0
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入探讨亚洲货币市场的相对强势与潜在央行干预，更新关税政策，并展望美联储会议可能的中性偏鸽态度。同时，详细分析了Palantir和Block两家公司的最新财报表现。
+tags:
+- earnings-analysis
+- fed-monetary-policy
+- investment-outlook
+- market
+- trade-tariff
+title: 新广场协议、货币战与美联储会议前瞻：市场动态与财报深度解析
 ---
+
 ### 市场概览与本期内容预告
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小涛。今天这期内容的前半部分，我想先聊一下在过去几天我们所看到的亚洲市场货币的相对强势，包括未来有可能央行的潜在干预，以及这背后的原因。然后，我们将对关税政策做一个更新，同时展望周三的美联储会议。展望之后，在财报季度，我们当然要聊财报，分析一下周一盘后发布财报的Palantir和上一周有观众要求我讲解的Block的财报。那么就废话不多说，马上开始。

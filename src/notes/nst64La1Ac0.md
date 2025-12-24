@@ -1,41 +1,41 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 统计局
+- 央行
+- 比亚迪
+- 财新
+- 中国产业研究院
+- 北京国际人力资本集团
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《2024-2028年靈活用工行業競爭格局分析與未來趨勢預測報告》
+- 《2024外包用工專題報告》
+people:
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=nst64La1Ac0
 speaker: 小翠時政財經
-tags:
-  - china-economy
-  - cpi-manipulation
-  - labor-exploitation
-  - anti-involution-movement
-  - economic-deflation
-title: 中国经济的“反内卷”运动：数据面子工程与“人矿经济学”的残酷真相
-summary: 本文深入剖析中国经济数据背后的真实情况，指出官方宣称的GDP增长和“反内卷”运动，实则为掩盖通缩、人为抬高CPI的“面子工程”。文章通过对比中美通胀统计方式，揭示中国政府刻意隐藏服务通缩、伪造居民收入增长的假象。核心论点是，政府默许企业通过裁员、降薪、劳务外包等方式压榨劳动力，以弥补商品价格上涨带来的利润损失，最终导致消费萎靡，形成恶性循环，将国民视为可随意开采的“人矿”。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-companies_orgs:
-  - 统计局
-  - 央行
-  - 比亚迪
-  - 财新
-  - 中国产业研究院
-  - 北京国际人力资本集团
-products_models: []
-media_books:
-  - 《2024-2028年靈活用工行業競爭格局分析與未來趨勢預測報告》
-  - 《2024外包用工專題報告》
 status: evergreen
+summary: 本文深入剖析中国经济数据背后的真实情况，指出官方宣称的GDP增长和“反内卷”运动，实则为掩盖通缩、人为抬高CPI的“面子工程”。文章通过对比中美通胀统计方式，揭示中国政府刻意隐藏服务通缩、伪造居民收入增长的假象。核心论点是，政府默许企业通过裁员、降薪、劳务外包等方式压榨劳动力，以弥补商品价格上涨带来的利润损失，最终导致消费萎靡，形成恶性循环，将国民视为可随意开采的“人矿”。
+tags:
+- anti
+- china-economy
+- economic
+- financial
+- labor
+title: 中国经济的“反内卷”运动：数据面子工程与“人矿经济学”的残酷真相
 ---
+
 ### 中国经济数据与“反内卷”运动的表象
 
 大家好，欢迎回到小翠时政财经。今天我们要来关注中国经济的话题。三季度的中国经济数据已经出炉，**GDP**（Gross Domestic Product: 衡量一个国家或地区经济活动总量的指标）增长4.8%，统计局对此大唱赞歌。大家还记得三季度中国宏观经济的重头戏是什么吗？是不是“反内卷”运动？现在统计局告诉我们，三季度工业产能利用率回升了，**PPI**（Producer Price Index: 生产者物价指数，衡量工业企业产品出厂价格变动指标）曲线也向上抬头了，企业也保证不再打价格战了。感觉好像中国的“反内卷”运动已经获得了极大的成功，至少官方数据就是这么体现的。那么，这真的是真相吗？别急，这期节目就来给大家揭秘中国发动“反内卷”运动背后的残酷真相。

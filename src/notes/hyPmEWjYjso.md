@@ -1,57 +1,58 @@
 ---
-author: 老周横眉
+area: market-analysis
+category: finance
+companies_orgs:
+- 比亚迪
+- 恒大
+- 长城汽车
+- 蔚来汽车
+- 伯克希尔哈撒韦
+- 普华永道
+- GMT Research
+- 福卡智库
+- 新浪财经
+- 丰田
+- 大众
+- 福特
+- 吉利
+- 上汽
+- 苹果
+- 波音
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 彭博社
+people:
+- 魏建军
+- 李云飞
+- 许家印
+- 巴菲特
+- Nigel Stevenson
+- 王德培
+- 邓庆旭
+products_models: []
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=hyPmEWjYjso
 speaker: 老周横眉
-tags:
-  - supply-chain-finance
-  - hidden-debt
-  - financial-reporting
-  - corporate-governance
-  - market-risk
-title: 深度解析比亚迪隐性债务：供应链金融下的财务风险与恒大警示
-summary: 近期关于比亚迪高负债可能爆雷的传言甚嚣尘上。本文将深入分析比亚迪的财务状况，驳斥其公关部门的回应，并揭示供应链金融如何成为企业隐藏债务的“艺术”。通过对比国内外车企的财务数据，并引用专业机构GMT Research的报告，文章指出比亚迪的真实债务可能远超公开数据，并警示其可能重蹈恒大覆辙的风险，呼吁投资者保持谨慎。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 魏建军
-  - 李云飞
-  - 许家印
-  - 巴菲特
-  - Nigel Stevenson
-  - 王德培
-  - 邓庆旭
-companies_orgs:
-  - 比亚迪
-  - 恒大
-  - 长城汽车
-  - 蔚来汽车
-  - 伯克希尔哈撒韦
-  - 普华永道
-  - GMT Research
-  - 福卡智库
-  - 新浪财经
-  - 丰田
-  - 大众
-  - 福特
-  - 吉利
-  - 上汽
-  - 苹果
-  - 波音
-products_models: []
-media_books:
-  - 彭博社
 status: evergreen
+summary: 近期关于比亚迪高负债可能爆雷的传言甚嚣尘上。本文将深入分析比亚迪的财务状况，驳斥其公关部门的回应，并揭示供应链金融如何成为企业隐藏债务的“艺术”。通过对比国内外车企的财务数据，并引用专业机构GMT
+  Research的报告，文章指出比亚迪的真实债务可能远超公开数据，并警示其可能重蹈恒大覆辙的风险，呼吁投资者保持谨慎。
+tags:
+- corporate-governance
+- debt
+- financial
+- market-risk
+- supply-chain-finance
+title: 深度解析比亚迪隐性债务：供应链金融下的财务风险与恒大警示
 ---
+
 ### 比亚迪“爆雷”传闻的由来与影响
 
 过去一周，海内外广泛流传一个消息：比亚迪负债过高，可能很快就会“爆雷”。这无疑是令人震惊的，因为比亚迪不仅是中国最大的车企，也是全球最大的汽车制造商之一。2024年，比亚迪共销售了427万台汽车，位列全球第五到第八名。截至2024年底，比亚迪在全球拥有约97万名员工，肩负着近百万个家庭的生计。

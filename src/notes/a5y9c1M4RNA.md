@@ -1,50 +1,49 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Supreme Court
+- Federal Trade Commission
+- Congress
+- Netflix
+- Warner Brothers Discovery
+- Writers Guild of America
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Will Jarvis
+- Tracy Mumford
+- Donald Trump
+- John Roberts
+- Bill Cassidy
+- Faraz Fhi
+products_models:
+- Obamacare
+- HBO Max
+- Looney Tunes
+- The Wizard of Oz
+- Harry Potter
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=a5y9c1M4RNA
 speaker: New York Times Podcasts
-tags:
-  - presidential-power
-  - healthcare-policy
-  - online-gambling
-  - social-liberalization
-  - antitrust-regulation
-title: 美国总统权力之争、医保补贴困境、在线赌场兴起与伊朗社会变革
-summary: 最高法院将审理一项关于总统权力的重大案件，可能颠覆美国政府结构。同时，国会面临奥巴马医保补贴到期问题，数百万美国人的医保费用或将翻倍。另一方面，越来越多的州通过在线赌场赚取巨额税收，但这也引发了赌博成瘾的担忧。此外，Netflix计划收购华纳兄弟探索公司引发好莱坞愤怒，反垄断审查在即。最后，伊朗社会正经历显著的自由化转变，青年人推动着社会边界。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Will Jarvis
-  - Tracy Mumford
-  - Donald Trump
-  - John Roberts
-  - Bill Cassidy
-  - Faraz Fhi
-companies_orgs:
-  - New York Times
-  - Supreme Court
-  - Federal Trade Commission
-  - Congress
-  - Netflix
-  - Warner Brothers Discovery
-  - Writers Guild of America
-products_models:
-  - Obamacare
-  - HBO Max
-  - Looney Tunes
-  - The Wizard of Oz
-  - Harry Potter
-media_books: []
 status: evergreen
+summary: 最高法院将审理一项关于总统权力的重大案件，可能颠覆美国政府结构。同时，国会面临奥巴马医保补贴到期问题，数百万美国人的医保费用或将翻倍。另一方面，越来越多的州通过在线赌场赚取巨额税收，但这也引发了赌博成瘾的担忧。此外，Netflix计划收购华纳兄弟探索公司引发好莱坞愤怒，反垄断审查在即。最后，伊朗社会正经历显著的自由化转变，青年人推动着社会边界。
+tags:
+- healthcare-policy
+- online
+- presidential-power
+- regulation
+- social
+title: 美国总统权力之争、医保补贴困境、在线赌场兴起与伊朗社会变革
 ---
+
 ### 美国总统权力之争：最高法院将审理关键案件
 
 来自《纽约时报》的头条新闻。我是Will Jarvis，代班Tracy Mumford。今天是12月8日星期一。以下是今天早晨我们将报道的内容。

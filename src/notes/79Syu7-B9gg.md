@@ -1,37 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 初日診所
+- 初日醫學
+- Cofit
+- 紐約大學
 date: '2025-09-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Alixandra Barasch
+- Judy Weiser
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=79Syu7-B9gg
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - mindfulness
-  - photography-therapy
-  - stress-reduction
-  - cognitive-enhancement
-  - mental-wellbeing
-title: 摄影与正念：用镜头捕捉当下，提升心理健康
-summary: 本文探讨了摄影如何作为一种非正式的正念练习，帮助人们从过去和未来的思绪中抽离，专注于当下。通过分享个人摄影经历和心理学研究，文章阐述了摄影在提升专注力、减轻压力、改善情绪乃至作为艺术治疗工具的多种益处，鼓励读者通过摄影培养觉察力，以更从容有效的方式生活。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Alixandra Barasch
-  - Judy Weiser
-companies_orgs:
-  - 初日診所
-  - 初日醫學
-  - Cofit
-  - 紐約大學
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了摄影如何作为一种非正式的正念练习，帮助人们从过去和未来的思绪中抽离，专注于当下。通过分享个人摄影经历和心理学研究，文章阐述了摄影在提升专注力、减轻压力、改善情绪乃至作为艺术治疗工具的多种益处，鼓励读者通过摄影培养觉察力，以更从容有效的方式生活。
+tags:
+- cognitive
+- history
+- mindfulnes
+- psychology
+- society
+title: 摄影与正念：用镜头捕捉当下，提升心理健康
 ---
+
 ### 摄影：一种非正式的正念练习
 
 只要简单的一支智能手机搭配摄影活动，就能对**正念**（Mindfulness: 一种系统性的训练方法，旨在帮助我们将注意力从过去和未来的思绪中抽离，回到当下正在发生的体验）有更深刻的认识。摄影正是一种非正式的正念练习。接下来，我将和大家分享几张我在录影前拍摄的照片，藉由这些照片的分享，让大家了解我在说什么。

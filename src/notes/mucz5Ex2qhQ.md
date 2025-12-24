@@ -1,113 +1,114 @@
 ---
-author: 張内咸
+area: market-analysis
+category: business
+companies_orgs:
+- Netflix
+- Amazon
+- Amazon Prime
+- Disney
+- Hulu
+- HBO
+- Hasbro
+- Mattel
+- Apple
+- iQiyi
+- NASDAQ
+- 新片场
+- 优爱腾
+- 讲谈社
+- KBS
+- 央视
+- 宝莱坞
+- 笑果文化
 date: '2025-01-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《权力的游戏》
+- 《鱿鱼游戏》
+- 《江南style》
+- 《天盛长歌》
+- 《寄生兽：灰色部队》
+- 《寄生兽》
+- 《弥留之国的爱丽丝》
+- 《大逃杀》
+- 《Liar Game》
+- 《动物世界》
+- 《赌博默示录》
+- 《华灯初上》
+- 《人间课堂》
+- 《龙纹身的女孩》
+- 《教父》
+- 《喋血双雄》
+- 《绝命毒师》
+- 《禁忌女孩》
+- 《怪奇物语》
+- 《王国》
+- 《李尸朝鲜》
+- 《行尸走肉》
+- 《她和她的她》
+- 《精神病房也会迎来清晨》
+- 《豪斯医生》
+- 《实习医生格蕾》
+- 《德里罪案》
+- 《涅槃》
+- 《切尔诺贝利》
+- 《摔跤吧爸爸》
+- 《黑暗荣耀》
+- 《蓝色生死恋》
+- 《人鱼小姐》
+- 《浪漫满屋》
+- 《大长今》
+- 《豪杰春香》
+- 《我是遗物整理师》
+- 《六尺之下》
+- 《D.P.逃兵追击令》
+- 《火花》
+- 《今晚80后脱口秀》
+- 《脱口秀大会》
+people:
+- 龚宇
+- Elon Musk
+- 林心如
+- 贾静雯
+- 宋慧乔
+- 全智贤
+- 金喜善
+- 蔡琳
+- 王自健
+- 李诞
+- 池子
+- 赖宝
+- 蒋经国
+- 詹姆斯·卡梅隆
+- 鸟叔
+- 科波拉
+- 吴宇森
+- 周润发
+- 伊藤润二
+- 松本清张
+products_models:
+- IBM PC
+- Steam
+project:
+- china-analysis
+- us-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=mucz5Ex2qhQ
 speaker: 張内咸
-tags:
-  - streaming-wars
-  - content-localization
-  - cultural-export
-title: Netflix 亚洲原创剧集 Top 10 榜单：为何韩剧霸榜，第一名却出人意料？
-summary: 本文深度剖析了全球流媒体巨头 Netflix 在亚洲的本土化战略。通过对比中美互联网生态、回顾爱奇艺的失败案例，文章重点阐述了 Netflix 如何通过赋能韩国影视产业实现全球文化输出，并探讨了中国市场错失的发展良机。最后，文章依据豆瓣评分，详细解读了 Netflix 亚洲原创剧集 Top 10 榜单，从《寄生兽》到《黑暗荣耀》，揭示了亚洲内容的独特魅力与创作趋势。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - cultural-critique
-people:
-  - 龚宇
-  - 马斯克
-  - 林心如
-  - 贾静雯
-  - 宋慧乔
-  - 全智贤
-  - 金喜善
-  - 蔡琳
-  - 王自健
-  - 李诞
-  - 池子
-  - 赖宝
-  - 蒋经国
-  - 詹姆斯·卡梅隆
-  - 鸟叔
-  - 科波拉
-  - 吴宇森
-  - 周润发
-  - 伊藤润二
-  - 松本清张
-companies_orgs:
-  - Netflix
-  - Amazon
-  - Amazon Prime
-  - Disney
-  - Hulu
-  - HBO
-  - Hasbro
-  - Mattel
-  - Apple
-  - iQiyi
-  - NASDAQ
-  - 新片场
-  - 优爱腾
-  - 讲谈社
-  - KBS
-  - 央视
-  - 宝莱坞
-  - 笑果文化
-products_models:
-  - IBM PC
-  - Steam
-media_books:
-  - 《权力的游戏》
-  - 《鱿鱼游戏》
-  - 《江南style》
-  - 《天盛长歌》
-  - 《寄生兽：灰色部队》
-  - 《寄生兽》
-  - 《弥留之国的爱丽丝》
-  - 《大逃杀》
-  - 《Liar Game》
-  - 《动物世界》
-  - 《赌博默示录》
-  - 《华灯初上》
-  - 《人间课堂》
-  - 《龙纹身的女孩》
-  - 《教父》
-  - 《喋血双雄》
-  - 《绝命毒师》
-  - 《禁忌女孩》
-  - 《怪奇物语》
-  - 《王国》
-  - 《李尸朝鲜》
-  - 《行尸走肉》
-  - 《她和她的她》
-  - 《精神病房也会迎来清晨》
-  - 《豪斯医生》
-  - 《实习医生格蕾》
-  - 《德里罪案》
-  - 《涅槃》
-  - 《切尔诺贝利》
-  - 《摔跤吧爸爸》
-  - 《黑暗荣耀》
-  - 《蓝色生死恋》
-  - 《人鱼小姐》
-  - 《浪漫满屋》
-  - 《大长今》
-  - 《豪杰春香》
-  - 《我是遗物整理师》
-  - 《六尺之下》
-  - 《D.P.逃兵追击令》
-  - 《火花》
-  - 《今晚80后脱口秀》
-  - 《脱口秀大会》
 status: evergreen
+summary: 本文深度剖析了全球流媒体巨头 Netflix 在亚洲的本土化战略。通过对比中美互联网生态、回顾爱奇艺的失败案例，文章重点阐述了 Netflix 如何通过赋能韩国影视产业实现全球文化输出，并探讨了中国市场错失的发展良机。最后，文章依据豆瓣评分，详细解读了
+  Netflix 亚洲原创剧集 Top 10 榜单，从《寄生兽》到《黑暗荣耀》，揭示了亚洲内容的独特魅力与创作趋势。
+tags:
+- content
+- cultural
+- war
+title: Netflix 亚洲原创剧集 Top 10 榜单：为何韩剧霸榜，第一名却出人意料？
 ---
+
 ### 电影院线的衰落与流媒体的崛起
 
 大家好，我是张内咸。整个2024年，在电影市场如此不景气的情况下，我依然看了十几场电影，纯粹是出于热爱。我的工作与电影并无关系，因为我根本没有工作。然而，像我这样的专业影迷已是凤毛麟角。

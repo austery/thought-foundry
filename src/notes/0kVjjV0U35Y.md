@@ -1,42 +1,41 @@
 ---
-author: TechButMakeItReal
+area: digital-garden
+category: productivity
+companies_orgs:
+- Recall
+- ADO
+- University of Zurich
+- Gartner
 date: '2025-06-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reddit
+- Everywhere to Run
+- Substack
+products_models:
+- Notebook LM
+- YouTube Premium
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=0kVjjV0U35Y
 speaker: TechButMakeItReal
-tags:
-  - research-efficiency
-  - knowledge-management
-  - ai-productivity
-  - information-overload
-  - active-learning
-title: 告别信息过载：Recall AI如何彻底改变你的研究与学习方式
-summary: 本视频深入探讨了现代研究中信息过载的挑战，以及AI工具Recall如何通过其创新的浏览器扩展、智能总结、知识图谱和增强浏览功能，帮助用户高效管理、连接和记忆海量信息。文章详细介绍了Recall如何处理各类内容、追踪原始来源、验证数据，并提供测验功能以巩固学习，从而将信息过载转化为真正的理解，提升个人和专业领域的生产力。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: digital-garden
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - knowledge-pipeline
-people: []
-companies_orgs:
-  - Recall
-  - ADO
-  - University of Zurich
-  - Gartner
-products_models:
-  - Notebook LM
-  - YouTube Premium
-media_books:
-  - Reddit
-  - Everywhere to Run
-  - Substack
 status: evergreen
+summary: 本视频深入探讨了现代研究中信息过载的挑战，以及AI工具Recall如何通过其创新的浏览器扩展、智能总结、知识图谱和增强浏览功能，帮助用户高效管理、连接和记忆海量信息。文章详细介绍了Recall如何处理各类内容、追踪原始来源、验证数据，并提供测验功能以巩固学习，从而将信息过载转化为真正的理解，提升个人和专业领域的生产力。
+tags:
+- ai-productivity
+- information-overload
+- knowledge-management
+- learning
+- research
+title: 告别信息过载：Recall AI如何彻底改变你的研究与学习方式
 ---
+
 ### 信息过载的困境：研究的真实挑战
 
 上周，我花了47个小时研究海湾地区的科技生态系统，只为制作一个视频。整整47个小时。到研究结束时，我的桌面上有36个书签、19个下载的PDF文件和12个保存在YouTube上的视频，而这甚至还没开始对我在线找到的所有信息进行事实核查。

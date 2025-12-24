@@ -1,29 +1,27 @@
 ---
-title: 理性陷阱：用心而非用脑，找回真实的自己
-summary: 本文通过五个生活案例，阐述了“用心”而非“用脑”的重要性，强调倾听内心感受，摆脱逻辑束缚，从而做出更符合真实自我的选择，实现真正的成长和价值。
 area: null
 category: null
-project: []
-tags:
-- decision-making
-- mind-heart
-- rationality
-- self-awareness
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: 课代表立正
-speaker: 课代表立正
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DdFGgvahbi8
+speaker: 课代表立正
 status: evergreen
+summary: 本文通过五个生活案例，阐述了“用心”而非“用脑”的重要性，强调倾听内心感受，摆脱逻辑束缚，从而做出更符合真实自我的选择，实现真正的成长和价值。
+tags:
+- decision-making
+- philosophy
+- psychology
+- self-awareness
+title: 理性陷阱：用心而非用脑，找回真实的自己
 ---
+
 ### 导言：人生最大的体会
 
 大家好，今天我想和大家分享一个我近两年来最深刻的人生体会，虽然它难以言喻，但我准备了五个案例，希望能帮助大家更清晰地理解。这件事的重要性，已经渗透到我生活的方方面面，甚至在我为即将出生的孩子写下的第一篇文章中，就提到了它。这让我意识到，我们看待世界的方式，就像“地球绕着太阳转”一样，一旦被点破，一切便豁然开朗，变得合乎情理。

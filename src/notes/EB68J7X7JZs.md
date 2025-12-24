@@ -1,39 +1,39 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-04-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《比山更高 自由攀登者的悲情与荣耀》
+people:
+- 宋明蔚
+- 严冬冬
+- 周鹏
+- 王茁
+- 伍鹏
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=EB68J7X7JZs
 speaker: 一席YiXi
-tags:
-  - free-climbing-culture
-  - moral-ambiguity-of-freedom
-  - existential-choice
-  - death-and-responsibility
-  - non-conformist-living
-title: 比山更高：中国自由攀登者的悲情与荣耀
-summary: 宋明蔚讲述中国自由攀登者群体的隐秘史诗——他们不是成功学叙事中的英雄，而是清醒背负着死亡代价、为内心自由而攀登的普通人。他们的故事揭示了自由意志的沉重与崇高，以及在主流社会之外另一种生命存在的可能。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 宋明蔚
-  - 严冬冬
-  - 周鹏
-  - 王茁
-  - 伍鹏
-companies_orgs: []
-products_models: []
-media_books:
-  - 《比山更高 自由攀登者的悲情与荣耀》
 status: evergreen
+summary: 宋明蔚讲述中国自由攀登者群体的隐秘史诗——他们不是成功学叙事中的英雄，而是清醒背负着死亡代价、为内心自由而攀登的普通人。他们的故事揭示了自由意志的沉重与崇高，以及在主流社会之外另一种生命存在的可能。
+tags:
+- culture
+- death-and-responsibility
+- existential-choice
+- freedom
+- non
+title: 比山更高：中国自由攀登者的悲情与荣耀
 ---
+
 ### 一场被忽视的史诗：自由攀登者的真实人生
 
 大家好，我叫宋明蔚。今天我想分享的，不是那些站在珠峰顶上举旗庆祝的成功故事，而是一群被主流社会视为“失败者”的中国自由攀登者——他们大学肄业、高中辍学、出身不幸、居无定所，却在死亡的悬崖边寻找自由与自我。他们没有被写进教科书，没有登上新闻头条，在官方叙事中几乎隐形；但在我眼中，他们在中国大地上书写了一部壮丽而隐秘的史诗。

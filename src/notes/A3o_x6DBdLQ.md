@@ -1,54 +1,51 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: technology
+companies_orgs:
+- OpenAI
+- Anthropic
+- XAI
+- Meta
+- Microsoft
 date: '2025-08-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New Yorker
+- Deep Work
+- Digital Minimalism
+people:
+- Kyle Newport
+- Jared Kaplan
+- Dario Amodei
+- Sam Altman
+- Elon Musk
+- Gary Marcus
+products_models:
+- ChatGPT
+- GPT-3
+- GPT-4
+- GPT-4o
+- GPT-5
+- Grok-3
+- Cicero
+- AlphaGo
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=A3o_x6DBdLQ
 speaker: 北美王路飞
-tags:
-  - llm-limitations
-  - scaling-law
-  - ai-realism
-  - neuro-symbolic-ai
-  - ai-hype
-title: GPT-5“翻车”：AI缩放定律失效与硅谷狂热的终结
-summary: 本文深入探讨了OpenAI最新模型GPT-5未能达到预期突破的原因，揭示了支撑AI发展的“缩放定律”已告失效。麻省理工计算机博士凯尔·纽波特作为“AI现实主义者”，批判了硅谷对通用人工智能（AGI）的盲目狂热，指出大语言模型（LLM）的本质局限在于其静态架构和模式匹配机制。文章呼吁回归理性，强调AI的未来在于多模块、专业化的神经符号系统，而非单一的“万能之神”，并提醒普通人无需为AI焦虑，应专注于提升自身核心技能。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Kyle Newport
-  - Jared Kaplan
-  - Dario Amodei
-  - Sam Altman
-  - Elon Musk
-  - Gary Marcus
-companies_orgs:
-  - OpenAI
-  - Anthropic
-  - XAI
-  - Meta
-  - Microsoft
-products_models:
-  - ChatGPT
-  - GPT-3
-  - GPT-4
-  - GPT-4o
-  - GPT-5
-  - Grok-3
-  - Cicero
-  - AlphaGo
-media_books:
-  - The New Yorker
-  - Deep Work
-  - Digital Minimalism
 status: evergreen
+summary: 本文深入探讨了OpenAI最新模型GPT-5未能达到预期突破的原因，揭示了支撑AI发展的“缩放定律”已告失效。麻省理工计算机博士凯尔·纽波特作为“AI现实主义者”，批判了硅谷对通用人工智能（AGI）的盲目狂热，指出大语言模型（LLM）的本质局限在于其静态架构和模式匹配机制。文章呼吁回归理性，强调AI的未来在于多模块、专业化的神经符号系统，而非单一的“万能之神”，并提醒普通人无需为AI焦虑，应专注于提升自身核心技能。
+tags:
+- llm
+- scaling-law
+title: GPT-5“翻车”：AI缩放定律失效与硅谷狂热的终结
 ---
+
 ### 引言：ChatGPT的现状与AI现实主义者的警示
 
 大家好，欢迎来到我的频道。今天我们来聊聊ChatGPT。我的频道制作了许多与AI相关的内容，说实话，如果没有ChatGPT模型，我不可能制作这么多视频。很多工作，比如收集信息、整理数据，以及处理和校对字幕，都可以交给AI完成。如果没有这种效率提升的工具，我不可能在这么短的时间内制作这么多视频。

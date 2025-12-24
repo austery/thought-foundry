@@ -1,30 +1,27 @@
 ---
-title: 突发心肌梗塞：我的人生下半场思考与感悟
-summary: 作者分享突发性心肌梗塞的真实经历，探讨疾病带来的生死感悟、对人生下半场的思考，以及如何利用有限的时间和资源，实现更有意义的生活目标。
 area: personal-growth
 category: lifestyle
-project:
-  - personal-growth-lab
-tags:
-  - genetic-disease
-  - health-management
-  - heart-attack
-  - life-reflection
-  - personal-growth
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-06-23'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=biIEbVetHrg
+speaker: 一口新飯
 status: evergreen
+summary: 作者分享突发性心肌梗塞的真实经历，探讨疾病带来的生死感悟、对人生下半场的思考，以及如何利用有限的时间和资源，实现更有意义的生活目标。
+tags:
+- health
+- health-management
+- life
+- personal-growth
+- technology
+title: 突发心肌梗塞：我的人生下半场思考与感悟
 ---
 
 ### 突发心肌梗塞与紧急救治

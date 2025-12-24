@@ -1,43 +1,42 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Cato Institute
+- US National Science Foundation
 date: '2025-09-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Howard Lutnick
+- David Bier
+products_models:
+- F1 student visa
+- OPT
+- H-1B visa
+- Gold Card program
+- Company Gold Card
+- Platinum Card
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=_FsEfIbP2BI
 speaker: 大伟探秘加拿大
-tags:
-  - h1b-visa-reform
-  - us-immigration-policy
-  - talent-competition
-  - international-students
-  - economic-impact
-title: 美国H-1B签证改革：十万美元年费冲击波与全球人才竞争
-summary: 2025年9月，美国总统特朗普签署行政令，对H-1B签证申请征收每年10万美元政府费，引发全球震动。这项政策将H-1B申请成本暴涨40倍，对数百万国际留学生和现有H-1B持有者造成毁灭性影响。文章深入剖析了新政的核心条款、其与“金卡项目”构成的双轨制，以及对美国高等教育、科研体系和全球人才竞争力的深远负面冲击，指出此举可能导致美国创新能力受损，并将人才推向竞争对手。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Howard Lutnick
-  - David Bier
-companies_orgs:
-  - Cato Institute
-  - US National Science Foundation
-products_models:
-  - F1 student visa
-  - OPT
-  - H-1B visa
-  - Gold Card program
-  - Company Gold Card
-  - Platinum Card
-media_books: []
 status: evergreen
+summary: 2025年9月，美国总统特朗普签署行政令，对H-1B签证申请征收每年10万美元政府费，引发全球震动。这项政策将H-1B申请成本暴涨40倍，对数百万国际留学生和现有H-1B持有者造成毁灭性影响。文章深入剖析了新政的核心条款、其与“金卡项目”构成的双轨制，以及对美国高等教育、科研体系和全球人才竞争力的深远负面冲击，指出此举可能导致美国创新能力受损，并将人才推向竞争对手。
+tags:
+- competition
+- economic-impact
+- international
+- reform
+- us-immigration-policy
+title: 美国H-1B签证改革：十万美元年费冲击波与全球人才竞争
 ---
+
 ### H-1B签证改革：政策核心与影响
 
 2025年9月19日，美国总统唐纳德·特朗普签署了一项行政令，将对**H-1B签证**（H-1B Visa: 美国为引进外国专业技术人才设置的一种非移民工作签证）申请征收每年10万美元的政府费用。白宫椭圆形办公室里，特朗普在签署文件后对记者表示，美国将迎来优秀的人才，而且他们会因此付费，这笔钱将用于减税和偿还国债。

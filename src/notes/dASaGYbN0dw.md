@@ -1,49 +1,49 @@
 ---
-author: Money & Macro
+area: society-systems
+category: geopolitics
+companies_orgs:
+- European Council of Foreign Relations
+- Volkswagen
+- Stellantis
+- Northvolt
+- NATO
+- Airbus
+- BMW
+- Renault
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+people:
+- Tobias Gherke
+- Scott Bessent
+- Deng Xiaopeng
+- Michaela Roibu
+- Trump
+products_models:
+- F-35 jet
+- Nintendo Switch
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dASaGYbN0dw
 speaker: Money & Macro
-tags:
-  - critical-minerals
-  - economic-weaponization
-  - supply-chain-resilience
-  - industrial-policy
-  - geoeconomic-strategy
-title: 中国如何利用关键矿产制衡西方经济体
-summary: 本文深入探讨了中国在关键矿产（如稀土、锂、铜）领域的垄断地位及其对西方工业的潜在威胁。文章指出，中国已将这种优势武器化，通过大规模生产、政府补贴和宽松的环保法规巩固其主导地位，并已开始利用出口管制等手段施加经济压力。为应对这一挑战，文章提出西方国家应采取五步地缘经济战略，包括建立战略储备、组建大型联盟、实施产业政策、发展替代技术及制定报复性策略，以期在新的地缘经济时代维护自身主权和经济安全。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Tobias Gherke
-  - Scott Bessent
-  - Deng Xiaopeng
-  - Michaela Roibu
-  - Trump
-companies_orgs:
-  - European Council of Foreign Relations
-  - Volkswagen
-  - Stellantis
-  - Northvolt
-  - NATO
-  - Airbus
-  - BMW
-  - Renault
-products_models:
-  - F-35 jet
-  - Nintendo Switch
-media_books:
-  - The Economist
 status: evergreen
+summary: 本文深入探讨了中国在关键矿产（如稀土、锂、铜）领域的垄断地位及其对西方工业的潜在威胁。文章指出，中国已将这种优势武器化，通过大规模生产、政府补贴和宽松的环保法规巩固其主导地位，并已开始利用出口管制等手段施加经济压力。为应对这一挑战，文章提出西方国家应采取五步地缘经济战略，包括建立战略储备、组建大型联盟、实施产业政策、发展替代技术及制定报复性策略，以期在新的地缘经济时代维护自身主权和经济安全。
+tags:
+- critical-mineral
+- economic
+- industrial-policy
+- strategy
+- supply-chain-resilience
+title: 中国如何利用关键矿产制衡西方经济体
 ---
+
 ### 中国的关键矿产垄断及其对西方的影响
 
 中国已将其在**关键矿产**（Critical Minerals: 对经济和国家安全至关重要，且供应面临高风险的矿产）领域的垄断武器化，而整个西方工业基础都依赖于这些矿产。

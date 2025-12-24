@@ -1,47 +1,47 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Alibaba
+- Meta
+- 腾讯
+- AMD
+- Intel
+- 台积电
+- 拼多多
+- Time
+- LVMH
+- Cochin
 date: '2025-04-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伯克希尔股东信》
+people:
+- 唐石峻
+- Donald Trump
+- Lisa Su
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=pxqpRAz46LI
 speaker: Shijun Tang
-tags:
-  - tariff-policy-uncertainty
-  - market-volatility
-  - value-investing-principles
-  - supply-chain-risk
-  - consumer-behavior-shift
-title: 川普关税突变与中概股震荡：一场市场赌场中的价值投资启示
-summary: 本片深入剖析川普政府突然调整对华关税政策引发的美股剧烈波动，揭示市场沦为‘赌场’的本质，并分析AMD与拼多多的投资价值。作者结合亲身经历，强调在高度不确定环境中坚守价值投资原则的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-  - Donald Trump
-  - Lisa Su
-companies_orgs:
-  - 阿里巴巴
-  - Meta
-  - 腾讯
-  - AMD
-  - Intel
-  - 台积电
-  - 拼多多
-  - Time
-  - LVMH
-  - Cochin
-products_models: []
-media_books:
-  - 《伯克希尔股东信》
 status: evergreen
+summary: 本片深入剖析川普政府突然调整对华关税政策引发的美股剧烈波动，揭示市场沦为‘赌场’的本质，并分析AMD与拼多多的投资价值。作者结合亲身经历，强调在高度不确定环境中坚守价值投资原则的重要性。
+tags:
+- consumer-behavior-shift
+- market-volatility
+- supply-chain-risk
+- tariff-policy-uncertainty
+- value
+title: 川普关税突变与中概股震荡：一场市场赌场中的价值投资启示
 ---
+
 ### 川普关税突变：一场精心设计的市场震荡？
 
 就在投资人普遍预期美股将进入新一轮暴跌时，这一周却上演了惊天逆转。川普政府在承受巨大舆论压力后，宣布对所有国家加征关税——但唯独豁免中国。这一政策的突然转向，彻底打破了市场的预期。

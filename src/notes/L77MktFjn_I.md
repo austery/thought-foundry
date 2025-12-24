@@ -1,52 +1,51 @@
 ---
-author: FearNation 世界苦茶
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 路透社
+- 华为
+- ASML
+- Nvidia
+- AMD
+- 台积电
+- 英特尔
+- 中科研
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 丁薛祥
+- 苏丰兹
+- 黄仁勋
+products_models:
+- EUV光刻机
+- DUV光刻机
+- Ascend 910C
+- H100
+- H200
+- Blackwell
+- Rubin
+- Atlas 950 SuperPod
+- GB200 NVL72
+project:
+- ai-impact-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=L77MktFjn_I
 speaker: FearNation 世界苦茶
-tags:
-  - euv
-  - semiconductors
-  - china-tech
-  - ai-chips
-  - lithography
-title: 中国EUV“曼哈顿计划”爆料：战略烟雾弹还是技术突破？
-summary: 本期节目深入分析了路透社关于中国“曼哈顿计划”——即研发EUV光刻机的独家报道。节目探讨了该消息泄露的可能原因及其战略意图，并详细对比了中国在芯片制造技术、产能及AI芯片（训练与推理）方面与美国的巨大差距。分析指出，尽管中国在努力追赶，但短期内仍高度依赖英伟达等公司的先进芯片，而EUV项目本身可能被用作影响美国芯片监管的“烟雾弹”。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-  - china-analysis
-people:
-  - 丁薛祥
-  - 苏丰兹
-  - 黄仁勋
-companies_orgs:
-  - 路透社
-  - 华为
-  - ASML
-  - 英伟达
-  - AMD
-  - 台积电
-  - 英特尔
-  - 中科研
-products_models:
-  - EUV光刻机
-  - DUV光刻机
-  - Ascend 910C
-  - H100
-  - H200
-  - Blackwell
-  - Rubin
-  - Atlas 950 SuperPod
-  - GB200 NVL72
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了路透社关于中国“曼哈顿计划”——即研发EUV光刻机的独家报道。节目探讨了该消息泄露的可能原因及其战略意图，并详细对比了中国在芯片制造技术、产能及AI芯片（训练与推理）方面与美国的巨大差距。分析指出，尽管中国在努力追赶，但短期内仍高度依赖英伟达等公司的先进芯片，而EUV项目本身可能被用作影响美国芯片监管的“烟雾弹”。
+tags:
+- ai-chip
+- china
+- geopolitical
+- semiconductor
+- technology
+title: 中国EUV“曼哈顿计划”爆料：战略烟雾弹还是技术突破？
 ---
+
 今天大家应该都看到了**路透社**独家报道中国的**曼哈顿计划**开始。以免有人不知道细节，我给大家简单说说**路透社**这篇报道的细节是什么：中国在**深圳**有一间高度戒备的实验室。你就要问一个问题了：既然是一个如此高度戒备的实验室，那么这个信息是被谁传出来的呢？
 
 首先，这是中国**深圳**一个机密高度戒备的实验室。这个实验室在**2025年初**已经完成了一个**EUV光刻机**（Extreme Ultraviolet Lithography: 用于制造先进半导体芯片的超紫外光刻技术）的原型机。就中国现在一直拿不到，中国现在只掌握一些**DUV光刻机**（Deep Ultraviolet Lithography: 深紫外光刻技术，比EUV技术成熟但精度较低）。终于造出了一台**EUV光刻机**的原型机，但是呢还没有做出芯片。那么官方呢说**2028年**可以开始量产芯片，那么更接近这个项目的业内人士说呢，可能需要**2030年**可以开始量产芯片。所以虽然有这个**曼哈顿计划**，但是开始量产芯片的是五年之后的事情。

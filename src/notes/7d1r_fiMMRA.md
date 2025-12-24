@@ -1,43 +1,42 @@
 ---
-author: 美投讲美股
+area: personal-systems
+category: business
+companies_orgs:
+- UBC
+- YouTube
+- WeChat
+- Discord
+- Investopedia
+- Uber
 date: '2025-10-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《低成本创业艺术》
+products_models:
+- ChatGPT
+- AWS
+- Meitou Pro
+project:
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=7d1r_fiMMRA
 speaker: 美投讲美股
-tags:
-  - entrepreneurial-journey
-  - personal-growth
-  - startup-challenges
-  - product-development
-  - user-centric-design
-  - content-creation
-title: 美投君自述：我的创业、赚钱与个人成长心路历程
-summary: 本视频中，美投讲美股频道主美投君首次分享其六年自媒体与创业的真实经历。他回顾了从最初构想投资者社交平台到多次产品转型的过程，坦诚分享了失败的教训与团队建设的喜悦。美投君深入探讨了创业带来的幸福感、坚定愿景与灵活方法的重要性，强调“没有白费的努力”以及“让少数人尖叫”的用户思维。内容涵盖其独特的团队构成、多样的收入来源，并为广大投资者和潜在创业者提供了宝贵的启发与思考。
-insight: ''
-draft: true
-series: ''
-category: business
-area: personal-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-people: []
-companies_orgs:
-  - UBC
-  - YouTube
-  - WeChat
-  - Discord
-  - Investopedia
-  - Uber
-products_models:
-  - ChatGPT
-  - AWS
-  - Meitou Pro
-media_books:
-  - 《低成本创业艺术》
 status: evergreen
+summary: 本视频中，美投讲美股频道主美投君首次分享其六年自媒体与创业的真实经历。他回顾了从最初构想投资者社交平台到多次产品转型的过程，坦诚分享了失败的教训与团队建设的喜悦。美投君深入探讨了创业带来的幸福感、坚定愿景与灵活方法的重要性，强调“没有白费的努力”以及“让少数人尖叫”的用户思维。内容涵盖其独特的团队构成、多样的收入来源，并为广大投资者和潜在创业者提供了宝贵的启发与思考。
+tags:
+- content-creation
+- design
+- entrepreneurial-journey
+- personal-growth
+- product-development
+- startup-challenge
+title: 美投君自述：我的创业、赚钱与个人成长心路历程
 ---
+
 本期视频中，我，**美投君**（“美投讲美股”频道的运营者），将首次与大家分享我的个人故事。自媒体运营近六年，我们每日探讨市场与美股，却鲜少谈及我自己。不知不觉间，频道已拥有逾60万粉丝，在此衷心感谢大家的支持。今天的视频将围绕创业、赚钱与个人成长展开。在此过程中，我也会回应一些观众朋友们关注的问题，例如我的收入来源、团队构成等，并分享我真实的创业经历，包括曾尝试的失败产品及所取得的成果。这并非广告或工作内容，而是一次非常私人的分享。我将自己定义为一个“天赋不足”的**自媒体**（Self-media: 个人或小团队通过互联网平台发布内容，建立影响力并获取收益的模式）人、一个“屡败屡战”的创业者，以及一个热爱美股的投资者。或许您对美投君本人并不在意，但如果您拥有上述任一身份，我的故事或许能为您带来一些启发。
 
 ### 从学霸到创业者：我的转型之路

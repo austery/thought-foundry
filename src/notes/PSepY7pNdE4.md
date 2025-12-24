@@ -1,52 +1,52 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- Nvidia
+- Data Bricks
+- Snowflake
+- White House
+- Yale
+- CNBC
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Alex Karp
+- Amir
+- Arie
+- Matt
+- Shyam Sankar
+- Brent Thiel
+- Donald Trump
+products_models:
+- AFDs
+- AI Hivemind
+- Foundry
+- Vantage
+- Golden Dome
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=PSepY7pNdE4
 speaker: Amit Kukreja
-tags:
-  - palantir-earnings
-  - ai-acceleration
-  - value-creation
-  - enterprise-software
-  - government-contracts
-title: Palantir 2025年第三季度财报：AI产品驱动的卓越增长与战略价值
-summary: 本文深入探讨了Palantir 2025年第三季度财报电话会议的亮点，重点关注其AI驱动产品（如AFDs和AI Hivemind）如何显著加速业务增长，将两年工作量缩短至两天。分析师们对Palantir强劲的财务表现（包括63%的营收增长和高利润率）表示赞叹，并强调公司在AI市场中专注于为客户创造价值的独特战略，以及其在政府和商业领域的巨大潜力，特别是Golden Dome项目。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Alex Karp
-  - Amir
-  - Arie
-  - Matt
-  - Shyam Sankar
-  - Brent Thiel
-  - Donald Trump
-companies_orgs:
-  - Palantir
-  - Nvidia
-  - Data Bricks
-  - Snowflake
-  - White House
-  - Yale
-  - CNBC
-products_models:
-  - AFDs
-  - AI Hivemind
-  - Foundry
-  - Vantage
-  - Golden Dome
-media_books: []
 status: evergreen
+summary: 本文深入探讨了Palantir 2025年第三季度财报电话会议的亮点，重点关注其AI驱动产品（如AFDs和AI Hivemind）如何显著加速业务增长，将两年工作量缩短至两天。分析师们对Palantir强劲的财务表现（包括63%的营收增长和高利润率）表示赞叹，并强调公司在AI市场中专注于为客户创造价值的独特战略，以及其在政府和商业领域的巨大潜力，特别是Golden
+  Dome项目。
+tags:
+- earning
+- enterprise-software
+- government
+- llm
+- value
+title: Palantir 2025年第三季度财报：AI产品驱动的卓越增长与战略价值
 ---
+
 ### Palantir 2025年第三季度财报总结
 
 这是Palantir 2025年第三季度财报的总结。整个团队，特别是**卡普博士**（Dr. Karp: Palantir的首席执行官），都充满了活力，他显然有一个信息要传达，而且我认为他成功地传达了。

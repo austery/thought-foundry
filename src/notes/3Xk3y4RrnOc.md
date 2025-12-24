@@ -1,47 +1,47 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- EQT
+- Norges Bank Investment Management
+- Microsoft
+- Zoom
+- GE Aerospace
+- Zodiac
+- Charter Communications
+- Time Warner Cable
 date: '2025-05-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Podcast with Nikolai
+people:
+- Christian Sinding
+- Sir Christopher Hohn
+- David
+- Otis
+- Nikolai
+products_models:
+- Microsoft Teams
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=3Xk3y4RrnOc
 speaker: Norges Bank Investment Management
-tags:
-  - long-term-investing
-  - private-equity
-  - public-markets
-  - company-valuation
-  - leadership-strategy
-title: EQT CEO与知名投资人探讨卓越公司的定义、长期投资与私有化趋势
-summary: 本文记录了EQT首席执行官Christian Sinding与知名投资人Sir Christopher Hohn的一场炉边谈话。他们深入探讨了卓越公司的三大核心要素：所处行业、领导力与执行力。两位嘉宾还就长期投资的价值、私有市场与公开市场的差异，以及私有化趋势对公司发展的影响进行了辩论。文章强调了长期主义在创造价值中的关键作用，以及在不断变化的市场中，企业如何通过战略性资源投入和持续改进来实现“未来验证”。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Christian Sinding
-  - Sir Christopher Hohn
-  - David
-  - Otis
-  - Nikolai
-companies_orgs:
-  - EQT
-  - Norges Bank Investment Management
-  - Microsoft
-  - Zoom
-  - GE Aerospace
-  - Zodiac
-  - Charter Communications
-  - Time Warner Cable
-products_models:
-  - Microsoft Teams
-media_books:
-  - Podcast with Nikolai
 status: evergreen
+summary: 本文记录了EQT首席执行官Christian Sinding与知名投资人Sir Christopher Hohn的一场炉边谈话。他们深入探讨了卓越公司的三大核心要素：所处行业、领导力与执行力。两位嘉宾还就长期投资的价值、私有市场与公开市场的差异，以及私有化趋势对公司发展的影响进行了辩论。文章强调了长期主义在创造价值中的关键作用，以及在不断变化的市场中，企业如何通过战略性资源投入和持续改进来实现“未来验证”。
+tags:
+- leadership-strategy
+- long-term-investing
+- market
+- private-equity
+- valuation
+title: EQT CEO与知名投资人探讨卓越公司的定义、长期投资与私有化趋势
 ---
+
 ### 开场与卓越公司的定义
 
 **主持人:** 现在，我邀请**EQT**（欧洲领先的私募股权投资公司）的首席执行官Christian Sinding加入我们。在他的领导下，EQT的规模扩大了四倍，成为瑞典第四大上市公司，也是私募市场中领先的、具有前瞻性思维的组织。欢迎，Christian。

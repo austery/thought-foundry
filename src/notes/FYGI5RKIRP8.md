@@ -1,84 +1,83 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Conspiracy of Equals
+- League of the Just
+- Communist League
+- Catholic Church
+- Red Sleeve Fists
+- Pang Donglai
+- British Library
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Conspiracy of Equals
+- The Communist Manifesto
+- The Bible
+- Das Kapital
+- Critique of Hegel's Philosophy of Right
+- The Condition of the Working Class in England
+- The German Ideology
+- Principles of Communism
+- Wolf Warrior 2
+- Acts of the Apostles
+- Book of Exodus
+- Epistle to the Ephesians
+- First Epistle to the Corinthians
+- The White-Haired Girl
+- The Red Lantern
+- A Touch of Sin
+- A World Without Thieves
+- Analysis of the Classes in Chinese Society
+- Report on an Investigation of the Peasant Movement in Hunan
+- Vagrant Culture and Chinese Society
+- Autumn Harvest Uprising
+people:
+- Karl Marx
+- Friedrich Engels
+- Gracchus Babeuf
+- Wilhelm Weitling
+- Yu Laoshi
+- Jesus
+- Moses
+- Adam
+- Eve
+- Adam Smith
+- David Ricardo
+- Vladimir Lenin
+- Joseph Stalin
+- Mao Zedong
+- Xi Jinping
+- Wang Ming
+- He Long
+- Hu Dahai
+- Sha Gen
+- Wang Xuetai
+- Jiang Jie
+- Liu Hulan
+- Lan Dingtian
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=FYGI5RKIRP8
 speaker: 夸克说
-tags:
-  - communist-ideology
-  - surplus-value-critique
-  - revolutionary-class
-  - political-systems
-  - religious-origins
-title: 马克思恩格斯：从宗教到“科学”的共产主义转型与批判
-summary: 本文深入探讨了共产主义思想从早期巴贝夫和魏特林的宗教化解释，到马克思和恩格斯试图将其“科学化”的演变过程。文章分析了魏特林将基督教视为共产主义革命指南的独特视角，以及他与马克思在革命主力阶层问题上的激烈辩论。通过对剩余价值理论的批判性审视，揭示了马克思理论构建中的“先射箭后画靶子”逻辑。最后，文章探讨了共产主义与邪教的共通特征，特别是其领导人“永不犯错”的个人崇拜机制。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Karl Marx
-  - Friedrich Engels
-  - Gracchus Babeuf
-  - Wilhelm Weitling
-  - Yu Laoshi
-  - Jesus
-  - Moses
-  - Adam
-  - Eve
-  - Adam Smith
-  - David Ricardo
-  - Vladimir Lenin
-  - Joseph Stalin
-  - Mao Zedong
-  - Xi Jinping
-  - Wang Ming
-  - He Long
-  - Hu Dahai
-  - Sha Gen
-  - Wang Xuetai
-  - Jiang Jie
-  - Liu Hulan
-  - Lan Dingtian
-companies_orgs:
-  - Conspiracy of Equals
-  - League of the Just
-  - Communist League
-  - Catholic Church
-  - Red Sleeve Fists
-  - Pang Donglai
-  - British Library
-products_models: []
-media_books:
-  - The Conspiracy of Equals
-  - The Communist Manifesto
-  - The Bible
-  - Das Kapital
-  - Critique of Hegel's Philosophy of Right
-  - The Condition of the Working Class in England
-  - The German Ideology
-  - Principles of Communism
-  - Wolf Warrior 2
-  - Acts of the Apostles
-  - Book of Exodus
-  - Epistle to the Ephesians
-  - First Epistle to the Corinthians
-  - The White-Haired Girl
-  - The Red Lantern
-  - A Touch of Sin
-  - A World Without Thieves
-  - Analysis of the Classes in Chinese Society
-  - Report on an Investigation of the Peasant Movement in Hunan
-  - Vagrant Culture and Chinese Society
-  - Autumn Harvest Uprising
 status: evergreen
+summary: 本文深入探讨了共产主义思想从早期巴贝夫和魏特林的宗教化解释，到马克思和恩格斯试图将其“科学化”的演变过程。文章分析了魏特林将基督教视为共产主义革命指南的独特视角，以及他与马克思在革命主力阶层问题上的激烈辩论。通过对剩余价值理论的批判性审视，揭示了马克思理论构建中的“先射箭后画靶子”逻辑。最后，文章探讨了共产主义与邪教的共通特征，特别是其领导人“永不犯错”的个人崇拜机制。
+tags:
+- geopolitical
+- political-system
+- technology
+- value
+title: 马克思恩格斯：从宗教到“科学”的共产主义转型与批判
 ---
+
 ### 共产主义的早期教主与魏特林的登场
 
 大家好，欢迎收看夸克说，我是夸克。前面两期节目，我们回顾了共产主义早期思想的五位教主。接下来，终于到了我们这个系列的高潮，也是最为大家所熟悉的马克思和恩格斯。但在介绍他俩之前，我们还得插播一位重要人物。上期节目的结尾，我们提到过**密谋社**（Conspiracy of Equals: 早期法国革命团体，主张财产公有）的一个幸存者逃到了瑞士，并将第五代核心巴贝夫的理论整理出版，搞出了一本叫《为平等而密谋》的书。这本书后来流传开来，成了全球共产主义革命者们的圣经。在巴贝夫的众多读者之中，有一个落魄的小裁缝。当他第一次读到这本书时，如遭雷击，书中的那些关于怎么造反的理论，都像是在他那颗充满仇恨却又迷茫的心里点燃了一把火。

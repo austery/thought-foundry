@@ -1,31 +1,27 @@
 ---
-title: 2023年熊市投资策略：为何我坚定定投美股指数基金？
-summary: 2023年熊市，本文阐释为何应定投美股指数基金。通过计算与历史数据，揭示熊市投资的年回报潜力，并提供实用策略与警示。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - bear-market-investing
-  - dollar-cost-averaging
-  - index-fund
-  - investment-strategy
-  - sp-500
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-12-31'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=k9P-3z_ERK8
+speaker: 一口新飯
 status: evergreen
+summary: 2023年熊市，本文阐释为何应定投美股指数基金。通过计算与历史数据，揭示熊市投资的年回报潜力，并提供实用策略与警示。
+tags:
+- cost
+- investment
+- market
+- sp-500
+title: 2023年熊市投资策略：为何我坚定定投美股指数基金？
 ---
 
 ### 熊市投资迷思与指数基金策略

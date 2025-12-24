@@ -1,74 +1,74 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- LBBW
+- 华尔街日报
+- 哥伦比亚广播公司
+- 彭博社
+- CNBC
+- 路透社
+- 经济学人
+- 香港01
+- 美国钢铁工人联合会
+- 国际机械师协会
+- 国际电工兄弟会
+- 国际锅炉工会兄弟会
+- 国土安全部
+- 国际招生管理协会
+- 国际教育工作者协会
+- 传统基金会
+- 丹麦银行
+- 中国国家计算机病毒应急处理中心
+- 太子集团
+- ARKHAM
+- 美国司法部
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 华尔街日报
+- 哥伦比亚广播公司
+- 彭博社
+- CNBC
+- 路透社
+- 经济学人
+- 香港01
+people:
+- Donald Trump
+- Bill Cassidy
+- Kevin Roberts
+- Tucker Carlson
+- Nick Fuentes
+- Hammer
+- Levin
+- Shapiro
+- 高市早苗
+- 薛建
+- 城市
+products_models:
+- 奥巴马医疗
+- 福建号航空母舰
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Pp5lnfIIDN0
 speaker: LT視界
-tags:
-  - us-government-shutdown
-  - china-economic-challenges
-  - us-china-trade
-  - wolf-warrior-diplomacy
-  - cryptocurrency-theft
-title: 全球经济政治风云：美国政府停摆、中美贸易博弈与中国经济挑战
-summary: 本期节目深入剖析了当前全球经济与政治领域的多个焦点事件。从美国政府停摆僵局对华尔街的冲击，到中美贸易谈判的最新进展，再到中国宏观经济数据（特别是通胀与PPI）所揭示的挑战。同时，节目探讨了美国新右翼思潮下的反犹太主义，以及中国“战狼外交”在国际舞台上的再度强势回归。最后，分析了中国官方就一起巨额比特币盗窃案发布的报告，揭示其背后复杂的政治意图和对中国领导人造成的舆论压力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Bill Cassidy
-  - Kevin Roberts
-  - Tucker Carlson
-  - Nick Fuentes
-  - Hammer
-  - Levin
-  - Shapiro
-  - 高市早苗
-  - 薛建
-  - 城市
-companies_orgs:
-  - LBBW
-  - 华尔街日报
-  - 哥伦比亚广播公司
-  - 彭博社
-  - CNBC
-  - 路透社
-  - 经济学人
-  - 香港01
-  - 美国钢铁工人联合会
-  - 国际机械师协会
-  - 国际电工兄弟会
-  - 国际锅炉工会兄弟会
-  - 国土安全部
-  - 国际招生管理协会
-  - 国际教育工作者协会
-  - 传统基金会
-  - 丹麦银行
-  - 中国国家计算机病毒应急处理中心
-  - 太子集团
-  - ARKHAM
-  - 美国司法部
-products_models:
-  - 奥巴马医疗
-  - 福建号航空母舰
-media_books:
-  - 华尔街日报
-  - 哥伦比亚广播公司
-  - 彭博社
-  - CNBC
-  - 路透社
-  - 经济学人
-  - 香港01
 status: evergreen
+summary: 本期节目深入剖析了当前全球经济与政治领域的多个焦点事件。从美国政府停摆僵局对华尔街的冲击，到中美贸易谈判的最新进展，再到中国宏观经济数据（特别是通胀与PPI）所揭示的挑战。同时，节目探讨了美国新右翼思潮下的反犹太主义，以及中国“战狼外交”在国际舞台上的再度强势回归。最后，分析了中国官方就一起巨额比特币盗窃案发布的报告，揭示其背后复杂的政治意图和对中国领导人造成的舆论压力。
+tags:
+- china
+- investment
+- us-china-relations
+- us-government-shutdown
+- wolf-warrior-diplomacy
+title: 全球经济政治风云：美国政府停摆、中美贸易博弈与中国经济挑战
 ---
+
 ### 全球经济事件展望：美国政府停摆与中国经济数据
 
 在新的一周开始之际，有五个重大的经济事件值得关注。首先，资本市场最关注且最担忧的是美国政府的停摆问题。随着美国政府关门时长达到破纪录的40天，华尔街开始感到不安。以往的政府关门事件多是有惊无险，但这一次，华尔街开始非常严肃地对待政府关门，并在资本市场上做出某种定价。未来一周的焦点在于，原定发布的几个关键美国宏观经济数据可能会被推迟，包括原定于周四发布的10月份通胀数据、首次申请失业救济金人数、10月份零售销售以及生产者物价指数。一系列有关通胀和就业的数据中断发布长达两个月，这给市场投资者带来了巨大的风险。如果未来某个时间数据突然恢复发布，而数据状态与市场预期出现很大反差，将给市场带来巨大波动。《华尔街日报》引述LBBW公司分析师的报告指出，现在美国地区选举已经结束，所有目光都集中在华盛顿以及陷入僵局的预算争端是否会有任何进展，这不仅对美国，对全球资本市场都会产生情绪影响。

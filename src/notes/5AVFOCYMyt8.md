@@ -1,42 +1,42 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Greenpeace
+- International Energy Agency
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《环球邮报》
+people:
+- Mark Carney
+- Danielle Smith
+- David Eby
+- Rachel Notley
+- Steven Guilbeault
+- Marilyn Slett
+products_models:
+- 切断阀门法案
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5AVFOCYMyt8
 speaker: 大伟探秘加拿大
-tags:
-  - canada-energy-policy
-  - federal-provincial-conflict
-  - pipeline-expansion
-  - indigenous-rights
-  - environmental-vs-economy
-title: 加拿大能源协议：联邦与阿省的世纪和解，BC省的宣战书
-summary: 2025年11月27日，加拿大联邦政府与阿尔伯塔省签署能源谅解备忘录，旨在修建一条通往BC省北部的新输油管道，日输送量达百万桶。该协议被视为联邦与阿省关系重置的里程碑，以高碳价换取管道建设，试图化解西部疏离感。然而，此举激怒了BC省，因其环境风险和对原住民权利的潜在侵犯。协议还面临自由党内部异议及巨大的经济挑战，可能导致国家统一面临新裂痕。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Danielle Smith
-  - David Eby
-  - Rachel Notley
-  - Steven Guilbeault
-  - Marilyn Slett
-companies_orgs:
-  - Greenpeace
-  - International Energy Agency
-products_models:
-  - 切断阀门法案
-media_books:
-  - 《环球邮报》
 status: evergreen
+summary: 2025年11月27日，加拿大联邦政府与阿尔伯塔省签署能源谅解备忘录，旨在修建一条通往BC省北部的新输油管道，日输送量达百万桶。该协议被视为联邦与阿省关系重置的里程碑，以高碳价换取管道建设，试图化解西部疏离感。然而，此举激怒了BC省，因其环境风险和对原住民权利的潜在侵犯。协议还面临自由党内部异议及巨大的经济挑战，可能导致国家统一面临新裂痕。
+tags:
+- conflict
+- economy
+- pipeline-expansion
+- policy
+- right
+title: 加拿大能源协议：联邦与阿省的世纪和解，BC省的宣战书
 ---
+
 ### 加拿大政坛与经济界的历史性大戏
 
 今天，我们将目光聚焦在2025年11月27日，这一天加拿大政坛和经济界上演了一场足以载入史册的大戏。就在这天，联邦总理**马克·卡尼**（Mark Carney: 加拿大前央行行长，现任联邦总理）与阿尔伯塔省（简称“阿省”）省长**丹尼尔·史密斯**（Danielle Smith: 阿尔伯塔省现任省长）共同签署了一份能源谅解备忘录。这不仅仅是一个签字仪式，它被视为是联邦与阿省关系彻底重置的一个里程碑，更让加拿大距离全球能源超级大国的梦想又近了一步。然而，拨开华丽的外衣，这不仅仅是一份战略协议，更像是一场充满争议的政治交易。协议的核心非常简单粗暴，就是修建一条通往BC省北部海岸的新输油管道。但是，恰恰是这条输油管道，正在加拿大西海岸撕开一道新的、甚至是可能威胁国家统一的裂痕。

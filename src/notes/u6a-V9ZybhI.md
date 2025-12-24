@@ -1,44 +1,44 @@
 ---
-author: 海伦子Hellen
+area: tech-insights
+category: technology
+companies_orgs:
+- FAA
+- SpaceX
+- Boeing
 date: '2024-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+- Everyday Astronaut
+people:
+- Donald Trump
+- Joe Biden
+- Elon Musk
+products_models:
+- Starship
+- Raptor engine
+- Falcon 9
+- Boeing 747
+project:
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=u6a-V9ZybhI
 speaker: 海伦子Hellen
-tags:
-  - starship-development
-  - reusable-rocket-technology
-  - space-launch-regulation
-  - flight-testing
-  - political-significance
-title: 星舰六飞：FAA绿灯、特朗普亲临与技术突破全解析
-summary: 星舰第六次试飞在FAA的快速审批下，仅隔37天便顺利升空，标志着SpaceX在可重复使用火箭技术上的又一里程碑。此次飞行不仅展示了星舰二级真空点火和隔热瓦测试的进展，更因美国前总统特朗普的亲临现场而增添了政治关注。尽管助推器未能实现“筷子捕获”，但SpaceX通过此次飞行积累了宝贵经验，并为未来的载人任务和火星探索奠定了基础。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - systems-thinking
-  - us-analysis
-people:
-  - Donald Trump
-  - Joe Biden
-  - Elon Musk
-companies_orgs:
-  - FAA
-  - SpaceX
-  - Boeing
-products_models:
-  - Starship
-  - Raptor engine
-  - Falcon 9
-  - Boeing 747
-media_books:
-  - X
-  - Everyday Astronaut
 status: evergreen
+summary: 星舰第六次试飞在FAA的快速审批下，仅隔37天便顺利升空，标志着SpaceX在可重复使用火箭技术上的又一里程碑。此次飞行不仅展示了星舰二级真空点火和隔热瓦测试的进展，更因美国前总统特朗普的亲临现场而增添了政治关注。尽管助推器未能实现“筷子捕获”，但SpaceX通过此次飞行积累了宝贵经验，并为未来的载人任务和火星探索奠定了基础。
+tags:
+- flight-testing
+- political
+- space
+- starship-development
+- technology
+title: 星舰六飞：FAA绿灯、特朗普亲临与技术突破全解析
 ---
+
 ### 星舰六飞：审批加速与政治关注
 
 大家好，今天我们一起来回顾一下**星舰**（Starship: SpaceX正在开发的一款完全可重复使用的超重型运载火箭系统）的第六次飞行。感觉就像刚刚才说完星舰的第五次飞行，现在就开始讨论第六次了。不过，这一次确实是间隔时间最短的一次，距离第五次飞行只有37天。毕竟第五次和第六次飞行是一起获得批准的。这事实证明，只要**FAA**（美国联邦航空管理局: 负责民用航空安全和空域管理的机构）开绿灯，发射的动作可以非常迅速。

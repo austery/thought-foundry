@@ -1,39 +1,39 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- Fraser Institute
+- Wowa
 date: '2024-03-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《麦克林杂志》
+- QS世界大学排行榜
+people:
+- Alexander Cameron Rutherford
+- Wilfrid Laurier
+products_models: []
+project:
+- market-cycles
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5dzTusm3glc
 speaker: 莊也雜談
-tags:
-  - city-comparison
-  - housing-market
-  - alberta-economy
-  - urban-development
-  - education-system
-title: 埃德蒙顿与卡尔加里：城市角色、教育实力及房产市场深度对比
-summary: 本期节目深入探讨了阿尔伯塔省两大城市埃德蒙顿和卡尔加里的多维度对比。从历史竞争到互补合作，分析了两座城市在经济、政治、文化、产业、教育等方面的差异与特色。重点剖析了埃德蒙顿的教育优势，并详细对比了两地房产市场的巨大差距。节目总结了卡尔加里房产更受追捧的三大原因，并揭示了埃德蒙顿本地居民对当前低房价和慢节奏生活的独特心态，以及对未来房产走势的展望。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - market-cycles
-  - systems-thinking
-  - historical-insights
-people:
-  - Alexander Cameron Rutherford
-  - Wilfrid Laurier
-companies_orgs:
-  - Fraser Institute
-  - Wowa
-products_models: []
-media_books:
-  - 《麦克林杂志》
-  - QS世界大学排行榜
 status: evergreen
+summary: 本期节目深入探讨了阿尔伯塔省两大城市埃德蒙顿和卡尔加里的多维度对比。从历史竞争到互补合作，分析了两座城市在经济、政治、文化、产业、教育等方面的差异与特色。重点剖析了埃德蒙顿的教育优势，并详细对比了两地房产市场的巨大差距。节目总结了卡尔加里房产更受追捧的三大原因，并揭示了埃德蒙顿本地居民对当前低房价和慢节奏生活的独特心态，以及对未来房产走势的展望。
+tags:
+- economy
+- housing-market
+- society
+- system
+- urban-development
+title: 埃德蒙顿与卡尔加里：城市角色、教育实力及房产市场深度对比
 ---
+
 ### 埃德蒙顿与卡尔加里的城市角色与关系
 
 大家好，我是庄也，欢迎收看庄也杂谈加拿大系列节目。今天我们继续城市系列，来聊聊埃德蒙顿的最后一集。其实我本来打算将埃德蒙顿系列分为上下两集，结果上集讲到一半，因为内容太多，于是分成了上中下三集。不过也正因为如此，才抛砖引玉，引来了不少有营养价值的留言，让我对这个城市有了更深层次的理解和收获。

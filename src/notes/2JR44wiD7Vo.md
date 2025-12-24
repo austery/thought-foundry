@@ -1,52 +1,51 @@
 ---
-author: 老周横眉
+area: personal-systems
+category: finance
+companies_orgs:
+- 星巴克
+- 蜜雪冰城
+- 大王茶鸡
+- 喜茶
+- 北京大学
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Buffett
+- 李嘉诚
+- 王歪嘴
+- 方德言
+- 悉尼奶爸
+- 五岳散人
+products_models:
+- ChatGPT
+- Excel
+- YouTube
+- Twitter
+- 支付宝
+- 闲鱼
+- Touch and Go
+- Nasdaq
+- 标普500
+project:
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=2JR44wiD7Vo
 speaker: 老周横眉
-tags:
-  - wealth-accumulation
-  - financial-freedom
-  - passive-income
-  - productivity-tools
-  - long-term-execution
-title: 普通人如何实现财务自由？老周横眉揭示8大致富之道
-summary: 本视频深入探讨普通人实现财务自由的八大核心原则。从巴菲特的财富积累故事出发，强调财富并非一夜暴富，而是长期系统性努力的结果。内容涵盖解决系统性问题、善用工具提升效率、聚焦赚钱而非省钱、创造睡后收入、坚持长期积累、重视执行力、明智借贷以及通过记录追踪指明方向。老周横眉结合自身投资和自媒体的实践案例，为观众提供了具体可行的致富策略和思维模式。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: personal-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Buffett
-  - 李嘉诚
-  - 王歪嘴
-  - 方德言
-  - 悉尼奶爸
-  - 五岳散人
-companies_orgs:
-  - 星巴克
-  - 蜜雪冰城
-  - 大王茶鸡
-  - 喜茶
-  - 北京大学
-products_models:
-  - ChatGPT
-  - Excel
-  - YouTube
-  - Twitter
-  - 支付宝
-  - 闲鱼
-  - Touch and Go
-  - Nasdaq
-  - 标普500
-media_books: []
 status: evergreen
+summary: 本视频深入探讨普通人实现财务自由的八大核心原则。从巴菲特的财富积累故事出发，强调财富并非一夜暴富，而是长期系统性努力的结果。内容涵盖解决系统性问题、善用工具提升效率、聚焦赚钱而非省钱、创造睡后收入、坚持长期积累、重视执行力、明智借贷以及通过记录追踪指明方向。老周横眉结合自身投资和自媒体的实践案例，为观众提供了具体可行的致富策略和思维模式。
+tags:
+- financial-freedom
+- income
+- long
+- tool
+- wealth-accumulation
+title: 普通人如何实现财务自由？老周横眉揭示8大致富之道
 ---
+
 ### 财富积累的真相：巴菲特的复利启示
 
 让我们先来看一个事实：**巴菲特**在11岁时就买了他人生中的第一支股票，但他目前1500亿美元的财富中，有99%是在他50岁之后才赚到的。

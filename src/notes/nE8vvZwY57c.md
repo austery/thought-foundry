@@ -1,36 +1,35 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国农业发展银行
+- 中国人民银行
+- 城投
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《让子弹飞》
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=nE8vvZwY57c
 speaker: 夸克说
-tags:
-  - state-owned-assets-reform
-  - local-government-debt
-  - financial-system-risk
-  - economic-stagnation
-  - asset-securitization
-title: 8.9亿天价淤泥拍卖：揭秘中国国资改革如何变相“打劫”民众
-summary: 本文深入剖析了中国地方政府在财政吃紧背景下，通过“国有资源资产化、国有资产资本化、国有资金杠杆化”的“三次改革”进行融资的现象。以黑龙江伊安县天价水库淤泥处置权拍卖为例，揭示了这类“点泥成金”的背后逻辑——将低效资产包装抵押以获取银行贷款，最终通过金融系统将成本转嫁给普通民众，导致挤出效应、福利缩减和股市“割韭菜”等问题，加剧了失业和通缩。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people: []
-companies_orgs:
-  - 中国农业发展银行
-  - 中国人民银行
-  - 城投
-products_models: []
-media_books:
-  - 《让子弹飞》
 status: evergreen
+summary: 本文深入剖析了中国地方政府在财政吃紧背景下，通过“国有资源资产化、国有资产资本化、国有资金杠杆化”的“三次改革”进行融资的现象。以黑龙江伊安县天价水库淤泥处置权拍卖为例，揭示了这类“点泥成金”的背后逻辑——将低效资产包装抵押以获取银行贷款，最终通过金融系统将成本转嫁给普通民众，导致挤出效应、福利缩减和股市“割韭菜”等问题，加剧了失业和通缩。
+tags:
+- asset
+- economic-stagnation
+- government
+- state
+- system
+title: 8.9亿天价淤泥拍卖：揭秘中国国资改革如何变相“打劫”民众
 ---
+
 ### 地方财政告急与“三次改革”的启动
 
 大家好，欢迎收看夸克说。前段时间，湖北省开始启动**“三次改革”**（全称：国有资源资产化、国有资产资本化、国有资金杠杆化），这被视为中共推动国资改革的第一枪。说好听点，这叫盘活国有资产；说直白点，就是拿所谓的国有资产当幌子，从民间搞钱。尽管政府财政吃紧已不是什么秘密，但如此急迫的语气，着实令人意外，这说明各级财政钱袋子里的紧张程度可能比我们想象的更严重。

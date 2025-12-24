@@ -1,78 +1,78 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- NATO
+- Apple
+- Samsung
+- Xiaomi
+- Alphabet
+- Nvidia
+- Tesla
+- X
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《彭博社》
+- 《路透社》
+- 《经济学人》
+- 《国会山报》
+- 《纽约时报》
+- 《雅虎财经》
+- 《财新网》
+- 《求是》
+- 《新华社》
+- 《华盛顿邮报》
+- 《塔斯社》
+people:
+- Donald Trump
+- Kevin Hassett
+- Vance
+- Hogsett
+- Bradly
+- Kaine
+- Roger Wicker
+- Jack Reed
+- Levitt
+- Elon Musk
+- Vladimir Putin
+- Jared Kushner
+- Peskoff
+- Pistorius
+- Macron
+- 徐欣欣
+- 陈某某
+- 于凯
+- 杨辉
+- Xi Jinping
+- 张又侠
+- Michael Erik Kurilla
+products_models:
+- Signal
+- 沟通伙伴
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=7zNG4_dJbsA
 speaker: LT視界
-tags:
-  - us-china-relations
-  - political-control
-  - geopolitical-conflicts
-  - government-surveillance
-  - political-economy
-title: 国际局势动荡与中国政治风云：从油价、乌战到内部清洗
-summary: 本文深入探讨了当前复杂的国际局势与中国国内政治动态。从国际油价受地缘政治影响、美联储主席人选的政治考量，到乌克兰战争的最新进展及其对欧洲的深远影响。同时，文章关注美国国防部长霍格塞斯的争议事件、印度政府强制预装应用引发的隐私担忧，以及中美贸易战的最新摩擦。特别聚焦中国徐欣欣“被精神病”案的官方回应，并剖析习近平在《求是》杂志发表的“自我革命”文章，揭示其背后对绝对忠诚的病态追求和新一轮政治清洗的动员。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Kevin Hassett
-  - Vance
-  - Hogsett
-  - Bradly
-  - Kaine
-  - Roger Wicker
-  - Jack Reed
-  - Levitt
-  - Elon Musk
-  - Vladimir Putin
-  - Jared Kushner
-  - Peskoff
-  - Pistorius
-  - Macron
-  - 徐欣欣
-  - 陈某某
-  - 于凯
-  - 杨辉
-  - 习近平
-  - 张又侠
-  - Michael Erik Kurilla
-companies_orgs:
-  - Federal Reserve
-  - NATO
-  - Apple
-  - Samsung
-  - Xiaomi
-  - Alphabet
-  - Nvidia
-  - Tesla
-  - X
-products_models:
-  - Signal
-  - 沟通伙伴
-media_books:
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《路透社》
-  - 《经济学人》
-  - 《国会山报》
-  - 《纽约时报》
-  - 《雅虎财经》
-  - 《财新网》
-  - 《求是》
-  - 《新华社》
-  - 《华盛顿邮报》
-  - 《塔斯社》
 status: evergreen
+summary: 本文深入探讨了当前复杂的国际局势与中国国内政治动态。从国际油价受地缘政治影响、美联储主席人选的政治考量，到乌克兰战争的最新进展及其对欧洲的深远影响。同时，文章关注美国国防部长霍格塞斯的争议事件、印度政府强制预装应用引发的隐私担忧，以及中美贸易战的最新摩擦。特别聚焦中国徐欣欣“被精神病”案的官方回应，并剖析习近平在《求是》杂志发表的“自我革命”文章，揭示其背后对绝对忠诚的病态追求和新一轮政治清洗的动员。
+tags:
+- geopolitical-conflict
+- government
+- political-control
+- political-economy
+- us-china-relations
+title: 国际局势动荡与中国政治风云：从油价、乌战到内部清洗
 ---
+
 ### 财经头条：国际油价、美联储与马斯克荐股
 
 首先，我们来了解今天的财经头条，有三个方面的最新信息与网友分享。

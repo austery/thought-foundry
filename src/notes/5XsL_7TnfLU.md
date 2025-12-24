@@ -1,61 +1,59 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
+- Microsoft
+- NASA
 date: '2024-08-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人类的废止》
+- 《灰熊人》
+- 《反对规范实在论者的赌注》
+- 《AGI时代的异质性与控制》
+people:
+- Joe Carlsmith
+- Eliezer Yudkowsky
+- C.S. Lewis
+- Nietzsche
+- Carl Schulman
+- Sam Altman
+- Mao
+- Stalin
+- Derek Parfit
+- Aristotle
+- Michael Nielsen
+- Sean Carroll
+- Timothy Treadwell
+- Dave Chalmers
+- Nick Land
+- SBF
+- Dominic Cummings
+- Jefferson
+products_models:
+- GPT-4
+- GPT-8
+- RLHF
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=5XsL_7TnfLU
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-safety
-  - moral-philosophy
-  - power-dynamics
-  - consciousness
-title: AI接管的风险与对齐：哲学视角下的未来展望
-summary: 这段对话深入探讨了AI失控的风险、对齐的挑战以及AI与人类价值观的复杂关系。嘉宾Joe Carlsmith从哲学角度分析了AI代理性、规划能力及其动机的五种可能性，并讨论了权力平衡、道德患者身份、意识本质以及人类文明未来发展方向等议题，强调了在AI时代保持谨慎、包容和合作的重要性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Joe Carlsmith
-  - Dwarkesh Patel
-  - Eliezer Yudkowsky
-  - C.S. Lewis
-  - Nietzsche
-  - Carl Schulman
-  - Sam Altman
-  - Mao
-  - Stalin
-  - Derek Parfit
-  - Aristotle
-  - Michael Nielsen
-  - Sean Carroll
-  - Timothy Treadwell
-  - Dave Chalmers
-  - Nick Land
-  - SBF
-  - Dominic Cummings
-  - Jefferson
-companies_orgs:
-  - OpenAI
-  - Google
-  - Microsoft
-  - NASA
-products_models:
-  - GPT-4
-  - GPT-8
-  - RLHF
-media_books:
-  - 《人类的废止》
-  - 《灰熊人》
-  - 《反对规范实在论者的赌注》
-  - 《AGI时代的异质性与控制》
 status: evergreen
+summary: 这段对话深入探讨了AI失控的风险、对齐的挑战以及AI与人类价值观的复杂关系。嘉宾Joe Carlsmith从哲学角度分析了AI代理性、规划能力及其动机的五种可能性，并讨论了权力平衡、道德患者身份、意识本质以及人类文明未来发展方向等议题，强调了在AI时代保持谨慎、包容和合作的重要性。
+tags:
+- ai-safety
+- consciousness
+- philosophy
+- power-dynamic
+title: AI接管的风险与对齐：哲学视角下的未来展望
 ---
+
 今天我与**乔·卡尔史密斯**（Joe Carlsmith: 一位哲学家）聊天。他是一位在我看来，堪称“大写字母G”的伟大哲学家。你可以在 **joecarlsmith.com** 上找到他的文章。我们现在有 **GPT-4**，它看起来不像一个“回形针制造者”**（Paperclipper: 指一个目标单一且极端的AI，例如将宇宙中所有物质转化为回形针）**。它理解人类价值观。事实上，你可以让它解释为什么成为一个回形针制造者是坏事，或者让它解释为什么不应该把整个星系变成回形针。那么，要发生什么，才能最终出现一个系统接管世界，并将其转化为毫无价值的东西呢？
 
 ### AI失控的担忧

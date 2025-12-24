@@ -1,33 +1,32 @@
 ---
-title: 沃伦参议员：特朗普政府的阿根廷协议与国内政策皆失民心
-summary: 沃伦参议员批评特朗普政府向阿根廷提供200亿美元援助，称其损害美国农民利益。她呼吁国会就此投票，并强调政府不应通过削减医保和干预地方治理来压制异见，而是应服务美国人民。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- us-analysis
-tags:
-- argentina-bailout
-- elizabeth-warren
-- federal-power
-- healthcare-policy
-- us-foreign-policy
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-14'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=9KzFV4qzc9w
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 沃伦参议员批评特朗普政府向阿根廷提供200亿美元援助，称其损害美国农民利益。她呼吁国会就此投票，并强调政府不应通过削减医保和干预地方治理来压制异见，而是应服务美国人民。
+tags:
+- geopolitical
+- healthcare-policy
+- llm
+- power
+- us-foreign-policy
+title: 沃伦参议员：特朗普政府的阿根廷协议与国内政策皆失民心
 ---
+
 ### 对阿根廷援助的质疑
 
 Interviewer: Senator, it's good to see you. Welcome back to Bloomberg TV and Radio. You sure seem to be top of mind, if not top of word, every time the President speaks lately. I want to ask you about your effort to quash this bailout, as many are calling it, for Argentina. The President said today, and this is a direct quote, "just helping a great philosophy take over a great country. We don't have to do it," he said. "It's not going to make a big difference for our country." How many Republicans, how many America First Republicans, did you get to sign on?

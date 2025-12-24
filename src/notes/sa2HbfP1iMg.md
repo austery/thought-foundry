@@ -1,31 +1,28 @@
 ---
-title: 进化与语言的联系：冗余、遗迹与杂交
-summary: 约翰·麦克沃特与理查德·道金斯探讨了语言演变与生物进化之间的惊人相似之处，涵盖了冗余特征、遗迹元素以及物种/语言分化的机制，并质疑了原始语言的纯粹性。
 area: null
 category: null
-project: []
-tags:
-- biological-evolution
-- evolution-of-language
-- linguistic-evolution
-- proto-indo-european
-people:
-- john-mcwhorter
-- richard-dawkins
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-12'
-author: TED
-speaker: TED
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- john-mcwhorter
+- richard-dawkins
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sa2HbfP1iMg
+speaker: TED
 status: evergreen
+summary: 约翰·麦克沃特与理查德·道金斯探讨了语言演变与生物进化之间的惊人相似之处，涵盖了冗余特征、遗迹元素以及物种/语言分化的机制，并质疑了原始语言的纯粹性。
+tags:
+- evolution
+- geopolitical
+title: 进化与语言的联系：冗余、遗迹与杂交
 ---
+
 ### 开场与语言的“冗余”
 
 John McWhorter: Richard, let's just jump right in, as they say at the beginning of interviews like this.

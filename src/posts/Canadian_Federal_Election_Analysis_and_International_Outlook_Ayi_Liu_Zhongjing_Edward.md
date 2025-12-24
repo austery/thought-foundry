@@ -5,15 +5,13 @@ area: null
 category: null
 project: []
 tags:
-  - 加拿大
-  - 国际格局
-  - 种族问题
-  - 联邦大选
-  - 贸易
-people: []
+- canada
+- society
+- 国际格局
+- 联邦大选
+- 贸易
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: null
@@ -24,6 +22,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 <div class="speaker-intro">
 
 **提问者：**Edward

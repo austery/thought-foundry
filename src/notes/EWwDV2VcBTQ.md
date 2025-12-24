@@ -1,44 +1,44 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- FBI
+- 俄罗斯黑手党
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《判断人心：一位资深FBI特工的行为预测用户手册》
+people:
+- Robin Dreeke
+- Lenny Hatton
+- John O'Neill
+- 李大眼
+- 王歪嘴
+- 徐晓东
+- Ronald Reagan
+products_models:
+- 行为分析项目
+project:
+- personal-growth-lab
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=EWwDV2VcBTQ
 speaker: 北美王路飞
-tags:
-  - behavior-prediction
-  - trust-redefinition
-  - human-nature-complexity
-  - fbi-methodology
-  - interpersonal-skills
-title: FBI顶级探员的识人系统：6步让你不再看错人
-summary: 本文深入探讨前FBI反情报主管罗宾·德里克提出的识人系统。从911事件的亲身经历出发，德里克颠覆了传统信任观，将其定义为“可预测性”。他揭示了人性的复杂性与伪装，并提出了“所有人都会为自己的最佳利益行事”这一黄金法则。文章详细阐述了FBI行为预测的六大信号（利益捆绑、长期意愿、可靠性、行为模式、沟通方式、情绪稳定），以及“坚忍共情”这一核心心态，旨在帮助读者理性分析他人行为，从而做出更明智的判断，保护自己并建立可靠关系。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - historical-insights
-people:
-  - Robin Dreeke
-  - Lenny Hatton
-  - John O'Neill
-  - 李大眼
-  - 王歪嘴
-  - 徐晓东
-  - Ronald Reagan
-companies_orgs:
-  - FBI
-  - 俄罗斯黑手党
-products_models:
-  - 行为分析项目
-media_books:
-  - 《判断人心：一位资深FBI特工的行为预测用户手册》
 status: evergreen
+summary: 本文深入探讨前FBI反情报主管罗宾·德里克提出的识人系统。从911事件的亲身经历出发，德里克颠覆了传统信任观，将其定义为“可预测性”。他揭示了人性的复杂性与伪装，并提出了“所有人都会为自己的最佳利益行事”这一黄金法则。文章详细阐述了FBI行为预测的六大信号（利益捆绑、长期意愿、可靠性、行为模式、沟通方式、情绪稳定），以及“坚忍共情”这一核心心态，旨在帮助读者理性分析他人行为，从而做出更明智的判断，保护自己并建立可靠关系。
+tags:
+- canada
+- fbi-methodology
+- human-nature-complexity
+- skill
+- trust
+title: FBI顶级探员的识人系统：6步让你不再看错人
 ---
+
 ### 引言：识人困境与核心问题
 
 大家好，欢迎来到我的频道。本期节目将深入探讨FBI顶级探员的终极识人术。首先，我们扪心自问：你是否真的了解你身边的这些人？无论是你的老板、同事、合作伙伴，甚至是你的另一半。你是否也曾信心满满地将后背交给某人，结果却被伤得体无完肤？为什么我们总是会看错人？为什么那些我们自认为最了解的人，总在关键时刻做出让我们大跌眼镜的事情？

@@ -1,44 +1,44 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国共产党
+- 佛教协会
+- 上海戏剧学院
+- 爱奇艺
 date: '2025-07-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《唱支电音给党听》
+people:
+- 张内咸
+- 游本昌
+- 济公
+- 周星驰
+- Xi Jinping
+- 马三立
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=nqA9YILx_3I
 speaker: 張内咸
-tags:
-  - chinese-society-critique
-  - political-ideology
-  - economic-stagnation
-  - reform-and-opening
-  - cultural-conservatism
-title: 从体检焦虑到社会批判：中国“改革开放”的语义错乱与“砸窗者”的隐喻
-summary: 张内咸从一次体检的个人焦虑出发，深入剖析中国社会在健康、价值观和政治经济层面的深层问题。他批判了商业医疗的过度推销、社会对“进步”和“开放”定义的扭曲，并以游本昌晚年入党为例，揭示了权力对个人操守的侵蚀。通过对比北京与天津的城市气质，他探讨了真正的“开放”应是减少管制。最后，他以高铁故障砸窗事件为隐喻，呼吁民营企业家成为打破僵局、推动社会“喘息”的“流氓”先行者，强调勇气与开放心态的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 张内咸
-  - 游本昌
-  - 济公
-  - 周星驰
-  - 习近平
-  - 马三立
-companies_orgs:
-  - 中国共产党
-  - 佛教协会
-  - 上海戏剧学院
-  - 爱奇艺
-products_models: []
-media_books:
-  - 《唱支电音给党听》
 status: evergreen
+summary: 张内咸从一次体检的个人焦虑出发，深入剖析中国社会在健康、价值观和政治经济层面的深层问题。他批判了商业医疗的过度推销、社会对“进步”和“开放”定义的扭曲，并以游本昌晚年入党为例，揭示了权力对个人操守的侵蚀。通过对比北京与天津的城市气质，他探讨了真正的“开放”应是减少管制。最后，他以高铁故障砸窗事件为隐喻，呼吁民营企业家成为打破僵局、推动社会“喘息”的“流氓”先行者，强调勇气与开放心态的重要性。
+tags:
+- chinese
+- cultural
+- economic-stagnation
+- political
+- reform
+title: 从体检焦虑到社会批判：中国“改革开放”的语义错乱与“砸窗者”的隐喻
 ---
+
 ### 从体检焦虑到“朋克养生”
 
 大家好，我是张内咸，我们又见面了。前几天我做了一次全面的体检，检查了心脏、血压、肝肾功能、口腔和超声等诸多项目。通过体检，我们可以了解自己的身体状况，尤其是提前筛查潜在的癌症风险，这真的很可怕。那些医疗健康类的博主通常会建议35岁以上的人每年做一次定期体检。

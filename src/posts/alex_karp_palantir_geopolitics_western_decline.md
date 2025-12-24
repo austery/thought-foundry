@@ -1,36 +1,35 @@
 ---
-title: Alex Karp on Palantir, Geopolitics, and the Decline of the West
-summary: Palantir CEO Alex Karp discusses the company's philosophy, controversies
-  surrounding its work on border security and national defense, the geopolitical landscape
-  with China, and his views on why Western civilization, particularly in Europe, is
-  facing a crisis of confidence and meritocracy.
-area: market-analysis
-category: geopolitics
-project:
-- geopolitics-watch
-tags:
-- civil-liberties
-- geopolitics
-- national-security
-- western-civilization
-people:
-  - Host
-  - Alex Karp
+area: society-thinking
+author: Lei
+category: politics-society
 companies_orgs:
 - palantir
-products_models: []
-media_books: []
 date: 2025-09-23
-author: Lei
-speaker: ''
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Host
+- Alex Karp
+products_models: []
+project:
+- geopolitics-watch
 series: null
 source: null
+speaker: ''
 status: evergreen
+summary: Palantir CEO Alex Karp discusses the company's philosophy, controversies
+  surrounding its work on border security and national defense, the geopolitical landscape
+  with China, and his views on why Western civilization, particularly in Europe, is
+  facing a crisis of confidence and meritocracy.
+tags:
+- civil-liberty
+- national-security
+- society
+title: Alex Karp on Palantir, Geopolitics, and the Decline of the West
 ---
+
 ## Introduction: The Palantir Phenomenon
 
 Sometimes traditional stock analysis just lets you down. That's how I feel about the stock of Palantir. A billion dollars in quarterly revenue for the first time ever. The stock has just ripped. They have delivered here beyond the expectation, and the expectations were obviously remarkably high. Karp's the kind of guy who kicks you know what and then he gets in your face afterwards and he tells you that he just did that.

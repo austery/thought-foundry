@@ -1,43 +1,39 @@
 ---
-author: Veritasium
-date: '2023-07-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DxL2HoqLbyA
-speaker: Veritasium
-tags:
-  - veritasium
-  - entropy
-  - thermodynamics
-  - heat-death-of-universe
-  - arrow-of-time
-  - life-and-entropy
-title: 物理学中最被误解的概念：熵
-summary: 本文深入探讨了物理学中一个核心但常被误解的概念——熵。从地球从太阳获取能量的日常现象出发，追溯了卡诺热机、热力学定律的发现历程，解释了熵作为能量分散程度的衡量，以及它如何决定时间的方向、宇宙的演化，乃至生命存在的根本原因。文章还讨论了宇宙的低熵起源、黑洞与熵的关系，以及复杂性如何在熵增加的过程中涌现。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Sadi Carnot
-  - Napoleon
-  - Lord Kelvin
-  - Rudolf Clausius
-  - Ludwig Boltzmann
-  - Jacob Bekenstein
-  - Stephen Hawking
-  - Jeremy England
+category: science
 companies_orgs:
-  - Brilliant.org
+- Brilliant.org
+date: '2023-07-01'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Sadi Carnot
+- Napoleon
+- Lord Kelvin
+- Rudolf Clausius
+- Ludwig Boltzmann
+- Jacob Bekenstein
+- Stephen Hawking
+- Jeremy England
 products_models:
-  - Thinking in Code
-media_books: []
+- Thinking in Code
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=DxL2HoqLbyA
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了物理学中一个核心但常被误解的概念——熵。从地球从太阳获取能量的日常现象出发，追溯了卡诺热机、热力学定律的发现历程，解释了熵作为能量分散程度的衡量，以及它如何决定时间的方向、宇宙的演化，乃至生命存在的根本原因。文章还讨论了宇宙的低熵起源、黑洞与熵的关系，以及复杂性如何在熵增加的过程中涌现。
+tags:
+- life
+- science
+- time
+title: 物理学中最被误解的概念：熵
 ---
+
 ### 物理学中最被误解的概念：熵
 
 这是一个关于物理学中最重要的概念之一，但它却最不为人所理解。

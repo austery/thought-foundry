@@ -1,45 +1,44 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 康华公司
 date: '2025-05-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《论美国的民主》
+- 《中国日报》
+people:
+- 马德佳
+- 毛泽东
+- 邓小平
+- 刘少奇
+- 邓朴方
+- 托克维尔
+- 阿克顿勋爵
+- 胡星斗
+- 黄安刚
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=NsO9oHp9rM8
 speaker: 东京人文论坛
-tags:
-  - power-abuse
-  - relative-deprivation
-  - status-based-society
-  - corruption-motivation
-  - illegal-privilege
-title: 中国腐败模式的变迁：从毛时代的特权到改革开放后的“新特权”
-summary: 本讲座深入剖析了中国腐败问题的历史变迁。主讲人马德佳指出，毛泽东时代并非清廉如水，高层干部虽因制度性特权而缺少经济腐败动机，但滥用职权现象严重，且基层经济腐败普遍存在。改革开放后，旧有的身份制社会崩塌，社会评价标准转向以金钱为核心，导致官员群体产生强烈的“相对剥夺感”，从而催生了大规模的经济腐败。文章最后提出，腐败在当代已演变为一种被普遍默认的、非法的“新特权”。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 马德佳
-  - 毛泽东
-  - 邓小平
-  - 刘少奇
-  - 邓朴方
-  - 托克维尔
-  - 阿克顿勋爵
-  - 胡星斗
-  - 黄安刚
-companies_orgs:
-  - 康华公司
-products_models: []
-media_books:
-  - 《论美国的民主》
-  - 《中国日报》
 status: evergreen
+summary: 本讲座深入剖析了中国腐败问题的历史变迁。主讲人马德佳指出，毛泽东时代并非清廉如水，高层干部虽因制度性特权而缺少经济腐败动机，但滥用职权现象严重，且基层经济腐败普遍存在。改革开放后，旧有的身份制社会崩塌，社会评价标准转向以金钱为核心，导致官员群体产生强烈的“相对剥夺感”，从而催生了大规模的经济腐败。文章最后提出，腐败在当代已演变为一种被普遍默认的、非法的“新特权”。
+tags:
+- canada
+- power
+- psychology
+- society
+title: 中国腐败模式的变迁：从毛时代的特权到改革开放后的“新特权”
 ---
+
 ### 开场白：学术出版的困境
 
 大家下午好，我叫马德佳，现在在立教大学担任非常勤讲师。首先，我要感谢东京人文论坛这个公益平台，帮助我出版了这本书，非常感谢。

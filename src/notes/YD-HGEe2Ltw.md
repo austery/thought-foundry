@@ -1,67 +1,67 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- ADP
+- ISM
+- 美联储
+- 北约
+- 欧盟
+- 中国网信办
+- 驻港国安公署
+- 中国红十字会
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 彭博社
+- 路透社
+- 《经济学人》
+- 中新社
+- 《中国中央电视台》
+- 《华盛顿邮报》
+people:
+- Donald Trump
+- Nela Richardson
+- Vladimir Putin
+- Ushakov
+- Dmitry Peskov
+- J.D. Vance
+- George W. Bush
+- Chen Shui-bian
+- Lai Ching-te
+- Xi Jinping
+- Mike Pompeo
+- 林剑
+- 高市早苗
+- 胡承峰
+- 郭美美
+- 张雪峰
+- 李家超
+- 温家宝
+- 谢树立
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=YD-HGEe2Ltw
 speaker: LT視界
-tags:
-  - transatlantic-relations
-  - internet-censorship
-  - currency-appreciation
-  - geopolitical-shifts
-  - us-china-relations
-title: 全球经济与地缘政治：美欧分歧、人民币升值及中共舆论管制深度解析
-summary: 本期节目深入探讨了多项全球热点议题。经济方面，分析了美国劳动力市场放缓、服务业回升及美联储扭亏为盈的动态，并重点解析了人民币出人意料的强劲升值及其深层原因。地缘政治方面，节目关注美俄乌克兰和平谈判的僵局，以及美欧之间日益加剧的意识形态和战略分歧。此外，还讨论了中共对网络舆论的严厉管制，以及中美台关系中的微妙变化。主持人LT视界对这些事件进行了独到解读，并对未来趋势做出展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Nela Richardson
-  - Vladimir Putin
-  - Ushakov
-  - Dmitry Peskov
-  - J.D. Vance
-  - George W. Bush
-  - Chen Shui-bian
-  - Lai Ching-te
-  - Xi Jinping
-  - Mike Pompeo
-  - 林剑
-  - 高市早苗
-  - 胡承峰
-  - 郭美美
-  - 张雪峰
-  - 李家超
-  - 温家宝
-  - 谢树立
-companies_orgs:
-  - ADP
-  - ISM
-  - 美联储
-  - 北约
-  - 欧盟
-  - 中国网信办
-  - 驻港国安公署
-  - 中国红十字会
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 彭博社
-  - 路透社
-  - 《经济学人》
-  - 中新社
-  - 《中国中央电视台》
-  - 《华盛顿邮报》
 status: evergreen
+summary: 本期节目深入探讨了多项全球热点议题。经济方面，分析了美国劳动力市场放缓、服务业回升及美联储扭亏为盈的动态，并重点解析了人民币出人意料的强劲升值及其深层原因。地缘政治方面，节目关注美俄乌克兰和平谈判的僵局，以及美欧之间日益加剧的意识形态和战略分歧。此外，还讨论了中共对网络舆论的严厉管制，以及中美台关系中的微妙变化。主持人LT视界对这些事件进行了独到解读，并对未来趋势做出展望。
+tags:
+- currency
+- geopolitical-shift
+- internet-censorship
+- relations
+- us-china-relations
+title: 全球经济与地缘政治：美欧分歧、人民币升值及中共舆论管制深度解析
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月3日，我们首先来了解今天的财经头条。有三个方面的最新信息与网友分享。
 
 ### 美国经济与美联储动态

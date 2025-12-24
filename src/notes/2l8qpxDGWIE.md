@@ -1,26 +1,25 @@
 ---
+area: ''
 author: Lei
+category: ''
+created: 1984-01-24T03:00
 date: 2025-07-10
-guest: 
-insight:
+guest: null
+insight: null
 layout: post.njk
-series:
+project: 知行小酒馆
+series: null
 source: https://www.youtube.com/watch?v=2l8qpxDGWIE
 speaker: 知行小酒馆
-summary:
-tags:
-  - 人工智能
-  - Prompt
-  - 知行小酒馆
-
-title: E193 AI时代，“一人独角兽”是幻想还是未来？
-created: 1984-01-24T03:00
-updated: 2025-09-01T13:04
-area: ""
-project: 知行小酒馆
-category: ""
 status: evergreen
+summary: null
+tags:
+- ai
+- llm
+title: E193 AI时代，“一人独角兽”是幻想还是未来？
+updated: 2025-09-01T13:04
 ---
+
 ## 引言：一场关于“一人独角兽”的思维实验
 
 **雨白:**

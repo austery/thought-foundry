@@ -1,19 +1,20 @@
 ---
-title: 20251101_Office Hour：AI又“进化”了！如何跟上脚步？
-source: https://www.youtube.com/watch?v=Paa-17FrDBU
-speaker: 用AI發電
-author:
+area: tech-engineering
+author: null
+category: ai-ml
 date: 2025-11-01
-published:
-summary: 欢迎来到本周的实践分享会！本次分享会深入探讨了 AI 辅助编程的最新动向和核心“心法”。Mike Chong 和社群成员们分享了从 Google、OpenAI 的最新工具，到“单打独斗”时如何解决 UI 设计、安全和顽固 Bug 的高级战术。这份实战手册将为你提炼这场分享的精髓。你将学到的不仅仅是工具的罗列，更是一种全新的思维模式——**从依赖特定工具，转向掌握可跨平台复用的“Vibe Coding”心法**。无论你是刚入门的小白还是经验丰富的开发者，这份手册都将帮你更快地驾驭 AI，让它成为你最强大的编码伙伴
-tags:
-  - ai-coding
-status: inbox
-area: tech-insights
-category: technology
+layout: post.njk
 project:
 - ai-impact-analysis
-layout: post.njk
+published: null
+source: https://www.youtube.com/watch?v=Paa-17FrDBU
+speaker: 用AI發電
+status: inbox
+summary: 欢迎来到本周的实践分享会！本次分享会深入探讨了 AI 辅助编程的最新动向和核心“心法”。Mike Chong 和社群成员们分享了从 Google、OpenAI
+  的最新工具，到“单打独斗”时如何解决 UI 设计、安全和顽固 Bug 的高级战术。这份实战手册将为你提炼这场分享的精髓。你将学到的不仅仅是工具的罗列，更是一种全新的思维模式——**从依赖特定工具，转向掌握可跨平台复用的“Vibe
+  Coding”心法**。无论你是刚入门的小白还是经验丰富的开发者，这份手册都将帮你更快地驾驭 AI，让它成为你最强大的编码伙伴
+tags: []
+title: 20251101_Office Hour：AI又“进化”了！如何跟上脚步？
 ---
 
 ### 导语：从"工具使用者"到"心法掌握者"

@@ -1,40 +1,39 @@
 ---
-author: 投资TALK君
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 彭博
+- 美联储
+- FactSet
+- S&P 500
 date: '2025-03-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Daily Uncertainty Index
+- translation
+people:
+- 鲍威尔
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=-4tRFHTpYvc
 speaker: 投资TALK君
-tags:
-  - macroeconomic-data
-  - inflation-outlook
-  - earnings-season
-  - market-valuation
-  - monetary-policy
-title: CPI数据与市场展望：通胀、盈利与估值深度解析
-summary: 本期内容对即将公布的宏观数据（CPI、PPI、密歇根调查指数）进行展望，并总结了第四季度财报对2025年EPS增速的调整。文章深入分析了当前通胀的顽固性与经济增速放缓并存的风险，探讨了市场不确定性对股市的影响，并结合PE估值分析，为投资者提供了当前市场环境下的策略思考。同时，也提及了实时通胀数据与基数效应，以及美联储对通胀数据的态度。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - 鲍威尔
-companies_orgs:
-  - 彭博
-  - 美联储
-  - FactSet
-  - S&P 500
-products_models: []
-media_books:
-  - Daily Uncertainty Index
-  - translation
 status: evergreen
+summary: 本期内容对即将公布的宏观数据（CPI、PPI、密歇根调查指数）进行展望，并总结了第四季度财报对2025年EPS增速的调整。文章深入分析了当前通胀的顽固性与经济增速放缓并存的风险，探讨了市场不确定性对股市的影响，并结合PE估值分析，为投资者提供了当前市场环境下的策略思考。同时，也提及了实时通胀数据与基数效应，以及美联储对通胀数据的态度。
+tags:
+- earnings-season
+- financial
+- inflation-outlook
+- market-valuation
+title: CPI数据与市场展望：通胀、盈利与估值深度解析
 ---
+
 ### 本期内容概览：宏观数据、财报与市场估值展望
 
 各位观众大家好，欢迎来到一个不单止聊新闻的专业美股频道。本期内容将主要对本周即将公布的一些宏观数据进行展望，主要包括**消费者物价指数**（CPI: Consumer Price Index，衡量消费者购买商品和服务价格变化的指标）、**生产者物价指数**（PPI: Producer Price Index，衡量生产者在生产过程中所需商品和服务价格变化的指标）以及密歇根的调查指数。

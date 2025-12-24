@@ -1,36 +1,36 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Google Labs
+- Google
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kath Corbec
+products_models:
+- Jewels
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=v3u8xc0zLec
 speaker: AI Engineer
-tags:
-  - proactive-agents
-  - ai-collaboration
-  - software-development
-  - mental-load
-  - developer-experience
-title: Google Labs 的前瞻性智能体：Jewels 项目如何重塑软件开发
-summary: 本文探讨了从反应式到前瞻性 AI 智能体的转变，以 Google Labs 的 Jewels 项目为例。演讲者 Kath Corbec 阐述了当前异步智能体带来的精神负担，以及人类作为串行处理者的局限性。她提出了前瞻性智能体的愿景，强调了观察、个性化、及时性和无缝工作流集成四大要素。Jewels 项目通过三个层级（从基础的代码修复到复杂的系统洞察）和一系列新功能（如记忆、批评者代理等），旨在成为开发者值得信赖的协作伙伴，最终目标是减少工具摩擦，释放创造力，共同塑造软件开发的未来。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Kath Corbec
-companies_orgs:
-  - Google Labs
-  - Google
-products_models:
-  - Jewels
-media_books: []
 status: evergreen
+summary: 本文探讨了从反应式到前瞻性 AI 智能体的转变，以 Google Labs 的 Jewels 项目为例。演讲者 Kath Corbec 阐述了当前异步智能体带来的精神负担，以及人类作为串行处理者的局限性。她提出了前瞻性智能体的愿景，强调了观察、个性化、及时性和无缝工作流集成四大要素。Jewels
+  项目通过三个层级（从基础的代码修复到复杂的系统洞察）和一系列新功能（如记忆、批评者代理等），旨在成为开发者值得信赖的协作伙伴，最终目标是减少工具摩擦，释放创造力，共同塑造软件开发的未来。
+tags:
+- agent
+- ai-collaboration
+- developer-experience
+- society
+- software-development
+title: Google Labs 的前瞻性智能体：Jewels 项目如何重塑软件开发
 ---
+
 ### 引言：从家务琐事到异步智能体的启示
 
 大家好，我非常激动能来到这里。我爱纽约，也爱在这里与大家见面。我是 Kath Corbec，来自 Google Labs。我所在的团队叫做 ADA，今天我将和大家分享我们在这个名为 Jewels 的项目上的一些工作。

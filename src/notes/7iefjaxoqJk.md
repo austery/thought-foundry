@@ -1,36 +1,36 @@
 ---
-author: Adam's Axiom
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- A Beautiful Mind
+people:
+- John Nash
+- John von Neumann
+- Robert Axelrod
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=7iefjaxoqJk
 speaker: Adam's Axiom
-tags:
-  - game-theory
-  - tit-for-tat
-  - cooperation
-  - decision-making
-  - simplicity
-title: 最强大的博弈论策略竟然如此简单？
-summary: 本视频探讨了“以牙还牙”（Tit-for-Tat）策略，这是一种出人意料的简单博弈论方法，却被证明比复杂算法更有效。它概述了四个基本规则：先合作、回馈合作、回击背叛、并随时准备原谅。视频通过吸血蝙蝠和清洁鱼等自然界例子，展示了该策略的普遍性，并解释了为何这种数学上最优而非道德上的策略，能在重复互动中带来更好的长期结果，挑战了复杂问题需要复杂解决方案的观念。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - John Nash
-  - John von Neumann
-  - Robert Axelrod
-companies_orgs: []
-products_models: []
-media_books:
-  - A Beautiful Mind
 status: evergreen
+summary: 本视频探讨了“以牙还牙”（Tit-for-Tat）策略，这是一种出人意料的简单博弈论方法，却被证明比复杂算法更有效。它概述了四个基本规则：先合作、回馈合作、回击背叛、并随时准备原谅。视频通过吸血蝙蝠和清洁鱼等自然界例子，展示了该策略的普遍性，并解释了为何这种数学上最优而非道德上的策略，能在重复互动中带来更好的长期结果，挑战了复杂问题需要复杂解决方案的观念。
+tags:
+- decision-making
+- game-theory
+- history
+- society
+- tit-for-tat
+title: 最强大的博弈论策略竟然如此简单？
 ---
+
 ### 简介：最简单的成功策略
 
 如果我告诉你，最强大的成功策略根本不复杂呢？

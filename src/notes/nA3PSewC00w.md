@@ -1,49 +1,49 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- CIA
+- UN
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Natalie Kitrov
+- Anatoli Kman
+- Donald Trump
+- Nicholas Maduro
+- Hugo Chavez
+- Maria Corina Machado
+- Marco Rubio
+- George W. Bush
+- Muhammad Ahmed
+- Pete Hgsith
+- Vladimir Putin
+products_models:
+- BBB
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=nA3PSewC00w
 speaker: New York Times Podcasts
-tags:
-  - venezuela-crisis
-  - regime-change
-  - us-foreign-policy
-  - drug-trafficking-narrative
-  - military-intervention-risks
-title: 美国是否正试图推翻委内瑞拉政府？
-summary: 本文深入探讨了特朗普政府对委内瑞拉施加“最大压力”运动的幕后策略，以及美国官员内部关于是否推翻尼古拉斯·马杜罗政府的激烈争论。文章揭示了国务卿马尔科·卢比奥如何利用毒品贩运叙事，推动军事干预以实现政权更迭，同时争取委内瑞拉反对派领导人玛丽亚·科里纳·马查多的支持。文章还探讨了美国干预行动可能带来的深远后果，包括地区不稳定、国际法违背以及对未来全球外交的潜在影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Natalie Kitrov
-  - Anatoli Kman
-  - Donald Trump
-  - Nicholas Maduro
-  - Hugo Chavez
-  - Maria Corina Machado
-  - Marco Rubio
-  - George W. Bush
-  - Muhammad Ahmed
-  - Pete Hgsith
-  - Vladimir Putin
-companies_orgs:
-  - New York Times
-  - CIA
-  - UN
-products_models:
-  - BBB
-media_books:
-  - The Daily
 status: evergreen
+summary: 本文深入探讨了特朗普政府对委内瑞拉施加“最大压力”运动的幕后策略，以及美国官员内部关于是否推翻尼古拉斯·马杜罗政府的激烈争论。文章揭示了国务卿马尔科·卢比奥如何利用毒品贩运叙事，推动军事干预以实现政权更迭，同时争取委内瑞拉反对派领导人玛丽亚·科里纳·马查多的支持。文章还探讨了美国干预行动可能带来的深远后果，包括地区不稳定、国际法违背以及对未来全球外交的潜在影响。
+tags:
+- change
+- narrative
+- risk
+- us-foreign-policy
+- venezuela-crisis
+title: 美国是否正试图推翻委内瑞拉政府？
 ---
+
 ### 美国对委内瑞拉的“最大压力”运动
 
 《纽约时报》的娜塔莉·基特罗夫（Natalie Kitrov）报道，几个月来，特朗普总统一直在加大对委内瑞拉的压力，采取了日益激进的军事行动，政府声称这些行动旨在打击贩毒分子。

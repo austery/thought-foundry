@@ -1,47 +1,47 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- TVO Today
+- Canada Soccer
+- Women's National Team Players Association for Canada
+- Northern Super League
+- NWSL
+- Angel City FC
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+people:
+- Diana Matheson
+- Michelle Mama
+- Amy Walsh
+- Erin McLeod
+- Connie
+- Christina Litz
+- Mark Cohen
+products_models:
+- The Pitch
+project:
+- historical-insights
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=n7dxrqy-RlY
 speaker: TVO Today
-tags:
-  - women-s-soccer
-  - sports-equity
-  - league-development
-  - player-rights
-  - canadian-sports-culture
-title: 加拿大女子职业足球联赛：从零开始的成功与未来展望
-summary: 本文探讨了加拿大女子职业足球联赛在首个赛季取得的显著成功，展示了其在电视收视率、门票销售和营收方面的亮眼数据。文章深入分析了联赛为球员提供的独特福利，包括产假和生育治疗，以及在联赛创立过程中所面临的挑战。讨论还涵盖了联赛创新的商业模式、前球员在其中发挥的关键作用，以及联邦政府提供的重大支持，强调了女子职业体育全球市场的日益增长。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - entrepreneurship
-people:
-  - Diana Matheson
-  - Michelle Mama
-  - Amy Walsh
-  - Erin McLeod
-  - Connie
-  - Christina Litz
-  - Mark Cohen
-companies_orgs:
-  - TVO Today
-  - Canada Soccer
-  - Women's National Team Players Association for Canada
-  - Northern Super League
-  - NWSL
-  - Angel City FC
-products_models:
-  - The Pitch
-media_books:
-  - The Rundown
 status: evergreen
+summary: 本文探讨了加拿大女子职业足球联赛在首个赛季取得的显著成功，展示了其在电视收视率、门票销售和营收方面的亮眼数据。文章深入分析了联赛为球员提供的独特福利，包括产假和生育治疗，以及在联赛创立过程中所面临的挑战。讨论还涵盖了联赛创新的商业模式、前球员在其中发挥的关键作用，以及联邦政府提供的重大支持，强调了女子职业体育全球市场的日益增长。
+tags:
+- culture
+- development
+- investment
+- right
+- society
+title: 加拿大女子职业足球联赛：从零开始的成功与未来展望
 ---
+
 ### 加拿大女子足球联赛首季告捷
 
 非常感谢您加入我们。恭喜您迎来了第一个赛季。

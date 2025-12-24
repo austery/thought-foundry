@@ -1,35 +1,35 @@
 ---
-title: Koji 与 Monica 对话：给 AI 焦虑者的终极建议——狠狠学或好好玩
-summary: Koji与Monica深入探讨了AI时代的生存法则。他们认为，用户普遍未能发掘AI的全部潜力，而独立开发者正迎来新的机遇。面对AI带来的焦虑，他们的建议是：要么深入学习以对抗未知，要么投身真实生活以寻找独特价值，这两种方式都能有效提升个人竞争力。
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai焦虑
-  - 产品哲学
-  - 学习方法
-  - 独立开发者
-  - 生活平衡
-people:
-  - Koji
-  - Monica
-  - 主持人
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-08-01
 author: Lei
-speaker: ''
+category: technology
 channel: null
+companies_orgs: []
+date: 2025-08-01
 draft: true
 file_name: koji_monica_advice_for_ai_anxiety.md
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Koji
+- Monica
+- 主持人
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: null
+speaker: ''
+summary: Koji与Monica深入探讨了AI时代的生存法则。他们认为，用户普遍未能发掘AI的全部潜力，而独立开发者正迎来新的机遇。面对AI带来的焦虑，他们的建议是：要么深入学习以对抗未知，要么投身真实生活以寻找独特价值，这两种方式都能有效提升个人竞争力。
+tags:
+- business
+- indie-hacker
+- learning
+- life
+- llm
+title: Koji 与 Monica 对话：给 AI 焦虑者的终极建议——狠狠学或好好玩
 ---
+
 ## AI 的潜力与使用者的鸿沟
 
 **主持人**: 解决不了一些 edge case（边缘案例），或者说帮我们执行一些任务的成功率，是大家经常诟病 AI 的一点。不可控，对吧？我同样一个任务可能让他解决5次，还不一定5次都能解决。很多人也因此一方面诟病 AI 产品，或者说去质疑 AI 什么时候能够实现那个 tipping point（引爆点）。因为我知道课代表做的课程里也在教大家怎么去用上 AI，所以我想听听你的看法，作为一个 AI 使用者，你怎么看待这些 AI 工具的不足？我应该怎么样去发挥最大效果地使用 AI 工具？

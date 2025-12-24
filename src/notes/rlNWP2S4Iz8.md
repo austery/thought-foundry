@@ -1,67 +1,67 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- DSG
+- Robinhood
+- 广汽集团
+- 宁德时代
+- 京东
+- 龙威生物制药
+- 时光派
+- 瑞剑未来
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- Reuters
+- Yahoo Finance
+- The Hill
+- RedState
+- CCTV
+- 澎湃新闻
+- BBC
+- The New York Times
+- 《人民日报》
+- 《自然代谢》
+people:
+- Donald Trump
+- Franklin D. Roosevelt
+- 郑丽文
+- Xi Jinping
+- Vladimir Putin
+- Peter Hogshead
+- 李强
+- 郑明华
+- 赵伟奇
+- 梁丽
+- 吕庆华
+products_models:
+- ION
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=rlNWP2S4Iz8
 speaker: LT視界
-tags:
-  - us-government-shutdown
-  - tariff-policy
-  - housing-market
-  - cross-strait-relations
-  - public-health-policy
-  - longevity-industry
-  - private-investment
-title: 美国政经挑战、台海风云与中国社会两极：深度解析多维动态
-summary: 本期节目深入探讨了美国政府停摆危机、特朗普关税与房贷新政的争议，以及美国对台湾国民党新主席郑丽文立场的直接反应。同时，节目聚焦中国经济的民间投资困境、芬太尼管制措施，并揭示了中国电动车市场的激烈竞争。最后，主持人对中国医疗健康领域进口药退市、国产药争议以及长寿产业的狂热现象进行了对比分析，指出社会两极分化的问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Franklin D. Roosevelt
-  - 郑丽文
-  - 习近平
-  - Vladimir Putin
-  - Peter Hogshead
-  - 李强
-  - 郑明华
-  - 赵伟奇
-  - 梁丽
-  - 吕庆华
-companies_orgs:
-  - FBI
-  - DSG
-  - Robinhood
-  - 广汽集团
-  - 宁德时代
-  - 京东
-  - 龙威生物制药
-  - 时光派
-  - 瑞剑未来
-products_models:
-  - ION
-media_books:
-  - Bloomberg
-  - Reuters
-  - Yahoo Finance
-  - The Hill
-  - RedState
-  - CCTV
-  - 澎湃新闻
-  - BBC
-  - The New York Times
-  - 《人民日报》
-  - 《自然代谢》
 status: evergreen
+summary: 本期节目深入探讨了美国政府停摆危机、特朗普关税与房贷新政的争议，以及美国对台湾国民党新主席郑丽文立场的直接反应。同时，节目聚焦中国经济的民间投资困境、芬太尼管制措施，并揭示了中国电动车市场的激烈竞争。最后，主持人对中国医疗健康领域进口药退市、国产药争议以及长寿产业的狂热现象进行了对比分析，指出社会两极分化的问题。
+tags:
+- cross-strait-relations
+- housing-market
+- industry
+- investment
+- public-health-policy
+- tariff-policy
+- us-government-shutdown
+title: 美国政经挑战、台海风云与中国社会两极：深度解析多维动态
 ---
+
 ### 美国财经头条：政府停摆、贸易数据与投资新机遇
 
 今天，我们将分享不能错过的三条重要财经新闻。首先是彭博社的报道，标题指出尽管参议院的协议正在推进，但美国政府停摆仍需数天才能结束。国际资本市场目前最关注的是美国政府何时能结束历史上最长的关门周期。昨天晚上出现了重大转折，部分民主党人同意共和党提出的最新方案，两党初步达成协议结束政府关门。然而，这次协议只维持到1月31日，两党争议最大的**奥巴马医疗补贴**（ObamaCare Subsidies: 美国平价医疗法案中的政府补助）问题并未触及。

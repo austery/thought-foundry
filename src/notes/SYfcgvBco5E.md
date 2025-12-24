@@ -1,36 +1,34 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: culture
+companies_orgs:
+- Texas Rangers
+- The Big Texan Steak Ranch
 date: '2025-09-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Cynthia Ann Parker
+- Quanah Parker
+- Peta Nocona
+products_models: []
+project:
+- historical-insights
+- us-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=SYfcgvBco5E
 speaker: 徒步的騎手
-tags:
-  - cultural-identity
-  - frontier-conflict
-  - comanche-history
-  - american-west
-title: 从白人女孩到酋长之母：辛西娅·安·帕克与科曼奇部落的百年纠葛
-summary: 本文讲述了一段发生在美国德克萨斯大草原上的真实历史悲剧。故事围绕白人女孩辛西娅·安·帕克展开，她年幼时被科曼奇部落掳走，后完全融入其文化，并成为末代酋长夸纳·帕克的母亲。24年后，她被德克萨斯游骑兵“解救”，却因无法与子女团聚而在悲痛中度过余生。这个故事不仅是一个家庭的悲欢离合，更是美国西部开拓史中文化冲突与身份认同的缩影。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - us-analysis
-  - cultural-critique
-people:
-  - Cynthia Ann Parker
-  - Quanah Parker
-  - Peta Nocona
-companies_orgs:
-  - Texas Rangers
-  - The Big Texan Steak Ranch
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文讲述了一段发生在美国德克萨斯大草原上的真实历史悲剧。故事围绕白人女孩辛西娅·安·帕克展开，她年幼时被科曼奇部落掳走，后完全融入其文化，并成为末代酋长夸纳·帕克的母亲。24年后，她被德克萨斯游骑兵“解救”，却因无法与子女团聚而在悲痛中度过余生。这个故事不仅是一个家庭的悲欢离合，更是美国西部开拓史中文化冲突与身份认同的缩影。
+tags:
+- american-west
+- conflict
+- cultural-identity
+- history
+title: 从白人女孩到酋长之母：辛西娅·安·帕克与科曼奇部落的百年纠葛
 ---
 
 ### 德克萨斯平原上的科曼奇幽魂

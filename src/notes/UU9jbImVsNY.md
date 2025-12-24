@@ -1,46 +1,45 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- OpenAI
+- Moonshot AI
+- CCP
 date: '2025-03-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Seeing Like a State》
+people:
+- James Scott
+- Mao Zedong
+- Deng Xiaoping
+- Xi Jinping
+- Jordan Peterson
+- Sam Harris
+- Joe Rogan
+- Lex Fridman
+- Noah Smith
+products_models:
+- Hubble
+- TikTok
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=UU9jbImVsNY
 speaker: Dwarkesh Patel
-tags:
-  - china-travel
-  - scale-observation
-  - societal-contrast
-  - tech-economy
-title: 中国印象：规模、社会与科技的观察
-summary: 作者 Dwarkesh Patel 记录了其在中国两周的旅行见闻，深入观察了中国在规模、城市建设、经济模式、社会心态、科技发展及政治环境等方面的特点。文章对比了中美差异，探讨了青年压力、公众舆论、技术投资困境，并反思了旅行的意义。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - Dwarkesh Patel
-  - James Scott
-  - Mao Zedong
-  - Deng Xiaoping
-  - Xi Jinping
-  - Jordan Peterson
-  - Sam Harris
-  - Joe Rogan
-  - Lex Fridman
-  - Noah Smith
-companies_orgs:
-  - OpenAI
-  - Moonshot AI
-  - CCP
-products_models:
-  - Hubble
-  - TikTok
-media_books:
-  - 《Seeing Like a State》
 status: evergreen
+summary: 作者 Dwarkesh Patel 记录了其在中国两周的旅行见闻，深入观察了中国在规模、城市建设、经济模式、社会心态、科技发展及政治环境等方面的特点。文章对比了中美差异，探讨了青年压力、公众舆论、技术投资困境，并反思了旅行的意义。
+tags:
+- china
+- scale-observation
+- societal
+- tech
+title: 中国印象：规模、社会与科技的观察
 ---
+
 ### 旅行开端与AI的未知数
 
 上周，我花了两个星期在中国。我去了**北京**、**成都**、**峨眉山**、**重庆**、**上海**和**杭州**。我去的原因是，我想弄清楚这个播客（podcast）上关于**AI**（人工智能）的重大问题。而最大的未知变量就是**中国**会发生什么。我还没有找到这个问题的答案。这次旅行是我对这个国家好奇心的开始，而不是结束。在接下来的几个月里，随着我对**中国**了解的深入，我希望与你们分享我的所见所闻。

@@ -1,56 +1,55 @@
 ---
-author: Internet of Bugs
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- IBM
+- Microsoft
+- Adobe
+- Artificial Analysis
+- Stanford University
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Hank Green
+- Carl
+- Sam Altman
+- Bill Gates
+products_models:
+- GPT-5
+- GPT-4
+- GPT-4-mini
+- Watson AI
+- Jeopardy
+- Microsoft Windows
+- Windows 98
+- Windows 10
+- Microsoft Word
+- Excel
+- Adobe Photoshop
+- Acrobat PDF reader
+- LiveBench
+- SciCode
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=0Plo-zT8W9w
 speaker: Internet of Bugs
-tags:
-  - ai-progress
-  - software-limitations
-  - investment-bubble
-  - exponential-growth-fallacy
-  - negative-transfer
-title: AI行业最大的谎言：模型只会越来越好？
-summary: 本文揭露了人工智能行业中一个普遍存在的谎言：即“AI模型只会越来越好”。作者指出，这一由行业领袖反复宣称的前提，是支撑巨大AI投资泡沫的根本谎言。文章以GPT-5与GPT-4的性能对比为例，解释了AI本质上是软件而非硬件，因此会受到软件固有限制，如臃肿、权衡和“负迁移”等，从而挑战了AI必然呈指数级进步的观念。作者呼吁读者对未经批判的行业论调保持警惕。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Hank Green
-  - Carl
-  - Sam Altman
-  - Bill Gates
-companies_orgs:
-  - OpenAI
-  - IBM
-  - Microsoft
-  - Adobe
-  - Artificial Analysis
-  - Stanford University
-products_models:
-  - GPT-5
-  - GPT-4
-  - GPT-4-mini
-  - Watson AI
-  - Jeopardy
-  - Microsoft Windows
-  - Windows 98
-  - Windows 10
-  - Microsoft Word
-  - Excel
-  - Adobe Photoshop
-  - Acrobat PDF reader
-  - LiveBench
-  - SciCode
-media_books: []
 status: evergreen
+summary: 本文揭露了人工智能行业中一个普遍存在的谎言：即“AI模型只会越来越好”。作者指出，这一由行业领袖反复宣称的前提，是支撑巨大AI投资泡沫的根本谎言。文章以GPT-5与GPT-4的性能对比为例，解释了AI本质上是软件而非硬件，因此会受到软件固有限制，如臃肿、权衡和“负迁移”等，从而挑战了AI必然呈指数级进步的观念。作者呼吁读者对未经批判的行业论调保持警惕。
+tags:
+- growth
+- investment
+- llm
+- negative-transfer
+- software
+title: AI行业最大的谎言：模型只会越来越好？
 ---
+
 ### 揭露AI行业最大的谎言
 
 今天，我想谈谈在我看来，人工智能行业曾经并持续讲述的“最大谎言”，为什么我相信**GPT-5**（Generative Pre-trained Transformer 5: 一种大型语言模型）揭露了这一谎言，以及我认为这个谎言所带来的影响。

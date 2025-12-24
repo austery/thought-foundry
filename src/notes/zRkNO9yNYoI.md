@@ -1,54 +1,53 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Bridgewater Associates
+- Norges Bank Investment Management
+- OpenAI
+- Google
+- Microsoft
+- Anthropic
+- Nvidia
+- Amazon
+- Meta
+- World Trade Organization
+- Federal Reserve
+- AfD
+- Reform UK
+- Thinking Machines
+- Alibaba
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Greg Jensen
+- Elon Musk
+- Sam Altman
+- Ray Dalio
+- Bob Prince
+- Nir Bar Dea
+products_models:
+- Pure Alpha
+project:
+- us-analysis
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=zRkNO9yNYoI
 speaker: Norges Bank Investment Management
-tags:
-  - modern-mercantilism
-  - ai-investment-cycle
-  - capital-concentration
-  - geopolitical-risk
-title: 桥水基金格雷格·詹森：在现代重商主义与AI革命中的投资之道
-summary: 桥水基金联席首席投资官格雷格·詹森深入剖析了当今世界面临的三大主题：由中国崛起引发的向‘现代重商主义’的转变、人工智能革命带来的资本支出狂潮与资源争夺，以及资本在美国前所未有的集中。他探讨了这些宏大叙事对地缘政治、市场和投资策略的深远影响，并分享了在这样一个充满风险与机遇的时代，投资者应如何构建更具韧性的全球多元化投资组合。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Greg Jensen
-  - Elon Musk
-  - Sam Altman
-  - Ray Dalio
-  - Bob Prince
-  - Nir Bar Dea
-companies_orgs:
-  - Bridgewater Associates
-  - Norges Bank Investment Management
-  - OpenAI
-  - Google
-  - Microsoft
-  - Anthropic
-  - Nvidia
-  - Amazon
-  - Meta
-  - World Trade Organization
-  - Federal Reserve
-  - AfD
-  - Reform UK
-  - Thinking Machines
-  - Alibaba
-products_models:
-  - Pure Alpha
-media_books: []
 status: evergreen
+summary: 桥水基金联席首席投资官格雷格·詹森深入剖析了当今世界面临的三大主题：由中国崛起引发的向‘现代重商主义’的转变、人工智能革命带来的资本支出狂潮与资源争夺，以及资本在美国前所未有的集中。他探讨了这些宏大叙事对地缘政治、市场和投资策略的深远影响，并分享了在这样一个充满风险与机遇的时代，投资者应如何构建更具韧性的全球多元化投资组合。
+tags:
+- ai-investment-cycle
+- capital
+- geopolitical-risk
+- history
+title: 桥水基金格雷格·詹森：在现代重商主义与AI革命中的投资之道
 ---
+
 ### 塑造当今世界的三大主题
 
 大家好，欢迎来到《In Good Company》。今天我请到了桥水基金的联席首席投资官格雷格·詹森。桥水基金是一家卓越的对冲基金，我们可以说是全球规模最大、最优秀的。格雷格，很荣幸能邀请你来到这里。

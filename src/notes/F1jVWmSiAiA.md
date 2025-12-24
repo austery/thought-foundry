@@ -1,42 +1,41 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Polymarket
+- FBI
+- 硅谷银行
+- Signature Bank
+- First Republic Bank
 date: '2024-07-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《巴塞尔协议》
+people:
+- 唐石峻
+products_models:
+- VOO
+- VAS
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=F1jVWmSiAiA
 speaker: Shijun Tang
-tags:
-  - compound-interest
-  - market-efficiency
-  - value-investing
-  - psychological-biases
-  - liquidity-risk
-title: 投资股票 vs 投资房产：杠杆无法掩盖的长期回报真相
-summary: 通过真实模型对比，揭示在不依赖高杠杆的情况下，投资美股指数ETF长期回报显著优于房产；并系统解析价值投资、复利效应与心理偏见如何决定财富积累的本质。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-companies_orgs:
-  - Polymarket
-  - FBI
-  - 硅谷银行
-  - Signature Bank
-  - First Republic Bank
-products_models:
-  - VOO
-  - VAS
-media_books:
-  - 《巴塞尔协议》
 status: evergreen
+summary: 通过真实模型对比，揭示在不依赖高杠杆的情况下，投资美股指数ETF长期回报显著优于房产；并系统解析价值投资、复利效应与心理偏见如何决定财富积累的本质。
+tags:
+- bias
+- compound-interest
+- market-efficiency
+- risk
+title: 投资股票 vs 投资房产：杠杆无法掩盖的长期回报真相
 ---
+
 ### 投资股票与房产的长期回报对比
 
 投资股票还是投资房产？这个问题困扰了我十几年。在经历了多次失败后，通过系统性学习与模型构建，我现在可以明确地说：对于绝大多数人而言，投资股市（尤其是指数基金）优于投资房产。

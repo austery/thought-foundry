@@ -1,52 +1,52 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Google
+- Meta
+- Amazon
+- Microsoft
+- Apple
+- Nvidia
+- Tesla
+- Lululemon
+- Nike
+- Adidas
+- LVMH
+- Starbucks
+- Lyft
 date: '2025-07-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- 杨紫琼
+- 夏琳
+products_models:
+- Waymo
+- Kubernetes
+project:
+- us-analysis
+- historical-insights
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=2r2P9Jl_Rgg
 speaker: Shijun Tang
-tags:
-  - compound-growth
-  - moat-analysis
-  - ai-integration
-  - capitalism-crisis
-  - wealth-inequality
-title: 谷歌为何是复利机器？护城河、AI融合与资本主义的未来
-summary: 本文深入分析谷歌通过搜索广告、云服务、安卓系统和YouTube构建的多重护城河，揭示其AI融合策略如何巩固市场主导地位，并探讨资本主义在创新停滞与通胀压力下的结构性危机，以及普通投资者的应对之道。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - ai-impact-analysis
-people:
-  - 唐石峻
-  - 杨紫琼
-  - 夏琳
-companies_orgs:
-  - Google
-  - Meta
-  - Amazon
-  - Microsoft
-  - Apple
-  - Nvidia
-  - Tesla
-  - Lululemon
-  - Nike
-  - Adidas
-  - LVMH
-  - Starbucks
-  - Lyft
-products_models:
-  - Waymo
-  - Kubernetes
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入分析谷歌通过搜索广告、云服务、安卓系统和YouTube构建的多重护城河，揭示其AI融合策略如何巩固市场主导地位，并探讨资本主义在创新停滞与通胀压力下的结构性危机，以及普通投资者的应对之道。
+tags:
+- crisis
+- growth
+- integration
+- moat-analysis
+- wealth-inequality
+title: 谷歌为何是复利机器？护城河、AI融合与资本主义的未来
 ---
+
 ### 谷歌的复利引擎：搜索、云与AI的三位一体
 
 谷歌股价近期的爆发，让许多曾看空它的金融专家和机构投资者措手不及。在信息获取门槛极低的时代，散户通过深入分析，已能超越传统机构的判断。过去1205天，谷歌为投资者带来了29.7%的复合年化回报率，远超同期标普500指数17.02%的收益（扣除汇率影响后，后者实际回报率仅约3%）。这一表现成为作者投资组合跑赢大盘的关键。

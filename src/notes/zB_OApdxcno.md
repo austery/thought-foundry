@@ -1,42 +1,39 @@
 ---
-author: Veritasium
-date: '2024-11-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=zB_OApdxcno
-speaker: Veritasium
-tags:
-  - veritasium
-  - cognitive-bias
-  - political-polarization
-  - numeracy
-  - tribalism
-  - data-interpretation
-title: 在某些数学问题上，为何聪明人反而更容易出错？
-summary: 本文探讨了一项引人入胜的研究，揭示了在特定类型的问题上，智力越高的人反而越容易出错。研究通过皮肤霜和枪支管制案例，展示了政治信仰如何压倒数字素养，使人们选择性地解读数据以符合既有意识形态。文章强调了部落主义对人类决策的深远影响，并提出了避免党派言论、关注具体政策及培养科学好奇心等应对策略，以促进更理性的社会对话。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-people:
-  - Wylie
-  - Derek
-  - Dan Kahan
-  - Trump
-  - Harris
-  - Biden
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - Ground News
-  - FBI
-  - DOJ
+- Ground News
+- FBI
+- DOJ
+date: '2024-11-04'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Wylie
+- Derek
+- Dan Kahan
+- Trump
+- Harris
+- Biden
 products_models: []
-media_books: []
+project:
+- us-analysis
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=zB_OApdxcno
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了一项引人入胜的研究，揭示了在特定类型的问题上，智力越高的人反而越容易出错。研究通过皮肤霜和枪支管制案例，展示了政治信仰如何压倒数字素养，使人们选择性地解读数据以符合既有意识形态。文章强调了部落主义对人类决策的深远影响，并提出了避免党派言论、关注具体政策及培养科学好奇心等应对策略，以促进更理性的社会对话。
+tags:
+- cognitive-bias
+- data
+- history
+- tribalism
+title: 在某些数学问题上，为何聪明人反而更容易出错？
 ---
+
 ### 智力陷阱：聪明人更容易犯错的问题
 
 有一篇研究论文多年来一直萦绕在我心头。

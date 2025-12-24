@@ -1,43 +1,43 @@
 ---
-author: 大伟探秘加拿大
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- House of Commons
+- NATO
+- G7
+- CBC
+- Radio Canada
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《欧洲歌唱大赛》
+people:
+- Chrystia Freeland
+- Mark Carney
+- Justin Trudeau
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=H0gOZ4oj8kA
 speaker: 大伟探秘加拿大
-tags:
-  - canada-federal-budget
-  - economic-strategy
-  - fiscal-policy
-  - trade-protectionism
-  - immigration-reform
-title: 2025加拿大联邦预算：780亿赤字下的“特朗普生存计划”与经济战略转型
-summary: 2025年加拿大联邦预算案公布，计划未来五年新增1410亿加元支出，本财年赤字达780亿加元。这份预算被视为加拿大应对美国贸易保护主义的“特朗普生存计划”，核心在于大规模资本投资（基建、国防）、企业减税、以及产业政策的硬核转变。同时，预算案也伴随着公共服务部门精简和移民政策的重大收紧。其成败将取决于赤字管理、投资撬动效应及执行力，标志着加拿大公共政策重心从社会福利转向经济主权和工业基础建设。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Chrystia Freeland
-  - Mark Carney
-  - Justin Trudeau
-  - Donald Trump
-companies_orgs:
-  - House of Commons
-  - NATO
-  - G7
-  - CBC
-  - Radio Canada
-products_models: []
-media_books:
-  - 《欧洲歌唱大赛》
 status: evergreen
+summary: 2025年加拿大联邦预算案公布，计划未来五年新增1410亿加元支出，本财年赤字达780亿加元。这份预算被视为加拿大应对美国贸易保护主义的“特朗普生存计划”，核心在于大规模资本投资（基建、国防）、企业减税、以及产业政策的硬核转变。同时，预算案也伴随着公共服务部门精简和移民政策的重大收紧。其成败将取决于赤字管理、投资撬动效应及执行力，标志着加拿大公共政策重心从社会福利转向经济主权和工业基础建设。
+tags:
+- canada
+- fiscal-policy
+- reform
+- strategy
+- trade
+title: 2025加拿大联邦预算：780亿赤字下的“特朗普生存计划”与经济战略转型
 ---
+
 ### 2025加拿大联邦预算案：背景与核心要点
 
 2025年11月4日，加拿大大联邦财政部长**商鹏飞**（Chrystia Freeland）在总理**卡尼**（Mark Carney）的陪同下，于加拿大国会众议院发布了备受瞩目的2025年联邦政府预算案。这份预算案之所以备受关注，首先在于它被视为加拿大应对严峻经济形势，特别是美国贸易保护主义的一项重大战略回应，甚至被媒体称为**特朗普生存计划**（Trump Survival Plan: 加拿大应对美国贸易保护主义的战略回应）。其次，这也是2025年上任的**卡尼**政府首次颁布政府预算，等于是对未来几年施政纲领的具体规划，将直接引领加拿大未来几年的经济走向。

@@ -1,58 +1,58 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Apple
+- IBM
+- Foxconn
+- World Trade Organization
+- Biel Crystal
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Apple in China: The Capture of the World''s Greatest Company'
+people:
+- Patrick McGee
+- Steve Jobs
+- Steve Wozniak
+- Patty
+- Steve Ballmer
+- Johnny Ive
+- Terry Gou
+- John Rubenstein
+- Ronald Reagan
+- Tim Cook
+- Deng Xiaoping
+products_models:
+- Apple I
+- Apple II
+- Mac
+- Laser Printer
+- iMac
+- iPod
+- iPhone
+- iPod mini
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=S5LOxq8MzPQ
 speaker: TVO Today
-tags:
-  - apple-china-entanglement
-  - manufacturing-outsourcing
-  - supply-chain-strategy
-  - industrial-revolution-china
-  - comparative-advantage
-title: 苹果与中国的深度交织：全球科技巨头如何被捕获
-summary: '本文深入探讨了苹果公司从早期发展到与中国深度融合的历程。商业记者Patrick McGee在新书《Apple in China: The Capture of the World''s Greatest Company》中揭示了苹果如何从外包日本转向中国，以及制造设计（MD）团队在此过程中扮演的关键角色。文章分析了中国在“中国速度”和规模化生产方面的比较优势，以及富士康创始人郭台铭等关键人物的贡献。同时，也探讨了苹果与中国关系背后的伦理困境、中国加入世贸组织后西方期望的落空，以及史蒂夫·乔布斯和蒂姆·库克领导风格对这一关系的影响。'
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Patrick McGee
-  - Steve Jobs
-  - Steve Wozniak
-  - Patty
-  - Steve Ballmer
-  - Johnny Ive
-  - Terry Gou
-  - John Rubenstein
-  - Ronald Reagan
-  - Tim Cook
-  - Deng Xiaoping
-companies_orgs:
-  - Apple
-  - IBM
-  - Foxconn
-  - World Trade Organization
-  - Biel Crystal
-products_models:
-  - Apple I
-  - Apple II
-  - Mac
-  - Laser Printer
-  - iMac
-  - iPod
-  - iPhone
-  - iPod mini
-media_books:
-  - 'Apple in China: The Capture of the World''s Greatest Company'
 status: evergreen
+summary: '本文深入探讨了苹果公司从早期发展到与中国深度融合的历程。商业记者Patrick McGee在新书《Apple in China: The Capture
+  of the World''s Greatest Company》中揭示了苹果如何从外包日本转向中国，以及制造设计（MD）团队在此过程中扮演的关键角色。文章分析了中国在“中国速度”和规模化生产方面的比较优势，以及富士康创始人郭台铭等关键人物的贡献。同时，也探讨了苹果与中国关系背后的伦理困境、中国加入世贸组织后西方期望的落空，以及史蒂夫·乔布斯和蒂姆·库克领导风格对这一关系的影响。'
+tags:
+- china
+- comparative-advantage
+- manufacturing
+- supply-chain-strategy
+title: 苹果与中国的深度交织：全球科技巨头如何被捕获
 ---
+
 ### 苹果与中国的深度交织
 
 中国正在助力**苹果**（Apple: 美国科技巨头，以其消费电子产品、软件和在线服务闻名）取得成功，而苹果的成功也为中国带来了巨大的利益。以下是我与商业记者Patrick McGee对话的一部分，我们讨论了他的新书《Apple in China: The Capture of the World's Greatest Company》，该书探讨了这家科技巨头对中国的依赖如何影响着我们所有人。

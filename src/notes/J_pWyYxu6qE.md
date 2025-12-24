@@ -1,32 +1,32 @@
 ---
-title: 硅谷三十载：创业、社区与领导力 | Nextdoor 创始人 Nirav Tolia
-summary: Nextdoor创始人Nirav Tolia分享了他在硅谷30年的创业、领导和社区建设经验，强调以人为本、用户价值和AI创新，呼吁利用科技赋能人类发展。
 area: tech-insights
 category: technology
+companies_orgs: []
+date: '2025-08-15'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books: []
+people: []
+products_models: []
 project:
 - ai-impact-analysis
 - entrepreneurship
+series: ''
+source: https://www.youtube.com/watch?v=J_pWyYxu6qE
+speaker: EO
+status: evergreen
+summary: Nextdoor创始人Nirav Tolia分享了他在硅谷30年的创业、领导和社区建设经验，强调以人为本、用户价值和AI创新，呼吁利用科技赋能人类发展。
 tags:
 - ai-innovation
 - community-building
 - entrepreneurship
 - leadership
 - silicon-valley
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-08-15'
-author: EO
-speaker: EO
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=J_pWyYxu6qE
-status: evergreen
+title: 硅谷三十载：创业、社区与领导力 | Nextdoor 创始人 Nirav Tolia
 ---
+
 ### 创业之路与Nextdoor的回归
 
 I am Nirav Tolia, the CEO and co-founder of Nextdoor and someone who has been fortunate to work in technology for the last 30 years in Silicon Valley.

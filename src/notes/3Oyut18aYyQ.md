@@ -1,38 +1,38 @@
 ---
-author: 老周横眉
+area: society-systems
+category: general
+companies_orgs:
+- 汇丰银行
+- 网易新闻
+- WTO
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《商君书》
+people:
+- 魏晓安
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3Oyut18aYyQ
 speaker: 老周横眉
-tags:
-  - compensatory-holidays
-  - social-control
-  - labor-rights
-  - economic-involution
-  - authoritarian-governance
-title: 中国调休制度的深层逻辑：从假期困境看社会控制与劳工权益
-summary: 文章深入剖析中国独特的调休制度，指出其不仅导致假期拥堵、民众疲惫，更是一种隐蔽的社会控制机制。通过对比国内外年假天数、揭示“内卷”经济模式和劳动法执行困境，探讨中共不愿增加假期的深层原因，包括低成本劳动力驱动、歌颂苦难文化及“疲民”策略。最终强调，调休旨在统一社会节奏、引导舆论，而非真正服务于民，揭示了“盛世”表象下普通民众的真实困境。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 魏晓安
-companies_orgs:
-  - 汇丰银行
-  - 网易新闻
-  - WTO
-products_models: []
-media_books:
-  - 《商君书》
 status: evergreen
+summary: 文章深入剖析中国独特的调休制度，指出其不仅导致假期拥堵、民众疲惫，更是一种隐蔽的社会控制机制。通过对比国内外年假天数、揭示“内卷”经济模式和劳动法执行困境，探讨中共不愿增加假期的深层原因，包括低成本劳动力驱动、歌颂苦难文化及“疲民”策略。最终强调，调休旨在统一社会节奏、引导舆论，而非真正服务于民，揭示了“盛世”表象下普通民众的真实困境。
+tags:
+- authoritarian-governance
+- compensatory-holiday
+- economic
+- right
+- social-control
+title: 中国调休制度的深层逻辑：从假期困境看社会控制与劳工权益
 ---
+
 ### 调休制度：中国假期困境的根源
 
 每逢五一、十一假期，许多中国人都会感到深深的疲惫。你以为只有陆路交通拥堵，现在连水路交通也一样。在刚刚过去的假期里，桂林漓江上演了现代版的“赤壁之战”，鸣沙山的骆驼大军也仿佛在“攻打土匪”。这哪里是旅游，这分明是攻城略地。北京的长城上人山人海，如果这是攻城门，五分钟就能攻下来。西岩城里有网友说，挤进去不容易，手里的肉不知道被谁咬了一口。

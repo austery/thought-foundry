@@ -1,35 +1,34 @@
 ---
-title: 华尔街财报季：Progressive、阿斯麦、美国银行表现解析与中美关系展望
-summary: 本期深入分析了财报季中Progressive、阿斯麦和美国银行的业绩表现，探讨了财险公司盈利监管、AI芯片需求及信贷扩张等经济信号。同时，详细解读了美国国家经济委员会主任贝森特对中美关系的强硬表态与降温期待，并分析了中美贸易博弈中的筹码与代价。
 area: market-analysis
 category: finance
+companies_orgs: []
+date: '2025-10-16'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- talk
+products_models: []
 project:
 - china-analysis
 - investment-strategy
 - market-cycles
 - us-analysis
+series: ''
+source: https://www.youtube.com/watch?v=N1OVP1nmOgg
+speaker: 投资TALK君
+status: evergreen
+summary: 本期深入分析了财报季中Progressive、阿斯麦和美国银行的业绩表现，探讨了财险公司盈利监管、AI芯片需求及信贷扩张等经济信号。同时，详细解读了美国国家经济委员会主任贝森特对中美关系的强硬表态与降温期待，并分析了中美贸易博弈中的筹码与代价。
 tags:
 - earnings-season
 - economic-outlook
-- financial-tools
+- financial
 - market-analysis
 - us-china-relations
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- talk
-date: '2025-10-16'
-author: 投资TALK君
-speaker: 投资TALK君
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=N1OVP1nmOgg
-status: evergreen
+title: 华尔街财报季：Progressive、阿斯麦、美国银行表现解析与中美关系展望
 ---
+
 ### 市场概览与财报季背景
 
 周三，美元和美债市场波动不大，垃圾级别债券的利差下跌16个基点，显示市场风险偏好上升。然而，**VIX**（Volatility Index: 衡量市场恐慌程度的指标）仍处于相对高位，仅下跌0.8%。三大指数中，**标普500**（S&P 500: 美国500家大型上市公司股票指数）上涨0.4%，**纳指**（Nasdaq Composite: 纳斯达克综合指数，以科技股为主）上涨0.7%，**道指**（Dow Jones Industrial Average: 道琼斯工业平均指数，由30家美国知名公司组成）表现相对最弱。

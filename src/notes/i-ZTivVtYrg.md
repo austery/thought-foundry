@@ -1,57 +1,58 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Signnum Global Advisors
+- Evercore ISI
+- Eurasia Group
+- World Economic Forum
+- Deutsche Bank
+- Hamas
 date: '2025-07-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Zero Hedge
+- The Economist
+- Time
+- The Last Economy
+people:
+- Andrew Bishop
+- Charles Meyers
+- Ozan Tarman
+- Ian Bremer
+- Cliff Cupchin
+- Robert Armstrong
+- Phil Tetlock
+- Bruce Bueno de Mesquita
+- Benjamin Netanyahu
+- Donald Trump
+- Scott Besson
+- Carolyn Levit
+- Nassim Nicholas Taleb
+products_models: []
+project:
+- geopolitics-watch
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=i-ZTivVtYrg
 speaker: Bloomberg Podcasts
-tags:
-  - geopolitical-analysis
-  - war-prediction
-  - market-impact
-  - trump-policy
-  - taiwan-blockade
-title: 地缘政治分析师如何预测战争结果：洞察市场与国家策略
-summary: 本期《Odd Lots》播客探讨了地缘政治分析师如何评估冲突结果，以及这些分析对金融市场和企业决策的影响。嘉宾Andrew Bishop，Signnum Global Advisors的全球政策研究主管，分享了其团队如何通过严谨的分析流程，而非单纯预测，来帮助客户应对地缘政治风险。讨论涵盖了预测市场、特朗普的贸易政策模式、以及对未来冲突（如中国对台湾的行动）的评估方法，强调了在快速变化的全球格局中，持续重新评估和保持谦逊的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - china-analysis
-people:
-  - Andrew Bishop
-  - Charles Meyers
-  - Ozan Tarman
-  - Ian Bremer
-  - Cliff Cupchin
-  - Robert Armstrong
-  - Phil Tetlock
-  - Bruce Bueno de Mesquita
-  - Benjamin Netanyahu
-  - Donald Trump
-  - Scott Besson
-  - Carolyn Levit
-  - Nassim Nicholas Taleb
-companies_orgs:
-  - Signnum Global Advisors
-  - Evercore ISI
-  - Eurasia Group
-  - World Economic Forum
-  - Deutsche Bank
-  - Hamas
-products_models: []
-media_books:
-  - Odd Lots
-  - Zero Hedge
-  - The Economist
-  - Time
-  - The Last Economy
 status: evergreen
+summary: 本期《Odd Lots》播客探讨了地缘政治分析师如何评估冲突结果，以及这些分析对金融市场和企业决策的影响。嘉宾Andrew Bishop，Signnum
+  Global Advisors的全球政策研究主管，分享了其团队如何通过严谨的分析流程，而非单纯预测，来帮助客户应对地缘政治风险。讨论涵盖了预测市场、特朗普的贸易政策模式、以及对未来冲突（如中国对台湾的行动）的评估方法，强调了在快速变化的全球格局中，持续重新评估和保持谦逊的重要性。
+tags:
+- analysis
+- market
+- taiwan
+- trump-policy
+- war
+title: 地缘政治分析师如何预测战争结果：洞察市场与国家策略
 ---
+
 ### 地缘政治分析的挑战与必要性
 
 **Bloomberg:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Alloway。

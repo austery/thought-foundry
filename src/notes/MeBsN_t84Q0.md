@@ -1,41 +1,41 @@
 ---
-author: Money & Macro
+area: society-systems
+category: geopolitics
+companies_orgs:
+- United Nations
+- World Health Organization
+- Institute for Health Metrics and Evaluation
+- IIASA
+- National Health and Family Planning Commission
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+people:
+- Hazard Fernandes Villafuerte
+- Yi Fuxian
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=MeBsN_t84Q0
 speaker: Money & Macro
-tags:
-  - population-decline
-  - fertility-rates
-  - demographic-dividend
-  - economic-slowdown
-  - pension-crisis
-title: 人口萎缩速度远超预期：联合国预测为何过于乐观？
-summary: 联合国预测全球人口将在2083年达到峰值，但越来越多的经济学家，如宾夕法尼亚大学的哈扎德·费尔南德斯·维拉富尔特教授，认为这一预测过于乐观。他们指出，实际峰值可能提前至2055年。文章深入探讨了联合国预测不准确的三大原因：低估实际出生率、中国人口数据可能被夸大，以及对生育率反弹的盲目乐观。这些因素预示着全球经济将更早面临养老金危机、经济增长放缓和政府债务问题，同时也将重塑全球力量格局。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Hazard Fernandes Villafuerte
-  - Yi Fuxian
-companies_orgs:
-  - United Nations
-  - World Health Organization
-  - Institute for Health Metrics and Evaluation
-  - IIASA
-  - National Health and Family Planning Commission
-products_models: []
-media_books:
-  - The Economist
 status: evergreen
+summary: 联合国预测全球人口将在2083年达到峰值，但越来越多的经济学家，如宾夕法尼亚大学的哈扎德·费尔南德斯·维拉富尔特教授，认为这一预测过于乐观。他们指出，实际峰值可能提前至2055年。文章深入探讨了联合国预测不准确的三大原因：低估实际出生率、中国人口数据可能被夸大，以及对生育率反弹的盲目乐观。这些因素预示着全球经济将更早面临养老金危机、经济增长放缓和政府债务问题，同时也将重塑全球力量格局。
+tags:
+- crisis
+- decline
+- economic
+- investment
+- rate
+title: 人口萎缩速度远超预期：联合国预测为何过于乐观？
 ---
+
 ### 全球人口峰值提前：联合国预测的乐观偏差
 
 联合国预测，全球人口将在2083年达到峰值。然而，越来越多的经济学家，例如宾夕法尼亚大学的**哈扎德·费尔南德斯·维拉富尔特**（Hazard Fernandes Villafuerte: 一位研究人口和经济趋势的教授），认为这一联合国预测过于乐观。

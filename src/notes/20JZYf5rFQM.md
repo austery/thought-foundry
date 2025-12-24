@@ -1,60 +1,60 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CIA
+- SpaceX
+- ExxonMobil
+- Goldman Sachs
+- McKinsey
+- Hamas
+- 欧盟
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《转折点》
+- 《越南战》
+- 《莫洛托夫-里宾特洛普条约》
+people:
+- Vladimir Putin
+- Donald Trump
+- Steve Whitkoff
+- Jared Kushner
+- Volodymyr Zelenskyy
+- Marco Rubio
+- Sergey Lavrov
+- Kirill Dmitriev
+- Yury Ushakov
+- Mark Fogel
+- Henry Kissinger
+- Tony Blair
+- Michael Gross
+- Yegor Gaidar
+- Andriy Yermak
+products_models:
+- Tomahawk cruise missiles
+- F-16 fighter jets
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=20JZYf5rFQM
 speaker: 记者易速利
-tags:
-  - russia-ukraine-war
-  - peace-negotiations
-  - private-diplomacy
-  - us-foreign-policy
-  - economic-sanctions
-title: 特朗普政府的俄乌和平斡旋：私人外交、经济诱因与地缘政治困境
-summary: 本文深入探讨了特朗普政府时期，以私人特使维特科夫和库什纳为核心的俄乌战争调停努力。文章分析了28点和19点和平方案的演变，俄罗斯在谈判中的强硬立场，以及美国试图通过商业合作和经济压力促成和平的策略。同时，文章也揭示了私人外交的优势与局限，普京的可信度问题，以及在缺乏中国、印度等关键国家支持下，美国在对俄施压方面的困境，最终指出任何和平协议都可能“不好看”的现实。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Vladimir Putin
-  - Donald Trump
-  - Steve Whitkoff
-  - Jared Kushner
-  - Volodymyr Zelenskyy
-  - Marco Rubio
-  - Sergey Lavrov
-  - Kirill Dmitriev
-  - Yury Ushakov
-  - Mark Fogel
-  - Henry Kissinger
-  - Tony Blair
-  - Michael Gross
-  - Yegor Gaidar
-  - Andriy Yermak
-companies_orgs:
-  - CIA
-  - SpaceX
-  - ExxonMobil
-  - Goldman Sachs
-  - McKinsey
-  - Hamas
-  - 欧盟
-products_models:
-  - Tomahawk cruise missiles
-  - F-16 fighter jets
-media_books:
-  - 《转折点》
-  - 《越南战》
-  - 《莫洛托夫-里宾特洛普条约》
 status: evergreen
+summary: 本文深入探讨了特朗普政府时期，以私人特使维特科夫和库什纳为核心的俄乌战争调停努力。文章分析了28点和19点和平方案的演变，俄罗斯在谈判中的强硬立场，以及美国试图通过商业合作和经济压力促成和平的策略。同时，文章也揭示了私人外交的优势与局限，普京的可信度问题，以及在缺乏中国、印度等关键国家支持下，美国在对俄施压方面的困境，最终指出任何和平协议都可能“不好看”的现实。
+tags:
+- economic-sanction
+- private
+- psychology
+- russia-ukraine-war
+- us-foreign-policy
+title: 特朗普政府的俄乌和平斡旋：私人外交、经济诱因与地缘政治困境
 ---
+
 ### 特朗普政府的俄乌和平斡旋背景
 
 和平的障碍一直都在普京这边。之前的28点和平方案已经调整到了19点。乌克兰军队的规模由60万人提高到了80万人，更接近目前的实际水平90万。乌克兰方面坚持不放弃目前自己仍然掌控的顿巴斯领土。国卿卢比奥说，双方争夺的实际上就是30到50公里宽的区域，加上克里米亚剩下的20%。问题是，这些地区由乌克兰控制，目前是重兵布防，雷区密布。如果拱手让出去，未来乌克兰中部就会面临着俄罗斯直接的威胁。所以和平进程其实一直都在各种迷雾当中，一连下来基本上没有取得实质性进展。

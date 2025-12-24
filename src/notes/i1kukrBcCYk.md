@@ -1,38 +1,37 @@
 ---
-author: 徒步的騎手
-date: 2025-01-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=i1kukrBcCYk'
-speaker: 徒步的騎手
-tags:
-  - cognitive-style
-  - skepticism
-  - social-trust
-  - information-literacy
-  - personal-responsibility
-title: 信息洪流下的认知策略：学会存疑，避免盲从
-summary: 本文探讨了在不确定性和信息过载的时代，现代认知方式中“存疑”的重要性。文章对比了存疑与盲信，分析了社会互信和个人责任如何影响我们的决策，从人际关系到金融投资。通过DeepSeek事件和历史人物的例子，强调了耐心、批判性思维和尽责调查的必要性，以避免在数字时代成为“有用的傻瓜”或“网络心智难民”。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - china-analysis
-people:
-  - 德川家康
-  - 织田信长
-  - 丰臣秀吉
-  - 苏格拉底
-  - 孔子
+category: psychology
 companies_orgs: '[]'
-products_models:
-  - DeepSeek
+date: 2025-01-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- 德川家康
+- 织田信长
+- 丰臣秀吉
+- 苏格拉底
+- 孔子
+products_models:
+- DeepSeek
+project:
+- systems-thinking
+- personal-growth-lab
+- china-analysis
+series: ''
+source: https://www.youtube.com/watch?v=i1kukrBcCYk
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了在不确定性和信息过载的时代，现代认知方式中“存疑”的重要性。文章对比了存疑与盲信，分析了社会互信和个人责任如何影响我们的决策，从人际关系到金融投资。通过DeepSeek事件和历史人物的例子，强调了耐心、批判性思维和尽责调查的必要性，以避免在数字时代成为“有用的傻瓜”或“网络心智难民”。
+tags:
+- cognitive
+- information
+- personal-responsibility
+- skepticism
+- social
+title: 信息洪流下的认知策略：学会存疑，避免盲从
 ---
 
 ### 认知方式与现代世界的开启

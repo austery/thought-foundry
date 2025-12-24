@@ -1,67 +1,67 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Warner Music Group
+- Norges Bank Investment Management
+- HBO
+- Netflix
+- YouTube
+- Google
+- Spotify
+- Apple
+- Amazon
+- Paramount Plus
+- Apple TV Plus
 date: '2025-04-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Journal
+- Bloomberg
+- FT
+- New York Times
+- Strategery
+- ai-in-music
+people:
+- Robert Kyncl
+- Nicolola Tangan
+- Eric Schmidt
+- Daniel Ek
+- David Guetta
+- Ava Max
+- Michael Jackson
+- Queen
+- Tracy Chapman
+- Abe Burns
+products_models:
+- Content ID
+- White Lotus
+- Lioness
+- Yellowstone
+- Gilded Age
+- Black Mirror
+- Drops of God
+- The New Look
+project:
+- ai-impact-analysis
+- entrepreneurship
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=0zNfoQtxWXc
 speaker: Norges Bank Investment Management
-tags:
-  - music-industry-transformation
-  - artist-development
-  - streaming-economy
-  - ai-in-music
-  - corporate-innovation
-title: 华纳音乐集团CEO罗伯特·金塞尔：从颠覆者到音乐产业的未来塑造者
-summary: 华纳音乐集团CEO罗伯特·金塞尔分享了他从捷克斯洛伐克到科技巨头（HBO、Netflix、YouTube）再到音乐产业的职业历程。他深入探讨了音乐产业的变革，包括数字发行带来的民主化、艺人培养的重要性、现场音乐的复兴以及流媒体经济的定价策略。金塞尔还展望了人工智能对音乐创作和版权管理的潜在影响，并强调了在不确定世界中保持开放心态和结果导向的重要性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - market-cycles
-people:
-  - Robert Kyncl
-  - Nicolola Tangan
-  - Eric Schmidt
-  - Daniel Ek
-  - David Guetta
-  - Ava Max
-  - Michael Jackson
-  - Queen
-  - Tracy Chapman
-  - Abe Burns
-companies_orgs:
-  - Warner Music Group
-  - Norges Bank Investment Management
-  - HBO
-  - Netflix
-  - YouTube
-  - Google
-  - Spotify
-  - Apple
-  - Amazon
-  - Paramount Plus
-  - Apple TV Plus
-products_models:
-  - Content ID
-  - White Lotus
-  - Lioness
-  - Yellowstone
-  - Gilded Age
-  - Black Mirror
-  - Drops of God
-  - The New Look
-media_books:
-  - Wall Street Journal
-  - Bloomberg
-  - FT
-  - New York Times
-  - Strategery
 status: evergreen
+summary: 华纳音乐集团CEO罗伯特·金塞尔分享了他从捷克斯洛伐克到科技巨头（HBO、Netflix、YouTube）再到音乐产业的职业历程。他深入探讨了音乐产业的变革，包括数字发行带来的民主化、艺人培养的重要性、现场音乐的复兴以及流媒体经济的定价策略。金塞尔还展望了人工智能对音乐创作和版权管理的潜在影响，并强调了在不确定世界中保持开放心态和结果导向的重要性。
+tags:
+- artist-development
+- economy
+- industry
+- innovation
+title: 华纳音乐集团CEO罗伯特·金塞尔：从颠覆者到音乐产业的未来塑造者
 ---
+
 ### 欢迎与罗伯特·金塞尔共话音乐人生
 
 **Nicolola:** 大家好，欢迎来到“良伴同行”播客。我是挪威主权财富基金的首席执行官尼古拉·坦根。今天，我非常荣幸地邀请到了华纳音乐集团（全球最大的唱片公司之一）的首席执行官罗伯特·金塞尔先生。

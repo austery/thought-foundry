@@ -1,35 +1,34 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
 date: '2025-05-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Schneider
+products_models: []
+project:
+- systems-thinking
+- entrepreneurship
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3dB0WGugwBA
 speaker: Norges Bank Investment Management
-tags:
-  - corporate-culture
-  - organizational-leadership
-  - culture-change
-  - organizational-pitfalls
-  - diversity-inclusion
-title: 企业文化与领导力：CEO视角下的投资考量
-summary: 一位资深CEO分享了企业文化和领导力在投资决策中的关键作用。他强调了文化对公司韧性和可持续性的影响，探讨了CEO如何塑造文化，并指出了大型企业常见的内部导向和问责缺失两大陷阱。最后，他强调了多元化和包容性领导团队对业务表现的积极影响。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-  - historical-insights
-people:
-  - Mark Schneider
-companies_orgs:
-  - Norges Bank Investment Management
-products_models: []
-media_books: []
 status: evergreen
+summary: 一位资深CEO分享了企业文化和领导力在投资决策中的关键作用。他强调了文化对公司韧性和可持续性的影响，探讨了CEO如何塑造文化，并指出了大型企业常见的内部导向和问责缺失两大陷阱。最后，他强调了多元化和包容性领导团队对业务表现的积极影响。
+tags:
+- corporate-culture
+- culture
+- geopolitical
+- organizational
+- organizational-leadership
+title: 企业文化与领导力：CEO视角下的投资考量
 ---
+
 ### 引言：文化与领导力作为投资考量
 
 非常感谢您的盛情介绍，也感谢挪威银行（Norges Bank）的邀请。

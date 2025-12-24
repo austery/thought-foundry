@@ -1,40 +1,40 @@
 ---
-author: Big Think
+area: society-systems
+category: general
+companies_orgs:
+- Roots of Progress Institute
+- Big Think
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Technoist Manifesto
+people:
+- Jason Crawford
+- Francis Bacon
+- Rousseau
+- Isaac Newton
+products_models:
+- Gutenberg movable type printing press
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=n6ebqoan4SE
 speaker: Big Think
-tags:
-  - human-progress
-  - technological-stagnation
-  - historical-perspective
-  - societal-optimism
-  - future-potential
-title: 人类进步的停滞与未来展望：一项历史与哲学的反思
-summary: 关于人类进步的讨论日益激烈，我们是否走在正确的轨道上？本文作者杰森·克劳福德回顾了进步理念的历史演变，指出在人类历史的大部分时间里，进步并非主流观念。直到15、16世纪，随着地理大发现和弗朗西斯·培根等思想家的推动，进步的理念才逐渐确立。工业革命后，进步加速，形成正反馈循环。然而，20世纪的两次世界大战和经济大萧条，打破了人们对进步的盲目乐观。作者认为，近50年来，除了信息技术，其他领域（如制造、交通、能源）的进步明显放缓，这表明进步并非必然，而是取决于我们的信念和投入。未来仍有无限可能，但需要我们主动去创造。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Jason Crawford
-  - Francis Bacon
-  - Rousseau
-  - Isaac Newton
-companies_orgs:
-  - Roots of Progress Institute
-  - Big Think
-products_models:
-  - Gutenberg movable type printing press
-media_books:
-  - The Technoist Manifesto
 status: evergreen
+summary: 关于人类进步的讨论日益激烈，我们是否走在正确的轨道上？本文作者杰森·克劳福德回顾了进步理念的历史演变，指出在人类历史的大部分时间里，进步并非主流观念。直到15、16世纪，随着地理大发现和弗朗西斯·培根等思想家的推动，进步的理念才逐渐确立。工业革命后，进步加速，形成正反馈循环。然而，20世纪的两次世界大战和经济大萧条，打破了人们对进步的盲目乐观。作者认为，近50年来，除了信息技术，其他领域（如制造、交通、能源）的进步明显放缓，这表明进步并非必然，而是取决于我们的信念和投入。未来仍有无限可能，但需要我们主动去创造。
+tags:
+- future
+- historical
+- human
+- societal
+- technological
+title: 人类进步的停滞与未来展望：一项历史与哲学的反思
 ---
+
 ### 引言：对进步理念的质疑
 
 围绕进步和人类的讨论确实变得非常激烈：我们是否走在正确的轨道上？我们在做什么？我们甚至知道自己在做什么吗？也许现代性是一个错误，也许进步本身就是问题所在，也许我们应该放慢它、停止它，甚至倒退。

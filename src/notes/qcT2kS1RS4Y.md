@@ -1,91 +1,90 @@
 ---
-author: All-In Podcast
+area: society-thinking
+category: politics-society
+companies_orgs:
+- All-In Podcast
+- Amazon
+- Capitol Police
+- No Labels
+- Democratic Party
+- Republican Party
+- Tea Party
+- United States Senate
+- United States House of Representatives
+- Supreme Court
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Dead Center in Defense of Common Sense
+people:
+- Joe Manchin
+- Jason Calacanis
+- Chamath Palihapitiya
+- Joe Biden
+- Chuck Schumer
+- Donald Trump
+- Robert C. Byrd
+- Raphael Warnock
+- Jon Ossoff
+- Harry Reid
+- Barack Obama
+- Mitch McConnell
+- Kyrsten Sinema
+- Bernie Sanders
+- Elizabeth Warren
+- Ron Klain
+- John F. Kennedy
+- John McCain
+- John Boehner
+- Eric Cantor
+- Angus King
+- Mark Warner
+- Tim Kaine
+- Jeanne Shaheen
+- Maggie Hassan
+- Mike Rounds
+- John Hoeven
+- Lisa Murkowski
+- Susan Collins
+- Mitt Romney
+- Catherine Cortez Masto
+- Jacky Rosen
+- Thom Tillis
+- Bill Cassidy
+- John Thune
+- Richard Nixon
+- Ross Perot
+- Kamala Harris
+- Andy Beshear
+- Josh Shapiro
+- Stephen A. Smith
+- Jamie Dimon
+- Bob Iger
+- Mike Mullen
+- Bill Clinton
+- Alexandria Ocasio-Cortez
+- Heather Manchin
+products_models:
+- Maserati
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qcT2kS1RS4Y
 speaker: All-In Podcast
-tags:
-  - bipartisanship
-  - political-polarization
-  - legislative-process
-  - fiscal-responsibility
-  - term-limits
-title: 中间派的坚守：乔·曼钦剖析美国政治僵局与未来出路
-summary: 前参议员乔·曼钦深入探讨其新书《死守中庸》，回顾了他在50/50分裂的参议院中的关键角色。他详细讲述了因“重建美好未来”法案与拜登政府的激烈冲突，揭示了党派政治的幕后压力。曼钦强调了两党合作、财政责任和任期限制的重要性，并分享了他对奥巴马、特朗普和拜登三位总统执政风格的独到见解，展望了美国政治的未来格局。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Joe Manchin
-  - Jason Calacanis
-  - Chamath Palihapitiya
-  - Joe Biden
-  - Chuck Schumer
-  - Donald Trump
-  - Robert C. Byrd
-  - Raphael Warnock
-  - Jon Ossoff
-  - Harry Reid
-  - Barack Obama
-  - Mitch McConnell
-  - Kyrsten Sinema
-  - Bernie Sanders
-  - Elizabeth Warren
-  - Ron Klain
-  - John F. Kennedy
-  - John McCain
-  - John Boehner
-  - Eric Cantor
-  - Angus King
-  - Mark Warner
-  - Tim Kaine
-  - Jeanne Shaheen
-  - Maggie Hassan
-  - Mike Rounds
-  - John Hoeven
-  - Lisa Murkowski
-  - Susan Collins
-  - Mitt Romney
-  - Catherine Cortez Masto
-  - Jacky Rosen
-  - Thom Tillis
-  - Bill Cassidy
-  - John Thune
-  - Richard Nixon
-  - Ross Perot
-  - Kamala Harris
-  - Andy Beshear
-  - Josh Shapiro
-  - Stephen A. Smith
-  - Jamie Dimon
-  - Bob Iger
-  - Mike Mullen
-  - Bill Clinton
-  - Alexandria Ocasio-Cortez
-  - Heather Manchin
-companies_orgs:
-  - All-In Podcast
-  - Amazon
-  - Capitol Police
-  - No Labels
-  - Democratic Party
-  - Republican Party
-  - Tea Party
-  - United States Senate
-  - United States House of Representatives
-  - Supreme Court
-products_models:
-  - Maserati
-media_books:
-  - Dead Center in Defense of Common Sense
 status: evergreen
+summary: 前参议员乔·曼钦深入探讨其新书《死守中庸》，回顾了他在50/50分裂的参议院中的关键角色。他详细讲述了因“重建美好未来”法案与拜登政府的激烈冲突，揭示了党派政治的幕后压力。曼钦强调了两党合作、财政责任和任期限制的重要性，并分享了他对奥巴马、特朗普和拜登三位总统执政风格的独到见解，展望了美国政治的未来格局。
+tags:
+- canada
+- financial
+- technology
+- term
+title: 中间派的坚守：乔·曼钦剖析美国政治僵局与未来出路
 ---
+
 ### 访谈开场与新书《死守中庸》
 
 **Jason Calacanis:** 好的，各位，欢迎回到 All-In 播客。今天我们非常高兴地请到了参议员乔·曼钦。查马斯和我将就他的新书《死守中庸：为常识辩护》（Dead Center in Defense of Common Sense）对他进行采访。这本书非常棒。欢迎来到节目，乔·曼钦。我知道你喜欢别人叫你乔。那么，乔，欢迎你。

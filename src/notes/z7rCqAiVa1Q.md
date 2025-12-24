@@ -1,47 +1,47 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 广东时代美术馆
+- 和地再创项目
+- 香港演艺学院
+- 广东舞蹈学校
+- 中山大学
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《怎么鉴别黄色歌曲》
+- 《迪斯科皇后》
+people:
+- 何其沃
+- 二高
+- 王丽丽
+- 邓丽君
+- 谭咏麟
+- 叶倩文
+- 张国荣
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=z7rCqAiVa1Q
 speaker: 一席YiXi
-tags:
-  - everyday-movement
-  - cultural-memory
-  - dance-as-ordinary-life
-  - rough-beauty
-  - intergenerational-connectivity
-title: 身体可以粗糙，但是一定要幸福：一位舞者对迪斯科、乡愁与日常之美的重构
-summary: 何其沃（二高）通过‘来来舞厅’与‘蝴蝶岛’等作品，重新定义舞蹈——它不属于精英阶层或专业院校，而是普通人生活中粗糙却真实的幸福表达。从迪斯科到广场舞，他用身体记忆串联起时代变迁中的个体情感与文化共鸣。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 何其沃
-  - 二高
-  - 王丽丽
-  - 邓丽君
-  - 谭咏麟
-  - 叶倩文
-  - 张国荣
-companies_orgs:
-  - 广东时代美术馆
-  - 和地再创项目
-  - 香港演艺学院
-  - 广东舞蹈学校
-  - 中山大学
-products_models: []
-media_books:
-  - 《怎么鉴别黄色歌曲》
-  - 《迪斯科皇后》
 status: evergreen
+summary: 何其沃（二高）通过‘来来舞厅’与‘蝴蝶岛’等作品，重新定义舞蹈——它不属于精英阶层或专业院校，而是普通人生活中粗糙却真实的幸福表达。从迪斯科到广场舞，他用身体记忆串联起时代变迁中的个体情感与文化共鸣。
+tags:
+- cultural
+- health
+- life
+- movement
+- rough-beauty
+title: 身体可以粗糙，但是一定要幸福：一位舞者对迪斯科、乡愁与日常之美的重构
 ---
+
 ### 舞蹈不是精英的专利：从学院派到街头的身体觉醒
 
 我叫何其沃，朋友们都叫我二高。我是一名舞者、编舞者，出生在广东阳江——一个海边的小城。小时候成绩很差，但一次偶然的机会，我在放学路上看到文化宫的艺术学校招生广告，就拿了几块钱报名费，考进了艺校。那时我才明白，在舞蹈学校里，男生其实很好进——只要身体没有明显问题就行。

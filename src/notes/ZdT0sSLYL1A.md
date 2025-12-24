@@ -1,53 +1,53 @@
 ---
-author: LT視界
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ZdT0sSLYL1A'
-speaker: LT視界
-tags:
-  - us-china-relations
-  - nuclear-weapons-testing
-  - geopolitical-strategy
-  - market-reaction
-  - fed-policy
-title: 川习会后市场反应与川普核武试验指令：地缘政治与经济动态分析
-summary: 本文深入分析了近期全球多项重要事件：美联储鲍威尔对12月降息预期的警告及其内部政策分歧；川习会未能达到市场预期，导致中美股市下跌；欧洲央行维持利率不变。同时，文章探讨了美国总统川普访问韩国期间，美国支持韩国建造核动力潜艇的战略转变，以及川普在会见习近平前夕突然下令恢复核武试验的深层动机及其引发的国际关注。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Jerome Powell
-  - Christine Lagarde
-  - 李在民
-  - 赵显
-  - Vladimir Putin
+category: geopolitics
 companies_orgs:
-  - Polymarket
-  - 美联储
-  - 欧洲央行
-  - 亚太经合组织
-  - 韩华海洋
-  - 美国国防部
-  - RT
-products_models:
-  - 核动力巡航导弹
-  - 核动力鱼雷
-  - 陆战队一号
+- Polymarket
+- 美联储
+- 欧洲央行
+- 亚太经合组织
+- 韩华海洋
+- 美国国防部
+- RT
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 彭博社
-  - 路透社
-  - 华尔街日报
+- 彭博社
+- 路透社
+- 华尔街日报
+people:
+- Donald Trump
+- Xi Jinping
+- Jerome Powell
+- Christine Lagarde
+- 李在民
+- 赵显
+- Vladimir Putin
+products_models:
+- 核动力巡航导弹
+- 核动力鱼雷
+- 陆战队一号
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=ZdT0sSLYL1A
+speaker: LT視界
 status: evergreen
+summary: 本文深入分析了近期全球多项重要事件：美联储鲍威尔对12月降息预期的警告及其内部政策分歧；川习会未能达到市场预期，导致中美股市下跌；欧洲央行维持利率不变。同时，文章探讨了美国总统川普访问韩国期间，美国支持韩国建造核动力潜艇的战略转变，以及川普在会见习近平前夕突然下令恢复核武试验的深层动机及其引发的国际关注。
+tags:
+- fed-policy
+- geopolitical-strategy
+- market-reaction
+- nuclear
+- us-china-relations
+title: 川习会后市场反应与川普核武试验指令：地缘政治与经济动态分析
 ---
+
 ### 财经头条：美联储、川习会与欧洲央行动态
 
 彭博社报道指出，**美联储**（Federal Reserve: 美国中央银行系统）主席**鲍威尔**（Jerome Powell）对12月份降息的警告，揭示了美联储内部日益加剧的分歧。鲍威尔直言不讳地警告市场投资者，需要降低对12月份降息的预期，这凸显了美国政策制定者之间日益加剧的拉锯战，他们在就业和通胀前景方面存在分歧。尽管鲍威尔明确表示，部分人士主要担忧的是就业市场的降温，但美联储内部其他人士则警告，持续的通胀将限制进一步的宽松空间。目前，**政府停摆**（Government Shutdown: 美国政府因预算僵局而部分或全面停止运作）期间官方经济数据冻结发布，只会加剧这种分歧。

@@ -1,33 +1,31 @@
 ---
-title: Nubank 创始人 David Vélez：从零到拉美金融科技巨头的创业之路
-summary: Nubank 联合创始人兼 CEO David Vélez 分享了他创立 Nubank 的历程，包括家庭背景、创业初衷、在巴西金融市场的挑战、公司文化、AI
-  赋能金融服务以及他对领导力、社会责任和未来金融的看法。
 area: market-analysis
 category: business
-project:
-- entrepreneurship
-- investment-strategy
-tags:
-- digital-banking
-- entrepreneurship
-- fintech
-- norges-bank-investment-management
-people: []
 companies_orgs:
 - nubank
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: Norges Bank Investment Management
-speaker: Norges Bank Investment Management
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- entrepreneurship
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=npVZsYaoJs0
+speaker: Norges Bank Investment Management
 status: evergreen
+summary: Nubank 联合创始人兼 CEO David Vélez 分享了他创立 Nubank 的历程，包括家庭背景、创业初衷、在巴西金融市场的挑战、公司文化、AI
+  赋能金融服务以及他对领导力、社会责任和未来金融的看法。
+tags:
+- digital
+- entrepreneurship
+- fintech
+- investment
+title: Nubank 创始人 David Vélez：从零到拉美金融科技巨头的创业之路
 ---
+
 ### 童年经历与创业基因
 
 Hi everyone, I'm Nicolola Tangian the CEO of the Norwegian so wealth fund and today I'm joined by a true fintech pioneer who has transformed banking in Latin America. David is the co-founder and CEO of New Bank, one of the world's largest digital banks, serving something like nearly 120 million customers in Brazil, Mexico and Colombia. And under David's leadership, New Bank has grown from a startup uh to one of the most valuable banks in the region. So David, a warm welcome.

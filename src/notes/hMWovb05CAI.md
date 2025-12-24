@@ -1,41 +1,41 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-01-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《不能承受的生命之轻》
+people:
+- 陈东楠
+- 佳泉
+- 木山
+- 黑阿力
+- 龙指挥
+- 建生
+- 李晋
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=hMWovb05CAI
 speaker: 一席YiXi
-tags:
-  - modernity-vs-tradition
-  - free-dom-and-control
-  - cultural-erasure
-  - economic-transition
-  - identity-adaptation
-title: 在平庸中凝视灵魂的失落：一位纪录片导演的生命记录
-summary: 陈东楠通过《偷》与《旷野歌声》两部纪录片，记录了边缘群体在现代化浪潮中的挣扎与变形。影片不仅留存了被遗忘的生命痕迹，更揭示了自由与规训、传统与消费主义之间的深层张力。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 陈东楠
-  - 佳泉
-  - 木山
-  - 黑阿力
-  - 龙指挥
-  - 建生
-  - 李晋
-companies_orgs: []
-products_models: []
-media_books:
-  - 《不能承受的生命之轻》
 status: evergreen
+summary: 陈东楠通过《偷》与《旷野歌声》两部纪录片，记录了边缘群体在现代化浪潮中的挣扎与变形。影片不仅留存了被遗忘的生命痕迹，更揭示了自由与规训、传统与消费主义之间的深层张力。
+tags:
+- control
+- cultural
+- economic
+- history
+- identity
+title: 在平庸中凝视灵魂的失落：一位纪录片导演的生命记录
 ---
+
 ### 一部关于“只发生一次”的纪录片
 
 大家好，我是陈东楠。我是一名纪录片导演，从二十多岁进入这个行业，至今已超过十年。在初中时，我深受米兰·昆德拉《不能承受的生命之轻》的影响——书中托马斯引用了一句德文谚语：“Einmal ist keinmal”，意思是：如果一件事只发生一次，那它就像从未发生过。

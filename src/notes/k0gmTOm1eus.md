@@ -1,52 +1,52 @@
 ---
-author: How I AI
+area: tech-insights
+category: technology
+companies_orgs:
+- Chime
+- Vercel
+- GitHub
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- beginner-coding-guide
+people:
+- Claire Vo
+- Lee
+- Dennis from Chime
+- Elizabeth Lynn
+products_models:
+- ChatPRD
+- Vzero
+- Cursor
+- Claude Code
+- Next.js
+- TypeScript
+- Tailwind CSS
+- ESLint
+- Composer One
+- Lovable
+- Bolt
+- Replit
+- GitHub Desktop
+project:
+- ai-impact-analysis
+- vibe-coding
+series: ''
 source: https://www.youtube.com/watch?v=k0gmTOm1eus
 speaker: How I AI
-tags:
-  - ai-assisted-coding
-  - beginner-coding-guide
-  - product-development
-  - personal-project-hub
-  - version-control
-title: AI辅助编程新手指南：从PRD到代码实现个人项目中心
-summary: 本集节目为编程初学者提供了一份详尽的AI辅助编程指南。主持人Claire Vo演示了如何利用AI工具（如ChatPRD和Cursor）从零开始构建一个个人项目中心，涵盖了从撰写产品需求文档（PRD）到生成可运行代码的整个过程。节目强调了即使是非技术人员也能通过AI工具快速上手，并介绍了版本控制（GitHub）和代码迭代的方法，旨在帮助用户高效地学习和实践AI辅助开发。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - vibe-coding
-people:
-  - Claire Vo
-  - Lee
-  - Dennis from Chime
-  - Elizabeth Lynn
-companies_orgs:
-  - Chime
-  - Vercel
-  - GitHub
-products_models:
-  - ChatPRD
-  - Vzero
-  - Cursor
-  - Claude Code
-  - Next.js
-  - TypeScript
-  - Tailwind CSS
-  - ESLint
-  - Composer One
-  - Lovable
-  - Bolt
-  - Replit
-  - GitHub Desktop
-media_books: []
 status: evergreen
+summary: 本集节目为编程初学者提供了一份详尽的AI辅助编程指南。主持人Claire Vo演示了如何利用AI工具（如ChatPRD和Cursor）从零开始构建一个个人项目中心，涵盖了从撰写产品需求文档（PRD）到生成可运行代码的整个过程。节目强调了即使是非技术人员也能通过AI工具快速上手，并介绍了版本控制（GitHub）和代码迭代的方法，旨在帮助用户高效地学习和实践AI辅助开发。
+tags:
+- control
+- llm
+- personal
+- product-development
+title: AI辅助编程新手指南：从PRD到代码实现个人项目中心
 ---
+
 ### 欢迎来到AI辅助编程新手入门
 
 欢迎回到“How I AI”节目。我是Claire Vo，一位产品负责人和AI狂热者，致力于帮助大家更好地利用这些新工具进行构建。今天，我带来了一集许多人一直要求的内容，那就是：“Claire，如果我从未写过一行代码，完全不知道自己在做什么，也不知道如何在本地运行任何东西，我该如何开始**AI辅助编程**（AI-assisted coding: 利用人工智能工具辅助代码编写）和**Vibe Coding**（一种通过AI快速生成代码原型的方法），以便学习基础知识？”

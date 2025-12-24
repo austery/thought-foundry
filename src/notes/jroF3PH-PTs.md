@@ -1,61 +1,61 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: psychology
+companies_orgs:
+- Pixar
+- Google
+- US special forces
+- University of Houston
+- TikTok
+- Seattle Seahawks
+- Shopify
+- PipeDrive
+- Adobe Express
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+- Atlas of the Heart
+- Braving the Wilderness
+- Dare to Lead
+- The Rivers of London
+- The Wall Street Journal
+- The New York Times
+- Bloomberg
+- The Financial Times
+people:
+- Brené Brown
+- Steve Jobs
+- Trevor Noah
+- Kamala Harris
+- Michelle Obama
+- Jordan Peterson
+- Tom Brady
+- Emanuel Acho
+- Mary Claire Haver
+- Sam Altman
+products_models:
+- iPad
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=jroF3PH-PTs
 speaker: The Diary Of A CEO
-tags:
-  - vulnerability-and-courage
-  - emotional-armor
-  - true-belonging
-  - power-dynamics
-  - systems-thinking
-title: 布琳·布朗：我们正处于一场精神危机——解析勇气、脆弱性与真正的归属感
-summary: 著名研究学者布琳·布朗深入探讨了当代社会面临的“精神危机”。她指出，阻碍我们勇敢生活的不是恐惧，而是我们为自我保护而穿上的“盔甲”。布朗剖析了脆弱性与勇气的内在联系，解释了“权力掌控”的危险性，并提出了“弹珠罐理论”来阐释信任的建立。她强调，真正的归属感始于接纳自我，即使这意味着有时需要独自一人站立。这篇访谈为理解人际连接、个人成长和社会动态提供了深刻的见解。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Brené Brown
-  - Steve Jobs
-  - Trevor Noah
-  - Kamala Harris
-  - Michelle Obama
-  - Jordan Peterson
-  - Tom Brady
-  - Emanuel Acho
-  - Mary Claire Haver
-  - Sam Altman
-companies_orgs:
-  - Pixar
-  - Google
-  - US special forces
-  - University of Houston
-  - TikTok
-  - Seattle Seahawks
-  - Shopify
-  - PipeDrive
-  - Adobe Express
-products_models:
-  - iPad
-media_books:
-  - The Diary Of A CEO
-  - Atlas of the Heart
-  - Braving the Wilderness
-  - Dare to Lead
-  - The Rivers of London
-  - The Wall Street Journal
-  - The New York Times
-  - Bloomberg
-  - The Financial Times
 status: evergreen
+summary: 著名研究学者布琳·布朗深入探讨了当代社会面临的“精神危机”。她指出，阻碍我们勇敢生活的不是恐惧，而是我们为自我保护而穿上的“盔甲”。布朗剖析了脆弱性与勇气的内在联系，解释了“权力掌控”的危险性，并提出了“弹珠罐理论”来阐释信任的建立。她强调，真正的归属感始于接纳自我，即使这意味着有时需要独自一人站立。这篇访谈为理解人际连接、个人成长和社会动态提供了深刻的见解。
+tags:
+- emotional
+- investment
+- llm
+- power-dynamic
+- thinking
+title: 布琳·布朗：我们正处于一场精神危机——解析勇气、脆弱性与真正的归属感
 ---
+
 ### 导言：盔甲、脆弱性与勇气
 主持人：你是我们收到最多点播要求的嘉宾。
 

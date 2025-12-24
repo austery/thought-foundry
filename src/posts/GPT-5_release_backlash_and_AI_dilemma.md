@@ -5,16 +5,15 @@ area: null
 category: null
 project: []
 tags:
-  - scaling-law
-  - 多模态
+- multimodal
+- scaling-law
 people:
-  - 陈茜
-  - Bill Zhu
+- 陈茜
+- Bill Zhu
 companies_orgs:
 - openai
 products_models:
 - gpt-5
-media_books: []
 date: 2025-08-11
 author: Lei
 speaker: ''
@@ -27,6 +26,7 @@ layout: post.njk
 series: ''
 source: ''
 ---
+
 陈茜: 大家好，欢迎来到硅谷101，我是陈茜。
 
 陈茜: GPT-5的发布在硅谷引发了不小的舆论争议。我身边大多数AI从业者和技术人员，本来都非常期待又一个**ChatGPT Moment**的出现，但看完发布会，基本上都一个表情：“就这？！”

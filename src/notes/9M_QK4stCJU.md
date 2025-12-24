@@ -1,52 +1,51 @@
 ---
-author: Veritasium
+area: personal-systems
+category: psychology
+companies_orgs:
+- Barings Bank
+- SGX
+- NASA
+- Morton Thiokol
+- University of Sussex
+- Veritasium
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nick Leeson
+- Daniel Kahneman
+- David Dunning
+- Justin Kruger
+- Alan Lichtman
+- Peter Hansen
+- Michael Jesus
+- David Winman
+- Massimo Conti
+products_models:
+- Nikkei 225
+- Space Shuttle Challenger
+- Elements of Truth
+- 13 Keys to the White House
+project:
+- personal-growth-lab
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9M_QK4stCJU
 speaker: Veritasium
-tags:
-  - overconfidence
-  - cognitive-bias
-  - decision-making
-  - risk-assessment
-  - human-psychology
-title: 过度自信的陷阱：从银行倒闭到认知偏差
-summary: 本文深入探讨了过度自信这一普遍存在的认知偏差及其带来的深远影响。通过回顾尼克·里森导致贝林银行倒闭的案例，以及挑战者号航天飞机失事等历史事件，揭示了过度自信如何导致个人和组织做出灾难性决策。文章还探讨了过度自信的心理学根源，包括认知局限、启发式思维以及其在社会互动中的潜在优势。最后，提出了通过校准判断、保持谦逊和倾听不同意见来对抗过度自信的策略，以期提升决策的准确性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - investment-strategy
-  - historical-insights
-people:
-  - Nick Leeson
-  - Daniel Kahneman
-  - David Dunning
-  - Justin Kruger
-  - Alan Lichtman
-  - Peter Hansen
-  - Michael Jesus
-  - David Winman
-  - Massimo Conti
-companies_orgs:
-  - Barings Bank
-  - SGX
-  - NASA
-  - Morton Thiokol
-  - University of Sussex
-  - Veritasium
-products_models:
-  - Nikkei 225
-  - Space Shuttle Challenger
-  - Elements of Truth
-  - 13 Keys to the White House
-media_books: []
 status: evergreen
+summary: 本文深入探讨了过度自信这一普遍存在的认知偏差及其带来的深远影响。通过回顾尼克·里森导致贝林银行倒闭的案例，以及挑战者号航天飞机失事等历史事件，揭示了过度自信如何导致个人和组织做出灾难性决策。文章还探讨了过度自信的心理学根源，包括认知局限、启发式思维以及其在社会互动中的潜在优势。最后，提出了通过校准判断、保持谦逊和倾听不同意见来对抗过度自信的策略，以期提升决策的准确性。
+tags:
+- cognitive-bias
+- decision-making
+- human
+- overconfidence
+- risk
+title: 过度自信的陷阱：从银行倒闭到认知偏差
 ---
+
 ### 尼克·里森的开端：过度自信的萌芽
 
 1992年7月17日星期五，在**新加坡国际证券交易所**（SGX: Singapore Exchange Limited，新加坡最大的金融市场运营商）混乱的交易大厅里，一名初级交易员犯了一个代价高昂的错误。她本应为客户购买20份**期货合约**（Futures Contracts: 一种标准化合约，约定在未来特定日期以特定价格买卖某种资产），却错误地卖出了它们，导致**贝林银行**（Barings Bank: 英国历史最悠久的商业银行之一，因交易员尼克·里森的过度投机而倒闭）损失了近4万美元。为了保住她的工作，她的上司尼克·里森（Nick Leeson），一位渴望有所作为的年轻交易员，决定隐瞒这笔损失。他将其放入一个不为人知的**错误账户88888**（Account 88888: 银行用于处理小额交易差异的内部账户）中。这个账户通常被银行用来解决交易中的小额差异。这是一个危险的举动，本应立即被中央办公室发现。然而，当贝林银行的任何人都没有察觉时，里森的信心大增，他确信自己能够弥补损失，并让团队摆脱困境。

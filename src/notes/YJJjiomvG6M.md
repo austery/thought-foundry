@@ -1,90 +1,90 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Robinhood
+- Google
+- Amazon
+- Meta
+- Apple
+- SMCI
+- Bitmine
+- Grab
+- GoTo
+- TSMC
+- Microsoft
+- Instacart
+- Cisco
+- Disney
+- Berkshire Hathaway
+- UnitedHealth Group
+- Oscar Health
+- JPMorgan
+- Open Door
+- Shopify
+- UBS
+- OpenAI
+- CoreWeave
+- Nebius
+- Rocket Lab
+- Palantir
+- AMD
+- Micron
+- Federal Reserve
+- Stripe
+- Discord
+- Figma
+- Canva
+- Pfizer
+- Dell
+- HP
+- Shopify
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Catch Me If You Can
+- Breaking Bad
+people:
+- Mike Johnson
+- Chuck Schumer
+- Michael Burry
+- Howard Marks
+- David Tepper
+- Anthony Tan
+- Tom Lee
+- Jensen Huang
+- Alex Karp
+- Vlad Tenev
+- Donald Trump
+- Sam Altman
+- Elon Musk
+- Warren Buffett
+- Chad Wallquist
+products_models:
+- Blackwell Chip
+- Affordable Care Act
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=YJJjiomvG6M
 speaker: Amit Kukreja
-tags:
-  - government-shutdown
-  - market-rally
-  - earnings-season
-  - fed-policy
-  - ai-investment
-title: 美国政府停摆危机解除，英伟达需求激增推动市场全线飘绿
-summary: 本周市场开盘迎来积极信号，美国政府停摆危机基本结束，提振了投资者信心，推动股市全面上涨。英伟达因其Blackwell芯片需求激增而股价大涨，进一步巩固了AI领域的看涨情绪。然而，由于《平价医疗法案》补贴前景不明，医疗保健板块承压。此外，分析师还关注Grab的并购传闻、Bitmine对以太坊的大举投资，以及迈克尔·贝瑞对科技巨头财务折旧方式发出的新警告。同时，特朗普提出的“2000美元分红”计划也引发了关于其潜在通胀影响的激烈讨论。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Mike Johnson
-  - Chuck Schumer
-  - Michael Burry
-  - Howard Marks
-  - David Tepper
-  - Anthony Tan
-  - Tom Lee
-  - Jensen Huang
-  - Alex Karp
-  - Vlad Tenev
-  - Donald Trump
-  - Sam Altman
-  - Elon Musk
-  - Warren Buffett
-  - Chad Wallquist
-companies_orgs:
-  - Nvidia
-  - Robinhood
-  - Google
-  - Amazon
-  - Meta
-  - Apple
-  - SMCI
-  - Bitmine
-  - Grab
-  - GoTo
-  - TSMC
-  - Microsoft
-  - Instacart
-  - Cisco
-  - Disney
-  - Berkshire Hathaway
-  - UnitedHealth Group
-  - Oscar Health
-  - JPMorgan
-  - Open Door
-  - Shopify
-  - UBS
-  - OpenAI
-  - CoreWeave
-  - Nebius
-  - Rocket Lab
-  - Palantir
-  - AMD
-  - Micron
-  - Federal Reserve
-  - Stripe
-  - Discord
-  - Figma
-  - Canva
-  - Pfizer
-  - Dell
-  - HP
-  - Shopify
-products_models:
-  - Blackwell Chip
-  - Affordable Care Act
-media_books:
-  - Catch Me If You Can
-  - Breaking Bad
 status: evergreen
+summary: 本周市场开盘迎来积极信号，美国政府停摆危机基本结束，提振了投资者信心，推动股市全面上涨。英伟达因其Blackwell芯片需求激增而股价大涨，进一步巩固了AI领域的看涨情绪。然而，由于《平价医疗法案》补贴前景不明，医疗保健板块承压。此外，分析师还关注Grab的并购传闻、Bitmine对以太坊的大举投资，以及迈克尔·贝瑞对科技巨头财务折旧方式发出的新警告。同时，特朗普提出的“2000美元分红”计划也引发了关于其潜在通胀影响的激烈讨论。
+tags:
+- ai-investment
+- earnings-season
+- fed-policy
+- government-shutdown
+- market
+title: 美国政府停摆危机解除，英伟达需求激增推动市场全线飘绿
 ---
+
 ### 政府停摆危机解除，市场全线飘绿
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月10日，星期一，我们又迎来新的一周来分析全球资本股票市场。感谢各位的到来，希望大家周末愉快。我们有很多内容要谈，盘前市场一片绿色，原因在于**政府停摆**（Government Shutdown: 指美国政府因国会未能通过预算案而导致部分机构关闭的状况）基本已经结束。

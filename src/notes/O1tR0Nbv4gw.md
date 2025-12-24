@@ -1,31 +1,28 @@
 ---
-title: 反向ETF深度解析：SQQQ的运作原理、风险与适用场景
-summary: 本文深入探讨反向ETF（如SQQQ）的运作机制、潜在风险（特别是市场波动损失），并解释其与做空的不同。内容涵盖其优点、适用场景及为何不适合多数投资者，旨在帮助规避投资误区。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - financial-education
-  - inverse-etf
-  - investment-risk
-  - short-selling
-  - stock-market
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-02-28'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=O1tR0Nbv4gw
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入探讨反向ETF（如SQQQ）的运作机制、潜在风险（特别是市场波动损失），并解释其与做空的不同。内容涵盖其优点、适用场景及为何不适合多数投资者，旨在帮助规避投资误区。
+tags:
+- financial-education
+- investment
+- investment-risk
+- short-selling
+- stock-market
+title: 反向ETF深度解析：SQQQ的运作原理、风险与适用场景
 ---
 
 ### 市场背景与反向ETF的引入

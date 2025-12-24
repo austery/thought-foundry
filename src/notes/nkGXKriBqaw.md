@@ -1,45 +1,45 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- DDC
+- SOS救命小酒馆
+- 鼓楼园
+- Temple
+- PIL
 date: '2025-04-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《独自等待》
+- 《为什么长大》
+people:
+- 詹涵淇
+- 阿毛
+- 世俊
+- 小迪
+- 鼓楼熊
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=nkGXKriBqaw
 speaker: 一席YiXi
-tags:
-  - urban-spatial-transformation
-  - youth-culture-ecosystem
-  - ideal-vs-reality-gap
-  - grassroots-art-practice
-  - ephemeral-communities
-title: 在鼓楼的缝隙里：理想与现实之间的野草生长记
-summary: 詹涵淇以亲身经历讲述北京鼓楼作为城市缝隙中的青年文化生态，如何在改造与消失中孕育出非主流的艺术实践。影片《东四十条》成为对‘卡住’世代的精神回应，揭示真实生活往往发生在理想与现实的夹缝中。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - geopolitics-watch
-people:
-  - 詹涵淇
-  - 阿毛
-  - 世俊
-  - 小迪
-  - 鼓楼熊
-companies_orgs:
-  - DDC
-  - SOS救命小酒馆
-  - 鼓楼园
-  - Temple
-  - PIL
-products_models: []
-media_books:
-  - 《独自等待》
-  - 《为什么长大》
 status: evergreen
+summary: 詹涵淇以亲身经历讲述北京鼓楼作为城市缝隙中的青年文化生态，如何在改造与消失中孕育出非主流的艺术实践。影片《东四十条》成为对‘卡住’世代的精神回应，揭示真实生活往往发生在理想与现实的夹缝中。
+tags:
+- culture
+- ephemeral-community
+- gap
+- technology
+- transformation
+title: 在鼓楼的缝隙里：理想与现实之间的野草生长记
 ---
+
 ### 鼓楼：一座城中的缝隙
 
 大家好。上半场我们听了北京超无聊，下半场我就来讲讲北京到底有多无聊。

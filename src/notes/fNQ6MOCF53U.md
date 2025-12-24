@@ -1,52 +1,52 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: culture
+companies_orgs:
+- Norges Bank Investment Management
+- Stockholm School of Economics
+- Museum of Modern Art
+- Daimler
+- Mercedes
 date: '2025-03-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mad Men
+- Romeo and Juliet
+- Heart of Darkness
+- Kens
+people:
+- Nicola Tangen
+- Lars Strannegård
+- Jacob Dahlgren
+- Ola Källenius
+- Malcolm Gladwell
+- Plato
+- Joseph Conrad
+products_models:
+- ChatGPT
+- Google
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=fNQ6MOCF53U
 speaker: Norges Bank Investment Management
-tags:
-  - business-education
-  - cultural-literacy
-  - empathy-development
-  - future-leadership
-  - ai-impact-on-education
-  - lifelong-learning
-title: 文化、同理心与未来领导力：斯德哥尔摩经济学院的教育革新
-summary: 挪威主权财富基金首席执行官Nicola Tangen与斯德哥尔摩经济学院院长Lars Strannegård探讨了将文化、艺术和人文科学融入商科教育的重要性。Lars强调，在AI时代，培养学生的同理心、批判性思维和文化素养至关重要。他介绍了学院独特的“FREE”教育理念，旨在培养具备事实依据、反思、同理心和创业精神的未来领导者，以应对快速变化的世界。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people:
-  - Nicola Tangen
-  - Lars Strannegård
-  - Jacob Dahlgren
-  - Ola Källenius
-  - Malcolm Gladwell
-  - Plato
-  - Joseph Conrad
-companies_orgs:
-  - Norges Bank Investment Management
-  - Stockholm School of Economics
-  - Museum of Modern Art
-  - Daimler
-  - Mercedes
-products_models:
-  - ChatGPT
-  - Google
-media_books:
-  - Mad Men
-  - Romeo and Juliet
-  - Heart of Darkness
-  - Kens
 status: evergreen
+summary: 挪威主权财富基金首席执行官Nicola Tangen与斯德哥尔摩经济学院院长Lars Strannegård探讨了将文化、艺术和人文科学融入商科教育的重要性。Lars强调，在AI时代，培养学生的同理心、批判性思维和文化素养至关重要。他介绍了学院独特的“FREE”教育理念，旨在培养具备事实依据、反思、同理心和创业精神的未来领导者，以应对快速变化的世界。
+tags:
+- ai-impact-on-education
+- cultural
+- development
+- education
+- future-leadership
+- lifelong-learning
+title: 文化、同理心与未来领导力：斯德哥尔摩经济学院的教育革新
 ---
+
 ### 文化融入商科教育的必要性
 
 [音乐]

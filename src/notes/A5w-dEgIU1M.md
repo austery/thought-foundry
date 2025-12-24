@@ -1,63 +1,61 @@
 ---
-author: Veritasium
-date: '2024-02-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=A5w-dEgIU1M
-speaker: Veritasium
-tags:
-  - veritasium
-  - options-pricing
-  - derivatives-market
-  - random-walk
-  - efficient-market-hypothesis
-  - quantitative-trading
-title: 万亿美元方程式：物理学、数学如何重塑金融市场与风险管理
-summary: 本文深入探讨了期权定价的万亿美元方程式——布莱克-斯科尔斯-默顿模型，如何将物理学中的随机游走和布朗运动概念引入金融市场。文章追溯了期权从古希腊到现代的演变，介绍了爱德华·索普通过算牌策略击败赌场并将其应用于股市的经历，以及詹姆斯·西蒙斯如何利用数学模型和大数据在金融市场取得惊人成功。该方程式不仅催生了庞大的衍生品市场，也深刻改变了风险管理和投资策略，揭示了市场效率与可预测性之间的复杂关系。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - historical-insights
-people:
-  - Jim Simons
-  - Isaac Newton
-  - Louis Bachelier
-  - Thales of Miletus
-  - Joseph Fourier
-  - Robert Brown
-  - Albert Einstein
-  - Ed Thorpe
-  - Fischer Black
-  - Myron Scholes
-  - Robert Merton
-  - Henri Poincaré
-  - Leonard Baum
-  - Bradford Cornell
+category: finance
 companies_orgs:
-  - Medallion Investment Fund
-  - South Sea Company
-  - Bourse
-  - Royal Mint
-  - Chicago Board Options Exchange
-  - US Institute for Defense Analysis
-  - Renaissance Technologies
-  - UCLA
-  - Eight Sleep
-products_models:
-  - Medallion Fund
-  - Eight Sleep Pod
-  - Black-Scholes-Merton equation
-  - Hidden Markov models
-  - Galton board
+- Medallion Investment Fund
+- South Sea Company
+- Bourse
+- Royal Mint
+- Chicago Board Options Exchange
+- US Institute for Defense Analysis
+- Renaissance Technologies
+- UCLA
+- Eight Sleep
+date: '2024-02-27'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Ultimate Counterexample?
+- The Ultimate Counterexample?
+people:
+- Jim Simons
+- Isaac Newton
+- Louis Bachelier
+- Thales of Miletus
+- Joseph Fourier
+- Robert Brown
+- Albert Einstein
+- Ed Thorpe
+- Fischer Black
+- Myron Scholes
+- Robert Merton
+- Henri Poincaré
+- Leonard Baum
+- Bradford Cornell
+products_models:
+- Medallion Fund
+- Eight Sleep Pod
+- Black-Scholes-Merton equation
+- Hidden Markov models
+- Galton board
+project:
+- investment-strategy
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=A5w-dEgIU1M
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了期权定价的万亿美元方程式——布莱克-斯科尔斯-默顿模型，如何将物理学中的随机游走和布朗运动概念引入金融市场。文章追溯了期权从古希腊到现代的演变，介绍了爱德华·索普通过算牌策略击败赌场并将其应用于股市的经历，以及詹姆斯·西蒙斯如何利用数学模型和大数据在金融市场取得惊人成功。该方程式不仅催生了庞大的衍生品市场，也深刻改变了风险管理和投资策略，揭示了市场效率与可预测性之间的复杂关系。
+tags:
+- investment
+- market
+- quantitative-trading
+- random-walk
+title: 万亿美元方程式：物理学、数学如何重塑金融市场与风险管理
 ---
+
 ### 物理学与数学：金融市场的意外起源
 
 这个单一的方程式催生了四个万亿美元的产业，并彻底改变了所有人对待风险的方式。你认为大多数人是否了解**衍生品**（Derivatives: 一种金融工具，其价值来源于标的资产，如股票、债券、商品等）的规模、范围和功用？不，他们毫无概念。然而，这个方程式的核心思想却源自物理学——从原子发现、热传递的理解，甚至是如何在二十一点牌桌上击败赌场。

@@ -1,62 +1,62 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Bloomberg Audio Studios
+- Bloomberg Podcasts
+- Bloomberg Intelligence
+- Brookings Institution
+- Columbia University
+- Treasury
+- Fed
+- Credit Swiss
+- World Bank
+- OECD
+- Philly Fed
+- Hopkins
 date: '2025-07-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Feeding Paris
+people:
+- Tracy Aloway
+- Joe Weisenthal
+- Nelly Lang
+- Ira Jersey
+- Josh Younger
+- Carmen Rodriguez
+- Arman Bennett
+- Kell Brooks
+- Donald Trump
+- Bastiat
+- Taleb
+products_models:
+- Odd Lots podcast
+- RRP
+- standing repo facility
+- supplementary leverage ratio
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=PqS4-DmN5kY
 speaker: Bloomberg Podcasts
-tags:
-  - us-treasury-market
-  - market-volatility
-  - debt-financing
-  - term-premium
-  - market-liquidity
-title: 全球最重要的市场：美国国债的未来走向与挑战
-summary: 本期Odd Lots播客邀请专家小组深入探讨美国国债市场，这是全球最重要的市场之一。讨论聚焦于不断变化的投资者基础、市场波动性、流动性问题以及美国巨额财政赤字带来的挑战。专家们分析了期限溢价的本质、“债券义警”的概念，以及市场结构变化对国债拍卖和整体稳定性的影响。文章强调了在不确定性增加和市场结构演变背景下，美国国债市场的深层流动性和价格发现机制所面临的复杂性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Tracy Aloway
-  - Joe Weisenthal
-  - Nelly Lang
-  - Ira Jersey
-  - Josh Younger
-  - Carmen Rodriguez
-  - Arman Bennett
-  - Kell Brooks
-  - Donald Trump
-  - Bastiat
-  - Taleb
-companies_orgs:
-  - Bloomberg
-  - Bloomberg Audio Studios
-  - Bloomberg Podcasts
-  - Bloomberg Intelligence
-  - Brookings Institution
-  - Columbia University
-  - Treasury
-  - Fed
-  - Credit Swiss
-  - World Bank
-  - OECD
-  - Philly Fed
-  - Hopkins
-products_models:
-  - Odd Lots podcast
-  - RRP
-  - standing repo facility
-  - supplementary leverage ratio
-media_books:
-  - Feeding Paris
 status: evergreen
+summary: 本期Odd Lots播客邀请专家小组深入探讨美国国债市场，这是全球最重要的市场之一。讨论聚焦于不断变化的投资者基础、市场波动性、流动性问题以及美国巨额财政赤字带来的挑战。专家们分析了期限溢价的本质、“债券义警”的概念，以及市场结构变化对国债拍卖和整体稳定性的影响。文章强调了在不确定性增加和市场结构演变背景下，美国国债市场的深层流动性和价格发现机制所面临的复杂性。
+tags:
+- debt
+- market
+- market-liquidity
+- market-volatility
+- term
+title: 全球最重要的市场：美国国债的未来走向与挑战
 ---
+
 ### 欢迎来到Odd Lots播客：美国国债市场专题
 
 **Tracy Aloway:** 大家好，欢迎收听Odd Lots播客的特别节目。我是Tracy Aloway。

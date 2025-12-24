@@ -1,62 +1,62 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- Aviva
+- Zurich
+- AXA
+- Commercial Union
+- Direct Line
+- GSK
+- Diageo
+- BP
+- FCA
+- CMA
+- Citizens Advice Bureau
+- Money Advice Service
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Rest is Politics
+- Desert Island Discs
+- Hamilton
+- In Good Company
+people:
+- Nicolola Tangen
+- Amanda Blanc
+- Charlotte Jones
+- Claude Bébéar
+- Thomas Buberl
+- David Attenborough
+products_models:
+- Solvency UK rules
+- Consumer Duty
+- Flood Re
+- Junior ISA
+- Equity Release Mortgage
+- Generative AI
+project:
+- investment-strategy
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Tfo88esmZwk
 speaker: Norges Bank Investment Management
-tags:
-  - corporate-transformation
-  - diversified-business-model
-  - ai-in-insurance
-  - climate-change-impact
-  - leadership-development
-title: Aviva首席执行官Amanda Blanc：保险业的转型、领导力与社会责任
-summary: Aviva首席执行官Amanda Blanc在访谈中分享了公司转型、双重角色（保险商与主要投资者）的策略。她详细阐述了通过聚焦核心业务、剥离非核心资产实现公司去杠杆化并提升股东回报的关键决策。Blanc还探讨了AI技术如何革新保险业务，以及气候变化对保险业的深远影响。她强调了多元化业务模式的优势，并分享了其独特的直接沟通领导风格，以及对性别平等的重视。此外，她还讨论了如何激励员工、应对监管压力，并呼吁提升公众的退休储蓄意识。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Nicolola Tangen
-  - Amanda Blanc
-  - Charlotte Jones
-  - Claude Bébéar
-  - Thomas Buberl
-  - David Attenborough
-companies_orgs:
-  - Norges Bank Investment Management
-  - Aviva
-  - Zurich
-  - AXA
-  - Commercial Union
-  - Direct Line
-  - GSK
-  - Diageo
-  - BP
-  - FCA
-  - CMA
-  - Citizens Advice Bureau
-  - Money Advice Service
-products_models:
-  - Solvency UK rules
-  - Consumer Duty
-  - Flood Re
-  - Junior ISA
-  - Equity Release Mortgage
-  - Generative AI
-media_books:
-  - Rest is Politics
-  - Desert Island Discs
-  - Hamilton
-  - In Good Company
 status: evergreen
+summary: Aviva首席执行官Amanda Blanc在访谈中分享了公司转型、双重角色（保险商与主要投资者）的策略。她详细阐述了通过聚焦核心业务、剥离非核心资产实现公司去杠杆化并提升股东回报的关键决策。Blanc还探讨了AI技术如何革新保险业务，以及气候变化对保险业的深远影响。她强调了多元化业务模式的优势，并分享了其独特的直接沟通领导风格，以及对性别平等的重视。此外，她还讨论了如何激励员工、应对监管压力，并呼吁提升公众的退休储蓄意识。
+tags:
+- climate-change-impact
+- corporate
+- diversified-business-model
+- leadership-development
+- llm
+title: Aviva首席执行官Amanda Blanc：保险业的转型、领导力与社会责任
 ---
+
 ### 欢迎与Aviva首席执行官Amanda Blanc对话
 
 Nicolola Tangen: 大家好，我是**挪威主权财富基金**（Norges Bank Investment Management: 负责管理挪威政府全球养老基金的机构）的首席执行官Nicolola Tangen。今天，我们有幸邀请到**Aviva**（英国领先的保险公司）的首席执行官Amanda Blanc。

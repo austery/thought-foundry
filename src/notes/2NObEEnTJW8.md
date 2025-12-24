@@ -1,47 +1,46 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- CDC
+- White House
+- Pentagon
+- Seal Team 6
+- Library of Congress
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Apora Mandaville
+- Robert F. Kennedy Jr.
+- Admiral Frank Bradley
+- Hegsth
+- Donald Trump
+- Kelly Prible
+- Bob Dylan
+- Bruce Springsteen
+products_models:
+- ChatGPT
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=2NObEEnTJW8
 speaker: New York Times Podcasts
-tags:
-  - vaccine-policy
-  - fuel-efficiency-standards
-  - military-ethics
-  - ai-health-advice
-  - audio-preservation
-title: 儿童疫苗、军事伦理与燃油车政策：今日头条速览
-summary: 本期节目聚焦数个重要议题：美国疾病控制与预防中心（CDC）委员会在小罗伯特·F·肯尼迪影响下，可能修改儿童疫苗接种建议，引发公共卫生担忧。节目还讨论了美军在加勒比海的致命袭击是否构成战争罪，以及国防部长卷入的“信号门”丑闻。此外，特朗普政府削弱燃油效率标准，偏向燃油车，并探讨了AI聊天机器人提供健康建议的利弊及隐私风险，最后关注了抢救濒危音乐磁带历史的努力。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Apora Mandaville
-  - Robert F. Kennedy Jr.
-  - Admiral Frank Bradley
-  - Hegsth
-  - Donald Trump
-  - Kelly Prible
-  - Bob Dylan
-  - Bruce Springsteen
-companies_orgs:
-  - New York Times
-  - CDC
-  - White House
-  - Pentagon
-  - Seal Team 6
-  - Library of Congress
-products_models:
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 本期节目聚焦数个重要议题：美国疾病控制与预防中心（CDC）委员会在小罗伯特·F·肯尼迪影响下，可能修改儿童疫苗接种建议，引发公共卫生担忧。节目还讨论了美军在加勒比海的致命袭击是否构成战争罪，以及国防部长卷入的“信号门”丑闻。此外，特朗普政府削弱燃油效率标准，偏向燃油车，并探讨了AI聊天机器人提供健康建议的利弊及隐私风险，最后关注了抢救濒危音乐磁带历史的努力。
+tags:
+- canada
+- efficiency
+- ethics
+- health
+- policy
+title: 儿童疫苗、军事伦理与燃油车政策：今日头条速览
 ---
+
 ### 今日头条速览
 
 来自《纽约时报》的头条新闻。今天是12月4日星期四。以下是今日头条内容。

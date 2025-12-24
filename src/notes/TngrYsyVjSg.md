@@ -1,56 +1,55 @@
 ---
-author: 海伦子Hellen
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Rocket Lab
+- SpaceX
+- Blue Origin
+- NASA
+- SCL Air
+- Interplanetary
+- Advanced Solutions
+- Planetary Systems Corporation
+- SolAero Technologies
 date: '2024-09-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Peter Beck
+- Elon Musk
+- Jeff Bezos
+products_models:
+- Electron
+- Neutron
+- Photon
+- Falcon 9
+- New Glenn
+- Starlink
+- James Webb Space Telescope
+- CAPSTONE
+- ESCAPADE
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=TngrYsyVjSg
 speaker: 海伦子Hellen
-tags:
-  - commercial-space
-  - rocket-launch
-  - satellite-manufacturing
-  - reusable-rockets
-  - investment-strategy
-  - space-economy
-  - new-space
-title: Rocket Lab股票深度分析：为何值得长期持有？
-summary: 本视频深入分析了商业航天公司Rocket Lab的股票表现与未来潜力。从其上市历程、市场地位、独特的端到端卫星服务模式，到关键技术如Electron、Photon和正在研发的Neutron火箭，全面探讨了其在快速增长的太空市场中的竞争优势。尽管目前尚未盈利，但凭借持续增长的收入和清晰的发展战略，Rocket Lab被视为仅次于SpaceX的商业航天领域第二大玩家，具备长期投资价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Peter Beck
-  - Elon Musk
-  - Jeff Bezos
-companies_orgs:
-  - Rocket Lab
-  - SpaceX
-  - Blue Origin
-  - NASA
-  - SCL Air
-  - Interplanetary
-  - Advanced Solutions
-  - Planetary Systems Corporation
-  - SolAero Technologies
-products_models:
-  - Electron
-  - Neutron
-  - Photon
-  - Falcon 9
-  - New Glenn
-  - Starlink
-  - James Webb Space Telescope
-  - CAPSTONE
-  - ESCAPADE
-media_books: []
 status: evergreen
+summary: 本视频深入分析了商业航天公司Rocket Lab的股票表现与未来潜力。从其上市历程、市场地位、独特的端到端卫星服务模式，到关键技术如Electron、Photon和正在研发的Neutron火箭，全面探讨了其在快速增长的太空市场中的竞争优势。尽管目前尚未盈利，但凭借持续增长的收入和清晰的发展战略，Rocket
+  Lab被视为仅次于SpaceX的商业航天领域第二大玩家，具备长期投资价值。
+tags:
+- commercial-space
+- manufacturing
+- reusable-rocket
+- space
+- space-economy
+- technology
+title: Rocket Lab股票深度分析：为何值得长期持有？
 ---
+
 ### Rocket Lab的上市历程与个人投资视角
 
 今天继续跟大家聊聊Rocket Lab。我第一次聊这家公司是在2021年3月份，当时我刚刚购买了它的股票。Rocket Lab是通过**SPAC**（特殊目的收购公司: 一种没有实际业务，但通过首次公开募股募集资金，然后收购一家私人公司，使后者上市的“空壳公司”）的形式上市的，即通过与另一家有资金但没有实体项目的公司并购完成上市。因此，如果你查看它的股价，可能会发现其正式上市时间标注为2021年8月25日。我在2021年3月份购买的，其实是与它并购的另一家公司的股票。后来，在完成合并后，公司名称正式变为Rocket Lab。有意思的是，在合并刚刚完成后的几天，股价达到了最高点，从最初的每股10美元涨到将近20美元，随后便一路下跌，到今天大约是每股6美元左右。

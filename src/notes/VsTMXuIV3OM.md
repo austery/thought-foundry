@@ -1,56 +1,55 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: career
+companies_orgs:
+- Cardone Ventures
+- 10X Health
+- McKinsey
+- Adobe
+- Canva
+- Twitch
+- Netflix
+- Apple
+- Vanta
+- Bravo
+- Elvest
+- Neo
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+- Selling Sunset
+- TikTok
+- Pinterest
+- Instagram
+people:
+- Natalie Dawson
+- Steven Bartlett
+- Grant Cardone
+- Elena Cardone
+- Elon Musk
+products_models:
+- P&L
+- CRM
+project:
+- personal-growth-lab
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=VsTMXuIV3OM
 speaker: The Diary Of A CEO
-tags:
-  - goal-setting-framework
-  - communication-strategy
-  - mindset-for-success
-  - hiring-process
-  - business-scaling
-title: 娜塔莉·道森：五年收入翻十倍的PPF框架与成功心态
-summary: 商业领袖娜塔莉·道森分享了她在五年内将收入提升十倍的核心框架与策略。她详细阐述了PPF目标设定法（个人、职业、财务），VCE高效沟通模型（愿景、承诺、执行），以及一套严格的三步面试流程来筛选A级人才。道森强调，成功的基石是品格、努力工作以及将获得“尊重”置于“被喜欢”之上的心态。她还探讨了AI时代的终极技能、女性财富转移的趋势以及突破商业瓶颈的关键方法。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - Natalie Dawson
-  - Steven Bartlett
-  - Grant Cardone
-  - Elena Cardone
-  - Elon Musk
-companies_orgs:
-  - Cardone Ventures
-  - 10X Health
-  - McKinsey
-  - Adobe
-  - Canva
-  - Twitch
-  - Netflix
-  - Apple
-  - Vanta
-  - Bravo
-  - Elvest
-  - Neo
-products_models:
-  - P&L
-  - CRM
-media_books:
-  - The Diary Of A CEO
-  - Selling Sunset
-  - TikTok
-  - Pinterest
-  - Instagram
 status: evergreen
+summary: 商业领袖娜塔莉·道森分享了她在五年内将收入提升十倍的核心框架与策略。她详细阐述了PPF目标设定法（个人、职业、财务），VCE高效沟通模型（愿景、承诺、执行），以及一套严格的三步面试流程来筛选A级人才。道森强调，成功的基石是品格、努力工作以及将获得“尊重”置于“被喜欢”之上的心态。她还探讨了AI时代的终极技能、女性财富转移的趋势以及突破商业瓶颈的关键方法。
+tags:
+- business
+- code
+- communication-strategy
+- mindset
+title: 娜塔莉·道森：五年收入翻十倍的PPF框架与成功心态
 ---
+
 ### 财富的真相：为何努力工作未得回报？
 
 **主持人：** 娜塔莉，对于刚刚点开这段对话的观众来说，你认为他们留下来倾听我们今天将要讨论的内容，以及你整个职业生涯所理解的一切，为什么是重要的？

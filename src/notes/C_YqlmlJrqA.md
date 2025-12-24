@@ -1,73 +1,74 @@
 ---
-author: 人民公園說AI
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- Google
+- ByteDance
+- Alibaba
+- Tencent
+- Apple
+- Perplexity
+- DeepMind
+- DeepSeek
+- Huawei
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 知网
+people:
+- Altman
+- 李开复
+- 汤道生
+- 乔布斯
+products_models:
+- Atlas
+- Sora
+- ChatGPT
+- Mac OS
+- Chrome
+- Firefox
+- Gemini
+- Gemini in Chrome
+- Gemini CLI
+- Doubao
+- Cici
+- TikTok
+- Yuanbao
+- WeChat
+- QQ
+- Quark
+- UC Browser
+- Qwen
+- Qwen3 Max
+- Claude Opus
+- Google Drive
+- Taobao
+- Alipay
+- 视频号
+- 高德地图
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=C_YqlmlJrqA
 speaker: 人民公園說AI
-tags:
-  - ai-entry-points
-  - browser-strategy
-  - tech-ecosystems
-  - us-china-tech-competition
-  - super-app-concept
-title: OpenAI发布Atlas浏览器：中美科技巨头AI入口之争与生态战略
-summary: 围绕OpenAI新发布的Atlas浏览器，本文深入探讨了AI时代科技巨头对“入口”的争夺。通过对比OpenAI与谷歌的激进与从容，以及字节跳动、腾讯、阿里等中国大厂在豆包、元宝、夸克等产品上的不同策略，分析了中美企业在模型、生态、用户粘性及商业模式上的差异。文章指出，中国公司在抢占AI ToC新入口方面提供了独特经验，并对未来AI超级应用及硬件发展趋势进行了展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Altman
-  - 李开复
-  - 汤道生
-  - 乔布斯
-companies_orgs:
-  - OpenAI
-  - Google
-  - ByteDance
-  - Alibaba
-  - Tencent
-  - Apple
-  - Perplexity
-  - DeepMind
-  - DeepSeek
-  - Huawei
-products_models:
-  - Atlas
-  - Sora
-  - ChatGPT
-  - Mac OS
-  - Chrome
-  - Firefox
-  - Gemini
-  - Gemini in Chrome
-  - Gemini CLI
-  - Doubao
-  - Cici
-  - TikTok
-  - Yuanbao
-  - WeChat
-  - QQ
-  - Quark
-  - UC Browser
-  - Qwen
-  - Qwen3 Max
-  - Claude Opus
-  - Google Drive
-  - Taobao
-  - Alipay
-  - 视频号
-  - 高德地图
-media_books:
-  - 知网
 status: evergreen
+summary: 围绕OpenAI新发布的Atlas浏览器，本文深入探讨了AI时代科技巨头对“入口”的争夺。通过对比OpenAI与谷歌的激进与从容，以及字节跳动、腾讯、阿里等中国大厂在豆包、元宝、夸克等产品上的不同策略，分析了中美企业在模型、生态、用户粘性及商业模式上的差异。文章指出，中国公司在抢占AI
+  ToC新入口方面提供了独特经验，并对未来AI超级应用及硬件发展趋势进行了展望。
+tags:
+- china
+- code
+- llm
+- strategy
+- tech
+title: OpenAI发布Atlas浏览器：中美科技巨头AI入口之争与生态战略
 ---
+
 ### AI时代的浏览器之战与入口争夺
 
 回溯至2000年，那是一个浏览器大战的时代。如今，OpenAI发布了Atlas浏览器，这似乎预示着在AI Agent时代，浏览器再次成为科技巨头争夺的焦点。尽管Atlas产品本身并未带来太多惊艳，但其背后抢占AI入口的野心显而易见。这不禁让人思考，或许硅谷的公司可以借鉴中国大厂在抢占入口方面的经验。例如，阿里巴巴旗下的夸克PC端在一年内实现了**DAU**（日活跃用户: Daily Active Users的缩写，衡量产品每天独立用户数量的指标）10倍的增长，这在中国市场是独有的现象。

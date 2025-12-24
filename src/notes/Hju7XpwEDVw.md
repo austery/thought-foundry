@@ -1,42 +1,41 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Garmin
+- Cofit
+- YouTube
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李唐越醫師
+- 霸軒
+- 小美
+- 宋晏仁醫師
+products_models:
+- Garmin Venu 4
+- Garmin Connect APP
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Hju7XpwEDVw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - weight-loss-maintenance
-  - stress-management
-  - sleep-quality
-  - exercise-optimization
-  - gut-health
-title: 瘦身成功不復胖的四大關鍵：霸軒30公斤減重維持秘訣與智慧科技輔助
-summary: 本期節目邀請YouTuber霸軒分享他從100公斤減至70公斤，並成功維持體重的經驗。李唐越醫師與霸軒共同探討了減重後不復胖的四大關鍵：調整運動策略、有效管理壓力、改善飲食習慣與腸道健康，以及確保充足且高品質的睡眠。節目中也強調了Garmin智慧手錶在監測身體狀態、優化訓練與休息方面的輔助作用，並指出個人化方案對於長期健康維持的重要性。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 李唐越醫師
-  - 霸軒
-  - 小美
-  - 宋晏仁醫師
-companies_orgs:
-  - 初日診所
-  - Garmin
-  - Cofit
-  - YouTube
-products_models:
-  - Garmin Venu 4
-  - Garmin Connect APP
-media_books: []
 status: evergreen
+summary: 本期節目邀請YouTuber霸軒分享他從100公斤減至70公斤，並成功維持體重的經驗。李唐越醫師與霸軒共同探討了減重後不復胖的四大關鍵：調整運動策略、有效管理壓力、改善飲食習慣與腸道健康，以及確保充足且高品質的睡眠。節目中也強調了Garmin智慧手錶在監測身體狀態、優化訓練與休息方面的輔助作用，並指出個人化方案對於長期健康維持的重要性。
+tags:
+- health
+- loss
+- optimization
+- quality
+- stress-management
+title: 瘦身成功不復胖的四大關鍵：霸軒30公斤減重維持秘訣與智慧科技輔助
 ---
+
 ### 霸軒的減重蛻變與挑戰
 
 李唐越醫師: 嗨，大家好，我是李唐越醫師。今天邀請到一位非常厲害的來賓，從我第一次見到他，到後來減重成功的樣子，真的是差了非常多。我敢說他絕對是一個越減越帥、越減越有型的一個狀態。我們今天就歡迎YouTuber霸軒。

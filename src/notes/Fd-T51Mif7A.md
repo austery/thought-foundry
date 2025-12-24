@@ -1,52 +1,51 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: science
+companies_orgs:
+- 耶魯大學
+- 諾和諾德
+- 禮來公司
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《JAMA Neurology》
+people:
+- 吉爾曼
+- 古德曼
+- John Eng
+- Richard Viney
+products_models:
+- 芥子氣
+- 氮芥
+- 烷化劑
+- 分子標靶藥物
+- GLP-1
+- Exendin-4
+- Liraglutide
+- Semaglutide
+- Tirzepatide
+- GIP
+- DDP4抑制劑
+- sulfonylurea
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Fd-T51Mif7A
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - drug-discovery
-  - medical-history
-  - cancer-treatment
-  - weight-loss-drugs
-  - glp-1-agonists
-title: 毒藥變神藥：芥子氣與蜥蜴毒液如何改寫醫學史
-summary: 本文深入探討醫學史上兩大「誤打誤撞」的傳奇：從致命化學武器**芥子氣**中發現抗癌藥物**氮芥**，以及從劇毒**希拉怪獸**的唾液中研發出糖尿病與減重神藥**GLP-1受體促效劑**。文章揭示了這些藥物從劇毒到救命的逆轉過程、作用機制及其在癌症治療、減重、甚至神經退化性疾病防治上的意外潛力，同時強調了藥物使用的安全與規範。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - 吉爾曼
-  - 古德曼
-  - John Eng
-  - Richard Viney
-companies_orgs:
-  - 耶魯大學
-  - 諾和諾德
-  - 禮來公司
-products_models:
-  - 芥子氣
-  - 氮芥
-  - 烷化劑
-  - 分子標靶藥物
-  - GLP-1
-  - Exendin-4
-  - Liraglutide
-  - Semaglutide
-  - Tirzepatide
-  - GIP
-  - DDP4抑制劑
-  - sulfonylurea
-media_books:
-  - 《JAMA Neurology》
 status: evergreen
+summary: 本文深入探討醫學史上兩大「誤打誤撞」的傳奇：從致命化學武器**芥子氣**中發現抗癌藥物**氮芥**，以及從劇毒**希拉怪獸**的唾液中研發出糖尿病與減重神藥**GLP-1受體促效劑**。文章揭示了這些藥物從劇毒到救命的逆轉過程、作用機制及其在癌症治療、減重、甚至神經退化性疾病防治上的意外潛力，同時強調了藥物使用的安全與規範。
+tags:
+- drug-discovery
+- health
+- history
+- loss
+title: 毒藥變神藥：芥子氣與蜥蜴毒液如何改寫醫學史
 ---
+
 ### 醫學不思議：從劇毒到神藥的傳奇故事
 
 歡迎收看全新節目《醫學不思議》，在這裡我們談粒線體，也談靈魂去哪裡，從醫學到玄學，破解各種奇怪知識。今天首集我們要聊的是誤打誤撞改變人類命運的神藥故事。

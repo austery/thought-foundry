@@ -1,64 +1,63 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Moore Threads
+- Cambricon
+- Nvidia
+- Oracle
+- Central Bank
+- Federal Reserve
+- Goldman Sachs
+- TSMC
+- Broadcom
+- Meta
+- Google
+- Alibaba
+- TikTok
+- SpaceX
+- JPMorgan Chase
+- UBS
+- Bank of America
+- Microsoft
+- Bubble Mart
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reuters
+- Bloomberg
+people:
+- Xi Jinping
+- Powell
+- Musk
+- Zuckerberg
+- Wang Tao
+products_models:
+- OCI
+- TPU
+- Tongyi Qianwen
+- Avocado
+- ChatGPT
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=1-84w_V4CiY
 speaker: 小翠時政財經
-tags:
-  - a-share-market
-  - stock-bubble
-  - geopolitical-competition
-  - monetary-policy
-  - ai-adoption
-title: 中国经济自信的信号：从A股泡沫到美联储鸽派转向，再到AI浪潮下的全球变局
-summary: 本文深入剖析了当前中国经济的复杂态势，包括A股市场的泡沫现象、中央经济工作会议释放的政策信号（财政加杠杆、货币宽松预期），以及对美联储降息、黄金市场趋势、甲骨文等科技巨头财报的解读。同时，也关注了地缘政治（墨西哥关税）、全球AI发展（Meta、阿里、台积电）及中国消费者行为的转变，揭示了宏观经济与科技、地缘政治相互交织的动态。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Xi Jinping
-  - Powell
-  - Musk
-  - Zuckerberg
-  - Wang Tao
-companies_orgs:
-  - Moore Threads
-  - Cambricon
-  - Nvidia
-  - Oracle
-  - Central Bank
-  - Federal Reserve
-  - Goldman Sachs
-  - TSMC
-  - Broadcom
-  - Meta
-  - Google
-  - Alibaba
-  - TikTok
-  - SpaceX
-  - JPMorgan Chase
-  - UBS
-  - Bank of America
-  - Microsoft
-  - Bubble Mart
-products_models:
-  - OCI
-  - TPU
-  - Tongyi Qianwen
-  - Avocado
-  - ChatGPT
-media_books:
-  - Reuters
-  - Bloomberg
 status: evergreen
+summary: 本文深入剖析了当前中国经济的复杂态势，包括A股市场的泡沫现象、中央经济工作会议释放的政策信号（财政加杠杆、货币宽松预期），以及对美联储降息、黄金市场趋势、甲骨文等科技巨头财报的解读。同时，也关注了地缘政治（墨西哥关税）、全球AI发展（Meta、阿里、台积电）及中国消费者行为的转变，揭示了宏观经济与科技、地缘政治相互交织的动态。
+tags:
+- ai-adoption
+- geopolitical-competition
+- market
+- stock
+title: 中国经济自信的信号：从A股泡沫到美联储鸽派转向，再到AI浪潮下的全球变局
 ---
+
 ### A股市场泡沫与收割套路
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月11日。

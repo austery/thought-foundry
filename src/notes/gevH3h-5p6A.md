@@ -1,42 +1,41 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 优酷
+- Polymarket
+- FBI
 date: '2025-03-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《他乡的童年》
+people:
+- 周轶君
+- 陈秋菊
+- 何欢
+- 库布塔
+- 卢卡斯
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=gevH3h-5p6A
 speaker: 一席YiXi
-tags:
-  - education-as-life
-  - cultural-definition-of-personhood
-  - decentralized-learning
-  - assessment-free-education
-  - parental-cognition-change
-title: 教育的可能性，就是生活的可能性：全球视野下的童年与社会土壤
-summary: 纪录片导演周轶君通过《他乡的童年》走访十国教育现场，揭示教育不仅是方法差异，更是文化对人的定义。从芬兰的无考试到新加坡的生存焦虑，教育细节反映社会结构，真正的变革始于认知更新与成人自省。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 周轶君
-  - 陈秋菊
-  - 何欢
-  - 库布塔
-  - 卢卡斯
-companies_orgs:
-  - 优酷
-  - Polymarket
-  - FBI
-products_models: []
-media_books:
-  - 《他乡的童年》
 status: evergreen
+summary: 纪录片导演周轶君通过《他乡的童年》走访十国教育现场，揭示教育不仅是方法差异，更是文化对人的定义。从芬兰的无考试到新加坡的生存焦虑，教育细节反映社会结构，真正的变革始于认知更新与成人自省。
+tags:
+- change
+- cultural
+- education
+- learning
+title: 教育的可能性，就是生活的可能性：全球视野下的童年与社会土壤
 ---
+
 ### 教育不是方法，而是社会的投影
 
 大家好，我是纪录片导演周轶君。2018年，当我的两个孩子分别六岁和三岁时，我陷入了一个深刻的困惑：上一代的教育方式似乎已不再适用，而我自己，却找不到新的语言去回应下一代的成长需求。作为一名国际新闻记者，我选择走进更大的世界——去看看其他国家的教育长什么样子。

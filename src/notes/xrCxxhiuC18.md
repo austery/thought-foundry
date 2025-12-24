@@ -1,50 +1,51 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: general
+companies_orgs:
+- OpenAI
+- Google
+- Waymo
+- FDA
 date: '2025-08-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Kludge
+- Thinking Fast and Slow
+- Rebooting AI
+- Taming Silicon Valley
+- Washington Post
+people:
+- Gary Marcus
+- Elon Musk
+- Sam Altman
+- Daniel Kahneman
+products_models:
+- GPT-5
+- ELIZA
+- AlphaFold
+- ChatGPT
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xrCxxhiuC18
 speaker: 北美王路飞
-tags:
-  - ai-critique
-  - agi-hype
-  - neuro-symbolic-ai
-  - ai-regulation
-  - generalization-problem
-title: 认知科学家加里·马库斯：为何硅谷的AGI“弥天大谎”需要被驯服？
-summary: '知名认知科学家**加里·马库斯**（Gary Marcus: 著名认知科学家、心理学家、畅销书作家，以其对当前主流AI发展路线的批判而闻名），作为AI领域的头号批评家，长期以来坚持批判当前AI发展路线。本文深入探讨了他从研究人类大脑缺陷到质疑大语言模型“幻觉”的智识历程，揭示了AI在抽象推理和泛化能力上的根本性缺陷。马库斯认为，硅谷在贩卖**通用AI**（General AI, AGI: 能够像人类一样理解、学习和应用智能来解决任何问题的AI系统）的“弥天大谎”，呼吁引入**FDA**（美国食品药品监督管理局: 负责监管食品、药品、医疗器械等产品安全性的美国政府机构）式的监管，并倡导**神经符号混合AI**（Neuro-symbolic AI: 结合了神经网络和符号逻辑的混合人工智能方法）作为未来方向。他强调，在AI狂热中，批判性思维和对技术局限性的警惕至关重要。'
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Gary Marcus
-  - Elon Musk
-  - Sam Altman
-  - Daniel Kahneman
-companies_orgs:
-  - OpenAI
-  - Google
-  - Waymo
-  - FDA
-products_models:
-  - GPT-5
-  - ELIZA
-  - AlphaFold
-  - ChatGPT
-media_books:
-  - Kludge
-  - Thinking Fast and Slow
-  - Rebooting AI
-  - Taming Silicon Valley
-  - Washington Post
 status: evergreen
+summary: '知名认知科学家**加里·马库斯**（Gary Marcus: 著名认知科学家、心理学家、畅销书作家，以其对当前主流AI发展路线的批判而闻名），作为AI领域的头号批评家，长期以来坚持批判当前AI发展路线。本文深入探讨了他从研究人类大脑缺陷到质疑大语言模型“幻觉”的智识历程，揭示了AI在抽象推理和泛化能力上的根本性缺陷。马库斯认为，硅谷在贩卖**通用AI**（General
+  AI, AGI: 能够像人类一样理解、学习和应用智能来解决任何问题的AI系统）的“弥天大谎”，呼吁引入**FDA**（美国食品药品监督管理局: 负责监管食品、药品、医疗器械等产品安全性的美国政府机构）式的监管，并倡导**神经符号混合AI**（Neuro-symbolic
+  AI: 结合了神经网络和符号逻辑的混合人工智能方法）作为未来方向。他强调，在AI狂热中，批判性思维和对技术局限性的警惕至关重要。'
+tags:
+- ai-regulation
+- critique
+- llm
+- problem
+title: 认知科学家加里·马库斯：为何硅谷的AGI“弥天大谎”需要被驯服？
 ---
+
 ### AI时代的“头号唱反调者”：加里·马库斯
 
 大家好，欢迎来到我的频道。今天我们来聊一位名叫**加里·马库斯**（Gary Marcus: 著名认知科学家、心理学家、畅销书作家，以其对当前主流AI发展路线的批判而闻名）的学者。前段时间，**GPT-5**（Generative Pre-trained Transformer 5: OpenAI开发的大型语言模型，用于生成文本、回答问题等）发布后，他在Twitter上疯狂嘲讽，表现得非常兴奋。在AI圈内，马库斯其实是赫赫有名的“头号唱反调者”。无论是OpenAI还是谷歌发布新模型，他总是第一个跳出来说：“你这玩意儿不行，还是个‘磕了药的**自动补全**（Auto-complete: 一种软件功能，根据用户输入预测并提供可能的完成选项）’。”

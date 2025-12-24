@@ -1,55 +1,55 @@
 ---
-author: Anthropic
+area: society-systems
+category: general
+companies_orgs:
+- Anthropic
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- When We Cease to Understand the World
+people:
+- Amanda
+- Ben Schultz
+- Kyle Kabasares
+- John Locke
+- Guinness Chen
+- Szulima Amitace
+- Lorenz
+- Swyx
+- Dan Brickley
+- Roanoke Gal
+- Steven Bank
+- Tommy
+- Foucault
+- Simon Willison
+- Nosson Weissman
+- Janus
+- Geoffrey Miller
+- Louis
+- Benjamin Labatut
+products_models:
+- Claude
+- Claude Opus 3
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=I9aGC6Ui3eE
 speaker: Anthropic
-tags:
-  - ai-ethics
-  - model-welfare
-  - ai-alignment
-  - ai-identity
-  - human-ai-interaction
-title: Anthropic哲学家深度探讨AI伦理、模型福祉与未来挑战
-summary: 本文记录了Anthropic哲学家Amanda对人工智能伦理、模型行为和未来挑战的深度访谈。她探讨了哲学家如何严肃看待AI发展，哲学理想与工程现实之间的张力，以及AI模型是否能做出超人般的道德决策。Amanda还分享了对模型心理安全、身份认同、模型福利的看法，并讨论了系统提示词的设计、LLM“耳语者”的角色以及AI对齐的风险，并展望了AI时代特有的陌生感与未来可能走向。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Amanda
-  - Ben Schultz
-  - Kyle Kabasares
-  - John Locke
-  - Guinness Chen
-  - Szulima Amitace
-  - Lorenz
-  - Swyx
-  - Dan Brickley
-  - Roanoke Gal
-  - Steven Bank
-  - Tommy
-  - Foucault
-  - Simon Willison
-  - Nosson Weissman
-  - Janus
-  - Geoffrey Miller
-  - Louis
-  - Benjamin Labatut
-companies_orgs:
-  - Anthropic
-products_models:
-  - Claude
-  - Claude Opus 3
-media_books:
-  - When We Cease to Understand the World
 status: evergreen
+summary: 本文记录了Anthropic哲学家Amanda对人工智能伦理、模型行为和未来挑战的深度访谈。她探讨了哲学家如何严肃看待AI发展，哲学理想与工程现实之间的张力，以及AI模型是否能做出超人般的道德决策。Amanda还分享了对模型心理安全、身份认同、模型福利的看法，并讨论了系统提示词的设计、LLM“耳语者”的角色以及AI对齐的风险，并展望了AI时代特有的陌生感与未来可能走向。
+tags:
+- ai-alignment
+- ai-ethics
+- human-ai-interaction
+- identity
+- model
+title: Anthropic哲学家深度探讨AI伦理、模型福祉与未来挑战
 ---
+
 ### 哲学家在Anthropic的角色
 
 主持人: 噢，看那个！Amanda，你曾在Twitter上向你的关注者征集问题，让他们问你任何事情，而这个玩笑显然是“Askell me anything”（谐音“Ask all me anything”）。

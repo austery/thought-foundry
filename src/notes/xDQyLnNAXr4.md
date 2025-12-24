@@ -1,55 +1,56 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: psychology
+companies_orgs:
+- Secret Service
+- FBI
+- CIA
+- SWAT
+- Naval Postgraduate School
+- High-Value Detainee Interrogation Group (HIG)
+- Flight Story
+- Beyond Bulletproof
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Simpsons
+- Influence
+people:
+- Desmond O'Neal
+- Philip Gerrio
+- Nancy Gerrio
+- JC Duggard
+- Michaela Garrett
+- Vern Pearson
+- Ronaldo
+- Stephen Covey
+- Barack Obama
+- Osama bin Laden
+- Simon Sinek
+- Robert Cialdini
+- Evie O'Neal
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=xDQyLnNAXr4
 speaker: The Diary Of A CEO
-tags:
-  - difficult-conversations
-  - communication-framework
-  - emotional-regulation
-  - rapport-building
-  - decision-making
-title: 前特勤局审讯专家：如何驾驭那些让你恐惧的艰难对话
-summary: 前美国特勤局特工 Desmond O'Neal 分享了经过科学验证的审讯技巧，并将其应用于日常生活中的艰难对话。他详细介绍了一套名为“PLAN”的沟通框架（Purpose 目的、Listen 倾听、Ask 提问、Next steps 下一步），旨在帮助人们驾驭充满情绪的讨论。本期内容涵盖了如何在压力下保持冷静、解读身体语言、建立真正的融洽关系、区分影响与操控，以及在不确定的情况下做出决策的实用指南。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Desmond O'Neal
-  - Philip Gerrio
-  - Nancy Gerrio
-  - JC Duggard
-  - Michaela Garrett
-  - Vern Pearson
-  - Ronaldo
-  - Stephen Covey
-  - Barack Obama
-  - Osama bin Laden
-  - Simon Sinek
-  - Robert Cialdini
-  - Evie O'Neal
-companies_orgs:
-  - Secret Service
-  - FBI
-  - CIA
-  - SWAT
-  - Naval Postgraduate School
-  - High-Value Detainee Interrogation Group (HIG)
-  - Flight Story
-  - Beyond Bulletproof
-products_models: []
-media_books:
-  - The Simpsons
-  - Influence
 status: evergreen
+summary: 前美国特勤局特工 Desmond O'Neal 分享了经过科学验证的审讯技巧，并将其应用于日常生活中的艰难对话。他详细介绍了一套名为“PLAN”的沟通框架（Purpose
+  目的、Listen 倾听、Ask 提问、Next steps 下一步），旨在帮助人们驾驭充满情绪的讨论。本期内容涵盖了如何在压力下保持冷静、解读身体语言、建立真正的融洽关系、区分影响与操控，以及在不确定的情况下做出决策的实用指南。
+tags:
+- code
+- communication
+- decision-making
+- difficult-conversation
+- emotional-regulation
+title: 前特勤局审讯专家：如何驾驭那些让你恐惧的艰难对话
 ---
+
 ### 如何驾驭“黑暗对话”
 >> Desmond O'Neal，对于刚点开这段对话的观众，他们能从我们的讨论中学到什么？
 

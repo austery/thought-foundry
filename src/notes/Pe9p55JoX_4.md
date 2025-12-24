@@ -1,77 +1,77 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- Google
+- Anthropic
+- Netflix
+- 通用汽车
+- 可口可乐
+- 特斯拉
+- 索尼
+- 迪斯尼
+- 苹果
+- 中芯国际
+- 长江存储
+- 长兴存储
+- 力拓
+- 中铝集团
+- 农业银行
+- 武汉控股
+- 寒武纪
+- ASML
+- 大众
+- 宝马
+- 通用电气
+- 台积电
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 彭博社
+- 《资治通鉴》
+- 《阿甘正传》
+people:
+- Donald Trump
+- Joe Biden
+- 高市早苗
+- Xi Jinping
+- Vladimir Putin
+- Elon Musk
+- 贝森特
+- 戈里尔
+- 巴菲特
+- 毛泽东
+- 朱棣
+- 唐太宗
+- 刘备
+products_models:
+- ChatGPT
+- FSD
+- Optimus
+- Robotaxi
+- Keep Pop
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Pe9p55JoX_4
 speaker: 小翠時政財經
-tags:
-  - us-election-2024
-  - geopolitical-competition
-  - market-earnings-season
-  - long-term-investing
-  - semiconductor-supply-chain
-title: 黄金、美股财报与全球地缘政治：2025年10月22日小翠时政财经深度解析
-summary: 本期节目深入探讨了2025年10月22日的全球财经与地缘政治要闻。主持人分享了其长线投资理念，并分析了A股市场的缩量调整、深地经济热点及IPO动态，港股中旅国际的资产交易及其背后关键矿产的争夺。节目还关注日本新首相高市早苗的亲美政策，以及美股财报季的亮点，包括七巨头表现、区域银行风险可控、奈飞内容优势、通用汽车战略转型及特斯拉的未来展望。此外，节目还讨论了黄金的长期配置逻辑、中美印贸易关系、欧洲芯片供应链困境，并从历史角度解读了中国领导人的执政心态，强调了在复杂多变的世界中，长期主义和资产配置的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Joe Biden
-  - 高市早苗
-  - 习近平
-  - Vladimir Putin
-  - 马斯克
-  - 贝森特
-  - 戈里尔
-  - 巴菲特
-  - 毛泽东
-  - 朱棣
-  - 唐太宗
-  - 刘备
-companies_orgs:
-  - OpenAI
-  - Google
-  - Anthropic
-  - Netflix
-  - 通用汽车
-  - 可口可乐
-  - 特斯拉
-  - 索尼
-  - 迪斯尼
-  - 苹果
-  - 中芯国际
-  - 长江存储
-  - 长兴存储
-  - 力拓
-  - 中铝集团
-  - 农业银行
-  - 武汉控股
-  - 寒武纪
-  - ASML
-  - 大众
-  - 宝马
-  - 通用电气
-  - 台积电
-products_models:
-  - ChatGPT
-  - FSD
-  - Optimus
-  - Robotaxi
-  - Keep Pop
-media_books:
-  - 彭博社
-  - 《资治通鉴》
-  - 《阿甘正传》
 status: evergreen
+summary: 本期节目深入探讨了2025年10月22日的全球财经与地缘政治要闻。主持人分享了其长线投资理念，并分析了A股市场的缩量调整、深地经济热点及IPO动态，港股中旅国际的资产交易及其背后关键矿产的争夺。节目还关注日本新首相高市早苗的亲美政策，以及美股财报季的亮点，包括七巨头表现、区域银行风险可控、奈飞内容优势、通用汽车战略转型及特斯拉的未来展望。此外，节目还讨论了黄金的长期配置逻辑、中美印贸易关系、欧洲芯片供应链困境，并从历史角度解读了中国领导人的执政心态，强调了在复杂多变的世界中，长期主义和资产配置的重要性。
+tags:
+- geopolitical-competition
+- long-term-investing
+- market-earnings-season
+- semiconductor-supply-chain
+- us-election-2024
+title: 黄金、美股财报与全球地缘政治：2025年10月22日小翠时政财经深度解析
 ---
+
 ### 引言：频道定位与投资理念
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月22日。昨天黄金出现了一些波动，引来了一些不太礼貌的言论，所以今天我特意穿上“皇上”皮肤，希望能够“辟邪”。

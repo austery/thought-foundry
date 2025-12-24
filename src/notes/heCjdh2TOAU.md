@@ -1,42 +1,41 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: finance
+companies_orgs:
+- Berkshire Hathaway
+- LTCM
+- Kent School
 date: '2024-08-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金钱心理学》
+people:
+- Morgan Housel
+- Warren Buffett
+- Ronald Read
+- Bill Gates
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=heCjdh2TOAU
 speaker: Shijun Tang
-tags:
-  - wealth-definition
-  - compound-interest
-  - behavioral-finance
-  - risk-management
-  - long-term-investing
-title: 《金钱心理学》：财富是看不见的，复利才是人类第八奇迹
-summary: 通过《金钱心理学》一书的核心观点，剖析财富的本质在于未消费的金融资产，强调复利效应、行为纪律与长期主义在投资中的决定性作用，并揭示心理偏见、运气与风险管理对普通人积累财富的关键影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Morgan Housel
-  - Warren Buffett
-  - Ronald Read
-  - Bill Gates
-  - Shijun Tang
-companies_orgs:
-  - Berkshire Hathaway
-  - LTCM
-  - Kent School
-products_models: []
-media_books:
-  - 《金钱心理学》
 status: evergreen
+summary: 通过《金钱心理学》一书的核心观点，剖析财富的本质在于未消费的金融资产，强调复利效应、行为纪律与长期主义在投资中的决定性作用，并揭示心理偏见、运气与风险管理对普通人积累财富的关键影响。
+tags:
+- behavioral-finance
+- compound-interest
+- long-term-investing
+- risk-management
+- wealth
+title: 《金钱心理学》：财富是看不见的，复利才是人类第八奇迹
 ---
+
 ### 财富的本质：看不见的资产
 
 财富是什么？财富不是你开的豪车、戴的手表、穿的名牌衣服，也不是你升级到头等舱的机票。财富是你**没有花掉的钱**——那些尚未被转化为可见消费品的金融资产。这是《金钱心理学》（Psychology of Money）作者摩根·豪塞尔（Morgan Housel）开篇即点明的核心观点。我们常常误把消费当成了财富，而真正的财富，是那些静默积累、未曾动用的资本。

@@ -8,13 +8,11 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-  - 美国经济
-  - 贫富差距
-  - 资产配置
-people: []
+- asset-allocation
+- society
+- us-economy
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2023-10-30'
 author: Lei
 speaker: 金融汪
@@ -25,6 +23,7 @@ layout: post.njk
 series: 美国民间财富探索
 source: https://www.youtube.com/watch?v=OWqbW8qO0mM&t
 ---
+
 ## 引言：财富增长背后的不均衡发展
 
 大家好。在上一期的视频当中，我们了解了美国居民部门家庭资产负债表的整体情况，我们也了解到在过去这十年中，美国居民部门的整体财富增长了超过一倍以上，而仅仅过去三年，就增长了40%的水平。今天我们继续探讨美国民间财富的分布情况。我们既会看到截面上的静态数据，也会看到不同时间序列上的趋势数据。更重要的是，我们期望能够看到财富增长以及其不均衡发展背后的驱动力。

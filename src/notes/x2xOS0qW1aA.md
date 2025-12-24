@@ -1,31 +1,31 @@
 ---
-title: Zohran Mamdani：从街头活动家到市长候选人的崛起之路
-summary: 本期节目深入探讨了纽约市市长候选人Zohran Mamdani的政治崛起之路。他阐述了其民主社会主义理念，对传统民主党政治的批判，以及如何通过聚焦民生议题，团结不同群体，应对政治挑战。
 area: null
 category: null
-project: []
-tags:
-- democratic-socialism
-- mayoral-election
-- new-york-politics
-- political-strategy
-people:
-- zohran-mamdani
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-16'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+people:
+- zohran-mamdani
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=x2xOS0qW1aA
+speaker: New York Times Podcasts
 status: evergreen
+summary: 本期节目深入探讨了纽约市市长候选人Zohran Mamdani的政治崛起之路。他阐述了其民主社会主义理念，对传统民主党政治的批判，以及如何通过聚焦民生议题，团结不同群体，应对政治挑战。
+tags:
+- democratic
+- geopolitical
+- political-strategy
+- politics
+title: Zohran Mamdani：从街头活动家到市长候选人的崛起之路
 ---
+
 ### 竞选集会：民众的心声
 
 Original English sentence(s) from the transcript.

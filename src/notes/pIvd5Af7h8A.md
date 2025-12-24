@@ -1,45 +1,45 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Alibaba
+- 苹果
+- Palantir
+- Salesforce
+- 亚马逊
+- Google
+- Microsoft
+- Meta
 date: '2025-02-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富体验》
+people:
+- 唐石峻
+- 巴菲特
+products_models:
+- 大型语言模型
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=pIvd5Af7h8A
 speaker: Shijun Tang
-tags:
-  - stock-price-volatility
-  - share-repurchases
-  - cash-flow-valuation
-  - business-efficiency
-  - market-illusion
-title: 阿里、苹果与Palantir财报深度解析：增长幻觉背后的资本游戏
-summary: 本文逐句分析阿里、苹果与Palantir三家科技巨头的最新财报数据，揭示股价暴涨背后的真实基本面：阿里效率年初见成效但累赘难除，苹果依靠生态与回购稳守基本盘，Palantir则靠高估值和股权稀释支撑市场幻想。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - 巴菲特
-companies_orgs:
-  - 阿里巴巴
-  - 苹果
-  - Palantir
-  - Salesforce
-  - 亚马逊
-  - Google
-  - 微软
-  - Meta
-products_models:
-  - 大型语言模型
-media_books:
-  - 《财富体验》
 status: evergreen
+summary: 本文逐句分析阿里、苹果与Palantir三家科技巨头的最新财报数据，揭示股价暴涨背后的真实基本面：阿里效率年初见成效但累赘难除，苹果依靠生态与回购稳守基本盘，Palantir则靠高估值和股权稀释支撑市场幻想。
+tags:
+- business
+- cash-flow-valuation
+- market
+- share-repurchase
+- stock
+title: 阿里、苹果与Palantir财报深度解析：增长幻觉背后的资本游戏
 ---
+
 ### 阿里财报：增长乏力下的效率年与回购逻辑
 
 阿里最近一个月股价暴涨81.49%，成为中概股领涨者，媒体热度极高。但作者指出，新闻往往跟随股价波动，并非基本面驱动。在耐心等待财报发布后，他发现其实际业绩并无飞跃式表现。

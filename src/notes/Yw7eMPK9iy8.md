@@ -1,49 +1,47 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: politics-society
+companies_orgs:
+- Bloomberg
+- Federal Reserve
+- UT Austin
+- Economist Intelligence Unit
+- Congress
+- IMF
+- AP
 date: '2025-07-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+- Political Pressure on Central Banks
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Carola Binder
+- Jerome Powell
+- Donald Trump
+- Chris Rugerberg
+- Josh Boke
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Yw7eMPK9iy8
 speaker: Bloomberg Podcasts
-tags:
-  - central-bank-independence
-  - political-pressure
-  - monetary-policy
-  - inflation-expectations
-  - us-politics
-title: 美联储独立性受损：政治压力如何影响货币政策与市场预期
-summary: 本期《奇思妙想》播客探讨了美联储独立性面临的政治压力及其对货币政策和市场预期的影响。嘉宾卡罗拉·宾德教授分享了她关于央行独立性与通胀之间关系的研究。讨论深入分析了政治干预的演变，从幕后操作到公开推特攻击，以及这如何损害了公众对美联储独立性的认知。节目还探讨了在保持问责制的同时维护央行独立性的策略，并强调了政治压力可能带来的长期通胀风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Carola Binder
-  - Jerome Powell
-  - Donald Trump
-  - Chris Rugerberg
-  - Josh Boke
-companies_orgs:
-  - Bloomberg
-  - Federal Reserve
-  - UT Austin
-  - Economist Intelligence Unit
-  - Congress
-  - IMF
-  - AP
-products_models: []
-media_books:
-  - Odd Lots podcast
-  - Political Pressure on Central Banks
 status: evergreen
+summary: 本期《奇思妙想》播客探讨了美联储独立性面临的政治压力及其对货币政策和市场预期的影响。嘉宾卡罗拉·宾德教授分享了她关于央行独立性与通胀之间关系的研究。讨论深入分析了政治干预的演变，从幕后操作到公开推特攻击，以及这如何损害了公众对美联储独立性的认知。节目还探讨了在保持问责制的同时维护央行独立性的策略，并强调了政治压力可能带来的长期通胀风险。
+tags:
+- central-bank-independence
+- inflation-expectation
+- political-pressure
+title: 美联储独立性受损：政治压力如何影响货币政策与市场预期
 ---
+
 ### 美联储独立性：一场日益激烈的辩论
 
 **Tracy:** 大家好，欢迎收听《奇思妙想》（"Odd Lots podcast"）播客的又一期节目，我是特雷西·阿洛韦（Tracy Alloway）。

@@ -1,36 +1,33 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 美國心理學會
+- Cofit
 date: '2025-04-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 王律婷醫師
+- 宋晏仁醫師
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=sPwEbuTVHi0
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - stress-management
-  - visceral-fat
-  - cortisol
-  - stress-obesity
-  - healthy-lifestyle
-title: 壓力胖的幕後黑手：內臟脂肪與皮質醇的秘密，醫師親授5招逆轉壓力胖
-summary: 許多人面臨體重困擾，即使控制飲食、規律運動，腹部脂肪仍難以消除。本文揭示，這可能與壓力導致的皮質醇分泌過高有關。皮質醇不僅會增加對高糖高脂食物的渴望，還會促進內臟脂肪囤積，並加速肌肉流失。初日診所王律婷醫師將詳細解析壓力如何影響身體，並提供五大策略，包括找出壓力源、充足睡眠、正確飲食、補充營養品及規律運動，幫助讀者有效逆轉壓力胖，重拾健康生活。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 王律婷醫師
-  - 宋晏仁醫師
-companies_orgs:
-  - 初日診所
-  - 美國心理學會
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 許多人面臨體重困擾，即使控制飲食、規律運動，腹部脂肪仍難以消除。本文揭示，這可能與壓力導致的皮質醇分泌過高有關。皮質醇不僅會增加對高糖高脂食物的渴望，還會促進內臟脂肪囤積，並加速肌肉流失。初日診所王律婷醫師將詳細解析壓力如何影響身體，並提供五大策略，包括找出壓力源、充足睡眠、正確飲食、補充營養品及規律運動，幫助讀者有效逆轉壓力胖，重拾健康生活。
+tags:
+- health
+- psychology
+- stress-management
+title: 壓力胖的幕後黑手：內臟脂肪與皮質醇的秘密，醫師親授5招逆轉壓力胖
 ---
+
 ### 壓力與肥胖的隱秘連結
 
 你是否曾有這樣的煩惱：努力控制飲食，肚子卻沒變小；每天運動，腰圍卻越來越粗；甚至覺得光是呼吸都會胖？其實，這可能不是你的錯，而是壓力在搞鬼。回想一下，是不是每次壓力一來，手就不自覺地伸向眼前的甜點？明明心裡告訴自己要減肥，身體卻忍不住打開外送App，點了最愛的炸雞？這其實不是意志力的問題，而是你的身體在向你求救。

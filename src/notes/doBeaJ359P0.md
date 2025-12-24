@@ -1,36 +1,36 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-05-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《道德责任之不可能性》
+people:
+- 盖伦·斯特劳森
+- 美国队长
+- 冬兵
+products_models: []
+project:
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=doBeaJ359P0
 speaker: 大问题Dialectic
-tags:
-  - moral-responsibility
-  - causal-chains
-  - punishment-ethics
-  - human-nature
-  - philosophical-skepticism
-title: 哲学暴论：为什么没有人应得惩罚？道德责任的幻觉与因果链条
-summary: 本文深入探讨了哲学家盖伦·斯特劳森提出的一个“哲学暴论”，挑战了传统的道德责任观念。论证指出，由于所有行为皆由一系列因果链条所导致，最终追溯到个体无法控制的基因和童年环境，因此没有人能真正为自己的行为负起道德责任，也就不存在所谓的“应得惩罚”。文章强调，虽然出于功利目的仍需对违法者进行约束，但我们不应抱有道德义愤，因为道德责任本身可能是一种幻觉。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-people:
-  - 盖伦·斯特劳森
-  - 美国队长
-  - 冬兵
-companies_orgs: []
-products_models: []
-media_books:
-  - 《道德责任之不可能性》
 status: evergreen
+summary: 本文深入探讨了哲学家盖伦·斯特劳森提出的一个“哲学暴论”，挑战了传统的道德责任观念。论证指出，由于所有行为皆由一系列因果链条所导致，最终追溯到个体无法控制的基因和童年环境，因此没有人能真正为自己的行为负起道德责任，也就不存在所谓的“应得惩罚”。文章强调，虽然出于功利目的仍需对违法者进行约束，但我们不应抱有道德义愤，因为道德责任本身可能是一种幻觉。
+tags:
+- ethics
+- human-nature
+- llm
+- moral-responsibility
+- philosophy
+title: 哲学暴论：为什么没有人应得惩罚？道德责任的幻觉与因果链条
 ---
+
 ### 引言：对罪犯的道德义愤与惩罚的本质
 
 当我们在新闻中看到那些拐卖儿童的罪犯、强奸女性的变态，或是谋财害命的凶手时，我们每一个人都会产生一种**道德义愤**（Moral Indignation: 因认为某事不公正或不道德而产生的强烈愤怒和憎恨），也就是感到愤怒，憎恨这些“坏人”，并希望法律能够严惩他们。值得注意的是，我们希望法律制裁这些“坏人”，从来就不仅仅是为了将他们关起来，从而降低未来犯罪率这样的**功利的目的**（Utilitarian Purpose: 以结果为导向，追求最大化整体利益的目标）。更重要的目的，是给予这些“坏人”他们**应得**（Deserve: 某人因其行为或品质而理应获得或承受的）的惩罚。也就是说，谋财害命的人就该被枪毙，强奸犯就该死。

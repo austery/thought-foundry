@@ -1,71 +1,71 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- American Guano Company
+- Rockefeller Foundation
+- FBI
+- New York Memorial Hospital
+- American Cancer Society
+- ICRT
 date: '2024-08-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg Businessweek
+- 《被隐藏的帝国》
+- 《海权对历史的影响》
+- Time
+people:
+- Donald Trump
+- Millard Fillmore
+- Whitman
+- Everett J. Waring
+- Benjamin Harrison
+- Alfred Mahan
+- Queen Victoria
+- William McKinley
+- Arthur MacArthur Sr.
+- Emilio Aguinaldo
+- John Calhoun
+- Charles Sumner
+- Mark Twain
+- Woodrow Wilson
+- Cornelius P. Rhoads
+- Pedro Albizu Campos
+- Harry S. Truman
+- Gregory Pincus
+- Roland Barthes
+- Richard Feynman
+- Richard Nixon
+- Mahatma Gandhi
+- Manuel L. Quezon
+- 毛泽东
+- Stuart B. Barber
+- Ferdinand Marcos Jr.
+- Barack Obama
+- 邝友良
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=W7LoliKrJt8
 speaker: 超級歪 SuperY
-tags:
-  - us-imperialism
-  - colonial-exploitation
-  - geopolitical-strategy
-  - post-war-power
-  - hidden-empire
-title: 美国隐形帝国的真相：从保护费到全球霸权的历史演变
-summary: 本文深入探讨美国从19世纪至今的帝国扩张历程。从早期对鸟粪资源的掠夺、美西战争后的殖民困境，到二战后因科技进步和全球化而放弃传统殖民，转而通过军事基地、文化输出和经济标准构建“隐形帝国”。文章揭示了美国科技发展背后对殖民地人民的牺牲，以及其在维护全球霸权过程中所面临的内部矛盾与外部抗争，最终阐释了美国如何以非传统方式维持其世界强权地位。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Millard Fillmore
-  - Whitman
-  - Everett J. Waring
-  - Benjamin Harrison
-  - Alfred Mahan
-  - Queen Victoria
-  - William McKinley
-  - Arthur MacArthur Sr.
-  - Emilio Aguinaldo
-  - John Calhoun
-  - Charles Sumner
-  - Mark Twain
-  - Woodrow Wilson
-  - Cornelius P. Rhoads
-  - Pedro Albizu Campos
-  - Harry S. Truman
-  - Gregory Pincus
-  - Roland Barthes
-  - Richard Feynman
-  - Richard Nixon
-  - Mahatma Gandhi
-  - Manuel L. Quezon
-  - 毛泽东
-  - Stuart B. Barber
-  - Ferdinand Marcos Jr.
-  - Barack Obama
-  - 邝友良
-companies_orgs:
-  - American Guano Company
-  - Rockefeller Foundation
-  - FBI
-  - New York Memorial Hospital
-  - American Cancer Society
-  - ICRT
-products_models: []
-media_books:
-  - Bloomberg Businessweek
-  - 《被隐藏的帝国》
-  - 《海权对历史的影响》
-  - Time
 status: evergreen
+summary: 本文深入探讨美国从19世纪至今的帝国扩张历程。从早期对鸟粪资源的掠夺、美西战争后的殖民困境，到二战后因科技进步和全球化而放弃传统殖民，转而通过军事基地、文化输出和经济标准构建“隐形帝国”。文章揭示了美国科技发展背后对殖民地人民的牺牲，以及其在维护全球霸权过程中所面临的内部矛盾与外部抗争，最终阐释了美国如何以非传统方式维持其世界强权地位。
+tags:
+- colonial-exploitation
+- geopolitical
+- geopolitical-strategy
+- history
+- power
+title: 美国隐形帝国的真相：从保护费到全球霸权的历史演变
 ---
+
 ### 引言：从“保护费”看美国强权史
 
 近期，美国前总统唐纳德·特朗普公开表示，美国应该向台湾收取“保护费”，此言论在台湾社会引发了热烈讨论。特朗普在接受《Bloomberg Businessweek》（彭博商业周刊）独家采访时指出，美国保护了台湾，但台湾却“夺走”了美国的芯片产业。他认为台湾理应向美国支付保护费用。

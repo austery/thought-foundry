@@ -1,50 +1,50 @@
 ---
-author: Norges Bank Investment Management
+area: tech-insights
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- OpenAI
+- Anthropic
+- Google
+- Gritt AI
 date: '2025-08-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+people:
+- Nikolai Hoppen
+- Birgitte
+- Oscar
+- Sam Altman
+- Alexander Stensby
+- Tine Ausvel Jensen
+- Marte
+products_models:
+- Claude
+- Cursor
+- Copilot
+- ChatGPT
+- GPT-5
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=NwuHxEw80gA
 speaker: Norges Bank Investment Management
-tags:
-  - ai-adoption
-  - organizational-change
-  - efficiency-gains
-  - leadership-buy-in
-  - ai-agents
-title: 解锁AI成功之道：挪威主权财富基金的经验与未来展望
-summary: 本文探讨了挪威主权财富基金（Norges Bank Investment Management）在人工智能（AI）采纳方面的策略和经验。基金强调了高层领导的推动作用、设定激进的效率提升目标（20%）、通过培训和工具（如Claude、Cursor、Copilot）实现技术民主化、构建现代化技术栈、培养创新开发文化以及建立战略伙伴关系的重要性。文章还讨论了在欧洲推广AI所面临的监管挑战，并展望了AI智能体和多模态交互的未来，强调了不及时采纳AI可能带来的巨大风险。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Nikolai Hoppen
-  - Birgitte
-  - Oscar
-  - Sam Altman
-  - Alexander Stensby
-  - Tine Ausvel Jensen
-  - Marte
-companies_orgs:
-  - Norges Bank Investment Management
-  - OpenAI
-  - Anthropic
-  - Google
-  - Gritt AI
-products_models:
-  - Claude
-  - Cursor
-  - Copilot
-  - ChatGPT
-  - GPT-5
-media_books:
-  - In Good Company
 status: evergreen
+summary: 本文探讨了挪威主权财富基金（Norges Bank Investment Management）在人工智能（AI）采纳方面的策略和经验。基金强调了高层领导的推动作用、设定激进的效率提升目标（20%）、通过培训和工具（如Claude、Cursor、Copilot）实现技术民主化、构建现代化技术栈、培养创新开发文化以及建立战略伙伴关系的重要性。文章还讨论了在欧洲推广AI所面临的监管挑战，并展望了AI智能体和多模态交互的未来，强调了不及时采纳AI可能带来的巨大风险。
+tags:
+- ai-adoption
+- ai-agent
+- efficiency
+- leadership-buy-in
+- organizational
+title: 解锁AI成功之道：挪威主权财富基金的经验与未来展望
 ---
+
 ### 引言：AI的指数级增长与变革
 
 **主持人 Marte:** 大家好，非常欢迎大家来到由挪威主权财富基金（**Oljefondet**：Norges Bank Investment Management的通俗名称）举办的这场活动。我将与我的同事Birgitte和Oscar一起，讨论AI以及我们在基金中的工作。

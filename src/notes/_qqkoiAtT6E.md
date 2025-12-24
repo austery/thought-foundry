@@ -1,64 +1,64 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 金砖国家
+- G20
+- APEC
+- SWIFT
+- 大众汽车
+- 欧盟
+- 中国工商银行
+- 中石化
+- 中石油
+- 中储粮
+- 国务院
+- 中央网信办
+- 统战部
+- 证监会
+- 清华大学
 date: '2024-12-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中国改革论纲》
+people:
+- 许成钢
+- Xi Jinping
+- 李克强
+- 李强
+- 蔡奇
+- 赵紫阳
+- 朱镕基
+- 毛泽东
+- 邓小平
+- 刘少奇
+- 周恩来
+- 华国锋
+- 郭于华
+- 孙立平
+- 叶海燕
+products_models:
+- Telegram
+project:
+- china-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=_qqkoiAtT6E
 speaker: 东京人文论坛
-tags:
-  - governance-model
-  - political-economy
-  - power-and-checks
-  - social-transformation
-title: 中国转型的千万细节：从最坏情景到权力制约的可能路径
-summary: 本文深入探讨了中国未来转型的两种极端情景。最坏的情况是走向集权甚至“纳粹化”，但其高昂的财政成本使其难以持续。在无法采取极端措施时，政府是否能仅通过经济改革渡过危机？文章分析了文明执法、增加福利、减税和执行劳动法等方案，并指出它们都将冲击现有的政治治理逻辑。最终，讨论转向建立权力制约的可能路径，如地方自治、党政分开、司法独立，以及一种“拼接式改良”的转型模式。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - 许成钢
-  - 习近平
-  - 李克强
-  - 李强
-  - 蔡奇
-  - 赵紫阳
-  - 朱镕基
-  - 毛泽东
-  - 邓小平
-  - 刘少奇
-  - 周恩来
-  - 华国锋
-  - 郭于华
-  - 孙立平
-  - 叶海燕
-companies_orgs:
-  - 金砖国家
-  - G20
-  - APEC
-  - SWIFT
-  - 大众汽车
-  - 欧盟
-  - 中国工商银行
-  - 中石化
-  - 中石油
-  - 中储粮
-  - 国务院
-  - 中央网信办
-  - 统战部
-  - 证监会
-  - 清华大学
-products_models:
-  - Telegram
-media_books:
-  - 《中国改革论纲》
 status: evergreen
+summary: 本文深入探讨了中国未来转型的两种极端情景。最坏的情况是走向集权甚至“纳粹化”，但其高昂的财政成本使其难以持续。在无法采取极端措施时，政府是否能仅通过经济改革渡过危机？文章分析了文明执法、增加福利、减税和执行劳动法等方案，并指出它们都将冲击现有的政治治理逻辑。最终，讨论转向建立权力制约的可能路径，如地方自治、党政分开、司法独立，以及一种“拼接式改良”的转型模式。
+tags:
+- model
+- political-economy
+- power
+- social
+title: 中国转型的千万细节：从最坏情景到权力制约的可能路径
 ---
+
 ### 设想最坏情景：中国会成为“西朝鲜”吗？
 
 我们来设想一下中国转型最糟的情况是什么。最糟的情况并非是从农村地区搞公有制经济，如果真到那种地步，就如许成刚所说，中国可能走入**集权式纳粹主义**（Totalitarian Nazism: 一种结合了极权统治和极端民族主义的政治形态）。也就是说，我们不再追求成为正常国家，彻底不搞市场经济，效仿朝鲜，甚至关闭互联网。

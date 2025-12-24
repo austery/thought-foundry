@@ -1,65 +1,65 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央电视台
+- 开心麻花
+- 中国曲艺家协会
+- 阿里巴巴集团
+- 亿欧商学院
+- 湖畔大学
+- 长江商学院
+- 月之暗面
 date: '2025-02-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《不差钱》
+- 《银翼杀手》
+- 《大都会》
+- 小红书
+- 抖音
+- 快手
+- Bilibili
+- 知网
+people:
+- 小沈阳
+- 沈腾
+- 马丽
+- 王志安
+- 崔永元
+- 柴静
+- 墨索里尼
+- 雷德利·斯科特
+- 希特勒
+- 戈培尔
+- 冯巩
+- 蔡明
+- 郭冬临
+- 张艺谋
+- 陈凯歌
+products_models:
+- Deepseek
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ZkCBVV7gZkQ
 speaker: 張内咸
-tags:
-  - spring-festival-gala
-  - propaganda-aesthetics
-  - cyber-party-building
-  - futurism-revival
-  - political-communication
-title: 从春晚看中国宣传模式的变迁：赛博党建与未来主义美学回潮
-summary: 本文深入探讨了中国春节联欢晚会如何从大众娱乐转变为服务上层、脱离民意的宣传工具。作者通过“赛博党建”这一概念，揭示了当前中国宣传活动中普遍存在的未来主义美学回潮，并追溯其与法西斯美学、苏联建筑及赛博朋克的历史渊源。文章还分析了中国演艺行业的非市场化特性，指出其核心目的已转向政绩展示和意识形态教育，而非民众喜闻乐见的艺术创作。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 小沈阳
-  - 沈腾
-  - 马丽
-  - 王志安
-  - 崔永元
-  - 柴静
-  - 墨索里尼
-  - 雷德利·斯科特
-  - 希特勒
-  - 戈培尔
-  - 冯巩
-  - 蔡明
-  - 郭冬临
-  - 张艺谋
-  - 陈凯歌
-companies_orgs:
-  - 中央电视台
-  - 开心麻花
-  - 中国曲艺家协会
-  - 阿里巴巴集团
-  - 亿欧商学院
-  - 湖畔大学
-  - 长江商学院
-  - 月之暗面
-products_models:
-  - Deepseek
-media_books:
-  - 《不差钱》
-  - 《银翼杀手》
-  - 《大都会》
-  - 小红书
-  - 抖音
-  - 快手
-  - Bilibili
-  - 知网
 status: evergreen
+summary: 本文深入探讨了中国春节联欢晚会如何从大众娱乐转变为服务上层、脱离民意的宣传工具。作者通过“赛博党建”这一概念，揭示了当前中国宣传活动中普遍存在的未来主义美学回潮，并追溯其与法西斯美学、苏联建筑及赛博朋克的历史渊源。文章还分析了中国演艺行业的非市场化特性，指出其核心目的已转向政绩展示和意识形态教育，而非民众喜闻乐见的艺术创作。
+tags:
+- canada
+- party
+- political
+- society
+- technology
+title: 从春晚看中国宣传模式的变迁：赛博党建与未来主义美学回潮
 ---
+
 ### 春晚：从大众娱乐到“数字政绩发表会”
 
 其实，我已有多年未看**春晚**（Spring Festival Gala: 中国中央电视台春节联欢晚会，每年除夕夜播出的综合性文艺晚会）了。以前吃年夜饭的时候，都是陪着老人看，但老人自己也不看，只是习惯性地开着电视，听个声，跟听收音机似的。北京人管那叫**话匣子**（老式收音机: 对早期收音机的俗称）。后来，家里老人慢慢都没了，我自己都快40了，吃饭的时候也就没人开电视了。当然，我父母都是50后，按年纪来说也是老人，但他们也是好些年都不看春晚了。

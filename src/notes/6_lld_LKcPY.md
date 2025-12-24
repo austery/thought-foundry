@@ -1,40 +1,39 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: psychology
+companies_orgs:
+- New York Times
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Modern Love
+- Dramafree
+people:
+- Anna Martin
+- Nedra Glover Touab
+- Amy
+- Gordon
+- Stephanie
+- Ila
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=6_lld_LKcPY
 speaker: New York Times Podcasts
-tags:
-  - holiday-stress
-  - family-dynamics
-  - grief-support
-  - relationship-management
-  - emotional-toolkit
-title: 节日季情绪工具箱：应对家庭挑战，拥抱感恩与疗愈
-summary: 本期播客探讨了如何应对节日季的家庭压力与复杂关系。治疗师Nedra Glover Touab分享了实用建议，包括如何处理政治分歧、在亲人离世后度过节日、以及面对不愉快的家庭传统。她强调通过提前规划、设定界限和自我关怀来管理情绪，并鼓励人们在感恩与悲伤并存时，积极创造新的节日体验，最终实现自我成长与疗愈。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Anna Martin
-  - Nedra Glover Touab
-  - Amy
-  - Gordon
-  - Stephanie
-  - Ila
-companies_orgs:
-  - New York Times
-products_models: []
-media_books:
-  - Modern Love
-  - Dramafree
 status: evergreen
+summary: 本期播客探讨了如何应对节日季的家庭压力与复杂关系。治疗师Nedra Glover Touab分享了实用建议，包括如何处理政治分歧、在亲人离世后度过节日、以及面对不愉快的家庭传统。她强调通过提前规划、设定界限和自我关怀来管理情绪，并鼓励人们在感恩与悲伤并存时，积极创造新的节日体验，最终实现自我成长与疗愈。
+tags:
+- dynamic
+- emotional
+- management
+- psychology
+title: 节日季情绪工具箱：应对家庭挑战，拥抱感恩与疗愈
 ---
+
 ### 节日季的复杂情感
 
 **Anna Martin:** 大家好，我是《纽约时报》的安娜·马丁。这里是“摩登爱情”（Modern Love）节目，节日季已经来临。

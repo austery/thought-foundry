@@ -1,69 +1,68 @@
 ---
-author: Bloomberg Podcasts
+area: tech-work
+category: ai-ml
+companies_orgs:
+- AI Super PAC Leading the Future
+- Meta
+- Google
+- XAI
+- OpenAI
+- Anthropic
+- Amazon
+- DeepSeek
+- Mistral
+- Palantir
+- Bloomberg Podcasts
+- Census Bureau
+- Bureau of Economic Analysis
+- Department of Justice
+- Veterans Affairs
+- CDC
+- Netflix
+- Uniqlo
+- Condé Nast
+- DFS
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《性别歧视的新时代》
+people:
+- Alex Boris
+- Joe Weisenthal
+- Tracy Alloway
+- Jerry Nadler
+- George Conway
+- Jack Schlober
+- Donald Trump
+- Mark Andre
+- Joe Lansdale
+- Greg Brockman
+- Eric Adams
+- John Rivera
+products_models:
+- GPT-4
+- BERT
+- Laser
+- Gemini image generator
+- ChatGPT
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=EIYwcKl4NDU
 speaker: Bloomberg Podcasts
-tags:
-  - llm
-  - ai-regulation
-  - deepfake
-  - data-governance
-  - policy-making
-title: AI行业试图阻止的政治家：Alex Boris与AI监管之战
-summary: 本期播客深入探讨了纽约州议员**Alex Boris**如何因推动《提高法案》（Raise Act）而成为AI行业超级政治行动委员会的头号目标。该法案旨在为先进AI研究设定安全标准，要求主要AI实验室公开安全计划并披露关键安全事件。讨论还涵盖了AI对政治、经济、社会伦理的深远影响，如就业、能源消耗、深度伪造等，以及在创新与安全之间寻求平衡的监管挑战。**Boris**结合其在**Palantir**的工作经验，强调政府在政策实施和数据驱动决策中的重要性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Alex Boris
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Jerry Nadler
-  - George Conway
-  - Jack Schlober
-  - Donald Trump
-  - Mark Andre
-  - Joe Lansdale
-  - Greg Brockman
-  - Eric Adams
-  - John Rivera
-companies_orgs:
-  - AI Super PAC Leading the Future
-  - Meta
-  - Google
-  - XAI
-  - OpenAI
-  - Anthropic
-  - Amazon
-  - DeepSeek
-  - Mistral
-  - Palantir
-  - Bloomberg Podcasts
-  - Census Bureau
-  - Bureau of Economic Analysis
-  - Department of Justice
-  - Veterans Affairs
-  - CDC
-  - Netflix
-  - Uniqlo
-  - Condé Nast
-  - DFS
-products_models:
-  - GPT-4
-  - BERT
-  - Laser
-  - Gemini image generator
-  - ChatGPT
-media_books:
-  - 《性别歧视的新时代》
 status: evergreen
+summary: 本期播客深入探讨了纽约州议员**Alex Boris**如何因推动《提高法案》（Raise Act）而成为AI行业超级政治行动委员会的头号目标。该法案旨在为先进AI研究设定安全标准，要求主要AI实验室公开安全计划并披露关键安全事件。讨论还涵盖了AI对政治、经济、社会伦理的深远影响，如就业、能源消耗、深度伪造等，以及在创新与安全之间寻求平衡的监管挑战。**Boris**结合其在**Palantir**的工作经验，强调政府在政策实施和数据驱动决策中的重要性。
+tags:
+- ai-regulation
+- data-governance
+- deepfake
+- policy
+title: AI行业试图阻止的政治家：Alex Boris与AI监管之战
 ---
+
 ### AI行业与政治家的冲突
 
 最近一篇《政治专业版》（Political Pro）的文章报道称，一个名为“**AI超级政治行动委员会引领未来**”（AI Super PAC Leading the Future）的组织，正投入数百万美元，旨在阻止**Alex Boris**在曼哈顿代表**Jerry Nadler**退休后的初选竞选。**Alex Boris**在纽约州议会任职期间，通过了27项法案，其中一项名为**《提高法案》**（Raise Act）的法案引起了AI行业的强烈不满。这项法案首次为先进AI研究设定了安全标准，因此，该组织宣布**Alex Boris**为“头号公敌”，并计划投入巨额资金来对抗他。最初计划投入数百万美元，上周已增至**1000万美元**。

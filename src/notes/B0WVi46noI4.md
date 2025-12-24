@@ -1,54 +1,55 @@
 ---
-author: 视野环球财经
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Google
+- Eli Lilly
+- AMD
+- Microsoft
+- Tesla
+- Amazon
+- Lululemon
+- Oracle
+- SoftBank
+- OpenAI
+- Federal Reserve
+- White House National Economic Council
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- Fox News
+- CNBC
+people:
+- Hassett
+- Powell
+- Daniel Tarullo
+- Randall Kroszner
+products_models:
+- GPU
+- TPU
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=B0WVi46noI4
 speaker: 视野环球财经
-tags:
-  - us-stock-market
-  - economic-indicators
-  - fed-policy
-  - ai-semiconductors
-  - corporate-strategy
-title: 美股大盘突破临门一脚：AI巨头合力与拔河，LULU期权异常引关注
-summary: 本期节目分析了美股市场在感恩节前的表现，四大指数开盘走低后反弹，市场上涨广度良好。重点探讨英伟达与谷歌在AI领域的合作与竞争对大盘的影响，以及Eli Lilly、AMD、微软、特斯拉、亚马逊等个股走势。节目深入解读美国9月PPI、零售销售及11月消费者信心指数等经济数据，并关注美联储主席人选进展及其对货币政策的潜在影响。最后，特别提示Lululemon期权市场的异常波动，分析其潜在原因及技术面展望。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Hassett
-  - Powell
-  - Daniel Tarullo
-  - Randall Kroszner
-companies_orgs:
-  - Nvidia
-  - Google
-  - Eli Lilly
-  - AMD
-  - Microsoft
-  - Tesla
-  - Amazon
-  - Lululemon
-  - Oracle
-  - SoftBank
-  - OpenAI
-  - Federal Reserve
-  - White House National Economic Council
-products_models:
-  - GPU
-  - TPU
-media_books:
-  - Bloomberg
-  - Fox News
-  - CNBC
 status: evergreen
+summary: 本期节目分析了美股市场在感恩节前的表现，四大指数开盘走低后反弹，市场上涨广度良好。重点探讨英伟达与谷歌在AI领域的合作与竞争对大盘的影响，以及Eli
+  Lilly、AMD、微软、特斯拉、亚马逊等个股走势。节目深入解读美国9月PPI、零售销售及11月消费者信心指数等经济数据，并关注美联储主席人选进展及其对货币政策的潜在影响。最后，特别提示Lululemon期权市场的异常波动，分析其潜在原因及技术面展望。
+tags:
+- ai-semiconductor
+- corporate-strategy
+- economic-indicator
+- fed-policy
+- us-stock-market
+title: 美股大盘突破临门一脚：AI巨头合力与拔河，LULU期权异常引关注
 ---
+
 ### 美股市场概览与大盘展望
 
 大家好，欢迎回到视野环球财经。现在是美东时间25年11月25号周二晚上的8点25分。今天的四大指数在开盘走低之后一路反弹上涨，但纳指表现相对较差。不过，市场上涨广度非常好，标普500指数成分股中有427只个股上涨，仅73只下跌，且下跌股票几乎都集中在纳指100成分股中，这种情况非常罕见。这相当于昨天很多周期股被抛售之后，今天直接反转买回。在板块方面，在Eli Lilly的带领下，医疗保健板块大涨2.26%，再创新高，成为标普11个板块中的领头羊。

@@ -1,30 +1,29 @@
 ---
-title: 华尔街之王科恩的“失忆大法”：美国司法系统如何围剿顶级白领罪犯？
-summary: 本期节目深入探讨了美国司法系统在围剿华尔街巨头史蒂文·科恩及其对冲基金SAC Capital时面临的挑战。重点分析了科恩的“失忆大法”、其律师团队的“救生筏”策略，以及马修·马托马的复杂背景，揭示了顶级白领犯罪的复杂性和司法困境。
 area: null
 category: null
-project: []
-tags:
-- insider-trading
-- legal-strategy
-- white-collar-crime
-people:
-- steven-a-cohen
 companies_orgs:
 - sac-capital
-products_models: []
-media_books: []
 date: '2025-09-30'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- steven-a-cohen
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U3gI4hQW3lM
+speaker: 北美王路飞
 status: evergreen
+summary: 本期节目深入探讨了美国司法系统在围剿华尔街巨头史蒂文·科恩及其对冲基金SAC Capital时面临的挑战。重点分析了科恩的“失忆大法”、其律师团队的“救生筏”策略，以及马修·马托马的复杂背景，揭示了顶级白领犯罪的复杂性和司法困境。
+tags:
+- insider-trading
+- society
+- strategy
+title: 华尔街之王科恩的“失忆大法”：美国司法系统如何围剿顶级白领罪犯？
 ---
+
 ### 引言：围剿升级与对手的顽固
 
 本期节目继续讲述“黑金”的故事。在上一期节目中，调查全面收网。在新任检察官**普里特·巴拉拉**（Preet Bharara: 时任美国纽约南区联邦检察官）的带领下，**美国联邦调查局**（**FBI**: Federal Bureau of Investigation）策反了**SAC**（SAC Capital Advisors: 史蒂文·科恩创立的对冲基金公司）内部的关键线人，获得了这位线人提供的“自行车轮”运作模式和被期望提供**内幕信息**（Insider Trading: 利用未公开的内部信息进行证券交易以获取利益的行为）文化的致命证词。最终在2010年，随着《华尔街日报》的惊天爆料和FBI的高调突袭，整个华尔街风声鹤唳，SAC资本被正式立案调查。

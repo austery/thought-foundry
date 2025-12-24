@@ -1,44 +1,44 @@
 ---
-author: Harvard Business Review
+area: society-systems
+category: psychology
+companies_orgs:
+- Harvard Business Review
+- New York Times
+- Irrational Capital
+- S&P 500
+- Russell 1000
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Leisure, The Basis of Culture
+people:
+- Arthur C. Brooks
+- Adi Ignatius
+- Mark Zuckerberg
+- Josef Pieper
+products_models:
+- HBR IdeaCast
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=g7S6MMcYM6k
 speaker: Harvard Business Review
-tags:
-  - happiness-habits
-  - workplace-wellbeing
-  - leadership-anxiety
-  - empathy-vs-compassion
-  - societal-happiness-crisis
-title: 如何成为更快乐的领导者：幸福的四大支柱与职场迷思
-summary: 本文深入探讨了幸福的本质及其在个人和职业生活中的应用。作者亚瑟·C·布鲁克斯（Arthur C. Brooks）提出了幸福的四大支柱——信仰/哲学生活、家庭、友谊和奉献型工作，并揭示了关于幸福的常见迷思，例如幸福是一个目的地、大自然希望我们快乐以及幸福只是一种感觉。文章还讨论了如何应对信息过载、职场焦虑，以及领导者如何通过培养同情心和优化工作环境来提升员工幸福感，从而提高生产力。最后，提出了一个关于爱人、用物和敬神的幸福公式。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people:
-  - Arthur C. Brooks
-  - Adi Ignatius
-  - Mark Zuckerberg
-  - Josef Pieper
-companies_orgs:
-  - Harvard Business Review
-  - New York Times
-  - Irrational Capital
-  - S&P 500
-  - Russell 1000
-products_models:
-  - HBR IdeaCast
-media_books:
-  - Leisure, The Basis of Culture
 status: evergreen
+summary: 本文深入探讨了幸福的本质及其在个人和职业生活中的应用。作者亚瑟·C·布鲁克斯（Arthur C. Brooks）提出了幸福的四大支柱——信仰/哲学生活、家庭、友谊和奉献型工作，并揭示了关于幸福的常见迷思，例如幸福是一个目的地、大自然希望我们快乐以及幸福只是一种感觉。文章还讨论了如何应对信息过载、职场焦虑，以及领导者如何通过培养同情心和优化工作环境来提升员工幸福感，从而提高生产力。最后，提出了一个关于爱人、用物和敬神的幸福公式。
+tags:
+- crisis
+- empathy-vs-compassion
+- financial
+- leadership-anxiety
+- society
+title: 如何成为更快乐的领导者：幸福的四大支柱与职场迷思
 ---
+
 ### 幸福的四大习惯：你的“幸福养老金计划”
 
 有四种重要的习惯，最快乐的人每天都在践行。这可以被称为“幸福养老金计划”，是你每天存入的“存款”，也是你需要关注的事情。

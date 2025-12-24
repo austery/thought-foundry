@@ -1,56 +1,56 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: general
+companies_orgs:
+- Massachusetts Institute of Technology
+- Federal Reserve Bank of New York
+- Goldman Sachs
+- Amazon
+- Corning
+- 3M
+- Dow Chemical
+- University College London
+- University of California San Diego
+- Wall Street Journal
+- NPR
+- World Intellectual Property Organization
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《自然》
+- 《星球钱币》
+- 《经济学季刊》
+- 《如何和AI协作的这本书》
+people:
+- Aidan Toner Rogers
+- Daron Acemoglu
+- David Autor
+- Charles Elkan
+- Robert Palgrave
+- Ethan Mollick
+- Tyler Cowen
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=cTilUK7Sh0M
 speaker: 北美王路飞
-tags:
-  - academic-fraud
-  - ai-hype
-  - scientific-integrity
-  - cross-disciplinary-blindspots
-  - data-fabrication
-title: 骗过诺奖得主、忽悠美国国会：MIT天才少年的惊天谎言
-summary: 本文揭露了麻省理工学院博士生Aidan Toner Rogers如何通过伪造数据，编造了一篇关于AI能显著提升科学发现速度的“完美”论文。这篇论文不仅骗过了诺贝尔奖得主、顶级期刊《自然》杂志，甚至影响了美国国会的政策讨论。最终，一位计算机教授的质疑和材料学专家的技术打脸，以及康宁公司对假域名的调查，揭穿了这场精心策划的学术欺诈。事件的迅速坍塌，不仅让Aidan身败名裂，也给学术界敲响了警钟，警示在跨学科研究和AI热潮中，对“完美”结论保持质疑的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Aidan Toner Rogers
-  - Daron Acemoglu
-  - David Autor
-  - Charles Elkan
-  - Robert Palgrave
-  - Ethan Mollick
-  - Tyler Cowen
-companies_orgs:
-  - Massachusetts Institute of Technology
-  - Federal Reserve Bank of New York
-  - Goldman Sachs
-  - Amazon
-  - Corning
-  - 3M
-  - Dow Chemical
-  - University College London
-  - University of California San Diego
-  - Wall Street Journal
-  - NPR
-  - World Intellectual Property Organization
-products_models: []
-media_books:
-  - 《自然》
-  - 《星球钱币》
-  - 《经济学季刊》
-  - 《如何和AI协作的这本书》
 status: evergreen
+summary: 本文揭露了麻省理工学院博士生Aidan Toner Rogers如何通过伪造数据，编造了一篇关于AI能显著提升科学发现速度的“完美”论文。这篇论文不仅骗过了诺贝尔奖得主、顶级期刊《自然》杂志，甚至影响了美国国会的政策讨论。最终，一位计算机教授的质疑和材料学专家的技术打脸，以及康宁公司对假域名的调查，揭穿了这场精心策划的学术欺诈。事件的迅速坍塌，不仅让Aidan身败名裂，也给学术界敲响了警钟，警示在跨学科研究和AI热潮中，对“完美”结论保持质疑的重要性。
+tags:
+- data
+- fraud
+- llm
+- scientific
+- technology
+title: 骗过诺奖得主、忽悠美国国会：MIT天才少年的惊天谎言
 ---
+
 ### 引言：一个“完美”的科学谎言
 
 如果有人告诉你，只要按下一个按钮，人类科学探索速度就能瞬间提升将近一半，你会相信吗？不是5%，也不是10%，而是整整44%。这意味着什么？想象一下，如果我们研究一种救命的新药，本来需要10年，现在可能只需要5年多；如果我们在寻找一种可以替代塑料的环保材料，本来需要这一代人的努力，现在可能就在未来两三年。这听起来是不是太美好了，太像科幻小说了？

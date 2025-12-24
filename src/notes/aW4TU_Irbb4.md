@@ -1,34 +1,31 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-03-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Phenomenology of Spirit
+people:
+- Hegel
+- Winnicott
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=aW4TU_Irbb4
 speaker: Anthony看世界
-tags:
-  - philosophical-depression
-  - meaninglessness
-  - distress-consciousness
-  - self-reconciliation
-  - transcendental-self
-title: 走出无意义感与哲学性抑郁：与不幸意识和解的终极之道
-summary: 本期节目深入探讨了两种抑郁：由外部事件引发的普通抑郁，以及源于摆脱旧束缚后心理真空的哲学性抑郁。节目通过具体案例，阐释了哲学性抑郁的深层特征，并将其与黑格尔《精神现象学》中的“不幸意识”概念相连接。最终，节目提出了一种与不幸意识和解的终极方法：认识到超验理念并非纯粹主观，而是客观现实自然发展的体现，从而在混沌中发现内在的超越性力量，实现自我与世界的深度融合。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Hegel
-  - Winnicott
-companies_orgs: []
-products_models: []
-media_books:
-  - Phenomenology of Spirit
 status: evergreen
+summary: 本期节目深入探讨了两种抑郁：由外部事件引发的普通抑郁，以及源于摆脱旧束缚后心理真空的哲学性抑郁。节目通过具体案例，阐释了哲学性抑郁的深层特征，并将其与黑格尔《精神现象学》中的“不幸意识”概念相连接。最终，节目提出了一种与不幸意识和解的终极方法：认识到超验理念并非纯粹主观，而是客观现实自然发展的体现，从而在混沌中发现内在的超越性力量，实现自我与世界的深度融合。
+tags:
+- distress-consciousness
+- psychology
+- self
+title: 走出无意义感与哲学性抑郁：与不幸意识和解的终极之道
 ---
 
 ### 区分两种抑郁：外部事件与哲学性困境

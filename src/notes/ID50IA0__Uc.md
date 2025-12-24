@@ -1,45 +1,45 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: psychology
+companies_orgs:
+- New York Times Podcasts
+- Hedgebrook Writing Residency
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Untethered Soul
+- Come See Me in the Good Light
+- Hold Down the Fort
+- Love Letter from the Afterlife
+- Modern Love
+people:
+- Anna Martin
+- Megan Fley
+- Andrea Gibson
+- Katie
+- Chris Perka
+- Michael Singer
+- Eckhart Tolle
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=ID50IA0__Uc
 speaker: New York Times Podcasts
-tags:
-  - grief
-  - love-and-loss
-  - coping-mechanisms
-  - poetry
-  - relationship-dynamics
-title: 《现代爱情》：诗人安德里亚·吉布森的遗孀梅根·弗莱如何穿越爱与失去
-summary: 本期《现代爱情》节目邀请了已故诗人安德里亚·吉布森的伴侣梅根·弗莱。梅根分享了她们深厚的爱情故事、安德里亚与卵巢癌抗争的经历，以及她们如何应对疾病和即将到来的失去。对话深入探讨了悲伤、亲密关系、自我发现以及爱超越死亡的永恒存在等主题，并以安德里亚感人至深的诗歌《来自来世的情书》的朗读作为高潮。节目探索了爱如何重塑自我认知，以及如何在深沉的悲痛中找到喜悦。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Anna Martin
-  - Megan Fley
-  - Andrea Gibson
-  - Katie
-  - Chris Perka
-  - Michael Singer
-  - Eckhart Tolle
-companies_orgs:
-  - New York Times Podcasts
-  - Hedgebrook Writing Residency
-products_models: []
-media_books:
-  - The Untethered Soul
-  - Come See Me in the Good Light
-  - Hold Down the Fort
-  - Love Letter from the Afterlife
-  - Modern Love
 status: evergreen
+summary: 本期《现代爱情》节目邀请了已故诗人安德里亚·吉布森的伴侣梅根·弗莱。梅根分享了她们深厚的爱情故事、安德里亚与卵巢癌抗争的经历，以及她们如何应对疾病和即将到来的失去。对话深入探讨了悲伤、亲密关系、自我发现以及爱超越死亡的永恒存在等主题，并以安德里亚感人至深的诗歌《来自来世的情书》的朗读作为高潮。节目探索了爱如何重塑自我认知，以及如何在深沉的悲痛中找到喜悦。
+tags:
+- coping-mechanism
+- loss
+- poetry
+- psychology
+- relationship-dynamic
+title: 《现代爱情》：诗人安德里亚·吉布森的遗孀梅根·弗莱如何穿越爱与失去
 ---
+
 ### 节日季的家庭挑战
 
 Anna Martin: 大家好，我是安娜。感恩节已经快到了，我简直不敢相信。你可能也觉得难以置信，但它真的近在眼前了。

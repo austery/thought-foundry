@@ -1,76 +1,76 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Bridgewater Associates
+- Oaktree Capital Management
+- Wellington Management
+- Hellman & Friedman
+- Harvard Business School
+- Stanford Management Company
+- Apollo Global Management
+- Morgan Stanley
+- Google
+- Vanguard
+- CitiBank
+- Cleveland Clinic
+- Ferrari
+- Novo Nordisk
+- DoorDash
+- Otis
+- Nestle
+- Adidas
+- McDonald's
+- Anduril
 date: '2024-04-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Illusion of Knowledge
+- Quit
+- What Intelligence Tests Miss
+people:
+- Greg Jensen
+- Howard Marks
+- Jean Hynes
+- Patrick Healey
+- Pedro Faria
+- Amy Edmondson
+- Robert Wallace
+- Mark Rowan
+- Angela Duckworth
+- Annie Duke
+- Michael Mauboussin
+- Marc Andreessen
+- Warren Buffett
+- John Kenneth Galbraith
+- Mark Twain
+- Danny Kahneman
+- Nikolai Tangen
+products_models:
+- S&P 500
+- Pure Alpha
+project:
+- investment-strategy
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=6Kas8LRJnGU
 speaker: Norges Bank Investment Management
-tags:
-  - investment-philosophy
-  - risk-management
-  - cognitive-biases
-  - market-efficiency
-  - organizational-culture
-title: 成为更优秀投资者的秘诀：桥水、橡树资本与顶级思想家深度对话
-summary: 挪威银行2024年投资大会汇集了全球顶尖的投资思想家。桥水基金的格雷格·詹森分享了其系统化、基本面驱动的投资哲学，而橡树资本的霍华德·马克斯则强调了逆向思维和对宏观预测的审慎。会议深入探讨了成功投资组织的关键要素，如心理安全感、从错误中学习的文化，以及投资者必备的心理素质，包括坚毅、自控和知道何时退出的智慧。这是一场关于投资策略、风险管理和认知偏误的深度剖析。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Greg Jensen
-  - Howard Marks
-  - Jean Hynes
-  - Patrick Healey
-  - Pedro Faria
-  - Amy Edmondson
-  - Robert Wallace
-  - Mark Rowan
-  - Angela Duckworth
-  - Annie Duke
-  - Michael Mauboussin
-  - Marc Andreessen
-  - Warren Buffett
-  - John Kenneth Galbraith
-  - Mark Twain
-  - Danny Kahneman
-  - Nikolai Tangen
-companies_orgs:
-  - Norges Bank Investment Management
-  - Bridgewater Associates
-  - Oaktree Capital Management
-  - Wellington Management
-  - Hellman & Friedman
-  - Harvard Business School
-  - Stanford Management Company
-  - Apollo Global Management
-  - Morgan Stanley
-  - Google
-  - Vanguard
-  - CitiBank
-  - Cleveland Clinic
-  - Ferrari
-  - Novo Nordisk
-  - DoorDash
-  - Otis
-  - Nestle
-  - Adidas
-  - McDonald's
-  - Anduril
-products_models:
-  - S&P 500
-  - Pure Alpha
-media_books:
-  - The Illusion of Knowledge
-  - Quit
-  - What Intelligence Tests Miss
 status: evergreen
+summary: 挪威银行2024年投资大会汇集了全球顶尖的投资思想家。桥水基金的格雷格·詹森分享了其系统化、基本面驱动的投资哲学，而橡树资本的霍华德·马克斯则强调了逆向思维和对宏观预测的审慎。会议深入探讨了成功投资组织的关键要素，如心理安全感、从错误中学习的文化，以及投资者必备的心理素质，包括坚毅、自控和知道何时退出的智慧。这是一场关于投资策略、风险管理和认知偏误的深度剖析。
+tags:
+- cognitive-bias
+- investment-philosophy
+- market-efficiency
+- organizational-culture
+- risk-management
+title: 成为更优秀投资者的秘诀：桥水、橡树资本与顶级思想家深度对话
 ---
+
 ### 何为优秀的投资者？
 
 一位优秀的投资者，应将充满激情的好奇心与对真理的不懈追求相结合，整合多样化的信息以获得独特的见解，创造性地连接不相关的数据，并不断积累知识，成为一台学习机器。对我而言，一个安全且支持性的组织文化至关重要。这种文化在公开的异议、从失败和成功中协同学习以及相互关怀中蓬勃发展。培养这种环境需要集体努力，但最终能将一个组织提升到超越个体贡献的高度。

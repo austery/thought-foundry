@@ -1,45 +1,45 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2021-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《反动的修辞》
+- 《济贫法》
+- Speenhamland法案
+people:
+- Albert O. Hirschman
+- Milton Friedman
+- Karl Polanyi
+- Sam Peltzman
+- Gaetano Mosca
+- George Stigler
+- Martin Feldstein
+- Cornford
+- Robert Lowe
+products_models: []
+project:
+- systems-thinking
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=gpkijBhKBJg
 speaker: 超級歪 SuperY
-tags:
-  - political-rhetoric
-  - social-reform
-  - public-discourse
-  - opposition-strategies
-  - democratic-process
-title: 拆解政治话术：解读《反动的修辞》中的三大论证策略
-summary: 本文深入探讨美国经济学家阿尔伯特·赫希曼的著作《反动的修辞》，揭示了反改革者常用的“悖谬论”、“无效论”和“危害论”三大修辞策略。通过分析历史案例，如基本工资、社会福利、普选权和核能政策等，文章旨在帮助读者识别并破解公共辩论中的政治话术，理解社会改革过程中反对声音的本质，从而促进更理性、深入的民主讨论。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - systems-thinking
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Albert O. Hirschman
-  - Milton Friedman
-  - Karl Polanyi
-  - Sam Peltzman
-  - Gaetano Mosca
-  - George Stigler
-  - Martin Feldstein
-  - Cornford
-  - Robert Lowe
-companies_orgs: []
-products_models: []
-media_books:
-  - 《反动的修辞》
-  - 《济贫法》
-  - Speenhamland法案
 status: evergreen
+summary: 本文深入探讨美国经济学家阿尔伯特·赫希曼的著作《反动的修辞》，揭示了反改革者常用的“悖谬论”、“无效论”和“危害论”三大修辞策略。通过分析历史案例，如基本工资、社会福利、普选权和核能政策等，文章旨在帮助读者识别并破解公共辩论中的政治话术，理解社会改革过程中反对声音的本质，从而促进更理性、深入的民主讨论。
+tags:
+- democratic
+- political
+- public
+- social
+- strategy
+title: 拆解政治话术：解读《反动的修辞》中的三大论证策略
 ---
+
 ### 导言：公共辩论中的反动修辞
 
 2021年12月18日，台湾举行了四大公投，议题涵盖“重启动核四”、“反莱猪”、“公投绑大选”以及“三接迁建”。在这些公共议题的辩论中，我们常常会遇到各种反对改革的声音。美国经济学家阿尔伯特·赫希曼（Albert O. Hirschman）的著作《反动的修辞》（The Rhetoric of Reaction）正是为了帮助我们破解这些公共论述，揭示反改革人士如何运用修辞技巧进行辩论。

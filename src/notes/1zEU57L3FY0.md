@@ -1,48 +1,48 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- University of Toronto
+- Munk School of Public Policy
+- Tealbook
+- Ontario Centre for Innovation
+- Vector Institute
+- OpenAI
+- Nvidia
+- Kraft Heinz
+- Goldman Sachs
+- UK government
+- Department of Defence
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+people:
+- David Wolfe
+- Stephany Lapierre
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=1zEU57L3FY0
 speaker: TVO Today
-tags:
-  - industrial-policy
-  - innovation-strategy
-  - global-competitiveness
-  - government-procurement
-  - talent-pipeline
-title: 创新如何影响安大略省的产业未来？
-summary: 本文探讨了产业政策及其在全球经济变局中的重要性，以及加拿大（特别是安大略省）对此的态度。专家David Wolfe和Stephany Lapierre深入探讨了创新，尤其是人工智能，如何推动竞争力。他们强调需要清晰、协作的产业战略、有效的政府采购，以及通过提供资本、人才和市场渠道来更好地支持科技公司的发展。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - David Wolfe
-  - Stephany Lapierre
-companies_orgs:
-  - TVO Today
-  - University of Toronto
-  - Munk School of Public Policy
-  - Tealbook
-  - Ontario Centre for Innovation
-  - Vector Institute
-  - OpenAI
-  - Nvidia
-  - Kraft Heinz
-  - Goldman Sachs
-  - UK government
-  - Department of Defence
-products_models: []
-media_books:
-  - The Rundown
 status: evergreen
+summary: 本文探讨了产业政策及其在全球经济变局中的重要性，以及加拿大（特别是安大略省）对此的态度。专家David Wolfe和Stephany Lapierre深入探讨了创新，尤其是人工智能，如何推动竞争力。他们强调需要清晰、协作的产业战略、有效的政府采购，以及通过提供资本、人才和市场渠道来更好地支持科技公司的发展。
+tags:
+- global
+- government
+- industrial-policy
+- strategy
+- talent
+title: 创新如何影响安大略省的产业未来？
 ---
+
 ### 产业政策的定义与重要性
 
 当你听到“**产业政策**”（Industrial Policy: 政府为引导经济发展、提升特定产业竞争力而制定的一系列措施）这个词时，你可能会觉得它像是一个行业术语，对吗？但实际上，它的含义远不止于此。

@@ -1,48 +1,44 @@
 ---
-
-title: AI研讨会纪要：创新、应用案例与战略展望
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - 企业价值
-  - 医疗健康
-people:
-  - Dave Wessinger
-  - Alan Missen
-  - Marina Stojanovic
-  - Ketki Yennemadi
-  - Auroosa Kazmi-Ishaq
-  - Aakif Shaik
-  - Pam Martin
-  - Sonal Misra
-  - Caleb Waldemar
-  - Kristy Liu
-  - Daisy Dool
-  - Jenna Paglia
-  - Pawandeep Kaur
-  - Victor Tarnovski
-  - Erik Stabile
-  - Julia Groza
-  - Raka Dhar
-  - Panelists
-  - Kazmi-Ishaq
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: tech-engineering
 author: Lei
-speaker: PCC insider
+category: ai-ml
 channel: null
-guest:
+companies_orgs: []
+date: '2025-07-10'
+guest: null
 insight: null
 layout: post.njk
+people:
+- Dave Wessinger
+- Alan Missen
+- Marina Stojanovic
+- Ketki Yennemadi
+- Auroosa Kazmi-Ishaq
+- Aakif Shaik
+- Pam Martin
+- Sonal Misra
+- Caleb Waldemar
+- Kristy Liu
+- Daisy Dool
+- Jenna Paglia
+- Pawandeep Kaur
+- Victor Tarnovski
+- Erik Stabile
+- Julia Groza
+- Raka Dhar
+- Panelists
+- Kazmi-Ishaq
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: null
-
+speaker: PCC insider
+summary: null
+tags:
+- health
+- investment
+title: AI研讨会纪要：创新、应用案例与战略展望
 ---
 
 ## 主题演讲对话：AI 的紧迫性与机遇

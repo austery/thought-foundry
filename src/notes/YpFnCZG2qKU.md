@@ -1,46 +1,46 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- 安然公司
+- 华盛顿邮报
+- 伯克希尔·哈撒韦
+- 可口可乐公司
+- Netflix
+- 亚马逊
+- Bookshop.org
 date: '2024-07-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《穷查理宝典》
+- 《皇帝的新装》
+people:
+- 查理·芒格
+- 沃伦·巴菲特
+- 尼克·斯莱普
+- 苏格拉底
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=YpFnCZG2qKU
 speaker: Shijun Tang
-tags:
-  - investment-principles
-  - mental-models
-  - cognitive-biases
-  - compound-interest
-  - decision-making
-title: 《穷查理宝典》精髓：查理·芒格的投资智慧与终身学习体系
-summary: 本文深度解析《穷查理宝典》中查理·芒格的核心投资哲学，涵盖安全边际、独立思考、能力圈、逆向思维与复利等关键原则，并强调终身学习与识别认知偏差对长期财富积累的决定性作用。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - historical-insights
-people:
-  - 查理·芒格
-  - 沃伦·巴菲特
-  - 尼克·斯莱普
-  - 苏格拉底
-companies_orgs:
-  - 安然公司
-  - 华盛顿邮报
-  - 伯克希尔·哈撒韦
-  - 可口可乐公司
-  - Netflix
-  - 亚马逊
-  - Bookshop.org
-products_models: []
-media_books:
-  - 《穷查理宝典》
-  - 《皇帝的新装》
 status: evergreen
+summary: 本文深度解析《穷查理宝典》中查理·芒格的核心投资哲学，涵盖安全边际、独立思考、能力圈、逆向思维与复利等关键原则，并强调终身学习与识别认知偏差对长期财富积累的决定性作用。
+tags:
+- cognitive-bias
+- compound-interest
+- decision-making
+- investment
+- mental-model
+title: 《穷查理宝典》精髓：查理·芒格的投资智慧与终身学习体系
 ---
+
 ### 查理·芒格与《穷查理宝典》：一部浓缩毕生智慧的投资经典
 
 查理·芒格是我心中的偶像。《穷查理宝典》（Poor Charlie’s Almanack）这本书的最新版本，在他去世前六天发布，但许多人仍不了解它的价值。事实上，这本书已是第五个版本——自2005年10月首版发行，到2023年11月最终版问世，历时整整18年66天。查理毕生积累的投资智慧、商业洞见与人生哲学，全部融汇在这本书中。它涵盖投资、商业乃至做人的根本道理。

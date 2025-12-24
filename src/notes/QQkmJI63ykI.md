@@ -1,47 +1,45 @@
 ---
-author: Veritasium
-date: '2023-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=QQkmJI63ykI
-speaker: Veritasium
-tags:
-  - veritasium
-  - haber-bosch-process
-  - nitrogen-fixation
-  - chemical-weapons
-  - scientific-ethics
-  - dual-use-technology
-title: 弗里茨·哈伯：拯救数十亿生命与制造致命武器的科学双刃剑
-summary: 1918年诺贝尔化学奖得主弗里茨·哈伯，因其发明的哈伯-博世固氮法而闻名，这项技术通过从空气中合成氨，为全球数十亿人提供了粮食，被誉为人类历史上最重要的科学突破之一。然而，哈伯在第一次世界大战期间将这项技术转用于制造炸药，并积极研发氯气等化学武器，导致无数生命逝去。本文深入探讨了哈伯的复杂遗产，以及科学发现的双刃剑效应，引发我们对知识进步与道德责任之间关系的深刻思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Fritz Haber
-  - William Crooks
-  - Georg Hildebrandt
-  - Clara
-  - Max Planck
-  - Max Born
-  - Albert Einstein
-  - Otto Hahn
+category: geopolitics
 companies_orgs:
-  - BASF
-  - Kaiser Wilhelm Institute for Physical Chemistry
-  - New York Times
+- BASF
+- Kaiser Wilhelm Institute for Physical Chemistry
+- New York Times
+date: '2023-10-07'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Fritz Haber
+- William Crooks
+- Georg Hildebrandt
+- Clara
+- Max Planck
+- Max Born
+- Albert Einstein
+- Otto Hahn
 products_models:
-  - Snatoms
-  - Zyklon B
-media_books: []
+- Snatoms
+- Zyklon B
+project:
+- historical-insights
+- systems-thinking
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=QQkmJI63ykI
+speaker: veritasium
 status: evergreen
+summary: 1918年诺贝尔化学奖得主弗里茨·哈伯，因其发明的哈伯-博世固氮法而闻名，这项技术通过从空气中合成氨，为全球数十亿人提供了粮食，被誉为人类历史上最重要的科学突破之一。然而，哈伯在第一次世界大战期间将这项技术转用于制造炸药，并积极研发氯气等化学武器，导致无数生命逝去。本文深入探讨了哈伯的复杂遗产，以及科学发现的双刃剑效应，引发我们对知识进步与道德责任之间关系的深刻思考。
+tags:
+- canada
+- ethics
+- geopolitical
+- nitrogen-fixation
+- technology
+title: 弗里茨·哈伯：拯救数十亿生命与制造致命武器的科学双刃剑
 ---
+
 ### 弗里茨·哈伯：诺贝尔奖背后的争议与遗产
 
 1918年的**诺贝尔化学奖**（Nobel Prize for Chemistry）可能是迄今为止颁发的最重要的诺贝尔奖。

@@ -1,44 +1,43 @@
 ---
-author: Veritasium
-date: '2019-12-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Pm9CQn07OjU
-speaker: Veritasium
-tags:
-  - veritasium
-  - new-years-resolutions
-  - habit-formation
-  - goal-setting
-  - self-control
-  - environmental-design
-title: 新年决心为何失败？科学方法助你成功
-summary: 大多数新年决心最终都会失败，但科学研究揭示了其背后的原因，并提供了有效的应对策略。本文将探讨为何人们常因目标过于宏大、模糊不清或过度依赖意志力而功败垂成，并介绍如何通过设定微小目标、具体化计划、可视化追踪以及优化环境来大幅提升成功的可能性。作者还分享了他为2020年设定的三个新年决心作为实践案例。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - James Clear
-  - Cal Newport
-  - Robert M Sapolsky
-  - Simone Giertz
-  - CGP Grey
+category: psychology
 companies_orgs:
-  - Patreon
-  - Audible
-products_models:
-  - Instagram
-  - Twitter
+- Patreon
+- Audible
+date: '2019-12-28'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Atomic Habits
-  - Deep Work
-  - 'Behave: The Biology of Humans at Our Best and Worst'
+- Atomic Habits
+- Deep Work
+- 'Behave: The Biology of Humans at Our Best and Worst'
+people:
+- James Clear
+- Cal Newport
+- Robert M Sapolsky
+- Simone Giertz
+- CGP Grey
+products_models:
+- Instagram
+- Twitter
+project:
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=Pm9CQn07OjU
+speaker: veritasium
 status: evergreen
+summary: 大多数新年决心最终都会失败，但科学研究揭示了其背后的原因，并提供了有效的应对策略。本文将探讨为何人们常因目标过于宏大、模糊不清或过度依赖意志力而功败垂成，并介绍如何通过设定微小目标、具体化计划、可视化追踪以及优化环境来大幅提升成功的可能性。作者还分享了他为2020年设定的三个新年决心作为实践案例。
+tags:
+- design
+- goal-setting
+- habit-formation
+- self
+- technology
+title: 新年决心为何失败？科学方法助你成功
 ---
+
 ### 新年决心：为何多数以失败告终？
 
 大多数新年决心都会失败。因此，在本期视频中，我将探讨它们失败背后的科学原因，以及如何避免这些陷阱，从而让你的新年决心真正成功，我还会分享我为2020年设定的三个新年决心。

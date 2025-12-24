@@ -1,38 +1,36 @@
 ---
-author: Veritasium
-date: '2024-01-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=lGJEihgN4OU
-speaker: Veritasium
-tags:
-  - veritasium
-  - rainfall-simulator
-  - natural-disasters
-  - flood-prevention
-  - landslide-mitigation
-  - climate-change-impact
-title: 全球最大降雨模拟器：日本如何应对极端天气挑战
-summary: 位于日本筑波的全球最大降雨模拟器，是日本应对台风、洪水和山体滑坡等自然灾害的关键设施。该模拟器能重现史上最强降雨，用于研究土壤侵蚀、洪水预防和山体滑坡机制，并测试无人机和自动驾驶汽车在恶劣天气下的性能。随着气候变化导致极端降雨事件日益频繁，这项研究对于保护数千万人生命财产安全变得愈发重要。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Derek Muller
-  - Petr Lebedev
-  - Dr. Sakai
+category: geopolitics
 companies_orgs:
-  - NIED
-  - NordVPN
+- NIED
+- NordVPN
+date: '2024-01-26'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Petr Lebedev
+- Dr. Sakai
 products_models: []
-media_books: []
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=lGJEihgN4OU
+speaker: veritasium
 status: evergreen
+summary: 位于日本筑波的全球最大降雨模拟器，是日本应对台风、洪水和山体滑坡等自然灾害的关键设施。该模拟器能重现史上最强降雨，用于研究土壤侵蚀、洪水预防和山体滑坡机制，并测试无人机和自动驾驶汽车在恶劣天气下的性能。随着气候变化导致极端降雨事件日益频繁，这项研究对于保护数千万人生命财产安全变得愈发重要。
+tags:
+- climate-change-impact
+- environment
+- landslide-mitigation
+- llm
+- technology
+title: 全球最大降雨模拟器：日本如何应对极端天气挑战
 ---
+
 ### 引言：全球最大降雨模拟器
 
 这是位于日本**筑波**（Tsukuba: 日本关东地区的一个城市）的全球最大降雨模拟器。

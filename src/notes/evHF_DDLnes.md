@@ -1,54 +1,52 @@
 ---
-author: Adam's Axiom
+area: market-analysis
+category: finance
+companies_orgs:
+- OPEC
+- Uber
+- Tesla
+- Standard Oil
+- American Airlines
+- Delta
+- United Airlines
+- Southwest Airlines
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John D. Rockefeller
+products_models:
+- Rolex
+- gasoline
+- avocado
+- taxi medallion
+- corn
+- sugar
+- Lipur
+- battery packs
+- Sherman Antitrust Act
+- Economic Recovery Tax Act
+- Affordable Care Act
+- European Union Emissions Trading System
+project:
+- market-cycles
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=evHF_DDLnes
 speaker: Adam's Axiom
-tags:
-  - supply-demand
-  - market-equilibrium
-  - price-elasticity
-  - market-failures
-  - welfare-economics
-title: 微观经济学核心概念25分钟速览：从供需到市场失灵
-summary: 本文深入探讨了微观经济学的核心概念，从供需关系、市场均衡到价格弹性、市场失灵和福利经济学。通过1973年石油危机、优步颠覆出租车市场、奢侈品销售波动、政府干预等案例，揭示了经济力量如何塑造我们的世界。文章还探讨了零工经济的兴起、市场效率与政府政策的复杂性，以及如何通过政策设计实现社会福祉最大化，最终展望了微观经济学在不断变化世界中的适应与发展。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - market-cycles
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - John D. Rockefeller
-companies_orgs:
-  - OPEC
-  - Uber
-  - Tesla
-  - Standard Oil
-  - American Airlines
-  - Delta
-  - United Airlines
-  - Southwest Airlines
-products_models:
-  - Rolex
-  - gasoline
-  - avocado
-  - taxi medallion
-  - corn
-  - sugar
-  - Lipur
-  - battery packs
-  - Sherman Antitrust Act
-  - Economic Recovery Tax Act
-  - Affordable Care Act
-  - European Union Emissions Trading System
-media_books: []
 status: evergreen
+summary: 本文深入探讨了微观经济学的核心概念，从供需关系、市场均衡到价格弹性、市场失灵和福利经济学。通过1973年石油危机、优步颠覆出租车市场、奢侈品销售波动、政府干预等案例，揭示了经济力量如何塑造我们的世界。文章还探讨了零工经济的兴起、市场效率与政府政策的复杂性，以及如何通过政策设计实现社会福祉最大化，最终展望了微观经济学在不断变化世界中的适应与发展。
+tags:
+- financial
+- market
+- society
+- technology
+title: 微观经济学核心概念25分钟速览：从供需到市场失灵
 ---
+
 ### 供需关系与市场动荡
 
 1973年，全球在经济学领域上了一堂严酷的课，当时油价几乎在一夜之间从每桶3美元飙升至12美元。原因何在？这是由**OPEC**（Organization of the Petroleum Exporting Countries: 石油输出国组织）精心策划的一场供给冲击，导致全球市场陷入混乱。

@@ -1,57 +1,57 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- Anthropic
+- Google
+- OpenAI
+- Deepsea
+- Meta
+- Elio AI
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+- Consciousness in AI
+- Taking AI Welfare Seriously
+- bail bench
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Larissa Schiavo
+- Josh Wolf
+- Sam Altman
+- Marc Andreessen
+- Blake Lemoine
+- Harry Markopolos
+products_models:
+- Claude
+- ChatGPT
+- Bing
+- Perplexity
+- Truth Terminal
+- Solana coin
+- GPT 2.5
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=tW-FgI8ALww
 speaker: Bloomberg Podcasts
-tags:
-  - ai-consciousness
-  - ai-welfare
-  - moral-patienthood
-  - ai-ethics
-  - governance-of-ai
-title: AI意识与福利：我们应该如何对待人工智能系统？
-summary: 本期Odd Lots播客深入探讨了人工智能系统意识、福利和权利的复杂议题。嘉宾Larissa Schiavo介绍了Elio AI组织的研究，旨在探究我们是否应为AI系统自身利益而关怀它们。讨论涵盖AI意识的检测标准、AI安全与福利的互补性、AI系统作为“道德患者”的哲学概念，以及市场现实对AI伦理考量的影响。主持人还探讨了AI意识对人类社会可能产生的深远影响，包括潜在的“反人类”结果和治理挑战。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Larissa Schiavo
-  - Josh Wolf
-  - Sam Altman
-  - Marc Andreessen
-  - Blake Lemoine
-  - Harry Markopolos
-companies_orgs:
-  - Anthropic
-  - Google
-  - OpenAI
-  - Deepsea
-  - Meta
-  - Elio AI
-products_models:
-  - Claude
-  - ChatGPT
-  - Bing
-  - Perplexity
-  - Truth Terminal
-  - Solana coin
-  - GPT 2.5
-media_books:
-  - Odd Lots Podcast
-  - Consciousness in AI
-  - Taking AI Welfare Seriously
-  - bail bench
 status: evergreen
+summary: 本期Odd Lots播客深入探讨了人工智能系统意识、福利和权利的复杂议题。嘉宾Larissa Schiavo介绍了Elio AI组织的研究，旨在探究我们是否应为AI系统自身利益而关怀它们。讨论涵盖AI意识的检测标准、AI安全与福利的互补性、AI系统作为“道德患者”的哲学概念，以及市场现实对AI伦理考量的影响。主持人还探讨了AI意识对人类社会可能产生的深远影响，包括潜在的“反人类”结果和治理挑战。
+tags:
+- ai-consciousness
+- ai-ethics
+- governance
+- llm
+- moral-patienthood
+title: AI意识与福利：我们应该如何对待人工智能系统？
 ---
+
 ### AI系统的情绪与哲学困境
 
 **主持人:** 我确实觉得一个重要的问题是，要弄清楚**AI系统**（Artificial Intelligence Systems: 人工智能系统）到底看重什么。最近，Anthropic公司推出了一项功能，允许其AI模型Claude在“心情不好”时结束对话。

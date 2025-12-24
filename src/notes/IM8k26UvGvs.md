@@ -1,104 +1,106 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Salesforce
+- Snowflake
+- UiPath
+- Microsoft
+- Tesla
+- Nvidia
+- Amkor
+- Google
+- UnitedHealth Group
+- Oscar Health
+- Robinhood
+- Palantir
+- AMD
+- Bloomberg
+- OpenAI
+- The New York Times
+- CrowdStrike
+- Broadcom
+- Five Below
+- C3.ai
+- Apple
+- Meta
+- Amazon
+- Intel
+- MicroStrategy
+- Verizon
+- Goldman Sachs
+- Anthropic
+- CNN
+- Kalshi
+- Polymarket
+- Fanatics
+- BlackRock
+- Costco
+- YouTube
+- CNBC
+- ESPN
+- The Compound
+- SpaceX
+- Center for Strategic and International Studies
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Joe Rogan Experience
+- Dealbook Summit
+people:
+- Jensen Huang
+- Joe Rogan
+- Elon Musk
+- Mike Johnson
+- Donald Trump
+- Kevin Hassett
+- Christopher Waller
+- Rick Rieder
+- Vlad Tenev
+- Mark Benioff
+- Alex Karp
+- Larry Fink
+- Tom Lee
+products_models:
+- Co-pilot
+- S&P 500
+- Gain AI Act
+- Agent Force
+- Data 360
+- Google TPU
+- Bitcoin
+- Ethereum
+- Fusaka upgrade
+- CUDA
+- ChatGPT
+- Claude
+- Gemini
+- Grok
+- Blackwell
+- H200
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=IM8k26UvGvs
 speaker: Amit Kukreja
-tags:
-  - earnings-report
-  - market-reaction
-  - ai-business-impact
-  - tech-lobbying
-  - enterprise-software
-title: 财报解读：Salesforce AI 业务强劲，UiPath 首次盈利，Snowflake 为何意外下跌？
-summary: 本期市场收盘分析深入探讨了 Salesforce、Snowflake 和 UiPath 的最新财报。Salesforce 凭借其 AI 产品 Agent Force 实现强劲盈利增长，UiPath 更是历史性地首次实现盈利，股价大涨。然而，同样超出预期的 Snowflake 股价却意外下跌。此外，节目还覆盖了英伟达 CEO 黄仁勋在华盛顿的游说活动、做客 Joe Rogan 播客，以及 Robinhood 业务的强劲增长等多项市场动态。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Jensen Huang
-  - Joe Rogan
-  - Elon Musk
-  - Mike Johnson
-  - Donald Trump
-  - Kevin Hassett
-  - Christopher Waller
-  - Rick Rieder
-  - Vlad Tenev
-  - Mark Benioff
-  - Alex Karp
-  - Larry Fink
-  - Tom Lee
-companies_orgs:
-  - Salesforce
-  - Snowflake
-  - UiPath
-  - Microsoft
-  - Tesla
-  - Nvidia
-  - Amkor
-  - Google
-  - UnitedHealth Group
-  - Oscar Health
-  - Robinhood
-  - Palantir
-  - AMD
-  - Bloomberg
-  - OpenAI
-  - The New York Times
-  - CrowdStrike
-  - Broadcom
-  - Five Below
-  - C3.ai
-  - Apple
-  - Meta
-  - Amazon
-  - Intel
-  - MicroStrategy
-  - Verizon
-  - Goldman Sachs
-  - Anthropic
-  - CNN
-  - Kalshi
-  - Polymarket
-  - Fanatics
-  - BlackRock
-  - Costco
-  - YouTube
-  - CNBC
-  - ESPN
-  - The Compound
-  - SpaceX
-  - Center for Strategic and International Studies
-products_models:
-  - Co-pilot
-  - S&P 500
-  - Gain AI Act
-  - Agent Force
-  - Data 360
-  - Google TPU
-  - Bitcoin
-  - Ethereum
-  - Fusaka upgrade
-  - CUDA
-  - ChatGPT
-  - Claude
-  - Gemini
-  - Grok
-  - Blackwell
-  - H200
-media_books:
-  - Joe Rogan Experience
-  - Dealbook Summit
 status: evergreen
+summary: 本期市场收盘分析深入探讨了 Salesforce、Snowflake 和 UiPath 的最新财报。Salesforce 凭借其 AI 产品 Agent
+  Force 实现强劲盈利增长，UiPath 更是历史性地首次实现盈利，股价大涨。然而，同样超出预期的 Snowflake 股价却意外下跌。此外，节目还覆盖了英伟达
+  CEO 黄仁勋在华盛顿的游说活动、做客 Joe Rogan 播客，以及 Robinhood 业务的强劲增长等多项市场动态。
+tags:
+- earnings-report
+- enterprise-software
+- impact
+- market-reaction
+- tech
+title: 财报解读：Salesforce AI 业务强劲，UiPath 首次盈利，Snowflake 为何意外下跌？
 ---
+
 ### 开盘回顾与盘后财报预告
 
 好的，大家好，欢迎回到新一期的《市场收盘》。很抱歉我迟到了，今天真是疯狂的一天。但我们现在直播了，有很多内容要谈。盘后会有一些财报公布，其中一些非常重要。我们有 Salesforce (CRM)、Snowflake 和 UiPath。所以在接下来的 15 分钟里，我会在聊天区发起一个“哪家公司表现会更好”的投票。

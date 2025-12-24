@@ -1,63 +1,63 @@
 ---
-author: 硅谷101
+area: society-systems
+category: business
+companies_orgs:
+- Tesla
+- Openmind
+- Apple
+- Walmart
+- Amazon
+- Nvidia
+- Meta
+- Hilton
+- Marriott
+- MGM
+- OpenAI
+- Foxconn
+- BMW
+- Silicon Valley Bank
+- Munich Re
+- SpaceX
+- Unitary
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Asimov's Law
+people:
+- Jing Wu
+- Anand
+- Evan
+- Yan
+- Elon Musk
+- Henry Ford
+- Ronnie Brooks
+- Jamie Diamond
+products_models:
+- Optimus
+- Android
+- Dyson
+- iPhone
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=FueX88st2OQ
 speaker: 硅谷101
-tags:
-  - humanoid-robots
-  - robot-adoption
-  - business-models
-  - robot-reliability
-  - open-source-robotics
-title: 硅谷视角：人形机器人普及的挑战与机遇
-summary: 本文深入探讨了硅谷对人形机器人发展的看法，涵盖了任务专用机器人与通用人形机器人的商业模式之争、大型语言模型对机器人软件开发的赋能、以及大规模普及面临的可靠性、融资、法律责任和数据安全等关键挑战。专家们就机器人手的硬件设计、开源软件的重要性以及如何构建可持续的商业生态系统展开了讨论，揭示了机器人从实验室走向现实世界的复杂路径。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Jing Wu
-  - Anand
-  - Evan
-  - Yan
-  - Elon Musk
-  - Henry Ford
-  - Ronnie Brooks
-  - Jamie Diamond
-companies_orgs:
-  - Tesla
-  - Openmind
-  - Apple
-  - Walmart
-  - Amazon
-  - Nvidia
-  - Meta
-  - Hilton
-  - Marriott
-  - MGM
-  - OpenAI
-  - Foxconn
-  - BMW
-  - Silicon Valley Bank
-  - Munich Re
-  - SpaceX
-  - Unitary
-products_models:
-  - Optimus
-  - Android
-  - Dyson
-  - iPhone
-media_books:
-  - Asimov's Law
 status: evergreen
+summary: 本文深入探讨了硅谷对人形机器人发展的看法，涵盖了任务专用机器人与通用人形机器人的商业模式之争、大型语言模型对机器人软件开发的赋能、以及大规模普及面临的可靠性、融资、法律责任和数据安全等关键挑战。专家们就机器人手的硬件设计、开源软件的重要性以及如何构建可持续的商业生态系统展开了讨论，揭示了机器人从实验室走向现实世界的复杂路径。
+tags:
+- business-model
+- humanoid-robot
+- investment
+- open-source-robotic
+- technology
+title: 硅谷视角：人形机器人普及的挑战与机遇
 ---
+
 ### 欢迎与人形机器人展望
 
 主持人景吴: 好的，欢迎来到 Alignment 2025 的下午场。

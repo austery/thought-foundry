@@ -1,55 +1,55 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- FBI
+- NBA
+- Portland Trailblazers
+- Miami Heat
+- Charlotte Hornets
+- Los Angeles Lakers
+- House Committee on Energy and Commerce
+- Supreme Court
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Natalie Kitroof
+- Jonah Bramitch
+- Jenny Brentice
+- Cash Patel
+- Chanty Bilips
+- Terry Rosier
+- Damon Jones
+- LeBron James
+- Donald Trump
+- Xi Jinping
+- Scott Bessant
+products_models:
+- Bed MGM Sports Book
+- FanDuel Sports Network
+project:
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=9_6vFlkeQws
 speaker: New York Times Podcasts
-tags:
-  - nba-gambling-scandal
-  - sports-betting-integrity
-  - mafia-involvement
-  - insider-betting
-  - prop-bets
-title: NBA赌博丑闻：黑手党、内幕交易与体育诚信危机
-summary: 近期，美国联邦调查局揭露了一起涉及NBA球员、教练和黑手党的千万美元赌博骗局，引发了对体育诚信的广泛担忧。该丑闻包含两部分：一是高科技操纵的非法扑克牌局，利用NBA名人吸引受害者；二是球员利用内部信息进行附加赌注的内幕交易。随着体育博彩的普及，联盟的经济利益与比赛的公正性之间产生了冲突，对球员、球迷和整个体育文化都带来了深远影响，促使人们反思在线博彩的监管问题。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-people:
-  - Natalie Kitroof
-  - Jonah Bramitch
-  - Jenny Brentice
-  - Cash Patel
-  - Chanty Bilips
-  - Terry Rosier
-  - Damon Jones
-  - LeBron James
-  - Donald Trump
-  - 习近平
-  - Scott Bessant
-companies_orgs:
-  - New York Times
-  - FBI
-  - NBA
-  - Portland Trailblazers
-  - Miami Heat
-  - Charlotte Hornets
-  - Los Angeles Lakers
-  - House Committee on Energy and Commerce
-  - Supreme Court
-products_models:
-  - Bed MGM Sports Book
-  - FanDuel Sports Network
-media_books:
-  - The Daily
 status: evergreen
+summary: 近期，美国联邦调查局揭露了一起涉及NBA球员、教练和黑手党的千万美元赌博骗局，引发了对体育诚信的广泛担忧。该丑闻包含两部分：一是高科技操纵的非法扑克牌局，利用NBA名人吸引受害者；二是球员利用内部信息进行附加赌注的内幕交易。随着体育博彩的普及，联盟的经济利益与比赛的公正性之间产生了冲突，对球员、球迷和整个体育文化都带来了深远影响，促使人们反思在线博彩的监管问题。
+tags:
+- canada
+- insider-betting
+- life
+- nba-gambling-scandal
+- society
+title: NBA赌博丑闻：黑手党、内幕交易与体育诚信危机
 ---
+
 ### NBA赌博丑闻震惊体育界
 
 我是《纽约时报》的娜塔莉·基特鲁夫，这里是《每日》节目。

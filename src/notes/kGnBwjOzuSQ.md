@@ -1,33 +1,32 @@
 ---
-title: 与巴菲特共事十年：Tracy Britt Cool 的投资与管理哲学
-summary: Tracy Britt Cool 分享与巴菲特共事、担任CEO及创立Camber的经验，探讨长期投资、人才管理与企业转型。
-area: market-analysis
-category: business
-project:
-- entrepreneurship
-- investment-strategy
-tags:
-- business-turnaround
-- corporate-leadership
-- investment-strategy
-people:
-- warren-buffett
+area: finance-wealth
+category: stock-investment
 companies_orgs:
 - berkshire-hathaway
-products_models: []
-media_books:
-- the-knowledge-project-podcast
 date: '2025-10-14'
-author: The Knowledge Project Podcast
-speaker: The Knowledge Project Podcast
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- the-knowledge-project-podcast
+people:
+- warren-buffett
+products_models: []
+project:
+- entrepreneurship
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=kGnBwjOzuSQ
+speaker: The Knowledge Project Podcast
 status: evergreen
+summary: Tracy Britt Cool 分享与巴菲特共事、担任CEO及创立Camber的经验，探讨长期投资、人才管理与企业转型。
+tags:
+- business
+- corporate-leadership
+title: 与巴菲特共事十年：Tracy Britt Cool 的投资与管理哲学
 ---
+
 ### 嘉宾介绍与早期职业生涯
 
 Tracy Britt Cool is the co-founder of **Cambrich** (long-term investment partnership: an investment firm focused on building enduring businesses). She is best known for working directly with Warren Buffett at Berkshire Hathaway, where she served as his financial assistant before becoming CEO of Pampered Chef and serving on the board of several Berkshire companies, including Benjamin Moore and Kraft Heinz. She combines investor discipline with hands-on operating experience, bringing a rare perspective on what it takes to grow and sustain great companies.

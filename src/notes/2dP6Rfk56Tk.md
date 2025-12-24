@@ -1,52 +1,52 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times
+- Interpol
+- Tiffany's
+- White House
+- Hamas
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Lup
+people:
+- Natalie Kitroof
+- Catherine Porter
+- Tel Ralph
+- Lega Michon
+- Louis XIV
+- Louis XV
+- Louis XVI
+- Napoleon III
+- Empress Eugenie
+- Duke of Orlon
+- Donald Trump
+- JD Vance
+- Vladimir Putin
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=2dP6Rfk56Tk
 speaker: New York Times Podcasts
-tags:
-  - louvre-heist
-  - royal-jewels
-  - museum-security
-  - french-history
-  - cultural-heritage
-title: 卢浮宫惊天盗窃案：法国皇室珠宝失窃之谜
-summary: 本文深入探讨了发生在巴黎卢浮宫的一起大胆珠宝盗窃案。窃贼在光天化日之下，使用升降车和切割工具闯入阿波罗画廊，盗走了价值8800万欧元的法国皇室珠宝。文章详细描述了盗窃过程、被盗物品，以及法国民众对此事件的震惊、悲痛和对国家安全的反思。同时，也回顾了法国皇室珠宝的历史及其与大革命的联系，揭示了这些珍宝对法国而言超越金钱的巨大情感和文化价值。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - Natalie Kitroof
-  - Catherine Porter
-  - Tel Ralph
-  - Lega Michon
-  - Louis XIV
-  - Louis XV
-  - Louis XVI
-  - Napoleon III
-  - Empress Eugenie
-  - Duke of Orlon
-  - Donald Trump
-  - JD Vance
-  - Vladimir Putin
-companies_orgs:
-  - New York Times
-  - Interpol
-  - Tiffany's
-  - White House
-  - Hamas
-products_models: []
-media_books:
-  - The Daily
-  - Lup
 status: evergreen
+summary: 本文深入探讨了发生在巴黎卢浮宫的一起大胆珠宝盗窃案。窃贼在光天化日之下，使用升降车和切割工具闯入阿波罗画廊，盗走了价值8800万欧元的法国皇室珠宝。文章详细描述了盗窃过程、被盗物品，以及法国民众对此事件的震惊、悲痛和对国家安全的反思。同时，也回顾了法国皇室珠宝的历史及其与大革命的联系，揭示了这些珍宝对法国而言超越金钱的巨大情感和文化价值。
+tags:
+- cultural-heritage
+- history
+- royal-jewel
+- security
+- technology
+title: 卢浮宫惊天盗窃案：法国皇室珠宝失窃之谜
 ---
+
 ### 卢浮宫：从法国象征到犯罪现场
 
 我是《纽约时报》的娜塔莉·基特鲁夫，这里是《The Daily》。世界上最大的博物馆，法国的象征，如今却成为了犯罪现场。

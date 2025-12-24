@@ -1,36 +1,35 @@
 ---
-title: News Analysis on Poland's NATO First, Xi Jinping's Power Play, and US Economic
-  Signals
-summary: A daily news analysis covering Poland's unprecedented downing of a Russian
-  drone, a "Red Second Generation" gathering as a show of Xi Jinping's power, persistent
-  deflation in China, and key US economic reports on inflation and household income.
-area: market-analysis
-category: geopolitics
-project:
-- china-analysis
-- geopolitics-watch
-- us-analysis
-tags:
-- chinese-politics
-- geopolitics
-- news-commentary
-- us-china-relations
-people:
-- xi-jinping
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-09-10
+area: society-thinking
 author: Lei
-speaker: LT視界
+category: politics-society
+companies_orgs: []
+date: 2025-09-10
 draft: true
 guest: null
 insight: null
 layout: post.njk
+people:
+- xi-jinping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
 series: null
 source: https://www.youtube.com/watch?v=vcpwqqOH1qc
+speaker: LT視界
 status: evergreen
+summary: A daily news analysis covering Poland's unprecedented downing of a Russian
+  drone, a "Red Second Generation" gathering as a show of Xi Jinping's power, persistent
+  deflation in China, and key US economic reports on inflation and household income.
+tags:
+- chinese-politics
+- society
+- us-china-relations
+title: News Analysis on Poland's NATO First, Xi Jinping's Power Play, and US Economic
+  Signals
 ---
+
 ## 财经头条
 
 ### 美国生产者物价指数意外下跌

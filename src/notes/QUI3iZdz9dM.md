@@ -1,55 +1,54 @@
 ---
-author: 视野环球财经
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Oracle
+- Broadcom
+- Nvidia
+- Huawei
+- SMIC
+- Cambricon
+- Moore Threads
+- Bank of America
+- Barclays
+- JPMorgan Chase
+- HSBC
+- Goldman Sachs
+- UBS
+- RBC
+- Morgan Stanley
+- Deutsche Bank
+- Federal Reserve
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 视野环球财经
+- 华尔街日报
+people:
+- Donald Trump
+- Worsh
+- Hassett
+products_models:
+- H200 AI chip
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=QUI3iZdz9dM
 speaker: 视野环球财经
-tags:
-  - ai-investment
-  - market-volatility
-  - investment-strategy
-  - semiconductor-outlook
-  - fed-policy-speculation
-title: 美股震荡无需恐慌：AI投资前景与机构乐观展望
-summary: 本文基于逐字稿，分析近期美股跳水为正常回撤，无需恐慌。探讨AI投资不确定性，关注甲骨文（ORCL）财报影响。引用机构对2026年标普500的乐观预测，并梳理美联储主席人选变数。深入解析甲骨文、英伟达、AMD、谷歌、Meta、特斯拉等个股，为投资者提供市场波动应对策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-  - Worsh
-  - Hassett
-companies_orgs:
-  - Oracle
-  - Broadcom
-  - Nvidia
-  - Huawei
-  - SMIC
-  - Cambricon
-  - Moore Threads
-  - Bank of America
-  - Barclays
-  - JPMorgan Chase
-  - HSBC
-  - Goldman Sachs
-  - UBS
-  - RBC
-  - Morgan Stanley
-  - Deutsche Bank
-  - Federal Reserve
-products_models:
-  - H200 AI chip
-media_books:
-  - 视野环球财经
-  - 华尔街日报
 status: evergreen
+summary: 本文基于逐字稿，分析近期美股跳水为正常回撤，无需恐慌。探讨AI投资不确定性，关注甲骨文（ORCL）财报影响。引用机构对2026年标普500的乐观预测，并梳理美联储主席人选变数。深入解析甲骨文、英伟达、AMD、谷歌、Meta、特斯拉等个股，为投资者提供市场波动应对策略。
+tags:
+- ai-investment
+- fed-policy-speculation
+- market-volatility
+- semiconductor-outlook
+title: 美股震荡无需恐慌：AI投资前景与机构乐观展望
 ---
+
 ### 市场跳水无需恐慌，技术性回撤是常态
 
 大家好，欢迎回到视野环球财经，我是reino。现在是美东时间25年12月12号周晚上的7点35分。今天的四大指数开盘即遭遇抛售。代表着通用GPU供应链需求风向标的甲骨文（Oracle）和代表着定制化AI芯片的搏通（Broadcom），都在财报后折戟。这给人工智能（AI）的投资前景增加了许多不确定性。

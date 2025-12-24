@@ -1,38 +1,38 @@
 ---
-author: 安争鸣（Stella An）
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《一个无政府主义者的意外死亡》
+- Accidental Death of an Anarchist
+people:
+- Dario Fo
+- Giuseppe Pinelli
+products_models: []
+project:
+- systems-thinking
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=D1IM4qoID4I
 speaker: 安争鸣（Stella An）
-tags:
-  - police-accountability
-  - state-power
-  - political-satire
-  - authoritarianism
-  - public-trust
-  - tacitus-trap
-title: 警察的职责与国家权力：解读《一个无政府主义者的意外死亡》
-summary: 本期节目深入探讨了警察在民主与专制政权下的不同角色，并以达里奥·福的政治讽刺剧《一个无政府主义者的意外死亡》为例，揭示了国家暴力机关的本质。节目通过分析剧中对意大利“铅之年代”社会现实的讽刺，引申至当下社会中官方叙事与真相的关系，以及公信力丧失的“塔西佗陷阱”现象，引发对权力、真相与社会信任的深刻反思。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - systems-thinking
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Dario Fo
-  - Giuseppe Pinelli
-companies_orgs: []
-products_models: []
-media_books:
-  - 《一个无政府主义者的意外死亡》
-  - Accidental Death of an Anarchist
 status: evergreen
+summary: 本期节目深入探讨了警察在民主与专制政权下的不同角色，并以达里奥·福的政治讽刺剧《一个无政府主义者的意外死亡》为例，揭示了国家暴力机关的本质。节目通过分析剧中对意大利“铅之年代”社会现实的讽刺，引申至当下社会中官方叙事与真相的关系，以及公信力丧失的“塔西佗陷阱”现象，引发对权力、真相与社会信任的深刻反思。
+tags:
+- authoritarianism
+- geopolitical
+- police-accountability
+- political
+- power
+- public-trust
+title: 警察的职责与国家权力：解读《一个无政府主义者的意外死亡》
 ---
+
 ### 警察形象的社会变迁
 
 欢迎回到读书时间。不知道正在看我节目的朋友里有没有从事警察职业的。我猜至少网警应该是有的吧。我认识的朋友里面也有不少干警察的，其中有一个小伙子特别有意思。他老家是山东一个县城的，我感觉他有点厌女，但是他又特别想找女朋友，所以前几年到处发动亲友帮他介绍对象。不料他在相亲这条路上是屡屡受挫，基本上就是他喜欢的女生看不上他，看得上他的女生他又不喜欢。

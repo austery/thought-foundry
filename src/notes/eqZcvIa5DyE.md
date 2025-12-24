@@ -1,60 +1,60 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 百度百科
+- 国民党
+- 民社党
+- 青年党
+- 共产党
 date: '2025-07-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《进击的巨人》
+- 《人间失格》
+- 《中华民国宪法》
+- 《中华人民共和国宪法》
+people:
+- 孙中山
+- 王国维
+- 周恩来
+- 董必武
+- 叶剑英
+- 吴玉章
+- 王若飞
+- 陆定一
+- 邓颖超
+- 蒋介石
+- 卡尔·马克思
+- 牛顿
+- 爱因斯坦
+- 希特勒
+- 太宰治
+- 谏山创
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=eqZcvIa5DyE
 speaker: 張内咸
-tags:
-  - national-dignity
-  - nationalism
-  - constitutional-rights
-  - hegelian-philosophy
-  - state-individual-relationship
-  - online-violence
-  - political-discourse
-title: “国格”理论：一场违宪的荒谬闹剧与其哲学溯源
-summary: 本文深入批判了简中世界中甚嚣尘上的“国格”理论，指出其源于一起女大学生因“不正当性关系”被开除并被指“有损国格”的事件。作者通过剖析百度百科对“国格”的解释，揭示其将个人与国家深度捆绑、要求公民“献出一切”的荒谬逻辑。文章进一步追溯“国格”理论的哲学根源，将其与黑格尔的国家主义思想、法西斯主义乃至《进击的巨人》中的世界观进行对比，强调其对个人自由和宪法精神的严重侵犯，并呼吁停止以“国格”之名进行的网络暴力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 孙中山
-  - 王国维
-  - 周恩来
-  - 董必武
-  - 叶剑英
-  - 吴玉章
-  - 王若飞
-  - 陆定一
-  - 邓颖超
-  - 蒋介石
-  - 卡尔·马克思
-  - 牛顿
-  - 爱因斯坦
-  - 希特勒
-  - 太宰治
-  - 谏山创
-companies_orgs:
-  - 百度百科
-  - 国民党
-  - 民社党
-  - 青年党
-  - 共产党
-products_models: []
-media_books:
-  - 《进击的巨人》
-  - 《人间失格》
-  - 《中华民国宪法》
-  - 《中华人民共和国宪法》
 status: evergreen
+summary: 本文深入批判了简中世界中甚嚣尘上的“国格”理论，指出其源于一起女大学生因“不正当性关系”被开除并被指“有损国格”的事件。作者通过剖析百度百科对“国格”的解释，揭示其将个人与国家深度捆绑、要求公民“献出一切”的荒谬逻辑。文章进一步追溯“国格”理论的哲学根源，将其与黑格尔的国家主义思想、法西斯主义乃至《进击的巨人》中的世界观进行对比，强调其对个人自由和宪法精神的严重侵犯，并呼吁停止以“国格”之名进行的网络暴力。
+tags:
+- national
+- nationalism
+- online
+- philosophy
+- political
+- right
+- state
+title: “国格”理论：一场违宪的荒谬闹剧与其哲学溯源
 ---
+
 ### 引言：简中世界“国格”大讨论的缘起
 
 大家好，我是张内咸，我们又见面了。最近在简中世界里，所有人都在讨论一个新词，叫做**国格**（National Dignity: 指国家在国际社会中的地位、形象和尊严）。大家以前听说过这个词吗？反正我呢，是从小到大都没听说过。什么叫国格？是指国家的性格，还是国家的资格？如果你是在海外长大的华人，就更没办法理解这个词了，因为这个词的英语都没办法翻译。如果说人格翻译成英语是 personality，那么国格翻译成英语是 nationality 吗？但我们都知道 nationality 是国籍的意思啊，难道说中文里的国格就是国籍的意思？当然不是那么回事。

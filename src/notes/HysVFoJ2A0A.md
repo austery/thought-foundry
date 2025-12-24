@@ -1,31 +1,29 @@
 ---
-title: 加拿大郵政危機：罷工、改革與百年國企的未來
-summary: 加拿大郵政因工會罷工陷入危機，揭示了其百年經營模式的困境。面對巨額虧損，政府推動改革，旨在減員增效，卻引發工會強烈反對。本文深度剖析罷工背後的勞資矛盾與社會影響，探討加拿大郵政的未來走向。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- financial-crisis
-- government-reform
-- labor-strike
-- public-service
-people: []
 companies_orgs:
 - canada-post
-products_models: []
-media_books: []
 date: '2025-10-12'
-author: 莊也雜談
-speaker: 莊也雜談
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=HysVFoJ2A0A
+speaker: 莊也雜談
 status: evergreen
+summary: 加拿大郵政因工會罷工陷入危機，揭示了其百年經營模式的困境。面對巨額虧損，政府推動改革，旨在減員增效，卻引發工會強烈反對。本文深度剖析罷工背後的勞資矛盾與社會影響，探討加拿大郵政的未來走向。
+tags:
+- financial-crisis
+- government
+- labor
+- public-service
+title: 加拿大郵政危機：罷工、改革與百年國企的未來
 ---
+
 ### 加拿大郵政罷工的始末與社會衝擊
 
 最近，加拿大郵政的罷工事件引發了廣泛關注。2025年9月25日，**加拿大郵政工人工會**（CUPW: Canadian Union of Postal Workers，加拿大郵政工人的全國性工會）發起全國性罷工。這場罷工由兩個主要原因驅動：一是工會與資方（即加拿大郵政）之間的勞資談判破裂；二是工會希望藉此向聯邦政府提出嚴正抗議，反對政府主導的一系列改革措施，工會認為這些改革損害了郵政工人的切身利益。

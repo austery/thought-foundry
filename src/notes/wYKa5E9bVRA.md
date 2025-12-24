@@ -1,47 +1,48 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- London Stock Exchange Group
+- Norges Bank Investment Management
+- Goldman Sachs
+- Microsoft
+- Refinitiv
+- Thomson Reuters
 date: '2024-02-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Judgment at Tokyo
+people:
+- David Schwimmer
+- Nikola Tangen
+- Jack Ma
+products_models:
+- FTSE Russell
+- TradeWeb
+- Meeting Prep
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=wYKa5E9bVRA
 speaker: Norges Bank Investment Management
-tags:
-  - financial-market-infrastructure
-  - data-analytics
-  - corporate-culture
-  - ceo-compensation
-  - digital-assets
-  - ai-transformation
-title: 伦敦证券交易所集团 (LSEG) CEO 谈金融市场、AI 与企业文化转型
-summary: 本期《与好公司同行》节目邀请到伦敦证券交易所集团 (LSEG) CEO David Schwimmer。他深入探讨了 LSEG 作为全球领先金融市场基础设施和数据提供商的业务范畴，分析了通胀、利率、AI 和地缘政治等宏观趋势对行业的影响。Schwimmer 还就英国公司赴美上市、高管薪酬差异、ESG 理念演进、区块链与数字资产策略以及 LSEG 的企业文化转型分享了独到见解，并阐述了他的领导力哲学和个人成长感悟。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - David Schwimmer
-  - Nikola Tangen
-  - Jack Ma
-companies_orgs:
-  - London Stock Exchange Group
-  - Norges Bank Investment Management
-  - Goldman Sachs
-  - Microsoft
-  - Refinitiv
-  - Thomson Reuters
-products_models:
-  - FTSE Russell
-  - TradeWeb
-  - Meeting Prep
-media_books:
-  - Judgment at Tokyo
 status: evergreen
+summary: 本期《与好公司同行》节目邀请到伦敦证券交易所集团 (LSEG) CEO David Schwimmer。他深入探讨了 LSEG 作为全球领先金融市场基础设施和数据提供商的业务范畴，分析了通胀、利率、AI
+  和地缘政治等宏观趋势对行业的影响。Schwimmer 还就英国公司赴美上市、高管薪酬差异、ESG 理念演进、区块链与数字资产策略以及 LSEG 的企业文化转型分享了独到见解，并阐述了他的领导力哲学和个人成长感悟。
+tags:
+- ai-transformation
+- ceo-compensation
+- corporate-culture
+- data
+- digital
+- financial-market-infrastructure
+title: 伦敦证券交易所集团 (LSEG) CEO 谈金融市场、AI 与企业文化转型
 ---
+
 ### 欢迎来到《与好公司同行》
 
 [音乐]

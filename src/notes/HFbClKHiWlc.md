@@ -1,49 +1,46 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 中心国际
+- 蓝企科技
+- 宁德时代
+- 东方财富
+- 小米集团
+- 爱美克
+- 花西生物
+- 锦波生物
+- 巨子生物
 date: '2025-10-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- 少女针
+- 童颜针
+- 乳白天使
+- 嗨体
+- 微伊美
+- 可富美
+- 可丽金
+project:
+- investment-strategy
+- market-cycles
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=HFbClKHiWlc
 speaker: 海淀拙大叔
-tags:
-  - medical-aesthetics
-  - recombinant-collagen
-  - hyaluronic-acid
-  - investment-strategy
-  - biotechnology
-title: 医美行业投资深度解析：胶原蛋白与玻尿酸的未来增长潜力
-summary: 本文深入探讨了医美行业中玻尿酸和重组胶原蛋白的市场份额、增长趋势、技术壁垒及在医美与严肃医疗领域的应用优势。通过对比分析，文章指出重组胶原蛋白凭借其高增长率、中国技术优势和广阔的非医美应用前景，有望成为未来投资的高潜力赛道。同时，文章也回顾了消费行业的投资逻辑，并展望了未来对具体公司的进一步研究。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - china-analysis
-people: []
-companies_orgs:
-  - 中心国际
-  - 蓝企科技
-  - 宁德时代
-  - 东方财富
-  - 小米集团
-  - 爱美克
-  - 花西生物
-  - 锦波生物
-  - 巨子生物
-products_models:
-  - 少女针
-  - 童颜针
-  - 乳白天使
-  - 嗨体
-  - 微伊美
-  - 可富美
-  - 可丽金
-media_books: []
 status: evergreen
+summary: 本文深入探讨了医美行业中玻尿酸和重组胶原蛋白的市场份额、增长趋势、技术壁垒及在医美与严肃医疗领域的应用优势。通过对比分析，文章指出重组胶原蛋白凭借其高增长率、中国技术优势和广阔的非医美应用前景，有望成为未来投资的高潜力赛道。同时，文章也回顾了消费行业的投资逻辑，并展望了未来对具体公司的进一步研究。
+tags:
+- history
+- hyaluronic-acid
+- medical
+- technology
+title: 医美行业投资深度解析：胶原蛋白与玻尿酸的未来增长潜力
 ---
+
 ### 医美行业投资概览与市场洞察
 
 本期“阿甘财富增长论”将深入探讨**医美**（医疗美容：通过医学手段改善人体外貌和形态的专业服务）行业的**胶原蛋白**（Collagen: 一种在动物体内广泛存在的蛋白质，是结缔组织的主要成分）领域，这是对消费行业预判的第三篇。投资的核心逻辑是“底部买入好公司”。回顾过往，去年11月讨论的中心国际从28港元涨至75港元；蓝企科技从68元涨至150元；两个月前讨论A股与H股差价时提及的宁德时代，从250元人民币涨至400元。这些公司都符合行业底部反转且业绩高增长的投资标准。尽管东方财富和小米集团等公司在讨论后股价波动不大，但只要是业绩能持续高增长的好公司，其价值迟早会体现。

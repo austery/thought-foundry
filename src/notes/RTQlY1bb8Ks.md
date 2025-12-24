@@ -1,31 +1,29 @@
 ---
-title: 揭秘AI的致命缺陷：因果革命与数据思维的转变
-summary: 本文探讨大数据与人工智能的局限性，指出其仅能发现相关性而无法理解因果。通过介绍图灵奖得主朱迪亚·珀尔的因果关系之梯，强调因果推理对驾驭数据、提升AI智能及解决实际问题的关键作用。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- causal-inference
-- data-science
-- statistical-bias
-people:
-- judea-pearl
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-04'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- judea-pearl
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=RTQlY1bb8Ks
+speaker: 北美王路飞
 status: evergreen
+summary: 本文探讨大数据与人工智能的局限性，指出其仅能发现相关性而无法理解因果。通过介绍图灵奖得主朱迪亚·珀尔的因果关系之梯，强调因果推理对驾驭数据、提升AI智能及解决实际问题的关键作用。
+tags:
+- bias
+- data
+- llm
+title: 揭秘AI的致命缺陷：因果革命与数据思维的转变
 ---
+
 ### 大数据与AI的因果盲区
 
 本期节目将探讨一个可能冒犯到许多将**大数据**（Big Data: 指数据量巨大、增长速度快、数据类型多样的数据资产）奉为神明的人的观点：你比你的数据更聪明。尽管日常讨论中数据、算法和人工智能似乎无所不能，但一个残酷的真相是：数据，特别是我们引以为傲的大数据，本质上是极其愚蠢的。它能以惊人的效率揭示事物之间的**相关性**（Correlation: 指两个或多个变量在数值上表现出某种程度的同步变化），例如购买A商品的用户也倾向于购买B商品，但它永远无法解释“为什么”会发生这种关联。

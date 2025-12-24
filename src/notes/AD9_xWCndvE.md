@@ -1,39 +1,38 @@
 ---
-author: 徒步的騎手
-date: 2025-07-24
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=AD9_xWCndvE'
-speaker: 徒步的騎手
-tags:
-  - spotlight-effect
-  - self-perception
-  - authenticity
-  - personal-liberation
-  - social-anxiety
-title: 没人真正在乎你：华裔脱口秀女星的顿悟与聚光灯效应的解放
-summary: 本文探讨了华裔脱口秀女星Leslie Liao的幽默段子“没人在乎你”所蕴含的深刻智慧。通过引用心理学中的“聚光灯效应”实验，文章揭示了人们普遍高估他人对自己关注度的现象。这种顿悟能帮助我们摆脱自我设限的焦虑和表演型人格，鼓励人们关掉头脑中的心理聚光灯，活出真实自我，勇敢尝试和表达，从而建立更真诚的人际连接，并发现内在的自我价值。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: personal-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Leslie Liao
-  - 基洛维奇
-  - Ali Abdaal
+category: psychology
 companies_orgs:
-  - NBC
-  - Netflix
-  - 康奈尔大学
-  - YouTube
-products_models: '[]'
+- NBC
+- Netflix
+- 康奈尔大学
+- YouTube
+date: 2025-07-24
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Tonight Show
+- The Tonight Show
+people:
+- Leslie Liao
+- 基洛维奇
+- Ali Abdaal
+products_models: '[]'
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=AD9_xWCndvE
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了华裔脱口秀女星Leslie Liao的幽默段子“没人在乎你”所蕴含的深刻智慧。通过引用心理学中的“聚光灯效应”实验，文章揭示了人们普遍高估他人对自己关注度的现象。这种顿悟能帮助我们摆脱自我设限的焦虑和表演型人格，鼓励人们关掉头脑中的心理聚光灯，活出真实自我，勇敢尝试和表达，从而建立更真诚的人际连接，并发现内在的自我价值。
+tags:
+- effect
+- personal
+- self
+- social
+- society
+title: 没人真正在乎你：华裔脱口秀女星的顿悟与聚光灯效应的解放
 ---
 
 ### 华裔脱口秀女星的顿悟：没人真正在乎你

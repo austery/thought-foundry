@@ -1,51 +1,50 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: finance
+companies_orgs:
+- Meta
+- General Motors
+- Cruise
+- Waymo
+- Tesla
+- OpenAI
+- Nvidia
+- Goldman Sachs
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Zuckerberg
+- Andre Shleifer
+- Elon Musk
+- Cassie Kozyrkov
+products_models:
+- Full Self-Driving
+- Autopilot
+- ChatGPT
+- GPT-3
+- GPT-4
+- Gamma AI
+project:
+- ai-impact-analysis
+- market-cycles
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=mL24RKiBeU0
 speaker: TechButMakeItReal
-tags:
-  - tech-bubbles
-  - market-psychology
-  - scaling-laws
-  - autonomous-vehicles
-  - deceptive-marketing
-title: 科技泡沫是如何诞生的：从互联网到人工智能的周期性幻象
-summary: 本文深入探讨了科技泡沫的形成机制，从早期的互联网泡沫到当前的AI热潮。文章分析了技术泡沫背后的三大核心驱动因素：语言和营销的夸大、技术假设的局限性（如缩放定律的失效、数据稀缺和硬件瓶颈），以及人类固有的心理偏差（如线性外推、羊群效应和过度自信）。通过Meta的元宇宙、自动驾驶公司Cruise和Waymo，以及特斯拉FSD等案例，揭示了这些泡沫如何通过模糊的承诺和营销话术被放大，最终导致市场修正。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - market-cycles
-  - historical-insights
-people:
-  - Mark Zuckerberg
-  - Andre Shleifer
-  - Elon Musk
-  - Cassie Kozyrkov
-companies_orgs:
-  - Meta
-  - General Motors
-  - Cruise
-  - Waymo
-  - Tesla
-  - OpenAI
-  - Nvidia
-  - Goldman Sachs
-products_models:
-  - Full Self-Driving
-  - Autopilot
-  - ChatGPT
-  - GPT-3
-  - GPT-4
-  - Gamma AI
-media_books: []
 status: evergreen
+summary: 本文深入探讨了科技泡沫的形成机制，从早期的互联网泡沫到当前的AI热潮。文章分析了技术泡沫背后的三大核心驱动因素：语言和营销的夸大、技术假设的局限性（如缩放定律的失效、数据稀缺和硬件瓶颈），以及人类固有的心理偏差（如线性外推、羊群效应和过度自信）。通过Meta的元宇宙、自动驾驶公司Cruise和Waymo，以及特斯拉FSD等案例，揭示了这些泡沫如何通过模糊的承诺和营销话术被放大，最终导致市场修正。
+tags:
+- autonomous-vehicle
+- business
+- market-psychology
+- scaling-law
+- tech
+title: 科技泡沫是如何诞生的：从互联网到人工智能的周期性幻象
 ---
+
 ### 科技泡沫的语言陷阱
 
 人工智能（AI）泡沫已经开始泄气，并且有一些迹象表明，其中最强大的迹象有时并非来自股市。

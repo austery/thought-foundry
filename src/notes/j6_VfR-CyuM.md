@@ -1,81 +1,81 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: general
+companies_orgs:
+- X
+- Twitter
+- Amnesty International
+- Google
+- AWS
+- Wikipedia
+- Tesla
+- ISS
+- Glass Lewis
+- OpenAI
+- DeepMind
+- Amazon
+- Uber
+- Lyft
+- Cruise
+- Waymo
+- Pepsi
+- Microsoft
+- xAI
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- All-In Podcast
+people:
+- Elon Musk
+- Jason Calacanis
+- David Sacks
+- Chamath Palihapitiya
+- Pete Buttigieg
+- Sydney Sweeney
+- Sundar Pichai
+- Donald Trump
+- Jordan Peterson
+- Andrew Tate
+- Jay Bhattacharya
+- Scott Adams
+- Bill Gates
+- Larry Page
+- Sam Altman
+- Ira Ehrenpreis
+- Kathleen Wilson-Thompson
+products_models:
+- Grok
+- Grokipedia
+- Community Notes
+- H100
+- Colossus
+- Optimus
+- Cyber Cab
+- Model 3
+- Model Y
+- FSD
+- Azure
+project:
+- ai-impact-analysis
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=j6_VfR-CyuM
 speaker: All-In Podcast
-tags:
-  - free-speech
-  - corporate-governance
-  - ai-truth-seeking
-  - sustainable-energy
-  - societal-transformation
-title: 埃隆·马斯克回顾X的三年：从拯救言论自由到Grokipedia与万物的未来
-summary: 在这场深度对话中，埃隆·马斯克回顾了收购推特（现为X）三周年的历程。他详细阐述了恢复言论自由的使命、通过社区笔记和Grok等工具对抗宣传的进展，并隆重介绍了旨在取代维基百科的Grokipedia。马斯克还深入探讨了企业治理的挑战，包括特斯拉的代理投票权争议和对OpenAI的诉讼。最后，他分享了对AI、机器人、未来就业以及太阳能作为最终能源解决方案的宏大愿景。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - Elon Musk
-  - Jason Calacanis
-  - David Sacks
-  - Chamath Palihapitiya
-  - Pete Buttigieg
-  - Sydney Sweeney
-  - Sundar Pichai
-  - Donald Trump
-  - Jordan Peterson
-  - Andrew Tate
-  - Jay Bhattacharya
-  - Scott Adams
-  - Bill Gates
-  - Larry Page
-  - Sam Altman
-  - Ira Ehrenpreis
-  - Kathleen Wilson-Thompson
-companies_orgs:
-  - X
-  - Twitter
-  - Amnesty International
-  - Google
-  - AWS
-  - Wikipedia
-  - Tesla
-  - ISS
-  - Glass Lewis
-  - OpenAI
-  - DeepMind
-  - Amazon
-  - Uber
-  - Lyft
-  - Cruise
-  - Waymo
-  - Pepsi
-  - Microsoft
-  - xAI
-products_models:
-  - Grok
-  - Grokipedia
-  - Community Notes
-  - H100
-  - Colossus
-  - Optimus
-  - Cyber Cab
-  - Model 3
-  - Model Y
-  - FSD
-  - Azure
-media_books:
-  - All-In Podcast
 status: evergreen
+summary: 在这场深度对话中，埃隆·马斯克回顾了收购推特（现为X）三周年的历程。他详细阐述了恢复言论自由的使命、通过社区笔记和Grok等工具对抗宣传的进展，并隆重介绍了旨在取代维基百科的Grokipedia。马斯克还深入探讨了企业治理的挑战，包括特斯拉的代理投票权争议和对OpenAI的诉讼。最后，他分享了对AI、机器人、未来就业以及太阳能作为最终能源解决方案的宏大愿景。
+tags:
+- corporate-governance
+- energy
+- free
+- llm
+- societal
+title: 埃隆·马斯克回顾X的三年：从拯救言论自由到Grokipedia与万物的未来
 ---
+
 ### X 算法的迭代与 Grok 的整合
 Jason：我们开始吧。这周我们想尝试一些新东西。每周我都会有点不高兴，有些事会让我心烦，Sacks。当这种情况发生时，我就会大喊“Disgraziato”（意大利语，意为“可耻的”）。于是，我买了这个域名，纯粹是为了自娱自乐。但我并非唯一一个对世界上发生的事情感到极度厌恶的人。所以这周，我们将在 All-In 播客上推出一个新栏目：“可耻之角”（Disgraciato Corner）。
 

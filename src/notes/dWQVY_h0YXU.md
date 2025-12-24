@@ -1,69 +1,68 @@
 ---
-author: Hung-yi Lee
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Google
+- Anthropic
+- Microsoft
+- Appier
+- Kaggle
+- Chatbot Arena
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 毛弘仁
+- 姜成翰
+- Sam Altman
+products_models:
+- GPT-3
+- GPT-3.5
+- GPT-4
+- GPT-4o
+- GPT-5
+- Claude
+- Claude 2.1
+- Claude 3.5
+- Sonnet 3.5
+- Gemini
+- Gemini 1.5 Pro
+- Gemini 2.5 Pro
+- PALM 2
+- BERT
+- FastSpeech 2
+- Tacotron 2
+- VITS
+- Prometheus
+- Qwen 1.8B
+- Mistral
+- Gemma
+- Opus
+- Grok 4
+- O3
+- O4 mini
+- Sora
+- AlphaGo
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=dWQVY_h0YXU
 speaker: Hung-yi Lee
-tags:
-  - evaluation-metrics
-  - llm-as-a-judge
-  - prompt-injection
-  - data-contamination
-  - model-bias
-title: 评测生成式AI的陷阱：从基准测试到恶意攻击的全面指南
-summary: 本文深入探讨了评测生成式人工智能（GenAI）能力时可能遇到的各种挑战。内容涵盖从传统的基准测试（Benchmark）与评估指标（Evaluation Metric）的局限性，如“精确匹配”和“古德哈特定律”，到人类评估与“LLM作为评判者”的偏见问题。文章还分析了提示词工程、数据污染、恶意攻击（越狱与提示词注入）等关键因素对评估结果的影响，为如何更准确地衡量AI能力提供了全面的视角。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 毛弘仁
-  - 姜成翰
-  - Sam Altman
-companies_orgs:
-  - OpenAI
-  - Google
-  - Anthropic
-  - Microsoft
-  - Appier
-  - Kaggle
-  - Chatbot Arena
-products_models:
-  - GPT-3
-  - GPT-3.5
-  - GPT-4
-  - GPT-4o
-  - GPT-5
-  - Claude
-  - Claude 2.1
-  - Claude 3.5
-  - Sonnet 3.5
-  - Gemini
-  - Gemini 1.5 Pro
-  - Gemini 2.5 Pro
-  - PALM 2
-  - BERT
-  - FastSpeech 2
-  - Tacotron 2
-  - VITS
-  - Prometheus
-  - Qwen 1.8B
-  - Mistral
-  - Gemma
-  - Opus
-  - Grok 4
-  - O3
-  - O4 mini
-  - Sora
-  - AlphaGo
-media_books: []
 status: evergreen
+summary: 本文深入探讨了评测生成式人工智能（GenAI）能力时可能遇到的各种挑战。内容涵盖从传统的基准测试（Benchmark）与评估指标（Evaluation
+  Metric）的局限性，如“精确匹配”和“古德哈特定律”，到人类评估与“LLM作为评判者”的偏见问题。文章还分析了提示词工程、数据污染、恶意攻击（越狱与提示词注入）等关键因素对评估结果的影响，为如何更准确地衡量AI能力提供了全面的视角。
+tags:
+- data
+- investment
+- llm
+- model
+title: 评测生成式AI的陷阱：从基准测试到恶意攻击的全面指南
 ---
+
 ### 为什么要评估生成式AI？
 
 今天这堂课要讲的是生成式人工智能的能力检定，这是一堂很轻松的课程。我想和大家分享，在评估一个生成式人工智能的能力时，有什么需要注意的事情，以及前人踩过哪些坑。

@@ -1,32 +1,29 @@
 ---
-title: AI产品质量提升：评估、错误分析与优化提示的系统性方法
-summary: 本文深入探讨了提升AI产品质量的系统性方法，包括通过数据分析识别用户输入中的模糊性、实施错误分析以发现上游问题、利用二元输出的LLM判官进行评估，以及通过提示工程和微调来改进AI系统。文章强调了人工洞察和结构化流程在AI产品开发中的核心作用。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-product-quality
-- data-driven-improvement
-- error-analysis
-- llm
-- prompt-engineering
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books:
-- how-i-ai
 date: '2025-10-13'
-author: How I AI
-speaker: How I AI
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- how-i-ai
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=PgzOBNse2EA
+speaker: How I AI
 status: evergreen
+summary: 本文深入探讨了提升AI产品质量的系统性方法，包括通过数据分析识别用户输入中的模糊性、实施错误分析以发现上游问题、利用二元输出的LLM判官进行评估，以及通过提示工程和微调来改进AI系统。文章强调了人工洞察和结构化流程在AI产品开发中的核心作用。
+tags:
+- analysis
+- data
+- product
+title: AI产品质量提升：评估、错误分析与优化提示的系统性方法
 ---
+
 ### 提升AI产品质量的核心概念
 
 Claire Vo: 要想打造更高质量的AI产品，人们需要了解哪些基本概念？

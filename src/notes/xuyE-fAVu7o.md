@@ -1,79 +1,78 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- AMD
+- Nvidia
+- Oklo
+- CoreWeave
+- Nebius
+- Cipher
+- IREN
+- Oracle
+- Meta
+- Google
+- Amazon
+- Palantir
+- Tesla
+- Robinhood
+- SoftBank
+- OpenAI
+- Fannie Mae
+- Supreme Court
+- Rocket Lab
+- SoFi
+- Coinbase
+- MicroStrategy
+- Eli Lilly
+- J&J
+- Pfizer
+- Walmart
+- Grab
+- SMCI
+- Micron
+- DraftKings
+- Celsius
+- Apple
+- Microsoft
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+- CNBC
+people:
+- Jason
+- Lisa Su
+- Donald Trump
+- Michael Burry
+- Vlad Tenev
+- R.J. Scaringe
+- Anthony Noto
+- Leticia James
+products_models:
+- Affordable Care Act
+- Neutron
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=xuyE-fAVu7o
 speaker: Amit Kukreja
-tags:
-  - market-rotation
-  - data-center-stocks
-  - ai-debt-concerns
-  - technical-analysis
-  - corporate-earnings
-title: 市场解读：AMD的AI雄心与数据中心板块回调的博弈
-summary: 本日市场呈现出有趣的“冰火两重天”景象：标普500指数收绿，而以数据中心为代表的科技股却普遍遭遇重挫。本文深入探讨了数据中心板块回调背后的多重因素，包括对债务负担的担忧和交易拥挤。与此同时，AMD在投资者日上描绘了AI计算需求的宏伟蓝图，其乐观预期与市场的短期悲观情绪形成鲜明对比。此外，文章还涵盖了特朗普关税、政府重启前景、住房政策等宏观动态，并通过“技术星期二”环节，对大盘及数十只热门股票进行了详尽的技术分析。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Jason
-  - Lisa Su
-  - Donald Trump
-  - Michael Burry
-  - Vlad Tenev
-  - R.J. Scaringe
-  - Anthony Noto
-  - Leticia James
-companies_orgs:
-  - AMD
-  - Nvidia
-  - Oklo
-  - CoreWeave
-  - Nebius
-  - Cipher
-  - IREN
-  - Oracle
-  - Meta
-  - Google
-  - Amazon
-  - Palantir
-  - Tesla
-  - Robinhood
-  - SoftBank
-  - OpenAI
-  - Fannie Mae
-  - Supreme Court
-  - Rocket Lab
-  - SoFi
-  - Coinbase
-  - MicroStrategy
-  - Eli Lilly
-  - J&J
-  - Pfizer
-  - Walmart
-  - Grab
-  - SMCI
-  - Micron
-  - DraftKings
-  - Celsius
-  - Apple
-  - Microsoft
-products_models:
-  - Affordable Care Act
-  - Neutron
-media_books:
-  - The Wall Street Journal
-  - CNBC
 status: evergreen
+summary: 本日市场呈现出有趣的“冰火两重天”景象：标普500指数收绿，而以数据中心为代表的科技股却普遍遭遇重挫。本文深入探讨了数据中心板块回调背后的多重因素，包括对债务负担的担忧和交易拥挤。与此同时，AMD在投资者日上描绘了AI计算需求的宏伟蓝图，其乐观预期与市场的短期悲观情绪形成鲜明对比。此外，文章还涵盖了特朗普关税、政府重启前景、住房政策等宏观动态，并通过“技术星期二”环节，对大盘及数十只热门股票进行了详尽的技术分析。
+tags:
+- corporate-earning
+- data-center-stock
+- debt
+- market-rotation
+- technical-analysis
+title: 市场解读：AMD的AI雄心与数据中心板块回调的博弈
 ---
+
 ### 市场概览：冰火两重天
 
 欢迎回来。今天市场发生了很多事值得我们讨论。我们将在大约30分钟后，也就是4:15到4:20左右，迎来“技术星期二”环节，Jason将会加入我们。由于前几周被大型科技公司的财报占据，我们已经有几周没有这个环节了，现在所有财报都已公布，我很期待深入探讨这些数据。

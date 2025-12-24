@@ -1,50 +1,50 @@
 ---
-author: Hung-yi Lee
+area: tech-insights
+category: technology
+companies_orgs:
+- Hugging Face
+- Anthropic
+- Apple
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Attention is all you need
+products_models:
+- Llama
+- Gemma
+- GPT-3.5
+- BERT
+- Elmo
+- Claude
+- iPad
+- AirPod
+- RNN
+- LSTM
+- GRU
+- Mamba
+project:
+- ai-impact-analysis
+- systems-thinking
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=8iFvM7WUUs8
 speaker: Hung-yi Lee
-tags:
-  - large-language-models
-  - transformer-architecture
-  - attention-mechanism
-  - model-interpretation
-  - representation-engineering
-title: 解剖大型语言模型：深入理解其内部运作机制
-summary: 本课程深入探讨大型语言模型（LLM）的内部运作原理，从Tokenization、Embedding到多层Transformer架构，详细解析Self-Attention、Feed-Forward Layer等核心组件。通过Logit Lens和Patch Scope等分析方法，揭示模型各层Representation的语义变化。实作部分将解剖Llama 3B和Gemma 4B模型，展示参数结构、Token Embedding相似度、Contextualized Embedding变化及Attention Weight的可视化分析，帮助学习者直观理解LLM的复杂思考过程。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - knowledge-pipeline
-people:
-  - Hung-yi Lee
-companies_orgs:
-  - Hugging Face
-  - Anthropic
-  - Apple
-products_models:
-  - Llama
-  - Gemma
-  - GPT-3.5
-  - BERT
-  - Elmo
-  - Claude
-  - iPad
-  - AirPod
-  - RNN
-  - LSTM
-  - GRU
-  - Mamba
-media_books:
-  - Attention is all you need
 status: evergreen
+summary: 本课程深入探讨大型语言模型（LLM）的内部运作原理，从Tokenization、Embedding到多层Transformer架构，详细解析Self-Attention、Feed-Forward
+  Layer等核心组件。通过Logit Lens和Patch Scope等分析方法，揭示模型各层Representation的语义变化。实作部分将解剖Llama
+  3B和Gemma 4B模型，展示参数结构、Token Embedding相似度、Contextualized Embedding变化及Attention Weight的可视化分析，帮助学习者直观理解LLM的复杂思考过程。
+tags:
+- architecture
+- engineering
+- large-language-model
+- llm
+- model
+title: 解剖大型语言模型：深入理解其内部运作机制
 ---
+
 ### 引言：课程目标与核心概念
 
 今天，这是我们课程的第三讲，我们将深入探讨语言模型内部的运作机制。到目前为止，我们反复强调语言模型所做的事情，就是给定一个未完成的句子，让它输出一个概率分布，预测接下来可以接每一个**Token**（词元: 语言模型处理的最小文本单元）的概率。我们也反复讲过，这个语言模型就是一个函数，我们写作 F。未完成的句子写作 X，输出写作 F(X)。在上一堂课中，我们讲解了如何选取合适的 X，以得到你想要的 F(X)。在这一堂课中，我们将关注 F 内部是如何运作的，即给定 X 以后，F 里面到底发生了什么事，才让我们看到 F(X) 呈现出某种样子。

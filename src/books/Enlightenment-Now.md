@@ -1,18 +1,20 @@
 ---
-title: "再啟蒙的年代︰為理性、科學、人文主義和進步辯護"
-date: "2024-01-08"  # 你完成这篇笔记的日期
-layout: "book-note.njk" # 指定使用读书笔记的专属布局
-tags:
-- "Book" 
-- "政治"
-- thinking 
+area: society-thinking
 author: 斯蒂芬·平克
-publisher: "John Wiley & Sons"
-year: "2020-11-28" 
-read_date: "2024-01-20" # 你读完这本书的日期
-rating: "5/5" # 你对这本书的评分
-description: "通过查理·芒格的推荐得知" # 书籍简介
-cover_image: "https://books.google.com/books/content?id=oNndDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" # 封面图片的URL
+category: politics-society
+cover_image: https://books.google.com/books/content?id=oNndDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+date: '2024-01-08'
+description: 通过查理·芒格的推荐得知
+layout: book-note.njk
+publisher: John Wiley & Sons
+rating: 5/5
+read_date: '2024-01-20'
+tags:
+- thinking
+title: 再啟蒙的年代︰為理性、科學、人文主義和進步辯護
+year: '2020-11-28'
+media_books:
+- Book
 ---
 
 ## 读后感摘要

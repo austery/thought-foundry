@@ -1,38 +1,37 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: general
+companies_orgs:
+- YouTube
+- Google
+- Polymarket
 date: '2024-01-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 唐石峻
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=w-adUR-6S8k
 speaker: Shijun Tang
-tags:
-  - attention-economy
-  - dopamine-depletion
-  - focus-as-superpower
-  - wealth-through-assets
-  - psychological-manipulation
-title: 如何不再一事无成：专注力是新时代的超能力
-summary: 本文剖析了现代社会如何通过数字平台系统性地削弱人的专注力与快乐能力，指出真正的自由源于内在的专注训练与资产认知，而非廉价多巴胺刺激。提出专注力如肌肉般可锻炼，并强调投资的本质是理解资产价值而非价格波动。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - systems-thinking
-people:
-  - 唐石峻
-companies_orgs:
-  - YouTube
-  - Google
-  - Polymarket
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 本文剖析了现代社会如何通过数字平台系统性地削弱人的专注力与快乐能力，指出真正的自由源于内在的专注训练与资产认知，而非廉价多巴胺刺激。提出专注力如肌肉般可锻炼，并强调投资的本质是理解资产价值而非价格波动。
+tags:
+- asset
+- attention-economy
+- psychological-manipulation
+- psychology
+title: 如何不再一事无成：专注力是新时代的超能力
 ---
+
 ### 现代社会的快乐陷阱：你正在练习不快乐
 
 而当今世界中，你每天练习的，是不快乐，而不是快乐。现在的世界无时无刻不在唆使你做你不喜欢的事：诱惑你、分散你的注意力、嘲讽你、使你感到卑微、蛊惑你，让你迷失自我。你生活在一套制度完善的矩阵中，浑然不知你的超能力正在消亡。

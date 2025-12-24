@@ -1,50 +1,49 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Engie
+- Norges Bank Investment Management
+- ArcelorMittal
+- LinkedIn
+- Microsoft
 date: '2025-07-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicola Tangen
+- Catherine MacGregor
+- Reed Hoffman
+- Jane Austen
+- Marcel Proust
+products_models:
+- CH4
+- biomethane
+- hydrogen
+- e-ammonia
+- ethanol
+- emethane
+- growl
+project:
+- geopolitics-watch
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=N-jMUNASY1Q
 speaker: Norges Bank Investment Management
-tags:
-  - energy-transition
-  - european-energy-crisis
-  - renewable-energy
-  - green-hydrogen
-  - grid-interconnection
-title: Engie CEO 凯瑟琳·麦格雷戈：能源转型中的挑战、机遇与领导力
-summary: Engie 首席执行官凯瑟琳·麦格雷戈在播客中分享了公司在能源转型中的战略、面临的挑战以及未来展望。她详细阐述了欧洲能源危机期间的应对措施，强调了电气化和绿色分子燃料的重要性。麦格雷戈还讨论了监管障碍、投资策略、AI对能源需求的影响，并分享了她作为女性CEO的职业经历和领导心得，强调了经济可持续性在能源转型中的核心作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Nicola Tangen
-  - Catherine MacGregor
-  - Reed Hoffman
-  - Jane Austen
-  - Marcel Proust
-companies_orgs:
-  - Engie
-  - Norges Bank Investment Management
-  - ArcelorMittal
-  - LinkedIn
-  - Microsoft
-products_models:
-  - CH4
-  - biomethane
-  - hydrogen
-  - e-ammonia
-  - ethanol
-  - emethane
-  - growl
-media_books: []
 status: evergreen
+summary: Engie 首席执行官凯瑟琳·麦格雷戈在播客中分享了公司在能源转型中的战略、面临的挑战以及未来展望。她详细阐述了欧洲能源危机期间的应对措施，强调了电气化和绿色分子燃料的重要性。麦格雷戈还讨论了监管障碍、投资策略、AI对能源需求的影响，并分享了她作为女性CEO的职业经历和领导心得，强调了经济可持续性在能源转型中的核心作用。
+tags:
+- crisis
+- energy-transition
+- environment
+- grid-interconnection
+- renewable-energy
+title: Engie CEO 凯瑟琳·麦格雷戈：能源转型中的挑战、机遇与领导力
 ---
+
 ### 引言：Engie及其CEO的非凡旅程
 
 大家好，我是**挪威主权财富基金**（*Norwegian Sovereign Wealth Fund*: 挪威政府运营的全球最大主权财富基金）的首席执行官**Nicola Tangen**。

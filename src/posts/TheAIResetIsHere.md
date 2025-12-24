@@ -1,31 +1,29 @@
 ---
-title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - 就业影响
-  - 科技趋势
-people:
-  - Peter Diamandis
-  - Anish Acharya
-  - Dave Blundin
-  - Salim Ismail
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-05-25'
+area: tech-engineering
 author: Lei
-speaker: ''
+category: ai-ml
 channel: null
+companies_orgs: []
+date: '2025-05-25'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Peter Diamandis
+- Anish Acharya
+- Dave Blundin
+- Salim Ismail
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: null
+speaker: ''
+summary: null
+tags:
+- society
+- technology
+title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
 ---
 
 Moonshots

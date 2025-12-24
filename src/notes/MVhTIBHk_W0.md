@@ -1,48 +1,48 @@
 ---
-author: 政經孫老師
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 新鴻基地產
+- 嘉裏建設
+- 恒大
+- 新世界地產
 date: '2025-07-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 地產霸權
+- 社會學年鑒
+people:
+- 潘慧嫻
+- 卡爾·波蘭尼
+- 郭得勝
+- 包玉剛
+- 李嘉誠
+- 李兆基
+- 郭鶴年
+- 鄭裕彤
+- 克林頓
+products_models: []
+project:
+- china-analysis
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=MVhTIBHk_W0
 speaker: 政經孫老師
-tags:
-  - real-estate-hegemony
-  - financial-capitalism
-  - disaster-economy
-  - economic-cycles
-  - land-monopoly
-title: 地產霸權的興衰：中國與香港經濟進入新階段的警示
-summary: 本文深入剖析了中國與香港「地產霸權」的形成與衰落。作者指出，地產霸權的瓦解並非好事，它預示著經濟已從金融資本主義階段轉向更為嚴峻的「災難經濟」階段。文章批判了將一切歸咎於土地壟斷的淺薄觀點，強調房地產金融化是經濟脫實入虛的必然結果，並警示社會將面臨更為殘酷的挑戰。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - market-cycles
-  - geopolitics-watch
-people:
-  - 潘慧嫻
-  - 卡爾·波蘭尼
-  - 郭得勝
-  - 包玉剛
-  - 李嘉誠
-  - 李兆基
-  - 郭鶴年
-  - 鄭裕彤
-  - 克林頓
-companies_orgs:
-  - 新鴻基地產
-  - 嘉裏建設
-  - 恒大
-  - 新世界地產
-products_models: []
-media_books:
-  - 地產霸權
-  - 社會學年鑒
 status: evergreen
+summary: 本文深入剖析了中國與香港「地產霸權」的形成與衰落。作者指出，地產霸權的瓦解並非好事，它預示著經濟已從金融資本主義階段轉向更為嚴峻的「災難經濟」階段。文章批判了將一切歸咎於土地壟斷的淺薄觀點，強調房地產金融化是經濟脫實入虛的必然結果，並警示社會將面臨更為殘酷的挑戰。
+tags:
+- economic-cycle
+- economy
+- financial
+- land-monopoly
+- real
+title: 地產霸權的興衰：中國與香港經濟進入新階段的警示
 ---
+
 ### 地產霸權的衰落及其深遠影響
 
 今天我們來談一談**地產霸權**（Real Estate Hegemony: 指房地產行業在經濟中佔據主導地位，並通過土地和房價壟斷形成對社會的影響力）。無論是在中國大陸還是香港，房地產在經濟中都佔有非常重要的地位。有些人將這種現象總結為所謂的地產霸權。然而，這個曾經不可一世、非常強大的地產霸權，如今卻正在衰落，甚至消失。

@@ -1,39 +1,38 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 初日診所
+- 長庚醫院
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 鄧雯心醫師
+- 蕭美君醫師
+products_models:
+- SSRI
+- SNRI
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=7YEzzDLLG7E
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - menopause-symptoms
-  - hormonal-imbalance
-  - mental-health
-  - anxiety-depression
-  - sleep-disorders
-  - environmental-factors
-title: 婦女更年期身心困擾：從35歲到70歲的荷爾蒙挑戰與應對策略
-summary: 本篇文章深入探討女性更年期前後的身心症狀，強調其可能提早至35-40歲出現，並持續至55-65歲甚至更晚。身心科醫師蕭美君與鄧雯心醫師共同解析焦慮、憂鬱、恐慌、失眠等常見困擾，並指出環境荷爾蒙、睡眠、壓力、經前不悅症及產後憂鬱等風險因素。文章也澄清了身心科藥物的誤解，強調其在荷爾蒙劇烈波動時的輔助作用，並提供生活調適建議，呼籲女性及早預防與尋求專業協助。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 鄧雯心醫師
-  - 蕭美君醫師
-companies_orgs:
-  - 初日診所
-  - 長庚醫院
-products_models:
-  - SSRI
-  - SNRI
-media_books: []
 status: evergreen
+summary: 本篇文章深入探討女性更年期前後的身心症狀，強調其可能提早至35-40歲出現，並持續至55-65歲甚至更晚。身心科醫師蕭美君與鄧雯心醫師共同解析焦慮、憂鬱、恐慌、失眠等常見困擾，並指出環境荷爾蒙、睡眠、壓力、經前不悅症及產後憂鬱等風險因素。文章也澄清了身心科藥物的誤解，強調其在荷爾蒙劇烈波動時的輔助作用，並提供生活調適建議，呼籲女性及早預防與尋求專業協助。
+tags:
+- anxiety
+- geopolitical
+- health
+- hormonal-imbalance
+- mental-health
+- society
+title: 婦女更年期身心困擾：從35歲到70歲的荷爾蒙挑戰與應對策略
 ---
+
 ### 更年期症狀的廣泛性與提早
 
 許多人以為**更年期**（Menopause: 女性卵巢功能逐漸衰退，月經停止的生理階段）是50歲才需要煩惱的事情，但事實並非如此。鄧雯心醫師指出，女性常常在35歲或40歲時就可能出現更年期相關症狀。這些症狀中，最困擾大家的往往是身心層面的表現，例如焦慮、憂鬱、易怒和失眠。為此，鄧醫師特別邀請了身心科專家蕭美君醫師，共同探討這些問題。

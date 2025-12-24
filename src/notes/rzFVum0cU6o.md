@@ -1,47 +1,47 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-04-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《可不可以说》
+- 《宇宙奇趣全集》
+- 《山中》
+- 《第一炉香》
+- 《后现代课程观》
+- 《X书店》
+people:
+- 冯军鹤
+- 西西
+- 卡尔维诺
+- 赫伯特
+- 王维
+- 许渊冲
+- 张爱玲
+- 小威廉·E·多尔
+products_models: []
+project:
+- personal-growth-lab
+- knowledge-pipeline
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=rzFVum0cU6o
 speaker: 一席YiXi
-tags:
-  - language-creativity
-  - poetic-imagery
-  - educational-reform
-  - metaphor-as-tool
-  - experience-expression
-title: 当诗歌脱离标准答案：在语言的远与近之间重拾体验的力量
-summary: 冯军鹤通过诗歌课堂实践，揭示传统语文教育过度强调规范与标准如何压抑个体体验。他提出‘远词’与隐喻是打开语言可能性、让生命体验得以言说的关键路径，呼吁教育回归感受力与开放性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - knowledge-pipeline
-  - cultural-critique
-people:
-  - 冯军鹤
-  - 西西
-  - 卡尔维诺
-  - 赫伯特
-  - 王维
-  - 许渊冲
-  - 张爱玲
-  - 小威廉·E·多尔
-companies_orgs: []
-products_models: []
-media_books:
-  - 《可不可以说》
-  - 《宇宙奇趣全集》
-  - 《山中》
-  - 《第一炉香》
-  - 《后现代课程观》
-  - 《X书店》
 status: evergreen
+summary: 冯军鹤通过诗歌课堂实践，揭示传统语文教育过度强调规范与标准如何压抑个体体验。他提出‘远词’与隐喻是打开语言可能性、让生命体验得以言说的关键路径，呼吁教育回归感受力与开放性。
+tags:
+- educational-reform
+- experience
+- history
+- language
+- tool
+title: 当诗歌脱离标准答案：在语言的远与近之间重拾体验的力量
 ---
+
 ### 诗歌为何让我们越来越陌生？
 
 各位同学、各位朋友，大家好。我是冯军鹤，一名独立语文老师。当你们看到“在我们的生命中，体验能够被说出来，是非常重要的”这个题目时，或许会感到困惑。但请相信，在这堂课结束之后，你们心里自然会有答案。

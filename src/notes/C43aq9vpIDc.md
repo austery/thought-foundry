@@ -1,50 +1,50 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Adobe
+- 拼多多
+- 戴尔
+- Novo Nordisk
+- 礼来
+- Polymarket
+- FBI
 date: '2025-01-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- 沃伦·巴菲特
+- 霍华德·马克斯
+- 老段
+- 迈克尔·戴尔
+products_models:
+- Photoshop
+- Premiere Pro
+- Adobe Acrobat
+- SGL-105
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=C43aq9vpIDc
 speaker: Shijun Tang
-tags:
-  - investment-horizon
-  - fundamental-analysis
-  - opportunity-cost
-  - market-efficiency
-  - leverage-risk
-title: 什么时候卖股票？从巴菲特到拼多多的投资逻辑与择时误区
-summary: 本文探讨投资中‘何时卖出’的核心难题，指出择时不可行，主张基于基本面变化与机会成本做决策。通过巴菲特的‘二十个洞’原则、Adobe、拼多多和戴尔等案例，揭示长期持有与理性取舍的价值投资本质。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-  - 沃伦·巴菲特
-  - 霍华德·马克斯
-  - 老段
-  - 迈克尔·戴尔
-companies_orgs:
-  - Adobe
-  - 拼多多
-  - 戴尔
-  - Novo Nordisk
-  - 礼来
-  - Polymarket
-  - FBI
-products_models:
-  - Photoshop
-  - Premiere Pro
-  - Adobe Acrobat
-  - SGL-105
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文探讨投资中‘何时卖出’的核心难题，指出择时不可行，主张基于基本面变化与机会成本做决策。通过巴菲特的‘二十个洞’原则、Adobe、拼多多和戴尔等案例，揭示长期持有与理性取舍的价值投资本质。
+tags:
+- fundamental-analysis
+- investment
+- leverage-risk
+- market-efficiency
+- opportunity-cost
+title: 什么时候卖股票？从巴菲特到拼多多的投资逻辑与择时误区
 ---
+
 ### 投资的核心难题：什么时候卖股票？
 
 今天我来聊聊什么时候卖股票这个话题。卖股票操作起来很简单——买入点一个键，卖出同样也是点一个键。股票是一种流动性极高的资产，而正因如此，把握买卖时机却变得异常困难。

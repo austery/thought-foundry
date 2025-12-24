@@ -1,47 +1,46 @@
 ---
-author: EO
+area: society-systems
+category: business
+companies_orgs:
+- Articul8
+- Amazon
+- Google
+- Microsoft
+- Intel
+- AWS
+- OpenAI
+- Meta
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Arun Subramaniyan
+- Neil Armstrong
+- Steve Jobs
+products_models:
+- GenAI
+- ChatGPT
+- digital-twins
+project:
+- ai-impact-analysis
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=C0AlI0oc9q4
 speaker: EO
-tags:
-  - startup-hustle
-  - entrepreneurial-mindset
-  - genai-strategy
-  - production-pilots
-  - democratization-of-technology
-title: 从500亿公司离职：创业教会我的生存法则与GenAI愿景
-summary: 本文记录了Articul8创始人兼CEO Arun Subramaniyan从大型企业转向创业的深刻体会。他强调了创业公司“没有安全网”的生存法则，要求员工具备超越常规的拼搏精神和谦逊。文章还探讨了创业的真正定义——在资源匮乏下实现目标，以及如何通过承担责任、回馈社会和从失败中学习来推动创新。Arun还分享了Articul8在通用人工智能（GenAI）领域专注于生产级试点而非概念验证的独特策略，以及通过技术民主化创造长期价值的愿景。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Arun Subramaniyan
-  - Neil Armstrong
-  - Steve Jobs
-companies_orgs:
-  - Articul8
-  - Amazon
-  - Google
-  - Microsoft
-  - Intel
-  - AWS
-  - OpenAI
-  - Meta
-products_models:
-  - GenAI
-  - ChatGPT
-  - digital-twins
-media_books: []
 status: evergreen
+summary: 本文记录了Articul8创始人兼CEO Arun Subramaniyan从大型企业转向创业的深刻体会。他强调了创业公司“没有安全网”的生存法则，要求员工具备超越常规的拼搏精神和谦逊。文章还探讨了创业的真正定义——在资源匮乏下实现目标，以及如何通过承担责任、回馈社会和从失败中学习来推动创新。Arun还分享了Articul8在通用人工智能（GenAI）领域专注于生产级试点而非概念验证的独特策略，以及通过技术民主化创造长期价值的愿景。
+tags:
+- business
+- entrepreneurial-mindset
+- genai-strategy
+- startup
+- technology
+title: 从500亿公司离职：创业教会我的生存法则与GenAI愿景
 ---
+
 ### 创业公司的生存法则：没有安全网的拼搏
 
 当然，在创业公司最大的不同就是你没有任何安全网。你确实需要一种远超你生活中所见的拼搏精神。你没有时间坐下来思考，你必须直接处理问题并持续推进。

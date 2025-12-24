@@ -1,49 +1,48 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Bloomberg
+- Federal Reserve
+- Alliance Bernstein
 date: '2025-07-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+- Commodities Energy Transition
+people:
+- Jill Weisenthal
+- Tracy Aloway
+- Inigo Fraser Jenkins
+- Donald Trump
+- Jerome Powell
+- Bob Brackett
+- Niall Ferguson
+- Howard Marx
+- Mike Milken
+products_models:
+- Nifty50
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=fyEoxrmITjo
 speaker: Bloomberg Podcasts
-tags:
-  - dollar-stability
-  - deglobalization
-  - demographic-shifts
-  - government-debt
-  - investment-strategy
-  - climate-risk
-title: 如何为后美元世界做准备：Inigo Fraser Jenkins 探讨全球经济转型
-summary: 本期播客探讨了不断变化的全球经济格局，重点关注美元的作用。嘉宾 Inigo Fraser Jenkins 指出，全球化逆转、人口结构变化和持续通胀等长期趋势正在逆转。他分析了政府债务上升、美元避险地位下降以及投资者在保值方面面临的挑战。对话还涉及气候风险、人工智能对生产力和就业的影响，以及这些结构性变化如何影响投资策略。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jill Weisenthal
-  - Tracy Aloway
-  - Inigo Fraser Jenkins
-  - Donald Trump
-  - Jerome Powell
-  - Bob Brackett
-  - Niall Ferguson
-  - Howard Marx
-  - Mike Milken
-companies_orgs:
-  - Bloomberg
-  - Federal Reserve
-  - Alliance Bernstein
-products_models:
-  - Nifty50
-media_books:
-  - OddLots podcast
-  - Commodities Energy Transition
 status: evergreen
+summary: 本期播客探讨了不断变化的全球经济格局，重点关注美元的作用。嘉宾 Inigo Fraser Jenkins 指出，全球化逆转、人口结构变化和持续通胀等长期趋势正在逆转。他分析了政府债务上升、美元避险地位下降以及投资者在保值方面面临的挑战。对话还涉及气候风险、人工智能对生产力和就业的影响，以及这些结构性变化如何影响投资策略。
+tags:
+- deglobalization
+- demographic-shift
+- government-debt
+- risk
+- technology
+title: 如何为后美元世界做准备：Inigo Fraser Jenkins 探讨全球经济转型
 ---
+
 ### 美元作为全球金融支柱的挑战
 
 **Jill:** 大家好，欢迎收听新一期的 OddLots 播客。我是 Jill Weisenthal。

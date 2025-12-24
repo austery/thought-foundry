@@ -1,59 +1,60 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Bloomberg
+- Zeno's Pizza
+- Oxford Cafe
+- Namora
+- BlackRock
+- Con Edison
+- New York City Department of Education
+- Chipotle
+- Uber
+- GrubHub
+- Caviar
 date: '2025-08-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots
+- The Bear
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- James Shields
+- Alex Xenopoulos
+- Evan Xenopoulos
+- Chris Hatch
+- Carmen Rodriguez
+- Dash Bennett
+- Kale Brooks
+- Eric Adams
+- Zoram Mani
+- Andrew Cuomo
+products_models:
+- Pizza Masters
+project:
+- entrepreneurship
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=KtzGVyqiRow
 speaker: Bloomberg Podcasts
-tags:
-  - restaurant-economics
-  - small-business-challenges
-  - urban-economy
-  - third-party-delivery
-  - regulatory-environment
-title: 在纽约市卖披萨：餐饮业的经济学与生存挑战
-summary: 本期OddLots播客深入探讨了在纽约市经营披萨店的复杂商业模式。Zeno's Pizza和Oxford Cafe的联合创始人James Shields、Alex Xenopoulos和Evan Xenopoulos分享了高昂的初始投资、不断上涨的运营成本（劳动力、食材、租金）以及第三方配送服务带来的影响。他们还讨论了监管挑战、疫情后不断变化的城市经济，以及在这个竞争激烈的市场中生存和发展的策略。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - market-cycles
-  - us-analysis
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - James Shields
-  - Alex Xenopoulos
-  - Evan Xenopoulos
-  - Chris Hatch
-  - Carmen Rodriguez
-  - Dash Bennett
-  - Kale Brooks
-  - Eric Adams
-  - Zoram Mani
-  - Andrew Cuomo
-companies_orgs:
-  - Bloomberg
-  - Zeno's Pizza
-  - Oxford Cafe
-  - Namora
-  - BlackRock
-  - Con Edison
-  - New York City Department of Education
-  - Chipotle
-  - Uber
-  - GrubHub
-  - Caviar
-products_models:
-  - Pizza Masters
-media_books:
-  - OddLots
-  - The Bear
 status: evergreen
+summary: 本期OddLots播客深入探讨了在纽约市经营披萨店的复杂商业模式。Zeno's Pizza和Oxford Cafe的联合创始人James Shields、Alex
+  Xenopoulos和Evan Xenopoulos分享了高昂的初始投资、不断上涨的运营成本（劳动力、食材、租金）以及第三方配送服务带来的影响。他们还讨论了监管挑战、疫情后不断变化的城市经济，以及在这个竞争激烈的市场中生存和发展的策略。
+tags:
+- challenge
+- economy
+- party
+- regulatory
+- restaurant-economics
+title: 在纽约市卖披萨：餐饮业的经济学与生存挑战
 ---
+
 ### 纽约披萨的悖论：饱和市场与创业勇气
 
 **Joe Weisenthal:** 大家好，欢迎收听OddLots播客的又一期节目。我是Joe Weisenthal。

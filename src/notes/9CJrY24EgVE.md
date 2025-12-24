@@ -1,67 +1,67 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: general
+companies_orgs:
+- 腾讯
+- 新浪
+- CCTV
+- Google
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《毛泽东私人医生回忆录》
+- 《晚年周恩来》
+- 《红太阳是怎样升起的》
+- 《笑傲江湖》
+people:
+- 武雷
+- 李后晨
+- 贾甲
+- 王志安
+- 刘晓波
+- 编程随想
+- 徐志勇
+- 哈维尔
+- Xi Jinping
+- 严歌苓
+- 李宁
+- 吴薇
+- 阿古
+- 高市早苗
+- 谷爱凌
+- 杜甫
+- 辛弃疾
+- 毛泽东
+- 周恩来
+- 李志绥
+- 丁家喜
+- 王全璋
+- 孙中山
+- 宋庆龄
+- 王刚
+- 柴静
+- 易富贤
+products_models:
+- Google Meet
+project:
+- china-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=9CJrY24EgVE
 speaker: 三個水槍手
-tags:
-  - diaspora-experience
-  - political-depression
-  - media-creation
-  - audience-interaction
-title: 《三个水枪手》百期特辑：我们如何相识、评价彼此，并与听众真诚对话
-summary: 在《三个水枪手》第100期特别直播中，三位主播分享了他们相识的经历、创办节目的初衷以及对彼此的真实评价。节目后半段，他们首次开启听众连麦，与来自中国、加拿大、美国等地的听众深入交流，探讨了政治性抑郁、海外华人的身份认同、如何与家人沟通政治观点等深刻话题，展现了一场真诚而感人的思想碰撞。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - personal-growth-lab
-people:
-  - 武雷
-  - 李后晨
-  - 贾甲
-  - 王志安
-  - 刘晓波
-  - 编程随想
-  - 徐志勇
-  - 哈维尔
-  - 习近平
-  - 严歌苓
-  - 李宁
-  - 吴薇
-  - 阿古
-  - 高市早苗
-  - 谷爱凌
-  - 杜甫
-  - 辛弃疾
-  - 毛泽东
-  - 周恩来
-  - 李志绥
-  - 丁家喜
-  - 王全璋
-  - 孙中山
-  - 宋庆龄
-  - 王刚
-  - 柴静
-  - 易富贤
-companies_orgs:
-  - 腾讯
-  - 新浪
-  - CCTV
-  - Google
-products_models:
-  - Google Meet
-media_books:
-  - 《毛泽东私人医生回忆录》
-  - 《晚年周恩来》
-  - 《红太阳是怎样升起的》
-  - 《笑傲江湖》
 status: evergreen
+summary: 在《三个水枪手》第100期特别直播中，三位主播分享了他们相识的经历、创办节目的初衷以及对彼此的真实评价。节目后半段，他们首次开启听众连麦，与来自中国、加拿大、美国等地的听众深入交流，探讨了政治性抑郁、海外华人的身份认同、如何与家人沟通政治观点等深刻话题，展现了一场真诚而感人的思想碰撞。
+tags:
+- experience
+- history
+- media
+- political
+title: 《三个水枪手》百期特辑：我们如何相识、评价彼此，并与听众真诚对话
 ---
+
 ### 百期感言与节目缘起
 
 **武雷:** 能做到100期很厉害，已经很厉害了。到去年我们诞生这个主意，正好满一年。

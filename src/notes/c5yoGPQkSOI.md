@@ -1,60 +1,59 @@
 ---
-author: 張内咸
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Netflix
+- 腾讯视频
+- 爱奇艺
+- 优酷
+- Costco
+- 中国导演协会
+- 国民党
+- 民进党
+- WTO
+- 爱壹帆
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+- 《三体》
+- 《大时代》
+- 《广告狂人》
+- 《华丽一族》
+- 《台风商社》
+- Belgravia
+people:
+- 高市早苗
+- 石原慎太郎
+- 王家卫
+- 木村拓哉
+- 李敖
+- Donald Trump
+- 马英九
+- 蔡英文
+- 楼继伟
+products_models:
+- VPN
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=c5yoGPQkSOI
 speaker: 張内咸
-tags:
-  - chinese-economy
-  - media-censorship
-  - political-polarization
-  - geopolitical-shifts
-  - taiwan-model
-title: 中国社会深陷内耗与怀旧，台湾却在逆境中自信起飞：一场对比与反思
-summary: 本文深入探讨了中国大陆在经济下行、社会内耗背景下，串流媒体困境、内娱乱象及“战狼外交”所折射出的深层问题。通过对比《繁花》等怀旧题材与全球经济衰退背景下的影视作品，揭示了中国对过去的留恋。同时，文章着重分析了台湾经济在困境中实现逆袭的“台湾模式”，及其在社会改革和政策制定上的独特性，最终指出中国与台湾在价值观和发展路径上渐行渐远。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 高市早苗
-  - 石原慎太郎
-  - 王家卫
-  - 木村拓哉
-  - 李敖
-  - 川普
-  - 马英九
-  - 蔡英文
-  - 楼继伟
-companies_orgs:
-  - Netflix
-  - 腾讯视频
-  - 爱奇艺
-  - 优酷
-  - Costco
-  - 中国导演协会
-  - 国民党
-  - 民进党
-  - WTO
-  - 爱壹帆
-products_models:
-  - VPN
-media_books:
-  - 《繁花》
-  - 《三体》
-  - 《大时代》
-  - 《广告狂人》
-  - 《华丽一族》
-  - 《台风商社》
-  - Belgravia
 status: evergreen
+summary: 本文深入探讨了中国大陆在经济下行、社会内耗背景下，串流媒体困境、内娱乱象及“战狼外交”所折射出的深层问题。通过对比《繁花》等怀旧题材与全球经济衰退背景下的影视作品，揭示了中国对过去的留恋。同时，文章着重分析了台湾经济在困境中实现逆袭的“台湾模式”，及其在社会改革和政策制定上的独特性，最终指出中国与台湾在价值观和发展路径上渐行渐远。
+tags:
+- chinese-economy
+- geopolitical-shift
+- media
+- model
+title: 中国社会深陷内耗与怀旧，台湾却在逆境中自信起飞：一场对比与反思
 ---
+
 大家好，我是张内咸，又见面了。过去的这一周，注定要载入史册，大家应该都同意吧？其实今年一整年，发生的哪一件事不会载入史册呢？不过呢，本期节目一上来，我先要讲个题外话。前两天有位观众给我发了封邮件，信里他问了我这么一个问题，说：“张导，既然你们大陆不让 Netflix 这样的**串流媒体**（Streaming Media: 通过互联网传输音视频内容的服务）平台进来，那如果我们海外华人在你们国内投资一个类似于 Netflix 的网站，张导觉得有没有搞头？”
 
 有没有搞头？读到这封邮件以后，我有点一时语塞。其实一直有观众给我来信咨询各种问题，我回复的时候都会尽量跟大家讲，有合适的机会，我一定会在节目里分享你们的提问，但是需要等一段时间我再安排，节目不会做得那么快。但是这位老兄的提问让我感到坐立难安，我觉得有必要立刻、马上、现在就给你一个明确的答案。兄弟，你是住在什么平行世界里吗？我猜你有可能是从香港移民到北美，已经很久很久没有来过中国了吧，甚至我都怀疑你是不是个 ABC 呀？你不知道类似于 Netflix 这样的网站，中国曾经有一大堆吗？而且现在都快死透了。最后剩下几家大的，腾讯视频、爱奇艺、优酷，靠疯狂裁员和做账的技巧，勉强才把财报给撑起来，账面上做成了盈利，但是已经没有任何投资价值了。

@@ -1,51 +1,51 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: general
+companies_orgs:
+- OpenReview
+- ICLR
+- NeurIPS
+- ICML
+- ACL
+- CVPR
+- OWASP
+- Pangram Labs
+- Google Scholar
+- DBLP
+- SIGARCH
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Telegram
+- Reddit
+- X
+- reviewer-ring
+people:
+- Max Spero
+- Desmond Elliott
+products_models:
+- ChatGPT
+- Claude
+- Adam optimizer
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=xx2jfGBJAy0
 speaker: Best Partners TV
-tags:
-  - iclr-leak
-  - academic-integrity
-  - peer-review-system
-  - ai-in-academia
-  - reviewer-rings
-title: AI顶会ICLR泄露门：61分钟学术信任危机与评审体系崩塌始末
-summary: 2025年感恩节，AI顶级会议ICLR 2026遭遇史无前例的泄露门。短短61分钟内，OpenReview平台漏洞导致数万篇论文的作者、审稿人身份及评审意见被曝光。此次事件不仅撕碎了双盲评审的遮羞布，更揭露了AI代笔审稿、金钱贿赂、学术报复及审稿人圈子等学术圈的黑暗面。本文将深入剖析这场危机，探讨其对AI学术诚信和同行评审体系的深远影响，以及我们如何重建信任。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Max Spero
-  - Desmond Elliott
-companies_orgs:
-  - OpenReview
-  - ICLR
-  - NeurIPS
-  - ICML
-  - ACL
-  - CVPR
-  - OWASP
-  - Pangram Labs
-  - Google Scholar
-  - DBLP
-  - SIGARCH
-products_models:
-  - ChatGPT
-  - Claude
-  - Adam optimizer
-media_books:
-  - Telegram
-  - Reddit
-  - X
 status: evergreen
+summary: 2025年感恩节，AI顶级会议ICLR 2026遭遇史无前例的泄露门。短短61分钟内，OpenReview平台漏洞导致数万篇论文的作者、审稿人身份及评审意见被曝光。此次事件不仅撕碎了双盲评审的遮羞布，更揭露了AI代笔审稿、金钱贿赂、学术报复及审稿人圈子等学术圈的黑暗面。本文将深入剖析这场危机，探讨其对AI学术诚信和同行评审体系的深远影响，以及我们如何重建信任。
+tags:
+- academic-integrity
+- iclr-leak
+- llm
+- system
+title: AI顶会ICLR泄露门：61分钟学术信任危机与评审体系崩塌始末
 ---
+
 ### 序言：一场颠覆学术信仰的泄露门
 
 2025年11月27日，西方传统的感恩节，本应是家人团聚、表达感谢的日子。然而，对于全球数万名向AI顶级会议**ICLR**（International Conference on Learning Representations: 国际学习表征会议）2026提交论文的研究者来说，这一天却成了学术信仰的崩塌日。一场史无前例的泄露门突然爆发，短短61分钟，整个同行评审体系的双盲遮羞布被撕得粉碎。从审稿人身份裸奔到AI代笔审稿曝光，再到金钱贿赂、人身威胁，AI学术圈最荒诞、最黑暗的一面被赤裸裸地展现在所有人面前。今天，我们将从头到尾拆解这场AI学术史上最魔幻的61分钟，看看这场事故到底如何发生，又暴露了学术圈哪些积重难返的问题。

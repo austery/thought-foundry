@@ -1,37 +1,37 @@
 ---
-author: Internet of Bugs
+area: society-systems
+category: technology
+companies_orgs:
+- OpenAI
+- Reddit
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Journal of Medical Ethics
+- AI in the Falling Sky
+products_models:
+- chatbot
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=vjE3VUuOMFg
 speaker: Internet of Bugs
-tags:
-  - ai-risk
-  - existential-risk
-  - immediate-harms
-  - research-methodology
-  - public-perception
-title: 驳斥AI末日论：警惕被误导的研究与被忽视的即时危害
-summary: 本文是对“AI不会毁灭我们所有人”视频的后续，旨在驳斥一项关于AI风险的“糟糕研究”。该研究声称AI的“生存风险叙事”不会分散人们对“即时危害”的注意力，但作者通过深入分析其方法论，揭示了该研究的诸多缺陷，包括定义模糊、问题设置片面以及调查方式不严谨。文章强调，过度关注遥远的“AI末日论”反而会分散我们对AI已造成和正在造成的实际、即时危害（如误导性信息、偏见、失业、甚至人身伤害）的关注，并呼吁将精力投入到制定有效的AI监管措施上。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people: []
-companies_orgs:
-  - OpenAI
-  - Reddit
-products_models:
-  - chatbot
-media_books:
-  - Journal of Medical Ethics
-  - AI in the Falling Sky
 status: evergreen
+summary: 本文是对“AI不会毁灭我们所有人”视频的后续，旨在驳斥一项关于AI风险的“糟糕研究”。该研究声称AI的“生存风险叙事”不会分散人们对“即时危害”的注意力，但作者通过深入分析其方法论，揭示了该研究的诸多缺陷，包括定义模糊、问题设置片面以及调查方式不严谨。文章强调，过度关注遥远的“AI末日论”反而会分散我们对AI已造成和正在造成的实际、即时危害（如误导性信息、偏见、失业、甚至人身伤害）的关注，并呼吁将精力投入到制定有效的AI监管措施上。
+tags:
+- existential-risk
+- public
+- research
+- risk
+title: 驳斥AI末日论：警惕被误导的研究与被忽视的即时危害
+companies:
+- immediate-harm
 ---
+
 ### 引言：对AI风险研究的后续讨论
 
 这是一个对我之前“AI不会毁灭我们所有人，但我们需要关注更重要的AI风险”视频的后续。

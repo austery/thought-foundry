@@ -1,39 +1,37 @@
 ---
-author: AI Engineer
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Krea.ai
+- Midjourney
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Diego Rodriguez
+- Claude Shannon
+- Changloo
+products_models:
+- LLMs
+- diffusion models
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=h5ItAJuB3Fc
 speaker: AI Engineer
-tags:
-  - ai-evaluation
-  - human-perception
-  - generative-ai
-  - aesthetic-metrics
-  - data-compression
-title: AI生成内容的感知评估：美学与人类视角的挑战
-summary: Krea.ai联合创始人Diego Rodriguez探讨了AI生成媒体评估中的核心挑战：如何将人类感知和美学纳入考量。他指出，当前AI评估指标（如FID分数）未能充分理解人类对图像的真实感知，导致模型在美学判断上存在缺陷。Rodriguez通过信息论和数据压缩原理，揭示了人类感知偏差如何无意中影响AI训练数据，并呼吁开发更符合人类美学偏好的“感知感知”指标，促使AI领域对评估方法进行更深入的思考。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Diego Rodriguez
-  - Claude Shannon
-  - Changloo
-companies_orgs:
-  - Krea.ai
-  - Midjourney
-products_models:
-  - LLMs
-  - diffusion models
-media_books: []
 status: evergreen
+summary: Krea.ai联合创始人Diego Rodriguez探讨了AI生成媒体评估中的核心挑战：如何将人类感知和美学纳入考量。他指出，当前AI评估指标（如FID分数）未能充分理解人类对图像的真实感知，导致模型在美学判断上存在缺陷。Rodriguez通过信息论和数据压缩原理，揭示了人类感知偏差如何无意中影响AI训练数据，并呼吁开发更符合人类美学偏好的“感知感知”指标，促使AI领域对评估方法进行更深入的思考。
+tags:
+- aesthetic-metric
+- ai-evaluation
+- data
+- human
+title: AI生成内容的感知评估：美学与人类视角的挑战
 ---
+
 ### 引言：AI评估中的人类感知缺失
 
 大家好，我是 **Diego Rodriguez**，**Krea.ai**（一家专注于生成式媒体、多媒体和多模态等热门领域的AI初创公司）的联合创始人。我今天主要想分享一个故事，关于当我们必须将人类感知、人类观点和美学纳入考量时，如何进行评估。

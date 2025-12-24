@@ -1,38 +1,37 @@
 ---
-author: TED
+area: society-systems
+category: general
+companies_orgs:
+- TED
+- Knepp Estate
+- Tower of London
+- Field Museum
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Isabella Tree
+- Charlie
+products_models: []
+project:
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=SjLO9ogmyQU
 speaker: TED
-tags:
-  - rewilding
-  - biodiversity
-  - ecosystem-restoration
-  - sustainable-gardening
-  - carbon-sequestration
-title: 让世界重归野性之美：从大型庄园到私家花园的自然复野实践与秘诀
-summary: 伊莎贝拉·特里在本次TED演讲中探讨了“自然复野”的概念，展示了只要给予机会，大自然就能自我恢复，这不仅适用于广阔的景观，也适用于后院和城市公园等小空间。她以克内普庄园的经验为例，讲述了自然复野如何将他们经营不善的农田转变为生物多样性的天堂。随后，她为个人如何野化自己的绿色空间提供了三个实用秘诀：创造多样的地形、像食草动物一样思考园艺，以及拥抱自然分解。本次演讲挑战了传统审美，倡导一种更野性、不可预测且生物多样性丰富的环境营造方式。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-people:
-  - Isabella Tree
-  - Charlie
-companies_orgs:
-  - TED
-  - Knepp Estate
-  - Tower of London
-  - Field Museum
-products_models: []
-media_books: []
 status: evergreen
+summary: 伊莎贝拉·特里在本次TED演讲中探讨了“自然复野”的概念，展示了只要给予机会，大自然就能自我恢复，这不仅适用于广阔的景观，也适用于后院和城市公园等小空间。她以克内普庄园的经验为例，讲述了自然复野如何将他们经营不善的农田转变为生物多样性的天堂。随后，她为个人如何野化自己的绿色空间提供了三个实用秘诀：创造多样的地形、像食草动物一样思考园艺，以及拥抱自然分解。本次演讲挑战了传统审美，倡导一种更野性、不可预测且生物多样性丰富的环境营造方式。
+tags:
+- ecosystem
+- environment
+- health
+- llm
+- rewilding
+title: 让世界重归野性之美：从大型庄园到私家花园的自然复野实践与秘诀
 ---
+
 ### 自然复野：从宏大愿景到日常实践
 
 你最近可能听过很多关于**自然复野**（Rewilding: 恢复自然生态系统和过程，让其自我调节）的说法。

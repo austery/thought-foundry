@@ -1,35 +1,33 @@
 ---
-title: 国际风云变幻：中美贸易战、加沙和平进程与两岸社会文化洞察
-summary: 本期节目探讨了中美贸易战的快速升温与降温，川普在加沙和平协议中的斡旋角色，巴基斯坦矿产与稀土谣言的真相，以及台湾歌曲《没出息》在两岸引发的社会共鸣，并揭示了英国中共间谍案的最新证据。
-area: market-analysis
-category: geopolitics
+area: society-thinking
+category: politics-society
+companies_orgs: []
+date: '2025-10-12'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- lt
+products_models: []
 project:
 - ai-impact-analysis
 - china-analysis
 - geopolitics-watch
 - us-analysis
-tags:
-- gaza-conflict
-- geopolitics
-- rare-earth-trade
-- taiwan-cross-strait
-- us-china-relations
-people:
-- lt
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-12'
-author: LT視界
-speaker: LT視界
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=rPd0MWTUC78
+speaker: LT視界
 status: evergreen
+summary: 本期节目探讨了中美贸易战的快速升温与降温，川普在加沙和平协议中的斡旋角色，巴基斯坦矿产与稀土谣言的真相，以及台湾歌曲《没出息》在两岸引发的社会共鸣，并揭示了英国中共间谍案的最新证据。
+tags:
+- gaza-conflict
+- rare-earth-trade
+- taiwan
+- us-china-relations
+title: 国际风云变幻：中美贸易战、加沙和平进程与两岸社会文化洞察
 ---
+
 ### 财经头条与未来一周经济展望
 
 本周伊始，首先关注未来一周最值得关注的五大经济事件。第一项是川普政府与相关国家（包括欧盟、印度、日本、韩国等）的贸易谈判，这涉及到**232条款**（美国《1962年贸易扩展法》第232条: 授权美国总统调查进口产品是否威胁国家安全，并据此征收关税）调查中的半导体和药品关税新影响，其谈判结果存在市场风险，值得投资者关注。此外，由于上周中国突然出台新的稀土限制政策导致中美贸易战升级，未来一周中美关系能否实现软着陆，也备受市场投资者期待。

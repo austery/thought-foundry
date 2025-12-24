@@ -1,38 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 初日醫學
+- Cofit
 date: '2025-02-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 许芷瑜
+- 宋晏仁
+products_models:
+- 211餐盤
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=nj0SKzOUG2Q
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - weight-loss-plateau
-  - metabolic-adaptation
-  - nutrition-deficiency
-  - diet-myths
-  - exercise-strategy
-title: 天天運動、戒澱粉、吃水煮還是胖？減重醫師揭3大燃脂禁忌，更快突破減肥停滯期！
-summary: 許多人努力減重卻頻頻卡關，即使天天運動、只吃水煮餐或嚴格減糖，體重和體脂仍居高不下。初日診所許芷瑜醫師指出，這可能源於三大燃脂禁忌：運動過度導致代謝適應、飲食單一造成營養不良、以及誤食隱藏糖分和添加物的加工食品。文章深入解析這些常見誤區，並提供均衡飲食、適量運動和正確營養攝取等突破減重停滯期的策略。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 许芷瑜
-  - 宋晏仁
-companies_orgs:
-  - 初日診所
-  - 初日醫學
-  - Cofit
-products_models:
-  - 211餐盤
-media_books: []
 status: evergreen
+summary: 許多人努力減重卻頻頻卡關，即使天天運動、只吃水煮餐或嚴格減糖，體重和體脂仍居高不下。初日診所許芷瑜醫師指出，這可能源於三大燃脂禁忌：運動過度導致代謝適應、飲食單一造成營養不良、以及誤食隱藏糖分和添加物的加工食品。文章深入解析這些常見誤區，並提供均衡飲食、適量運動和正確營養攝取等突破減重停滯期的策略。
+tags:
+- adaptation
+- health
+- loss
+- strategy
+title: 天天運動、戒澱粉、吃水煮還是胖？減重醫師揭3大燃脂禁忌，更快突破減肥停滯期！
 ---
+
 ### 減重迷思：為何努力卻不見成效？
 
 許多人對於減重感到困惑與委屈，明明每天運動、只吃水煮餐，甚至嚴格減糖減澱粉，體重和體脂卻依然停滯不前，甚至出現頭暈、發冷等症狀。初日診所許芷瑜醫師指出，這並非個人問題，而是可能踩入了減重過程中的三大燃脂禁忌。

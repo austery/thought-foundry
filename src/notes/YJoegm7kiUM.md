@@ -1,62 +1,59 @@
 ---
-author: Hung-yi Lee
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
+- DeepMind
+- Meta
+- Hugging Face
+- Allen AI
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《孔乙己》
+- 《射雕英雄传》
+people:
+- Sam Altman
+- 李飞飞
+- 谢濬丞
+products_models:
+- ChatGPT
+- Gemini
+- GPT-4
+- GPT-3.5
+- Llama 3
+- OLMo
+- BERT
+- FLAN
+- PaLM
+- InstructGPT
+- Llama 2
+- LIMA
+- Qwen
+- Alpaca
+- Vicuna
+- Mistral
+- Gemma
+- AlphaGo
+- GPT-4o Turbo
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=YJoegm7kiUM
 speaker: Hung-yi Lee
-tags:
-  - llm
-  - pre-training
-  - fine-tuning
-  - reinforcement-learning
-  - data-quality
-title: 大型语言模型的学习历程：预训练、微调与强化学习
-summary: 本课程深入探讨了大型语言模型（LLM）的三个核心训练阶段：预训练（Pre-training）、监督微调（SFT）和人类反馈强化学习（RLHF）。讲者通过生动的比喻和具体案例，阐释了每个阶段的目标、数据需求、技术挑战及其对模型能力的影响。强调了海量高质量数据在预训练中的关键作用，以及SFT和RLHF如何帮助模型对齐人类价值观并提升输出风格，而非灌输新知识。课程还讨论了算力限制、数据质量筛选、知识蒸馏等前沿技术，并对RLHF的优势与挑战进行了深入分析。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Hung-yi Lee
-  - Sam Altman
-  - 李飞飞
-  - 谢濬丞
-companies_orgs:
-  - OpenAI
-  - Google
-  - DeepMind
-  - Meta
-  - Hugging Face
-  - Allen AI
-products_models:
-  - ChatGPT
-  - Gemini
-  - GPT-4
-  - GPT-3.5
-  - Llama 3
-  - OLMo
-  - BERT
-  - FLAN
-  - PaLM
-  - InstructGPT
-  - Llama 2
-  - LIMA
-  - Qwen
-  - Alpaca
-  - Vicuna
-  - Mistral
-  - Gemma
-  - AlphaGo
-  - GPT-4o Turbo
-media_books:
-  - 《孔乙己》
-  - 《射雕英雄传》
 status: evergreen
+summary: 本课程深入探讨了大型语言模型（LLM）的三个核心训练阶段：预训练（Pre-training）、监督微调（SFT）和人类反馈强化学习（RLHF）。讲者通过生动的比喻和具体案例，阐释了每个阶段的目标、数据需求、技术挑战及其对模型能力的影响。强调了海量高质量数据在预训练中的关键作用，以及SFT和RLHF如何帮助模型对齐人类价值观并提升输出风格，而非灌输新知识。课程还讨论了算力限制、数据质量筛选、知识蒸馏等前沿技术，并对RLHF的优势与挑战进行了深入分析。
+tags:
+- data
+- llm
+- reinforcement-learning
+title: 大型语言模型的学习历程：预训练、微调与强化学习
 ---
+
 ### LLM三阶段学习概述
 
 今天的课程是大型语言模型的学习历程，我们将探讨日常使用的人工智能，如 **ChatGPT** 和 **Gemini** 等，它们是如何被打造出来的。大型语言模型的学习历程通常分为三个标准阶段：**Pre-training**（预训练: 大型语言模型训练的第一阶段，通过大量无标注数据学习语言模式）、**SFT**（**Supervised Fine Tuning**: 监督微调，大型语言模型训练的第二阶段，通过人类标注的问题-答案对进行学习）和 **RLHF**（**Reinforcement Learning with Human Feedback**: 人类反馈强化学习，大型语言模型训练的第三阶段，通过人类对模型输出的反馈进行学习）。

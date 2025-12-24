@@ -1,51 +1,49 @@
 ---
-author: Veritasium
-date: '2021-05-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=HeQX2HjkcNo
-speaker: Veritasium
-tags:
-  - veritasium
-  - mathematical-foundations
-  - incompleteness-theorems
-  - undecidability
-  - turing-machine
-  - halting-problem
-title: 数学的根本缺陷：不确定性、不可判定性与现代计算的诞生
-summary: 本文探讨了数学领域中存在的根本性缺陷，即“不确定性”和“不可判定性”。从孪生质数猜想、康威生命游戏等例子出发，深入介绍了康托尔的集合论、罗素悖论，以及哥德尔不完备定理如何揭示了数学系统固有的局限性。最终，文章阐述了图灵如何通过“停机问题”证明了数学的不可判定性，并在此基础上发明了现代计算机，从而改变了世界。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Georg Cantor
-  - John Conway
-  - David Hilbert
-  - Bertrand Russell
-  - Kurt Gödel
-  - Alan Turing
-  - John von Neumann
-  - Lobashevsky
-  - Gauss
-  - Henri Poincaré
-  - Leopold Kronecker
-  - Alfred North Whitehead
-  - Hao Wang
+category: science
 companies_orgs:
-  - Bletchley Park
-products_models:
-  - Conway's Game of Life
-  - ENIAC
+- Bletchley Park
+date: '2021-05-22'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Euclid's Elements
-  - Principia Mathematica
+- Euclid's Elements
+- Principia Mathematica
+people:
+- Georg Cantor
+- John Conway
+- David Hilbert
+- Bertrand Russell
+- Kurt Gödel
+- Alan Turing
+- John von Neumann
+- Lobashevsky
+- Gauss
+- Henri Poincaré
+- Leopold Kronecker
+- Alfred North Whitehead
+- Hao Wang
+- turing-machine
+products_models:
+- Conway's Game of Life
+- ENIAC
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=HeQX2HjkcNo
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了数学领域中存在的根本性缺陷，即“不确定性”和“不可判定性”。从孪生质数猜想、康威生命游戏等例子出发，深入介绍了康托尔的集合论、罗素悖论，以及哥德尔不完备定理如何揭示了数学系统固有的局限性。最终，文章阐述了图灵如何通过“停机问题”证明了数学的不可判定性，并在此基础上发明了现代计算机，从而改变了世界。
+tags:
+- problem
+- science
+- undecidability
+title: 数学的根本缺陷：不确定性、不可判定性与现代计算的诞生
 ---
+
 ### 数学深处的“漏洞”
 
 数学的底层存在一个漏洞。

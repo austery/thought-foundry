@@ -1,46 +1,44 @@
 ---
-author: Veritasium
-date: '2023-05-24'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ZMQbHMgK2rw
-speaker: Veritasium
-tags:
-  - veritasium
-  - robotics-competition
-  - maze-solving
-  - ai-history
-  - engineering-innovation
-  - search-algorithms
-title: 微型鼠：一场持续近半世纪的迷宫竞速与机器人创新之旅
-summary: 本文深入探讨了微型鼠（Micromouse）这项历史悠久的机器人竞赛。从克劳德·香农的早期迷宫鼠“忒修斯”如何启发人工智能领域，到IEEE微型鼠迷宫大赛的诞生与演变，文章详细介绍了比赛规则、多种迷宫求解算法（如深度优先、广度优先和洪水填充），以及推动微型鼠速度与控制力提升的重大创新，包括对角线路径和真空吸附风扇技术。它揭示了这场看似简单的竞赛如何不断挑战机器人软硬件的极限，并鼓励更多人参与其中。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Claude Shannon
-  - Masakazu Utsunomiya
-  - Dick Fosbury
-  - Dave Otten
+category: technology
 companies_orgs:
-  - Google
-  - IEEE
-  - Onshape
+- Google
+- IEEE
+- Onshape
+date: '2023-05-24'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Claude Shannon
+- Masakazu Utsunomiya
+- Dick Fosbury
+- Dave Otten
 products_models:
-  - Theseus
-  - Red Comet
-  - Mitee 3
-  - Mokomo08
-  - Tesla Roadster
-media_books: []
+- Theseus
+- Red Comet
+- Mitee 3
+- Mokomo08
+- Tesla Roadster
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ZMQbHMgK2rw
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了微型鼠（Micromouse）这项历史悠久的机器人竞赛。从克劳德·香农的早期迷宫鼠“忒修斯”如何启发人工智能领域，到IEEE微型鼠迷宫大赛的诞生与演变，文章详细介绍了比赛规则、多种迷宫求解算法（如深度优先、广度优先和洪水填充），以及推动微型鼠速度与控制力提升的重大创新，包括对角线路径和真空吸附风扇技术。它揭示了这场看似简单的竞赛如何不断挑战机器人软硬件的极限，并鼓励更多人参与其中。
+tags:
+- competition
+- history
+- innovation
+- llm
+- maze-solving
+title: 微型鼠：一场持续近半世纪的迷宫竞速与机器人创新之旅
 ---
+
 ### 引言：微型鼠竞赛的魅力与挑战
 
 这只小小的机器人鼠可以在短短六秒内完成迷宫。

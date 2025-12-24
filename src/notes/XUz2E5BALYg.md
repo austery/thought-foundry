@@ -1,55 +1,55 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: finance
+companies_orgs:
+- Bloomberg
+- Century Foundation
+- Consumer Financial Protection Bureau
+- Affirm
+- Klarna
+- LendingTree
+- Axios
+- FICO
+- Synchrony
+- Walmart
+- Amazon
+- Afterpay
+- New York Fed
+- Sallie Mae
+- Navient
 date: '2025-09-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Julie Morgan
+- Rebel Wilson
+- Donald Trump
+products_models:
+- Care Credit
+project:
+- us-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=XUz2E5BALYg
 speaker: Bloomberg Podcasts
-tags:
-  - buy-now-pay-later
-  - consumer-debt
-  - financial-regulation
-  - credit-scoring
-  - economic-inequality
-title: 先买后付（BNPL）的兴起：一场被掩盖的金融危机？
-summary: 本期《Odd Lots》播客探讨了“先买后付”（BNPL）模式的迅速崛起及其深远影响。嘉宾Julie Morgan揭示了BNPL从最初的零利率分期付款演变为包含高利率的短期贷款，以及其在监管、数据透明度和消费者信用评分方面面临的挑战。节目深入分析了BNPL用户从购买奢侈品转向支付生活必需品（如食品和医疗费用）的趋势，并指出这种信贷产品的普及可能掩盖了美国普通家庭日益增长的经济困境和“无声的金融危机”。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Julie Morgan
-  - Rebel Wilson
-  - Donald Trump
-companies_orgs:
-  - Bloomberg
-  - Century Foundation
-  - Consumer Financial Protection Bureau
-  - Affirm
-  - Klarna
-  - LendingTree
-  - Axios
-  - FICO
-  - Synchrony
-  - Walmart
-  - Amazon
-  - Afterpay
-  - New York Fed
-  - Sallie Mae
-  - Navient
-products_models:
-  - Care Credit
-media_books:
-  - Odd Lots
 status: evergreen
+summary: 本期《Odd Lots》播客探讨了“先买后付”（BNPL）模式的迅速崛起及其深远影响。嘉宾Julie Morgan揭示了BNPL从最初的零利率分期付款演变为包含高利率的短期贷款，以及其在监管、数据透明度和消费者信用评分方面面临的挑战。节目深入分析了BNPL用户从购买奢侈品转向支付生活必需品（如食品和医疗费用）的趋势，并指出这种信贷产品的普及可能掩盖了美国普通家庭日益增长的经济困境和“无声的金融危机”。
+tags:
+- buy-now-pay-later
+- credit
+- debt
+- economic-inequality
+- financial-regulation
+title: 先买后付（BNPL）的兴起：一场被掩盖的金融危机？
 ---
+
 ### BNPL的兴起与最初的理解
 
 Tracy: 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Alloway。

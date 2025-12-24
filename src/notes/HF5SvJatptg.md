@@ -1,34 +1,33 @@
 ---
-title: 美中欧贸易战升级，AI泡沫引担忧，科技巨头如何应对？
-summary: 本期节目聚焦美中欧贸易紧张对科技业的影响、全球基金经理对AI估值的警惕、Instagram青少年内容限制新规，以及AMD、Salesforce、Tonal等公司在AI和市场策略上的最新动态。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
-tags:
-- ai-bubble
-- enterprise-ai
-- instagram-policy
-- tech-industry
-- us-china-trade
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-14'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=HF5SvJatptg
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期节目聚焦美中欧贸易紧张对科技业的影响、全球基金经理对AI估值的警惕、Instagram青少年内容限制新规，以及AMD、Salesforce、Tonal等公司在AI和市场策略上的最新动态。
+tags:
+- ai-bubble
+- enterprise-ai
+- industry
+- policy
+- us-china-relations
+title: 美中欧贸易战升级，AI泡沫引担忧，科技巨头如何应对？
 ---
+
 ### 市场概览：地缘政治与AI泡沫下的不安情绪
 
 Bloomberg: Bloomberg Tech is live from coast to coast with Caroline Hyde in New York and Ed Lelo in San Francisco.

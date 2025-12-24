@@ -1,49 +1,52 @@
 ---
-author: Anthropic
+area: society-systems
+category: science
+companies_orgs:
+- Anthropic
+- FDA
+- Arc Institute
+- Sage Bionetworks
+- Eli Lilly
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Machines of Loving Grace
+people:
+- Jonah Cool
+- Eric Kauderer-Abrams
+- Dario Amodei
+products_models:
+- Claude
+- Sonnet 4.5
+- Claude Code
+- Benchling
+- 10x Genomics
+- Cell Ranger
+- PubMed
+- BioRender
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=sHImlfVM9r4
 speaker: Anthropic
-tags:
-  - life-sciences-ai
-  - scientific-discovery
-  - experiment-automation
-  - responsible-ai
-  - biosecurity
-title: Anthropic 推出 Claude 生命科学版：赋能生物研究，加速科学发现
-summary: Anthropic 两位生命科学负责人 Jonah Cool 和 Eric Kauderer-Abrams 深入探讨了 Claude 在生命科学领域的应用。他们强调，Anthropic 致力于利用前沿 AI 加速生物研究，将 Claude 打造成科学家的高效助手。讨论涵盖了 Claude 如何提升科学家生产力、其在生物信息学和实验设计中的现有能力（如 Sonnet 4.5 和 Claude Code），以及未来在自动化实验、从自然数据中学习方面的愿景。Anthropic 还强调了与生态伙伴的合作，并重申了在生物安全和负责任 AI 发展方面的核心承诺。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Jonah Cool
-  - Eric Kauderer-Abrams
-  - Dario Amodei
-companies_orgs:
-  - Anthropic
-  - FDA
-  - Arc Institute
-  - Sage Bionetworks
-  - Eli Lilly
-products_models:
-  - Claude
-  - Sonnet 4.5
-  - Claude Code
-  - Benchling
-  - 10x Genomics
-  - Cell Ranger
-  - PubMed
-  - BioRender
-media_books:
-  - Machines of Loving Grace
 status: evergreen
+summary: Anthropic 两位生命科学负责人 Jonah Cool 和 Eric Kauderer-Abrams 深入探讨了 Claude 在生命科学领域的应用。他们强调，Anthropic
+  致力于利用前沿 AI 加速生物研究，将 Claude 打造成科学家的高效助手。讨论涵盖了 Claude 如何提升科学家生产力、其在生物信息学和实验设计中的现有能力（如
+  Sonnet 4.5 和 Claude Code），以及未来在自动化实验、从自然数据中学习方面的愿景。Anthropic 还强调了与生态伙伴的合作，并重申了在生物安全和负责任
+  AI 发展方面的核心承诺。
+tags:
+- experiment-automation
+- health
+- life
+- llm
+- scientific-discovery
+title: Anthropic 推出 Claude 生命科学版：赋能生物研究，加速科学发现
 ---
+
 ### Claude 在生命科学中的潜力
 
 **Eric Kauderer-Abrams:** 最终，我们花了三个月的时间，实验室里很多人日以继夜地工作，才解决了那个问题。

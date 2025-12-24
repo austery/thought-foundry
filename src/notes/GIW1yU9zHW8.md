@@ -1,61 +1,59 @@
 ---
-author: All-In Podcast
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Vanguard
+- Yale Budget Lab
+- Semaphore
+- Future of Life Institute
+- Ethereum
+- Nvidia
+- Google
+- Tesla
+- AT&T
+- Bell Labs
+- Moody's
+- SMIC
+- Huawei
+- ASML
+- Carl Zeiss
+- TSMC
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Bernie Sanders
+- Elon Musk
+- Tucker Carlson
+- David Saxsberg
+- Jim O'Shaughnessy
+- Peter Thiel
+- Donald Trump
+- Joe Biden
+- Mike Pompeo
+- Vitalic Buterin
+products_models:
+- GPT-4
+- H100s
+- Mate 60 Pro
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=GIW1yU9zHW8
 speaker: All-In Podcast
-tags:
-  - ai-policy
-  - us-china-relations
-  - economic-outlook
-  - semiconductor-manufacturing
-  - llm
-title: 伯尼·桑德斯呼吁暂停AI，中国EUV突破，通胀下降与2026年黄金时代？
-summary: 本期All-In播客深入探讨了**伯尼·桑德斯**提出的AI数据中心暂停议题，并就AI对就业、儿童社交的影响展开辩论。节目还关注了**中国在EUV光刻技术**上的进展及其对全球AI竞赛的影响。此外，嘉宾们分析了美国最新的经济数据，包括通胀率下降和就业市场情况，并预测2026年可能迎来经济黄金时代。讨论还触及了科技巨头在AI领域的投资、公众对AI的认知偏差以及美国在半导体制造领域的挑战。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Bernie Sanders
-  - Elon Musk
-  - Tucker Carlson
-  - David Saxsberg
-  - Jim O'Shaughnessy
-  - Peter Thiel
-  - Donald Trump
-  - Joe Biden
-  - Mike Pompeo
-  - Vitalic Buterin
-companies_orgs:
-  - OpenAI
-  - Vanguard
-  - Yale Budget Lab
-  - Semaphore
-  - Future of Life Institute
-  - Ethereum
-  - Nvidia
-  - Google
-  - Tesla
-  - AT&T
-  - Bell Labs
-  - Moody's
-  - SMIC
-  - Huawei
-  - ASML
-  - Carl Zeiss
-  - TSMC
-products_models:
-  - GPT-4
-  - H100s
-  - Mate 60 Pro
-media_books: []
 status: evergreen
+summary: 本期All-In播客深入探讨了**伯尼·桑德斯**提出的AI数据中心暂停议题，并就AI对就业、儿童社交的影响展开辩论。节目还关注了**中国在EUV光刻技术**上的进展及其对全球AI竞赛的影响。此外，嘉宾们分析了美国最新的经济数据，包括通胀率下降和就业市场情况，并预测2026年可能迎来经济黄金时代。讨论还触及了科技巨头在AI领域的投资、公众对AI的认知偏差以及美国在半导体制造领域的挑战。
+tags:
+- economic-outlook
+- policy
+- semiconductor-manufacturing
+- us-china-relations
+title: 伯尼·桑德斯呼吁暂停AI，中国EUV突破，通胀下降与2026年黄金时代？
 ---
+
 All right, everybody. Welcome back to your favorite podcast, the number one podcast. In fact, in the entire universe, the Allin podcast with your besties. We're all here. It's the original quartet. Everybody loves when the Core Four are here. And we have a docket for you today, guys. We got to start out with **Bernie Sanders**. I know this is becoming a bit repetitive, but **AI** is the topic. We reached a new level of retardation this week that we cannot avoid. Bernie Sanders has a major pitch, a moratorium on new AI data centers. Here's his argument. Number one, the billionaires are pushing AI because they want more money and power. Number two, there's going to be massive unemployment. And he cites Skates, Staro, Elon, saying that AI would replace most jobs. Number three, he has an interesting point actually. AI is harmful to kids because it decreases social interaction. Actually, we kind of agree with that one, I think, across the board.
 
 But here's his pitch, Sachs. His pitch.

@@ -1,31 +1,30 @@
 ---
-title: AI的本质：一场平台转移，而非革命或末日——兼论谷歌的“柯达时刻”
-summary: 节目深入探讨AI作为第四次平台转移，而非革命或末日。通过历史案例，分析科技巨头对AI的“恐惧”及“创新者窘境”，并剖析AI对谷歌商业模式与用户习惯的深远影响，最后提出个人应对策略。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- google-kodak-moment
-- platform-shift
-- tech-industry
-people:
-- benedict-evans
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-08'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- benedict-evans
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=he7expgQ5Ls
+speaker: 北美王路飞
 status: evergreen
+summary: 节目深入探讨AI作为第四次平台转移，而非革命或末日。通过历史案例，分析科技巨头对AI的“恐惧”及“创新者窘境”，并剖析AI对谷歌商业模式与用户习惯的深远影响，最后提出个人应对策略。
+tags:
+- industry
+- platform
+title: AI的本质：一场平台转移，而非革命或末日——兼论谷歌的“柯达时刻”
+companies:
+- google-kodak-moment
 ---
+
 ### 引言：重新审视AI的本质
 
 本期节目将分享一个关于**人工智能**（AI: Artificial Intelligence，模拟、延伸和扩展人类智能的理论、方法、技术及应用系统）的深刻看法，即AI的真相并非革命或末日，而是继iPhone之后最重要的一次技术飞跃。

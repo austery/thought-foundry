@@ -1,53 +1,52 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Democratic National Committee
+- White House
+- FBI
+- Congress
 date: '2025-09-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《2024》
+- YouTube
+people:
+- Joe Biden
+- Donald Trump
+- Hunter Biden
+- James Biden
+- Kamala Harris
+- Barack Obama
+- Anita Dunn
+- Mike Donilon
+- Jen O'Malley Dillon
+- Bob Bauer
+- Abbe Lowell
+- Paul Ryan
+- Jack Kennedy
+- Robert Hur
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qkHLrIxXZls
 speaker: 北美王路飞
-tags:
-  - us-election-2024
-  - campaign-strategy
-  - political-polarization
-  - systemic-failure
-  - leadership-challenges
-title: 梦游走向灾难：复盘拜登2024竞选的致命缺陷
-summary: 本文深入剖析了美国总统拜登2024年连任竞选的幕后故事，揭示了其“梦游式”的决策过程、内部的疑虑与混乱。从拜登的年龄、家族丑闻（尤其是亨特·拜登的法律问题），到竞选团队的运作失灵和对真实民意的选择性忽视，文章详细阐述了这些致命缺陷如何共同导致了一场充满惯性、恐惧和危机管理的选战，最终暴露出民主党体系的深层问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Joe Biden
-  - Donald Trump
-  - Hunter Biden
-  - James Biden
-  - Kamala Harris
-  - Barack Obama
-  - Anita Dunn
-  - Mike Donilon
-  - Jen O'Malley Dillon
-  - Bob Bauer
-  - Abbe Lowell
-  - Paul Ryan
-  - Jack Kennedy
-  - Robert Hur
-companies_orgs:
-  - Democratic National Committee
-  - White House
-  - FBI
-  - Congress
-products_models: []
-media_books:
-  - 《2024》
-  - YouTube
 status: evergreen
+summary: 本文深入剖析了美国总统拜登2024年连任竞选的幕后故事，揭示了其“梦游式”的决策过程、内部的疑虑与混乱。从拜登的年龄、家族丑闻（尤其是亨特·拜登的法律问题），到竞选团队的运作失灵和对真实民意的选择性忽视，文章详细阐述了这些致命缺陷如何共同导致了一场充满惯性、恐惧和危机管理的选战，最终暴露出民主党体系的深层问题。
+tags:
+- campaign-strategy
+- failure
+- leadership-challenge
+- us-election-2024
+title: 梦游走向灾难：复盘拜登2024竞选的致命缺陷
 ---
+
 ### 序言：一场“梦游”般的连任之路
 
 大家好，欢迎来到我的频道。今天我们继续探讨《2024》这本书的新一集节目。上一集我们聊了特朗普如何击败党内竞争对手德桑蒂斯，那么今天，我们将聚焦民主党这边的故事。民主党最大的热门候选人无疑是当时的美国现任总统拜登。他的竞选连任，照理说应该是万众瞩目，但实际上，如果大家记得的话，拜登2024年的连任之路从一开始就不是一个深思熟虑的决定，按照作者的说法，更像是一场“**梦游**”（sleepwalking）。

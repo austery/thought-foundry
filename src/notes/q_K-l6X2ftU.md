@@ -1,30 +1,28 @@
 ---
-title: 内向者的宣言：关于派对、观察与尊重边界的幽默洞察
-summary: 喜剧演员莎勒瓦·夏普以幽默方式分享了内向者的心声，呼吁外向者尊重内向者的舒适区和观察方式。她还妙趣横生地评论了资本主义、物理疗法以及夜店厕所的奇怪设计和设施。
 area: null
 category: null
-project: []
-tags:
-- humor
-- introversion
-- personal-boundaries
-- self-care
-- social-dynamics
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-14'
-author: TED
-speaker: TED
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q_K-l6X2ftU
+speaker: TED
 status: evergreen
+summary: 喜剧演员莎勒瓦·夏普以幽默方式分享了内向者的心声，呼吁外向者尊重内向者的舒适区和观察方式。她还妙趣横生地评论了资本主义、物理疗法以及夜店厕所的奇怪设计和设施。
+tags:
+- humor
+- introversion
+- personal
+- self
+- social-dynamic
+title: 内向者的宣言：关于派对、观察与尊重边界的幽默洞察
 ---
+
 ### 开场白：幽默与忙碌的自我介绍
 
 很高兴来到这里。不幸的是，兴奋时就这个表现。不想给大家太多。要告诉你，你们在这见到我真幸运。我很忙，是一个忙碌的人，有很多事情要做。正在做很多项目，目前正在做一个项目。

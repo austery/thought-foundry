@@ -1,42 +1,42 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Center for International Governance Innovation
+- ASEAN
+- G7
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- TVO Today
+people:
+- Mark Carney
+- Donald Trump
+- Xi Jinping
+- Arie Lani
+- Anita Anand
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=9JdCI27AkB0
 speaker: TVO Today
-tags:
-  - canadian-foreign-policy
-  - asia-engagement
-  - global-order-shift
-  - bilateral-relations
-  - pragmatic-diplomacy
-title: 加拿大外交政策：全球变局下，亚洲是新方向吗？
-summary: 在世界经济经历深刻变革之际，马克·卡尼强调，旧有的规则导向型开放贸易模式已不再适用。本文探讨了加拿大在日益多极化的世界中，如何重新定位其外交政策，特别是加强与亚洲（包括中国和印度）的关系，以应对美国可能退出全球秩序的挑战。前加拿大驻华大使阿里·拉尼认为，加拿大在亚洲问题上错失了十年，现在必须务实地与非同道国家接触，并积极参与塑造国际秩序。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Mark Carney
-  - Donald Trump
-  - Xi Jinping
-  - Arie Lani
-  - Anita Anand
-companies_orgs:
-  - Center for International Governance Innovation
-  - ASEAN
-  - G7
-products_models: []
-media_books:
-  - TVO Today
 status: evergreen
+summary: 在世界经济经历深刻变革之际，马克·卡尼强调，旧有的规则导向型开放贸易模式已不再适用。本文探讨了加拿大在日益多极化的世界中，如何重新定位其外交政策，特别是加强与亚洲（包括中国和印度）的关系，以应对美国可能退出全球秩序的挑战。前加拿大驻华大使阿里·拉尼认为，加拿大在亚洲问题上错失了十年，现在必须务实地与非同道国家接触，并积极参与塑造国际秩序。
+tags:
+- canadian-foreign-policy
+- diplomacy
+- global
+- llm
+- relations
+title: 加拿大外交政策：全球变局下，亚洲是新方向吗？
 ---
+
 ### 全球秩序变革与加拿大的战略考量
 
 马克·卡尼在上周的**APEC**（Asia-Pacific Economic Cooperation: 亚太经济合作组织）峰会上直言不讳。他告诉亚太地区领导人，旧有的基于规则的开放贸易模式已不再奏效，全球经济正经历一个深刻变革的时期，其深刻程度堪比1989年柏林墙倒塌以来的任何时期。

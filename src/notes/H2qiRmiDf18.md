@@ -1,51 +1,50 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 传统基金会
+- Foundation
+- Polymarket
+- FBI
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交事务》
+- 《The Daily Beast》
+people:
+- 特朗普
+- 唐纳德·特朗普
+- 罗德里克·布雷
+- 麦克·博哈萨克
+- 格雷戈里·古德
+- 苏格里克
+- 埃桑·哈切尔
+- 约翰逊
+- 王靖瑜
+- 琳达·罗杰斯
+- 拜登
+- 班农
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=H2qiRmiDf18
 speaker: 北美王路飞
-tags:
-  - gerrymandering
-  - political-polarization
-  - voter-representation
-  - party-internal-conflict
-  - media-manipulation
-title: 印第安纳州选区重划失败：特朗普党内围剿与民主韧性的一次关键对决
-summary: 特朗普为夺取印第安纳州全部9个众议院席位，动用联邦资源、施加死亡威胁与资金勒索，推动极端选区重划，却遭本党议员集体抵制。这一事件暴露了政党极化下的民主机制韧性，也折射出中间选民对政治操弄的普遍反感。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 特朗普
-  - 唐纳德·特朗普
-  - 罗德里克·布雷
-  - 麦克·博哈萨克
-  - 格雷戈里·古德
-  - 苏格里克
-  - 埃桑·哈切尔
-  - 约翰逊
-  - 王靖瑜
-  - 琳达·罗杰斯
-  - 拜登
-  - 班农
-companies_orgs:
-  - 传统基金会
-  - Foundation
-  - Polymarket
-  - FBI
-products_models: []
-media_books:
-  - 《外交事务》
-  - 《The Daily Beast》
 status: evergreen
+summary: 特朗普为夺取印第安纳州全部9个众议院席位，动用联邦资源、施加死亡威胁与资金勒索，推动极端选区重划，却遭本党议员集体抵制。这一事件暴露了政党极化下的民主机制韧性，也折射出中间选民对政治操弄的普遍反感。
+tags:
+- conflict
+- geopolitical
+- gerrymandering
+- media
+title: 印第安纳州选区重划失败：特朗普党内围剿与民主韧性的一次关键对决
 ---
+
 ### 特朗普的选区重划野心：从政治操弄到党内反噬
 
 最近，印第安纳州发生了一场震动全美政坛的事件：特朗普为推动该州选区重划（gerrymandering），试图将原本7比2的共和党优势，强行变为9比0的“全红州”，却遭遇本党议员集体抵制，最终投票以31票反对、19票支持惨败。这场失败不仅是一次政策挫败，更是美国政治极化下民主机制的一次关键韧性测试。

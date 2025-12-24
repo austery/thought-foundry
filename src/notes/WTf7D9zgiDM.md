@@ -1,40 +1,39 @@
 ---
-author: 徒步的騎手
-date: 2025-01-05
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=WTf7D9zgiDM'
-speaker: 徒步的騎手
-tags:
-  - china-economic-downturn
-  - us-china-relations
-  - political-control
-  - societal-response
-  - value-systems
-title: 中国经济下沉年代：趋势、挑战与国民心态的深层分析
-summary: 本文深入分析了中国经济过去十年的下沉趋势，从外汇储备变化、中美关系恶化、政治控制加强等多个维度，探讨了社会各阶层（先知先觉、后知后觉）的不同应对。文章强调了理解历史趋势的重要性，并结合美国国民心态和价值认同，剖析了中美关系从经济互惠转向“生死存亡的威胁”的深层原因，最终展望了中国经济未来可能面临的漫长修复期及个人应对之道。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 孙中山
-  - 龚纳·梅德尔
-  - 李嘉诚
-  - 高善文
-  - 毛
+category: geopolitics
 companies_orgs:
-  - 华尔街
-  - Pew
-  - 中国统计局
-products_models: '[]'
+- 华尔街
+- Pew
+- 中国统计局
+date: 2025-01-05
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- 孙中山
+- 龚纳·梅德尔
+- 李嘉诚
+- 高善文
+- 毛
+products_models: '[]'
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=WTf7D9zgiDM
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入分析了中国经济过去十年的下沉趋势，从外汇储备变化、中美关系恶化、政治控制加强等多个维度，探讨了社会各阶层（先知先觉、后知后觉）的不同应对。文章强调了理解历史趋势的重要性，并结合美国国民心态和价值认同，剖析了中美关系从经济互惠转向“生死存亡的威胁”的深层原因，最终展望了中国经济未来可能面临的漫长修复期及个人应对之道。
+tags:
+- china-economic-downturn
+- political-control
+- societal
+- system
+- us-china-relations
+title: 中国经济下沉年代：趋势、挑战与国民心态的深层分析
 ---
 
 ### 理解时代趋势：从个别事件到整体脉络

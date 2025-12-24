@@ -1,59 +1,58 @@
 ---
-author: 记者易速利
+area: society-systems
+category: culture
+companies_orgs:
+- Netflix
+- 日本网球协会
+- Lowenstein Sandler
+- 日本驻纽约总领馆
+- 大都会艺术博物馆
 date: '2025-10-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《纽约邮报》
+- 《读卖新闻》
+- Twitter
+- 《日本时报》
+people:
+- 真子公主
+- 小室圭
+- 悠仁亲王
+- 文仁亲王
+- 纪子妃
+- 佳子公主
+- 哈里王子
+- 梅根·马克尔
+- 戴安娜王妃
+- 温莎公爵
+- 温莎公爵夫人
+- 德仁天皇
+- 美智子皇后
+- 雅子皇后
+- 爱子公主
+- 夏洛特公主
+- 董喜莹
+- 大坂直美
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=eHJUdfcvX7Y
 speaker: 记者易速利
-tags:
-  - japanese-imperial-family
-  - royal-succession
-  - public-scrutiny
-  - low-key-lifestyle
-  - gender-roles
-title: 日本真子公主：曼哈顿的隐居生活与皇室传统的挑战
-summary: 本文探讨了日本真子公主与平民小室圭结婚后，放弃皇室身份、移居纽约的低调生活。文章对比了她与英国哈里王子夫妇等其他皇室成员的不同选择，并深入分析了日本皇室女性所面临的巨大舆论压力、传统束缚以及公众对皇位继承制度改革的呼声。真子公主的故事展现了在现代社会中，个人对内心安宁与私密生活的追求，以及对传统观念的挑战。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 真子公主
-  - 小室圭
-  - 悠仁亲王
-  - 文仁亲王
-  - 纪子妃
-  - 佳子公主
-  - 哈里王子
-  - 梅根·马克尔
-  - 戴安娜王妃
-  - 温莎公爵
-  - 温莎公爵夫人
-  - 德仁天皇
-  - 美智子皇后
-  - 雅子皇后
-  - 爱子公主
-  - 夏洛特公主
-  - 董喜莹
-  - 大坂直美
-companies_orgs:
-  - Netflix
-  - 日本网球协会
-  - Lowenstein Sandler
-  - 日本驻纽约总领馆
-  - 大都会艺术博物馆
-products_models: []
-media_books:
-  - 《纽约邮报》
-  - 《读卖新闻》
-  - Twitter
-  - 《日本时报》
 status: evergreen
+summary: 本文探讨了日本真子公主与平民小室圭结婚后，放弃皇室身份、移居纽约的低调生活。文章对比了她与英国哈里王子夫妇等其他皇室成员的不同选择，并深入分析了日本皇室女性所面临的巨大舆论压力、传统束缚以及公众对皇位继承制度改革的呼声。真子公主的故事展现了在现代社会中，个人对内心安宁与私密生活的追求，以及对传统观念的挑战。
+tags:
+- family
+- gender-role
+- life
+- public
+- royal-succession
+title: 日本真子公主：曼哈顿的隐居生活与皇室传统的挑战
 ---
 
 ### 日本皇室的悠久传统与继承挑战

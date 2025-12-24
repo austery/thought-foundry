@@ -1,39 +1,37 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: psychology
+companies_orgs:
+- 初日診所
+- 世界銀行
+- 巴西聖保羅大學
 date: '2025-02-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《刺胳針》
+people:
+- 王律婷
+- 李唐越
+- 魏醫師
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=wDidoLpHlbE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - ultra-processed-foods
-  - sugar-addiction
-  - child-health
-  - dietary-habits
-  - brain-reward-system
-title: 儿童成长警报：超加工食品的隐形威胁，比吸烟更伤健康？
-summary: 本视频深入探讨了超加工食品对儿童健康的深远影响，揭示其如何通过刺激大脑奖赏机制导致成瘾，并引发肥胖、慢性病及生长发育迟缓等问题。专家指出，不良饮食习惯已超越吸烟成为全球早期死亡的主要原因。文章提供了识别超加工食品的NOVA分类法和红绿灯指南，并分享了家庭建立健康饮食环境及个人戒断糖瘾的实用策略，呼吁家长关注并逐步引导孩子远离隐形健康杀手。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 王律婷
-  - 李唐越
-  - 魏醫師
-companies_orgs:
-  - 初日診所
-  - 世界銀行
-  - 巴西聖保羅大學
-products_models: []
-media_books:
-  - 《刺胳針》
 status: evergreen
+summary: 本视频深入探讨了超加工食品对儿童健康的深远影响，揭示其如何通过刺激大脑奖赏机制导致成瘾，并引发肥胖、慢性病及生长发育迟缓等问题。专家指出，不良饮食习惯已超越吸烟成为全球早期死亡的主要原因。文章提供了识别超加工食品的NOVA分类法和红绿灯指南，并分享了家庭建立健康饮食环境及个人戒断糖瘾的实用策略，呼吁家长关注并逐步引导孩子远离隐形健康杀手。
+tags:
+- health
+- system
+- ultra-processed-food
+title: 儿童成长警报：超加工食品的隐形威胁，比吸烟更伤健康？
 ---
+
 ### 引言：被忽视的健康警报
 
 一位小朋友曾分享，他从国中到高中，放学后习惯先去便利商店买一包洋芋片，再去隔壁买一杯奶茶。这种看似无害的日常习惯，却可能隐藏着巨大的健康风险。当孩子哭闹时，我们常用糖果安抚；逛便利商店时，也顺手拿几包零食点心。然而，这些“健康零食”的背后，可能潜藏着比吸烟更严重的健康威胁。

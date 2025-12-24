@@ -1,35 +1,34 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs: []
 date: '2025-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李克强
+products_models:
+- Fisher Equation
+project:
+- investment-strategy
+- market-cycles
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=qDwV3rLdejc
 speaker: 海淀拙大叔
-tags:
-  - monetary-policy
-  - inflation-dynamics
-  - asset-transmission
-  - market-timing
-  - economic-cycles
-title: 人民币的传导逻辑：理解货币周期与资产配置
-summary: 本期“阿甘宏观市场论”深入探讨了货币传导的复杂机制。节目解释了货币“放水”如何先推高资产价格（如债券、股票、房产），再逐步影响商品价格（如食品、工业品）。通过引入**费雪方程**（Fisher Equation）阐明货币流通速度在通胀中的关键作用，并结合2014-2015年的历史数据，预测了2023-2025年间的市场走势和潜在投资机遇，强调理解货币周期对财富增值的核心意义。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - china-analysis
-people:
-  - 李克强
-companies_orgs: []
-products_models:
-  - Fisher Equation
-media_books: []
 status: evergreen
+summary: 本期“阿甘宏观市场论”深入探讨了货币传导的复杂机制。节目解释了货币“放水”如何先推高资产价格（如债券、股票、房产），再逐步影响商品价格（如食品、工业品）。通过引入**费雪方程**（Fisher
+  Equation）阐明货币流通速度在通胀中的关键作用，并结合2014-2015年的历史数据，预测了2023-2025年间的市场走势和潜在投资机遇，强调理解货币周期对财富增值的核心意义。
+tags:
+- asset
+- economic-cycle
+- inflation-dynamic
+- market
+title: 人民币的传导逻辑：理解货币周期与资产配置
 ---
+
 ### 开启宏观经济新篇章：理解货币的奥秘
 
 今天，我们将开启一个全新的专题——“阿甘经济宏观论”。之所以设立这个专题，是因为近期许多朋友都在询问股票何时调整、房价何时能上涨等问题。这些问题的背后，都指向了一个核心因素：货币。因此，我们今天将专门探讨经济宏观论，第一集的主题是“人民币说，只有懂我，我才是你的”。在深入探讨股票和房价的未来走势之前，我们首先需要理解三个关键的知识点。

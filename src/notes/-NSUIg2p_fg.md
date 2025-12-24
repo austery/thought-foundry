@@ -1,60 +1,60 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Google
+- Project Pinpoint
+- AIPAC
+- FBI
+- Department of Justice
+- Mossad
+- The New York Times
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily Beast
+- 《Fire and Fury》
+- 《Nobody's Girl》
+people:
+- Donald Trump
+- Bill Clinton
+- Jeffrey Epstein
+- Ghislaine Maxwell
+- Marjorie Taylor Greene
+- Lauren Boebert
+- Nancy Mace
+- Thomas Massie
+- Virginia Giuffre
+- Prince Andrew
+- Steve Bannon
+- Larry Summers
+- Michael Wolff
+- Alexander Acosta
+- Ehud Barak
+- Robert Maxwell
+- Barack Obama
+- Hillary Clinton
+- Joe Biden
+products_models: []
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=-NSUIg2p_fg
 speaker: 北美王路飞
-tags:
-  - epstein-documents
-  - political-infighting
-  - elite-distrust
-  - public-transparency
-title: 爱泼斯坦邮件曝光：特朗普深陷泥潭与共和党内部分裂
-summary: 近期公开的爱泼斯坦邮件将特朗普置于舆论风暴中心，邮件内容暗示其与爱泼斯坦网络有深度关联。与此同时，共和党内部因是否应全面公开所有调查文件而产生严重分裂。以MTG为首的四名共和党议员不顾特朗普的巨大压力，选择与民主党人站在一起，要求信息透明，揭示了党内深刻的矛盾。事件不仅考验着特朗普的政治前途，也反映出美国社会对精英阶层普遍且根深蒂固的不信任感。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Donald Trump
-  - Bill Clinton
-  - Jeffrey Epstein
-  - Ghislaine Maxwell
-  - Marjorie Taylor Greene
-  - Lauren Boebert
-  - Nancy Mace
-  - Thomas Massie
-  - Virginia Giuffre
-  - Prince Andrew
-  - Steve Bannon
-  - Larry Summers
-  - Michael Wolff
-  - Alexander Acosta
-  - Ehud Barak
-  - Robert Maxwell
-  - Barack Obama
-  - Hillary Clinton
-  - Joe Biden
-companies_orgs:
-  - Google
-  - Project Pinpoint
-  - AIPAC
-  - FBI
-  - Department of Justice
-  - Mossad
-  - The New York Times
-products_models: []
-media_books:
-  - The Daily Beast
-  - 《Fire and Fury》
-  - 《Nobody's Girl》
 status: evergreen
+summary: 近期公开的爱泼斯坦邮件将特朗普置于舆论风暴中心，邮件内容暗示其与爱泼斯坦网络有深度关联。与此同时，共和党内部因是否应全面公开所有调查文件而产生严重分裂。以MTG为首的四名共和党议员不顾特朗普的巨大压力，选择与民主党人站在一起，要求信息透明，揭示了党内深刻的矛盾。事件不仅考验着特朗普的政治前途，也反映出美国社会对精英阶层普遍且根深蒂固的不信任感。
+tags:
+- code
+- political
+- public
+- society
+title: 爱泼斯坦邮件曝光：特朗普深陷泥潭与共和党内部分裂
 ---
+
 ### 前言：两份不同的爱泼斯坦文件
 
 今天我们主要讨论的是杰弗里·爱泼斯坦的遗产文件公开事件。首先必须厘清，这份文件与目前众议院及参议院即将投票表决的爱泼斯坦文件并非同一事物。我们今天要讲的，是近两日由民主党和共和党的众议院监督委员会分别公开的爱泼斯坦邮件。

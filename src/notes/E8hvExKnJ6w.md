@@ -1,30 +1,28 @@
 ---
-title: 基因霸權之夢：精英階層壟斷優質基因的努力為何注定失敗？
-summary: 全球精英正試圖透過基因篩選與改造，壟斷優質基因以實現財富與權力的世代傳承。本文深入探討了這一「基因霸權」現象，分析其背後的哲學基礎與產業推動，並從基因多樣性、文化因素及技術風險等多維度，論證了這場逆天而行之夢終將失敗的必然性。
 area: tech-insights
 category: technology
-project: []
-tags:
-- eugenics
-- gene-hegemony
-- longtermism
-- technological-hubris
-- wealth-inequality
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-21'
-author: 政經孫老師
-speaker: 政經孫老師
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=E8hvExKnJ6w
+speaker: 政經孫老師
 status: evergreen
+summary: 全球精英正試圖透過基因篩選與改造，壟斷優質基因以實現財富與權力的世代傳承。本文深入探討了這一「基因霸權」現象，分析其背後的哲學基礎與產業推動，並從基因多樣性、文化因素及技術風險等多維度，論證了這場逆天而行之夢終將失敗的必然性。
+tags:
+- geopolitical
+- health
+- investment
+- technological
+- wealth-inequality
+title: 基因霸權之夢：精英階層壟斷優質基因的努力為何注定失敗？
 ---
+
 ### 引言：基因霸權的崛起與精英的永恆統治夢想
 
 當前，「**基因霸權**」（Gene Hegemony: 指全球精英階層試圖壟斷並傳遞所謂的「優質基因」，以維持其財富、權力和社會地位，實現永久性統治的現象）這一概念正逐漸浮出水面。它描述的是全球精英階層試圖壟斷優秀基因，並將其一代代傳遞下去，以此來維持自身財富與權力，最終實現永久性統治的願景。這聽起來或許像是科幻小說的情節，但實際上，它正真實地發生在我們的周圍。

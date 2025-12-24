@@ -1,47 +1,47 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Oracle
+- Nvidia
+- Tesla
+- US Treasury
+- OpenAI
+- S&P 500
+- Nasdaq
+- Dow Jones
+- Russell 2000
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 彭博
+people:
+- Jerome Powell
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=okRRWv_J5NY
 speaker: 投资TALK君
-tags:
-  - federal-reserve
-  - interest-rate-cuts
-  - employment-cost-index
-  - oracle-earnings
-  - reserve-management-operations
-  - market-liquidity
-title: 深度解析美联储会议：QE信号浮现？Oracle财报引爆市场波动
-summary: 本期节目深度解析了近期美联储会议的关键信息，包括对未来降息路径的预测、点阵图的分歧以及市场高度关注的准备金管理操作（QE信号）。节目还详细剖析了Oracle（ORCL）的财报表现及其引发的市场反应，探讨了公司债务管理和资本开支策略。同时，分析了ECI数据对劳动力市场的启示，并结合技术面和宏观因素，分享了作者的盘后操作和投资逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - investment-strategy
-people:
-  - Jerome Powell
-  - Donald Trump
-companies_orgs:
-  - Federal Reserve
-  - Oracle
-  - Nvidia
-  - Tesla
-  - US Treasury
-  - OpenAI
-  - S&P 500
-  - Nasdaq
-  - Dow Jones
-  - Russell 2000
-products_models: []
-media_books:
-  - 彭博
 status: evergreen
+summary: 本期节目深度解析了近期美联储会议的关键信息，包括对未来降息路径的预测、点阵图的分歧以及市场高度关注的准备金管理操作（QE信号）。节目还详细剖析了Oracle（ORCL）的财报表现及其引发的市场反应，探讨了公司债务管理和资本开支策略。同时，分析了ECI数据对劳动力市场的启示，并结合技术面和宏观因素，分享了作者的盘后操作和投资逻辑。
+tags:
+- cost
+- earning
+- federal-reserve
+- interest-rate-cut
+- management
+- market-liquidity
+title: 深度解析美联储会议：QE信号浮现？Oracle财报引爆市场波动
 ---
+
 ### 会议前市场概览与关键经济数据
 
 今天要聊的内容非常的多，我今天也忙了一天，所以前面就废话不多说了，直接开始和大家去聊一下这一次的美联储会议，然后聊一下周三盘后发布财报的Oracle，好吗？

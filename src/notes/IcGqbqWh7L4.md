@@ -1,43 +1,42 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- Visma
+- Nestle
+- Fresenius
+- Arthur Andersen
+- EY
+- Enron
 date: '2025-05-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Merete Hverven
+- Mark Schneider
+- Christian
+- Nikolai
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=IcGqbqWh7L4
 speaker: Norges Bank Investment Management
-tags:
-  - leadership-development
-  - organizational-culture
-  - diversity-inclusion
-  - innovation-management
-  - crisis-resilience
-title: 领导力、文化与多元化：企业成功的基石
-summary: 在2025年投资大会的这场小组讨论中，Visma首席执行官梅雷特·赫韦恩和前雀巢首席执行官马克·施耐德深入探讨了领导力、企业文化和多元化的关键作用。他们分享了各自在人力资源、危机管理和组织发展方面的宝贵经验，强调了以人为本的领导哲学、多元化团队对创新的推动作用，以及在不确定环境中通过强大文化实现韧性的重要性。讨论还触及了女性在职场中的发展挑战，以及如何平衡创新风险与组织目标。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Merete Hverven
-  - Mark Schneider
-  - Christian
-  - Nikolai
-companies_orgs:
-  - Norges Bank Investment Management
-  - Visma
-  - Nestle
-  - Fresenius
-  - Arthur Andersen
-  - EY
-  - Enron
-products_models: []
-media_books: []
 status: evergreen
+summary: 在2025年投资大会的这场小组讨论中，Visma首席执行官梅雷特·赫韦恩和前雀巢首席执行官马克·施耐德深入探讨了领导力、企业文化和多元化的关键作用。他们分享了各自在人力资源、危机管理和组织发展方面的宝贵经验，强调了以人为本的领导哲学、多元化团队对创新的推动作用，以及在不确定环境中通过强大文化实现韧性的重要性。讨论还触及了女性在职场中的发展挑战，以及如何平衡创新风险与组织目标。
+tags:
+- crisis-resilience
+- geopolitical
+- leadership-development
+- management
+- organizational-culture
+title: 领导力、文化与多元化：企业成功的基石
 ---
+
 ### 引言：以人为本的领导力
 
 主持人：谢谢大家。在听完两位发言后，我感到非常荣幸能主持这次小组讨论。如你们所知，我们事先准备了一些问题，但现在听了你们的发言，我有了更多的问题。我实际上想从一个贯穿你们两人评论的主题开始，那就是关于“人”。梅雷特，我先从你开始，因为我发现一个有趣的现象：在你成为唯一的**首席执行官**（CEO: Chief Executive Officer，企业最高行政负责人）之前，你曾从事**人力资源**（HR: Human Resources，负责企业员工招聘、培训、薪酬福利等管理）工作，这通常不是一个能晋升到首席执行官职位的岗位。请告诉我们，通过领导人力资源职能，你学到了哪些关于领导力的知识？

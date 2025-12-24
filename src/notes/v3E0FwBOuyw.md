@@ -1,57 +1,57 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: general
+companies_orgs:
+- 日本文部科学省
+- 建中
+- 北一
+- 台积电
+- 布朗大学
+- 国际基督教大学
 date: '2024-07-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《废除文科学部的冲击》
+- 《华尔街日报》
+- 《奥本海默》
+- 《盗梦空间》
+people:
+- 吉見俊哉
+- 中山茂
+- 李凯尔特
+- 洪堡
+- 宫本武藏
+- 笛卡尔
+- 莱布尼茨
+- 牛顿
+- 拿破仑
+- 林怀民
+- 诺兰
+- 哥白尼
+- 伊拉斯谟
+- 伽利略
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=v3E0FwBOuyw
 speaker: 超級歪 SuperY
-tags:
-  - liberal-arts-education
-  - science-vs-humanities
-  - university-enrollment
-  - value-creation
-  - interdisciplinary-learning
-title: 文科「无用论」的迷思：历史溯源、社会价值与未来出路
-summary: 本文深入探讨了关于文科“无用论”的社会迷思，剖析其历史起源、媒体误读以及现代社会“重理轻文”现象的深层原因。文章指出，文科的价值往往体现在更长的时间尺度上，承担着创造社会价值、批判既有观念、引导文化发展的重任。面对当前大学文科招生困境，作者提出跨领域“双刀流”人才培养、与高中合作、以及多元化招生年龄结构等创新解决方案，呼吁社会重新审视文科的深远意义，以期迎来人类文明的“第二次文艺复兴”。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - cultural-critique
-people:
-  - 吉見俊哉
-  - 中山茂
-  - 李凯尔特
-  - 洪堡
-  - 宫本武藏
-  - 笛卡尔
-  - 莱布尼茨
-  - 牛顿
-  - 拿破仑
-  - 林怀民
-  - 诺兰
-  - 哥白尼
-  - 伊拉斯谟
-  - 伽利略
-companies_orgs:
-  - 日本文部科学省
-  - 建中
-  - 北一
-  - 台积电
-  - 布朗大学
-  - 国际基督教大学
-products_models: []
-media_books:
-  - 《废除文科学部的冲击》
-  - 《华尔街日报》
-  - 《奥本海默》
-  - 《盗梦空间》
 status: evergreen
+summary: 本文深入探讨了关于文科“无用论”的社会迷思，剖析其历史起源、媒体误读以及现代社会“重理轻文”现象的深层原因。文章指出，文科的价值往往体现在更长的时间尺度上，承担着创造社会价值、批判既有观念、引导文化发展的重任。面对当前大学文科招生困境，作者提出跨领域“双刀流”人才培养、与高中合作、以及多元化招生年龄结构等创新解决方案，呼吁社会重新审视文科的深远意义，以期迎来人类文明的“第二次文艺复兴”。
+tags:
+- education
+- learning
+- llm
+- science
+- value
+title: 文科「无用论」的迷思：历史溯源、社会价值与未来出路
 ---
+
 ### 文科“无用论”的甚嚣尘上与媒体的过度解读
 
 每当大学放榜时，文科系所的招生缺额总会引发新一轮关于“文组无用”的讨论。在台湾，这种“战文组”的现象时有发生，文科生也常被问及“毕业后要做什么？”近年来，随着人工智能（AI）浪潮的兴起，理工科的优势进一步凸显，这似乎更加强化了文科无用的论调。今天我们将深入探讨日本社会学家吉見俊哉所著的《废除文科学部的冲击》一书，来剖析这一议题。

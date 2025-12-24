@@ -1,31 +1,29 @@
 ---
-title: 美国政治的转折点：子弹、背叛与24小时的命运抉择
-summary: 2024年7月13日，美国政治经历了一场史无前例的24小时。唐纳德·特朗普在集会上遭遇刺杀，奇迹生还后政治声望达到顶峰；而乔·拜登在党内巨大压力下，最终决定放弃连任竞选。
 area: market-analysis
-category: geopolitics
-project:
-- us-analysis
-tags:
-- 2024-election
-- assassination-attempt
-- us-politics
-people:
-- donald-trump
-- joe-biden
+category: politics-society
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-14'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- donald-trump
+- joe-biden
+products_models: []
+project:
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=jnro9JbK4Qs
+speaker: 北美王路飞
 status: evergreen
+summary: 2024年7月13日，美国政治经历了一场史无前例的24小时。唐纳德·特朗普在集会上遭遇刺杀，奇迹生还后政治声望达到顶峰；而乔·拜登在党内巨大压力下，最终决定放弃连任竞选。
+tags:
+- assassination-attempt
+- geopolitical
+title: 美国政治的转折点：子弹、背叛与24小时的命运抉择
 ---
+
 ### 特朗普的副手选择与享受掌控
 
 2024年7月13日，一个周六，唐纳德·特朗普在**米尔沃基**（Milwaukee: 威斯康星州最大城市，共和党全国代表大会举办地）正式接受**共和党全国代表大会**（Republican National Convention: 美国主要政党四年一度的会议，正式提名总统和副总统候选人）提名前的最后一个周末。他尚未选定自己的**副手**（Running Mate: 总统候选人选择的副总统候选人），最终名单已缩减至参议员马可·卢比奥（Marco Rubio）和J.D.万斯（JD Vance）两人。尽管“特朗普-肯尼迪”的组合听起来颇具吸引力，但特朗普私下告诉助手，他认为小罗伯特·肯尼迪（Robert F. Kennedy Jr.）“太疯了”，根本不适合当搭档。媒体大亨鲁伯特·默多克（Rupert Murdoch）一直在力荐第三位人选——北达科他州州长道格·伯格姆（Doug Burgum），但特朗普的顾问认为他全国知名度太低。此外，伯格姆总想在飞机上与特朗普聊生意、套近乎，这让特朗普感到厌烦。

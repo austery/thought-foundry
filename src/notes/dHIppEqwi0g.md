@@ -1,68 +1,68 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- Chrome
+- Statsig
+- Linear
+- Uber
+- GitHub
+- Shopify
+- Google DeepMind
+- O'Reilly
+- Sentry
+- Stack Blitz
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Beyond Vibe Coding
+- Leading Effective Engineering Teams
+- The Pragmatic Engineer
+- The Software Engineer's Guidebook
+- AI Engineering
+people:
+- Addy Osmani
+- Andrej Karpathy
+- Mitchell Hashimoto
+- Armin Ronacher
+- Chip Huyen
+products_models:
+- Chrome DevTools
+- Chrome DevTools MCP
+- Linear Agents
+- VS Code
+- Cursor
+- Copilot
+- Klein
+- Gemini
+- Gemini CLI
+- Ollama
+- Figma
+- Figma MCP
+- Flask
+- Bolt
+- Stack Overflow
+project:
+- ai-impact-analysis
+- vibe-coding
+series: ''
 source: https://www.youtube.com/watch?v=dHIppEqwi0g
 speaker: The Pragmatic Engineer
-tags:
-  - vibe-coding
-  - ai-assisted-engineering
-  - spec-driven-development
-  - human-oversight
-  - 70-percent-problem
-title: Addy Osmani深度解析：从Vibe Coding到专业的AI辅助工程
-summary: 谷歌Chrome团队的Addy Osmani深度探讨了“Vibe Coding”与“AI辅助工程”的本质区别。他指出，Vibe Coding虽适用于快速原型设计，但专业的软件开发需要更严谨的AI辅助工程方法，强调人类工程师的主导地位和责任。本期内容涵盖了“70%问题”，即AI能快速完成70%的工作，但最后的30%仍需深厚的工程技能。Osmani分享了规约驱动开发、测试和保持批判性思维的重要性，并展望了异步编码代理等未来工作流。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - vibe-coding
-people:
-  - Addy Osmani
-  - Andrej Karpathy
-  - Mitchell Hashimoto
-  - Armin Ronacher
-  - Chip Huyen
-companies_orgs:
-  - Google
-  - Chrome
-  - Statsig
-  - Linear
-  - Uber
-  - GitHub
-  - Shopify
-  - Google DeepMind
-  - O'Reilly
-  - Sentry
-  - Stack Blitz
-products_models:
-  - Chrome DevTools
-  - Chrome DevTools MCP
-  - Linear Agents
-  - VS Code
-  - Cursor
-  - Copilot
-  - Klein
-  - Gemini
-  - Gemini CLI
-  - Ollama
-  - Figma
-  - Figma MCP
-  - Flask
-  - Bolt
-  - Stack Overflow
-media_books:
-  - Beyond Vibe Coding
-  - Leading Effective Engineering Teams
-  - The Pragmatic Engineer
-  - The Software Engineer's Guidebook
-  - AI Engineering
 status: evergreen
+summary: 谷歌Chrome团队的Addy Osmani深度探讨了“Vibe Coding”与“AI辅助工程”的本质区别。他指出，Vibe Coding虽适用于快速原型设计，但专业的软件开发需要更严谨的AI辅助工程方法，强调人类工程师的主导地位和责任。本期内容涵盖了“70%问题”，即AI能快速完成70%的工作，但最后的30%仍需深厚的工程技能。Osmani分享了规约驱动开发、测试和保持批判性思维的重要性，并展望了异步编码代理等未来工作流。
+tags:
+- development
+- engineering
+- human
+- problem
+- vibe-coding
+title: Addy Osmani深度解析：从Vibe Coding到专业的AI辅助工程
 ---
+
 ### Vibe Coding与AI辅助工程的本质区别
 
 Addy Osmani 在 Chrome 团队工作了13年，是一位多产的作家。他的最新著作名为《超越Vibe Coding》，面向专业软件工程师。今天，我们将深入探讨 **Vibe Coding**（Vibe Coding: 一种依赖直觉和高层级提示，快速进行原型设计的编程方式）与 **AI 辅助工程**（AI-assisted engineering: 一种更严谨的方法，将AI作为强大协作者，但人类工程师仍掌握主导权）的对比，以及为什么 Vibe Coding 除了用于快速构建粗糙原型外，用途并不广泛。我们还将讨论理解模型行为的重要性、新的AI开发工作流程，如规约驱动开发、异步编码、后台代理和多代理并行编码等未被充分探索的软件工程新领域。

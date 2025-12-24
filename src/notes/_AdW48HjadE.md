@@ -1,65 +1,63 @@
 ---
-author: 硅谷101
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 硅谷101
+- Microsoft
+- 突破能源
+- 金融投资
+- OpenAI
+- NVIDIA
+- AMD
+- Google
+- Meta
+- Ball Capital
+- Oracle
+- Amazon Web Services
+- Anthropic
+- Siemens
+- General Electric
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大空头》
+people:
+- 陈倩
+- 一鸣
+- Ethan Xu
+- Bruce Liu
+- 任洋
+- Ro
+- Michael Burry
+- Sam Altman
+- Jason Furman
+- David Einhorn
+products_models:
+- GPT
+- TPU
+- Hopper
+- Blackwell
+- Gemini
+- Claude
+- Stargate
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=_AdW48HjadE
 speaker: 硅谷101
-tags:
-  - llm
-  - ai-infrastructure
-  - market-volatility
-  - investment-bubble
-  - data-center
-title: 硅谷101首场直播：万亿基建市场还是AI投资泡沫？
-summary: 本期硅谷101首次直播，主持人陈倩与嘉宾Ethan Xu、Bruce Liu、任洋和Ro深入探讨了当前美股市场的震荡、AI投资泡沫的担忧以及AI资本内循环现象。嘉宾们分析了AI投资对美国GDP增长的拉动作用，并对AI基础设施建设的资本开支、GPU折旧年限及算力缺口等问题展开了讨论。同时，他们也分享了对AI技术未来发展和投资前景的乐观态度，并探讨了普通投资者应如何应对潜在的市场波动。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 陈倩
-  - 一鸣
-  - Ethan Xu
-  - Bruce Liu
-  - 任洋
-  - Ro
-  - Michael Burry
-  - Sam Altman
-  - Jason Furman
-  - David Einhorn
-companies_orgs:
-  - 硅谷101
-  - 微软
-  - 突破能源
-  - 金融投资
-  - OpenAI
-  - NVIDIA
-  - AMD
-  - Google
-  - Meta
-  - Ball Capital
-  - Facebook
-  - Oracle
-  - Amazon Web Services
-  - Anthropic
-  - Siemens
-  - General Electric
-products_models:
-  - GPT
-  - TPU
-  - Hopper
-  - Blackwell
-  - Gemini
-  - Claude
-  - Stargate
-media_books:
-  - 《大空头》
 status: evergreen
+summary: 本期硅谷101首次直播，主持人陈倩与嘉宾Ethan Xu、Bruce Liu、任洋和Ro深入探讨了当前美股市场的震荡、AI投资泡沫的担忧以及AI资本内循环现象。嘉宾们分析了AI投资对美国GDP增长的拉动作用，并对AI基础设施建设的资本开支、GPU折旧年限及算力缺口等问题展开了讨论。同时，他们也分享了对AI技术未来发展和投资前景的乐观态度，并探讨了普通投资者应如何应对潜在的市场波动。
+tags:
+- ai-infrastructure
+- data-center
+- investment
+- market-volatility
+title: 硅谷101首场直播：万亿基建市场还是AI投资泡沫？
 ---
+
 大家好，我是**硅谷101**的联合创始人陈倩，也是我们视频的主理人。今天是我们**硅谷101**的第一次直播。我们想做这个尝试，是因为可能大家都知道我们平时做深度的内容，做长视频比较多。但是我们一般写稿需要一个多星期，剪辑又需要一个多星期或者两个星期。所以很多视频出来的时候，离热点事件已经是三周之后了。虽然我们的深度内容还是非常有价值，而且它的长尾效应也很长，但我们就觉得说，如果一个热点事件、重大的科技或者商业事件发生的时候，我们能够很迅速地反应，通过直播的方式，把最一线最顶级的嘉宾请来跟大家直接聊聊天，可能这样是一个更有效率的传播方式。所以今天我们就想来试一下这个直播的方式。
 
 今天我们来聊一聊AI这件事情。这个主题最近不管是在华尔街还是在硅谷，无论是投资人、创业圈还是AI整个产业界，大家讨论得都非常热烈。今天我也非常荣幸，我跟一鸣，他是我们的特约研究员，一起来主持这场直播讨论。加入我们的嘉宾首先是**Ethan Xu**，他是前**微软**能源战略经理，也是前**突破能源**科研总监。Ethan，要不要跟大家打个招呼，介绍一下你自己？

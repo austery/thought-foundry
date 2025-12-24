@@ -1,50 +1,49 @@
 ---
-author: TVO Today
+area: life-family
+category: health-wellness
+companies_orgs:
+- University of Toronto
+- Brain and Cognition Discovery Foundation
+- FDA
+- World Health Organization
+- CIHR
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《群鸟》
+- 《与星共舞》
+people:
+- Eric Bombicino
+- Roger McIntyre
+- Vivek Murthy
+- Karl Ritthausen
+- Yogi Berra
+- Peter Sifneos
+- Fred Astaire
+- Ginger Rogers
+products_models:
+- Ketamine
+- Esketamine
+- Prozac
+- Ozempic
+- Transcranial Magnetic Stimulation (TMS)
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=mh5MI790k9k
 speaker: TVO Today
-tags:
-  - ketamine
-  - depression-treatment
-  - childhood-trauma
-  - genetics
-  - brain-plasticity
-title: 氯胺酮如何革新抑郁症治疗？
-summary: 这段访谈深入探讨了氯胺酮在治疗难治性抑郁症中的革命性作用。**Roger McIntyre**教授解释了难治性抑郁症的定义、其与社会经济背景、孤独、童年创伤及遗传因素的复杂关联。他强调了氯胺酮作为一种快速起效、能促进大脑可塑性并具有抗炎作用的新型疗法，在改善患者情绪、认知功能和生活质量方面的巨大潜力。访谈还讨论了新疗法带来的希望，以及心理治疗与公共卫生干预在抑郁症防治中的重要性。
-insight: ''
-draft: true
-series: ''
-category: health-wellness
-area: life-family
-project: []
-people:
-  - Eric Bombicino
-  - Roger McIntyre
-  - Vivek Murthy
-  - Karl Ritthausen
-  - Yogi Berra
-  - Peter Sifneos
-  - Fred Astaire
-  - Ginger Rogers
-companies_orgs:
-  - University of Toronto
-  - Brain and Cognition Discovery Foundation
-  - FDA
-  - World Health Organization
-  - CIHR
-products_models:
-  - Ketamine
-  - Esketamine
-  - Prozac
-  - Ozempic
-  - Transcranial Magnetic Stimulation (TMS)
-media_books:
-  - 《群鸟》
-  - 《与星共舞》
 status: evergreen
+summary: 这段访谈深入探讨了氯胺酮在治疗难治性抑郁症中的革命性作用。**Roger McIntyre**教授解释了难治性抑郁症的定义、其与社会经济背景、孤独、童年创伤及遗传因素的复杂关联。他强调了氯胺酮作为一种快速起效、能促进大脑可塑性并具有抗炎作用的新型疗法，在改善患者情绪、认知功能和生活质量方面的巨大潜力。访谈还讨论了新疗法带来的希望，以及心理治疗与公共卫生干预在抑郁症防治中的重要性。
+tags:
+- brain
+- health
+- ketamine
+- psychology
+title: 氯胺酮如何革新抑郁症治疗？
 ---
+
 ### 氯胺酮与难治性抑郁症
 
 大家好，我是**Eric Bombicino**。今天我们将讨论**氯胺酮**（Ketamine: 一种麻醉剂，近年来被发现对难治性抑郁症有快速抗抑郁作用）。氯胺酮曾被称为派对毒品，但现在正被广泛用于治疗抑郁症，包括**难治性抑郁症**（Treatment Resistant Depression: 指患者在接受两种或两种以上足量、足疗程抗抑郁药物治疗后仍无显著改善的抑郁症）。难治性抑郁症将是今天访谈的“反派”。什么是难治性抑郁症？为什么这类抑郁症会在人们心中根深蒂固？氯胺酮又是如何用于治疗它的，效果如何？

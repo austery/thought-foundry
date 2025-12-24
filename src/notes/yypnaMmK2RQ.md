@@ -1,52 +1,52 @@
 ---
-author: 美投讲美股
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- OpenAI
+- Google
+- Microsoft
+- 甲骨文
+- Nvidia
+- 博通
+- 网景
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《福布斯》
+people:
+- 比尔·盖茨
+- 米德军
+products_models:
+- GPT-5.1
+- GPT-5.2
+- Jamon 3.0
+- Gemini 9
+- Mosaic浏览器
+- IE 1.0
+- Chrome浏览器
+- Android系统
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=yypnaMmK2RQ
 speaker: 美投讲美股
-tags:
-  - ai-competition
-  - platform-ecosystem
-  - business-model-sustainability
-  - first-mover-advantage
-  - cost-of-computation
-title: AI巨头之争像极了30年前的浏览器大战？历史背后的投资真相
-summary: 本文通过对比90年代网景与微软的浏览器大战，分析当前OpenAI与谷歌在AI大模型领域的竞争格局。指出技术并非唯一胜负手，渠道、财力与商业模式的结构性差异，才是决定长期格局的关键。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - 比尔·盖茨
-  - 米德军
-companies_orgs:
-  - OpenAI
-  - 谷歌
-  - 微软
-  - 甲骨文
-  - 英伟达
-  - 博通
-  - 网景
-products_models:
-  - GPT-5.1
-  - GPT-5.2
-  - Jamon 3.0
-  - Gemini 9
-  - Mosaic浏览器
-  - IE 1.0
-  - Chrome浏览器
-  - Android系统
-media_books:
-  - 《华尔街日报》
-  - 《福布斯》
 status: evergreen
+summary: 本文通过对比90年代网景与微软的浏览器大战，分析当前OpenAI与谷歌在AI大模型领域的竞争格局。指出技术并非唯一胜负手，渠道、财力与商业模式的结构性差异，才是决定长期格局的关键。
+tags:
+- ai-competition
+- business-model-sustainability
+- cost
+- history
+- platform
+title: AI巨头之争像极了30年前的浏览器大战？历史背后的投资真相
 ---
+
 ### 从浏览器大战到AI之争：一场历史的镜像
 
 美股播华尔街专利，大家好，我是米德军，你们的美股探路者。如今，OpenAI与谷歌之间的AI大模型之战已进入白热化阶段：谷歌刚推出Jamon 3.0横扫评分榜，三周后OpenAI便接连发布GPT-5.1和GPT-5.2，获得广泛好评。双方你来我往、各擅胜场，而这场技术较量，早已成为决定美股市场走势的核心变量。

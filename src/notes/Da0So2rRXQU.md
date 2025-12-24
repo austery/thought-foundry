@@ -1,63 +1,63 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 沈阳831
+- 辽宁人民艺术剧院
+- 公安部
+- 上海人民公社
+- 革委会
+- 东北局
+- 辽宁大学
+- 新疆军区
+- 中共中央
 date: '2024-09-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《海瑞罢官》
+- 《毛语录》
+- 《翠笛春宵》
+- 《追捕》
+- 《望乡》
+- 《激情燃烧的岁月》
+people:
+- 孙海英
+- 邓小平
+- 毛泽东
+- 江青
+- 丁尼
+- 翟强
+- 万来天
+- 彭德怀
+- 宋仁琼
+- 宋彬彬
+- 林彪
+- 张祥久
+- 徐少骅
+- 吕丽萍
+- 周恩来
+- 王震
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Da0So2rRXQU
 speaker: 柴静 Chai Jing
-tags:
-  - cultural-revolution
-  - political-violence
-  - artistic-freedom
-  - historical-trauma
-  - social-upheaval
-title: 孙海英：艺术自由是国家前行的基石——一位文革亲历者的沉痛反思
-summary: 演员孙海英在访谈中沉痛回顾了文化大革命的亲身经历，包括年幼时加入造反派、目睹艺术家遭受批斗、武斗升级至枪炮内战，以及文化艺术被摧毁的惨状。他强调，文革对人性的摧残和对艺术自由的扼杀，是国家无法前行的根本原因，并呼吁人们铭记历史，避免重蹈覆辙。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 孙海英
-  - 邓小平
-  - 毛泽东
-  - 江青
-  - 丁尼
-  - 翟强
-  - 万来天
-  - 彭德怀
-  - 宋仁琼
-  - 宋彬彬
-  - 林彪
-  - 张祥久
-  - 徐少骅
-  - 吕丽萍
-  - 周恩来
-  - 王震
-companies_orgs:
-  - 沈阳831
-  - 辽宁人民艺术剧院
-  - 公安部
-  - 上海人民公社
-  - 革委会
-  - 东北局
-  - 辽宁大学
-  - 新疆军区
-  - 中共中央
-products_models: []
-media_books:
-  - 《海瑞罢官》
-  - 《毛语录》
-  - 《翠笛春宵》
-  - 《追捕》
-  - 《望乡》
-  - 《激情燃烧的岁月》
 status: evergreen
+summary: 演员孙海英在访谈中沉痛回顾了文化大革命的亲身经历，包括年幼时加入造反派、目睹艺术家遭受批斗、武斗升级至枪炮内战，以及文化艺术被摧毁的惨状。他强调，文革对人性的摧残和对艺术自由的扼杀，是国家无法前行的根本原因，并呼吁人们铭记历史，避免重蹈覆辙。
+tags:
+- cultural-revolution
+- freedom
+- historical
+- political-violence
+- social
+title: 孙海英：艺术自由是国家前行的基石——一位文革亲历者的沉痛反思
 ---
+
 ### 文革的两种反应与历史的必要性
 
 在上一期节目中，邓小平曾指出毛泽东发动文革有两大错误：一是打倒一切，二是全面内战。节目播出后，出现了两种截然不同的反应：一种是震惊，因为这些内容在历史课本中从未提及；另一种则是捍卫文革，认为毛泽东此举是为了打倒特权阶层，实现**巴黎公社**（Paris Commune: 1871年法国巴黎工人阶级建立的自治政府，被视为无产阶级专政的早期尝试）式的大民主。这两种反应都让我深感，我们确实需要更丰富、真实、直接的第一手材料来审视自己的历史。今天，我们将采访一位历史当事人——演员孙海英。

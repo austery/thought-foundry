@@ -1,61 +1,60 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: general
+companies_orgs:
+- Caral Group
+- White House
+- JP Morgan
+- Bank One
+- Apple
+- Next
+- SpaceX
+- Harvard Business School
+- Bloomberg
+- Council for Foreign Relations
+- University of Chicago
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Rubenstein
+- John Kennedy
+- Ted Sorenson
+- Warren Buffett
+- Bill Gates
+- Mark Zuckerberg
+- Jeff Bezos
+- Jaime Diamond
+- Steve Jobs
+- Norman Schwarzoff
+- Colin Powell
+- Thomas Jefferson
+- Donald Trump
+- Bill Clinton
+- Jim Baker
+- Oprah Winfrey
+- Magic Johnson
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=6FPr2fkWsH4
 speaker: Norges Bank Investment Management
-tags:
-  - investor-traits
-  - leadership-philosophy
-  - philanthropy
-  - historical-preservation
-  - self-improvement
-title: 大卫·鲁宾斯坦：伟大投资者的特质、领导力哲学与历史观
-summary: 本文深入探讨了私募股权巨头大卫·鲁宾斯坦（David Rubenstein）的职业生涯与人生哲学。他分享了优秀投资者共有的特质，如谦逊和数学能力，并解释了自己热衷于慈善事业和保存历史（如购买《大宪章》）的原因。此外，他还剖析了领导者的分类，强调了倾听、说服力的重要性，并阐述了为何保持忙碌和不断学习是享受人生的关键。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - David Rubenstein
-  - John Kennedy
-  - Ted Sorenson
-  - Warren Buffett
-  - Bill Gates
-  - Mark Zuckerberg
-  - Jeff Bezos
-  - Jaime Diamond
-  - Steve Jobs
-  - Norman Schwarzoff
-  - Colin Powell
-  - Thomas Jefferson
-  - Donald Trump
-  - Bill Clinton
-  - Jim Baker
-  - Oprah Winfrey
-  - Magic Johnson
-companies_orgs:
-  - Caral Group
-  - White House
-  - JP Morgan
-  - Bank One
-  - Apple
-  - Next
-  - SpaceX
-  - Harvard Business School
-  - Bloomberg
-  - Council for Foreign Relations
-  - University of Chicago
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了私募股权巨头大卫·鲁宾斯坦（David Rubenstein）的职业生涯与人生哲学。他分享了优秀投资者共有的特质，如谦逊和数学能力，并解释了自己热衷于慈善事业和保存历史（如购买《大宪章》）的原因。此外，他还剖析了领导者的分类，强调了倾听、说服力的重要性，并阐述了为何保持忙碌和不断学习是享受人生的关键。
+tags:
+- historical
+- investment
+- leadership-philosophy
+- philanthropy
+- self-improvement
+title: 大卫·鲁宾斯坦：伟大投资者的特质、领导力哲学与历史观
 ---
+
 ### 鲁宾斯坦的公众形象与早期背景
 
 主持人欢迎了**大卫·鲁宾斯坦**（David Rubenstein），他是**凯雷集团**（The Carlyle Group: 美国最大的私募股权投资公司之一）的创始人兼主席，同时也是一位知名的访谈节目主持人。鲁宾斯坦谦虚地评价自己的公众品牌，认为自己可能因为涉猎太广而没有在任何单一领域做到极致，但如今他更因主持的访谈节目和慈善事业而闻名，而非投资界的工作。

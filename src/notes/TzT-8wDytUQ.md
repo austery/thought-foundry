@@ -1,44 +1,44 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Goldman Sachs
+- MI6
+- FOMC
+- Nvidia
 date: '2025-03-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Donald Trump
+- Elon Musk
+- Alex Younger
+- Joe Biden
+products_models:
+- Tesla
+- Robotaxi
+- Cybertruck
+project:
+- us-analysis
+- geopolitics-watch
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=TzT-8wDytUQ
 speaker: Shanghao Jin
-tags:
-  - us-election-2024
-  - trade-tariffs
-  - economic-recession-risk
-  - geopolitical-shifts
-  - market-volatility
-title: 特朗普政策不确定性下的市场震荡与投资展望
-summary: 本文深入分析了近期市场大幅下跌的原因，包括特朗普政策带来的不确定性、德国财政扩张对全球流动性的影响以及套利交易的平仓。作者认为短期市场可能接近底部，但长期抄底需等待政策信号更加明确。同时，文章探讨了美国“达则兼济天下”模式的转变，以及中国经济面临的通缩和需求不足问题，并预测全球国防开支将增加。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - investment-strategy
-people:
-  - Donald Trump
-  - Elon Musk
-  - Alex Younger
-  - Joe Biden
-companies_orgs:
-  - Goldman Sachs
-  - MI6
-  - FOMC
-  - Nvidia
-products_models:
-  - Tesla
-  - Robotaxi
-  - Cybertruck
-media_books: []
 status: evergreen
+summary: 本文深入分析了近期市场大幅下跌的原因，包括特朗普政策带来的不确定性、德国财政扩张对全球流动性的影响以及套利交易的平仓。作者认为短期市场可能接近底部，但长期抄底需等待政策信号更加明确。同时，文章探讨了美国“达则兼济天下”模式的转变，以及中国经济面临的通缩和需求不足问题，并预测全球国防开支将增加。
+tags:
+- economic-recession-risk
+- geopolitical-shift
+- market-volatility
+- trade-tariff
+- us-election-2024
+title: 特朗普政策不确定性下的市场震荡与投资展望
 ---
+
 ### 市场回顾与投资策略考量
 
 昨天市场大幅下跌，不只是昨日，过去几周市场也持续走低。我们先回顾一下。从去年12月份开始，我建议大家降低仓位，至少要降到60%以内。春节之后，我又一次建议降仓。但复盘来看，我可能还是不够坚决，当时或许应该将仓位降得更低，甚至直接清仓。然而，做交易需要经常复盘。回过头看当时的情况，我可能仍然无法给出空仓的建议。

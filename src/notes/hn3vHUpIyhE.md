@@ -1,30 +1,28 @@
 ---
-title: 坏主意：探索意想不到的创造力与社群
-summary: Gabe Whaley分享了Mschf艺术集体如何通过“坏主意”创造出意想不到的艺术品和社群体验，鼓励人们拥抱不适，探索未知，发现事物更深层的意义。
 area: null
 category: null
-project: []
-tags:
-- art-collective
-- bad-ideas
-- community-building
-- creativity
-people: []
 companies_orgs:
 - mschf
-products_models: []
-media_books: []
 date: '2025-10-17'
-author: TED
-speaker: TED
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hn3vHUpIyhE
+speaker: TED
 status: evergreen
+summary: Gabe Whaley分享了Mschf艺术集体如何通过“坏主意”创造出意想不到的艺术品和社群体验，鼓励人们拥抱不适，探索未知，发现事物更深层的意义。
+tags:
+- bad-idea
+- community-building
+- creativity
+- technology
+title: 坏主意：探索意想不到的创造力与社群
 ---
+
 ### 欢迎与开场白：PT漫步者之谜
 
 Good morning everyone. My name is Gabe. I'm a traveling car salesman. So today, I'm here to sell you the keys to this car, this beautiful vintage PT Cruiser.

@@ -1,37 +1,34 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs: []
 date: '2025-10-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《苦涩的教训》
+people:
+- Richard Sutton
+- Ilya Sutskever
+products_models:
+- AlphaGo
+- AlphaZero
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=u3HBJVjpXuw
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - reinforcement-learning
-  - continual-learning
-  - imitation-learning
-  - world-model
-title: 对萨顿访谈的思考：AI学习范式与未来
-summary: 本文深入探讨了**理查德·萨顿**（Richard Sutton）关于AI学习的观点，特别是其“**苦涩的教训**”（The Bitter Lesson）理论。演讲者反思了当前大型语言模型（LLM）的训练模式，认为其依赖人类数据且效率低下，并提出了持续学习和模仿学习作为未来AI发展的关键方向，以期实现更接近人类和动物的学习能力。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Richard Sutton
-  - Ilya Sutskever
-  - Dwarkesh Patel
-companies_orgs: []
-products_models:
-  - AlphaGo
-  - AlphaZero
-media_books:
-  - 《苦涩的教训》
 status: evergreen
+summary: 本文深入探讨了**理查德·萨顿**（Richard Sutton）关于AI学习的观点，特别是其“**苦涩的教训**”（The Bitter Lesson）理论。演讲者反思了当前大型语言模型（LLM）的训练模式，认为其依赖人类数据且效率低下，并提出了持续学习和模仿学习作为未来AI发展的关键方向，以期实现更接近人类和动物的学习能力。
+tags:
+- learning
+- reinforcement-learning
+- world-model
+title: 对萨顿访谈的思考：AI学习范式与未来
 ---
+
 ### 对萨顿观点的理解
 
 大家对**萨顿**（Sutton）的访谈有很多想法。我自己也一直在思考，现在对萨顿的视角有了比采访时更清晰的理解。我想分享一下我如何理解他的世界观。理查德（Richard），如果还有任何错误或误解，请多包涵。从你的想法中学到东西非常有益。这是我对理查德（Richard）立场的“钢人”（Steelman）式理解。

@@ -1,71 +1,70 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 纽约时报
+- 央视
+- 中新报
+- 冰点
+- 国民党
+- 共产党
+- 民进党
+- 新华社
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大江大海1949》
+- 《野火集》
+- 《湖南农民运动考察报告》
+- 《古文观止》
+- 《陈情表》
+people:
+- 龙应台
+- 柴静
+- 龙怀生
+- 高华
+- 尼克松
+- 龙应扬
+- 毛泽东
+- 雅贤
+- 李密
+- 王小波
+- 张立曼
+- 许宗茂
+- 朱峰
+- 吴时
+- 陈水扁
+- 胡锦涛
+- 李锐
+- 江平
+- 卢月刚
+- 李登辉
+- 林彪
+- 柯景兴
+- 郑子昌
+- 郑宏明
+- 陆雪芳
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=q8FZ7zN-qes
 speaker: 柴静 Chai Jing
-tags:
-  - civil-war-trauma
-  - historical-memory
-  - state-narrative
-  - cross-strait-relations
-  - humanity-in-war
-title: 龙应台对话柴静：当掌权者要你仇恨，你必须先知道仇恨是什么
-summary: 作家龙应台与柴静深度对话，围绕其著作《大江大海1949》探讨国共内战带来的民族创伤与个体命运。她通过家族的离散故事，揭示了战争的荒诞与残酷，并强调在宏大叙事下，个人记忆与人性反思的至关重要性。面对当前紧张的两岸关系，龙应台呼吁超越“统独”的二元对立，用文明、对话与和平的努力来避免历史悲剧重演，并指出“当掌权的人要你仇恨，你必须要知道仇恨是什么东西”。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 龙应台
-  - 柴静
-  - 龙怀生
-  - 高华
-  - 尼克松
-  - 龙应扬
-  - 毛泽东
-  - 雅贤
-  - 李密
-  - 王小波
-  - 张立曼
-  - 许宗茂
-  - 朱峰
-  - 吴时
-  - 陈水扁
-  - 胡锦涛
-  - 李锐
-  - 江平
-  - 卢月刚
-  - 李登辉
-  - 林彪
-  - 柯景兴
-  - 郑子昌
-  - 郑宏明
-  - 陆雪芳
-companies_orgs:
-  - 纽约时报
-  - 央视
-  - 中新报
-  - 冰点
-  - 国民党
-  - 共产党
-  - 民进党
-  - 新华社
-products_models: []
-media_books:
-  - 《大江大海1949》
-  - 《野火集》
-  - 《湖南农民运动考察报告》
-  - 《古文观止》
-  - 《陈情表》
 status: evergreen
+summary: 作家龙应台与柴静深度对话，围绕其著作《大江大海1949》探讨国共内战带来的民族创伤与个体命运。她通过家族的离散故事，揭示了战争的荒诞与残酷，并强调在宏大叙事下，个人记忆与人性反思的至关重要性。面对当前紧张的两岸关系，龙应台呼吁超越“统独”的二元对立，用文明、对话与和平的努力来避免历史悲剧重演，并指出“当掌权的人要你仇恨，你必须要知道仇恨是什么东西”。
+tags:
+- cross-strait-relations
+- historical-memory
+- state
+- war
+title: 龙应台对话柴静：当掌权者要你仇恨，你必须先知道仇恨是什么
 ---
+
 ### 战斗机下的田园生活与战争的反思
 
 很多人说，龙应台是因为受不了政治才躲到深山里，事实是这样吗？每天早上七点到七点半之间，当战斗机从我头上飞过时，我基本上正在林间小路上带着两只狗散步。此时，森林里传来猴子的叫声，伴随着我的狗吠和我家鸡鸣的声音。这种反差和冲突，在心理上是一种复杂的感受。

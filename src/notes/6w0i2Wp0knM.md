@@ -1,45 +1,47 @@
 ---
-author: How I AI
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- Anthropic
+- OpenAI
+- Apple
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+- X
+people:
+- Claireo
+products_models:
+- Gemini 3 Pro
+- Claude Opus 4.5
+- GPT-5.1 Codex
+- Lovable
+- Cursor
+- Claude code
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=6w0i2Wp0knM
 speaker: How I AI
-tags:
-  - ai-model-comparison
-  - web-design
-  - user-experience
-  - seo-optimization
-  - coding-models
-title: AI模型设计能力大比拼：Gemini 3 Pro、Opus 4.5与GPT-5.1 Codex谁是最佳网页设计师？
-summary: 本期节目中，产品负责人Claireo对比了Google的Gemini 3 Pro、Anthropic的Claude Opus 4.5和OpenAI的GPT-5.1 Codex三款AI模型在网页重新设计方面的能力。她让这些模型对一个现有博客页面进行优化，评估它们在视觉吸引力、用户体验和SEO最佳实践方面的表现。结果显示，Opus 4.5在设计细节和功能性方面表现最佳，而GPT-5.1 Codex则不尽如人意，揭示了不同AI模型在特定任务上的专长差异。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Claireo
-companies_orgs:
-  - Google
-  - Anthropic
-  - OpenAI
-  - Apple
-products_models:
-  - Gemini 3 Pro
-  - Claude Opus 4.5
-  - GPT-5.1 Codex
-  - Lovable
-  - Cursor
-  - Claude code
-media_books:
-  - How I AI
-  - X
 status: evergreen
+summary: 本期节目中，产品负责人Claireo对比了Google的Gemini 3 Pro、Anthropic的Claude Opus 4.5和OpenAI的GPT-5.1
+  Codex三款AI模型在网页重新设计方面的能力。她让这些模型对一个现有博客页面进行优化，评估它们在视觉吸引力、用户体验和SEO最佳实践方面的表现。结果显示，Opus
+  4.5在设计细节和功能性方面表现最佳，而GPT-5.1 Codex则不尽如人意，揭示了不同AI模型在特定任务上的专长差异。
+tags:
+- ai-model-comparison
+- design
+- model
+- optimization
+- user-experience
+title: AI模型设计能力大比拼：Gemini 3 Pro、Opus 4.5与GPT-5.1 Codex谁是最佳网页设计师？
 ---
+
 ### 欢迎来到“我如何AI”
 
 欢迎回到“我如何AI”。我是Claireo，一位产品负责人和AI狂热者，我的使命是帮助大家更好地利用这些新工具进行构建。

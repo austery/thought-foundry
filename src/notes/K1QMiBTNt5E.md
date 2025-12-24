@@ -1,51 +1,51 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: general
+companies_orgs:
+- Berkshire Hathaway
+- FBI
+- Coca-Cola Company
+- MidAmerican Energy
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CharlieRose website
+- YouTube
+people:
+- Warren Buffett
+- Charlie Munger
+- Harley Hotz
+- J. Edgar Hoover
+- Stan Lipsey
+- Walter Scott Jr.
+- Don Keough
+- Ajit Jain
+- Greg Abel
+- Alfred Nobel
+products_models:
+- New Coke
+- Old Coke
+project:
+- investment-strategy
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=K1QMiBTNt5E
 speaker: Best Partners TV
-tags:
-  - business-legacy
-  - life-wisdom
-  - succession-planning
-  - executive-compensation
-  - philanthropy
-title: 巴菲特的告别信：商业传奇的人生智慧与伯克希尔的未来展望
-summary: 沃伦·巴菲特发布了他执掌伯克希尔·哈撒韦公司六十年的最后一封致股东信。这封信不仅回顾了他充满想象力的童年、与奥马哈同乡的深厚情谊，也坦诚面对衰老、阐述了对家庭慈善的规划，并对继任者格雷格·阿贝尔表达了充分信任。巴菲特还对企业高管薪酬、股价波动等问题提出了深刻见解，并分享了关于人生、榜样和善举的宝贵箴言，为商业界和普通人留下了丰富的精神遗产。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - investment-strategy
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Warren Buffett
-  - Charlie Munger
-  - Harley Hotz
-  - J. Edgar Hoover
-  - Stan Lipsey
-  - Walter Scott Jr.
-  - Don Keough
-  - Ajit Jain
-  - Greg Abel
-  - Alfred Nobel
-companies_orgs:
-  - Berkshire Hathaway
-  - FBI
-  - Coca-Cola Company
-  - MidAmerican Energy
-products_models:
-  - New Coke
-  - Old Coke
-media_books:
-  - CharlieRose website
-  - YouTube
 status: evergreen
+summary: 沃伦·巴菲特发布了他执掌伯克希尔·哈撒韦公司六十年的最后一封致股东信。这封信不仅回顾了他充满想象力的童年、与奥马哈同乡的深厚情谊，也坦诚面对衰老、阐述了对家庭慈善的规划，并对继任者格雷格·阿贝尔表达了充分信任。巴菲特还对企业高管薪酬、股价波动等问题提出了深刻见解，并分享了关于人生、榜样和善举的宝贵箴言，为商业界和普通人留下了丰富的精神遗产。
+tags:
+- business
+- executive-compensation
+- life
+- philanthropy
+- succession-planning
+title: 巴菲特的告别信：商业传奇的人生智慧与伯克希尔的未来展望
 ---
+
 ### 巴菲特致股东信：童年回忆与奥马哈情缘
 
 前不久，被誉为**奥马哈先知**（Oracle of Omaha: 著名投资人沃伦·巴菲特的昵称）的沃伦·巴菲特发布了他人生中最后一封致股东信，这位执掌**伯克希尔·哈撒韦公司**（Berkshire Hathaway: 巴菲特创建并长期领导的多元化控股公司）整整六十年的商业传奇，以这封信正式告别了半个多世纪的职业生涯。

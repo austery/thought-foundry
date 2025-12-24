@@ -1,39 +1,38 @@
 ---
-author: Shanghao Jin
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Google
+- Amazon
+- Republican Party
 date: '2025-04-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Zero Hedge
+people:
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=LuAVZdLLAm0
 speaker: Shanghao Jin
-tags:
-  - us-trade-policy
-  - tariff-impact
-  - manufacturing-reshoring
-  - dollar-weakness
-  - market-outlook
-title: 特朗普关税政策、美元走势与制造业回流：市场长期展望分析
-summary: 本文深入探讨了当前市场面临的三大核心议题：美元走弱的趋势、特朗普关税政策的影响及制造业回流美国的可能性。作者认为，美元可能进入长期贬值区间，特朗普的关税战低估了中国和全球的反应，且制造业难以真正回流美国。市场在短期反弹后，长期趋势可能向下，投资者需对政策不确定性保持谨慎。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Shanghao Jin
-companies_orgs:
-  - Google
-  - Amazon
-  - Republican Party
-products_models: []
-media_books:
-  - Zero Hedge
 status: evergreen
+summary: 本文深入探讨了当前市场面临的三大核心议题：美元走弱的趋势、特朗普关税政策的影响及制造业回流美国的可能性。作者认为，美元可能进入长期贬值区间，特朗普的关税战低估了中国和全球的反应，且制造业难以真正回流美国。市场在短期反弹后，长期趋势可能向下，投资者需对政策不确定性保持谨慎。
+tags:
+- manufacturing
+- market-outlook
+- tariff-impact
+- technology
+- us-trade-policy
+title: 特朗普关税政策、美元走势与制造业回流：市场长期展望分析
 ---
+
 ### 市场三大核心议题与上周反弹分析
 
 今天将主要探讨三个核心话题：首先是**美元走弱**（dollar weakness）的趋势，即资金是否正从美国流出，以及美元兑欧元和日元走弱的趋势是否具有持续性，外汇市场将如何反应。其次，我们将聚焦于近一两个月来市场讨论的焦点——**唐纳德·特朗普**（Donald Trump）的关税政策，包括其前后的发动、最新变化及其对上周市场的影响。上周市场因关税政策有所缓和的预期，在连续下跌七八周后终于开始反弹。第三个话题是制造业回流美国的问题，对此我持悲观态度，认为制造业很难真正回到美国。

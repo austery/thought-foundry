@@ -1,50 +1,48 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: general
+companies_orgs:
+- Norges Bank Investment Management
+- Alibaba
+- eBay
+- Uber
+- Airbnb
+- Boeing
+- Meta
+- UPS
 date: '2024-05-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- What's Mine Is Yours
+- Who Can You Trust
+- Atomic Habits
+- Panama Papers
+people:
+- Nikolai Tangen
+- Rachel Botsman
+- James Clear
+products_models:
+- ChatGPT
+project:
+- systems-thinking
+- personal-growth-lab
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=1bEarAE7dkM
 speaker: Norges Bank Investment Management
-tags:
-  - trust-definition
-  - trust-evolution
-  - digital-trust
-  - workplace-trust
-  - trust-building
-title: 信任的演变：从人际到AI时代，我们如何建立与重建信任
-summary: 本期播客中，信任专家雷切尔·博茨曼与挪威主权财富基金CEO尼古拉·坦根深入探讨了信任的本质、重要性及其在社会中的演变。讨论涵盖了信任的定义、数字技术和人工智能对信任格局的影响、远程工作带来的职场信任挑战，以及如何通过一致性、同理心和问责制来建立和修复信任。他们还探讨了机构和个人在不同情境下培养信任的关键要素。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - ai-impact-analysis
-people:
-  - Nikolai Tangen
-  - Rachel Botsman
-  - James Clear
-companies_orgs:
-  - Norges Bank Investment Management
-  - Alibaba
-  - eBay
-  - Uber
-  - Airbnb
-  - Boeing
-  - Facebook
-  - Meta
-  - UPS
-products_models:
-  - ChatGPT
-media_books:
-  - What's Mine Is Yours
-  - Who Can You Trust
-  - Atomic Habits
-  - Panama Papers
 status: evergreen
+summary: 本期播客中，信任专家雷切尔·博茨曼与挪威主权财富基金CEO尼古拉·坦根深入探讨了信任的本质、重要性及其在社会中的演变。讨论涵盖了信任的定义、数字技术和人工智能对信任格局的影响、远程工作带来的职场信任挑战，以及如何通过一致性、同理心和问责制来建立和修复信任。他们还探讨了机构和个人在不同情境下培养信任的关键要素。
+tags:
+- digital
+- evolution
+- trust
+- trust-building
+title: 信任的演变：从人际到AI时代，我们如何建立与重建信任
 ---
+
 ### 信任的定义与重要性
 
 **Nikolai:** 大家好，我是挪威主权财富基金的首席执行官尼古拉·坦根。

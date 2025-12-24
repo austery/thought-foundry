@@ -1,50 +1,50 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OECD
+- NORAD
+- PQ government
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Breaking Point: The New Big Shifts Putting Canada at risk'
+- Lament for a Nation
+- Richard Gwin's biography of Johnny McDonald
+- Lavine's biography of McKenzie King
+people:
+- Daryl Bricker
+- John Ibbitson
+- Donald Trump
+- Mark Carney
+- George Grant
+- Ronald Reagan
+- John A. Macdonald
+- Pierre Poilievre
+- Richard Gwyn
+- William Lyon Mackenzie King
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=tsEDhYgQqg8
 speaker: TVO Today
-tags:
-  - canada-national-unity
-  - regional-tensions
-  - intergenerational-challenges
-  - economic-productivity
-  - federal-provincial-relations
-title: 加拿大正面临危机吗？《崩溃点》作者探讨国家未来
-summary: 民意测验专家Daryl Bricker和记者John Ibbitson在新书《崩溃点：加拿大面临的新重大转变》中指出，加拿大正面临多重危机，包括地区紧张、代际挑战和经济生产力低下。他们探讨了国家团结的水平问题，以及如何应对与美国的关系、改善经济表现和重塑联邦政府与省份之间的互动。文章深入分析了加拿大面临的“横向”和“纵向”问题，并提出了具体的解决方案，以确保国家在未来保持独立和凝聚力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Daryl Bricker
-  - John Ibbitson
-  - Donald Trump
-  - Mark Carney
-  - George Grant
-  - Ronald Reagan
-  - John A. Macdonald
-  - Pierre Poilievre
-  - Richard Gwyn
-  - William Lyon Mackenzie King
-companies_orgs:
-  - OECD
-  - NORAD
-  - PQ government
-products_models: []
-media_books:
-  - 'Breaking Point: The New Big Shifts Putting Canada at risk'
-  - Lament for a Nation
-  - Richard Gwin's biography of Johnny McDonald
-  - Lavine's biography of McKenzie King
 status: evergreen
+summary: 民意测验专家Daryl Bricker和记者John Ibbitson在新书《崩溃点：加拿大面临的新重大转变》中指出，加拿大正面临多重危机，包括地区紧张、代际挑战和经济生产力低下。他们探讨了国家团结的水平问题，以及如何应对与美国的关系、改善经济表现和重塑联邦政府与省份之间的互动。文章深入分析了加拿大面临的“横向”和“纵向”问题，并提出了具体的解决方案，以确保国家在未来保持独立和凝聚力。
+tags:
+- challenge
+- economic
+- national
+- regional-tension
+- relations
+title: 加拿大正面临危机吗？《崩溃点》作者探讨国家未来
 ---
+
 ### 引言：加拿大面临的“崩溃点”
 
 民意测验专家Daryl Bricker和记者John Ibbitson认为，甚至在特朗普开始对加拿大征收关税并威胁要吞并我们之前，这个国家就已经陷入困境。

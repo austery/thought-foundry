@@ -1,74 +1,74 @@
 ---
-author: a16z
+area: society-systems
+category: geopolitics
+companies_orgs:
+- a16z
+- SEC
+- FBI
+- Anthropic
+- White House
+- Google
+- DeepMind
+- Huawei
+- Nvidia
+- FTX
+- Democratic Party
+- EU
+- Reflection
 date: '2025-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- '1984'
+- The Terminator
+- The Matrix
+- Twitter Files
+- Genius Act
+- Clarity Act
+people:
+- David Sacks
+- Ronald Reagan
+- Donald Trump
+- Jack Clark
+- Sam Altman
+- Andrej Karpathy
+- Balaji Srinivasan
+- Mark Zuckerberg
+- Peter Thiel
+- Paul Atkins
+- Elizabeth Warren
+- Pete Buttigieg
+- Chris Wright
+- Bill Gates
+- Troy Mallister
+- Daniel Lurie
+- Chesa Boudin
+products_models:
+- Gemini
+- DeepSeek
+- Grok
+- ChatGPT
+- Cloud Matrix
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Uho2GupZSgU
 speaker: a16z
-tags:
-  - regulatory-capture
-  - permissionless-innovation
-  - orwellian-ai
-  - ai-race
-  - geopolitical-competition
-title: David Sacks 深度解析：美国应如何赢得与中国的 AI 竞赛
-summary: David Sacks 深入探讨了特朗普政府在人工智能（AI）和加密货币领域的战略方针。他主张对加密货币应提供监管确定性，而对 AI 则应减少干预以释放创新。Sacks 严厉批评了大型科技公司的“监管捕获”行为和“奥威尔式 AI”的风险，并强调“无需许可的创新”是硅谷成功的基石。他提出了美国赢得 AI 竞赛的三大支柱：支持创新、建设基础设施（尤其是能源）和扩大出口，以此来对抗中国的全球影响力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - David Sacks
-  - Ronald Reagan
-  - Donald Trump
-  - Jack Clark
-  - Sam Altman
-  - Andrej Karpathy
-  - Balaji Srinivasan
-  - Mark Zuckerberg
-  - Peter Thiel
-  - Paul Atkins
-  - Elizabeth Warren
-  - Pete Buttigieg
-  - Chris Wright
-  - Bill Gates
-  - Troy Mallister
-  - Daniel Lurie
-  - Chesa Boudin
-companies_orgs:
-  - a16z
-  - SEC
-  - FBI
-  - Anthropic
-  - White House
-  - Google
-  - DeepMind
-  - Huawei
-  - Nvidia
-  - FTX
-  - Democratic Party
-  - EU
-  - Reflection
-products_models:
-  - Gemini
-  - DeepSeek
-  - Grok
-  - ChatGPT
-  - Cloud Matrix
-media_books:
-  - '1984'
-  - The Terminator
-  - The Matrix
-  - Twitter Files
-  - Genius Act
-  - Clarity Act
 status: evergreen
+summary: David Sacks 深入探讨了特朗普政府在人工智能（AI）和加密货币领域的战略方针。他主张对加密货币应提供监管确定性，而对 AI 则应减少干预以释放创新。Sacks
+  严厉批评了大型科技公司的“监管捕获”行为和“奥威尔式 AI”的风险，并强调“无需许可的创新”是硅谷成功的基石。他提出了美国赢得 AI 竞赛的三大支柱：支持创新、建设基础设施（尤其是能源）和扩大出口，以此来对抗中国的全球影响力。
+tags:
+- geopolitical-competition
+- innovation
+- llm
+- regulatory
+title: David Sacks 深度解析：美国应如何赢得与中国的 AI 竞赛
 ---
+
 ### 欧洲的“领导力”：制定规则而非引领创新
 
 欧洲人对这些事情的心态确实很不一样。当他们谈论 AI 领导力时，他们指的是在制定法规方面取得领先。他们在布鲁塞尔开会，商讨所有规则应该是什么样的。这就是他们所谓的领导力。

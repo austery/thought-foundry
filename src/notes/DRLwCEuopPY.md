@@ -1,58 +1,58 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Apple
+- Amazon
+- Pop Mart
+- Nvidia
+- OpenAI
+- Federal Reserve
+- JPMorgan Chase
+- Circle
+- Coinbase
+- Robinhood
+- Visa
+- Mastercard
+- Bank of America
+- Goldman Sachs
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Countpoint Research
+- 学习时报
+people:
+- Donald Trump
+- Xi Jinping
+- Kishi Sanae
+- Paul Volcker
+products_models:
+- iPhone 17
+- iPhone 16
+- AWS
+- USDC
+- USDT
+project:
+- geopolitics-watch
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=DRLwCEuopPY
 speaker: 小翠時政財經
-tags:
-  - stablecoins
-  - financial-system-innovation
-  - us-china-relations
-  - gold-market
-  - market-trends
-title: 美联储支付创新大会与稳定币未来：摩根大通的优势及中美台议题分析
-summary: 本期节目深入探讨了全球金融市场的最新动态，包括A股、港股和美股的走势，以及苹果、泡泡玛特和存储芯片等热门板块的表现。重点分析了美联储支付创新大会对稳定币未来格局的影响，认为传统大银行在代币化时代仍具核心优势。此外，节目还讨论了黄金作为对冲美元信用下降的逻辑，阿根廷的经济困境，以及中美关系中台湾议题的新增，对未来地缘政治和投资策略提供了独到见解。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - china-analysis
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Kishi Sanae
-  - Paul Volcker
-companies_orgs:
-  - Apple
-  - Amazon
-  - Pop Mart
-  - Nvidia
-  - OpenAI
-  - Federal Reserve
-  - JPMorgan Chase
-  - Circle
-  - Coinbase
-  - Robinhood
-  - Visa
-  - Mastercard
-  - Bank of America
-  - Goldman Sachs
-products_models:
-  - iPhone 17
-  - iPhone 16
-  - AWS
-  - USDC
-  - USDT
-media_books:
-  - Countpoint Research
-  - 学习时报
 status: evergreen
+summary: 本期节目深入探讨了全球金融市场的最新动态，包括A股、港股和美股的走势，以及苹果、泡泡玛特和存储芯片等热门板块的表现。重点分析了美联储支付创新大会对稳定币未来格局的影响，认为传统大银行在代币化时代仍具核心优势。此外，节目还讨论了黄金作为对冲美元信用下降的逻辑，阿根廷的经济困境，以及中美关系中台湾议题的新增，对未来地缘政治和投资策略提供了独到见解。
+tags:
+- financial-system-innovation
+- gold-market
+- market-trend
+- stablecoin
+- us-china-relations
+title: 美联储支付创新大会与稳定币未来：摩根大通的优势及中美台议题分析
 ---
+
 ### 全球股市动态：A股、港股与美股表现分析
 
 美东时间2025年10月21日，小翠时政财经节目回顾了近期全球股市的要闻。

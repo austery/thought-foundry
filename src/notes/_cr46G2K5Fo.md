@@ -1,49 +1,49 @@
 ---
-author: Veritasium
-date: '2025-04-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=_cr46G2K5Fo
-speaker: Veritasium
-tags:
-  - veritasium
-  - axiom-of-choice
-  - set-theory
-  - infinity
-  - mathematical-paradoxes
-  - non-measurable-sets
-title: 选择公理：数学的基石与悖论
-summary: 本文深入探讨了数学中极具争议的**选择公理**（Axiom of Choice）。从伽利略对无限的早期思考，到康托尔对不同类型无限的开创性工作，再到策梅洛正式提出选择公理，文章追溯了这一概念的演变。尽管选择公理看似直观，却能导致如**巴拿赫-塔斯基悖论**（Banach-Tarski Paradox）等反直觉结果。文章还介绍了哥德尔和科恩如何证明选择公理与集合论其他公理的独立性，最终强调了其在现代数学中的普遍接受和实用价值。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Georg Cantor
-  - Galileo Galilei
-  - Julius König
-  - Ernst Zermelo
-  - Leopold Kronecker
-  - Giuseppe Vitali
-  - Stefan Banach
-  - Alfred Tarski
-  - Henri Lebesgue
-  - Maurice René Fréchet
-  - Kurt Godel
-  - Paul Cohen
+category: science
 companies_orgs:
-  - University of Berlin
-products_models:
-  - ChatGPT
+- University of Berlin
+date: '2025-04-02'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Discourses and Mathematical Demonstrations Relating to Two New Sciences
-  - Proof That Every Set Can Be Well-Ordered
+- Discourses and Mathematical Demonstrations Relating to Two New Sciences
+- Proof That Every Set Can Be Well-Ordered
+people:
+- Georg Cantor
+- Galileo Galilei
+- Julius König
+- Ernst Zermelo
+- Leopold Kronecker
+- Giuseppe Vitali
+- Stefan Banach
+- Alfred Tarski
+- Henri Lebesgue
+- Maurice René Fréchet
+- Kurt Godel
+- Paul Cohen
+products_models:
+- ChatGPT
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=_cr46G2K5Fo
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了数学中极具争议的**选择公理**（Axiom of Choice）。从伽利略对无限的早期思考，到康托尔对不同类型无限的开创性工作，再到策梅洛正式提出选择公理，文章追溯了这一概念的演变。尽管选择公理看似直观，却能导致如**巴拿赫-塔斯基悖论**（Banach-Tarski
+  Paradox）等反直觉结果。文章还介绍了哥德尔和科恩如何证明选择公理与集合论其他公理的独立性，最终强调了其在现代数学中的普遍接受和实用价值。
+tags:
+- axiom-of-choice
+- infinity
+- non
+- science
+- theory
+title: 选择公理：数学的基石与悖论
 ---
+
 ### 数学中的选择难题与悖论
 
 数学中有一条规则，它如此简单，你可能会认为它显然是真的，但如果你接受它，你会发现有些线段现在没有长度。

@@ -1,57 +1,56 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: culture
+companies_orgs:
+- 富士康
+- 中宣部
+- 新华社
+- 中央政法委
+- 公安部
+- 最高法院
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- 毛泽东
+- 王兴
+- 曼德拉
+- 甘地
+- 黄之锋
+- 胡适
+- Xi Jinping
+- 王飞林
+- 孟晚舟
+- 谭嗣同
+- 康有为
+- 梁启超
+- 郑南榕
+- 刘强东
+- 许志永
+- 郭飞雄
+- 刘晓波
+products_models:
+- ChatGPT
+project:
+- china-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=05K7U5PEGyU
 speaker: 三個水槍手
-tags:
-  - gender-stereotypes
-  - survivors-guilt
-  - cognitive-empathy
-  - moral-value-of-suffering
-  - public-intellectuals
-title: 从性别偏见到幸存者内疚：一场关于底层、牺牲与爱的深度思辨
-summary: 本期节目通过回应观众评论，深入探讨了一系列复杂议题。节目首先回应了关于性别偏见的批评，讨论了女性在特定职业领域的困境与刻板印象。随后，话题转向“不接地气”的指责，引发了关于如何真正“理解底层”以及“认知同理性”的辩论。讨论进一步深化至海外异议者的“幸存者内疚”与牺牲的道德价值，最后以现代社会中“纯粹关系”的爱情观作为结尾，呈现了一场精彩的社会文化思辨。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-people:
-  - Donald Trump
-  - 毛泽东
-  - 王兴
-  - 曼德拉
-  - 甘地
-  - 黄之锋
-  - 胡适
-  - 习近平
-  - 王飞林
-  - 孟晚舟
-  - 谭嗣同
-  - 康有为
-  - 梁启超
-  - 郑南榕
-  - 刘强东
-  - 许志永
-  - 郭飞雄
-  - 刘晓波
-companies_orgs:
-  - 富士康
-  - 中宣部
-  - 新华社
-  - 中央政法委
-  - 公安部
-  - 最高法院
-products_models:
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 本期节目通过回应观众评论，深入探讨了一系列复杂议题。节目首先回应了关于性别偏见的批评，讨论了女性在特定职业领域的困境与刻板印象。随后，话题转向“不接地气”的指责，引发了关于如何真正“理解底层”以及“认知同理性”的辩论。讨论进一步深化至海外异议者的“幸存者内疚”与牺牲的道德价值，最后以现代社会中“纯粹关系”的爱情观作为结尾，呈现了一场精彩的社会文化思辨。
+tags:
+- cognitive
+- gender
+- public
+- survivors-guilt
+- value
+title: 从性别偏见到幸存者内疚：一场关于底层、牺牲与爱的深度思辨
 ---
+
 ### 引言：一场围绕评论的“公开审判”
 本期节目是一期读评论节目，主要回应了观众对之前关于“三大理论”那期内容的批评。观众的批评主要集中在其中一位主持人对女性的看法上，形成了七三开甚至八二开的两派观点。一部分观众认为其言论存在偏见，而另一部分则认为这反映了真实的社会现象，批评其他主持人“不接地气”。借此机会，我们想坦诚地面对这些批评，并展开更深入的探讨。
 

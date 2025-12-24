@@ -1,49 +1,48 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Haize Labs
+- Air Canada
+- Character AI
+- Chevy
+- Deepseek
+- Frontier Labs
 date: '2025-08-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Leonard Tang
+products_models:
+- ChatGPT
+- Llama 3
+- Cloud3 Opus
+- GPT-4o mini
+- GPT-4
+- GPT-3.5 Sonnets
+- J1 micro
+- 01 mini
+- 03 mini
+- Verdict
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=OMGPvW8TBHc
 speaker: AI Engineer
-tags:
-  - ai-reliability
-  - fuzz-testing
-  - llm-evaluation
-  - adversarial-testing
-  - judge-qa
-title: 生成式AI时代的模糊测试：确保LLM可靠性的关键
-summary: 本文深入探讨了生成式AI（GenAI）时代大型语言模型（LLM）面临的“最后一公里问题”——即如何验证、核实、审计和可靠地部署这些主观且非结构化的系统。Haize Labs的Leonard Tang介绍了其核心解决方案：模糊测试（hazing），通过大规模优化、模拟和搜索，在部署前发现AI应用的脆性和意外行为。文章还详细阐述了传统评估方法的不足，以及如何通过代理（Agent）作为评判者和强化学习（RL）微调等创新方法，实现对AI系统输出的有效评判和输入生成，以构建真正稳健的企业级AI应用。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Leonard Tang
-companies_orgs:
-  - Haize Labs
-  - Air Canada
-  - Character AI
-  - Chevy
-  - Deepseek
-  - Frontier Labs
-products_models:
-  - ChatGPT
-  - Llama 3
-  - Cloud3 Opus
-  - GPT-4o mini
-  - GPT-4
-  - GPT-3.5 Sonnets
-  - J1 micro
-  - 01 mini
-  - 03 mini
-  - Verdict
-media_books: []
 status: evergreen
+summary: 本文深入探讨了生成式AI（GenAI）时代大型语言模型（LLM）面临的“最后一公里问题”——即如何验证、核实、审计和可靠地部署这些主观且非结构化的系统。Haize
+  Labs的Leonard Tang介绍了其核心解决方案：模糊测试（hazing），通过大规模优化、模拟和搜索，在部署前发现AI应用的脆性和意外行为。文章还详细阐述了传统评估方法的不足，以及如何通过代理（Agent）作为评判者和强化学习（RL）微调等创新方法，实现对AI系统输出的有效评判和输入生成，以构建真正稳健的企业级AI应用。
+tags:
+- fuzz-testing
+- judge-qa
+- llm
+- technology
+title: 生成式AI时代的模糊测试：确保LLM可靠性的关键
 ---
+
 ### 引言：AI可靠性与“磨练式测试”
 
 感谢艾莉出色的介绍。

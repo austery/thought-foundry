@@ -1,84 +1,84 @@
 ---
-author: Big Think
+area: society-systems
+category: science
+companies_orgs:
+- Johns Hopkins University
+- Big Think
+- Royal Society
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mindscape podcast
+- The Biggest Ideas in the Universe
+- Spacetime in Motion
+- Quanta and Fields
+- Principia Mathematica
+people:
+- Albert Einstein
+- Isaac Newton
+- Herman Minkowski
+- Carl Schwarzschild
+- Galileo
+- Aristotle
+- James Clerk Maxwell
+- Michael Faraday
+- André-Marie Ampère
+- Johannes Kepler
+- Christiaan Huygens
+- Robert Hooke
+- Christopher Wren
+- Edmond Halley
+- Max Planck
+- Ernest Rutherford
+- Niels Bohr
+- Louis de Broglie
+- Werner Heisenberg
+- Max Born
+- Pascual Jordan
+- Erwin Schrödinger
+- Wolfgang Pauli
+- Paul Dirac
+- Carl Anderson
+- Enrico Fermi
+- Satyendra Nath Bose
+- Chen-Ning Yang
+- Robert Mills
+- Tsung-Dao Lee
+- Chien-Shiung Wu
+- Peter Higgs
+- François Englert
+- Robert Brout
+- Philip Anderson
+- Jeffrey Goldstone
+- Yoichiro Nambu
+- Steven Weinberg
+- Abdus Salam
+- Frank Wilczek
+- David Gross
+- H. David Politzer
+- Murray Gell-Mann
+- George Zweig
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=rT7DMb3ZucU
 speaker: Big Think
-tags:
-  - scientific-discovery
-  - history-of-physics
-  - theory-development
-  - social-context
-  - collective-intelligence
-title: 爱因斯坦的广义相对论：个人天才与集体智慧的交织
-summary: 本文探讨了物理学史上重大发现的本质，特别是广义相对论的诞生。作者Sean Carroll认为，即使没有爱因斯坦，广义相对论也终将被发现，因为它根植于深厚的社会和科学背景。文章对比了牛顿经典力学、麦克斯韦电磁学、狭义相对论以及广义相对论的发展历程，强调了科学进步的累积性和协作性，并以量子力学的发展为例，说明了集体智慧在科学突破中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Albert Einstein
-  - Isaac Newton
-  - Herman Minkowski
-  - Carl Schwarzschild
-  - Galileo
-  - Aristotle
-  - James Clerk Maxwell
-  - Michael Faraday
-  - André-Marie Ampère
-  - Johannes Kepler
-  - Christiaan Huygens
-  - Robert Hooke
-  - Christopher Wren
-  - Edmond Halley
-  - Max Planck
-  - Ernest Rutherford
-  - Niels Bohr
-  - Louis de Broglie
-  - Werner Heisenberg
-  - Max Born
-  - Pascual Jordan
-  - Erwin Schrödinger
-  - Wolfgang Pauli
-  - Paul Dirac
-  - Carl Anderson
-  - Enrico Fermi
-  - Satyendra Nath Bose
-  - Chen-Ning Yang
-  - Robert Mills
-  - Tsung-Dao Lee
-  - Chien-Shiung Wu
-  - Peter Higgs
-  - François Englert
-  - Robert Brout
-  - Philip Anderson
-  - Jeffrey Goldstone
-  - Yoichiro Nambu
-  - Steven Weinberg
-  - Abdus Salam
-  - Frank Wilczek
-  - David Gross
-  - H. David Politzer
-  - Murray Gell-Mann
-  - George Zweig
-companies_orgs:
-  - Johns Hopkins University
-  - Big Think
-  - Royal Society
-products_models: []
-media_books:
-  - Mindscape podcast
-  - The Biggest Ideas in the Universe
-  - Spacetime in Motion
-  - Quanta and Fields
-  - Principia Mathematica
 status: evergreen
+summary: 本文探讨了物理学史上重大发现的本质，特别是广义相对论的诞生。作者Sean Carroll认为，即使没有爱因斯坦，广义相对论也终将被发现，因为它根植于深厚的社会和科学背景。文章对比了牛顿经典力学、麦克斯韦电磁学、狭义相对论以及广义相对论的发展历程，强调了科学进步的累积性和协作性，并以量子力学的发展为例，说明了集体智慧在科学突破中的关键作用。
+tags:
+- development
+- history
+- intelligence
+- scientific-discovery
+- social
+title: 爱因斯坦的广义相对论：个人天才与集体智慧的交织
 ---
+
 ### 科学发现的社会背景
 
 我喜欢说，爱因斯坦作为一名物理学家，即使被评价得再高，也可能被低估了。当我们讲述物理学史时，我们试图保持清晰，但不可能记住所有细节，所以我们倾向于将大部分功劳归于少数几位杰出人物，爱因斯坦就是其中之一。

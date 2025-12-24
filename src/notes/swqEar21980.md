@@ -1,45 +1,45 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Tesla
+- SolarCity
+- Bloomberg Podcasts
+- University of Colorado
+- Delaware State Bar Association
 date: '2025-09-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Matt Levine's newsletter
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Anne Lipton
+- Elon Musk
+- Matt Levine
+products_models:
+- Odd Lots
+project:
+- us-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=swqEar21980
 speaker: Bloomberg Podcasts
-tags:
-  - delaware-corporate-law
-  - shareholder-rights
-  - jurisdiction-shopping
-  - corporate-governance
-  - race-to-the-bottom
-title: 特拉华州公司法面临挑战：埃隆·马斯克与“逐底竞争”
-summary: 特拉华州长期以来是美国公司注册的首选地，以其专业的衡平法院和稳定的公司法体系著称。然而，埃隆·马斯克因薪酬方案纠纷将特斯拉迁往德克萨斯州，引发了对特拉华州主导地位的质疑。本文探讨了特拉华州如何建立其公司法优势，以及当前面临的“逐底竞争”风险，即各州可能通过削弱股东权利来吸引公司注册，这可能对公司治理和股东保护产生深远影响。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Anne Lipton
-  - Elon Musk
-  - Matt Levine
-companies_orgs:
-  - Tesla
-  - SolarCity
-  - Bloomberg Podcasts
-  - University of Colorado
-  - Delaware State Bar Association
-products_models:
-  - Odd Lots
-media_books:
-  - Matt Levine's newsletter
 status: evergreen
+summary: 特拉华州长期以来是美国公司注册的首选地，以其专业的衡平法院和稳定的公司法体系著称。然而，埃隆·马斯克因薪酬方案纠纷将特斯拉迁往德克萨斯州，引发了对特拉华州主导地位的质疑。本文探讨了特拉华州如何建立其公司法优势，以及当前面临的“逐底竞争”风险，即各州可能通过削弱股东权利来吸引公司注册，这可能对公司治理和股东保护产生深远影响。
+tags:
+- corporate-governance
+- financial
+- law
+- right
+- society
+title: 特拉华州公司法面临挑战：埃隆·马斯克与“逐底竞争”
 ---
+
 ### 特拉华州：美国公司注册的“事实标准”
 
 **Tracy Alloway:** 你知道吗，特拉华州的人口大约只有105万，是美国人口最少的州之一，甚至比很多大城市的人口都少。然而，特拉华州却有210万家注册企业，基本上每两个人就有一家企业。

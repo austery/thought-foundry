@@ -1,68 +1,68 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times Book Review
+- Northwestern Mutual Life Insurance
+- National Steel
+- Ford Motor Company
+- J.L. Hudson
+- Hudson Dayton
+- Great Lakes Shipwreck Museum
+- Eastern Michigan University
+- University of Michigan
+- Ohio State
+- Great Lakes Maritime Academy
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Gales of November, the Untold Story of the Edmund Fitzgerald
+- The Wreck of the Edmund Fitzgerald
+- The Today Show
+- A Perfect Storm
+- Good Morning America
+- USA Today
+- Michigan Public Radio
+- The Great Halifax Explosion
+- Titanic
+people:
+- Gilbert Cruz
+- John U. Bacon
+- Gordon Lightfoot
+- Ernest Msurley
+- John D. Rockefeller
+- Christine Brennan
+- Craig Sullivan
+- Bruce Hudson
+- Ruth Hudson
+- John Tanner
+- Deb Champo
+- Bruce Lynn
+- Barry Keane
+products_models:
+- SS Edmund Fitzgerald
+- Arthur Anderson
+- Wilfrid Sykes
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=5gRk4o5Wv_Y
 speaker: New York Times Podcasts
-tags:
-  - shipwreck-history
-  - great-lakes-shipping
-  - maritime-safety
-  - untold-stories
-  - cultural-impact
-title: 埃德蒙·菲茨杰拉德号沉没50周年：一段未被讲述的悲剧与大湖区航运史诗
-summary: 本期播客采访了《十一月狂风》一书的作者约翰·U·培根，探讨了1975年SS埃德蒙·菲茨杰拉德号在苏必利尔湖沉没的事件。节目深入剖析了这艘传奇船只的地位、大湖区重要的工业作用、其水域独特的危险性，以及船长们面临的竞争压力。培根分享了其研究成果，包括对船员和家属的采访，并探讨了戈登·莱特富特著名民谣对这场悲剧的持久影响，以及随之而来的海事安全改进。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Gilbert Cruz
-  - John U. Bacon
-  - Gordon Lightfoot
-  - Ernest Msurley
-  - John D. Rockefeller
-  - Christine Brennan
-  - Craig Sullivan
-  - Bruce Hudson
-  - Ruth Hudson
-  - John Tanner
-  - Deb Champo
-  - Bruce Lynn
-  - Barry Keane
-companies_orgs:
-  - New York Times Book Review
-  - Northwestern Mutual Life Insurance
-  - National Steel
-  - Ford Motor Company
-  - J.L. Hudson
-  - Hudson Dayton
-  - Great Lakes Shipwreck Museum
-  - Eastern Michigan University
-  - University of Michigan
-  - Ohio State
-  - Great Lakes Maritime Academy
-products_models:
-  - SS Edmund Fitzgerald
-  - Arthur Anderson
-  - Wilfrid Sykes
-media_books:
-  - The Gales of November, the Untold Story of the Edmund Fitzgerald
-  - The Wreck of the Edmund Fitzgerald
-  - The Today Show
-  - A Perfect Storm
-  - Good Morning America
-  - USA Today
-  - Michigan Public Radio
-  - The Great Halifax Explosion
-  - Titanic
 status: evergreen
+summary: 本期播客采访了《十一月狂风》一书的作者约翰·U·培根，探讨了1975年SS埃德蒙·菲茨杰拉德号在苏必利尔湖沉没的事件。节目深入剖析了这艘传奇船只的地位、大湖区重要的工业作用、其水域独特的危险性，以及船长们面临的竞争压力。培根分享了其研究成果，包括对船员和家属的采访，并探讨了戈登·莱特富特著名民谣对这场悲剧的持久影响，以及随之而来的海事安全改进。
+tags:
+- cultural
+- financial
+- history
+- safety
+- untold-story
+title: 埃德蒙·菲茨杰拉德号沉没50周年：一段未被讲述的悲剧与大湖区航运史诗
 ---
+
 ### 沉没50年：美国最著名的沉船事件
 
 **Gilbert:** 我是《**纽约时报书评**》（New York Times Book Review: 《纽约时报》的图书评论版块）的编辑吉尔伯特·克鲁兹，这里是书评播客。这可以说是美国历史上最著名的沉船事件。五十年前的这个月，即1975年11月10日，**SS埃德蒙·菲茨杰拉德号**（SS Edmund Fitzgerald: 一艘美国湖泊货轮，于1975年在苏必利尔湖沉没）在**苏必利尔湖**（Lake Superior: 北美五大湖中最大、最深的一个）沉没，船上所有人员全部遇难。

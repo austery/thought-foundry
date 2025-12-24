@@ -1,64 +1,64 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- YouTube
+- Google
+- Spotify
+- Apple
+- 中央戏剧学院
+- Screen Actors Guild – American Federation of Television and Radio Artists
 date: '2025-03-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《知音》
+- 《家庭医生》
+- 《阿诺拉》
+- 《泰坦尼克号》
+- 《阿甘正传》
+- 《角斗士》
+- 《莎翁情史》
+- 《辛德勒的名单》
+people:
+- Conan O'Brien
+- Donald Trump
+- JD Vance
+- Volodymyr Zelenskyy
+- Mikey Madison
+- Avril Lavigne
+- 李佳琦
+- 薇娅
+- 姜逸磊
+- 鲁迅
+- Vladimir Putin
+products_models:
+- YouTube Music
+- Google Podcast
+- TikTok
+- Instagram
+- QQ空间
+project:
+- cultural-critique
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=KcrVM-7JKp0
 speaker: 張内咸
-tags:
-  - oscars-decline
-  - hollywood-industry
-  - class-solidification
-  - media-hostility
-  - influencer-economy
-  - z-generation-engagement
-title: 奥斯卡的困境：从史上最差颁奖礼看好莱坞的阶级固化与媒介敌对
-summary: 本文深入探讨了奥斯卡颁奖典礼收视率持续下滑、品牌影响力衰退的深层原因。通过分析备受争议的最佳影片《阿诺拉》以及奥斯卡试图迎合Z时代年轻观众的努力，指出其核心问题并非简单的“政治正确”，而是好莱坞内部根深蒂固的阶级固化和传统影视工业对新兴互联网媒介的敌对态度，导致其失去了引领流行文化的能力，并最终造成受众老龄化。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-  - us-analysis
-people:
-  - Conan O'Brien
-  - Donald Trump
-  - JD Vance
-  - Volodymyr Zelenskyy
-  - Mikey Madison
-  - Avril Lavigne
-  - 李佳琦
-  - 薇娅
-  - 姜逸磊
-  - 鲁迅
-  - Vladimir Putin
-companies_orgs:
-  - YouTube
-  - Google
-  - Spotify
-  - Apple
-  - 中央戏剧学院
-  - Screen Actors Guild – American Federation of Television and Radio Artists
-products_models:
-  - YouTube Music
-  - Google Podcast
-  - TikTok
-  - Instagram
-  - QQ空间
-media_books:
-  - 《知音》
-  - 《家庭医生》
-  - 《阿诺拉》
-  - 《泰坦尼克号》
-  - 《阿甘正传》
-  - 《角斗士》
-  - 《莎翁情史》
-  - 《辛德勒的名单》
 status: evergreen
+summary: 本文深入探讨了奥斯卡颁奖典礼收视率持续下滑、品牌影响力衰退的深层原因。通过分析备受争议的最佳影片《阿诺拉》以及奥斯卡试图迎合Z时代年轻观众的努力，指出其核心问题并非简单的“政治正确”，而是好莱坞内部根深蒂固的阶级固化和传统影视工业对新兴互联网媒介的敌对态度，导致其失去了引领流行文化的能力，并最终造成受众老龄化。
+tags:
+- class
+- decline
+- economy
+- generation
+- industry
+- media
+title: 奥斯卡的困境：从史上最差颁奖礼看好莱坞的阶级固化与媒介敌对
 ---
+
 大家好，我是张内咸。首先给大家道个歉，上一期节目里出现了一点小失误，因为做后期的时候比较着急，把一张人物照片给配错了。比较麻烦的地方是YouTube后台虽然有一些云剪辑的功能，但是不能处理这种类型的修改。如果我想把照片换掉，只能把视频删掉重新上传。这对我来说工作量倒是不大，但是YouTube后台会给我这个账号扣分，因为我这是刚注册的新号，这种操作对我这个号影响比较大。所以非常抱歉，我不能把视频删掉重新上传，但是我在原视频下面做了勘误说明，希望大家见谅。并且也非常感谢这位细心的观众，感谢大家的互动和留言。但是我确实太忙了，基本上每天都是一头扎在工作里面，连看手机的时间都没有，所以反应比较慢，但是每条评论我都会看，希望大家可以多多给我提意见。
 
 还有一件更尴尬的事情要跟大家道个歉，就是我在公告板上留了邮箱地址，但是我居然把这个事情都给忘了，我甚至不记得自己留过邮箱。结果前几天我才发现，从一月份开始就有观众给我发邮件，但是现在都已经三月了，我竟然两个月都没回邮件。以后我一定记得看邮箱，大家如果有问题想咨询我，或者是一些涉及到隐私、不方便在YouTube视频下面直接留言的情况，都可以给我发邮件沟通。

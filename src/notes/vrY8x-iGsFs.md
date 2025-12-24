@@ -1,31 +1,28 @@
 ---
-title: 停止免费喂养AI：OpenLedger的去中心化数据经济愿景
-summary: OpenLedger的Ram Kumar探讨了当前AI数据经济中用户数据被免费使用的现状。他提出，数据是新的石油，用户应拥有数据所有权并获得报酬。OpenLedger旨在构建一个去中心化平台，让个人和企业贡献数据并从中获益，确保AI发展的公平性和透明性。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-data-ownership
-- blockchain
-- data-economy
-- decentralized-ai
-- openledger
-people: []
+area: finance-wealth
+category: crypto
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-04'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=vrY8x-iGsFs
+speaker: EO
 status: evergreen
+summary: OpenLedger的Ram Kumar探讨了当前AI数据经济中用户数据被免费使用的现状。他提出，数据是新的石油，用户应拥有数据所有权并获得报酬。OpenLedger旨在构建一个去中心化平台，让个人和企业贡献数据并从中获益，确保AI发展的公平性和透明性。
+tags:
+- data
+- economy
+- llm
+- openledger
+title: 停止免费喂养AI：OpenLedger的去中心化数据经济愿景
 ---
+
 ### 数据所有权与AI的未来
 
 I learned the world through the internet; I think for my daughter, they will learn the world through AI.

@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-02-22
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=sxs8u_k1vrY'
-speaker: 徒步的騎手
-tags:
-  - elected-autocracy
-  - political-legitimacy
-  - crisis-management
-  - democracy-recession
-  - nationalism
-title: 民选独裁的深层逻辑：选举、恐惧与危机的政治机制
-summary: 本文深入探讨了民选独裁政权的运作机制，挑战了西方对普京等民选独裁者简单化的认知。文章指出，选民支持强人往往源于对国家陷入混乱的恐惧，而非经济绩效。民选独裁通过制造无解的危机和满足国民精神需求来维持统治，并分析了其与极权独裁、自由民主之间的转型路径。文章最后警示了民主的脆弱性，以及历史文化对政治走向的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Vladimir Putin
-  - Slobodan Milošević
-  - Lex Friedman
-  - Mario Vargas Llosa
-  - John Maynard Keynes
+category: geopolitics
 companies_orgs:
-  - MIT
-  - 金融时报
-  - 经济学人
-products_models: '[]'
+- MIT
+- 金融时报
+- 经济学人
+date: 2025-02-22
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《民选独裁》
+- 《民选独裁》
+people:
+- Vladimir Putin
+- Slobodan Milošević
+- Lex Friedman
+- Mario Vargas Llosa
+- John Maynard Keynes
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=sxs8u_k1vrY
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了民选独裁政权的运作机制，挑战了西方对普京等民选独裁者简单化的认知。文章指出，选民支持强人往往源于对国家陷入混乱的恐惧，而非经济绩效。民选独裁通过制造无解的危机和满足国民精神需求来维持统治，并分析了其与极权独裁、自由民主之间的转型路径。文章最后警示了民主的脆弱性，以及历史文化对政治走向的深远影响。
+tags:
+- canada
+- crisis-management
+- financial
+- nationalism
+- political-legitimacy
+title: 民选独裁的深层逻辑：选举、恐惧与危机的政治机制
 ---
 
 ### 民选独裁的悖论：真选举还是假支持？

@@ -1,51 +1,50 @@
 ---
-author: 北美王路飞
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Oak Tree Capital
+- Nvidia
+- OpenAI
+- Microsoft
+- Google
+- JPMorgan Chase
+- Goldman Sachs
+- Oracle
+- Meta
+- Lycos
+- MySpace
+- Brookfield
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Howard Marks' memo
+people:
+- Howard Marks
+- Greenspan
+- Derek Thompson
+- Buffett
+- Sam Altman
+- Bob
+products_models: []
+project:
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=5unaBeg3N0w
 speaker: 北美王路飞
-tags:
-  - ai-bubble
-  - investment-strategy
-  - societal-impact
-  - job-displacement
-  - class-stratification
-title: AI泡沫下的隐忧：霍华德·马克斯的警示与社会代价
-summary: 本文深入剖析霍华德·马克斯关于AI革命的最新备忘录，探讨AI热潮是否为泡沫，分析其历史相似性、金融风险及潜在的社会动荡。文章指出，AI的颠覆性不仅在于技术，更在于其可能加剧的阶级固化、失业问题和贫富差距，并提出投资者应如何在中庸之道中规避风险。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Howard Marks
-  - Greenspan
-  - Derek Thompson
-  - Buffett
-  - Sam Altman
-  - Bob
-companies_orgs:
-  - Oak Tree Capital
-  - Nvidia
-  - OpenAI
-  - Microsoft
-  - Google
-  - JPMorgan Chase
-  - Goldman Sachs
-  - Oracle
-  - Meta
-  - Lycos
-  - MySpace
-  - Brookfield
-products_models: []
-media_books:
-  - Howard Marks' memo
 status: evergreen
+summary: 本文深入剖析霍华德·马克斯关于AI革命的最新备忘录，探讨AI热潮是否为泡沫，分析其历史相似性、金融风险及潜在的社会动荡。文章指出，AI的颠覆性不仅在于技术，更在于其可能加剧的阶级固化、失业问题和贫富差距，并提出投资者应如何在中庸之道中规避风险。
+tags:
+- ai-bubble
+- class
+- job-displacement
+- societal-impact
+title: AI泡沫下的隐忧：霍华德·马克斯的警示与社会代价
 ---
+
 ### AI浪潮下的泡沫隐忧与社会代价
 
 当前科技界正涌动着一股全新的力量——人工智能（AI）。无数公司正投入巨额资金，誓言要改变世界。然而，这种变革的背后，也弥漫着一种深刻的不安，正如橡树资本创始人霍华德·马克斯（Howard Marks）近期所感受到的。他在拜访客户时，被问及最多的问题便是：AI革命是否是一个泡沫？

@@ -1,54 +1,52 @@
 ---
-author: 硅谷101
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Amazon
+- Nvidia
+- Google
+- Adobe
+- Blue Origin
+- Ocean Cleanup
+- 康泰纳仕
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Sam Altman
+- Matt Garman
+- Shantanu Narayen
+- Sanjay Bhakta
+- Werner Vogels
+products_models:
+- GPT-4
+- Gemini 3
+- Nova 2 Lite
+- Nova 2 Pro
+- Nova 2 Sonic
+- Nova 2 Omni
+- Trainium
+- Trainium3
+- Trainium4
+- Amazon Bedrock
+- AgentCore
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=-_JDc0XYsB4
 speaker: 硅谷101
-tags:
-  - llm
-  - prompt-engineering
-  - cloud-computing
-  - agentic-ai
-title: AI云端狂想曲：亚马逊云科技的算力突围、Agent重构与卓越运营
-summary: 深度剖析亚马逊云科技在re:Invent大会上的技术亮点，包括算力升级（GPU+ASIC）、自研模型Nova系列、Agent平台的构建以及对“卓越运营”的重视，揭示其在AI浪潮中的战略布局。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sam Altman
-  - Matt Garman
-  - Shantanu Narayen
-  - Sanjay Bhakta
-  - Werner Vogels
-companies_orgs:
-  - OpenAI
-  - Amazon
-  - Nvidia
-  - Google
-  - Adobe
-  - Blue Origin
-  - Ocean Cleanup
-  - 康泰纳仕
-products_models:
-  - GPT-4
-  - Gemini 3
-  - Nova 2 Lite
-  - Nova 2 Pro
-  - Nova 2 Sonic
-  - Nova 2 Omni
-  - Trainium
-  - Trainium3
-  - Trainium4
-  - Amazon Bedrock
-  - AgentCore
-media_books: []
 status: evergreen
+summary: 深度剖析亚马逊云科技在re:Invent大会上的技术亮点，包括算力升级（GPU+ASIC）、自研模型Nova系列、Agent平台的构建以及对“卓越运营”的重视，揭示其在AI浪潮中的战略布局。
+tags:
+- agentic-ai
+- cloud-computing
+title: AI云端狂想曲：亚马逊云科技的算力突围、Agent重构与卓越运营
 ---
+
 **
 
 ### AI大战新格局与亚马逊云科技的战略机遇

@@ -1,44 +1,44 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- World Bank
+- International Monetary Fund
+- Asian Development Bank
+- Paris Club
+- China Road and Bridge Corporation
+- China State Construction Engineering Corporation
+- African Union
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《世界报》
+people:
+- Xi Jinping
+- Wang Zhi'an
+- Mahinda Rajapaksa
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ran_qMHxu0k
 speaker: 老周横眉
-tags:
-  - belt-and-road-initiative
-  - debt-trap
-  - economic-colonialism
-  - geopolitical-influence
-  - infrastructure-diplomacy
-title: 一带一路十二年：经济失败与政治困境的深度解析
-summary: 本文深入探讨了中国“一带一路”倡议在推行十二年后的真实面貌。文章分析了该倡议的愿景、巨额投资及其在国内外引发的截然不同的评价。通过具体案例，揭示了项目普遍面临的高坏账率、债务困境、以及由此产生的“债务陷阱”争议。同时，文章也审视了“一带一路”在巩固中国内部民族自信心方面的政治成功，以及在国际关系中遭遇的外部政治失败，最终得出其在经济和对外事务上均未成功的结论。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Xi Jinping
-  - Wang Zhi'an
-  - Mahinda Rajapaksa
-companies_orgs:
-  - World Bank
-  - International Monetary Fund
-  - Asian Development Bank
-  - Paris Club
-  - China Road and Bridge Corporation
-  - China State Construction Engineering Corporation
-  - African Union
-products_models: []
-media_books:
-  - 《世界报》
 status: evergreen
+summary: 本文深入探讨了中国“一带一路”倡议在推行十二年后的真实面貌。文章分析了该倡议的愿景、巨额投资及其在国内外引发的截然不同的评价。通过具体案例，揭示了项目普遍面临的高坏账率、债务困境、以及由此产生的“债务陷阱”争议。同时，文章也审视了“一带一路”在巩固中国内部民族自信心方面的政治成功，以及在国际关系中遭遇的外部政治失败，最终得出其在经济和对外事务上均未成功的结论。
+tags:
+- debt
+- economic
+- geopolitical-influence
+- geopolitics
+- infrastructure
+title: 一带一路十二年：经济失败与政治困境的深度解析
 ---
+
 ### 一带一路：愿景、投资与争议
 
 上周最受关注的事件是中国的国庆活动。我一直认为，在这些活动中，你会发现发达国家几乎没有参与。我相信名单上很多国家甚至在地图上都找不到，甚至闻所未闻。那么，我们不禁要问，究竟是哪些国家愿意与中国站在一起呢？事实上，答案很简单：其中80%都是参与了**一带一路**（Belt and Road Initiative，简称BRI：中国提出的跨国基础设施建设和投资倡议）计划的国家。

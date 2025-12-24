@@ -1,36 +1,35 @@
 ---
-author: TED
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- KoBold
+- TED
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mfikeyi Makayi
+products_models:
+- KoBold mine
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=GUn0ocX5G-0
 speaker: TED
-tags:
-  - critical-metals
-  - mineral-exploration
-  - machine-learning
-  - mine-design
-  - circular-economy
-title: AI如何重塑矿业：关键金属勘探的新范式
-summary: 本篇文章探讨了关键金属在构建电气化和循环经济中的核心作用，并揭示了传统矿业勘探在研发投入和技术进步方面的不足。Mfikeyi Makayi介绍了KoBold公司如何利用机器学习和人工智能，通过预测矿体位置、量化不确定性并优化矿山设计，彻底改变矿产勘探和开采。这种创新方法不仅提高了效率和盈利能力，还承诺实现更安全、环境更可持续、更能支持当地社区的矿山运营。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Mfikeyi Makayi
-companies_orgs:
-  - KoBold
-  - TED
-products_models:
-  - KoBold mine
-media_books: []
 status: evergreen
+summary: 本篇文章探讨了关键金属在构建电气化和循环经济中的核心作用，并揭示了传统矿业勘探在研发投入和技术进步方面的不足。Mfikeyi Makayi介绍了KoBold公司如何利用机器学习和人工智能，通过预测矿体位置、量化不确定性并优化矿山设计，彻底改变矿产勘探和开采。这种创新方法不仅提高了效率和盈利能力，还承诺实现更安全、环境更可持续、更能支持当地社区的矿山运营。
+tags:
+- circular-economy
+- design
+- history
+title: AI如何重塑矿业：关键金属勘探的新范式
+companies:
+- critical-metal
 ---
+
 ### 引言：矿业背景与关键金属的需求
 
 我出生并成长在赞比亚，一个以其丰富的铜矿开采历史而闻名的国家。

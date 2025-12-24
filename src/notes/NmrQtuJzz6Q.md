@@ -1,63 +1,61 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国共产党
+- 国民党
+- 民进党
+- 自民党
+- G7
+- WTO
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 高市早苗
+- 郑丽文
+- 蔡英文
+- 孙春兰
+- 吴仪
+- 洪秀柱
+- 萧美琴
+- 吕秀莲
+- 陈菊
+- 江青
+- 宋庆龄
+- 邓颖超
+- 王光美
+- 小池百合子
+- 田中真纪子
+- Xi Jinping
+- 毛泽东
+- 刘少奇
+- 赖清德
+- 李登辉
+- 陈水扁
+- 马英九
+- 安倍晋三
+- 麻生太郎
+- 小泉纯一郎
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=NmrQtuJzz6Q
 speaker: 三個水槍手
-tags:
-  - female-leadership
-  - east-asian-politics
-  - political-systems-comparison
-  - gender-in-politics
-title: 从高市早苗到蔡英文：解析中日台女性政治家的崛起密码
-summary: 以高市早苗和郑丽文的当选为契机，本文深入剖析了东亚地区女性政治家的崛起路径。文章对比了中国、日本和台湾三地截然不同的政治生态，探讨了“夫人政治”、政治丑闻、制度性保障以及社会文化预期等因素，如何塑造了各地女性领导者的独特形象与执政风格。从中国的“副国级天花板”，到日本危机后的“强硬叛逆者”，再到台湾民主化进程中的本土力量，揭示了她们在男性主导的政治舞台上迥异的奋斗轨迹。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 高市早苗
-  - 郑丽文
-  - 蔡英文
-  - 孙春兰
-  - 吴仪
-  - 洪秀柱
-  - 萧美琴
-  - 吕秀莲
-  - 陈菊
-  - 江青
-  - 宋庆龄
-  - 邓颖超
-  - 王光美
-  - 小池百合子
-  - 田中真纪子
-  - 习近平
-  - 毛泽东
-  - 刘少奇
-  - 赖清德
-  - 李登辉
-  - 陈水扁
-  - 马英九
-  - 安倍晋三
-  - 麻生太郎
-  - 小泉纯一郎
-companies_orgs:
-  - 中国共产党
-  - 国民党
-  - 民进党
-  - 自民党
-  - G7
-  - WTO
-products_models: []
-media_books: []
 status: evergreen
+summary: 以高市早苗和郑丽文的当选为契机，本文深入剖析了东亚地区女性政治家的崛起路径。文章对比了中国、日本和台湾三地截然不同的政治生态，探讨了“夫人政治”、政治丑闻、制度性保障以及社会文化预期等因素，如何塑造了各地女性领导者的独特形象与执政风格。从中国的“副国级天花板”，到日本危机后的“强硬叛逆者”，再到台湾民主化进程中的本土力量，揭示了她们在男性主导的政治舞台上迥异的奋斗轨迹。
+tags:
+- female-leadership
+- political
+- politics
+title: 从高市早苗到蔡英文：解析中日台女性政治家的崛起密码
 ---
+
 ### 东亚政坛的女性新面孔
 
 近期，东亚政坛出现了两位引人注目的女性政治家。一位是刚刚组建自己内阁的日本首相高市早苗，另一位是当选台湾国民党第二位女性党主席的郑丽文。

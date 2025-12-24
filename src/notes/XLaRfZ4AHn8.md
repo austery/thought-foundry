@@ -1,66 +1,65 @@
 ---
-author: Dwarkesh Patel
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Anthropic
+- Stripe Press
+- DeepMind
+- OpenAI
+- 80,000 Hours
+- Epoch
 date: '2025-03-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Scaling Era》
+- 《Fantastic Anachronism》
+- 《Caro LBJ biographies》
+people:
+- Trenton Bricken
+- Sholto Douglas
+- Dario Amodei
+- Demis Hassabis
+- Jared Kaplan
+- Gwern Branwen
+- Scott Alexander
+- Kim Peek
+- Leopold Aschenbrenner
+- Sarah Payne
+- David Reich
+- Mark Zuckerberg
+- Jeff Bezos
+- Lyndon B. Johnson
+- Robert Moses
+- Anil Varanasi
+- Max Herrns
+- MrBeast
+products_models:
+- AlphaZero
+- Claude
+- Anki
+- GoodReads
+- Substack
+- YouTube Shorts
+- TikTok
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=XLaRfZ4AHn8
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - career-advice
-  - content-creation
-  - podcast-growth
-  - knowledge-management
-title: AI时代下的职业发展与播客成长策略
-summary: 本期AMA节目中，主持人**Dwarkesh Patel**与嘉宾**Trenton Bricken**和**Sholto Douglas**探讨了AI对职业生涯的影响、播客运营策略及个人成长方法。节目介绍了新书《The Scaling Era》，讨论了AI模型在知识联结方面的局限性，并为年轻人提供了职业建议，如成为AI领域的**Matt Levine**。此外，还分享了播客嘉宾选择、内容分发技巧以及在AGI快速发展背景下如何规划个人生活和慈善事业。节目强调了持续学习和靠近前沿的重要性。
-insight: ''
-draft: true
-series: ''
-category: career-development
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Dwarkesh Patel
-  - Trenton Bricken
-  - Sholto Douglas
-  - Dario Amodei
-  - Demis Hassabis
-  - Jared Kaplan
-  - Gwern Branwen
-  - Scott Alexander
-  - Kim Peek
-  - Leopold Aschenbrenner
-  - Sarah Payne
-  - David Reich
-  - Mark Zuckerberg
-  - Jeff Bezos
-  - Lyndon B. Johnson
-  - Robert Moses
-  - Anil Varanasi
-  - Max Herrns
-  - MrBeast
-companies_orgs:
-  - Anthropic
-  - Stripe Press
-  - DeepMind
-  - OpenAI
-  - 80,000 Hours
-  - Epoch
-products_models:
-  - AlphaZero
-  - Claude
-  - Anki
-  - GoodReads
-  - Substack
-  - YouTube Shorts
-  - TikTok
-media_books:
-  - 《The Scaling Era》
-  - 《Fantastic Anachronism》
-  - 《Caro LBJ biographies》
 status: evergreen
+summary: 本期AMA节目中，主持人**Dwarkesh Patel**与嘉宾**Trenton Bricken**和**Sholto Douglas**探讨了AI对职业生涯的影响、播客运营策略及个人成长方法。节目介绍了新书《The
+  Scaling Era》，讨论了AI模型在知识联结方面的局限性，并为年轻人提供了职业建议，如成为AI领域的**Matt Levine**。此外，还分享了播客嘉宾选择、内容分发技巧以及在AGI快速发展背景下如何规划个人生活和慈善事业。节目强调了持续学习和靠近前沿的重要性。
+tags:
+- career
+- content-creation
+- growth
+- knowledge-management
+title: AI时代下的职业发展与播客成长策略
 ---
+
 ### 新书发布与AI的跨学科影响
 
 本期节目是“你问我答”（Ask Me Anything，简称AMA）特辑，主持人**Dwarkesh Patel**邀请了朋友**Trenton Bricken**和**Sholto Douglas**一同参与。他们都是**Anthropic**的AI研究员。**Dwarkesh**还宣布他的新书《**The Scaling Era**》于今日发行。他希望听众能通过本书了解智能的本质、数十亿额外劳动力出现后的经济影响，以及如何理解超越人类总和的智能。这本书由**Stripe Press**出版，汇集了**Dwarkesh**对AI实验室CEO、研究员、经济学家和哲学家等各领域学者的采访精华。例如，读者可以读到**Dario Amodei**解释“规模化为何有效”，下一页则是**Demis Hassabis**阐述**DeepMind**关于**RL**（Reinforcement Learning: 强化学习）路线的计划，以及**AlphaZero**如何影响下一代**LLM**（Large Language Model: 大语言模型）。

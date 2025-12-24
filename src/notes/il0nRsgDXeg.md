@@ -1,25 +1,25 @@
 ---
-title: 关于中国真实失业率及其对政权影响的探讨
-summary: null
-area: society-systems
-category: general
-project: china-analysis
-tags:
-  - 政治
-  - 数字极权
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-05-25'
+area: society-thinking
 author: Lei
-speaker: 夸克说
+category: politics-society
 channel: null
+companies_orgs: []
+date: '2025-05-25'
 guest: null
 insight: null
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project: china-analysis
 source: https://www.youtube.com/watch?v=il0nRsgDXeg
+speaker: 夸克说
+summary: null
+tags:
+- 数字极权
+title: 关于中国真实失业率及其对政权影响的探讨
 ---
+
 大家好，欢迎收看夸克说，我是夸克。
 
 今天我们要探讨的话题，可能有些争议性，但绝对是当今中国社会大家普遍关心的问题——那就是中国真实的失业率。

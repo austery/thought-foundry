@@ -1,57 +1,57 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Dunn Global
+- Meta
+- SK Group
+- FBI
+- DEA
+- Walmart
+- CVS
+- Walgreens
+- CDC
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《社交网络》
+- 《华尔街日报》
+- 《彭博通讯社》
+people:
+- 何如佳
+- David Brody
+- 崔敏珍
+- 崔泰原
+- 卢泰愚
+- Mark Zuckerberg
+- Rashimi
+- Harlan
+- Oni M
+products_models:
+- Adderall
+- OxyContin
+- Vicodin
+- 羟考酮
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=NhbsY4WxD-s
 speaker: 记者易速利
-tags:
-  - telemedicine-abuse
-  - adderall-misuse
-  - startup-ethics
-  - legal-consequences
-  - controlled-substances
-title: 北大女生何如佳硅谷创业神话破灭：远程医疗公司Dunn Global涉嫌滥开Adderall，CEO面临20年刑期
-summary: 本文详细报道了90后北大女生何如佳创办的远程医疗公司Dunn Global及其CEO何如佳因涉嫌欺诈药房、医保系统及非法分发受控药物Adderall而被定罪的案件。公司利用疫情期间的政策宽松迅速发展，营收过亿，但其激进的运营模式导致药物滥用，最终何如佳面临最高20年刑期。文章还探讨了远程医疗的伦理困境、药物滥用问题及其对社会的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 何如佳
-  - David Brody
-  - 崔敏珍
-  - 崔泰原
-  - 卢泰愚
-  - Mark Zuckerberg
-  - Rashimi
-  - Harlan
-  - Oni M
-companies_orgs:
-  - Dunn Global
-  - Facebook
-  - SK Group
-  - FBI
-  - DEA
-  - Walmart
-  - CVS
-  - Walgreens
-  - CDC
-products_models:
-  - Adderall
-  - OxyContin
-  - Vicodin
-  - 羟考酮
-media_books:
-  - 《社交网络》
-  - 《华尔街日报》
-  - 《彭博通讯社》
 status: evergreen
+summary: 本文详细报道了90后北大女生何如佳创办的远程医疗公司Dunn Global及其CEO何如佳因涉嫌欺诈药房、医保系统及非法分发受控药物Adderall而被定罪的案件。公司利用疫情期间的政策宽松迅速发展，营收过亿，但其激进的运营模式导致药物滥用，最终何如佳面临最高20年刑期。文章还探讨了远程医疗的伦理困境、药物滥用问题及其对社会的影响。
+tags:
+- controlled-substance
+- ethics
+- geopolitical
+- health
+- legal
+title: 北大女生何如佳硅谷创业神话破灭：远程医疗公司Dunn Global涉嫌滥开Adderall，CEO面临20年刑期
 ---
+
 ### 硅谷远程医疗公司Dunn Global创始人何如佳被定罪
 
 旧金山联邦地区法院经过七周审理后，于11月18日裁定，硅谷初创公司**Dunn Global**（一家远程医疗服务公司）前CEO何如佳（Rujia He）及其前首席医生大卫·布罗迪（David Brody）有罪。罪名包括两项共谋欺诈药房、医保系统（Medicaid）及其他保险机构，以及四项分发受控药物。何如佳还被判两项妨碍司法的共谋罪名成立。法官将于2026年2月宣判，刑期最高可达20年。

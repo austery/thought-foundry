@@ -1,44 +1,44 @@
 ---
-author: Joseph Wang
+area: market-analysis
+category: finance
+companies_orgs:
+- IMF
+- PY Homes
+- LAR
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Xi Jinping
+- Javier Milei
+- Lula
+- Jair Bolsonaro
+products_models:
+- S&P 500
+- CPI
+- GLD
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Gig5BzuLVqQ
 speaker: Joseph Wang
-tags:
-  - market-trends
-  - inflation-data
-  - housing-market
-  - geopolitical-strategy
-  - precious-metals
-title: 市场周报：标普创新高、通胀徘徊、地缘政治新格局与贵金属动荡
-summary: 本周市场焦点集中在标普500指数创下历史新高、通胀数据好于预期以及美中贸易谈判的积极进展。报告深入分析了利率下降对房地产市场（包括新房建设、二手房销售和再融资）的有限影响。同时，详细探讨了美国对阿根廷的金融援助如何融入其更广泛的地缘战略转变，特别提及了“门罗主义”的复兴。最后，回顾了黄金和白银市场经历的抛物线式上涨后的大幅回调，并展望了下周美联储会议、特习会以及科技巨头财报等重大事件。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Javier Milei
-  - Lula
-  - Jair Bolsonaro
-companies_orgs:
-  - IMF
-  - PY Homes
-  - LAR
-products_models:
-  - S&P 500
-  - CPI
-  - GLD
-media_books: []
 status: evergreen
+summary: 本周市场焦点集中在标普500指数创下历史新高、通胀数据好于预期以及美中贸易谈判的积极进展。报告深入分析了利率下降对房地产市场（包括新房建设、二手房销售和再融资）的有限影响。同时，详细探讨了美国对阿根廷的金融援助如何融入其更广泛的地缘战略转变，特别提及了“门罗主义”的复兴。最后，回顾了黄金和白银市场经历的抛物线式上涨后的大幅回调，并展望了下周美联储会议、特习会以及科技巨头财报等重大事件。
+tags:
+- geopolitical-strategy
+- housing-market
+- inflation-datum
+- market-trend
+title: 市场周报：标普创新高、通胀徘徊、地缘政治新格局与贵金属动荡
+companies:
+- precious-metal
 ---
+
 ### 市场概览：标普创新高、通胀徘徊与美中贸易进展
 
 大家好，今天是10月25日，这是本周的市场周报。

@@ -1,51 +1,51 @@
 ---
-author: 美投讲美股
+area: market-analysis
+category: finance
+companies_orgs:
+- Netflix
+- Walmart
+- HBO
+- Disney
+- Apple
+- Amazon
+- Costco
+- Palantir
 date: '2025-06-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《绝命毒师》
+- 《老友记》
+- 《纸牌屋》
+- 《鱿鱼游戏》
+- 《星期三》
+- 《怪奇物语》
+- Bloodline
+- Sense8
+people:
+- Reed Hastings
+products_models:
+- HBO Go
+- Disney Plus
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=abkDEKXIqhQ
 speaker: 美投讲美股
-tags:
-  - netflix-business-model
-  - streaming-wars
-  - original-content-strategy
-  - financial-health
-  - long-term-investment
-title: Netflix：从挣扎求生到内容之王，十年安心持有的蓝筹股
-summary: 本文深入分析了流媒体巨头Netflix从DVD租赁起家，历经多次颠覆性挑战，最终转型为原创内容制作商的历程。文章指出，尽管Netflix过去面临巨大的财务压力和市场竞争，但其商业模式已在近年成功跑通，实现了正向现金流和用户持续增长。凭借其独特的硅谷思维和逆境反转能力，Netflix已建立起强大的护城河，成为一家兼具增长潜力和稳定性的蓝筹股，适合长期安心持有。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Reed Hastings
-companies_orgs:
-  - Netflix
-  - Walmart
-  - HBO
-  - Disney
-  - Apple
-  - Amazon
-  - Costco
-  - Palantir
-products_models:
-  - HBO Go
-  - Disney Plus
-media_books:
-  - 《绝命毒师》
-  - 《老友记》
-  - 《纸牌屋》
-  - 《鱿鱼游戏》
-  - 《星期三》
-  - 《怪奇物语》
-  - Bloodline
-  - Sense8
 status: evergreen
+summary: 本文深入分析了流媒体巨头Netflix从DVD租赁起家，历经多次颠覆性挑战，最终转型为原创内容制作商的历程。文章指出，尽管Netflix过去面临巨大的财务压力和市场竞争，但其商业模式已在近年成功跑通，实现了正向现金流和用户持续增长。凭借其独特的硅谷思维和逆境反转能力，Netflix已建立起强大的护城河，成为一家兼具增长潜力和稳定性的蓝筹股，适合长期安心持有。
+tags:
+- financial-health
+- long-term-investment
+- netflix-business-model
+- strategy
+- war
+title: Netflix：从挣扎求生到内容之王，十年安心持有的蓝筹股
 ---
+
 ### 引言：梦寐以求的投资与Netflix的逆袭
 
 大家好，我是美投君，你们的美股探路者。投资者梦寐以求的投资究竟是什么？有人认为是动辄翻倍的暴涨股，但这类公司往往等你发现时已为时过晚，且难以长久。也有人说是稳定分红的企业，可以躺着赚钱，然而这类公司通常缺乏上涨潜力，没有十年二十年很难看到质变。对于普通投资者而言，真正理想的投资，应该是那种既有不俗上涨潜力，又能稳定上涨、让人安心持有的企业。今天，我将与各位分享这样一家公司。

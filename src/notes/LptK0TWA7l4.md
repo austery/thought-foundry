@@ -1,76 +1,76 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Hamas
+- Palestine Liberation Organization
+- PICA
+- United Nations
+- League of Nations
+- Israeli Defense Forces
+- Columbia University
+- Pentagon
+- CIA
+- Israeli Supreme Court
+- Islamic Jihad
 date: '2023-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《巴勒斯坦之殇》
+- 《与巴什尔跳华尔兹》
+people:
+- Rashid Khalidi
+- Theodor Herzl
+- Sigmund Freud
+- Albert Einstein
+- Harry Truman
+- Joseph Stalin
+- Golda Meir
+- Ghassan Kanafani
+- Eqbal Ahmad
+- Yasser Arafat
+- Arthur Balfour
+- Clement Attlee
+- Franklin Roosevelt
+- King Abdulaziz ibn Saud
+- Aaron David Miller
+- Abba Eban
+- Lyndon Johnson
+- Menachem Begin
+- Ronald Reagan
+- George H.W. Bush
+- Ari Folman
+- Chaim Weizmann
+- Shepard Rifkin
+- Mahatma Gandhi
+- Baruch Kimmerling
+products_models:
+- USA PATRIOT Act
+- Arms Export Control Act
+- Biltmore plan
+- Oslo Accords
+- Oslo Document II
+project:
+- geopolitics-watch
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=LptK0TWA7l4
 speaker: 超級歪 SuperY
-tags:
-  - israeli-palestinian-conflict
-  - zionism
-  - colonialism
-  - middle-east-history
-  - geopolitical-power-dynamics
-title: 巴勒斯坦之殇：解析以巴冲突的百年演变与国际角色
-summary: 本文深入探讨了以色列-巴勒斯坦冲突的百年历史，从英国殖民时期的贝尔福宣言，到二战后联合国决议下的以色列建国，再到后续的六日战争、黎巴嫩战争、奥斯陆协议以及哈马斯的崛起。文章揭示了殖民主义、大国博弈和不对称军事力量在冲突中的作用，并强调了巴勒斯坦人民的抗争与国际社会寻求和平解决方案的努力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - us-analysis
-people:
-  - Rashid Khalidi
-  - Theodor Herzl
-  - Sigmund Freud
-  - Albert Einstein
-  - Harry Truman
-  - Joseph Stalin
-  - Golda Meir
-  - Ghassan Kanafani
-  - Eqbal Ahmad
-  - Yasser Arafat
-  - Arthur Balfour
-  - Clement Attlee
-  - Franklin Roosevelt
-  - King Abdulaziz ibn Saud
-  - Aaron David Miller
-  - Abba Eban
-  - Lyndon Johnson
-  - Menachem Begin
-  - Ronald Reagan
-  - George H.W. Bush
-  - Ari Folman
-  - Chaim Weizmann
-  - Shepard Rifkin
-  - Mahatma Gandhi
-  - Baruch Kimmerling
-companies_orgs:
-  - Hamas
-  - Palestine Liberation Organization
-  - PICA
-  - United Nations
-  - League of Nations
-  - Israeli Defense Forces
-  - Columbia University
-  - Pentagon
-  - CIA
-  - Israeli Supreme Court
-  - Islamic Jihad
-products_models:
-  - USA PATRIOT Act
-  - Arms Export Control Act
-  - Biltmore plan
-  - Oslo Accords
-  - Oslo Document II
-media_books:
-  - 《巴勒斯坦之殇》
-  - 《与巴什尔跳华尔兹》
 status: evergreen
+summary: 本文深入探讨了以色列-巴勒斯坦冲突的百年历史，从英国殖民时期的贝尔福宣言，到二战后联合国决议下的以色列建国，再到后续的六日战争、黎巴嫩战争、奥斯陆协议以及哈马斯的崛起。文章揭示了殖民主义、大国博弈和不对称军事力量在冲突中的作用，并强调了巴勒斯坦人民的抗争与国际社会寻求和平解决方案的努力。
+tags:
+- colonialism
+- conflict
+- geopolitical-power-dynamic
+- history
+- zionism
+title: 巴勒斯坦之殇：解析以巴冲突的百年演变与国际角色
 ---
+
 ### 引言：冲突的国际视角与历史溯源
 
 以色列-巴勒斯坦战争爆发后，西方各国政府纷纷表态支持以色列，谴责哈马斯的恐怖袭击。美国总统乔·拜登曾表示“美国与以色列站在一起”，而台湾的外交部也在台北101点亮了以色列国旗，以示声援。然而，阿拉伯国家则普遍支持巴勒斯坦，全球各地也爆发了许多支持巴勒斯坦的民间示威活动。

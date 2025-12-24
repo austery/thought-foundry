@@ -1,44 +1,44 @@
 ---
-author: 一口新飯
+area: personal-systems
+category: psychology
+companies_orgs:
+- YouTube
+- Interactive Brokers
+- Google
 date: '2025-09-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Pathless Path》
+- 《Don't believe everything you think》
+- 《The Creative Act》
+- 《The Lean Learning》
+people:
+- Ray
+- Paul
+- 塔利布
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=__AdJYwKJEE
 speaker: 一口新飯
-tags:
-  - signal-noise-distinction
-  - mental-models
-  - decision-making
-  - online-community
-  - entrepreneurship-lessons
-  - intuition
-title: 如何分辨人生中的信号与噪音？我的5个思维模型
-summary: 本视频分享了5个思维模型，旨在帮助人们在信息爆炸的时代区分人生中的“信号”与“噪音”，从而做出更明智的判断和决策。这些模型包括互联网的1%法则、交易作为最真实的信号、关注长期趋势而非短期波动、以能量作为信号筛选器，以及倾听直觉而非过度思考。通过结合创业与个人经历，演讲者强调了主动识别真实信号的重要性，以避免被误导并找到正确的人生方向。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Ray
-  - Paul
-  - 塔利布
-companies_orgs:
-  - YouTube
-  - Interactive Brokers
-  - Google
-products_models: []
-media_books:
-  - 《Pathless Path》
-  - 《Don't believe everything you think》
-  - 《The Creative Act》
-  - 《The Lean Learning》
 status: evergreen
+summary: 本视频分享了5个思维模型，旨在帮助人们在信息爆炸的时代区分人生中的“信号”与“噪音”，从而做出更明智的判断和决策。这些模型包括互联网的1%法则、交易作为最真实的信号、关注长期趋势而非短期波动、以能量作为信号筛选器，以及倾听直觉而非过度思考。通过结合创业与个人经历，演讲者强调了主动识别真实信号的重要性，以避免被误导并找到正确的人生方向。
+tags:
+- decision-making
+- entrepreneurship-lesson
+- intuition
+- mental-model
+- online-community
+- signal-noise-distinction
+title: 如何分辨人生中的信号与噪音？我的5个思维模型
 ---
+
 ### 区分信号与噪音：源于争议的思考
 
 前一阵子，我发布了一个关于**Vibe Coding**（一种关于个人状态和环境优化的实践或理念）的视频，并在视频最后介绍了我的新创业项目——一个AI社群。结果，这个视频成为了我做YouTube以来最具争议的一个，收到了大量的负面评论。评论之多，甚至有粉丝发私信来表达支持，关怀我的内心状态，希望我不要被这些评论伤害到。

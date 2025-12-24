@@ -6,17 +6,16 @@ category: technology
 project:
 - vibe-coding
 tags:
-  - prompt
-  - vibe-coding
+- llm
+- vibe-coding
 people:
-  - Dusing
-  - Amy
-  - Ray
-  - Jay
-  - Vincent
+- Dusing
+- Amy
+- Ray
+- Jay
+- Vincent
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-06'
 author: Lei
 speaker: ''
@@ -27,6 +26,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与社区未来展望
 
 **Dusing:** Amy，我邀请你了。Hello，好久不见，三个月没见到你了。

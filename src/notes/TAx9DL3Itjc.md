@@ -1,66 +1,64 @@
 ---
-author: Norges Bank Investment Management
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Norges Bank Investment Management
+- Peterson Institute for International Economics
+- Norges Bank
+- Phillips Drilling
+- ASML
+- Nvidia
+- Meta
+- Amazon
+- Starbucks
+- Uber
+- GIC
+- Novo Nordisk Foundation
+- Wallenberg sphere
+- IMF
+- World Bank
+- BlackRock
+- Ravenswood Partners
+- Atlantic Council
+- Wilson Center
+- Washington University
 date: '2024-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Atlantic
+- Drau report
+- NBR papers
+people:
+- Nicolai Tangen
+- Adam Posen
+- Espen
+- Jens Stoltenberg
+- Ted Truman
+- Constance Sch
+- Joe Peterson
+- Catherine Lynch
+- Ashraf H
+products_models: []
+project:
+- investment-strategy
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=TAx9DL3Itjc
 speaker: Norges Bank Investment Management
-tags:
-  - sovereign-wealth-fund
-  - investment-strategy
-  - geopolitical-risk
-  - climate-change-impact
-  - transparency
-title: 挪威主权财富基金：全球最大基金的成功秘诀与未来挑战
-summary: 挪威主权财富基金首席执行官Nicolai Tangen在彼得森国际经济研究所分享了该基金的管理哲学、投资策略及成功要素。他深入探讨了气候变化、地缘政治、科技与金融如何前所未有地交织，以及基金如何通过广泛多元化、长期视角和高度透明度应对这些挑战。Tangen还阐述了基金在公司治理和ESG方面的立场，并展望了未来投资回报的预期。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Nicolai Tangen
-  - Adam Posen
-  - Espen
-  - Jens Stoltenberg
-  - Ted Truman
-  - Constance Sch
-  - Joe Peterson
-  - Catherine Lynch
-  - Ashraf H
-companies_orgs:
-  - Norges Bank Investment Management
-  - Peterson Institute for International Economics
-  - Norges Bank
-  - Phillips Drilling
-  - ASML
-  - Nvidia
-  - Meta
-  - Amazon
-  - Starbucks
-  - Uber
-  - Facebook
-  - GIC
-  - Novo Nordisk Foundation
-  - Wallenberg sphere
-  - IMF
-  - World Bank
-  - BlackRock
-  - Ravenswood Partners
-  - Atlantic Council
-  - Wilson Center
-  - Washington University
-products_models: []
-media_books:
-  - The Atlantic
-  - Drau report
-  - NBR papers
 status: evergreen
+summary: 挪威主权财富基金首席执行官Nicolai Tangen在彼得森国际经济研究所分享了该基金的管理哲学、投资策略及成功要素。他深入探讨了气候变化、地缘政治、科技与金融如何前所未有地交织，以及基金如何通过广泛多元化、长期视角和高度透明度应对这些挑战。Tangen还阐述了基金在公司治理和ESG方面的立场，并展望了未来投资回报的预期。
+tags:
+- climate-change-impact
+- geopolitical-risk
+- sovereign-wealth-fund
+- technology
+title: 挪威主权财富基金：全球最大基金的成功秘诀与未来挑战
 ---
+
 ### 引言：全球最大主权财富基金的掌舵者
 
 各位女士们、先生们，非常荣幸能向大家介绍两位杰出人物。首先是**Nicolai Tangen**，他受托管理着近2万亿美元的挪威财富。

@@ -1,50 +1,49 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Bloomberg Podcasts
+- Arafe USA
+- Tyson
+- Cargill
+- Walmart
+- JBS
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Bill Bullard
+- Tracy Alloway
+- Joe Weisenthal
+- Donald Trump
+- Cody Johnson
+products_models:
+- Sherman Act
+- Clayton Act
+- Packers and Stockyards Act of 1921
+- Truth Social
+- Dirt Cheap
+- Odd Lots podcast
+project:
+- us-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=_9FBzNGZLZA
 speaker: Bloomberg Podcasts
-tags:
-  - market-concentration
-  - antitrust-enforcement
-  - supply-chain-dysfunction
-  - trade-policy
-  - vertical-integration
-title: 美国牛肉产业的困境：市场集中、进口冲击与牧场主的挣扎
-summary: 本期播客深入探讨美国牛肉产业面临的严峻挑战。嘉宾Bill Bullard揭示了过去几十年来，由于市场高度集中、四大肉类加工商控制80%市场份额，导致牧场主利润被严重挤压。尽管牛肉零售价格飙升，但活牛价格却长期低迷，大量牧场倒闭。此外，廉价牛肉进口、反垄断执法不力以及垂直整合模式（“鸡肉化”）的威胁，进一步加剧了产业困境。文章呼吁加强反垄断监管并推行强制原产地标签，以保护国内生产商和消费者选择权。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Bill Bullard
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Donald Trump
-  - Cody Johnson
-companies_orgs:
-  - Bloomberg Podcasts
-  - Arafe USA
-  - Tyson
-  - Cargill
-  - Walmart
-  - JBS
-products_models:
-  - Sherman Act
-  - Clayton Act
-  - Packers and Stockyards Act of 1921
-  - Truth Social
-  - Dirt Cheap
-  - Odd Lots podcast
-media_books: []
 status: evergreen
+summary: 本期播客深入探讨美国牛肉产业面临的严峻挑战。嘉宾Bill Bullard揭示了过去几十年来，由于市场高度集中、四大肉类加工商控制80%市场份额，导致牧场主利润被严重挤压。尽管牛肉零售价格飙升，但活牛价格却长期低迷，大量牧场倒闭。此外，廉价牛肉进口、反垄断执法不力以及垂直整合模式（“鸡肉化”）的威胁，进一步加剧了产业困境。文章呼吁加强反垄断监管并推行强制原产地标签，以保护国内生产商和消费者选择权。
+tags:
+- code
+- integration
+- market-concentration
+- supply-chain-dysfunction
+- trade-policy
+title: 美国牛肉产业的困境：市场集中、进口冲击与牧场主的挣扎
 ---
+
 ### 美国牛肉产业的现状与困境
 
 如今，我们已失去了超过一半的肉牛养殖场，这些养殖场在一个世代前还在经营。我们已经失去了其中52%的养殖场。我们还失去了25%的**母牛群**（Mother Cow Beef Herd: 用于繁殖肉牛的母牛群体）。目前，四大**肉类加工商**（Packers: 将活畜屠宰并加工成肉类产品的企业）控制着大约80%的**市场份额**（Marketplace Share: 企业在特定市场中销售额或产量的占比）。2024年，消费者为牛肉支付的价格约为每磅8.23美元。2021年，加工商和零售商获得了消费者每消费一美元牛肉中的60%以上，即60美分，而生产者获得的不足40美分。那么问题来了：在一个竞争激烈的市场中，这怎么可能发生？市场中的竞争力量如何能完全颠覆整个牛肉供应链中消费者牛肉美元的竞争性分配？这个问题的答案是：不可能。

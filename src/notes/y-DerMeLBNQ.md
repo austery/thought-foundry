@@ -1,46 +1,45 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- IMF
+- G7
+- CIA
+- Pentagon
+- ExxonMobil
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- John Mearsheimer
+- Thomas Sowell
+- Ben Norton
+- Henry Kissinger
+- Vladimir Putin
+- Richard Nixon
+products_models:
+- F-35
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=y-DerMeLBNQ
 speaker: 北美王路飞
-tags:
-  - us-national-security-strategy
-  - geopolitical-realism
-  - strategic-retrenchment
-  - supply-chain-restructuring
-  - us-china-competition
-title: 美国2025国家安全战略解读：帝国资产重组与全球秩序重塑
-summary: 本文深入解读美国2025年国家安全战略，指出其并非孤立主义宣言，而是冷酷的帝国资产负债表重组方案。战略核心在于收缩战线，聚焦西半球堡垒，通过“唐罗主义”整合拉美资源，并以“再工业化”和“近岸外包”重塑供应链。文章强调，此战略旨在买时间构建去中国化的战时工业体系，并重新定义与欧洲、俄罗斯的关系，以应对中国崛起。最终，这可能导致高通胀和冲突加速，并利用文化战争转移国内矛盾。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - John Mearsheimer
-  - Thomas Sowell
-  - Ben Norton
-  - Henry Kissinger
-  - Vladimir Putin
-  - Richard Nixon
-companies_orgs:
-  - IMF
-  - G7
-  - CIA
-  - Pentagon
-  - ExxonMobil
-products_models:
-  - F-35
-media_books: []
 status: evergreen
+summary: 本文深入解读美国2025年国家安全战略，指出其并非孤立主义宣言，而是冷酷的帝国资产负债表重组方案。战略核心在于收缩战线，聚焦西半球堡垒，通过“唐罗主义”整合拉美资源，并以“再工业化”和“近岸外包”重塑供应链。文章强调，此战略旨在买时间构建去中国化的战时工业体系，并重新定义与欧洲、俄罗斯的关系，以应对中国崛起。最终，这可能导致高通胀和冲突加速，并利用文化战争转移国内矛盾。
+tags:
+- financial
+- geopolitical-realism
+- supply-chain-restructuring
+- us-china-relations
+- us-national-security-strategy
+title: 美国2025国家安全战略解读：帝国资产重组与全球秩序重塑
 ---
+
 ### 2025国家安全战略：一场冷酷的帝国重组
 
 最近，美国政府颁布了2025年美国国家安全战略（**NSS 2025**：美国政府发布的一份阐述国家安全目标和战略的文件）。如果认为这仅仅是唐纳德·特朗普政府歇斯底里的“退群宣言”或孤立主义复辟，那可能正在犯下一个致命的认知错误。那些关于背叛盟友和放弃责任的道德愤怒，在大国博弈的牌桌上，道德是给观众看的，而利益才是给玩家算的。这份文件并非一份辞职信，恰恰相反，它是一份冷酷到极点的帝国资产负债表重组方案。它上面写的每一个字，翻译成博弈论的语言，都是在说：为了在未来那场决定生死的赌局中活下来，美国必须砍掉所有亏损的业务，变卖所有不赚钱的资产，然后把剩下的每一枚筹码全部压在核心堡垒上。这是一个关于战略收缩、坚壁清野的故事，一个关于美国如何从“世界警察”转化为“西半球武装地主”的故事。我们将透过**约翰·米尔斯海默**（John Mearsheimer：美国政治学家，进攻性现实主义理论的主要代表人物）的现实主义视角来分析这份文档。

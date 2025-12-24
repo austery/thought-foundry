@@ -1,41 +1,41 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- TED
+- University of Sussex
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Being You: A New Science of Consciousness'
+- What is it like to be a bat?
+people:
+- Anil Seth
+- Thomas Nagel
+- William James
+- Carl Lange
+products_models: []
+project:
+- ai-impact-analysis
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=n6VzKtEKs3o
 speaker: TED
-tags:
-  - consciousness
-  - perception
-  - controlled-hallucination
-  - brain-body-connection
-  - self-identity
-title: 大脑如何塑造你的现实：意识、自我与控制性幻觉
-summary: 神经科学家阿尼尔·塞斯深入探讨了意识的奥秘，解释了我们的大脑如何主动构建现实，从而产生主观体验，他称之为“控制性幻觉”。塞斯挑战了“大脑即计算机”的隐喻，强调大脑与身体的紧密联系及其在生成情感中的作用。文章还探讨了人工智能、脑机接口带来的伦理挑战，以及在认知衰退背景下对“自我”连续性的理解，并触及了药物对意识的影响，呼吁公众保持知情以塑造技术未来。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Anil Seth
-  - Thomas Nagel
-  - William James
-  - Carl Lange
-companies_orgs:
-  - TED
-  - University of Sussex
-products_models: []
-media_books:
-  - 'Being You: A New Science of Consciousness'
-  - What is it like to be a bat?
 status: evergreen
+summary: 神经科学家阿尼尔·塞斯深入探讨了意识的奥秘，解释了我们的大脑如何主动构建现实，从而产生主观体验，他称之为“控制性幻觉”。塞斯挑战了“大脑即计算机”的隐喻，强调大脑与身体的紧密联系及其在生成情感中的作用。文章还探讨了人工智能、脑机接口带来的伦理挑战，以及在认知衰退背景下对“自我”连续性的理解，并触及了药物对意识的影响，呼吁公众保持知情以塑造技术未来。
+tags:
+- brain
+- consciousness
+- llm
+- perception
+- self
+title: 大脑如何塑造你的现实：意识、自我与控制性幻觉
 ---
+
 ### 意识的奥秘：从麻醉中醒来
 
 就在一年多前，我生平第三次停止了存在。我当时正在接受一个小手术，我的大脑被**麻醉剂**（Anesthetic: 用于暂时阻断疼痛感或意识的药物）充满。

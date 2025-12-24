@@ -1,33 +1,31 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs: []
 date: '2024-06-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Francois Chollet
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=rl7B-LHiaNo
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - scaling-laws
-  - intelligence
-  - memorization
-  - reasoning
-title: 'Scaling Laws: Memorization vs. Intelligence'
-summary: 本次讨论深入探讨了人工智能领域的扩展定律（scaling laws），并质疑其是否真正衡量了智能的提升。演讲者 Francois Chollet 认为，当前的基准测试（benchmarks）主要依赖于记忆能力，而非真正的通用智能。他区分了‘技巧’（skill）和‘智能’（intelligence），指出模型通过扩展数据和计算能力可以提高技巧和性能，但这并不等同于智能的增长。文章还探讨了两种‘推理’的定义，并对比了人类学习与AI训练的差异。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Francois Chollet
-  - Dwarkesh Patel
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本次讨论深入探讨了人工智能领域的扩展定律（scaling laws），并质疑其是否真正衡量了智能的提升。演讲者 Francois Chollet
+  认为，当前的基准测试（benchmarks）主要依赖于记忆能力，而非真正的通用智能。他区分了‘技巧’（skill）和‘智能’（intelligence），指出模型通过扩展数据和计算能力可以提高技巧和性能，但这并不等同于智能的增长。文章还探讨了两种‘推理’的定义，并对比了人类学习与AI训练的差异。
+tags:
+- intelligence
+- memorization
+- philosophy
+- scaling-law
+title: 'Scaling Laws: Memorization vs. Intelligence'
 ---
+
 ### 智能的定义
 通用智能并非特定任务技能的扩展，而是能够快速掌握任何问题或技能的能力，并利用过往数据来应对未知挑战。这一定义的核心在于“**通用性**”（generality），它不是将单一技能规模化，而是指能够将思维应用于任何事物、任何情境的能力。要实现这一点，根本上需要具备高效、即时适应和学习的能力。
 

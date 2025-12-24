@@ -1,47 +1,45 @@
 ---
-author: 政經孫老師
+area: society-thinking
+category: politics-society
+companies_orgs:
+- CNN
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大东合邦论》
+- 《大亚细亚主义论》
+- 《海洋国家日本的构想》
+- 《新脱亚论》
+people:
+- 高市早苗
+- 安倍晋三
+- 福泽谕吉
+- 樽井藤吉
+- 小寺谦吉
+- 孙中山
+- 卡尔·施米特
+- 高阪正尧
+- 渡边利夫
+- Donald Trump
+products_models: []
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=6WxqcZ4umm0
 speaker: 政經孫老師
-tags:
-  - de-asianization
-  - asianism
-  - geopolitics
-  - maritime-strategy
-  - us-japan-alliance
-title: 日本脱亚入美：亚洲新秩序的启动与挑战
-summary: 本讲座深入探讨日本从历史上的“脱亚入欧”到二战后的“脱亚入美”战略转变。分析了亚洲主义的兴起与失败，以及地缘政治和人种论对日本国策的影响。重点阐述了日本作为海权国家，与美国结盟以应对大陆国家挑战的战略选择，并结合前首相安倍晋三的“自由开放的印太地区”构想，展望了日本在未来亚洲稳定中的关键作用，同时指出新首相高市早苗面临的挑战。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - 高市早苗
-  - 安倍晋三
-  - 福泽谕吉
-  - 樽井藤吉
-  - 小寺谦吉
-  - 孙中山
-  - 卡尔·施米特
-  - 高阪正尧
-  - 渡边利夫
-  - Donald Trump
-companies_orgs:
-  - CNN
-products_models: []
-media_books:
-  - 《大东合邦论》
-  - 《大亚细亚主义论》
-  - 《海洋国家日本的构想》
-  - 《新脱亚论》
 status: evergreen
+summary: 本讲座深入探讨日本从历史上的“脱亚入欧”到二战后的“脱亚入美”战略转变。分析了亚洲主义的兴起与失败，以及地缘政治和人种论对日本国策的影响。重点阐述了日本作为海权国家，与美国结盟以应对大陆国家挑战的战略选择，并结合前首相安倍晋三的“自由开放的印太地区”构想，展望了日本在未来亚洲稳定中的关键作用，同时指出新首相高市早苗面临的挑战。
+tags:
+- geopolitical
+- llm
+- strategy
+title: 日本脱亚入美：亚洲新秩序的启动与挑战
 ---
+
 大家坐好。今天我们说一说日本的**脱亚入美**（脱离亚洲，融入美国：指日本在外交和国家战略上，摆脱对亚洲大陆事务的干预，转而与美国建立紧密同盟关系，以海洋国家身份发展）。在日本的新首相**高市早苗**上台之后，引发了一系列事件，搞得中日关系非常紧张。所以有些人认为，日本可能会成为亚洲的一个不稳定因素，甚至有可能擦枪走火引发冲突。
 
 实际上，我对这个问题的看法截然相反。我觉得日本不仅不是一个不稳定因素，反而是未来亚洲稳定的重要保证。为什么这样说？要从历史的角度来理解整件事情。历史上来看，**高市早苗**只不过是**安倍晋三**政策的一条延长线而已。日本其实一直在走一条既定的路线，一个既定的政策，这个政策导向最后的终点、最后的目的地，它就是**脱亚入美**。

@@ -1,42 +1,42 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 民航局
+- 臺北市政府
+- 臺灣內政部
 date: '2023-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 維基百科
+- 《馬關條約》
+people:
+- 莊也
+- 蔣經國
+- 李登輝
+products_models:
+- Google Map
+- 悠遊卡
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=8XPqrucc4zM
 speaker: 莊也雜談
-tags:
-  - taiwan-urban-development
-  - private-property-rights
-  - seismic-activity
-  - typhoon-impact
-  - urban-renewal-challenges
-title: 台湾高楼稀少、房屋老旧之谜：地理、历史与人文的深度解读
-summary: 本期节目是庄也台湾过境系列续集，针对上期引发热议的台湾城市面貌进行深度探讨。庄也首先澄清了桃园机场的名称误区，随后围绕台湾高楼稀少及房屋外立面老旧的现象，从地震台风等地理因素、机场限高政策的历史原因，以及私有产权保护、都市更新面临的挑战等多个维度进行了详细解读。节目还分享了台湾旅行建议、美食推荐，并探讨了“日据”与“日治”的争议，展现了对台湾社会文化和民众态度的深刻洞察。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 莊也
-  - 蔣經國
-  - 李登輝
-companies_orgs:
-  - 民航局
-  - 臺北市政府
-  - 臺灣內政部
-products_models:
-  - Google Map
-  - 悠遊卡
-media_books:
-  - 維基百科
-  - 《馬關條約》
 status: evergreen
+summary: 本期节目是庄也台湾过境系列续集，针对上期引发热议的台湾城市面貌进行深度探讨。庄也首先澄清了桃园机场的名称误区，随后围绕台湾高楼稀少及房屋外立面老旧的现象，从地震台风等地理因素、机场限高政策的历史原因，以及私有产权保护、都市更新面临的挑战等多个维度进行了详细解读。节目还分享了台湾旅行建议、美食推荐，并探讨了“日据”与“日治”的争议，展现了对台湾社会文化和民众态度的深刻洞察。
+tags:
+- challenge
+- impact
+- right
+- seismic-activity
+- taiwan-urban-development
+title: 台湾高楼稀少、房屋老旧之谜：地理、历史与人文的深度解读
 ---
+
 ### 台湾过境续集：流量密码与观众回馈
 
 大家好，我是莊也，欢迎收看“莊也杂谈”系列节目。今天我们换一个场景，不用总是干巴巴地在小院里录制，这里是我们家附近的一个小公园，希望能让您领略一下深秋时节加拿大美丽的风景。

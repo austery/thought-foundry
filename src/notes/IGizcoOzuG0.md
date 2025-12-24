@@ -1,64 +1,63 @@
 ---
-author: Peter Pang
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=IGizcoOzuG0'
-speaker: Peter Pang
-tags:
-  - metaverse-failure
-  - ar-vr-development
-  - facebook-strategy
-  - tech-standardization
-  - political-pressure
-title: 元宇宙的幽默与滑稽：一场科技泡沫的兴衰与AR/VR技术的困境
-summary: 本文深入探讨了元宇宙概念的兴衰，分析了Meta（前Facebook）CEO扎克伯格在公司危机时期，如何将元宇宙作为转型战略。文章指出，元宇宙的诞生旨在应对Facebook在隐私丑闻和监管压力下的困境，但其发展缺乏底层技术支撑。尽管AR/VR技术被寄予厚望，但硬件和引擎的滞后、缺乏统一标准等问题，共同导致了元宇宙的快速衰落，最终被AI热潮所取代。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - 扎克伯格
-  - Palmer Lucky
-  - 特朗普
+category: technology
 companies_orgs:
-  - Meta
-  - Facebook
-  - Visa
-  - MasterCard
-  - Paypal
-  - 美联储
-  - OpenAI
-  - 微软
-  - 世嘉
-  - 索尼
-  - Oculus
-  - PlayStation VR
-  - Steam
-  - 三星
-  - LG
-  - HTC
-  - 美军
-products_models:
-  - Libra币
-  - Llama
-  - Hololens
-  - Xbox 360
-  - Kinect
-  - 安卓
-  - iOS
-  - Vision Pro
-  - Unity引擎
-  - 虚幻引擎
-  - GQL
+- Meta
+- Visa
+- MasterCard
+- Paypal
+- 美联储
+- OpenAI
+- Microsoft
+- 世嘉
+- 索尼
+- Oculus
+- PlayStation VR
+- Steam
+- 三星
+- LG
+- HTC
+- 美军
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- 扎克伯格
+- Palmer Lucky
+- 特朗普
+products_models:
+- Libra币
+- Llama
+- Hololens
+- Xbox 360
+- Kinect
+- 安卓
+- iOS
+- Vision Pro
+- Unity引擎
+- 虚幻引擎
+- GQL
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
+source: https://www.youtube.com/watch?v=IGizcoOzuG0
+speaker: Peter Pang
 status: evergreen
+summary: 本文深入探讨了元宇宙概念的兴衰，分析了Meta（前Facebook）CEO扎克伯格在公司危机时期，如何将元宇宙作为转型战略。文章指出，元宇宙的诞生旨在应对Facebook在隐私丑闻和监管压力下的困境，但其发展缺乏底层技术支撑。尽管AR/VR技术被寄予厚望，但硬件和引擎的滞后、缺乏统一标准等问题，共同导致了元宇宙的快速衰落，最终被AI热潮所取代。
+tags:
+- ar-vr-development
+- failure
+- political-pressure
+- strategy
+- tech
+title: 元宇宙的幽默与滑稽：一场科技泡沫的兴衰与AR/VR技术的困境
 ---
+
 ### 元宇宙的诞生与消亡：一场科技泡沫的审视
 
 大数据虽然死了，但它留下了丰厚的技术遗产和商业模式。区块链虽然死了，但它的尸体还能养活很多黑色产业。而同样是世界级的技术热潮，在它们之后出现的**元宇宙**（Metaverse: 一个虚拟的、持久的、共享的3D数字空间，用户可以通过虚拟现实和增强现实技术进行交互）却像个小丑，它莫名其妙地出生，然后又稀里糊涂地去世。它的一生很短暂，但也还是有不少可以讨论的地方。它为何而生，为何而死？它背后的技术又有什么样的未来？

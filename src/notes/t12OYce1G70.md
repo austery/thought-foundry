@@ -1,38 +1,36 @@
 ---
-author: 北美王路飞
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- MIT
 date: '2025-08-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'The GenAI divide: State of AI in business 2025'
+products_models:
+- ChatGPT
+- GPT-5
+project:
+- ai-impact-analysis
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=t12OYce1G70
 speaker: 北美王路飞
-tags:
-  - generative-ai
-  - ai-investment
-  - roi-challenge
-  - learning-divide
-  - business-adoption
-  - shadow-ai-economy
-title: MIT重磅报告：95%的AI投资为何打水漂？揭秘生成式AI的商业落地鸿沟
-summary: 一份来自麻省理工学院（MIT）的最新研究报告指出，尽管全球企业在生成式AI上投入数百亿美元，但高达95%的公司投资回报率为零。本文深入剖析了报告中揭示的“生成式AI鸿沟”及其背后的“学习鸿沟”，解释了为何通用AI工具难以在企业中实现价值，以及“影子AI经济”的兴起。文章还探讨了企业在AI投资上的偏差、试点失败的原因，并为企业管理者和AI从业者提供了跨越鸿沟、实现AI价值落地的具体策略和未来展望。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - systems-thinking
-people: []
-companies_orgs:
-  - MIT
-products_models:
-  - ChatGPT
-  - GPT-5
-media_books:
-  - 'The GenAI divide: State of AI in business 2025'
 status: evergreen
+summary: 一份来自麻省理工学院（MIT）的最新研究报告指出，尽管全球企业在生成式AI上投入数百亿美元，但高达95%的公司投资回报率为零。本文深入剖析了报告中揭示的“生成式AI鸿沟”及其背后的“学习鸿沟”，解释了为何通用AI工具难以在企业中实现价值，以及“影子AI经济”的兴起。文章还探讨了企业在AI投资上的偏差、试点失败的原因，并为企业管理者和AI从业者提供了跨越鸿沟、实现AI价值落地的具体策略和未来展望。
+tags:
+- ai-investment
+- business
+- challenge
+- economy
+- learning
+title: MIT重磅报告：95%的AI投资为何打水漂？揭秘生成式AI的商业落地鸿沟
 ---
+
 ### MIT重磅报告：95%的AI投资回报为零
 
 近期，麻省理工学院（**MIT**：Massachusetts Institute of Technology，世界顶尖研究型大学）发布了一篇名为《The GenAI divide: State of AI in business 2025》的研究报告。这份报告一经发布，便在市场上引起震动，导致AI相关题材股票出现一波大幅抛售。虽然报告是否直接驱动了市场抛售尚不得而知，但其揭示的信息对于理解当前**生成式AI**（Generative AI: 能够生成文本、图像、代码等新内容的AI技术）的市场现状具有重要价值。

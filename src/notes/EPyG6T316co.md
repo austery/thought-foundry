@@ -1,72 +1,72 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- 7-11
+- 麦当劳
+- 哥伦比亚电影公司
+- FBI
 date: '2022-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《台北女子图鉴》
+- 《台北的早晨火车》
+- 《末日列车》
+- 《尸速列车》
+- 《鬼灭之刃》
+- 《青梅竹马》
+- 《恋恋风尘》
+- 《恐怖分子》
+- 《爱情万岁》
+- 《你那边几点》
+- 《双瞳》
+- 《海角七号》
+- 《一页台北》
+- 《女朋友。男朋友》
+- 《天桥上的魔术师》
+- 《四百击》
+- taipei-cinema
+people:
+- 杨德昌
+- 侯孝贤
+- 蔡明亮
+- 马歇尔·伯曼
+- 弗雷德里克·詹姆逊
+- 拿破仑三世
+- 奥斯曼
+- 波德莱尔
+- 理查德·桑内特
+- 弗洛伊德
+- 海德格尔
+- 丁噹
+- 白安
+- 杨雅喆
+- 美杜莎
+- 安提戈涅
+- 亚里士多德
+- 特吕弗
+products_models:
+- 台北101
+project:
+- historical-insights
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=EPyG6T316co
 speaker: 超級歪 SuperY
-tags:
-  - taipei-cinema
-  - urbanization-impact
-  - modernity-experience
-  - cultural-identity
-  - gender-representation
-title: 台北电影中的城市哲学：半世纪的变迁与身份认同之旅
-summary: 本文深入探讨台湾电影如何从1960年代至今，通过对台北的描绘，反映城市化、现代化和资本主义对台湾社会及个人身份认同的深远影响。文章分析了电影中台北从被迫进入的异乡到迷失的现代化都市，再到最终寻求自我肯定的文化寻根之路，并探讨了女性视角下台北的独特呈现，揭示了艺术作品在疗愈现代性创伤中的重要作用。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - systems-thinking
-people:
-  - 杨德昌
-  - 侯孝贤
-  - 蔡明亮
-  - 马歇尔·伯曼
-  - 弗雷德里克·詹姆逊
-  - 拿破仑三世
-  - 奥斯曼
-  - 波德莱尔
-  - 理查德·桑内特
-  - 弗洛伊德
-  - 海德格尔
-  - 丁噹
-  - 白安
-  - 杨雅喆
-  - 美杜莎
-  - 安提戈涅
-  - 亚里士多德
-  - 特吕弗
-companies_orgs:
-  - 7-11
-  - 麦当劳
-  - 哥伦比亚电影公司
-  - FBI
-products_models:
-  - 台北101
-media_books:
-  - 《台北女子图鉴》
-  - 《台北的早晨火车》
-  - 《末日列车》
-  - 《尸速列车》
-  - 《鬼灭之刃》
-  - 《青梅竹马》
-  - 《恋恋风尘》
-  - 《恐怖分子》
-  - 《爱情万岁》
-  - 《你那边几点》
-  - 《双瞳》
-  - 《海角七号》
-  - 《一页台北》
-  - 《女朋友。男朋友》
-  - 《天桥上的魔术师》
-  - 《四百击》
 status: evergreen
+summary: 本文深入探讨台湾电影如何从1960年代至今，通过对台北的描绘，反映城市化、现代化和资本主义对台湾社会及个人身份认同的深远影响。文章分析了电影中台北从被迫进入的异乡到迷失的现代化都市，再到最终寻求自我肯定的文化寻根之路，并探讨了女性视角下台北的独特呈现，揭示了艺术作品在疗愈现代性创伤中的重要作用。
+tags:
+- cultural-identity
+- experience
+- gender
+- impact
+title: 台北电影中的城市哲学：半世纪的变迁与身份认同之旅
 ---
+
 ### 台北：电影中的城市叩问与现代性创伤
 
 在《台北女子图鉴》播出后，网络上出现了许多批评与讨论，认为它刻意夸大了南北差距，同时激怒了台北和台南两地的人。女主角为何要去台北？所有这些问题，实际上都围绕着同一个核心疑问：台北究竟是怎样一座城市？在过去的半个世纪里，“台北是什么？”一直是许多台湾电影试图回答的核心问题。

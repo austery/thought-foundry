@@ -1,33 +1,32 @@
 ---
-title: 纽约印象：喧嚣重燃下的现实挑战
-summary: Peter Santenello 深入纽约，从曼哈顿南端到布朗克斯，与当地人交流，展现了城市复苏的活力与经济压力并存的现状，并探索了独特的 City
-  Island。
 area: personal-growth
 category: culture
-project:
-- cultural-critique
-tags:
-- 城市生活
-- 多元文化
-- 实地探访
-- 纽约
-- 经济压力
-people:
-- peter-santenello
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-07'
-author: Peter Santenello
-speaker: Peter Santenello
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- peter-santenello
+products_models: []
+project:
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=_XXwZROjckI
+speaker: Peter Santenello
 status: evergreen
+summary: Peter Santenello 深入纽约，从曼哈顿南端到布朗克斯，与当地人交流，展现了城市复苏的活力与经济压力并存的现状，并探索了独特的 City
+  Island。
+tags:
+- financial
+- life
+- society
+- 实地探访
+- 纽约
+title: 纽约印象：喧嚣重燃下的现实挑战
 ---
+
 ### 纽约市的现状：开篇与金融区
 
 Good morning guys here in New York City.

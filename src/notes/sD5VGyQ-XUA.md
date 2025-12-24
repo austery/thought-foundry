@@ -1,37 +1,36 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- Canadian Pacific Railway
+- Parks Canada
+- Atlantic Telegraph Company
 date: '2023-09-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- James Hector
+- Alexander McKinnon Burgess
+- George Stephen
+products_models: []
+project:
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=sD5VGyQ-XUA
 speaker: 莊也雜談
-tags:
-  - canadian-national-parks
-  - yoho-national-park
-  - park-management
-  - outdoor-travel
-  - geological-history
-title: 班夫美景大赏（五）：优鹤与库特尼，被低估的加拿大落基山顶级秘境
-summary: 本期节目继续班夫系列，聚焦长期被忽视的优鹤国家公园和库特尼国家公园。主持人庄野详细介绍了优鹤公园内菲尔德小镇的历史、踢马河的命名由来，并重点推荐了奥哈拉湖、翡翠湖、伯吉斯山与斯蒂芬山、天然桥、螺旋隧道、塔卡考瀑布和瓦普塔瀑布等景点，提供了详细的游览攻略和生态保护理念，强调了这些区域不输班夫和贾斯珀的独特魅力。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - historical-insights
-people:
-  - James Hector
-  - Alexander McKinnon Burgess
-  - George Stephen
-companies_orgs:
-  - Canadian Pacific Railway
-  - Parks Canada
-  - Atlantic Telegraph Company
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目继续班夫系列，聚焦长期被忽视的优鹤国家公园和库特尼国家公园。主持人庄野详细介绍了优鹤公园内菲尔德小镇的历史、踢马河的命名由来，并重点推荐了奥哈拉湖、翡翠湖、伯吉斯山与斯蒂芬山、天然桥、螺旋隧道、塔卡考瀑布和瓦普塔瀑布等景点，提供了详细的游览攻略和生态保护理念，强调了这些区域不输班夫和贾斯珀的独特魅力。
+tags:
+- canadian
+- history
+- national
+- park-management
+- travel
+title: 班夫美景大赏（五）：优鹤与库特尼，被低估的加拿大落基山顶级秘境
 ---
+
 大家好，我是庄野，欢迎您收看庄野杂谈加拿大系列节目。今天咱们继续讲班夫系列，也是最后一部分，优鹤和库特尼。如果时间够的话，**优鹤国家公园**（Yoho National Park: 加拿大洛基山脉中的一个国家公园，以其壮丽的瀑布、湖泊和化石遗址而闻名）和**库特尼国家公园**（Kootenay National Park: 加拿大洛基山脉中的一个国家公园，以其温泉、冰川和峡谷景观为特色）这两个公园，如果按照风景排名以及人气的排名，都排在**班夫国家公园**（Banff National Park: 加拿大历史最悠久的国家公园，以其高山、湖泊和野生动物而闻名）跟**贾斯珀国家公园**（Jasper National Park: 加拿大洛基山脉中最大的国家公园，以其冰川、湖泊和野生动物而闻名）之后。不过您可千万不要小看这两个公园，它里面的风景绝对是被媒体严重低估了，属于那种宣传不够，其实那里面的风景真的不比班夫跟贾斯珀差，至少我这么以为。要是不信的话，今天我就好好地给您续导续导，看您是不是也跟我想的一样。
 
 讲之前先更正一个也不能说是错误了，就是一个补充说明。上集咱们说到马林峡谷的时候，我当时说为了节省时间，从一桥到四桥咱们腿着走，五桥和六桥开车去。后来有观众朋友指出，其实从四桥到五桥之间不应该忽略，也应该走着去，因为这一路之上的风景也是非常的漂亮。这个您心里清楚，如果有时间的话可以走一下。好，这是对上级的一个补充。

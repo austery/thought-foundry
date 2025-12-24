@@ -1,37 +1,35 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs: []
 date: '2025-09-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 小花藥師
+- 陳威龍醫師
+- Tony營養師
+products_models:
+- 瘦瘦針 (GLP-1受體促效劑)
+- 雙重腸泌素 (GLP-1/GIP受體促效劑)
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=kN3fnFLrGWM
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - weight-loss-management
-  - glp-1-agonists
-  - sweet-potato-leaves
-  - metabolic-health
-  - dietary-habits
-  - medication-side-effects
-title: 地瓜葉與瘦瘦針的減重對決：揭秘GLP-1的自然分泌與藥物應用
-summary: 本篇文章深入探討了地瓜葉與瘦瘦針在體重管理中的作用。文章首先介紹了瘦瘦針的核心成分GLP-1的減重機制，隨後揭示了地瓜葉如何透過刺激身體自然分泌GLP-1來達到類似效果。內容涵蓋了地瓜葉的科學研究證據、有效成分、食用建議，並透過藥師與醫師的專業視角，詳細比較了瘦瘦針的種類、效果、使用頻率、費用、潛在副作用及停藥後的復胖管理，強調了健康減重中生活與飲食習慣重塑的重要性。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 小花藥師
-  - 陳威龍醫師
-  - Tony營養師
-companies_orgs: []
-products_models:
-  - 瘦瘦針 (GLP-1受體促效劑)
-  - 雙重腸泌素 (GLP-1/GIP受體促效劑)
-media_books: []
 status: evergreen
+summary: 本篇文章深入探討了地瓜葉與瘦瘦針在體重管理中的作用。文章首先介紹了瘦瘦針的核心成分GLP-1的減重機制，隨後揭示了地瓜葉如何透過刺激身體自然分泌GLP-1來達到類似效果。內容涵蓋了地瓜葉的科學研究證據、有效成分、食用建議，並透過藥師與醫師的專業視角，詳細比較了瘦瘦針的種類、效果、使用頻率、費用、潛在副作用及停藥後的復胖管理，強調了健康減重中生活與飲食習慣重塑的重要性。
+tags:
+- effect
+- health
+- metabolic-health
+- sweet-potato-leaf
+- weight-loss-management
+title: 地瓜葉與瘦瘦針的減重對決：揭秘GLP-1的自然分泌與藥物應用
 ---
+
 ### 地瓜葉與瘦瘦針：共同的減重秘密
 
 地瓜葉和**瘦瘦針**（GLP-1受體促效劑: 模仿GLP-1作用的藥物，用於體重管理和糖尿病治療）之間，究竟有什麼共同的秘密，以及大家會如何選擇呢？在日常生活中，地瓜葉常常是最容易被大家遺忘的青菜之一。然而，它卻能讓你體內自然分泌出像瘦瘦針一樣的代謝激素——**GLP-1**（胰高血糖素樣肽-1: 一種腸道分泌的激素，能延長飽足感、穩定血糖、抑制食慾）。

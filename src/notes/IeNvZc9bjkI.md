@@ -1,58 +1,58 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Toronto Star
+- TVO Today
+- CBC
+- NBC
+- BBC
+- OPG
+- LCBO
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- 'On the Ground: My Life as a Foreign Correspondent'
+- Live Aid
+- Oprah
+people:
+- Justin Trudeau
+- Donald Trump
+- Chrystia Freeland
+- Mark Carney
+- Pierre Poilievre
+- Doug Ford
+- Tonda Morales
+- John Michael McGrath
+- Brian Stewart
+- Birhan Woldu
+- Bob Geldof
+- Anthony Feinstein
+products_models:
+- OnPoli podcast
+- Darlington Small Modular Reactor
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=IeNvZc9bjkI
 speaker: TVO Today
-tags:
-  - tariffs
-  - canadian-politics
-  - foreign-correspondence
-  - moral-injury
-  - media-decline
-title: 2025年政治格局回顾：关税冲击、加拿大政坛变迁与战地记者心路
-summary: 本文回顾了2025年全球及加拿大政坛的重大变迁，特别是美国关税政策对全球贸易和加拿大政治格局的深远影响。讨论了加拿大前总理特鲁多辞职、马克·卡尼上任以及安大略省长道格·福特的竞选策略。文章还深入探讨了资深战地记者布莱恩·斯图尔特报道冲突和人道危机的经历，以及外国报道减少对民主和国家信息获取的影响，呼吁重建海外媒体资源。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Justin Trudeau
-  - Donald Trump
-  - Chrystia Freeland
-  - Mark Carney
-  - Pierre Poilievre
-  - Doug Ford
-  - Tonda Morales
-  - John Michael McGrath
-  - Brian Stewart
-  - Birhan Woldu
-  - Bob Geldof
-  - Anthony Feinstein
-companies_orgs:
-  - Toronto Star
-  - TVO Today
-  - CBC
-  - NBC
-  - BBC
-  - OPG
-  - LCBO
-products_models:
-  - OnPoli podcast
-  - Darlington Small Modular Reactor
-media_books:
-  - The Rundown
-  - 'On the Ground: My Life as a Foreign Correspondent'
-  - Live Aid
-  - Oprah
 status: evergreen
+summary: 本文回顾了2025年全球及加拿大政坛的重大变迁，特别是美国关税政策对全球贸易和加拿大政治格局的深远影响。讨论了加拿大前总理特鲁多辞职、马克·卡尼上任以及安大略省长道格·福特的竞选策略。文章还深入探讨了资深战地记者布莱恩·斯图尔特报道冲突和人道危机的经历，以及外国报道减少对民主和国家信息获取的影响，呼吁重建海外媒体资源。
+tags:
+- canadian-politics
+- geopolitical
+- media
+- moral-injury
+- tariff
+title: 2025年政治格局回顾：关税冲击、加拿大政坛变迁与战地记者心路
 ---
+
 ### 2025年政治格局：回顾与展望
 
 这一年即将结束，令人难以置信，而这确实是不同寻常的一年。

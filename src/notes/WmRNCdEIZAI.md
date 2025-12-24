@@ -1,31 +1,29 @@
 ---
-title: AI时代的投资机遇与风险：黑石集团深度解析
-summary: 黑石集团探讨AI对投资环境的革命性影响，分析了AI驱动的生产力提升、科技投资热潮，并指出了AI估值过高、政府债务等潜在风险，以及商业地产、印度市场等投资机遇。
-area: market-analysis
-category: finance
-project:
-- ai-impact-analysis
-- investment-strategy
-tags:
-- ai
-- economy
-- investment
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs:
 - blackstone
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: 金融汪
-speaker: 金融汪
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=WmRNCdEIZAI
+speaker: 金融汪
 status: evergreen
+summary: 黑石集团探讨AI对投资环境的革命性影响，分析了AI驱动的生产力提升、科技投资热潮，并指出了AI估值过高、政府债务等潜在风险，以及商业地产、印度市场等投资机遇。
+tags:
+- economy
+title: AI时代的投资机遇与风险：黑石集团深度解析
 ---
+
 ### 黑石集团的起源与发展
 
 Speaking of legacy, it is 40 years for Blackstone. It was founded by these two visionaries. Pete Peterson, who passed in 2018, and Steve, who many of you heard from last night and had to go to the UK at the request of President Trump and Prime Minister Starmer. These guys had the idea that they were going to build a different kind of financial services company dedicated to delivering for customers. They started with just $400,000. And of course, that has become something much larger. $225 billion market cap and $1.2 trillion of assets under management. The largest alternative asset manager in the world.

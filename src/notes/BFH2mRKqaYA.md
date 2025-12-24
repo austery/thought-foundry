@@ -1,50 +1,50 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Oaktree
+- Norges Bank Investment Management
+- University of Chicago
+- S&P 500
+- Vanguard
+- London Business School
 date: '2024-04-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Illusion of Knowledge
+- Fewer Losers or More Winners
+people:
+- Howard Marks
+- Greg
+- Nikolai
+- Jack Bogle
+- John Kenneth Galbraith
+- Mark Twain
+- Elroy Dimson
+- Warren Buffett
+- Hillary Clinton
+- Donald Trump
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=BFH2mRKqaYA
 speaker: Norges Bank Investment Management
-tags:
-  - investment-philosophy
-  - market-efficiency
-  - macro-forecasting
-  - risk-management
-  - active-vs-passive-investing
-title: 霍华德·马克斯论投资哲学：市场效率、宏观预测与风险管理
-summary: 橡树资本（Oaktree）联合创始人霍华德·马克斯深入探讨了其投资哲学，强调了在投资中做出有意识、有目的选择的重要性。他解析了市场效率假说，并指出投资者必须决定是追求平均回报还是冒风险争取超越平均回报。马克斯强烈批评了宏观预测的无效性，主张采取自下而上的投资策略。此外，他还重新定义了风险，认为真正的风险在于“糟糕结果的可能性”，而非简单的波动性，并强调风险管理是专业投资者的核心职责。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Howard Marks
-  - Greg
-  - Nikolai
-  - Jack Bogle
-  - John Kenneth Galbraith
-  - Mark Twain
-  - Elroy Dimson
-  - Warren Buffett
-  - Hillary Clinton
-  - Donald Trump
-companies_orgs:
-  - Oaktree
-  - Norges Bank Investment Management
-  - University of Chicago
-  - S&P 500
-  - Vanguard
-  - London Business School
-products_models: []
-media_books:
-  - The Illusion of Knowledge
-  - Fewer Losers or More Winners
 status: evergreen
+summary: 橡树资本（Oaktree）联合创始人霍华德·马克斯深入探讨了其投资哲学，强调了在投资中做出有意识、有目的选择的重要性。他解析了市场效率假说，并指出投资者必须决定是追求平均回报还是冒风险争取超越平均回报。马克斯强烈批评了宏观预测的无效性，主张采取自下而上的投资策略。此外，他还重新定义了风险，认为真正的风险在于“糟糕结果的可能性”，而非简单的波动性，并强调风险管理是专业投资者的核心职责。
+tags:
+- financial
+- investing
+- investment-philosophy
+- market-efficiency
+- risk-management
+title: 霍华德·马克斯论投资哲学：市场效率、宏观预测与风险管理
 ---
+
 ### 开篇致辞与投资哲学引言
 
 非常感谢格雷格（Greg）今天与我们分享他的知识，也感谢尼古拉（Nikolai）和挪威银行投资管理公司（**Norges Bank Investment Management**：挪威主权财富基金的管理者）今天举办这次活动。当我有机会讨论投资哲学时，我说没有比这更好的方式来度过我的生日了。

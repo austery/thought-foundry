@@ -1,55 +1,55 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Brookings Institution
+- EU Commission
+- G7
+- Nexperia
 date: '2025-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《彭博社》
+- 《路透社》
+- 《福克斯电视台》
+- 《纽约时报》
+- 《格鲁吉亚国际新闻社》
+people:
+- Donald Trump
+- Xi Jinping
+- Anwar Ibrahim
+- Mira Rapp-Hooper
+- Liu Pengyu
+- Rick Scott
+- Nicholas Burns
+- Meng Wanzhou
+- Zhang Zhidong
+- Vladimir Putin
+- Tao Jie
+- Ma Ying-jeou
+- Tsai Ing-wen
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Y7lR5GczC-E
 speaker: LT視界
-tags:
-  - us-china-trade-war
-  - eu-china-trade
-  - geopolitical-miscalculation
-  - fentanyl-trafficking
-  - political-rumors
-title: 中美欧贸易战最新进展：关键谈判误判、中欧“孟晚舟模式”与中国政治谣言分析
-summary: 本文深入分析了中美贸易战的最新动态，包括川普亚洲之行中的关键谈判、美国对中国履行第一阶段协议的调查，以及西方对中国官员的误判。同时，探讨了中欧贸易摩擦升级为“孟晚舟模式”的现象，并揭露了中国芬太尼毒枭和核材料走私案。最后，文章引用陶杰的观点，对中国政治谣言“人心所向”的破灭进行了深刻反思。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Anwar Ibrahim
-  - Mira Rapp-Hooper
-  - Liu Pengyu
-  - Rick Scott
-  - Nicholas Burns
-  - Meng Wanzhou
-  - Zhang Zhidong
-  - Vladimir Putin
-  - Tao Jie
-  - Ma Ying-jeou
-  - Tsai Ing-wen
-companies_orgs:
-  - Brookings Institution
-  - EU Commission
-  - G7
-  - Nexperia
-products_models: []
-media_books:
-  - 《彭博社》
-  - 《路透社》
-  - 《福克斯电视台》
-  - 《纽约时报》
-  - 《格鲁吉亚国际新闻社》
 status: evergreen
+summary: 本文深入分析了中美贸易战的最新动态，包括川普亚洲之行中的关键谈判、美国对中国履行第一阶段协议的调查，以及西方对中国官员的误判。同时，探讨了中欧贸易摩擦升级为“孟晚舟模式”的现象，并揭露了中国芬太尼毒枭和核材料走私案。最后，文章引用陶杰的观点，对中国政治谣言“人心所向”的破灭进行了深刻反思。
+tags:
+- china
+- fentanyl-trafficking
+- geopolitical
+- political
+- us-china-relations
+title: 中美欧贸易战最新进展：关键谈判误判、中欧“孟晚舟模式”与中国政治谣言分析
 ---
+
 ### 中美贸易战的七个最新动态
 
 在10月25日，我们将分享今天的焦点透视，首先了解有关中美贸易战的七个最新信息。

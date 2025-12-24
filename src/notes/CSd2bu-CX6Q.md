@@ -1,35 +1,34 @@
 ---
-author: 徒步的騎手
-date: 2025-08-04
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=CSd2bu-CX6Q'
-speaker: 徒步的騎手
-tags:
-  - autonomous-driving-safety
-  - product-liability
-  - corporate-responsibility
-  - misleading-marketing
-  - legal-precedent
-title: 特斯拉Autopilot致死案：2.43亿美元天价判决的警示
-summary: 佛罗里达州一桩涉及特斯拉Autopilot的致命车祸，陪审团最终裁定特斯拉需承担部分责任，并判处高达2.43亿美元的赔偿。此案的核心焦点在于“自动驾驶”这一命名对用户的误导。判决不仅对特斯拉，也对整个自动驾驶行业敲响了警钟，预示着未来车企在产品宣传和安全责任方面将面临更严格的审视和监管。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-people: '[]'
+category: general
 companies_orgs:
-  - Tesla
-  - NPR
-products_models:
-  - Autopilot
-  - FSD (Full Self-Driving)
+- Tesla
+- NPR
+date: 2025-08-04
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people: '[]'
+products_models:
+- Autopilot
+- FSD (Full Self-Driving)
+project:
+- us-analysis
+- ai-impact-analysis
+series: ''
+source: https://www.youtube.com/watch?v=CSd2bu-CX6Q
+speaker: 徒步的騎手
 status: evergreen
+summary: 佛罗里达州一桩涉及特斯拉Autopilot的致命车祸，陪审团最终裁定特斯拉需承担部分责任，并判处高达2.43亿美元的赔偿。此案的核心焦点在于“自动驾驶”这一命名对用户的误导。判决不仅对特斯拉，也对整个自动驾驶行业敲响了警钟，预示着未来车企在产品宣传和安全责任方面将面临更严格的审视和监管。
+tags:
+- autonomous-driving-safety
+- business
+- corporate
+- legal
+- product
+title: 特斯拉Autopilot致死案：2.43亿美元天价判决的警示
 ---
 
 ### 案件背景：佛罗里达州的致命车祸

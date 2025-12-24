@@ -1,32 +1,30 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: macro-economics
+companies_orgs:
+- 中国央行
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=J5oOGWDGGWY
 speaker: 小翠時政財經
-tags:
-  - rmb-exchange-rate
-  - macro-policy
-  - trade-war
-  - financial-stability
-  - forex-market
-title: 2025年人民币为何逆势走强？中国央行维稳汇率的策略解析
-summary: 2025年人民币汇率反直觉走强，升破7.05，创14个月新高。本文分析了其背后的原因：中国外贸顺差持续高企，以及央行在当前宏观环境下，将金融稳定置于增长和出口之上，通过财政补贴而非货币贬值来应对贸易战，并运用中间价和配套政策工具维稳汇率。文章还对明年人民币走势进行了预测，并反思了过去对贸易战影响汇率的经验主义错误。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - china-analysis
-people: []
-companies_orgs:
-  - 中国央行
-products_models: []
-media_books: []
 status: evergreen
+summary: 2025年人民币汇率反直觉走强，升破7.05，创14个月新高。本文分析了其背后的原因：中国外贸顺差持续高企，以及央行在当前宏观环境下，将金融稳定置于增长和出口之上，通过财政补贴而非货币贬值来应对贸易战，并运用中间价和配套政策工具维稳汇率。文章还对明年人民币走势进行了预测，并反思了过去对贸易战影响汇率的经验主义错误。
+tags:
+- financial-stability
+- market
+- policy
+- rate
+- trade-war
+title: 2025年人民币为何逆势走强？中国央行维稳汇率的策略解析
 ---
+
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年的12月15日。今年**人民币汇率**（Exchange Rate: 一国货币兑换另一国货币的比率）走出了一段非常反直觉的行情。现在已经接近年末，人民币升破7.05，创下14个月以来的新高。基本上可以说，**今年人民币会以强势上涨收尾**。
 
 但问题就来了，如果我们按照**经济基本面**（Economic Fundamentals: 指一个国家或地区经济运行的根本状况，包括GDP、通胀、就业、国际收支等）去分析人民币汇率，那么今年人民币根本就不应该走强。第一，国内经济在衰退，经济下行通常对应的是货币走弱。第二，**中美贸易战**重新开打，按照2018年的经验，人民币理应贬值来对冲出口压力。可现实恰恰相反，人民币今年不仅没有贬值，反而一路走强。这是为什么呢？所以今天这期视频，咱们就来回答这个问题。

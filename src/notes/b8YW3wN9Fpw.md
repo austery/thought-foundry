@@ -1,79 +1,80 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 清华大学
+- 北京大学
+- 中国科学院
+- 哈佛大学
+- 中央文革领导小组
+- 卫戍司令部
+- 高教部
+- 浙江大学
+- 居里夫人实验室
+- 工宣队
 date: '2024-04-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《三体》
+- 《红旗杂志》
+- 《科学通报》
+people:
+- 叶企孙
+- 叶哲泰
+- 布里奇曼
+- 梅贻琦
+- 叶明汉
+- 赵九章
+- 彭小萌
+- 宋彬彬
+- 毛泽东
+- 林彪
+- 蒋南翔
+- 戴念祖
+- 肯布尔
+- 吴晗
+- 吴兴华
+- 李政道
+- 华罗庚
+- 钱三强
+- 马大猷
+- 熊大缜
+- 钱学森
+- 周恩来
+- 刘少奇
+- 江青
+- 张春桥
+- 饶毓泰
+- 胡伯威
+- 郭电邦
+- 钱临照
+- 范叶
+products_models:
+- 三体
+- 红岸基地
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=b8YW3wN9Fpw
 speaker: 柴静 Chai Jing
-tags:
-  - cultural-revolution
-  - intellectual-persecution
-  - scientific-independence
-  - chinese-academia
-  - political-violence
-  - historical-tragedy
-title: 中国物理学泰斗叶企孙的文革悲剧：一位科学家的独立与毁灭
-summary: 本文通过对清华大学物理系创始人叶企孙教授生平及其文革期间日记和照片的披露，揭示了这位中国科学巨匠在动荡年代的悲惨命运。叶企孙一生致力于中国学术独立，培养了众多顶尖科学家，却在文革中遭受残酷批斗，身心俱残。文章探讨了其坚持科学真理、拒绝政治妥协的品格，以及在极端政治暴力下知识分子所经历的苦难与坚守，反思了历史对个体命运的深刻影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 叶企孙
-  - 叶哲泰
-  - 布里奇曼
-  - 梅贻琦
-  - 叶明汉
-  - 赵九章
-  - 彭小萌
-  - 宋彬彬
-  - 毛泽东
-  - 林彪
-  - 蒋南翔
-  - 戴念祖
-  - 肯布尔
-  - 吴晗
-  - 吴兴华
-  - 李政道
-  - 华罗庚
-  - 钱三强
-  - 马大猷
-  - 熊大缜
-  - 钱学森
-  - 周恩来
-  - 刘少奇
-  - 江青
-  - 张春桥
-  - 饶毓泰
-  - 胡伯威
-  - 郭电邦
-  - 钱临照
-  - 范叶
-companies_orgs:
-  - 清华大学
-  - 北京大学
-  - 中国科学院
-  - 哈佛大学
-  - 中央文革领导小组
-  - 卫戍司令部
-  - 高教部
-  - 浙江大学
-  - 居里夫人实验室
-  - 工宣队
-products_models:
-  - 三体
-  - 红岸基地
-media_books:
-  - 《三体》
-  - 《红旗杂志》
-  - 《科学通报》
 status: evergreen
+summary: 本文通过对清华大学物理系创始人叶企孙教授生平及其文革期间日记和照片的披露，揭示了这位中国科学巨匠在动荡年代的悲惨命运。叶企孙一生致力于中国学术独立，培养了众多顶尖科学家，却在文革中遭受残酷批斗，身心俱残。文章探讨了其坚持科学真理、拒绝政治妥协的品格，以及在极端政治暴力下知识分子所经历的苦难与坚守，反思了历史对个体命运的深刻影响。
+tags:
+- chinese
+- cultural-revolution
+- historical
+- political-violence
+- scientific
+title: 中国物理学泰斗叶企孙的文革悲剧：一位科学家的独立与毁灭
+companies:
+- intellectual-persecution
 ---
+
 ### 《三体》原型与叶企孙的真实人生
 
 我最近看完了奈飞版《三体》，其中文革的开场引发了广泛讨论，而主人公的原型被普遍认为是清华大学的叶企孙教授。科幻小说本无需考证，但我曾在2010年撰写过一篇关于叶企孙先生的文章，之后又拜访了他的家人和学生。他们向我展示了叶先生一些未曾公布的文革期间日记和照片。多年来，我一直将这些资料带在身边，觉得可以借此机会与大家分享。

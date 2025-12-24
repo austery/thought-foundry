@@ -1,50 +1,49 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Temporal Technologies
+- Intel
+- Pyantic
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Johann Schleier-Smith
+- Cornelia Davis
+- Samuel Kovven
+- Edgar Dystra
+- David Parnes
+- Andre Karpathy
+products_models:
+- Airbus A320
+- Space Shuttle
+- Curiosity rover
+- Daphne language
+- Scl micro kernel
+- CompCert C compiler
+- Project Everest
+- GPT5 codeex
+project:
+- ai-impact-analysis
+- systems-thinking
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=qLqttdO33UM
 speaker: AI Engineer
-tags:
-  - software-reliability
-  - formal-methods
-  - agentic-coding
-  - high-assurance-software
-  - bug-free-software
-title: 零缺陷软件的愿景：从航空航天到AI编程的可靠性之路
-summary: 本文探讨了实现零缺陷软件的愿景，揭示了普通用户与软件开发者对“bug”认知的巨大差异。通过分析空客A320、航天飞机和好奇号火星车等高可靠性系统的成功案例，文章阐述了N-vers编程、基于规范的设计、形式化方法等关键技术。同时，作者深入探讨了高级语言、结构化编程和模块化等计算机科学基础，并演示了Daphne语言在形式化验证中的应用。最后，文章展望了AI代理编程（Agentic Coding）如何以更低的成本实现高保障软件，预示着软件开发领域将迎来一个“零缺陷”的未来。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - knowledge-pipeline
-people:
-  - Johann Schleier-Smith
-  - Cornelia Davis
-  - Samuel Kovven
-  - Edgar Dystra
-  - David Parnes
-  - Andre Karpathy
-companies_orgs:
-  - Temporal Technologies
-  - Intel
-  - Pyantic
-products_models:
-  - Airbus A320
-  - Space Shuttle
-  - Curiosity rover
-  - Daphne language
-  - Scl micro kernel
-  - CompCert C compiler
-  - Project Everest
-  - GPT5 codeex
-media_books: []
 status: evergreen
+summary: 本文探讨了实现零缺陷软件的愿景，揭示了普通用户与软件开发者对“bug”认知的巨大差异。通过分析空客A320、航天飞机和好奇号火星车等高可靠性系统的成功案例，文章阐述了N-vers编程、基于规范的设计、形式化方法等关键技术。同时，作者深入探讨了高级语言、结构化编程和模块化等计算机科学基础，并演示了Daphne语言在形式化验证中的应用。最后，文章展望了AI代理编程（Agentic
+  Coding）如何以更低的成本实现高保障软件，预示着软件开发领域将迎来一个“零缺陷”的未来。
+tags:
+- formal-method
+- free
+- llm
+- software
+title: 零缺陷软件的愿景：从航空航天到AI编程的可靠性之路
 ---
+
 ### 零缺陷软件的愿景
 
 请和我一起设想一个软件零缺陷的世界。不是只有少数缺陷，而是真正意义上的**零缺陷**。请大家暂时相信我。

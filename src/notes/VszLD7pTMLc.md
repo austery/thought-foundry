@@ -1,31 +1,30 @@
 ---
-title: 你为何才华横溢却一事无成？伍尔夫在百年前就给出了答案
-summary: 弗吉尼亚·伍尔夫在《一间自己的屋子》中指出，创作才华的施展离不开独立的物质基础和个人空间，这一观点至今仍对许多为生计奔波的现代人具有深刻的启示意义。
 area: market-analysis
 category: finance
-project: []
-tags:
-- a-room-of-ones-own
-- creative-writing
-- economic-independence
-- feminism
-people:
-- stella-an
-- virginia-woolf
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-07-26'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+- virginia-woolf
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VszLD7pTMLc
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 弗吉尼亚·伍尔夫在《一间自己的屋子》中指出，创作才华的施展离不开独立的物质基础和个人空间，这一观点至今仍对许多为生计奔波的现代人具有深刻的启示意义。
+tags:
+- a-room-of-ones-own
+- economic
+- life
+- society
+title: 你为何才华横溢却一事无成？伍尔夫在百年前就给出了答案
 ---
+
 ### 百年前的洞见，今日你我的困境
 
 最近，我读了一本文学批评类的散文，感触颇深。我简直不敢相信这本书写于一百年前，因为它所批评的现象，与我当下生活环境中所感受到的一切如出一辙。这本书就是今天想向大家介绍的，由英国作家弗吉尼亚·伍尔夫创作、首次出版于1929年的**《一间自己的屋子》**（A Room of One's Own）。

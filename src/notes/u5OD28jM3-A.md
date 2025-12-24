@@ -1,38 +1,37 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 丹妮婊姐
+- 鄧雯心醫師
+- 宋晏仁醫師
+products_models:
+- MBTI
+- ChatGPT
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=u5OD28jM3-A
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - body-image
-  - self-criticism
-  - relationship-dynamics
-  - emotional-wellbeing
-  - mindfulness
-title: 每个女人心里都藏着一个48公斤的魔咒：丹妮婊姐与邓雯心医师的自我疗愈对谈
-summary: 本期《女人疗心室》邀请到丹妮婊姐，与邓雯心医师深入探讨女性普遍存在的身体焦虑、自我批评以及如何在关系中找到平衡。从对“48公斤魔咒”的执念，到MBTI人格类型在感情中的应用，再到通过正念和自我对话实现内心平静，节目揭示了高功能型女性在追求完美背后隐藏的压力与脆弱，并强调了自我信任与放下执着的重要性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 丹妮婊姐
-  - 鄧雯心醫師
-  - 宋晏仁醫師
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models:
-  - MBTI
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 本期《女人疗心室》邀请到丹妮婊姐，与邓雯心医师深入探讨女性普遍存在的身体焦虑、自我批评以及如何在关系中找到平衡。从对“48公斤魔咒”的执念，到MBTI人格类型在感情中的应用，再到通过正念和自我对话实现内心平静，节目揭示了高功能型女性在追求完美背后隐藏的压力与脆弱，并强调了自我信任与放下执着的重要性。
+tags:
+- emotional
+- health
+- mindfulnes
+- relationship-dynamic
+- self
+title: 每个女人心里都藏着一个48公斤的魔咒：丹妮婊姐与邓雯心医师的自我疗愈对谈
 ---
+
 ### “48公斤魔咒”与自我批判
 
 **鄧雯心醫師:** 嗨，大家好，欢迎收看《女人疗心室》。很多人在三十五岁以后，身体都开始有些变化了，可是我们常常还是用二十岁的标准在逼自己、在要求自己。我们今天邀请的这位来宾，她说了一句话让我觉得很惊讶，她说：“我最大的敌人其实不是观众，也不是网友，我最大的批评者是我自己。”我们今天的来宾就是丹妮婊姐，欢迎她。

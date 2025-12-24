@@ -1,64 +1,64 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NVIDIA
+- CATL
+- BYD
+- Rhodium Group
+- Asian Society
+- International Monetary Fund
+- Johns Hopkins University
+- Chinese Communist Party
+- CBC Television
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- The Wall Street Journal
+- The New York Times
+- 《求是》
+people:
+- Donald Trump
+- Xi Jinping
+- Jensen Huang
+- Marco Rubio
+- Robert Lighthizer
+- Steven Mnuchin
+- Wendy Cutler
+- Eswar Prasad
+- Tian Peiyan
+- Jin Zhuanglong
+- Michael McMahon
+- Henry Farrell
+- Michael Meidan
+products_models:
+- Blackwell chip
+- Tylenol
+- Advil
+- Ibuprofen
+- Acetaminophen
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=dCBIjV_TLKM
 speaker: LT視界
-tags:
-  - us-china-trade-war
-  - supply-chain-resilience
-  - decoupling-strategy
-  - economic-vulnerability
-  - geopolitical-competition
-title: 美国媒体深度剖析中美贸易战：真相、得失与脱钩挑战
-summary: 本文基于彭博社、华尔街日报和纽约时报的报道，深入探讨了中美贸易战的真相。文章揭示了美国在贸易战中对中国经济改革的幻想破灭，以及中国如何通过自力更生和强化供应链来应对美国的压力。同时，文章分析了美国在稀土、锂离子电池、成熟制程芯片和药物成分等领域的脆弱性，并反思了美国在战略规划和执行上的不足，指出贸易战已进入“脱钩战”的深水区，双方的战略博弈将持续深化。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Jensen Huang
-  - Marco Rubio
-  - Robert Lighthizer
-  - Steven Mnuchin
-  - Wendy Cutler
-  - Eswar Prasad
-  - Tian Peiyan
-  - Jin Zhuanglong
-  - Michael McMahon
-  - Henry Farrell
-  - Michael Meidan
-companies_orgs:
-  - NVIDIA
-  - CATL
-  - BYD
-  - Rhodium Group
-  - Asian Society
-  - International Monetary Fund
-  - Johns Hopkins University
-  - Chinese Communist Party
-  - CBC Television
-products_models:
-  - Blackwell chip
-  - Tylenol
-  - Advil
-  - Ibuprofen
-  - Acetaminophen
-media_books:
-  - Bloomberg
-  - The Wall Street Journal
-  - The New York Times
-  - 《求是》
 status: evergreen
+summary: 本文基于彭博社、华尔街日报和纽约时报的报道，深入探讨了中美贸易战的真相。文章揭示了美国在贸易战中对中国经济改革的幻想破灭，以及中国如何通过自力更生和强化供应链来应对美国的压力。同时，文章分析了美国在稀土、锂离子电池、成熟制程芯片和药物成分等领域的脆弱性，并反思了美国在战略规划和执行上的不足，指出贸易战已进入“脱钩战”的深水区，双方的战略博弈将持续深化。
+tags:
+- economic
+- geopolitical-competition
+- strategy
+- supply-chain-resilience
+- us-china-relations
+title: 美国媒体深度剖析中美贸易战：真相、得失与脱钩挑战
 ---
+
 ### 中美贸易战的深层剖析：美国媒体的视角
 
 今天，我们将围绕中美贸易战这一主题，分享一些不能错过的重要新闻。目前，美国媒体正在集中、深层次地探讨中美贸易战的真相，他们跳出了党派利益之争，站在美国的根本利益上，检讨中美贸易战，并探索美国应对贸易战的新策略。无论我们持支持中国还是支持美国的立场，都有必要了解美国人是如何看待所谓的中美贸易战真相的，以及他们对未来中美贸易战发展有哪些策略和举措。特别是对于生活在中国的网友，可以比较中方在如何应对贸易战，以及中方下一步会有哪些战略性策略。通过美国最新的五方面报道，相信大家对中美贸易战的真相可能会有一个不一样的感受。

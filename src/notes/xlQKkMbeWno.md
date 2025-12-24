@@ -1,41 +1,41 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- The Globe and Mail
+- TVO Today
+- Hamas
+- UN
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'October 7th: Searching for the Humanitarian Middle.'
+- Kiss the Red Stairs
+people:
+- Marsha Lederman
+- Benjamin Netanyahu
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=xlQKkMbeWno
 speaker: TVO Today
-tags:
-  - israel-gaza-conflict
-  - humanitarian-middle
-  - antisemitism
-  - two-state-solution
-  - intergenerational-trauma
-title: 理解以色列-加沙冲突：一位记者的人道主义视角
-summary: 加拿大记者兼作家马莎·莱德曼在她的新书《10月7日：寻找人道主义中点》中，分享了她对以色列-加沙冲突的思考。作为一名大屠杀幸存者的女儿和进步派犹太人，她如何在个人创伤与记者职责之间寻求平衡？本文探讨了冲突对社会的影响，反犹太主义和反穆斯林仇恨的上升，以及她对两国方案的希望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Marsha Lederman
-  - Benjamin Netanyahu
-companies_orgs:
-  - The Globe and Mail
-  - TVO Today
-  - Hamas
-  - UN
-products_models: []
-media_books:
-  - 'October 7th: Searching for the Humanitarian Middle.'
-  - Kiss the Red Stairs
 status: evergreen
+summary: 加拿大记者兼作家马莎·莱德曼在她的新书《10月7日：寻找人道主义中点》中，分享了她对以色列-加沙冲突的思考。作为一名大屠杀幸存者的女儿和进步派犹太人，她如何在个人创伤与记者职责之间寻求平衡？本文探讨了冲突对社会的影响，反犹太主义和反穆斯林仇恨的上升，以及她对两国方案的希望。
+tags:
+- antisemitism
+- intergenerational-trauma
+- israel-gaza-conflict
+- state
+- technology
+title: 理解以色列-加沙冲突：一位记者的人道主义视角
 ---
+
 ### 冲突后的反思与新书发布
 
 2023年10月7日之后，**《环球邮报》**（The Globe and Mail: 加拿大全国性日报）的**马莎·莱德曼**（Marsha Lederman: 加拿大记者和作家）开始分享她对这场冲突的看法。她在这第一年撰写的专栏文章已被收录到一本新书《10月7日：寻找人道主义中点》（October 7th: Searching for the Humanitarian Middle.）中。她的思想是如何演变的？她对未来又有哪些希望和担忧？马莎，很高兴你能来到我们的节目。你最近怎么样？

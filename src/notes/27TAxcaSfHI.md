@@ -1,31 +1,27 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: general
+companies_orgs: []
 date: '2024-12-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=27TAxcaSfHI
 speaker: Anthony看世界
-tags:
-  - chinese-language-education
-  - composition-writing
-  - shame-identity
-  - template-writing
-  - encrypted-language
-title: 中国语文作文的“加密语言”：羞耻感、模板化与深远影响
-summary: 本视频深入探讨了中国语文教育中作文教学的弊端，指出其机械化的教学方法、对学生真实情感的压制，以及对模板化写作的过度依赖，导致学生在写作中产生强烈的羞耻感和身份认同冲突。文章分析了这种教育模式如何损害学生的叙事能力、语言感知力，并最终将作文变成一种脱离现实、高度程式化的“加密语言”，对个人成长和表达能力造成长期而深远的影响。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了中国语文教育中作文教学的弊端，指出其机械化的教学方法、对学生真实情感的压制，以及对模板化写作的过度依赖，导致学生在写作中产生强烈的羞耻感和身份认同冲突。文章分析了这种教育模式如何损害学生的叙事能力、语言感知力，并最终将作文变成一种脱离现实、高度程式化的“加密语言”，对个人成长和表达能力造成长期而深远的影响。
+tags:
+- chinese
+- identity
+- language
+- life
+title: 中国语文作文的“加密语言”：羞耻感、模板化与深远影响
 ---
 
 ### 引言：从语文教学方法到作文困境

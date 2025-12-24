@@ -1,100 +1,100 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: culture
+companies_orgs:
+- Bilibili
+- 歪脑
+- 国家网信办
+- 国航
+- 联合国
+- 世界卫生组织
+- 亚太经济合作组织
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《让子弹飞》
+- 《邪不压正》
+- 《大明王朝1566》
+- 《芳华》
+- 《一步之遥》
+- 《海瑞罢官》
+- 《毛选》
+- 《红宝书》
+- 《货币战争》
+- 《天注定》
+- 《黑冰》
+- 《遥远的救世主》
+- 《狂飙》
+- 《疯狂动物城》
+- 《西游记》
+- 《红楼梦》
+- 《二舅治好我的精神内耗》
+- 《哪吒2》
+- 《古墓迷途》
+- 《斗罗大陆》
+- 《集结号》
+- 《一年记事》
+- 《天谕》
+- 《邱会作回忆录》
+- 《宪法》
+- 《治安处罚法》
+- 《心灵奇旅》
+people:
+- 姜文
+- 黄轩
+- 嘉靖帝
+- 严歌苓
+- 冯小刚
+- 王宏文
+- 彭德怀
+- 毛泽东
+- 邓小平
+- 华国锋
+- 赵紫阳
+- 胡耀邦
+- 陈云
+- 郭继成
+- 罗振宇
+- 舒淇
+- 葛优
+- 乔治·奥威尔
+- 温铁军
+- 张春桥
+- 江青
+- 邱会作
+- 高华
+- 李老师
+- Xi Jinping
+- 高市早苗
+- 张桂梅
+- Bernie Sanders
+- 巴菲特
+- 赵本山
+- 周星驰
+- Donald Trump
+- Joe Biden
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=2zyAnqllesM
 speaker: FearNation 世界苦茶
-tags:
-  - bilibili-culture
-  - youth-disillusionment
-  - cultural-revolution-reinterpretation
-  - anti-establishment-sentiment
-  - fragmented-narratives
-title: B站芳华视频现象级爆火：碎片化解读与青年情绪的共鸣
-summary: 近期，B站上一个以《芳华》等电影为素材，解读为支持文革、反官僚、反资本的视频现象级爆火。主讲人对该视频的“低质量、碎片化、反逻辑”却广受欢迎感到困惑。连麦听众提供了多角度解释：年轻人对社会不公的失望、历史常识的匮乏、情感宣泄需求、以及将观看视为“赛博上街”的团建行为。讨论深入探讨了当代中国年轻人如何在这种“乱炖式”内容中寻求共鸣与快感，以及其背后反映的社会情绪与认知模式。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 姜文
-  - 黄轩
-  - 嘉靖帝
-  - 严歌苓
-  - 冯小刚
-  - 王宏文
-  - 彭德怀
-  - 毛泽东
-  - 邓小平
-  - 华国锋
-  - 赵紫阳
-  - 胡耀邦
-  - 陈云
-  - 郭继成
-  - 罗振宇
-  - 舒淇
-  - 葛优
-  - 乔治·奥威尔
-  - 温铁军
-  - 张春桥
-  - 江青
-  - 邱会作
-  - 高华
-  - 李老师
-  - 习近平
-  - 高市早苗
-  - 张桂梅
-  - Bernie Sanders
-  - 巴菲特
-  - 赵本山
-  - 周星驰
-  - Donald Trump
-  - Joe Biden
-companies_orgs:
-  - Bilibili
-  - 歪脑
-  - 国家网信办
-  - 国航
-  - 联合国
-  - 世界卫生组织
-  - 亚太经济合作组织
-products_models: []
-media_books:
-  - 《让子弹飞》
-  - 《邪不压正》
-  - 《大明王朝1566》
-  - 《芳华》
-  - 《一步之遥》
-  - 《海瑞罢官》
-  - 《毛选》
-  - 《红宝书》
-  - 《货币战争》
-  - 《天注定》
-  - 《黑冰》
-  - 《遥远的救世主》
-  - 《狂飙》
-  - 《疯狂动物城》
-  - 《西游记》
-  - 《红楼梦》
-  - 《二舅治好我的精神内耗》
-  - 《哪吒2》
-  - 《古墓迷途》
-  - 《斗罗大陆》
-  - 《集结号》
-  - 《一年记事》
-  - 《天谕》
-  - 《邱会作回忆录》
-  - 《宪法》
-  - 《治安处罚法》
-  - 《心灵奇旅》
 status: evergreen
+summary: 近期，B站上一个以《芳华》等电影为素材，解读为支持文革、反官僚、反资本的视频现象级爆火。主讲人对该视频的“低质量、碎片化、反逻辑”却广受欢迎感到困惑。连麦听众提供了多角度解释：年轻人对社会不公的失望、历史常识的匮乏、情感宣泄需求、以及将观看视为“赛博上街”的团建行为。讨论深入探讨了当代中国年轻人如何在这种“乱炖式”内容中寻求共鸣与快感，以及其背后反映的社会情绪与认知模式。
+tags:
+- anti
+- cultural-revolution-reinterpretation
+- culture
+- geopolitical
+- narrative
+title: B站芳华视频现象级爆火：碎片化解读与青年情绪的共鸣
 ---
+
 ### B站“芳华”视频爆火现象的困惑与探讨
 
 今天我们将探讨一个现象级视频，它在B站上非常火爆，即便它的前面部分很长，但其内容和引发的讨论都非常值得关注。这个视频以《芳华》为核心，但融合了其他作品，如《让子弹飞》和《大明王朝1566》，并以一种我个人难以理解的方式进行解读。我曾以为自己了解**民粹**（Populism: 一种政治思潮，强调普通民众的利益和愿望，常与精英阶层对立），但现在发现自己并不懂。

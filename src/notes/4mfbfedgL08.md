@@ -1,59 +1,58 @@
 ---
-author: 安争鸣（Stella An）
+area: society-thinking
+category: politics-society
+companies_orgs: []
 date: '2025-10-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《00年代的想象力》
+- 《龙珠》
+- 《圣斗士星矢》
+- 《机动战士高达》
+- 《宠物小精灵》
+- 《宝可梦》
+- 《幽游白书》
+- 《灌篮高手》
+- 《新世纪福音战士》
+- 《大逃杀》
+- 《真实魔鬼游戏》
+- 《假面骑士龙骑》
+- 《龙樱》
+- 《命运之夜》
+- 《死亡笔记》
+people:
+- 宇野常宽
+- 碇真嗣
+- 夜神月
+- 小泉纯一郎
+- 高建广春
+- 山田优介
+- 三田纪房
+products_models:
+- EVA
+- 死亡笔记
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=4mfbfedgL08
 speaker: 安争鸣（Stella An）
-tags:
-  - economic-stagnation
-  - social-mentality
-  - cultural-shifts
-  - hikikomori-ism
-  - decisionism
-  - political-polarization
-  - youth-generation
-title: 中国与30年前的日本：经济停滞下的社会心态与文化变迁
-summary: 本期节目深入探讨了当前中国与30年前日本在经济走势、社会心态及文化表现上的惊人相似之处。通过分析日本90年代至00年代的流行文化，如《新世纪福音战士》和《大逃杀》，节目揭示了社会思潮从“家里蹲主义”到“决断主义”的变迁，并警示了决断主义可能带来的社会撕裂与问题。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 宇野常宽
-  - 碇真嗣
-  - 夜神月
-  - 小泉纯一郎
-  - 高建广春
-  - 山田优介
-  - 三田纪房
-companies_orgs: []
-products_models:
-  - EVA
-  - 死亡笔记
-media_books:
-  - 《00年代的想象力》
-  - 《龙珠》
-  - 《圣斗士星矢》
-  - 《机动战士高达》
-  - 《宠物小精灵》
-  - 《宝可梦》
-  - 《幽游白书》
-  - 《灌篮高手》
-  - 《新世纪福音战士》
-  - 《大逃杀》
-  - 《真实魔鬼游戏》
-  - 《假面骑士龙骑》
-  - 《龙樱》
-  - 《命运之夜》
-  - 《死亡笔记》
 status: evergreen
+summary: 本期节目深入探讨了当前中国与30年前日本在经济走势、社会心态及文化表现上的惊人相似之处。通过分析日本90年代至00年代的流行文化，如《新世纪福音战士》和《大逃杀》，节目揭示了社会思潮从“家里蹲主义”到“决断主义”的变迁，并警示了决断主义可能带来的社会撕裂与问题。
+tags:
+- cultural
+- decisionism
+- economic-stagnation
+- generation
+- hikikomori-ism
+- social
+title: 中国与30年前的日本：经济停滞下的社会心态与文化变迁
 ---
+
 大家好，我是安争鸣。欢迎回到读书时间。今天这期节目我们来聊聊日本。为什么突然间想聊日本呢？因为最近我经常看到一些网络评论员说，现在的中国特别像30年前的日本。我觉得这种说法确实有一定的道理。虽然中国和日本陷入停滞的时候，经济、制度、法治、社会福利等等发展程度都不一样，但就我个人的感觉而言，现在的中国，至少在经济走势、社会心态和文化表现方面，确实跟30年前的日本有一定的可比性。
 
 首先，经济走势上的相似性肯定是最明显的。日本在90年代初**泡沫经济**（Bubble Economy: 指资产价格，如股票和房地产，迅速膨胀，远超其内在价值，最终破裂导致经济衰退的现象）崩溃后，GDP增长长期低迷，进入了所谓的**“失落的十年”**（Lost Decade: 指日本在1990年代经济泡沫破裂后，经济长期停滞不前的时期）。到00年代时仍然没有完全恢复。而中国呢，也是自疫情时期房地产泡沫破裂之后，进入了被称为后疫情时代的经济停滞。两个国家都经历了从高速增长到结构性停滞的转折。

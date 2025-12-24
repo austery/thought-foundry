@@ -1,76 +1,76 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 故宫博物院
+- 台北故宫博物院
+- 故宫南院
+- 二玄社
+- 浙江博物馆
+- 沈春池文教基金会
+- 中央研究院
+- 大英博物馆
+- 国家博物馆
+- 奈良国立博物馆
+- 富士美术馆
+- 正仓院
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大江大海》
+- 《满文大藏经》
+- 《红楼梦》
+people:
+- 毛泽东
+- Xi Jinping
+- 蒋介石
+- 宋美龄
+- 孔德成
+- 张大千
+- 张国焘
+- 黄公望
+- 王羲之
+- 范宽
+- 郭熙
+- 李唐
+- 苏东坡
+- 黄庭坚
+- 米芾
+- 蔡襄
+- 李公麟
+- 康生
+- 李春平
+- 沈春池
+- 杜正胜
+- 胡适
+- 江冬秀
+- 韦莲司
+- 张居正
+- 张之洞
+- 罗家伦
+- 张其昀
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=obfXsXuaGSE
 speaker: 三個水槍手
-tags:
-  - cross-strait-relations
-  - cultural-sovereignty
-  - historical-narrative
-  - artifact-preservation
-  - national-identity
-title: 两岸故宫百年：文物分离的历史与文化主权的争议
-summary: 适逢北京与台北故宫博物院百年大庆，本文通过亲历者的视角，深入探讨了两岸故宫各自的展览特色与馆藏珍品。文章不仅描绘了《谿山行旅图》、《富春山居图》等国宝的艺术魅力，更剖析了文物因内战分离所带来的历史伤痛。通过对比两岸的展览策略与政治叙事，文章进一步探讨了“文化主权”的复杂概念，并以日本正仓院为例，反思了文物保护与文化传承的普世价值，最终为当代人如何与古典文化建立连接提供了思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 毛泽东
-  - 习近平
-  - 蒋介石
-  - 宋美龄
-  - 孔德成
-  - 张大千
-  - 张国焘
-  - 黄公望
-  - 王羲之
-  - 范宽
-  - 郭熙
-  - 李唐
-  - 苏东坡
-  - 黄庭坚
-  - 米芾
-  - 蔡襄
-  - 李公麟
-  - 康生
-  - 李春平
-  - 沈春池
-  - 杜正胜
-  - 胡适
-  - 江冬秀
-  - 韦莲司
-  - 张居正
-  - 张之洞
-  - 罗家伦
-  - 张其昀
-companies_orgs:
-  - 故宫博物院
-  - 台北故宫博物院
-  - 故宫南院
-  - 二玄社
-  - 浙江博物馆
-  - 沈春池文教基金会
-  - 中央研究院
-  - 大英博物馆
-  - 国家博物馆
-  - 奈良国立博物馆
-  - 富士美术馆
-  - 正仓院
-products_models: []
-media_books:
-  - 《大江大海》
-  - 《满文大藏经》
-  - 《红楼梦》
 status: evergreen
+summary: 适逢北京与台北故宫博物院百年大庆，本文通过亲历者的视角，深入探讨了两岸故宫各自的展览特色与馆藏珍品。文章不仅描绘了《谿山行旅图》、《富春山居图》等国宝的艺术魅力，更剖析了文物因内战分离所带来的历史伤痛。通过对比两岸的展览策略与政治叙事，文章进一步探讨了“文化主权”的复杂概念，并以日本正仓院为例，反思了文物保护与文化传承的普世价值，最终为当代人如何与古典文化建立连接提供了思考。
+tags:
+- cross-strait-relations
+- cultural
+- historical-narrative
+- national-identity
+- technology
+title: 两岸故宫百年：文物分离的历史与文化主权的争议
 ---
+
 ### 台北故宫百年大展：一场跨越时空的文化盛宴
 
 我第四次去台北，每次都觉得时间不够，总感觉看不完，甚至心疼得想搭个帐篷睡在那里。这次去台北，正值故宫博物院百年大庆，其展览主题为“甲子万年”。

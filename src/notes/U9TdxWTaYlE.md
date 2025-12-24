@@ -1,60 +1,60 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Humane
+- Aramco
+- AWS
+- Google
+- OpenAI
+- Anthropic
+- AMD
+- Grock
+- Nvidia
+- Qualcomm
+- Huawei
+- Cambricon
+- SMIC
+- Stanford
+- MIT
+- Harvard
+- Oxford
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- All-In Podcast
+- SemiAnalysis
+people:
+- Tareq Amin
+- Muhammad bin Salman
+- David Sacks
+- Donald Trump
+- Franklin D. Roosevelt
+- Dylan Patel
+products_models:
+- Humane Chat
+- Humane One
+project:
+- us-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=U9TdxWTaYlE
 speaker: All-In Podcast
-tags:
-  - ai-infrastructure
-  - economic-diversification
-  - talent-development
-  - geopolitical-strategy
-  - digital-transformation
-title: 沙特阿拉伯的AI雄心：Tareq Amin如何打造新的科技超级大国
-summary: 沙特阿拉伯正积极通过Humane公司及其AI战略，寻求经济多元化并成为区域数字枢纽。Tareq Amin分享了沙特在AI基础设施建设、人才培养、能源优势以及与美国科技生态系统合作方面的愿景和挑战。文章探讨了沙特如何利用其独特优势，在全球AI竞赛中占据一席之地，并应对地缘政治背景下的技术合作。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Tareq Amin
-  - Muhammad bin Salman
-  - David Sacks
-  - Donald Trump
-  - Franklin D. Roosevelt
-  - Dylan Patel
-companies_orgs:
-  - Humane
-  - Aramco
-  - AWS
-  - Google
-  - OpenAI
-  - Anthropic
-  - AMD
-  - Grock
-  - Nvidia
-  - Qualcomm
-  - Huawei
-  - Cambricon
-  - SMIC
-  - Stanford
-  - MIT
-  - Harvard
-  - Oxford
-products_models:
-  - Humane Chat
-  - Humane One
-media_books:
-  - All-In Podcast
-  - SemiAnalysis
 status: evergreen
+summary: 沙特阿拉伯正积极通过Humane公司及其AI战略，寻求经济多元化并成为区域数字枢纽。Tareq Amin分享了沙特在AI基础设施建设、人才培养、能源优势以及与美国科技生态系统合作方面的愿景和挑战。文章探讨了沙特如何利用其独特优势，在全球AI竞赛中占据一席之地，并应对地缘政治背景下的技术合作。
+tags:
+- ai-infrastructure
+- development
+- digital-transformation
+- economic-diversification
+- geopolitical-strategy
+title: 沙特阿拉伯的AI雄心：Tareq Amin如何打造新的科技超级大国
 ---
+
 ### 沙特阿拉伯的数字雄心与转型
 
 **Tareq Amin:** 我相信互联互通是一项人权。

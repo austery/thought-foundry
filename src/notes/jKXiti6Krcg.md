@@ -1,74 +1,74 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Henley & Partners
+- New World Wealth
+- BBC
+- Tax Policy Associates
+- FT
+- UK Office for Statistics Regulation
+- Office for National Statistics
+- Companies House
+- Office for Budget Responsibility
+- Warwick University
+- City of London
+- Arcelor Mittal
+- Goldman Sachs International
+- Sanofi
+- London School of Economics
+- Société Générale
+- Oxfam
+- Institute for Fiscal Studies
+- Cornell University
+- HMRC
+- Pictet
+- Economics Observatory
+- G20
 date: '2025-09-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+people:
+- Tim Harford
+- Dan Neidle
+- William Pitt the Younger
+- Rishi Sunak
+- Nigel Lawson
+- George Osborne
+- Jeremy Hunt
+- Rachel Reeves
+- Lakshmi Mittal
+- Nassef Sawiris
+- Richard Gnodde
+- Anne Beaufour
+- Gabriel Zucman
+- Jerome Kerviel
+- Donald Trump
+products_models:
+- More or Less
+- Wealth and Assets Survey
+- EB-5 Immigrant Investor Visa
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=jKXiti6Krcg
 speaker: Patrick Boyle
-tags:
-  - wealth-migration
-  - tax-policy
-  - non-dom-status
-  - fiscal-sustainability
-  - wealth-inequality
-title: 富人真的在离开英国吗？税收政策与全球财富流动之辩
-summary: 亨利与合伙人（Henley & Partners）报告称英国富人净流出，引发关于英国全球竞争力的担忧。本文深入探讨了该数据的可靠性，并分析了英国非定居税制改革、全球税收竞争以及财富流动背后的复杂因素。文章指出，有效征税需要平衡财政需求与国际竞争力，并强调政府与公民之间信任的重要性，以应对全球化背景下财富流动的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Tim Harford
-  - Dan Neidle
-  - William Pitt the Younger
-  - Rishi Sunak
-  - Nigel Lawson
-  - George Osborne
-  - Jeremy Hunt
-  - Rachel Reeves
-  - Lakshmi Mittal
-  - Nassef Sawiris
-  - Richard Gnodde
-  - Anne Beaufour
-  - Gabriel Zucman
-  - Jerome Kerviel
-  - Donald Trump
-companies_orgs:
-  - Henley & Partners
-  - New World Wealth
-  - BBC
-  - Tax Policy Associates
-  - FT
-  - UK Office for Statistics Regulation
-  - Office for National Statistics
-  - Companies House
-  - Office for Budget Responsibility
-  - Warwick University
-  - City of London
-  - Arcelor Mittal
-  - Goldman Sachs International
-  - Sanofi
-  - London School of Economics
-  - Société Générale
-  - Oxfam
-  - Institute for Fiscal Studies
-  - Cornell University
-  - HMRC
-  - Pictet
-  - Economics Observatory
-  - G20
-products_models:
-  - More or Less
-  - Wealth and Assets Survey
-  - EB-5 Immigrant Investor Visa
-media_books:
-  - Financial Times
 status: evergreen
+summary: 亨利与合伙人（Henley & Partners）报告称英国富人净流出，引发关于英国全球竞争力的担忧。本文深入探讨了该数据的可靠性，并分析了英国非定居税制改革、全球税收竞争以及财富流动背后的复杂因素。文章指出，有效征税需要平衡财政需求与国际竞争力，并强调政府与公民之间信任的重要性，以应对全球化背景下财富流动的挑战。
+tags:
+- financial
+- non
+- policy
+- wealth
+- wealth-inequality
+title: 富人真的在离开英国吗？税收政策与全球财富流动之辩
 ---
+
 ### 英国富人外流报告的争议
 
 **亨利与合伙人**（Henley & Partners: 一家全球公民和居住咨询公司）每年都会发布其**私人财富移民报告**（Private Wealth Migration Report: 衡量全球高净值人士移民趋势的报告）。

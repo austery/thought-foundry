@@ -1,32 +1,29 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-01-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=JAlqKC75bq0
 speaker: Anthony看世界
-tags:
-  - perfectionism
-  - procrastination
-  - authoritarian-parenting
-  - instrumental-rationality
-  - value-rationality
-  - self-liberation
-title: 解析完美主义：中国家庭如何塑造“伪完美”与个人解放之路
-summary: 本期视频深入探讨了普遍存在的完美主义现象及其与拖延症的关联。通过一个网友的真实案例，文章揭示了中国家庭中威权式教育如何塑造出一种追求“工具理性”的伪完美，而非真正的价值理性。作者挑战了传统心理学中“降低标准”的解决方案，提出应深化对“完美”的定义，并指出许多社会定义的“失败”实则是个人摆脱异化、实现自我解放的起点。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期视频深入探讨了普遍存在的完美主义现象及其与拖延症的关联。通过一个网友的真实案例，文章揭示了中国家庭中威权式教育如何塑造出一种追求“工具理性”的伪完美，而非真正的价值理性。作者挑战了传统心理学中“降低标准”的解决方案，提出应深化对“完美”的定义，并指出许多社会定义的“失败”实则是个人摆脱异化、实现自我解放的起点。
+tags:
+- authoritarian-parenting
+- canada
+- perfectionism
+- self
+- society
+- value
+title: 解析完美主义：中国家庭如何塑造“伪完美”与个人解放之路
 ---
 
 ### 完美主义：一个普遍的心理议题

@@ -1,32 +1,30 @@
 ---
-title: AI时代成功的关键特质：深思熟虑与利他精神的构建
-summary: 在AI时代，创造力与批判性思维变得日益重要。卡内基梅隆大学Po-Shen Loh教授强调，人类独特价值在于深思熟虑和为他人创造价值的利他精神，并分享了他通过教育实践培养这些特质的方法。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- entrepreneurship
-tags:
-- ai-era
-- critical-thinking
-- education-innovation
-- human-values
-- social-entrepreneurship
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-16'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- entrepreneurship
 series: ''
 source: https://www.youtube.com/watch?v=xWYb7tImErI
+speaker: EO
 status: evergreen
+summary: 在AI时代，创造力与批判性思维变得日益重要。卡内基梅隆大学Po-Shen Loh教授强调，人类独特价值在于深思熟虑和为他人创造价值的利他精神，并分享了他通过教育实践培养这些特质的方法。
+tags:
+- critical-thinking
+- education
+- human
+- llm
+- social-entrepreneurship
+title: AI时代成功的关键特质：深思熟虑与利他精神的构建
 ---
+
 ### AI与人类创造力的边界
 
 在**ChatGPT**（Generative Pre-trained Transformer: 一种大型语言模型）发布后不久，我曾走遍全国，告诉人们需要学习新事物以提升创造力，因为这曾被认为是人工智能唯一无法做到的事情。然而，我不再持此观点，因为我已经看到人工智能实际上能够提出许多想法。去年，在**国际数学奥林匹克竞赛**（International Mathematical Olympiad, IMO: 一项面向全球高中生的数学竞赛）的六道题目中，有四道是由谷歌的人工智能解答的。

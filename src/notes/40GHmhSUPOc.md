@@ -1,52 +1,51 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Northvolt
+- Norges Bank Investment Management
+- Tesla
+- Volvo
+- Volkswagen
+- Porsche
+- CATL
+- LG
+- Samsung
+- Galp
+- ABB
+- Stockholm School of Economics
 date: '2024-02-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+people:
+- Peter Carlsson
+- Elon Musk
+- Claus Neelson
+- Mike Tyson
+- Google Founders
+products_models:
+- Model S
+project:
+- china-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=40GHmhSUPOc
 speaker: Norges Bank Investment Management
-tags:
-  - sustainable-batteries
-  - circular-economy
-  - battery-supply-chain
-  - sodium-ion-technology
-  - corporate-culture
-title: Northvolt CEO Peter Carlsson：电池革命、中国竞争与可持续发展
-summary: Northvolt首席执行官Peter Carlsson深入探讨了电池行业的未来，包括公司在可持续发展、循环经济和创新技术方面的愿景。他分析了中国竞争带来的挑战，强调了定制化电池和区域供应链的重要性。Carlsson还分享了Northvolt独特的企业文化、领导原则以及他个人对气候危机的使命感。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - china-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Peter Carlsson
-  - Elon Musk
-  - Claus Neelson
-  - Mike Tyson
-  - Google Founders
-companies_orgs:
-  - Northvolt
-  - Norges Bank Investment Management
-  - Tesla
-  - Volvo
-  - Volkswagen
-  - Porsche
-  - CATL
-  - LG
-  - Samsung
-  - Galp
-  - ABB
-  - Stockholm School of Economics
-products_models:
-  - Model S
-media_books:
-  - In Good Company
 status: evergreen
+summary: Northvolt首席执行官Peter Carlsson深入探讨了电池行业的未来，包括公司在可持续发展、循环经济和创新技术方面的愿景。他分析了中国竞争带来的挑战，强调了定制化电池和区域供应链的重要性。Carlsson还分享了Northvolt独特的企业文化、领导原则以及他个人对气候危机的使命感。
+tags:
+- battery-supply-chain
+- circular-economy
+- corporate-culture
+- technology
+title: Northvolt CEO Peter Carlsson：电池革命、中国竞争与可持续发展
 ---
+
 ### Northvolt的使命：可持续电池与循环经济
 
 欢迎收听“In Good Company”节目。今天，我们将与**Northvolt**（Northvolt: 一家瑞典电池制造商，专注于开发可持续电池和建立循环供应链）的首席执行官Peter Carlsson一起，深入探讨电池、可再生能源和创新技术的世界。

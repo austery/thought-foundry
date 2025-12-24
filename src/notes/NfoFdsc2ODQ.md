@@ -1,39 +1,38 @@
 ---
-author: Anthropic
+area: tech-insights
+category: business
+companies_orgs:
+- AbbVie
+- Anthropic
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ivy Weng
+- Sarah Nam
+products_models:
+- Claude
+- GenAIsys
+- GAIA
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=NfoFdsc2ODQ
 speaker: Anthropic
-tags:
-  - drug-discovery
-  - clinical-trials
-  - ai-strategy
-  - pharmaceutical-industry
-  - change-management
-title: 艾伯维如何利用AI加速药物发现与临床开发
-summary: 艾伯维（AbbVie）的AI战略与合作副总裁Sarah Nam分享了公司如何将AI技术融入药物发现和临床开发的各个环节，以加速创新并提升患者影响。她详细介绍了AI在优化药物设计、精准医疗、临床试验设计与执行以及自动化文档撰写等方面的应用，并强调了变革管理、人才培养和早期成功示范在推动企业级AI转型中的关键作用。文章还探讨了评估AI技术合作伙伴的标准以及未来AI在制药领域的发展前景。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ivy Weng
-  - Sarah Nam
-companies_orgs:
-  - AbbVie
-  - Anthropic
-products_models:
-  - Claude
-  - GenAIsys
-  - GAIA
-media_books: []
 status: evergreen
+summary: 艾伯维（AbbVie）的AI战略与合作副总裁Sarah Nam分享了公司如何将AI技术融入药物发现和临床开发的各个环节，以加速创新并提升患者影响。她详细介绍了AI在优化药物设计、精准医疗、临床试验设计与执行以及自动化文档撰写等方面的应用，并强调了变革管理、人才培养和早期成功示范在推动企业级AI转型中的关键作用。文章还探讨了评估AI技术合作伙伴的标准以及未来AI在制药领域的发展前景。
+tags:
+- ai-strategy
+- drug-discovery
+- health
+- industry
+- management
+title: 艾伯维如何利用AI加速药物发现与临床开发
 ---
+
 ### AI在制药行业的变革性力量
 
 Sarah Nam: 制药行业中，没有任何其他技术变革能够像人工智能一样，彻底重塑每一个职能。我们相信，这确实是一个百年一遇的机会，能够加速我们的进步，并为患者带来更大的影响。

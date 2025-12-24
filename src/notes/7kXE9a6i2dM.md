@@ -1,36 +1,35 @@
 ---
-author: TED
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Pica
+- TED
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- ai-video-creation
+people:
+- Matan Cohen Grumi
+- Jesse
+products_models: []
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=7kXE9a6i2dM
 speaker: TED
-tags:
-  - ai-video-creation
-  - generative-ai
-  - creative-expression
-  - virtual-reality-fusion
-  - personal-storytelling
-title: AI生成视频的乐趣：从披萨、UFO到重构现实
-summary: Matan Cohen Grumi分享了他作为Pica联合创始人，开发首批AI视频创作平台的经历。他强调了AI在融合虚拟与现实中的巨大潜力，并展示了如何利用AI技术，仅凭几张照片就能创作出富有故事性的视频。他探讨了AI不仅能取代现实，更能增强和歌颂真实生活中的特殊时刻，让创意和情感得到前所未有的表达。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Matan Cohen Grumi
-  - Jesse
-companies_orgs:
-  - Pica
-  - TED
-products_models: []
-media_books: []
 status: evergreen
+summary: Matan Cohen Grumi分享了他作为Pica联合创始人，开发首批AI视频创作平台的经历。他强调了AI在融合虚拟与现实中的巨大潜力，并展示了如何利用AI技术，仅凭几张照片就能创作出富有故事性的视频。他探讨了AI不仅能取代现实，更能增强和歌颂真实生活中的特殊时刻，让创意和情感得到前所未有的表达。
+tags:
+- canada
+- personal
+- technology
+title: AI生成视频的乐趣：从披萨、UFO到重构现实
 ---
+
 ### 从“一无是处”到AI视频创业
 
 当我告诉姐姐我将上台发言时，她这样回复我：“还记得你老师和咱妈说你这辈子也不会有什么出息吗？” 确实，如果我是那位老师，我可能也会说同样的话。我从小就只喜欢探索和寻找乐趣。事实证明我是对的，如果不是为了好玩，我今天就不会站在这里。

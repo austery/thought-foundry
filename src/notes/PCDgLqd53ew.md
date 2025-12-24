@@ -1,53 +1,54 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: productivity
+companies_orgs:
+- Norges Bank Investment Management
+- MIT
 date: '2024-05-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Deep Work
+- Digital Minimalism
+- Slow Productivity
+- The Internet Tidal Wave
+- Nicomachean Ethics
+people:
+- Cal Newport
+- Steve Jobs
+- Clifford Nass
+- Linda Stone
+- Bill Gates
+- Anders Ericsson
+- Mihaly Csikszentmihalyi
+- Rory McIlroy
+- Aristotle
+products_models:
+- iPhone
+- Slack
+- TikTok
+- Instagram
+- Twitter
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=PCDgLqd53ew
 speaker: Norges Bank Investment Management
-tags:
-  - deep-work
-  - slow-productivity
-  - attention-economy
-  - workload-management
-  - digital-distraction
-title: Cal Newport：深度工作、慢速生产力与数字时代专注力的重建
-summary: 本期播客对话知名作家 Cal Newport，深入探讨了其核心概念“深度工作”和“数字极简主义”。他阐释了深度工作如何成为创造价值的关键，以及数字时代碎片化沟通（如“过度活跃的蜂巢思维”）如何损害我们的专注力与认知能力。Cal Newport 提出了“慢速生产力”的理念，强调以结果而非活动衡量产出，并通过透明的工作量管理和“小规模季节性”来提升效率和福祉。他呼吁年轻人尊重自己的注意力，避免被数字产品滥用，从而过上更充实、更有意义的生活。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Cal Newport
-  - Steve Jobs
-  - Clifford Nass
-  - Linda Stone
-  - Bill Gates
-  - Anders Ericsson
-  - Mihaly Csikszentmihalyi
-  - Rory McIlroy
-  - Aristotle
-companies_orgs:
-  - Norges Bank Investment Management
-  - MIT
-products_models:
-  - iPhone
-  - Slack
-  - TikTok
-  - Instagram
-  - Twitter
-media_books:
-  - Deep Work
-  - Digital Minimalism
-  - Slow Productivity
-  - The Internet Tidal Wave
-  - Nicomachean Ethics
 status: evergreen
+summary: 本期播客对话知名作家 Cal Newport，深入探讨了其核心概念“深度工作”和“数字极简主义”。他阐释了深度工作如何成为创造价值的关键，以及数字时代碎片化沟通（如“过度活跃的蜂巢思维”）如何损害我们的专注力与认知能力。Cal
+  Newport 提出了“慢速生产力”的理念，强调以结果而非活动衡量产出，并通过透明的工作量管理和“小规模季节性”来提升效率和福祉。他呼吁年轻人尊重自己的注意力，避免被数字产品滥用，从而过上更充实、更有意义的生活。
+tags:
+- attention-economy
+- digital
+- management
+- productivity
+- work
+title: Cal Newport：深度工作、慢速生产力与数字时代专注力的重建
 ---
+
 ### 深度工作：数字时代的核心竞争力
 
 大家好，今天我们非常荣幸地邀请到 Cal Newport 先生，他以其在**深度工作**（Deep Work: 全神贯注于一项认知要求高的任务的状态）和**数字极简主义**（Digital Minimalism: 一种哲学，主张有意识地使用数字工具，以支持个人价值观并减少干扰）方面的开创性工作而闻名。Cal 彻底改变了我们在数字时代处理生产力和专注力的方式，因为从根本上说，你所专注的，就是你所成就的。今天，我们将把焦点放在您和您的工作上，Cal，非常欢迎您！

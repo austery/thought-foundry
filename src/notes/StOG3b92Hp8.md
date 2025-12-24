@@ -1,50 +1,50 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Service Canada
+- Walmart
+- McDonald's
+- Tim Hortons
+- Shoppers Drug Mart
+- LCBO
+- U-Haul
+- Reddit
+- 多伦多教育局
 date: '2024-05-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CBC
+- 《弟子规》
+- how recruiters in India use false promises to lure students to Canada
+people:
+- 莊也
+- Justin Trudeau
+- François Legault
+- Manpreet Gill
+- Nijjar
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=StOG3b92Hp8
 speaker: 莊也雜談
-tags:
-  - indian-immigration
-  - canadian-immigration-policy
-  - systemic-corruption
-  - labor-exploitation
-  - social-impact
-title: 深度揭秘：印度移民潮对加拿大社会与制度的冲击
-summary: 本期节目深入探讨印度大规模移民潮对加拿大社会造成的深层冲击。通过分析Reddit论坛讨论和CBC纪录片，揭示了移民政策漏洞、系统性腐败、低价劳工剥削以及由此引发的社会问题。文章指出，这不仅影响了加拿大本地居民，也使许多印度新移民成为受害者，呼吁对移民系统进行大规模改革，以平衡质量与数量，解决当前危机。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - cultural-critique
-people:
-  - 莊也
-  - Justin Trudeau
-  - François Legault
-  - Manpreet Gill
-  - Nijjar
-companies_orgs:
-  - Service Canada
-  - Walmart
-  - McDonald's
-  - Tim Hortons
-  - Shoppers Drug Mart
-  - LCBO
-  - U-Haul
-  - Reddit
-  - 多伦多教育局
-products_models: []
-media_books:
-  - CBC
-  - 《弟子规》
-  - how recruiters in India use false promises to lure students to Canada
 status: evergreen
+summary: 本期节目深入探讨印度大规模移民潮对加拿大社会造成的深层冲击。通过分析Reddit论坛讨论和CBC纪录片，揭示了移民政策漏洞、系统性腐败、低价劳工剥削以及由此引发的社会问题。文章指出，这不仅影响了加拿大本地居民，也使许多印度新移民成为受害者，呼吁对移民系统进行大规模改革，以平衡质量与数量，解决当前危机。
+tags:
+- canadian-immigration-policy
+- geopolitical
+- labor
+- social-impact
+- systemic-corruption
+title: 深度揭秘：印度移民潮对加拿大社会与制度的冲击
 ---
+
 ### 引言与加拿大社会冲击的背景
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天我们继续探讨加拿大的印度移民问题，这是本系列的第三期。如果您还没有看前两期，欢迎移步观看。本来我打算做两集就结束，觉得关于印度移民这个话题已经挖掘得足够深入了。但后来，通过与一些朋友的深入交流，我觉得还是很有必要就一些更深层次的内容再深挖一下，与大家探讨并分享我的一些心得体会。当然，我说的也不一定全对，但这期节目会非常好看和好听，因为它揭示了许多普通加拿大人不甚了解的、隐藏在加拿大表面光鲜社会背后的一些残酷真相。

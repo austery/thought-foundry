@@ -1,60 +1,59 @@
 ---
-author: Best Partners TV
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Google
+- OpenAI
+- Anthropic
+- Meta
+- HP
+- DeepMind
+- MIT
+- NSF
+- Stanford University
+- NVIDIA
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Attention Is All You Need》
+people:
+- Sergey Brin
+- Larry Page
+- Jennifer Widom
+- Fred Terman
+- William Hewlett
+- David Packard
+- Jonathan Levin
+- Jeff Dean
+- Lee Sedol
+products_models:
+- AlphaGo
+- Transformer
+- ChatGPT
+- Gemini
+- AltaVista
+- PageRank
+- BackRub
+- TPU
+- Waymo
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=l-z2cASNUMY
 speaker: Best Partners TV
-tags:
-  - llm
-  - hacker-spirit
-  - innovation-dilemma
-  - algorithm-optimization
-  - long-term-investment
-title: 谢尔盖·布林斯坦福对话：谷歌AI策略反思与未来展望
-summary: 在斯坦福大学工程学院百年庆典上，谷歌联合创始人谢尔盖·布林罕见露面，坦诚剖析了谷歌在AI时代的得与失。他回顾了谷歌从早期“黑客精神”到PageRank的崛起，分享了失败的创业经历。布林承认谷歌在生成式AI商业化上的犹豫，反思了“创新者的窘境”。同时，他强调了算法优化超越算力堆砌的潜力，并鼓励学生深耕硬科技，保持好奇心，以应对AI带来的变革与挑战。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sergey Brin
-  - Larry Page
-  - Jennifer Widom
-  - Fred Terman
-  - William Hewlett
-  - David Packard
-  - Jonathan Levin
-  - Jeff Dean
-  - Lee Sedol
-companies_orgs:
-  - Google
-  - OpenAI
-  - Anthropic
-  - Meta
-  - HP
-  - DeepMind
-  - MIT
-  - NSF
-  - Stanford University
-  - NVIDIA
-products_models:
-  - AlphaGo
-  - Transformer
-  - ChatGPT
-  - Gemini
-  - AltaVista
-  - PageRank
-  - BackRub
-  - TPU
-  - Waymo
-media_books:
-  - 《Attention Is All You Need》
 status: evergreen
+summary: 在斯坦福大学工程学院百年庆典上，谷歌联合创始人谢尔盖·布林罕见露面，坦诚剖析了谷歌在AI时代的得与失。他回顾了谷歌从早期“黑客精神”到PageRank的崛起，分享了失败的创业经历。布林承认谷歌在生成式AI商业化上的犹豫，反思了“创新者的窘境”。同时，他强调了算法优化超越算力堆砌的潜力，并鼓励学生深耕硬科技，保持好奇心，以应对AI带来的变革与挑战。
+tags:
+- hacker-spirit
+- innovation
+- long-term-investment
+- optimization
+title: 谢尔盖·布林斯坦福对话：谷歌AI策略反思与未来展望
 ---
+
 大家好，这里是最佳拍档，我是大飞。就在不久前，在**硅谷**的心脏，**斯坦福大学工程学院**举办了一场庆祝建院100周年的压轴活动。在这场活动上，他们请回了一位可以说是改变了互联网历史进程的校友，他就是**谷歌**的联合创始人**谢尔盖·布林**（Sergey Brin）。我们都知道，现在的科技圈，尤其是人工智能领域，正处于一种近乎疯狂的战国时代。**OpenAI**、**Anthropic**、**Meta**，当然还有**谷歌**，都在进行着激烈的角逐。
 
 在这样一个时间节点，作为**谷歌**的灵魂人物，已经处于半退休状态的**谢尔盖·布林**罕见地公开露面，坐在**斯坦福**的讲台上，面对台下数百名年轻的学子。他回顾了**谷歌**的起点，更重要的是，他非常坦诚地剖析了**谷歌**在AI时代的得与失。这场对话，不仅是一次历史的回顾，更是一次对未来技术趋势的深度预判。今天大飞就来给大家分享一下。

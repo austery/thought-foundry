@@ -1,65 +1,65 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- FBI
+- 司法部
+- ABC News
+- Fox News
+- Truth Social
+- MSNBC
+- CNN
+- BBC
+- Vox
+- The New York Times
+- Reform UK
+- 德国选择党 (AfD)
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Spotlight》
+- 《Unpopulist Reason》
+- 《政治秩序与政治衰败》
+people:
+- Donald Trump
+- Jeffrey Epstein
+- Pam Bondi
+- Kash Patel
+- Elon Musk
+- Thomas Massie
+- Marjorie Taylor Greene
+- Steve Bannon
+- Bill Clinton
+- Lawrence Summers
+- Harvey Weinstein
+- Joe Rogan
+- Nancy Pelosi
+- 郭文贵
+- 毛泽东
+- 福山
+- 佐科·维多多
+- 普拉博沃
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=5fAHhy16C0I
 speaker: FearNation 世界苦茶
-tags:
-  - political-narrative
-  - anti-establishment
-  - emotional-politics
-  - deep-state-conspiracy
-title: 特朗普的叙事战争：爱泼斯坦档案如何揭示美国政治的虚无与情感动员
-summary: 近期，美国国会强制公开爱泼斯坦档案，将一桩司法案件彻底推向政治叙事战争的前沿。本文深入剖析了特朗普在此事件中从承诺揭露“深层政府”到称其为“民主党骗局”，再到被迫支持公开的180度转变。文章探讨了政治叙事如何与受众情感深度绑定，反建制叙事的内在困境，以及为何即使是特朗普也无法随意操控一个已符号化的强大叙事，并最终反思了开放社会在乱象中抵御叙事操纵的独特机制。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Jeffrey Epstein
-  - Pam Bondi
-  - Kash Patel
-  - Elon Musk
-  - Thomas Massie
-  - Marjorie Taylor Greene
-  - Steve Bannon
-  - Bill Clinton
-  - Lawrence Summers
-  - Harvey Weinstein
-  - Joe Rogan
-  - Nancy Pelosi
-  - 郭文贵
-  - 毛泽东
-  - 福山
-  - 佐科·维多多
-  - 普拉博沃
-companies_orgs:
-  - FBI
-  - 司法部
-  - ABC News
-  - Fox News
-  - Truth Social
-  - MSNBC
-  - CNN
-  - BBC
-  - Vox
-  - The New York Times
-  - Reform UK
-  - 德国选择党 (AfD)
-products_models: []
-media_books:
-  - 《Spotlight》
-  - 《Unpopulist Reason》
-  - 《政治秩序与政治衰败》
 status: evergreen
+summary: 近期，美国国会强制公开爱泼斯坦档案，将一桩司法案件彻底推向政治叙事战争的前沿。本文深入剖析了特朗普在此事件中从承诺揭露“深层政府”到称其为“民主党骗局”，再到被迫支持公开的180度转变。文章探讨了政治叙事如何与受众情感深度绑定，反建制叙事的内在困境，以及为何即使是特朗普也无法随意操控一个已符号化的强大叙事，并最终反思了开放社会在乱象中抵御叙事操纵的独特机制。
+tags:
+- anti
+- political
+- politics
+- state
+title: 特朗普的叙事战争：爱泼斯坦档案如何揭示美国政治的虚无与情感动员
 ---
+
 ### 从司法案件到政治叙事：爱泼斯坦档案的强制公开
 近期，如果你关心美国政治，一定会知道爱泼斯坦档案（Epstein File）事件取得了重大进展。这件事被许多共和党或特朗普的支持者称为“萝莉岛”、“萝莉门”，并以此攻击民主党。最近的巨大进展是，参众两院以高票通过了强制公开爱泼斯坦调查档案的法案，其中众议院更是以427比1的压倒性票数通过。随后，参议院一致同意快速放行，并由特朗普签署了该法案。然而，就在一个月前，特朗普还一直在阻挠档案的公开。
 

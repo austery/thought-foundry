@@ -1,52 +1,52 @@
 ---
-author: Big Think
+area: personal-systems
+category: psychology
+companies_orgs:
+- Columbia University
+- Big Think
+- University of California, San Francisco
+- University of Cambridge
+- TikTok
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'The End of Trauma: How the New Science of Resilience is Changing How We Think About
+  PTSD'
+- The Iliad
+- The Odyssey
+people:
+- George Bonanno
+- Walter Cannon
+- Dan Gilbert
+- Samuel Pepys
+- Isaac Newton
+- Homer
+- Elisabeth Kübler-Ross
+- Carol Dweck
+- John Lennon
+- Paul McCartney
+- Linda McCartney
+products_models:
+- PTSD
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=fQ0ZS6-RWlQ
 speaker: Big Think
-tags:
-  - resilience
-  - adaptive-flexibility
-  - coping-mechanisms
-  - grief-psychology
-  - post-traumatic-stress-disorder
-title: 破除永久创伤迷思：心理学家乔治·博南诺揭示人类韧性的科学
-summary: 哥伦比亚大学临床心理学教授乔治·博南诺深入剖析了关于创伤的普遍误解，指出大多数人在经历潜在创伤事件后表现出强大的心理韧性，而非永久性伤害。他详细阐述了大脑的应激反应机制，并提出了“适应性灵活性”和“灵活性序列”等实用框架，帮助人们理解和培养应对逆境的能力，强调心理韧性是一种可以学习的结果，而非天生特质。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - George Bonanno
-  - Walter Cannon
-  - Dan Gilbert
-  - Samuel Pepys
-  - Isaac Newton
-  - Homer
-  - Elisabeth Kübler-Ross
-  - Carol Dweck
-  - John Lennon
-  - Paul McCartney
-  - Linda McCartney
-companies_orgs:
-  - Columbia University
-  - Big Think
-  - University of California, San Francisco
-  - University of Cambridge
-  - TikTok
-products_models:
-  - PTSD
-media_books:
-  - 'The End of Trauma: How the New Science of Resilience is Changing How We Think About PTSD'
-  - The Iliad
-  - The Odyssey
 status: evergreen
+summary: 哥伦比亚大学临床心理学教授乔治·博南诺深入剖析了关于创伤的普遍误解，指出大多数人在经历潜在创伤事件后表现出强大的心理韧性，而非永久性伤害。他详细阐述了大脑的应激反应机制，并提出了“适应性灵活性”和“灵活性序列”等实用框架，帮助人们理解和培养应对逆境的能力，强调心理韧性是一种可以学习的结果，而非天生特质。
+tags:
+- adaptive-flexibility
+- coping-mechanism
+- psychology
+- resilience
+title: 破除永久创伤迷思：心理学家乔治·博南诺揭示人类韧性的科学
 ---
+
 ### 导言：重新思考创伤
 
 当我思考创伤时，真正的大问题是：大多数人如何应对我们所认为的创伤事件？我倾向于使用“潜在创伤”或“潜在创伤性事件”这个词。这是因为事件本身并非创伤，它们只是具有创伤的可能性。但大多数人是如何应对的呢？我们知道有些人会患上**创伤后应激障碍**（Post-Traumatic Stress Disorder, PTSD：指个体在经历或目睹创伤性事件后出现的严重、持续的心理障碍），但大多数人，他们是如何反应的？当我们能看清这一点时，我们就能追问，为什么人们会有某些特定的反应方式？这正是我整个职业生涯都在探究的问题。

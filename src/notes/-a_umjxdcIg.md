@@ -1,46 +1,42 @@
 ---
-author: 东京人文论坛
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- OpenAI
+- DeepSeek
+- IMF
 date: '2025-06-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人民日报》
+people:
+- Elon Musk
+- Donald Trump
+products_models:
+- ChatGPT
+- GPT-4
+- Grok
+- NotebookLM
+- DeepSeek R1
+- DeepSeek V3
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=-a_umjxdcIg
 speaker: 东京人文论坛
-tags:
-  - ai-workflow
-  - prompt-engineering
-  - chain-of-thought
-  - retrieval-augmented-generation
-  - human-ai-collaboration
-  - ai-limitations
-  - ai-alignment
-title: 高效驾驭AI：从原理到实践的工作流与团队协作
-summary: 本文深入探讨了AI的工作原理，从其预测下一个词的基础逻辑，到Chain of Thought和RAG等技术如何大幅提升其可用性。文章指出，高效利用AI的关键在于理解其底层机制，并将其视为协作伙伴而非单纯的搜索引擎。通过结构化工作流、提供高质量输入以及团队协作，可以最大化AI的效能，同时避免其局限性，从而在AI时代实现更高效的产出。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Elon Musk
-  - Donald Trump
-companies_orgs:
-  - OpenAI
-  - DeepSeek
-  - IMF
-products_models:
-  - ChatGPT
-  - GPT-4
-  - Grok
-  - NotebookLM
-  - DeepSeek R1
-  - DeepSeek V3
-media_books:
-  - 《人民日报》
 status: evergreen
+summary: 本文深入探讨了AI的工作原理，从其预测下一个词的基础逻辑，到Chain of Thought和RAG等技术如何大幅提升其可用性。文章指出，高效利用AI的关键在于理解其底层机制，并将其视为协作伙伴而非单纯的搜索引擎。通过结构化工作流、提供高质量输入以及团队协作，可以最大化AI的效能，同时避免其局限性，从而在AI时代实现更高效的产出。
+tags:
+- ai-alignment
+- generation
+- human-ai-collaboration
+- llm
+title: 高效驾驭AI：从原理到实践的工作流与团队协作
 ---
 
 ## 开场：AI 付费用户的现状与讨论焦点

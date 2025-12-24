@@ -1,43 +1,43 @@
 ---
-author: 張内咸
+area: society-systems
+category: general
+companies_orgs:
+- B站
+- 人民日报
+- Sony
+- Apple
 date: '2025-10-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《绝望主妇》
+- 抖音
+people:
+- Donald Trump
+products_models:
+- H-1B
+- K字签证
+- PlayStation 3
+project:
+- china-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=fXMASJuL_ok
 speaker: 張内咸
-tags:
-  - parenting-challenges
-  - chinese-economy
-  - government-rhetoric
-  - k-visa-policy
-  - social-critique
-title: 从育儿辛酸到社会批判：张内咸对中国现状的深度观察
-summary: 本期节目中，张内咸分享了感染手足口病的经历，并以此引出作为家长的诸多不易，尤其在育儿、个人时间牺牲和家庭责任方面的挑战。他继而批判了中国育儿节目和官方媒体脱离实际的宣传，深入探讨了K字签证政策引发的社会反弹、经济下滑背景下的民生困境，以及北京中秋送礼风气的变化，最终以“啃树皮”的比喻，辛辣讽刺了当下中国社会面临的诸多问题。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - Donald Trump
-companies_orgs:
-  - B站
-  - 人民日报
-  - Sony
-  - Apple
-products_models:
-  - H-1B
-  - K字签证
-  - PlayStation 3
-media_books:
-  - 《绝望主妇》
-  - 抖音
 status: evergreen
+summary: 本期节目中，张内咸分享了感染手足口病的经历，并以此引出作为家长的诸多不易，尤其在育儿、个人时间牺牲和家庭责任方面的挑战。他继而批判了中国育儿节目和官方媒体脱离实际的宣传，深入探讨了K字签证政策引发的社会反弹、经济下滑背景下的民生困境，以及北京中秋送礼风气的变化，最终以“啃树皮”的比喻，辛辣讽刺了当下中国社会面临的诸多问题。
+tags:
+- chinese-economy
+- government
+- parenting-challenge
+- policy
+- social
+title: 从育儿辛酸到社会批判：张内咸对中国现状的深度观察
 ---
+
 ### 患病经历与职业坚持
 
 观众们对上周节目中我戴手套的举动产生了诸多猜测。有人一本正经地认为我是在暗示自己是“白手套”，但我反问，如果真是如此，生活怎会如此拮据？还有人猜测我将转行汽修，甚至被认为是“境外反华势力”。我澄清道，戴手套是因为手上起了水疱，又疼又痒，难以示人，否则节目都无法录制。这种病叫做**手足口综合症**（Hand-foot-mouth disease: 一种由病毒引起的传染病，常见于儿童，症状包括发烧、手足口出现疱疹），通过病毒传染，家里有小孩的朋友应该有所耳闻。它症状严重，初期发高烧，随后手、脚和口腔内出现疱疹，口腔疼痛难忍，吞咽困难。脸上也可能起疹子，所幸我的情况不至于影响录制。我曾犹豫是否戴口罩，但镜子告诉我“你想多了，颜值还有65分”，于是作罢。否则，观众又会猜测我是在“开怀旧服”，怀念核酸检测的日子。上周我确实是带病坚持工作，吃了退烧药，强撑着录完节目。当时头晕眼花，全身浮肿，没有一处不疼，连脚底板也因水疱而无法走路，幸好录节目时是坐着。

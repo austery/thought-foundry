@@ -1,105 +1,105 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times Book Review
+- Manpower
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- King Sorrow
+- 20th Century Ghost
+- Horns
+- Best New Horror
+- Pop Art
+- Noseratu
+- The Black Phone
+- Friday the 13th
+- Cabin in the Woods
+- Texas Chainsaw Massacre
+- In a Violent Nature
+- How Horror Seduces
+- Aliens
+- The Best Ghost Stories of Algernon Blackwood
+- Lost Man's Lane
+- Those Who Wish Me Dead
+- Stranger Things
+- Harry Potter
+- Jaws 2
+- Moriarty
+- Heart-Shaped Box
+- Dead Man's Suit
+- Fever House
+- The Devil by Name
+- The X-Files
+- Pulp Fiction
+- The Reformatory
+- The Overlook Hotel
+- Doure School for Boys
+- Goosebumps
+- The House with a Clock in Its Walls
+- The Phantom Tollbooth
+- The Black Cauldron
+- The Lion, the Witch and the Wardrobe
+- Lone Women
+- The Haunting of Hill House
+- The Turn of the Screw
+- The Shining
+- Danse Macabre
+- House of Leaves
+- We Have Always Lived in the Castle
+- The Wire
+- The Babadook
+people:
+- Gilbert Cruz
+- Joe Hill
+- Victor LaValle
+- Shirley Jackson
+- Stephen King
+- Michael Koryta
+- Anthony Horowitz
+- Keith Rosson
+- Tananarive Due
+- John Bellairs
+- Edward Gorey
+- Eleanor Vance
+- Dr. Montigue
+- Theo
+- Luke
+- Lewis Barnvelt
+- Jude
+- Patty Smith
+- Paul Reiser
+- Bill Paxton
+- Jason Voorhees
+- Bugs Bunny
+- Daffy Duck
+- Moe
+- Curly
+- Leatherface
+- Moulder
+- Scully
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=-r9fGnIMKj0
 speaker: New York Times Podcasts
-tags:
-  - horror-fiction
-  - book-recommendations
-  - literary-analysis
-  - evolutionary-psychology
-  - haunted-house-stories
-title: 恐怖文学的魅力：乔·希尔与维克多·拉瓦勒的深度对谈
-summary: 本期播客深入探讨了恐怖文学的吸引力与创作。主持人吉尔伯特·克鲁兹采访了两位知名恐怖作家乔·希尔和维克多·拉瓦勒。乔·希尔分享了他的新小说《悲伤之王》并推荐了一系列令人毛骨悚然的读物，同时剖析了有效恐怖作品的核心在于共情而非虐待。维克多·拉瓦勒则对雪莉·杰克逊的经典作品《山庄鬼魅》进行了细致入微的解读，揭示了其主题深度和对读者心理的深刻影响。节目还探讨了恐怖文学如何作为一种“排练”，帮助我们面对生活中的真实恐惧。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Gilbert Cruz
-  - Joe Hill
-  - Victor LaValle
-  - Shirley Jackson
-  - Stephen King
-  - Michael Koryta
-  - Anthony Horowitz
-  - Keith Rosson
-  - Tananarive Due
-  - John Bellairs
-  - Edward Gorey
-  - Eleanor Vance
-  - Dr. Montigue
-  - Theo
-  - Luke
-  - Lewis Barnvelt
-  - Jude
-  - Patty Smith
-  - Paul Reiser
-  - Bill Paxton
-  - Jason Voorhees
-  - Bugs Bunny
-  - Daffy Duck
-  - Moe
-  - Curly
-  - Leatherface
-  - Moulder
-  - Scully
-companies_orgs:
-  - New York Times Book Review
-  - Manpower
-products_models: []
-media_books:
-  - King Sorrow
-  - 20th Century Ghost
-  - Horns
-  - Best New Horror
-  - Pop Art
-  - Noseratu
-  - The Black Phone
-  - Friday the 13th
-  - Cabin in the Woods
-  - Texas Chainsaw Massacre
-  - In a Violent Nature
-  - How Horror Seduces
-  - Aliens
-  - The Best Ghost Stories of Algernon Blackwood
-  - Lost Man's Lane
-  - Those Who Wish Me Dead
-  - Stranger Things
-  - Harry Potter
-  - Jaws 2
-  - Moriarty
-  - Heart-Shaped Box
-  - Dead Man's Suit
-  - Fever House
-  - The Devil by Name
-  - The X-Files
-  - Pulp Fiction
-  - The Reformatory
-  - The Overlook Hotel
-  - Doure School for Boys
-  - Goosebumps
-  - The House with a Clock in Its Walls
-  - The Phantom Tollbooth
-  - The Black Cauldron
-  - The Lion, the Witch and the Wardrobe
-  - Lone Women
-  - The Haunting of Hill House
-  - The Turn of the Screw
-  - The Shining
-  - Danse Macabre
-  - House of Leaves
-  - We Have Always Lived in the Castle
-  - The Wire
-  - The Babadook
 status: evergreen
+summary: 本期播客深入探讨了恐怖文学的吸引力与创作。主持人吉尔伯特·克鲁兹采访了两位知名恐怖作家乔·希尔和维克多·拉瓦勒。乔·希尔分享了他的新小说《悲伤之王》并推荐了一系列令人毛骨悚然的读物，同时剖析了有效恐怖作品的核心在于共情而非虐待。维克多·拉瓦勒则对雪莉·杰克逊的经典作品《山庄鬼魅》进行了细致入微的解读，揭示了其主题深度和对读者心理的深刻影响。节目还探讨了恐怖文学如何作为一种“排练”，帮助我们面对生活中的真实恐惧。
+tags:
+- analysis
+- book-recommendation
+- geopolitical
+- horror-fiction
+- psychology
+title: 恐怖文学的魅力：乔·希尔与维克多·拉瓦勒的深度对谈
 ---
+
 ### 播客引言：恐怖文学的魅力与深度
 
 本周，我们沉浸在十月的氛围中，为您带来几年前与伟大恐怖作家进行的两次对话。

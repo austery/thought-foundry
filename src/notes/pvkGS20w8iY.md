@@ -1,40 +1,39 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Courage to Be Disliked
+- Politics
+- Diamond Sutra
+people:
+- Ichiro Kishimi
+- Aristotle
+- Hegel
+- Zhuangzi
+- Zeng Guofan
+- Wang Yangming
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=pvkGS20w8iY
 speaker: Anthony看世界
-tags:
-  - adlerian-psychology
-  - topic-separation
-  - interpersonal-relationships
-  - atomized-society
-  - eastern-philosophy
-title: 《被讨厌的勇气》：课题分离是自由的代价，还是对人际关系的误读？
-summary: 本文深入探讨了《被讨厌的勇气》一书中提出的“课题分离”概念。作者认为，虽然课题分离在划清人际界限方面有其价值，但其过度简化了复杂的人际关系，尤其是在涉及权力结构时，并可能导致对原子化状态的赞美。文章还分析了该书思想与东方哲学（如道家、禅宗）的共通之处，并将其与西方哲学（如亚里士多德、黑格尔）对社群和互动的强调进行了对比，指出其在处理现实困境时的局限性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Ichiro Kishimi
-  - Aristotle
-  - Hegel
-  - Zhuangzi
-  - Zeng Guofan
-  - Wang Yangming
-companies_orgs: []
-products_models: []
-media_books:
-  - The Courage to Be Disliked
-  - Politics
-  - Diamond Sutra
 status: evergreen
+summary: 本文深入探讨了《被讨厌的勇气》一书中提出的“课题分离”概念。作者认为，虽然课题分离在划清人际界限方面有其价值，但其过度简化了复杂的人际关系，尤其是在涉及权力结构时，并可能导致对原子化状态的赞美。文章还分析了该书思想与东方哲学（如道家、禅宗）的共通之处，并将其与西方哲学（如亚里士多德、黑格尔）对社群和互动的强调进行了对比，指出其在处理现实困境时的局限性。
+tags:
+- adlerian-psychology
+- philosophy
+- relationship
+- society
+- technology
+title: 《被讨厌的勇气》：课题分离是自由的代价，还是对人际关系的误读？
 ---
 
 ### 引言：再谈《被讨厌的勇气》与课题分离

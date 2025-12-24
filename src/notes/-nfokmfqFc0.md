@@ -1,33 +1,31 @@
 ---
-title: 特朗普与普京通话、博尔顿被起诉、伊朗性别转换手术及其他头条新闻
-summary: 本期节目涵盖了特朗普与普京关于战斧导弹的通话、前国家安全顾问博尔顿因泄密被起诉、海军上将霍尔西的突然离职、特朗普政府的体外受精倡议，以及伊朗推广性别转换手术作为医疗旅游的复杂情况。
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- us-analysis
-tags:
-- classified-information
-- iran-gender-transition
-- trump-administration
-- ukraine-war
-- us-politics
-people: []
+category: politics-society
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-17'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project:
+- ai-impact-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=-nfokmfqFc0
+speaker: New York Times Podcasts
 status: evergreen
+summary: 本期节目涵盖了特朗普与普京关于战斧导弹的通话、前国家安全顾问博尔顿因泄密被起诉、海军上将霍尔西的突然离职、特朗普政府的体外受精倡议，以及伊朗推广性别转换手术作为医疗旅游的复杂情况。
+tags:
+- gender
+- information
+- trump-administration
+- ukraine-war
+title: 特朗普与普京通话、博尔顿被起诉、伊朗性别转换手术及其他头条新闻
 ---
+
 ### 特朗普与普京通话，战斧导弹交易生变
 
 Today at the White House, Ukrainian President Volodymyr Zelenskyy will meet with President Trump.

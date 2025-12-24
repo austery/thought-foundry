@@ -1,57 +1,57 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 爱马仕
 date: '2024-12-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《舌尖上的中国》
+- 《荈赋》
+- 《此生有味：苏东坡的美食地图》
+- 《吃对了吗》
+- 《九歌·东君》
+- 《灵隐寺》
+- 《山家清供》
+- 《闲情偶记》
+- 《养小录》
+- 《红楼梦》
+people:
+- 林卫辉
+- 尼古拉斯·柯蒂
+- 提斯教授
+- 陈晓卿
+- 苏东坡
+- 屈原
+- 宋之问
+- 李清照
+- 林洪
+- 李渔
+- 顾仲
+- 袭人
+- 王夫人
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=8SQbshJMLW8
 speaker: 一席YiXi
-tags:
-  - flavor-chemistry
-  - culinary-tradition
-  - sensory-perception
-  - cultural-heritage
-  - food-as-poetry
-title: 风味的魔法：茶叶与桂花背后的科学与诗意
-summary: 林卫辉通过茶叶和桂花的化学成分解析，揭示中式饮食中风味形成的科学原理，并追溯其在古典诗词与烹饪传统中的文化脉络，展现日常饮食如何承载深厚的文化智慧与审美体验。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 林卫辉
-  - 尼古拉斯·柯蒂
-  - 提斯教授
-  - 陈晓卿
-  - 苏东坡
-  - 屈原
-  - 宋之问
-  - 李清照
-  - 林洪
-  - 李渔
-  - 顾仲
-  - 袭人
-  - 王夫人
-companies_orgs:
-  - 爱马仕
-products_models: []
-media_books:
-  - 《舌尖上的中国》
-  - 《荈赋》
-  - 《此生有味：苏东坡的美食地图》
-  - 《吃对了吗》
-  - 《九歌·东君》
-  - 《灵隐寺》
-  - 《山家清供》
-  - 《闲情偶记》
-  - 《养小录》
-  - 《红楼梦》
 status: evergreen
+summary: 林卫辉通过茶叶和桂花的化学成分解析，揭示中式饮食中风味形成的科学原理，并追溯其在古典诗词与烹饪传统中的文化脉络，展现日常饮食如何承载深厚的文化智慧与审美体验。
+tags:
+- cultural-heritage
+- life
+- perception
+- science
+- technology
+title: 风味的魔法：茶叶与桂花背后的科学与诗意
 ---
+
 ### 茶叶的风味密码：从单宁到诗意
 
 大家好，我是林卫辉，一位美食作家。我们都知道《舌尖上的中国》这部纪录片播出后，仿佛唤醒了全民的味觉意识。陈晓卿老师曾开玩笑说：“如果你的朋友圈突然冒出一位美食家，那说明他的主业失败了。”这句话看似调侃，实则揭示了一个深层现实：我们的生活已经富足到可以认真对待“吃什么”这件事了。

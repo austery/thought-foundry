@@ -1,42 +1,41 @@
 ---
-author: Veritasium
-date: '2023-10-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=czjisEGe5Cw
-speaker: Veritasium
-tags:
-  - veritasium
-  - science-communication
-  - scientific-hype
-  - public-trust
-  - research-funding
-  - media-sensationalism
-title: 科学传播的困境：过度炒作、虚假希望与信任危机
-summary: 这段视频探讨了科学发现过度炒作的普遍问题，其背后是科学家、大学和媒体之间不协调的激励机制。视频指出，诸如量子计算机中的“全息虫洞”、BICEP2实验和LK99超导体等耸人听闻的标题和过早的声明如何误导公众，并侵蚀对科学的信任。视频认为，尽管科学最终会自我修正，但夸大其词的短期损害是巨大的，因此呼吁对科学进展进行更细致、更诚实的描述。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - knowledge-pipeline
-  - historical-insights
-people:
-  - Andre Lind
+category: science
 companies_orgs:
-  - Nature
-  - Shopify
-  - Google
-products_models:
-  - Snatoms
-  - Bicep Two
-  - LK99
+- Nature
+- Shopify
+- Google
+date: '2023-10-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Archive Pre-print Server
+- Archive Pre-print Server
+people:
+- Andre Lind
+products_models:
+- Snatoms
+- Bicep Two
+- LK99
+project:
+- systems-thinking
+- knowledge-pipeline
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=czjisEGe5Cw
+speaker: veritasium
 status: evergreen
+summary: 这段视频探讨了科学发现过度炒作的普遍问题，其背后是科学家、大学和媒体之间不协调的激励机制。视频指出，诸如量子计算机中的“全息虫洞”、BICEP2实验和LK99超导体等耸人听闻的标题和过早的声明如何误导公众，并侵蚀对科学的信任。视频认为，尽管科学最终会自我修正，但夸大其词的短期损害是巨大的，因此呼吁对科学进展进行更细致、更诚实的描述。
+tags:
+- communication
+- media
+- public-trust
+- research
+- scientific
+title: 科学传播的困境：过度炒作、虚假希望与信任危机
 ---
+
 ### 科学传播的误区：从全息虫洞到室温超导体
 
 2022年12月1日，《**自然**》（Nature: 国际顶级科学期刊）杂志刊登了一篇关于**全息虫洞**（Holographic Wormhole: 一种理论上的时空结构，通过全息原理与量子纠缠联系起来）的封面故事。

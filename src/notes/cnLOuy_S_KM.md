@@ -1,47 +1,47 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Affirm
+- PayPal
+- Bloomberg Podcasts
+- Klarna
+- Google
+- Meta
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+people:
+- Max Levchin
+- Joe Weisenthal
+- Tracy Alloway
+- Carmen Rodriguez
+- Dash Bennett
+- Cale Brooks
+products_models:
+- Affirm Card
+- ChatGPT
+project:
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=cnLOuy_S_KM
 speaker: Bloomberg Podcasts
-tags:
-  - buy-now-pay-later
-  - credit-card-industry
-  - financial-innovation
-  - underwriting
-  - payment-systems
-title: Affirm创始人Max Levchin深度解析“先买后付”：颠覆传统信贷的创新之路
-summary: Affirm创始人兼CEO Max Levchin在播客中深入探讨了“先买后付”（BNPL）模式如何通过透明的无隐藏费用结构，颠覆传统信用卡行业。他分享了Affirm独特的信用评估方式、不收取滞纳金的商业模式，以及对消费者行为和宏观经济的洞察。Levchin还讨论了AI在客户服务和合规管理中的应用，并展望了理想的支付系统，认为其核心原则与Affirm高度契合。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - systems-thinking
-people:
-  - Max Levchin
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Carmen Rodriguez
-  - Dash Bennett
-  - Cale Brooks
-companies_orgs:
-  - Affirm
-  - PayPal
-  - Bloomberg Podcasts
-  - Klarna
-  - Google
-  - Facebook
-products_models:
-  - Affirm Card
-  - ChatGPT
-media_books:
-  - Odd Lots
 status: evergreen
+summary: Affirm创始人兼CEO Max Levchin在播客中深入探讨了“先买后付”（BNPL）模式如何通过透明的无隐藏费用结构，颠覆传统信用卡行业。他分享了Affirm独特的信用评估方式、不收取滞纳金的商业模式，以及对消费者行为和宏观经济的洞察。Levchin还讨论了AI在客户服务和合规管理中的应用，并展望了理想的支付系统，认为其核心原则与Affirm高度契合。
+tags:
+- buy-now-pay-later
+- financial-innovation
+- industry
+- life
+- system
+title: Affirm创始人Max Levchin深度解析“先买后付”：颠覆传统信贷的创新之路
 ---
+
 ### 传统信用卡行业的财富转移与“先买后付”的崛起
 
 **Max Levchin:** 说实话，我花了很多时间思考“生态系统”这个词，主要是对此感到愤怒，因为它是一种记录不那么充分的财富转移。顺便说一句，信用卡行业总体上是一种累退的财富转移，那些从不循环交易的人，比如你们两位和我，当我们使用信用卡时（现在已经很少了），我们月底会付清账单，一分钱利息都不付。我想Joe曾公开表示你从未支付过任何利息。

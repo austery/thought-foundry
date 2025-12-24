@@ -1,56 +1,56 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: psychology
+companies_orgs:
+- Google
+- Meta
+- Instagram
+- TikTok
+- Netflix
+- Epic Games
+- United Nations
+- Waldorf School of the Peninsula
 date: '2025-05-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《失控的焦虑世代》
+- 《成瘾时代》
+- Highlight magazine
+- The Wall Street Journal
+people:
+- Jonathan Haidt
+- Tristan Harris
+- Frances Haugen
+- Sean Parker
+- Nicholas Christakis
+- Yasuko Minoura
+- Steve Jobs
+products_models:
+- iPhone 4
+- Snapchat
+- YouTube
+- Fortnite
+project:
+- systems-thinking
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=ywaD9a87cVY
 speaker: 超級歪 SuperY
-tags:
-  - gen-z-mental-health
-  - social-media-addiction
-  - childhood-development
-  - limbic-capitalism
-  - attention-economy
-title: 脑边缘资本主义与失控的焦虑世代：社交媒体如何损害Z世代心智
-summary: 美国心理学家Jonathan Haidt在其新书《失控的焦虑世代》中指出，自2010年起，全球青少年抑郁、焦虑和自杀率显著上升。文章深入探讨了智能手机和社交媒体普及对Z世代心智造成的四大危害：社交剥夺、睡眠剥夺、注意力碎片化和数字成瘾。这种由“脑边缘资本主义”驱动的模式，通过操纵大脑多巴胺回路，使平台利润凌驾于青少年健康之上。文中还分析了这些影响对不同性别的差异，并提出了政府立法、学校改革和家长干预等多层面的应对策略，以期帮助年轻一代健康发展。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Jonathan Haidt
-  - Tristan Harris
-  - Frances Haugen
-  - Sean Parker
-  - Nicholas Christakis
-  - Yasuko Minoura
-  - Steve Jobs
-companies_orgs:
-  - Google
-  - Facebook
-  - Instagram
-  - TikTok
-  - Netflix
-  - Epic Games
-  - United Nations
-  - Waldorf School of the Peninsula
-products_models:
-  - iPhone 4
-  - Snapchat
-  - YouTube
-  - Fortnite
-media_books:
-  - 《失控的焦虑世代》
-  - 《成瘾时代》
-  - Highlight magazine
-  - The Wall Street Journal
 status: evergreen
+summary: 美国心理学家Jonathan Haidt在其新书《失控的焦虑世代》中指出，自2010年起，全球青少年抑郁、焦虑和自杀率显著上升。文章深入探讨了智能手机和社交媒体普及对Z世代心智造成的四大危害：社交剥夺、睡眠剥夺、注意力碎片化和数字成瘾。这种由“脑边缘资本主义”驱动的模式，通过操纵大脑多巴胺回路，使平台利润凌驾于青少年健康之上。文中还分析了这些影响对不同性别的差异，并提出了政府立法、学校改革和家长干预等多层面的应对策略，以期帮助年轻一代健康发展。
+tags:
+- attention-economy
+- development
+- gen-z-mental-health
+- investment
+- social
+title: 脑边缘资本主义与失控的焦虑世代：社交媒体如何损害Z世代心智
 ---
+
 ### Z世代的心理健康危机：一个全球性现象
 
 近期，心理学家们发现，自2010年以来，全球青少年的抑郁症、焦虑症和自杀率持续上升。究竟发生了什么？美国心理学家Jonathan Haidt在他的新书《**失控的焦虑世代**》（The Anxious Generation）中提出了一个令人震惊的解释。他认为，1995年以后出生的**Z世代**（Generation Z: 指1995年及以后出生的人群），从小生活在一个由手机主导的世界中。这是人类历史上第一次，整整一代儿童在童年时期脱离现实，将时间花费在屏幕上。这种现象正在无形中损害年轻人的大脑，并导致全球年轻人出现心理健康问题。

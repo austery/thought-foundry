@@ -1,58 +1,58 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Starlink
+- Alubar Metal
+- Costco
+- Molson
+- World Trade Organization
+- LA Galaxy
+- Vancouver Whitecaps
+- Happy Goat
 date: '2025-03-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'I am Canadian: The Rant'
+- We Are Canadian
+people:
+- Donald Trump
+- Justin Trudeau
+- Howard Lutnick
+- Chrystia Freeland
+- Pierre Poilievre
+- Doug Ford
+- François Legault
+- Danielle Smith
+- David Eby
+- Mélanie Joly
+- Elon Musk
+- Jeff Douglas
+products_models:
+- Tesla
+- iPhone
+- YouTube
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=JeqF29f0UMc
 speaker: 莊也雜談
-tags:
-  - us-canada-trade-war
-  - tariff-retaliation
-  - economic-resilience
-  - canadian-nationalism
-  - personal-finance-strategy
-title: 美加关税战升级：加拿大如何反击与民众自保指南
-summary: 本期节目深入探讨了由特朗普新关税引发的美加关税战。节目详细介绍了加拿大联邦和各省的强硬反击措施，包括对等关税、抵制美国商品和限制美企参与省级采购。同时，主持人还为普通加拿大人提供了实用的应对策略，旨在帮助民众在经济不确定性中减少损失，管理个人财务，并呼吁团结一致，共同应对外部经济压力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Justin Trudeau
-  - Howard Lutnick
-  - Chrystia Freeland
-  - Pierre Poilievre
-  - Doug Ford
-  - François Legault
-  - Danielle Smith
-  - David Eby
-  - Mélanie Joly
-  - Elon Musk
-  - Jeff Douglas
-companies_orgs:
-  - Starlink
-  - Alubar Metal
-  - Costco
-  - Molson
-  - World Trade Organization
-  - LA Galaxy
-  - Vancouver Whitecaps
-  - Happy Goat
-products_models:
-  - Tesla
-  - iPhone
-  - YouTube
-media_books:
-  - 'I am Canadian: The Rant'
-  - We Are Canadian
 status: evergreen
+summary: 本期节目深入探讨了由特朗普新关税引发的美加关税战。节目详细介绍了加拿大联邦和各省的强硬反击措施，包括对等关税、抵制美国商品和限制美企参与省级采购。同时，主持人还为普通加拿大人提供了实用的应对策略，旨在帮助民众在经济不确定性中减少损失，管理个人财务，并呼吁团结一致，共同应对外部经济压力。
+tags:
+- canadian-nationalism
+- economic-resilience
+- personal-finance-strategy
+- tariff-retaliation
+- us-canada-trade-war
+title: 美加关税战升级：加拿大如何反击与民众自保指南
 ---
+
 ### 美加关税战：一场关乎尊严与生存的较量
 
 大家好，本期节目将探讨一个非常沉重的话题，即加拿大人民最不愿看到的美加关税大战，现已正式打响。这场冲突的持续时间尚不确定，但已预示着我们的生活可能陷入混乱。整个国家仿佛被卷入了一场突如其来的经济风暴，股市暴跌，加元摇摇欲坠。这不仅仅是一场贸易战，更是一场关乎国家尊严与生存的较量。面对此次关税暴击，加拿大从联邦到地方，从政客到平民，都掀起了反击浪潮。

@@ -1,52 +1,50 @@
 ---
-author: 柴静 Chai Jing
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 法国外籍军团
+- 乌克兰国际军团
+- 北约
 date: '2025-03-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Macaron
+- Gao Shan
+- Tianxia Weigong
+- Peng Chenliang
+- Zeng Shengguang
+- Pan Wen-yang
+- Wu Zhongda
+- Sophie
+- Putin
+- Zelensky
+- Pelosi
+- Ada
+- Liu Jie
+- Liu Hongwei
+products_models:
+- AK-74U
+- T-62
+project:
+- geopolitics-watch
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=AhhQ3e8Re1k
 speaker: 柴静 Chai Jing
-tags:
-  - russia-ukraine-war
-  - volunteer-soldiers
-  - war-ethics
-  - political-polarization
-  - comradeship
-title: 为乌克兰而战的中国士兵：信念、牺牲与战友情
-summary: 本期节目深入探讨了在俄乌战争中为乌克兰作战的中国公民的经历与动机。通过高山、天下未功和彭晨亮等人的故事，节目揭示了他们参战背后的理想主义、人道主义以及对自由民主的追求，并对比了他们与为俄罗斯作战的中国士兵马卡龙的不同遭遇。文章还详细描述了战场环境的残酷、语言障碍、装备不足等挑战，以及战友间生死与共的深厚情谊。最终，节目反思了战争的意义、牺牲的价值以及个人选择在历史洪流中的分量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - china-analysis
-  - historical-insights
-people:
-  - Macaron
-  - Gao Shan
-  - Tianxia Weigong
-  - Peng Chenliang
-  - Zeng Shengguang
-  - Pan Wen-yang
-  - Wu Zhongda
-  - Sophie
-  - Putin
-  - Zelensky
-  - Pelosi
-  - Ada
-  - Liu Jie
-  - Liu Hongwei
-companies_orgs:
-  - 法国外籍军团
-  - 乌克兰国际军团
-  - 北约
-products_models:
-  - AK-74U
-  - T-62
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了在俄乌战争中为乌克兰作战的中国公民的经历与动机。通过高山、天下未功和彭晨亮等人的故事，节目揭示了他们参战背后的理想主义、人道主义以及对自由民主的追求，并对比了他们与为俄罗斯作战的中国士兵马卡龙的不同遭遇。文章还详细描述了战场环境的残酷、语言障碍、装备不足等挑战，以及战友间生死与共的深厚情谊。最终，节目反思了战争的意义、牺牲的价值以及个人选择在历史洪流中的分量。
+tags:
+- comradeship
+- russia-ukraine-war
+- volunteer-soldier
+- war
+title: 为乌克兰而战的中国士兵：信念、牺牲与战友情
 ---
+
 ### 俄乌战场上的中国面孔：马卡龙的困境与乌军志愿者的崛起
 
 上期节目中，我们采访了一位在俄乌战争中为俄罗斯军队作战的中国公民马卡龙。他的近况是，在一次运送伤员的途中遭遇轰炸，受了轻伤，目前正在后方医院治疗，他的合同将于五月到期。节目播出后，马卡龙告诉我们，国内有警察联系了他，表达了试图提供帮助的意愿。马卡龙在训练营时期就曾希望退出，但未能如愿，因此之后的参战违背了他的个人意愿。中国政府不鼓励公民前往双方战场参战，但许多人希望政府能出于人道主义考虑，在马卡龙退役和回国期间提供必要的帮助。我们将继续关注他的命运。

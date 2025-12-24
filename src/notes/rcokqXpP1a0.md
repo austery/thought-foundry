@@ -1,53 +1,53 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- Polymarket
+- FBI
+- Amazon
+- Microsoft
+- Alibaba
+- Nvidia
+- Broadcom
+- Netflix
+- Disney
+- Warner
 date: '2025-05-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- Donald Trump
+- Andy Jassy
+- BOSS
+products_models:
+- Chrome
+- Comments
+- Princeton
+- Qt
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=rcokqXpP1a0
 speaker: Shijun Tang
-tags:
-  - profit-margin-expansion
-  - cloud-computing-growth
-  - acquisition-driven-models
-  - cash-flow-reversal
-  - market-mispricing
-title: 谷歌、博通与奈飞：三巨头财报背后的资本逻辑与市场误判
-summary: 本文深入分析谷歌、博通和奈飞三家科技巨头的最新财报表现，揭示市场对它们的长期误判：谷歌虽受反垄断与AR挫败拖累，但云业务强劲、盈利稳健；博通靠芯片+软件双轮驱动实现高利润率；奈飞则完成从亏损到现金流暴增的惊人逆转。三者均非传统意义上的‘风口’公司，却以扎实的商业模型赢得资本认可。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - Donald Trump
-  - Andy Jassy
-  - BOSS
-companies_orgs:
-  - Google
-  - Polymarket
-  - FBI
-  - Amazon
-  - Microsoft
-  - Alibaba
-  - Nvidia
-  - Broadcom
-  - Netflix
-  - Disney
-  - Warner
-products_models:
-  - Chrome
-  - Comments
-  - Princeton
-  - Qt
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入分析谷歌、博通和奈飞三家科技巨头的最新财报表现，揭示市场对它们的长期误判：谷歌虽受反垄断与AR挫败拖累，但云业务强劲、盈利稳健；博通靠芯片+软件双轮驱动实现高利润率；奈飞则完成从亏损到现金流暴增的惊人逆转。三者均非传统意义上的‘风口’公司，却以扎实的商业模型赢得资本认可。
+tags:
+- cloud-computing-growth
+- financial
+- flow
+- market
+- model
+title: 谷歌、博通与奈飞：三巨头财报背后的资本逻辑与市场误判
 ---
+
 ### 谷歌：被低估的盈利机器
 
 谷歌终于在近期财报后扬眉吐气了一回。我持有谷歌股票已1121天，从未卖出。过去一段时间，它被市场无情打压：先是遭遇反垄断调查，被指控违反公平竞争；又在本应领先的AR领域屡屡受挫。其旗下的大语言模型（Large Language Model: 一种能理解并生成自然语言的人工智能系统）也被其他竞争对手“摁在地板上摩擦”，市场份额严重落后。

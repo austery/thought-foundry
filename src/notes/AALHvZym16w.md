@@ -4,19 +4,17 @@ summary: 本文深入剖析了中国社会金字塔结构，探讨了城市中�
 category: culture
 area: society-systems
 project:
-  - china-analysis
-  - systems-thinking
-  - cultural-critique
+- china-analysis
+- systems-thinking
+- cultural-critique
 tags:
-  - social-mobility
-  - educational-anxiety
-  - middle-class-trap
-  - state-control
-  - involution
-people: []
+- anxiety
+- class
+- control
+- involution
+- social
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-08-02
 author: Lei
 speaker: 徒步的騎手
@@ -29,6 +27,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=AALHvZym16w&t
 ---
+
 ## 中国社会的金字塔结构
 
 各位好，上期讲了美国的待机变化，今天讲讲中国。中国是个等级社会，国民分三六九等，财富是按高低贵贱、远近亲疏来分配。金字塔顶端的富裕阶层，不到人口的0.1%；金字塔的巨大底盘，占人口的95%以上；剩下的不到5%，是这些年人们经常说的城市中产。

@@ -1,32 +1,29 @@
 ---
-title: 安特卫普：被遗忘的欧洲资本中心兴衰史
-summary: 安特卫普曾是16世纪欧洲的贸易与金融中心，以其开放的政策和地理优势吸引全球商人。本文将探讨它如何通过金融创新崛起，经历文化艺术的繁荣，又如何因宗教冲突和政治压迫而突然衰落，最终被历史遗忘。
 area: personal-growth
 category: culture
-project:
-  - historical-insights
-  - investment-strategy
-  - us-analysis
-tags:
-  - antwerp
-  - european-history
-  - financial-history
-  - religious-wars
-  - trade-routes
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-05-24'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- historical-insights
+- investment-strategy
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=NkPRrFD6E4I
+speaker: 一口新飯
 status: evergreen
+summary: 安特卫普曾是16世纪欧洲的贸易与金融中心，以其开放的政策和地理优势吸引全球商人。本文将探讨它如何通过金融创新崛起，经历文化艺术的繁荣，又如何因宗教冲突和政治压迫而突然衰落，最终被历史遗忘。
+tags:
+- financial
+- geopolitics
+- history
+- trade
+- war
+title: 安特卫普：被遗忘的欧洲资本中心兴衰史
 ---
 
 ### 序言：一座被遗忘的金融中心

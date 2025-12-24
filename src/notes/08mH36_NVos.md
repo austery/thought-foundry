@@ -1,36 +1,34 @@
 ---
-author: AI Engineer
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- BlackRock
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Infant Vasanth
+- Vaibhav Page
+products_models: []
+project:
+- ai-impact-analysis
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=08mH36_NVos
 speaker: AI Engineer
-tags:
-  - ai-applications
-  - knowledge-management
-  - prompt-engineering
-  - llm-strategies
-  - app-deployment
-  - financial-technology
-title: 贝莱德如何大规模构建定制化AI知识应用
-summary: 贝莱德的Infant Vasanth和Vaibhav Page分享了公司如何为投资运营团队构建和扩展定制化AI知识应用。他们详细阐述了文档提取、复杂工作流、问答系统和智能体系统这四类应用，并以新证券发行设置为例，说明了现有流程的复杂性。演讲重点讨论了大规模构建AI应用面临的三大挑战：提示工程、LLM策略选择和部署。为应对这些挑战，贝莱德开发了一个包含“沙盒”和“应用工厂”的框架，将应用开发时间从数月缩短到几天，并强调了在高度监管的金融环境中“人机协作”的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - knowledge-pipeline
-people:
-  - Infant Vasanth
-  - Vaibhav Page
-companies_orgs:
-  - BlackRock
-products_models: []
-media_books: []
 status: evergreen
+summary: 贝莱德的Infant Vasanth和Vaibhav Page分享了公司如何为投资运营团队构建和扩展定制化AI知识应用。他们详细阐述了文档提取、复杂工作流、问答系统和智能体系统这四类应用，并以新证券发行设置为例，说明了现有流程的复杂性。演讲重点讨论了大规模构建AI应用面临的三大挑战：提示工程、LLM策略选择和部署。为应对这些挑战，贝莱德开发了一个包含“沙盒”和“应用工厂”的框架，将应用开发时间从数月缩短到几天，并强调了在高度监管的金融环境中“人机协作”的重要性。
+tags:
+- ai-application
+- code
+- financial
+- knowledge-management
+- strategy
+title: 贝莱德如何大规模构建定制化AI知识应用
 ---
+
 ### 贝莱德的AI应用规模化之路
 
 大家好，感谢邀请我们。

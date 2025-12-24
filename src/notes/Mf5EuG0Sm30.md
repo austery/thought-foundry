@@ -1,49 +1,48 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- LEGO Group
+- Norges Bank Investment Management
+- Netcom
+- Danfoss
+- Ericsson
 date: '2025-09-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Niels B. Christiansen
+- Michael Schumacher
+products_models:
+- Bluetooth
+- Titanic
+- Star Wars Millennium Falcon
+- Colosseum
+- Eiffel Tower
+- Hidden Sight
+- Formula 1
+- Pokémon
+- Super Mario
+project:
+- entrepreneurship
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Mf5EuG0Sm30
 speaker: Norges Bank Investment Management
-tags:
-  - creativity-fostering
-  - brand-building
-  - sustainable-development
-  - organizational-efficiency
-  - market-expansion
-title: 乐高CEO访谈：创意、品牌建设与可持续发展
-summary: 本期播客采访了乐高（LEGO）首席执行官尼尔斯·B·克里斯蒂安森，深入探讨了乐高独特的商业模式、如何激发儿童的创造力与想象力。他分享了乐高在数字化时代保持品牌活力的策略、在亚洲市场（特别是中国和印度）的品牌建设经验，以及公司在可持续发展方面的努力。此外，克里斯蒂安森还阐述了乐高作为家族企业的优势、其领导风格以及对年轻人的职业建议，揭示了乐高如何在保持创意的同时实现高速增长。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - china-analysis
-  - systems-thinking
-people:
-  - Niels B. Christiansen
-  - Michael Schumacher
-companies_orgs:
-  - LEGO Group
-  - Norges Bank Investment Management
-  - Netcom
-  - Danfoss
-  - Ericsson
-products_models:
-  - Bluetooth
-  - Titanic
-  - Star Wars Millennium Falcon
-  - Colosseum
-  - Eiffel Tower
-  - Hidden Sight
-  - Formula 1
-  - Pokémon
-  - Super Mario
-media_books: []
 status: evergreen
+summary: 本期播客采访了乐高（LEGO）首席执行官尼尔斯·B·克里斯蒂安森，深入探讨了乐高独特的商业模式、如何激发儿童的创造力与想象力。他分享了乐高在数字化时代保持品牌活力的策略、在亚洲市场（特别是中国和印度）的品牌建设经验，以及公司在可持续发展方面的努力。此外，克里斯蒂安森还阐述了乐高作为家族企业的优势、其领导风格以及对年轻人的职业建议，揭示了乐高如何在保持创意的同时实现高速增长。
+tags:
+- business
+- creativity-fostering
+- development
+- efficiency
+- market
+title: 乐高CEO访谈：创意、品牌建设与可持续发展
 ---
+
 ### 乐高：激发未来建造者的品牌使命
 
 大家好。今天，我们将探索世界上最受欢迎的品牌之一——**乐高**（LEGO: 一家丹麦玩具公司，以其塑料拼搭积木闻名）的基石。

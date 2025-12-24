@@ -1,31 +1,29 @@
 ---
-title: MCP 协议深度解析：超越工具调用的丰富交互
-summary: 本文深入探讨了模型上下文协议（MCP）的各项功能，包括提示、资源、工具、采样和根等核心原语，旨在展示如何构建超越传统工具调用的更丰富、更智能的AI应用。同时，文章还展望了MCP在网络集成、授权、扩展性以及未来代理、多模态等方面的发展。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-applications
-- developer-tools
-- llm-integration
-- model-context-protocol
-- web-integration
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-07-31'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=HNzH5Us1Rvg
+speaker: Anthropic
 status: evergreen
+summary: 本文深入探讨了模型上下文协议（MCP）的各项功能，包括提示、资源、工具、采样和根等核心原语，旨在展示如何构建超越传统工具调用的更丰富、更智能的AI应用。同时，文章还展望了MCP在网络集成、授权、扩展性以及未来代理、多模态等方面的发展。
+tags:
+- ai-application
+- developer-tool
+- integration
+- llm
+- model
+title: MCP 协议深度解析：超越工具调用的丰富交互
 ---
+
 ### 引言：MCP 的核心能力与愿景
 
 Well, hello. My name is David. I'm a member of technical staff at Anthropic and one of the co-creators of MCP. And today I'm going to tell you a little bit more about the protocol and the things you can do just to give you an understanding of what there's more to the protocol than what most people use it for at the moment, which would be tools.

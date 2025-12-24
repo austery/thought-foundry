@@ -1,37 +1,35 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: general
+companies_orgs:
+- Norges Bank Investment Management
+- E24
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Halvor Njerve
+- Nikolaj
+- Marte
+products_models: []
+project:
+- knowledge-pipeline
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=LZIeWGeWTBI
 speaker: Norges Bank Investment Management
-tags:
-  - social-media-strategy
-  - public-communication
-  - institutional-strategy
-  - leadership-communication
-  - audience-engagement
-title: 挪威主权财富基金的社交媒体战略：建立信任与影响力
-summary: 本文探讨了挪威主权财富基金（Oljefondet）如何战略性地运用社交媒体，以建立公众信任、提升内部沟通效率并扩大影响力。通过分享个人经历、领导者形象塑造、以受众为中心的内容创作以及数据驱动的策略调整，基金旨在拉近与公众的距离，增强透明度，并最终实现其作为社会参与者的目标。文章强调了内容的多样性、真诚沟通的重要性以及利用社交媒体作为数据收集和洞察的工具。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - knowledge-pipeline
-  - systems-thinking
-people:
-  - Halvor Njerve
-  - Nikolaj
-  - Marte
-companies_orgs:
-  - Norges Bank Investment Management
-  - E24
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了挪威主权财富基金（Oljefondet）如何战略性地运用社交媒体，以建立公众信任、提升内部沟通效率并扩大影响力。通过分享个人经历、领导者形象塑造、以受众为中心的内容创作以及数据驱动的策略调整，基金旨在拉近与公众的距离，增强透明度，并最终实现其作为社会参与者的目标。文章强调了内容的多样性、真诚沟通的重要性以及利用社交媒体作为数据收集和洞察的工具。
+tags:
+- leadership-communication
+- public
+- society
+- strategy
+title: 挪威主权财富基金的社交媒体战略：建立信任与影响力
 ---
+
 ### 社交媒体的影响：接收者与发送者
 
 社交媒体对我们既有影响，作为接收者，也有影响，作为发送者。

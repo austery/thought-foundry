@@ -1,64 +1,64 @@
 ---
-author: 徒步的騎手
-date: 2025-07-04
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=PU1poPjWfG4'
-speaker: 徒步的騎手
-tags:
-  - car-ownership
-  - bicycle-touring
-  - us-lifestyle
-  - personal-reflections
-  - vehicle-performance
-title: 我的汽车与自行车之旅：26年美国生活中的驾驶与骑行感悟
-summary: 本文记录了作者在美国26年间与11辆汽车和5辆自行车的深厚情缘。从初到美国的青涩岁月到如今的成熟稳重，他分享了驾驶不同品牌和型号车辆的独特感受，以及骑行穿越美国、欧洲和亚洲的经历。文章不仅展现了车辆如何融入个人生活方式，也通过对汽车的情感联结，折射出时光流逝与人生境遇的变迁。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
 area: personal-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - 黄老弟
-  - 儿子
+category: lifestyle
 companies_orgs:
-  - Acura
-  - Toyota
-  - Honda
-  - Lincoln
-  - Lexus
-  - BMW
-  - Mercedes-Benz
-  - Ford
-  - Tesla
-  - Cadillac
-  - Specialized
-  - Canyon
-  - State Bicycle Co.
-  - Raybould
-  - DT Swiss
-  - Notre Dame
-products_models:
-  - Acura Legend
-  - Toyota Camry
-  - Buick Park Avenue
-  - Lincoln Town Car
-  - Lexus LS460
-  - Mercedes-Benz E63 AMG
-  - Ford F-150
-  - Ford Mustang
-  - Tesla Model 3
-  - BMW X5
-  - Volkswagen GTI
-  - Specialized Roubaix
-  - Canyon Endurance
-  - Raybould CGR725
-  - Nokia
+- Acura
+- Toyota
+- Honda
+- Lincoln
+- Lexus
+- BMW
+- Mercedes-Benz
+- Ford
+- Tesla
+- Cadillac
+- Specialized
+- Canyon
+- State Bicycle Co.
+- Raybould
+- DT Swiss
+- Notre Dame
+date: 2025-07-04
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- 黄老弟
+- 儿子
+products_models:
+- Acura Legend
+- Toyota Camry
+- Buick Park Avenue
+- Lincoln Town Car
+- Lexus LS460
+- Mercedes-Benz E63 AMG
+- Ford F-150
+- Ford Mustang
+- Tesla Model 3
+- BMW X5
+- Volkswagen GTI
+- Specialized Roubaix
+- Canyon Endurance
+- Raybould CGR725
+- Nokia
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=PU1poPjWfG4
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文记录了作者在美国26年间与11辆汽车和5辆自行车的深厚情缘。从初到美国的青涩岁月到如今的成熟稳重，他分享了驾驶不同品牌和型号车辆的独特感受，以及骑行穿越美国、欧洲和亚洲的经历。文章不仅展现了车辆如何融入个人生活方式，也通过对汽车的情感联结，折射出时光流逝与人生境遇的变迁。
+tags:
+- geopolitical
+- performance
+- personal
+- technology
+title: 我的汽车与自行车之旅：26年美国生活中的驾驶与骑行感悟
+companies:
+- bicycle-touring
 ---
 
 ### 引言：徒步骑行与汽车情缘

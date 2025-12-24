@@ -1,39 +1,38 @@
 ---
-author: 一口新飯
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-07-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《被讨厌的勇气》
+- 《反脆弱》
+- 《思考快与慢》
+- 《黑镜》
+people:
+- 王阳明
+- 康德
+- Daniel Kahneman
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=EqO7Cs61Mi8
 speaker: 一口新飯
-tags:
-  - adlerian-psychology
-  - self-acceptance
-  - personal-responsibility
-  - authentic-self
-  - online-identity
-title: 从《被讨厌的勇气》中学到的三堂人生课：撕掉人设，拥抱自由
-summary: 本文分享了作者如何通过阅读《被讨厌的勇气》，从一场网络争执中反思网红人设的束缚，并从中汲取三堂人生课程：不寻求认可、课题分离、以及理解主观现实。通过这些阿德勒心理学智慧与“知行合一”的实践，作者最终找到了摆脱焦虑、活出真实自我的勇气与自由。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 王阳明
-  - 康德
-  - Daniel Kahneman
-companies_orgs: []
-products_models: []
-media_books:
-  - 《被讨厌的勇气》
-  - 《反脆弱》
-  - 《思考快与慢》
-  - 《黑镜》
 status: evergreen
+summary: 本文分享了作者如何通过阅读《被讨厌的勇气》，从一场网络争执中反思网红人设的束缚，并从中汲取三堂人生课程：不寻求认可、课题分离、以及理解主观现实。通过这些阿德勒心理学智慧与“知行合一”的实践，作者最终找到了摆脱焦虑、活出真实自我的勇气与自由。
+tags:
+- adlerian-psychology
+- identity
+- personal-responsibility
+- self
+title: 从《被讨厌的勇气》中学到的三堂人生课：撕掉人设，拥抱自由
 ---
+
 ### 撕掉“网红人设”：一场网络争执带来的自我反思
 
 大家好，我是Ray。今天这期视频的分享需要一些勇气。我想分享一下《**被讨厌的勇气**》（The Courage to Be Disliked: 一本基于阿德勒心理学，探讨如何摆脱外界束缚、获得幸福人生的书籍）这本书，以及我从中学到的人生课程，是如何帮助我撕掉“网红人设”，让我能够做自己的。如果你也曾因为外界的评价、期待或所谓的人设而感到内耗，失去做自己的勇气，那么我相信这本书和我的一些经历可能会给你带来启发。

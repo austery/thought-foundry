@@ -1,63 +1,62 @@
 ---
-author: 柴静 Chai Jing
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 新浪微博
+- FBI
+- BBC
+- 哥伦比亚大学
+- 加州大学圣塔巴巴拉分校
+- 湖北大学
+- 海南大学
+- 哈尔滨师范大学
+- 法国自由电台
 date: '2024-01-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《武汉日记》
+- 《软码》
+- 《奔跑的火光》
+- 《Translation Disinformation in Wuhan Diary》
+- 《海瑞罢官》
+- 《在没有英雄的年代里》
+people:
+- 方方
+- 白睿文
+- 常凯
+- 李文亮
+- 胡锡进
+- 梁艳萍
+- 王晓妮
+- 于林起
+- 柴静
+- Donald Trump
+- 李安
+- 毛泽东
+- 老舍
+- 北岛
+- 遇罗克
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=7VQ8si5V1FI
 speaker: 柴静 Chai Jing
-tags:
-  - wuhan-diary
-  - censorship
-  - freedom-of-speech
-  - political-polarization
-  - cultural-revolution-parallels
-title: 《武汉日记》译者白睿文访谈：从社会良知到批斗对象——方方事件与言论自由的代价
-summary: 四年前，武汉作家方方以《武汉日记》记录封城经历，引发巨大反响。然而，其英文版即将海外出版的消息，却让方方一夜之间从“社会良知”变为“卖国贼”，译者白睿文教授也因此遭受死亡威胁。本访谈中，白睿文教授回顾了翻译《武汉日记》的初衷、所承受的巨大压力，以及方方事件如何演变为一场政治运动。他深入探讨了信息审查、网络暴力、中美关系紧张等因素对个人言论自由的冲击，并将其与中国历史上的政治运动进行对比，强调了知识分子坚守独立思考和人道关怀的意义。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 方方
-  - 白睿文
-  - 常凯
-  - 李文亮
-  - 胡锡进
-  - 梁艳萍
-  - 王晓妮
-  - 于林起
-  - 柴静
-  - Donald Trump
-  - 李安
-  - 毛泽东
-  - 老舍
-  - 北岛
-  - 遇罗克
-companies_orgs:
-  - 新浪微博
-  - FBI
-  - BBC
-  - 哥伦比亚大学
-  - 加州大学圣塔巴巴拉分校
-  - 湖北大学
-  - 海南大学
-  - 哈尔滨师范大学
-  - 法国自由电台
-products_models: []
-media_books:
-  - 《武汉日记》
-  - 《软码》
-  - 《奔跑的火光》
-  - 《Translation Disinformation in Wuhan Diary》
-  - 《海瑞罢官》
-  - 《在没有英雄的年代里》
 status: evergreen
+summary: 四年前，武汉作家方方以《武汉日记》记录封城经历，引发巨大反响。然而，其英文版即将海外出版的消息，却让方方一夜之间从“社会良知”变为“卖国贼”，译者白睿文教授也因此遭受死亡威胁。本访谈中，白睿文教授回顾了翻译《武汉日记》的初衷、所承受的巨大压力，以及方方事件如何演变为一场政治运动。他深入探讨了信息审查、网络暴力、中美关系紧张等因素对个人言论自由的冲击，并将其与中国历史上的政治运动进行对比，强调了知识分子坚守独立思考和人道关怀的意义。
+tags:
+- censorship
+- cultural-revolution-parallel
+- freedom-of-speech
+- technology
+title: 《武汉日记》译者白睿文访谈：从社会良知到批斗对象——方方事件与言论自由的代价
 ---
+
 ### 《武汉日记》：从社会良知到巨大风波
 
 四年前的1月23日，中国政府宣布武汉**封城**（Lockdown: 为控制疫情而对城市实行交通管制和人员隔离）。两天之后，武汉作家**方方**（中国作家，以《武汉日记》记录武汉封城期间的经历）开始连载自己的日记，一直到三月底，她写了60篇，仅在**新浪微博**（Sina Weibo: 中国流行的微博客平台）就有超过三亿的阅读量。方方一度被称为“社会良知”和“武汉的声音”。然而，4月7日武汉封城结束时，这本日记的英文版即将在海外推出的消息，引起了巨大的风波。有人认为，其翻译者**白睿文**（Michael Berry: 哥伦比亚大学博士，加州大学圣塔巴巴拉分校教授，主要研究当代中国文学与电影）是美国情报部门的特工，出版这本书是一场巨大的**抹黑**（Smear campaign: 通过散布负面信息来诋毁他人名誉的活动）中国的阴谋。此后，方方一夜之间被称为**卖国贼**（Traitor: 贬义词，指背叛国家的人），她和白睿文都受到了死亡威胁。四年后，《武汉日记》已有超过20种语言的译本，但仍没有中文版。方方在中国的出版和言论都受到了限制。

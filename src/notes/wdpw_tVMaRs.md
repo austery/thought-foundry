@@ -1,45 +1,44 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Solomon Brothers
+- LTCM
+- Federal Reserve
+- SVB
+- Signature Bank
+- First Republic Bank
 date: '2024-03-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《你只需要发一次财》
+people:
+- Warren Buffett
+- John Meriwether
+- Myron Scholes
+- Robert C. Merton
+products_models:
+- T-bills
+- 巴塞尔协议
+project:
+- personal-growth-lab
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=wdpw_tVMaRs
 speaker: Shijun Tang
-tags:
-  - wealth-philosophy
-  - delayed-gratification
-  - dopamine-cycle
-  - investment-strategy
-  - financial-literacy
-title: 你只需要发一次财：巴菲特的财富观与快乐的秘密
-summary: 本文深入探讨了沃伦·巴菲特的财富哲学，强调真正的财富自由并非拥有巨额财富，而是做自己热爱的事情。通过分析多巴胺的运作机制，揭示了快乐的本质在于稳定提升多巴胺基准线而非追求短暂快感。文章还以LTCM的失败案例警示过度依赖模型和风险管理的缺失，并区分了‘搞钱’与‘投资’，倡导让闲钱为自己打工，并提出了现金、房产和股票作为普通人的投资方向。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: personal-systems
-project:
-  - personal-growth-lab
-  - investment-strategy
-people:
-  - Warren Buffett
-  - John Meriwether
-  - Myron Scholes
-  - Robert C. Merton
-companies_orgs:
-  - Solomon Brothers
-  - LTCM
-  - Federal Reserve
-  - SVB
-  - Signature Bank
-  - First Republic Bank
-products_models:
-  - T-bills
-  - 巴塞尔协议
-media_books:
-  - 《你只需要发一次财》
 status: evergreen
+summary: 本文深入探讨了沃伦·巴菲特的财富哲学，强调真正的财富自由并非拥有巨额财富，而是做自己热爱的事情。通过分析多巴胺的运作机制，揭示了快乐的本质在于稳定提升多巴胺基准线而非追求短暂快感。文章还以LTCM的失败案例警示过度依赖模型和风险管理的缺失，并区分了‘搞钱’与‘投资’，倡导让闲钱为自己打工，并提出了现金、房产和股票作为普通人的投资方向。
+tags:
+- cycle
+- delayed-gratification
+- financial-literacy
+- philosophy
+title: 你只需要发一次财：巴菲特的财富观与快乐的秘密
 ---
+
 ### 巴菲特的财富悖论：枪口下的游戏与“一次发财”的启示
 
 如果有人拿着枪顶着你的太阳穴和你打赌，假设你有100万发弹仓，其中只有一发是真子弹，每扣动一次扳机，你可以获得1个亿，你会选择玩这个游戏吗？1998年，沃伦·巴菲特在佛罗里达大学演讲时提出了这个假设，当时在场的学生议论纷纷，认为百万分之一的概率是真子弹，每扣动一次扳机赚一个亿，这简直是天上掉馅饼。然而，巴菲特接下来说的话出乎所有人的意料：不管是给我一个亿，扣动一次扳机，还是给我十个亿，我都不会玩。巴菲特说道，理由很简单：即便我赢了，我压根就不需要一个亿；如果我输了，well，你我都知道如果我输了会发生什么事情。

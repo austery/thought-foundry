@@ -1,48 +1,47 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Wire Cutter
+- Martha Stewart
+- New York Times Podcasts
+- Wetstone
+- OXO
+- Emil Henry
+- Cuisinart
+- Crate & Barrel
+- King Arthur
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wire Cutter Show
+- Pie and Pastry Bible
+people:
+- Christine Sierra Classette
+- Kyra Blackwell
+- Rosie Garren
+- Leslie Stockton
+- Rose Levy Baron Bomb
+products_models:
+- Pyrex
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=WAZBzm-JOOA
 speaker: New York Times Podcasts
-tags:
-  - pie-baking
-  - baking-tips
-  - kitchen-gear
-  - pie-crust
-  - holiday-cooking
-title: 制作完美派：烘焙大师的秘诀与工具
-summary: 本期节目邀请资深厨房用品作家、前《玛莎·斯图尔特生活》美食编辑莱斯利·斯托克顿，分享制作美味派的独家秘诀。她详细介绍了烘焙派所需的关键工具，如锥形擀面杖和派盘，并深入探讨了派皮制作技巧，以及如何避免派底湿软、派皮过硬等常见问题。莱斯利还推荐了几款特色派品，并强调购买现成派皮也完全可以接受，旨在帮助听众在感恩节轻松制作出令人惊艳的派。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Christine Sierra Classette
-  - Kyra Blackwell
-  - Rosie Garren
-  - Leslie Stockton
-  - Rose Levy Baron Bomb
-companies_orgs:
-  - Wire Cutter
-  - Martha Stewart
-  - New York Times Podcasts
-  - Wetstone
-  - OXO
-  - Emil Henry
-  - Cuisinart
-  - Crate & Barrel
-  - King Arthur
-products_models:
-  - Pyrex
-media_books:
-  - The Wire Cutter Show
-  - Pie and Pastry Bible
 status: evergreen
+summary: 本期节目邀请资深厨房用品作家、前《玛莎·斯图尔特生活》美食编辑莱斯利·斯托克顿，分享制作美味派的独家秘诀。她详细介绍了烘焙派所需的关键工具，如锥形擀面杖和派盘，并深入探讨了派皮制作技巧，以及如何避免派底湿软、派皮过硬等常见问题。莱斯利还推荐了几款特色派品，并强调购买现成派皮也完全可以接受，旨在帮助听众在感恩节轻松制作出令人惊艳的派。
+tags:
+- baking-tip
+- code
+- life
+- pie-baking
+title: 制作完美派：烘焙大师的秘诀与工具
 ---
+
 ### 派底湿软的困扰与烘焙大师的登场
 
 你们有没有吃过那种派，尤其是中间部分的派底，软塌塌的，还没烤熟？那就是**湿软派底**（soggy bottom: 派底因馅料水分过多或烘烤不足而变得潮湿、不熟）。

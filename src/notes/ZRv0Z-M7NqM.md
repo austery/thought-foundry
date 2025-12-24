@@ -1,31 +1,27 @@
 ---
-title: 用ChatGPT轻松养成日记习惯：语音输入、智能处理与自动化实践
-summary: 本文分享了如何利用ChatGPT的语音输入和AI能力，构建一套自动化的日记系统，解决传统日记和语音笔记的挑战。通过定制Prompt和iOS快捷方式，实现日记的智能整理、深度洞察及任务转化，并将其思路扩展到日常笔记和语言学习中。
 area: tech-insights
 category: technology
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-tags:
-  - ai-journaling
-  - chatgpt-prompts
-  - ios-shortcuts
-  - language-learning
-  - productivity-hacks
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-06-26'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=ZRv0Z-M7NqM
+speaker: 一口新飯
 status: evergreen
+summary: 本文分享了如何利用ChatGPT的语音输入和AI能力，构建一套自动化的日记系统，解决传统日记和语音笔记的挑战。通过定制Prompt和iOS快捷方式，实现日记的智能整理、深度洞察及任务转化，并将其思路扩展到日常笔记和语言学习中。
+tags:
+- investment
+- language-learning
+- llm
+- productivity
+title: 用ChatGPT轻松养成日记习惯：语音输入、智能处理与自动化实践
 ---
 
 ### 日记的力量与传统挑战

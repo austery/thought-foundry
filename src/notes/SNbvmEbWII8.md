@@ -1,36 +1,35 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Goldman Sachs
+- Norges Bank Investment Management
+- Ford
 date: '2025-04-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Solomon
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=SNbvmEbWII8
 speaker: Norges Bank Investment Management
-tags:
-  - corporate-culture
-  - organizational-durability
-  - partnership-model
-  - risk-management
-  - client-service
-title: 高盛的企业文化：百年基业的韧性与传承
-summary: 高盛首席执行官大卫·所罗门分享了公司长达156年历史中，企业文化如何成为其核心竞争力。他强调了高盛独特的合伙人制度、严谨的风险管理文化以及以客户为中心的“一个高盛”计划，这些要素共同确保了公司在不断变化的市场中保持韧性、卓越和持续增长。所罗门指出，文化并非理所当然，需要持续投入和领导力驱动，才能代代相传。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - David Solomon
-companies_orgs:
-  - Goldman Sachs
-  - Norges Bank Investment Management
-  - Ford
-products_models: []
-media_books: []
 status: evergreen
+summary: 高盛首席执行官大卫·所罗门分享了公司长达156年历史中，企业文化如何成为其核心竞争力。他强调了高盛独特的合伙人制度、严谨的风险管理文化以及以客户为中心的“一个高盛”计划，这些要素共同确保了公司在不断变化的市场中保持韧性、卓越和持续增长。所罗门指出，文化并非理所当然，需要持续投入和领导力驱动，才能代代相传。
+tags:
+- client-service
+- corporate-culture
+- model
+- organizational
+- risk-management
+title: 高盛的企业文化：百年基业的韧性与传承
 ---
+
 ### 欢迎致辞与企业耐久性主题
 
 非常感谢大家。下午好。

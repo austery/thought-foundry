@@ -1,70 +1,69 @@
 ---
-author: 莊也雜談
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Liberal Party
+- Conservative Party
+- NDP
+- Wildrose Party
+- Progressive Conservative Party
+- United Conservative Party
+- Maverick Party
+- Alberta Independence Party
+- Alberta Republican Party
+- Wildrose Independence Party of Alberta
+- Bloc Québécois
+- Canada's Supreme Court
+- Angus Reid
+- Nanos
+- Canadian Independent Business Federation
+- 卡尔加里大学
 date: '2025-05-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《卡尔加里太阳报》
+people:
+- Mark Carney
+- Pierre Trudeau
+- Justin Trudeau
+- Brian Mulroney
+- Jean Chrétien
+- Stephen Harper
+- Jason Kenney
+- Danielle Smith
+- Tamara Lich
+- Joe Biden
+- Poilievre
+- Alice Redford
+products_models:
+- National Energy Program
+- Keystone XL pipeline
+- Trans Mountain pipeline
+- Impact Assessment Act
+- Clarity Act
+- Bill 54 (Election Statutes Amendment Act, 2025)
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=f66NH7OI3hA
 speaker: 莊也雜談
-tags:
-  - alberta-independence
-  - canadian-federalism
-  - energy-policy
-  - provincial-autonomy
-  - referendum-strategy
-  - political-polarization
-  - transfer-payments
-title: 阿尔伯塔“退群”风波：加拿大联邦解体危机深度解析
-summary: 本文深入探讨了加拿大阿尔伯塔省独立运动的来龙去脉，从历史恩怨、能源经济、民意裂痕到法律迷宫，全面分析了其背后的深层逻辑。文章揭示了阿省对联邦能源政策、转移支付的不满，以及省长丹尼尔·史密斯推动“半独立”策略的政治考量。同时，也详细阐述了加拿大《清晰法案》等法律框架如何限制了省级独立公投的可能性，指出阿省独立更多是政治施压而非实际目标。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Pierre Trudeau
-  - Justin Trudeau
-  - Brian Mulroney
-  - Jean Chrétien
-  - Stephen Harper
-  - Jason Kenney
-  - Danielle Smith
-  - Tamara Lich
-  - Joe Biden
-  - Poilievre
-  - Alice Redford
-companies_orgs:
-  - Liberal Party
-  - Conservative Party
-  - NDP
-  - Wildrose Party
-  - Progressive Conservative Party
-  - United Conservative Party
-  - Maverick Party
-  - Alberta Independence Party
-  - Alberta Republican Party
-  - Wildrose Independence Party of Alberta
-  - Bloc Québécois
-  - Canada's Supreme Court
-  - Angus Reid
-  - Nanos
-  - Canadian Independent Business Federation
-  - 卡尔加里大学
-products_models:
-  - National Energy Program
-  - Keystone XL pipeline
-  - Trans Mountain pipeline
-  - Impact Assessment Act
-  - Clarity Act
-  - Bill 54 (Election Statutes Amendment Act, 2025)
-media_books:
-  - 《卡尔加里太阳报》
 status: evergreen
+summary: 本文深入探讨了加拿大阿尔伯塔省独立运动的来龙去脉，从历史恩怨、能源经济、民意裂痕到法律迷宫，全面分析了其背后的深层逻辑。文章揭示了阿省对联邦能源政策、转移支付的不满，以及省长丹尼尔·史密斯推动“半独立”策略的政治考量。同时，也详细阐述了加拿大《清晰法案》等法律框架如何限制了省级独立公投的可能性，指出阿省独立更多是政治施压而非实际目标。
+tags:
+- alberta-independence
+- canada
+- canadian
+- policy
+- society
+- strategy
+title: 阿尔伯塔“退群”风波：加拿大联邦解体危机深度解析
 ---
+
 ### 阿尔伯塔独立运动：一场可能颠覆加拿大联邦结构的政治风暴
 
 在加拿大西部的心脏地带，正酝酿着一场可能颠覆整个加拿大联邦结构的政治风暴。一项悄然通过的省级法案，竟然可能为阿尔伯塔省走向独立铺平了道路。为什么一个为加拿大经济做出巨大贡献的省份，会对加拿大这个国家的统一产生如此深刻的质疑？他们是愤怒、无奈，还是精心布局的政治筹码？阿省真的要闹分家了吗？而且，阿省到底能不能达到自己的目的？本文将从历史恩怨、能源经济、民意裂痕到法律迷宫，全面细致地深入分析这场关于独立与归属的政治大戏背后的精彩内幕和深层逻辑。

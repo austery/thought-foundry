@@ -1,78 +1,79 @@
 ---
-author: All-In Podcast
+area: market-analysis
+category: general
+companies_orgs:
+- Venetian
+- OpenAI
+- Harvard
+- CIA
+- TED
+- Microsoft
+- Apollo
+- Tether
+- Circle
+- Coinbase
+- JPMorgan
+- Stripe
+- Visa
+- Nvidia
+- Palantir
+- Google
+- Meta
+- Amazon
+- Anthropic
+- X
+- Huawei
+- Poly Market
+- Climate Corp
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Oppenheimer
+people:
+- Jeffrey Epstein
+- Donald Trump
+- Joe Biden
+- Larry Summers
+- Ghislaine Maxwell
+- Reid Hoffman
+- Peter Thiel
+- Leon Black
+- Paolo Ardoino
+- David Sacks
+- Brad Gerstner
+- Jensen Huang
+- Michael Burry
+- Stan Druckenmiller
+- Alan Keating
+- Phil Hellmuth
+- Doug Polk
+products_models:
+- H100
+- Gemini 3
+- TPU
+- Grok
+- Sora
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=4tgV87SM-r0
 speaker: All-In Podcast
-tags:
-  - stablecoin-business-model
-  - accounting-principles
-  - ai-market-competition
-  - intelligence-agencies
-title: All-In播客：爱泼斯坦文件、英伟达财报争议与谷歌Gemini 3的崛起
-summary: 本期 All-In 播客深入探讨了多个热点议题。首先，分析了爱泼斯坦文件被公布的政治影响，特别是对民主党和共和党的不同冲击。接着，详细剖析了迈克尔·贝瑞针对英伟达的做空论点，并就芯片资产的会计折旧规则展开辩论。此外，节目还揭示了稳定币 Tether 的惊人商业模式及其在全球金融普惠中的作用。最后，讨论了谷歌 Gemini 3 的发布如何重塑 AI 市场格局，并对 OpenAI 的未来提出质疑。
-insight: ''
-draft: true
-series: ''
-category: general
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Jeffrey Epstein
-  - Donald Trump
-  - Joe Biden
-  - Larry Summers
-  - Ghislaine Maxwell
-  - Reid Hoffman
-  - Peter Thiel
-  - Leon Black
-  - Paolo Ardoino
-  - David Sacks
-  - Brad Gerstner
-  - Jensen Huang
-  - Michael Burry
-  - Stan Druckenmiller
-  - Alan Keating
-  - Phil Hellmuth
-  - Doug Polk
-companies_orgs:
-  - Venetian
-  - OpenAI
-  - Harvard
-  - CIA
-  - TED
-  - Microsoft
-  - Apollo
-  - Tether
-  - Circle
-  - Coinbase
-  - JPMorgan
-  - Stripe
-  - Visa
-  - Nvidia
-  - Palantir
-  - Google
-  - Facebook
-  - Amazon
-  - Anthropic
-  - X
-  - Huawei
-  - Poly Market
-  - Climate Corp
-products_models:
-  - H100
-  - Gemini 3
-  - TPU
-  - Grok
-  - Sora
-media_books:
-  - Oppenheimer
 status: evergreen
+summary: 本期 All-In 播客深入探讨了多个热点议题。首先，分析了爱泼斯坦文件被公布的政治影响，特别是对民主党和共和党的不同冲击。接着，详细剖析了迈克尔·贝瑞针对英伟达的做空论点，并就芯片资产的会计折旧规则展开辩论。此外，节目还揭示了稳定币
+  Tether 的惊人商业模式及其在全球金融普惠中的作用。最后，讨论了谷歌 Gemini 3 的发布如何重塑 AI 市场格局，并对 OpenAI 的未来提出质疑。
+tags:
+- intelligence
+- market
+- principle
+- stablecoin-business-model
+title: All-In播客：爱泼斯坦文件、英伟达财报争议与谷歌Gemini 3的崛起
 ---
+
 ### 开场白：拉斯维加斯现场
 
 好了，各位，欢迎回到世界第一的播客。我们这次是线下齐聚一堂。是的，老友们在拉斯维加斯相聚了，这将会是一段美妙的时光。我们是为 F1 赛事而来。我们的朋友威尼斯人酒店 (The Venetian) 是非常棒、热情好客的主人。他们为我们提供了这个漂亮的工作室。我们准备打会儿牌，Phil Hellmuth 和我们所有的好朋友都会过来。

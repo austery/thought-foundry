@@ -1,83 +1,83 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs:
+- Lynas Rare Earths
+- 中国外交部
+- 花旗银行
+- 中国证券监督管理委员会
+- Nvidia
+- 韩国科学技术情报通信部
+- 三星电子
+- 现代汽车集团
+- SK集团
+- SK电讯
+- SK海力士
+- 台积电
+- Meta
+- Apple
+- Amazon
+- Google
+- Microsoft
+- Fiserv Inc.
+- 美联储
+- BlackRock
+- 国家发展和改革委员会
+- 万科
+- Netflix
+- Warner Bros. Discovery
+- Coinbase
+- UA Zensen
 date: '2025-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 路透社
+- 彭博
+- Twitter
+people:
+- Janet Yellen
+- Donald Trump
+- Xi Jinping
+- 郭家坤
+- Justin Trudeau
+- Fumio Kishida
+- 林信义
+- Jensen Huang
+- Jerome Powell
+- Mark Zuckerberg
+- Tim Cook
+- Christopher Waller
+- Michelle Bowman
+- Kevin Warsh
+- Rick Rieder
+products_models:
+- iPhone
+- Mac
+- iPad
+- Nvidia Blackwell Architecture Processors
+- Nvidia RTX Pro 6000 Blackwell Server Chips
+- A14 Semiconductor Factory
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=YSDD1mf5Hhw
 speaker: 小翠時政財經
-tags:
-  - us-china-trade
-  - rare-earth-strategy
-  - ai-industry-trends
-  - global-market-performance
-  - monetary-policy-outlook
-title: 稀土协议暗藏玄机，A股科技泡沫显现，美股巨头财报解析及AI投资潮
-summary: 本期节目深入探讨了中美稀土协议的潜在猫腻，中国外交部发言人对此的回避态度，以及海外稀土供应链摆脱对华依赖的进展。同时，分析了A股科技板块的泡沫化现象与监管部门的严打，并对比了日韩台股市的强劲表现。节目还详细解读了苹果、亚马逊等美股科技巨头的最新财报，揭示了AI投资对全球市场和就业的深远影响，并展望了美联储新主席人选对货币政策的潜在影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Janet Yellen
-  - Donald Trump
-  - 习近平
-  - 郭家坤
-  - Justin Trudeau
-  - Fumio Kishida
-  - 林信义
-  - Jensen Huang
-  - Jerome Powell
-  - Mark Zuckerberg
-  - Tim Cook
-  - Christopher Waller
-  - Michelle Bowman
-  - Kevin Warsh
-  - Rick Rieder
-companies_orgs:
-  - Lynas Rare Earths
-  - 中国外交部
-  - 花旗银行
-  - 中国证券监督管理委员会
-  - Nvidia
-  - 韩国科学技术情报通信部
-  - 三星电子
-  - 现代汽车集团
-  - SK集团
-  - SK电讯
-  - SK海力士
-  - 台积电
-  - Meta
-  - Apple
-  - Amazon
-  - Google
-  - Microsoft
-  - Fiserv Inc.
-  - 美联储
-  - BlackRock
-  - 国家发展和改革委员会
-  - 万科
-  - Netflix
-  - Warner Bros. Discovery
-  - Coinbase
-  - UA Zensen
-products_models:
-  - iPhone
-  - Mac
-  - iPad
-  - Nvidia Blackwell Architecture Processors
-  - Nvidia RTX Pro 6000 Blackwell Server Chips
-  - A14 Semiconductor Factory
-media_books:
-  - 路透社
-  - 彭博
-  - Twitter
 status: evergreen
+summary: 本期节目深入探讨了中美稀土协议的潜在猫腻，中国外交部发言人对此的回避态度，以及海外稀土供应链摆脱对华依赖的进展。同时，分析了A股科技板块的泡沫化现象与监管部门的严打，并对比了日韩台股市的强劲表现。节目还详细解读了苹果、亚马逊等美股科技巨头的最新财报，揭示了AI投资对全球市场和就业的深远影响，并展望了美联储新主席人选对货币政策的潜在影响。
+tags:
+- industry
+- market
+- policy
+- rare-earth-strategy
+- us-china-relations
+title: 稀土协议暗藏玄机，A股科技泡沫显现，美股巨头财报解析及AI投资潮
 ---
+
 ### 中美关系：大豆贸易与稀土博弈
 
 今天是美东时间2025年10月31日，我们将继续关注美国前总统**唐纳德·特朗普**（Donald Trump）和中国国家主席**习近平**的会谈相关消息。首先，美国财政部长**珍妮特·耶伦**（Janet Yellen）确认，中国同意今年购买1,200万吨美国大豆，未来三年每年至少购买2,500万吨。尽管2,500万吨的采购量低于去年（约2,700多万吨）和特朗普上一任期（超过3,000多万吨）的水平，但耶伦提到，东南亚其他国家已同意额外购买1,900万吨美国大豆，这将有助于确保今年年末美国大豆库存不会过高，对农民而言是一个利好消息。

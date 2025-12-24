@@ -1,37 +1,36 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- WTO
 date: '2025-04-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 杨晓凯
+- 卢峰
+- Donald Trump
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=NGwpkdye0rc
 speaker: 海淀拙大叔
-tags:
-  - tariff-war
-  - trade-retaliation
-  - economic-transformation
-  - geopolitical-strategy
-  - yang-xiaokai-theory
-title: 关税战下的中国策略：为何必须报复与经济转型之路
-summary: 本文深入探讨了在当前关税战背景下，中国为何必须采取报复措施。文章引用经济学家杨晓凯的理论，分析了贸易战的必然性及过早妥协的危害，并通过静态收益模型对比了不同应对策略的经济影响。同时，文章还分析了不同国家在关税战中的应对模式，并提出了中国应采取的战略性报复措施，以及从产能扩张型向需求拉动型经济转型的长期发展路径。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 杨晓凯
-  - 卢峰
-  - Donald Trump
-companies_orgs:
-  - WTO
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了在当前关税战背景下，中国为何必须采取报复措施。文章引用经济学家杨晓凯的理论，分析了贸易战的必然性及过早妥协的危害，并通过静态收益模型对比了不同应对策略的经济影响。同时，文章还分析了不同国家在关税战中的应对模式，并提出了中国应采取的战略性报复措施，以及从产能扩张型向需求拉动型经济转型的长期发展路径。
+tags:
+- economic
+- geopolitical-strategy
+- tariff-war
+- theory
+- trade
+title: 关税战下的中国策略：为何必须报复与经济转型之路
 ---
+
 ### 关税战的背景与中国应对的必要性
 
 当前，中美之间的关税战暂时告一段落。在此背景下，有人认为中国不应陷入以牙还牙的**螺旋报复**（Spiral Retaliation: 指贸易战中，一方采取报复措施后，另一方也采取对等报复，导致贸易冲突不断升级的恶性循环），因为这可能导致中国利益单独受损。他们甚至搬出了**杨晓凯**（Yang Xiaokai: 著名经济学家，以其“后发劣势”理论闻名）的**后发劣势理论**（Theory of Late-Mover Disadvantage: 指后发国家在学习先发国家技术和制度时可能面临的结构性困境），认为中国应短期妥协以换取自身的制度创新。然而，本文将以杨晓凯的观点为依据，为中国的贸易报复寻找理论支撑。

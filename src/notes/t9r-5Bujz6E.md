@@ -1,34 +1,32 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-08-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Winnicott
+- Marx
+products_models: []
+project:
+- china-analysis
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=t9r-5Bujz6E
 speaker: Anthony看世界
-tags:
-  - death-anxiety
-  - parental-projection
-  - family-dynamics
-  - emotional-attunement
-  - intergenerational-trauma
-title: 生孩子能缓解死亡焦虑吗？中国家庭中的投射与控制：孩子如何替父母承受了创伤？
-summary: 本文探讨了中国家庭中常见的“恩情”观念，指出其量化、单向的本质如何让孩子背负亏欠感。文章强调，真正有价值的资源是父母与孩子间非排他性的情感协调。深挖父母如何无意识地将孩子作为工具，投射未整合的自我，或缓解死亡焦虑，导致孩子承受创伤，牺牲自我认同。最终揭示在不健康的家庭关系中，孩子并非单向接受者，而是长期承担父母心理功能的工具。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - china-analysis
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Winnicott
-  - Marx
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了中国家庭中常见的“恩情”观念，指出其量化、单向的本质如何让孩子背负亏欠感。文章强调，真正有价值的资源是父母与孩子间非排他性的情感协调。深挖父母如何无意识地将孩子作为工具，投射未整合的自我，或缓解死亡焦虑，导致孩子承受创伤，牺牲自我认同。最终揭示在不健康的家庭关系中，孩子并非单向接受者，而是长期承担父母心理功能的工具。
+tags:
+- anxiety
+- dynamic
+- emotional
+- intergenerational-trauma
+- technology
+title: 生孩子能缓解死亡焦虑吗？中国家庭中的投射与控制：孩子如何替父母承受了创伤？
 ---
 
 ### 恩情：一种可量化的单向交易？

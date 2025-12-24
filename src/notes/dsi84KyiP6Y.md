@@ -1,45 +1,45 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Temasek
+- Norges Bank Investment Management
+- GIC
+- WTO
+- SCO
 date: '2025-09-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- Wall Street Journal
+- The Economist
+people:
+- Nicolai Tangen
+- Dilhan Pillay Sandrasegara
+- Lee Kuan Yew
+products_models:
+- ChatGPT
+project:
+- investment-strategy
+- geopolitics-watch
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=dsi84KyiP6Y
 speaker: Norges Bank Investment Management
-tags:
-  - sovereign-wealth-fund
-  - investment-philosophy
-  - geopolitical-risk
-  - capital-allocation
-  - ai-strategy
-title: 淡马锡CEO深度访谈：投资策略、地缘政治与新加坡的成功之道
-summary: 淡马锡CEO Dilhan Pillay Sandrasegara 在访谈中详细阐述了淡马锡作为投资控股公司的独特运作模式，与GIC的区别，及其对新加坡经济和社会发展的重要性。他分享了淡马锡的长期投资理念，包括对地缘政治、AI和可持续发展等宏观趋势的考量。此外，他还探讨了私人市场与公开市场的风险、建立长期合作伙伴关系的重要性，并深入剖析了新加坡成功的关键因素，以及AI如何融入淡马锡的日常运营和投资决策。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - geopolitics-watch
-  - us-analysis
-people:
-  - Nicolai Tangen
-  - Dilhan Pillay Sandrasegara
-  - Lee Kuan Yew
-companies_orgs:
-  - Temasek
-  - Norges Bank Investment Management
-  - GIC
-  - WTO
-  - SCO
-products_models:
-  - ChatGPT
-media_books:
-  - Financial Times
-  - Wall Street Journal
-  - The Economist
 status: evergreen
+summary: 淡马锡CEO Dilhan Pillay Sandrasegara 在访谈中详细阐述了淡马锡作为投资控股公司的独特运作模式，与GIC的区别，及其对新加坡经济和社会发展的重要性。他分享了淡马锡的长期投资理念，包括对地缘政治、AI和可持续发展等宏观趋势的考量。此外，他还探讨了私人市场与公开市场的风险、建立长期合作伙伴关系的重要性，并深入剖析了新加坡成功的关键因素，以及AI如何融入淡马锡的日常运营和投资决策。
+tags:
+- ai-strategy
+- capital-allocation
+- geopolitical-risk
+- investment-philosophy
+- sovereign-wealth-fund
+title: 淡马锡CEO深度访谈：投资策略、地缘政治与新加坡的成功之道
 ---
+
 ### 淡马锡：新加坡的投资控股公司
 
 **Nicolai:** 大家好。

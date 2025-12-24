@@ -1,42 +1,40 @@
 ---
-author: Veritasium
-date: '2025-03-05'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qJZ1Ez28C-A
-speaker: Veritasium
-tags:
-  - veritasium
-  - quantum-mechanics
-  - least-action-principle
-  - wave-particle-duality
-  - feynman-path-integral
-  - blackbody-radiation
-title: 量子力学揭示：万物皆循所有可能路径
-summary: 本文深入探讨了量子力学中一个颠覆性的概念：所有粒子并非遵循单一轨迹，而是同时探索所有可能的路径。从经典物理的最小时间原理，到普朗克、爱因斯坦、玻尔和德布罗意的量子化突破，再到费曼的路径积分理论，文章详细阐述了这一原理如何解释光和物质的波粒二象性，以及经典力学如何从量子力学中涌现。通过实验演示，揭示了看似随机的路径如何通过建设性干涉形成我们所见的确定轨迹，强调了“作用量”在物理学中的核心地位。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Max Planck
-  - Albert Einstein
-  - Niels Bohr
-  - Louis de Broglie
-  - Richard Feynman
-  - Maupertuis
-  - Hamilton
+category: science
 companies_orgs:
-  - PTR
+- PTR
+date: '2025-03-05'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Max Planck
+- Albert Einstein
+- Niels Bohr
+- Louis de Broglie
+- Richard Feynman
+- Maupertuis
+- Hamilton
+- feynman-path-integral
 products_models:
-  - NordVPN
-media_books: []
+- NordVPN
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=qJZ1Ez28C-A
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了量子力学中一个颠覆性的概念：所有粒子并非遵循单一轨迹，而是同时探索所有可能的路径。从经典物理的最小时间原理，到普朗克、爱因斯坦、玻尔和德布罗意的量子化突破，再到费曼的路径积分理论，文章详细阐述了这一原理如何解释光和物质的波粒二象性，以及经典力学如何从量子力学中涌现。通过实验演示，揭示了看似随机的路径如何通过建设性干涉形成我们所见的确定轨迹，强调了“作用量”在物理学中的核心地位。
+tags:
+- health
+- principle
+- quantum-mechanic
+- science
+title: 量子力学揭示：万物皆循所有可能路径
 ---
+
 ### 颠覆性的物理学观念：万物皆循所有可能路径
 
 作为一名42岁、一生大部分时间都在研究物理学的人，我必须承认自己曾有一个巨大的误解。

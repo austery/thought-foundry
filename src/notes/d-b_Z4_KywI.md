@@ -1,46 +1,45 @@
 ---
-author: New York Times Podcasts
+area: society-thinking
+category: politics-society
+companies_orgs:
+- New York Times
+- UPS
+- National Transportation Safety Board
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Tracy Mumford
+- Zoran Mandani
+- Alexandria Ocasio-Cortez
+- Bernie Sanders
+- Emma FitzSimmons
+- Mikey Cheryl
+- Abigail Spanberger
+- Donald Trump
+- Will Jarvis
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=d-b_Z4_KywI
 speaker: New York Times Podcasts
-tags:
-  - us-elections
-  - democratic-party
-  - government-shutdown
-  - political-polarization
-  - climate-change-impact
-title: 曼达尼历史性胜选与民主党全国之夜：美国政治与全球热点回顾
-summary: 本期《纽约时报》头条新闻回顾了美国多项关键选举结果，包括佐兰·曼达尼在纽约市市长选举中的惊人胜利，以及民主党在全国范围内取得的进展，这被视为对特朗普政府的某种反弹。此外，节目还报道了美国政府停摆的最新进展、肯塔基州的路易斯维尔发生的一起货运飞机坠毁事故、以色列一起巴勒斯坦被拘留者受虐案引发的争议，以及阿拉斯加一场台风对考古遗址和永久冻土的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Tracy Mumford
-  - Zoran Mandani
-  - Alexandria Ocasio-Cortez
-  - Bernie Sanders
-  - Emma FitzSimmons
-  - Mikey Cheryl
-  - Abigail Spanberger
-  - Donald Trump
-  - Will Jarvis
-companies_orgs:
-  - New York Times
-  - UPS
-  - National Transportation Safety Board
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期《纽约时报》头条新闻回顾了美国多项关键选举结果，包括佐兰·曼达尼在纽约市市长选举中的惊人胜利，以及民主党在全国范围内取得的进展，这被视为对特朗普政府的某种反弹。此外，节目还报道了美国政府停摆的最新进展、肯塔基州的路易斯维尔发生的一起货运飞机坠毁事故、以色列一起巴勒斯坦被拘留者受虐案引发的争议，以及阿拉斯加一场台风对考古遗址和永久冻土的影响。
+tags:
+- climate-change-impact
+- government-shutdown
+- party
+- us-election
+title: 曼达尼历史性胜选与民主党全国之夜：美国政治与全球热点回顾
 ---
+
 ### 节目开场
 
 来自《纽约时报》的头条新闻。我是特雷西·芒福德。今天是11月5日星期三。以下是我们今天将报道的内容。

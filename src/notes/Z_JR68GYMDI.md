@@ -1,38 +1,36 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: general
+companies_orgs:
+- 工信部
+- 发改委
+- 中央政治局
+- 中央经济工作会议
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Xi Jinping
+products_models: []
+project:
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Z_JR68GYMDI
 speaker: FearNation 世界苦茶
-tags:
-  - china-economy
-  - economic-policy
-  - public-sentiment
-  - government-optimism
-  - economic-outlook
-title: 中国经济：公众体感冰冷，官方为何“异常满意”？
-summary: 本文深入剖析了中国经济在2025年面临的公众普遍不满与官方高度满意之间的巨大反差。通过逐句解读中央经济工作会议历年文件，揭示了政府对经济问题的描述如何从“三重压力”演变为“共强虚弱矛盾突出”，以及宏观政策、内需刺激、科技创新、经济改革和房地产风险等关键领域的政策演变。文章还分析了官方可能误判形势或内部存在分歧的原因，并指出公众的负面体感与官方的乐观论调之间存在显著的脱节。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - us-analysis
-people:
-  - FearNation 世界苦茶
-  - 习近平
-companies_orgs:
-  - 工信部
-  - 发改委
-  - 中央政治局
-  - 中央经济工作会议
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入剖析了中国经济在2025年面临的公众普遍不满与官方高度满意之间的巨大反差。通过逐句解读中央经济工作会议历年文件，揭示了政府对经济问题的描述如何从“三重压力”演变为“共强虚弱矛盾突出”，以及宏观政策、内需刺激、科技创新、经济改革和房地产风险等关键领域的政策演变。文章还分析了官方可能误判形势或内部存在分歧的原因，并指出公众的负面体感与官方的乐观论调之间存在显著的脱节。
+tags:
+- china-economy
+- economic-outlook
+- economic-policy
+- government
+- public
+title: 中国经济：公众体感冰冷，官方为何“异常满意”？
 ---
+
 ### 公众体感与官方判断的巨大鸿沟
 
 今天我们采集了大家的意见，关于2025年中国经济，您是满意还是不满意？在142位参与者中，高达66%表示不满意。剩余的34%中，19%表示不知道，真正满意的仅有5%，中等的12%。简单调查显示，绝大多数人对2025年的中国经济感到非常不满意，这种体感可能代表了很多人的心态，无论是工资停滞、失业蔓延还是消费不振，普通人都感觉到这不是一年好日子。

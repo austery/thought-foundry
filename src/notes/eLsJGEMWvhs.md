@@ -1,58 +1,58 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 央视
+- 广东省政法委
+- 全国人大
+- 广州市第一看守所
+- 广州花都检察院
+- 广州市人民检察院
+- 广州市律师协会
+- 广州市越秀区法院
+- 河北大午集团
+- 保定市中心人民法院
+- 保定市人民政府
+- 雄水区人民政府
+- 广东省司法厅
 date: '2024-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《纽约时报》
+- 央视看见栏目
+- 《南都周刊》
+- 财新
+- 《法治政府蓝皮书》
+people:
+- 徐志永
+- 杨冰
+- 孙志刚
+- 温家宝
+- 周模英
+- 孙大午
+- 柴静
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=eLsJGEMWvhs
 speaker: 柴静 Chai Jing
-tags:
-  - individual-conscience
-  - rule-of-law
-  - judicial-independence
-  - political-persecution
-  - civil-society
-title: 前明星检察官杨冰：我们之所以一路溃退，是因为过于恐惧
-summary: 曾被誉为“中国年度正义人物”的明星检察官杨冰，因收留异见人士许志永，并坚持独立司法理念，最终被体制边缘化并注销律师执照。她讲述了自己从体制内到出走海外的心路历程，反思了中国社会对恐惧的过度屈服，以及个人在僵化体制中寻求自由和坚守良知的意义。杨冰认为，真正的自由是能够从容地活着，对违背意愿的事情说不，并强调即使面对重重阻碍，也要做自己认为正确的事情。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 徐志永
-  - 杨冰
-  - 孙志刚
-  - 温家宝
-  - 周模英
-  - 孙大午
-  - 柴静
-companies_orgs:
-  - 央视
-  - 广东省政法委
-  - 全国人大
-  - 广州市第一看守所
-  - 广州花都检察院
-  - 广州市人民检察院
-  - 广州市律师协会
-  - 广州市越秀区法院
-  - 河北大午集团
-  - 保定市中心人民法院
-  - 保定市人民政府
-  - 雄水区人民政府
-  - 广东省司法厅
-products_models: []
-media_books:
-  - 《纽约时报》
-  - 央视看见栏目
-  - 《南都周刊》
-  - 财新
-  - 《法治政府蓝皮书》
 status: evergreen
+summary: 曾被誉为“中国年度正义人物”的明星检察官杨冰，因收留异见人士许志永，并坚持独立司法理念，最终被体制边缘化并注销律师执照。她讲述了自己从体制内到出走海外的心路历程，反思了中国社会对恐惧的过度屈服，以及个人在僵化体制中寻求自由和坚守良知的意义。杨冰认为，真正的自由是能够从容地活着，对违背意愿的事情说不，并强调即使面对重重阻碍，也要做自己认为正确的事情。
+tags:
+- civil-society
+- judicial-independence
+- political-persecution
+- rule-of-law
+- science
+title: 前明星检察官杨冰：我们之所以一路溃退，是因为过于恐惧
 ---
+
 ### 明星检察官的抉择：收留异见人士
 
 四年前，我在海外看到了《纽约时报》的一篇报道，其中提到中国著名的社会活动家**许志永**在厦门会议之后被追捕，并在广州的藏身处被拘留。我感到很意外，意外的不是许志永被逮捕，而是他是从广州杨冰的家中被带走的。我对杨冰这个名字最深刻的印象是，她是中国几乎最有名的明星检察官。2011年，我所在的央视《看见》栏目曾经分上下集报道过她的故事。她是当年的“中国年度正义人物”，而且广东省政法委书记曾经号召全省的**政法干警**（政法干警: 政治法律系统的干部和警察的统称）向她学习。

@@ -1,54 +1,53 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Google
+- Center for AI Safety
+- University of California, Berkeley
+- Stanford HAI
+- Future of Life Institute
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《AGI的定义（A Definition of AGI）》
+people:
+- Yoshua Bengio
+- Richard Sutton
+- Gary Marcus
+- Yann LeCun
+- Dan Hendrycks
+- Dawn Song
+- Christian Szegedy
+- Erik Brynjolfsson
+- Max Tegmark
+- Eric Schmidt
+- Jaan Tallinn
+- Raymond Cattell
+- John Carroll
+products_models:
+- GPT-4
+- GPT-5
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=RtXqiFrRA6I
 speaker: Best Partners TV
-tags:
-  - agi-definition
-  - cognitive-abilities
-  - llm-limitations
-  - ai-evaluation
-  - capability-contortions
-title: AGI的清晰定义：Yoshua Bengio团队如何评估通用人工智能的十大能力与现有模型的短板
-summary: 本文深入解读了由图灵奖得主Yoshua Bengio领衔的国际团队所发表的《AGI的定义》论文。该研究旨在为通用人工智能（AGI）提供一个清晰、可量化的评估框架，通过借鉴卡特尔-霍恩-卡罗尔（CHC）理论，将AGI能力细分为十大维度。论文评估了当前顶尖AI模型（如GPT-4和GPT-5）的表现，揭示了它们在通用知识、读写能力等方面的优势，以及在长期记忆、即时推理、幻觉和认知僵化等方面的严重短板，并提出了“能力扭曲”的概念，指出现有AI如何利用优势掩盖基础缺陷，为AGI发展指明了方向。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Yoshua Bengio
-  - Richard Sutton
-  - Gary Marcus
-  - Yann LeCun
-  - Dan Hendrycks
-  - Dawn Song
-  - Christian Szegedy
-  - Erik Brynjolfsson
-  - Max Tegmark
-  - Eric Schmidt
-  - Jaan Tallinn
-  - Raymond Cattell
-  - John Carroll
-companies_orgs:
-  - OpenAI
-  - Google
-  - Center for AI Safety
-  - University of California, Berkeley
-  - Stanford HAI
-  - Future of Life Institute
-products_models:
-  - GPT-4
-  - GPT-5
-media_books:
-  - 《AGI的定义（A Definition of AGI）》
 status: evergreen
+summary: 本文深入解读了由图灵奖得主Yoshua Bengio领衔的国际团队所发表的《AGI的定义》论文。该研究旨在为通用人工智能（AGI）提供一个清晰、可量化的评估框架，通过借鉴卡特尔-霍恩-卡罗尔（CHC）理论，将AGI能力细分为十大维度。论文评估了当前顶尖AI模型（如GPT-4和GPT-5）的表现，揭示了它们在通用知识、读写能力等方面的优势，以及在长期记忆、即时推理、幻觉和认知僵化等方面的严重短板，并提出了“能力扭曲”的概念，指出现有AI如何利用优势掩盖基础缺陷，为AGI发展指明了方向。
+tags:
+- ai-evaluation
+- capability-contortion
+- cognitive
+- llm
+title: AGI的清晰定义：Yoshua Bengio团队如何评估通用人工智能的十大能力与现有模型的短板
 ---
+
 ### AGI定义之争与新框架的提出
 
 大家好，这里是最佳拍档。最近一段时间，AI界掀起了一场关于大语言模型能否通向**AGI**（Artificial General Intelligence: 能够执行人类所有认知任务的人工智能）的激烈争论。一方面，以OpenAI、Google等为代表的企业界坚信，当前的模式和**Scaling Laws**（规模法则: 指模型性能随计算资源、数据量和模型参数增加而提升的经验法则）能够实现AGI；另一方面，以Richard Sutton、Gary Marcus、Yann LeCun等为代表的学术界重量级人物对此提出了尖锐批评。Sutton认为当前的大语言模型过度依赖人类的标注数据，缺乏真正的学习机制；Marcus则反复指出大模型的推理能力存在根本缺陷，只是随机鹦鹉；LeCun更是直言，单纯大语言模型永远无法达到人类水平的智能。

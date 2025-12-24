@@ -1,32 +1,32 @@
 ---
-author: Best Partners TV
+area: tech-work
+category: ai-ml
+companies_orgs: []
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《贫穷的本质》
+people:
+- 阿比吉特班纳吉
+- 埃斯特迪弗洛
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=tIeDA1Z5wgA
 speaker: Best Partners TV
-tags:
-  - poverty-traps
-  - cognitive-awareness
-  - financial-freedom
-title: 【读书】6 个致命贫穷陷阱 |《贫穷的本质》| 认知觉醒 | 消费 | 健康 | 思维 | 教育 | 现金流破局 | 摆脱贫穷循环
-summary: 《贫穷的本质》揭示了穷人陷入贫穷陷阱的六大原因：消费陷阱、健康陷阱、思维陷阱、情绪陷阱、教育陷阱和聪明陷阱。通过解析这些陷阱，帮助我们理解贫穷的本质，并找到摆脱贫穷的方法。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 阿比吉特班纳吉
-  - 埃斯特迪弗洛
-companies_orgs: []
-products_models: []
-media_books:
-  - 《贫穷的本质》
 status: evergreen
+summary: 《贫穷的本质》揭示了穷人陷入贫穷陷阱的六大原因：消费陷阱、健康陷阱、思维陷阱、情绪陷阱、教育陷阱和聪明陷阱。通过解析这些陷阱，帮助我们理解贫穷的本质，并找到摆脱贫穷的方法。
+tags:
+- cognitive
+- financial-freedom
+- society
+title: 【读书】6 个致命贫穷陷阱 |《贫穷的本质》| 认知觉醒 | 消费 | 健康 | 思维 | 教育 | 现金流破局 | 摆脱贫穷循环
 ---
+
 ### 1. 高保真 (High Fidelity)
 
 大家好，这里是最佳拍档

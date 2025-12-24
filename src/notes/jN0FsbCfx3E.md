@@ -1,44 +1,43 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- GOP
+- 北约
 date: '2025-08-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- one piece
+people:
+- 刘索隆
+- 乔姆斯基
+- 斯大林
+- 里根
+- 硅谷尹公
+- 希特勒
+- 查韦斯
+- 斯诺登
+products_models: []
+project:
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=jN0FsbCfx3E
 speaker: 北美王路飞
-tags:
-  - political-spectrum
-  - ideology-test
-  - social-progressivism
-  - economic-conservatism
-  - transhumanism
-title: 刘索隆的政治光谱：一场关于自由、资本与进步主义的八维探索
-summary: 本期节目中，北美王路飞与刘索隆共同探讨了一项“8D意识形态”政治光谱测试。刘索隆分享了他在经济、社会、国际关系等多个议题上的立场，并详细阐述了其在自由、资本主义、进步主义、温和派、民主、世界主义、超人类主义和世俗主义等八个维度上的测试结果。节目还对比了其结果与“硅谷尹公”的差异，并讨论了政治光谱测试的意义与局限性，揭示了个人信仰与政治立场之间的复杂关系。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-people:
-  - 刘索隆
-  - 北美王路飞
-  - 乔姆斯基
-  - 斯大林
-  - 里根
-  - 硅谷尹公
-  - 希特勒
-  - 查韦斯
-  - 斯诺登
-companies_orgs:
-  - GOP
-  - 北约
-products_models: []
-media_books:
-  - one piece
 status: evergreen
+summary: 本期节目中，北美王路飞与刘索隆共同探讨了一项“8D意识形态”政治光谱测试。刘索隆分享了他在经济、社会、国际关系等多个议题上的立场，并详细阐述了其在自由、资本主义、进步主义、温和派、民主、世界主义、超人类主义和世俗主义等八个维度上的测试结果。节目还对比了其结果与“硅谷尹公”的差异，并讨论了政治光谱测试的意义与局限性，揭示了个人信仰与政治立场之间的复杂关系。
+tags:
+- economic
+- political
+- social
+- society
+- transhumanism
+title: 刘索隆的政治光谱：一场关于自由、资本与进步主义的八维探索
 ---
+
 ### 政治光谱测试的引入与个人立场初探
 
 北美王路飞: 大家好，欢迎来到本期节目。我们来让刘索隆测一测你的**8D意识形态**（8D Ideology: 一种多维度政治意识形态测试模型）。这是整活吗？我本来以为是一个很严肃的节目。

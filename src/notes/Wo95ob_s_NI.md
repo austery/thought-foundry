@@ -1,43 +1,41 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
 date: '2024-05-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Model Spec》
+people:
+- John Schulman
+products_models:
+- ChatGPT
+- GPT-4
+- GPT-3.5
+- GPT-3
+- GPT-2
+- LaMDA
+- Meena
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Wo95ob_s_NI
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - prompt-engineering
-  - rlhf
-  - agi
-  - model-alignment
-title: OpenAI 联合创始人 John Schulman 谈 AI 推理、RLHF 与 2027 年 AGI 计划
-summary: 本次访谈中，OpenAI 联合创始人 **John Schulman** 深入探讨了AI模型的预训练与后训练、大型语言模型未来的能力（如复杂编程项目），以及泛化和样本效率的重要性。他分享了 **ChatGPT** 的诞生历程、**RLHF** 在模型对齐中的关键作用，并讨论了先进AI带来的社会影响，包括开发者间的协调、保持“人类在环”的挑战，以及对AI发展速度和人机协作未来的展望。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - John Schulman
-  - Dwarkesh Patel
-companies_orgs:
-  - OpenAI
-  - Google
-products_models:
-  - ChatGPT
-  - GPT-4
-  - GPT-3.5
-  - GPT-3
-  - GPT-2
-  - LaMDA
-  - Meena
-media_books:
-  - 《Model Spec》
 status: evergreen
+summary: 本次访谈中，OpenAI 联合创始人 **John Schulman** 深入探讨了AI模型的预训练与后训练、大型语言模型未来的能力（如复杂编程项目），以及泛化和样本效率的重要性。他分享了
+  **ChatGPT** 的诞生历程、**RLHF** 在模型对齐中的关键作用，并讨论了先进AI带来的社会影响，包括开发者间的协调、保持“人类在环”的挑战，以及对AI发展速度和人机协作未来的展望。
+tags:
+- agi
+- model
+- technology
+title: OpenAI 联合创始人 John Schulman 谈 AI 推理、RLHF 与 2027 年 AGI 计划
 ---
+
 今天，我非常荣幸能与 **John Schulman** 对话，他是 **OpenAI** 的联合创始人之一，领导着后训练团队，并主导了 **ChatGPT** 的创建。他还撰写了许多人工智能和强化学习领域（包括 **PPO** 在内）最重要且被广泛引用的论文。**John**，很高兴与你交流，感谢你参加播客。
 
 感谢邀请我参加播客，我是你们的忠实粉丝。

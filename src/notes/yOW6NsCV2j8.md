@@ -1,47 +1,45 @@
 ---
-author: TVO Today
+area: society-systems
+category: science
+companies_orgs:
+- University of Toronto
+- Sick Kids Hospital
+- Food Allergy Canada
+- McMaster University
+- Health Canada
+- UniQure
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Pediatrics
+people:
+- Rachel Harding
+- Terry Purvalakis
+- Michael Purvalakis
+- Josh Koig
+- Robert F. Kennedy Jr.
+products_models:
+- AMT130
+- CRISPR
+- LEAP trial
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=yOW6NsCV2j8
 speaker: TVO Today
-tags:
-  - rare-diseases
-  - gene-therapy
-  - huntingtons-disease
-  - peanut-allergy
-  - medical-research
-  - public-health
-  - misinformation
-title: 罕见病突破与过敏症缓解：基因疗法和花生过敏预防的最新进展
-summary: 本文深入探讨了医学研究的两大前沿领域：罕见病治疗和食物过敏预防。在罕见病方面，我们了解了亨廷顿病基因疗法和SPG50单患者基因疗法的突破性进展，以及患者社群和家庭在推动治疗中的关键作用。文章强调了基因筛查和政府投资的重要性。在食物过敏方面，重点介绍了早期引入花生可显著降低过敏风险的最新研究，并讨论了对抗医疗错误信息和未来研究方向。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project: []
-people:
-  - Rachel Harding
-  - Terry Purvalakis
-  - Michael Purvalakis
-  - Josh Koig
-  - Robert F. Kennedy Jr.
-companies_orgs:
-  - University of Toronto
-  - Sick Kids Hospital
-  - Food Allergy Canada
-  - McMaster University
-  - Health Canada
-  - UniQure
-products_models:
-  - AMT130
-  - CRISPR
-  - LEAP trial
-media_books:
-  - Pediatrics
 status: evergreen
+summary: 本文深入探讨了医学研究的两大前沿领域：罕见病治疗和食物过敏预防。在罕见病方面，我们了解了亨廷顿病基因疗法和SPG50单患者基因疗法的突破性进展，以及患者社群和家庭在推动治疗中的关键作用。文章强调了基因筛查和政府投资的重要性。在食物过敏方面，重点介绍了早期引入花生可显著降低过敏风险的最新研究，并讨论了对抗医疗错误信息和未来研究方向。
+tags:
+- health
+- medical-research
+- misinformation
+- peanut-allergy
+- public-health
+title: 罕见病突破与过敏症缓解：基因疗法和花生过敏预防的最新进展
 ---
+
 ### 罕见病治疗的希望曙光
 
 医学界有句俗语：“听到蹄声，要想到马，而不是斑马。”这意味着在诊断时，应首先考虑常见病因。当然，那些蹄声也可能来自斑马，即使这种可能性很小。这正是斑马成为**罕见病**（Rare Diseases: 影响少数人群但全球总数庞大的疾病）象征的原因。有些罕见病确实非常罕见，只影响少数人，但总人数却相当可观。据估计，全球有超过4亿人患有罕见病。

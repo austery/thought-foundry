@@ -1,34 +1,32 @@
 ---
-title: 投资TALK君：揭秘视频创作初衷，市场回调应对与个股取舍
-summary: 本期视频探讨了博主做视频的初衷、观众互动，分析了美联储纪要、VIX指数，并分享了投资理念、SBET风险，以及On Holding的卖出思考。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- cryptocurrency-stocks
-- federal-reserve
-- investment-strategy
-- on-holding
-- us-stock-market
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-07-10'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=vnXTZc_Nhac
+speaker: 投资TALK君
 status: evergreen
+summary: 本期视频探讨了博主做视频的初衷、观众互动，分析了美联储纪要、VIX指数，并分享了投资理念、SBET风险，以及On Holding的卖出思考。
+tags:
+- federal-reserve
+- on-holding
+- stock
+- us-stock-market
+title: 投资TALK君：揭秘视频创作初衷，市场回调应对与个股取舍
 ---
+
 ### 开场白与观众互动
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道，我是市场分析员小陶。昨天收到了大家500多条留言，我着实感受到了大家的热情。这些留言主要分为三类：第一类不便提及；第二类是催促我日更，例如“敲碗日更”、“留言催加班”，甚至表示如果可以，会天天留言；第三类留言则让我感到不好意思，属于“被迫营业”，有观众表示“说的我都不好意思不留言了，点个赞吧”，还有观众说“我都不知道说什么，但是要留言”。

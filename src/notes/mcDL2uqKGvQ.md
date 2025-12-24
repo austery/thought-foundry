@@ -1,40 +1,40 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《独立宣言》
+- 《佛经》
+people:
+- 亚里士多德
+- 余英时
+- 周有光
+- Colin Powell
+- George W. Bush
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=mcDL2uqKGvQ
 speaker: 徒步的騎手
-tags:
-  - immigrant-identity
-  - cultural-values
-  - political-systems
-  - social-integration
-  - critical-thinking
-title: “戒断中国”与“融入主流社会”：海外华人身份认同的理性切割与价值重塑
-summary: 文章探讨了海外华人对中国的复杂情感纽带，从人性好奇心和感性连接两个层面剖析了“戒断中国”的深层含义。同时，深入批判了“融入主流社会”这一伪命题，指出其源于小农意识和虚荣心，并强调真正的融入是基于对美国现代文明价值观的认同与践行，而非肤浅的表面符号。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - cultural-critique
-people:
-  - 亚里士多德
-  - 余英时
-  - 周有光
-  - Colin Powell
-  - George W. Bush
-companies_orgs: []
-products_models: []
-media_books:
-  - 《独立宣言》
-  - 《佛经》
 status: evergreen
+summary: 文章探讨了海外华人对中国的复杂情感纽带，从人性好奇心和感性连接两个层面剖析了“戒断中国”的深层含义。同时，深入批判了“融入主流社会”这一伪命题，指出其源于小农意识和虚荣心，并强调真正的融入是基于对美国现代文明价值观的认同与践行，而非肤浅的表面符号。
+tags:
+- critical-thinking
+- cultural
+- identity
+- political-system
+- social
+title: “戒断中国”与“融入主流社会”：海外华人身份认同的理性切割与价值重塑
 ---
+
 ### 好奇心与感性连接：海外华人为何仍关心中国
 
 在中文社交媒体上，常有人问：“你都在美国住了那么多年了，为什么还老关心中国的事？”这可以从两个层面来解释：一是人性的层面，二是作为中国人的层面。从人性的层面讲，作为一个人，拥有好奇心是正常的。正是好奇心驱动着人类求知，即我们常说的求知欲。缺乏好奇心和求知欲的人，往往给人一种“傻吃迷糊睡，昏昏饿饿，**兴师走骨**（xīng shī zǒu gǔ: 形容人精神萎靡，行动迟缓，像行走的骨架）”的感觉。

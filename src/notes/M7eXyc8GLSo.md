@@ -1,74 +1,74 @@
 ---
-author: a16z
+area: market-analysis
+category: business
+companies_orgs:
+- a16z
+- Regeneron
+- FDA
+- Amplify
+- Genentech
+- Amgen
+- Merck
+- CFDA
+- Stanford University
+- Moderna
+- BioNTech
+- Lilly
+- Novo Nordisk
+- Pfizer
+- Loyal
+- Illumina
+- Nvidia
+- Biogen
+- Vertex
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Where are all the trillion dollar biotechs?
+people:
+- Lada
+- Elliot
+- George Yancopoulos
+- Leonard Schleifer
+- Dan Wang
+- Michael Fischbach
+- Irvin Weissman
+- Carl June
+- Alex Telford
+- John Maraganore
+- Brian Johnson
+products_models:
+- Human Genome Project
+- XBI
+- CAR-T
+- CRISPR
+- GLP-1
+- Lipitor
+- Keytruda
+- Humira
+- Repatha
+- Inclisiran
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=M7eXyc8GLSo
 speaker: a16z
-tags:
-  - drug-development-cost
-  - eroms-law
-  - regulatory-hurdles
-  - new-modalities
-  - longevity-research
-title: 生物科技的残酷真相：为何每款新药20亿美元的成本正在扼杀创新
-summary: 本文深入探讨了生物科技行业面临的严峻挑战。尽管科学技术飞速发展，但“反摩尔定律”（Eroom's Law）效应导致新药研发成本飙升至每款20亿美元。文章分析了日益严格的监管、固化的产业结构以及来自中国的成本与速度竞争等多重困境。同时，也探讨了人工智能（AI）在临床前阶段的潜力、长寿科学作为下一个巨大机遇，并指出未来的突破口在于创造全新的药物“模态”（modalities），而非仅仅追逐新靶点。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Lada
-  - Elliot
-  - George Yancopoulos
-  - Leonard Schleifer
-  - Dan Wang
-  - Michael Fischbach
-  - Irvin Weissman
-  - Carl June
-  - Alex Telford
-  - John Maraganore
-  - Brian Johnson
-companies_orgs:
-  - a16z
-  - Regeneron
-  - FDA
-  - Amplify
-  - Genentech
-  - Amgen
-  - Merck
-  - CFDA
-  - Stanford University
-  - Moderna
-  - BioNTech
-  - Lilly
-  - Novo Nordisk
-  - Pfizer
-  - Loyal
-  - Illumina
-  - Nvidia
-  - Biogen
-  - Vertex
-products_models:
-  - Human Genome Project
-  - XBI
-  - CAR-T
-  - CRISPR
-  - GLP-1
-  - Lipitor
-  - Keytruda
-  - Humira
-  - Repatha
-  - Inclisiran
-media_books:
-  - Where are all the trillion dollar biotechs?
 status: evergreen
+summary: 本文深入探讨了生物科技行业面临的严峻挑战。尽管科学技术飞速发展，但“反摩尔定律”（Eroom's Law）效应导致新药研发成本飙升至每款20亿美元。文章分析了日益严格的监管、固化的产业结构以及来自中国的成本与速度竞争等多重困境。同时，也探讨了人工智能（AI）在临床前阶段的潜力、长寿科学作为下一个巨大机遇，并指出未来的突破口在于创造全新的药物“模态”（modalities），而非仅仅追逐新靶点。
+tags:
+- development
+- law
+- new-modality
+- regulatory
+- research
+title: 生物科技的残酷真相：为何每款新药20亿美元的成本正在扼杀创新
 ---
+
 ### 生物科技行业的现状：冰火两重天
 
 欢迎来到 a16z 播客。今天我们来探讨生物科技的方方面面，首先快速审视一下 2025 年生物科技行业的现状。你们如何看待今天这个行业的状况？科学层面又处于什么状态？

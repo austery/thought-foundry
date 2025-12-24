@@ -1,31 +1,27 @@
 ---
-title: ETF交易原理深度解析：市场价格如何紧密追踪资产净值？
-summary: '**ETF**价格如何追踪**NAV**？**做市商**和**授权参与者**通过套利交易，使**ETF**市场价格准确反映底层资产。'
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - arbitrage
-  - authorized-participant
-  - etf
-  - market-maker
-  - net-asset-value
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-10-24'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=WrlRlfTf-nk
+speaker: 一口新飯
 status: evergreen
+summary: '**ETF**价格如何追踪**NAV**？**做市商**和**授权参与者**通过套利交易，使**ETF**市场价格准确反映底层资产。'
+tags:
+- investment
+- market
+- technology
+- value
+title: ETF交易原理深度解析：市场价格如何紧密追踪资产净值？
 ---
 
 ### ETF市场价格的困惑与核心矛盾

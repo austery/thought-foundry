@@ -1,43 +1,41 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 南昌中院
+- 最高人民法院
+- 江西高院
+- 公安机关
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 裁判文书网
+people:
+- 张玉环
+- 聂树斌
+- 王浩
+- 彭宇
+- 习某某
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=7gTMGB6ZpLk
 speaker: 老周横眉
-tags:
-  - judicial-injustice
-  - procedural-justice
-  - detention-abuse
-  - court-transparency
-  - rule-of-law
-title: 中国司法系统常见问题：从大同订婚案看程序正义缺失、二审低改判率与司法不透明的倒退
-summary: 本文以大同订婚案为切入点，深入剖析了中国司法体系中存在的多个核心问题。内容涵盖了超期羁押的普遍现象及其对嫌疑人身心造成的巨大折磨，程序正义原则的缺失如何导致判决争议，刑事案件二审改判率过低所反映的司法系统内部机制问题，以及长期以来“重口供轻证据”的遗弊。文章最后指出，近年来裁判文书网公开数量锐减，司法透明度出现倒退，这些系统性缺陷严重损害了公众对法治的信任。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - 张玉环
-  - 聂树斌
-  - 王浩
-  - 彭宇
-  - 习某某
-companies_orgs:
-  - 南昌中院
-  - 最高人民法院
-  - 江西高院
-  - 公安机关
-products_models: []
-media_books:
-  - 裁判文书网
 status: evergreen
+summary: 本文以大同订婚案为切入点，深入剖析了中国司法体系中存在的多个核心问题。内容涵盖了超期羁押的普遍现象及其对嫌疑人身心造成的巨大折磨，程序正义原则的缺失如何导致判决争议，刑事案件二审改判率过低所反映的司法系统内部机制问题，以及长期以来“重口供轻证据”的遗弊。文章最后指出，近年来裁判文书网公开数量锐减，司法透明度出现倒退，这些系统性缺陷严重损害了公众对法治的信任。
+tags:
+- geopolitical
+- rule-of-law
+- technology
+title: 中国司法系统常见问题：从大同订婚案看程序正义缺失、二审低改判率与司法不透明的倒退
 ---
+
 想必大家都有这种感受，中国几乎每隔几年就会出现一起引发全社会激烈讨论的案件。从张玉环案、彭宇案、金华鹦鹉案，到2022年的铁链女案，当然还有今年的大同订婚强奸案等等。张玉环曾蒙冤入狱27年；彭宇案则是南京法官王浩那句“不是你撞的你为什么要扶”的拷问，让许多人感到司法不公。这些案件总是让许多人感到疑虑，要么怀疑内部存在黑洞，要么觉得司法系统不公平。上周我曾谈及大同订婚案，但当时我的重点是中国社会传统习俗与现代法律之间的冲突。然而，除了大家已经知道的争议点，大同案也暴露了中国司法系统的一些常见问题。本期节目并非要再次讨论大同订婚案本身，我只是想以此案为引子，向大家讲述中国司法系统中一些经常导致司法不公的问题。
 
 ### 超期羁押与看守所的非人道待遇

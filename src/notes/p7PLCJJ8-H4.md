@@ -1,43 +1,43 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: general
+companies_orgs:
+- Anthropic
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《当我们不再理解世界》
+people:
+- Amanda Askell
+- Benjamin Labatut
+- John Locke
+- Friedrich Nietzsche
+- Michel Foucault
+- Georg Wilhelm Friedrich Hegel
+- Immanuel Kant
+products_models:
+- Claude 3 Opus
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=p7PLCJJ8-H4
 speaker: Best Partners TV
-tags:
-  - ai-ethics
-  - ai-personality
-  - model-welfare
-  - philosophy-of-ai
-  - human-ai-relations
-  - ai-consciousness
-title: AI的灵魂拷问：哲学家如何塑造Claude的性格与道德
-summary: 本文深入探讨了AI伦理与哲学领域的前沿思考，聚焦Anthropic公司哲学家Amanda Askell的观点。文章剖析了为何AI公司需要哲学家，AI性格的涌现与塑造，以及“道德超人”和“模型福祉”等深刻议题。探讨了大陆哲学如何帮助AI避免科学主义，并重塑AI与人类的情感陪伴关系。最终，文章呼吁在AI发展的黑暗摸索中，保持谦卑与善意，重新定义人类与智慧的边界。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Amanda Askell
-  - Benjamin Labatut
-  - John Locke
-  - Friedrich Nietzsche
-  - Michel Foucault
-  - Georg Wilhelm Friedrich Hegel
-  - Immanuel Kant
-companies_orgs:
-  - Anthropic
-products_models:
-  - Claude 3 Opus
-media_books:
-  - 《当我们不再理解世界》
 status: evergreen
+summary: 本文深入探讨了AI伦理与哲学领域的前沿思考，聚焦Anthropic公司哲学家Amanda Askell的观点。文章剖析了为何AI公司需要哲学家，AI性格的涌现与塑造，以及“道德超人”和“模型福祉”等深刻议题。探讨了大陆哲学如何帮助AI避免科学主义，并重塑AI与人类的情感陪伴关系。最终，文章呼吁在AI发展的黑暗摸索中，保持谦卑与善意，重新定义人类与智慧的边界。
+tags:
+- ai-consciousness
+- ai-ethics
+- human
+- llm
+- model
+- philosophy
+title: AI的灵魂拷问：哲学家如何塑造Claude的性格与道德
 ---
+
 ### 引言：AI的形而上学视角
 
 大家好，这里是最佳拍档。今天这期视频，我想带大家从一个非常特别，甚至可以说有点“形而上”（Metaphysical: 超越物理世界，探讨存在、本质、价值等根本问题的哲学分支）的视角，来重新审视我们每天都在使用的人工智能。通常当我们谈论AI的时候，我们谈论的是参数、是算力、是基准测试的跑分。但是今天，我们要把视线从冰冷的服务器机房，移向旧金山那个可以看到金门大桥的海岸边。在那个海风吹拂的长椅上，发生了一场可能定义未来AI“灵魂”的对话。对话的主角是Anthropic公司的核心人物之一，阿曼达·阿斯克尔（Amanda Askell）。但她不是程序员，也不是数学家，她是一名哲学家。是的，你没听错，一家最顶尖的AI公司聘请了一位全职哲学家来塑造他们产品的核心。这听起来像是一个科幻小说的开头，但却是正在发生的现实。而今天，我将带大家拆解这场对话背后，那些关于AI性格、道德、甚至生存权利的深刻思考。

@@ -1,34 +1,32 @@
 ---
-author: TED
+area: tech-work
+category: work-related
+companies_orgs:
+- McKinsey
+- LeanIn.org
+- US Surgeon General
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dr. Jane Dutton
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=kIf8MjwS1Po
 speaker: TED
-tags:
-  - work-connection
-  - remote-work
-  - burnout
-  - employee-engagement
-  - authentic-communication
-title: 工作中的高品质连接：建立更强关系的三个简单方法
-summary: 本讲稿探讨了在工作场所建立高品质连接的重要性，尤其是在远程工作日益普及的背景下。演讲者分享了个人经历和研究发现，指出连接不仅影响工作产出和员工敬业度，还能缓解职业倦怠和孤独感。文章提出了三个核心方法：拓展对话、寻找共同点以及真诚关怀，并强调领导者在营造连接文化中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: work-related
-area: tech-work
-project: []
-people:
-  - Dr. Jane Dutton
-companies_orgs:
-  - McKinsey
-  - LeanIn.org
-  - US Surgeon General
-products_models: []
-media_books: []
 status: evergreen
+summary: 本讲稿探讨了在工作场所建立高品质连接的重要性，尤其是在远程工作日益普及的背景下。演讲者分享了个人经历和研究发现，指出连接不仅影响工作产出和员工敬业度，还能缓解职业倦怠和孤独感。文章提出了三个核心方法：拓展对话、寻找共同点以及真诚关怀，并强调领导者在营造连接文化中的关键作用。
+tags:
+- communication
+- psychology
+- society
+- work
+title: 工作中的高品质连接：建立更强关系的三个简单方法
 ---
+
 ### 初入职场的困惑
 我记得第一次绩效评估前胃里翻腾的感觉，以及大学毕业后第一份工作时的情景。如果说我当时渴望表现，那绝对是轻描淡写了。我拼命工作，不分昼夜。我花几个小时打磨我的PPT，一丝不苟地记会议笔记，从不迟交。正因如此，当我真正收到评估结果时，我感到完全措手不及。我的老板告诉我，我需要改进与客户的连接能力，并与他们建立关系。显然，没有人真正了解我。与客户建立关系？这才是他们关心的？我无法理解，明明我如此努力地交付高质量的工作。
 

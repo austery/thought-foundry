@@ -1,40 +1,41 @@
 ---
-author: KevinFeng 冯凯文
+area: personal-systems
+category: psychology
+companies_orgs:
+- Ted
+- Coupang
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Monash播客
+people:
+- KevinFeng
+- Becky
+- Masashi
+products_models:
+- Omega 3
+- DHA
+- EPA
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=rW3k1hQvT6w
 speaker: KevinFeng 冯凯文
-tags:
-  - english-speaking-anxiety
-  - psychological-barriers
-  - self-doubt
-  - ambition-vs-expectation
-  - positive-reinforcement
-title: 克服英语口语障碍：心理建设与实践公式
-summary: 本文深入探讨了英语学习者在口语表达上常遇到的心理障碍，而非单纯的能力问题。通过分享个人经历、Ted Talk案例及一套三步实践公式，旨在帮助读者重新定义期望、识别并质疑内心批判声音，并在积极环境中建立正向联系，从而真正克服英语口语的心理困境，享受学习过程。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - KevinFeng
-  - Becky
-  - Masashi
-companies_orgs:
-  - Ted
-  - Coupang
-products_models:
-  - Omega 3
-  - DHA
-  - EPA
-media_books:
-  - Monash播客
 status: evergreen
+summary: 本文深入探讨了英语学习者在口语表达上常遇到的心理障碍，而非单纯的能力问题。通过分享个人经历、Ted Talk案例及一套三步实践公式，旨在帮助读者重新定义期望、识别并质疑内心批判声音，并在积极环境中建立正向联系，从而真正克服英语口语的心理困境，享受学习过程。
+tags:
+- ambition-vs-expectation
+- anxiety
+- self
+- society
+title: 克服英语口语障碍：心理建设与实践公式
+companies:
+- psychological-barrier
 ---
+
 ### 克服英语口语障碍：心理建设是关键
 
 今天我们要探讨一个许多人都有的共同困扰：学习英语十几年，却依然不敢开口，或者一开口就感到极度紧张。如何解决这个问题？我认为这并非完全是英语能力的问题，更多的是一种心理障碍。因此，今天我将分享两个故事和一套公式，希望能帮助大家真正开始克服这种不敢开口、开口就紧张的焦虑。

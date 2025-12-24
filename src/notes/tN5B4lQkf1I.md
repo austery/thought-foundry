@@ -1,95 +1,96 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Google
+- Microsoft
+- Apple
+- Amazon
+- Meta
+- Tesla
+- OpenAI
+- Anthropic
+- Saudi Arabia
+- White House
+- The Fed
+- Brookfield
+- Kuwait Investment Authority
+- Target
+- Block
+- Palantir
+- Robin Hood
+- Coinbase
+- Berkshire Hathaway
+- Constellation Energy Group
+- Oklo
+- MP Materials
+- Broadcom
+- AMD
+- JP Morgan
+- Goldman Sachs
+- XAI
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Washington Post
+- Bloomberg
+- CNBC
+people:
+- Jensen Huang
+- Elon Musk
+- Donald Trump
+- Muhammad bin Salman
+- Tim Cook
+- Sam Altman
+- Sundar Pichai
+- Jerome Powell
+- Michael Burry
+- Aswath Damodaran
+- Larry Summers
+- David Sacks
+- Greg Brockman
+- Bill Ackman
+- Cristiano Ronaldo
+- Alex Karp
+- Brian Armstrong
+- Mark Zuckerberg
+- Satya Nadella
+- Lisa Su
+products_models:
+- Gemini 3
+- TPU
+- GPT-5
+- Claude
+- Grok
+- Blackwell
+- Azure
+- FSD
+- Bitcoin
+- Ethereum
+- Omniverse
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=tN5B4lQkf1I
 speaker: Amit Kukreja
-tags:
-  - ai-bubble-debate
-  - circular-financing
-  - data-center-infrastructure
-  - market-sentiment
-  - earnings-expectations
-title: 英伟达财报日：白宫晚宴、沙特万亿投资与谷歌Gemini 3震撼发布
-summary: 在英伟达财报发布的关键节点，市场情绪复杂。本文深入探讨了财报前的市场动态，包括英伟达与沙特、博枫等达成的重磅交易。同时，一场聚集了科技巨头CEO与沙特王储的白宫晚宴揭示了万亿美元的投资承诺，为AI基础设施建设注入强心剂。谷歌Gemini 3的惊艳表现，不仅提振了市场对AI的信心，也引发了关于“AI泡沫”和“循环融资”模式的激烈辩论。文章全面解析了这些事件如何共同塑造当前的市场情绪与未来预期。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Jensen Huang
-  - Elon Musk
-  - Donald Trump
-  - Muhammad bin Salman
-  - Tim Cook
-  - Sam Altman
-  - Sundar Pichai
-  - Jerome Powell
-  - Michael Burry
-  - Aswath Damodaran
-  - Larry Summers
-  - David Sacks
-  - Greg Brockman
-  - Bill Ackman
-  - Cristiano Ronaldo
-  - Alex Karp
-  - Brian Armstrong
-  - Mark Zuckerberg
-  - Satya Nadella
-  - Lisa Su
-companies_orgs:
-  - Nvidia
-  - Google
-  - Microsoft
-  - Apple
-  - Amazon
-  - Meta
-  - Tesla
-  - OpenAI
-  - Anthropic
-  - Saudi Arabia
-  - White House
-  - The Fed
-  - Brookfield
-  - Kuwait Investment Authority
-  - Target
-  - Block
-  - Palantir
-  - Robin Hood
-  - Coinbase
-  - Berkshire Hathaway
-  - Constellation Energy Group
-  - Oklo
-  - MP Materials
-  - Broadcom
-  - AMD
-  - JP Morgan
-  - Goldman Sachs
-  - XAI
-products_models:
-  - Gemini 3
-  - TPU
-  - GPT-5
-  - Claude
-  - Grok
-  - Blackwell
-  - Azure
-  - FSD
-  - Bitcoin
-  - Ethereum
-  - Omniverse
-media_books:
-  - The Washington Post
-  - Bloomberg
-  - CNBC
 status: evergreen
+summary: 在英伟达财报发布的关键节点，市场情绪复杂。本文深入探讨了财报前的市场动态，包括英伟达与沙特、博枫等达成的重磅交易。同时，一场聚集了科技巨头CEO与沙特王储的白宫晚宴揭示了万亿美元的投资承诺，为AI基础设施建设注入强心剂。谷歌Gemini
+  3的惊艳表现，不仅提振了市场对AI的信心，也引发了关于“AI泡沫”和“循环融资”模式的激烈辩论。文章全面解析了这些事件如何共同塑造当前的市场情绪与未来预期。
+tags:
+- ai-bubble-debate
+- circular-financing
+- data-center-infrastructure
+- market-sentiment
+- technology
+title: 英伟达财报日：白宫晚宴、沙特万亿投资与谷歌Gemini 3震撼发布
 ---
+
 ### 英伟达财报日来临，市场盘前普涨
 
 大家早上好，欢迎回到“市场开盘”直播。今天正式是英伟达的财报日，因此市场动态非常丰富。值得高兴的是，我们看到了一个普涨的盘前市场，英伟达自身也呈现绿色。

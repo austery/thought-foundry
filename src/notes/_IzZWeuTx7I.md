@@ -1,43 +1,42 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Prime Intellect
+- OpenAI
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Cursor Composer
+- Codeex
+- Qwen 3 4B
+- GPT-4.1
+- GBD5 mini
+- Intellect 3
+- Primaril
+- Verifiers
+- Lab
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=_IzZWeuTx7I
 speaker: AI Engineer
-tags:
-  - ai-research-accessibility
-  - rl-environments
-  - open-source-ai
-  - model-customization
-  - community-building
-title: Prime Intellect：通过开放式RL环境和工具提升AI研究的可及性
-summary: 本文探讨了AI研究中“规模化”的深层含义，超越了单纯的计算资源投入。Prime Intellect旨在通过构建开放式强化学习（RL）环境和工具，降低AI研究的门槛，让更多人能够参与到模型训练和优化中。文章将“环境”比作AI研究的“网络应用”，强调其在模型定制、评估和合成数据生成中的关键作用，并介绍了Prime Intellect的“环境中心”和“verifiers”库，以及即将推出的“lab”平台，以推动AI研究的社区化和可访问性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people: []
-companies_orgs:
-  - Prime Intellect
-  - OpenAI
-products_models:
-  - Cursor Composer
-  - Codeex
-  - Qwen 3 4B
-  - GPT-4.1
-  - GBD5 mini
-  - Intellect 3
-  - Primaril
-  - Verifiers
-  - Lab
-media_books: []
 status: evergreen
+summary: 本文探讨了AI研究中“规模化”的深层含义，超越了单纯的计算资源投入。Prime Intellect旨在通过构建开放式强化学习（RL）环境和工具，降低AI研究的门槛，让更多人能够参与到模型训练和优化中。文章将“环境”比作AI研究的“网络应用”，强调其在模型定制、评估和合成数据生成中的关键作用，并介绍了Prime
+  Intellect的“环境中心”和“verifiers”库，以及即将推出的“lab”平台，以推动AI研究的社区化和可访问性。
+tags:
+- community-building
+- model
+- open-source-ai
+- research
+- society
+title: Prime Intellect：通过开放式RL环境和工具提升AI研究的可及性
 ---
+
 ### 规模化AI研究的深层含义
 
 今天，我们来谈谈**强化学习**（RL: Reinforcement Learning，一种机器学习方法，通过智能体与环境的交互来学习最优行为）环境及其规模化。

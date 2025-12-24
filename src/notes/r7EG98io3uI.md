@@ -1,47 +1,47 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2024-05-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伦理学》
+- 《神学政治论》
+- 《利维坦》
+- 《圣经》
+people:
+- 斯宾诺莎
+- Socrates
+- Leibniz
+- Hobbes
+- Moses
+- Jesus
+- Muhammad
+- Paul
+- Sam Harris
+- Kolbage
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=r7EG98io3uI
 speaker: 超級歪 SuperY
-tags:
-  - freedom-of-thought
-  - religious-critique
-  - state-formation
-  - political-philosophy
-  - social-control
-title: 斯宾诺莎《神学政治论》：揭露奴役的心理机制与思想自由的辩护
-summary: 本视频深入探讨了斯宾诺莎的《神学政治论》，揭示了宗教权力如何通过操控情感和制造迷信来奴役人心。文章批判了人格神、先知和神迹等概念，阐释了法律与国家的真正起源，并强力捍卫了思想和言论自由。斯宾诺莎的洞见不仅挑战了17世纪的宗教权威，也为现代世俗政府和启蒙运动奠定了基础，旨在帮助人们摆脱恐惧与无知，获得真正的自由。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - 斯宾诺莎
-  - Socrates
-  - Leibniz
-  - Hobbes
-  - Moses
-  - Jesus
-  - Muhammad
-  - Paul
-  - Sam Harris
-  - Kolbage
-companies_orgs: []
-products_models: []
-media_books:
-  - 《伦理学》
-  - 《神学政治论》
-  - 《利维坦》
-  - 《圣经》
 status: evergreen
+summary: 本视频深入探讨了斯宾诺莎的《神学政治论》，揭示了宗教权力如何通过操控情感和制造迷信来奴役人心。文章批判了人格神、先知和神迹等概念，阐释了法律与国家的真正起源，并强力捍卫了思想和言论自由。斯宾诺莎的洞见不仅挑战了17世纪的宗教权威，也为现代世俗政府和启蒙运动奠定了基础，旨在帮助人们摆脱恐惧与无知，获得真正的自由。
+tags:
+- critique
+- freedom
+- political-philosophy
+- social-control
+- state
+title: 斯宾诺莎《神学政治论》：揭露奴役的心理机制与思想自由的辩护
 ---
+
 ### 引言：斯宾诺莎与《神学政治论》
 
 哲学令人愉悦，每一集都带你认识一位哲学家。上一期我们介绍了**斯宾诺莎**（Baruch Spinoza: 17世纪荷兰哲学家，理性主义代表人物）的《伦理学》，本期则将深入探讨他的政治哲学著作——**《神学政治论》**（Tractatus Theologico-Politicus: 斯宾诺莎于1670年出版的政治哲学著作）。这本书旨在探讨人类如何挣脱社会束缚，获得真正的自由。

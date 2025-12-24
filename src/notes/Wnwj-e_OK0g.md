@@ -1,41 +1,39 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: business
+companies_orgs:
+- 比亚迪
+- 特斯拉
+- 奇瑞
+- 国金证券
+- 欧盟
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 王传福
+products_models:
+- N9
+project:
+- china-analysis
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Wnwj-e_OK0g
 speaker: 小翠時政財經
-tags:
-  - byd-financial-report
-  - electric-vehicle-market
-  - corporate-strategy
-  - profit-margins
-  - inventory-management
-  - geopolitical-risk
-title: 比亚迪深陷困境：财报揭示利润下滑、库存激增与扩张风险
-summary: 比亚迪最新财报显示，其第三季度营收同比下降3.05%，归母净利润同比下降32.6%，利润跌幅远超营收。文章深入分析了比亚迪销量下滑、单车利润承压、库存与在建工程激增等问题。尽管海外销量增长，但难以弥补国内市场份额的流失。作者指出，比亚迪的激进扩张和研发投入未能带来品牌溢价，并面临品牌溢价、软件服务、地缘政治风险、二手车残值及能源业务转型五大核心挑战，认为其未来充满不确定性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - china-analysis
-  - market-cycles
-  - geopolitics-watch
-people:
-  - 王传福
-companies_orgs:
-  - 比亚迪
-  - 特斯拉
-  - 奇瑞
-  - 国金证券
-  - 欧盟
-products_models:
-  - N9
-media_books: []
 status: evergreen
+summary: 比亚迪最新财报显示，其第三季度营收同比下降3.05%，归母净利润同比下降32.6%，利润跌幅远超营收。文章深入分析了比亚迪销量下滑、单车利润承压、库存与在建工程激增等问题。尽管海外销量增长，但难以弥补国内市场份额的流失。作者指出，比亚迪的激进扩张和研发投入未能带来品牌溢价，并面临品牌溢价、软件服务、地缘政治风险、二手车残值及能源业务转型五大核心挑战，认为其未来充满不确定性。
+tags:
+- corporate-strategy
+- electric-vehicle-market
+- financial
+- geopolitical-risk
+- management
+title: 比亚迪深陷困境：财报揭示利润下滑、库存激增与扩张风险
 ---
+
 作为长期唱衰比亚迪的海外观察者，我一直受到国内各路支持者的批评。然而，如果审视比亚迪刚刚发布的三季度财报，便不难理解为何今年中国股市表现良好，比亚迪股价却停滞不前。本文将深入解读比亚迪的这份财报，相信读者会认同比亚迪正面临严峻挑战，其未来发展存在诸多不确定性。
 
 ### 财报数据：营收与利润双双承压

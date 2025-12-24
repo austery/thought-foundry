@@ -1,48 +1,47 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Stanford Management Company
+- Yale
+- ELA Advisors
+- The Children's Investment Fund
+- American Ballet Theater
+- Metropolitan Opera House
+- Google
 date: '2025-08-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicolola Tangan
+- Rob Wallace
+- David Swenson
+- Chris Han
+- Dean Takahashi
+- Mikhail Baryshnikov
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=NAGBpbOgPig
 speaker: Norges Bank Investment Management
-tags:
-  - endowment-management
-  - investment-philosophy
-  - private-equity
-  - venture-capital
-  - team-building
-  - innovation-ecosystem
-title: 斯坦福捐赠基金掌舵人罗布·华莱士：投资哲学的纪律、创新与人才培养
-summary: 斯坦福管理公司总裁兼首席执行官罗布·华莱士分享了斯坦福大学400亿美元捐赠基金的投资策略。他强调了长期目标、权益偏向的资产配置、从戴维·斯文森学习到的“第一性原理”思维，以及在私募股权和风险投资中精选合作伙伴的重要性。华莱士还深入探讨了研究型大学在创新生态系统中的关键作用，并分享了他从芭蕾舞者转型为首席投资官的独特职业历程，强调了纪律、激情和团队合作在投资领域的价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - us-analysis
-people:
-  - Nicolola Tangan
-  - Rob Wallace
-  - David Swenson
-  - Chris Han
-  - Dean Takahashi
-  - Mikhail Baryshnikov
-companies_orgs:
-  - Norges Bank Investment Management
-  - Stanford Management Company
-  - Yale
-  - ELA Advisors
-  - The Children's Investment Fund
-  - American Ballet Theater
-  - Metropolitan Opera House
-  - Google
-products_models: []
-media_books: []
 status: evergreen
+summary: 斯坦福管理公司总裁兼首席执行官罗布·华莱士分享了斯坦福大学400亿美元捐赠基金的投资策略。他强调了长期目标、权益偏向的资产配置、从戴维·斯文森学习到的“第一性原理”思维，以及在私募股权和风险投资中精选合作伙伴的重要性。华莱士还深入探讨了研究型大学在创新生态系统中的关键作用，并分享了他从芭蕾舞者转型为首席投资官的独特职业历程，强调了纪律、激情和团队合作在投资领域的价值。
+tags:
+- innovation
+- investment-philosophy
+- life
+- management
+- private-equity
+- venture-capital
+title: 斯坦福捐赠基金掌舵人罗布·华莱士：投资哲学的纪律、创新与人才培养
 ---
+
 ### 斯坦福捐赠基金的核心投资哲学
 
 大家好，我是挪威主权财富基金（Norges Bank Investment Management）的首席执行官尼古拉·坦根（Nicolola Tangan），今天我非常荣幸能与罗布·华莱士（Rob Wallace）共度时光，他在机构投资领域建立了最令人印象深刻的职业生涯之一。

@@ -1,48 +1,47 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- TVO Today
+- Queen's University
+- National Institutes of Health
+- Cypress Hill
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- (MIS)Treated
+- Big Little Lies
+people:
+- Nam Kiwanuka
+- Dr. Michelle Cohen
+- Sheryl Crow
+- Salt 'n' Pepa
+- Meatloaf
+- Rudolf Virchow
+- Nicole Kidman
+- Donald Trump
+products_models:
+- Thalidomide
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=HBlZG5SV3f0
 speaker: TVO Today
-tags:
-  - women-health
-  - clinical-trials
-  - gender-bias
-  - medical-research
-  - healthcare-equity
-title: 女性为何长期被排除在临床试验之外？
-summary: 本期节目深入探讨了女性长期被排除在临床试验之外的历史原因及其深远影响。直到1993年，美国才立法要求将女性纳入临床试验，而加拿大则推迟到1997年。这种排斥导致了对女性身体和疾病认知的系统性不足，造成了巨大的医疗性别差距，例如女性更容易出现药物不良反应、心脏病管理不足以及诊断延迟。节目还讨论了将男性身体视为“默认标准”、对女性荷尔蒙和怀孕的担忧等历史偏见，以及当前女性健康研究资金不足、女性在医疗领导层中代表性不足等持续挑战。最后，嘉宾呼吁社会将女性健康视为优先事项，并为女性提供更好的医疗导航支持。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Nam Kiwanuka
-  - Dr. Michelle Cohen
-  - Sheryl Crow
-  - Salt 'n' Pepa
-  - Meatloaf
-  - Rudolf Virchow
-  - Nicole Kidman
-  - Donald Trump
-companies_orgs:
-  - TVO Today
-  - Queen's University
-  - National Institutes of Health
-  - Cypress Hill
-products_models:
-  - Thalidomide
-media_books:
-  - (MIS)Treated
-  - Big Little Lies
 status: evergreen
+summary: 本期节目深入探讨了女性长期被排除在临床试验之外的历史原因及其深远影响。直到1993年，美国才立法要求将女性纳入临床试验，而加拿大则推迟到1997年。这种排斥导致了对女性身体和疾病认知的系统性不足，造成了巨大的医疗性别差距，例如女性更容易出现药物不良反应、心脏病管理不足以及诊断延迟。节目还讨论了将男性身体视为“默认标准”、对女性荷尔蒙和怀孕的担忧等历史偏见，以及当前女性健康研究资金不足、女性在医疗领导层中代表性不足等持续挑战。最后，嘉宾呼吁社会将女性健康视为优先事项，并为女性提供更好的医疗导航支持。
+tags:
+- bias
+- health
+- investment
+- medical-research
+title: 女性为何长期被排除在临床试验之外？
 ---
+
 ### 临床试验中的性别排斥：一段被忽视的历史
 
 您正在收听《(MIS)Treated》节目，我是Nam Kiwanuka。

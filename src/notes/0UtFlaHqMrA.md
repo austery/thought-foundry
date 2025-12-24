@@ -1,64 +1,63 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Virginia Company of London
 date: '2024-01-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《民主的擂台》
+- 《麦地那宪章》
+- 《尚书》
+- 《中华民国临时约法》
+people:
+- David Stasavage
+- Cleisthenes
+- Alexander the Great
+- Joseph G. Jorgensen
+- Lewis Henry Morgan
+- Muhammad
+- Jean-Baptiste Colbert
+- Louis XIV
+- Robert Kaniro
+- King Edward I
+- Aristotle
+- Pan Geng
+- Mencius
+- Lu Weiyi
+- Philip IV
+- Liu Mingchuan
+- Mao Zedong
+- Michael Albertus
+- Jacob Hariri
+- Edwyn Sandys
+- Washington
+- Jefferson
+- Edmund Morgan
+- Elbridge Gerry
+- James Madison
+- John Taylor
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=0UtFlaHqMrA
 speaker: 超級歪 SuperY
-tags:
-  - democracy-origins
-  - authoritarianism
-  - state-power
-  - early-democracy
-  - modern-democracy-critique
-title: 颠覆传统认知：民主的全球起源与现代民主的挑战
-summary: 本文基于戴维·斯塔萨维奇的《民主的擂台》，探讨了民主起源的非欧洲中心论，揭示了全球各地早期民主的普遍存在。文章分析了国家权力薄弱、民众流动性高、统治者依赖民众等民主发展的关键条件，并对比了欧洲和中国走向不同政治道路的历史原因。同时，文章深入批判了现代民主（如全权委任、议会至上）的内在缺陷，并以美国和台湾的民主历程为例，呼吁回归早期民主的某些实践，以实现更深层次的民众参与。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - David Stasavage
-  - Cleisthenes
-  - Alexander the Great
-  - Joseph G. Jorgensen
-  - Lewis Henry Morgan
-  - Muhammad
-  - Jean-Baptiste Colbert
-  - Louis XIV
-  - Robert Kaniro
-  - King Edward I
-  - Aristotle
-  - Pan Geng
-  - Mencius
-  - Lu Weiyi
-  - Philip IV
-  - Liu Mingchuan
-  - Mao Zedong
-  - Michael Albertus
-  - Jacob Hariri
-  - Edwyn Sandys
-  - Washington
-  - Jefferson
-  - Edmund Morgan
-  - Elbridge Gerry
-  - James Madison
-  - John Taylor
-companies_orgs:
-  - Virginia Company of London
-products_models: []
-media_books:
-  - 《民主的擂台》
-  - 《麦地那宪章》
-  - 《尚书》
-  - 《中华民国临时约法》
 status: evergreen
+summary: 本文基于戴维·斯塔萨维奇的《民主的擂台》，探讨了民主起源的非欧洲中心论，揭示了全球各地早期民主的普遍存在。文章分析了国家权力薄弱、民众流动性高、统治者依赖民众等民主发展的关键条件，并对比了欧洲和中国走向不同政治道路的历史原因。同时，文章深入批判了现代民主（如全权委任、议会至上）的内在缺陷，并以美国和台湾的民主历程为例，呼吁回归早期民主的某些实践，以实现更深层次的民众参与。
+tags:
+- authoritarianism
+- critique
+- geopolitical
+- power
+title: 颠覆传统认知：民主的全球起源与现代民主的挑战
 ---
+
 ### 重新审视民主的起源：挑战欧洲中心论
 
 台湾的总统大选即将到来，我们成长于民主制度下，常常将民主选举视为理所当然。然而，许多人并不真正了解民主的原始含义是什么？民主制度又是如何产生的？今天我们将探讨戴维·斯塔萨维奇所著的《民主的擂台》一书，它将带我们回顾民主的千年历史。

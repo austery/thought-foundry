@@ -1,126 +1,125 @@
 ---
-author: Amit Kukreja
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=1YB-ccTHhRk'
-speaker: Amit Kukreja
-tags:
-  - earnings-season
-  - market-reaction
-  - capital-expenditure
-  - us-china-relations
-  - monetary-policy
-title: 市场深度解读：中美达成初步协议，科技巨头财报震撼市场
-summary: 本周市场风云变幻，尽管中美领导人会晤并宣布达成初步协议，但由于缺乏正式签署文件，市场反应谨慎，盘前普遍走低。科技巨头财报成为焦点：Meta因一次性巨额税费和激进的资本支出计划导致股价大跌，而谷歌则凭借完美的季度表现逆市上扬。美联储如期降息25个基点，但市场已充分定价。文章深入剖析了各大公司财报细节、中美协议的实际影响以及当前市场情绪背后的复杂逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Jerome Powell
-  - Mark Zuckerberg
-  - Sundar Pichai
-  - Elon Musk
-  - Michael Burry
-  - Larry Fink
-  - Jim Chanos
-  - Ed Yardeni
-  - Gene Munster
-  - Lisa Su
-  - Larry Ellison
-  - Scott Bessant
-  - Susan Lee
-  - Jensen Huang
-  - Vlad Tenev
-  - Tom Lee
-  - Bill Ackman
+area: finance-wealth
+category: macro-economy
 companies_orgs:
-  - Meta
-  - Microsoft
-  - Google
-  - Palantir
-  - Nvidia
-  - Robinhood
-  - Tesla
-  - S&P 500
-  - Federal Reserve
-  - Bank of America
-  - Rosenblat
-  - Reality Labs
-  - Amazon
-  - Apple
-  - OpenAI
-  - Reuters
-  - Goldman Sachs
-  - European Central Bank
-  - Bank of Canada
-  - Mastercard
-  - Roblox
-  - Crocs
-  - Hershey's
-  - Estee Lauder
-  - Eli Lilly
-  - Merck
-  - Bristol Myers Squib
-  - Mercado Libre
-  - Chipotle
-  - McDonald's
-  - Starbucks
-  - BlackRock
-  - Oracle
-  - Duolingo
-  - PayPal
-  - DOJ
-  - SoFi
-  - AMD
-  - Salesforce
-  - Intel
-  - Disney
-  - ASML
-  - Lam Research
-  - TikTok
-  - Whole Foods
-  - Universal Music Group
-  - UDIO
-  - Big Bear AI
-  - Perimeter Solutions
-  - Redcat
-  - S&P Global
-  - Carvana
-  - eBay
-  - UnitedHealth
-  - Snowflake
-  - Core Scientific
-  - CoreWeave
-  - Fiserv
-  - Sprouts Farmers Market
-  - Goto
-  - IBM
-  - Adobe
-products_models:
-  - Air Force One
-  - Gemini
-  - Llama
-  - Waymo
-  - Azure
-  - Blackwell
-  - iPhone 17
-  - Starlink
-  - AIP
-  - IBIT
+- Meta
+- Microsoft
+- Google
+- Palantir
+- Nvidia
+- Robinhood
+- Tesla
+- S&P 500
+- Federal Reserve
+- Bank of America
+- Rosenblat
+- Reality Labs
+- Amazon
+- Apple
+- OpenAI
+- Reuters
+- Goldman Sachs
+- European Central Bank
+- Bank of Canada
+- Mastercard
+- Roblox
+- Crocs
+- Hershey's
+- Estee Lauder
+- Eli Lilly
+- Merck
+- Bristol Myers Squib
+- Mercado Libre
+- Chipotle
+- McDonald's
+- Starbucks
+- BlackRock
+- Oracle
+- Duolingo
+- PayPal
+- DOJ
+- SoFi
+- AMD
+- Salesforce
+- Intel
+- Disney
+- ASML
+- Lam Research
+- TikTok
+- Whole Foods
+- Universal Music Group
+- UDIO
+- Big Bear AI
+- Perimeter Solutions
+- Redcat
+- S&P Global
+- Carvana
+- eBay
+- UnitedHealth
+- Snowflake
+- Core Scientific
+- CoreWeave
+- Fiserv
+- Sprouts Farmers Market
+- Goto
+- IBM
+- Adobe
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Wall Street Journal
-  - School of Hard Knocks
+- The Wall Street Journal
+- School of Hard Knocks
+people:
+- Donald Trump
+- Xi Jinping
+- Jerome Powell
+- Mark Zuckerberg
+- Sundar Pichai
+- Elon Musk
+- Michael Burry
+- Larry Fink
+- Jim Chanos
+- Ed Yardeni
+- Gene Munster
+- Lisa Su
+- Larry Ellison
+- Scott Bessant
+- Susan Lee
+- Jensen Huang
+- Vlad Tenev
+- Tom Lee
+- Bill Ackman
+products_models:
+- Air Force One
+- Gemini
+- Llama
+- Waymo
+- Azure
+- Blackwell
+- iPhone 17
+- Starlink
+- AIP
+- IBIT
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
+source: https://www.youtube.com/watch?v=1YB-ccTHhRk
+speaker: Amit Kukreja
 status: evergreen
+summary: 本周市场风云变幻，尽管中美领导人会晤并宣布达成初步协议，但由于缺乏正式签署文件，市场反应谨慎，盘前普遍走低。科技巨头财报成为焦点：Meta因一次性巨额税费和激进的资本支出计划导致股价大跌，而谷歌则凭借完美的季度表现逆市上扬。美联储如期降息25个基点，但市场已充分定价。文章深入剖析了各大公司财报细节、中美协议的实际影响以及当前市场情绪背后的复杂逻辑。
+tags:
+- capital-expenditure
+- earnings-season
+- market-reaction
+- us-china-relations
+title: 市场深度解读：中美达成初步协议，科技巨头财报震撼市场
 ---
+
 ### 市场开盘概览：多重因素交织的一周
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是 10 月 30 日，星期四，上午 8:47。这周真是疯狂，很难相信今天才周四。但昨天无疑是 2025 年股市中最重要的日子之一，我们有很多内容要讨论。

@@ -1,45 +1,45 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: culture
+companies_orgs:
+- 加州大学
+- 加州大学河滨分校
+- Fire
 date: '2025-01-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《洛杉矶时报》
+- 《华尔街日报》
+people:
+- 林培瑞
+- 方立芝
+- 刘晓波
+- 奥巴马
+- 彭德怀
+- 威尔科克斯
+- 柴静
+products_models: []
+project:
+- us-analysis
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=puMZRacbg8w
 speaker: 柴静 Chai Jing
-tags:
-  - dei-policy
-  - academic-freedom
-  - self-censorship
-  - political-correctness
-  - institutional-critique
-title: 林培瑞谈美国大学的“思想审查”：DEI机制与自我审查的困境
-summary: 著名汉学家林培瑞教授因对大学DEI政策的质疑，被校方认定言论涉嫌种族歧视并受到处罚。他将此事件与文革期间的知识分子遭遇进行对比，揭示了DEI机制在实践中可能导致的“思想审查”、语言游戏和自我审查现象，呼吁对制度进行反思，而非简单放弃其核心价值。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - cultural-critique
-people:
-  - 林培瑞
-  - 方立芝
-  - 刘晓波
-  - 奥巴马
-  - 彭德怀
-  - 威尔科克斯
-  - 柴静
-companies_orgs:
-  - 加州大学
-  - 加州大学河滨分校
-  - Fire
-products_models: []
-media_books:
-  - 《洛杉矶时报》
-  - 《华尔街日报》
 status: evergreen
+summary: 著名汉学家林培瑞教授因对大学DEI政策的质疑，被校方认定言论涉嫌种族歧视并受到处罚。他将此事件与文革期间的知识分子遭遇进行对比，揭示了DEI机制在实践中可能导致的“思想审查”、语言游戏和自我审查现象，呼吁对制度进行反思，而非简单放弃其核心价值。
+tags:
+- critique
+- freedom
+- policy
+- political-correctness
+- self
+title: 林培瑞谈美国大学的“思想审查”：DEI机制与自我审查的困境
 ---
+
 ### 汉学家林培瑞的“思想审查”风波
 
 著名汉学家林培瑞教授，在西方世界享有盛誉，曾因在天安门事件后帮助方立芝进入美国大使馆，并支持刘晓波的写作，一向被海外舆论称作人权捍卫者。然而，在79岁高龄时，他却意外地被自己所在的大学认定发表了种族歧视言论，并因此受到了处罚。

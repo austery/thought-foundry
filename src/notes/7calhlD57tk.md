@@ -1,36 +1,36 @@
 ---
-author: 知行小酒馆
+area: knowledge-meta
+category: career-development
+companies_orgs:
+- 读库
+- 有志有型
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《投资第一课》
+- 《海德堡与斯》
+people:
+- 张立宪
+- 孟岩
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=7calhlD57tk
 speaker: 知行小酒馆
-tags:
-  - publishing
-  - entrepreneurship
-  - business-strategy
-  - reading-culture
-title: E217 孟岩对话张立宪：在不确定的时代，体面地把一件事做下去
-summary: 本期节目是“知行小酒馆”对读库主编**张立宪**的专访，恰逢读库成立20周年。对话围绕在数字化浪潮下，一家以纸质书为核心的出版机构如何面对**结构性困境**，以及掌舵者如何做出选择展开。张立宪分享了他从个人职业选择到创办读库的历程，强调了商业伦理、**刚性兑付**的重要性，以及在变化莫测的时代中，保持初心、体面地做事的价值。他认为，真正的成功在于坚持原则，并对阅读的未来和出版业的韧性表达了乐观态度。
-insight: ''
-draft: true
-series: ''
-category: career-development
-area: knowledge-meta
-project:
-  - ai-impact-analysis
-people:
-  - 张立宪
-  - 孟岩
-companies_orgs:
-  - 读库
-  - 有志有型
-products_models: []
-media_books:
-  - 《投资第一课》
-  - 《海德堡与斯》
 status: evergreen
+summary: 本期节目是“知行小酒馆”对读库主编**张立宪**的专访，恰逢读库成立20周年。对话围绕在数字化浪潮下，一家以纸质书为核心的出版机构如何面对**结构性困境**，以及掌舵者如何做出选择展开。张立宪分享了他从个人职业选择到创办读库的历程，强调了商业伦理、**刚性兑付**的重要性，以及在变化莫测的时代中，保持初心、体面地做事的价值。他认为，真正的成功在于坚持原则，并对阅读的未来和出版业的韧性表达了乐观态度。
+tags:
+- business-strategy
+- culture
+- entrepreneurship
+- publishing
+title: E217 孟岩对话张立宪：在不确定的时代，体面地把一件事做下去
 ---
+
 ### 开场与缘起
 
 。 hello ,大家好，欢迎来到**有志有型**出品的播客节目“知行小酒馆”。我们关注投资，也关注如何更好的生活。我是**梦言**。很久没有来到小酒馆当主播了，今天有些开心，也有些紧张。今天这一期节目的嘉宾是有志有型的老朋友，**读库**的主编**老六**。两年多前，借着《投资第一课》出版的机缘，我和老六聊过一次播客，谈了人生中的一些**结构性困境**。在那次聊天之后，有些问题我一直没有答案，但没有去追问。这次在两年多后，借着读库20年的节点，我们又坐下来聊了聊。我一直非常好奇一个问题：在一个纸质书甚至读书都变得越来越不重要的年代，去维持一家以编辑、发行、销售纸质书为核心的机构，算不算是一种结构性的困境？作为这家机构的掌舵人，如何在这样的困境中做出选择？对我来说，人为什么在不同情境下会做出不同选择？这些选择往往比语言更能说明一个人是谁。希望这期节目能给你些许启发。

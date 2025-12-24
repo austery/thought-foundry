@@ -1,56 +1,55 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 猫扑大杂烩
+- ABC
+- 太子集团
+- 中石化
+- 新浪微博
 date: '2025-05-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《V字仇杀队》
+- 《泰坦尼克号》
+- 《权力与游戏》
+people:
+- 变态辣椒
+- 吴雷
+- Xi Jinping
+- 胡锦涛
+- 毛新宇
+- 刘翔
+- 江泽民
+- 李鹏
+- 温家宝
+- 金正日
+- 金正恩
+- 奥巴马
+- 艾未未
+- 小杨
+- Edwin Yin Ke
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=f6S1Xe29qRU
 speaker: 东京人文论坛
-tags:
-  - political-cartooning
-  - chinese-censorship
-  - political-satire
-  - state-security
-  - exile-experience
-title: 变态辣椒：一个反动漫画家的诞生与流亡前的创作回顾
-summary: 知名政治漫画家变态辣椒回顾其创作生涯，重点展示2010年至2013年流亡前在中国创作的早期作品。他分享了对自我审查记忆的偏差，揭露了当时大胆讽刺中国政治体制、领导人及社会问题的漫画。文章还涉及他首次被国安“喝茶”的经历，以及流亡后遭遇的欺诈与潜在绑架威胁，深刻展现了政治漫画家所面临的风险与心理创伤。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 变态辣椒
-  - 吴雷
-  - 习近平
-  - 胡锦涛
-  - 毛新宇
-  - 刘翔
-  - 江泽民
-  - 李鹏
-  - 温家宝
-  - 金正日
-  - 金正恩
-  - 奥巴马
-  - 艾未未
-  - 小杨
-  - Edwin Yin Ke
-companies_orgs:
-  - 猫扑大杂烩
-  - ABC
-  - 太子集团
-  - 中石化
-  - 新浪微博
-products_models: []
-media_books:
-  - 《V字仇杀队》
-  - 《泰坦尼克号》
-  - 《权力与游戏》
 status: evergreen
+summary: 知名政治漫画家变态辣椒回顾其创作生涯，重点展示2010年至2013年流亡前在中国创作的早期作品。他分享了对自我审查记忆的偏差，揭露了当时大胆讽刺中国政治体制、领导人及社会问题的漫画。文章还涉及他首次被国安“喝茶”的经历，以及流亡后遭遇的欺诈与潜在绑架威胁，深刻展现了政治漫画家所面临的风险与心理创伤。
+tags:
+- chinese
+- experience
+- political
+- state
+title: 变态辣椒：一个反动漫画家的诞生与流亡前的创作回顾
 ---
+
 ### 引言：回顾与主题介绍
 
 今天，我打算分两部分介绍我的创作历程。通常我会介绍比较新的漫画，但这次应吴雷老师的建议，我决定回顾自己是如何走到今天的。为此，我翻阅了最早的一些作品，并发现我的记忆出现了很大的偏差。第一部分将重点介绍这些早期漫画。第二部分，我将推荐一部去年（2024年）澳大利亚ABC电视台制作的专业纪录片。我作为其中一部分受访者，这部纪录片讲述了一个叛逃到澳大利亚的间谍，揭露中共如何在海外恐吓、渗透甚至试图绑架人员回国的惊险故事。这部纪录片非常精彩，我已为其制作了中文字幕。

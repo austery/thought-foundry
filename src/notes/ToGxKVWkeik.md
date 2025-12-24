@@ -1,51 +1,51 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 苹果
+- 三星
+- 华为
+- 小米
+- OPPO
+- VIVO
+- Google
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 唐石峻
+- 沃伦·巴菲特
+- buffett
+products_models:
+- AAPL
+- iPhone
+- Mac
+- iPad
+- Airpod
+- App Store
+- Apple Music
+- iCloud
+- Apple Pay
+- Apple TV
+- Pixel
+project:
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=ToGxKVWkeik
 speaker: Shijun Tang
-tags:
-  - apple
-  - stock-analysis
-  - buffett
-  - ai-strategy
-  - ecosystem
-title: 美股AAPL（苹果）还能打么？它还是无敌的复利机器么？| 持仓1276天复盘
-summary: 本期视频深入分析了苹果公司（AAPL）的最新财报、基本面、竞争环境及护城河。尽管巴菲特减持，苹果股价仍表现强劲。视频详细解读了iPhone、Mac、服务等业务板块，强调了iOS生态系统作为核心竞争力，并探讨了苹果对AI的态度。最终，视频肯定了苹果作为‘复利机器’的潜力，认为其短期内仍具投资价值。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - investment-strategy
-people:
-  - 唐石峻
-  - 沃伦·巴菲特
-companies_orgs:
-  - 苹果
-  - 三星
-  - 华为
-  - 小米
-  - OPPO
-  - VIVO
-  - Google
-products_models:
-  - AAPL
-  - iPhone
-  - Mac
-  - iPad
-  - Airpod
-  - App Store
-  - Apple Music
-  - iCloud
-  - Apple Pay
-  - Apple TV
-  - Pixel
-media_books: []
 status: evergreen
+summary: 本期视频深入分析了苹果公司（AAPL）的最新财报、基本面、竞争环境及护城河。尽管巴菲特减持，苹果股价仍表现强劲。视频详细解读了iPhone、Mac、服务等业务板块，强调了iOS生态系统作为核心竞争力，并探讨了苹果对AI的态度。最终，视频肯定了苹果作为‘复利机器’的潜力，认为其短期内仍具投资价值。
+tags:
+- ai-strategy
+- ecosystem
+- stock-analysis
+title: 美股AAPL（苹果）还能打么？它还是无敌的复利机器么？| 持仓1276天复盘
+companies:
+- apple
 ---
+
 ### 开篇：苹果现状与视频主旨
 
 今天这期我们来谈谈**苹果**，股票代码**AAPL**。众所周知了，**巴菲特**老爷子已经连续好几个季度减持**苹果**了。可是**苹果**的股价，最近238天居然也涨了**70.57%**。再涨涨，可能**苹果**一年下来股价也要翻倍了。连**巴菲特**都开始大量减持**苹果**，未来**苹果**还有戏么？今天这期视频，我们从公司最新财报、最新基本面、竞争环境，以及公司护城河等多个方面来详细谈谈，究竟**苹果**这家公司未来他还有戏吗？

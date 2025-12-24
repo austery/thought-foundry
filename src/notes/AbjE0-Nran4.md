@@ -6,14 +6,13 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-  - 医学影像ai
+- llm
 people:
-  - 谷歌工程师
-  - Jimmy Hu
-  - Irene
+- 谷歌工程师
+- Jimmy Hu
+- Irene
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: ''
@@ -24,6 +23,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=AbjE0-Nran4&t
 ---
+
 ### 讲述者简介
 
 **胡思宇医师 (Jimmy

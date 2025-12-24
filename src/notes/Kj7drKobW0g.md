@@ -1,42 +1,41 @@
 ---
-author: AI超元域
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Anthropic
+- Gamut 2.5 Pro
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- GPT-5.1
+- Claude 3 Sonnet 4.5
+- GPT-5.1 Instant
+- GPT-5.1 Thinking
+- GPT-5 Codex
+- ChatGPT
+- Atlas browser
+- Three.js
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Kj7drKobW0g
 speaker: AI超元域
-tags:
-  - llm-comparison
-  - ai-performance-testing
-  - long-text-generation
-  - code-generation
-  - browser-automation
-title: GPT-5.1与Claude Sonnet 4.5终极对决：多维度性能深度测评
-summary: 本文对OpenAI最新发布的GPT-5.1模型与Anthropic的Claude 3 Sonnet 4.5模型进行了全面对比测试。测试涵盖超长文本生成、编程、诗词创作、前端开发及浏览器自动化等多个维度。结果显示，尽管GPT-5.1相较前代有所进步，但在多数测试场景中，Claude 3 Sonnet 4.5展现出更强的综合性能和更佳的用户体验，尤其在长文本处理和创意写作方面表现突出。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - OpenAI
-  - Anthropic
-  - Gamut 2.5 Pro
-products_models:
-  - GPT-5.1
-  - Claude 3 Sonnet 4.5
-  - GPT-5.1 Instant
-  - GPT-5.1 Thinking
-  - GPT-5 Codex
-  - ChatGPT
-  - Atlas browser
-  - Three.js
-media_books: []
 status: evergreen
+summary: 本文对OpenAI最新发布的GPT-5.1模型与Anthropic的Claude 3 Sonnet 4.5模型进行了全面对比测试。测试涵盖超长文本生成、编程、诗词创作、前端开发及浏览器自动化等多个维度。结果显示，尽管GPT-5.1相较前代有所进步，但在多数测试场景中，Claude
+  3 Sonnet 4.5展现出更强的综合性能和更佳的用户体验，尤其在长文本处理和创意写作方面表现突出。
+tags:
+- browser-automation
+- code-generation
+- llm
+- long
+- performance
+title: GPT-5.1与Claude Sonnet 4.5终极对决：多维度性能深度测评
 ---
+
 ### GPT-5.1模型概述与测试范围
 
 OpenAI于今日凌晨发布了**GPT-5.1**（OpenAI最新大型语言模型）系列模型，用户可在ChatGPT中直接使用。该模型提供了“即时（Instant）”和“思考（Thinking）”两种模式供选择。我们曾尝试让GPT-5.1通过代码生成模拟**冒泡排序**（Bubble Sort: 一种简单的排序算法，通过重复遍历列表，比较相邻元素并交换位置，直到列表排序完成）的动画，以实现鸭子从小到大排序的效果。

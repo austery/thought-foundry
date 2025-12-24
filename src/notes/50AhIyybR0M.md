@@ -1,32 +1,28 @@
 ---
-title: Claude 赋能金融服务：革新分析、驱动增长与应对挑战
-summary: Anthropic推出金融服务版Claude，通过统一智能层革新金融分析，提升效率，加速创新，助力机构应对市场挑战并实现价值增长。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- investment-strategy
-tags:
-- ai
-- digital-transformation
-- enterprise-solutions
-- financial-services
-- llm
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-07-31'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=50AhIyybR0M
+speaker: Anthropic
 status: evergreen
+summary: Anthropic推出金融服务版Claude，通过统一智能层革新金融分析，提升效率，加速创新，助力机构应对市场挑战并实现价值增长。
+tags:
+- business
+- digital-transformation
+- financial
+title: Claude 赋能金融服务：革新分析、驱动增长与应对挑战
 ---
+
 ### 欢迎致辞：Claude 驱动金融未来
 
 Please welcome to the stage head of revenue at Anthropic Kate Jensen.

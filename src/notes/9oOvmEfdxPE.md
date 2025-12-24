@@ -1,33 +1,31 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=9oOvmEfdxPE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - thyroid-health
-  - metabolism-regulation
-  - fatigue-management
-  - weight-control
-  - stress-management
-title: 甲狀腺：身體的「小蝴蝶」如何影響你的代謝、疲倦與體重？醫師教你讀懂驗血報告
-summary: 甲狀腺作為身體的「指揮官」，對新陳代謝、體溫、心跳及精神狀態至關重要。本影片深入淺出地解釋了甲狀腺的功能、常見的亢進與低下症狀，並揭示了節食、壓力、作息紊亂等高風險因素。醫師將教你如何看懂TSH、T3、T4等關鍵驗血報告，並提供飲食、壓力管理及生活習慣等實用建議，幫助你保護甲狀腺健康，告別疲倦與體重困擾。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people: []
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 甲狀腺作為身體的「指揮官」，對新陳代謝、體溫、心跳及精神狀態至關重要。本影片深入淺出地解釋了甲狀腺的功能、常見的亢進與低下症狀，並揭示了節食、壓力、作息紊亂等高風險因素。醫師將教你如何看懂TSH、T3、T4等關鍵驗血報告，並提供飲食、壓力管理及生活習慣等實用建議，幫助你保護甲狀腺健康，告別疲倦與體重困擾。
+tags:
+- control
+- health
+- management
+- regulation
+- stress-management
+title: 甲狀腺：身體的「小蝴蝶」如何影響你的代謝、疲倦與體重？醫師教你讀懂驗血報告
 ---
+
 ### 引言：身體的「小蝴蝶」與代謝開關
 
 一位32歲的男性工程師常常感到壓力大，即使難得睡了6到7小時，仍然覺得疲累。你以為這是年紀到了嗎？其實是身體誤以為你在冬眠，開啟了省電模式。而影響這個省電模式的關鍵，就是我們的**甲狀腺**（Thyroid gland: 位於頸部，負責分泌甲狀腺激素，調節新陳代謝）。這個健康的指標絕對不能漏掉。今天這支影片將教大家理解並看懂檢測報告的重要訊息。

@@ -1,79 +1,79 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Bloomberg Audio Studios
+- Meta
+- OpenAI
+- Google
+- XAI
+- Thinking Machine
+- Safe Super Intelligence
+- Character AI
+- Anthropic
+- Cognition
+- Windsurf
+- Cursor
+- Scale AI
+- Citadel
+- Jane Street
+- Amazon
 date: '2025-08-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots
+- TBPN
+- The Midas List
+- The Metis List
+- Attention Is All You Need
+- Silicon Valley
+people:
+- Joe Weisenthal
+- Tracy Aloway
+- John Kugan
+- Jordy Hayes
+- Mark Zuckerberg
+- Elon Musk
+- Ilia Sutskever
+- Sam Altman
+- Daniel Gross
+- Meera Murati
+- Nome Shazir
+- Scott Woo
+- Tim Cook
+- LeBron James
+products_models:
+- Llama
+- Llama 4
+- Llama 4 Behemoth
+- Qstar
+- Strawberry
+- O3 models
+- DeepSeek R1
+- Gemini
+- DeepMind
+- Chat GPT
+- Figma
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=0pbpIhBfoF8
 speaker: Bloomberg Podcasts
-tags:
-  - ai-talent-war
-  - exploding-offers
-  - aqua-hires
-  - capital-intensive-ai
-  - industry-sportsification
-title: AI人才争夺战：科技行业如何演变为“职业体育”模式
-summary: 本期播客深入探讨了AI行业日益激烈的“人才争夺战”，将其比作职业体育联盟。节目嘉宾分析了顶尖AI研究人员和工程师如何获得数亿美元的薪酬，以及“爆炸式要约”和“人才收购”等现象。讨论强调了AI训练的资本密集性，使得即使是微小的效率提升也能带来巨大价值，从而合理化了高额薪酬。此外，节目还探讨了知识产权的可转移性、风险投资对人才的直接投资，以及这种新动态对AI初创公司和整个经济格局的影响。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Joe Weisenthal
-  - Tracy Aloway
-  - John Kugan
-  - Jordy Hayes
-  - Mark Zuckerberg
-  - Elon Musk
-  - Ilia Sutskever
-  - Sam Altman
-  - Daniel Gross
-  - Meera Murati
-  - Nome Shazir
-  - Scott Woo
-  - Tim Cook
-  - LeBron James
-companies_orgs:
-  - Bloomberg Audio Studios
-  - Meta
-  - OpenAI
-  - Google
-  - XAI
-  - Thinking Machine
-  - Safe Super Intelligence
-  - Character AI
-  - Anthropic
-  - Cognition
-  - Windsurf
-  - Cursor
-  - Scale AI
-  - Citadel
-  - Jane Street
-  - Amazon
-products_models:
-  - Llama
-  - Llama 4
-  - Llama 4 Behemoth
-  - Qstar
-  - Strawberry
-  - O3 models
-  - DeepSeek R1
-  - Gemini
-  - DeepMind
-  - Chat GPT
-  - Figma
-media_books:
-  - OddLots
-  - TBPN
-  - The Midas List
-  - The Metis List
-  - Attention Is All You Need
-  - Silicon Valley
 status: evergreen
+summary: 本期播客深入探讨了AI行业日益激烈的“人才争夺战”，将其比作职业体育联盟。节目嘉宾分析了顶尖AI研究人员和工程师如何获得数亿美元的薪酬，以及“爆炸式要约”和“人才收购”等现象。讨论强调了AI训练的资本密集性，使得即使是微小的效率提升也能带来巨大价值，从而合理化了高额薪酬。此外，节目还探讨了知识产权的可转移性、风险投资对人才的直接投资，以及这种新动态对AI初创公司和整个经济格局的影响。
+tags:
+- aqua-hire
+- capital
+- exploding-offer
+- industry
+- war
+title: AI人才争夺战：科技行业如何演变为“职业体育”模式
 ---
+
 ### AI人才争夺战：高薪与行业“体育化”
 
 **Joe Weisenthal:** 大家好，欢迎收听《OddLots》播客的又一期节目，我是Joe Weisenthal。

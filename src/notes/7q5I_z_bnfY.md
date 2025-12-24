@@ -1,33 +1,31 @@
 ---
-title: 特朗普政策反复与市场波动：特斯拉与GE财报深度解析
-summary: 本文深入分析了特朗普在关税和美联储政策上的反复立场如何影响市场，并详细解读了特斯拉与GE的最新财报，探讨了企业如何应对关税挑战。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- ge-earnings
-- market-volatility
-- tariff-impact
-- tesla-earnings
-- trump-policies
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-04-23'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=7q5I_z_bnfY
+speaker: 投资TALK君
 status: evergreen
+summary: 本文深入分析了特朗普在关税和美联储政策上的反复立场如何影响市场，并详细解读了特斯拉与GE的最新财报，探讨了企业如何应对关税挑战。
+tags:
+- earning
+- market-volatility
+- tariff-impact
+- trump-policy
+title: 特朗普政策反复与市场波动：特斯拉与GE财报深度解析
 ---
+
 ### 市场概览：特朗普政策主导下的剧烈波动
 
 大家好，欢迎来到一个不单只聊新闻的专业美股频道，我是市场分析员小陶。近期，市场走势几乎完全受特朗普在关税政策方面言论的影响。我们观察到，**标普500**（S&P 500: 美国股市的500家大型上市公司股票指数）一天内可能下跌3%，第二天随即反弹2.5%，盘后期货市场甚至继续上涨。经过过去一个月的走势，我们似乎已习惯了标普500日内2%至3%的波动，反而对小幅涨跌或横盘感到不适应。

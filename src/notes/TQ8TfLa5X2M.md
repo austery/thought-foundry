@@ -1,42 +1,43 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国科学院
+- 清华大学
+- 红卫兵
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《宗教哲学讲演录》
+- 《人民日报》
+people:
+- Qian Xuesen
+- Hua Luogeng
+- Ba Jin
+- Mao Zedong
+- Hegel
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=TQ8TfLa5X2M
 speaker: Anthony看世界
-tags:
-  - witch-hunter-mentality
-  - underdeveloped-subjectivity
-  - collective-frenzy
-  - rationality-origin
-  - statistical-thinking-critique
-title: 高知为何迷失：解析集体狂热中理性与主体性的崩塌
-summary: '本视频深入探讨了为何在集体狂热中，掌握现代知识的个体仍会丧失判断力。作者指出，迷信的根源并非单纯的知识匮乏，而是**主体性**（Subjectivity: 个体作为独立行动者的自我意识）的缺失。通过**大跃进**和**文化大革命**等历史事件，揭示了即使在科学与理性口号下，知识分子也可能陷入非理性狂热。文章强调，真正的理性思维源于个体对自由和独立性的追求，而非自上而下的灌输，并批判了过度依赖**统计学思维**（Statistical Thinking: 基于数据和概率进行推断的思考方式）可能带来的盲从。最终，呼吁关注个体主体性的发展，以抵御集体无意识的侵蚀。'
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Qian Xuesen
-  - Hua Luogeng
-  - Ba Jin
-  - Mao Zedong
-  - Hegel
-companies_orgs:
-  - 中国科学院
-  - 清华大学
-  - 红卫兵
-products_models: []
-media_books:
-  - 《宗教哲学讲演录》
-  - 《人民日报》
 status: evergreen
+summary: '本视频深入探讨了为何在集体狂热中，掌握现代知识的个体仍会丧失判断力。作者指出，迷信的根源并非单纯的知识匮乏，而是**主体性**（Subjectivity:
+  个体作为独立行动者的自我意识）的缺失。通过**大跃进**和**文化大革命**等历史事件，揭示了即使在科学与理性口号下，知识分子也可能陷入非理性狂热。文章强调，真正的理性思维源于个体对自由和独立性的追求，而非自上而下的灌输，并批判了过度依赖**统计学思维**（Statistical
+  Thinking: 基于数据和概率进行推断的思考方式）可能带来的盲从。最终，呼吁关注个体主体性的发展，以抵御集体无意识的侵蚀。'
+tags:
+- collective-frenzy
+- critique
+- philosophy
+- society
+- technology
+title: 高知为何迷失：解析集体狂热中理性与主体性的崩塌
 ---
 
 ### 女巫狩猎心态与主体性缺失的根源

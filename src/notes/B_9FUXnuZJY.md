@@ -1,46 +1,46 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-06-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《布鲁克林》
+- 《面纱》
+- 《太阳照常升起》
+- 《少年派的奇幻漂流》
+- 《傻瓜吉姆佩尔》
+people:
+- 梁永安
+- 余华
+- 托宾
+- 毛姆
+- 海明威
+- 斯泰因
+- 辛格
+- 李安
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=B_9FUXnuZJY
 speaker: 一席YiXi
-tags:
-  - life-path-diversity
-  - social-conformity
-  - personal-identity-formation
-  - meaning-making
-  - non-conformity
-title: 我们今天最缺的就是活法：在统一性中寻找生命的差异性
-summary: 梁永安指出，当代青年不再困于温饱，却陷入‘活法’的匮乏——社会过度强调统一性，而真正稀缺的是探索、顿悟、迷惘、漫游与单纯等多元生命路径。唯有打破‘3.14式’的标准化人生，才能重建个体生命的尊严与创造性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - 梁永安
-  - 余华
-  - 托宾
-  - 毛姆
-  - 海明威
-  - 斯泰因
-  - 辛格
-  - 李安
-companies_orgs: []
-products_models: []
-media_books:
-  - 《布鲁克林》
-  - 《面纱》
-  - 《太阳照常升起》
-  - 《少年派的奇幻漂流》
-  - 《傻瓜吉姆佩尔》
 status: evergreen
+summary: 梁永安指出，当代青年不再困于温饱，却陷入‘活法’的匮乏——社会过度强调统一性，而真正稀缺的是探索、顿悟、迷惘、漫游与单纯等多元生命路径。唯有打破‘3.14式’的标准化人生，才能重建个体生命的尊严与创造性。
+tags:
+- identity
+- life
+- non
+- psychology
+- social
+title: 我们今天最缺的就是活法：在统一性中寻找生命的差异性
 ---
+
 ### 活法的匮乏：从温饱时代到生命选择的时代
 
 大家好，今天来到这里，心情既温暖又激动。站在这所中学里，我回想起自己高中时的单纯愿望：好好学习，未来拥有一份稳定的工作，过上美好的生活。可谁能想到，高中毕业后我去了云南高黎贡山的怒江边，在原始状态的窝棚与火塘中，和傣族乡亲们一起劳动、打猎。那时最大的梦想，竟然是当一名卡车司机——因为能看见每天不同的风景。

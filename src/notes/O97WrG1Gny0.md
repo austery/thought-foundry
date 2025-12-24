@@ -1,36 +1,34 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-05-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 陈威龙
+- 张家铭
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=O97WrG1Gny0
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - microplastic-pollution
-  - endocrine-disruptors
-  - chronic-inflammation
-  - metabolic-health
-  - genetic-predisposition
-  - preventive-medicine
-title: 塑膠微粒入侵大腦與身體：醫師揭示失智、肥胖、代謝差的潛在關聯及兩招排塑策略
-summary: 塑膠微粒無處不在，從日常用品到食物，甚至可能穿透血腦屏障，引發慢性發炎，增加失智、肥胖及代謝症候群風險。本文深入探討塑膠微粒（特別是雙酚A）對人體的物理與化學危害，並由醫師分享兩大排塑策略：煮沸飲用水與補充益生菌及益生元。同時，文章也強調基因傾向與後天環境的交互作用，以及飲食、運動、睡眠、壓力在精準預防和功能醫學中的關鍵角色。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - 陈威龙
-  - 张家铭
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 塑膠微粒無處不在，從日常用品到食物，甚至可能穿透血腦屏障，引發慢性發炎，增加失智、肥胖及代謝症候群風險。本文深入探討塑膠微粒（特別是雙酚A）對人體的物理與化學危害，並由醫師分享兩大排塑策略：煮沸飲用水與補充益生菌及益生元。同時，文章也強調基因傾向與後天環境的交互作用，以及飲食、運動、睡眠、壓力在精準預防和功能醫學中的關鍵角色。
+tags:
+- endocrine-disruptor
+- environment
+- health
+- metabolic-health
+- technology
+title: 塑膠微粒入侵大腦與身體：醫師揭示失智、肥胖、代謝差的潛在關聯及兩招排塑策略
 ---
+
 ### 塑膠微粒的普遍存在與健康威脅
 
 **陈威龙:** 嗨，大家好，我是初日醫學的陈威龙醫師。你知道你早上喝的拿鐵（紙杯）、一瓶礦泉水，到中午吃的便當，甚至到晚上的微波食品，研究發現我們平常吃的16種蛋白質可能也含有很多的塑膠。你可能會覺得很累、代謝差，但是你吃得卻很健康，也許你是吃進了過多的**塑膠微粒**（Microplastics: 直径小于5毫米的塑料碎片）。我們今天很開心邀請到基因醫師张家铭张醫師來到我們初日醫學的現場，跟我們觀眾來聊聊這個話題。我們歡迎张醫師。

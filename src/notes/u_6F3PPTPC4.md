@@ -1,54 +1,53 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Bank of Finland
+- ECB
+- NATO
+- European Commission
+- IMF
+- European Stability Mechanism
+- AFD
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+- Vox
+- Walking the High Wire
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Olli Rehn
+- Mario Draghi
+- Barry Eichengreen
+- Jean-Claude Trichet
+products_models:
+- F-35
+- F-18
+- Euro system
+- Slush
+project:
+- geopolitics-watch
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=u_6F3PPTPC4
 speaker: Bloomberg Podcasts
-tags:
-  - european-competitiveness
-  - defense-spending
-  - energy-transition
-  - euro-global-role
-  - single-market
-title: 欧洲如何应对竞争挑战：芬兰央行行长奥利·雷恩的洞察
-summary: 芬兰央行行长奥利·雷恩在播客中深入探讨了欧洲当前面临的严峻竞争挑战。他指出，在地缘政治紧张、能源价格高企以及与中国工业竞争加剧的背景下，欧洲正努力抓住机遇，通过加强共同防御、推进单一市场和资本市场整合、加速绿色转型以及提升欧元的全球地位来增强经济韧性和竞争力。雷恩强调，尽管面临国内政治阻力，欧洲仍致力于深化一体化和改革，以确保其在全球舞台上的未来繁荣。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - geopolitics-watch
-  - investment-strategy
-  - us-analysis
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Olli Rehn
-  - Mario Draghi
-  - Barry Eichengreen
-  - Jean-Claude Trichet
-companies_orgs:
-  - Bloomberg
-  - Bank of Finland
-  - ECB
-  - NATO
-  - European Commission
-  - IMF
-  - European Stability Mechanism
-  - AFD
-products_models:
-  - F-35
-  - F-18
-  - Euro system
-  - Slush
-media_books:
-  - Odd Lots Podcast
-  - Vox
-  - Walking the High Wire
 status: evergreen
+summary: 芬兰央行行长奥利·雷恩在播客中深入探讨了欧洲当前面临的严峻竞争挑战。他指出，在地缘政治紧张、能源价格高企以及与中国工业竞争加剧的背景下，欧洲正努力抓住机遇，通过加强共同防御、推进单一市场和资本市场整合、加速绿色转型以及提升欧元的全球地位来增强经济韧性和竞争力。雷恩强调，尽管面临国内政治阻力，欧洲仍致力于深化一体化和改革，以确保其在全球舞台上的未来繁荣。
+tags:
+- energy-transition
+- geopolitical
+- global
+- market
+title: 欧洲如何应对竞争挑战：芬兰央行行长奥利·雷恩的洞察
 ---
+
 ### 欧洲的“机遇时刻”与核心挑战
 
 **Tracy Alloway:** 大家好，欢迎收听《Odd Lots播客》的又一期节目。我是Tracy Alloway。

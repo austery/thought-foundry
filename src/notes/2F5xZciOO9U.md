@@ -1,48 +1,47 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg
+- Federal Reserve
+- Chicago Fed
+- Kansas City Fed
+- FOMC
 date: '2025-08-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Austan Goolsbee
+- Jeff Schmid
+- Jay Powell
+- Carmen Rodriguez
+- Dashel Bennett
+- Kale Brooks
+products_models:
+- OddLots podcast
+- S&P flash PMI
+- USMCA
+project:
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=2F5xZciOO9U
 speaker: Bloomberg Podcasts
-tags:
-  - inflation-outlook
-  - monetary-policy
-  - labor-market-dynamics
-  - tariff-impact
-  - economic-indicators
-title: 古尔斯比对通胀的持续担忧：美联储官员对经济前景的深度剖析
-summary: 芝加哥联储主席奥斯坦·古尔斯比在杰克逊霍尔会议上，深入探讨了当前美国经济面临的挑战。他特别关注通胀问题，指出服务业通胀的上升和关税对物价的潜在长期影响。古尔斯比强调，在劳动力市场数据受到移民和人口增长噪音干扰时，应更侧重于失业率、招聘率、裁员率和职位空缺率等“真相四骑士”指标。他还讨论了市场对利率的预期、美联储决策中的异议以及关税对生产力增长的负面影响，为理解当前复杂的经济环境提供了宝贵视角。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Austan Goolsbee
-  - Jeff Schmid
-  - Jay Powell
-  - Carmen Rodriguez
-  - Dashel Bennett
-  - Kale Brooks
-companies_orgs:
-  - Bloomberg
-  - Federal Reserve
-  - Chicago Fed
-  - Kansas City Fed
-  - FOMC
-products_models:
-  - OddLots podcast
-  - S&P flash PMI
-  - USMCA
-media_books: []
 status: evergreen
+summary: 芝加哥联储主席奥斯坦·古尔斯比在杰克逊霍尔会议上，深入探讨了当前美国经济面临的挑战。他特别关注通胀问题，指出服务业通胀的上升和关税对物价的潜在长期影响。古尔斯比强调，在劳动力市场数据受到移民和人口增长噪音干扰时，应更侧重于失业率、招聘率、裁员率和职位空缺率等“真相四骑士”指标。他还讨论了市场对利率的预期、美联储决策中的异议以及关税对生产力增长的负面影响，为理解当前复杂的经济环境提供了宝贵视角。
+tags:
+- economic-indicator
+- inflation-outlook
+- labor-market-dynamic
+- tariff-impact
+title: 古尔斯比对通胀的持续担忧：美联储官员对经济前景的深度剖析
 ---
+
 ### 播客开场与会议背景
 
 **Joe Weisenthal:** 大家好，欢迎收听《OddLots》播客的又一期节目，我是乔·魏森塔尔。

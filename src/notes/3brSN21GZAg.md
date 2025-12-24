@@ -1,47 +1,46 @@
 ---
-author: 徒步的騎手
-date: 2025-07-17
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=3brSN21GZAg'
-speaker: 徒步的騎手
-tags:
-  - giant-baby-syndrome
-  - political-manipulation
-  - patriotism-performance
-  - cognitive-biases
-  - individual-awakening
-title: 中国社会的“巨婴”现象：假爱国、舆论操弄与个体觉醒
-summary: 本文深入剖析中国社会中“巨婴”现象的成因与表现，从企业家“假爱国”的表演，到大众在舆论操弄下“嗷嗷待骗”的循环。文章揭示了巨婴心理的认知懒惰、诉诸本能和推卸责任等特征，并以娃哈哈与农夫山泉的商战为例证。最终，文章探讨了个体如何通过精神断奶、重建独立人格来打破这种受骗与行骗的宿命循环。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 宗庆后
-  - 王传福
-  - 余承东
-  - 刘强东
-  - 伍志宏
-  - 李老师不是你老师
-  - Strom Thurmond
-  - 孙中山
+category: geopolitics
 companies_orgs:
-  - 娃哈哈
-  - 农夫山泉
-  - Twitter
-  - YouTube
-  - 微博
-  - 微信
-products_models: '[]'
+- 娃哈哈
+- 农夫山泉
+- Twitter
+- YouTube
+- 微博
+- 微信
+date: 2025-07-17
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《巨婴国》
+- 《巨婴国》
+people:
+- 宗庆后
+- 王传福
+- 余承东
+- 刘强东
+- 伍志宏
+- 李老师不是你老师
+- Strom Thurmond
+- 孙中山
+products_models: '[]'
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=3brSN21GZAg
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入剖析中国社会中“巨婴”现象的成因与表现，从企业家“假爱国”的表演，到大众在舆论操弄下“嗷嗷待骗”的循环。文章揭示了巨婴心理的认知懒惰、诉诸本能和推卸责任等特征，并以娃哈哈与农夫山泉的商战为例证。最终，文章探讨了个体如何通过精神断奶、重建独立人格来打破这种受骗与行骗的宿命循环。
+tags:
+- cognitive-bias
+- history
+- individual-awakening
+- performance
+- political
+title: 中国社会的“巨婴”现象：假爱国、舆论操弄与个体觉醒
 ---
 
 ### 中国企业家的“爱国表演”与八卦价值

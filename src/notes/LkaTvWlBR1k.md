@@ -1,31 +1,30 @@
 ---
-title: 特斯拉Q1财报深度解读：Model 2风波、FSD、Optimus与投资策略
-summary: 前特斯拉FSD工程师于振华与主持人一口新饭深度解读特斯拉Q1财报，探讨Model 2、FSD、Robotaxi、Optimus的最新进展及其对公司估值和投资者策略的影响。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - ev-market
-people: []
 companies_orgs:
-  - tesla
-products_models:
-  - fsd
-  - optimus-robot
-  - robotaxi
-media_books: []
+- tesla
 date: '2024-04-26'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models:
+- fsd
+- optimus-robot
+- robotaxi
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=LkaTvWlBR1k
+speaker: 一口新飯
 status: evergreen
+summary: 前特斯拉FSD工程师于振华与主持人一口新饭深度解读特斯拉Q1财报，探讨Model 2、FSD、Robotaxi、Optimus的最新进展及其对公司估值和投资者策略的影响。
+tags:
+- ev-market
+title: 特斯拉Q1财报深度解读：Model 2风波、FSD、Optimus与投资策略
 ---
 
 ### 引言：特斯拉的挑战与机遇

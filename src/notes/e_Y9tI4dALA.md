@@ -1,57 +1,57 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Block
+- Twitter
+- X
+- Apple
+- Google
+- Meta
+- Verizon
+- AT&T
+- Norges Bank Investment Management
+- Visa
+- Mastercard
 date: '2025-02-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jack Dorsey
+- Nicola Tangen
+- Jay
+- Barack Obama
+- Elon Musk
+products_models:
+- Cash App
+- Square
+- Blue Sky
+- Noster
+- Mastodon
+- Matrix
+- Threads
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=e_Y9tI4dALA
 speaker: Norges Bank Investment Management
-tags:
-  - decentralized-social-media
-  - algorithmic-agency
-  - internet-protocols
-  - bitcoin-economy
-  - entrepreneurial-mindset
-title: Jack Dorsey 访谈：从 Twitter 到比特币，再谈去中心化与算法主权
-summary: 在本次深度访谈中，Block 联合创始人 Jack Dorsey 探讨了 Twitter（现 X）的诞生与演变，强调了用户共创的重要性。他反思了 Twitter 商业模式的错误，并倡导去中心化社交协议（如 Blue Sky 和 Noster）以增强用户主权。Dorsey 还分享了 Block 的愿景，以及比特币作为全球货币协议如何解决传统金融和监管碎片化问题。最后，他阐述了其独特的学习和应对挑战的个人哲学，以及对未来社交媒体和 AI 代理系统的展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Jack Dorsey
-  - Nicola Tangen
-  - Jay
-  - Barack Obama
-  - Elon Musk
-companies_orgs:
-  - Block
-  - Twitter
-  - X
-  - Apple
-  - Google
-  - Facebook
-  - Verizon
-  - AT&T
-  - Norges Bank Investment Management
-  - Visa
-  - Mastercard
-  - Meta
-products_models:
-  - Cash App
-  - Square
-  - Blue Sky
-  - Noster
-  - Mastodon
-  - Matrix
-  - Threads
-media_books: []
 status: evergreen
+summary: 在本次深度访谈中，Block 联合创始人 Jack Dorsey 探讨了 Twitter（现 X）的诞生与演变，强调了用户共创的重要性。他反思了
+  Twitter 商业模式的错误，并倡导去中心化社交协议（如 Blue Sky 和 Noster）以增强用户主权。Dorsey 还分享了 Block 的愿景，以及比特币作为全球货币协议如何解决传统金融和监管碎片化问题。最后，他阐述了其独特的学习和应对挑战的个人哲学，以及对未来社交媒体和
+  AI 代理系统的展望。
+tags:
+- economy
+- entrepreneurial-mindset
+- llm
+- social
+- technology
+title: Jack Dorsey 访谈：从 Twitter 到比特币，再谈去中心化与算法主权
 ---
+
 ### Twitter 的诞生：从城市地图到用户共创
 
 **主持人:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威的中央银行投资管理部门）的首席执行官 Nicola Tangen。

@@ -1,56 +1,55 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Kinnevik
+- Norges Bank Investment Management
+- Nvidia
+- Amazon
+- Tesla
+- Atlas Copco
+- Home Depot
+- Spotify
+- ASML
+- Vanguard
+- Santa Fe Institute
+- MIT
+- Solen
 date: '2024-09-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Georgi Ganev
+- James Anderson
+- Charlie Munger
+- Jeff Bezos
+- Warren Buffett
+- Jensen Huang
+- Steve Jobs
+- Elon Musk
+- Katalin Karikó
+- Jessica Trancik
+products_models: []
+project:
+- investment-strategy
+- entrepreneurship
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=2FC2x0_z2IA
 speaker: Norges Bank Investment Management
-tags:
-  - long-term-investing
-  - startup-ecosystem
-  - innovation-strategy
-  - risk-taking
-  - future-technologies
-title: Kinnevik 的长线投资哲学：驾驭创新与市场波动
-summary: Kinnevik 首席执行官 Georgi Ganev 和董事长 James Anderson 探讨了公司独特的长线投资策略，强调了对创新商业模式和卓越创始人的支持。他们深入分析了美国和欧洲初创企业生态系统的差异、私人与上市公司面临的挑战，并展望了清洁技术、基因组学和人工智能等未来高增长领域。讨论还涵盖了公司治理、风险管理以及在投资界保持批判性思维的重要性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - entrepreneurship
-  - ai-impact-analysis
-people:
-  - Georgi Ganev
-  - James Anderson
-  - Charlie Munger
-  - Jeff Bezos
-  - Warren Buffett
-  - Jensen Huang
-  - Steve Jobs
-  - Elon Musk
-  - Katalin Karikó
-  - Jessica Trancik
-companies_orgs:
-  - Kinnevik
-  - Norges Bank Investment Management
-  - Nvidia
-  - Amazon
-  - Tesla
-  - Atlas Copco
-  - Home Depot
-  - Spotify
-  - ASML
-  - Vanguard
-  - Santa Fe Institute
-  - MIT
-  - Solen
-products_models: []
-media_books: []
 status: evergreen
+summary: Kinnevik 首席执行官 Georgi Ganev 和董事长 James Anderson 探讨了公司独特的长线投资策略，强调了对创新商业模式和卓越创始人的支持。他们深入分析了美国和欧洲初创企业生态系统的差异、私人与上市公司面临的挑战，并展望了清洁技术、基因组学和人工智能等未来高增长领域。讨论还涵盖了公司治理、风险管理以及在投资界保持批判性思维的重要性。
+tags:
+- long-term-investing
+- risk-taking
+- startup
+- strategy
+- technology
+title: Kinnevik 的长线投资哲学：驾驭创新与市场波动
 ---
+
 ### 欢迎与 Kinnevik 共同探讨长线投资
 
 **主持人:** 大家好，欢迎收听本期关于 Kinnevik 的现场播客，这是一家卓越的瑞典公司。

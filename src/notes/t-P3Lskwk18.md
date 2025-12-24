@@ -1,42 +1,42 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- 滴滴打车
+- 曹操出行
+- 美团出行
+- 高德打车
 date: '2024-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《阿信》
+- 《乡愁》
+- 《逆行人生》
+- 《我不是药神》
+people:
+- 徐峥
+- 余光中
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=t-P3Lskwk18
 speaker: 莊也雜談
-tags:
-  - involution
-  - platform-economy
-  - labor-conditions
-  - social-issues
-  - urban-life
-title: 中国“内卷”社会观察：从出租车到外卖员的平台经济生存现状
-summary: 本文深入探讨了中国社会，特别是北京，在平台经济背景下，出租车司机、网约车司机及外卖员等不同职业群体的生存现状。作者通过亲身经历和观察，揭示了“内卷”现象和智能时代下隐藏的压榨。文章还讨论了电影《逆行人生》对社会现实的反映，并呼吁公众对外卖员等底层劳动者给予更多包容和理解，反思平台规则对个体的影响，以及社会深层问题可能导致的极端事件。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people:
-  - 徐峥
-  - 余光中
-companies_orgs:
-  - 滴滴打车
-  - 曹操出行
-  - 美团出行
-  - 高德打车
-products_models: []
-media_books:
-  - 《阿信》
-  - 《乡愁》
-  - 《逆行人生》
-  - 《我不是药神》
 status: evergreen
+summary: 本文深入探讨了中国社会，特别是北京，在平台经济背景下，出租车司机、网约车司机及外卖员等不同职业群体的生存现状。作者通过亲身经历和观察，揭示了“内卷”现象和智能时代下隐藏的压榨。文章还讨论了电影《逆行人生》对社会现实的反映，并呼吁公众对外卖员等底层劳动者给予更多包容和理解，反思平台规则对个体的影响，以及社会深层问题可能导致的极端事件。
+tags:
+- economy
+- involution
+- labor
+- life
+- social-issue
+title: 中国“内卷”社会观察：从出租车到外卖员的平台经济生存现状
 ---
+
 ### 回国见闻：底层劳动者的辛酸与挣扎
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊回国的话题。前几集我们谈到了外国人在中国是否安全，列举了一些在北京生活滋润的人群，以及低收入外来“北漂”们在北京生活的各种不易和艰难。上集关于底层劳动人民辛酸生活的讲述，让许多观众的心灵受到了极大冲击，眼中充满了同情的泪水。这让我想起小时候看日本电视剧**《阿信》**（Oshin: 一部讲述日本女性阿信一生奋斗的励志剧），我一直没看完，因为日子过得太苦了，所以特别理解很多观众的心情。

@@ -1,80 +1,80 @@
 ---
-author: 硅谷101播客
+area: society-systems
+category: finance
+companies_orgs:
+- Wizards of the Coast
+- Raisin UK
+- 卡游
+- PSA
+- 保利
+- 保粹
+- Apple
+- Pop Mart
+- Top Toys
+- 名创优品
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- DICE CON
+- 《硅谷101》
+- 小宇宙
+- 苹果播客
+- 网易云音乐
+- 喜马拉雅
+- QQ音乐
+- 蜻蜓FM
+- 荔枝FM
+- Spotify
+- YouTube
+- 微信公众号
+people:
+- Michael Jordan
+- Kobe Bryant
+- Logan Paul
+- Vincent
+- 大白
+- Victor Wembanyama
+- Cooper Flagg
+- Boozer Brothers
+- Tyrese Haliburton
+- Reggie Miller
+- Jordan Poole
+- Kevin Durant
+products_models:
+- 'Magic: The Gathering'
+- Yu-Gi-Oh!
+- Pokémon
+- 小浣熊卡
+- 水浒传卡
+- 秘室珍品
+- 鹏洛客
+- Labubu
+- 奥特曼
+- 小马宝莉
+- 蛋仔派对
+- 叶罗丽
+- 哪吒
+- League of Legends
+project:
+- investment-strategy
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=oAQfUzSGQqk
 speaker: 硅谷101播客
-tags:
-  - card-investment
-  - tcg-ccg
-  - market-speculation
-  - ip-value
-  - card-grading
-title: 卡牌投资热潮：从爱好到掘金，年轻人能否借此赚取第一桶金？
-summary: 本期节目深入探讨了卡牌如何从一个小众爱好演变为千万级投资品。嘉宾们详细介绍了集换式卡牌（TCG）和收藏式卡牌（CCG）的特点、价值决定因素及投资风险，并分析了宝可梦、球星卡等热门品类的市场逻辑。节目还揭示了卡牌市场的炒作暗流、评级机构的作用以及国内卡牌市场（如卡游）的现状与挑战，为对卡牌投资感兴趣的年轻人提供了实用的建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - investment-strategy
-  - cultural-critique
-people:
-  - Michael Jordan
-  - Kobe Bryant
-  - Logan Paul
-  - Vincent
-  - 大白
-  - Victor Wembanyama
-  - Cooper Flagg
-  - Boozer Brothers
-  - Tyrese Haliburton
-  - Reggie Miller
-  - Jordan Poole
-  - Kevin Durant
-companies_orgs:
-  - Wizards of the Coast
-  - Raisin UK
-  - 卡游
-  - PSA
-  - 保利
-  - 保粹
-  - Apple
-  - Pop Mart
-  - Top Toys
-  - 名创优品
-products_models:
-  - 'Magic: The Gathering'
-  - Yu-Gi-Oh!
-  - Pokémon
-  - 小浣熊卡
-  - 水浒传卡
-  - 秘室珍品
-  - 鹏洛客
-  - Labubu
-  - 奥特曼
-  - 小马宝莉
-  - 蛋仔派对
-  - 叶罗丽
-  - 哪吒
-  - League of Legends
-media_books:
-  - DICE CON
-  - 《硅谷101》
-  - 小宇宙
-  - 苹果播客
-  - 网易云音乐
-  - 喜马拉雅
-  - QQ音乐
-  - 蜻蜓FM
-  - 荔枝FM
-  - Spotify
-  - YouTube
-  - 微信公众号
 status: evergreen
+summary: 本期节目深入探讨了卡牌如何从一个小众爱好演变为千万级投资品。嘉宾们详细介绍了集换式卡牌（TCG）和收藏式卡牌（CCG）的特点、价值决定因素及投资风险，并分析了宝可梦、球星卡等热门品类的市场逻辑。节目还揭示了卡牌市场的炒作暗流、评级机构的作用以及国内卡牌市场（如卡游）的现状与挑战，为对卡牌投资感兴趣的年轻人提供了实用的建议。
+tags:
+- card-investment
+- market-speculation
+- tcg-ccg
+- technology
+- value
+title: 卡牌投资热潮：从爱好到掘金，年轻人能否借此赚取第一桶金？
 ---
+
 ### 卡牌热潮：从小众爱好到千万投资
 
 麻花: 大家好，我是《硅谷101》的特约研究员麻花。这期播客我们要谈论的是卡牌。今年8月，一张汇聚了**乔丹**（Michael Jordan: 美国职业篮球运动员，被誉为史上最伟大的篮球运动员之一）和**科比**（Kobe Bryant: 美国职业篮球运动员，湖人队传奇球星）的球星卡，以1293万美元的价格刷新了体育收藏卡牌的成交纪录。这张卡不仅镶嵌了两位传奇巨星球衣上的NBA Logo，并且还有两个人的亲笔签名，是实打实的孤品球星卡。而在2022年，美国网红**Logan Paul**（美国知名YouTuber、职业摔跤手）展示出了他评级10分的画师皮卡丘卡牌，那张卡牌价值527.5万美元，刷新了私人拍卖中宝可梦卡牌的最高成交纪录。

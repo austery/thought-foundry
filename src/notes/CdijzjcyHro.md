@@ -1,50 +1,49 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Harvard University
+- Gallup
+- 国立卫生研究院
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Twitter
+- 《孙子兵法》
+people:
+- Donald Trump
+- Bill Clinton
+- Hillary Clinton
+- Barack Obama
+- Martin Luther
+- Pope Francis
+- Giordano Bruno
+- Nicolaus Copernicus
+- 周孝正
+products_models:
+- OxyContin
+- Heroin
+- Fentanyl
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=CdijzjcyHro
 speaker: 北美王路飞
-tags:
-  - public-trust
-  - elite-distrust
-  - political-polarization
-  - institutional-erosion
-  - cultural-factors
-title: 爱泼斯坦案与美国民众对精英信任度的持续瓦解
-summary: 本期节目深入探讨了美国民众对精英阶层信任度持续下降的现象，以爱泼斯坦案为引子，结合盖洛普民调数据，分析了从1970年代至今，信任度从50%跌至26%的趋势。文章从政治丑闻（如伊拉克战争）、经济贫富分化、医疗与科学领域的操纵（如糖业集团误导）等中短期因素，以及古典共和主义和新教传统等长期文化基因，剖析了美国社会反权威、不信任精英的深层原因，并提及了近期围绕特朗普与克林顿的埃普斯坦案相关网络梗。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Bill Clinton
-  - Hillary Clinton
-  - Barack Obama
-  - Martin Luther
-  - Pope Francis
-  - Giordano Bruno
-  - Nicolaus Copernicus
-  - 周孝正
-companies_orgs:
-  - Harvard University
-  - Gallup
-  - 国立卫生研究院
-products_models:
-  - OxyContin
-  - Heroin
-  - Fentanyl
-media_books:
-  - Twitter
-  - 《孙子兵法》
 status: evergreen
+summary: 本期节目深入探讨了美国民众对精英阶层信任度持续下降的现象，以爱泼斯坦案为引子，结合盖洛普民调数据，分析了从1970年代至今，信任度从50%跌至26%的趋势。文章从政治丑闻（如伊拉克战争）、经济贫富分化、医疗与科学领域的操纵（如糖业集团误导）等中短期因素，以及古典共和主义和新教传统等长期文化基因，剖析了美国社会反权威、不信任精英的深层原因，并提及了近期围绕特朗普与克林顿的埃普斯坦案相关网络梗。
+tags:
+- code
+- cultural
+- institutional
+- public-trust
+title: 爱泼斯坦案与美国民众对精英信任度的持续瓦解
 ---
+
 ### 引言：从哈佛案到爱泼斯坦案——民众对精英信任的起点
 
 有观众曾问及为何相信唐纳德·特朗普的话。回溯到2016年，特朗普在一次“Chinese for Trump”集会上，承诺将推动司法部调查**哈佛大学**（Harvard University: 美国常春藤盟校之一）歧视亚裔学生的事件。这个承诺他最终兑现了，该案件在最高法院取得了亚裔学生的压倒性胜利。然而，在**爱泼斯坦案**（Epstein Case: 指美国金融家杰弗里·爱泼斯坦涉及的性贩卖和性侵丑闻，牵连众多社会名流）中，民众对精英的信任度却呈现出截然不同的面貌。这促使我们从观念层面探讨民众与精英之间的信任问题。

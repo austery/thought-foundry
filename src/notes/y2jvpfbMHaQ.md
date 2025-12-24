@@ -1,36 +1,34 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国民卫队
 date: '2025-09-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- V.S. Naipaul
+- David Hume
+products_models: []
+project:
+- us-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=y2jvpfbMHaQ
 speaker: 徒步的騎手
-tags:
-  - emotional-trap
-  - reason-and-passion
-  - political-discourse
-  - systems-thinking
-  - silent-majority
-title: 情感作燃料，理性为引擎：如何在“历史垃圾时间”活得明白？
-summary: 作者以在华盛顿特区目睹的紧张景象为切入点，深入探讨在充满政治乱象的“历史垃圾时间”中，个体应如何自处。文章的核心论点是，单纯依靠愤怒等情绪对抗体制是一个危险的陷阱，极易导致个人耗竭与仇恨滋生。作者提出，我们必须将情感作为“燃料”，同时用理性和系统性知识构建强大的“引擎”，并建立稳固的个人价值观，才能清醒、有效地应对时代的挑战，避免沦为被操控的工具。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Donald Trump
-  - V.S. Naipaul
-  - David Hume
-companies_orgs:
-  - 国民卫队
-products_models: []
-media_books: []
 status: evergreen
+summary: 作者以在华盛顿特区目睹的紧张景象为切入点，深入探讨在充满政治乱象的“历史垃圾时间”中，个体应如何自处。文章的核心论点是，单纯依靠愤怒等情绪对抗体制是一个危险的陷阱，极易导致个人耗竭与仇恨滋生。作者提出，我们必须将情感作为“燃料”，同时用理性和系统性知识构建强大的“引擎”，并建立稳固的个人价值观，才能清醒、有效地应对时代的挑战，避免沦为被操控的工具。
+tags:
+- emotional
+- philosophy
+- political
+- silent-majority
+- thinking
+title: 情感作燃料，理性为引擎：如何在“历史垃圾时间”活得明白？
 ---
 
 ### 华盛顿特区的紧张景象

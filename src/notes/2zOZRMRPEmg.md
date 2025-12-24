@@ -1,46 +1,46 @@
 ---
-author: 大问题Dialectic
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Good Decisions: Treating Oneself as a Variable'
+- Simple Heuristics That Make Us Smart
+- Thinking, Fast and Slow
+- 《西游记》
+people:
+- Gerd Gigerenzer
+- Daniel Kahneman
+- Gary Kasparov
+- Immanuel Kant
+- Baruch Spinoza
+- Socrates
+- Bian Zhilin
+products_models:
+- Deep Blue
+- AlphaGo
+project:
+- personal-growth-lab
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=2zOZRMRPEmg
 speaker: 大问题Dialectic
-tags:
-  - decision-making
-  - cognitive-bias
-  - evolutionary-psychology
-  - intuition-vs-reason
-  - self-as-variable
-title: 《好的决策：把自己当作变量》新书导言：从演化时滞看人类决策的非理性与自由
-summary: 本文是新书《好的决策：把自己当作变量》的导言，深入探讨了人类决策的底层机制。文章指出，我们的大脑并非为逻辑推理而生，而是演化出了一套高效的直觉系统和认知定式。然而，在现代复杂环境中，这种“演化时滞”导致了诸多认知偏误。作者呼吁读者成为自身的“调参侠”，通过反思和元认知，将非理性因素视为决策变量，从而在有限的自由中做出更明智的抉择，实现清醒、理性且有影响力的人格。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - historical-insights
-people:
-  - Gerd Gigerenzer
-  - Daniel Kahneman
-  - Gary Kasparov
-  - Immanuel Kant
-  - Baruch Spinoza
-  - Socrates
-  - Bian Zhilin
-companies_orgs: []
-products_models:
-  - Deep Blue
-  - AlphaGo
-media_books:
-  - 'Good Decisions: Treating Oneself as a Variable'
-  - Simple Heuristics That Make Us Smart
-  - Thinking, Fast and Slow
-  - 《西游记》
 status: evergreen
+summary: 本文是新书《好的决策：把自己当作变量》的导言，深入探讨了人类决策的底层机制。文章指出，我们的大脑并非为逻辑推理而生，而是演化出了一套高效的直觉系统和认知定式。然而，在现代复杂环境中，这种“演化时滞”导致了诸多认知偏误。作者呼吁读者成为自身的“调参侠”，通过反思和元认知，将非理性因素视为决策变量，从而在有限的自由中做出更明智的抉择，实现清醒、理性且有影响力的人格。
+tags:
+- cognitive-bias
+- decision-making
+- philosophy
+- psychology
+- self
+title: 《好的决策：把自己当作变量》新书导言：从演化时滞看人类决策的非理性与自由
 ---
+
 ### 新书发布：《好的决策：把自己当作变量》
 
 我很高兴地宣布我的新书《好的决策》已经出版了，副标题是《把自己当作变量》。阅读这本书能够帮助你，正如书名所讲的，做出好的决策。不过，我自己更喜欢这本书的副标题——《把自己当作变量》，因为它能够帮助你实现一种自由的人格，这种自由体现在能够把自己也当作变量来考量。在本期节目中，我将把这本书的导言部分改编成口语稿与你分享。

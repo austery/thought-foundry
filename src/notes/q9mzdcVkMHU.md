@@ -1,41 +1,39 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- CoreWeave
+- Nebius
+- Deutsche Bank
+- Money or Life 美股频道
+- Seeking Alpha
 date: '2025-09-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ace
+products_models:
+- GPU
+- AI Cloud
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=q9mzdcVkMHU
 speaker: Money or Life 美股频道
-tags:
-  - stock-valuation
-  - investment-strategy
-  - financial-analysis
-  - capex
-  - share-dilution
-  - cloud-computing
-title: CoreWeave (CRWV) 抄底分析：与 Nebius (NBIS) 的估值与投资价值深度对比
-summary: 本期视频深入分析了CoreWeave (CRWV) 在股价大幅下跌后的投资价值，并将其与Nebius (NBIS) 进行多维度对比。内容涵盖CoreWeave的商业模式、资本支出、债务风险、股权稀释情况，以及两家公司在营收增长、运营费用、调整后EBITDA和每股营收方面的财务表现。通过市销率和营收增长率的相对估值，以及德意志银行的DCF模型作为参考，探讨了两家公司的估值差异与投资前景，并分享了个人投资决策。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Ace
-companies_orgs:
-  - CoreWeave
-  - Nebius
-  - Deutsche Bank
-  - Money or Life 美股频道
-  - Seeking Alpha
-products_models:
-  - GPU
-  - AI Cloud
-media_books: []
 status: evergreen
+summary: 本期视频深入分析了CoreWeave (CRWV) 在股价大幅下跌后的投资价值，并将其与Nebius (NBIS) 进行多维度对比。内容涵盖CoreWeave的商业模式、资本支出、债务风险、股权稀释情况，以及两家公司在营收增长、运营费用、调整后EBITDA和每股营收方面的财务表现。通过市销率和营收增长率的相对估值，以及德意志银行的DCF模型作为参考，探讨了两家公司的估值差异与投资前景，并分享了个人投资决策。
+tags:
+- capex
+- cloud-computing
+- financial-analysis
+- stock-valuation
+- technology
+title: CoreWeave (CRWV) 抄底分析：与 Nebius (NBIS) 的估值与投资价值深度对比
 ---
+
 ### CoreWeave (CRWV) 股价分析与投资价值探讨
 
 大家好，欢迎来到Money or Life美股频道。我是Ace。最近，**CoreWeave**（NeoCloud公司: 指新兴的云服务提供商）的股价从最高点的183美元跌至100美元左右，接近腰斩。那么，这家公司现在是否值得买入呢？我将在本期视频中为大家阐述。

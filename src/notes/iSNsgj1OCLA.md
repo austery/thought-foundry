@@ -1,39 +1,38 @@
 ---
-author: Veritasium
-date: '2022-06-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iSNsgj1OCLA
-speaker: Veritasium
-tags:
-  - veritasium
-  - 100-prisoners-problem
-  - probability-theory
-  - counterintuitive-logic
-  - loop-strategy
-  - combinatorics
-title: 即使知道答案也看似不可能的谜题：100囚犯问题
-summary: 本文深入探讨了著名的“100囚犯问题”，这是一个反直觉的数学谜题。在随机选择的情况下，所有囚犯获释的概率微乎其微，但通过巧妙的循环策略，成功率可提升至惊人的30%以上。文章详细解释了该策略的数学原理，包括循环结构、概率计算以及当囚犯数量趋于无限时，成功率如何逼近1减自然对数2的极限。
-insight: ''
-draft: true
-series: ''
-category: science
 area: personal-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Peter Bro Miltersen
-  - Matt Parker
+category: science
 companies_orgs:
-  - Brilliant
-  - Veritasium
-products_models: []
+- Brilliant
+- Veritasium
+date: '2022-06-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - perplexing probability course
-  - joy of problem solving course
+- perplexing probability course
+- joy of problem solving course
+people:
+- Peter Bro Miltersen
+- Matt Parker
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=iSNsgj1OCLA
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了著名的“100囚犯问题”，这是一个反直觉的数学谜题。在随机选择的情况下，所有囚犯获释的概率微乎其微，但通过巧妙的循环策略，成功率可提升至惊人的30%以上。文章详细解释了该策略的数学原理，包括循环结构、概率计算以及当囚犯数量趋于无限时，成功率如何逼近1减自然对数2的极限。
+tags:
+- combinatoric
+- philosophy
+- problem
+- strategy
+- theory
+title: 即使知道答案也看似不可能的谜题：100囚犯问题
 ---
+
 ### 挑战直觉的囚犯谜题
 
 有一个谜题，它的反直觉程度之高，即使你已经知道了答案，仍然会觉得它似乎是错的。

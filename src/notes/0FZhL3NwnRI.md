@@ -1,57 +1,55 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Berkshire Hathaway
+- Naspers
+- Tencent
+- Herbal Life
+- Pershing Square Capital Management
+- GGP
+- Brookfield Corporation
+- Chipotle Mexican Grill
+- GameStop
+- PayPal
+- Meta
+- Moon Pay
+- FBI
 date: '2024-06-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富的逻辑》
+people:
+- Warren Buffett
+- Ajit Jain
+- Cos Becker
+- Rish
+- Bill Ackman
+- Carl Icahn
+- Nake Le
+- Bruce
+- Ban Ni Ni
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=0FZhL3NwnRI
 speaker: Shijun Tang
-tags:
-  - value-investing
-  - long-term-holding
-  - contrarian-investing
-  - lifestyle-inflation
-  - compound-interest
-title: 四位投资大佬的成功之道：从巴菲特到逆向思维，解密价值投资的底层逻辑
-summary: 本文深入剖析四位传奇投资人——巴菲特、Naspers、Rish、Bill Ackman与Nake Le的投资哲学，揭示‘围圈防御’、长期持有与逆向思维的价值投资核心，并批判生活方式通胀与投机泡沫，强调理性分析与耐心等待是财富积累的真正路径。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - investment-strategy
-people:
-  - Shijun Tang
-  - Warren Buffett
-  - Ajit Jain
-  - Cos Becker
-  - Rish
-  - Bill Ackman
-  - Carl Icahn
-  - Nake Le
-  - Bruce
-  - Ban Ni Ni
-companies_orgs:
-  - Berkshire Hathaway
-  - Naspers
-  - Tencent
-  - Herbal Life
-  - Pershing Square Capital Management
-  - GGP
-  - Brookfield Corporation
-  - Chipotle Mexican Grill
-  - GameStop
-  - PayPal
-  - Meta
-  - Moon Pay
-  - FBI
-products_models: []
-media_books:
-  - 《财富的逻辑》
 status: evergreen
+summary: 本文深入剖析四位传奇投资人——巴菲特、Naspers、Rish、Bill Ackman与Nake Le的投资哲学，揭示‘围圈防御’、长期持有与逆向思维的价值投资核心，并批判生活方式通胀与投机泡沫，强调理性分析与耐心等待是财富积累的真正路径。
+tags:
+- compound-interest
+- investing
+- lifestyle-inflation
+- long
+title: 四位投资大佬的成功之道：从巴菲特到逆向思维，解密价值投资的底层逻辑
 ---
+
 ### 围圈防御：巴菲特与长期持有的价值哲学
 
 在我研究印度“巴菲特”Mohnish Pabrai的过程中，最受益于他提出的“围圈防御”（Wagon Circles）理念。这一术语源自19世纪美国西进运动：当大篷车队遭遇美洲原住民攻击时，最佳防御方式是将所有车辆围成一圈，形成坚固的防御工事。这一比喻精准映射了价值投资的核心逻辑。

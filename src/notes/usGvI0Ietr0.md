@@ -1,51 +1,48 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Vanity Fair
+- Republican National Committee
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《名利场》
+- The Gatekeepers
+people:
+- Susie Wiles
+- Donald Trump
+- JD Vance
+- Marco Rubio
+- Elon Musk
+- George W. Bush
+- Bill Clinton
+- James Comey
+- Letitia James
+- John Kelly
+- Reince Priebus
+- Steve Bannon
+- Ivanka Trump
+- Jared Kushner
+- Mick Mulvaney
+- Vipul
+products_models: []
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=usGvI0Ietr0
 speaker: 北美王路飞
-tags:
-  - trump
-  - white-house
-  - politics
-  - interview
-  - chief-of-staff
-title: 白宫幕僚长苏珊·威尔斯惊人爆料：深度解析特朗普政府内幕
-summary: 本文基于对白宫前幕僚长**苏珊·威尔斯**（Susie Wiles）在《名利场》杂志采访的深度解读。威尔斯女士详细阐述了**白宫幕僚长**的权力与职责，并对**唐纳德·特朗普**及其多位内阁成员和政治盟友进行了尖锐评价，包括**JD·万斯**、**马可·卢比奥**、**埃隆·马斯克**等。采访揭示了特朗普政府内部的运作模式、权力斗争以及**苏珊·威尔斯**本人在其中扮演的复杂角色，并探讨了这些爆料对特朗普政治生涯的潜在影响。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-people:
-  - Susie Wiles
-  - Donald Trump
-  - JD Vance
-  - Marco Rubio
-  - Elon Musk
-  - George W. Bush
-  - Bill Clinton
-  - James Comey
-  - Letitia James
-  - John Kelly
-  - Reince Priebus
-  - Steve Bannon
-  - Ivanka Trump
-  - Jared Kushner
-  - Mick Mulvaney
-  - Vipul
-companies_orgs:
-  - Vanity Fair
-  - Republican National Committee
-products_models: []
-media_books:
-  - 《名利场》
-  - The Gatekeepers
 status: evergreen
+summary: 本文基于对白宫前幕僚长**苏珊·威尔斯**（Susie Wiles）在《名利场》杂志采访的深度解读。威尔斯女士详细阐述了**白宫幕僚长**的权力与职责，并对**唐纳德·特朗普**及其多位内阁成员和政治盟友进行了尖锐评价，包括**JD·万斯**、**马可·卢比奥**、**埃隆·马斯克**等。采访揭示了特朗普政府内部的运作模式、权力斗争以及**苏珊·威尔斯**本人在其中扮演的复杂角色，并探讨了这些爆料对特朗普政治生涯的潜在影响。
+tags:
+- chief-of-staff
+- interview
+title: 白宫幕僚长苏珊·威尔斯惊人爆料：深度解析特朗普政府内幕
 ---
+
 ### 白宫幕僚长角色
 
 我认为之前可能离职的是**苏珊·威尔斯**（Susie Wiles）。我们来聊聊**苏珊·威尔斯**，以及她最近在《名利场》杂志的这件事情。我相信你也看了，老尹有没有看那个采访？我大致上了解了一下。

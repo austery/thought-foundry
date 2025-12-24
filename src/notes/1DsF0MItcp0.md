@@ -1,28 +1,26 @@
 ---
-title: 从迷茫到掌控：AI赋能下的硅谷职业与个人成长实践
-summary: 讲述了作者如何在硅谷通过AI工具实现职业转型，从运营走向高价值战略分析，并借助黑客松经历突破自我局限。她在创业实践中克服了失败恐惧，提升了判断力与沟通力，最终赢得顶级黑客松奖项，实现了个人与职业的全面成长。
 area: personal-growth
 category: career
-project:
-- personal-growth-lab
-tags:
-- career-transformation
-- hackathon
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-11'
-author: 课代表立正
-speaker: 课代表立正
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=1DsF0MItcp0
+speaker: 课代表立正
 status: evergreen
+summary: 讲述了作者如何在硅谷通过AI工具实现职业转型，从运营走向高价值战略分析，并借助黑客松经历突破自我局限。她在创业实践中克服了失败恐惧，提升了判断力与沟通力，最终赢得顶级黑客松奖项，实现了个人与职业的全面成长。
+tags:
+- hackathon
+- transformation
+title: 从迷茫到掌控：AI赋能下的硅谷职业与个人成长实践
 ---
+
 ### AI助力下的职业转型与高价值工作聚焦
 
 我上次与你交流时，你认为我仍从事**DEDA**（Data Engineer/Data Analyst: 数据工程师/数据分析师，这两种角色都涉及数据处理与分析）的角色。直到看到我的小红书，你才了解到我已参与了如此多的项目。你曾听我提及过一些AI项目，但可能误以为那只是几个朋友周末的玩乐。然而，事情的发展出乎意料，我希望能与你分享这段经历。

@@ -1,41 +1,37 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 中国银行
+- 工商银行
+- 农业银行
+- 招商银行
+- 科尔瑞
+- 中国人民银行
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《2025中国城市住房断供率研究报告》
+products_models: []
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=zPghdBSEhk4
 speaker: 小翠時政財經
-tags:
-  - china-economy
-  - banking-sector
-  - loan-demand
-  - non-performing-loans
-  - monetary-policy
-title: 透视中国银行三季度财报：经济未触底，风险持续累积，央行降息展望
-summary: 本文通过深入分析中国上市银行（特别是招商银行和工商银行）2025年三季度财报，揭示了中国经济当前面临的严峻挑战。尽管资本市场回暖带动银行非息收入增长，但净息差持续收窄、居民部门信贷需求疲软、个人贷款坏账率飙升等问题凸显经济下行压力。文章指出，中国经济远未触底，风险仍在累积，并预测央行可能在2026年一季度降息以缓解压力，但银行股基本面短期内难有大行情。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 小翠
-companies_orgs:
-  - 中国银行
-  - 工商银行
-  - 农业银行
-  - 招商银行
-  - 科尔瑞
-  - 中国人民银行
-products_models: []
-media_books:
-  - 《2025中国城市住房断供率研究报告》
 status: evergreen
+summary: 本文通过深入分析中国上市银行（特别是招商银行和工商银行）2025年三季度财报，揭示了中国经济当前面临的严峻挑战。尽管资本市场回暖带动银行非息收入增长，但净息差持续收窄、居民部门信贷需求疲软、个人贷款坏账率飙升等问题凸显经济下行压力。文章指出，中国经济远未触底，风险仍在累积，并预测央行可能在2026年一季度降息以缓解压力，但银行股基本面短期内难有大行情。
+tags:
+- china-economy
+- financial
+- non
+title: 透视中国银行三季度财报：经济未触底，风险持续累积，央行降息展望
 ---
+
 ### 中国经济宏观脉搏：透过银行财报看变化
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月4日。本期节目，我们将透过银行财报来观察宏观经济变化，为中国经济把脉。今年中国股市表现良好，从年初至今，上证指数已上涨超过20%，甚至一度冲上4,000点。那么，资本市场的火热能否缓解目前中国银行业面临的利润压力？又是否能提振市场信心呢？本期节目，我们将从三季度的银行财报中寻找答案。

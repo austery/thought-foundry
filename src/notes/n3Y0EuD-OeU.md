@@ -1,48 +1,48 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- Department of Homeland Security
+- World Weather Attribution
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Will Jarvis
+- Tracy Mumford
+- Donald Trump
+- Shawn Duffy
+- Adam Liptac
+- Claudia Sheinbaum
+- Eli Tan
+- Emma
+products_models:
+- Tinder
+- Grinder
+- Hinge
+project:
+- us-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=n3Y0EuD-OeU
 speaker: New York Times Podcasts
-tags:
-  - tariffs
-  - presidential-authority
-  - government-shutdown
-  - climate-change-impact
-  - ai-dating-apps
-title: 特朗普关税案面临最高法院考验，多国社会议题引关注
-summary: 本期节目聚焦美国最高法院审理特朗普政府关税政策的合法性，探讨总统权力边界及其潜在经济影响。同时，节目还关注美国政府停摆导致的航空管制、移民拘留中心的人道状况，墨西哥总统谢因鲍姆推动打击性骚扰的努力，气候变化对飓风强度的影响，以及约会应用如何利用人工智能应对用户“绝望循环”等多元社会议题。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Will Jarvis
-  - Tracy Mumford
-  - Donald Trump
-  - Shawn Duffy
-  - Adam Liptac
-  - Claudia Sheinbaum
-  - Eli Tan
-  - Emma
-companies_orgs:
-  - New York Times
-  - Department of Homeland Security
-  - World Weather Attribution
-products_models:
-  - Tinder
-  - Grinder
-  - Hinge
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期节目聚焦美国最高法院审理特朗普政府关税政策的合法性，探讨总统权力边界及其潜在经济影响。同时，节目还关注美国政府停摆导致的航空管制、移民拘留中心的人道状况，墨西哥总统谢因鲍姆推动打击性骚扰的努力，气候变化对飓风强度的影响，以及约会应用如何利用人工智能应对用户“绝望循环”等多元社会议题。
+tags:
+- canada
+- climate-change-impact
+- government-shutdown
+- llm
+- tariff
+title: 特朗普关税案面临最高法院考验，多国社会议题引关注
 ---
+
 ### 特朗普关税案在最高法院受审
 
 来自《纽约时报》的头条新闻。我是威尔·贾维斯（Will Jarvis），代班特蕾西·芒福德（Tracy Mumford）。今天是11月6日星期四，以下是我们正在报道的内容。

@@ -1,49 +1,48 @@
 ---
-author: 徒步的騎手
-date: 2025-01-12
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ZmreL0JNUmI'
-speaker: 徒步的騎手
-tags:
-  - self-made-man
-  - personal-resilience
-  - life-philosophy
-  - overcoming-uncertainty
-  - american-spirit
-title: 自我创造的人：美国精神、人生哲理与普通人的故事
-summary: 本文探讨了美国社会中根深蒂固的“自我创造的人”精神，从开国元勋本杰明·富兰克林到现代企业家埃隆·马斯克，以及身边普通人的故事，如从蒙大拿徒步到德州的约翰，从土耳其移民美国成为畅销书作家的奥赞·瓦罗，以及克服病痛坚持旅行的夏威夷夫妇。文章通过这些生动案例，深入剖析了这种精神的内涵：不畏艰难、勇于冒险、积极心态、追求好奇心，并强调了在不同文化背景下，人类共同人性的存在以及抓住和创造机会的重要性。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Benjamin Franklin
-  - Abraham Lincoln
-  - Ronald Reagan
-  - Thomas Edison
-  - Henry Ford
-  - Elon Musk
-  - Ozan Varol
-  - Li Yinuo
-  - Martin
-  - Karen
+category: psychology
 companies_orgs:
-  - Cornell University
-  - McKinsey
-  - Gates Foundation
-  - Sam Houston National Forest
-  - University of Hawaii
-products_models: '[]'
+- Cornell University
+- McKinsey
+- Gates Foundation
+- Sam Houston National Forest
+- University of Hawaii
+date: 2025-01-12
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《民主政变》
-  - 《唤醒你的天才》
-  - Wall Street Journal
+- 《民主政变》
+- 《唤醒你的天才》
+- Wall Street Journal
+people:
+- Benjamin Franklin
+- Abraham Lincoln
+- Ronald Reagan
+- Thomas Edison
+- Henry Ford
+- Elon Musk
+- Ozan Varol
+- Li Yinuo
+- Martin
+- Karen
+products_models: '[]'
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ZmreL0JNUmI
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了美国社会中根深蒂固的“自我创造的人”精神，从开国元勋本杰明·富兰克林到现代企业家埃隆·马斯克，以及身边普通人的故事，如从蒙大拿徒步到德州的约翰，从土耳其移民美国成为畅销书作家的奥赞·瓦罗，以及克服病痛坚持旅行的夏威夷夫妇。文章通过这些生动案例，深入剖析了这种精神的内涵：不畏艰难、勇于冒险、积极心态、追求好奇心，并强调了在不同文化背景下，人类共同人性的存在以及抓住和创造机会的重要性。
+tags:
+- american-spirit
+- life-philosophy
+- llm
+- personal-resilience
+- self
+title: 自我创造的人：美国精神、人生哲理与普通人的故事
 ---
 
 ### 美国精神的基石：自我创造的人

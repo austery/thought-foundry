@@ -1,134 +1,134 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: general
+companies_orgs:
+- SEIU
+- LVMH
+- FBI
+- NBA
+- Miami Heat
+- Portland Trail Blazers
+- Poly Market
+- DraftKings
+- FanDuel
+- Netflix
+- Amazon
+- AWS
+- Microsoft
+- Google
+- Oracle
+- Climate Corp
+- DeepMind
+- Boston Dynamics
+- Alphabet
+- Silver Lake
+- Verily
+- Walmart
+- Uber
+- DoorDash
+- Tesla
+- TSMC
+- Samsung
+- Glass Lewis
+- ISS
+- SpaceX
+- OpenAI
+- Center for AI Safety
+- Wikipedia
+- Domino's
+- Cipriani
+- Invesco
+- CBS
+- Meta
+- Rumble
+- YouTube
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- The New York Post
+- Molly's Game
+- Severance
+- Andor
+- Blade Runner 2049
+- 60 Minutes
+people:
+- Gavin Newsom
+- Larry Ellison
+- Elon Musk
+- Jeffrey Katzenberg
+- Ari Emanuel
+- Karen Bass
+- Rick Caruso
+- Gerard Depardieu
+- Bernard Arnault
+- Chauncey Billups
+- Terry Rozier
+- Hunter Biden
+- Kash Patel
+- Ben Stiller
+- Andy Jassy
+- Bernie Sanders
+- Sergey Brin
+- Larry Page
+- Warren Buffett
+- Stanley Druckenmiller
+- Ira Ehrenpreis
+- Kathleen Wilson-Thompson
+- Chris Rufo
+- Phil Hellmuth
+- Jared Leto
+- Denis Villeneuve
+- Joe Biden
+- Beyonce
+- Oprah Winfrey
+- Paris Hilton
+- Donald Trump
+- Vladimir Putin
+- Larry Sanger
+- Megyn Kelly
+- Rachel Maddow
+- Bari Weiss
+products_models:
+- Prop 55
+- Roth IRA
+- EC2
+- TPU
+- TensorFlow
+- GFS
+- Waymo
+- Gemini
+- Dojo
+- AI5
+- Cyber Cab
+- Optimus
+- FSD
+- GPT-4o
+- Claude Sonnet
+- GPT-5
+- Grok
+- QQQ
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=l__Koacw_oI
 speaker: All-In Podcast
-tags:
-  - wealth-tax
-  - ai-bias
-  - market-regulation
-  - corporate-governance
-  - job-displacement
-title: 加州“亿万富翁税”争议：深度解析科技、政治与社会热点
-summary: 本期内容深入探讨了加州备受争议的“亿万富翁税”提案，剖析其背后的政治动机、法律障碍以及可能引发的经济后果。同时，内容还覆盖了NBA惊爆的赌博丑闻及其对体育博彩市场的影响，亚马逊AWS大规模宕机和其雄心勃勃的机器人自动化计划，特斯拉超越汽车制造商的未来愿景，以及大型语言模型中潜藏的、可能影响社会价值观的危险偏见。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Gavin Newsom
-  - Larry Ellison
-  - Elon Musk
-  - Jeffrey Katzenberg
-  - Ari Emanuel
-  - Karen Bass
-  - Rick Caruso
-  - Gerard Depardieu
-  - Bernard Arnault
-  - Chauncey Billups
-  - Terry Rozier
-  - Hunter Biden
-  - Kash Patel
-  - Ben Stiller
-  - Andy Jassy
-  - Bernie Sanders
-  - Sergey Brin
-  - Larry Page
-  - Warren Buffett
-  - Stanley Druckenmiller
-  - Ira Ehrenpreis
-  - Kathleen Wilson-Thompson
-  - Chris Rufo
-  - Phil Hellmuth
-  - Jared Leto
-  - Denis Villeneuve
-  - Joe Biden
-  - Beyonce
-  - Oprah Winfrey
-  - Paris Hilton
-  - Donald Trump
-  - Vladimir Putin
-  - Larry Sanger
-  - Megyn Kelly
-  - Rachel Maddow
-  - Bari Weiss
-companies_orgs:
-  - SEIU
-  - LVMH
-  - FBI
-  - NBA
-  - Miami Heat
-  - Portland Trail Blazers
-  - Poly Market
-  - DraftKings
-  - FanDuel
-  - Netflix
-  - Amazon
-  - AWS
-  - Microsoft
-  - Google
-  - Oracle
-  - Climate Corp
-  - DeepMind
-  - Boston Dynamics
-  - Alphabet
-  - Silver Lake
-  - Verily
-  - Walmart
-  - Uber
-  - DoorDash
-  - Tesla
-  - TSMC
-  - Samsung
-  - Glass Lewis
-  - ISS
-  - SpaceX
-  - OpenAI
-  - Center for AI Safety
-  - Wikipedia
-  - Domino's
-  - Cipriani
-  - Invesco
-  - CBS
-  - Meta
-  - Rumble
-  - YouTube
-products_models:
-  - Prop 55
-  - Roth IRA
-  - EC2
-  - TPU
-  - TensorFlow
-  - GFS
-  - Waymo
-  - Gemini
-  - Dojo
-  - AI5
-  - Cyber Cab
-  - Optimus
-  - FSD
-  - GPT-4o
-  - Claude Sonnet
-  - GPT-5
-  - Grok
-  - QQQ
-media_books:
-  - The New York Times
-  - The New York Post
-  - Molly's Game
-  - Severance
-  - Andor
-  - Blade Runner 2049
-  - 60 Minutes
 status: evergreen
+summary: 本期内容深入探讨了加州备受争议的“亿万富翁税”提案，剖析其背后的政治动机、法律障碍以及可能引发的经济后果。同时，内容还覆盖了NBA惊爆的赌博丑闻及其对体育博彩市场的影响，亚马逊AWS大规模宕机和其雄心勃勃的机器人自动化计划，特斯拉超越汽车制造商的未来愿景，以及大型语言模型中潜藏的、可能影响社会价值观的危险偏见。
+tags:
+- bias
+- corporate-governance
+- job-displacement
+- market-regulation
+- wealth
+title: 加州“亿万富翁税”争议：深度解析科技、政治与社会热点
 ---
+
 ### 加州“亿万富翁税”提案：一场政治作秀还是财政良方？
 
 加州的财富税到底是怎么回事？**SEIU**（Service Employees International Union: 服务业雇员国际工会，一个影响力巨大的劳工组织）提出了一项直接面向选民的投票倡议，旨在修订加州宪法，征收一次性的“亿万富翁财富税”。根据该提案，任何净资产（扣除债务后）超过十亿美元的个人，都必须一次性缴纳其净资产5%的税款，这包括了他们的非上市公司股票和房地产。

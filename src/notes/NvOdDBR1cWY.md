@@ -1,97 +1,97 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- Bobcat Gang
+- Nvidia
+- OpenAI
+- Microsoft
+- Apple
+- Siemens
+- HD Hyundai
+- Blue Forge Alliance
+- Accenture
+- Citron
+- SEC
+- Fannie Mae
+- Tyson Foods
+- Cisco
+- US Army
+- US Navy
+- US Air Force
+- US Space Force
+- Department of War
+- Defense Intelligence System Agency (DISA)
+- Stratcom
+- NATO
+- DARPA
+- L3Harris
+- Raytheon
+- Booz Allen Hamilton
+- General Dynamics
+- Anduril
+- Reuters
+- IRS
+- VA
+- State Department
+- Bravo One
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- South Park
+- The Big Short
+people:
+- Adam (Gokarp)
+- Peter Thiel
+- Michael Burry
+- Jack Prescott
+- Kathy Wood
+- Alex Karp
+- Jensen Huang
+- Andrew Left
+- Lauren Ballock
+- Sham Sankar
+products_models:
+- Foundry
+- Apollo
+- Aegis
+- Maven Smart System
+- Gaia
+- Maverick
+- Army Intelligence Data Platform (AIDP)
+- Titan
+- NGC2 (Next Generation Command and Control)
+- Vantage
+- Skywise
+- Oceanwise
+- ChatGPT
+- Grok
+- Claude
+- Optimus
+- Figure
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=NvOdDBR1cWY
 speaker: Amit Kukreja
-tags:
-  - military-technology
-  - government-contracts
-  - ai-operating-system
-  - stock-valuation
-  - disruptive-technology
-title: Palantir 深度解析：专家解读其政府业务与军事技术核心
-summary: 资深 Palantir 分析师 Adam (Gokarp) 深入探讨了公司创纪录的季度表现，并驳斥了 Michael Burry 的看空立场。对话的核心是对 Palantir 政府业务的详细剖析，特别是与美国陆军签订的价值100亿美元的企业协议。Adam 详细解读了 Maven、Gaia 和 AIDP 等关键军事产品的运作方式、它们在现代战场（如电磁频谱作战）中的应用，以及它们如何共同构成 JADC2 战略的支柱。本次讨论揭示了 Palantir 在国防技术领域的深厚护城河及其未来的增长潜力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Amit Kukreja
-  - Adam (Gokarp)
-  - Peter Thiel
-  - Michael Burry
-  - Jack Prescott
-  - Kathy Wood
-  - Alex Karp
-  - Jensen Huang
-  - Andrew Left
-  - Lauren Ballock
-  - Sham Sankar
-companies_orgs:
-  - Palantir
-  - Bobcat Gang
-  - Nvidia
-  - OpenAI
-  - Microsoft
-  - Apple
-  - Siemens
-  - HD Hyundai
-  - Blue Forge Alliance
-  - Accenture
-  - Citron
-  - SEC
-  - Fannie Mae
-  - Tyson Foods
-  - Cisco
-  - US Army
-  - US Navy
-  - US Air Force
-  - US Space Force
-  - Department of War
-  - Defense Intelligence System Agency (DISA)
-  - Stratcom
-  - NATO
-  - DARPA
-  - L3Harris
-  - Raytheon
-  - Booz Allen Hamilton
-  - General Dynamics
-  - Anduril
-  - Reuters
-  - IRS
-  - VA
-  - State Department
-  - Bravo One
-products_models:
-  - Foundry
-  - Apollo
-  - Aegis
-  - Maven Smart System
-  - Gaia
-  - Maverick
-  - Army Intelligence Data Platform (AIDP)
-  - Titan
-  - NGC2 (Next Generation Command and Control)
-  - Vantage
-  - Skywise
-  - Oceanwise
-  - ChatGPT
-  - Grok
-  - Claude
-  - Optimus
-  - Figure
-media_books:
-  - South Park
-  - The Big Short
 status: evergreen
+summary: 资深 Palantir 分析师 Adam (Gokarp) 深入探讨了公司创纪录的季度表现，并驳斥了 Michael Burry 的看空立场。对话的核心是对
+  Palantir 政府业务的详细剖析，特别是与美国陆军签订的价值100亿美元的企业协议。Adam 详细解读了 Maven、Gaia 和 AIDP 等关键军事产品的运作方式、它们在现代战场（如电磁频谱作战）中的应用，以及它们如何共同构成
+  JADC2 战略的支柱。本次讨论揭示了 Palantir 在国防技术领域的深厚护城河及其未来的增长潜力。
+tags:
+- government
+- stock-valuation
+- system
+- technology
+title: Palantir 深度解析：专家解读其政府业务与军事技术核心
 ---
+
 ### 嘉宾介绍与政府业务背景
 
 **Amit:** 好的，大家好，欢迎回到新一期节目。今天我请来了 Adam，也就是 Gokarp。我把他的推特链接放在聊天区了，还没关注他的朋友可以去关注一下。我的频道有很多新订阅者，所以如果你不认识 Adam，他是 Palantir 社区的**OG**（Original Gangsters：指元老级或创始成员）之一，是帮助大家理解 Palantir 政府业务的绝对瑰宝。我想他过去四年里花了无数个小时，我估计得超过一万小时，才像现在这样深入理解政府业务。他确实帮助了整个散户社区理解这一点。过去一年我们大概做了六七次直播，所以这次应该是第八次了。我们将更深入地探讨政府业务。Adam，你好吗？

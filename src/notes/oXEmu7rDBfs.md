@@ -1,31 +1,29 @@
 ---
-title: 特朗普与埃及总统会晤：聚焦加沙和平与中东未来
-summary: 本文记录了特朗普与埃及总统的会晤，讨论了埃及在加沙和平进程中的关键作用、对伊朗的制裁及潜在协议、加沙地带的人道主义援助与重建，以及中东和平协议的进展。双方强调了领导力、合作与区域转型的愿景。
 area: null
 category: null
-project: []
-tags:
-- egypt
-- gaza-peace-deal
-- iran-sanctions
-- middle-east
-people:
-- trump
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+people:
+- trump
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oXEmu7rDBfs
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本文记录了特朗普与埃及总统的会晤，讨论了埃及在加沙和平进程中的关键作用、对伊朗的制裁及潜在协议、加沙地带的人道主义援助与重建，以及中东和平协议的进展。双方强调了领导力、合作与区域转型的愿景。
+tags:
+- geopolitical
+- geopolitics
+title: 特朗普与埃及总统会晤：聚焦加沙和平与中东未来
 ---
+
 ### 开场致辞与对埃及的赞扬
 
 Do you want to have a couple of questions as we're having an amazing period of time, like nobody's seen before?

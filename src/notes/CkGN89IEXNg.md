@@ -1,31 +1,30 @@
 ---
-title: 《外星人》解读：哈佛天文学家为何坚信“奥陌陌”是外星文明的造物？
-summary: 哈佛大学天文学家阿维·洛布通过分析神秘天体“奥陌陌”的奇特现象，论证了外星文明存在的可能性，并批判了科学界的保守主义。
 area: null
 category: null
-project: []
-tags:
-- astronomy
-- avi-loeb
-- extraterrestrial-life
-- oumuamua
-- scientific-conservatism
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-07-12'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+- avi-loeb
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CkGN89IEXNg
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 哈佛大学天文学家阿维·洛布通过分析神秘天体“奥陌陌”的奇特现象，论证了外星文明存在的可能性，并批判了科学界的保守主义。
+tags:
+- life
+- oumuamua
+- science
+- scientific
+title: 《外星人》解读：哈佛天文学家为何坚信“奥陌陌”是外星文明的造物？
 ---
+
 ### 一部严肃的天文科普：《外星人》
 
 最近有朋友建议我讲一些轻松有趣的话题，这与我的想法不谋而合。今天我要介绍的书，虽然轻松有趣，但同样能激发有价值的思考。这本书就是阿维·洛布（Avi Loeb）所著的《外星人》。

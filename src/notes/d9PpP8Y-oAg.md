@@ -1,32 +1,32 @@
 ---
-title: 《福利大博弈》：欧洲福利制度源于阶级妥协，而非马克思主义
-summary: 本文基于彼得·鲍德温的《福利大博弈》，探讨欧洲福利制度的真正起源，指出其并非马克思主义的产物，而是各社会阶层利益博弈与团结的结果。
 area: personal-growth
 category: culture
-project:
-- historical-insights
-tags:
-- book-review
-- european-history
-- marxism
-- social-solidarity
-- welfare-state
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-09'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- book-review
+people:
+- stella-an
+- marxism
+products_models: []
+project:
+- historical-insights
 series: ''
 source: https://www.youtube.com/watch?v=d9PpP8Y-oAg
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 本文基于彼得·鲍德温的《福利大博弈》，探讨欧洲福利制度的真正起源，指出其并非马克思主义的产物，而是各社会阶层利益博弈与团结的结果。
+tags:
+- history
+- social
+- state
+title: 《福利大博弈》：欧洲福利制度源于阶级妥协，而非马克思主义
 ---
+
 ### 对“福利国家源于马克思主义”的错误认知
 
 最近，我看到一种令人啼笑皆非的观点，声称欧洲的福利国家制度是以马克思主义理论为基础发展而来，是马克思主义的胜利。这种颠倒黑白的程度，不亚于说“希特勒建立集中营是为了保护犹太人”。如果说欧洲的福利国家制度是在批判马克思主义的基础上发展起来的，或许还稍微沾点边。

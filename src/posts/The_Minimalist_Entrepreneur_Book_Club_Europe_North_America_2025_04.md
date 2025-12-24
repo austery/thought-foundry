@@ -6,16 +6,16 @@ category: business
 project:
 - entrepreneurship
 tags:
-  - entrepreneurship
-  - 副业
+- entrepreneurship
+- side-hustle
 people:
-  - Vivian
-  - Simon L
-  - Ge Su
-  - 路遥
-  - Kathy
-  - 翻新
-  - Fancy
+- Vivian
+- Simon L
+- Ge Su
+- 路遥
+- Kathy
+- 翻新
+- Fancy
 companies_orgs: []
 products_models: []
 media_books:
@@ -30,6 +30,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与介绍
 
 ### Vivian:

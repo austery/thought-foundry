@@ -1,51 +1,50 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Circle
+- Disney
+- ARM
+- Coinbase
+- Galaxy
+- Robinhood
+- BlackRock
+- Amazon
+- JPMorgan
+- Citibank
+- Federal Reserve
+- Wall Street Journal
+- Investing.com
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nick Timiraos
+- 段永平
+products_models:
+- USDC
+- ARRC
+- AI选股功能
+project:
+- investment-strategy
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=NldPZW4VHHU
 speaker: 投资TALK君
-tags:
-  - stablecoin-market
-  - ai-valuation
-  - fed-policy
-  - market-sentiment
-  - investment-risk-management
-title: Circle财报暴雷与美联储降息分歧：AI泡沫下的市场叙事与投资策略
-summary: 本文深入探讨了稳定币发行商Circle在财报发布后股价大跌的事件，以及美联储内部对12月是否降息的激烈分歧。文章强调，在当前市场对AI泡沫存在争议的背景下，投资者应超越短期市场情绪，回归基本面分析。同时，文中还分享了机构投资者转向防御性成长股的策略，并提供了个人投资者在风险管理和仓位配置方面的建议，以应对市场波动和不确定性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
-people:
-  - Nick Timiraos
-  - 段永平
-companies_orgs:
-  - Circle
-  - Disney
-  - ARM
-  - Coinbase
-  - Galaxy
-  - Robinhood
-  - BlackRock
-  - Amazon
-  - JPMorgan
-  - Citibank
-  - Federal Reserve
-  - Wall Street Journal
-  - Investing.com
-products_models:
-  - USDC
-  - ARRC
-  - AI选股功能
-media_books: []
 status: evergreen
+summary: 本文深入探讨了稳定币发行商Circle在财报发布后股价大跌的事件，以及美联储内部对12月是否降息的激烈分歧。文章强调，在当前市场对AI泡沫存在争议的背景下，投资者应超越短期市场情绪，回归基本面分析。同时，文中还分享了机构投资者转向防御性成长股的策略，并提供了个人投资者在风险管理和仓位配置方面的建议，以应对市场波动和不确定性。
+tags:
+- ai-valuation
+- fed-policy
+- investment-risk-management
+- market
+- market-sentiment
+title: Circle财报暴雷与美联储降息分歧：AI泡沫下的市场叙事与投资策略
 ---
+
 ### 市场概览与Circle财报表现
 
 各位观众大家好，欢迎来到本专业美股频道。我是市场分析师小涛。我的所有持仓中，大部分公司已发布财报，仅剩两家：周三发布财报的**Circle**和周四早上发布财报的**Disney**。此前已发布财报的公司表现基本令人满意，股价走势也符合预期。

@@ -1,51 +1,50 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 美联储
+- MSCI
+- 苹果
+- 特斯拉
+- 小米
+- 比亚迪
+- 亚马逊
+- Alibaba
+- 美团
+- Microsoft
+- 腾讯
+- 立讯
+- 歌尔股份
+- 金山云
+- 中芯国际
+- 华虹宏力
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- 巴菲特
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=sAhusI_4QVE
 speaker: 海淀拙大叔
-tags:
-  - us-debt-crisis
-  - dollar-depreciation
-  - china-asset-pricing
-  - fed-monetary-policy
-  - economic-recession
-title: 美国战略收缩与弱美元周期：中国资产的投资机遇分析
-summary: 本文深入分析了美国在川普时期可能采取的战略收缩政策，包括其核心目的——化解巨额国债。文章指出，这些政策可能导致弱美元周期和经济衰退，并详细探讨了美联储降息的考量指标及潜在幅度。在此背景下，作者预测全球资产将普遍通胀，资本将流出美国并加速流入中国等新兴市场。文章进一步阐述了中国资产价格“东升西落”的逻辑，包括中美周期的互逆、政策空间的差异以及中国资产的低估值，并为投资者提供了港股市场的结构性机会建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - 巴菲特
-companies_orgs:
-  - 美联储
-  - MSCI
-  - 苹果
-  - 特斯拉
-  - 小米
-  - 比亚迪
-  - 亚马逊
-  - 阿里巴巴
-  - 美团
-  - 微软
-  - 腾讯
-  - 立讯
-  - 歌尔股份
-  - 金山云
-  - 中芯国际
-  - 华虹宏力
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了美国在川普时期可能采取的战略收缩政策，包括其核心目的——化解巨额国债。文章指出，这些政策可能导致弱美元周期和经济衰退，并详细探讨了美联储降息的考量指标及潜在幅度。在此背景下，作者预测全球资产将普遍通胀，资本将流出美国并加速流入中国等新兴市场。文章进一步阐述了中国资产价格“东升西落”的逻辑，包括中美周期的互逆、政策空间的差异以及中国资产的低估值，并为投资者提供了港股市场的结构性机会建议。
+tags:
+- china
+- crisis
+- economic-recession
+- fed-monetary-policy
+- technology
+title: 美国战略收缩与弱美元周期：中国资产的投资机遇分析
 ---
+
 ### 川普战略收缩的核心目的与矛盾
 
 阿甘经济宏观论第16集，美国战略大收缩的第五部分，主题是弱美元下的中国资产定价。时间是2025年3月26号。我们原来说过，川普大收缩的核心目的就是化解债务。当前，美国国债的规模已经突破了36万亿美元，债务与GDP的比率已经达到了150%。因此，对川普来说，最大的任务就是遏制美国国债的增长，并强化对美元的信心。川普手里面有三大法宝：增加关税、削减政府开支以及制造业回流。

@@ -1,54 +1,54 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- Coreweave
+- Nebius
+- NVIDIA
+- Magnetar Financial LC
+- FMR LC
+- Fidelity
+- Jane Street
+- GPU Ventures
+- IBM
+- 橡树林国家实验室
+- 无锡国家超级计算中心
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- SEMIanalysis
+- x平台
+people:
+- Michael Burry
+- Michael
+- Bryan
+- Branny
+products_models:
+- GB200
+- H100
+- H200
+- 赴越
+- 神威太湖之光
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=nHOeGoPLO6g
 speaker: Money or Life 美股频道
-tags:
-  - gpu-depreciation
-  - insider-selling
-  - corporate-debt
-  - ai-market-outlook
-  - investment-risk
-title: Coreweave面临的三大争议：GPU折旧、内部套现与巨额债务深度解析
-summary: 本期视频深入探讨了云计算公司Coreweave面临的三大核心争议：GPU折旧年限的合理性、主要机构投资者及高管持续卖出股票的动机，以及其庞大的债务负担和季度利息支付压力。作者结合多方信息和自身投资经验，对这些争议进行了客观解读，并分享了其对Coreweave当前持仓计划的影响，旨在帮助投资者更全面地了解这家公司。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Michael Burry
-  - Michael
-  - Bryan
-  - Branny
-companies_orgs:
-  - Coreweave
-  - Nebius
-  - NVIDIA
-  - Magnetar Financial LC
-  - FMR LC
-  - Fidelity
-  - Jane Street
-  - GPU Ventures
-  - IBM
-  - 橡树林国家实验室
-  - 无锡国家超级计算中心
-products_models:
-  - GB200
-  - H100
-  - H200
-  - 赴越
-  - 神威太湖之光
-media_books:
-  - SEMIanalysis
-  - x平台
 status: evergreen
+summary: 本期视频深入探讨了云计算公司Coreweave面临的三大核心争议：GPU折旧年限的合理性、主要机构投资者及高管持续卖出股票的动机，以及其庞大的债务负担和季度利息支付压力。作者结合多方信息和自身投资经验，对这些争议进行了客观解读，并分享了其对Coreweave当前持仓计划的影响，旨在帮助投资者更全面地了解这家公司。
+tags:
+- ai-market-outlook
+- debt
+- insider-selling
+- investment-risk
+- technology
+title: Coreweave面临的三大争议：GPU折旧、内部套现与巨额债务深度解析
 ---
+
 大家好，欢迎来到Money or Life美股频道。本期视频，我们将深入探讨**Coreweave**（一家专注于提供大规模GPU云基础设施的云计算公司）目前争议最多的三个核心问题。这些是我在过去几天学习和收集信息后为大家总结的。
 
 ### 引言：Coreweave面临的三大争议

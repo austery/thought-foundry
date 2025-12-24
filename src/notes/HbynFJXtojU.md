@@ -1,52 +1,51 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Goldman Sachs
+- Brookfield Asset Management
 date: '2025-03-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Carney
+- Donald Trump
+- Justin Trudeau
+- Pierre Poilievre
+- Chrystia Freeland
+- Jean Chrétien
+- Dominic LeBlanc
+- Mélanie Joly
+- François-Philippe Champagne
+- Anita Anand
+- Steven Guilbeault
+- Marc Miller
+- Karina Gould
+- Mark Holland
+- Andrew Scheer
+- Benjamin Franklin
+- David Lammy
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=HbynFJXtojU
 speaker: 莊也雜談
-tags:
-  - canadian-politics
-  - us-canada-relations
-  - election-strategy
-  - political-leadership
-  - economic-governance
-title: 加拿大新總理馬克·卡尼：六大挑戰與大選抉擇
-summary: 馬克·卡尼以壓倒性優勢當選加拿大自由黨黨魁，即將接任總理，但面臨地獄級挑戰。這包括如何應對特朗普的關稅威脅和吞併言論、其自身政治經驗的缺乏、黨內團結問題、國內經濟民生困境，以及來自保守黨領袖博勵治的猛烈攻擊。此外，卡尼還需在極短的過渡期內決定是否提前大選，這將深刻影響加拿大未來的政治格局和對外關係。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Donald Trump
-  - Justin Trudeau
-  - Pierre Poilievre
-  - Chrystia Freeland
-  - Jean Chrétien
-  - Dominic LeBlanc
-  - Mélanie Joly
-  - François-Philippe Champagne
-  - Anita Anand
-  - Steven Guilbeault
-  - Marc Miller
-  - Karina Gould
-  - Mark Holland
-  - Andrew Scheer
-  - Benjamin Franklin
-  - David Lammy
-companies_orgs:
-  - Goldman Sachs
-  - Brookfield Asset Management
-products_models: []
-media_books: []
 status: evergreen
+summary: 馬克·卡尼以壓倒性優勢當選加拿大自由黨黨魁，即將接任總理，但面臨地獄級挑戰。這包括如何應對特朗普的關稅威脅和吞併言論、其自身政治經驗的缺乏、黨內團結問題、國內經濟民生困境，以及來自保守黨領袖博勵治的猛烈攻擊。此外，卡尼還需在極短的過渡期內決定是否提前大選，這將深刻影響加拿大未來的政治格局和對外關係。
+tags:
+- canadian-politics
+- economic
+- political-leadership
+- strategy
+- us-canada-relations
+title: 加拿大新總理馬克·卡尼：六大挑戰與大選抉擇
 ---
+
 ### 馬克·卡尼當選自由黨黨魁與面臨的挑戰
 
 今天我們來聊聊加拿大政壇的最新進展。當馬克·卡尼以壓倒性優勢登上自由黨黨魁寶座時，整個加拿大政壇屏住了呼吸。這位經濟奇才即將迎來的挑戰堪稱地獄難度，包括經濟陰霾、黨內分裂，以及虎視眈眈的反對黨。他不僅要迅速拼湊出一支足以重振自由黨雄風的內閣，而且還要面對來自外部，即特朗普直接的關稅壓迫。

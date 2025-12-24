@@ -1,49 +1,48 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- 腾讯
+- 亚马逊
+- 中国联通
+- 百度
+- 京东
+- 淘宝
+- 拼多多
+- 美团
+- 滴滴出行
 date: '2023-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李彦宏
+products_models:
+- Wechat
+- Google Map
+- 高德地图
+- 北京一卡通
+- 上海交通卡
+- 青桔骑行
+- ETC
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=8-UEi0HQUac
 speaker: 莊也雜談
-tags:
-  - china-travel-guide
-  - digital-payments
-  - social-security
-  - internet-censorship
-  - urban-development
-title: 外国人赴华旅游指南：行前准备、支付方式与中国社会观察
-summary: 本期节目为海外游客提供详尽的赴华旅游指南。内容涵盖入境前的电话卡、翻墙软件、微信支付等必备准备，以及入境后手机APP（如高德地图、购物、打车软件）的使用方法。主持人还分享了其亲身经历，客观评价了中国社会治安状况、公共设施的人性化进步，以及对社会管控、经济内卷等深层问题的观察，旨在帮助外国游客更全面地了解和适应中国的旅行环境。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 李彦宏
-companies_orgs:
-  - 腾讯
-  - 亚马逊
-  - 中国联通
-  - 百度
-  - 京东
-  - 淘宝
-  - 拼多多
-  - 美团
-  - 滴滴出行
-products_models:
-  - Wechat
-  - Google Map
-  - 高德地图
-  - 北京一卡通
-  - 上海交通卡
-  - 青桔骑行
-  - ETC
-media_books: []
 status: evergreen
+summary: 本期节目为海外游客提供详尽的赴华旅游指南。内容涵盖入境前的电话卡、翻墙软件、微信支付等必备准备，以及入境后手机APP（如高德地图、购物、打车软件）的使用方法。主持人还分享了其亲身经历，客观评价了中国社会治安状况、公共设施的人性化进步，以及对社会管控、经济内卷等深层问题的观察，旨在帮助外国游客更全面地了解和适应中国的旅行环境。
+tags:
+- china
+- digital
+- internet-censorship
+- social
+- urban-development
+title: 外国人赴华旅游指南：行前准备、支付方式与中国社会观察
 ---
+
 ### 赴华行前准备：电话、网络与支付
 
 大家好，我是庄也。欢迎您收看庄也杂谈。今天我们继续聊回国的话题，并会穿插一些我在国内街拍的视频，让大家一边欣赏北京的街景，一边听我分享。今天主要探讨的是，如果您是一位人生地不熟的外国游客，在来中国之前以及入境之后，应该做哪些必要的准备工作，包括如何办理各种手续，手机上应该安装哪些**APP**（Application: 应用程序，指智能手机上的软件），以及它们的功能和使用方法，以确保您在中国畅行无阻。这些都是非常实用的干货信息。

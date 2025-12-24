@@ -1,43 +1,44 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Anthropic
+- AI Engineer
+- GitHub
+- Century
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Katelyn Lesse
+- Swix
+- Barry
+- Mahes
+products_models:
+- Claude
+- Claude Code
+- MCP
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=aqW68Is_Kj4
 speaker: AI Engineer
-tags:
-  - ai-agents
-  - llm-apis
-  - context-management
-  - code-execution
-  - agent-skills
-title: Anthropic 揭示 Claude API 如何赋能 AI 智能体系统演进
-summary: Anthropic 的 Katelyn Lesse 介绍了 Claude API 如何演进以支持开发者构建强大的 AI 智能体系统。她强调了三个核心方面：充分利用 Claude 的能力（如深度思考和工具使用）、高效管理上下文窗口（通过 MCP、记忆工具和上下文编辑），以及赋予 Claude “计算机”能力（通过代码执行工具和智能体技能）。文章以 Claude Code 为例，展示了这些平台特性如何帮助开发者最大化模型性能，并展望了未来平台的发展方向，包括持续优化 API、增强上下文管理工具和完善智能体基础设施。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Katelyn Lesse
-  - Swix
-  - Barry
-  - Mahes
-companies_orgs:
-  - Anthropic
-  - AI Engineer
-  - GitHub
-  - Century
-products_models:
-  - Claude
-  - Claude Code
-  - MCP
-media_books: []
 status: evergreen
+summary: Anthropic 的 Katelyn Lesse 介绍了 Claude API 如何演进以支持开发者构建强大的 AI 智能体系统。她强调了三个核心方面：充分利用
+  Claude 的能力（如深度思考和工具使用）、高效管理上下文窗口（通过 MCP、记忆工具和上下文编辑），以及赋予 Claude “计算机”能力（通过代码执行工具和智能体技能）。文章以
+  Claude Code 为例，展示了这些平台特性如何帮助开发者最大化模型性能，并展望了未来平台的发展方向，包括持续优化 API、增强上下文管理工具和完善智能体基础设施。
+tags:
+- ai-agent
+- code
+- llm
+- management
+- skill
+title: Anthropic 揭示 Claude API 如何赋能 AI 智能体系统演进
 ---
+
 ### 欢迎与平台演进
 
 早上好。首先，非常感谢 Swix 和整个 AI Engineer 组织团队将我们聚集在一起。

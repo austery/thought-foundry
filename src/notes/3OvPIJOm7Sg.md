@@ -1,84 +1,83 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- Duolingo
+- Applovin
+- Qualcomm
+- E.L.F. Beauty
+- Fortinet
+- DoorDash
+- Lyft
+- HubSpot
+- Figma
+- Nvidia
+- Tesla
+- S&P 500
+- SoFi
+- AMD
+- Bitstamp
+- Chime Financial
+- Google
+- Apple
+- Bloomberg
+- Reuters
+- Snapchat
+- Perplexity
+- FICO
+- ARM
+- FINRA
+- Schwab
+- Fidelity
+- AWS
+- Microsoft
+- Meta
+- Goldman Sachs
+- JP Morgan
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+people:
+- Roy
+- Tanner
+- Vlad Tenev
+- Jason Warick
+- Shiv Verma
+- Jensen Huang
+- Donald Trump
+- Michael Burry
+- Tom Lee
+products_models:
+- Siri
+- Gemini
+- Robinhood Gold
+- Robinhood Cortex
+- Robinhood Social
+- Robinhood Ventures
+- Robinhood Banking
+- Trade PMR
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=3OvPIJOm7Sg
 speaker: Amit Kukreja
-tags:
-  - earnings-analysis
-  - prediction-markets
-  - operating-leverage
-  - market-share-growth
-  - tokenization
-title: Robinhood 2025年Q3财报深度解析：业绩全面超预期，预测市场成新增长引擎
-summary: Robinhood公布了超预期的2025年第三季度财报，营收和每股收益均实现翻倍增长，创纪录的净存款和黄金会员数彰显了强劲的用户粘性。尽管CFO宣布退休引发股价短暂波动，但公司基本面依然坚实。新兴的预测市场业务增长迅猛，十月份交易量已超整个第三季度，成为未来关键增长引擎。同时，财报电话会也讨论了信用卡、国际扩张等多个新产品线的进展，展示了公司向综合金融超级应用迈进的清晰路径。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Amit Kukreja
-  - Roy
-  - Tanner
-  - Vlad Tenev
-  - Jason Warick
-  - Shiv Verma
-  - Jensen Huang
-  - Donald Trump
-  - Michael Burry
-  - Tom Lee
-companies_orgs:
-  - Robinhood
-  - Duolingo
-  - Applovin
-  - Qualcomm
-  - E.L.F. Beauty
-  - Fortinet
-  - DoorDash
-  - Lyft
-  - HubSpot
-  - Figma
-  - Nvidia
-  - Tesla
-  - S&P 500
-  - SoFi
-  - AMD
-  - Bitstamp
-  - Chime Financial
-  - Google
-  - Apple
-  - Bloomberg
-  - Reuters
-  - Snapchat
-  - Perplexity
-  - FICO
-  - ARM
-  - FINRA
-  - Schwab
-  - Fidelity
-  - AWS
-  - Microsoft
-  - Meta
-  - Goldman Sachs
-  - JP Morgan
-products_models:
-  - Siri
-  - Gemini
-  - Robinhood Gold
-  - Robinhood Cortex
-  - Robinhood Social
-  - Robinhood Ventures
-  - Robinhood Banking
-  - Trade PMR
-media_books:
-  - Financial Times
 status: evergreen
+summary: Robinhood公布了超预期的2025年第三季度财报，营收和每股收益均实现翻倍增长，创纪录的净存款和黄金会员数彰显了强劲的用户粘性。尽管CFO宣布退休引发股价短暂波动，但公司基本面依然坚实。新兴的预测市场业务增长迅猛，十月份交易量已超整个第三季度，成为未来关键增长引擎。同时，财报电话会也讨论了信用卡、国际扩张等多个新产品线的进展，展示了公司向综合金融超级应用迈进的清晰路径。
+tags:
+- earnings-analysis
+- investment
+- market
+- prediction-market
+- technology
+title: Robinhood 2025年Q3财报深度解析：业绩全面超预期，预测市场成新增长引擎
 ---
+
 ### 财报前瞻：市场预期与多方观点
 
 大家好，欢迎回到新一期的 Robinhood 财报解读。这是 2025 年第三季度的财报，我很高兴能和大家一起讨论。过去几年里，Roy 和 Tanner 一直与我同行，能和朋友们一起经历这段旅程，我感到非常有意义。

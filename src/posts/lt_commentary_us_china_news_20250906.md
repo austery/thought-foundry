@@ -7,14 +7,12 @@ project:
 - china-analysis
 - us-analysis
 tags:
+- china
 - china-politics
-- china-real-estate-crisis
-- news-commentary
+- society
 - us-economy
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-06
 author: Lei
 speaker: LT視界
@@ -26,6 +24,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是9月6日。
 
 ## 财经头条：美联储降息可能性浮现

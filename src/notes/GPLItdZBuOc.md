@@ -1,47 +1,47 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Uniqlo
+- BBC
+- Pinduoduo
+- Meituan
+- Ele.me
+- Ruixing Coffee
+- BYD
+- Xiaomi
+- Vivo
+- Oppo
 date: '2024-12-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国家为什么会失败》
+- 《自由的窄廊》
+people:
+- Xi Jinping
+- 王小洪
+- 李老师
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=GPLItdZBuOc
 speaker: 东京人文论坛
-tags:
-  - china-model
-  - state-capacity
-  - systemic-risk
-  - socioeconomic-transformation
-title: 剖析中国模式：优势背后的内在矛盾与转型困境
-summary: 本文深入探讨了“中国模式”的内在优势及其边界。讲者引导听众列举了中国模式的多个强项，如低人权优势、民族主义情绪、高效决策和强大的维稳体系。随后，文章逐一剖析这些优势在现实中如何转化为困境，例如导致内需不足、放大错误决策风险、侵蚀政权合法性等。核心观点认为，中国当前面临的转型难题，恰恰根植于其赖以成功的模式本身。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 习近平
-  - 王小洪
-  - 李老师
-companies_orgs:
-  - Uniqlo
-  - BBC
-  - Pinduoduo
-  - Meituan
-  - Ele.me
-  - Ruixing Coffee
-  - BYD
-  - Xiaomi
-  - Vivo
-  - Oppo
-products_models: []
-media_books:
-  - 《国家为什么会失败》
-  - 《自由的窄廊》
 status: evergreen
+summary: 本文深入探讨了“中国模式”的内在优势及其边界。讲者引导听众列举了中国模式的多个强项，如低人权优势、民族主义情绪、高效决策和强大的维稳体系。随后，文章逐一剖析这些优势在现实中如何转化为困境，例如导致内需不足、放大错误决策风险、侵蚀政权合法性等。核心观点认为，中国当前面临的转型难题，恰恰根植于其赖以成功的模式本身。
+tags:
+- china
+- state
+- systemic-risk
+- transformation
+title: 剖析中国模式：优势背后的内在矛盾与转型困境
 ---
+
 ### 引言：从细节探讨中国转型的可能
 
 在之前的读书会中，我们分别阅读了诺贝尔经济学奖得主的相关著作，如制度经济学领域的《国家为什么会失败》和《自由的窄廊》。所有这些讨论，最终都指向一个核心议题：中国的转型。我们之所以要了解制度经济学，就是为了更深入地探讨这一问题。

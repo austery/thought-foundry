@@ -1,40 +1,41 @@
 ---
-author: Veritasium
-date: '2020-01-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ovJcsL7vyrk
-speaker: Veritasium
-tags:
-  - veritasium
-  - logistic-map
-  - chaos-theory
-  - period-doubling-bifurcation
-  - feigenbaum-constant
-  - fractals
-title: 一个简单方程如何揭示世界的复杂性：逻辑斯蒂映射与混沌理论
-summary: 本文探讨了逻辑斯蒂映射（logistic map）这一简单方程如何揭示自然界中从滴水水龙头到兔子种群、神经元放电等多种复杂现象的内在联系。通过周期倍增分岔（period doubling bifurcation）现象，该方程从稳定走向混沌，并展现出费根鲍姆常数（Feigenbaum constant）的普适性。文章将其与曼德尔布罗特集（Mandelbrot set）联系起来，并强调了理解简单系统如何产生复杂行为的重要性，展示了混沌理论的深远影响。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Mitchell Feigenbaum
-  - Robert May
-  - James Gleick
-  - Lib Taber
+category: science
 companies_orgs:
-  - Fast Hosts
-products_models: []
+- Fast Hosts
+date: '2020-01-29'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Nature
-  - Chaos
+- Nature
+- Chaos
+people:
+- Mitchell Feigenbaum
+- Robert May
+- James Gleick
+- Lib Taber
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ovJcsL7vyrk
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了逻辑斯蒂映射（logistic map）这一简单方程如何揭示自然界中从滴水水龙头到兔子种群、神经元放电等多种复杂现象的内在联系。通过周期倍增分岔（period
+  doubling bifurcation）现象，该方程从稳定走向混沌，并展现出费根鲍姆常数（Feigenbaum constant）的普适性。文章将其与曼德尔布罗特集（Mandelbrot
+  set）联系起来，并强调了理解简单系统如何产生复杂行为的重要性，展示了混沌理论的深远影响。
+tags:
+- feigenbaum-constant
+- history
+- logistic-map
+- science
+- theory
+title: 一个简单方程如何揭示世界的复杂性：逻辑斯蒂映射与混沌理论
 ---
+
 ### 逻辑斯蒂映射：从简单模型到稳定平衡
 
 滴水的水龙头、**曼德尔布罗特集**（Mandelbrot set: 一个在复平面上通过迭代函数生成的碎形集合）、兔子种群、流体中的热对流以及大脑中神经元的放电之间有什么联系？答案就是这个简单的方程。本视频由Fast Hosts赞助，他们为英国观众提供赢取西南偏南（South by Southwest）之旅的机会，只需回答视频末尾的问题，敬请期待。

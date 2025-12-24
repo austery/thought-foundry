@@ -1,180 +1,179 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Robinhood
+- Nvidia
+- AMD
+- Netflix
+- Warner Bros. Discovery
+- Palantir
+- BMR
+- Bitmine
+- JPMorgan Chase
+- Invesco
+- BlackRock
+- Bank of America
+- Morgan Stanley
+- Federal Reserve
+- Alibaba
+- Oracle
+- Google
+- Amazon
+- Meta
+- Chipotle
+- StubHub
+- Figure
+- Eli Lilly
+- Microsoft
+- Goldman Sachs
+- Altimeter Capital
+- Tiger Global
+- MongoDB
+- CrowdStrike
+- Novo Nordisk
+- Reddit
+- Broadcom
+- Flutter
+- GE Vernova
+- Sherwin-Williams
+- Zillow
+- Bullish
+- Klarna
+- Figma
+- Weeble
+- New Bank
+- UnitedHealth Group (UNH)
+- Berkshire Hathaway
+- Sirius XM
+- Lamar Advertising
+- Lennar Corporation (LAR)
+- Chubb
+- Cubit
+- Benchmark
+- Coinbase
+- Charles Schwab
+- eToro
+- Andreessen Horowitz (a16z)
+- Sequoia Capital
+- The Daily Wire
+- Booz Allen Hamilton
+- SoftBank
+- PayPal
+- Axon
+- Nebius
+- McDonald's
+- Coatue Management
+- People's Liberation Army (PLA)
+- SEC
+- CNBC
+- Bloomberg
+- FTX
+- DataDog
+- Snowflake
+- Cloudflare
+- PowerBI
+- Intel
+- American Airlines
+- Verizon
+- Delta Air Lines
+- OpenAI
+- Waymo
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- Seeking Alpha
+- Whale Wisdom
+- Data Aroma
+- The Daily Wire
+- Wired
+- The Wall Street Journal
+- Lord of War
+- Gone in 60 Seconds
+- The Last Mimsy
+- Matchstick Men
+- Raising Arizona
+- Family Man
+- Face/Off
+- Con Air
+- The Rock
+- Leaving Las Vegas
+- National Treasure
+- Elysium
+- 13f-filing
+people:
+- Tom Lee
+- Scott
+- Jensen Huang
+- Donald Trump
+- Stanley Druckenmiller
+- Chase Coleman
+- Sundar Pichai
+- Warren Buffett
+- Greg Abel
+- Carl Icahn
+- Bill Ackman
+- Brad Gerstner
+- Bill Gates
+- Alex Karp
+- Chamath Palihapitiya
+- Vlad Tenev
+- Paul Erlanger
+- Say
+- Nancy Pelosi
+- Derek
+- Jason Calcanis
+- Mark Andreessen
+- Ben Horowitz
+- Peter Thiel
+- Howard Marks
+- Tanner
+- Steve
+- Charlie Munger
+- Matt Walsh
+- Ben Shapiro
+- Barry Sternlicht
+- Elon Musk
+- Jerome Powell
+products_models:
+- S&P 500
+- Ethereum
+- Bitcoin
+- Rocket Lab
+- Gemini
+- Siri
+- FSD (Full Self-Driving)
+- FOMO
+- Android
+- iPhone
+- Grok
+- ChatGPT
+- Optimus
+- iOS
+- Google Play Store
+- Apple Pay
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=1jFiM0pqnrk
 speaker: Amit Kukreja
-tags:
-  - 13f-filings
-  - federal-reserve-policy
-  - market-volatility
-  - ai-investment-theme
-  - investor-sentiment
-title: 巴菲特建仓谷歌引爆市场，美联储鹰派立场为年末反弹蒙上阴影
-summary: 本期市场收盘深入探讨了本周股市的剧烈波动。核心焦点是伯克希尔·哈撒韦公司披露其对谷歌的巨额投资，引发了科技股的广泛关注和讨论。然而，多位美联储官员发表鹰派言论，导致市场对12月降息的预期大幅降温，为年末行情增添了不确定性。节目还分析了重要投资者的13F持仓报告、加密货币市场的去杠杆化压力，以及人工智能主题的长期投资逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Tom Lee
-  - Scott
-  - Jensen Huang
-  - Donald Trump
-  - Stanley Druckenmiller
-  - Chase Coleman
-  - Sundar Pichai
-  - Warren Buffett
-  - Greg Abel
-  - Carl Icahn
-  - Bill Ackman
-  - Brad Gerstner
-  - Bill Gates
-  - Alex Karp
-  - Chamath Palihapitiya
-  - Vlad Tenev
-  - Paul Erlanger
-  - Say
-  - Nancy Pelosi
-  - Derek
-  - Jason Calcanis
-  - Mark Andreessen
-  - Ben Horowitz
-  - Peter Thiel
-  - Howard Marks
-  - Tanner
-  - Steve
-  - Charlie Munger
-  - Matt Walsh
-  - Ben Shapiro
-  - Barry Sternlicht
-  - Elon Musk
-  - Jerome Powell
-companies_orgs:
-  - Tesla
-  - Robinhood
-  - Nvidia
-  - AMD
-  - Netflix
-  - Warner Bros. Discovery
-  - Palantir
-  - BMR
-  - Bitmine
-  - JPMorgan Chase
-  - Invesco
-  - BlackRock
-  - Bank of America
-  - Morgan Stanley
-  - Federal Reserve
-  - Alibaba
-  - Oracle
-  - Google
-  - Amazon
-  - Meta
-  - Chipotle
-  - StubHub
-  - Figure
-  - Eli Lilly
-  - Microsoft
-  - Goldman Sachs
-  - Altimeter Capital
-  - Tiger Global
-  - MongoDB
-  - CrowdStrike
-  - Novo Nordisk
-  - Reddit
-  - Broadcom
-  - Flutter
-  - GE Vernova
-  - Sherwin-Williams
-  - Zillow
-  - Bullish
-  - Klarna
-  - Figma
-  - Weeble
-  - New Bank
-  - UnitedHealth Group (UNH)
-  - Berkshire Hathaway
-  - Sirius XM
-  - Lamar Advertising
-  - Lennar Corporation (LAR)
-  - Chubb
-  - Cubit
-  - Benchmark
-  - Coinbase
-  - Charles Schwab
-  - eToro
-  - Andreessen Horowitz (a16z)
-  - Sequoia Capital
-  - The Daily Wire
-  - Booz Allen Hamilton
-  - SoftBank
-  - PayPal
-  - Axon
-  - Nebius
-  - McDonald's
-  - Coatue Management
-  - People's Liberation Army (PLA)
-  - SEC
-  - CNBC
-  - Bloomberg
-  - FTX
-  - DataDog
-  - Snowflake
-  - Cloudflare
-  - PowerBI
-  - Intel
-  - American Airlines
-  - Verizon
-  - Delta Air Lines
-  - OpenAI
-  - Waymo
-products_models:
-  - S&P 500
-  - Ethereum
-  - Bitcoin
-  - Rocket Lab
-  - Gemini
-  - Siri
-  - FSD (Full Self-Driving)
-  - FOMO
-  - Android
-  - iPhone
-  - Grok
-  - ChatGPT
-  - Optimus
-  - iOS
-  - Google Play Store
-  - Apple Pay
-media_books:
-  - Financial Times
-  - Seeking Alpha
-  - Whale Wisdom
-  - Data Aroma
-  - The Daily Wire
-  - Wired
-  - The Wall Street Journal
-  - Lord of War
-  - Gone in 60 Seconds
-  - The Last Mimsy
-  - Matchstick Men
-  - Raising Arizona
-  - Family Man
-  - Face/Off
-  - Con Air
-  - The Rock
-  - Leaving Las Vegas
-  - National Treasure
-  - Elysium
 status: evergreen
+summary: 本期市场收盘深入探讨了本周股市的剧烈波动。核心焦点是伯克希尔·哈撒韦公司披露其对谷歌的巨额投资，引发了科技股的广泛关注和讨论。然而，多位美联储官员发表鹰派言论，导致市场对12月降息的预期大幅降温，为年末行情增添了不确定性。节目还分析了重要投资者的13F持仓报告、加密货币市场的去杠杆化压力，以及人工智能主题的长期投资逻辑。
+tags:
+- ai-investment-theme
+- federal-reserve-policy
+- investor-sentiment
+- market-volatility
+title: 巴菲特建仓谷歌引爆市场，美联储鹰派立场为年末反弹蒙上阴影
 ---
+
 ### 市场收盘概览：在波动中收平
 
 Amit: 好的，大家好，欢迎回到新一期的市场收盘直播。我们正在直播。今天真是跌宕起伏的一天，这一周也是如此。本周在股票市场中航行真是一段相当艰难的旅程，但我们最终以绿色收盘，至少看起来是这样。

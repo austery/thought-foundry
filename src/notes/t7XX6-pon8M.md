@@ -1,45 +1,44 @@
 ---
-author: 海伦子Hellen
+area: society-systems
+category: business
+companies_orgs:
+- Tesla
+- Waymo
+- 美国公路交通安全管理局
+- Airbnb
 date: '2025-06-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Elon Musk
+products_models:
+- Robotaxi
+- FSD (Full Self-Driving)
+- Model Y
+- Model X
+- Cybertruck
+- Starship
+- ChatGPT
+project:
+- us-analysis
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=t7XX6-pon8M
 speaker: 海伦子Hellen
-tags:
-  - robotaxi-launch
-  - autonomous-driving
-  - passive-income-vehicles
-  - market-disruption
-  - future-transportation
-title: 特斯拉Robotaxi：拼图的最后一块，重塑出行与资产价值
-summary: 特斯拉即将在德州奥斯汀小范围试运营其自动驾驶出租车Robotaxi服务，搭载最新版FSD。与Waymo等竞争对手不同，特斯拉凭借纯视觉系统和庞大的车辆基数，具备无可比拟的规模化优势。Robotaxi的普及将彻底改变出行习惯、交通规划，甚至影响房地产价格。更重要的是，它将允许普通车主将车辆接入车队赚取被动收入，使汽车从消费品变为投资品。这一举措标志着特斯拉进入下一个黄金时代，但其成功关键在于证明自动驾驶软件的绝对安全可靠。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Elon Musk
-companies_orgs:
-  - Tesla
-  - Waymo
-  - 美国公路交通安全管理局
-  - Airbnb
-products_models:
-  - Robotaxi
-  - FSD (Full Self-Driving)
-  - Model Y
-  - Model X
-  - Cybertruck
-  - Starship
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 特斯拉即将在德州奥斯汀小范围试运营其自动驾驶出租车Robotaxi服务，搭载最新版FSD。与Waymo等竞争对手不同，特斯拉凭借纯视觉系统和庞大的车辆基数，具备无可比拟的规模化优势。Robotaxi的普及将彻底改变出行习惯、交通规划，甚至影响房地产价格。更重要的是，它将允许普通车主将车辆接入车队赚取被动收入，使汽车从消费品变为投资品。这一举措标志着特斯拉进入下一个黄金时代，但其成功关键在于证明自动驾驶软件的绝对安全可靠。
+tags:
+- autonomous-driving
+- financial
+- future
+- income
+- market
+title: 特斯拉Robotaxi：拼图的最后一块，重塑出行与资产价值
 ---
+
 ### 特斯拉Robotaxi：自动驾驶新纪元的序章
 
 特斯拉即将迎来一个重大事件。预计在6月底，具体来说是6月22日，特斯拉将在美国德州奥斯汀小范围推出其**自动驾驶出租车**（Robotaxi: 一种无需人类驾驶员即可提供载客服务的车辆）的试运营服务。初期车队规模不大，大约由10到20辆Model Y组成，每辆车都将配备最新版本的**无人监督的自动驾驶应用**（FSD: Full Self-Driving，特斯拉的高级驾驶辅助系统，旨在实现完全自动驾驶）。此次试运营将采用**地理围栏**（Geofencing: 设定虚拟地理边界，限制车辆只能在指定区域内运行）技术，车辆仅在指定区域内运行，并由后台工作人员进行监管，以确保在紧急情况下可以进行人工接管。尽管目前尚未投入生产，但该服务已在开发中。

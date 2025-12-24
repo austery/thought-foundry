@@ -1,57 +1,56 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- BBC
+- Buckingham Palace
+- MIT
 date: '2025-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Nobody's Girl》
+- Daily Mail
+people:
+- Prince Andrew
+- King Charles
+- Virginia Giuffre
+- Edward VIII
+- Prince Harry
+- Meghan Markle
+- Queen Elizabeth II
+- Harvey Weinstein
+- Ghislaine Maxwell
+- Amy Wallace
+- Donald Trump
+- Sarah Ferguson
+- Yang Tengbo
+- Robbie Giuffre
+- Sharon Churcher
+- Caroline Andriano
+- Marvin Minsky
+- Bill Gates
+- Melinda Gates
+- Alan Dershowitz
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=NZgi7t7UrOA
 speaker: 记者易速利
-tags:
-  - epstein-scandal
-  - royal-family-scandal
-  - sexual-abuse
-  - monarchy-support
-  - legal-challenges
-title: 爱泼斯坦案余波：安德鲁王子被剥夺王室头衔与弗吉尼亚·朱弗雷回忆录揭秘
-summary: 围绕爱泼斯坦性侵案，英国安德鲁王子因与受害人弗吉尼亚·朱弗雷的牵连，被剥夺所有王室头衔和荣誉。朱弗雷的回忆录《无依无靠的女孩》详细披露了她与安德鲁王子的三次遭遇，以及爱泼斯坦如何诱骗和控制年轻女孩。文章深入探讨了安德鲁王子受到的严厉惩罚、王室的应对，以及爱泼斯坦案对君主制支持率的影响，并揭示了受害者所承受的创伤和司法挑战，同时提及了其他涉案名人及其辩解。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Prince Andrew
-  - King Charles
-  - Virginia Giuffre
-  - Edward VIII
-  - Prince Harry
-  - Meghan Markle
-  - Queen Elizabeth II
-  - Harvey Weinstein
-  - Ghislaine Maxwell
-  - Amy Wallace
-  - Donald Trump
-  - Sarah Ferguson
-  - Yang Tengbo
-  - Robbie Giuffre
-  - Sharon Churcher
-  - Caroline Andriano
-  - Marvin Minsky
-  - Bill Gates
-  - Melinda Gates
-  - Alan Dershowitz
-companies_orgs:
-  - BBC
-  - Buckingham Palace
-  - MIT
-products_models: []
-media_books:
-  - 《Nobody's Girl》
-  - Daily Mail
 status: evergreen
+summary: 围绕爱泼斯坦性侵案，英国安德鲁王子因与受害人弗吉尼亚·朱弗雷的牵连，被剥夺所有王室头衔和荣誉。朱弗雷的回忆录《无依无靠的女孩》详细披露了她与安德鲁王子的三次遭遇，以及爱泼斯坦如何诱骗和控制年轻女孩。文章深入探讨了安德鲁王子受到的严厉惩罚、王室的应对，以及爱泼斯坦案对君主制支持率的影响，并揭示了受害者所承受的创伤和司法挑战，同时提及了其他涉案名人及其辩解。
+tags:
+- challenge
+- epstein-scandal
+- family
+- geopolitical
+- technology
+title: 爱泼斯坦案余波：安德鲁王子被剥夺王室头衔与弗吉尼亚·朱弗雷回忆录揭秘
 ---
 
 ### 安德鲁王子被剥夺王室头衔与荣誉

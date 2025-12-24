@@ -1,31 +1,29 @@
 ---
-title: 从埃隆·马斯克传中汲取的三个人生智慧
-summary: 本文结合个人经历，从埃隆·马斯克（Elon Musk）的传记中提炼出三个人生课程：如何面对原生家庭、成为最懂行的外行人，以及做一个务实的理想主义者，旨在为读者提供启发和帮助。
 area: market-analysis
 category: business
-project:
-  - entrepreneurship
-  - personal-growth-lab
-tags:
-  - entrepreneurship
-  - life-lessons
-  - personal-growth
-  - reading-habits
-people:
-  - elon-musk
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-12-16'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- elon-musk
+products_models: []
+project:
+- entrepreneurship
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=NpWBtWqr12I
+speaker: 一口新飯
 status: evergreen
+summary: 本文结合个人经历，从埃隆·马斯克（Elon Musk）的传记中提炼出三个人生课程：如何面对原生家庭、成为最懂行的外行人，以及做一个务实的理想主义者，旨在为读者提供启发和帮助。
+tags:
+- entrepreneurship
+- life
+- personal-growth
+- reading-habit
+title: 从埃隆·马斯克传中汲取的三个人生智慧
 ---
 
 ### 引言：马斯克的人生课程

@@ -1,35 +1,34 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NATO
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=DFeJqfUQxHg
 speaker: 海淀拙大叔
-tags:
-  - strategic-contraction
-  - geopolitical-shift
-  - fiscal-policy
-  - military-retrenchment
-  - historical-analogy
-title: 美国战略收缩的百年回响：从大英帝国看特朗普政策与中国应对
-summary: 本文深入探讨了美国可能采取的战略收缩政策，并将其与百年前大英帝国的战略调整进行对比。文章分析了英国在衰退期通过增税、掠夺、裁员、外交军事收缩及放弃殖民地等手段实现财政盈余的策略，以及其对全球体系的影响。在此基础上，文章探讨了特朗普政府可能采取的类似措施，如提高关税、削减开支、退出北约等，并提出中国应如何应对美国战略收缩的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Donald Trump
-companies_orgs:
-  - NATO
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了美国可能采取的战略收缩政策，并将其与百年前大英帝国的战略调整进行对比。文章分析了英国在衰退期通过增税、掠夺、裁员、外交军事收缩及放弃殖民地等手段实现财政盈余的策略，以及其对全球体系的影响。在此基础上，文章探讨了特朗普政府可能采取的类似措施，如提高关税、削减开支、退出北约等，并提出中国应如何应对美国战略收缩的挑战。
+tags:
+- financial
+- fiscal-policy
+- geopolitical-shift
+- historical-analogy
+- military
+title: 美国战略收缩的百年回响：从大英帝国看特朗普政策与中国应对
 ---
+
 ### 引言：战略收缩的历史回响
 
 阿甘经济宏观论第16集，主题是美国战略大收缩，以及我们应如何应对和投资。本节将深入探讨百年前英国的战略大收缩，并将其与当前美国可能采取的政策进行对比。

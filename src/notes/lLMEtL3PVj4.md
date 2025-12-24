@@ -1,53 +1,53 @@
 ---
-author: Best Partners TV
+area: tech-insights
+category: technology
+companies_orgs:
+- Thinking Machines Lab
+- OpenAI
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Qwen3技术报告
+- SimpleBench
+- OpenThoughts-3
+- IF-eval
+people:
+- Kevin Lu
+- Mira Murati
+- Ross
+- Lightman
+- Gudibande
+products_models:
+- GPT-5
+- GPT-oss
+- o1
+- o3
+- o4
+- 4o-mini
+- Qwen
+- Qwen3-8B-Base
+- Qwen3-32B
+- LoRA
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=lLMEtL3PVj4
 speaker: Best Partners TV
-tags:
-  - online-policy-distillation
-  - llm-training-methods
-  - model-efficiency
-  - continuous-learning
-  - reverse-kl-divergence
-title: Thinking Machines Lab新作：在线策略蒸馏，赋能小模型专家级能力
-summary: 本文深入解读Thinking Machines Lab的最新研究——在线策略蒸馏（On-Policy Distillation），这是一种结合强化学习纠错与监督微调奖励密度的高效训练方法。它能以极低成本让小模型在特定领域达到大模型专家水平，并在数学推理和内部AI助手等场景中展现出超越传统方法的卓越性能。文章详细阐述了其核心逻辑、技术细节、实验验证及对持续学习的深远意义，为AI模型的成本效益和落地应用提供了新思路。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Kevin Lu
-  - Mira Murati
-  - Ross
-  - Lightman
-  - Gudibande
-companies_orgs:
-  - Thinking Machines Lab
-  - OpenAI
-products_models:
-  - GPT-5
-  - GPT-oss
-  - o1
-  - o3
-  - o4
-  - 4o-mini
-  - Qwen
-  - Qwen3-8B-Base
-  - Qwen3-32B
-  - LoRA
-media_books:
-  - Qwen3技术报告
-  - SimpleBench
-  - OpenThoughts-3
-  - IF-eval
 status: evergreen
+summary: 本文深入解读Thinking Machines Lab的最新研究——在线策略蒸馏（On-Policy Distillation），这是一种结合强化学习纠错与监督微调奖励密度的高效训练方法。它能以极低成本让小模型在特定领域达到大模型专家水平，并在数学推理和内部AI助手等场景中展现出超越传统方法的卓越性能。文章详细阐述了其核心逻辑、技术细节、实验验证及对持续学习的深远意义，为AI模型的成本效益和落地应用提供了新思路。
+tags:
+- continuous-learning
+- llm
+- model
+- policy
+- technology
+title: Thinking Machines Lab新作：在线策略蒸馏，赋能小模型专家级能力
 ---
+
 ### 引言：小模型专家化与在线策略蒸馏
 
 如何让小模型在特定领域也能达到大模型的专家水平，这是当前AI行业中的一个核心痛点。Thinking Machines Lab最新发布的技术文章——**在线策略蒸馏**（On-Policy Distillation: 一种将强化学习的纠错相关性与监督微调的奖励密度相结合的训练方法），恰好就是解决这个问题的关键。

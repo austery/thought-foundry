@@ -1,47 +1,45 @@
 ---
-author: 美投讲美股
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 苹果
+- Microsoft
+- 伯克希尔哈撒韦
+- 美国运通
+- 可口可乐
+- 雪佛龙
+- Costco
+- Nvidia
 date: '2025-04-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《孙子兵法》
+people:
+- 巴菲特
+- 芒格
+- 格林奇
+- 陈星
+- 安格尔
+products_models:
+- 比特币
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=9FlsmNJRSr0
 speaker: 美投讲美股
-tags:
-  - position-sizing
-  - investment-strategy
-  - risk-management
-  - portfolio-diversification
-  - concentrated-investment
-title: 投资致胜关键：巴菲特仓位管理策略与动态调整之道
-summary: 本文深入探讨了投资中仓位管理的重要性，指出其对收益的贡献远超择时和选股。文章通过硬币游戏案例，对比了分散化与集中投资的风险收益，并详细介绍了天真分散化、风险评价法以及巴菲特的集中投资理念。最后，强调了根据市场变化和个人认知进行动态仓位管理的关键性，旨在帮助投资者建立稳健的投资体系。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - 巴菲特
-  - 芒格
-  - 格林奇
-  - 陈星
-  - 安格尔
-companies_orgs:
-  - 苹果
-  - 微软
-  - 伯克希尔哈撒韦
-  - 美国运通
-  - 可口可乐
-  - 雪佛龙
-  - Costco
-  - 英伟达
-products_models:
-  - 比特币
-media_books:
-  - 《孙子兵法》
 status: evergreen
+summary: 本文深入探讨了投资中仓位管理的重要性，指出其对收益的贡献远超择时和选股。文章通过硬币游戏案例，对比了分散化与集中投资的风险收益，并详细介绍了天真分散化、风险评价法以及巴菲特的集中投资理念。最后，强调了根据市场变化和个人认知进行动态仓位管理的关键性，旨在帮助投资者建立稳健的投资体系。
+tags:
+- investment
+- position-sizing
+- risk-management
+title: 投资致胜关键：巴菲特仓位管理策略与动态调整之道
 ---
+
 ### 仓位管理：投资成功的核心要素
 
 大家好，我是美投君。前段时间，巴菲特兜售股票的消息闹得沸沸扬扬，很多人好奇这是否预示着大风险将至。然而，有多少人会关注他留下的仓位是什么样的，其比例又是怎样的呢？同样，当我们看到巴菲特买入新股票时，多数人会想了解他的选股逻辑，却很少关注他买了多少，是重仓押注还是谨慎试水。其实，所有这些关于仓位的问题才是投资的关键。

@@ -1,33 +1,31 @@
 ---
-title: 加速计算时代：INDIGO 2025年10月直播回顾与未来洞察
-summary: 本直播回顾2025年10月INDIGO的线上分享，探讨AI基建、大模型演进、物理世界进展及AI对经济社会的影响。内容涵盖诺贝尔奖、Google在AI领域的突破、亚洲AI见闻、Nvidia的产业布局、AI
-  Agent经济、劳动力市场重塑，并推荐阅读，展望未来社群发展。
 area: tech-insights
 category: technology
+companies_orgs:
+- indigo
+date: '2025-10-16'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+products_models: []
 project:
 - ai-impact-analysis
+series: ''
+source: https://www.youtube.com/watch?v=uRPqTkmIeAY
+speaker: INDIGO 数字镜像
+status: evergreen
+summary: 本直播回顾2025年10月INDIGO的线上分享，探讨AI基建、大模型演进、物理世界进展及AI对经济社会的影响。内容涵盖诺贝尔奖、Google在AI领域的突破、亚洲AI见闻、Nvidia的产业布局、AI
+  Agent经济、劳动力市场重塑，并推荐阅读，展望未来社群发展。
 tags:
 - accelerated-computing
 - ai-revolution
 - future-of-work
 - societal-impact
-- technology-trends
-people: []
-companies_orgs:
-- indigo
-products_models: []
-media_books: []
-date: '2025-10-16'
-author: INDIGO 数字镜像
-speaker: INDIGO 数字镜像
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=uRPqTkmIeAY
-status: evergreen
+- technology
+title: 加速计算时代：INDIGO 2025年10月直播回顾与未来洞察
 ---
+
 ### 开篇与近期动态回顾
 
 欢迎回到INDIGO的月末直播，这是2025年10月。回顾过去，7月份的直播是在线下进行的。近期回国，后面会分享一些回国的感受和体验。当时我发布了一篇关于回国感受的帖子，还挺受欢迎，被很多社群转载，毕竟我已经有五年没回去了。

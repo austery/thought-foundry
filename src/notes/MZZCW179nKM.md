@@ -1,46 +1,47 @@
 ---
-author: How I AI
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Anthropic
+- OpenAI
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+- YouTube
+- Apple Podcasts
+- Spotify
+- howiaipod.com
+people:
+- Claire Vo
+products_models:
+- Claude
+- Claude Code
+- Claude Skills
+- Chat PRD
+- Custom GPTs
+- Cursor
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=MZZCW179nKM
 speaker: How I AI
-tags:
-  - claude-skills
-  - ai-workflows
-  - prompt-engineering
-  - code-execution
-  - reusable-components
-title: 深入解析Claude Skills：如何创建可复用的AI工作流
-summary: 本期节目深入探讨了Anthropic最新发布的Claude Skills功能，该功能允许用户为Claude Code、API或claude.ai加载特定的技能和工具，从而实现可复用的AI工作流。节目详细介绍了Claude Skills的创建方法、结构组成及其与传统AI项目（如OpenAI Custom GPTs）的区别，并提供了通过Cursor高效创建技能的实用教程，以及如何在Claude Code和Web应用中调用和部署这些技能，旨在帮助用户提升AI应用效率。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Claire Vo
-companies_orgs:
-  - Anthropic
-  - OpenAI
-products_models:
-  - Claude
-  - Claude Code
-  - Claude Skills
-  - Chat PRD
-  - Custom GPTs
-  - Cursor
-media_books:
-  - How I AI
-  - YouTube
-  - Apple Podcasts
-  - Spotify
-  - howiaipod.com
 status: evergreen
+summary: 本期节目深入探讨了Anthropic最新发布的Claude Skills功能，该功能允许用户为Claude Code、API或claude.ai加载特定的技能和工具，从而实现可复用的AI工作流。节目详细介绍了Claude
+  Skills的创建方法、结构组成及其与传统AI项目（如OpenAI Custom GPTs）的区别，并提供了通过Cursor高效创建技能的实用教程，以及如何在Claude
+  Code和Web应用中调用和部署这些技能，旨在帮助用户提升AI应用效率。
+tags:
+- code
+- geopolitical
+- llm
+- skill
+title: 深入解析Claude Skills：如何创建可复用的AI工作流
 ---
+
 ### 欢迎与节目介绍
 
 欢迎回到“How I AI”节目。

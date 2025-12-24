@@ -1,31 +1,28 @@
 ---
-author: Anthony看世界
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-02-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=6lrNNmS-4KY
 speaker: Anthony看世界
-tags:
-  - trauma-obsession
-  - toxic-relationships
-  - psychological-regression
-  - false-self
-  - intimate-relationships
-title: 创伤迷恋：为何我们总被糟糕的人吸引？
-summary: 本视频探讨了亲密关系中的“创伤迷恋”现象。它深入分析了为何个体明知关系有害却难以摆脱，并常重复相似模式。讨论涵盖了消极自由与积极自由的概念、内在不自由的欺骗性，并通过案例研究阐释了过去的创伤（直接或替代性）如何导致无意识地被问题伴侣吸引、严重的心理退行以及原始的赎罪感。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频探讨了亲密关系中的“创伤迷恋”现象。它深入分析了为何个体明知关系有害却难以摆脱，并常重复相似模式。讨论涵盖了消极自由与积极自由的概念、内在不自由的欺骗性，并通过案例研究阐释了过去的创伤（直接或替代性）如何导致无意识地被问题伴侣吸引、严重的心理退行以及原始的赎罪感。
+tags:
+- psychology
+- relationship
+- self
+title: 创伤迷恋：为何我们总被糟糕的人吸引？
+companies:
+- psychological-regression
 ---
 
 ### 亲密关系中的“不自由”

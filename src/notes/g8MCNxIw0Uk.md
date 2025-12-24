@@ -1,54 +1,53 @@
 ---
-author: 徒步的騎手
-date: 2025-01-25
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=g8MCNxIw0Uk'
-speaker: 徒步的騎手
-tags:
-  - self-growth
-  - immigrant-experience
-  - individual-responsibility
-  - pursuit-of-happiness
-  - community-building
-title: 开播满月：与听众的对话，关于人间、快乐与自我成长
-summary: 播客开播满月之际，主持人回顾并回应了三百多条听众留言。节目探讨了“人间是否值得”的真正含义，分享了移民生活中的归属感与挑战，并深入讨论了个人在政治焦虑下的应对之道。通过听众的真实故事，文章强调了“反求诸己”、追求内在快乐、以及勇气与决心的重要性，最终勾勒出一个通过真诚分享而形成的疗愈社区。
-insight: ''
-draft: true
-series: ''
-category: general
 area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - us-analysis
-people:
-  - 李诞
-  - Lex Friedman
-  - 梁实秋
-  - Mr. Beast
-  - Donald Trump
-  - 孟子
-  - V.S. Naipaul
-  - Robin Williams
-  - 林培瑞
-  - 老舍
+category: general
 companies_orgs:
-  - Substack
-  - Twitter
-  - YouTube
-  - Food Bank
-  - 小红书
-products_models:
-  - '286'
-  - '386'
+- Substack
+- Twitter
+- YouTube
+- Food Bank
+- 小红书
+date: 2025-01-25
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《徒步的棋手》
-  - 《银汉词典》
-  - 《天堂影院》
-  - 《为幸福而生》
-  - 《原罪与正义》
+- 《徒步的棋手》
+- 《银汉词典》
+- 《天堂影院》
+- 《为幸福而生》
+- 《原罪与正义》
+people:
+- 李诞
+- Lex Friedman
+- 梁实秋
+- Mr. Beast
+- Donald Trump
+- 孟子
+- V.S. Naipaul
+- Robin Williams
+- 林培瑞
+- 老舍
+products_models:
+- '286'
+- '386'
+project:
+- personal-growth-lab
+- systems-thinking
+- us-analysis
+series: ''
+source: https://www.youtube.com/watch?v=g8MCNxIw0Uk
+speaker: 徒步的騎手
 status: evergreen
+summary: 播客开播满月之际，主持人回顾并回应了三百多条听众留言。节目探讨了“人间是否值得”的真正含义，分享了移民生活中的归属感与挑战，并深入讨论了个人在政治焦虑下的应对之道。通过听众的真实故事，文章强调了“反求诸己”、追求内在快乐、以及勇气与决心的重要性，最终勾勒出一个通过真诚分享而形成的疗愈社区。
+tags:
+- community-building
+- experience
+- financial
+- individual-responsibility
+- self
+title: 开播满月：与听众的对话，关于人间、快乐与自我成长
 ---
 
 ### 开播满月，感谢相遇

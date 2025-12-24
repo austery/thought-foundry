@@ -1,46 +1,46 @@
 ---
-author: TVO Today
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- Second City
+- SCTV
+- TVO
+- Matthew Perry Foundation
+- Toronto Argonauts
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- '《John Candy: A Life in Comedy》'
+people:
+- Matthew Perry
+- John Candy
+- Caitlin Morrison
+- Paul Myers
+- Mike Myers
+- Dan Aykroyd
+products_models:
+- Friends
+- Planes, Trains and Automobiles
+- Uncle Buck
+- Home Alone
+- Cool Runnings
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=Ro8lYGVU4yg
 speaker: TVO Today
-tags:
-  - legacy
-  - mental-health
-  - comedy
-  - canadian-culture
-title: 纪念马修·派瑞与约翰·坎迪：喜剧、传承与心理健康
-summary: 本期节目回顾了演员马修·派瑞（Matthew Perry）的非凡人生及其对成瘾康复的贡献，并深入探讨了喜剧演员约翰·坎迪（John Candy）的加拿大根源、喜剧哲学及其持久的文化影响力。节目还触及了心理健康污名化及媒体的角色。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - Matthew Perry
-  - John Candy
-  - Caitlin Morrison
-  - Paul Myers
-  - Mike Myers
-  - Dan Aykroyd
-companies_orgs:
-  - Second City
-  - SCTV
-  - TVO
-  - Matthew Perry Foundation
-  - Toronto Argonauts
-products_models:
-  - Friends
-  - Planes, Trains and Automobiles
-  - Uncle Buck
-  - Home Alone
-  - Cool Runnings
-media_books:
-  - '《John Candy: A Life in Comedy》'
 status: evergreen
+summary: 本期节目回顾了演员马修·派瑞（Matthew Perry）的非凡人生及其对成瘾康复的贡献，并深入探讨了喜剧演员约翰·坎迪（John Candy）的加拿大根源、喜剧哲学及其持久的文化影响力。节目还触及了心理健康污名化及媒体的角色。
+tags:
+- comedy
+- culture
+- legacy
+- mental-health
+title: 纪念马修·派瑞与约翰·坎迪：喜剧、传承与心理健康
 ---
+
 ### 缅怀马修·派瑞
 
 提到电视剧《**Friends**》很难不想到**马修·派瑞**（Matthew Perry），但他远不止是他的角色钱德勒·宾（Chandler Bing）。他还是一个骄傲的加拿大人，一个狂热的冰球迷，并且，据所有人说，是一个真心想帮助他人的幽默人士。我与他的妹妹**凯特琳·莫里森**（Caitlin Morrison）谈论了**马修·派瑞基金会**（Matthew Perry Foundation），以及他们如何通过支持**成瘾**和**心理健康挑战**患者来纪念他的**遗产**。

@@ -1,19 +1,21 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-26'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Google Gemini
 summary: 开始OB vault的迁徙。
 tags:
-- Deep Research
-- Obsidian
-- 笔记的方法
+- science
 title: 从简单同步到自主知识体系：构建基于Git的Obsidian高级工作流
+companies:
+- Obsidian
+media_books:
+- 笔记的方法
 ---
 
 ## 引言：从简单同步到自主知识体系的跃迁

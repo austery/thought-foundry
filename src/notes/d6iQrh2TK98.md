@@ -1,42 +1,41 @@
 ---
-author: Veritasium
-date: '2024-03-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=d6iQrh2TK98
-speaker: Veritasium
-tags:
-  - veritasium
-  - randomness-perception
-  - prime-numbers
-  - decision-making
-  - secretary-problem
-  - human-cognition
-title: 为什么这个数字无处不在？37的随机性、数学奥秘与决策智慧
-summary: 本文探讨了数字37在人类认知中的普遍性。从人们选择随机数时对37的偏好，到其作为素数的独特数学性质，再到它在“秘书问题”等决策场景中的实际应用，揭示了37为何成为一个看似随机却又意义深远的数字。文章还展示了一位终生收集37相关现象的爱好者，强调了37在日常和数学世界中的无处不在。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Derek Muller
-  - Emily
-  - Charles Fleischer
+category: psychology
 companies_orgs:
-  - Stanford
-  - MIT
-  - KU
-products_models:
-  - The 37 Force
-  - The 37 Website
+- Stanford
+- MIT
+- KU
+date: '2024-03-28'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Stanford MIT Jargon File
+- The Stanford MIT Jargon File
+people:
+- Derek Muller
+- Emily
+- Charles Fleischer
+products_models:
+- The 37 Force
+- The 37 Website
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=d6iQrh2TK98
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了数字37在人类认知中的普遍性。从人们选择随机数时对37的偏好，到其作为素数的独特数学性质，再到它在“秘书问题”等决策场景中的实际应用，揭示了37为何成为一个看似随机却又意义深远的数字。文章还展示了一位终生收集37相关现象的爱好者，强调了37在日常和数学世界中的无处不在。
+tags:
+- canada
+- decision-making
+- human
+- perception
+- problem
+title: 为什么这个数字无处不在？37的随机性、数学奥秘与决策智慧
 ---
+
 ### 数字37：一个看似随机却无处不在的现象
 
 让我向你展示一些令人难以置信的事情。请说出一个介于1到100之间的随机数。

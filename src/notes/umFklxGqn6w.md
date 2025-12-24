@@ -1,37 +1,35 @@
 ---
-author: 徒步的騎手
+area: society-thinking
+category: history
+companies_orgs:
+- US Army
+- Mexican Government
+- US Congress
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- John J. Pershing
+- Pancho Villa
+- Woodrow Wilson
+- Harding
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=umFklxGqn6w
 speaker: 徒步的騎手
-tags:
-  - chinese-exclusion-act
-  - general-pershing
-  - mexican-revolution
-  - chinese-laborers
-  - military-honor
-title: 一位美国将军跟500多名华人之间的生死契约｜为什么美国历史上地位最高的将军为了这群华人，去跟美国总统和国会硬刚？｜潘兴华人的来历｜
-summary: 讲述了1916年墨西哥革命期间，美国将军潘兴如何不顾排华法案，将500多名在墨西哥为美军提供后勤服务的华人及其家属营救至美国，并最终争取合法身份的真实历史故事。这不仅是关于契约精神和军人荣誉的体现，也展现了华人在美国历史中的贡献与抗争。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - John J. Pershing
-  - Pancho Villa
-  - Woodrow Wilson
-  - Harding
-companies_orgs:
-  - US Army
-  - Mexican Government
-  - US Congress
-products_models: []
-media_books: []
 status: evergreen
+summary: 讲述了1916年墨西哥革命期间，美国将军潘兴如何不顾排华法案，将500多名在墨西哥为美军提供后勤服务的华人及其家属营救至美国，并最终争取合法身份的真实历史故事。这不仅是关于契约精神和军人荣誉的体现，也展现了华人在美国历史中的贡献与抗争。
+tags:
+- chinese
+- health
+- military
+- revolution
+title: 一位美国将军跟500多名华人之间的生死契约｜为什么美国历史上地位最高的将军为了这群华人，去跟美国总统和国会硬刚？｜潘兴华人的来历｜
 ---
+
 ### 边城往事
 
 各位好，这次西部之行包括**El Paso**。**El Paso**是**德克萨斯**西部荒漠中的一座边城。**格兰德河**（Rio Grande: 流经美国与墨西哥边境的河流）从这里流过，形成**德克萨斯**与**墨西哥**之间的天然边界。河对岸就是**墨西哥**。100多年前，有位美国将军以一己之力，不顾**排华法案**（Chinese Exclusion Act: 1882年至1943年间美国禁止华人劳工入境并限制华人获得公民身份的法律）的禁止，将500多名中国人及其家眷从这里带进了美国，让他们脱离了**墨西哥**叛军的枪口和枷锁。这段往事已很少被人提起。今天，我们就把这段被掩埋了一个世纪的往事重新挖出来，从头到尾讲一讲。这是一个关于战争逃亡、忠诚、偏见、良知、报恩、**契约精神**和**军人荣誉**的故事。

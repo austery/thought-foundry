@@ -1,31 +1,31 @@
 ---
-title: 彼得·蒂尔的复仇：硅谷之王如何以三大战略摧毁Gawker
-summary: 本文深入剖析彼得·蒂尔对媒体Gawker的秘密复仇战。通过极致保密、多线侧翼攻击及切断资金来源，蒂尔团队步步为营。最终，Gawker因其混乱的内部文化而自取灭亡。
 area: personal-growth
 category: culture
-project:
-- cultural-critique
-tags:
-- corporate-strategy
-- gawker
-- media-warfare
-- organizational-culture
-people:
-- peter-thiel
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-14'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- peter-thiel
+products_models: []
+project:
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=7xl9LzYjD-4
+speaker: 北美王路飞
 status: evergreen
+summary: 本文深入剖析彼得·蒂尔对媒体Gawker的秘密复仇战。通过极致保密、多线侧翼攻击及切断资金来源，蒂尔团队步步为营。最终，Gawker因其混乱的内部文化而自取灭亡。
+tags:
+- corporate-strategy
+- media
+- organizational-culture
+title: 彼得·蒂尔的复仇：硅谷之王如何以三大战略摧毁Gawker
+companies:
+- gawker
 ---
+
 ### 硅谷之王的复仇：一场秘密战争的打响
 
 大家好，欢迎来到我的频道。今天我们继续讲述**彼得·蒂尔**（Peter Thiel: 美国亿万富翁、风险投资家，PayPal联合创始人）与**Gawker**（高客: 曾是美国知名在线媒体，以八卦和揭秘报道著称）的复仇之战。上一期节目提到，蒂尔将诉讼打到了**佛罗里达州**（Florida: 美国东南部的一个州）的州法院，并向Gawker递上了一份价值1亿美金的战书，战争正式打响。

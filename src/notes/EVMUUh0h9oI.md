@@ -1,65 +1,65 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Meta
+- Microsoft
+- Google
+- Amazon
+- Apple
+- OpenAI
+- Anthropic
+- Nvidia
+- Oracle
+- FTC
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- BG2 Podcast
+people:
+- Mark Zuckerberg
+- Sundar Pichai
+- Andy Jassy
+- 胡君
+- 刘总
+products_models:
+- ChatGPT
+- Gemini
+- Llama
+- AWS
+- Azure
+- iPhone
+- Threads
+- Instagram
+- Reels
+- YouTube
+- Android
+- Chrome
+- Quest
+- Trainium
+- Graviton
+- M5 chip
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=EVMUUh0h9oI
 speaker: 投资TALK君
-tags:
-  - tech-earnings
-  - ai-investment
-  - capital-expenditure
-  - cloud-computing
-  - ai-strategy
-title: 科技巨头2025Q3财报深度解析：AI投资浪潮下的机遇与挑战
-summary: 本期节目深入剖析了Meta、微软、谷歌、亚马逊和苹果五大科技巨头2025年第三季度的财报。讨论聚焦于各公司在AI领域的巨额资本投入、战略布局及其对财务表现的影响。节目探讨了AI泡沫是否存在，以及各公司如何通过自研芯片、云服务、智能体电商和隐私保护等策略，在激烈的市场竞争中寻求高利润增长点，并评估了其长期发展潜力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Mark Zuckerberg
-  - Sundar Pichai
-  - Andy Jassy
-  - 胡君
-  - 刘总
-companies_orgs:
-  - Meta
-  - Microsoft
-  - Google
-  - Amazon
-  - Apple
-  - OpenAI
-  - Anthropic
-  - Nvidia
-  - Oracle
-  - FTC
-products_models:
-  - ChatGPT
-  - Gemini
-  - Llama
-  - AWS
-  - Azure
-  - iPhone
-  - Threads
-  - Instagram
-  - Reels
-  - YouTube
-  - Android
-  - Chrome
-  - Quest
-  - Trainium
-  - Graviton
-  - M5 chip
-media_books:
-  - BG2 Podcast
 status: evergreen
+summary: 本期节目深入剖析了Meta、微软、谷歌、亚马逊和苹果五大科技巨头2025年第三季度的财报。讨论聚焦于各公司在AI领域的巨额资本投入、战略布局及其对财务表现的影响。节目探讨了AI泡沫是否存在，以及各公司如何通过自研芯片、云服务、智能体电商和隐私保护等策略，在激烈的市场竞争中寻求高利润增长点，并评估了其长期发展潜力。
+tags:
+- ai-investment
+- ai-strategy
+- capital-expenditure
+- cloud-computing
+- tech-earning
+title: 科技巨头2025Q3财报深度解析：AI投资浪潮下的机遇与挑战
 ---
+
 ### 科技巨头2025Q3财报概览与AI投资焦点
 
 本期节目将深入探讨科技五巨头——Meta、微软、谷歌、亚马逊和苹果在2025年第三季度的财报表现。这些公司在未来两年，即2025至2026年，都承诺将大幅扩大**资本开支**（Capital Expenditure - CAPEX: 公司用于购买、改进或延长固定资产使用寿命的支出），尤其是在AI领域。然而，市场对它们的反馈却不尽相同。尽管每家公司都与AI息息相关，并可能成为AI的受益者，但从长远来看，它们各自的侧重点有所不同。

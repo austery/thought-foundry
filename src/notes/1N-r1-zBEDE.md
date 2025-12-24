@@ -1,33 +1,31 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: geopolitics
+companies_orgs: []
 date: '2025-09-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=1N-r1-zBEDE
 speaker: 海淀拙大叔
-tags:
-  - housing-market
-  - population-influx
-  - free-trade-zones
-  - economic-growth
-  - urban-development
-title: 阿甘财富增长论之五：房产投资何去何从？
-summary: 本文深入探讨了房价上涨的底层逻辑与关键驱动因素，包括高质量人口净流入、城市配套、产业集聚及经济自由度。通过对比成熟城市与追赶型城市的增长潜力，重点分析了海南作为自由贸易港的投资价值，并与全球成功自贸区进行比较，回应了关于海南发展的常见质疑。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-  - geopolitics-watch
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了房价上涨的底层逻辑与关键驱动因素，包括高质量人口净流入、城市配套、产业集聚及经济自由度。通过对比成熟城市与追赶型城市的增长潜力，重点分析了海南作为自由贸易港的投资价值，并与全球成功自贸区进行比较，回应了关于海南发展的常见质疑。
+tags:
+- economic-growth
+- geopolitical
+- housing-market
+- trade
+- urban-development
+title: 阿甘财富增长论之五：房产投资何去何从？
 ---
+
 ### 引言：房产投资的底层逻辑
 
 海淀拙大叔在“阿甘财富增长论”第五篇中，探讨了“去哪儿买房”这一问题。他提到，有同学在股市赚钱后，希望能将资金投入房产以继续增值。大叔建议，首先应梳理房价上涨的底层逻辑，答案便会自然浮现。房价上涨的逻辑主要包括以下四点：第一，引发房价上涨的底层逻辑到底是什么？第二，有哪些关键因素会引发房价上涨？第三，这些因素已经成熟的城市，房价涨幅会很大，但正在快速追赶的城市，房价涨幅是否会更大？第四，谁最可能是潜在长期涨幅最大的城市？

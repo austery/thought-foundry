@@ -1,57 +1,57 @@
 ---
-author: 莊也雜談
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- World Bank
+- US Department of Commerce
+- Nvidia
+- Apple
+- Microsoft
+- Google
+- Amazon
+- Meta
+- Tesla
+- Walmart
+- United Airlines
+- Nike
+- Best Buy
+- European Central Bank
+- Citi Bank
+- Daiwa Institute of Research
 date: '2025-04-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Journal
+people:
+- Donald Trump
+- Kim Jong Un
+- Han Duck-soo
+- Ursula von der Leyen
+- Benjamin Netanyahu
+products_models:
+- iPhone
+project:
+- us-analysis
+- geopolitics-watch
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=lqXFUmMW_zw
 speaker: 莊也雜談
-tags:
-  - trade-war
-  - tariff-policy
-  - us-economy
-  - global-supply-chain
-  - economic-impact
-  - political-strategy
-title: 川普“解放日”关税大棒震撼全球：政治算计与经济逻辑深度剖析
-summary: 本文深度剖析了川普政府于2025年4月2日推出的新关税政策，包括10%的**基础关税**和针对60个主要贸易逆差经济体的更高**互惠关税**。文章揭示了这些关税数字的“简单粗暴”计算方式，并详细阐述了该政策对全球金融市场、主要经济体（如中国、欧盟、日韩）及小型国家造成的巨大冲击。同时，也探讨了俄罗斯、朝鲜、加拿大和墨西哥等国家未被直接纳入此次关税清单背后的复杂政治与经济考量，以及全球贸易格局可能因此面临的重塑。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - china-analysis
-people:
-  - Donald Trump
-  - Kim Jong Un
-  - Han Duck-soo
-  - Ursula von der Leyen
-  - Benjamin Netanyahu
-companies_orgs:
-  - World Bank
-  - US Department of Commerce
-  - Nvidia
-  - Apple
-  - Microsoft
-  - Google
-  - Amazon
-  - Meta
-  - Tesla
-  - Walmart
-  - United Airlines
-  - Nike
-  - Best Buy
-  - European Central Bank
-  - Citi Bank
-  - Daiwa Institute of Research
-products_models:
-  - iPhone
-media_books:
-  - Wall Street Journal
 status: evergreen
+summary: 本文深度剖析了川普政府于2025年4月2日推出的新关税政策，包括10%的**基础关税**和针对60个主要贸易逆差经济体的更高**互惠关税**。文章揭示了这些关税数字的“简单粗暴”计算方式，并详细阐述了该政策对全球金融市场、主要经济体（如中国、欧盟、日韩）及小型国家造成的巨大冲击。同时，也探讨了俄罗斯、朝鲜、加拿大和墨西哥等国家未被直接纳入此次关税清单背后的复杂政治与经济考量，以及全球贸易格局可能因此面临的重塑。
+tags:
+- economic-impact
+- global-supply-chain
+- political-strategy
+- tariff-policy
+- trade-war
+- us-economy
+title: 川普“解放日”关税大棒震撼全球：政治算计与经济逻辑深度剖析
 ---
+
 ### 川普“解放日”关税政策震撼全球
 
 2025年4月2日，美国前总统川普在白宫玫瑰园发表了一场全球瞩目的演讲，宣布了一项旨在“让美国再次富裕”的新关税政策。这项政策包括对几乎所有美国进口商品征收10%的**基础关税**（Baseline Tariff: 指对所有进口商品普遍征收的最低关税率），以及对60个最大贸易逆差**经济体**（Economy: 指一个国家或地区进行生产、分配和消费活动的系统）征收更高的**互惠关税**（Reciprocal Tariff: 指根据贸易伙伴对本国商品征收的关税水平，对该伙伴商品采取对等或调整后的关税）。

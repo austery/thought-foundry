@@ -1,37 +1,36 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Ontario's Auditor General
+- Ontario Coalition for Better Child Care
+- Federal government
+- Ontario government
+- Saskatchewan government
+- Alberta government
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Carolyn Ferns
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=VdNVpz7_h1I
 speaker: TVO Today
-tags:
-  - childcare-policy
-  - affordable-childcare
-  - funding-gap
-  - social-infrastructure
-  - economic-impact
-title: 安大略省的平价日托困境：为何未能实现每日10加元目标？
-summary: 安大略省未能按计划实现每日10加元的平价日托目标，审计长报告指出其进度滞后。本文深入探讨了安大略省在实现这一目标过程中面临的挑战，包括与联邦政府的资金缺口、与其他省份的进展对比，以及日托空间短缺问题。专家强调，平价日托不仅是家庭的福音，更是重要的社会基础设施，能显著提升劳动力参与率并创造大量就业机会，对经济产生积极影响。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project: []
-people:
-  - Carolyn Ferns
-companies_orgs:
-  - Ontario's Auditor General
-  - Ontario Coalition for Better Child Care
-  - Federal government
-  - Ontario government
-  - Saskatchewan government
-  - Alberta government
-products_models: []
-media_books: []
 status: evergreen
+summary: 安大略省未能按计划实现每日10加元的平价日托目标，审计长报告指出其进度滞后。本文深入探讨了安大略省在实现这一目标过程中面临的挑战，包括与联邦政府的资金缺口、与其他省份的进展对比，以及日托空间短缺问题。专家强调，平价日托不仅是家庭的福音，更是重要的社会基础设施，能显著提升劳动力参与率并创造大量就业机会，对经济产生积极影响。
+tags:
+- economic-impact
+- gap
+- life
+- policy
+- social
+title: 安大略省的平价日托困境：为何未能实现每日10加元目标？
 ---
+
 ### 安大略省日托目标落后
 
 去年十月，**安大略省审计长**（Auditor General: 负责审查政府开支和运营的独立官员）明确指出，安大略省在实现平价日托目标方面进展滞后，这对于许多家长来说早已是显而易见的事实。

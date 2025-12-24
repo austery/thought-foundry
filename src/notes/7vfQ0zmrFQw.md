@@ -1,32 +1,31 @@
 ---
-title: 贝佐斯的智慧：善良、长线思维与AI时代的乐观坐标
-summary: 贝佐斯强调“善良比聪明更难”，以此构建亚马逊长线思维。文章分析AI热潮，区分金融与工业泡沫，并为个体在AI时代的发展提供策略。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- entrepreneurship
-tags:
-- ai-revolution
-- entrepreneurship
-- kindness
-- long-term-thinking
-people:
-- jeff-bezos
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-13'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- jeff-bezos
+products_models: []
+project:
+- ai-impact-analysis
+- entrepreneurship
 series: ''
 source: https://www.youtube.com/watch?v=7vfQ0zmrFQw
+speaker: 北美王路飞
 status: evergreen
+summary: 贝佐斯强调“善良比聪明更难”，以此构建亚马逊长线思维。文章分析AI热潮，区分金融与工业泡沫，并为个体在AI时代的发展提供策略。
+tags:
+- ai-revolution
+- entrepreneurship
+- kindness
+- thinking
+title: 贝佐斯的智慧：善良、长线思维与AI时代的乐观坐标
 ---
+
 ### 贝佐斯的童年启示：善良比聪明更难
 
 我们生活在一个奖励聪明的时代，追求更快的算法、更高的效率和更优的策略，痴迷于用聪明解决一切问题。然而，构建了地球上最庞大商业帝国的人——杰夫·贝佐斯，他一生中最重要的领悟却恰恰是关于聪明的局限性。这个故事不关乎代码、火箭或商业，而是发生在一个10岁男孩和他祖父之间，在一辆行驶于德州乡间的旧车里。这个故事的结局不仅塑造了后来的亚马逊，或许也将为今天身处技术浪潮中的我们提供一个至关重要的坐标。

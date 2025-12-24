@@ -1,144 +1,143 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Dell
+- Workday
+- CleanSpark
+- HP
+- Autodesk
+- Google
+- Meta
+- Cisco
+- Broadcom
+- Apple
+- Bank of America
+- Bernstein
+- Oracle
+- AMD
+- Interactive Brokers
+- Goldman Sachs
+- Robinhood
+- Eli Lilly
+- Zscaler
+- CrowdStrike
+- Palo Alto Networks
+- Tesla
+- Amazon
+- Microsoft
+- MSNBC
+- White House
+- ADP
+- Federal Reserve
+- Reddit
+- Duolingo
+- NetApp
+- Kohl's
+- Harmonic
+- Nutanix
+- Super Micro Computer
+- Iran
+- OpenAI
+- Susquehanna Group
+- CFTC
+- Urban Outfitters
+- Best Buy
+- Burlington
+- Abercrombie & Fitch
+- Lululemon
+- Starbucks
+- Shake Shack
+- Anthropic
+- S&P 500
+- XRT
+- Regeneron
+- 23andMe
+- Danaher
+- Pfizer
+- Merck
+- Gap
+- American Eagle
+- Levi's
+- Ulta
+- Estee Lauder
+- Target
+- CoreWeave
+- Salesforce
+- Big Bear AI
+- Joby Aviation
+- Archer Aviation
+- Anduril
+- Dutch Bros
+- Nike
+- SanDisk
+- Western Digital
+- Celestica
+- ELF Beauty
+- PayPal
+- TransMedics
+- Bloom Energy
+- Rocket Companies
+- Micron
+- DataDog
+- SoFi
+- Palantir
+- Rocket Lab
+- Ethereum
+- Bitcoin
+- Coinbase
+- MicroStrategy
+- Lemonade
+- Oscar Health
+- Zeta Global
+- Nubank
+- Chipotle
+- McDonald's
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CNBC
+people:
+- Jason
+- Jensen Huang
+- Michael Burry
+- Amir Yazdan
+- Kash Patel
+- Donald Trump
+- Vlad Tenev
+- Dan Ives
+- David Steinberg
+- Enrique Lores
+- Sydney Sweeney
+products_models:
+- TPU
+- GPU
+- Deepseek
+- Gemini 3
+- Claude
+- HBM
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=0WiQ0PHL6k8
 speaker: Amit Kukreja
-tags:
-  - market-sentiment
-  - earnings-season
-  - technical-analysis
-  - ai-competition
-  - market-rebound
-title: 英伟达回应谷歌TPU挑战，戴尔财报超预期，市场情绪回暖
-summary: 本期市场收盘分析深入探讨了英伟达对谷歌TPU的回应如何稳定了市场情绪，推动了股价从盘中低点反弹。同时，标普500指数收复关键的50日移动平均线，显示出市场信心的增强。节目详细解读了戴尔、Workday、CleanSpark和惠普等多家公司的财报，并分析了零售业意外强劲的表现。最后，“技术星期二”环节对标普500、英伟达、谷歌、Meta等关键股票进行了深入的技术图表分析，为投资者提供了未来走势的展望。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Jason
-  - Jensen Huang
-  - Michael Burry
-  - Amir Yazdan
-  - Kash Patel
-  - Donald Trump
-  - Vlad Tenev
-  - Dan Ives
-  - David Steinberg
-  - Enrique Lores
-  - Sydney Sweeney
-companies_orgs:
-  - Nvidia
-  - Dell
-  - Workday
-  - CleanSpark
-  - HP
-  - Autodesk
-  - Google
-  - Meta
-  - Cisco
-  - Broadcom
-  - Apple
-  - Bank of America
-  - Bernstein
-  - Oracle
-  - AMD
-  - Interactive Brokers
-  - Goldman Sachs
-  - Robinhood
-  - Eli Lilly
-  - Zscaler
-  - CrowdStrike
-  - Palo Alto Networks
-  - Tesla
-  - Amazon
-  - Microsoft
-  - MSNBC
-  - White House
-  - ADP
-  - Federal Reserve
-  - Reddit
-  - Duolingo
-  - NetApp
-  - Kohl's
-  - Harmonic
-  - Nutanix
-  - Super Micro Computer
-  - Iran
-  - OpenAI
-  - Susquehanna Group
-  - CFTC
-  - Urban Outfitters
-  - Best Buy
-  - Burlington
-  - Abercrombie & Fitch
-  - Lululemon
-  - Starbucks
-  - Shake Shack
-  - Anthropic
-  - S&P 500
-  - XRT
-  - Regeneron
-  - 23andMe
-  - Danaher
-  - Pfizer
-  - Merck
-  - Gap
-  - American Eagle
-  - Levi's
-  - Ulta
-  - Estee Lauder
-  - Target
-  - CoreWeave
-  - Salesforce
-  - Big Bear AI
-  - Joby Aviation
-  - Archer Aviation
-  - Anduril
-  - Dutch Bros
-  - Nike
-  - SanDisk
-  - Western Digital
-  - Celestica
-  - ELF Beauty
-  - PayPal
-  - TransMedics
-  - Bloom Energy
-  - Rocket Companies
-  - Micron
-  - DataDog
-  - SoFi
-  - Palantir
-  - Rocket Lab
-  - Ethereum
-  - Bitcoin
-  - Coinbase
-  - MicroStrategy
-  - Lemonade
-  - Oscar Health
-  - Zeta Global
-  - Nubank
-  - Chipotle
-  - McDonald's
-products_models:
-  - TPU
-  - GPU
-  - Deepseek
-  - Gemini 3
-  - Claude
-  - HBM
-media_books:
-  - CNBC
 status: evergreen
+summary: 本期市场收盘分析深入探讨了英伟达对谷歌TPU的回应如何稳定了市场情绪，推动了股价从盘中低点反弹。同时，标普500指数收复关键的50日移动平均线，显示出市场信心的增强。节目详细解读了戴尔、Workday、CleanSpark和惠普等多家公司的财报，并分析了零售业意外强劲的表现。最后，“技术星期二”环节对标普500、英伟达、谷歌、Meta等关键股票进行了深入的技术图表分析，为投资者提供了未来走势的展望。
+tags:
+- ai-competition
+- earnings-season
+- market-rebound
+- market-sentiment
+- technical-analysis
+title: 英伟达回应谷歌TPU挑战，戴尔财报超预期，市场情绪回暖
 ---
+
 ### 市场概览与财报预告
 
 好了，大家好，欢迎回到新一期的市场收盘节目。我们正在直播，今天是11月25日，星期二。朋友们，今天我们有一大堆财报要公布，接下来的15分钟内，我们会逐一分析这些财报更新。我们有利好消息的公司包括戴尔、Workday、CleanSpark、Autodesk、惠普以及其他几家公司。我刚刚在聊天区发起了一个投票，看看你们认为哪家公司会表现出色。

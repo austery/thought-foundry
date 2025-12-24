@@ -1,64 +1,63 @@
 ---
-author: New York Times Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- New York Times Podcasts
+- Wirecutter
+- Apple
+- Amazon
+- Mattel
+- Etsy
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wire Cutter Show
+- Wirecutter's Guide to Navigating Tariffs this Holiday Season
+- Ask Wire Cutter
+people:
+- Christine Sirette
+- Kyra Blackwell
+- Rosie Garin
+- Ann Marie Conte
+- Nathan Burrow
+- Kimber Streams
+- Donald Trump
+- Abigail Keel
+- Mattie Maziello
+- Nick Pitman
+- Katherine Anderson
+- Dan Powell
+- Marian Lozano
+- Rowan Nemoto
+- Diane Wong
+- Cliff Levy
+- Ben Freeman
+products_models:
+- American Girl dolls
+- Chromebook
+- Keepa
+- Camelcamelcamel
+- Google Shopping
+project:
+- us-analysis
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=o0eKk7Jq8s4
 speaker: New York Times Podcasts
-tags:
-  - tariffs
-  - holiday-shopping
-  - consumer-pricing
-  - deal-tracking
-  - shipping-delays
-title: 关税如何影响今年的节日购物季？
-summary: 本期《Wirecutter Show》节目探讨了关税对今年节日购物季价格的影响。副编辑 Ann Marie Conte 解释说，虽然大范围的价格上涨可能不那么明显，但婴儿用品、钢铁制品和游戏机等特定品类正经历显著涨价。节目还讨论了零售商的定价策略、价格追踪的重要性，以及如何在潜在的运输延迟中，制定明智的购物策略，确保在节日期间物有所值。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - geopolitics-watch
-people:
-  - Christine Sirette
-  - Kyra Blackwell
-  - Rosie Garin
-  - Ann Marie Conte
-  - Nathan Burrow
-  - Kimber Streams
-  - Donald Trump
-  - Abigail Keel
-  - Mattie Maziello
-  - Nick Pitman
-  - Katherine Anderson
-  - Dan Powell
-  - Marian Lozano
-  - Rowan Nemoto
-  - Diane Wong
-  - Cliff Levy
-  - Ben Freeman
-companies_orgs:
-  - New York Times Podcasts
-  - Wirecutter
-  - Apple
-  - Amazon
-  - Mattel
-  - Etsy
-products_models:
-  - American Girl dolls
-  - Chromebook
-  - Keepa
-  - Camelcamelcamel
-  - Google Shopping
-media_books:
-  - The Wire Cutter Show
-  - Wirecutter's Guide to Navigating Tariffs this Holiday Season
-  - Ask Wire Cutter
 status: evergreen
+summary: 本期《Wirecutter Show》节目探讨了关税对今年节日购物季价格的影响。副编辑 Ann Marie Conte 解释说，虽然大范围的价格上涨可能不那么明显，但婴儿用品、钢铁制品和游戏机等特定品类正经历显著涨价。节目还讨论了零售商的定价策略、价格追踪的重要性，以及如何在潜在的运输延迟中，制定明智的购物策略，确保在节日期间物有所值。
+tags:
+- consumer
+- deal-tracking
+- financial
+- tariff
+title: 关税如何影响今年的节日购物季？
 ---
+
 ### 关税对节日购物的“千刀万剐”效应
 
 这就像是**千刀万剐**（death by a thousand cuts: 指一系列小而累积的负面事件最终导致重大失败或损害）。可能这里多了几美元，那里多了几美元，你在购物时可能根本不会注意到。然而，当你累计计算你总共花了多少钱时，你可能会想：“这些钱都去哪儿了？”

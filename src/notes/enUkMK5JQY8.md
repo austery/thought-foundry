@@ -1,37 +1,36 @@
 ---
-author: The Pragmatic Engineer
+area: society-systems
+category: technology
+companies_orgs:
+- Linux
+- Red Hat
+- Google
+- Apple
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Rust
+- C
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=enUkMK5JQY8
 speaker: The Pragmatic Engineer
-tags:
-  - rust-language
-  - linux-kernel
-  - memory-safety
-  - software-evolution
-  - developer-adoption
-title: 为何 Rust 正逐步融入 Linux 内核：挑战、机遇与未来
-summary: 本文深入探讨了 Rust 语言进入 Linux 内核的进程。尽管面临 C 语言模型、性能和开发者阻力等挑战，Rust 的内存安全特性（尤其在对象生命周期管理方面）正帮助修复特定类型的内核错误，并促使 C 代码的改进。随着基础设施的完善和开发者意愿的增强，Rust 被视为 Linux 内核演进的关键一步，尤其是在驱动程序开发领域。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - systems-thinking
-people: []
-companies_orgs:
-  - Linux
-  - Red Hat
-  - Google
-  - Apple
-products_models:
-  - Rust
-  - C
-media_books: []
 status: evergreen
+summary: 本文深入探讨了 Rust 语言进入 Linux 内核的进程。尽管面临 C 语言模型、性能和开发者阻力等挑战，Rust 的内存安全特性（尤其在对象生命周期管理方面）正帮助修复特定类型的内核错误，并促使
+  C 代码的改进。随着基础设施的完善和开发者意愿的增强，Rust 被视为 Linux 内核演进的关键一步，尤其是在驱动程序开发领域。
+tags:
+- code
+- evolution
+- investment
+- language
+- memory
+title: 为何 Rust 正逐步融入 Linux 内核：挑战、机遇与未来
 ---
+
 ### Rust 在 Linux 内核中的现状与初步尝试
 
 关于 Rust 是否会在 Linux 中得到支持，以及未来是否会超越 C 语言进行开发，这是一个值得探讨的问题。事实上，Linux 内核中已经存在约 25,000 行 Rust 代码。在最新的内核版本中，当内核崩溃时，会显示一个二维码，用户可以通过扫描该二维码获取崩溃的详细信息，而生成这个二维码的代码就是用 Rust 编写的。

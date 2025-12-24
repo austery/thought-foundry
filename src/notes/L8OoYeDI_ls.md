@@ -1,41 +1,39 @@
 ---
-author: AI Engineer
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Vercel
+- GitHub
 date: '2025-08-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ido Pesok
+- John
+products_models:
+- Vercel v0
+- AI SDK
+- Brain Trust
+- GPT-4
+- ChatGPT
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=L8OoYeDI_ls
 speaker: AI Engineer
-tags:
-  - llm-reliability
-  - ai-application-evaluation
-  - prompt-engineering
-  - software-testing
-  - user-feedback
-title: LLM应用评估：为何Evals不是单元测试
-summary: Vercel V0工程师Ido Pesok深入探讨了大型语言模型（LLM）在生产环境中的固有不可靠性。他指出，传统的单元测试不足以应对AI应用的挑战，并引入了“Evals”（评估）作为一种系统性方法来衡量和提升AI应用的可靠性与质量。通过一个“水果字母计数器”的例子和篮球场比喻，他详细解释了如何构建有效的Evals，包括数据收集、任务设计、确定性评分以及将Evals整合到持续集成流程中，最终实现更高的用户转化率和留存率。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ido Pesok
-  - John
-companies_orgs:
-  - Vercel
-  - GitHub
-products_models:
-  - Vercel v0
-  - AI SDK
-  - Brain Trust
-  - GPT-4
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: Vercel V0工程师Ido Pesok深入探讨了大型语言模型（LLM）在生产环境中的固有不可靠性。他指出，传统的单元测试不足以应对AI应用的挑战，并引入了“Evals”（评估）作为一种系统性方法来衡量和提升AI应用的可靠性与质量。通过一个“水果字母计数器”的例子和篮球场比喻，他详细解释了如何构建有效的Evals，包括数据收集、任务设计、确定性评分以及将Evals整合到持续集成流程中，最终实现更高的用户转化率和留存率。
+tags:
+- ai-application-evaluation
+- geopolitical
+- llm
+- software
+title: LLM应用评估：为何Evals不是单元测试
 ---
+
 ### Vercel V0：AI 应用评估的实践之路
 
 我叫Ido，是Vercel的工程师，目前负责**Vercel v0**（Vercel v0: 一个全栈的“氛围编码”平台）项目。如果你还不了解，Vercel v0是一个全栈的“氛围编码”平台，它是最简单、最快速地在网络上进行原型设计、构建并表达新想法的方式。这里有一些人们在Twitter上构建和分享的精彩案例。为了让大家了解最新进展，我们最近推出了GitHub同步功能，现在你可以直接从V0将生成的代码推送到GitHub。你还可以自动将GitHub上的更改拉取到你的聊天界面，并且可以切换分支、创建**PRs**（Pull Requests: 拉取请求，软件开发中用于合并代码的机制），与团队协作。我非常高兴地宣布，我们最近发送的消息数量已突破1亿条，我们也很期待未来能继续成长。

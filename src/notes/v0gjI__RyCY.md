@@ -1,62 +1,58 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Google
+- OpenAI
+- Google DeepMind
+- DARPA
+- Anthropic
+- TSMC
+- Jane Street
 date: '2025-02-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jeff Dean
+- Noam Shazeer
+- Larry Page
+- Franz Och
+- Sundar Pichai
+- Rich Sutton
+- Chris Olah
+- Einstein
+- Newton
+products_models:
+- MapReduce
+- BigTable
+- Tensorflow
+- AlphaChip
+- Gemini
+- Transformer
+- Mixture of Experts
+- Mesh Tensorflow
+- TPU
+- BERT
+- Meena
+- Pixel cameras
+- Gato
+- ImageNet
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=v0gjI__RyCY
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-hardware
-  - ai-safety
-  - modular-ai
-  - inference-scaling
-title: Jeff Dean与Noam Shazeer：Google二十五年，从PageRank到AGI
-summary: 本播客深入探讨了Google首席科学家Jeff Dean和Transformer架构共同发明者Noam Shazeer在Google二十五年的职业生涯。他们回顾了从MapReduce、Tensorflow等基础系统到Gemini等最新AI模型的发展历程，讨论了摩尔定律对硬件设计的影响、硬件与算法的协同演进、AI模型模块化与推理扩展的未来愿景，以及通用人工智能（AGI）带来的机遇与挑战，包括AI安全和负责任的开发原则。同时，他们也分享了在快速变化的AI领域中保持创新和职业广度的经验。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Jeff Dean
-  - Noam Shazeer
-  - Dwarkesh Patel
-  - Larry Page
-  - Franz Och
-  - Sundar Pichai
-  - Rich Sutton
-  - Chris Olah
-  - Einstein
-  - Newton
-companies_orgs:
-  - Google
-  - OpenAI
-  - Google DeepMind
-  - DARPA
-  - Anthropic
-  - TSMC
-  - Jane Street
-products_models:
-  - MapReduce
-  - BigTable
-  - Tensorflow
-  - AlphaChip
-  - Gemini
-  - Transformer
-  - Mixture of Experts
-  - Mesh Tensorflow
-  - TPU
-  - BERT
-  - Meena
-  - Pixel cameras
-  - Gato
-  - ImageNet
-media_books: []
 status: evergreen
+summary: 本播客深入探讨了Google首席科学家Jeff Dean和Transformer架构共同发明者Noam Shazeer在Google二十五年的职业生涯。他们回顾了从MapReduce、Tensorflow等基础系统到Gemini等最新AI模型的发展历程，讨论了摩尔定律对硬件设计的影响、硬件与算法的协同演进、AI模型模块化与推理扩展的未来愿景，以及通用人工智能（AGI）带来的机遇与挑战，包括AI安全和负责任的开发原则。同时，他们也分享了在快速变化的AI领域中保持创新和职业广度的经验。
+tags:
+- ai-safety
+- llm
+- technology
+title: Jeff Dean与Noam Shazeer：Google二十五年，从PageRank到AGI
 ---
+
 ### 引言：Google的两位AI先驱
 
 今天，我很荣幸能与**Jeff Dean**和**Noam Shazeer**进行对话。**Jeff**是**Google**的首席科学家，在他效力**Google**的25年里，他参与了现代计算领域最具变革性的系统开发，包括**MapReduce**（MapReduce: Google开发的一种分布式计算模型，用于处理和生成大数据集）、**BigTable**（BigTable: Google开发的一种分布式结构化数据存储系统）、**Tensorflow**（Tensorflow: Google开发的开源机器学习框架）、**AlphaChip**（AlphaChip: Google内部的AI芯片项目，或指其定制AI硬件）以及现在的**Gemini**（Gemini: Google DeepMind开发的多模态大型语言模型），这份名单简直数不胜数。

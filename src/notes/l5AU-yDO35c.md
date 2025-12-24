@@ -1,62 +1,62 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- USDA
+- Kimberly Clark
+- Ken View
+- Facing Hunger Food Bank
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Rachel Abrams
+- Tony Rom
+- Olivia Nat
+- Anna Foley
+- Roy Messer
+- Teresa Hodgej
+- Brianna Lockart
+- Russell Vote
+- Mooj Zadei
+- Patricia Willins
+- Paige Cowitt
+- Susan Lee
+- Marian Lozano
+- Dan Powell
+- Chris Wood
+- David Farenthal
+- Rachel Colulbertson
+- Andrew Cuomo
+- Zoron Mandani
+- Donald Trump
+products_models:
+- SNAP
+- Tylenol
+- Acetaminophen
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=l5AU-yDO35c
 speaker: New York Times Podcasts
-tags:
-  - government-shutdown
-  - food-assistance
-  - social-safety-net
-  - political-strategy
-  - poverty-impact
-title: 美国政府停摆：数百万贫困人口的食品援助危机
-summary: 本文深入探讨了美国政府停摆对数百万低收入家庭，特别是对补充营养援助计划（SNAP）受益人的毁灭性影响。文章通过西弗吉尼亚州一个高度依赖食品援助社区的居民访谈，揭示了福利中断带来的困惑、愤怒和绝望。同时，也分析了特朗普政府在此次危机中的政治动机，以及共和党长期以来削减社会福利项目的努力。文章还详细介绍了SNAP计划的运作方式、受益人群及其面临的法律挑战和资金困境，并探讨了此次事件对公众对政府信任的长期影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Rachel Abrams
-  - Tony Rom
-  - Olivia Nat
-  - Anna Foley
-  - Roy Messer
-  - Teresa Hodgej
-  - Brianna Lockart
-  - Russell Vote
-  - Mooj Zadei
-  - Patricia Willins
-  - Paige Cowitt
-  - Susan Lee
-  - Marian Lozano
-  - Dan Powell
-  - Chris Wood
-  - David Farenthal
-  - Rachel Colulbertson
-  - Andrew Cuomo
-  - Zoron Mandani
-  - Donald Trump
-companies_orgs:
-  - New York Times
-  - USDA
-  - Kimberly Clark
-  - Ken View
-  - Facing Hunger Food Bank
-products_models:
-  - SNAP
-  - Tylenol
-  - Acetaminophen
-media_books:
-  - The Daily
 status: evergreen
+summary: 本文深入探讨了美国政府停摆对数百万低收入家庭，特别是对补充营养援助计划（SNAP）受益人的毁灭性影响。文章通过西弗吉尼亚州一个高度依赖食品援助社区的居民访谈，揭示了福利中断带来的困惑、愤怒和绝望。同时，也分析了特朗普政府在此次危机中的政治动机，以及共和党长期以来削减社会福利项目的努力。文章还详细介绍了SNAP计划的运作方式、受益人群及其面临的法律挑战和资金困境，并探讨了此次事件对公众对政府信任的长期影响。
+tags:
+- government-shutdown
+- impact
+- life
+- political-strategy
+- social
+title: 美国政府停摆：数百万贫困人口的食品援助危机
 ---
+
 ### 引言：政府停摆下的食品援助危机
 
 来自《纽约时报》的瑞秋·艾布拉姆斯（Rachel Abrams）为您带来《The Daily》节目。

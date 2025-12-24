@@ -1,52 +1,52 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 苏宁
+- Alibaba
+- 恒大
+- 淘宝
+- 京东
+- 盛京银行
+- 交通银行
+- 光大银行
+- 浦发银行
+- 中信信托
+- 华夏银行
+- 南京中院
+- AMC资产管理公司
+- 海航
+- 方正
+- 泛海
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 小翠时政财經
+people:
+- 张近东
+products_models:
+- PPTV
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=ONi_0yPtwpM
 speaker: 小翠時政財經
-tags:
-  - private-enterprise-crisis
-  - debt-restructuring
-  - state-intervention
-  - political-economy
-  - social-stability
-title: 苏宁破产重组：中国民企未来命运的四大铁律
-summary: 本期节目深入分析了中国老牌民企苏宁的破产重组案例，揭示了其从江苏首富到资不抵债的历程，以及高达1800多亿的债务危机。节目详细解读了南京中院裁定的重组方案，并总结出中共在处理民营企业破产时可能遵循的四条“铁律”：能拖就不倒、安抚底层收割中上层、老板破产不破权、国资兜底信托藏雷。这反映了中共治国中政治优先、稳定至上的核心思路，以及中国式破产的本质及其可能带来的系统性风险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - 张近东
-companies_orgs:
-  - 苏宁
-  - 阿里巴巴
-  - 恒大
-  - 淘宝
-  - 京东
-  - 盛京银行
-  - 交通银行
-  - 光大银行
-  - 浦发银行
-  - 中信信托
-  - 华夏银行
-  - 南京中院
-  - AMC资产管理公司
-  - 海航
-  - 方正
-  - 泛海
-products_models:
-  - PPTV
-media_books:
-  - 小翠时政财經
 status: evergreen
+summary: 本期节目深入分析了中国老牌民企苏宁的破产重组案例，揭示了其从江苏首富到资不抵债的历程，以及高达1800多亿的债务危机。节目详细解读了南京中院裁定的重组方案，并总结出中共在处理民营企业破产时可能遵循的四条“铁律”：能拖就不倒、安抚底层收割中上层、老板破产不破权、国资兜底信托藏雷。这反映了中共治国中政治优先、稳定至上的核心思路，以及中国式破产的本质及其可能带来的系统性风险。
+tags:
+- crisis
+- debt
+- political-economy
+- social
+- state
+title: 苏宁破产重组：中国民企未来命运的四大铁律
 ---
+
 ### 苏宁的兴衰与债务危机
 
 大家好，欢迎回到小翠时政财經。今天是美东时间2025年10月28日。这期节目，我们要聊的是一家从江苏首富一路跌到破产重组的老牌民企——苏宁。这家连续多年稳居江苏民营企业百强榜第一的老牌巨头，如今也终于走到了要靠法院接管、靠国资托底的那一步。

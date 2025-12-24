@@ -1,65 +1,65 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Meta
+- Threads
+- Twitter
+- Hahow
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《民主國家如何死亡》
+- 《思辨的力量》
+- 《論幸福》
+- 《朝霞》
+- 《我們是誰？新時代台灣人的道路》
+people:
+- 黃紀
+- 郭子靖
+- Steven Levitsky
+- Daniel Ziblatt
+- John C. Calhoun
+- Mehdi Hasan
+- Charlie Kirk
+- Victor Cousin
+- Ozaki Yukio
+- Akutagawa Ryunosuke
+- Yoshino Sakuzo
+- Abe Jiro
+- 李登輝
+- 坂本尚志
+- Karl Marx
+- Alain
+- Aristotle
+- Friedrich Nietzsche
+- Martin Heidegger
+- Jean-Paul Sartre
+- René Descartes
+- Immanuel Kant
+- Arthur Schopenhauer
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=kDWRh9BJxR4
 speaker: 超級歪 SuperY
-tags:
-  - us-taiwan-polarization
-  - affective-polarization
-  - social-media-impact
-  - critical-thinking-education
-  - democratic-resilience
-title: 台湾社会两极化：情绪政治的挑战与法国哲学教育的启示
-summary: 本文深入探讨台湾社会日益加剧的两极化现象，指出其根源并非单纯的意识形态差异，而是情绪政治与社群媒体煽动所致。文章以美国社会为鉴，并通过政大学者的研究揭示台湾在统独议题上的情绪化对立。为应对此挑战，文中提出了从历史教训（相互容忍）、社群媒体设计优化到个人批判性思维培养等多维度解决方案，并重点介绍了法国高中哲学教育如何通过思辨训练，培养公民独立思考和理性对话的能力，为台湾民主的未来提供宝贵借鉴。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 黃紀
-  - 郭子靖
-  - Steven Levitsky
-  - Daniel Ziblatt
-  - John C. Calhoun
-  - Mehdi Hasan
-  - Charlie Kirk
-  - Victor Cousin
-  - Ozaki Yukio
-  - Akutagawa Ryunosuke
-  - Yoshino Sakuzo
-  - Abe Jiro
-  - 李登輝
-  - 坂本尚志
-  - Karl Marx
-  - Alain
-  - Aristotle
-  - Friedrich Nietzsche
-  - Martin Heidegger
-  - Jean-Paul Sartre
-  - René Descartes
-  - Immanuel Kant
-  - Arthur Schopenhauer
-companies_orgs:
-  - Facebook
-  - Threads
-  - Twitter
-  - Hahow
-products_models: []
-media_books:
-  - 《民主國家如何死亡》
-  - 《思辨的力量》
-  - 《論幸福》
-  - 《朝霞》
-  - 《我們是誰？新時代台灣人的道路》
 status: evergreen
+summary: 本文深入探讨台湾社会日益加剧的两极化现象，指出其根源并非单纯的意识形态差异，而是情绪政治与社群媒体煽动所致。文章以美国社会为鉴，并通过政大学者的研究揭示台湾在统独议题上的情绪化对立。为应对此挑战，文中提出了从历史教训（相互容忍）、社群媒体设计优化到个人批判性思维培养等多维度解决方案，并重点介绍了法国高中哲学教育如何通过思辨训练，培养公民独立思考和理性对话的能力，为台湾民主的未来提供宝贵借鉴。
+tags:
+- critical-thinking-education
+- democratic-resilience
+- social-media-impact
+- taiwan
+- technology
+title: 台湾社会两极化：情绪政治的挑战与法国哲学教育的启示
 ---
+
 ### 台湾社会两极化：情绪政治的挑战
 
 近一年来，人们普遍感受到言论自由空间日益受限，一旦发表意见便可能立即遭受网络攻击，导致许多网红和公众人物在网络上不敢发声，甚至有受害者因网络暴力而出现抑郁及心理问题。台湾社会的内耗和舆论两极化现象，正逐渐步入美国社会的后尘。如果未来持续恶化，势必会危及台湾的民主运作。本文将从社会科学、哲学和历史三个角度出发，探讨当今的两极化社会。

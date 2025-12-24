@@ -1,50 +1,49 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Futu Moomoo
+- Nvidia
+- Broadcom
+- Amazon
+- Alphabet
+- Meta
+- JPMorgan
+- 美国银行
 date: '2025-04-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+products_models:
+- Nasdaq 100
+- S&P 500
+- Dow Jones Industrial Average
+- Russell 2000
+- TLT
+- VIX
+- Bitcoin
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=AgJ1PziZqhQ
 speaker: 投资TALK君
-tags:
-  - us-stock-market
-  - q1-market-review
-  - tariff-policy
-  - fed-rate-expectations
-  - non-farm-payroll
-title: 美股一季度回顾、关税影响与非农预测：市场深度分析
-summary: 本文深入回顾了美股第一季度的市场表现，指出科技股大幅回调和板块轮动现象。分析了市场对美联储今年降息三次的预期，以及关税政策对通胀和GDP的潜在负面影响。同时，探讨了纳斯达克100指数的估值水平，并对即将公布的大非农数据和失业率进行了展望，强调关税政策可能对美国经济和企业盈利带来的挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-companies_orgs:
-  - Bloomberg
-  - Futu Moomoo
-  - Nvidia
-  - Broadcom
-  - Amazon
-  - Alphabet
-  - Meta
-  - JPMorgan
-  - 美国银行
-products_models:
-  - Nasdaq 100
-  - S&P 500
-  - Dow Jones Industrial Average
-  - Russell 2000
-  - TLT
-  - VIX
-  - Bitcoin
-media_books: []
 status: evergreen
+summary: 本文深入回顾了美股第一季度的市场表现，指出科技股大幅回调和板块轮动现象。分析了市场对美联储今年降息三次的预期，以及关税政策对通胀和GDP的潜在负面影响。同时，探讨了纳斯达克100指数的估值水平，并对即将公布的大非农数据和失业率进行了展望，强调关税政策可能对美国经济和企业盈利带来的挑战。
+tags:
+- market
+- non
+- rate
+- tariff-policy
+- us-stock-market
+title: 美股一季度回顾、关税影响与非农预测：市场深度分析
 ---
+
 ### 引言：美股一季度回顾与展望
 
 各位观众大家好，欢迎来到一个不单止聊新闻的专业美股频道。我是市场分析人小涛。周一正好是三月份最后一个交易日，也是第一季度最后一个交易日。我们正好在第一季度走完之后，来对第一季度或者**YTD**（Year-to-Date: 从年初至今）的走势做一个总结。同时，我们对于一些数据进行更新，例如市场的参与度，市场对于美联储今年降息的预期是否改变，以及纳指或科技板块目前的估值位置。今天彭博社正好有一篇新闻指出，当前估值已接近历史平均水平。

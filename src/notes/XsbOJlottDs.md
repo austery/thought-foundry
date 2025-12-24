@@ -1,76 +1,75 @@
 ---
-author: 小翠時政財經
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Tesla
+- SpaceX
+- Amazon
+- 中金公司
+- 东信证券
+- 信达证券
+- 摩尔线程
+- 穆西股份
+- Waymo
+- NVIDIA
+- Oracle
+- Micron
+- 拼多多
+- 市场监管总局
+- 财新
+- 高盛
+- 彭博社
+- 华尔街日报
+- 浙江国资委
+- Alibaba
+- 京东
+- 天猫
+- 小米
+- 比亚迪
+- Costco
+- Google
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财新》
+- 《华尔街日报》
+- 《彭博社》
+people:
+- Elon Musk
+- 图拓行
+- 范杰真
+- 彭增田
+- 韩冰
+- 赵家珍
+- 朱正
+- 刘建
+- 叶剑明
+- Jerome Powell
+- Donald Trump
+- commodity
+products_models:
+- RoboTaxi
+- GPU
+- CDS
+- ETF
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=XsbOJlottDs
 speaker: 小翠時政財經
-tags:
-  - llm
-  - ai-infrastructure
-  - commodity
-  - stock-market
-  - corporate-governance
-title: 拼多多打人事件揭露企业文化，亚马逊注资OpenAI，特斯拉白银铜价走势分析
-summary: 本期节目聚焦2025年12月17日时政财经要闻。A股市场震荡走强，券商并购案引关注，穆西股份上市首日刷新纪录。日本出口数据亮眼，但内需仍显疲软。白银与铜价因AI工业需求及供需失衡而大幅上涨。美股方面，特斯拉股价创新高，SpaceX筹备上市，科威股价暴跌揭示AI基建风险，美光财报前景乐观。此外，详细披露了拼多多高管与市监局冲突事件的内幕，探讨其企业文化和垄断行为，并警示中国APP对台湾用户的潜在国安风险。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Elon Musk
-  - 图拓行
-  - 范杰真
-  - 彭增田
-  - 韩冰
-  - 赵家珍
-  - 朱正
-  - 刘建
-  - 叶剑明
-  - Jerome Powell
-  - Donald Trump
-companies_orgs:
-  - OpenAI
-  - Tesla
-  - SpaceX
-  - Amazon
-  - 中金公司
-  - 东信证券
-  - 信达证券
-  - 摩尔线程
-  - 穆西股份
-  - Waymo
-  - NVIDIA
-  - Oracle
-  - Micron
-  - 拼多多
-  - 市场监管总局
-  - 财新
-  - 高盛
-  - 彭博社
-  - 华尔街日报
-  - 浙江国资委
-  - 阿里巴巴
-  - 京东
-  - 天猫
-  - 小米
-  - 比亚迪
-  - Costco
-  - Google
-products_models:
-  - RoboTaxi
-  - GPU
-  - CDS
-  - ETF
-media_books:
-  - 《财新》
-  - 《华尔街日报》
-  - 《彭博社》
 status: evergreen
+summary: 本期节目聚焦2025年12月17日时政财经要闻。A股市场震荡走强，券商并购案引关注，穆西股份上市首日刷新纪录。日本出口数据亮眼，但内需仍显疲软。白银与铜价因AI工业需求及供需失衡而大幅上涨。美股方面，特斯拉股价创新高，SpaceX筹备上市，科威股价暴跌揭示AI基建风险，美光财报前景乐观。此外，详细披露了拼多多高管与市监局冲突事件的内幕，探讨其企业文化和垄断行为，并警示中国APP对台湾用户的潜在国安风险。
+tags:
+- ai-infrastructure
+- corporate-governance
+- stock-market
+title: 拼多多打人事件揭露企业文化，亚马逊注资OpenAI，特斯拉白银铜价走势分析
 ---
+
 大家好，欢迎来到小翠时政财经。今天是美东时间2025年12月17日，欢迎收看我们今天的每日要闻节目。
 
 ### A股市场动态

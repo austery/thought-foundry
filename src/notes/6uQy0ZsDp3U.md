@@ -1,44 +1,44 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 粉红帮
+- 美国社会学会
+- 法律与社会学会
+- 印度卫生与家庭福利部
+- 世界银行
+- NGO
 date: '2023-05-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《无能之国》
+- 《三个傻瓜》
+people:
+- Poulami Roychowdhury
+- Sita
+- Rama
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=6uQy0ZsDp3U
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - domestic-violence
-  - state-capacity
-  - informal-justice
-  - dowry-system
-  - indian-society
-title: 印度「家暴中介」现象：低效国家能力与压迫性社会结构下的非预期结盟
-summary: 本期节目深入探讨印度独特的「家暴中介」现象，如著名的粉红帮。在印度国家能力低落、司法体系效率低下、文化习俗（如嫁妆和西多女神）压迫女性的背景下，这些中介组织应运而生。它们通过非法手段，甚至与基层官僚默许合作，帮助受暴女性争取权益，尤其是在追回嫁妆方面。文章分析了这种非正式正义的成因与运作模式，并指出其虽然未能根本改变女性处境，却在特定条件下提供了对抗暴力的途径。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Poulami Roychowdhury
-  - Sita
-  - Rama
-companies_orgs:
-  - 粉红帮
-  - 美国社会学会
-  - 法律与社会学会
-  - 印度卫生与家庭福利部
-  - 世界银行
-  - NGO
-products_models: []
-media_books:
-  - 《无能之国》
-  - 《三个傻瓜》
 status: evergreen
+summary: 本期节目深入探讨印度独特的「家暴中介」现象，如著名的粉红帮。在印度国家能力低落、司法体系效率低下、文化习俗（如嫁妆和西多女神）压迫女性的背景下，这些中介组织应运而生。它们通过非法手段，甚至与基层官僚默许合作，帮助受暴女性争取权益，尤其是在追回嫁妆方面。文章分析了这种非正式正义的成因与运作模式，并指出其虽然未能根本改变女性处境，却在特定条件下提供了对抗暴力的途径。
+tags:
+- domestic-violence
+- geopolitical
+- society
+- state
+- system
+title: 印度「家暴中介」现象：低效国家能力与压迫性社会结构下的非预期结盟
 ---
+
 ### 印度「家暴中介」的兴起：粉红帮的案例
 
 这里是寿司坦丁，在这里你可以用最轻松的方式了解国际上最有趣的社会科学研究。在印度北方邦，有一个令人闻风丧胆的帮派组织——**粉红帮**（Pink Gang: 一个由女性创立，也只允许女性加入的印度帮派组织）。这是一个由女性创立，也只允许女性加入的帮派，会众人数大约40万人，跟全台湾的公务员人数差不多。她们身着粉红色制服，标志性武器是手中的长棍。这是一个专门帮助妇女对抗家庭暴力的帮派，在印度，这是一个需求量很高的任务。粉红帮靠的不只是非法的暴力手段，为了达到目的，她们也会贿赂官员，并与有力的政党或其他黑道头人打好关系。一个帮女性对抗家暴的黑道，听起来好像带着反差萌和浪漫感。但社会学者Poulami Roychowdhury透过她的研究告诉我们，在印度，像粉红帮这样的家暴中介并不少。很多时候，这些人并非出于性别平等或保护妇女的理念，而是因为帮助妇女对抗家暴，在这个贫穷依然肆虐的国度，是一个有利可图的产业。印度并没有一种工作真的叫家暴中介，这是她在2021年出版的新书《**无能之国**》（Capable Women, Incapable States）中观察到的一种隐形产业。《无能之国》出版之后，获得不少重要奖项的肯定，包含美国社会学会以及法律与社会学会的年度杰出书籍。

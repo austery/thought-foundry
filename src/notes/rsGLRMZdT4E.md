@@ -1,86 +1,86 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank
+- Norges Bank Investment Management
+- Bank of England
+- Network for Greening the Financial System
+- European Central Bank
+- Cicero
+- IPCC
+- World Weather Attribution
+- International Maritime Organization
+- Stanford University
+- Climate Impact Lab
+- White House
+- University of St. Gallen
+- Swiss Finance Institute
+- Finance Norway
+- Northwestern University
+- European Commission
+- European Parliament
+- IMF
+- Generation Investment Management
+- Nobel Committee
+- WTO
+- International Energy Agency
+- University of Texas
+- CDP
+- Columbia University
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Breaking the Tragedy of the Horizon: Climate Change and Financial Stability'
+- The Inconvenient Truth
+- The Master Builder
+people:
+- Ida Wolden Bache
+- Nikolai Tangen
+- Mark Carney
+- Christine Lagarde
+- Al Gore
+- Øystein Børmer
+- Karoline Flåm
+- Bjørn Samset
+- Solomon Hsiang
+- Amelia Garcia-Appendini
+- Diego Känzig
+- Bård Harstad
+- Hilde C. Bjørnland
+- Kristin Halvorsen
+- Tim Lenton
+- Laura Starks
+- Harrison Hong
+- Carina Smith
+- Jane Goodall
+- Henrik Ibsen
+products_models:
+- Paris Agreement
+- European Emissions Trading Scheme
+- Fit for 55
+- Nord Stream 2
+project:
+- investment-strategy
+- systems-thinking
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=rsGLRMZdT4E
 speaker: Norges Bank Investment Management
-tags:
-  - climate-risk
-  - energy-transition
-  - macroeconomic-impact
-  - sustainable-finance
-  - positive-tipping-points
-title: 挪威银行气候大会：气候变化的宏观经济与金融影响
-summary: 在2025年挪威银行气候大会上，来自气候科学、经济学和金融界的顶尖专家共同探讨了气候变化的深远影响。会议深入分析了气候风险如何转化为金融风险，讨论了极端天气事件对全球及挪威经济的具体冲击，并审视了能源转型中的政策挑战与投资机遇。与会者一致认为，尽管面临政治阻力和市场风险，但加速向可再生能源转型不仅是必要的，也蕴含着巨大的经济潜力，而这需要明确的政策信号、大规模投资以及创新的金融解决方案来共同推动。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - market-cycles
-people:
-  - Ida Wolden Bache
-  - Nikolai Tangen
-  - Mark Carney
-  - Christine Lagarde
-  - Al Gore
-  - Øystein Børmer
-  - Karoline Flåm
-  - Bjørn Samset
-  - Solomon Hsiang
-  - Amelia Garcia-Appendini
-  - Diego Känzig
-  - Bård Harstad
-  - Hilde C. Bjørnland
-  - Kristin Halvorsen
-  - Tim Lenton
-  - Laura Starks
-  - Harrison Hong
-  - Carina Smith
-  - Jane Goodall
-  - Henrik Ibsen
-companies_orgs:
-  - Norges Bank
-  - Norges Bank Investment Management
-  - Bank of England
-  - Network for Greening the Financial System
-  - European Central Bank
-  - Cicero
-  - IPCC
-  - World Weather Attribution
-  - International Maritime Organization
-  - Stanford University
-  - Climate Impact Lab
-  - White House
-  - University of St. Gallen
-  - Swiss Finance Institute
-  - Finance Norway
-  - Northwestern University
-  - European Commission
-  - European Parliament
-  - IMF
-  - Generation Investment Management
-  - Nobel Committee
-  - WTO
-  - International Energy Agency
-  - University of Texas
-  - CDP
-  - Columbia University
-products_models:
-  - Paris Agreement
-  - European Emissions Trading Scheme
-  - Fit for 55
-  - Nord Stream 2
-media_books:
-  - 'Breaking the Tragedy of the Horizon: Climate Change and Financial Stability'
-  - The Inconvenient Truth
-  - The Master Builder
 status: evergreen
+summary: 在2025年挪威银行气候大会上，来自气候科学、经济学和金融界的顶尖专家共同探讨了气候变化的深远影响。会议深入分析了气候风险如何转化为金融风险，讨论了极端天气事件对全球及挪威经济的具体冲击，并审视了能源转型中的政策挑战与投资机遇。与会者一致认为，尽管面临政治阻力和市场风险，但加速向可再生能源转型不仅是必要的，也蕴含着巨大的经济潜力，而这需要明确的政策信号、大规模投资以及创新的金融解决方案来共同推动。
+tags:
+- energy-transition
+- finance
+- financial
+- macroeconomic-impact
+- risk
+title: 挪威银行气候大会：气候变化的宏观经济与金融影响
 ---
+
 ### 开幕致辞：气候风险即是金融风险
 
 **Ida Wolden Bache：** 部长、各位贵宾、女士们、先生们，我非常荣幸能欢迎各位莅临2025年挪威银行气候大会，无论是在座的各位，还是在线上观看会议的朋友们。由于本次活动由挪威央行和挪威银行投资管理公司（NBIM）共同主办，我很高兴能与你，Nikolai，同台主持。

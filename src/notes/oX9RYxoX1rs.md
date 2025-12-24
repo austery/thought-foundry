@@ -1,56 +1,56 @@
 ---
-author: 硅谷101
+area: society-systems
+category: science
+companies_orgs:
+- AIMATX
+- Alphabet
+- Innovative Genomics Institute
+- Microsoft Research
+- Meta AI
+- MIT
+- Stanford University
+- FDA
+- 天桥脑科学研究院
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Omar Yaghi
+- David Baker
+- Jennifer Doudna
+- Christopher Bishop
+- Larry Zitnick
+- Heather Kulik
+- John Hennessy
+- Victoria Gray
+products_models:
+- ChatGPT
+- DALL·E
+- Rosetta
+- RF3
+- CRISPR-Cas9
+- MOF
+- COF
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=oX9RYxoX1rs
 speaker: 硅谷101
-tags:
-  - ai-driven-discovery
-  - materials-science
-  - protein-engineering
-  - gene-editing
-  - scientific-paradigm-shift
-title: AI驱动科学新范式：诺奖得主齐聚AIAS 2025峰会，揭示材料、基因与蛋白质设计前沿
-summary: 2025年AIAS峰会汇聚多位诺贝尔奖得主，共同探讨人工智能如何彻底改变科学研究。从Omar Yaghi利用AI加速材料研发，到David Baker通过深度学习设计全新蛋白质，再到Jennifer Doudna借助CRISPR技术为机器学习生成生物数据，这些前沿进展预示着AI正从分析工具转变为科学发现的主体，开启了科学研究的第五范式。然而，数据危机和硬件极限等挑战仍需科学界、工业界和资本界的协同合作来克服。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Omar Yaghi
-  - David Baker
-  - Jennifer Doudna
-  - Christopher Bishop
-  - Larry Zitnick
-  - Heather Kulik
-  - John Hennessy
-  - Victoria Gray
-companies_orgs:
-  - AIMATX
-  - Alphabet
-  - Innovative Genomics Institute
-  - Microsoft Research
-  - Meta AI
-  - MIT
-  - Stanford University
-  - FDA
-  - 天桥脑科学研究院
-products_models:
-  - ChatGPT
-  - DALL·E
-  - Rosetta
-  - RF3
-  - CRISPR-Cas9
-  - MOF
-  - COF
-media_books: []
 status: evergreen
+summary: 2025年AIAS峰会汇聚多位诺贝尔奖得主，共同探讨人工智能如何彻底改变科学研究。从Omar Yaghi利用AI加速材料研发，到David Baker通过深度学习设计全新蛋白质，再到Jennifer
+  Doudna借助CRISPR技术为机器学习生成生物数据，这些前沿进展预示着AI正从分析工具转变为科学发现的主体，开启了科学研究的第五范式。然而，数据危机和硬件极限等挑战仍需科学界、工业界和资本界的协同合作来克服。
+tags:
+- driven
+- engineering
+- health
+- materials-science
+- scientific
+title: AI驱动科学新范式：诺奖得主齐聚AIAS 2025峰会，揭示材料、基因与蛋白质设计前沿
 ---
+
 ### 引言：AIAS 2025峰会与科学新范式
 
 从沙漠空气中提取水、进行基因编辑，到像搭乐高一样设计蛋白质，以及价值10亿美元的新AI发现范式——这些看似不相关的词汇，实则代表着人工智能与科学结合最紧密的领域。而这些前沿进展，都集中出现在2025年10月底于旧金山举办的AIAS（天桥脑科学研究院AI驱动科学研讨会）峰会上。这场为期两天的盛会，汇聚了三位诺贝尔化学奖得主、一位图灵奖得主以及数十位各领域最权威的前沿专家，其含金量可见一斑。本期视频将带大家深入了解这些诺奖得主所传达出的前沿研究与资本布局信号。

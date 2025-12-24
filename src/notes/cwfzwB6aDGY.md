@@ -1,48 +1,45 @@
 ---
-author: Norges Bank Investment Management
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Norges Bank Investment Management
+- EQT
+- TCI
+- Bain Capital
+- Google
+- Aena
+- OVL
+- Heathrow Airport
+- G Aerospace
+- Safran
 date: '2025-07-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sir Chris Hohn
+- Christian Syninding
+- Nikolai
+- George Soros
+- Warren Buffett
+- John Maynard Keynes
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=cwfzwB6aDGY
 speaker: Norges Bank Investment Management
-tags:
-  - investment-strategy
-  - moats
-  - long-term-investing
-  - portfolio-concentration
-  - asset-backing
-title: 克里斯托弗·霍恩爵士的投资秘诀：寻找伟大公司、集中持股与长期主义
-summary: 霍恩爵士在一次投资会议上分享了他成功的投资策略，包括投资于拥有强大护城河的伟大公司、高度集中持股、坚持长期主义以及积极参与公司治理。他强调了理解竞争壁垒和避免易受颠覆的行业的重要性，并以基础设施和航空航天业为例，阐述了其投资理念，同时引用了乔治·索罗斯、沃伦·巴菲特和约翰·梅纳德·凯恩斯的智慧。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Sir Chris Hohn
-  - Christian Syninding
-  - Nikolai
-  - George Soros
-  - Warren Buffett
-  - John Maynard Keynes
-companies_orgs:
-  - Norges Bank Investment Management
-  - EQT
-  - TCI
-  - Bain Capital
-  - Google
-  - Aena
-  - OVL
-  - Heathrow Airport
-  - G Aerospace
-  - Safran
-products_models: []
-media_books: []
 status: evergreen
+summary: 霍恩爵士在一次投资会议上分享了他成功的投资策略，包括投资于拥有强大护城河的伟大公司、高度集中持股、坚持长期主义以及积极参与公司治理。他强调了理解竞争壁垒和避免易受颠覆的行业的重要性，并以基础设施和航空航天业为例，阐述了其投资理念，同时引用了乔治·索罗斯、沃伦·巴菲特和约翰·梅纳德·凯恩斯的智慧。
+tags:
+- asset
+- investment
+- long-term-investing
+title: 克里斯托弗·霍恩爵士的投资秘诀：寻找伟大公司、集中持股与长期主义
 ---
+
 ### 欢迎与介绍
 
 欢迎各位。

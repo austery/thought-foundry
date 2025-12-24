@@ -1,52 +1,54 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg Podcasts
+- Chester French
+- Doctor On Demand
+- Google
+- DeepMind
+- Coinbase
+- Pfizer
+- AstraZeneca
+- FDA
+- Federal Reserve
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+people:
+- D.A. Wallach
+- Tracy Alloway
+- Joe Weisenthal
+- Milton Friedman
+- Bernie Sanders
+- Demis Hassabis
+- Sam Altman
+products_models:
+- Gemini
+- AlphaFold
+project:
+- investment-strategy
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=wS3StLPw3SE
 speaker: Bloomberg Podcasts
-tags:
-  - biotech-vc
-  - drug-development
-  - healthcare-regulation
-  - ai-in-life-sciences
-  - us-vs-china-biotech
-title: D.A. Wallach 深度解析：生物技术风险投资的独特性与未来
-summary: 本期《Odd Lots》播客节目邀请到 D.A. Wallach，一位跨界音乐人、生物技术投资者，深入探讨了生物技术风险投资（Biotech VC）与传统科技投资的显著差异。Wallach 阐述了生物技术投资的独特性，包括其高风险、长周期、依赖科学突破的特点，以及如何管理低成功率的挑战。节目还讨论了 AI 在药物研发中的作用、中美生物技术产业的竞争与合作、监管环境的影响，以及从音乐人到投资人的跨界经历。他强调了科学严谨性和长期经验在生物技术投资中的重要性，并对 AI 音乐的未来发表了看法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-people:
-  - D.A. Wallach
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Milton Friedman
-  - Bernie Sanders
-  - Demis Hassabis
-  - Sam Altman
-companies_orgs:
-  - Bloomberg Podcasts
-  - Chester French
-  - Doctor On Demand
-  - Google
-  - DeepMind
-  - Coinbase
-  - Pfizer
-  - AstraZeneca
-  - FDA
-  - Federal Reserve
-products_models:
-  - Gemini
-  - AlphaFold
-media_books:
-  - Odd Lots
 status: evergreen
+summary: 本期《Odd Lots》播客节目邀请到 D.A. Wallach，一位跨界音乐人、生物技术投资者，深入探讨了生物技术风险投资（Biotech VC）与传统科技投资的显著差异。Wallach
+  阐述了生物技术投资的独特性，包括其高风险、长周期、依赖科学突破的特点，以及如何管理低成功率的挑战。节目还讨论了 AI 在药物研发中的作用、中美生物技术产业的竞争与合作、监管环境的影响，以及从音乐人到投资人的跨界经历。他强调了科学严谨性和长期经验在生物技术投资中的重要性，并对
+  AI 音乐的未来发表了看法。
+tags:
+- china
+- development
+- life
+- regulation
+- technology
+title: D.A. Wallach 深度解析：生物技术风险投资的独特性与未来
 ---
+
 ### D.A. Wallach 的跨界之旅：从音乐到生物技术投资
 
 主持人 Tracy Alloway 和 Joe Weisenthal 介绍了本期节目嘉宾 D.A. Wallach，他拥有一个非传统的职业生涯轨迹，从一名职业音乐人转型为风险投资家，尤其专注于生物技术领域。Wallach 分享了他如何从音乐领域“滑入”风险投资界，最初是通过投资 Spotify，并逐渐将兴趣和专业知识拓展到包括生物技术在内的多个行业。他将自己目前的工作比作“为科学家做唱片制作人”，并认为音乐与生物技术投资之间存在一个有趣的共同挑战：如何在商业化过程中平衡艺术与科学，或医学与资本主义。

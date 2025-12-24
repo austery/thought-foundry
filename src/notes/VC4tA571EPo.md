@@ -1,61 +1,60 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Bloomberg
+- Reuters
+- Wall Street Journal
+- The Economist
+- Deutsche Welle
+- FTX
+- CTi News
+- Australian Strategic Policy Institute
 date: '2025-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Volodymyr Zelenskyy
+- Vladimir Putin
+- Jeffrey Epstein
+- Steve Vitekov
+- Marco Rubio
+- Xi Jinping
+- Mohammed bin Salman
+- Dmitriev
+- General Kaelo Lo
+- Mark Fogel
+- Xu Mouren
+- Sunset Pirate
+- Clinton
+- Thomas Massie
+- Marjorie Taylor Greene
+- Tote Branch
+- Jiang Zemin
+- Hu Jintao
+- Wang Qing
+- xi-jinping
+products_models:
+- Bitcoin
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=VC4tA571EPo
 speaker: LT視界
-tags:
-  - cryptocurrency
-  - xi-jinping
-  - china-us-relations
-  - ukraine-war
-  - epstein
-title: 深度解析：習近平2025年評價兩極分化，川普策略成催化劑；中共收買網紅內幕；俄羅斯如何布局？
-summary: 本期節目深入剖析了多個國際熱點。首先，圍繞加密貨幣市場散戶的慘痛經歷，探討了市場泡沫與投資風險。隨後，聚焦烏克蘭戰爭的最新動態，包括美國提議的談判與普京的戰略意圖。接著，關注美國愛潑斯坦檔案的披露及其引發的爭議。華爾街日報揭露了俄羅斯如何通過精心策劃，扶持川普的特使維特科夫介入烏克蘭事務。此外，還曝光了中共透過中間人收買海外網紅批評台灣的錄音。最後，對比了《經濟學人》對習近平2025年表現的正面評價與德國之聲關於中國民眾大規模「走線」尋求庇護的報導，揭示了中國國內外形勢的複雜性與潛在挑戰。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Vladimir Putin
-  - Jeffrey Epstein
-  - Steve Vitekov
-  - Marco Rubio
-  - Xi Jinping
-  - Mohammed bin Salman
-  - Dmitriev
-  - General Kaelo Lo
-  - Mark Fogel
-  - Xu Mouren
-  - Sunset Pirate
-  - Clinton
-  - Thomas Massie
-  - Marjorie Taylor Greene
-  - Tote Branch
-  - Jiang Zemin
-  - Hu Jintao
-  - Wang Qing
-companies_orgs:
-  - Bloomberg
-  - Reuters
-  - Wall Street Journal
-  - The Economist
-  - Deutsche Welle
-  - FTX
-  - CTi News
-  - Australian Strategic Policy Institute
-products_models:
-  - Bitcoin
-media_books: []
 status: evergreen
+summary: 本期節目深入剖析了多個國際熱點。首先，圍繞加密貨幣市場散戶的慘痛經歷，探討了市場泡沫與投資風險。隨後，聚焦烏克蘭戰爭的最新動態，包括美國提議的談判與普京的戰略意圖。接著，關注美國愛潑斯坦檔案的披露及其引發的爭議。華爾街日報揭露了俄羅斯如何通過精心策劃，扶持川普的特使維特科夫介入烏克蘭事務。此外，還曝光了中共透過中間人收買海外網紅批評台灣的錄音。最後，對比了《經濟學人》對習近平2025年表現的正面評價與德國之聲關於中國民眾大規模「走線」尋求庇護的報導，揭示了中國國內外形勢的複雜性與潛在挑戰。
+tags:
+- china
+- epstein
+- investment
+- ukraine-war
+title: 深度解析：習近平2025年評價兩極分化，川普策略成催化劑；中共收買網紅內幕；俄羅斯如何布局？
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月20日。
 
 ### 财经头条：加密货币泡沫破裂

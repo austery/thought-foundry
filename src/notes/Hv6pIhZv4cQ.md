@@ -1,44 +1,44 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- CBP
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Last Economy
+people:
+- Joe Biden
+- Kamala Harris
+- Donald Trump
+- Greg Abbott
+- Natalie Kitroof
+- Chris Lavell
+- Bashar al-Assad
+products_models:
+- CBP1
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Hv6pIhZv4cQ
 speaker: New York Times Podcasts
-tags:
-  - immigration-policy-failure
-  - border-crisis
-  - political-miscalculation
-  - public-perception-shift
-  - executive-action-delay
-title: 拜登如何失去美国人对移民政策的信任
-summary: “本文深入分析拜登政府在移民问题上的系统性误判：从忽视警告、回避议题到政策滞后，最终导致边境危机失控，公众信任崩塌，并为特朗普的强硬移民政策铺平道路。”
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Joe Biden
-  - Kamala Harris
-  - Donald Trump
-  - Greg Abbott
-  - Natalie Kitroof
-  - Chris Lavell
-  - Bashar al-Assad
-companies_orgs:
-  - New York Times
-  - CBP
-products_models:
-  - CBP1
-media_books:
-  - The Last Economy
 status: evergreen
+summary: “本文深入分析拜登政府在移民问题上的系统性误判：从忽视警告、回避议题到政策滞后，最终导致边境危机失控，公众信任崩塌，并为特朗普的强硬移民政策铺平道路。”
+tags:
+- crisis
+- executive-action-delay
+- immigration-policy-failure
+- political
+- public
+title: 拜登如何失去美国人对移民政策的信任
 ---
+
 ### 拜登政府的移民政策为何彻底失败？
 
 在拜登总统任内，美国边境的移民人数飙升至历史峰值。这一危机不仅摧毁了民主党在关键选民中的支持率，更成为特朗普重返白宫的核心政治叙事。《纽约时报》的记者克里斯·拉维尔通过深入调查发现，这场失败并非偶然——而是由一系列被忽视的预警、政治误判和决策瘫痪共同导致的系统性溃败。

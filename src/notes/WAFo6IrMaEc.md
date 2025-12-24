@@ -1,58 +1,58 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- 雪球
+- Apple
+- 步步高集团
+- VIVO
+- OPPO
+- 网易
+- Kweichow Moutai
+- Amazon
+- GE
+- Nvidia
+- S&P 500
+- Tesla
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《聪明的投资人》
+people:
+- 段永平
+- 方三文
+- Warren Buffett
+- Ben Graham
+- Charlie Munger
+- 唐石峻
+products_models:
+- Apple TV
+- Apple Electric Car
+- AI语言模型
+- 53度飞天
+- Bitcoin
+- S&P 500 ETF
+- 现金流贴现
+project:
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=WAFo6IrMaEc
 speaker: Shijun Tang
-tags:
-  - investment-philosophy
-  - company-analysis
-  - opportunity-cost
-  - margin-of-safety
-  - not-to-do-list
-title: 从段永平雪球访谈看懂公司：投资理念与实践的深度解读
-summary: 本文深度解读了华人投资家段永平在雪球访谈中的核心投资理念，包括“买股票就是买公司”的精髓。文章详细阐述了理解公司的四大维度：能力圈、企业文化、商业模式和安全边际的重新定义。同时，探讨了“不做清单”的逆向思维以及对机会成本的独到见解，强调了满仓主义的实践，为普通投资者提供了实现投资自由与快乐的宝贵启发。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - 段永平
-  - 方三文
-  - Warren Buffett
-  - Ben Graham
-  - Charlie Munger
-  - 唐石峻
-companies_orgs:
-  - 雪球
-  - Apple
-  - 步步高集团
-  - VIVO
-  - OPPO
-  - 网易
-  - Kweichow Moutai
-  - Amazon
-  - GE
-  - Nvidia
-  - S&P 500
-  - Tesla
-products_models:
-  - Apple TV
-  - Apple Electric Car
-  - AI语言模型
-  - 53度飞天
-  - Bitcoin
-  - S&P 500 ETF
-  - 现金流贴现
-media_books:
-  - 《聪明的投资人》
 status: evergreen
+summary: 本文深度解读了华人投资家段永平在雪球访谈中的核心投资理念，包括“买股票就是买公司”的精髓。文章详细阐述了理解公司的四大维度：能力圈、企业文化、商业模式和安全边际的重新定义。同时，探讨了“不做清单”的逆向思维以及对机会成本的独到见解，强调了满仓主义的实践，为普通投资者提供了实现投资自由与快乐的宝贵启发。
+tags:
+- analysis
+- investment-philosophy
+- not-to-do-list
+- opportunity-cost
+- safety
+title: 从段永平雪球访谈看懂公司：投资理念与实践的深度解读
 ---
+
 ### 引言：段永平的投资智慧与个人启发
 
 段永平是目前投资体量最大的华人投资者，他的成功之路与众不同。功成名就的他偶尔也会接受媒体访谈，以启发像我们一样的普通投资人。最近，雪球的老总方三文成功邀请到段永平，进行了一场将近两个小时的播客（Podcast）形式的谈话。这段视频一经上线，我就反复听了好几遍，其中有很多值得普通投资人学习的要点。虽然大多数都是我的频道反复强调、几乎磨出茧的观点，但还是有几点给了我一些新的启发。

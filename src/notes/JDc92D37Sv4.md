@@ -1,39 +1,38 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Lévy-Bruhl
+- Wang Yangming
+- Pythagoras
+- Plato
+- Euclid
+- Hegel
+products_models: []
+project:
+- china-analysis
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=JDc92D37Sv4
 speaker: Anthony看世界
-tags:
-  - interpenetration-law
-  - chinese-rationality
-  - independent-agency
-  - collective-representation
-  - cultural-psychology
-title: 互渗律：中国式理性与独立人格的心理根源
-summary: 本期视频深入探讨了为何个体主体性缺失会导致迷信与非理性，并剖析了一种“无我”的中国式理性，其核心是还原论与防御机制。文章引入法国人类学家列维-布留尔的“互渗律”概念，解释了主客观界限模糊的思维模式如何导致对外部世界的偏执与恐惧，阻碍独立理性发展。通过历史与心理学案例，揭示了这种前现代心智状态在现代社会中持续复制的深层原因，并为理解集体表象奠定基础。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - Lévy-Bruhl
-  - Wang Yangming
-  - Pythagoras
-  - Plato
-  - Euclid
-  - Hegel
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期视频深入探讨了为何个体主体性缺失会导致迷信与非理性，并剖析了一种“无我”的中国式理性，其核心是还原论与防御机制。文章引入法国人类学家列维-布留尔的“互渗律”概念，解释了主客观界限模糊的思维模式如何导致对外部世界的偏执与恐惧，阻碍独立理性发展。通过历史与心理学案例，揭示了这种前现代心智状态在现代社会中持续复制的深层原因，并为理解集体表象奠定基础。
+tags:
+- canada
+- chinese
+- cultural
+- history
+- law
+title: 互渗律：中国式理性与独立人格的心理根源
 ---
+
 ### 主体性缺失与非理性根源
 
 本期视频将继续探讨为何人的**主体性**（sense of agency: 人的自主意识和能动性）发展不足，因为这是陷入迷信与非理性的根本原因。在之前的视频中，我们讨论了一个现象：历史上和世界各地许多迷信与狂热，都离不开知识分子的参与和推动。时至今日，我们仍能观察到许多此类现象。许多受过高等教育、掌握复杂知识的专家学者，一旦离开专业领域，就会显得非常无助和盲从。他们会轻易被一些**宏大叙事**（grand narrative: 具有普遍性、权威性，并试图解释历史、社会或人类命运的宏伟故事或理论）所吞噬，甚至在自身专业领域内，他们也会放弃应有的判断。

@@ -1,65 +1,65 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: history
+companies_orgs:
+- University of Oklahoma
 date: '2025-04-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《罗马的命运》
+- 《地球上的瘟疫》
+- 《罗马晚期的奴隶制》
+- 《最后的动物》
+- 《反对谷物：深层历史、国家、无政府主义技术》
+- 《自然哲学的数学原理》
+- 《角斗士》
+people:
+- Kyle Harper
+- David Reich
+- Will Durant
+- Justinian
+- Edward Gibbon
+- Galen
+- Ptolemy
+- Pliny the Elder
+- Augustus
+- Francis Bacon
+- Isaac Newton
+- Denis Papin
+- Gottfried Wilhelm Leibniz
+- Nat Friedman
+- Euclid
+- Diophantus
+- Aristotle
+- Spartacus
+- Aldo Schiavone
+- Commodus
+- Samuel Pepys
+- James C. Scott
+- Alexandre Yersin
+- Edward Jenner
+- Louis Pasteur
+- Joseph Henrich
+- Julius Caesar
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=QFzgSmN8Ng8
 speaker: Dwarkesh Patel
-tags:
-  - roman-empire
-  - plague
-  - slavery
-  - climate-change
-  - human-evolution
-title: 罗马帝国为何衰落：瘟疫、奴隶制与冰河时代——凯尔·哈珀访谈
-summary: 本期访谈中，历史学家凯尔·哈珀深入探讨了罗马帝国的衰落，强调了气候变化和鼠疫等疾病在其中扮演的关键角色。他分析了罗马经济未能催生工业革命的原因，以及奴隶制在罗马社会中的普遍性。哈珀还将讨论范围扩展到人类历史，包括农业对健康和社会的影响，以及病原体的演化动态。此外，他还触及了合成生物学的未来前景，以及对物种去灭绝的伦理思考。
-insight: ''
-draft: true
-series: ''
-category: history
-area: society-thinking
-project: []
-people:
-  - Kyle Harper
-  - David Reich
-  - Will Durant
-  - Justinian
-  - Edward Gibbon
-  - Galen
-  - Ptolemy
-  - Pliny the Elder
-  - Augustus
-  - Francis Bacon
-  - Isaac Newton
-  - Denis Papin
-  - Gottfried Wilhelm Leibniz
-  - Nat Friedman
-  - Euclid
-  - Diophantus
-  - Aristotle
-  - Spartacus
-  - Aldo Schiavone
-  - Commodus
-  - Samuel Pepys
-  - James C. Scott
-  - Alexandre Yersin
-  - Edward Jenner
-  - Louis Pasteur
-  - Joseph Henrich
-  - Julius Caesar
-companies_orgs:
-  - University of Oklahoma
-products_models: []
-media_books:
-  - 《罗马的命运》
-  - 《地球上的瘟疫》
-  - 《罗马晚期的奴隶制》
-  - 《最后的动物》
-  - 《反对谷物：深层历史、国家、无政府主义技术》
-  - 《自然哲学的数学原理》
-  - 《角斗士》
 status: evergreen
+summary: 本期访谈中，历史学家凯尔·哈珀深入探讨了罗马帝国的衰落，强调了气候变化和鼠疫等疾病在其中扮演的关键角色。他分析了罗马经济未能催生工业革命的原因，以及奴隶制在罗马社会中的普遍性。哈珀还将讨论范围扩展到人类历史，包括农业对健康和社会的影响，以及病原体的演化动态。此外，他还触及了合成生物学的未来前景，以及对物种去灭绝的伦理思考。
+tags:
+- climate-change
+- history
+- human-evolution
+- plague
+- slavery
+title: 罗马帝国为何衰落：瘟疫、奴隶制与冰河时代——凯尔·哈珀访谈
 ---
+
 今天，我很荣幸能与**凯尔·哈珀**（Kyle Harper: 俄克拉荷马大学历史学教授，现为荣休教务长）交流。他是多部引人入胜的著作的作者，包括**《罗马的命运》**、**《地球上的瘟疫》**、**《罗马晚期的奴隶制》**，以及即将出版的**《最后的动物》**。我邀请他来的原因在于，很少有其他作者能像他一样，将生物学、经济学、历史和气候联系起来，解释人类历史上发生的一些重大事件。最近一次邀请他，是因为我采访了古DNA遗传学家**戴维·赖希**（David Reich: 专注于古代人类DNA研究的遗传学家），在讨论一些问题时，他反复强调疾病在人类历史中扮演的压倒性且令人惊讶的角色，这不仅体现在近代，也体现在他追溯数万年的研究中。
 
 赖希说：“你一定要请凯尔来。”我之后给他发邮件，问接下来应该采访谁，他再次强调：“你一定要请凯尔来。”在**《罗马的命运》**一书中，你展示了过去几千年来的人口变化图。我猜想图中的两次人口骤降都是由**鼠疫耶尔森菌**（Yersinia pestis: 引起鼠疫的细菌）引起的**鼠疫**（Plague: 由鼠疫耶尔森菌引起的高度传染性疾病）造成的，对吗？是的。这并非微不足道的小波动，而是除了人类人口超指数增长之外，过去一万年来，人类人口变化中压倒性的两大特征，都与这种细菌有关，对吗？是的。

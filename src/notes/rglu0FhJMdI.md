@@ -1,62 +1,63 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: finance
+companies_orgs:
+- 腾讯
+- 小米
+- Alibaba
+- 百度
+- 美联储
+- 甲骨文
+- OpenAI
+- SRP
+- 博通
+- Costco
+- 沃尔玛
+- Google
+- 迪士尼
+- ACM Research
+- 拼多多
+- 京东
+- 美团
+- 中国汽车工业协会
+- 欧盟
+- 台积电
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 路透社
+- 第一财经
+people:
+- Xi Jinping
+- Donald Trump
+- Michael Barry
+products_models:
+- ChatGPT 5.2
+- Gemini
+- Sora
+- Gemini Deep Research
+project:
+- china-analysis
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=rglu0FhJMdI
 speaker: 小翠時政財經
-tags:
-  - rmb-exchange-rate
-  - ai-market-sentiment
-  - china-japan-relations
-  - consumer-behavior
-  - long-term-investing
-title: 人民币汇率为何强势？反日大礼包、AI财报季与市场新动向
-summary: 本期节目深入剖析了2025年人民币汇率走强的宏观调控逻辑，并关注了中日关系新动向对邮轮业的影响。同时，详细解读了AI财报季的市场反应，包括博通、甲骨文的财报分析，以及Costco财报所反映的消费趋势变化。此外，还探讨了OpenAI发布ChatGPT 5.2、与迪士尼的战略合作，以及英特尔、拼多多等公司的最新动态，并强调了长线投资的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - investment-strategy
-people:
-  - 习近平
-  - Donald Trump
-  - Michael Barry
-companies_orgs:
-  - 腾讯
-  - 小米
-  - 阿里巴巴
-  - 百度
-  - 美联储
-  - 甲骨文
-  - OpenAI
-  - SRP
-  - 博通
-  - Costco
-  - 沃尔玛
-  - 谷歌
-  - 迪士尼
-  - ACM Research
-  - 拼多多
-  - 京东
-  - 美团
-  - 中国汽车工业协会
-  - 欧盟
-  - 台积电
-products_models:
-  - ChatGPT 5.2
-  - Gemini
-  - Sora
-  - Gemini Deep Research
-media_books:
-  - 路透社
-  - 第一财经
 status: evergreen
+summary: 本期节目深入剖析了2025年人民币汇率走强的宏观调控逻辑，并关注了中日关系新动向对邮轮业的影响。同时，详细解读了AI财报季的市场反应，包括博通、甲骨文的财报分析，以及Costco财报所反映的消费趋势变化。此外，还探讨了OpenAI发布ChatGPT
+  5.2、与迪士尼的战略合作，以及英特尔、拼多多等公司的最新动态，并强调了长线投资的重要性。
+tags:
+- ai-market-sentiment
+- china-japan-relations
+- consumer-behavior
+- long-term-investing
+- rate
+title: 人民币汇率为何强势？反日大礼包、AI财报季与市场新动向
 ---
+
 ### A股市场动态
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月12日，双十二。

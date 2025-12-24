@@ -8,13 +8,11 @@ project:
 - us-analysis
 tags:
 - foreign-policy
-- trump-strategy
+- strategy
 - us-china-relations
 - us-economy
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-25
 author: Lei
 speaker: LT視界
@@ -26,6 +24,7 @@ series: null
 source: https://www.youtube.com/watch?v=9thFLZi-8yg
 status: evergreen
 ---
+
 ### 美国宏观经济数据强劲，降息预期减弱
 
 今天早上，美国官方发布了三组超出预期的宏观经济数据，表现非常强劲。

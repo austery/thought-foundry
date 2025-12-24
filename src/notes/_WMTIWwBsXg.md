@@ -1,44 +1,44 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-08-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《道德经》
+people:
+- 泰勒斯
+- 毕达哥拉斯
+- 德谟克里特
+- 柏拉图
+- 亚里士多德
+- 尼采
+- 康德
+- 爱因斯坦
+- 牛顿
+- 伽利略
+products_models:
+- 《看透世界：100个哲学大概念开悟人生》
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=_WMTIWwBsXg
 speaker: 大问题Dialectic
-tags:
-  - western-learning
-  - metaphysics
-  - philosophical-foundations
-  - scientific-principles
-  - theological-frameworks
-title: 西学基因：形而上学的兴与废
-summary: 本期节目深入探讨了西方学问（哲学、自然科学、神学）的底层基因——形而上学。文章阐释了形而上学如何通过区分现象与本质，追求永恒不变的底层真实来解释世界。从古希腊泰勒斯到现代物理学的大一统理论，形而上学贯穿了西方思想史，并经历了从“上帝之死”到“理性之死”的兴衰循环，揭示了人类寻求确定本质的深层本能。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - 泰勒斯
-  - 毕达哥拉斯
-  - 德谟克里特
-  - 柏拉图
-  - 亚里士多德
-  - 尼采
-  - 康德
-  - 爱因斯坦
-  - 牛顿
-  - 伽利略
-companies_orgs: []
-products_models:
-  - 《看透世界：100个哲学大概念开悟人生》
-media_books:
-  - 《道德经》
 status: evergreen
+summary: 本期节目深入探讨了西方学问（哲学、自然科学、神学）的底层基因——形而上学。文章阐释了形而上学如何通过区分现象与本质，追求永恒不变的底层真实来解释世界。从古希腊泰勒斯到现代物理学的大一统理论，形而上学贯穿了西方思想史，并经历了从“上帝之死”到“理性之死”的兴衰循环，揭示了人类寻求确定本质的深层本能。
+tags:
+- code
+- learning
+- metaphysic
+- philosophy
+- scientific
+title: 西学基因：形而上学的兴与废
 ---
+
 ### 西方学问的底层基因：形而上学
 
 本期节目将用一句话概括所有**西学**（西方学问: 指哲学、自然科学和神学等西方知识传统）的底层基因，让你在学习科学、哲学和神学时有一个底层认知。要探讨的大问题是：什么是西学？典型的西学有三大学问传统：第一是哲学，第二是自然科学，第三是神学。现在有一个流行的说法，称“科学的尽头是哲学”以及“哲学的尽头是神学”。当然，谁是谁的尽头不好说。在上一讲《为什么要学哲学》中，我们提到哲学是众多学科的母体，因为它是一个动词，所以具有了生育性，生育出了其他学科。但无论谁生育了谁，谁是谁的尽头，西方的这三大学问传统——哲学、科学和神学，其实都是一体的，它们有共同的基因。

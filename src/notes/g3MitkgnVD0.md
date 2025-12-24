@@ -1,95 +1,94 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Robin Hood
+- Palantir
+- Google
+- Berkshire Hathaway
+- Nvidia
+- Meta
+- Amazon
+- SoFi
+- Oracle
+- Blue Owl Capital
+- JP Morgan
+- DA Davidson
+- BlackRock
+- KKR
+- Blackstone
+- Morgan Stanley
+- Bernstein
+- Goldman Sachs
+- Oppenheimer
+- CoreWeave
+- Applied Digital
+- ARM
+- Nebius
+- Microsoft
+- OpenAI
+- Navitas
+- McDonald's
+- Federal Reserve
+- Supreme Court
+- CNBC
+- The Wall Street Journal
+- Financial Times
+- Fox News
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Tom Lee
+- Larry Fink
+- Donald Trump
+- Michael Burry
+- Stephanie Gild
+- Christopher Waller
+- Jay Powell
+- Dan Ives
+- Gene Munster
+- Jensen Huang
+- Jeff Bezos
+- Elon Musk
+- Michael Saylor
+- Peter Navarro
+- Reed Hoffman
+- Larry Summers
+- Bill Clinton
+- Jeffrey Epstein
+products_models:
+- Ethereum
+- Bitcoin
+- S&P 500
+- NASDAQ
+- Robinhood Gold Card
+- Blackwell
+- Hopper
+- Reuben
+- Neoverse
+- NVLink
+- Project Prometheus
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=g3MitkgnVD0
 speaker: Amit Kukreja
-tags:
-  - market-volatility
-  - private-credit-risk
-  - ai-capex-cycle
-  - federal-reserve-policy
-  - crypto-market
-title: 加密货币崩盘，市场再现恐慌：私营信贷会是下一个雷区吗？
-summary: 市场再度迎来“丑陋的一天”，以太坊领跌加密货币市场，价格跌破3000美元大关，引发广泛抛售。尽管AI投资的长期叙事依然强劲，但科技巨头通过债务融资进行资本支出的行为引发了市场对“AI泡沫”的担忧。更深层次的恐惧源于对私营信贷市场和劳动力市场前景的忧虑，有分析师甚至将其与2006年的次贷危机相提并论。此外，特朗普提出的“关税红利”刺激计划和美联储的降息不确定性，共同加剧了市场的动荡与不安。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Tom Lee
-  - Larry Fink
-  - Donald Trump
-  - Michael Burry
-  - Stephanie Gild
-  - Christopher Waller
-  - Jay Powell
-  - Dan Ives
-  - Gene Munster
-  - Jensen Huang
-  - Jeff Bezos
-  - Elon Musk
-  - Michael Saylor
-  - Peter Navarro
-  - Reed Hoffman
-  - Larry Summers
-  - Bill Clinton
-  - Jeffrey Epstein
-companies_orgs:
-  - Robin Hood
-  - Palantir
-  - Google
-  - Berkshire Hathaway
-  - Nvidia
-  - Meta
-  - Amazon
-  - SoFi
-  - Oracle
-  - Blue Owl Capital
-  - JP Morgan
-  - DA Davidson
-  - BlackRock
-  - KKR
-  - Blackstone
-  - Morgan Stanley
-  - Bernstein
-  - Goldman Sachs
-  - Oppenheimer
-  - CoreWeave
-  - Applied Digital
-  - ARM
-  - Nebius
-  - Microsoft
-  - OpenAI
-  - Navitas
-  - McDonald's
-  - Federal Reserve
-  - Supreme Court
-  - CNBC
-  - The Wall Street Journal
-  - Financial Times
-  - Fox News
-products_models:
-  - Ethereum
-  - Bitcoin
-  - S&P 500
-  - NASDAQ
-  - Robinhood Gold Card
-  - Blackwell
-  - Hopper
-  - Reuben
-  - Neoverse
-  - NVLink
-  - Project Prometheus
-media_books: []
 status: evergreen
+summary: 市场再度迎来“丑陋的一天”，以太坊领跌加密货币市场，价格跌破3000美元大关，引发广泛抛售。尽管AI投资的长期叙事依然强劲，但科技巨头通过债务融资进行资本支出的行为引发了市场对“AI泡沫”的担忧。更深层次的恐惧源于对私营信贷市场和劳动力市场前景的忧虑，有分析师甚至将其与2006年的次贷危机相提并论。此外，特朗普提出的“关税红利”刺激计划和美联储的降息不确定性，共同加剧了市场的动荡与不安。
+tags:
+- crypto-market
+- cycle
+- federal-reserve-policy
+- market-volatility
+- risk
+title: 加密货币崩盘，市场再现恐慌：私营信贷会是下一个雷区吗？
 ---
+
 ### 市场全线溃败：加密货币首当其冲
 
 好了，大家好。欢迎回到新一期的市场收盘节目。今天是11月17日，星期一，下午3点45分。今天又是一个糟糕的日子，似乎我每次开始这些节目时，都不得不说的第一个词就是“糟糕”。

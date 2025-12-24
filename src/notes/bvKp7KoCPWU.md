@@ -1,39 +1,39 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 立顿
 date: '2024-06-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 安然
+- 林奈
+- 罗伯特·福琼
+- 陈椽
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=bvKp7KoCPWU
 speaker: 一席YiXi
-tags:
-  - tea-processing
-  - terroir-impact
-  - cultural-perception
-  - traditional-knowledge
-  - beverage-standardization
-title: 一杯茶里的中国：从一棵树到六类茶的风味地图
-summary: 安然以‘1棵茶树、2个品种、6大茶类’为框架，揭示中国茶的科学本质与文化深度，破除‘高雅玄学’迷思，倡导以品种、风土、工艺为基准的理性饮茶方式。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 安然
-  - 林奈
-  - 罗伯特·福琼
-  - 陈椽
-companies_orgs:
-  - 立顿
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 安然以‘1棵茶树、2个品种、6大茶类’为框架，揭示中国茶的科学本质与文化深度，破除‘高雅玄学’迷思，倡导以品种、风土、工艺为基准的理性饮茶方式。
+tags:
+- cultural
+- impact
+- life
+- philosophy
+- technology
+title: 一杯茶里的中国：从一棵树到六类茶的风味地图
 ---
+
 ### 一棵茶树，万般风味
 
 大家好，我是安然。作为一名在茶行业深耕近十年的从业者，我常被问到：“做茶？是不是很高雅、很传统？”但现实是：太多人面对街边茶叶店，既怕被坑，又不知从何入手。这背后不是审美问题，而是认知断层。

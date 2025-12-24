@@ -1,39 +1,37 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- OPEC
 date: '2025-05-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- 高盛
+- 摩根大通
+- 德意志银行
+products_models:
+- 黄金ETF
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=GpRxcn6aUxU
 speaker: 海淀拙大叔
-tags:
-  - gold-valuation
-  - gold-oil-ratio
-  - kondratieff-cycle
-  - us-dollar-credit
-  - investment-strategy
-title: 黄金还会涨吗？基于金油比和康波周期的深度分析
-summary: 本文深入探讨黄金价格的未来走势，提出以**金油比**作为黄金估值的重要指标。通过回溯1970年以来的历史数据，分析金油比在经济周期（特别是康波周期）中的波动规律，揭示其与美元信用体系、实际利率及通胀的关系。文章预测黄金在当前康波萧条末期可能达到的高点，并与高盛、摩根大通等投行预测进行比较，强调长期投资分析应超越个人经验，结合大历史逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Donald Trump
-  - 高盛
-  - 摩根大通
-  - 德意志银行
-companies_orgs:
-  - OPEC
-products_models:
-  - 黄金ETF
-media_books: []
 status: evergreen
+summary: 本文深入探讨黄金价格的未来走势，提出以**金油比**作为黄金估值的重要指标。通过回溯1970年以来的历史数据，分析金油比在经济周期（特别是康波周期）中的波动规律，揭示其与美元信用体系、实际利率及通胀的关系。文章预测黄金在当前康波萧条末期可能达到的高点，并与高盛、摩根大通等投行预测进行比较，强调长期投资分析应超越个人经验，结合大历史逻辑。
+tags:
+- credit
+- cycle
+- environment
+- valuation
+title: 黄金还会涨吗？基于金油比和康波周期的深度分析
 ---
+
 ### 黄金未来走势：一种估值方法的探索
 
 今天是5月17号周六。本期内容源于一位朋友在评论区希望探讨黄金的趋势。我最近正好在研究黄金，因为在发生极端情况时，我希望能转向**黄金ETF**（Exchange Traded Fund: 追踪黄金价格的交易所交易基金）进行避险。在给出结论之前，我想先分享一下我的思考方法。

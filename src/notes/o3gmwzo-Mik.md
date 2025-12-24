@@ -1,36 +1,34 @@
 ---
-author: AI Engineer
+area: market-analysis
+category: business
+companies_orgs:
+- OpenCode
+- Apple
+- Meta
 date: '2025-11-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- ChatGPT
+project:
+- entrepreneurship
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=o3gmwzo-Mik
 speaker: AI Engineer
-tags:
-  - product-development
-  - marketing-strategy
-  - user-retention
-  - creativity
-  - frictionless-experience
-title: AI改变不了什么：产品成功的永恒法则
-summary: 围绕“AI改变不了什么”这一主题，OpenCode的Dax深入探讨了产品成功的三个关键要素：营销、Aha时刻和用户留存。他强调，尽管AI技术发展迅速，但它无法替代人类在创意、深度理解和解决复杂问题方面的核心作用。成功的营销需要引发共鸣的创意，Aha时刻需要无情地消除用户体验中的摩擦，而用户留存则依赖于构建可扩展的“原语”以满足高级用户需求。这些都是需要大量努力和创造力的领域，AI目前无法提供实质性帮助，产品成功的核心仍在于人类的智慧与实践。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - OpenCode
-  - Apple
-  - Facebook
-products_models:
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 围绕“AI改变不了什么”这一主题，OpenCode的Dax深入探讨了产品成功的三个关键要素：营销、Aha时刻和用户留存。他强调，尽管AI技术发展迅速，但它无法替代人类在创意、深度理解和解决复杂问题方面的核心作用。成功的营销需要引发共鸣的创意，Aha时刻需要无情地消除用户体验中的摩擦，而用户留存则依赖于构建可扩展的“原语”以满足高级用户需求。这些都是需要大量努力和创造力的领域，AI目前无法提供实质性帮助，产品成功的核心仍在于人类的智慧与实践。
+tags:
+- creativity
+- experience
+- geopolitical
+- product-development
+- strategy
+title: AI改变不了什么：产品成功的永恒法则
 ---
+
 ### 引言：AI时代不变的产品成功法则
 
 我被告知这次演讲的时长可以在5到55分钟之间，范围相当大，而且我可以随意发挥，跑题也没关系。所以我提前告知大家，并解释一下这次演讲的风格。我的名字是Dax，我正在做一个名为**OpenCode**（Open-source coding agent: 一个开源的编程代理工具）的项目。它是目前使用最广泛的编程代理工具之一，完全开源，并且支持任何模型。其他公司都喜欢说他们拥有最智能的编程代理工具，而我们则拥有最热门的。你可以去看看，它提供了出色的体验，拥有绝佳的**UX**（User Experience: 用户体验），完全可定制、个性化，是一个非常有趣的项目。

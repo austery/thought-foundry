@@ -1,57 +1,57 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Meta
+- Apple
+- Google
+- OpenAI
+- Microsoft Azure
+- Amazon
+- Bell Labs
+- Chan Zuckerberg Initiative
 date: '2024-04-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Zuckerberg
+- Ben Horowitz
+- Augustus
+- Picasso
+products_models:
+- Llama-3
+- Meta AI
+- Llama-2
+- ChatGPT
+- Reels
+- Facebook News Feed
+- Instagram Feed
+- Google+
+- Gemini
+- PyTorch
+- React
+- Open Compute Project
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=bc6uFV9CJGg
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - open-source-ai
-  - ai-infrastructure
-  - metaverse
-  - agi
-  - ai-safety
-title: Mark Zuckerberg 谈 Llama 3、百亿模型、奥古斯都与千兆瓦数据中心
-summary: Mark Zuckerberg 在播客中探讨了 Meta AI 的最新进展，包括 Llama 3 模型的发布及其在 Meta AI 助手中的应用。他分享了 Meta 在 AI 基础设施上的巨额投资，以及对未来 AI 发展、AGI 路径、开放源代码策略的看法。Zuckerberg 还讨论了 AI 带来的社会影响，包括潜在风险与缓解措施，并将其与互联网和计算的诞生相提并论，强调了 AI 作为基础性技术的变革潜力。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Mark Zuckerberg
-  - Dwarkesh Patel
-  - Ben Horowitz
-  - Augustus
-  - Picasso
-companies_orgs:
-  - Meta
-  - Apple
-  - Google
-  - OpenAI
-  - Microsoft Azure
-  - Amazon
-  - Bell Labs
-  - Chan Zuckerberg Initiative
-products_models:
-  - Llama-3
-  - Meta AI
-  - Llama-2
-  - ChatGPT
-  - Reels
-  - Facebook News Feed
-  - Instagram Feed
-  - Google+
-  - Gemini
-  - PyTorch
-  - React
-  - Open Compute Project
-media_books: []
 status: evergreen
+summary: Mark Zuckerberg 在播客中探讨了 Meta AI 的最新进展，包括 Llama 3 模型的发布及其在 Meta AI 助手中的应用。他分享了
+  Meta 在 AI 基础设施上的巨额投资，以及对未来 AI 发展、AGI 路径、开放源代码策略的看法。Zuckerberg 还讨论了 AI 带来的社会影响，包括潜在风险与缓解措施，并将其与互联网和计算的诞生相提并论，强调了
+  AI 作为基础性技术的变革潜力。
+tags:
+- agi
+- ai-infrastructure
+- ai-safety
+- open-source-ai
+title: Mark Zuckerberg 谈 Llama 3、百亿模型、奥古斯都与千兆瓦数据中心
+companies:
+- metaverse
 ---
+
 主持人 **Dwarkesh Patel**：**Mark**，欢迎来到播客。
 
 **Mark Zuckerberg**：谢谢邀请，我是你们播客的忠实听众。

@@ -1,62 +1,61 @@
 ---
-author: Veritasium
-date: '2025-07-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=KZeIEiBrT_w
-speaker: Veritasium
-tags:
-  - veritasium
-  - markov-chains
-  - probability-theory
-  - monte-carlo-method
-  - pagerank
-  - large-language-models
-title: 从沙皇时代的数学争论到谷歌与AI：马尔可夫链的非凡旅程
-summary: 本文深入探讨了马尔可夫链这一核心数学概念的起源、发展及其在现代世界的深远影响。从19世纪俄罗斯两位数学家关于“自由意志”的激烈争论，到二战期间核弹研发中的蒙特卡洛方法，再到谷歌PageRank算法的诞生，以及当前大型语言模型（LLMs）的工作原理，马尔可夫链以其独特的“无记忆性”特性，在看似复杂多变的系统中实现了简化和预测。文章揭示了这一数学工具如何从纯理论走向实际应用，并塑造了我们所知的数字世界。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Pavel Nekrasov
-  - Andrey Markov
-  - Jacob Bernoulli
-  - Alexander Pushkin
-  - J. Robert Oppenheimer
-  - John von Neumann
-  - Stanislaw Ulam
-  - Jerry Yang
-  - David Filo
-  - Masayoshi Son
-  - Sergey Brin
-  - Larry Page
-  - Claude Shannon
-  - Casper
+category: technology
 companies_orgs:
-  - Google
-  - Yahoo
-  - Excite
-  - Lycos
-  - Alphabet
-  - Argonne
-  - Stanford
-  - Los Alamos
-products_models:
-  - The Gadget
-  - PageRank
-  - BackRub
-  - ENIAC
-  - Gmail
+- Google
+- Yahoo
+- Excite
+- Lycos
+- Alphabet
+- Argonne
+- Stanford
+- Los Alamos
+date: '2025-07-25'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Eugene Onegin
+- Eugene Onegin
+people:
+- Pavel Nekrasov
+- Andrey Markov
+- Jacob Bernoulli
+- Alexander Pushkin
+- J. Robert Oppenheimer
+- John von Neumann
+- Stanislaw Ulam
+- Jerry Yang
+- David Filo
+- Masayoshi Son
+- Sergey Brin
+- Larry Page
+- Claude Shannon
+- Casper
+products_models:
+- The Gadget
+- PageRank
+- BackRub
+- ENIAC
+- Gmail
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=KZeIEiBrT_w
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了马尔可夫链这一核心数学概念的起源、发展及其在现代世界的深远影响。从19世纪俄罗斯两位数学家关于“自由意志”的激烈争论，到二战期间核弹研发中的蒙特卡洛方法，再到谷歌PageRank算法的诞生，以及当前大型语言模型（LLMs）的工作原理，马尔可夫链以其独特的“无记忆性”特性，在看似复杂多变的系统中实现了简化和预测。文章揭示了这一数学工具如何从纯理论走向实际应用，并塑造了我们所知的数字世界。
+tags:
+- history
+- large-language-model
+- llm
+- technology
+- theory
+title: 从沙皇时代的数学争论到谷歌与AI：马尔可夫链的非凡旅程
 ---
+
 ### 奇怪的数学如何预测万物
 
 你需要洗多少次牌才能让一副扑克牌真正随机？建造一枚核弹需要多少铀？你如何预测句子中的下一个词？谷歌又是如何知道你真正想搜索的页面？

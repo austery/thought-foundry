@@ -1,45 +1,44 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CBC
+- World Trade Organization
 date: '2025-02-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Justin Trudeau
+- François-Philippe Champagne
+- Chrystia Freeland
+- Pierre Poilievre
+- Jagmeet Singh
+- Doug Ford
+- Dominic LeBlanc
+- Elon Musk
+- J.D. Vance
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=elcAm6uOzpA
 speaker: 莊也雜談
-tags:
-  - steel-aluminum-tariffs
-  - canada-economy
-  - us-trade-policy
-  - trade-war-impact
-  - economic-vulnerability
-title: 特朗普钢铝关税重击加拿大：经济困境与应对策略分析
-summary: 本期节目深入分析了特朗普政府对加拿大征收钢铝关税的政策及其深远影响。节目详细回顾了关税出台过程、特朗普的决策动机，以及对美国和加拿大经济，特别是加拿大安大略省和魁北克省相关产业造成的毁灭性打击。同时，节目也探讨了加拿大政界和民众的反应，并提出了短期和长期的应对策略，包括谈判、利用国际制衡、调整国内经济以及可能的报复性关税措施，为加拿大人民提供应对之道。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Justin Trudeau
-  - François-Philippe Champagne
-  - Chrystia Freeland
-  - Pierre Poilievre
-  - Jagmeet Singh
-  - Doug Ford
-  - Dominic LeBlanc
-  - Elon Musk
-  - J.D. Vance
-companies_orgs:
-  - CBC
-  - World Trade Organization
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了特朗普政府对加拿大征收钢铝关税的政策及其深远影响。节目详细回顾了关税出台过程、特朗普的决策动机，以及对美国和加拿大经济，特别是加拿大安大略省和魁北克省相关产业造成的毁灭性打击。同时，节目也探讨了加拿大政界和民众的反应，并提出了短期和长期的应对策略，包括谈判、利用国际制衡、调整国内经济以及可能的报复性关税措施，为加拿大人民提供应对之道。
+tags:
+- economic
+- economy
+- steel-aluminum-tariff
+- trade-war-impact
+- us-trade-policy
+title: 特朗普钢铝关税重击加拿大：经济困境与应对策略分析
 ---
+
 ### 引言：特朗普关税重拳再袭加拿大
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天，咱们来聊聊特朗普刚刚制定的**钢铝关税**（Steel and Aluminum Tariffs: 指对进口钢铁和铝产品征收的税费，旨在保护国内相关产业）政策，以及它对加拿大的深远影响。本来上期节目已经详细讨论了关税问题，并以为美加关税暂停一个月能让加拿大人民喘口气，本周可以换个轻松话题。然而，特朗普总统的行事风格出人意料，还没等加拿大缓过劲来，就又一次挥出重拳，直接将加拿大打趴在地。这记重拳的级别堪比核弹，它瞄准的是加拿大的工业潜力。因此，尽管这周是加拿大的“家庭日”长周末，我也不能偷懒，不得不专门做一集节目来分析此事。

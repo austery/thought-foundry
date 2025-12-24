@@ -1,39 +1,38 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2024-09-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Warren Buffett
+- Saddam Hussein
+- Muammar Gaddafi
+- Ronald Reagan
+- Richard Nixon
+- Scipio Aemilianus Africanus
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=C3EuJxzik40
 speaker: 海淀拙大叔
-tags:
-  - debt-cycles
-  - us-hegemony
-  - economic-strategy
-  - geopolitical-conflict
-  - investment-insight
-title: 从百年债务周期视角看美国霸权的兴衰
-summary: 本文通过巴菲特的“浪费村与勤俭村”寓言，深入剖析美国作为全球霸权国家，在百年债务周期中面临的衰落困境。文章详细阐述了美国试图挽回衰落的三种策略，并结合历史案例，揭示了霸权国家债务周期的五个阶段，强调理解周期对投资决策的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Warren Buffett
-  - Saddam Hussein
-  - Muammar Gaddafi
-  - Ronald Reagan
-  - Richard Nixon
-  - Scipio Aemilianus Africanus
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文通过巴菲特的“浪费村与勤俭村”寓言，深入剖析美国作为全球霸权国家，在百年债务周期中面临的衰落困境。文章详细阐述了美国试图挽回衰落的三种策略，并结合历史案例，揭示了霸权国家债务周期的五个阶段，强调理解周期对投资决策的重要性。
+tags:
+- debt
+- geopolitical
+- geopolitical-conflict
+- investment
+- strategy
+title: 从百年债务周期视角看美国霸权的兴衰
 ---
+
 ### 引言：巴菲特的寓言与百年债务周期
 
 大家好，欢迎来到老周说。今天是《故事中的投资学》第三集，我们将从**百年债务周期**（Century-long Debt Cycle: 指一个国家或经济体从债务积累到危机爆发，再到重塑信誉或衰落的漫长过程）的视角，探讨美国的衰落。我们先从沃伦·巴菲特（Warren Buffett: 著名投资家、伯克希尔·哈撒韦公司董事长）在2003年写的一个小故事讲起。

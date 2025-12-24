@@ -1,40 +1,38 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: general
+companies_orgs:
+- 初日醫學
+- Cofit
+- 遠見眼科
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 宋晏仁
+- 張聰麒
+products_models:
+- iPad
+- 阿托品
+- LASIK
+- LBV
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=qWV3uYAi1tI
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - myopia-prevention
-  - laser-eye-surgery
-  - vision-health
-  - digital-eye-strain
-  - eye-care-technology
-title: 台湾近视率全球第一：深度解析成因、预防与最新治疗方案
-summary: 远见眼科张聪麒院长深入剖析台湾近视率高居世界第一的严峻现状，探讨其成因包括基因、科举制度及3C产品滥用。文章详细介绍了儿童近视的早期干预、眼球轴长监测的重要性，以及高浓度散瞳药水的替代方案。同时，张院长澄清了近视雷射手术的安全性与适用人群，并介绍了最新的景深延长（LBV）老花雷射技术，为不同年龄层的视力问题提供了全面的解决方案。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - 宋晏仁
-  - 張聰麒
-companies_orgs:
-  - 初日醫學
-  - Cofit
-  - 遠見眼科
-products_models:
-  - iPad
-  - 阿托品
-  - LASIK
-  - LBV
-media_books: []
 status: evergreen
+summary: 远见眼科张聪麒院长深入剖析台湾近视率高居世界第一的严峻现状，探讨其成因包括基因、科举制度及3C产品滥用。文章详细介绍了儿童近视的早期干预、眼球轴长监测的重要性，以及高浓度散瞳药水的替代方案。同时，张院长澄清了近视雷射手术的安全性与适用人群，并介绍了最新的景深延长（LBV）老花雷射技术，为不同年龄层的视力问题提供了全面的解决方案。
+tags:
+- digital
+- health
+- science
+- technology
+title: 台湾近视率全球第一：深度解析成因、预防与最新治疗方案
 ---
+
 ### 台湾近视问题的严峻现状
 
 大家好，我是宋晏仁医师，欢迎来到初日会客室。今天我们非常荣幸地邀请到被誉为“医师们的眼科医师”——鼎鼎大名的远见眼科张聪麒院长，来为大家解决视力方面的困扰。张院长你好。

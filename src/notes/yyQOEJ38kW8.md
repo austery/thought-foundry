@@ -1,85 +1,84 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- IMF
+- Bank of England
+- Office of Budget Responsibility
+- Congressional Budget Office
+- Conservative Party
+- Labour Party
+- World Bank
+- ECB
+- NHS
+- Reform Party
+- Judicial Appointments Commission
+- Ofcom
+- Republican Party
+- Democratic Party
+- EU
+- World Trade Organization
+- Palestine Action
+- ISIS
+- BBC
 date: '2025-08-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Liz Truss
+- Donald Trump
+- Lisa Cook
+- Gordon Brown
+- George Osborne
+- Rishi Sunak
+- Rachel Reeves
+- Nigel Farage
+- Tony Blair
+- David Cameron
+- Margaret Thatcher
+- Dick Cheney
+- Boris Johnson
+- Anthony Barber
+- Bob Lighheiser
+- Keir Starmer
+- Putin
+- Xi Jinping
+- Lucy Connley
+- Steven Myron
+- Carmen Rodriguez
+- Arman Dashiell-O'Bell Bennett
+- Caleb Brooks
+products_models:
+- OddLots podcast
+- mini budget
+- 10 Years to Save the West
+- triple lock pension
+- Human Rights Act
+- Constitutional Reform Act
+- Online Safety Act
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=yyQOEJ38kW8
 speaker: Bloomberg Podcasts
-tags:
-  - uk-economy
-  - institutional-reform
-  - central-bank-independence
-  - supply-side-economics
-  - fiscal-challenges
-title: 莉兹·特拉斯：英国经济的‘厄运循环’与央行独立性之辩
-summary: 英国前首相莉兹·特拉斯在播客中深入探讨了英国经济面临的“厄运循环”，即高税收、低增长和高债务。她批判了主流经济建制派（如英格兰银行和预算责任办公室）对政策的阻碍，并强调民选政治家应主导经济决策，而非不负责任的非民选机构。特拉斯还讨论了供应侧改革的必要性、削减开支的政治挑战、英国的言论自由问题以及保守党在执政期间未能有效改革官僚体系的深层原因。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Liz Truss
-  - Donald Trump
-  - Lisa Cook
-  - Gordon Brown
-  - George Osborne
-  - Rishi Sunak
-  - Rachel Reeves
-  - Nigel Farage
-  - Tony Blair
-  - David Cameron
-  - Margaret Thatcher
-  - Dick Cheney
-  - Boris Johnson
-  - Anthony Barber
-  - Bob Lighheiser
-  - Keir Starmer
-  - Putin
-  - Xi Jinping
-  - Lucy Connley
-  - Steven Myron
-  - Carmen Rodriguez
-  - Arman Dashiell-O'Bell Bennett
-  - Caleb Brooks
-companies_orgs:
-  - Bloomberg
-  - IMF
-  - Bank of England
-  - Office of Budget Responsibility
-  - Congressional Budget Office
-  - Conservative Party
-  - Labour Party
-  - World Bank
-  - ECB
-  - NHS
-  - Reform Party
-  - Judicial Appointments Commission
-  - Ofcom
-  - Republican Party
-  - Democratic Party
-  - EU
-  - World Trade Organization
-  - Palestine Action
-  - ISIS
-  - BBC
-products_models:
-  - OddLots podcast
-  - mini budget
-  - 10 Years to Save the West
-  - triple lock pension
-  - Human Rights Act
-  - Constitutional Reform Act
-  - Online Safety Act
-media_books: []
 status: evergreen
+summary: 英国前首相莉兹·特拉斯在播客中深入探讨了英国经济面临的“厄运循环”，即高税收、低增长和高债务。她批判了主流经济建制派（如英格兰银行和预算责任办公室）对政策的阻碍，并强调民选政治家应主导经济决策，而非不负责任的非民选机构。特拉斯还讨论了供应侧改革的必要性、削减开支的政治挑战、英国的言论自由问题以及保守党在执政期间未能有效改革官僚体系的深层原因。
+tags:
+- central-bank-independence
+- challenge
+- financial
+- reform
+- uk-economy
+title: 莉兹·特拉斯：英国经济的‘厄运循环’与央行独立性之辩
 ---
+
 ### 英国经济的“厄运循环”与全球压力
 
 Joe Weisenthal：大家好，欢迎收听新一期的**OddLots播客**（OddLots podcast: 彭博社出品的经济与金融播客）。我是Joe Weisenthal。

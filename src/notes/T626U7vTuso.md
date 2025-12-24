@@ -1,73 +1,73 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- ServiceNow
+- Salesforce
+- Snowflake
+- Nvidia
+- Datadog
+- Cloudflare
+- CrowdStrike
+- XAI
+- TWWG
+- Lumen
+- Boeing
+- NATO
+- Jefferies
+- Bank of America
+- Wedbush
+- US Army
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- The Washington Post
+- Fortune
+people:
+- Alex Karp
+- Matt Money
+- Araldo
+- Amir
+- Arie
+- Brent Thill
+- Michael Burry
+- Dan Ives
+- Sham Sankar
+- Dave Glazer
+- Ryan Taylor
+- Jim Cramer
+- Jensen Huang
+- Donald Trump
+products_models:
+- AIP
+- Foundry
+- Vantage
+- Maven
+- Golden Dome
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=T626U7vTuso
 speaker: Amit Kukreja
-tags:
-  - earnings-analysis
-  - enterprise-software
-  - stock-valuation
-  - growth-metrics
-  - ai-monetization
-title: Palantir 2025年Q3财报深度解析：增长惊人，Karp称其为“史上最佳”
-summary: 深度解析Palantir 2025年第三季度财报电话会议。本次财报远超预期，营收增长高达63%，美国商业业务增长121%，“40法则”得分达到惊人的114。本纪要涵盖了财报发布前的市场预期、关键指标的讨论、对“史上最佳”业绩的实时反应，以及对CEO Alex Karp充满激情的股东信和电话会议发言的全面分析，探讨了公司在高估值下的未来前景、技术护城河以及其独特的亲美地缘政治立场。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Alex Karp
-  - Amit Kukreja
-  - Matt Money
-  - Araldo
-  - Amir
-  - Arie
-  - Brent Thill
-  - Michael Burry
-  - Dan Ives
-  - Sham Sankar
-  - Dave Glazer
-  - Ryan Taylor
-  - Jim Cramer
-  - Jensen Huang
-  - Donald Trump
-companies_orgs:
-  - Palantir
-  - ServiceNow
-  - Salesforce
-  - Snowflake
-  - Nvidia
-  - Datadog
-  - Cloudflare
-  - CrowdStrike
-  - XAI
-  - TWWG
-  - Lumen
-  - Boeing
-  - NATO
-  - Jefferies
-  - Bank of America
-  - Wedbush
-  - US Army
-products_models:
-  - AIP
-  - Foundry
-  - Vantage
-  - Maven
-  - Golden Dome
-media_books:
-  - Financial Times
-  - The Washington Post
-  - Fortune
 status: evergreen
+summary: 深度解析Palantir 2025年第三季度财报电话会议。本次财报远超预期，营收增长高达63%，美国商业业务增长121%，“40法则”得分达到惊人的114。本纪要涵盖了财报发布前的市场预期、关键指标的讨论、对“史上最佳”业绩的实时反应，以及对CEO
+  Alex Karp充满激情的股东信和电话会议发言的全面分析，探讨了公司在高估值下的未来前景、技术护城河以及其独特的亲美地缘政治立场。
+tags:
+- earnings-analysis
+- enterprise-software
+- growth
+- llm
+- stock-valuation
+title: Palantir 2025年Q3财报深度解析：增长惊人，Karp称其为“史上最佳”
 ---
+
 ### 财报前瞻：社区的期待与祝福
 
 大家好，欢迎收看又一期的 Palantir 财报直播。今天是11月3日，星期一，我们将迎来 Palantir 2025年第三季度的财报。我非常激动能来到这里。我们团队——包括我自己、Matt、Amir、Arie、Suchin 以及这个社区的许多成员——已经关注这家公司四年了。所以我们又有机会再次为大家解读，能有这样的机会，我们深感荣幸，希望大家能喜欢我们的分析。

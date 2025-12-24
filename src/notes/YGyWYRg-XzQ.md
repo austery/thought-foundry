@@ -1,44 +1,43 @@
 ---
-author: Adam's Axiom
+area: market-analysis
+category: finance
+companies_orgs:
+- Jay Cooke & Company
+- OPEC
+- Lehman Brothers
+- Royal Bank of Scotland
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Andrew Jackson
+- Ulysses S. Grant
+- Franklin Roosevelt
+- Richard Nixon
+- Paul Volcker
+- Ronald Reagan
+- Ben Bernanke
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=YGyWYRg-XzQ
 speaker: Adam's Axiom
-tags:
-  - economic-recession
-  - financial-crisis
-  - boom-bust-cycle
-  - government-intervention
-  - unemployment
-title: 美国主要经济衰退解析：从1837年恐慌到2020年疫情冲击
-summary: 本文深入探讨了美国历史上几次主要的经济衰退，包括1837年恐慌、1873年恐慌、大萧条、1973年石油危机、1980年代初衰退、2007-2009年大衰退以及2020年疫情衰退。文章详细分析了每次衰退的触发因素、社会影响以及政府应对措施，揭示了资本主义经济周期中繁荣与萧条的循环模式，并强调了全球市场日益增长的相互关联性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - Andrew Jackson
-  - Ulysses S. Grant
-  - Franklin Roosevelt
-  - Richard Nixon
-  - Paul Volcker
-  - Ronald Reagan
-  - Ben Bernanke
-companies_orgs:
-  - Jay Cooke & Company
-  - OPEC
-  - Lehman Brothers
-  - Royal Bank of Scotland
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了美国历史上几次主要的经济衰退，包括1837年恐慌、1873年恐慌、大萧条、1973年石油危机、1980年代初衰退、2007-2009年大衰退以及2020年疫情衰退。文章详细分析了每次衰退的触发因素、社会影响以及政府应对措施，揭示了资本主义经济周期中繁荣与萧条的循环模式，并强调了全球市场日益增长的相互关联性。
+tags:
+- cycle
+- economic-recession
+- financial-crisis
+- government-intervention
+- society
+title: 美国主要经济衰退解析：从1837年恐慌到2020年疫情冲击
 ---
+
 ### 经济衰退的循环往复
 
 想象一下从零开始建设一个国家。

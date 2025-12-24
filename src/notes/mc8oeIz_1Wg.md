@@ -1,113 +1,114 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times
+- National Book Awards
+- Catholic Church
+- Red Cross
+- CVS
+- Harvard Law School
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times Book Review Podcast
+- The Loneliness of Sonia and Sunny
+- The Sisters
+- Angel Down
+- The Director
+- Stonyard Devotional
+- A Flame Learning from Silence
+- Pandora's Box
+- Whalefall
+- War and Peace
+- Audition
+- Mulholland Drive
+- Trip
+- The Tokyo Suite
+- 'A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck'
+- 'Mother Emanuel: Two Centuries of Race, Resistance, and Forgiveness, and One Charleston
+  Church'
+- 'There Is No Place for Us: Working and Homeless in America'
+- 'Wild Thing: A Life of Paul Gauguin'
+- Mother Mary Comes to Me
+- The Wide, Wide Sea
+- The Perfect Storm
+- Survival on the Savage Sea
+- Evicted
+- Invisible Child
+- The God of Small Things
+- I'm Glad My Mom Died
+- 'Baldwin: A Love Story'
+- Dark Renaissance
+- Tamburlaine
+- Doctor Faustus
+- 'Motherland: A Feminist History of Modern Russia from Revolution to Autocracy'
+- annual-book-list
+people:
+- Gilbert Cruz
+- Dave Kim
+- Juman Katib
+- Nema Jeromi
+- Greg Kohl's
+- Emily Aken
+- Kiran Desai
+- Jonas Hassen Khemiri
+- Daniel Kraus
+- Daniel Kehlmann
+- Charlotte Wood
+- Pico Iyer
+- Louise Brooks
+- Adolf Hitler
+- Joseph Goebbels
+- Ross Benjamin
+- Katie Kitamura
+- Amy Baradel
+- Alexander Jacobs
+- Sophie Elmhirst
+- Morris Bailey
+- Marilyn Bailey
+- Kevin Sack
+- Brian Goldstone
+- Sue Prideaux
+- Arundhati Roy
+- Hampton Sides
+- Nathaniel Philbrick
+- Dougal Robertson
+- Matthew Desmond
+- Andrea Elliot
+- Paul Gauguin
+- Émile Bernard
+- Vincent van Gogh
+- Jennette McCurdy
+- Narendra Modi
+- Clementa Pinckney
+- Randall Kennedy
+- Dylann Roof
+- Nicholas Boggs
+- James Baldwin
+- Stephen Greenblatt
+- Christopher Marlowe
+- Julia Ioffe
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=mc8oeIz_1Wg
 speaker: New York Times Podcasts
-tags:
-  - literary-criticism
-  - book-recommendations
-  - annual-book-list
-  - fiction-analysis
-  - non-fiction-trends
-title: 《纽约时报》书评编辑揭晓2025年度十大好书
-summary: 《纽约时报》书评的编辑们齐聚一堂，深入探讨并揭晓了他们精心评选的2025年度十大最佳图书榜单。该榜单平均分为五本虚构类和五本非虚构类作品，涵盖了从澳大利亚修道院的沉思小说到一战背景下的奇幻恐怖故事，再到对艺术家高更生平的重新审视以及对美国“在职无家可归者”现象的深刻剖析。这不仅是一份书单推荐，更是一次关于文学、社会与人性的年度思想碰撞。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Gilbert Cruz
-  - Dave Kim
-  - Juman Katib
-  - Nema Jeromi
-  - Greg Kohl's
-  - Emily Aken
-  - Kiran Desai
-  - Jonas Hassen Khemiri
-  - Daniel Kraus
-  - Daniel Kehlmann
-  - Charlotte Wood
-  - Pico Iyer
-  - Louise Brooks
-  - Adolf Hitler
-  - Joseph Goebbels
-  - Ross Benjamin
-  - Katie Kitamura
-  - Amy Baradel
-  - Alexander Jacobs
-  - Sophie Elmhirst
-  - Morris Bailey
-  - Marilyn Bailey
-  - Kevin Sack
-  - Brian Goldstone
-  - Sue Prideaux
-  - Arundhati Roy
-  - Hampton Sides
-  - Nathaniel Philbrick
-  - Dougal Robertson
-  - Matthew Desmond
-  - Andrea Elliot
-  - Paul Gauguin
-  - Émile Bernard
-  - Vincent van Gogh
-  - Jennette McCurdy
-  - Narendra Modi
-  - Clementa Pinckney
-  - Randall Kennedy
-  - Dylann Roof
-  - Nicholas Boggs
-  - James Baldwin
-  - Stephen Greenblatt
-  - Christopher Marlowe
-  - Julia Ioffe
-companies_orgs:
-  - New York Times
-  - National Book Awards
-  - Catholic Church
-  - Red Cross
-  - CVS
-  - Harvard Law School
-products_models: []
-media_books:
-  - The New York Times Book Review Podcast
-  - The Loneliness of Sonia and Sunny
-  - The Sisters
-  - Angel Down
-  - The Director
-  - Stonyard Devotional
-  - A Flame Learning from Silence
-  - Pandora's Box
-  - Whalefall
-  - War and Peace
-  - Audition
-  - Mulholland Drive
-  - Trip
-  - The Tokyo Suite
-  - 'A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck'
-  - 'Mother Emanuel: Two Centuries of Race, Resistance, and Forgiveness, and One Charleston Church'
-  - 'There Is No Place for Us: Working and Homeless in America'
-  - 'Wild Thing: A Life of Paul Gauguin'
-  - Mother Mary Comes to Me
-  - The Wide, Wide Sea
-  - The Perfect Storm
-  - Survival on the Savage Sea
-  - Evicted
-  - Invisible Child
-  - The God of Small Things
-  - I'm Glad My Mom Died
-  - 'Baldwin: A Love Story'
-  - Dark Renaissance
-  - Tamburlaine
-  - Doctor Faustus
-  - 'Motherland: A Feminist History of Modern Russia from Revolution to Autocracy'
 status: evergreen
+summary: 《纽约时报》书评的编辑们齐聚一堂，深入探讨并揭晓了他们精心评选的2025年度十大最佳图书榜单。该榜单平均分为五本虚构类和五本非虚构类作品，涵盖了从澳大利亚修道院的沉思小说到一战背景下的奇幻恐怖故事，再到对艺术家高更生平的重新审视以及对美国“在职无家可归者”现象的深刻剖析。这不仅是一份书单推荐，更是一次关于文学、社会与人性的年度思想碰撞。
+tags:
+- analysis
+- book-recommendation
+- history
+- trend
+title: 《纽约时报》书评编辑揭晓2025年度十大好书
 ---
+
 ### 《纽约时报》2025年度图书榜单出炉
 
 **Gilbert Cruz:** 大家好，我是《纽约时报书评》的编辑吉尔伯特·克鲁兹，欢迎收听本期书评播客。是时候了，又到了一年一度的年度最佳图书盘点时刻。

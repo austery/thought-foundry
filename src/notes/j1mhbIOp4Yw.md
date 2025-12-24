@@ -1,61 +1,61 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 中国社会科学文学研究所
 date: '2025-01-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《聊斋志异》
+- 《西游记》
+- 《水浒传》
+- 《白蛇传》
+- 《窦娥冤》
+people:
+- 施爱东
+- 金庸
+- 迪士尼
+- 孟姜女
+- 万喜良
+- 秦始皇
+- 梅兰芳
+- 陈承健
+- 孙悟空
+- 猪八戒
+- 李逵
+- 郭靖
+- 欧阳锋
+- 黄药师
+- 周伯通
+- 阿凡提
+- 梁山伯
+- 祝英台
+- 马文才
+- 蒲松龄
+- 李立丹
+- 古龙
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=j1mhbIOp4Yw
 speaker: 一席YiXi
-tags:
-  - narrative-structure
-  - folk-tale-patterns
-  - storytelling-rules
-  - narrative-economy
-  - cultural-repetition
-title: 故事的套路：从民间传说到现代短视频的叙事底层逻辑
-summary: 施爱东深入剖析了民间故事与现代叙事的共通结构，揭示‘难题型故事’作为人类集体心理原型的核心地位，并解析了出题者、助手、搅局者等角色模型，以及‘极化’‘就近原则’等叙事技巧如何塑造我们今天刷到的每一则爆款内容。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 施爱东
-  - 金庸
-  - 迪士尼
-  - 孟姜女
-  - 万喜良
-  - 秦始皇
-  - 梅兰芳
-  - 陈承健
-  - 孙悟空
-  - 猪八戒
-  - 李逵
-  - 郭靖
-  - 欧阳锋
-  - 黄药师
-  - 周伯通
-  - 阿凡提
-  - 梁山伯
-  - 祝英台
-  - 马文才
-  - 蒲松龄
-  - 李立丹
-  - 古龙
-companies_orgs:
-  - 中国社会科学文学研究所
-products_models: []
-media_books:
-  - 《聊斋志异》
-  - 《西游记》
-  - 《水浒传》
-  - 《白蛇传》
-  - 《窦娥冤》
 status: evergreen
+summary: 施爱东深入剖析了民间故事与现代叙事的共通结构，揭示‘难题型故事’作为人类集体心理原型的核心地位，并解析了出题者、助手、搅局者等角色模型，以及‘极化’‘就近原则’等叙事技巧如何塑造我们今天刷到的每一则爆款内容。
+tags:
+- cultural
+- economy
+- folk-tale-pattern
+- narrative
+- storytelling-rule
+title: 故事的套路：从民间传说到现代短视频的叙事底层逻辑
 ---
+
 ### 故事的本质：封闭时空中的语言游戏
 
 施爱东开篇即指出，所有故事本质上都是一种发生在**密闭时空**（closed temporal-spatial system）中的语言游戏。在这个系统里，所有行为都必须有因果，所有角色都有功能，一切细节都被精简到极致。正如金庸小说中的人物行走江湖几十年却从不考虑生计——他们不需要赚钱、没有行李箱，因为这些与“武侠”无关的细节会被系统性地剔除。民间故事尤其如此，它不关心“吃瓜群众”的命运，只聚焦于核心角色之间的互动。

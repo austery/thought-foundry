@@ -1,45 +1,43 @@
 ---
-author: Veritasium
-date: '2024-10-05'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=cUBz04LlLVk
-speaker: Veritasium
-tags:
-  - veritasium
-  - thermite-reaction
-  - chemical-welding
-  - data-destruction
-  - controlled-chemical-reaction
-  - material-science
-title: 铝热反应：百年化学奇迹的威力与掌控
-summary: 本文深入探讨了125多年前发现的铝热反应，一种能释放巨大热量的化学过程。从其在19世纪末由汉斯·戈德施密特（Hans Goldschmidt）为提纯金属而发明，到其在现代工业中的广泛应用，如远程焊接、结构拆除和信息销毁等。文章还揭示了铝热反应的独特之处：尽管威力巨大，但其反应过程可被精确控制，且具有极高的安全性，难以意外引燃。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Derek Muller
-  - Karl Goldschmidt
-  - Hans Goldschmidt
-  - Robert Bunsen
-  - Axel
-  - Christof
+category: technology
 companies_orgs:
-  - Electro-Thermit
-  - Incogni
+- Electro-Thermit
+- Incogni
+date: '2024-10-05'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Karl Goldschmidt
+- Hans Goldschmidt
+- Robert Bunsen
+- Axel
+- Christof
 products_models:
-  - GoPro
-  - Bunsen burner
-  - Scheele's green
-  - Cochineal
-media_books: []
+- GoPro
+- Bunsen burner
+- Scheele's green
+- Cochineal
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=cUBz04LlLVk
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了125多年前发现的铝热反应，一种能释放巨大热量的化学过程。从其在19世纪末由汉斯·戈德施密特（Hans Goldschmidt）为提纯金属而发明，到其在现代工业中的广泛应用，如远程焊接、结构拆除和信息销毁等。文章还揭示了铝热反应的独特之处：尽管威力巨大，但其反应过程可被精确控制，且具有极高的安全性，难以意外引燃。
+tags:
+- chemical-welding
+- controlled-chemical-reaction
+- data
+- material-science
+- thermite-reaction
+title: 铝热反应：百年化学奇迹的威力与掌控
 ---
+
 ### 铝热反应：百年化学奇迹的威力
 
 - [Derek] 这是关于一种125多年前发现的化学反应系列视频的第一集。它能释放出巨大的热量。天哪，我的GoPro。金属被液化了。它太热了。它不是炸药，但能引起爆炸。这太疯狂了！然而，反应物却如此惰性，它们可以无限期地承受喷灯的炙烤。你觉得这整个东西会炸到我脸上吗？事实上，当好莱坞导演想要制造看起来像核弹的效果时，他们选择的就是这种反应。但在其最常见的用途中，一个多世纪以来基本未变的应用，它帮助了全世界数十亿人出行。

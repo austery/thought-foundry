@@ -5,14 +5,12 @@ area: null
 category: null
 project: []
 tags:
-  - 基金经理
-  - 贝塔系数
+- investment
 people:
 - 美联储
 companies_orgs:
 - unh
 products_models: []
-media_books: []
 date: 2025-07-29
 author: Lei
 speaker: 投资TALK君
@@ -25,6 +23,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=ie6E_ItVlVY&t
 ---
+
 各位观众大家好，欢迎来到一个不单止聊新闻的专业日更美股频道，我是市场分析员小涛。今天这期内容包含三部分。
 
 第一部分，先和大家分享一个小故事。新观众可能不知道，每一个季度，我基本上因为工作的原因会和一些基金经理进行交流。上季度因为我工作非常的忙，所以没有时间和他们开会，也就没有时间来和大家分享这些小故事。这一季度稍微空闲了一点，今天刚刚开了一个会，会里面我觉得有一些比较有意思的点和故事，可以和大家分享。

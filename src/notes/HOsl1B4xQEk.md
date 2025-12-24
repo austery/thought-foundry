@@ -1,52 +1,52 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- 京东
+- 百度
+- Booking Holdings
+- Salesforce
+- Alibaba
+- 拼多多
+- 抖音
+- 腾讯
+- 360搜索
+- 华为
+- Microsoft
+- 亚马逊
+- 特斯拉
 date: '2024-10-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财经》
+- 《华尔街日报》
+people:
+- 唐石峻
+products_models:
+- 萝卜快跑
+- Dynamic 365
+- 爱因斯坦
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=HOsl1B4xQEk
 speaker: Shijun Tang
-tags:
-  - market-efficiency
-  - opportunity-cost
-  - fundamental-analysis
-  - cash-flow-valuation
-  - geopolitical-risk-adjustment
-title: 中国政府印钱引爆股市？投资者为何应聚焦公司而非宏观
-summary: 面对中国股市因政策印钱引发的暴涨，作者指出单纯关注宏观经济或政府行为无法带来长期财富积累；真正可持续的投资应聚焦于企业基本面、护城河与自由现金流，而非市场情绪。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - 京东
-  - 百度
-  - Booking Holdings
-  - Salesforce
-  - 阿里巴巴
-  - 拼多多
-  - 抖音
-  - 腾讯
-  - 360搜索
-  - 华为
-  - 微软
-  - 亚马逊
-  - 特斯拉
-products_models:
-  - 萝卜快跑
-  - Dynamic 365
-  - 爱因斯坦
-media_books:
-  - 《财经》
-  - 《华尔街日报》
 status: evergreen
+summary: 面对中国股市因政策印钱引发的暴涨，作者指出单纯关注宏观经济或政府行为无法带来长期财富积累；真正可持续的投资应聚焦于企业基本面、护城河与自由现金流，而非市场情绪。
+tags:
+- cash-flow-valuation
+- fundamental-analysis
+- geopolitical-risk-adjustment
+- market-efficiency
+- opportunity-cost
+title: 中国政府印钱引爆股市？投资者为何应聚焦公司而非宏观
 ---
+
 ### 政策印钱与股市暴涨：宏观叙事的陷阱
 
 最近，中国政府重启货币宽松政策的消息引发了全球投资者的高度关注。媒体迅速将此解读为“中国股市即将爆发”的信号，甚至出现“buy everything China”这样的狂热口号。这种情绪的蔓延并非偶然——当股市因政策刺激而快速上涨时，媒体天然会跟随价格波动放大叙事。然而，这种围绕“印钱”展开的宏观叙事，是否真的能指导普通投资者做出明智决策？

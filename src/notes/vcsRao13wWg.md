@@ -1,43 +1,40 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Rocket Lab
+- SpaceX
+- Amazon
+- Geost
+- Mynarics
+- 蓝色起源
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Electron
+- Neutron
+- Starlink
+- Amazon Leo
+- 新格伦号
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=vcsRao13wWg
 speaker: Money or Life 美股频道
-tags:
-  - stock-valuation
-  - growth-stocks
-  - space-economy
-  - rocket-technology
-  - investment-strategy
-title: Rocket Lab (RKLB) 股价深度分析：暴跌后的合理估值与未来展望
-summary: 本文深入分析了火箭实验室 (RKLB) 在近期股价暴跌40%后的估值情况。作者Ace分享了其对RKLB营收、毛利率、业务构成（Space Systems与火箭发射）的最新预测，并与SpaceX进行对比。文章探讨了在不同营收增速预期下RKLB的合理市销率，并提出了作者在当前市场波动中的加仓与减仓策略，以及未来值得关注的催化剂，为投资者提供了全面的视角。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people: []
-companies_orgs:
-  - Rocket Lab
-  - SpaceX
-  - Amazon
-  - Geost
-  - Mynarics
-  - 蓝色起源
-products_models:
-  - Electron
-  - Neutron
-  - Starlink
-  - Amazon Leo
-  - 新格伦号
-media_books: []
 status: evergreen
+summary: 本文深入分析了火箭实验室 (RKLB) 在近期股价暴跌40%后的估值情况。作者Ace分享了其对RKLB营收、毛利率、业务构成（Space Systems与火箭发射）的最新预测，并与SpaceX进行对比。文章探讨了在不同营收增速预期下RKLB的合理市销率，并提出了作者在当前市场波动中的加仓与减仓策略，以及未来值得关注的催化剂，为投资者提供了全面的视角。
+tags:
+- growth-stock
+- space-economy
+- stock-valuation
+- technology
+title: Rocket Lab (RKLB) 股价深度分析：暴跌后的合理估值与未来展望
 ---
+
 ### RKLB股价暴跌与估值重审
 
 火箭实验室 (Rocket Lab, **RKLB**: 火箭实验室的股票代码) 一直是备受关注的股票，也是许多投资者，包括本文作者的重仓股，目前甚至占据了高达43%的仓位。自频道成立以来，作者制作了不下十余期视频专门讲解这家公司。本期视频将为大家带来火箭实验室最新的估值数据，并分析其与之前是否有变化。目前，火箭实验室的股价已跌至40美元出头，相较于前一段时间最高点接近74美元，下跌了40%多。

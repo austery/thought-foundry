@@ -1,54 +1,54 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 自由党
+- 保守党
+- 魁人政团
+- NDP
+- 绿党
+- 众议院
+- 美国国务院
 date: '2025-05-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《环球邮报》
+people:
+- 马克·卡尼
+- 博励治
+- 唐纳德·特朗普
+- 布朗谢
+- 辛格
+- 福特省长
+- 布鲁斯·范乔伊
+- 约翰·麦克唐纳
+- 劳里埃
+- 威廉·莱昂·麦肯齐·金
+- 达米安·库雷克
+- 伊丽莎白·梅
+- 乔纳森·佩德诺
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=8PPktAakK_Q
 speaker: 莊也雜談
-tags:
-  - canadian-election-2025
-  - political-landscape
-  - two-party-system
-  - campaign-strategy
-  - us-influence
-title: 2025加拿大超级大选深度解析：卡尼逆袭组建少数政府，特朗普意外助攻，加拿大政治版图改写
-summary: 2025年加拿大联邦大选落下帷幕，马克·卡尼领导自由党在民调劣势下逆袭，组建少数政府。博励治率领的保守党意外失手，甚至党魁本人也丢掉选区。本次大选投票率创1993年以来新高，自由党普选票比例达40年来最高。分析指出，美国前总统特朗普的介入对选情产生关键影响，促使加拿大政治格局向两党制演变。文章详细解读各省选情、各党表现及未来加拿大政治走向，并探讨了博励治的政治困境与卡尼的执政挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 马克·卡尼
-  - 博励治
-  - 唐纳德·特朗普
-  - 布朗谢
-  - 辛格
-  - 福特省长
-  - 布鲁斯·范乔伊
-  - 约翰·麦克唐纳
-  - 劳里埃
-  - 威廉·莱昂·麦肯齐·金
-  - 达米安·库雷克
-  - 伊丽莎白·梅
-  - 乔纳森·佩德诺
-companies_orgs:
-  - 自由党
-  - 保守党
-  - 魁人政团
-  - NDP
-  - 绿党
-  - 众议院
-  - 美国国务院
-products_models: []
-media_books:
-  - 《环球邮报》
 status: evergreen
+summary: 2025年加拿大联邦大选落下帷幕，马克·卡尼领导自由党在民调劣势下逆袭，组建少数政府。博励治率领的保守党意外失手，甚至党魁本人也丢掉选区。本次大选投票率创1993年以来新高，自由党普选票比例达40年来最高。分析指出，美国前总统特朗普的介入对选情产生关键影响，促使加拿大政治格局向两党制演变。文章详细解读各省选情、各党表现及未来加拿大政治走向，并探讨了博励治的政治困境与卡尼的执政挑战。
+tags:
+- campaign-strategy
+- canadian-election-2025
+- influence
+- political
+- system
+title: 2025加拿大超级大选深度解析：卡尼逆袭组建少数政府，特朗普意外助攻，加拿大政治版图改写
 ---
+
 ### 引言：2025加拿大超级大选概览
 
 2025年4月28日，加拿大超级大选掀起惊涛骇浪，大选进入最后的投票环节。马克·卡尼带领自由党从1月份民调的绝对劣势中涅槃重生，绝地反击，最终赢得大选，组成**少数政府**（Minority Government: 指执政党在议会中所占席位未过半，需要其他党派支持才能通过法案的政府形式）。而博励治率领的保守党却意外失手，甚至连党魁博励治本人都丢掉了自己的选区。本期节目将深入探讨其中的精彩细节，以及南边的唐纳德·特朗普在这场加拿大超级大选中扮演的角色，大选之后特朗普又是如何表态的。我们还将分析为什么说这场大选改写了加拿大的政治版图，使得加拿大正式进入了两党时代。

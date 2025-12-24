@@ -1,42 +1,42 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-06-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《斐多篇》
+people:
+- 苏德超
+- 杨光先
+- 汤若望
+- 牛顿
+- 爱因斯坦
+- 袁岚峰
+- 鲁迅
+- 苏格拉底
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- pkm-research
+series: ''
 source: https://www.youtube.com/watch?v=Tom2YAAFSHs
 speaker: 一席YiXi
-tags:
-  - critical-thinking
-  - logical-fallacies
-  - belief-justification
-  - cognitive-biases
-  - public-reasoning
-title: 批判性思考入门：如何避免抬杠、吵架与认知陷阱
-summary: 苏德超通过食堂菜不好吃等生活案例，揭示批判性思考的本质不是抬杠或批评他人，而是为立场提供可靠支持。他剖析了五类常见思维错误，并强调：真正的思考追求的是正确，而非胜利。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - pkm-research
-people:
-  - 苏德超
-  - 杨光先
-  - 汤若望
-  - 牛顿
-  - 爱因斯坦
-  - 袁岚峰
-  - 鲁迅
-  - 苏格拉底
-companies_orgs: []
-products_models: []
-media_books:
-  - 《斐多篇》
 status: evergreen
+summary: 苏德超通过食堂菜不好吃等生活案例，揭示批判性思考的本质不是抬杠或批评他人，而是为立场提供可靠支持。他剖析了五类常见思维错误，并强调：真正的思考追求的是正确，而非胜利。
+tags:
+- cognitive-bias
+- critical-thinking
+- geopolitical
+- philosophy
+- public
+title: 批判性思考入门：如何避免抬杠、吵架与认知陷阱
 ---
+
 ### 批判性思考不是抬杠：从食堂菜不好吃说起
 
 大家好，我叫苏德超，来自武汉大学，是一位哲学老师。今天我想分享的话题是——咱们食堂的菜不好吃？开个玩笑，我真正想谈的是“极简批判性思考入门”。

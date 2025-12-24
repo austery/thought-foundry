@@ -1,42 +1,41 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: general
+companies_orgs:
+- Apple
+- Microsoft
+- Johnson & Johnson
+- Disney
+- Warner Bros.
+- 台湾人权协会
 date: '2021-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jonas Salk
+- Eric Lundgren
+- James Boyle
+- Richard Stallman
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=QeWakvBsgEE
 speaker: 超級歪 SuperY
-tags:
-  - intellectual-property-rights
-  - digital-human-rights
-  - capitalism-critique
-  - monopoly-power
-  - open-source-movement
-title: 数字时代的人权思辨：智慧财产权的挑战与反思
-summary: 本视频探讨了数字时代下智慧财产权（IP）对社会和创作者的影响。从IP的历史演变到其在资本主义社会中的垄断作用，通过疫苗专利和自由软件运动等案例，揭示了IP法律如何阻碍知识流通和创新。视频呼吁反思现有体制，探索在保障创作者报酬的同时，避免知识被私有企业独占的新模式，以应对当前世代的巨大挑战。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Jonas Salk
-  - Eric Lundgren
-  - James Boyle
-  - Richard Stallman
-companies_orgs:
-  - Apple
-  - Microsoft
-  - Johnson & Johnson
-  - Disney
-  - Warner Bros.
-  - 台湾人权协会
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频探讨了数字时代下智慧财产权（IP）对社会和创作者的影响。从IP的历史演变到其在资本主义社会中的垄断作用，通过疫苗专利和自由软件运动等案例，揭示了IP法律如何阻碍知识流通和创新。视频呼吁反思现有体制，探索在保障创作者报酬的同时，避免知识被私有企业独占的新模式，以应对当前世代的巨大挑战。
+tags:
+- capitalism-critique
+- human
+- movement
+- power
+- right
+title: 数字时代的人权思辨：智慧财产权的挑战与反思
 ---
+
 ### 数字时代的人权与智慧财产权
 
 今天与频道会员分享的内容是《书来面对》第26集“数字时代的人权思辨”。这支影片是由**台湾人权协会**找我合作的，他们希望在世界人权日发布这支影片，让大家开始关注所谓的**数字人权**（Digital Human Rights: 指公民在数字环境中应享有的基本权利和自由）概念。因此，这支影片主要焦点放在数字空间中哪些权利应该被重新争取回来。由于时间长度限制，我删除了一个非常重要的部分，而这部分也是当代资本主义社会最关键的争论议题，即所谓的**智慧财产权**（Intellectual Property Rights: 指对智力劳动成果依法享有的专有权利）。在影片中，我们只简短地谈到了软件的智慧财产权，而**专有软件**（Proprietary Software: 指受著作权保护，且其源代码不公开的软件）只是智慧财产权的其中一个例子。

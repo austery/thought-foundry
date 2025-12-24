@@ -1,41 +1,41 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 赆明会
+- 广东人民出版社
+- 万有引力
 date: '2025-04-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《与哀伤共处》
+- 《礼记·檀弓下》
+people:
+- 李昀鋆
+- 陈智豪
+- Sigmund Freud
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=SAEUffLvb3E
 speaker: 一席YiXi
-tags:
-  - hidden-grief
-  - bereavement-in-youth
-  - cultural-taboos-around-death
-  - grief-as-love
-  - meaning-making-after-loss
-title: 隐藏的哀伤：年轻子女如何在沉默中承受父母离世之痛
-summary: 本文基于对44位年轻丧亲者的深度访谈，揭示了青少年至成年初期经历父母离世者所承受的隐性哀伤。在缺乏死亡教育的社会中，他们被迫独自面对无解之痛，并因‘节哀顺变’的社交规范而压抑情感，最终通过认知重构学会与哀伤共处。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - 李昀鋆
-  - 陈智豪
-  - Sigmund Freud
-companies_orgs:
-  - 赆明会
-  - 广东人民出版社
-  - 万有引力
-products_models: []
-media_books:
-  - 《与哀伤共处》
-  - 《礼记·檀弓下》
 status: evergreen
+summary: 本文基于对44位年轻丧亲者的深度访谈，揭示了青少年至成年初期经历父母离世者所承受的隐性哀伤。在缺乏死亡教育的社会中，他们被迫独自面对无解之痛，并因‘节哀顺变’的社交规范而压抑情感，最终通过认知重构学会与哀伤共处。
+tags:
+- cultural
+- loss
+- love
+- psychology
+- society
+title: 隐藏的哀伤：年轻子女如何在沉默中承受父母离世之痛
 ---
+
 ### 一场被社会忽视的哀伤：年轻子女的无声痛苦
 
 大家好，我叫昀鋆，来自香港中文大学社会工作系。在正式开始之前，我想问大家几个问题——不用举手回答，你只要在心里想一想你的答案就好。

@@ -1,51 +1,51 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- TSMC
 date: '2023-02-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《女朋友·男朋友》
+- 《芯片战争》
+- 《赛德克·巴莱》
+- 《想象的共同体》
+people:
+- René Descartes
+- Karl Marx
+- Sigmund Freud
+- Aristotle
+- Bartolomé de las Casas
+- Juan Ginés de Sepúlveda
+- Philippe Descola
+- Lewis H. Morgan
+- Frantz Fanon
+- Homi K. Bhabha
+- Benedict Anderson
+- Henry George
+- 孙中山
+- 杨雅喆
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=dfn4ytbCcdE
 speaker: 超級歪 SuperY
-tags:
-  - critical-thinking
-  - postcolonial-theory
-  - systems-of-thought
-  - historical-analysis
-title: 超级歪讲座：哲学、历史与精神分析的四种思维工具
-summary: 讲者以其独特的英式教学风格，介绍了四种非常实用的思维模式：哲学思维、历史思维、人类学思维和精神分析思维。从笛卡尔的“我思故我在”出发，讲座层层深入，批判性地审视了西方理论体系中被遮蔽的声音，如女性哲学家和非西方文化。最终，这些宏大的理论被巧妙地与台湾本土的历史与社会现实相结合，为我们提供了一套审视自身处境的有力工具。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - systems-thinking
-people:
-  - René Descartes
-  - Karl Marx
-  - Sigmund Freud
-  - Aristotle
-  - Bartolomé de las Casas
-  - Juan Ginés de Sepúlveda
-  - Philippe Descola
-  - Lewis H. Morgan
-  - Frantz Fanon
-  - Homi K. Bhabha
-  - Benedict Anderson
-  - Henry George
-  - 孙中山
-  - 杨雅喆
-companies_orgs:
-  - TSMC
-products_models: []
-media_books:
-  - 《女朋友·男朋友》
-  - 《芯片战争》
-  - 《赛德克·巴莱》
-  - 《想象的共同体》
 status: evergreen
+summary: 讲者以其独特的英式教学风格，介绍了四种非常实用的思维模式：哲学思维、历史思维、人类学思维和精神分析思维。从笛卡尔的“我思故我在”出发，讲座层层深入，批判性地审视了西方理论体系中被遮蔽的声音，如女性哲学家和非西方文化。最终，这些宏大的理论被巧妙地与台湾本土的历史与社会现实相结合，为我们提供了一套审视自身处境的有力工具。
+tags:
+- critical-thinking
+- historical-analysis
+- technology
+- theory
+title: 超级歪讲座：哲学、历史与精神分析的四种思维工具
 ---
+
 ### 前言：一种务实的英式教学法
 
 我的分享方式，是我过去几年制作影片经验的总结。我将其归纳为几种我认为非常实用的思维模式介绍给大家。为什么采用这种方式呢？这其实是一种非常英式的教学方法。当我在英国读书时，英国的教授每堂课大约一小时，在最后约五到十分钟，他们会说：“现在有些东西你必须带走。” 就算你忘了整堂课前四十分钟的内容也无所谓，但我现在讲的东西，是你能够直接带回去的。

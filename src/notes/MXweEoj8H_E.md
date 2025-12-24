@@ -1,39 +1,39 @@
 ---
-author: 天下文化
+area: personal-systems
+category: psychology
+companies_orgs:
+- IBM
+- 天下文化
 date: '2025-09-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《与成功有约》
+people:
+- 梁晓华
+- 陈茂雄
+- Stephen Covey
+products_models:
+- 萨提尔模式
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=MXweEoj8H_E
 speaker: 天下文化
-tags:
-  - career-transition
-  - self-awareness
-  - life-purpose
-  - habit-formation
-  - personal-mission-statement
-title: 从IBM高管到萨提尔教练：陈茂雄的职涯转型与人生管理智慧
-summary: 资深企业教练陈茂雄老师分享他从IBM高管转变为萨提尔教练的职涯转型心路历程。他强调自我觉察在突破职涯瓶颈中的重要性，并深入探讨了史蒂芬·柯维《与成功有约》中的“以终为始”和“要事第一”两大习惯。陈老师分享了如何通过制定人生使命宣言、将大目标拆解为可行动的小目标，并以严格纪律执行“大石头”任务，从而实现身心安顿、拥有选择自由的丰盛人生。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 梁晓华
-  - 陈茂雄
-  - Stephen Covey
-companies_orgs:
-  - IBM
-  - 天下文化
-products_models:
-  - 萨提尔模式
-media_books:
-  - 《与成功有约》
 status: evergreen
+summary: 资深企业教练陈茂雄老师分享他从IBM高管转变为萨提尔教练的职涯转型心路历程。他强调自我觉察在突破职涯瓶颈中的重要性，并深入探讨了史蒂芬·柯维《与成功有约》中的“以终为始”和“要事第一”两大习惯。陈老师分享了如何通过制定人生使命宣言、将大目标拆解为可行动的小目标，并以严格纪律执行“大石头”任务，从而实现身心安顿、拥有选择自由的丰盛人生。
+tags:
+- career-transition
+- habit-formation
+- life
+- personal
+- self-awareness
+title: 从IBM高管到萨提尔教练：陈茂雄的职涯转型与人生管理智慧
 ---
+
 ### 开场与嘉宾介绍
 
 **梁晓华:** 欢迎收听《对话领导力》，我是主持人梁晓华。在每一次的节目当中，我们都会为大家邀请到业界领袖或专家，来跟大家分享他们的人生故事和管理心法。今天我们很开心邀请到业界非常知名的**萨提尔教练**（Satir Coach: 运用萨提尔模式协助个人成长的专业人士）陈茂雄老师。老师，我们先跟观众朋友打声招呼。

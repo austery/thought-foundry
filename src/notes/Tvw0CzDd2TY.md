@@ -1,41 +1,39 @@
 ---
-author: 海伦子Hellen
+area: society-systems
+category: geopolitics
+companies_orgs:
+- SpaceX
+- NASA
 date: '2025-05-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Elon Musk
+products_models:
+- Starship
+- Space Launch System
+- Boeing 747
+- Raptor engine
+- Saturn V
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Tvw0CzDd2TY
 speaker: 海伦子Hellen
-tags:
-  - starship-test-flight
-  - space-exploration
-  - reusable-rocket-technology
-  - nasa-moon-program
-  - propellant-leak
-title: SpaceX星舰第九次试飞回顾：进步与挑战并存
-summary: SpaceX星舰于北京时间5月28日进行了第九次试飞，此次飞行被视为至关重要，因为它直接关系到美国未来的登月计划和太空经济。此次试飞可谓“进了一步又退了一步”：星舰二级成功进入预定轨道，但随后因推进剂泄露而失控爆炸。助推器在返回着陆阶段也发生爆炸。文章详细回顾了此次试飞的全过程，分析了关键技术细节，并探讨了此次试飞对星舰项目及未来太空探索的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Elon Musk
-companies_orgs:
-  - SpaceX
-  - NASA
-products_models:
-  - Starship
-  - Space Launch System
-  - Boeing 747
-  - Raptor engine
-  - Saturn V
-media_books: []
 status: evergreen
+summary: SpaceX星舰于北京时间5月28日进行了第九次试飞，此次飞行被视为至关重要，因为它直接关系到美国未来的登月计划和太空经济。此次试飞可谓“进了一步又退了一步”：星舰二级成功进入预定轨道，但随后因推进剂泄露而失控爆炸。助推器在返回着陆阶段也发生爆炸。文章详细回顾了此次试飞的全过程，分析了关键技术细节，并探讨了此次试飞对星舰项目及未来太空探索的深远影响。
+tags:
+- canada
+- science
+- space-exploration
+- technology
+title: SpaceX星舰第九次试飞回顾：进步与挑战并存
 ---
+
 ### 星舰第九次试飞：关键里程碑与挑战
 
 SpaceX的**星舰**（Starship: 美国太空探索技术公司SpaceX正在开发的新一代重型运载火箭和宇宙飞船）于北京时间5月28日上午7点36分进行了第九次试飞。尽管这次试飞没有上演“筷子甲火箭”的壮观场面，但它绝对是最重要的一次。此前两次试飞中，星舰二级都在上升阶段爆炸，未能成功入轨，而且那两次使用的是备受瞩目的第二代星舰。因此，第九次试飞需要证明其设计方案依然可行，这直接关系到美国接下来的登月计划，乃至整个太空经济。

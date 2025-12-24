@@ -1,31 +1,31 @@
 ---
-title: 'AI 知识管理程序研讨会'
-summary: null
 area: null
-category: null
-project: []
-tags:
-  - prompt
-  - 学习方法
-  - 软件开发
-people:
-  - 独行
-  - Vincent
-  - Jay
-  - Thomas
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-06-07'
 author: Lei
-speaker: ''
+category: null
 channel: null
+companies_orgs: []
+date: '2025-06-07'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 独行
+- Vincent
+- Jay
+- Thomas
+products_models: []
+project: []
 series: null
 source: null
+speaker: ''
+summary: null
+tags:
+- learning
+- llm
+- software-development
+title: AI 知识管理程序研讨会
 ---
+
 ## 引言与常用AI工具分享
 
 **独行:**

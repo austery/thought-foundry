@@ -1,31 +1,28 @@
 ---
-title: 个人成功与安全边际：我的贫穷故事与人生抉择
-summary: 作者分享了自己从贫困中挣扎成长，以及对“安全边际”这一概念的深刻理解，强调其在个人人生轨迹和财富规划中的决定性作用。
 area: personal-growth
 category: psychology
-project:
-  - investment-strategy
-  - personal-growth-lab
-tags:
-  - financial-literacy
-  - life-philosophy
-  - personal-growth
-  - risk-management
-  - social-privilege
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-09-19'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=sTQQUKWb0G4
+speaker: 一口新飯
 status: evergreen
+summary: 作者分享了自己从贫困中挣扎成长，以及对“安全边际”这一概念的深刻理解，强调其在个人人生轨迹和财富规划中的决定性作用。
+tags:
+- financial-literacy
+- life-philosophy
+- personal-growth
+- risk-management
+- social
+title: 个人成功与安全边际：我的贫穷故事与人生抉择
 ---
 
 ### 绝望与自信：安全边际的引入

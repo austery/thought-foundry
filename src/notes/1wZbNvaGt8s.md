@@ -1,32 +1,30 @@
 ---
-title: 中韩黄海争端：深海养殖场、专属经济区划界与地缘战略博弈
-summary: 韩国抗议中国在黄海建深海养殖场，引发中韩在“暂定措施水域”的专属经济区划界争议。文章深入探讨中间线原则与大陆架原则的冲突，以及黄海对两国的重要战略意义，预判未来局势。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- cultural-critique
-tags:
-- aquaculture
-- china-south-korea-relations
-- eez-delimitation
-- maritime-strategy
-- yellow-sea-dispute
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-16'
-author: 郭里有范
-speaker: 郭里有范
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=1wZbNvaGt8s
+speaker: 郭里有范
 status: evergreen
+summary: 韩国抗议中国在黄海建深海养殖场，引发中韩在“暂定措施水域”的专属经济区划界争议。文章深入探讨中间线原则与大陆架原则的冲突，以及黄海对两国的重要战略意义，预判未来局势。
+tags:
+- china
+- eez-delimitation
+- society
+- strategy
+- yellow-sea-dispute
+title: 中韩黄海争端：深海养殖场、专属经济区划界与地缘战略博弈
 ---
+
 ### 黄海深海养殖场引发的韩方抗议
 
 前段时间，一群韩国退伍老兵聚集在首尔的中国大使馆门口，喊口号、举标语，抗议中国在黄海建设深海养殖场。三个月后，韩国国会以252票赞成、0票反对的结果，一致通过决议，谴责中国在黄海搭建钢结构建筑。这并非简单的外交抗议，中韩两国在黄海的冲突不仅限于海警船对峙，甚至还曾导致渔民和执法人员的死伤。那么，中国建设养殖场为何会招致韩国政府和民间的齐心反对？中韩在黄海的纠纷究竟有多严峻？今天，我们将深入探讨黄海这一剑拔弩张的区域。

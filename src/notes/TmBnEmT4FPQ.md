@@ -1,54 +1,54 @@
 ---
-author: 夸克说
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=TmBnEmT4FPQ'
-speaker: 夸克说
-tags:
-  - nobel-prize
-  - innovation-suppression
-  - wartime-thinking
-  - scientific-research
-  - china-development-model
-title: 中国诺贝尔奖困境：战时思维与创新抑制
-summary: 本文深入探讨了中国在诺贝尔奖方面与日本的显著差距，并分析了其背后的深层原因。文章驳斥了“诺奖滞后论”和“制度论”的表面解释，提出“战时思维”是中国社会从上到下推崇效率、忽视原创性基础研究的根本原因，这种思维模式扼杀了创新，导致中国难以在诺贝尔奖级别的科学突破上取得成就。文章还通过历史案例和数据对比，进一步论证了这一观点。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Tasuku Honjo
-  - Susumu Kitagawa
-  - Omar Yaghi
-  - 钱学森
-  - 邓稼先
-  - V.K. Wellington Koo
-  - 杨振宁
-  - 饶毅
-  - Otto Hahn
+category: geopolitics
 companies_orgs:
-  - Royal Swedish Academy of Sciences
-  - 中共
-  - 中国科学院
-  - 清华大学高等教育研究所
-  - Bell Labs
-products_models:
-  - V2 Rocket
-  - V1 Cruise Missile
+- Royal Swedish Academy of Sciences
+- 中共
+- 中国科学院
+- 清华大学高等教育研究所
+- Bell Labs
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《人民日报》
-  - 《中国国防报》
-  - 《解放军报》
-  - 中国军网
-  - 《超限战》
+- 《人民日报》
+- 《中国国防报》
+- 《解放军报》
+- 中国军网
+- 《超限战》
+people:
+- Tasuku Honjo
+- Susumu Kitagawa
+- Omar Yaghi
+- 钱学森
+- 邓稼先
+- V.K. Wellington Koo
+- 杨振宁
+- 饶毅
+- Otto Hahn
+products_models:
+- V2 Rocket
+- V1 Cruise Missile
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=TmBnEmT4FPQ
+speaker: 夸克说
 status: evergreen
+summary: 本文深入探讨了中国在诺贝尔奖方面与日本的显著差距，并分析了其背后的深层原因。文章驳斥了“诺奖滞后论”和“制度论”的表面解释，提出“战时思维”是中国社会从上到下推崇效率、忽视原创性基础研究的根本原因，这种思维模式扼杀了创新，导致中国难以在诺贝尔奖级别的科学突破上取得成就。文章还通过历史案例和数据对比，进一步论证了这一观点。
+tags:
+- china
+- innovation
+- nobel-prize
+- scientific
+- thinking
+title: 中国诺贝尔奖困境：战时思维与创新抑制
 ---
+
 ### 日本诺奖井喷与中国的反思
 
 大家好，欢迎收看夸克说，我是夸克。过去的一周，瑞典皇家科学院陆续公布了本年度的诺奖名单。

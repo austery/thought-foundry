@@ -1,51 +1,48 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- ASML
+- S&P 500
+- TSMC
+- Intel
+- Samsung
+- SK Hynix
+- Micron Technology
+- Nvidia
+- MasterCard
+- OpenAI
+- Nikon
+- Canon
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- DUV
+- EUV
+- CPU
+- GPU
+- DRAM
+- NAND
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=lZtw9BsaRlc
 speaker: Shijun Tang
-tags:
-  - asml-stock-analysis
-  - semiconductor-equipment
-  - euv-duv-monopoly
-  - financial-health
-  - investment-performance
-title: ASML投资复盘：深度解析其财报、业务与护城河
-summary: 本文深入复盘了作者持有ASML股票373天以来的投资表现，其年化回报率远超标普500大盘。文章详细分析了ASML的最新财报，揭示了DUV和EUV光刻机在营收中的占比、中国市场的重要性、逻辑芯片与存储芯片业务的构成，以及安装服务业务的高利润率。此外，文章还探讨了ASML在全球光刻机市场的垄断地位及其技术护城河，并对其财务健康状况和公司品质评分进行了评估，最终表达了作者对ASML未来持续看好的投资观点。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Shijun Tang
-companies_orgs:
-  - ASML
-  - S&P 500
-  - TSMC
-  - Intel
-  - Samsung
-  - SK Hynix
-  - Micron Technology
-  - Nvidia
-  - MasterCard
-  - OpenAI
-  - Nikon
-  - Canon
-products_models:
-  - DUV
-  - EUV
-  - CPU
-  - GPU
-  - DRAM
-  - NAND
-media_books: []
 status: evergreen
+summary: 本文深入复盘了作者持有ASML股票373天以来的投资表现，其年化回报率远超标普500大盘。文章详细分析了ASML的最新财报，揭示了DUV和EUV光刻机在营收中的占比、中国市场的重要性、逻辑芯片与存储芯片业务的构成，以及安装服务业务的高利润率。此外，文章还探讨了ASML在全球光刻机市场的垄断地位及其技术护城河，并对其财务健康状况和公司品质评分进行了评估，最终表达了作者对ASML未来持续看好的投资观点。
+tags:
+- asml-stock-analysis
+- financial-health
+- geopolitical
+- investment
+- semiconductor-equipment
+title: ASML投资复盘：深度解析其财报、业务与护城河
 ---
+
 ### ASML持仓复盘：超越大盘的投资表现
 
 今天，我们来深入探讨**ASML**（艾司摩尔/阿斯麦: 全球领先的半导体设备制造商）这只美股。时间飞逝，我持有ASML的股份已经达到了373天。在最新财报发布之后，ASML的表现究竟如何？它还能持续为我们创造收益吗？它是否仍是一台在未来能够持续带来复利增长的机器？

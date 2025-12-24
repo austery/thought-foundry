@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-07-30
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=E94LCqY1TBI'
-speaker: 徒步的騎手
-tags:
-  - parenting-philosophy
-  - generational-differences
-  - mental-health-crisis
-  - social-resilience
-  - tough-love
-title: 从“严厉的爱”到“作死试试”：美国育儿观念的回归与代际困境
-summary: 近年来，一种名为“作死试试”（FAFO）的育儿理念作为对“温和育儿”的反思而兴起。本文探讨了从“最伟大一代”的“严厉的爱”（Tough Love）到X世代父母对Z世代采用的“温和育儿”，再到如今的观念回归，这一完整的代际育儿轨迹。文章分析了过度保护如何导致Z世代面临精神健康危机、职场适应困难等问题，并结合《娇惯的美国心灵》等著作，论证了真正的爱需要为孩子设立界限，让他们学会为自己的行为承担后果，从而培养出适应现实世界的韧性。
-insight: ''
-draft: true
-series: ''
-category: culture
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Greg Lukianoff
-  - Jonathan Haidt
-  - Becky Kennedy
+category: culture
 companies_orgs:
-  - NPR
-  - CDC
-  - Gallup
-products_models: '[]'
+- NPR
+- CDC
+- Gallup
+date: 2025-07-30
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《娇惯的美国心灵》
-  - 《搏击俱乐部》
-  - 《Good Inside》
+- 《娇惯的美国心灵》
+- 《搏击俱乐部》
+- 《Good Inside》
+people:
+- Greg Lukianoff
+- Jonathan Haidt
+- Becky Kennedy
+products_models: '[]'
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=E94LCqY1TBI
+speaker: 徒步的騎手
 status: evergreen
+summary: 近年来，一种名为“作死试试”（FAFO）的育儿理念作为对“温和育儿”的反思而兴起。本文探讨了从“最伟大一代”的“严厉的爱”（Tough Love）到X世代父母对Z世代采用的“温和育儿”，再到如今的观念回归，这一完整的代际育儿轨迹。文章分析了过度保护如何导致Z世代面临精神健康危机、职场适应困难等问题，并结合《娇惯的美国心灵》等著作，论证了真正的爱需要为孩子设立界限，让他们学会为自己的行为承担后果，从而培养出适应现实世界的韧性。
+tags:
+- health
+- love
+- mental-health-crisis
+- parenting-philosophy
+- social-resilience
+title: 从“严厉的爱”到“作死试试”：美国育儿观念的回归与代际困境
 ---
 
 ### “作死试试”：一种育儿风潮的回归

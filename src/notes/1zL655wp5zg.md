@@ -1,43 +1,43 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-06-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《共产党宣言》
+- 《圣经》
+people:
+- 王俊
+- 康德
+- 黑格尔
+- 萨弗兰斯基
+- 哈特穆特·罗萨
+- 马克思
+- 赫拉利
+- 胡塞尔
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=1zL655wp5zg
 speaker: 一席YiXi
-tags:
-  - meaning-erosion
-  - technological-acceleration
-  - performance-ideology
-  - communication-alienation
-  - loss-of-community
-title: 数字时代的不幸生活：当科学意识形态掏空了意义
-summary: 王俊剖析数字时代下人类面临的深层困境：科学意识形态导致的意义抽空、时间加速、交流异化与共同体瓦解，揭示优绩主义与心灵退化的根源，并呼吁通过哲学反思重建多元价值的生活意义。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - cultural-critique
-people:
-  - 王俊
-  - 康德
-  - 黑格尔
-  - 萨弗兰斯基
-  - 哈特穆特·罗萨
-  - 马克思
-  - 赫拉利
-  - 胡塞尔
-companies_orgs: []
-products_models: []
-media_books:
-  - 《共产党宣言》
-  - 《圣经》
 status: evergreen
+summary: 王俊剖析数字时代下人类面临的深层困境：科学意识形态导致的意义抽空、时间加速、交流异化与共同体瓦解，揭示优绩主义与心灵退化的根源，并呼吁通过哲学反思重建多元价值的生活意义。
+tags:
+- communication
+- loss-of-community
+- performance
+- psychology
+- technological
+title: 数字时代的不幸生活：当科学意识形态掏空了意义
 ---
+
 ### 科学意识形态下的意义抽空
 
 大家好，我是王俊，我是一个以哲学为业的人。今天我要讲的是我们数字时代的一些不幸的生活经验。

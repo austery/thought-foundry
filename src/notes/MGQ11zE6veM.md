@@ -1,51 +1,51 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- General Electric
+- Intel
+- Boeing
+- Apple
+- Tesla
+- 比亚迪
+- ASML
+- 华为
+- 宁德时代
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Patrick McGee's book
+people:
+- Arthur Kroeber
+- Patrick McGee
+- Donald Trump
+- Joe Biden
+- Tim Cook
+products_models:
+- F-35
+- Model 3
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=MGQ11zE6veM
 speaker: 北美王路飞
-tags:
-  - us-china-competition
-  - manufacturing-strategy
-  - industrial-policy
-  - economic-efficiency
-  - technological-sovereignty
-  - supply-chain-resilience
-title: 中国制造的“饱和式投入”：效率陷阱与全球竞争新范式
-summary: 本文深入剖析了中美两国在工业发展道路上的截然不同策略。美国因过度追求“财务效率”而陷入制造业衰退，而中国则采取了“饱和式投入”战略，尽管初期存在大量浪费，却成功构建了全球规模最大、反应最快的制造业生态系统。文章探讨了中国如何通过“抄袭作为入场券”、激烈的“内卷”竞争以及出口导向政策，实现了从模仿到创新的飞跃，尤其在电动车领域，特斯拉的“鲶鱼效应”进一步激发了本土潜力。同时，文章也分析了中美贸易与科技博弈中的“恐怖平衡”以及中国“科技拜物教”所带来的“繁荣群岛”现象，并对未来混乱共存的局面提出了见解。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Arthur Kroeber
-  - Patrick McGee
-  - Donald Trump
-  - Joe Biden
-  - Tim Cook
-companies_orgs:
-  - General Electric
-  - Intel
-  - Boeing
-  - Apple
-  - Tesla
-  - 比亚迪
-  - ASML
-  - 华为
-  - 宁德时代
-products_models:
-  - F-35
-  - Model 3
-media_books:
-  - Patrick McGee's book
 status: evergreen
+summary: 本文深入剖析了中美两国在工业发展道路上的截然不同策略。美国因过度追求“财务效率”而陷入制造业衰退，而中国则采取了“饱和式投入”战略，尽管初期存在大量浪费，却成功构建了全球规模最大、反应最快的制造业生态系统。文章探讨了中国如何通过“抄袭作为入场券”、激烈的“内卷”竞争以及出口导向政策，实现了从模仿到创新的飞跃，尤其在电动车领域，特斯拉的“鲶鱼效应”进一步激发了本土潜力。同时，文章也分析了中美贸易与科技博弈中的“恐怖平衡”以及中国“科技拜物教”所带来的“繁荣群岛”现象，并对未来混乱共存的局面提出了见解。
+tags:
+- economic
+- industrial-policy
+- strategy
+- supply-chain-resilience
+- technological
+- us-china-relations
+title: 中国制造的“饱和式投入”：效率陷阱与全球竞争新范式
 ---
+
 ### 美国制造业的“财务效率陷阱”
 
 曾经，有一个国家的名字代表着工业制造的最高峰，直到15年前，它仍是世界上最大的制造业经济体。然而，如果我们今天审视那些曾代表其荣光的顶级公司，会发现通用电气（GE）这个昔日的工业帝国，如今只剩下辉煌的影子；定义了芯片行业的巨人英特尔，正在为生存而挣扎；而波音，曾是航空安全的代名词，现在却丑闻缠身，甚至出现舱门空中掉落的事故。这究竟是为什么？是美国人变笨了，还是工程师不行了？

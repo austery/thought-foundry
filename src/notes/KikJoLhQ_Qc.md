@@ -1,60 +1,59 @@
 ---
-author: 小翠時政財經
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Nvidia
+- AMD
+- Alibaba
+- ByteDance
+- Kuaishou
+- DJI
+- SpaceX
+- Oracle
+- Waymo
+- Tesla
+- China Aerospace Science and Technology Corporation
+- Blackstone
+- Bloomberg
+- Citigroup
+- Goldman Sachs
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reuters
+- Financial Times
+- Wall Street Journal
+- Bloomberg
+- Citigroup
+people:
+- Elon Musk
+- Trump
+- Su
+products_models:
+- H200
+- MI308
+- Starlink
+- FSD
+- Robotaxi
+project:
+- ai-impact-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=KikJoLhQ_Qc
 speaker: 小翠時政財經
-tags:
-  - llm
-  - space-technology
-  - stock-market
-  - china-economy
-  - ai-chips
-title: 每日要闻：中国商业航天与SpaceX差距，快手遭攻击，英伟达H200出货中国，AI芯片需求旺盛
-summary: 本期节目聚焦中国商业航天发展与美国SpaceX的巨大差距，分析了长征火箭回收失败的现状。探讨了快手直播平台遭遇黑客攻击的事件及其潜在监管影响。分析了英伟达、AMD等公司向中国出口AI芯片的机遇与挑战，以及甲骨文数据中心业务的增长前景。同时，对比了特斯拉与Waymo在自动驾驶技术及监管环境下的不同路径，并关注了黄金、白银、铜价上涨及DJI无人机被禁等宏观经济与科技动态。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-  - china-analysis
-people:
-  - Elon Musk
-  - Trump
-  - Su
-companies_orgs:
-  - Nvidia
-  - AMD
-  - Alibaba
-  - ByteDance
-  - Kuaishou
-  - DJI
-  - SpaceX
-  - Oracle
-  - Waymo
-  - Tesla
-  - China Aerospace Science and Technology Corporation
-  - Blackstone
-  - Bloomberg
-  - Citigroup
-  - Goldman Sachs
-products_models:
-  - H200
-  - MI308
-  - Starlink
-  - FSD
-  - Robotaxi
-media_books:
-  - Reuters
-  - Financial Times
-  - Wall Street Journal
-  - Bloomberg
-  - Citigroup
 status: evergreen
+summary: 本期节目聚焦中国商业航天发展与美国SpaceX的巨大差距，分析了长征火箭回收失败的现状。探讨了快手直播平台遭遇黑客攻击的事件及其潜在监管影响。分析了英伟达、AMD等公司向中国出口AI芯片的机遇与挑战，以及甲骨文数据中心业务的增长前景。同时，对比了特斯拉与Waymo在自动驾驶技术及监管环境下的不同路径，并关注了黄金、白银、铜价上涨及DJI无人机被禁等宏观经济与科技动态。
+tags:
+- ai-chip
+- china-economy
+- stock-market
+- technology
+title: 每日要闻：中国商业航天与SpaceX差距，快手遭攻击，英伟达H200出货中国，AI芯片需求旺盛
 ---
+
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月23日，欢迎收看今天的每日要闻节目。
 
 ### A股与港股新股

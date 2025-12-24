@@ -1,40 +1,39 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-10-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《自己的腳痛自己救》
+people:
+- 朱家宏
+- 宋晏仁
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=JJe3t3eaz64
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - foot-health
-  - shoe-impact
-  - foot-exercises
-  - plantar-fasciitis
-  - flat-feet
-  - bunions
-  - walking-posture
-  - weight-management
-  - honda-feet-injury
-title: 足踝專家朱家宏醫師：現代人腳痛，多是被鞋子與錯誤習慣所害！
-summary: 足踝外科醫師朱家宏在《初日會客室》中指出，現代人腳痛問題頻繁，主因是硬平地面與不當鞋款，導致腳部肌肉怠惰。他詳細解釋足底筋膜炎、扁平足、拇趾外翻等常見問題成因，並強調體重管理與正確步態的重要性。朱醫師分享多種足部訓練，如腳趾抓地、提腳跟及單腳站立，並分析不同鞋款的優缺點，呼籲民眾重視腳部健康，透過運動與正確選擇，有效預防及緩解腳痛。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 朱家宏
-  - 宋晏仁
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books:
-  - 《自己的腳痛自己救》
 status: evergreen
+summary: 足踝外科醫師朱家宏在《初日會客室》中指出，現代人腳痛問題頻繁，主因是硬平地面與不當鞋款，導致腳部肌肉怠惰。他詳細解釋足底筋膜炎、扁平足、拇趾外翻等常見問題成因，並強調體重管理與正確步態的重要性。朱醫師分享多種足部訓練，如腳趾抓地、提腳跟及單腳站立，並分析不同鞋款的優缺點，呼籲民眾重視腳部健康，透過運動與正確選擇，有效預防及緩解腳痛。
+tags:
+- bunion
+- flat-foot
+- health
+- honda-feet-injury
+- impact
+- technology
+- walking-posture
+- weight-management
+title: 足踝專家朱家宏醫師：現代人腳痛，多是被鞋子與錯誤習慣所害！
 ---
+
 ### 引言：足踝健康的重要性與現代挑戰
 
 宋晏仁宋醫師: 嗨，大家好，我是宋晏仁宋醫師，歡迎來到《初日會客室》。今天為您邀訪的是一個非常少見的專業，但是是大家常碰到的問題。這意思就是說，大家在常碰到的問題裡面，卻找不到真正的專業。所以我們今天為您介紹的是足踝外科的中部大山頭，朱家宏朱醫師。朱醫師你好。

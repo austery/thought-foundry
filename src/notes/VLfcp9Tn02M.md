@@ -1,47 +1,47 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- World Trade Organization
+- Bank of Japan
+- La Libertad Avanza
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《彭博社》
+- 《路透社》
+people:
+- Donald Trump
+- Xi Jinping
+- Sanae Takaichi
+- Janet Yellen
+- Shinzo Abe
+- Javier Milei
+- Vladimir Putin
+- Ngozi Okonjo-Iweala
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=VLfcp9Tn02M
 speaker: LT視界
-tags:
-  - us-china-relations
-  - global-market-reaction
-  - economic-reform
-  - trade-policy
-  - political-systems
-title: 中美框架协议提振全球市场，米莱胜选巩固改革，世贸组织肯定川普贸易政策
-summary: 本期节目深入分析了中美在马来西亚达成框架协议后全球市场的积极反应，以及日本新首相高市早苗经济政策获得美国支持的背景。同时，节目详细探讨了阿根廷总统米莱在中期选举中大获全胜，为自由市场改革赢得授权并获得美国200亿美元货币互换援助的重大意义，并讨论了川普对普京核导弹试射的回应。最后，节目还关注了美国国内医保政策的僵局，以及世界贸易组织总干事对美国贸易政策批评的合理性评价，探讨了川普主义对全球秩序的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Sanae Takaichi
-  - Janet Yellen
-  - Shinzo Abe
-  - Javier Milei
-  - Vladimir Putin
-  - Ngozi Okonjo-Iweala
-companies_orgs:
-  - World Trade Organization
-  - Bank of Japan
-  - La Libertad Avanza
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《路透社》
 status: evergreen
+summary: 本期节目深入分析了中美在马来西亚达成框架协议后全球市场的积极反应，以及日本新首相高市早苗经济政策获得美国支持的背景。同时，节目详细探讨了阿根廷总统米莱在中期选举中大获全胜，为自由市场改革赢得授权并获得美国200亿美元货币互换援助的重大意义，并讨论了川普对普京核导弹试射的回应。最后，节目还关注了美国国内医保政策的僵局，以及世界贸易组织总干事对美国贸易政策批评的合理性评价，探讨了川普主义对全球秩序的影响。
+tags:
+- economic-reform
+- global-market-reaction
+- political-system
+- trade-policy
+- us-china-relations
+title: 中美框架协议提振全球市场，米莱胜选巩固改革，世贸组织肯定川普贸易政策
 ---
+
 ### 中美框架协议提振全球市场
 
 全球市场在唐纳德·川普和习近平会谈前普遍上涨。正如多数网友预期的那样，周末中美两国在马来西亚达成了框架协议，这极大地鼓舞了全球资本市场。周一，全球市场的投资者用他们的交易行为对中美达成协议表达了热烈的祝贺，全球市场一片欢腾。这种市场感性反应，很难用立场、主义或道德来定义，它反映了市场投资者最直接的感受。

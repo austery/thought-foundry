@@ -1,75 +1,75 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- SFFA
+- Harvard University
+- MIT
+- DeepSeek
+- OpenAI
+- Meta
+- Instagram
+- Baidu
+- Google
+- Anthropic
+- TikTok
+- ByteDance
+- AIPAC
+- Studio Ghibli
+- BBC
+- 中宣部
+- 网信办
 date: '2025-11-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《自由的窄廊》
+people:
+- 王家卫
+- Jeffrey Epstein
+- Edward Snowden
+- 赵宇空
+- 麻生太郎
+- Warren Buffett
+- 老子
+- 乐乐法利
+- Mark Zuckerberg
+- Joe Biden
+- Donald Trump
+- Volodymyr Zelenskyy
+- 宫崎骏
+- Thomas Hobbes
+- Thomas Massie
+- Ted Cruz
+- 丁一
+- 文昭
+products_models:
+- iPhone
+- SAT
+- ChatGPT
+- 豆包
+- GLM
+- Kimi
+project:
+- us-analysis
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=-4p2-AmRUOc
 speaker: 北美王路飞
-tags:
-  - systemic-discrimination
-  - ai-ideology
-  - political-systems-comparison
-  - propaganda-and-media
-  - cult-of-personality
-title: 中美政治体制辨析：从华人歧视、AI意识形态到金钱政治
-summary: 一场多方辩论，深入探讨了多个尖锐议题。讨论从爱泼斯坦案引申出的权力滥用，延伸至华人在美国学术界面临的系统性歧视。核心交锋点在于对比中美两国的审查与宣传机制，特别是在AI大模型训练中的体现。辩论还涉及对宗教逻辑、职场文化差异的分析，并最终引向对美国民主制度的深刻反思，剖析了金钱政治（如AIPAC的影响）和“属人化”趋势对现代政治的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - systems-thinking
-people:
-  - 王家卫
-  - Jeffrey Epstein
-  - Edward Snowden
-  - 赵宇空
-  - 麻生太郎
-  - Warren Buffett
-  - 老子
-  - 乐乐法利
-  - Mark Zuckerberg
-  - Joe Biden
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - 宫崎骏
-  - Thomas Hobbes
-  - Thomas Massie
-  - Ted Cruz
-  - 丁一
-  - 文昭
-companies_orgs:
-  - SFFA
-  - Harvard University
-  - MIT
-  - DeepSeek
-  - OpenAI
-  - Facebook
-  - Instagram
-  - Baidu
-  - Google
-  - Anthropic
-  - TikTok
-  - ByteDance
-  - AIPAC
-  - Studio Ghibli
-  - BBC
-  - 中宣部
-  - 网信办
-products_models:
-  - iPhone
-  - SAT
-  - ChatGPT
-  - 豆包
-  - GLM
-  - Kimi
-media_books:
-  - 《自由的窄廊》
 status: evergreen
+summary: 一场多方辩论，深入探讨了多个尖锐议题。讨论从爱泼斯坦案引申出的权力滥用，延伸至华人在美国学术界面临的系统性歧视。核心交锋点在于对比中美两国的审查与宣传机制，特别是在AI大模型训练中的体现。辩论还涉及对宗教逻辑、职场文化差异的分析，并最终引向对美国民主制度的深刻反思，剖析了金钱政治（如AIPAC的影响）和“属人化”趋势对现代政治的挑战。
+tags:
+- llm
+- media
+- political
+- psychology
+- technology
+title: 中美政治体制辨析：从华人歧视、AI意识形态到金钱政治
 ---
+
 ### 权贵践踏与迟来的正义
 
 **iPhoneGW:** 大家好。我觉得今天聊的王家卫和爱泼斯坦这两个话题，有一个共同点，那就是上位者或者有钱有权的人对底层民众基本权利和生存空间的践踏。作为一个普通人，我还是很希望看到正义得到伸张。

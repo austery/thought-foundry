@@ -1,38 +1,37 @@
 ---
-author: Veritasium
-date: '2022-12-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=pir_muTzYM8
-speaker: Veritasium
-tags:
-  - veritasium
-  - wave-physics
-  - naval-engineering
-  - ship-design
-  - fluid-dynamics
-  - scale-modeling
-title: 美国海军室内海洋：波浪物理与舰船设计的创新测试
-summary: 本文深入探讨了美国海军位于卡德罗克（Carderock）的全球最大室内造浪池，该设施能够模拟各种海洋波浪条件，用于测试和优化舰船模型。文章详细介绍了波浪的生成、物理特性（如波长、频率、叠加原理）、不同海洋区域的波浪谱，以及如何利用弗劳德数（Froude number）进行精确的缩尺模型测试。通过这一设施，海军工程师得以在舰船实际下水前，对其设计进行严格评估和创新，确保其在真实海洋环境中的性能和安全性。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-people:
-  - Derek Muller
-  - Miguel
+category: technology
 companies_orgs:
-  - US Navy
-  - Naval Surface Warfare Center Carderock Division
+- US Navy
+- Naval Surface Warfare Center Carderock Division
+date: '2022-12-01'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Miguel
 products_models:
-  - Brilliant
-media_books: []
+- Brilliant
+project:
+- us-analysis
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=pir_muTzYM8
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了美国海军位于卡德罗克（Carderock）的全球最大室内造浪池，该设施能够模拟各种海洋波浪条件，用于测试和优化舰船模型。文章详细介绍了波浪的生成、物理特性（如波长、频率、叠加原理）、不同海洋区域的波浪谱，以及如何利用弗劳德数（Froude
+  number）进行精确的缩尺模型测试。通过这一设施，海军工程师得以在舰船实际下水前，对其设计进行严格评估和创新，确保其在真实海洋环境中的性能和安全性。
+tags:
+- design
+- dynamic
+- engineering
+- llm
+- technology
+title: 美国海军室内海洋：波浪物理与舰船设计的创新测试
 ---
+
 ### 探索海军的室内海洋：全球最大的造浪池
 
 我现在在美国海军位于**卡德罗克**（Carderock: 美国海军水面作战中心的一个部门）的室内海洋设施。

@@ -1,61 +1,60 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 中共
+- 解放军
+- 北京大学
+- 美国社会学会
+- 国务院
+- 中宣部
+- 北京市委
+- 人民日报
 date: '2025-06-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《杀戮的决定：中共的继承政治、抗争镇压与1989年天安门屠杀》
+- 《文革时期中国农村的集体杀戮》
+- 《赵紫阳被软禁时的录音》
+- 《李鹏回忆录》
+people:
+- 苏阳
+- 赵紫阳
+- 李鹏
+- 邓小平
+- 陈云
+- 胡耀邦
+- 王忍之
+- 李先念
+- 姚依林
+- 邓力群
+- 戴金平
+- 李浩臣
+- 吴仁华
+- 周杰荣
+- 赵鼎新
+- 刘晓波
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Te40BDchzI0
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - tiananmen-square-incident
-  - ccp-succession-politics
-  - political-polarization
-  - historical-revisionism
-  - authoritarian-decision-making
-title: 推翻主流叙事：苏阳新著揭示六四天安门屠杀的决策内幕
-summary: 最新研究挑战了关于六四天安门事件的主流解释，认为其并非单纯的镇压动乱，而是中共高层在权力继承危机背景下的政治斗争产物。苏阳教授的新书《杀戮的决定》通过新披露的史料，深入剖析了1989年邓小平、陈云、赵紫阳和李鹏等关键人物在学运期间的决策逻辑和派系冲突，揭示了经济路线斗争如何演变为继承政治，以及学生抗争如何被高层用作斗争资源，最终导致北京屠杀的发生。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 苏阳
-  - 赵紫阳
-  - 李鹏
-  - 邓小平
-  - 陈云
-  - 胡耀邦
-  - 王忍之
-  - 李先念
-  - 姚依林
-  - 邓力群
-  - 戴金平
-  - 李浩臣
-  - 吴仁华
-  - 周杰荣
-  - 赵鼎新
-  - 刘晓波
-companies_orgs:
-  - 中共
-  - 解放军
-  - 北京大学
-  - 美国社会学会
-  - 国务院
-  - 中宣部
-  - 北京市委
-  - 人民日报
-products_models: []
-media_books:
-  - 《杀戮的决定：中共的继承政治、抗争镇压与1989年天安门屠杀》
-  - 《文革时期中国农村的集体杀戮》
-  - 《赵紫阳被软禁时的录音》
-  - 《李鹏回忆录》
 status: evergreen
+summary: 最新研究挑战了关于六四天安门事件的主流解释，认为其并非单纯的镇压动乱，而是中共高层在权力继承危机背景下的政治斗争产物。苏阳教授的新书《杀戮的决定》通过新披露的史料，深入剖析了1989年邓小平、陈云、赵紫阳和李鹏等关键人物在学运期间的决策逻辑和派系冲突，揭示了经济路线斗争如何演变为继承政治，以及学生抗争如何被高层用作斗争资源，最终导致北京屠杀的发生。
+tags:
+- authoritarian-decision-making
+- historical
+- politics
+- society
+title: 推翻主流叙事：苏阳新著揭示六四天安门屠杀的决策内幕
 ---
+
 ### 六四天安门事件：颠覆主流叙事的新研究
 
 这里是寿斯坦丁，在这里，你可以用最轻松的方式接收国际上最有趣的社会科学研究发现。

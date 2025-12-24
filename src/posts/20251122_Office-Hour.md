@@ -1,22 +1,22 @@
 ---
-title: 20251122_Office Hour 带上你的 Bug，Vibe Coding 大神现场一对一“问诊”
+aliases: null
+area: tech-engineering
+author: null
+category: ai-ml
+date: 2025-11-22
+insight: null
+layout: post.njk
+project: null
+published: null
 source: https://www.youtube.com/watch?v=8uSUci1dZHM
 speaker: 用AI發電
-author:
-date: 2025-11-22
-published:
-summary: 在 AI 编程工具爆发的当下，我们是否正在见证一种新型创造者的诞生？本期 Office Hour 不仅是对 Gemini 3.0、AntiGravity 等前沿工具的硬核测评，更是一场关于“心法”的深度对话。从 Min 对 AI 模型梯队的犀利点评，到设计师 Yueyue 将 INFJ 的细腻情感注入代码的实战演练，再到 Adam 对 SAP 垂直领域的精准切入。我们看到，技术不再是冰冷的壁垒，而是放大创意的杠杆。本手册将带你从“工具使用者”进化为“产品打造者”。
-tags:
-  - ai-coding
 status: inbox
-insight:
-project:
-category:
-area:
-aliases:
-layout: post.njk
+summary: 在 AI 编程工具爆发的当下，我们是否正在见证一种新型创造者的诞生？本期 Office Hour 不仅是对 Gemini 3.0、AntiGravity
+  等前沿工具的硬核测评，更是一场关于“心法”的深度对话。从 Min 对 AI 模型梯队的犀利点评，到设计师 Yueyue 将 INFJ 的细腻情感注入代码的实战演练，再到
+  Adam 对 SAP 垂直领域的精准切入。我们看到，技术不再是冰冷的壁垒，而是放大创意的杠杆。本手册将带你从“工具使用者”进化为“产品打造者”。
+tags: []
+title: 20251122_Office Hour 带上你的 Bug，Vibe Coding 大神现场一对一“问诊”
 ---
-
 
 ### 第一部分：核心理念 — 从“指令投喂”到“系统构建”
 

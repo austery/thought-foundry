@@ -1,59 +1,59 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-05-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- On the Spring and Autumn Annals
+- On China
+- The Four Executions of the Ming Dynasty
+- History of the Five Dynasties
+- On Orthodoxy
+- On Factions
+- Biography of Eunuchs
+- Book of Rites
+people:
+- Wang Yangming
+- Hegel
+- Xiao He
+- Liu Bang
+- Xiang Yu
+- Emperor Wu of Han
+- Dong Zhongshu
+- Liu Yu
+- Huan Xuan
+- Li Jiancheng
+- Li Shimin
+- Wei Zheng
+- Ouyang Xiu
+- Shi Jie
+- Zeng Gong
+- Qian Liu
+- Li Congke
+- Wang family
+- Xie family
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=558ffJj1r2Q
 speaker: Anthony看世界
-tags:
-  - qin-system
-  - imperial-power
-  - cultural-involution
-  - neo-confucianism
-  - political-centralization
-title: 秦制如何塑造中国文化：从阳明心学矛盾看历史内卷
-summary: 本文深入探讨了王阳明心学（Wang Yangming's philosophy of mind）的内在矛盾，并以此为切入点，剖析了中国文化系统性内卷（involution）的历史背景。文章追溯了从秦汉大一统到宋明理学兴起过程中，秦制（Qin system）如何不断演化、强化皇权，以及儒家如何从修补系统走向教条化。最终，这种文化退缩导致中国在面对外部冲击时，呈现出一种封闭而非开放的发展模式。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Wang Yangming
-  - Hegel
-  - Xiao He
-  - Liu Bang
-  - Xiang Yu
-  - Emperor Wu of Han
-  - Dong Zhongshu
-  - Liu Yu
-  - Huan Xuan
-  - Li Jiancheng
-  - Li Shimin
-  - Wei Zheng
-  - Ouyang Xiu
-  - Shi Jie
-  - Zeng Gong
-  - Qian Liu
-  - Li Congke
-  - Wang family
-  - Xie family
-companies_orgs: []
-products_models: []
-media_books:
-  - On the Spring and Autumn Annals
-  - On China
-  - The Four Executions of the Ming Dynasty
-  - History of the Five Dynasties
-  - On Orthodoxy
-  - On Factions
-  - Biography of Eunuchs
-  - Book of Rites
 status: evergreen
+summary: 本文深入探讨了王阳明心学（Wang Yangming's philosophy of mind）的内在矛盾，并以此为切入点，剖析了中国文化系统性内卷（involution）的历史背景。文章追溯了从秦汉大一统到宋明理学兴起过程中，秦制（Qin
+  system）如何不断演化、强化皇权，以及儒家如何从修补系统走向教条化。最终，这种文化退缩导致中国在面对外部冲击时，呈现出一种封闭而非开放的发展模式。
+tags:
+- cultural-involution
+- neo-confucianism
+- political
+- power
+- system
+title: 秦制如何塑造中国文化：从阳明心学矛盾看历史内卷
 ---
 
 ### 阳明心学的吸引力与内在矛盾

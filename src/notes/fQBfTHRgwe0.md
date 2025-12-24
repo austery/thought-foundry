@@ -1,55 +1,55 @@
 ---
-author: 老周横眉
+area: society-systems
+category: finance
+companies_orgs:
+- 中共中央
+- 国家统计局
+- 市场监管总局
+- 中国汽车流通协会
+- 丰田
+- 比亚迪
+- 美团
+- 京东
+- 饿了么
+- 滴滴
+- 腾讯
+- 华为
+- 小米
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《求是》杂志
+- 彭博社
+- 懂车帝
+- 瓜子
+people:
+- Xi Jinping
+- 高善文
+- 王德培
+products_models:
+- 零公里二手车
+project:
+- china-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=fQBfTHRgwe0
 speaker: 老周横眉
-tags:
-  - china-economy
-  - overcapacity
-  - deflation
-  - government-intervention
-  - involution
-  - economic-policy
-title: 中国经济的‘内卷’困境与中共的‘反内卷’挑战
-summary: 本文深入分析了中国经济在GDP增长的同时，普通民众财富感下降的矛盾现象，指出其核心在于**内卷**和**产能过剩**导致的**通缩**压力。文章探讨了中共为何突然开始‘反内卷’，并结合历史上的两次去产能行动，剖析了当前政策的成效与局限。最终，作者认为，若不进行根本性的体制改革，中国经济将难以摆脱‘治标不治本’的困境，普通人的生活也难以真正改善。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - 习近平
-  - 高善文
-  - 王德培
-companies_orgs:
-  - 中共中央
-  - 国家统计局
-  - 市场监管总局
-  - 中国汽车流通协会
-  - 丰田
-  - 比亚迪
-  - 美团
-  - 京东
-  - 饿了么
-  - 滴滴
-  - 腾讯
-  - 华为
-  - 小米
-products_models:
-  - 零公里二手车
-media_books:
-  - 《求是》杂志
-  - 彭博社
-  - 懂车帝
-  - 瓜子
 status: evergreen
+summary: 本文深入分析了中国经济在GDP增长的同时，普通民众财富感下降的矛盾现象，指出其核心在于**内卷**和**产能过剩**导致的**通缩**压力。文章探讨了中共为何突然开始‘反内卷’，并结合历史上的两次去产能行动，剖析了当前政策的成效与局限。最终，作者认为，若不进行根本性的体制改革，中国经济将难以摆脱‘治标不治本’的困境，普通人的生活也难以真正改善。
+tags:
+- china-economy
+- economic-policy
+- financial
+- government-intervention
+- involution
+- society
+title: 中国经济的‘内卷’困境与中共的‘反内卷’挑战
 ---
+
 ### 中国经济的“内卷”困境与政府的应对
 
 7月份，中国经济领域最引人瞩目的一件大事是中共中央向市场发出了一个强烈信号：他们真的要在**反内卷**（Involution: 指非理性的内部竞争，导致投入与产出比下降，甚至负增长的现象）和**去产能**（Overcapacity Reduction: 削减过剩的生产能力）上动真格了。7月1日，中央财经委员会第六次会议明确表示要治理企业低价无序竞争；7月24日，中共党刊《求是》杂志发表文章，强调要“深刻认识和综合整治内卷式竞争”。

@@ -1,46 +1,46 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Apple
+- Tesla
+- Google
+- Federal Trade Commission
+- eBay
+- Amazon
 date: '2025-05-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Steve Jobs
+- Mega Steve
+- Steve Waznjak
+- Gwen Brandwin
+- Garn
+- Peter Salaba
+products_models:
+- GPT-4
+- V2
+- Tesla's full-self-driving AI model
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=bJD1NpdMY5s
 speaker: Dwarkesh Patel
-tags:
-  - agi
-  - automated-firms
-  - digital-labor
-  - compute-labor
-  - evolvability
-title: 自动化公司将是什么样子？
-summary: 本视频探讨了人工智能（AI）驱动的自动化公司与传统人类公司的根本区别。核心观点是AI的数字特性使其能够无限复制，将资本转化为计算能力，进而转化为劳动力，这颠覆了传统的商业模式。文章通过对比人类CEO的局限性与设想中的AI“Mega Steve”的能力，阐述了AI公司在知识传播、学习速度和创新能力上的巨大优势。此外，还讨论了AI公司在演化能力上的飞跃，类比了原核生物与真核生物的复杂性差异，并指出计算能力将成为未来稀缺资源，最终可能导致一家自动化公司主导整个经济体，但市场反馈仍是关键的制衡因素。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Steve Jobs
-  - Mega Steve
-  - Steve Waznjak
-  - Gwen Brandwin
-  - Garn
-  - Peter Salaba
-companies_orgs:
-  - Apple
-  - Tesla
-  - Google
-  - Federal Trade Commission
-  - eBay
-  - Amazon
-products_models:
-  - GPT-4
-  - V2
-  - Tesla's full-self-driving AI model
-media_books: []
 status: evergreen
+summary: 本视频探讨了人工智能（AI）驱动的自动化公司与传统人类公司的根本区别。核心观点是AI的数字特性使其能够无限复制，将资本转化为计算能力，进而转化为劳动力，这颠覆了传统的商业模式。文章通过对比人类CEO的局限性与设想中的AI“Mega
+  Steve”的能力，阐述了AI公司在知识传播、学习速度和创新能力上的巨大优势。此外，还讨论了AI公司在演化能力上的飞跃，类比了原核生物与真核生物的复杂性差异，并指出计算能力将成为未来稀缺资源，最终可能导致一家自动化公司主导整个经济体，但市场反馈仍是关键的制衡因素。
+tags:
+- agi
+- automated-firm
+- digital
+- labor
+- technology
+title: 自动化公司将是什么样子？
 ---
+
 当人们想到**AGI**（Artificial General Intelligence: 具备与人类相当或超越人类的认知能力的通用人工智能）时，他们会想象拥有一个能回答所有问题、全天候工作的个人助理。但这低估了**AI**（人工智能）将拥有的真正集体优势，这与原始智商无关，而在于它们是数字化的。目前，公司在招聘和培训人员方面受到极大限制。但如果你的员工是**AI**，那么你就可以将它们复制数百万次，并完整保留它们所有的技能、判断力和**隐性知识**（tacit knowledge: 难以言传、难以量化的知识，通常通过经验获得）。
 
 这是一个根本性的变革，因为历史上第一次，你可以将资本转化为**计算能力**（compute: 指计算机处理信息的能力，在此语境下特指AI运行所需的算力），再将计算能力转化为劳动力（labor）。你可以将数万亿美元转化为维持数十亿数字员工所需的电力、芯片和数据中心。

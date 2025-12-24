@@ -1,55 +1,55 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NATO
+- 联合国
+- G7
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《路透社》
+- 《美国野兽日报》
+- 《经济学人》
+- 《北京日报》
+people:
+- Donald Trump
+- Kamala Harris
+- Xi Jinping
+- Emmanuel Macron
+- Vladimir Putin
+- John Bolton
+- Jacqueline Rams
+- 高市早苗
+- Giorgia Meloni
+- Olaf Scholz
+- Keir Starmer
+- Justin Trudeau
+- Richard Nixon
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=IJ45rkL49dg
 speaker: LT視界
-tags:
-  - us-national-security-strategy
-  - america-first-policy
-  - geopolitical-shift
-  - nato-future
-  - taiwan-strait-security
-  - south-china-sea
-title: 川普政府国家安全战略深度解读：全球秩序重构与美中欧关系新动向
-summary: 本文深入解读川普政府最新发布的国家安全战略，分析其从全球主导转向聚焦美国本土和西半球的重大转变。报告强调经济独立、传统价值观，并对欧洲盟友提出严厉批评，同时在台湾和南海问题上强化对华军事遏制。文章还探讨了该战略对美中关系、北约未来以及国际地缘政治格局的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Kamala Harris
-  - Xi Jinping
-  - Emmanuel Macron
-  - Vladimir Putin
-  - John Bolton
-  - Jacqueline Rams
-  - 高市早苗
-  - Giorgia Meloni
-  - Olaf Scholz
-  - Keir Starmer
-  - Justin Trudeau
-  - Richard Nixon
-companies_orgs:
-  - NATO
-  - 联合国
-  - G7
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 《路透社》
-  - 《美国野兽日报》
-  - 《经济学人》
-  - 《北京日报》
 status: evergreen
+summary: 本文深入解读川普政府最新发布的国家安全战略，分析其从全球主导转向聚焦美国本土和西半球的重大转变。报告强调经济独立、传统价值观，并对欧洲盟友提出严厉批评，同时在台湾和南海问题上强化对华军事遏制。文章还探讨了该战略对美中关系、北约未来以及国际地缘政治格局的深远影响。
+tags:
+- china
+- future
+- geopolitical-shift
+- policy
+- taiwan-strait-security
+- us-national-security-strategy
+title: 川普政府国家安全战略深度解读：全球秩序重构与美中欧关系新动向
 ---
+
 ### 川普政府国家安全战略的重大转向
 
 今天，我们将深入分享一些不容错过的重要新闻。对于关注国际形势和地缘政治格局的网友来说，今天的分享内容将回答许多长期以来的推测，例如美国的全球战略将如何调整、川普希望将美国带向何方，以及川普政府正在对现有国际秩序做出哪些主动调整。此外，它还将回应关于川普政府是否在下一盘大棋的争论，包括所谓的**反向尼克松战略**（Reverse Nixon Strategy: 一种与尼克松联华制苏策略相反的外交策略构想）以及重新调整美国战略重点等问题。美国官方是否对此有明确说法？

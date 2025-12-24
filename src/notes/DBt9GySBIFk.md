@@ -1,36 +1,34 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Nazi Party
 date: '2025-10-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Confucius
+- Albert Einstein
+- John von Neumann
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=DBt9GySBIFk
 speaker: 徒步的騎手
-tags:
-  - talent-attraction
-  - societal-models
-  - freedom-vs-control
-  - human-nature
-  - brain-drain
-title: 两种人才模式的终极对决：为何“筑巢引凤”不如“茂林养才”？
-summary: 本文深刻剖析了两种截然不同的人才与社会发展模式。一种是以国家力量主导，通过投入巨额资源“筑巢引凤”，旨在短期内达成特定目标，但这本质上是一种扭曲人性的权力操控。另一种则是创造一个自由开放的环境，如同茂密的森林，让个体凭借自身才能自然生长，这才是符合人性的选择。文章通过引述纳粹德国导致的人才流失等历史教训，并指出当下精英阶层的真实选择，论证了后者模式的根本优越性，并强调了古老智慧在今日依然具有现实意义。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Confucius
-  - Albert Einstein
-  - John von Neumann
-companies_orgs:
-  - Nazi Party
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深刻剖析了两种截然不同的人才与社会发展模式。一种是以国家力量主导，通过投入巨额资源“筑巢引凤”，旨在短期内达成特定目标，但这本质上是一种扭曲人性的权力操控。另一种则是创造一个自由开放的环境，如同茂密的森林，让个体凭借自身才能自然生长，这才是符合人性的选择。文章通过引述纳粹德国导致的人才流失等历史教训，并指出当下精英阶层的真实选择，论证了后者模式的根本优越性，并强调了古老智慧在今日依然具有现实意义。
+tags:
+- brain
+- control
+- human-nature
+- model
+- talent
+title: 两种人才模式的终极对决：为何“筑巢引凤”不如“茂林养才”？
 ---
 
 ### 只要愚蠢未过时，古老智慧便永存

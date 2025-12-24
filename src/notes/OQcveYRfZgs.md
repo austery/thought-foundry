@@ -1,34 +1,32 @@
 ---
-title: 1929与2025：从历史泡沫到未来挑战
-summary: Andrew Ross Sorkin探讨1929年股市崩盘与当今经济泡沫、监管、技术变革及社会思潮的异同，并分享对未来挑战的看法。
 area: market-analysis
-category: finance
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
-tags:
-- ai-impact
-- all-in-podcast
-- economic-bubbles
-- financial-regulation
-- government-spending
-- stock-market-crash
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-16'
 author: All-In Podcast
-speaker: All-In Podcast
+category: finance
+companies_orgs: []
+date: '2025-10-16'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=OQcveYRfZgs
+speaker: all-in-podcast
 status: evergreen
+summary: Andrew Ross Sorkin探讨1929年股市崩盘与当今经济泡沫、监管、技术变革及社会思潮的异同，并分享对未来挑战的看法。
+tags:
+- ai-impact
+- economic
+- financial-regulation
+- government
+- stock-market-crash
+title: 1929与2025：从历史泡沫到未来挑战
 ---
+
 ### 新书《1929》引发的讨论
 
 Jason: Hey, Sorcin. I just went through the comments. The one question keeps coming up over again. "Why the are you writing this book? Jesus Christ. What a party pooper."

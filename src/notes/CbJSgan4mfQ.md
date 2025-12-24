@@ -1,74 +1,74 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bear Stearns
+- Department of Justice
+- FBI
+- Towers Financial Corporation
+- Apollo Global Management
+- JPMorgan Chase
+- Environmental Solutions Worldwide
+- Valar Ventures
+- IRS
 date: '2025-07-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- FT
+- The New York Times
+- Vanity Fair
+- CNN
+- Rolling Stone
+- Vox
+- Washington Post
+- Wall Street Journal
+- New York Magazine
+people:
+- Jeffrey Epstein
+- Donald Trump
+- Pam Bondi
+- Dan Bongino
+- Kash Patel
+- Alexander Acosta
+- Alan Dershowitz
+- Kenneth Starr
+- Alan Greenberg
+- Les Wexner
+- Steven Hoffenberg
+- Elizabeth Johnson
+- Leon Black
+- Glenn Dubin
+- Mark Epstein
+- Howard Lutnick
+- Peter Thiel
+- Ghislaine Maxwell
+- Bill Clinton
+- Hillary Clinton
+- Tucker Carlson
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=CbJSgan4mfQ
 speaker: Patrick Boyle
-tags:
-  - epstein-scandal
-  - unexplained-wealth
-  - conspiracy-theories
-  - elite-networks
-  - financial-misconduct
-  - political-influence
-title: 爱泼斯坦的财富之谜：追踪金钱，揭露精英网络与阴谋论
-summary: 杰弗里·爱泼斯坦，这位声名狼藉的金融家，其巨额财富来源至今成谜。本文深入探讨了他从辍学生到与总统、王子、亿万富翁为伍的离奇人生轨迹，揭示了他涉嫌的金融不当行为、庞氏骗局、勒索指控，以及围绕他死亡和精英网络的各种阴谋论。尽管调查多年，爱泼斯坦的财富来源和其背后错综复杂的关系网仍笼罩在重重迷雾之中，引发了广泛的公众关注和持续的争议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jeffrey Epstein
-  - Donald Trump
-  - Pam Bondi
-  - Dan Bongino
-  - Kash Patel
-  - Alexander Acosta
-  - Alan Dershowitz
-  - Kenneth Starr
-  - Alan Greenberg
-  - Les Wexner
-  - Steven Hoffenberg
-  - Elizabeth Johnson
-  - Leon Black
-  - Glenn Dubin
-  - Mark Epstein
-  - Howard Lutnick
-  - Peter Thiel
-  - Ghislaine Maxwell
-  - Bill Clinton
-  - Hillary Clinton
-  - Tucker Carlson
-companies_orgs:
-  - Bear Stearns
-  - Department of Justice
-  - FBI
-  - Towers Financial Corporation
-  - Apollo Global Management
-  - JPMorgan Chase
-  - Environmental Solutions Worldwide
-  - Valar Ventures
-  - IRS
-products_models: []
-media_books:
-  - Bloomberg
-  - FT
-  - The New York Times
-  - Vanity Fair
-  - CNN
-  - Rolling Stone
-  - Vox
-  - Washington Post
-  - Wall Street Journal
-  - New York Magazine
 status: evergreen
+summary: 杰弗里·爱泼斯坦，这位声名狼藉的金融家，其巨额财富来源至今成谜。本文深入探讨了他从辍学生到与总统、王子、亿万富翁为伍的离奇人生轨迹，揭示了他涉嫌的金融不当行为、庞氏骗局、勒索指控，以及围绕他死亡和精英网络的各种阴谋论。尽管调查多年，爱泼斯坦的财富来源和其背后错综复杂的关系网仍笼罩在重重迷雾之中，引发了广泛的公众关注和持续的争议。
+tags:
+- conspiracy-theory
+- epstein-scandal
+- financial
+- network
+- political-influence
+- wealth
+title: 爱泼斯坦的财富之谜：追踪金钱，揭露精英网络与阴谋论
 ---
+
 ### 爱泼斯坦的财富之谜
 
 杰弗里·爱泼斯坦（Jeffrey Epstein），这位声名狼藉的金融家，虽然大学辍学，却积累了难以解释的巨额财富，并于2019年在狱中神秘死亡。

@@ -1,172 +1,173 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Netflix
+- Apple
+- Amazon
+- Robinhood
+- Coinbase
+- Snapchat
+- AWS (Amazon Web Services)
+- CNBC
+- White House
+- S&P 500
+- Google
+- Grab
+- Reddit
+- Meta
+- Salesforce
+- AMD
+- SoFi
+- World Trade Organization
+- CleanSpark
+- Cipher
+- Terawulf
+- Bitfarms
+- Hive
+- Marathon Digital
+- Riot Platforms
+- Galaxy Digital
+- Micron
+- Nvidia
+- Senate
+- Kalshi
+- FOMC (Federal Open Market Committee)
+- AK Media
+- Bloomberg
+- BMR (Bitmine)
+- B. Riley
+- Duolingo
+- SSB
+- FG Nexus
+- MicroStrategy
+- ETHZilla
+- TSMC
+- Foxconn
+- Amkor
+- Wistron
+- JP Morgan
+- Oracle
+- Oklo
+- CoreWeave
+- Nebius
+- Microsoft
+- SMCI
+- XAI
+- Dell
+- HP
+- Western Alliance
+- Zions Bancorporation
+- Truist
+- Citibank
+- BlackRock
+- Morgan Stanley
+- BNP Paribas
+- CBS
+- Hamas
+- SpaceX
+- Blue Origin
+- Rocket Lab
+- Weeble
+- YouTube
+- Intel
+- Disney
+- Square
+- DoorDash
+- Yahoo
+- TradingView
+- Thinkorswim
+- Fidelity
+- Schwab
+- AppLovin
+- Alibaba
+- OpenAI
+- Anthropic
+- GCP (Google Cloud Platform)
+- SAP
+- Bank of America
+- GameStop
+- Lockheed Martin
+- NuBank
+- Elf Beauty
+- iShares Russell 2000 ETF (IWM)
+- Big Bear AI
+- GSI Technology
+- Cornell University
+- Costco
+- Hugging Face
+- Grok
+- Claude
+- Perplexity
+- TikTok
+- The Information
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Substack
+- 60 Minutes
+people:
+- Donald Trump
+- Xi Jinping
+- Kim Jong-un
+- Scott Bent
+- Lee Kangong
+- Kevin Hassett
+- Chuck Schumer
+- Jeanne Shaheen
+- Russ Vought
+- Cactus Jack
+- Tom Lee
+- Devon Ryan
+- Jensen Huang
+- Jared Kushner
+- Steve Witkoff
+- Volodymyr Zelenskyy
+- Vladimir Putin
+- Scott Bessent
+- Jim Cramer
+- Mark Newton
+- Howard Marks
+- Bill Ackman
+- Warren Buffett
+- Cathie Wood
+- Michael Burry
+- Satya Nadella
+- Sam Altman
+products_models:
+- iPhone 17
+- iPhone 16
+- Blackwell
+- GB200
+- Galileo
+- EC2
+- DynamoDB
+- Azure
+- Gemini
+- Sora
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=uYEOEv0QQIk
 speaker: Amit Kukreja
-tags:
-  - market-sentiment
-  - us-china-relations
-  - cloud-infrastructure
-  - earnings-season
-  - geopolitical-risk
-title: 中美关系缓和推动市场走高，AWS大范围宕机引发开盘混乱
-summary: 本周市场开盘前瞻显示，得益于中美关系出现缓和迹象，市场情绪普遍看涨。特朗普总统释放了缓和贸易争端的积极信号，并计划与多国领导人会晤，这为市场注入了信心。科技股方面，苹果因iPhone 17预购数据强劲而获多家机构上调目标价，英伟达则宣布在美国本土生产首批Blackwell芯片。然而，开盘期间亚马逊AWS服务发生大规模宕机，导致Robinhood、Weeble等多家交易平台出现严重故障，引发市场交易混乱。尽管如此，大盘在开盘后依然表现强劲，显示出潜在的买盘力量。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Kim Jong-un
-  - Scott Bent
-  - Lee Kangong
-  - Kevin Hassett
-  - Chuck Schumer
-  - Jeanne Shaheen
-  - Russ Vought
-  - Cactus Jack
-  - Tom Lee
-  - Devon Ryan
-  - Jensen Huang
-  - Jared Kushner
-  - Steve Witkoff
-  - Volodymyr Zelenskyy
-  - Vladimir Putin
-  - Scott Bessent
-  - Jim Cramer
-  - Mark Newton
-  - Howard Marks
-  - Bill Ackman
-  - Warren Buffett
-  - Cathie Wood
-  - Michael Burry
-  - Satya Nadella
-  - Sam Altman
-companies_orgs:
-  - Tesla
-  - Netflix
-  - Apple
-  - Amazon
-  - Robinhood
-  - Coinbase
-  - Snapchat
-  - AWS (Amazon Web Services)
-  - CNBC
-  - White House
-  - S&P 500
-  - Google
-  - Grab
-  - Reddit
-  - Meta
-  - Salesforce
-  - AMD
-  - SoFi
-  - World Trade Organization
-  - CleanSpark
-  - Cipher
-  - Terawulf
-  - Bitfarms
-  - Hive
-  - Marathon Digital
-  - Riot Platforms
-  - Galaxy Digital
-  - Micron
-  - Nvidia
-  - Senate
-  - Kalshi
-  - FOMC (Federal Open Market Committee)
-  - AK Media
-  - Bloomberg
-  - BMR (Bitmine)
-  - B. Riley
-  - Duolingo
-  - SSB
-  - FG Nexus
-  - MicroStrategy
-  - ETHZilla
-  - TSMC
-  - Foxconn
-  - Amkor
-  - Wistron
-  - JP Morgan
-  - Oracle
-  - Oklo
-  - CoreWeave
-  - Nebius
-  - Microsoft
-  - SMCI
-  - XAI
-  - Dell
-  - HP
-  - Western Alliance
-  - Zions Bancorporation
-  - Truist
-  - Citibank
-  - BlackRock
-  - Morgan Stanley
-  - BNP Paribas
-  - CBS
-  - Hamas
-  - SpaceX
-  - Blue Origin
-  - Rocket Lab
-  - Weeble
-  - YouTube
-  - Intel
-  - Disney
-  - Square
-  - DoorDash
-  - Yahoo
-  - TradingView
-  - Thinkorswim
-  - Fidelity
-  - Schwab
-  - AppLovin
-  - Alibaba
-  - OpenAI
-  - Anthropic
-  - GCP (Google Cloud Platform)
-  - SAP
-  - Bank of America
-  - GameStop
-  - Lockheed Martin
-  - NuBank
-  - Elf Beauty
-  - iShares Russell 2000 ETF (IWM)
-  - Big Bear AI
-  - GSI Technology
-  - Cornell University
-  - Costco
-  - Hugging Face
-  - Grok
-  - Claude
-  - Perplexity
-  - TikTok
-  - The Information
-products_models:
-  - iPhone 17
-  - iPhone 16
-  - Blackwell
-  - GB200
-  - Galileo
-  - EC2
-  - DynamoDB
-  - Azure
-  - Gemini
-  - Sora
-media_books:
-  - Substack
-  - 60 Minutes
 status: evergreen
+summary: 本周市场开盘前瞻显示，得益于中美关系出现缓和迹象，市场情绪普遍看涨。特朗普总统释放了缓和贸易争端的积极信号，并计划与多国领导人会晤，这为市场注入了信心。科技股方面，苹果因iPhone
+  17预购数据强劲而获多家机构上调目标价，英伟达则宣布在美国本土生产首批Blackwell芯片。然而，开盘期间亚马逊AWS服务发生大规模宕机，导致Robinhood、Weeble等多家交易平台出现严重故障，引发市场交易混乱。尽管如此，大盘在开盘后依然表现强劲，显示出潜在的买盘力量。
+tags:
+- earnings-season
+- geopolitical-risk
+- infrastructure
+- market-sentiment
+- us-china-relations
+title: 中美关系缓和推动市场走高，AWS大范围宕机引发开盘混乱
 ---
+
 ### 开盘前瞻：中美关系缓和带来看涨信号
 
 大家早上好，欢迎回到新一期的市场开盘直播。感谢各位的到来。今天有很多话题要谈，我们看到**盘前交易**（premarket: 指在常规股市交易时段之前进行的股票交易）呈现绿色，这是一个非常好的迹象。希望从昨天夜间市场延续至今的这股涨势，能够持续到正式开盘。大约45分钟后我们就能见分晓。

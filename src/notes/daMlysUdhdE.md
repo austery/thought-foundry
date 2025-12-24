@@ -1,43 +1,43 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 摩根大通
+- 人大
 date: '2025-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《南华早报》
+- 《华盛顿邮报》
+people:
+- 巴菲特
+- 龚方雄
+products_models:
+- ETF
+- M0
+- M1
+- M2
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=daMlysUdhdE
 speaker: 海淀拙大叔
-tags:
-  - economic-cycles
-  - policy-reform
-  - debt-restructuring
-  - stock-market-outlook
-  - virtual-economy
-title: 中国经济新周期：三大问题解决，市场潜力巨大
-summary: 本文深入分析了中国经济自2007年以来的周期性变化，指出困扰经济的三大核心问题——总需求、总产出和总成本——已逐步找到解决方案。特别是近期地方债划债方案、国企民企地位一致等制度性改革，为经济进入新一轮繁荣周期奠定基础。作者预测，在实体经济增长的带动下，长期滞后的资本市场有望迎来一次大规模的追赶性上涨，其涨幅和持续时间可能超出市场预期。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 巴菲特
-  - 龚方雄
-companies_orgs:
-  - 摩根大通
-  - 人大
-products_models:
-  - ETF
-  - M0
-  - M1
-  - M2
-media_books:
-  - 《南华早报》
-  - 《华盛顿邮报》
 status: evergreen
+summary: 本文深入分析了中国经济自2007年以来的周期性变化，指出困扰经济的三大核心问题——总需求、总产出和总成本——已逐步找到解决方案。特别是近期地方债划债方案、国企民企地位一致等制度性改革，为经济进入新一轮繁荣周期奠定基础。作者预测，在实体经济增长的带动下，长期滞后的资本市场有望迎来一次大规模的追赶性上涨，其涨幅和持续时间可能超出市场预期。
+tags:
+- debt
+- economic-cycle
+- economy
+- policy
+- stock-market-outlook
+title: 中国经济新周期：三大问题解决，市场潜力巨大
 ---
+
 ### 新周期开始：中国经济三大问题与市场展望
 
 大家好，我是海淀拙大叔。今天是2024年的双十一，很多人给我留言，询问现在是否是买入**ETF**（Exchange Traded Fund: 交易型开放式指数基金，一种在交易所上市交易的基金份额，代表一篮子股票或资产）的时机。因此，我决定制作这个视频。本人没有股票群，也不推荐股票，纯粹是个人研究的副产品，旨在向大家介绍一种投资的思考方法。所以对于询问股票具体操作的问题，我基本上不予回复。

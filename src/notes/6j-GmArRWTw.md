@@ -1,30 +1,30 @@
 ---
-title: CPI预测、鲍威尔去留与利率市场风险深度解析
-summary: 本期节目深度解析CPI预测、特朗普对鲍威尔的施压，以及即使降息长期美债收益率也可能不跌的市场风险。
 area: null
 category: null
-project: []
-tags:
-- federal-reserve
-- interest-rates
-people:
-- donald-trump
-- jerome-powell
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-07-15'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+people:
+- donald-trump
+- jerome-powell
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6j-GmArRWTw
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深度解析CPI预测、特朗普对鲍威尔的施压，以及即使降息长期美债收益率也可能不跌的市场风险。
+tags:
+- federal-reserve
+- interest-rate
+title: CPI预测、鲍威尔去留与利率市场风险深度解析
 ---
+
 ### 宏观数据与财报展望
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小涛。本周我们将继续争取全勤，主要关注宏观数据与财报季。宏观数据方面，有**CPI**（Consumer Price Index: 消费者物价指数）和**PPI**（Producer Price Index: 生产者物价指数）数据。CPI数据将在周二早上公布，我会在第一时间为大家更新。财报方面，有银行、奈飞和阿斯麦的财报。

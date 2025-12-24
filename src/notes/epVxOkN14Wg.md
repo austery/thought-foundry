@@ -1,70 +1,70 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- NBC News
+- Defense Intelligence Agency
+- National Park Service
+- Department of Labor
+- US Department of Education
+- Department of Housing and Urban Development
+- Environmental Protection Agency
+- Department of Justice
+- Social Security Administration
+- Veterans Administration
+- America First Legal
+- Columbia University
+- Harvard University
+- Brown University
+- Louisville Police Department
+- Supreme Court
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Politico
+people:
+- Michael Barbaro
+- Nicole Hannah Jones
+- Donald Trump
+- Lyndon B. Johnson
+- George Floyd
+- Lee Zeldin
+- Steven Miller
+- Briana Taylor
+- Rayford Logan
+- Ida B. Wells
+- John Thune
+- Paul Ingracia
+products_models:
+- 1619 Project
+- Civil Rights Act of 1964
+- Civil Rights Act of 1957
+- Voting Rights Act of 1965
+- 13th Amendment
+- 14th Amendment
+- 15th Amendment
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=epVxOkN14Wg
 speaker: New York Times Podcasts
-tags:
-  - us-civil-rights
-  - dei-dismantling
-  - federal-enforcement
-  - reverse-discrimination
-  - nadir-period
-title: 特朗普如何颠覆60年民权成果：DEI之名下的深层变革
-summary: 纽约时报播客《The Daily》本期节目邀请妮可·汉娜·琼斯探讨特朗普政府如何以打击“多元、公平和包容”（DEI）为名，迅速颠覆了美国60年的民权成果。节目深入分析了民权法律与DEI的本质区别，指出特朗普政府通过削弱联邦机构的民权执法能力，可能导致“第二次低谷期”的到来，即民权法律徒有其表而无法有效执行。这不仅对非裔美国人，也对其他少数群体构成严重威胁，并揭示了政府将“反白人歧视”作为新焦点的转变。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Michael Barbaro
-  - Nicole Hannah Jones
-  - Donald Trump
-  - Lyndon B. Johnson
-  - George Floyd
-  - Lee Zeldin
-  - Steven Miller
-  - Briana Taylor
-  - Rayford Logan
-  - Ida B. Wells
-  - John Thune
-  - Paul Ingracia
-companies_orgs:
-  - New York Times
-  - NBC News
-  - Defense Intelligence Agency
-  - National Park Service
-  - Department of Labor
-  - US Department of Education
-  - Department of Housing and Urban Development
-  - Environmental Protection Agency
-  - Department of Justice
-  - Social Security Administration
-  - Veterans Administration
-  - America First Legal
-  - Columbia University
-  - Harvard University
-  - Brown University
-  - Louisville Police Department
-  - Supreme Court
-products_models:
-  - 1619 Project
-  - Civil Rights Act of 1964
-  - Civil Rights Act of 1957
-  - Voting Rights Act of 1965
-  - 13th Amendment
-  - 14th Amendment
-  - 15th Amendment
-media_books:
-  - The Daily
-  - Politico
 status: evergreen
+summary: 纽约时报播客《The Daily》本期节目邀请妮可·汉娜·琼斯探讨特朗普政府如何以打击“多元、公平和包容”（DEI）为名，迅速颠覆了美国60年的民权成果。节目深入分析了民权法律与DEI的本质区别，指出特朗普政府通过削弱联邦机构的民权执法能力，可能导致“第二次低谷期”的到来，即民权法律徒有其表而无法有效执行。这不仅对非裔美国人，也对其他少数群体构成严重威胁，并揭示了政府将“反白人歧视”作为新焦点的转变。
+tags:
+- dei-dismantling
+- financial
+- history
+- right
+- technology
+title: 特朗普如何颠覆60年民权成果：DEI之名下的深层变革
 ---
+
 ### 特朗普政府对民权成果的颠覆
 
 纽约时报出品，我是迈克尔·巴巴罗。这里是《The Daily》。

@@ -1,48 +1,48 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 台积电
+- 初日医学
+- Cofit
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《努力，但不费力》
+- 《原子习惯》
+- 《富爸爸与穷爸爸》
+- 《穷查理的普通常识》
+- 《纳瓦尔宝典》
+people:
+- 宋晏仁
+- 郝旭烈
+- Naval Ravikant
+- James Clear
+- Charlie Munger
+- George Clooney
+products_models:
+- 211餐盘
+- 168断食
+project:
+- personal-growth-lab
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=pPQu_af6_Fo
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - self-productization
-  - personal-growth
-  - financial-philosophy
-  - health-prioritization
-  - career-redefinition
-title: 郝旭烈谈人生智慧：从裸辞到财富自由，活出自我价值
-summary: 本期节目中，郝旭烈分享其丰富的人生智慧。他从台积电裸辞的经历出发，强调健康是比功成名就更重要的财富。郝旭烈深入探讨了如何摆脱他人期待、通过“产品化自己”积累财富，以及在快节奏生活中如何寻找并保持人生热情。他提出“留白”的重要性，并分享了应对职场倦怠、培养人脉、面对时代挑战的独到见解，为不同年龄段的人提供了宝贵的成长建议。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - 宋晏仁
-  - 郝旭烈
-  - Naval Ravikant
-  - James Clear
-  - Charlie Munger
-  - George Clooney
-companies_orgs:
-  - 台积电
-  - 初日医学
-  - Cofit
-products_models:
-  - 211餐盘
-  - 168断食
-media_books:
-  - 《努力，但不费力》
-  - 《原子习惯》
-  - 《富爸爸与穷爸爸》
-  - 《穷查理的普通常识》
-  - 《纳瓦尔宝典》
 status: evergreen
+summary: 本期节目中，郝旭烈分享其丰富的人生智慧。他从台积电裸辞的经历出发，强调健康是比功成名就更重要的财富。郝旭烈深入探讨了如何摆脱他人期待、通过“产品化自己”积累财富，以及在快节奏生活中如何寻找并保持人生热情。他提出“留白”的重要性，并分享了应对职场倦怠、培养人脉、面对时代挑战的独到见解，为不同年龄段的人提供了宝贵的成长建议。
+tags:
+- career
+- financial
+- health
+- personal-growth
+- self
+title: 郝旭烈谈人生智慧：从裸辞到财富自由，活出自我价值
 ---
+
 宋晏仁 宋医师: 嗨，大家好，我是宋晏仁宋医师，欢迎来到初日会客室。今天为您访问的是一位非常奇特的人，他走过低潮，但现在变成一个能够帮助人的人生导师，并且开始写了很多书，叫做“三察三为套书”。今天为您访问的是郝哥，郝旭烈。
 
 郝旭烈: 医师好，非常开心在空中跟大家一起分享，我是郝旭烈郝哥。其实我一开始就说过，我已经是宋医师的粉丝非常多年了，您的人生智慧确实帮助了很多人，也受到了很多网友及读者的认同。

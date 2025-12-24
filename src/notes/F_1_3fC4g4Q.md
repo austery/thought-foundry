@@ -1,39 +1,38 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Amazon
+- Microsoft
+- 台积电
+- 北约
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Elon Musk
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=F_1_3fC4g4Q
 speaker: 海淀拙大叔
-tags:
-  - us-election-2024
-  - strategic-contraction
-  - fiscal-policy
-  - energy-hegemony
-  - geopolitical-competition
-title: 特朗普执政下的美国战略收缩：关税、能源与美元霸权的未来走向
-summary: 本期节目深入探讨了前总统特朗普若再次执政，可能采取的“战略大收缩”措施，旨在减少财政赤字并实现“画债”。核心策略包括大幅提高关税、利用能源霸权主导市场并建立AI算力霸权、资源掠夺、推行弱美元政策以提升出口竞争力，以及削减军费和放弃国际义务。节目将这些措施与英国历史上的帝国收缩进行对比，并预警其可能导致的全球治理体系崩塌和美元体系危机。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Elon Musk
-companies_orgs:
-  - Amazon
-  - Microsoft
-  - 台积电
-  - 北约
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了前总统特朗普若再次执政，可能采取的“战略大收缩”措施，旨在减少财政赤字并实现“画债”。核心策略包括大幅提高关税、利用能源霸权主导市场并建立AI算力霸权、资源掠夺、推行弱美元政策以提升出口竞争力，以及削减军费和放弃国际义务。节目将这些措施与英国历史上的帝国收缩进行对比，并预警其可能导致的全球治理体系崩塌和美元体系危机。
+tags:
+- energy
+- financial
+- fiscal-policy
+- geopolitical-competition
+- us-election-2024
+title: 特朗普执政下的美国战略收缩：关税、能源与美元霸权的未来走向
 ---
+
 ### 特朗普潜在的战略收缩措施概述
 
 本期“阿甘经济宏观论”第16集，由海淀拙大叔在3月23号周日为大家带来，主要讨论特朗普未来四年可能采取的战略收缩措施。特朗普的口号是“让美国再次伟大”，而实现这一目标的**抓手**（Leverage: 实现目标的有效手段）就是减少财政赤字，或者说采取美国式的**画债**（Monetizing Debt: 通过非传统手段减轻国家债务负担）策略。只有减少财政赤字，美国的国债才不会继续膨胀，对美元的信心才不会继续贬损，美国的实力才不会继续萎缩。

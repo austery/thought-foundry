@@ -1,46 +1,45 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Nasdaq
+- ECB
+- TSMC
 date: '2025-09-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Joe Biden
+- Jerome Powell
+products_models:
+- GPU
+- ASIC
+- TLT
+- WLD
+- Bitcoin
+- Ethereum
+project:
+- us-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ZpHeK6Dul-k
 speaker: Shanghao Jin
-tags:
-  - macroeconomic-cycles
-  - interest-rates
-  - fiscal-expansion
-  - ai-revolution
-  - cryptocurrency-market
-  - political-shifts
-title: 宏观冰与火：利率、AI周期与财政扩张下的市场展望
-summary: 本文深入分析了当前全球经济面临的“冰与火”两大宏观周期。在“火”的周期中，AI算力需求与全球财政扩张成为主要驱动力，预示着利率将维持在较高水平，并推动有盈利的公司发展。而在“冰”的周期中，短期经济数据可能面临下行压力。文章还探讨了美联储的降息前景、债券市场的顶部判断，以及纳斯达克代币化证券对加密货币市场流动性的影响，指出传统金融机构的介入可能改变加密市场的生态。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - Joe Biden
-  - Jerome Powell
-companies_orgs:
-  - Nasdaq
-  - ECB
-  - TSMC
-products_models:
-  - GPU
-  - ASIC
-  - TLT
-  - WLD
-  - Bitcoin
-  - Ethereum
-media_books: []
 status: evergreen
+summary: 本文深入分析了当前全球经济面临的“冰与火”两大宏观周期。在“火”的周期中，AI算力需求与全球财政扩张成为主要驱动力，预示着利率将维持在较高水平，并推动有盈利的公司发展。而在“冰”的周期中，短期经济数据可能面临下行压力。文章还探讨了美联储的降息前景、债券市场的顶部判断，以及纳斯达克代币化证券对加密货币市场流动性的影响，指出传统金融机构的介入可能改变加密市场的生态。
+tags:
+- ai-revolution
+- cycle
+- financial
+- interest-rate
+- market
+- political-shift
+title: 宏观冰与火：利率、AI周期与财政扩张下的市场展望
 ---
+
 ### 宏观大周期：冰与火的交织
 
 大家好，不好意思今天晚了一点，我们直接开始吧。我这里放了一个图，就是冰与火。今天我将从我的老本行利率开始讲起，并阐述美国乃至全球当前面临的宏观大形势。我认为我们正处于两个宏观大周期的中间，而这中间确实经历了冰与火的考验。在讲完利率之后，我也会分享一下最近对加密货币市场和A股市场的看法，因为上周关于加密货币可能只讲了10分钟，很多人对此有一些疑问。

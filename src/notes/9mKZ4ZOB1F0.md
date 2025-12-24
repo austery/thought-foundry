@@ -1,45 +1,43 @@
 ---
-author: 王红雨
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 自由党
+- 保守党
+- 加拿大抵押贷款和住房公司
+- 建造加拿大之家
+- 世界经济论坛
 date: '2025-05-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 卡尼
+- 特鲁多
+- 施瓦布
+- Donald Trump
+products_models:
+- C-61
+- 多单元租赁建筑
+project:
+- geopolitics-watch
+- systems-thinking
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=9mKZ4ZOB1F0
 speaker: 王红雨
-tags:
-  - canadian-politics
-  - left-wing-ideology
-  - housing-policy
-  - government-dependency
-  - globalism
-title: 自由党连任后的加拿大：卡尼的经济与住房计划，左派价值观的回归及个人应对策略
-summary: 2025年5月1日，加拿大自由党再次连任，引发对国家未来走向的担忧。本文深入分析了卡尼政府的经济与住房政策，指出其核心在于“大政府回归”的左派价值观，旨在通过控制房产、扩大福利、限制经济自由等方式，增加民众对政府的依赖。文章还探讨了世界经济论坛的2030愿景与加拿大政策的契合点，并为不愿依附政府的公民提供了积累财富、掌控个人命运的建议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - market-cycles
-people:
-  - 王红雨
-  - 卡尼
-  - 特鲁多
-  - 施瓦布
-  - 川普
-companies_orgs:
-  - 自由党
-  - 保守党
-  - 加拿大抵押贷款和住房公司
-  - 建造加拿大之家
-  - 世界经济论坛
-products_models:
-  - C-61
-  - 多单元租赁建筑
-media_books: []
 status: evergreen
+summary: 2025年5月1日，加拿大自由党再次连任，引发对国家未来走向的担忧。本文深入分析了卡尼政府的经济与住房政策，指出其核心在于“大政府回归”的左派价值观，旨在通过控制房产、扩大福利、限制经济自由等方式，增加民众对政府的依赖。文章还探讨了世界经济论坛的2030愿景与加拿大政策的契合点，并为不愿依附政府的公民提供了积累财富、掌控个人命运的建议。
+tags:
+- canadian-politics
+- globalism
+- government
+- housing-policy
+- society
+title: 自由党连任后的加拿大：卡尼的经济与住房计划，左派价值观的回归及个人应对策略
 ---
+
 ### 自由党连任后的加拿大：未来四年展望
 
 大家好，今天是2025年5月1号，欢迎再次回到我的频道。今天我们来聊一个令人非常失望的消息，就是4月28号自由党再次连任了。我们今天谈一谈未来四年加拿大人的前途和命运。卡尼再次当选，会继续走特鲁多的路，那么加拿大人的命运会怎么样呢？今天我将分三个小标题跟大家聊一聊。第一个是卡尼的经济计划和住房计划具体是什么。在这些计划的背后体现的是左派的一些价值观，这些左派的价值观到底是什么？这关系到未来我们四年将可能遇到的问题，以及我们应该如何应对。第三个是我自己的一些个人意见，加拿大人在面对左派继续执政的情况下，我们的前途和命运是什么样的？我们如何掌控自己的命运和前途？

@@ -1,48 +1,48 @@
 ---
-author: 北美王路飞
+area: market-analysis
+category: finance
+companies_orgs:
+- World Liberty Financial
+- Alt5 Sigma
+- MicroStrategy
+- SEC
+- FINRA
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reuters
+- The Information
+- Thompson Hine
+people:
+- Eric Trump
+- Donald Trump Jr.
+- Zach Witkowski
+- Peter
+- Jonathan Hugh
+- Ron Pitters
+- Matt Chipman
+products_models:
+- WLFI
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=Q09Z-qSBRZk
 speaker: 北美王路飞
-tags:
-  - crypto-scandal
-  - money-laundering
-  - stock-market-crash
-  - political-influence
-  - regulatory-oversight
-title: 特朗普家族加密帝国崩塌：纳斯达克敲钟背后的洗钱黑幕与信任危机
-summary: 本文揭露了特朗普家族的加密货币帝国World Liberty Financial (WLF) 及其代币WLFI，通过借壳上市Alt5 Sigma登陆纳斯达克后，在短短90天内迅速崩塌的始末。从高调敲钟到股价暴跌，再到管理层大清洗和卢旺达洗钱案的曝光，这起事件不仅让投资者血本无归，也引发了对政治光环下金融项目风险、信息隐瞒以及监管缺失的深刻反思。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Eric Trump
-  - Donald Trump Jr.
-  - Zach Witkowski
-  - Peter
-  - Jonathan Hugh
-  - Ron Pitters
-  - Matt Chipman
-companies_orgs:
-  - World Liberty Financial
-  - Alt5 Sigma
-  - MicroStrategy
-  - SEC
-  - FINRA
-products_models:
-  - WLFI
-media_books:
-  - Reuters
-  - The Information
-  - Thompson Hine
 status: evergreen
+summary: 本文揭露了特朗普家族的加密货币帝国World Liberty Financial (WLF) 及其代币WLFI，通过借壳上市Alt5 Sigma登陆纳斯达克后，在短短90天内迅速崩塌的始末。从高调敲钟到股价暴跌，再到管理层大清洗和卢旺达洗钱案的曝光，这起事件不仅让投资者血本无归，也引发了对政治光环下金融项目风险、信息隐瞒以及监管缺失的深刻反思。
+tags:
+- crypto-scandal
+- investment
+- political-influence
+- regulatory
+- stock-market-crash
+title: 特朗普家族加密帝国崩塌：纳斯达克敲钟背后的洗钱黑幕与信任危机
 ---
+
 ### 特朗普家族加密帝国的风光上市与诡异开局
 
 2025年8月13日，在纽约时代广场，Eric Trump和他的哥哥Donald Trump Jr.正站在世界金融舞台的绝对C位。随着一声钟响，他们宣布了一件大事：特朗普家族的加密货币帝国**World Liberty Financial**（WLF: 特朗普家族的加密货币帝国），简称WLF，正式通过一家上市公司借壳登陆纳斯达克。Eric当时对着镜头说了一句口气非常大的话：“我们将永远地改变金融业。”那一刻看起来风光无限，闪光灯与欢呼声此起彼伏，15亿美元的估值交易，一切都像是这一家人又一次商业胜利的加冕礼。

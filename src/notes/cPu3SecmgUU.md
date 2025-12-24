@@ -1,44 +1,44 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Google
+- Anthropic
 date: '2024-03-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- gw's scaling hypothesis post
+people:
+- Sholto Douglas
+- Trenton Bricken
+- James Bradbury
+- Tristan Hume
+- Bruno Olous
+- Andy Jones
+- LeBron
+products_models:
+- Transformers
+- Large Multimodal Models
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=cPu3SecmgUU
 speaker: Dwarkesh Patel
-tags:
-  - agency
-  - ai-research
-  - career-development
-  - problem-selection
-  - deep-caring
-title: How They Became Leading AI Researchers in Just 1 Year – Sholto Douglas & Trenton Bricken
-summary: 本期播客探讨了**Sholto Douglas**和**Trenton Bricken**如何在短短一年到一年半的时间内，通过展现出极强的**主动性（agency）**、对问题的**深度投入**以及精准的**高杠杆问题选择**，在AI研究领域做出重要贡献。节目还深入剖析了他们各自的职业发展路径，包括如何通过积极主动地研究、参与学术交流以及与顶尖研究者建立联系，从而抓住机遇，实现快速成长，并强调了系统并非总是对个人有利，主动出击的重要性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sholto Douglas
-  - Trenton Bricken
-  - Dwarkesh Patel
-  - James Bradbury
-  - Tristan Hume
-  - Bruno Olous
-  - Andy Jones
-  - LeBron
-companies_orgs:
-  - Google
-  - Anthropic
-products_models:
-  - Transformers
-  - Large Multimodal Models
-media_books:
-  - gw's scaling hypothesis post
 status: evergreen
+summary: 本期播客探讨了**Sholto Douglas**和**Trenton Bricken**如何在短短一年到一年半的时间内，通过展现出极强的**主动性（agency）**、对问题的**深度投入**以及精准的**高杠杆问题选择**，在AI研究领域做出重要贡献。节目还深入剖析了他们各自的职业发展路径，包括如何通过积极主动地研究、参与学术交流以及与顶尖研究者建立联系，从而抓住机遇，实现快速成长，并强调了系统并非总是对个人有利，主动出击的重要性。
+tags:
+- ai-research
+- career-development
+- history
+- problem
+- technology
+title: How They Became Leading AI Researchers in Just 1 Year – Sholto Douglas & Trenton
+  Bricken
 ---
+
 ### 快速成长之路
 
 主持人 **Dwarkesh Patel** 感到好奇，想了解嘉宾 **Sholto Douglas** 和 **Trenton Bricken** 是如何在一年或一年半的时间里，在各自的领域做出重要贡献的。他提到，这其中固然有运气成分，但他也感觉自己很幸运，在职业发展的不同阶段，时机都恰到好处，帮助他迈向了新的成长高度。

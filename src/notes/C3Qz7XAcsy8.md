@@ -1,53 +1,53 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-03-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《待业青年》
+- 《待业青年2》
+- 《别告诉她》
+- 《喜宴》
+- 《杰出公民》
+- IMDb
+- documentary-filming
+people:
+- 张内咸
+- 邓小平
+- 袁腾飞
+- 罗永浩
+- 任志强
+- 五岳散人
+- 薄熙来
+- 王子逸
+- Billi
+- 奥卡菲娜
+- 李安
+- 丹尼尔·曼托瓦尼
+- 谷爱凌
+- 莫言
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=C3Qz7XAcsy8
 speaker: 張内咸
-tags:
-  - unemployment-china
-  - cultural-differences
-  - identity-crisis
-  - documentary-filming
-  - us-china-relations
-title: 身份、立场与认知的交锋：从中国失业潮到《别告诉她》的文化反思
-summary: 本文探讨了中国社会在经济转型期的失业困境，以及在拍摄纪录片时遇到的真实表达障碍。主持人张内咸通过个人经历和对电影《别告诉她》的深入分析，揭示了中美文化、集体主义与个人主义、真相与善意谎言之间的深刻冲突。文章还讨论了华裔移民的身份认同困境，以及不同立场如何塑造人们对“中国好还是美国好”这一问题的认知与回答。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - cultural-critique
-people:
-  - 张内咸
-  - 邓小平
-  - 袁腾飞
-  - 罗永浩
-  - 任志强
-  - 五岳散人
-  - 薄熙来
-  - 王子逸
-  - Billi
-  - 奥卡菲娜
-  - 李安
-  - 丹尼尔·曼托瓦尼
-  - 谷爱凌
-  - 莫言
-companies_orgs: []
-products_models: []
-media_books:
-  - 《待业青年》
-  - 《待业青年2》
-  - 《别告诉她》
-  - 《喜宴》
-  - 《杰出公民》
-  - IMDb
 status: evergreen
+summary: 本文探讨了中国社会在经济转型期的失业困境，以及在拍摄纪录片时遇到的真实表达障碍。主持人张内咸通过个人经历和对电影《别告诉她》的深入分析，揭示了中美文化、集体主义与个人主义、真相与善意谎言之间的深刻冲突。文章还讨论了华裔移民的身份认同困境，以及不同立场如何塑造人们对“中国好还是美国好”这一问题的认知与回答。
+tags:
+- china
+- crisis
+- cultural-difference
+- us-china-relations
+title: 身份、立场与认知的交锋：从中国失业潮到《别告诉她》的文化反思
 ---
+
 ### 中国社会观察：从经济回暖到失业潮的困境
 
 我是张内咸，又和大家见面了。2023年疫情刚结束时，许多人对中国经济抱有很强的信心，这不仅是受官方宣传影响，很多人真心认为只要解除封控，经济就会好转。因此，2023年确实经历了一段回暖期。然而，转眼到了2024年，许多人开始发现情况不妙，各行各业似乎都在崩溃。作为80后，像我们这个年龄段的人，基本上都失业了。没有失业的话，你又能做什么呢？那些糟糕的职业选择，比如所谓的“铁人三项”、“吉祥三保”或“创业跳楼三部曲”，反正没有一条好路是留给你的。

@@ -1,38 +1,37 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《原始思维》
+- 《田园诗与狂想曲》
+people:
+- Lévy-Bruhl
+- Descartes
+- Kant
+- 秦晖
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=HgcE--fMi_s
 speaker: Anthony看世界
-tags:
-  - collective-representation
-  - primitive-thinking
-  - rationality-suppression
-  - social-conformity
-  - implicit-relational-knowledge
-title: 集体表象：原始思维在现代社会的延续与理性压制
-summary: 本视频深入探讨了法国人类学家列维-布留尔提出的“集体表象”概念，解释了原始思维如何在现代社会中顽固存在，并压制个体的理性思考能力。通过分析“互渗律”和“原始逻辑”的特点，揭示了集体情绪如何取代客观事实，导致思维中的矛盾共存。视频以中国社会为例，探讨了春节家庭聚会、高考动员等场景中集体表象对个人独立判断和人际关系建构的深远影响，并强调了多元社会连接对于培养自由个性的重要性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Lévy-Bruhl
-  - Descartes
-  - Kant
-  - 秦晖
-companies_orgs: []
-products_models: []
-media_books:
-  - 《原始思维》
-  - 《田园诗与狂想曲》
 status: evergreen
+summary: 本视频深入探讨了法国人类学家列维-布留尔提出的“集体表象”概念，解释了原始思维如何在现代社会中顽固存在，并压制个体的理性思考能力。通过分析“互渗律”和“原始逻辑”的特点，揭示了集体情绪如何取代客观事实，导致思维中的矛盾共存。视频以中国社会为例，探讨了春节家庭聚会、高考动员等场景中集体表象对个人独立判断和人际关系建构的深远影响，并强调了多元社会连接对于培养自由个性的重要性。
+tags:
+- canada
+- philosophy
+- social
+- thinking
+title: 集体表象：原始思维在现代社会的延续与理性压制
 ---
+
 ### 原始思维的现代回响：互渗律与集体表象
 
 我们今天继续探讨**集体表象**（Collective Representation）这一概念。在之前的讨论中，我们分析了一种古老却在当代普遍存在的心理状态——**互渗律**（Interpenetration rate）。当一个人的主体性不发达，无法建立清晰的心理边界时，他就会陷入一种主体与客体不分明的混沌之中。在他的世界里，主观意志可以取代客观事实，情感波动被投射为外部世界的敌意。他不再是一个独立的观察者，而是沉沦于环境中，总感觉自己被神秘的外部力量渗透和影响。

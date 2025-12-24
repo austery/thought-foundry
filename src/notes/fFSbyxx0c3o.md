@@ -1,56 +1,56 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 美国电影协会
+- 英国电影分级委员会
+- 日本映画伦理机构
+- 中国共产党
 date: '2025-08-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《南京照相馆》
+- 《南京南京》
+- 《金陵十三钗》
+- film-censorship
+people:
+- 石破茂
+- 陆川
+- 张艺谋
+- 赖宁
+- 申奥
+- 成龙
+- 姜文
+products_models:
+- Ultraman
+- 假面骑士
+- 精灵宝可梦
+- Switch
+- 毒液3
+- 角斗士2
+- 异形Romulus
+- 死侍
+project:
+- china-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=fFSbyxx0c3o
 speaker: 張内咸
-tags:
-  - china-japan-relations
-  - film-censorship
-  - political-propaganda
-  - child-psychology
-  - rule-of-law
-  - zh-h-i
-title: 中国电影不分级：谁在毁掉孩子的未来与国家形象？
-summary: 本期节目深入探讨了中国电影缺乏分级制度的深层原因及其带来的严重后果。从近期引发争议的电影《南京照相馆》入手，揭示了煽动仇恨教育对儿童心理的负面影响，并批判了官方审查制度的荒谬与双标。节目进一步分析了中国无法建立分级制度与法治缺失的关联，以及“支黑”现象在其中扮演的复杂角色，呼吁社会各界关注儿童保护与文明底线。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - 石破茂
-  - 陆川
-  - 张艺谋
-  - 赖宁
-  - 申奥
-  - 成龙
-  - 姜文
-companies_orgs:
-  - 美国电影协会
-  - 英国电影分级委员会
-  - 日本映画伦理机构
-  - 中国共产党
-products_models:
-  - Ultraman
-  - 假面骑士
-  - 精灵宝可梦
-  - Switch
-  - 毒液3
-  - 角斗士2
-  - 异形Romulus
-  - 死侍
-media_books:
-  - 《南京照相馆》
-  - 《南京南京》
-  - 《金陵十三钗》
 status: evergreen
+summary: 本期节目深入探讨了中国电影缺乏分级制度的深层原因及其带来的严重后果。从近期引发争议的电影《南京照相馆》入手，揭示了煽动仇恨教育对儿童心理的负面影响，并批判了官方审查制度的荒谬与双标。节目进一步分析了中国无法建立分级制度与法治缺失的关联，以及“支黑”现象在其中扮演的复杂角色，呼吁社会各界关注儿童保护与文明底线。
+tags:
+- china-japan-relations
+- political
+- psychology
+- rule-of-law
+- zh-h-i
+title: 中国电影不分级：谁在毁掉孩子的未来与国家形象？
 ---
+
 ### 开场与片源分享
 
 大家好，我是张内咸，又见面了。首先要跟大家说一声对不起，上一期节目我分享了自己很早以前拍的几支影片，我把片源上传到Google Drive里面，给大家贴出了网盘链接。但是陆续有朋友跟我反馈，由于短时间之内有太多用户下载这几个文件，单日流量的限额被打爆了，所以这几天线路会有点拥堵，大家可能不太容易把这几个文件下载到本地。这是Google官方的机制，买会员也没用，我暂时也没想到更好的解决方案，实在抱歉。有的人提议说可以直接上传到YouTube上，但这种方式也是不行的，因为我的早期影片没有任何发行方和出品方，就是完全靠我自己一个人独立制作的。如果传到YouTube上面会被锁，你们也还是看不到，因为平台判定这是用户私自上传盗版电影。国外的独立电影发行不能这么干，也没人这么干。我估计全世界除了我以外，没有另外一个导演转行去做YouTuber了吧，所以我这种情况太特殊了。一般来说，独立电影应该找独立电影的发行平台去合作，比如MUBI这类的网站你们听说过吗？类似于这种平台还有很多，总之是不能直接传YouTube。但我早期的这些影片都是十几年前的老黄历了，如今也没必要再折腾这些事，给大家直接开源就好了。反正用Google Drive线上观看跟在YouTube上看也没有什么区别，等线路不拥堵的时候，大家还是可以保存到本地的。总之关于片源分享的问题，如果大家有什么好的建议，可以随时给我留言。好，现在开始我们本期的内容。

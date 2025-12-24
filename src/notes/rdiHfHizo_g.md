@@ -1,39 +1,38 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- Harbour Air
+- CMHC
+- Ocean Concrete
+- River Rock Casino
 date: '2025-08-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《庄也杂谈》
+people:
+- 查尔斯王子
+- 布莱恩·马尔罗尼
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=rdiHfHizo_g
 speaker: 莊也雜談
-tags:
-  - vancouver-travel
-  - city-exploration
-  - public-markets
-  - travel-experiences
-  - urban-culture
-title: 温哥华之旅（二）：从斯坦利公园骑行到格兰维尔岛，体验城市与自然的交融
-summary: 本集继续温哥华之旅。主持人庄也分享了在斯坦利公园骑行海堤步道的惬意体验，以及温哥华独特多变的天气。随后，他驾车游览了市中心的蒸汽钟和唐人街，并深入探索了格兰维尔岛的公共市场与工业艺术。尽管行程有所调整，未能品尝斑点虾或逛夜市，但旅途中意外的惊喜和与朋友的聚会，让他体会到旅行的真谛在于融入城市生活，而非刻板打卡。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - 查尔斯王子
-  - 布莱恩·马尔罗尼
-companies_orgs:
-  - Harbour Air
-  - CMHC
-  - Ocean Concrete
-  - River Rock Casino
-products_models: []
-media_books:
-  - 《庄也杂谈》
 status: evergreen
+summary: 本集继续温哥华之旅。主持人庄也分享了在斯坦利公园骑行海堤步道的惬意体验，以及温哥华独特多变的天气。随后，他驾车游览了市中心的蒸汽钟和唐人街，并深入探索了格兰维尔岛的公共市场与工业艺术。尽管行程有所调整，未能品尝斑点虾或逛夜市，但旅途中意外的惊喜和与朋友的聚会，让他体会到旅行的真谛在于融入城市生活，而非刻板打卡。
+tags:
+- culture
+- market
+- society
+- travel
+title: 温哥华之旅（二）：从斯坦利公园骑行到格兰维尔岛，体验城市与自然的交融
 ---
+
 ### 温哥华旅行续篇：斯坦利公园的骑行与城市探索
 
 今儿，咱们继续讲述在温哥华的旅行，这是第二集。如果您没有看第一集的话，欢迎回去收看。很多人可能注意到我的肤色明显变黑了，这是因为家里来了亲戚，打算停留一个月左右。上周是第一周，我带他们在多伦多周边到处跑，结果被多伦多毒辣的太阳晒黑了一圈。这个视频也因此没时间做，让大家久等了，先说声抱歉。当然，这个视频没时间做不怪别人，还是怪我自己，家里来亲戚，心里就长草了，静不下心来。今儿他们出去安排别的活动了，我正好抽时间录制温哥华旅行的第二集。

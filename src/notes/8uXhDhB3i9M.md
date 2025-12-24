@@ -1,63 +1,62 @@
 ---
-author: FearNation 世界苦茶
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 欧盟
+- 北约
+- 国民党
+- 民进党
+- 中国共产党
+- 美国在台协会
+- 民主基金会
+- 改革党
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《2025年美国国家安全战略》
+- 《崩盘：全球危机如何重塑世界》
+- 《官僚与政策制定》
+people:
+- Donald Trump
+- Joe Biden
+- Nicolás Maduro
+- Sanae Takaichi
+- Emmanuel Macron
+- Friedrich Merz
+- Michael Anton
+- Stephen Miller
+- Elbridge Colby
+- Henry Kissinger
+- Charles de Gaulle
+- Ursula von der Leyen
+- 赖清德
+- 郑丽文
+- Marco Rubio
+- J.D. Vance
+- Mike Watts
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=8uXhDhB3i9M
 speaker: FearNation 世界苦茶
-tags:
-  - us-national-security-strategy
-  - geopolitical-competition
-  - economic-statecraft
-  - political-polarization
-  - populism
-  - cross-strait-relations
-  - us-europe-relations
-title: 美国国家安全战略的经济转向与地缘政治博弈：美中台欧关系深度解析
-summary: 本次讨论深入探讨了2025年美国国家安全战略（NSS）的核心变化，特别是其对经济安全和产业政策的强调，以及对意识形态对抗的淡化。与会者就中美对抗的未来走向、台湾地位、特朗普主义下的美欧关系结构性矛盾、门罗主义的回归、以及中国内部民粹主义与分配问题等议题展开了多角度的分析与辩论，揭示了全球地缘政治格局中经济因素日益增长的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Joe Biden
-  - Nicolás Maduro
-  - Sanae Takaichi
-  - Emmanuel Macron
-  - Friedrich Merz
-  - Michael Anton
-  - Stephen Miller
-  - Elbridge Colby
-  - Henry Kissinger
-  - Charles de Gaulle
-  - Ursula von der Leyen
-  - 赖清德
-  - 郑丽文
-  - Marco Rubio
-  - J.D. Vance
-  - Mike Watts
-companies_orgs:
-  - 欧盟
-  - 北约
-  - 国民党
-  - 民进党
-  - 中国共产党
-  - 美国在台协会
-  - 民主基金会
-  - 改革党
-products_models: []
-media_books:
-  - 《2025年美国国家安全战略》
-  - 《崩盘：全球危机如何重塑世界》
-  - 《官僚与政策制定》
 status: evergreen
+summary: 本次讨论深入探讨了2025年美国国家安全战略（NSS）的核心变化，特别是其对经济安全和产业政策的强调，以及对意识形态对抗的淡化。与会者就中美对抗的未来走向、台湾地位、特朗普主义下的美欧关系结构性矛盾、门罗主义的回归、以及中国内部民粹主义与分配问题等议题展开了多角度的分析与辩论，揭示了全球地缘政治格局中经济因素日益增长的重要性。
+tags:
+- cross-strait-relations
+- economic
+- geopolitical-competition
+- populism
+- relations
+- us-national-security-strategy
+title: 美国国家安全战略的经济转向与地缘政治博弈：美中台欧关系深度解析
 ---
+
 ### 中美对抗的未来走向：制度性改变与经济博弈
 
 **FearNation 世界苦茶:** 大家好，欢迎来到互动环节。

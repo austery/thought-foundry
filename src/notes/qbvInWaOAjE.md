@@ -1,55 +1,54 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: geopolitics
+companies_orgs:
+- PayPal
+- 京东
+- Alibaba
+- Polymarket
+- Block
+- Walmart
+- Koch Industries
+- Twitter
+- X
+- Microsoft
+- Moody's
+- S&P Global
+- Bloomberg
+- Nike
+- Starbucks
+- Lululemon
 date: '2025-06-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Kris
+- Kevin
+- Warren Buffett
+- Charlie Munger
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=qbvInWaOAjE
 speaker: Shijun Tang
-tags:
-  - moat-analysis
-  - long-term-investing
-  - pricing-power
-  - network-effects
-  - capital-efficiency
-title: PayPal护城河是否仍在？与超级投资人Kris的护城河框架深度解析
-summary: 本文深入分析PayPal当前的商业护城河状况，结合超级投资人Kris爵士对护城河的系统性框架（包括有形资产、知识产权、网络效应与定价权），重新审视其投资价值，并对比京东的供应链优势，揭示长期持有策略在低波动资产中的核心意义。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Shijun Tang
-  - Kris
-  - Kevin
-  - Warren Buffett
-  - Charlie Munger
-companies_orgs:
-  - PayPal
-  - 京东
-  - Alibaba
-  - Polymarket
-  - Block
-  - Walmart
-  - Koch Industries
-  - Twitter
-  - X
-  - Microsoft
-  - Moody's
-  - S&P Global
-  - Bloomberg
-  - Nike
-  - Starbucks
-  - Lululemon
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入分析PayPal当前的商业护城河状况，结合超级投资人Kris爵士对护城河的系统性框架（包括有形资产、知识产权、网络效应与定价权），重新审视其投资价值，并对比京东的供应链优势，揭示长期持有策略在低波动资产中的核心意义。
+tags:
+- capital
+- long-term-investing
+- moat-analysis
+- network-effect
+- pricing-power
+title: PayPal护城河是否仍在？与超级投资人Kris的护城河框架深度解析
 ---
+
 ### PayPal的护城河：增长停滞下的真实价值
 
 PayPal的股价长期低迷，近1150天涨幅仅为3.2%，远低于标普500指数同期约4%的年化回报。这是否意味着它是一次失败的投资？答案并非如此简单。

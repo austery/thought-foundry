@@ -1,48 +1,49 @@
 ---
-author: 北美王路飞
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Hancock公司
+- MP Materials
+- Lynas
+- Arafura Rare Earth
+- Liontown Resources
+- Terra Capital
+- St George Mining
+- 福特汽车公司
+- 五角大楼
+- 美国进出口银行
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 彭博社
+- 美国地质调查局
+people:
+- 吉娜·莱因哈特
+- Donald Trump
+- 阿尔巴尼斯
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=pcmb0Q4sgKU
 speaker: 北美王路飞
-tags:
-  - us-china-competition
-  - rare-earths-supply-chain
-  - critical-minerals
-  - geopolitical-weaponization
-  - de-risking-strategy
-title: 澳大利亚首富吉娜·莱因哈特：稀土地缘政治博弈中的百亿布局
-summary: 澳大利亚首富吉娜·莱因哈特，一位特朗普的坚定支持者，在全球地缘政治博弈中，通过精准布局非中国稀土供应链，使其财富净值飙升至329亿澳元。文章深入探讨了稀土作为现代工业“魔法石”的重要性、中国在稀土精炼和永磁体制造领域的绝对主导地位，以及西方国家“脱钩”和“去风险化”的战略需求。莱因哈特的投资策略，尤其是在美国MP Materials和澳大利亚Lynas等公司的重注，完美契合了西方建立独立供应链的愿景，并获得了政府的大力支持，揭示了稀土已成为21世纪地缘政治牌桌上的关键筹码。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 吉娜·莱因哈特
-  - Donald Trump
-  - 阿尔巴尼斯
-companies_orgs:
-  - Hancock公司
-  - MP Materials
-  - Lynas
-  - Arafura Rare Earth
-  - Liontown Resources
-  - Terra Capital
-  - St George Mining
-  - 福特汽车公司
-  - 五角大楼
-  - 美国进出口银行
-products_models: []
-media_books:
-  - 彭博社
-  - 美国地质调查局
 status: evergreen
+summary: 澳大利亚首富吉娜·莱因哈特，一位特朗普的坚定支持者，在全球地缘政治博弈中，通过精准布局非中国稀土供应链，使其财富净值飙升至329亿澳元。文章深入探讨了稀土作为现代工业“魔法石”的重要性、中国在稀土精炼和永磁体制造领域的绝对主导地位，以及西方国家“脱钩”和“去风险化”的战略需求。莱因哈特的投资策略，尤其是在美国MP
+  Materials和澳大利亚Lynas等公司的重注，完美契合了西方建立独立供应链的愿景，并获得了政府的大力支持，揭示了稀土已成为21世纪地缘政治牌桌上的关键筹码。
+tags:
+- critical-mineral
+- geopolitical
+- rare-earths-supply-chain
+- strategy
+- us-china-relations
+title: 澳大利亚首富吉娜·莱因哈特：稀土地缘政治博弈中的百亿布局
 ---
+
 ### 稀土：地缘政治博弈中的意外赢家
 
 当今世界，地缘政治博弈的焦点往往集中在白宫的关税、AI芯片战或南海的航母上。然而，一个可能出乎意料的赢家正在浮出水面，她不在华盛顿，也不在硅谷，而是远在地球另一端的澳大利亚珀斯。她就是澳大利亚首富吉娜·莱因哈特。这位女富豪是Donald Trump的铁杆支持者，也是一位著名的“川粉”，更是海湖庄园的常客，甚至还入股了Donald Trump的社交媒体公司。然而，她真正赚大钱的手段比这些都“土”得多。

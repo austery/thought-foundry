@@ -1,46 +1,43 @@
 ---
-author: Veritasium
-date: '2021-09-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=KT18KJouHWg
-speaker: Veritasium
-tags:
-  - veritasium
-  - forensic-genetics
-  - cold-case-solving
-  - dna-privacy
-  - genetic-genealogy
-  - law-enforcement-ethics
-title: 金州杀手案：基因家谱如何改变冷案侦破与隐私边界
-summary: 本文深入探讨了“金州杀手”约瑟夫·迪安吉洛的抓捕过程，揭示了基因家谱技术在解决悬案中的革命性作用。通过分析短串联重复序列（STR）和单核苷酸多态性（SNP）等DNA技术，文章阐述了CODIS数据库与消费者基因数据库（如GEDmatch）的区别及其在执法中的应用。同时，文章也探讨了这项技术带来的隐私与公共安全之间的伦理困境，以及未来法律可能面临的挑战，呼吁社会对基因信息的使用做出知情决策。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - us-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Joseph James DeAngelo
-  - Paul Holes
+category: general
 companies_orgs:
-  - FBI
-  - Family Tree DNA
-  - 23andMe
-  - Ancestry.com
-  - GEDmatch
-  - Verogen
-  - Hobby Lobby
-products_models:
-  - CODIS
-  - Family Finder
+- FBI
+- Family Tree DNA
+- 23andMe
+- Ancestry.com
+- GEDmatch
+- Verogen
+- Hobby Lobby
+date: '2021-09-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Brilliant
+- Brilliant
+people:
+- Joseph James DeAngelo
+- Paul Holes
+products_models:
+- CODIS
+- Family Finder
+project:
+- us-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=KT18KJouHWg
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了“金州杀手”约瑟夫·迪安吉洛的抓捕过程，揭示了基因家谱技术在解决悬案中的革命性作用。通过分析短串联重复序列（STR）和单核苷酸多态性（SNP）等DNA技术，文章阐述了CODIS数据库与消费者基因数据库（如GEDmatch）的区别及其在执法中的应用。同时，文章也探讨了这项技术带来的隐私与公共安全之间的伦理困境，以及未来法律可能面临的挑战，呼吁社会对基因信息的使用做出知情决策。
+tags:
+- cold-case-solving
+- health
+- law
+title: 金州杀手案：基因家谱如何改变冷案侦破与隐私边界
 ---
+
 ### 金州杀手：从维萨利亚到南加州的罪行升级
 
 本视频讨论了可能令某些观众感到不安的严重罪行，因此我希望提前告知大家，但我认为有必要详细讨论这些罪行，其原因将很快变得明朗。在20世纪70年代中期，加利福尼亚州维萨利亚（Visalia）这个小镇上，该州最多产的罪犯之一开始了他的犯罪生涯。他反复闯入民宅并偷窃现金、硬币和珠宝等小物件。他被冠以“**维萨利亚洗劫者**”（Visalia ransacker）的绰号，但很快他的罪行升级了。

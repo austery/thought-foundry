@@ -1,71 +1,71 @@
 ---
-author: Norges Bank Investment Management
+area: tech-insights
+category: technology
+companies_orgs:
+- Alphabet
+- Google
+- Norges Bank Investment Management
+- YouTube
+- Waymo
+- Wing
+- Intrinsic
+- Nvidia
+- Morgan Stanley
+- US Treasury
+- Fannie Mae
+- Freddie Mac
+- AIG
+- Walmart
+- Google DeepMind
+- Google Labs
 date: '2025-03-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+people:
+- Ruth Porat
+- Nicola Tangan
+- Demis Hassabis
+- John Jumper
+- Sundar Pichai
+- Larry Page
+- Sergey Brin
+- Bill Campbell
+- James Gorman
+- Hank Paulson
+- Charlie Munger
+products_models:
+- Gemini
+- TPUs
+- AlphaFold
+- Willow Quantum chip
+- Android
+- Transformer paper
+- AI Overviews
+- Trillium chip
+- NotebookLM
+- Google Lens
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=hcWSDxrE1uI
 speaker: Norges Bank Investment Management
-tags:
-  - ai-development
-  - quantum-computing
-  - autonomous-vehicles
-  - innovation-culture
-  - digital-infrastructure
-title: Alphabet总裁露丝·波拉特：AI竞赛、量子计算与谷歌创新文化
-summary: Alphabet总裁兼首席投资官露丝·波拉特深入探讨了谷歌在AI领域的独特优势，包括其全栈式方法、对高质量模型的坚持以及对“增强智能”的愿景。她分享了谷歌在量子计算、自动驾驶（Waymo）和“登月项目”（X部门）上的进展，并强调了长期投资、创新文化和数据驱动决策的重要性。波拉特女士结合个人经历，阐述了AI在医疗健康领域的巨大潜力，并分享了她在金融危机中学到的宝贵经验，以及谷歌如何通过“求知若饥，虚心若愚”的精神应对未来挑战。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Ruth Porat
-  - Nicola Tangan
-  - Demis Hassabis
-  - John Jumper
-  - Sundar Pichai
-  - Larry Page
-  - Sergey Brin
-  - Bill Campbell
-  - James Gorman
-  - Hank Paulson
-  - Charlie Munger
-companies_orgs:
-  - Alphabet
-  - Google
-  - Norges Bank Investment Management
-  - YouTube
-  - Waymo
-  - Wing
-  - Intrinsic
-  - Nvidia
-  - Morgan Stanley
-  - US Treasury
-  - Fannie Mae
-  - Freddie Mac
-  - AIG
-  - Walmart
-  - Google DeepMind
-  - Google Labs
-products_models:
-  - Gemini
-  - TPUs
-  - AlphaFold
-  - Willow Quantum chip
-  - Android
-  - Transformer paper
-  - AI Overviews
-  - Trillium chip
-  - NotebookLM
-  - Google Lens
-media_books:
-  - In Good Company
 status: evergreen
+summary: Alphabet总裁兼首席投资官露丝·波拉特深入探讨了谷歌在AI领域的独特优势，包括其全栈式方法、对高质量模型的坚持以及对“增强智能”的愿景。她分享了谷歌在量子计算、自动驾驶（Waymo）和“登月项目”（X部门）上的进展，并强调了长期投资、创新文化和数据驱动决策的重要性。波拉特女士结合个人经历，阐述了AI在医疗健康领域的巨大潜力，并分享了她在金融危机中学到的宝贵经验，以及谷歌如何通过“求知若饥，虚心若愚”的精神应对未来挑战。
+tags:
+- ai-development
+- autonomous-vehicle
+- culture
+- digital
+- quantum-computing
+title: Alphabet总裁露丝·波拉特：AI竞赛、量子计算与谷歌创新文化
 ---
+
 ### 引言：Alphabet总裁谈科技前沿
 
 挪威主权财富基金（**Norges Bank Investment Management**）的首席执行官尼古拉·坦根（Nicola Tangan）在“In Good Company”播客中，邀请了**Alphabet**（Alphabet: 谷歌的母公司）总裁兼首席投资官露丝·波拉特（Ruth Porat）进行访谈。

@@ -1,52 +1,51 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- 加拿大税务局
+- CPP投资委员会
+- RBC
+- 加拿大统计局
 date: '2024-01-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 庄也
+products_models:
+- Canada Child Benefit
+- Ontario Child Benefit
+- BC Family Benefit
+- Child Disability Benefit
+- Registered Education Savings Plan
+- Canada Education Savings Grant
+- Canada Learning Bond
+- Old Age Security
+- Guaranteed Income Supplement
+- Allowance
+- Allowance for the Survivor
+- Canada Pension Plan
+- Quebec Pension Plan
+- Registered Retirement Savings Plan
+- Defined Benefit Pension Plan
+- Defined Contribution Pension Plan
+- Canadian Retirement Income Calculator
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=f-_Gz0RRvdw
 speaker: 莊也雜談
-tags:
-  - canada-welfare
-  - child-benefits
-  - senior-benefits
-  - retirement-planning
-  - social-security
-title: 深度解析：加拿大儿童与老人福利体系，是天堂还是温饱线？
-summary: 本文深入探讨了加拿大针对儿童和老人的各项社会福利政策，包括联邦和省级儿童福利金（CCB、OCB）、免费义务教育、注册教育储蓄计划（RESP），以及老年金（OAS）、低收入补助金（GIS）、配偶津贴、加拿大养老金计划（CPP）和注册退休储蓄计划（RRSP）等。文章详细介绍了各项福利的申请条件、领取金额及计算方式，并分析了这些福利对不同收入家庭和退休生活质量的影响，旨在帮助读者全面了解加拿大的福利体系，并强调福利作为社会底线而非躺平的工具。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project: []
-people:
-  - 庄也
-companies_orgs:
-  - 加拿大税务局
-  - CPP投资委员会
-  - RBC
-  - 加拿大统计局
-products_models:
-  - Canada Child Benefit
-  - Ontario Child Benefit
-  - BC Family Benefit
-  - Child Disability Benefit
-  - Registered Education Savings Plan
-  - Canada Education Savings Grant
-  - Canada Learning Bond
-  - Old Age Security
-  - Guaranteed Income Supplement
-  - Allowance
-  - Allowance for the Survivor
-  - Canada Pension Plan
-  - Quebec Pension Plan
-  - Registered Retirement Savings Plan
-  - Defined Benefit Pension Plan
-  - Defined Contribution Pension Plan
-  - Canadian Retirement Income Calculator
-media_books: []
 status: evergreen
+summary: 本文深入探讨了加拿大针对儿童和老人的各项社会福利政策，包括联邦和省级儿童福利金（CCB、OCB）、免费义务教育、注册教育储蓄计划（RESP），以及老年金（OAS）、低收入补助金（GIS）、配偶津贴、加拿大养老金计划（CPP）和注册退休储蓄计划（RRSP）等。文章详细介绍了各项福利的申请条件、领取金额及计算方式，并分析了这些福利对不同收入家庭和退休生活质量的影响，旨在帮助读者全面了解加拿大的福利体系，并强调福利作为社会底线而非躺平的工具。
+tags:
+- canada
+- child
+- retirement-planning
+- senior-benefit
+- social
+title: 深度解析：加拿大儿童与老人福利体系，是天堂还是温饱线？
 ---
+
 ### 加拿大福利体系概览：儿童与老人的“天堂”之辩
 
 大家好，我是庄也，欢迎收看“庄也杂谈加拿大”的“深度观察系列”。今天我们将继续探讨加拿大的优点，特别是社会生活中的重要一环——福利。谈到福利，主要针对三大群体：儿童、老人以及弱势群体。我们常说加拿大是儿童和老人的天堂，这句话究竟是真是假？例如，养孩子是否真的由政府资助，基本不花钱？普通工薪阶层退休后能拿到多少退休金，是否足以过上衣食无忧、偶尔旅游的生活？本期节目将为您详细解答这些与您切身利益息息相关的问题。

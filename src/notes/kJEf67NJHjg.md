@@ -1,39 +1,39 @@
 ---
-author: 安争鸣（Stella An）
+area: society-thinking
+category: philosophy-thinking
+companies_orgs: []
 date: '2025-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《文化的重要作用：价值观如何影响人类进步》
+- 《新教伦理与资本主义精神》
+- 《资本论》
+people:
+- 安争鸣
+- 马克斯·韦伯
+- 马丁·路德
+- 加尔文
+- 卡尔·马克思
+- 本杰明·富兰克林
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=kJEf67NJHjg
 speaker: 安争鸣（Stella An）
-tags:
-  - protestant-ethic
-  - capitalism
-  - modernization
-  - max-weber
-  - rationality
-title: 《新教伦理与资本主义精神》：文化如何塑造现代资本主义
-summary: 本期节目深入解读马克斯·韦伯的经典著作《新教伦理与资本主义精神》，探讨新教伦理如何塑造了与现代资本主义高度契合的精神，解释了为何现代资本主义首先兴起于欧洲新教地区，并分析了其对现代社会“铁笼”困境的预言。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - 安争鸣
-  - 马克斯·韦伯
-  - 马丁·路德
-  - 加尔文
-  - 卡尔·马克思
-  - 本杰明·富兰克林
-companies_orgs: []
-products_models: []
-media_books:
-  - 《文化的重要作用：价值观如何影响人类进步》
-  - 《新教伦理与资本主义精神》
-  - 《资本论》
 status: evergreen
+summary: 本期节目深入解读马克斯·韦伯的经典著作《新教伦理与资本主义精神》，探讨新教伦理如何塑造了与现代资本主义高度契合的精神，解释了为何现代资本主义首先兴起于欧洲新教地区，并分析了其对现代社会“铁笼”困境的预言。
+tags:
+- canada
+- code
+- history
+- investment
+- philosophy
+title: 《新教伦理与资本主义精神》：文化如何塑造现代资本主义
 ---
+
 ### 价值观与社会发展
 hello大家好，我是安争鸣，欢迎回到读书时间。不知道大家还记不记得，不久前我给大家介绍了一本书，叫**《文化的重要作用：价值观如何影响人类进步》**。在那期节目中我讲到，根据**世界价值观调查**的研究发现，当今世界主要存在两种互相对立的价值观：一种是“**生存价值观**”与“**自我表现价值观**”的对立，另一种是“**传统价值观**”与“**世俗理性价值观**”的对立。
 

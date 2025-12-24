@@ -1,33 +1,32 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- TED
+- Match.com
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Francesca Hogi
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=RXwQ7_hlL3g
 speaker: TED
-tags:
-  - flirting-skills
-  - human-connection
-  - relationship-building
-  - communication-skills
-title: 解锁你的调情超能力 | Francesca Hogi | TED
-summary: Francesca Hogi 在 TED 演讲中重新定义了“调情”，认为它不仅仅是轻浮的行为，而是旨在让对方感到被看见、被重视和被认可的言语和行动。她分享了调情的益处，如更容易约会、维持恋爱关系，并提供了实用的调情技巧，包括专注、热情、好奇心、真诚的赞美和适度的玩笑，鼓励大家通过练习来掌握这项超能力。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - Francesca Hogi
-companies_orgs:
-  - TED
-  - Match.com
-products_models: []
-media_books: []
 status: evergreen
+summary: Francesca Hogi 在 TED 演讲中重新定义了“调情”，认为它不仅仅是轻浮的行为，而是旨在让对方感到被看见、被重视和被认可的言语和行动。她分享了调情的益处，如更容易约会、维持恋爱关系，并提供了实用的调情技巧，包括专注、热情、好奇心、真诚的赞美和适度的玩笑，鼓励大家通过练习来掌握这项超能力。
+tags:
+- communication-skill
+- human
+- relationship
+- skill
+title: 解锁你的调情超能力 | Francesca Hogi | TED
 ---
+
 ### 调情的重新定义
 
 如果我说你很会调情，你会有什么感觉？

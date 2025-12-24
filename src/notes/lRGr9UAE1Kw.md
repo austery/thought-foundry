@@ -1,55 +1,53 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Goldman Sachs
+- Citibank
+- Pimco
+- LongTail Alpha
+- AQR
+- CBOT
+- Bloomberg
 date: '2025-09-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Veneer Benali
+- Bill Gross
+- Larry Harris
+- Fisher Black
+- Tommy Baldwin
+- Mohamed El-Erian
+products_models:
+- Black-Scholes
+- Monte Carlo
+- E-mini futures
+- VIX curve
+- CDX index
+- ETF
+- 60/40 portfolio
+project:
+- investment-strategy
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=lRGr9UAE1Kw
 speaker: Bloomberg Podcasts
-tags:
-  - tail-risk-hedging
-  - market-liquidity
-  - volatility-selling
-  - fed-independence
-  - portfolio-construction
-title: 尾部风险对冲：在市场巨变中保护投资组合
-summary: 本期OddLots播客邀请了LongTail Alpha创始人Veneer Benali，深入探讨了当前市场环境下投资组合构建的挑战和尾部风险对冲的重要性。Benali分享了他从理论物理学家转型为华尔街量化交易员的职业生涯，并分析了量化模型对市场行为的影响，以及流动性下降和自动化交易带来的新风险。他强调尾部风险对冲如同保险，旨在保护投资者免受自身行为影响，并在市场下跌时提供购买廉价资产的机会。Benali认为，美联储独立性的丧失是当前最大的尾部风险，可能导致收益率曲线陡峭化。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - geopolitics-watch
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Veneer Benali
-  - Bill Gross
-  - Larry Harris
-  - Fisher Black
-  - Tommy Baldwin
-  - Mohamed El-Erian
-companies_orgs:
-  - Goldman Sachs
-  - Citibank
-  - Pimco
-  - LongTail Alpha
-  - AQR
-  - CBOT
-  - Bloomberg
-products_models:
-  - Black-Scholes
-  - Monte Carlo
-  - E-mini futures
-  - VIX curve
-  - CDX index
-  - ETF
-  - 60/40 portfolio
-media_books: []
 status: evergreen
+summary: 本期OddLots播客邀请了LongTail Alpha创始人Veneer Benali，深入探讨了当前市场环境下投资组合构建的挑战和尾部风险对冲的重要性。Benali分享了他从理论物理学家转型为华尔街量化交易员的职业生涯，并分析了量化模型对市场行为的影响，以及流动性下降和自动化交易带来的新风险。他强调尾部风险对冲如同保险，旨在保护投资者免受自身行为影响，并在市场下跌时提供购买廉价资产的机会。Benali认为，美联储独立性的丧失是当前最大的尾部风险，可能导致收益率曲线陡峭化。
+tags:
+- financial
+- investment
+- market-liquidity
+- risk
+title: 尾部风险对冲：在市场巨变中保护投资组合
 ---
+
 ### 投资组合构建的挑战与尾部风险
 
 Tracy: 大家好，欢迎收听《OddLots》播客的又一期节目。我是Tracy Alloway。

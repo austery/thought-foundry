@@ -1,42 +1,42 @@
 ---
-author: 天下文化
+area: personal-systems
+category: career
+companies_orgs:
+- 领导影响力学院
+- 天下文化
+- 世界经济论坛
 date: '2025-10-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《与成功有约》
+- 《经济学人》
+people:
+- 陈茂雄
+- 梁晓华
+- Stephen Covey
+products_models:
+- 萨提尔模式
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=33zhsgnDW-8
 speaker: 天下文化
-tags:
-  - self-awareness
-  - coaching-leadership
-  - leadership-development
-  - habitual-patterns
-  - time-management
-  - rigid-beliefs
-title: 领导力进阶：陈茂雄谈自我觉察、教练式领导与《与成功有约》的智慧
-summary: 本期节目中，企业教练陈茂雄老师深入探讨了《与成功有约》中“不断更新”的习惯。他强调，在AI时代，提升自我觉察和学习教练式领导是领导者最重要的能力。陈老师详细阐述了如何识别并改变惯性行为与僵化信念，以及领导者应扮演主管、老师和教练“三顶帽子”的角色，以实现团队的良性循环和个人影响力的提升。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 陈茂雄
-  - 梁晓华
-  - Stephen Covey
-companies_orgs:
-  - 领导影响力学院
-  - 天下文化
-  - 世界经济论坛
-products_models:
-  - 萨提尔模式
-media_books:
-  - 《与成功有约》
-  - 《经济学人》
 status: evergreen
+summary: 本期节目中，企业教练陈茂雄老师深入探讨了《与成功有约》中“不断更新”的习惯。他强调，在AI时代，提升自我觉察和学习教练式领导是领导者最重要的能力。陈老师详细阐述了如何识别并改变惯性行为与僵化信念，以及领导者应扮演主管、老师和教练“三顶帽子”的角色，以实现团队的良性循环和个人影响力的提升。
+tags:
+- coaching-leadership
+- leadership-development
+- philosophy
+- psychology
+- self-awareness
+- time-management
+title: 领导力进阶：陈茂雄谈自我觉察、教练式领导与《与成功有约》的智慧
 ---
+
 欢迎收听“对话领导力”节目，本节目由领导影响力学院与天下文化共同出品，与顶尖领袖对话，从经典书籍出发，探索领导的智慧与管理心法。我是主持人梁晓华。
 
 ### AI时代最重要的学习能力

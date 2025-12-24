@@ -1,47 +1,47 @@
 ---
-author: 知行小酒馆
+area: society-systems
+category: culture
+companies_orgs:
+- 有知有行
+- 四方美术馆
+- Polymarket
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《半饱》
+- 《香港味道》
+- 《回家真好》
+- 《上海味道》
+- 《台北味道》
+people:
+- 欧阳应霁
+- 李强
+- 刘德华
+- Peter B
+- 父亲
+- 母亲
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=J5iIA1jaoA0
 speaker: 知行小酒馆
-tags:
-  - everyday-meaning
-  - curiosity-driven-living
-  - non-replicable-experience
-  - creative-resilience
-  - intergenerational-influence
-title: 生活可以没意义，但绝不能没意思：欧阳应霁的60岁生活哲学
-summary: 通过与香港文化人欧阳应霁的深度对话，探讨如何在平凡日常中保持对生活的热情与好奇心。文章揭示了‘有意思’比‘有意义’更贴近生命本质的实践智慧，强调通过具体体验、持续创作与真诚连接对抗时代的倦怠感。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - personal-growth-lab
-people:
-  - 欧阳应霁
-  - 李强
-  - 刘德华
-  - Peter B
-  - 父亲
-  - 母亲
-companies_orgs:
-  - 有知有行
-  - 四方美术馆
-  - Polymarket
-products_models: []
-media_books:
-  - 《半饱》
-  - 《香港味道》
-  - 《回家真好》
-  - 《上海味道》
-  - 《台北味道》
 status: evergreen
+summary: 通过与香港文化人欧阳应霁的深度对话，探讨如何在平凡日常中保持对生活的热情与好奇心。文章揭示了‘有意思’比‘有意义’更贴近生命本质的实践智慧，强调通过具体体验、持续创作与真诚连接对抗时代的倦怠感。
+tags:
+- creative-resilience
+- driven
+- experience
+- influence
+- technology
+title: 生活可以没意义，但绝不能没意思：欧阳应霁的60岁生活哲学
 ---
+
 ### 生活的“有意思”，比“意义”更真实
 
 在一场关于美食、艺术与人生哲学的对话中，香港文化人欧阳应霁用一句简单的话击中了无数现代人的内心：“生活可以没意义，但绝不能没意思。”这句话不是鸡汤，而是一个历经岁月沉淀后的真实体悟。在算法主导审美、效率压榨体验的时代，他用60多年的人生实践告诉我们：真正的生命力，不在于宏大叙事或社会认可，而藏在每一次对日常细节的认真凝视里。

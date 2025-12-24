@@ -1,59 +1,59 @@
 ---
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=Y7dwbJ0AtUA'
-tags:
-  - ai-development
-  - human-intelligence
-  - market-speculation
-  - geopolitical-rivalry
-  - technological-evolution
-title: Marc Andreessen与Ben Horowitz论AI的现状：从智能、泡沫到中美竞争
-summary: Marc Andreessen和Ben Horowitz深入探讨了AI的未来发展、大型语言模型（LLM）的智能与创造力。他们认为，人类的原创性思维和创造力远比想象中稀缺，并质疑了AI将完全取代人类的观点。讨论还涵盖了AI领域的“泡沫”争议、平台转移对现有巨头的影响，以及中美在AI人才、基础设施和机器人技术方面的激烈竞争，强调了去工业化对美国未来AI发展构成的挑战。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - china-analysis
-people:
-  - Marc Andreessen
-  - Ben Horowitz
-  - Eric Torberg
-  - Warren Buffett
-  - Jared Leto
-  - George Clinton
-  - Dr. Dre
-  - Rakim
-  - Cool G Rap
-  - Mark Zuckerberg
-  - Albert Einstein
-  - Niels Bohr
-  - Kamala Harris
-  - Donald Trump
+category: general
 companies_orgs:
-  - Google
-  - OpenAI
-  - Microsoft
-  - Apple
-  - XAI
-  - US Military
-  - Pain and Fall Foundation
-products_models:
-  - ChatGPT
-  - Deepseek
-  - Qwen
-  - Kimi
+- Google
+- OpenAI
+- Microsoft
+- Apple
+- XAI
+- US Military
+- Pain and Fall Foundation
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Innovator's Dilemma
-status: evergreen
+- The Innovator's Dilemma
+people:
+- Marc Andreessen
+- Ben Horowitz
+- Eric Torberg
+- Warren Buffett
+- Jared Leto
+- George Clinton
+- Dr. Dre
+- Rakim
+- Cool G Rap
+- Mark Zuckerberg
+- Albert Einstein
+- Niels Bohr
+- Kamala Harris
+- Donald Trump
+products_models:
+- ChatGPT
+- Deepseek
+- Qwen
+- Kimi
+project:
+- ai-impact-analysis
+- us-analysis
+- china-analysis
+series: ''
+source: https://www.youtube.com/watch?v=Y7dwbJ0AtUA
 speaker: a16z
-author: a16z
+status: evergreen
+summary: Marc Andreessen和Ben Horowitz深入探讨了AI的未来发展、大型语言模型（LLM）的智能与创造力。他们认为，人类的原创性思维和创造力远比想象中稀缺，并质疑了AI将完全取代人类的观点。讨论还涵盖了AI领域的“泡沫”争议、平台转移对现有巨头的影响，以及中美在AI人才、基础设施和机器人技术方面的激烈竞争，强调了去工业化对美国未来AI发展构成的挑战。
+tags:
+- ai-development
+- evolution
+- geopolitical
+- human
+- market-speculation
+title: Marc Andreessen与Ben Horowitz论AI的现状：从智能、泡沫到中美竞争
 ---
+
 ### AI产品形态的演变与未来
 
 我认为我们尚未知晓最终产品的形态。

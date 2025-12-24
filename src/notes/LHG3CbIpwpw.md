@@ -1,92 +1,92 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: culture
+companies_orgs:
+- 公安部门
+- 中国科学院
+- 哥伦比亚大学
+- 哈佛大学
+- 清华大学
+- 北京大学
+- 新疆石河子女子禁毒支队
+- 南通文理
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《我的梁山弟兄》
+- 《宰相刘罗锅》
+- 《追捕》
+- 《贾生东游日记》
+- 《百年经济史》
+- 《冰点》
+- 《中国青年报》
+- 维基百科
+- ChatGPT
+people:
+- 劳东燕
+- 胡乔木
+- 房祖名
+- 周立波
+- 邓飞
+- 林则徐
+- 孙中山
+- 奥斯坦
+- 王尔德
+- 马斯洛
+- 林彪
+- 希特勒
+- 杜特尔特
+- Donald Trump
+- 秦晖
+- 马家爵
+- 杨小凯
+- 贾生年
+- 郑观应
+- 胡锡进
+- 福泽谕吉
+- 三个水枪手
+- 五雷律师
+- 贾老师
+products_models:
+- 杜冷丁
+- 摇头丸
+- K他命
+- 冰毒
+- 海洛因
+- 笑气
+- 止咳糖浆
+- 可乐
+- 咖啡因
+- 可卡因
+- 大麻
+- 槟榔
+- 科兴
+- 莫德纳
+- Omicron
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=LHG3CbIpwpw
 speaker: 三個水槍手
-tags:
-  - minor-offense-sealing
-  - public-security-law
-  - drug-policy
-  - social-moralization
-  - collective-punishment
-  - civic-consciousness
-  - unemployment-impact
-  - authoritarianism-critique
-title: 治安处罚法轻罪封存引爆民怨：毒品、权贵与中国社会深层矛盾
-summary: 节目深入探讨了中国《治安处罚法》修订中“轻罪封存制度”引发的社会争议，特别是公众对涉毒轻罪记录封存的强烈不满。嘉宾五雷律师和主持人分析了民众“刑法万能论”和“连坐”心态的深层原因，包括历史上的鸦片战争记忆、对权贵的仇恨、以及中国社会普遍缺乏同情心和公民意识的现状。节目还探讨了毒品问题的去道德化视角、失业潮对轻罪增加的影响，并批判了中国社会“好人坏人”的二元对立思维，指出其对社会转型构成的巨大障碍。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 劳东燕
-  - 胡乔木
-  - 房祖名
-  - 周立波
-  - 邓飞
-  - 林则徐
-  - 孙中山
-  - 奥斯坦
-  - 王尔德
-  - 马斯洛
-  - 林彪
-  - 希特勒
-  - 杜特尔特
-  - Donald Trump
-  - 秦晖
-  - 马家爵
-  - 杨小凯
-  - 贾生年
-  - 郑观应
-  - 胡锡进
-  - 福泽谕吉
-  - 三个水枪手
-  - 五雷律师
-  - 贾老师
-companies_orgs:
-  - 公安部门
-  - 中国科学院
-  - 哥伦比亚大学
-  - 哈佛大学
-  - 清华大学
-  - 北京大学
-  - 新疆石河子女子禁毒支队
-  - 南通文理
-products_models:
-  - 杜冷丁
-  - 摇头丸
-  - K他命
-  - 冰毒
-  - 海洛因
-  - 笑气
-  - 止咳糖浆
-  - 可乐
-  - 咖啡因
-  - 可卡因
-  - 大麻
-  - 槟榔
-  - 科兴
-  - 莫德纳
-  - Omicron
-media_books:
-  - 《我的梁山弟兄》
-  - 《宰相刘罗锅》
-  - 《追捕》
-  - 《贾生东游日记》
-  - 《百年经济史》
-  - 《冰点》
-  - 《中国青年报》
-  - 维基百科
-  - ChatGPT
 status: evergreen
+summary: 节目深入探讨了中国《治安处罚法》修订中“轻罪封存制度”引发的社会争议，特别是公众对涉毒轻罪记录封存的强烈不满。嘉宾五雷律师和主持人分析了民众“刑法万能论”和“连坐”心态的深层原因，包括历史上的鸦片战争记忆、对权贵的仇恨、以及中国社会普遍缺乏同情心和公民意识的现状。节目还探讨了毒品问题的去道德化视角、失业潮对轻罪增加的影响，并批判了中国社会“好人坏人”的二元对立思维，指出其对社会转型构成的巨大障碍。
+tags:
+- authoritarianism-critique
+- civic-consciousness
+- impact
+- minor-offense-sealing
+- policy
+- public
+- social
+- society
+title: 治安处罚法轻罪封存引爆民怨：毒品、权贵与中国社会深层矛盾
 ---
+
 ### 中国社会对“轻罪封存”的普遍心态
 
 我们就要反过来问了，其实说反正道理特别简单，不管从人权上，从公平上都特别简单。那请问，中国人为什么这么缺乏这种最基本的同情心和文明的共识？为什么很多中国人就认为我很清白，犯罪是社会上少数，我们迫害少数人，让大多数人活得更好，为什么不行？因为很多中国人愿意对于**一罪从有**（Presumption of Guilt: 指在未经审判前，倾向于认定嫌疑人有罪的观念），愿意**连坐**（Collective Punishment: 指一人犯罪，其亲属或相关人员也受到牵连惩罚的制度或观念），愿意这那这那。其实中国人都认为我好人，我从不犯错，我没有问题，为什么要保护有问题的人？我老老实实、本本分分，从来不干坏事，你们怎么看待这种心态？这种心态中非常多。

@@ -1,78 +1,76 @@
 ---
-author: 记者易速利
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Amazon
+- Meta
+- Google
+- Microsoft
+- Comcast
+- Coinbase
+- Lockheed Martin
+- Palantir
+- YouTube
+- Tesla
+- SpaceX
+- Boeing
+- Blackstone Group
+- United States Secret Service
+- National Capital Planning Commission
 date: '2025-10-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《了不起的盖茨比》
+- 《时代》杂志
+people:
+- Donald Trump
+- Warren Harding
+- Franklin Roosevelt
+- Elon Musk
+- Elizabeth Warren
+- Hillary Clinton
+- Melania Trump
+- Stephen Miller
+- Karoline Leavitt
+- John Adams
+- Abigail Adams
+- Ulysses Grant
+- Theodore Roosevelt
+- William Howard Taft
+- George W. Bush
+- Dick Cheney
+- Harry S. Truman
+- John F. Kennedy
+- Lyndon B. Johnson
+- Richard Nixon
+- Jimmy Carter
+- Ronald Reagan
+- Barack Obama
+- James Mattis
+- Jay Gatsby
+- Thomas Jefferson
+- Monica Lewinsky
+- Steven Mnuchin
+- Stephen Schwarzman
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=vl6-6HqH6C0
 speaker: 记者易速利
-tags:
-  - white-house-renovation
-  - political-polarization
-  - presidential-power
-  - campaign-finance
-  - historical-precedent
-title: 特朗普白宫东翼改造：一面反映美国社会对立的镜子
-summary: 本文深入探讨了特朗普总统拆除并重建白宫东翼为千人宴会厅的争议项目。该项目引发了美国社会两极分化的强烈反响，批评者指责其奢靡、破坏历史，支持者则称其为实用、气派且节省纳税人资金的创新。文章追溯了白宫历次改造的历史，分析了该项目在资金来源、审批程序上的特殊性，并揭示了其如何精准映射了美国对特朗普执政理念的深刻对立，以及在保存历史与适应现代需求之间寻找平衡的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Warren Harding
-  - Franklin Roosevelt
-  - Elon Musk
-  - Elizabeth Warren
-  - Hillary Clinton
-  - Melania Trump
-  - Stephen Miller
-  - Karoline Leavitt
-  - John Adams
-  - Abigail Adams
-  - Ulysses Grant
-  - Theodore Roosevelt
-  - William Howard Taft
-  - George W. Bush
-  - Dick Cheney
-  - Harry S. Truman
-  - John F. Kennedy
-  - Lyndon B. Johnson
-  - Richard Nixon
-  - Jimmy Carter
-  - Ronald Reagan
-  - Barack Obama
-  - James Mattis
-  - Jay Gatsby
-  - Thomas Jefferson
-  - Monica Lewinsky
-  - Steven Mnuchin
-  - Stephen Schwarzman
-companies_orgs:
-  - Amazon
-  - Facebook
-  - Google
-  - Microsoft
-  - Comcast
-  - Coinbase
-  - Lockheed Martin
-  - Palantir
-  - YouTube
-  - Tesla
-  - SpaceX
-  - Boeing
-  - Blackstone Group
-  - United States Secret Service
-  - National Capital Planning Commission
-products_models: []
-media_books:
-  - 《了不起的盖茨比》
-  - 《时代》杂志
 status: evergreen
+summary: 本文深入探讨了特朗普总统拆除并重建白宫东翼为千人宴会厅的争议项目。该项目引发了美国社会两极分化的强烈反响，批评者指责其奢靡、破坏历史，支持者则称其为实用、气派且节省纳税人资金的创新。文章追溯了白宫历次改造的历史，分析了该项目在资金来源、审批程序上的特殊性，并揭示了其如何精准映射了美国对特朗普执政理念的深刻对立，以及在保存历史与适应现代需求之间寻找平衡的挑战。
+tags:
+- finance
+- geopolitical
+- historical
+- presidential-power
+title: 特朗普白宫东翼改造：一面反映美国社会对立的镜子
 ---
 
 ### 白宫东翼的拆除与重建：争议的焦点

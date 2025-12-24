@@ -1,52 +1,51 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Alibaba
+- 蚂蚁集团
+- 拼多多
+- 抖音
+- 京东
+- Celsius
+- 百事可乐
+- MercadoLibre
+- 台积电
+- 苹果
+- 博通
+- 高通
+- Nvidia
 date: '2024-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伯克希尔·哈撒韦股东信》
+people:
+- 马云
+- 蔡崇信
+- 查理·芒格
+- 沃伦·巴菲特
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=VlD5FayWhBo
 speaker: Shijun Tang
-tags:
-  - dead-cat-bounce
-  - economic-moat
-  - valuation-challenges
-  - probability-based-investing
-  - cash-flow-misinterpretation
-title: 阿里、Celsius、MercadoLibre与台积电：死猫跳还是真实增长？一场关于护城河与概率投资的深度剖析
-summary: 本文深入分析阿里巴巴、Celsius、MercadoLibre和台积电四家公司的财务表现与商业护城河，指出市场对‘死猫跳’的误判，并强调投资应基于概率而非运气，真正决定长期成败的是少数几次非凡的投资决策。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Shijun Tang
-  - 马云
-  - 蔡崇信
-  - 查理·芒格
-  - 沃伦·巴菲特
-companies_orgs:
-  - 阿里巴巴
-  - 蚂蚁集团
-  - 拼多多
-  - 抖音
-  - 京东
-  - Celsius
-  - 百事可乐
-  - MercadoLibre
-  - 台积电
-  - 苹果
-  - 博通
-  - 高通
-  - 英伟达
-products_models: []
-media_books:
-  - 《伯克希尔·哈撒韦股东信》
 status: evergreen
+summary: 本文深入分析阿里巴巴、Celsius、MercadoLibre和台积电四家公司的财务表现与商业护城河，指出市场对‘死猫跳’的误判，并强调投资应基于概率而非运气，真正决定长期成败的是少数几次非凡的投资决策。
+tags:
+- challenge
+- economic-moat
+- flow
+- investing
+- investment
+title: 阿里、Celsius、MercadoLibre与台积电：死猫跳还是真实增长？一场关于护城河与概率投资的深度剖析
 ---
+
 ### 阿里巴巴：电商护城河下的增长瓶颈与“死猫跳”争议
 
 最近，阿里巴巴被许多投资者称为“死猫跳”——股价短暂反弹后迅速回落。这一现象引发了广泛讨论，尤其是在其最新财报发布之后。作为一位曾运营淘宝店铺十年、跟踪阿里财报近六年的投资者，我对这家公司的理解远超普通市场观察者。

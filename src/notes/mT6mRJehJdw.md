@@ -1,51 +1,51 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Alibaba
+- Norges Bank Investment Management
+- Investor AB
+- Yahoo
+- eBay
+- Nvidia
+- OpenAI
+- Brooklyn Nets
 date: '2024-04-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- McKinsey Corporate Finance
+- Tinker Tailor Soldier Spy
+- The Economist
+people:
+- Joe Tsai
+- Jack Ma
+- Marcus Wallenberg
+- Jacob Wallenberg
+- John le Carré
+products_models:
+- Taobao
+- Tmall
+project:
+- china-analysis
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=mT6mRJehJdw
 speaker: Norges Bank Investment Management
-tags:
-  - chinese-economy
-  - ai-strategy
-  - geopolitical-risk
-  - corporate-leadership
-  - supply-chain
-title: 蔡崇信访谈：阿里巴巴、中国经济与全球化挑战
-summary: 阿里巴巴联合创始人兼董事会主席蔡崇信在访谈中分享了其个人成长经历，包括从律师转型为投资者，以及加入阿里巴巴的早期故事。他深入探讨了阿里巴巴的商业模式、竞争策略、中国消费市场现状、制造业前景及AI发展。蔡崇信还就中美地缘政治对企业的影响、企业文化和领导力原则发表了见解，并为年轻人提供了职业发展建议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Joe Tsai
-  - Jack Ma
-  - Marcus Wallenberg
-  - Jacob Wallenberg
-  - John le Carré
-companies_orgs:
-  - Alibaba
-  - Norges Bank Investment Management
-  - Investor AB
-  - Yahoo
-  - eBay
-  - Nvidia
-  - OpenAI
-  - Brooklyn Nets
-products_models:
-  - Taobao
-  - Tmall
-media_books:
-  - McKinsey Corporate Finance
-  - Tinker Tailor Soldier Spy
-  - The Economist
 status: evergreen
+summary: 阿里巴巴联合创始人兼董事会主席蔡崇信在访谈中分享了其个人成长经历，包括从律师转型为投资者，以及加入阿里巴巴的早期故事。他深入探讨了阿里巴巴的商业模式、竞争策略、中国消费市场现状、制造业前景及AI发展。蔡崇信还就中美地缘政治对企业的影响、企业文化和领导力原则发表了见解，并为年轻人提供了职业发展建议。
+tags:
+- ai-strategy
+- chinese-economy
+- corporate-leadership
+- geopolitical-risk
+- supply-chain
+title: 蔡崇信访谈：阿里巴巴、中国经济与全球化挑战
 ---
+
 ### 蔡崇信：从台湾到阿里巴巴的非凡旅程
 
 **Nikolai:** 大家好，今天我们有一位特别的嘉宾来访，他就是**阿里巴巴**（Alibaba: 中国领先的电子商务、数字支付、云计算和娱乐巨头）的联合创始人兼董事会主席蔡崇信（Joe Tsai）。

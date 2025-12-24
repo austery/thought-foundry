@@ -1,31 +1,30 @@
 ---
-title: 德米斯·哈萨比斯：AI需真创造力，AGI五年内可期
-summary: DeepMind CEO德米斯·哈萨比斯最新专访揭示：AGI五年内有望实现，需1-2个根本性突破；打造“机器人安卓”平台；强调AI需真正创造力，而非仅是技术堆叠。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-creativity
-- artificial-general-intelligence
-- robotics
-people:
-- demis-hassabis
 companies_orgs:
 - deepmind
-products_models: []
-media_books: []
 date: '2025-10-17'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- demis-hassabis
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=Q0vP9S-VAPg
+speaker: Best Partners TV
 status: evergreen
+summary: DeepMind CEO德米斯·哈萨比斯最新专访揭示：AGI五年内有望实现，需1-2个根本性突破；打造“机器人安卓”平台；强调AI需真正创造力，而非仅是技术堆叠。
+tags:
+- agi
+- llm
+- robotic
+title: 德米斯·哈萨比斯：AI需真创造力，AGI五年内可期
 ---
+
 ### DeepMind CEO专访：AGI前景与机器人新格局
 
 Google DeepMind的CEO德米斯·哈萨比斯（Demis Hassabis）近日参加了**All-In Podcast**（知名播客节目）的专访。他在节目中直言，我们离**AGI**（Artificial General Intelligence: 人工通用智能）仅差一到两个根本性突破，预计五年内即可实现。哈萨比斯甚至透露，DeepMind正在打造“机器人的**Android**”（谷歌开发的移动操作系统）平台，旨在彻底改变机器人行业的格局。

@@ -1,49 +1,49 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- University of Southern California Marshall School of Business
+- Wharton School
+- Oxford
+- Stanford
+- Yale
+- Deep Seek
+- VW
+- BYD
+- Xiaomi
 date: '2025-05-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+people:
+- Nicolai Tangen
+- Geoffrey Garrett
+- John Wooden
+- Donald Trump
+products_models:
+- ChatGPT
+project:
+- us-analysis
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=nyMPFdOwTFE
 speaker: Norges Bank Investment Management
-tags:
-  - leadership-development
-  - business-education
-  - global-economy
-  - electric-vehicles
-  - ai-impact
-title: 现代领导力、商学院教育与全球经济变局
-summary: 本期播客中，挪威主权财富基金（Norges Bank Investment Management）首席执行官尼古拉·坦根与南加州大学马歇尔商学院院长杰弗里·加勒特深入探讨了现代领导力的演变，强调了在复杂世界中人本特质、自我意识和敏捷性的重要性。对话还涉及商学院如何调整课程以平衡技术技能与人文领导力、实践学习的价值，以及全球市场变动（以电动汽车的崛起为例）所带来的经济和地缘政治影响。最后，他们为有抱负的领导者提供了关于准备和选择性的建议。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Nicolai Tangen
-  - Geoffrey Garrett
-  - John Wooden
-  - Donald Trump
-companies_orgs:
-  - Norges Bank Investment Management
-  - University of Southern California Marshall School of Business
-  - Wharton School
-  - Oxford
-  - Stanford
-  - Yale
-  - Deep Seek
-  - VW
-  - BYD
-  - Xiaomi
-products_models:
-  - ChatGPT
-media_books:
-  - In Good Company
 status: evergreen
+summary: 本期播客中，挪威主权财富基金（Norges Bank Investment Management）首席执行官尼古拉·坦根与南加州大学马歇尔商学院院长杰弗里·加勒特深入探讨了现代领导力的演变，强调了在复杂世界中人本特质、自我意识和敏捷性的重要性。对话还涉及商学院如何调整课程以平衡技术技能与人文领导力、实践学习的价值，以及全球市场变动（以电动汽车的崛起为例）所带来的经济和地缘政治影响。最后，他们为有抱负的领导者提供了关于准备和选择性的建议。
+tags:
+- ai-impact
+- education
+- electric-vehicle
+- global-economy
+- leadership-development
+title: 现代领导力、商学院教育与全球经济变局
 ---
+
 ### 欢迎与现代领导力的核心转变
 
 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**：管理挪威政府全球养老基金的机构）的首席执行官尼古拉·坦根。今天，我非常荣幸能与我最喜欢的人之一——杰弗里·加勒特（Geoffrey Garrett）共度时光。

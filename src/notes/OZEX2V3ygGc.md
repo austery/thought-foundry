@@ -1,57 +1,56 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CIA
+- US Southern Command
+- Aragua Train
+- Al-Qaeda
+- Islamic State
+- ICE
+- 太阳贩毒集团
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Fox News
+people:
+- Pete Hegseth
+- Donald Trump
+- Nicolas Maduro
+- Hugo Chávez
+- Maria Corina Machado
+- Marco Rubio
+- Juan Guaidó
+- Richard Grenell
+- Qasem Soleimani
+- Xi Jinping
+- Néstor Reverol
+- Salvador Allende
+- Manuel Noriega
+- Joe Biden
+products_models:
+- F-35 fighter jets
+- MQ-9 drones
+- Huawei
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=OZEX2V3ygGc
 speaker: 记者易速利
-tags:
-  - venezuela-crisis
-  - us-foreign-policy
-  - china-latin-america
-  - narco-terrorism
-  - regime-change
-title: 美国对委内瑞拉策略的转变：从民主到毒品恐怖主义的干预
-summary: 本文深入探讨了美国对委内瑞拉政策的演变，特别是在特朗普政府时期，受参议员卢比奥影响，美国将对马杜罗政权的干预策略从推动民主转向打击“毒品恐怖主义”。文章详细分析了美国在加勒比海的军事行动升级、对委内瑞拉内部局势的评估、中国在委内瑞拉的深远经济与政治影响力，以及未来可能的三种政权更迭走向。同时，文中也揭示了委内瑞拉反对派领袖马查多与美国政策制定者的互动，以及该国严重的经济与社会危机。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Pete Hegseth
-  - Donald Trump
-  - Nicolas Maduro
-  - Hugo Chávez
-  - Maria Corina Machado
-  - Marco Rubio
-  - Juan Guaidó
-  - Richard Grenell
-  - Qasem Soleimani
-  - Xi Jinping
-  - Néstor Reverol
-  - Salvador Allende
-  - Manuel Noriega
-  - Joe Biden
-companies_orgs:
-  - CIA
-  - US Southern Command
-  - Aragua Train
-  - Al-Qaeda
-  - Islamic State
-  - ICE
-  - 太阳贩毒集团
-products_models:
-  - F-35 fighter jets
-  - MQ-9 drones
-  - Huawei
-media_books:
-  - Fox News
 status: evergreen
+summary: 本文深入探讨了美国对委内瑞拉政策的演变，特别是在特朗普政府时期，受参议员卢比奥影响，美国将对马杜罗政权的干预策略从推动民主转向打击“毒品恐怖主义”。文章详细分析了美国在加勒比海的军事行动升级、对委内瑞拉内部局势的评估、中国在委内瑞拉的深远经济与政治影响力，以及未来可能的三种政权更迭走向。同时，文中也揭示了委内瑞拉反对派领袖马查多与美国政策制定者的互动，以及该国严重的经济与社会危机。
+tags:
+- change
+- china
+- technology
+- us-foreign-policy
+- venezuela-crisis
+title: 美国对委内瑞拉策略的转变：从民主到毒品恐怖主义的干预
 ---
 
 ### 美国对委内瑞拉的军事行动升级与策略转变

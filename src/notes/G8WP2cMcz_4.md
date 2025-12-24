@@ -1,35 +1,34 @@
 ---
-author: Shijun Tang
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 特斯拉
+- 比亚迪
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 唐石峻
+products_models:
+- Model 3
+- Model Y
+- Cyber Truck
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=G8WP2cMcz_4
 speaker: Shijun Tang
-tags:
-  - llm
-  - tesla
-  - stock-investment
-title: 美股TSLA（特斯拉）能助你实现财富自由么？
-summary: 本视频分析特斯拉的最新财报、基本面、竞争环境和护城河，讨论其股票是否值得投资。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 唐石峻
-companies_orgs:
-  - 特斯拉
-  - 比亚迪
-products_models:
-  - Model 3
-  - Model Y
-  - Cyber Truck
-media_books: []
 status: evergreen
+summary: 本视频分析特斯拉的最新财报、基本面、竞争环境和护城河，讨论其股票是否值得投资。
+tags:
+- investment
+title: 美股TSLA（特斯拉）能助你实现财富自由么？
+companies:
+- tesla
 ---
+
 ### 特斯拉（TSLA）股票分析：能否实现财富自由？
 
 特斯拉的股价最近创下历史新高，在最近252天内涨了131.17%，翻了2.3倍。特斯拉是否马上就要涨疯了，还是这仅仅是另一趟过山车的顶点？本文将从特斯拉的最新财报、基本面、竞争环境和护城河等多个方面进行详细分析。

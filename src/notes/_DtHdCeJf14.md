@@ -1,125 +1,126 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Netflix
+- Dow Jones
+- S&P 500
+- Oklo
+- DWave
+- Big Bear AI
+- Rigetti
+- IonQ
+- NuScale Power
+- Nano Nuclear
+- MP Materials
+- Nvidia
+- Tesla
+- Palantir
+- Amazon
+- Iren
+- Cipher Mining
+- CleanSpark
+- Wolfspeed
+- Bitfarms
+- Marathon Digital
+- Riot Platforms
+- Galaxy Digital
+- OpenAI
+- Google
+- Perplexity
+- Beyond Meat
+- Walmart
+- Grab
+- Nuvei
+- Microsoft
+- Robinhood
+- SoFi
+- Super Micro Computer
+- Apple
+- e.l.f. Beauty
+- PayPal
+- Salesforce
+- Adobe
+- Lululemon
+- ServiceNow
+- Intuit
+- Intuitive Surgical
+- Chubb Limited
+- Texas Instruments
+- Capital One
+- Federal Reserve
+- Warner Bros. Discovery
+- Comcast
+- UEFA
+- Airbnb
+- Mattel
+- AST SpaceMobile
+- DraftKings
+- Railbird
+- Kalshi
+- Polymarket
+- Reddit
+- Rocket Lab
+- Hims & Hers Health
+- Broadcom
+- Mizuho
+- Anthropic
+- AWS
+- BlackRock
+- Blue Owl
+- Costco
+- Citron Research
+- Reuters
+- GameStop
+- Visa
+- Cheesecake Factory
+- Enphase
+- Oracle
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Atlas Shrugged
+people:
+- Tom Lee
+- Elon Musk
+- Mark Mahaney
+- Donald Trump
+- Mark Zuckerberg
+- Larry Fink
+- Vladimir Putin
+- Xi Jinping
+- Julia Boorstin
+- Kate Rogers
+products_models:
+- Atlas
+- Google Chrome
+- Mac OS
+- K-pop Demon Hunters
+- DXY
+- GDXD
+- GVZ
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=_DtHdCeJf14
 speaker: Amit Kukreja
-tags:
-  - earnings-season
-  - momentum-stocks
-  - market-rotation
-  - short-squeeze
-  - technical-analysis
-title: Netflix财报失利开启科技巨头财报季，高动量股票遭遇重挫
-summary: 本期市场收盘分析聚焦于Netflix财报，其因巴西税务问题导致每股收益（EPS）未达预期，为科技巨头财报季拉开序幕。同时，黄金创下多年来最大单日跌幅，而道指和标普500指数则逼近历史高位。主持人深入探讨了高动量股票的普遍回调与资金轮动现象，并对OpenAI的新浏览器、Beyond Meat的轧空行情等热点进行了点评。后半部分的技术分析环节，则对特斯拉、英伟达、黄金等关键资产的图表走势进行了详细解读。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Tom Lee
-  - Elon Musk
-  - Mark Mahaney
-  - Donald Trump
-  - Mark Zuckerberg
-  - Larry Fink
-  - Vladimir Putin
-  - Xi Jinping
-  - Julia Boorstin
-  - Kate Rogers
-companies_orgs:
-  - Netflix
-  - Dow Jones
-  - S&P 500
-  - Oklo
-  - DWave
-  - Big Bear AI
-  - Rigetti
-  - IonQ
-  - NuScale Power
-  - Nano Nuclear
-  - MP Materials
-  - Nvidia
-  - Tesla
-  - Palantir
-  - Amazon
-  - Iren
-  - Cipher Mining
-  - CleanSpark
-  - Wolfspeed
-  - Bitfarms
-  - Marathon Digital
-  - Riot Platforms
-  - Galaxy Digital
-  - OpenAI
-  - Google
-  - Perplexity
-  - Beyond Meat
-  - Walmart
-  - Grab
-  - Nuvei
-  - Microsoft
-  - Robinhood
-  - SoFi
-  - Super Micro Computer
-  - Apple
-  - e.l.f. Beauty
-  - PayPal
-  - Salesforce
-  - Adobe
-  - Lululemon
-  - ServiceNow
-  - Intuit
-  - Intuitive Surgical
-  - Chubb Limited
-  - Texas Instruments
-  - Capital One
-  - Federal Reserve
-  - Warner Bros. Discovery
-  - Comcast
-  - UEFA
-  - Airbnb
-  - Mattel
-  - AST SpaceMobile
-  - DraftKings
-  - Railbird
-  - Kalshi
-  - Polymarket
-  - Reddit
-  - Rocket Lab
-  - Hims & Hers Health
-  - Broadcom
-  - Mizuho
-  - Anthropic
-  - AWS
-  - BlackRock
-  - Blue Owl
-  - Costco
-  - Citron Research
-  - Reuters
-  - GameStop
-  - Visa
-  - Cheesecake Factory
-  - Enphase
-  - Oracle
-products_models:
-  - Atlas
-  - Google Chrome
-  - Mac OS
-  - K-pop Demon Hunters
-  - DXY
-  - GDXD
-  - GVZ
-media_books:
-  - Atlas Shrugged
 status: evergreen
+summary: 本期市场收盘分析聚焦于Netflix财报，其因巴西税务问题导致每股收益（EPS）未达预期，为科技巨头财报季拉开序幕。同时，黄金创下多年来最大单日跌幅，而道指和标普500指数则逼近历史高位。主持人深入探讨了高动量股票的普遍回调与资金轮动现象，并对OpenAI的新浏览器、Beyond
+  Meat的轧空行情等热点进行了点评。后半部分的技术分析环节，则对特斯拉、英伟达、黄金等关键资产的图表走势进行了详细解读。
+tags:
+- earnings-season
+- investment
+- market-rotation
+- stock
+- technical-analysis
+title: Netflix财报失利开启科技巨头财报季，高动量股票遭遇重挫
 ---
+
 ### 开篇：Netflix财报与市场宏观概览
 
 好的，大家好，欢迎回到新一期的《市场收盘》。我们即将迎来 Netflix 的财报，这将正式拉开大型科技公司财报季的序幕。我对此感到非常兴奋。所以，我们来看看 Netflix 能交出什么样的成绩单。Netflix 今年迄今上涨了 40%，但过去三个月股价一直持平。因此，今天将是关键的一天，我们将看到 Netflix 能否公布一些能让华尔街兴奋的数字。也许他们终于会给我们进行一次**股票分割**（Stock Split: 将一股股票拆分成多股，降低单股价格以吸引更多投资者），那就太好了，能把这只股票的价格从 1200 美元降到 120 美元。但我们还是得看看 Netflix 最终会发生什么。如果你持有这只股票，请告诉我，我们会进行“上涨或下跌”的投票。今天早上，你们大多数人都认为是上涨。我们拭目以待 Netflix 今天的结果。

@@ -1,51 +1,50 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 联合国
+- 俄罗斯国防部
+- 瓦格纳集团
+- 凤凰卫视
+- BBC
+- Important Stories
 date: '2025-03-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《战狼》
+- 《亮剑》
+- 小红书
+people:
+- 柴静
+- 马卡龙
+- Vladimir Putin
+- 泽连斯基
+- 赵瑞
+- 周志强
+- 孙瑞奇
+- 刘洁
+- 刘洪伟
+- 莫迪
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=syKWPralGKQ
 speaker: 柴静 Chai Jing
-tags:
-  - russia-ukraine-war
-  - mercenaries
-  - war-brutality
-  - human-cost-of-war
-  - geopolitical-conflict
-title: 中国雇佣兵亲述俄乌战场：巴赫穆特的残酷与人性的挣扎
-summary: 本节目采访了一位在俄乌战场为俄罗斯作战的中国雇佣兵马卡龙。他详细讲述了在巴赫穆特前线的残酷经历，包括种族歧视、装备匮乏、战友伤亡惨重以及被关押的遭遇。马卡龙揭示了战争的非人道本质，对国内鼓吹战争的言论表示反感，并表达了对和平的渴望和对自身行为的愧疚。他的故事反映了普通士兵在战争中的绝望与挣扎。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 柴静
-  - 马卡龙
-  - 普京
-  - 泽连斯基
-  - 赵瑞
-  - 周志强
-  - 孙瑞奇
-  - 刘洁
-  - 刘洪伟
-  - 莫迪
-companies_orgs:
-  - 联合国
-  - 俄罗斯国防部
-  - 瓦格纳集团
-  - 凤凰卫视
-  - BBC
-  - Important Stories
-products_models: []
-media_books:
-  - 《战狼》
-  - 《亮剑》
-  - 小红书
 status: evergreen
+summary: 本节目采访了一位在俄乌战场为俄罗斯作战的中国雇佣兵马卡龙。他详细讲述了在巴赫穆特前线的残酷经历，包括种族歧视、装备匮乏、战友伤亡惨重以及被关押的遭遇。马卡龙揭示了战争的非人道本质，对国内鼓吹战争的言论表示反感，并表达了对和平的渴望和对自身行为的愧疚。他的故事反映了普通士兵在战争中的绝望与挣扎。
+tags:
+- geopolitical-conflict
+- russia-ukraine-war
+- technology
+- war
+title: 中国雇佣兵亲述俄乌战场：巴赫穆特的残酷与人性的挣扎
 ---
+
 俄乌战争三年之后，现在到了关键性时刻，局势非常动荡，而其结果将对未来整个世界格局造成重大影响。在这个战场上，也有中国公民，有人在为俄罗斯打仗，而有人在为乌克兰而战。最近的节目中，我将采访双方，来了解他们不同的立场和价值观，同时借助他们的眼睛，来看一看媒体记者很难抵达的战争内部究竟发生了什么。今天，我将与马卡龙对话，他是一名在俄罗斯军队中的中国雇佣兵。
 
 ### 前线实录：巴赫穆特的残酷日常

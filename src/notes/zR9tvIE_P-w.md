@@ -1,62 +1,61 @@
 ---
-author: 硅谷101
+area: society-systems
+category: technology
+companies_orgs:
+- 波士顿动力
+- 魔珐科技
+- 卡内基·梅隆大学
+- 加州大学伯克利分校
+- Microsoft
+- Nvidia
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《星球大战》
+- 《玩具总动员》
+- 《指环王》
+people:
+- Sam Altman
+- Jessica Hodgins
+- Sergey Levine
+- 柴金祥
+- 黄仁勋
+products_models:
+- Sora2
+- ChatGPT
+- Optimus
+- Figure
+- 初音未来
+- AYAYI
+- 柳夜熙
+- 微软小冰
+- Heygen
+- Stable Diffusion
+- Unreal Engine
+- 星云
+- LLM
+- VLM
+- VLA
+- LAM
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=zR9tvIE_P-w
 speaker: 硅谷101
-tags:
-  - 3d-digital-human
-  - embodied-intelligence
-  - ai-interaction
-  - human-machine-interface
-  - ai-robotics
-title: 给AI一个“身体”：3D数字人如何驱动具身智能的未来？
-summary: Sora2的出现凸显了AI“有脑无身”与机器人“有身无脑”的矛盾。3D数字人被视为连接虚拟与现实、实现具身智能的关键路径。本文探讨了3D数字人的发展简史、2D与3D技术路线的差异，以及魔珐科技“星云”平台如何通过文生多模态3D大模型和云-端拆分架构，试图破解高质量、低延时、低成本的“不可能三角”。文章还分析了3D数字人行业面临的成本、数据稀缺和泛化性挑战，并展望了其在屏幕交互、泛娱乐及机器人领域的广阔应用前景。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Sam Altman
-  - Jessica Hodgins
-  - Sergey Levine
-  - 柴金祥
-  - 黄仁勋
-companies_orgs:
-  - 波士顿动力
-  - 魔珐科技
-  - 卡内基·梅隆大学
-  - 加州大学伯克利分校
-  - 微软
-  - 英伟达
-products_models:
-  - Sora2
-  - ChatGPT
-  - Optimus
-  - Figure
-  - 初音未来
-  - AYAYI
-  - 柳夜熙
-  - 微软小冰
-  - Heygen
-  - Stable Diffusion
-  - Unreal Engine
-  - 星云
-  - LLM
-  - VLM
-  - VLA
-  - LAM
-media_books:
-  - 《星球大战》
-  - 《玩具总动员》
-  - 《指环王》
 status: evergreen
+summary: Sora2的出现凸显了AI“有脑无身”与机器人“有身无脑”的矛盾。3D数字人被视为连接虚拟与现实、实现具身智能的关键路径。本文探讨了3D数字人的发展简史、2D与3D技术路线的差异，以及魔珐科技“星云”平台如何通过文生多模态3D大模型和云-端拆分架构，试图破解高质量、低延时、低成本的“不可能三角”。文章还分析了3D数字人行业面临的成本、数据稀缺和泛化性挑战，并展望了其在屏幕交互、泛娱乐及机器人领域的广阔应用前景。
+tags:
+- ai-robotic
+- human
+- intelligence
+- llm
+title: 给AI一个“身体”：3D数字人如何驱动具身智能的未来？
 ---
+
 ### AI发展：有脑无身与有身无脑的矛盾
 
 最近，AI视频领域的热潮被**Sora2**（一个能够生成逼真短片的视频生成模型）点燃。它刚发布时，以假乱真的画质、自然的语态和生动的微表情令人非常震惊。在10月5号举办的硅谷101线下科技大会上，我们甚至用了一段Sora2生成的Sam Altman的AI视频。

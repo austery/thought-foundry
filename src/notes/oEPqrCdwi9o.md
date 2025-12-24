@@ -1,60 +1,60 @@
 ---
-author: New York Times Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- New York Times
+- Wall Street
+- Silicon Valley
+- OpenAI
+- Meta
+- Nvidia
+- Google
+- Microsoft
+- Oracle
+- Cororeweave
+- Lambda
+- Nebus
+- Alphabet
+- Justice Department
+- FBI
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Natalie Kitroeff
+- Cade Metz
+- Sam Altman
+- Mark Zuckerberg
+- Jensen Huang
+- Sundar Pichai
+- Donald Trump
+- Pam Bondi
+- James Comey
+- Lindseay Halligan
+products_models:
+- ChatGPT
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=oEPqrCdwi9o
 speaker: New York Times Podcasts
-tags:
-  - ai-bubble
-  - market-speculation
-  - data-center-investment
-  - debt-financing
-  - systemic-risk
-title: AI泡沫：华尔街的担忧与硅谷的豪赌
-summary: 在对人工智能的乐观情绪和巨额投资持续多年后，华尔街近期开始质疑这是否是一个可能即将破裂的泡沫。然而，硅谷却对此深信不疑，投入数百亿美元以期实现通用人工智能。本文探讨了AI繁荣背后的驱动力、高昂的建设成本以及潜在的系统性风险，并将其与过去的互联网泡沫和房地产泡沫进行对比，揭示了当前市场中存在的复杂性和不确定性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Natalie Kitroeff
-  - Cade Metz
-  - Sam Altman
-  - Mark Zuckerberg
-  - Jensen Huang
-  - Sundar Pichai
-  - Donald Trump
-  - Pam Bondi
-  - James Comey
-  - Lindseay Halligan
-companies_orgs:
-  - New York Times
-  - Wall Street
-  - Silicon Valley
-  - OpenAI
-  - Meta
-  - Nvidia
-  - Google
-  - Microsoft
-  - Oracle
-  - Cororeweave
-  - Lambda
-  - Nebus
-  - Alphabet
-  - Justice Department
-  - FBI
-products_models:
-  - ChatGPT
-media_books:
-  - The Daily
 status: evergreen
+summary: 在对人工智能的乐观情绪和巨额投资持续多年后，华尔街近期开始质疑这是否是一个可能即将破裂的泡沫。然而，硅谷却对此深信不疑，投入数百亿美元以期实现通用人工智能。本文探讨了AI繁荣背后的驱动力、高昂的建设成本以及潜在的系统性风险，并将其与过去的互联网泡沫和房地产泡沫进行对比，揭示了当前市场中存在的复杂性和不确定性。
+tags:
+- ai-bubble
+- data-center-investment
+- debt
+- market-speculation
+- systemic-risk
+title: AI泡沫：华尔街的担忧与硅谷的豪赌
 ---
+
 ### AI泡沫疑云：华尔街的担忧与硅谷的豪赌
 
 **Natalie:** 大家好，我是《纽约时报》的娜塔莉·基特罗夫，这里是《The Daily》节目。

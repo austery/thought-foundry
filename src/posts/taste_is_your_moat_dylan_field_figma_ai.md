@@ -1,37 +1,36 @@
 ---
-title: 'Taste is Your Moat: Dylan Field on Design, AI, and the Future of Creation'
-summary: Dylan Field, founder of Figma, discusses the evolution of Figma's mission
-  from idea to reality, the transformative role of AI in design and software development,
-  and why taste and craft are becoming the ultimate differentiators in a world of
-  abundant creation.
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- vibe-coding
-tags:
-- ai
-- design-system
-- product-design
-- software-development
-people:
-  - Allesio
-  - Dylan Field
+area: tech-engineering
+author: Lei
+category: ai-ml
 companies_orgs:
 - figma
-products_models: []
-media_books: []
 date: 2025-10-03
-author: Lei
-speaker: ''
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Allesio
+- Dylan Field
+products_models: []
+project:
+- ai-impact-analysis
+- vibe-coding
 series: null
 source: null
+speaker: ''
 status: evergreen
+summary: Dylan Field, founder of Figma, discusses the evolution of Figma's mission
+  from idea to reality, the transformative role of AI in design and software development,
+  and why taste and craft are becoming the ultimate differentiators in a world of
+  abundant creation.
+tags:
+- design
+- software-development
+- system
+title: 'Taste is Your Moat: Dylan Field on Design, AI, and the Future of Creation'
 ---
+
 ### Introduction and Figma's Mission
 
 Allesio: Hey everyone, welcome to the Inspace podcast. This is Allesio, founder of Colonel Labs, and so happy to be at the Figma office today with Dylan Field. Welcome.

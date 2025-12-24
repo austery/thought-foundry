@@ -1,39 +1,37 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: business
+companies_orgs:
+- Alibaba
+- 京东
+- 美团
+- 复旦大学
+- 饿了么
+- 中国市场监管总局
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=3LSFJN5rqaI
 speaker: 小翠時政財經
-tags:
-  - platform-economy
-  - subsidy-war
-  - restaurant-industry
-  - market-centralization
-  - urban-local-culture
-title: 外卖大战：复旦报告揭示平台补贴如何挤压餐饮业利润与“烟火气”
-summary: 复旦大学一份针对4万多家餐饮商户的研究报告揭示，中国外卖平台激烈的补贴大战，虽然增加了订单量，却导致餐饮商户营收和利润大幅下降。报告深入分析了“以价换量”和堂食被挤压两大逻辑链，指出平台利用“虹吸效应”迫使商户参与，最终导致行业集中化，并引发对城市“烟火气”消失的担忧。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - china-analysis
-  - entrepreneurship
-  - systems-thinking
-people: []
-companies_orgs:
-  - 阿里巴巴
-  - 京东
-  - 美团
-  - 复旦大学
-  - 饿了么
-  - 中国市场监管总局
-products_models: []
-media_books: []
 status: evergreen
+summary: 复旦大学一份针对4万多家餐饮商户的研究报告揭示，中国外卖平台激烈的补贴大战，虽然增加了订单量，却导致餐饮商户营收和利润大幅下降。报告深入分析了“以价换量”和堂食被挤压两大逻辑链，指出平台利用“虹吸效应”迫使商户参与，最终导致行业集中化，并引发对城市“烟火气”消失的担忧。
+tags:
+- culture
+- economy
+- industry
+- market
+- war
+title: 外卖大战：复旦报告揭示平台补贴如何挤压餐饮业利润与“烟火气”
 ---
+
 ### 引言：外卖大战下的餐饮业困境
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月21日。今年中国宏观经济有一场重头戏，那就是阿里巴巴、京东、美团三大平台打响的外卖大战。为了打赢这场大战，京东和美团几乎都烧光了自己的利润，简直是在赌身家。但是最近，复旦大学经济学院却出了一份针对外卖行业的研究报告，其标题非常扎心，叫做《赚了流量，赔了利润：补贴大战如何累及餐饮商户》。

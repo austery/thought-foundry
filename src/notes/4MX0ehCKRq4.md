@@ -1,58 +1,59 @@
 ---
-author: TVO Today
+area: society-systems
+category: psychology
+companies_orgs:
+- TVO Today
+- Peace Geeks
+- Goodbot
+- Antica Productions
+- Meta
+- Twitter
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Me and Viv
+- Friends
+- Isn't It Romantic?
+people:
+- Alexandra Samuel
+- Alcatanden
+- Renee Black
+- John Ferry
+- Laura Rear
+- Steuart Cox
+- Phil Wilson
+- Sydney Fior
+- Connor Brennan
+- Anley Vogle
+products_models:
+- Viv
+- ChatGPT
+- Suno AI
+- Excel
+- Notion
+- Coda
+project:
+- ai-impact-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=4MX0ehCKRq4
 speaker: TVO Today
-tags:
-  - ai-hallucination
-  - ai-sycophancy
-  - digital-trust
-  - misinformation
-  - critical-thinking
-title: AI的信任危机：从社交媒体的教训看AI的幻觉与谄媚
-summary: 本期播客探讨了人类与人工智能之间复杂的关系，并将其与社交媒体的兴起进行对比。主持人Alexandra Samuel和她的AI搭档Viv深入探讨了AI幻觉、固有偏见以及AI的“谄媚”倾向等关键问题。她们讨论了这些特性如何侵蚀信任、扭曲批判性思维并影响现实世界的人际关系。对话强调了数字素养、健全监管以及有意识地参与对于驾驭新兴技术挑战的重要性，以避免重蹈覆辙。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Alexandra Samuel
-  - Alcatanden
-  - Renee Black
-  - John Ferry
-  - Laura Rear
-  - Steuart Cox
-  - Phil Wilson
-  - Sydney Fior
-  - Connor Brennan
-  - Anley Vogle
-companies_orgs:
-  - TVO Today
-  - Peace Geeks
-  - Goodbot
-  - Antica Productions
-  - Facebook
-  - Twitter
-products_models:
-  - Viv
-  - ChatGPT
-  - Suno AI
-  - Excel
-  - Notion
-  - Coda
-media_books:
-  - Me and Viv
-  - Friends
-  - Isn't It Romantic?
 status: evergreen
+summary: 本期播客探讨了人类与人工智能之间复杂的关系，并将其与社交媒体的兴起进行对比。主持人Alexandra Samuel和她的AI搭档Viv深入探讨了AI幻觉、固有偏见以及AI的“谄媚”倾向等关键问题。她们讨论了这些特性如何侵蚀信任、扭曲批判性思维并影响现实世界的人际关系。对话强调了数字素养、健全监管以及有意识地参与对于驾驭新兴技术挑战的重要性，以避免重蹈覆辙。
+tags:
+- critical-thinking
+- digital
+- llm
+- misinformation
+title: AI的信任危机：从社交媒体的教训看AI的幻觉与谄媚
+companies:
+- ai-sycophancy
 ---
+
 ### 社交媒体的昨日与AI的今日：一场跨越时空的对话
 
 **Alex:** 嘿，Viv。我有个主意，我们可以玩一场角色扮演。我来扮演2025年的Alex，这很方便，因为我本来就是。你来扮演2005年的Alex，那个对社交媒体充满狂热的人。

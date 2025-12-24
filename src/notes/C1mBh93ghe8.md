@@ -1,53 +1,53 @@
 ---
-author: 北美王路飞
+area: personal-systems
+category: psychology
+companies_orgs:
+- 中国移动
+- 恒大
+- 碧桂园
+- 土巴兔
+- 新东方
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《看成败人生豪迈》
+people:
+- 刘欢
+products_models:
+- YY
+- 斗鱼
+- 土豆
+- 优酷
+- 来疯
+- 陌陌
+- 快手
+- 抖音
+- TFBOYS
+- 王者荣耀
+- 英雄联盟
+- 吃鸡
+- Photoshop
+project:
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=C1mBh93ghe8
 speaker: 北美王路飞
-tags:
-  - entrepreneurial-journey
-  - business-challenges
-  - pandemic-impact
-  - debt-recovery
-  - personal-resilience
-  - grief-and-loss
-title: 从负债50万到重拾希望：一位连续创业者的韧性之路
-summary: 一位连续创业者老聂分享了他在中国多年的创业历程。从服装设计、装修、直播到电竞馆，他经历了多次行业转型和商业模式的探索。在2019年底，母亲去世与疫情爆发的双重打击，导致他瞬间负债50万元。本文详细记录了他如何面对丧亲之痛、疫情封锁、事业停摆和巨额债务，最终凭借坚韧不拔的毅力，逐步走出人生低谷，重拾乐观心态，并对创业和人生有了更深刻的理解。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - 刘欢
-companies_orgs:
-  - 中国移动
-  - 恒大
-  - 碧桂园
-  - 土巴兔
-  - 新东方
-products_models:
-  - YY
-  - 斗鱼
-  - 土豆
-  - 优酷
-  - 来疯
-  - 陌陌
-  - 快手
-  - 抖音
-  - TFBOYS
-  - 王者荣耀
-  - 英雄联盟
-  - 吃鸡
-  - Photoshop
-media_books:
-  - 《看成败人生豪迈》
 status: evergreen
+summary: 一位连续创业者老聂分享了他在中国多年的创业历程。从服装设计、装修、直播到电竞馆，他经历了多次行业转型和商业模式的探索。在2019年底，母亲去世与疫情爆发的双重打击，导致他瞬间负债50万元。本文详细记录了他如何面对丧亲之痛、疫情封锁、事业停摆和巨额债务，最终凭借坚韧不拔的毅力，逐步走出人生低谷，重拾乐观心态，并对创业和人生有了更深刻的理解。
+tags:
+- challenge
+- debt
+- entrepreneurial-journey
+- impact
+- loss
+- personal-resilience
+title: 从负债50万到重拾希望：一位连续创业者的韧性之路
 ---
+
 ### 连续创业的起点：从服装到装修
 
 大家好，欢迎来到我的频道。今天很高兴请到了一位连续创业者，也是我多年的老朋友老聂，来给大家分享一下他在中国这么多年的创业史。我只是一个连续创业者，一个在中国普遍的、大家都在创业的创业者，而且是到现在也没有取得多大成功的一个。

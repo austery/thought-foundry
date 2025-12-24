@@ -1,44 +1,42 @@
 ---
-author: New York Times Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- FEMA
+- New York Times
+- Federal Reserve
+- EPA
+- Politifact
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+people:
+- Greg Phillips
+- Nicholas Maduro
+- Jerome Powell
+- Fern Michaels
+- Mary Kushkir
+products_models:
+- Trump Gold Card
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=hsYdXRiDFFM
 speaker: New York Times Podcasts
-tags:
-  - disaster-relief-funding
-  - political-weaponization
-  - investor-visa
-  - regulatory-rollback
-  - monetary-policy
-title: FEMA 削减援助，特朗普‘黄金卡’签证开放，以及其他新闻速递
-summary: 本期新闻播报聚焦多项重要议题：美国联邦紧急事务管理局（FEMA）在灾难援助方面削减开支，并被指控带有政治动机；特朗普政府推出‘黄金卡’签证计划，旨在吸引高净值投资者；美国环保署（EPA）正重新评估甲醛等化学品的风险暴露标准；美联储面临降息与抗通胀的两难决策；此外，还报道了卢浮宫盗窃案的新细节以及畅销书作家费恩·迈克尔斯的逝世。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Greg Phillips
-  - Nicholas Maduro
-  - Jerome Powell
-  - Fern Michaels
-  - Mary Kushkir
-companies_orgs:
-  - FEMA
-  - New York Times
-  - Federal Reserve
-  - EPA
-  - Politifact
-products_models:
-  - Trump Gold Card
-media_books:
-  - The New York Times
 status: evergreen
+summary: 本期新闻播报聚焦多项重要议题：美国联邦紧急事务管理局（FEMA）在灾难援助方面削减开支，并被指控带有政治动机；特朗普政府推出‘黄金卡’签证计划，旨在吸引高净值投资者；美国环保署（EPA）正重新评估甲醛等化学品的风险暴露标准；美联储面临降息与抗通胀的两难决策；此外，还报道了卢浮宫盗窃案的新细节以及畅销书作家费恩·迈克尔斯的逝世。
+tags:
+- investment
+- political
+- regulatory
+title: FEMA 削减援助，特朗普‘黄金卡’签证开放，以及其他新闻速递
 ---
+
 ### FEMA 削减灾难援助：政治动机引发担忧
 
 近期，美国联邦紧急事务管理局（FEMA）在灾难援助方面采取了更为保守的姿态，这引起了广泛关注。马里兰州西部港镇（Western Port, Maryland）遭受了严重的洪水侵袭，造成了巨大的破坏，包括房屋被淹、车辆和碎片漂浮在街道上。在评估了约3000万美元的清理费用后，当地官员向FEMA提交了财政援助申请，但却被两次拒绝。

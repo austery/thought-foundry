@@ -1,29 +1,28 @@
 ---
-title: 中国放弃WTO发展中国家待遇：战略转向背后的三重逻辑与全球贸易的未来推演
-summary: 深入分析中国宣布不再寻求WTO特殊待遇的战略意图，探讨其背后的外部压力、内部转型需求及地缘政治考量。文章同时推演了后特权时代全球贸易可能面临的三种未来走向。
-area: market-analysis
-category: geopolitics
-project:
-- geopolitics-watch
-tags:
-- geopolitics
-people: []
+area: society-thinking
+category: politics-society
 companies_orgs:
 - wto
-products_models: []
-media_books:
-- fearnation
 date: '2025-10-06'
-author: FearNation 世界苦茶
-speaker: FearNation 世界苦茶
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- fearnation
+people: []
+products_models: []
+project:
+- geopolitics-watch
 series: ''
 source: https://www.youtube.com/watch?v=DqU4Q3UxaaI
+speaker: FearNation 世界苦茶
 status: evergreen
+summary: 深入分析中国宣布不再寻求WTO特殊待遇的战略意图，探讨其背后的外部压力、内部转型需求及地缘政治考量。文章同时推演了后特权时代全球贸易可能面临的三种未来走向。
+tags: []
+title: 中国放弃WTO发展中国家待遇：战略转向背后的三重逻辑与全球贸易的未来推演
 ---
+
 ### 视频节目内容划分说明
 
 大家好，欢迎来到本期的世界苦茶事实线节目。我们尝试将世界苦茶分为事实线、分析线和观察线。事实线节目将覆盖更多国际和中国国内的事实，而分析线将进行更多深度的经济和政治哲学内容。节目数量将更多。那我们进入今天的内容。

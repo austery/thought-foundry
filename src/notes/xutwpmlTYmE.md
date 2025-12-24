@@ -1,31 +1,29 @@
 ---
-title: GitHub前设计负责人Diana Mounter：拥抱技术变革，用设计赋能开发者
-summary: GitHub前设计主管Diana Mounter分享其设计哲学，强调拥抱科技变革、融合技术与创意，以及通过设计赋能开发者的重要性。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-and-design
-- design-philosophy
-- design-system
-- developer-experience
-people: []
 companies_orgs:
 - github
-products_models: []
-media_books: []
 date: '2025-09-08'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=xutwpmlTYmE
+speaker: EO
 status: evergreen
+summary: GitHub前设计主管Diana Mounter分享其设计哲学，强调拥抱科技变革、融合技术与创意，以及通过设计赋能开发者的重要性。
+tags:
+- design
+- developer-experience
+- philosophy
+- system
+title: GitHub前设计负责人Diana Mounter：拥抱技术变革，用设计赋能开发者
 ---
+
 ### 拥抱变化：科技设计的核心精神
 
 I think working in tech as a whole is a place where you really need to embrace change.

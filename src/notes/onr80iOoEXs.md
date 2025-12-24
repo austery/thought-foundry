@@ -1,61 +1,60 @@
 ---
-author: Veritasium
-date: '2025-09-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=onr80iOoEXs
-speaker: Veritasium
-tags:
-  - veritasium
-  - explosive-development
-  - nobel-prize-legacy
-  - industrial-revolution
-  - weaponry-evolution
-  - unintended-consequences
-title: 从“死亡商人”到诺贝尔奖：阿尔弗雷德·诺贝尔与炸药的传奇
-summary: 本文深入探讨了阿尔弗雷德·诺贝尔的生平，从他发明硝化甘油、炸药等强大爆炸物，如何彻底改变了工业和战争，到他因目睹其发明造成的毁灭性后果，以及自身被误认为“死亡商人”的讣告而深受触动，最终设立诺贝尔奖以期改变世人对他的看法。文章揭示了诺贝尔奖背后复杂的人性、科学的进步与道德的困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Alfred Nobel
-  - Ludwig Nobel
-  - Immanuel Nobel
-  - Ascanio Sobrero
-  - Tsar Nicholas I
-  - Bertha Kinsky
-  - Theodore Roosevelt
-  - J. Robert Oppenheimer
-  - Henry
-  - Jesse
-  - Derek
+category: geopolitics
 companies_orgs:
-  - Nobel armaments factory
-  - Opera
-products_models:
-  - Nitroglycerin
-  - Gunpowder
-  - Sea mine
-  - Blasting cap
-  - Dynamite
-  - TNT
-  - Gelignite
-  - Ballistite
-  - Pneumatic drill
-  - Diamond drilling crown
-  - Rocket-powered missiles
-  - Aria
+- Nobel armaments factory
+- Opera
+date: '2025-09-21'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Lay Down Your Arms
-  - Looney Tunes
-  - ACDC
+- Lay Down Your Arms
+- Looney Tunes
+- ACDC
+people:
+- Alfred Nobel
+- Ludwig Nobel
+- Immanuel Nobel
+- Ascanio Sobrero
+- Tsar Nicholas I
+- Bertha Kinsky
+- Theodore Roosevelt
+- J. Robert Oppenheimer
+- Henry
+- Jesse
+- Derek
+products_models:
+- Nitroglycerin
+- Gunpowder
+- Sea mine
+- Blasting cap
+- Dynamite
+- TNT
+- Gelignite
+- Ballistite
+- Pneumatic drill
+- Diamond drilling crown
+- Rocket-powered missiles
+- Aria
+project:
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=onr80iOoEXs
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了阿尔弗雷德·诺贝尔的生平，从他发明硝化甘油、炸药等强大爆炸物，如何彻底改变了工业和战争，到他因目睹其发明造成的毁灭性后果，以及自身被误认为“死亡商人”的讣告而深受触动，最终设立诺贝尔奖以期改变世人对他的看法。文章揭示了诺贝尔奖背后复杂的人性、科学的进步与道德的困境。
+tags:
+- development
+- evolution
+- legacy
+- revolution
+- unintended-consequence
+title: 从“死亡商人”到诺贝尔奖：阿尔弗雷德·诺贝尔与炸药的传奇
 ---
+
 ### 诺贝尔的觉醒：一则改变命运的讣告
 
 大多数人并不知道阿尔弗雷德·诺贝尔的真实故事。

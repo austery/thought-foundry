@@ -1,55 +1,53 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: business
+companies_orgs:
+- Bloomberg
+- Resolution Financial Advisors
+- Alvarez and Marcel
+- Lehman Brothers
+- Silicon Valley Bank
+- Proteiogenics
+- Co-apt
+- Super Pedestrian
+- Lime
+- Bird
+- Bone Dealers
+- Skulls Unlimited
+- The Bone Room
 date: '2025-08-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Johnson
+- Jill Weisenthal
+- Tracy Alloway
+- Brian Marcel
+- Paul McCartney
+products_models:
+- Chapter 11 bankruptcy
+- Chapter 7 bankruptcy
+- Chapter 13 bankruptcy
+- Assignment for the Benefit of Creditors (ABC)
+- Perplexity
+project:
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=ugPuedlbqpk
 speaker: Bloomberg Podcasts
-tags:
-  - startup-failure
-  - insolvency-management
-  - asset-liquidation
-  - bankruptcy-alternatives
-  - esoteric-assets
-title: 创业公司倒闭后，幕后发生了什么？一位破产顾问的深度揭秘
-summary: 本期Odd Lots播客深入探讨了创业公司失败后的复杂世界。与Resolution Financial Advisors的David Johnson对话，揭示了风投行业中“幸存者偏差”的普遍性，以及大多数创业公司最终走向失败的现实。Johnson详细介绍了破产清算的传统途径（如美国破产法第7章和第11章）及其高昂成本，并重点阐述了其公司专注于的替代方案——“为债权人利益转让”（ABC）。他分享了处理“异类资产”（如专利组合、在研药物，甚至人体头部和核废料）的独特经验，以及如何在这种情况下最大化价值。播客还讨论了公司倒闭后期创始人与董事会之间的激励错位问题，强调了尽早寻求专业帮助的重要性，以避免更复杂的法律和财务困境。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - entrepreneurship
-  - systems-thinking
-people:
-  - David Johnson
-  - Jill Weisenthal
-  - Tracy Alloway
-  - Brian Marcel
-  - Paul McCartney
-companies_orgs:
-  - Bloomberg
-  - Resolution Financial Advisors
-  - Alvarez and Marcel
-  - Lehman Brothers
-  - Silicon Valley Bank
-  - Proteiogenics
-  - Co-apt
-  - Super Pedestrian
-  - Lime
-  - Bird
-  - Bone Dealers
-  - Skulls Unlimited
-  - The Bone Room
-products_models:
-  - Chapter 11 bankruptcy
-  - Chapter 7 bankruptcy
-  - Chapter 13 bankruptcy
-  - Assignment for the Benefit of Creditors (ABC)
-  - Perplexity
-media_books: []
 status: evergreen
+summary: 本期Odd Lots播客深入探讨了创业公司失败后的复杂世界。与Resolution Financial Advisors的David Johnson对话，揭示了风投行业中“幸存者偏差”的普遍性，以及大多数创业公司最终走向失败的现实。Johnson详细介绍了破产清算的传统途径（如美国破产法第7章和第11章）及其高昂成本，并重点阐述了其公司专注于的替代方案——“为债权人利益转让”（ABC）。他分享了处理“异类资产”（如专利组合、在研药物，甚至人体头部和核废料）的独特经验，以及如何在这种情况下最大化价值。播客还讨论了公司倒闭后期创始人与董事会之间的激励错位问题，强调了尽早寻求专业帮助的重要性，以避免更复杂的法律和财务困境。
+tags:
+- asset
+- failure
+- financial
+- management
+title: 创业公司倒闭后，幕后发生了什么？一位破产顾问的深度揭秘
 ---
+
 ### 创业公司失败：被忽视的常态
 
 欢迎收听Odd Lots播客的又一期节目。我是Jill Weisenthal。

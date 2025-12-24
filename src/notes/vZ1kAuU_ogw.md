@@ -1,42 +1,41 @@
 ---
-author: 硅谷101
+area: society-systems
+category: general
+companies_orgs:
+- Ivy League
+- UC Berkeley
+- Stanford
+- Minerva University
+- Google
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Joy Joy Chen
+- Esther
+- Isabelle
+- Ben Nelson
+- John Doerr
+products_models: []
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=vZ1kAuU_ogw
 speaker: 硅谷101
-tags:
-  - ai-in-education
-  - education-reform
-  - lifelong-learning
-  - critical-thinking
-  - human-skills
-title: AI时代教育的未来：颠覆、挑战与重塑
-summary: 本场小组讨论深入探讨了人工智能（AI）对教育领域的颠覆性影响，展望2030年及以后的教育图景。专家们就AI作为个性化导师的潜力、传统教学模式的低效性、大学学位价值的演变、终身学习的重要性以及在AI时代人类所需的核心技能（如批判性思维、协作能力和适应性）等议题展开讨论。小组成员强调了人际互动和社会情感技能在教育中的不可替代性，并呼吁教育系统进行根本性改革以适应新时代的需求，赋能优秀教师，淘汰不愿改革的机构。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Joy Joy Chen
-  - Esther
-  - Isabelle
-  - Ben Nelson
-  - John Doerr
-companies_orgs:
-  - Ivy League
-  - UC Berkeley
-  - Stanford
-  - Minerva University
-  - Google
-products_models: []
-media_books: []
 status: evergreen
+summary: 本场小组讨论深入探讨了人工智能（AI）对教育领域的颠覆性影响，展望2030年及以后的教育图景。专家们就AI作为个性化导师的潜力、传统教学模式的低效性、大学学位价值的演变、终身学习的重要性以及在AI时代人类所需的核心技能（如批判性思维、协作能力和适应性）等议题展开讨论。小组成员强调了人际互动和社会情感技能在教育中的不可替代性，并呼吁教育系统进行根本性改革以适应新时代的需求，赋能优秀教师，淘汰不愿改革的机构。
+tags:
+- critical-thinking
+- education
+- education-reform
+- human
+- lifelong-learning
+title: AI时代教育的未来：颠覆、挑战与重塑
 ---
+
 ### 引言：AI与教育的未来展望
 
 各位下午好，非常感谢大家今天能和我们在一起。我是Joy Joy Chen，非常荣幸能担任今天关于AI与教育的小组讨论主持人。我也非常高兴能与我的三位好友——Ben、Isabelle和Esther——同台。那么，让我们直接进入对话。在过去的几年里，我们见证了AI如何改变我们的生活、工作，当然也包括学习方式。我想问三位小组成员，当你们思考AI与教育，特别是展望2030年及以后时，最让你们兴奋的是什么？最让你们担忧的又是什么？或许我们可以从Esther开始。

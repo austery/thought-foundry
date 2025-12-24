@@ -1,94 +1,95 @@
 ---
-author: 張内咸
+area: society-systems
+category: technology
+companies_orgs:
+- Apple
+- 科大讯飞
+- 百度
+- Meta Platforms
+- ByteDance
+- Google
+- Mistral AI
+- Anthropic
+- DeepSeek
+- OpenAI
+- 月之暗面
+- 广电
 date: '2025-02-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《那些年我们一起追的女孩》
+- 《长大成人》
+- 《爱情是狗娘》
+- 《恋恋风尘》
+- 《真爱营业》
+- 《多幸运遇见你》
+- 《姜子牙》
+- 《我要我们在一起》
+- 《与我10年长跑的女友明天就要嫁人了》
+- 《爱情神话》
+- 《志明与春娇》
+- 《送你一朵小红花》
+- 《春光乍泄》
+- 《你的名字》
+- 《坚如磐石》
+- 《不能说的秘密》
+- 《过往人生》
+- 《之前的我们》
+- 豆瓣
+- 脸书
+- movie-recommendation
+people:
+- 张内咸
+- 乔布斯
+- 九把刀
+- 亚利桑德罗·冈萨雷斯·伊纳里图
+- 侯孝贤
+- 易烊千玺
+- 刘浩存
+- 张国荣
+- 梁朝伟
+- 雷佳音
+- 张国立
+- 周杰伦
+- 黄秋生
+- 徐峥
+- 马伊琍
+- 杨千嬅
+- 彭浩翔
+- 邵艺辉
+products_models:
+- Siri
+- 讯飞星火
+- 文心一言
+- Kimi
+- Meta AI
+- 豆包
+- Google Gemini
+- Mistral
+- Claude
+- DeepSeek
+- ChatGPT-4o
+- iOS18.3
+project:
+- ai-impact-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=U6hIS5I_4y0
 speaker: 張内咸
-tags:
-  - ai-evaluation
-  - movie-recommendation
-  - cultural-understanding
-  - human-emotion
-  - valentines-day
-title: 导演用AI挑选爱情片：一场关于人类情感与技术理解的深度测试
-summary: 一位导演分享了他利用多种主流AI模型，为2025年情人节挑选适合华人情侣观看电影的实验。他详细评测了Siri、讯飞星火、文心一言、Kimi、Meta AI、豆包、Google Gemini、Mistral、Claude、DeepSeek和ChatGPT等11款AI的推荐结果，揭示了它们在理解人类情感、文化语境和避免推荐陷阱方面的巨大差异。最终，ChatGPT凭借其对内容深度消化和情感后劲的精准把握脱颖而出，推荐了一部令人惊艳的电影。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - cultural-critique
-people:
-  - 张内咸
-  - 乔布斯
-  - 九把刀
-  - 亚利桑德罗·冈萨雷斯·伊纳里图
-  - 侯孝贤
-  - 易烊千玺
-  - 刘浩存
-  - 张国荣
-  - 梁朝伟
-  - 雷佳音
-  - 张国立
-  - 周杰伦
-  - 黄秋生
-  - 徐峥
-  - 马伊琍
-  - 杨千嬅
-  - 彭浩翔
-  - 邵艺辉
-companies_orgs:
-  - Apple
-  - 科大讯飞
-  - 百度
-  - Meta Platforms
-  - 字节跳动
-  - Google
-  - Mistral AI
-  - Anthropic
-  - DeepSeek
-  - OpenAI
-  - 月之暗面
-  - 广电
-products_models:
-  - Siri
-  - 讯飞星火
-  - 文心一言
-  - Kimi
-  - Meta AI
-  - 豆包
-  - Google Gemini
-  - Mistral
-  - Claude
-  - DeepSeek
-  - ChatGPT-4o
-  - iOS18.3
-media_books:
-  - 《那些年我们一起追的女孩》
-  - 《长大成人》
-  - 《爱情是狗娘》
-  - 《恋恋风尘》
-  - 《真爱营业》
-  - 《多幸运遇见你》
-  - 《姜子牙》
-  - 《我要我们在一起》
-  - 《与我10年长跑的女友明天就要嫁人了》
-  - 《爱情神话》
-  - 《志明与春娇》
-  - 《送你一朵小红花》
-  - 《春光乍泄》
-  - 《你的名字》
-  - 《坚如磐石》
-  - 《不能说的秘密》
-  - 《过往人生》
-  - 《之前的我们》
-  - 豆瓣
-  - 脸书
 status: evergreen
+summary: 一位导演分享了他利用多种主流AI模型，为2025年情人节挑选适合华人情侣观看电影的实验。他详细评测了Siri、讯飞星火、文心一言、Kimi、Meta
+  AI、豆包、Google Gemini、Mistral、Claude、DeepSeek和ChatGPT等11款AI的推荐结果，揭示了它们在理解人类情感、文化语境和避免推荐陷阱方面的巨大差异。最终，ChatGPT凭借其对内容深度消化和情感后劲的精准把握脱颖而出，推荐了一部令人惊艳的电影。
+tags:
+- ai-evaluation
+- cultural
+- human
+- valentines-day
+title: 导演用AI挑选爱情片：一场关于人类情感与技术理解的深度测试
 ---
+
 ### 导演的困惑：电影推荐与情感雷区
 
 哈喽大家好，我是张内咸。这么多年以来，我一直对自己的身份充满了困惑。每次遇到一个陌生人，只要我说我的职业是个导演，他们就会睁大了眼睛，很惊讶的样子。我感觉他们脑海里可能是不停地在想象我的工作，也不知道他们想象的画面是什么样的。然后等他们回过神来呢，永远是瞪着他们天真的大眼睛，特别兴奋地问我：“那最近有什么好电影？你给我推荐推荐呀！”真的永远是这样，永远都是这同一个问题。

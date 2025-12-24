@@ -1,51 +1,49 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York Times
+- ICE
+- Border Patrol
+- DHS
+- ACLU
+- CBP
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- The Border
+- 60 Minutes
+- racial-profiling
+people:
+- Natalie Ketrof
+- Hammad Ali Aziz
+- Greg Bevino
+- Jack Nicholson
+- Donald Trump
+- Joe Biden
+- Justice Kavanaugh
+- Governor Pritzker
+- Mayor Johnson
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=FjYYOEXZLKc
 speaker: New York Times Podcasts
-tags:
-  - immigration-enforcement
-  - border-patrol-tactics
-  - racial-profiling
-  - us-politics
-  - zero-tolerance-policy
-title: 特朗普政府移民执法：边境巡逻队长的强硬策略与争议
-summary: 本文深入探讨了特朗普政府时期对非法移民的打击行动，重点关注边境巡逻队队长格雷格·贝维诺及其推行的强硬执法策略。文章对比了移民及海关执法局（ICE）与边境巡逻队的不同做法，并详细介绍了贝维诺在加州中部山谷和芝加哥等内陆地区开展的激进行动。同时，文章也讨论了这些策略所引发的法律挑战、公众抗议以及最高法院关于执法中种族因素的裁决，揭示了美国移民政策的复杂性和争议性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Natalie Ketrof
-  - Hammad Ali Aziz
-  - Greg Bevino
-  - Jack Nicholson
-  - Donald Trump
-  - Joe Biden
-  - Justice Kavanaugh
-  - Governor Pritzker
-  - Mayor Johnson
-companies_orgs:
-  - New York Times
-  - ICE
-  - Border Patrol
-  - DHS
-  - ACLU
-  - CBP
-products_models: []
-media_books:
-  - The Daily
-  - The Border
-  - 60 Minutes
 status: evergreen
+summary: 本文深入探讨了特朗普政府时期对非法移民的打击行动，重点关注边境巡逻队队长格雷格·贝维诺及其推行的强硬执法策略。文章对比了移民及海关执法局（ICE）与边境巡逻队的不同做法，并详细介绍了贝维诺在加州中部山谷和芝加哥等内陆地区开展的激进行动。同时，文章也讨论了这些策略所引发的法律挑战、公众抗议以及最高法院关于执法中种族因素的裁决，揭示了美国移民政策的复杂性和争议性。
+tags:
+- geopolitical
+- policy
+title: 特朗普政府移民执法：边境巡逻队长的强硬策略与争议
 ---
+
 ### 特朗普政府的移民执法升级
 
 我是《纽约时报》的娜塔莉·凯特罗夫，这里是《每日》播客。

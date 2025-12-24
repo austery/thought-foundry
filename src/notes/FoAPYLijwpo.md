@@ -1,58 +1,58 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 立法院
+- WTO
+- HSBC
+- Workers World Party
+- KFC
+- Starbucks
 date: '2024-06-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《為什麼上街頭？》
+- Declaration of Independence
+- U.S. Constitution
+- New York Times
+- 百灵果
+people:
+- David Graeber
+- John Adams
+- James Madison
+- Andrew Jackson
+- Jo Freeman
+- Subcomandante Marcos
+- Mubarak
+- Rebecca Solnit
+- Gandhi
+- Martin Luther King
+- Lin Feifan
+- Chen Weiting
+- Huang Guochang
+products_models:
+- NAFTA
+project:
+- historical-insights
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=FoAPYLijwpo
 speaker: 超級歪 SuperY
-tags:
-  - mass-movements
-  - direct-democracy
-  - nonviolent-resistance
-  - state-repression
-  - political-philosophy
-title: 群眾運動的藝術與挑戰：從佔領華爾街到太陽花，如何實踐直接民主與非暴力抗爭
-summary: 本文深入探討全球群眾運動的策略與困境，借鑒美國人類學家大衛·格雷伯的《為什麼上街頭？》一書，分析非暴力抗爭的組織方式、國家鎮壓手段及直接民主的實踐。文章回溯民主的歷史起源，揭示代議制民主的局限，並通過佔領華爾街、太陽花學運等案例，闡述共識決策、文化框架及預示性政治在社會運動中的關鍵作用，強調群眾運動是創造民主文化的長期過程。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - us-analysis
-  - systems-thinking
-people:
-  - David Graeber
-  - John Adams
-  - James Madison
-  - Andrew Jackson
-  - Jo Freeman
-  - Subcomandante Marcos
-  - Mubarak
-  - Rebecca Solnit
-  - Gandhi
-  - Martin Luther King
-  - Lin Feifan
-  - Chen Weiting
-  - Huang Guochang
-companies_orgs:
-  - 立法院
-  - WTO
-  - HSBC
-  - Workers World Party
-  - KFC
-  - Starbucks
-products_models:
-  - NAFTA
-media_books:
-  - 《為什麼上街頭？》
-  - Declaration of Independence
-  - U.S. Constitution
-  - New York Times
-  - 百灵果
 status: evergreen
+summary: 本文深入探討全球群眾運動的策略與困境，借鑒美國人類學家大衛·格雷伯的《為什麼上街頭？》一書，分析非暴力抗爭的組織方式、國家鎮壓手段及直接民主的實踐。文章回溯民主的歷史起源，揭示代議制民主的局限，並通過佔領華爾街、太陽花學運等案例，闡述共識決策、文化框架及預示性政治在社會運動中的關鍵作用，強調群眾運動是創造民主文化的長期過程。
+tags:
+- geopolitical
+- movement
+- nonviolent-resistance
+- political-philosophy
+- state
+title: 群眾運動的藝術與挑戰：從佔領華爾街到太陽花，如何實踐直接民主與非暴力抗爭
 ---
+
 ### 群眾運動的興起與民主的矛盾
 
 在立法院因國會改革法案引發爭議後，許多人走上街頭，抗議黑箱操作。有人將此次事件稱為「太陽花2.0」，數百人高喊口號，拒絕黑箱、停止表決，抗議藍白兩黨違反程序正義，甚至癱瘓了附近道路，宛如十年前太陽花學運的翻版。然而，這次的立法院**青鳥行動**（Operation Bluebird: 台灣2024年因國會改革法案爭議而起的公民運動）與十年前廣泛民眾參與的太陽花學運有所不同。為什麼有些群眾運動能成功，有些卻失敗呢？

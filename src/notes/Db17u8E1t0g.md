@@ -1,60 +1,60 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央电视台
+- 国务院台湾事务办公室
+- 中国国民党
+- 中国共产党
+- 中国同盟会
+- 教育部
+- 国防大学管理学院
+- 国防部
+- 世界法院会议
 date: '2025-05-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《感动中国》
+people:
+- 高秉涵
+- 柴静
+- 高金熙
+- 高炳皓
+- 高炳杰
+- 刘兴远
+- 刘汝铭
+- 蒋介石
+- 陈诚
+- 吴全文
+- 舒克诚
+- 毛泽东
+- 贺龙
+- 刘少奇
+- 陈云
+- 杨林
+- 蒋经国
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Db17u8E1t0g
 speaker: 柴静 Chai Jing
-tags:
-  - chinese-civil-war
-  - cross-strait-relations
-  - historical-memory
-  - war-trauma
-  - reconciliation
-title: 高秉涵的国共内战记忆：一个13岁逃亡者的苦难与和解之路
-summary: 本文记录了柴静对高秉涵先生的深度访谈。高秉涵在13岁时经历国共内战，从山东逃亡至台湾，亲历了战争的残酷与骨肉分离的痛苦。他讲述了家族内部的政治分歧、国军撤退的惨状、在台生活的艰辛，以及最终回乡寻亲的历程。高先生以其亲身经历呼吁世人勿忘历史苦难，警惕战争，并强调两岸之间血缘、文化交流的重要性，希望年轻一代能以智慧化解冲突，追求和平。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 高秉涵
-  - 柴静
-  - 高金熙
-  - 高炳皓
-  - 高炳杰
-  - 刘兴远
-  - 刘汝铭
-  - 蒋介石
-  - 陈诚
-  - 吴全文
-  - 舒克诚
-  - 毛泽东
-  - 贺龙
-  - 刘少奇
-  - 陈云
-  - 杨林
-  - 蒋经国
-companies_orgs:
-  - 中央电视台
-  - 国务院台湾事务办公室
-  - 中国国民党
-  - 中国共产党
-  - 中国同盟会
-  - 教育部
-  - 国防大学管理学院
-  - 国防部
-  - 世界法院会议
-products_models: []
-media_books:
-  - 《感动中国》
 status: evergreen
+summary: 本文记录了柴静对高秉涵先生的深度访谈。高秉涵在13岁时经历国共内战，从山东逃亡至台湾，亲历了战争的残酷与骨肉分离的痛苦。他讲述了家族内部的政治分歧、国军撤退的惨状、在台生活的艰辛，以及最终回乡寻亲的历程。高先生以其亲身经历呼吁世人勿忘历史苦难，警惕战争，并强调两岸之间血缘、文化交流的重要性，希望年轻一代能以智慧化解冲突，追求和平。
+tags:
+- chinese-civil-war
+- cross-strait-relations
+- historical-memory
+- reconciliation
+- war
+title: 高秉涵的国共内战记忆：一个13岁逃亡者的苦难与和解之路
 ---
+
 ### 序言：跨越时代的呼唤
 
 近期台海局势紧张，引发了许多人的不安。上周，我收到一封来自台湾的信件，寄信人是高秉涵先生，一位前**国军**（国民革命军：中国国民党领导的军队）军官。十四年前，我曾在**央视**（中国中央电视台：中国国家电视台）采访过他。1948年，年仅13岁的高秉涵在**国共内战**（中国国民党与中国共产党之间的一场内战）的战火中，从山东出发，历时14个月，行程上万公里，最终抵达厦门。他踩着尸体，登上了从大陆开往台湾的最后一班船。

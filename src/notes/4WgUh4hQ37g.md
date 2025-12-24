@@ -1,36 +1,34 @@
 ---
-title: 彭博新闻要点：政府停摆、中美关税、市场震荡与地缘冲突
-summary: 本期彭博新闻聚焦美国政府停摆、中美关税升级的市场影响、银行财报展望、加沙停火进展、法国政局、菲律宾地震等全球要闻。
 area: market-analysis
 category: geopolitics
+companies_orgs: []
+date: '2025-10-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
 project:
 - china-analysis
 - geopolitics-watch
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- gaza-ceasefire
-- geopolitical-news
-- government-shutdown
-- market-liquidation
-- us-china-tariffs
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
-date: '2025-10-11'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=4WgUh4hQ37g
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期彭博新闻聚焦美国政府停摆、中美关税升级的市场影响、银行财报展望、加沙停火进展、法国政局、菲律宾地震等全球要闻。
+tags:
+- geopolitical
+- government-shutdown
+- market
+- us-china-tariff
+title: 彭博新闻要点：政府停摆、中美关税、市场震荡与地缘冲突
 ---
+
 ### 美国政府停摆与军人家庭困境
 
 News when you want it with Bloomberg News Now. I'm Monica Rix. Mass firings of federal workers have begun as Republicans work to put more pressure on Democrats to end the government shutdown. More than 4,000 employees are on the chopping block, and the White House says even more cuts are under consideration. Military personnel are also set to miss paychecks soon.

@@ -1,62 +1,62 @@
 ---
-author: 天下文化
+area: society-systems
+category: business
+companies_orgs:
+- 中華電信
+- 將來銀行
+- 金管會
+- 勤業
+- 信義房屋
+- Sony
+- 大同
+- 天下文化
+- 遠見
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《高年級實習生》
+- 《稻盛和夫的思考之道》
+- 《實踐哲學》
+- 《道德經》
+- 《金剛經》
+- 《蒙格之道》
+people:
+- 郭水義
+- 梁曉華
+- 張忠謀
+- 彼得·杜拉克
+- 勞勃·狄尼洛
+- 稻盛和夫
+- 陳茂雄
+- 松下幸之助
+- 周董事長
+- 曾參
+- 孔子
+- 蒙格
+products_models:
+- Walkman
+- MOD
+project:
+- systems-thinking
+- personal-growth-lab
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=fSUIeMI3Qjs
 speaker: 天下文化
-tags:
-  - leadership-philosophy
-  - organizational-transformation
-  - innovation-strategy
-  - customer-centricity
-  - mindset-shift
-title: 郭水義董事長：從中華電信到將來銀行，領導力、創新與思維轉型的實踐
-summary: 將來銀行董事長郭水義在本訪談中，分享了他從中華電信到將來銀行的轉型歷程與領導心法。他強調領導應具備願景並能凝聚團隊，核心特質為信賴、創新與誠信經營。郭董事長特別指出傾聽與提問的重要性，並以《高年級實習生》為例，闡述將舞台交給年輕團隊的理念。他還探討了稻盛和夫與松下幸之助的經營哲學，並鼓勵年輕領導者以「開啟將來」的思維，不畏艱難，持續精進。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - 郭水義
-  - 梁曉華
-  - 張忠謀
-  - 彼得·杜拉克
-  - 勞勃·狄尼洛
-  - 稻盛和夫
-  - 陳茂雄
-  - 松下幸之助
-  - 周董事長
-  - 曾參
-  - 孔子
-  - 蒙格
-companies_orgs:
-  - 中華電信
-  - 將來銀行
-  - 金管會
-  - 勤業
-  - 信義房屋
-  - Sony
-  - 大同
-  - 天下文化
-  - 遠見
-products_models:
-  - Walkman
-  - MOD
-media_books:
-  - 《高年級實習生》
-  - 《稻盛和夫的思考之道》
-  - 《實踐哲學》
-  - 《道德經》
-  - 《金剛經》
-  - 《蒙格之道》
 status: evergreen
+summary: 將來銀行董事長郭水義在本訪談中，分享了他從中華電信到將來銀行的轉型歷程與領導心法。他強調領導應具備願景並能凝聚團隊，核心特質為信賴、創新與誠信經營。郭董事長特別指出傾聽與提問的重要性，並以《高年級實習生》為例，闡述將舞台交給年輕團隊的理念。他還探討了稻盛和夫與松下幸之助的經營哲學，並鼓勵年輕領導者以「開啟將來」的思維，不畏艱難，持續精進。
+tags:
+- geopolitical
+- leadership-philosophy
+- shift
+- strategy
+- transformation
+title: 郭水義董事長：從中華電信到將來銀行，領導力、創新與思維轉型的實踐
 ---
+
 主持人梁曉華: 歡迎收聽對話領導力，本節目由領導影響力學院與天下文化共同出品，與頂尖領袖對話，從經典書籍出發，探索領導的智慧跟管理心法。我是主持人梁曉華。在我們節目當中，每一次都會為大家邀請到業界非常資深的CEO，來分享他們的人生故事或者是領導管理心法。今天節目當中很難得，幫大家邀請到之前是中華電信的董事長，現在是將來銀行的董事長。董事長，我們先跟觀眾朋友打聲招呼。
 
 郭水義董事長: 觀眾朋友大家好。

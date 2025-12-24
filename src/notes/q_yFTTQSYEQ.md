@@ -1,41 +1,41 @@
 ---
-author: 北美王路飞
+area: personal-systems
+category: psychology
+companies_orgs:
+- FBI
+- ISIS
+- 基地组织
+- Cartel
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《判断人心：一位资深FBI特工的行为预测用户手册》
+people:
+- Robin Drake
+- George
+- Doug
+products_models:
+- IED
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=q_yFTTQSYEQ
 speaker: 北美王路飞
-tags:
-  - reliability-assessment
-  - competence-diligence
-  - behavioral-signals
-  - team-collaboration
-  - trust-building
-title: FBI识人术：20条黄金信号，一秒看穿“猪队友”
-summary: 本期节目基于前FBI探员的著作，深入剖析了“可靠性”作为识人核心原则的重要性。通过FBI探员罗宾·德里克及其不可靠领导乔治的案例，节目阐明了能力与勤奋对建立信任的关键作用。文章提供了10个负面和10个正面信号，帮助读者识别可靠的个体，为评估工作伙伴和生活中的合作者提供了实用的工具。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Robin Drake
-  - George
-  - Doug
-companies_orgs:
-  - FBI
-  - ISIS
-  - 基地组织
-  - Cartel
-products_models:
-  - IED
-media_books:
-  - 《判断人心：一位资深FBI特工的行为预测用户手册》
 status: evergreen
+summary: 本期节目基于前FBI探员的著作，深入剖析了“可靠性”作为识人核心原则的重要性。通过FBI探员罗宾·德里克及其不可靠领导乔治的案例，节目阐明了能力与勤奋对建立信任的关键作用。文章提供了10个负面和10个正面信号，帮助读者识别可靠的个体，为评估工作伙伴和生活中的合作者提供了实用的工具。
+tags:
+- behavioral-signal
+- competence-diligence
+- society
+- team-collaboration
+- trust-building
+title: FBI识人术：20条黄金信号，一秒看穿“猪队友”
 ---
+
 ### 引言：识人识己，看穿“猪队友”
 
 大家好，欢迎来到我的频道。今天我们继续探讨前FBI探员亲授的**《size people up》**（识人术：如何快速准确地评估他人）一书，旨在帮助我们一秒看穿身边的“猪队友”。我们将深入研究书中工具的第三条信号，即**可靠性**（Reliability: 指一个人在特定情境下，能够持续兑现承诺并完成任务的特质）。

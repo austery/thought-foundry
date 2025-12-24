@@ -1,93 +1,93 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 美国劳工部
+- 华尔街日报
+- 瑞银投资银行
+- 芝加哥商品交易所
+- CNBC
+- 美国国税局
+- 特斯拉
+- 彭博社
+- 川普媒体与科技集团公司
+- TAE
+- Google
+- 雪佛龙
+- 高盛
+- 路透社
+- 利弗莫尔国家实验室
+- 巨变工业协会
+- 国会山
+- 美国司法部
+- 摩根大通
+- 周刊文春
+- 嘉能全球战略研究所
+- 抖音
+- 哔哩哔哩
+- 嘉能中山工厂
+- 新华社
+- 国台办
+- 海峡导报
+- 中纪委国家监委
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国家安全战略报告》
+- 《海峡导报》
+people:
+- 德特麦斯特
+- 尼克蒂米尼斯
+- 盖瑞特
+- 小泽秀树
+- 托尼·布莱尔
+- 杰米·戴蒙
+- 高市早苗
+- 谢长廷
+- 封春建思
+- 小泉晋次郎
+- 陈彬华
+- 何立峰
+- 邓小平
+- 江泽民
+- 胡锦涛
+- 许家印
+- 杰克史密斯
+- 周德瑞
+- 唐纳德·特朗普
+- Xi Jinping
+products_models:
+- FSD
+- F-16V
+- M109A7
+- 海马斯
+- 标枪反坦克导弹
+- 陆军战术导弹系统
+- 阿尔提乌斯巡飞无人机
+project:
+- china-analysis
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=UeBJsFOUp2o
 speaker: LT視界
-tags:
-  - us-economy
-  - tax-planning
-  - ev-market
-  - nuclear-fusion
-  - taiwan-arms-deal
-  - china-politics
-  - disinformation
-  - eu-reform
-title: 中美关系、台海军售与中国内政：多维度透视全球热点
-summary: 本期节目深入探讨了多项全球热点新闻。从美国通胀数据失真、年底节税策略，到特斯拉的促销租赁计划。重点关注特朗普媒体公司与核聚变企业的合并，以及其家族商业帝国的扩张。同时，节目详细分析了美国对台军售的历史性规模及其对中美关系的影响，以及中国官方和民间对此事件的截然不同反应。此外，还讨论了欧盟改革的紧迫性、中国对日本的虚假信息攻击，以及中国高官因“妄议中央”落马的案例，揭示了中国政治生态的深层问题。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - 德特麦斯特
-  - 尼克蒂米尼斯
-  - 盖瑞特
-  - 小泽秀树
-  - 托尼·布莱尔
-  - 杰米·戴蒙
-  - 高市早苗
-  - 谢长廷
-  - 封春建思
-  - 小泉晋次郎
-  - 陈彬华
-  - 何立峰
-  - 邓小平
-  - 江泽民
-  - 胡锦涛
-  - 许家印
-  - 杰克史密斯
-  - 周德瑞
-  - 唐纳德·特朗普
-  - 习近平
-companies_orgs:
-  - 美国劳工部
-  - 华尔街日报
-  - 瑞银投资银行
-  - 芝加哥商品交易所
-  - CNBC
-  - 美国国税局
-  - 特斯拉
-  - 彭博社
-  - 川普媒体与科技集团公司
-  - TAE
-  - 谷歌
-  - 雪佛龙
-  - 高盛
-  - 路透社
-  - 利弗莫尔国家实验室
-  - 巨变工业协会
-  - 国会山
-  - 美国司法部
-  - 摩根大通
-  - 周刊文春
-  - 嘉能全球战略研究所
-  - 抖音
-  - 哔哩哔哩
-  - 嘉能中山工厂
-  - 新华社
-  - 国台办
-  - 海峡导报
-  - 中纪委国家监委
-products_models:
-  - FSD
-  - F-16V
-  - M109A7
-  - 海马斯
-  - 标枪反坦克导弹
-  - 陆军战术导弹系统
-  - 阿尔提乌斯巡飞无人机
-media_books:
-  - 《国家安全战略报告》
-  - 《海峡导报》
 status: evergreen
+summary: 本期节目深入探讨了多项全球热点新闻。从美国通胀数据失真、年底节税策略，到特斯拉的促销租赁计划。重点关注特朗普媒体公司与核聚变企业的合并，以及其家族商业帝国的扩张。同时，节目详细分析了美国对台军售的历史性规模及其对中美关系的影响，以及中国官方和民间对此事件的截然不同反应。此外，还讨论了欧盟改革的紧迫性、中国对日本的虚假信息攻击，以及中国高官因“妄议中央”落马的案例，揭示了中国政治生态的深层问题。
+tags:
+- china-politics
+- disinformation
+- ev-market
+- nuclear
+- reform
+- taiwan
+- tax
+- us-economy
+title: 中美关系、台海军售与中国内政：多维度透视全球热点
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月18日，我们首先来了解今天的财经头条。
 
 ### 美国通胀数据与美联储政策

@@ -1,46 +1,45 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Anthropic
+- OpenAI
 date: '2025-04-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Marte
+- Sam Altman
+- Jens Stoltenberg
+- Andreas
+- Sara
+products_models:
+- ChatGPT
+- Claude
+- Curser
+- Copilot
+- Snowflake
+- Streamlit
+project:
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=fPXGmC0LtqM
 speaker: Norges Bank Investment Management
-tags:
-  - ai-in-finance
-  - productivity-enhancement
-  - sovereign-wealth-fund
-  - investment-simulation
-  - risk-management
-title: 挪威主权财富基金：万亿科技与AI驱动的投资管理
-summary: 挪威央行投资管理公司（即挪威主权财富基金）是全球最大的国有投资者，管理着19万亿挪威克朗的资产。本文深入探讨了该基金如何将自身定位为一家科技公司，利用人工智能（AI）在投资管理、风险控制和运营效率方面实现显著提升。基金的目标是每年提高20%的生产力，并通过投资模拟器、预测模型和自动化仪表盘等创新工具，优化投资决策并节省大量成本，同时强调AI在网络防御和数据治理中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Marte
-  - Sam Altman
-  - Jens Stoltenberg
-  - Andreas
-  - Sara
-companies_orgs:
-  - Norges Bank Investment Management
-  - Anthropic
-  - OpenAI
-products_models:
-  - ChatGPT
-  - Claude
-  - Curser
-  - Copilot
-  - Snowflake
-  - Streamlit
-media_books: []
 status: evergreen
+summary: 挪威央行投资管理公司（即挪威主权财富基金）是全球最大的国有投资者，管理着19万亿挪威克朗的资产。本文深入探讨了该基金如何将自身定位为一家科技公司，利用人工智能（AI）在投资管理、风险控制和运营效率方面实现显著提升。基金的目标是每年提高20%的生产力，并通过投资模拟器、预测模型和自动化仪表盘等创新工具，优化投资决策并节省大量成本，同时强调AI在网络防御和数据治理中的关键作用。
+tags:
+- ai-in-finance
+- investment
+- productivity
+- risk-management
+- sovereign-wealth-fund
+title: 挪威主权财富基金：万亿科技与AI驱动的投资管理
 ---
+
 ### 基金概况与科技定位
 
 很高兴见到大家。我是玛尔特。我从刚才的介绍中回过神来。我目前在所谓的**石油基金**（Oljefondet: 挪威主权财富基金）的领导团队中任职。我们的组织名称是**挪威央行投资管理公司**（Norges Bank Investment Management）。我一直致力于吸引女性对金融产生兴趣。当我刚加入基金时，我们是一群经济学家，但现在我们需要技术人员。因此，吸引对技术感兴趣的女性进入金融领域，这是下一个阶段的目标，因为我们在这一块人手不足。

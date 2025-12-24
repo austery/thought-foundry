@@ -1,41 +1,41 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Oracle
+- OpenAI
+- 美国银行
+- Microsoft
+- 亚马逊
+- 苹果
+- Google
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- 巴菲特
+products_models:
+- TPU
+- GPU
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=0LWXpl7rI2U
 speaker: 投资TALK君
-tags:
-  - market-sentiment
-  - sector-rotation
-  - valuation
-  - beta-reduction
-title: 11月美股市场回顾：估值、情绪与板块轮动
-summary: 本期视频回顾了11月美股市场的走势，分析了市场参与度、VIX指数、垃圾债券利差等指标，并探讨了标普500的估值。重点关注了板块轮动、科技股表现以及未来市场展望，为投资者提供了参考。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - 巴菲特
-companies_orgs:
-  - Oracle
-  - OpenAI
-  - 美国银行
-  - 微软
-  - 亚马逊
-  - 苹果
-  - 谷歌
-products_models:
-  - TPU
-  - GPU
-media_books: []
 status: evergreen
+summary: 本期视频回顾了11月美股市场的走势，分析了市场参与度、VIX指数、垃圾债券利差等指标，并探讨了标普500的估值。重点关注了板块轮动、科技股表现以及未来市场展望，为投资者提供了参考。
+tags:
+- beta-reduction
+- market-sentiment
+- sector-rotation
+- valuation
+title: 11月美股市场回顾：估值、情绪与板块轮动
 ---
+
 ### 11月市场回顾：强劲反弹与风险偏好上升
 
 各位观众大家好，欢迎来到每天不单只聊新闻的专业美股频道。我是市场分析员小涛。这周正好是整个11月份最后一个交易日，所以我们一起回过头去看一下过去一周和过去一个月的市场走势。我个人在11月份也是非常的忙，在上一周周四和周五正好是在11月份市场最黑暗的时候，在西海岸做了四场线下的一个投资交流活动，这对于我个人来说也是非常的获益。

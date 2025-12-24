@@ -1,41 +1,40 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: business
+companies_orgs:
+- Western Union
+- SDC Pay
+- Jahz
+- Tabby
+- Tamara
+- Noon
+- Amazon
 date: '2025-05-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Muhammad bin Salman
+products_models: []
+project:
+- us-analysis
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=IHp0I_j5tHk
 speaker: TechButMakeItReal
-tags:
-  - expat-life
-  - middle-east-tech
-  - career-mobility
-  - taxation-implications
-  - emerging-markets
-title: 中东科技就业：迪拜与沙特的机遇、挑战与权衡
-summary: 本文深入探讨西方科技专业人士在中东（特别是阿联酋和沙特阿拉伯）工作的机遇与挑战。文章详细比较了两地的科技生态、人才市场、生活成本、税收政策及文化差异，并提供了关于薪资谈判、职业发展和市场预期的实用建议。旨在帮助考虑移居中东的专业人士做出明智决策，避免潜在陷阱。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Muhammad bin Salman
-companies_orgs:
-  - Western Union
-  - SDC Pay
-  - Jahz
-  - Tabby
-  - Tamara
-  - Noon
-  - Amazon
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨西方科技专业人士在中东（特别是阿联酋和沙特阿拉伯）工作的机遇与挑战。文章详细比较了两地的科技生态、人才市场、生活成本、税收政策及文化差异，并提供了关于薪资谈判、职业发展和市场预期的实用建议。旨在帮助考虑移居中东的专业人士做出明智决策，避免潜在陷阱。
+tags:
+- career
+- financial
+- life
+- market
+- tech
+title: 中东科技就业：迪拜与沙特的机遇、挑战与权衡
 ---
+
 ### 考虑中东科技就业：迪拜与沙特的真实图景
 
 如果你因为科技行业裁员而失业，厌倦了高税收，现在正考虑迪拜，心想着那里的免税工资和阳光，情况能有多糟呢？

@@ -1,52 +1,52 @@
 ---
-author: 视野环球财经
+area: market-analysis
+category: finance
+companies_orgs:
+- Meta
+- Nvidia
+- IBM
+- Morgan Stanley
+- OKLO
+- Tesla
+- Barclays
+- OpenAI
+- 田纳西河谷管理局
+- 霍尔泰克国际公司
+- 美国核管理委员会
+- 泰拉能源公司
+- 标普500指数
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《彭博》
+people:
+- Jensen Huang
+- Sam Altman
+products_models:
+- H200
+- AGI
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=DbLOPpTaeGE
 speaker: 视野环球财经
-tags:
-  - us-market-update
-  - ai-investment-risk
-  - data-center-financing
-  - nuclear-power-future
-  - metaverse-strategy
-title: 美股动态：Meta削减元宇宙预算，英伟达核电言论引关注，IBM与摩根士丹利警示数据中心投资风险
-summary: 本期节目聚焦美股市场最新动态，包括Meta削减元宇宙预算后股价上涨，英伟达在芯片出口限制和核电言论下的股价波动与增发。同时，IBM首席执行官对通用人工智能（AGI）大规模数据中心投入的可持续性提出质疑，摩根士丹利则寻求转移数据中心融资风险。节目还分析了特斯拉的技术面突破，并对劳动力市场数据和降息预期进行了简要回顾。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Jensen Huang
-  - Sam Altman
-companies_orgs:
-  - Meta
-  - Nvidia
-  - IBM
-  - Morgan Stanley
-  - OKLO
-  - Tesla
-  - Barclays
-  - OpenAI
-  - 田纳西河谷管理局
-  - 霍尔泰克国际公司
-  - 美国核管理委员会
-  - 泰拉能源公司
-  - 标普500指数
-products_models:
-  - H200
-  - AGI
-media_books:
-  - 《金融时报》
-  - 《彭博》
 status: evergreen
+summary: 本期节目聚焦美股市场最新动态，包括Meta削减元宇宙预算后股价上涨，英伟达在芯片出口限制和核电言论下的股价波动与增发。同时，IBM首席执行官对通用人工智能（AGI）大规模数据中心投入的可持续性提出质疑，摩根士丹利则寻求转移数据中心融资风险。节目还分析了特斯拉的技术面突破，并对劳动力市场数据和降息预期进行了简要回顾。
+tags:
+- ai-investment-risk
+- data-center-financing
+- market
+- power
+- strategy
+title: 美股动态：Meta削减元宇宙预算，英伟达核电言论引关注，IBM与摩根士丹利警示数据中心投资风险
 ---
+
 ### 市场概览与经济数据
 
 美东时间12月4日周四晚上7点45分，美股四大指数中，罗素指数表现最为亮眼，其他三大指数表现平平，特别是纳斯达克100指数。若非少数权重股的上涨，纳指100的表现可能会比较难看，因为其61只成分股下跌，仅有40只上涨。

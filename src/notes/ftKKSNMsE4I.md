@@ -1,51 +1,51 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Border Patrol
+- ICE
+- NOAA
+- Hamas
+- KKK
+- Chapel Ran
+- Grateful Dead
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- setlist.fm
+- The Daily
+- The New York Times
+people:
+- Gregory Bovino
+- Pete Hegseth
+- Albert Pike
+- Benjamin Netanyahu
+- JD Vance
+- Donald Trump
+- Xi Jinping
+- Mozart
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ftKKSNMsE4I
 speaker: New York Times Podcasts
-tags:
-  - hurricane-impact
-  - border-patrol-tactics
-  - us-foreign-policy
-  - middle-east-conflict
-  - cultural-trends
-title: 全球焦点：飓风灾情、边境执法争议与国际政治动态
-summary: 本期新闻头条涵盖了多项全球重大事件。加勒比海地区遭受五级飓风“梅丽莎”重创，凸显气候变化影响及政府停摆对灾害应对的挑战。美国芝加哥，联邦法官严厉批评边境巡逻队在移民执法中过度使用催泪瓦斯。此外，还聚焦特朗普政府的亚洲之行、打击毒品走私行动，以及引发争议的邦联雕像重置。中东方面，以色列与哈马斯停火协议面临考验，加沙人道危机持续。最后，探讨了互联网如何改变演唱会体验。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Gregory Bovino
-  - Pete Hegseth
-  - Albert Pike
-  - Benjamin Netanyahu
-  - JD Vance
-  - Donald Trump
-  - Xi Jinping
-  - Mozart
-companies_orgs:
-  - Border Patrol
-  - ICE
-  - NOAA
-  - Hamas
-  - KKK
-  - Chapel Ran
-  - Grateful Dead
-products_models: []
-media_books:
-  - setlist.fm
-  - The Daily
-  - The New York Times
 status: evergreen
+summary: 本期新闻头条涵盖了多项全球重大事件。加勒比海地区遭受五级飓风“梅丽莎”重创，凸显气候变化影响及政府停摆对灾害应对的挑战。美国芝加哥，联邦法官严厉批评边境巡逻队在移民执法中过度使用催泪瓦斯。此外，还聚焦特朗普政府的亚洲之行、打击毒品走私行动，以及引发争议的邦联雕像重置。中东方面，以色列与哈马斯停火协议面临考验，加沙人道危机持续。最后，探讨了互联网如何改变演唱会体验。
+tags:
+- conflict
+- cultural
+- geopolitical
+- impact
+- us-foreign-policy
+title: 全球焦点：飓风灾情、边境执法争议与国际政治动态
 ---
+
 ### 飓风“梅丽莎”肆虐加勒比海
 
 目前收到的报告显示，灾情极其严重。

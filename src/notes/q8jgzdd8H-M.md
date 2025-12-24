@@ -1,68 +1,68 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- MI6
+- 美国编剧工会
+- FBI
+- DOJ (美国司法部)
+- Mossad
+- AIPAC
+- Polymarket
+- 中央戏剧学院
+- 纽约电影学院
+- 孟京辉工作室
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+- 《东邪西毒》
+- 《东成西就》
+- 《重庆森林》
+- 《华尔街日报》
+people:
+- 王家卫
+- 谷二
+- 秦文
+- Jeffrey Epstein
+- Donald Trump
+- Larry Summers
+- 金克宇
+- Steve Bannon
+- Pam Bondi
+- Mike Johnson
+- Thomas Massie
+- Marjorie Taylor Greene
+- Bill Clinton
+- 高市早苗
+- Xi Jinping
+- Vladimir Putin
+- 拜登
+- 奥巴马
+- 贺锦丽
+products_models:
+- Jmail
+- ChatGPT
+project:
+- us-analysis
+- china-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=q8jgzdd8H-M
 speaker: 北美王路飞
-tags:
-  - power-dynamics
-  - workplace-exploitation
-  - political-scandal
-  - systemic-corruption
-title: 王家卫《繁花》编剧风波与爱泼斯坦邮件门的权力游戏
-summary: 本期节目深入探讨了两起备受关注的事件。首先，揭示了王家卫导演的电视剧《繁花》背后的编剧署名权争议，探讨了编剧谷二所遭遇的职场霸凌与权益侵占，反映了中国影视行业缺乏工会保护的现状。其次，节目分析了爱泼斯坦邮件门的最新进展，讨论其对特朗普选情的冲击以及两党精英在该事件中的复杂角色，揭示了权力系统内部的腐败与共谋。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - cultural-critique
-people:
-  - 王家卫
-  - 谷二
-  - 秦文
-  - Jeffrey Epstein
-  - Donald Trump
-  - Larry Summers
-  - 金克宇
-  - Steve Bannon
-  - Pam Bondi
-  - Mike Johnson
-  - Thomas Massie
-  - Marjorie Taylor Greene
-  - Bill Clinton
-  - 高市早苗
-  - 习近平
-  - 普京
-  - 拜登
-  - 奥巴马
-  - 贺锦丽
-companies_orgs:
-  - MI6
-  - 美国编剧工会
-  - FBI
-  - DOJ (美国司法部)
-  - Mossad
-  - AIPAC
-  - Polymarket
-  - 中央戏剧学院
-  - 纽约电影学院
-  - 孟京辉工作室
-products_models:
-  - Jmail
-  - ChatGPT
-media_books:
-  - 《繁花》
-  - 《东邪西毒》
-  - 《东成西就》
-  - 《重庆森林》
-  - 《华尔街日报》
 status: evergreen
+summary: 本期节目深入探讨了两起备受关注的事件。首先，揭示了王家卫导演的电视剧《繁花》背后的编剧署名权争议，探讨了编剧谷二所遭遇的职场霸凌与权益侵占，反映了中国影视行业缺乏工会保护的现状。其次，节目分析了爱泼斯坦邮件门的最新进展，讨论其对特朗普选情的冲击以及两党精英在该事件中的复杂角色，揭示了权力系统内部的腐败与共谋。
+tags:
+- political-scandal
+- power-dynamic
+- society
+- systemic-corruption
+title: 王家卫《繁花》编剧风波与爱泼斯坦邮件门的权力游戏
 ---
+
 ### 从《东邪西毒》的孤独感谈起
 今天我们聊两个话题：王家卫的《繁花》翻车事件，以及爱泼斯坦的邮件门。
 

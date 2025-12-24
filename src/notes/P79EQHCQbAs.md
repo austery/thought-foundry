@@ -1,46 +1,46 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- Trip.com Group
+- Singapore Airlines
+- Four Seasons
 date: '2024-08-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Unreasonable Hospitality
+- Leadership
+- Outlive
+- Antifragile
+people:
+- Nicola Tangan
+- Jane Sun
+- Henry Kissinger
+- Magnus Carlsen
+products_models:
+- Trip Genie
+project:
+- entrepreneurship
+- personal-growth-lab
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=P79EQHCQbAs
 speaker: Norges Bank Investment Management
-tags:
-  - travel-industry
-  - corporate-culture
-  - crisis-management
-  - women-in-leadership
-  - customer-service
-title: 携程CEO孙洁：从个人旅程到全球旅游巨头的领导力与创新
-summary: 携程集团CEO孙洁分享了她的个人成长历程，从上海到美国求学，以及她如何将携程打造成全球领先的旅游公司。她深入阐述了携程成功的“55443”公式，强调品牌服务、技术创新和客户至上的企业文化。孙洁还分享了她在危机管理、赋能女性领导力以及平衡工作与生活方面的独特见解，并展望了旅游业的未来趋势和女性在全球领导舞台上的重要作用。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-  - ai-impact-analysis
-people:
-  - Nicola Tangan
-  - Jane Sun
-  - Henry Kissinger
-  - Magnus Carlsen
-companies_orgs:
-  - Norges Bank Investment Management
-  - Trip.com Group
-  - Singapore Airlines
-  - Four Seasons
-products_models:
-  - Trip Genie
-media_books:
-  - Unreasonable Hospitality
-  - Leadership
-  - Outlive
-  - Antifragile
 status: evergreen
+summary: 携程集团CEO孙洁分享了她的个人成长历程，从上海到美国求学，以及她如何将携程打造成全球领先的旅游公司。她深入阐述了携程成功的“55443”公式，强调品牌服务、技术创新和客户至上的企业文化。孙洁还分享了她在危机管理、赋能女性领导力以及平衡工作与生活方面的独特见解，并展望了旅游业的未来趋势和女性在全球领导舞台上的重要作用。
+tags:
+- corporate-culture
+- crisis-management
+- geopolitical
+- industry
+- women-in-leadership
+title: 携程CEO孙洁：从个人旅程到全球旅游巨头的领导力与创新
 ---
+
 ### 携程CEO孙洁的个人旅程与职业选择
 
 大家好，我是**挪威主权财富基金**（Norwegian Sovereign Wealth Fund: 挪威政府设立的全球最大主权财富基金，投资于国际股票、固定收益、房地产和未上市的可再生能源基础设施）的首席执行官Nicola Tangan。

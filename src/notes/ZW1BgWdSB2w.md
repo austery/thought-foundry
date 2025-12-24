@@ -1,38 +1,38 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 收获APP
 date: '2024-10-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《沉默石》
+people:
+- 梁彦增
+- 余华
+- 莫言
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=ZW1BgWdSB2w
 speaker: 一席YiXi
-tags:
-  - idealism-vs-realism
-  - family-authority
-  - generational-trauma
-  - social-recognition
-  - identity-formation
-title: 孩子，青年们，告别和漫长的梦：一个东北青年的理想突围史
-summary: 梁彦增以自传式讲述，回溯从奥特曼梦想到作家理想的破碎与重建，在家庭权威、社会期待与自我认同的撕裂中，揭示中国青年在阶层流动焦虑中的精神困境与温柔反抗。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - cultural-critique
-people:
-  - 梁彦增
-  - 余华
-  - 莫言
-companies_orgs:
-  - 收获APP
-products_models: []
-media_books:
-  - 《沉默石》
 status: evergreen
+summary: 梁彦增以自传式讲述，回溯从奥特曼梦想到作家理想的破碎与重建，在家庭权威、社会期待与自我认同的撕裂中，揭示中国青年在阶层流动焦虑中的精神困境与温柔反抗。
+tags:
+- family
+- health
+- idealism-vs-realism
+- identity
+- social
+title: 孩子，青年们，告别和漫长的梦：一个东北青年的理想突围史
 ---
+
 ### 奥特曼的崩塌：一个男孩对权威世界的初次觉醒
 
 大家好，我叫梁彦增。是一个喜剧演员，也是一个文学爱好者。今天我想聊聊理想——这个在当下时代听起来有点烫嘴的词。

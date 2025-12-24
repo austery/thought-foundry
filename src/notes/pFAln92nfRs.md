@@ -1,47 +1,44 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- FBI
+- 美联储
+- 司法部
+- 自民党
+- 日本维新会
+- 立宪民主党
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kamala Harris
+- Donald Trump
+- Joe Biden
+- Jerome Powell
+- 高市早苗
+- 老马
+- 金刚
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=pFAln92nfRs
 speaker: 北美王路飞
-tags:
-  - us-election-2024
-  - political-economy
-  - campaign-strategy
-  - japanese-politics
-  - political-polarization
-title: 政治与金融的交织：从美国大选到日本政局的深度探讨
-summary: 本文深入探讨了政治与金融市场之间的复杂关系，从美国大选中华盛顿政治人物与美联储政策对金融市场及选举结果的影响，到日本政客高市早苗的言论及其对政党权力结构的影响。文中还讨论了政客普遍存在的将党派利益置于国家利益之上的倾向，以及政治人物在婚恋市场中的生态地位等话题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Kamala Harris
-  - Donald Trump
-  - Joe Biden
-  - Jerome Powell
-  - 高市早苗
-  - 老马
-  - 北美王路飞
-  - 金刚
-companies_orgs:
-  - FBI
-  - 美联储
-  - 司法部
-  - 自民党
-  - 日本维新会
-  - 立宪民主党
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了政治与金融市场之间的复杂关系，从美国大选中华盛顿政治人物与美联储政策对金融市场及选举结果的影响，到日本政客高市早苗的言论及其对政党权力结构的影响。文中还讨论了政客普遍存在的将党派利益置于国家利益之上的倾向，以及政治人物在婚恋市场中的生态地位等话题。
+tags:
+- campaign-strategy
+- political-economy
+- politics
+- us-election-2024
+title: 政治与金融的交织：从美国大选到日本政局的深度探讨
 ---
+
 ### 政治与金融：美联储角色及美国大选影响
 
 **老马:** 我跟大家，刚才支持我、反对我的那些群众，我不是乱讲话。有人说我是不懂政治，但我炒股炒债这么多年，是在市场上玩真钱的。这跟政治没什么关系，但我政治上的敏感性还是很强的。

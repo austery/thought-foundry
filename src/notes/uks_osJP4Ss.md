@@ -1,48 +1,47 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- 特斯拉
+- 通用电气
+- FICO
+- 比亚迪
+- 劳斯莱斯
+- 雷神集团
+- 海尔
+- 伯克希尔
+- 美国联邦住房金融署
 date: '2025-06-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- Donald Trump
+- 老段
+- 老巴
+- jackwill
+products_models: []
+project:
+- us-analysis
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=uks_osJP4Ss
 speaker: Shijun Tang
-tags:
-  - high-valuation-risks
-  - saaas-business-model
-  - credit-scoring-systems
-  - earnings-quality-analysis
-  - regulatory-risk
-title: 特斯拉、通用电气与FICO：解构美股三大标的的估值逻辑与基本面真相
-summary: 本文深入分析特斯拉、GE Aerospace与FICO三家公司的财务表现、商业模式与市场估值，揭示高市盈率背后的脆弱性、SaaS化航空引擎的长期收益结构，以及信用评分系统如何在监管风险中维持超高利润率。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - ai-impact-analysis
-people:
-  - 唐石峻
-  - 川普
-  - 老段
-  - 老巴
-  - jackwill
-companies_orgs:
-  - 特斯拉
-  - 通用电气
-  - FICO
-  - 比亚迪
-  - 劳斯莱斯
-  - 雷神集团
-  - 海尔
-  - 伯克希尔
-  - 美国联邦住房金融署
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入分析特斯拉、GE Aerospace与FICO三家公司的财务表现、商业模式与市场估值，揭示高市盈率背后的脆弱性、SaaS化航空引擎的长期收益结构，以及信用评分系统如何在监管风险中维持超高利润率。
+tags:
+- analysis
+- risk
+- saaas-business-model
+- system
+title: 特斯拉、通用电气与FICO：解构美股三大标的的估值逻辑与基本面真相
 ---
+
 ### 特斯拉：高增长神话下的估值泡沫与基本面困境
 
 特斯拉是一家极具传奇色彩的公司，其股价走势常与其CEO的个人行为深度绑定——正所谓“成也萧何，败也萧何”。尽管其财报屡次被市场称为“暴雷”，但往往在发布后股价却迎来暴涨，本次亦不例外：财报公布后股价一度飙升65.05%。然而，这种反弹难以掩盖其深层问题。

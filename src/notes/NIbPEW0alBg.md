@@ -1,39 +1,38 @@
 ---
-author: 一口新飯
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《被讨厌的勇气》
+- 《黑天鹅》
+- 《Split the Pie》
+- 《Thinking in Bets》
+- 影视飓风
+people:
+- Tim
+- 罗永浩
+- Nassim Nicholas Taleb
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=NIbPEW0alBg
 speaker: 一口新飯
-tags:
-  - self-serving-bias
-  - success-perception
-  - ancient-instincts
-  - modern-challenges
-  - narrative-shift
-title: 为什么我们总爱否定他人的成功？从心理学到现代社会的应对之道
-summary: 本期节目探讨了人们普遍存在的否定他人成功的心理现象，即“自立性归因”。这种源于远古生存本能的心理机制，在现代社会反而成为阻碍个人成长的“毒药”，导致逃避行动和错失学习机会。为克服这一困境，节目提出三种新的叙事方式：关注“如何”而非“为何”，追求“真相”而非“感受”，以及聚焦“进步”而非“输赢”，旨在帮助听众建立积极心态，拥抱挑战与学习。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Tim
-  - 罗永浩
-  - Nassim Nicholas Taleb
-companies_orgs: []
-products_models: []
-media_books:
-  - 《被讨厌的勇气》
-  - 《黑天鹅》
-  - 《Split the Pie》
-  - 《Thinking in Bets》
-  - 影视飓风
 status: evergreen
+summary: 本期节目探讨了人们普遍存在的否定他人成功的心理现象，即“自立性归因”。这种源于远古生存本能的心理机制，在现代社会反而成为阻碍个人成长的“毒药”，导致逃避行动和错失学习机会。为克服这一困境，节目提出三种新的叙事方式：关注“如何”而非“为何”，追求“真相”而非“感受”，以及聚焦“进步”而非“输赢”，旨在帮助听众建立积极心态，拥抱挑战与学习。
+tags:
+- challenge
+- history
+- narrative
+- perception
+- self
+title: 为什么我们总爱否定他人的成功？从心理学到现代社会的应对之道
 ---
 
 ### 引言：对Tim成功案例的争议与反思

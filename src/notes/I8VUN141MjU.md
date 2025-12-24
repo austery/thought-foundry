@@ -1,44 +1,45 @@
 ---
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=I8VUN141MjU'
-tags:
-  - image-generation
-  - ai-editing
-  - multimodal-ai
-  - creative-tools
-  - user-experience
-title: Google DeepMind 开发者揭秘：Nano Banana 模型是如何诞生的
-summary: 本文深入探讨了 Google DeepMind 团队如何开发其突破性的 Nano Banana 图像生成模型。开发者们分享了该模型从 Imagine 系列演变而来的历程，以及 Gemini 2.0 Flash 的多模态能力如何与 Imagine 的卓越视觉质量相结合。讨论还涵盖了模型在赋能艺术创作、革新教育领域的巨大潜力，以及未来图像模型在3D、交互性和用户控制方面所面临的挑战与机遇。文章强调了AI作为创意工具的价值，以及其如何改变我们与数字内容互动的方式。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Michelangelo
-  - Ross Lovegrove
+category: technology
 companies_orgs:
-  - Google DeepMind
-  - Adobe
-products_models:
-  - Nano Banana
-  - Imagine
-  - Gemini
-  - Gemini 2.0 Flash
-  - Gemini 2.5 Flash
-  - ControlNet
-  - Comfy UI
-  - Cloud Sauna
+- Google DeepMind
+- Adobe
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Diamond Age
-status: evergreen
+- The Diamond Age
+people:
+- Michelangelo
+- Ross Lovegrove
+products_models:
+- Nano Banana
+- Imagine
+- Gemini
+- Gemini 2.0 Flash
+- Gemini 2.5 Flash
+- ControlNet
+- Comfy UI
+- Cloud Sauna
+project:
+- ai-impact-analysis
+series: ''
+source: https://www.youtube.com/watch?v=I8VUN141MjU
 speaker: a16z
-author: a16z
+status: evergreen
+summary: 本文深入探讨了 Google DeepMind 团队如何开发其突破性的 Nano Banana 图像生成模型。开发者们分享了该模型从 Imagine
+  系列演变而来的历程，以及 Gemini 2.0 Flash 的多模态能力如何与 Imagine 的卓越视觉质量相结合。讨论还涵盖了模型在赋能艺术创作、革新教育领域的巨大潜力，以及未来图像模型在3D、交互性和用户控制方面所面临的挑战与机遇。文章强调了AI作为创意工具的价值，以及其如何改变我们与数字内容互动的方式。
+tags:
+- generation
+- llm
+- multimodal-ai
+- tool
+- user-experience
+title: Google DeepMind 开发者揭秘：Nano Banana 模型是如何诞生的
 ---
+
 ### AI 赋能创意：从繁琐到创新
 
 这些模型让创作者能够减少工作中繁琐的部分，对吧？他们可以更具创意，并将 90% 的时间用于创作，而不是 90% 的时间用于编辑和执行这些繁琐的手动操作。

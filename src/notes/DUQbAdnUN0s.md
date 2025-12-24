@@ -1,36 +1,32 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-08-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 邓雯心医师
+- Dr. Donald Layman
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=DUQbAdnUN0s
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - protein-intake
-  - anti-aging
-  - muscle-synthesis
-  - plant-based-protein
-  - animal-protein
-  - leucine-threshold
-title: 40岁后如何正确摄取蛋白质：种类、来源与抗老关键
-summary: 本文由邓雯心医师深入探讨40岁后蛋白质摄取的关键，强调不仅要吃够量，更要吃对种类和来源。文章分析了动物性与植物性蛋白质的优缺点，纠正了对红肉的常见误解，并指出白胺酸在肌肉合成中的重要性。同时，揭示了单纯依赖植物性蛋白可能面临的陷阱，并提供了均衡搭配、多样化摄取的实用建议，以实现健康抗老和优化体组成。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 邓雯心医师
-  - Dr. Donald Layman
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文由邓雯心医师深入探讨40岁后蛋白质摄取的关键，强调不仅要吃够量，更要吃对种类和来源。文章分析了动物性与植物性蛋白质的优缺点，纠正了对红肉的常见误解，并指出白胺酸在肌肉合成中的重要性。同时，揭示了单纯依赖植物性蛋白可能面临的陷阱，并提供了均衡搭配、多样化摄取的实用建议，以实现健康抗老和优化体组成。
+tags:
+- anti
+- geopolitical
+- health
+title: 40岁后如何正确摄取蛋白质：种类、来源与抗老关键
 ---
+
 ### 蛋白质摄取：量与质同样关键
 
 谈到抗老，肌肉是其中非常关键且重要的一环。如果你摄取了30克的蛋白质，但**白胺酸**（Leucine: 一种必需胺基酸，对启动肌肉合成至关重要）的含量却不足，那么效果可能就不会那么显著。那么，到底需要摄取多少白胺酸呢？换算成食物，3克的白胺酸究竟是什么概念？

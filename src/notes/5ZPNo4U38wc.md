@@ -1,59 +1,59 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 网信办
+- Bilibili
+- 抖音
+- 小红书
+- 淘宝
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《西游记》
+- 《三国演义》
+- 内涵段子
+- BBC
+- New York Times
+- Twitter
+- youtube-migration
+people:
+- 户晨风
+- Xi Jinping
+- 夏何
+- 陈平
+- 华佗
+- 雷程刚
+- 李洪志
+products_models:
+- OPPO A9
+- 特斯拉
+- 苹果
+- 安卓
+- 麦当劳
+- 星巴克
+- 山姆
+- 博依德
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=5ZPNo4U38wc
 speaker: 老周横眉
-tags:
-  - china-censorship
-  - freedom-of-speech
-  - online-influencers
-  - social-commentary
-  - youtube-migration
-title: 户晨风被全网封杀：中国言论审查环境与博主出海挑战
-summary: 本期节目深入探讨了知名博主户晨风在中国被全网封杀的事件，分析了其背后的言论审查机制和中国社会的主流价值观。主持人老周横眉分享了对户晨风现象的看法，并讨论了其转战YouTube平台可能面临的机遇与挑战，包括肉身翻墙、家人影响、经济压力以及海外平台生态的适应问题，为面临类似困境的创作者提供参考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - 户晨风
-  - 习近平
-  - 夏何
-  - 陈平
-  - 华佗
-  - 雷程刚
-  - 李洪志
-companies_orgs:
-  - 网信办
-  - Bilibili
-  - 抖音
-  - 小红书
-  - 淘宝
-products_models:
-  - OPPO A9
-  - 特斯拉
-  - 苹果
-  - 安卓
-  - 麦当劳
-  - 星巴克
-  - 山姆
-  - 博依德
-media_books:
-  - 《西游记》
-  - 《三国演义》
-  - 内涵段子
-  - BBC
-  - New York Times
-  - Twitter
 status: evergreen
+summary: 本期节目深入探讨了知名博主户晨风在中国被全网封杀的事件，分析了其背后的言论审查机制和中国社会的主流价值观。主持人老周横眉分享了对户晨风现象的看法，并讨论了其转战YouTube平台可能面临的机遇与挑战，包括肉身翻墙、家人影响、经济压力以及海外平台生态的适应问题，为面临类似困境的创作者提供参考。
+tags:
+- china
+- freedom-of-speech
+- online
+- social-commentary
+title: 户晨风被全网封杀：中国言论审查环境与博主出海挑战
 ---
+
 ### 户晨风事件回顾与中国言论审查环境
 
 过去这个周末，中国知名博主户晨风突然被全网封杀。在我看来，户晨风被封杀这件事，就跟潮汐一样，根本就不是会不会发生的问题，而是什么时候发生的问题。如果说户晨风和他的粉丝们没有想过他迟早会被全网封禁的话，那只是一种侥幸心理罢了。其实过去一年来，经常都会有观众让我评价一下户晨风，但我一直觉得没有这个必要特地做一期视频去讲他。但他被封杀的这件事情确实引起了广泛的社会讨论。户晨风被中共封杀也不仅仅是他个人的事，也能让我们对目前中国言论审查的大环境做一个探讨和审视。所以今天我觉得还是有必要来跟大家聊一聊这件事。

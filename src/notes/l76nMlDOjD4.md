@@ -1,42 +1,39 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 初日醫學
+- Cofit
 date: '2025-05-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 黄子秦
+- 魏士航医师
+- 宋晏仁医师
+- 孟环
+products_models:
+- 排糖药
+- 肠泌素
+- 168断食法
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=l76nMlDOjD4
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - weight-loss
-  - insulin-resistance
-  - diet-management
-  - chronic-inflammation
-  - personalized-health
-  - medication-management
-title: 从绝望到蜕变：黄子秦逆转胰岛素阻抗，成功减重42公斤的健康之路
-summary: 黄子秦女士曾因肥胖和胰岛素阻抗对减重失去信心，尝试多种方法均告失败。在初日诊所，她通过全面的身体检查、个性化药物调整、营养师指导的饮食管理（如减少淀粉、戒零食、提高蛋白质、尝试168断食）及运动，成功减重42公斤，体脂下降20%，糖化血色素和发炎指数恢复正常，彻底逆转胰岛素阻抗，重拾健康与自信。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 黄子秦
-  - 魏士航医师
-  - 宋晏仁医师
-  - 孟环
-companies_orgs:
-  - 初日診所
-  - 初日醫學
-  - Cofit
-products_models:
-  - 排糖药
-  - 肠泌素
-  - 168断食法
-media_books: []
 status: evergreen
+summary: 黄子秦女士曾因肥胖和胰岛素阻抗对减重失去信心，尝试多种方法均告失败。在初日诊所，她通过全面的身体检查、个性化药物调整、营养师指导的饮食管理（如减少淀粉、戒零食、提高蛋白质、尝试168断食）及运动，成功减重42公斤，体脂下降20%，糖化血色素和发炎指数恢复正常，彻底逆转胰岛素阻抗，重拾健康与自信。
+tags:
+- health
+- insulin-resistance
+- loss
+- management
+title: 从绝望到蜕变：黄子秦逆转胰岛素阻抗，成功减重42公斤的健康之路
 ---
+
 ### 长期困扰：从肥胖到胰岛素阻抗的减重绝望
 
 黄子秦女士自述，她从小就深受肥胖困扰，深知自己的血糖控制不佳，对减重早已不抱任何希望，甚至不认为自己这辈子能瘦下来。目前，黄子秦女士在半导体行业从事业务工作。过去，她偏爱各种美食，尤其是面食。她曾尝试过多种减重方法，包括瘦身饼干减肥法、中医药、埋线、埋针，甚至鸡尾酒疗法。然而，这些努力最终都以体重在两三年后反弹告终。

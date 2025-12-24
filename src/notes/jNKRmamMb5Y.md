@@ -1,64 +1,62 @@
 ---
-author: 记者易速利
+area: society-thinking
+category: politics-society
+companies_orgs:
+- FBI
+- Miami Herald
+- Justice Department
+- New York Magazine
+- Fox News
+- The New Yorker
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《无依无靠的女孩》
+- New York Magazine
+- Miami Herald
+- The New Yorker
+people:
+- Jeffrey Epstein
+- Donald Trump
+- Thomas Massey
+- Marjorie Taylor Greene
+- Lauren Boebert
+- Nancy Mays
+- John Thune
+- Alexander Acosta
+- Julie Brown
+- Ghislaine Maxwell
+- Virginia Roberts Giuffre
+- James Comey
+- John Bolton
+- Bill Clinton
+- Bill Gates
+- Pen Bondi
+- Kash Patel
+- Todd Blanch
+- Alan Dershowitz
+- Larry Summers
+- Michael Wolf
+- trump-campaign
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=jNKRmamMb5Y
 speaker: 记者易速利
-tags:
-  - epstein-scandal
-  - us-politics
-  - congressional-action
-  - political-polarization
-  - trump-campaign
-title: 爱泼斯坦案阴影笼罩华盛顿：文件公开与政治博弈
-summary: 本文深入分析了杰弗里·爱泼斯坦案对美国政治的持续影响。尽管爱泼斯坦已逝，但围绕其档案的公开，引发了国会两党间的激烈博弈。民主党与部分共和党人推动公开全部文件，意图牵制特朗普，而特朗普及其盟友则坚称其清白，并试图阻止进一步公开。文章还探讨了关键受害者弗吉尼亚·朱弗雷对特朗普的证词，以及此案如何揭示美国政治运作的复杂性与深层矛盾。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jeffrey Epstein
-  - Donald Trump
-  - Thomas Massey
-  - Marjorie Taylor Greene
-  - Lauren Boebert
-  - Nancy Mays
-  - John Thune
-  - Alexander Acosta
-  - Julie Brown
-  - Ghislaine Maxwell
-  - Virginia Roberts Giuffre
-  - James Comey
-  - John Bolton
-  - Bill Clinton
-  - Bill Gates
-  - Pen Bondi
-  - Kash Patel
-  - Todd Blanch
-  - Alan Dershowitz
-  - Larry Summers
-  - Michael Wolf
-companies_orgs:
-  - FBI
-  - Miami Herald
-  - Justice Department
-  - New York Magazine
-  - Fox News
-  - The New Yorker
-products_models: []
-media_books:
-  - 《无依无靠的女孩》
-  - New York Magazine
-  - Miami Herald
-  - The New Yorker
 status: evergreen
+summary: 本文深入分析了杰弗里·爱泼斯坦案对美国政治的持续影响。尽管爱泼斯坦已逝，但围绕其档案的公开，引发了国会两党间的激烈博弈。民主党与部分共和党人推动公开全部文件，意图牵制特朗普，而特朗普及其盟友则坚称其清白，并试图阻止进一步公开。文章还探讨了关键受害者弗吉尼亚·朱弗雷对特朗普的证词，以及此案如何揭示美国政治运作的复杂性与深层矛盾。
+tags:
+- congressional-action
+- epstein-scandal
+title: 爱泼斯坦案阴影笼罩华盛顿：文件公开与政治博弈
 ---
+
 ### 爱泼斯坦案的幽灵与华盛顿政治运作
 
 民主党人提到，一封来自已故性犯罪者杰弗里·爱泼斯坦的电子邮件，提到了特朗普总统。对于特朗普与爱泼斯坦的关系，正如张克家诗歌所言：“有的人活着他已经死了，有的人死了他还活着。”爱泼斯坦虽已离世，却似乎化身为美国暂时无法根除的慢性病毒，持续影响着华盛顿的政治运作。历史上，像爱泼斯坦这样已离去多年却仍成为当下政治运作焦点的人物，应该极为罕见。

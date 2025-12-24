@@ -1,32 +1,29 @@
 ---
-title: 从苹果和优步到打造数十亿美元的钱包产业：Magic Labs 的创新之路
-summary: Magic Labs 的联合创始人分享了他们如何将苹果和优步的经验融入区块链技术，通过解决用户体验痛点，发明嵌入式钱包和 Newton 协议，推动
-  Web3 的大规模普及，并展望 AI 代理的未来。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-agent
-- blockchain-technology
-- startup-journey
-- user-experience
-- web3
-people: []
+area: finance-wealth
+category: crypto
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-28'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=X_ClPE5Y2q4
+speaker: EO
 status: evergreen
+summary: Magic Labs 的联合创始人分享了他们如何将苹果和优步的经验融入区块链技术，通过解决用户体验痛点，发明嵌入式钱包和 Newton 协议，推动
+  Web3 的大规模普及，并展望 AI 代理的未来。
+tags:
+- ai-agent
+- startup-journey
+- technology
+- user-experience
+title: 从苹果和优步到打造数十亿美元的钱包产业：Magic Labs 的创新之路
 ---
+
 ### 苹果的细节执念与产品叙事
 
 A big lesson that I learned at Apple while I was there was the obsession with detail. There was a great sense of ownership and craftsmanship. Everyone deeply cared about making it right.

@@ -5,15 +5,13 @@ area: personal-growth
 category: culture
 project: []
 tags:
-  - 佛罗伦萨
-  - 共和制
-  - 政治哲学
-  - 英国宪政
-  - 马基雅维里时刻
-people: []
+- geopolitical
+- 佛罗伦萨
+- 共和制
+- 英国宪政
+- 马基雅维里时刻
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: 李厚辰
@@ -24,6 +22,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=X6Qdgf1GK3k&t
 ---
+
 ## 开场与引言
 
 **主持人:**

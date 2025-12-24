@@ -1,66 +1,65 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- SpaceX
+- RocketLab
+- Blue Origin
+- Axiom Space
+- Voyager Space
+- Vast Space
+- Lockheed Martin
+- Airbus
+- MDA Space
+- Mitsubishi Corporation
+- Palantir
+- Boeing
+- Sierra Space
+- Redwire Space
+- NASA
+- CSA
+- ESA
+- JAXA
+- Roscosmos
+- Hilton
+- Northrop Grumman
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dylan Taylor
+products_models:
+- Starship
+- Falcon 9
+- Crew Dragon
+- Starlab
+- Orbital Reef
+- Haven-1
+- Haven-2
+- Gateway
+- LIFE module
+- Dream Chaser
+- New Glenn
+- NGI
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=wPfqGFmq6fY
 speaker: Money or Life 美股频道
-tags:
-  - commercial-space-station
-  - space-commercialization
-  - low-earth-orbit
-  - space-investment
-  - nasa-cld-program
-title: 太空淘金热：商业空间站的投资机遇与主要玩家
-summary: 本视频深入探讨了商业空间站的崛起及其投资潜力。详细介绍了NASA从国际空间站向商业平台过渡的策略，并重点分析了Starlab（Voyager控股）、Axiom、Vast和Orbital Reef（蓝色起源）等主要商业空间站项目的设计特点、进展及挑战。视频还特别关注了上市公司Voyager（VOYG）的业务模式、财务状况及其在商业空间站领域的投资风险与机遇。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Dylan Taylor
-companies_orgs:
-  - SpaceX
-  - RocketLab
-  - Blue Origin
-  - Axiom Space
-  - Voyager Space
-  - Vast Space
-  - Lockheed Martin
-  - Airbus
-  - MDA Space
-  - Mitsubishi Corporation
-  - Palantir
-  - Boeing
-  - Sierra Space
-  - Redwire Space
-  - NASA
-  - CSA
-  - ESA
-  - JAXA
-  - Roscosmos
-  - Hilton
-  - Northrop Grumman
-products_models:
-  - Starship
-  - Falcon 9
-  - Crew Dragon
-  - Starlab
-  - Orbital Reef
-  - Haven-1
-  - Haven-2
-  - Gateway
-  - LIFE module
-  - Dream Chaser
-  - New Glenn
-  - NGI
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了商业空间站的崛起及其投资潜力。详细介绍了NASA从国际空间站向商业平台过渡的策略，并重点分析了Starlab（Voyager控股）、Axiom、Vast和Orbital
+  Reef（蓝色起源）等主要商业空间站项目的设计特点、进展及挑战。视频还特别关注了上市公司Voyager（VOYG）的业务模式、财务状况及其在商业空间站领域的投资风险与机遇。
+tags:
+- commercial-space-station
+- investment
+- science
+- space
+title: 太空淘金热：商业空间站的投资机遇与主要玩家
 ---
+
 ### 商业太空旅行与科研的未来展望
 
 不久的将来，去太空旅行可能会变得和现在的普通洲际旅行一样便捷，只需预定好**SpaceX**（Space Exploration Technologies Corp.: 美国太空探索技术公司，由埃隆·马斯克创立的航空航天制造商和空间运输服务公司）或**RocketLab**（Rocket Lab USA, Inc.: 美国一家私人航空航天制造商和小型卫星发射服务提供商）每日发往太空的火箭，再预定好想要在太空中居住的酒店。这些太空酒店可能由**蓝色起源**（Blue Origin: 杰夫·贝佐斯创立的私人太空公司）、**Axiom**（Axiom Space: 美国一家私人航天公司，专注于商业空间站和载人航天服务）、**Voyager**（Voyager Space Holdings, Inc.: 一家通过收购整合航天领域能力，并控股Starlab商业空间站项目的公司）旗下的**Vast**（Vast Space: 一家由加密货币企业家创立的私人空间站公司）等公司，以及传统酒店品牌如**希尔顿**（Hilton）等联合开发。

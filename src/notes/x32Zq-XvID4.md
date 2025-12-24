@@ -1,60 +1,59 @@
 ---
-author: Veritasium
-date: '2025-06-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=x32Zq-XvID4
-speaker: Veritasium
-tags:
-  - veritasium
-  - goldbach-conjecture
-  - number-theory
-  - mathematical-proof
-  - circle-method
-  - sieve-methods
-title: 哥德巴赫猜想：一个看似简单却困扰数学家近三百年的谜题
-summary: 本文深入探讨了数学界最古老且未解的难题之一——哥德巴赫猜想。文章追溯了该猜想的起源，介绍了其“强”与“弱”两种形式，并详细阐述了陈景润、哈代、李特尔伍德、维诺格拉多夫和赫尔夫戈特等数学家在解决这一问题上的努力和突破。特别强调了陈景润在文化大革命期间的坚持与贡献，以及弱哥德巴赫猜想最终被证明的历程。文章还探讨了数学研究的内在动力及其对未知领域的探索意义。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Chen Jingrun
-  - Christian Goldbach
-  - Leonhard Euler
-  - David Hilbert
-  - G. H. Hardy
-  - John Littlewood
-  - Srinivasa Ramanujan
-  - Ivan Vinogradov
-  - Harald Helfgott
-  - David Platt
-  - Nils Pipping
-  - Mao Zedong
-  - Luo Shengxiong
-  - Xu Chi
-  - Derek Muller
-  - Casper
-  - Elmer
-  - Professor Strogatz
+category: science
 companies_orgs:
-  - Chinese Academy of Sciences
-  - International Congress of Mathematicians
-  - St. Petersburg Academy of Sciences
-  - Communist Party
-  - Red Guard
-products_models:
-  - Henson Razor
+- Chinese Academy of Sciences
+- International Congress of Mathematicians
+- St. Petersburg Academy of Sciences
+- Communist Party
+- Red Guard
+date: '2025-06-20'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Ternary Goldbach Conjecture is True
-  - Fern
-  - Veritasium
+- The Ternary Goldbach Conjecture is True
+- Fern
+- Veritasium
+people:
+- Chen Jingrun
+- Christian Goldbach
+- Leonhard Euler
+- David Hilbert
+- G. H. Hardy
+- John Littlewood
+- Srinivasa Ramanujan
+- Ivan Vinogradov
+- Harald Helfgott
+- David Platt
+- Nils Pipping
+- Mao Zedong
+- Luo Shengxiong
+- Xu Chi
+- Derek Muller
+- Casper
+- Elmer
+- Professor Strogatz
+products_models:
+- Henson Razor
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=x32Zq-XvID4
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了数学界最古老且未解的难题之一——哥德巴赫猜想。文章追溯了该猜想的起源，介绍了其“强”与“弱”两种形式，并详细阐述了陈景润、哈代、李特尔伍德、维诺格拉多夫和赫尔夫戈特等数学家在解决这一问题上的努力和突破。特别强调了陈景润在文化大革命期间的坚持与贡献，以及弱哥德巴赫猜想最终被证明的历程。文章还探讨了数学研究的内在动力及其对未知领域的探索意义。
+tags:
+- circle-method
+- goldbach-conjecture
+- science
+- technology
+- theory
+title: 哥德巴赫猜想：一个看似简单却困扰数学家近三百年的谜题
 ---
+
 ### 引言：哥德巴赫猜想的魅力与挑战
 
 **Derek:** 1954年冬天，在中国厦门，防空警报响彻全城，炮弹在远处轰鸣。

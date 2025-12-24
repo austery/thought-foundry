@@ -1,30 +1,30 @@
 ---
-title: Claude Code：工作原理、应用场景与高效使用技巧
-summary: Anthropic 团队成员 Cal 深入讲解了 Claude Code 的工作原理、核心功能、广泛应用场景，并分享了提升效率的最佳实践，包括文件管理、权限控制和上下文管理等，旨在帮助用户充分利用这一工具。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-agent
-- claude-code
-- code-generation
-- developer-tools
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-07-31'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=gv0WHhKelSE
+speaker: Anthropic
 status: evergreen
+summary: Anthropic 团队成员 Cal 深入讲解了 Claude Code 的工作原理、核心功能、广泛应用场景，并分享了提升效率的最佳实践，包括文件管理、权限控制和上下文管理等，旨在帮助用户充分利用这一工具。
+tags:
+- ai-agent
+- claude-code
+- code-generation
+- developer-tool
+title: Claude Code：工作原理、应用场景与高效使用技巧
 ---
+
 ### 引言与个人经历
 
 Let's get started. Welcome everyone to Claude Code best practices. In this talk, I'm going to talk about what Claude Code is at a high level.

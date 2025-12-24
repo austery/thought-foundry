@@ -1,57 +1,57 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 《环球时报》
+- 中科院
+- 铁道部
+- 发改委
+- 国务院
+- 公安机关
+- 最高人民检察院
+- 央视
 date: '2025-06-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《看见》
+- 《红楼梦》
+people:
+- 柴静
+- 胡锡进
+- 周正龙
+- 吴宝全
+- 陈希文
+- 王慧诗
+- 杜梓
+- 郝劲松
+- 陈虻
+- 张洁
+- 王廷臻
+- 康树林
+- 顾准
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=FQtcnW939Ck
 speaker: 柴静 Chai Jing
-tags:
-  - media-credibility
-  - government-accountability
-  - citizen-rights
-  - land-ownership
-  - grassroots-democracy
-  - truth-seeking
-title: 柴静谈新闻调查：真相、公信力与公民权利的坚守
-summary: 资深媒体人柴静回顾其在央视《新闻调查》的经历，通过华南虎照案和吴宝全诽谤案，深入探讨媒体在追求真相、捍卫公信力方面的挑战与责任。文章揭示了官方结论与事实证据之间的张力，公民批评政府的权利困境，以及土地制度改革带来的深远影响。柴静强调，在质疑被压制的环境中，坚守新闻专业标准和对真相的探寻至关重要，并呼吁对权力保持警惕，捍卫公民基本权利。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 柴静
-  - 胡锡进
-  - 周正龙
-  - 吴宝全
-  - 陈希文
-  - 王慧诗
-  - 杜梓
-  - 郝劲松
-  - 陈虻
-  - 张洁
-  - 王廷臻
-  - 康树林
-  - 顾准
-companies_orgs:
-  - 《环球时报》
-  - 中科院
-  - 铁道部
-  - 发改委
-  - 国务院
-  - 公安机关
-  - 最高人民检察院
-  - 央视
-products_models: []
-media_books:
-  - 《看见》
-  - 《红楼梦》
 status: evergreen
+summary: 资深媒体人柴静回顾其在央视《新闻调查》的经历，通过华南虎照案和吴宝全诽谤案，深入探讨媒体在追求真相、捍卫公信力方面的挑战与责任。文章揭示了官方结论与事实证据之间的张力，公民批评政府的权利困境，以及土地制度改革带来的深远影响。柴静强调，在质疑被压制的环境中，坚守新闻专业标准和对真相的探寻至关重要，并呼吁对权力保持警惕，捍卫公民基本权利。
+tags:
+- geopolitical
+- government-accountability
+- land-ownership
+- media
+- philosophy
+- right
+title: 柴静谈新闻调查：真相、公信力与公民权利的坚守
 ---
+
 ### 媒体的责任与公信力挑战
 
 《看见》节目播出后，我看到很多观众留言，希望我能够关注罗帅的案件。我看了一下官方的调查报告，公布了不少信息，但是之后家属和公众仍有疑问。对此，《环球时报》的原总编胡锡进先生说，呼吁大家对官方结论抱以信任。他说，否则的话，我们的理性将会失去最基本的支撑点。

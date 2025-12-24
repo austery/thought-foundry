@@ -1,83 +1,81 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- DeepMind
+- Anthropic
+- Wikipedia
+- Gawker
 date: '2024-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《埃里温》
+- 《海伯利安》
+- 《海伯利安的陨落》
+- 《失控》
+- 《巴别塔图书馆》
+- 《博尔赫斯与我》
+- 《你一生的故事》
+- 《苏珊娜·德拉热》
+- 《盲视》
+- 《亚瑟王传奇》
+- 《星球大战扩展宇宙》
+- 《亚文化社会的忧郁》
+- 《强化学习的进化后盾》
+people:
+- Gwern Branwen
+- Sam Altman
+- Ray Kurzweil
+- Shane Legg
+- Ilya Sutskever
+- Schmidhuber
+- Kevin Roose
+- Jorge Luis Borges
+- David Foster Wallace
+- Gene Wolfe
+- Ted Chiang
+- Peter Watts
+- Tyler Cowen
+- Jack Clark
+- Samuel Butler
+- Isaac Newton
+- Lucretius
+- Adrian Chen
+- Scott Alexander
+- Dario Amodei
+products_models:
+- GPT-4
+- GPT-1
+- GPT-2
+- GPT-3
+- AlphaZero
+- DanNet
+- AlexNet
+- BigGAN
+- Gato
+- Claude-3
+- Neopets
+- Silk Road
+- Adderall
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=a42key59cZQ
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-scaling
-  - intelligence-theory
-  - independent-research
-  - anonymity
-title: Gwern谈AI预测、智能本质与独立研究生活
-summary: 匿名研究者Gwern分享了他对AI发展的独到见解，包括对大型语言模型（LLM）规模化趋势的早期预测，以及他关于智能本质的图灵机搜索理论。他深入探讨了AI对企业自动化、人类角色演变的影响，并揭示了其独特的独立研究与写作生活方式，包括如何通过“兔子洞”式探索和在线辩论来持续产出。Gwern还讨论了匿名性的价值、AI对个人身份的影响，以及他对未来科技和人类社会未解之谜的思考。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Gwern Branwen
-  - Dwarkesh Patel
-  - Sam Altman
-  - Ray Kurzweil
-  - Shane Legg
-  - Ilya Sutskever
-  - Schmidhuber
-  - Kevin Roose
-  - Jorge Luis Borges
-  - David Foster Wallace
-  - Gene Wolfe
-  - Ted Chiang
-  - Peter Watts
-  - Tyler Cowen
-  - Jack Clark
-  - Samuel Butler
-  - Isaac Newton
-  - Lucretius
-  - Adrian Chen
-  - Scott Alexander
-  - Dario Amodei
-companies_orgs:
-  - OpenAI
-  - DeepMind
-  - Anthropic
-  - Wikipedia
-  - Gawker
-products_models:
-  - GPT-4
-  - GPT-1
-  - GPT-2
-  - GPT-3
-  - AlphaZero
-  - DanNet
-  - AlexNet
-  - BigGAN
-  - Gato
-  - Claude-3
-  - Neopets
-  - Silk Road
-  - Adderall
-media_books:
-  - 《埃里温》
-  - 《海伯利安》
-  - 《海伯利安的陨落》
-  - 《失控》
-  - 《巴别塔图书馆》
-  - 《博尔赫斯与我》
-  - 《你一生的故事》
-  - 《苏珊娜·德拉热》
-  - 《盲视》
-  - 《亚瑟王传奇》
-  - 《星球大战扩展宇宙》
-  - 《亚文化社会的忧郁》
-  - 《强化学习的进化后盾》
 status: evergreen
+summary: 匿名研究者Gwern分享了他对AI发展的独到见解，包括对大型语言模型（LLM）规模化趋势的早期预测，以及他关于智能本质的图灵机搜索理论。他深入探讨了AI对企业自动化、人类角色演变的影响，并揭示了其独特的独立研究与写作生活方式，包括如何通过“兔子洞”式探索和在线辩论来持续产出。Gwern还讨论了匿名性的价值、AI对个人身份的影响，以及他对未来科技和人类社会未解之谜的思考。
+tags:
+- anonymity
+- llm
+- research
+- theory
+title: Gwern谈AI预测、智能本质与独立研究生活
 ---
+
 今天，我采访了**Gwern Branwen**。**Gwern**是一位匿名研究员和作家，他对构建**AGI**（通用人工智能）的人们产生了深远影响。他是最早预见到**LLM**（大型语言模型）规模化趋势的人之一。如果你读过他的博客，就会知道他是当今最有趣的博学思想家之一。我们面对面录制了这次对话，为了保护**Gwern**的匿名性，我们创建了这个虚拟形象。这不是他的声音，也不是他的脸，但这些都是他的原话。
 
 ### 匿名性的价值

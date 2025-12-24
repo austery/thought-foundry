@@ -1,42 +1,41 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: business
+companies_orgs:
+- Apple
+- Google
+- Rippling
+- CRA
+- IRS
+- US Patent and Trademark Office
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Christina
+products_models:
+- Pixel phones
+- GPT
+project:
+- ai-impact-analysis
+- entrepreneurship
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=lT0_UQyl0YI
 speaker: TechButMakeItReal
-tags:
-  - ai-business-models
-  - professional-services
-  - liability-risk
-  - automation-strategy
-  - market-opportunity
-title: 如何识别十亿美元级AI商业创意：自动化“时间”而非“责任”
-summary: 本文深入探讨了为何人工智能难以完全取代律师和会计师等高成本专业人士。核心论点在于，客户支付的不仅仅是可计费的时间，更是专业人士所承担的责任和最终成果。成功的AI业务应专注于自动化特定、高价值的行政任务（例如研发税收抵免文档、知识产权诉讼分析），这些任务能为专业人士节省时间和金钱，而非试图自动化涉及法律、财务或情感责任的核心职责。关键在于识别一个狭窄、高风险但可辅助问责制的步骤，并围绕它构建产品。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - investment-strategy
-people:
-  - Christina
-companies_orgs:
-  - Apple
-  - Google
-  - Rippling
-  - CRA
-  - IRS
-  - US Patent and Trademark Office
-products_models:
-  - Pixel phones
-  - GPT
-media_books: []
 status: evergreen
+summary: 本文深入探讨了为何人工智能难以完全取代律师和会计师等高成本专业人士。核心论点在于，客户支付的不仅仅是可计费的时间，更是专业人士所承担的责任和最终成果。成功的AI业务应专注于自动化特定、高价值的行政任务（例如研发税收抵免文档、知识产权诉讼分析），这些任务能为专业人士节省时间和金钱，而非试图自动化涉及法律、财务或情感责任的核心职责。关键在于识别一个狭窄、高风险但可辅助问责制的步骤，并围绕它构建产品。
+tags:
+- ai-business-model
+- automation-strategy
+- business
+- market
+- risk
+title: 如何识别十亿美元级AI商业创意：自动化“时间”而非“责任”
 ---
+
 ### AI与专业人士：为何责任不可被取代
 
 如果人工智能（AI）能做数学计算、撰写邮件，甚至起草合同，那为什么律师和会计师们仍然有生意可做呢？

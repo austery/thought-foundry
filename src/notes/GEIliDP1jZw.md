@@ -1,62 +1,61 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs:
+- 纽约大学
+- 澳大利亚国立大学
+- 利兹大学
+- 香港大学
 date: '2024-10-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《第一哲学沉思集》
+- 《论证与说服50讲》
+- 大问题Dialectic
+people:
+- 拉普拉斯
+- 罗伯特·凯恩
+- 哈里·法兰克福
+- 笛卡尔
+- 富兰克·杰克逊
+- 吉尔伯特·莱尔
+- 尤金·普莱斯
+- 保罗·丘奇兰德
+- 希拉里·普特南
+- 大卫·查尔莫斯
+- 卢梭
+- 恩格斯
+- 亚里士多德
+- 孔子
+- 怀特海
+- 黑格尔
+- 丹尼尔·斯特尔加
+- 海伦·毕比
+- 赫尔曼·卡佩伦
+- 诺奇克
+- 伽利略
+- 维特根斯坦
+products_models: []
+project:
+- systems-thinking
+- knowledge-pipeline
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=GEIliDP1jZw
 speaker: 大问题Dialectic
-tags:
-  - epistemology
-  - philosophy-of-science
-  - academic-progress
-  - consensus-building
-  - methodology-critique
-title: 哲学是一门真学问吗？一场关于知识、进步与共识的思辨
-summary: 本文探讨了哲学作为一门学科的本质，质疑其是否能被视为“真学问”。文章从哲学缺乏确定答案、缺乏累进性进步等角度展开论述，并引入激进悲观派、温和乐观派、温和悲观派和激进乐观派四种截然不同的哲学立场，深入分析了哲学家们对这一核心问题的多维度论证与争议。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - knowledge-pipeline
-  - historical-insights
-people:
-  - 拉普拉斯
-  - 罗伯特·凯恩
-  - 哈里·法兰克福
-  - 笛卡尔
-  - 富兰克·杰克逊
-  - 吉尔伯特·莱尔
-  - 尤金·普莱斯
-  - 保罗·丘奇兰德
-  - 希拉里·普特南
-  - 大卫·查尔莫斯
-  - 卢梭
-  - 恩格斯
-  - 亚里士多德
-  - 孔子
-  - 怀特海
-  - 黑格尔
-  - 丹尼尔·斯特尔加
-  - 海伦·毕比
-  - 赫尔曼·卡佩伦
-  - 诺奇克
-  - 伽利略
-  - 维特根斯坦
-companies_orgs:
-  - 纽约大学
-  - 澳大利亚国立大学
-  - 利兹大学
-  - 香港大学
-products_models: []
-media_books:
-  - 《第一哲学沉思集》
-  - 《论证与说服50讲》
-  - 大问题Dialectic
 status: evergreen
+summary: 本文探讨了哲学作为一门学科的本质，质疑其是否能被视为“真学问”。文章从哲学缺乏确定答案、缺乏累进性进步等角度展开论述，并引入激进悲观派、温和乐观派、温和悲观派和激进乐观派四种截然不同的哲学立场，深入分析了哲学家们对这一核心问题的多维度论证与争议。
+tags:
+- canada
+- critique
+- geopolitical
+- philosophy
+title: 哲学是一门真学问吗？一场关于知识、进步与共识的思辨
 ---
+
 ### 哲学：一门“真学问”的审视
 
 本期节目将探讨一个核心问题：哲学是否是一门**真学问**（True Discipline: 指能够产生确定知识并持续进步的学问）？哲学似乎从未产生过任何确定知识，因为它作为一门学科，从未提供过任何确定的正确答案。对于任何重大的哲学问题，哲学家们总是争论不休，这种状况自三千年前便已开始，哲学从未产出过任何确定的知识。试问，我们能说出任何一条确定的哲学知识吗？

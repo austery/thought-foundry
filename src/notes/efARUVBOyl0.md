@@ -1,42 +1,42 @@
 ---
-author: 天下文化
+area: society-systems
+category: business
+companies_orgs:
+- Google
+- YouTube
+- Gates Foundation
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《OKR：做最重要的事》
+- 《领导的黄金法》
+people:
+- John Doerr
+- Larry Page
+- Sergey Brin
+- Bill Gates
+- Bono
+products_models: []
+project:
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=efARUVBOyl0
 speaker: 天下文化
-tags:
-  - okr-framework
-  - goal-setting
-  - team-management
-  - organizational-strategy
-  - accountability
-title: OKR：做最重要的事——管理者必读的团队激励与目标管理法
-summary: 这篇文章深入解读了《OKR：做最重要的事》一书的核心理念。它阐释了OKR（目标与关键成果）与KPI（关键绩效指标）的区别，强调OKR更侧重于意义和永续经营。文章详细介绍了OKR的四大关键能力：专注投入、契合连接、追蹤当责和激发潜能，并引用Google、YouTube等成功案例，揭示OKR如何帮助组织实现突破性成长，是管理者提升团队效能和实现基业长青的必读指南。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-people:
-  - John Doerr
-  - Larry Page
-  - Sergey Brin
-  - Bill Gates
-  - Bono
-companies_orgs:
-  - Google
-  - YouTube
-  - Gates Foundation
-products_models: []
-media_books:
-  - 《OKR：做最重要的事》
-  - 《领导的黄金法》
 status: evergreen
+summary: 这篇文章深入解读了《OKR：做最重要的事》一书的核心理念。它阐释了OKR（目标与关键成果）与KPI（关键绩效指标）的区别，强调OKR更侧重于意义和永续经营。文章详细介绍了OKR的四大关键能力：专注投入、契合连接、追蹤当责和激发潜能，并引用Google、YouTube等成功案例，揭示OKR如何帮助组织实现突破性成长，是管理者提升团队效能和实现基业长青的必读指南。
+tags:
+- accountability
+- code
+- goal-setting
+- strategy
+- team-management
+title: OKR：做最重要的事——管理者必读的团队激励与目标管理法
 ---
+
 ### OKR：目标与关键成果的核心理念
 
 大家好，我是好学好哥，欢迎来到好书导读单元。今天我们要介绍的这本书，单看这三个英文字母，很多人可能都耳熟能详，它就是**OKR**（Objectives and Key Results: 目标与关键成果）。但书名后面还有一句话，我认为是OKR非常重要的关键，那就是“做最重要的事”。连起来就是《OKR：做最重要的事》。

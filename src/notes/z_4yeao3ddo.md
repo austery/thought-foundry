@@ -1,50 +1,49 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- Hockey Canada
+- TSN
+- Chicago Blackhawks
+- National Hockey League
+- AA Hamilton Steel
+- AA Hamilton Huskies
+- TVO Today
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'We Breed Lions: Confronting Canada''s Troubled Hockey Culture'
+- Lord of the Flies
+- My Mother's Daughter
+people:
+- Rick Westhead
+- Stephen Brunt
+- Marcus Patterson
+- Tom Patterson
+- Perdita Felicia
+- Andrew Wong
+- Jeffrey Epstein
+- Harvey Weinstein
+- Sidney Crosby
+products_models: []
+project:
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=z_4yeao3ddo
 speaker: TVO Today
-tags:
-  - junior-hockey-culture
-  - hazing-abuse
-  - culture-of-silence
-  - youth-sports-pressure
-  - healthy-competition
-title: 加拿大青少年体育文化：竞技压力、不当行为与健康成长
-summary: 本文深入探讨了加拿大青少年冰球文化中存在的严重问题，包括性侵指控、欺凌以及助长这些行为的“缄默法则”。文章还扩展讨论了竞技压力对年轻运动员的广泛影响，并区分了健康与不健康的竞争。专家们分享了关于培养品格、接纳错误以及帮助孩子在体育之外发展多重身份的见解，以确保他们的全面发展和自我价值感。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-people:
-  - Rick Westhead
-  - Stephen Brunt
-  - Marcus Patterson
-  - Tom Patterson
-  - Perdita Felicia
-  - Andrew Wong
-  - Jeffrey Epstein
-  - Harvey Weinstein
-  - Sidney Crosby
-companies_orgs:
-  - Hockey Canada
-  - TSN
-  - Chicago Blackhawks
-  - National Hockey League
-  - AA Hamilton Steel
-  - AA Hamilton Huskies
-  - TVO Today
-products_models: []
-media_books:
-  - 'We Breed Lions: Confronting Canada''s Troubled Hockey Culture'
-  - Lord of the Flies
-  - My Mother's Daughter
 status: evergreen
+summary: 本文深入探讨了加拿大青少年冰球文化中存在的严重问题，包括性侵指控、欺凌以及助长这些行为的“缄默法则”。文章还扩展讨论了竞技压力对年轻运动员的广泛影响，并区分了健康与不健康的竞争。专家们分享了关于培养品格、接纳错误以及帮助孩子在体育之外发展多重身份的见解，以确保他们的全面发展和自我价值感。
+tags:
+- competition
+- culture
+- geopolitical
+- life
+title: 加拿大青少年体育文化：竞技压力、不当行为与健康成长
 ---
+
 ### 加拿大冰球文化的深刻反思
 
 主持人：加拿大是一个冰球之国。这项运动是数百万人的骄傲和共同目标。因此，当2022年爆出五名加拿大**世界青年队**（World Junior Team: 国际冰球联合会举办的青年冰球赛事中的国家队成员）球员被指控性侵的故事时，这个国家本身面临着一场清算。

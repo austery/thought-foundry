@@ -1,49 +1,50 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Department of Homeland Security
+- ICE
+- TSA
+- Justice Department
+- White House
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+people:
+- Tracy Mumford
+- Donald Trump
+- Mike Johnson
+- Matt Vaneps
+- Aftton Bane
+- Christy Gnome
+products_models:
+- Real ID
+- OMIC
+- WGOI
+- ME-1
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=tI0M00E-_dw
 speaker: New York Times Podcasts
-tags:
-  - us-election
-  - immigration-policy
-  - political-bellwether
-  - natural-disaster-response
-  - pet-obesity-treatment
-title: 美国田纳西州特别选举预警、移民政策收紧及其他要闻速览
-summary: 本期节目聚焦美国国内政治与社会议题。田纳西州一场备受关注的众议院特别选举成为全国政治风向的试金石，共和党因选情胶着而紧张。特朗普政府升级移民打击力度，国土安全部呼吁扩大旅行禁令，并发生大学生被驱逐出境、多名移民法官被解雇的事件。节目还简要介绍了TSA的Real ID新规、特朗普总统健康状况、东南亚气旋灾情，以及GLP-1减肥药在宠物领域的潜在应用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Tracy Mumford
-  - Donald Trump
-  - Mike Johnson
-  - Matt Vaneps
-  - Aftton Bane
-  - Christy Gnome
-companies_orgs:
-  - New York Times
-  - Department of Homeland Security
-  - ICE
-  - TSA
-  - Justice Department
-  - White House
-products_models:
-  - Real ID
-  - OMIC
-  - WGOI
-  - ME-1
-media_books:
-  - The New York Times
 status: evergreen
+summary: 本期节目聚焦美国国内政治与社会议题。田纳西州一场备受关注的众议院特别选举成为全国政治风向的试金石，共和党因选情胶着而紧张。特朗普政府升级移民打击力度，国土安全部呼吁扩大旅行禁令，并发生大学生被驱逐出境、多名移民法官被解雇的事件。节目还简要介绍了TSA的Real
+  ID新规、特朗普总统健康状况、东南亚气旋灾情，以及GLP-1减肥药在宠物领域的潜在应用。
+tags:
+- environment
+- health
+- immigration-policy
+- political
+- us-election
+title: 美国田纳西州特别选举预警、移民政策收紧及其他要闻速览
 ---
+
 ### 田纳西州特别选举：共和党面临严峻考验
 
 来自《纽约时报》的头条新闻，我是特雷西·芒福德。

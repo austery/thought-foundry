@@ -1,32 +1,30 @@
 ---
-title: 中东和平峰会与美国国际开发署的解体：政府权力运用与机构存废的教训
-summary: 本文探讨了中东和平峰会的背景、成果及其局限性，并深入剖析了美国国际开发署（USAID）如何在政府停摆期间被特朗普政府“解体”的详细过程，揭示了权力斗争、意识形态与官僚抵抗如何共同塑造了这一事件，以及其对美国外交和国内政治的深远影响。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- foreign-aid
-- government-shutdown
-- middle-east-peace
-- trump-administration
-- usaid-disbandment
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-14'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=jja2_50Uz2A
+speaker: New York Times Podcasts
 status: evergreen
+summary: 本文探讨了中东和平峰会的背景、成果及其局限性，并深入剖析了美国国际开发署（USAID）如何在政府停摆期间被特朗普政府“解体”的详细过程，揭示了权力斗争、意识形态与官僚抵抗如何共同塑造了这一事件，以及其对美国外交和国内政治的深远影响。
+tags:
+- government-shutdown
+- llm
+- middle-east-peace
+- trump-administration
+title: 中东和平峰会与美国国际开发署的解体：政府权力运用与机构存废的教训
 ---
+
 ### 中东和平峰会：人质与囚犯的交换
 
 Rachel: It's Rachel in Tel Aviv. Before we get to the rest of today's show, here's an update from the Middle East. On Monday, after Hamas returned 20 living hostages from Gaza, Israel began releasing nearly 2,000 Palestinian prisoners back to Gaza and the West Bank. Large crowds gathered near Nasser Hospital in Kyunis, where released Palestinian prisoners were taken.

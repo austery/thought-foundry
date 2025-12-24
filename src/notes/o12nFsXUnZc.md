@@ -1,51 +1,51 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Norges Bank
+- University of Oslo
+- Norwegian Institute of International Affairs
+- NHH Norwegian School of Economics
+- Ministry of Finance
+- Storting
+- Ethic Council
 date: '2025-08-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Aftenposten
+- VG
+- Dagsrevyen 18
+people:
+- Karen Helene Ultveit Mo
+- Ulf Sverdrup
+- Nikolai Tangen
+- Jens Stoltenberg
+- Donald Trump
+- Cecilie Langen Beckker
+products_models:
+- State Pension Fund Global
+project:
+- geopolitics-watch
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=o12nFsXUnZc
 speaker: Norges Bank Investment Management
-tags:
-  - sovereign-wealth-fund
-  - geopolitical-risk
-  - ethical-investment
-  - fund-governance
-  - public-trust
-title: 在地缘政治动荡中驾驭挪威主权财富基金
-summary: 本文探讨了挪威主权财富基金（Oljefondet）在当前地缘政治动荡中的挑战与机遇。讨论嘉宾深入分析了基金作为挪威国际关系中日益重要的因素，如何平衡财务回报、国际声誉与国内信任。文章强调了基金管理中动态适应、明确职责分工以及持续改进道德准则的重要性，并指出在复杂多变的全球格局下，基金面临的风险和挑战将不断涌现。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - geopolitics-watch
-  - investment-strategy
-  - us-analysis
-people:
-  - Karen Helene Ultveit Mo
-  - Ulf Sverdrup
-  - Nikolai Tangen
-  - Jens Stoltenberg
-  - Donald Trump
-  - Cecilie Langen Beckker
-companies_orgs:
-  - Norges Bank Investment Management
-  - Norges Bank
-  - University of Oslo
-  - Norwegian Institute of International Affairs
-  - NHH Norwegian School of Economics
-  - Ministry of Finance
-  - Storting
-  - Ethic Council
-products_models:
-  - State Pension Fund Global
-media_books:
-  - Aftenposten
-  - VG
-  - Dagsrevyen 18
 status: evergreen
+summary: 本文探讨了挪威主权财富基金（Oljefondet）在当前地缘政治动荡中的挑战与机遇。讨论嘉宾深入分析了基金作为挪威国际关系中日益重要的因素，如何平衡财务回报、国际声誉与国内信任。文章强调了基金管理中动态适应、明确职责分工以及持续改进道德准则的重要性，并指出在复杂多变的全球格局下，基金面临的风险和挑战将不断涌现。
+tags:
+- geopolitical-risk
+- governance
+- investment
+- public-trust
+- sovereign-wealth-fund
+title: 在地缘政治动荡中驾驭挪威主权财富基金
 ---
+
 ### 引言：地缘政治与基金管理的交汇
 
 欢迎大家。

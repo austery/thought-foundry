@@ -1,75 +1,75 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Fox News
+- 华尔街日报
+- 法新社
+- CNN
+- 路透社
+- 中国国际航空
+- 南方航空
+- 东方航空
+- 朝日新闻
+- 卡内基国际和平基金会
+- 华为
+- 新华社
+- 人民日报
+- 中央电视台
+- 中国教育部
+- 中国文化和旅游部
+- 中国国家统计局
+- 中国农业部
+- 经济学人
+- X平台
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 福克斯新闻周日早晨展望节目
+- 《1984》
+people:
+- Donald Trump
+- Xi Jinping
+- Jerome Powell
+- Janet Yellen
+- Nicolas Maduro
+- Alexander Stubb
+- Volodymyr Zelenskyy
+- Mike Pompeo
+- Sergei Lavrov
+- 高市早苗
+- Rahm Emanuel
+- 吴江浩
+- 薛健
+- 金无忌
+- Elon Musk
+- 艾琳卡琳·布雷特卡特
+- 马列科瓦
+- 沙扎尔·伯卡耶夫
+products_models:
+- F-35
+- 凤桥模式
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=7asDR0t3OyU
 speaker: LT視界
-tags:
-  - authoritarian-tech-export
-  - china-social-control
-  - us-economic-policy
-  - geopolitical-tensions
-  - tariff-dividend
-title: 经济学人揭示中国“诡异出口”：全球安全工具与技术输出的深层影响
-summary: 本期节目深入分析了多项全球财经与政治热点。美国就业报告、美联储政策与消费者信心指数备受关注；川普的“关税分红”计划与对委内瑞拉的强硬立场引发讨论。同时，中国经济面临挑战，稀土协议谈判波折，中日关系持续紧张。节目重点援引《经济学人》报道，揭示中国向全球输出警务培训和监控技术，及其对各国社会管控模式的深远影响，探讨技术独裁的未来走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Jerome Powell
-  - Janet Yellen
-  - Nicolas Maduro
-  - Alexander Stubb
-  - Volodymyr Zelenskyy
-  - Mike Pompeo
-  - Sergei Lavrov
-  - 高市早苗
-  - Rahm Emanuel
-  - 吴江浩
-  - 薛健
-  - 金无忌
-  - Elon Musk
-  - 艾琳卡琳·布雷特卡特
-  - 马列科瓦
-  - 沙扎尔·伯卡耶夫
-companies_orgs:
-  - Fox News
-  - 华尔街日报
-  - 法新社
-  - CNN
-  - 路透社
-  - 中国国际航空
-  - 南方航空
-  - 东方航空
-  - 朝日新闻
-  - 卡内基国际和平基金会
-  - 华为
-  - 新华社
-  - 人民日报
-  - 中央电视台
-  - 中国教育部
-  - 中国文化和旅游部
-  - 中国国家统计局
-  - 中国农业部
-  - 经济学人
-  - X平台
-products_models:
-  - F-35
-  - 凤桥模式
-media_books:
-  - 福克斯新闻周日早晨展望节目
-  - 《1984》
 status: evergreen
+summary: 本期节目深入分析了多项全球财经与政治热点。美国就业报告、美联储政策与消费者信心指数备受关注；川普的“关税分红”计划与对委内瑞拉的强硬立场引发讨论。同时，中国经济面临挑战，稀土协议谈判波折，中日关系持续紧张。节目重点援引《经济学人》报道，揭示中国向全球输出警务培训和监控技术，及其对各国社会管控模式的深远影响，探讨技术独裁的未来走向。
+tags:
+- geopolitical-tension
+- social
+- tariff-dividend
+- tech
+- us-economic-policy
+title: 经济学人揭示中国“诡异出口”：全球安全工具与技术输出的深层影响
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月16日，我们首先来了解今天的财经头条。在新的一周开始之际，我们一起了解一下未来一周最值得大家关注的五个重大财经事件。
 
 ### 聚焦美国经济：就业报告、美联储纪要与消费者信心

@@ -1,59 +1,58 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 国民党
+- 共产党
+- 中山大学
+- 密苏里大学
+- 复旦大学
+- 中共中央东北局
 date: '2023-04-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《逃离中国：现代台湾的创伤、记忆与认同》
+- 《大江大海1949》
+- 《巨流河》
+- 《太平轮1949》
+- 湖南文献
+- 贵州文献
+people:
+- 叶高华
+- 姜思章
+- 杨孟轩
+- 蒋介石
+- 许浩
+- 毛泽东
+- 邓小平
+- 龙应台
+- 齐邦元
+- 张典晚
+- 陶涵
+- 范尧胜
+- 陈金峰
+- 达比休有
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=LjMiRspthHM
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - waishengren-identity
-  - historical-trauma
-  - chinese-civil-war
-  - memory-politics
-  - political-polarization
-title: 逃离中国：台湾外省人的创伤、记忆与认同演变
-summary: 本文深入探讨了1945年后从中国大陆迁徙至台湾的“外省人”群体，其在国共内战中经历的巨大创伤，以及这些创伤记忆如何在台湾社会中演变。文章基于杨孟轩的著作，分析了国民党和共产党对内战记忆的压制，外省人返乡探亲的“美梦变噩梦”，以及台湾民主化后外省人身份认同的困境。最终，文章提出了“多向同理性未了”的概念，强调理解历史复杂性对族群和解的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 叶高华
-  - 姜思章
-  - 杨孟轩
-  - 蒋介石
-  - 许浩
-  - 毛泽东
-  - 邓小平
-  - 龙应台
-  - 齐邦元
-  - 张典晚
-  - 陶涵
-  - 范尧胜
-  - 陈金峰
-  - 达比休有
-companies_orgs:
-  - 国民党
-  - 共产党
-  - 中山大学
-  - 密苏里大学
-  - 复旦大学
-  - 中共中央东北局
-products_models: []
-media_books:
-  - 《逃离中国：现代台湾的创伤、记忆与认同》
-  - 《大江大海1949》
-  - 《巨流河》
-  - 《太平轮1949》
-  - 湖南文献
-  - 贵州文献
 status: evergreen
+summary: 本文深入探讨了1945年后从中国大陆迁徙至台湾的“外省人”群体，其在国共内战中经历的巨大创伤，以及这些创伤记忆如何在台湾社会中演变。文章基于杨孟轩的著作，分析了国民党和共产党对内战记忆的压制，外省人返乡探亲的“美梦变噩梦”，以及台湾民主化后外省人身份认同的困境。最终，文章提出了“多向同理性未了”的概念，强调理解历史复杂性对族群和解的重要性。
+tags:
+- chinese-civil-war
+- historical
+- identity
+- politics
+title: 逃离中国：台湾外省人的创伤、记忆与认同演变
 ---
+
 ### 台湾人口变迁与外省人的到来
 
 1945年底，当时拥有约600万人口的台湾岛，迎来了一个送往迎来的特殊时期。大约32万日本军民在战后的一两年间被遣返回百废待兴的母国。随后的10年里，另一群来自中国的移民登上了台湾，这群人在台湾被称为**外省人**（Waishengren: 指1945年后从中国大陆迁徙至台湾的人群）。一直以来，这群外省人的人数是个谜。然而，这段学界公案在2021年被中山大学学者叶高华终结，答案是102万人。其中男性约80万人，女性只有22万人。在这100万外省人中，如果不算军人，约有四分之一是在1949年之前，以相对优雅舒适的姿态来到台湾。有将近一半是在国民党兵败如山倒的1949年，从中国大江南北逃命到台湾的战争难民。这波逃难潮一直持续到1955年左右。

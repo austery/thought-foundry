@@ -1,37 +1,36 @@
 ---
-author: 徒步的騎手
-date: 2025-05-15
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ByzkAFinj2g'
-speaker: 徒步的騎手
-tags:
-  - political-success
-  - human-nature-exploitation
-  - democratic-authoritarian-systems
-  - machiavellian-principles
-  - public-opinion-manipulation
-title: 为何庸才政客能在民主与独裁体制中取胜？
-summary: 本期节目深入探讨了为何在民主与独裁国家中，一些愚蠢、无知甚至腐败的政客，能够战胜更聪明的对手，成为政治赢家。文章引用马基雅维利《君王论》中的五句话，分析了政客如何利用人性的弱点，如乌合之众的盲从、急功近利的心态以及情绪化的反应，来博取上位。同时，也强调了权力制衡与任期制在限制蠢货政客危害方面的作用，并呼吁民众在参与政治时保持理性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - Niccolò Machiavelli
-  - David Hume
-  - Gustave Le Bon
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-05-15
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《君王论》
-  - 《乌合之众》
+- 《君王论》
+- 《乌合之众》
+people:
+- Niccolò Machiavelli
+- David Hume
+- Gustave Le Bon
+products_models: '[]'
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=ByzkAFinj2g
+speaker: 徒步的騎手
 status: evergreen
+summary: 本期节目深入探讨了为何在民主与独裁国家中，一些愚蠢、无知甚至腐败的政客，能够战胜更聪明的对手，成为政治赢家。文章引用马基雅维利《君王论》中的五句话，分析了政客如何利用人性的弱点，如乌合之众的盲从、急功近利的心态以及情绪化的反应，来博取上位。同时，也强调了权力制衡与任期制在限制蠢货政客危害方面的作用，并呼吁民众在参与政治时保持理性。
+tags:
+- human-nature-exploitation
+- political
+- principle
+- public-opinion-manipulation
+- system
+title: 为何庸才政客能在民主与独裁体制中取胜？
 ---
 
 ### 政治赢家：人性弱点与愚蠢政客的成功之道

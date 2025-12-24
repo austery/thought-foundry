@@ -1,54 +1,53 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中共中央
+- 苏共中央
+- 美国国家安全委员会
+- 塔斯社
+- 真理报
 date: '2024-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Joseph Stalin
+- Mao Zedong
+- Kim Il-sung
+- Zhou Enlai
+- Liu Shaoqi
+- Peng Dehuai
+- Harry S. Truman
+- Dean Acheson
+- Douglas MacArthur
+- Terentii Shtykov
+- Anastas Mikoyan
+- Wellington Koo
+- Syngman Rhee
+- Zhu De
+- Lin Biao
+- Gao Gang
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=7i84z8uZCqs
 speaker: 柴静 Chai Jing
-tags:
-  - korean-war-origins
-  - sino-soviet-relations
-  - cold-war-strategy
-  - great-power-politics
-  - decision-making-calculus
-title: 朝鲜战争的起源：斯大林为何点头，毛泽东为何出兵？
-summary: 历史学家沈志华深入剖析了朝鲜战争爆发的深层原因。斯大林批准金日成发动战争，其核心动机是在《中苏友好同盟互助条约》签订后，为苏联在亚洲寻找替代性的出海口和战略基地。而毛泽东在内外交困、条件不利的情况下坚持出兵，则是为了赢得斯大林的信任以巩固新政权，并确立中国在亚洲革命中的领导地位。这一决策背后是复杂的国际政治与个人战略考量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Joseph Stalin
-  - Mao Zedong
-  - Kim Il-sung
-  - Zhou Enlai
-  - Liu Shaoqi
-  - Peng Dehuai
-  - Harry S. Truman
-  - Dean Acheson
-  - Douglas MacArthur
-  - Terentii Shtykov
-  - Anastas Mikoyan
-  - Wellington Koo
-  - Syngman Rhee
-  - Zhu De
-  - Lin Biao
-  - Gao Gang
-companies_orgs:
-  - 中共中央
-  - 苏共中央
-  - 美国国家安全委员会
-  - 塔斯社
-  - 真理报
-products_models: []
-media_books: []
 status: evergreen
+summary: 历史学家沈志华深入剖析了朝鲜战争爆发的深层原因。斯大林批准金日成发动战争，其核心动机是在《中苏友好同盟互助条约》签订后，为苏联在亚洲寻找替代性的出海口和战略基地。而毛泽东在内外交困、条件不利的情况下坚持出兵，则是为了赢得斯大林的信任以巩固新政权，并确立中国在亚洲革命中的领导地位。这一决策背后是复杂的国际政治与个人战略考量。
+tags:
+- decision-making-calculu
+- power
+- relations
+- strategy
+- war
+title: 朝鲜战争的起源：斯大林为何点头，毛泽东为何出兵？
 ---
+
 ### 斯大林为何同意发动战争：失去东北，着眼朝鲜
 
 根据目前已经披露的档案材料，朝鲜战争起源的过程已经比较清楚。如果不是斯大林批准金日成采取军事行动，朝鲜战争是不可能爆发的。因此，关键环节在于斯大林为何要批准金日成的这次行动。

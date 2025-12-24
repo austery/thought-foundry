@@ -1,68 +1,69 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- Second City Toronto
+- Toronto Argonauts
+- TVO Today
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'The Kids in the Hall: One Dumb Guy'
+- The John Candy Book
+- Canadiafornian
+- The Late Show with Stephen Colbert
+- Riyadh Comedy Festival
+people:
+- John Candy
+- Paul Myers
+- Dan Aykroyd
+- Valerie Bramfield
+- Gilda Radner
+- Mike Myers
+- Eugene Levy
+- Dave Thomas
+- Joe Flaherty
+- Wayne Gretzky
+- Robin Duke
+- John Hemphill
+- Don Lake
+- Catherine Greenwood
+- Andrea Martin
+- Stephen Colbert
+- Jimmy Kimmel
+- Charlie Kirk
+- Seth Meyers
+- Barack Obama
+products_models:
+- SCTV
+- Uncle Buck
+- Planes, Trains & Automobiles
+- Home Alone
+- Hostage for a Day
+- Canadian Bacon
+- Cool Runnings
+- Schitt's Creek
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=NQAFTme998E
 speaker: TVO Today
-tags:
-  - john-candy-legacy
-  - canadian-comedy
-  - second-city-toronto
-  - canadian-identity
-  - empathy-joy
-title: 约翰·坎迪：多伦多塑造的喜剧传奇与加拿大精神
-summary: 本文深入探讨了加拿大喜剧巨星约翰·坎迪（John Candy）的传奇生涯，以及他与多伦多和加拿大之间深厚的情感纽带。从他在著名的第二城（Second City）剧团的喜剧启蒙，到他被昵称为“多伦多约翰尼”的由来，再到他作为多伦多淘金人队（Toronto Argonauts）的共同拥有者所展现的加拿大自豪感。文章还揭示了坎迪以欢乐、同理心和真诚连接他人的生活哲学，以及他如何影响了迈克·迈尔斯等后辈喜剧演员。即使在他去世多年后，坎迪依然是加拿大流行文化中备受尊敬的人物，他的价值观在当今社会仍具有重要意义。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - John Candy
-  - Paul Myers
-  - Dan Aykroyd
-  - Valerie Bramfield
-  - Gilda Radner
-  - Mike Myers
-  - Eugene Levy
-  - Dave Thomas
-  - Joe Flaherty
-  - Wayne Gretzky
-  - Robin Duke
-  - John Hemphill
-  - Don Lake
-  - Catherine Greenwood
-  - Andrea Martin
-  - Stephen Colbert
-  - Jimmy Kimmel
-  - Charlie Kirk
-  - Seth Meyers
-  - Barack Obama
-companies_orgs:
-  - Second City Toronto
-  - Toronto Argonauts
-  - TVO Today
-products_models:
-  - SCTV
-  - Uncle Buck
-  - Planes, Trains & Automobiles
-  - Home Alone
-  - Hostage for a Day
-  - Canadian Bacon
-  - Cool Runnings
-  - Schitt's Creek
-media_books:
-  - 'The Kids in the Hall: One Dumb Guy'
-  - The John Candy Book
-  - Canadiafornian
-  - The Late Show with Stephen Colbert
-  - Riyadh Comedy Festival
 status: evergreen
+summary: 本文深入探讨了加拿大喜剧巨星约翰·坎迪（John Candy）的传奇生涯，以及他与多伦多和加拿大之间深厚的情感纽带。从他在著名的第二城（Second
+  City）剧团的喜剧启蒙，到他被昵称为“多伦多约翰尼”的由来，再到他作为多伦多淘金人队（Toronto Argonauts）的共同拥有者所展现的加拿大自豪感。文章还揭示了坎迪以欢乐、同理心和真诚连接他人的生活哲学，以及他如何影响了迈克·迈尔斯等后辈喜剧演员。即使在他去世多年后，坎迪依然是加拿大流行文化中备受尊敬的人物，他的价值观在当今社会仍具有重要意义。
+tags:
+- canadian
+- identity
+- legacy
+- psychology
+- society
+title: 约翰·坎迪：多伦多塑造的喜剧传奇与加拿大精神
 ---
+
 ### 约翰·坎迪在第二城的喜剧启蒙
 
 Paul，非常感谢您来到多伦多**第二城**（Second City: 著名的即兴喜剧剧团）与我们交流。正如您所见，我们正坐在约翰·坎迪剧院里。他与这个机构有着非常特殊的关系，能和我们谈谈吗？我身下的这个舞台，正是约翰·坎迪在第二城开启职业生涯的地方，他差点就错过了这个机会，因为他本来没打算去第二城试镜。但是丹·艾克罗伊德和瓦莱丽·布拉姆菲尔德当时正在试镜，他们是他的朋友，就对他说：“和我们一起去试镜吧，你可以在后面坐着，之后我们一起吃午饭。”然后他们就叫了他的名字，他当时心想：“你们这些家伙！”

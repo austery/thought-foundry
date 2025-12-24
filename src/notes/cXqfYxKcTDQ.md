@@ -1,33 +1,32 @@
 ---
-title: 美国政府关门风波：特朗普威胁或不支付被停职员工工资，农业援助及国际贸易成焦点
-summary: 美国政府因预算僵局持续关门，特朗普政府放出风声可能不支付被停职联邦员工的工资，引发广泛担忧。同时，围绕农业援助、对华贸易及与加拿大贸易谈判的讨论也持续进行。国会围绕持续性决议的投票陷入僵局，双方相互指责，谈判前景不明。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- cultural-critique
-tags:
-- agriculture-aid
-- federal-workers
-- government-shutdown
-- trade-negotiations
-- trump-administration
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-07'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=cXqfYxKcTDQ
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 美国政府因预算僵局持续关门，特朗普政府放出风声可能不支付被停职联邦员工的工资，引发广泛担忧。同时，围绕农业援助、对华贸易及与加拿大贸易谈判的讨论也持续进行。国会围绕持续性决议的投票陷入僵局，双方相互指责，谈判前景不明。
+tags:
+- financial
+- government-shutdown
+- llm
+- trade-negotiation
+- trump-administration
+title: 美国政府关门风波：特朗普威胁或不支付被停职员工工资，农业援助及国际贸易成焦点
 ---
+
 ### Bloomberg 播客介绍
 
 Music

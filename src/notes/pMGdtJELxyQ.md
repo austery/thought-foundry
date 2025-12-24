@@ -1,52 +1,51 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- 特斯拉
+- 比亚迪
+- ASML
+- Netflix
+- PayPal
+- 苹果
+- Google
+- Visa
+- Mastercard
+- American Express
+- 伯克希尔·哈撒韦
 date: '2024-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富》
+- 《华尔街日报》
+people:
+- 唐石峻
+- Peter Lynch
+- Warren Buffett
+- Alex Ch
+products_models:
+- EUV光刻机
+- Venmo借记卡
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=pMGdtJELxyQ
 speaker: Shijun Tang
-tags:
-  - high-valuation-risks
-  - cash-flow-analysis
-  - moat-sustainability
-  - share-dilution
-  - investment-diversification-misconception
-title: 特斯拉、ASML与Netflix的财报解析：高估值下的投资逻辑与多元化真相
-summary: 本篇深度分析特斯拉、ASML和Netflix三家公司最新财报背后的财务真相，揭示高股价与经营数据的背离，并探讨投资中的多元化误区。作者指出：即便公司优秀，过高的估值仍可能导致亏损；真正的护城河来自垄断地位与飞轮效应；而投资集中化才是长期成功的标志。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - Peter Lynch
-  - Warren Buffett
-  - Alex Ch
-companies_orgs:
-  - 特斯拉
-  - 比亚迪
-  - ASML
-  - Netflix
-  - PayPal
-  - 苹果
-  - 谷歌
-  - Visa
-  - Mastercard
-  - American Express
-  - 伯克希尔·哈撒韦
-products_models:
-  - EUV光刻机
-  - Venmo借记卡
-media_books:
-  - 《财富》
-  - 《华尔街日报》
 status: evergreen
+summary: 本篇深度分析特斯拉、ASML和Netflix三家公司最新财报背后的财务真相，揭示高股价与经营数据的背离，并探讨投资中的多元化误区。作者指出：即便公司优秀，过高的估值仍可能导致亏损；真正的护城河来自垄断地位与飞轮效应；而投资集中化才是长期成功的标志。
+tags:
+- analysis
+- investment
+- risk
+- technology
+title: 特斯拉、ASML与Netflix的财报解析：高估值下的投资逻辑与多元化真相
 ---
+
 ### 特斯拉财报：盈利回暖背后的资本幻觉
 
 特斯拉在最新财报后股价一度暴涨28.96%，但五天内又回吐了12.67%的涨幅，这种剧烈波动让许多投资者感到困惑。表面上看，财报数据全面回暖：经营利润、经营性现金流和自由现金流均实现改善；EPS（每股收益）超出市场预期；公司还生产了第700万辆汽车，财务状况看起来非常健康——现金储备是债务的三倍以上。

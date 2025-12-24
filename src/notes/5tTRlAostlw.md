@@ -1,30 +1,29 @@
 ---
-title: 《107天》：卡马拉·哈里斯的复仇宣言与民主党内战的序幕
-summary: 卡马拉·哈里斯的回忆录《107天》揭示了她在拜登政府下的压抑四年、2024年退选的“甩锅”真相，以及她针对民主党同僚的“焦土策略”，旨在重塑人设，剑指2028年大选。
 area: market-analysis
 category: geopolitics
-project:
-- us-analysis
-tags:
-- democratic-party-politics
-- political-memoir
-- us-presidential-election
-people:
-- kamala-harris
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-30'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- kamala-harris
+products_models: []
+project:
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=5tTRlAostlw
+speaker: 北美王路飞
 status: evergreen
+summary: 卡马拉·哈里斯的回忆录《107天》揭示了她在拜登政府下的压抑四年、2024年退选的“甩锅”真相，以及她针对民主党同僚的“焦土策略”，旨在重塑人设，剑指2028年大选。
+tags:
+- geopolitical
+- political
+- politics
+title: 《107天》：卡马拉·哈里斯的复仇宣言与民主党内战的序幕
 ---
+
 ### 引言：哈里斯新书引爆民主党内战
 
 欢迎来到我的频道。今天，我们来聊一聊这本刚刚出版便引爆整个美国政坛，特别是将民主党内部搅得天翻地覆的新书——**卡马拉·哈里斯**（Kamala Harris: 美国现任副总统）的竞选回忆录《**107天**》（107 Days: 指哈里斯竞选总统的实际天数）。我觉得美国人写书确实很有一套，仅仅107天的竞选经历都能写成一本畅销书并大卖，可见美国的出版业确实非常发达。

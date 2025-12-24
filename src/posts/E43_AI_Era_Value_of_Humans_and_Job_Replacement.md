@@ -1,31 +1,31 @@
 ---
-title: E43 深度对话：NotebookLM与AI内容生成的未来
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - 人类价值
-people:
-  - 李厚辰
-  - 伍雷
-  - 贾葭
-companies_orgs: []
-products_models: []
-media_books:
-- 三个水枪手
-date: '2025-05-30'
+area: tech-engineering
 author: Lei
-speaker: 三個水槍手
+category: ai-ml
 channel: null
+companies_orgs: []
+date: '2025-05-30'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 三个水枪手
+people:
+- 李厚辰
+- 伍雷
+- 贾葭
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: null
+speaker: 三個水槍手
+summary: null
+tags:
+- 人类价值
+title: E43 深度对话：NotebookLM与AI内容生成的未来
 ---
+
 ## 引言：播客的“最后一期”？
 
 **主持人：** AI也许能替你说话，但他代替不了你活过的每一分钟。今天又是我们新的一期节目，而且很有可能是我们的最后一期节目了。

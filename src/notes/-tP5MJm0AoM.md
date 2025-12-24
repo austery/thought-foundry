@@ -1,37 +1,36 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Intact Centre on Climate Adaptation
+- University of Waterloo
+- TVO Today
+- Fire Smart BC
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Anabela Bonada
+products_models:
+- National Adaptation Strategy
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=-tP5MJm0AoM
 speaker: TVO Today
-tags:
-  - climate-adaptation
-  - climate-resilience
-  - wildfire-preparedness
-  - flood-prevention
-  - national-adaptation-strategy
-title: 加拿大如何适应气候变化？从家园到社区的韧性建设
-summary: 本篇文章深入探讨了加拿大气候适应策略，强调了与减缓措施并行的重要性。专家Anabela Bonada解释了气候适应的含义，并提供了从家庭到市政层面应对野火、洪灾和极端高温的具体措施，包括清理庭院、维护排水系统、建设防火防洪社区以及政府的教育和资金支持。文章还讨论了适应性投资的回报及其对减轻气候焦虑的积极作用。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - Anabela Bonada
-companies_orgs:
-  - Intact Centre on Climate Adaptation
-  - University of Waterloo
-  - TVO Today
-  - Fire Smart BC
-products_models:
-  - National Adaptation Strategy
-media_books: []
 status: evergreen
+summary: 本篇文章深入探讨了加拿大气候适应策略，强调了与减缓措施并行的重要性。专家Anabela Bonada解释了气候适应的含义，并提供了从家庭到市政层面应对野火、洪灾和极端高温的具体措施，包括清理庭院、维护排水系统、建设防火防洪社区以及政府的教育和资金支持。文章还讨论了适应性投资的回报及其对减轻气候焦虑的积极作用。
+tags:
+- climate
+- climate-resilience
+- environment
+- strategy
+- technology
+title: 加拿大如何适应气候变化？从家园到社区的韧性建设
 ---
+
 ### 气候适应：加拿大韧性建设的核心
 
 构建**气候韧性**（Climate Resilience: 应对气候变化影响并从中恢复的能力）意味着什么？Anabela Bonada是滑铁卢大学**英泰气候适应中心**（Intact Centre on Climate Adaptation: 致力于气候适应研究与实践的机构）的气候科学常务董事。她认为，加拿大不应仅仅对灾害作出反应，更应该为此做好准备。

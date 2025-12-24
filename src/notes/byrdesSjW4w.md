@@ -1,37 +1,37 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 一席YiXi
 date: '2024-08-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《回家》
+people:
+- 钟郁含
+- 李军雷
+products_models: []
+project:
+- historical-insights
+- knowledge-pipeline
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=byrdesSjW4w
 speaker: 一席YiXi
-tags:
-  - long-distance-parenting
-  - emotional-connection
-  - parental-guilt
-  - quiet-acts-of-love
-  - non-verbal-communication
-title: 与分离的家庭共筑远距离亲子互动的桥梁
-summary: 钟郁含分享她通过支教与长期调研，发现乡村留守儿童对父母情感联结的深切渴望，并带领家庭共同构建平凡却有质量的远距离亲子互动方式，揭示爱无需完美，只需真实与持续。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - knowledge-pipeline
-  - cultural-critique
-people:
-  - 钟郁含
-  - 李军雷
-companies_orgs:
-  - 一席YiXi
-products_models: []
-media_books:
-  - 《回家》
 status: evergreen
+summary: 钟郁含分享她通过支教与长期调研，发现乡村留守儿童对父母情感联结的深切渴望，并带领家庭共同构建平凡却有质量的远距离亲子互动方式，揭示爱无需完美，只需真实与持续。
+tags:
+- communication
+- emotional
+- long-distance-parenting
+- love
+- technology
+title: 与分离的家庭共筑远距离亲子互动的桥梁
 ---
+
 ### 桥梁的起点：一次支教带来的震撼
 
 大家好，我叫钟郁含，是“一起长大”项目的发起人。这个项目致力于支持乡村家庭进行远距离亲子互动。在许多乡村，父母因务工不得不与孩子长期分离——但这并非仅限于农村的家庭经验。今天我想探讨的是：当父母与孩子被迫分隔两地时，如何跨越时间和空间的障碍，重建真正的情感联结。

@@ -1,43 +1,43 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- World Health Organization
+- United Nations
+- European Union
 date: '2024-09-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《庄野杂谈第151集》
+people:
+- Justin Trudeau
+products_models:
+- Pensionado Visa
+- 长期居留访客签证
+- 临时居民签证
+- Permanent Resident Visa
+- 黄金签证
+- 非盈利签证
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=X-cbijFGYcE
 speaker: 莊也雜談
-tags:
-  - canadian-retirement
-  - expat-destinations
-  - cost-of-living
-  - healthcare-systems
-  - visa-requirements
-title: 加拿大人退休外流：十大热门国家（上）深度解析
-summary: 本期节目深入探讨了加拿大人选择海外退休的动因，分析了加拿大当前面临的通胀、房价、医疗资源挤兑及社会治安等问题。主持人庄野通过对23个国家进行调研筛选，总结出加拿大之外的十大退休圣地。节目详细介绍了排名前十至第五的国家，包括哥斯达黎加、法国、墨西哥、巴拿马、希腊和西班牙，从气候、生活成本、医疗、文化、签证政策及优缺点等多维度进行客观对比，为寻求海外退休生活的加拿大人提供了全面的参考。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Justin Trudeau
-companies_orgs:
-  - World Health Organization
-  - United Nations
-  - European Union
-products_models:
-  - Pensionado Visa
-  - 长期居留访客签证
-  - 临时居民签证
-  - Permanent Resident Visa
-  - 黄金签证
-  - 非盈利签证
-media_books:
-  - 《庄野杂谈第151集》
 status: evergreen
+summary: 本期节目深入探讨了加拿大人选择海外退休的动因，分析了加拿大当前面临的通胀、房价、医疗资源挤兑及社会治安等问题。主持人庄野通过对23个国家进行调研筛选，总结出加拿大之外的十大退休圣地。节目详细介绍了排名前十至第五的国家，包括哥斯达黎加、法国、墨西哥、巴拿马、希腊和西班牙，从气候、生活成本、医疗、文化、签证政策及优缺点等多维度进行客观对比，为寻求海外退休生活的加拿大人提供了全面的参考。
+tags:
+- canadian
+- cost-of-living
+- expat-destination
+- healthcare-system
+- society
+title: 加拿大人退休外流：十大热门国家（上）深度解析
 ---
+
 ### 加拿大：养老天堂光环褪去，退休外流成新趋势
 
 大家好，我是庄野，欢迎收看庄野杂谈。今天我们来聊一个比较有意思的话题：离开加拿大去哪里退休？您可能会觉得奇怪，加拿大素有“养老天堂”之称，为何还要去其他地方退休？如果这话放在三四年前，确实如此。那时的加拿大山清水秀，房价合理，医疗养老资源充裕，社会治安良好，除了天气稍冷，几乎没有大问题。只要培养冬季运动爱好，或选择温哥华、多伦多周边居住，冬天也并非难以忍受。

@@ -1,63 +1,62 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: business
+companies_orgs:
+- Bloomberg Podcasts
+- Worheimer Fleer LLP
+- White House
+- NYPD
+- Georgetown
+- Goldman Sachs
+- Geico
+- Top Dog Law
 date: '2025-07-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots Podcast
+- Blue Sky
+- Reddit
+- Twitter
+- YouTube
+people:
+- Joe Wisenthal
+- Tracy Alloway
+- Joel Worerheimer
+- Danny Wiltown
+- Ben Thompson
+products_models:
+- GPT-3 Pro
+- ChatGPT
+- Briefpoint AI
+- Llama
+- Harvey AI
+- Iudis
+- CaseText
+- Claude
+- Microsoft Word
+- LexusNexus
+- Westlaw
+- Bloomberg Law
+project:
+- ai-impact-analysis
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=wfxWI0VT6LM
 speaker: Bloomberg Podcasts
-tags:
-  - legal-industry
-  - ai-in-law
-  - billable-hours
-  - law-firm-economics
-  - access-to-justice
-title: AI如何重塑法律行业：效率、经济模式与未来律师技能
-summary: 本期播客深入探讨了人工智能对法律行业的影响。嘉宾Joel Worerheimer分享了AI如何提高法律研究效率、改变律师事务所的计费模式和合伙人晋升路径。讨论还涵盖了AI在简化文书工作、扩大法律服务可及性方面的潜力，以及未来律师所需的核心技能将如何从重复性任务转向人际沟通和策略制定。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - us-analysis
-people:
-  - Joe Wisenthal
-  - Tracy Alloway
-  - Joel Worerheimer
-  - Danny Wiltown
-  - Ben Thompson
-companies_orgs:
-  - Bloomberg Podcasts
-  - Worheimer Fleer LLP
-  - White House
-  - NYPD
-  - Georgetown
-  - Goldman Sachs
-  - Geico
-  - Top Dog Law
-products_models:
-  - GPT-3 Pro
-  - ChatGPT
-  - Briefpoint AI
-  - Llama
-  - Harvey AI
-  - Iudis
-  - CaseText
-  - Claude
-  - Microsoft Word
-  - LexusNexus
-  - Westlaw
-  - Bloomberg Law
-media_books:
-  - OddLots Podcast
-  - Blue Sky
-  - Reddit
-  - Twitter
-  - YouTube
 status: evergreen
+summary: 本期播客深入探讨了人工智能对法律行业的影响。嘉宾Joel Worerheimer分享了AI如何提高法律研究效率、改变律师事务所的计费模式和合伙人晋升路径。讨论还涵盖了AI在简化文书工作、扩大法律服务可及性方面的潜力，以及未来律师所需的核心技能将如何从重复性任务转向人际沟通和策略制定。
+tags:
+- geopolitical
+- industry
+- law
+- science
+title: AI如何重塑法律行业：效率、经济模式与未来律师技能
 ---
+
 ### AI与法律行业的初探
 
 **Joe:** 大家好，欢迎收听《OddLots播客》的又一期节目。我是Joe Wisenthal。

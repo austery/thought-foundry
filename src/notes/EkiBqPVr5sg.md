@@ -1,37 +1,36 @@
 ---
-author: 小翠時政財經
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 华信集团
+- 浙金中心
+- 浙江省金融市场投资有限公司
+- 宁波城建投资股份有限公司
+- 国信证券
+- 民生银行
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- 叶简明
+- 丁建林
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=EkiBqPVr5sg
 speaker: 小翠時政財經
-tags:
-  - llm
-  - financial-analysis
-  - risk-management
-title: 浙江金融資產交易中心200億爆雷真相：竟然和葉簡明的華信案有關！
-summary: 浙江省金融資產交易平台浙金中心爆雷，涉及200亿元，牵扯出2018年叶简明的华信集团旧案。浙金中心曾通过SPV结构向华信集团输血，涉及37.2亿债务，最终选择兜底并增资扩股引入新股东。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 叶简明
-  - 丁建林
-companies_orgs:
-  - 华信集团
-  - 浙金中心
-  - 浙江省金融市场投资有限公司
-  - 宁波城建投资股份有限公司
-  - 国信证券
-  - 民生银行
-products_models: []
-media_books: []
 status: evergreen
+summary: 浙江省金融資產交易平台浙金中心爆雷，涉及200亿元，牵扯出2018年叶简明的华信集团旧案。浙金中心曾通过SPV结构向华信集团输血，涉及37.2亿债务，最终选择兜底并增资扩股引入新股东。
+tags:
+- financial-analysis
+- risk-management
+title: 浙江金融資產交易中心200億爆雷真相：竟然和葉簡明的華信案有關！
 ---
+
 ### 浙江金融資產交易中心200億爆雷真相
 
 近日，浙江省金融資產交易平台**浙金中心**爆雷，涉及金额超过200亿元，超过一万名投資人血本無歸。浙金中心是浙江省第一家被省级政府批复设立的金融資產交易平台，其背景与**叶简明的华信集团**密切相关。

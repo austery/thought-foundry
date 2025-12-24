@@ -1,47 +1,47 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- Ontario Secondary School Teachers Federation
+- University of Toronto
+- Peninsula Canada
+- Advanced Symbolics Inc.
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+people:
+- Charlie Kirk
+- Muna Kadri
+- Sara Mora
+- Jill Dunlop
+- Charlie Herrera Vacaflor
+- Jeyan Jeganathan
+products_models:
+- Poly
+project:
+- geopolitics-watch
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=oO7lp0dUUC8
 speaker: TVO Today
-tags:
-  - political-speech
-  - freedom-of-expression
-  - workplace-policy
-  - classroom-discussion
-  - critical-thinking
-  - social-media-impact
-title: 如何在教室和职场中驾驭政治言论？
-summary: 本文探讨了在教室和职场中处理政治言论的复杂性。通过对教育工作者、学生和就业法律顾问的访谈，文章深入分析了言论自由的界限、雇主政策、教师在课程中的角色、社交媒体的影响以及在敏感话题讨论中培养批判性思维和同理心的重要性。文章强调了在日益两极分化的社会中，创建安全空间进行富有成效的政治对话所面临的挑战和必要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - systems-thinking
-people:
-  - Charlie Kirk
-  - Muna Kadri
-  - Sara Mora
-  - Jill Dunlop
-  - Charlie Herrera Vacaflor
-  - Jeyan Jeganathan
-companies_orgs:
-  - TVO Today
-  - Ontario Secondary School Teachers Federation
-  - University of Toronto
-  - Peninsula Canada
-  - Advanced Symbolics Inc.
-products_models:
-  - Poly
-media_books:
-  - The Rundown
 status: evergreen
+summary: 本文探讨了在教室和职场中处理政治言论的复杂性。通过对教育工作者、学生和就业法律顾问的访谈，文章深入分析了言论自由的界限、雇主政策、教师在课程中的角色、社交媒体的影响以及在敏感话题讨论中培养批判性思维和同理心的重要性。文章强调了在日益两极分化的社会中，创建安全空间进行富有成效的政治对话所面临的挑战和必要性。
+tags:
+- critical-thinking
+- freedom
+- geopolitical
+- policy
+- political
+- social-media-impact
+title: 如何在教室和职场中驾驭政治言论？
 ---
+
 ### 政治言论的界限：职场与课堂的挑战
 
 你可能听过“死者为大”这句话，它是一种道德指引，但它能否也成为一条职场规则呢？上个月，在美国播客**查理·柯克**（Charlie Kirk: 一位右翼评论员）去世后，安大略省苏圣玛丽市的一位市议员在社交媒体上表示，他散布了仇恨言论。她目前正受到该市**廉政专员**（Integrity Commissioner: 负责调查政府官员行为不当指控的独立官员）的调查。大约在同一时间，多伦多大学的一位教授因发帖称这次枪击事件“对法西斯分子来说太好了”而被停职。这引发了一些重大问题：如果你在工作中或网上发表了有争议的言论，你的雇主究竟能做什么？言论自由的限制是什么？学校又该如何？在课堂上讨论敏感话题可能很棘手，是否有任何话题应该被禁止？

@@ -1,32 +1,31 @@
 ---
-author: KevinFeng 冯凯文
+area: knowledge-meta
+category: learning-education
+companies_orgs: []
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kevin Feng
+products_models: []
+project:
+- career-development
+series: ''
 source: https://www.youtube.com/watch?v=djJlfOQfx08
 speaker: KevinFeng 冯凯文
-tags:
-  - learning-strategy
-  - self-reflection
-  - time-management
-  - english-learning
-  - personalization
-title: 为什么你坚持不下去？你的英文学习计划里，缺了“你自己”
-summary: 本视频探讨了学习效率低下的根源，强调应回归个人生活本质，通过识别‘不可或缺’和‘必做之事’来计算自由时间，并砍掉不必要活动，从而设计出真正适合自己的学习计划，而非盲目追求固定日程。核心在于理解自我需求，找到并聚焦‘确定能成功的事’。
-insight: ''
-draft: true
-series: ''
-category: learning-education
-area: knowledge-meta
-project:
-  - career-development
-people:
-  - Kevin Feng
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频探讨了学习效率低下的根源，强调应回归个人生活本质，通过识别‘不可或缺’和‘必做之事’来计算自由时间，并砍掉不必要活动，从而设计出真正适合自己的学习计划，而非盲目追求固定日程。核心在于理解自我需求，找到并聚焦‘确定能成功的事’。
+tags:
+- learning
+- personalization
+- self
+- strategy
+- time-management
+title: 为什么你坚持不下去？你的英文学习计划里，缺了“你自己”
 ---
+
 ### 学习时间之问
 我被问过好多次这样子问题：我每天要花多少时间学习？我每天要做多少题？找到**确定能成功的那件事**，然后就狂做这一件事，这个才是真正本质的问题。那我的答案就是，这两年你推荐给我的学习方式，其实一直都是**反传统教育式**（Anti-traditional education: Learning based on interest rather than rote memorization or strict curriculum）。你一直在去鼓励我用感兴趣的内容去学习，对吧？然后也是没有背单词，也没有去抠语法。所以我就想问，我这种讨厌刷题的人，如果真的只是愿意拿备考时间的20%去刷题，然后其余80%的时间，我都按照我自己感兴趣的内容来学习的话，我能不能达到目标？（不一定。）跟我想象中的大不一样。
 

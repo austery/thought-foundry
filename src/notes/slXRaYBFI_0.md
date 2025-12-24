@@ -1,78 +1,79 @@
 ---
-author: 人民公園說AI
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- OpenAI
+- DeepMind
+- Nvidia
+- Microsoft
+- Anthropic
+- Meta
+- Apple
+- 华为
+- Polymarket
+- Windsurf
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The New York Times》
+people:
+- Demis Hassabis
+- 李世石
+- 柯洁
+- Sam Altman
+- 杨立坤
+- Satya Nadella
+- Sundar Pichai
+- 伊利亚
+- Greg Brockman
+- Jose
+- 巴菲特
+products_models:
+- Gemini
+- GPT-5
+- GPT-4
+- AlphaGo
+- AlphaFold
+- Codex
+- Sora
+- NotebookLM
+- DeepSeek R
+- Cloud 4
+- GLM
+- MiniMax
+- Kimi
+- Cursor
+- Devlin
+- GPT OSS
+- Mac OS
+- Windows 98
+- Chrome
+- VS Code
+- CUDA
+project:
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=slXRaYBFI_0
 speaker: 人民公園說AI
-tags:
-  - gemini-3
-  - google-ai-strategy
-  - foundational-models
-  - tpu-development
-  - ai-competition
-  - organizational-integration
-  - future-of-software
-title: Gemini 3：Google如何跑出GPT-5的理想状态，及其对AI格局的影响
-summary: 本次讨论深入分析了Google Gemini 3的发布及其对AI领域的影响。与OpenAI的GPT-5相比，Gemini 3被认为是实现了GPT-5的理想状态，尤其在底层架构、TPU应用、多模态训练及“DeepThink”模式上展现出显著优势。文章探讨了Google在基础模型上的坚定投入、组织整合能力（如DeepMind和Windsurf的融合），以及其ToB战略的清晰性。同时，也对比了Google与OpenAI在产品化和市场策略上的差异，并强调了Demis Hassabis作为Google AI掌门人的关键作用，展望了“一次性软件”的未来潜力。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Demis Hassabis
-  - 李世石
-  - 柯洁
-  - Sam Altman
-  - 杨立坤
-  - Satya Nadella
-  - Sundar Pichai
-  - 伊利亚
-  - Greg Brockman
-  - Jose
-  - 巴菲特
-companies_orgs:
-  - Google
-  - OpenAI
-  - DeepMind
-  - Nvidia
-  - Microsoft
-  - Anthropic
-  - Meta
-  - Apple
-  - 华为
-  - Polymarket
-  - Windsurf
-products_models:
-  - Gemini
-  - GPT-5
-  - GPT-4
-  - AlphaGo
-  - AlphaFold
-  - Codex
-  - Sora
-  - NotebookLM
-  - DeepSeek R
-  - Cloud 4
-  - GLM
-  - MiniMax
-  - Kimi
-  - Cursor
-  - Devlin
-  - GPT OSS
-  - Mac OS
-  - Windows 98
-  - Chrome
-  - VS Code
-  - CUDA
-media_books:
-  - 《The New York Times》
 status: evergreen
+summary: 本次讨论深入分析了Google Gemini 3的发布及其对AI领域的影响。与OpenAI的GPT-5相比，Gemini 3被认为是实现了GPT-5的理想状态，尤其在底层架构、TPU应用、多模态训练及“DeepThink”模式上展现出显著优势。文章探讨了Google在基础模型上的坚定投入、组织整合能力（如DeepMind和Windsurf的融合），以及其ToB战略的清晰性。同时，也对比了Google与OpenAI在产品化和市场策略上的差异，并强调了Demis
+  Hassabis作为Google AI掌门人的关键作用，展望了“一次性软件”的未来潜力。
+tags:
+- ai-competition
+- development
+- future
+- google-ai-strategy
+- llm
+- model
+- organizational
+title: Gemini 3：Google如何跑出GPT-5的理想状态，及其对AI格局的影响
 ---
+
 ### Gemini 3：跑出GPT-5的理想状态
 
 **老兄:** Gemini这一次给人的感觉是从容不迫、游刃有余，仿佛将大家对GPT-5的理想状态都实现了，明显比它更好。Google吸纳了Windsurf最核心的员工，带着他们的**Know-How**（专有技术: 实践知识和技能），用着Google的**TPU**（Tensor Processing Unit: 谷歌为机器学习工作负载设计的专用集成电路），吹着Google的空调，将这些Know-How融入到产品中，然后发布出来，这简直是活久见。

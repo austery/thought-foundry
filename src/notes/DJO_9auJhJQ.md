@@ -1,47 +1,47 @@
 ---
-author: Veritasium
-date: '2024-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DJO_9auJhJQ
-speaker: Veritasium
-tags:
-  - veritasium
-  - alien-life-search
-  - subsurface-ocean
-  - tidal-heating
-  - radiation-belts
-  - hydrothermal-vents
-title: 木卫二：在木星的致命辐射带中寻找地外生命
-summary: 本文探讨了美国国家航空航天局（NASA）的“欧罗巴快船”（Europa Clipper）任务，该任务旨在探测木星的卫星木卫二（Europa）上可能存在的液态海洋和地外生命。文章详细介绍了木星强大的磁场和辐射带对探测器的挑战，以及木卫二地表缺乏撞击坑、磁场异常和潮汐加热等证据如何指向其冰层下可能存在的巨大咸水海洋。此外，还讨论了水热喷口作为生命绿洲的可能性，以及未来任务如何克服技术难题，寻找生命的迹象。最后，文章提及了80,000 Hours的赞助信息，鼓励个人通过职业选择对世界产生积极影响。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Arthur C. Clarke
+category: science
 companies_orgs:
-  - NASA
-  - European Space Agency
-  - JPL
-  - 80,000 Hours
-products_models:
-  - Europa Clipper
-  - Pioneer 10
-  - Voyager
-  - Galileo
-  - JUICE
-  - Hubble Space Telescope
-  - SnotBot
+- NASA
+- European Space Agency
+- JPL
+- 80,000 Hours
+date: '2024-10-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 2001, A Space Odyssey
-  - 2010, Odyssey Two
+- 2001, A Space Odyssey
+- 2010, Odyssey Two
+people:
+- Arthur C. Clarke
+products_models:
+- Europa Clipper
+- Pioneer 10
+- Voyager
+- Galileo
+- JUICE
+- Hubble Space Telescope
+- SnotBot
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=DJO_9auJhJQ
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了美国国家航空航天局（NASA）的“欧罗巴快船”（Europa Clipper）任务，该任务旨在探测木星的卫星木卫二（Europa）上可能存在的液态海洋和地外生命。文章详细介绍了木星强大的磁场和辐射带对探测器的挑战，以及木卫二地表缺乏撞击坑、磁场异常和潮汐加热等证据如何指向其冰层下可能存在的巨大咸水海洋。此外，还讨论了水热喷口作为生命绿洲的可能性，以及未来任务如何克服技术难题，寻找生命的迹象。最后，文章提及了80,000
+  Hours的赞助信息，鼓励个人通过职业选择对世界产生积极影响。
+tags:
+- hydrothermal-vent
+- life
+- radiation-belt
+- subsurface-ocean
+- tidal-heating
+title: 木卫二：在木星的致命辐射带中寻找地外生命
 ---
+
 ### 寻找地外生命的希望：木卫二
 
 亚瑟·C·克拉克（Arthur C. Clarke）的《2001太空漫游》（2001, A Space Odyssey）有一部续集，名为《2010太空漫游》（2010, Odyssey Two）。在故事的结尾，一个外星智慧将**木星**（Jupiter：太阳系中最大的行星）变成了一颗恒星。当一群宇航员险些逃脱内爆时，他们收到了来自外星人的信息：“所有这些世界都属于你们，除了**木卫二**（Europa：木星的第四大卫星，也是太阳系中第六大卫星），不要试图在那里着陆。”虽然这只是一部小说，但它表明早在1982年，我们就怀疑木卫二可能提供了我们在太阳系中寻找地外生命的最佳机会。四十二年后，也就是2024年10月，**美国国家航空航天局**（NASA：负责美国太空计划、航空研究以及行星探索的联邦机构）正在发射最先进的任务来寻找地外生命的迹象，而它的目的地正是木星的卫星木卫二。然而，只有一个问题：木星会杀死它周围的一切。那么，生命如何能在那里存在？以及如何制造一个能够承受危险条件的探测器呢？

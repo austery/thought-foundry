@@ -1,27 +1,27 @@
 ---
-title: 特斯拉深度分析：第三党派风波与“大而美”法案冲击下的投资策略
-summary: null
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-  - 投资
-people: []
+area: finance-wealth
+author: Lei
+category: stock-investment
+channel: null
 companies_orgs:
 - 特斯拉
-products_models: []
-media_books: []
 date: '2025-07-07'
-author: Lei
-speaker: 投资TALK君
-channel: null
 guest: null
 insight: null
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- investment-strategy
 series: null
 source: null
+speaker: 投资TALK君
+summary: null
+tags: []
+title: 特斯拉深度分析：第三党派风波与“大而美”法案冲击下的投资策略
 ---
+
 ## 一、宏观背景更新：关税事件进展
 
 本报告首先对关税事件进行更新。根据最新消息，财政部长耶伦（文中误称为贝森特）表示，对于部分尚未达成协议的国家，原定于7月9日到期的关税豁免将再延期三周至8月1日。与此同时，特朗普总统也宣布，将从周一开始向12至15个贸易伙伴发出“关税信件”，警告其若在三天内不达成协议，将必须接受美方设定的最终关税税率。

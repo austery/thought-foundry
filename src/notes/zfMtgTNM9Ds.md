@@ -1,53 +1,53 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 麻省理工学院
+- 哈佛大学
+- 台北市政府社会局
+- 中山大学
+- 阿姆斯特丹大学
+- 监察院
+- 中国社会科学院社会科学文献出版社
 date: '2023-08-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《公家机关如何侵蚀道德能力：基层公务员的道德困境》
+- 《台湾的基层公务员是如何制造低收入户的》
+people:
+- Bernardo Zacka
+- Michael Lipsky
+- 林传凯
+- 黄克先
+- 洪博轩
+- Max Weber
+products_models:
+- 街头官僚理论
+- 裁量权
+- 种族归纳
+- 拟制收入制度
+- 认知失调理论
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=zfMtgTNM9Ds
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - civil-servant-ethics
-  - bureaucratic-discretion
-  - poverty-governance
-  - cognitive-dissonance
-  - public-administration-challenges
-title: 基层公务员的道德困境：公家机关如何侵蚀道德能力？
-summary: 本文深入探讨了基层公务员在公家机关中面临的道德困境，以及这种困境如何侵蚀其道德能力。文章引用麻省理工学院学者伯纳多·扎卡的研究，指出公家机关因资源匮乏和目标矛盾，导致公务员产生认知失调，进而形成冷漠、过度关怀或敌意执法等病态道德倾向。同时，结合台湾的贫穷治理案例，揭示了裁量权在“假性脱游”和“制造低收入户”中的实际影响，强调了制度设计对基层公务员行为模式的关键作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - Bernardo Zacka
-  - Michael Lipsky
-  - 林传凯
-  - 黄克先
-  - 洪博轩
-  - Max Weber
-companies_orgs:
-  - 麻省理工学院
-  - 哈佛大学
-  - 台北市政府社会局
-  - 中山大学
-  - 阿姆斯特丹大学
-  - 监察院
-  - 中国社会科学院社会科学文献出版社
-products_models:
-  - 街头官僚理论
-  - 裁量权
-  - 种族归纳
-  - 拟制收入制度
-  - 认知失调理论
-media_books:
-  - 《公家机关如何侵蚀道德能力：基层公务员的道德困境》
-  - 《台湾的基层公务员是如何制造低收入户的》
 status: evergreen
+summary: 本文深入探讨了基层公务员在公家机关中面临的道德困境，以及这种困境如何侵蚀其道德能力。文章引用麻省理工学院学者伯纳多·扎卡的研究，指出公家机关因资源匮乏和目标矛盾，导致公务员产生认知失调，进而形成冷漠、过度关怀或敌意执法等病态道德倾向。同时，结合台湾的贫穷治理案例，揭示了裁量权在“假性脱游”和“制造低收入户”中的实际影响，强调了制度设计对基层公务员行为模式的关键作用。
+tags:
+- canada
+- challenge
+- cognitive
+- ethics
+- governance
+title: 基层公务员的道德困境：公家机关如何侵蚀道德能力？
 ---
+
 这里是寿司坦丁，在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究。当麻省理工学院的政治学者**伯纳多·扎卡**（Bernardo Zacka: 麻省理工学院政治学者，研究官僚体制和公共服务）在离开他进行了八个月的田野调查时，他的脑袋里不断盘旋着一个问题：基层公务员是不是一种有毒的职业？为什么大部分的基层公务员都会呈现出某种病态的道德倾向？
 
 当时的扎卡还不是麻省理工学院的副教授，他还是哈佛政府系的一个博士生。扎卡将他的博士论文全都用来分析这个非常有趣的问题。2015年，扎卡凭借这篇论文拿到他的博士学位。两年后，他把博士论文改写成专书，在学界引起广泛的回响。扎卡最后给出的答案是，他认为基层公务员确实是一种有毒的职业，理由是他认为公家机关是一种会侵蚀道德能力的职场环境。

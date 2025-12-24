@@ -1,55 +1,55 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NATO
+- European Union
+- G20
+- CIA
+- Yasukuni Shrine
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The New York Times》
+- 《Bloomberg》
+- 《The Wall Street Journal》
+- 《繁花》
+people:
+- Sanae Takaichi
+- Donald Trump
+- Xi Jinping
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Marco Rubio
+- John Mearsheimer
+- William J. Burns
+- Angela Merkel
+- Lindsey Graham
+- Jeffrey Sachs
+- Sun Weidong
+products_models:
+- F-35
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=yIBKrLIanXk
 speaker: 北美王路飞
-tags:
-  - russia-ukraine-conflict
-  - sino-japanese-relations
-  - great-power-competition
-  - strategic-ambiguity
-  - geopolitical-realism
-title: 俄乌和平协议的真相与中日外交危机的深层逻辑
-summary: 本期深入探讨了近期震动国际社会的俄乌“28条和平协议”及其背后的政治博弈，揭示了特朗普政府的真实动机与欧洲盟友的激烈反应。同时，详细剖析了由日本首相高市早苗的涉台言论引发的中日外交危机，从法理、政治和民意等多个维度，解读了日本对华强硬立场背后的复杂动因，并运用现实主义理论框架，审视了多极世界格局下的地缘政治新常态。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - Sanae Takaichi
-  - Donald Trump
-  - Xi Jinping
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - Marco Rubio
-  - John Mearsheimer
-  - William J. Burns
-  - Angela Merkel
-  - Lindsey Graham
-  - Jeffrey Sachs
-  - Sun Weidong
-companies_orgs:
-  - NATO
-  - European Union
-  - G20
-  - CIA
-  - Yasukuni Shrine
-products_models:
-  - F-35
-media_books:
-  - 《The New York Times》
-  - 《Bloomberg》
-  - 《The Wall Street Journal》
-  - 《繁花》
 status: evergreen
+summary: 本期深入探讨了近期震动国际社会的俄乌“28条和平协议”及其背后的政治博弈，揭示了特朗普政府的真实动机与欧洲盟友的激烈反应。同时，详细剖析了由日本首相高市早苗的涉台言论引发的中日外交危机，从法理、政治和民意等多个维度，解读了日本对华强硬立场背后的复杂动因，并运用现实主义理论框架，审视了多极世界格局下的地缘政治新常态。
+tags:
+- conflict
+- financial
+- geopolitical-realism
+- power
+- sino-japanese-relations
+title: 俄乌和平协议的真相与中日外交危机的深层逻辑
 ---
+
 ### 中日外交危机：高市早苗言论引发的风暴
 
 **北美王路飞:** 我们今天先从中日外交危机开始讲。最近，中国驻大阪总领事薛剑发了一条推文，措辞激烈，意指要“砍掉高市早苗的头”，引起了轩然大波。

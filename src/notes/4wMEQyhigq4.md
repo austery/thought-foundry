@@ -1,47 +1,45 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs:
+- Weibo
+- Xiaohongshu
+- Bilibili
+- Zhihu
+- Cyberspace Administration of China
 date: '2025-03-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Sublime Object of Ideology
+- Abnormal Man
+- Yongzheng Dynasty
+- Zhu Yuanzhang
+people:
+- Zizek
+- Foucault
+- Nian Gengyao
+- Emperor Yongzheng
+- Zhu Yuanzhang
+- Lan Yu
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=4wMEQyhigq4
 speaker: Anthony看世界
-tags:
-  - censorship-psychology
-  - authoritarian-society
-  - power-dynamics
-  - ideology-reproduction
-  - anxiety-relief
-title: 解读中国社会的隐形自我审查：权力、焦虑与意识形态的享乐机制
-summary: 本视频深入分析中国社会中权力与个体心理的复杂互动。探讨了为何人们在面对权力时，会通过夸大审查的恐怖性或认同权力规则来缓解焦虑，并从中获得一种虚假的享乐。文章指出，这种看似批评实则强化了权力全能性的心理机制，以及在专制体系下，所谓的“生存智慧”如何成为一种低效的心理慰藉，最终促成了意识形态的再生产。视频引用福柯和齐泽克的理论，揭示了这种无意识的自我审查如何让个体深陷权力逻辑。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Zizek
-  - Foucault
-  - Nian Gengyao
-  - Emperor Yongzheng
-  - Zhu Yuanzhang
-  - Lan Yu
-companies_orgs:
-  - Weibo
-  - Xiaohongshu
-  - Bilibili
-  - Zhihu
-  - Cyberspace Administration of China
-products_models: []
-media_books:
-  - The Sublime Object of Ideology
-  - Abnormal Man
-  - Yongzheng Dynasty
-  - Zhu Yuanzhang
 status: evergreen
+summary: 本视频深入分析中国社会中权力与个体心理的复杂互动。探讨了为何人们在面对权力时，会通过夸大审查的恐怖性或认同权力规则来缓解焦虑，并从中获得一种虚假的享乐。文章指出，这种看似批评实则强化了权力全能性的心理机制，以及在专制体系下，所谓的“生存智慧”如何成为一种低效的心理慰藉，最终促成了意识形态的再生产。视频引用福柯和齐泽克的理论，揭示了这种无意识的自我审查如何让个体深陷权力逻辑。
+tags:
+- anxiety
+- power-dynamic
+- psychology
+- society
+title: 解读中国社会的隐形自我审查：权力、焦虑与意识形态的享乐机制
 ---
 
 ### 中国社会中的权力与享乐机制

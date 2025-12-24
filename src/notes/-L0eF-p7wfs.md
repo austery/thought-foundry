@@ -1,33 +1,30 @@
 ---
-title: 2025年8月CPI数据深度解析与市场展望：降息预期、消费趋势及公司财报
-summary: 本期深入分析了2025年8月CPI数据，探讨9月降息前景，并结合市场情绪、消费趋势及Chipotle、On Holding、C Limited、Circle等公司财报，提供全面投资洞察。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- cpi-analysis
-- earnings-review
-- economic-outlook
-- investment-strategy
-- monetary-policy
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-08-13'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+- earnings-review
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=-L0eF-p7wfs
+speaker: 投资TALK君
 status: evergreen
+summary: 本期深入分析了2025年8月CPI数据，探讨9月降息前景，并结合市场情绪、消费趋势及Chipotle、On Holding、C Limited、Circle等公司财报，提供全面投资洞察。
+tags:
+- analysis
+- economic-outlook
+title: 2025年8月CPI数据深度解析与市场展望：降息预期、消费趋势及公司财报
 ---
+
 ### 引言与内容概览
 
 各位观众大家好，欢迎来到一个每天不单只聊新闻的专业美股日更频道，我是市场分析员小陶。今天这期视频，从制作到上传总共花费了7个小时。听到这边，是不是应该先来一波点赞加留言？那我就废话不多说了，马上开始非常多的新内容，我会尽量压缩得稍微短一点，因为时间太长大家就不爱听了，也听不完。我将聊一下宏观数据，特别是**CPI**（Consumer Price Index: 消费者物价指数，衡量商品和服务价格变化的指标）数据，然后详细分析周二多家公司发布的财报。

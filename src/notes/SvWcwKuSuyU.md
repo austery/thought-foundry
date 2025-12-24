@@ -1,46 +1,45 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Alibaba
+- Intel
+- 星巴克
+- 瑞幸咖啡
+- 霸王茶纪
+- 蜜雪冰城
+- 携程
+- 美团
+- 饿了么
 date: '2025-05-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交事务》
+people:
+- 唐石峻
+- 蔡崇信
+products_models:
+- ARC芯片
+project:
+- us-analysis
+- market-cycles
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=SvWcwKuSuyU
 speaker: Shijun Tang
-tags:
-  - earnings-revision
-  - cash-flow-liquidity
-  - consumer-revival
-  - immersive-theme-parks
-  - retail-innovation
-title: 阿里财报暴雷与Intel困境：中国消费复苏与主题娱乐的意外启示
-summary: 本片通过阿里巴巴最新财报分析与Intel的财务危机，探讨科技企业基本面与市场预期的落差；同时以作者亲身经历展现中国三四线城市的消费活力、咖啡产业崛起与沉浸式主题公园的创新模式，揭示中国经济底层运行逻辑的深刻变化。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - historical-insights
-people:
-  - 唐石峻
-  - 蔡崇信
-companies_orgs:
-  - 阿里巴巴
-  - Intel
-  - 星巴克
-  - 瑞幸咖啡
-  - 霸王茶纪
-  - 蜜雪冰城
-  - 携程
-  - 美团
-  - 饿了么
-products_models:
-  - ARC芯片
-media_books:
-  - 《外交事务》
 status: evergreen
+summary: 本片通过阿里巴巴最新财报分析与Intel的财务危机，探讨科技企业基本面与市场预期的落差；同时以作者亲身经历展现中国三四线城市的消费活力、咖啡产业崛起与沉浸式主题公园的创新模式，揭示中国经济底层运行逻辑的深刻变化。
+tags:
+- consumer
+- flow
+- retail-innovation
+- technology
+title: 阿里财报暴雷与Intel困境：中国消费复苏与主题娱乐的意外启示
 ---
+
 ### 阿里财报与Intel困局：基本面的真相
 
 阿里云时代即将到来了——这句话在最近的财报季显得格外刺耳。我持有阿里巴巴股票已有1145天，期间涨幅达60%，年化回报率约为19.12%。但最新季度财报的“暴雷”让这一切蒙上阴影：财报发布当日，股价跳空下跌8%。媒体一片哗然，“阿里AI无望”、“云业务利润惨淡”、“新业务是资本黑洞”、“阿里巴巴要破产了”等论调席卷全网。

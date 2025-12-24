@@ -1,41 +1,39 @@
 ---
-author: 视野环球财经
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Oracle
+- Adobe
+- Tesla
+- Nvidia
+- OpenAI
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jerome Powell
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=ibz72ohgK9c
 speaker: 视野环球财经
-tags:
-  - federal-reserve
-  - interest-rates
-  - dovish-pivot
-  - oracle-earnings
-  - adobe-earnings
-  - ai-impact
-  - market-liquidity
-title: 美联储新剧本与AI财报风暴：甲骨文拉胯，多比“路过”，特斯拉待发力
-summary: 本期节目深入解读美联储最新的利率决议，分析其鸽派转向及其对市场流动性的影响。同时，剖析了甲骨文（Oracle）不及预期的财报及其对AI板块的拖累，多比（Adobe）财报表现平稳但股价反应平淡，以及特斯拉（Tesla）独立走势的观察。内容强调了关注央行实际行动而非言辞的重要性，并探讨了AI时代下企业“护城河”与“价值陷阱”的风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Jerome Powell
-companies_orgs:
-  - Federal Reserve
-  - Oracle
-  - Adobe
-  - Tesla
-  - Nvidia
-  - OpenAI
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入解读美联储最新的利率决议，分析其鸽派转向及其对市场流动性的影响。同时，剖析了甲骨文（Oracle）不及预期的财报及其对AI板块的拖累，多比（Adobe）财报表现平稳但股价反应平淡，以及特斯拉（Tesla）独立走势的观察。内容强调了关注央行实际行动而非言辞的重要性，并探讨了AI时代下企业“护城河”与“价值陷阱”的风险。
+tags:
+- ai-impact
+- dovish-pivot
+- earning
+- federal-reserve
+- interest-rate
+- market-liquidity
+title: 美联储新剧本与AI财报风暴：甲骨文拉胯，多比“路过”，特斯拉待发力
 ---
+
 ### 美联储利率决议与市场反应
 
 大家好，欢迎回到视野环球财经，我是reno。现在是美工时间25年12月10号，周三晚上的7点35分。今天的四大指数啊是在美联储利率决议公布之后，全线走高。那么在利率决议公布之前呢，华尔街是普遍预期，美联储会采取鹰派的降息策略。不过呢，最终的结果和表述都比预期更为鸽派。那咱们呢，首先看一下关于利率决议以及后续需要关注的一些问题。

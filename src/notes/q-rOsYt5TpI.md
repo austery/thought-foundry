@@ -1,57 +1,57 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 小米公司
+- 新浪
+- 微博
+- 抖音
+- 小红书
+- 凯德mall
+- 共青团
 date: '2025-07-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《流星花园》
+- 奥斯卡颁奖典礼
+- 央视春晚
+people:
+- 袁世凯
+- 郑爽
+- 蔡澜
+- 金庸
+- 倪匡
+- 黄霑
+- 李宗盛
+- 张雪峰
+- 唐伯虎
+products_models:
+- NFT数字藏品
+- X
+- 雷明顿870
+- 《捞女游戏》
+- 《黑神话悟空》
+project:
+- china-analysis
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=q-rOsYt5TpI
 speaker: 張内咸
-tags:
-  - gender-dynamics
-  - social-values
-  - internet-culture
-  - financial-literacy
-  - cultural-critique
-title: 中国“渣男”现象：社会价值观扭曲下的生存法则与性别斗争
-summary: 本期节目深入探讨了中国社会中“渣男”现象的普遍性及其深层原因。分析指出，这一现象源于中国女性的“软弱”、社会价值观对“好人”的惩罚以及对“捞女”的污名化。节目还揭示了微博等平台如何利用性别对立制造流量，探讨了财商在个人发展中的作用，并通过对“捞女”一词的语言学分析，揭示了其与文革时期“资产阶级走狗”概念的惊人相似之处，最终指出中国社会在性别关系上存在的深刻矛盾和价值观扭曲。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - cultural-critique
-people:
-  - 袁世凯
-  - 郑爽
-  - 蔡澜
-  - 金庸
-  - 倪匡
-  - 黄霑
-  - 李宗盛
-  - 张雪峰
-  - 唐伯虎
-companies_orgs:
-  - 小米公司
-  - 新浪
-  - 微博
-  - 抖音
-  - 小红书
-  - 凯德mall
-  - 共青团
-products_models:
-  - NFT数字藏品
-  - X
-  - 雷明顿870
-  - 《捞女游戏》
-  - 《黑神话悟空》
-media_books:
-  - 《流星花园》
-  - 奥斯卡颁奖典礼
-  - 央视春晚
 status: evergreen
+summary: 本期节目深入探讨了中国社会中“渣男”现象的普遍性及其深层原因。分析指出，这一现象源于中国女性的“软弱”、社会价值观对“好人”的惩罚以及对“捞女”的污名化。节目还揭示了微博等平台如何利用性别对立制造流量，探讨了财商在个人发展中的作用，并通过对“捞女”一词的语言学分析，揭示了其与文革时期“资产阶级走狗”概念的惊人相似之处，最终指出中国社会在性别关系上存在的深刻矛盾和价值观扭曲。
+tags:
+- cultural-critique
+- culture
+- dynamic
+- financial-literacy
+- social
+title: 中国“渣男”现象：社会价值观扭曲下的生存法则与性别斗争
 ---
+
 ### 中国性别话题的舆论困境与平台流量逻辑
 
 好久没有聊女性话题了，感觉自己又要掉粉了，有点不敢聊，害怕。感觉“渣男”这个词说出来会烫着舌头。这种话题在墙内是不能讲的。以前用微博的时候，只要为女性说两句话，分分钟就会冲过来几十万**普信男**（普通而自信的男人: 指那些能力平平却盲目自信的男性）网暴。这跟骂共产党不一样，因为骂共产党的帖子马上就会被平台给**折叠**（指社交媒体平台对敏感内容进行隐藏或限制可见度的操作）了，只有自己能看见，别人看不见，所以你不会被网暴，最多被封号。但是两性话题一般是不会被折叠的，不管有多少人对骂，平台都是乐见其成的，因为有流量价值。实际上，性别对立是微博很重要的一个话题流量池，永远能引战，网友之间的口水战打得不可开交，而且相对比较安全。性别对立总比阶级对立强，只要男性和女性之间持续不断地仇恨彼此，平台就永远有**日活 (DAU)**（Daily Active Users: 每日活跃用户数量），而且还能为共产党吸引火力，可谓一箭双雕。

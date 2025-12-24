@@ -1,35 +1,34 @@
 ---
-author: 徒步的騎手
-date: 2025-10-14
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=uNoe1LsXJaA'
-speaker: 徒步的騎手
-tags:
-  - culture-of-growth
-  - needham-puzzle
-  - institutional-stagnation
-  - state-capitalism
-title: 乔尔·莫基尔的“增长文化”：解析中国经济长期停滞的底层逻辑
-summary: 本文探讨了中国经济面临的是短期周期性问题还是长期结构性停滞。借鉴经济史学家乔尔·莫基尔的“增长文化”理论，文章分析了为何工业革命发生在欧洲而非中国。欧洲的“文人共和国”促进了思想的开放交流与知识的实际应用，而中国的“大一统”和科举制度则以维护稳定为首要目标，压制了创新。文章认为，改革开放是中国历史上一个短暂的例外，当前中国正回归到以国家控制为主导的历史常态，这种模式限制了真正的创新，并可能导致长期的经济增长乏力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Joel Mokyr
-  - Joseph Needham
-  - Huang Yasheng
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-10-14
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《增长的文化：现代经济的起源》
+- 《增长的文化：现代经济的起源》
+people:
+- Joel Mokyr
+- Joseph Needham
+- Huang Yasheng
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=uNoe1LsXJaA
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了中国经济面临的是短期周期性问题还是长期结构性停滞。借鉴经济史学家乔尔·莫基尔的“增长文化”理论，文章分析了为何工业革命发生在欧洲而非中国。欧洲的“文人共和国”促进了思想的开放交流与知识的实际应用，而中国的“大一统”和科举制度则以维护稳定为首要目标，压制了创新。文章认为，改革开放是中国历史上一个短暂的例外，当前中国正回归到以国家控制为主导的历史常态，这种模式限制了真正的创新，并可能导致长期的经济增长乏力。
+tags:
+- culture
+- institutional
+- needham-puzzle
+- state
+title: 乔尔·莫基尔的“增长文化”：解析中国经济长期停滞的底层逻辑
 ---
 
 ### 引言：中国经济陷入长期停滞了吗？

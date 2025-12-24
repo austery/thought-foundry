@@ -1,100 +1,100 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Palantir
+- Tesla
+- SoFi
+- PayPal
+- UNH
+- Amazon
+- Apple
+- Microsoft
+- Google
+- Meta
+- Amcore
+- Anthropic
+- Reddit
+- Nvidia
+- MicroStrategy
+- CrowdStrike
+- Coinbase
+- CoreWeave
+- Rocket Lab
+- Robinhood
+- Lumen
+- Bitmine
+- Fundstrat
+- Ford
+- NFL
+- Lululemon
+- AMD
+- DoorDash
+- Delta
+- JD
+- Big Bear AI
+- Beyond Meat
+- GameStop
+- OpenAI
+- Department of Energy
+- Reuters
+- Barclays
+- UiPath
+- Oracle
+- Walmart
+- Costco
+- TSM
+- Qualcomm
+- ARM
+- Interactive Brokers
+- Goldman Sachs
+- Bank of America
+- Redcat
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Fox Business
+- The New York Times
+people:
+- Tom Lee
+- Alex Karp
+- Donald Trump
+- Xi Jinping
+- Elon Musk
+- Scott Bessent
+- Ronald Reagan
+- Mike Alfred
+- Michael Steinberger
+- Jensen Huang
+products_models:
+- TPU
+- F-150
+- FSD14
+- AI 200
+- AI 250
+- Black Widow Drone
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=-wss-haC8Y8
 speaker: Amit Kukreja
-tags:
-  - market-rally
-  - us-china-trade
-  - bullish-sentiment
-  - earnings-season
-  - geopolitical-impact
-title: 中美贸易协议现曙光，标普创历史新高：市场迎来全面上涨
-summary: 本期市场分析深入探讨了推动标普500指数创下历史新高的多重利好因素。核心驱动力来自中美贸易谈判取得的积极进展，双方已就实质性框架达成共识，大幅缓解了市场对关税战的担忧。同时，宏观数据显示劳动力市场稳健，市场普遍预期美联储即将降息。在公司层面，Palantir 获得波兰国防部新协议，特斯拉评级获上调，高通发布重磅AI芯片挑战英伟达与AMD，共同点燃了市场的看涨情绪。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Tom Lee
-  - Alex Karp
-  - Donald Trump
-  - Xi Jinping
-  - Elon Musk
-  - Scott Bessent
-  - Ronald Reagan
-  - Mike Alfred
-  - Michael Steinberger
-  - Jensen Huang
-companies_orgs:
-  - Palantir
-  - Tesla
-  - SoFi
-  - PayPal
-  - UNH
-  - Amazon
-  - Apple
-  - Microsoft
-  - Google
-  - Meta
-  - Amcore
-  - Anthropic
-  - Reddit
-  - Nvidia
-  - MicroStrategy
-  - CrowdStrike
-  - Coinbase
-  - CoreWeave
-  - Rocket Lab
-  - Robinhood
-  - Lumen
-  - Bitmine
-  - Fundstrat
-  - Ford
-  - NFL
-  - Lululemon
-  - AMD
-  - DoorDash
-  - Delta
-  - JD
-  - Big Bear AI
-  - Beyond Meat
-  - GameStop
-  - OpenAI
-  - Department of Energy
-  - Reuters
-  - Barclays
-  - UiPath
-  - Oracle
-  - Walmart
-  - Costco
-  - TSM
-  - Qualcomm
-  - ARM
-  - Interactive Brokers
-  - Goldman Sachs
-  - Bank of America
-  - Redcat
-products_models:
-  - TPU
-  - F-150
-  - FSD14
-  - AI 200
-  - AI 250
-  - Black Widow Drone
-media_books:
-  - Fox Business
-  - The New York Times
 status: evergreen
+summary: 本期市场分析深入探讨了推动标普500指数创下历史新高的多重利好因素。核心驱动力来自中美贸易谈判取得的积极进展，双方已就实质性框架达成共识，大幅缓解了市场对关税战的担忧。同时，宏观数据显示劳动力市场稳健，市场普遍预期美联储即将降息。在公司层面，Palantir
+  获得波兰国防部新协议，特斯拉评级获上调，高通发布重磅AI芯片挑战英伟达与AMD，共同点燃了市场的看涨情绪。
+tags:
+- earnings-season
+- geopolitical-impact
+- investment
+- market
+- us-china-relations
+title: 中美贸易协议现曙光，标普创历史新高：市场迎来全面上涨
 ---
+
 ### 生日感言：社群的力量与感恩之心
 
 大家早上好，欢迎回到新一期的《市场开盘》。今天是10月27日，星期一，我们正在直播。这是我正式满28岁后，第一次为大家带来《市场开盘》。今天就是过去364天里大家一直祝我生日快乐的日子，今天才是我的生日。

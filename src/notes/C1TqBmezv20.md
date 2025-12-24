@@ -1,41 +1,40 @@
 ---
-author: TED
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- TED
+- World Labs
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mona Lisa
+- James Bond novels
+people:
+- Christoph Lassner
+- Michelangelo
+- Ian Fleming
+- James Bond
+products_models:
+- GPT-3
+project:
+- ai-impact-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=C1TqBmezv20
 speaker: TED
-tags:
-  - content-3-0
-  - generative-ai
-  - interactive-storytelling
-  - media-evolution
-  - paradigm-shift
-title: 内容3.0：AI如何重塑互动叙事与媒体体验
-summary: 本文探讨了由AI驱动的“内容3.0”范式转变，它将彻底改变我们创作和消费媒体的方式。从传统的观看模式（内容1.0）到用户上传模式（内容2.0），AI生成内容（内容3.0）将实现创作者与观众的共同创作，并带来前所未有的互动体验，例如与电影角色对话、探索动态生成的世界，以及个性化的即时叙事。文章还分析了这种转变对媒体经济和未来技能需求的影响。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - ai-impact-analysis
-  - cultural-critique
-people:
-  - Christoph Lassner
-  - Michelangelo
-  - Ian Fleming
-  - James Bond
-companies_orgs:
-  - TED
-  - World Labs
-products_models:
-  - GPT-3
-media_books:
-  - Mona Lisa
-  - James Bond novels
 status: evergreen
+summary: 本文探讨了由AI驱动的“内容3.0”范式转变，它将彻底改变我们创作和消费媒体的方式。从传统的观看模式（内容1.0）到用户上传模式（内容2.0），AI生成内容（内容3.0）将实现创作者与观众的共同创作，并带来前所未有的互动体验，例如与电影角色对话、探索动态生成的世界，以及个性化的即时叙事。文章还分析了这种转变对媒体经济和未来技能需求的影响。
+tags:
+- content
+- history
+- media
+- shift
+title: 内容3.0：AI如何重塑互动叙事与媒体体验
 ---
+
 ### 开启内容3.0时代：AI驱动的互动体验
 
 一幅经过巧妙处理的《蒙娜丽莎》画像，月球表面的TEDAI，以及一个你正在探索的3D奇幻世界——它们有什么共同之处？

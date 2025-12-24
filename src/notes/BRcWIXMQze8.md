@@ -1,50 +1,50 @@
 ---
-author: Money & Macro
+area: market-analysis
+category: finance
+companies_orgs:
+- Money & Macro
+- Fairness Foundation
+- IMF
+- World Bank
+- Surfshark
 date: '2025-09-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Oliver Twist
+- Money in Macro Talks
+people:
+- Gary Stevenson
+- Gabriel Zucman
+- Angus Deaton
+- Daron Acemoglu
+- Charles Dickens
+products_models:
+- Gary's Economics
+- Desk Rates podcast
+- World Inequality Database
+- Surfshark VPN
+- Alternative ID
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=BRcWIXMQze8
 speaker: Money & Macro
-tags:
-  - inequality
-  - wealth-tax
-  - economic-policy
-  - data-skepticism
-  - housing-crisis
-title: 经济学家事实核查Gary's Economics：不平等理论与财富税的真相
-summary: 本文深入探讨了YouTube知名经济评论员Gary Stevenson关于不平等将导致英国陷入赤贫的论点，并由一位经济学家对其观点进行了数据和学术研究的核查。文章分析了Gary对数据真实性的质疑、不平等对经济影响的理论，以及他提出的财富税方案，揭示了其理论中的合理性与夸大之处，并探讨了财富税实施的挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Gary Stevenson
-  - Gabriel Zucman
-  - Angus Deaton
-  - Daron Acemoglu
-  - Charles Dickens
-companies_orgs:
-  - Money & Macro
-  - Fairness Foundation
-  - IMF
-  - World Bank
-  - Surfshark
-products_models:
-  - Gary's Economics
-  - Desk Rates podcast
-  - World Inequality Database
-  - Surfshark VPN
-  - Alternative ID
-media_books:
-  - Oliver Twist
-  - Money in Macro Talks
 status: evergreen
+summary: 本文深入探讨了YouTube知名经济评论员Gary Stevenson关于不平等将导致英国陷入赤贫的论点，并由一位经济学家对其观点进行了数据和学术研究的核查。文章分析了Gary对数据真实性的质疑、不平等对经济影响的理论，以及他提出的财富税方案，揭示了其理论中的合理性与夸大之处，并探讨了财富税实施的挑战。
+tags:
+- crisis
+- data
+- economic-policy
+- society
+- wealth
+title: 经济学家事实核查Gary's Economics：不平等理论与财富税的真相
 ---
+
 ### Gary Stevenson的不平等危机论
 
 YouTube新星**Gary Stevenson**（Gary's Economics频道主）最近因其“英国等国家的普通民众将陷入赤贫”的言论而引起轩然大波。

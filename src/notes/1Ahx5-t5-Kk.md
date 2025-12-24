@@ -1,88 +1,88 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- Royal Ontario Museum
+- Trillium
+- Social Equality and Inclusion Centre
+- Ontario Provincial Police
+- Toronto Star
+- Metrolinx
+- Landlord and Tenant Board
+- City of Toronto
+- New Democratic Party
+- Progressive Conservative Party
+- Build Ontario fund
+- Municipal Licensing and Standards
+- Judicial Committee of the Privy Council
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Abundance
+- Nerds on Politics YouTube video
+- TVO website
+people:
+- Steve Paikin
+- John Michael McGrath
+- Doug Ford
+- Peter Bethlenfalvy
+- Marit Styles
+- David Piccini
+- Sir William Howard Hearst
+- Sir James Pliny Whitney
+- William Grenville Davis
+- Kathleen Wynne
+- Steven Del Duca
+- Paul Calandra
+- Rob Flack
+- Steve Clark
+- Louis St. Laurent
+- John Diefenbaker
+- Bob Rae
+- Dalton McGuinty
+- Donald Trump
+- Olivia Chow
+- Gord Perks
+- Sebastian Dyer
+- Mike Harris
+- Ezra Klein
+- Derek Thompson
+- Justin Trudeau
+- Bill Morneau
+- Chrystia Freeland
+- Pierre Trudeau
+- John Turner
+- Oliver Mowat
+- Sir John A. Macdonald
+products_models:
+- GO Transit
+- Bill 33
+- Bill 60
+- Bill 27
+- Bill 46
+- Bill 68
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=1Ahx5-t5-Kk
 speaker: TVO Today
-tags:
-  - ontario-politics
-  - governance-issues
-  - housing-policy
-  - electoral-law
-  - parliamentary-rules
-title: 安大略省政要闻：技能基金丑闻、HST争议与立法博弈
-summary: 本期播客深入探讨了安大略省政坛的多个热点议题。反对党领袖因指控政府腐败而被逐出议会，起因是技能发展基金的拨款丑闻。省长道格·福特与财政部长彼得·贝思伦法尔维就首次购房者HST减免政策产生分歧，引发关于政治领导与财政部门间固有张力的讨论。此外，节目还分析了两项争议性法案（33号和60号）的立法进展，以及固定选举日期法案的废除。最后，探讨了多伦多街角商店附例如何反映城市治理的复杂性，并提出一项可负担住房基金的新设想。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - Steve Paikin
-  - John Michael McGrath
-  - Doug Ford
-  - Peter Bethlenfalvy
-  - Marit Styles
-  - David Piccini
-  - Sir William Howard Hearst
-  - Sir James Pliny Whitney
-  - William Grenville Davis
-  - Kathleen Wynne
-  - Steven Del Duca
-  - Paul Calandra
-  - Rob Flack
-  - Steve Clark
-  - Louis St. Laurent
-  - John Diefenbaker
-  - Bob Rae
-  - Dalton McGuinty
-  - Donald Trump
-  - Olivia Chow
-  - Gord Perks
-  - Sebastian Dyer
-  - Mike Harris
-  - Ezra Klein
-  - Derek Thompson
-  - Justin Trudeau
-  - Bill Morneau
-  - Chrystia Freeland
-  - Pierre Trudeau
-  - John Turner
-  - Oliver Mowat
-  - Sir John A. Macdonald
-companies_orgs:
-  - TVO Today
-  - Royal Ontario Museum
-  - Trillium
-  - Social Equality and Inclusion Centre
-  - Ontario Provincial Police
-  - Toronto Star
-  - Metrolinx
-  - Landlord and Tenant Board
-  - City of Toronto
-  - New Democratic Party
-  - Progressive Conservative Party
-  - Build Ontario fund
-  - Municipal Licensing and Standards
-  - Judicial Committee of the Privy Council
-products_models:
-  - GO Transit
-  - Bill 33
-  - Bill 60
-  - Bill 27
-  - Bill 46
-  - Bill 68
-media_books:
-  - Abundance
-  - Nerds on Politics YouTube video
-  - TVO website
 status: evergreen
+summary: 本期播客深入探讨了安大略省政坛的多个热点议题。反对党领袖因指控政府腐败而被逐出议会，起因是技能发展基金的拨款丑闻。省长道格·福特与财政部长彼得·贝思伦法尔维就首次购房者HST减免政策产生分歧，引发关于政治领导与财政部门间固有张力的讨论。此外，节目还分析了两项争议性法案（33号和60号）的立法进展，以及固定选举日期法案的废除。最后，探讨了多伦多街角商店附例如何反映城市治理的复杂性，并提出一项可负担住房基金的新设想。
+tags:
+- governance
+- housing-policy
+- law
+- ontario-politics
+- society
+title: 安大略省政要闻：技能基金丑闻、HST争议与立法博弈
 ---
+
 ### 欢迎与开场闲谈
 
 **Steve Paikin:** 欢迎大家收听**OnPy podcast**（On Politics podcast: 政治播客）。

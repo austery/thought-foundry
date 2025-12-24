@@ -1,31 +1,31 @@
 ---
-title: Peter Thiel与Gawker恩怨启示录：硅谷之王的十条生存法则
-summary: 本文总结了Peter Thiel与Gawker十年恩怨中的十条深刻生存法则，剖析了人性、权力、策略与复仇。从不低估冒犯代价到耐心布局，再到文化、战略、人性弱点及叙事权的运用，揭示了个人如何以强大意志力塑造世界。
 area: personal-growth
 category: culture
-project:
-- cultural-critique
-tags:
-- corporate-culture
-- gawker
-- revenge
-- strategy
-people:
-- peter-thiel
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-16'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- peter-thiel
+products_models: []
+project:
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=oXz0yLmjMcs
+speaker: 北美王路飞
 status: evergreen
+summary: 本文总结了Peter Thiel与Gawker十年恩怨中的十条深刻生存法则，剖析了人性、权力、策略与复仇。从不低估冒犯代价到耐心布局，再到文化、战略、人性弱点及叙事权的运用，揭示了个人如何以强大意志力塑造世界。
+tags:
+- corporate-culture
+- strategy
+- technology
+title: Peter Thiel与Gawker恩怨启示录：硅谷之王的十条生存法则
+companies:
+- gawker
 ---
+
 ### 引言：一场无声的十年战争
 
 Peter Thiel与Gawker传媒的系列事件已告一段落，但其中蕴含的深刻教训值得反复研读。这不仅仅是一个关于复仇的故事，更像是一部现代版的《君主论》与《孙子兵法》的实战演练。它淋漓尽致地剖析了人性、权力、策略与复仇等深层次议题，展现了真实人物如何将看似不可能的事情变为可能，又如何在胜利的顶峰被自己释放的力量所反噬。阅读此书，如同见证一位顶级战略家导演了一场长达十年的无声战争。从这场旷日持久的冲突中，可以提炼出十条深刻且实用的经验。

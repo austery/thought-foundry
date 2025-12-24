@@ -1,41 +1,41 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- Intel
+- AMD
+- TSMC
+- ServiceNow
+- Snowflake
 date: '2025-03-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Joe Biden
+products_models:
+- S&P 500
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=lAT8hx3BUtw
 speaker: Shanghao Jin
-tags:
-  - us-market-outlook
-  - macroeconomic-risks
-  - tariff-impact
-  - fiscal-expansion
-  - market-positioning
-title: 2025年3月市场展望：美股头寸、宏观风险与政策影响深度分析
-summary: 本文深入分析了2025年3月美股市场的头寸分布、宏观经济展望及潜在风险。作者指出，市场已触及阶段性底部，但4月份需警惕经济数据和关税政策带来的不确定性。尽管存在尾部风险，美国经济短期内预计不会衰退。文章还探讨了美联储的政策困境以及中欧财政扩张对全球市场的影响，强调长期配置需谨慎，并分析了S&P 500盈利增长的驱动因素。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Joe Biden
-companies_orgs:
-  - Intel
-  - AMD
-  - TSMC
-  - ServiceNow
-  - Snowflake
-products_models:
-  - S&P 500
-media_books: []
 status: evergreen
+summary: 本文深入分析了2025年3月美股市场的头寸分布、宏观经济展望及潜在风险。作者指出，市场已触及阶段性底部，但4月份需警惕经济数据和关税政策带来的不确定性。尽管存在尾部风险，美国经济短期内预计不会衰退。文章还探讨了美联储的政策困境以及中欧财政扩张对全球市场的影响，强调长期配置需谨慎，并分析了S&P
+  500盈利增长的驱动因素。
+tags:
+- financial
+- market
+- risk
+- tariff-impact
+- us-market-outlook
+title: 2025年3月市场展望：美股头寸、宏观风险与政策影响深度分析
 ---
+
 ### 市场概览与宏观判断
 
 本周将直接开始对市场的分析。上周主要讨论了美股市场的**头寸**（Position: 市场参与者持有某种资产或证券的数量）分布。本轮下跌已持续近20天，从上个月开始。上周的基本判断是美股已达到一个阶段性的底部。至于此后是反弹后继续下跌，还是回到原有位置，则需根据宏观基本面来判断。

@@ -1,50 +1,50 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Pimco
+- Bloomberg Podcasts
+- Federal Reserve
+- Capital Group
+- JPMorgan Chase
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+people:
+- Dan Ivascyn
+- Joe Weisenthal
+- Tracy Alloway
+- Michael Milken
+- Jamie Dimon
+- Bill Gross
+- Kevin Hassett
+products_models:
+- S&P 500
+- Bloomberg Aggregate Index
+- Taylor Rule
+- Shiller P/E
+- Credit Default Swaps
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=lWhXCD_JWy4
 speaker: Bloomberg Podcasts
-tags:
-  - fixed-income
-  - private-credit
-  - interest-rates
-  - inflation-expectations
-  - global-diversification
-title: Pimco CIO Dan Ivascyn：固定收益新时代，利率、私募信贷与住房市场展望
-summary: Pimco首席投资官Dan Ivascyn在Odd Lots播客十周年之际，深入探讨了当前固定收益市场的变革。他指出，自2015年以来，利率环境发生了巨大变化，私募信贷市场规模已能与公共信贷市场匹敌。Ivascyn分析了美联储的降息前景、通胀预期、债券在多元化投资组合中的作用，以及全球地缘政治对经济的影响。他强调了在全球范围内寻找高价值、低相关性资产的重要性，并对住房市场持乐观态度，同时警示了私募信贷领域潜在的过度承销风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Dan Ivascyn
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Michael Milken
-  - Jamie Dimon
-  - Bill Gross
-  - Kevin Hassett
-companies_orgs:
-  - Pimco
-  - Bloomberg Podcasts
-  - Federal Reserve
-  - Capital Group
-  - JPMorgan Chase
-products_models:
-  - S&P 500
-  - Bloomberg Aggregate Index
-  - Taylor Rule
-  - Shiller P/E
-  - Credit Default Swaps
-media_books:
-  - Odd Lots podcast
 status: evergreen
+summary: Pimco首席投资官Dan Ivascyn在Odd Lots播客十周年之际，深入探讨了当前固定收益市场的变革。他指出，自2015年以来，利率环境发生了巨大变化，私募信贷市场规模已能与公共信贷市场匹敌。Ivascyn分析了美联储的降息前景、通胀预期、债券在多元化投资组合中的作用，以及全球地缘政治对经济的影响。他强调了在全球范围内寻找高价值、低相关性资产的重要性，并对住房市场持乐观态度，同时警示了私募信贷领域潜在的过度承销风险。
+tags:
+- global
+- income
+- inflation-expectation
+- interest-rate
+- private-credit
+title: Pimco CIO Dan Ivascyn：固定收益新时代，利率、私募信贷与住房市场展望
 ---
+
 ### 历史信贷表现与私募信贷的崛起
 
 如果你回顾20世纪80年代初直到**全球金融危机**（Global Financial Crisis, GFC: 2008年爆发的全球性金融危机），如果你只是盲目地购买市场上最低质量的信贷，以**高收益优先担保贷款**（High Yield Senior Secured Loans: 信用评级较低但有资产抵押的贷款）、**直接贷款**（Direct Lending: 银行或非银行机构直接向企业提供贷款，而非通过公开市场发行债券）为代表，那么在整个时期，你的增量表现相比高质量债券仅高出约0.5个百分点。

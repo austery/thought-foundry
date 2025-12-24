@@ -1,44 +1,43 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Hudson's Bay Company
+- North West Company
+- Canadian Pacific Railway
 date: '2023-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Anthony Henday
+- John Peter Pruden
+- James Winterlake
+- George III
+- Frederick Haultain
+- Wilfrid Laurier
+- John A. Macdonald
+- Justin Trudeau
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=7Q_owcCiRJE
 speaker: 莊也雜談
-tags:
-  - canadian-cities
-  - urban-development
-  - political-rivalry
-  - historical-settlement
-  - demographic-shifts
-title: 埃德蒙顿：北美最北都市的魅力与挑战——深度解析其历史、气候、人口与文化竞争
-summary: 埃德蒙顿作为北美洲纬度最高的百万人口大都市，其漫长冬季常被误解为加拿大最冷。本文深入探讨了埃德蒙顿的独特气候、人口构成（包括华人社区的现状），并追溯其从皮毛贸易站到省会城市的历史演变。文章还详细剖析了埃德蒙顿与卡尔加里之间，因文化根基和政治倾向差异而形成的长期竞争关系，揭示了加拿大西部城市发展背后的复杂历史与社会因素。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Anthony Henday
-  - John Peter Pruden
-  - James Winterlake
-  - George III
-  - Frederick Haultain
-  - Wilfrid Laurier
-  - John A. Macdonald
-  - Justin Trudeau
-companies_orgs:
-  - Hudson's Bay Company
-  - North West Company
-  - Canadian Pacific Railway
-products_models: []
-media_books: []
 status: evergreen
+summary: 埃德蒙顿作为北美洲纬度最高的百万人口大都市，其漫长冬季常被误解为加拿大最冷。本文深入探讨了埃德蒙顿的独特气候、人口构成（包括华人社区的现状），并追溯其从皮毛贸易站到省会城市的历史演变。文章还详细剖析了埃德蒙顿与卡尔加里之间，因文化根基和政治倾向差异而形成的长期竞争关系，揭示了加拿大西部城市发展背后的复杂历史与社会因素。
+tags:
+- canadian
+- demographic-shift
+- historical
+- political
+- urban-development
+title: 埃德蒙顿：北美最北都市的魅力与挑战——深度解析其历史、气候、人口与文化竞争
 ---
+
 ### 埃德蒙顿：北美最北都市的独特魅力
 
 大家好，我是庄也，欢迎收看《庄也杂谈加拿大》系列节目。今天我们继续城市系列，来聊聊**埃德蒙顿**（Edmonton: 加拿大阿尔伯塔省省会，北美洲纬度最高的百万人口大都市）。埃德蒙顿是一个非常有意思的城市，咱们华人给它起了多样的外号，比如爱民屯、爱屯，以及“挨得猛冻”，这都暗示了这座城市漫长的冬季。冬季漫长很正常，因为埃德蒙顿是加拿大乃至整个北美地区，人口超过百万的大都市中纬度最靠北的城市。

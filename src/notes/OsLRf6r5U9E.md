@@ -1,47 +1,45 @@
 ---
-author: a16z
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Google
+- Cisco
+- a16z
+- Nvidia
+- Broadcom
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Bigtable
+- Spanner
+- TensorFlow
+- JAX
+- CodeX
+- Cursor
+- ChatGPT
+- TPUs
+- GPUs
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=OsLRf6r5U9E
 speaker: a16z
-tags:
-  - ai-infrastructure
-  - specialized-hardware
-  - networking-architecture
-  - geopolitical-competition
-  - ai-productivity
-title: AI基础设施的未来：谷歌、思科与a16z的深度对话
-summary: 本次讨论深入探讨了AI时代所需的基础设施建设，将其与互联网、太空竞赛和曼哈顿计划相提并论，强调其地缘政治、经济和国家安全影响。与会者指出，当前AI基础设施的扩张速度是互联网时代的百倍，且需求被严重低估。讨论涵盖了电力、计算和网络作为核心限制因素，以及专用处理器（如TPU）和新型网络架构的重要性。此外，还分享了AI在谷歌和思科内部的应用案例，并为初创企业提供了关于模型与产品紧密结合的建议，展望了多模态AI的未来变革。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - systems-thinking
-people: []
-companies_orgs:
-  - Google
-  - Cisco
-  - a16z
-  - Nvidia
-  - Broadcom
-products_models:
-  - Bigtable
-  - Spanner
-  - TensorFlow
-  - JAX
-  - CodeX
-  - Cursor
-  - ChatGPT
-  - TPUs
-  - GPUs
-media_books: []
 status: evergreen
+summary: 本次讨论深入探讨了AI时代所需的基础设施建设，将其与互联网、太空竞赛和曼哈顿计划相提并论，强调其地缘政治、经济和国家安全影响。与会者指出，当前AI基础设施的扩张速度是互联网时代的百倍，且需求被严重低估。讨论涵盖了电力、计算和网络作为核心限制因素，以及专用处理器（如TPU）和新型网络架构的重要性。此外，还分享了AI在谷歌和思科内部的应用案例，并为初创企业提供了关于模型与产品紧密结合的建议，展望了多模态AI的未来变革。
+tags:
+- ai-infrastructure
+- ai-productivity
+- architecture
+- geopolitical-competition
+- technology
+title: AI基础设施的未来：谷歌、思科与a16z的深度对话
 ---
+
 ### AI基础设施：新时代的“性感”投资
 
 好消息是，基础设施再次变得“性感”起来。这很酷，因为它结合了互联网的建设、太空竞赛和曼哈顿计划的特点，并融入了地缘政治、经济、国家安全以及速度的深刻影响。

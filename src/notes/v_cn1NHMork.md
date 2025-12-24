@@ -1,38 +1,38 @@
 ---
-author: 王红雨
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-09-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《一生之敌》
+- 《圣经》
+people:
+- Steven Pressfield
+- Carl Jung
+- Jesus
+- Hegel
+products_models: []
+project:
+- personal-growth-lab
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=v_cn1NHMork
 speaker: 王红雨
-tags:
-  - internal-resistance
-  - self-discovery
-  - professional-mindset
-  - innate-potential
-  - ai-era-challenges
-title: 战胜内阻力，活出天我：AI时代的个人成长与专业精神
-summary: 本文探讨了如何战胜阻碍我们实现理想自我的“内阻力”，并发现每个人内心深处的“地下河流”。通过区分小我与大我，识别内阻力的表现形式和特点，并学习成为一个专业级选手，我们能够克服恐惧，拥抱挑战。文章结合《一生之敌》一书的理念，强调在AI时代，个人应将自己视为一家公司，以专业精神不断成长，活出天命，即使起步较晚也为时不晚。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - ai-impact-analysis
-people:
-  - Steven Pressfield
-  - Carl Jung
-  - Jesus
-  - Hegel
-companies_orgs: []
-products_models: []
-media_books:
-  - 《一生之敌》
-  - 《圣经》
 status: evergreen
+summary: 本文探讨了如何战胜阻碍我们实现理想自我的“内阻力”，并发现每个人内心深处的“地下河流”。通过区分小我与大我，识别内阻力的表现形式和特点，并学习成为一个专业级选手，我们能够克服恐惧，拥抱挑战。文章结合《一生之敌》一书的理念，强调在AI时代，个人应将自己视为一家公司，以专业精神不断成长，活出天命，即使起步较晚也为时不晚。
+tags:
+- challenge
+- innate-potential
+- mindset
+- science
+- self-discovery
+title: 战胜内阻力，活出天我：AI时代的个人成长与专业精神
 ---
+
 ### 理想与现实的差距：我们生命中的“敌人”
 
 大家好，欢迎回到我的频道。今天是2025年9月26号。今天我想跟大家聊一个我自己非常感兴趣的话题，就是如何战胜我们生命中最重要的敌人。我们常常会发现，现实中的我与想象中的我经常是不一样的。我们无数次憧憬自己成为某种人，但在现实中又回到了原来的自我。到底是什么阻止了我们成为我们想成为的样子呢？

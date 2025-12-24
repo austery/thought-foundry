@@ -1,55 +1,55 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Conservative Party
+- Canadian Alliance
+- Progressive Conservative Party
+- Liberal Party
+- Bloc Québécois
+- New Democratic Party
+- 加拿大参议院
+- 加拿大众议院
 date: '2025-01-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- Jordan Peterson的专访
+people:
+- Pierre Poilievre
+- Justin Trudeau
+- Stockwell Day
+- Stephen Harper
+- Jacqueline Farrell
+- Patrick Farrell
+- Marlene Poilievre
+- Donald Poilievre
+- Anaida Galindo
+- Jordan Peterson
+- Greg Fergus
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=i62HR-5F6hU
 speaker: 莊也雜談
-tags:
-  - canadian-politics
-  - conservative-party-platform
-  - pierre-poilievre-vision
-  - economic-policy-canada
-  - immigration-reform
-title: 加拿大保守党党魁博勵治的逆袭之路与执政理念：经济、移民与社会政策全解析
-summary: 本期节目深入探讨加拿大保守党党魁博勵治的个人背景、政治生涯及其未来执政理念。从其独特的成长经历到在议会中的犀利风格，节目分析了博勵治如何成为加拿大下任总理的热门人选。重点解析了保守党在经济、移民、社会福利和教育等方面的政策主张，并对其“回归常识”的执政理念进行了深度解读与展望，同时探讨了其政策可能面临的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Pierre Poilievre
-  - Justin Trudeau
-  - Stockwell Day
-  - Stephen Harper
-  - Jacqueline Farrell
-  - Patrick Farrell
-  - Marlene Poilievre
-  - Donald Poilievre
-  - Anaida Galindo
-  - Jordan Peterson
-  - Greg Fergus
-  - Donald Trump
-companies_orgs:
-  - Conservative Party
-  - Canadian Alliance
-  - Progressive Conservative Party
-  - Liberal Party
-  - Bloc Québécois
-  - New Democratic Party
-  - 加拿大参议院
-  - 加拿大众议院
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - Jordan Peterson的专访
 status: evergreen
+summary: 本期节目深入探讨加拿大保守党党魁博勵治的个人背景、政治生涯及其未来执政理念。从其独特的成长经历到在议会中的犀利风格，节目分析了博勵治如何成为加拿大下任总理的热门人选。重点解析了保守党在经济、移民、社会福利和教育等方面的政策主张，并对其“回归常识”的执政理念进行了深度解读与展望，同时探讨了其政策可能面临的挑战。
+tags:
+- canadian-politics
+- economic-policy-canada
+- platform
+- reform
+- technology
+title: 加拿大保守党党魁博勵治的逆袭之路与执政理念：经济、移民与社会政策全解析
 ---
+
 ### 引言：博勵治与加拿大政治前景
 
 今天，我们将深入探讨观众们高度关注的加拿大保守党党魁**博勵治**（Pierre Poilievre: 加拿大保守党党魁，加拿大下任总理热门人选），以及在他领导下的保守党所秉持的执政理念。选择这个话题，不仅因为观众点播众多，还因为上期节目中关于加拿大加入美国的话题引发了意外反响。许多观众对加拿大加入美国表现出浓厚兴趣，并对节目中似乎不支持美加合并的立场感到不满。

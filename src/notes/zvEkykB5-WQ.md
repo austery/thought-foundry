@@ -1,62 +1,62 @@
 ---
-author: LT視界
+area: market-analysis
+category: finance
+companies_orgs:
+- 路透社
+- 软银
+- OpenAI
+- 华尔街日报
+- 花旗集团
+- 纳斯达克
+- 标普500
+- 英国卫报
+- 彭博社
+- 深圳地铁集团有限公司
+- 碧桂园
+- 万科
+- 中国海关总署
+- CHS
+- 贝莱德
+- 人民网
+- 药巢文化传播有限公司
+- 欧洲议会
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- BBC
+- 《经济学人》
+people:
+- Donald Trump
+- Viktor Orbán
+- Narendra Modi
+- Xi Jinping
+- Vladimir Putin
+- Hsiao Bi-khim
+- Dirk Willer
+products_models:
+- Bitcoin
+project:
+- china-analysis
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=zvEkykB5-WQ
 speaker: LT視界
-tags:
-  - ai-bubble
-  - market-liquidity
-  - china-financial-system
-  - geopolitical-economy
-  - us-china-relations
-title: 全球市场动荡、美中博弈与中国经济深层挑战
-summary: 本期节目深入探讨了全球经济面临的多重挑战，包括人工智能泡沫担忧引发的市场回调、美国政府停摆对航空业的影响。同时，分析了特朗普的最新外交立场、台湾在欧洲的国际空间拓展，以及中美贸易关系中的稀土与大豆议题。节目还关注了中国社会对“人民咖啡馆”的讨论，并对中国房地产、地方债及金融体系的深层问题进行了剖析，质疑中共能否真正化解这些危机。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Viktor Orbán
-  - Narendra Modi
-  - Xi Jinping
-  - Vladimir Putin
-  - Hsiao Bi-khim
-  - Dirk Willer
-companies_orgs:
-  - 路透社
-  - 软银
-  - OpenAI
-  - 华尔街日报
-  - 花旗集团
-  - 纳斯达克
-  - 标普500
-  - 英国卫报
-  - 彭博社
-  - 深圳地铁集团有限公司
-  - 碧桂园
-  - 万科
-  - 中国海关总署
-  - CHS
-  - 贝莱德
-  - 人民网
-  - 药巢文化传播有限公司
-  - 欧洲议会
-products_models:
-  - Bitcoin
-media_books:
-  - BBC
-  - 《经济学人》
 status: evergreen
+summary: 本期节目深入探讨了全球经济面临的多重挑战，包括人工智能泡沫担忧引发的市场回调、美国政府停摆对航空业的影响。同时，分析了特朗普的最新外交立场、台湾在欧洲的国际空间拓展，以及中美贸易关系中的稀土与大豆议题。节目还关注了中国社会对“人民咖啡馆”的讨论，并对中国房地产、地方债及金融体系的深层问题进行了剖析，质疑中共能否真正化解这些危机。
+tags:
+- ai-bubble
+- geopolitical-economy
+- market-liquidity
+- system
+- us-china-relations
+title: 全球市场动荡、美中博弈与中国经济深层挑战
 ---
+
 ### 全球市场动荡：人工智能泡沫与流动性担忧
 
 今天，我们首先关注财经头条。路透社报道指出，“人工智能泡沫的担忧席卷全球”，导致“软银市值单周蒸发500亿美元”，科技股集体降温。过去一周，全球市场在没有激烈地缘政治冲突、贸易战激化迹象或糟糕宏观数据的情况下，仅仅因为对人工智能泡沫的担忧，就引发了股市的莫名大跌。这种悲观情绪迅速从美国市场蔓延至欧洲和亚洲。华尔街认为，这是自四月份以来最糟糕的一周。

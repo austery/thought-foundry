@@ -1,30 +1,26 @@
 ---
-title: 2022年投资心路：构建与生活方式匹配的长期投资系统
-summary: 作者回顾2022上半年投资，分享对美联储加息、通胀与经济衰退的看法。强调个人投资者应构建与生活方式匹配的长期投资系统，而非短期对冲或预测市场。倡导在熊市中学习，摒弃消费主义，追求低成本幸福。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - bear-market-learning
-  - economic-outlook
-  - investment-strategy
-  - personal-finance
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-06-04'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=1a92IBrcgjI
+speaker: 一口新飯
 status: evergreen
+summary: 作者回顾2022上半年投资，分享对美联储加息、通胀与经济衰退的看法。强调个人投资者应构建与生活方式匹配的长期投资系统，而非短期对冲或预测市场。倡导在熊市中学习，摒弃消费主义，追求低成本幸福。
+tags:
+- economic-outlook
+- market
+- personal-finance
+title: 2022年投资心路：构建与生活方式匹配的长期投资系统
 ---
 
 ### 2022年投资心路与非正式分享

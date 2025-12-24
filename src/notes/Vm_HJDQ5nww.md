@@ -1,45 +1,42 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Alibaba
+- Tencent
+- Meta
+- Google
+- Apple
+- Berkshire Hathaway
 date: '2025-04-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伯克希尔股东信》
+- CNBC
+- Bloomberg
+- Seeking Alpha
+people:
+- Warren Buffett
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Vm_HJDQ5nww
 speaker: Shijun Tang
-tags:
-  - stock-market-crash
-  - investment-strategy
-  - market-psychology
-  - long-term-investing
-  - value-investing
-title: 美股暴跌下的投资心路：如何在恐慌中保持理智与把握机遇
-summary: 本视频深入探讨了近期美股连续暴跌的现象，并结合主持人唐石峻在2020年和2022年市场恐慌时期的亲身投资经历，分享了应对策略。内容强调在市场剧烈波动时，投资者应保持理性，避免预测市场走势，转而关注对人类未来和具备强大“护城河”的优质公司进行长期投资。视频还提供了在市场打折时加仓的实战建议，旨在帮助观众在危机中找到心理慰藉并把握投资机会。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Shijun Tang
-  - Warren Buffett
-companies_orgs:
-  - Alibaba
-  - Tencent
-  - Meta
-  - Google
-  - Apple
-  - Berkshire Hathaway
-products_models: []
-media_books:
-  - 《伯克希尔股东信》
-  - CNBC
-  - Bloomberg
-  - Seeking Alpha
 status: evergreen
+summary: 本视频深入探讨了近期美股连续暴跌的现象，并结合主持人唐石峻在2020年和2022年市场恐慌时期的亲身投资经历，分享了应对策略。内容强调在市场剧烈波动时，投资者应保持理性，避免预测市场走势，转而关注对人类未来和具备强大“护城河”的优质公司进行长期投资。视频还提供了在市场打折时加仓的实战建议，旨在帮助观众在危机中找到心理慰藉并把握投资机会。
+tags:
+- long-term-investing
+- market-psychology
+- stock-market-crash
+title: 美股暴跌下的投资心路：如何在恐慌中保持理智与把握机遇
 ---
+
 ### 市场恐慌与个人投资背景
 
 美股已经连续暴跌第三周了，这一次美股似乎是真的崩了，屏幕前的你还好吗？这周五毫无疑问将会是载入史册的一天。市场中所有的股票都惨遭无差别疯狂抛售，目前的市场也陷入了极度的恐慌之中。这个时候，我们作为投资人究竟应该如何应对呢？欢迎观看这些常识性财富。如果这是你第一次观看我的视频，我的名字叫唐。我曾在阿里的生态系统中做过10年的电商，目前我是澳洲一家会计事务所的会计。我2015年进入金融市场，期间我把握住了很多机遇，比如2015年的时候我曾经投资过A股市场中的Atom。2022年底的时候我重仓投资了Meta，以及近几年在市场完全不看好**中概股**（Chinese Concept Stocks: 在海外上市的中国公司股票）的前提下，我重仓投资了阿里和腾讯。当然了，期间我也总结了很多教训，这些经历毫无疑问让我获得了很多启发。我创作的视频只有一个目的：通过分享我的投资笔记，帮助屏幕前的你通过投资实现自由和快乐。

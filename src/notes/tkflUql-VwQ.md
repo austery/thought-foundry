@@ -1,77 +1,77 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- GOP (Republican Party)
+- Democratic Party
+- NFL (National Football League)
+- Pittsburgh Steelers
+- Fox News
+- ICE (Immigration and Customs Enforcement)
 date: '2025-09-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- PBD Podcast
+- Joe Rogan Show
+- Julie B and Flag (podcast)
+- Professor RJ Placone's YouTube channel
+- Netflix documentary (about AOC)
+people:
+- Professor Ron Pun (RJ Placone)
+- Yilamin (Yellan Bean)
+- Bruce (Host)
+- Gavin Newsom
+- Alexandria Ocasio-Cortez (AOC)
+- Pete Buttigieg (Mayor Pete)
+- Kamala Harris
+- Josh Shapiro
+- Donald Trump
+- Bernie Sanders
+- Elon Musk
+- Roger Goodell
+- Richard Nixon
+- Jimmy Carter
+- Barack Obama
+- Wes Moore
+- Gretchen Whitmer
+- John Stewart
+- David A. Smith
+- Dwayne 'The Rock' Johnson
+- Ronald Reagan
+- JD Vance
+- Tucker Carlson
+- Ronda Sanders
+- Steven Bannon
+- Donald Trump Jr.
+- George W. Bush
+- Hillary Clinton
+- Liz Cheney
+- Adlai Stevenson
+- Zohran Mamdani
+- Sydney Sweeney
+products_models:
+- Trump 2028 (merchandise)
+- 8-dimension test (political compass)
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=tkflUql-VwQ
 speaker: 北美王路飞
-tags:
-  - us-election-2028
-  - democratic-candidates
-  - presidential-electability
-  - campaign-strategy
-  - political-analysis
-title: 2028年民主党总统候选人评分：谁能脱颖而出？
-summary: 本期播客深入探讨了2028年美国民主党总统候选人的前景，包括加文·纽森、亚历山大·奥卡西奥-科尔特斯、皮特·布蒂吉格、卡玛拉·哈里斯和乔什·夏皮罗。嘉宾们从可选举性、信息清晰度、联盟增长、资金与组织能力以及辩论技巧等多个维度对这些潜在候选人进行了评分和分析，并讨论了他们的优势、劣势及面临的挑战，并对最终的候选人组合进行了展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Professor Ron Pun (RJ Placone)
-  - Yilamin (Yellan Bean)
-  - Bruce (Host)
-  - Gavin Newsom
-  - Alexandria Ocasio-Cortez (AOC)
-  - Pete Buttigieg (Mayor Pete)
-  - Kamala Harris
-  - Josh Shapiro
-  - Donald Trump
-  - Bernie Sanders
-  - Elon Musk
-  - Roger Goodell
-  - Richard Nixon
-  - Jimmy Carter
-  - Barack Obama
-  - Wes Moore
-  - Gretchen Whitmer
-  - John Stewart
-  - David A. Smith
-  - Dwayne 'The Rock' Johnson
-  - Ronald Reagan
-  - JD Vance
-  - Tucker Carlson
-  - Ronda Sanders
-  - Steven Bannon
-  - Donald Trump Jr.
-  - George W. Bush
-  - Hillary Clinton
-  - Liz Cheney
-  - Adlai Stevenson
-  - Zohran Mamdani
-  - Sydney Sweeney
-companies_orgs:
-  - GOP (Republican Party)
-  - Democratic Party
-  - NFL (National Football League)
-  - Pittsburgh Steelers
-  - Fox News
-  - ICE (Immigration and Customs Enforcement)
-products_models:
-  - Trump 2028 (merchandise)
-  - 8-dimension test (political compass)
-media_books:
-  - PBD Podcast
-  - Joe Rogan Show
-  - Julie B and Flag (podcast)
-  - Professor RJ Placone's YouTube channel
-  - Netflix documentary (about AOC)
 status: evergreen
+summary: 本期播客深入探讨了2028年美国民主党总统候选人的前景，包括加文·纽森、亚历山大·奥卡西奥-科尔特斯、皮特·布蒂吉格、卡玛拉·哈里斯和乔什·夏皮罗。嘉宾们从可选举性、信息清晰度、联盟增长、资金与组织能力以及辩论技巧等多个维度对这些潜在候选人进行了评分和分析，并讨论了他们的优势、劣势及面临的挑战，并对最终的候选人组合进行了展望。
+tags:
+- campaign-strategy
+- canada
+- democratic
+- political
+- us-election-2028
+title: 2028年民主党总统候选人评分：谁能脱颖而出？
 ---
+
 ### 2028年民主党总统候选人展望
 
 大家好，欢迎收听今天的播客。我很荣幸邀请到罗恩·普恩教授和叶拉明参加本次脱口秀。我们将讨论2028年民主党总统大选的候选人。叶拉明，不知道你有没有看过我们上次共和党（**GOP**：Grand Old Party，美国共和党的别称）候选人评分的那一集。我们实际上给共和党阵营中我们认为排名前五的候选人都打了分。所以今天我们也要对民主党做同样的事情。我让叶拉明做了一些研究，结果让我非常震惊。叶拉明，你竟然是局外左派。

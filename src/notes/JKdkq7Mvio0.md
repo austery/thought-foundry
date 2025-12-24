@@ -1,64 +1,62 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg
+- Nomura
+- Citi
+- 人民日报
+- Federal Reserve
+- Bank of Japan
+- OpenAI
+- Oracle
+- Broadcom
+- Meta
+- Google
+- MediaTek
+- TSMC
+- NVIDIA
+- AMD
+- SpaceX
+- Saudi Aramco
+- Morgan Stanley
+- Tesla
+- Xiaomi
+- Costco
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+people:
+- Xi Jinping
+- Donald Trump
+- Kevin Warsh
+- Kevin Hassett
+- Jerome Powell
+- Elon Musk
+products_models:
+- Gemini
+- TPU V71
+- TPU V81
+- H200
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=JKdkq7Mvio0
 speaker: 小翠時政財經
-tags:
-  - stock-market
-  - monetary-policy
-  - ai-development
-  - geopolitics
-  - economic-policy
-title: 港股结构性风险、中美AI竞赛与全球经济展望
-summary: 本期节目深入分析了当前全球经济热点。港股面临“股票结构性产品”带来的巨大风险，可能导致泡沫无法正常出清。中国在AI竞赛中因政府资金的短视和企业急于上市而落后美国，决策层对经济的过度自信和政策工具的耗尽也阻碍了内需发展。同时，节目探讨了日本央行货币政策转向对日元的影响、黄金的长期看涨逻辑，以及美股科技股（特别是英伟达）的短期波动与长期潜力。最后，分析了美联储主席人选的不确定性及其对货币政策的影响。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - 习近平
-  - Donald Trump
-  - Kevin Warsh
-  - Kevin Hassett
-  - Jerome Powell
-  - Elon Musk
-companies_orgs:
-  - Bloomberg
-  - Nomura
-  - Citi
-  - 人民日报
-  - Federal Reserve
-  - Bank of Japan
-  - OpenAI
-  - Oracle
-  - Broadcom
-  - Meta
-  - Google
-  - MediaTek
-  - TSMC
-  - NVIDIA
-  - AMD
-  - SpaceX
-  - Saudi Aramco
-  - Morgan Stanley
-  - Tesla
-  - Xiaomi
-  - Costco
-products_models:
-  - Gemini
-  - TPU V71
-  - TPU V81
-  - H200
-media_books:
-  - 《华尔街日报》
 status: evergreen
+summary: 本期节目深入分析了当前全球经济热点。港股面临“股票结构性产品”带来的巨大风险，可能导致泡沫无法正常出清。中国在AI竞赛中因政府资金的短视和企业急于上市而落后美国，决策层对经济的过度自信和政策工具的耗尽也阻碍了内需发展。同时，节目探讨了日本央行货币政策转向对日元的影响、黄金的长期看涨逻辑，以及美股科技股（特别是英伟达）的短期波动与长期潜力。最后，分析了美联储主席人选的不确定性及其对货币政策的影响。
+tags:
+- ai-development
+- economic-policy
+- stock-market
+title: 港股结构性风险、中美AI竞赛与全球经济展望
 ---
+
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月15日，欢迎收看我们今天的每日要闻节目。最近这个周末不太太平，临近圣诞，全球各地恐怖袭击频发，像**美国**、**澳洲**、**荷兰**都出现了不太好的事。在这个乱世之下，希望大家能够平安。
 
 ### 亚太股市与港股异象

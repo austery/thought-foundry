@@ -1,116 +1,118 @@
 ---
-author: The Diary Of A CEO
+area: society-systems
+category: general
+companies_orgs:
+- Center for Humane Technology
+- Stanford University
+- Instagram
+- Google
+- Apple
+- Netflix
+- TikTok
+- Twitter
+- OpenAI
+- DeepMind
+- DeepSeek
+- xAI
+- Anthropic
+- Tesla
+- Walmart
+- Microsoft
+- Bedrock
+- Caltech
+- MIT
+- The Atlantic
+- Intuit QuickBooks
+- Bond Charge
+- ExpressVPN
+- NAFTA
+- Chinese Communist Party
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Social Dilemma
+- Lord of the Rings
+- The New York Times
+- Sapiens
+- An Inconvenient Truth
+- The Anxious Generation
+- The Humane Interface
+- When Prophecies Fail
+people:
+- Tristan Harris
+- Steven Bartlett
+- Kevin Systrom
+- Demis Hassabis
+- Gary Kasparov
+- Jeff Hinton
+- Roman Yampolskiy
+- Mo Gawdat
+- Sam Altman
+- Elon Musk
+- Joe Rogan
+- Barack Obama
+- Eric Schmidt
+- Selena Shu
+- Doug McMillan
+- Leon Festinger
+- Gary Marcus
+- Helen Toner
+- Dario Amadei
+- Larry Page
+- Neil Postman
+- Marshall McLuhan
+- Jef Raskin
+- Adam Rain
+- Jeff Lewis
+- Karen How
+- Charlie Munger
+- Warren Buffett
+- Yuval Noah Harari
+- Donald Trump
+- Kamala Harris
+- Jordan Peterson
+- Gavin Newsom
+- Franklin D. Roosevelt
+- E.O. Wilson
+- Jaron Lanier
+- Richard Sutton
+products_models:
+- Apture
+- Gmail
+- Google Slides
+- ChatGPT
+- Gemini
+- Claude
+- GPT-4
+- GPT-5
+- Claude 4.5
+- Optimus Prime Robot
+- AGI
+- character.ai
+- Macintosh
+project:
+- ai-impact-analysis
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=BFU1OCkhBwo
 speaker: The Diary Of A CEO
-tags:
-  - existential-risk
-  - ai-safety
-  - job-displacement
-  - technological-determinism
-  - attention-economy
-title: 技术伦理学家 Tristan Harris：我们必须在为时已晚前，认清 AGI 竞赛的真正风险
-summary: 技术伦理学家、人道技术中心联合创始人 Tristan Harris 发出严厉警告：全球科技巨头正进行一场危险的竞赛，旨在打造通用人工智能（AGI），而这场竞赛正将人类社会推向一个无人期望的未来。Harris 揭示了科技公司 CEO 们公开承诺与私下恐惧之间的巨大鸿沟，并深入探讨了 AI 带来的系统性风险，包括大规模失业、心理操控、社会结构瓦解以及最终失控的风险。他认为，当前的发展路径并非不可避免，并呼吁公众觉醒，通过政治行动和国际协作，为 AI 的发展设立护栏，引导其走向一个更安全、更符合人性的未来。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - us-analysis
-people:
-  - Tristan Harris
-  - Steven Bartlett
-  - Kevin Systrom
-  - Demis Hassabis
-  - Gary Kasparov
-  - Jeff Hinton
-  - Roman Yampolskiy
-  - Mo Gawdat
-  - Sam Altman
-  - Elon Musk
-  - Joe Rogan
-  - Barack Obama
-  - Eric Schmidt
-  - Selena Shu
-  - Doug McMillan
-  - Leon Festinger
-  - Gary Marcus
-  - Helen Toner
-  - Dario Amadei
-  - Larry Page
-  - Neil Postman
-  - Marshall McLuhan
-  - Jef Raskin
-  - Adam Rain
-  - Jeff Lewis
-  - Karen How
-  - Charlie Munger
-  - Warren Buffett
-  - Yuval Noah Harari
-  - Donald Trump
-  - Kamala Harris
-  - Jordan Peterson
-  - Gavin Newsom
-  - Franklin D. Roosevelt
-  - E.O. Wilson
-  - Jaron Lanier
-  - Richard Sutton
-companies_orgs:
-  - Center for Humane Technology
-  - Stanford University
-  - Instagram
-  - Google
-  - Apple
-  - Netflix
-  - TikTok
-  - Twitter
-  - OpenAI
-  - DeepMind
-  - DeepSeek
-  - xAI
-  - Anthropic
-  - Tesla
-  - Walmart
-  - Microsoft
-  - Bedrock
-  - Caltech
-  - MIT
-  - The Atlantic
-  - Intuit QuickBooks
-  - Bond Charge
-  - ExpressVPN
-  - NAFTA
-  - Chinese Communist Party
-products_models:
-  - Apture
-  - Gmail
-  - Google Slides
-  - ChatGPT
-  - Gemini
-  - Claude
-  - GPT-4
-  - GPT-5
-  - Claude 4.5
-  - Optimus Prime Robot
-  - AGI
-  - character.ai
-  - Macintosh
-media_books:
-  - The Social Dilemma
-  - Lord of the Rings
-  - The New York Times
-  - Sapiens
-  - An Inconvenient Truth
-  - The Anxious Generation
-  - The Humane Interface
-  - When Prophecies Fail
 status: evergreen
+summary: 技术伦理学家、人道技术中心联合创始人 Tristan Harris 发出严厉警告：全球科技巨头正进行一场危险的竞赛，旨在打造通用人工智能（AGI），而这场竞赛正将人类社会推向一个无人期望的未来。Harris
+  揭示了科技公司 CEO 们公开承诺与私下恐惧之间的巨大鸿沟，并深入探讨了 AI 带来的系统性风险，包括大规模失业、心理操控、社会结构瓦解以及最终失控的风险。他认为，当前的发展路径并非不可避免，并呼吁公众觉醒，通过政治行动和国际协作，为
+  AI 的发展设立护栏，引导其走向一个更安全、更符合人性的未来。
+tags:
+- ai-safety
+- attention-economy
+- existential-risk
+- job-displacement
+- technological-determinism
+title: 技术伦理学家 Tristan Harris：我们必须在为时已晚前，认清 AGI 竞赛的真正风险
 ---
+
 ### AI：比移民潮更严峻的就业威胁
 
 Tristan Harris：如果你担心移民抢走工作，那么你应该更担心人工智能，因为它就像数百万诺贝尔奖级别能力的数字移民涌入，它们能以超人速度工作，而且工资比最低工资还低。我的意思是，我们正面临着巨大的变革，其速度之快远超我们社会目前的应对能力。

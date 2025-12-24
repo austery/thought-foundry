@@ -1,60 +1,60 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- Wall Street Journal
+- 中国国家统计局
+- ING Greater China
+- Mizuho Securities Asia Ltd.
+- Fitch Ratings
+- ABC Group
+- Nikko Crafts
+- 香港01
+- 新华社
+- Asia Society Policy Institute
+- Fox News
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《彭博社》
+- 《香港01》
+- 《新华社》
+- 《福克斯电视台》
+- g2-discourse
+people:
+- Donald Trump
+- Xi Jinping
+- Wendy Cutler
+- Jurgen
+- Thorpe
+- Greer
+- 郭家坤
+products_models:
+- 芬太尼
+- 人工智能芯片
+- 稀土
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=0Ki6vcBz1dA
 speaker: LT視界
-tags:
-  - us-china-trade-war
-  - economic-slowdown
-  - rare-earth-geopolitics
-  - supply-chain-resilience
-  - g2-discourse
-title: 中美贸易战：经济数据、稀土博弈与停火协议下的深层较量
-summary: 本文深入分析了中美贸易战背景下的中国宏观经济现状、欧盟对华稀土出口管制的反制措施，以及川习会停火协议后的各方解读。中国制造业持续低迷，房地产危机加剧，引发对官方数据和经济前景的担忧。欧盟考虑推出“实体关税条款”以应对中国的稀土卡脖子策略。尽管中美达成停火协议，但华尔街日报指出企业界并未感到放松，关税仍高，稀土管制未实质改变。中国智库则认为协议为中国赢得了“以时间换空间”的机会，以实现“百年未有之大变局”。文章最后探讨了华尔街日报提出的贸易战教训：美国政治体制的局限性与缺乏盟友支持的弊端，并指出习近平的策略无意中正在唤醒西方。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Wendy Cutler
-  - Jurgen
-  - Thorpe
-  - Greer
-  - 郭家坤
-companies_orgs:
-  - Bloomberg
-  - Wall Street Journal
-  - 中国国家统计局
-  - ING Greater China
-  - Mizuho Securities Asia Ltd.
-  - Fitch Ratings
-  - ABC Group
-  - Nikko Crafts
-  - 香港01
-  - 新华社
-  - Asia Society Policy Institute
-  - Fox News
-products_models:
-  - 芬太尼
-  - 人工智能芯片
-  - 稀土
-media_books:
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《香港01》
-  - 《新华社》
-  - 《福克斯电视台》
 status: evergreen
+summary: 本文深入分析了中美贸易战背景下的中国宏观经济现状、欧盟对华稀土出口管制的反制措施，以及川习会停火协议后的各方解读。中国制造业持续低迷，房地产危机加剧，引发对官方数据和经济前景的担忧。欧盟考虑推出“实体关税条款”以应对中国的稀土卡脖子策略。尽管中美达成停火协议，但华尔街日报指出企业界并未感到放松，关税仍高，稀土管制未实质改变。中国智库则认为协议为中国赢得了“以时间换空间”的机会，以实现“百年未有之大变局”。文章最后探讨了华尔街日报提出的贸易战教训：美国政治体制的局限性与缺乏盟友支持的弊端，并指出习近平的策略无意中正在唤醒西方。
+tags:
+- economic
+- rare-earth-geopolitics
+- supply-chain-resilience
+- us-china-relations
+title: 中美贸易战：经济数据、稀土博弈与停火协议下的深层较量
 ---
+
 ### 中国宏观经济现状：制造业低迷与房地产危机加剧
 
 彭博社报道指出，尽管中美达成贸易休战协议，中国工厂活动仍连续多月低迷，引发了要求加大政策支持的呼声。中国国家统计局公布的10月份制造业**采购经理人指数**（PMI: Purchasing Managers' Index, 衡量制造业活动的经济指标）跌至49，低于华尔街预期的49.6，降幅超出预期，显示制造业活动创下6个月以来的最大跌幅。新订单降幅更是创下2023年以来的最大降幅，受贸易壁垒和国内市场情绪疲软的双重打击。

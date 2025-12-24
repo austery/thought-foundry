@@ -1,46 +1,46 @@
 ---
-author: TED
+area: society-systems
+category: culture
+companies_orgs:
+- Meta
+- TikTok
+- MSN
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Hunger Games
+- The Bible
+- Coldplay
+- Death Cab for Cutie
+people:
+- Michael Sun
+- Tommy
+products_models:
+- ExitReality
+- Second Life
+- Club Penguin
+- Habbo Hotel
+- iPod
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1o7znNK19Pk
 speaker: TED
-tags:
-  - early-internet
-  - internet-culture
-  - algorithmic-feeds
-  - online-discovery
-  - social-media-evolution
-title: 如何重拾早期互联网的乐趣
-summary: 演讲者Michael Sun分享了他在2008年早期互联网的经历，如在虚拟世界中与陌生人建立联系，并对比了如今互联网的受限、算法驱动和快节奏的现状。他指出，现代互联网虽然庞大却难以发现真正感兴趣的内容。为重拾早期互联网的自发性与探索乐趣，他提出了两个解决方案：一是利用小众Facebook群组作为现代论坛，二是鼓励人们与朋友交流，通过人际互动打破算法的束缚，重新发现多样化的内容。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Michael Sun
-  - Tommy
-companies_orgs:
-  - Facebook
-  - TikTok
-  - MSN
-products_models:
-  - ExitReality
-  - Second Life
-  - Club Penguin
-  - Habbo Hotel
-  - iPod
-media_books:
-  - The Hunger Games
-  - The Bible
-  - Coldplay
-  - Death Cab for Cutie
 status: evergreen
+summary: 演讲者Michael Sun分享了他在2008年早期互联网的经历，如在虚拟世界中与陌生人建立联系，并对比了如今互联网的受限、算法驱动和快节奏的现状。他指出，现代互联网虽然庞大却难以发现真正感兴趣的内容。为重拾早期互联网的自发性与探索乐趣，他提出了两个解决方案：一是利用小众Facebook群组作为现代论坛，二是鼓励人们与朋友交流，通过人际互动打破算法的束缚，重新发现多样化的内容。
+tags:
+- culture
+- llm
+- online
+- social
+- technology
+title: 如何重拾早期互联网的乐趣
 ---
+
 ### 早期互联网的邂逅
 
 让我来给你们讲一个故事。

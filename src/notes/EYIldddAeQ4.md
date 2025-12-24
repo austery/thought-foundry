@@ -1,44 +1,44 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- FBI
+- CRA
+- RBC
+- Microsoft
+- Google
+- Norton
 date: '2024-05-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- RBC反诈中心网站
+people:
+- 庄也
+products_models:
+- IE
+- Chrome
+- Windows
+- Android
+- iOS
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=EYIldddAeQ4
 speaker: 莊也雜談
-tags:
-  - online-scams
-  - phishing-fraud
-  - loan-scams
-  - tech-support-scams
-  - victim-demographics
-title: 2023年美加十大危险诈骗深度解析（下）：预防钓鱼、贷款与技术支持诈骗
-summary: 本期节目继续深入探讨2023年美国和加拿大最危险的十大诈骗行为，重点揭示排名第六至第十的骗局，包括预付费贷款、网络钓鱼、信用修复、技术支持及旅行度假诈骗。节目详细剖析了各类诈骗的常见套路、技术原理及防范措施，并结合数据分析了不同年龄段和性别的受害者画像，揭示了年轻人在求职和投资诈骗中损失最大的现象，以及女性在诈骗中面临的特殊脆弱性。最后，节目强调了情绪管理在遭遇诈骗后的重要性，旨在提升公众防骗意识。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - 庄也
-companies_orgs:
-  - FBI
-  - CRA
-  - RBC
-  - Microsoft
-  - Google
-  - Norton
-products_models:
-  - IE
-  - Chrome
-  - Windows
-  - Android
-  - iOS
-media_books:
-  - RBC反诈中心网站
 status: evergreen
+summary: 本期节目继续深入探讨2023年美国和加拿大最危险的十大诈骗行为，重点揭示排名第六至第十的骗局，包括预付费贷款、网络钓鱼、信用修复、技术支持及旅行度假诈骗。节目详细剖析了各类诈骗的常见套路、技术原理及防范措施，并结合数据分析了不同年龄段和性别的受害者画像，揭示了年轻人在求职和投资诈骗中损失最大的现象，以及女性在诈骗中面临的特殊脆弱性。最后，节目强调了情绪管理在遭遇诈骗后的重要性，旨在提升公众防骗意识。
+tags:
+- fraud
+- geopolitical
+- loan-scam
+- online
+- tech
+title: 2023年美加十大危险诈骗深度解析（下）：预防钓鱼、贷款与技术支持诈骗
 ---
+
 ### 2023年美加十大危险诈骗回顾与下半场解析
 
 大家好，我是庄也。今天我们继续聊2023年美国和加拿大最危险的十大网络诈骗。上集我们回顾了排名前五的诈骗类型，分别是排名第一的投资及加密货币投资诈骗、排名第二的求职诈骗、排名第三的网络购物诈骗、排名第四的家居装修诈骗，以及排名第五的爱情诈骗。今天我们继续探讨排名第六到第十的诈骗。请注意，不要因为这些诈骗排名靠后就低估它们的危害，事实上，其中有几种在生活中非常常见，波及面更广，危害同样不容小觑，因此千万不要掉以轻心。

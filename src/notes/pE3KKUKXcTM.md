@@ -1,116 +1,115 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- SemiAnalysis
+- Asianometry
+- OpenAI
+- xAI
+- Anthropic
+- Microsoft
+- Meta
+- TSMC
+- NVIDIA
+- ASML
+- SMIC
+- Samsung
+- Apple
+- Google
+- Alibaba
+- ByteDance
+- Baidu
+- DeepSeek
+- Huawei
+- Qualcomm
+- MediaTek
+- Intel
+- AMD
+- Nokia
+- Sony Ericsson
+- Raytheon
+- Cisco
+- McKinsey
+- CoreWeave
+- Oracle
+- Crusoe
+- Core Scientific
+- G42
+- Omniva
+- QTS
+- Cooper
+- Lumen
+- Zayo
+- UMC
+- PSMC
+- Texas Instruments
+- Analog Devices
+- NXP
+- IBM
+- Compaq
+- YKK
+- Cartesia
+- Safe Superintelligence Inc.
+- SEMATECH
 date: '2024-10-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dylan Patel
+- Jon Y
+- Xi Jinping
+- Richard Chang
+- Liang Mong Song
+- Morris Chang
+- Pat Gelsinger
+- Sholto
+- Jensen Huang
+- Elon Musk
+- Sam Altman
+- Satya Nadella
+- Sundar Pichai
+- Mark Zuckerberg
+- Dario Amodei
+- Andy Grove
+- Gordon Moore
+- Ilya Sutskever
+- Albert Gu
+- John Maynard Keynes
+products_models:
+- GPT-4
+- H20
+- Hopper
+- Blackwell
+- Ascend 910B
+- Ascend 910C
+- iPhone
+- Mac chip
+- Tesla
+- PaLM
+- AlphaGo
+- H100
+- GB200
+- TPU
+- GPT-5
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=pE3KKUKXcTM
 speaker: Dwarkesh Patel
-tags:
-  - semiconductor
-  - ai-compute
-  - export-control
-  - chip-manufacturing
-  - data-center
-title: 半导体产业运作揭秘：AI与地缘政治的影响
-summary: 本播客中，**Dwarkesh Patel**与**SemiAnalysis**的**Dylan Patel**和**Asianometry**的**Jon Y**深入探讨了全球半导体产业的复杂运作、地缘政治对其的影响以及AI技术如何重塑这一格局。嘉宾们分析了中国在AI算力集中化和芯片制造方面的潜力与挑战，揭示了**台积电**等巨头在技术竞赛中的关键角色。他们还讨论了半导体行业高度专业化与AI领域快速迭代的对比，并展望了未来AI算力需求、投资规模及潜在的“AI泡沫”现象。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Dwarkesh Patel
-  - Dylan Patel
-  - Jon Y
-  - Xi Jinping
-  - Richard Chang
-  - Liang Mong Song
-  - Morris Chang
-  - Pat Gelsinger
-  - Sholto
-  - Jensen Huang
-  - Elon Musk
-  - Sam Altman
-  - Satya Nadella
-  - Sundar Pichai
-  - Mark Zuckerberg
-  - Dario Amodei
-  - Andy Grove
-  - Gordon Moore
-  - Ilya Sutskever
-  - Albert Gu
-  - John Maynard Keynes
-companies_orgs:
-  - SemiAnalysis
-  - Asianometry
-  - OpenAI
-  - xAI
-  - Anthropic
-  - Microsoft
-  - Meta
-  - TSMC
-  - NVIDIA
-  - ASML
-  - SMIC
-  - Samsung
-  - Apple
-  - Google
-  - Alibaba
-  - ByteDance
-  - Baidu
-  - DeepSeek
-  - Huawei
-  - Qualcomm
-  - MediaTek
-  - Intel
-  - AMD
-  - Nokia
-  - Sony Ericsson
-  - Raytheon
-  - Cisco
-  - McKinsey
-  - CoreWeave
-  - Oracle
-  - Crusoe
-  - Core Scientific
-  - G42
-  - Omniva
-  - QTS
-  - Cooper
-  - Lumen
-  - Zayo
-  - UMC
-  - PSMC
-  - Texas Instruments
-  - Analog Devices
-  - NXP
-  - IBM
-  - Compaq
-  - YKK
-  - Cartesia
-  - Safe Superintelligence Inc.
-  - SEMATECH
-products_models:
-  - GPT-4
-  - H20
-  - Hopper
-  - Blackwell
-  - Ascend 910B
-  - Ascend 910C
-  - iPhone
-  - Mac chip
-  - Tesla
-  - PaLM
-  - AlphaGo
-  - H100
-  - GB200
-  - TPU
-  - GPT-5
-media_books: []
 status: evergreen
+summary: 本播客中，**Dwarkesh Patel**与**SemiAnalysis**的**Dylan Patel**和**Asianometry**的**Jon
+  Y**深入探讨了全球半导体产业的复杂运作、地缘政治对其的影响以及AI技术如何重塑这一格局。嘉宾们分析了中国在AI算力集中化和芯片制造方面的潜力与挑战，揭示了**台积电**等巨头在技术竞赛中的关键角色。他们还讨论了半导体行业高度专业化与AI领域快速迭代的对比，并展望了未来AI算力需求、投资规模及潜在的“AI泡沫”现象。
+tags:
+- data-center
+- export-control
+- llm
+- manufacturing
+- semiconductor
+title: 半导体产业运作揭秘：AI与地缘政治的影响
 ---
+
 今天，我与**SemiAnalysis**的**Dylan Patel**和**Asianometry** YouTube频道的**Jon Y**进行了一次对话。**Jon Y**解释了他遮脸的原因是为了匿名，并开玩笑说自己害怕看到岁月和肥胖的痕迹。**Dwarkesh Patel**随后开玩笑地提到了**Dylan**和他父亲的名字，引出了关于名字的趣闻。
 
 ### 中国AI战略与芯片间谍战

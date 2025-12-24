@@ -1,59 +1,59 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Alibaba
+- Polymarket
+- FBI
+- 亚马逊
+- Microsoft
+- Google
+- 拼多多
+- 抖音
+- Nvidia
+- 甲骨文
+- Panel
+- S&P Global
+- JP Morgan
+- Goldman Sachs
+- Citibank
+- Standard & Poor's
 date: '2024-09-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- 张勇
+- 蔡崇信
+- 王仁勋
+- 查理·芒格
+products_models:
+- 通义千问
+- 摩塔社区
+- Snowflake
+- Oracle Database
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=-YAVSO_kVJ4
 speaker: Shijun Tang
-tags:
-  - capital-allocation
-  - competitive-advantage
-  - investment-discipline
-  - financial-ratios-analysis
-  - market-efficiency
-title: 阿里巴巴暴涨52%背后的转型逻辑：阿里云、电商重组与资本配置的深层分析
-summary: 本文深度解析阿里巴巴股价暴涨52%背后的结构性原因，聚焦阿里云战略转型、电商效率提升与资本配置优化，并对比Oracle、Panel、SPG及银行股的投资逻辑，揭示超级投资人如何通过纪律与能力圈实现长期复利。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - 张勇
-  - 蔡崇信
-  - 王仁勋
-  - 查理·芒格
-companies_orgs:
-  - 阿里巴巴
-  - Polymarket
-  - FBI
-  - 亚马逊
-  - 微软
-  - 谷歌
-  - 拼多多
-  - 抖音
-  - 英伟达
-  - 甲骨文
-  - Panel
-  - S&P Global
-  - JP Morgan
-  - Goldman Sachs
-  - Citibank
-  - Standard & Poor's
-products_models:
-  - 通义千问
-  - 摩塔社区
-  - Snowflake
-  - Oracle Database
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深度解析阿里巴巴股价暴涨52%背后的结构性原因，聚焦阿里云战略转型、电商效率提升与资本配置优化，并对比Oracle、Panel、SPG及银行股的投资逻辑，揭示超级投资人如何通过纪律与能力圈实现长期复利。
+tags:
+- capital-allocation
+- competitive-advantage
+- financial
+- investment
+- market-efficiency
+title: 阿里巴巴暴涨52%背后的转型逻辑：阿里云、电商重组与资本配置的深层分析
 ---
+
 ### 阿里巴巴股价暴涨52%：从破产恐惧到战略重估
 
 阿里巴巴最近两天跳空高开，股价一度站上109.43美元。你还认为阿里是一家即将破产的公司吗？我从2022年4月7日开始建仓，当时股价是100美元。在接下来的901天里，我从100美元一路买到了58美元。2022年10月24日，阿里股价跌至58.01美元，而我买入的最低价是62美元。很多人嘲讽我说：“你100建仓，跌到58都腰斩了，还好意思做内容？”但实际情况并非如此——我不是一次性买入，而是分多次逐步建仓。随着股价下跌，我的平均成本被不断拉低。目前我的持仓均价为77.28美元，股价上涨至109.43美元后，我的仓位涨幅已超过52%。期间阿里还派发了3%的股息，综合回报接近55%。

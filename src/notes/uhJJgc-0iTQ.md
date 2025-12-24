@@ -1,30 +1,28 @@
 ---
-title: 构建更高效的AI智能体：Anthropic探讨Claude的多智能体能力与未来展望
-summary: Anthropic的Erik和Alex深入探讨了如何构建更高效的AI智能体，解析了Claude在代理任务中的优势、多智能体协作、SDK与技能的应用，以及AI智能体未来在软件工程和计算机使用等领域的广阔前景。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-agent
-- ai-development
-- multi-agent-systems
-people: []
 companies_orgs: []
-products_models:
-- claude
-media_books: []
 date: '2025-10-17'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- claude
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=uhJJgc-0iTQ
+speaker: Anthropic
 status: evergreen
+summary: Anthropic的Erik和Alex深入探讨了如何构建更高效的AI智能体，解析了Claude在代理任务中的优势、多智能体协作、SDK与技能的应用，以及AI智能体未来在软件工程和计算机使用等领域的广阔前景。
+tags:
+- ai-agent
+- ai-development
+- system
+title: 构建更高效的AI智能体：Anthropic探讨Claude的多智能体能力与未来展望
 ---
+
 ### 智能体训练与Claude的核心优势
 
 Alex: Hey, I'm Alex, I lead Claude Relations here at Anthropic. Today we're gonna be talking about building more effective agents and I'm joined by my colleague.

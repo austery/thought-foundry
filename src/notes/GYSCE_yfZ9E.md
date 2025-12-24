@@ -1,85 +1,85 @@
 ---
-author: Best Partners TV
+area: market-analysis
+category: finance
+companies_orgs:
+- Alphabet
+- Google
+- NVIDIA
+- Anthropic
+- HCA Healthcare
+- LG
+- Macquarie Bank
+- Banco BV
+- Best Buy
+- FairPrice Group
+- YouTube
+- Waymo
+- Samsung
+- Meta
+- Apple
+- Netflix
+- Disney
+- TikTok
+- Salesforce
+- Coca-Cola
+- Toyota
+- L'Oréal
+- X
+- NFL
 date: '2025-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Nielsen
+people:
+- Sundar Pichai
+- Michel Devoret
+products_models:
+- Gemini
+- Gemini 2.5 Pro
+- Veo
+- Genie 3
+- Nano Banana
+- Ironwood
+- A4X Max实例
+- GB300芯片
+- Willow
+- Pixel 10系列
+- Tensor G5
+- Android XR
+- Samsung Galaxy XR
+- AI Overviews
+- AI Mode
+- Chrome
+- Google Cloud
+- Google Workspace
+- Cloud Storage
+- AI Platform
+- BigQuery
+- Gemini Enterprise
+- Shorts
+- Waymo for Business
+- Waymo Teens
+project:
+- ai-impact-analysis
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=GYSCE_yfZ9E
 speaker: Best Partners TV
-tags:
-  - ai-full-stack-strategy
-  - quarterly-earnings
-  - business-growth
-  - cloud-computing
-  - ai-product-integration
-title: 谷歌2025年Q3财报：AI全栈战略驱动营收破千亿，重塑业务版图
-summary: 谷歌母公司Alphabet在2025年第三季度实现了历史性的营收突破，首次季度收入超过1000亿美元。这份亮眼的成绩单主要得益于其全面的AI全栈战略，AI技术深度融入并驱动了从底层算力、中层模型到上层产品的所有核心业务线，包括搜索、云服务、YouTube和自动驾驶Waymo。财报揭示了谷歌在AI时代的强大实力和业务转型范本，展示了其通过技术创新引领未来增长的决心。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - us-analysis
-people:
-  - Sundar Pichai
-  - Michel Devoret
-companies_orgs:
-  - Alphabet
-  - Google
-  - NVIDIA
-  - Anthropic
-  - HCA Healthcare
-  - LG
-  - Macquarie Bank
-  - Banco BV
-  - Best Buy
-  - FairPrice Group
-  - YouTube
-  - Waymo
-  - Samsung
-  - Meta
-  - Apple
-  - Netflix
-  - Disney
-  - TikTok
-  - Salesforce
-  - Coca-Cola
-  - Toyota
-  - L'Oréal
-  - X
-  - NFL
-products_models:
-  - Gemini
-  - Gemini 2.5 Pro
-  - Veo
-  - Genie 3
-  - Nano Banana
-  - Ironwood
-  - A4X Max实例
-  - GB300芯片
-  - Willow
-  - Pixel 10系列
-  - Tensor G5
-  - Android XR
-  - Samsung Galaxy XR
-  - AI Overviews
-  - AI Mode
-  - Chrome
-  - Google Cloud
-  - Google Workspace
-  - Cloud Storage
-  - AI Platform
-  - BigQuery
-  - Gemini Enterprise
-  - Shorts
-  - Waymo for Business
-  - Waymo Teens
-media_books:
-  - Nielsen
 status: evergreen
+summary: 谷歌母公司Alphabet在2025年第三季度实现了历史性的营收突破，首次季度收入超过1000亿美元。这份亮眼的成绩单主要得益于其全面的AI全栈战略，AI技术深度融入并驱动了从底层算力、中层模型到上层产品的所有核心业务线，包括搜索、云服务、YouTube和自动驾驶Waymo。财报揭示了谷歌在AI时代的强大实力和业务转型范本，展示了其通过技术创新引领未来增长的决心。
+tags:
+- cloud-computing
+- earning
+- growth
+- product
+- strategy
+title: 谷歌2025年Q3财报：AI全栈战略驱动营收破千亿，重塑业务版图
 ---
+
 ### 谷歌Q3财报里程碑：营收首破千亿，AI驱动全面增长
 
 10月29日，谷歌母公司**Alphabet**（谷歌母公司: Google的母公司，旗下拥有Google及其他业务）发布了2025年第三季度的业绩报告，并交出了一份足以载入公司史册的答卷。这是它自成立以来，第一次季度营收突破1000亿美元。五年前，它的单季营收还只有500亿美元，如今不仅翻倍，而且是在**生成式AI**（Generative AI: 能够生成文本、图像、音频等新内容的AI技术）竞争最激烈的阶段实现的。

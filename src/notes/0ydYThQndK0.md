@@ -1,55 +1,54 @@
 ---
-author: 记者易速利
+area: society-systems
+category: culture
+companies_orgs:
+- Instagram
+- Twitter
+- 美国电影学会
 date: '2025-10-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《教父》
+- 《邦尼和克莱德》
+- 《安妮·霍尔》
+- 《曼哈顿》
+- 《爱与死》
+- 《曼哈顿谋杀之谜》
+- 《再来一次，萨姆》
+- Take the Money and Run
+- 《哈克贝里·费恩历险记》
+- 《60分钟》
+- 《英国每日邮报》
+people:
+- Diane Keaton
+- Woody Allen
+- Al Pacino
+- Warren Beatty
+- Mia Farrow
+- Song Yi
+- Louise Lasser
+- Ralph Lauren
+- Mark Twain
+- Francis Ford Coppola
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=0ydYThQndK0
 speaker: 记者易速利
-tags:
-  - hollywood-legends
-  - artistic-collaboration
-  - romantic-relationships
-  - cultural-influence
-  - me-too-movement-context
-title: 黛安·基顿：超越时代的美丽与智慧——与伍迪·艾伦的艺术与情感羁绊
-summary: 本文深入探讨了奥斯卡影后黛安·基顿的独特人生与艺术魅力。她以其纯粹的喜剧天赋和智慧，在好莱坞独树一帜。文章详细回顾了她与伍迪·艾伦、阿尔·帕西诺和沃伦·比蒂三位影坛巨星的深刻情缘，尤其聚焦她与伍迪·艾伦从恋人到终身艺术知己的合作，以及《安妮·霍尔》等经典作品的诞生。同时，也触及了她在“MeToo”风波中对伍迪·艾伦的坚定支持，展现了她超越年龄与时代的美丽与智慧。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Diane Keaton
-  - Woody Allen
-  - Al Pacino
-  - Warren Beatty
-  - Mia Farrow
-  - Song Yi
-  - Louise Lasser
-  - Ralph Lauren
-  - Mark Twain
-  - Francis Ford Coppola
-companies_orgs:
-  - Instagram
-  - Twitter
-  - 美国电影学会
-products_models: []
-media_books:
-  - 《教父》
-  - 《邦尼和克莱德》
-  - 《安妮·霍尔》
-  - 《曼哈顿》
-  - 《爱与死》
-  - 《曼哈顿谋杀之谜》
-  - 《再来一次，萨姆》
-  - Take the Money and Run
-  - 《哈克贝里·费恩历险记》
-  - 《60分钟》
-  - 《英国每日邮报》
 status: evergreen
+summary: 本文深入探讨了奥斯卡影后黛安·基顿的独特人生与艺术魅力。她以其纯粹的喜剧天赋和智慧，在好莱坞独树一帜。文章详细回顾了她与伍迪·艾伦、阿尔·帕西诺和沃伦·比蒂三位影坛巨星的深刻情缘，尤其聚焦她与伍迪·艾伦从恋人到终身艺术知己的合作，以及《安妮·霍尔》等经典作品的诞生。同时，也触及了她在“MeToo”风波中对伍迪·艾伦的坚定支持，展现了她超越年龄与时代的美丽与智慧。
+tags:
+- cultural
+- hollywood-legend
+- movement
+- relationship
+- society
+title: 黛安·基顿：超越时代的美丽与智慧——与伍迪·艾伦的艺术与情感羁绊
 ---
 
 ### 黛安·基顿：独一无二的银幕传奇

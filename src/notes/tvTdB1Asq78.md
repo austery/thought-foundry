@@ -1,37 +1,36 @@
 ---
-author: 徒步的騎手
-date: 2025-07-19
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=tvTdB1Asq78'
-speaker: 徒步的騎手
-tags:
-  - human-nature
-  - criticism-management
-  - self-actualization
-  - social-dynamics
-  - personal-resilience
-title: 斯蒂芬·金的硬核智慧：面对非议，活出真实自我
-summary: 本文从小说家斯蒂芬·金转发的一条推文切入，探讨了人生中“被人议论”这一无法逃避的常态。通过斯蒂芬·金的个人经历和作品，揭示了人性中幽暗与光明的复杂性，以及天才与庸人对待批评的不同态度。文章强调，面对非议，应保持清醒与自省，活出真实自我，不为取悦他人而改变，这是一种温和而有力的生活智慧。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people:
-  - Stephen King
-  - Benjamin Franklin
-  - Nietzsche
+category: psychology
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-07-19
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《肖申克的救赎》
-  - 《Carrie》
+- 《肖申克的救赎》
+- 《Carrie》
+people:
+- Stephen King
+- Benjamin Franklin
+- Nietzsche
+products_models: '[]'
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=tvTdB1Asq78
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文从小说家斯蒂芬·金转发的一条推文切入，探讨了人生中“被人议论”这一无法逃避的常态。通过斯蒂芬·金的个人经历和作品，揭示了人性中幽暗与光明的复杂性，以及天才与庸人对待批评的不同态度。文章强调，面对非议，应保持清醒与自省，活出真实自我，不为取悦他人而改变，这是一种温和而有力的生活智慧。
+tags:
+- criticism-management
+- human-nature
+- personal-resilience
+- self
+- social-dynamic
+title: 斯蒂芬·金的硬核智慧：面对非议，活出真实自我
 ---
 
 ### 人生常态：无处不在的非议

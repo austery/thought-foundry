@@ -1,72 +1,72 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2023-05-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《咒术回战》
+- 《鬼灭之刃》
+- 《不良执念清除师》
+- 《寄生虫》
+- 《盗梦空间》
+- 《离骚》
+- 《少年维特的烦恼》
+- 《摩登时代》
+- 《鬼魅浮生》
+- 《千与千寻》
+- 《哈姆雷特》
+- 《星际穿越》
+people:
+- 乙骨憂太
+- 里香
+- 竈門炭治郎
+- 竈門禰豆子
+- 蒲一永
+- Nicolas Abraham
+- Maria Torok
+- Cobb
+- Mal
+- 禪院真希
+- Samuel Kimbles
+- 夏油傑
+- 五條悟
+- Sigmund Freud
+- 屈原
+- Johann Wolfgang von Goethe
+- Charlie Chaplin
+- Robert Hertz
+- Jacques Lacan
+- Hamlet
+- Claude
+- Jacques Derrida
+- 曾敬驊
+- 宋芸樺
+- 彭千祐
+- 楊謹華
+- 菅原道真
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=DkVIVtasN6s
 speaker: 超級歪 SuperY
-tags:
-  - ghost-philosophy
-  - transgenerational-trauma
-  - symbolic-debt
-  - repression-sublimation
-  - cultural-specters
-title: 咒术回战的哲学：鬼魂为何现世？执念、创伤与文明的起源
-summary: 本文深入探讨了《咒术回战》、《鬼灭之刃》和《不良执念清除师》等作品中鬼魂现象的哲学意涵。结合精神分析学派的“隐语症”和“跨代幽灵”理论，以及社会学和文化分析，揭示了鬼魂如何作为被压抑的家族秘密、集体创伤和未偿还的“象征性债务”而存在。文章还探讨了负面情绪的升华、记忆的恢复以及哀悼仪式在化解执念中的关键作用，并引入了“未来幽灵”的概念，拓宽了我们对存在与缺失的理解。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-  - historical-insights
-people:
-  - 乙骨憂太
-  - 里香
-  - 竈門炭治郎
-  - 竈門禰豆子
-  - 蒲一永
-  - Nicolas Abraham
-  - Maria Torok
-  - Cobb
-  - Mal
-  - 禪院真希
-  - Samuel Kimbles
-  - 夏油傑
-  - 五條悟
-  - Sigmund Freud
-  - 屈原
-  - Johann Wolfgang von Goethe
-  - Charlie Chaplin
-  - Robert Hertz
-  - Jacques Lacan
-  - Hamlet
-  - Claude
-  - Jacques Derrida
-  - 曾敬驊
-  - 宋芸樺
-  - 彭千祐
-  - 楊謹華
-  - 菅原道真
-companies_orgs: []
-products_models: []
-media_books:
-  - 《咒术回战》
-  - 《鬼灭之刃》
-  - 《不良执念清除师》
-  - 《寄生虫》
-  - 《盗梦空间》
-  - 《离骚》
-  - 《少年维特的烦恼》
-  - 《摩登时代》
-  - 《鬼魅浮生》
-  - 《千与千寻》
-  - 《哈姆雷特》
-  - 《星际穿越》
 status: evergreen
+summary: 本文深入探讨了《咒术回战》、《鬼灭之刃》和《不良执念清除师》等作品中鬼魂现象的哲学意涵。结合精神分析学派的“隐语症”和“跨代幽灵”理论，以及社会学和文化分析，揭示了鬼魂如何作为被压抑的家族秘密、集体创伤和未偿还的“象征性债务”而存在。文章还探讨了负面情绪的升华、记忆的恢复以及哀悼仪式在化解执念中的关键作用，并引入了“未来幽灵”的概念，拓宽了我们对存在与缺失的理解。
+tags:
+- canada
+- cultural
+- debt
+- health
+- philosophy
+title: 咒术回战的哲学：鬼魂为何现世？执念、创伤与文明的起源
 ---
+
 ### 引言：鬼魂现象与三部作品的哲学思考
 
 鬼魂为何重返人间？它们究竟想从人类那里得到什么？幽灵又如何才能安息？今天，我们将通过《咒术回战》、《鬼灭之刃》以及《不良执念清除师》这三部作品，深入探讨鬼魂与人类执念的哲学。

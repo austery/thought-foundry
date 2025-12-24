@@ -1,30 +1,30 @@
 ---
-title: 《智利之夜》：独裁下的知识分子，是献媚特权还是直面黑暗？
-summary: 智利作家波拉尼奥的小说《智利之夜》深刻剖析了独裁统治下，知识分子如何通过逃避政治责任，沦为精致的利己主义者和暴政的优雅共犯。
 area: null
 category: null
-project: []
-tags:
-- authoritarianism
-- intellectuals-and-politics
-people:
-- roberto-bolano
-- stella-an
 companies_orgs: []
-products_models: []
-media_books:
-- by-night-in-chile
 date: '2025-07-05'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- by-night-in-chile
+people:
+- roberto-bolano
+- stella-an
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GDy_ruy_PFU
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 智利作家波拉尼奥的小说《智利之夜》深刻剖析了独裁统治下，知识分子如何通过逃避政治责任，沦为精致的利己主义者和暴政的优雅共犯。
+tags:
+- authoritarianism
+- politics
+title: 《智利之夜》：独裁下的知识分子，是献媚特权还是直面黑暗？
 ---
+
 ### 黎明尚远，如何在黑夜中行走？
 
 今年，我的好几期节目都提到了内容审查和创作自由的问题。我生活在一个缺乏创作自由的环境，正在经历“文学之冬”。作为一个把文艺创作视为毕生梦想和人生价值实现途径的文化行业工作者，当前的环境让我感到非常郁闷。

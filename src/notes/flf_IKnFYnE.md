@@ -1,48 +1,48 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Pydantic
+- OpenAI
+- DeepMind
+- Kubernetes
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Samuel Colvin
+products_models:
+- Pydantic AI
+- Temporal
+- Logfire
+- Pydantic Evals
+- Pydantic AI Gateway
+- Hiku 3.5
+- Claude Sonnet 4.5
+- GPT 4.1
+- Gemini Flash
+- Vertex SDK
+- Tavily
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=flf_IKnFYnE
 speaker: AI Engineer
-tags:
-  - durable-execution
-  - ai-agents
-  - workflow-orchestration
-  - llm-evaluation
-  - fault-tolerance
-title: Pydantic AI与Temporal：构建持久化、容错的AI智能体工作流
-summary: Pydantic的Samuel Colvin演示了Pydantic AI、Temporal和Logfire如何协同工作，以构建持久化、容错的AI智能体工作流。他通过一个“20个问题”游戏和一个“深度研究”智能体案例，详细解释了Temporal的确定性工作流和活动机制，以及如何在系统崩溃后无缝恢复。此外，他还介绍了Pydantic Evals进行模型评估，并预告了即将推出的Pydantic AI Gateway平台，强调了在复杂AI应用中实现可靠性和效率的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Samuel Colvin
-companies_orgs:
-  - Pydantic
-  - OpenAI
-  - DeepMind
-  - Kubernetes
-products_models:
-  - Pydantic AI
-  - Temporal
-  - Logfire
-  - Pydantic Evals
-  - Pydantic AI Gateway
-  - Hiku 3.5
-  - Claude Sonnet 4.5
-  - GPT 4.1
-  - Gemini Flash
-  - Vertex SDK
-  - Tavily
-media_books: []
 status: evergreen
+summary: Pydantic的Samuel Colvin演示了Pydantic AI、Temporal和Logfire如何协同工作，以构建持久化、容错的AI智能体工作流。他通过一个“20个问题”游戏和一个“深度研究”智能体案例，详细解释了Temporal的确定性工作流和活动机制，以及如何在系统崩溃后无缝恢复。此外，他还介绍了Pydantic
+  Evals进行模型评估，并预告了即将推出的Pydantic AI Gateway平台，强调了在复杂AI应用中实现可靠性和效率的重要性。
+tags:
+- ai-agent
+- code
+- durable-execution
+- history
+- llm
+title: Pydantic AI与Temporal：构建持久化、容错的AI智能体工作流
 ---
+
 ### Pydantic AI、Temporal与Logfire简介
 
 大家好，我是来自Pydantic的Samuel，今天我将演示**Pydantic AI**（一个用于构建AI智能体的库）、**Temporal**（一个分布式工作流编排平台）和**Logfire**（一个用于可观测性的工具）。我还会介绍**Pydantic Evals**（一个用于评估大型语言模型性能的工具）。

@@ -1,30 +1,27 @@
 ---
-title: 债务、财务自由与“债务承受公式”：一个量化标准助你破解财务困惑
-summary: 视频探讨了债务对个人行为的限制，并提出了一个“债务承受公式”，帮助人们量化评估债务水平，区分好坏债务，从而更好地规划财务自由之路。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-tags:
-  - debt-management
-  - financial-formula
-  - financial-freedom
-  - personal-finance
-  - wealth-building
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-10-17'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=bbgFh77wUC0
+speaker: 一口新飯
 status: evergreen
+summary: 视频探讨了债务对个人行为的限制，并提出了一个“债务承受公式”，帮助人们量化评估债务水平，区分好坏债务，从而更好地规划财务自由之路。
+tags:
+- financial
+- financial-freedom
+- management
+- personal-finance
+- wealth
+title: 债务、财务自由与“债务承受公式”：一个量化标准助你破解财务困惑
 ---
 
 ### 债务：限制人类行为的经济根源

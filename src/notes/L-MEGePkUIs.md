@@ -1,45 +1,44 @@
 ---
-author: 徒步的騎手
-date: 2025-01-22
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=L-MEGePkUIs'
-speaker: 徒步的騎手
-tags:
-  - garbage-time
-  - pursuit-of-happiness
-  - political-depression
-  - critical-thinking
-  - personal-responsibility
-title: 垃圾时间，追求快乐：现代文明的普世信条与个人疗愈
-summary: 在中文世界流行的“垃圾时间”概念下，本文探讨了在历史低谷期个人如何追求快乐。文章以美国《独立宣言》中的“追求快乐”为起点，阐述其作为现代文明普世价值的意义。同时，讨论了政治抑郁、批判性思维的重要性，以及如何通过培养内在力量、做出个人选择和承担责任，在不确定的环境中实现自我疗愈与尊严。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - systems-thinking
-people:
-  - Marcus Aurelius
-  - Wen Jiabao
-  - Bill Clinton
-  - James Mattis
-  - V.S. Naipaul
-  - Zhang Ailing
-  - Shu Qingchun
-  - Lord Acton
-  - Albert Einstein
-  - Dai Jitao
+category: general
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-01-22
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《独立宣言》
-  - 《沉思录》
-  - 《骆驼祥子》
+- 《独立宣言》
+- 《沉思录》
+- 《骆驼祥子》
+people:
+- Marcus Aurelius
+- Wen Jiabao
+- Bill Clinton
+- James Mattis
+- V.S. Naipaul
+- Zhang Ailing
+- Shu Qingchun
+- Lord Acton
+- Albert Einstein
+- Dai Jitao
+products_models: '[]'
+project:
+- personal-growth-lab
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=L-MEGePkUIs
+speaker: 徒步的騎手
 status: evergreen
+summary: 在中文世界流行的“垃圾时间”概念下，本文探讨了在历史低谷期个人如何追求快乐。文章以美国《独立宣言》中的“追求快乐”为起点，阐述其作为现代文明普世价值的意义。同时，讨论了政治抑郁、批判性思维的重要性，以及如何通过培养内在力量、做出个人选择和承担责任，在不确定的环境中实现自我疗愈与尊严。
+tags:
+- critical-thinking
+- financial
+- personal-responsibility
+- political
+- time
+title: 垃圾时间，追求快乐：现代文明的普世信条与个人疗愈
 ---
 
 ### 垃圾时间，追求快乐：现代文明的普世信条

@@ -1,32 +1,30 @@
 ---
-title: 科技的共同主线：从美国动力学到医疗和教育中的人工智能
-summary: 嘉宾讨论了a16z投资组合（如美国动力学、消费、加密货币）的连贯性，探讨了AI对医疗信息标准和教育系统的影响，以及社交网络文化的碎片化和育儿带来的社会挑战。
-area: market-analysis
-category: geopolitics
-project:
-- ai-impact-analysis
-- us-analysis
-tags:
-- american-dynamism
-- crypto
-- education-reform
-- generative-ai
-- social-media
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-09-27
+area: tech-engineering
 author: Lei
-speaker: a16z
+category: ai-ml
+companies_orgs: []
+date: 2025-09-27
 draft: true
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- us-analysis
 series: null
 source: https://www.youtube.com/watch?v=zqrxCx7KKLY
+speaker: a16z
 status: evergreen
+summary: 嘉宾讨论了a16z投资组合（如美国动力学、消费、加密货币）的连贯性，探讨了AI对医疗信息标准和教育系统的影响，以及社交网络文化的碎片化和育儿带来的社会挑战。
+tags:
+- american-dynamism
+- crypto
+- education-reform
+- social
+title: 科技的共同主线：从美国动力学到医疗和教育中的人工智能
 ---
+
 # 科技的共同主线：从美国动力学到医疗和教育中的人工智能
 
 ## I. 科技领域的连贯性与统一价值

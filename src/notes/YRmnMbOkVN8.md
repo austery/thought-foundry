@@ -1,46 +1,45 @@
 ---
-author: 知行小酒馆
+area: society-systems
+category: general
+companies_orgs:
+- 北京大学
+- 世界银行
+- 联合国安理会
+- Apple
+- 富士康
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《匹配》
+people:
+- 叶晓阳
+- 丁彦青
+- 伯格利
+- Jacob Mincer
+- 王阳明
+- 胡旭龙
+- 王小波
+products_models:
+- 敏瑟方程
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=YRmnMbOkVN8
 speaker: 知行小酒馆
-tags:
-  - education-fairness
-  - college-application-strategy
-  - systemic-inequality
-  - value-of-education
-  - career-choice
-title: 对话叶晓阳：在不公平的高考志愿体系中，如何为普通人争取更多可能
-summary: 教育经济学家叶晓阳分享了他十余年来帮助弱势学生填报高考志愿的经历。他认为，一个好的制度应当保护那些不了解规则的普通人，但现行的高考志愿系统却恰恰相反。他深入探讨了“读书是否有用”这一经典问题，并提出了选择专业时应权衡平均收益、个人兴趣与相对能力的三要素理论。叶晓阳不仅致力于在现有体系内弥合信息鸿沟，更希望通过系统性的课程，帮助学生尽早发现并发展自己的兴趣，最终实现“再造中国教育”的愿景。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people:
-  - 叶晓阳
-  - 丁彦青
-  - 伯格利
-  - Jacob Mincer
-  - 王阳明
-  - 胡旭龙
-  - 王小波
-companies_orgs:
-  - 北京大学
-  - 世界银行
-  - 联合国安理会
-  - Apple
-  - 富士康
-products_models:
-  - 敏瑟方程
-media_books:
-  - 《匹配》
 status: evergreen
+summary: 教育经济学家叶晓阳分享了他十余年来帮助弱势学生填报高考志愿的经历。他认为，一个好的制度应当保护那些不了解规则的普通人，但现行的高考志愿系统却恰恰相反。他深入探讨了“读书是否有用”这一经典问题，并提出了选择专业时应权衡平均收益、个人兴趣与相对能力的三要素理论。叶晓阳不仅致力于在现有体系内弥合信息鸿沟，更希望通过系统性的课程，帮助学生尽早发现并发展自己的兴趣，最终实现“再造中国教育”的愿景。
+tags:
+- career
+- education
+- society
+- strategy
+title: 对话叶晓阳：在不公平的高考志愿体系中，如何为普通人争取更多可能
 ---
+
 ### 缘起：一个好制度应保护普通人
 
 一个好的制度会保护那些不了解规则的普通人，但高考志愿填报系统却恰恰相反。在过去十年里，我不仅在书斋里研究教育公平，也一直在全国各地奔走，与一线的师生互动。我带着团队去过宁夏、贵州，以及中西部的许多中小城市和乡镇学校，帮助那些因信息匮乏而在教育竞争中处于劣势的学生和家长，让他们少走弯路。

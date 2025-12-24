@@ -1,39 +1,39 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 美联储
+- OECD
 date: '2025-04-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 财富杂志
+- 《社会成本问题》
+people:
+- 巴菲特
+- 科斯
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=_MRpfes6BA4
 speaker: 海淀拙大叔
-tags:
-  - us-china-competition
-  - trade-policy
-  - debt-management
-  - manufacturing-reshoring
-  - economic-reform
-title: 中美改革竞争：美国经济困境、政策转向与中国的应对之道
-summary: 本期节目深入探讨了中美两国在全球经济格局下的改革竞争。文章分析了美国当前面临的短期化债和长期提升全球竞争力两大核心问题，以及其通过关税政策减少贸易逆差、促使制造业回流的目的。同时，节目揭示了美国化债的真实情况，并详细阐述了巴菲特提出的进口配额制如何能有效推动制造业回流，以及该方案未被采纳的原因。最后，文章提出了中国应对中美博弈的策略，强调增强自身竞争力，并通过降低个税、农村土地流转和下放消费税征收权等三项关键措施刺激总需求，以实现经济的消费拉动型增长。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 巴菲特
-  - 科斯
-companies_orgs:
-  - 美联储
-  - OECD
-products_models: []
-media_books:
-  - 财富杂志
-  - 《社会成本问题》
 status: evergreen
+summary: 本期节目深入探讨了中美两国在全球经济格局下的改革竞争。文章分析了美国当前面临的短期化债和长期提升全球竞争力两大核心问题，以及其通过关税政策减少贸易逆差、促使制造业回流的目的。同时，节目揭示了美国化债的真实情况，并详细阐述了巴菲特提出的进口配额制如何能有效推动制造业回流，以及该方案未被采纳的原因。最后，文章提出了中国应对中美博弈的策略，强调增强自身竞争力，并通过降低个税、农村土地流转和下放消费税征收权等三项关键措施刺激总需求，以实现经济的消费拉动型增长。
+tags:
+- economic-reform
+- management
+- manufacturing
+- trade-policy
+- us-china-relations
+title: 中美改革竞争：美国经济困境、政策转向与中国的应对之道
 ---
+
 ### 中美改革竞争：美国大收缩系列的终章
 
 本期节目是“阿甘经济宏观论”第16集，聚焦中美改革竞争，同时也是美国大收缩系列的最后一集。当前，关于中美第一轮“水战”过招结果的讨论甚嚣尘上，许多自媒体宣称“咱们赢麻了”。然而，对于一个客观、合格的投资者而言，这种观点并非全然准确。去年，我们曾预测 **MAGA**（Make America Great Again: 指唐纳德·特朗普的政治口号和支持者群体）派必然当选，并预判其上台后中美双方将不可避免地进入一场改革竞争。

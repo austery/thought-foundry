@@ -1,69 +1,68 @@
 ---
-author: Big Think
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Apple
+- Nvidia
+- Google
+- Ford Motors
+- Intel
+- Boeing
+- Tesla
+- Xiaomi
+- CCP
+- NSF
+- NIH
+- FTC
+- Yale Law School
+- Big Think
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Breakneck
+- The Economist
+- Declaration of Independence
+people:
+- Dan Wang
+- Kmele Foster
+- Elon Musk
+- Admiral Hyman Rickover
+- George Washington
+- Abraham Lincoln
+- Kamala Harris
+- Xi Jinping
+- Peter Thiel
+- Jake Sullivan
+- Gina Raimondo
+- Lina Khan
+- Brian Deese
+- Tim Cook
+products_models:
+- iPhone
+- GPU
+- V2 missiles
+- Accela train
+- Project Titan
+project:
+- china-analysis
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=GiO3Zh2Ue9E
 speaker: Big Think
-tags:
-  - engineering-state
-  - lawyerly-state
-  - manufacturing-capacity
-  - infrastructure-development
-  - innovation-models
-title: 中美科技竞争：工程国家与律师国家模式的未来对决
-summary: 本讨论深入探讨了中国“工程国家”模式与美国“律师国家”模式的根本差异。Dan Wang指出，中国在基础设施建设、制造业和创新方面展现出惊人的速度和规模，但也伴随着社会工程的巨大代价。相比之下，美国在实体建设上停滞不前，但拥有更强的多元主义和言论自由。文章分析了两国在经济发展、技术创新和政治韧性上的优劣，并探讨了美国如何从中国的实践中吸取教训，以应对未来的挑战，尤其是在制造业衰退和民粹主义兴起的背景下。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - Dan Wang
-  - Kmele Foster
-  - Elon Musk
-  - Admiral Hyman Rickover
-  - George Washington
-  - Abraham Lincoln
-  - Kamala Harris
-  - Xi Jinping
-  - Peter Thiel
-  - Jake Sullivan
-  - Gina Raimondo
-  - Lina Khan
-  - Brian Deese
-  - Tim Cook
-companies_orgs:
-  - Apple
-  - Nvidia
-  - Google
-  - Ford Motors
-  - Intel
-  - Boeing
-  - Tesla
-  - Xiaomi
-  - CCP
-  - NSF
-  - NIH
-  - FTC
-  - Yale Law School
-  - Big Think
-products_models:
-  - iPhone
-  - GPU
-  - V2 missiles
-  - Accela train
-  - Project Titan
-media_books:
-  - Breakneck
-  - The Economist
-  - Declaration of Independence
 status: evergreen
+summary: 本讨论深入探讨了中国“工程国家”模式与美国“律师国家”模式的根本差异。Dan Wang指出，中国在基础设施建设、制造业和创新方面展现出惊人的速度和规模，但也伴随着社会工程的巨大代价。相比之下，美国在实体建设上停滞不前，但拥有更强的多元主义和言论自由。文章分析了两国在经济发展、技术创新和政治韧性上的优劣，并探讨了美国如何从中国的实践中吸取教训，以应对未来的挑战，尤其是在制造业衰退和民粹主义兴起的背景下。
+tags:
+- development
+- manufacturing
+- model
+- state
+title: 中美科技竞争：工程国家与律师国家模式的未来对决
 ---
+
 ### 中国速度与美国停滞：基础设施与制造业的对比
 
 **Dan Wang:** 你之前说我有点过于悲观，尼尔，但现在我想说得更具末日色彩一点。如果你是美国、日本或德国的汽车制造商，从构思一个新的汽车品牌或车型，到实际将其推向市场，让人们在街上驾驶，大约需要六年时间。

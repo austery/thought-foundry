@@ -1,28 +1,27 @@
 ---
+area: ''
 author: Lei
+category: ''
+created: 1984-01-24T03:00
 date: 2025-07-09
-guest: 
-insight:
+guest: null
+insight: null
 layout: post.njk
-series:
+program: 知行小酒馆
+project: 知行小酒馆
+series: null
 source: https://www.youtube.com/watch?v=giSlEc0ZofI
 speaker: 知行小酒馆
-summary:
-tags:
-  - 视频文稿
-  - 癌症科普
-  - Health
-  - 知行小酒馆
-
-title: E194 当科普面对算法高墙：癌症生物学博士李志忠谈《癌症天敌》与信息茧房的突围
-program: 知行小酒馆
-created: 1984-01-24T03:00
-updated: 2025-09-01T13:04
-area: ""
-project: 知行小酒馆
-category: ""
 status: evergreen
+summary: null
+tags:
+- Health
+- cancer-research
+- video-transcript
+title: E194 当科普面对算法高墙：癌症生物学博士李志忠谈《癌症天敌》与信息茧房的突围
+updated: 2025-09-01T13:04
 ---
+
 ## 引言：科普的持久影响力与现实困境
 
 **雨白:**

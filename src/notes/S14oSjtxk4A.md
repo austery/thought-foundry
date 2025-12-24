@@ -1,62 +1,62 @@
 ---
-author: Harvard Business Review
+area: society-systems
+category: business
+companies_orgs:
+- Pepsi
+- Uber
+- Apple
+- Netflix
+- NBC
+- Saturday Night Live
+- Harvard Business Review
+- ABC
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Almost Famous
+- Fever Pitch
+- The Tonight Show
+- New York Times
+- Uncle Buck
+people:
+- Alison Beard
+- Bozoma Saint John
+- Jimmy Fallon
+- Gavin Purcell
+- Cameron Crowe
+- Lorne Michaels
+- Robert De Niro
+- Ryan Reynolds
+- Charlie Kirk
+- George Floyd
+products_models:
+- Apple Music
+- Beats
+- Flip-Flop
+- TikTok
+- YouTube
+- Twitter
+project:
+- entrepreneurship
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=S14oSjtxk4A
 speaker: Harvard Business Review
-tags:
-  - brand-building
-  - marketing-strategy
-  - leadership-styles
-  - cultural-relevance
-  - authenticity
-title: 吉米·法伦与博佐玛·圣约翰：如何在瞬息万变的时代打造受人喜爱的品牌
-summary: 本期节目中，著名主持人吉米·法伦和营销专家博佐玛·圣约翰探讨了在娱乐、媒体和营销行业剧烈变化的当下，如何捕捉受众注意力并建立持久的品牌。他们分享了关于个人品牌、领导力风格、创意协作以及在文化和政治敏感时期保持真实性的见解，强调了适应变化、拥抱真实和重视团队贡献的重要性，并为面临挑战的领导者提供了宝贵建议。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - entrepreneurship
-  - systems-thinking
-  - cultural-critique
-people:
-  - Alison Beard
-  - Bozoma Saint John
-  - Jimmy Fallon
-  - Gavin Purcell
-  - Cameron Crowe
-  - Lorne Michaels
-  - Robert De Niro
-  - Ryan Reynolds
-  - Charlie Kirk
-  - George Floyd
-companies_orgs:
-  - Pepsi
-  - Uber
-  - Apple
-  - Netflix
-  - NBC
-  - Saturday Night Live
-  - Harvard Business Review
-  - ABC
-products_models:
-  - Apple Music
-  - Beats
-  - Flip-Flop
-  - TikTok
-  - YouTube
-  - Twitter
-media_books:
-  - Almost Famous
-  - Fever Pitch
-  - The Tonight Show
-  - New York Times
-  - Uncle Buck
 status: evergreen
+summary: 本期节目中，著名主持人吉米·法伦和营销专家博佐玛·圣约翰探讨了在娱乐、媒体和营销行业剧烈变化的当下，如何捕捉受众注意力并建立持久的品牌。他们分享了关于个人品牌、领导力风格、创意协作以及在文化和政治敏感时期保持真实性的见解，强调了适应变化、拥抱真实和重视团队贡献的重要性，并为面临挑战的领导者提供了宝贵建议。
+tags:
+- business
+- cultural
+- leadership-style
+- society
+- strategy
+title: 吉米·法伦与博佐玛·圣约翰：如何在瞬息万变的时代打造受人喜爱的品牌
 ---
+
 ### 捕捉瞬息万变的注意力
 
 **ALISON BEARD:** 娱乐、媒体和营销行业自你们二位开始职业生涯以来，已经发生了巨大的变化。

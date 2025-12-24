@@ -1,107 +1,107 @@
 ---
-author: Amit Kukreja
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=8zt_fJCWQT0'
-speaker: Amit Kukreja
-tags:
-  - earnings-report
-  - tech-stocks
-  - market-reaction
-  - cloud-computing-growth
-  - investor-sentiment
-title: 亚马逊财报震撼市场：AWS重回增长轨道，苹果发布强劲指引
-summary: 在市场普遍下跌的背景下，亚马逊发布了超预期的财报，其核心业务AWS（亚马逊网络服务）同比增长20%，重回高速增长轨道，推动股价盘后大涨。苹果公司虽然iPhone收入未达预期，但凭借强劲的第四季度营收指引（预计增长10-12%），股价同样逆势上扬并创下新高。本期内容深入分析了这两大科技巨头的财报亮点，并涵盖了Coinbase、Reddit、Meta等其他关键公司的业绩表现和市场反应。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Andy Jassy
-  - Tim Cook
-  - Jeff Bezos
-  - Steve Huffman
-  - Mackenzie Sagalos
-  - Julia Boorstin
-  - Dan Ives
-  - Sundar Pichai
-  - Larry Fink
-  - Jamie Dimon
-  - Vlad Tenev
-  - Brian Olsavsky
-  - Susan Li
+category: finance
 companies_orgs:
-  - Amazon
-  - Apple
-  - Coinbase
-  - MicroStrategy
-  - Roku
-  - Reddit
-  - Meta
-  - Nvidia
-  - Google
-  - Microsoft
-  - AMD
-  - Rocket Lab
-  - Duolingo
-  - Chipotle
-  - Netflix
-  - Cloudflare
-  - Atlassian
-  - Twilio
-  - First Solar
-  - Zillow
-  - Oracle
-  - OpenAI
-  - BlackRock
-  - JPMorgan Chase
-  - Robinhood
-  - Anthropic
-  - Intel
-  - Western Digital
-  - PayPal
-  - Tesla
-  - SoFi
-  - Grab
-  - QuantumScape
-  - D-Wave
-  - Rigetti Computing
-  - Lumen
-  - Spotify
-  - SiriusXM
-  - TD Cowen
-  - Goldman Sachs
-  - Morgan Stanley
-  - Bank of America
-  - Evercore ISI
-  - Baird
-  - Federal Trade Commission (FTC)
-products_models:
-  - AWS (Amazon Web Services)
-  - iPhone
-  - Siri
-  - Tranium
-  - Blackwell
-  - SageMaker
-  - Bedrock
-  - Rufus
-  - Alexa
-  - Project Kuiper
-  - Zoox
-  - Prime Video
-  - Amazon DSP
-  - Graviton
-  - EC2
-  - Gemini
+- Amazon
+- Apple
+- Coinbase
+- MicroStrategy
+- Roku
+- Reddit
+- Meta
+- Nvidia
+- Google
+- Microsoft
+- AMD
+- Rocket Lab
+- Duolingo
+- Chipotle
+- Netflix
+- Cloudflare
+- Atlassian
+- Twilio
+- First Solar
+- Zillow
+- Oracle
+- OpenAI
+- BlackRock
+- JPMorgan Chase
+- Robinhood
+- Anthropic
+- Intel
+- Western Digital
+- PayPal
+- Tesla
+- SoFi
+- Grab
+- QuantumScape
+- D-Wave
+- Rigetti Computing
+- Lumen
+- Spotify
+- SiriusXM
+- TD Cowen
+- Goldman Sachs
+- Morgan Stanley
+- Bank of America
+- Evercore ISI
+- Baird
+- Federal Trade Commission (FTC)
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Andy Jassy
+- Tim Cook
+- Jeff Bezos
+- Steve Huffman
+- Mackenzie Sagalos
+- Julia Boorstin
+- Dan Ives
+- Sundar Pichai
+- Larry Fink
+- Jamie Dimon
+- Vlad Tenev
+- Brian Olsavsky
+- Susan Li
+products_models:
+- AWS (Amazon Web Services)
+- iPhone
+- Siri
+- Tranium
+- Blackwell
+- SageMaker
+- Bedrock
+- Rufus
+- Alexa
+- Project Kuiper
+- Zoox
+- Prime Video
+- Amazon DSP
+- Graviton
+- EC2
+- Gemini
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
+source: https://www.youtube.com/watch?v=8zt_fJCWQT0
+speaker: Amit Kukreja
 status: evergreen
+summary: 在市场普遍下跌的背景下，亚马逊发布了超预期的财报，其核心业务AWS（亚马逊网络服务）同比增长20%，重回高速增长轨道，推动股价盘后大涨。苹果公司虽然iPhone收入未达预期，但凭借强劲的第四季度营收指引（预计增长10-12%），股价同样逆势上扬并创下新高。本期内容深入分析了这两大科技巨头的财报亮点，并涵盖了Coinbase、Reddit、Meta等其他关键公司的业绩表现和市场反应。
+tags:
+- cloud-computing-growth
+- earnings-report
+- investor-sentiment
+- market-reaction
+- tech-stock
+title: 亚马逊财报震撼市场：AWS重回增长轨道，苹果发布强劲指引
 ---
+
 ### 收盘前市场情绪低迷
 好的，各位，欢迎回到新一期的《市场收盘》直播节目。我们有很多公司要讨论，包括亚马逊、苹果、Coinbase、MicroStrategy 和 Roku。显然，亚马逊和苹果是重头戏，我们将在接下来的15分钟内关注并获取它们的业绩。
 

@@ -1,31 +1,30 @@
 ---
-title: GE Vernova：从“没落帝国”剥离，到AI电力危机下的大赢家
-summary: AI时代引发了前所未有的电力需求，全球正进入新一轮电力超级周期。GE Vernova (GEV)，这家从通用电气（GE）剥离出的公司，凭借其在燃气轮机领域的绝对优势、对小型模块化核反应堆（SMR）的战略布局以及电网解决方案业务，完美契合了市场的急迫需求。在AI数据中心、制造业回流和全面电气化的推动下，GEV从一项曾被视为负债的业务，转变为解决电力危机的关键“卖铲人”，股价表现甚至超越了英伟达。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - ge-vernova
-  - 燃气轮机
-  - 电力危机
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-08-14
+area: tech-engineering
 author: Lei
-speaker: 硅谷101
+category: ai-ml
 channel: null
+companies_orgs: []
+date: 2025-08-14
 draft: true
 file_name: GE_Vernova_AI_power_crisis_big_winner.md
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=pNDQGI4RFzo
+speaker: 硅谷101
+summary: AI时代引发了前所未有的电力需求，全球正进入新一轮电力超级周期。GE Vernova (GEV)，这家从通用电气（GE）剥离出的公司，凭借其在燃气轮机领域的绝对优势、对小型模块化核反应堆（SMR）的战略布局以及电网解决方案业务，完美契合了市场的急迫需求。在AI数据中心、制造业回流和全面电气化的推动下，GEV从一项曾被视为负债的业务，转变为解决电力危机的关键“卖铲人”，股价表现甚至超越了英伟达。
+tags:
+- technology
+- 电力危机
+title: GE Vernova：从“没落帝国”剥离，到AI电力危机下的大赢家
+companies:
+- ge-vernovum
 ---
+
 ## AI时代的电力新革命
 
 AI时代，电力需要一场新革命。而当下，全球正掀起自二战以来新一轮电力超级周期。这就是为什么华尔街交易员们的目光，从英伟达转向了电力股。今年以来，一系列电力能源股的涨势惊人。它们不再是过去那种沉闷、稳定的公用事业股，而是摇身一变，成为了科技革命的新宠。

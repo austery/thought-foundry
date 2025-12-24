@@ -1,38 +1,38 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Braintrust
 date: '2025-08-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ankur Goyal
+products_models:
+- Loop
+- Claude 4
+- OpenAI models
+- Gemini models
+- LLMs
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=MC55hdWLq4o
 speaker: AI Engineer
-tags:
-  - ai-evaluation
-  - prompt-optimization
-  - llm-performance
-  - agent-development
-  - automation
-title: AI评估的未来：Braintrust如何通过Loop实现自动化和优化
-summary: 本文探讨了人工智能评估（evals）的现状与未来趋势。Braintrust团队发现，尽管AI产品日益自动化，但评估过程仍高度依赖人工。为解决这一痛点，Braintrust开发了名为Loop的AI代理，它能自动优化提示词、数据集和评分器。得益于Claude 4等前沿模型的突破性进展，Loop的性能显著提升，有望彻底改变AI评估的效率和质量，使开发者能更高效地构建顶尖AI产品。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Ankur Goyal
-companies_orgs:
-  - Braintrust
-products_models:
-  - Loop
-  - Claude 4
-  - OpenAI models
-  - Gemini models
-  - LLMs
-media_books: []
 status: evergreen
+summary: 本文探讨了人工智能评估（evals）的现状与未来趋势。Braintrust团队发现，尽管AI产品日益自动化，但评估过程仍高度依赖人工。为解决这一痛点，Braintrust开发了名为Loop的AI代理，它能自动优化提示词、数据集和评分器。得益于Claude
+  4等前沿模型的突破性进展，Loop的性能显著提升，有望彻底改变AI评估的效率和质量，使开发者能更高效地构建顶尖AI产品。
+tags:
+- ai-evaluation
+- automation
+- development
+- optimization
+- performance
+title: AI评估的未来：Braintrust如何通过Loop实现自动化和优化
 ---
+
 ### AI评估的现状与未来展望
 
 今天，我们将探讨迄今为止的**评估**（Evals: 人工智能模型或产品的性能评估）现状，以及我们认为评估未来将走向何方。

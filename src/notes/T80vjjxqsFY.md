@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国政府
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《史记》
+people:
+- 滨崎步
+- 孔子
+- Naval Ravikant
+- 甘地
+- 尼赫鲁
+products_models:
+- 柯尔特M1911手枪
+project:
+- china-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=T80vjjxqsFY
 speaker: 徒步的騎手
-tags:
-  - professionalism
-  - state-control
-  - cultural-repression
-  - cognitive-dissonance
-  - freedom-of-expression
-  - dignity-and-resilience
-title: 滨崎步空场演出：文明与野蛮的对照——从契约精神看中国政府的反应
-summary: 本文从作者驾车穿越德克萨斯的经历切入，讲述了日本歌手滨崎步在上海演唱会被取消后，仍坚持为无观众剧场完整演出的事件。作者将滨崎步的专业精神和个人品格，与中国政府对一场商业演出的过度反应和后续骚扰行为形成鲜明对比。文章通过“沐猴而冠”的典故和“认知脑死亡”的批判，深刻探讨了文明与野蛮、契约精神与滥用权力之间的冲突，并呼吁个体在压制面前坚守自我舞台。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - 滨崎步
-  - 孔子
-  - Naval Ravikant
-  - 甘地
-  - 尼赫鲁
-companies_orgs:
-  - 中国政府
-products_models:
-  - 柯尔特M1911手枪
-media_books:
-  - 《史记》
 status: evergreen
+summary: 本文从作者驾车穿越德克萨斯的经历切入，讲述了日本歌手滨崎步在上海演唱会被取消后，仍坚持为无观众剧场完整演出的事件。作者将滨崎步的专业精神和个人品格，与中国政府对一场商业演出的过度反应和后续骚扰行为形成鲜明对比。文章通过“沐猴而冠”的典故和“认知脑死亡”的批判，深刻探讨了文明与野蛮、契约精神与滥用权力之间的冲突，并呼吁个体在压制面前坚守自我舞台。
+tags:
+- business
+- cognitive
+- control
+- cultural
+- dignity-and-resilience
+- freedom
+title: 滨崎步空场演出：文明与野蛮的对照——从契约精神看中国政府的反应
 ---
 
 我从家里出发，一路向西，开车穿过了德克萨斯。第一站的目的地是德州边境的**Big Bend National Park（大湾国家公园）**。

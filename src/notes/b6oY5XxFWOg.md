@@ -1,32 +1,28 @@
 ---
-title: 投资的陷阱：为何等待市场信号明确再行动注定失败
-summary: 本文深入探讨了为何“等待市场信号明确再投资”是一种无效的策略。通过剖析错误的投资世界模型，揭示了市场波动并非正态分布，而是受复杂系统、幂律分布和黑天鹅事件影响。文章强调，在充满不确定性的市场中，持续留在市场并调整心态是获取成功的关键。
-area: market-analysis
-category: finance
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - market-cycles
-tags:
-  - black-swan-events
-  - financial-markets
-  - investment-strategy
-  - market-uncertainty
-  - power-law
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-11-16'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=b6oY5XxFWOg
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入探讨了为何“等待市场信号明确再投资”是一种无效的策略。通过剖析错误的投资世界模型，揭示了市场波动并非正态分布，而是受复杂系统、幂律分布和黑天鹅事件影响。文章强调，在充满不确定性的市场中，持续留在市场并调整心态是获取成功的关键。
+tags:
+- financial-market
+- market
+- power
+- technology
+title: 投资的陷阱：为何等待市场信号明确再行动注定失败
 ---
 
 ### 常见的投资误区：等待明确信号

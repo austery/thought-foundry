@@ -6,12 +6,10 @@ category: technology
 project:
 - vibe-coding
 tags:
-  - vibe-coding
-  - 工作流
-people: []
+- code
+- vibe-coding
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-12'
 author: Lei
 speaker: 用AI發電

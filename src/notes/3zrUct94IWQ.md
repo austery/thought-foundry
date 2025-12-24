@@ -1,45 +1,44 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs:
+- Google
+- Apple
+- Twitter
 date: '2025-07-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Power of Now
+- The Courage to Be Disliked
+- Spring, Summer, Fall, Winter, and Spring
+people:
+- Eckhart Tolle
+- Lacan
+- Foucault
+- Bourdieu
+- Kohler
+- Witmer
+- Koffka
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=3zrUct94IWQ
 speaker: Anthony看世界
-tags:
-  - present-moment
-  - mindfulness-critique
-  - cognitive-function
-  - philosophical-differences
-  - societal-impact
-title: 批判《当下的力量》：放弃思维真的能带来自由吗？
-summary: 本文深入探讨并批判了全球流行的“活在当下”哲学，以埃克哈特·托利（Eckhart Tolle）的《当下的力量》为例，剖析其“放弃思维、回归本体”的核心主张。作者认为，将思维与痛苦划等号是逻辑混淆，人类的判断、概念和语言是应对复杂世界的必要认知工具，而非束缚。文章结合西方哲学（如拉康、福柯、布迪厄）对语言的批判，强调真正的自由在于审慎思考和积极对抗，而非盲目顺从现状或追求与世隔绝的宁静。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - historical-insights
-people:
-  - Eckhart Tolle
-  - Lacan
-  - Foucault
-  - Bourdieu
-  - Kohler
-  - Witmer
-  - Koffka
-companies_orgs:
-  - Google
-  - Apple
-  - Twitter
-products_models: []
-media_books:
-  - The Power of Now
-  - The Courage to Be Disliked
-  - Spring, Summer, Fall, Winter, and Spring
 status: evergreen
+summary: 本文深入探讨并批判了全球流行的“活在当下”哲学，以埃克哈特·托利（Eckhart Tolle）的《当下的力量》为例，剖析其“放弃思维、回归本体”的核心主张。作者认为，将思维与痛苦划等号是逻辑混淆，人类的判断、概念和语言是应对复杂世界的必要认知工具，而非束缚。文章结合西方哲学（如拉康、福柯、布迪厄）对语言的批判，强调真正的自由在于审慎思考和积极对抗，而非盲目顺从现状或追求与世隔绝的宁静。
+tags:
+- cognitive
+- critique
+- philosophy
+- societal-impact
+- society
+title: 批判《当下的力量》：放弃思维真的能带来自由吗？
 ---
 
 ### 引言：对流行思潮的深度剖析

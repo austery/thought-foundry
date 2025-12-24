@@ -1,37 +1,34 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- COFIT 我的專屬營養師
+- 初日醫學
 date: '2025-01-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 魏士航醫師
+- 王盈荃營養師
+- 宋晏仁醫師
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=nRRtVqle8w4
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - healthy-snacks
-  - mindful-eating
-  - food-choices
-  - nutrition-tips
-  - processed-foods
-title: 健康零食大盘点：过年也能安心吃，营养师教你如何选
-summary: 本期节目针对大众对超加工食品的担忧，深入探讨了如何在节日期间选择相对健康的零食。节目强调，虽然没有零食是绝对健康的，但通过了解其加工过程、糖盐脂含量，我们可以将其分为“健康”、“稍微不健康”和“不健康”三类。营养师和医师共同评测了海苔、坚果、黑巧克力、毛豆、豌豆脆片、玉米糙米脆片、洋芋片、烤酥豆及各类果干和蔬果脆片，并提供了实用的选择建议，旨在帮助观众重新建立与零食的健康关系，做到既满足口腹之欲，又能兼顾身体健康。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 魏士航醫師
-  - 王盈荃營養師
-  - 宋晏仁醫師
-companies_orgs:
-  - 初日診所
-  - COFIT 我的專屬營養師
-  - 初日醫學
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目针对大众对超加工食品的担忧，深入探讨了如何在节日期间选择相对健康的零食。节目强调，虽然没有零食是绝对健康的，但通过了解其加工过程、糖盐脂含量，我们可以将其分为“健康”、“稍微不健康”和“不健康”三类。营养师和医师共同评测了海苔、坚果、黑巧克力、毛豆、豌豆脆片、玉米糙米脆片、洋芋片、烤酥豆及各类果干和蔬果脆片，并提供了实用的选择建议，旨在帮助观众重新建立与零食的健康关系，做到既满足口腹之欲，又能兼顾身体健康。
+tags:
+- health
+- life
+- psychology
+title: 健康零食大盘点：过年也能安心吃，营养师教你如何选
 ---
+
 ### 重新定义零食：健康与选择的平衡
 
 在上次关于**超加工食品**（Ultra-processed foods: 经过多重工业加工，通常含有大量添加糖、盐、不健康脂肪及人工添加剂的食品）的影片播出后，许多观众留言表示希望看到更多类似内容，甚至有人直接要求制作一期关于相对健康零食的节目。因此，本期节目旨在为大家盘点热门零食。主持人魏醫師首先指出，吃零食这件事基本上不可能完全健康，但希望通过本期节目，让大家以不同的视角认识这些零食。在了解它们之后，无论选择完全不吃、适量吃还是挑着吃，都是基于理解后做出的选择，从而重新建立与零食的关系。

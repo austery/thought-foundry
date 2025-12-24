@@ -8,26 +8,25 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
-  - ai应用开发
-  - vibe-coding
-  - 个人项目
-  - 社群建设
+- llm
+- vibe-coding
+- 个人项目
+- 社群建设
 people:
-  - Ray
-  - 嘉宾
-  - 子龙
-  - 小西瓜
-  - Aska
-  - Remy
-  - Mike
-  - Sirena
-  - Cathy
-  - Wendy
-  - Sophia
-  - 赵硕
+- Ray
+- 嘉宾
+- 子龙
+- 小西瓜
+- Aska
+- Remy
+- Mike
+- Sirena
+- Cathy
+- Wendy
+- Sophia
+- 赵硕
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-08-11
 author: Lei
 speaker: 用AI發電
@@ -40,6 +39,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与新工具讨论
 
 Ray: 哈喽，小西瓜，我先邀请你们上来一下。麦克也来了。我现在发现一个特别特别好用的浏览器，应该都知道，就是那个 **Perplexity** 新出的那个 **Comet**，我已经用上了，这真的名不虚传。

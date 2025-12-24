@@ -1,34 +1,32 @@
 ---
-title: 媒体解读“滞涨”：GDP数据与科技股财报深度分析
-summary: 本期节目深入分析GDP数据、核心PCE及科技巨头财报（微软、Meta、Visa、Booking、星巴克），探讨市场对“滞涨”的误读，并更新市场参与度指标，提供投资策略建议。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- gdp-analysis
-- investment-strategy
-- market-analysis
-- tech-earnings
-- us-economy
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-05-01'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=3gFMO1K7N-E
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入分析GDP数据、核心PCE及科技巨头财报（微软、Meta、Visa、Booking、星巴克），探讨市场对“滞涨”的误读，并更新市场参与度指标，提供投资策略建议。
+tags:
+- analysis
+- market-analysis
+- tech-earning
+- us-economy
+title: 媒体解读“滞涨”：GDP数据与科技股财报深度分析
 ---
+
 ### 市场概览与GDP数据解读
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小桃。今天这期视频内容丰富，将和大家分享五家公司的财报、周三整个市场的走势、整个4月份的走势、周三所公布的一些宏观数据以及特斯拉的相关新闻。

@@ -1,57 +1,57 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- House Oversight Committee
+- Justice Department
+- CNN
+- White House
+- Congress
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Access Hollywood tape
+people:
+- Jeffrey Epstein
+- Donald Trump
+- Rachel Abrams
+- David Enrich
+- Michael Gold
+- Ghislaine Maxwell
+- Michael Wolf
+- Virginia Giuffre
+- Mike Johnson
+- Ro Khanna
+- Thomas Massie
+- Adelita Grijalva
+- Nancy Mace
+- Lauren Boebert
+- Marjorie Taylor Greene
+- Bill Clinton
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=lcw_PsfMJ3o
 speaker: New York Times Podcasts
-tags:
-  - epstein-files
-  - political-leverage
-  - campaign-strategy
-  - congressional-oversight
-  - journalistic-ethics
-title: 爱泼斯坦新邮件揭示特朗普关联及其政治博弈
-summary: 最新披露的数千页杰弗里·爱泼斯坦邮件，再次将他与唐纳德·特朗普的关系推向聚光灯下。本文详细分析了三封关键邮件，揭示爱泼斯坦可能掌握特朗普的负面信息，并试图以此获取政治筹码。同时，文章深入探讨了国会山民主党和共和党发布这些文件的政治动机，以及“解除请愿”机制在推动爱泼斯坦档案全面公开中的作用，及其对特朗普政治形象和2024年大选的潜在影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jeffrey Epstein
-  - Donald Trump
-  - Rachel Abrams
-  - David Enrich
-  - Michael Gold
-  - Ghislaine Maxwell
-  - Michael Wolf
-  - Virginia Giuffre
-  - Mike Johnson
-  - Ro Khanna
-  - Thomas Massie
-  - Adelita Grijalva
-  - Nancy Mace
-  - Lauren Boebert
-  - Marjorie Taylor Greene
-  - Bill Clinton
-companies_orgs:
-  - New York Times
-  - House Oversight Committee
-  - Justice Department
-  - CNN
-  - White House
-  - Congress
-products_models: []
-media_books:
-  - The Daily
-  - Access Hollywood tape
 status: evergreen
+summary: 最新披露的数千页杰弗里·爱泼斯坦邮件，再次将他与唐纳德·特朗普的关系推向聚光灯下。本文详细分析了三封关键邮件，揭示爱泼斯坦可能掌握特朗普的负面信息，并试图以此获取政治筹码。同时，文章深入探讨了国会山民主党和共和党发布这些文件的政治动机，以及“解除请愿”机制在推动爱泼斯坦档案全面公开中的作用，及其对特朗普政治形象和2024年大选的潜在影响。
+tags:
+- campaign-strategy
+- congressional-oversight
+- epstein-file
+- ethics
+- political
+title: 爱泼斯坦新邮件揭示特朗普关联及其政治博弈
 ---
+
 ### 爱泼斯坦邮件风波再起
 
 Rachel Abrams: 大家好，我是《**纽约时报**》（New York Times: 美国知名报纸）的蕾切尔·艾布拉姆斯，这里是《**每日**》（The Daily: 纽约时报播客节目）。

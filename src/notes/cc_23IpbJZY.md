@@ -1,53 +1,52 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- APEC
+- Huawei
+- ZTE
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Xi Jinping
+- Mark Carney
+- Ronald Reagan
+- Joe Biden
+- Lee Jae-myung
+- Takako Sanae
+- Anthony Albanese
+- Anwar Ibrahim
+- Prabowo Subianto
+- Gabriel Boric
+- Christopher Luxon
+- Ferdinand Marcos Jr.
+- Lawrence Wong
+- Srettha Thavisin
+- Lương Cường
+- Doug Ford
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=cc_23IpbJZY
 speaker: 莊也雜談
-tags:
-  - us-china-trade-war
-  - apec-summit
-  - canada-trade-diversification
-  - geopolitical-strategy
-  - rare-earth-control
-title: 中美休战：卡尼的东方棋局与加拿大贸易多元化之路
-summary: 近期中美两国在APEC峰会期间达成贸易休战协议，缓解了全球金融市场的紧张情绪。本文深入分析了此次会谈的背景、具体协议内容及其对中美双方的战略意义。同时，文章重点关注加拿大总理马克·卡尼的亚洲之行，揭示加拿大如何通过推动贸易多元化，减少对单一经济体的依赖，从而在复杂的国际局势中寻求自主发展，摆脱长期以来作为附庸的经济困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Mark Carney
-  - Ronald Reagan
-  - Joe Biden
-  - Lee Jae-myung
-  - Takako Sanae
-  - Anthony Albanese
-  - Anwar Ibrahim
-  - Prabowo Subianto
-  - Gabriel Boric
-  - Christopher Luxon
-  - Ferdinand Marcos Jr.
-  - Lawrence Wong
-  - Srettha Thavisin
-  - Lương Cường
-  - Doug Ford
-companies_orgs:
-  - APEC
-  - Huawei
-  - ZTE
-products_models: []
-media_books: []
 status: evergreen
+summary: 近期中美两国在APEC峰会期间达成贸易休战协议，缓解了全球金融市场的紧张情绪。本文深入分析了此次会谈的背景、具体协议内容及其对中美双方的战略意义。同时，文章重点关注加拿大总理马克·卡尼的亚洲之行，揭示加拿大如何通过推动贸易多元化，减少对单一经济体的依赖，从而在复杂的国际局势中寻求自主发展，摆脱长期以来作为附庸的经济困境。
+tags:
+- apec-summit
+- geopolitical-strategy
+- rare-earth-control
+- trade
+- us-china-relations
+title: 中美休战：卡尼的东方棋局与加拿大贸易多元化之路
 ---
+
 ### 中美APEC峰會：世紀大和解？
 
 最近幾天，全世界總算是暫時鬆了一口氣。就在幾天前，中美這兩個超級大國還在你一拳我一腳地互相加碼關稅壁壘，眼看局勢就要滑向世界末日。全球金融市場也跟著坐過山車，許多投資賬戶虧損嚴重。就在所有人都捏著一把汗，不知道這世界第一和世界第二究竟要鬥到什麼時候才是個頭時，卻突然宣布不打了，休戰了。這到底是怎麼回事？是什麼讓一向強硬的川大統領和一向沉穩的習總書記，在這次**APEC**（Asia-Pacific Economic Cooperation: 亞太經合組織，促進亞太地區經濟增長與繁榮的論壇）峰會上，上演了這麼一出世紀大和解？這場會談背後究竟達成了哪些交易？這究竟是真正的停戰，還是僅僅是一個中場休息，好讓雙方回去補充裝備，準備下一輪更激烈的較量？今天咱們就好好來扒一扒這台前幕後的精彩大戲。

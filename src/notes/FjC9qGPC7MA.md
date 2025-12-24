@@ -1,32 +1,29 @@
 ---
-title: 机器人GPT-3时刻：具身智能开源模型的加速与挑战
-summary: 本期节目邀请Physical Intelligence与自变量机器人嘉宾，探讨具身智能模型的最新进展，聚焦泛化能力、长程任务、数据挑战及开源生态，展望机器人迈向GPT-3时刻的路径。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- '101'
-- ai-generalization
-- data-challenges
-- embodied-ai
-- open-source-ai
-- robotics-models
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-09'
-author: 硅谷101播客
-speaker: 硅谷101播客
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=FjC9qGPC7MA
+speaker: 硅谷101播客
 status: evergreen
+summary: 本期节目邀请Physical Intelligence与自变量机器人嘉宾，探讨具身智能模型的最新进展，聚焦泛化能力、长程任务、数据挑战及开源生态，展望机器人迈向GPT-3时刻的路径。
+tags:
+- '101'
+- challenge
+- llm
+- model
+- open-source-ai
+title: 机器人GPT-3时刻：具身智能开源模型的加速与挑战
 ---
+
 ### 播客引言与活动预告
 
 泓君: 欢迎收听《硅谷101》，我是泓君。上一期节目我们预告了硅谷101全球创业挑战赛，收到了好多听众的来信，大家询问今年硅谷101科技峰会的报名链接。现在，购票链接已放在Show Notes中。去年的活动是半天时间，今年已升级为整整一天，设有上下两层会场。我们邀请了全球顶尖的科学家、投资人、创业者，有些甚至是第一次在现场分享最新的研究成果与行业洞察。此外，我们还会聊一聊《硅谷101》内容创作幕后的故事，以及我们对AI工具的应用与思考。这是一个面向全美的活动，所以为《硅谷101》的粉丝申请了一个85折的折扣码，大家可以在购票时输入“valley 101 fans”，折扣码也放在Show Notes中。我们还将在评论区抽取三名听众免费赠票，鉴于活动在硅谷线下举行，我们将优先考虑硅谷的听众。欢迎大家积极留言，期待与大家线下见面。下面请收听我们今天的节目。

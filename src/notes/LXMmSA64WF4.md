@@ -1,37 +1,37 @@
 ---
-author: 超級歪 SuperY
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Practice of Non-Reaction
+- Jingji
+- Vinaya Pitaka
+people:
+- Kusanagi Ryushun
+- Buddha
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=LXMmSA64WF4
 speaker: 超級歪 SuperY
-tags:
-  - non-reaction-practice
-  - buddhist-wisdom
-  - mental-exhaustion
-  - desire-management
-  - judgment-bias
-  - virtual-competition
-title: 《不反应练习》：2500年前的佛教智慧如何解决现代人的内耗烦恼？
-summary: 本文深入探讨了日本畅销书《不反应练习》的核心理念，该书作者草薙龙瞬结合2500年前的早期佛教智慧，为现代人提供了应对精神内耗、过度反应、欲望执着和不必要评判的方法。文章详细阐述了如何通过观察内心、理解欲望根源、区分判断与事实，以及培养慈悲心来摆脱痛苦，实现内心的平静与自由，从而在充满竞争的社会中活得更加超然。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Kusanagi Ryushun
-  - Buddha
-companies_orgs: []
-products_models: []
-media_books:
-  - The Practice of Non-Reaction
-  - Jingji
-  - Vinaya Pitaka
 status: evergreen
+summary: 本文深入探讨了日本畅销书《不反应练习》的核心理念，该书作者草薙龙瞬结合2500年前的早期佛教智慧，为现代人提供了应对精神内耗、过度反应、欲望执着和不必要评判的方法。文章详细阐述了如何通过观察内心、理解欲望根源、区分判断与事实，以及培养慈悲心来摆脱痛苦，实现内心的平静与自由，从而在充满竞争的社会中活得更加超然。
+tags:
+- bias
+- competition
+- geopolitical
+- management
+- non
+- philosophy
+title: 《不反应练习》：2500年前的佛教智慧如何解决现代人的内耗烦恼？
 ---
+
 ### 介绍《不反应练习》
 
 现代人的精神内耗问题最近在网络上引起了频繁讨论。

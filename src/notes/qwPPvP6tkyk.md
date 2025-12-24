@@ -1,37 +1,34 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 海螺水泥
+- 招商银行
+- 宁德时代
+- 药明康德
 date: '2025-07-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- china-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=qwPPvP6tkyk
 speaker: 海淀拙大叔
-tags:
-  - a-h-shares
-  - investment-strategy
-  - market-style-shift
-  - economic-outlook
-  - hong-kong-market-dynamics
-title: A股H股两地上市：寻找超额收益的确定性投资机会
-summary: 本文深入探讨了A股和H股两地上市公司的投资机会，特别是如何寻找H股溢价的套利空间。分析指出，经济复苏向繁荣期转变时，市场风格将从红利股转向龙头蓝筹股。文章还结合PMI数据预测A股下半年上涨，并解释了港股上涨的资金面原因。最后，通过宁德时代、招商银行、药明康德等案例，揭示了外资审美偏好及H股溢价公司的共同特征，为投资者提供了具体的策略指引。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-  - market-cycles
-people: []
-companies_orgs:
-  - 海螺水泥
-  - 招商银行
-  - 宁德时代
-  - 药明康德
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了A股和H股两地上市公司的投资机会，特别是如何寻找H股溢价的套利空间。分析指出，经济复苏向繁荣期转变时，市场风格将从红利股转向龙头蓝筹股。文章还结合PMI数据预测A股下半年上涨，并解释了港股上涨的资金面原因。最后，通过宁德时代、招商银行、药明康德等案例，揭示了外资审美偏好及H股溢价公司的共同特征，为投资者提供了具体的策略指引。
+tags:
+- economic-outlook
+- hong-kong-market-dynamic
+- market
+- technology
+title: A股H股两地上市：寻找超额收益的确定性投资机会
 ---
+
 ### A股H股两地上市公司的投资机会与超额收益
 
 阿甘公司研究论第21集，探讨那些**A股**（A-shares: 中国内地股票市场上市的股票）同时在**H股**（H-shares: 在香港股票市场上市的股票）上市的公司，是否会提供最确定的投资机会。大叔的结论是，我们一定要找到A股H股的超额收益，这主要来自于以下几个方面：

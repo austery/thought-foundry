@@ -1,46 +1,43 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Amazon
+- AWS
+- Google
+- Meta
+- Alibaba
+- Tencent
+- SpaceX
+- Tesla
+- Berkshire Hathaway
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jeff Bezos
+- Warren Buffett
+products_models:
+- Starlink
+- Project Kuiper
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=yVsIPoWOwIc
 speaker: Shijun Tang
-tags:
-  - amazon-financials
-  - business-strategy
-  - corporate-culture
-  - competitive-moat
-  - investment-analysis
-title: 亚马逊：深度解析其商业帝国、投资哲学与未来潜力
-summary: 本期视频深入探讨了亚马逊的近期股价表现、财务报告和基本面优势。文章分析了亚马逊多元化的业务板块，包括其主导的电商业务、高速增长的AWS云服务以及其他众多新兴投资。同时，文中还剖析了亚马逊独特的企业文化、长期投资哲学及其强大的竞争护城河。通过详细的财务数据分析和个人投资经验分享，本文评估了亚马逊是否真如其名，是一台“无敌的复利机器”，并展望了其未来的发展潜力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Shijun Tang
-  - Jeff Bezos
-  - Warren Buffett
-companies_orgs:
-  - Amazon
-  - AWS
-  - Google
-  - Meta
-  - Alibaba
-  - Tencent
-  - SpaceX
-  - Tesla
-  - Berkshire Hathaway
-products_models:
-  - Starlink
-  - Project Kuiper
-media_books: []
 status: evergreen
+summary: 本期视频深入探讨了亚马逊的近期股价表现、财务报告和基本面优势。文章分析了亚马逊多元化的业务板块，包括其主导的电商业务、高速增长的AWS云服务以及其他众多新兴投资。同时，文中还剖析了亚马逊独特的企业文化、长期投资哲学及其强大的竞争护城河。通过详细的财务数据分析和个人投资经验分享，本文评估了亚马逊是否真如其名，是一台“无敌的复利机器”，并展望了其未来的发展潜力。
+tags:
+- business-strategy
+- corporate-culture
+- financial
+- investment
+title: 亚马逊：深度解析其商业帝国、投资哲学与未来潜力
 ---
+
 ### 亚马逊股价表现与个人投资复盘
 
 亚马逊的股价在最近200天内一度上涨了60.24%，并再次刷新历史新高。这引发了人们对其股价能否持续上涨、以及当前价格是否仍具买入价值的疑问。本期视频将从公司最新财报、基本面以及护城河等多个维度，深入探讨美股亚马逊。

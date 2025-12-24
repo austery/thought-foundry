@@ -1,69 +1,69 @@
 ---
-author: Big Think
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Big Think
 date: '2025-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Instant Classics
+- Gladiator I
+- Gladiator II
+- The Odyssey
+- I, Claudius
+- Aeneid
+people:
+- Mary Beard
+- Julius Caesar
+- Augustus
+- Octavian
+- Mark Antony
+- Cleopatra
+- Pompey the Great
+- Mithridates
+- Vespasian
+- Titus
+- Seneca
+- Nero
+- Cincinnatus
+- Tiberius Gracchus
+- Gaius Gracchus
+- Cornelia
+- Catiline
+- Marcus Tullius Cicero
+- Cornelius Tacitus
+- Romulus
+- Robert Graves
+- Alexander the Great
+- George Orwell
+- Homer
+- Telemachus
+- Penelope
+- Emily Wilson
+- Daniel Mendelsohn
+- Christopher Nolan
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=v_yP8C7uo3Y
 speaker: Big Think
-tags:
-  - roman-history
-  - historical-mythbusting
-  - power-and-society
-  - cultural-legacy
-  - translation-and-interpretation
-title: 好莱坞骗了你：历史学家玛丽·比尔德揭示古罗马的真实面貌
-summary: 著名历史学家玛丽·比尔德深入剖析了好莱坞电影对古罗马的普遍误解。她揭示了罗马社会的多样性、角斗场赛事的真实氛围（更像歌剧而非狂热血腥的比赛），以及凯旋仪式背后的复杂含义。比尔德还探讨了奴隶制在日常生活中的核心作用，并重新评估了奥古斯都、凯撒等关键历史人物的深远影响，最后延伸讨论了《奥德赛》的翻译与解读，强调历史叙事与现代对话的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-  - cultural-critique
-people:
-  - Mary Beard
-  - Julius Caesar
-  - Augustus
-  - Octavian
-  - Mark Antony
-  - Cleopatra
-  - Pompey the Great
-  - Mithridates
-  - Vespasian
-  - Titus
-  - Seneca
-  - Nero
-  - Cincinnatus
-  - Tiberius Gracchus
-  - Gaius Gracchus
-  - Cornelia
-  - Catiline
-  - Marcus Tullius Cicero
-  - Cornelius Tacitus
-  - Romulus
-  - Robert Graves
-  - Alexander the Great
-  - George Orwell
-  - Homer
-  - Telemachus
-  - Penelope
-  - Emily Wilson
-  - Daniel Mendelsohn
-  - Christopher Nolan
-companies_orgs:
-  - Big Think
-products_models: []
-media_books:
-  - Instant Classics
-  - Gladiator I
-  - Gladiator II
-  - The Odyssey
-  - I, Claudius
-  - Aeneid
 status: evergreen
+summary: 著名历史学家玛丽·比尔德深入剖析了好莱坞电影对古罗马的普遍误解。她揭示了罗马社会的多样性、角斗场赛事的真实氛围（更像歌剧而非狂热血腥的比赛），以及凯旋仪式背后的复杂含义。比尔德还探讨了奴隶制在日常生活中的核心作用，并重新评估了奥古斯都、凯撒等关键历史人物的深远影响，最后延伸讨论了《奥德赛》的翻译与解读，强调历史叙事与现代对话的重要性。
+tags:
+- canada
+- cultural
+- historical
+- history
+- power
+title: 好莱坞骗了你：历史学家玛丽·比尔德揭示古罗马的真实面貌
 ---
+
 ### 引言：重新审视我们所知的罗马文化
 
 有时候，你会发现仅仅是重新思考那些你早已熟知但从未真正审视过的罗马文化，就会对你的看法产生巨大影响。我们对罗马的印象在某种程度上都建立在现代电影之上。虽然我认为那些电影在某些方面相当令人印象深刻，但它们在一些事情上却错得离谱。

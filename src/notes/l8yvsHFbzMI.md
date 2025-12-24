@@ -1,35 +1,32 @@
 ---
-author: Internet of Bugs
+area: tech-work
+category: ai-ml
+companies_orgs:
+- YouTube
+- OpenAI
 date: '2025-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Carl
+products_models:
+- ChatGPT
+- Gemini
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=l8yvsHFbzMI
 speaker: Internet of Bugs
-tags:
-  - llm
-  - prompt-engineering
-  - scam-awareness
-  - ai-disclosure
-title: 警惕AI诈骗：我如何被YouTube教练骗取万元，以及如何避免
-summary: 本视频讲述了作者Carl在YouTube上被一个声称提供指导的团体骗取10,000美元的经历。该团体利用AI（特别是ChatGPT）生成内容并将其包装成有价值的服务出售。作者详细阐述了AI如何模糊产品质量信号、影响信任，并提供了四个步骤来帮助观众识别和避免此类AI诈骗，强调了透明度和直接沟通的重要性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Carl
-companies_orgs:
-  - YouTube
-  - OpenAI
-products_models:
-  - ChatGPT
-  - Gemini
-media_books: []
 status: evergreen
+summary: 本视频讲述了作者Carl在YouTube上被一个声称提供指导的团体骗取10,000美元的经历。该团体利用AI（特别是ChatGPT）生成内容并将其包装成有价值的服务出售。作者详细阐述了AI如何模糊产品质量信号、影响信任，并提供了四个步骤来帮助观众识别和避免此类AI诈骗，强调了透明度和直接沟通的重要性。
+tags:
+- geopolitical
+- llm
+title: 警惕AI诈骗：我如何被YouTube教练骗取万元，以及如何避免
 ---
+
 ### 遭遇AI诈骗
 
 我被一个在**YouTube**上运作的团体骗取了大约10,000美元，并浪费了几个月的时间。更糟糕的是，他们利用**AI**（Artificial Intelligence: 人工智能）来做到这一点，具体细节稍后详述。请不要关闭视频，这不是募捐，也没有GoFundMe。我很好，我的频道刚刚突破了10万订阅者，感谢各位订阅者，我会尽力不辜负你们的时间。总的来说，对我而言，一切都还好。为了避免引起YouTube上的戏剧性纠纷，我不会在这期视频中点名具体的团体。**本视频旨在帮助大家识别这类骗局，并教授如何避免它们，无论哪个团体试图欺骗你。**这是一种我以前从未想过的骗局，尽管事后看来，它显而易见。我确信这种骗局会越来越普遍，而且很难防御或检测。虽然对我已经发生的事情已无能为力，但我至少可以告诉你们我的经历，希望你们能避免重蹈覆辙，这样我的经历也能产生一些积极的意义。稍后我会详细讲述具体发生了什么，并提供一些保护自己的建议，以及探讨更广泛的社会影响。但首先，为了让你们决定是否继续观看，我先给你们一个简短的版本。

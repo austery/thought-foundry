@@ -1,60 +1,60 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中共
+- 国务院
+- 华尔街日报
+- 波士顿大学
+- 加州大学圣地牙哥分校
 date: '2022-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《重新思考中国政治》
+- 《弱者联盟》
+- 《中国共产党纪律处分条例》
+people:
+- Xi Jinping
+- 李克强
+- 周永康
+- 令计划
+- 徐才厚
+- 郭伯雄
+- 毛泽东
+- 邓小平
+- 雍正
+- 江泽民
+- 胡锦涛
+- 温家宝
+- 薄熙来
+- 李强
+- 胡春华
+- 蔡英文
+- Joseph Fewsmith
+- Victor Shih
+- 蔡文轩
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=8KJap6TJAcw
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - power-consolidation
-  - elite-politics
-  - authoritarian-regimes
-  - succession-crisis
-  - anti-corruption-campaign
-title: 习近平与“弱者联盟”：中共二十大后的权力集中与潜在危机
-summary: 中共二十大后，习近平快速集权，将集体领导转变为个人意志主导。本文将探讨习近平能够迅速巩固权力的历史条件，以及他选择“弱者联盟”作为政治局常委的原因。文章援引学者富世族对“列宁式威权体制”的分析，并重点阐述史宗汉的“弱者联盟”理论，揭示其在毛泽东、邓小平及雍正时期的历史回响。最后，文章将深入分析“弱者联盟”策略对中共政策决策的潜在风险，以及未来可能引发的接班人危机，对中国政治稳定性的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 习近平
-  - 李克强
-  - 周永康
-  - 令计划
-  - 徐才厚
-  - 郭伯雄
-  - 毛泽东
-  - 邓小平
-  - 雍正
-  - 江泽民
-  - 胡锦涛
-  - 温家宝
-  - 薄熙来
-  - 李强
-  - 胡春华
-  - 蔡英文
-  - Joseph Fewsmith
-  - Victor Shih
-  - 蔡文轩
-companies_orgs:
-  - 中共
-  - 国务院
-  - 华尔街日报
-  - 波士顿大学
-  - 加州大学圣地牙哥分校
-products_models: []
-media_books:
-  - 《重新思考中国政治》
-  - 《弱者联盟》
-  - 《中国共产党纪律处分条例》
 status: evergreen
+summary: 中共二十大后，习近平快速集权，将集体领导转变为个人意志主导。本文将探讨习近平能够迅速巩固权力的历史条件，以及他选择“弱者联盟”作为政治局常委的原因。文章援引学者富世族对“列宁式威权体制”的分析，并重点阐述史宗汉的“弱者联盟”理论，揭示其在毛泽东、邓小平及雍正时期的历史回响。最后，文章将深入分析“弱者联盟”策略对中共政策决策的潜在风险，以及未来可能引发的接班人危机，对中国政治稳定性的深远影响。
+tags:
+- anti
+- crisis
+- geopolitical
+- politics
+- power
+title: 习近平与“弱者联盟”：中共二十大后的权力集中与潜在危机
 ---
+
 ### 中共二十大：权力格局的重塑
 
 这里是寿司坦丁，在这里，你可以用最轻松的方式接收国际上最有趣的社会科学研究发现。2022年10月23日中午12点，中共二十大一中全会公布了未来五年中国最有权势的24个人。这些人以前确实是中共的权力核心，但现在称他们为习近平最信任的一群人，可能更精准一点。最受瞩目的当然是习近平之外的六位政治局常委。在习近平上台之前，或者更准确一点，在90年代到2017年之前，中共政治局常委是中共权力金字塔的顶端。总书记之外的其他六位常委，和总书记是以同僚互称，他们拥有在国事或党务上各管一摊的权利，他们是跟总书记分享权力、相互制衡的集体领导班子。

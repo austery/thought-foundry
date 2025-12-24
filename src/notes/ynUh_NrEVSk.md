@@ -1,44 +1,44 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- FIRST
 date: '2025-04-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《世界与我》
+- 《巢》
+- 《去哪安家》
+people:
+- 秦潇越
+- 房君睿
+- 房爸爸
+- 房妈妈
+- 杨光
+- 吴卓渊
+- 贾樟柯
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=ynUh_NrEVSk
 speaker: 一席YiXi
-tags:
-  - idealism-vs-reality
-  - narrative-illusion
-  - emotional-labor-in-documentary
-  - social-confinement
-  - self-reflection-through-film
-title: 当英雄式励志故事成为主流，痛苦为何被隐形？——纪录片导演秦潇越的自我救赎
-summary: 纪录片导演秦潇越通过《世界与我》和《巢》两部作品，揭示社会如何过度美化‘理想主义’叙事，而忽视真实人生的痛苦与复杂。在拍摄房君睿一家的过程中，他被迫直面理想与现实的鸿沟，并最终学会：真正的意义不在于拯救他人，而在于真实地见证与表达。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - 秦潇越
-  - 房君睿
-  - 房爸爸
-  - 房妈妈
-  - 杨光
-  - 吴卓渊
-  - 贾樟柯
-companies_orgs:
-  - FIRST
-products_models: []
-media_books:
-  - 《世界与我》
-  - 《巢》
-  - 《去哪安家》
 status: evergreen
+summary: 纪录片导演秦潇越通过《世界与我》和《巢》两部作品，揭示社会如何过度美化‘理想主义’叙事，而忽视真实人生的痛苦与复杂。在拍摄房君睿一家的过程中，他被迫直面理想与现实的鸿沟，并最终学会：真正的意义不在于拯救他人，而在于真实地见证与表达。
+tags:
+- idealism-vs-reality
+- labor
+- narrative
+- self
+- social
+title: 当英雄式励志故事成为主流，痛苦为何被隐形？——纪录片导演秦潇越的自我救赎
 ---
+
 ### 镜头之外的真相：从理想主义到真实生活的觉醒
 
 大家好，我叫秦潇越，是一名纪录片导演。在很长一段时间里，我对这个身份并没有太多认同感。

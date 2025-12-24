@@ -1,42 +1,42 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: psychology
+companies_orgs:
+- 师大心辅系
 date: '2025-09-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《奥德修斯》
+- 《悲惨世界》
+- 《真脑人》
+people:
+- 曾博恩
+- 宋晏仁
+- Sam Morril
+products_models:
+- ChatGPT
+- Grogg 4
+project:
+- ai-impact-analysis
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=zqaKSOUnENA
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - comedy-writing
-  - ai-creativity
-  - mental-health
-  - cancel-culture
-  - cognitive-flexibility
-title: 曾博恩：AI冲击下的喜剧创作、社会责任与心理韧性
-summary: 知名喜剧演员曾博恩在访谈中，深入探讨了AI对创意工作者的影响，并分享了其在喜剧创作中利用AI的实验。他剖析了幽默的边界、网络“炎上”文化带来的“习得性无助”，以及喜剧演员面临的心理健康挑战。博恩强调，喜剧不仅是搞笑，更应承载社会责任，通过认知弹性帮助人们调适情绪，并以作品引发对人际关系与责任的深刻思考。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - 曾博恩
-  - 宋晏仁
-  - Sam Morril
-companies_orgs:
-  - 师大心辅系
-products_models:
-  - ChatGPT
-  - Grogg 4
-media_books:
-  - 《奥德修斯》
-  - 《悲惨世界》
-  - 《真脑人》
 status: evergreen
+summary: 知名喜剧演员曾博恩在访谈中，深入探讨了AI对创意工作者的影响，并分享了其在喜剧创作中利用AI的实验。他剖析了幽默的边界、网络“炎上”文化带来的“习得性无助”，以及喜剧演员面临的心理健康挑战。博恩强调，喜剧不仅是搞笑，更应承载社会责任，通过认知弹性帮助人们调适情绪，并以作品引发对人际关系与责任的深刻思考。
+tags:
+- cognitive
+- culture
+- life
+- llm
+- mental-health
+title: 曾博恩：AI冲击下的喜剧创作、社会责任与心理韧性
 ---
+
 ### 开场与自我介绍：从神经科学到喜剧舞台
 
 嗨，大家好，我是宋晏仁宋医师，欢迎来到初日会客室。会客室一直希望我们能踏出初日诊所的舒适圈，不只谈肥胖或慢性病。今天，这个脉络可能会有最大的爆发，因为我们请到的名字，我讲出来之后，这个节目很可能就会爆炸——曾博恩。博恩，欢迎你！

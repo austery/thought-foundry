@@ -1,51 +1,51 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 民进党
+- 国民党
+- NED
+- IMF
+- 联合国
 date: '2025-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中华秩序》
+- 《狼吃小羊的故事》
+people:
+- Xi Jinping
+- 佩洛西
+- 林彪
+- 伯雷芝涅夫
+- 张和子
+- 秦始皇
+- 汪飞林
+- 凯恩斯
+- 摩根索
+- 周永康
+- 李白
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=oJOUh7oAFr8
 speaker: 三個水槍手
-tags:
-  - military-unification
-  - public-opinion
-  - state-party-relationship
-  - national-identity
-  - international-order
-title: 中国民意、武统与国家认同的深层探讨
-summary: 本期节目深入探讨了中国民众对武统台湾的真实民意、国家与政权关系的复杂性，以及对国际秩序的认知偏差。嘉宾们驳斥了“90%民意支持武统”的说法，分析了民众情绪的不稳定性，并强调了个人利益与国家利益的异同。同时，节目还讨论了“小粉红”因国家政策摇摆而产生的失望，以及对“入关学”等国际秩序想象的批判。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 习近平
-  - 佩洛西
-  - 林彪
-  - 伯雷芝涅夫
-  - 张和子
-  - 秦始皇
-  - 汪飞林
-  - 凯恩斯
-  - 摩根索
-  - 周永康
-  - 李白
-companies_orgs:
-  - 民进党
-  - 国民党
-  - NED
-  - IMF
-  - 联合国
-products_models: []
-media_books:
-  - 《中华秩序》
-  - 《狼吃小羊的故事》
 status: evergreen
+summary: 本期节目深入探讨了中国民众对武统台湾的真实民意、国家与政权关系的复杂性，以及对国际秩序的认知偏差。嘉宾们驳斥了“90%民意支持武统”的说法，分析了民众情绪的不稳定性，并强调了个人利益与国家利益的异同。同时，节目还讨论了“小粉红”因国家政策摇摆而产生的失望，以及对“入关学”等国际秩序想象的批判。
+tags:
+- international
+- military
+- national-identity
+- public-opinion
+- state
+title: 中国民意、武统与国家认同的深层探讨
 ---
+
 ### 对“武统”民意调查的回应
 
 我曾经想过，做中国人真是很悲哀的。当你从娘胎里出来的时候，你还没学会文化、没学会字，就有一种领导注定成为你的主人，你就是奴才。

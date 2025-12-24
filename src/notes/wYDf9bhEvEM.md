@@ -1,31 +1,31 @@
 ---
-title: 斯蒂芬·金的非恐怖电影世界：从《伴我同行》到《肖申克的救赎》
-summary: 《纽约时报书评》编辑吉尔伯特·克鲁兹与电影评论员肖恩·芬尼西深入探讨斯蒂芬·金非恐怖作品的电影改编，分析其独特魅力与对好莱坞的深远影响。
 area: null
 category: null
-project: []
-tags:
-- film-adaptations
-- hollywood
-- literary-influence
-- non-horror
-people:
-- stephen-king
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-17'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+people:
+- stephen-king
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wYDf9bhEvEM
+speaker: New York Times Podcasts
 status: evergreen
+summary: 《纽约时报书评》编辑吉尔伯特·克鲁兹与电影评论员肖恩·芬尼西深入探讨斯蒂芬·金非恐怖作品的电影改编，分析其独特魅力与对好莱坞的深远影响。
+tags:
+- adaptation
+- hollywood
+- influence
+- non
+title: 斯蒂芬·金的非恐怖电影世界：从《伴我同行》到《肖申克的救赎》
 ---
+
 ### 斯蒂芬·金的非恐怖魅力
 
 吉尔伯特·克鲁兹: 我是《纽约时报书评》编辑吉尔伯特·克鲁兹，这里是书评播客。现在是十月，这是我一年中最喜欢的月份，不仅因为东北的天气，还因为是万圣节。对我来说，整个月都应该是万圣节，我不知道为什么我们还没有这样做。这意味着恐怖电影，也意味着恐怖书籍。有一个人以这两类作品而闻名，他就是斯蒂芬·金。自从他的第一部小说**《魔女嘉莉》**（Carrie: 斯蒂芬·金的首部小说，1974年出版，后被改编成热门电影）于1974年出版并于两年后被改编成热门电影以来，他的作品就具备了改编成电影的条件。虽然他显然是著名的恐怖大师，但他的一些更有趣的作品以及根据这些作品改编的一些最受欢迎的电影与小丑、吸血鬼、鬼屋、闹鬼酒店或闹鬼汽车无关。这周我有一个完美的人与我一起讨论这一切。肖恩·芬尼西是斯蒂芬·金的长期爱好者，也是最优秀的电影评论员之一。他是Big Picture Podcast的联合主持人，根据我两年前在Spotify上听的播客节目，我听了8,334分钟。肖恩，这太可怕了。您觉得这40个小时怎么样？想象一下我的声音在任何人脑海里停留那么久，这真是太糟糕了。

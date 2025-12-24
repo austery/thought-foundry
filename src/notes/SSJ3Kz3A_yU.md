@@ -1,37 +1,36 @@
 ---
-title: 'Brain Experts Warn: The Shocking Impact of ChatGPT on Your Brain and Dementia
-  Risk'
-summary: Brain experts Dr. Daniel Amen and Dr. Terry Sejnowski discuss a recent MIT
-  study showing a 47% drop in brain activity with ChatGPT use. They explore the link
-  between reduced cognitive load and increased dementia risk, offering guidance on
-  using AI responsibly to enhance, not replace, human thinking.
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- brainhealth
-- dementia
-people:
-  - Steven Bartlett
-  - Dr. Daniel Amen
-  - Dr. Terry Sejnowski
-companies_orgs: []
-products_models:
-- chatgpt
-media_books: []
-date: 2025-08-17
+area: tech-engineering
 author: Lei
-speaker: ''
+category: ai-ml
+companies_orgs: []
+date: 2025-08-17
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Steven Bartlett
+- Dr. Daniel Amen
+- Dr. Terry Sejnowski
+products_models:
+- chatgpt
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=SSJ3Kz3A_yU
+speaker: ''
 status: evengreen
+summary: Brain experts Dr. Daniel Amen and Dr. Terry Sejnowski discuss a recent MIT
+  study showing a 47% drop in brain activity with ChatGPT use. They explore the link
+  between reduced cognitive load and increased dementia risk, offering guidance on
+  using AI responsibly to enhance, not replace, human thinking.
+tags:
+- llm
+- society
+title: 'Brain Experts Warn: The Shocking Impact of ChatGPT on Your Brain and Dementia
+  Risk'
 ---
+
 ## Introduction to the Experts
 
 Steven Bartlett: Dr. Daniel, Dr. Terry, I have asked you both to sit with me today to help me understand the impact of these tools that we call large language models, the ChatGPTs, the Geminis of the world, the Groks of the world are having on our brains and I guess more broadly on our lives. You two are experts in your field. You're two people that I admire tremendously. So by way of introduction, Terry, what is your academic background and what is your experience? I also know that you know one of our friends of the show Jeffrey Hinton. Can you give me an overview of your academic and your professional background?

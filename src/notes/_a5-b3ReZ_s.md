@@ -1,55 +1,54 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- CoreWeave
+- OpenAI
+- Microsoft
+- Meta
+- Amazon
+- Nike
+- Decker
+- AWS
+- Google
+- CoinBase
+- Disney
+- Circle
+- Futu
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Michael Burry
+- 小
+products_models:
+- GPU
+- CPU
+- H100
+- A100
+- TPU
+- Disney+
+- ESPN
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=_a5-b3ReZ_s
 speaker: 投资TALK君
-tags:
-  - ai-bubble
-  - depreciation-accounting
-  - earnings-reports
-  - capital-expenditure
-  - market-sentiment
-title: 大空头做空AI泡沫，英伟达“亲儿子”财报揭示风险与机遇
-summary: 本期节目深入探讨了“世纪大空头”Michael Burry做空AI板块的观点，特别是他提出的“折旧”概念对AI公司盈利能力的影响。文章以英伟达“亲儿子”CoreWeave的最新财报为例，详细分析了其独特的融资模式、高资本开支以及面临的集中性、执行力和技术风险。同时，节目回顾了近期美股市场走势和第三季度财报总结，并强调了在市场不确定性下，投资者需警惕AI领域潜在的泡沫风险及对未来假设的线性外推。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Michael Burry
-  - 小
-companies_orgs:
-  - Nvidia
-  - CoreWeave
-  - OpenAI
-  - Microsoft
-  - Meta
-  - Amazon
-  - Nike
-  - Decker
-  - AWS
-  - Google
-  - CoinBase
-  - Disney
-  - Circle
-  - Futu
-products_models:
-  - GPU
-  - CPU
-  - H100
-  - A100
-  - TPU
-  - Disney+
-  - ESPN
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了“世纪大空头”Michael Burry做空AI板块的观点，特别是他提出的“折旧”概念对AI公司盈利能力的影响。文章以英伟达“亲儿子”CoreWeave的最新财报为例，详细分析了其独特的融资模式、高资本开支以及面临的集中性、执行力和技术风险。同时，节目回顾了近期美股市场走势和第三季度财报总结，并强调了在市场不确定性下，投资者需警惕AI领域潜在的泡沫风险及对未来假设的线性外推。
+tags:
+- ai-bubble
+- canada
+- capital-expenditure
+- earnings-report
+- market-sentiment
+title: 大空头做空AI泡沫，英伟达“亲儿子”财报揭示风险与机遇
 ---
+
 ### 市场概览与本期焦点
 
 各位观众大家好，欢迎来到本期专业与非专业的美国市场分析节目。我是市场分析员小。

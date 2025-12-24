@@ -1,53 +1,53 @@
 ---
-author: Darren聊美股
+area: market-analysis
+category: finance
+companies_orgs:
+- Meta
+- Nvidia
+- Palantir
+- Microsoft
+- Google
+- Amazon
+- Apple
+- CIBC
+- Harvest ETF
+- YieldMax
+- Seeking Alpha
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Darren
+- 黄仁勋
+products_models:
+- CDR
+- Covered Call ETF
+- Alpha Picks
+- FBY
+- METE
+- YMET
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=qDPTskouLxY
 speaker: Darren聊美股
-tags:
-  - meta-stock-analysis
-  - q3-earnings
-  - ai-investment
-  - capital-expenditure
-  - investment-psychology
-  - dollar-cost-averaging
-title: Meta股票深度分析：暴跌15%后的黄金机会与投资策略
-summary: 本期节目深入分析了Meta在第三季度财报发布后股价暴跌15%的原因。表面上是每股收益低于预期，实则为一次性税务调整造成的“假亏损”。文章指出，Meta正将资本支出转向AI基础设施建设，而非盲目扩张元宇宙，其基本面依然稳健。作者分享了对Meta的投资计划，强调了分批建仓和稳健心态的重要性，并探讨了不同投资产品如CDR和Covered Call ETF的选择，认为当前是长期投资者介入的绝佳时机。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Darren
-  - 黄仁勋
-companies_orgs:
-  - Meta
-  - Nvidia
-  - Palantir
-  - Microsoft
-  - Google
-  - Amazon
-  - Apple
-  - CIBC
-  - Harvest ETF
-  - YieldMax
-  - Seeking Alpha
-products_models:
-  - CDR
-  - Covered Call ETF
-  - Alpha Picks
-  - FBY
-  - METE
-  - YMET
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了Meta在第三季度财报发布后股价暴跌15%的原因。表面上是每股收益低于预期，实则为一次性税务调整造成的“假亏损”。文章指出，Meta正将资本支出转向AI基础设施建设，而非盲目扩张元宇宙，其基本面依然稳健。作者分享了对Meta的投资计划，强调了分批建仓和稳健心态的重要性，并探讨了不同投资产品如CDR和Covered
+  Call ETF的选择，认为当前是长期投资者介入的绝佳时机。
+tags:
+- ai-investment
+- capital-expenditure
+- cost
+- earning
+- investment-psychology
+- meta-stock-analysis
+title: Meta股票深度分析：暴跌15%后的黄金机会与投资策略
 ---
+
 大家好，我是Darren，欢迎回到我的频道。本周，美股十月份正式收官。在经历了过山车般的上蹿下跳之后，**标普**（S&P: 标准普尔指数，衡量美国大型上市公司股票表现的指数）最终收盘在6840点位。虽然本周小幅下跌，但它在十月份依然实现了2%的上涨，这已经是继四月份的“黄金坑”之后，标普大盘连续第六个月的上涨。过去这一周，市场依然非常热闹。
 
 **英伟达**（Nvidia: 一家全球领先的图形处理器和人工智能计算公司）的CEO黄仁勋在GTC大会上宣布，未来五个季度AI市场将带来五千亿美元的机会，直接推动英伟达的股价迎来爆发。**Palantir**（Palantir Technologies: 一家大数据分析公司）的股价也突破了两百美元，并与英伟达达成合作，黄仁勋直接称其为“全球最重要的企业软件公司”。微软、谷歌、Meta、亚马逊和苹果这五大科技巨头都陆续发布了**财报**（Earnings Report: 公司定期公布的财务业绩报告）。财报结果普遍表现不错，再次证明AI浪潮依然强劲。然而，Meta却因为提高**资本支出**（Capital Expenditure: 公司用于购买、改进或延长固定资产寿命的资金）被**算法交易**（Algorithmic Trading: 利用计算机程序和算法自动执行交易）错杀，股价跌回了五月份的水平。本期节目我将和大家深入聊一聊Meta，我正是趁着这波下跌，终于**开仓**（Open Position: 首次买入某只股票或资产）了这支我关注已久的股票。我将分享我对Meta的看法、我的投资计划，以及一些相关的投资感悟。

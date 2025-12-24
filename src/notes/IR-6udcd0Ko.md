@@ -1,39 +1,37 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 初日診所
+- Sherry's Notes 雪力的心理學筆記
+- Cofit
 date: '2025-03-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 鄧雯心醫師
+- 雪力老師
+- 宋晏仁醫師
+products_models:
+- MBTI
+- InBody
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=IR-6udcd0Ko
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - mbti-personality
-  - weight-management
-  - behavioral-psychology
-  - goal-setting
-  - hormonal-health
-title: MBTI人格类型与个性化减重策略：解锁你的健康之路
-summary: 本期节目邀请MBTI专家雪力老师与邓雯心医师，深入探讨MBTI人格类型如何影响减重行为与成功率。节目详细分析了TJ、FP、TP、FJ四种人格类型在减重过程中可能遇到的挑战与优势，并提供了针对性的策略。强调理解自身个性、设定弹性目标、以及平衡逻辑与感受的重要性，帮助观众找到最适合自己的健康管理方法，避免因误解个性而放弃。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 鄧雯心醫師
-  - 雪力老師
-  - 宋晏仁醫師
-companies_orgs:
-  - 初日診所
-  - Sherry's Notes 雪力的心理學筆記
-  - Cofit
-products_models:
-  - MBTI
-  - InBody
-media_books: []
 status: evergreen
+summary: 本期节目邀请MBTI专家雪力老师与邓雯心医师，深入探讨MBTI人格类型如何影响减重行为与成功率。节目详细分析了TJ、FP、TP、FJ四种人格类型在减重过程中可能遇到的挑战与优势，并提供了针对性的策略。强调理解自身个性、设定弹性目标、以及平衡逻辑与感受的重要性，帮助观众找到最适合自己的健康管理方法，避免因误解个性而放弃。
+tags:
+- goal-setting
+- health
+- psychology
+- weight-management
+title: MBTI人格类型与个性化减重策略：解锁你的健康之路
 ---
+
 ### 了解你的个性：MBTI与减重动力
 
 **雪力老師:** **TJ**（Thinking-Judging，思维-判断）类型的人，其动力来自于明确知道付出后会有相应的回报。然而，对TJ类型而言，最难以接受的是付出了80%的努力，却只看到20%的成效。因此，TJ类型的人在**更年期**（Menopause: 女性生理周期停止的阶段，常伴随荷尔蒙变化）时，可能会遇到像我这样的状况，即自暴自弃。因为他们会觉得：“我都已经这样做了，以前这样做马上就瘦下来了，但现在却瘦不下来，那到底是怎么回事？我何必还要再尝试？”

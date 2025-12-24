@@ -1,40 +1,40 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 中山医院
+- Polymarket
+- FBI
 date: '2025-07-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《直视骄阳：如何面对死亡焦虑》
+people:
+- 柱子哥
+- 付佩尧
+- 欧文·亚隆
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=OjKCHvRwGdI
 speaker: 一席YiXi
-tags:
-  - time-perception
-  - mortality-awareness
-  - end-of-life-care
-  - patient-voice
-  - healthcare-system-gaps
-title: 我突然不用踩点打卡了：一个癌症患者的七年人生重构与时间革命
-summary: 柱子哥以亲身经历讲述从‘时间资产’到‘主观时间’的觉醒：当癌症对折生命，她如何在治疗、记录与倡导中重构时间意义，并推动中国安宁疗护体系的可见性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 柱子哥
-  - 付佩尧
-  - 欧文·亚隆
-companies_orgs:
-  - 中山医院
-  - Polymarket
-  - FBI
-products_models: []
-media_books:
-  - 《直视骄阳：如何面对死亡焦虑》
 status: evergreen
+summary: 柱子哥以亲身经历讲述从‘时间资产’到‘主观时间’的觉醒：当癌症对折生命，她如何在治疗、记录与倡导中重构时间意义，并推动中国安宁疗护体系的可见性。
+tags:
+- geopolitical
+- healthcare-system-gap
+- life
+- patient-voice
+- perception
+title: 我突然不用踩点打卡了：一个癌症患者的七年人生重构与时间革命
 ---
+
 ### 时间的对折：当癌症打断了“高效人生”
 
 我曾经是一个把时间当作资产的人。  

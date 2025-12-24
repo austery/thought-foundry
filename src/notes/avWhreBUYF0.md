@@ -1,65 +1,67 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Stripe
+- W3 Schools
+- Wells Fargo
+- MIT
+- Harvard
+- University of North Dakota
+- Julius AI
+- Newegg
+- GitHub
 date: '2025-08-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Computing Machinery and Intelligence
+- Hacker News
+- Attention Is All You Need
+people:
+- Greg Brockman
+- Jensen Huang
+- Alan Turing
+- Alex Krizhevsky
+- Ilya Sutskever
+- Jeff Hinton
+- Patrick Collison
+- John Collison
+- Daryl
+- Matthew Brockman
+- Dylan Patel
+- McCulloch
+- Pitts
+products_models:
+- ChatGPT
+- GPT-4
+- CodeX
+- AlexNet
+- Titan X
+- R2-D2
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=avWhreBUYF0
 speaker: AI Engineer
-tags:
-  - ai-development
-  - software-engineering
-  - agi-path
-  - scaling-challenges
-  - independent-learning
-title: OpenAI 联合创始人 Greg Brockman 谈编程、AI 基础设施与 AGI 之路
-summary: OpenAI 联合创始人 Greg Brockman 在一次访谈中分享了他的个人成长经历、编程启蒙、在 Stripe 的早期创业挑战，以及他对人工智能未来发展的深刻洞察。他强调了独立学习的重要性，回顾了深度学习从 AlexNet 到 AGI 愿景的演变，并详细阐述了 OpenAI 内部研究与工程协作的理念。Greg 还讨论了 AI 基础设施的规模化挑战、CodeX 对软件工程的影响，以及未来 AI 驱动经济中对多样化智能体的需求，展望了 AI 如何赋能人类解决复杂问题。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Greg Brockman
-  - Jensen Huang
-  - Alan Turing
-  - Alex Krizhevsky
-  - Ilya Sutskever
-  - Jeff Hinton
-  - Patrick Collison
-  - John Collison
-  - Daryl
-  - Matthew Brockman
-  - Dylan Patel
-  - McCulloch
-  - Pitts
-companies_orgs:
-  - OpenAI
-  - Stripe
-  - W3 Schools
-  - Wells Fargo
-  - MIT
-  - Harvard
-  - University of North Dakota
-  - Julius AI
-  - Newegg
-  - GitHub
-products_models:
-  - ChatGPT
-  - GPT-4
-  - CodeX
-  - AlexNet
-  - Titan X
-  - R2-D2
-media_books:
-  - Computing Machinery and Intelligence
-  - Hacker News
-  - Attention Is All You Need
 status: evergreen
+summary: OpenAI 联合创始人 Greg Brockman 在一次访谈中分享了他的个人成长经历、编程启蒙、在 Stripe 的早期创业挑战，以及他对人工智能未来发展的深刻洞察。他强调了独立学习的重要性，回顾了深度学习从
+  AlexNet 到 AGI 愿景的演变，并详细阐述了 OpenAI 内部研究与工程协作的理念。Greg 还讨论了 AI 基础设施的规模化挑战、CodeX 对软件工程的影响，以及未来
+  AI 驱动经济中对多样化智能体的需求，展望了 AI 如何赋能人类解决复杂问题。
+tags:
+- ai-development
+- challenge
+- learning
+- llm
+- software-engineering
+title: OpenAI 联合创始人 Greg Brockman 谈编程、AI 基础设施与 AGI 之路
 ---
+
 ### 编程之路的启蒙与转变
 
 主持人向 Greg Brockman 问好，并感谢他抽出时间接受 AI Engineer 的采访。

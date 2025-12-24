@@ -1,53 +1,51 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Bloomberg Audio Studios
+- Costco
+- Lehman Brothers
+- Yale
+- White House
+- Northrim Bank
 date: '2025-08-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Marcus Frampton
+- Devin Mitchell
+- David Swenson
+- Barton Biggs
+- Donald Trump
+- Claudia Sahm
+products_models:
+- Odd Lots podcast
+- Trans-Alaska Pipeline
+- Alaska Permanent Fund Dividend
+- S&P 500
+- Alaska Air
+- All Country World Index
+project:
+- investment-strategy
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=fTqGYkMoz-A
 speaker: Bloomberg Podcasts
-tags:
-  - sovereign-wealth-fund
-  - investment-strategy
-  - fiscal-policy
-  - resource-management
-  - state-economy
-title: 阿拉斯加永久基金：美国主权财富基金的独特经验与启示
-summary: 本期播客深入探讨了美国唯一的州级主权财富基金——阿拉斯加永久基金。嘉宾详细介绍了基金的起源、投资策略演变、在经济下行期的管理方式，以及其在阿拉斯加州经济和政治中的核心作用。讨论还触及了基金分红政策的政治博弈、对私人资产市场的看法，并为未来可能设立的美国联邦主权财富基金提供了宝贵建议，强调了规则化投资和长期治理的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Marcus Frampton
-  - Devin Mitchell
-  - David Swenson
-  - Barton Biggs
-  - Donald Trump
-  - Claudia Sahm
-companies_orgs:
-  - Bloomberg Audio Studios
-  - Costco
-  - Lehman Brothers
-  - Yale
-  - White House
-  - Northrim Bank
-products_models:
-  - Odd Lots podcast
-  - Trans-Alaska Pipeline
-  - Alaska Permanent Fund Dividend
-  - S&P 500
-  - Alaska Air
-  - All Country World Index
-media_books: []
 status: evergreen
+summary: 本期播客深入探讨了美国唯一的州级主权财富基金——阿拉斯加永久基金。嘉宾详细介绍了基金的起源、投资策略演变、在经济下行期的管理方式，以及其在阿拉斯加州经济和政治中的核心作用。讨论还触及了基金分红政策的政治博弈、对私人资产市场的看法，并为未来可能设立的美国联邦主权财富基金提供了宝贵建议，强调了规则化投资和长期治理的重要性。
+tags:
+- economy
+- fiscal-policy
+- management
+- sovereign-wealth-fund
+title: 阿拉斯加永久基金：美国主权财富基金的独特经验与启示
 ---
+
 ### 阿拉斯加永久基金：独特的美国主权财富基金
 
 **Joe Weisenthal:** 大家好，欢迎收听新一期的“Odd Lots”播客。我是乔·魏森塔尔。

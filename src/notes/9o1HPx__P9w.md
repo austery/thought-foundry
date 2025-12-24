@@ -1,46 +1,45 @@
 ---
-author: TED
+area: society-thinking
+category: politics-society
+companies_orgs:
+- TED
+- National Governors Association
+- Teach for America
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Talladega Nights
+- The Simpsons
+people:
+- Kevin Stitt
+- Matt
+- Abraham Lincoln
+- Donald Trump
+- Ricky Bobby
+products_models:
+- SNAP benefits
+- Worldwide Web
+- AI
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=9o1HPx__P9w
 speaker: TED
-tags:
-  - us-democracy
-  - political-polarization
-  - state-governance
-  - public-trust
-  - education-reform
-title: 两位美国州长：民主的希望何在？
-summary: 本文记录了两位美国州长（一位民主党人，一位共和党人）关于美国民主现状的讨论。他们探讨了如何通过强调联邦制和州权来恢复公众信任，并专注于教育和基础设施等领域的实际服务交付。两位州长还讨论了信息时代政治两极分化带来的挑战，倡导同理心、数据驱动的政策以及回归公共服务的诚信。他们分享了关于利用人工智能改进教育和调整劳动力发展模式的见解，最终通过追求美国梦和两党合作精神表达了对民主的希望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Kevin Stitt
-  - Matt
-  - Abraham Lincoln
-  - Donald Trump
-  - Ricky Bobby
-companies_orgs:
-  - TED
-  - National Governors Association
-  - Teach for America
-products_models:
-  - SNAP benefits
-  - Worldwide Web
-  - AI
-media_books:
-  - Talladega Nights
-  - The Simpsons
 status: evergreen
+summary: 本文记录了两位美国州长（一位民主党人，一位共和党人）关于美国民主现状的讨论。他们探讨了如何通过强调联邦制和州权来恢复公众信任，并专注于教育和基础设施等领域的实际服务交付。两位州长还讨论了信息时代政治两极分化带来的挑战，倡导同理心、数据驱动的政策以及回归公共服务的诚信。他们分享了关于利用人工智能改进教育和调整劳动力发展模式的见解，最终通过追求美国梦和两党合作精神表达了对民主的希望。
+tags:
+- education-reform
+- geopolitical
+- public-trust
+- state
+title: 两位美国州长：民主的希望何在？
 ---
+
 ### 恢复对政府的信任：联邦制与州权
 
 主持人宣布提问环节开始，并向两位州长提出了第一个问题：“民主党和共和党州长可以如何携手合作，以恢复公众对政府的信任？”

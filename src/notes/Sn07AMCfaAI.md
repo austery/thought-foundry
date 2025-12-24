@@ -1,41 +1,40 @@
 ---
-author: Veritasium
-date: '2024-08-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Sn07AMCfaAI
-speaker: Veritasium
-tags:
-  - veritasium
-  - audio-illusions
-  - sound-perception
-  - brain-processing
-  - sensory-adaptation
-  - sound-localization
-title: 听觉错觉：大脑如何塑造我们所听到的世界
-summary: 本文深入探讨了一系列引人入胜的听觉错觉，从缺失基频和谢泼德音调到幻影词和双耳节拍。它揭示了听觉并非简单地检测声音频率，而是一个受大脑解释、过往经验甚至视觉线索深刻影响的复杂过程。文章探讨了我们的大脑如何积极构建听觉现实，并强调了声音感知和定位背后的精妙机制。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: personal-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Georg Joseph Vogler
-  - Dr. Diana Deutsch
-  - Alfred Mayer
+category: psychology
 companies_orgs:
-  - Apple
-  - Sony
-  - Brilliant
-products_models: []
+- Apple
+- Sony
+- Brilliant
+date: '2024-08-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Dunkirk
+- Dunkirk
+people:
+- Georg Joseph Vogler
+- Dr. Diana Deutsch
+- Alfred Mayer
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=Sn07AMCfaAI
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了一系列引人入胜的听觉错觉，从缺失基频和谢泼德音调到幻影词和双耳节拍。它揭示了听觉并非简单地检测声音频率，而是一个受大脑解释、过往经验甚至视觉线索深刻影响的复杂过程。文章探讨了我们的大脑如何积极构建听觉现实，并强调了声音感知和定位背后的精妙机制。
+tags:
+- adaptation
+- brain
+- geopolitical
+- perception
+- sound-localization
+title: 听觉错觉：大脑如何塑造我们所听到的世界
 ---
+
 ### 听觉的复杂性：不仅仅是频率检测
 
 我想让你听听这两种声音，然后判断哪一个音调更高。这是声音A（发出嗡嗡声），这是声音B（发出嗡嗡声）。对我来说，声音A显然更高，但这很奇怪，因为声音A只是一个100**赫兹**（Hertz: 频率单位，表示每秒的周期数）的**正弦波**（Sine wave: 一种纯净的、单一频率的波形）。声音B也有相同的100赫兹频率，但还包含了150赫兹和200赫兹的频率。所以我们添加了更高的频率，但声音却更低了。这是怎么回事呢？

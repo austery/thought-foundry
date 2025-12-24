@@ -1,41 +1,39 @@
 ---
-author: Veritasium
-date: '2024-05-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=nfAqTSjMBJk
-speaker: Veritasium
-tags:
-  - veritasium
-  - color-perception
-  - jumping-spiders
-  - evolutionary-advantage
-  - sensory-biology
-  - depth-illusion
-title: 跳蛛的色彩奥秘：从感知、进化到视觉错觉的多维探索
-summary: 本文深入探讨了跳蛛独特的色彩视觉系统，揭示了它们如何感知世界，以及这种能力在进化过程中如何反复出现。通过与人类视觉和科技的对比，文章探讨了色彩的本质，并介绍了科学家们如何通过行为实验和基因分析来理解跳蛛的视觉优势。一个令人惊讶的发现是，某些跳蛛可能利用红色产生深度错觉，而非直接感知红色，这为我们理解色彩的进化优势和视觉的复杂性提供了全新视角。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Derek
-  - Lisa Taylor
-  - Nathan
-  - Wayne Maddison
-  - Megan Porter
+category: science
 companies_orgs:
-  - BetterHelp
-  - Advanced Photon Source
+- BetterHelp
+- Advanced Photon Source
+date: '2024-05-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek
+- Lisa Taylor
+- Nathan
+- Wayne Maddison
+- Megan Porter
 products_models:
-  - Bitrex
-media_books: []
+- Bitrex
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=nfAqTSjMBJk
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了跳蛛独特的色彩视觉系统，揭示了它们如何感知世界，以及这种能力在进化过程中如何反复出现。通过与人类视觉和科技的对比，文章探讨了色彩的本质，并介绍了科学家们如何通过行为实验和基因分析来理解跳蛛的视觉优势。一个令人惊讶的发现是，某些跳蛛可能利用红色产生深度错觉，而非直接感知红色，这为我们理解色彩的进化优势和视觉的复杂性提供了全新视角。
+tags:
+- geopolitical
+- health
+- jumping-spider
+- perception
+- technology
+title: 跳蛛的色彩奥秘：从感知、进化到视觉错觉的多维探索
 ---
+
 ### 色彩感知的本质：人类、科技与哲学思辨
 
 你所看到的并非一个黄色的球。

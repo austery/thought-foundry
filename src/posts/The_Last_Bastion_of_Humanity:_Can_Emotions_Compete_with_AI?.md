@@ -1,26 +1,26 @@
 ---
-title: 'The Last Bastion of Humanity: Can Emotions Compete with AI?'
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-06-11'
+area: tech-engineering
 author: Lei
-speaker: null
+category: ai-ml
 channel: 尤瓦尔·诺亚·赫拉利
+companies_orgs: []
+date: '2025-06-11'
 guest: null
 insight: null
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: null
+speaker: null
+summary: null
+tags: []
+title: 'The Last Bastion of Humanity: Can Emotions Compete with AI?'
 ---
+
 **Speaker Bio:** Yuval Noah Harari is an Israeli public intellectual,
 historian, and professor in the Department of History at the Hebrew
 University of Jerusalem. He is the author of the international

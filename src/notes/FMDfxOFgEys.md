@@ -1,33 +1,32 @@
 ---
-title: 罗永浩事件评论解析：言论自由、消费责任与中国特色论
-summary: 本期节目回应观众对罗永浩事件的评论，深入探讨言论自由的真实含义、消费者对价格的抱怨是否合理、预制菜的国情差异以及食品安全中的“中国特殊论”，并反思国人对商业和民营企业家的认知。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- cultural-critique
-- entrepreneurship
-tags:
-- china-business-culture
-- consumer-rights
-- food-safety
-- freedom-of-speech
-people:
-- luo-yonghao
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-01'
-author: 三個水槍手
-speaker: 三個水槍手
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- luo-yonghao
+products_models: []
+project:
+- china-analysis
+- cultural-critique
+- entrepreneurship
 series: ''
 source: https://www.youtube.com/watch?v=FMDfxOFgEys
+speaker: 三個水槍手
 status: evergreen
+summary: 本期节目回应观众对罗永浩事件的评论，深入探讨言论自由的真实含义、消费者对价格的抱怨是否合理、预制菜的国情差异以及食品安全中的“中国特殊论”，并反思国人对商业和民营企业家的认知。
+tags:
+- china
+- food-safety
+- freedom-of-speech
+- right
+title: 罗永浩事件评论解析：言论自由、消费责任与中国特色论
 ---
+
 ### 开场与前期更正
 
 **三個水槍手:** 每周我们都会有一期读评论的节目，主要选取上周最具争议的节目来回应。上周我们最具争议的节目是关于罗永浩与西贝餐饮的探讨，因此本期节目将商榷一些评论。这一期有很多人对武力律师表示不满，我感到很惊讶，因为武力是这个节目的“名义担当”。

@@ -1,50 +1,50 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Wirecutter
+- Goodwill
+- Facebook Marketplace
+- Craigslist
+- IKEA
+- Cherish
+- Baker Furniture
+- New York Times Podcasts
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wire Cutter Show
+- Wirecutter
+people:
+- Christine Sir Cleette
+- Kyra Blackwell
+- Rosie Garin
+- Ivy Elrod
+- Joshua Lion
+- Line Rose
+- Charles Fister
+products_models:
+- Aeron chair
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=8NQuHChPwjU
 speaker: New York Times Podcasts
-tags:
-  - secondhand-shopping
-  - home-decor
-  - negotiation-skills
-  - circular-economy
-  - thrift-store-finds
-title: 旧物新生：专业人士的二手购物与谈判指南
-summary: 本期《Wirecutter Show》节目邀请了家居装饰作家兼前室内设计师艾薇·埃尔罗德（Ivy Elrod），分享她购买二手家具和家居装饰的专业技巧。她深入探讨了购买旧物的动机、寻找独特物品的策略、有效的谈判技巧，以及如何避免潜在的损坏或虫害等常见陷阱。节目还涵盖了如何通过可视化工具搭配空间物品，以及循环经济带来的益处。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Christine Sir Cleette
-  - Kyra Blackwell
-  - Rosie Garin
-  - Ivy Elrod
-  - Joshua Lion
-  - Line Rose
-  - Charles Fister
-companies_orgs:
-  - Wirecutter
-  - Goodwill
-  - Facebook Marketplace
-  - Craigslist
-  - IKEA
-  - Cherish
-  - Baker Furniture
-  - New York Times Podcasts
-products_models:
-  - Aeron chair
-media_books:
-  - The Wire Cutter Show
-  - Wirecutter
 status: evergreen
+summary: 本期《Wirecutter Show》节目邀请了家居装饰作家兼前室内设计师艾薇·埃尔罗德（Ivy Elrod），分享她购买二手家具和家居装饰的专业技巧。她深入探讨了购买旧物的动机、寻找独特物品的策略、有效的谈判技巧，以及如何避免潜在的损坏或虫害等常见陷阱。节目还涵盖了如何通过可视化工具搭配空间物品，以及循环经济带来的益处。
+tags:
+- circular-economy
+- financial
+- life
+- skill
+- thrift-store-find
+title: 旧物新生：专业人士的二手购物与谈判指南
 ---
+
 ### 打造独特空间：二手购物的魅力
 
 我不想让我的空间感觉像其他任何人的空间。

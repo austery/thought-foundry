@@ -1,46 +1,45 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 《Special Comix》
+- 《彭博商业周刊》
+- 《纽约客》
 date: '2025-08-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《一只狼在放哨》
+- 《蛋梦见，自己是块石头》
+people:
+- 我是白
+- 烟囱
+- 甘木
+- 左马
+- Sammy
+- 阿巴斯·基阿鲁斯达米
+- 乌青
+- 项飙
+products_models: []
+project:
+- cultural-critique
+- knowledge-pipeline
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=DQEEkQlN_qU
 speaker: 一席YiXi
-tags:
-  - everyday-mysticism
-  - nonverbal-communication
-  - existential-quietude
-  - memory-as-material
-  - the-poetics-of-the-near
-title: 我是白：当发呆成为创作——无字漫画中的生活切片与存在之思
-summary: 漫画家‘我是白’分享从社恐上班族到独立漫画创作者的转变历程，通过无字图像探索日常中的神秘时刻、童年记忆与存在困惑，揭示‘附近’的丰饶与生命中那些无法言说却深具力量的出神时刻。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - knowledge-pipeline
-  - historical-insights
-people:
-  - 我是白
-  - 烟囱
-  - 甘木
-  - 左马
-  - Sammy
-  - 阿巴斯·基阿鲁斯达米
-  - 乌青
-  - 项飙
-companies_orgs:
-  - 《Special Comix》
-  - 《彭博商业周刊》
-  - 《纽约客》
-products_models: []
-media_books:
-  - 《一只狼在放哨》
-  - 《蛋梦见，自己是块石头》
 status: evergreen
+summary: 漫画家‘我是白’分享从社恐上班族到独立漫画创作者的转变历程，通过无字图像探索日常中的神秘时刻、童年记忆与存在困惑，揭示‘附近’的丰饶与生命中那些无法言说却深具力量的出神时刻。
+tags:
+- communication
+- existential-quietude
+- memory
+- technology
+title: 我是白：当发呆成为创作——无字漫画中的生活切片与存在之思
 ---
+
 ### 从漫画少年到社恐创作者
 
 大家下午好，我是一个漫画家、插画师，笔名叫“我是白”。今天我想分享的是，我是怎么开始画漫画的，以及这之后发生的一些事。

@@ -1,83 +1,83 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- New York Stock Exchange
+- Citigroup
+- General Motors
+- Federal Reserve
+- New York Times
+- J.P. Morgan
+- SEC
+- RCA
+- MicroStrategy
+- Bloomberg Podcasts
 date: '2025-10-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- The Crash
+- Too Big to Fail
+- That Word
+- Den of Thieves
+- A Night to Remember
+- 1929 Inside the Greatest Crash in History and How It Shattered a Nation
+- Dealbook
+- Billions
+- Squawk Box
+- Morning Joe
+people:
+- Andrew Ross Sorkin
+- Joe Weisenthal
+- Tracy Alloway
+- John Kenneth Galbraith
+- Charles Mitchell
+- Jamie Dimon
+- Michael Milken
+- Dick Fuld
+- John Raskob
+- Elon Musk
+- Herbert Hoover
+- Carter Glass
+- Elizabeth Warren
+- Winston Churchill
+- Groucho Marx
+- Jesse Livermore
+- Donald Trump
+- Ken Griffin
+- Andrew Mellon
+- Paul Volcker
+- J.P. Morgan
+- Thomas Lamont
+- Jack Morgan
+- Michael Saylor
+- Evangeline Adams
+- Alexander Noyes
+- Walter Lippmann
+products_models:
+- Bitcoin
+- Empire State Building
+project:
+- investment-strategy
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=5JJBOEPRB2k
 speaker: Bloomberg Podcasts
-tags:
-  - 1929-crash
-  - market-speculation
-  - financial-leverage
-  - regulatory-failure
-  - economic-history
-title: 1929大崩盘：历史的回响与今日的警示——安德鲁·罗斯·索尔金新书访谈
-summary: 这段播客访谈深入探讨了安德鲁·罗斯·索尔金的新书《1929：史上最大崩盘及其如何摧毁一个国家》。访谈揭示了1929年大崩盘前夕的技术局限、市场狂热与投机文化，并详细介绍了查尔斯·米切尔、约翰·拉斯科布等关键人物。更重要的是，它通过对比1929年与当今市场（如AI热潮、监管环境、CEO言论）的异同，探讨了历史的镜鉴作用。核心观点强调，过度杠杆是金融危机的根本原因，并警示了当前监管护栏可能被移除的风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - historical-insights
-  - market-cycles
-people:
-  - Andrew Ross Sorkin
-  - Joe Weisenthal
-  - Tracy Alloway
-  - John Kenneth Galbraith
-  - Charles Mitchell
-  - Jamie Dimon
-  - Michael Milken
-  - Dick Fuld
-  - John Raskob
-  - Elon Musk
-  - Herbert Hoover
-  - Carter Glass
-  - Elizabeth Warren
-  - Winston Churchill
-  - Groucho Marx
-  - Jesse Livermore
-  - Donald Trump
-  - Ken Griffin
-  - Andrew Mellon
-  - Paul Volcker
-  - J.P. Morgan
-  - Thomas Lamont
-  - Jack Morgan
-  - Michael Saylor
-  - Evangeline Adams
-  - Alexander Noyes
-  - Walter Lippmann
-companies_orgs:
-  - New York Stock Exchange
-  - Citigroup
-  - General Motors
-  - Federal Reserve
-  - New York Times
-  - J.P. Morgan
-  - SEC
-  - RCA
-  - MicroStrategy
-  - Bloomberg Podcasts
-products_models:
-  - Bitcoin
-  - Empire State Building
-media_books:
-  - Odd Lots
-  - The Crash
-  - Too Big to Fail
-  - That Word
-  - Den of Thieves
-  - A Night to Remember
-  - 1929 Inside the Greatest Crash in History and How It Shattered a Nation
-  - Dealbook
-  - Billions
-  - Squawk Box
-  - Morning Joe
 status: evergreen
+summary: 这段播客访谈深入探讨了安德鲁·罗斯·索尔金的新书《1929：史上最大崩盘及其如何摧毁一个国家》。访谈揭示了1929年大崩盘前夕的技术局限、市场狂热与投机文化，并详细介绍了查尔斯·米切尔、约翰·拉斯科布等关键人物。更重要的是，它通过对比1929年与当今市场（如AI热潮、监管环境、CEO言论）的异同，探讨了历史的镜鉴作用。核心观点强调，过度杠杆是金融危机的根本原因，并警示了当前监管护栏可能被移除的风险。
+tags:
+- economic-history
+- failure
+- financial
+- history
+- market-speculation
+title: 1929大崩盘：历史的回响与今日的警示——安德鲁·罗斯·索尔金新书访谈
 ---
+
 ### 1929年大崩盘：技术滞后与市场狂热
 
 **Joe Weisenthal:** 1929年，一个重大的技术问题是纽约证券交易所（**New York Stock Exchange**：美国最大的股票交易所）的“**大盘**”（Big Board：指交易所的报价板）经常会滞后数小时。所以，你可能看着报价板，以为自己知道股票的价格，但实际上它已经滞后了几个小时。这还是在你亲身在交易所大厅的情况下。

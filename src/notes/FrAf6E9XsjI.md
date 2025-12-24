@@ -1,32 +1,31 @@
 ---
-title: 2024年大选：特朗普与哈里斯竞选团队的权力游戏、偏执与“毁灭性”一击
-summary: 本文深入剖析2024年大选前夕，特朗普与哈里斯竞选团队的内部运作与外部挑战。从特朗普团队的权力游戏、辩论策略，到哈里斯的身份危机、应对失策，以及双方如何深陷各自的偏执与脱节，最终呈现一场充满戏剧性的选战。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- us-analysis
-tags:
-- debate-performance
-- harris-campaign
-- political-strategy
-- trump-campaign
-- us-election-2024
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-16'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- trump-campaign
+products_models: []
+project:
+- ai-impact-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=FrAf6E9XsjI
+speaker: 北美王路飞
 status: evergreen
+summary: 本文深入剖析2024年大选前夕，特朗普与哈里斯竞选团队的内部运作与外部挑战。从特朗普团队的权力游戏、辩论策略，到哈里斯的身份危机、应对失策，以及双方如何深陷各自的偏执与脱节，最终呈现一场充满戏剧性的选战。
+tags:
+- llm
+- performance
+- political-strategy
+- us-election-2024
+title: 2024年大选：特朗普与哈里斯竞选团队的权力游戏、偏执与“毁灭性”一击
 ---
+
 ### 特朗普竞选团队的权力游戏与内讧
 
 2024年9月7日，大选前不到两个月的一个周六，唐纳德·特朗普登上飞往威斯康辛州的专机时，心情糟透了。他的竞选经理**苏西·怀尔斯**（Susie Wiles: 特朗普的资深竞选经理）在日程表上看到一个让她心沉到谷底的名字——**科里·莱万多夫斯基**（Corey Lewandowski: 特朗普前竞选经理，曾试图夺取竞选团队控制权）。在万米高空之上，特朗普让怀尔斯去机舱前头的办公室见科里，一场酝酿已久的政变正式摊牌。莱万多夫斯基告诉怀尔斯，他受特朗普委托的审计已经结束了，结论是整个竞选团队都烂透了。他暗示所有的开支决策都是为了让顾问中饱私囊，而不是为了赢得选举。莱万多夫斯基宣布：“从现在开始，我说了算，没有我的批准，你不能再招任何人，也不能再花一分钱。”

@@ -1,66 +1,66 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- WTO
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《自由的窄廊》
+- 《制度的基因》
+- 《秦汉史讲义》
+people:
+- 毛泽东
+- Xi Jinping
+- 邓小平
+- 江泽民
+- 胡锦涛
+- 温家宝
+- 赵紫阳
+- 许成钢
+- 秦晖
+- 李强
+- 蔡奇
+- 耿飚
+- 马林科夫
+- 斯大林
+- 赫鲁晓夫
+- 勃列日涅夫
+- 刘少奇
+- 令计划
+- 薄熙来
+- 高岗
+- 饶漱石
+- 董仲舒
+- 陈胜
+- 吴广
+- 曹操
+- 王莽
+- 雍正
+- 特朗普
+products_models:
+- MBTI
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=2zUak31UmZ0
 speaker: FearNation 世界苦茶
-tags:
-  - institutional-genes
-  - political-transformation
-  - historical-inertia
-  - central-local-relations
-  - bureaucratic-politics
-title: 中华帝制的基因：理解中国政治转型的历史惯性
-summary: 本文深入探讨了中国政治转型的深层逻辑，认为其并非简单的宪政或革命模式，而是一种渐进的“制度飘移”。文章辨析了苏联模式与中华帝制对当代中国的双重影响，并着重剖析了后者遗留下的制度基因：高度个人化的权力、作为统治工具的正统思想、对地方主义的持续“修剪”、以及官吏与民众的二元社会结构。理解这些塑造了数千年政治运作的历史惯性，是洞察中国未来转型路径的关键。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 毛泽东
-  - 习近平
-  - 邓小平
-  - 江泽民
-  - 胡锦涛
-  - 温家宝
-  - 赵紫阳
-  - 许成钢
-  - 秦晖
-  - 李强
-  - 蔡奇
-  - 耿飚
-  - 马林科夫
-  - 斯大林
-  - 赫鲁晓夫
-  - 勃列日涅夫
-  - 刘少奇
-  - 令计划
-  - 薄熙来
-  - 高岗
-  - 饶漱石
-  - 董仲舒
-  - 陈胜
-  - 吴广
-  - 曹操
-  - 王莽
-  - 雍正
-  - 特朗普
-companies_orgs:
-  - WTO
-products_models:
-  - MBTI
-media_books:
-  - 《自由的窄廊》
-  - 《制度的基因》
-  - 《秦汉史讲义》
 status: evergreen
+summary: 本文深入探讨了中国政治转型的深层逻辑，认为其并非简单的宪政或革命模式，而是一种渐进的“制度飘移”。文章辨析了苏联模式与中华帝制对当代中国的双重影响，并着重剖析了后者遗留下的制度基因：高度个人化的权力、作为统治工具的正统思想、对地方主义的持续“修剪”、以及官吏与民众的二元社会结构。理解这些塑造了数千年政治运作的历史惯性，是洞察中国未来转型路径的关键。
+tags:
+- historical
+- institutional
+- political
+- politics
+- relations
+title: 中华帝制的基因：理解中国政治转型的历史惯性
 ---
+
 ### 中国政治转型的复杂性
 转型问题对所有关心中国政治和未来的人来说都不陌生，但对此并没有一个统一的答案。有人认为可以转型，有人则认为转不了，甚至可能千秋万代。最近有领导人说自己要活到150岁，让很多人感到惶恐，因为过去大家寄望于“比他长寿”的希望似乎面临崩溃的危险。
 

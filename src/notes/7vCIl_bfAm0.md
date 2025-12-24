@@ -1,55 +1,55 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: business
+companies_orgs:
+- 瑞幸咖啡
+- 海底捞
+- 麦当劳
+- 美团
+- 肯德基
+- 必胜客
+- 吉野家
+- 沸腾鱼乡
+- 喜茶
+- 胡大
 date: '2023-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 抖音
+- 《功夫熊猫》
+people:
+- 孟广美
+- 吉增和
+- 胡锡进
+- 邓丽君
+- 周杰伦
+products_models:
+- 酱香拿铁
+- 科目三
+- 板烧鸡腿堡
+- 臭鳜鱼
+- 麻辣小龙虾
+- 青花瓷
+project:
+- china-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=7vCIl_bfAm0
 speaker: 莊也雜談
-tags:
-  - consumption-downgrade
-  - catering-industry-involution
-  - fierce-competition
-  - service-innovation
-  - vocational-education-debate
-title: 中国餐饮业的内卷与消费降级：一场美食盛宴背后的生存挑战
-summary: 本期节目深入探讨了中国餐饮业在消费降级和激烈内卷背景下的现状。庄也分享了回国期间的餐饮体验，从外卖的便捷、喜茶的爆火，到老牌餐厅的衰落，揭示了行业面临的挑战。节目分析了瑞幸咖啡的成功模式、餐饮创业的高风险，并提出了进入餐饮业的四大成功条件，包括连锁加盟、独特绝活、政策支持和极致服务（如海底捞的“科目三”）。最后，庄也回应了观众关于职高教育和“大外宣”身份的争议，强调个人选择的多元性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - china-analysis
-  - market-cycles
-people:
-  - 孟广美
-  - 吉增和
-  - 胡锡进
-  - 邓丽君
-  - 周杰伦
-companies_orgs:
-  - 瑞幸咖啡
-  - 海底捞
-  - 麦当劳
-  - 美团
-  - 肯德基
-  - 必胜客
-  - 吉野家
-  - 沸腾鱼乡
-  - 喜茶
-  - 胡大
-products_models:
-  - 酱香拿铁
-  - 科目三
-  - 板烧鸡腿堡
-  - 臭鳜鱼
-  - 麻辣小龙虾
-  - 青花瓷
-media_books:
-  - 抖音
-  - 《功夫熊猫》
 status: evergreen
+summary: 本期节目深入探讨了中国餐饮业在消费降级和激烈内卷背景下的现状。庄也分享了回国期间的餐饮体验，从外卖的便捷、喜茶的爆火，到老牌餐厅的衰落，揭示了行业面临的挑战。节目分析了瑞幸咖啡的成功模式、餐饮创业的高风险，并提出了进入餐饮业的四大成功条件，包括连锁加盟、独特绝活、政策支持和极致服务（如海底捞的“科目三”）。最后，庄也回应了观众关于职高教育和“大外宣”身份的争议，强调个人选择的多元性。
+tags:
+- competition
+- consumption
+- education
+- industry
+- innovation
+title: 中国餐饮业的内卷与消费降级：一场美食盛宴背后的生存挑战
 ---
+
 ### 中国美食体验：从多伦多到北京
 
 大家好，我是庄也，欢迎收看庄也杂谈。有人说我每次开场都一个样，烦不烦人，看腻了能不能换一个？我觉得换了不好看，而且浑身刺挠，这不是我的习惯，大家就凑合听吧。今天咱们这期聊一个比较轻松的话题，说一说在中国的吃喝玩乐。一说吃，估计大家都会感兴趣，俗话说民以食为天，谁不喜欢吃呢？

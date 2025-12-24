@@ -1,49 +1,48 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: technology
+companies_orgs:
+- Message Bird
+- ASML
+- Booking.com
+- Adyen
+- Mollie
+- Picnic
+- Fastned
+- TSMC
+- Samsung
+- Intel
+- Delft University of Technology
+- Eindhoven University of Technology
+- University of Twente
+- University of Amsterdam
 date: '2025-06-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- QS World University Rankings 2022
+- Where to Run
+products_models: []
+project:
+- ai-impact-analysis
+- market-cycles
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=4ONbQZRrP14
 speaker: TechButMakeItReal
-tags:
-  - dutch-tech-market
-  - tech-layoffs
-  - talent-shortage
-  - housing-affordability
-  - work-life-balance
-title: 荷兰如何规避全球科技裁员潮：韧性与挑战并存的科技市场
-summary: 在2022年至2025年全球科技行业经历大规模裁员之际，荷兰市场展现出独特的韧性，裁员率远低于美国和欧洲其他地区。这得益于严格的劳动法、对深度科技的投资以及对招聘冻结而非大规模裁员的偏好。然而，荷兰也面临严重的劳动力短缺、住房成本飙升以及早期创业投资趋于谨慎等结构性挑战。本文深入探讨了荷兰科技市场的独特动态、主要公司、外包趋势、人才培养和生活成本，为考虑在荷兰发展科技职业的人士提供了全面洞察。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - market-cycles
-  - entrepreneurship
-people: []
-companies_orgs:
-  - Message Bird
-  - ASML
-  - Booking.com
-  - Adyen
-  - Mollie
-  - Picnic
-  - Fastned
-  - TSMC
-  - Samsung
-  - Intel
-  - Delft University of Technology
-  - Eindhoven University of Technology
-  - University of Twente
-  - University of Amsterdam
-products_models: []
-media_books:
-  - QS World University Rankings 2022
-  - Where to Run
 status: evergreen
+summary: 在2022年至2025年全球科技行业经历大规模裁员之际，荷兰市场展现出独特的韧性，裁员率远低于美国和欧洲其他地区。这得益于严格的劳动法、对深度科技的投资以及对招聘冻结而非大规模裁员的偏好。然而，荷兰也面临严重的劳动力短缺、住房成本飙升以及早期创业投资趋于谨慎等结构性挑战。本文深入探讨了荷兰科技市场的独特动态、主要公司、外包趋势、人才培养和生活成本，为考虑在荷兰发展科技职业的人士提供了全面洞察。
+tags:
+- housing-affordability
+- market
+- talent
+- tech
+- work-life-balance
+title: 荷兰如何规避全球科技裁员潮：韧性与挑战并存的科技市场
 ---
+
 ### 荷兰科技市场：逆势而上的独特韧性
 
 当美国、加拿大、德国和瑞士的科技巨头通过大规模裁员重创人才，并努力应对疫情余波时，一个欧洲市场却悄然抵制了这种混乱，并采取了不同的做法——那就是荷兰。它并非戏剧性地更好，只是有所不同。

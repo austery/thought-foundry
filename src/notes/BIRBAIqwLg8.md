@@ -1,38 +1,38 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
+- Garmin
+- 史丹佛大學
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Biomolecular Concepts
+people:
+- 宋晏仁
+products_models:
+- Garmin Venu 4
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=BIRBAIqwLg8
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - stress-management
-  - efficient-rest
-  - hrv-monitoring
-  - mindfulness
-  - sleep-optimization
-title: 缓解压力，提升身心健康：宋晏仁医师的高效休息法
-summary: 现代生活节奏快，压力无处不在。本文将深入探讨压力对身心的影响，从神经科学角度解析慢性压力的生理机制，并介绍如何通过心率变异度（HRV）监测身体状态。宋晏仁医师分享了五种高效休息法，包括规律运动、呼吸练习、冥想、亲近自然与优化睡眠，旨在帮助读者有效管理压力，提升身心健康与生活品质。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 宋晏仁
-companies_orgs:
-  - 初日醫學
-  - Cofit
-  - Garmin
-  - 史丹佛大學
-products_models:
-  - Garmin Venu 4
-media_books:
-  - Biomolecular Concepts
 status: evergreen
+summary: 现代生活节奏快，压力无处不在。本文将深入探讨压力对身心的影响，从神经科学角度解析慢性压力的生理机制，并介绍如何通过心率变异度（HRV）监测身体状态。宋晏仁医师分享了五种高效休息法，包括规律运动、呼吸练习、冥想、亲近自然与优化睡眠，旨在帮助读者有效管理压力，提升身心健康与生活品质。
+tags:
+- efficient-rest
+- hrv-monitoring
+- mindfulnes
+- optimization
+- stress-management
+title: 缓解压力，提升身心健康：宋晏仁医师的高效休息法
 ---
+
 ### 现代压力源与身体的威胁评估
 
 当我们看到手机来电不想接，或者老板传来讯息却深呼吸好几次不敢点开时，这在神经科学中被称为**威胁评估**（Threat Assessment: 大脑推测某事是否会带来痛苦、不适或焦虑的过程）。一旦感受到威胁，大脑就会提早启动下意识想要逃离或拖延的反应。如今的压力，已不仅仅来自工作和家庭，更源于我们每天被网络、3C社群平台和即时讯息的轰炸。现代人生活在一个没有真正空白的生活节奏中，注意力永远处于备战状态。

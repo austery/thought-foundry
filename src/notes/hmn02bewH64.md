@@ -1,54 +1,54 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: general
+companies_orgs:
+- OneTaste
+- Morehouse
+- Welcomed Consensus
+- Goop
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《每周工作4小时》
+- 《身体调教圣经》
+- 纽约时报
+- BBC
+- TED大会
+people:
+- 尼可·戴多恩
+- Jennifer Bonjean
+- 哈威·韦恩斯坦
+- 比尔·科斯比
+- R. Kelly
+- 蒂姆·费里斯
+- 格温妮丝·帕特洛
+- 瑞茜·琼斯
+- 雷切尔
+- 鲍勃
+- 贝基
+- 唐纳德·特朗普
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=hmn02bewH64
 speaker: 北美王路飞
-tags:
-  - cult-mechanisms
-  - spiritual-manipulation
-  - economic-exploitation
-  - psychological-control
-  - vulnerability-exploitation
-title: 以爱之名，高潮为饵：硅谷“高潮邪教”OneTaste的崛起与覆灭
-summary: 本文揭露了硅谷“高潮冥想”公司OneTaste创始人尼可·戴多恩的真实面目。她曾被誉为女权先锋，却被指控利用人性的弱点，通过精神操控、经济榨取和性奴役，将公司变为现代邪教。文章详细剖析了OneTaste如何吸引精英、构建控制机制，以及最终因强制劳动串谋罪名成立而走向覆灭，并警示读者警惕打着灵性或商业旗号的陷阱。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - us-analysis
-people:
-  - 尼可·戴多恩
-  - Jennifer Bonjean
-  - 哈威·韦恩斯坦
-  - 比尔·科斯比
-  - R. Kelly
-  - 蒂姆·费里斯
-  - 格温妮丝·帕特洛
-  - 瑞茜·琼斯
-  - 雷切尔
-  - 鲍勃
-  - 贝基
-  - 唐纳德·特朗普
-companies_orgs:
-  - OneTaste
-  - Morehouse
-  - Welcomed Consensus
-  - Goop
-products_models: []
-media_books:
-  - 《每周工作4小时》
-  - 《身体调教圣经》
-  - 纽约时报
-  - BBC
-  - TED大会
 status: evergreen
+summary: 本文揭露了硅谷“高潮冥想”公司OneTaste创始人尼可·戴多恩的真实面目。她曾被誉为女权先锋，却被指控利用人性的弱点，通过精神操控、经济榨取和性奴役，将公司变为现代邪教。文章详细剖析了OneTaste如何吸引精英、构建控制机制，以及最终因强制劳动串谋罪名成立而走向覆灭，并警示读者警惕打着灵性或商业旗号的陷阱。
+tags:
+- control
+- cult-mechanism
+- economic
+- history
+- spiritual-manipulation
+title: 以爱之名，高潮为饵：硅谷“高潮邪教”OneTaste的崛起与覆灭
 ---
+
 ### 荒诞的开场：女权先锋与魔鬼代言人
 
 今天我们要讲述的故事，开始于一个极其荒诞的画面。时间是2024年5月，地点是纽约布鲁克林的联邦法院。您现在看到的这张照片，它的主角叫**尼可·戴多恩**（Nicole Daedone: OneTaste创始人，被指控为邪教头目）。你看，他裹着一条质感极佳的米色披肩，头发梳得一丝不苟，脸上带着一种近乎禅意的平静微笑。如果不告诉你背景，你可能会以为这是一位即将去大都会博物馆参加慈善晚宴的文化名流，或者是一位刚刚结束进修的灵性导师。

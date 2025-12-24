@@ -1,37 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: culture
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-04-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 宋晏仁
+- 萧家駒
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=LPJm_C_suPU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - traditional-chinese-medicine
-  - taste-therapy
-  - macroscopic-diagnosis
-  - diabetes-management
-  - integrative-health
-title: 中西醫對話：味道、臟象與糖尿病、肥胖症的獨特視角
-summary: 本期《初日會客室》邀請中醫師蕭家駒，深入探討中醫如何透過「味道」與「臟象」理論，來理解並調理糖尿病、肥胖症及皮膚炎等現代醫學難題。蕭醫師以白虎加參湯為例，闡釋中醫宏觀辨證的智慧，並比較中西醫在病因不明疾病上的優勢與局限，強調中醫在身體趨勢判斷與彈性策略上的價值，為聽眾帶來跨越傳統框架的健康新思維。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - personal-growth-lab
-people:
-  - 宋晏仁
-  - 萧家駒
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期《初日會客室》邀請中醫師蕭家駒，深入探討中醫如何透過「味道」與「臟象」理論，來理解並調理糖尿病、肥胖症及皮膚炎等現代醫學難題。蕭醫師以白虎加參湯為例，闡釋中醫宏觀辨證的智慧，並比較中西醫在病因不明疾病上的優勢與局限，強調中醫在身體趨勢判斷與彈性策略上的價值，為聽眾帶來跨越傳統框架的健康新思維。
+tags:
+- chinese
+- financial
+- health
+- history
+- management
+title: 中西醫對話：味道、臟象與糖尿病、肥胖症的獨特視角
 ---
+
 ### 中醫的獨特視角：味道與疾病的關聯
 
 你可能會覺得不可思議，一種腸胃藥竟然可以治療感冒，還能控制皮膚炎。這在西醫看來或許難以置信，但對於中醫而言，卻是如此自然。中醫從「味道」的角度來探討身體的反應。例如，為什麼吃了荔枝會流鼻血？那是因為鹹味在中醫理論中，是「心」的油門。如果你本身就是個火氣很旺的人，那麼攝入鹹味就可能導致流鼻血。

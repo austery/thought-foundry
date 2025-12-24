@@ -1,32 +1,30 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: finance
+companies_orgs: []
 date: '2025-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=dFQVy7uTByU
 speaker: 海淀拙大叔
-tags:
-  - total-demand-insufficiency
-  - systemic-reform
-  - asset-price-inflation
-  - consumption-stimulus
-  - economic-growth-drivers
-title: 中国经济长期增长的根本之道：解决总需求不足与深化体制改革
-summary: 本期宏观经济分析指出，中国经济的长期增长核心在于解决总需求不足问题。文章深入探讨了刺激投资和外循环的局限性，并强调总需求不足需通过收入与支出体制性改革来解决。虽然体制改革是慢变量，但推升资产价格（尤其是股市）可作为刺激总需求的快变量。文章还详细分析了消费不足的“没钱、不敢、不愿”三大症结，并结合20届三中全会决议，展望了通过深化收入分配、社保、住房及农村土地等体制改革，实现中国经济长期、高质量增长的路径。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期宏观经济分析指出，中国经济的长期增长核心在于解决总需求不足问题。文章深入探讨了刺激投资和外循环的局限性，并强调总需求不足需通过收入与支出体制性改革来解决。虽然体制改革是慢变量，但推升资产价格（尤其是股市）可作为刺激总需求的快变量。文章还详细分析了消费不足的“没钱、不敢、不愿”三大症结，并结合20届三中全会决议，展望了通过深化收入分配、社保、住房及农村土地等体制改革，实现中国经济长期、高质量增长的路径。
+tags:
+- asset-price-inflation
+- consumption
+- economic-growth-driver
+- financial
+- reform
+title: 中国经济长期增长的根本之道：解决总需求不足与深化体制改革
 ---
+
 ### 中国经济长期增长的核心挑战
 
 阿甘经济宏观论第7集探讨了中国经济长期增长的关键问题：只有解决总需求不足，中国经济才能实现长期增长。此前几集已指出，中国经济增长面临总需求、总成本和总供给三大问题，其中总成本和总供给问题已基本解决，当前的核心是总需求不足。

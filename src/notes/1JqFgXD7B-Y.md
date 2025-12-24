@@ -1,37 +1,35 @@
 ---
-author: 徒步的騎手
+area: personal-systems
+category: career
+companies_orgs:
+- Google
+- Microsoft
+- Amazon
+- OpenAI
 date: '2025-08-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 黄仁勋
+- Sean Grove
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=1JqFgXD7B-Y
 speaker: 徒步的騎手
-tags:
-  - communication-skills
-  - ai-job-displacement
-  - t-shaped-talent
-  - educational-reform
-  - career-adaptation
-title: 黄仁勋的预言：AI时代，沟通能力为何成为最重要的生存法则？
-summary: 英伟达CEO黄仁勋预言，未来编程将不再是核心技能。在AI浪潮下，许多传统技术岗位面临被替代的风险，造成了“理工科孔乙己”的困境。本文深入探讨了为何高质量的沟通能力——包括与人的协作和与AI的交互——正成为新的核心竞争力。文章引用OpenAI专家的观点，指出未来80-90%的价值将源于“结构化沟通”。最后，提出了在AI时代的生存法则，例如成为T型人才、以能力而非岗位定义自己，并培养跨领域的学习能力。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - 黄仁勋
-  - Sean Grove
-companies_orgs:
-  - Google
-  - Microsoft
-  - Amazon
-  - OpenAI
-products_models: []
-media_books: []
 status: evergreen
+summary: 英伟达CEO黄仁勋预言，未来编程将不再是核心技能。在AI浪潮下，许多传统技术岗位面临被替代的风险，造成了“理工科孔乙己”的困境。本文深入探讨了为何高质量的沟通能力——包括与人的协作和与AI的交互——正成为新的核心竞争力。文章引用OpenAI专家的观点，指出未来80-90%的价值将源于“结构化沟通”。最后，提出了在AI时代的生存法则，例如成为T型人才、以能力而非岗位定义自己，并培养跨领域的学习能力。
+tags:
+- ai-job-displacement
+- career
+- communication-skill
+- educational-reform
+- talent
+title: 黄仁勋的预言：AI时代，沟通能力为何成为最重要的生存法则？
 ---
 
 ### 引言：一句让人如沐春风的话

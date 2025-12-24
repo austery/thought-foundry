@@ -1,47 +1,47 @@
 ---
-author: 知行小酒馆
+area: personal-systems
+category: psychology
+companies_orgs:
+- 米哈游
+- ByteDance
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《石铁生散文集》
+- 知行小酒馆
+- 有知有行APP
+people:
+- 豆花
+- 浪花
+- 可亚
+- 江轩
+- 烤肉君
+- 建存
+- 欧阳娜娜
+products_models:
+- 泡泡
+- 余格宝
+project:
+- personal-growth-lab
+- fire-movement
+series: ''
 source: https://www.youtube.com/watch?v=yWS7C6kUUt8
 speaker: 知行小酒馆
-tags:
-  - financial-independence
-  - personal-growth
-  - consumer-behavior
-  - childhood-trauma
-  - career-choices
-  - money-mindset
-title: 有钱真好：六个普通人的生活修复时刻
-summary: 本期节目汇集了六位听友的真实故事，他们分享了金钱如何帮助他们修复生活、实现自我。从追星少女豆花通过自律和热爱走向丰盛，到浪花用积蓄为父亲解决医药费，再到可亚面对巨额遗产的焦虑与成长，以及江轩用钱疗愈童年病痛，烤肉君因财务自由选择热爱的工作，最后是建存通过储蓄为家人和自己带来安全感。这些故事共同揭示了金钱不仅能带来快乐，更重要的是它能赋予我们掌控感，让我们活得更像自己，对生活多一份余地和温柔。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - fire-movement
-people:
-  - 豆花
-  - 浪花
-  - 可亚
-  - 江轩
-  - 烤肉君
-  - 建存
-  - 欧阳娜娜
-companies_orgs:
-  - 米哈游
-  - 字节跳动
-products_models:
-  - 泡泡
-  - 余格宝
-media_books:
-  - 《石铁生散文集》
-  - 知行小酒馆
-  - 有知有行APP
 status: evergreen
+summary: 本期节目汇集了六位听友的真实故事，他们分享了金钱如何帮助他们修复生活、实现自我。从追星少女豆花通过自律和热爱走向丰盛，到浪花用积蓄为父亲解决医药费，再到可亚面对巨额遗产的焦虑与成长，以及江轩用钱疗愈童年病痛，烤肉君因财务自由选择热爱的工作，最后是建存通过储蓄为家人和自己带来安全感。这些故事共同揭示了金钱不仅能带来快乐，更重要的是它能赋予我们掌控感，让我们活得更像自己，对生活多一份余地和温柔。
+tags:
+- career
+- consumer-behavior
+- financial-independence
+- mindset
+- personal-growth
+- psychology
+title: 有钱真好：六个普通人的生活修复时刻
 ---
+
 ### 金钱与生活：六个普通人的修复故事
 
 当不再被金钱所困扰，或者终于不再被钱推着走的时候，有没有那么一刻，你突然觉得“有钱真好”？这句话听上去可能有些俗气，但它几乎在每个人的生活中都发生过。这一次，我们收到了上百份听友投稿，从中选出了六个故事。它们来自不同的背景，但都在用自己的方式来回答一个问题：有钱真好，到底好在哪？

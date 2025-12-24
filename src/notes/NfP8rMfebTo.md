@@ -1,30 +1,29 @@
 ---
-title: 摩根大通新总部落成：一窥华尔街巨头的宏大版图与未来展望
-summary: 本文探讨了摩根大通位于纽约的新总部大楼，以及围绕该银行的一系列宏伟地产项目。同时，也分析了当前美国消费者的状况、华尔街的盈利前景以及对潜在经济衰退的担忧。
 area: null
 category: null
-project: []
-tags:
-- commercial-real-estate
-- consumer-spending
-- wall-street
-people: []
 companies_orgs:
 - jpmorgan-chase
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-08'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NfP8rMfebTo
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本文探讨了摩根大通位于纽约的新总部大楼，以及围绕该银行的一系列宏伟地产项目。同时，也分析了当前美国消费者的状况、华尔街的盈利前景以及对潜在经济衰退的担忧。
+tags:
+- consumer-spending
+- real
+- wall-street
+title: 摩根大通新总部落成：一窥华尔街巨头的宏大版图与未来展望
 ---
+
 ### 摩根大通新总部大楼的落成
 
 Anyone who has been, you know, in Manhattan in the last couple of years, if you've just looked up toward the sky and tilted your head toward midtown, you would have seen this building.

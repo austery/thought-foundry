@@ -1,54 +1,46 @@
 ---
-title: "专访课代表立正：从大厂副总监到AI创业者，如何用“真本事”重塑职业生涯"
-summary: "本期播客专访了AI社区创始人“课代表立正”。他分享了从腾讯、Meta、Amazon等大厂离职创业的心路历程，深入探讨了AI泡沫的本质、副业的时间管理法则以及高客单价课程的定价逻辑。立正指出，AI能力的瓶颈往往在于人类提供的上下文（Context）不足，并强调在“冷市场”中，真正的技术能力比职场软技能更为重要。对话还涉及了大厂与初创公司的选择、职业生涯末期的危机感以及如何通过“真本事”构建反脆弱的职业护城河。"
-
-area: "personal-systems"
-category: "career"
-project:
-  - "ai-impact-analysis"
-  - "entrepreneurship"
-  - "personal-growth-lab"
-
-tags:
-  - "ai-bubble"
-  - "side-hustle"
-  - "pricing-strategy"
-  - "career-transition"
-  - "prompt-engineering"
-
-people:
-  - "课代表立正"
-  - "孙玉珍"
-  - "子鱼"
-  - "Lumi"
-  - "鸭哥"
-  - "徐老师"
-  - "张一鸣"
-  - "李阳"
-
+area: tech-engineering
+category: ai-ml
 companies_orgs:
-  - "Tencent"
-  - "Meta"
-  - "Amazon"
-  - "OpenAI"
-  - "Google"
-  - "Shopify"
-  - "Maven"
-  - "Statsig"
-
-products_models:
-  - "ChatGPT"
-  - "Gemini"
-  - "Cursor"
-  - "Blender"
-
-media_books:
-  - "《Bullshit Jobs》"
+- Tencent
+- Meta
+- Amazon
+- OpenAI
+- Google
+- Shopify
+- Maven
+- Statsig
 date: 2025-12-20
-source: https://www.xiaoyuzhoufm.com/episode/6947c9a19f70e5d6b3795ff5
-author: Lei
-speaker: Lei
 layout: post.njk
+media_books:
+- 《Bullshit Jobs》
+people:
+- 课代表立正
+- 孙玉珍
+- 子鱼
+- Lumi
+- 鸭哥
+- 徐老师
+- 张一鸣
+- 李阳
+products_models:
+- ChatGPT
+- Gemini
+- Cursor
+- Blender
+project:
+- ai-impact-analysis
+- entrepreneurship
+- personal-growth-lab
+source: https://www.xiaoyuzhoufm.com/episode/6947c9a19f70e5d6b3795ff5
+speaker: Lei
+summary: 本期播客专访了AI社区创始人“课代表立正”。他分享了从腾讯、Meta、Amazon等大厂离职创业的心路历程，深入探讨了AI泡沫的本质、副业的时间管理法则以及高客单价课程的定价逻辑。立正指出，AI能力的瓶颈往往在于人类提供的上下文（Context）不足，并强调在“冷市场”中，真正的技术能力比职场软技能更为重要。对话还涉及了大厂与初创公司的选择、职业生涯末期的危机感以及如何通过“真本事”构建反脆弱的职业护城河。
+tags:
+- ai-bubble
+- career-transition
+- side-hustle
+- strategy
+title: 专访课代表立正：从大厂副总监到AI创业者，如何用“真本事”重塑职业生涯
 ---
 
 ### AI泡沫与长期价值

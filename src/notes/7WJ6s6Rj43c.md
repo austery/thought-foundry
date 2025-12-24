@@ -1,44 +1,42 @@
 ---
-author: 北美王路飞
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Learning Resources
+- Walmart
+- Bloomberg
+- CEL
+- Ha Nam职业学院
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Elana Ruffman
+- Stefan Ruffman
+- Donald Trump
+- K
+products_models:
+- 老鼠机器人
+- 刺猬派斯克刺猬斯派克
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=7WJ6s6Rj43c
 speaker: 北美王路飞
-tags:
-  - us-china-decoupling
-  - global-supply-chain
-  - manufacturing-relocation
-  - trade-war-impact
-  - vietnam-manufacturing
-title: 2025制造业真相：全球欲“脱钩”中国，却难离中国制造
-summary: 本篇文章深入探讨了美国企业在贸易保护主义下，试图将制造业供应链从中国转移至越南所面临的残酷现实。通过一家美国玩具巨头的案例，揭示了中国在全球供应链中难以替代的地位，以及企业在“去中国化”过程中付出的高昂隐性成本，包括效率下降、创新停滞和产品“缩水”。文章指出，全球化并非简单拆解重组，而是一场多输的复杂博弈，中国制造以更基础的方式渗透在全球工业的血管中。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Elana Ruffman
-  - Stefan Ruffman
-  - Donald Trump
-  - K
-companies_orgs:
-  - Learning Resources
-  - Walmart
-  - Bloomberg
-  - CEL
-  - Ha Nam职业学院
-products_models:
-  - 老鼠机器人
-  - 刺猬派斯克刺猬斯派克
-media_books: []
 status: evergreen
+summary: 本篇文章深入探讨了美国企业在贸易保护主义下，试图将制造业供应链从中国转移至越南所面临的残酷现实。通过一家美国玩具巨头的案例，揭示了中国在全球供应链中难以替代的地位，以及企业在“去中国化”过程中付出的高昂隐性成本，包括效率下降、创新停滞和产品“缩水”。文章指出，全球化并非简单拆解重组，而是一场多输的复杂博弈，中国制造以更基础的方式渗透在全球工业的血管中。
+tags:
+- china
+- global-supply-chain
+- manufacturing
+- trade-war-impact
+title: 2025制造业真相：全球欲“脱钩”中国，却难离中国制造
 ---
+
 ### 越南工厂里的中国印记：一场时空错位感
 
 假设你现在被蒙上双眼，经过长途飞行和几个小时的颠簸车程，被带到一个地方。当你摘下眼罩，映入眼帘的是一番景象：巨大石碑上刻着苍劲的汉字，工厂大门严格遵循风水学朝北开设，寓意着北斗高悬。进门第一眼是一个精心设计的锦鲤池，池水的流向正对着东北位的聚财位。而在你耳边，是不是飘过几句带着浙江口音的普通话？你第一直觉会告诉自己，这里是哪里呢？是制造业之都东莞？是义乌的某个工业园？还是浙江沿海的某个小镇？如果你的答案是以上任何一个，那么恭喜你，你的感官是正常的，但你的地理定位完全错了。这里是越南，确切来说，是距离河内两小时车程的府里市。这家工厂叫做东方玩具厂。

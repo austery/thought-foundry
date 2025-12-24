@@ -1,83 +1,83 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Federal Reserve Bank of San Francisco
+- Federal Reserve Bank of Minneapolis
+- Federal Reserve Bank of St. Louis
+- Federal Reserve Bank of Atlanta
+- The White House
+- Hamas
+- Ministry of Foreign Affairs of China
+- Japan Ministry of Defense
+- The Pentagon
+- Taiwan Presidential Office
+- Chinese Communist Party
+- National Bureau of Statistics of China
+- Natixis
+- Longzhou Economics
+- National Association of Colleges and Employers
+- Federal Reserve Bank of New York
+- Amazon
+- Queens' College, Cambridge
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- Bloomberg
+- Yahoo Finance
+- Reuters
+- BBC
+- 香港新党日报
+- The Economist
+- The Wall Street Journal
+- Xinhua News Agency
+- 《繁花》
+people:
+- 戴利
+- 卡斯卡里
+- 穆萨琳
+- 波斯蒂克
+- Mohamed El-Erian
+- 戈列尔
+- Donald Trump
+- Xi Jinping
+- 斯文森
+- 高市早苗
+- 松田康博
+- 麻生太郎
+- 王家卫
+- 李爽
+- 陈俊年
+- 林建
+- 南福安
+- 加西亞
+- 贝多尔
+products_models:
+- F-16
+- C-130
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=OOCOFx10SZo
 speaker: LT視界
-tags:
-  - us-monetary-policy
-  - ai-investment-risk
-  - geopolitical-tensions
-  - chinese-economic-slowdown
-  - social-control-china
-title: 美联储降息前景不明，中国经济数据引困惑，地缘政治与社会控制成焦点
-summary: 本期节目深入分析了全球多项重要议题。美联储12月降息前景趋于谨慎，市场笼罩不确定性。著名经济学家伊尔·艾朗对人工智能泡沫提出警示。美国贸易政策调整、中美稀土谈判僵局以及对台军售，凸显地缘政治紧张。中国经济数据投资暴跌，引发国际社会对官方GDP数据的质疑。同时，王家卫《繁花》事件折射出中国社会言论管控与历史记忆的复杂性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 戴利
-  - 卡斯卡里
-  - 穆萨琳
-  - 波斯蒂克
-  - Mohamed El-Erian
-  - 戈列尔
-  - Donald Trump
-  - Xi Jinping
-  - 斯文森
-  - 高市早苗
-  - 松田康博
-  - 麻生太郎
-  - 王家卫
-  - 李爽
-  - 陈俊年
-  - 林建
-  - 南福安
-  - 加西亞
-  - 贝多尔
-companies_orgs:
-  - Federal Reserve
-  - Federal Reserve Bank of San Francisco
-  - Federal Reserve Bank of Minneapolis
-  - Federal Reserve Bank of St. Louis
-  - Federal Reserve Bank of Atlanta
-  - The White House
-  - Hamas
-  - Ministry of Foreign Affairs of China
-  - Japan Ministry of Defense
-  - The Pentagon
-  - Taiwan Presidential Office
-  - Chinese Communist Party
-  - National Bureau of Statistics of China
-  - Natixis
-  - Longzhou Economics
-  - National Association of Colleges and Employers
-  - Federal Reserve Bank of New York
-  - Amazon
-  - Queens' College, Cambridge
-products_models:
-  - F-16
-  - C-130
-media_books:
-  - Financial Times
-  - Bloomberg
-  - Yahoo Finance
-  - Reuters
-  - BBC
-  - 香港新党日报
-  - The Economist
-  - The Wall Street Journal
-  - Xinhua News Agency
-  - 《繁花》
 status: evergreen
+summary: 本期节目深入分析了全球多项重要议题。美联储12月降息前景趋于谨慎，市场笼罩不确定性。著名经济学家伊尔·艾朗对人工智能泡沫提出警示。美国贸易政策调整、中美稀土谈判僵局以及对台军售，凸显地缘政治紧张。中国经济数据投资暴跌，引发国际社会对官方GDP数据的质疑。同时，王家卫《繁花》事件折射出中国社会言论管控与历史记忆的复杂性。
+tags:
+- ai-investment-risk
+- economic
+- geopolitical-tension
+- social
+- us-monetary-policy
+title: 美联储降息前景不明，中国经济数据引困惑，地缘政治与社会控制成焦点
 ---
+
 ### 美联储降息前景与市场反应
 
 全球资本市场目前笼罩在不确定性中，主要源于美联储内部对12月份是否降息的动向。有观点认为，12月份降息的确定性降低，即便降息也可能仅为25个基点，并附带对泡沫的质疑。这两种舆论叠加，使得资本市场在12月9日之前可能持续多云甚至阴雨绵绵。

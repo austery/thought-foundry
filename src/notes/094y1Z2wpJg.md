@@ -1,44 +1,42 @@
 ---
-author: Veritasium
-date: '2021-07-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=094y1Z2wpJg
-speaker: Veritasium
-tags:
-  - veritasium
-  - collatz-conjecture
-  - mathematical-problems
-  - number-theory
-  - undecidability
-  - benfords-law
-title: 考拉兹猜想：一个看似简单却无人能解的数学难题
-summary: 考拉兹猜想是一个看似简单却困扰了顶尖数学家数十年的难题。它提出任何正整数通过特定规则（奇数乘三加一，偶数除以二）最终都会回到“4-2-1”循环。尽管经过了海量数字的暴力测试和特里·陶等数学家的部分证明，该猜想仍未被完全证明或证伪。文章探讨了其难度、统计学分析、可视化方法以及它可能存在的反例或不可判定性，揭示了数学世界的奇特与深奥。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Paul Erdos
-  - Jeffrey Lagarias
-  - Alex Kontorovich
-  - Yakov Sinai
-  - Riho Terras
-  - Terry Tao
-  - George Polya
-  - C. Brian Haselgrove
-  - John Conway
+category: science
 companies_orgs:
-  - Brilliant
+- Brilliant
+date: '2021-07-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Paul Erdos
+- Jeffrey Lagarias
+- Alex Kontorovich
+- Yakov Sinai
+- Riho Terras
+- Terry Tao
+- George Polya
+- C. Brian Haselgrove
+- John Conway
 products_models:
-  - FRACTRAN
-media_books: []
+- FRACTRAN
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=094y1Z2wpJg
+speaker: veritasium
 status: evergreen
+summary: 考拉兹猜想是一个看似简单却困扰了顶尖数学家数十年的难题。它提出任何正整数通过特定规则（奇数乘三加一，偶数除以二）最终都会回到“4-2-1”循环。尽管经过了海量数字的暴力测试和特里·陶等数学家的部分证明，该猜想仍未被完全证明或证伪。文章探讨了其难度、统计学分析、可视化方法以及它可能存在的反例或不可判定性，揭示了数学世界的奇特与深奥。
+tags:
+- collatz-conjecture
+- law
+- problem
+- theory
+- undecidability
+title: 考拉兹猜想：一个看似简单却无人能解的数学难题
 ---
+
 ### 考拉兹猜想：一个“危险”的数学问题
 
 这是数学领域中最“危险”的问题之一，年轻的数学家们被警告不要在其上浪费时间。

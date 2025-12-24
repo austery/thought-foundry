@@ -1,38 +1,38 @@
 ---
-author: 大问题Dialectic
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大问题》节目
+- 《看透世界：100个哲学大概念开悟人生！》
+people:
+- 红交换
+- 蓝都行
+- 黄难判
+- 机器人夏先生1号
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=CLFY3f7SK6c
 speaker: 大问题Dialectic
-tags:
-  - two-envelopes-paradox
-  - expected-value
-  - probability-theory
-  - decision-making
-  - invalid-information
-title: 双信封悖论：10万年终奖换不换？一场关于概率、期望与决策的哲学争论
-summary: 本文深入探讨了经典的“双信封悖论”，通过红交换、蓝都行、黄难判三位角色的视角，展现了在不确定信息下，关于数学期望值、概率判断及决策策略的激烈争论。从期望收益计算到无效信息识别，再到随机数生成机制的探讨，揭示了人类在面对复杂概率问题时，认知与决策的挑战。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - 红交换
-  - 蓝都行
-  - 黄难判
-  - 机器人夏先生1号
-companies_orgs: []
-products_models: []
-media_books:
-  - 《大问题》节目
-  - 《看透世界：100个哲学大概念开悟人生！》
 status: evergreen
+summary: 本文深入探讨了经典的“双信封悖论”，通过红交换、蓝都行、黄难判三位角色的视角，展现了在不确定信息下，关于数学期望值、概率判断及决策策略的激烈争论。从期望收益计算到无效信息识别，再到随机数生成机制的探讨，揭示了人类在面对复杂概率问题时，认知与决策的挑战。
+tags:
+- decision-making
+- information
+- technology
+- theory
+- value
+title: 双信封悖论：10万年终奖换不换？一场关于概率、期望与决策的哲学争论
 ---
+
 ### 双信封悖论：10万年终奖换不换？一场关于概率、期望与决策的哲学争论
 
 在公司年会上，老板决定给小红、小黄、小蓝三人团队发放年终奖金。老板对他们说：“我会将一笔随机数额的钱放入一个红包之中，然后再往另外一个红包里面放10倍数额的钱。随后，我会随机将这两个红包中的一个发给你们。”

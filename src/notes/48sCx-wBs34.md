@@ -1,47 +1,46 @@
 ---
-author: Veritasium
-date: '2020-09-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=48sCx-wBs34
-speaker: Veritasium
-tags:
-  - veritasium
-  - aperiodic-tiling
-  - penrose-tiling
-  - quasicrystal
-  - golden-ratio
-  - kepler-conjecture
-title: 永不重复的无限图案：从开普勒猜想到准晶体
-summary: 本文探讨了数学中“永不重复的无限图案”这一引人入胜的概念，追溯了从开普勒对行星轨道和雪花形状的几何猜想，到彭罗斯发现的非周期性密铺（彭罗斯密铺）的历程。文章详细介绍了黄金比例和斐波那契数列在这些图案中的体现，以及准晶体这一曾被认为不可能存在的物质如何最终被发现并获得诺贝尔奖。它挑战了我们对自然界重复模式的固有认知，并揭示了隐藏在复杂几何结构中的深层秩序。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - historical-insights
-people:
-  - Johannes Kepler
-  - Hao Wang
-  - Robert Burger
-  - Donald Knuth
-  - Raphael Robinson
-  - Roger Penrose
-  - Paul Steinhardt
-  - Dan Shechtman
-  - Linus Pauling
+category: science
 companies_orgs:
-  - LastPass
-  - Kepler Museum
-  - Form of Mathematics
-products_models: []
+- LastPass
+- Kepler Museum
+- Form of Mathematics
+date: '2020-09-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - deniva sexangula
-  - Harmonices Mundi
-  - De Nive Quinquangula
+- deniva sexangula
+- Harmonices Mundi
+- De Nive Quinquangula
+people:
+- Johannes Kepler
+- Hao Wang
+- Robert Burger
+- Donald Knuth
+- Raphael Robinson
+- Roger Penrose
+- Paul Steinhardt
+- Dan Shechtman
+- Linus Pauling
+products_models: []
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=48sCx-wBs34
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了数学中“永不重复的无限图案”这一引人入胜的概念，追溯了从开普勒对行星轨道和雪花形状的几何猜想，到彭罗斯发现的非周期性密铺（彭罗斯密铺）的历程。文章详细介绍了黄金比例和斐波那契数列在这些图案中的体现，以及准晶体这一曾被认为不可能存在的物质如何最终被发现并获得诺贝尔奖。它挑战了我们对自然界重复模式的固有认知，并揭示了隐藏在复杂几何结构中的深层秩序。
+tags:
+- golden-ratio
+- history
+- kepler-conjecture
+- llm
+- penrose-tiling
+title: 永不重复的无限图案：从开普勒猜想到准晶体
 ---
+
 ### 引言：不可能的图案与材料
 
 本视频将探讨一种曾被认为不可能存在的图案，以及一种不应存在于世的材料。

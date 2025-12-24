@@ -1,56 +1,56 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- Globe and Mail
+- Assembly of First Nations
+- Liberal Party of Canada
+- Conservative Party of Canada
+- United Conservative Party
+- New Democratic Party
+- Acadia University
+- University of Alberta
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'No Eye in Team: Party Loyalty in Canadian Politics'
+people:
+- Mark Carney
+- Danielle Smith
+- Steven Gilbo
+- Chris Dantramont
+- Stephanie Levitz
+- Alex Marland
+- Jared J. Wesley
+- Justin Trudeau
+- Rachel Notley
+- Doug Ford
+- Christopher Freeland
+- Nate Erskin Smith
+- Bobby Brady
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=KeJAJF2XKHE
 speaker: TVO Today
-tags:
-  - pipeline-politics
-  - canadian-politics
-  - party-loyalty
-  - democratic-challenges
-  - indigenous-rights
-title: 加拿大新输油管道协议的政治风波与党派忠诚的民主困境
-summary: 加拿大联邦政府与阿尔伯塔省达成一项新的输油管道协议，旨在将沥青输送至不列颠哥伦比亚省海岸。然而，此举引发了广泛争议，包括不列颠哥伦比亚省、原住民社区及环保人士的强烈反对，甚至导致一名自由党内阁部长辞职。本期节目深入探讨了该协议背后的政治博弈、联邦与省政府关系的演变，以及原住民咨询的不足。同时，节目还剖析了加拿大政治中日益严格的党派忠诚问题，探讨了议员跨党派转投的现象、信息纪律的演变及其对民主的深远影响，并提出了增强议员独立性的建议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - Mark Carney
-  - Danielle Smith
-  - Steven Gilbo
-  - Chris Dantramont
-  - Stephanie Levitz
-  - Alex Marland
-  - Jared J. Wesley
-  - Justin Trudeau
-  - Rachel Notley
-  - Doug Ford
-  - Christopher Freeland
-  - Nate Erskin Smith
-  - Bobby Brady
-companies_orgs:
-  - TVO Today
-  - Globe and Mail
-  - Assembly of First Nations
-  - Liberal Party of Canada
-  - Conservative Party of Canada
-  - United Conservative Party
-  - New Democratic Party
-  - Acadia University
-  - University of Alberta
-products_models: []
-media_books:
-  - 'No Eye in Team: Party Loyalty in Canadian Politics'
 status: evergreen
+summary: 加拿大联邦政府与阿尔伯塔省达成一项新的输油管道协议，旨在将沥青输送至不列颠哥伦比亚省海岸。然而，此举引发了广泛争议，包括不列颠哥伦比亚省、原住民社区及环保人士的强烈反对，甚至导致一名自由党内阁部长辞职。本期节目深入探讨了该协议背后的政治博弈、联邦与省政府关系的演变，以及原住民咨询的不足。同时，节目还剖析了加拿大政治中日益严格的党派忠诚问题，探讨了议员跨党派转投的现象、信息纪律的演变及其对民主的深远影响，并提出了增强议员独立性的建议。
+tags:
+- canadian-politics
+- challenge
+- party
+- politics
+- right
+title: 加拿大新输油管道协议的政治风波与党派忠诚的民主困境
 ---
+
 ### 加拿大新输油管道协议引发的政治风波
 
 当谈到在过去几年里基本定义了加拿大政治的词汇时，“输油管道”无疑位居前列。

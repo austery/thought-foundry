@@ -1,55 +1,55 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- Bloomberg
+- Substack
+- Goldman Sachs
+- Meta
+- Home Depot
+- Starbucks
+- Gucci
+- Tory Burch
 date: '2025-07-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- New York magazine
+people:
+- Emily Sundberg
+- Ricardo Houseman
+- Bethany Frankle
+- Tracy Alloway
+- Jill Weisenthal
+- Carmen Rodriguez
+- Kalebrooks
+products_models:
+- FeedMe newsletter
+- Odd Lots podcast
+- Tumblr
+- Birkin
+- Uber
+- Amazon storefront
+- Seamless
+project:
+- us-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=IkPH06e8SlY
 speaker: Bloomberg Podcasts
-tags:
-  - gen-z-mindset
-  - creator-economy
-  - consumption-patterns
-  - ai-impact
-  - generational-differences
-title: Z世代的财富观：无人拯救下的资本主义与消费主义
-summary: 本期《Odd Lots》播客邀请了《FeedMe》电子报的Emily Sundberg，深入探讨了Z世代对世界、资本主义、金钱和投资的独特看法。在“无人拯救”的心态驱动下，Z世代对财富表现出前所未有的坦然，积极投身创作者经济，并倾向于高风险的“彩票式押注”。文章还分析了AI对就业的潜在冲击、Z世代与千禧一代的差异、扁平化公司结构，以及Z世代在消费主义和创业模式上的新趋势，揭示了他们如何在充满不确定性的世界中寻找意义和价值。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - us-analysis
-  - cultural-critique
-people:
-  - Emily Sundberg
-  - Ricardo Houseman
-  - Bethany Frankle
-  - Tracy Alloway
-  - Jill Weisenthal
-  - Carmen Rodriguez
-  - Kalebrooks
-companies_orgs:
-  - Bloomberg
-  - Substack
-  - Goldman Sachs
-  - Meta
-  - Home Depot
-  - Starbucks
-  - Gucci
-  - Tory Burch
-products_models:
-  - FeedMe newsletter
-  - Odd Lots podcast
-  - Tumblr
-  - Birkin
-  - Uber
-  - Amazon storefront
-  - Seamless
-media_books:
-  - New York magazine
 status: evergreen
+summary: 本期《Odd Lots》播客邀请了《FeedMe》电子报的Emily Sundberg，深入探讨了Z世代对世界、资本主义、金钱和投资的独特看法。在“无人拯救”的心态驱动下，Z世代对财富表现出前所未有的坦然，积极投身创作者经济，并倾向于高风险的“彩票式押注”。文章还分析了AI对就业的潜在冲击、Z世代与千禧一代的差异、扁平化公司结构，以及Z世代在消费主义和创业模式上的新趋势，揭示了他们如何在充满不确定性的世界中寻找意义和价值。
+tags:
+- ai-impact
+- consumption
+- creator-economy
+- health
+- mindset
+title: Z世代的财富观：无人拯救下的资本主义与消费主义
 ---
+
 ### Z世代的世界观：无人拯救与财富追求
 
 **主持人**: 大家好，各位《**Odd Lots**》（Bloomberg旗下专注于金融和经济的播客节目）的听众。

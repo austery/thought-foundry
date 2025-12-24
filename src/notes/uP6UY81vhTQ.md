@@ -1,41 +1,41 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Hamas
+- Israeli military
+- UN
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Rachel Abrams
+- Hussein
+- Ra'ad
+- Nidal Kahil
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=uP6UY81vhTQ
 speaker: New York Times Podcasts
-tags:
-  - gaza-conflict
-  - displacement
-  - war-trauma
-  - reconstruction-challenges
-  - humanitarian-crisis
-title: 加沙人的漫漫归家路：战争下的希望与绝望
-summary: 本播客节目深入探讨了以色列与哈马斯停火协议后，加沙地带居民的归家之路。节目通过亲历者的视角，展现了加沙北部地区遭受的毁灭性破坏，以及人们在失去家园、亲人和未来的痛苦中，如何挣扎着寻找一丝希望。文章记录了人们对重建家园的渴望，对逝去亲人的哀悼，以及在持续冲突中，生命与尊严所面临的严峻挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Rachel Abrams
-  - Hussein
-  - Ra'ad
-  - Nidal Kahil
-companies_orgs:
-  - New York Times
-  - Hamas
-  - Israeli military
-  - UN
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本播客节目深入探讨了以色列与哈马斯停火协议后，加沙地带居民的归家之路。节目通过亲历者的视角，展现了加沙北部地区遭受的毁灭性破坏，以及人们在失去家园、亲人和未来的痛苦中，如何挣扎着寻找一丝希望。文章记录了人们对重建家园的渴望，对逝去亲人的哀悼，以及在持续冲突中，生命与尊严所面临的严峻挑战。
+tags:
+- challenge
+- crisis
+- displacement
+- gaza-conflict
+- war
+title: 加沙人的漫漫归家路：战争下的希望与绝望
 ---
+
 ### 序言：停火后的归家之路
 
 我是来自**《纽约时报》**（New York Times: 美国著名报纸）的瑞秋·艾布拉姆斯（Rachel Abrams），这里是《The Daily》节目。

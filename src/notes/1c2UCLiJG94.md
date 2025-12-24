@@ -1,56 +1,56 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: finance
+companies_orgs:
+- Lehman Brothers
+- Bear Stearns
+- AIG
+- Fannie Mae
+- Freddie Mac
+- S&P
+- Moody's
+- JPMorgan Chase
+- Citigroup
+- Merrill Lynch
+- General Motors
+- IBM
+- OpenAI
+- Oracle
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《生活多美好》
+people:
+- Ben Bernanke
+products_models:
+- MBS
+- CDO
+- CDS
+- Commercial Paper
+- TARP
+- Dodd-Frank Act
+- Volcker Rule
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=1c2UCLiJG94
 speaker: 北美王路飞
-tags:
-  - financial-crisis-2008
-  - systemic-risk
-  - moral-hazard
-  - too-big-to-fail
-  - financial-regulation
-title: 揭秘2008金融危机：为什么纳税人不得不拯救“纵火犯”？
-summary: 本文深入探讨了2008年全球金融危机的深层机制，揭示了与1930年代大萧条截然不同的“批发融资挤兑”本质。文章详细剖析了房贷证券化、次级贷款和复杂金融产品（MBS、CDO、CDS）如何将普通房贷包装成系统性风险，并导致流动性冻结。同时，文章解释了美联储在贝尔斯登、雷曼兄弟和AIG事件中的决策逻辑，以及“大而不能倒”的道德困境，并介绍了危机后为堵塞漏洞而实施的《多德-弗兰克法案》等监管改革。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - Ben Bernanke
-companies_orgs:
-  - Lehman Brothers
-  - Bear Stearns
-  - AIG
-  - Fannie Mae
-  - Freddie Mac
-  - S&P
-  - Moody's
-  - JPMorgan Chase
-  - Citigroup
-  - Merrill Lynch
-  - General Motors
-  - IBM
-  - OpenAI
-  - Oracle
-products_models:
-  - MBS
-  - CDO
-  - CDS
-  - Commercial Paper
-  - TARP
-  - Dodd-Frank Act
-  - Volcker Rule
-media_books:
-  - 《生活多美好》
 status: evergreen
+summary: 本文深入探讨了2008年全球金融危机的深层机制，揭示了与1930年代大萧条截然不同的“批发融资挤兑”本质。文章详细剖析了房贷证券化、次级贷款和复杂金融产品（MBS、CDO、CDS）如何将普通房贷包装成系统性风险，并导致流动性冻结。同时，文章解释了美联储在贝尔斯登、雷曼兄弟和AIG事件中的决策逻辑，以及“大而不能倒”的道德困境，并介绍了危机后为堵塞漏洞而实施的《多德-弗兰克法案》等监管改革。
+tags:
+- financial-crisis-2008
+- financial-regulation
+- llm
+- systemic-risk
+- technology
+title: 揭秘2008金融危机：为什么纳税人不得不拯救“纵火犯”？
 ---
+
 ### 2008年金融危机：一场无声但致命的心脏骤停
 
 大家好，欢迎来到我的频道。今天我们继续美联储系列的第三集。如果我问你，2008年发生了什么？你可能会说，那是股市崩盘，很多人赔了钱，或者是房价跌了，银行倒闭了。但是如果你去问当时的亲历者，哪怕是那些站在权力巅峰的人，比如说美联储主席**本·伯南克**（Ben Bernanke），或者是当时的美国财长，他们会告诉你，那不是关于赔钱的问题。在那决定生死的两周里，恐惧不是我们会变穷，而是整个世界会停摆。想象一下，不仅仅是华尔街的屏幕变红了，而是你的公司突然发不出下个月的工资，哪怕它账上有钱；你的信用卡在超市也刷不过去；原本极其安全的养老金账户突然无法赎回。这好比并不是某个具体的器官病了，而是人体的血液突然凝固了。

@@ -1,49 +1,47 @@
 ---
-author: Veritasium
-date: '2023-12-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=mScpHTIi-kM
-speaker: Veritasium
-tags:
-  - veritasium
-  - game-theory
-  - prisoner-dilemma
-  - cooperation-evolution
-  - cold-war-strategy
-  - axelrod-tournament
-title: 博弈论的囚徒困境如何塑造世界：从冷战核武到自然界合作
-summary: 本文深入探讨了博弈论中最著名的“囚徒困境”问题，并通过冷战时期美苏核军备竞赛、自然界中动物的合作行为以及Robert Axelrod的计算机锦标赛等案例，阐释了这一理论如何揭示合作的起源与演变。文章分析了成功策略的四大品质：友善、宽容、报复性和清晰，并探讨了在不确定性和噪音环境下策略的调整。最终强调了非零和博弈中合作共赢的重要性，以及博弈论对理解国际冲突和生物进化的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - John von Neuman
-  - Navy Secretary Matthews
-  - Robert Axelrod
-  - Steven Strogatz
-  - Stanislav Petrov
-  - Anatol Rapoport
+category: geopolitics
 companies_orgs:
-  - RAND Corporation
+- RAND Corporation
+date: '2023-12-23'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- John von Neuman
+- Navy Secretary Matthews
+- Robert Axelrod
+- Steven Strogatz
+- Stanislav Petrov
+- Anatol Rapoport
 products_models:
-  - Tit for Tat
-  - Tit for Two Tats
-  - Friedman
-  - Joss
-  - Graaskamp
-  - Name Withheld
-  - Random
-  - Tester
-media_books: []
+- Tit for Tat
+- Tit for Two Tats
+- Friedman
+- Joss
+- Graaskamp
+- Name Withheld
+- Random
+- Tester
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=mScpHTIi-kM
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了博弈论中最著名的“囚徒困境”问题，并通过冷战时期美苏核军备竞赛、自然界中动物的合作行为以及Robert Axelrod的计算机锦标赛等案例，阐释了这一理论如何揭示合作的起源与演变。文章分析了成功策略的四大品质：友善、宽容、报复性和清晰，并探讨了在不确定性和噪音环境下策略的调整。最终强调了非零和博弈中合作共赢的重要性，以及博弈论对理解国际冲突和生物进化的深远影响。
+tags:
+- canada
+- evolution
+- game-theory
+- society
+- strategy
+title: 博弈论的囚徒困境如何塑造世界：从冷战核武到自然界合作
 ---
+
 ### 博弈论与合作的起源
 
 这是一个关于**博弈论**（Game Theory: 研究决策主体在特定规则下互动行为的数学理论）中最著名问题。

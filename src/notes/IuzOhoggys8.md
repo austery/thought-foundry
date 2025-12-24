@@ -1,74 +1,73 @@
 ---
-author: 張内咸
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Meta
+- Twitter
+- 新华社
+- 中央电视台
+- 乐视网
+- 中南海
+- 北京市政府
+- 中央政府
+- 自民党
+- 白宫
+- 中央戏剧学院
+- 秦城监狱
 date: '2025-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《链接》
+- 《毛泽东和他的女人们》
+- 《太子妃升职记》
+people:
+- 张内咸
+- 卡林希
+- 马可尼
+- Stanley Milgram
+- 高市早苗
+- 于朦胧
+- 李克强
+- 彭帅
+- 张高丽
+- 王力宏
+- 蒲巴甲
+- 李治廷
+- 孙怡
+- 李沁
+- 白鹿
+- 李一桐
+- 肖战
+- 王珞丹
+- 白百合
+- Xi Jinping
+- 薄瓜瓜
+- 薄熙来
+- 泽连斯基
+- Donald Trump
+products_models:
+- 六度分隔帽
+- 六度网
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=IuzOhoggys8
 speaker: 張内咸
-tags:
-  - information-control
-  - social-networks
-  - political-polarization
-  - communication-theory
-  - media-literacy
-title: 信息牢笼与认知错位：从北京政治八卦到中国传播学批判
-summary: 本期节目深入探讨了信息爆炸时代下，人们如何陷入“信息牢笼”并产生认知错位。文章从北京独特的政治八卦氛围切入，辨析“六度分隔理论”在现实中的应用，并深刻批判了中国“传播学”的本质。作者揭示了信息单向传递的危害，以及在高度紧张的政治生活中，普通人如何被情绪裹挟，最终导致社会认知能力的缺失。节目还通过娱乐圈事件和脸盲现象，讽刺了信息过载与官方叙事下的荒诞现实。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - 张内咸
-  - 卡林希
-  - 马可尼
-  - Stanley Milgram
-  - 高市早苗
-  - 于朦胧
-  - 李克强
-  - 彭帅
-  - 张高丽
-  - 王力宏
-  - 蒲巴甲
-  - 李治廷
-  - 孙怡
-  - 李沁
-  - 白鹿
-  - 李一桐
-  - 肖战
-  - 王珞丹
-  - 白百合
-  - 习近平
-  - 薄瓜瓜
-  - 薄熙来
-  - 泽连斯基
-  - Donald Trump
-companies_orgs:
-  - Facebook
-  - Twitter
-  - 新华社
-  - 中央电视台
-  - 乐视网
-  - 中南海
-  - 北京市政府
-  - 中央政府
-  - 自民党
-  - 白宫
-  - 中央戏剧学院
-  - 秦城监狱
-products_models:
-  - 六度分隔帽
-  - 六度网
-media_books:
-  - 《链接》
-  - 《毛泽东和他的女人们》
-  - 《太子妃升职记》
 status: evergreen
+summary: 本期节目深入探讨了信息爆炸时代下，人们如何陷入“信息牢笼”并产生认知错位。文章从北京独特的政治八卦氛围切入，辨析“六度分隔理论”在现实中的应用，并深刻批判了中国“传播学”的本质。作者揭示了信息单向传递的危害，以及在高度紧张的政治生活中，普通人如何被情绪裹挟，最终导致社会认知能力的缺失。节目还通过娱乐圈事件和脸盲现象，讽刺了信息过载与官方叙事下的荒诞现实。
+tags:
+- control
+- media-literacy
+- social
+- theory
+title: 信息牢笼与认知错位：从北京政治八卦到中国传播学批判
 ---
+
 ### 北京的政治氛围与童年禁书
 
 大家好，我是张内咸，我们又见面了。最近北京的天气很不正常，前阵子整天下雨，下起来没完没了。正常来说，北京的秋天是很干燥的，很少下雨，结果今年北京的雨水多得像南方一样。下完雨以后又湿又冷，感觉好像是这些年最冷的一个秋天，搞得大家才10月份就都开始穿羽绒服了。我站在大街上就听到很多大爷大妈叉着腰杵在那聊天：“瞅见没有，为什么今年北京这么反常？这是天有异象，说明**中南海**（Zhongnanhai: 中国共产党中央委员会和中华人民共和国国务院的办公地点，代指中央政府）里要出大事了，弄不好全世界都会跟着乱起来。小伙子，你别站在这傻看着呀，赶紧去买黄金避避险吧。”

@@ -1,33 +1,31 @@
 ---
-title: 7月CPI数据透视与8月大非农前瞻：消费强劲，就业市场现异动
-summary: 本期节目深入分析了近期美股市场走势、二季度财报表现及估值情况。重点解读了7月失业率数据中的“毕业即失业”现象，并结合美国银行数据揭示7月消费异常强劲。最后，节目展望了即将公布的CPI数据，探讨其对美联储降息路径的潜在影响。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- consumer-spending
-- monetary-policy
-- unemployment-rate
-- us-stock-market
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-08-10'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=tbds-qQ0JhI
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入分析了近期美股市场走势、二季度财报表现及估值情况。重点解读了7月失业率数据中的“毕业即失业”现象，并结合美国银行数据揭示7月消费异常强劲。最后，节目展望了即将公布的CPI数据，探讨其对美联储降息路径的潜在影响。
+tags:
+- consumer-spending
+- rate
+- us-stock-market
+title: 7月CPI数据透视与8月大非农前瞻：消费强劲，就业市场现异动
 ---
+
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且周日也要为大家做更新的专业美股日更频道，我是市场分析员小涛。今天内容非常的多，所以大家可以慢慢的听。
 
 首先，先对上一周市场的走势去做一个总结，包括二季度的财报，我们从FactSet数据去出发，也去做一个总结，聊一下市场的参与度，聊一下市场的估值。然后上上周五公布了**大非农数据**，在那组大非农数据里面的**失业率**，比起上一个月是出现了0.13%的上涨。那今天我想借由这个机会，我们对于**大非农数据**，对于**失业率**去做一个比较深入的解读。

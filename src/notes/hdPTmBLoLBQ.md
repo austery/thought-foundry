@@ -1,57 +1,57 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Money or Life 美股频道
+- SpaceX
+- Rocket Lab
+- Tesla
+- Hims & Hers
+- CoreWeave
+- YourBio Health
+- NASA
+- SEC
+- SDA
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Journal
+- TBPN
+people:
+- Ace
+- Elon Musk
+- Kevin Hassett
+- Jerome Powell
+- Paul Atkins
+- Andrew Dudum
+products_models:
+- Starship
+- Electron Rocket
+- Neutron Rocket
+- Starlink
+- Labs
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=hdPTmBLoLBQ
 speaker: Money or Life 美股频道
-tags:
-  - spacex-ipo
-  - stock-valuation
-  - market-trends
-  - monetary-policy
-  - k-shaped-economy
-  - space-industry
-title: SpaceX上市传闻及其对Rocket Lab和特斯拉估值的影响分析
-summary: 本期节目深入分析了SpaceX高达8000亿美元的估值传闻及其潜在上市计划，探讨了这对重仓股特斯拉和Rocket Lab（RKLB）估值的影响。同时，节目回顾了美股大盘走势、Ace的个人交易策略，并讨论了美联储政策、SEC改革以及AI对K型经济的加剧作用。重点对比了SpaceX和RKLB的市销率，并展望了RKLB未来在发射和卫星业务上的增长潜力。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Ace
-  - Elon Musk
-  - Kevin Hassett
-  - Jerome Powell
-  - Paul Atkins
-  - Andrew Dudum
-companies_orgs:
-  - Money or Life 美股频道
-  - SpaceX
-  - Rocket Lab
-  - Tesla
-  - Hims & Hers
-  - CoreWeave
-  - YourBio Health
-  - NASA
-  - SEC
-  - SDA
-products_models:
-  - Starship
-  - Electron Rocket
-  - Neutron Rocket
-  - Starlink
-  - Labs
-media_books:
-  - Wall Street Journal
-  - TBPN
 status: evergreen
+summary: 本期节目深入分析了SpaceX高达8000亿美元的估值传闻及其潜在上市计划，探讨了这对重仓股特斯拉和Rocket Lab（RKLB）估值的影响。同时，节目回顾了美股大盘走势、Ace的个人交易策略，并讨论了美联储政策、SEC改革以及AI对K型经济的加剧作用。重点对比了SpaceX和RKLB的市销率，并展望了RKLB未来在发射和卫星业务上的增长潜力。
+tags:
+- economy
+- industry
+- market-trend
+- stock-valuation
+title: SpaceX上市传闻及其对Rocket Lab和特斯拉估值的影响分析
+companies:
+- spacex-ipo
 ---
+
 ### 频道一周年回顾与本周节目概览
 
 大家好，欢迎来到Money or Life美股频道。今天是2025年12月7号周日，本周的美股复盘加推演节目将分为两部分。第一部分将简要回顾本周大盘走势及个人交易，包括Hims & Hers以及CoreWeave两支股票。本期视频的重点在第二部分，将花费大部分时间阐述SpaceX的估值及上市传闻对Rocket Lab（RKLB）估值的影响。Rocket Lab一直是我的重仓股，另一只重仓股是特斯拉。SpaceX上市我认为会同时影响到特斯拉和Rocket Lab，这两支股票占据了我仓位的70%到80%，因此我会持续关注它们具体的影响。

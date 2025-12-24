@@ -1,40 +1,37 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-08-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 魏醫師
+- 廚師漢克
+- 宋晏仁醫師
+products_models:
+- Shakshuka
+- Egg Toast
+- 酸種麵包
+- 布里歐吐司
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=kMvTWITQEV4
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - egg-nutrition
-  - healthy-cooking
-  - food-selection
-  - culinary-techniques
-  - brain-health
-title: 鸡蛋的健康益处与米其林级烹饪技巧：主厨汉克揭秘76年蛋行精髓
-summary: 本期节目深入探讨了鸡蛋的营养价值、挑选秘诀及创意烹饪方法。特邀主厨汉克与魏医师一同探访76年老字号蛋行，揭示优质鸡蛋的奥秘，并分享如何通过鸡蛋对抗疲劳、保护大脑、稳定情绪。节目中，主厨汉克还演示了米其林级别的北非烤蛋和创意蛋吐司，为观众带来健康与美味兼具的鸡蛋料理灵感。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 魏醫師
-  - 廚師漢克
-  - 宋晏仁醫師
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models:
-  - Shakshuka
-  - Egg Toast
-  - 酸種麵包
-  - 布里歐吐司
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了鸡蛋的营养价值、挑选秘诀及创意烹饪方法。特邀主厨汉克与魏医师一同探访76年老字号蛋行，揭示优质鸡蛋的奥秘，并分享如何通过鸡蛋对抗疲劳、保护大脑、稳定情绪。节目中，主厨汉克还演示了米其林级别的北非烤蛋和创意蛋吐司，为观众带来健康与美味兼具的鸡蛋料理灵感。
+tags:
+- geopolitical
+- health
+- technology
+title: 鸡蛋的健康益处与米其林级烹饪技巧：主厨汉克揭秘76年蛋行精髓
 ---
+
 ### 鸡蛋：营养宝库与情绪能量
 
 你今天吃蛋了吗？关于蛋，它是一个很好的蛋白质来源，但你还知道它有其他帮助吗？它里面蕴含的能量可以帮助我们对抗下午三点的瞌睡魔咒，还能保护大脑。除此之外，它里面还有快乐因子，可以让我们由内而外散发出好心情。今天我们邀请了一位很特别的来宾，来和我们聊聊蛋的一切，让我们欢迎厨师汉克。

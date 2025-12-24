@@ -1,53 +1,51 @@
 ---
-author: Veritasium
-date: '2021-12-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=IgF3OX8nT0w
-speaker: Veritasium
-tags:
-  - veritasium
-  - analog-computing
-  - digital-computing
-  - moores-law
-  - world-war-ii
-  - tide-prediction
-title: 被遗忘的强大计算器：模拟计算机的兴衰与回归
-summary: 本文深入探讨了模拟计算机的悠久历史、工作原理及其在关键历史时刻（如第二次世界大战）中的重要作用。从古老的安提基特拉机械到20世纪中叶的潮汐预测机和火炮指挥仪，模拟计算机曾是地球上最强大的计算工具。随着摩尔定律的极限和机器学习对数字计算能力的挑战，文章展望了模拟计算在未来可能迎来的复兴，并揭示了其与数字计算的根本差异和各自的优劣势。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - William Thompson (Lord Kelvin)
-  - Joseph Fourier
-  - Pierre-Simon Laplace
-  - Carl Norden
-  - Claude Shannon
-  - David Parkinson
-  - George Stibitz
-  - James Thompson
-  - Beauchamp Tower
-  - Napoleon
+category: technology
 companies_orgs:
-  - Bell Labs
-  - British Association
-  - Bletchley Park
-  - Brilliant
+- Bell Labs
+- British Association
+- Bletchley Park
+- Brilliant
+date: '2021-12-21'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- William Thompson (Lord Kelvin)
+- Joseph Fourier
+- Pierre-Simon Laplace
+- Carl Norden
+- Claude Shannon
+- David Parkinson
+- George Stibitz
+- James Thompson
+- Beauchamp Tower
+- Napoleon
+- analog-computing
 products_models:
-  - Antikythera mechanism
-  - M9 Gun Director
-  - Norden bombsight
-  - Colossus machines
-  - ENIAC
-  - Operational amplifier (Op-amp)
-media_books: []
+- Antikythera mechanism
+- M9 Gun Director
+- Norden bombsight
+- Colossus machines
+- ENIAC
+- Operational amplifier (Op-amp)
+project:
+- ai-impact-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=IgF3OX8nT0w
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了模拟计算机的悠久历史、工作原理及其在关键历史时刻（如第二次世界大战）中的重要作用。从古老的安提基特拉机械到20世纪中叶的潮汐预测机和火炮指挥仪，模拟计算机曾是地球上最强大的计算工具。随着摩尔定律的极限和机器学习对数字计算能力的挑战，文章展望了模拟计算在未来可能迎来的复兴，并揭示了其与数字计算的根本差异和各自的优劣势。
+tags:
+- canada
+- digital
+- law
+- war
+title: 被遗忘的强大计算器：模拟计算机的兴衰与回归
 ---
+
 ### 模拟计算的古老起源与基本原理
 
 1901年，一件古希腊文物在安提基特拉岛附近的一艘沉船中被发现。

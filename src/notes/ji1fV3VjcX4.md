@@ -1,66 +1,66 @@
 ---
-author: Bloomberg Podcasts
+area: tech-insights
+category: business
+companies_orgs:
+- Perplexity
+- Lazard
+- Google
+- Netflix
+- Meta
+- Amazon
+- OpenAI
+- Bloomberg
+- The Washington Post
+- Condé Nast
+- LA Times
+- Apple
+- Axel Springer
+- Robinhood
+- DOJ
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+- Bloomberg Podcasts
+- The Wall Street Journal
+- The New York Times
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Dmitry Shevelenko
+- Jeff Bezos
+- Olivier
+products_models:
+- Perplexity Pro
+- Perplexity Max
+- Perplexity Finance
+- ChatGPT
+- AdWords
+- Apple News Plus
+- Bloomberg Terminal
+- Chrome
+- Comet
+- Comet Plus
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=ji1fV3VjcX4
 speaker: Bloomberg Podcasts
-tags:
-  - ai-business-models
-  - information-trust
-  - media-disruption
-  - internet-future
-  - fundraising-environment
-title: Perplexity如何重塑互联网：AI对媒体、商业和信任的深远影响
-summary: Perplexity首席商务官Dmitry Shevelenko在一次会议上探讨了AI对媒体、品牌和互联网的深远影响。他强调了人类提问能力的重要性，以及Perplexity如何通过透明的来源引用和用户对齐的商业模式（订阅制）来建立信任。文章还深入讨论了AI时代下网站的未来、与亚马逊和谷歌等巨头的竞争策略、融资环境的变化，以及AI如何提升金融服务业的生产力，同时强调了在快速变化的AI领域中保持敏捷性和适应性的重要性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Dmitry Shevelenko
-  - Jeff Bezos
-  - Olivier
-companies_orgs:
-  - Perplexity
-  - Lazard
-  - Google
-  - Netflix
-  - Facebook
-  - Amazon
-  - OpenAI
-  - Bloomberg
-  - The Washington Post
-  - Condé Nast
-  - LA Times
-  - Apple
-  - Axel Springer
-  - Robinhood
-  - DOJ
-products_models:
-  - Perplexity Pro
-  - Perplexity Max
-  - Perplexity Finance
-  - ChatGPT
-  - AdWords
-  - Apple News Plus
-  - Bloomberg Terminal
-  - Chrome
-  - Comet
-  - Comet Plus
-media_books:
-  - Odd Lots Podcast
-  - Bloomberg Podcasts
-  - The Wall Street Journal
-  - The New York Times
 status: evergreen
+summary: Perplexity首席商务官Dmitry Shevelenko在一次会议上探讨了AI对媒体、品牌和互联网的深远影响。他强调了人类提问能力的重要性，以及Perplexity如何通过透明的来源引用和用户对齐的商业模式（订阅制）来建立信任。文章还深入讨论了AI时代下网站的未来、与亚马逊和谷歌等巨头的竞争策略、融资环境的变化，以及AI如何提升金融服务业的生产力，同时强调了在快速变化的AI领域中保持敏捷性和适应性的重要性。
+tags:
+- ai-business-model
+- future
+- information
+- investment
+- media
+title: Perplexity如何重塑互联网：AI对媒体、商业和信任的深远影响
 ---
+
 ### 欢迎来到Odd Lots播客
 
 主持人Joe Weisenthal和Tracy Alloway欢迎大家收听或收看Odd Lots播客的特别节目，该节目在**Lazard Forsquare Conference**（拉扎德四方会议: 一场关于媒体和交易的行业会议）上现场录制。

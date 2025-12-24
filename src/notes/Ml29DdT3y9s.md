@@ -1,40 +1,39 @@
 ---
-author: 投资TALK君
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Oracle
+- Micron
+- Blue Owl
+- Blackstone
+- Bank of America
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 小陶
+products_models:
+- GPT-4
+- Oracle Cloud Infrastructure
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Ml29DdT3y9s
 speaker: 投资TALK君
-tags:
-  - llm
-  - ai-funding
-  - oracle-financing
-  - semiconductors
-  - cloud-infrastructure
-title: 【投资TALK君1374期】OpenAI再创新高！ORCL融不到钱了？杀AI的两个核心逻辑
-summary: 本期节目分析了当前美股市场的走势，重点关注芯片和AI板块。讨论了**OpenAI**可能进行的1000亿美元融资及其7500亿美元的估值，指出市场对其泡沫的担忧。同时，深入剖析了**Oracle**在融资建设数据中心方面遇到的挑战，特别是与**Blue Owl**合作破裂，以及其高资本开支和负自由现金流的困境。最后，分享了**美光**（Micron）超出预期的财报，并强调了AI领域供需错配带来的巨大需求。总结了市场对AI泡沫的两大核心担忧：**OpenAI**的资金链和**Oracle**的融资能力。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 小陶
-companies_orgs:
-  - OpenAI
-  - Oracle
-  - Micron
-  - Blue Owl
-  - Blackstone
-  - Bank of America
-products_models:
-  - GPT-4
-  - Oracle Cloud Infrastructure
-media_books: []
 status: evergreen
+summary: 本期节目分析了当前美股市场的走势，重点关注芯片和AI板块。讨论了**OpenAI**可能进行的1000亿美元融资及其7500亿美元的估值，指出市场对其泡沫的担忧。同时，深入剖析了**Oracle**在融资建设数据中心方面遇到的挑战，特别是与**Blue
+  Owl**合作破裂，以及其高资本开支和负自由现金流的困境。最后，分享了**美光**（Micron）超出预期的财报，并强调了AI领域供需错配带来的巨大需求。总结了市场对AI泡沫的两大核心担忧：**OpenAI**的资金链和**Oracle**的融资能力。
+tags:
+- infrastructure
+- investment
+- oracle-financing
+- semiconductor
+title: 【投资TALK君1374期】OpenAI再创新高！ORCL融不到钱了？杀AI的两个核心逻辑
 ---
+
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员**小陶**。今天这期内容我们聊什么？聊一下整个芯片板块，聊一下AI板块，关注几家公司：首先是**OpenAI**，然后是**Oracle**。今天**Oracle**又有一条比较大的新闻。最后是周三盘后发布财报的**美光**。好吗？好。那我就废话不多，直接开始。在开始之前，拜托大家可以帮这期视频点一个赞，留一个言，可以让更多的人看到我们今天的新内容。
 
 ### 市场概览

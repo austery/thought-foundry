@@ -1,31 +1,30 @@
 ---
-title: 基于Amazon Bedrock和Claude构建AI代理：Strands SDK实战
-summary: 本文探讨了如何利用Amazon Bedrock的Claude模型和新发布的Strands开源SDK，构建智能自主AI代理。通过实际演示，展示了Strands如何简化代理开发，实现天气查询、自动化图表生成及基础设施代码创建等复杂任务。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-agent
-- amazon-bedrock
-- aws
-- strands-sdk
-people: []
 companies_orgs: []
-products_models:
-- claude
-media_books: []
 date: '2025-07-31'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- claude
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=8gTpgWru0Wg
+speaker: Anthropic
 status: evergreen
+summary: 本文探讨了如何利用Amazon Bedrock的Claude模型和新发布的Strands开源SDK，构建智能自主AI代理。通过实际演示，展示了Strands如何简化代理开发，实现天气查询、自动化图表生成及基础设施代码创建等复杂任务。
+tags:
+- ai-agent
+- aw
+- code
+title: 基于Amazon Bedrock和Claude构建AI代理：Strands SDK实战
+companies:
+- amazon-bedrock
 ---
+
 ### 介绍：Amazon Bedrock与AI代理
 
 Dwan Lightoot: Building AI agents with Claude in Amazon Bedrock. Today, I am excited to explore how to create intelligent, autonomous AI systems that can transform your applications.

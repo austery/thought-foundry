@@ -1,44 +1,43 @@
 ---
-author: 投资TALK君
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- Fox News
+- ADP
+- Bloomberg
+- Seeking Alpha
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Kevin Hassett
+- Jerome Powell
+products_models:
+- XSOXL
+- XSOXS
+- S&P 500
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=QOj6IymPXwI
 speaker: 投资TALK君
-tags:
-  - us-fed-chair-selection
-  - monetary-policy
-  - fiscal-policy
-  - inflation-outlook
-  - labor-market-data
-title: 期货下跌、新联储主席人选与宏观经济展望：市场如何应对不确定性
-summary: 本期节目深入分析了当前美股期货下跌的原因，重点探讨了川普团队新任美联储主席凯文·哈塞特的潜在人选及其政策主张，包括对“确认混乱”的担忧、贸易赤字、住房问题和通胀看法。同时，节目还回顾了日本央行加息信号对日元的影响，并展望了本周PCE数据和劳动力市场对美联储决策的重要性，提出通胀可能进入新常态的观点。最后，分享了Seeking Alpha平台的优惠活动。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Kevin Hassett
-  - Jerome Powell
-companies_orgs:
-  - Federal Reserve
-  - Fox News
-  - ADP
-  - Bloomberg
-  - Seeking Alpha
-products_models:
-  - XSOXL
-  - XSOXS
-  - S&P 500
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了当前美股期货下跌的原因，重点探讨了川普团队新任美联储主席凯文·哈塞特的潜在人选及其政策主张，包括对“确认混乱”的担忧、贸易赤字、住房问题和通胀看法。同时，节目还回顾了日本央行加息信号对日元的影响，并展望了本周PCE数据和劳动力市场对美联储决策的重要性，提出通胀可能进入新常态的观点。最后，分享了Seeking
+  Alpha平台的优惠活动。
+tags:
+- financial
+- fiscal-policy
+- inflation-outlook
+- labor-market-datum
+title: 期货下跌、新联储主席人选与宏观经济展望：市场如何应对不确定性
 ---
+
 ### 市场回顾与本周展望
 
 各位观众大家好，欢迎来到一个周末也要为大家做更新的专业美股频道。我是市场奉闲小桃。期货上现在出现了下跌。正好借这期内容，我们一起回顾一下刚刚过去的这个周末到底发生了什么，然后对本周将要公布的宏观数据做一个展望。我们将从**PCE**（Personal Consumption Expenditures: 个人消费支出）这个角度出发，去聊一些相对比较深层的问题。主要就是这两部分。

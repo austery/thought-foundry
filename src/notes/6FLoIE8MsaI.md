@@ -1,66 +1,65 @@
 ---
-author: FearNation 世界苦茶
+area: society-thinking
+category: politics-society
+companies_orgs:
+- OpenAI
+- Google
+- Meta
+- IRS
+- 华为
+- BBC
+- 香港民主党
+- 联合国人权理事会
+- 维吾尔流亡政府
+- 西藏流亡政府
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《苹果日报》
+- 《立场新闻》
+- 《明报》
+- 《大公报》
+- 《东方日报》
+- 《报道者》
+- 《编程危机》
+people:
+- 黎智英
+- Donald Trump
+- Tuck Carson
+- Charlie Kirk
+- 邓小平
+- 彭政
+- 李祖明
+- 司徒华
+- 李鹏
+- Xi Jinping
+- 洪秀柱
+- 马英九
+- 郑立文
+- 郭正亮
+- 金庸
+- 欧景欣
+products_models:
+- GPT-4
+- 小红书
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=6FLoIE8MsaI
 speaker: FearNation 世界苦茶
-tags:
-  - political-repression
-  - media-freedom
-  - one-country-two-systems
-  - public-opinion
-  - judicial-system
-title: 黎智英案引思辨：美中司法异同、港台民意与澳门视角
-summary: 本期节目深入探讨了黎智英案及其在香港、台湾和澳门社会引发的广泛讨论。嘉宾们就美中司法实践的异同、香港公民社会现状、台湾民众对相关事件的反应，以及澳门独特的视角发表了看法。节目还触及了香港媒体生态、政治人物的斗争路线选择，并反思了中国大陆民众对分裂主义和民族主义的复杂情感。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - 黎智英
-  - Donald Trump
-  - Tuck Carson
-  - Charlie Kirk
-  - 邓小平
-  - 彭政
-  - 李祖明
-  - 司徒华
-  - 李鹏
-  - 习近平
-  - 洪秀柱
-  - 马英九
-  - 郑立文
-  - 郭正亮
-  - 金庸
-  - 欧景欣
-companies_orgs:
-  - OpenAI
-  - Google
-  - Facebook
-  - IRS
-  - 华为
-  - BBC
-  - 香港民主党
-  - 联合国人权理事会
-  - 维吾尔流亡政府
-  - 西藏流亡政府
-products_models:
-  - GPT-4
-  - 小红书
-media_books:
-  - 《苹果日报》
-  - 《立场新闻》
-  - 《明报》
-  - 《大公报》
-  - 《东方日报》
-  - 《报道者》
-  - 《编程危机》
 status: evergreen
+summary: 本期节目深入探讨了黎智英案及其在香港、台湾和澳门社会引发的广泛讨论。嘉宾们就美中司法实践的异同、香港公民社会现状、台湾民众对相关事件的反应，以及澳门独特的视角发表了看法。节目还触及了香港媒体生态、政治人物的斗争路线选择，并反思了中国大陆民众对分裂主义和民族主义的复杂情感。
+tags:
+- media
+- political
+- public-opinion
+- system
+title: 黎智英案引思辨：美中司法异同、港台民意与澳门视角
 ---
+
 ### 黎智英案与美中司法比较
 
 主持人开场表示，将围绕**黎智英**和香港的事件展开讨论，并希望连麦话题能更聚焦。一位首次连线的听众表示，对**黎智英**事件了解不深，但支持对其判决。他提到2016年**Donald Trump**（川普）当选后，美国曾判一名俄罗斯女间谍，指控她在**Facebook**等平台煽动言论，并作为外国政府代理人。该案件主要证据是她与俄罗斯外交部官员的电子邮件往来，判决时间仅几个月。此外，美国也曾判决多位与中国政府或学术机构合作的人员，主要罪名涉及**IRS**（Internal Revenue Service: 美国国家税务局）或研究经费申报问题。他认为**黎智英**与国外的联系比这些案例更深入，因此对判决不感意外，并表示**黎智英**既然选择这条路，就必须面对结果。他还举例称，近期**纽约州州长**的一位华人助手因与中国驻纽约领事馆的交流而被撤职。

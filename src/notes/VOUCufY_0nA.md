@@ -1,124 +1,125 @@
 ---
-author: a16z
+area: tech-insights
+category: technology
+companies_orgs:
+- a16z
+- Google
+- Google Ventures
+- Blue Bottle
+- Instagram
+- TikTok
+- Threads
+- Meta
+- OpenAI
+- Anthropic
+- Replica
+- Digg
+- MySpace
+- Twitter
+- Uber
+- Airbnb
+- LinkedIn
+- Substack
+- Perplexity
+- Notion
+- Granola
+- Vercel
+- Supabase
+- GitHub
+- Lovable
+- Bolt
+- Replit
+- Base44
+- Wix
+- Convex
+- ElevenLabs
+- Spotify
+- Nvidia
+- TechCrunch
+- Greylock
+- Stanford
+- Harvard
+- MIT
+- Limitless
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Beyond 2000
+- NPR Tiny Desk
+- TechCrunch Disrupt
+people:
+- Kevin Rose
+- Anish Acharya
+- Tim Ferriss
+- Chris Hutchins
+- Bill Maris
+- David Crane
+- Jack Dorsey
+- Biz Stone
+- Mark Zuckerberg
+- David Sze
+- Terry Real
+- Eugenia Kuyda
+- Daniel Burka
+- Reed Hoffman
+- Ben Horowitz
+- Marc Andreessen
+- Michael Arrington
+- Chris Dixon
+- Ryan Hoover
+- Elon Musk
+- Martin Casado
+products_models:
+- Google+
+- Sora
+- ChatGPT
+- Gemini Ultra
+- Grok
+- Cursor
+- Janitor AI
+- Poke
+- Hux
+- iMessage
+- DoorDash
+- Alexa
+- Slashdot
+- Delicious
+- Notion Notes
+- Comet
+- Agent Kit
+- Apps SDK
+- VZero
+- Next.js
+- Postgres
+- GPT-5 Codecs
+- UIO
+- Sunno
+- Mozart
+- Hedra
+- Demox
+- X
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=VOUCufY_0nA
 speaker: a16z
-tags:
-  - ai-companionship
-  - product-development-philosophy
-  - democratization-of-creation
-  - social-norm-evolution
-  - consumer-tech-renaissance
-title: AI 时代，创造力为何比代码更重要
-summary: 在这场深度对话中，技术投资人 Kevin Rose 与 a16z 普通合伙人 Anish Acharya 探讨了 AI 如何引爆消费级应用的复兴。他们深入讨论了 AI 陪伴的未来、产品投资中“怪异但有效”的理念，并回顾了“点赞”按钮的起源。核心论点是，随着 AI 大幅降低技术门槛，真正稀缺的将不再是编码能力，而是独特的创造力、产品直觉和对人性的深刻理解，这为新一代创造者打开了前所未有的机遇之门。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Kevin Rose
-  - Anish Acharya
-  - Tim Ferriss
-  - Chris Hutchins
-  - Bill Maris
-  - David Crane
-  - Jack Dorsey
-  - Biz Stone
-  - Mark Zuckerberg
-  - David Sze
-  - Terry Real
-  - Eugenia Kuyda
-  - Daniel Burka
-  - Reed Hoffman
-  - Ben Horowitz
-  - Marc Andreessen
-  - Michael Arrington
-  - Chris Dixon
-  - Ryan Hoover
-  - Elon Musk
-  - Martin Casado
-companies_orgs:
-  - a16z
-  - Google
-  - Google Ventures
-  - Blue Bottle
-  - Instagram
-  - TikTok
-  - Threads
-  - Facebook
-  - OpenAI
-  - Anthropic
-  - Replica
-  - Digg
-  - MySpace
-  - Twitter
-  - Uber
-  - Airbnb
-  - LinkedIn
-  - Substack
-  - Perplexity
-  - Notion
-  - Granola
-  - Vercel
-  - Supabase
-  - GitHub
-  - Lovable
-  - Bolt
-  - Replit
-  - Base44
-  - Wix
-  - Convex
-  - ElevenLabs
-  - Spotify
-  - Nvidia
-  - TechCrunch
-  - Greylock
-  - Stanford
-  - Harvard
-  - MIT
-  - Limitless
-products_models:
-  - Google+
-  - Sora
-  - ChatGPT
-  - Gemini Ultra
-  - Grok
-  - Cursor
-  - Janitor AI
-  - Poke
-  - Hux
-  - iMessage
-  - DoorDash
-  - Alexa
-  - Slashdot
-  - Delicious
-  - Notion Notes
-  - Comet
-  - Agent Kit
-  - Apps SDK
-  - VZero
-  - Next.js
-  - Postgres
-  - GPT-5 Codecs
-  - UIO
-  - Sunno
-  - Mozart
-  - Hedra
-  - Demox
-  - X
-media_books:
-  - Beyond 2000
-  - NPR Tiny Desk
-  - TechCrunch Disrupt
 status: evergreen
+summary: 在这场深度对话中，技术投资人 Kevin Rose 与 a16z 普通合伙人 Anish Acharya 探讨了 AI 如何引爆消费级应用的复兴。他们深入讨论了
+  AI 陪伴的未来、产品投资中“怪异但有效”的理念，并回顾了“点赞”按钮的起源。核心论点是，随着 AI 大幅降低技术门槛，真正稀缺的将不再是编码能力，而是独特的创造力、产品直觉和对人性的深刻理解，这为新一代创造者打开了前所未有的机遇之门。
+tags:
+- canada
+- llm
+- product-development-philosophy
+- social
+- tech
+title: AI 时代，创造力为何比代码更重要
 ---
+
 ### 序幕：老友重逢与职业渊源
 
 **Kevin:** 很高兴我们能一起做这期节目，兄弟。

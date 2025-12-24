@@ -1,44 +1,44 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 奥匈帝国
 date: '2025-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《八月的枪声》
+people:
+- 约翰·肯尼迪
+- 赫鲁晓夫
+- 罗伯特·肯尼迪
+- 德皇威廉二世
+- 英国乔治六世
+- 俄国沙皇尼古拉二世
+- 约瑟夫一世
+- 提瓦达·索罗斯
+- 达利奥
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=lcoebYchwPI
 speaker: 海淀拙大叔
-tags:
-  - thucydides-trap
-  - game-theory
-  - geopolitical-conflict
-  - economic-cycles
-  - nationalism-populism
-title: 未来注定一战？从修昔底德陷阱到博弈论的深度解析
-summary: 本期节目深入探讨了未来冲突的必然性，从历史上的修昔底德陷阱出发，结合非合作博弈论模型，分析了崛起大国与守成大国之间的动态关系。文章引用了古巴导弹危机、两次世界大战等历史事件，揭示了战争爆发的深层逻辑和导火索。最后，节目预测了未来冲突可能发生的时间点，并强调了经济周期、民粹主义和替罪羊效应在其中扮演的关键角色，呼吁个人应有所准备。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - 约翰·肯尼迪
-  - 赫鲁晓夫
-  - 罗伯特·肯尼迪
-  - 德皇威廉二世
-  - 英国乔治六世
-  - 俄国沙皇尼古拉二世
-  - 约瑟夫一世
-  - 提瓦达·索罗斯
-  - 达利奥
-companies_orgs:
-  - 奥匈帝国
-products_models: []
-media_books:
-  - 《八月的枪声》
 status: evergreen
+summary: 本期节目深入探讨了未来冲突的必然性，从历史上的修昔底德陷阱出发，结合非合作博弈论模型，分析了崛起大国与守成大国之间的动态关系。文章引用了古巴导弹危机、两次世界大战等历史事件，揭示了战争爆发的深层逻辑和导火索。最后，节目预测了未来冲突可能发生的时间点，并强调了经济周期、民粹主义和替罪羊效应在其中扮演的关键角色，呼吁个人应有所准备。
+tags:
+- economic-cycle
+- game-theory
+- geopolitical-conflict
+- nationalism-populism
+- thucydides-trap
+title: 未来注定一战？从修昔底德陷阱到博弈论的深度解析
 ---
+
 ### 冲突的必然性：历史与博弈论的视角
 
 本期“阿甘经济宏观论”将探讨未来是否会有一场注定发生的战争。结论是：一定会发生。我们将从推理、故事和时间三个方面进行阐述。

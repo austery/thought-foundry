@@ -1,48 +1,48 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: general
+companies_orgs:
+- Xlinks
+- Greenpeace
+- EDF
 date: '2025-07-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Why do good People Make Bad decisions?
+- Commonsense Sceptic
+people:
+- David McWilliams
+- Bent Flyvbjerg
+- Ed Miliband
+products_models:
+- HS2
+- Hinkley Point C
+- Ardnacrusha hydroelectric plant
+- DeleteMe
+- UK EPR
+- Hoover Dam
+- Turlough Hill pumped-storage plant
+project:
+- systems-thinking
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=UtApa3PA0J4
 speaker: Patrick Boyle
-tags:
-  - megaprojects
-  - infrastructure-failure
-  - cost-overruns
-  - regulatory-burden
-  - hyperdemocracy
-title: 巨型项目之海市蜃楼：西方国家为何在基础设施建设上屡屡失误？
-summary: 本文深入探讨了西方国家在大型基础设施项目建设中面临的普遍困境，以英国的Xlinks摩洛哥-英国电力项目为例，揭示了这些项目宏大愿景、成本膨胀、复杂性过高以及最终失败的深层原因。文章分析了“绿色殖民主义”争议、政府补贴依赖、传输损耗、地缘政治风险等具体问题，并引用专家观点，指出“过度民主化”、监管负担、政治动机和心理偏见导致了项目延误和成本超支。通过与历史案例（爱尔兰阿德纳克鲁沙水电站）和现代成功案例（马德里地铁）的对比，文章呼吁西方国家从“宏大叙事”转向“务实交付”，采用模块化、可复制的解决方案，以应对气候变化和经济现代化等挑战。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - geopolitics-watch
-people:
-  - David McWilliams
-  - Bent Flyvbjerg
-  - Ed Miliband
-companies_orgs:
-  - Xlinks
-  - Greenpeace
-  - EDF
-products_models:
-  - HS2
-  - Hinkley Point C
-  - Ardnacrusha hydroelectric plant
-  - DeleteMe
-  - UK EPR
-  - Hoover Dam
-  - Turlough Hill pumped-storage plant
-media_books:
-  - Why do good People Make Bad decisions?
-  - Commonsense Sceptic
 status: evergreen
+summary: 本文深入探讨了西方国家在大型基础设施项目建设中面临的普遍困境，以英国的Xlinks摩洛哥-英国电力项目为例，揭示了这些项目宏大愿景、成本膨胀、复杂性过高以及最终失败的深层原因。文章分析了“绿色殖民主义”争议、政府补贴依赖、传输损耗、地缘政治风险等具体问题，并引用专家观点，指出“过度民主化”、监管负担、政治动机和心理偏见导致了项目延误和成本超支。通过与历史案例（爱尔兰阿德纳克鲁沙水电站）和现代成功案例（马德里地铁）的对比，文章呼吁西方国家从“宏大叙事”转向“务实交付”，采用模块化、可复制的解决方案，以应对气候变化和经济现代化等挑战。
+tags:
+- canada
+- cost
+- geopolitical
+- infrastructure
+- regulatory
+title: 巨型项目之海市蜃楼：西方国家为何在基础设施建设上屡屡失误？
 ---
+
 ### 巨型项目的幻象：Xlinks电力项目的夭折
 
 想象一下：你身处英国，天气一如既往地阴沉多雨，有人向你提出一个想法——从你家铺设一条4000公里长的延长线到摩洛哥沙漠，这样你就可以用太阳能为你的水壶供电……

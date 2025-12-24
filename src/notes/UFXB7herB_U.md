@@ -1,61 +1,60 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Broadcom
+- Oracle
+- OpenAI
+- Deutsche Bank
+- Goldman Sachs
+- Federal Reserve
+- University of Virginia
+- The Economist
+- International Monetary Fund
+- Macquarie Bank
+- Chinese Communist Party
+- China Customs Administration
+- East India Company
+- European Union
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+- Reuters
+- Bloomberg
+- Associated Press
+- The Wealth of Nations
+people:
+- Donald Trump
+- Volodymyr Zelensky
+- Ruslan
+- Cai Qian
+- Emmanuel Macron
+- Ursula von der Leyen
+- Xi Jinping
+- Qianlong Emperor
+- Adam Smith
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=UFXB7herB_U
 speaker: LT視界
-tags:
-  - trade-surplus
-  - mercantilism
-  - geopolitics
-  - china-economy
-  - historical-parallels
-title: 历史惊人相似：中国万亿贸易顺差下的全球博弈与国内困境
-summary: 本文聚焦中国创纪录的万亿美元贸易顺差，剖析其与历史重商主义的惊人相似之处，并探讨其对全球经济秩序及中国国内经济的深远影响。同时，文章还分析了乌克兰战争的地缘政治动向，以及中国安全套税政策引发的人口与健康担忧，揭示了中国当前面临的多重挑战与战略选择。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Volodymyr Zelensky
-  - Ruslan
-  - Cai Qian
-  - Emmanuel Macron
-  - Ursula von der Leyen
-  - Xi Jinping
-  - Qianlong Emperor
-  - Adam Smith
-companies_orgs:
-  - Broadcom
-  - Oracle
-  - OpenAI
-  - Deutsche Bank
-  - Goldman Sachs
-  - Federal Reserve
-  - University of Virginia
-  - The Economist
-  - International Monetary Fund
-  - Macquarie Bank
-  - Chinese Communist Party
-  - China Customs Administration
-  - East India Company
-  - European Union
-products_models: []
-media_books:
-  - The Wall Street Journal
-  - Reuters
-  - Bloomberg
-  - Associated Press
-  - The Wealth of Nations
 status: evergreen
+summary: 本文聚焦中国创纪录的万亿美元贸易顺差，剖析其与历史重商主义的惊人相似之处，并探讨其对全球经济秩序及中国国内经济的深远影响。同时，文章还分析了乌克兰战争的地缘政治动向，以及中国安全套税政策引发的人口与健康担忧，揭示了中国当前面临的多重挑战与战略选择。
+tags:
+- china-economy
+- historical
+- mercantilism
+- trade
+title: 历史惊人相似：中国万亿贸易顺差下的全球博弈与国内困境
 ---
+
 ### 财经头条：人工智能泡沫与美元转折
 
 今天我们首先来关注财经领域的两条重要信息。第一条来自《华尔街日报》的报道，标题是“博通股价暴跌，拖累科技板块”。近期，人工智能（AI）板块的龙头企业股价几乎每日都在经历暴跌，昨天是甲骨文，今天轮到了博通。这种连续的下跌给全球资本市场带来了巨大的冲击，并且还在持续发酵，因为人们尚未找到确切的答案：人工智能究竟是否存在泡沫，泡沫有多大，以及何时会普遍破裂。

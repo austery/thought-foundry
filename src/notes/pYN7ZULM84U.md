@@ -1,93 +1,92 @@
 ---
-author: The Pragmatic Engineer
+area: personal-systems
+category: career
+companies_orgs:
+- Slack
+- Robin Hood
+- Warp
+- Flint
+- Meta
+- Statsig
+- Kleiner Perkins
+- Google
+- Time magazine
+- IBM
+- Disney
+- Notion
+- Linear
+- Airbnb
+- Coinbase
+- Uber
+- Grammarly
+- Clay
+- O'Reilly
+- Amazon
+- Figma
+- Neuro
+- OpenAI
+- Cognition
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Pragmatic Engineer
+- Weapons
+people:
+- Michelle Lim
+- Mark Zuckerberg
+- Stewart Butterfield
+- Zach
+- Nathan Sobo
+products_models:
+- Facebook University
+- Android
+- Java
+- Git
+- OCR
+- Bluetooth
+- Kafka
+- Bloomberg
+- Google Sheets
+- TypeScript
+- Rust
+- JavaScript
+- Presto
+- SQL
+- Atom
+- Zed
+- VS Code
+- Cursor
+- Vim
+- Hacker News
+- Twitter
+- YouTube
+- Discord
+- GitHub
+- Google Wallet
+- Google Pay
+- Gong
+- Windsurf
+project:
+- entrepreneurship
+- personal-growth-lab
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=pYN7ZULM84U
 speaker: The Pragmatic Engineer
-tags:
-  - founding-engineer
-  - career-strategy
-  - product-engineering
-  - startup-culture
-  - equity-negotiation
-title: AI初创公司创始工程师生存指南：Michelle Lim的职业抉择与成长心法
-summary: Michelle Lim，前AI初创公司Warp的创始工程师、现Flint创始人，分享了她从大型科技公司实习生到AI创业者的完整心路历程。她深入探讨了如何评估并加入一家早期初创公司，分享了关于股权谈判、对创始人进行反向背景调查等实用策略。此外，她还剖析了“产品优先”与“代码优先”工程师的核心区别，并为有志于成为创始工程师的人提供了宝贵的职业建议，强调了主动承担“脏活累活”的重要性。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-  - ai-impact-analysis
-people:
-  - Michelle Lim
-  - Mark Zuckerberg
-  - Stewart Butterfield
-  - Zach
-  - Nathan Sobo
-companies_orgs:
-  - Slack
-  - Robin Hood
-  - Warp
-  - Flint
-  - Meta
-  - Facebook
-  - Statsig
-  - Kleiner Perkins
-  - Google
-  - Time magazine
-  - IBM
-  - Disney
-  - Notion
-  - Linear
-  - Airbnb
-  - Coinbase
-  - Uber
-  - Grammarly
-  - Clay
-  - O'Reilly
-  - Amazon
-  - Figma
-  - Neuro
-  - OpenAI
-  - Cognition
-products_models:
-  - Facebook University
-  - Android
-  - Java
-  - Git
-  - OCR
-  - Bluetooth
-  - Kafka
-  - Bloomberg
-  - Google Sheets
-  - TypeScript
-  - Rust
-  - JavaScript
-  - Presto
-  - SQL
-  - Atom
-  - Zed
-  - VS Code
-  - Cursor
-  - Vim
-  - Hacker News
-  - Twitter
-  - YouTube
-  - Discord
-  - GitHub
-  - Google Wallet
-  - Google Pay
-  - Gong
-  - Windsurf
-media_books:
-  - The Pragmatic Engineer
-  - Weapons
 status: evergreen
+summary: Michelle Lim，前AI初创公司Warp的创始工程师、现Flint创始人，分享了她从大型科技公司实习生到AI创业者的完整心路历程。她深入探讨了如何评估并加入一家早期初创公司，分享了关于股权谈判、对创始人进行反向背景调查等实用策略。此外，她还剖析了“产品优先”与“代码优先”工程师的核心区别，并为有志于成为创始工程师的人提供了宝贵的职业建议，强调了主动承担“脏活累活”的重要性。
+tags:
+- engineering
+- founding-engineer
+- investment
+- startup-culture
+- strategy
+title: AI初创公司创始工程师生存指南：Michelle Lim的职业抉择与成长心法
 ---
+
 ### 导语：成为杰出创始工程师的秘诀
 
 **主持人：**要怎样才能成为一名出色的创始工程师？Michelle Lim 曾是 AI 初创公司 Warp 的创始软件工程师，现在是她自己创办的公司 Flint 的创始人，并且她现在也在招聘创始工程师。

@@ -1,49 +1,49 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 英特尔投资
+- 珠海荣盈股权投资合伙企业
+- 易方达科创五0投资基金
+- 中国电子投资
+- 香港中央结算
+- 三星电子
+- SK海力士
+- 台积电
+- 中芯国际
 date: '2025-05-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 雪球
+people:
+- 杨崇和
+products_models:
+- DDR5
+- MXC芯片
+- PCIE retimer芯片7.0
+- Switch芯片
+- CXL技术
+project:
+- investment-strategy
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=fQj6hIi9kkg
 speaker: 海淀拙大叔
-tags:
-  - stock-valuation
-  - shareholder-reduction
-  - tariff-impact
-  - investment-logic
-  - semiconductor-industry
-title: 澜起科技市值天花板何在？投资逻辑与估值再审视
-summary: 本文深入分析了澜起科技的市场表现、主要股东减持行为及其对股价的影响。探讨了公司当前估值处于历史低位的原因，包括关税不确定性。文章基于利润表法和RE法预测了公司未来业绩，并勾勒了乐观与悲观的增长路径图，强调了内存接口芯片周期、AI运力芯片及技术门槛作为核心投资逻辑。最后，提出投资者需保持望远镜和显微镜视角，将认知转化为投资。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 杨崇和
-companies_orgs:
-  - 英特尔投资
-  - 珠海荣盈股权投资合伙企业
-  - 易方达科创五0投资基金
-  - 中国电子投资
-  - 香港中央结算
-  - 三星电子
-  - SK海力士
-  - 台积电
-  - 中芯国际
-products_models:
-  - DDR5
-  - MXC芯片
-  - PCIE retimer芯片7.0
-  - Switch芯片
-  - CXL技术
-media_books:
-  - 雪球
 status: evergreen
+summary: 本文深入分析了澜起科技的市场表现、主要股东减持行为及其对股价的影响。探讨了公司当前估值处于历史低位的原因，包括关税不确定性。文章基于利润表法和RE法预测了公司未来业绩，并勾勒了乐观与悲观的增长路径图，强调了内存接口芯片周期、AI运力芯片及技术门槛作为核心投资逻辑。最后，提出投资者需保持望远镜和显微镜视角，将认知转化为投资。
+tags:
+- investment
+- semiconductor
+- stock-valuation
+- tariff-impact
+- technology
+title: 澜起科技市值天花板何在？投资逻辑与估值再审视
 ---
+
 ### 澜起科技股价表现与股东减持分析
 
 阿甘公司研究论第19集第三部分，将从投资角度对澜起科技进行再审查。当前，澜起科技的股价表现平平，今年从1月1号到4月28号仅上涨了6.9%。股价涨幅较小的主要原因是卖出量大于买入量，净卖出量约为1900万股。

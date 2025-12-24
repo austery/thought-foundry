@@ -1,30 +1,30 @@
 ---
-title: 硅谷之王的复仇暗战：彼得·蒂尔如何将绝境逆转为绝杀？
-summary: 本文深入探讨了彼得·蒂尔对Gawker的复仇行动，从早期法律挫败到FBI钓鱼失败，再到佛罗里达州法院的转机。文章揭示了Gawker因傲慢和认知失误，在不对称战争中一步步走向毁灭的过程。
 area: null
 category: null
-project: []
-tags:
-- gawker
-- legal-battle
-- media-ethics
-- revenge
-people:
-- peter-thiel
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-13'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- peter-thiel
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NkcomyxX6Yc
+speaker: 北美王路飞
 status: evergreen
+summary: 本文深入探讨了彼得·蒂尔对Gawker的复仇行动，从早期法律挫败到FBI钓鱼失败，再到佛罗里达州法院的转机。文章揭示了Gawker因傲慢和认知失误，在不对称战争中一步步走向毁灭的过程。
+tags:
+- legal
+- media
+- technology
+title: 硅谷之王的复仇暗战：彼得·蒂尔如何将绝境逆转为绝杀？
+companies:
+- gawker
 ---
+
 ### 复仇之战的意外开局
 
 大家好，欢迎来到我的频道。今天我们继续讲述彼得·蒂尔（Peter Thiel: 硅谷知名投资人、PayPal联合创始人）系列故事的第三期。上一期我们讲到，蒂尔的复仇者战队正式集结，霍根（Hulk Hogan: 美国著名摔跤手）作为一个完美的大哥登场，一纸1亿美元的诉状直接递交给了Gawker（Gawker: 一家以八卦和争议性报道闻名的美国在线媒体）。节奏已经烘托到这里，感觉一场高地团战即将爆发。

@@ -5,12 +5,11 @@ area: null
 category: null
 project: []
 tags:
-  - wise
-  - 指南
-people: []
+- wise
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- 指南
 date: '2025-07-29'
 author: Lei
 speaker: Google Gemini

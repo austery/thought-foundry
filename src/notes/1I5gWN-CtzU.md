@@ -1,87 +1,87 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- CNBC
+- Goldman Sachs
+- J.P. Stevens
+- Google
+- Apple
+- Nucor
+- Palantir
+- Nvidia
+- Micron
+- General Mills
+- Chevron
+- Costco
+- Pepsi
+- Coca-Cola
+- JPMorgan
+- Wells Fargo
+- The Street
+- New York Commercial Library
+- New York Observer
+- The Phillies
+- Bloomberg
+- Democratic Socialists of America
 date: '2025-09-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+- How to Make Money in Any Market
+- What Is to Be Done?
+- The Unforgiven
+people:
+- Jim Cramer
+- Joe Weisenthal
+- Tracy Alloway
+- Warren Buffett
+- Donald Trump
+- Ben Bernanke
+- Bill Clinton
+- George W. Bush
+- Andrew Johnson
+- Ulysses S. Grant
+- Mike Bloomberg
+- Tim Cook
+- Peter Navarro
+- Stalin
+- Karl Marx
+- Leon Trotsky
+- Vladimir Lenin
+- Andy Buyer
+- Jon Stewart
+- Matt Lauer
+- Katie Couric
+- Indra Nooyi
+products_models:
+- Mad Money
+- ChatGPT
+- Perplexity Finance
+- S&P 500
+- Dow
+project:
+- investment-strategy
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=1I5gWN-CtzU
 speaker: Bloomberg Podcasts
-tags:
-  - retail-trading
-  - stock-picking
-  - market-speculation
-  - compounding-returns
-  - corporate-reporting
-title: 吉姆·克莱默谈散户交易革命：挑战指数基金与长期持股
-summary: 本期《Odd Lots》播客邀请到知名财经主持人吉姆·克莱默，深入探讨散户交易的崛起及其对传统投资理念的冲击。克莱默倡导个体投资者通过学习和策略性选股来超越市场，而非盲目追随指数基金。他分享了对迷因股、期权交易、企业财报透明度以及工人持股等热点议题的看法，并结合个人经历，强调长期复利而非短期投机的重要性，同时揭示了市场泡沫与个人投资策略的平衡之道。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Jim Cramer
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Warren Buffett
-  - Donald Trump
-  - Ben Bernanke
-  - Bill Clinton
-  - George W. Bush
-  - Andrew Johnson
-  - Ulysses S. Grant
-  - Mike Bloomberg
-  - Tim Cook
-  - Peter Navarro
-  - Stalin
-  - Karl Marx
-  - Leon Trotsky
-  - Vladimir Lenin
-  - Andy Buyer
-  - Jon Stewart
-  - Matt Lauer
-  - Katie Couric
-  - Indra Nooyi
-companies_orgs:
-  - Robinhood
-  - CNBC
-  - Goldman Sachs
-  - J.P. Stevens
-  - Google
-  - Apple
-  - Nucor
-  - Palantir
-  - Nvidia
-  - Micron
-  - General Mills
-  - Chevron
-  - Costco
-  - Pepsi
-  - Coca-Cola
-  - JPMorgan
-  - Wells Fargo
-  - The Street
-  - New York Commercial Library
-  - New York Observer
-  - The Phillies
-  - Bloomberg
-  - Democratic Socialists of America
-products_models:
-  - Mad Money
-  - ChatGPT
-  - Perplexity Finance
-  - S&P 500
-  - Dow
-media_books:
-  - Odd Lots Podcast
-  - How to Make Money in Any Market
-  - What Is to Be Done?
-  - The Unforgiven
 status: evergreen
+summary: 本期《Odd Lots》播客邀请到知名财经主持人吉姆·克莱默，深入探讨散户交易的崛起及其对传统投资理念的冲击。克莱默倡导个体投资者通过学习和策略性选股来超越市场，而非盲目追随指数基金。他分享了对迷因股、期权交易、企业财报透明度以及工人持股等热点议题的看法，并结合个人经历，强调长期复利而非短期投机的重要性，同时揭示了市场泡沫与个人投资策略的平衡之道。
+tags:
+- corporate
+- investment
+- llm
+- market-speculation
+- stock
+title: 吉姆·克莱默谈散户交易革命：挑战指数基金与长期持股
 ---
+
 ### 散户交易的崛起与传统投资理念的挑战
 
 我经历过最好的案例是关于英伟达（**Nvidia**）的詹森（Jensen），当时股价只有两美元，我说：“我们不再交易它了。请停止交易它。”

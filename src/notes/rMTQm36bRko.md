@@ -1,56 +1,55 @@
 ---
-author: 美投讲美股
+area: market-analysis
+category: business
+companies_orgs:
+- Tesla
+- Figure AI
+- 智元机器人
+- 宇树科技
+- Boston Dynamics
+- Meta
+- 小鹏
+- 比亚迪
+- 同济大学
+- 清华大学
+- 重庆大学
+- 华南理工
+- 优必选
+- 中金证券
 date: '2025-07-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 黄仁勋
+- Elon Musk
+- Hans Moravec
+- Yann LeCun
+products_models:
+- Optimus robot
+- ChatGPT
+- DeepMind
+- VLA模型
+- WalkerX
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=rMTQm36bRko
 speaker: 美投讲美股
-tags:
-  - humanoid-robotics
-  - ai-development
-  - commercialization-strategy
-  - market-potential
-  - technological-bottlenecks
-title: 万亿风口将至！人形机器人爆发前夜的机遇与挑战（上集）
-summary: 本文深入探讨了人形机器人产业的爆发潜力，分析了其成本结构优化、技术进步、应用场景拓展及人口结构变化等短期推动因素。同时，文章也指出了当前行业面临的视觉语言模型训练数据稀缺和机器人本体自由度、续航能力不足等技术瓶颈。最后，文章展望了人形机器人从实验室到工厂、再到服务业，最终进入家庭的商业化路径，强调了制造业作为初期突破口的重要性，并将其与新能源汽车的发展历程进行对比，为投资者提供了审视该新兴产业的视角。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 黄仁勋
-  - 马斯克
-  - Hans Moravec
-  - Yann LeCun
-companies_orgs:
-  - Tesla
-  - Figure AI
-  - 智元机器人
-  - 宇树科技
-  - Boston Dynamics
-  - Meta
-  - 小鹏
-  - 比亚迪
-  - 同济大学
-  - 清华大学
-  - 重庆大学
-  - 华南理工
-  - 优必选
-  - 中金证券
-products_models:
-  - Optimus robot
-  - ChatGPT
-  - DeepMind
-  - VLA模型
-  - WalkerX
-media_books: []
 status: evergreen
+summary: 本文深入探讨了人形机器人产业的爆发潜力，分析了其成本结构优化、技术进步、应用场景拓展及人口结构变化等短期推动因素。同时，文章也指出了当前行业面临的视觉语言模型训练数据稀缺和机器人本体自由度、续航能力不足等技术瓶颈。最后，文章展望了人形机器人从实验室到工厂、再到服务业，最终进入家庭的商业化路径，强调了制造业作为初期突破口的重要性，并将其与新能源汽车的发展历程进行对比，为投资者提供了审视该新兴产业的视角。
+tags:
+- ai-development
+- humanoid-robotic
+- market
+- strategy
+- technological
+title: 万亿风口将至！人形机器人爆发前夜的机遇与挑战（上集）
 ---
+
 ### 引言：下一个颠覆性机遇——人形机器人
 
 大家好，我是美投讲美股，您的美股探索者。2020年，电动车的引擎推力成就了特斯拉，其股价一年内翻了三倍。2023年，AI语言模型的横空出世成就了ChatGPT，其股价同样翻了三倍。那么，下一个颠覆性的机遇会是什么？哪家公司将主导新时代？今天，美投将为大家介绍一个这样的行业，那就是**人形机器人**（Humanoid Robot: 模仿人类形态和行为的机器人）产业。

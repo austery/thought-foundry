@@ -1,83 +1,83 @@
 ---
-author: The Pragmatic Engineer
+area: personal-systems
+category: career
+companies_orgs:
+- Uber
+- CloudKitchens
+- GitHub
+- Statsig
+- Linear
+- Airbnb
+- Coinbase
+- Ramp
+- Clay
+- Notion
+- Brex
+- Atlassian
+- OpenAI
+- Meta
+- Valve
+- Google
+- Skype
 date: '2025-09-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Professional Programming
+- Getting Things Done
+- 'Complications: A Surgeon''s Notes on an Imperfect Science'
+- The Linux Programming Interface
+people:
+- Charles-Axel Dein
+- Travis Kalanick
+- Thuan Pham
+- Atul Gawande
+- Martin Fowler
+- John Ciara
+- Dan Heller
+- Bjarne Stroustrup
+- David Allen
+products_models:
+- Google Wallet
+- Google Pay
+- iOS
+- Android
+- Windows Phone
+- Python
+- Java
+- C#
+- NodeJS
+- Go
+- C++
+- TypeScript
+- Clojure
+- Rust
+- Lisp
+- Anki
+- Things
+- Paytm
+- Jump Bikes
+project:
+- us-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=bM0Wq7aLd5w
 speaker: The Pragmatic Engineer
-tags:
-  - high-growth-startups
-  - hyperscaling
-  - engineering-culture
-  - personal-productivity
-  - career-development
-title: 从 Uber 早期工程师到 CloudKitchens：在高增长科技公司脱颖而出的战术与心法
-summary: 前 Uber 20号工程师 Charles-Axel Dein 分享了他在 Uber 和 CloudKitchens 等高增长创业公司的宝贵经验。他深入探讨了“超高速扩张”（hyperscaling）时期的混乱与机遇，揭示了软件工程师在这种环境下脱颖而出的关键特质，如“极端所有权”和高效的项目领导力。Charles 还分享了独特的个人生产力技巧，例如使用抽认卡记忆架构模式，并就 AI 如何改变软件工程、招聘策略以及职业发展提出了深刻见解。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - us-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Charles-Axel Dein
-  - Travis Kalanick
-  - Thuan Pham
-  - Atul Gawande
-  - Martin Fowler
-  - John Ciara
-  - Dan Heller
-  - Bjarne Stroustrup
-  - David Allen
-companies_orgs:
-  - Uber
-  - CloudKitchens
-  - GitHub
-  - Statsig
-  - Linear
-  - Airbnb
-  - Coinbase
-  - Ramp
-  - Clay
-  - Notion
-  - Brex
-  - Atlassian
-  - OpenAI
-  - Meta
-  - Facebook
-  - Valve
-  - Google
-  - Skype
-products_models:
-  - Google Wallet
-  - Google Pay
-  - iOS
-  - Android
-  - Windows Phone
-  - Python
-  - Java
-  - C#
-  - NodeJS
-  - Go
-  - C++
-  - TypeScript
-  - Clojure
-  - Rust
-  - Lisp
-  - Anki
-  - Things
-  - Paytm
-  - Jump Bikes
-media_books:
-  - Professional Programming
-  - Getting Things Done
-  - 'Complications: A Surgeon''s Notes on an Imperfect Science'
-  - The Linux Programming Interface
 status: evergreen
+summary: 前 Uber 20号工程师 Charles-Axel Dein 分享了他在 Uber 和 CloudKitchens 等高增长创业公司的宝贵经验。他深入探讨了“超高速扩张”（hyperscaling）时期的混乱与机遇，揭示了软件工程师在这种环境下脱颖而出的关键特质，如“极端所有权”和高效的项目领导力。Charles
+  还分享了独特的个人生产力技巧，例如使用抽认卡记忆架构模式，并就 AI 如何改变软件工程、招聘策略以及职业发展提出了深刻见解。
+tags:
+- career-development
+- engineering-culture
+- growth
+- hyperscaling
+- personal
+title: 从 Uber 早期工程师到 CloudKitchens：在高增长科技公司脱颖而出的战术与心法
 ---
+
 ### 引言：在高增长公司中茁壮成长
 
 **Gergely:** 作为一名软件工程师，在一家快速发展的公司里茁壮成长需要具备哪些要素？Charles-Axel Dein 是 Uber 的第 20 号工程师，他亲眼见证了公司在短短 5 年内从 20 名工程师发展到超过 2000 人。他还碰巧在 Uber 雇用了我，并是我在该公司的第一位经理。如今，Charles 在 Cloud Kitchens 工作，并维护着一个广受欢迎的 GitHub 仓库——“Professional Programming”——这个项目他已经坚持了 15 年。

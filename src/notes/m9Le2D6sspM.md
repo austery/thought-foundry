@@ -1,90 +1,90 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- White House
+- Citibank
+- Wells Fargo
+- Goldman Sachs
+- Barclays
+- Deutsche Bank
+- BNP Paribas
+- HSBC
+- UBS
+- Morgan Stanley
+- Nomura Securities
+- JPMorgan Chase
+- Bank of America
+- Standard Chartered
+- European Council
+- European Commission
+- People's Liberation Army
+- People's Liberation Army Rocket Force
+- CCTV
+- Global Times
+- Xinhua News Agency
+- SDIC Securities
+- SDIC Industry Research Institute
+- Securities Association of China
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- The Wall Street Journal
+- Reuters
+- Agence France-Presse
+- The Economist
+- 《中国证券报》
+- 预言谈天
+people:
+- Christopher Waller
+- Milan
+- Donald Trump
+- Volodymyr Zelenskyy
+- Marco Rubio
+- Kirstjen Koster
+- Peter von der Leyen
+- Vidkov
+- Mr. Wanshi
+- Mr. Driscoll
+- 高善文
+- 毛宁
+- 小泉进次郎
+- 胡锡进
+- 白岩松
+- Xi Jinping
+- Barack Obama
+- Evan Medeiros
+- 毛泽东
+- 邓小平
+- 江泽民
+- 胡锦涛
+products_models:
+- Samsung A71
+- Bitcoin
+- Stablecoin
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=m9Le2D6sspM
 speaker: LT視界
-tags:
-  - us-monetary-policy
-  - ukraine-peace-negotiations
-  - china-political-economy
-  - geopolitical-strategy
-  - propaganda-critique
-title: 习近平罕见致电特朗普“告洋状”：美联储降息、乌克兰和谈与中国内部挑战
-summary: 本文深入探讨了多项国际与国内热点事件。包括美联储降息前景、乌克兰和平谈判的最新进展、中国比特币挖矿业的暗中复苏、知名经济学家高善文被“清零”事件，以及胡锡进对央视宣传低俗化的批评。核心关注点是习近平罕见致电特朗普，被解读为就日本部署导弹和台湾问题“告洋状”，并分析了其背后逻辑的缺陷及对中美关系的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Christopher Waller
-  - Milan
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Marco Rubio
-  - Kirstjen Koster
-  - Peter von der Leyen
-  - Vidkov
-  - Mr. Wanshi
-  - Mr. Driscoll
-  - 高善文
-  - 毛宁
-  - 小泉进次郎
-  - 胡锡进
-  - 白岩松
-  - 习近平
-  - Barack Obama
-  - Evan Medeiros
-  - 毛泽东
-  - 邓小平
-  - 江泽民
-  - 胡锦涛
-companies_orgs:
-  - Federal Reserve
-  - White House
-  - Citibank
-  - Wells Fargo
-  - Goldman Sachs
-  - Barclays
-  - Deutsche Bank
-  - BNP Paribas
-  - HSBC
-  - UBS
-  - Morgan Stanley
-  - Nomura Securities
-  - JPMorgan Chase
-  - Bank of America
-  - Standard Chartered
-  - European Council
-  - European Commission
-  - People's Liberation Army
-  - People's Liberation Army Rocket Force
-  - CCTV
-  - Global Times
-  - Xinhua News Agency
-  - SDIC Securities
-  - SDIC Industry Research Institute
-  - Securities Association of China
-products_models:
-  - Samsung A71
-  - Bitcoin
-  - Stablecoin
-media_books:
-  - Bloomberg
-  - The Wall Street Journal
-  - Reuters
-  - Agence France-Presse
-  - The Economist
-  - 《中国证券报》
-  - 预言谈天
 status: evergreen
+summary: 本文深入探讨了多项国际与国内热点事件。包括美联储降息前景、乌克兰和平谈判的最新进展、中国比特币挖矿业的暗中复苏、知名经济学家高善文被“清零”事件，以及胡锡进对央视宣传低俗化的批评。核心关注点是习近平罕见致电特朗普，被解读为就日本部署导弹和台湾问题“告洋状”，并分析了其背后逻辑的缺陷及对中美关系的影响。
+tags:
+- china-political-economy
+- critique
+- geopolitical-strategy
+- llm
+- us-monetary-policy
+title: 习近平罕见致电特朗普“告洋状”：美联储降息、乌克兰和谈与中国内部挑战
 ---
+
 ### 财经头条：美联储降息前景与沃勒观点
 
 首先关注今天的财经头条。彭博社报道称，**美联储**（Federal Reserve: 美国中央银行系统）理事**克里斯托弗·沃勒**（Christopher Waller: 美国联邦储备委员会理事）认为，12月份应该**降息**（Interest Rate Cut: 降低基准利率），但从明年1月开始，美联储应在收到更多经济数据后逐月确定利率政策。沃勒表示，就双重使命而言，他主要担忧劳动力市场，因此认为下次会议会降息。目前华尔街普遍预期，12月9日、10日两天召开的**公开市场委员会**（Federal Open Market Committee, FOMC: 美联储的货币政策制定机构）会议做出降息决定的几率为70%。降息与否仍存在很大不确定性，主要原因在于政府关门后即使恢复，也无法按时发布重要的宏观经济数据。10月和11月的就业报告推迟到12月6日发布，11月的通胀指数推迟到12月18日发布。这些数据都在美联储会议之后发布，给12月份的会议决策带来了巨大挑战，因为美联储在不完全掌握经济数据的情况下，需要对货币政策做出决定。

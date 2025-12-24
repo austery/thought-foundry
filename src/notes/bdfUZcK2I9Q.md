@@ -1,50 +1,52 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- SEB Banking
+- Investor AB
+- Ericsson
+- Atlas Copco
+- Electrolux
+- AstraZeneca
+- ABB
+- EQT
+- AEA Investors
+- Royal Swedish Academy of Engineering Sciences
+- Norges Bank Investment Management
 date: '2024-10-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Swedish-Finnish relationship book
+people:
+- Marcus Wallenberg
+- Alise Wallenberg
+- Conor Johnson
+- Claus Dobeck
+- Johan Allan
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=bdfUZcK2I9Q
 speaker: Norges Bank Investment Management
-tags:
-  - long-term-ownership
-  - corporate-adaptation
-  - philanthropic-foundations
-  - leadership-development
-  - nordic-business-model
-title: 瓦伦堡家族的百年传承：适应、创新与长期主义
-summary: 本文深入探讨了瑞典瓦伦堡家族（Wallenberg family）长达175年的商业成功秘诀，包括其核心价值观、适应时代变化的能力、对创新和人才培养的重视，以及通过基金会回馈社会、支持基础研究的独特模式。Marcus Wallenberg分享了家族在复杂地缘政治和科技变革中保持竞争力的策略，并阐述了其对长期主义所有权、领导力发展和企业社会责任的深刻见解。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - historical-insights
-people:
-  - Marcus Wallenberg
-  - Alise Wallenberg
-  - Conor Johnson
-  - Claus Dobeck
-  - Johan Allan
-companies_orgs:
-  - SEB Banking
-  - Investor AB
-  - Ericsson
-  - Atlas Copco
-  - Electrolux
-  - AstraZeneca
-  - ABB
-  - EQT
-  - AEA Investors
-  - Royal Swedish Academy of Engineering Sciences
-  - Norges Bank Investment Management
-products_models: []
-media_books:
-  - Swedish-Finnish relationship book
 status: evergreen
+summary: 本文深入探讨了瑞典瓦伦堡家族（Wallenberg family）长达175年的商业成功秘诀，包括其核心价值观、适应时代变化的能力、对创新和人才培养的重视，以及通过基金会回馈社会、支持基础研究的独特模式。Marcus
+  Wallenberg分享了家族在复杂地缘政治和科技变革中保持竞争力的策略，并阐述了其对长期主义所有权、领导力发展和企业社会责任的深刻见解。
+tags:
+- corporate
+- leadership-development
+- long
+- nordic-business-model
+title: 瓦伦堡家族的百年传承：适应、创新与长期主义
+companies:
+- philanthropic-foundation
 ---
+
 ### 瓦伦堡家族：百年传承与商业影响力
 
 主持人：大家好，今天我非常荣幸能与**Marcus Wallenberg**（瑞典瓦伦堡家族的第五代传人，现任**SEB Banking**（Skandinaviska Enskilda Banken: 瑞典领先的商业银行）董事长及**Investor AB**（瑞典银瑞达集团: 瓦伦堡家族的控股公司，专注于长期投资）副董事长）共处。

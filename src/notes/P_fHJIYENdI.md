@@ -1,60 +1,60 @@
 ---
-author: Veritasium
-date: '2025-02-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=P_fHJIYENdI
-speaker: Veritasium
-tags:
-  - veritasium
-  - protein-folding
-  - ai-breakthrough
-  - drug-discovery
-  - materials-science
-  - scientific-acceleration
-title: AlphaFold：AI在生命科学领域最伟大的突破
-summary: 本文探讨了DeepMind的AlphaFold如何通过解决长达半个世纪的蛋白质折叠难题，彻底改变了生物学研究。从早期的X射线晶体学到Fold It游戏，再到AlphaFold 1和2的迭代，文章详细介绍了AI技术如何以前所未有的速度揭示了几乎所有已知蛋白质的三维结构。此外，还介绍了David Baker利用生成式AI设计全新蛋白质的突破，以及这些进展在疫苗开发、疾病治疗和新材料发现等领域的巨大潜力，预示着AI将加速人类知识的边界。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - John Kendrew
-  - Linus Pauling
-  - Cyrus Levinthal
-  - John Moult
-  - David Baker
-  - Demis Hassabis
-  - Lee Sedol
-  - John Jumper
+category: technology
 companies_orgs:
-  - DeepMind
-  - Google
-  - University of Washington
-  - University of Maryland
-  - MIT
-  - Hostinger
-products_models:
-  - AlphaFold
-  - AlphaGo
-  - Rosetta
-  - Rosetta at Home
-  - Fold It
-  - CASP
-  - EVO Former
-  - RF Diffusion
-  - GNoME
-  - ChatGPT
-  - Dall-E
+- DeepMind
+- Google
+- University of Washington
+- University of Maryland
+- MIT
+- Hostinger
+date: '2025-02-10'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 3Blue1Brown
+- 3Blue1Brown
+people:
+- John Kendrew
+- Linus Pauling
+- Cyrus Levinthal
+- John Moult
+- David Baker
+- Demis Hassabis
+- Lee Sedol
+- John Jumper
+products_models:
+- AlphaFold
+- AlphaGo
+- Rosetta
+- Rosetta at Home
+- Fold It
+- CASP
+- EVO Former
+- RF Diffusion
+- GNoME
+- ChatGPT
+- Dall-E
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=P_fHJIYENdI
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了DeepMind的AlphaFold如何通过解决长达半个世纪的蛋白质折叠难题，彻底改变了生物学研究。从早期的X射线晶体学到Fold It游戏，再到AlphaFold
+  1和2的迭代，文章详细介绍了AI技术如何以前所未有的速度揭示了几乎所有已知蛋白质的三维结构。此外，还介绍了David Baker利用生成式AI设计全新蛋白质的突破，以及这些进展在疫苗开发、疾病治疗和新材料发现等领域的巨大潜力，预示着AI将加速人类知识的边界。
+tags:
+- drug-discovery
+- health
+- llm
+- materials-science
+- scientific
+title: AlphaFold：AI在生命科学领域最伟大的突破
 ---
+
 ### 引言：AI解决蛋白质折叠难题
 
 如果世界上所有最大的问题，从气候变化到疾病治疗，再到塑料废物处理，都有一个共同的解决方案，那会是怎样？

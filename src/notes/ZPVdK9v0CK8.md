@@ -1,54 +1,54 @@
 ---
-author: The Diary Of A CEO
+area: knowledge-meta
+category: psychology
+companies_orgs:
+- Boston Consulting Group
+- Procter & Gamble
+- Adobe
+- Whisper Flow
+- Stan
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Breakfast Club
+- The Boy Who Cried Wolf
+- Colin and Samir
+people:
+- Jefferson Fisher
+- Miley Cyrus
+- Amy Campbell
+- Dame Dash
+- Charlemagne
+- Abraham Lincoln
+- Brené Brown
+- Tim Ferriss
+- Samir Chaudry
+- Oliver
+- Nikki
+products_models:
+- Adobe Express
+- Whisper Flow
+- Dare to Dream
+- The Next Conversation Workbook
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ZPVdK9v0CK8
 speaker: The Diary Of A CEO
-tags:
-  - communication-skill
-  - gaslighting
-  - narcissism
-  - relationship-management
-  - emotional-intelligence
-title: 沟通大师的五大秘诀：掌控对话，应对煤气灯操纵与自恋者
-summary: 本期节目邀请沟通专家兼诉讼律师**杰斐逊·费舍尔**，分享了成为沟通大师的五大关键原则：真诚、减少干扰、避免过度解释、处理悲伤以及应对自恋者和煤气灯操纵者。他强调有效沟通是一项后天习得的技能，对个人和职业成功至关重要。费舍尔还深入探讨了情商、设定界限的重要性，以及微小而真诚的互动如何深刻影响人际关系和领导力。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: knowledge-meta
-project:
-  - ai-impact-analysis
-people:
-  - Jefferson Fisher
-  - Miley Cyrus
-  - Amy Campbell
-  - Dame Dash
-  - Charlemagne
-  - Abraham Lincoln
-  - Brené Brown
-  - Tim Ferriss
-  - Samir Chaudry
-  - Oliver
-  - Nikki
-companies_orgs:
-  - Boston Consulting Group
-  - Procter & Gamble
-  - Adobe
-  - Whisper Flow
-  - Stan
-products_models:
-  - Adobe Express
-  - Whisper Flow
-  - Dare to Dream
-  - The Next Conversation Workbook
-media_books:
-  - The Breakfast Club
-  - The Boy Who Cried Wolf
-  - Colin and Samir
 status: evergreen
+summary: 本期节目邀请沟通专家兼诉讼律师**杰斐逊·费舍尔**，分享了成为沟通大师的五大关键原则：真诚、减少干扰、避免过度解释、处理悲伤以及应对自恋者和煤气灯操纵者。他强调有效沟通是一项后天习得的技能，对个人和职业成功至关重要。费舍尔还深入探讨了情商、设定界限的重要性，以及微小而真诚的互动如何深刻影响人际关系和领导力。
+tags:
+- communication-skill
+- emotional-intelligence
+- environment
+- management
+- technology
+title: 沟通大师的五大秘诀：掌控对话，应对煤气灯操纵与自恋者
 ---
+
 ### 沟通大师的五大要素
 
 要成为一名卓越的沟通者，从而在生活中实现目标，有五件最重要的事情。首先是**真诚**（Authenticity），而**临在感**（Presence: 全神贯注于当下，不被他物干扰的状态）是真诚的最高体现。其次，要**减少分心**。第三，**停止过度解释**。第四，要**懂得如何处理他人的悲伤**。第五，你必须知道如何**应对自恋者**（Narcissist: 一种以自我为中心，缺乏同理心，需要他人持续关注和赞美的行为模式）和**煤气灯操纵者**（Gaslighter: 通过心理操纵使受害者怀疑自己的记忆、感知或理智的行为）。**杰斐逊·费舍尔**（Jefferson Fisher: 诉讼律师、沟通专家、作家）作为一名获得委员会认证的诉讼律师，正运用他在冲突解决和沟通方面的专业知识，教导夫妻、朋友、员工以及介于这些关系之间的所有人，如何掌握艰难的对话。

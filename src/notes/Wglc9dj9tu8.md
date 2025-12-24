@@ -1,47 +1,44 @@
 ---
-author: Darren聊美股
+area: market-analysis
+category: finance
+companies_orgs:
+- Harvest
+- Purpose
+- iShares
+- Global X
+- Fidelity
+- YieldMax
+- Seeking Alpha
+- 美联储
+- 特斯拉
+- Nvidia
+- SoFi
+- Robinhood
+- Palantir
+- Meta
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- fire-movement
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Wglc9dj9tu8
 speaker: Darren聊美股
-tags:
-  - etf-investment
-  - covered-call-etf
-  - portfolio-rebalancing
-  - dividend-income
-  - canadian-market
-title: 2025加拿大市场ETF投资组合推荐：长期增长与高现金流策略
-summary: 本文回顾了2025年加拿大市场ETF投资组合的表现，并为2026年提供了更新的投资建议。内容涵盖了市场展望、两种主要ETF投资策略——追求长期增长的组合与侧重高现金流的Covered Call ETF组合。文章详细分析了各类ETF（如追踪大盘、个股、黄金及防御性资产的ETF）的配置逻辑、收益表现及调整原因，旨在帮助投资者构建稳健且符合个人风险偏好的投资组合。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - fire-movement
-  - market-cycles
-people: []
-companies_orgs:
-  - Harvest
-  - Purpose
-  - iShares
-  - Global X
-  - Fidelity
-  - YieldMax
-  - Seeking Alpha
-  - 美联储
-  - 特斯拉
-  - 英伟达
-  - SoFi
-  - Robinhood
-  - Palantir
-  - Meta
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文回顾了2025年加拿大市场ETF投资组合的表现，并为2026年提供了更新的投资建议。内容涵盖了市场展望、两种主要ETF投资策略——追求长期增长的组合与侧重高现金流的Covered
+  Call ETF组合。文章详细分析了各类ETF（如追踪大盘、个股、黄金及防御性资产的ETF）的配置逻辑、收益表现及调整原因，旨在帮助投资者构建稳健且符合个人风险偏好的投资组合。
+tags:
+- income
+- investment
+- market
+title: 2025加拿大市场ETF投资组合推荐：长期增长与高现金流策略
 ---
+
 ### 市场回顾与投资策略引言
 
 本周美股继续保持强劲上涨，距离十月底的历史新高已非常接近。虽然十一月初曾出现近5%的回调，但随着降息预期回归，**标普500**（S&P 500: 美国500家大型上市公司股票指数）在月末开始反弹，最终十一月甚至微微收涨。进入十二月，涨势仍在延续。本周公布的经济数据也进一步强化了市场对降息的预期。下周三，**美联储**（Federal Reserve: 美国中央银行系统）将召开会议，如果真的宣布降息，我认为标普不仅能重回历史高点，甚至有望在年底前冲击7000点。

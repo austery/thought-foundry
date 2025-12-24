@@ -1,39 +1,39 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 贵州茅台
+- 财新周刊
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《资本的秘密》
+- 《巡录集》
+people:
+- 周其人
+- Hernando de Soto
+products_models: []
+project:
+- china-analysis
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=1Qpin5lQass
 speaker: 海淀拙大叔
-tags:
-  - consumption-stimulus
-  - economic-policy
-  - investment-consumption-balance
-  - factor-market-distortion
-  - rural-land-reform
-title: 中国消费不足的深层逻辑：投资、信心与财富增值的多维解析
-summary: 本文深入探讨中国消费不足的深层原因，指出其症结在于过去投资占比过高、要素价格失真及投资责任机制缺失。文章从收入增长、消费信心和财产增值三大维度，结合周其人教授的理论，提出了提振消费的具体策略，包括优化社保体系、建立长期制度性承诺以及推动农村土地流转改革，以释放潜在资本活力，促进经济健康发展。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - systems-thinking
-people:
-  - 周其人
-  - Hernando de Soto
-companies_orgs:
-  - 贵州茅台
-  - 财新周刊
-products_models: []
-media_books:
-  - 《资本的秘密》
-  - 《巡录集》
 status: evergreen
+summary: 本文深入探讨中国消费不足的深层原因，指出其症结在于过去投资占比过高、要素价格失真及投资责任机制缺失。文章从收入增长、消费信心和财产增值三大维度，结合周其人教授的理论，提出了提振消费的具体策略，包括优化社保体系、建立长期制度性承诺以及推动农村土地流转改革，以释放潜在资本活力，促进经济健康发展。
+tags:
+- consumption
+- economic-policy
+- investment
+- market
+- reform
+title: 中国消费不足的深层逻辑：投资、信心与财富增值的多维解析
 ---
+
 ### 探寻中国消费不足的深层逻辑
 
 “阿甘知识分享论”第二篇，旨在深入探讨中国消费不足的深层逻辑。当前，中国消费不足问题为何总是难以解决？一言以蔽之，是由于我们过去的投资占比过高，导致今天的产出超出了我们当前消费的极限。

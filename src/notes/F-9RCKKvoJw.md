@@ -1,25 +1,25 @@
 ---
-author: Money & Macro
+area: ''
+category: ''
+companies_orgs: []
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=F-9RCKKvoJw
 speaker: Money & Macro
+status: evergreen
+summary: ''
 tags: []
 title: How scientists radically reduced US gun violence (no gun ban)
-summary: ''
-insight: ''
-draft: true
-series: ''
-category: ''
-area: ''
-project: []
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-status: evergreen
 ---
+
 ### 美国枪支暴力问题
 
 美国面临着严重的枪支暴力问题。与其他发达国家相比，美国的凶杀率极高。大多数死亡都与扣动扳机有关。显而易见的解决方案是禁止枪支。

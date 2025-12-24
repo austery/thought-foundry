@@ -1,57 +1,57 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: finance
+companies_orgs:
+- OpenAI
+- 小鹏汽车
+- Microsoft
+- 甲骨文
+- 苹果
+- Google
+- Nvidia
+- 文泰科技
+- 安世半导体
+- 特斯拉
+- 摩根士丹利
+- 英特尔
+- 台积电
+- 美联储
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+people:
+- Elon Musk
+- Sam Altman
+- Jensen Huang
+- Karel van der Poel
+- David Sacks
+products_models:
+- ChatGPT
+- 擎天柱
+- XLA
+- CUDA
+project:
+- us-analysis
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=HAhhW-EyFq4
 speaker: 小翠時政財經
-tags:
-  - ai-bubble
-  - tech-giant-strategy
-  - market-trends
-  - supply-chain-restructuring
-  - investment-principles
-title: AI泡沫、科技巨头策略与市场展望：小翠时政财经深度解析
-summary: 本期节目深入探讨了当前全球股市动态，特别关注AI板块的震荡与科技巨头在AI领域的战略布局。从小鹏汽车的机器人到OpenAI的融资困境，再到英伟达和台积电在AI军备竞赛中的核心地位，节目分析了AI泡沫的本质、破裂信号，并提供了散户的投资哲学。同时，也对中国和台湾的最新出口数据进行了宏观解读，揭示了全球供应链转移和地缘经济格局的变化。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Elon Musk
-  - Sam Altman
-  - Jensen Huang
-  - Karel van der Poel
-  - David Sacks
-companies_orgs:
-  - OpenAI
-  - 小鹏汽车
-  - 微软
-  - 甲骨文
-  - 苹果
-  - 谷歌
-  - 英伟达
-  - 文泰科技
-  - 安世半导体
-  - 特斯拉
-  - 摩根士丹利
-  - 英特尔
-  - 台积电
-  - 美联储
-products_models:
-  - ChatGPT
-  - 擎天柱
-  - XLA
-  - CUDA
-media_books:
-  - 《华尔街日报》
 status: evergreen
+summary: 本期节目深入探讨了当前全球股市动态，特别关注AI板块的震荡与科技巨头在AI领域的战略布局。从小鹏汽车的机器人到OpenAI的融资困境，再到英伟达和台积电在AI军备竞赛中的核心地位，节目分析了AI泡沫的本质、破裂信号，并提供了散户的投资哲学。同时，也对中国和台湾的最新出口数据进行了宏观解读，揭示了全球供应链转移和地缘经济格局的变化。
+tags:
+- ai-bubble
+- investment
+- market-trend
+- strategy
+- supply-chain-restructuring
+title: AI泡沫、科技巨头策略与市场展望：小翠时政财经深度解析
 ---
+
 ### 市场回顾与AI板块表现
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月7日，欢迎收看我们今天的每日要闻节目。首先我们从A股开始讲起，11月7日A股震荡收跌，沪指跌0.25%，深成指跌0.36%，创业板指跌0.51%。盘面上个股也是跌多涨少，像机器人、量子科技、信创、AI应用等板块都是领跌，估计是受到美国这边对整个AI板块质疑的影响。

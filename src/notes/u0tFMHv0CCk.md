@@ -1,41 +1,40 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- University of Waterloo
+- LM Law Group
+- TVO Today
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mikal Skuterud
+- Elizabeth Long
+- Pierre Poilievre
+- David Eby
+- Lena Diab
+products_models:
+- Global Talent Stream
+- LMIA
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=u0tFMHv0CCk
 speaker: TVO Today
-tags:
-  - temporary-foreign-worker-program
-  - youth-unemployment
-  - labor-market
-  - immigration-policy
-  - canadian-economy
-title: 加拿大临时外籍劳工计划：是就业威胁还是经济必需？
-summary: 加拿大临时外籍劳工计划（TFWP）正面临左右两翼的广泛批评，被指导致青年失业率上升。本文深入探讨了该计划的争议点，包括其对劳动力市场的影响、招聘流程的“人为性”，以及其在低技能和高技能领域的作用。专家们就该计划与青年失业率的真实关联、如何改革以提升加拿大生产力，以及如何平衡经济需求与社会信任提出了不同的见解和改革建议，特别强调了“全球人才计划”的成功经验。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - Mikal Skuterud
-  - Elizabeth Long
-  - Pierre Poilievre
-  - David Eby
-  - Lena Diab
-companies_orgs:
-  - University of Waterloo
-  - LM Law Group
-  - TVO Today
-products_models:
-  - Global Talent Stream
-  - LMIA
-media_books: []
 status: evergreen
+summary: 加拿大临时外籍劳工计划（TFWP）正面临左右两翼的广泛批评，被指导致青年失业率上升。本文深入探讨了该计划的争议点，包括其对劳动力市场的影响、招聘流程的“人为性”，以及其在低技能和高技能领域的作用。专家们就该计划与青年失业率的真实关联、如何改革以提升加拿大生产力，以及如何平衡经济需求与社会信任提出了不同的见解和改革建议，特别强调了“全球人才计划”的成功经验。
+tags:
+- economy
+- geopolitical
+- immigration-policy
+- labor-market
+- youth-unemployment
+title: 加拿大临时外籍劳工计划：是就业威胁还是经济必需？
 ---
+
 ### 加拿大临时外籍劳工计划面临的争议
 
 >> **临时外籍劳工计划**（Temporary Foreign Worker Program, TFWP: 加拿大政府允许雇主在无法找到加拿大公民或永久居民填补空缺时，雇佣外国劳工的计划）正面临来自左翼和右翼的批评。

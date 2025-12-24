@@ -1,60 +1,60 @@
 ---
-author: 硅谷101
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- OpenAI
+- DeepMind
+- Anthropic
+- NVIDIA
+- Cursor
+- Symbolica
+- Reflection AI
+- Periodic Labs
+- UCSF
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Yann LeCun
+- Jason Wei
+- Ilya Sutskever
+- Mira Murati
+- Leon Feddas
+- Danny Zhou
+- Brian Cheng
+products_models:
+- Gemini 3
+- Claude 3
+- GPT-4
+- GPT-5
+- Llama
+- DeepSeek
+- TPU
+- AlexNet
+- Transformer
+- Mamba
+- Kimi
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=1pgCnlJRuxE
 speaker: 硅谷101
-tags:
-  - scaling-law
-  - multi-modal-ai
-  - model-reasoning
-  - explainable-ai
-  - agentic-ide
-title: 谷歌Gemini 3深度解析：AI全模态时代的来临与Scaling Law的极限执行
-summary: 多位AI科学家深度探讨谷歌最新发布的Gemini 3模型。内容涵盖了从编程、小说续写到多模态推理的实际使用体验，分析了其在各项基准测试中的突破，并深入讨论了“全模态”概念、思维树架构以及谷歌在执行“规模法则”（Scaling Law）上的优势与挑战。此外，对话还延伸至AI领域的前沿方向，如可解释性AI、新模型架构的探索以及硬件在未来竞争中的决定性作用。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Yann LeCun
-  - Jason Wei
-  - Ilya Sutskever
-  - Mira Murati
-  - Leon Feddas
-  - Danny Zhou
-  - Brian Cheng
-companies_orgs:
-  - Google
-  - OpenAI
-  - DeepMind
-  - Anthropic
-  - NVIDIA
-  - Cursor
-  - Symbolica
-  - Reflection AI
-  - Periodic Labs
-  - UCSF
-products_models:
-  - Gemini 3
-  - Claude 3
-  - GPT-4
-  - GPT-5
-  - Llama
-  - DeepSeek
-  - TPU
-  - AlexNet
-  - Transformer
-  - Mamba
-  - Kimi
-media_books: []
 status: evergreen
+summary: 多位AI科学家深度探讨谷歌最新发布的Gemini 3模型。内容涵盖了从编程、小说续写到多模态推理的实际使用体验，分析了其在各项基准测试中的突破，并深入讨论了“全模态”概念、思维树架构以及谷歌在执行“规模法则”（Scaling
+  Law）上的优势与挑战。此外，对话还延伸至AI领域的前沿方向，如可解释性AI、新模型架构的探索以及硬件在未来竞争中的决定性作用。
+tags:
+- agentic-ide
+- llm
+- model
+- multi-modal-ai
+- scaling-law
+title: 谷歌Gemini 3深度解析：AI全模态时代的来临与Scaling Law的极限执行
 ---
+
 ### 引言：Gemini 3 引发的行业热议
 
 **硅谷101:** 今天我们最感兴趣的是，借此机会与各位顶尖的AI科学家探讨，除了大语言模型（LLM）之外，还有哪些前沿研究分支是大家所关注的。我们先从Gemini 3谈起，然后再聊聊超越Gemini的研究方向。

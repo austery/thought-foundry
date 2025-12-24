@@ -1,31 +1,30 @@
 ---
-title: 两年后，以色列最后人质的回归：特拉维夫人质广场的故事与战争的终结
-summary: 本播客深入探讨以色列人质回归的复杂情感与社会影响，记录了人质家属的苦痛与希望，以及战争对以色列和加沙人民的深远改变，并分析了此次人质协议的政治意义。
 area: null
 category: null
-project: []
-tags:
-- hostage-release
-- humanitarian-impact
-- israel-gaza-conflict
-- israeli-politics
-- peace-negotiations
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-13'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-qUFfSsGTmI
+speaker: New York Times Podcasts
 status: evergreen
+summary: 本播客深入探讨以色列人质回归的复杂情感与社会影响，记录了人质家属的苦痛与希望，以及战争对以色列和加沙人民的深远改变，并分析了此次人质协议的政治意义。
+tags:
+- history
+- impact
+- israel-gaza-conflict
+- politics
+- psychology
+title: 两年后，以色列最后人质的回归：特拉维夫人质广场的故事与战争的终结
 ---
+
 ### 序言：人质协议与加沙之殇
 
 From The New York Times, I'm Rachel Abrams and this is The Daily. Hamas is expected to release the remaining hostages by Monday. Israel will also free hundreds of Palestinian prisoners and detainees. Over the past few days, the world has seen dramatic scenes unfold from Israel and Gaza. In Gaza, thousands of Palestinians are returning to their homes and their neighborhoods, and they're seeing firsthand the devastation that two years of war has brought.

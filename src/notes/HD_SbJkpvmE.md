@@ -1,57 +1,56 @@
 ---
-author: 投资TALK君
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=HD_SbJkpvmE'
-speaker: 投资TALK君
-tags:
-  - earnings-report
-  - aws-growth
-  - ai-investment
-  - market-sentiment
-  - monetary-policy
-  - capital-expenditure
-title: 亚马逊财报深度解析：AWS强劲增长与苹果AI战略展望
-summary: 本期节目深入分析了亚马逊和苹果的最新财报。亚马逊的AWS云服务表现强劲，增速超预期，并计划大幅增加资本性支出以满足AI需求。节目详细探讨了亚马逊的营收构成、运营盈利及一次性调整，并提及公司裁员背后的文化考量。对于苹果，尽管财报数据平淡，但其在AI领域的持续投入和未来合作可能性仍值得关注。同时，节目也回顾了美联储鹰派言论对市场的影响及比特币、黄金等资产的走势。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Jerome Powell
-  - Nick Timiraos
-  - Dylan Patel
-  - Elon Musk
-  - Tim Cook
+area: finance-wealth
+category: macro-economy
 companies_orgs:
-  - Amazon
-  - Apple
-  - Federal Reserve
-  - Microsoft
-  - Nvidia
-  - Google
-  - Intel
-  - AMD
-  - Anthropic
-  - OpenAI
-  - Futu Moomoo
-products_models:
-  - AWS
-  - Siri
-  - Gemini
-  - Barrack
-  - Training3
+- Amazon
+- Apple
+- Federal Reserve
+- Microsoft
+- Nvidia
+- Google
+- Intel
+- AMD
+- Anthropic
+- OpenAI
+- Futu Moomoo
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Bloomberg
-  - X
+- Bloomberg
+- X
+people:
+- Jerome Powell
+- Nick Timiraos
+- Dylan Patel
+- Elon Musk
+- Tim Cook
+products_models:
+- AWS
+- Siri
+- Gemini
+- Barrack
+- Training3
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
+source: https://www.youtube.com/watch?v=HD_SbJkpvmE
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入分析了亚马逊和苹果的最新财报。亚马逊的AWS云服务表现强劲，增速超预期，并计划大幅增加资本性支出以满足AI需求。节目详细探讨了亚马逊的营收构成、运营盈利及一次性调整，并提及公司裁员背后的文化考量。对于苹果，尽管财报数据平淡，但其在AI领域的持续投入和未来合作可能性仍值得关注。同时，节目也回顾了美联储鹰派言论对市场的影响及比特币、黄金等资产的走势。
+tags:
+- ai-investment
+- capital-expenditure
+- earnings-report
+- growth
+- market-sentiment
+title: 亚马逊财报深度解析：AWS强劲增长与苹果AI战略展望
 ---
+
 ### 节目开场与市场情绪观察
 
 各位观众大家好，欢迎来到一个专业美股频道，我是市场范学小桃。和大家开个玩笑，我昨天做了一期直播，前面聊了一个小时的财报，又聊了一个小时的美联储会议。我发现在我聊的时候，大家其实没有问问题，这说明大家听得非常投入，或者说，大家已经睡着了。我没有开玩笑，我看到底下一位观众留言说他已经睡着了，我相信他说的可能是真的。为什么和大家分享一个小故事？我平时在录视频的时候，我的工作间边上，我那只大狗就睡在我边上。很多时候我在聊天、讲话、录视频的时候，它在那边打呼噜，我没有开玩笑，我的讲话丝毫不影响它打呼噜。所以我能够非常理解大家在听到我的视频的时候，就进入梦乡。我的视频是伴随着很多观众进入梦乡的一个睡眠神器，我知道我有这样的一个功能，没有关系。

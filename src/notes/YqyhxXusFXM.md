@@ -1,31 +1,28 @@
 ---
-title: 一口新饭会员网站正式上线：打造深度学习与成长社区
-summary: 视频创作者“一口新饭”宣布会员网站开通，旨在提供更丰富独家内容，摆脱算法限制，与“饭友”们共同学习成长，并详细介绍了会员社群、剪辑外精华和专属播客三大福利。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - personal-growth-lab
-tags:
-  - content-creation
-  - creator-economy
-  - financial-freedom
-  - membership-website
-  - personal-growth
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-09-20'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=YqyhxXusFXM
+speaker: 一口新飯
 status: evergreen
+summary: 视频创作者“一口新饭”宣布会员网站开通，旨在提供更丰富独家内容，摆脱算法限制，与“饭友”们共同学习成长，并详细介绍了会员社群、剪辑外精华和专属播客三大福利。
+tags:
+- code
+- content-creation
+- creator-economy
+- financial-freedom
+- personal-growth
+title: 一口新饭会员网站正式上线：打造深度学习与成长社区
 ---
 
 ### 会员网站的重大宣布与核心理念

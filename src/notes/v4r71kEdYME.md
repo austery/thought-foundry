@@ -1,43 +1,42 @@
 ---
-author: Veritasium
-date: '2024-06-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=v4r71kEdYME
-speaker: Veritasium
-tags:
-  - veritasium
-  - peak-end-rule
-  - duration-neglect
-  - cognitive-bias
-  - representativeness-heuristic
-  - recency-bias
-title: 为什么人们有时宁愿选择更多的痛苦？峰终定律与记忆偏差
-summary: 本文探讨了峰终定律（peak-end rule）和时长忽略（duration neglect）等引人入胜的心理现象，解释了我们对一段经历的记忆如何主要由其最强烈时刻和结束方式塑造，而非其完整时长。通过冷水实验和“琳达问题”等案例，文章揭示了认知偏差如何影响我们的选择和感知，甚至让我们宁愿选择更长但痛苦稍减的经历，而非更短但痛苦更剧烈的经历。文章还讨论了这些心理学原理在医疗程序、客户体验设计和个人幸福感方面的实际应用。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Daniel Kahneman
-  - Barbara Fredrickson
-  - Amos Tversky
-  - Stephen Jay Gould
-  - Milan Kundera
+category: psychology
 companies_orgs:
-  - Ikea
-  - Headspace
-products_models:
-  - Colonoscope
+- Ikea
+- Headspace
+date: '2024-06-25'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Game of Thrones
-  - Breaking Bad
+- Game of Thrones
+- Breaking Bad
+people:
+- Daniel Kahneman
+- Barbara Fredrickson
+- Amos Tversky
+- Stephen Jay Gould
+- Milan Kundera
+products_models:
+- Colonoscope
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=v4r71kEdYME
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了峰终定律（peak-end rule）和时长忽略（duration neglect）等引人入胜的心理现象，解释了我们对一段经历的记忆如何主要由其最强烈时刻和结束方式塑造，而非其完整时长。通过冷水实验和“琳达问题”等案例，文章揭示了认知偏差如何影响我们的选择和感知，甚至让我们宁愿选择更长但痛苦稍减的经历，而非更短但痛苦更剧烈的经历。文章还讨论了这些心理学原理在医疗程序、客户体验设计和个人幸福感方面的实际应用。
+tags:
+- bias
+- cognitive-bias
+- duration-neglect
+- geopolitical
+- peak-end-rule
+title: 为什么人们有时宁愿选择更多的痛苦？峰终定律与记忆偏差
 ---
+
 ### 痛苦感知实验：冷水挑战
 
 我们正在复制一项关于不适感感知的心理学实验。

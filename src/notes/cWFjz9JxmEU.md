@@ -1,75 +1,75 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Microsoft
+- Nvidia
+- Google
+- OpenAI
+- Tesla
+- Amazon
+- BlackRock
+- Federal Reserve
+- US Treasury
+- ADP
+- American Eagle Outfitters
+- Abercrombie
+- Urban Outfitters
+- Burlington Factory
+- Best Buy
+- PayPal
+- NASDAQ
+- S&P
+- Anthropic
+- CoreWeave
+- Amkor
+- Broadcom
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Joe Rogan
+- The Information
+- Politico
+- CNBC
+- Morgan Stanley Report
+- Dealbook Conference
+people:
+- Jensen Huang
+- Elon Musk
+- Kevin Hassett
+- Rick Rieder
+- Christopher Waller
+- Larry Fink
+- Brian Armstrong
+- Donald Trump
+- Satya Nadella
+products_models:
+- Copilot
+- Azure
+- CUDA
+- Vera Rubin
+- ChatGPT
+project:
+- ai-impact-analysis
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=cWFjz9JxmEU
 speaker: Amit Kukreja
-tags:
-  - ai-market-fragility
-  - energy-bottleneck
-  - fed-rate-cuts
-  - robotics-policy
-  - crypto-adoption
-title: 微软AI假新闻引发市场震荡，黄仁勋做客乔·罗根，宏观数据预示降息，特朗普政府聚焦机器人
-summary: 本期节目回顾了当日的市场动态，包括微软AI假新闻导致的市场下跌，以及英伟达CEO黄仁勋在乔·罗根播客中对能源、AI和制造业的看法。宏观经济方面，ADP就业数据疲软预示美联储可能降息，而零售商财报与消费者数据存在矛盾。此外，特朗普政府正大力推动机器人产业发展，贝莱德CEO拉里·芬克也承认其对加密货币的看法有所转变。节目强调了AI叙事的脆弱性及市场对降息的期待。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - us-analysis
-people:
-  - Jensen Huang
-  - Elon Musk
-  - Kevin Hassett
-  - Rick Rieder
-  - Christopher Waller
-  - Larry Fink
-  - Brian Armstrong
-  - Donald Trump
-  - Satya Nadella
-companies_orgs:
-  - Microsoft
-  - Nvidia
-  - Google
-  - OpenAI
-  - Tesla
-  - Amazon
-  - BlackRock
-  - Federal Reserve
-  - US Treasury
-  - ADP
-  - American Eagle Outfitters
-  - Abercrombie
-  - Urban Outfitters
-  - Burlington Factory
-  - Best Buy
-  - PayPal
-  - NASDAQ
-  - S&P
-  - Anthropic
-  - CoreWeave
-  - Amkor
-  - Broadcom
-products_models:
-  - Copilot
-  - Azure
-  - CUDA
-  - Vera Rubin
-  - ChatGPT
-media_books:
-  - Joe Rogan
-  - The Information
-  - Politico
-  - CNBC
-  - Morgan Stanley Report
-  - Dealbook Conference
 status: evergreen
+summary: 本期节目回顾了当日的市场动态，包括微软AI假新闻导致的市场下跌，以及英伟达CEO黄仁勋在乔·罗根播客中对能源、AI和制造业的看法。宏观经济方面，ADP就业数据疲软预示美联储可能降息，而零售商财报与消费者数据存在矛盾。此外，特朗普政府正大力推动机器人产业发展，贝莱德CEO拉里·芬克也承认其对加密货币的看法有所转变。节目强调了AI叙事的脆弱性及市场对降息的期待。
+tags:
+- crypto-adoption
+- energy
+- fed-rate-cut
+- market
+- policy
+title: 微软AI假新闻引发市场震荡，黄仁勋做客乔·罗根，宏观数据预示降息，特朗普政府聚焦机器人
 ---
+
 ### 微软AI假新闻引发市场震荡
 
 大家好，欢迎回到我们的频道。我们又回到了每日回顾节目。今天有很多事情要谈。首先，今天早上，如果你和我一起关注了开盘市场，就会看到一个相当疯狂的头条新闻。

@@ -1,35 +1,33 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 重大项目管理办公室
+- G7
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=TgQ2oYE1YO8
 speaker: 大伟探秘加拿大
-tags:
-  - canada-national-strategy
-  - energy-transition
-  - critical-minerals
-  - trade-diversification
-  - arctic-sovereignty
-title: 加拿大1160亿超级工程：四大战略支柱重塑国家未来十年
-summary: 联邦政府公布了总投资超1160亿加元的国家级大型工程清单，旨在通过重大项目管理办公室（MPO）加速审批，重塑加拿大经济和地缘政治地位。文章深入解析了四大战略支柱：能源转型、关键矿产供应链、贸易走廊多元化及北极主权，揭示了加拿大未来十年的国家重建路线图，以摆脱对单一市场的依赖并提升全球竞争力。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people: []
-companies_orgs:
-  - 重大项目管理办公室
-  - G7
-products_models: []
-media_books: []
 status: evergreen
+summary: 联邦政府公布了总投资超1160亿加元的国家级大型工程清单，旨在通过重大项目管理办公室（MPO）加速审批，重塑加拿大经济和地缘政治地位。文章深入解析了四大战略支柱：能源转型、关键矿产供应链、贸易走廊多元化及北极主权，揭示了加拿大未来十年的国家重建路线图，以摆脱对单一市场的依赖并提升全球竞争力。
+tags:
+- critical-mineral
+- energy-transition
+- geopolitical
+- strategy
+- trade
+title: 加拿大1160亿超级工程：四大战略支柱重塑国家未来十年
 ---
+
 ### 加拿大国家重建路线图：1160亿加元的战略投资
 
 今天，我们将深入探讨一项将深刻影响加拿大未来十年的重大议题。这不仅关乎经济政策、资源开发和就业机会，更关乎加拿大作为一个国家，未来在全球舞台上的定位。2025年11月13日，联邦政府公布了第二批即将提交给**重大项目管理办公室**（Major Projects Office, MPO: 旨在大幅加速国家级大型工程审批流程的联邦机构）的七个国家级大型工程清单。

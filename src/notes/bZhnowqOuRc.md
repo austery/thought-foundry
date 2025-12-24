@@ -1,35 +1,34 @@
 ---
-author: KevinFeng 冯凯文
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《雅思》
+people:
+- KevinFeng
+- 冯凯文
+products_models: []
+project:
+- personal-growth-lab
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=bZhnowqOuRc
 speaker: KevinFeng 冯凯文
-tags:
-  - self-trust-building
-  - action-as-vote
-  - learning-mindset
-  - progress-not-perfection
-  - language-learning-psyche
-title: 为什么你学英文总半途而废？真正的突破来自每天投给未来的一票
-summary: 本文揭示了语言学习失败的深层心理机制：不是方法不对，而是自我信任的崩塌。通过‘每日行动即投票’的思维模型，重建对自我的信念，才是持续进步的核心动力。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - knowledge-pipeline
-people:
-  - KevinFeng
-  - 冯凯文
-companies_orgs: []
-products_models: []
-media_books:
-  - 《雅思》
 status: evergreen
+summary: 本文揭示了语言学习失败的深层心理机制：不是方法不对，而是自我信任的崩塌。通过‘每日行动即投票’的思维模型，重建对自我的信念，才是持续进步的核心动力。
+tags:
+- canada
+- geopolitical
+- learning
+- self-trust-building
+title: 为什么你学英文总半途而废？真正的突破来自每天投给未来的一票
 ---
+
 ### 自我怀疑是语言学习最大的敌人
 
 你越想达成这件事情，你越做不到——这是我七八次的经验。每次开始学英文，你都会陷入一种反复的自我怀疑：我怎么这么慢？为什么总记不住单词？别人学得那么快，我是不是天生不适合？你每天都在活在这种自我怀疑当中，不知不觉中，你变成了一个自己都无法再相信的人。

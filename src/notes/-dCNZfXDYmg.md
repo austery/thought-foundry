@@ -1,61 +1,61 @@
 ---
-author: 老科谈科技股
+area: tech-insights
+category: technology
+companies_orgs:
+- DeepSeek
+- Nvidia
+- OpenAI
+- Google
+- AMD
+- CoreWeave
+- Nebius
+- Oracle
+- Meta
+- Alibaba
+- ByteDance
+- 百度
+- 腾讯
+- Broadcom
+- 亚马逊
+- Microsoft
+- Apple
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- 黄仁勋
+- 巴菲特
+- Elon Musk
+products_models:
+- Gemini 3
+- ChatGPT-5
+- DeepSeek‑R1
+- DeepSeek-R2
+- Llama
+- 千问
+- 荳包
+- H100
+- TPU
+- Grok
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=-dCNZfXDYmg
 speaker: 老科谈科技股
-tags:
-  - large-language-models
-  - ai-infrastructure
-  - ai-chips
-  - capital-expenditure
-title: 2025年AI赛道回顾与2026年热点展望：大模型与基础设施的新格局
-summary: 本文回顾了2025年AI领域的热点切换，从Deepseek的崛起与衰落，到ChatGPT-5的发布，再到AI基础设施热潮和谷歌Gemini 3的推出。分析了2026年AI赛道的发展趋势，包括TPU挑战英伟达GPU、自研AI芯片热潮、大模型竞争以及AI基础设施的持续投入。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - 黄仁勋
-  - 巴菲特
-  - 马斯克
-companies_orgs:
-  - DeepSeek
-  - Nvidia
-  - OpenAI
-  - Google
-  - AMD
-  - CoreWeave
-  - Nebius
-  - Oracle
-  - Meta
-  - 阿里巴巴
-  - 字节跳动
-  - 百度
-  - 腾讯
-  - Broadcom
-  - 亚马逊
-  - Microsoft
-  - Apple
-products_models:
-  - Gemini 3
-  - ChatGPT-5
-  - DeepSeek‑R1
-  - DeepSeek-R2
-  - Llama
-  - 千问
-  - 荳包
-  - H100
-  - TPU
-  - Grok
-media_books: []
 status: evergreen
+summary: 本文回顾了2025年AI领域的热点切换，从Deepseek的崛起与衰落，到ChatGPT-5的发布，再到AI基础设施热潮和谷歌Gemini 3的推出。分析了2026年AI赛道的发展趋势，包括TPU挑战英伟达GPU、自研AI芯片热潮、大模型竞争以及AI基础设施的持续投入。
+tags:
+- ai-chip
+- ai-infrastructure
+- capital-expenditure
+- large-language-model
+title: 2025年AI赛道回顾与2026年热点展望：大模型与基础设施的新格局
 ---
+
 ### 2025年AI赛道回顾：惊喜与意外
 
 2025年即将结束，AI赛道充满了惊喜和意外。从年初的Deepseek到年尾的Gemini 3，龙头英伟达也经历了从年初的质疑到年中因AI数据中心建设热潮而备受追捧，再到四季度Gemini 3发布后再次受到质疑的过山车式发展。本文将梳理2025年AI热点的切换，侧重于大模型和AI基础设施，并展望2026年AI的热点。

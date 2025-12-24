@@ -1,38 +1,37 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Visma
+- Norges Bank Investment Management
 date: '2025-05-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Merete Hverven
+- Nikolai
+- Mark
+products_models: []
+project:
+- entrepreneurship
+- systems-thinking
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=MEcTjHbSLhg
 speaker: Norges Bank Investment Management
-tags:
-  - corporate-culture
-  - acquisition-strategy
-  - value-creation
-  - leadership-development
-  - employee-engagement
-title: Visma的文化驱动增长：一家软件巨头的并购与领导力策略
-summary: Visma首席执行官Merete Hverven在投资大会上分享了公司如何将企业文化作为核心价值驱动力，实现其在欧洲软件行业的快速增长。她详细阐述了Visma通过频繁的战略性并购扩张市场，并强调在尽职调查中对文化契合度和清晰期望的重视。文章还探讨了Visma如何通过数据驱动的员工敬业度测量、领导力指数以及持续的领导力发展来培养和维持其强大的创业文化，最终实现卓越的财务表现和持续增长。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-  - investment-strategy
-people:
-  - Merete Hverven
-  - Nikolai
-  - Mark
-companies_orgs:
-  - Visma
-  - Norges Bank Investment Management
-products_models: []
-media_books: []
 status: evergreen
+summary: Visma首席执行官Merete Hverven在投资大会上分享了公司如何将企业文化作为核心价值驱动力，实现其在欧洲软件行业的快速增长。她详细阐述了Visma通过频繁的战略性并购扩张市场，并强调在尽职调查中对文化契合度和清晰期望的重视。文章还探讨了Visma如何通过数据驱动的员工敬业度测量、领导力指数以及持续的领导力发展来培养和维持其强大的创业文化，最终实现卓越的财务表现和持续增长。
+tags:
+- corporate-culture
+- leadership-development
+- society
+- strategy
+- value
+title: Visma的文化驱动增长：一家软件巨头的并购与领导力策略
 ---
+
 ### 引言：文化作为Visma的价值驱动力
 
 非常感谢您的精彩介绍，也感谢Nikolai今天让我有机会介绍Visma。

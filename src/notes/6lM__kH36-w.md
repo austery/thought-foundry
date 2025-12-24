@@ -1,71 +1,71 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Politico
+- 宁德时代
+- 比亚迪
+- 长城汽车
+- AMBER
+- 巴西中国商业委员会
+- The Economist
+- 野村综合研究所
+- 人民日报
+- 莲华资产管理公司
+- The Wall Street Journal
+- Financial Times
+- 联合国工业发展组织
+- 世界贸易组织
+- 欧盟
+- 日经新闻
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 19号文件
+people:
+- Donald Trump
+- Joe Biden
+- Gavin Newsom
+- George David Banks
+- Al Gore
+- Juan Carlos Monterrey Gomez
+- Nigel Topping
+- Xi Jinping
+- 高市早苗
+- 薛健
+- 麻生太郎
+- 赖清德
+- 洪浩
+- 金以斯拉
+- 毛泽东
+- 圣奥古斯丁
+- 李强
+products_models:
+- iPhone
+- 战斧飞弹
+- 三条红线政策
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=6lM__kH36-w
 speaker: FearNation 世界苦茶
-tags:
-  - green-energy-transition
-  - geopolitical-competition
-  - supply-chain-dominance
-  - economic-restructuring
-  - religious-repression
-  - real-estate-bubble
-title: 中国地缘经济与社会系统深度观察：绿色能源竞争、台海博弈及内部挑战
-summary: 本期节目汇集全球智库与媒体对中国问题的深度分析。内容涵盖美国政策逆转下中国在绿色能源领域的崛起，中日两国在台湾问题上的“胆小鬼博弈”升级，中国房地产市场风险与股市低估的经济矛盾，中共对宗教信仰的意识形态压制，以及中国推动发展中国家稀土联盟的战略布局。节目旨在揭示中国在全球地缘政治、经济结构和社会系统中的复杂动态与深层挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Joe Biden
-  - Gavin Newsom
-  - George David Banks
-  - Al Gore
-  - Juan Carlos Monterrey Gomez
-  - Nigel Topping
-  - 习近平
-  - 高市早苗
-  - 薛健
-  - 麻生太郎
-  - 赖清德
-  - 洪浩
-  - 金以斯拉
-  - 毛泽东
-  - 圣奥古斯丁
-  - 李强
-companies_orgs:
-  - Politico
-  - 宁德时代
-  - 比亚迪
-  - 长城汽车
-  - AMBER
-  - 巴西中国商业委员会
-  - The Economist
-  - 野村综合研究所
-  - 人民日报
-  - 莲华资产管理公司
-  - The Wall Street Journal
-  - Financial Times
-  - 联合国工业发展组织
-  - 世界贸易组织
-  - 欧盟
-  - 日经新闻
-products_models:
-  - iPhone
-  - 战斧飞弹
-  - 三条红线政策
-media_books:
-  - 19号文件
 status: evergreen
+summary: 本期节目汇集全球智库与媒体对中国问题的深度分析。内容涵盖美国政策逆转下中国在绿色能源领域的崛起，中日两国在台湾问题上的“胆小鬼博弈”升级，中国房地产市场风险与股市低估的经济矛盾，中共对宗教信仰的意识形态压制，以及中国推动发展中国家稀土联盟的战略布局。节目旨在揭示中国在全球地缘政治、经济结构和社会系统中的复杂动态与深层挑战。
+tags:
+- economic
+- geopolitical
+- geopolitical-competition
+- green-energy-transition
+- real
+- supply-chain-dominance
+title: 中国地缘经济与社会系统深度观察：绿色能源竞争、台海博弈及内部挑战
 ---
+
 ### 全球绿色能源转型中的中美竞争与中国崛起
 
 本期“世界苦茶观察线”节目旨在汇总全球智库和国际媒体对中国问题的深度分析。第一篇文章来自《Politico》，题为“巴西的北京：中国在特朗普拒绝气候谈判时赚得盆满钵满”，揭示了全球能源转型与地缘政治竞争中，美国缺席与中国崛起所构成的引人注目的画面。

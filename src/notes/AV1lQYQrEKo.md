@@ -1,44 +1,43 @@
 ---
-author: TechButMakeItReal
+area: society-systems
+category: geopolitics
+companies_orgs:
+- UWare
+- Google
+- AWS
+- Microsoft
+- OpenAI
+- Nvidia
+- Mistral
+- Coreweave
+- Nebus
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Maria
+products_models:
+- LLM
+- AI models
+project:
+- us-analysis
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=AV1lQYQrEKo
 speaker: TechButMakeItReal
-tags:
-  - job-market-trends
-  - geopolitical-influence
-  - ai-infrastructure
-  - data-sovereignty
-title: 2026年科技趋势：全球就业市场、地缘政治分化与AI新纪元
-summary: 本文深入分析2026年全球科技行业面临的挑战与机遇。从就业市场的动荡、区域性（美、欧、海湾、拉美）的地缘政治影响，到AI基础设施与数据主权的竞赛，再到物理AI的兴起，揭示了科技行业正进入一个去中心化、区域化发展的新阶段，并强调了专业化和适应性在未来职业生涯中的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Maria
-companies_orgs:
-  - UWare
-  - Google
-  - AWS
-  - Microsoft
-  - OpenAI
-  - Nvidia
-  - Mistral
-  - Coreweave
-  - Nebus
-products_models:
-  - LLM
-  - AI models
-media_books: []
 status: evergreen
+summary: 本文深入分析2026年全球科技行业面临的挑战与机遇。从就业市场的动荡、区域性（美、欧、海湾、拉美）的地缘政治影响，到AI基础设施与数据主权的竞赛，再到物理AI的兴起，揭示了科技行业正进入一个去中心化、区域化发展的新阶段，并强调了专业化和适应性在未来职业生涯中的重要性。
+tags:
+- ai-infrastructure
+- data
+- geopolitical-influence
+- job-market-trend
+title: 2026年科技趋势：全球就业市场、地缘政治分化与AI新纪元
 ---
+
 ### 2025年回顾与2026年展望
 
 大家好，这是2025年的最后一个月，也是我们今年的最后一期视频。过去的一年真是跌宕起伏，科技领域既有令人兴奋的进展，也有一些不那么如意的地方，但总而言之，这是一个充满活力的时代。在今年的最后一期视频中，我想展望未来，看看前方有哪些新动向。请坐好，泡杯茶，我们将一起探讨全球性的议题：全球就业市场、地缘政治对科技行业的影响、明年的新热词，以及2026年的AI主题。

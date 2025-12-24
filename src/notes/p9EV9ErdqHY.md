@@ -1,47 +1,47 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- TVO Today
+- University of Windsor
+- Health Experiences and Longevity (Heel) Lab
+- National Institutes of Health
+- Canadian Institute for Health Research
+- Social Sciences and Humanities Council of Canada
+- Monash University
+- PCOS Together
+- PCOS Challenge
+- The Seasons Collective
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mistreated
+people:
+- Nam Kiwanuka
+- Andrea Lewis
+- Dr. Kendall Susi
+- Stein
+- Lebanthaw
+products_models:
+- Ozempic
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=p9EV9ErdqHY
 speaker: TVO Today
-tags:
-  - pcos-research
-  - misdiagnosis
-  - healthcare-funding
-  - patient-advocacy
-  - hormonal-disorder
-title: 患者故事如何重塑多囊卵巢综合征研究：被忽视的疾病与亟待改善的医疗体系
-summary: 本期节目探讨了多囊卵巢综合征（PCOS）的研究、诊断和患者体验。温莎大学的肯德尔·苏西博士深入分析了PCOS被普遍误诊、研究资金严重不足（尤其是在生活经验方面）的现状，并呼吁采取更全面的、以患者为中心的方法。她澄清了关于PCOS的常见误解，强调了提高公众意识和推动医疗体系变革的紧迫性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project: []
-people:
-  - Nam Kiwanuka
-  - Andrea Lewis
-  - Dr. Kendall Susi
-  - Stein
-  - Lebanthaw
-companies_orgs:
-  - TVO Today
-  - University of Windsor
-  - Health Experiences and Longevity (Heel) Lab
-  - National Institutes of Health
-  - Canadian Institute for Health Research
-  - Social Sciences and Humanities Council of Canada
-  - Monash University
-  - PCOS Together
-  - PCOS Challenge
-  - The Seasons Collective
-products_models:
-  - Ozempic
-media_books:
-  - Mistreated
 status: evergreen
+summary: 本期节目探讨了多囊卵巢综合征（PCOS）的研究、诊断和患者体验。温莎大学的肯德尔·苏西博士深入分析了PCOS被普遍误诊、研究资金严重不足（尤其是在生活经验方面）的现状，并呼吁采取更全面的、以患者为中心的方法。她澄清了关于PCOS的常见误解，强调了提高公众意识和推动医疗体系变革的紧迫性。
+tags:
+- hormonal-disorder
+- investment
+- misdiagnosi
+- patient-advocacy
+- research
+title: 患者故事如何重塑多囊卵巢综合征研究：被忽视的疾病与亟待改善的医疗体系
 ---
+
 ### 介绍：多囊卵巢综合征（PCOS）研究的现状
 
 主持人: 您正在收听《被误诊》（Mistreated），我是纳姆·基瓦努卡（Nam Kiwanuka）。

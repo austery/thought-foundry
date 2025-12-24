@@ -1,78 +1,78 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 美国外交关系协会
+- 美中经济与安全审查委员会
+- 北约
+- 商务部工业与安全局
+- 国防部
+- 国务院
+- 情报界
+- 布鲁金斯学会
+- 中国共产党
+- 人民解放军
+- 中央军委
+- Peak Rare Earths
+- 盛和资源
+- Benchmark Mineral Intelligence
+- API Capital Advisory
+- General Innovation Capital Partners
+- 海外私人投资公司
+- 四方安全对话
+- 澳英美三方安全协议
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《金融时报》
+people:
+- Hall Brands
+- Michael Quicken
+- Xi Jinping
+- He Weidong
+- Zhang Shengmin
+- Zhang Youxia
+- Liu Zhenli
+- Miao Hua
+- Mike Gallagher
+- Donald Trump
+- Lai Ching-te
+- 高市早苗
+- Michael Sharp
+- Barton Davis
+- Lochsmith
+- Magufuli
+products_models:
+- 无人机
+- 半导体
+- 量子生物技术
+- 人工智能模型
+- 可再生能源
+- 电动汽车
+- 遗留芯片
+- 坦克
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=FqDB3eburu0
 speaker: FearNation 世界苦茶
-tags:
-  - us-china-competition
-  - geopolitical-strategy
-  - rare-earth-supply-chain
-  - china-economy
-  - political-purges
-title: 深度观察：中国重塑全球秩序、稀土困境、高层清洗与经济挑战
-summary: 本期节目深入分析了中国在全球秩序重塑中的角色，以及美国决策圈对此的最新定调。文章探讨了西方在稀土供应链竞争中的结构性困境，揭示了中国四中全会期间政策的连续性与高层人事动荡。此外，节目还分析了川普对台海问题的“沉默外交”，以及中国服务业活动创三年新低所反映的经济挑战。内容涵盖地缘政治、经济战略、内部治理与国际关系，旨在提供多维度视角理解中国当前面临的复杂局面。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Hall Brands
-  - Michael Quicken
-  - Xi Jinping
-  - He Weidong
-  - Zhang Shengmin
-  - Zhang Youxia
-  - Liu Zhenli
-  - Miao Hua
-  - Mike Gallagher
-  - Donald Trump
-  - Lai Ching-te
-  - 高市早苗
-  - Michael Sharp
-  - Barton Davis
-  - Lochsmith
-  - Magufuli
-companies_orgs:
-  - 美国外交关系协会
-  - 美中经济与安全审查委员会
-  - 北约
-  - 商务部工业与安全局
-  - 国防部
-  - 国务院
-  - 情报界
-  - 布鲁金斯学会
-  - 中国共产党
-  - 人民解放军
-  - 中央军委
-  - Peak Rare Earths
-  - 盛和资源
-  - Benchmark Mineral Intelligence
-  - API Capital Advisory
-  - General Innovation Capital Partners
-  - 海外私人投资公司
-  - 四方安全对话
-  - 澳英美三方安全协议
-products_models:
-  - 无人机
-  - 半导体
-  - 量子生物技术
-  - 人工智能模型
-  - 可再生能源
-  - 电动汽车
-  - 遗留芯片
-  - 坦克
-media_books:
-  - 《华尔街日报》
-  - 《金融时报》
 status: evergreen
+summary: 本期节目深入分析了中国在全球秩序重塑中的角色，以及美国决策圈对此的最新定调。文章探讨了西方在稀土供应链竞争中的结构性困境，揭示了中国四中全会期间政策的连续性与高层人事动荡。此外，节目还分析了川普对台海问题的“沉默外交”，以及中国服务业活动创三年新低所反映的经济挑战。内容涵盖地缘政治、经济战略、内部治理与国际关系，旨在提供多维度视角理解中国当前面临的复杂局面。
+tags:
+- china-economy
+- geopolitical-strategy
+- political
+- rare-earth-supply-chain
+- us-china-relations
+title: 深度观察：中国重塑全球秩序、稀土困境、高层清洗与经济挑战
 ---
+
 欢迎来到本期的世界苦茶观察线节目。观察线节目旨在汇总全球智库和国际媒体对中国问题的深度分析。本节目为AI制作，播放速度已照顾收听较慢的听众，如果你觉得太慢，可以调整至1.25倍。AI脚本和声音将不断优化。以下是精选的全世界对中国的分析，关于中国重塑全球格局、西方面对中国稀土困境等内容。
 
 ### 中国重塑全球秩序的行动与美国的回应

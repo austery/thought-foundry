@@ -1,102 +1,102 @@
 ---
-author: Amit Kukreja
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Palantir
+- SpaceX
+- Rocket Lab
+- Nvidia
+- Tencent
+- Alibaba
+- ByteDance
+- Huawei
+- Meta
+- Oracle
+- Adobe
+- SoFi
+- Robinhood
+- GE Vernova
+- Microsoft
+- Amazon
+- Carvana
+- CarMax
+- Goldman Sachs
+- JPMorgan
+- TSMC
+- OpenAI
+- Slack
+- Next Door Holdings
+- Pentagon
+- US Navy
+- Chinese Communist Party
+- Saxo Bank
+- Hyundai Heavy Industries
+- Deepseek
+- NIST
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Kelly Blue Book
+- Bloomberg
+- Business Insider
+- Home Alone
+- Home Alone 2
+people:
+- Donald Trump
+- Tom Lee
+- Elon Musk
+- Sundar Pichai
+- Gavin Baker
+- Mark Zuckerberg
+- Alexander Wang
+- Sam Altman
+- Jensen Huang
+- Matt Babin
+- Lindsey Graham
+- Josh Hawley
+- Mike Braun
+- Pete Haggset
+- Bill Ackman
+- Eric Jackson
+- Peter Thiel
+- Gokarp
+products_models:
+- Ship OS
+- H200
+- Blackwell
+- Kimmy
+- Gemini
+- Avocado
+- GPT
+- SoFi Smart Card
+- Neutron
+- RSA
+- Active Guard
+- FSD14
+- GenAI.Mil
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=vVWfnL-oCpU
 speaker: Amit Kukreja
-tags:
-  - rate-cut
-  - ai-chips
-  - geopolitical-rivalry
-  - quantum-computing
-  - space-economy
-title: 美联储议息日：Palantir获海军大单，英伟达芯片与中美AI竞争，以及太空数据中心展望
-summary: 今日是美联储议息日，市场普遍预期降息，但对鹰派言论有所担忧。Palantir获得美国海军4.5亿美元的“舰船操作系统”合同，巩固其在政府领域的地位。中美在英伟达AI芯片问题上持续博弈，中国科技巨头对H200芯片需求旺盛。同时，中国AI模型的审查制度引发关注。SpaceX IPO传闻估值高达1.5万亿美元，Meta则在AI和VR领域调整战略。此外，文章还讨论了美国军方的AI应用、量子计算威胁以及其他公司财报和市场动态。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Amit Kukreja
-  - Donald Trump
-  - Tom Lee
-  - Elon Musk
-  - Sundar Pichai
-  - Gavin Baker
-  - Mark Zuckerberg
-  - Alexander Wang
-  - Sam Altman
-  - Jensen Huang
-  - Matt Babin
-  - Lindsey Graham
-  - Josh Hawley
-  - Mike Braun
-  - Pete Haggset
-  - Bill Ackman
-  - Eric Jackson
-  - Peter Thiel
-  - Gokarp
-companies_orgs:
-  - Federal Reserve
-  - Palantir
-  - SpaceX
-  - Rocket Lab
-  - Nvidia
-  - Tencent
-  - Alibaba
-  - ByteDance
-  - Huawei
-  - Meta
-  - Oracle
-  - Adobe
-  - SoFi
-  - Robinhood
-  - GE Vernova
-  - Microsoft
-  - Amazon
-  - Carvana
-  - CarMax
-  - Goldman Sachs
-  - JPMorgan
-  - TSMC
-  - OpenAI
-  - Slack
-  - Next Door Holdings
-  - Pentagon
-  - US Navy
-  - Chinese Communist Party
-  - Saxo Bank
-  - Hyundai Heavy Industries
-  - Deepseek
-  - NIST
-products_models:
-  - Ship OS
-  - H200
-  - Blackwell
-  - Kimmy
-  - Gemini
-  - Avocado
-  - GPT
-  - SoFi Smart Card
-  - Neutron
-  - RSA
-  - Active Guard
-  - FSD14
-  - GenAI.Mil
-media_books:
-  - Kelly Blue Book
-  - Bloomberg
-  - Business Insider
-  - Home Alone
-  - Home Alone 2
 status: evergreen
+summary: 今日是美联储议息日，市场普遍预期降息，但对鹰派言论有所担忧。Palantir获得美国海军4.5亿美元的“舰船操作系统”合同，巩固其在政府领域的地位。中美在英伟达AI芯片问题上持续博弈，中国科技巨头对H200芯片需求旺盛。同时，中国AI模型的审查制度引发关注。SpaceX
+  IPO传闻估值高达1.5万亿美元，Meta则在AI和VR领域调整战略。此外，文章还讨论了美国军方的AI应用、量子计算威胁以及其他公司财报和市场动态。
+tags:
+- ai-chip
+- geopolitical
+- quantum-computing
+- rate
+- space-economy
+title: 美联储议息日：Palantir获海军大单，英伟达芯片与中美AI竞争，以及太空数据中心展望
 ---
+
 ### 市场开盘与美联储议息日展望
 
 大家早上好，欢迎回到《市场开盘》节目。我们正在直播，今天是12月10日星期三，也是联邦公开市场委员会（**FOMC**：Federal Open Market Committee，美联储的货币政策决策机构）会议日。今天我们将揭晓美国联邦储备委员会（**Federal Reserve**：美国中央银行系统）是否会降息。

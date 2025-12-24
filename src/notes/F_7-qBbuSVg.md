@@ -3,17 +3,16 @@ title: 前英国外交官锐评美以“公关式”轰炸真相
 summary: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
 area: society-systems
 category: geopolitics
-project: [us-analysis]
+project:
+- us-analysis
 tags:
-  - 中东冲突
-  - 媒体偏见
-  - 美以关系
+- geopolitical
+- 媒体偏见
 people:
-  - 北美王路飞
-  - Craig Murray
+- 北美王路飞
+- Craig Murray
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: ''
@@ -24,6 +23,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=F_7-qBbuSVg
 ---
+
 ## 引言：克雷格·莫瑞的背景与视角
 
 大家好，欢迎来到我的频道。这期节目，我想给大家讲解一下我最近看到的一部视频，是克雷格·莫瑞（Craig

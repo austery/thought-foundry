@@ -1,36 +1,34 @@
 ---
-author: TED
+area: society-systems
+category: general
+companies_orgs:
+- Girls Fly Africa
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Refilwe Ledwaba
+- Tom Cruise
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=JdS4XiNKNWY
 speaker: TED
-tags:
-  - pilot-training
-  - youth-empowerment
-  - gender-equality
-  - mentorship
-  - career-development
-title: 如何赋能下一代飞行员：Refilwe Ledwaba的航空梦想与实践
-summary: Refilwe Ledwaba，一位直升机和飞机飞行员，分享了她作为南非首位黑人女性直升机飞行员的经历。她强调了导师指导和社区支持的重要性，并介绍了她创立的“非洲女孩飞翔”组织如何通过提供信息、技能培训、奖学金、职业网络和持续支持，赋能年轻一代，特别是女性，克服障碍，追逐航空梦想。文章探讨了教育和榜样在打破传统观念、培养未来航空人才中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people:
-  - Refilwe Ledwaba
-  - Tom Cruise
-companies_orgs:
-  - Girls Fly Africa
-products_models: []
-media_books: []
 status: evergreen
+summary: Refilwe Ledwaba，一位直升机和飞机飞行员，分享了她作为南非首位黑人女性直升机飞行员的经历。她强调了导师指导和社区支持的重要性，并介绍了她创立的“非洲女孩飞翔”组织如何通过提供信息、技能培训、奖学金、职业网络和持续支持，赋能年轻一代，特别是女性，克服障碍，追逐航空梦想。文章探讨了教育和榜样在打破传统观念、培养未来航空人才中的关键作用。
+tags:
+- career-development
+- gender
+- llm
+- society
+title: 如何赋能下一代飞行员：Refilwe Ledwaba的航空梦想与实践
 ---
+
 ### 赋能与成功的共享
 
 有时候，我们倾向于只把人看作问题的一部分，却不把他们看作成功的一部分。

@@ -1,66 +1,66 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- APEC
+- Hyundai Motor
+- Global Data
+- PitchBook
+- Securities Times
+- KPMG
+- ByteDance
+- Sequoia Capital
+- China Agricultural Bank
+- Industrial Bank
+- China Three Gorges Corporation
+- China Southern Power Grid
+- BNP Paribas
+- Nomura Securities
+- ICMA
+- United Nations Climate Change Conference
+- Chinese Communist Party
+- People's Daily
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- Nikkei Asia
+- New York Times
+- 《我在北京送快递》
+people:
+- Lee Jae-myung
+- Donald Trump
+- Yoon Suk-yeol
+- Sanae Takaichi
+- Xi Jinping
+- Bill Gurley
+- Hu An'yan
+products_models:
+- Zhipu AI
+- Deep Seek
+- Tesla
+- Mercedes-Benz
+project:
+- china-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=BfywHCbd93Q
 speaker: FearNation 世界苦茶
-tags:
-  - china-economy
-  - geopolitical-strategy
-  - social-inequality
-  - capital-flows
-  - green-finance
-title: 外强中干？深度解析中国经济「面子」背后的残酷真相与结构性挑战
-summary: 本文深度剖析了中国当前面临的多重结构性挑战。从韩国总统李在明的实用主义外交，到中国创投领域美元资本的骤减与国家队进场，再到零工经济对劳动者的压榨和青年一代对工作意义的反思，以及中国绿色债券的逆势增长，都指向一个核心矛盾：中国在国际舞台上展现的强大韧性与国内民众普遍存在的经济困境和个人前景黯淡形成了鲜明对比。这种“外强中干”的现象，揭示了中国经济结构转型、社会信任危机与地缘政治博弈中的深层代价。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Lee Jae-myung
-  - Donald Trump
-  - Yoon Suk-yeol
-  - Sanae Takaichi
-  - Xi Jinping
-  - Bill Gurley
-  - Hu An'yan
-companies_orgs:
-  - APEC
-  - Hyundai Motor
-  - Global Data
-  - PitchBook
-  - Securities Times
-  - KPMG
-  - ByteDance
-  - Sequoia Capital
-  - China Agricultural Bank
-  - Industrial Bank
-  - China Three Gorges Corporation
-  - China Southern Power Grid
-  - BNP Paribas
-  - Nomura Securities
-  - ICMA
-  - United Nations Climate Change Conference
-  - Chinese Communist Party
-  - People's Daily
-products_models:
-  - Zhipu AI
-  - Deep Seek
-  - Tesla
-  - Mercedes-Benz
-media_books:
-  - The Economist
-  - Nikkei Asia
-  - New York Times
-  - 《我在北京送快递》
 status: evergreen
+summary: 本文深度剖析了中国当前面临的多重结构性挑战。从韩国总统李在明的实用主义外交，到中国创投领域美元资本的骤减与国家队进场，再到零工经济对劳动者的压榨和青年一代对工作意义的反思，以及中国绿色债券的逆势增长，都指向一个核心矛盾：中国在国际舞台上展现的强大韧性与国内民众普遍存在的经济困境和个人前景黯淡形成了鲜明对比。这种“外强中干”的现象，揭示了中国经济结构转型、社会信任危机与地缘政治博弈中的深层代价。
+tags:
+- china-economy
+- finance
+- flow
+- geopolitical-strategy
+- social-inequality
+title: 外强中干？深度解析中国经济「面子」背后的残酷真相与结构性挑战
 ---
+
 本期“世界苦茶观察线”节目汇总了全球智库与国际媒体对中国问题的深度分析，内容由AI制作。本期节目精选了全世界对中国经济困境正在加深等内容的分析。
 
 ### 韩国新总统的实用主义外交：在高风险中寻求高回报

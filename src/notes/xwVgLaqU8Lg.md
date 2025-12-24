@@ -1,45 +1,45 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 宇树科技
+- 北京天工
+- 华为
+- 蔚来
+- 共青团中央
+- 波士顿动力
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《新闻联播》
+- 《人民日报》
+people:
+- 余承东
+- 李斌
+- 伊莎比
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=xwVgLaqU8Lg
 speaker: 老周横眉
-tags:
-  - humanoid-robots
-  - technological-development
-  - government-subsidies
-  - media-propaganda
-  - public-skepticism
-  - capital-bubbles
-title: 国产人形机器人马拉松争议：技术挑战、舆论反思与发展必要性
-summary: 本文深入探讨了首届国产人形机器人马拉松比赛引发的广泛争议。比赛中机器人表现不佳，引发了公众对技术现状、官方媒体夸大宣传以及企业虚假宣传的不满。文章分析了人形机器人当前面临的巨大技术挑战，包括姿态控制、硬件性能（芯片、电池）不足，并质疑其在现有阶段的实用性与发展必要性，指出其背后可能存在的资本泡沫和骗补现象。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - 余承东
-  - 李斌
-  - 伊莎比
-companies_orgs:
-  - 宇树科技
-  - 北京天工
-  - 华为
-  - 蔚来
-  - 共青团中央
-  - 波士顿动力
-products_models: []
-media_books:
-  - 《新闻联播》
-  - 《人民日报》
 status: evergreen
+summary: 本文深入探讨了首届国产人形机器人马拉松比赛引发的广泛争议。比赛中机器人表现不佳，引发了公众对技术现状、官方媒体夸大宣传以及企业虚假宣传的不满。文章分析了人形机器人当前面临的巨大技术挑战，包括姿态控制、硬件性能（芯片、电池）不足，并质疑其在现有阶段的实用性与发展必要性，指出其背后可能存在的资本泡沫和骗补现象。
+tags:
+- capital
+- development
+- government
+- humanoid-robot
+- media
+- public
+title: 国产人形机器人马拉松争议：技术挑战、舆论反思与发展必要性
 ---
+
 ### 国产人形机器人马拉松：比赛细节与尴尬现状
 
 2024年4月19日，一场被誉为人类史上首个人形机器人马拉松的比赛在北京举办。比赛为**半程马拉松**（Half Marathon: 赛程距离为21.0975公里的长跑比赛），全程21公里。然而，比赛细节揭示了诸多挑战。这些机器人并非完全自主运行，大部分通过远程控制完成。视频显示，比赛规则允许每台机器人配备三名随行人员，包括一名遥控员、一名跟跑员和一名电力保障员。除了遥控模式，还存在“伴跑模式”。例如，本次比赛的冠军——北京天工的机器人，便是采用**伴跑模式**（Pacing mode: 机器人通过视觉识别前方人类的标识进行跟随移动），即前方有真人在三到五米处奔跑，机器人通过视觉识别其身上的二维码或标识进行跟随。

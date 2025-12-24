@@ -1,47 +1,46 @@
 ---
-author: Veritasium
-date: '2019-10-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ThwuT3_AG6w
-speaker: Veritasium
-tags:
-  - veritasium
-  - origami-engineering
-  - deployable-structures
-  - mathematical-modeling
-  - material-science
-  - miniaturization
-title: 折纸工程学：古老艺术如何驱动现代创新
-summary: 本文探讨了工程师如何从日本古老的折纸艺术中汲取灵感，将其应用于医疗设备、太空技术乃至防弹材料等各类领域。文章深入剖析了折纸在工程中的实用价值，包括材料变形、尺寸缩小、刚度增强和特定运动创造等，并揭示了其背后复杂的数学原理，如折痕模式和圆填充法。通过具体案例，展示了折纸如何从美学走向功能性，成为解决现代工程挑战的强大工具。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Akira Yoshizawa
-  - Tomohiro Tachi
-  - Robert Schiller
+category: technology
 companies_orgs:
-  - Two Against Surgical
-  - Audible
-  - Patreon
-products_models:
-  - Da Vinci surgical robot
-  - Miura Ori
-  - Space Flyer Mission
-  - Kalita cycle
-  - Origamizer
-  - Bitcoin
+- Two Against Surgical
+- Audible
+- Patreon
+date: '2019-10-04'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Narrative Economics
-  - Irrational Exuberance
+- Narrative Economics
+- Irrational Exuberance
+people:
+- Akira Yoshizawa
+- Tomohiro Tachi
+- Robert Schiller
+products_models:
+- Da Vinci surgical robot
+- Miura Ori
+- Space Flyer Mission
+- Kalita cycle
+- Origamizer
+- Bitcoin
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ThwuT3_AG6w
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了工程师如何从日本古老的折纸艺术中汲取灵感，将其应用于医疗设备、太空技术乃至防弹材料等各类领域。文章深入剖析了折纸在工程中的实用价值，包括材料变形、尺寸缩小、刚度增强和特定运动创造等，并揭示了其背后复杂的数学原理，如折痕模式和圆填充法。通过具体案例，展示了折纸如何从美学走向功能性，成为解决现代工程挑战的强大工具。
+tags:
+- deployable-structure
+- engineering
+- llm
+- material-science
+- miniaturization
+title: 折纸工程学：古老艺术如何驱动现代创新
 ---
+
 ### 折纸：从艺术到工程的灵感源泉
 
 工程师们正转向**折纸**（Origami: 一种将纸张折叠成各种形状的艺术），从中汲取灵感，将其应用于从医疗设备到太空应用，甚至防弹等各类领域。

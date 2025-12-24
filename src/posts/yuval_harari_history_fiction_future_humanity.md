@@ -10,15 +10,14 @@ project:
 - historical-insights
 tags:
 - consciousness
-- future-of-humanity
-- human-history
+- future
+- human
 - storytelling
 people:
-  - Steve Levitt
-  - Yuval Noah Harari
+- Steve Levitt
+- Yuval Noah Harari
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-10-12
 author: Lei
 speaker: ''
@@ -30,6 +29,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 ### 节目前言
 
 **导读**: 大家好，欢迎收听《世界播明》，用中文解码世界的缤纷，带你听见不一样的风景。我是你们的导读。

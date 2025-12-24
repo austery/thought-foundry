@@ -6,13 +6,11 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-  - 居民财富
-  - 美国经济
-  - 财富构成
-people: []
+- us-economy
+- 居民财富
+- 财富构成
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2023-10-23'
 author: Lei
 speaker: 金融汪
@@ -23,6 +21,7 @@ layout: post.njk
 series: 美国民间财富探索
 source: https://www.youtube.com/watch?v=lK7EqZca8fg&t
 ---
+
 ## 引言：为何以美国为例探讨“藏富于民”
 
 大家好。本期视频我想和大家探讨一下 **“藏富于民”**（cáng fù yú mín，一个古典经济思想，指国家应减少干预和税收，让财富留存在民间以促进社会繁荣）这一概念。这个词汇有很多含义，但空谈不如数据直观。今天，我们就以美国为例，运用 **“庖丁解牛”**（páo dīng jiě niú，源自《庄子》的成语，比喻经过反复实践，掌握了事物的客观规律，做事得心应手，运用自如）的方式，深入剖析美国民间财富的真实情况。之所以选择美国，一个很重要的原因在于其数据的可获得性、连续性和全面性。当然，这也与美国经济的重要程度及其对全球经济的 **“溢出效应”** （spillover effect，指一个国家或地区的经济波动或政策变化对其他相关经济体产生的影响）极强相关。

@@ -1,37 +1,36 @@
 ---
-author: New York Times Podcasts
+area: society-thinking
+category: politics-society
+companies_orgs:
+- The New York Times
+- Capitol Hill
+- House Republicans
+- Democrats
+- Congressional Budget Office
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Rachel Abrams
+- Margot Sanger Katz
+- Joe Manchin
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=59uBAuavn2Y
 speaker: New York Times Podcasts
-tags:
-  - aca
-  - healthcare-subsidies
-  - healthcare-policy
-  - political-impact
-title: 国会未能延长医保补贴：数百万美国人面临困境
-summary: 本期节目探讨了国会未能延长《平价医疗法案》（ACA）补贴的后果。这导致数百万美国人面临医疗费用大幅上涨的困境，并可能改变政治格局。节目深入分析了补贴的历史、影响范围以及个人面临的艰难抉择，揭示了美国医疗体系的挑战。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project: []
-people:
-  - Rachel Abrams
-  - Margot Sanger Katz
-  - Joe Manchin
-companies_orgs:
-  - The New York Times
-  - Capitol Hill
-  - House Republicans
-  - Democrats
-  - Congressional Budget Office
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目探讨了国会未能延长《平价医疗法案》（ACA）补贴的后果。这导致数百万美国人面临医疗费用大幅上涨的困境，并可能改变政治格局。节目深入分析了补贴的历史、影响范围以及个人面临的艰难抉择，揭示了美国医疗体系的挑战。
+tags:
+- aca
+- health
+- healthcare-policy
+- political
+title: 国会未能延长医保补贴：数百万美国人面临困境
 ---
+
 ### 医保补贴危机迫近
 
 我是《纽约时报》的 Rachel Abrams，这里是《每日播报》。我平时不太祈祷，但每晚我都会祈祷，希望发生点什么，让我早上醒来查看新闻时，发现补贴已经被延长了。这样明年就不会是 55,000 美元了，总会有办法的。本周，尽管一些众议院共和党人付出了最后的努力来就医保问题达成协议，但国会仍在僵持不下，未能决定是否延长对数百万通过 **《平价医疗法案》 (Affordable Care Act)** 获得医保的美国人的支持。没有了补贴，（保费）最低每月也要 1,500 美元，这根本不可能。我最初的估计是增长约 1,200%。我记得收到那个消息后，那一整周我都在流泪。这让那些美国人不得不面对一个痛苦的决定。我问我丈夫：“我们该怎么办？”他说：“也许我们就不买医保了。”我当时说：“天哪，绝对不行。”是要继续支付不断上涨的保费，还是冒着没有医保的风险？这几个月真的非常艰难。我一直在做心理准备，迎接明年会是什么样子，而前景相当黯淡。

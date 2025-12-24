@@ -1,54 +1,54 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- VIA Rail
+- RCMP
+- Canada Post
+- CBC
+- CPP
+- UNRWA
+- AIIB
+- EBRD
+- TransCanada
+- G7
+- NATO
+- Five Eyes Alliance
+- Veterans Affairs Canada
+- Fisheries and Oceans Canada
 date: '2025-04-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wikipedia
+people:
+- Mark Carney
+- Pierre Poilievre
+- Justin Trudeau
+- Stephen Harper
+- Donald Trump
+- Anita Anand
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ZdM2Ax8Pu0c
 speaker: 莊也雜談
-tags:
-  - canadian-election-2025
-  - party-platforms
-  - us-canada-trade
-  - canada-china-diplomacy
-  - voter-sentiment
-title: 加拿大2025联邦大选：两党政策深度解析与华裔选民抉择
-summary: 随着2025年加拿大联邦大选进入冲刺阶段，本文深入分析了自由党与保守党在经济、税收、劳工、国防、环保及社会政策等方面的最新承诺。主持人分享了其个人投票倾向及理由，并详细探讨了两党在对美关税谈判和对华关系上的立场，旨在为华裔选民提供全面参考。文章强调，无论党派如何，加拿大对华裔群体的多元文化政策不会改变，并鼓励选民积极参与投票。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - china-analysis
-people:
-  - Mark Carney
-  - Pierre Poilievre
-  - Justin Trudeau
-  - Stephen Harper
-  - Donald Trump
-  - Anita Anand
-companies_orgs:
-  - VIA Rail
-  - RCMP
-  - Canada Post
-  - CBC
-  - CPP
-  - UNRWA
-  - AIIB
-  - EBRD
-  - TransCanada
-  - G7
-  - NATO
-  - Five Eyes Alliance
-  - Veterans Affairs Canada
-  - Fisheries and Oceans Canada
-products_models: []
-media_books:
-  - Wikipedia
 status: evergreen
+summary: 随着2025年加拿大联邦大选进入冲刺阶段，本文深入分析了自由党与保守党在经济、税收、劳工、国防、环保及社会政策等方面的最新承诺。主持人分享了其个人投票倾向及理由，并详细探讨了两党在对美关税谈判和对华关系上的立场，旨在为华裔选民提供全面参考。文章强调，无论党派如何，加拿大对华裔群体的多元文化政策不会改变，并鼓励选民积极参与投票。
+tags:
+- canadian-election-2025
+- china
+- geopolitical
+- platform
+- trade
+title: 加拿大2025联邦大选：两党政策深度解析与华裔选民抉择
 ---
+
 ### 大选背景与个人投票选择
 
 随着2025年加拿大联邦大选进入最后一周，全国选民的热情空前高涨，投票站前大排长龙。保守党与自由党展开激烈冲刺，两党推出了许多刺激性政策，不断撩拨着选民的神经。从对美关税谈判到内政危机应对，两党政策针锋相对，互不相让。究竟谁能带领加拿大走出泥潭、重振经济？此外，一个重磅问题是，加拿大华人在这场政治风暴中应该如何选择？

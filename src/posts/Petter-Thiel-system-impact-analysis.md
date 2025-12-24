@@ -1,25 +1,25 @@
 ---
-title: Petter Thiel system impact analysis
-source: https://gemini.google.com/app/0c9bd2ed4e2e19a0
+area: finance-wealth
 author: Gemini
-date: '2025-09-25'
-layout: post.njk
-summary: 
-tags:
-  - ai-chat
-  - investment-strategy
-  - investment-thesis
-  - google
-updated: 2025-09-14T21:44
+category: stock-investment
 created: 2025-09-14T21:44
-status: archived
-insight:
+date: '2025-09-25'
+insight: null
+layout: post.njk
 people:
-  - Peter Thiel
-area: market-analysis
-category: business
+- Peter Thiel
 project:
 - entrepreneurship
+source: https://gemini.google.com/app/0c9bd2ed4e2e19a0
+status: archived
+summary: null
+tags:
+- investment-thesis
+- llm
+title: Petter Thiel system impact analysis
+updated: 2025-09-14T21:44
+companies:
+- google
 ---
 
 Https://news.marsbit.co/20250913201238868879.html

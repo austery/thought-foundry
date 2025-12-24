@@ -1,39 +1,39 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- MSCI
+- S&P Global
+- FTSE Russell
+- Nasdaq
 date: '2025-10-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=8TX1_cYYhBo
 speaker: Shijun Tang
-tags:
-  - index-funds
-  - moat-analysis
-  - high-margin-business
-  - switching-costs
-  - share-repurchases
-title: 明晟（MSCI）：指数背后的印钞机，是否真的坚不可摧？
-summary: 本文深入剖析明晟（MSCI）的业务结构与护城河，揭示其指数业务高达76%的利润率如何构建‘印钞机’模式，并分析其高切换成本与网络效应形成的强大竞争壁垒，探讨为何即使短期股价承压，基本面仍具长期投资价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - MSCI
-  - S&P Global
-  - FTSE Russell
-  - Nasdaq
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入剖析明晟（MSCI）的业务结构与护城河，揭示其指数业务高达76%的利润率如何构建‘印钞机’模式，并分析其高切换成本与网络效应形成的强大竞争壁垒，探讨为何即使短期股价承压，基本面仍具长期投资价值。
+tags:
+- business
+- investment
+- moat-analysis
+- share-repurchase
+- switching-cost
+title: 明晟（MSCI）：指数背后的印钞机，是否真的坚不可摧？
 ---
+
 ### 明晟（MSCI）的业务结构：指数才是真正的印钞机
 
 今天我们来谈一谈明晟（MSCI），这家被广泛称为“指数背后的印钞机”的公司，它是否真的名副其实？在深入分析之前，请允许我说明：本文不提供任何买卖建议，也不预测股价走势。我的目标是帮助你理解公司的基本面，从而做出更清醒的投资决策。

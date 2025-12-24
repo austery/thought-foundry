@@ -1,33 +1,32 @@
 ---
-title: 何彬：追墓三十年——跨文化墓葬研究之旅
-summary: 何彬教授分享其三十余年对墓葬文化的研究历程。她从日本两墓制出发，深入中国南方汉族墓葬，探讨了地理、历史与文化对墓葬形式的影响，并分享了个人治学感悟，强调专注与坚持的重要性。
 area: personal-growth
 category: culture
-project:
-- cultural-critique
-tags:
-- field-research
-- folkloristics
-- funeral-customs
-- japanese-culture
-- tomb-culture
-people:
-- yixi
 companies_orgs: []
-products_models: []
-media_books:
-- yixi
 date: '2025-09-23'
-author: 一席YiXi
-speaker: 一席YiXi
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- yixi
+people:
+- yixi
+products_models: []
+project:
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=dtYwBznZ4b0
+speaker: 一席YiXi
 status: evergreen
+summary: 何彬教授分享其三十余年对墓葬文化的研究历程。她从日本两墓制出发，深入中国南方汉族墓葬，探讨了地理、历史与文化对墓葬形式的影响，并分享了个人治学感悟，强调专注与坚持的重要性。
+tags:
+- culture
+- folkloristic
+- geopolitical
+- research
+title: 何彬：追墓三十年——跨文化墓葬研究之旅
 ---
+
 ### 序言：小众而独特的研究之路
 
 大家好，我叫何彬，是一名大学**民俗学**（Folkloristics: 研究民间文化、信仰、习俗等的学科）专业的教师。我先后在北京师范大学中文系获得文学博士学位（专业为民俗学），后又在日本神奈川大学获得历史民俗资料学博士学位。我很高兴能与大家分享我三十多年来的主要研究方向——坟墓与丧葬。每到一地，若看到奇特的坟墓，我总会要求走近观察。这个爱好被许多人视为奇怪，我的研究也显得小众。我的第一部博士论文出版后，封面设计了一座中国南方的豪华墓，结果朋友和同行在索要此书时，特意叮嘱我千万别寄到家里，怕放在家中令人感到“瘆人”，要求寄到大学研究室。

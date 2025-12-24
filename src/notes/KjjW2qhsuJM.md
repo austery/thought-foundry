@@ -1,49 +1,50 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CBC Visual Investigations
+- Institute for Strategic Dialogue
+- Canadian Anti-Hate Network
+- Nationalist 13
+- Second Sons
+- Diaglon
+- Adamoffin Division
+- Terror Collective
+- Proud Boys
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+- Giant Tiger
+- Ashley Madison
+people:
+- Eric Sito
+- Steven Ray
+- Jeremy McKenzie
+- Matthew Althorp
+- Brandon Le Point
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=KjjW2qhsuJM
 speaker: TVO Today
-tags:
-  - white-nationalism
-  - extremism
-  - hate-crimes
-  - social-media-polarization
-  - active-clubs
-title: 安大略省：白人民族主义活跃俱乐部与仇恨犯罪的兴起
-summary: 本文探讨了加拿大安大略省日益增长的白人民族主义“活跃俱乐部”现象，这些俱乐部从徒步旅行到法西斯格斗俱乐部无所不为。专家Eric Sito和Steven Ray揭示了这些团体如何在公共场所（如公园和健身房）进行训练，以及它们与Diaglon、Terror Collective等暴力极端组织的联系。文章强调了极端主义叙事的“主流化”趋势、警方报告仇恨犯罪的急剧增加，以及社交媒体算法在加速政治两极分化和激进化（尤其是在年轻人中）方面的作用。尽管加拿大社会多元文化，文章仍强调了主动监测这一问题的必要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Eric Sito
-  - Steven Ray
-  - Jeremy McKenzie
-  - Matthew Althorp
-  - Brandon Le Point
-companies_orgs:
-  - CBC Visual Investigations
-  - Institute for Strategic Dialogue
-  - Canadian Anti-Hate Network
-  - Nationalist 13
-  - Second Sons
-  - Diaglon
-  - Adamoffin Division
-  - Terror Collective
-  - Proud Boys
-products_models: []
-media_books:
-  - X
-  - Giant Tiger
-  - Ashley Madison
 status: evergreen
+summary: 本文探讨了加拿大安大略省日益增长的白人民族主义“活跃俱乐部”现象，这些俱乐部从徒步旅行到法西斯格斗俱乐部无所不为。专家Eric Sito和Steven
+  Ray揭示了这些团体如何在公共场所（如公园和健身房）进行训练，以及它们与Diaglon、Terror Collective等暴力极端组织的联系。文章强调了极端主义叙事的“主流化”趋势、警方报告仇恨犯罪的急剧增加，以及社交媒体算法在加速政治两极分化和激进化（尤其是在年轻人中）方面的作用。尽管加拿大社会多元文化，文章仍强调了主动监测这一问题的必要性。
+tags:
+- active-club
+- extremism
+- social
+- society
+- white-nationalism
+title: 安大略省：白人民族主义活跃俱乐部与仇恨犯罪的兴起
 ---
+
 ### 活跃俱乐部与调查缘起
 
 他们组织徒步旅行、划独木舟和聚餐。

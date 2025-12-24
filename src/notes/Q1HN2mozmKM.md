@@ -1,38 +1,38 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 大疆
 date: '2025-05-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 鲁雯泋
+- 项飙
+- 坂口恭平
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- pkm-research
+series: ''
 source: https://www.youtube.com/watch?v=Q1HN2mozmKM
 speaker: 一席YiXi
-tags:
-  - urban-spontaneity
-  - informal-design
-  - urban-degeneration
-  - material-recycling
-  - public-space-privatization
-title: 北京超无聊：胡同里的野生设计与城市生命力的残响
-summary: 建筑师鲁雯泋通过五年实地观察，记录北京胡同中居民自发创造的野生设计——从防雨罩到鸽子笼、从烟灰缸到糖葫芦车。这些非专业、非审美的实用创新，折射出城市在秩序化进程中丧失的活力与感官丰富性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - pkm-research
-people:
-  - 鲁雯泋
-  - 项飙
-  - 坂口恭平
-companies_orgs:
-  - 大疆
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 建筑师鲁雯泋通过五年实地观察，记录北京胡同中居民自发创造的野生设计——从防雨罩到鸽子笼、从烟灰缸到糖葫芦车。这些非专业、非审美的实用创新，折射出城市在秩序化进程中丧失的活力与感官丰富性。
+tags:
+- design
+- public
+- urban
+title: 北京超无聊：胡同里的野生设计与城市生命力的残响
+companies:
+- material-recycling
 ---
+
 ### 胡同里的野生设计：当生活成为建筑
 
 大家好，我是鲁雯泋。我是一名建筑师。

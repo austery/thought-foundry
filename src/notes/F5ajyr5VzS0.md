@@ -1,43 +1,43 @@
 ---
-author: Internet of Bugs
+area: tech-insights
+category: business
+companies_orgs:
+- OpenAI
+- Microsoft
+- NVIDIA
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Neuromancer
+- The Matrix series
+people:
+- Carl
+- William Gibson
+- Morpheus
+- Neo
+- Sam Altman
+products_models:
+- ChatGPT
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=F5ajyr5VzS0
 speaker: Internet of Bugs
-tags:
-  - ai-definitions
-  - corporate-deception
-  - public-perception
-  - investment-risk
-  - technological-hype
-title: AI定义之惑：企业如何利用模糊概念误导大众
-summary: 本文深入探讨了“人工智能”（AI）一词的定义混乱问题，以及企业如何利用这种模糊性来误导投资者和公众。作者分析了科幻AI、末日论AI、当前泡沫AI、专业AI、生成式AI、通用人工智能（AGI）和超级人工智能（ASI）等多种AI定义，并揭示了企业在不同语境下切换定义以谋取短期利益和规避长期责任的策略。文章呼吁媒体和公众对AI相关言论保持警惕，并要求企业明确其所指的AI定义。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Carl
-  - William Gibson
-  - Morpheus
-  - Neo
-  - Sam Altman
-companies_orgs:
-  - OpenAI
-  - Microsoft
-  - NVIDIA
-products_models:
-  - ChatGPT
-media_books:
-  - Neuromancer
-  - The Matrix series
 status: evergreen
+summary: 本文深入探讨了“人工智能”（AI）一词的定义混乱问题，以及企业如何利用这种模糊性来误导投资者和公众。作者分析了科幻AI、末日论AI、当前泡沫AI、专业AI、生成式AI、通用人工智能（AGI）和超级人工智能（ASI）等多种AI定义，并揭示了企业在不同语境下切换定义以谋取短期利益和规避长期责任的策略。文章呼吁媒体和公众对AI相关言论保持警惕，并要求企业明确其所指的AI定义。
+tags:
+- corporate
+- investment-risk
+- llm
+- public
+- technological
+title: AI定义之惑：企业如何利用模糊概念误导大众
 ---
+
 ### 引言：AI定义的困境与企业的利用
 
 “人工智能”（**AI**：Artificial Intelligence，指由机器展现出的智能）存在一个大问题，那就是“AI”这个词本身。无论是缩写还是“人工智能”这个全称，它都存在问题。这并不是说它没有定义，而是说它有非常多的定义，而当前的AI从业者们正在利用这一点。

@@ -1,38 +1,37 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 摩尔线程
+- 寒武纪
+- Nvidia
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财经》
+people:
+- Xi Jinping
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=C7jOU8xmptQ
 speaker: 小翠時政財經
-tags:
-  - state-capitalism
-  - market-distortion
-  - narrative-driven-pricing
-  - ipo-fraud-risk
-  - political-symbolism-in-markets
-title: 摩尔线程上市妖股事件：国家AI战略如何被A股金融化为收割工具？
-summary: 本文剖析摩尔线程上市后将75亿募资用于购买银行理财的事件，揭示A股市场如何在缺乏空头制衡、情绪主导的环境下，将国家AI战略扭曲为短期投机叙事，最终形成‘股价先涨、基本面追不上’的金融化骗局。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 习近平
-companies_orgs:
-  - 摩尔线程
-  - 寒武纪
-  - 英伟达
-products_models: []
-media_books:
-  - 《财经》
 status: evergreen
+summary: 本文剖析摩尔线程上市后将75亿募资用于购买银行理财的事件，揭示A股市场如何在缺乏空头制衡、情绪主导的环境下，将国家AI战略扭曲为短期投机叙事，最终形成‘股价先涨、基本面追不上’的金融化骗局。
+tags:
+- market
+- narrative
+- risk
+- state
+title: 摩尔线程上市妖股事件：国家AI战略如何被A股金融化为收割工具？
 ---
+
 ### 摩尔线程事件：一场被炒作的“国运”叙事
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月13日，我们关注的焦点是一家名为**摩尔线程**（Moore Threads）的中国GPU芯片公司。这家公司在上市短短五天内，股价从百元级别被推至近千元，市值高达4,400亿元人民币。而它的年营收仅约十几亿，连续三年累计亏损超60亿元——这是一家仍在依赖资本输血、处于创业初期的公司。然而，它的市值却已超越绝大多数成熟企业，成为A股第三大“股王”，仅次于茅台与寒武纪。

@@ -1,33 +1,32 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-02-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Book of Rites
+people:
+- Anthony
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Y9FUyuIhuOc
 speaker: Anthony看世界
-tags:
-  - urging-marriage
-  - intergenerational-trauma
-  - mentalization-ability
-  - collectivist-culture
-  - social-isolation
-title: 中国式催婚：代际创伤与心理机制的深层解读
-summary: 本期视频深入探讨了中国社会中普遍存在的“催婚”现象，超越了传统的集体主义和儒家文化解释，将其根源追溯至历史性的代际创伤。文章结合个案，分析了创伤如何导致父母心智化能力受损、心理等同模式的形成，以及社会支持系统缺失对个体心理发展的影响，揭示了催婚背后深层的政治与心理动因。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Anthony
-companies_orgs: []
-products_models: []
-media_books:
-  - Book of Rites
 status: evergreen
+summary: 本期视频深入探讨了中国社会中普遍存在的“催婚”现象，超越了传统的集体主义和儒家文化解释，将其根源追溯至历史性的代际创伤。文章结合个案，分析了创伤如何导致父母心智化能力受损、心理等同模式的形成，以及社会支持系统缺失对个体心理发展的影响，揭示了催婚背后深层的政治与心理动因。
+tags:
+- culture
+- intergenerational-trauma
+- social
+- society
+- urging-marriage
+title: 中国式催婚：代际创伤与心理机制的深层解读
 ---
 
 ### 引言：中国式催婚的普遍困境

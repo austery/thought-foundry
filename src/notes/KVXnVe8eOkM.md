@@ -1,43 +1,42 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Shopify
+- Georgetown Law School
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+- Keto Continuum
+- Any Way You Can
+people:
+- Annette Bosworth
+- Peter Attia
+- Joe Rogan
+- Grandma Rose
+- Jack
+products_models:
+- Keton IQ
+- Whisper Flow
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=KVXnVe8eOkM
 speaker: The Diary Of A CEO
-tags:
-  - insulin-resistance
-  - ketogenic-diet
-  - brain-health
-  - longevity
-  - metabolic-health
-title: 胰岛素专家警告：这是痴呆症的第一个迹象！生酮饮食与大脑健康的惊人联系
-summary: 胰岛素抵抗专家安妮特·博斯沃思博士揭示了高胰岛素水平与慢性疾病（包括阿尔茨海默症和帕金森症）之间的深刻联系。她指出，现代饮食习惯导致体内胰岛素长期过高，如同在大脑中不断堆积“垃圾”，最终引发认知衰退。博斯沃思博士倡导通过生酮饮食来降低胰岛素，促使身体产生酮体作为更清洁的能量来源。这不仅能改善大脑功能、增强专注力，还能逆转衰老迹象，是实现长期健康和活力的关键策略。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Annette Bosworth
-  - Peter Attia
-  - Joe Rogan
-  - Grandma Rose
-  - Jack
-companies_orgs:
-  - Shopify
-  - Georgetown Law School
-products_models:
-  - Keton IQ
-  - Whisper Flow
-media_books:
-  - The Diary Of A CEO
-  - Keto Continuum
-  - Any Way You Can
 status: evergreen
+summary: 胰岛素抵抗专家安妮特·博斯沃思博士揭示了高胰岛素水平与慢性疾病（包括阿尔茨海默症和帕金森症）之间的深刻联系。她指出，现代饮食习惯导致体内胰岛素长期过高，如同在大脑中不断堆积“垃圾”，最终引发认知衰退。博斯沃思博士倡导通过生酮饮食来降低胰岛素，促使身体产生酮体作为更清洁的能量来源。这不仅能改善大脑功能、增强专注力，还能逆转衰老迹象，是实现长期健康和活力的关键策略。
+tags:
+- health
+- insulin-resistance
+- investment
+- metabolic-health
+title: 胰岛素专家警告：这是痴呆症的第一个迹象！生酮饮食与大脑健康的惊人联系
 ---
+
 ### 导言：沙丁鱼挑战与生酮的力量
 
 欢迎来到沙丁鱼挑战。在接下来的三天里，菜单上唯一的东西就是沙丁鱼。我挑战你每天尝试吃掉三罐，因为这是一个帮助你进入生酮状态的绝佳工具。

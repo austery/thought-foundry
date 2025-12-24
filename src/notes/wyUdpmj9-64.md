@@ -1,16 +1,13 @@
 ---
-title: AI工程师巴黎峰会：第二天重点回顾
-summary: AI工程师巴黎峰会第二天的主题演讲摘要，内容涵盖从AI基础设施和实时语音AI的演进，到提示学习、构建NotebookLM开源替代方案等前沿技术，以及大语言模型突破性的注意力机制。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- agentic-systems
-- ai-engineering
-- ai-infrastructure
-- llm
-- voice-ai
+area: tech-engineering
+author: Lei
+category: ai-ml
+companies_orgs: []
+date: 2025-09-25
+draft: true
+guest: ''
+insight: null
+layout: post.njk
 people:
 - Ralph J. ABRY
 - Aporna DENEKARAN
@@ -19,25 +16,27 @@ people:
 - Tuana Çelik
 - Paige Bailey
 - Neil ZEGHDOUD
-- Yann Lechelle  
+- Yann Lechelle
 - Emil Eifrem
 - Tushar Jain
 - Martin Woodward
 - Andreas Blattmann
-companies_orgs: []
 products_models: []
-media_books: []
-date: 2025-09-25
-author: Lei
-speaker: AI Engineer
-draft: true
-guest: ''
-insight: null
-layout: post.njk
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=wyUdpmj9-64
+speaker: AI Engineer
 status: evergreen
+summary: AI工程师巴黎峰会第二天的主题演讲摘要，内容涵盖从AI基础设施和实时语音AI的演进，到提示学习、构建NotebookLM开源替代方案等前沿技术，以及大语言模型突破性的注意力机制。
+tags:
+- ai-infrastructure
+- engineering
+- llm
+- system
+title: AI工程师巴黎峰会：第二天重点回顾
 ---
+
 ### 开场致辞
 
 Ralph J. ABRY: Good morning, Paris. How's it going, guys? Did you guys enjoy yesterday? If you liked yesterday, today is going to be incredible. You're going to just love it. So, I'm very happy to have you here today for day two. Yesterday was a fantastic day. We had an amazing opening ceremony with Swix and Ben, co-founder of AI engineers. And we had a great talk also from Mistral AI who talked to us about the problems that they face in the enterprise world, which I found fascinating.

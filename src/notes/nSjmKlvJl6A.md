@@ -1,41 +1,40 @@
 ---
-author: Nico投资有道
+area: market-analysis
+category: finance
+companies_orgs:
+- 建设银行亚洲
+- 复星券商
+- 汇丰
+- 中银
+- 富途
+- 长桥
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《移民局12367》
+people:
+- Nico
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=nSjmKlvJl6A
 speaker: Nico投资有道
-tags:
-  - cross-border-banking
-  - online-account-opening
-  - us-investment-access
-  - regulatory-risk-hedging
-  - financial-infrastructure
-title: 建设银行亚洲香港开户全指南：零门槛、线上完成、避险利器
-summary: 详解建设银行亚洲香港账户的线上开户流程，揭示其零审核、无费用特性，并分析内地监管收紧背景下香港银行作为资金出入口的战略价值，为跨境投资提供实操建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - knowledge-pipeline
-people:
-  - Nico
-companies_orgs:
-  - 建设银行亚洲
-  - 复星券商
-  - 汇丰
-  - 中银
-  - 富途
-  - 长桥
-products_models: []
-media_books:
-  - 《移民局12367》
 status: evergreen
+summary: 详解建设银行亚洲香港账户的线上开户流程，揭示其零审核、无费用特性，并分析内地监管收紧背景下香港银行作为资金出入口的战略价值，为跨境投资提供实操建议。
+tags:
+- financial
+- investment
+- online
+- risk
+title: 建设银行亚洲香港开户全指南：零门槛、线上完成、避险利器
 ---
+
 ### 建设银行亚洲开户：零门槛的线上实操全流程
 
 建设银行亚洲，可能是目前香港最容易开户的一家实体银行。它不需要地址证明、资产证明或投资证明，不会详细审核你的职业和资产信息，没有资金门槛，也没有管理费和年费，堪称真正的零门槛开户。

@@ -1,48 +1,47 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- FOMC
+- Binance
+- FTX
+- 高盛
+- 亚马逊
+- 微策略
 date: '2025-09-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Kamala Harris
+- Jerome Powell
+- 赵常鹏
+products_models:
+- 比特币
+- 以太坊
+- 索罗纳
+- BNB
+- WL
+project:
+- us-analysis
+- geopolitics-watch
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=jMm60vvKZiI
 speaker: Shanghao Jin
-tags:
-  - fomc-policy
-  - us-economic-policy
-  - tariff-impact
-  - crypto-market-dynamics
-  - market-liquidity
-title: 市场回顾与展望：FOMC、美国政策、欧洲经济及加密货币市场分析
-summary: 本文从宏观角度回顾了当前市场状况，重点分析了美联储（FOMC）的降息预期、美国政府在赤字、关税、监管、劳动力和能源政策上的动向，以及这些政策对经济的潜在影响。同时，文章也探讨了欧洲经济的挑战与机遇，并深入剖析了加密货币市场的当前格局，特别是B股模式和真实世界资产（RWA）概念，并指出其流动性不足的现状。最后，对市场头寸风险进行了评估。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - market-cycles
-people:
-  - Donald Trump
-  - Kamala Harris
-  - Jerome Powell
-  - 赵常鹏
-companies_orgs:
-  - FOMC
-  - Binance
-  - FTX
-  - 高盛
-  - 亚马逊
-  - 微策略
-products_models:
-  - 比特币
-  - 以太坊
-  - 索罗纳
-  - BNB
-  - WL
-media_books: []
 status: evergreen
+summary: 本文从宏观角度回顾了当前市场状况，重点分析了美联储（FOMC）的降息预期、美国政府在赤字、关税、监管、劳动力和能源政策上的动向，以及这些政策对经济的潜在影响。同时，文章也探讨了欧洲经济的挑战与机遇，并深入剖析了加密货币市场的当前格局，特别是B股模式和真实世界资产（RWA）概念，并指出其流动性不足的现状。最后，对市场头寸风险进行了评估。
+tags:
+- crypto-market-dynamic
+- market-liquidity
+- policy
+- tariff-impact
+- us-economic-policy
+title: 市场回顾与展望：FOMC、美国政策、欧洲经济及加密货币市场分析
 ---
+
 ### 市场整体回顾与政策展望
 
 从夏季休假归来，我将重新开始跟大家分析市场。本来计划去美国，但最终未能成行，也错过了与许多美国朋友见面的机会。我们大概有三个星期没有交流了，所以我想先回顾一下我对整体市场的看法。其实很多观点在之前每周的例会上也提到过。我将先阐述之前的一些基本观点，然后结合夏季休假期间发生的一些事件进行分析。

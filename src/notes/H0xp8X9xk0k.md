@@ -1,37 +1,36 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Wanda Group
 date: '2025-10-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+people:
+- Wang Jianlin
+- Elon Musk
+- Donald Trump
+- Ma Yun
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=H0xp8X9xk0k
 speaker: 徒步的騎手
-tags:
-  - red-gene-curse
-  - rule-of-law
-  - private-enterprise
-  - state-capitalism
-  - systemic-risk
-title: 殊途同归：中国企业家与农民工为何都难逃“红色魔咒”？
-summary: 中国经济寒冬因制度性绞杀而雪上加霜。本文深入探讨了“红色基因魔咒”如何通过“留置”和“失信名单”等工具，系统性地侵蚀私营企业家的安全感，导致从首富到普通商人都可能随时“被消失”。文章通过对比中美两国的商业环境，揭示了在中国缺乏真正法治保障的体系下，无论是资本巨头还是底层劳工，最终都将面临相似的困境，陷入一种殊途同归的宿命。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people:
-  - Wang Jianlin
-  - Elon Musk
-  - Donald Trump
-  - Ma Yun
-companies_orgs:
-  - Wanda Group
-products_models: []
-media_books:
-  - The Wall Street Journal
 status: evergreen
+summary: 中国经济寒冬因制度性绞杀而雪上加霜。本文深入探讨了“红色基因魔咒”如何通过“留置”和“失信名单”等工具，系统性地侵蚀私营企业家的安全感，导致从首富到普通商人都可能随时“被消失”。文章通过对比中美两国的商业环境，揭示了在中国缺乏真正法治保障的体系下，无论是资本巨头还是底层劳工，最终都将面临相似的困境，陷入一种殊途同归的宿命。
+tags:
+- health
+- private
+- rule-of-law
+- state
+- systemic-risk
+title: 殊途同归：中国企业家与农民工为何都难逃“红色魔咒”？
 ---
 
 ### 中国老板们的“诡异消失”

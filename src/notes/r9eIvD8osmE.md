@@ -1,53 +1,53 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Microsoft
+- Visa
+- 穆迪
+- 标普全球
+- 惠誉
+- 亚马逊
+- 沃尔玛
+- OpenAI
+- 苹果
 date: '2025-07-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交事务》
+people:
+- 唐石峻
+- 比尔·盖茨
+- 沃伦·巴菲特
+products_models:
+- Microsoft 365
+- Excel
+- PowerPoint
+- Windows 操作系统
+- GitHub
+- Xbox
+- DCF估值模型
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=r9eIvD8osmE
 speaker: Shijun Tang
-tags:
-  - moat-analysis
-  - network-effects
-  - switching-costs
-  - oligopoly-markets
-  - payment-infrastructure
-title: 微软、Visa与穆迪：三大巨头的护城河与长期投资价值
-summary: 本文深入分析微软、Visa和穆迪三家公司的核心护城河，探讨其在云计算、支付网络与信用评级领域的垄断地位如何转化为长期超额回报，并评估它们在未来是否仍能持续跑赢大盘。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - 唐石峻
-  - 比尔·盖茨
-  - 沃伦·巴菲特
-companies_orgs:
-  - 微软
-  - Visa
-  - 穆迪
-  - 标普全球
-  - 惠誉
-  - 亚马逊
-  - 沃尔玛
-  - OpenAI
-  - 苹果
-products_models:
-  - Microsoft 365
-  - Excel
-  - PowerPoint
-  - Windows 操作系统
-  - GitHub
-  - Xbox
-  - DCF估值模型
-media_books:
-  - 《外交事务》
 status: evergreen
+summary: 本文深入分析微软、Visa和穆迪三家公司的核心护城河，探讨其在云计算、支付网络与信用评级领域的垄断地位如何转化为长期超额回报，并评估它们在未来是否仍能持续跑赢大盘。
+tags:
+- infrastructure
+- market
+- moat-analysis
+- network-effect
+- switching-cost
+title: 微软、Visa与穆迪：三大巨头的护城河与长期投资价值
 ---
+
 ### 微软：多维护城河构建的科技巨头
 
 微软在过去25年中，为投资者创造了高达1,692.60%的回报，远超标普500指数（450.06%）和纳斯达克指数（1,021.12%）。这种惊人的超额收益，不仅让许多仅靠股票薪酬（SBC）的前工程师成为百万富翁，也奠定了其作为“华尔街高枕无忧”公司的地位。

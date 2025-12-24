@@ -1,45 +1,45 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs:
+- Bilibili
 date: '2025-09-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Psychoanalysis of the Battle Girl
+people:
+- Saito Tamaki
+- Hayao Miyazaki
+- Osamu Tezuka
+- Nagai Go
+- Naoko Takeuchi
+- Lacan
+products_models:
+- Magical Girl Sally
+- Bewitched
+- Cutie Honey
+- Red Flower Shadow
+- Sailor Moon
+project:
+- cultural-critique
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=kPBdIdmXHAA
 speaker: Anthony看世界
-tags:
-  - battle-girl-aesthetic
-  - east-asian-culture
-  - psychological-projection
-  - fictional-objects
-  - self-awareness
-title: 从钢卷少女到二次元老婆：东亚男性为何迷恋“强大又无害”的战斗美少女？
-summary: 本视频深入探讨了东亚社会中男性对“战斗美少女”这一流行文化现象的迷恋，从AI生成的“钢卷少女”现象切入，结合日本心理学家斋藤环的《战斗美少女的精神分析》及拉康理论，分析了这种审美背后的心理机制。文章对比了东西方女性战士形象的差异，指出日本战斗美少女的永恒不成熟性，以及这种幻想如何成为逃避现实复杂性的载体。最终，视频呼吁将对虚拟对象的沉迷转化为积极的创作和与现实世界的互动，实现真正的自我成长。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - cultural-critique
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Saito Tamaki
-  - Hayao Miyazaki
-  - Osamu Tezuka
-  - Nagai Go
-  - Naoko Takeuchi
-  - Lacan
-companies_orgs:
-  - Bilibili
-products_models:
-  - Magical Girl Sally
-  - Bewitched
-  - Cutie Honey
-  - Red Flower Shadow
-  - Sailor Moon
-media_books:
-  - Psychoanalysis of the Battle Girl
 status: evergreen
+summary: 本视频深入探讨了东亚社会中男性对“战斗美少女”这一流行文化现象的迷恋，从AI生成的“钢卷少女”现象切入，结合日本心理学家斋藤环的《战斗美少女的精神分析》及拉康理论，分析了这种审美背后的心理机制。文章对比了东西方女性战士形象的差异，指出日本战斗美少女的永恒不成熟性，以及这种幻想如何成为逃避现实复杂性的载体。最终，视频呼吁将对虚拟对象的沉迷转化为积极的创作和与现实世界的互动，实现真正的自我成长。
+tags:
+- battle-girl-aesthetic
+- culture
+- fictional-object
+- self-awareness
+title: 从钢卷少女到二次元老婆：东亚男性为何迷恋“强大又无害”的战斗美少女？
+companies:
+- psychological-projection
 ---
 
 ### 引言：从“钢卷少女”现象说起

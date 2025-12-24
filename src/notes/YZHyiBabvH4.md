@@ -1,8 +1,15 @@
 ---
-title: 特朗普中东和平协议、中美贸易紧张与欧洲AI独立性
-summary: 彭博欧洲日出播客探讨了特朗普促成的加沙停火协议、中美贸易关系紧张、欧洲在人工智能领域对美国的依赖，以及白银价格创历史新高等全球经济和地缘政治热点。
-area: market-analysis
-category: geopolitics
+area: society-thinking
+category: politics-society
+companies_orgs: []
+date: '2025-10-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
 project:
 - ai-impact-analysis
 - china-analysis
@@ -10,28 +17,19 @@ project:
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- commodity-markets
-- european-ai-strategy
-- geopolitics
-- middle-east-peace
-- us-china-trade
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
-date: '2025-10-14'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=YZHyiBabvH4
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 彭博欧洲日出播客探讨了特朗普促成的加沙停火协议、中美贸易关系紧张、欧洲在人工智能领域对美国的依赖，以及白银价格创历史新高等全球经济和地缘政治热点。
+tags:
+- european-ai-strategy
+- market
+- middle-east-peace
+- us-china-relations
+title: 特朗普中东和平协议、中美贸易紧张与欧洲AI独立性
 ---
+
 ### 播客引言与今日头条
 
 This is the Bloomberg Daybreak Europe podcast. Good morning. It's Tuesday the 14th of October. I'm Steven Carowell in Brussels.

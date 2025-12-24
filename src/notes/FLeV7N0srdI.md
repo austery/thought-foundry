@@ -1,46 +1,45 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 联合国教科文组织
+- 支付宝
+- 上海合作组织
 date: '2025-09-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《名侦探柯南》
+- 《灌篮高手》
+- 《破·地狱》
+people:
+- 张内咸
+- 毛主席
+- 蒋介石
+- 彭立发
+- 金正恩
+- Vladimir Putin
+- 吴京
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=FLeV7N0srdI
 speaker: 張内咸
-tags:
-  - zhongyuan-festival
-  - cultural-disconnect
-  - ccp-cultural-policy
-  - social-control
-  - intangible-cultural-heritage
-title: 中国鬼节的消失与重塑：中元节背后的文化与政治
-summary: 本期节目深入探讨了中元节在海外华人社区与中国大陆的截然不同境遇。主持人张内咸指出，尽管中元节是中华传统鬼节，但大陆民众对其知之甚少，这反映了中国与海外华人世界长期以来的文化隔绝。文章分析了中共无神论立场对传统节日的压制，特别是“破四旧”运动对中华文化的毁灭性影响，以及近年来出于政治目的对传统文化的“选择性”重塑。同时，节目也揭示了当下中国社会在“鬼城”、社会维稳和“网格化管理”背景下，一种另类的“天天过鬼节”的荒诞现实。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 张内咸
-  - 毛主席
-  - 蒋介石
-  - 彭立发
-  - 金正恩
-  - 普京
-  - 吴京
-companies_orgs:
-  - 联合国教科文组织
-  - 支付宝
-  - 上海合作组织
-products_models: []
-media_books:
-  - 《名侦探柯南》
-  - 《灌篮高手》
-  - 《破·地狱》
 status: evergreen
+summary: 本期节目深入探讨了中元节在海外华人社区与中国大陆的截然不同境遇。主持人张内咸指出，尽管中元节是中华传统鬼节，但大陆民众对其知之甚少，这反映了中国与海外华人世界长期以来的文化隔绝。文章分析了中共无神论立场对传统节日的压制，特别是“破四旧”运动对中华文化的毁灭性影响，以及近年来出于政治目的对传统文化的“选择性”重塑。同时，节目也揭示了当下中国社会在“鬼城”、社会维稳和“网格化管理”背景下，一种另类的“天天过鬼节”的荒诞现实。
+tags:
+- cultural
+- policy
+- social-control
+- zhongyuan-festival
+title: 中国鬼节的消失与重塑：中元节背后的文化与政治
 ---
+
 ### 中元节的开场白与阴间设想
 
 今天是**中元节**（Zhongyuan Festival: 中国传统节日，道教称为中元节，佛教称为盂兰盆节，俗称鬼节，在农历七月十五举行，祭祀祖先和超度亡魂），祝大家中元节快乐。节目中经常讲到白事，火葬场里甚至还有听众，所以这档节目可能不小心把全世界丧葬行业的朋友都招来了。很多观众留言表示自己在不同国家从事殡葬行业，感谢节目指引，称其为“行业冥灯”。

@@ -1,42 +1,41 @@
 ---
-author: 徒步的騎手
-date: 2025-04-22
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=xdecNtHOv34'
-speaker: 徒步的騎手
-tags:
-  - china-tourism
-  - national-image
-  - food-safety
-  - geopolitical-divide
-  - cultural-differences
-title: 外国游客为何避开中国，蜂拥日本？文明断层线下的国家形象与社会现实
-summary: 本文深入探讨了外国游客对中国和日本截然不同的态度。通过对比两国在旅游人数上的巨大差异，文章分析了中国国家形象受损、食品与人身安全问题、环境污染、官方宣传以及国民行为等深层原因。同时，文章也批判了中国在处理国际关系和历史问题上的心态，并提出了东亚地区存在一条“现代文明断层线”的观点，认为中国急需改变其自我毁坏的国家形象以吸引国际游客。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 李鸿章
-  - 伊藤博文
-  - 本亚明
+category: geopolitics
 companies_orgs:
-  - 中华人民共和国政府网
-  - 新华网
-  - 中国驻日本使馆
-  - 哥伦比亚大学
-  - 福布斯
-  - 香港大学
-products_models: '[]'
+- 中华人民共和国政府网
+- 新华网
+- 中国驻日本使馆
+- 哥伦比亚大学
+- 福布斯
+- 香港大学
+date: 2025-04-22
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《以理问答》
+- 《以理问答》
+people:
+- 李鸿章
+- 伊藤博文
+- 本亚明
+products_models: '[]'
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=xdecNtHOv34
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了外国游客对中国和日本截然不同的态度。通过对比两国在旅游人数上的巨大差异，文章分析了中国国家形象受损、食品与人身安全问题、环境污染、官方宣传以及国民行为等深层原因。同时，文章也批判了中国在处理国际关系和历史问题上的心态，并提出了东亚地区存在一条“现代文明断层线”的观点，认为中国急需改变其自我毁坏的国家形象以吸引国际游客。
+tags:
+- china
+- cultural-difference
+- food-safety
+- geopolitical
+- national
+title: 外国游客为何避开中国，蜂拥日本？文明断层线下的国家形象与社会现实
 ---
 
 ### 外国游客对中日的不同选择

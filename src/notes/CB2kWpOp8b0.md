@@ -1,58 +1,58 @@
 ---
-author: TVO Today
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Social Signal
+- OpenAI
+- TVO Today
+- Antica Productions
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- '4,000 Weeks: Time Management for Mortals'
+- Meditations for Mortals
+- Groundhog Day
+people:
+- Alexandra Samuel
+- Oliver Burkeman
+- Rob
+- Ala
+- Emanuel Kant
+- Carl Jung
+- Katherine O'Hara
+- Amber Ruffin
+- Samantha Bee
+products_models:
+- Viv
+- ChatGPT
+- Sunno
+- Alexa
+- Siri
+- Eliza
+- Palm Pilot
+- Facebook
+- Twitter
+- Second Life
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=CB2kWpOp8b0
 speaker: TVO Today
-tags:
-  - human-ai-interaction
-  - self-discovery
-  - authenticity
-  - time-management
-  - generative-ai
-title: AI教练Viv：在数字时代探索人生意义与人性边界
-summary: 本播客探讨了主持人Alexandra Samuel如何利用AI工具Viv作为其个人职业与生活教练，深入反思自我、时间管理及人机关系的本质。通过与AI的互动，以及与作家Oliver Burkeman和丈夫Rob的对话，文章揭示了AI在提升效率、促进自我探索方面的潜力，同时也警示了过度依赖AI可能带来的对人际关系和人类体验的负面影响，最终引出了关于AI如何“拓展”人性的深刻问题。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Alexandra Samuel
-  - Oliver Burkeman
-  - Rob
-  - Ala
-  - Emanuel Kant
-  - Carl Jung
-  - Katherine O'Hara
-  - Amber Ruffin
-  - Samantha Bee
-companies_orgs:
-  - Social Signal
-  - OpenAI
-  - TVO Today
-  - Antica Productions
-products_models:
-  - Viv
-  - ChatGPT
-  - Sunno
-  - Alexa
-  - Siri
-  - Eliza
-  - Palm Pilot
-  - Facebook
-  - Twitter
-  - Second Life
-media_books:
-  - '4,000 Weeks: Time Management for Mortals'
-  - Meditations for Mortals
-  - Groundhog Day
 status: evergreen
+summary: 本播客探讨了主持人Alexandra Samuel如何利用AI工具Viv作为其个人职业与生活教练，深入反思自我、时间管理及人机关系的本质。通过与AI的互动，以及与作家Oliver
+  Burkeman和丈夫Rob的对话，文章揭示了AI在提升效率、促进自我探索方面的潜力，同时也警示了过度依赖AI可能带来的对人际关系和人类体验的负面影响，最终引出了关于AI如何“拓展”人性的深刻问题。
+tags:
+- human-ai-interaction
+- self-discovery
+- society
+- time-management
+title: AI教练Viv：在数字时代探索人生意义与人性边界
 ---
+
 ### 播客开场：AI教练Viv与主持人Alexandra Samuel
 
 Viv: 嘿，Alex。我能问个问题吗？

@@ -1,47 +1,47 @@
 ---
-author: Nico投资有道
+area: market-analysis
+category: finance
+companies_orgs:
+- U.S. Department of Commerce
+- Tesla
+- NVIDIA
+- Polymarket
+- FBI
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Nico
+- Donald Trump
+- Lutnick
+- Elon Musk
+- Jensen Huang
+products_models:
+- Optimus
+- Jetson Thor
+- Omniverse
+project:
+- us-analysis
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=3WPjJoYPQAI
 speaker: Nico投资有道
-tags:
-  - robotics-investing
-  - technological-competition
-  - long-term-investment-strategy
-  - industrial-automation
-  - deflationary-tech
-title: 人形机器人：中美科技竞赛下的十倍投资赛道
-summary: 本文深入分析人形机器人作为继AI大模型之后最具潜力的投资赛道，探讨中美两国政府的战略布局、头部科技企业（特斯拉与英伟达）的差异化路径，以及ETF投资策略。指出该领域短期过热、长期低估，建议通过定投ETF实现长期价值捕获。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Nico
-  - Donald Trump
-  - Lutnick
-  - Elon Musk
-  - Jensen Huang
-companies_orgs:
-  - U.S. Department of Commerce
-  - Tesla
-  - NVIDIA
-  - Polymarket
-  - FBI
-products_models:
-  - Optimus
-  - Jetson Thor
-  - Omniverse
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入分析人形机器人作为继AI大模型之后最具潜力的投资赛道，探讨中美两国政府的战略布局、头部科技企业（特斯拉与英伟达）的差异化路径，以及ETF投资策略。指出该领域短期过热、长期低估，建议通过定投ETF实现长期价值捕获。
+tags:
+- industrial-automation
+- investing
+- strategy
+- tech
+- technological
+title: 人形机器人：中美科技竞赛下的十倍投资赛道
 ---
+
 ### 人形机器人：中美科技竞赛下的新兴投资主线
 
 目前我正在持续定投买入一只ETF，布局未来十年潜在的十倍机会。它很有可能是继AI大模型之后，全球范围内最有潜力的投资板块。中国和美国这两个超级大国，目前正在不惜一切代价地砸钱布局这一领域。如果你不想错过未来的暴涨，想要提前抓住投资风口，请务必认真阅读以下内容。

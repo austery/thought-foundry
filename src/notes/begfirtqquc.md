@@ -1,66 +1,66 @@
 ---
-author: Darren聊美股
+area: market-analysis
+category: finance
+companies_orgs:
+- Goldman Sachs
+- Rex Shares
+- Curve ETF
+- Yieldmax
+- Seeking Alpha
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Darren
+products_models:
+- SPYM
+- SPMO
+- QQQM
+- MAGS
+- SMH
+- GLDM
+- JEPI
+- JEPQ
+- BOXX
+- IBIT
+- GPIX
+- GPIQ
+- YBTC
+- TSII
+- NVII
+- PLTI
+- HOII
+- KGLD
+- TSLY
+- NVDY
+- SPYI
+- TSPY
+- QDVO
+- YTSL
+- YNVD
+- PLTE
+project:
+- investment-strategy
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=begfirtqquc
 speaker: Darren聊美股
-tags:
-  - etf-investment-strategy
-  - covered-call-options
-  - long-term-portfolio-allocation
-  - dividend-yield-enhancement
-  - risk-management-in-volatility
-title: 【2025年度总结】美国市场ETF投资组合推荐：增长型与Covered Call双轨策略
-summary: 本期视频系统回顾2025年美股ETF表现，推荐两类核心组合：增长型（SPYM、SPMO、QQQM、MAGS、SMH、IBIT）与Covered Call型（GPIX、GPIQ、Rex Shares个股期权ETF），强调长期持有、现金仓位与股息收益的平衡策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
-people:
-  - Darren
-companies_orgs:
-  - Goldman Sachs
-  - Rex Shares
-  - Curve ETF
-  - Yieldmax
-  - Seeking Alpha
-products_models:
-  - SPYM
-  - SPMO
-  - QQQM
-  - MAGS
-  - SMH
-  - GLDM
-  - JEPI
-  - JEPQ
-  - BOXX
-  - IBIT
-  - GPIX
-  - GPIQ
-  - YBTC
-  - TSII
-  - NVII
-  - PLTI
-  - HOII
-  - KGLD
-  - TSLY
-  - NVDY
-  - SPYI
-  - TSPY
-  - QDVO
-  - YTSL
-  - YNVD
-  - PLTE
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本期视频系统回顾2025年美股ETF表现，推荐两类核心组合：增长型（SPYM、SPMO、QQQM、MAGS、SMH、IBIT）与Covered Call型（GPIX、GPIQ、Rex
+  Shares个股期权ETF），强调长期持有、现金仓位与股息收益的平衡策略。
+tags:
+- investment
+- long
+- risk-management-in-volatility
+- strategy
+title: 【2025年度总结】美国市场ETF投资组合推荐：增长型与Covered Call双轨策略
 ---
+
 ### 2025年美股ETF表现回顾与核心组合分析
 
 大家好，我是Darren。本期视频将系统性地回顾2025年美股ETF的市场表现，并基于历史数据与未来展望，推荐两类核心投资组合：**增长型ETF组合**和**Covered Call ETF组合**。

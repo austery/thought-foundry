@@ -1,57 +1,57 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Harvard University
+- World Bank
+- Asian Infrastructure Investment Bank
+- London School of Economics
+- Massachusetts Institute of Technology
+- Wharton School
+- 美国众议院
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《纽约时报》
+- 《国会山报》
+- 《纽约杂志》
+- 《水浒传》
+people:
+- Larry Summers
+- Jeffrey Epstein
+- 金刻羽
+- Donald Trump
+- Bill Gates
+- Paul Samuelson
+- Kenneth Arrow
+- Robert Summers
+- Anita Summers
+- 胡锡进
+- 张维为
+- 江泽民
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=hIL8ETAIiyA
 speaker: 徒步的騎手
-tags:
-  - cross-national-corruption
-  - cronyism
-  - academic-integrity
-  - geopolitical-influence
-  - power-dynamics
-title: 中美跨国权贵裙带网：萨默斯、爱泼斯坦与金刻羽事件揭示的腐败肿瘤
-summary: 本文深入剖析了围绕美国前财长拉里·萨默斯、爱泼斯坦与中国官二代金刻羽的“邮件门”事件。揭示了中美两国政界、学界、商界之间错综复杂的跨国裙带关系和利益输送网络。文章探讨了全球化背景下，权力与金钱如何腐蚀学术机构，导致阶级固化，并呼吁公众保持独立判断力，警惕名校、名人光环下的腐败现象。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Larry Summers
-  - Jeffrey Epstein
-  - 金刻羽
-  - Donald Trump
-  - Bill Gates
-  - Paul Samuelson
-  - Kenneth Arrow
-  - Robert Summers
-  - Anita Summers
-  - 胡锡进
-  - 张维为
-  - 江泽民
-companies_orgs:
-  - Harvard University
-  - World Bank
-  - Asian Infrastructure Investment Bank
-  - London School of Economics
-  - Massachusetts Institute of Technology
-  - Wharton School
-  - 美国众议院
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 《纽约时报》
-  - 《国会山报》
-  - 《纽约杂志》
-  - 《水浒传》
 status: evergreen
+summary: 本文深入剖析了围绕美国前财长拉里·萨默斯、爱泼斯坦与中国官二代金刻羽的“邮件门”事件。揭示了中美两国政界、学界、商界之间错综复杂的跨国裙带关系和利益输送网络。文章探讨了全球化背景下，权力与金钱如何腐蚀学术机构，导致阶级固化，并呼吁公众保持独立判断力，警惕名校、名人光环下的腐败现象。
+tags:
+- academic-integrity
+- cronyism
+- geopolitical-influence
+- national
+- power-dynamic
+title: 中美跨国权贵裙带网：萨默斯、爱泼斯坦与金刻羽事件揭示的腐败肿瘤
 ---
+
 ### 中美权贵大戏：萨默斯、爱泼斯坦与中国官二代千金
 
 周末时光转瞬即逝，我们继续探讨娱乐政治，聚焦一出由“美国版西门庆、王婆”与“中国官二代千金”联袂主演的大戏。上周，美国主流和非主流媒体同时爆出一个重磅消息，主角是横跨官、学、商三界的**拉里·萨默斯**（Larry Summers: 曾任美国财政部长、哈佛大学校长、世界银行首席经济学家）。事件发生时，他仍担任哈佛大学教授，并兼任一些大公司的董事。

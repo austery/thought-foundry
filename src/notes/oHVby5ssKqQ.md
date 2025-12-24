@@ -1,43 +1,43 @@
 ---
-author: 夸克说
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 新华医院
+- 中国医保局
+- 民政局
+- 朝阳医院
+- 山东银行
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《新民晚报》
+- 《民法典》
+- 《侵权责任法》
+people:
+- 蒋女士
+- 吴先生
+- 李丽云
+- 肖志军
+- 秦辉
+products_models: []
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=oHVby5ssKqQ
 speaker: 夸克说
-tags:
-  - single-living
-  - social-welfare
-  - legal-system
-  - guardianship
-title: 上海蒋女士事件：制度困境下的生命代价，中国社会保障体系的缺失与反思
-summary: 上海单身蒋女士因突发疾病，在无法动用个人资金和保险的情况下，最终不幸离世。本片深入剖析了中国僵化的制度流程、医疗支付体系的潜在问题，以及社会保障体系对单身群体的忽视，并与西方国家进行对比，引发对政府责任与公民权利的深刻反思。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - 蒋女士
-  - 吴先生
-  - 李丽云
-  - 肖志军
-  - 秦辉
-companies_orgs:
-  - 新华医院
-  - 中国医保局
-  - 民政局
-  - 朝阳医院
-  - 山东银行
-products_models: []
-media_books:
-  - 《新民晚报》
-  - 《民法典》
-  - 《侵权责任法》
 status: evergreen
+summary: 上海单身蒋女士因突发疾病，在无法动用个人资金和保险的情况下，最终不幸离世。本片深入剖析了中国僵化的制度流程、医疗支付体系的潜在问题，以及社会保障体系对单身群体的忽视，并与西方国家进行对比，引发对政府责任与公民权利的深刻反思。
+tags:
+- life
+- social-welfare
+- system
+- technology
+title: 上海蒋女士事件：制度困境下的生命代价，中国社会保障体系的缺失与反思
 ---
+
 ### 事件开端
 大家好，欢迎收看夸克说，我是夸克。这期节目咱们聊一件近期发生在**上海**的一则新闻。根据**《新民晚报》**报道，一位名叫**蒋女士**的市民，46岁，父母早逝，未婚无子女，多年来独自生活。今年10月，**蒋女士**突发脑溢血。公司同事发现后，将她送往了**新华医院**的ICU。经过医生诊断，必须立刻手术。但问题来了，医院要求必须有家属签字。**蒋女士**身边一个近亲属都没有。幸好，在她昏迷前，在通讯录里找到了远在外地的远房表弟**吴先生**。这位**吴先生**也挺仗义，立马赶到医院签字同意手术，并和公司同事一起垫付了初步的3万元医药费。
 

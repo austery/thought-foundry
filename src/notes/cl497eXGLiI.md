@@ -1,32 +1,32 @@
 ---
-title: 吃草也能活：中国人为何如此能忍
-summary: 让人联想杭州粪水事件，好像没有什么抗议，就是补偿10吨水费？本次讨论深入剖析了中国人“能忍”的现象，从天命观、儒道思想等文化根源，到政府严密的信息控制和制度性压制，再到民众的自我审查与自欺逻辑，多维度探讨了其成因。
-area: null
-category: null
-project: []
-tags:
-  - 信息控制
-  - 天命观
-  - 政治
-people:
-  - 李厚辰
-  - 伍雷
-  - 贾葭
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-07-22
+area: society-thinking
 author: Lei
-speaker: ''
+category: politics-society
 channel: https://www.youtube.com/@%E4%B8%89%E5%80%8B%E6%B0%B4%E6%A7%8D%E6%89%8B
+companies_orgs: []
+date: 2025-07-22
 draft: true
 file_name: chinese_endurance_mandate_of_heaven_info_control
 guest: ''
 insight: null
 layout: post.njk
+media_books: []
+people:
+- 李厚辰
+- 伍雷
+- 贾葭
+products_models: []
+project: []
 series: null
 source: https://www.youtube.com/watch?v=cl497eXGLiI
+speaker: ''
+summary: 让人联想杭州粪水事件，好像没有什么抗议，就是补偿10吨水费？本次讨论深入剖析了中国人“能忍”的现象，从天命观、儒道思想等文化根源，到政府严密的信息控制和制度性压制，再到民众的自我审查与自欺逻辑，多维度探讨了其成因。
+tags:
+- 信息控制
+- 天命观
+title: 吃草也能活：中国人为何如此能忍
 ---
+
 ## 引言：中国人吃草也能活？
 
 李厚辰: 不把中国人逼到绝路，他会一直忍下去。所以我们今天探讨就是，怎么把中国人逼到绝路上。不是，这事儿党干得比我们有经验多了，好吗？这是一个衍生话题。我们之前聊了关于高铁的话题，贾葭老师也说，其实在一辆高铁列车上，敢于拿防暴锤去把窗子锤烂的是少数人。大多数中国人宁愿打赤膊，宁愿感觉很难受，他也非常难往前再多做一步。这就引申到一个关于中国人的经典命题，就是相传**王岐山**同志说的：“中国人吃草也能活一年。”当时这个话的背景是中美贸易战。

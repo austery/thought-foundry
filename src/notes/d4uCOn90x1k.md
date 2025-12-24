@@ -1,38 +1,37 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 巨子生物
+- 花旗银行
+- 汇丰银行
 date: '2025-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《巡路集》
+people:
+- 周其仁
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=d4uCOn90x1k
 speaker: 海淀拙大叔
-tags:
-  - short-selling
-  - investment-strategy
-  - market-dynamics
-  - information-asymmetry
-  - cognitive-deficiency
-title: 从巨子生物做空事件看港股投资与长期主义
-summary: 本文深入分析了巨子生物在港股市场遭遇做空事件的来龙去脉，揭示了港股中小盘股的险恶性及机构信息优势。作者反思了投资决策的不足，并阐述了做空操作的阶段性特征。文章强调普通投资者应坚持长期主义，在经济周期底部寻找优质公司，并推荐周其仁老师的《巡路集》，以提升宏观认知，避免认知缺陷。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - historical-insights
-people:
-  - 周其仁
-companies_orgs:
-  - 巨子生物
-  - 花旗银行
-  - 汇丰银行
-products_models: []
-media_books:
-  - 《巡路集》
 status: evergreen
+summary: 本文深入分析了巨子生物在港股市场遭遇做空事件的来龙去脉，揭示了港股中小盘股的险恶性及机构信息优势。作者反思了投资决策的不足，并阐述了做空操作的阶段性特征。文章强调普通投资者应坚持长期主义，在经济周期底部寻找优质公司，并推荐周其仁老师的《巡路集》，以提升宏观认知，避免认知缺陷。
+tags:
+- cognitive
+- information-asymmetry
+- market-dynamic
+- short-selling
+title: 从巨子生物做空事件看港股投资与长期主义
 ---
+
 ### 巨子生物做空事件的反思与港股投资的险恶
 
 阿甘财富增长论第十篇，主题是做空巨子生物，消费行业预判之五。这几天我感到很不开心，因为巨子生物的跌幅太大了。我常跟大家说，投资要有“三看”：站高了看、拉长了看、往细了看。然而，我这次恰恰没有“往细了看”，在自己的检查清单中没有检查港股，特别是巨子生物的做空数据。

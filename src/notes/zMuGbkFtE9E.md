@@ -1,49 +1,48 @@
 ---
-author: EO
+area: market-analysis
+category: business
+companies_orgs:
+- Rocket
+- Salesforce Ventures
+- Accel
+- Google
+- Microsoft
+- OpenAI
+- GitHub
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Vishal Virani
+- Rahul
+- Satya Nadella
+products_models:
+- Figma
+- GPT-3
+- GitHub Copilot
+- Cursor
+- Siri
+- CarPlay
+project:
+- entrepreneurship
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=zMuGbkFtE9E
 speaker: EO
-tags:
-  - startup-funding
-  - entrepreneurship
-  - product-led-growth
-  - ai-development
-  - overcoming-adversity
-title: 无名校背景、无强大网络，我如何为Rocket.new筹集1500万美元种子轮融资
-summary: Vishal Virani，Rocket.new的联合创始人兼CEO，分享了他如何在没有常春藤盟校背景和强大人脉的情况下，成功为公司筹集1500万美元种子轮融资的创业故事。他强调了永不放弃的精神、产品驱动的策略、以及从失败中学习的重要性。文章详细阐述了他从第一家公司device到转型为AI驱动的软件开发平台Rocket的历程，并分享了他在创业过程中克服挑战、赢得用户信任和投资者青睐的宝贵经验。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Vishal Virani
-  - Rahul
-  - Satya Nadella
-companies_orgs:
-  - Rocket
-  - Salesforce Ventures
-  - Accel
-  - Google
-  - Microsoft
-  - OpenAI
-  - GitHub
-products_models:
-  - Figma
-  - GPT-3
-  - GitHub Copilot
-  - Cursor
-  - Siri
-  - CarPlay
-media_books: []
 status: evergreen
+summary: Vishal Virani，Rocket.new的联合创始人兼CEO，分享了他如何在没有常春藤盟校背景和强大人脉的情况下，成功为公司筹集1500万美元种子轮融资的创业故事。他强调了永不放弃的精神、产品驱动的策略、以及从失败中学习的重要性。文章详细阐述了他从第一家公司device到转型为AI驱动的软件开发平台Rocket的历程，并分享了他在创业过程中克服挑战、赢得用户信任和投资者青睐的宝贵经验。
+tags:
+- ai-development
+- entrepreneurship
+- growth
+- overcoming-adversity
+- startup
+title: 无名校背景、无强大网络，我如何为Rocket.new筹集1500万美元种子轮融资
 ---
+
 ### 逆境中成长：信念与坚持的力量
 
 我没有上过任何**常春藤盟校**（Ivy League: 美国东北部八所著名私立大学组成的体育赛事联盟，也代指这些顶尖学府）。我们从风险投资公司那里得到了四十多次拒绝。他们会要求你必须来自斯坦福大学或**IIT**（印度理工学院: 印度顶尖的工程和技术大学）或其他一些优秀的大学。他们嘴上不会明说，但我知道他们是如何评判和看重什么的。那是在我们只剩下三个月资金的时候，三个月后我们就会“死亡”。那是我们最艰难的时期，但我从未放弃。如果你有决心，你可以在任何地方实现它。

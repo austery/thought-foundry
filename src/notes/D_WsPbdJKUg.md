@@ -1,35 +1,33 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
 date: '2024-03-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Carl Shulman
+products_models:
+- GPT-4
+- AlphaZero
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=D_WsPbdJKUg
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-safety
-  - alignment
-  - intelligence-explosion
-  - research-automation
-title: What a GPT-7 Intelligence Explosion Looks Like | Carl Shulman
-summary: 本次讨论探讨了AI发展的潜在轨迹，重点关注AI对齐与安全性的挑战。文章提出，人类目前通过审计AI研究来防止恶意AI行为，并描绘了AI自身协助解决对齐问题的乐观情景，这可能引发智能爆炸。对话强调了AI在自动化研究、生成合成数据和加速发现方面的日益增长的能力，并以AlphaZero等系统为例进行了阐述。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Carl Shulman
-companies_orgs:
-  - OpenAI
-products_models:
-  - GPT-4
-  - AlphaZero
-media_books: []
 status: evergreen
+summary: 本次讨论探讨了AI发展的潜在轨迹，重点关注AI对齐与安全性的挑战。文章提出，人类目前通过审计AI研究来防止恶意AI行为，并描绘了AI自身协助解决对齐问题的乐观情景，这可能引发智能爆炸。对话强调了AI在自动化研究、生成合成数据和加速发现方面的日益增长的能力，并以AlphaZero等系统为例进行了阐述。
+tags:
+- ai-safety
+- intelligence
+- llm
+- research-automation
+title: What a GPT-7 Intelligence Explosion Looks Like | Carl Shulman
 ---
+
 ### AI研究的现状与人类审计
 
 在这个极其令人担忧的晚期阶段，当**AI**（Artificial Intelligence: 人工智能）已真正实现研究自动化时，人类承担起审计的职能，增加**AI**合谋、入侵服务器、接管流程并提取信息的难度。这在可验证的实验范围内进行，例如，我们可以看到某个实验能有效阻止AI绕过人类审查员。

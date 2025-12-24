@@ -1,63 +1,63 @@
 ---
-author: EO
+area: market-analysis
+category: business
+companies_orgs:
+- Scale AI
+- Passes
+- Back in Capital
+- HFZ
+- YC
+- Neopets
+- PayPal
+- Kora
+- Ava
+- Snap
+- Amazon
+- Google
+- Lovable
+- EO
+- M Hacks
+- Hack MIT
+- Patreon
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- College Confidential
+people:
+- Lucy Guo
+- Kim Kardashian
+- Logan Paul
+- Mr. Beast
+- Evan Spiegel
+products_models:
+- Skims
+- Prime
+- Fastables
+- Lovable Pro plan
+- Snap Map
+- Intercom
+- Figma
+project:
+- entrepreneurship
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Do_LjDsisIE
 speaker: EO
-tags:
-  - entrepreneurial-journey
-  - startup-culture
-  - product-development
-  - learning-optimization
-  - creator-economy
-title: 从辍学到亿万富翁：Lucy Guo的创业与人生信条
-summary: Scale AI和Passes的创始人Lucy Guo分享了她的创业历程和人生信条。她强调了高效的日常习惯、以学习为核心的决策（包括辍学创业），以及在产品开发中“先发布再迭代”的哲学。她还阐述了以人为本的领导力、团队激励，并展望了AI在创作者经济中的未来作用。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Lucy Guo
-  - Kim Kardashian
-  - Logan Paul
-  - Mr. Beast
-  - Evan Spiegel
-companies_orgs:
-  - Scale AI
-  - Passes
-  - Back in Capital
-  - HFZ
-  - YC
-  - Neopets
-  - PayPal
-  - Kora
-  - Ava
-  - Snap
-  - Amazon
-  - Google
-  - Lovable
-  - EO
-  - M Hacks
-  - Hack MIT
-  - Patreon
-products_models:
-  - Skims
-  - Prime
-  - Fastables
-  - Lovable Pro plan
-  - Snap Map
-  - Intercom
-  - Figma
-media_books:
-  - College Confidential
 status: evergreen
+summary: Scale AI和Passes的创始人Lucy Guo分享了她的创业历程和人生信条。她强调了高效的日常习惯、以学习为核心的决策（包括辍学创业），以及在产品开发中“先发布再迭代”的哲学。她还阐述了以人为本的领导力、团队激励，并展望了AI在创作者经济中的未来作用。
+tags:
+- creator-economy
+- entrepreneurial-journey
+- learning
+- product-development
+- startup-culture
+title: 从辍学到亿万富翁：Lucy Guo的创业与人生信条
 ---
+
 ### 高效日常与自律法则
 
 我的日常作息基本上是每天早上5:30到6:00之间起床。

@@ -1,40 +1,41 @@
 ---
-author: 超級歪 SuperY
+area: personal-systems
+category: psychology
+companies_orgs:
+- UCLA
+- 阳明大学
+- 交通大学
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《肠子、大脑、肠道菌群》
+people:
+- Emeran Mayer
+- 蔡英傑
+- Hippocrates
+products_models:
+- PS128
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=XAvr2JpQmnk
 speaker: 超級歪 SuperY
-tags:
-  - gut-brain-axis
-  - gut-microbiota
-  - psychobiotics
-  - emotional-regulation
-  - dietary-impact
-title: 肠道：人类的“第二大脑”如何主宰情绪、记忆与心智？
-summary: 本文深入探讨了肠道菌群与大脑之间复杂的“肠脑轴”双向沟通系统。科学家们发现，肠道不仅影响消化，更是情绪、记忆、压力反应乃至人格形成的关键。文章揭示了肠道菌群如何通过神经递质和免疫反应影响心理健康，并介绍了精神益生菌PS128在改善情绪、睡眠和认知功能方面的研究进展。同时，强调了早期生活经历和饮食习惯对肠道菌群多样性及身心健康的重要影响，并提供了维护肠道健康的具体建议。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Emeran Mayer
-  - 蔡英傑
-  - Hippocrates
-companies_orgs:
-  - UCLA
-  - 阳明大学
-  - 交通大学
-products_models:
-  - PS128
-media_books:
-  - 《肠子、大脑、肠道菌群》
 status: evergreen
+summary: 本文深入探讨了肠道菌群与大脑之间复杂的“肠脑轴”双向沟通系统。科学家们发现，肠道不仅影响消化，更是情绪、记忆、压力反应乃至人格形成的关键。文章揭示了肠道菌群如何通过神经递质和免疫反应影响心理健康，并介绍了精神益生菌PS128在改善情绪、睡眠和认知功能方面的研究进展。同时，强调了早期生活经历和饮食习惯对肠道菌群多样性及身心健康的重要影响，并提供了维护肠道健康的具体建议。
+tags:
+- brain
+- emotional-regulation
+- health
+- impact
+title: 肠道：人类的“第二大脑”如何主宰情绪、记忆与心智？
+companies:
+- psychobiotic
 ---
+
 ### 肠道：被忽视的“第二大脑”
 
 我们之前介绍过许多关于神经科学的影片，例如逆向思考、解锁大脑、社会天性等。这些神经科学的研究都聚焦于人类的大脑。然而，近年来，越来越多的研究发现，人类实际上拥有一个“**第二大脑**”（Second Brain: 指肠道，因为它拥有独立的神经系统并与大脑双向沟通），那就是肠道。我们普遍认为人类的情绪、记忆和压力都产生于大脑，但实际上，消化系统正不断向大脑传递大量信息。这些新发现颠覆了许多常识，人类本性的真相很可能不在大脑，而是在肠道这个“第二大脑”中。这里究竟隐藏着什么秘密？在今天的节目中，我们将介绍神经科学家埃默伦·迈耶（Emeran Mayer）的著作《肠子、大脑、肠道菌群》（Gut, Brain, Gut Microbiota），看看这个“第二大脑”是如何运作的。

@@ -1,56 +1,56 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Starbucks
+- Boyu Capital
+- Carlyle Group
+- Temasek
+- Nvidia
+- China Nonferrous Metal Mining Group
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- Reuters
+- The Wall Street Journal
+- The Economist
+people:
+- Jiang Zemin
+- Alvin Jiang
+- Li Ka-shing
+- Bo Xilai
+- Hu Jintao
+- Xi Jinping
+- Howard Schultz
+- Donald Trump
+- Jensen Huang
+- Wang Yi
+- Cai Qi
+- Mao Zedong
+- Deng Xiaoping
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=-FMQGHjUIE4
 speaker: LT視界
-tags:
-  - political-economy
-  - us-china-trade
-  - leadership-analysis
-  - authoritarian-influence
-  - geopolitical-risk
-title: 深度解析：江泽民之孙的百亿交易、中美贸易博弈与习近平的“大胆鲁莽”领导风格
-summary: 彭博社报道揭示了江泽民之孙江志成创办的博裕资本在星巴克中国业务并购中的领先地位，深入剖析了中共高层家族通过金融模式敛财的背景，以及星巴克创始人与中共领导人的特殊关系。文章还探讨了中美贸易战中大豆与AI芯片的对价交易，以及中国在非洲输出“低人权模式”的案例。最后，基于《经济学人》的大数据分析，揭示了习近平在执政13年间，其领导风格从自信转向“大胆鲁莽”的演变，及其对中国和全球带来的潜在风险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Jiang Zemin
-  - Alvin Jiang
-  - Li Ka-shing
-  - Bo Xilai
-  - Hu Jintao
-  - Xi Jinping
-  - Howard Schultz
-  - Donald Trump
-  - Jensen Huang
-  - Wang Yi
-  - Cai Qi
-  - Mao Zedong
-  - Deng Xiaoping
-companies_orgs:
-  - Starbucks
-  - Boyu Capital
-  - Carlyle Group
-  - Temasek
-  - Nvidia
-  - China Nonferrous Metal Mining Group
-products_models: []
-media_books:
-  - Bloomberg
-  - Reuters
-  - The Wall Street Journal
-  - The Economist
 status: evergreen
+summary: 彭博社报道揭示了江泽民之孙江志成创办的博裕资本在星巴克中国业务并购中的领先地位，深入剖析了中共高层家族通过金融模式敛财的背景，以及星巴克创始人与中共领导人的特殊关系。文章还探讨了中美贸易战中大豆与AI芯片的对价交易，以及中国在非洲输出“低人权模式”的案例。最后，基于《经济学人》的大数据分析，揭示了习近平在执政13年间，其领导风格从自信转向“大胆鲁莽”的演变，及其对中国和全球带来的潜在风险。
+tags:
+- geopolitical-risk
+- influence
+- leadership-analysis
+- political-economy
+- us-china-relations
+title: 深度解析：江泽民之孙的百亿交易、中美贸易博弈与习近平的“大胆鲁莽”领导风格
 ---
+
 ### 江泽民之孙的百亿交易：博裕资本与星巴克中国业务
 
 根据**彭博社**（Bloomberg: 一家全球性的金融信息服务公司）今天的报道，私募股权公司**博裕资本**（Boyu Capital: 江泽民之孙江志成创办的私募股权公司）已成为星巴克寻找中国业务合作伙伴的领跑者。这家咖啡连锁店正试图在其第二大市场中国重振雄风。知情人士表示，博裕资本在出价中击败了包括**凯雷集团**（Carlyle Group: 一家全球性另类资产管理公司）在内的其他私募股权公司，成为收购该公司控股权的最有可能的买家。由于资料保密，知情人士不愿意透露姓名。知情人士表示，这笔交易可能使其中国业务的估值超过40亿美元。知情人士还表示，这家咖啡连锁店和博裕可能需要几个月的时间进行谈判，并就最终达成协议的条款达成一致。

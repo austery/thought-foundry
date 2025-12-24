@@ -1,36 +1,36 @@
 ---
-title: Analysis of US Government Shutdown, Trump's Foreign Policy, and the US-China
-  Soybean Standoff
-summary: This analysis covers the impacts of the US government shutdown on economic
-  data, Trump's political and foreign policy maneuvers regarding funding and a Gaza
-  peace plan, and the escalating US-China trade tensions centered on soybean purchases,
-  which China is leveraging as a strategic weapon.
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- government-shutdown
-- involution
-- soybean
-- us-china-trade-war
-people:
-- trump
 companies_orgs: []
-products_models: []
-media_books: []
 date: 2025-10-03
-author: Lei
-speaker: Lei
 draft: true
 guest: null
 insight: null
 layout: post.njk
+media_books: []
+people:
+- trump
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: null
 source: null
+speaker: Lei
 status: evergreen
+summary: This analysis covers the impacts of the US government shutdown on economic
+  data, Trump's political and foreign policy maneuvers regarding funding and a Gaza
+  peace plan, and the escalating US-China trade tensions centered on soybean purchases,
+  which China is leveraging as a strategic weapon.
+tags:
+- government-shutdown
+- involution
+- soybean
+- us-china-relations
+title: Analysis of US Government Shutdown, Trump's Foreign Policy, and the US-China
+  Soybean Standoff
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月3日。
 
 ### 财经头条：美国政府关门与市场反应

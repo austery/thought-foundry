@@ -1,28 +1,26 @@
 ---
-title: 伊朗核协议风云：一场秘密外交的终局之战！
-summary: null
-area: market-analysis
-category: geopolitics
-project:
-- geopolitics-watch
-tags:
-  - geopolitics
-  - 伊朗核协议
-  - 秘密外交
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: society-thinking
 author: Lei
-speaker: null
+category: politics-society
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- geopolitics-watch
 series: null
 source: null
+speaker: null
+summary: null
+tags:
+- geopolitical
+- 秘密外交
+title: 伊朗核协议风云：一场秘密外交的终局之战！
 ---
+
 ## 引言：风云再起的核问题
 
 大家好，欢迎来到我的频道。近期，从各种迹象来看，美国很有可能会加入以色列的行列，对伊朗进行军事行动。至于是否会对伊朗全面宣战，则需要看国会的投票。以色列和美国要对伊朗采取军事行动的主要理由，便是针对伊朗的核计划。

@@ -1,51 +1,51 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Reddit
+- NYSE
+- NDP
+- 加拿大自由党
+- 加拿大移民部
 date: '2024-05-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reddit
+people:
+- Justin Trudeau
+- Jagmeet Singh
+- Pesec1
+- Dull_Skirt841
+- Bad-North
+- Kebida96
+- FarLog4503
+- Complex-Reference353
+products_models:
+- Express Entry
+- Comprehensive Ranking System
+- SAT
+- LMIA
+- RDDT
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=qhGUn9imgkw
 speaker: 莊也雜談
-tags:
-  - canada-immigration-policy
-  - indian-immigrants
-  - express-entry-system
-  - policy-loopholes
-  - social-impact
-title: 深度解析：加拿大移民政策漏洞如何导致印度裔移民潮？
-summary: 本期节目深入探讨了加拿大印度裔移民数量激增的现象，分析了印度国内恶劣的生活条件和强烈的移民意愿作为主要推动因素。核心内容揭示了加拿大2015年实施的“快速通道”积分系统存在的政策漏洞，以及印度裔在年龄、学历、语言和抱团优势上如何完美契合该系统。此外，节目还触及了学签造假、临时居民数量激增等问题，并批评了加拿大政府在移民政策上的后知后觉和懒政怠政，强调问题根源在于政策而非族裔。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Justin Trudeau
-  - Jagmeet Singh
-  - Pesec1
-  - Dull_Skirt841
-  - Bad-North
-  - Kebida96
-  - FarLog4503
-  - Complex-Reference353
-companies_orgs:
-  - Reddit
-  - NYSE
-  - NDP
-  - 加拿大自由党
-  - 加拿大移民部
-products_models:
-  - Express Entry
-  - Comprehensive Ranking System
-  - SAT
-  - LMIA
-  - RDDT
-media_books:
-  - Reddit
 status: evergreen
+summary: 本期节目深入探讨了加拿大印度裔移民数量激增的现象，分析了印度国内恶劣的生活条件和强烈的移民意愿作为主要推动因素。核心内容揭示了加拿大2015年实施的“快速通道”积分系统存在的政策漏洞，以及印度裔在年龄、学历、语言和抱团优势上如何完美契合该系统。此外，节目还触及了学签造假、临时居民数量激增等问题，并批评了加拿大政府在移民政策上的后知后觉和懒政怠政，强调问题根源在于政策而非族裔。
+tags:
+- canada-immigration-policy
+- geopolitical
+- policy
+- social-impact
+- system
+title: 深度解析：加拿大移民政策漏洞如何导致印度裔移民潮？
 ---
+
 哈喽大家好，我是庄也，欢迎您收看庄也杂谈。上集我们聊到了一个非常惊悚的话题，说印度移民正在接管加拿大。但是上集我只是开了一个头，简单地列举了一些最近几年**南亚裔**（South Asian: 泛指南亚次大陆国家，如印度、巴基斯坦、孟加拉国等）移民加拿大的一些相关数字，确认了一个实实在在的、发生在我们身边的事实。当然上集有观众朋友指出，我说“南亚裔”这三个字其实有一些不公平，因为这里面最大的受益者主要是印度这一个国家，而其他的国家，像孟加拉国、巴基斯坦这些，其实也都是陪绑躺枪，他们那些国家来的人其实没那么多。因此，这一集我们正本清源，纠正一下，不再说“南亚裔”三个字了，就说“印度裔”。
 
 好，那问题来了。第一个问题：印度裔大举移民加拿大，他们为什么要来？第二个问题：他们是怎么来的？换一个问法就是，他们是怎样做到如入无人之境一样，大举进入加拿大的？第三个问题：加拿大政府对这种一家独大的印度移民大军有什么后续的应对措施吗？他们是不闻不问，还是说试图寻求一些改变？所以说，今天您算是来着了，今天全是干货。我把我前一段时间针对上面这几个问题进行了大量的信息查找，跟您分享一下我找到的答案。

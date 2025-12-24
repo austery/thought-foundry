@@ -1,45 +1,44 @@
 ---
-author: 海伦子Hellen
+area: society-systems
+category: science
+companies_orgs:
+- SpaceX
+- NASA
+- 欧洲航天局
+- 富途证券
+- 纳斯达克
 date: '2024-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 伽利略
+products_models:
+- 猎鹰重型
+- 欧罗巴快船
+- 星舰
+- 猎鹰9号
+- Space Launch System
+- 旅行者号
+- 伽利略探测器
+- 朱诺探测器
+- JUICE
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=2EXQaPQwBpk
 speaker: 海伦子Hellen
-tags:
-  - space-exploration
-  - europa-clipper
-  - extraterrestrial-life
-  - jupiter-system
-  - falcon-heavy
-title: SpaceX火箭创纪录发射，助力NASA探测木卫二生命迹象
-summary: SpaceX在10月份打破火箭发射新纪录，其中猎鹰重型火箭成功为NASA发射了迄今最大的地外生命探测器——“欧罗巴快船”。该探测器耗资50亿美元，旨在探测木星卫星木卫二冰层下的巨大海洋，寻找地外生命存在的有力证据。文章详细介绍了此次任务的挑战、技术细节、探测器前往木星的漫长旅程，以及木卫二独特的磁场和潮汐力如何维持液态海洋，为生命存在奠定基础。同时，也提及了太空探索对地球科技发展的深远影响。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project: []
-people:
-  - 伽利略
-companies_orgs:
-  - SpaceX
-  - NASA
-  - 欧洲航天局
-  - 富途证券
-  - 纳斯达克
-products_models:
-  - 猎鹰重型
-  - 欧罗巴快船
-  - 星舰
-  - 猎鹰9号
-  - Space Launch System
-  - 旅行者号
-  - 伽利略探测器
-  - 朱诺探测器
-  - JUICE
-media_books: []
 status: evergreen
+summary: SpaceX在10月份打破火箭发射新纪录，其中猎鹰重型火箭成功为NASA发射了迄今最大的地外生命探测器——“欧罗巴快船”。该探测器耗资50亿美元，旨在探测木星卫星木卫二冰层下的巨大海洋，寻找地外生命存在的有力证据。文章详细介绍了此次任务的挑战、技术细节、探测器前往木星的漫长旅程，以及木卫二独特的磁场和潮汐力如何维持液态海洋，为生命存在奠定基础。同时，也提及了太空探索对地球科技发展的深远影响。
+tags:
+- geopolitical
+- life
+- space-exploration
+- system
+- technology
+title: SpaceX火箭创纪录发射，助力NASA探测木卫二生命迹象
 ---
+
 ### SpaceX创纪录发射：太空探索新常态
 
 SpaceX的火箭在10月份打破了一个新的记录，在一周内连续发射了6次，其中包括了**星舰**和**猎鹰9号**火箭在内的全系列发射。在10月13日至15日这三天时间内，SpaceX分别在美国的德州和加州三个州，总共四个发射场发射了四次火箭。这预示着未来两到三年内，这种高频率的发射将成为常态，甚至会更加密集，特别是在火星窗口期。

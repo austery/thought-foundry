@@ -10,16 +10,15 @@ project:
 - ai-impact-analysis
 tags:
 - ai-application
+- code
 - developer-experience
-- vector-database
 people:
-  - Alessio
-  - Swyx
-  - Jeff
+- Alessio
+- Swyx
+- Jeff
 companies_orgs: []
 products_models:
 - chroma
-media_books: []
 date: 2025-08-27
 author: Lei
 speaker: ''
@@ -31,6 +30,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 ## Introduction and Chroma's Origin
 
 Alessio: Hey everyone, welcome to the Latent Space podcast in the new studio. This is Alessio, partner and CTO of Decible, and I'm joined by Swyx, founder of Smol AI.

@@ -1,39 +1,38 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Fraser Institute
+- University of Toronto
+- C.D. Howe Institute
+- Commonwealth Fund
+- World Health Organisation
+- Ontario Ministry of Health
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nadeem Ismail
+- Dr. Aniello Martin
+products_models: []
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=HGwws90UFGw
 speaker: TVO Today
-tags:
-  - canadian-healthcare
-  - wait-times
-  - access-to-care
-  - healthcare-reform
-  - private-sector-role
-title: 加拿大医疗系统：优势、挑战与改革之路
-summary: 本文深入探讨了加拿大医疗系统的现状，指出其在重症护理方面表现出色，但普遍存在全科医生短缺、医院等待时间长以及服务覆盖面不足等问题。文章对比了加拿大与其他发达国家的医疗模式，并分析了私营部门参与、资源协调以及政府投资等潜在解决方案，以期改善医疗服务的可及性和公平性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - Nadeem Ismail
-  - Dr. Aniello Martin
-companies_orgs:
-  - Fraser Institute
-  - University of Toronto
-  - C.D. Howe Institute
-  - Commonwealth Fund
-  - World Health Organisation
-  - Ontario Ministry of Health
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了加拿大医疗系统的现状，指出其在重症护理方面表现出色，但普遍存在全科医生短缺、医院等待时间长以及服务覆盖面不足等问题。文章对比了加拿大与其他发达国家的医疗模式，并分析了私营部门参与、资源协调以及政府投资等潜在解决方案，以期改善医疗服务的可及性和公平性。
+tags:
+- canadian
+- care
+- private
+- reform
+- time
+title: 加拿大医疗系统：优势、挑战与改革之路
 ---
+
 ### 加拿大医疗系统的挑战与展望
 
 每个人都同意，加拿大需要更多的**全科医生**（General Practitioners: 提供初级医疗服务的医生），医院的等待时间需要缩短，并且人们在需要时应该能够获得适当的护理。但我们如何才能实现这一目标呢？我们从**弗雷泽研究所**（Fraser Institute: 加拿大一家公共政策智库）健康政策主任 Nadeem Ismail 和**多伦多大学**（University of Toronto）家庭与社区医学系主任 Aniello Martin 博士那里获得了见解。Nadeem、Martin 博士，非常感谢你们参加我们的节目。让我们首先从整体上谈谈我们的医疗系统。我可以假设你们两位都同意这个系统并不完美，有些地方需要改进。但是 Martin 博士，我们先从您开始，我们的医疗系统有哪些方面是运作良好的呢？

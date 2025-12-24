@@ -1,33 +1,31 @@
 ---
-title: 美股再创纪录，科技股领涨，人工智能和航空数据中断成焦点
-summary: 美股周二收盘再创纪录，科技股领涨。英伟达巨额投资OpenAI，AMD股价飙升。同时，拉瓜迪亚机场因数据中断航班延误，FICO和华纳兄弟等公司股价下跌。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
-tags:
-- ai
-- aviation-disruption
-- stock-market
-- technology-stocks
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-08'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=NMeST5GOOHg
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 美股周二收盘再创纪录，科技股领涨。英伟达巨额投资OpenAI，AMD股价飙升。同时，拉瓜迪亚机场因数据中断航班延误，FICO和华纳兄弟等公司股价下跌。
+tags:
+- aviation-disruption
+- stock-market
+- technology
+title: 美股再创纪录，科技股领涨，人工智能和航空数据中断成焦点
 ---
+
 ### 市场收盘与全球同步直播
 
 And right now we are 2 minutes away from

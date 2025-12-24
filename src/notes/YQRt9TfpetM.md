@@ -1,44 +1,43 @@
 ---
-author: TED
+area: life-family
+category: family-relations
+companies_orgs:
+- TED
+- South Dakota
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- video-game
+people:
+- Hannah Boquet
+- Amos
+- Ezra
+products_models:
+- Fortnite
+- Diddy Kong Racing
+- Halo
+- Mario Kart
+- Rocket League
+- Nintendo 64
+- Minecraft
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=YQRt9TfpetM
 speaker: TED
-tags:
-  - parenting
-  - family-connection
-  - video-games
-  - esports
-  - digital-natives
-title: 电子游戏如何赋能亲子关系：一位母亲的连接之道
-summary: 这场TED演讲中，Hannah Boquet探讨了电子游戏如何加强亲子关系。她分享了自己如何走进孩子们的数字世界，通过玩《堡垒之夜》等游戏，发现了更深层次的亲子连接。演讲强调了电子竞技的意外益处，包括培养沟通、团队合作和情绪韧性等技能，并指出这些平台可以成为家庭互动和创造共同回忆的包容空间，甚至帮助单亲父母介绍新伴侣。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Hannah Boquet
-  - Amos
-  - Ezra
-companies_orgs:
-  - TED
-  - South Dakota
-products_models:
-  - Fortnite
-  - Diddy Kong Racing
-  - Halo
-  - Mario Kart
-  - Rocket League
-  - Nintendo 64
-  - Minecraft
-media_books: []
 status: evergreen
+summary: 这场TED演讲中，Hannah Boquet探讨了电子游戏如何加强亲子关系。她分享了自己如何走进孩子们的数字世界，通过玩《堡垒之夜》等游戏，发现了更深层次的亲子连接。演讲强调了电子竞技的意外益处，包括培养沟通、团队合作和情绪韧性等技能，并指出这些平台可以成为家庭互动和创造共同回忆的包容空间，甚至帮助单亲父母介绍新伴侣。
+tags:
+- digital
+- family
+- life
+title: 电子游戏如何赋能亲子关系：一位母亲的连接之道
 ---
+
 ### 亲子连接的挑战与新视角
 
 在我开始之前，我想请大家快速举手。这里有多少人有青少年或准青少年子女？好的，太棒了，有很多人。

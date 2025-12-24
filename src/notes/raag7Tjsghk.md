@@ -1,50 +1,48 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Twitter
+- Meta
 date: '2024-12-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《文明的冲突》
+people:
+- Donald Trump
+- Kamala Harris
+- George Will
+- Thomas Jefferson
+- Eric Foner
+- Joshua Ramo
+- Henry Kissinger
+- Vladimir Putin
+- Mussolini
+- Adolf Hitler
+- 朱云汉
+- 胡鞍钢
+- 毛主席
+- Gunnar Myrdal
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=raag7Tjsghk
 speaker: 东京人文论坛
-tags:
-  - us-democracy
-  - political-rhetoric
-  - constitutional-amendments
-  - electoral-dictatorship
-  - us-china-relations
-  - civilizational-conflict
-title: 美国民主衰退论：从竞选口号到文明断层线的深度剖析
-summary: 本文深入探讨了美国民主衰退论的多个维度，从特朗普的竞选口号“让美国再伟大”切入，分析了政治修辞与现实的差异。文章回顾了美国宪法在平等问题上的演进，特别是内战后第十四修正案的重要性。同时，探讨了民主参与度的历史扩展，并区分了“真平等”与“假平等”。此外，文章还分析了中文世界对美国衰退论的叙事，包括“北京共识”和“东升西降”的兴起与证伪，以及“民选独裁”现象及其对美国政治的潜在影响。最后，文章提出了关于民主土壤和现代文明与反现代文明冲突的深刻问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Kamala Harris
-  - George Will
-  - Thomas Jefferson
-  - Eric Foner
-  - Joshua Ramo
-  - Henry Kissinger
-  - Vladimir Putin
-  - Mussolini
-  - Adolf Hitler
-  - 朱云汉
-  - 胡鞍钢
-  - 毛主席
-  - Gunnar Myrdal
-companies_orgs:
-  - Twitter
-  - Facebook
-products_models: []
-media_books:
-  - 《文明的冲突》
 status: evergreen
+summary: 本文深入探讨了美国民主衰退论的多个维度，从特朗普的竞选口号“让美国再伟大”切入，分析了政治修辞与现实的差异。文章回顾了美国宪法在平等问题上的演进，特别是内战后第十四修正案的重要性。同时，探讨了民主参与度的历史扩展，并区分了“真平等”与“假平等”。此外，文章还分析了中文世界对美国衰退论的叙事，包括“北京共识”和“东升西降”的兴起与证伪，以及“民选独裁”现象及其对美国政治的潜在影响。最后，文章提出了关于民主土壤和现代文明与反现代文明冲突的深刻问题。
+tags:
+- conflict
+- constitutional
+- geopolitical
+- political
+- us-china-relations
+title: 美国民主衰退论：从竞选口号到文明断层线的深度剖析
 ---
 
 ## 引言：政治口号与现实

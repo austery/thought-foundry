@@ -1,40 +1,40 @@
 ---
-author: Big Think
+area: personal-systems
+category: productivity
+companies_orgs:
+- Big Think
+- Juilliard
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Complications
+- Better
+- The Checklist Manifesto
+- Being Mortal
+people:
+- Atul Gawande
+- Roger Federer
+- Itzhak Perlman
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=tW7ClAexgHI
 speaker: Big Think
-tags:
-  - skill-development
-  - coaching
-  - performance-improvement
-  - learning-plateau
-  - professional-growth
-title: 突破技能瓶颈：外科医生阿图·葛文德谈教练的重要性
-summary: 本文基于著名外科医生兼作家阿图·葛文德的经验，探讨了专业人士如何突破技能瓶颈。葛文德指出，传统医学领域侧重自我提升，而体育界顶尖选手则普遍依赖教练。他分享了自己作为外科医生和网球爱好者，以及小提琴家伊扎克·帕尔曼通过引入外部教练，显著提升表现并持续学习的经历。文章强调教练提供外部视角和反馈，帮助设定目标并改进技术、团队合作、领导力及教学能力，从而实现持续进步。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Atul Gawande
-  - Roger Federer
-  - Itzhak Perlman
-companies_orgs:
-  - Big Think
-  - Juilliard
-products_models: []
-media_books:
-  - Complications
-  - Better
-  - The Checklist Manifesto
-  - Being Mortal
 status: evergreen
+summary: 本文基于著名外科医生兼作家阿图·葛文德的经验，探讨了专业人士如何突破技能瓶颈。葛文德指出，传统医学领域侧重自我提升，而体育界顶尖选手则普遍依赖教练。他分享了自己作为外科医生和网球爱好者，以及小提琴家伊扎克·帕尔曼通过引入外部教练，显著提升表现并持续学习的经历。文章强调教练提供外部视角和反馈，帮助设定目标并改进技术、团队合作、领导力及教学能力，从而实现持续进步。
+tags:
+- coaching
+- development
+- growth
+- learning
+- performance
+title: 突破技能瓶颈：外科医生阿图·葛文德谈教练的重要性
 ---
+
 ### 引言：专业人士的技能提升之路
 
 大家好，我是阿图·葛文德。我是一名外科医生、公共卫生领导者、研究员，同时也是一位作家。我著有四本《纽约时报》畅销书，包括《并发症》、《更好》、《清单革命》和《凡人》。

@@ -1,66 +1,64 @@
 ---
-author: Patrick Boyle
+area: market-analysis
+category: finance
+companies_orgs:
+- Apollo
+- Blue Owl
+- KKR
+- Ares
+- TPG
+- Blackstone
+- Carlyle
+- 3i
+- S&P
+- The Wall Street Journal
+- Berkshire Hathaway
+- AQR
+- CFA Institute
+- First Brands
+- Greensill
+- BlackRock
+- Defined Contribution Alternatives Association
+- Bloomberg
 date: '2025-10-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bain’s 2025 global private equity report
+people:
+- Donald Trump
+- Warren Buffett
+- Marc Rowan
+- Ludovic Phalippou
+- Cliff Asness
+products_models:
+- 401(k)
+- S&P 500
+- GLPE index
+- Magnificent Seven
+- Tesla
+- Broadcom
+- Lovable
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=bfUOPDOLHvE
 speaker: Patrick Boyle
-tags:
-  - private-equity
-  - leveraged-buyout
-  - 401k-investments
-  - market-underperformance
-  - volatility-laundering
-  - high-interest-rates
-title: 私募股权的隐秘危机：高利率时代的挑战与零售投资者风险
-summary: 尽管美国总统特朗普签署行政命令允许私募股权进入401(k)退休金系统，但公开上市的私募股权公司今年表现远逊于大盘。本文深入探讨了私募股权行业面临的困境，包括难以高价出售投资、过度依赖杠杆、以及通过“波动性洗钱”制造虚假稳定性的问题。文章还触及了私募股权对社会的影响，如医疗质量和反垄断担忧。在高利率环境下，私募股权的增长引擎正在熄火，其向零售投资者推销的“平稳回报”承诺正面临严峻现实。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Donald Trump
-  - Warren Buffett
-  - Marc Rowan
-  - Ludovic Phalippou
-  - Cliff Asness
-  - Patrick Boyle
-companies_orgs:
-  - Apollo
-  - Blue Owl
-  - KKR
-  - Ares
-  - TPG
-  - Blackstone
-  - Carlyle
-  - 3i
-  - S&P
-  - The Wall Street Journal
-  - Berkshire Hathaway
-  - AQR
-  - CFA Institute
-  - First Brands
-  - Greensill
-  - BlackRock
-  - Defined Contribution Alternatives Association
-  - Bloomberg
-products_models:
-  - 401(k)
-  - S&P 500
-  - GLPE index
-  - Magnificent Seven
-  - Tesla
-  - Broadcom
-  - Lovable
-media_books:
-  - Bain’s 2025 global private equity report
 status: evergreen
+summary: 尽管美国总统特朗普签署行政命令允许私募股权进入401(k)退休金系统，但公开上市的私募股权公司今年表现远逊于大盘。本文深入探讨了私募股权行业面临的困境，包括难以高价出售投资、过度依赖杠杆、以及通过“波动性洗钱”制造虚假稳定性的问题。文章还触及了私募股权对社会的影响，如医疗质量和反垄断担忧。在高利率环境下，私募股权的增长引擎正在熄火，其向零售投资者推销的“平稳回报”承诺正面临严峻现实。
+tags:
+- high-interest-rate
+- investment
+- market
+- private-equity
+- technology
+title: 私募股权的隐秘危机：高利率时代的挑战与零售投资者风险
 ---
+
 ### 私募股权表现不佳的现状与原因
 
 今年八月，特朗普总统签署了一项行政命令，允许**私募股权**（Private Equity, PE: 一种投资形式，通过收购非上市公司或上市公司私有化来获取股权）公司进入美国的**401(k)**（401(k): 美国雇主发起的退休金计划）系统。其宣称的目标是实现投资的民主化，即不再过度保护小型投资者，让他们能够与养老基金和主权财富基金经理在同一个领域竞争——但将退休储蓄交给像阿波罗（Apollo）这样的公司，似乎与“民主化”的说法格格不入。

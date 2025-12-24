@@ -1,50 +1,49 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York Times
+- Halliburton
+- GOP
+- White House
+- Customs and Border Patrol
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Dick Cheney
+- Tracy Mumford
+- George H.W. Bush
+- George W. Bush
+- Donald Trump
+- Andrew Cuomo
+- Zoran Mandani
+- Dave Phillips
+- Richard Dreyfuss
+products_models:
+- Medicare
+- TikTok
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=fBw-Y1qPqf0
 speaker: New York Times Podcasts
-tags:
-  - us-politics
-  - presidential-power
-  - government-shutdown
-  - campaign-finance
-  - gun-safety
-title: 迪克·切尼逝世，以及特朗普面临的三大权力考验
-summary: 本期播客涵盖多项重大新闻。首先回顾了迪克·切尼富有争议的政治生涯，包括他在海湾战争和伊拉克战争中的关键角色。接着，节目聚焦于时任总统特朗普面临的三大权力考验：全国选举日、最高法院对关税合法性的裁决，以及政府停摆危机。此外，还提及了白宫舞厅资金透明度问题、科罗拉多州移民执法事件，以及一项关于室内射击场枪声冲击波导致脑损伤的调查。最后，简要介绍了虎鲸捕食大白鲨的新发现。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Dick Cheney
-  - Tracy Mumford
-  - George H.W. Bush
-  - George W. Bush
-  - Donald Trump
-  - Andrew Cuomo
-  - Zoran Mandani
-  - Dave Phillips
-  - Richard Dreyfuss
-companies_orgs:
-  - New York Times
-  - Halliburton
-  - GOP
-  - White House
-  - Customs and Border Patrol
-products_models:
-  - Medicare
-  - TikTok
-media_books:
-  - The Daily
 status: evergreen
+summary: 本期播客涵盖多项重大新闻。首先回顾了迪克·切尼富有争议的政治生涯，包括他在海湾战争和伊拉克战争中的关键角色。接着，节目聚焦于时任总统特朗普面临的三大权力考验：全国选举日、最高法院对关税合法性的裁决，以及政府停摆危机。此外，还提及了白宫舞厅资金透明度问题、科罗拉多州移民执法事件，以及一项关于室内射击场枪声冲击波导致脑损伤的调查。最后，简要介绍了虎鲸捕食大白鲨的新发现。
+tags:
+- finance
+- government-shutdown
+- presidential-power
+- safety
+title: 迪克·切尼逝世，以及特朗普面临的三大权力考验
 ---
+
 ### 迪克·切尼：一位有争议的副总统
 
 迪克·切尼，被广泛认为是美国历史上最有权势的**副总统**，享年84岁。

@@ -1,70 +1,70 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- NVIDIA
+- OpenAI
+- Microsoft
+- Oracle
+- CoreWeave
+- xAI
+- Anthropic
+- Amazon
+- Google
+- Meta
+- Snapchat
+- Verizon
+- LG Electronics
+- Adobe
+- Netflix
+- Twitch
+- DBS
+- Lufthansa
+- Snowflake
+- Databricks
+- Crusoe
+- Lambda
+- Applied Digital
+- Nscale
+- Intel
+- ARM
+- AMD
+- IREN
+- CIFR
+- Nebius
 date: '2025-09-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bg2 Podt
+people:
+- Jensen Huang
+- Elon Musk
+products_models:
+- Colossus 1
+- Colossus 2
+- Grok 4
+- TPU
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=oOL-wXyJGmw
 speaker: Money or Life 美股频道
-tags:
-  - ai-infrastructure
-  - market-bubble
-  - demand-supply-dynamics
-  - accelerated-computing
-  - investment-outlook
-title: AI基础设施是否存在泡沫？黄仁勋深度解析与投资策略
-summary: 本期视频深入探讨了当前AI基础设施市场是否存在泡沫。结合英伟达（NVIDIA）首席执行官黄仁勋（Jensen Huang）的访谈内容，视频分析了GPU供应商、超大规模云服务商、新兴云巨头和AI用户之间的复杂关系。黄仁勋认为，从通用计算向高性能计算的转变，以及巨大的存量市场需求，表明AI基础设施并无泡沫。视频还分享了对NeoCloud公司的投资策略和定制化芯片的看法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Jensen Huang
-  - Elon Musk
-companies_orgs:
-  - NVIDIA
-  - OpenAI
-  - Microsoft
-  - Oracle
-  - CoreWeave
-  - xAI
-  - Anthropic
-  - Amazon
-  - Google
-  - Meta
-  - Snapchat
-  - Verizon
-  - LG Electronics
-  - Adobe
-  - Netflix
-  - Twitch
-  - DBS
-  - Lufthansa
-  - Snowflake
-  - Databricks
-  - Crusoe
-  - Lambda
-  - Applied Digital
-  - Nscale
-  - Intel
-  - ARM
-  - AMD
-  - IREN
-  - CIFR
-  - Nebius
-products_models:
-  - Colossus 1
-  - Colossus 2
-  - Grok 4
-  - TPU
-media_books:
-  - Bg2 Podt
 status: evergreen
+summary: 本期视频深入探讨了当前AI基础设施市场是否存在泡沫。结合英伟达（NVIDIA）首席执行官黄仁勋（Jensen Huang）的访谈内容，视频分析了GPU供应商、超大规模云服务商、新兴云巨头和AI用户之间的复杂关系。黄仁勋认为，从通用计算向高性能计算的转变，以及巨大的存量市场需求，表明AI基础设施并无泡沫。视频还分享了对NeoCloud公司的投资策略和定制化芯片的看法。
+tags:
+- accelerated-computing
+- ai-infrastructure
+- dynamic
+- investment-outlook
+- market-bubble
+title: AI基础设施是否存在泡沫？黄仁勋深度解析与投资策略
 ---
+
 ### AI基础设施的泡沫之辩与黄仁勋的视角
 
 欢迎来到Money or Life美股频道。本期视频将深入探讨**AI基础设施**（AI Infrastructure: 指支持人工智能模型训练、部署和运行所需的硬件、软件和服务，包括GPU、数据中心、云服务等）领域是否存在泡沫。希望通过本次讨论，观众能对AI基础设施的现状及未来发展有更深刻的理解。订阅本频道，您将获得AI基础设施、太空及其他热门板块的个股分析和实时消息解读。

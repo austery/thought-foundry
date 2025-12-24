@@ -1,46 +1,44 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-05-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Chuan Xi Lu
+- The Courage to Be Disliked
+people:
+- Wang Yangming
+- Zeng Guofan
+- Mao Zedong
+- Liu Jin
+- Tang Bohu
+- Togo Heihachiro
+- Saigo Takamori
+- Nakae Fujiki
+- Ichiro Kishimi
+- Li Zicheng
+- Zhang Xianzhong
+- Zhu Yuanzhang
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=PAiRenjPK0I
 speaker: Anthony看世界
-tags:
-  - wang-yangming-philosophy
-  - chinese-cultural-involution
-  - authoritarianism
-  - historical-influence
-  - moral-philosophy
-title: 王阳明心学：从心灵导师到冷酷将领的矛盾解析
-summary: 本视频深入探讨了王阳明心学在当代中国和日本的流行，及其对20世纪中国革命的深远影响。文章揭示了王阳明思想中强调个人觉醒与知行合一的吸引力，但也剖析了其哲学与他作为冷酷将领的实际行动之间的显著矛盾，例如他镇压叛乱时的残酷手段。通过追溯心学的思想渊源，视频旨在揭示这种矛盾背后中国文化“内卷”的深层必然性，并探讨其对中国历史和思维方式的塑造作用。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Wang Yangming
-  - Zeng Guofan
-  - Mao Zedong
-  - Liu Jin
-  - Tang Bohu
-  - Togo Heihachiro
-  - Saigo Takamori
-  - Nakae Fujiki
-  - Ichiro Kishimi
-  - Li Zicheng
-  - Zhang Xianzhong
-  - Zhu Yuanzhang
-companies_orgs: []
-products_models: []
-media_books:
-  - Chuan Xi Lu
-  - The Courage to Be Disliked
 status: evergreen
+summary: 本视频深入探讨了王阳明心学在当代中国和日本的流行，及其对20世纪中国革命的深远影响。文章揭示了王阳明思想中强调个人觉醒与知行合一的吸引力，但也剖析了其哲学与他作为冷酷将领的实际行动之间的显著矛盾，例如他镇压叛乱时的残酷手段。通过追溯心学的思想渊源，视频旨在揭示这种矛盾背后中国文化“内卷”的深层必然性，并探讨其对中国历史和思维方式的塑造作用。
+tags:
+- authoritarianism
+- cultural
+- historical
+- philosophy
+title: 王阳明心学：从心灵导师到冷酷将领的矛盾解析
 ---
 
 ### 开启新系列：王阳明心学与中国社会

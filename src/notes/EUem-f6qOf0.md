@@ -1,60 +1,60 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 东京人文论坛
+- 中国同盟会
+- 黑龙会
+- 法政大学
+- 早稻田大学
+- 京都大学
+- 清朝政府
+- 文部省
+- 外务省
+- 朝日新闻
 date: '2025-06-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《一时亦友一敌》
+- 《劝学篇》
+- 《流东外史》
+- 《日本国志》
+people:
+- 孙文
+- 梁启超
+- 张之洞
+- 李鸿章
+- 毛泽东
+- 蒋介石
+- 陈天华
+- 西园寺公望
+- 荣禄
+- 杨朔
+- 黄遵宪
+- 康有为
+- 王兆铭
+- 阎锡山
+- 盛世才
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=EUem-f6qOf0
 speaker: 东京人文论坛
-tags:
-  - sino-japanese-relations
-  - historical-narrative-distortion
-  - study-abroad-motivation
-  - concept-of-revolution
-title: 近代中国留日史：一场寻求强国之道的冒险，而非革命之旅
-summary: 本讲座深入剖析了近代中国人留学日本的真实动机，有力地论证了其核心目的并非如传统叙事中所言的“寻求革命真理”，而是为了学习日本在甲午战争和日俄战争后迅速崛起的强国经验。讲者通过详实的史料，揭示了清政府在推动留日运动中的积极角色，并解构了“革命”、“民族主义”等关键概念在历史话语中被歪曲的过程。文章指出，对于当时的中国青年而言，留学日本更像是一个实现个人抱负、迅速出人头地的“冒险家乐园”，而非一场纯粹的意识形态朝圣。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 孙文
-  - 梁启超
-  - 张之洞
-  - 李鸿章
-  - 毛泽东
-  - 蒋介石
-  - 陈天华
-  - 西园寺公望
-  - 荣禄
-  - 杨朔
-  - 黄遵宪
-  - 康有为
-  - 王兆铭
-  - 阎锡山
-  - 盛世才
-companies_orgs:
-  - 东京人文论坛
-  - 中国同盟会
-  - 黑龙会
-  - 法政大学
-  - 早稻田大学
-  - 京都大学
-  - 清朝政府
-  - 文部省
-  - 外务省
-  - 朝日新闻
-products_models: []
-media_books:
-  - 《一时亦友一敌》
-  - 《劝学篇》
-  - 《流东外史》
-  - 《日本国志》
 status: evergreen
+summary: 本讲座深入剖析了近代中国人留学日本的真实动机，有力地论证了其核心目的并非如传统叙事中所言的“寻求革命真理”，而是为了学习日本在甲午战争和日俄战争后迅速崛起的强国经验。讲者通过详实的史料，揭示了清政府在推动留日运动中的积极角色，并解构了“革命”、“民族主义”等关键概念在历史话语中被歪曲的过程。文章指出，对于当时的中国青年而言，留学日本更像是一个实现个人抱负、迅速出人头地的“冒险家乐园”，而非一场纯粹的意识形态朝圣。
+tags:
+- historical-narrative-distortion
+- revolution
+- science
+- sino-japanese-relations
+title: 近代中国留日史：一场寻求强国之道的冒险，而非革命之旅
 ---
+
 ### 海外文化沙龙的价值与多元社会的重要性
 
 我出身于大学，说话时可能不免带些学院气。如果大家听不清楚，任何时候都可以提问或打断我。东京人文论坛是一个非常有意思的组织。在认识武类先生之后，我确实觉得自己的思想开阔了很多。

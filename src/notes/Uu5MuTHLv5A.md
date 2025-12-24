@@ -1,57 +1,57 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 德云社
+- 巴西国家石油公司
+- NTV
+- 联合国
+- 危地马拉反有罪不罚国际委员会
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《圣保罗夜报》
+- 《巴西环球电视台》
+- 《这就是中国》
+- 《使民主运转起来》
+people:
+- 姚明
+- 沙奎尔·奥尼尔
+- 埃隆·马斯克
+- 拉卢·普拉萨德·亚达夫
+- 高晓松
+- 迪尔玛·罗塞夫
+- 路易斯·伊纳西奥·卢拉·达席尔瓦
+- 弗拉基米尔·普京
+- 周强
+- 张维维
+- 奥托·佩雷斯·莫利纳
+- 伊万·贝拉斯克斯·戈麦斯
+- 吉米·莫拉莱斯
+- 卡洛斯·安德烈斯·佩雷斯
+products_models: []
+project:
+- systems-thinking
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Uu5MuTHLv5A
 speaker: 夸克说
-tags:
-  - democratic-quality
-  - state-capacity
-  - fiscal-structure
-  - party-competition
-  - judicial-independence
-  - social-trust
-title: 劣质民主国家为何步履维艰？优质民主与劣质民主的六大分水岭
-summary: 本视频深入探讨了为何部分民主国家发展不尽如人意，甚至出现政变和高通胀等问题。通过驳斥常见的逻辑谬误，视频指出民主并非万能药，并区分了“形式民主”与“实质性民主”。文章详细阐述了决定民主质量的六大关键因素：国家能力、财政结构、政党竞争方式、媒体独立与新闻自由、司法独立以及社会信任与公民合作文化，并结合巴西、俄罗斯、委内瑞拉、印度等国案例，揭示了这些因素如何影响一个国家的治理水平和发展轨迹。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - systems-thinking
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 姚明
-  - 沙奎尔·奥尼尔
-  - 埃隆·马斯克
-  - 拉卢·普拉萨德·亚达夫
-  - 高晓松
-  - 迪尔玛·罗塞夫
-  - 路易斯·伊纳西奥·卢拉·达席尔瓦
-  - 弗拉基米尔·普京
-  - 周强
-  - 张维维
-  - 奥托·佩雷斯·莫利纳
-  - 伊万·贝拉斯克斯·戈麦斯
-  - 吉米·莫拉莱斯
-  - 卡洛斯·安德烈斯·佩雷斯
-companies_orgs:
-  - 德云社
-  - 巴西国家石油公司
-  - NTV
-  - 联合国
-  - 危地马拉反有罪不罚国际委员会
-products_models: []
-media_books:
-  - 《圣保罗夜报》
-  - 《巴西环球电视台》
-  - 《这就是中国》
-  - 《使民主运转起来》
 status: evergreen
+summary: 本视频深入探讨了为何部分民主国家发展不尽如人意，甚至出现政变和高通胀等问题。通过驳斥常见的逻辑谬误，视频指出民主并非万能药，并区分了“形式民主”与“实质性民主”。文章详细阐述了决定民主质量的六大关键因素：国家能力、财政结构、政党竞争方式、媒体独立与新闻自由、司法独立以及社会信任与公民合作文化，并结合巴西、俄罗斯、委内瑞拉、印度等国案例，揭示了这些因素如何影响一个国家的治理水平和发展轨迹。
+tags:
+- competition
+- democratic
+- financial
+- judicial-independence
+- social
+- state
+title: 劣质民主国家为何步履维艰？优质民主与劣质民主的六大分水岭
 ---
+
 大家好，欢迎收看夸克说，我是夸克。不久前有观众发来邮件，问了这么个问题，说他经常在网上跟“粉红们”辩论，争到最后，对方总会来一句：“民主也不是万能的，世界上有很多民主国家都发展不咋地，有的地方还隔三差五搞政变，三天两头打仗呢。阿根廷是民主国家吧，连通胀率都200%。”他觉得对方似乎在偷换概念，但也不知道该如何反驳，所以希望我聊聊这个事。正好之前我其实也收到过类似的邮件，这里就一并汇总，深入聊聊这个话题。
 
 ### 驳斥对民主制度的常见谬误

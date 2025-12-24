@@ -1,54 +1,52 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 小翠时政财经
+- Berkshire Hathaway
+- Oracle
+- Morgan Stanley
+- Google
+- Meta
+- Amazon
+- Microsoft
+- OpenAI
+- Anthropic
+- Nvidia
+- AMD
+- TSMC
+- Costco
+- Walmart
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Warren Buffett
+- Donald Trump
+products_models:
+- 文心大模型5.0
+- 通义
+- ChatGPT
+- GPU
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=ydXPYyH-zyc
 speaker: 小翠時政財經
-tags:
-  - global-market-volatility
-  - ai-bubble
-  - finance-leases
-  - china-economy
-  - investment-strategy
-title: 全球股市震荡：AI泡沫下的金融工程与中国经济挑战
-summary: 本期节目深入分析了近期全球股市的剧烈波动，特别是美股“黑色星期四”的成因，包括美联储鹰派言论、经济数据缺失及科技股估值回调。节目揭示了AI泡沫背后科技巨头通过融资租赁隐藏负债的金融工程，以及英伟达在此格局中的独特优势。同时，也探讨了中国10月经济数据的疲软表现，以及税务部门对海外收入的严格征税。最后，主持人分享了穿越周期的指数定投策略，并强调了在当前市场环境下风险管理的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Warren Buffett
-  - Donald Trump
-companies_orgs:
-  - 小翠时政财经
-  - Berkshire Hathaway
-  - Oracle
-  - Morgan Stanley
-  - Google
-  - Meta
-  - Amazon
-  - Microsoft
-  - OpenAI
-  - Anthropic
-  - Nvidia
-  - AMD
-  - TSMC
-  - Costco
-  - Walmart
-products_models:
-  - 文心大模型5.0
-  - 通义
-  - ChatGPT
-  - GPU
-media_books: []
 status: evergreen
+summary: 本期节目深入分析了近期全球股市的剧烈波动，特别是美股“黑色星期四”的成因，包括美联储鹰派言论、经济数据缺失及科技股估值回调。节目揭示了AI泡沫背后科技巨头通过融资租赁隐藏负债的金融工程，以及英伟达在此格局中的独特优势。同时，也探讨了中国10月经济数据的疲软表现，以及税务部门对海外收入的严格征税。最后，主持人分享了穿越周期的指数定投策略，并强调了在当前市场环境下风险管理的重要性。
+tags:
+- ai-bubble
+- china-economy
+- finance
+- global-market-volatility
+title: 全球股市震荡：AI泡沫下的金融工程与中国经济挑战
 ---
+
 ### 市场概览：A股、港股与日本股市表现
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月14日，我知道大家今天的心情一定都不太好，因为市场表现不佳。不过请放心，今天我一定会给大家带来透彻的分析。

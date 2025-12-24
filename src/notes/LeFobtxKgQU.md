@@ -5,14 +5,11 @@ area: null
 category: null
 project: []
 tags:
-  - 智能驾驶
-  - 汽车安全
-  - 自动驾驶
-people: []
+- automotive-safety
+- autonomous-driving
 companies_orgs:
 - 特斯拉
 products_models: []
-media_books: []
 date: 2025-07-25
 author: Lei
 speaker: 徒步的騎手
@@ -25,6 +22,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=LeFobtxKgQU&t
 ---
+
 ## 国内自动驾驶的炒作与乱象
 
 各位好。这两年国内车企疯狂炒作自动驾驶，炒作热度让发明自动驾驶的美国市场都望尘莫及。一些车主相信车厂的虚假广告，把**辅助驾驶**当成**全自动驾驶**来用，导致车毁人亡。发生事故以后车企大多是撇清关系，指责车主操作不当。他们说驾驶手册和购车合同都写的清清楚楚，除了事故，责任全在车主，跟车厂无关。

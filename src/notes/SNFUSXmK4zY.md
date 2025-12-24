@@ -1,64 +1,64 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- The Economist
+- 北京大学
+- Citi
+- UBS
+- 《人民日报》
+- United Steelworkers
+- Office of the United States Trade Representative
+- National Retail Federation
+- COSCO Group
+- OOCL
+- Everland
+- Drewry
+- CMA CGM
+- Maersk
+- MSC
+- Goldman Sachs
+- International Energy Agency
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《经济学人》
+- 《人民日报》
+- 《政治报》
+- 《金融时报》
+- 路透社
+people:
+- Xi Jinping
+- Donald Trump
+- 陆峰
+- 彭森
+- Scott Bessent
+- 何立峰
+- Janet Yellen
+- Ursula von der Leyen
+- John McCown
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=SNFUSXmK4zY
 speaker: FearNation 世界苦茶
-tags:
-  - china-five-year-plan
-  - new-quality-productive-forces
-  - us-china-trade-war
-  - supply-chain-weaponization
-  - domestic-consumption
-title: 中国经济路线之争：十五五规划、贸易战与全球供应链的未来
-summary: 本期节目深入分析了中国第十五个五年规划背后的经济路线之争，探讨了以“新质生产力”为核心的高端制造业发展与国内消费疲软之间的矛盾。同时，节目详细解读了中美贸易战的新前线，包括海运与造船业的港口费冲突、稀土出口管制引发的供应链武器化，以及双方在APEC峰会前夕的极限施压。文章从批判性视角审视了中国经济模式的韧性、潜在风险及其对全球贸易格局的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-  - Donald Trump
-  - 陆峰
-  - 彭森
-  - Scott Bessent
-  - 何立峰
-  - Janet Yellen
-  - Ursula von der Leyen
-  - John McCown
-companies_orgs:
-  - The Economist
-  - 北京大学
-  - Citi
-  - UBS
-  - 《人民日报》
-  - United Steelworkers
-  - Office of the United States Trade Representative
-  - National Retail Federation
-  - COSCO Group
-  - OOCL
-  - Everland
-  - Drewry
-  - CMA CGM
-  - Maersk
-  - MSC
-  - Goldman Sachs
-  - International Energy Agency
-products_models: []
-media_books:
-  - 《经济学人》
-  - 《人民日报》
-  - 《政治报》
-  - 《金融时报》
-  - 路透社
 status: evergreen
+summary: 本期节目深入分析了中国第十五个五年规划背后的经济路线之争，探讨了以“新质生产力”为核心的高端制造业发展与国内消费疲软之间的矛盾。同时，节目详细解读了中美贸易战的新前线，包括海运与造船业的港口费冲突、稀土出口管制引发的供应链武器化，以及双方在APEC峰会前夕的极限施压。文章从批判性视角审视了中国经济模式的韧性、潜在风险及其对全球贸易格局的深远影响。
+tags:
+- china
+- consumption
+- quality
+- supply-chain-weaponization
+- us-china-relations
+title: 中国经济路线之争：十五五规划、贸易战与全球供应链的未来
 ---
+
 ### 中国“十五五规划”：高科技雄心与民生现实的权衡
 
 本期节目汇总全球智库和国际媒体对中国问题的深度分析。第一篇文章来自《经济学人》，题为“习近平亲自参与中国新的5年规划”。文章揭示了一场即将在北京京西宾馆上演的、关乎中国未来十年经济路线的重大抉择。这不是一次普通的会议，而是决定世界第二大经济体航向的关键时刻。文章标题点明了一个核心信息：中国最高领导人习近平正在亲自塑造这份规划的每一个细节。

@@ -1,50 +1,50 @@
 ---
-author: INDIGO 数字镜像
+area: society-systems
+category: general
+companies_orgs:
+- Tesla
+- Nvidia
+- Palantir
+- Amazon
+- SpaceX
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《头号玩家》
+- 《死亡搁浅》
+people:
+- Amber
+- 李路成
+- Elon Musk
+- Donald Trump
+- Jensen Huang
+- Andrej Karpathy
+- Geoffrey Hinton
+- Mark Zuckerberg
+products_models:
+- ChatGPT
+- GPT-4o
+- Meta Horizon Worlds
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=h6hpxZUgalQ
 speaker: INDIGO 数字镜像
-tags:
-  - future-of-work
-  - human-value
-  - ai-and-society
-  - cultural-comparison
-title: AI时代，当工作不再定义我们：重建人类价值与生活意义
-summary: 当AI逐渐接管我们的工作，人类的价值将如何重新定义？本期对话深入探讨了AI泡沫的本质、其对社会结构带来的冲击，以及“资本做空人类”的现实。嘉宾从科技和风险投资的视角，辩论了虚拟经济与真实体验的未来，并剖析了日本社会中独特的“人感”价值。最终，对话回归到一个核心问题：在一个工作不再是必需品的未来，什么才是人类最珍贵的特质？是好奇心、品味，还是情感与包容？
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Amber
-  - 李路成
-  - Elon Musk
-  - Donald Trump
-  - Jensen Huang
-  - Andrej Karpathy
-  - Geoffrey Hinton
-  - Mark Zuckerberg
-companies_orgs:
-  - Tesla
-  - Nvidia
-  - Palantir
-  - Amazon
-  - SpaceX
-products_models:
-  - ChatGPT
-  - GPT-4o
-  - Meta Horizon Worlds
-media_books:
-  - 《头号玩家》
-  - 《死亡搁浅》
 status: evergreen
+summary: 当AI逐渐接管我们的工作，人类的价值将如何重新定义？本期对话深入探讨了AI泡沫的本质、其对社会结构带来的冲击，以及“资本做空人类”的现实。嘉宾从科技和风险投资的视角，辩论了虚拟经济与真实体验的未来，并剖析了日本社会中独特的“人感”价值。最终，对话回归到一个核心问题：在一个工作不再是必需品的未来，什么才是人类最珍贵的特质？是好奇心、品味，还是情感与包容？
+tags:
+- cultural
+- future-of-work
+- human
+- society
+title: AI时代，当工作不再定义我们：重建人类价值与生活意义
 ---
+
 ### 开场：在温哥华的红叶季，聊聊AI与生活
 
 **Indigo:** 欢迎回到 Indigo Talk，今天是一个特别场，我们在线下进行。之前节目里都是两个大脑袋出现在屏幕前，今天我们的话题也会比较轻松一些，不会那么正式，以一种放松的方式来聊一些深刻的话题。我们现在身处一个看上去非常舒适的生活环境里，所以今天我邀请了一位来自日本的朋友，Amber。

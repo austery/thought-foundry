@@ -1,46 +1,43 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Starbucks
+- Chipotle
+- Nike
+- Alibaba
+- Google
+- Pershing Square Capital Management
+- Taco Bell
 date: '2024-08-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金钱心理学》
+people:
+- Brian Niccol
+- Bill Ackman
+- Michael Burry
+- Carl Icahn
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=e1Vjkb-2OME
 speaker: Shijun Tang
-tags:
-  - value-investing
-  - security-margin
-  - concentrated-portfolio
-  - etf-misuse
-  - corporate-governance
-title: 超级投资大佬的持仓动向与价值投资真谛：从星巴克到阿里、耐克与谷歌的深层分析
-summary: 本片深入解析了星巴克、耐克、阿里和谷歌等公司的最新动态与投资逻辑，揭示了价值投资者如何通过集中持股、深入分析公司基本面和严守安全边际来实现非凡回报，而非依赖投机或ETF躺赢。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Shijun Tang
-  - Brian Niccol
-  - Bill Ackman
-  - Michael Burry
-  - Carl Icahn
-companies_orgs:
-  - Starbucks
-  - Chipotle
-  - Nike
-  - Alibaba
-  - Google
-  - Pershing Square Capital Management
-  - Taco Bell
-products_models: []
-media_books:
-  - 《金钱心理学》
 status: evergreen
+summary: 本片深入解析了星巴克、耐克、阿里和谷歌等公司的最新动态与投资逻辑，揭示了价值投资者如何通过集中持股、深入分析公司基本面和严守安全边际来实现非凡回报，而非依赖投机或ETF躺赢。
+tags:
+- corporate-governance
+- investment
+- security
+title: 超级投资大佬的持仓动向与价值投资真谛：从星巴克到阿里、耐克与谷歌的深层分析
 ---
+
 ### 星巴克换帅与Chipotle的传奇CEO：一次完美交接
 
 本周最大的财经事件之一，是星巴克任命了新任首席执行官Brian Niccol。这位高管此前担任Chipotle的CEO，在其任职期间，Chipotle的股价从不足7美元飙升至69.26美元，涨幅高达1207.3%，即翻了超过13倍。他的领导力不仅体现在营收增长上，更重塑了公司的财务健康与品牌声誉。

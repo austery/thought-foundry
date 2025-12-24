@@ -1,45 +1,44 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Peel Black Collective
+- Black Education Fund
+- Ontario Human Rights Commission
+- Peel Regional Police
+- OPP
+- Ministry of Education
+- Peel District School Board
+- Global News
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Leeann Cole
+- David Bosveld
+- George Floyd
+products_models:
+- Bill 33
+- Supporting Children and Students Act
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ZzTnP-aX_ro
 speaker: TVO Today
-tags:
-  - school-resource-officer
-  - school-safety
-  - systemic-racism
-  - education-policy
-  - marginalized-communities
-title: 学校是否应有警察驻守？安大略省SRO项目争议
-summary: 安大略省政府提议通过《支持儿童和学生法案》（Bill 33）重新引入学校资源官（SRO）项目，旨在保护学生并建立信任。然而，批评者认为该项目未能解决校园暴力的根本原因，反而可能让边缘化学生感到不安全。本文深入探讨了SRO项目的利弊，回顾了其在2020年因系统性危害（尤其对黑人和原住民学生）而终止的历史，并讨论了当前关于校园安全、资源配置以及对不同社区影响的激烈辩论。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Leeann Cole
-  - David Bosveld
-  - George Floyd
-companies_orgs:
-  - Peel Black Collective
-  - Black Education Fund
-  - Ontario Human Rights Commission
-  - Peel Regional Police
-  - OPP
-  - Ministry of Education
-  - Peel District School Board
-  - Global News
-products_models:
-  - Bill 33
-  - Supporting Children and Students Act
-media_books: []
 status: evergreen
+summary: 安大略省政府提议通过《支持儿童和学生法案》（Bill 33）重新引入学校资源官（SRO）项目，旨在保护学生并建立信任。然而，批评者认为该项目未能解决校园暴力的根本原因，反而可能让边缘化学生感到不安全。本文深入探讨了SRO项目的利弊，回顾了其在2020年因系统性危害（尤其对黑人和原住民学生）而终止的历史，并讨论了当前关于校园安全、资源配置以及对不同社区影响的激烈辩论。
+tags:
+- marginalized-community
+- policy
+- safety
+- society
+- systemic-racism
+title: 学校是否应有警察驻守？安大略省SRO项目争议
 ---
+
 ### 引言与SRO项目背景
 
 政府表示，在学校中配备警官将保护学生并建立信任。但另一些人则认为，**SRO**（School Resource Officer: 学校资源官，指派到学校的警官）项目无法解决暴力的根本原因，反而会让一些学生感到不安全。那么，数据告诉我们什么？

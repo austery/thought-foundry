@@ -1,50 +1,49 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Nvidia
+- 苹果
+- 超威半导体 (AMD)
+- 礼来
+- 富士康
+- 博克希尔·哈撒韦
 date: '2024-12-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- 查理·芒格
+- 沃伦·巴菲特
+- Lisa Su
+products_models:
+- Mounjaro
+- Radeon
+- iPhone
+- iPad
+- Mac
+- Apple Watch
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=R_gl9xXjHac
 speaker: Shijun Tang
-tags:
-  - value-investing
-  - behavioral-finance
-  - security-margin
-  - cash-flow-analysis
-  - investment-psychology
-title: 为什么我没买英伟达：价值投资在高增长公司面前的坚守
-summary: 唐石峻通过分析英伟达、苹果、AMD与礼来等公司的基本面，阐述了价值投资的核心逻辑：不因市场狂热而偏离安全边际原则，强调情绪管理与行为差距对投资成败的决定性影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - 唐石峻
-  - 查理·芒格
-  - 沃伦·巴菲特
-  - Lisa Su
-companies_orgs:
-  - 英伟达
-  - 苹果
-  - 超威半导体 (AMD)
-  - 礼来
-  - 富士康
-  - 博克希尔·哈撒韦
-products_models:
-  - Mounjaro
-  - Radeon
-  - iPhone
-  - iPad
-  - Mac
-  - Apple Watch
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 唐石峻通过分析英伟达、苹果、AMD与礼来等公司的基本面，阐述了价值投资的核心逻辑：不因市场狂热而偏离安全边际原则，强调情绪管理与行为差距对投资成败的决定性影响。
+tags:
+- analysis
+- behavioral-finance
+- investment-psychology
+- security
+title: 为什么我没买英伟达：价值投资在高增长公司面前的坚守
 ---
+
 ### 英伟达：全球最好的公司，但我依然不买
 
 据说只要在美股内容中提到英伟达，流量就能提升30%。但投资确实改变了我的性格——也可能本就如此：我历来不随大流。我创作内容的初衷，是为世界提供价值，而非追逐热度。不过今天，我们还是来认真聊聊英伟达。

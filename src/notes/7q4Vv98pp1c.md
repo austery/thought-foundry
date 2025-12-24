@@ -1,63 +1,62 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Hudson's Bay Company
+- CBC
+- G7
+- Canada Border Services Agency
 date: '2025-06-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Charles III
+- Camilla
+- Donald Trump
+- Elizabeth II
+- Mary Simon
+- Whit Fraser
+- Steven Guilbeault
+- Raymond Gagné
+- Francis Scarpaleggia
+- Kim Campbell
+- Stephen Harper
+- Justin Trudeau
+- Margaret Trudeau
+- Mila Mulroney
+- David Johnston
+- Adrienne Clarkson
+- Michaëlle Jean
+- Jean Chrétien
+- Jennie Carignan
+- Pierre Poilievre
+- Anita Poilievre
+- Marc Gold
+- Leo Housakos
+- Morgan Grace
+- J. Greg Peters
+- Mark Carney
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=7q4Vv98pp1c
 speaker: 莊也雜談
-tags:
-  - canadian-sovereignty
-  - royal-visit
-  - throne-speech
-  - canada-us-relations
-  - government-policy
-title: 查爾斯三世國王閃電訪加：御座演講背後的加拿大主權宣言與未來政策藍圖
-summary: 2025年5月，查爾斯三世國王閃電訪問加拿大，主持議會開幕並發表御座演講。此次訪問不僅是禮儀性活動，更被視為加拿大在面對美國潛在主權威脅時，對國家主權和憲政君主制的莊嚴宣示。演講詳細闡述了卡尼政府未來在經濟、社會、國防、移民等領域的施政綱領，強調加拿大將團結一致，應對全球挑戰，並重塑其國際定位，旨在成為一個堅強而自由的北方超級大國。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Charles III
-  - Camilla
-  - Donald Trump
-  - Elizabeth II
-  - Mary Simon
-  - Whit Fraser
-  - Steven Guilbeault
-  - Raymond Gagné
-  - Francis Scarpaleggia
-  - Kim Campbell
-  - Stephen Harper
-  - Justin Trudeau
-  - Margaret Trudeau
-  - Mila Mulroney
-  - David Johnston
-  - Adrienne Clarkson
-  - Michaëlle Jean
-  - Jean Chrétien
-  - Jennie Carignan
-  - Pierre Poilievre
-  - Anita Poilievre
-  - Marc Gold
-  - Leo Housakos
-  - Morgan Grace
-  - J. Greg Peters
-  - Mark Carney
-companies_orgs:
-  - Hudson's Bay Company
-  - CBC
-  - G7
-  - Canada Border Services Agency
-products_models: []
-media_books: []
 status: evergreen
+summary: 2025年5月，查爾斯三世國王閃電訪問加拿大，主持議會開幕並發表御座演講。此次訪問不僅是禮儀性活動，更被視為加拿大在面對美國潛在主權威脅時，對國家主權和憲政君主制的莊嚴宣示。演講詳細闡述了卡尼政府未來在經濟、社會、國防、移民等領域的施政綱領，強調加拿大將團結一致，應對全球挑戰，並重塑其國際定位，旨在成為一個堅強而自由的北方超級大國。
+tags:
+- canada-us-relations
+- canadian
+- government-policy
+- royal-visit
+- throne-speech
+title: 查爾斯三世國王閃電訪加：御座演講背後的加拿大主權宣言與未來政策藍圖
 ---
+
 ### 查爾斯三世國王訪加：御座演講的深層意義
 
 當一位國王發表一場看似禮儀性的演講時，其背後究竟隱藏著怎樣的深意？2025年5月26日至27日，**查爾斯三世國王**（Charles III: 英國及英聯邦國家君主）閃電般訪問加拿大，不僅僅是為了主持一個簡單的議會開幕式，更上演了一場政治與外交的精彩大戲。從盛大的皇家儀式到針鋒相對的**主權宣言**（Sovereignty Declaration: 國家獨立自主的正式聲明），這場訪問如同精心布局的棋局，暗中向南邊的美國發出了一個主權聲明。

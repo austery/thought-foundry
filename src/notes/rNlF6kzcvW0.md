@@ -1,65 +1,66 @@
 ---
-author: 老周横眉
+area: society-systems
+category: business
+companies_orgs:
+- 泡泡玛特
+- BLACKPINK
+- 天猫
+- 香港交易所
+- 孩之宝
+- 美泰
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《纽约时报》
+- '《Future Gamblers: A longitudinal study on young people''s transfer from loot box
+  spending to gambling》'
+people:
+- 王信明
+- Lisa
+- 卡戴珊
+- 蕾哈娜
+- 希拉里·达芙
+- 杜阿·利帕
+- 龙家升
+products_models:
+- Molly
+- Labubu
+- 变形金刚
+- 星球大战
+- 大富翁
+- 培乐多
+- 芭比娃娃
+- 白雪公主
+- 托马斯小火车
+- 健达奇趣蛋
+- 麦当劳开心乐园餐
+- 盲盒
+- 扭蛋
+- 装备箱
+- 道具箱
+project:
+- china-analysis
+- entrepreneurship
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=rNlF6kzcvW0
 speaker: 老周横眉
-tags:
-  - blind-box-economy
-  - consumer-psychology
-  - addiction-mechanisms
-  - youth-gambling-risk
-  - gen-z-culture
-  - unboxing-experience
-  - regulatory-challenges
-title: 盲盒经济：泡泡玛特如何征服全球，及其背后的成瘾机制与监管挑战
-summary: 本期深入探讨了中国潮流玩具公司泡泡玛特的全球崛起现象，分析了盲盒模式背后的商业逻辑、消费心理和潜在成瘾机制。文章详细阐述了盲盒如何满足Z世代的情绪价值和社交需求，同时揭示了其与赌博行为在心理学上的相似性，并讨论了其对青少年可能产生的风险。通过对比游戏中的“装备箱”监管案例，呼吁社会对实体盲盒的潜在社会问题进行关注和探讨。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - china-analysis
-  - entrepreneurship
-  - cultural-critique
-people:
-  - 王信明
-  - Lisa
-  - 卡戴珊
-  - 蕾哈娜
-  - 希拉里·达芙
-  - 杜阿·利帕
-  - 龙家升
-companies_orgs:
-  - 泡泡玛特
-  - BLACKPINK
-  - 天猫
-  - 香港交易所
-  - 孩之宝
-  - 美泰
-products_models:
-  - Molly
-  - Labubu
-  - 变形金刚
-  - 星球大战
-  - 大富翁
-  - 培乐多
-  - 芭比娃娃
-  - 白雪公主
-  - 托马斯小火车
-  - 健达奇趣蛋
-  - 麦当劳开心乐园餐
-  - 盲盒
-  - 扭蛋
-  - 装备箱
-  - 道具箱
-media_books:
-  - 《纽约时报》
-  - '《Future Gamblers: A longitudinal study on young people''s transfer from loot box spending to gambling》'
 status: evergreen
+summary: 本期深入探讨了中国潮流玩具公司泡泡玛特的全球崛起现象，分析了盲盒模式背后的商业逻辑、消费心理和潜在成瘾机制。文章详细阐述了盲盒如何满足Z世代的情绪价值和社交需求，同时揭示了其与赌博行为在心理学上的相似性，并讨论了其对青少年可能产生的风险。通过对比游戏中的“装备箱”监管案例，呼吁社会对实体盲盒的潜在社会问题进行关注和探讨。
+tags:
+- addiction-mechanism
+- challenge
+- culture
+- economy
+- experience
+- psychology
+- risk
+title: 盲盒经济：泡泡玛特如何征服全球，及其背后的成瘾机制与监管挑战
 ---
+
 ### 泡泡玛特的崛起：从盲盒到全球现象
 
 为了深入了解**泡泡玛特**（Pop Mart: 一家以盲盒和独家设计潮流玩具闻名的中国企业）这个火遍全球的中国企业，我投入了大量时间阅读相关论文和其招股说明书，试图理解其大火背后的商业逻辑、消费心理和成瘾机制。经过分析，我归纳出了泡泡玛特成功的秘诀，并探讨这是否仅仅因为其提供了一种“合法赌博”。

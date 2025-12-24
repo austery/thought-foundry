@@ -1,66 +1,66 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Harrow School
+- Wharton School
+- Mubadala
+- 1MDB
+- Wynton
+- Abu Dhabi Investment Authority
+- Kuwait Investment Authority
+- Goldman Sachs
+- Terengganu Investment Authority
+- PetroSaudi
+- Deutsche Bank
+- Zurich Bank
+- Goodstar Ltd
+- Red Granite Pictures
+- Ernst & Young
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街之狼》
+- Gangnam Style
+- The Edge
+people:
+- Jho Low
+- Britney Spears
+- Leonardo DiCaprio
+- Psy
+- Najib Razak
+- Rosmah Mansor
+- Yousef Al Otaiba
+- Tim Leissner
+- Prince Turki
+- Edward Morse
+- Patrick Mahoney
+- Casey Tang
+- Seet Li Lin
+- Paris Hilton
+- Martin Scorsese
+- Jordan Belfort
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=HZj7JUybqlk
 speaker: 北美王路飞
-tags:
-  - financial-fraud
-  - 1mdb-scandal
-  - political-corruption
-  - shell-companies
-  - celebrity-influence
-title: 亚洲盖茨比的崛起：刘特佐如何从槟城少年蜕变为1MDB金融骗局主谋
-summary: 本文深入探讨了马来西亚金融诈骗犯刘特佐的早期经历和其臭名昭著的1MDB丑闻的开端。从他在贵族学校的虚荣伪装，到沃顿商学院的社交操盘，刘特佐逐步构建起一个庞大的骗局。文章详细描述了他如何利用人脉、伪装术和对马来西亚前首相纳吉布的影响力，设立1MDB基金，并巧妙盗取首批7亿美元国库资金，用于其奢华生活和投资好莱坞电影《华尔街之狼》，揭示了这场惊天骗局的序幕。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jho Low
-  - Britney Spears
-  - Leonardo DiCaprio
-  - Psy
-  - Najib Razak
-  - Rosmah Mansor
-  - Yousef Al Otaiba
-  - Tim Leissner
-  - Prince Turki
-  - Edward Morse
-  - Patrick Mahoney
-  - Casey Tang
-  - Seet Li Lin
-  - Paris Hilton
-  - Martin Scorsese
-  - Jordan Belfort
-companies_orgs:
-  - Harrow School
-  - Wharton School
-  - Mubadala
-  - 1MDB
-  - Wynton
-  - Abu Dhabi Investment Authority
-  - Kuwait Investment Authority
-  - Goldman Sachs
-  - Terengganu Investment Authority
-  - PetroSaudi
-  - Deutsche Bank
-  - Zurich Bank
-  - Goodstar Ltd
-  - Red Granite Pictures
-  - Ernst & Young
-products_models: []
-media_books:
-  - 《华尔街之狼》
-  - Gangnam Style
-  - The Edge
 status: evergreen
+summary: 本文深入探讨了马来西亚金融诈骗犯刘特佐的早期经历和其臭名昭著的1MDB丑闻的开端。从他在贵族学校的虚荣伪装，到沃顿商学院的社交操盘，刘特佐逐步构建起一个庞大的骗局。文章详细描述了他如何利用人脉、伪装术和对马来西亚前首相纳吉布的影响力，设立1MDB基金，并巧妙盗取首批7亿美元国库资金，用于其奢华生活和投资好莱坞电影《华尔街之狼》，揭示了这场惊天骗局的序幕。
+tags:
+- 1mdb-scandal
+- financial-fraud
+- influence
+- political-corruption
+- shell-company
+title: 亚洲盖茨比的崛起：刘特佐如何从槟城少年蜕变为1MDB金融骗局主谋
 ---
+
 ### 拉斯维加斯的奢华派对：骗局的序章
 
 如果有人在2012年的那个夜晚告诉你，全世界最疯狂的派对不在好莱坞，也不在纽约，而是在拉斯维加斯的一间酒店里，你可能不会相信。但是，看看这原本只存在于幻想中的画面：小甜甜**布兰妮**（Britney Spears: 美国著名流行歌手）刚刚从蛋糕里跳出来唱生日歌；那边还在拍《华尔街之狼》的**小李子**（Leonardo DiCaprio: 美国著名演员）已经喝得微醺，站上台和饶舌歌手Q-tip一起唱rap；就连韩国的**鸟叔**（Psy: 韩国歌手，以《江南Style》闻名）都在现场，跳着那首当年火遍全球的《江南Style》。

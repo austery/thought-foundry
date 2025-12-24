@@ -1,55 +1,56 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Northern Super League
+- Team Canada
+- TVO
+- Vancouver Rise
+- AFC Toronto
+- WNBA
+- Canada Soccer
+- Canadian Premier League
+- Waramps Champ program
+- Volleyball Canada
+- Dillasal College
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Pitch
+people:
+- Diana Mat
+- Michelle Hoser
+- Allison Lang
+- Amy Walsh
+- Aaron Mlan
+- Dunny
+- Christina Litz
+- Mark Kohhan
+- Constantina Varloas
+products_models:
+- The Pitch
+project:
+- historical-insights
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=1hQyP2G3dUQ
 speaker: TVO Today
-tags:
-  - women-s-sports
-  - adaptive-sports
-  - league-development
-  - equity-in-sports
-  - disability-advocacy
-title: 加拿大女子职业足球联赛的诞生与残奥运动员的体育力量
-summary: 本文深入探讨了加拿大女子职业足球联赛（Northern Super League）的创立及其首个赛季的巨大成功，包括其在电视收视、门票销售和球员待遇方面的卓越表现。同时，文章也分享了残奥运动员艾莉森·兰（Allison Lang）通过坐式排球克服身体障碍、找到人生意义的感人故事。通过这两个案例，本文强调了体育在促进女性赋权、残障人士融合以及推动社会公平方面的巨大潜力与价值。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - systems-thinking
-people:
-  - Diana Mat
-  - Michelle Hoser
-  - Allison Lang
-  - Amy Walsh
-  - Aaron Mlan
-  - Dunny
-  - Christina Litz
-  - Mark Kohhan
-  - Constantina Varloas
-companies_orgs:
-  - Northern Super League
-  - Team Canada
-  - TVO
-  - Vancouver Rise
-  - AFC Toronto
-  - WNBA
-  - Canada Soccer
-  - Canadian Premier League
-  - Waramps Champ program
-  - Volleyball Canada
-  - Dillasal College
-products_models:
-  - The Pitch
-media_books:
-  - The Pitch
 status: evergreen
+summary: 本文深入探讨了加拿大女子职业足球联赛（Northern Super League）的创立及其首个赛季的巨大成功，包括其在电视收视、门票销售和球员待遇方面的卓越表现。同时，文章也分享了残奥运动员艾莉森·兰（Allison
+  Lang）通过坐式排球克服身体障碍、找到人生意义的感人故事。通过这两个案例，本文强调了体育在促进女性赋权、残障人士融合以及推动社会公平方面的巨大潜力与价值。
+tags:
+- development
+- disability-advocacy
+- investment
+- life
+- society
+title: 加拿大女子职业足球联赛的诞生与残奥运动员的体育力量
 ---
+
 ### 加拿大女子职业足球联赛：从梦想走向现实
 
 建立一支扩充球队已经够难了，所以想象一下从零开始创建一个完整的联赛。

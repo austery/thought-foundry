@@ -1,51 +1,51 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- KGB
+- PBS Frontline
+- United Nations
+- NATO
+- FBI
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- PBS Frontline Documentary
+- Biden's Autobiography
+people:
+- Vladimir Putin
+- Bill Clinton
+- George W. Bush
+- Barack Obama
+- Donald Trump
+- Joe Biden
+- Condoleezza Rice
+- Saddam Hussein
+- Hillary Clinton
+- Boris Yeltsin
+products_models:
+- Javelin anti-tank missiles
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=HhZy-3-dnUA
 speaker: 北美王路飞
-tags:
-  - us-russia-relations
-  - putin-strategy
-  - cold-war-legacy
-  - foreign-policy-missteps
-  - geopolitical-conflict
-title: 普京与五任美国总统的20年恩怨：KGB特工如何玩弄国际政治
-summary: 本文深入探讨了俄罗斯总统普京与五任美国总统（克林顿、小布什、奥巴马、特朗普、拜登）长达20年的复杂关系。从普京的KGB背景和苏联解体对其心理的深远影响出发，分析了美国历届政府对俄策略的演变及误判，揭示了普京如何利用心理战术和西方世界的软弱，一步步实现其复兴俄罗斯帝国的战略目标，最终导致乌克兰危机的爆发。文章强调了理解威权领导人思维模式的重要性，并警示了西方在国际政治中一厢情愿的危险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Vladimir Putin
-  - Bill Clinton
-  - George W. Bush
-  - Barack Obama
-  - Donald Trump
-  - Joe Biden
-  - Condoleezza Rice
-  - Saddam Hussein
-  - Hillary Clinton
-  - Boris Yeltsin
-companies_orgs:
-  - KGB
-  - PBS Frontline
-  - United Nations
-  - NATO
-  - FBI
-products_models:
-  - Javelin anti-tank missiles
-media_books:
-  - PBS Frontline Documentary
-  - Biden's Autobiography
 status: evergreen
+summary: 本文深入探讨了俄罗斯总统普京与五任美国总统（克林顿、小布什、奥巴马、特朗普、拜登）长达20年的复杂关系。从普京的KGB背景和苏联解体对其心理的深远影响出发，分析了美国历届政府对俄策略的演变及误判，揭示了普京如何利用心理战术和西方世界的软弱，一步步实现其复兴俄罗斯帝国的战略目标，最终导致乌克兰危机的爆发。文章强调了理解威权领导人思维模式的重要性，并警示了西方在国际政治中一厢情愿的危险。
+tags:
+- foreign-policy-misstep
+- geopolitical-conflict
+- relations
+- strategy
+- war
+title: 普京与五任美国总统的20年恩怨：KGB特工如何玩弄国际政治
 ---
+
 ### 普京与美国总统的20年恩怨：一个KGB特工的国际政治手腕
 
 大家好，欢迎来到我的频道。今天我们来聊一聊普京和美国总统们长达20年的恩怨情仇，一个**KGB**（克格勃: 前苏联的情报和秘密警察机构）特工如何将五位白宫主人玩弄于股掌之间。本视频的主要内容来源于Frontline PBS推出的一部纪录片，英语好的朋友可以查阅原片。

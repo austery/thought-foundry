@@ -1,60 +1,59 @@
 ---
-author: How I AI
+area: personal-systems
+category: productivity
+companies_orgs:
+- Chime
+- Dropbox
+- Airbnb
+- Open Door
+- Brex
+- Atlassian
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How I AI
+people:
+- Dennis Yang
+- Clarvo
+- Lee
+products_models:
+- Cursor
+- Jira
+- Confluence
+- Notion
+- Figma
+- GitHub
+- ChatGPT
+- Claude
+- GPT-5
+- DeepSeek
+- Gemini
+- Zapier
+- News API
+- SEM Rush
+- Claude Sonnet 4
+- Google Docs
+- Excel
+- Google Sheets
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=rwmR7m5rvqw
 speaker: How I AI
-tags:
-  - ai-workflow
-  - product-management
-  - interoperability
-  - markdown-workflow
-  - ai-prototyping
-title: AI赋能产品管理：Dennis Yang如何用Cursor提升PRD、Jira和团队协作效率
-summary: 本文深入探讨了Chime首席产品经理Dennis Yang如何利用AI工具Cursor，革新产品管理工作流程。他展示了如何使用Cursor撰写产品需求文档（PRD）、将其发布到Confluence或Notion、通过AI处理评论并自动回复、以及创建Jira任务和状态报告。文章强调了AI在提升效率、改善沟通和实现工具互操作性方面的巨大潜力，并分享了利用AI进行产品原型设计和日常工作简报的经验。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Dennis Yang
-  - Clarvo
-  - Lee
-companies_orgs:
-  - Chime
-  - Dropbox
-  - Airbnb
-  - Open Door
-  - Brex
-  - Atlassian
-products_models:
-  - Cursor
-  - Jira
-  - Confluence
-  - Notion
-  - Figma
-  - GitHub
-  - ChatGPT
-  - Claude
-  - GPT-5
-  - DeepSeek
-  - Gemini
-  - Zapier
-  - News API
-  - SEM Rush
-  - Claude Sonnet 4
-  - Google Docs
-  - Excel
-  - Google Sheets
-media_books:
-  - How I AI
 status: evergreen
+summary: 本文深入探讨了Chime首席产品经理Dennis Yang如何利用AI工具Cursor，革新产品管理工作流程。他展示了如何使用Cursor撰写产品需求文档（PRD）、将其发布到Confluence或Notion、通过AI处理评论并自动回复、以及创建Jira任务和状态报告。文章强调了AI在提升效率、改善沟通和实现工具互操作性方面的巨大潜力，并分享了利用AI进行产品原型设计和日常工作简报的经验。
+tags:
+- code
+- history
+- llm
+- product-management
+title: AI赋能产品管理：Dennis Yang如何用Cursor提升PRD、Jira和团队协作效率
 ---
+
 ### AI驱动的产品管理新范式
 
 我们已经看到很多人使用像**Cursor**（一款AI驱动的集成开发环境，**IDE**：Integrated Development Environment）这样的工具来编写代码。然而，我们实际上还没有看到任何人仅仅使用Cursor来写作，而这正是您正在做的事情。

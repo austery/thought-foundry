@@ -1,59 +1,59 @@
 ---
-author: 天下文化
+area: society-systems
+category: general
+companies_orgs:
+- 花蓮慈濟醫院
+- 天下文化
+- 慈濟基金會
+- 大愛電視台
+- 衛生福利部
+- 西北航空公司
+- Mayo Clinic
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《醫療希望在花蓮》
+- 《半山孤鳥》
+- 《能行能走》
+- 《年過四十》
+- 《APRAS健康力》
+- 《操盤者》
+- Nature
+people:
+- 林欣榮
+- 高希均
+- 證嚴上人
+- 石崇良
+- 林碧玉
+- 王金平
+- 涂醒哲
+- 林昭庚
+- 黃榮村
+- 李明亮
+products_models:
+- 淨斯本草飲
+- CAR-T
+- CDMO
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=-9owT6_FQRM
 speaker: 天下文化
-tags:
-  - healthcare-innovation
-  - regional-development
-  - social-philosophy
-  - chinese-western-medicine
-  - non-profit-organization
-title: 林欣榮院長新書發表會：花蓮如何從醫療偏鄉成為世界級創新中心
-summary: 在《醫療希望在花蓮》新書發表會上，天下文化創辦人高希均、衛福部長石崇良及多位貴賓，共同探討了花蓮慈濟醫院的發展歷程。會議聚焦於證嚴上人的慈悲理念、林欣榮院長的創新領導，以及醫院在幹細胞治療、中西醫結合、智慧醫療等領域的突破。講者們一致認為，花蓮慈濟不僅守護了東台灣的生命，更以其獨特的“科技加人文”模式，為台灣乃至全球的醫療體系提供了寶貴的示範，展現了將偏鄉打造成希望燈塔的無限可能。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - 林欣榮
-  - 高希均
-  - 證嚴上人
-  - 石崇良
-  - 林碧玉
-  - 王金平
-  - 涂醒哲
-  - 林昭庚
-  - 黃榮村
-  - 李明亮
-companies_orgs:
-  - 花蓮慈濟醫院
-  - 天下文化
-  - 慈濟基金會
-  - 大愛電視台
-  - 衛生福利部
-  - 西北航空公司
-  - Mayo Clinic
-products_models:
-  - 淨斯本草飲
-  - CAR-T
-  - CDMO
-media_books:
-  - 《醫療希望在花蓮》
-  - 《半山孤鳥》
-  - 《能行能走》
-  - 《年過四十》
-  - 《APRAS健康力》
-  - 《操盤者》
-  - Nature
 status: evergreen
+summary: 在《醫療希望在花蓮》新書發表會上，天下文化創辦人高希均、衛福部長石崇良及多位貴賓，共同探討了花蓮慈濟醫院的發展歷程。會議聚焦於證嚴上人的慈悲理念、林欣榮院長的創新領導，以及醫院在幹細胞治療、中西醫結合、智慧醫療等領域的突破。講者們一致認為，花蓮慈濟不僅守護了東台灣的生命，更以其獨特的“科技加人文”模式，為台灣乃至全球的醫療體系提供了寶貴的示範，展現了將偏鄉打造成希望燈塔的無限可能。
+tags:
+- chinese
+- innovation
+- non
+- regional-development
+- social
+title: 林欣榮院長新書發表會：花蓮如何從醫療偏鄉成為世界級創新中心
 ---
+
 ### 天下文化高希均：花蓮是台灣希望的示範
 
 各位貴賓，大家好。今天這個標題《東台灣的生命守護者：花蓮慈濟醫院院長林欣榮的創新醫路》非常好，但如果允許我稍微修改，我想我們可以勇敢地告訴全台灣的人：「台灣的生命守護者，就是花蓮慈濟。」不僅是東台灣。

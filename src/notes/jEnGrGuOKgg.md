@@ -1,34 +1,34 @@
 ---
-title: 8月市场回顾与9月展望：降息交易、大非农及财报深度分析
-summary: 本期节目回顾了8月份美元指数、美债收益率及三大股指表现，重点分析了市场交易降息而非衰退的逻辑。同时总结了超预期的二季度财报，并展望9月大非农数据对降息预期的影响，最后提供了9月投资策略及贝塔计算器功能介绍。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- earnings-season
-- interest-rate-cuts
-- market-analysis
-- nonfarm-payrolls
-- us-stock-market
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-09-02'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=jEnGrGuOKgg
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目回顾了8月份美元指数、美债收益率及三大股指表现，重点分析了市场交易降息而非衰退的逻辑。同时总结了超预期的二季度财报，并展望9月大非农数据对降息预期的影响，最后提供了9月投资策略及贝塔计算器功能介绍。
+tags:
+- earnings-season
+- interest-rate-cut
+- market-analysis
+- us-stock-market
+title: 8月市场回顾与9月展望：降息交易、大非农及财报深度分析
+companies:
+- nonfarm-payroll
 ---
+
 各位观众大家好，欢迎来到一个不单只聊新闻，但因为过去两周睡眠不足导致有点累，所以选择了休息几天的专业美股频道。我是市场分析员小涛。今天我们主要对整个8月份先做一个回顾，然后对9月份做一个展望。9月份有三周时间我将无法为大家做更新，但我会尽量通过YouTube社区，特别是在X账号上，和大家分享我对数据的一些看法，所以大家要关注我的X账号。一些比较紧急的新闻，我会通过X包括我的APP和大家分享。今天将和大家分享本周即将公布的**大非农数据**（Non-Farm Payrolls: 美国非农业部门的就业人数变化数据，是衡量劳动力市场健康状况的关键指标）展望，以及整个9月份如何应对。废话不多说，直接开始对8月份及8月份最后一周的数据进行总结。
 
 ### 8月市场回顾：关键数据与板块表现

@@ -1,40 +1,40 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- FBI
+- Kremlin
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《判断人心：一位资深FBI特工的行为预测用户手册》
+- Sizing People Up
+people:
+- Robin Dreeke
+- Jesse
+- Jack Johnson
+- Hillary Clinton
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=FxoL7G6edDc
 speaker: 北美王路飞
-tags:
-  - behavior-prediction
-  - trust-building
-  - social-intelligence
-  - decision-making
-  - contextual-analysis
-title: FBI识人术：通过行动预测行为，识别10大红灯与10大绿灯
-summary: 本文深入解析前FBI资深特工罗宾·德里克提出的识人体系，强调行动是预测一个人未来行为最可靠的指标。文章详细阐述了10个负面行为信号（红灯）和10个积极行为信号（绿灯），帮助读者在职场和生活中识别不可靠或值得信任的伙伴。同时，通过案例分析，强调了情境对行为的决定性影响，呼吁通过理性观察和分析来校准身边的人。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Robin Dreeke
-  - Jesse
-  - Jack Johnson
-  - Hillary Clinton
-companies_orgs:
-  - FBI
-  - Kremlin
-products_models: []
-media_books:
-  - 《判断人心：一位资深FBI特工的行为预测用户手册》
-  - Sizing People Up
 status: evergreen
+summary: 本文深入解析前FBI资深特工罗宾·德里克提出的识人体系，强调行动是预测一个人未来行为最可靠的指标。文章详细阐述了10个负面行为信号（红灯）和10个积极行为信号（绿灯），帮助读者在职场和生活中识别不可靠或值得信任的伙伴。同时，通过案例分析，强调了情境对行为的决定性影响，呼吁通过理性观察和分析来校准身边的人。
+tags:
+- analysis
+- canada
+- decision-making
+- social
+- trust-building
+title: FBI识人术：通过行动预测行为，识别10大红灯与10大绿灯
 ---
+
 大家好，欢迎来到我的频道。今天我们继续分享会员节目，也就是前FBI资深特工罗宾·德里克（Robin Dreeke）的独家识人体系，出自他的著作《判断人心：一位资深FBI特工的行为预测用户手册》（Sizing People Up）。我们今天将深入探讨其核心信号：通过行动来预测对方的行为。
 
 ### 情绪迷雾与探索式提问

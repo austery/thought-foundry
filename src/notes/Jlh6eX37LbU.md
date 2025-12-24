@@ -1,31 +1,29 @@
 ---
-title: 法国危机加剧：政治动荡与市场担忧
-summary: 法国正面临深度政治危机，与意大利债券息差扩大，市场对潜在的财政和政治风险表示担忧。分析指出，此次危机根源于政治而非财政， Elections 的不确定性加剧了市场波动。
 area: market-analysis
 category: finance
-project: []
-tags:
-- 债券市场
-- 欧洲经济
-- 法国政治
-- 选举
-- 马克龙
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-07'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Jlh6eX37LbU
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 法国正面临深度政治危机，与意大利债券息差扩大，市场对潜在的财政和政治风险表示担忧。分析指出，此次危机根源于政治而非财政， Elections 的不确定性加剧了市场波动。
+tags:
+- financial
+- geopolitical
+- 债券市场
+- 马克龙
+title: 法国危机加剧：政治动荡与市场担忧
 ---
+
 ### 法国政治动荡与政治人物的未来
 
 Well, look, let's start with Lional's latest piece about this, talking about Sebastian Lornu, supposed to be Emanuel Macro's last chance man to keep his presidency on the rails through 2027.

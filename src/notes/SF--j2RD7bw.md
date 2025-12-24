@@ -1,32 +1,32 @@
 ---
-title: 梁子：从日常物品到世界故事的纪念碑
-summary: 艺术工作者梁子分享她如何通过收集日常物品、旅行见闻，构建一个既是商店也是博物馆的艺术项目，以及这些物品如何承载记忆、连接世界与不同文化。
 area: personal-growth
 category: lifestyle
-project: []
-tags:
-- art-project
-- cultural-exchange
-- object-collection
-- social-impact
-- travel-stories
-people:
-- yixi
 companies_orgs: []
-products_models: []
-media_books:
-- yixi
 date: '2025-09-28'
-author: 一席YiXi
-speaker: 一席YiXi
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- yixi
+people:
+- yixi
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SF--j2RD7bw
+speaker: 一席YiXi
 status: evergreen
+summary: 艺术工作者梁子分享她如何通过收集日常物品、旅行见闻，构建一个既是商店也是博物馆的艺术项目，以及这些物品如何承载记忆、连接世界与不同文化。
+tags:
+- cultural
+- object-collection
+- social-impact
+- technology
+- travel
+title: 梁子：从日常物品到世界故事的纪念碑
 ---
+
 ### 艺术项目与日常物品的连接
 
 大家好，我叫梁子，来自齐齐哈尔，现在是一名艺术工作者。今天想跟大家分享我一直在做的一个艺术项目，它既是一个商店，也是一个博物馆。我希望通过讲述和展示这些看似日常的物品，来触摸和感受这个世界。

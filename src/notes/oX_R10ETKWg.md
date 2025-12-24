@@ -1,32 +1,29 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs: []
 date: '2025-06-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=oX_R10ETKWg
 speaker: 海淀拙大叔
-tags:
-  - economic-outlook
-  - capital-market-strategy
-  - pmi-analysis
-  - monetary-policy
-  - inflation-deflation
-title: 下半年中国经济增长推演与资本市场投资策略
-summary: 本文基于对房地产、采购经理人指数（PMI）及货币数据的深入分析，对中国经济下半年的增长趋势进行了量化推演。预测房地产将实现正增长，制造业和服务业PMI将进入扩张区间，M1增速加快，CPI和PPI将逐步回暖。在此基础上，文章提出了下半年资本市场的投资策略，并预测了港股科技、基建地产、半导体科技、消费及证券金融等不同行业的上涨顺序。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文基于对房地产、采购经理人指数（PMI）及货币数据的深入分析，对中国经济下半年的增长趋势进行了量化推演。预测房地产将实现正增长，制造业和服务业PMI将进入扩张区间，M1增速加快，CPI和PPI将逐步回暖。在此基础上，文章提出了下半年资本市场的投资策略，并预测了港股科技、基建地产、半导体科技、消费及证券金融等不同行业的上涨顺序。
+tags:
+- analysis
+- capital-market-strategy
+- economic-outlook
+- inflation-deflation
+title: 下半年中国经济增长推演与资本市场投资策略
 ---
+
 ### 下半年经济增长指标推演
 
 本期宏观经济论将聚焦于下半年经济增长的推演，并探讨可能采取的投资策略。上周，我们已通过三集内容深入讨论了房地产、**采购经理人指数**（PMI: 一项衡量制造业和服务业经济活动的综合指标）的变化以及货币数据的变化。总体的结论是，今年下半年房地产极有可能出现正增长，因为房价降幅已连续收敛五个月。下半年，采购经理人指数显示中国经济将从复苏期转向繁荣期，货币数据也支持这一观点。接下来，我们将对这些观点进行量化分析。

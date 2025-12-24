@@ -1,36 +1,35 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Cofit
 date: '2025-09-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 鄧雯心醫師
+- Dr. Stacy Sims
+- Dr. Lucia Aronica
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Nf88HIc1AII
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - female-weight-loss
-  - hormonal-impact
-  - menstrual-cycle
-  - diet-strategy
-  - exercise-physiology
-title: 女性減肥為何更難？揭秘月經週期與荷爾蒙的專屬瘦身攻略
-summary: 本影片深入探討女性減肥比男性更困難的科學原因，指出女性天生具備的「瘦身防禦機制」及荷爾蒙波動對減脂的影響。鄧雯心醫師揭示了過度激進減肥策略的危害，並強調順應月經週期調整飲食與運動的重要性。影片詳細解析濾泡期和黃體期的減脂策略，提供具體建議，幫助女性健康、持久地瘦身。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 鄧雯心醫師
-  - Dr. Stacy Sims
-  - Dr. Lucia Aronica
-companies_orgs:
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 本影片深入探討女性減肥比男性更困難的科學原因，指出女性天生具備的「瘦身防禦機制」及荷爾蒙波動對減脂的影響。鄧雯心醫師揭示了過度激進減肥策略的危害，並強調順應月經週期調整飲食與運動的重要性。影片詳細解析濾泡期和黃體期的減脂策略，提供具體建議，幫助女性健康、持久地瘦身。
+tags:
+- cycle
+- health
+- impact
+- loss
+- strategy
+title: 女性減肥為何更難？揭秘月經週期與荷爾蒙的專屬瘦身攻略
 ---
+
 ### 女性減肥的生理與心理挑戰
 
 大家好，我是雯心醫師。你知道嗎？女生減肥比男生難，這不是錯覺，而是科學事實！今天這支影片將告訴你為什麼女生這麼難瘦。如果你不了解原因，一旦遇到挫折或卡關，就容易感到頹廢並放棄。因此，除了說明原因，我們還會教你如何健康、持久地瘦身。

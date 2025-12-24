@@ -1,38 +1,35 @@
 ---
-author: 大伟探秘加拿大
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- CREA
+- Toronto Real Estate Board
+- Greater Vancouver Real Estate Board
+- Bank of Canada
+- RBC
 date: '2025-10-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=54MtcbFqPGg
 speaker: 大伟探秘加拿大
-tags:
-  - canada-housing-market
-  - market-differentiation
-  - economic-downturn
-  - monetary-policy
-  - immigration-policy
-  - k-shaped-recovery
-title: 加拿大房地产市场：一场结构性分化与价值重构的深度解析
-summary: 当前加拿大房地产市场正经历剧烈的结构性分化，安大略省和BC省陷入深度冰冻期，而草原省份、魁北克省和大西洋省份则展现惊人韧性。本文深入探讨了经济寒潮、加拿大央行政策困境以及联邦移民政策转向这三大力量如何共同作用，导致市场从普涨时代走向区域性、K型分化的新常态。展望2026年，市场将迎来艰难筑底，销量或技术性反弹，但价格分化将持续，预示着一个由地方基本面主导的常识回归时代。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs:
-  - CREA
-  - Toronto Real Estate Board
-  - Greater Vancouver Real Estate Board
-  - Bank of Canada
-  - RBC
-products_models: []
-media_books: []
 status: evergreen
+summary: 当前加拿大房地产市场正经历剧烈的结构性分化，安大略省和BC省陷入深度冰冻期，而草原省份、魁北克省和大西洋省份则展现惊人韧性。本文深入探讨了经济寒潮、加拿大央行政策困境以及联邦移民政策转向这三大力量如何共同作用，导致市场从普涨时代走向区域性、K型分化的新常态。展望2026年，市场将迎来艰难筑底，销量或技术性反弹，但价格分化将持续，预示着一个由地方基本面主导的常识回归时代。
+tags:
+- canada-housing-market
+- economic-downturn
+- immigration-policy
+- k-shaped-recovery
+- market
+title: 加拿大房地产市场：一场结构性分化与价值重构的深度解析
 ---
+
 ### 加拿大房地产市场：告别普涨时代，迎接结构性分化
 
 如果您正试图理解近期加拿大房地产市场的动态，很可能会感到一头雾水。这并非您一个人的感受，当前几乎所有人都在面临同样的困惑：一方面新闻标题仍在报道某些地区房价小幅上涨，另一方面身边越来越多的人悄悄说房价正在真实下跌。加拿大房地产市场究竟是繁荣还是萧条？现在是买房还是卖房的好时机？

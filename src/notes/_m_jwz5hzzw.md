@@ -1,47 +1,45 @@
 ---
-author: All-In Podcast
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Shopify
+- 8090 office
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- All-In Podcast
+- X
+people:
+- Chamath Palihapitiya
+- Dr. Carlsburg
+- Farhan Thoir
+- Dr. London
+- Andrew
+- Sean
+products_models:
+- statins
+- CT angagram
+- Pre-nuvo scan
+- Netflix
+project:
+- personal-growth-lab
+- systems-thinking
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=_m_jwz5hzzw
 speaker: All-In Podcast
-tags:
-  - preventive-health
-  - cardiac-health
-  - full-body-scan
-  - longevity
-  - health-optimization
-title: Chamath的健康优化之旅：预防性医疗与长寿之道
-summary: 本篇文章记录了Chamath Palihapitiya的个人健康优化历程。他分享了家族病史、朋友猝死的经历，以及促使他积极寻求预防性医疗的动机。文章详细介绍了他在心脏健康（如使用他汀类药物）和全身扫描（如Pre-nuvo MRI）方面的实践，探讨了早期检测的重要性、面对健康数据时的心理负担，以及如何通过科技手段更好地理解和管理个人健康。Chamath强调健康是一个持续的旅程，而非终点，并呼吁人们积极主动地关注自身健康。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - ai-impact-analysis
-people:
-  - Chamath Palihapitiya
-  - Dr. Carlsburg
-  - Farhan Thoir
-  - Dr. London
-  - Andrew
-  - Sean
-companies_orgs:
-  - Shopify
-  - 8090 office
-products_models:
-  - statins
-  - CT angagram
-  - Pre-nuvo scan
-  - Netflix
-media_books:
-  - All-In Podcast
-  - X
 status: evergreen
+summary: 本篇文章记录了Chamath Palihapitiya的个人健康优化历程。他分享了家族病史、朋友猝死的经历，以及促使他积极寻求预防性医疗的动机。文章详细介绍了他在心脏健康（如使用他汀类药物）和全身扫描（如Pre-nuvo
+  MRI）方面的实践，探讨了早期检测的重要性、面对健康数据时的心理负担，以及如何通过科技手段更好地理解和管理个人健康。Chamath强调健康是一个持续的旅程，而非终点，并呼吁人们积极主动地关注自身健康。
+tags:
+- health
+- investment
+title: Chamath的健康优化之旅：预防性医疗与长寿之道
 ---
+
 ### 追求健康：我的动机与警醒
 
 我身边有许多朋友，他们拥有一切，唯独缺少健康，而我不想成为那样的人。

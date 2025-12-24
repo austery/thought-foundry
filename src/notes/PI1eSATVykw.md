@@ -1,31 +1,29 @@
 ---
-author: 视野环球财经
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Sam Altman
+products_models:
+- GPT-4
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=PI1eSATVykw
 speaker: 视野环球财经
-tags:
-  - llm
-  - prompt-engineering
-title: 美股 NVDA疑似启动前准备！圣诞行情数据！NFLX疑云，买点依旧！ORCL的波段区间！
-summary: NVDA疑似启动前准备，圣诞行情数据分析，NFLX收购疑云，ORCL波段区间
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sam Altman
-companies_orgs:
-  - OpenAI
-products_models:
-  - GPT-4
-media_books: []
 status: evergreen
+summary: NVDA疑似启动前准备，圣诞行情数据分析，NFLX收购疑云，ORCL波段区间
+tags: []
+title: 美股 NVDA疑似启动前准备！圣诞行情数据！NFLX疑云，买点依旧！ORCL的波段区间！
 ---
+
 ### 1. 市场概况
 
 大家好，欢迎回到视野环球财经，我是reino。现在是美东时间25年12月22号周一晚上的7点55分。 今天呢四大指数是收盘继续上涨啊，延续了上个星期五的上涨趋势。那么整个的盘中实际上波动不大，行情在上午就已经走完。整个下午的交易是非常的平淡啊。那么今天在板块方面呢，只有消费必需品一个下跌啊，它是标普是一个大板块里边唯一下跌的。另外今天的芯片股走强啊，像两个非诚半导体啊，两个半导体指数啊，包括SOXX,还有SMH呢、，他们的涨幅都非常的不错。

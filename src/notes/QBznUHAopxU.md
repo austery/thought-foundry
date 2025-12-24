@@ -1,152 +1,152 @@
 ---
-author: The Knowledge Project Podcast
+area: society-systems
+category: psychology
+companies_orgs:
+- Dyson
+- Google
+- McKinsey & Company
+- Accenture
+- Royal Mail
+- Canada Post
+- USPS
+- Costco
+- Enterprise Rent-A-Car
+- Procter & Gamble
+- Diageo
+- Unilever
+- Aldi
+- Trader Joe's
+- S.C. Johnson & Son
+- Loblaw Companies Limited
+- McCain Foods Limited
+- Yorkshire Tea
+- Specsavers
+- Laithwaites
+- Guinness
+- Rogers Communications
+- Ford Motor Company
+- Network Rail
+- Microsoft
+- British Airways
+- Shopify
+- Basecamp
+- Meta
+- National Health Service
+- Puma
+- Adidas
+- Porsche
+- Audi
+- BMW
+- Mercedes-Benz
+- Tesla
+- Land Rover
+- Range Rover
+- Alfa Romeo
+- Hyundai
+- Genesis
+- Eastlink Cable Communications
+- OpenAI
+- GoDaddy
+- Name.com
+- Cloudflare
+- Apple
+- IRS
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Alchemy
+- Nudge
+- Life Without Lawyers
+- Can Do
+- The Selfish Gene
+- The Status Game
+- Voltaire's Bastards
+- Sherlock Holmes short stories
+- Up in the Air
+- Some Like It Hot
+- YouTube
+people:
+- Rory Sutherland
+- Roger L. Martin
+- Alex Batchelor
+- Warren Buffett
+- Saul Price
+- Jim Sinegal
+- Jeffrey Miller
+- Kevin Dutton
+- Richard Thaler
+- Nassim Nicholas Taleb
+- Stuart Butterfield
+- Steve Jobs
+- Jony Ive
+- Bill Gates
+- Chris Bangle
+- Elon Musk
+- Sir William Lyons
+- Paul Dolan
+- Daniel Kahneman
+- Will Storr
+- Lord Layard
+- Jay Leno
+- Jennifer Jacquet
+- John Ralston Saul
+- David Ogilvy
+- Arthur Conan Doyle
+- Kingsley Amis
+- Rick Rubin
+- Press Telw Walker
+- J.K. Rowling
+- Jeff Bezos
+- Dan Davies
+- Adel Bouri
+- Charlie Kirk
+- Paul Collier
+- Sinclair Lewis
+- Charlie Munger
+- John Bragg
+- Philip K. Howard
+- Michael Polanyi
+- Dylan Mulvaney
+products_models:
+- Remarkable
+- Remarkable 2
+- Remarkable Paper Pro
+- Remarkable Paper Pro Move
+- Shop Pay
+- Casio G-Shock
+- Rolex
+- iMac
+- iPhone
+- Microlino
+- Bud Light
+- Gillette
+- American Eagle
+- Jaguar
+- Tesla
+- Harry Potter books
+- Slack
+- Betamax
+- IBM PC
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=QBznUHAopxU
 speaker: The Knowledge Project Podcast
-tags:
-  - human-decision-making
-  - behavioral-economics
-  - customer-value
-  - marketing-strategy
-  - social-influence
-title: 营销的非理性力量：超越效率与量化的客户价值
-summary: 本期播客深入探讨了人类决策中的非理性因素如何影响营销、商业效率和客户关系。嘉宾指出，过度追求短期效率和量化指标可能导致忽视真正的客户价值和心理因素。文章通过Dyson、酒店门童、房地产交易等案例，阐释了信任、情感和长期关系在商业成功中的关键作用，并批判了将复杂系统简化为纯粹理性模型的倾向。同时，讨论还触及了社会规范、法律过度干预以及创新与风险承担等议题，强调了在追求效率的同时，不应忽视人性的复杂性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Rory Sutherland
-  - Roger L. Martin
-  - Alex Batchelor
-  - Warren Buffett
-  - Saul Price
-  - Jim Sinegal
-  - Jeffrey Miller
-  - Kevin Dutton
-  - Richard Thaler
-  - Nassim Nicholas Taleb
-  - Stuart Butterfield
-  - Steve Jobs
-  - Jony Ive
-  - Bill Gates
-  - Chris Bangle
-  - Elon Musk
-  - Sir William Lyons
-  - Paul Dolan
-  - Daniel Kahneman
-  - Will Storr
-  - Lord Layard
-  - Jay Leno
-  - Jennifer Jacquet
-  - John Ralston Saul
-  - David Ogilvy
-  - Arthur Conan Doyle
-  - Kingsley Amis
-  - Rick Rubin
-  - Press Telw Walker
-  - J.K. Rowling
-  - Jeff Bezos
-  - Dan Davies
-  - Adel Bouri
-  - Charlie Kirk
-  - Paul Collier
-  - Sinclair Lewis
-  - Charlie Munger
-  - John Bragg
-  - Philip K. Howard
-  - Michael Polanyi
-  - Dylan Mulvaney
-companies_orgs:
-  - Dyson
-  - Google
-  - McKinsey & Company
-  - Accenture
-  - Royal Mail
-  - Canada Post
-  - USPS
-  - Costco
-  - Enterprise Rent-A-Car
-  - Procter & Gamble
-  - Diageo
-  - Unilever
-  - Aldi
-  - Trader Joe's
-  - S.C. Johnson & Son
-  - Loblaw Companies Limited
-  - McCain Foods Limited
-  - Yorkshire Tea
-  - Specsavers
-  - Laithwaites
-  - Guinness
-  - Rogers Communications
-  - Ford Motor Company
-  - Network Rail
-  - Microsoft
-  - British Airways
-  - Shopify
-  - Basecamp
-  - Meta
-  - National Health Service
-  - Puma
-  - Adidas
-  - Porsche
-  - Audi
-  - BMW
-  - Mercedes-Benz
-  - Tesla
-  - Land Rover
-  - Range Rover
-  - Alfa Romeo
-  - Hyundai
-  - Genesis
-  - Eastlink Cable Communications
-  - OpenAI
-  - GoDaddy
-  - Name.com
-  - Cloudflare
-  - Apple
-  - IRS
-products_models:
-  - Remarkable
-  - Remarkable 2
-  - Remarkable Paper Pro
-  - Remarkable Paper Pro Move
-  - Shop Pay
-  - Casio G-Shock
-  - Rolex
-  - iMac
-  - iPhone
-  - Microlino
-  - Bud Light
-  - Gillette
-  - American Eagle
-  - Jaguar
-  - Tesla
-  - Harry Potter books
-  - Slack
-  - Betamax
-  - IBM PC
-media_books:
-  - Alchemy
-  - Nudge
-  - Life Without Lawyers
-  - Can Do
-  - The Selfish Gene
-  - The Status Game
-  - Voltaire's Bastards
-  - Sherlock Holmes short stories
-  - Up in the Air
-  - Some Like It Hot
-  - YouTube
 status: evergreen
+summary: 本期播客深入探讨了人类决策中的非理性因素如何影响营销、商业效率和客户关系。嘉宾指出，过度追求短期效率和量化指标可能导致忽视真正的客户价值和心理因素。文章通过Dyson、酒店门童、房地产交易等案例，阐释了信任、情感和长期关系在商业成功中的关键作用，并批判了将复杂系统简化为纯粹理性模型的倾向。同时，讨论还触及了社会规范、法律过度干预以及创新与风险承担等议题，强调了在追求效率的同时，不应忽视人性的复杂性。
+tags:
+- behavioral-economics
+- human-decision-making
+- social
+- strategy
+- value
+title: 营销的非理性力量：超越效率与量化的客户价值
 ---
+
 ### AI与人类决策的非理性
 
 嘉宾: 我一直听到人们说，你会对你的**AI**（Artificial Intelligence: 人工智能）说：“给我找个滑雪假期”，然后它会为你提供一个完美的滑雪假期。

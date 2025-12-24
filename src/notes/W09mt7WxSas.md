@@ -1,49 +1,47 @@
 ---
-author: 课代表立正
+area: market-analysis
+category: business
+companies_orgs:
+- brain trust
+- mother duck
+- notion
+- Meta
+- Microsoft
+- Amazon
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《增长数据分析手册》
+- 《Hooked》
+- 《Growth Hacker》
+people:
+- 李孟颖
+- Joe Kumar
+products_models:
+- AI builders
+- Snowpeak
+project:
+- systems-thinking
+- personal-growth-lab
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=W09mt7WxSas
 speaker: 课代表立正
-tags:
-  - growth-data-analytics
-  - north-star-metric
-  - growth-accounting
-  - user-retention
-  - product-market-fit
-  - scalable-experimentation
-title: 《增长数据分析手册》：Meta、Notion专家揭秘数据驱动增长实战经验
-summary: 本书由Meta、Notion等公司资深数据专家合著，旨在填补市面上数据驱动增长实战知识的空白。它从数据角度深入剖析增长的五大核心内容：定义增长、寻找产品价值、增长核算框架、识别高质量用户以及从分析到决策的实践，为产品经理、数据科学家、市场营销人员及创始人提供一套系统的实战指南，帮助读者理解并应用数据实现产品增长。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - 李孟颖
-  - Joe Kumar
-  - 课代表立正
-companies_orgs:
-  - brain trust
-  - mother duck
-  - notion
-  - Facebook
-  - Microsoft
-  - Meta
-  - Amazon
-products_models:
-  - AI builders
-  - Snowpeak
-media_books:
-  - 《增长数据分析手册》
-  - 《Hooked》
-  - 《Growth Hacker》
 status: evergreen
+summary: 本书由Meta、Notion等公司资深数据专家合著，旨在填补市面上数据驱动增长实战知识的空白。它从数据角度深入剖析增长的五大核心内容：定义增长、寻找产品价值、增长核算框架、识别高质量用户以及从分析到决策的实践，为产品经理、数据科学家、市场营销人员及创始人提供一套系统的实战指南，帮助读者理解并应用数据实现产品增长。
+tags:
+- data
+- geopolitical
+- growth
+- product-market-fit
+- science
+- society
+title: 《增长数据分析手册》：Meta、Notion专家揭秘数据驱动增长实战经验
 ---
+
 ### 《增长数据分析手册》：数据驱动增长的实战精髓
 
 明天，也就是11月18号，我们的新书**《增长数据分析手册》**（Growth Data Analytics Playbook）就要正式上市了。今天，我将以作者的视角，为大家详细介绍这本书的核心内容，并借此机会预览一下数据驱动增长的实践中究竟包含了哪些关键要素。在我看来，数据驱动增长主要涵盖了五大核心板块：第一，理解“增长”的定义；第二，如何找到产品的核心价值；第三，构建增长框架或进行**增长核算**（Growth Accounting: 一种用于分析产品用户增长来源和去向的框架）；第四，识别并放大你的高质量用户；第五，实现从数据分析到最终决策的转化。

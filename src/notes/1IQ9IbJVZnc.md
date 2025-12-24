@@ -1,45 +1,44 @@
 ---
-author: Internet of Bugs
+area: society-systems
+category: general
+companies_orgs:
+- SciShow
+- Control AI
+- OpenAI
+- Anthropic
+- Google DeepMind
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Carl
+- Hank Green
+- Geoffrey Hinton
+- John Hopfield
+- Sam Altman
+products_models:
+- ChatGPT
+- Claude Opus 4
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1IQ9IbJVZnc
 speaker: Internet of Bugs
-tags:
-  - ai-misinformation
-  - industry-propaganda
-  - ai-development-speed
-  - current-ai-risks
-  - media-critique
-title: 揭露SciShow对AI的误导：发展速度、真实风险与行业宣传
-summary: 本文深入剖析了YouTube频道SciShow关于人工智能的节目，指出其在AI发展速度、潜在风险评估以及行业宣传方面存在严重误导和信息缺失。作者通过对比AI与核能的发展历程，揭示了AI发展速度被夸大的事实，并强调了当前AI带来的虚假信息、操纵、失业和人权侵犯等实际问题，而非仅关注遥远的“灭绝”风险，呼吁警惕AI行业的话语权及其对公众认知的影响。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Carl
-  - Hank Green
-  - Geoffrey Hinton
-  - John Hopfield
-  - Sam Altman
-companies_orgs:
-  - SciShow
-  - Control AI
-  - OpenAI
-  - Anthropic
-  - Google DeepMind
-products_models:
-  - ChatGPT
-  - Claude Opus 4
-media_books: []
 status: evergreen
+summary: 本文深入剖析了YouTube频道SciShow关于人工智能的节目，指出其在AI发展速度、潜在风险评估以及行业宣传方面存在严重误导和信息缺失。作者通过对比AI与核能的发展历程，揭示了AI发展速度被夸大的事实，并强调了当前AI带来的虚假信息、操纵、失业和人权侵犯等实际问题，而非仅关注遥远的“灭绝”风险，呼吁警惕AI行业的话语权及其对公众认知的影响。
+tags:
+- ai-development-speed
+- ai-misinformation
+- industry
+- media
+- risk
+title: 揭露SciShow对AI的误导：发展速度、真实风险与行业宣传
 ---
+
 ### 对SciShow AI节目的批判
 
 SciShow 最近发布了一期关于人工智能的节目，尽管我喜欢 SciShow 并且讨厌 YouTuber 之间的争执，但我真的希望这一切没有发生。

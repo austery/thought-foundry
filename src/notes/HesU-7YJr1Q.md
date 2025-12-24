@@ -1,59 +1,61 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- TRW
+- Bloomberg Podcasts
+- Compute Exchange
+- Silicon Data
+- Cumberland Crypto
+- Google Cloud
+- CME
+- Nvidia
+- CFTC
+- Robinhood
 date: '2025-09-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Cumberland Mines
+people:
+- Don Wilson
+- Tracy Alloway
+- Joe Weisenthal
+- Shane Copeland
+- ai-commodity
+products_models:
+- Eurodollar option
+- IBC
+- H100
+- A100
+- ChatGPT
+- Bitcoin
+- Canton Blockchain
+- Ethereum
+- Solana
+- Augur
+project:
+- ai-impact-analysis
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=HesU-7YJr1Q
 speaker: Bloomberg Podcasts
-tags:
-  - gpu-market
-  - ai-commodities
-  - tokenized-assets
-  - prediction-markets
-  - financial-innovation
-title: 芝加哥交易之王唐·威尔逊：GPU市场将超越石油，代币化与预测市场的未来
-summary: TRW 创始人兼首席执行官唐·威尔逊在一次访谈中分享了他对未来交易的深刻见解。他预测，十年内全球在 GPU 上的年支出将超过原油，使 GPU 成为全球最大的商品，并详细阐述了如何通过 Compute Exchange 和 Silicon Data 建立一个流动性强的 GPU 期货市场，从而降低资本成本。此外，威尔逊还深入探讨了代币化交易（特别是 Canton 区块链）如何提升传统金融市场的韧性，以及预测市场在文化和监管层面的演变。他还对云端撮合引擎的确定性问题、超大规模云服务商的阻力以及散户交易的兴起等议题发表了看法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - us-analysis
-people:
-  - Don Wilson
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Shane Copeland
-companies_orgs:
-  - TRW
-  - Bloomberg Podcasts
-  - Compute Exchange
-  - Silicon Data
-  - Cumberland Crypto
-  - Google Cloud
-  - CME
-  - Nvidia
-  - CFTC
-  - Robinhood
-products_models:
-  - Eurodollar option
-  - IBC
-  - H100
-  - A100
-  - ChatGPT
-  - Bitcoin
-  - Canton Blockchain
-  - Ethereum
-  - Solana
-  - Augur
-media_books:
-  - Odd Lots
-  - Cumberland Mines
 status: evergreen
+summary: TRW 创始人兼首席执行官唐·威尔逊在一次访谈中分享了他对未来交易的深刻见解。他预测，十年内全球在 GPU 上的年支出将超过原油，使 GPU 成为全球最大的商品，并详细阐述了如何通过
+  Compute Exchange 和 Silicon Data 建立一个流动性强的 GPU 期货市场，从而降低资本成本。此外，威尔逊还深入探讨了代币化交易（特别是
+  Canton 区块链）如何提升传统金融市场的韧性，以及预测市场在文化和监管层面的演变。他还对云端撮合引擎的确定性问题、超大规模云服务商的阻力以及散户交易的兴起等议题发表了看法。
+tags:
+- asset
+- financial-innovation
+- gpu-market
+- prediction-market
+title: 芝加哥交易之王唐·威尔逊：GPU市场将超越石油，代币化与预测市场的未来
 ---
+
 ### 欢迎与 GPU 市场愿景
 
 Odd Lots 的各位观众，你们即将观看的是在芝加哥现场录制的一段对话，嘉宾是 TRW 创始人兼首席执行官唐·威尔逊（Don Wilson），他有时被称为交易界最聪明的人。

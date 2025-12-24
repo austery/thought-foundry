@@ -1,49 +1,49 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Women's Brain Health Initiative
+- CAMH
+- Toronto Metropolitan University
+- FDA
+- UK Biobank
+- TVO Today
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Menopause Brain
+- The New York Times
+- Mistreated
+people:
+- Nam Kiwanuka
+- Lynn Posluns
+- Lisa Mosconi
+- Professor Natasha Raja
+- Brenda Milner
+- Patient HM
+- Claudia Bar
+- Sydney
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=43z07WJR1QE
 speaker: TVO Today
-tags:
-  - women-s-health-disparities
-  - menopause-brain-fog
-  - alzheimer-s-risk-factors
-  - hormone-replacement-therapy
-  - social-determinants-of-health
-title: 为何70%的阿尔茨海默病患者是女性？深入探讨大脑健康中的性别差异
-summary: 本期节目深入探讨女性大脑健康问题，指出女性在偏头痛、焦虑、抑郁和阿尔茨海默病等疾病中发病率更高。娜塔莎·拉贾教授解释了激素（如雌激素）、更年期、围绝经期和子宫切除术对女性大脑健康的深远影响。节目还强调了APOE ε4基因型在女性阿尔茨海默病风险中的独特作用，以及健康社会决定因素对认知储备的重要性。专家呼吁增加女性健康研究投入，并倡导个体关注自身身体信号，以实现更公平、更优化的健康老龄化。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Nam Kiwanuka
-  - Lynn Posluns
-  - Lisa Mosconi
-  - Professor Natasha Raja
-  - Brenda Milner
-  - Patient HM
-  - Claudia Bar
-  - Sydney
-companies_orgs:
-  - Women's Brain Health Initiative
-  - CAMH
-  - Toronto Metropolitan University
-  - FDA
-  - UK Biobank
-  - TVO Today
-products_models: []
-media_books:
-  - The Menopause Brain
-  - The New York Times
-  - Mistreated
 status: evergreen
+summary: 本期节目深入探讨女性大脑健康问题，指出女性在偏头痛、焦虑、抑郁和阿尔茨海默病等疾病中发病率更高。娜塔莎·拉贾教授解释了激素（如雌激素）、更年期、围绝经期和子宫切除术对女性大脑健康的深远影响。节目还强调了APOE
+  ε4基因型在女性阿尔茨海默病风险中的独特作用，以及健康社会决定因素对认知储备的重要性。专家呼吁增加女性健康研究投入，并倡导个体关注自身身体信号，以实现更公平、更优化的健康老龄化。
+tags:
+- brain
+- health
+- risk
+- social
+title: 为何70%的阿尔茨海默病患者是女性？深入探讨大脑健康中的性别差异
 ---
+
 ### 女性大脑健康：一个被忽视的关键议题
 
 您正在收听《Mistreated》节目。大脑健康是一个女性议题。

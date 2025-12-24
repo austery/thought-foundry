@@ -1,60 +1,60 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 世界银行
+- 国际货币基金组织
+- 东北证券
+- 华为
+- 大疆
+- Alibaba
+- 腾讯
+- 宁德时代
+- 汇丰
+- 苹果
+- Microsoft
+- Google
+- 三星
+- Nvidia
+- 长江实业
+- 友邦保险
+- 怡和集团
+- 东京电力公司
+- 日本邮政控股
+- 韩国电力公司
+- 台湾中油
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《2024年世界发展报告》
+- 《2024年国际货币基金组织评估报告》
+people:
+- 马云
+- 库兹涅茨
+- 傅鹏
+products_models:
+- iPhone 6
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=6Rrh7Ky8_CY
 speaker: 老周横眉
-tags:
-  - middle-income-trap
-  - economic-bottleneck
-  - system-transformation
-  - state-vs-private-enterprise
-  - rear-end-curse
-title: 中国经济：周期性调整，还是无法逾越的瓶颈？
-summary: 本文深入探讨中国经济当前面临的困境，质疑其是否仅为周期性调整，抑或已陷入难以逾越的瓶颈。通过分析“中等收入陷阱”和“后发劣势”理论，文章指出中国经济在技术创新和制度转型上的挑战，并对比了国有企业与私营企业在全球500强中的表现。作者结合个人投资经验，对中国经济的未来走向及民众应对策略提出了独到见解。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 马云
-  - 库兹涅茨
-  - 傅鹏
-companies_orgs:
-  - 世界银行
-  - 国际货币基金组织
-  - 东北证券
-  - 华为
-  - 大疆
-  - 阿里巴巴
-  - 腾讯
-  - 宁德时代
-  - 汇丰
-  - 苹果
-  - 微软
-  - 谷歌
-  - 三星
-  - 英伟达
-  - 长江实业
-  - 友邦保险
-  - 怡和集团
-  - 东京电力公司
-  - 日本邮政控股
-  - 韩国电力公司
-  - 台湾中油
-products_models:
-  - iPhone 6
-media_books:
-  - 《2024年世界发展报告》
-  - 《2024年国际货币基金组织评估报告》
 status: evergreen
+summary: 本文深入探讨中国经济当前面临的困境，质疑其是否仅为周期性调整，抑或已陷入难以逾越的瓶颈。通过分析“中等收入陷阱”和“后发劣势”理论，文章指出中国经济在技术创新和制度转型上的挑战，并对比了国有企业与私营企业在全球500强中的表现。作者结合个人投资经验，对中国经济的未来走向及民众应对策略提出了独到见解。
+tags:
+- economic
+- income
+- state
+- system
+- technology
+title: 中国经济：周期性调整，还是无法逾越的瓶颈？
 ---
+
 ### 中国经济现状与民众体感
 
 最近，一位中国出租车师傅的经历引发了广泛共鸣：他开了一辈子出租车，辛辛苦苦赚钱，好不容易花了数十万供儿子大学毕业，结果现在他开夜班，儿子开白班。虽然这不确定是真事还是段子，但它无疑反映了中国老百姓对当前经济状况的切身感受和自嘲。尽管中国官方仍坚持GDP增长率为5%，但这类公告的评论区通常是关闭或空置的，因为这个数字与人们的实际感受相去甚远。

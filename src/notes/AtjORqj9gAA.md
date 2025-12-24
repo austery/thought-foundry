@@ -1,54 +1,53 @@
 ---
-author: 记者易速利
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Polymarket
+- USAID
+- Heritage Action for America
 date: '2025-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《史密斯先生到华盛顿》
+- Washington Post
+people:
+- Donald Trump
+- Chuck Schumer
+- Hakeem Jeffries
+- Mike Johnson
+- John Thune
+- Kevin McCarthy
+- Rand Paul
+- Susan Collins
+- Russell Vought
+- Mr. Smith
+- Nicole Kidman
+- Keith Urban
+products_models:
+- Project 2025
+- Obamacare
+- Medicaid
+- ACA premium tax credit
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=AtjORqj9gAA
 speaker: 记者易速利
-tags:
-  - us-government-shutdown
-  - healthcare-subsidies
-  - midterm-elections-2026
-  - political-polarization
-  - bureaucracy-reform
-title: 美国政府关门危机：医保补贴、中期选举与联邦官僚体系改革的政治博弈
-summary: 本文深入探讨了美国联邦政府关门背后的政治分歧，核心聚焦于新冠疫情期间增加的医保补贴即将到期问题。文章分析了特朗普政府、国会两党领袖在医保政策上的立场，以及这如何影响2026年中期选举。同时，文中也详细阐述了特朗普政府通过关门和“2025计划”推动大规模联邦雇员裁员，以改革联邦官僚体系的深层意图，并预测了此次关门可能带来的政治和社会后果。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Chuck Schumer
-  - Hakeem Jeffries
-  - Mike Johnson
-  - John Thune
-  - Kevin McCarthy
-  - Rand Paul
-  - Susan Collins
-  - Russell Vought
-  - Mr. Smith
-  - Nicole Kidman
-  - Keith Urban
-companies_orgs:
-  - Polymarket
-  - USAID
-  - Heritage Action for America
-products_models:
-  - Project 2025
-  - Obamacare
-  - Medicaid
-  - ACA premium tax credit
-media_books:
-  - 《史密斯先生到华盛顿》
-  - Washington Post
 status: evergreen
+summary: 本文深入探讨了美国联邦政府关门背后的政治分歧，核心聚焦于新冠疫情期间增加的医保补贴即将到期问题。文章分析了特朗普政府、国会两党领袖在医保政策上的立场，以及这如何影响2026年中期选举。同时，文中也详细阐述了特朗普政府通过关门和“2025计划”推动大规模联邦雇员裁员，以改革联邦官僚体系的深层意图，并预测了此次关门可能带来的政治和社会后果。
+tags:
+- geopolitical
+- health
+- reform
+- us-government-shutdown
+title: 美国政府关门危机：医保补贴、中期选举与联邦官僚体系改革的政治博弈
 ---
+
 ### 美国政府关门：预测市场与历史回顾
 
 美国联邦政府从中国国庆节当天开始关门，国庆长假持续七天，但美国政府关门会持续多少天仍是未知数，也许几天，也许几周，只有国会和白宫才是决定者。然而，每个人都有机会通过真金白银去下注预测。**Polymarket**（预测市场：一个基于区块链的去中心化预测平台）已经开放了关于关门持续时间的项目。用户普遍预测这次关门的时间比较长，至少持续到10月中旬甚至更久，希望不要拖到党的20届市中全会召开的时候，即10月20号。

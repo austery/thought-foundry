@@ -1,59 +1,58 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 联合国
+- 斯坦福中国经济与制度研究中心
+- 食环署
+- 常识集团
+- 新鸿基地产
+- 恒基兆业
+- 新世界发展
+- 港灯
+- 和记港口
+- 数码通
+- 中华煤气
+- 城巴
+- 百佳超市
+- 屈臣氏
+- 丰泽电器
+- 周大福
+- K11
+- 港英政府
+- 特区政府
+- 建屋发展局
+- 人民行动党
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李嘉诚
+- 李兆基
+- 郭德胜
+- 郑玉彤
+- 霍英东
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=blDgX0vzUtQ
 speaker: 老周横眉
-tags:
-  - hong-kong-housing-crisis
-  - wealth-inequality
-  - systemic-failure
-  - real-estate-monopoly
-  - plutocommunism
-title: 香港之殇：从笼屋到豪宅，系统性失败下的居住困境与贫富悬殊
-summary: 本文深入剖析香港光鲜外表下的严峻居住困境，揭示笼屋、棺材房、劏房等恶劣居住条件背后，是土地供应的制度性控制、政府对土地财政的依赖、历史遗留问题以及“四大家族”的垄断。文章分析了这些因素如何导致香港房价畸高、贫富差距加剧，并探讨了政府政策的局限性及香港社会结构性失败的根源，最终指出香港已失去其灵魂。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - 李嘉诚
-  - 李兆基
-  - 郭德胜
-  - 郑玉彤
-  - 霍英东
-companies_orgs:
-  - 联合国
-  - 斯坦福中国经济与制度研究中心
-  - 食环署
-  - 常识集团
-  - 新鸿基地产
-  - 恒基兆业
-  - 新世界发展
-  - 港灯
-  - 和记港口
-  - 数码通
-  - 中华煤气
-  - 城巴
-  - 百佳超市
-  - 屈臣氏
-  - 丰泽电器
-  - 周大福
-  - K11
-  - 港英政府
-  - 特区政府
-  - 建屋发展局
-  - 人民行动党
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入剖析香港光鲜外表下的严峻居住困境，揭示笼屋、棺材房、劏房等恶劣居住条件背后，是土地供应的制度性控制、政府对土地财政的依赖、历史遗留问题以及“四大家族”的垄断。文章分析了这些因素如何导致香港房价畸高、贫富差距加剧，并探讨了政府政策的局限性及香港社会结构性失败的根源，最终指出香港已失去其灵魂。
+tags:
+- crisis
+- failure
+- plutocommunism
+- real
+- wealth-inequality
+title: 香港之殇：从笼屋到豪宅，系统性失败下的居住困境与贫富悬殊
 ---
+
 ### 香港的璀璨灯火与阴影下的绝望
 
 香港，这座曾经被誉为“东方之珠”的亚洲骄傲，即便在经历了2019年的社会运动和2020年的《国安法》颁布后，其国际金融中心的地位依然难以在短时间内被取代。维多利亚港璀璨的天际线和世界名列前茅的人均GDP，依旧是许多人心目中的亚洲之光。然而，在这座城市光鲜亮丽的摩天大楼阴影下，却有几十万人被困在世上最恶劣的居住条件当中。当你看见香港的**笼屋**（lóng wū: 将一个单位分割成几十个床位，每个床位被铁丝网包围的住所）、**棺材房**（guāncai fáng: 由木板隔层，空间仅够平躺，大小如棺材的住所）和**劏房**（tāng fáng: 一个标准的住宅单位被分割成几个甚至十几个独立的小房间）时，很难想象一个举世闻名的金融中心，居然有那么多人的居住条件甚至不如一些国家的动物。在这些住所中，人的尊严被压缩至物理空间的极限，这已不仅仅是空间狭小的问题，更是居住形态的异化，将人类的生存空间降格为动物版的圈养。

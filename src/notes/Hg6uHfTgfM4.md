@@ -1,36 +1,35 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
+- 起動物理治療所
 date: '2025-07-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 宋晏仁
+- 陈姿逸
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Hg6uHfTgfM4
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - posture-correction
-  - prolonged-sitting
-  - core-strength
-  - physical-therapy
-  - muscle-soreness
-title: 物理治療師揭秘：為何「抬頭挺胸」非最佳姿勢？久坐危害與正確體態實踐
-summary: 啾C物理治療師陳姿逸在《初日會客室》中，深入探討現代人久坐的兩大危害：心血管系統問題與肌骨系統痠痛。她強調「維持單一正確姿勢」並非解決痠痛之道，而是應每15分鐘變換姿勢，並介紹了保護關節與肌肉的「正確姿勢」概念。節目中還示範了多種反向動作，矯正骨盆、脊椎、肩膀及頸部問題，並強調內核心肌群在呼吸與身體穩定中的關鍵作用，提供實用的居家運動建議。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 宋晏仁
-  - 陈姿逸
-companies_orgs:
-  - 初日醫學
-  - Cofit
-  - 起動物理治療所
-products_models: []
-media_books: []
 status: evergreen
+summary: 啾C物理治療師陳姿逸在《初日會客室》中，深入探討現代人久坐的兩大危害：心血管系統問題與肌骨系統痠痛。她強調「維持單一正確姿勢」並非解決痠痛之道，而是應每15分鐘變換姿勢，並介紹了保護關節與肌肉的「正確姿勢」概念。節目中還示範了多種反向動作，矯正骨盆、脊椎、肩膀及頸部問題，並強調內核心肌群在呼吸與身體穩定中的關鍵作用，提供實用的居家運動建議。
+tags:
+- core-strength
+- health
+- history
+- investment
+- posture-correction
+title: 物理治療師揭秘：為何「抬頭挺胸」非最佳姿勢？久坐危害與正確體態實踐
 ---
+
 ### 序言：久坐的危害與姿勢迷思
 
 **宋晏仁:** 嗨，大家好，我是宋晏仁醫師，歡迎您來到初日會客室。今天為您邀訪的是另外一位知識網紅，啾C物理治療師。美麗的物理治療師，請您介紹一下自己。

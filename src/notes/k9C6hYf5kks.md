@@ -1,35 +1,33 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Intel
+- Amazon
 date: '2025-02-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=k9C6hYf5kks
 speaker: Norges Bank Investment Management
-tags:
-  - responsible-investment
-  - long-term-value
-  - climate-risk
-  - corporate-transparency
-  - ceo-compensation
-title: 负责任投资：挪威主权财富基金2024年报告亮点与长期价值创造
-summary: 挪威银行投资管理公司发布2024年负责任投资报告，强调长期价值创造、气候转型和透明度三大核心主题。报告指出，短期财报压力可能阻碍增长和创新，因此倡导高管薪酬与长期价值挂钩。同时，气候风险被视为金融风险，基金积极推动投资组合的气候转型。透明度是关键，基金通过广泛的公司会议、股东提案和信息披露，推动企业遵循国际标准，并披露了因气候风险等原因剥离49家公司的决策。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people: []
-companies_orgs:
-  - Norges Bank Investment Management
-  - Intel
-  - Amazon
-products_models: []
-media_books: []
 status: evergreen
+summary: 挪威银行投资管理公司发布2024年负责任投资报告，强调长期价值创造、气候转型和透明度三大核心主题。报告指出，短期财报压力可能阻碍增长和创新，因此倡导高管薪酬与长期价值挂钩。同时，气候风险被视为金融风险，基金积极推动投资组合的气候转型。透明度是关键，基金通过广泛的公司会议、股东提案和信息披露，推动企业遵循国际标准，并披露了因气候风险等原因剥离49家公司的决策。
+tags:
+- ceo-compensation
+- corporate
+- investment
+- risk
+- value
+title: 负责任投资：挪威主权财富基金2024年报告亮点与长期价值创造
 ---
+
 ### 2024年负责任投资报告亮点
 
 今天，我们发布了2024年负责任投资报告，期待向大家介绍一些亮点。

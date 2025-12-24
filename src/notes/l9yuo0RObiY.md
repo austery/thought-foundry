@@ -1,42 +1,40 @@
 ---
-author: Nico投资有道
+area: market-analysis
+category: finance
+companies_orgs:
+- NVIDIA
+- Microsoft
+- Apple
+- Google
+- 美联储
+- 欧易
+- 币安
+- Circle
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- J.P. Morgan
+- Donald Trump
+products_models: []
+project:
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=l9yuo0RObiY
 speaker: Nico投资有道
-tags:
-  - gold-investment
-  - bitcoin-vs-gold
-  - dollar-credit-crisis
-  - geopolitical-impact
-  - investment-philosophy
-title: 黄金暴涨下的投资抉择：为何我偏爱比特币而非黄金？
-summary: 本视频深入探讨了黄金在两年内市值翻倍的现象，并分析其背后驱动因素，包括美元信用体系的崩坏、美国债务赤字问题以及地缘政治冲突。尽管黄金表现强劲，但作者分享了自己未持有黄金仓位的原因，并将其投资理念与比特币进行对比。视频详细阐述了比特币相对于黄金的优势，如可拆分性、便携性、稀缺性及市值潜力，并展望了比特币的长期和短期投资前景，强调了长期投资信念和抓住认知范围内机会的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - J.P. Morgan
-  - Donald Trump
-companies_orgs:
-  - NVIDIA
-  - Microsoft
-  - Apple
-  - Google
-  - 美联储
-  - 欧易
-  - 币安
-  - Circle
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了黄金在两年内市值翻倍的现象，并分析其背后驱动因素，包括美元信用体系的崩坏、美国债务赤字问题以及地缘政治冲突。尽管黄金表现强劲，但作者分享了自己未持有黄金仓位的原因，并将其投资理念与比特币进行对比。视频详细阐述了比特币相对于黄金的优势，如可拆分性、便携性、稀缺性及市值潜力，并展望了比特币的长期和短期投资前景，强调了长期投资信念和抓住认知范围内机会的重要性。
+tags:
+- crisis
+- geopolitical-impact
+- investment
+- investment-philosophy
+title: 黄金暴涨下的投资抉择：为何我偏爱比特币而非黄金？
 ---
+
 ### 黄金近期暴涨现象与背景
 
 黄金在两年时间内市值翻了一倍，达到了接近30个**万亿美元**（Trillion: 衡量大额货币单位，一万亿美元等于一兆美元）。然而，我手头没有任何黄金仓位。为什么我没有买入黄金？比特币和黄金，哪一个是未来更好的投资选择？在本期视频中，我将详细分享我对以上问题的看法，帮助你快速找到未来的投资答案。

@@ -1,38 +1,37 @@
 ---
-title: 与诺姆·乔姆斯基的对话：泛心论、大语言模型与人工智能意识
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - 意识
-  - 泛心论
-  - 语言学
-people:
-  - Curt Jaimungal
-  - Noam Chomsky
-  - Joscha Bach
-  - Avi Loeb
-  - Karl Friston
-  - Philip Goff
-  - Tim Maudlin
-  - Donald Hoffman
-  - Norman Wildberger
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: tech-engineering
 author: Lei
-speaker: ''
+category: ai-ml
 channel: null
-guest: 
+companies_orgs: []
+date: '2025-07-10'
+guest: null
 insight: null
 layout: post.njk
+people:
+- Curt Jaimungal
+- Noam Chomsky
+- Joscha Bach
+- Avi Loeb
+- Karl Friston
+- Philip Goff
+- Tim Maudlin
+- Donald Hoffman
+- Norman Wildberger
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=GxZp6890hQk
+speaker: ''
+summary: null
+tags:
+- consciousness
+- philosophy
+- 语言学
+title: 与诺姆·乔姆斯基的对话：泛心论、大语言模型与人工智能意识
 ---
+
 ## 引言与访谈说明
 
 **Curt Jaimungal:** I just finished recording with Noam Chomsky. This is

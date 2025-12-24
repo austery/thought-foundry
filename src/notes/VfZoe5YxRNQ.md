@@ -1,31 +1,28 @@
 ---
-title: H1-B签证剧变：一场政治豪赌与美国未来之忧
-summary: 特朗普政府提出H1-B签证10万美元申请费新政，引发全球恐慌与混乱。本文深入分析该政策的真正意图，揭示其对美国科技竞争力、医疗系统及人才吸引力的潜在伤害，并指出其本质是一场为短期政治利益服务的政治表演。
 area: society-systems
-category: geopolitics
-project:
-- us-analysis
-tags:
-- h1-b-visa
-- immigration-policy
-- national-competitiveness
-- trump-administration
-- us-politics
-people: []
+category: politics-society
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-22'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=VfZoe5YxRNQ
+speaker: 北美王路飞
 status: evergreen
+summary: 特朗普政府提出H1-B签证10万美元申请费新政，引发全球恐慌与混乱。本文深入分析该政策的真正意图，揭示其对美国科技竞争力、医疗系统及人才吸引力的潜在伤害，并指出其本质是一场为短期政治利益服务的政治表演。
+tags:
+- immigration-policy
+- life
+- national
+- trump-administration
+title: H1-B签证剧变：一场政治豪赌与美国未来之忧
 ---
+
 ## H1-B签证风暴：10万美元的申请费
 
 前两天，川普总统签署了一项行政命令，规定未来申请**H1-B工作签证**（一种美国向高技能外国人才发放的非移民工作签证），需要先交10万美元的申请费。你没听错，是10万美元。这个新闻一出，整个市场就炸了锅。

@@ -1,94 +1,94 @@
 ---
-author: 夸克说
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=wMT_fL_5VvU'
-speaker: 夸克说
-tags:
-  - historical-ranking
-  - cultural-bias
-  - scientific-evaluation
-  - nationalism
-  - academic-metrics
-title: 数据揭秘：杨振宁在物理学史上的真实地位与影响力评估
-summary: 本文深入探讨了杨振宁在物理学史上的真实地位与影响力，旨在纠正简中网络中普遍存在的“坐五望三”的夸大说法。通过对比国际专业物理学杂志、权威媒体及学术数据库的排名数据，文章揭示了民族主义滤镜如何影响对科学家的评价。最终结论指出，尽管杨振宁的贡献无疑是伟大的，但其公允的历史排位应在200至300位之间，远低于国内社交媒体所宣称的顶尖位置，强调了客观评价的重要性。
-insight: ''
-draft: true
-series: ''
-category: culture
 area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - Yang Zhenning
-  - Muhammad ibn Musa al-Khwarizmi
-  - Leonhard Euler
-  - Isaac Newton
-  - Albert Einstein
-  - James Clerk Maxwell
-  - Niels Bohr
-  - Werner Heisenberg
-  - Galileo Galilei
-  - Richard Feynman
-  - Paul Dirac
-  - Erwin Schrödinger
-  - Ernest Rutherford
-  - Ludwig Boltzmann
-  - Michael Faraday
-  - Max Planck
-  - Enrico Fermi
-  - Marie Curie
-  - Wolfgang Pauli
-  - Henry Cavendish
-  - Lev Landau
-  - Yoichiro Nambu
-  - Tsung-Dao Lee
-  - Samuel C. C. Ting
-  - Steven Chu
-  - Carl Friedrich Gauss
-  - Pythagoras
-  - Liu Hui
-  - Zu Chongzhi
-  - Yao Ming
-  - Shaquille O'Neal
-  - Liu Xiang
-  - Su Bingtian
-  - Usain Bolt
-  - Sachin Tendulkar
-  - Michael Jordan
-  - Irène Joliot-Curie
-  - Pierre Curie
-  - Mahabadi
-  - Abdul Qadeer Khan
-  - Xiang Zhang
+category: culture
 companies_orgs:
-  - Institute of Physics
-  - American Physical Society
-  - Iranian Revolutionary Guard Corps
-products_models:
-  - Yang-Mills gauge theory
-  - Newton's Laws of Motion
-  - Theory of Relativity
-  - Quantum Mechanics
-  - Artemisinin
-  - Seismograph
-  - H-index
+- Institute of Physics
+- American Physical Society
+- Iranian Revolutionary Guard Corps
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Physics World
-  - Physics Today
-  - Nature
-  - PLOS
-  - Academic Influence
-  - Research.com
-  - BBC Arabic
-  - Zhihu
-  - Douyin
-  - Bilibili
-  - Wikipedia
+- Physics World
+- Physics Today
+- Nature
+- PLOS
+- Academic Influence
+- Research.com
+- BBC Arabic
+- Zhihu
+- Douyin
+- Bilibili
+- Wikipedia
+people:
+- Yang Zhenning
+- Muhammad ibn Musa al-Khwarizmi
+- Leonhard Euler
+- Isaac Newton
+- Albert Einstein
+- James Clerk Maxwell
+- Niels Bohr
+- Werner Heisenberg
+- Galileo Galilei
+- Richard Feynman
+- Paul Dirac
+- Erwin Schrödinger
+- Ernest Rutherford
+- Ludwig Boltzmann
+- Michael Faraday
+- Max Planck
+- Enrico Fermi
+- Marie Curie
+- Wolfgang Pauli
+- Henry Cavendish
+- Lev Landau
+- Yoichiro Nambu
+- Tsung-Dao Lee
+- Samuel C. C. Ting
+- Steven Chu
+- Carl Friedrich Gauss
+- Pythagoras
+- Liu Hui
+- Zu Chongzhi
+- Yao Ming
+- Shaquille O'Neal
+- Liu Xiang
+- Su Bingtian
+- Usain Bolt
+- Sachin Tendulkar
+- Michael Jordan
+- Irène Joliot-Curie
+- Pierre Curie
+- Mahabadi
+- Abdul Qadeer Khan
+- Xiang Zhang
+products_models:
+- Yang-Mills gauge theory
+- Newton's Laws of Motion
+- Theory of Relativity
+- Quantum Mechanics
+- Artemisinin
+- Seismograph
+- H-index
+project:
+- historical-insights
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=wMT_fL_5VvU
+speaker: 夸克说
 status: evergreen
+summary: 本文深入探讨了杨振宁在物理学史上的真实地位与影响力，旨在纠正简中网络中普遍存在的“坐五望三”的夸大说法。通过对比国际专业物理学杂志、权威媒体及学术数据库的排名数据，文章揭示了民族主义滤镜如何影响对科学家的评价。最终结论指出，尽管杨振宁的贡献无疑是伟大的，但其公允的历史排位应在200至300位之间，远低于国内社交媒体所宣称的顶尖位置，强调了客观评价的重要性。
+tags:
+- academic-metric
+- cultural
+- historical
+- nationalism
+- scientific
+title: 数据揭秘：杨振宁在物理学史上的真实地位与影响力评估
 ---
+
 ### 重新审视杨振宁的物理学地位
 
 上期我谈了对杨振宁的评价，但那主要是针对学术成就以外的部分。我也说过，对于科学家而言，人品和成就是两回事。一个人完全可以在人品很差、缺少良知的情况下，仍然是某个领域的天才。反过来，也有很多人品不错、心地善良，但在专业领域没有什么天分。本集，我们就来聊聊杨振宁作为物理学家的历史地位和影响力。

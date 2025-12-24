@@ -1,55 +1,55 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: culture
+companies_orgs:
+- 协和医院
+- 卫生福利部
+- 301医院
 date: '2024-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《生命的最后一刻》
+- 《美好的味道》
+- 《我的死亡谁做主》
+- 《安宁缓和医疗条例》
+- 《病人自主权利法》
+people:
+- 琼瑶
+- 柴静
+- 巴金
+- 于秋雨
+- 陈小鲁
+- 罗点点
+- 周恩来
+- 毛泽东
+- 沈君山
+- 吾大友
+- 平鑫涛
+- 三毛
+- 赵可式
+- 杨玉新
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=L20VBTW615E
 speaker: 柴静 Chai Jing
-tags:
-  - dignified-death
-  - end-of-life-care
-  - individual-autonomy
-  - societal-expectations
-  - medical-ethics
-title: 琼瑶之死：一场关于生命终点与尊严选择的社会讨论
-summary: 资深媒体人柴静以琼瑶的离世为引，深入探讨了“善终权”这一议题。文章通过巴金、陈毅等历史人物的临终经历，以及柴静自身父亲的案例，揭示了在集体意志、孝道观念和医疗利益交织下，个体在生命末期选择的困境。文章呼吁社会正视死亡，与亲人坦诚沟通，以实现“生死不自由”的个人尊严。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 琼瑶
-  - 柴静
-  - 巴金
-  - 于秋雨
-  - 陈小鲁
-  - 罗点点
-  - 周恩来
-  - 毛泽东
-  - 沈君山
-  - 吾大友
-  - 平鑫涛
-  - 三毛
-  - 赵可式
-  - 杨玉新
-companies_orgs:
-  - 协和医院
-  - 卫生福利部
-  - 301医院
-products_models: []
-media_books:
-  - 《生命的最后一刻》
-  - 《美好的味道》
-  - 《我的死亡谁做主》
-  - 《安宁缓和医疗条例》
-  - 《病人自主权利法》
 status: evergreen
+summary: 资深媒体人柴静以琼瑶的离世为引，深入探讨了“善终权”这一议题。文章通过巴金、陈毅等历史人物的临终经历，以及柴静自身父亲的案例，揭示了在集体意志、孝道观念和医疗利益交织下，个体在生命末期选择的困境。文章呼吁社会正视死亡，与亲人坦诚沟通，以实现“生死不自由”的个人尊严。
+tags:
+- dignified-death
+- ethics
+- individual-autonomy
+- life
+- societal
+title: 琼瑶之死：一场关于生命终点与尊严选择的社会讨论
 ---
+
 ### 琼瑶之死引发的争议与反思
 
 琼瑶的离世在社会上引发了广泛讨论。看到一些评论后，我虽然不愿做节目，但仍想说几句。有人批评她，认为她在离开这个世界前还要“毒害”大家一番，并说如果琼瑶在大陆，绝不会自杀，肯定能活到一百岁。这确实有可能。他的话让我想起了百岁作家巴金。巴金在医院度过了最后六年，依靠胃管和呼吸机维持生命。后来，他住在一个玻璃病房里，靠氧气续命，甚至很难见到家人。巴金神智清醒时，曾患有严重的抑郁症，多次提到“安乐死”的概念。但那是不可能的。医生的目标是让这位“泰斗”活到一百岁。他最终活到了一百岁。因为很多人都在等待这一天。他们要举办生日派对，举行文学讲座，拍摄专题电视系列片，并出版演讲集。

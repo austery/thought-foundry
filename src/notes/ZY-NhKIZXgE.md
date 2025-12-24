@@ -1,77 +1,78 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Nvidia
+- Google
+- OpenAI
+- Microsoft
+- Intel
+- Busycom
+- IBM
+- Deck
+- Moss Technologies
+- RJR Nabisco
+- Sealand
+- IKEA
+- Walmart
+- Target
+- Sears
+- Woolworths
+- Anthropic
+- Stripe
+- Razerfish
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+- AI Will Not Make You Rich
+- 'Founder Verse Investor, The Honest Truth About Venture Capital: From Startup to
+  IPO'
+- Technological Revolutions and Financial Capital
+- The Intel Trinity
+- The Box
+- Wall Street Journal
+- New Yorker
+people:
+- Jerry Newman
+- Jill Weisenthal
+- Tracy Alloway
+- Ed Harrison
+- Jensen Wong
+- Ingvar Comprad
+- Henry Ford
+- Mark Zuckerberg
+- Tyler Cowen
+- Carmen Rodriguez
+- Armano Bennett
+- Kalebrooks
+products_models:
+- Ethereum
+- '4004'
+- '6502'
+- Commodore 64
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ZY-NhKIZXgE
 speaker: Bloomberg Podcasts
-tags:
-  - ai-investment
-  - value-capture
-  - technological-revolutions
-  - market-bubbles
-  - venture-capital
-title: AI投资：为何难以致富？从集装箱化看技术革命的终结
-summary: 本期OddLots播客探讨了AI投资的独特挑战。嘉宾Jerry Newman认为，尽管AI是一项革命性技术，但早期投资者可能难以从中致富，这与历史上的集装箱化浪潮有相似之处。他指出，AI更像是计算机技术革命的终结而非新革命的开端，价值捕获将主要流向现有巨头而非初创公司。文章还深入分析了VC投资策略、IPO窗口、市场泡沫的定义以及AI时代企业应如何利用技术实现增长。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Jerry Newman
-  - Jill Weisenthal
-  - Tracy Alloway
-  - Ed Harrison
-  - Jensen Wong
-  - Ingvar Comprad
-  - Henry Ford
-  - Mark Zuckerberg
-  - Tyler Cowen
-  - Carmen Rodriguez
-  - Armano Bennett
-  - Kalebrooks
-companies_orgs:
-  - Bloomberg
-  - Nvidia
-  - Google
-  - OpenAI
-  - Microsoft
-  - Intel
-  - Busycom
-  - IBM
-  - Deck
-  - Moss Technologies
-  - RJR Nabisco
-  - Sealand
-  - IKEA
-  - Walmart
-  - Target
-  - Sears
-  - Woolworths
-  - Anthropic
-  - Stripe
-  - Razerfish
-products_models:
-  - Ethereum
-  - '4004'
-  - '6502'
-  - Commodore 64
-media_books:
-  - OddLots podcast
-  - AI Will Not Make You Rich
-  - 'Founder Verse Investor, The Honest Truth About Venture Capital: From Startup to IPO'
-  - Technological Revolutions and Financial Capital
-  - The Intel Trinity
-  - The Box
-  - Wall Street Journal
-  - New Yorker
 status: evergreen
+summary: 本期OddLots播客探讨了AI投资的独特挑战。嘉宾Jerry Newman认为，尽管AI是一项革命性技术，但早期投资者可能难以从中致富，这与历史上的集装箱化浪潮有相似之处。他指出，AI更像是计算机技术革命的终结而非新革命的开端，价值捕获将主要流向现有巨头而非初创公司。文章还深入分析了VC投资策略、IPO窗口、市场泡沫的定义以及AI时代企业应如何利用技术实现增长。
+tags:
+- ai-investment
+- market-bubble
+- technological
+- value
+- venture-capital
+title: AI投资：为何难以致富？从集装箱化看技术革命的终结
 ---
+
 ### AI投资的困境：缺乏纯粹的AI上市公司
 
 **Jill Weisenthal:** 大家好，欢迎收听新一期的OddLots播客。我是Jill Weisenthal。

@@ -1,44 +1,44 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Micron
+- Samsung
+- SK hynix
+- Visa
+- Mastercard
+- American Express
+- Lululemon
+- Nike
+- Adidas
 date: '2025-01-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=3qMcVdcwOtE
 speaker: Shijun Tang
-tags:
-  - semiconductor-cycle-recovery
-  - payment-network-ecosystem
-  - brand-luxury-marketing
-  - capital-allocation-excellence
-  - barriers-to-entry
-title: 美光、Visa、Mastercard与Lululemon：半导体寒冬中的寡头红利与支付网络的坚不可摧
-summary: 本文深度解析美光科技在三星退出内存市场后迎来的结构性机会，同时剖析Visa与Mastercard如何凭借支付网络构建坚不可摧的护城河，并探讨Lululemon的高端运动服饰扩张策略与投资疑虑，揭示非传统科技股中的长期价值逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - Micron
-  - Samsung
-  - SK hynix
-  - Visa
-  - Mastercard
-  - American Express
-  - Lululemon
-  - Nike
-  - Adidas
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深度解析美光科技在三星退出内存市场后迎来的结构性机会，同时剖析Visa与Mastercard如何凭借支付网络构建坚不可摧的护城河，并探讨Lululemon的高端运动服饰扩张策略与投资疑虑，揭示非传统科技股中的长期价值逻辑。
+tags:
+- business
+- capital-allocation-excellence
+- ecosystem
+- semiconductor-cycle-recovery
+- technology
+title: 美光、Visa、Mastercard与Lululemon：半导体寒冬中的寡头红利与支付网络的坚不可摧
 ---
+
 ### 美光科技：三星陨落后的内存寡头红利
 
 又到了每个季度对美光（Micron）进行复盘的时刻，这是2025年的第一支视频。在这里，我也祝大家新年快乐，愿新的一年投资顺利。

@@ -1,57 +1,56 @@
 ---
-author: 郭里有范
+area: society-systems
+category: geopolitics
+companies_orgs:
+- BRICS
+- G7
+- Ford
+- BYD
+- State Grid
+- CMOC Group
+- Meituan
+- Mixue Bingcheng
+- European Union
+- Pew Research Center
+- CIA
+- SWIFT
+- Bloomberg
+- Atlas Public Opinion
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Lula
+- Kassym-Jomart Tokayev
+- Xi Jinping
+- Narendra Modi
+- Bahadur Kumar
+- Jair Bolsonaro
+- Joseph Stiglitz
+products_models:
+- Euro
+- BRICS Coin
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=iuBffJAS6qg
 speaker: 郭里有范
-tags:
-  - de-dollarization
-  - trade-war
-  - brics-expansion
-  - us-hegemony
-  - tariff-weaponization
-title: 川普关税政策下的金砖国家：去美元化进程加速与全球格局变迁
-summary: 本文深入分析了美国前总统川普的贸易保护主义政策，特别是对巴西和印度加征关税，如何意外地加速了金砖国家推动“去美元化”的进程。文章探讨了金砖组织从松散联盟到日益壮大的演变，以及其在全球经济体系中挑战美元霸权的潜力。通过巴西、印度与中俄关系的案例，揭示了各国在面对美国经济施压时，寻求本币结算和区域合作的必然性，并讨论了关税武器化对国际法治和政治伦理的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Lula
-  - Kassym-Jomart Tokayev
-  - Xi Jinping
-  - Narendra Modi
-  - Bahadur Kumar
-  - Jair Bolsonaro
-  - Joseph Stiglitz
-companies_orgs:
-  - BRICS
-  - G7
-  - Ford
-  - BYD
-  - State Grid
-  - CMOC Group
-  - Meituan
-  - Mixue Bingcheng
-  - European Union
-  - Pew Research Center
-  - CIA
-  - SWIFT
-  - Bloomberg
-  - Atlas Public Opinion
-products_models:
-  - Euro
-  - BRICS Coin
-media_books: []
 status: evergreen
+summary: 本文深入分析了美国前总统川普的贸易保护主义政策，特别是对巴西和印度加征关税，如何意外地加速了金砖国家推动“去美元化”的进程。文章探讨了金砖组织从松散联盟到日益壮大的演变，以及其在全球经济体系中挑战美元霸权的潜力。通过巴西、印度与中俄关系的案例，揭示了各国在面对美国经济施压时，寻求本币结算和区域合作的必然性，并讨论了关税武器化对国际法治和政治伦理的深远影响。
+tags:
+- brics-expansion
+- geopolitical
+- tariff-weaponization
+- technology
+- trade-war
+title: 川普关税政策下的金砖国家：去美元化进程加速与全球格局变迁
 ---
+
 ### 川普对金砖国家的警惕与关税威胁
 
 美国前总统**唐纳德·川普**（Donald Trump）一直将**金砖国家**（BRICS: 巴西、俄罗斯、印度、中国和南非组成的国际组织）视为对美国巨大的威胁。2024年他一赢下大选，就立即警告称，如果金砖国家试图削弱美元，就将面临100%的关税。在金砖巴西峰会期间，川普更进一步，声称对任何与金砖组织结盟的国家，要再加征10%的关税。

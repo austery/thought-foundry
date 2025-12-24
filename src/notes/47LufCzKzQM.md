@@ -1,56 +1,56 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Alibaba
+- DeepSeek
+- OpenAI
+- Google
+- X平台
+- Reddit
+- IMF
+- CRS
+- Bank of England
+- IOSCO
+- DARPA
+- Stanford University
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 康奈尔大学学术预印本
+people:
+- Elon Musk
+products_models:
+- Qwen
+- DeepSeek
+- ChatGPT
+- Gemini
+- Grok
+- GPT-5
+- Gemini 2.5 Pro
+- Qwen-3
+- DeepSeek-RE
+- Grok-4
+project:
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=47LufCzKzQM
 speaker: FearNation 世界苦茶
-tags:
-  - ai-competition
-  - geopolitical-shift
-  - autonomous-agents
-  - risk-management
-  - sputnik-moment
-title: AlphaArena：中国AI模型在投资大赛中“屠杀”西方巨头，这究竟意味着什么？
-summary: 近期，一场名为**AlphaArena**的人工智能交易大赛引发轰动。中国的**DeepSeek**和**Qwen**模型以惊人收益率大胜**OpenAI**的**ChatGPT**、谷歌的**Gemini**等西方模型。本文深入剖析了这场比赛的戏剧性结果，指出其并非智能高下的较量，而是风险策略、执行脚本与市场时机的野蛮碰撞。文章进一步探讨了**AlphaArena**作为“**斯普特尼克时刻**”的象征意义，揭示了AI竞争从知识型聊天机器人转向执行型自主代理的根本性转变，并分析了其对地缘政治和东西方AI哲学部署的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Elon Musk
-companies_orgs:
-  - Alibaba
-  - DeepSeek
-  - OpenAI
-  - Google
-  - X平台
-  - Reddit
-  - IMF
-  - CRS
-  - Bank of England
-  - IOSCO
-  - DARPA
-  - Stanford University
-products_models:
-  - Qwen
-  - DeepSeek
-  - ChatGPT
-  - Gemini
-  - Grok
-  - GPT-5
-  - Gemini 2.5 Pro
-  - Qwen-3
-  - DeepSeek-RE
-  - Grok-4
-media_books:
-  - 康奈尔大学学术预印本
 status: evergreen
+summary: 近期，一场名为**AlphaArena**的人工智能交易大赛引发轰动。中国的**DeepSeek**和**Qwen**模型以惊人收益率大胜**OpenAI**的**ChatGPT**、谷歌的**Gemini**等西方模型。本文深入剖析了这场比赛的戏剧性结果，指出其并非智能高下的较量，而是风险策略、执行脚本与市场时机的野蛮碰撞。文章进一步探讨了**AlphaArena**作为“**斯普特尼克时刻**”的象征意义，揭示了AI竞争从知识型聊天机器人转向执行型自主代理的根本性转变，并分析了其对地缘政治和东西方AI哲学部署的深远影响。
+tags:
+- agent
+- ai-competition
+- geopolitical-shift
+- risk-management
+- society
+title: AlphaArena：中国AI模型在投资大赛中“屠杀”西方巨头，这究竟意味着什么？
 ---
+
 ### 中国AI模型在国际投资大赛中异军突起
 
 今天，我们将探讨一个近期在科技圈和金融圈都引起轰动的大事件：一场名为**AlphaArena**（人工智能交易大赛）的真金白银实战。其结果可谓戏剧性十足，一半是“屠杀”，一半是“加冕”。

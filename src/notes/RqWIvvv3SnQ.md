@@ -1,59 +1,60 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Firstmark
+- University of Warsaw
+- JPMorgan
+- DeepMind
+- Google
+- DeepSeek
+- Scale AI
+- Cursor
 date: '2025-10-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The MAD Podcast
+- Dwarkesh Podcast
+people:
+- Jerry Tworek
+- Matt Turck
+- Ilia Sutskever
+- Richard Sutton
+products_models:
+- ChatGPT
+- O1
+- O3
+- GPT-5
+- Codex
+- GPT Agent
+- DQN
+- GPT-2
+- GPT-3
+- GPT-4
+- GRPO
+- Dota 2
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=RqWIvvv3SnQ
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - reinforcement-learning
-  - model-reasoning
-  - path-to-agi
-  - research-culture
-  - pre-training
-title: OpenAI 研究副总裁揭秘：GPT-5 如何“思考”？
-summary: OpenAI 研究副总裁 Jerry Tworek 深入探讨了 AI 模型（如 GPT-5）的“思考”过程。他详细阐述了“推理”的本质、思想链（Chain of Thought）的工作原理，以及模型如何通过强化学习（RL）从根本上提升能力。本期对话还揭示了 OpenAI 内部独特的研发文化——专注、透明与高效协作，并探讨了从 O1 到 GPT-5 的演进、规模化强化学习面临的挑战，以及通往通用人工智能（AGI）的现实路径与哲学思辨。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Jerry Tworek
-  - Matt Turck
-  - Ilia Sutskever
-  - Richard Sutton
-companies_orgs:
-  - OpenAI
-  - Firstmark
-  - University of Warsaw
-  - JPMorgan
-  - DeepMind
-  - Google
-  - DeepSeek
-  - Scale AI
-  - Cursor
-products_models:
-  - ChatGPT
-  - O1
-  - O3
-  - GPT-5
-  - Codex
-  - GPT Agent
-  - DQN
-  - GPT-2
-  - GPT-3
-  - GPT-4
-  - GRPO
-  - Dota 2
-media_books:
-  - The MAD Podcast
-  - Dwarkesh Podcast
 status: evergreen
+summary: OpenAI 研究副总裁 Jerry Tworek 深入探讨了 AI 模型（如 GPT-5）的“思考”过程。他详细阐述了“推理”的本质、思想链（Chain
+  of Thought）的工作原理，以及模型如何通过强化学习（RL）从根本上提升能力。本期对话还揭示了 OpenAI 内部独特的研发文化——专注、透明与高效协作，并探讨了从
+  O1 到 GPT-5 的演进、规模化强化学习面临的挑战，以及通往通用人工智能（AGI）的现实路径与哲学思辨。
+tags:
+- culture
+- llm
+- model
+- reinforcement-learning
+title: OpenAI 研究副总裁揭秘：GPT-5 如何“思考”？
 ---
+
 **Matt Turck:** 大家好，我是 Firstmark 的 Matt Turck，欢迎来到 Mad Podcast。今天我的嘉宾是 Jerry Tworek，OpenAI 的研究副总裁，也是全球顶尖 AI 研究者 Midas 榜单的成员。在本期节目中，我们深入探讨了模型究竟是如何进行推理的。我们还走进了 OpenAI 的幕后，了解他们如何为少数几个重大赌注配置资源，为什么内部每个人都知晓一切，以及这种文化如何帮助他们快速交付产品。请欣赏我与 Jerry 的精彩对话。
 
 <details>

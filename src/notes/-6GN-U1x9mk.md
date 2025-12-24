@@ -1,60 +1,58 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Bloomberg
+- The Wall Street Journal
+- Federal Reserve
+- Bank of Japan
+- Turning Point USA
+- Huatai Securities
+- Goldman Sachs
+- Deutsche Bank
+- Morgan Stanley
+- Reuters
+- Fox News
+- China Business News
+- National Business Daily
+- Shukan Post
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《乡下人的挽歌》
+people:
+- Donald Trump
+- Nicolás Maduro
+- Sergei Ryabkov
+- J.D. Vance
+- Hideo Tarumi
+- Lin Jian
+- Huang Qifan
+- Mette Frederiksen
+- Jeff Landry
+- Kristi Noem
+- Charles Koch
+products_models:
+- S&P 500 Index
+project:
+- china-analysis
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=-6GN-U1x9mk
 speaker: LT視界
-tags:
-  - currency
-  - geopolitics
-  - chinese-economy
-  - us-politics
-  - investment-outlook
-title: 人民币汇率、民众遗产与万斯政治布局
-summary: 彭博社分析华尔街对2026年美股的一边倒乐观态度可能为反向指标。日本央行加息后日元意外走弱，财务省或将干预。川普任命格陵兰特使引发丹麦不满。美国公开表示通过制裁迫使马杜罗下台，中国对此低调回应。俄罗斯表示愿通过法律确认无意攻击北约。万斯接管查理·科克政治遗产，布局2028年总统竞选。日本媒体披露中共监听日本大使。中日航班大量取消。中共强调元旦春节“激发消费潜力”，并发生上海独居女性遗产被官方处置事件。黄奇帆预测人民币十年内将升值至6.0，而彭博社及各大投行预测更为谨慎，并指出人民币贬值风险。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - china-analysis
-  - us-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-  - Nicolás Maduro
-  - Sergei Ryabkov
-  - J.D. Vance
-  - Hideo Tarumi
-  - Lin Jian
-  - Huang Qifan
-  - Mette Frederiksen
-  - Jeff Landry
-  - Kristi Noem
-  - Charles Koch
-companies_orgs:
-  - Bloomberg
-  - The Wall Street Journal
-  - Federal Reserve
-  - Bank of Japan
-  - Turning Point USA
-  - Huatai Securities
-  - Goldman Sachs
-  - Deutsche Bank
-  - Morgan Stanley
-  - Reuters
-  - Fox News
-  - China Business News
-  - National Business Daily
-  - Shukan Post
-products_models:
-  - S&P 500 Index
-media_books:
-  - 《乡下人的挽歌》
 status: evergreen
+summary: 彭博社分析华尔街对2026年美股的一边倒乐观态度可能为反向指标。日本央行加息后日元意外走弱，财务省或将干预。川普任命格陵兰特使引发丹麦不满。美国公开表示通过制裁迫使马杜罗下台，中国对此低调回应。俄罗斯表示愿通过法律确认无意攻击北约。万斯接管查理·科克政治遗产，布局2028年总统竞选。日本媒体披露中共监听日本大使。中日航班大量取消。中共强调元旦春节“激发消费潜力”，并发生上海独居女性遗产被官方处置事件。黄奇帆预测人民币十年内将升值至6.0，而彭博社及各大投行预测更为谨慎，并指出人民币贬值风险。
+tags:
+- chinese-economy
+- currency
+- investment-outlook
+title: 人民币汇率、民众遗产与万斯政治布局
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月22日，我们首先来了解今天的财经头条。
 
 ### 美股乐观预期与反向指标

@@ -1,51 +1,51 @@
 ---
-author: Veritasium
+area: society-systems
+category: general
+companies_orgs:
+- US Forest Service
+- Merced Property and Casualty
+- Horsley Bridge
+- Y Combinator
+- Bloomsbury
+- Netflix
+- YouTube
+- Yahoo
+- NordVPN
+- Veritasium
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Harry Potter
+people:
+- Vilfredo Pareto
+- Abraham de Moivre
+- Per Bak
+- Albert-László Barabási
+- Réka Albert
+products_models:
+- NordVPN
+- Elements of Truth
+project:
+- systems-thinking
+- historical-insights
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=HBluLfX2F_k
 speaker: Veritasium
-tags:
-  - power-laws
-  - normal-distribution
-  - self-organized-criticality
-  - extreme-events
-  - universality
-title: 改变你世界观的图表：正态分布、对数正态分布与幂律
-summary: 本文深入探讨了三种核心的数学分布——正态分布、对数正态分布和幂律，并揭示了它们在自然界、社会和金融系统中的广泛应用及其深远影响。文章通过赌场游戏、收入分配、地震、森林火灾和互联网链接等生动案例，阐释了幂律分布的独特属性，如其“重尾”效应和自组织临界性。理解这些分布对于我们如何看待风险、制定策略以及预测极端事件至关重要，它揭示了看似随机的事件背后隐藏的普适性规律。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - investment-strategy
-people:
-  - Vilfredo Pareto
-  - Abraham de Moivre
-  - Per Bak
-  - Albert-László Barabási
-  - Réka Albert
-companies_orgs:
-  - US Forest Service
-  - Merced Property and Casualty
-  - Horsley Bridge
-  - Y Combinator
-  - Bloomsbury
-  - Netflix
-  - YouTube
-  - Yahoo
-  - NordVPN
-  - Veritasium
-products_models:
-  - NordVPN
-  - Elements of Truth
-media_books:
-  - Harry Potter
 status: evergreen
+summary: 本文深入探讨了三种核心的数学分布——正态分布、对数正态分布和幂律，并揭示了它们在自然界、社会和金融系统中的广泛应用及其深远影响。文章通过赌场游戏、收入分配、地震、森林火灾和互联网链接等生动案例，阐释了幂律分布的独特属性，如其“重尾”效应和自组织临界性。理解这些分布对于我们如何看待风险、制定策略以及预测极端事件至关重要，它揭示了看似随机的事件背后隐藏的普适性规律。
+tags:
+- normal-distribution
+- power
+- self
+- technology
+- universality
+title: 改变你世界观的图表：正态分布、对数正态分布与幂律
 ---
+
 ### 并非所有事物都“正常”
 
 有些事物并非“正常”。我的意思是，如果你去世界上测量一些东西，比如人的身高、智商（**IQ**: Intelligence Quotient，智力商数）或者树上苹果的大小，你会发现对于这些事物中的每一个，大部分数据都聚集在某个平均值附近。这种现象非常普遍，我们称之为**正态分布**（Normal Distribution: 一种常见的概率分布，其图形呈钟形曲线，对称地分布在平均值周围）。

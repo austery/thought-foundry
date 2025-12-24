@@ -1,34 +1,32 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs: []
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《周期人的寻路记》
+products_models: []
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=n3DX7oaq_-0
 speaker: 海淀拙大叔
-tags:
-  - cpi-turnaround
-  - economic-paradigm-shift
-  - deflationary-cycle
-  - monetary-policy
-  - capital-markets
-title: 中国CPI转正：宏观经济范式转移与资本市场深远影响
-summary: 本期阿甘经济宏观论深入探讨中国CPI转正的重大意义。文章指出，CPI和PPI的转正标志着中国宏观经济正从过去的投资和债务驱动模式，成功转向消费和创新驱动的新模式，打破了通缩的恶性循环。同时，分析了物价上涨对经济预期的积极影响，以及央行政策可能从总量宽松转向结构性发力。最后，展望了CPI转正对资本市场的短期风格转变和长期牛市泡沫形成的关键作用，强调宏观经济分析对于理解趋势和缓解焦虑的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-  - 《周期人的寻路记》
 status: evergreen
+summary: 本期阿甘经济宏观论深入探讨中国CPI转正的重大意义。文章指出，CPI和PPI的转正标志着中国宏观经济正从过去的投资和债务驱动模式，成功转向消费和创新驱动的新模式，打破了通缩的恶性循环。同时，分析了物价上涨对经济预期的积极影响，以及央行政策可能从总量宽松转向结构性发力。最后，展望了CPI转正对资本市场的短期风格转变和长期牛市泡沫形成的关键作用，强调宏观经济分析对于理解趋势和缓解焦虑的重要性。
+tags:
+- capital-market
+- cycle
+- economic
+- financial
+title: 中国CPI转正：宏观经济范式转移与资本市场深远影响
 ---
+
 ### CPI确认转正：中国经济范式转移的关键信号
 
 海淀拙大叔在“阿甘经济宏观论第33集”中指出，2025年11月15日，中国10月份的**CPI**（居民消费价格指数: 衡量居民购买商品和服务价格变化的指标）同比和环比均确认转正，达到0.2%。回顾此前，大叔曾预测CPI在6月份转正，尽管随后同比又下滑了三个月，但环比始终保持正增长，这意味着物价自6月后便未再下跌。同时，**PPI**（工业生产者出厂价格指数: 衡量工业企业产品首次出售价格变化的指标）也如预期在8月份掉头向上，且环比持续正增长。这两个关键指标的积极变化，向懂行的人传递了一个明确信号：中国的宏观经济趋势已经转变。

@@ -6,14 +6,12 @@ category: geopolitics
 project:
 - china-analysis
 tags:
-  - 中国制度
-  - 社会契约
-  - 经济发展
-  - 评论回应
-people: []
+- financial
+- society
+- 中国制度
+- 评论回应
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: null
@@ -24,6 +22,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 引言
 
 本期节目，我们将回应观众关于中国制度成功与否的诸多评论。

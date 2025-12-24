@@ -1,35 +1,34 @@
 ---
-title: 美股市场回顾、中美关税谈判与投资APP发布：洞察市场情绪与未来展望
-summary: 本期视频深入回顾了过去一周及一个月的市场走势，分析了市场参与度与一季度财报反馈，并对芯片板块估值、中美关税谈判及下周宏观数据进行了展望。此外，还详细介绍了Talk君专属投资APP的功能及Seeking
-  Alpha的特惠活动。
 area: market-analysis
 category: finance
+companies_orgs: []
+date: '2025-05-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- talk
+products_models: []
 project:
 - china-analysis
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- investment-app
-- market-analysis
-- nvidia-valuation
-- us-china-tariffs
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- talk
-date: '2025-05-11'
-author: 投资TALK君
-speaker: 投资TALK君
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=1t947JsyGLk
+speaker: 投资TALK君
 status: evergreen
+summary: 本期视频深入回顾了过去一周及一个月的市场走势，分析了市场参与度与一季度财报反馈，并对芯片板块估值、中美关税谈判及下周宏观数据进行了展望。此外，还详细介绍了Talk君专属投资APP的功能及Seeking
+  Alpha的特惠活动。
+tags:
+- investment
+- market-analysis
+- us-china-tariff
+- valuation
+title: 美股市场回顾、中美关税谈判与投资APP发布：洞察市场情绪与未来展望
 ---
+
 ### 引言与本期内容概览
 
 各位观众大家好，欢迎来到专业美股频道，我是市场分析员小桃。在本期视频中，我将首先回顾过去一周及过去一个月的市场走势，特别是截至上周五（5月9日）的情况。随后，我们将从市场参与度指标出发，探讨市场是否存在进一步反弹的空间。接着，在90%的公司已发布财报的背景下，我们将综合分析第一季度财报的市场反馈，并审视2025年**EPS**（Earnings Per Share: 每股收益，衡量公司盈利能力的指标）预期是否会继续下调。此外，我将更新中美关税谈判的最新进展，并对下周即将公布的宏观数据，特别是**CPI**（Consumer Price Index: 消费者物价指数，衡量居民消费价格变动的指标）数据进行指引与展望。最后，我将向大家介绍我与一家台湾公司合作开发、耗时半年打造的专属投资APP，并分享其功能及当前正在进行的活动。

@@ -1,46 +1,46 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 迪士尼
+- OpenAI
+- Google
+- Character AI
+- Midjourney
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Disney+》
+people:
+- Bob Iger
+- Sam Altman
+products_models:
+- Sora
+- Gemini
+- Veo
+- Imagen
+- Nano Banana
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=x1pLHStoQ24
 speaker: Best Partners TV
-tags:
-  - ai-copyright-boundaries
-  - ip-licensing-models
-  - content-vs-compute
-  - industry-power-shift
-  - legal-strategy-in-ai
-title: 迪士尼AI双标实录：10亿授权OpenAI vs. 起诉谷歌，谁在定义AI版权新秩序？
-summary: 迪士尼以10亿美元授权OpenAI使用200+顶级IP，同时起诉谷歌AI规模化侵权，揭示AI行业竞争正从算力转向内容授权。这场行动标志着版权方开始重构AI时代的规则边界，技术巨头必须通过合法授权才能获得商业准入。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Bob Iger
-  - Sam Altman
-companies_orgs:
-  - 迪士尼
-  - OpenAI
-  - 谷歌
-  - Character AI
-  - Midjourney
-products_models:
-  - Sora
-  - Gemini
-  - Veo
-  - Imagen
-  - Nano Banana
-media_books:
-  - 《Disney+》
 status: evergreen
+summary: 迪士尼以10亿美元授权OpenAI使用200+顶级IP，同时起诉谷歌AI规模化侵权，揭示AI行业竞争正从算力转向内容授权。这场行动标志着版权方开始重构AI时代的规则边界，技术巨头必须通过合法授权才能获得商业准入。
+tags:
+- content
+- industry
+- llm
+- model
+- strategy
+title: 迪士尼AI双标实录：10亿授权OpenAI vs. 起诉谷歌，谁在定义AI版权新秩序？
 ---
+
 ### 迪士尼的双重动作：授权与诉讼背后的逻辑
 
 这两天，一家全球顶级的内容巨头——迪士尼，用两波看似矛盾却又目标明确的操作，给整个AI行业上了一堂深刻的版权课。一边是砸下10亿美元，把自己旗下200多个顶级IP角色双手奉上，与OpenAI结成战略同盟；另一边是毫不留情地寄出律师函，把谷歌这样的科技巨头直接告上法庭，指控其旗下多款AI产品涉嫌规模化侵权。这背后究竟藏着怎样的战略意图？我们是否真的在见证一场“双标”？

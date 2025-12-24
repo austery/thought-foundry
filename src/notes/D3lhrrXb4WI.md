@@ -1,55 +1,55 @@
 ---
-author: The Diary Of A CEO
+area: society-systems
+category: geopolitics
+companies_orgs:
+- The Diary Of A CEO
+- Federalist Society
+- Heritage Foundation
+- Flight Story
+- Fiverr Pro
+- Just Works
+- Boncharge
+- Fox News
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 107 Days
+people:
+- Kamala Harris
+- Joe Biden
+- Donald Trump
+- Doug Emhoff
+- Maya Harris
+- Joe Rogan
+- Hillary Clinton
+- Jimmy Carter
+- Walter Mondale
+- LeBron James
+- Gavin Newsom
+- Elon Musk
+- Brett Baier
+- Mrs. Francis Wilson
+- Steven Bartlett
+products_models: []
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=D3lhrrXb4WI
 speaker: The Diary Of A CEO
-tags:
-  - us-election-2024
-  - political-strategy
-  - leadership-psychology
-  - media-influence
-title: 卡玛拉·哈里斯深度访谈：剖析败选、与拜登的复杂关系及美国的未来
-summary: 美国副总统卡玛拉·哈里斯在深度访谈中坦诚回顾了竞选总统的历程。她详细描述了败选之夜的震惊与悲痛，揭示了与乔·拜登之间复杂且时有失望的关系，并批评了其团队的内部运作。哈里斯还深入探讨了唐纳德·川普的竞选策略、媒体环境的变迁，以及她对美国当前分裂状态的深切忧虑和对国家未来的思考，同时分享了其个人成长经历和从政初心。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Kamala Harris
-  - Joe Biden
-  - Donald Trump
-  - Doug Emhoff
-  - Maya Harris
-  - Joe Rogan
-  - Hillary Clinton
-  - Jimmy Carter
-  - Walter Mondale
-  - LeBron James
-  - Gavin Newsom
-  - Elon Musk
-  - Brett Baier
-  - Mrs. Francis Wilson
-  - Steven Bartlett
-companies_orgs:
-  - The Diary Of A CEO
-  - Federalist Society
-  - Heritage Foundation
-  - Flight Story
-  - Fiverr Pro
-  - Just Works
-  - Boncharge
-  - Fox News
-products_models: []
-media_books:
-  - 107 Days
 status: evergreen
+summary: 美国副总统卡玛拉·哈里斯在深度访谈中坦诚回顾了竞选总统的历程。她详细描述了败选之夜的震惊与悲痛，揭示了与乔·拜登之间复杂且时有失望的关系，并批评了其团队的内部运作。哈里斯还深入探讨了唐纳德·川普的竞选策略、媒体环境的变迁，以及她对美国当前分裂状态的深切忧虑和对国家未来的思考，同时分享了其个人成长经历和从政初心。
+tags:
+- leadership-psychology
+- media-influence
+- political-strategy
+- us-election-2024
+title: 卡玛拉·哈里斯深度访谈：剖析败选、与拜登的复杂关系及美国的未来
 ---
+
 ### 对国家现状的深切忧虑
 
 **主持人：** 副总统女士，您好吗？

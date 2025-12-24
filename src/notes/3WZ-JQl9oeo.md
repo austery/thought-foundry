@@ -1,83 +1,83 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- S&P 500
+- NASDAQ
+- Truist Financial
+- Key Bank
+- Western Alliance
+- SoFi
+- Robin Hood
+- Nvidia
+- Amazon
+- Google
+- Meta
+- Apple
+- Microsoft
+- Tesla
+- Coinbase
+- Starbucks
+- Luckin Coffee
+- Palantir
+- Rocket Lab
+- Salesforce
+- AMD
+- Broadcom
+- TSMC
+- OpenAI
+- Anduril
+- NATO
+- Deutsche Bank
+- Netflix
+- Spotify
 date: '2025-10-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Cash Flow Chronicles
+people:
+- Tom Lee
+- Donald Trump
+- Volodymyr Zelenskyy
+- Vladimir Putin
+- Jamie Dimon
+- Jensen Huang
+- Alex Karp
+- Mark Benioff
+- Palmer Luckey
+- Andrej Karpathy
+- Sam Altman
+- Matt Money
+- Steve (The Milkman)
+products_models:
+- Bitcoin
+- Ethereum
+- Blackwell Chip
+- AWS
+- Azure
+- Google Cloud
+- ChatGPT
+- Eagle-Eye
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=3WZ-JQl9oeo
 speaker: Amit Kukreja
-tags:
-  - market-volatility
-  - regional-banks
-  - ai-capex
-  - year-end-rally
-title: 疯狂的周五：市场在剧烈波动中收涨，展望年末行情
-summary: 本周市场经历剧烈波动，周五在地区银行担忧、中美关系言论等多重因素影响下上演V型反转，最终收涨。分析师Tom Lee认为，尽管存在私营信贷等风险，但在AI和机构追逐行情的推动下，年末仍有强劲上涨动力。嘉宾讨论了市场情绪、投机股风险以及AI资本支出等核心议题。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Tom Lee
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Vladimir Putin
-  - Jamie Dimon
-  - Jensen Huang
-  - Alex Karp
-  - Mark Benioff
-  - Palmer Luckey
-  - Andrej Karpathy
-  - Sam Altman
-  - Matt Money
-  - Steve (The Milkman)
-companies_orgs:
-  - S&P 500
-  - NASDAQ
-  - Truist Financial
-  - Key Bank
-  - Western Alliance
-  - SoFi
-  - Robin Hood
-  - Nvidia
-  - Amazon
-  - Google
-  - Meta
-  - Apple
-  - Microsoft
-  - Tesla
-  - Coinbase
-  - Starbucks
-  - Luckin Coffee
-  - Palantir
-  - Rocket Lab
-  - Salesforce
-  - AMD
-  - Broadcom
-  - TSMC
-  - OpenAI
-  - Anduril
-  - NATO
-  - Deutsche Bank
-  - Netflix
-  - Spotify
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Blackwell Chip
-  - AWS
-  - Azure
-  - Google Cloud
-  - ChatGPT
-  - Eagle-Eye
-media_books:
-  - Cash Flow Chronicles
 status: evergreen
+summary: 本周市场经历剧烈波动，周五在地区银行担忧、中美关系言论等多重因素影响下上演V型反转，最终收涨。分析师Tom Lee认为，尽管存在私营信贷等风险，但在AI和机构追逐行情的推动下，年末仍有强劲上涨动力。嘉宾讨论了市场情绪、投机股风险以及AI资本支出等核心议题。
+tags:
+- llm
+- market-volatility
+- regional-bank
+- technology
+title: 疯狂的周五：市场在剧烈波动中收涨，展望年末行情
 ---
+
 ### 疯狂的一天：市场在剧烈波动中收涨
 
 好的，大家好。欢迎回到新一期的收盘速递。我们正在直播，今天真是疯狂的一天。不仅是今天，整个星期都非常疯狂。但今天尤其狂野。

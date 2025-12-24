@@ -1,67 +1,67 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg Podcasts
+- OddLots
+- Anthropic
+- Meta
+- Alphabet
+- Oracle
+- Coreweave
+- OpenAI
+- Amazon
+- AWS
+- Raymond James
+- MIT Institute for the Digital Economy
+- SK Ventures
+- Center for Public Enterprises
+- JPM
+- Oregon Public Utilities Commission
+- Blue Owl
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bubble or Nothing
+people:
+- Paul Kedrosky
+- Joe Weisenthal
+- Tracy Alloway
+- Michael Burry
+- Jeff Saut
+- Edv Arun
+- Sam Altman
+- Jensen Huang
+- Sarah Friar
+- Daniel Yergin
+- Steve Eisman
+products_models:
+- S3 bucket
+- GPU
+- Co-pilot
+- Cursor
+- IBM Granite
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=z4ct_eDYx2A
 speaker: Bloomberg Podcasts
-tags:
-  - ai-bubble
-  - data-center-capex
-  - private-credit
-  - unit-economics
-  - geopolitical-competition
-title: Paul Kedrosky：AI泡沫集所有历史泡沫之大成
-summary: 在最新一期OddLots播客中，Paul Kedrosky深入探讨了当前AI热潮的资本密集度及其潜在风险。他指出，AI的构建成本巨大，导致企业大量资本支出，并催生了复杂的融资结构，如特殊目的载体（SPV）和私募信贷。Kedrosky将AI泡沫描述为一个“元泡沫”，因为它融合了房地产、科技、宽松信贷和政府支持等所有历史泡沫的要素。文章还讨论了GPU寿命、数据中心租户风险、AI的负单位经济效益以及中美在AI发展路径上的差异，警示了当前投资模式的脆弱性及其对更广泛经济的潜在负面影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Paul Kedrosky
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Michael Burry
-  - Jeff Saut
-  - Edv Arun
-  - Sam Altman
-  - Jensen Huang
-  - Sarah Friar
-  - Daniel Yergin
-  - Steve Eisman
-companies_orgs:
-  - Bloomberg Podcasts
-  - OddLots
-  - Anthropic
-  - Meta
-  - Alphabet
-  - Oracle
-  - Coreweave
-  - OpenAI
-  - Amazon
-  - AWS
-  - Raymond James
-  - MIT Institute for the Digital Economy
-  - SK Ventures
-  - Center for Public Enterprises
-  - JPM
-  - Oregon Public Utilities Commission
-  - Blue Owl
-products_models:
-  - S3 bucket
-  - GPU
-  - Co-pilot
-  - Cursor
-  - IBM Granite
-media_books:
-  - Bubble or Nothing
 status: evergreen
+summary: 在最新一期OddLots播客中，Paul Kedrosky深入探讨了当前AI热潮的资本密集度及其潜在风险。他指出，AI的构建成本巨大，导致企业大量资本支出，并催生了复杂的融资结构，如特殊目的载体（SPV）和私募信贷。Kedrosky将AI泡沫描述为一个“元泡沫”，因为它融合了房地产、科技、宽松信贷和政府支持等所有历史泡沫的要素。文章还讨论了GPU寿命、数据中心租户风险、AI的负单位经济效益以及中美在AI发展路径上的差异，警示了当前投资模式的脆弱性及其对更广泛经济的潜在负面影响。
+tags:
+- ai-bubble
+- business
+- data-center-capex
+- geopolitical-competition
+- private-credit
+title: Paul Kedrosky：AI泡沫集所有历史泡沫之大成
 ---
+
 ### AI热潮与资本密集度
 
 **Joe Weisenthal:** 大家好，欢迎收听新一期的**OddLots播客**（OddLots Podcast: 彭博社旗下专注于金融和经济的播客节目）。我是Joe Weisenthal。

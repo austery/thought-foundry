@@ -1,50 +1,50 @@
 ---
-author: Veritasium
-date: '2022-03-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=GVsUOuSjvcg
-speaker: Veritasium
-tags:
-  - veritasium
-  - analog-computing
-  - digital-computing
-  - artificial-intelligence
-  - neural-networks
-  - moores-law
-  - von-neumann-bottleneck
-title: 模拟计算的复兴：AI时代数字计算的瓶颈与未来
-summary: 本文探讨了模拟计算机从辉煌到衰落，再到在人工智能时代可能复兴的历程。随着数字计算机面临冯·诺依曼瓶颈和摩尔定律的限制，以及神经网络对计算精度要求不高的特性，模拟计算的优势（如高速、低功耗）重新受到关注。文章详细介绍了感知机、ALVINN和AlexNet等人工神经网络的发展，以及Mythic AI等公司如何利用模拟技术解决AI计算挑战，展望了模拟与数字混合计算的未来。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Frank Rosenblatt
-  - Minsky
-  - Papert
-  - Fei-Fei Li
+category: technology
 companies_orgs:
-  - Cornell University
-  - MIT
-  - University of Toronto
-  - Mythic AI
-  - IBM
-  - Carnegie Mellon
-products_models:
-  - Perceptron
-  - ALVINN
-  - ImageNet
-  - AlexNet
-  - Microsoft Word
+- Cornell University
+- MIT
+- University of Toronto
+- Mythic AI
+- IBM
+- Carnegie Mellon
+date: '2022-03-01'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Welch Labs
+- Welch Labs
+people:
+- Frank Rosenblatt
+- Minsky
+- Papert
+- Fei-Fei Li
+- analog-computing
+products_models:
+- Perceptron
+- ALVINN
+- ImageNet
+- AlexNet
+- Microsoft Word
+project:
+- ai-impact-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=GVsUOuSjvcg
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了模拟计算机从辉煌到衰落，再到在人工智能时代可能复兴的历程。随着数字计算机面临冯·诺依曼瓶颈和摩尔定律的限制，以及神经网络对计算精度要求不高的特性，模拟计算的优势（如高速、低功耗）重新受到关注。文章详细介绍了感知机、ALVINN和AlexNet等人工神经网络的发展，以及Mythic
+  AI等公司如何利用模拟技术解决AI计算挑战，展望了模拟与数字混合计算的未来。
+tags:
+- digital
+- geopolitical
+- intelligence
+- law
+- neural-network
+title: 模拟计算的复兴：AI时代数字计算的瓶颈与未来
 ---
+
 ### 模拟计算的兴衰与复兴契机
 
 几百年来，**模拟计算机**（Analog Computers: 使用连续可变物理量来表示和处理数据，而非离散的数字）曾是地球上最强大的计算机，它们能够预测日食、潮汐，并引导高射炮。

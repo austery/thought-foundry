@@ -1,70 +1,69 @@
 ---
-author: 记者易速利
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NASA
+- SpaceX
+- Blue Origin
+- Lockheed Martin
+- Boeing
+- OneWeb
+- Amazon
+- Fox News
+- CNN
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+- New York Times
+people:
+- Elon Musk
+- Sean Duffy
+- Donald Trump
+- Jared Isaacman
+- Amit
+- Rachel Campos Duffy
+- Sergio Gore
+- Yuri Gagarin
+- Neil Armstrong
+- Buzz Aldrin
+- Carl Sagan
+- Wernher von Braun
+products_models:
+- Starship
+- Starlink
+- Artemis III
+- Orion spacecraft
+- Human Landing System (HLS)
+- Saturn V
+- Apollo
+- Challenger
+- Galileo
+- Hubble
+- Webb Space Telescope
+- Curiosity
+- Perseverance
+- Cosmos
+- Pale Blue Dot
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=iUTXblI295E
 speaker: 记者易速利
-tags:
-  - us-space-policy
-  - nasa-future
-  - space-commercialization
-  - us-china-space-race
-  - political-appointments
-title: 马斯克与NASA的太空权力之争：从登月计划到星链霸权
-summary: 本文深入探讨了埃隆·马斯克与美国政府体制，特别是与美国国家航空航天局（NASA）代理局长肖恩·达菲之间日益激化的冲突。文章分析了NASA局长人选背后的政治博弈、美国登月计划的复杂挑战，以及SpaceX如何凭借其技术和商业模式，在太空探索领域超越传统机构，成为事实上的“太空皇帝”。同时，文章也回顾了NASA从黄金时代走向衰落的历史，并对比了卡尔·萨根的人文主义太空愿景与马斯克的工程实用主义。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Elon Musk
-  - Sean Duffy
-  - Donald Trump
-  - Jared Isaacman
-  - Amit
-  - Rachel Campos Duffy
-  - Sergio Gore
-  - Yuri Gagarin
-  - Neil Armstrong
-  - Buzz Aldrin
-  - Carl Sagan
-  - Wernher von Braun
-companies_orgs:
-  - NASA
-  - SpaceX
-  - Blue Origin
-  - Lockheed Martin
-  - Boeing
-  - OneWeb
-  - Amazon
-  - Fox News
-  - CNN
-products_models:
-  - Starship
-  - Starlink
-  - Artemis III
-  - Orion spacecraft
-  - Human Landing System (HLS)
-  - Saturn V
-  - Apollo
-  - Challenger
-  - Galileo
-  - Hubble
-  - Webb Space Telescope
-  - Curiosity
-  - Perseverance
-  - Cosmos
-  - Pale Blue Dot
-media_books:
-  - X
-  - New York Times
 status: evergreen
+summary: 本文深入探讨了埃隆·马斯克与美国政府体制，特别是与美国国家航空航天局（NASA）代理局长肖恩·达菲之间日益激化的冲突。文章分析了NASA局长人选背后的政治博弈、美国登月计划的复杂挑战，以及SpaceX如何凭借其技术和商业模式，在太空探索领域超越传统机构，成为事实上的“太空皇帝”。同时，文章也回顾了NASA从黄金时代走向衰落的历史，并对比了卡尔·萨根的人文主义太空愿景与马斯克的工程实用主义。
+tags:
+- china
+- future
+- policy
+- political
+- space
+title: 马斯克与NASA的太空权力之争：从登月计划到星链霸权
 ---
 
 ### 马斯克与NASA代理局长的公开冲突

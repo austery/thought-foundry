@@ -1,69 +1,69 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: general
+companies_orgs:
+- Google
+- OpenAI
+- Microsoft
+- Apple
+- Meta
+- Cloudflare
+- The New York Times
+- The Mirror
+- The Mail
+- Financial Times
+- Pew Research
+- BBC
+- NBC
+- ProPublica
+- Enders Analysis
+- Sistrix
 date: '2025-08-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- The Atlantic
+- YouTube
+- TechRadar
+- Substack
+- The Wall Street Journal
+- All In podcast
+- Vibe Physics
+people:
+- Elon Musk
+- Benn Jordan
+- Angela Collier
+products_models:
+- ChatGPT
+- Claude
+- Perplexity
+- AI Overviews
+- AI Mode
+- Grok
+- Poisonify
+- Tollbit
+- ProRata
+- Safari
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=M4MruTOrLyM
 speaker: Patrick Boyle
-tags:
-  - ai-impact
-  - information-economy
-  - journalism-future
-  - online-trust
-  - content-monetization
-title: AI如何颠覆互联网信息经济：新闻业、评论与信任的危机
-summary: 人工智能工具正以前所未有的速度重塑互联网信息获取方式，导致新闻出版商、教育及健康信息网站的流量锐减，传统商业模式面临瓦解。文章深入探讨了AI对新闻业、在线评论生态系统的冲击，以及用户对信息来源信任的转变。同时，它也介绍了内容创作者和出版商为应对这一挑战所做的努力，如版权保护工具和品牌化策略，并警示了AI过度承诺能力及潜在偏见带来的风险，强调了高质量信息对现代社会运作的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Elon Musk
-  - Benn Jordan
-  - Angela Collier
-companies_orgs:
-  - Google
-  - OpenAI
-  - Microsoft
-  - Apple
-  - Meta
-  - Cloudflare
-  - The New York Times
-  - The Mirror
-  - The Mail
-  - Financial Times
-  - Pew Research
-  - BBC
-  - NBC
-  - ProPublica
-  - Enders Analysis
-  - Sistrix
-products_models:
-  - ChatGPT
-  - Claude
-  - Perplexity
-  - AI Overviews
-  - AI Mode
-  - Grok
-  - Poisonify
-  - Tollbit
-  - ProRata
-  - Safari
-media_books:
-  - The Economist
-  - The Atlantic
-  - YouTube
-  - TechRadar
-  - Substack
-  - The Wall Street Journal
-  - All In podcast
-  - Vibe Physics
 status: evergreen
+summary: 人工智能工具正以前所未有的速度重塑互联网信息获取方式，导致新闻出版商、教育及健康信息网站的流量锐减，传统商业模式面临瓦解。文章深入探讨了AI对新闻业、在线评论生态系统的冲击，以及用户对信息来源信任的转变。同时，它也介绍了内容创作者和出版商为应对这一挑战所做的努力，如版权保护工具和品牌化策略，并警示了AI过度承诺能力及潜在偏见带来的风险，强调了高质量信息对现代社会运作的重要性。
+tags:
+- ai-impact
+- content
+- economy
+- future
+- trust
+title: AI如何颠覆互联网信息经济：新闻业、评论与信任的危机
 ---
+
 ### AI颠覆信息获取与新闻业经济模式
 
 人工智能工具正在改变人们在互联网上寻找信息的方式，这种变化的速度之快，让出版商难以适应。当用户向聊天机器人提问而非使用搜索引擎时，他们得到的是答案，而不是可供点击的链接，这正在改变互联网的经济模式，尤其是新闻提供商的经济模式，他们投入资金收集信息，却无法再从中获利。

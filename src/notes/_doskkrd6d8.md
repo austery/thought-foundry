@@ -1,35 +1,32 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 野村证券
 date: '2025-07-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=_doskkrd6d8
 speaker: 海淀拙大叔
-tags:
-  - china-economy
-  - economic-forecast
-  - macroeconomic-cycles
-  - monetary-indicators
-  - market-outlook
-title: 中国下半年经济展望：野村证券与海淀拙大叔的观点交锋
-summary: 本文对比了野村证券对中国下半年经济的悲观预测与海淀拙大叔的乐观判断。野村证券基于刺激政策衰减、房地产恶化、出口透支及节俭政策提出四大理由，而大叔则从四大周期底部、美元弱势、CPI/PPI拐点及M1增速等多个维度，结合PMI数据，预测经济将触底反弹，并对下半年的资本市场持乐观态度。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 海淀拙大叔
-companies_orgs:
-  - 野村证券
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文对比了野村证券对中国下半年经济的悲观预测与海淀拙大叔的乐观判断。野村证券基于刺激政策衰减、房地产恶化、出口透支及节俭政策提出四大理由，而大叔则从四大周期底部、美元弱势、CPI/PPI拐点及M1增速等多个维度，结合PMI数据，预测经济将触底反弹，并对下半年的资本市场持乐观态度。
+tags:
+- china-economy
+- cycle
+- economic
+- financial
+- market-outlook
+title: 中国下半年经济展望：野村证券与海淀拙大叔的观点交锋
 ---
+
 ### 野村证券对中国经济的悲观预测
 
 在“阿甘经济宏观论”的第23集中，海淀拙大叔于7月17日分享了他对中国下半年经济的看法，并指出下半年经济一定会好转。之所以发布这个视频，是因为**野村证券**（Nomura Securities: 日本领先的投资银行和证券公司）近期发布了一份关于中国下半年经济趋势的预测报告，该报告认为中国经济面临“需求断崖”。野村证券提出了四个主要理由：

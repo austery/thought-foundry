@@ -1,57 +1,58 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- New York Times
+- GOP
+- White House
+- Romania
+- CDC
+- FIFA
+- UN group
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Christianity Today
+people:
+- Donald Trump
+- Andrew Tate
+- Tristan Tate
+- Donald Trump Jr.
+- Baron Trump
+- Richard Grenell
+- Tucker Carlson
+- Candace Owens
+- Megan Tui
+- Isabella Quai
+- Shawn Duffy
+- Robert F. Kennedy Jr.
+- Jay-Z
+- Justin Timberlake
+- Missy Elliot
+- Somber
+products_models:
+- ChatGPT
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Y6eyeOC6Vu0
 speaker: New York Times Podcasts
-tags:
-  - redistricting
-  - manosphere
-  - measles-outbreak
-  - ai-regulation
-  - unesco-heritage
-title: 美国政治风波、国际丑闻与公共卫生警报
-summary: 本期《纽约时报》播客头条聚焦美国政治动态、国际丑闻及公共卫生事件。特朗普推动的国会选区划分计划在印第安纳州受阻，显示党内分歧。一项调查揭示了特朗普政府官员在释放网红兄弟Andrew和Tristan Tate案中的作用。医疗保健政策僵局可能导致保费上涨。总统签署行政令统一AI监管。南卡罗来纳州爆发麻疹疫情，疫苗接种率下降引发担忧。联合国教科文组织新增非物质文化遗产项目。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Andrew Tate
-  - Tristan Tate
-  - Donald Trump Jr.
-  - Baron Trump
-  - Richard Grenell
-  - Tucker Carlson
-  - Candace Owens
-  - Megan Tui
-  - Isabella Quai
-  - Shawn Duffy
-  - Robert F. Kennedy Jr.
-  - Jay-Z
-  - Justin Timberlake
-  - Missy Elliot
-  - Somber
-companies_orgs:
-  - New York Times
-  - GOP
-  - White House
-  - Romania
-  - CDC
-  - FIFA
-  - UN group
-products_models:
-  - ChatGPT
-media_books:
-  - Christianity Today
 status: evergreen
+summary: 本期《纽约时报》播客头条聚焦美国政治动态、国际丑闻及公共卫生事件。特朗普推动的国会选区划分计划在印第安纳州受阻，显示党内分歧。一项调查揭示了特朗普政府官员在释放网红兄弟Andrew和Tristan
+  Tate案中的作用。医疗保健政策僵局可能导致保费上涨。总统签署行政令统一AI监管。南卡罗来纳州爆发麻疹疫情，疫苗接种率下降引发担忧。联合国教科文组织新增非物质文化遗产项目。
+tags:
+- ai-regulation
+- history
+- manosphere
+- measles-outbreak
+- redistricting
+title: 美国政治风波、国际丑闻与公共卫生警报
 ---
+
 ### 特朗普的选区划分计划受阻
 
 ### 国际网红兄弟Tate的释放与特朗普政府的影响

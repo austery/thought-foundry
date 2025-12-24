@@ -1,37 +1,35 @@
 ---
-author: Joseph Wang
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- FOMC
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Governor Myin
+- Paul
+- Cherpaw
+products_models: []
+project:
+- us-analysis
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=G0MUrLd_LlY
 speaker: Joseph Wang
-tags:
-  - fomc-meeting
-  - monetary-policy
-  - rate-cuts
-  - money-markets
-  - inflation-outlook
-title: 2025年12月FOMC会议深度解读：意外的鸽派转向与市场影响
-summary: 本文深度剖析了2025年12月联邦公开市场委员会（FOMC）会议结果。尽管市场预期不一，美联储最终实施了降息，并释放出强烈的鸽派信号。分析聚焦于主席对就业数据的修正看法、对通胀的评估（主要归因于关税影响），以及重启储备管理购买（T-bill购买）的决定，预示着未来政策可能更加宽松。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - investment-strategy
-people:
-  - Governor Myin
-  - Paul
-  - Cherpaw
-companies_orgs:
-  - FOMC
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深度剖析了2025年12月联邦公开市场委员会（FOMC）会议结果。尽管市场预期不一，美联储最终实施了降息，并释放出强烈的鸽派信号。分析聚焦于主席对就业数据的修正看法、对通胀的评估（主要归因于关税影响），以及重启储备管理购买（T-bill购买）的决定，预示着未来政策可能更加宽松。
+tags:
+- financial
+- inflation-outlook
+- market
+- rate
+title: 2025年12月FOMC会议深度解读：意外的鸽派转向与市场影响
 ---
+
 ### 12月FOMC会议回顾与鸽派基调
 
 大家好。今天是12月10日，这是我关于12月**FOMC**（Federal Open Market Committee: 联邦公开市场委员会）会议的解读。

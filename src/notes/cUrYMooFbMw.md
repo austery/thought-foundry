@@ -1,42 +1,41 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2024-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《如何以言行事》
+- 《如何避免虚无》
+people:
+- 主持人机器人夏先生1号
+- Monica Lewinsky
+- Bill Clinton
+- Paul Grice
+- Deirdre Wilson
+- Dan Sperber
+- Karl Popper
+- John Austin
+- Ludwig Wittgenstein
+products_models: []
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=cUrYMooFbMw
 speaker: 大问题Dialectic
-tags:
-  - essence-of-lying
-  - philosophy-of-language
-  - cooperative-principle
-  - relevance-theory
-  - speech-act-theory
-title: 谎言的本质是什么？哲学测谎仪深度解析
-summary: 本期节目深入探讨谎言的本质，超越“故意说假话”的朴素定义。节目指出，朴素定义无法解释说假话却不算说谎，或说真话却是说谎的复杂情况。为此，节目介绍了三种升级版测谎理论：格莱斯的合作原则、威尔逊和斯佩尔伯的关联性理论，以及奥斯汀的言语行为理论。每种理论都从不同角度对谎言进行了更精巧的定义，旨在构建一个能识别日常生活中各种复杂谎言的“哲学测谎仪”，并分析了各自的优缺点。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-people:
-  - 主持人机器人夏先生1号
-  - Monica Lewinsky
-  - Bill Clinton
-  - Paul Grice
-  - Deirdre Wilson
-  - Dan Sperber
-  - Karl Popper
-  - John Austin
-  - Ludwig Wittgenstein
-companies_orgs: []
-products_models: []
-media_books:
-  - 《如何以言行事》
-  - 《如何避免虚无》
 status: evergreen
+summary: 本期节目深入探讨谎言的本质，超越“故意说假话”的朴素定义。节目指出，朴素定义无法解释说假话却不算说谎，或说真话却是说谎的复杂情况。为此，节目介绍了三种升级版测谎理论：格莱斯的合作原则、威尔逊和斯佩尔伯的关联性理论，以及奥斯汀的言语行为理论。每种理论都从不同角度对谎言进行了更精巧的定义，旨在构建一个能识别日常生活中各种复杂谎言的“哲学测谎仪”，并分析了各自的优缺点。
+tags:
+- essence-of-lying
+- philosophy
+- principle
+- theory
+title: 谎言的本质是什么？哲学测谎仪深度解析
 ---
+
 ### 谎言的普遍性与朴素定义
 
 大家好，欢迎收看大问题节目。本期要探讨的大问题是：谎言的本质是什么？我们每个人都说过谎，也听过别人对我们说过谎。我敢赌，在过去一周中你就说过谎。比如说，你和朋友的聚会迟到了，你解释说“路上堵车了”，但其实你是坐地铁过来的，你根本就是出发晚了。再比如说，公司领导问你下个月的业绩能达标吗？你其实心里面完全没谱，但你回答说：“我对下个月的业绩充满了信心！”

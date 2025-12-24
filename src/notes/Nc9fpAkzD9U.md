@@ -1,61 +1,60 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Citigroup
+- Wells Fargo
+- Goldman Sachs
+- JPMorgan
+- Barclays
+- Morgan Stanley
+- Deutsche Bank
+- BNP Paribas
+- HSBC
+- Standard Chartered
+- Nomura Securities
+- Bank of America
+- UBS Global Research
+- UBS Global Wealth Management
+- US Department of Defense
+- US Commerce Department
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reuters
+- Wall Street Journal
+- New York Times
+people:
+- Jerome Powell
+- Donald Trump
+- Xi Jinping
+- Tom Cotton
+- Jensen Huang
+- Klier
+products_models:
+- Blackwell chip
+- 9M729 missile
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Nc9fpAkzD9U
 speaker: LT視界
-tags:
-  - us-monetary-policy
-  - russia-china-cooperation
-  - sanctions-evasion
-  - nuclear-deterrence
-  - us-china-tech-competition
-title: 美联储降息分歧、中俄联手破制裁与美中芯片战困境
-summary: 本文分析了当前国际财经与地缘政治的多个热点。首先，华尔街主要投行对美联储12月降息的预测与鲍威尔的警告形成鲜明对比，反映了市场与央行之间的博弈。其次，俄罗斯计划发行人民币计价主权债券，旨在规避美国制裁并促进人民币国际化，对美元霸权构成挑战。再者，川普突然下令恢复核武器试验，其真实意图引发国际社会广泛猜测。最后，美国在对华芯片出口限制问题上内部矛盾重重，凸显其在全球科技竞争中的策略困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Jerome Powell
-  - Donald Trump
-  - Xi Jinping
-  - Tom Cotton
-  - Jensen Huang
-  - Klier
-companies_orgs:
-  - Federal Reserve
-  - Citigroup
-  - Wells Fargo
-  - Goldman Sachs
-  - JPMorgan
-  - Barclays
-  - Morgan Stanley
-  - Deutsche Bank
-  - BNP Paribas
-  - HSBC
-  - Standard Chartered
-  - Nomura Securities
-  - Bank of America
-  - UBS Global Research
-  - UBS Global Wealth Management
-  - US Department of Defense
-  - US Commerce Department
-products_models:
-  - Blackwell chip
-  - 9M729 missile
-media_books:
-  - Reuters
-  - Wall Street Journal
-  - New York Times
 status: evergreen
+summary: 本文分析了当前国际财经与地缘政治的多个热点。首先，华尔街主要投行对美联储12月降息的预测与鲍威尔的警告形成鲜明对比，反映了市场与央行之间的博弈。其次，俄罗斯计划发行人民币计价主权债券，旨在规避美国制裁并促进人民币国际化，对美元霸权构成挑战。再者，川普突然下令恢复核武器试验，其真实意图引发国际社会广泛猜测。最后，美国在对华芯片出口限制问题上内部矛盾重重，凸显其在全球科技竞争中的策略困境。
+tags:
+- china
+- nuclear
+- technology
+- us-monetary-policy
+title: 美联储降息分歧、中俄联手破制裁与美中芯片战困境
 ---
+
 ### 财经头条：美联储降息预测与市场博弈
 
 今天是10月31日，我们首先来了解今天的财经头条，有两个方面的最新信息与网友分享。

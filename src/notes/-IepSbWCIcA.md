@@ -1,37 +1,37 @@
 ---
-author: Big Think
+area: personal-systems
+category: psychology
+companies_orgs:
+- Big Think
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- After The Ecstasy, The Laundry
+people:
+- Robert Waldinger
+- Shunryū Suzuki
+- Buddha
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=-IepSbWCIcA
 speaker: Big Think
-tags:
-  - zen-buddhism
-  - impermanence
-  - suffering-relief
-  - mindfulness
-  - enlightened-activity
-title: 罗伯特·沃尔丁格：为何追逐开悟反而会让你陷入痛苦
-summary: 禅宗导师罗伯特·沃尔丁格深入探讨了禅修的核心理念，包括无常、社区、慈悲心和正念。他强调，开悟并非一种永久的状态，而是一种持续的觉醒活动，即在每个当下以慈悲心行事。文章阐述了如何通过接受生活中的不满足、放下执着和培养初心，来减轻不必要的痛苦，并在日常生活中实现更深层次的和谐与同情。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Robert Waldinger
-  - Shunryū Suzuki
-  - Buddha
-companies_orgs:
-  - Big Think
-products_models: []
-media_books:
-  - After The Ecstasy, The Laundry
 status: evergreen
+summary: 禅宗导师罗伯特·沃尔丁格深入探讨了禅修的核心理念，包括无常、社区、慈悲心和正念。他强调，开悟并非一种永久的状态，而是一种持续的觉醒活动，即在每个当下以慈悲心行事。文章阐述了如何通过接受生活中的不满足、放下执着和培养初心，来减轻不必要的痛苦，并在日常生活中实现更深层次的和谐与同情。
+tags:
+- enlightened-activity
+- impermanence
+- mindfulnes
+- suffering-relief
+- zen-buddhism
+title: 罗伯特·沃尔丁格：为何追逐开悟反而会让你陷入痛苦
 ---
+
 ### 禅宗实践：日常生活中的深刻益处
 
 我是一名**禅修者**（Zen practitioner: 源自大乘佛教的修行宗派，强调通过冥想和直觉来达到开悟），也是一名**授戒禅宗僧侣**（ordained Zen priest），同时还是一位禅宗老师。实际上，我是一位**老师**（Roshi: 禅宗中对资深导师的尊称），一位禅宗大师。因此，我每天都会冥想。我在美国乃至国际上教授冥想，这是我生活中非常重要的一部分。我发现，这对我思考自己的生活、他人的生活、我的研究以及如何与患者合作都带来了巨大的益处。

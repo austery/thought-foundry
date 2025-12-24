@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-01-10
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=m_7NDhYzXrA'
-speaker: 徒步的騎手
-tags:
-  - true-self
-  - moral-assassination
-  - good-child-mentality
-  - societal-conformity
-  - personal-courage
-title: 活出真我：摆脱“什么也不是”的困境与道德审判
-summary: 本文探讨了现代人戴着面具生活、失去真我的普遍现象。通过提出一系列反思问题，引导读者寻找真实的自我，并强调活出真我需要勇气和决断。文章批判了社会中的“道德行刺”和“乖巧作恶”现象，警示人们警惕被异化为“什么也不是”的状态，并引用莎士比亚和V.S.奈保尔的观点，呼吁人们坚持自我，拒绝精神自戕。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - 苏敏
-  - V.S.奈保尔
-  - 莎士比亚
-  - 哈姆雷特
-  - 奥菲利亚
-  - 汉娜·阿伦特
+category: psychology
 companies_orgs:
-  - 哈佛大学
-  - 美国最高法院
-products_models: '[]'
+- 哈佛大学
+- 美国最高法院
+date: 2025-01-10
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《大河湾》
-  - 《金融时报》
+- 《大河湾》
+- 《金融时报》
+people:
+- 苏敏
+- V.S.奈保尔
+- 莎士比亚
+- 哈姆雷特
+- 奥菲利亚
+- 汉娜·阿伦特
+products_models: '[]'
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
+source: https://www.youtube.com/watch?v=m_7NDhYzXrA
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了现代人戴着面具生活、失去真我的普遍现象。通过提出一系列反思问题，引导读者寻找真实的自我，并强调活出真我需要勇气和决断。文章批判了社会中的“道德行刺”和“乖巧作恶”现象，警示人们警惕被异化为“什么也不是”的状态，并引用莎士比亚和V.S.奈保尔的观点，呼吁人们坚持自我，拒绝精神自戕。
+tags:
+- child
+- moral-assassination
+- personal
+- self
+- societal
+title: 活出真我：摆脱“什么也不是”的困境与道德审判
 ---
 
 ### 戴着面具的自我与寻找真我

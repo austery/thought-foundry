@@ -7,19 +7,18 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
-  - adapting-to-technology
-  - ai-in-testing
-  - job-security
-  - software-testing-automation
+- llm
+- security
+- software-testing-automation
+- technology
 people:
-  - Summer
-  - Juliet Sime
-  - Amardeep Singh
-  - Brent Barker
-  - KC Naegle
+- Summer
+- Juliet Sime
+- Amardeep Singh
+- Brent Barker
+- KC Naegle
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-08-01
 author: Lei
 speaker: PCC insider
@@ -33,6 +32,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场：Azure AI 培训与认证介绍
 
 **Summer**: and do the recordable part. Yeah, you have to reshare. Reshare faces if willing.

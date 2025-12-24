@@ -1,37 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日医学
+- Cofit
+- 鍼还中医诊所
 date: '2025-07-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 宋晏仁
+- 黄献铭
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=cbjkQq79_TU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - space-structure-restoration
-  - fascia-therapy
-  - meridian-theory
-  - pain-etiology
-  - insomnia-relief
-title: 身体“歪”了，可能是你睡不好的原因：黄献铭医师谈空间结构还原
-summary: 黄献铭医师在《初日会客室》中深入探讨了“空间结构还原”这一独特的中医外科概念。他解释了筋膜、经络与内脏健康之间的紧密联系，并指出许多慢性疼痛、胃食道逆流、大小脸、湿疹甚至失眠等问题，可能都源于身体结构（筋膜骨架）的歪斜。文章强调“痛处不一定是伤处”，并通过具体案例和居家舒缓动作，揭示了从根源调整身体平衡的重要性。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 宋晏仁
-  - 黄献铭
-companies_orgs:
-  - 初日医学
-  - Cofit
-  - 鍼还中医诊所
-products_models: []
-media_books: []
 status: evergreen
+summary: 黄献铭医师在《初日会客室》中深入探讨了“空间结构还原”这一独特的中医外科概念。他解释了筋膜、经络与内脏健康之间的紧密联系，并指出许多慢性疼痛、胃食道逆流、大小脸、湿疹甚至失眠等问题，可能都源于身体结构（筋膜骨架）的歪斜。文章强调“痛处不一定是伤处”，并通过具体案例和居家舒缓动作，揭示了从根源调整身体平衡的重要性。
+tags:
+- history
+- llm
+- science
+- space
+- theory
+title: 身体“歪”了，可能是你睡不好的原因：黄献铭医师谈空间结构还原
 ---
+
 ### 空间结构还原：一种全新的中医外科视角
 
 大家好，我是宋晏仁医师，欢迎来到初日会客室。我们一直致力于为您带来最新、最广泛的知识，希望能够跳脱原有的框架。今天，我们有幸邀请到一位非常特别的中医师——黄献铭医师，他自称为“阿铭师”。黄医师最近推出了一门名为“空间结构还原”的课程，这个概念与我们平常熟悉的治疗方法有何不同呢？

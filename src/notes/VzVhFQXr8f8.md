@@ -1,31 +1,30 @@
 ---
-title: 科技未来主义：现代神话如何塑造人类未来
-summary: 本文解读詹姆斯·赫里克的《人类未来进化史》，探讨科技未来主义如何作为一种现代神话，通过叙事和传播，影响我们对进步、死亡与未来的理解，并警示其潜在风险。
 area: tech-insights
 category: technology
-project: []
-tags:
-- communication-studies
-- human-evolution
-- modern-mythology
-- posthumanism
-- technological-futurism
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-06'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VzVhFQXr8f8
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 本文解读詹姆斯·赫里克的《人类未来进化史》，探讨科技未来主义如何作为一种现代神话，通过叙事和传播，影响我们对进步、死亡与未来的理解，并警示其潜在风险。
+tags:
+- communication
+- history
+- human-evolution
+- posthumanism
+- technological
+title: 科技未来主义：现代神话如何塑造人类未来
 ---
+
 ### 传播学视角下的科技未来
 
 最近阅读了一本名为《人类未来进化史：关于人类增强与技术超越的神话》的书籍。该书作者是美国传播学教授**詹姆斯·A·赫里克**（James A. Herrick: 美国传播学教授）。初次接触时，对于传播学教授研究科技话题感到困惑，认为此类议题应由马斯克等技术专家主导。然而，深入阅读后发现，该书并非探讨技术本身，而是研究主宰当代科技发展的叙事，即副标题所指的“关于人类增强与技术超越的神话”。

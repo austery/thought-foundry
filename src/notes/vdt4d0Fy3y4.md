@@ -1,31 +1,29 @@
 ---
-author: 大伟探秘加拿大
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 美国政府
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Donald Trump
+products_models:
+- Trump Gold Card
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=vdt4d0Fy3y4
 speaker: 大伟探秘加拿大
-tags:
-  - llm
-  - prompt-engineering
-title: 川普金卡上线：100万美金移民美国的机遇与风险
-summary: 川普金卡正式上线，官网提供个人版和企业版两种套餐，分别需支付100万美元和200万美元。项目通过行政令挂靠在EB-1和EB-2签证上，但存在国会挑战、法律诉讼和政策不确定性等风险。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 川普
-companies_orgs:
-  - 美国政府
-products_models:
-  - Trump Gold Card
-media_books: []
 status: evergreen
+summary: 川普金卡正式上线，官网提供个人版和企业版两种套餐，分别需支付100万美元和200万美元。项目通过行政令挂靠在EB-1和EB-2签证上，但存在国会挑战、法律诉讼和政策不确定性等风险。
+tags: []
+title: 川普金卡上线：100万美金移民美国的机遇与风险
 ---
+
 ### 官网上线与项目本质揭秘
 这几天，您的朋友圈是不是又被一张金色的卡片刷屏了？没错就是那个传说中的川普金卡，号称一手交钱、一手拿卡的美国超级移民通道。就在最近，它的官网trumpcard.gov正式上线了。
 

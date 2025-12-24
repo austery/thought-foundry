@@ -1,53 +1,53 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Eli Lilly
+- Norges Bank Investment Management
+- Novo Nordisk
+- Adobe
+- European Parliament
+- European Medicines Agency
+- Food and Drug Administration
+- Veterans Administration
 date: '2025-02-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Ricks
+- Nicola Tangen
+- Dan Gansy
+- Satya Nadella
+- Shantanu Narayen
+products_models:
+- GLP-1
+- Exenatide
+- Trulicity
+- Zepbound
+- Prozac
+- ChatGPT
+- DALL-E
+project:
+- ai-impact-analysis
+- entrepreneurship
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=xl5-ZG3X1v0
 speaker: Norges Bank Investment Management
-tags:
-  - drug-discovery
-  - r-d-efficiency
-  - pharmaceutical-innovation
-  - market-access
-  - ai-in-pharma
-title: 礼来CEO David Ricks谈GLP-1药物、AI赋能与全球医药创新
-summary: 礼来公司CEO David Ricks深入探讨了GLP-1药物的革命性影响，从最初的糖尿病治疗到减重、戒烟、戒酒乃至潜在的神经退行性疾病治疗。他分享了礼来如何通过精简研发流程、加速决策和引入AI技术，显著提升药物发现和生产效率。Ricks还对比了全球市场准入的差异，并讨论了制药行业在药物定价、创新回报与社会可负担性之间的伦理困境。最后，他阐述了礼来独特的企业文化和对年轻人的职业发展建议。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - china-analysis
-people:
-  - David Ricks
-  - Nicola Tangen
-  - Dan Gansy
-  - Satya Nadella
-  - Shantanu Narayen
-companies_orgs:
-  - Eli Lilly
-  - Norges Bank Investment Management
-  - Novo Nordisk
-  - Adobe
-  - European Parliament
-  - European Medicines Agency
-  - Food and Drug Administration
-  - Veterans Administration
-products_models:
-  - GLP-1
-  - Exenatide
-  - Trulicity
-  - Zepbound
-  - Prozac
-  - ChatGPT
-  - DALL-E
-media_books: []
 status: evergreen
+summary: 礼来公司CEO David Ricks深入探讨了GLP-1药物的革命性影响，从最初的糖尿病治疗到减重、戒烟、戒酒乃至潜在的神经退行性疾病治疗。他分享了礼来如何通过精简研发流程、加速决策和引入AI技术，显著提升药物发现和生产效率。Ricks还对比了全球市场准入的差异，并讨论了制药行业在药物定价、创新回报与社会可负担性之间的伦理困境。最后，他阐述了礼来独特的企业文化和对年轻人的职业发展建议。
+tags:
+- drug-discovery
+- efficiency
+- market
+- pharmaceutical-innovation
+title: 礼来CEO David Ricks谈GLP-1药物、AI赋能与全球医药创新
+companies:
+- ai-in-pharma
 ---
+
 ### 礼来引领减重药物革命
 
 **Nicola:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**）的首席执行官尼古拉·坦根（Nicola Tangen）。今天，我非常荣幸能与制药巨头礼来（**Eli Lilly**）的首席执行官戴维·里克（David Ricks）先生同席。您可能知道，礼来公司正引领着减重药物的革命。我们持有该公司超过1%的股份，总价值达80亿美元。非常感谢您的到来，戴维，很高兴能与您在一起。

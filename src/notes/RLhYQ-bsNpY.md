@@ -1,43 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-03-10
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=RLhYQ-bsNpY'
-speaker: 徒步的騎手
-tags:
-  - us-politics
-  - free-speech
-  - political-polarization
-  - election-strategy
-  - power-arrogance
-title: 倒挂国旗：美国邻里间的政治表达与“权力的傲慢”
-summary: 本文探讨了美国社会中通过倒挂国旗等方式表达政治抗议的现象，分析了言论自由的宪法保障、地方政治生态中的党派影响，以及网络政治极端化与现实生活的差异。文章深入剖析了执政党“权力的傲慢”如何导致选民疏远，并以2024年大选为例，反思了民主党在经济和边境政策上的失误及其对中间选民的影响，强调了过滤政治噪音、倾听理性声音的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Joe Biden
-  - George W. Bush
-  - Barack Obama
-  - Hillary Clinton
-  - 袁立
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - Hamas
-  - 美国最高法院
-  - 共和党
-  - 民主党
-products_models: '[]'
+- Hamas
+- 美国最高法院
+- 共和党
+- 民主党
+date: 2025-03-10
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 不明白博客
+- 不明白博客
+people:
+- Donald Trump
+- Joe Biden
+- George W. Bush
+- Barack Obama
+- Hillary Clinton
+- 袁立
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=RLhYQ-bsNpY
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了美国社会中通过倒挂国旗等方式表达政治抗议的现象，分析了言论自由的宪法保障、地方政治生态中的党派影响，以及网络政治极端化与现实生活的差异。文章深入剖析了执政党“权力的傲慢”如何导致选民疏远，并以2024年大选为例，反思了民主党在经济和边境政策上的失误及其对中间选民的影响，强调了过滤政治噪音、倾听理性声音的重要性。
+tags:
+- free
+- power
+- strategy
+title: 倒挂国旗：美国邻里间的政治表达与“权力的傲慢”
 ---
 
 ### 邻里间的政治表达：倒挂国旗与言论自由

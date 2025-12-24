@@ -1,57 +1,57 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- ISIS
+- Vox
+- Salafi-Libre Center
 date: '2023-09-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《查理周刊》
+- 《双心两脑》
+- 《古兰经》
+- 《圣训》
+people:
+- Mohammed Meira
+- Khori Foukouaki
+- Abaoud
+- Anis
+- Imam Sadi
+- Jamal
+- Philip Molo
+- François Schipman
+- Professor Kiper
+- Abu al-Baghdadi
+- Ansari
+- Roshid
+- Einstein
+- Mohammed
+- Umar
+- Mamun
+- Suhail
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=lOwjw1Ja83Y
 speaker: 柴静 Chai Jing
-tags:
-  - homegrown-terrorism
-  - salafism
-  - counter-terrorism-failure
-  - freedom-security-balance
-  - religious-extremism
-title: 欧洲本土恐怖主义的弗兰肯斯坦怪物：从宽容到失控的警示
-summary: 本集深入探讨欧洲本土恐怖主义的崛起，揭示了情报部门的失职、政治家的“无知宽容”以及萨拉菲主义（Salafism）的意识形态影响。文章通过对法国、比利时、西班牙等国案例的分析，指出极端主义并非一蹴而就，而是长期社会、政治和宗教问题交织的产物。同时，探讨了言论自由与国家安全之间的平衡，以及对伊斯兰教义进行批判性解读的必要性，警示“弗兰肯斯坦怪物”的形成。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Mohammed Meira
-  - Khori Foukouaki
-  - Abaoud
-  - Anis
-  - Imam Sadi
-  - Jamal
-  - Philip Molo
-  - François Schipman
-  - Professor Kiper
-  - Abu al-Baghdadi
-  - Ansari
-  - Roshid
-  - Einstein
-  - Mohammed
-  - Umar
-  - Mamun
-  - Suhail
-companies_orgs:
-  - ISIS
-  - Vox
-  - Salafi-Libre Center
-products_models: []
-media_books:
-  - 《查理周刊》
-  - 《双心两脑》
-  - 《古兰经》
-  - 《圣训》
 status: evergreen
+summary: 本集深入探讨欧洲本土恐怖主义的崛起，揭示了情报部门的失职、政治家的“无知宽容”以及萨拉菲主义（Salafism）的意识形态影响。文章通过对法国、比利时、西班牙等国案例的分析，指出极端主义并非一蹴而就，而是长期社会、政治和宗教问题交织的产物。同时，探讨了言论自由与国家安全之间的平衡，以及对伊斯兰教义进行批判性解读的必要性，警示“弗兰肯斯坦怪物”的形成。
+tags:
+- failure
+- geopolitical
+- life
+- salafism
+- security
+title: 欧洲本土恐怖主义的弗兰肯斯坦怪物：从宽容到失控的警示
 ---
+
 ### 极端主义的蔓延：一个没有单一首脑的病毒
 
 认为所有这些运动都由一个首脑控制是一种错误。这就像我们打开了一个装有病毒的盒子，病毒就跑了出来，它就像流感一样。所以，即使**伊斯兰国**（ISIS: Islamic State of Iraq and Syria，一个活跃在中东及其他地区的**圣战**组织）被击败了，但这种意识形态依然存在。**伊斯兰国**的思想真实地存在于人们的头脑中，无处不在。然而，真正的挑战在于它能否承受来自内部的持续张力。

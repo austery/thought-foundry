@@ -1,55 +1,54 @@
 ---
-author: 超級歪 SuperY
+area: society-thinking
+category: politics-society
+companies_orgs:
+- EPA
+- BP
+- Texas Brine Company
+- IRS
+- Pew Research Center
 date: '2024-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《家鄉裡的異鄉人》
+- Silent Spring
+- 《正义之心》
+- Is God Environmentally Friendly?
+- 《绝望者之歌》
+people:
+- Donald Trump
+- Arlie R. Hochschild
+- Obama
+- Eisenhower
+- Rachel Carson
+- Stephen Meyer
+- Johnson
+- Anne Case
+- Angus Deaton
+- JD Vance
+- Émile Durkheim
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=tJZHDicrFXo
 speaker: 超級歪 SuperY
-tags:
-  - us-right-wing
-  - political-polarization
-  - anti-government-sentiment
-  - environmental-policy
-  - political-correctness
-  - evangelical-influence
-title: 理解美国右派：社会学视角下的反移民、反政治正确与信仰力量
-summary: 本文基于社会学家阿莉·霍克希尔德的《家乡里的异乡人》一书，深入探讨了美国右派的崛起及其核心驱动力。文章分析了右派对大政府、环境法规和政治正确性的反对，揭示了路易斯安那州右翼选民在经济困境、环境污染与政府干预之间的矛盾心态。同时，探讨了宗教信仰在右派群体中的情感慰藉作用，以及特朗普如何通过拒绝“政治正确”和“受害者语言”来赢得底层白人选民共鸣，最终促成了美国社会向右转的趋势。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Arlie R. Hochschild
-  - Obama
-  - Eisenhower
-  - Rachel Carson
-  - Stephen Meyer
-  - Johnson
-  - Anne Case
-  - Angus Deaton
-  - JD Vance
-  - Émile Durkheim
-companies_orgs:
-  - EPA
-  - BP
-  - Texas Brine Company
-  - IRS
-  - Pew Research Center
-products_models: []
-media_books:
-  - 《家鄉裡的異鄉人》
-  - Silent Spring
-  - 《正义之心》
-  - Is God Environmentally Friendly?
-  - 《绝望者之歌》
 status: evergreen
+summary: 本文基于社会学家阿莉·霍克希尔德的《家乡里的异乡人》一书，深入探讨了美国右派的崛起及其核心驱动力。文章分析了右派对大政府、环境法规和政治正确性的反对，揭示了路易斯安那州右翼选民在经济困境、环境污染与政府干预之间的矛盾心态。同时，探讨了宗教信仰在右派群体中的情感慰藉作用，以及特朗普如何通过拒绝“政治正确”和“受害者语言”来赢得底层白人选民共鸣，最终促成了美国社会向右转的趋势。
+tags:
+- environmental-policy
+- government
+- influence
+- political-correctness
+- right
+title: 理解美国右派：社会学视角下的反移民、反政治正确与信仰力量
 ---
+
 ### 美国右派的崛起与特朗普的再次当选
 
 2024年美国总统大选已经落幕，唐纳德·特朗普再次当选美国总统，这可以被视为美国右派的一次巨大胜利。特朗普曾明确表示，他上任第一天就会启动美国历史上最大规模的驱逐出境计划。反移民、反堕胎、反环保、反政治正确，这些都是美国右派的核心主张。

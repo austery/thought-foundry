@@ -1,60 +1,57 @@
 ---
-author: 硅谷101
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Alibaba
+- Google
+- OpenAI
+- Microsoft
+- Intel
+- Apple
+- Amazon
+- Walmart
+- Nvidia
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Huang Yuanjun
+- Alex Yao
+products_models:
+- Qwen
+- WAN 2.6
+- GPT-4
+- GPT
+- Android
+- Chrome
+- YouTube
+- Google Lens
+- Hema
+- Taobao
+- JD.com
+- Ctrip
+- Feishu
+- Xiaohongshu
+- Douyin
+- Midjourney
+- Sora
+- ChatGPT
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=hfiI8taHQcg
 speaker: 硅谷101
-tags:
-  - llm
-  - prompt-engineering
-  - ai-ecosystem
-  - internet-evolution
-  - ai-strategy
-title: 阿里千问与“AI Layer”崛起：一场重塑互联网的“操作系统”生态战
-summary: 本文深入探讨了AI如何重塑互联网入口和生态格局。以阿里千问为例，分析了生态巨头如谷歌和阿里如何利用全栈、多模态能力构建AI新入口，并对比了纯模型公司与生态公司的优劣势，预测AI将驱动商业模式和竞争本质的深刻变革。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Huang Yuanjun
-  - Alex Yao
-companies_orgs:
-  - Alibaba
-  - Google
-  - OpenAI
-  - Microsoft
-  - Intel
-  - Apple
-  - Amazon
-  - Walmart
-  - Nvidia
-products_models:
-  - Qwen
-  - WAN 2.6
-  - GPT-4
-  - GPT
-  - Android
-  - Chrome
-  - YouTube
-  - Google Lens
-  - Hema
-  - Taobao
-  - JD.com
-  - Ctrip
-  - Feishu
-  - Xiaohongshu
-  - Douyin
-  - Midjourney
-  - Sora
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 本文深入探讨了AI如何重塑互联网入口和生态格局。以阿里千问为例，分析了生态巨头如谷歌和阿里如何利用全栈、多模态能力构建AI新入口，并对比了纯模型公司与生态公司的优劣势，预测AI将驱动商业模式和竞争本质的深刻变革。
+tags:
+- ai-ecosystem
+- ai-strategy
+- evolution
+title: 阿里千问与“AI Layer”崛起：一场重塑互联网的“操作系统”生态战
 ---
+
 ### AI 搅动互联网格局
 
 2025年11月中旬，**阿里**杭州总部格外忙碌。11月17日，**千问app**正式公测，首周下载量迅速突破了1000万。而在公测的23天之后，月活跃用户数突破了3000万。差不多一个月后，最新的**WAN 2.6**视频生成模型也上线了，支持更完整的叙事和多镜头自动切换。这些市场反馈预示着**AI**正成为搅动整个互联网格局的巨大变量，这是一场重构入口的战争。本视频将探讨**阿里**如何打响这场重塑互联网的操作系统生态战。

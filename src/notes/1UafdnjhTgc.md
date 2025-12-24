@@ -1,47 +1,46 @@
 ---
-author: TVO Today
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- Stellantis
+- Toyota Motor Manufacturing Canada
+- LG
+- General Motors
+- Honda
+- Ford
+- OPEC
+- United Auto Workers of Canada
+- Suzuki
+- McMaster University
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Greg Moru
+- Vincent Bladen
+- Ed Lumley
+products_models:
+- Jeep Compass
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=1UafdnjhTgc
 speaker: TVO Today
-tags:
-  - auto-industry
-  - industrial-policy
-  - trade-relations
-  - electric-vehicles
-  - canada-economy
-title: 加拿大汽车工业的十字路口：拥抱中国电动汽车产业的机遇与挑战
-summary: 本文深入探讨了加拿大汽车工业当前面临的严峻挑战，特别是其对美国“三大”汽车制造商的传统依赖日益减弱的现状。文章回顾了加拿大汽车工业在20世纪中叶和80年代两次危机中，通过“汽车协定”和强硬的工业政策谈判成功转型的历史经验。面对全球汽车产业向电动化转型的趋势，专家指出中国已成为汽车技术和专利领域的领导者。文章呼吁加拿大应认真考虑调整其工业政策，探索与中国新兴汽车产业合作的可能性，而非继续固守与美国产业的联系，以确保加拿大汽车工业的未来发展。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Greg Moru
-  - Vincent Bladen
-  - Ed Lumley
-companies_orgs:
-  - Stellantis
-  - Toyota Motor Manufacturing Canada
-  - LG
-  - General Motors
-  - Honda
-  - Ford
-  - OPEC
-  - United Auto Workers of Canada
-  - Suzuki
-  - McMaster University
-products_models:
-  - Jeep Compass
-media_books: []
 status: evergreen
+summary: 本文深入探讨了加拿大汽车工业当前面临的严峻挑战，特别是其对美国“三大”汽车制造商的传统依赖日益减弱的现状。文章回顾了加拿大汽车工业在20世纪中叶和80年代两次危机中，通过“汽车协定”和强硬的工业政策谈判成功转型的历史经验。面对全球汽车产业向电动化转型的趋势，专家指出中国已成为汽车技术和专利领域的领导者。文章呼吁加拿大应认真考虑调整其工业政策，探索与中国新兴汽车产业合作的可能性，而非继续固守与美国产业的联系，以确保加拿大汽车工业的未来发展。
+tags:
+- economy
+- electric-vehicle
+- industrial-policy
+- industry
+- relations
+title: 加拿大汽车工业的十字路口：拥抱中国电动汽车产业的机遇与挑战
 ---
+
 ### 加拿大与Stellantis的争议
 
 联邦政府正在挑战**Stellantis**（一家跨国汽车制造商）将其Jeep Compass车型的生产线南迁的决定。加拿大是否应该超越传统的“三大”汽车制造商，转而拥抱中国日益崛起的汽车产业呢？

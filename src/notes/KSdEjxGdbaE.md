@@ -1,56 +1,55 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: general
+companies_orgs:
+- Khan Academy
+- Norges Bank Investment Management
+- OpenAI
+- MIT
+- CNN
+- The New York Times
+- ASU
+- Tufts University
+- Harvard
 date: '2024-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Great Expectations
+people:
+- Sal Khan
+- Nadia
+- Benjamin Bloom
+- Greg Brockman
+- Sam Altman
+- Nicholas Kristoff
+- Aristotle
+- Alexander the Great
+products_models:
+- GPT-2
+- GPT-3
+- GPT-3.5
+- GPT-4
+- Khanmigo
+project:
+- ai-impact-analysis
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=KSdEjxGdbaE
 speaker: Norges Bank Investment Management
-tags:
-  - online-education
-  - ai-in-education
-  - mastery-learning
-  - educational-inequality
-  - nonprofit-model
-title: 可汗学院创始人萨尔·汗：从对冲基金到全球教育革命
-summary: 可汗学院创始人萨尔·汗分享了他从对冲基金经理转型为全球教育家的历程。他详细阐述了可汗学院的诞生、如何通过个性化学习解决教育中的“二西格玛问题”，以及人工智能（特别是Khanmigo）如何彻底改变教育。萨尔·汗还探讨了AI对全球教育公平性的影响，并描绘了未来能力导向评估和低成本大学的愿景，旨在为所有人提供世界级的教育。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Sal Khan
-  - Nadia
-  - Benjamin Bloom
-  - Greg Brockman
-  - Sam Altman
-  - Nicholas Kristoff
-  - Aristotle
-  - Alexander the Great
-companies_orgs:
-  - Khan Academy
-  - Norges Bank Investment Management
-  - OpenAI
-  - MIT
-  - CNN
-  - The New York Times
-  - ASU
-  - Tufts University
-  - Harvard
-products_models:
-  - GPT-2
-  - GPT-3
-  - GPT-3.5
-  - GPT-4
-  - Khanmigo
-media_books:
-  - Great Expectations
 status: evergreen
+summary: 可汗学院创始人萨尔·汗分享了他从对冲基金经理转型为全球教育家的历程。他详细阐述了可汗学院的诞生、如何通过个性化学习解决教育中的“二西格玛问题”，以及人工智能（特别是Khanmigo）如何彻底改变教育。萨尔·汗还探讨了AI对全球教育公平性的影响，并描绘了未来能力导向评估和低成本大学的愿景，旨在为所有人提供世界级的教育。
+tags:
+- education
+- learning
+- model
+- society
+title: 可汗学院创始人萨尔·汗：从对冲基金到全球教育革命
 ---
+
 ### 从对冲基金到可汗学院的诞生
 
 大家好，欢迎收听“In Good Company”节目，今天我们非常高兴能带来一期特别节目，邀请到**可汗学院**（Khan Academy: 一个提供免费、世界级教育的非营利组织）富有远见的创始人萨尔·汗（Sal Khan）。

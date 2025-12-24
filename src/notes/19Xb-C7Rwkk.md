@@ -1,68 +1,68 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国民党
+- 民主党
+- 共和党
+- 美联储
+- Bilibili
+- X
+- Google
+- YouTube
+- 中宣部
+- 网信办
+- 央行
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《走向共和》
+- 《赛德克·巴莱》
+people:
+- 李鸿章
+- 康有为
+- 梁启超
+- 孙中山
+- 张勋
+- 王志安
+- 韩国瑜
+- Donald Trump
+- Mark Zuckerberg
+- Elon Musk
+- 薛健
+- 胡锡进
+- 毛宁
+- 魏德圣
+- Xi Jinping
+- 赵紫阳
+- 华国锋
+- 邓小平
+- 江泽民
+- 曲婉婷
+products_models:
+- ChatGPT
+- DeepSeek
+- 豆包
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=19Xb-C7Rwkk
 speaker: FearNation 世界苦茶
-tags:
-  - political-realism
-  - populism
-  - institutional-design
-  - information-literacy
-title: 晚清困局、AI偏见与民粹挑战：一场关于政治现实的深度问答
-summary: 本期问答深入探讨了多个复杂的政治与社会议题。从李鸿章在晚清的“政治动物”视角，到现代民主社会中的民粹主义挑战；从如何批判性地使用AI获取信息，到反思环保责任的阶级不公。内容还涵盖了对中国经济、外交政策及社会治安的观察，以及对左翼革命思想的现实性批判，提供了一个多维度的思考框架。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 李鸿章
-  - 康有为
-  - 梁启超
-  - 孙中山
-  - 张勋
-  - 王志安
-  - 韩国瑜
-  - Donald Trump
-  - Mark Zuckerberg
-  - Elon Musk
-  - 薛健
-  - 胡锡进
-  - 毛宁
-  - 魏德圣
-  - 习近平
-  - 赵紫阳
-  - 华国锋
-  - 邓小平
-  - 江泽民
-  - 曲婉婷
-companies_orgs:
-  - 国民党
-  - 民主党
-  - 共和党
-  - 美联储
-  - Bilibili
-  - X
-  - Google
-  - YouTube
-  - 中宣部
-  - 网信办
-  - 央行
-products_models:
-  - ChatGPT
-  - DeepSeek
-  - 豆包
-media_books:
-  - 《走向共和》
-  - 《赛德克·巴莱》
 status: evergreen
+summary: 本期问答深入探讨了多个复杂的政治与社会议题。从李鸿章在晚清的“政治动物”视角，到现代民主社会中的民粹主义挑战；从如何批判性地使用AI获取信息，到反思环保责任的阶级不公。内容还涵盖了对中国经济、外交政策及社会治安的观察，以及对左翼革命思想的现实性批判，提供了一个多维度的思考框架。
+tags:
+- design
+- information
+- political
+- populism
+title: 晚清困局、AI偏见与民粹挑战：一场关于政治现实的深度问答
 ---
+
 ### 晚清困局：为何李鸿章未尝试制度改革？
 
 我们今天回顾晚清历史，尤其像《走向共和》这样的作品，最关键的视角是制度变革，比如立宪派、保皇党等。这是基于历史的后见之明。但作为当时局中的人，他们怎么会把制度改革当作最关键的事情呢？制度改革其实只是当时部分人的想法，并非所有人都愿意去做。即便在当时，人们也很难看出共和制与君主制之间的根本差异，更不用说君主立宪制在不同情况下还有各种不同形态。

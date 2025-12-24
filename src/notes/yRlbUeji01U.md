@@ -1,53 +1,55 @@
 ---
-author: Money & Macro
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Reichsbank
+- Metallurgical Gesellschaft
+- German Labor Front
+- Gestapo
+- The Allies
+- Dresdner Bank
+- German Democratic Party
+- German People's Party
+- German Communist Party
+- Nazi Party
 date: '2025-09-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- 《金钱的魔力》
+people:
+- Hjalmar Schacht
+- Adolf Hitler
+- Franklin D Roosevelt
+- Hermann Göring
+- Hugo Junkers
+- Fritz Thyssen
+- Albert Speer
+- Heinrich Himmler
+products_models:
+- Myefo Bill
+project:
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=yRlbUeji01U
 speaker: Money & Macro
-tags:
-  - nazi-economy
-  - rearmament
-  - economic-controls
-  - hyperinflation
-  - war-economy
-title: 纳粹德国的经济奇迹：沙赫特的非常规手段如何推动战争
-summary: 本文深入探讨了纳粹德国在1933年至1939年间如何实现经济“奇迹”，将失业率降至近零并大规模重整军备。文章揭示了赫尔马·沙赫特（Hjalmar Schacht）这位“国际金融黑巫师”所采用的八种非常规经济工具，包括隐性赤字支出、工资与价格管制、资本管制及选择性债务违约等。这些政策虽然解决了德国的经济困境，却以牺牲公民自由为代价，并最终将国家推向了第二次世界大战。文章还探讨了沙赫特从自由主义者到纳粹合作者的转变，以及他最终的命运。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Hjalmar Schacht
-  - Adolf Hitler
-  - Franklin D Roosevelt
-  - Hermann Göring
-  - Hugo Junkers
-  - Fritz Thyssen
-  - Albert Speer
-  - Heinrich Himmler
-companies_orgs:
-  - Reichsbank
-  - Metallurgical Gesellschaft
-  - German Labor Front
-  - Gestapo
-  - The Allies
-  - Dresdner Bank
-  - German Democratic Party
-  - German People's Party
-  - German Communist Party
-  - Nazi Party
-products_models:
-  - Myefo Bill
-media_books:
-  - The Economist
-  - 《金钱的魔力》
 status: evergreen
+summary: 本文深入探讨了纳粹德国在1933年至1939年间如何实现经济“奇迹”，将失业率降至近零并大规模重整军备。文章揭示了赫尔马·沙赫特（Hjalmar
+  Schacht）这位“国际金融黑巫师”所采用的八种非常规经济工具，包括隐性赤字支出、工资与价格管制、资本管制及选择性债务违约等。这些政策虽然解决了德国的经济困境，却以牺牲公民自由为代价，并最终将国家推向了第二次世界大战。文章还探讨了沙赫特从自由主义者到纳粹合作者的转变，以及他最终的命运。
+tags:
+- economic
+- economy
+- financial
+- war
+title: 纳粹德国的经济奇迹：沙赫特的非常规手段如何推动战争
+companies:
+- rearmament
 ---
+
 ### 纳粹德国的“经济奇迹”：从萧条到重整军备
 
 1933年，柏林在全球经济大萧条的重创下，德国30%的劳动年龄人口失业，排队领取救济金的施粥所随处可见。然而，时间快进到1939年的柏林，希特勒生日当天，德国的失业率已接近0%，救济站消失了。取而代之的是希特勒的新军队，拥有数千辆最先进的坦克、榴弹炮、半挂卡车以及数百架现代战斗机和轰炸机。这支军队很快就羞辱了比利时、荷兰、北欧、波兰、英国和法国的军队。尽管德国获取铁矿石、橡胶和石油等关键原材料的渠道有限，但这支军队几乎是在六年的时间里从零开始建立起来的。这种看似不可能的转变，这种抵御如此巨大破坏的经济奇迹并非偶然。

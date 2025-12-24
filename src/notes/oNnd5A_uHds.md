@@ -1,61 +1,59 @@
 ---
-author: 徒步的騎手
-date: 2025-03-02
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=oNnd5A_uHds'
-speaker: 徒步的騎手
-tags:
-  - us-ukraine-relations
-  - geopolitical-shifts
-  - political-polarization
-  - us-europe-economy
-  - democracy-resilience
-  - immigration-politics
-title: 美乌外交风波、欧洲盟友与民主的韧性：后川普时代的政治审视
-summary: 本文深入剖析了乌克兰总统泽连斯基访美期间，因川普和万斯的行为而引发的外交风波，强调了盟友间相互尊重的重要性。文章通过详尽的经济数据，阐明了美国与欧洲之间不可或缺的经济联系，以及欧洲对乌克兰的支持。同时，探讨了全球政治“右转”的成因，并反思了“老人政治”对美国民主的影响。最后，呼吁在政治喧嚣中保持个人内心平衡，并重申了对开放社会和民主韧性的信心。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 泽连斯基
-  - Donald Trump
-  - J. D. Vance
-  - Joe Biden
-  - Vladimir Putin
-  - 法瑞德·扎卡瑞亚
-  - 约翰逊
-  - 尼克松
-  - 卡特
-  - 里根
-  - 克林顿
-  - 小布什
-  - 奥巴马
-  - 莫茨
-  - 孟子
-  - 斯大林
-  - 毛主席
-  - 奥勒留
-  - 索什刚教授
-  - 尼布尔
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - CNN
-  - HBO
-  - 欧盟
-  - 共和党
-  - 基民党
-  - 选项党
-products_models: '[]'
+- CNN
+- HBO
+- 欧盟
+- 共和党
+- 基民党
+- 选项党
+date: 2025-03-02
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《The Soul of America》
-  - GPS
+- 《The Soul of America》
+- GPS
+people:
+- 泽连斯基
+- Donald Trump
+- J. D. Vance
+- Joe Biden
+- Vladimir Putin
+- 法瑞德·扎卡瑞亚
+- 约翰逊
+- 尼克松
+- 卡特
+- 里根
+- 克林顿
+- 小布什
+- 奥巴马
+- 莫茨
+- 孟子
+- 斯大林
+- 毛主席
+- 奥勒留
+- 索什刚教授
+- 尼布尔
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=oNnd5A_uHds
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入剖析了乌克兰总统泽连斯基访美期间，因川普和万斯的行为而引发的外交风波，强调了盟友间相互尊重的重要性。文章通过详尽的经济数据，阐明了美国与欧洲之间不可或缺的经济联系，以及欧洲对乌克兰的支持。同时，探讨了全球政治“右转”的成因，并反思了“老人政治”对美国民主的影响。最后，呼吁在政治喧嚣中保持个人内心平衡，并重申了对开放社会和民主韧性的信心。
+tags:
+- democracy-resilience
+- economy
+- geopolitical-shift
+- immigration-politics
+- relations
+title: 美乌外交风波、欧洲盟友与民主的韧性：后川普时代的政治审视
 ---
 
 ### 乌克兰危机：外交风波与盟友关系

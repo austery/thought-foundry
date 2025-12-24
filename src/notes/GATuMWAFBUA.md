@@ -1,43 +1,40 @@
 ---
-author: Veritasium
-date: '2019-08-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=GATuMWAFBUA
-speaker: Veritasium
-tags:
-  - veritasium
-  - electric-vehicles
-  - battery-technology
-  - autonomous-driving
-  - sustainable-transportation
-  - urban-mobility
-title: 电动汽车的未来：历史、技术突破与十大优势
-summary: 本文深入探讨了电动汽车的演变历程，从其早期辉煌到被内燃机车取代，再到如今凭借电池技术的飞跃而强势回归。文章详细阐述了电动汽车在性能、成本、维护和环保方面的十大优势，并展望了其作为自动驾驶和共享出行核心载体的未来愿景。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people: []
+category: technology
 companies_orgs:
-  - BMW
-  - Ford
+- BMW
+- Ford
+date: '2019-08-02'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 products_models:
-  - Model T
-  - Jamais Contente
-  - Apollo lunar roving vehicle
-  - BMW 2 Series
-  - IX3
-  - Vision M Next
-  - Formula-E car
-media_books: []
+- Model T
+- Jamais Contente
+- Apollo lunar roving vehicle
+- BMW 2 Series
+- IX3
+- Vision M Next
+- Formula-E car
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=GATuMWAFBUA
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了电动汽车的演变历程，从其早期辉煌到被内燃机车取代，再到如今凭借电池技术的飞跃而强势回归。文章详细阐述了电动汽车在性能、成本、维护和环保方面的十大优势，并展望了其作为自动驾驶和共享出行核心载体的未来愿景。
+tags:
+- autonomous-driving
+- electric-vehicle
+- llm
+- technology
+- urban
+title: 电动汽车的未来：历史、技术突破与十大优势
 ---
+
 ### 电动汽车的兴衰：一段被遗忘的历史
 
 我受邀来到慕尼黑，由本视频的赞助商**宝马**（BMW: 德国豪华汽车品牌）公司邀请，旨在探究汽车的未来为何是电动化的。

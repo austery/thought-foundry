@@ -1,32 +1,32 @@
 ---
-title: “边境沙皇”与5万美元现金丑闻：一起被撤销的FBI调查为何挥之不去？
-summary: 本期节目深入探讨前“边境沙皇”汤姆·霍曼在FBI卧底调查中收取5万美元现金的事件。尽管特朗普政府撤销了此案，但围绕其合法性、政府回应及腐败法律的争论，使这起丑闻持续发酵。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-tags:
-- border-czar
-- corruption-scandal
-- fbi-investigation
-- trump-administration
-people:
-- tom-homeman
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-15'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+people:
+- tom-homeman
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=YxMjce6kSJY
+speaker: New York Times Podcasts
 status: evergreen
+summary: 本期节目深入探讨前“边境沙皇”汤姆·霍曼在FBI卧底调查中收取5万美元现金的事件。尽管特朗普政府撤销了此案，但围绕其合法性、政府回应及腐败法律的争论，使这起丑闻持续发酵。
+tags:
+- corruption-scandal
+- geopolitical
+- investment
+- trump-administration
+title: “边境沙皇”与5万美元现金丑闻：一起被撤销的FBI调查为何挥之不去？
 ---
+
 ### 引言：霍曼的5万美元现金丑闻
 
 From The New York Times, I'm Natalie Kitroof. This is The Daily.

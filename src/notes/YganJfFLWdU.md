@@ -1,49 +1,50 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economics
+companies_orgs:
+- VantageScore
+- TransUnion
+- Equifax
+- Experian
+- Fannie Mae
+- Freddie Mac
+- FHA
+- JPMorgan
+- McDonald's
+- LVMH
+- Walmart
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Odd Lots》
+people:
+- Rikard Bandebo
+- Joe Weisenthal
+- Tracy Alloway
+products_models:
+- Fico
+- VantageScore
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=YganJfFLWdU
 speaker: Bloomberg Podcasts
-tags:
-  - k-shaped-economy
-  - consumer-debt
-  - delinquency-rate
-  - credit-scoring
-  - auto-loan
-  - student-loan
-title: 美国汽车贷款违约率创历史新高：K型经济下的消费者压力分析
-summary: 本期《Odd Lots》播客深入探讨了美国消费者信贷状况，特别是汽车贷款违约率创历史新高的现象。嘉宾VantageScore首席策略官Rikard Bandebo指出，K型经济并非由收入水平驱动，而是财富差异。节目还讨论了信贷评分模型的演变、房贷政策变化对住房市场的影响，以及通胀、学生贷款恢复支付和保险费上涨如何共同加剧了不同收入群体的财务压力，揭示了当前经济环境下消费者脆弱性增加的趋势。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - us-analysis
-people:
-  - Rikard Bandebo
-  - Joe Weisenthal
-  - Tracy Alloway
-companies_orgs:
-  - VantageScore
-  - TransUnion
-  - Equifax
-  - Experian
-  - Fannie Mae
-  - Freddie Mac
-  - FHA
-  - JPMorgan
-  - McDonald's
-  - LVMH
-  - Walmart
-products_models:
-  - Fico
-  - VantageScore
-media_books:
-  - 《Odd Lots》
 status: evergreen
+summary: 本期《Odd Lots》播客深入探讨了美国消费者信贷状况，特别是汽车贷款违约率创历史新高的现象。嘉宾VantageScore首席策略官Rikard
+  Bandebo指出，K型经济并非由收入水平驱动，而是财富差异。节目还讨论了信贷评分模型的演变、房贷政策变化对住房市场的影响，以及通胀、学生贷款恢复支付和保险费上涨如何共同加剧了不同收入群体的财务压力，揭示了当前经济环境下消费者脆弱性增加的趋势。
+tags:
+- auto-loan
+- credit
+- debt
+- economy
+- life
+- rate
+title: 美国汽车贷款违约率创历史新高：K型经济下的消费者压力分析
 ---
+
 ### K型经济与财富分化
 
 人们常谈论**K型经济**（K-shaped economy: 经济复苏中不同群体表现差异巨大，形似字母K）。这究竟是真实存在的还是一个误解？我坚信它是真实的，但情况更为复杂。去年底我们发现并持续追踪到今年的一点是，虽然我们不是第一个看到**K型经济**的人，但很多人都假设它是由收入水平驱动的。然而，当我们当时查看数据时，我们发现那些收入较高的人群（在我们这里指年收入**15万美元以上**的群体，这并非指对冲基金经理等顶级富豪，而是相对富裕的群体）实际上在当时经历了**最高的年度违约率增长**。所以我们意识到，情况并非如此简单。我们与许多银行进行了深入探讨和合作，试图理解真正的区别因素是什么。最终，**财富**似乎是其中的关键部分。很多人不一定会区分收入和财富，但它们是独立的。

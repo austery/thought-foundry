@@ -1,63 +1,63 @@
 ---
-author: New York Times Podcasts
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- New York Times Cooking
+- Wirecutter
+- Amazon
+- 11 Madison Park
+- OXO
+- Escali
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Cookies
+- The Wire Cutter Show
+- Bake Time
+people:
+- Vaughn Vreeland
+- Christine Sir Cleette
+- Kyra Blackwell
+- Rosie Garin
+- Poppy
+- Jacqueline
+- Caitlyn
+- Jennifer Molina
+- Eric Kim
+- Ywanda Kamalafes
+- Sola Elley
+- Jacques Torres
+- recipe-modification
+products_models:
+- Cookies
+- Bake Time
+- Goji Chang Caramel Cookies
+- Spiced Chocolate Marble Shortbread
+- White Chocolate Macadamia Nut Cookies
+- Eggnog Snickerdoodle
+- Mexican Hot Chocolate Cookie
+- Gingerbread Latte Cookie
+- Mortadella Cookie
+- Chewy Brownie Cookie
+- Adobo Chocolate Chip
+- Jacques Torres Chocolate Chip Cookie
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=F1XoOHmbZHI
 speaker: New York Times Podcasts
-tags:
-  - cookie-baking-tips
-  - baking-equipment
-  - recipe-modifications
-  - common-baking-mistakes
-  - flavor-combinations
-title: 烘焙完美曲奇的秘诀：纽约时报烹饪团队的专家指南
-summary: 本期节目深入探讨了烘焙曲奇的艺术，邀请《纽约时报烹饪》的Vaughn Vreeland分享他的专业见解。他不仅介绍了新书《Cookies》，还详细讲解了必备的烘焙工具、如何避免常见错误，以及如何调整配方以满足不同口味需求。从选择合适的烘焙纸，到巧妙运用厨房秤和整形模具，再到处理焦化黄油和调整糖量，Vreeland提供了实用且富有创意的建议，帮助听众在家中烘焙出令人惊艳的曲奇。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project: []
-people:
-  - Vaughn Vreeland
-  - Christine Sir Cleette
-  - Kyra Blackwell
-  - Rosie Garin
-  - Poppy
-  - Jacqueline
-  - Caitlyn
-  - Jennifer Molina
-  - Eric Kim
-  - Ywanda Kamalafes
-  - Sola Elley
-  - Jacques Torres
-companies_orgs:
-  - New York Times Cooking
-  - Wirecutter
-  - Amazon
-  - 11 Madison Park
-  - OXO
-  - Escali
-products_models:
-  - Cookies
-  - Bake Time
-  - Goji Chang Caramel Cookies
-  - Spiced Chocolate Marble Shortbread
-  - White Chocolate Macadamia Nut Cookies
-  - Eggnog Snickerdoodle
-  - Mexican Hot Chocolate Cookie
-  - Gingerbread Latte Cookie
-  - Mortadella Cookie
-  - Chewy Brownie Cookie
-  - Adobo Chocolate Chip
-  - Jacques Torres Chocolate Chip Cookie
-media_books:
-  - Cookies
-  - The Wire Cutter Show
-  - Bake Time
 status: evergreen
+summary: 本期节目深入探讨了烘焙曲奇的艺术，邀请《纽约时报烹饪》的Vaughn Vreeland分享他的专业见解。他不仅介绍了新书《Cookies》，还详细讲解了必备的烘焙工具、如何避免常见错误，以及如何调整配方以满足不同口味需求。从选择合适的烘焙纸，到巧妙运用厨房秤和整形模具，再到处理焦化黄油和调整糖量，Vreeland提供了实用且富有创意的建议，帮助听众在家中烘焙出令人惊艳的曲奇。
+tags:
+- common-baking-mistake
+- cookie-baking-tip
+- flavor-combination
+- society
+title: 烘焙完美曲奇的秘诀：纽约时报烹饪团队的专家指南
 ---
+
 ### 烘焙的乐趣与无惧犯错
 
 烘焙的好处在于，无论如何，你最终都会得到一块曲奇。所以，在厨房里不要害怕犯错，这会让你在精神上放松很多。

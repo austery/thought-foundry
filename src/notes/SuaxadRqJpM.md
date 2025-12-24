@@ -1,30 +1,29 @@
 ---
-title: TED专家朱利安·特雷泽：提升沟通力的秘诀——学会倾听与真诚表达
-summary: TED演讲者朱利安·特雷泽分享了有效沟通的秘诀，强调了声音的力量、真诚表达的重要性，以及如何通过积极倾听来建立连接，从而成为更好的沟通者。
 area: null
 category: null
-project: []
-tags:
-- active-listening
-- communication-skills
-- public-speaking
-- self-improvement
-people:
-- julian-treasure
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-15'
-author: TED
-speaker: TED
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- julian-treasure
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SuaxadRqJpM
+speaker: TED
 status: evergreen
+summary: TED演讲者朱利安·特雷泽分享了有效沟通的秘诀，强调了声音的力量、真诚表达的重要性，以及如何通过积极倾听来建立连接，从而成为更好的沟通者。
+tags:
+- active-listening
+- communication-skill
+- public
+- self-improvement
+title: TED专家朱利安·特雷泽：提升沟通力的秘诀——学会倾听与真诚表达
 ---
+
 ### 声音的力量与倾听的挑战
 
 Julian Treasure: The human voice. It's the instrument we all play. It's the most powerful sound in the world probably. It's the only one that can start a war or say I love you. And yet many people have the experience that when they speak, people don't listen to them. Why is that? How can we speak powerfully to make change in the world?

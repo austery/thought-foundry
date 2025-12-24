@@ -1,32 +1,31 @@
 ---
-author: Anthony看世界
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 50 Features to Identify Male NPD
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=tj5DEZKtcwU
 speaker: Anthony看世界
-tags:
-  - narcissistic-personality-disorder
-  - victim-mentality
-  - self-awareness
-  - psychological-trauma
-  - internal-responsibility
-title: NPD叙事下的受害者心态：摆脱精神控制与自我赋能
-summary: 本期节目深入探讨了自恋型人格障碍（NPD）叙事在中国社会中的演变。主持人Anthony指出，尽管NPD概念帮助许多人识别了伤害，但其过度泛化和妖魔化也可能导致受害者陷入更深的无力感。节目区分了外部责任与内部责任，强调个人在面对创伤和“精神控制”时，应通过自我觉察和内在整合，从受害者心态中解脱，重获主体性与力量。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-  - 50 Features to Identify Male NPD
 status: evergreen
+summary: 本期节目深入探讨了自恋型人格障碍（NPD）叙事在中国社会中的演变。主持人Anthony指出，尽管NPD概念帮助许多人识别了伤害，但其过度泛化和妖魔化也可能导致受害者陷入更深的无力感。节目区分了外部责任与内部责任，强调个人在面对创伤和“精神控制”时，应通过自我觉察和内在整合，从受害者心态中解脱，重获主体性与力量。
+tags:
+- psychology
+- science
+- self-awareness
+- society
+title: NPD叙事下的受害者心态：摆脱精神控制与自我赋能
+companies:
+- psychological-trauma
 ---
 
 ### NPD叙事：觉醒与无力的悖论

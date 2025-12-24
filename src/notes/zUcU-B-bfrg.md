@@ -1,30 +1,27 @@
 ---
-title: 深度解析“向上社交”的误区：贵人相助的本质与获取之道
-summary: 本文探讨了“向上社交”的常见误区，指出真正的贵人相助并非等价交换或短期利用，而是一种着眼于未来的投资。通过个人经历和案例分析，作者阐释了贵人相助的特点，并提出了成为“千里马”、吸引贵人关注的四大特质：实干、挣扎、可塑性以及敏感度。
 area: personal-growth
 category: psychology
-project:
-  - personal-growth-lab
-tags:
-  - career-development
-  - mentorship
-  - networking-strategy
-  - personal-growth
-  - upward-social-climbing
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2024-03-03'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=zUcU-B-bfrg
+speaker: 一口新飯
 status: evergreen
+summary: 本文探讨了“向上社交”的常见误区，指出真正的贵人相助并非等价交换或短期利用，而是一种着眼于未来的投资。通过个人经历和案例分析，作者阐释了贵人相助的特点，并提出了成为“千里马”、吸引贵人关注的四大特质：实干、挣扎、可塑性以及敏感度。
+tags:
+- career-development
+- personal-growth
+- social
+- society
+- strategy
+title: 深度解析“向上社交”的误区：贵人相助的本质与获取之道
 ---
 
 ### 重新审视“向上社交”：大佬为何伸出援手？

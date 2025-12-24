@@ -1,37 +1,36 @@
 ---
-author: 徒步的騎手
-date: 2025-01-03
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=uRx8PiPgnF8'
-speaker: 徒步的騎手
-tags:
-  - healthcare-crisis
-  - systemic-corruption
-  - government-policy
-  - medical-resource-allocation
-  - traditional-chinese-medicine
-title: 中国医疗困境：制度性恶源与欠账终归要还
-summary: 本文深入剖析了中国医疗系统面临的三大制度性恶源：政府医疗投入严重不足、医疗资源分配极度不均，以及中医药的政治化。文章指出，这些深层问题导致医患矛盾激化、医疗腐败滋生，并批评了政府以运动式反腐和中草药民族主义来掩盖和转移矛盾的做法。最终，文章强调，社会长期积累的制度性亏欠终将以动荡的方式偿还。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people: '[]'
+category: geopolitics
 companies_orgs:
-  - 世界银行
-  - 北京朝阳医院
-  - 联邦司法部
-  - 德州总检察长
-products_models: '[]'
+- 世界银行
+- 北京朝阳医院
+- 联邦司法部
+- 德州总检察长
+date: 2025-01-03
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《黄帝内经》
+- 《黄帝内经》
+people: '[]'
+products_models: '[]'
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=uRx8PiPgnF8
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入剖析了中国医疗系统面临的三大制度性恶源：政府医疗投入严重不足、医疗资源分配极度不均，以及中医药的政治化。文章指出，这些深层问题导致医患矛盾激化、医疗腐败滋生，并批评了政府以运动式反腐和中草药民族主义来掩盖和转移矛盾的做法。最终，文章强调，社会长期积累的制度性亏欠终将以动荡的方式偿还。
+tags:
+- chinese
+- crisis
+- government-policy
+- medical
+- systemic-corruption
+title: 中国医疗困境：制度性恶源与欠账终归要还
 ---
 
 ### 引言：中国医疗困境的临界点

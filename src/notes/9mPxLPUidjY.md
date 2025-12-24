@@ -1,39 +1,37 @@
 ---
-author: Shanghao Jin
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Goldman Sachs
+- WTO
 date: '2025-04-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Forbes
+people:
+- Donald Trump
+- Navarro
+- Obama
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=9mPxLPUidjY
 speaker: Shanghao Jin
-tags:
-  - us-china-trade-war
-  - tariff-policy
-  - market-recession
-  - investment-strategy
-  - political-polarization
-title: 特朗普关税政策的市场影响与衰退风险展望
-summary: 本期节目深入分析了特朗普关税政策对全球市场（包括股市和债市）的深远影响。主持人指出，当前市场波动主要受政治政策而非经济基本面驱动。文章探讨了特朗普加征关税的短期执行难度与长期中美贸易关系恶化的趋势，并揭示其政策背后的政治动机。此外，节目还评估了美国经济衰退的概率，并为投资者提供了在熊市中应采取的谨慎策略，强调了高科技公司与美国市场在全球估值体系中的独特地位，以及近期美国国债市场波动的深层原因。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Navarro
-  - Obama
-companies_orgs:
-  - Goldman Sachs
-  - WTO
-products_models: []
-media_books:
-  - Forbes
 status: evergreen
+summary: 本期节目深入分析了特朗普关税政策对全球市场（包括股市和债市）的深远影响。主持人指出，当前市场波动主要受政治政策而非经济基本面驱动。文章探讨了特朗普加征关税的短期执行难度与长期中美贸易关系恶化的趋势，并揭示其政策背后的政治动机。此外，节目还评估了美国经济衰退的概率，并为投资者提供了在熊市中应采取的谨慎策略，强调了高科技公司与美国市场在全球估值体系中的独特地位，以及近期美国国债市场波动的深层原因。
+tags:
+- market
+- tariff-policy
+- us-china-relations
+title: 特朗普关税政策的市场影响与衰退风险展望
 ---
+
 ### 政策主导下的市场波动与特朗普关税
 
 大家早上好。我这张图其实代表了很多东西。最近的市场，我觉得很多层面上是政策，而非经济，完全是政治政策的影响。因此，观测的整个重心，从上个星期或者再上个星期，这一两个月以来，基本上都是**唐纳德·特朗普**（Donald Trump: 美国前总统，共和党籍）的关税政策。

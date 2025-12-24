@@ -1,44 +1,41 @@
 ---
-author: Veritasium
-date: '2024-05-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Zce-V0YVzeI
-speaker: Veritasium
-tags:
-  - veritasium
-  - avalanche-science
-  - snowpack-instability
-  - avalanche-safety
-  - backcountry-hazards
-  - avalanche-prevention
-title: 雪崩的恐怖真相：科学原理、预防与自救
-summary: 本视频深入探讨了雪崩的科学原理、成因、预防措施以及在遭遇雪崩时如何自救。文章揭示了雪崩的破坏力，从历史上的重大事件到滑雪者在野外遭遇的风险，详细介绍了雪层结构、弱层形成机制（如表面霜和晶体面），以及如何通过人工爆破和安全设备（如雪崩信标、探杆和雪崩气囊）来应对这一自然灾害。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Bruce Tremper
-  - Peter
-  - Derek
+category: science
 companies_orgs:
-  - Whistler-Blackcomb
-  - Parks Canada
-  - Canadian Army
-  - Brilliant
+- Whistler-Blackcomb
+- Parks Canada
+- Canadian Army
+- Brilliant
+date: '2024-05-03'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Bruce Tremper
+- Peter
+- Derek
 products_models:
-  - avalanche beacon
-  - avalanche airbag
-  - probe
-  - shovel
-media_books: []
+- avalanche beacon
+- avalanche airbag
+- probe
+- shovel
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=Zce-V0YVzeI
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了雪崩的科学原理、成因、预防措施以及在遭遇雪崩时如何自救。文章揭示了雪崩的破坏力，从历史上的重大事件到滑雪者在野外遭遇的风险，详细介绍了雪层结构、弱层形成机制（如表面霜和晶体面），以及如何通过人工爆破和安全设备（如雪崩信标、探杆和雪崩气囊）来应对这一自然灾害。
+tags:
+- safety
+- science
+- snowpack-instability
+- technology
+title: 雪崩的恐怖真相：科学原理、预防与自救
 ---
+
 ### 雪崩：成因、破坏力与历史教训
 
 这是一个关于雪崩的视频，它将探讨雪崩是什么、由什么引起、如何预防破坏性雪崩，以及万一被困其中该如何应对。

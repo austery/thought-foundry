@@ -1,69 +1,69 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 同盟会
+- 保皇会
+- 进步党
+- 国民党
+- 清华国学研究院
+- 松下村塾
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《清议报》
+- 《新民丛报》
+- 《民报》
+- 《少年中国说》
+- 《中国政治思想史》
+- 《异哉所谓国体问题者》
+people:
+- 梁启超
+- 孙中山
+- 康有为
+- 袁世凯
+- 胡适
+- 章太炎
+- 孔子
+- 慈禧太后
+- 光绪皇帝
+- 蔡锷
+- 黄兴
+- 汪精卫
+- 吉田松阴
+- 德富苏峰
+- 福泽谕吉
+- 伊藤博文
+- 肖公权
+- 郭沫若
+- 林纾
+- 鲁迅
+- 杨度
+- 张东荪
+- 梁漱溟
+- 蒋经国
+- 华盛顿
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=HUVNuFfNsJs
 speaker: 东京人文论坛
-tags:
-  - intellectual-history
-  - nation-building
-  - media-influence
-  - language-and-politics
-  - constitutional-monarchy
-title: 笔杆子胜过枪杆子：梁启超在东京的思想革命
-summary: 梁启超流亡东京期间，通过创办《清议报》和《新民丛报》等杂志，引入了西方的思想观念和大量现代汉语词汇，如“国民”、“自由”与“中华民族”。他以笔为剑，深刻影响了中国的思想界，尽管他本人主张君主立宪并最终与革命派分道扬镳，但其思想启蒙工作为辛亥革命铺平了道路，成为胡适口中“革命第一大功臣”。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 梁启超
-  - 孙中山
-  - 康有为
-  - 袁世凯
-  - 胡适
-  - 章太炎
-  - 孔子
-  - 慈禧太后
-  - 光绪皇帝
-  - 蔡锷
-  - 黄兴
-  - 汪精卫
-  - 吉田松阴
-  - 德富苏峰
-  - 福泽谕吉
-  - 伊藤博文
-  - 肖公权
-  - 郭沫若
-  - 林纾
-  - 鲁迅
-  - 杨度
-  - 张东荪
-  - 梁漱溟
-  - 蒋经国
-  - 华盛顿
-companies_orgs:
-  - 同盟会
-  - 保皇会
-  - 进步党
-  - 国民党
-  - 清华国学研究院
-  - 松下村塾
-products_models: []
-media_books:
-  - 《清议报》
-  - 《新民丛报》
-  - 《民报》
-  - 《少年中国说》
-  - 《中国政治思想史》
-  - 《异哉所谓国体问题者》
 status: evergreen
+summary: 梁启超流亡东京期间，通过创办《清议报》和《新民丛报》等杂志，引入了西方的思想观念和大量现代汉语词汇，如“国民”、“自由”与“中华民族”。他以笔为剑，深刻影响了中国的思想界，尽管他本人主张君主立宪并最终与革命派分道扬镳，但其思想启蒙工作为辛亥革命铺平了道路，成为胡适口中“革命第一大功臣”。
+tags:
+- constitutional
+- history
+- media-influence
+- nation-building
+- politics
+title: 笔杆子胜过枪杆子：梁启超在东京的思想革命
 ---
+
 ### 从“中国时间”到“世界时间”
 
 中国的纪年方式，普通人使用农历，而政治上则使用皇帝的年号。所以，中国的世界其实是一个没有“世界”概念的世界。因为新皇帝登基后，一切又重新开始，又是元年。这与我们今天使用的公元纪年法——“世界世界”——完全不同。

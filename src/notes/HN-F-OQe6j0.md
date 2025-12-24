@@ -1,47 +1,47 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- Google DeepMind
+- GitHub
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kevin Hou
+- Swix
+- Ben
+products_models:
+- Anti-gravity
+- Gemini 3 Pro
+- Gemini
+- Nano Banana Pro
+- VS Code
+- Copilot
+- AI Studio
+- Google Docs
+- Figma
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=HN-F-OQe6j0
 speaker: AI Engineer
-tags:
-  - ai-developer-platform
-  - agent-first-ide
-  - multimodal-ai
-  - software-development-workflow
-  - research-product-flywheel
-title: Google DeepMind推出Anti-gravity：AI智能体驱动的开发者平台新范式
-summary: Google DeepMind发布了全新的AI开发者平台Anti-gravity，它以“智能体优先”为核心理念，旨在通过AI智能体重塑软件开发工作流。该平台包含AI编辑器、智能体管理器和智能体控制的浏览器三大核心界面，并深度整合了Gemini 3 Pro等多模态AI模型的能力。文章详细介绍了Anti-gravity如何利用模型能力的提升，通过“工件”（Artifacts）这一创新交互模式，实现更高效、更直观的开发体验，并揭示了其背后“研究与产品飞轮”的独特开发模式。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Kevin Hou
-  - Swix
-  - Ben
-companies_orgs:
-  - Google
-  - Google DeepMind
-  - GitHub
-products_models:
-  - Anti-gravity
-  - Gemini 3 Pro
-  - Gemini
-  - Nano Banana Pro
-  - VS Code
-  - Copilot
-  - AI Studio
-  - Google Docs
-  - Figma
-media_books: []
 status: evergreen
+summary: Google DeepMind发布了全新的AI开发者平台Anti-gravity，它以“智能体优先”为核心理念，旨在通过AI智能体重塑软件开发工作流。该平台包含AI编辑器、智能体管理器和智能体控制的浏览器三大核心界面，并深度整合了Gemini
+  3 Pro等多模态AI模型的能力。文章详细介绍了Anti-gravity如何利用模型能力的提升，通过“工件”（Artifacts）这一创新交互模式，实现更高效、更直观的开发体验，并揭示了其背后“研究与产品飞轮”的独特开发模式。
+tags:
+- agent
+- multimodal-ai
+- platform
+- research
+- software-development-workflow
+title: Google DeepMind推出Anti-gravity：AI智能体驱动的开发者平台新范式
 ---
+
 ### 欢迎来到Anti-gravity的世界
 
 大家好。

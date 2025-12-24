@@ -1,38 +1,37 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-04-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Courage to Be Disliked
+- Learned Helplessness
+- Inferiority and Transcendence
+people:
+- Adler
+- Mencius
+- Ichiro Kishimi
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=zMLx2dKUujs
 speaker: Anthony看世界
-tags:
-  - courage-to-be-disliked
-  - adlerian-psychology
-  - teleology-critique
-  - self-blame-culture
-  - learned-helplessness
-title: 《被讨厌的勇气》：中国流行心理学的致命缺陷与阿德勒思想的误读
-summary: 本期节目深入剖析畅销书《被讨厌的勇气》的深层缺陷，指出其将个人困境简化为“主观选择”和“勇气”的“目的论”，实则忽视了心理创伤、社会结构等外部因素的深刻影响，并可能导致“自我PUA”和对个体更深层次的压迫。节目强调，该书的核心逻辑并非源于西方哲学，而是与东亚文化中“责任优先”的观念不谋而合，这解释了其在中日两国广受欢迎的原因。通过对比阿德勒本人的思想，揭示了该书对阿德勒心理学的误读，并呼吁人们正视外部限制，接纳脆弱，而非盲目归因于个人勇气。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-  - systems-thinking
-people:
-  - Adler
-  - Mencius
-  - Ichiro Kishimi
-companies_orgs: []
-products_models: []
-media_books:
-  - The Courage to Be Disliked
-  - Learned Helplessness
-  - Inferiority and Transcendence
 status: evergreen
+summary: 本期节目深入剖析畅销书《被讨厌的勇气》的深层缺陷，指出其将个人困境简化为“主观选择”和“勇气”的“目的论”，实则忽视了心理创伤、社会结构等外部因素的深刻影响，并可能导致“自我PUA”和对个体更深层次的压迫。节目强调，该书的核心逻辑并非源于西方哲学，而是与东亚文化中“责任优先”的观念不谋而合，这解释了其在中日两国广受欢迎的原因。通过对比阿德勒本人的思想，揭示了该书对阿德勒心理学的误读，并呼吁人们正视外部限制，接纳脆弱，而非盲目归因于个人勇气。
+tags:
+- adlerian-psychology
+- critique
+- culture
+- llm
+- technology
+title: 《被讨厌的勇气》：中国流行心理学的致命缺陷与阿德勒思想的误读
 ---
 
 ### 流行心理学的“目的论”陷阱

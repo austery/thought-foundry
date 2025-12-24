@@ -1,47 +1,45 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 澜起科技
+- 中芯国际
+- 台积电
+- 长电科技
+- 博通
+- 瑞萨电子
 date: '2025-09-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- 内存互联芯片
+- PCIE产品
+- CXL产品
+- CKD时钟芯片
+- 以太网互联芯片
+- 光通信互联芯片
+- DDR5
+- Retimer
+- PCIe Switch
+project:
+- investment-strategy
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=At3C_clNSH0
 speaker: 海淀拙大叔
-tags:
-  - financial-report-analysis
-  - semiconductor-industry
-  - growth-prediction
-  - market-share
-  - investment-philosophy
-title: 澜起科技中报点评与长期增长前瞻：从“蓝企”到“蓝王”的蜕变之路
-summary: 本文深入分析了澜起科技2025年半年报，探讨了其收入增速与财务指标的匹配度，并基于第三方咨询机构的预测，对澜起科技至2030年的长期收入增长进行了详细推算。文章还揭示了影响其未来增长的关键变量，特别是以太网和光通信互联芯片的研发进展及市场份额，并强调了长期持有的投资信仰。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-people: []
-companies_orgs:
-  - 澜起科技
-  - 中芯国际
-  - 台积电
-  - 长电科技
-  - 博通
-  - 瑞萨电子
-products_models:
-  - 内存互联芯片
-  - PCIE产品
-  - CXL产品
-  - CKD时钟芯片
-  - 以太网互联芯片
-  - 光通信互联芯片
-  - DDR5
-  - Retimer
-  - PCIe Switch
-media_books: []
 status: evergreen
+summary: 本文深入分析了澜起科技2025年半年报，探讨了其收入增速与财务指标的匹配度，并基于第三方咨询机构的预测，对澜起科技至2030年的长期收入增长进行了详细推算。文章还揭示了影响其未来增长的关键变量，特别是以太网和光通信互联芯片的研发进展及市场份额，并强调了长期持有的投资信仰。
+tags:
+- financial
+- growth
+- investment-philosophy
+- market
+- semiconductor
+title: 澜起科技中报点评与长期增长前瞻：从“蓝企”到“蓝王”的蜕变之路
 ---
+
 ### 澜起科技中报表现与预期差异分析
 
 2025年8月31日，澜起科技的半年报正式发布。报告显示，公司上半年实现收入26亿元，同比增长58%；净利润11.6亿元，同比增长95%；毛利率保持在60%。受此利好影响，澜起科技股价在上周上涨了30%，市场对其称呼也从“蓝企”变为“蓝王”。

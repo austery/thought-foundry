@@ -1,46 +1,46 @@
 ---
-author: Peter Pang
-date: 2025-10-30
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=OBotS2j8fsQ'
-speaker: Peter Pang
-tags:
-  - semantic-versioning
-  - ai-model-versions
-  - user-trust
-  - software-ecosystem
-  - developer-expectations
-title: AI时代版本号的信任危机：当数字不再代表升级
-summary: 本文探讨了软件版本号，特别是“语义化版本”，在传统软件开发中的重要作用及其所建立的开发者与用户间的默契。然而，在AI大模型和某些特定生态（如微信小程序）中，这种约定俗成的版本命名规则被打破，导致用户对新旧版本关系的认知混乱。文章指出，当版本号的承诺被滥用，用户信任被逐渐侵蚀，这不仅影响技术生态的健康发展，也引发了对商业诚信的深刻反思。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - china-analysis
-people:
-  - Linus
+category: technology
 companies_orgs:
-  - Node.js
-  - npm
-  - WeChat
-  - Microsoft
-products_models:
-  - Copilot
-  - GPT
-  - Claude
-  - Python
-  - Postgres
-  - Linux kernel
-  - Windows XP
-  - Windows Vista
+- Node.js
+- npm
+- WeChat
+- Microsoft
+date: 2025-10-30
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Linus
+products_models:
+- Copilot
+- GPT
+- Claude
+- Python
+- Postgres
+- Linux kernel
+- Windows XP
+- Windows Vista
+project:
+- ai-impact-analysis
+- systems-thinking
+- china-analysis
+series: ''
+source: https://www.youtube.com/watch?v=OBotS2j8fsQ
+speaker: Peter Pang
 status: evergreen
+summary: 本文探讨了软件版本号，特别是“语义化版本”，在传统软件开发中的重要作用及其所建立的开发者与用户间的默契。然而，在AI大模型和某些特定生态（如微信小程序）中，这种约定俗成的版本命名规则被打破，导致用户对新旧版本关系的认知混乱。文章指出，当版本号的承诺被滥用，用户信任被逐渐侵蚀，这不仅影响技术生态的健康发展，也引发了对商业诚信的深刻反思。
+tags:
+- ai-model-version
+- ecosystem
+- semantic-versioning
+- technology
+- trust
+title: AI时代版本号的信任危机：当数字不再代表升级
 ---
+
 ### AI时代版本号的混乱与用户困境
 
 在制作本期视频时，我曾尝试通过AI了解版本号的发展史。然而，打开**Copilot**（微软开发的一款AI编程助手），面对15个可供选择的大模型，我却不知该如何选择，因为我已经搞不懂它们之间的区别了。有时，版本4的回答比4.1和5更详细；有时，3.7的答案会比3.5和4.5更精准。因此，每次我都需要挨个询问一遍，再货比三家得出结论。我十分怀念那个什么软件都可以无脑使用最新版本的时代。约定俗成的版本命名规则，在AI时代已经荡然无存。

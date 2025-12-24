@@ -1,61 +1,61 @@
 ---
-author: 知行小酒馆
+area: personal-systems
+category: career
+companies_orgs:
+- 知行小酒馆
+- 有知有行
+- 伯克希尔·哈撒韦
+- 芒格书院
+- 世纪文景
+- 中信出版集团
+- 上海人民出版社
+- 雪球
+- 百济投资
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《穷查理宝典》
+- 《芒格之道》
+- 《文明、现代化、价值投资与中国》
+- 《大道：段永平投资问答录》
+- 《达芬奇密码》
+- 《我的名字叫红》
+- 《毕业那天我们一起失恋》
+- 《超越百岁》
+- 《纳瓦尔宝典》
+- 《凯恩斯文集》
+people:
+- 施宏俊
+- 查理·芒格
+- 沃伦·巴菲特
+- 李录
+- 段永平
+- 张云帆
+- 方三文
+- 罗念生
+- 本杰明·富兰克林
+- 约翰·梅纳德·凯恩斯
+- 汤浩
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=FZknRsXrjQk
 speaker: 知行小酒馆
-tags:
-  - career-transition
-  - lifelong-learning
-  - value-investing-philosophy
-  - community-building
-title: 对话施宏俊：被芒格思想重塑的出版人生
-summary: 知名出版人施宏俊，曾将《穷查理宝典》等重要书籍引入中国。他分享了查理·芒格的智慧如何深刻影响并重塑了他的人生与职业轨迹。在52岁那年，他选择离开体制内的顶尖职位，创办了“芒格书院”，致力于构建一个围绕价值投资与终身学习的社群。本次对谈深入探讨了他从关注作者到关注读者、从追求销量到推动深度阅读的转变，以及芒格哲学在个人成长、职业选择和应对时代变化中的实践应用。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 施宏俊
-  - 查理·芒格
-  - 沃伦·巴菲特
-  - 李录
-  - 段永平
-  - 张云帆
-  - 方三文
-  - 罗念生
-  - 本杰明·富兰克林
-  - 约翰·梅纳德·凯恩斯
-  - 汤浩
-companies_orgs:
-  - 知行小酒馆
-  - 有知有行
-  - 伯克希尔·哈撒韦
-  - 芒格书院
-  - 世纪文景
-  - 中信出版集团
-  - 上海人民出版社
-  - 雪球
-  - 百济投资
-products_models: []
-media_books:
-  - 《穷查理宝典》
-  - 《芒格之道》
-  - 《文明、现代化、价值投资与中国》
-  - 《大道：段永平投资问答录》
-  - 《达芬奇密码》
-  - 《我的名字叫红》
-  - 《毕业那天我们一起失恋》
-  - 《超越百岁》
-  - 《纳瓦尔宝典》
-  - 《凯恩斯文集》
 status: evergreen
+summary: 知名出版人施宏俊，曾将《穷查理宝典》等重要书籍引入中国。他分享了查理·芒格的智慧如何深刻影响并重塑了他的人生与职业轨迹。在52岁那年，他选择离开体制内的顶尖职位，创办了“芒格书院”，致力于构建一个围绕价值投资与终身学习的社群。本次对谈深入探讨了他从关注作者到关注读者、从追求销量到推动深度阅读的转变，以及芒格哲学在个人成长、职业选择和应对时代变化中的实践应用。
+tags:
+- career-transition
+- community-building
+- lifelong-learning
+- philosophy
+title: 对话施宏俊：被芒格思想重塑的出版人生
 ---
+
 ### 缘起：从文艺青年到出版“巴芒李段”
 
 今天我们不仅想聊查理·芒格，更想探讨他是如何深刻影响许多人的，以及我们该如何看待“芒格之后”的世界。本次的嘉宾施宏俊老师，正是将《穷查理宝典》、《芒格之道》以及李录、段永平的著作引入中国的关键出版人。

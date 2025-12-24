@@ -1,54 +1,53 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 新华社
+- 路透社
+- 彭博社
+- 人民日报
+- 华尔街日报
+- 美国广播公司新闻网
+- 中国国家统计局
+- 中国人民银行
+- 中国金融监管局
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 王毅
+- 卢比奥
+- Xi Jinping
+- Donald Trump
+- 贝森特
+- 李成钢
+- 于伟宁
+- 潘功胜
+- 李云哲
+- 于永定
+- 黄一平
+products_models:
+- TikTok
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=6vwflUs5Kvo
 speaker: LT視界
-tags:
-  - us-china-trade
-  - china-economy-outlook
-  - economic-stimulus
-  - debt-relief
-  - rare-earth-control
-title: 川习会前瞻：中美贸易八大议题与中国经济数据解读
-summary: 本文深入分析了中美贸易关系在周末框架协议达成后的最新进展，特别是即将举行的川习会聚焦的八大核心议题，包括稀土管制、出口管制、芬太尼、TikTok、船舶费、大豆采购、附加税及俄乌战争。同时，文章详细解读了中国工业利润数据飙升与央行信用救济政策、大规模经济刺激讨论之间的反差，探讨了中国经济的真实状况与未来走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 王毅
-  - 卢比奥
-  - 习近平
-  - 川普
-  - 贝森特
-  - 李成钢
-  - 于伟宁
-  - 潘功胜
-  - 李云哲
-  - 于永定
-  - 黄一平
-companies_orgs:
-  - 新华社
-  - 路透社
-  - 彭博社
-  - 人民日报
-  - 华尔街日报
-  - 美国广播公司新闻网
-  - 中国国家统计局
-  - 中国人民银行
-  - 中国金融监管局
-products_models:
-  - TikTok
-media_books: []
 status: evergreen
+summary: 本文深入分析了中美贸易关系在周末框架协议达成后的最新进展，特别是即将举行的川习会聚焦的八大核心议题，包括稀土管制、出口管制、芬太尼、TikTok、船舶费、大豆采购、附加税及俄乌战争。同时，文章详细解读了中国工业利润数据飙升与央行信用救济政策、大规模经济刺激讨论之间的反差，探讨了中国经济的真实状况与未来走向。
+tags:
+- china-economy
+- debt
+- economic-stimulus
+- rare-earth-control
+- us-china-relations
+title: 川习会前瞻：中美贸易八大议题与中国经济数据解读
 ---
+
 ### 中美关系与川习会前瞻
 
 今天我们来分享热点透视，首先了解中美关系或中美贸易战在周末双方达成框架协议之后的最新局势发展。

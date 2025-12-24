@@ -1,52 +1,50 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- G20
+- COP30
+- 非盟
+- 北约
+- G7
+- 比亚迪
+- 宁德时代
+- 国际货币基金组织
+- 世界银行
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- 李强
+- 拉玛福萨
+products_models:
+- 巴黎协定
+- 约翰内斯堡宣言
+- Mission 300计划
+- NCQG
+- Global Mutual决议
+- 一带一路
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=SA8S3_CvhX0
 speaker: FearNation 世界苦茶
-tags:
-  - us-disengagement
-  - china-leadership
-  - global-governance
-  - power-vacuum
-  - climate-finance
-  - global-south
-title: 美国缺席下的全球治理：中国能否填补权力真空并输出新秩序？
-summary: 2025年末，美国总统特朗普宣布缺席G20峰会和COP30气候大会，引发国际社会对全球权力真空的广泛讨论。本文深入分析了美国“选择性收缩”的策略，以及中国在这些多边场合所扮演的新角色。中国以“全球南方的绿色军火库”姿态，提供技术和基础设施，展现出一种“工具理性”和“支撑型”的领导力。然而，这种领导力也面临身份悖论、国内经济结构制约以及国际舞台日益拥挤等多重挑战，预示着一个网状、交易化且充满矛盾的新全球秩序正在形成。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - 李强
-  - 拉玛福萨
-companies_orgs:
-  - G20
-  - COP30
-  - 非盟
-  - 北约
-  - G7
-  - 比亚迪
-  - 宁德时代
-  - 国际货币基金组织
-  - 世界银行
-products_models:
-  - 巴黎协定
-  - 约翰内斯堡宣言
-  - Mission 300计划
-  - NCQG
-  - Global Mutual决议
-  - 一带一路
-media_books: []
 status: evergreen
+summary: 2025年末，美国总统特朗普宣布缺席G20峰会和COP30气候大会，引发国际社会对全球权力真空的广泛讨论。本文深入分析了美国“选择性收缩”的策略，以及中国在这些多边场合所扮演的新角色。中国以“全球南方的绿色军火库”姿态，提供技术和基础设施，展现出一种“工具理性”和“支撑型”的领导力。然而，这种领导力也面临身份悖论、国内经济结构制约以及国际舞台日益拥挤等多重挑战，预示着一个网状、交易化且充满矛盾的新全球秩序正在形成。
+tags:
+- china-leadership
+- finance
+- geopolitical
+- global
+- power
+title: 美国缺席下的全球治理：中国能否填补权力真空并输出新秩序？
 ---
+
 ### 美国缺席：全球治理中的“空椅子”现象
 
 大家好，欢迎来到本期的世界苦茶事实线节目。今天我们探讨的是美国突然缺席巴西的**COP30**（第三十届联合国气候变化大会：联合国气候变化框架公约缔约方会议）和南非的**G20**（二十国集团：由世界主要经济体组成的国际经济合作论坛）峰会，以及中国国内一直宣传中国开始填补美国留下的权力真空，开始输出秩序，这是否属实？

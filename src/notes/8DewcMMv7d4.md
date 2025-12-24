@@ -1,44 +1,43 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国家税务总局
+- 国务院
+- 统计局
+- 宁波博会
+- 深圳地铁公司
+- 发改委
+- 财政部
+- 央行
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- 李克强
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=8DewcMMv7d4
 speaker: FearNation 世界苦茶
-tags:
-  - tax-collection
-  - fiscal-policy
-  - economic-micro-management
-  - unemployment-impact
-  - transfer-payments
-title: 2025中国税收挤压元年：金税四期下的经济微操与社会冲击
-summary: 本期节目深入探讨中国自2025年起全面强化的税收征管政策，包括金税四期、电商查税、劳务报酬强制征收及税收优惠回滚等“阳谋”，以及地方政府的“保护费式”摊派。分析了个税与增值税异常增长背后的财政压力，以及这些政策对企业投资意愿、就业率和经济长期增长的深远影响。节目还讨论了中国转移支付体系的畸形现状及其潜在的二次经济崩溃风险，强调财政问题是中国经济的核心命脉。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Donald Trump
-  - 李克强
-  - 习近平
-companies_orgs:
-  - 国家税务总局
-  - 国务院
-  - 统计局
-  - 宁波博会
-  - 深圳地铁公司
-  - 发改委
-  - 财政部
-  - 央行
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨中国自2025年起全面强化的税收征管政策，包括金税四期、电商查税、劳务报酬强制征收及税收优惠回滚等“阳谋”，以及地方政府的“保护费式”摊派。分析了个税与增值税异常增长背后的财政压力，以及这些政策对企业投资意愿、就业率和经济长期增长的深远影响。节目还讨论了中国转移支付体系的畸形现状及其潜在的二次经济崩溃风险，强调财政问题是中国经济的核心命脉。
+tags:
+- economic
+- fiscal-policy
+- impact
+- society
+- tax
+title: 2025中国税收挤压元年：金税四期下的经济微操与社会冲击
 ---
+
 ### 中国税收：从讳莫如深到隐秘运行的焦点
 
 税收在其他国家通常是备受关注的重大议题，但在中国，这个问题却带有一丝**讳莫如深**（指因有所顾忌而不敢说或不愿说）的色彩。这主要是因为我们缺乏“**非代表不纳税**”（No taxation without representation: 一种政治原则，认为政府在未获得公民同意的情况下，不得征收税款）的政治传统，且中国的税收体系以**间接税**（Indirect Tax: 指税负不是直接由纳税人承担，而是通过商品价格转嫁给最终消费者的税种）为主，使得普通民众对自身纳税的体感不强。例如，在日本，政客竞选时满大街都在讨论税收；在美国，唐纳德·特朗普（Donald Trump）的标志性政策也是减税。然而，在中国，民众往往不清楚自己究竟缴纳了多少税。

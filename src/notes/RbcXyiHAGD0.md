@@ -1,44 +1,42 @@
 ---
-author: TVO Today
+area: society-systems
+category: business
+companies_orgs:
+- OpenAI
+- Gilbert LLP
+- Canadian Press
+- Tourar
+- The Globe and Mail
+- Postmedia
+- CBC
+- TVO
+- Microsoft
+- New York Times
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kevin Cu
+products_models:
+- ChatGPT
+project:
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=RbcXyiHAGD0
 speaker: TVO Today
-tags:
-  - ai-copyright
-  - content-scraping
-  - fair-dealing
-  - llm-business-models
-  - media-industry-challenges
-title: AI公司抓取内容是否应付费？加拿大版权诉讼案解析
-summary: 去年，加拿大媒体公司对OpenAI提起版权诉讼，指控其未经许可抓取大量内容用于训练ChatGPT等产品。本文深入探讨了此案的核心指控，解释了OpenAI使用的“检索增强生成”（RAG）技术，并分析了加拿大版权法中“合理使用”原则的适用性。专家指出，此案的关键在于AI公司是否应为其使用的内容付费，以及这将如何从根本上影响其商业模式。文章还提及了《纽约时报》在美国对OpenAI和微软提起的类似诉讼，强调了全球范围内AI内容版权问题的复杂性及各国法律的差异。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Kevin Cu
-companies_orgs:
-  - OpenAI
-  - Gilbert LLP
-  - Canadian Press
-  - Tourar
-  - The Globe and Mail
-  - Postmedia
-  - CBC
-  - TVO
-  - Microsoft
-  - New York Times
-products_models:
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 去年，加拿大媒体公司对OpenAI提起版权诉讼，指控其未经许可抓取大量内容用于训练ChatGPT等产品。本文深入探讨了此案的核心指控，解释了OpenAI使用的“检索增强生成”（RAG）技术，并分析了加拿大版权法中“合理使用”原则的适用性。专家指出，此案的关键在于AI公司是否应为其使用的内容付费，以及这将如何从根本上影响其商业模式。文章还提及了《纽约时报》在美国对OpenAI和微软提起的类似诉讼，强调了全球范围内AI内容版权问题的复杂性及各国法律的差异。
+tags:
+- content
+- industry
+- llm
+- llm-business-model
+title: AI公司抓取内容是否应付费？加拿大版权诉讼案解析
 ---
+
 ### 加拿大媒体起诉OpenAI：版权侵权的核心指控
 
 去年，一群加拿大媒体公司对**OpenAI**（OpenAI: 一家人工智能研究和部署公司）提起了诉讼。当时他们发布了一份联合声明，指出OpenAI通过抓取加拿大媒体的大量内容来开发其产品，例如**ChatGPT**（ChatGPT: OpenAI开发的大型语言模型），从而经常违反版权和在线使用条款。OpenAI在未经许可或未向内容所有者支付报酬的情况下，利用这些内容进行资本运作并从中获利。目前，安大略省法院已决定此案可以继续审理。我向**Gilbert LLP**（Gilbert LLP: 一家律师事务所）的知识产权律师**Kevin Cu**询问了此案的进展，以及OpenAI应如何看待针对其提起的众多诉讼。

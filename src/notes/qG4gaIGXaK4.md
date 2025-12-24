@@ -1,53 +1,54 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: culture
+companies_orgs:
+- Venetian
+- Poker Go
+- NASA
+- Adidas
+- Gucci
+- GoFundMe
+- Triton
+- AllSaints
+- Starbucks
+- Carbone
+- Dallas Mavericks
+- Golden State Warriors
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Hustler Casino Live
+people:
+- Phil Hellmuth
+- Alan Keating
+- Jason Koon
+- Jenny Just
+- Blair Bigalow
+- Molly Bloom
+- Stu Ungar
+- Chip Reese
+- Steph Curry
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qG4gaIGXaK4
 speaker: All-In Podcast
-tags:
-  - poker-strategy
-  - tournament-experience
-  - risk-taking
-  - psychological-warfare
-title: All-In 播客对决扑克传奇：一场充满智慧与风云的牌桌特别赛
-summary: 在这场特别的 All-In 播客扑克邀请赛中，科技投资界的‘Besties’与世界顶尖扑克职业选手菲尔·赫尔姆斯、艾伦·基廷和杰森·库恩同台竞技。本场比赛不仅充满了激烈的牌局对决和策略分析，更穿插着选手间的幽默互怼、圈内趣闻以及对如何打造更优质扑克赛事的探讨。从牌桌上的心理战到对传奇牌手斯图·恩加的故事分享，全程高能，精彩纷呈。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Phil Hellmuth
-  - Alan Keating
-  - Jason Koon
-  - Jenny Just
-  - Blair Bigalow
-  - Molly Bloom
-  - Stu Ungar
-  - Chip Reese
-  - Steph Curry
-companies_orgs:
-  - Venetian
-  - Poker Go
-  - NASA
-  - Adidas
-  - Gucci
-  - GoFundMe
-  - Triton
-  - AllSaints
-  - Starbucks
-  - Carbone
-  - Dallas Mavericks
-  - Golden State Warriors
-products_models: []
-media_books:
-  - Hustler Casino Live
 status: evergreen
+summary: 在这场特别的 All-In 播客扑克邀请赛中，科技投资界的‘Besties’与世界顶尖扑克职业选手菲尔·赫尔姆斯、艾伦·基廷和杰森·库恩同台竞技。本场比赛不仅充满了激烈的牌局对决和策略分析，更穿插着选手间的幽默互怼、圈内趣闻以及对如何打造更优质扑克赛事的探讨。从牌桌上的心理战到对传奇牌手斯图·恩加的故事分享，全程高能，精彩纷呈。
+tags:
+- experience
+- risk-taking
+- strategy
+title: All-In 播客对决扑克传奇：一场充满智慧与风云的牌桌特别赛
+companies:
+- psychological-warfare
 ---
+
 ### 欢迎来到 All-In Bestie 扑克邀请赛
 
 好了，各位，欢迎来到在威尼斯人酒店举办的首届 All-In Bestie 扑克邀请赛。我们四位 Besties 中有三位到场，另外还有两位世界上最伟大的扑克选手，以及菲尔·赫尔姆斯也加入了我们。还有杰森·库恩和艾伦·基廷。这将是一场精彩的对决。大家都在赌我需要多久能让菲尔**上头**（Tilt：扑克术语，指玩家因情绪失控而做出非理性决策）。赌局的盘口是 7 分钟。所以你可以赌 7 分钟以内还是 7 分钟以外，我们拭目以待。

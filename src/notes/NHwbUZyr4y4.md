@@ -1,42 +1,42 @@
 ---
-author: TVO Today
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=NHwbUZyr4y4'
-speaker: TVO Today
-tags:
-  - canadian-foreign-policy
-  - us-canada-relations
-  - middle-power-concept
-  - national-survival
-  - protectionism
-title: 没有美国的加拿大：世界角色何去何从？
-summary: 本文探讨了在特朗普时代美国关系紧张的背景下，加拿大在国际舞台上的角色定位。两位专家就加拿大应如何处理与美国的关系、是否仍是“中等强国”以及未来外交和安全策略展开了激烈辩论，提出是应修复关系还是寻求独立生存的多元观点。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Luis Blle
-  - Steven Marsh
-  - Donald Trump
-  - Justin Trudeau
+category: geopolitics
 companies_orgs:
-  - UN
-  - Ontario government
-  - Pew Research Center
-  - Angus Reed
-products_models: '[]'
+- UN
+- Ontario government
+- Pew Research Center
+- Angus Reed
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Gloves Off
+- Gloves Off
+people:
+- Luis Blle
+- Steven Marsh
+- Donald Trump
+- Justin Trudeau
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=NHwbUZyr4y4
+speaker: TVO Today
 status: evergreen
+summary: 本文探讨了在特朗普时代美国关系紧张的背景下，加拿大在国际舞台上的角色定位。两位专家就加拿大应如何处理与美国的关系、是否仍是“中等强国”以及未来外交和安全策略展开了激烈辩论，提出是应修复关系还是寻求独立生存的多元观点。
+tags:
+- canada
+- canadian-foreign-policy
+- national
+- power
+- us-canada-relations
+title: 没有美国的加拿大：世界角色何去何从？
 ---
+
 ### 加拿大声誉的褪色与美加关系
 
 加拿大曾一度以**维和国家**（Peacekeeping Nation: 指在国际冲突中派遣军事或民事人员维持和平的国家）而闻名，但这一声誉已逐渐褪去。

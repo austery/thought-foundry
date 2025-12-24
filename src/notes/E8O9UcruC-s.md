@@ -1,47 +1,47 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Ontario Human Rights Commission
+- Peele Regional Police
+- Peele District Schoolboard
+- Ministry of Education
+- Global News
+- Ontario Coalition for Better Childcare
+- TVO Today
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+people:
+- Leanne Cole
+- David Boosevelt
+- Carolyn Ferns
+- George Floyd
+products_models:
+- Bill 33
+- School Resource Officer Program
+project:
+- systems-thinking
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=E8O9UcruC-s
 speaker: TVO Today
-tags:
-  - school-safety
-  - child-care-policy
-  - sro-program
-  - systemic-discrimination
-  - government-funding
-title: 安大略省的学校警察计划与托儿服务延迟：政策困境与社会影响
-summary: 本期节目探讨了安大略省两项备受关注的社会政策议题。首先是政府计划重新引入学校资源警官（SRO）项目，引发了关于校园安全与对边缘化群体潜在伤害的争议。其次是安大略省在实现每日10加元托儿服务目标方面遇到的挑战，包括联邦与省政府之间的资金分歧、托儿空间短缺以及这些问题对家庭和劳动力市场的影响。节目嘉宾从不同角度分析了这些政策的利弊，并呼吁政府采取更具建设性的解决方案。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-  - historical-insights
-people:
-  - Leanne Cole
-  - David Boosevelt
-  - Carolyn Ferns
-  - George Floyd
-companies_orgs:
-  - Ontario Human Rights Commission
-  - Peele Regional Police
-  - Peele District Schoolboard
-  - Ministry of Education
-  - Global News
-  - Ontario Coalition for Better Childcare
-  - TVO Today
-products_models:
-  - Bill 33
-  - School Resource Officer Program
-media_books:
-  - The Rundown
 status: evergreen
+summary: 本期节目探讨了安大略省两项备受关注的社会政策议题。首先是政府计划重新引入学校资源警官（SRO）项目，引发了关于校园安全与对边缘化群体潜在伤害的争议。其次是安大略省在实现每日10加元托儿服务目标方面遇到的挑战，包括联邦与省政府之间的资金分歧、托儿空间短缺以及这些问题对家庭和劳动力市场的影响。节目嘉宾从不同角度分析了这些政策的利弊，并呼吁政府采取更具建设性的解决方案。
+tags:
+- canada
+- government
+- policy
+- safety
+- technology
+title: 安大略省的学校警察计划与托儿服务延迟：政策困境与社会影响
 ---
+
 ### 安大略省的托儿服务承诺与现实
 
 如果你是安大略省的家长，那么在2022年3月，你很可能松了一口气。

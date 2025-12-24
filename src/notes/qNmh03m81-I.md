@@ -1,27 +1,6 @@
 ---
-title: 在市场泡沫中致富：富人如何利用市场失灵
-summary: 本文深入探讨了富人如何在资产泡沫中获利，即使泡沫破裂也能全身而退。文章揭示了六个关键步骤：识别下一场革命、推销梦想、出售基础设施工具、引入机构投资者、把握退出时机，以及制造“错失恐惧症”（FOMO）。通过分析历史上的互联网、加密货币和AI泡沫，文章强调了理解市场心理和周期性模式的重要性，而非盲目相信长期潜力。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- personal-growth-lab
-tags:
-- asset-bubbles
-- fomo
-- investment-strategy
-- market-psychology
-- technological-revolutions
-people:
-- Elon Musk
-- Jeff Bezos
-- Mark Cuban
-- Pierre Omidyar
-- Sam Altman
-- Satoshi Nakamoto
-- Vitalik Buterin
-- adam-s-axiom
+area: finance-wealth
+category: stock-investment
 companies_orgs:
 - Akamai Technologies
 - Amazon
@@ -39,6 +18,20 @@ companies_orgs:
 - Webvan
 - Yahoo
 - eBay
+date: '2025-01-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Elon Musk
+- Jeff Bezos
+- Mark Cuban
+- Pierre Omidyar
+- Sam Altman
+- Satoshi Nakamoto
+- Vitalik Buterin
+- adam-s-axiom
 products_models:
 - AGI
 - Bitcoin
@@ -47,18 +40,23 @@ products_models:
 - GPU
 - Mortgage-backed Securities
 - Project Stargate
-media_books: []
-date: '2025-01-31'
-author: Adam's Axiom
-speaker: Adam's Axiom
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
+project:
+- investment-strategy
+- market-cycles
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=qNmh03m81-I
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了富人如何在资产泡沫中获利，即使泡沫破裂也能全身而退。文章揭示了六个关键步骤：识别下一场革命、推销梦想、出售基础设施工具、引入机构投资者、把握退出时机，以及制造“错失恐惧症”（FOMO）。通过分析历史上的互联网、加密货币和AI泡沫，文章强调了理解市场心理和周期性模式的重要性，而非盲目相信长期潜力。
+tags:
+- asset
+- investment
+- market-psychology
+- technological
+title: 在市场泡沫中致富：富人如何利用市场失灵
 ---
+
 ### 泡沫经济中的致富之道：富人的策略
 
 萨姆·奥尔特曼（Sam Altman）刚刚为他的“星际之门计划”（**Project Stargate**: OpenAI的一个雄心勃勃的AI项目，旨在实现通用人工智能）筹集了5000亿美元，他追求**AGI**（Artificial General Intelligence: 人工通用智能，指能够理解、学习或应用任何人类智力任务的AI）的理由是：AGI将解决一切问题，因此无论投资多大都是合理的。与此同时，中国竞争对手**DeepSeek**（一家中国AI公司）仅用600万美元就取得了类似成果。**英伟达**（Nvidia: 一家领先的图形处理器和AI芯片制造商）的股价在几天内暴跌近20%，许多人认为AI泡沫已经开始破裂。但有趣的是，即使数百亿美元的市场价值蒸发，主要参与者仍可能比以往任何时候都更富有。事实证明，这是资产泡沫中的常见模式：如果他们知道自己在做什么，即使泡沫破裂，人们仍然会变得富有。因此，让我们探讨富人如何利用这些泡沫，从最重要也是最关键的第一步开始：在其他人之前发现下一场革命。

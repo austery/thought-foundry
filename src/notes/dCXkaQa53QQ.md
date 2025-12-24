@@ -1,37 +1,35 @@
 ---
-author: Veritasium
-date: '2019-08-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dCXkaQa53QQ
-speaker: Veritasium
-tags:
-  - veritasium
-  - liquid-nitrogen-production
-  - cryo-cooling
-  - gas-separation
-  - nitro-cold-brew
-  - atmospheric-gases
-title: 从空气中自制液氮：科学实验与星巴克氮气冷萃的奥秘
-summary: 本视频记录了一项引人入胜的科学挑战：从普通空气中提取并液化氮气。主持人Derek Muller与Allen Pan合作，利用低温冷却器和氮气分离膜，逐步实现了液态空气和高纯度液氮的制备。文章深入探讨了液氮的制作原理、氧气分离技术，并解释了星巴克氮气冷萃咖啡独特口感背后的科学奥秘，展示了氮气在日常生活中的创新应用。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project: []
-people:
-  - Allen Pan
-  - Derek Muller
+category: technology
 companies_orgs:
-  - Starbucks
-  - Veritasium
-products_models:
-  - Nitro Cold Brew
+- Starbucks
+- Veritasium
+date: '2019-08-16'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Sufficiently Advanced
+- Sufficiently Advanced
+people:
+- Allen Pan
+- Derek Muller
+products_models:
+- Nitro Cold Brew
+project: []
+series: ''
+source: https://www.youtube.com/watch?v=dCXkaQa53QQ
+speaker: veritasium
 status: evergreen
+summary: 本视频记录了一项引人入胜的科学挑战：从普通空气中提取并液化氮气。主持人Derek Muller与Allen Pan合作，利用低温冷却器和氮气分离膜，逐步实现了液态空气和高纯度液氮的制备。文章深入探讨了液氮的制作原理、氧气分离技术，并解释了星巴克氮气冷萃咖啡独特口感背后的科学奥秘，展示了氮气在日常生活中的创新应用。
+tags:
+- business
+- cryo-cooling
+- environment
+- nitro-cold-brew
+title: 从空气中自制液氮：科学实验与星巴克氮气冷萃的奥秘
 ---
+
 ### 氮气无处不在：从大气到咖啡
 
 氮气无处不在，它是生命的基本组成部分。

@@ -1,53 +1,52 @@
 ---
-author: EO
+area: tech-insights
+category: technology
+companies_orgs:
+- Reflection
+- DeepMind
+- Google
+- IBM
+- HubSpot for Startups
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Misha Laskin
+- Lee Sedol
+- Giannis
+- John Bardeen
+- Albert Einstein
+- Garry Kasparov
+- Peter Abbeel
+products_models:
+- AlphaGo
+- Gemini
+- Deep Q Networks
+- AlphaZero
+- Llama
+- DeepSeek
+- GPT-4
+- Imagenet
+- IBM Blue
+project:
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=P5QXWrHnTzw
 speaker: EO
-tags:
-  - superintelligence
-  - autonomous-coding
-  - ai-development
-  - startup-challenges
-  - knowledge-work-future
-title: 硅谷对下一代超级智能的21亿美元押注：ReflectionAI创始人Misha Laskin的洞察
-summary: ReflectionAI联合创始人兼CEO Misha Laskin分享了他从物理学转向人工智能的历程，以及对构建超级智能的深刻见解。他强调了AlphaGo“第37步”的启发意义，认为自主编程是实现通用超级智能的关键。Laskin还探讨了AI时代人类与AI的协作模式，以及创业公司如何通过明确愿景、吸引顶尖人才和专注于核心问题来克服挑战。他提出，AI将极大地扩展人类的创造力，并改变未来知识工作的范式。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Misha Laskin
-  - Lee Sedol
-  - Giannis
-  - John Bardeen
-  - Albert Einstein
-  - Garry Kasparov
-  - Peter Abbeel
-companies_orgs:
-  - Reflection
-  - DeepMind
-  - Google
-  - IBM
-  - HubSpot for Startups
-products_models:
-  - AlphaGo
-  - Gemini
-  - Deep Q Networks
-  - AlphaZero
-  - Llama
-  - DeepSeek
-  - GPT-4
-  - Imagenet
-  - IBM Blue
-media_books: []
 status: evergreen
+summary: ReflectionAI联合创始人兼CEO Misha Laskin分享了他从物理学转向人工智能的历程，以及对构建超级智能的深刻见解。他强调了AlphaGo“第37步”的启发意义，认为自主编程是实现通用超级智能的关键。Laskin还探讨了AI时代人类与AI的协作模式，以及创业公司如何通过明确愿景、吸引顶尖人才和专注于核心问题来克服挑战。他提出，AI将极大地扩展人类的创造力，并改变未来知识工作的范式。
+tags:
+- ai-development
+- autonomous-coding
+- future
+- startup-challenge
+- superintelligence
+title: 硅谷对下一代超级智能的21亿美元押注：ReflectionAI创始人Misha Laskin的洞察
 ---
+
 ### AlphaGo的“第37步”与超级智能的曙光
 
 我的联合创始人是**AlphaGo**（AlphaGo: 谷歌DeepMind开发的人工智能围棋程序）项目做出关键贡献的人之一，他也是少数几位飞往现场观看与**李世石**（Lee Sedol: 韩国围棋九段棋手）比赛的人。

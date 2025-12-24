@@ -1,54 +1,54 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- International Atomic Energy Agency
+- Hamas
+- Houthis
+- Hezbollah
+- Mossad
+- United Nations
+- G7
 date: '2025-06-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《不扩散核武器条约》
+- 《联合全面行动计划》
+- 《联合国宪章》
+people:
+- Donald Trump
+- Benjamin Netanyahu
+- Ali Khamenei
+- Hassan Rouhani
+- Mahmoud Ahmadinejad
+- Qasem Soleimani
+- Barack Obama
+- 阿里
+- 萨敏
+products_models:
+- Tomahawk
+- GBU-57 MOP
+project:
+- geopolitics-watch
+- historical-insights
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=jFtqxj0YM7E
 speaker: 莊也雜談
-tags:
-  - iran-israel-conflict
-  - nuclear-proliferation
-  - preemptive-strike
-  - international-law
-  - geopolitical-strategy
-title: 以伊“十二日战争”：双标争议下的先发制人与核武迷雾
-summary: 本文深入探讨了2025年以色列与伊朗之间的“十二日战争”，详细回顾了冲突经过、伊朗核计划的国际争议及其对国际秩序的挑战。通过对比俄乌战争，分析了国际社会对以色列先发制人行动的“双标”现象，并结合伊朗同事的视角，揭示了这场冲突背后的复杂地缘政治、国际法适用以及核扩散的深层玄机。文章还探讨了其他核国家与伊朗在拥核问题上待遇差异的原因，并对伊朗核问题的未来走向进行了展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - us-analysis
-people:
-  - Donald Trump
-  - Benjamin Netanyahu
-  - Ali Khamenei
-  - Hassan Rouhani
-  - Mahmoud Ahmadinejad
-  - Qasem Soleimani
-  - Barack Obama
-  - 阿里
-  - 萨敏
-companies_orgs:
-  - International Atomic Energy Agency
-  - Hamas
-  - Houthis
-  - Hezbollah
-  - Mossad
-  - United Nations
-  - G7
-products_models:
-  - Tomahawk
-  - GBU-57 MOP
-media_books:
-  - 《不扩散核武器条约》
-  - 《联合全面行动计划》
-  - 《联合国宪章》
 status: evergreen
+summary: 本文深入探讨了2025年以色列与伊朗之间的“十二日战争”，详细回顾了冲突经过、伊朗核计划的国际争议及其对国际秩序的挑战。通过对比俄乌战争，分析了国际社会对以色列先发制人行动的“双标”现象，并结合伊朗同事的视角，揭示了这场冲突背后的复杂地缘政治、国际法适用以及核扩散的深层玄机。文章还探讨了其他核国家与伊朗在拥核问题上待遇差异的原因，并对伊朗核问题的未来走向进行了展望。
+tags:
+- canada
+- conflict
+- geopolitical-strategy
+- law
+- nuclear-proliferation
+title: 以伊“十二日战争”：双标争议下的先发制人与核武迷雾
 ---
+
 ### 引言：诡异的“十二日战争”
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天我们来聊一聊刚刚发生的以色列与伊朗之间的**十二日战争**（Twelve-Day War: 指2025年6月13日至24日以色列与伊朗之间爆发的军事冲突）。这并非一场普通的中东冲突，而是一场让全球屏息、高能实况直播的大戏。在短短12天内，200多架战机出动，伊朗高层几乎被一锅端。美国半夜下场，发射了30枚**战斧导弹**（Tomahawk Missile: 一种由美国研发的全天候、亚音速、中程巡航导弹）和14枚**地堡破坏者钻地炸弹**（GBU-57 MOP, Massive Ordnance Penetrator: 一种由美国研发的重型钻地炸弹，用于摧毁深层地下目标），狂炸伊朗三大核基地。

@@ -1,47 +1,47 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Bank of America
+- Merrill
+- Federal Reserve
+- ECB
 date: '2025-08-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Dodd-Frank Wall Street Reform and Consumer Protection Act
+- Basel III
+- A Curious Mind
+people:
+- Nicolai Tangen
+- Brian Moynihan
+- Jim Collins
+- Brian Grazer
+products_models:
+- Erica
+- Zelle
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=_mL9yLKKtmY
 speaker: Norges Bank Investment Management
-tags:
-  - us-economy
-  - consumer-spending
-  - banking-regulation
-  - ai-in-finance
-  - corporate-culture
-title: 美国银行CEO Brian Moynihan谈全球经济、AI与银行未来
-summary: 美国银行董事长兼CEO Brian Moynihan在播客中深入探讨了全球经济格局、美国政策变化对经济的影响、消费者行为的韧性以及银行业面临的挑战与机遇。他详细阐述了美国银行在数字化转型和AI应用方面的领先实践，特别是虚拟助手Erica的成功案例。Moynihan还就银行监管、非银行机构的崛起、国际市场拓展以及如何建立高绩效企业文化和保持持续学习能力分享了独到见解。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Nicolai Tangen
-  - Brian Moynihan
-  - Jim Collins
-  - Brian Grazer
-companies_orgs:
-  - Norges Bank Investment Management
-  - Bank of America
-  - Merrill
-  - Federal Reserve
-  - ECB
-products_models:
-  - Erica
-  - Zelle
-media_books:
-  - Dodd-Frank Wall Street Reform and Consumer Protection Act
-  - Basel III
-  - A Curious Mind
 status: evergreen
+summary: 美国银行董事长兼CEO Brian Moynihan在播客中深入探讨了全球经济格局、美国政策变化对经济的影响、消费者行为的韧性以及银行业面临的挑战与机遇。他详细阐述了美国银行在数字化转型和AI应用方面的领先实践，特别是虚拟助手Erica的成功案例。Moynihan还就银行监管、非银行机构的崛起、国际市场拓展以及如何建立高绩效企业文化和保持持续学习能力分享了独到见解。
+tags:
+- ai-in-finance
+- consumer-spending
+- corporate-culture
+- regulation
+- us-economy
+title: 美国银行CEO Brian Moynihan谈全球经济、AI与银行未来
 ---
+
 ### 引言
 
 大家好，我是挪威主权财富基金（Norges Bank Investment Management）的CEO Nicolai Tangen，今天我非常高兴能邀请到Brian Moynihan。Brian是美国银行（Bank of America）的董事长兼CEO，美国银行是全球最大的金融机构之一，我们持有该公司1.5%的股份。Brian已经领导美国银行15年，带领它走出了金融危机（Financial Crisis）的阴影，并将其转型为一家数字强企。Brian，很高兴您能来。很高兴来到这里，感谢您对我们公司的支持，期待今天与您进行一次愉快的交流。

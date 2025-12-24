@@ -1,55 +1,53 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 24-Hour Fitness
+- DoorDash
+- Adobe Express
+- Apple
+- Zoe
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Joyspan
+- Unbreakable
+- The Fertility Formula
+- The New Menopause
+- The New Perimenopause
+- Roar
+people:
+- Stacy Sims
+- Vonda Wright
+- Natalie Crawford
+- Mary Claire Haver
+- Hal Hershfield
+- Lisa Muscone
+- Dr. Beck
+products_models:
+- Whoop
+- DEXA scan
+- REM's ultrasound
+- Ketone IQ
+- Ozempic
+- GLP-1
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=P1CeHGJOX5g
 speaker: The Diary Of A CEO
-tags:
-  - womens-health
-  - hormonal-health
-  - exercise-physiology
-  - bone-density
-  - metabolic-health
-title: 女性健康新范式：专家揭示贯穿一生的运动、营养与荷尔蒙策略
-summary: 本文深入探讨了女性健康的多个关键领域，专家们揭示了肌肉对女性大脑健康、新陈代谢和抵抗衰老的重要性。文章详细阐述了如何根据月经周期、围绝经期和绝经后调整锻炼策略，强调了高强度训练和力量训练对骨密度和身体重塑的益处。此外，内容还涵盖了营养、禁食、关键补充剂（如肌酸和维生素D）、环境毒素以及睡眠等核心议题，为女性提供了一套贯穿生命周期的全面、科学的健康管理指南。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Stacy Sims
-  - Vonda Wright
-  - Natalie Crawford
-  - Mary Claire Haver
-  - Hal Hershfield
-  - Lisa Muscone
-  - Dr. Beck
-companies_orgs:
-  - 24-Hour Fitness
-  - DoorDash
-  - Adobe Express
-  - Apple
-  - Zoe
-products_models:
-  - Whoop
-  - DEXA scan
-  - REM's ultrasound
-  - Ketone IQ
-  - Ozempic
-  - GLP-1
-media_books:
-  - Joyspan
-  - Unbreakable
-  - The Fertility Formula
-  - The New Menopause
-  - The New Perimenopause
-  - Roar
 status: evergreen
+summary: 本文深入探讨了女性健康的多个关键领域，专家们揭示了肌肉对女性大脑健康、新陈代谢和抵抗衰老的重要性。文章详细阐述了如何根据月经周期、围绝经期和绝经后调整锻炼策略，强调了高强度训练和力量训练对骨密度和身体重塑的益处。此外，内容还涵盖了营养、禁食、关键补充剂（如肌酸和维生素D）、环境毒素以及睡眠等核心议题，为女性提供了一套贯穿生命周期的全面、科学的健康管理指南。
+tags:
+- health
+- metabolic-health
+- science
+title: 女性健康新范式：专家揭示贯穿一生的运动、营养与荷尔蒙策略
 ---
+
 ### 引言：为何要专门探讨女性健康？
 
 在这次对话中，我想探讨运动、营养、禁食、生活方式、睡眠和环境因素。第一个问题是，为什么肌肉对女性尤为重要？

@@ -1,58 +1,58 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Bloomberg
+- Bub and Grandmas
+- King Arthur
+- Cameas Country Mill
+- Kohl's
+- The Pantry
+- DeFontes
+- Milbour Deli
+- Alidoros
 date: '2025-08-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots Podcast
+- Bloomberg.com/odlotss
+- Discord
+people:
+- Tracy Aloway
+- Joe Weisenthal
+- Andy Kaden
+- Kerman Rodriguez
+- Dashbot
+- Kalebrooks
+products_models:
+- Basque cheesecake
+- chocolate chip cookies
+- sourdough
+- house loaf
+- country loaf
+- BLT
+- San Marzano tomatoes
+project:
+- entrepreneurship
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=eKGNctKpx8w
 speaker: Bloomberg Podcasts
-tags:
-  - restaurant-economics
-  - supply-chain-management
-  - labor-market-challenges
-  - regulatory-hurdles
-  - business-resilience
-title: 从洛杉矶面包店看当下经济：运营、成本与监管挑战
-summary: 本期《Odd Lots》播客深入探讨了洛杉矶一家名为Bub and Grandmas的面包店如何成为当前经济的缩影。店主Andy Kaden分享了在工业化烘焙和餐饮业中面临的劳动力短缺、大宗商品成本波动、物流配送难题以及繁琐的政府监管等挑战。节目还讨论了零售与批发业务的差异、价格上涨的策略，以及在洛杉矶经营餐饮业的独特困境与机遇，揭示了在充满不确定性的市场中，企业如何寻求生存与发展。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - market-cycles
-  - us-analysis
-people:
-  - Tracy Aloway
-  - Joe Weisenthal
-  - Andy Kaden
-  - Kerman Rodriguez
-  - Dashbot
-  - Kalebrooks
-companies_orgs:
-  - Bloomberg
-  - Bub and Grandmas
-  - King Arthur
-  - Cameas Country Mill
-  - Kohl's
-  - The Pantry
-  - DeFontes
-  - Milbour Deli
-  - Alidoros
-products_models:
-  - Basque cheesecake
-  - chocolate chip cookies
-  - sourdough
-  - house loaf
-  - country loaf
-  - BLT
-  - San Marzano tomatoes
-media_books:
-  - Odd Lots Podcast
-  - Bloomberg.com/odlotss
-  - Discord
 status: evergreen
+summary: 本期《Odd Lots》播客深入探讨了洛杉矶一家名为Bub and Grandmas的面包店如何成为当前经济的缩影。店主Andy Kaden分享了在工业化烘焙和餐饮业中面临的劳动力短缺、大宗商品成本波动、物流配送难题以及繁琐的政府监管等挑战。节目还讨论了零售与批发业务的差异、价格上涨的策略，以及在洛杉矶经营餐饮业的独特困境与机遇，揭示了在充满不确定性的市场中，企业如何寻求生存与发展。
+tags:
+- business-resilience
+- labor-market-challenge
+- regulatory
+- restaurant-economics
+- supply-chain-management
+title: 从洛杉矶面包店看当下经济：运营、成本与监管挑战
 ---
+
 ### 播客开场与烘焙趣谈
 
 **Bloomberg:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Aloway。

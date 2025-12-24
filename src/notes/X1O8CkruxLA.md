@@ -1,31 +1,27 @@
 ---
-title: 加拿大居民如何选择美股ETF：VOO、VFV与VSP深度对比与避税策略
-summary: 本文为加拿大投资者深入分析了美股ETF（VOO、VFV、VSP）的选择，从汇率风险、费用、灵活度及美国股息预扣税等多维度进行对比，并提供在RRSP等不同账户下的优化投资建议。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-  - us-analysis
-tags:
-  - canada-investing
-  - etf-comparison
-  - rrsp-strategies
-  - us-etfs
-  - withholding-tax
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-11-17'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=X1O8CkruxLA
+speaker: 一口新飯
 status: evergreen
+summary: 本文为加拿大投资者深入分析了美股ETF（VOO、VFV、VSP）的选择，从汇率风险、费用、灵活度及美国股息预扣税等多维度进行对比，并提供在RRSP等不同账户下的优化投资建议。
+tags:
+- investing
+- investment
+- strategy
+- tax
+title: 加拿大居民如何选择美股ETF：VOO、VFV与VSP深度对比与避税策略
 ---
 
 ### 美股ETF选择：加拿大投资者的汇率困境

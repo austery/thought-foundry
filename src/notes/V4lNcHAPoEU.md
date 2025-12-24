@@ -1,41 +1,40 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Ferrari
+- Norges Bank Investment Management
 date: '2025-05-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Benedetto Vigna
+- Enzo Ferrari
+- David
+- Judy
+- Yakopo
+- Nikolai
+products_models: []
+project:
+- entrepreneurship
+- systems-thinking
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=V4lNcHAPoEU
 speaker: Norges Bank Investment Management
-tags:
-  - luxury-brand-strategy
-  - corporate-innovation
-  - organizational-culture
-  - customer-experience
-  - hybrid-vehicle-development
-title: 法拉利CEO Benedetto Vigna：重新定义可能的边界，以情感驱动创新
-summary: 在挪威银行投资管理公司2025年投资大会上，法拉利CEO Benedetto Vigna深入探讨了公司的核心理念、创新战略和未来愿景。他强调法拉利不仅是汽车，更是一种梦想，并通过加速运营效率、拓展客户群和提供独特体验来推动公司发展。Vigna还分享了他独特的管理哲学，即通过开放沟通和以人为本的方式，在传承历史与追求创新之间找到平衡，以情感驱动创新，而非单纯的技术或市场导向。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-  - market-cycles
-people:
-  - Benedetto Vigna
-  - Enzo Ferrari
-  - David
-  - Judy
-  - Yakopo
-  - Nikolai
-companies_orgs:
-  - Ferrari
-  - Norges Bank Investment Management
-products_models: []
-media_books: []
 status: evergreen
+summary: 在挪威银行投资管理公司2025年投资大会上，法拉利CEO Benedetto Vigna深入探讨了公司的核心理念、创新战略和未来愿景。他强调法拉利不仅是汽车，更是一种梦想，并通过加速运营效率、拓展客户群和提供独特体验来推动公司发展。Vigna还分享了他独特的管理哲学，即通过开放沟通和以人为本的方式，在传承历史与追求创新之间找到平衡，以情感驱动创新，而非单纯的技术或市场导向。
+tags:
+- development
+- experience
+- innovation
+- organizational-culture
+- strategy
+title: 法拉利CEO Benedetto Vigna：重新定义可能的边界，以情感驱动创新
 ---
+
 ### 开场白与法拉利的新梦想
 
 主持人分享了一个关于法拉利创始人恩佐·法拉利（Enzo Ferrari）的趣闻，他曾因被困电梯而输掉一场比赛，此后便再也不乘坐电梯。

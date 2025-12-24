@@ -1,61 +1,62 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- 调查兵团
+- 城墙教
 date: '2025-02-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《进击的巨人》
+- 《外面的世界》
+- 《鱿鱼游戏》
+- 《理想国》
+people:
+- 艾伦
+- 三笠
+- 阿尔敏
+- 韩吉
+- 埃尔文
+- 阿尼
+- 莱纳
+- 贝特霍尔德
+- 萨沙
+- 卡娅
+- 贾碧
+- 赫里斯塔
+- 尤弥尔
+- 阿喀琉斯
+- 柏拉图
+- 拉康
+- 弗洛姆
+- 克鲁泡特金
+- 保罗·维尔海格
+- 罗伊·巴斯卡尔
+- 克莱因
+- 海德格尔
+- 谏山创
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=0AkvhtYhikg
 speaker: 超級歪 SuperY
-tags:
-  - philosophy-of-freedom
-  - human-aggression
-  - psychological-splitting
-  - social-darwinism
-  - knowledge-and-liberation
-title: 《进击的巨人》哲学解析三部曲（一）：人如何遗忘了自由？怒气、分裂心理与自由的辩证法
-summary: 本篇深入解析《进击的巨人》系列第一部分，探讨人类如何遗忘并重寻自由。文章从巨人的本质、拉康的口腔驱动力切入，分析柏拉图的正义观与弗洛姆的攻击性理论。通过艾伦、调查兵团的经历，阐释力量控制、知识解放与克莱因的分裂心理。最终，结合海德格尔的哲学思想，揭示人类在‘常人状态’中失去自由，以及如何通过自我觉醒，超越既定命运，重获作为‘此在’的真正自由。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-people:
-  - 艾伦
-  - 三笠
-  - 阿尔敏
-  - 韩吉
-  - 埃尔文
-  - 阿尼
-  - 莱纳
-  - 贝特霍尔德
-  - 萨沙
-  - 卡娅
-  - 贾碧
-  - 赫里斯塔
-  - 尤弥尔
-  - 阿喀琉斯
-  - 柏拉图
-  - 拉康
-  - 弗洛姆
-  - 克鲁泡特金
-  - 保罗·维尔海格
-  - 罗伊·巴斯卡尔
-  - 克莱因
-  - 海德格尔
-  - 谏山创
-companies_orgs:
-  - 调查兵团
-  - 城墙教
-products_models: []
-media_books:
-  - 《进击的巨人》
-  - 《外面的世界》
-  - 《鱿鱼游戏》
-  - 《理想国》
 status: evergreen
+summary: 本篇深入解析《进击的巨人》系列第一部分，探讨人类如何遗忘并重寻自由。文章从巨人的本质、拉康的口腔驱动力切入，分析柏拉图的正义观与弗洛姆的攻击性理论。通过艾伦、调查兵团的经历，阐释力量控制、知识解放与克莱因的分裂心理。最终，结合海德格尔的哲学思想，揭示人类在‘常人状态’中失去自由，以及如何通过自我觉醒，超越既定命运，重获作为‘此在’的真正自由。
+tags:
+- history
+- human
+- philosophy
+- social
+title: 《进击的巨人》哲学解析三部曲（一）：人如何遗忘了自由？怒气、分裂心理与自由的辩证法
+companies:
+- psychological-splitting
 ---
+
 ### 《进击的巨人》：被遗忘的自由
 
 《进击的巨人》最终章登上大荧幕，本次超级歪将分三集进行解析。这部万众瞩目的《进击的巨人》故事描绘了城墙内享受百年和平的人们，突然遭到巨人的袭击。主角艾伦的母亲被巨人吞食，失去家园的主角们决定训练并加入调查兵团。艾伦誓言：“我要驱逐所有巨人，一个不留。”为了对抗巨人，你必须了解巨人是什么，这是《进击的巨人》前三季一直在探索的核心主题。

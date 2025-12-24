@@ -1,48 +1,48 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs:
+- 微软研究院
+- 卡内基梅隆大学
 date: '2025-05-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《奇点临近》
+- 《ChatGPT的虚假承诺》
+- 《天生赛博格》
+- 《纽约时报》
+people:
+- 雷·库兹韦尔
+- 诺姆·乔姆斯基
+- 尼尔·波兹曼
+- 尤瓦尔·赫拉利
+- 马歇尔·麦克卢汉
+- 笛卡尔
+- 安迪·克拉克
+- 大卫·查尔默斯
+products_models:
+- ChatGPT
+- DeepSeek
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=vjEf7kwb7Yk
 speaker: 大问题Dialectic
-tags:
-  - ai-impact
-  - human-cognition
-  - critical-thinking
-  - extended-mind
-  - cyborg-theory
-title: AI时代，人类会变聪明还是变笨？三大流派深度解析
-summary: 本期节目深入探讨了人工智能（AI）普及对人类心智影响的重大问题。文章介绍了三种主要观点：支持派认为AI能赋能人类，提升工作效率并促进教育平等；反对派则担忧AI会导致人类丧失主动思考能力，形成“无用阶级”并加剧社会两极分化；开放派则主张人类心智本身就是可塑的，会随着工具的演化而共同演化，将AI视为心智的自然延伸。最终，文章邀请读者共同思考人类在AI时代如何重新定义自我。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 雷·库兹韦尔
-  - 诺姆·乔姆斯基
-  - 尼尔·波兹曼
-  - 尤瓦尔·赫拉利
-  - 马歇尔·麦克卢汉
-  - 笛卡尔
-  - 安迪·克拉克
-  - 大卫·查尔默斯
-companies_orgs:
-  - 微软研究院
-  - 卡内基梅隆大学
-products_models:
-  - ChatGPT
-  - DeepSeek
-media_books:
-  - 《奇点临近》
-  - 《ChatGPT的虚假承诺》
-  - 《天生赛博格》
-  - 《纽约时报》
 status: evergreen
+summary: 本期节目深入探讨了人工智能（AI）普及对人类心智影响的重大问题。文章介绍了三种主要观点：支持派认为AI能赋能人类，提升工作效率并促进教育平等；反对派则担忧AI会导致人类丧失主动思考能力，形成“无用阶级”并加剧社会两极分化；开放派则主张人类心智本身就是可塑的，会随着工具的演化而共同演化，将AI视为心智的自然延伸。最终，文章邀请读者共同思考人类在AI时代如何重新定义自我。
+tags:
+- ai-impact
+- critical-thinking
+- human
+- psychology
+- theory
+title: AI时代，人类会变聪明还是变笨？三大流派深度解析
 ---
+
 ### AI普及：人类心智的未来走向
 
 本期节目将深入探讨一个核心问题：**人工智能**（AI）的普及究竟会让人类变得更聪明，还是更笨？近年来，**大语言模型**（Large Language Model, LLM: 一种基于深度学习的人工智能模型，能理解和生成人类语言）发展迅猛，其智能水平日益提高。与前两年还需要讲究**提示语工程**（Prompt Engineering: 指设计和优化输入给AI模型的指令或问题，以获得更准确、更有用的输出的技能）不同，现在的AI已经能轻松理解中文口语指令。

@@ -1,47 +1,47 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- ASML
+- Block
+- Palo Alto Networks
+- Taiwan Semiconductor Manufacturing Company
+- Intel Corporation
+- Samsung Electronics
+- NVIDIA Corporation
+- AMD
+- PayPal
+- Stripe
 date: '2025-04-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+products_models:
+- EUV光刻机
+- 下一代防火墙
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=oW7gcMwQZI4
 speaker: Shijun Tang
-tags:
-  - monopoly-advantage
-  - bitcoin-exposure-risk
-  - capital-allocation-analysis
-  - capability-circle-investing
-  - ecosystem-moat
-title: ASML、Block 与 Palo Alto Networks：三巨头财报背后的资本逻辑与投资哲学
-summary: 通过分析ASML、Block和Palo Alto Networks三家公司的财报与商业模式，探讨科技垄断、比特币风险与网络安全市场格局，并反思‘能力圈’投资原则——真正的知行合一，是只投自己真正理解的公司。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - ASML
-  - Block
-  - Palo Alto Networks
-  - Taiwan Semiconductor Manufacturing Company
-  - Intel Corporation
-  - Samsung Electronics
-  - NVIDIA Corporation
-  - AMD
-  - PayPal
-  - Stripe
-products_models:
-  - EUV光刻机
-  - 下一代防火墙
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 通过分析ASML、Block和Palo Alto Networks三家公司的财报与商业模式，探讨科技垄断、比特币风险与网络安全市场格局，并反思‘能力圈’投资原则——真正的知行合一，是只投自己真正理解的公司。
+tags:
+- capital-allocation-analysis
+- ecosystem
+- history
+- investing
+- risk
+title: ASML、Block 与 Palo Alto Networks：三巨头财报背后的资本逻辑与投资哲学
 ---
+
 ### ASML：光刻机垄断者的护城河与财务韧性
 
 我持有ASML已经190天了。刚建仓时，它的股价是700美元；而最近市场经历了一场可能被载入史册的崩盘日，ASML股价一度跌破600美元，最低跌至578美元——比我的买入价暴跌了17%。但市场给它打了这么大一个折扣，反而成了我加仓的机会。

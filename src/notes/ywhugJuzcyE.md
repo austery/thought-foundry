@@ -1,93 +1,94 @@
 ---
-author: a16z
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- Apple
+- a16z
+- Pinterest
+- Meta
+- Google
+- Wealthfront
+- Kaching
+- University of Pennsylvania
+- Lehman Brothers
+- Uber
+- Airbnb
+- Amazon
+- Stanford University
+- MIT
+- Charles Schwab
+- GameStop
+- AMC
+- KCG
+- Knight Capital
+- Getco
+- Deposit Trust & Clearing Corporation
+- Instagram
+- TikTok
+- Apex Clearing
+- Celsius
+- BlockFi
+- FTX
+- Bloomberg
+- Palantir
+- Bullish
+- Gemini
+- Tesla
+- T. Rowe Price
+- Fidelity
+- Morgan Stanley
+- E*TRADE
+- DARPA
+- CIA
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+people:
+- Vlad Tenev
+- Alex Rampell
+- Eric Vishria
+- Johnny Conway
+- Oprah Winfrey
+- Peter Thiel
+- Andy Rachleff
+- Ben Horowitz
+- David George
+- Micky Malka
+- Elon Musk
+- Dan Rose
+products_models:
+- iPhone
+- ETF
+- IPO Access
+- Robinhood Ventures
+- S&P 500
+- ChatGPT
+- Apple Wallet
+- 10B5-1 Plan
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ywhugJuzcyE
 speaker: a16z
-tags:
-  - ownership-economy
-  - financial-democratization
-  - market-infrastructure
-  - brand-reputation
-  - prediction-markets
-title: Robinhood CEO Vlad Tenev：让每个人都成为所有者，打造普惠金融的未来
-summary: Robinhood CEO Vlad Tenev 深入探讨了公司的创立原则——零佣金、移动优先和颠覆性品牌。他回顾了 GameStop 事件带来的挑战与教训，强调了“简单谎言”与“复杂真相”之间的较量。Tenev 阐述了其核心愿景：通过普及 IPO 和私募市场准入，建立一个“所有权经济”。他批判了传统金融体系缓慢的结算效率，并展望了通证化如何重塑市场基础设施。最后，他讨论了在人工智能时代，让大众成为资产所有者对于社会稳定和技术接纳的至关重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Vlad Tenev
-  - Alex Rampell
-  - Eric Vishria
-  - Johnny Conway
-  - Oprah Winfrey
-  - Peter Thiel
-  - Andy Rachleff
-  - Ben Horowitz
-  - David George
-  - Micky Malka
-  - Elon Musk
-  - Dan Rose
-companies_orgs:
-  - Robinhood
-  - Apple
-  - a16z
-  - Pinterest
-  - Facebook
-  - Google
-  - Wealthfront
-  - Kaching
-  - University of Pennsylvania
-  - Lehman Brothers
-  - Uber
-  - Airbnb
-  - Amazon
-  - Stanford University
-  - MIT
-  - Charles Schwab
-  - GameStop
-  - AMC
-  - KCG
-  - Knight Capital
-  - Getco
-  - Deposit Trust & Clearing Corporation
-  - Instagram
-  - TikTok
-  - Apex Clearing
-  - Celsius
-  - BlockFi
-  - FTX
-  - Bloomberg
-  - Palantir
-  - Bullish
-  - Gemini
-  - Tesla
-  - T. Rowe Price
-  - Fidelity
-  - Morgan Stanley
-  - E*TRADE
-  - DARPA
-  - CIA
-products_models:
-  - iPhone
-  - ETF
-  - IPO Access
-  - Robinhood Ventures
-  - S&P 500
-  - ChatGPT
-  - Apple Wallet
-  - 10B5-1 Plan
-media_books:
-  - The Wall Street Journal
 status: evergreen
+summary: Robinhood CEO Vlad Tenev 深入探讨了公司的创立原则——零佣金、移动优先和颠覆性品牌。他回顾了 GameStop 事件带来的挑战与教训，强调了“简单谎言”与“复杂真相”之间的较量。Tenev
+  阐述了其核心愿景：通过普及 IPO 和私募市场准入，建立一个“所有权经济”。他批判了传统金融体系缓慢的结算效率，并展望了通证化如何重塑市场基础设施。最后，他讨论了在人工智能时代，让大众成为资产所有者对于社会稳定和技术接纳的至关重要性。
+tags:
+- business
+- economy
+- financial
+- market
+- prediction-market
+title: Robinhood CEO Vlad Tenev：让每个人都成为所有者，打造普惠金融的未来
 ---
+
 ### 引言：所有权经济与信息噪音
 几个月前我发表了一个声明，我认为**预测市场**（Prediction Markets: 允许参与者就未来事件结果进行交易的市场）是真相机器。我们不断被各种信息和噪音轰炸。任何人都可以成为网红，任何人都可以拥有播客。你如何筛选这些信息，找出真正会发生什么？
 

@@ -1,39 +1,38 @@
 ---
-author: Big Think
+area: society-systems
+category: technology
+companies_orgs:
+- Google
+- IBM
+- Honeywell
+- FBI
+- CIA
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Michio Kaku
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=rndGPnKQYd4
 speaker: Big Think
-tags:
-  - quantum-computing
-  - moores-law
-  - superposition
-  - code-cracking
-  - fusion-energy
-title: 量子计算：颠覆未来的下一场革命，从原子到多重宇宙
-summary: 量子计算机代表着下一场技术革命，其计算能力远超传统数字计算机，有望彻底改变经济、健康、能源和安全等各个领域。随着摩尔定律的极限逼近，量子计算通过利用原子层面的量子力学原理，如叠加态和并行宇宙，为解决复杂问题提供了新的途径，并可能带来无限能源、治愈疾病以及破解现有加密体系。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Michio Kaku
-companies_orgs:
-  - Google
-  - IBM
-  - Honeywell
-  - FBI
-  - CIA
-products_models: []
-media_books: []
 status: evergreen
+summary: 量子计算机代表着下一场技术革命，其计算能力远超传统数字计算机，有望彻底改变经济、健康、能源和安全等各个领域。随着摩尔定律的极限逼近，量子计算通过利用原子层面的量子力学原理，如叠加态和并行宇宙，为解决复杂问题提供了新的途径，并可能带来无限能源、治愈疾病以及破解现有加密体系。
+tags:
+- code
+- energy
+- law
+- quantum-computing
+- superposition
+title: 量子计算：颠覆未来的下一场革命，从原子到多重宇宙
 ---
+
 ### 量子计算：下一场革命
 
 我们都知道，数字计算机已经改变了整个格局。能够使用数字计算机的国家变得富有、强大，能够进行通信，能够重塑经济。然而，我们现在正处于下一场革命的初期阶段。

@@ -1,35 +1,34 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- bike-equipment-guide
+people:
+- 宋晏仁
+- Kevin
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=mYNL05NmmJU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - cycling-health-benefits
-  - bike-equipment-guide
-  - exercise-nutrition
-  - post-workout-recovery
-  - chronic-disease-management
-title: 宋晏仁醫師的單車健身哲學：從新手到高手的騎行指南
-summary: 宋晏仁醫師分享了他從2009年開始的單車騎行經歷，強調單車運動對健康的益處，特別是對於慢性病患者。他詳細介紹了騎行中的補給策略、運動後的恢復技巧，並與專家Kevin共同探討了單車裝備的選擇，如車架材質、安全帽、車衣褲與卡鞋。文章還深入探討了單車運動對血壓血糖的積極影響，並糾正了傳統能量補給的迷思，為讀者提供全面的單車健身指南。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 宋晏仁
-  - Kevin
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 宋晏仁醫師分享了他從2009年開始的單車騎行經歷，強調單車運動對健康的益處，特別是對於慢性病患者。他詳細介紹了騎行中的補給策略、運動後的恢復技巧，並與專家Kevin共同探討了單車裝備的選擇，如車架材質、安全帽、車衣褲與卡鞋。文章還深入探討了單車運動對血壓血糖的積極影響，並糾正了傳統能量補給的迷思，為讀者提供全面的單車健身指南。
+tags:
+- health
+- management
+- society
+title: 宋晏仁醫師的單車健身哲學：從新手到高手的騎行指南
 ---
+
 ### 宋晏仁醫師的單車健身之路
 
 我有想過，對我來說，我大概從2009年開始接觸到車子，**越野車**（Off-road bike: 一種專為崎嶇地形設計的自行車）就騎了大概十幾年。單車運動本身就是一個良藥，幾乎我看我們同事左生病右生病，我這個老頭子反而都不會生病。而且它很大一部分是訓練到你從腰以下腿的力量。

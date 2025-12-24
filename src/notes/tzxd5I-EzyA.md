@@ -1,55 +1,53 @@
 ---
-author: Money & Macro
+area: society-systems
+category: science
+companies_orgs:
+- Wall Street Journal
+- King's University of London
+- Ekster
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Lex Fridman Podcast
+- Tucker Carlson
+people:
+- Joeri
+- Alejandro
+- Gary
+- Michael Saylor
+- Richard Werner
+- Steve Keen
+- Greg Kaplan
+- Angus Deaton
+- Joseph Stiglitz
+- Toni Atkinson
+- Piketty
+- Ray Dalio
+- Cathie Wood
+products_models:
+- Minsky
+- slim wallet
+- card holder
+- finder card
+- travel vacuum kit
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=tzxd5I-EzyA
 speaker: Money & Macro
-tags:
-  - economic-criticism
-  - social-science
-  - economic-models
-  - prediction-accuracy
-  - economic-education
-title: 经济学：一门被误解的社会科学？
-summary: 本文深入探讨了经济学面临的三大常见批评：它是否是一门严谨的科学、其模型是否过时，以及学习经济学是否浪费时间。一位经济学博士对这些观点进行了逐一回应，承认经济学作为一门社会科学的固有复杂性，并解释了其模型在不断发展以应对现实挑战。文章强调了经济学研究的价值，并呼吁对经济学教育进行改进，以更好地反映前沿研究。
-insight: ''
-draft: true
-series: ''
-category: science
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Joeri
-  - Alejandro
-  - Gary
-  - Michael Saylor
-  - Richard Werner
-  - Steve Keen
-  - Greg Kaplan
-  - Angus Deaton
-  - Joseph Stiglitz
-  - Toni Atkinson
-  - Piketty
-  - Ray Dalio
-  - Cathie Wood
-companies_orgs:
-  - Wall Street Journal
-  - King's University of London
-  - Ekster
-products_models:
-  - Minsky
-  - slim wallet
-  - card holder
-  - finder card
-  - travel vacuum kit
-media_books:
-  - Lex Fridman Podcast
-  - Tucker Carlson
 status: evergreen
+summary: 本文深入探讨了经济学面临的三大常见批评：它是否是一门严谨的科学、其模型是否过时，以及学习经济学是否浪费时间。一位经济学博士对这些观点进行了逐一回应，承认经济学作为一门社会科学的固有复杂性，并解释了其模型在不断发展以应对现实挑战。文章强调了经济学研究的价值，并呼吁对经济学教育进行改进，以更好地反映前沿研究。
+tags:
+- canada
+- economic
+- social
+title: 经济学：一门被误解的社会科学？
 ---
+
 ### 经济学面临的普遍批评
 
 “宏观经济学在过去200年里一直不成功。”

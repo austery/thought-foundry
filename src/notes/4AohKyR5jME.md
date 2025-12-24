@@ -1,37 +1,37 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2024-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《春晖》
+- 《我的理想》
+people:
+- 阮筠庭
+- 三毛
+products_models: []
+project:
+- cultural-critique
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=4AohKyR5jME
 speaker: 一席YiXi
-tags:
-  - education-system
-  - authentic-self
-  - emotional-acceptance
-  - social-pressure
-  - non-conformity
-title: 从今往后的人生，我希望你为自己而活：一位漫画家教师的教育觉醒
-summary: 阮筠庭以自身23年教学生涯为镜，反思教育中‘标准’与‘控制’的暴力，揭示爱的本质是接纳而非改造。她通过漫画《春晖》讲述如何在体制中守护个体的独特性，重新定义教师的意义：不是塑造完美学生，而是让每个灵魂看见自己的价值。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - cultural-critique
-  - personal-growth-lab
-  - historical-insights
-people:
-  - 阮筠庭
-  - 三毛
-companies_orgs: []
-products_models: []
-media_books:
-  - 《春晖》
-  - 《我的理想》
 status: evergreen
+summary: 阮筠庭以自身23年教学生涯为镜，反思教育中‘标准’与‘控制’的暴力，揭示爱的本质是接纳而非改造。她通过漫画《春晖》讲述如何在体制中守护个体的独特性，重新定义教师的意义：不是塑造完美学生，而是让每个灵魂看见自己的价值。
+tags:
+- emotional
+- non
+- self
+- social
+- system
+title: 从今往后的人生，我希望你为自己而活：一位漫画家教师的教育觉醒
 ---
+
 ### 教师的困境：当“好老师”的标准成为牢笼
 
 我叫阮筠庭，是一名漫画家，也在中国美术学院教了23年画。  

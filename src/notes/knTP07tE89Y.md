@@ -1,62 +1,62 @@
 ---
-author: 课代表立正
+area: market-analysis
+category: finance
+companies_orgs:
+- OpenAI
+- Oracle
+- NVIDIA
+- AMD
+- CoreWeave
+- Microsoft
+- Amazon
+- Cisco
+- YouTube
+- Box
+- Tesla
+- Broadcom
+- VMware
+- Qualcomm
+- X.AI
+- Lehman Brothers
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+people:
+- Elon Musk
+- Satya Nadella
+- Jeff Bezos
+- Andy Jassy
+- Larry Ellison
+- Steve Ballmer
+- Aaron Levie
+- Andrej Karpathy
+- Hock Tan
+- Sam Altman
+products_models:
+- ChatGPT
+- iPhone
+project:
+- investment-strategy
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=knTP07tE89Y
 speaker: 课代表立正
-tags:
-  - ai-bubble
-  - market-cycles
-  - ceo-leadership
-  - tech-overbuilding
-  - dot-com-era
-title: 硅谷高管谈AI泡沫：历史重演下的健康泡沫与领导力关键
-summary: 一位在硅谷深耕二十余年的高管，深入剖析当前AI领域是否存在泡沫，并将其与2000年的互联网泡沫进行对比。他认为，当前AI市场绝对是一个巨大的泡沫，但从技术革新角度看，这是一个“良性泡沫”，能加速技术发展。文章强调了市场过度建设的风险，以及CEO领导力在公司穿越泡沫、实现长期增长中的决定性作用，并探讨了如何形成对领导者的独立判断。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - historical-insights
-  - market-cycles
-people:
-  - Elon Musk
-  - Satya Nadella
-  - Jeff Bezos
-  - Andy Jassy
-  - Larry Ellison
-  - Steve Ballmer
-  - Aaron Levie
-  - Andrej Karpathy
-  - Hock Tan
-  - Sam Altman
-companies_orgs:
-  - OpenAI
-  - Oracle
-  - NVIDIA
-  - AMD
-  - CoreWeave
-  - Microsoft
-  - Amazon
-  - Cisco
-  - YouTube
-  - Box
-  - Tesla
-  - Broadcom
-  - VMware
-  - Qualcomm
-  - X.AI
-  - Lehman Brothers
-products_models:
-  - ChatGPT
-  - iPhone
-media_books:
-  - X
 status: evergreen
+summary: 一位在硅谷深耕二十余年的高管，深入剖析当前AI领域是否存在泡沫，并将其与2000年的互联网泡沫进行对比。他认为，当前AI市场绝对是一个巨大的泡沫，但从技术革新角度看，这是一个“良性泡沫”，能加速技术发展。文章强调了市场过度建设的风险，以及CEO领导力在公司穿越泡沫、实现长期增长中的决定性作用，并探讨了如何形成对领导者的独立判断。
+tags:
+- ai-bubble
+- ceo-leadership
+- history
+- market-cycle
+- tech
+title: 硅谷高管谈AI泡沫：历史重演下的健康泡沫与领导力关键
 ---
+
 ### AI泡沫：期望与现实的巨大差距
 
 我在硅谷做了20多年的高管、投资人和创业者，经历了很多个周期，包括2000年**互联网泡沫**（Dot com bubble: 2000年左右互联网公司估值过高导致的破裂）破裂的情况。今天很多人会说AI也是一个**泡沫**（bubble: 期望值与现实有距离的市场现象），或者马上就要来泡沫了。如果我们去看硅谷著名的投资人，每个人的说法都不一样。我想听听我的观点，尤其是背后的思考：AI有泡沫吗？它到底是一个什么样的周期？我们应该多投点钱，还是应该撤出来了？

@@ -7,12 +7,12 @@ project:
 - china-analysis
 - historical-insights
 tags:
-  - 中国政治
-  - 历史反思
+- china-politics
+- society
 people:
-  - 李厚辰
-  - 贾葭
-  - 伍雷
+- 李厚辰
+- 贾葭
+- 伍雷
 companies_orgs: []
 products_models: []
 media_books:
@@ -27,6 +27,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ### 目录
 
 ## 开场白：为何要回应争议评论

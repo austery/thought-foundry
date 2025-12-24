@@ -1,43 +1,42 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- Google
+- Ford Motor Company
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Richard Feynman
+- Steven Pinker
+- James Farley
+- 吴国胜
+- Meghan McArdle
+products_models:
+- ChatGPT-5
+- Gemini
+project:
+- china-analysis
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=p8B86M4VFz4
 speaker: 徒步的騎手
-tags:
-  - education-devaluation
-  - phd-bubble
-  - innovation-system
-  - planned-economy-flaws
-  - academic-involution
-title: 学历贬值与教育陷阱：中美博士培养模式的对比与反思
-summary: 本文深入探讨了当前学历贬值，特别是博士学位成为“人生陷阱”的现象。通过对比美国大学削减博士招生与中国大学大规模扩招的趋势，文章分析了中国教育体制在科研领域“大跃进”式的产能过剩问题，以及由此导致的“博士农民工化”和“内卷”现象。文章引用诺贝尔奖得主理查德·费曼的观点，强调教育与心智的本质区别，并批判了中国教育将学生培养成“骡子和驴”却期望他们创新的模式，最终指出在学历大贬值的时代，清醒的头脑和解决实际问题的能力才是安身立命的根本。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - Richard Feynman
-  - Steven Pinker
-  - James Farley
-  - 吴国胜
-  - Meghan McArdle
-companies_orgs:
-  - OpenAI
-  - Google
-  - Ford Motor Company
-products_models:
-  - ChatGPT-5
-  - Gemini
-media_books: []
 status: evergreen
+summary: 本文深入探讨了当前学历贬值，特别是博士学位成为“人生陷阱”的现象。通过对比美国大学削减博士招生与中国大学大规模扩招的趋势，文章分析了中国教育体制在科研领域“大跃进”式的产能过剩问题，以及由此导致的“博士农民工化”和“内卷”现象。文章引用诺贝尔奖得主理查德·费曼的观点，强调教育与心智的本质区别，并批判了中国教育将学生培养成“骡子和驴”却期望他们创新的模式，最终指出在学历大贬值的时代，清醒的头脑和解决实际问题的能力才是安身立命的根本。
+tags:
+- academic-involution
+- bubble
+- economy
+- education
+- system
+title: 学历贬值与教育陷阱：中美博士培养模式的对比与反思
 ---
+
 ### 博士学位与职业现实：一个残酷的转变
 
 大家好，上周末几位朋友聚会聊天，说到了学位这个话题。在座的有两个人有博士学位，其中包括我，我是文科，另外那位朋友是理工科，都算是不错的学校毕业。我们那个年代，不管是在中国还是在美国，都是念书改变命运。但我们两个博士后来都没有靠博士学的专业去谋生。如果一直做博士学的专业，在美国大概率现在连工作都没了。不是我们不喜欢博士学的专业，而是生活跟念书是两回事。念书只是人生的一个时段，就像是连续剧中的一集，但是不管念到多高的学位，总有毕业的那一天。毕业了人生还是要继续，除非家里有花不完的钱。走出校门面临的首要问题就是谋生，怎么样养家糊口。当然可以做**博士后**（Postdoc: 获得博士学位后在大学或研究机构从事短期研究工作的职位），但是博士后的收入微薄，而且职位大多是临时性的，经常是一两年换个地方。除非是天才，一般人念完了博士已经三十来岁，有家庭有孩子，需要养家糊口，过稳定一点的生活。如果我们俩一直死磕自己的博士专业，只盯着对口的工作找，可能早就被行业淘汰了，这是个非常残酷的现实。这几年越来越多的博士看到了这个现实。在我们那个年代，不管怎么说，读博士是为了向上流动，从小城镇流向一二线城市，从中国流向美国。而今这个年代，教育泡沫越吹越大，学位贬值，对于很多人来说，读博士可能已经成了人生的一个陷阱。

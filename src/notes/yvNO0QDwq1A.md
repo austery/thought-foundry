@@ -1,33 +1,31 @@
 ---
-title: 纽约市的腐败：历史、演变与现代挑战
-summary: 本视频深入探讨了纽约市的腐败问题，从19世纪的Boss Tweed时代，到20世纪的警局腐败，再到现代的政府承包与住房政策。视频强调腐败的持续性和演变，以及纽约为应对挑战所做的努力。
-area: personal-growth
-category: culture
-project:
-- historical-insights
-- investment-strategy
-tags:
-- corruption
-- finance
-- government
-- history
-- new-york-city
-people:
-- peter-santenello
+area: society-thinking
+category: history
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-07'
-author: Peter Santenello
-speaker: Peter Santenello
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- peter-santenello
+products_models: []
+project:
+- historical-insights
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=yvNO0QDwq1A
+speaker: Peter Santenello
 status: evergreen
+summary: 本视频深入探讨了纽约市的腐败问题，从19世纪的Boss Tweed时代，到20世纪的警局腐败，再到现代的政府承包与住房政策。视频强调腐败的持续性和演变，以及纽约为应对挑战所做的努力。
+tags:
+- corruption
+- finance
+- government
+- society
+title: 纽约市的腐败：历史、演变与现代挑战
 ---
+
 ### 纽约的诞生：腐败与进步的交织
 
 In the great city of New York, Benjamin thanks for meeting up. -It's good to be back. -Yeah right. -DC, Chicago, New York. -Yeah. New York is the city that invented grifting. It invented corruption. But what separates it from Chicago it could stare itself in the face with sobriety and say we can do better. It both invents the greatest corruption, the worst, the smartest forms, but then it figures out ways to improve it and to make this city really run. So we'll start in 1870s, we'll go to the 1970s, and we'll go to today.

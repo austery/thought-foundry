@@ -1,29 +1,25 @@
 ---
-title: 疫情后旅行住宿太贵？数字游民教你住大学宿舍省一半费用
-summary: 一位数字游民分享在疫情后旅行成本高昂的背景下，如何通过预订大学宿舍来大幅节省住宿开销，并详细介绍寻找房源和预订的实用技巧。
 area: personal-growth
 category: lifestyle
-project: []
-tags:
-  - budget-accommodation
-  - digital-nomad
-  - travel-tips
-  - university-dorms
-  - vpn-for-travel
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-06-25'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C6mZNCZLN4c
+speaker: 一口新飯
 status: evergreen
+summary: 一位数字游民分享在疫情后旅行成本高昂的背景下，如何通过预订大学宿舍来大幅节省住宿开销，并详细介绍寻找房源和预订的实用技巧。
+tags:
+- budget-accommodation
+- digital
+- society
+- travel
+title: 疫情后旅行住宿太贵？数字游民教你住大学宿舍省一半费用
 ---
 
 ### 疫情后旅行的高昂成本

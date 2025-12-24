@@ -1,46 +1,45 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CBC
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Carney
+- Chris d'Entremont
+- Matt Jeneroux
+- Pierre Poilievre
+- Don Davies
+- Heather McPherson
+- Gord Johns
+- Kerry Diotte
+- Warren Steinley
+- Vincent Ke
+- Alexis Brunelle-Duceppe
+- Justin Trudeau
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=KnSh-gcYP68
 speaker: 大伟探秘加拿大
-tags:
-  - canadian-politics
-  - budget-strategy
-  - political-defection
-  - confidence-vote
-  - local-funding
-  - parliamentary-tactics
-title: 加拿大政坛风暴：卡尼政府预算案的“特洛伊木马”策反战术
-summary: 2025年4月加拿大联邦大选后，卡尼少数政府面临年度财政预算案的信任投票挑战。本文深入分析了卡尼政府如何利用预算案作为政治武器，通过“特洛伊木马”战术，精准策反反对党议员，以确保预算案通过。文章详细阐述了保守党议员克里斯·德特蒙特的倒戈和马特·詹纳鲁的辞职，并揭示了自由党如何通过地方专项拨款，制造利益枷锁，瓦解党派忠诚，从而在议会中绝地求生，对加拿大政治版图产生深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Chris d'Entremont
-  - Matt Jeneroux
-  - Pierre Poilievre
-  - Don Davies
-  - Heather McPherson
-  - Gord Johns
-  - Kerry Diotte
-  - Warren Steinley
-  - Vincent Ke
-  - Alexis Brunelle-Duceppe
-  - Justin Trudeau
-companies_orgs:
-  - CBC
-products_models: []
-media_books: []
 status: evergreen
+summary: 2025年4月加拿大联邦大选后，卡尼少数政府面临年度财政预算案的信任投票挑战。本文深入分析了卡尼政府如何利用预算案作为政治武器，通过“特洛伊木马”战术，精准策反反对党议员，以确保预算案通过。文章详细阐述了保守党议员克里斯·德特蒙特的倒戈和马特·詹纳鲁的辞职，并揭示了自由党如何通过地方专项拨款，制造利益枷锁，瓦解党派忠诚，从而在议会中绝地求生，对加拿大政治版图产生深远影响。
+tags:
+- canadian-politics
+- geopolitical
+- investment
+- political
+- society
+- strategy
+title: 加拿大政坛风暴：卡尼政府预算案的“特洛伊木马”策反战术
 ---
+
 ### 加拿大联邦大选后的政治挑战
 
 我们都知道，加拿大在2025年4月进行了一次提前的联邦大选。如今，**少数执政党**（Minority Government: 指在议会中未获得绝对多数席位的执政党）的卡尼政府即将面临上台后的第一个生死存亡的挑战，即年度财政预算能否通过议会的批准。如果预算案未能通过，则意味着政府失去了议会的信任，政府将立即倒台，加拿大也将再次面临大选。前几天，我们详细分析了预算案的具体内容。今天，我们将深入探讨一场正在发生的政治风暴，这不仅仅关乎预算案的投票，更是一场关于卡尼少数政府如何绝地求生的豪赌，一出关于精准策反与党派瓦解的教科书式案例。

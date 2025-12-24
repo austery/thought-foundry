@@ -1,38 +1,36 @@
 ---
-author: AI超元域
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- Google
+- X
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- Claude Code
+- Chrome
+- Playwright
+- React
+- Express
+- Swagger UI
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=wVS-J7lRLlg
 speaker: AI超元域
-tags:
-  - llm
-  - chrome
-  - automation
-  - developer-tools
-title: 🚀丢掉playwright吧！Claude Code原生支持Chrome浏览器！全自动调用Chrome开发React组件、自动发现Bug、自动修复，自动化测试API接口！全自动化开发流程实测！#ai
-summary: 本视频演示了最新版**Claude Code**如何原生支持调用**Chrome**浏览器，实现全自动开发**React**组件、调试、修复Bug及自动化测试**API**接口。此集成极大地增强了**Claude Code**的实用性和强大性，通过利用现有浏览器环境提升开发效率。
-insight: ''
-draft: true
-series: ''
-category: ai-coding
-area: tech-work
-project:
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - Google
-  - X
-products_models:
-  - Claude Code
-  - Chrome
-  - Playwright
-  - React
-  - Express
-  - Swagger UI
-media_books: []
 status: evergreen
+summary: 本视频演示了最新版**Claude Code**如何原生支持调用**Chrome**浏览器，实现全自动开发**React**组件、调试、修复Bug及自动化测试**API**接口。此集成极大地增强了**Claude
+  Code**的实用性和强大性，通过利用现有浏览器环境提升开发效率。
+tags:
+- automation
+- developer-tool
+- history
+title: "\U0001F680丢掉playwright吧！Claude Code原生支持Chrome浏览器！全自动调用Chrome开发React组件、自动发现Bug、自动修复，自动化测试API接口！全自动化开发流程实测！#ai"
 ---
+
 ### Cloud Code 原生支持 Chrome
 Cloud Code 最新版，现在已经原生支持调用 **Chrome** (浏览器: Google Chrome: Google 开发的网页浏览器) 浏览器了。我们只需要将 **Cloud Code** (AI 编程助手: 一个用于代码生成、调试和自动化任务的 AI 工具) 升级到最新版本，然后在 **Cloud Code** 中使用斜杠命令，加上 `chrome` 就可以进入 **Chrome** 浏览器的设置。在是否默认启用这里，我这里设为了启用，而且这里还可以管理权限。
 

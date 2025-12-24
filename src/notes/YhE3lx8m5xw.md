@@ -1,42 +1,41 @@
 ---
-author: 徒步的騎手
-date: 2025-09-02
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=YhE3lx8m5xw'
-speaker: 徒步的騎手
-tags:
-  - historical-narrative
-  - sino-japanese-war
-  - political-legitimacy
-  - ccp-ideology
-title: 谁战胜了日本？解析中共对抗战历史的系统性重塑
-summary: 本文详细回顾了1945年日本在密苏里号战列舰上投降的历史场景，剖析了第二次世界大战中各方力量的真实贡献。文章通过对比国民党正面战场的巨大牺牲和共产党的“七分发展”策略，揭示了中共如何在战后，特别是苏联解体后，为巩固其执政合法性而系统性地篡改历史叙事，将自己塑造为抗日战争的“中流砥柱”，并刻意淡化美国在太平洋战争中的决定性作用。这一过程始于作伪，最终演变为一场为“窃取的皇冠”正名的政治表演。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Douglas MacArthur
-  - Mao Zedong
-  - Xu Yongchang
-  - Jonathan M. Wainwright
-  - Arthur Percival
-  - Zhang Guotao
-  - Yan Fu
-  - Peng Dehuai
+category: geopolitics
 companies_orgs:
-  - Chinese Communist Party
-  - Kuomintang
-  - Eighth Route Army
-  - Soviet Union
-products_models: '[]'
+- Chinese Communist Party
+- Kuomintang
+- Eighth Route Army
+- Soviet Union
+date: 2025-09-02
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Douglas MacArthur
+- Mao Zedong
+- Xu Yongchang
+- Jonathan M. Wainwright
+- Arthur Percival
+- Zhang Guotao
+- Yan Fu
+- Peng Dehuai
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=YhE3lx8m5xw
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文详细回顾了1945年日本在密苏里号战列舰上投降的历史场景，剖析了第二次世界大战中各方力量的真实贡献。文章通过对比国民党正面战场的巨大牺牲和共产党的“七分发展”策略，揭示了中共如何在战后，特别是苏联解体后，为巩固其执政合法性而系统性地篡改历史叙事，将自己塑造为抗日战争的“中流砥柱”，并刻意淡化美国在太平洋战争中的决定性作用。这一过程始于作伪，最终演变为一场为“窃取的皇冠”正名的政治表演。
+tags:
+- historical-narrative
+- political-legitimacy
+- society
+- war
+title: 谁战胜了日本？解析中共对抗战历史的系统性重塑
 ---
 
 ### 胜利日的不同日期：一个被操纵的起点

@@ -1,43 +1,42 @@
 ---
-author: 徒步的騎手
-date: 2025-01-08
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=GJnYnI1Sai8'
-speaker: 徒步的騎手
-tags:
-  - hard-times
-  - personal-resilience
-  - totalitarianism
-  - societal-decline
-  - individual-responsibility
-title: 艰难时代与危险社会：个人坚韧的抉择
-summary: 本文探讨了“艰难时代造就坚强的人，坚强的人创造好时代，好时代造就软弱的人，软弱的人创造艰难时代”这一历史循环。作者分析了中国当前面临的“艰难时代”对年轻人的影响，并警示艰难时代也是危险时代，因为恐惧易滋生服从，导致极权统治。文章强调，个人不应放弃对自己、对亲友的责任，要保持清醒和警醒，通过从小事做起、走出舒适区来磨砺坚强意志，拒绝成为助长坏人的“软弱的人”，从而为未来好时代的到来做好准备。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 甘地
-  - 尼赫鲁
-  - 希特勒
-  - 列宁
-  - 斯大林
-  - 毛
-  - 刘宗坤
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-01-08
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《大河湾》
-  - 微博
-  - 推特
-  - Substack
+- 《大河湾》
+- 微博
+- 推特
+- Substack
+people:
+- 甘地
+- 尼赫鲁
+- 希特勒
+- 列宁
+- 斯大林
+- 毛
+- 刘宗坤
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=GJnYnI1Sai8
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了“艰难时代造就坚强的人，坚强的人创造好时代，好时代造就软弱的人，软弱的人创造艰难时代”这一历史循环。作者分析了中国当前面临的“艰难时代”对年轻人的影响，并警示艰难时代也是危险时代，因为恐惧易滋生服从，导致极权统治。文章强调，个人不应放弃对自己、对亲友的责任，要保持清醒和警醒，通过从小事做起、走出舒适区来磨砺坚强意志，拒绝成为助长坏人的“软弱的人”，从而为未来好时代的到来做好准备。
+tags:
+- individual-responsibility
+- personal-resilience
+- societal
+- time
+- totalitarianism
+title: 艰难时代与危险社会：个人坚韧的抉择
 ---
 
 ### 历史的循环：艰难、坚强与软弱

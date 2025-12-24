@@ -1,55 +1,55 @@
 ---
-author: 记者易速利
+area: society-systems
+category: general
+companies_orgs:
+- FBI
+- JPMorgan Chase
+- Harvard Law School
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《破碎寻求正义》
+- 《亿万富翁的花花公子俱乐部》
+- 《无依无靠的女孩》
+- 《保守》
+people:
+- Donald Trump
+- Mike Johnson
+- John Thune
+- Virginia Giuffre
+- Rina Oh
+- Lisa Phillips
+- Mary Cattoni
+- Brad Edwards
+- Ghislaine Maxwell
+- Prince Andrew
+- Alan Dershowitz
+- Sarah Kellen
+- Jean-Luc Brunel
+- Sharon Stone
+- Monica Bellucci
+- Jeffrey Epstein
+products_models: []
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=WiS5ftYL4J4
 speaker: 记者易速利
-tags:
-  - epstein-scandal
-  - victim-compensation
-  - legal-challenges
-  - victim-perpetrator-duality
-  - political-transparency
-title: 爱泼斯坦案深度解析：吴丽娜的复杂角色与受害者赔偿基金的挑战
-summary: 本文深入探讨了杰弗里·爱泼斯坦案的复杂性，特别是亚裔受害者吴丽娜的独特经历。她曾是性虐待的受害者，却也扮演了招募者的角色，这与另一关键受害者弗吉尼亚·朱弗雷的公开冲突，揭示了案件中受害者与加害者身份交织的困境。文章还分析了爱泼斯坦档案公布的政治博弈、受害者赔偿基金的运作机制，以及司法系统在处理此类案件时，尤其是在界定“受害者-共谋者”二元角色时所面临的严峻挑战。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Donald Trump
-  - Mike Johnson
-  - John Thune
-  - Virginia Giuffre
-  - Rina Oh
-  - Lisa Phillips
-  - Mary Cattoni
-  - Brad Edwards
-  - Ghislaine Maxwell
-  - Prince Andrew
-  - Alan Dershowitz
-  - Sarah Kellen
-  - Jean-Luc Brunel
-  - Sharon Stone
-  - Monica Bellucci
-  - Jeffrey Epstein
-companies_orgs:
-  - FBI
-  - JPMorgan Chase
-  - Harvard Law School
-products_models: []
-media_books:
-  - 《破碎寻求正义》
-  - 《亿万富翁的花花公子俱乐部》
-  - 《无依无靠的女孩》
-  - 《保守》
 status: evergreen
+summary: 本文深入探讨了杰弗里·爱泼斯坦案的复杂性，特别是亚裔受害者吴丽娜的独特经历。她曾是性虐待的受害者，却也扮演了招募者的角色，这与另一关键受害者弗吉尼亚·朱弗雷的公开冲突，揭示了案件中受害者与加害者身份交织的困境。文章还分析了爱泼斯坦档案公布的政治博弈、受害者赔偿基金的运作机制，以及司法系统在处理此类案件时，尤其是在界定“受害者-共谋者”二元角色时所面临的严峻挑战。
+tags:
+- challenge
+- epstein-scandal
+- political
+- victim-compensation
+- victim-perpetrator-duality
+title: 爱泼斯坦案深度解析：吴丽娜的复杂角色与受害者赔偿基金的挑战
 ---
+
 ### 爱泼斯坦档案公布的政治博弈与法律困境
 
 在全力劝阻国会众议院共和党人之后，周日晚上唐纳德·特朗普改变了说法，表示支持他们要求公布爱泼斯坦文件的请求。这表明他希望保持共和党起码表面上的团结，不希望对立发展到无法调和的程度。特朗普也强调“无可隐瞒”，希望摆脱这件事情，因为美国的确还有太多更重要的议题期待应对。

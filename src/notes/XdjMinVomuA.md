@@ -1,53 +1,53 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- 伯克希尔·哈撒韦
+- 西方石油公司
+- Chevron
+- 伯克希尔·哈撒韦能源
+- 圣达菲铁路公司
+- GEICO
+- Hathaway Reinsurance Group
+- Berkshire Hathaway Primary Group
+- 藤忠商事
+- 丸红
+- 三菱商事
+- 三井物业
+- 住友商事
 date: '2024-03-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 沃伦·巴菲特
+- 查理·芒格
+- Hugh McCulloch
+- Vicki Hollub
+- Ajit Jain
+- Greg Abel
+products_models: []
+project:
+- investment-strategy
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=XdjMinVomuA
 speaker: Shijun Tang
-tags:
-  - investment-philosophy
-  - unrealized-gains
-  - moat-protection
-  - long-term-holding
-  - regulatory-risk
-title: 2023伯克希尔股东信深度解析：查理·芒格的遗产、投资哲学与能源布局
-summary: 本文逐句解析巴菲特2023年致股东信，深入探讨查理·芒格对伯克希尔的奠基性影响、反对非现实净利润计算、投资原则‘永不亏损本金’、对西方石油与日本五大商社的战略布局，以及铁路与能源业务的现实挑战。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - historical-insights
-  - market-cycles
-people:
-  - 沃伦·巴菲特
-  - 查理·芒格
-  - Hugh McCulloch
-  - Vicki Hollub
-  - Ajit Jain
-  - Greg Abel
-companies_orgs:
-  - 伯克希尔·哈撒韦
-  - 西方石油公司
-  - Chevron
-  - 伯克希尔·哈撒韦能源
-  - 圣达菲铁路公司
-  - GEICO
-  - Hathaway Reinsurance Group
-  - Berkshire Hathaway Primary Group
-  - 藤忠商事
-  - 丸红
-  - 三菱商事
-  - 三井物业
-  - 住友商事
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文逐句解析巴菲特2023年致股东信，深入探讨查理·芒格对伯克希尔的奠基性影响、反对非现实净利润计算、投资原则‘永不亏损本金’、对西方石油与日本五大商社的战略布局，以及铁路与能源业务的现实挑战。
+tags:
+- investment
+- investment-philosophy
+- llm
+- long
+- risk
+title: 2023伯克希尔股东信深度解析：查理·芒格的遗产、投资哲学与能源布局
 ---
+
 ### 查理·芒格：伯克希尔的建筑师
 
 每年，巴菲特都会通过致股东信传递其投资哲学与企业经营智慧。2023年的这封信，因查理·芒格于同年11月逝世而显得格外厚重。巴菲特开篇即用整段文字缅怀这位合伙人，称其为“伯克希尔·哈撒韦的建筑师”。

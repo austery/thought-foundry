@@ -1,54 +1,53 @@
 ---
-author: 知行小酒馆
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Berkshire Hathaway
+- Apple
+- Coca-Cola
+- BYD
+- GEICO
+- Morningstar
+- Vanguard
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《滚雪球》
+- Journal of Financial Analysts
+people:
+- Warren Buffett
+- Charlie Munger
+- Eugene Fama
+- Kenneth French
+- Li Lu
+- Bill Ackman
+- Bill Gates
+- Joe Mansueto
+- Ted Seides
+- Jack Bogle
+products_models:
+- S&P 500
+- Fama-French three-factor model
+project:
+- investment-strategy
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=irzWv0uq1DM
 speaker: 知行小酒馆
-tags:
-  - factor-investing
-  - alpha-and-beta
-  - free-leverage
-  - investment-discipline
-  - value-investing
-title: 科学拆解巴菲特：传奇收益背后的阿尔法、贝塔与“免费杠杆”
-summary: 本文深入探讨了沃伦·巴菲特长达42年传奇投资收益的构成。通过“阿尔法+贝塔-成本”的量化模型，我们不仅分析了价值、规模、动量等传统因子，还引入了高质量和低波动因子，揭示了其超额收益的来源。文章重点剖析了巴菲特成功的关键——源自保险业务的“免费杠杆”，并解释了为何他的“阿尔法”在今天已逐渐转变为市场共识的“贝塔”，为普通投资者提供了深刻的启示。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - historical-insights
-people:
-  - Warren Buffett
-  - Charlie Munger
-  - Eugene Fama
-  - Kenneth French
-  - Li Lu
-  - Bill Ackman
-  - Bill Gates
-  - Joe Mansueto
-  - Ted Seides
-  - Jack Bogle
-companies_orgs:
-  - Berkshire Hathaway
-  - Apple
-  - Coca-Cola
-  - BYD
-  - GEICO
-  - Morningstar
-  - Vanguard
-products_models:
-  - S&P 500
-  - Fama-French three-factor model
-media_books:
-  - 《滚雪球》
-  - Journal of Financial Analysts
 status: evergreen
+summary: 本文深入探讨了沃伦·巴菲特长达42年传奇投资收益的构成。通过“阿尔法+贝塔-成本”的量化模型，我们不仅分析了价值、规模、动量等传统因子，还引入了高质量和低波动因子，揭示了其超额收益的来源。文章重点剖析了巴菲特成功的关键——源自保险业务的“免费杠杆”，并解释了为何他的“阿尔法”在今天已逐渐转变为市场共识的“贝塔”，为普通投资者提供了深刻的启示。
+tags:
+- alpha-and-beta
+- free
+- investing
+- investment
+title: 科学拆解巴菲特：传奇收益背后的阿尔法、贝塔与“免费杠杆”
 ---
+
 ### 引言：能否用模型真正拆解巴菲特？
 
 欢迎来到知行小酒馆，这是一档由知有行出品的播客节目，我们关注投资，更关注如何更好地生活。

@@ -7,14 +7,13 @@ category: finance
 project:
 - us-analysis
 tags:
-  - 经济影响
-  - 美国政治
+- financial
+- us-politics
 people:
-  - Ezra Klein
-  - Catherine Rampell
+- Ezra Klein
+- Catherine Rampell
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-05-25'
 author: Lei
 speaker: ''
@@ -25,6 +24,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 # Why Ezra Klein is So F\*\*\*ing Angry (with Democrats)
 
 ## 嘉宾介绍与节目开场

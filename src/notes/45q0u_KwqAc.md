@@ -1,47 +1,45 @@
 ---
-author: TechButMakeItReal
+area: tech-insights
+category: technology
+companies_orgs:
+- Goldman Sachs
+- Crowdstrike
+- Reddit
+- Gartner
+- ISC2
+- Microsoft
+- Amazon
+- Meta
+- Dark Trace
 date: '2025-07-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- clot code
+- WordPress
+- ChatGPT
+- Perplexity
+- LLM
+project:
+- ai-impact-analysis
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=45q0u_KwqAc
 speaker: TechButMakeItReal
-tags:
-  - ai-automation
-  - cybersecurity-jobs
-  - skill-gap
-  - workforce-evolution
-  - threat-intelligence
-title: 人工智能时代：网络安全职位是消亡还是升级？
-summary: 本文深入探讨了人工智能对网络安全行业的影响，驳斥了AI将大规模取代网络安全职位的普遍担忧。通过分析实际部署数据、市场趋势和历史演变，文章揭示了AI如何自动化重复性任务，同时催生了更复杂、更关键的新型安全角色。它强调了网络安全领域对高级技能和适应性人才的持续需求，并为初级专家提供了未来职业发展的具体方向，指出该领域正经历一场升级而非淘汰。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - us-analysis
-people: []
-companies_orgs:
-  - Goldman Sachs
-  - Crowdstrike
-  - Reddit
-  - Gartner
-  - ISC2
-  - Microsoft
-  - Amazon
-  - Meta
-  - Dark Trace
-products_models:
-  - clot code
-  - WordPress
-  - ChatGPT
-  - Perplexity
-  - LLM
-media_books: []
 status: evergreen
+summary: 本文深入探讨了人工智能对网络安全行业的影响，驳斥了AI将大规模取代网络安全职位的普遍担忧。通过分析实际部署数据、市场趋势和历史演变，文章揭示了AI如何自动化重复性任务，同时催生了更复杂、更关键的新型安全角色。它强调了网络安全领域对高级技能和适应性人才的持续需求，并为初级专家提供了未来职业发展的具体方向，指出该领域正经历一场升级而非淘汰。
+tags:
+- ai-automation
+- evolution
+- intelligence
+- skill
+- technology
+title: 人工智能时代：网络安全职位是消亡还是升级？
 ---
+
 ### 人工智能时代的网络安全：炒作与现实
 
 网络安全是下一个被颠覆的领域。这是当前所有文章、图表和**人工智能**（Artificial Intelligence: 模拟人类智能的机器系统）炒作新闻背后的潜台词。

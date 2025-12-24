@@ -1,34 +1,33 @@
 ---
-author: TED
+area: personal-systems
+category: psychology
+companies_orgs:
+- TED
+- corporate America
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Timm Chiusano
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=ptiYMxOVgRs
 speaker: TED
-tags:
-  - appreciation
-  - brain-rewiring
-  - mindset
-  - gratitude
-  - daily-practice
-title: 重塑大脑的日常练习：拥抱欣赏的力量
-summary: TED演讲者 Timm Chiusano 分享了他如何通过“欣赏”这一日常练习来重塑大脑、提升生活品质。他区分了欣赏与感恩，强调欣赏是一种主动识别和珍视事物美好品质的行为，能带来持续的快乐、专注和能量。通过具体案例，如井盖、灯泡和人际关系，他展示了如何将欣赏融入生活，从而解锁更积极的人生体验。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Timm Chiusano
-companies_orgs:
-  - TED
-  - corporate America
-products_models: []
-media_books: []
 status: evergreen
+summary: TED演讲者 Timm Chiusano 分享了他如何通过“欣赏”这一日常练习来重塑大脑、提升生活品质。他区分了欣赏与感恩，强调欣赏是一种主动识别和珍视事物美好品质的行为，能带来持续的快乐、专注和能量。通过具体案例，如井盖、灯泡和人际关系，他展示了如何将欣赏融入生活，从而解锁更积极的人生体验。
+tags:
+- brain
+- code
+- gratitude
+- llm
+- mindset
+title: 重塑大脑的日常练习：拥抱欣赏的力量
 ---
+
 ### 沉迷于欣赏：一次重塑大脑的TED演讲
 
 大家好，我叫蒂姆。我沉迷于欣赏。我知道这听起来很奇怪。但如果我在接下来的八分钟左右做好我的工作，你们将再也不会以同样的方式看待任何事物。这都要归功于我在2018年一个糟糕的日子里看到的一个井盖。

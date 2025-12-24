@@ -1,61 +1,60 @@
 ---
-author: 投资TALK君
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Richland Capital
+- Berkshire Hathaway
+- Apple
+- Google
+- Alibaba Group
+- Yahoo
+- NetEase
+- Tesla
+- Vivo
+- Oppo
+- 小霸王
+- 步步高
+- Nvidia
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国王之道》
+- 王毅博客
+- 雪球
+- 《中国经营者》
+people:
+- Warren Buffett
+- Charlie Munger
+- Greg Abel
+- Duan Yongping
+- Elon Musk
+- Tim Cook
+- Jensen Huang
+- 罗振宇
+- 李录
+products_models:
+- Model 3
+- FSD
+project:
+- investment-strategy
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=TMWK9960dwM
 speaker: 投资TALK君
-tags:
-  - value-investing
-  - investment-philosophy
-  - circle-of-competence
-  - margin-of-safety
-  - long-term-investing
-title: 巴菲特谢幕信与段永平访谈：价值投资理念如何塑造我的投资人生
-summary: 本期节目中，Richland Capital创始人兼投资经理刘宁分享了巴菲特的谢幕信和段永平的最新访谈对他投资生涯的深远影响。刘宁深入解读了巴菲特的价值投资核心理念，包括能力圈、护城河与安全边际，并探讨了伯克希尔哈撒韦的继任问题。同时，他详细阐述了段永平的投资哲学，特别是其企业家思维在阿里巴巴和苹果投资中的应用，以及对马斯克性格与公司愿景的看法。刘宁强调，价值投资是唯一正确的长期获胜方法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Warren Buffett
-  - Charlie Munger
-  - Greg Abel
-  - Duan Yongping
-  - Elon Musk
-  - Tim Cook
-  - Jensen Huang
-  - 罗振宇
-  - 李录
-companies_orgs:
-  - Richland Capital
-  - Berkshire Hathaway
-  - Apple
-  - Google
-  - Alibaba Group
-  - Yahoo
-  - NetEase
-  - Tesla
-  - Vivo
-  - Oppo
-  - 小霸王
-  - 步步高
-  - Nvidia
-products_models:
-  - Model 3
-  - FSD
-media_books:
-  - 《国王之道》
-  - 王毅博客
-  - 雪球
-  - 《中国经营者》
 status: evergreen
+summary: 本期节目中，Richland Capital创始人兼投资经理刘宁分享了巴菲特的谢幕信和段永平的最新访谈对他投资生涯的深远影响。刘宁深入解读了巴菲特的价值投资核心理念，包括能力圈、护城河与安全边际，并探讨了伯克希尔哈撒韦的继任问题。同时，他详细阐述了段永平的投资哲学，特别是其企业家思维在阿里巴巴和苹果投资中的应用，以及对马斯克性格与公司愿景的看法。刘宁强调，价值投资是唯一正确的长期获胜方法。
+tags:
+- circle-of-competence
+- investment-philosophy
+- long-term-investing
+- safety
+title: 巴菲特谢幕信与段永平访谈：价值投资理念如何塑造我的投资人生
 ---
+
 ### 引言：巴菲特与段永平对投资人生的影响
 
 投资TALK君: 大家好，今天我们有幸请到Richland Capital的**PM**（Portfolio Manager: 投资组合经理）刘宁刘总。相信大家对他应该不陌生，我们之前在线上和专题访谈中也合作过好几次。今天，我们借由前段时间巴菲特的谢幕信和段永平的一段采访，在刘总的办公室里，针对这两位投资界巨擘近期的一些动向进行一次访谈。通过我与刘总的交流，我知道他们两人对您整个的投资框架和经历都有非常大的影响。我希望我们能从这次对话中获益。首先，刘总要不要先和我们介绍一下您自己？

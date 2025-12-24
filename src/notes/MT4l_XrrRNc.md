@@ -1,50 +1,50 @@
 ---
-author: a16z
+area: personal-systems
+category: productivity
+companies_orgs:
+- Thumbtac
+- White House
+- Sequoia
+- Stanford
+- OpenAI
+- Weebly
+- PayPal
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- How You Measure Your Life
+people:
+- Jonathan Sacks
+- Eric
+- Brian Johnson
+- Mark Andreessen
+- Peter Thiel
+- Elon Musk
+- Sam Altman
+- Bill Gates
+- Keith Rabois
+products_models:
+- Chat GPT
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=MT4l_XrrRNc
 speaker: a16z
-tags:
-  - delegation
-  - leverage
-  - time-management
-  - human-ai-collaboration
-  - goal-setting
-title: 每个人都需要助理：为什么授权和杠杆是成功的关键
-summary: 本文探讨了个人和企业如何通过有效授权（Delegation）实现指数级增长。嘉宾分享了从白宫行政助理经验到现代AI工具赋能的实践框架，强调了长期合作、算法式授权以及区分人类与机器角色的重要性，以最大化个人杠杆和时间价值。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Jonathan Sacks
-  - Eric
-  - Brian Johnson
-  - Mark Andreessen
-  - Peter Thiel
-  - Elon Musk
-  - Sam Altman
-  - Bill Gates
-  - Keith Rabois
-companies_orgs:
-  - Thumbtac
-  - White House
-  - Sequoia
-  - Stanford
-  - OpenAI
-  - Weebly
-  - PayPal
-products_models:
-  - Chat GPT
-media_books:
-  - How You Measure Your Life
 status: evergreen
+summary: 本文探讨了个人和企业如何通过有效授权（Delegation）实现指数级增长。嘉宾分享了从白宫行政助理经验到现代AI工具赋能的实践框架，强调了长期合作、算法式授权以及区分人类与机器角色的重要性，以最大化个人杠杆和时间价值。
+tags:
+- delegation
+- goal-setting
+- human-ai-collaboration
+- technology
+- time-management
+title: 每个人都需要助理：为什么授权和杠杆是成功的关键
 ---
+
 ### 时间：终极资产与个人杠杆
 
 关于布莱恩·约翰逊（Brian Johnson）想要打破生物学的束缚，而我（嘉宾）想要打破时间的束缚。我们总能再筹集一轮资金或再做一笔交易，但我们无法再争取一个十年。

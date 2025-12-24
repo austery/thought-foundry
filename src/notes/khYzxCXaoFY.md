@@ -1,45 +1,45 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- Stanford Research Institute
+- 初日醫學
+- Cofit
+- 廣州的第一軍醫大學
 date: '2025-06-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《針灸真髓》
+- 《黃帝內經》
+- 《針灸》
+- 【胡乃文的生活中醫養生課】
+people:
+- 胡乃文
+- 宋晏仁
+- Felix Mann
+- 原林
+- 鍾院士
+- 澤田
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=khYzxCXaoFY
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - tcm-acupuncture
-  - acupressure
-  - wellness-tips
-  - sleep-improvement
-  - weight-management
-title: 胡乃文醫師談中醫穴位養生：助眠、減重、降血壓與更多日常保健
-summary: 本期《初日會客室》邀請胡乃文醫師，深入探討中醫穴位在日常保健中的應用。胡醫師從中西醫結合的角度，解釋穴位如何誘發氣血反應，並分享多個實用穴位，涵蓋助眠（神門穴）、止痛（止痛穴）、排便（孔最穴）、視力保健（鳳眼穴）、緩解肩頸痠痛（尺澤穴）、改善經痛（太沖穴）及兒童流鼻涕（上心穴）。節目中也探討中醫對肥胖、過敏、禿頭、月經失調及低碳飲食的獨特見解，為觀眾提供全面的中醫養生知識。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 胡乃文
-  - 宋晏仁
-  - Felix Mann
-  - 原林
-  - 鍾院士
-  - 澤田
-companies_orgs:
-  - Stanford Research Institute
-  - 初日醫學
-  - Cofit
-  - 廣州的第一軍醫大學
-products_models: []
-media_books:
-  - 《針灸真髓》
-  - 《黃帝內經》
-  - 《針灸》
-  - 【胡乃文的生活中醫養生課】
 status: evergreen
+summary: 本期《初日會客室》邀請胡乃文醫師，深入探討中醫穴位在日常保健中的應用。胡醫師從中西醫結合的角度，解釋穴位如何誘發氣血反應，並分享多個實用穴位，涵蓋助眠（神門穴）、止痛（止痛穴）、排便（孔最穴）、視力保健（鳳眼穴）、緩解肩頸痠痛（尺澤穴）、改善經痛（太沖穴）及兒童流鼻涕（上心穴）。節目中也探討中醫對肥胖、過敏、禿頭、月經失調及低碳飲食的獨特見解，為觀眾提供全面的中醫養生知識。
+tags:
+- canada
+- health
+- tcm-acupuncture
+- weight-management
+- wellness-tip
+title: 胡乃文醫師談中醫穴位養生：助眠、減重、降血壓與更多日常保健
 ---
+
 ### 中西醫觀點的交會：從神經學與筋膜學看穴位
 
 **宋晏仁醫師:** 嗨，大家好，我是宋晏仁醫師，歡迎您來到初日會客室。我們頻道很少邀訪中醫師，但是中醫師有很多的觀念跟我們自然療法其實有很多相同之處。所以今天為您邀訪的是胡乃文醫師。胡醫師你好。

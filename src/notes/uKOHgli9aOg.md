@@ -1,45 +1,44 @@
 ---
-author: Joseph Wang
+area: market-analysis
+category: finance
+companies_orgs:
+- Bank of America
+- Truist
+- US Bank
+- JP Morgan
+- American Express
+- Blackstone
+- Polo Capital
+- Atlanta Fed
+- Fed
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Fed's Beige Book
+people:
+- President Putin
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=uKOHgli9aOg
 speaker: Joseph Wang
-tags:
-  - regional-banks
-  - credit-quality
-  - shadow-banking
-  - economic-indicators
-  - gold-silver-rally
-title: 市场周报：区域银行风险、经济现状与黄金白银的抛物线式上涨
-summary: 本期《市场周报》深入分析了当前金融市场的多个关键动态。首先，探讨了近期区域银行面临的信贷担忧，并结合大型银行的财报数据，评估了系统性风险。其次，节目揭示了后金融危机时代影子银行的崛起，以及其对传统银行信贷风险转移的影响。此外，还通过私人数据源审视了美国经济的现状，特别是劳动力数据与GDP增长之间的背离。最后，重点分析了黄金和白银的抛物线式上涨，探讨了其背后的驱动因素，并警示了潜在的回调风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - geopolitics-watch
-people:
-  - Joseph Wang
-  - President Putin
-companies_orgs:
-  - Bank of America
-  - Truist
-  - US Bank
-  - JP Morgan
-  - American Express
-  - Blackstone
-  - Polo Capital
-  - Atlanta Fed
-  - Fed
-products_models: []
-media_books:
-  - Fed's Beige Book
 status: evergreen
+summary: 本期《市场周报》深入分析了当前金融市场的多个关键动态。首先，探讨了近期区域银行面临的信贷担忧，并结合大型银行的财报数据，评估了系统性风险。其次，节目揭示了后金融危机时代影子银行的崛起，以及其对传统银行信贷风险转移的影响。此外，还通过私人数据源审视了美国经济的现状，特别是劳动力数据与GDP增长之间的背离。最后，重点分析了黄金和白银的抛物线式上涨，探讨了其背后的驱动因素，并警示了潜在的回调风险。
+tags:
+- credit
+- economic-indicator
+- financial
+- gold-silver-rally
+- regional-bank
+title: 市场周报：区域银行风险、经济现状与黄金白银的抛物线式上涨
 ---
+
 ### 市场概览与政府停摆影响
 
 大家好，今天是10月18日，这里是《市场周报》。过去一周市场波动剧烈，但如果将时间拉长到过去几个月，股市似乎只会上涨，而现在则出现了双向风险，有时也会下跌。这或许表明市场情绪有所转变。

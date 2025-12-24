@@ -1,46 +1,46 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: culture
+companies_orgs:
+- New York Times Podcasts
+- Netflix
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Mistress Dispeller
+- How to Get Rich
+- Modern Love
+people:
+- Anna Martin
+- Rammit Sati
+- Elizabeth Low
+- Teacher Wang
+- Mrs. Lee
+- Mr. Lee
+- Feay
+products_models:
+- How to Get Rich
+project:
+- china-analysis
+- cultural-critique
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=1ZQ6ktAkChc
 speaker: New York Times Podcasts
-tags:
-  - mistress-dispelling
-  - infidelity
-  - relationship-dynamics
-  - chinese-culture
-  - emotional-labor
-title: 中国“小三劝退师”：一段关于爱、背叛与自我价值的旅程
-summary: 本期播客深入探讨了中国新兴的“小三劝退师”行业，通过纪录片导演伊丽莎白·洛的视角，揭示了这些专业人士如何通过巧妙的心理策略，在不直接对抗的情况下解决婚外情。节目详细介绍了王老师劝退小三的独特方法，以及她对婚外情中各方痛苦的深刻见解。洛导演还分享了她个人感情经历如何被王老师的“预言”所影响，最终反思了爱、自我价值和关系中的成熟。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-  - personal-growth-lab
-people:
-  - Anna Martin
-  - Rammit Sati
-  - Elizabeth Low
-  - Teacher Wang
-  - Mrs. Lee
-  - Mr. Lee
-  - Feay
-companies_orgs:
-  - New York Times Podcasts
-  - Netflix
-products_models:
-  - How to Get Rich
-media_books:
-  - Mistress Dispeller
-  - How to Get Rich
-  - Modern Love
 status: evergreen
+summary: 本期播客深入探讨了中国新兴的“小三劝退师”行业，通过纪录片导演伊丽莎白·洛的视角，揭示了这些专业人士如何通过巧妙的心理策略，在不直接对抗的情况下解决婚外情。节目详细介绍了王老师劝退小三的独特方法，以及她对婚外情中各方痛苦的深刻见解。洛导演还分享了她个人感情经历如何被王老师的“预言”所影响，最终反思了爱、自我价值和关系中的成熟。
+tags:
+- culture
+- infidelity
+- labor
+- psychology
+- relationship-dynamic
+title: 中国“小三劝退师”：一段关于爱、背叛与自我价值的旅程
 ---
+
 ### 播客预告：金钱与亲密关系
 
 主持人安娜·马丁：大家好，我是安娜。在我们节目开始之前，我想问大家一个问题，如果听起来有点直接，请不要介意。

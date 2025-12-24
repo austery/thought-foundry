@@ -1,41 +1,41 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 苹果
+- 富士康
+- 北约
+- 欧盟
 date: '2025-05-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《阿甘经济宏观论》
+people:
+- 刘鹤
+- 莫迪
+products_models:
+- F-10
+project:
+- us-analysis
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=8XOfRba4wro
 speaker: 海淀拙大叔
-tags:
-  - long-wave-cycles
-  - proxy-wars
-  - resource-competition
-  - geopolitical-conflict
-  - military-industry
-title: 阿甘经济宏观论：印巴冲突的深层逻辑与军工投资机会
-summary: 本期节目深入探讨印巴冲突，将其置于全球经济长波周期和资源争夺的背景下，分析其长期战争的实质。节目指出，这场冲突是印度针对巴基斯坦和中国经济总体战的一部分，并可能演变为一系列代理人战争。同时，主持人重新评估了军工股的投资价值，认为在全球地缘政治紧张加剧的背景下，军工产业可能迎来新的增长机遇。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - investment-strategy
-people:
-  - 刘鹤
-  - 莫迪
-companies_orgs:
-  - 苹果
-  - 富士康
-  - 北约
-  - 欧盟
-products_models:
-  - F-10
-media_books:
-  - 《阿甘经济宏观论》
 status: evergreen
+summary: 本期节目深入探讨印巴冲突，将其置于全球经济长波周期和资源争夺的背景下，分析其长期战争的实质。节目指出，这场冲突是印度针对巴基斯坦和中国经济总体战的一部分，并可能演变为一系列代理人战争。同时，主持人重新评估了军工股的投资价值，认为在全球地缘政治紧张加剧的背景下，军工产业可能迎来新的增长机遇。
+tags:
+- competition
+- cycle
+- geopolitical-conflict
+- industry
+- war
+title: 阿甘经济宏观论：印巴冲突的深层逻辑与军工投资机会
 ---
+
 ### 印巴冲突：长期战争的实质与军工股的再思考
 
 《阿甘经济宏观论》第18集将探讨印巴冲突，并分析其可能演变为长期战争的趋势，同时讨论军工股是否值得长期投资。过去，军工股并不被看好，主要原因有二：一是军工股的毛利率通常固定，因为其客户单一；二是军工股的需求增长难以预测。然而，此次印巴冲突之后，军工产业值得重新审视。

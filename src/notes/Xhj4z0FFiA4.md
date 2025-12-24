@@ -1,38 +1,36 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: culture
+companies_orgs:
+- Shandong University
 date: '2025-09-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Andrew Huberman
+- Adam Carolla
+- Daniel Bell
+- Zhao Ting
+products_models:
+- Starlink
+project:
+- us-analysis
+- china-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=Xhj4z0FFiA4
 speaker: 徒步的騎手
-tags:
-  - cultural-comparison
-  - individualism
-  - government-citizen-relations
-  - life-philosophy
-  - pursuit-of-happiness
-title: 逃离山东，认同得州：两种文化下的个体选择与自由精神
-summary: 作者通过对比在山东和得州各生活二十年的经历，深入剖析了两种截然不同的文化心态。他认为，山东文化强调顺从与集体，而得州文化则崇尚个人自由和不畏惧权威的精神。通过引用亚当·卡罗拉的评论和亲身带枪进入州议会大厦的经历，作者阐释了得州人独特的精神气质。文章最终回归到“清水洗脸，浑水洗脚”的个人选择哲学，探讨了在不同社会环境下，个体如何追寻属于自己的幸福与生活方式。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - cultural-critique
-people:
-  - Andrew Huberman
-  - Adam Carolla
-  - Daniel Bell
-  - Zhao Ting
-companies_orgs:
-  - Shandong University
-products_models:
-  - Starlink
-media_books: []
 status: evergreen
+summary: 作者通过对比在山东和得州各生活二十年的经历，深入剖析了两种截然不同的文化心态。他认为，山东文化强调顺从与集体，而得州文化则崇尚个人自由和不畏惧权威的精神。通过引用亚当·卡罗拉的评论和亲身带枪进入州议会大厦的经历，作者阐释了得州人独特的精神气质。文章最终回归到“清水洗脸，浑水洗脚”的个人选择哲学，探讨了在不同社会环境下，个体如何追寻属于自己的幸福与生活方式。
+tags:
+- cultural
+- financial
+- government
+- individualism
+- life-philosophy
+title: 逃离山东，认同得州：两种文化下的个体选择与自由精神
 ---
 
 ### 户外生活与冷水澡的启示

@@ -1,49 +1,48 @@
 ---
-author: a16z
+area: tech-insights
+category: technology
+companies_orgs:
+- ElevenLabs
+- a16z
+- Hypocratic
+- Merlin
+- Cobalt
+- Deutsche Telecom
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Maddie
+- P
+- Jared
+- Munjal
+- Martin Casado
+products_models:
+- voice marketplace
+- text to speech models
+- speech to text models
+- music model
+- AI agent platform
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=ZqCEHR4wjxg
 speaker: a16z
-tags:
-  - ai-voice
-  - product-development
-  - organizational-culture
-  - market-adaptation
-  - enterprise-strategy
-title: ElevenLabs CEO：声音如何成为下一个AI界面
-summary: ElevenLabs CEO Maddie分享了公司在AI语音领域的创新、产品开发策略及全球化人才建设经验。他详细阐述了如何平衡模型研究与产品发布，通过小型团队实现快速迭代，以及在创意产业和企业级市场中与客户及合作伙伴建立信任。Maddie还探讨了公司扁平化管理、激励机制的演变，以及在AI伦理和商业化挑战中的应对策略。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Maddie
-  - P
-  - Jared
-  - Munjal
-  - Martin Casado
-companies_orgs:
-  - ElevenLabs
-  - a16z
-  - Hypocratic
-  - Merlin
-  - Cobalt
-  - Deutsche Telecom
-products_models:
-  - voice marketplace
-  - text to speech models
-  - speech to text models
-  - music model
-  - AI agent platform
-media_books: []
 status: evergreen
+summary: ElevenLabs CEO Maddie分享了公司在AI语音领域的创新、产品开发策略及全球化人才建设经验。他详细阐述了如何平衡模型研究与产品发布，通过小型团队实现快速迭代，以及在创意产业和企业级市场中与客户及合作伙伴建立信任。Maddie还探讨了公司扁平化管理、激励机制的演变，以及在AI伦理和商业化挑战中的应对策略。
+tags:
+- llm
+- market
+- organizational-culture
+- product-development
+- strategy
+title: ElevenLabs CEO：声音如何成为下一个AI界面
 ---
+
 ### ElevenLabs：声音AI的创新与产品版图
 
 我们不希望变得像上一代编辑套件那样。

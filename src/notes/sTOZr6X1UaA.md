@@ -1,32 +1,31 @@
 ---
-author: 政經孫老師
+area: tech-work
+category: ai-ml
+companies_orgs:
+- ''
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《戰爭論》
+people:
+- ''
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=sTOZr6X1UaA
 speaker: 政經孫老師
-tags:
-  - llm
-  - china-taiwan
-  - warfare-strategy
-title: 中國為何無法武統台灣？《戰爭論》已經告訴我們答案！
-summary: 中國武統台灣的可能性非常低，爆發戰爭受害最深的反而是中國人。根據克勞塞維茨的戰爭論，戰爭具有三位一體屬性：暴力性、蓋然性和政治性。中國經濟困境和國內政治不穩定性增加，未來或以戰爭手段解決問題，但台灣的安全性相對較高。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - ''
-companies_orgs:
-  - ''
-products_models: []
-media_books:
-  - 《戰爭論》
 status: evergreen
+summary: 中國武統台灣的可能性非常低，爆發戰爭受害最深的反而是中國人。根據克勞塞維茨的戰爭論，戰爭具有三位一體屬性：暴力性、蓋然性和政治性。中國經濟困境和國內政治不穩定性增加，未來或以戰爭手段解決問題，但台灣的安全性相對較高。
+tags:
+- china
+- strategy
+title: 中國為何無法武統台灣？《戰爭論》已經告訴我們答案！
 ---
+
 ### 中國為何無法武統台灣？《戰爭論》已經告訴我們答案！如果爆發戰爭，受害最深的反而是中國人
 
 稻村佬 今天節目來討論一下

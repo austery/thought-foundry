@@ -1,74 +1,74 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 光线传媒集团
+- 泡泡玛特
+- 三丽鸥
+- Kiddy Land
+- 小米集团
+- 联想集团
+- 百度集团
+- 苏富比
+- 佳士得
+- 华特迪士尼公司
+- 喜茶
+- 蜜雪冰城
+- 四通公司
 date: '2025-06-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《哪吒》
+- 《哪吒2》
+- 《泰坦尼克号》
+- 《阿凡达2水之道》
+- 《黑悟空》
+- 《三体》
+- 《流浪地球》
+- 彭博社
+- 纽约时报
+- Instagram
+- TikTok
+- YouTube
+- 《乡村爱情》
+- 《犹太人的智慧》
+- 《全球亿万富翁的致富秘诀》
+people:
+- 王长田
+- 傅作义
+- 刘少奇
+- Richard Nixon
+- Pat Nixon
+- 万润南
+- 段永基
+- 邓小平
+- 草间弥生
+- Andy Warhol
+- 王宁
+- Rihanna
+products_models:
+- Labubu
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=8l4ZqsMyaOo
 speaker: 張内咸
-tags:
-  - blind-box-economy
-  - capital-flight
-  - financial-system-dysfunction
-  - speculative-markets
-  - social-media-marketing
-title: 从《哪吒》票房到Labubu盲盒：透视中国畸形市场与资本出逃的深层逻辑
-summary: 本文深入剖析了中国电影市场《哪吒》票房的虚高现象，以及潮流玩偶Labubu的爆红背后，所折射出的中国金融体系的深层问题。文章揭示了中国银行体系的失能、风险投资的畸形发展、企业上市的“换钱”本质，以及资本寻求离岸的强烈冲动。通过泡泡玛特作为案例，探讨了在特定环境下，企业如何从“潮玩商铺”蜕变为“巨型怪胎”，并指出这背后是中国政府对市场经济态度含混不清的根本原因。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - 王长田
-  - 傅作义
-  - 刘少奇
-  - Richard Nixon
-  - Pat Nixon
-  - 万润南
-  - 段永基
-  - 邓小平
-  - 草间弥生
-  - Andy Warhol
-  - 王宁
-  - Rihanna
-companies_orgs:
-  - 光线传媒集团
-  - 泡泡玛特
-  - 三丽鸥
-  - Kiddy Land
-  - 小米集团
-  - 联想集团
-  - 百度集团
-  - 苏富比
-  - 佳士得
-  - 华特迪士尼公司
-  - 喜茶
-  - 蜜雪冰城
-  - 四通公司
-products_models:
-  - Labubu
-media_books:
-  - 《哪吒》
-  - 《哪吒2》
-  - 《泰坦尼克号》
-  - 《阿凡达2水之道》
-  - 《黑悟空》
-  - 《三体》
-  - 《流浪地球》
-  - 彭博社
-  - 纽约时报
-  - Instagram
-  - TikTok
-  - YouTube
-  - 《乡村爱情》
-  - 《犹太人的智慧》
-  - 《全球亿万富翁的致富秘诀》
 status: evergreen
+summary: 本文深入剖析了中国电影市场《哪吒》票房的虚高现象，以及潮流玩偶Labubu的爆红背后，所折射出的中国金融体系的深层问题。文章揭示了中国银行体系的失能、风险投资的畸形发展、企业上市的“换钱”本质，以及资本寻求离岸的强烈冲动。通过泡泡玛特作为案例，探讨了在特定环境下，企业如何从“潮玩商铺”蜕变为“巨型怪胎”，并指出这背后是中国政府对市场经济态度含混不清的根本原因。
+tags:
+- capital
+- economy
+- market
+- social
+- system
+title: 从《哪吒》票房到Labubu盲盒：透视中国畸形市场与资本出逃的深层逻辑
 ---
+
 ### 中国电影市场的魔幻现实
 
 不知不觉，2025年都快过去一半了，电影《哪吒》现在还在电影院里放映。5月初，《哪吒》全球票房已经突破了158亿，但多排了一个月片，票房数据却完全没变。这让领导似乎有些不高兴，所以最近的媒体文章标题都写得特别直白，称《哪吒2》票房只差7400万美元就能登顶全球第四。现在的第四名是《泰坦尼克号》，7400万美元折算成人民币是5.3亿。这似乎在暗示，需要想尽一切办法把这5.3亿凑出来。如果真能冲到全球第四，那么距离第三名《阿凡达2水之道》也只差4亿人民币，再努努力肯定能冲到前三。

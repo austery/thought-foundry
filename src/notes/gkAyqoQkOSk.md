@@ -1,71 +1,70 @@
 ---
-author: Hung-yi Lee
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Google
+- Moshi
+- Sesame
+- Meta
+- MediaTek
+- Amazon
+- NTU Cool
 date: '2025-05-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- LinkedIn
+people:
+- Wu Haibin
+- Tseng Liang-hsuan
+- Chen Yi-chang
+- Li Kuan-yi
+- Yang Chih-hai
+- Lin Kuan-ting
+- Roger
+- Jensen Huang
+products_models:
+- ChatGPT
+- GPT-4o
+- Gemini
+- GLM
+- STEP
+- Q1
+- KeyMe
+- Maya
+- Codec-SUPERB
+- DASB
+- AudioLM
+- VALLE
+- BERT
+- Twist
+- Breezy Voice
+- Spectron
+- Mini-Omni
+- Lamaomi
+- TASTE
+- Llama 3
+- Llama 3.2
+- Cool Whisper
+- NotebookLM
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=gkAyqoQkOSk
 speaker: Hung-yi Lee
-tags:
-  - speech-language-model
-  - speech-tokenization
-  - generative-ai
-  - hybrid-decoding
-title: 李宏毅深度解析：语音语言模型如何学会说话？从Token化到TASTE模型的演进
-summary: 本讲座深入探讨了语音语言模型（SLM）的发展历程。讲座首先阐释了SLM的核心挑战——如何将连续的语音信号转化为离散的Token，并分析了两种极端方案（语音识别与原始采样点）的利弊。随后，详细介绍了现代语音Tokenizer的两种主流技术：基于自监督学习模型的方法和神经语音编解码器（Neural Speech Codec）。讲座重点剖析了从零训练SLM的困难，并引出当前的主流范式：基于预训练的文本大模型进行改造。最后，隆重介绍了TASTE模型，一种创新的文本对齐语音Tokenization方法，它通过统一语音与文字Token的长度，显著简化了模型的训练过程。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Hung-yi Lee
-  - Wu Haibin
-  - Tseng Liang-hsuan
-  - Chen Yi-chang
-  - Li Kuan-yi
-  - Yang Chih-hai
-  - Lin Kuan-ting
-  - Roger
-  - Jensen Huang
-companies_orgs:
-  - OpenAI
-  - Google
-  - Moshi
-  - Sesame
-  - Meta
-  - MediaTek
-  - Amazon
-  - NTU Cool
-products_models:
-  - ChatGPT
-  - GPT-4o
-  - Gemini
-  - GLM
-  - STEP
-  - Q1
-  - KeyMe
-  - Maya
-  - Codec-SUPERB
-  - DASB
-  - AudioLM
-  - VALLE
-  - BERT
-  - Twist
-  - Breezy Voice
-  - Spectron
-  - Mini-Omni
-  - Lamaomi
-  - TASTE
-  - Llama 3
-  - Llama 3.2
-  - Cool Whisper
-  - NotebookLM
-media_books:
-  - LinkedIn
 status: evergreen
+summary: 本讲座深入探讨了语音语言模型（SLM）的发展历程。讲座首先阐释了SLM的核心挑战——如何将连续的语音信号转化为离散的Token，并分析了两种极端方案（语音识别与原始采样点）的利弊。随后，详细介绍了现代语音Tokenizer的两种主流技术：基于自监督学习模型的方法和神经语音编解码器（Neural
+  Speech Codec）。讲座重点剖析了从零训练SLM的困难，并引出当前的主流范式：基于预训练的文本大模型进行改造。最后，隆重介绍了TASTE模型，一种创新的文本对齐语音Tokenization方法，它通过统一语音与文字Token的长度，显著简化了模型的训练过程。
+tags:
+- hybrid-decoding
+- investment
+- model
+title: 李宏毅深度解析：语音语言模型如何学会说话？从Token化到TASTE模型的演进
 ---
+
 ### 引言：语音语言模型的兴起与挑战
 
 今天想和大家探讨的是语音语言模型的发展。在过去的课程中，我们已经讨论过如何利用类似语言模型的技术来实现影像生成，大家也知道影像生成技术最近非常热门。今天，我们将分享语音是如何通过类似的技术被创造出来的。

@@ -1,49 +1,49 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- IBM
+- Southwest Airlines
+- Progressive Insurance
+- Otus
+- Goldman Sachs
+- Nova Nordisk
+- Ferrari
 date: '2025-05-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Built to Last
+- Good to Great
+- Great by Choice
+- The Wall Street Transcript
+people:
+- Morten T. Hansen
+- Lou Gerstner
+- Howard Putnam
+- Roald Amundsen
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=JR7djfB-t-U
 speaker: Norges Bank Investment Management
-tags:
-  - company-excellence
-  - long-term-strategy
-  - organizational-principles
-  - innovation-experimentation
-  - leadership-choices
-title: 卓越公司的制胜之道：长期主义、核心坚守与持续创新
-summary: Morten T. Hansen教授基于数十年研究，揭示了卓越公司成功的核心原则。他强调了长期视角、与同行的比较分析、核心价值观与持续创新的双重性、清晰的运营模式以及实验精神的重要性。Hansen教授还驳斥了关于领导者魅力和运气的常见误解，指出伟大源于领导者明智的选择。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - historical-insights
-people:
-  - Morten T. Hansen
-  - Lou Gerstner
-  - Howard Putnam
-  - Roald Amundsen
-companies_orgs:
-  - Norges Bank Investment Management
-  - IBM
-  - Southwest Airlines
-  - Progressive Insurance
-  - Otus
-  - Goldman Sachs
-  - Nova Nordisk
-  - Ferrari
-products_models: []
-media_books:
-  - Built to Last
-  - Good to Great
-  - Great by Choice
-  - The Wall Street Transcript
 status: evergreen
+summary: Morten T. Hansen教授基于数十年研究，揭示了卓越公司成功的核心原则。他强调了长期视角、与同行的比较分析、核心价值观与持续创新的双重性、清晰的运营模式以及实验精神的重要性。Hansen教授还驳斥了关于领导者魅力和运气的常见误解，指出伟大源于领导者明智的选择。
+tags:
+- health
+- innovation
+- leadership-choice
+- principle
+- strategy
+title: 卓越公司的制胜之道：长期主义、核心坚守与持续创新
 ---
+
 ### 卓越公司研究：长期成功的三部曲
 
 大家下午好。很高兴来到这里。奥斯陆是我成长的地方。今天听到了四家杰出公司的分享，真是太棒了。究竟是什么造就了一家真正伟大的公司？这是一个引人入胜的问题，我为此研究了几十年。我们为此进行了三项研究，并出版了三本书，分别是**《基业长青》**（Built to Last: 探讨伟大公司长期成功的永恒原则）、**《从优秀到卓越》**（Good to Great: 解释优秀公司如何实现跨越式发展）和**《选择卓越》**（Great by Choice: 研究在动荡世界中如何成就卓越）。阅读这三本书可能需要不少时间，我希望它们能让您觉得物有所值。

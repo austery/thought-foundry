@@ -1,87 +1,87 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- Center for China and Globalization
+- University of Pennsylvania
+- IMF
+- US Embassy
+- G7
+- NATO
+- EU
+- UN
+- WTO
+- CCP
+- WHO
+- OECD
+- Foxconn
+- BYD
+- CATL
+- Duke Kunshan University
+- Wuhan University
+- NYU Shanghai
+- Odd Lots
+- Munich Security Conference
+- BRICS
+- ASEAN
+- GCC
+- Shanghai Cooperation Organization
+- United Nations Security Council
 date: '2025-09-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- Foreign Policy
+- Odd Lots podcast
+people:
+- Henry Wang
+- Joe Weisenthal
+- Tracy Alloway
+- Cameron Johnson
+- Hurong
+- Scott Benson
+- Greg
+- Rubio
+- Donald Trump
+- Putin
+- Xi
+- Lula
+- Moody
+- Confucius
+- Jung
+- Columbus
+- Graham Allison
+- Adam Posen
+- Jason Hong
+- David Ricardo
+- Modi
+products_models:
+- iPhone
+- EV
+- 5G
+- AI
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=3KMzPRDYrdg
 speaker: Bloomberg Podcasts
-tags:
-  - us-china-relations
-  - globalization-redefined
-  - multipolar-world
-  - economic-cooperation
-  - global-governance
-title: 王辉耀：中国在全球新秩序中的角色——经济优先与和平竞争
-summary: 本期播客深入探讨了美中关系、全球化以及中国在全球新秩序中的角色。中国与全球化智库创始人兼总裁王辉耀博士强调，中国视全球化为经济合作而非军事联盟，并致力于通过经济倡议和维和行动促进全球稳定。他指出，尽管美中关系面临挑战，但两国需寻求和平共处，并呼吁改革联合国以适应多极世界。王辉耀还回应了西方对中国贸易政策和军事存在的担忧，强调中国致力于和平发展和提供全球公共产品。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Henry Wang
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Cameron Johnson
-  - Hurong
-  - Scott Benson
-  - Greg
-  - Rubio
-  - Donald Trump
-  - Putin
-  - Xi
-  - Lula
-  - Moody
-  - Confucius
-  - Jung
-  - Columbus
-  - Graham Allison
-  - Adam Posen
-  - Jason Hong
-  - David Ricardo
-  - Modi
-companies_orgs:
-  - Bloomberg
-  - Center for China and Globalization
-  - University of Pennsylvania
-  - IMF
-  - US Embassy
-  - G7
-  - NATO
-  - EU
-  - UN
-  - WTO
-  - CCP
-  - WHO
-  - OECD
-  - Foxconn
-  - BYD
-  - CATL
-  - Duke Kunshan University
-  - Wuhan University
-  - NYU Shanghai
-  - Odd Lots
-  - Munich Security Conference
-  - BRICS
-  - ASEAN
-  - GCC
-  - Shanghai Cooperation Organization
-  - United Nations Security Council
-products_models:
-  - iPhone
-  - EV
-  - 5G
-  - AI
-media_books:
-  - The Economist
-  - Foreign Policy
-  - Odd Lots podcast
 status: evergreen
+summary: 本期播客深入探讨了美中关系、全球化以及中国在全球新秩序中的角色。中国与全球化智库创始人兼总裁王辉耀博士强调，中国视全球化为经济合作而非军事联盟，并致力于通过经济倡议和维和行动促进全球稳定。他指出，尽管美中关系面临挑战，但两国需寻求和平共处，并呼吁改革联合国以适应多极世界。王辉耀还回应了西方对中国贸易政策和军事存在的担忧，强调中国致力于和平发展和提供全球公共产品。
+tags:
+- economic
+- global
+- globalization-redefined
+- investment
+- us-china-relations
+title: 王辉耀：中国在全球新秩序中的角色——经济优先与和平竞争
 ---
+
 ### 播客引言：美中关系的视角与对话
 
 欢迎收听新一期的**Odd Lots**（Odd Lots: 彭博社旗下的一档财经播客）播客。主持人乔·魏森塔尔（Joe Weisenthal）和特雷西·阿洛韦（Tracy Alloway）指出，美中关系是他们节目中经常讨论的话题，通常会从美国的视角出发，但这可能存在地域和语言上的偏差。

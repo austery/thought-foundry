@@ -1,41 +1,40 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- INTAC Center on Climate Adaptation
+- University of Waterloo
+- Fires Smart BC
+- Clean Air Partnership
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+people:
+- Annabella Bonata
+- Adam Squeles
+products_models:
+- Toronto Green Standard
+- Provincial Planning Statement
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=szVIydjtB1E
 speaker: TVO Today
-tags:
-  - climate-adaptation
-  - extreme-weather
-  - nature-based-solutions
-  - urban-resilience
-  - disaster-preparedness
-title: 加拿大如何应对极端天气：适应与基于自然的解决方案
-summary: 随着极端天气成为新常态，加拿大正面临气候变化的严峻挑战。本文深入探讨了加拿大在气候适应方面的策略，包括个人、社区和政府层面的具体措施。专家们强调了减缓与适应并行的重要性，并介绍了如何通过基于自然的解决方案（如植树造林和湿地保护）来增强城市韧性，应对野火、洪涝和极端高温。文章还讨论了加拿大在气候适应资金投入和政策实施上面临的挑战与机遇。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Annabella Bonata
-  - Adam Squeles
-companies_orgs:
-  - INTAC Center on Climate Adaptation
-  - University of Waterloo
-  - Fires Smart BC
-  - Clean Air Partnership
-products_models:
-  - Toronto Green Standard
-  - Provincial Planning Statement
-media_books:
-  - The Rundown
 status: evergreen
+summary: 随着极端天气成为新常态，加拿大正面临气候变化的严峻挑战。本文深入探讨了加拿大在气候适应方面的策略，包括个人、社区和政府层面的具体措施。专家们强调了减缓与适应并行的重要性，并介绍了如何通过基于自然的解决方案（如植树造林和湿地保护）来增强城市韧性，应对野火、洪涝和极端高温。文章还讨论了加拿大在气候适应资金投入和政策实施上面临的挑战与机遇。
+tags:
+- climate
+- environment
+- extreme-weather
+- urban-resilience
+title: 加拿大如何应对极端天气：适应与基于自然的解决方案
 ---
+
 ### 极端天气成为新常态：减缓与适应并重
 
 野火季节在十月底正式结束。如果你没有看到火焰，很有可能你闻到了烟味。

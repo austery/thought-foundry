@@ -1,31 +1,27 @@
 ---
-title: 投资市场中的“边际购买者”：制造与刺破泡沫的关键力量
-summary: 本文探讨了投资市场中“边际购买者”的概念，分析了他们如何决定资产价格、制造及刺破泡沫，并为普通投资者提供了识别和避免成为边际购买者的策略。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - asset-bubbles
-  - financial-education
-  - investment-strategy
-  - marginal-buyer
-  - market-dynamics
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-08-10'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=QrXpJsWrpD4
+speaker: 一口新飯
 status: evergreen
+summary: 本文探讨了投资市场中“边际购买者”的概念，分析了他们如何决定资产价格、制造及刺破泡沫，并为普通投资者提供了识别和避免成为边际购买者的策略。
+tags:
+- asset
+- financial
+- financial-education
+- market-dynamic
+title: 投资市场中的“边际购买者”：制造与刺破泡沫的关键力量
 ---
 
 ### 引言：YouTube十万订阅与“边际购买者”概念

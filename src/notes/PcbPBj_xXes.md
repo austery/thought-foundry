@@ -1,38 +1,38 @@
 ---
-author: EO
+area: tech-insights
+category: business
+companies_orgs:
+- Stanford
+- Council Health
+- Andreessen Horowitz
+- GV
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Muthu Alagappan
+products_models: []
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=PcbPBj_xXes
 speaker: EO
-tags:
-  - healthcare-innovation
-  - ai-in-medicine
-  - virtual-care
-  - founder-prioritization
-  - impact-scaling
-title: 创业者与医生：聚焦核心，AI赋能医疗的未来
-summary: Muthu Alagappan，一位医生兼AI研究员，分享了创业者和医生都需掌握的核心能力：优先排序。他阐述了医疗系统面临的挑战，以及他创立的Council Health如何通过结合AI与人类医生，以十倍速提升全球临床能力，提供高质量、个性化的虚拟医疗服务。文章探讨了在医疗领域如何平衡“不伤害原则”与“快速行动”的创业精神，并展望了AI将如何彻底改变未来五年的医疗乃至更多行业。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Muthu Alagappan
-companies_orgs:
-  - Stanford
-  - Council Health
-  - Andreessen Horowitz
-  - GV
-products_models: []
-media_books: []
 status: evergreen
+summary: Muthu Alagappan，一位医生兼AI研究员，分享了创业者和医生都需掌握的核心能力：优先排序。他阐述了医疗系统面临的挑战，以及他创立的Council
+  Health如何通过结合AI与人类医生，以十倍速提升全球临床能力，提供高质量、个性化的虚拟医疗服务。文章探讨了在医疗领域如何平衡“不伤害原则”与“快速行动”的创业精神，并展望了AI将如何彻底改变未来五年的医疗乃至更多行业。
+tags:
+- business
+- care
+- impact
+- innovation
+- llm
+title: 创业者与医生：聚焦核心，AI赋能医疗的未来
 ---
+
 ### 优先排序：创业者与医生的共同智慧
 
 斯坦福大学的毕业典礼是一个激动人心的时刻，它标志着医学院生涯的结束。

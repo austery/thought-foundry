@@ -1,42 +1,40 @@
 ---
-author: 徒步的騎手
+area: society-thinking
+category: politics-society
+companies_orgs:
+- FBI
 date: '2025-09-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily Beast
+people:
+- Charlie Kirk
+- Stephen King
+- Kamala Harris
+- Donald Trump
+- Joe Biden
+- Liz Cheney
+- Spencer Cox
+- 马克·吐温
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=DOYOWYVkQQs
 speaker: 徒步的騎手
-tags:
-  - us-politics
-  - political-polarization
-  - misinformation
-  - social-media-impact
-  - charlie-kirk-incident
-title: 政治极端化下的信息狂欢：查理·柯克遇刺案引发的争议与反思
-summary: 本文围绕保守派活动家**查理·柯克**（Charlie Kirk）遇刺事件，探讨了在信息不确凿的情况下，社交媒体和部分公众如何迅速陷入政治狂欢和极端言论传播。文章以著名作家**斯蒂芬·金**（Stephen King）误发推文并道歉为例，揭示了极端政治言论煽动暴力、扭曲人性的危险。在高度两极化的社会中，真相往往难以迅速传播，而谣言和情绪化表达却能迅速蔓延。主持人呼吁人们保持独立思考，警惕情绪按钮被操控，并强调了宽恕和理性对话的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Charlie Kirk
-  - Stephen King
-  - Kamala Harris
-  - Donald Trump
-  - Joe Biden
-  - Liz Cheney
-  - Spencer Cox
-  - 马克·吐温
-companies_orgs:
-  - FBI
-products_models: []
-media_books:
-  - The Daily Beast
 status: evergreen
+summary: 本文围绕保守派活动家**查理·柯克**（Charlie Kirk）遇刺事件，探讨了在信息不确凿的情况下，社交媒体和部分公众如何迅速陷入政治狂欢和极端言论传播。文章以著名作家**斯蒂芬·金**（Stephen
+  King）误发推文并道歉为例，揭示了极端政治言论煽动暴力、扭曲人性的危险。在高度两极化的社会中，真相往往难以迅速传播，而谣言和情绪化表达却能迅速蔓延。主持人呼吁人们保持独立思考，警惕情绪按钮被操控，并强调了宽恕和理性对话的重要性。
+tags:
+- history
+- misinformation
+- social-media-impact
+title: 政治极端化下的信息狂欢：查理·柯克遇刺案引发的争议与反思
 ---
 
 ### 查理·柯克遇刺案：事实与媒体乱象

@@ -1,55 +1,55 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- The Economist
+- Evergrande
+- Country Garden
+- China Vanke
+- Uber
+- WeWork
+- Faraday Future
+- IMF
+- Bloomberg
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Land Trap
+- Odd Lots podcast
+- The Sopranos
+people:
+- Mike Bird
+- Tracy Alloway
+- Joe Weisenthal
+- Wolf Ladejinsky
+- Henry Fok
+- Jack Ma
+- Richard Koo
+- Henry George
+products_models:
+- Three Red Lines
+- Hukou system
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=K44YmnIl_DA
 speaker: Bloomberg Podcasts
-tags:
-  - chinese-real-estate
-  - land-finance
-  - housing-bubble
-  - economic-stagnation
-  - productivity-impact
-title: 中国房地产泡沫：历史性困境与全球启示
-summary: 本期播客深入探讨了中国房地产市场如何演变为史上最大泡沫。嘉宾Mike Bird，其新书《土地陷阱》的作者，解释了中国土地财政模式的起源、其对经济生产力的影响，以及政府在应对房地产投机和地方财政困境时面临的挑战。节目还对比了香港、新加坡、日本和美国等地的土地政策，分析了户口制度对中国家庭投资行为的驱动作用，并探讨了摆脱这种“土地陷阱”的潜在路径和各国在房地产问题上的不同策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Mike Bird
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Wolf Ladejinsky
-  - Henry Fok
-  - Jack Ma
-  - Richard Koo
-  - Henry George
-companies_orgs:
-  - The Economist
-  - Evergrande
-  - Country Garden
-  - China Vanke
-  - Uber
-  - WeWork
-  - Faraday Future
-  - IMF
-  - Bloomberg
-products_models:
-  - Three Red Lines
-  - Hukou system
-media_books:
-  - The Land Trap
-  - Odd Lots podcast
-  - The Sopranos
 status: evergreen
+summary: 本期播客深入探讨了中国房地产市场如何演变为史上最大泡沫。嘉宾Mike Bird，其新书《土地陷阱》的作者，解释了中国土地财政模式的起源、其对经济生产力的影响，以及政府在应对房地产投机和地方财政困境时面临的挑战。节目还对比了香港、新加坡、日本和美国等地的土地政策，分析了户口制度对中国家庭投资行为的驱动作用，并探讨了摆脱这种“土地陷阱”的潜在路径和各国在房地产问题上的不同策略。
+tags:
+- bubble
+- chinese
+- economic-stagnation
+- finance
+- impact
+title: 中国房地产泡沫：历史性困境与全球启示
 ---
+
 ### 房地产的本质：社会公益还是投资工具？
 
 **Joe Weisenthal:** 什么是**土地改革**（Land Reform: 重新分配土地所有权以实现社会或经济目标）？你总是听到经济学家们争论，比如“哦，他们实行了土地改革，这真的很重要”，而另一些人则说“哦，不，实际上土地改革并非如此”。那么，土地改革到底是什么？

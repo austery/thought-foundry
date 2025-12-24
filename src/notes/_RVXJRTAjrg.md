@@ -1,45 +1,43 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: business
+companies_orgs:
+- DONE Global
+- Meta
+- US Department of Justice
+- Drug Enforcement Administration (DEA)
+- FDA
+- CVS
+- Walmart
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ruthia He
+- 何如佳
+- David Brody
+- Merrick Garland
+products_models:
+- Adderall
+project:
+- us-analysis
+- entrepreneurship
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=_RVXJRTAjrg
 speaker: 北美王路飞
-tags:
-  - digital-drug-distribution
-  - telehealth-fraud
-  - adderall-abuse
-  - silicon-valley-culture
-title: 硅谷的“数字毒枭”：北大才女 Ruthia He 的堕落之路与远程医疗的警钟
-summary: 本文起底了前Facebook产品设计师、北大校友Ruthia He创办的远程医疗公司DONE Global。该公司利用疫情期间的政策放宽，通过订阅模式大规模非法分发管制药物Adderall，涉嫌商业欺诈和妨碍司法。故事揭示了硅谷增长思维与医疗伦理的冲突，以及其对远程医疗行业和患者造成的严重后果，并引发了对科技向善的深刻反思。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - us-analysis
-  - entrepreneurship
-  - cultural-critique
-people:
-  - Ruthia He
-  - 何如佳
-  - David Brody
-  - Merrick Garland
-companies_orgs:
-  - DONE Global
-  - Facebook
-  - Meta
-  - US Department of Justice
-  - Drug Enforcement Administration (DEA)
-  - FDA
-  - CVS
-  - Walmart
-products_models:
-  - Adderall
-media_books: []
 status: evergreen
+summary: 本文起底了前Facebook产品设计师、北大校友Ruthia He创办的远程医疗公司DONE Global。该公司利用疫情期间的政策放宽，通过订阅模式大规模非法分发管制药物Adderall，涉嫌商业欺诈和妨碍司法。故事揭示了硅谷增长思维与医疗伦理的冲突，以及其对远程医疗行业和患者造成的严重后果，并引发了对科技向善的深刻反思。
+tags:
+- culture
+- digital
+- fraud
+- geopolitical
+title: 硅谷的“数字毒枭”：北大才女 Ruthia He 的堕落之路与远程医疗的警钟
 ---
+
 ### 硅谷的“数字毒枭”：Ruthia He 与 DONE Global 的陨落
 
 2025年11月19日，旧金山联邦法院。空气中弥漫着深秋的凉意，审判庭内没有多少镁光灯的闪烁，但一次落锤却在整个硅谷和医疗圈引发了剧烈的地震。被告席上站着一位年轻的华裔女性——Ruthia He，中文名何如佳。几年前，她还是媒体追逐的明星企业家，宣称要用技术拯救2,000万ADHD（注意力缺陷多动障碍）患者。然而，陪审团看她的眼神已不再是仰视，而是仔细审视。刚刚，联邦陪审团裁定何如佳及其临床总负责人David Brody多项罪名成立，包括共谋非法分发受控药物、医疗保健欺诈以及共谋妨碍司法。检方甚至用“通过互联网进行大规模毒品分销”来形容他们的行为。这家曾估值数亿美元的独角兽公司，其创始人如今面临的可能是长达数十年的监禁，涉案金额高达1亿美金。这不仅仅是一场商业犯罪，美国司法部称之为“第一起针对远程医疗公司分发兴奋剂的刑事起诉”，标志着野蛮生长的数字医疗时代可能已彻底终结。

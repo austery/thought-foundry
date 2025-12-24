@@ -1,59 +1,59 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Apple
+- Microsoft
+- Alphabet
+- Amazon
+- Meta
+- Norges Bank Investment Management
+- OpenAI
+- Anthropic
+- Siemens
+- Alstom
+- UBS
+- Credit Suisse
+- Gazprom
+- Federal Trade Commission
+- Department of Justice
+- Competition and Markets Authority
+- European Union
 date: '2024-09-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Skúr
+people:
+- Margrethe Vestager
+- Sam Altman
+- Dario Amodei
+- Enrico Letta
+products_models:
+- Instagram
+- TikTok
+- Twitter (X)
+- Android
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=n-PLrOZUGGs
 speaker: Norges Bank Investment Management
-tags:
-  - eu-regulation
-  - digital-markets
-  - competition-policy
-  - geopolitical-competition
-  - supply-chain-security
-title: 欧盟竞争事务专员维斯塔格：数字市场、地缘政治与欧洲竞争力
-summary: 欧盟竞争事务专员玛格丽特·维斯塔格深入探讨了欧盟在数字市场、竞争法和地缘政治背景下的监管策略。她阐述了欧盟如何通过《数字服务法案》和《数字市场法案》等法规，确保技术服务于民众，并应对大型科技公司的挑战。维斯塔格还讨论了欧洲在全球竞争力中的定位，包括能源安全、绿色技术供应链的风险，以及在日益敌对的地缘政治环境中，经济安全的重要性。她强调了深思熟虑的立法过程和国际合作的必要性，以应对复杂且快速变化的市场动态。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Margrethe Vestager
-  - Sam Altman
-  - Dario Amodei
-  - Enrico Letta
-companies_orgs:
-  - Apple
-  - Microsoft
-  - Alphabet
-  - Amazon
-  - Meta
-  - Norges Bank Investment Management
-  - OpenAI
-  - Anthropic
-  - Siemens
-  - Alstom
-  - UBS
-  - Credit Suisse
-  - Gazprom
-  - Federal Trade Commission
-  - Department of Justice
-  - Competition and Markets Authority
-  - European Union
-products_models:
-  - Instagram
-  - TikTok
-  - Twitter (X)
-  - Android
-media_books:
-  - Skúr
 status: evergreen
+summary: 欧盟竞争事务专员玛格丽特·维斯塔格深入探讨了欧盟在数字市场、竞争法和地缘政治背景下的监管策略。她阐述了欧盟如何通过《数字服务法案》和《数字市场法案》等法规，确保技术服务于民众，并应对大型科技公司的挑战。维斯塔格还讨论了欧洲在全球竞争力中的定位，包括能源安全、绿色技术供应链的风险，以及在日益敌对的地缘政治环境中，经济安全的重要性。她强调了深思熟虑的立法过程和国际合作的必要性，以应对复杂且快速变化的市场动态。
+tags:
+- geopolitical-competition
+- market
+- policy
+- regulation
+- supply-chain-security
+title: 欧盟竞争事务专员维斯塔格：数字市场、地缘政治与欧洲竞争力
 ---
+
 ### 欧盟竞争法的执行与数字技术监管
 
 许多**反垄断案件**（Anti-Trust cases: 旨在防止垄断、促进市场竞争的法律诉讼）已经针对全球最强大的公司提起，包括苹果、微软、Alphabet、亚马逊和Meta。我相信，玛格丽特·维斯塔格，当你的名字出现在全球所有首席执行官的收件箱中时，他们都会感到紧张。但非常欢迎你来到这个播客。

@@ -1,58 +1,56 @@
 ---
-author: All-In Podcast
+area: tech-insights
+category: technology
+companies_orgs:
+- UC Berkeley
+- National Institute of Standards and Technology
+- Google
+- IBM
+- Applied Materials
+- Synopsis
+- Hewlett Packard Enterprise
+- UCLA
+- UC Santa Barbara
+- Lawrence Berkeley Lab
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Popular Science
+- Physical Review Letters
+- Scientific American
+people:
+- John Martinis
+- Anthony Leggett
+- John Clarke
+- Stephen Hawking
+- Richard Feynman
+- Peter Shor
+- Michelle Devoret
+- Danielle Eststev
+- Christian Urbina
+- Dave Wineland
+- Ben Mazin
+products_models:
+- MRI
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=GWOPRdN8INU
 speaker: All-In Podcast
-tags:
-  - quantum-computing
-  - quantum-mechanics
-  - superconductors
-  - quantum-tunneling
-  - quantum-supremacy
-title: 诺贝尔物理学奖得主约翰·马蒂尼斯：量子跃迁如何改变一切
-summary: 2025年诺贝尔物理学奖得主约翰·马蒂尼斯博士分享了他从童年对科学的兴趣到在加州大学伯克利分校和谷歌量子实验室的职业生涯。他详细阐述了其诺奖级研究——宏观量子力学现象的实验验证，特别是约瑟夫森结的应用，以及这项工作如何为量子计算奠定基础。马蒂尼斯还讨论了量子计算的现状、未来发展，以及中美在该领域的竞争。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - John Martinis
-  - Anthony Leggett
-  - John Clarke
-  - Stephen Hawking
-  - Richard Feynman
-  - Peter Shor
-  - Michelle Devoret
-  - Danielle Eststev
-  - Christian Urbina
-  - Dave Wineland
-  - Ben Mazin
-companies_orgs:
-  - UC Berkeley
-  - National Institute of Standards and Technology
-  - Google
-  - IBM
-  - Applied Materials
-  - Synopsis
-  - Hewlett Packard Enterprise
-  - UCLA
-  - UC Santa Barbara
-  - Lawrence Berkeley Lab
-products_models:
-  - MRI
-media_books:
-  - Popular Science
-  - Physical Review Letters
-  - Scientific American
 status: evergreen
+summary: 2025年诺贝尔物理学奖得主约翰·马蒂尼斯博士分享了他从童年对科学的兴趣到在加州大学伯克利分校和谷歌量子实验室的职业生涯。他详细阐述了其诺奖级研究——宏观量子力学现象的实验验证，特别是约瑟夫森结的应用，以及这项工作如何为量子计算奠定基础。马蒂尼斯还讨论了量子计算的现状、未来发展，以及中美在该领域的竞争。
+tags:
+- quantum-computing
+- quantum-mechanic
+- technology
+title: 诺贝尔物理学奖得主约翰·马蒂尼斯：量子跃迁如何改变一切
 ---
+
 ### 欢迎与诺贝尔奖得主对话
 
 主持人: 欢迎。今天我非常高兴能与本周的诺贝尔奖得主，2025年诺贝尔物理学奖获得者约翰·马蒂尼斯进行这次“All-In”访谈。约翰，欢迎来到“All-In”访谈。

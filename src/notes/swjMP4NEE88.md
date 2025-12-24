@@ -1,39 +1,39 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bridgewater
+- Nvidia
+- Microsoft
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Greg Jensen
+- Ray Dalio
+products_models:
+- ChatGPT
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=swjMP4NEE88
 speaker: 北美王路飞
-tags:
-  - modern-mercantilism
-  - ai-arms-race
-  - capital-reshuffle
-  - global-inflation
-  - investment-diversification
-title: 桥水基金CIO Greg Jensen揭示未来三大风暴：现代重商主义、AI资源战与资本大洗牌
-summary: 桥水基金联席首席投资官Greg Jensen指出，全球正经历三大颠覆性变量：现代重商主义的回归、疯狂的AI资源掠夺战以及前所未有的资本大洗牌。他警告，过去30年的全球化双赢模式已终结，取而代之的是零和博弈和难以遏制的通胀。AI虽是增长引擎，却极度耗费资源并加剧垄断。面对旧经济的挣扎与新经济的吸血扩张，Greg建议投资者放弃“美国例外论”，进行全球化分散投资，并强调组织需通过“复利认知”和“激进透明”来进化，以应对混乱和不确定性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Greg Jensen
-  - Ray Dalio
-companies_orgs:
-  - Bridgewater
-  - Nvidia
-  - Microsoft
-products_models:
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 桥水基金联席首席投资官Greg Jensen指出，全球正经历三大颠覆性变量：现代重商主义的回归、疯狂的AI资源掠夺战以及前所未有的资本大洗牌。他警告，过去30年的全球化双赢模式已终结，取而代之的是零和博弈和难以遏制的通胀。AI虽是增长引擎，却极度耗费资源并加剧垄断。面对旧经济的挣扎与新经济的吸血扩张，Greg建议投资者放弃“美国例外论”，进行全球化分散投资，并强调组织需通过“复利认知”和“激进透明”来进化，以应对混乱和不确定性。
+tags:
+- capital
+- global-inflation
+- history
+- investment
+title: 桥水基金CIO Greg Jensen揭示未来三大风暴：现代重商主义、AI资源战与资本大洗牌
+companies:
+- ai-arms-race
 ---
+
 ### 揭秘未来风暴：桥水基金CIO的三大预警
 
 作为桥水基金（Bridgewater）的联席首席投资官，Greg Jensen和他的团队管理着超过1,000亿美金的资产。在这个星球上，如果说有谁必须比其他人更早看到未来的风暴，那一定就是坐在那个位置上的人。当所有人都盯着每天的股价涨跌时，Greg却异常冷静地抛出了三个巨大的、真正改变一切的变量。这三个变量交织在一起，正在终结我们过去30年熟悉的一切游戏规则。在最近他做的一期播客中，他没有跟主持人聊什么K线，他上来就告诉对方，现在的世界正在经历一场**现代重商主义**（Modern Mercantilism: 一种将贸易视为零和博弈，国家通过贸易顺差积累财富的经济政策）的回归、一场疯狂的AI资源掠夺战，以及一次前所未有的资本大洗牌。这背后的每一个词，都直接关系到你的钱袋子。

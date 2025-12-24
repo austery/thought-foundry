@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-03-12
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=xU0_rvp7Fo4'
-speaker: 徒步的騎手
-tags:
-  - life-wisdom
-  - mentorship
-  - time-value
-  - human-judgment
-  - personal-resilience
-title: 老律师的人生箴言：在交叉火力中活出价值
-summary: 本文回顾了作者与一位名叫Morris的老律师二十多年的交集。Morris是一位经历越战的犹太裔律师，他的人生智慧和处事原则，如“别在不值得的人身上浪费呼吸”和识别骗子的告诫，对作者产生了深远影响。文章通过Morris的言行，探讨了如何在复杂多变的人生中，珍惜时间，识别真伪，并活出有价值的生命，强调了智慧传承的重要性。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Morris
-  - Rick Warren
-  - Jesus
+category: psychology
 companies_orgs:
-  - 克莱斯勒
-  - Montgomery Gentry
-products_models:
-  - Crossfire
-  - Hell Yeah
+- 克莱斯勒
+- Montgomery Gentry
+date: 2025-03-12
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《旧约圣经》
-  - 《塔拿赫》
-  - 《詹姆斯王一本的英文圣经》
+- 《旧约圣经》
+- 《塔拿赫》
+- 《詹姆斯王一本的英文圣经》
+people:
+- Morris
+- Rick Warren
+- Jesus
+products_models:
+- Crossfire
+- Hell Yeah
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=xU0_rvp7Fo4
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文回顾了作者与一位名叫Morris的老律师二十多年的交集。Morris是一位经历越战的犹太裔律师，他的人生智慧和处事原则，如“别在不值得的人身上浪费呼吸”和识别骗子的告诫，对作者产生了深远影响。文章通过Morris的言行，探讨了如何在复杂多变的人生中，珍惜时间，识别真伪，并活出有价值的生命，强调了智慧传承的重要性。
+tags:
+- human
+- life
+- personal-resilience
+- society
+- value
+title: 老律师的人生箴言：在交叉火力中活出价值
 ---
 
 ### 初识Morris：一位经历“交叉火力”的老律师

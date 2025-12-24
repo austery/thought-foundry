@@ -1,33 +1,31 @@
 ---
-title: 巴里·迪勒：从好莱坞大亨到科技浪潮——本能、品牌与AI时代
-summary: 媒体巨头巴里·迪勒分享了他在好莱坞的成功经验，强调失败是最好的老师，本能决策优于数据分析。他深入探讨了AI对媒体和旅游业的深远影响，并指出在变革时代，品牌价值和无法被数字化的体验将是企业生存的关键。
-area: market-analysis
-category: business
-project:
-- ai-impact-analysis
-- entrepreneurship
-tags:
-- ai
-- barry-diller
-- business-strategy
-- media-mogul
-- personal-development
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books:
-- the-knowledge-project-podcast
 date: '2025-09-30'
-author: The Knowledge Project Podcast
-speaker: The Knowledge Project Podcast
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- the-knowledge-project-podcast
+products_models: []
+project:
+- ai-impact-analysis
+- entrepreneurship
 series: ''
 source: https://www.youtube.com/watch?v=zyw1HVOqpCQ
+speaker: The Knowledge Project Podcast
 status: evergreen
+summary: 媒体巨头巴里·迪勒分享了他在好莱坞的成功经验，强调失败是最好的老师，本能决策优于数据分析。他深入探讨了AI对媒体和旅游业的深远影响，并指出在变革时代，品牌价值和无法被数字化的体验将是企业生存的关键。
+tags:
+- business-strategy
+- media
+- personal-development
+- technology
+title: 巴里·迪勒：从好莱坞大亨到科技浪潮——本能、品牌与AI时代
 ---
+
 ### 序言：成功与失败的教训
 
 Host: Success teaches you nothing, but failure sure teaches you a lot. You've worked with some of the biggest egos in Hollywood and some of the most ruthless tycoons. I'm wondering if you can spend a few minutes on the lessons you've learned about ego and power. Barry Diller is a legendary media mogul, businessman, and investor. He is the chairman and senior executive of IA and is best known for co-founding the Fox Broadcasting Company with Rupert Murdoch and leading Paramount Pictures. Over his career, he has reshaped television, film, and online media. He remains one of the most influential figures in business and entertainment today.

@@ -1,58 +1,59 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- YC
+- Stripe
+- Anthropic
+- Open Philanthropy
+- Quora
+- Microsoft
+- Cooley
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+people:
+- Ilya Sutskever
+- Sam Altman
+- Elon Musk
+- Mira Murati
+- Brad
+- Greg Brockman
+- Jason Wang
+- Helen Toner
+- Tasha McCauley
+- Dario Amodei
+- Daniela Amodei
+- Joseph Gordon-Levitt
+- Adam D'Angelo
+- Satya Nadella
+products_models:
+- GPT-4 Turbo
+- ChatGPT
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=4QoRNaLKIqA
 speaker: 北美王路飞
-tags:
-  - openai-power-struggle
-  - corporate-governance
-  - political-intrigue
-  - secondhand-information
-  - board-conflicts
-title: 伊尔亚·苏兹克维秘密证词揭露OpenAI“政变”内幕：权力、背叛与AI未来
-summary: 这份独家解密的证词揭示了OpenAI前首席科学家伊尔亚·苏兹克维针对Sam Altman的52页“起诉书”内幕。证词详细披露了伊尔亚如何依赖二手信息指控Sam Altman，以及董事会成员在解雇Sam后与竞争对手Anthropic洽谈合并的惊人事实。这不仅是一场关于AI公司内部权力斗争的罗生门，更深刻揭示了在通往通用人工智能的道路上，人性、利益与使命的复杂纠葛。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Ilya Sutskever
-  - Sam Altman
-  - Elon Musk
-  - Mira Murati
-  - Brad
-  - Greg Brockman
-  - Jason Wang
-  - Helen Toner
-  - Tasha McCauley
-  - Dario Amodei
-  - Daniela Amodei
-  - Joseph Gordon-Levitt
-  - Adam D'Angelo
-  - Satya Nadella
-companies_orgs:
-  - OpenAI
-  - YC
-  - Stripe
-  - Anthropic
-  - Open Philanthropy
-  - Quora
-  - Microsoft
-  - Cooley
-products_models:
-  - GPT-4 Turbo
-  - ChatGPT
-media_books:
-  - 《华尔街日报》
 status: evergreen
+summary: 这份独家解密的证词揭示了OpenAI前首席科学家伊尔亚·苏兹克维针对Sam Altman的52页“起诉书”内幕。证词详细披露了伊尔亚如何依赖二手信息指控Sam
+  Altman，以及董事会成员在解雇Sam后与竞争对手Anthropic洽谈合并的惊人事实。这不仅是一场关于AI公司内部权力斗争的罗生门，更深刻揭示了在通往通用人工智能的道路上，人性、利益与使命的复杂纠葛。
+tags:
+- conflict
+- corporate-governance
+- information
+- political
+- power
+title: 伊尔亚·苏兹克维秘密证词揭露OpenAI“政变”内幕：权力、背叛与AI未来
 ---
+
 ### 硅谷罗生门：伊尔亚·苏兹克维的秘密证词
 
 今天，我们来聊一聊硅谷的**罗生门**（Rashomon: 指事件各方各执一词，真相扑朔迷离的局面），聚焦于**伊尔亚·苏兹克维**（Ilya Sutskever: OpenAI联合创始人及前首席科学家）的秘密证词。这是一个关于背叛、权力与人工智能未来的谜团。

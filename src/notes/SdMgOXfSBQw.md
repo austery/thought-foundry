@@ -1,58 +1,55 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 北约
+- 荷美尔食品
 date: '2025-09-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《音乐之声》
+- 《石油大历史》
+people:
+- Sarah Paine
+- 卡尔·冯·克劳塞维茨
+- 温斯顿·丘吉尔
+- 富兰克林·罗斯福
+- 卡尔·邓尼茨
+- 埃尔温·隆美尔
+- 欧内斯特·金
+- 埃里希·雷德尔
+- 朱利安·科贝特
+- 约瑟夫·斯大林
+- 阿道夫·希特勒
+- 弗拉基米尔·普京
+- 亚历山大·杜金
+- 巴沙尔·阿萨德
+- Xi Jinping
+- 阿尔弗雷德·塞耶·马汉
+- 奥托·冯·俾斯麦
+- 丹尼尔·耶金
+- 格奥尔格·冯·特拉普
+- 邓小平
+- 哈利法克斯子爵
+products_models: []
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=SdMgOXfSBQw
 speaker: Dwarkesh Patel
-tags:
-  - geopolitics
-  - maritime-strategy
-  - continental-strategy
-  - world-war-ii
-  - alliances
-title: 海权与陆权：二战英国战略对当代地缘政治的启示
-summary: 本讲座以二战**英国**应对大陆强权的经验为例，探讨海权与陆权国家的战略差异。分析封锁、外围行动、盟友协作及工业生产等关键战略，并应用于当前**中国**和**俄罗斯**的地缘政治局限性，强调地理位置和联盟对国家战略的决定性影响。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - Sarah Paine
-  - Dwarkesh Patel
-  - 卡尔·冯·克劳塞维茨
-  - 温斯顿·丘吉尔
-  - 富兰克林·罗斯福
-  - 卡尔·邓尼茨
-  - 埃尔温·隆美尔
-  - 欧内斯特·金
-  - 埃里希·雷德尔
-  - 朱利安·科贝特
-  - 约瑟夫·斯大林
-  - 阿道夫·希特勒
-  - 弗拉基米尔·普京
-  - 亚历山大·杜金
-  - 巴沙尔·阿萨德
-  - 习近平
-  - 阿尔弗雷德·塞耶·马汉
-  - 奥托·冯·俾斯麦
-  - 丹尼尔·耶金
-  - 格奥尔格·冯·特拉普
-  - 邓小平
-  - 哈利法克斯子爵
-companies_orgs:
-  - 北约
-  - 荷美尔食品
-products_models: []
-media_books:
-  - 《音乐之声》
-  - 《石油大历史》
 status: evergreen
+summary: 本讲座以二战**英国**应对大陆强权的经验为例，探讨海权与陆权国家的战略差异。分析封锁、外围行动、盟友协作及工业生产等关键战略，并应用于当前**中国**和**俄罗斯**的地缘政治局限性，强调地理位置和联盟对国家战略的决定性影响。
+tags:
+- geopolitical
+- strategy
+- war
+title: 海权与陆权：二战英国战略对当代地缘政治的启示
 ---
+
 ### 海权与陆权国家的战略差异
 
 事实证明，**海权国家**（Maritime powers: 以海洋为主要防御和力量投射手段的国家）和**大陆强权**（Continental powers: 以陆地为主要防御和力量投射手段的国家）的可能性略有不同。基本上，一小部分国家可以主要依靠海上进行自卫，这开启了某些可能性；而其他国家则不能，这又开启或关闭了另一些可能性。我将从**英国**的角度讲述这个故事，它拥有360度“你抓不到我”的护城河。对于**美国**来说，拥有这种地理位置所带来的可能性和危险，是一个具有启发性的案例。

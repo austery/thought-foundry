@@ -1,34 +1,32 @@
 ---
-title: 市场动态、财报解读与Figma IPO估值策略
-summary: 本期节目深入分析了周二市场走势、美联储主席鲍威尔的任期讨论及关税影响。详细解读了通用汽车和可口可乐的最新财报，并对即将上市的Figma进行了详细的估值分析，同时回顾了Circle和On
-  Holding的个股表现，并分享了技术面与基本面结合的投资策略。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- earnings-report
-- investment-strategy
-- ipo-valuation
-- market-analysis
-- tech-stocks
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-07-23'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=cu0u-aflw5w
+speaker: 投资TALK君
 status: evergreen
+summary: 本期节目深入分析了周二市场走势、美联储主席鲍威尔的任期讨论及关税影响。详细解读了通用汽车和可口可乐的最新财报，并对即将上市的Figma进行了详细的估值分析，同时回顾了Circle和On
+  Holding的个股表现，并分享了技术面与基本面结合的投资策略。
+tags:
+- earnings-report
+- market-analysis
+- tech-stock
+- valuation
+title: 市场动态、财报解读与Figma IPO估值策略
 ---
+
 各位观众大家好，欢迎来到一个不单只聊新闻的专业日更美股频道，我是市场分析员小涛。今天为大家准备了丰富的新内容，涵盖财报、热门IPO以及个股分析。
 
 首先，财报季我们将讨论通用汽车和可口可乐两家公司。其次，正如标题所示，Circle（CRCL）今日出现下跌，如果错过了它的**IPO**（首次公开募股：指一家企业或公司第一次将它的股份向公众出售），下一个值得我们关注的IPO是哪家公司呢？稍后我将揭晓答案。最后，和大家分享一只我今天清仓的个股，并解释在何种条件下我会做出清仓决定。

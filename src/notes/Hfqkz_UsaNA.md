@@ -1,37 +1,35 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 东方财富
+- 央行
 date: '2024-10-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 阿甘投研
+people:
+- 朱镕基
+products_models: []
+project:
+- investment-strategy
+- china-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Hfqkz_UsaNA
 speaker: 海淀拙大叔
-tags:
-  - a-share-market
-  - bull-market-forecast
-  - monetary-policy
-  - economic-cycles
-  - investor-sentiment
-title: 阿甘股票市场论：本轮A股上涨行情能涨多高？持续多长时间？
-summary: 本期节目深入探讨了当前A股市场的上涨行情，基于历史数据和货币周期理论，预测本轮牛市将持续到2026年中期，涨幅可能超过150%。文章详细分析了行情背后的信心与现实逻辑，回顾了历史上几次大牛市的驱动因素，并结合当前经济环境，对未来走势、重要节点及市场调整的七大特征进行了预判，旨在为投资者提供一个清晰的投资框架，避免情绪化决策。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-  - market-cycles
-people:
-  - 朱镕基
-companies_orgs:
-  - 东方财富
-  - 央行
-products_models: []
-media_books:
-  - 阿甘投研
 status: evergreen
+summary: 本期节目深入探讨了当前A股市场的上涨行情，基于历史数据和货币周期理论，预测本轮牛市将持续到2026年中期，涨幅可能超过150%。文章详细分析了行情背后的信心与现实逻辑，回顾了历史上几次大牛市的驱动因素，并结合当前经济环境，对未来走势、重要节点及市场调整的七大特征进行了预判，旨在为投资者提供一个清晰的投资框架，避免情绪化决策。
+tags:
+- economic-cycle
+- investor-sentiment
+- market
+title: 阿甘股票市场论：本轮A股上涨行情能涨多高？持续多长时间？
 ---
+
 ### 本轮A股行情预测：高度与持续时间
 
 阿甘股票市场论第一集，将探讨这轮行情能涨多高，以及持续多长时间。当股票市场一涨起来，各种预测者就会出现。我们是否也算一个呢？也算是一个。只不过我们的预测从今年8月1号就已经明确了。当时在**阿甘投研**（一个研究分析平台）上，我们在8月1号就预测底部已经确立，上涨会持续到2026年中期，且涨幅会超出预期。

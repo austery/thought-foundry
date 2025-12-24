@@ -1,89 +1,89 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Politico
+- Bloomberg
+- Fox News
+- McDonald's
+- OpenAI
+- TSMC
+- Nvidia
+- AMD
+- Google
+- Microsoft
+- Coinbase
+- MicroStrategy
+- SoFi
+- Palantir
+- Micron
+- Robin Hood
+- Berkshire Hathaway
+- Oracle
+- Amazon
+- CoreWeave
+- Meta
+- UnitedHealth
+- CVS
+- Clover
+- Hims
+- Teldoc
+- Eli Lilly
+- Novo Nordisk
+- SpaceX
+- Rocket Lab
+- Verizon
+- PayPal
+- Ford
+- Altria Group
+- Costco
+- Bureau of Labor Statistics
+- Axios
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Plain Bagel
+people:
+- Donald Trump
+- Tom Lee
+- Alex Karp
+- Michael Burry
+- Jensen Huang
+- Howard Marks
+- Ray Dalio
+- Bill Ackman
+- Chuck Schumer
+- Jeff Bezos
+- Brad Gerstner
+- Vlad Tenev
+- Nancy Pelosi
+- Elon Musk
+- Marjorie Taylor Greene
+products_models:
+- Blackwell
+- HBM
+- 13F
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=YhSHdvfWc5s
 speaker: Amit Kukreja
-tags:
-  - government-shutdown
-  - market-reaction
-  - stimulus-policy
-  - consumer-health
-  - ai-chip-demand
-title: 政府停摆有望结束，特朗普再提刺激计划，市场期货应声上涨
-summary: 持续40天的美国政府停摆危机似乎即将结束，推动市场期货普遍走高。参议院正在推进一项临时拨款法案，以维持政府运营至明年1月底。与此同时，前总统特朗普周末提出50年期抵押贷款和每人2000美元“分红”的构想，引发市场关注。此外，英伟达因Blackwell芯片需求强劲而向台积电增加50%订单的消息，也为科技板块注入了积极信号。然而，关于消费者健康状况的担忧以及迈克尔·贝瑞的看空押注，也为市场前景增添了不确定性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Tom Lee
-  - Alex Karp
-  - Michael Burry
-  - Jensen Huang
-  - Howard Marks
-  - Ray Dalio
-  - Bill Ackman
-  - Chuck Schumer
-  - Jeff Bezos
-  - Brad Gerstner
-  - Vlad Tenev
-  - Nancy Pelosi
-  - Elon Musk
-  - Marjorie Taylor Greene
-companies_orgs:
-  - Politico
-  - Bloomberg
-  - Fox News
-  - McDonald's
-  - OpenAI
-  - TSMC
-  - Nvidia
-  - AMD
-  - Google
-  - Microsoft
-  - Coinbase
-  - MicroStrategy
-  - SoFi
-  - Palantir
-  - Micron
-  - Robin Hood
-  - Berkshire Hathaway
-  - Oracle
-  - Amazon
-  - CoreWeave
-  - Meta
-  - UnitedHealth
-  - CVS
-  - Clover
-  - Hims
-  - Teldoc
-  - Eli Lilly
-  - Novo Nordisk
-  - SpaceX
-  - Rocket Lab
-  - Verizon
-  - PayPal
-  - Ford
-  - Altria Group
-  - Costco
-  - Bureau of Labor Statistics
-  - Axios
-products_models:
-  - Blackwell
-  - HBM
-  - 13F
-media_books:
-  - The Plain Bagel
 status: evergreen
+summary: 持续40天的美国政府停摆危机似乎即将结束，推动市场期货普遍走高。参议院正在推进一项临时拨款法案，以维持政府运营至明年1月底。与此同时，前总统特朗普周末提出50年期抵押贷款和每人2000美元“分红”的构想，引发市场关注。此外，英伟达因Blackwell芯片需求强劲而向台积电增加50%订单的消息，也为科技板块注入了积极信号。然而，关于消费者健康状况的担忧以及迈克尔·贝瑞的看空押注，也为市场前景增添了不确定性。
+tags:
+- ai-chip-demand
+- government-shutdown
+- health
+- market-reaction
+- policy
+title: 政府停摆有望结束，特朗普再提刺激计划，市场期货应声上涨
 ---
+
 ### 政府停摆危机暂解，市场期货全线飘绿
 
 大家好，欢迎回到新一期的周日市场期货节目。我们现在是直播。感谢各位的到来，希望大家度过了一个愉快的周末。市场现在一片绿色，非常亮眼的绿色。我们之所以看到绿色，就像上周五收盘时那样，在经历了周五东部时间下午2点左右结束的剧烈下跌后，市场最终还是收绿了。我们现在看到市场上涨的原因是，朋友们，这次的政府停摆似乎要结束了。

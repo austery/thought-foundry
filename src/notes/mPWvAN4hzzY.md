@@ -1,42 +1,42 @@
 ---
-author: Hung-yi Lee
+area: tech-insights
+category: technology
+companies_orgs:
+- PyTorch
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 何愷明
+products_models:
+- Adagrad
+- RMSprop
+- Adam
+- AdamW
+- CNN
+- MLP
+- SVM
+- BERT
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=mPWvAN4hzzY
 speaker: Hung-yi Lee
-tags:
-  - neural-network-training
-  - optimization-vs-generalization
-  - loss-function-design
-  - model-architecture
-  - learning-rate-scheduling
-title: 训练神经网络的实用技巧：优化、泛化与模型架构全解析
-summary: 本讲座系统性地介绍了训练神经网络的各种实用技巧，并提出了一个核心分析框架：任何技术都可从其修改的机器学习步骤（损失函数、模型架构、优化算法）及其主要目标（改善优化或强化泛化）两个维度进行理解。内容涵盖了从 Adam 等高级优化器、CNN 和残差连接等网络架构设计，到数据增强、半监督学习和正则化等与损失函数相关的策略，为深入理解和应用深度学习提供了清晰的路线图。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - 何愷明
-companies_orgs:
-  - PyTorch
-products_models:
-  - Adagrad
-  - RMSprop
-  - Adam
-  - AdamW
-  - CNN
-  - MLP
-  - SVM
-  - BERT
-media_books: []
 status: evergreen
+summary: 本讲座系统性地介绍了训练神经网络的各种实用技巧，并提出了一个核心分析框架：任何技术都可从其修改的机器学习步骤（损失函数、模型架构、优化算法）及其主要目标（改善优化或强化泛化）两个维度进行理解。内容涵盖了从
+  Adam 等高级优化器、CNN 和残差连接等网络架构设计，到数据增强、半监督学习和正则化等与损失函数相关的策略，为深入理解和应用深度学习提供了清晰的路线图。
+tags:
+- design
+- learning
+- model
+- neural-network-training
+- optimization
+title: 训练神经网络的实用技巧：优化、泛化与模型架构全解析
 ---
+
 ### 前言：理解训练技巧的核心框架
 
 今天这堂课旨在向大家介绍在训练类神经网络时会用到的各种技巧。在上一堂课中，我们已经明确了机器学习的三个核心步骤：

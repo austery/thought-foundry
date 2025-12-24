@@ -1,48 +1,48 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- European Union
+- NATO
+- Sumy State University
 date: '2025-08-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 为什么乌克兰危机是西方的错
+- 慕尼黑会议
+people:
+- Donald Trump
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Friedrich Merz
+- John Mearsheimer
+- Denys Pylyash
+- Victoria Roshchyna
+- David
+- Adolf Hitler
+- Benjamin Netanyahu
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=eeDCnoOJrD4
 speaker: 北美王路飞
-tags:
-  - russia-ukraine-conflict
-  - peace-negotiations
-  - geopolitical-realism
-  - resistance-perspective
-  - security-guarantees
-title: 特朗普斡旋俄乌冲突：米尔斯海默与皮拉什的终局辩论
-summary: 本文探讨了美国前总统特朗普在俄乌冲突中斡旋和平的尝试，及其引发的停火争议。文章深入分析了国际关系现实主义大师约翰·米尔斯海默与身处基辅的乌克兰学者丹尼斯·皮拉什之间，关于停火、安全保证及战争根源的激烈辩论。米尔斯海默强调大国实力与地缘政治的冷酷现实，认为战场决定结局；而皮拉什则从乌克兰人民的抵抗视角出发，批判绥靖政策与帝国主义，呼吁多维度斗争，揭示了宏大叙事下个体生命的悲剧。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - Friedrich Merz
-  - John Mearsheimer
-  - Denys Pylyash
-  - Victoria Roshchyna
-  - David
-  - Adolf Hitler
-  - Benjamin Netanyahu
-companies_orgs:
-  - European Union
-  - NATO
-  - Sumy State University
-products_models: []
-media_books:
-  - 为什么乌克兰危机是西方的错
-  - 慕尼黑会议
 status: evergreen
+summary: 本文探讨了美国前总统特朗普在俄乌冲突中斡旋和平的尝试，及其引发的停火争议。文章深入分析了国际关系现实主义大师约翰·米尔斯海默与身处基辅的乌克兰学者丹尼斯·皮拉什之间，关于停火、安全保证及战争根源的激烈辩论。米尔斯海默强调大国实力与地缘政治的冷酷现实，认为战场决定结局；而皮拉什则从乌克兰人民的抵抗视角出发，批判绥靖政策与帝国主义，呼吁多维度斗争，揭示了宏大叙事下个体生命的悲剧。
+tags:
+- conflict
+- geopolitical-realism
+- psychology
+- resistance-perspective
+- security
+title: 特朗普斡旋俄乌冲突：米尔斯海默与皮拉什的终局辩论
 ---
+
 ### 特朗普的和平斡旋与停火争议
 
 大家好，欢迎来到我的频道。今天我们继续探讨俄乌谈判。前两天，美国前总统**唐纳德·特朗普**（Donald Trump: 美国前总统，现任总统候选人）在阿拉斯加与俄罗斯总统**普京**（Vladimir Putin: 俄罗斯总统）进行了面对面的闭门会谈。紧接着，他又飞回白宫，召开了一场高能峰会。这场峰会汇聚了重量级人物，包括乌克兰总统**泽连斯基**（Volodymyr Zelenskyy: 乌克兰总统），以及英国、法国、德国、意大利、芬兰等七个欧洲国家的领导人，外加上欧盟和北约的最高负责人。这阵仗简直把半个西方世界的决策者都凑到了一个桌子上。

@@ -1,75 +1,75 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 世界银行
+- 财政部
+- 台湾大学城乡所
+- 社会住宅推动联盟
+- 无住者团结组织
+- 行政院
+- OURs
+- 营造公会
+- 中央银行
+- 金融监督管理委员会
+- 营造投资公会
+- 民进党
+- 国民党
+- 立法院
+- 营建署
+- 中研院
+- 新北市政府
 date: '2024-09-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《无住之岛》
+- 《蜗牛运动宣言》
+- 《0099大发财》
+people:
+- 李同荣
+- 廖庭慧
+- 华昌宜
+- 林宗弘
+- 蒋经国
+- 萧万长
+- 陈水扁
+- 华敬群
+- 彭淮南
+- 马英九
+- 彭扬凯
+- Jeroen van der Veer
+- 郝龙斌
+- 苏贞昌
+- 蔡英文
+- 王金平
+- 叶世文
+- 柯文哲
+- 张庆忠
+- 薛凌
+- Hugo V Bmeha
+products_models:
+- 新青安
+project:
+- geopolitics-watch
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=MKZ7A7d41cA
 speaker: 超級歪 SuperY
-tags:
-  - housing-justice
-  - housing-policy-reform
-  - real-estate-speculation
-  - social-movements
-  - generational-inequality
-title: 新青安推高房价？台湾居住正义30年改革路与未来解方
-summary: 本文深入探讨台湾高房价问题及其背后的历史、政策与社会根源。从“新青安”贷款计划的争议切入，回顾了过去30年台湾居住运动（如无壳蜗牛运动、巢运）的演变，分析了政府在低利率政策、市场干预、立法改革中的作用。文章揭示了房地产文化霸权、世代剥削、以及社会住宅、租赁市场、囤房税等政策困境。最后，基于《无住之岛》一书的观点，提出了包括资金控管、囤房税、租赁登记、租金抵税及合作住宅在内的五大改革方向，呼吁民间力量持续推动居住正义。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - market-cycles
-people:
-  - 李同荣
-  - 廖庭慧
-  - 华昌宜
-  - 林宗弘
-  - 蒋经国
-  - 萧万长
-  - 陈水扁
-  - 华敬群
-  - 彭淮南
-  - 马英九
-  - 彭扬凯
-  - Jeroen van der Veer
-  - 郝龙斌
-  - 苏贞昌
-  - 蔡英文
-  - 王金平
-  - 叶世文
-  - 柯文哲
-  - 张庆忠
-  - 薛凌
-  - Hugo V Bmeha
-companies_orgs:
-  - 世界银行
-  - 财政部
-  - 台湾大学城乡所
-  - 社会住宅推动联盟
-  - 无住者团结组织
-  - 行政院
-  - OURs
-  - 营造公会
-  - 中央银行
-  - 金融监督管理委员会
-  - 营造投资公会
-  - 民进党
-  - 国民党
-  - 立法院
-  - 营建署
-  - 中研院
-  - 新北市政府
-products_models:
-  - 新青安
-media_books:
-  - 《无住之岛》
-  - 《蜗牛运动宣言》
-  - 《0099大发财》
 status: evergreen
+summary: 本文深入探讨台湾高房价问题及其背后的历史、政策与社会根源。从“新青安”贷款计划的争议切入，回顾了过去30年台湾居住运动（如无壳蜗牛运动、巢运）的演变，分析了政府在低利率政策、市场干预、立法改革中的作用。文章揭示了房地产文化霸权、世代剥削、以及社会住宅、租赁市场、囤房税等政策困境。最后，基于《无住之岛》一书的观点，提出了包括资金控管、囤房税、租赁登记、租金抵税及合作住宅在内的五大改革方向，呼吁民间力量持续推动居住正义。
+tags:
+- geopolitical
+- health
+- housing-policy-reform
+- real
+- social
+title: 新青安推高房价？台湾居住正义30年改革路与未来解方
 ---
+
 ### 新青安与台湾高房价困境
 
 在**新青安**（青年安心成家购屋优惠贷款：台湾政府为协助青年购屋而推出的优惠房贷方案）上路一周年之际，许多人都在追问：居住正义是否已经实现？为何仍有大量年轻人买不起房，反而房价被进一步推高？数据显示，今年5月，新青安房贷占五大银行新承做房贷的40.6%，创下近八年新高。有人将**新青安**形容为给年轻人打兴奋剂，认为在房价高企时推出激励措施，反而让原本可能降温的房市再次抬头。李同荣认为，新青安吸引了超过三成的虚假需求介入，从而推高了房价，且难以查核，恐将扭曲市场机制。

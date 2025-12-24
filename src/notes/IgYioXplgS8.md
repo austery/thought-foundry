@@ -1,45 +1,45 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Polymarket
+- FBI
+- AMBBB
+- Cohere
+- Broadcom
+- Roblox
 date: '2025-01-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- Kamala Harris
+- Donald Trump
+products_models:
+- Falcon
+- VMware
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=IgYioXplgS8
 speaker: Shijun Tang
-tags:
-  - tax-planning
-  - capital-gains-tax
-  - platform-economy
-  - user-lifecycle-value
-  - corporate-tax-credits
-title: 税务优化、AI与平台经济：从澳洲税制到Roblox的儿童消费模式
-summary: 本文深入解析税务筹划对投资回报的关键影响，结合澳洲股息、资本利得税与资本损失滚存机制，并分析博通、Cohere、Roblox等公司的财务结构与商业模式，揭示税收政策、平台抽成与用户生命周期对长期价值的深层作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - 唐石峻
-  - Kamala Harris
-  - Donald Trump
-companies_orgs:
-  - Polymarket
-  - FBI
-  - AMBBB
-  - Cohere
-  - Broadcom
-  - Roblox
-products_models:
-  - Falcon
-  - VMware
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入解析税务筹划对投资回报的关键影响，结合澳洲股息、资本利得税与资本损失滚存机制，并分析博通、Cohere、Roblox等公司的财务结构与商业模式，揭示税收政策、平台抽成与用户生命周期对长期价值的深层作用。
+tags:
+- capital
+- corporate
+- economy
+- tax
+- value
+title: 税务优化、AI与平台经济：从澳洲税制到Roblox的儿童消费模式
 ---
+
 ### 税务筹划：投资回报中被严重低估的杠杆
 
 新手投资人最容易忽视的，往往是税务对投资回报的影响。你收到股息要缴税；卖出股票赚了钱，要缴纳资本利得税；即便亏了钱，也必须报告资本损失。仅理解这三点，就能利用税务机制省下可观税款。

@@ -1,58 +1,56 @@
 ---
-author: 课代表立正
+area: personal-systems
+category: career
+companies_orgs:
+- Meta
+- 亚马逊
+- 腾讯
+- ByteDance
+- Microsoft
+- Google
+- 阿里
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 石扬
+- Steve Jobs
+- Mark Zuckerberg
+- Elon Musk
+- 何小鹏
+- 李想
+products_models:
+- AI IDE
+- AI Coding
+- Claude
+- Cursor
+- Trae
+- 腾讯会议
+- iPhone
+- Tesla
+- SpaceX
+- 微信
+- 小红书
+project:
+- personal-growth-lab
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=UTDLS_T2Ra4
 speaker: 课代表立正
-tags:
-  - kpi-anxiety
-  - long-term-investment
-  - startup-mindset
-  - product-strategy
-  - humble-leadership
-  - innovation-barriers
-title: 抵抗KPI焦虑，回归“有用”本质：大厂创新与个人成长之道
-summary: 本文深入探讨了在大厂环境中，如何有效抵抗KPI焦虑，回归工作“有用”的本质。Trae产品负责人石扬结合其在微软、Meta、腾讯及创业公司的丰富经验，揭示了大厂管理机制对创新的潜在阻碍，并分享了创业经历带来的“创始人思维”与长期主义心态。文章强调了谦逊、关注用户、拒绝短期诱惑、拥抱试错的重要性，以及技术背景对产品经理的独特价值，为职场人士提供了在大厂中实现个人成长和业务突破的实用方法论。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - entrepreneurship
-people:
-  - 石扬
-  - Steve Jobs
-  - Mark Zuckerberg
-  - Elon Musk
-  - 何小鹏
-  - 李想
-companies_orgs:
-  - Meta
-  - 亚马逊
-  - 腾讯
-  - Facebook
-  - 字节跳动
-  - 微软
-  - 谷歌
-  - 阿里
-products_models:
-  - AI IDE
-  - AI Coding
-  - Claude
-  - Cursor
-  - Trae
-  - 腾讯会议
-  - iPhone
-  - Tesla
-  - SpaceX
-  - 微信
-  - 小红书
-media_books: []
 status: evergreen
+summary: 本文深入探讨了在大厂环境中，如何有效抵抗KPI焦虑，回归工作“有用”的本质。Trae产品负责人石扬结合其在微软、Meta、腾讯及创业公司的丰富经验，揭示了大厂管理机制对创新的潜在阻碍，并分享了创业经历带来的“创始人思维”与长期主义心态。文章强调了谦逊、关注用户、拒绝短期诱惑、拥抱试错的重要性，以及技术背景对产品经理的独特价值，为职场人士提供了在大厂中实现个人成长和业务突破的实用方法论。
+tags:
+- anxiety
+- humble-leadership
+- innovation
+- long-term-investment
+- startup
+- strategy
+title: 抵抗KPI焦虑，回归“有用”本质：大厂创新与个人成长之道
 ---
+
 ### 大厂创新困境与创业思维的启示
 
 在当前科技行业，尽管像**Meta**（Facebook母公司）和**亚马逊**（Amazon）这样的大厂拥有充足的人才和资金，并且从上到下都高度重视，但在**大模型**（Large Language Model, LLM: 指参数量巨大、能够处理和生成复杂语言内容的人工智能模型）的训练上，它们反而常常落后于许多创业公司。这背后的原因，无疑是大厂的管理方式、运作模式和激励机制中存在着固有的低效率，使得像大模型训练这样对资金和人才密度要求极高的困难项目难以在大厂中成功。

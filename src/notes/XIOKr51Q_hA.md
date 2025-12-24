@@ -1,35 +1,30 @@
 ---
-title: 旧金山、中美贸易与AI：一场多维度的深度对话
-summary: 本期节目深入探讨了旧金山市政管理、中美稀土贸易战的复杂性，以及人工智能对经济和就业的深远影响。嘉宾们就这些热门话题展开了激烈的辩论，提供了多角度的见解和分析。
-area: market-analysis
-category: geopolitics
+area: tech-engineering
+category: ai-ml
+companies_orgs: []
+date: '2025-10-18'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+products_models: []
 project:
 - ai-impact-analysis
 - china-analysis
 - geopolitics-watch
 - us-analysis
-tags:
-- ai
-- economic-policy
-- geopolitics
-- n-a
-- san-francisco-issues
-- us-china-relations
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-18'
-author: All-In Podcast
-speaker: All-In Podcast
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=XIOKr51Q_hA
+speaker: All-In Podcast
 status: evergreen
+summary: 本期节目深入探讨了旧金山市政管理、中美稀土贸易战的复杂性，以及人工智能对经济和就业的深远影响。嘉宾们就这些热门话题展开了激烈的辩论，提供了多角度的见解和分析。
+tags:
+- economic-policy
+- san-francisco-issue
+- us-china-relations
+title: 旧金山、中美贸易与AI：一场多维度的深度对话
 ---
+
 ### 旧金山：从“狂欢”到“复苏”的争议
 
 All right. You guys were talking about the fun shenanigans you were having in San Francisco and at Marc Benioff's Dreamforce. Did you see Brian Johnson was at Benioff's CEO dinner?

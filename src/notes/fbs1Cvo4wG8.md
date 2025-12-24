@@ -1,63 +1,63 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 加拿大領導人辯論委員會
+- 加拿大廣播公司
+- Radio Canada
+- TVO安省電視台
+- 蒙特利爾加拿大人隊
+- 卡羅萊納颶風隊
+- 多倫多楓葉隊
+- 渥太華參議員隊
+- 溫尼伯噴氣機隊
+- 埃德蒙頓油人隊
+- 新民主黨
+- 自由黨
+- 保守黨
+- 魁人政團
+- 綠黨
+- 世界經濟論壇
 date: '2025-04-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Rebel News
+- 加拿大選舉網站
+- 《哈利波特》
+people:
+- 馬克·卡尼
+- 博勵治
+- 賈格米特·辛格
+- 伊夫·弗朗索瓦·布朗謝
+- 帕特里斯·羅伊
+- 史蒂夫·佩金
+- 佩德諾
+- 伊麗莎白·梅
+- 賈斯廷·特魯多
+- 唐納德·特朗普
+- 斯蒂芬·哈珀
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=fbs1Cvo4wG8
 speaker: 莊也雜談
-tags:
-  - canada-election-2025
-  - political-debates
-  - campaign-strategy
-  - economic-policy
-  - media-influence
-title: 加拿大超級大選黨魁辯論深度分析：卡尼、博勵治、辛格與布朗謝的交鋒與民調影響
-summary: 本文深度分析了加拿大超級大選期間的兩場黨魁辯論，詳細回顧了自由黨黨魁馬克·卡尼、保守黨黨魁博勵治、新民主黨黨魁賈格米特·辛格及魁人政團黨魁伊夫·弗朗索瓦·布朗謝的表現。文章探討了各黨在美加關係、能源環境、生活成本、住房、醫療及公共安全等議題上的立場，並揭示了辯論對選民態度和民調數據的影響，以及綠黨被排除、媒體提問混亂等幕後花絮。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 馬克·卡尼
-  - 博勵治
-  - 賈格米特·辛格
-  - 伊夫·弗朗索瓦·布朗謝
-  - 帕特里斯·羅伊
-  - 史蒂夫·佩金
-  - 佩德諾
-  - 伊麗莎白·梅
-  - 賈斯廷·特魯多
-  - 唐納德·特朗普
-  - 斯蒂芬·哈珀
-companies_orgs:
-  - 加拿大領導人辯論委員會
-  - 加拿大廣播公司
-  - Radio Canada
-  - TVO安省電視台
-  - 蒙特利爾加拿大人隊
-  - 卡羅萊納颶風隊
-  - 多倫多楓葉隊
-  - 渥太華參議員隊
-  - 溫尼伯噴氣機隊
-  - 埃德蒙頓油人隊
-  - 新民主黨
-  - 自由黨
-  - 保守黨
-  - 魁人政團
-  - 綠黨
-  - 世界經濟論壇
-products_models: []
-media_books:
-  - Rebel News
-  - 加拿大選舉網站
-  - 《哈利波特》
 status: evergreen
+summary: 本文深度分析了加拿大超級大選期間的兩場黨魁辯論，詳細回顧了自由黨黨魁馬克·卡尼、保守黨黨魁博勵治、新民主黨黨魁賈格米特·辛格及魁人政團黨魁伊夫·弗朗索瓦·布朗謝的表現。文章探討了各黨在美加關係、能源環境、生活成本、住房、醫療及公共安全等議題上的立場，並揭示了辯論對選民態度和民調數據的影響，以及綠黨被排除、媒體提問混亂等幕後花絮。
+tags:
+- campaign-strategy
+- canada
+- economic-policy
+- media-influence
+- political
+title: 加拿大超級大選黨魁辯論深度分析：卡尼、博勵治、辛格與布朗謝的交鋒與民調影響
 ---
+
 大家好，我是莊也，歡迎您收看莊也雜談。剛剛過去的4月16號和4月17號，即週三和週四，是加拿大這次超級大選進程中非常重要的兩天。**加拿大領導人辯論委員會**（Leader's Debate Commission - LDC: 負責組織加拿大聯邦選舉辯論的獨立機構）連續舉辦了兩場加拿大黨魁辯論。4月16號是法語辯論，4月17號是英語辯論。
 
 ### 辯論參與者與焦點議題

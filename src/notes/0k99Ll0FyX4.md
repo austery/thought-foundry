@@ -1,48 +1,46 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- Money or Life 美股频道
+- Tesla
+- Rocket Lab
+- RedWire
+- Hims & Hers
+- Circle
+- MicroStrategy
+- CoreWeave
+- Nebius
+- Nvidia
+- Palantir
+- Pure Storage
+- AppLovin
+- Trade Desk
+- Reddit
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=0k99Ll0FyX4
 speaker: Money or Life 美股频道
-tags:
-  - us-stock-investment
-  - portfolio-management
-  - growth-stocks
-  - investor-psychology
-  - cash-management
-title: 接受股票下跌50%，才能享受美股长期投资收益：Ace的11月美股投资总结与反思
-summary: 本期视频是Money or Life美股频道主持人Ace对2025年11月美股投资的总结与感想。他分享了11月美股投资收益的回撤、最新持仓情况，以及在重仓成长股下跌期间的心态变化。Ace强调了坚持投资原则、长期持有看好股票的重要性，并反思了现金仓位管理中的不足。视频还展望了未来在存储和广告领域的研究方向。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - personal-growth-lab
-people: []
-companies_orgs:
-  - Money or Life 美股频道
-  - Tesla
-  - Rocket Lab
-  - RedWire
-  - Hims & Hers
-  - Circle
-  - MicroStrategy
-  - CoreWeave
-  - Nebius
-  - Nvidia
-  - Palantir
-  - Pure Storage
-  - AppLovin
-  - Trade Desk
-  - Reddit
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期视频是Money or Life美股频道主持人Ace对2025年11月美股投资的总结与感想。他分享了11月美股投资收益的回撤、最新持仓情况，以及在重仓成长股下跌期间的心态变化。Ace强调了坚持投资原则、长期持有看好股票的重要性，并反思了现金仓位管理中的不足。视频还展望了未来在存储和广告领域的研究方向。
+tags:
+- growth-stock
+- investment
+- investor-psychology
+- management
+- portfolio-management
+title: 接受股票下跌50%，才能享受美股长期投资收益：Ace的11月美股投资总结与反思
 ---
+
 ### 2025年11月美股投资收益回顾
 
 本期视频将分享2025年11月美股投资的总结与感想，包括整个11月美股投资收益的变化、最新持仓，以及作为重仓成长股投资者在11月心态的变化。同时，也将回顾几只持仓股票的技术图形，分析从技术和基本面角度观点是否有变化。

@@ -1,59 +1,59 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Shanghai Gold Exchange
+- China People's Bank
+- White House
+- China Ministry of Commerce
+- Wingtech Technology
+- ASML
+- French Foreign Trade Bank
 date: '2025-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- Reuters
+- Wall Street Journal
+- Financial Times
+- Xinhua News Agency
+- China Central Television
+- 《博客天下》
+people:
+- Donald Trump
+- Xi Jinping
+- Lee Jae-myung
+- Steven Mnuchin
+- Marco Rubio
+- Wang Yi
+- Cai Qi
+- Nie Weiping
+- Kōichi Sanae
+products_models:
+- Xiaomi
+- Panda Coin
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=NuoPVRzzMHk
 speaker: LT視界
-tags:
-  - us-china-trade-war
-  - geopolitical-tensions
-  - semiconductor-dispute
-  - gold-market-regulation
-  - diplomatic-relations
-title: 中美博弈：黄金税、芯片战、外交风波与贸易协议背后的暗流
-summary: 本期节目深入探讨了中美关系中的多重动态。内容涵盖中国取消黄金税优惠对市场的影响，荷兰安是半导体公司在中国工厂被扣押引发的国际芯片纠纷及其在中美贸易协议中的解决。此外，还分析了韩国总统向习近平赠礼时的趣闻，以及中国外交部对日本涉台言论的谴责。最后，节目详细解读了中美贸易协议的深层意义，包括美国财政部长贝森特对协议的强烈不满，揭示了协议背后美方所承受的压力与未来报复的可能性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Lee Jae-myung
-  - Steven Mnuchin
-  - Marco Rubio
-  - Wang Yi
-  - Cai Qi
-  - Nie Weiping
-  - Kōichi Sanae
-companies_orgs:
-  - Shanghai Gold Exchange
-  - China People's Bank
-  - White House
-  - China Ministry of Commerce
-  - Wingtech Technology
-  - ASML
-  - French Foreign Trade Bank
-products_models:
-  - Xiaomi
-  - Panda Coin
-media_books:
-  - Bloomberg
-  - Reuters
-  - Wall Street Journal
-  - Financial Times
-  - Xinhua News Agency
-  - China Central Television
-  - 《博客天下》
 status: evergreen
+summary: 本期节目深入探讨了中美关系中的多重动态。内容涵盖中国取消黄金税优惠对市场的影响，荷兰安是半导体公司在中国工厂被扣押引发的国际芯片纠纷及其在中美贸易协议中的解决。此外，还分析了韩国总统向习近平赠礼时的趣闻，以及中国外交部对日本涉台言论的谴责。最后，节目详细解读了中美贸易协议的深层意义，包括美国财政部长贝森特对协议的强烈不满，揭示了协议背后美方所承受的压力与未来报复的可能性。
+tags:
+- geopolitical-tension
+- market
+- relations
+- semiconductor-dispute
+- us-china-relations
+title: 中美博弈：黄金税、芯片战、外交风波与贸易协议背后的暗流
 ---
+
 ### 中国黄金税优惠政策及其影响
 
 今天是11月1日，首先来了解中国最大的财经新闻。彭博社报道称，中国取消了黄金税优惠，对关键的贵金属市场造成打击。根据中国财政部的一项新法规，从11月1日起，北京将不再允许部分零售商在出售从上海黄金交易所购买的黄金时抵扣**增值税**（Value-Added Tax, VAT: 对商品或服务在生产和流通环节中增加的价值征收的税费），无论黄金是直接出售还是经过加工出售。

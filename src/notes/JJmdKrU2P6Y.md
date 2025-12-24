@@ -1,124 +1,123 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Palantir
+- Nvidia
+- SoFi
+- Grab
+- Reuters
+- Oklo
+- D-Wave
+- Google
+- VRT
+- Beyond Meat
+- XAI
+- IBM
+- Lamb Research
+- SAP
+- ASML
+- TSMC
+- Kinder Morgan
+- Crown Castle
+- Amazon
+- Salesforce
+- Meta
+- AMD
+- Reddit
+- OpenDoor
+- Cipher
+- Walmart
+- FedEx
+- Oracle
+- OpenAI
+- Southwest Airlines
+- United Airlines
+- Delta Air Lines
+- Levi's
+- Molina Healthcare
+- Oscar Health
+- UnitedHealth Group
+- Centene Corporation
+- Netflix
+- Texas Instruments
+- StarCloud
+- NASA
+- Stability AI
+- Midjourney
+- Anthropic
+- SpaceX
+- Morgan Stanley
+- Barclays
+- Wolf Research
+- Lightshed Partners
+- Oppenheimer
+- BlackRock
+- State Street
+- Vanguard
+- ISS
+- Glass Lewis
+- Lemonade
+- Ford
+- GM
+- Samsung
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Jose
+- Elon Musk
+- Donald Trump
+- Sundar Pichai
+- Arvin Krishna
+- Steve
+- Vladimir Putin
+- Xi Jinping
+- Vaibhav Taneja
+products_models:
+- S&P 500
+- FSD
+- Optimus
+- Model Y
+- Model 3
+- Mega Pack
+- Mega Block
+- Auto Bidder
+- Cyber Cab
+- Tesla Semi
+- Powerwall
+- Red Hat
+- H100
+- Dojo
+- Claude
+- GPT-4
+- Grok
+- Gemini
+- AI4
+- AI5
+- GV300
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=JJmdKrU2P6Y
 speaker: Amit Kukreja
-tags:
-  - earnings-report
-  - full-self-driving
-  - humanoid-robot
-  - ai-strategy
-  - us-china-relations
-title: 特斯拉2025年Q3财报解读：盈利未达预期，但AI、机器人与自动驾驶的未来愿景支撑股价
-summary: 特斯拉公布了2025年第三季度财报，营收超出预期，但每股收益（EPS）未达标。尽管财报数据喜忧参半，股价反应相对平稳。CEO埃隆·马斯克在电话会议中强调了公司在真实世界AI领域的领导地位，并描绘了全自动驾驶（FSD）、擎天柱（Optimus）机器人和储能业务的宏大蓝图。他将FSD的进展视为扩大产能的关键，并称Optimus有望成为史上最伟大的产品。本次财报会议的核心在于特斯拉如何平衡短期盈利压力与长期颠覆性技术的投入。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Amit Kukreja
-  - Jose
-  - Elon Musk
-  - Donald Trump
-  - Sundar Pichai
-  - Arvin Krishna
-  - Steve
-  - Vladimir Putin
-  - Xi Jinping
-  - Vaibhav Taneja
-companies_orgs:
-  - Tesla
-  - Palantir
-  - Nvidia
-  - SoFi
-  - Grab
-  - Reuters
-  - Oklo
-  - D-Wave
-  - Google
-  - VRT
-  - Beyond Meat
-  - XAI
-  - IBM
-  - Lamb Research
-  - SAP
-  - ASML
-  - TSMC
-  - Kinder Morgan
-  - Crown Castle
-  - Amazon
-  - Salesforce
-  - Meta
-  - AMD
-  - Reddit
-  - OpenDoor
-  - Cipher
-  - Walmart
-  - FedEx
-  - Oracle
-  - OpenAI
-  - Southwest Airlines
-  - United Airlines
-  - Delta Air Lines
-  - Levi's
-  - Molina Healthcare
-  - Oscar Health
-  - UnitedHealth Group
-  - Centene Corporation
-  - Netflix
-  - Texas Instruments
-  - StarCloud
-  - NASA
-  - Stability AI
-  - Midjourney
-  - Anthropic
-  - SpaceX
-  - Morgan Stanley
-  - Barclays
-  - Wolf Research
-  - Lightshed Partners
-  - Oppenheimer
-  - BlackRock
-  - State Street
-  - Vanguard
-  - ISS
-  - Glass Lewis
-  - Lemonade
-  - Ford
-  - GM
-  - Samsung
-products_models:
-  - S&P 500
-  - FSD
-  - Optimus
-  - Model Y
-  - Model 3
-  - Mega Pack
-  - Mega Block
-  - Auto Bidder
-  - Cyber Cab
-  - Tesla Semi
-  - Powerwall
-  - Red Hat
-  - H100
-  - Dojo
-  - Claude
-  - GPT-4
-  - Grok
-  - Gemini
-  - AI4
-  - AI5
-  - GV300
-media_books: []
 status: evergreen
+summary: 特斯拉公布了2025年第三季度财报，营收超出预期，但每股收益（EPS）未达标。尽管财报数据喜忧参半，股价反应相对平稳。CEO埃隆·马斯克在电话会议中强调了公司在真实世界AI领域的领导地位，并描绘了全自动驾驶（FSD）、擎天柱（Optimus）机器人和储能业务的宏大蓝图。他将FSD的进展视为扩大产能的关键，并称Optimus有望成为史上最伟大的产品。本次财报会议的核心在于特斯拉如何平衡短期盈利压力与长期颠覆性技术的投入。
+tags:
+- ai-strategy
+- earnings-report
+- full-self-driving
+- humanoid-robot
+- us-china-relations
+title: 特斯拉2025年Q3财报解读：盈利未达预期，但AI、机器人与自动驾驶的未来愿景支撑股价
 ---
+
 ### 市场动荡：中美贸易紧张局势引发抛售
 
 Amit：好的，大家好，欢迎回到新一期的《收盘观察》节目。我们正在直播，抱歉我迟到了一会儿，但我们已经准备就绪。今天有很多内容要谈。

@@ -1,48 +1,48 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中共中央书记处
+- 国务院
+- IMF
+- 世界银行
+- 高盛
+- 国家发改委
+- 国家药监局
+- 人民日报
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《苦恋》
+people:
+- Xi Jinping
+- 王沪宁
+- 蔡奇
+- 胡耀邦
+- 毛泽东
+- 邓小平
+- Vladimir Putin
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ebESBZNtlq8
 speaker: FearNation 世界苦茶
-tags:
-  - three-chinas-framework
-  - political-discourse-analysis
-  - national-strategy
-  - policy-priorities
-title: 解读四中全会公报：习近平的权力信号与“三个中国”的未来博弈
-summary: 通过深入分析二十届四中全会公报的文本细节，揭示中国未来的政策走向。报告意外地删除了“百年未有之大变局”这一标志性提法，同时重新引入了“以经济建设为中心”的旧口号，这些变化可能暗示着高层权力的微妙变动。本文提出了一个“三个中国”（经济、科技、安全）的分析框架，探讨这三大路线在中国未来发展中的冲突与博弈，并解读了习近平个人意志在政治原则和具体政策层面的不同体现。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 习近平
-  - 王沪宁
-  - 蔡奇
-  - 胡耀邦
-  - 毛泽东
-  - 邓小平
-  - 普京
-companies_orgs:
-  - 中共中央书记处
-  - 国务院
-  - IMF
-  - 世界银行
-  - 高盛
-  - 国家发改委
-  - 国家药监局
-  - 人民日报
-products_models: []
-media_books:
-  - 《苦恋》
 status: evergreen
+summary: 通过深入分析二十届四中全会公报的文本细节，揭示中国未来的政策走向。报告意外地删除了“百年未有之大变局”这一标志性提法，同时重新引入了“以经济建设为中心”的旧口号，这些变化可能暗示着高层权力的微妙变动。本文提出了一个“三个中国”（经济、科技、安全）的分析框架，探讨这三大路线在中国未来发展中的冲突与博弈，并解读了习近平个人意志在政治原则和具体政策层面的不同体现。
+tags:
+- code
+- policy
+- political
+- strategy
+title: 解读四中全会公报：习近平的权力信号与“三个中国”的未来博弈
 ---
+
 ### 核心观点提炼：习近平的真实意图与未来关注点
 
 我认为在整个四中全会报告中，有两类话是习近平同志想要重点表达的。第一类是他希望强调的政治原则。例如，报告的最后一句——“全党全军全国各族人民更加紧密团结在习近平同志为核心的党中央周围”，在以往的四中全会中，并非必须以此方式结尾。

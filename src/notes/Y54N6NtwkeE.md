@@ -1,75 +1,75 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg Podcasts
+- Circle Internet
+- Coinbase
+- Binance
+- Robinhood
+- Kraken
+- Nubank
+- GCash
+- JPMorgan
+- Citi
+- Bank of America
+- First Digital
+- BlackRock
+- Fiserve
+- FIS Global
+- Visa
+- Mastercard
+- OpenAI
+- Google
+- Tether
+- SVB (Silicon Valley Bank)
+- Federal Reserve
+- OCC (Office of the Comptroller of the Currency)
+- FDIC
 date: '2025-07-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Chicago Plan
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Jeremy Allaire
+- Brian Armstrong
+- Scott Bessant
+- Irving Fisher
+- Marc Andreessen
+- Austin Campbell
+- Kerman Rodriguez
+- Arman Bennett
+- Kell Brooks
+products_models:
+- OddLots podcast
+- USDC
+- USDXX
+- USYC
+- X42
+- ChatGPT
+- iPhone
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Y54N6NtwkeE
 speaker: Bloomberg Podcasts
-tags:
-  - stablecoin-regulation
-  - digital-payments
-  - financial-stability
-  - network-effects
-  - full-reserve-banking
-title: Circle CEO 揭示稳定币的蓬勃发展及其对金融系统的深远影响
-summary: 本期OddLots播客深入探讨了稳定币的商业模式、监管挑战及其对全球金融格局的潜在变革。Circle CEO Jeremy Allaire详细阐述了USDC作为互联网规模平台和网络公用事业的愿景，以及其在监管合规、全球扩张和技术创新方面的策略。他强调了《Genius法案》对稳定币作为现金工具的联邦法律地位的巩固，并讨论了全额准备金模式在提升金融系统安全性方面的潜力。此外，Allaire还展望了可编程货币和代币化资产如何重塑支付、信贷和投资的未来，以及稳定币在机器对机器支付和数据货币化中的应用前景。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Jeremy Allaire
-  - Brian Armstrong
-  - Scott Bessant
-  - Irving Fisher
-  - Marc Andreessen
-  - Austin Campbell
-  - Kerman Rodriguez
-  - Arman Bennett
-  - Kell Brooks
-companies_orgs:
-  - Bloomberg Podcasts
-  - Circle Internet
-  - Coinbase
-  - Binance
-  - Robinhood
-  - Kraken
-  - Nubank
-  - GCash
-  - JPMorgan
-  - Citi
-  - Bank of America
-  - First Digital
-  - BlackRock
-  - Fiserve
-  - FIS Global
-  - Visa
-  - Mastercard
-  - OpenAI
-  - Google
-  - Tether
-  - SVB (Silicon Valley Bank)
-  - Federal Reserve
-  - OCC (Office of the Comptroller of the Currency)
-  - FDIC
-products_models:
-  - OddLots podcast
-  - USDC
-  - USDXX
-  - USYC
-  - X42
-  - ChatGPT
-  - iPhone
-media_books:
-  - The Chicago Plan
 status: evergreen
+summary: 本期OddLots播客深入探讨了稳定币的商业模式、监管挑战及其对全球金融格局的潜在变革。Circle CEO Jeremy Allaire详细阐述了USDC作为互联网规模平台和网络公用事业的愿景，以及其在监管合规、全球扩张和技术创新方面的策略。他强调了《Genius法案》对稳定币作为现金工具的联邦法律地位的巩固，并讨论了全额准备金模式在提升金融系统安全性方面的潜力。此外，Allaire还展望了可编程货币和代币化资产如何重塑支付、信贷和投资的未来，以及稳定币在机器对机器支付和数据货币化中的应用前景。
+tags:
+- digital
+- financial
+- financial-stability
+- network-effect
+- regulation
+title: Circle CEO 揭示稳定币的蓬勃发展及其对金融系统的深远影响
 ---
+
 ### 稳定币：加密世界的真实存在与潜在风险
 
 欢迎收听OddLots播客的又一期节目。

@@ -1,32 +1,30 @@
 ---
-author: New York Times Podcasts
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
 date: '2025-12-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- 特朗普
+- Jeff Landry
+products_models:
+- GPT-4
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=jtwcDihsUo8
 speaker: New York Times Podcasts
-tags:
-  - llm
-  - prompt-engineering
-title: 特朗普的格陵兰战略与减肥药的新承诺
-summary: 特朗普政府推动对格陵兰的控制，认为其对美国国家安全至关重要。同时，FDA批准了一种新的减肥药的pill版本，可能会让更多人选择使用。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 特朗普
-  - Jeff Landry
-companies_orgs:
-  - OpenAI
-products_models:
-  - GPT-4
-media_books: []
 status: evergreen
+summary: 特朗普政府推动对格陵兰的控制，认为其对美国国家安全至关重要。同时，FDA批准了一种新的减肥药的pill版本，可能会让更多人选择使用。
+tags: []
+title: 特朗普的格陵兰战略与减肥药的新承诺
 ---
+
 ### 特朗普的格陵兰战略与减肥药的新承诺
 
 特朗普政府正在推动对格陵兰的控制，这是一个 semi-autonomous territory of Denmark。特朗普认为，格陵兰对美国的国家安全至关重要。

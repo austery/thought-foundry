@@ -1,59 +1,59 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Bloomberg Podcasts
+- Richmond Fed
+- Sears
+- Catera
+- Lustron Home Company
+- Sterling Homex
+- Boeing
+- McDonnell Douglas
+- Airbus
+- Embraer
+- Comac
+- Lockheed
+- AT&T
+- Nike
+- Nucor
+- Toyota
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Construction Physics
+- The Origins of Efficiency
+- Mad Men
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Brian Potter
+- Henry Ford
+- Eric Adams
+products_models:
+- A380
+project:
+- us-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Vzjva___kSI
 speaker: Bloomberg Podcasts
-tags:
-  - housing-construction-costs
-  - construction-productivity
-  - prefabricated-housing
-  - manufacturing-efficiency
-  - talent-allocation
-title: 美国住房成本居高不下：生产力停滞与预制建筑的困境
-summary: 本期节目深入探讨了美国住房建设成本高昂且效率低下的深层原因。与制造业普遍的生产力提升趋势不同，住房建设行业在过去几十年中生产力停滞甚至倒退。节目分析了预制房屋（模块化建筑）屡次失败的尝试，指出法规碎片化、场地定制化需求、高昂的运输成本以及行业对新技术的风险规避是主要障碍。此外，嘉宾还探讨了制造业的效率范式、人才分配对传统产业的影响，以及未来自动化和机器人技术可能带来的变革。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Brian Potter
-  - Henry Ford
-  - Eric Adams
-companies_orgs:
-  - Bloomberg Podcasts
-  - Richmond Fed
-  - Sears
-  - Catera
-  - Lustron Home Company
-  - Sterling Homex
-  - Boeing
-  - McDonnell Douglas
-  - Airbus
-  - Embraer
-  - Comac
-  - Lockheed
-  - AT&T
-  - Nike
-  - Nucor
-  - Toyota
-products_models:
-  - A380
-media_books:
-  - Odd Lots
-  - Construction Physics
-  - The Origins of Efficiency
-  - Mad Men
 status: evergreen
+summary: 本期节目深入探讨了美国住房建设成本高昂且效率低下的深层原因。与制造业普遍的生产力提升趋势不同，住房建设行业在过去几十年中生产力停滞甚至倒退。节目分析了预制房屋（模块化建筑）屡次失败的尝试，指出法规碎片化、场地定制化需求、高昂的运输成本以及行业对新技术的风险规避是主要障碍。此外，嘉宾还探讨了制造业的效率范式、人才分配对传统产业的影响，以及未来自动化和机器人技术可能带来的变革。
+tags:
+- cost
+- efficiency
+- geopolitical
+- productivity
+- talent
+title: 美国住房成本居高不下：生产力停滞与预制建筑的困境
 ---
+
 ### 美国住房建设的效率困境
 
 **Joe:** 住房问题在于我们尚未找到将其**离岸外包**（offshore: 将生产或服务转移到海外）给中国的方法。如果我们做到了，那么住房成本可能会像我们在中国制造的其他所有商品一样变得更便宜。

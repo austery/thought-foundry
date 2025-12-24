@@ -1,47 +1,46 @@
 ---
-author: Veritasium
-date: '2019-09-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1VPfZ_XzisU
-speaker: Veritasium
-tags:
-  - veritasium
-  - rotational-dynamics
-  - dzhanibekov-effect
-  - intermediate-axis-theorem
-  - classical-mechanics
-  - earth-rotation-stability
-title: 旋转体的奇异行为：贾尼别科夫效应、网球拍定理与地球自转之谜
-summary: 本视频深入探讨了贾尼别科夫效应（Dzhanibekov effect），又称网球拍定理或中间轴定理。通过苏联宇航员的偶然发现、科学论文的阐述以及著名数学家陶哲轩的直观解释，视频揭示了物体在旋转过程中可能出现的180度周期性翻转现象。文章还探讨了该效应在地球自转稳定性上的应用，驳斥了地球可能翻转的阴谋论，并解释了为何包括地球在内的大多数天体最终会稳定地围绕其最大转动惯量轴旋转。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - Vladimir Dzhanibekov
-  - Richard Feynman
-  - Terry Tao
-  - Louis Poinsot
-  - Don Pettit
+category: science
 companies_orgs:
-  - LastPass
-  - RusCosmos
-products_models:
-  - Salyut 7
-  - Explorer 1
+- LastPass
+- RusCosmos
+date: '2019-09-19'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Twisting Tennis Racket
-  - Landau and Lifschitz
-  - The New Theory of Rotating Bodies
-  - Salyut 7 (movie)
+- The Twisting Tennis Racket
+- Landau and Lifschitz
+- The New Theory of Rotating Bodies
+- Salyut 7 (movie)
+people:
+- Vladimir Dzhanibekov
+- Richard Feynman
+- Terry Tao
+- Louis Poinsot
+- Don Pettit
+products_models:
+- Salyut 7
+- Explorer 1
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=1VPfZ_XzisU
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了贾尼别科夫效应（Dzhanibekov effect），又称网球拍定理或中间轴定理。通过苏联宇航员的偶然发现、科学论文的阐述以及著名数学家陶哲轩的直观解释，视频揭示了物体在旋转过程中可能出现的180度周期性翻转现象。文章还探讨了该效应在地球自转稳定性上的应用，驳斥了地球可能翻转的阴谋论，并解释了为何包括地球在内的大多数天体最终会稳定地围绕其最大转动惯量轴旋转。
+tags:
+- dynamic
+- effect
+- science
+- society
+- technology
+title: 旋转体的奇异行为：贾尼别科夫效应、网球拍定理与地球自转之谜
 ---
+
 ### 旋转体的奇异行为：贾尼别科夫效应
 
 你现在看到的就是著名的**贾尼别科夫效应**（Dzhanibekov effect），它也被称为**网球拍定理**（tennis racket theorem）或**中间轴定理**（intermediate axis theorem）。

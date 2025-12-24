@@ -1,46 +1,45 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- Polymarket
+- FBI
+- Federal Reserve
+- House of Representatives
+- Senate
+- Supreme Court
 date: '2025-09-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Jerome Powell
+- Hillary Clinton
+- James Comey
+- Richard Nixon
+- Lisa Cook
+products_models: []
+project:
+- us-analysis
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=O0OL0vtedhI
 speaker: Shanghao Jin
-tags:
-  - us-fiscal-policy
-  - federal-reserve-policy
-  - government-shutdown
-  - institutional-independence
-  - capex-cycle
-  - interest-rate-outlook
-title: 2025年市场展望：财政周期、美联储政策与美国机构独立性挑战
-summary: 本文深入分析了当前美国市场面临的财政周期、潜在的政府关门风险以及美联储的货币政策走向。讨论了特朗普政府对美联储等机构独立性的影响，以及美国与中国在资本支出周期上的差异。文章强调了移民政策对劳动力市场和通胀的长期影响，并预测了短期利率和长期利率的趋势，为读者提供了全面的市场分析和政策解读。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - market-cycles
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Hillary Clinton
-  - James Comey
-  - Richard Nixon
-  - Lisa Cook
-companies_orgs:
-  - Polymarket
-  - FBI
-  - Federal Reserve
-  - House of Representatives
-  - Senate
-  - Supreme Court
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了当前美国市场面临的财政周期、潜在的政府关门风险以及美联储的货币政策走向。讨论了特朗普政府对美联储等机构独立性的影响，以及美国与中国在资本支出周期上的差异。文章强调了移民政策对劳动力市场和通胀的长期影响，并预测了短期利率和长期利率的趋势，为读者提供了全面的市场分析和政策解读。
+tags:
+- cycle
+- federal-reserve-policy
+- government-shutdown
+- institutional
+- interest-rate-outlook
+- us-fiscal-policy
+title: 2025年市场展望：财政周期、美联储政策与美国机构独立性挑战
 ---
+
 ### 市场概览：美联储的谨慎与不确定性
 
 上周，市场头寸相对谨慎，出现了近几周以来较为明显的出货。这主要是因为本周市场存在诸多**不确定性**（Uncertainty），其中最大的因素是政府可能面临**关门**（Government Shutdown: 指美国政府因国会未能及时通过拨款法案而暂停部分非必要服务的状态）的风险。我个人认为，这次政府关门对市场的影响可能不会像以往那么大。历史上，政府停摆对市场确实有影响，但这次可能不同。

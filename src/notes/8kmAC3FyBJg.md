@@ -1,43 +1,42 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- SEC
+- Nasdaq
+- Dow Jones
 date: '2024-07-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《穷查理宝典》
+people:
+- Bill Ackman
+products_models:
+- SCHG
+- QQQ
+- VOO
+- TQQQ
+project:
+- investment-strategy
+- us-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=8kmAC3FyBJg
 speaker: Shijun Tang
-tags:
-  - etf-comparison
-  - leverage-risk
-  - fundamental-analysis
-  - investment-psychology
-  - capability-circle
-title: 散户最好的躺平投资：从QQQ到SCHG，再到价值投资的底层逻辑
-summary: 本文深入分析了散户投资者在美股市场中的几种主流投资选择——从被动指数ETF（如QQQ、SCHG）到高杠杆产品TQQQ，最终指向价值投资的核心原则：能力圈、自由现金流、安全边际与理性决策。强调投资成功的关键不在于选股，而在于建立系统性认知框架。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - personal-growth-lab
-people:
-  - Bill Ackman
-  - Shijun Tang
-companies_orgs:
-  - SEC
-  - Nasdaq
-  - Dow Jones
-products_models:
-  - SCHG
-  - QQQ
-  - VOO
-  - TQQQ
-media_books:
-  - 《穷查理宝典》
 status: evergreen
+summary: 本文深入分析了散户投资者在美股市场中的几种主流投资选择——从被动指数ETF（如QQQ、SCHG）到高杠杆产品TQQQ，最终指向价值投资的核心原则：能力圈、自由现金流、安全边际与理性决策。强调投资成功的关键不在于选股，而在于建立系统性认知框架。
+tags:
+- capability-circle
+- fundamental-analysis
+- investment
+- investment-psychology
+- leverage-risk
+title: 散户最好的躺平投资：从QQQ到SCHG，再到价值投资的底层逻辑
 ---
+
 ### 什么是散户最理想的“躺平式”投资产品？
 
 最近，许多投资圈的KOL都在讨论：标普500和纳斯达克指数是否已经过时？他们声称找到了“更好的投资产品”——不是某只个股，而是一个跟踪特定指数的**交易所交易基金（ETF）**。其中被频繁提及的是**SCHG**（Schwab U.S. Large-Cap Growth ETF），它追踪的是**道琼斯美国大盘成长股指数**（Dow Jones U.S. Large-Cap Growth Index）。这类指数基金的费率极低，SCHG仅为0.04%。

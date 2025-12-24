@@ -1,44 +1,43 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CBC
+- Radio Canada
+- 加拿大皇家骑警
+- 加拿大边境管理局
+- 新民主党
 date: '2025-04-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Kamal Khera
+- Pierre Poilievre
+- Mark Carney
+- Justin Trudeau
+- Donald Trump
+products_models:
+- F-35戰鬥機
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Lk4V2-zaDi4
 speaker: 莊也雜談
-tags:
-  - canadian-election-2025
-  - party-platforms
-  - policy-comparison
-  - election-forecasting
-  - public-opinion-critique
-title: 加拿大联邦大选前瞻：自由党与保守党政策对比及AI民调解读
-summary: 本文深入分析了加拿大联邦大选前夕，自由党与保守党在环境、医疗、枪支、犯罪防治、政府支出及国防等核心议题上的最新政策与承诺。文章对比了两党在碳税、能源项目审批、全民牙科保险、控枪策略等方面的异同，并对AI预测的选举结果及民调的可靠性进行了探讨，指出影响大选的潜在变数和对加拿大未来发展的展望。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Kamal Khera
-  - Pierre Poilievre
-  - Mark Carney
-  - Justin Trudeau
-  - Donald Trump
-companies_orgs:
-  - CBC
-  - Radio Canada
-  - 加拿大皇家骑警
-  - 加拿大边境管理局
-  - 新民主党
-products_models:
-  - F-35戰鬥機
-media_books: []
 status: evergreen
+summary: 本文深入分析了加拿大联邦大选前夕，自由党与保守党在环境、医疗、枪支、犯罪防治、政府支出及国防等核心议题上的最新政策与承诺。文章对比了两党在碳税、能源项目审批、全民牙科保险、控枪策略等方面的异同，并对AI预测的选举结果及民调的可靠性进行了探讨，指出影响大选的潜在变数和对加拿大未来发展的展望。
+tags:
+- canadian-election-2025
+- geopolitical
+- platform
+- policy
+- public-opinion-critique
+title: 加拿大联邦大选前瞻：自由党与保守党政策对比及AI民调解读
 ---
+
 ### 加拿大联邦大选：两党政策深度对比与选情分析
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们继续聊加拿大大选。上集咱们谈到了自由党和保守党在降低生活成本、降低房价、移民政策、经济发展、支持工作和就业、对美关税政策以及给加拿大民众减税等多个方面的政策和承诺对比。今天咱们紧接上集，继续收集整理两党最新的施政纲领和政策。

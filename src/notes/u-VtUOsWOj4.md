@@ -1,50 +1,50 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Meta
+- Intel
+- Uber
+- AMD
+- Apple
+- Qualcomm
+- Amazon
+- ASML
+- TSMC
 date: '2024-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交事务》
+people:
+- 唐石峻
+- 张中谋
+- 杰西·斯彭斯
+- 查理·芒格
+products_models:
+- Rufus
+- NAMA
+- EUV
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=u-VtUOsWOj4
 speaker: Shijun Tang
-tags:
-  - asset-allocation
-  - free-cash-flow-analysis
-  - tech-competitive-advantage
-  - emergency-fund
-  - index-investing
-title: Meta、Intel与Uber的兴衰启示：普通人的资产配置指南
-summary: 本文深度解析Meta、Intel与Uber的财务表现与战略路径，揭示AI时代科技巨头的竞争格局，并系统提出普通人实现财富自由的资产配置方法——自住房是刚需而非投资，紧急资金不可或缺，股市是唯一可行的财富积累通道。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - 张中谋
-  - 杰西·斯彭斯
-  - 查理·芒格
-companies_orgs:
-  - Meta
-  - Intel
-  - Uber
-  - AMD
-  - Apple
-  - Qualcomm
-  - Amazon
-  - ASML
-  - TSMC
-products_models:
-  - Rufus
-  - NAMA
-  - EUV
-media_books:
-  - 《外交事务》
 status: evergreen
+summary: 本文深度解析Meta、Intel与Uber的财务表现与战略路径，揭示AI时代科技巨头的竞争格局，并系统提出普通人实现财富自由的资产配置方法——自住房是刚需而非投资，紧急资金不可或缺，股市是唯一可行的财富积累通道。
+tags:
+- analysis
+- asset-allocation
+- investing
+- investment
+- tech-competitive-advantage
+title: Meta、Intel与Uber的兴衰启示：普通人的资产配置指南
 ---
+
 ### Meta：AI与元宇宙的双引擎战略
 
 Meta是我翻了3.5倍的股票。它未来还会一直涨吗？又到了每90天一次的Meta解读环节。其实，Meta用不着我过多介绍——它是一家巨型航母级别的IT公司，业务模型非常清晰。

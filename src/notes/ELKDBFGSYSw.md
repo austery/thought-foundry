@@ -1,46 +1,44 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: psychology
+companies_orgs:
+- Meta
+- 微信
+- The Wall Street Journal
+- Massachusetts Institute of Technology
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Alone Together
+- 《尼格马克伦理学》
+people:
+- Vivack Murphy
+- Robin Williams
+- Sherry Turkle
+- 亚里士多德
+- 孔子
+- 孟子
+- 庄子
+products_models:
+- GORE-TEX
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ELKDBFGSYSw
 speaker: 徒步的騎手
-tags:
-  - social-media-loneliness
-  - dunbars-number
-  - friendship-quality
-  - social-brain-hypothesis
-  - human-connection
-title: 社交媒体时代的孤独：朋友圈的邓巴数与古老智慧的启示
-summary: 本文探讨了社交媒体时代人际交往的深层挑战，指出尽管线上朋友圈规模庞大，但人类大脑能维持的真正亲密关系数量（邓巴数150）并未改变。文章援引亚里士多德、孔孟庄子等古圣先贤的智慧，将友谊划分为不同层次，强调了德性之友的珍贵性。最终，文章呼吁人们关注核心朋友圈的质量，而非虚拟世界的数量，以对抗现代社会的孤独流行病。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Vivack Murphy
-  - Robin Williams
-  - Sherry Turkle
-  - 亚里士多德
-  - 孔子
-  - 孟子
-  - 庄子
-companies_orgs:
-  - Facebook
-  - 微信
-  - The Wall Street Journal
-  - Massachusetts Institute of Technology
-products_models:
-  - GORE-TEX
-media_books:
-  - Alone Together
-  - 《尼格马克伦理学》
 status: evergreen
+summary: 本文探讨了社交媒体时代人际交往的深层挑战，指出尽管线上朋友圈规模庞大，但人类大脑能维持的真正亲密关系数量（邓巴数150）并未改变。文章援引亚里士多德、孔孟庄子等古圣先贤的智慧，将友谊划分为不同层次，强调了德性之友的珍贵性。最终，文章呼吁人们关注核心朋友圈的质量，而非虚拟世界的数量，以对抗现代社会的孤独流行病。
+tags:
+- human
+- quality
+- social
+- technology
+title: 社交媒体时代的孤独：朋友圈的邓巴数与古老智慧的启示
 ---
 
 ### 社交媒体与朋友圈的上限

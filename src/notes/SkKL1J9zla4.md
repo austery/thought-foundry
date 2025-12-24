@@ -1,45 +1,44 @@
 ---
-author: 大伟探秘加拿大
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Canada Post
+- 加拿大邮政工人工会
+- FedEx
+- UPS
+- Amazon Logistics
+- Canadian Federation of Independent Business
+- Canada Industrial Relations Board
+- CBC
+- VIA Rail Canada
+- Immigration, Refugees and Citizenship Canada
 date: '2025-09-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 莱特邦
+- 帕罗特
+- William Kaplan
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=SkKL1J9zla4
 speaker: 大伟探秘加拿大
-tags:
-  - canada-post-strike
-  - state-owned-enterprise-reform
-  - labor-dispute
-  - public-service-dilemma
-  - political-economy
-title: 加拿大邮政大罢工：一场动摇国本的劳资冲突与国企改革困境
-summary: 2025年，加拿大邮政工人再次全国大罢工，联邦政府因邮政巨额亏损而强推改革，包括取消上门派送和关闭乡村邮局。工会将此定义为捍卫公共机构免受隐形私有化的斗争。文章深入剖析了加拿大邮政作为国有企业在商业竞争、运营效率和历史负担下的结构性困境，以及罢工对社会经济和国家认同的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 莱特邦
-  - 帕罗特
-  - William Kaplan
-companies_orgs:
-  - Canada Post
-  - 加拿大邮政工人工会
-  - FedEx
-  - UPS
-  - Amazon Logistics
-  - Canadian Federation of Independent Business
-  - Canada Industrial Relations Board
-  - CBC
-  - VIA Rail Canada
-  - Immigration, Refugees and Citizenship Canada
-products_models: []
-media_books: []
 status: evergreen
+summary: 2025年，加拿大邮政工人再次全国大罢工，联邦政府因邮政巨额亏损而强推改革，包括取消上门派送和关闭乡村邮局。工会将此定义为捍卫公共机构免受隐形私有化的斗争。文章深入剖析了加拿大邮政作为国有企业在商业竞争、运营效率和历史负担下的结构性困境，以及罢工对社会经济和国家认同的深远影响。
+tags:
+- canada
+- labor
+- political-economy
+- public
+- state
+title: 加拿大邮政大罢工：一场动摇国本的劳资冲突与国企改革困境
 ---
+
 ### 2025年加拿大邮政大罢工：一场关乎国本的冲突
 
 2025年秋季，一场劳资纠纷席卷加拿大，加拿大邮政工人再次举行全国大罢工。但这并非一次常规的劳资谈判破裂，而是加拿大邮政工人工会与联邦政府之间，就一个国家机构的根本性质和未来存亡展开的直接对抗。

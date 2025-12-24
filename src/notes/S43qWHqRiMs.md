@@ -1,32 +1,30 @@
 ---
-author: KevinFeng 冯凯文
+area: personal-systems
+category: productivity
+companies_orgs: []
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- KevinFeng
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=S43qWHqRiMs
 speaker: KevinFeng 冯凯文
-tags:
-  - language-learning
-  - input-output-gap
-  - effective-learning
-  - practical-application
-  - contextual-learning
-title: 告别哑巴英语：消除学习与使用断层的语言学习法
-summary: 本视频深入探讨了为何许多英语学习者尽管投入大量时间，却仍无法流利运用英语的困境。作者通过对比两次学车经历（中国与澳洲），生动阐释了学习方式与实际应用之间存在“断层”的问题。他提出，关键在于确保学习（输入）方式与最终使用（输出）方式保持高度一致。视频最后，作者分享了通过写日记将新词汇融入真实语境的有效方法，帮助学习者弥补断层，真正做到学以致用。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - KevinFeng
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了为何许多英语学习者尽管投入大量时间，却仍无法流利运用英语的困境。作者通过对比两次学车经历（中国与澳洲），生动阐释了学习方式与实际应用之间存在“断层”的问题。他提出，关键在于确保学习（输入）方式与最终使用（输出）方式保持高度一致。视频最后，作者分享了通过写日记将新词汇融入真实语境的有效方法，帮助学习者弥补断层，真正做到学以致用。
+tags:
+- code
+- gap
+- language-learning
+- learning
+title: 告别哑巴英语：消除学习与使用断层的语言学习法
 ---
+
 ### 为什么我们学了却用不出来？
 
 这些是我以前背过的单词语法书。有的是头脑一热，觉得我一定可以，但是后来发现我真的不行；还有的是被考试所逼，每天几十个甚至上百个单词往脑袋里塞，学得超级认真。但是我发现一个问题：当我真的要用英文的时候，基本上完全想不出来。有些时候能想起来，就是脑子里冒出来一堆词汇，可是我不知道该怎么样把它揉成一句人话，让别人能听得懂。那个时候我就在想一个问题：为什么我明明学过，而且学得那么认真，但是还是用不出来？

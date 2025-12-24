@@ -1,34 +1,31 @@
 ---
-title: 市场收盘聚焦：中美关系、科技股亮点与投资策略深度解析
-summary: 本期节目深入回顾了市场收盘情况，分析了中美紧张关系、主要科技股（AMD, HIMS）的最新动态，并探讨了个人投资组合调整、宏观经济数据及纽约州营商环境等多元话题。
-area: market-analysis
-category: finance
-project:
-- geopolitics-watch
-- investment-strategy
-- market-cycles
-tags:
-- geopolitics
-- investment-strategies
-- market-analysis
-- stock-performance
-- tech-industry
-people:
-- amit-kukreja
+area: society-thinking
+category: politics-society
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-15'
-author: Amit Kukreja
-speaker: Amit Kukreja
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- amit-kukreja
+products_models: []
+project:
+- geopolitics-watch
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=7S6IYLjk1ds
+speaker: Amit Kukreja
 status: evergreen
+summary: 本期节目深入回顾了市场收盘情况，分析了中美紧张关系、主要科技股（AMD, HIMS）的最新动态，并探讨了个人投资组合调整、宏观经济数据及纽约州营商环境等多元话题。
+tags:
+- industry
+- market-analysis
+- stock
+title: 市场收盘聚焦：中美关系、科技股亮点与投资策略深度解析
 ---
+
 ### 市场概览与盘中波动
 
 欢迎收看收盘新闻直播。今天市场经历了非常令人兴奋的一天。市场开盘时，我们虽然没有完全亏损，但失去了一点动力，随后正式进入亏损状态。这主要是受一些关于中国言论的影响，导致盘中出现了1.2%的波动并一度下跌。目前市场有所恢复，标准普尔指数当天上涨了约0.38%，虽然不如开盘时强劲，但仍是一个不错的走势。

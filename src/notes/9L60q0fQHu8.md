@@ -1,53 +1,52 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央电视台
+- 新闻评论部
 date: '2025-01-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《宠月》
+- 《分家在十月》
+- 《东方时空》
+- 《实话实说》
+- 《生活空间》
+- 《陌生人》
+- 《城市帮》
+- 《上海的水很深》
+- 《你是公民，你是一个机制》
+- 《不要走太远，忘了为什么出发》
+people:
+- 柴静
+- 陈虻
+- 崔永元
+- 王海
+- 韩秀
+- 苏晓康
+- 孙海英
+- 江先生
+- 许孔
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9L60q0fQHu8
 speaker: 柴静 Chai Jing
-tags:
-  - journalistic-integrity
-  - media-censorship
-  - independent-thinking
-  - professional-ethics
-  - media-reform
-title: 柴静忆陈虻与崔永元：独立思考与新闻人初衷的代价
-summary: 柴静回顾了她与陈虻、崔永元两位新闻前辈的深厚情谊与职业启蒙。文章探讨了在体制内做新闻的挑战、独立思考的重要性、新闻人对真实的追求，以及为坚守初衷所付出的代价。通过对陈虻和崔永元的言行回忆，柴静阐释了新闻的本质并非表达，而是服务于事实，并强调了在信息受限环境中，提供准确、可靠信息的重要性，以及自由所带来的考验。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 柴静
-  - 陈虻
-  - 崔永元
-  - 王海
-  - 韩秀
-  - 苏晓康
-  - 孙海英
-  - 江先生
-  - 许孔
-companies_orgs:
-  - 中央电视台
-  - 新闻评论部
-products_models: []
-media_books:
-  - 《宠月》
-  - 《分家在十月》
-  - 《东方时空》
-  - 《实话实说》
-  - 《生活空间》
-  - 《陌生人》
-  - 《城市帮》
-  - 《上海的水很深》
-  - 《你是公民，你是一个机制》
-  - 《不要走太远，忘了为什么出发》
 status: evergreen
+summary: 柴静回顾了她与陈虻、崔永元两位新闻前辈的深厚情谊与职业启蒙。文章探讨了在体制内做新闻的挑战、独立思考的重要性、新闻人对真实的追求，以及为坚守初衷所付出的代价。通过对陈虻和崔永元的言行回忆，柴静阐释了新闻的本质并非表达，而是服务于事实，并强调了在信息受限环境中，提供准确、可靠信息的重要性，以及自由所带来的考验。
+tags:
+- ethics
+- media
+- science
+- thinking
+title: 柴静忆陈虻与崔永元：独立思考与新闻人初衷的代价
 ---
+
 ### 崔永元对柴静的评价与新闻初衷
 
 崔永元曾提及，他与妻子已有十年未见。当年在**中央电视台**（CCTV: 中国国家广播电视机构）工作时，妻子在楼上，他下楼后，推门拉椅，两人便能面对面聊上一会儿。如今，他们相隔万里，高墙阻隔，多年未能相见。不过现在情况尚好，有人将他的YouTube节目转到国内给他看，他评论后，再请人发到他的微博账号上，以此方式与外界交流。

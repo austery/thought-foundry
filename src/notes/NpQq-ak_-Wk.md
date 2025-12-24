@@ -1,55 +1,56 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: finance
+companies_orgs:
+- Kalshi
+- Intrade
+- CME
+- CFTC
+- SEC
+- Palantir
+- Susquehanna
+- Robinhood
+- Citadel
+- JPMorgan
 date: '2025-10-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- South Park
+- Chicago Board of Trade versus Christi
+- Discord Takes Care of Itself
+people:
+- Tarek Mansour
+- John Delaney
+- Jeff Yass
+- Tracy Alloway
+- Joe Weisenthal
+- John Wooden
+- Terry Duffy
+products_models:
+- 0DTE Options
+project:
+- investment-strategy
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=NpQq-ak_-Wk
 speaker: Bloomberg Podcasts
-tags:
-  - prediction-markets
-  - regulatory-framework
-  - market-liquidity
-  - financial-innovation
-  - on-chain-markets
-title: Kalshi CEO Tarek Mansour：预测市场如何从非法走向主流，以及其未来愿景
-summary: Kalshi 首席执行官 Tarek Mansour 深入探讨了预测市场从边缘走向主流的历程。他详细阐述了 Kalshi 如何通过多年的监管斗争，包括起诉美国商品期货交易委员会（CFTC），成功地将预测市场合法化。Mansour 强调了预测市场与传统赌博在结构上的根本区别，并展望了其在对冲风险和价格发现方面的巨大潜力。文章还探讨了做市商在提供流动性方面的关键作用，以及未来将市场扩展到私人公司和证券期货的愿景，同时讨论了链上市场和传统监管框架的融合。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - systems-thinking
-people:
-  - Tarek Mansour
-  - John Delaney
-  - Jeff Yass
-  - Tracy Alloway
-  - Joe Weisenthal
-  - John Wooden
-  - Terry Duffy
-companies_orgs:
-  - Kalshi
-  - Intrade
-  - CME
-  - CFTC
-  - SEC
-  - Palantir
-  - Susquehanna
-  - Robinhood
-  - Citadel
-  - JPMorgan
-products_models:
-  - 0DTE Options
-media_books:
-  - Odd Lots
-  - South Park
-  - Chicago Board of Trade versus Christi
-  - Discord Takes Care of Itself
 status: evergreen
+summary: Kalshi 首席执行官 Tarek Mansour 深入探讨了预测市场从边缘走向主流的历程。他详细阐述了 Kalshi 如何通过多年的监管斗争，包括起诉美国商品期货交易委员会（CFTC），成功地将预测市场合法化。Mansour
+  强调了预测市场与传统赌博在结构上的根本区别，并展望了其在对冲风险和价格发现方面的巨大潜力。文章还探讨了做市商在提供流动性方面的关键作用，以及未来将市场扩展到私人公司和证券期货的愿景，同时讨论了链上市场和传统监管框架的融合。
+tags:
+- financial-innovation
+- market
+- market-liquidity
+- prediction-market
+- regulatory
+title: Kalshi CEO Tarek Mansour：预测市场如何从非法走向主流，以及其未来愿景
 ---
+
 ### 预测市场的“高光时刻”与监管挑战
 
 **Joe Weisenthal:** 各位 Odd Lots 观众大家好。

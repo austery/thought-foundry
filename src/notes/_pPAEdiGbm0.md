@@ -1,36 +1,34 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: finance
+companies_orgs:
+- IMF
+- Russian State Duma
 date: '2025-05-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Vladimir Putin
+- Boris Yeltsin
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=_pPAEdiGbm0
 speaker: 海淀拙大叔
-tags:
-  - income-distribution-reform
-  - tax-reform
-  - macroeconomic-policy
-  - economic-stimulus
-  - pareto-improvement
-title: 普京税制改革的启示：中国收入分配改革的破局之道
-summary: 本期节目探讨了中国经济当前总需求不足的问题，并提出了提高个税起征点、农村土地流转和消费税划归地方等解决方案。通过回顾俄罗斯总统普京在2000年初实施的税制改革，节目详细分析了其在极端经济困境下，如何通过降低个税、企业所得税和增值税，实现了税收增长、经济复苏和贫困率下降的多赢局面。普京的改革被视为一场典型的“帕雷托改进”，为中国当前深化收入分配改革提供了宝贵的历史借鉴和勇气。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - Vladimir Putin
-  - Boris Yeltsin
-companies_orgs:
-  - IMF
-  - Russian State Duma
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目探讨了中国经济当前总需求不足的问题，并提出了提高个税起征点、农村土地流转和消费税划归地方等解决方案。通过回顾俄罗斯总统普京在2000年初实施的税制改革，节目详细分析了其在极端经济困境下，如何通过降低个税、企业所得税和增值税，实现了税收增长、经济复苏和贫困率下降的多赢局面。普京的改革被视为一场典型的“帕雷托改进”，为中国当前深化收入分配改革提供了宝贵的历史借鉴和勇气。
+tags:
+- economic-stimulus
+- macroeconomic-policy
+- reform
+- society
+title: 普京税制改革的启示：中国收入分配改革的破局之道
 ---
+
 ### 中国经济的挑战与改革方向
 
 本期《阿甘经济宏观论》第17集，以“普京税制改革的启示”为题，开启了收入分配改革系列的第一集。当前中国经济面临的最大问题是**总需求不足**（Insufficient Aggregate Demand: 指经济中商品与服务需求总量低于潜在供给能力），解决之道在于让老百姓有钱消费。只有解决了总需求问题，中国经济才能实现可持续增长，资本市场才能迎来真正意义上的超级大牛市。

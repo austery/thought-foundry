@@ -1,48 +1,47 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Kansas City Fed
+- Bloomberg Audio Studios
+- FDIC
+- SMU
+- FOMC
 date: '2025-08-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+people:
+- Jeff Schmidt
+- Tracy Alloway
+- Joe Weisenthal
+- Mary Daly
+- Jerome Powell
+- Joe Groover
+products_models:
+- iPhone
+- Taylor rule
+- FedNow
+project:
+- us-analysis
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=rrgFu1d0fTw
 speaker: Bloomberg Podcasts
-tags:
-  - jackson-hole-symposium
-  - labor-market-dynamics
-  - monetary-policy
-  - fed-independence
-  - productivity-paradox
-title: 堪萨斯城联储主席杰夫·施密特：杰克逊霍尔会议焦点——劳动力市场、AI与美联储独立性
-summary: 在本期《Odd Lots》播客中，堪萨斯城联储主席杰夫·施密特深入探讨了杰克逊霍尔经济研讨会的核心议题。他详细阐述了劳动力市场转型，包括人口结构变化、人工智能（AI）的影响以及移民政策对经济增长的深远意义。施密特还分享了对货币政策、中性利率的看法，并强调了美联储独立性的重要性。此外，他还讨论了量化紧缩、银行储备以及即时支付系统对未来金融体系的挑战与机遇。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Jeff Schmidt
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Mary Daly
-  - Jerome Powell
-  - Joe Groover
-companies_orgs:
-  - Kansas City Fed
-  - Bloomberg Audio Studios
-  - FDIC
-  - SMU
-  - FOMC
-products_models:
-  - iPhone
-  - Taylor rule
-  - FedNow
-media_books:
-  - Odd Lots
 status: evergreen
+summary: 在本期《Odd Lots》播客中，堪萨斯城联储主席杰夫·施密特深入探讨了杰克逊霍尔经济研讨会的核心议题。他详细阐述了劳动力市场转型，包括人口结构变化、人工智能（AI）的影响以及移民政策对经济增长的深远意义。施密特还分享了对货币政策、中性利率的看法，并强调了美联储独立性的重要性。此外，他还讨论了量化紧缩、银行储备以及即时支付系统对未来金融体系的挑战与机遇。
+tags:
+- financial
+- jackson-hole-symposium
+- labor-market-dynamic
+- productivity
+title: 堪萨斯城联储主席杰夫·施密特：杰克逊霍尔会议焦点——劳动力市场、AI与美联储独立性
 ---
+
 ### 杰克逊霍尔经济研讨会：全球央行家的年度盛会
 
 **Tracy Alloway:** 大家好，欢迎收听新一期的《**Odd Lots**》（Bloomberg Podcasts旗下的金融市场播客节目）。我是Tracy Alloway。

@@ -1,36 +1,34 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
 date: '2024-04-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sholto Douglas
+- Trenton Bricken
+products_models:
+- GPT-4
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=AOt0GwY8IvU
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-agents
-  - long-context-windows
-  - reliability
-  - fine-tuning
-title: 模型区分与微调的未来：长上下文与可靠性的探讨
-summary: 本期内容深入探讨了AI模型发展的未来，预测小型与大型模型界限将模糊，微调（fine-tuning）可能消失。讨论了长上下文（long context）对AI代理（AI agents）长周期任务（Long Horizons）表现的影响，并强调模型可靠性是关键。展望了未来AI公司可能由单一通用模型构成，而非多代理协作。最后，讨论了端到端训练与强化学习（RL）的潜力，以及实现这些目标所需的高人类监督和模型可靠性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sholto Douglas
-  - Trenton Bricken
-  - Dwarkesh Patel
-companies_orgs:
-  - OpenAI
-products_models:
-  - GPT-4
-media_books: []
 status: evergreen
+summary: 本期内容深入探讨了AI模型发展的未来，预测小型与大型模型界限将模糊，微调（fine-tuning）可能消失。讨论了长上下文（long context）对AI代理（AI
+  agents）长周期任务（Long Horizons）表现的影响，并强调模型可靠性是关键。展望了未来AI公司可能由单一通用模型构成，而非多代理协作。最后，讨论了端到端训练与强化学习（RL）的潜力，以及实现这些目标所需的高人类监督和模型可靠性。
+tags:
+- ai-agent
+- llm
+- long
+- reliability
+title: 模型区分与微调的未来：长上下文与可靠性的探讨
 ---
+
 ### 模型未来趋势
 存在这样一种未来，小型模型和大型模型之间的区别将在某种程度上消失。同时，随着**长上下文**（long context: 指模型一次能处理的输入信息量，此处指能够处理非常长的文本）的出现，**微调**（fine-tuning: 指在预训练模型的基础上，针对特定任务进行的小规模模型参数调整）在某种程度上也可能消失。你可以想象一个未来，你拥有一个**动态计算资源组合**（dynamic bundle of compute: 指根据任务需求实时调整和分配计算资源的模式）和**无限上下文**（infinite context: 指模型能够处理的输入信息量没有理论上限，可以包含任意长度的文本或数据）的组合，它能将你的模型专门化用于不同的任务。
 

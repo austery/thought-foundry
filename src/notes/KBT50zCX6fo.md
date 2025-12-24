@@ -1,48 +1,46 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- Rocket Lab
+- Tesla
+- SpaceX
+- JAXA
+- Synspective
+- Firefly
+- Globalstar
+- SDA
+- MDA Space
+- NASA
 date: '2025-10-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Peter Beck
+- Donald Trump
+- Elon Musk
+products_models:
+- Electron Rocket
+- Neutron Rocket
+- Falcon 9
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=KBT50zCX6fo
 speaker: Money or Life 美股频道
-tags:
-  - rocket-lab-analysis
-  - space-industry-investment
-  - electron-rocket
-  - neutron-rocket
-  - satellite-manufacturing
-title: 深入解析火箭实验室：为何这家太空公司值得长期持有？
-summary: 本文深入分析了太空技术公司火箭实验室（Rocket Lab）的投资价值，阐述了作者为何选择长期持有其股票。文章详细介绍了火箭实验室的电子火箭发射业务、卫星制造能力以及中子火箭的最新进展，并探讨了其在军用和民用领域的巨大潜力。尽管股价波动，作者认为公司确定性强，未来市值有望达到500亿乃至1000亿美元，并分享了个人加仓策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Peter Beck
-  - Donald Trump
-  - Elon Musk
-companies_orgs:
-  - Rocket Lab
-  - Tesla
-  - SpaceX
-  - JAXA
-  - Synspective
-  - Firefly
-  - Globalstar
-  - SDA
-  - MDA Space
-  - NASA
-products_models:
-  - Electron Rocket
-  - Neutron Rocket
-  - Falcon 9
-media_books: []
 status: evergreen
+summary: 本文深入分析了太空技术公司火箭实验室（Rocket Lab）的投资价值，阐述了作者为何选择长期持有其股票。文章详细介绍了火箭实验室的电子火箭发射业务、卫星制造能力以及中子火箭的最新进展，并探讨了其在军用和民用领域的巨大潜力。尽管股价波动，作者认为公司确定性强，未来市值有望达到500亿乃至1000亿美元，并分享了个人加仓策略。
+tags:
+- analysis
+- investment
+- manufacturing
+- technology
+title: 深入解析火箭实验室：为何这家太空公司值得长期持有？
 ---
+
 ### 长期持有火箭实验室的理由
 
 欢迎来到Money or Life美股频道。本期视频，我将和大家闲聊一下，告诉大家为什么我自己现在不会考虑卖出**火箭实验室**（Rocket Lab: 一家总部位于美国、在新西兰开展业务的太空技术公司，专注于小型卫星发射和卫星制造）这家公司的股票。尽管我从10美元开始建仓，之后一直买入，均价比较低，现在已经翻了好几倍。我出这期视频的原因之一，是上周五当**唐纳德·特朗普**（Donald Trump）宣布重新对中国征收100%关税时，股价大跌，许多会员朋友居然在周五清仓了火箭实验室。我也了解到，在过去两三个月，火箭实验室的股价一直在45-55美元左右徘徊，这磨灭了许多朋友的耐心，他们也因此减仓甚至清仓。对于这些朋友，我觉得非常可惜。但是我也知道投资是很个人的事情，我们不能要求每个人都必须持有某一只股票，因为这是不现实的。对于我自己而言，火箭实验室现在的确定性大过以往任何时候。这个观点同样适用于我对特斯拉的看法，刚好特斯拉和火箭实验室就是目前我的两大重仓股，它们分别都占有超过30%的仓位。在视频接下来的部分，我将从火箭实验室的火箭发射和卫星两大业务板块，告诉大家公司最新的状况，以及为什么我认为这家从新西兰来、现在在美国立足的太空公司，将会成为一家集军用、民用为一体的超级太空公司。非常欢迎大家能够订阅我的Money or Life美股频道，这是对我视频创作的最大支持。好，那我们开始今天的内容。

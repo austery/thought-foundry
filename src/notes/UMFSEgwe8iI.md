@@ -1,41 +1,40 @@
 ---
-author: Shanghao Jin
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Nvidia
+- Microsoft
+- OpenAI
+- GOP
 date: '2025-02-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 界见闻
+people:
+- Donald Trump
+- Elon Musk
+products_models:
+- H20
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=UMFSEgwe8iI
 speaker: Shanghao Jin
-tags:
-  - market-volatility
-  - investment-strategy
-  - ai-investment
-  - political-risk
-  - economic-outlook
-title: 全球市场波动、政策影响与AI投资策略深度解析
-summary: 近期全球资本市场波动剧烈，本文深入分析了对冲基金与共同基金的持仓状况，指出市场整体存在过度扩张的压力。同时，探讨了德国选举结果及特朗普政策对欧美意识形态和经济基本面的潜在影响。文章还重点剖析了AI投资的三个阶段，特别是英伟达的估值、毛利率及硬件迭代风险。作者建议投资者对短期市场保持谨慎，不宜盲目抄底，并强调政策不确定性是当前最大的风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - Elon Musk
-companies_orgs:
-  - Nvidia
-  - Microsoft
-  - OpenAI
-  - GOP
-products_models:
-  - H20
-media_books:
-  - 界见闻
 status: evergreen
+summary: 近期全球资本市场波动剧烈，本文深入分析了对冲基金与共同基金的持仓状况，指出市场整体存在过度扩张的压力。同时，探讨了德国选举结果及特朗普政策对欧美意识形态和经济基本面的潜在影响。文章还重点剖析了AI投资的三个阶段，特别是英伟达的估值、毛利率及硬件迭代风险。作者建议投资者对短期市场保持谨慎，不宜盲目抄底，并强调政策不确定性是当前最大的风险。
+tags:
+- ai-investment
+- economic-outlook
+- market-volatility
+- political-risk
+title: 全球市场波动、政策影响与AI投资策略深度解析
 ---
+
 ### 市场波动与当前主要关注点
 
 近期全球资本市场波动剧烈，特别是美股和**中概股**（China concept stocks: 在美国上市的中国公司股票）都表现出显著的起伏。例如，上一周中概股大涨，但在随后的美股交易时段，涨幅又被大量回吐，包括阿里巴巴等公司。本文将结合当前市场的主要头寸、政治动态以及潜在的**尾部风险**（Tail Risk: 指发生概率极低但一旦发生将造成巨大损失的极端事件），分享对市场的看法。

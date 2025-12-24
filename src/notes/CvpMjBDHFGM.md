@@ -1,31 +1,28 @@
 ---
-title: Prepared创始人Michael Chime：为何我们坚持与用户并肩创新，而非闭门造车
-summary: Prepared创始人Michael Chime讲述其受童年经历启发，创建AI辅助911呼叫系统的历程。他强调通过与一线用户紧密合作，持续迭代产品，解决公共安全领域的技术滞后问题，并以“自下而上”的策略实现创新。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- 911-emergency
-- ai
-- public-safety
-- startup-strategy
-- user-centric-design
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-16'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=CvpMjBDHFGM
+speaker: EO
 status: evergreen
+summary: Prepared创始人Michael Chime讲述其受童年经历启发，创建AI辅助911呼叫系统的历程。他强调通过与一线用户紧密合作，持续迭代产品，解决公共安全领域的技术滞后问题，并以“自下而上”的策略实现创新。
+tags:
+- 911-emergency
+- design
+- public-safety
+- strategy
+title: Prepared创始人Michael Chime：为何我们坚持与用户并肩创新，而非闭门造车
 ---
+
 ### 紧急事件催生的创业灵感
 
 I kind of landed into technology and startups just by seeing that emergency happen in my community as a kid.

@@ -1,41 +1,41 @@
 ---
-author: Big Think
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- University of Cambridge
+- Natural History Museum
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- '"A Series of Fortune Events: Chance and the Making of Planet, Life, and You."'
+- '"The Origin of Species"'
+- '"The Voyage of the Beagle"'
+people:
+- Sean B. Carroll
+- Charles Darwin
+- Alfred Russel Wallace
+- Thomas Huxley
+- Thomas Malthus
+- Henry Walter Bates
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=h18ohlI-qQc
 speaker: Big Think
-tags:
-  - evolution
-  - natural-selection
-  - mutation
-  - scientific-theory
-  - biology
-title: 演化、免疫与癌症：变异与选择的统一视角
-summary: 本讲稿深入探讨了演化的核心机制——变异与自然选择，并将其类比为“阶梯式”过程。演讲者Sean B. Carroll阐述了这一机制如何驱动生命演化、塑造免疫系统以抵御病原体，以及解释癌症的发生。同时，回顾了达尔文与华莱士在演化理论发展中的关键贡献，强调了科学理论的构建过程及其深远影响。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - Sean B. Carroll
-  - Charles Darwin
-  - Alfred Russel Wallace
-  - Thomas Huxley
-  - Thomas Malthus
-  - Henry Walter Bates
-companies_orgs:
-  - University of Cambridge
-  - Natural History Museum
-products_models: []
-media_books:
-  - '"A Series of Fortune Events: Chance and the Making of Planet, Life, and You."'
-  - '"The Origin of Species"'
-  - '"The Voyage of the Beagle"'
 status: evergreen
+summary: 本讲稿深入探讨了演化的核心机制——变异与自然选择，并将其类比为“阶梯式”过程。演讲者Sean B. Carroll阐述了这一机制如何驱动生命演化、塑造免疫系统以抵御病原体，以及解释癌症的发生。同时，回顾了达尔文与华莱士在演化理论发展中的关键贡献，强调了科学理论的构建过程及其深远影响。
+tags:
+- evolution
+- geopolitical
+- health
+- mutation
+- theory
+title: 演化、免疫与癌症：变异与选择的统一视角
 ---
+
 ### 演化机制：变异与选择
 世界万物的多样性与看似有序的秩序，是如何从一个依赖于机遇的过程演化而来的？这就像一个阶梯。**机遇发明，自然选择则传播**这种机遇的产物。我们的免疫系统，以及宏观世界的演化，都遵循着**变异**（mutation）与选择的基本原理。癌症，本质上也是一种演化疾病，它源于我们正在描述的同一个演化过程。
 

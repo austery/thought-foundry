@@ -1,34 +1,33 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- George Berkeley
+- John Locke
+- David Hume
+products_models: []
+project:
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=oBOb9GD93Xw
 speaker: 大问题Dialectic
-tags:
-  - subjective-idealism
-  - empiricism
-  - perception-theory
-  - philosophical-concepts
-  - material-substance
-title: 主观唯心主义：贝克莱的“存在就是被感知”哲学解析
-summary: 本篇文章深入探讨英国哲学家乔治·贝克莱的著名命题“存在就是被感知”。通过对比约翰·洛克关于物体第一性与第二性特质的区分，文章阐释了贝克莱如何将经验主义原则贯彻到底，认为所有物质属性都依赖于主观感知，并提出了“物是观念的集合”这一核心思想，最终消解了物质实体的存在。文章旨在帮助读者真正理解这一常被误解的哲学概念。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-people:
-  - George Berkeley
-  - John Locke
-  - David Hume
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本篇文章深入探讨英国哲学家乔治·贝克莱的著名命题“存在就是被感知”。通过对比约翰·洛克关于物体第一性与第二性特质的区分，文章阐释了贝克莱如何将经验主义原则贯彻到底，认为所有物质属性都依赖于主观感知，并提出了“物是观念的集合”这一核心思想，最终消解了物质实体的存在。文章旨在帮助读者真正理解这一常被误解的哲学概念。
+tags:
+- empiricism
+- philosophy
+- subjective-idealism
+- technology
+- theory
+title: 主观唯心主义：贝克莱的“存在就是被感知”哲学解析
 ---
+
 ### 哲学大概念：存在就是被感知
 
 欢迎来到《100个哲学大概念开悟人生》。今天要讲解的哲学大概念是“存在就是被感知”这句名言。这句名言由英国哲学家**乔治·贝克莱**（George Berkeley: 17世纪爱尔兰经验主义哲学家，主观唯心主义的代表人物）提出。许多人听过这句话，并认为它是一种典型的**主观唯心主义**（Subjective Idealism: 认为一切存在都依赖于心灵或意识的感知，没有独立于感知者而存在的客观物质世界）。

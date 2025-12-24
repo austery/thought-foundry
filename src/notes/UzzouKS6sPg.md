@@ -1,54 +1,53 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Goldman Sachs
+- JPMorgan
+- Apple
+- Nvidia
+- AMD
+- TSMC
+- Intel
+- Huawei
+- Google
+- Amazon
+- Microsoft
 date: '2025-08-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Jerome Powell
+- Christopher Waller
+- Michelle Bowman
+- Pat Gelsinger
+- Masayoshi Son
+products_models:
+- H20 chip
+- GPT
+project:
+- us-analysis
+- geopolitics-watch
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=UzzouKS6sPg
 speaker: Shanghao Jin
-tags:
-  - inflation-outlook
-  - fed-monetary-policy
-  - economic-fundamentals
-  - tech-capex
-  - us-china-relations
-  - market-valuation
-title: 2025年8月市场展望：通胀、降息与科技巨头的投资策略
-summary: 本周市场焦点在于即将公布的通胀数据，以及美联储9月降息的可能性。尽管就业数据不佳，但市场对降息的定价仍显不足。文章分析了当前经济基本面可能面临的挑战，包括政府支出减少、移民政策收紧和关税影响。同时，科技巨头如苹果、英伟达在AI和数据中心领域的强劲资本支出，预示着该板块的韧性。特朗普政府的政策风格，例如对华芯片出口和对英特尔的施压，也反映出其以经济利益为导向的实用主义。整体而言，市场估值偏高，建议投资者在经济数据调整后寻找AI领域的入场时机。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - investment-strategy
-people:
-  - Donald Trump
-  - Jerome Powell
-  - Christopher Waller
-  - Michelle Bowman
-  - Pat Gelsinger
-  - Masayoshi Son
-companies_orgs:
-  - Federal Reserve
-  - Goldman Sachs
-  - JPMorgan
-  - Apple
-  - Nvidia
-  - AMD
-  - TSMC
-  - Intel
-  - Huawei
-  - Google
-  - Amazon
-  - Microsoft
-products_models:
-  - H20 chip
-  - GPT
-media_books: []
 status: evergreen
+summary: 本周市场焦点在于即将公布的通胀数据，以及美联储9月降息的可能性。尽管就业数据不佳，但市场对降息的定价仍显不足。文章分析了当前经济基本面可能面临的挑战，包括政府支出减少、移民政策收紧和关税影响。同时，科技巨头如苹果、英伟达在AI和数据中心领域的强劲资本支出，预示着该板块的韧性。特朗普政府的政策风格，例如对华芯片出口和对英特尔的施压，也反映出其以经济利益为导向的实用主义。整体而言，市场估值偏高，建议投资者在经济数据调整后寻找AI领域的入场时机。
+tags:
+- economic
+- fed-monetary-policy
+- inflation-outlook
+- market-valuation
+- tech
+- us-china-relations
+title: 2025年8月市场展望：通胀、降息与科技巨头的投资策略
 ---
+
 ### 市场概览与美联储政策展望
 
 本周市场焦点在于即将公布的通胀数据。上周经济数据不多，但本周二将发布通胀数据，市场对此高度关注。近期就业数据表现不佳，市场已开始将“**坏数据就是好数据**”（Bad News Is Good News: 指经济数据表现不佳时，市场预期美联储会降息，从而利好股市的现象）纳入定价。然而，对于上次坏数据所对应的降息预期，市场定价仍显不足。

@@ -1,37 +1,36 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- Toyota
+- Lexus
+- Amazon
 date: '2024-04-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CBC Marketplace
+products_models:
+- Faraday Box
+- OBD Port Lock
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=jiJwItxitRE
 speaker: 莊也雜談
-tags:
-  - car-theft-canada
-  - vehicle-security
-  - relay-attack
-  - obd-vulnerability
-  - vin-code-exploit
-title: 防不勝防：加拿大盜車危機下，汽車廠商的態度與竊賊的暗黑偷車技術揭秘
-summary: 本期节目深入探讨加拿大日益严重的盗车危机。庄也首先分析了汽车厂商在此问题中的立场，指出他们并非盗窃的受益者，反而因品牌形象受损、消费者抵制及高保费而成为受害者。节目随后详细揭露了窃贼利用中继攻击、OBD端口编程、VIN码配钥匙等多种高科技手段偷车的具体手法，并提供了如使用法拉第盒、OBD锁、遮盖VIN码及安装隐藏开关等实用防盗建议，旨在帮助普通民众提升防范意识。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-people: []
-companies_orgs:
-  - Toyota
-  - Lexus
-  - Amazon
-products_models:
-  - Faraday Box
-  - OBD Port Lock
-media_books:
-  - CBC Marketplace
 status: evergreen
+summary: 本期节目深入探讨加拿大日益严重的盗车危机。庄也首先分析了汽车厂商在此问题中的立场，指出他们并非盗窃的受益者，反而因品牌形象受损、消费者抵制及高保费而成为受害者。节目随后详细揭露了窃贼利用中继攻击、OBD端口编程、VIN码配钥匙等多种高科技手段偷车的具体手法，并提供了如使用法拉第盒、OBD锁、遮盖VIN码及安装隐藏开关等实用防盗建议，旨在帮助普通民众提升防范意识。
+tags:
+- canada
+- code
+- history
+- relay-attack
+- security
+title: 防不勝防：加拿大盜車危機下，汽車廠商的態度與竊賊的暗黑偷車技術揭秘
 ---
+
 哈嘍大家好，我是莊也，歡迎您收看莊也雜談加拿大系列節目。上集咱們聊了一下目前發生在加拿大的盜車危機到底有多麼嚴重，是哪些人在偷車，以及偷車的原因和目的是什麼。還有就是這些被偷的車都被銷贓去了什麼地方，以及加拿大政府在這方面有哪些地方做得還不足等等，都是一些站位比較高的觀點。今天，咱們就把這個視角下沉一下，站在普通老百姓的立場上來審視這個盜車的事兒，談幾個比較有意思的話題。
 
 ### 汽車廠商在盜車危機中的立場

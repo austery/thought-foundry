@@ -1,79 +1,79 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- White House
+- Federal Reserve
+- ADP
+- Goldman Sachs
+- BLS
+- CME
+- Fannie Mae
+- Federal Housing Administration
+- Bank of America
+- Melius
+- Google
+- Microsoft
+- Meta
+- Amazon
+- Tesla
+- Oracle
+- Robinhood
+- JPMorgan
+- AMD
+- Nvidia
+- Rocket Lab
+- Apple
+- Palantir
+- Iren
+- Eli Lilly
+- CoreWeave
+- Nebius
+- TSMC
+- Micron
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Politico
+- Fox News
+- The Big Short
+- Unchained blog
+- Substack
+people:
+- Michael Burry
+- Christian Bale
+- Warren Buffett
+- Tom Lee
+- Caroline Levit
+- Donald Trump
+- Joe Biden
+products_models:
+- S&P 500
+- SMH
+- CPI
+- ETF
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=AI8-pahzuBU
 speaker: Amit Kukreja
-tags:
-  - affordability
-  - labor-market
-  - institutional-investment
-  - market-rotation
-  - ai-bubble-debate
-  - economic-data-gap
-title: 布瑞的最新动向、机构持续买入与劳动力市场挑战：每日回顾
-summary: 本期节目深入探讨了美国经济面临的多个关键议题。首先，分析了白宫和特朗普团队如何将“可负担性”作为中期选举的核心叙事，并讨论了潜在的关税减免和2000美元退税计划。其次，节目关注了政府停摆对劳动力市场数据发布的影响，以及私人数据揭示的就业下降趋势，这可能导致美联储在决策时面临“盲飞”的困境。尽管宏观经济存在不确定性，但机构投资者（尤其是通过ETF）仍在持续买入美股，并出现从科技股向必需消费品和医疗保健板块的健康轮动。最后，节目讨论了迈克尔·布瑞对人工智能泡沫的担忧及其新博客的发布，主持人对此持不同意见，并强调了AMD等公司在AI领域的强劲增长潜力，同时承认对数据中心债务的合理担忧。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Michael Burry
-  - Christian Bale
-  - Warren Buffett
-  - Tom Lee
-  - Caroline Levit
-  - Donald Trump
-  - Joe Biden
-companies_orgs:
-  - White House
-  - Federal Reserve
-  - ADP
-  - Goldman Sachs
-  - BLS
-  - CME
-  - Fannie Mae
-  - Federal Housing Administration
-  - Bank of America
-  - Melius
-  - Google
-  - Microsoft
-  - Meta
-  - Amazon
-  - Tesla
-  - Oracle
-  - Robinhood
-  - JPMorgan
-  - AMD
-  - Nvidia
-  - Rocket Lab
-  - Apple
-  - Palantir
-  - Iren
-  - Eli Lilly
-  - CoreWeave
-  - Nebius
-  - TSMC
-  - Micron
-products_models:
-  - S&P 500
-  - SMH
-  - CPI
-  - ETF
-media_books:
-  - Politico
-  - Fox News
-  - The Big Short
-  - Unchained blog
-  - Substack
 status: evergreen
+summary: 本期节目深入探讨了美国经济面临的多个关键议题。首先，分析了白宫和特朗普团队如何将“可负担性”作为中期选举的核心叙事，并讨论了潜在的关税减免和2000美元退税计划。其次，节目关注了政府停摆对劳动力市场数据发布的影响，以及私人数据揭示的就业下降趋势，这可能导致美联储在决策时面临“盲飞”的困境。尽管宏观经济存在不确定性，但机构投资者（尤其是通过ETF）仍在持续买入美股，并出现从科技股向必需消费品和医疗保健板块的健康轮动。最后，节目讨论了迈克尔·布瑞对人工智能泡沫的担忧及其新博客的发布，主持人对此持不同意见，并强调了AMD等公司在AI领域的强劲增长潜力，同时承认对数据中心债务的合理担忧。
+tags:
+- affordability
+- ai-bubble-debate
+- economic
+- investment
+- labor-market
+- market-rotation
+title: 布瑞的最新动向、机构持续买入与劳动力市场挑战：每日回顾
 ---
+
 ### 宏观经济概览：白宫政策、布瑞警示与市场动态
 
 今天我们将讨论许多重要议题，包括白宫的最新动态，特别是我们一直关注的宏观数据更新。

@@ -1,35 +1,34 @@
 ---
-author: Shanghao Jin
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 美联储
 date: '2025-02-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=pWgfJJS_96E
 speaker: Shanghao Jin
-tags:
-  - us-market-outlook
-  - investment-strategy
-  - trade-tariffs
-  - inflation-forecast
-  - ai-applications
-title: 2025年市场展望：美股投资策略、通胀与关税影响及AI应用前景分析
-summary: 本文深入分析了2025年宏观经济与市场环境的根本性变化，并提出了相应的投资策略。与往年不同，当前市场面临更大的政策不确定性，建议投资者维持60-65%的美股仓位并保留现金。文章详细探讨了美国通胀的稳定趋势、特朗普关税政策对全球贸易及美国经济的潜在影响，以及美联储降息预期的调整。此外，还对AI投资从基础设施转向应用层面的机遇与风险进行了评估，并对中国和欧洲经济的短期反弹持谨慎态度，强调其基本面与美国存在差异。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Donald Trump
-companies_orgs:
-  - 美联储
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了2025年宏观经济与市场环境的根本性变化，并提出了相应的投资策略。与往年不同，当前市场面临更大的政策不确定性，建议投资者维持60-65%的美股仓位并保留现金。文章详细探讨了美国通胀的稳定趋势、特朗普关税政策对全球贸易及美国经济的潜在影响，以及美联储降息预期的调整。此外，还对AI投资从基础设施转向应用层面的机遇与风险进行了评估，并对中国和欧洲经济的短期反弹持谨慎态度，强调其基本面与美国存在差异。
+tags:
+- ai-application
+- inflation-forecast
+- trade-tariff
+- us-market-outlook
+title: 2025年市场展望：美股投资策略、通胀与关税影响及AI应用前景分析
 ---
+
 ### 2025年市场策略调整：为何从全仓买入转向适度仓位
 
 今天，我将回答朋友们提出的两个核心问题：首先，为什么我们不再建议像去年那样采用全仓买入股票并购买看跌期权（**str rate gy**，即策略）的投资方式？其次，为什么在不建议全仓的情况下，又不建议完全清仓？

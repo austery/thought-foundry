@@ -1,37 +1,36 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- TED
+- Harris Poll
+- University of California, Berkeley
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jamie Woolf
+- Christopher Bell
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Qej_ZzMV5_0
 speaker: TED
-tags:
-  - bad-bosses
-  - power-blind-spot
-  - self-reflection
-  - leadership-development
-  - workplace-dynamics
-title: 好人为何会变成坏老板？揭秘权力盲点与自我反省之道
-summary: 本视频深入探讨了职场中普遍存在的“坏老板”问题，并引入了“权力盲点”这一核心概念。两位演讲者通过亲身经历，阐释了身居高位者如何因权力而失去对他人感受和自身行为影响的认知。文章强调了自我反省的重要性，并提出了三个关键问题，帮助领导者打破坏老板循环，建立更具同理心和信任感的团队关系。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Jamie Woolf
-  - Christopher Bell
-companies_orgs:
-  - TED
-  - Harris Poll
-  - University of California, Berkeley
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了职场中普遍存在的“坏老板”问题，并引入了“权力盲点”这一核心概念。两位演讲者通过亲身经历，阐释了身居高位者如何因权力而失去对他人感受和自身行为影响的认知。文章强调了自我反省的重要性，并提出了三个关键问题，帮助领导者打破坏老板循环，建立更具同理心和信任感的团队关系。
+tags:
+- bad-boss
+- dynamic
+- leadership-development
+- power
+- self
+title: 好人为何会变成坏老板？揭秘权力盲点与自我反省之道
 ---
+
 ### 坏老板的普遍困境
 
 潔美‧伍爾夫：在我得知我需要接受手术的那一天，才意识到我那时的老板真的很糟。那时我二十六岁，被告知这项手术可能会让我将来无法生孩子。我身心交瘁，但我心中最强烈的情绪，反而是一股兴奋感，因为接受手术表示我可以远离我老板五个星期，这个老板让我的人生很悲惨。先说清楚，我现在有两个很棒的孩子，而我今天会在这里，部分原因是他们比一般人遇到更多烂老板，且他们的职涯才刚开始。

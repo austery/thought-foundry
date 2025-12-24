@@ -1,47 +1,46 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-03-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Descartes' Error
+- The Phenomenology of Spirit
+- Critique of Practical Reason
+- The Foundations of the Metaphysics of Morals
+people:
+- Anthony
+- Mao Zedong
+- Locke
+- Kant
+- Hayek
+- Rawls
+- Descartes
+- Hegel
+- Damasio
+- Rogers
+- Lenin
+products_models: []
+project:
+- personal-growth-lab
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=idgvw0k2nnI
 speaker: Anthony看世界
-tags:
-  - political-differences
-  - intimate-relationships
-  - parent-child-dynamics
-  - brainwashing-anxiety
-  - emotional-intelligence
-title: 亲密关系中的政治分歧：如何避免孩子被“洗脑”及政治性抑郁的化解
-summary: 本文探讨了在亲密关系，尤其是亲子关系中，如何处理政治观念差异的问题。作者通过两个典型案例，分析了父母试图纠正孩子政治思想时，为何常常适得其反，甚至加剧了自身的政治性抑郁。文章强调，在私人领域，通过理论辩论改变他人思想并非良策，真正的连接超越意识形态。它深入探讨了“内隐关系知识”和“社会生物反馈”机制，指出情感的自由表达和父母的积极反馈对孩子主体性、自我认知及理性能力培养的重要性，并批判了将亲密关系政治化的倾向，呼吁人们回归真诚的情感交流，而非用政治来逃避真实感受。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-  - systems-thinking
-people:
-  - Anthony
-  - Mao Zedong
-  - Locke
-  - Kant
-  - Hayek
-  - Rawls
-  - Descartes
-  - Hegel
-  - Damasio
-  - Rogers
-  - Lenin
-companies_orgs: []
-products_models: []
-media_books:
-  - Descartes' Error
-  - The Phenomenology of Spirit
-  - Critique of Practical Reason
-  - The Foundations of the Metaphysics of Morals
 status: evergreen
+summary: 本文探讨了在亲密关系，尤其是亲子关系中，如何处理政治观念差异的问题。作者通过两个典型案例，分析了父母试图纠正孩子政治思想时，为何常常适得其反，甚至加剧了自身的政治性抑郁。文章强调，在私人领域，通过理论辩论改变他人思想并非良策，真正的连接超越意识形态。它深入探讨了“内隐关系知识”和“社会生物反馈”机制，指出情感的自由表达和父母的积极反馈对孩子主体性、自我认知及理性能力培养的重要性，并批判了将亲密关系政治化的倾向，呼吁人们回归真诚的情感交流，而非用政治来逃避真实感受。
+tags:
+- anxiety
+- dynamic
+- emotional-intelligence
+- political
+- relationship
+title: 亲密关系中的政治分歧：如何避免孩子被“洗脑”及政治性抑郁的化解
 ---
 
 ### 亲密关系中的政治分歧与“洗脑”焦虑

@@ -1,53 +1,52 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NATO
+- European Union
+- G8
+- G20
+- Raytheon
+- Lockheed Martin
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Volodymyr Zelenskyy
+- Steve Witkoff
+- Kirill Dmitriev
+- Keith Kellogg
+- Michael Pence
+- Jared Kushner
+- Marco Rubio
+- JD Vance
+- Vladimir Putin
+- Ursula von der Leyen
+- Emmanuel Macron
+products_models:
+- ATACMS
+- Patriot missile system
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=uPQGjvTfAgE
 speaker: FearNation 世界苦茶
-tags:
-  - ukraine-peace-plan
-  - us-russia-relations
-  - geopolitical-strategy
-  - munich-agreement-analogy
-  - transactional-diplomacy
-title: 特朗普背刺乌克兰？深度解析美俄28条“和平协议”的惊人内幕
-summary: 一份由特朗普亲信圈子与俄罗斯共同炮制的28条乌克兰“和平方案”被曝光。该方案内容骇人听闻，不仅要求乌克兰以主权和领土换取停火，承认克里米亚等地区为俄罗斯法定领土，还规定对俄罗斯的战争罪行实行全面大赦。更令人震惊的是，协议计划由美俄主导乌克兰的战后重建，资金由欧盟和冻结的俄罗斯资产提供，而美国不出钱却能分走一半利润。本文深度剖析了这份堪称“现代慕尼黑协定”的方案，揭示了其背后的操盘手、特朗普的真实动机，以及它如何出卖乌克兰、欧盟和美国自身的长远地缘政治利益。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Steve Witkoff
-  - Kirill Dmitriev
-  - Keith Kellogg
-  - Michael Pence
-  - Jared Kushner
-  - Marco Rubio
-  - JD Vance
-  - Vladimir Putin
-  - Ursula von der Leyen
-  - Emmanuel Macron
-companies_orgs:
-  - NATO
-  - European Union
-  - G8
-  - G20
-  - Raytheon
-  - Lockheed Martin
-products_models:
-  - ATACMS
-  - Patriot missile system
-media_books: []
 status: evergreen
+summary: 一份由特朗普亲信圈子与俄罗斯共同炮制的28条乌克兰“和平方案”被曝光。该方案内容骇人听闻，不仅要求乌克兰以主权和领土换取停火，承认克里米亚等地区为俄罗斯法定领土，还规定对俄罗斯的战争罪行实行全面大赦。更令人震惊的是，协议计划由美俄主导乌克兰的战后重建，资金由欧盟和冻结的俄罗斯资产提供，而美国不出钱却能分走一半利润。本文深度剖析了这份堪称“现代慕尼黑协定”的方案，揭示了其背后的操盘手、特朗普的真实动机，以及它如何出卖乌克兰、欧盟和美国自身的长远地缘政治利益。
+tags:
+- diplomacy
+- geopolitical-strategy
+- relations
+- society
+- ukraine-peace-plan
+title: 特朗普背刺乌克兰？深度解析美俄28条“和平协议”的惊人内幕
 ---
+
 ### 一份出卖乌克兰的“投降方案”
 
 今天我们来谈论一个非常沉重的话题：美国最终还是背刺了乌克兰。虽然整个事件尚未结束，欧盟目前正强硬地顶住压力，事情或许不会以最坏的方式发展，但现状已经足够糟糕了。美国与俄罗斯联手炮制了一份实质性的乌克兰投降方案，被称为“28条”，并已提交给乌克兰。

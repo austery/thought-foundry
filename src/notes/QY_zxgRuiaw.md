@@ -1,25 +1,25 @@
 ---
-author: 一口新飯
+area: ''
+category: ''
+companies_orgs: []
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=QY_zxgRuiaw
 speaker: 一口新飯
+status: evergreen
+summary: \"本文分享了作者十年自由职业经验中关于时间管理的认知转变，强调了管理注意力的重要性，并提供了具体的方法和心法，包括时间划分、单任务处理、环境切换以及强制关机等，旨在帮助读者提高工作效率和生活质量。\"
 tags: []
 title: \"自由职业时间管理：从时间到注意力的转变\"
-summary: \"本文分享了作者十年自由职业经验中关于时间管理的认知转变，强调了管理注意力的重要性，并提供了具体的方法和心法，包括时间划分、单任务处理、环境切换以及强制关机等，旨在帮助读者提高工作效率和生活质量。\"
-insight: ''
-draft: true
-series: ''
-category: ''
-area: ''
-project: []
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-status: evergreen
 ---
+
 ### 自由职业与时间管理的困惑
 
 从2014年开始做自由职业，到现在已经超过十年了，经常有人问我如何管理时间。说实话，刚开始的时候我也十分头疼，因为突然拥有大把的时间，才意识到自己以前是被公司schedule管理的。一旦没了那个框架，就不知道该怎么办。但摸爬滚打下来，我现在已经习惯了。今天就来分享一下我是如何管理自己的时间的，无论你是不是自由职业者，这里有很多的心法和方法论，相信对你都非常实用。

@@ -1,51 +1,49 @@
 ---
-author: The Pragmatic Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Sonar
+- StatSic
+- Linear
+- YouTube
+- GitHub
+- Mitra
+- Microsoft
+- Atlassian
+- Brex
+- Sierra
+- Stack Overflow
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Pragmatic Engineer
+people:
+- Johannes Doss
+products_models:
+- npm
+- GPT-4
+- GPT-5
+- Claude
+- Llama
+- Open Coder
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=urVf2oNqtXU
 speaker: The Pragmatic Engineer
-tags:
-  - code-security
-  - shift-left-security
-  - threat-landscape
-  - ai-generated-code
-  - application-security
-title: 代码安全之道：从渗透测试到AI时代的新挑战
-summary: 本期内容深入探讨了软件工程师必须了解的代码安全基础。嘉宾 Johannes Doss 分享了他从渗透测试到代码安全专家的经验，剖析了安全责任“左移”至开发者的行业趋势。文章详细区分了代码安全与应用安全，列举了SQL注入、密钥泄露等常见漏洞，并介绍了SAST、SCA等关键工具。此外，还重点讨论了AI对代码安全带来的双重影响——既产生了提示词注入等新风险，也为自动化修复提供了可能，强调了代码质量与安全的紧密联系。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Johannes Doss
-companies_orgs:
-  - Sonar
-  - StatSic
-  - Linear
-  - YouTube
-  - GitHub
-  - Mitra
-  - Microsoft
-  - Atlassian
-  - Brex
-  - Sierra
-  - Stack Overflow
-products_models:
-  - npm
-  - GPT-4
-  - GPT-5
-  - Claude
-  - Llama
-  - Open Coder
-media_books:
-  - The Pragmatic Engineer
 status: evergreen
+summary: 本期内容深入探讨了软件工程师必须了解的代码安全基础。嘉宾 Johannes Doss 分享了他从渗透测试到代码安全专家的经验，剖析了安全责任“左移”至开发者的行业趋势。文章详细区分了代码安全与应用安全，列举了SQL注入、密钥泄露等常见漏洞，并介绍了SAST、SCA等关键工具。此外，还重点讨论了AI对代码安全带来的双重影响——既产生了提示词注入等新风险，也为自动化修复提供了可能，强调了代码质量与安全的紧密联系。
+tags:
+- code
+- security
+- threat-landscape
+title: 代码安全之道：从渗透测试到AI时代的新挑战
 ---
+
 ### 引言：软件工程师应知的代码安全基础
 每个软件开发者都应该了解哪些代码安全基础知识？首先，要真正了解并理解你的代码在做什么。这听起来可能有点傻，也很明显，但这正是安全专家在你的代码中发现安全问题的方式。例如，我可能会设置一个MCP服务器，声称它在做某件事，但实际上它在秘密地做另一件事，并且在本地运行。随着AI代理的出现和更多控制权的下放，出现了一种新的威胁。这不仅仅关系到你使用的依赖库或你机器的整体安全，还关系到要确保你使用的代理正在做正确的事情。
 

@@ -1,47 +1,46 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: business
+companies_orgs:
+- 小米
+- 特斯拉
+- 比亚迪
+- 赛力斯
+- 理想
+- 西门子
+- 博世
+- 大金
+- 日立
+- 海信
+- 格力
 date: '2025-08-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 卢伟斌
+products_models:
+- 速漆
+- 预漆
+project:
+- china-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=E1YoJJVY0Ww
 speaker: 海淀拙大叔
-tags:
-  - xiaomi-earnings
-  - electric-vehicles
-  - ai-ecosystem
-  - business-strategy
-  - market-valuation
-title: 小米中报深度解析：汽车业务盈利在望，生态粘性与AI原生应用构建宏大未来
-summary: 本文深入分析了小米2025年上半年财报，指出其汽车业务有望在第三季度实现盈利，并详细阐述了小米在硬件、软件、生态、全场景应用及大数据方面的五大优势。文章进一步探讨了小米通过强化“人车家”全场景生态粘性，向物联网服务商转型的中期目标，以及通过率先推出AI原生应用，实现商业模式颠覆性创新的长期愿景，并展望了小米未来增长的关键节点。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - 卢伟斌
-companies_orgs:
-  - 小米
-  - 特斯拉
-  - 比亚迪
-  - 赛力斯
-  - 理想
-  - 西门子
-  - 博世
-  - 大金
-  - 日立
-  - 海信
-  - 格力
-products_models:
-  - 速漆
-  - 预漆
-media_books: []
 status: evergreen
+summary: 本文深入分析了小米2025年上半年财报，指出其汽车业务有望在第三季度实现盈利，并详细阐述了小米在硬件、软件、生态、全场景应用及大数据方面的五大优势。文章进一步探讨了小米通过强化“人车家”全场景生态粘性，向物联网服务商转型的中期目标，以及通过率先推出AI原生应用，实现商业模式颠覆性创新的长期愿景，并展望了小米未来增长的关键节点。
+tags:
+- ai-ecosystem
+- business-strategy
+- earning
+- electric-vehicle
+- market-valuation
+title: 小米中报深度解析：汽车业务盈利在望，生态粘性与AI原生应用构建宏大未来
 ---
+
 ### 小米中报表现与五大核心优势
 
 小米公司研究论第23集，聚焦小米的中报。2025年上半年，小米收入约2200亿元，同比增长38%；净利润达228亿元，同比增长140%，表现亮眼。然而，小米股价并未显著上涨。本文旨在探讨小米未来的**宏大叙事**（Grand Narrative: 指一个企业或品牌超越短期业绩，构建的具有长远吸引力和愿景的发展故事）。

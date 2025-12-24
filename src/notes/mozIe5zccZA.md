@@ -1,123 +1,122 @@
 ---
-author: Amit Kukreja
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- S&P 500
+- MicroStrategy
+- Coinbase
+- Robinhood
+- Meta
+- Nvidia
+- Oracle
+- Tesla
+- Palantir
+- AMD
+- Broadcom
+- Morgan Stanley
+- Key Bank
+- Bureau of Labor Statistics
+- New York Times
+- JP Morgan
+- Verizon
+- UPS
+- Google
+- Amazon
+- Costco
+- Walmart
+- SoFi
+- D-Wave
+- Rigetti
+- Oklo
+- Rocket Lab
+- Nike
+- Nubank
+- Coca-Cola
+- McDonald's
+- Berkshire Hathaway
+- Duolingo
+- Salesforce
+- PayPal
+- T-Mobile
+- Microsoft
+- OpenDoor
+- Upstart
+- Lennar
+- Hims & Hers
+- Anthropic
+- XAI
+- TSMC
+- Deutsche Bank
+- Wedbush
+- Benchmark
+- Uber
+- Snapchat
+- Target
+- Starbucks
+- Super Micro Computer
+- SoundHound
+- DoorDash
+- Samsung
+- OpenAI
+- FBI
+- DOJ
+- White House
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《New York Times》
+- 《Bloomberg ETF Flows》
+- 《Fox News》
+people:
+- Donald Trump
+- Michael Saylor
+- Jensen Huang
+- Tom Lee
+- JD Vance
+- Bill Clinton
+- Larry Summers
+- Reed Hoffman
+- Elon Musk
+- Ron Baron
+- Dan Ives
+- Dan Niles
+- Michael Bur
+products_models:
+- Bitcoin
+- Ethereum
+- Blackwell
+- Hopper H100
+- Ampere A100
+- TensorRT-LLM
+- ChatGPT
+- Gemini
+- Sonnet
+- Grok
+- iMessage
+- Facebook Messenger
+- WhatsApp
+- Microsoft Office
+- XAI
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=mozIe5zccZA
 speaker: Amit Kukreja
-tags:
-  - market-selloff
-  - ai-capex
-  - crypto-deleveraging
-  - fed-policy
-  - tariff-policy
-title: 市场开盘：抛售潮持续与反转机遇
-summary: 本期市场开盘节目深入探讨了当前市场抛售潮的成因，包括加密货币去杠杆化、AI资本支出担忧以及十月份数据透明度不足。主持人分析了这些问题是结构性还是偶发性，并讨论了特朗普推文对市场情绪的影响。尽管美联储官员对通胀和劳动力市场存在分歧，市场在开盘后出现V形反转，显示出买方力量的介入，尤其是在科技股和AI相关领域。节目最后强调了在波动市场中保持长期投资信念的重要性。
-insight: ''
-draft: true
-series: ''
-category: stock-investment
-area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Amit Kukreja
-  - Donald Trump
-  - Michael Saylor
-  - Jensen Huang
-  - Tom Lee
-  - JD Vance
-  - Bill Clinton
-  - Larry Summers
-  - Reed Hoffman
-  - Elon Musk
-  - Ron Baron
-  - Dan Ives
-  - Dan Niles
-  - Michael Bur
-companies_orgs:
-  - S&P 500
-  - MicroStrategy
-  - Coinbase
-  - Robinhood
-  - Meta
-  - Nvidia
-  - Oracle
-  - Tesla
-  - Palantir
-  - AMD
-  - Broadcom
-  - Morgan Stanley
-  - Key Bank
-  - Bureau of Labor Statistics
-  - New York Times
-  - JP Morgan
-  - Verizon
-  - UPS
-  - Google
-  - Amazon
-  - Costco
-  - Walmart
-  - SoFi
-  - D-Wave
-  - Rigetti
-  - Oklo
-  - Rocket Lab
-  - Nike
-  - Nubank
-  - Coca-Cola
-  - McDonald's
-  - Berkshire Hathaway
-  - Duolingo
-  - Salesforce
-  - PayPal
-  - T-Mobile
-  - Microsoft
-  - OpenDoor
-  - Upstart
-  - Lennar
-  - Hims & Hers
-  - Anthropic
-  - XAI
-  - TSMC
-  - Deutsche Bank
-  - Wedbush
-  - Benchmark
-  - Uber
-  - Snapchat
-  - Target
-  - Starbucks
-  - Super Micro Computer
-  - SoundHound
-  - DoorDash
-  - Samsung
-  - OpenAI
-  - FBI
-  - DOJ
-  - White House
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Blackwell
-  - Hopper H100
-  - Ampere A100
-  - TensorRT-LLM
-  - ChatGPT
-  - Gemini
-  - Sonnet
-  - Grok
-  - iMessage
-  - Facebook Messenger
-  - WhatsApp
-  - Microsoft Office
-  - XAI
-media_books:
-  - 《New York Times》
-  - 《Bloomberg ETF Flows》
-  - 《Fox News》
 status: evergreen
+summary: 本期市场开盘节目深入探讨了当前市场抛售潮的成因，包括加密货币去杠杆化、AI资本支出担忧以及十月份数据透明度不足。主持人分析了这些问题是结构性还是偶发性，并讨论了特朗普推文对市场情绪的影响。尽管美联储官员对通胀和劳动力市场存在分歧，市场在开盘后出现V形反转，显示出买方力量的介入，尤其是在科技股和AI相关领域。节目最后强调了在波动市场中保持长期投资信念的重要性。
+tags:
+- crypto-deleveraging
+- fed-policy
+- llm
+- market
+- tariff-policy
+title: 市场开盘：抛售潮持续与反转机遇
 ---
+
 ### 市场概览与加密货币抛售
 
 大家好，欢迎回到市场开盘节目。很抱歉我迟到了，我们遇到了一些技术问题，但现在我们已经上线了，是时候开始节目了。今天是个糟糕的日子，延续了昨天的糟糕。昨天市场表现很差，我们所有人都预料到会有更多痛苦，因为昨天没有太多好消息，盘后也没有。没有核心的短期催化剂可以预期市场会反转，或者有任何有意义的理由让盘前市场转绿。我们看到 **S&P 500** 在盘前又下跌了1%，但 **S&P 500** 甚至不是今天的主要问题。

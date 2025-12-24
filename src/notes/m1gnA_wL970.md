@@ -1,47 +1,47 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: technology
+companies_orgs:
+- OpenAI
+- SSI
+- Google
+- Anthropic
+- GitHub
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《思考快与慢》
+people:
+- Ilya Sutskever
+- Gary Marcus
+- Yann LeCun
+- Sutton
+products_models:
+- ChatGPT
+- AlphaGo
+- o1 model
+- Neuralink
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=m1gnA_wL970
 speaker: 北美王路飞
-tags:
-  - ai-development
-  - scaling-laws
-  - value-function
-  - slow-thinking
-  - ai-safety
-  - human-ai-fusion
-title: AI发展新范式：从“数据工厂”到“内在裁判”的智能跃迁
-summary: 本文深入探讨了AI发展模式的转变，从过去依赖海量数据和算力进行“预训练”的“卷王”模式，转向强调内在“价值函数”和“慢思考”的“研究时代”。文章引用OpenAI前首席科学家伊尔亚·苏茨克维的观点，指出当前AI在复杂问题上缺乏判断力，呼吁引入类似人类情绪的直觉机制以提高学习效率。同时，文章也讨论了超级智能带来的权力挑战、安全对齐的重要性，以及人类与AI融合的未来可能性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ilya Sutskever
-  - Gary Marcus
-  - Yann LeCun
-  - Sutton
-companies_orgs:
-  - OpenAI
-  - SSI
-  - Google
-  - Anthropic
-  - GitHub
-products_models:
-  - ChatGPT
-  - AlphaGo
-  - o1 model
-  - Neuralink
-media_books:
-  - 《思考快与慢》
 status: evergreen
+summary: 本文深入探讨了AI发展模式的转变，从过去依赖海量数据和算力进行“预训练”的“卷王”模式，转向强调内在“价值函数”和“慢思考”的“研究时代”。文章引用OpenAI前首席科学家伊尔亚·苏茨克维的观点，指出当前AI在复杂问题上缺乏判断力，呼吁引入类似人类情绪的直觉机制以提高学习效率。同时，文章也讨论了超级智能带来的权力挑战、安全对齐的重要性，以及人类与AI融合的未来可能性。
+tags:
+- ai-development
+- ai-safety
+- human
+- scaling-law
+- thinking
+- value
+title: AI发展新范式：从“数据工厂”到“内在裁判”的智能跃迁
 ---
+
 ### AI现状与“缓慢的腾飞”
 
 当我们环顾四周，世界似乎一切如常：快递员穿梭于大街小巷，红绿灯有节奏地闪烁，邻居们照常遛狗。然而，就在我们说话的这一刻，全球GDP约1%，即数千亿美元的真金白银，正被疯狂地投入到同一个领域——人工智能。按照常理，如此巨量的资源注入一项技术，我们应该能够看到某种惊天动地的爆炸式发展，我们想象中的AI革命，应该是机器人满街跑，或是超级大脑瞬间解决了癌症。

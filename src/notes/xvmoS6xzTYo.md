@@ -1,56 +1,56 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- 美联储
+- S&P Global
+- Tether
+- Circle
+- OpenAI
+- ARK Invest
+- SVB
+- Investing.com
+- AMD
+- Amazon
+- Microsoft
+- Intel
+- ARM Holdings
+- GEV
+- SE
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《鹤皮书》
+people:
+- 鲍威尔
+products_models:
+- USDC
+- USDT
+- SOXL
+- SOXS
+- KBWB
+- AEXA
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=xvmoS6xzTYo
 speaker: 投资TALK君
-tags:
-  - fed-policy
-  - interest-rates
-  - stablecoin-risk
-  - investment-beta
-  - portfolio-management
-title: 美联储12月降息基本确定？稳定币USDT评级下调与个人投资组合降贝塔策略
-summary: 本期节目深入探讨了美联储12月降息预期的确立，主要基于《鹤皮书》显示的劳动力市场放缓。同时，分析了S&P Global下调Tether旗下USDT稳定币评级的原因，指出其资产构成中的高风险部分。最后，分享了主持人近两个月通过换仓、减仓高贝塔资产及利用做空工具，实现投资组合降贝塔的实战策略与背后逻辑，旨在应对市场高位和未来回报预期调整。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - 鲍威尔
-companies_orgs:
-  - 美联储
-  - S&P Global
-  - Tether
-  - Circle
-  - OpenAI
-  - ARK Invest
-  - SVB
-  - Investing.com
-  - AMD
-  - Amazon
-  - Microsoft
-  - Intel
-  - ARM Holdings
-  - GEV
-  - SE
-products_models:
-  - USDC
-  - USDT
-  - SOXL
-  - SOXS
-  - KBWB
-  - AEXA
-media_books:
-  - 《鹤皮书》
 status: evergreen
+summary: 本期节目深入探讨了美联储12月降息预期的确立，主要基于《鹤皮书》显示的劳动力市场放缓。同时，分析了S&P Global下调Tether旗下USDT稳定币评级的原因，指出其资产构成中的高风险部分。最后，分享了主持人近两个月通过换仓、减仓高贝塔资产及利用做空工具，实现投资组合降贝塔的实战策略与背后逻辑，旨在应对市场高位和未来回报预期调整。
+tags:
+- fed-policy
+- interest-rate
+- investment
+- portfolio-management
+- risk
+title: 美联储12月降息基本确定？稳定币USDT评级下调与个人投资组合降贝塔策略
 ---
+
 ### 本期内容提要
 
 本期节目主要涵盖以下几个方面：首先，将探讨美联储12月底会议降息基本确定的原因，并分享一组最新数据；其次，分析S&P Global下调Tether旗下稳定币USDT评级的事件及其背后逻辑；最后，回顾过去约两个月时间里，个人在投资操作中如何实施“降**贝塔**”（Beta: 衡量资产相对于市场整体波动性的指标）策略，并解释其思路，包括为何不直接留出现金仓位等问题。

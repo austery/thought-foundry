@@ -1,38 +1,38 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-03-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Possible Girls
+- 《太平洋哲学季刊》
+- 《罗拉快跑》
+people:
+- David Lewis
+- Neil Sinhababu
+products_models:
+- GPT
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=0RdlFUvZYgk
 speaker: 大问题Dialectic
-tags:
-  - singlehood
-  - relationship-strategy
-  - modal-realism
-  - possible-worlds
-  - self-esteem
-title: 哲学视角下的恋爱攻略：如何在可能世界中寻找异次元伴侣
-summary: 本期节目探讨了当代社会单身现象背后的原因，并提出了一种基于美国哲学家大卫·刘易斯“模态实在论”的独特恋爱攻略。通过新加坡国立大学哲学家尼尔·辛哈巴布的论文《可能世界的女友》，节目详细阐述了如何在近乎无穷的可能世界中，找到并确定与自己互为理想型的“异次元女友”，并建立双向奔赴的恋爱关系。攻略涵盖了如何定义理想型、锁定唯一伴侣、跨次元通信，以及处理现实与可能世界恋爱中的道德困境，旨在提升个人自尊，实现情感满足。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - David Lewis
-  - Neil Sinhababu
-companies_orgs: []
-products_models:
-  - GPT
-media_books:
-  - Possible Girls
-  - 《太平洋哲学季刊》
-  - 《罗拉快跑》
 status: evergreen
+summary: 本期节目探讨了当代社会单身现象背后的原因，并提出了一种基于美国哲学家大卫·刘易斯“模态实在论”的独特恋爱攻略。通过新加坡国立大学哲学家尼尔·辛哈巴布的论文《可能世界的女友》，节目详细阐述了如何在近乎无穷的可能世界中，找到并确定与自己互为理想型的“异次元女友”，并建立双向奔赴的恋爱关系。攻略涵盖了如何定义理想型、锁定唯一伴侣、跨次元通信，以及处理现实与可能世界恋爱中的道德困境，旨在提升个人自尊，实现情感满足。
+tags:
+- modal-realism
+- possible-world
+- self
+- singlehood
+- strategy
+title: 哲学视角下的恋爱攻略：如何在可能世界中寻找异次元伴侣
 ---
+
 ### 单身困境与理想型伴侣的追寻
 
 欢迎收看大问题节目。本期我们要探讨的大问题是：为什么现在有很多人都单身？一个很大的原因就是不会追求异性。每次只要真心喜欢上一个人，就会变得言行拙劣，忍不住表白，然后就“表白死”。据说要真正追到对方，得玩欲擒故纵，得若即若离，得吊足胃口，得忍着不能说自己喜欢人家，甚至还得PUA对方。但是，这对咱们这些不会玩心眼子的直肠子而言，真难啊！

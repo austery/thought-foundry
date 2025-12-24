@@ -1,53 +1,52 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Mastercard
+- Norges Bank Investment Management
+- Apple
+- Amazon
+- Microsoft
+- Citi Bank
+- European Central Bank
+- World Bank
+- MTN
+- Recorded Future
 date: '2025-01-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicola Tangen
+- Michael Miebach
+- Ajay Banga
+- Jane Fraser
+- John Barker
+products_models:
+- Apple Card
+- Apple Pay
+- MobilePay
+- Blick
+- Bizum
+project:
+- investment-strategy
+- ai-impact-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=VDU4O3lFhgQ
 speaker: Norges Bank Investment Management
-tags:
-  - digital-payments
-  - payment-innovation
-  - fintech-ecosystem
-  - cybersecurity-fraud
-  - leadership-principles
-title: 万事达卡CEO迈克尔·米巴赫：支付的未来、AI与全球领导力
-summary: 万事达卡CEO迈克尔·米巴赫探讨了未来十年支付领域的变革，包括数字化、生物识别认证、数字货币和加密货币的影响。他分享了万事达卡在金融科技生态系统中的战略，如何应对竞争，以及在网络安全和欺诈检测方面对AI的投入。米巴赫还深入阐述了其领导力原则、企业文化以及万事达卡基金会和影响力基金在推动金融普惠方面的作用，并为年轻人提供了职业建议。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - entrepreneurship
-people:
-  - Nicola Tangen
-  - Michael Miebach
-  - Ajay Banga
-  - Jane Fraser
-  - John Barker
-companies_orgs:
-  - Mastercard
-  - Norges Bank Investment Management
-  - Apple
-  - Amazon
-  - Microsoft
-  - Citi Bank
-  - European Central Bank
-  - World Bank
-  - MTN
-  - Recorded Future
-products_models:
-  - Apple Card
-  - Apple Pay
-  - MobilePay
-  - Blick
-  - Bizum
-media_books: []
 status: evergreen
+summary: 万事达卡CEO迈克尔·米巴赫探讨了未来十年支付领域的变革，包括数字化、生物识别认证、数字货币和加密货币的影响。他分享了万事达卡在金融科技生态系统中的战略，如何应对竞争，以及在网络安全和欺诈检测方面对AI的投入。米巴赫还深入阐述了其领导力原则、企业文化以及万事达卡基金会和影响力基金在推动金融普惠方面的作用，并为年轻人提供了职业建议。
+tags:
+- digital
+- ecosystem
+- fraud
+- innovation
+- leadership-principle
+title: 万事达卡CEO迈克尔·米巴赫：支付的未来、AI与全球领导力
 ---
+
 ### 欢迎与万事达卡CEO迈克尔·米巴赫对话
 
 大家好，我是**挪威主权财富基金**（Norges Bank Investment Management: 管理挪威政府全球养老基金的机构）的首席执行官**尼古拉·坦根**（Nicola Tangen）。

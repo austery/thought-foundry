@@ -1,40 +1,40 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Ontario Secondary School Teachers Federation
+- Ministry of Education
+- York Region
+- Ford government
 date: '2025-10-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- classroom-discourse
+people:
+- Muna Kadri
+- Sarah Mora
+- Jill Dunlop
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=qPYtDONI2i8
 speaker: TVO Today
-tags:
-  - political-speech
-  - classroom-discourse
-  - teacher-bias
-  - curriculum-guidance
-  - student-autonomy
-  - critical-thinking
-title: 如何在课堂中处理政治言论：教师与学生的视角
-summary: 本文探讨了教师和学生如何在课堂中处理敏感的政治议题。安大略省中学教师联合会代表Muna Kadri和高中毕业生Sarah Mora分享了他们的经验，讨论了课程指导、政治偏见、社交媒体影响以及言论自由的重要性。文章强调了在安全环境中培养批判性思维和建设性政治对话的必要性，并呼吁教育部门信任教师并提供充足资源。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Muna Kadri
-  - Sarah Mora
-  - Jill Dunlop
-companies_orgs:
-  - Ontario Secondary School Teachers Federation
-  - Ministry of Education
-  - York Region
-  - Ford government
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了教师和学生如何在课堂中处理敏感的政治议题。安大略省中学教师联合会代表Muna Kadri和高中毕业生Sarah Mora分享了他们的经验，讨论了课程指导、政治偏见、社交媒体影响以及言论自由的重要性。文章强调了在安全环境中培养批判性思维和建设性政治对话的必要性，并呼吁教育部门信任教师并提供充足资源。
+tags:
+- bias
+- critical-thinking
+- curriculum-guidance
+- life
+- political
+title: 如何在课堂中处理政治言论：教师与学生的视角
 ---
+
 ### 课堂中的政治言论：挑战与应对
 
 主持人: 教师和学生如何处理敏感议题的讨论？学校里是否存在政治偏见问题？我邀请了**安大略省中学教师联合会**（Ontario Secondary School Teachers Federation: 简称OSSTF，代表安大略省中学教师的工会）约克区主席Muna Kadri，以及刚毕业的高中生Sarah Mora，分享他们在学校谈论政治的经历。Muna、Sarah，非常感谢你们加入我们的节目，也感谢你们来到我们临时搭建的演播室。你们最近怎么样？

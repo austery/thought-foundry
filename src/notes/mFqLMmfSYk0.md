@@ -1,33 +1,32 @@
 ---
-title: 《熊家餐馆》幕后：揭秘烹饪制作人的艺术与挑战
-summary: 深入了解热门剧集《熊家餐馆》中烹饪制作人的幕后工作，探讨如何在拍摄中呈现真实的餐饮业面貌，以及演员如何训练以达到专业水准，展现厨房的压力与魅力。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- acting-training
-- chef
-- culinary-producer
-- kitchen-life
-- restaurant-industry
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
-- the-bear
 date: '2025-10-11'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+- the-bear
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=mFqLMmfSYk0
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 深入了解热门剧集《熊家餐馆》中烹饪制作人的幕后工作，探讨如何在拍摄中呈现真实的餐饮业面貌，以及演员如何训练以达到专业水准，展现厨房的压力与魅力。
+tags:
+- chef
+- industry
+- life
+- llm
+- technology
+title: 《熊家餐馆》幕后：揭秘烹饪制作人的艺术与挑战
 ---
+
 ### 烹饪制作人的角色与日常
 
 I think if you watch The Bear, it makes sense that there is such a thing as a **culinary producer** (Culinary Producer: a professional responsible for all food-related scenes and production in film and television works, ensuring authenticity and visual effects). But maybe if you didn't watch The Bear, you wouldn't even know it was a job. I actually didn't know it was a job either, which makes three of us. What is it? That's a fair question, as a culinary producer deals with both macro and micro issues of the show.

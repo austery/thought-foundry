@@ -1,40 +1,40 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: culture
+companies_orgs:
+- 台湾彩虹大平台
+- 美国心理学会
 date: '2022-07-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《一周书》
+- 《红楼梦》
+- 《明清社会性爱风气》
+people:
+- 吴存纯
+- Michael Rosenfeld
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=bDvwsqBb3tE
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - same-sex-marriage
-  - social-change
-  - public-opinion
-  - academic-consensus
-  - family-structures
-title: 科学知识不科学？同性结合的历史、争议与科学论战（上）
-summary: 本期节目深入探讨同性结合的历史演变、21世纪同性婚姻合法化的全球趋势及其引发的社会争议。从中国古代的“男色”记录到现代民事婚姻制度的兴起，节目追溯了同性结合在不同文化和历史时期的面貌。同时，也分析了台湾及欧洲民众对同性婚姻和同性伴侣养育子女的态度，并介绍了学界关于同性恋家长抚养子女的“无差异典范”及其研究历程，揭示了社会变革与科学认知之间的复杂互动。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - 吴存纯
-  - Michael Rosenfeld
-companies_orgs:
-  - 台湾彩虹大平台
-  - 美国心理学会
-products_models: []
-media_books:
-  - 《一周书》
-  - 《红楼梦》
-  - 《明清社会性爱风气》
 status: evergreen
+summary: 本期节目深入探讨同性结合的历史演变、21世纪同性婚姻合法化的全球趋势及其引发的社会争议。从中国古代的“男色”记录到现代民事婚姻制度的兴起，节目追溯了同性结合在不同文化和历史时期的面貌。同时，也分析了台湾及欧洲民众对同性婚姻和同性伴侣养育子女的态度，并介绍了学界关于同性恋家长抚养子女的“无差异典范”及其研究历程，揭示了社会变革与科学认知之间的复杂互动。
+tags:
+- academic-consensu
+- family
+- public-opinion
+- same-sex-marriage
+- social
+title: 科学知识不科学？同性结合的历史、争议与科学论战（上）
 ---
+
 ### 21世纪的社会变革与对改变的抗拒
 
 这里是寿司坦丁，在这里，你可以用最轻松的方式接收国际上最有趣的社会科学研究发现。1999年，如果你那时候已经出生了的话，那你应该还记得当时整个世界都弥漫在既兴奋又带着一点恐慌的氛围当中。很多人怀抱着**乌托邦**（Utopia: 理想中美好的社会）式的幻想，觉得人类的生活一定会在21世纪发生巨变。今年是2022年，21世纪已经过去了五分之一。再过100年，哆啦A梦就要回来拯救大雄这个妈宝普信男了。在这22年当中，确实有一些过去难以想象的事情发生了。比如**区块链**（Blockchain: 一种分布式数据库技术）打破了我们对货币的想象，电脑现在会自己挖矿赚钱。智能型手机跟社群媒体的出现，也改变了人跟人之间结合的方式，大家都知道各种意义上的结合。我们对科技创新越来越见怪不怪，我们还经常嫌科技创新的速度太慢。这样看起来，人类好像超级渴望改变，但是很显然，我们并不是对所有的改变都抱持欢迎的态度。有时候抗拒改变、阻止改变的就是我们自己。当改变触及所谓的伦理纲常、传统价值观、社会秩序这些东西的时候，事情就会变得很复杂。礼坏、月崩、人伦毁灭的恐慌就会开始蔓延，捍卫旧秩序的声音就会开始出现。这些东西是社会结构的一部分，它让人类社会在不断改变的同时，又有一些东西保持相对稳固的状态。今天的主题就是一个在人类社会中，表面上看起来维持了上千年统治地位的制度——异性恋婚姻。这个制度的霸权地位在21世纪结束了。没错，21世纪不仅有很多过去无法想象的资讯科技出现，也出现了一个许多人难以想象的社会变革，那就是同性恋婚姻。

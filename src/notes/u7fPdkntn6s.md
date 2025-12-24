@@ -1,39 +1,39 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中国最高法院
+- 国家统计局
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily Beast
+- Financial Times
+people:
+- 曹德旺
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=u7fPdkntn6s
 speaker: 老周横眉
-tags:
-  - mandatory-social-security
-  - economic-downturn
-  - income-inequality
-  - small-medium-enterprises
-  - government-trust
-title: 中国全民强制社保：压垮企业与民生的多重困境
-summary: 本文深入分析了中国政府强制全民缴纳社保的新政。尽管社会保险本身是好事，但在中国当前民众收入普遍偏低、中小企业税负过高、社保分配严重不公以及社保基金面临巨大亏空的背景下，这项政策恐将加剧中小企业倒闭潮、员工降薪失业，并进一步削弱民众对政府的信任。文章通过数据和历史案例，揭示了该政策对个人和企业的深远负面影响，并指出其背后隐藏的社保基金危机和政府公信力问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 曹德旺
-  - 习近平
-companies_orgs:
-  - 中国最高法院
-  - 国家统计局
-products_models: []
-media_books:
-  - The Daily Beast
-  - Financial Times
 status: evergreen
+summary: 本文深入分析了中国政府强制全民缴纳社保的新政。尽管社会保险本身是好事，但在中国当前民众收入普遍偏低、中小企业税负过高、社保分配严重不公以及社保基金面临巨大亏空的背景下，这项政策恐将加剧中小企业倒闭潮、员工降薪失业，并进一步削弱民众对政府的信任。文章通过数据和历史案例，揭示了该政策对个人和企业的深远负面影响，并指出其背后隐藏的社保基金危机和政府公信力问题。
+tags:
+- business
+- economic-downturn
+- government
+- income
+- social
+title: 中国全民强制社保：压垮企业与民生的多重困境
 ---
+
 ### 强制社保：一场引发民怨的政策风暴
 
 近日，中国政府的一项最新政策再次引发了民愤。中国最高法院宣布，自9月1日开始，自愿放弃社保协议全面失效，所有用人单位必须为劳动者缴纳社保。这意味着中国全民强制**社会保险**（社保：一种通过集体力量保障个人风险的保险产品）的时代正式开启。一时间，民意沸腾，几乎所有人都在抱怨。毕竟，大家收入本来就不高，强制缴纳社保，员工到手的钱变少了，小微企业的人工成本增加了，没有人高兴得起来。

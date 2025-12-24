@@ -1,49 +1,49 @@
 ---
-author: Anthony看世界
+area: personal-systems
+category: psychology
+companies_orgs:
+- Google
 date: '2025-08-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Discipline and Punish
+- '1984'
+- Republic
+- Groundwork of the Metaphysics of Morals
+- Attachment in Psychotherapy
+- Imagined Communities
+people:
+- Bowlby
+- Main
+- Foucault
+- George Orwell
+- Plato
+- Kant
+products_models:
+- ChatGPT 5
+- Gemini 2.5 Pro
+- Gemini CLI
+- Homebrew
+- OCR my pdf
+project:
+- ai-impact-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=SPlVeoDUXuk
 speaker: Anthony看世界
-tags:
-  - ai-learning
-  - reading-comprehension
-  - humanities-social-sciences
-  - ai-evaluation
-  - interdisciplinary-study
-title: AI如何成为你的理想学术助手：测评两大模型阅读人文社科书籍的能力
-summary: 本期视频探讨了如何利用AI更好地辅助人文社科书籍的阅读与学习。Anthony分享了将AI作为学术助手的设想，包括跨文献比较和理论迁移，并提出了传统阅读方式的挑战。视频详细介绍了如何通过Python和OCR技术处理PDF电子书，为AI阅读做准备。最后，设计了一套多维度测试题，旨在评估ChatGPT 5和Gemini 2.5 Pro两大主流AI模型在理解和应用人文社科文本方面的实际能力，为高效学习提供指导。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-people:
-  - Bowlby
-  - Main
-  - Foucault
-  - George Orwell
-  - Plato
-  - Kant
-companies_orgs:
-  - Google
-products_models:
-  - ChatGPT 5
-  - Gemini 2.5 Pro
-  - Gemini CLI
-  - Homebrew
-  - OCR my pdf
-media_books:
-  - Discipline and Punish
-  - '1984'
-  - Republic
-  - Groundwork of the Metaphysics of Morals
-  - Attachment in Psychotherapy
-  - Imagined Communities
 status: evergreen
+summary: 本期视频探讨了如何利用AI更好地辅助人文社科书籍的阅读与学习。Anthony分享了将AI作为学术助手的设想，包括跨文献比较和理论迁移，并提出了传统阅读方式的挑战。视频详细介绍了如何通过Python和OCR技术处理PDF电子书，为AI阅读做准备。最后，设计了一套多维度测试题，旨在评估ChatGPT
+  5和Gemini 2.5 Pro两大主流AI模型在理解和应用人文社科文本方面的实际能力，为高效学习提供指导。
+tags:
+- ai-evaluation
+- learning
+- life
+- science
+- social
+title: AI如何成为你的理想学术助手：测评两大模型阅读人文社科书籍的能力
 ---
 
 ### AI赋能学习与思考：人文社科阅读新范式

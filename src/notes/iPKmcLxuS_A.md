@@ -1,78 +1,77 @@
 ---
-author: The Pragmatic Engineer
+area: personal-systems
+category: career
+companies_orgs:
+- Microsoft
+- Statsig
+- Amazon
+- Stack Overflow
+- Boeing
+- Uber
+- OpenAI
+- Meta
+- Google
+- Linear
+- IBM
+- HashiCorp
+- id Software
+- Bluesky
+- Microsoft Press
 date: '2025-09-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Code Complete
+- Coding Horror
+- Rapid Development
+- The Pragmatic Engineer
+- The Irrational Design Process
+- A Philosophy of Software Design
+- The Software Engineer's Guidebook
+- No Silver Bullets
+- What Got You Here Won't Get You There
+people:
+- Steve McConnell
+- Jeff Atwood
+- Joel Spolsky
+- Dave Parnes
+- John Ousterhout
+- Larry Constantine
+- Michael Hashimoto
+- Fred Brooks
+- Simon Willison
+- Kent Beck
+products_models:
+- Windows
+- DOS
+- AWS
+- Jira
+- GitHub
+- Google Docs
+- OS/2
+- Doom
+- Instagram
+- WhatsApp
+- ChatGPT
+- Terraform
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=iPKmcLxuS_A
 speaker: The Pragmatic Engineer
-tags:
-  - software-craftsmanship
-  - career-development
-  - mental-models
-  - ai-in-programming
-title: 与《代码大全》作者 Steve McConnell 对话：软件工艺、职业发展与AI时代的持久之道
-summary: 在这场深度访谈中，《代码大全》(Code Complete) 的作者 Steve McConnell 分享了这本经典著作的诞生故事，从一篇计划中的文章意外扩展为一部900页的巨著。他深入探讨了“软件构建”的核心理念、自顶向下与自底向上两种开发者心智模型的差异，并阐述了其职业发展的“金字塔模型”和“荷叶跳跃”等深刻见解。访谈还涵盖了个人能量在团队中的作用、软件行业的发展变迁，以及他对AI将如何重塑编程未来的思考。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Steve McConnell
-  - Jeff Atwood
-  - Joel Spolsky
-  - Dave Parnes
-  - John Ousterhout
-  - Larry Constantine
-  - Michael Hashimoto
-  - Fred Brooks
-  - Simon Willison
-  - Kent Beck
-companies_orgs:
-  - Microsoft
-  - Statsig
-  - Amazon
-  - Stack Overflow
-  - Boeing
-  - Uber
-  - OpenAI
-  - Meta
-  - Google
-  - Linear
-  - IBM
-  - Facebook
-  - HashiCorp
-  - id Software
-  - Bluesky
-  - Microsoft Press
-products_models:
-  - Windows
-  - DOS
-  - AWS
-  - Jira
-  - GitHub
-  - Google Docs
-  - OS/2
-  - Doom
-  - Instagram
-  - WhatsApp
-  - ChatGPT
-  - Terraform
-media_books:
-  - Code Complete
-  - Coding Horror
-  - Rapid Development
-  - The Pragmatic Engineer
-  - The Irrational Design Process
-  - A Philosophy of Software Design
-  - The Software Engineer's Guidebook
-  - No Silver Bullets
-  - What Got You Here Won't Get You There
 status: evergreen
+summary: 在这场深度访谈中，《代码大全》(Code Complete) 的作者 Steve McConnell 分享了这本经典著作的诞生故事，从一篇计划中的文章意外扩展为一部900页的巨著。他深入探讨了“软件构建”的核心理念、自顶向下与自底向上两种开发者心智模型的差异，并阐述了其职业发展的“金字塔模型”和“荷叶跳跃”等深刻见解。访谈还涵盖了个人能量在团队中的作用、软件行业的发展变迁，以及他对AI将如何重塑编程未来的思考。
+tags:
+- career-development
+- llm
+- mental-model
+- software
+title: 与《代码大全》作者 Steve McConnell 对话：软件工艺、职业发展与AI时代的持久之道
 ---
+
 ### 《代码大全》的诞生：从一篇文章到一个900页的庞大计划
 
 我当时以为这本书肯定已经有人写过了，我希望能找到这本书，这样我就可以用它作为一篇文章的素材。在我的构想中，我打算写一本250页的书。所以，那是我第一次，因为我从未出版过任何东西，我想我应该让它看起来像是我知道自己在做什么。因此，我为这本书制定了一个详细的计划，并估算了书的页数，结果出来是900页。

@@ -1,62 +1,62 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Google
+- Tesla
+- SpaceX
+- xAI
+- Nvidia
 date: '2024-04-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Hitchhiker's Guide to the Galaxy
+- Civilization
+- Polytopia
+- Diablo
+people:
+- Elon Musk
+- Walter Isaacson
+- George Washington
+- Alexandre de Moraes
+- Douglas Adams
+products_models:
+- Grok v2
+- Grok v3
+- GPT-4
+- Gemini
+- Starship
+- Falcon 9
+- Falcon architecture
+- Roadster
+- Model S
+- Model 3
+- Model Y
+- Cybertruck
+- SR-71 Blackbird
+project:
+- ai-impact-analysis
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=_rQBZ3vKRA0
 speaker: Norges Bank Investment Management
-tags:
-  - ai-development
-  - space-exploration
-  - civilization-survival
-  - information-truth
-  - regulatory-challenges
-title: 埃隆·马斯克：AI、火星、X平台与人类文明的未来展望
-summary: 埃隆·马斯克在播客中深入探讨了人工智能的飞速发展及其对人类社会的影响，预测了AI超越人类智能的时间点，并讨论了AI监管、数据挑战及xAI的进展。他还分享了特斯拉电动汽车的未来愿景、中国电动车市场的竞争力，以及SpaceX火星殖民计划的重要性。此外，马斯克阐述了X平台作为“真相最佳来源”的使命，并回应了其在全球地缘政治中的角色，强调了文明存续的脆弱性及多行星物种的必要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - china-analysis
-people:
-  - Elon Musk
-  - Walter Isaacson
-  - George Washington
-  - Alexandre de Moraes
-  - Douglas Adams
-companies_orgs:
-  - Norges Bank Investment Management
-  - Google
-  - Tesla
-  - SpaceX
-  - xAI
-  - Nvidia
-products_models:
-  - Grok v2
-  - Grok v3
-  - GPT-4
-  - Gemini
-  - Starship
-  - Falcon 9
-  - Falcon architecture
-  - Roadster
-  - Model S
-  - Model 3
-  - Model Y
-  - Cybertruck
-  - SR-71 Blackbird
-media_books:
-  - In Good Company
-  - Hitchhiker's Guide to the Galaxy
-  - Civilization
-  - Polytopia
-  - Diablo
 status: evergreen
+summary: 埃隆·马斯克在播客中深入探讨了人工智能的飞速发展及其对人类社会的影响，预测了AI超越人类智能的时间点，并讨论了AI监管、数据挑战及xAI的进展。他还分享了特斯拉电动汽车的未来愿景、中国电动车市场的竞争力，以及SpaceX火星殖民计划的重要性。此外，马斯克阐述了X平台作为“真相最佳来源”的使命，并回应了其在全球地缘政治中的角色，强调了文明存续的脆弱性及多行星物种的必要性。
+tags:
+- ai-development
+- challenge
+- information
+- society
+- space-exploration
+title: 埃隆·马斯克：AI、火星、X平台与人类文明的未来展望
 ---
+
 ### 播客开场：X平台上的实时对话
 
 主持人首先对埃隆·马斯克（Elon Musk）能参加播客表示感谢，并提到他们两年前就开始尝试邀请他。

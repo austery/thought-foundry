@@ -1,48 +1,47 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Micron
+- Samsung
+- SK Hynix
+- AT&T
+- Warner Bros. Discovery
+- Netflix
+- Amazon
+- Disney
+- LVMH
+- Lululemon
+- Alibaba
+- Tencent
+- Meta
+- ASML
 date: '2025-03-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Charlie Munger
+products_models:
+- Max
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=yb3S3zVPiAs
 speaker: Shijun Tang
-tags:
-  - stock-market-downturn
-  - investment-strategy
-  - semiconductor-market
-  - luxury-market
-  - corporate-debt
-title: 美股震荡下的投资策略：深度解析美光、华纳兄弟探索与LVMH
-summary: 在当前美股市场经历第二轮暴跌的背景下，本文深入分析了三只股票的投资逻辑与表现。通过对半导体巨头美光（Micron）的业务模式、周期性特征及财务数据的解读，揭示其在AI浪潮下的复苏潜力。同时，回顾了华纳兄弟探索公司（Warner Bros. Discovery）从AT&T剥离后的困境、巨额债务及其对投资决策的影响。最后，探讨了奢侈品巨头LVMH在全球经济放缓、消费者信心下降背景下的估值修正。文章旨在分享作者的投资理念，为读者在市场恐慌中提供启发。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Charlie Munger
-companies_orgs:
-  - Micron
-  - Samsung
-  - SK Hynix
-  - AT&T
-  - Warner Bros. Discovery
-  - Netflix
-  - Amazon
-  - Disney
-  - LVMH
-  - Lululemon
-  - Alibaba
-  - Tencent
-  - Meta
-  - ASML
-products_models:
-  - Max
-media_books: []
 status: evergreen
+summary: 在当前美股市场经历第二轮暴跌的背景下，本文深入分析了三只股票的投资逻辑与表现。通过对半导体巨头美光（Micron）的业务模式、周期性特征及财务数据的解读，揭示其在AI浪潮下的复苏潜力。同时，回顾了华纳兄弟探索公司（Warner
+  Bros. Discovery）从AT&T剥离后的困境、巨额债务及其对投资决策的影响。最后，探讨了奢侈品巨头LVMH在全球经济放缓、消费者信心下降背景下的估值修正。文章旨在分享作者的投资理念，为读者在市场恐慌中提供启发。
+tags:
+- debt
+- market
+- semiconductor-market
+- stock-market-downturn
+title: 美股震荡下的投资策略：深度解析美光、华纳兄弟探索与LVMH
 ---
+
 ### 美股暴跌下的投资抉择
 
 本周五，美股迎来了第二轮暴跌，许多炙手可热的股票都出现了大幅下跌，我持有的许多股票也同样经历了大跌。此时，许多投资人可以说陷入了极度的恐慌。但是，假如美股继续暴跌，经济衰退以及股灾接踵而至，我们又该如何应对呢？今天的视频，我将介绍三支我研究的股票，其中一支我已经持有1040天，另外一支我曾建仓但后来清仓了所有仓位。我希望通过分析这些股票并分享我的投资观点，能给目前的你带来一些启发。

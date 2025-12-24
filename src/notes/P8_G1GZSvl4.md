@@ -1,59 +1,59 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- CIA
+- Taliban
+- Zero Unit
+- Department of Homeland Security
+- Customs and Border Protection
+- FBI
+- Wall Street Journal
+- NBC News
+- Congress
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Washington Post
+people:
+- Michael Bubaro
+- Rahmanula Lakenwal
+- Sarah Beckram
+- Andrew Wolf
+- Steven Miller
+- Janine Piro
+- Kash Patel
+- Juan Orlando Hernandez
+- Nicholas Maduro
+- Pete Hgsth
+- Mark Kelly
+- Mike Turner
+- Kristi Noem
+products_models:
+- Operation Allies Welcome
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=P8_G1GZSvl4
 speaker: New York Times Podcasts
-tags:
-  - immigration-crackdown
-  - afghanistan-war
-  - us-foreign-policy
-  - vetting-controversy
-  - collective-punishment
-title: 国民警卫队枪击案的余波：特朗普政府的移民政策大调整
-summary: 上周，华盛顿特区发生一起枪击案，一名阿富汗移民枪杀了两位国民警卫队成员，其中一人不幸身亡。此事件迅速引发了特朗普政府对美国移民体系的全面收紧。本文深入探讨了枪手拉赫曼努拉·拉肯瓦尔的背景，他曾是美国中情局支持的阿富汗“零号部队”成员，后作为盟友被拜登政府撤离至美国并获得庇护。文章详细阐述了特朗普政府暂停所有阿富汗移民申请、审查所有拜登时期批准的庇护申请、以及重新审查特定国家绿卡持有者的系列举措，并讨论了这些政策的法律挑战及其对美国信誉的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Michael Bubaro
-  - Rahmanula Lakenwal
-  - Sarah Beckram
-  - Andrew Wolf
-  - Steven Miller
-  - Janine Piro
-  - Kash Patel
-  - Juan Orlando Hernandez
-  - Nicholas Maduro
-  - Pete Hgsth
-  - Mark Kelly
-  - Mike Turner
-  - Kristi Noem
-companies_orgs:
-  - New York Times
-  - CIA
-  - Taliban
-  - Zero Unit
-  - Department of Homeland Security
-  - Customs and Border Protection
-  - FBI
-  - Wall Street Journal
-  - NBC News
-  - Congress
-products_models:
-  - Operation Allies Welcome
-media_books:
-  - The Daily
-  - Washington Post
 status: evergreen
+summary: 上周，华盛顿特区发生一起枪击案，一名阿富汗移民枪杀了两位国民警卫队成员，其中一人不幸身亡。此事件迅速引发了特朗普政府对美国移民体系的全面收紧。本文深入探讨了枪手拉赫曼努拉·拉肯瓦尔的背景，他曾是美国中情局支持的阿富汗“零号部队”成员，后作为盟友被拜登政府撤离至美国并获得庇护。文章详细阐述了特朗普政府暂停所有阿富汗移民申请、审查所有拜登时期批准的庇护申请、以及重新审查特定国家绿卡持有者的系列举措，并讨论了这些政策的法律挑战及其对美国信誉的深远影响。
+tags:
+- geopolitical
+- society
+- us-foreign-policy
+- vetting-controversy
+- war
+title: 国民警卫队枪击案的余波：特朗普政府的移民政策大调整
 ---
+
 ### 华盛顿枪击案引发的移民政策巨变
 
 我是《纽约时报》的迈克尔·布巴罗，这里是《每日》节目。

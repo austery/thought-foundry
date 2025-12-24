@@ -1,34 +1,34 @@
 ---
-author: a16z
+area: tech-work
+category: ai-ml
+companies_orgs:
+- a16z
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mark Andrew
+- Stephanie Zayn
+- Olivia Moore
+products_models:
+- GPT-4
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ULszsXDyjMY
 speaker: a16z
-tags:
-  - llm
-  - ai-agents
-  - voice-ai
-title: 'AI Agents in 2026: 3 Predictions For What’s To Come'
-summary: This article discusses three key predictions for AI agents in 2026, focusing on the evolution of AI user interfaces, designing for agents rather than humans, and the rise of AI voice agents.
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Mark Andrew
-  - Stephanie Zayn
-  - Olivia Moore
-companies_orgs:
-  - a16z
-products_models:
-  - GPT-4
-media_books: []
 status: evergreen
+summary: This article discusses three key predictions for AI agents in 2026, focusing
+  on the evolution of AI user interfaces, designing for agents rather than humans,
+  and the rise of AI voice agents.
+tags:
+- ai-agent
+- llm
+title: 'AI Agents in 2026: 3 Predictions For What’s To Come'
 ---
+
 ### AI Agents in 2026: Three Key Predictions
 
 #### Prediction 1: The Death of the Prompt Box

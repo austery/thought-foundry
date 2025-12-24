@@ -1,32 +1,31 @@
 ---
-title: 在Google Cloud Vertex AI上使用Claude构建AI智能体：挑战、解决方案与实战
-summary: 本视频深入探讨了在Google Cloud的Vertex AI上使用Claude构建AI智能体的过程，涵盖了从开发到生产化部署的挑战，以及Google
-  Cloud提供的Agentic Stack解决方案，包括ADK、MCP、Agent Engine和Agent-to-Agent协议。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- agent-development
-- ai-agent
-- claude-llm
-- google-cloud
-people: []
 companies_orgs:
 - vertex-ai
-products_models: []
-media_books: []
 date: '2025-07-31'
-author: Anthropic
-speaker: Anthropic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=TUysIAtxyrQ
+speaker: Anthropic
 status: evergreen
+summary: 本视频深入探讨了在Google Cloud的Vertex AI上使用Claude构建AI智能体的过程，涵盖了从开发到生产化部署的挑战，以及Google
+  Cloud提供的Agentic Stack解决方案，包括ADK、MCP、Agent Engine和Agent-to-Agent协议。
+tags:
+- ai-agent
+- development
+- llm
+title: 在Google Cloud Vertex AI上使用Claude构建AI智能体：挑战、解决方案与实战
+companies:
+- google-cloud
 ---
+
 ### 引言与AI智能体生产化挑战
 
 Hello everyone. Thank you for joining this session. In this session, we are going to talk about how you can build AI agents using Claude on Vertex AI.

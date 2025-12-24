@@ -1,49 +1,49 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: general
+companies_orgs:
+- 矽谷银行
+- 摩根大通
+- 财政部
+- 联邦储备委员会
+- 联邦存款保险公司
+- Signature Bank
+- 宏达电
+- 芝加哥大学
+- 富兰克林国民银行
+- 农业委员会
 date: '2023-03-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《R研究》
+people:
+- Elizabeth Bec Lee Ment
+- Hoover
+- Nixon
+- Toellner
+- Nye
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=C0MRQ1QHcV4
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - self-fulfilling-prophecy
-  - financial-crisis
-  - bank-run
-  - economic-panic
-  - regulatory-dilemma
-title: 自我實現的預言：信心如何引發金融與社會危機
-summary: 本文深入探討「自我實現的預言」如何影響金融市場與社會危機，從矽谷銀行倒閉、1930年代經濟大蕭條、尼克森黃金脫鉤，到台灣缺蛋事件，揭示人類信心與恐慌對現實的巨大塑造力。文章也分析了監管機構在應對此類危機時面臨的兩難困境，強調信心崩盤的非理性傳播可能導致實質性後果。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Elizabeth Bec Lee Ment
-  - Hoover
-  - Nixon
-  - Toellner
-  - Nye
-companies_orgs:
-  - 矽谷银行
-  - 摩根大通
-  - 财政部
-  - 联邦储备委员会
-  - 联邦存款保险公司
-  - Signature Bank
-  - 宏达电
-  - 芝加哥大学
-  - 富兰克林国民银行
-  - 农业委员会
-products_models: []
-media_books:
-  - 《R研究》
 status: evergreen
+summary: 本文深入探討「自我實現的預言」如何影響金融市場與社會危機，從矽谷銀行倒閉、1930年代經濟大蕭條、尼克森黃金脫鉤，到台灣缺蛋事件，揭示人類信心與恐慌對現實的巨大塑造力。文章也分析了監管機構在應對此類危機時面臨的兩難困境，強調信心崩盤的非理性傳播可能導致實質性後果。
+tags:
+- economic
+- financial
+- financial-crisis
+- regulatory
+- self
+title: 自我實現的預言：信心如何引發金融與社會危機
 ---
+
 ### 信心崩盤：矽谷銀行倒閉的深層原因
 
 2023年3月10日，**矽谷银行**（Silicon Valley Bank: 一家总部位于美国加州的商业银行，主要服务科技初创公司）宣布倒閉，並由政府接管。這家總資產達2000億美元、全美排名第16的銀行，雖然與美國最大的銀行**摩根大通**（JPMorgan Chase: 美国最大的银行之一）相比規模較小，但美國負責金融監管的「鐵三角」——**财政部**（Treasury Department: 負責管理國家財政和經濟政策的政府部門）、**联邦储备委员会**（Federal Reserve, 簡稱聯總會: 美国的中央银行系统）和**联邦存款保险公司**（Federal Deposit Insurance Corporation, 簡稱FDIC: 負責為美國銀行存款提供保險的獨立機構）——卻如臨大敵，嚴陣以待。歷史經驗表明，引發金融危機的原因往往與銀行資產規模無關，關鍵力量是無形且難以捉摸的「信心」。

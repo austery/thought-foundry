@@ -1,79 +1,78 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Netflix
+- TSMC
+- ASML
+- AK Media
+- Bloomberg
+- Google
+- Substack
+- Palantir
+- Robin Hood
+- Grab
+- Amkor
+- Nvidia
+- Foxconn
+- Wistron
+- Fox
+- CBS
+- Bank of America
+- HSBC
+- Salesforce
+- Apple
+- Costco
+- Interactive Brokers
+- Schwab
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Journal
+- 60 Minutes
+people:
+- Donald Trump
+- Xi Jinping
+- Cactus Jack
+- Tom Lee
+- Jensen Huang
+- Shyam Sankar
+- Palmer Luckey
+- Ryan Cohen
+- Satya Nadella
+- Chamath Palihapitiya
+- Donald Trump Jr.
+- Laura Ingraham
+- Mark Benioff
+- Stanley Druckenmiller
+- Steve Fiorillo
+products_models:
+- Blackwell
+- FSD
+- Optimus
+- iPhone 17
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=f_oFmV9FFSA
 speaker: Amit Kukreja
-tags:
-  - us-china-relations
-  - earnings-season
-  - semiconductor-manufacturing
-  - market-outlook
-  - ai-industrial-revolution
-title: 英伟达在美生产芯片，特朗普释放谈判善意，本周市场展望：特斯拉财报与CPI数据前瞻
-summary: 本周市场展望聚焦几大核心事件：英伟达与台积电历史性地在美国本土生产出Blackwell芯片晶圆，CEO黄仁勋对此高度评价并肯定了特朗普的关税政策。同时，特朗普就中美贸易谈判释放积极信号，表示愿意降低关税并有信心达成大豆协议，提振了市场情绪。本周市场将密切关注特斯拉与Netflix的财报，以及周五公布的CPI数据，这些关键信息将共同影响市场走向。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Amit Kukreja
-  - Donald Trump
-  - Xi Jinping
-  - Cactus Jack
-  - Tom Lee
-  - Jensen Huang
-  - Shyam Sankar
-  - Palmer Luckey
-  - Ryan Cohen
-  - Satya Nadella
-  - Chamath Palihapitiya
-  - Donald Trump Jr.
-  - Laura Ingraham
-  - Mark Benioff
-  - Stanley Druckenmiller
-  - Steve Fiorillo
-companies_orgs:
-  - Tesla
-  - Netflix
-  - TSMC
-  - ASML
-  - AK Media
-  - Bloomberg
-  - Google
-  - Substack
-  - Palantir
-  - Robin Hood
-  - Grab
-  - Amkor
-  - Nvidia
-  - Foxconn
-  - Wistron
-  - Fox
-  - CBS
-  - Bank of America
-  - HSBC
-  - Salesforce
-  - Apple
-  - Costco
-  - Interactive Brokers
-  - Schwab
-products_models:
-  - Blackwell
-  - FSD
-  - Optimus
-  - iPhone 17
-media_books:
-  - Wall Street Journal
-  - 60 Minutes
 status: evergreen
+summary: 本周市场展望聚焦几大核心事件：英伟达与台积电历史性地在美国本土生产出Blackwell芯片晶圆，CEO黄仁勋对此高度评价并肯定了特朗普的关税政策。同时，特朗普就中美贸易谈判释放积极信号，表示愿意降低关税并有信心达成大豆协议，提振了市场情绪。本周市场将密切关注特斯拉与Netflix的财报，以及周五公布的CPI数据，这些关键信息将共同影响市场走向。
+tags:
+- earnings-season
+- market-outlook
+- revolution
+- semiconductor-manufacturing
+- us-china-relations
+title: 英伟达在美生产芯片，特朗普释放谈判善意，本周市场展望：特斯拉财报与CPI数据前瞻
 ---
+
 ### 本周市场展望
 
 大家好，欢迎回到新一期的市场前瞻。朋友们，我们正在直播。今天是周日，距离股市开盘还有14分钟。感谢大家的到来，我们有很多内容要讨论。希望大家周末过得愉快，是时候开启新一周的市场了。

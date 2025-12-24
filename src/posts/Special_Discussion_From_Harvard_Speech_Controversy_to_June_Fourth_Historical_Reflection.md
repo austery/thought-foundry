@@ -1,28 +1,29 @@
 ---
-title: 专题讨论：从哈佛演讲争议到六四历史反思
-summary: 
-area: society-systems
-category: geopolitics
-project: [china-analysis,ystems-thinking]
-tags:
-  - 哈佛演讲
-  - 政治
-people:
-  - 北美王路飞
-  - 老尹
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: society-thinking
 author: Lei
-speaker: 北美王路飞
+category: politics-society
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 哈佛演讲
+people:
+- 老尹
+products_models: []
+project:
+- china-analysis
+- ystems-thinking
 series: null
 source: null
+speaker: 北美王路飞
+summary: null
+tags: []
+title: 专题讨论：从哈佛演讲争议到六四历史反思
 ---
+
 ## 一、 哈佛毕业生蒋语荣演讲引发的争议
 
 **路飞:**

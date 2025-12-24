@@ -1,61 +1,60 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Google
+- Zapier
+- OpenAI
+- Amazon Mechanical Turk
+- GitHub
+- Kaggle
+- Epoch AI
+- Scale
 date: '2024-06-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《On the Measure of Intelligence》
+people:
+- François Chollet
+- Mike Knoop
+- Nat Friedman
+- Luke Farritor
+- Jack Cole
+- Dan Hendrycks
+- Collin Burns
+- Trenton Bricken
+- Jean Piaget
+products_models:
+- Keras
+- GPT-4
+- GPT-5
+- Gemini 1.5
+- GPT-3
+- Claude 3 Opus
+- GPT-4o
+- Mistral
+- Llama
+- NVIDIA Tesla P100
+- H100
+- ChatGPT
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=UakqL6Pj9xo
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - prompt-engineering
-  - agi
-  - memorization
-  - program-synthesis
-title: 大型AI模型为何难解简单谜题？——ARC基准与通用智能的挑战
-summary: 本期播客深入探讨了大型语言模型（LLMs）在解决复杂问题上的局限性，特别是其在**ARC基准测试**（Abstraction and Reasoning Corpus）中的表现。**François Chollet**（Keras创建者）与**Mike Knoop**（Zapier联合创始人）共同发起了百万美元的**ARC挑战赛**，旨在推动AI研究超越单纯的记忆和模式匹配，实现真正的通用智能（AGI）。讨论强调了LLMs依赖“记忆”而非“即时适应新颖性”的根本区别，并提出了结合深度学习与离散程序合成的混合系统作为通向AGI的潜在路径。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - François Chollet
-  - Mike Knoop
-  - Nat Friedman
-  - Luke Farritor
-  - Jack Cole
-  - Dan Hendrycks
-  - Collin Burns
-  - Trenton Bricken
-  - Jean Piaget
-companies_orgs:
-  - Google
-  - Zapier
-  - OpenAI
-  - Amazon Mechanical Turk
-  - GitHub
-  - Kaggle
-  - Epoch AI
-  - Scale
-products_models:
-  - Keras
-  - GPT-4
-  - GPT-5
-  - Gemini 1.5
-  - GPT-3
-  - Claude 3 Opus
-  - GPT-4o
-  - Mistral
-  - Llama
-  - NVIDIA Tesla P100
-  - H100
-  - ChatGPT
-media_books:
-  - 《On the Measure of Intelligence》
 status: evergreen
+summary: 本期播客深入探讨了大型语言模型（LLMs）在解决复杂问题上的局限性，特别是其在**ARC基准测试**（Abstraction and Reasoning
+  Corpus）中的表现。**François Chollet**（Keras创建者）与**Mike Knoop**（Zapier联合创始人）共同发起了百万美元的**ARC挑战赛**，旨在推动AI研究超越单纯的记忆和模式匹配，实现真正的通用智能（AGI）。讨论强调了LLMs依赖“记忆”而非“即时适应新颖性”的根本区别，并提出了结合深度学习与离散程序合成的混合系统作为通向AGI的潜在路径。
+tags:
+- agi
+- canada
+- memorization
+title: 大型AI模型为何难解简单谜题？——ARC基准与通用智能的挑战
 ---
+
 ### LLM与AGI的争议
 **LLM** (Large Language Model: 大型语言模型) 非常擅长记忆静态程序。如果你扩大数据库的规模，你并没有增加系统一丝一毫的智能。我觉得你用“记忆”这样的词，我们绝不会用在人类儿童身上。如果他们能解决任何任意的代数问题，你不会说他们“记忆”了代数，你会说他们“学会”了代数。我们设立了一个百万美元的奖金池，其中**50万美元**将奖励给第一个达到**85%**基准的团队。如果**ARC** (Abstraction and Reasoning Corpus: 抽象推理语料库) 在三个月内通过考验，我们会增加奖金。**OpenAI**基本上将**AGI** (Artificial General Intelligence: 通用人工智能) 的进展推迟了**五到十年**。他们导致了前沿研究出版的完全封闭，现在LLMs基本上“吸干了房间里的氧气”，好像每个人都在做LLMs。
 

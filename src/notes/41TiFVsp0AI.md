@@ -1,48 +1,49 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times Podcasts
+- Harvard Law School
+- U.S. Supreme Court
+- Department of Homeland Security
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Michael Bubaro
+- Jodie Caner
+- Elena Kagan
+- Antinine Scalia
+- Anthony Kennedy
+- John Roberts
+- Ruth Bader Ginsburg
+- Amy Coney Barrett
+- Clarence Thomas
+- Ketanji Brown Jackson
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=41TiFVsp0AI
 speaker: New York Times Podcasts
-tags:
-  - supreme-court
-  - judicial-strategy
-  - liberal-justices
-  - conservative-majority
-  - legal-philosophy
-title: 美国最高法院自由派大法官的策略分歧：团结的表象与内在的张力
-summary: 本文深入探讨了美国最高法院自由派少数派大法官在保守派占多数的背景下，所采取的不同策略。文章聚焦于大法官 Elena Kagan 的协商与妥协之道，以及大法官 Ketanji Brown Jackson 的直言不讳与公开批评。通过分析两人截然不同的方法及其面临的挑战，揭示了自由派阵营内部日益增长的紧张关系，以及在关键时刻如何影响法律判决和最高法院的未来走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Michael Bubaro
-  - Jodie Caner
-  - Elena Kagan
-  - Antinine Scalia
-  - Anthony Kennedy
-  - John Roberts
-  - Ruth Bader Ginsburg
-  - Amy Coney Barrett
-  - Clarence Thomas
-  - Ketanji Brown Jackson
-companies_orgs:
-  - New York Times Podcasts
-  - Harvard Law School
-  - U.S. Supreme Court
-  - Department of Homeland Security
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 本文深入探讨了美国最高法院自由派少数派大法官在保守派占多数的背景下，所采取的不同策略。文章聚焦于大法官 Elena Kagan 的协商与妥协之道，以及大法官
+  Ketanji Brown Jackson 的直言不讳与公开批评。通过分析两人截然不同的方法及其面临的挑战，揭示了自由派阵营内部日益增长的紧张关系，以及在关键时刻如何影响法律判决和最高法院的未来走向。
+tags:
+- canada
+- conservative-majority
+- geopolitical
+- philosophy
+- strategy
+title: 美国最高法院自由派大法官的策略分歧：团结的表象与内在的张力
 ---
+
 ### 最高法院自由派少数派的团结表象与内在张力
 
 在过去几年中，美国最高法院自由派少数派的大法官们，为了对抗法院的保守派多数派，一次又一次地投票反对，展现出看似坚不可摧的抵抗阵线。然而，在其背后，一场关于最佳反击策略的紧张关系正在悄然滋长。

@@ -1,38 +1,36 @@
 ---
-author: Nico投资有道
+area: market-analysis
+category: finance
+companies_orgs:
+- 美联储
+- 美国财政部
+- 币安
+- 欧易
+- Bitget
 date: '2025-11-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=h8tqz58YaVQ
 speaker: Nico投资有道
-tags:
-  - bitcoin-market-analysis
-  - technical-indicators
-  - macroeconomic-impact
-  - investment-mindset
-  - crypto-market-cycles
-title: 比特币市场深度分析：三大指标、宏观因素与长期投资心态
-summary: 本文深入探讨了比特币市场近期回调的原因，并运用EMA趋势线、RSI指数和恐慌贪婪指数三大技术指标，分析了比特币未来的潜在走势。同时，文章还剖析了美国政府关门和美联储降息等宏观事件对加密货币市场的影响，并强调了在市场混沌时期，长期投资者应关注区块链技术的长期潜力，而非短期价格波动，并分享了定投策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - geopolitics-watch
-people: []
-companies_orgs:
-  - 美联储
-  - 美国财政部
-  - 币安
-  - 欧易
-  - Bitget
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了比特币市场近期回调的原因，并运用EMA趋势线、RSI指数和恐慌贪婪指数三大技术指标，分析了比特币未来的潜在走势。同时，文章还剖析了美国政府关门和美联储降息等宏观事件对加密货币市场的影响，并强调了在市场混沌时期，长期投资者应关注区块链技术的长期潜力，而非短期价格波动，并分享了定投策略。
+tags:
+- bitcoin-market-analysis
+- crypto-market-cycle
+- investment
+- macroeconomic-impact
+- technology
+title: 比特币市场深度分析：三大指标、宏观因素与长期投资心态
 ---
+
 ### 比特币市场近期回顾与当前挑战
 
 比特币在过去40多天的时间里，从最高点到最低点跌去了36%的市值。那么，接下来比特币会继续下跌吗？现在8万美元的比特币，到了抄底的时候了吗？今天，我将用三个指标告诉你，接下来的市场会怎么走。

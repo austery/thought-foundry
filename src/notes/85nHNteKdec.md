@@ -1,59 +1,59 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- Wire Cutter
+- New York Times Games
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Puzzle Mania, Wordle, Connections, Spelling Bee, Minis, and More
+- Stormlight Archives
+- game-hosting
+- game-recommendation
+people:
+- James Austin
+- Christine Sirette
+- Kyra Blackwell
+- Rosie Garin
+- Joel Foglano
+products_models:
+- Rhino Hero Super Battle
+- First Orchard
+- Fake Artist Goes to New York
+- The Crew
+- Sushi Go
+- Monikers
+- Anomia
+- Dixit
+- Carcassonne
+- Codenames
+- Wavelength
+- Katan
+- Bonanza
+- Brass Birmingham
+- Oh Hell
+- Star Realms
+- Final Girl
+- Sherlock Holmes Consulting Detective
+- Stormlight Ring
+project:
+- personal-systems
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=85nHNteKdec
 speaker: New York Times Podcasts
-tags:
-  - game-hosting
-  - rule-explanation
-  - social-dynamics
-  - game-recommendations
-title: 游戏之夜生存指南：如何轻松教学并让所有人尽兴
-summary: 本期播客邀请了《连线者》（Wire Cutter）的资深撰稿人詹姆斯·奥斯汀，分享举办桌游之夜的终极秘诀。核心内容聚焦于如何克服学习规则的障碍，通过积极的主持技巧和合适的流程安排，确保不同水平的玩家都能享受游戏。专家提供了针对不同年龄段、不同社交意图群体的具体游戏推荐，帮助听众成功举办一场难忘的家庭或朋友聚会。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - personal-systems
-  - knowledge-pipeline
-people:
-  - James Austin
-  - Christine Sirette
-  - Kyra Blackwell
-  - Rosie Garin
-  - Joel Foglano
-companies_orgs:
-  - Wire Cutter
-  - New York Times Games
-products_models:
-  - Rhino Hero Super Battle
-  - First Orchard
-  - Fake Artist Goes to New York
-  - The Crew
-  - Sushi Go
-  - Monikers
-  - Anomia
-  - Dixit
-  - Carcassonne
-  - Codenames
-  - Wavelength
-  - Katan
-  - Bonanza
-  - Brass Birmingham
-  - Oh Hell
-  - Star Realms
-  - Final Girl
-  - Sherlock Holmes Consulting Detective
-  - Stormlight Ring
-media_books:
-  - Puzzle Mania, Wordle, Connections, Spelling Bee, Minis, and More
-  - Stormlight Archives
 status: evergreen
+summary: 本期播客邀请了《连线者》（Wire Cutter）的资深撰稿人詹姆斯·奥斯汀，分享举办桌游之夜的终极秘诀。核心内容聚焦于如何克服学习规则的障碍，通过积极的主持技巧和合适的流程安排，确保不同水平的玩家都能享受游戏。专家提供了针对不同年龄段、不同社交意图群体的具体游戏推荐，帮助听众成功举办一场难忘的家庭或朋友聚会。
+tags:
+- rule-explanation
+- social-dynamic
+title: 游戏之夜生存指南：如何轻松教学并让所有人尽兴
 ---
+
 ### 游戏之夜的开场白与恐惧
 
 有篇《洋葱新闻》（The Onion，一个著名的讽刺新闻网站）的标题写得很好，它描述了“桌游规则解释，并夹杂着‘这会很有趣’的再三保证”。我一直活在那个标题之下，担心我总是在重复这个过程。

@@ -1,30 +1,26 @@
 ---
-title: Siri与ChatGPT：零成本打造你的专属英文口语教练
-summary: 本视频分享了如何利用Siri和ChatGPT，解决传统口语练习痛点，开发出“Talk GPT”英文口语应用。内容涵盖Prompt设计思路、自动化工作流及完整语音交互功能，旨在帮助用户高效练习口语。
-area: tech-insights
-category: technology
-project:
-  - ai-impact-analysis
-tags:
-  - ai-tools
-  - chatgpt-english
-  - language-learning
-  - prompt-engineering
-  - siri-shortcuts
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-08-04'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=aSTYLWFYAVA
+speaker: 一口新飯
 status: evergreen
+summary: 本视频分享了如何利用Siri和ChatGPT，解决传统口语练习痛点，开发出“Talk GPT”英文口语应用。内容涵盖Prompt设计思路、自动化工作流及完整语音交互功能，旨在帮助用户高效练习口语。
+tags:
+- investment
+- language-learning
+- llm
+- tool
+title: Siri与ChatGPT：零成本打造你的专属英文口语教练
 ---
 
 ### 引言：Talk GPT的诞生与核心理念

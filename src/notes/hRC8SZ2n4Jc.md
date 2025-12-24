@@ -1,58 +1,56 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Nasdaq
+- Norges Bank Investment Management
+- Apple
+- Microsoft
+- Amazon
+- Alphabet
+- Comcast
+- Applied Materials
+- Intel
+- Paccar
+- New York Stock Exchange
+- Carlyle
+- Disney
+- Dell
 date: '2024-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicola Tangen
+- Adena Friedman
+- Bob Iger
+- Michael Dell
+products_models:
+- ADR
+- GDR
+- Nasdaq Private Market
+- Verafin
+- Axiom
+- Clipo
+- Investment
+project:
+- investment-strategy
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=hRC8SZ2n4Jc
 speaker: Norges Bank Investment Management
-tags:
-  - market-operations
-  - financial-technology
-  - capital-markets
-  - anti-financial-crime
-  - leadership-development
-title: 纳斯达克CEO艾德娜·弗里德曼：从市场运营商到全球金融科技巨头
-summary: 纳斯达克CEO艾德娜·弗里德曼在访谈中分享了公司如何从传统市场运营商转型为全球金融科技提供商。她阐述了纳斯达克在流动性、透明度和诚信三大支柱上的业务扩展，探讨了各国交易所的必要性、公司上市地选择、高频交易的价值以及纳斯达克在打击金融犯罪方面的努力。弗里德曼还分享了其领导力哲学，强调赋能团队、持续学习和保持好奇心的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Nicola Tangen
-  - Adena Friedman
-  - Bob Iger
-  - Michael Dell
-companies_orgs:
-  - Nasdaq
-  - Norges Bank Investment Management
-  - Apple
-  - Microsoft
-  - Amazon
-  - Alphabet
-  - Comcast
-  - Applied Materials
-  - Intel
-  - Paccar
-  - New York Stock Exchange
-  - Carlyle
-  - Disney
-  - Dell
-products_models:
-  - ADR
-  - GDR
-  - Nasdaq Private Market
-  - Verafin
-  - Axiom
-  - Clipo
-  - Investment
-media_books: []
 status: evergreen
+summary: 纳斯达克CEO艾德娜·弗里德曼在访谈中分享了公司如何从传统市场运营商转型为全球金融科技提供商。她阐述了纳斯达克在流动性、透明度和诚信三大支柱上的业务扩展，探讨了各国交易所的必要性、公司上市地选择、高频交易的价值以及纳斯达克在打击金融犯罪方面的努力。弗里德曼还分享了其领导力哲学，强调赋能团队、持续学习和保持好奇心的重要性。
+tags:
+- capital-market
+- financial
+- leadership-development
+- market
+title: 纳斯达克CEO艾德娜·弗里德曼：从市场运营商到全球金融科技巨头
 ---
+
 ### 纳斯达克的转型：从市场运营商到科技巨头
 
 **Nicola:** 大家好，我是**挪威主权财富基金**（Norges Bank Investment Management: 挪威政府养老基金，全球最大的主权财富基金之一）的首席执行官尼古拉·坦根。今天，我们非常高兴能邀请到纳斯达克（Nasdaq）的首席执行官艾德娜·弗里德曼（Adena Friedman）。

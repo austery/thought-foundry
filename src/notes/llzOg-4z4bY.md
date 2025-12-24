@@ -1,54 +1,54 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: education
+companies_orgs:
+- 美丽中国
+- Polymarket
 date: '2025-04-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《南瓜灯博士》
+- 《一种孤独》
+- 《动物庄园》
+- 《活着》
+- 《鱼翅与花椒》
+- 《边界望乡》
+- 《台北人》
+- 《历史深处的忧虑》
+- 《莫泊桑短篇小说集》
+people:
+- 冯军鹤
+- 理查德·耶茨
+- 张爱玲
+- 沈从文
+- 金庸
+- 白先勇
+- 尤瑟纳尔
+- 陈春成
+- 莫泊桑
+- 罗素
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=llzOg-4z4bY
 speaker: 一席YiXi
-tags:
-  - language-and-power
-  - gender-norms
-  - literary-empathy
-  - exam-driven-education
-  - freedom-in-learning
-title: 只有经历过自由，才会更加信赖自由：一位语文教师的性别、语言与教育变革实践
-summary: 冯军鹤分享他在私立中学通过性别主题课、脏话分析与整本书阅读，打破语言偏见、培育共情力与批判思维的教育实验，并对比支教经历，揭示应试体制对语文教育自由的压制，呼吁重建以学生为主体的文学教育。
-insight: ''
-draft: true
-series: ''
-category: education
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 冯军鹤
-  - 理查德·耶茨
-  - 张爱玲
-  - 沈从文
-  - 金庸
-  - 白先勇
-  - 尤瑟纳尔
-  - 陈春成
-  - 莫泊桑
-  - 罗素
-companies_orgs:
-  - 美丽中国
-  - Polymarket
-products_models: []
-media_books:
-  - 《南瓜灯博士》
-  - 《一种孤独》
-  - 《动物庄园》
-  - 《活着》
-  - 《鱼翅与花椒》
-  - 《边界望乡》
-  - 《台北人》
-  - 《历史深处的忧虑》
-  - 《莫泊桑短篇小说集》
 status: evergreen
+summary: 冯军鹤分享他在私立中学通过性别主题课、脏话分析与整本书阅读，打破语言偏见、培育共情力与批判思维的教育实验，并对比支教经历，揭示应试体制对语文教育自由的压制，呼吁重建以学生为主体的文学教育。
+tags:
+- education
+- gender
+- history
+- learning
+- power
+title: 只有经历过自由，才会更加信赖自由：一位语文教师的性别、语言与教育变革实践
 ---
+
 ### 从性别语言到脏话：一场语文课的觉醒
 
 我叫冯军鹤，是一名中学语文老师。今天想和大家分享过去几年我在课堂上的探索。

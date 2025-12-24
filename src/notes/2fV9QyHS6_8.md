@@ -1,69 +1,68 @@
 ---
-author: 夸克说
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 鸿福院
+- 红叶建筑有限公司
+- 劳工处
+- 房屋署独立审查组
+- 消防处
+- 廉政公署
+- 新华社
+- 知乎
+- 热度新闻
+- 第一财经
+- 香港国安处
+- 驻港安全公署
+- 山东程旭化纤神网有限公司
+- 竹叶委员会
+- HOKLAS
+- CNAS
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 牛弹琴
+- 《产品质量法》
+- 《消防法》
+- 《中国国标安全网GB 57 25》
+- 《住建部禁止和限制使用技术目录》
+- 《内地与香港关于建立更紧密经贸关系的安排》
+people:
+- 邓炳强
+- 汪诗诗
+- 潘卓红
+- 黄碧娇
+- 陈国基
+- 胡英明
+- 刘红
+- 张锦雄
+- 李文亮
+- 梁振英
+- Xi Jinping
+products_models:
+- 聚氨酯发泡胶
+- PVC
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=2fV9QyHS6_8
 speaker: 夸克说
-tags:
-  - hong-kong-fire
-  - regulatory-failure
-  - media-narratives
-  - systemic-corruption
-  - political-polarization
-title: 香港大火：一场灾难背后的制度腐败、叙事之争与自治之殇
-summary: 2025年香港大埔鸿福院大火造成逾百人死亡，引发了关于火灾起因的激烈争论。本文深入剖析了两种截然相反的叙事：内地媒体将矛头指向香港的竹制脚手架及其背后的“封建行会”，而香港本地声音则归咎于不合格的防护网、发泡胶以及政府的监管失职。文章通过科学分析和事实证据，揭示了火灾的真正元凶，并探讨了这场灾难如何被利用，成为中共进一步侵蚀香港自治、打压民间力量的工具，反映了制度性腐败和舆论战的深层问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - 邓炳强
-  - 汪诗诗
-  - 潘卓红
-  - 黄碧娇
-  - 陈国基
-  - 胡英明
-  - 刘红
-  - 张锦雄
-  - 李文亮
-  - 梁振英
-  - 习近平
-companies_orgs:
-  - 鸿福院
-  - 红叶建筑有限公司
-  - 劳工处
-  - 房屋署独立审查组
-  - 消防处
-  - 廉政公署
-  - 新华社
-  - 知乎
-  - 热度新闻
-  - 第一财经
-  - 香港国安处
-  - 驻港安全公署
-  - 山东程旭化纤神网有限公司
-  - 竹叶委员会
-  - HOKLAS
-  - CNAS
-products_models:
-  - 聚氨酯发泡胶
-  - PVC
-media_books:
-  - 牛弹琴
-  - 《产品质量法》
-  - 《消防法》
-  - 《中国国标安全网GB 57 25》
-  - 《住建部禁止和限制使用技术目录》
-  - 《内地与香港关于建立更紧密经贸关系的安排》
 status: evergreen
+summary: 2025年香港大埔鸿福院大火造成逾百人死亡，引发了关于火灾起因的激烈争论。本文深入剖析了两种截然相反的叙事：内地媒体将矛头指向香港的竹制脚手架及其背后的“封建行会”，而香港本地声音则归咎于不合格的防护网、发泡胶以及政府的监管失职。文章通过科学分析和事实证据，揭示了火灾的真正元凶，并探讨了这场灾难如何被利用，成为中共进一步侵蚀香港自治、打压民间力量的工具，反映了制度性腐败和舆论战的深层问题。
+tags:
+- failure
+- geopolitical
+- media
+- systemic-corruption
+title: 香港大火：一场灾难背后的制度腐败、叙事之争与自治之殇
 ---
+
 大家好，欢迎收看夸克说，我是夸克。这期节目咱们讲讲前几天刚刚发生的香港大火，以及背后折射出来的一些更深层次的原因。2025年11月26日，香港大埔**鸿福院**（Hung Fook Court: 香港的一个住宅屋苑）发生了一场大火。截止到我写这篇稿子为止，官方通报的死亡人数已经达到了151人，30多人失联。这绝对是香港40多年来最严重的一次火灾。
 
 ### 灾难后的两种叙事

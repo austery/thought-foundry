@@ -1,57 +1,56 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Money or Life 美股频道
+- Rocket Lab
+- NeoCloud
+- SOFI
+- HIMS
+- Qualcomm
+- Tesla
+- Nvidia
+- TMDX
+- CRCL
+- MST2
+- NBIS
+- META
+- Core Scientific
+- Patreon
 date: '2025-11-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X平台
+people:
+- Ace
+- Peter Beck
+- Ashok
+- Elon Musk
+products_models:
+- Neutron rocket
+- GTC conference
+- Leap Call
+- 看跌期权
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=aKUdP8Zd4bY
 speaker: Money or Life 美股频道
-tags:
-  - us-stock-market
-  - investment-strategy
-  - portfolio-management
-  - earnings-analysis
-  - rocket-lab-outlook
-title: 美股十月复盘与十一月展望：火箭实验室、特斯拉及个人投资策略深度解析
-summary: 本期节目主持人Ace复盘了美股十月行情，分享了其在火箭实验室（RKLB）、特斯拉（TSLA）等核心持仓上的操作与长期策略。他详细讨论了中子火箭发射时间对RKLB股价的影响、个人投资组合的月度收益，并解释了对其他股票如SOFI、HIMS、PLTR等进行频繁操作的背后逻辑。节目还展望了十一月市场，并对特斯拉股东大会等关键事件进行了分析。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Ace
-  - Peter Beck
-  - Ashok
-  - Elon Musk
-companies_orgs:
-  - Money or Life 美股频道
-  - Rocket Lab
-  - NeoCloud
-  - SOFI
-  - HIMS
-  - Qualcomm
-  - Tesla
-  - Nvidia
-  - TMDX
-  - CRCL
-  - MST2
-  - NBIS
-  - META
-  - Core Scientific
-  - Patreon
-products_models:
-  - Neutron rocket
-  - GTC conference
-  - Leap Call
-  - 看跌期权
-media_books:
-  - X平台
 status: evergreen
+summary: 本期节目主持人Ace复盘了美股十月行情，分享了其在火箭实验室（RKLB）、特斯拉（TSLA）等核心持仓上的操作与长期策略。他详细讨论了中子火箭发射时间对RKLB股价的影响、个人投资组合的月度收益，并解释了对其他股票如SOFI、HIMS、PLTR等进行频繁操作的背后逻辑。节目还展望了十一月市场，并对特斯拉股东大会等关键事件进行了分析。
+tags:
+- earnings-analysis
+- portfolio-management
+- technology
+- us-stock-market
+title: 美股十月复盘与十一月展望：火箭实验室、特斯拉及个人投资策略深度解析
 ---
+
 ### 美股十月复盘与火箭实验室周边分享
 
 大家好，欢迎来到Money or Life美股频道，我是Ace。今天是2025年11月1号，整个美股10月的交易已经过去。本周的美股复盘加推演节目将会非常特别，因为平时周末的节目我都没有出镜，今天专门打开了镜头拍摄。一个重要的原因就是我预定的**火箭实验室**（Rocket Lab: 一家美国航空航天制造商和小型卫星发射服务提供商）官方的周边商品，昨天刚刚从美国寄到新加坡，包括我现在身上穿的这一件印有**中子火箭**（Neutron rocket: 火箭实验室公司正在开发的一种可重复使用的中型运载火箭）图形的文化衫，我自己非常喜欢。

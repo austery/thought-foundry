@@ -1,217 +1,216 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Reserve
+- Federal Open Market Committee
+- Oracle
+- Adobe
+- Nvidia
+- Google
+- Uber
+- Carvana
+- Meta
+- Amcore
+- Rocket Lab
+- Bloomberg
+- SpaceX
+- SoFi
+- Blue Origin
+- Amazon
+- Grab
+- Rubric
+- Salesforce
+- Ford
+- VRT
+- Reddit
+- Cororeweave
+- Wall Street Journal
+- Apple
+- Fundstrat Global Advisors
+- DoubleLine Capital
+- Reuters
+- New York Times
+- Fox Business
+- Financial Times
+- Bank Rate
+- ABC News
+- Associated Press
+- CNN
+- Axios
+- Paramount
+- Netflix
+- Warner Bros. Discovery
+- UCSF
+- Deutsche Bank
+- Melius Research
+- Citi
+- Jefferies
+- Sanford Bernstein
+- Guggenheim Securities
+- Microsoft
+- TSMC
+- OpenAI
+- XAI
+- DeepMind
+- Anthropic
+- Lux Capital
+- U.S. Space Force
+- Digital Bridge Holdings
+- Ethod Salam Telecom
+- Motorola Solutions
+- Tim Brazil
+- Core Civic
+- Prime Life Technologies
+- Jeweler's Mutual Insurance
+- City of Kosa Mesa
+- City of Santa Ana
+- Solar Edge Technologies
+- Zscaler
+- Dropbox
+- Virgin Atlantic Airways
+- Broadridge
+- Litecoin Health
+- Saudi Telecom
+- Docusign
+- Itha Group
+- NTT Data
+- SoftBank
+- Broadcom
+- Palo Alto Networks
+- CyberReason
+- Newfold Digital
+- MongoDB
+- Snowflake
+- Samsung
+- SK Hynix
+- Micron
+- AMD
+- Intel
+- Lululemon
+- Costco
+- Weeble
+- Robinhood
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Journal
+- Bloomberg
+- New York Times
+- Fox Business
+- Financial Times
+- ABC News
+- Associated Press
+- CNN
+- Axios
+- Bank Rate
+- Time
+- Succession
+- Harry Potter
+- Game of Thrones
+- DC Comics
+- Yellowstone
+- Squid Game
+- Stranger Things
+- HBO Max
+- YouTube
+- TikTok
+- Instagram
+- Facebook
+- Fortnite
+- Call of Duty
+- GTA
+- Ron Burgundy
+people:
+- Jerome Powell
+- Neil Irwin
+- Tom Lee
+- Jeffrey Gunlach
+- Howard Schneider
+- Kobe Smith
+- Nick Timos
+- Edward Lawrence
+- Claire Jones
+- Michael McKe
+- Christine Romans
+- Victoria Aguido
+- Elizabeth Schelsey
+- Chris Rabber
+- Matt Eaggan
+- Mark Hamick
+- Julia Bon
+- Donald Trump
+- Elon Musk
+- Jeff Bezos
+- Sundar Pichai
+- Mark Zuckerberg
+- Jensen Huang
+- Sam Altman
+- Demis Hassabis
+- Kevin Warsh
+- Larry Ellison
+- Doug (Oracle CFO)
+- Clay (Oracle Exec)
+- Mike (Oracle Exec)
+- Shantanu Narayen
+- Lisa Su
+- Fay-Fei Li
+products_models:
+- Gemini Flash
+- S&P 500
+- Bitcoin
+- Ethereum
+- H100s
+- Gemini
+- Llama
+- ChatGPT
+- GROK
+- Photoshop Express
+- Acrobat
+- Firefly
+- Runway
+- Black Forest
+- OCI
+- Fusion ERP
+- Fusion SCM
+- Fusion HCM
+- Netsuite
+- Fusion CX
+- Acceleron
+- AI Agent Service
+- Sassy
+- Prisma Access
+- Oracle Autonomous AI Lakehouse
+- Oracle AI Database
+- Oracle AI Data Platform
+- Nvidia Grace Blackwell GB200
+- AMD MI355
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=iNPfT91VNuk
 speaker: Amit Kukreja
-tags:
-  - fed-fomc-meeting
-  - interest-rate-cuts
-  - quantitative-easing
-  - market-reaction
-  - economic-outlook
-  - inflation-outlook
-  - labor-market
-  - corporate-earnings
-  - ai-impact
-  - space-data-centers
-title: 美联储降息25个基点并重启量化宽松：市场、AI与企业财报深度解析
-summary: 本文详细解读了联邦公开市场委员会（FOMC）会议的关键内容，包括美联储降息25个基点及量化宽松（QE）的回归。会议深入探讨了经济展望、通胀、劳动力市场状况以及未来政策方向。此外，文章还分析了市场对美联储决议的即时反应，并对甲骨文、Adobe等主要科技公司的财报进行了深入剖析。同时，文中也涉及了对AI技术、太空数据中心等前沿概念的讨论，以及特朗普总统对美联储政策和媒体行业的看法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Jerome Powell
-  - Amit Kukreja
-  - Neil Irwin
-  - Tom Lee
-  - Jeffrey Gunlach
-  - Howard Schneider
-  - Kobe Smith
-  - Nick Timos
-  - Edward Lawrence
-  - Claire Jones
-  - Michael McKe
-  - Christine Romans
-  - Victoria Aguido
-  - Elizabeth Schelsey
-  - Chris Rabber
-  - Matt Eaggan
-  - Mark Hamick
-  - Julia Bon
-  - Donald Trump
-  - Elon Musk
-  - Jeff Bezos
-  - Sundar Pichai
-  - Mark Zuckerberg
-  - Jensen Huang
-  - Sam Altman
-  - Demis Hassabis
-  - Kevin Warsh
-  - Larry Ellison
-  - Doug (Oracle CFO)
-  - Clay (Oracle Exec)
-  - Mike (Oracle Exec)
-  - Shantanu Narayen
-  - Lisa Su
-  - Fay-Fei Li
-companies_orgs:
-  - Federal Reserve
-  - Federal Open Market Committee
-  - Oracle
-  - Adobe
-  - Nvidia
-  - Google
-  - Uber
-  - Carvana
-  - Meta
-  - Amcore
-  - Rocket Lab
-  - Bloomberg
-  - SpaceX
-  - SoFi
-  - Blue Origin
-  - Amazon
-  - Grab
-  - Rubric
-  - Salesforce
-  - Ford
-  - VRT
-  - Reddit
-  - Cororeweave
-  - Wall Street Journal
-  - Apple
-  - Fundstrat Global Advisors
-  - DoubleLine Capital
-  - Reuters
-  - New York Times
-  - Fox Business
-  - Financial Times
-  - Bank Rate
-  - ABC News
-  - Associated Press
-  - CNN
-  - Axios
-  - Paramount
-  - Netflix
-  - Warner Bros. Discovery
-  - UCSF
-  - Deutsche Bank
-  - Melius Research
-  - Citi
-  - Jefferies
-  - Sanford Bernstein
-  - Guggenheim Securities
-  - Microsoft
-  - TSMC
-  - OpenAI
-  - XAI
-  - DeepMind
-  - Anthropic
-  - Lux Capital
-  - U.S. Space Force
-  - Digital Bridge Holdings
-  - Ethod Salam Telecom
-  - Motorola Solutions
-  - Tim Brazil
-  - Core Civic
-  - Prime Life Technologies
-  - Jeweler's Mutual Insurance
-  - City of Kosa Mesa
-  - City of Santa Ana
-  - Solar Edge Technologies
-  - Zscaler
-  - Dropbox
-  - Virgin Atlantic Airways
-  - Broadridge
-  - Litecoin Health
-  - Saudi Telecom
-  - Docusign
-  - Itha Group
-  - NTT Data
-  - SoftBank
-  - Broadcom
-  - Palo Alto Networks
-  - CyberReason
-  - Newfold Digital
-  - MongoDB
-  - Snowflake
-  - Samsung
-  - SK Hynix
-  - Micron
-  - AMD
-  - Intel
-  - Lululemon
-  - Costco
-  - Weeble
-  - Robinhood
-products_models:
-  - Gemini Flash
-  - S&P 500
-  - Bitcoin
-  - Ethereum
-  - H100s
-  - Gemini
-  - Llama
-  - ChatGPT
-  - GROK
-  - Photoshop Express
-  - Acrobat
-  - Firefly
-  - Runway
-  - Black Forest
-  - OCI
-  - Fusion ERP
-  - Fusion SCM
-  - Fusion HCM
-  - Netsuite
-  - Fusion CX
-  - Acceleron
-  - AI Agent Service
-  - Sassy
-  - Prisma Access
-  - Oracle Autonomous AI Lakehouse
-  - Oracle AI Database
-  - Oracle AI Data Platform
-  - Nvidia Grace Blackwell GB200
-  - AMD MI355
-media_books:
-  - Wall Street Journal
-  - Bloomberg
-  - New York Times
-  - Fox Business
-  - Financial Times
-  - ABC News
-  - Associated Press
-  - CNN
-  - Axios
-  - Bank Rate
-  - Time
-  - Succession
-  - Harry Potter
-  - Game of Thrones
-  - DC Comics
-  - Yellowstone
-  - Squid Game
-  - Stranger Things
-  - HBO Max
-  - YouTube
-  - TikTok
-  - Instagram
-  - Facebook
-  - Fortnite
-  - Call of Duty
-  - GTA
-  - Ron Burgundy
 status: evergreen
+summary: 本文详细解读了联邦公开市场委员会（FOMC）会议的关键内容，包括美联储降息25个基点及量化宽松（QE）的回归。会议深入探讨了经济展望、通胀、劳动力市场状况以及未来政策方向。此外，文章还分析了市场对美联储决议的即时反应，并对甲骨文、Adobe等主要科技公司的财报进行了深入剖析。同时，文中也涉及了对AI技术、太空数据中心等前沿概念的讨论，以及特朗普总统对美联储政策和媒体行业的看法。
+tags:
+- ai-impact
+- corporate-earning
+- economic-outlook
+- financial
+- inflation-outlook
+- interest-rate-cut
+- labor-market
+- llm
+- market-reaction
+- space-data-center
+title: 美联储降息25个基点并重启量化宽松：市场、AI与企业财报深度解析
 ---
+
 ### 美联储降息25个基点及量化宽松回归
 
 大家好，欢迎回到频道。我们提前大约10分钟开始直播，各位，我们降息了。

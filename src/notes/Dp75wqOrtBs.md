@@ -1,27 +1,25 @@
 ---
-title: All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - 国际政治
-  - 版权
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: tech-engineering
 author: Lei
-speaker: All-In Podcast
-guest: 
+category: ai-ml
+companies_orgs: []
+date: '2025-07-10'
+guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=Dp75wqOrtBs
+speaker: All-In Podcast
+summary: null
+tags:
+- geopolitical
+- 版权
+title: All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权
 ---
+
 ## (0:00) 好哥们介绍：核心四人组回归
 
 **Jason:** Did you guys see this uh White House video?

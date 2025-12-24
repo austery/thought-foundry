@@ -1,62 +1,61 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: psychology
+companies_orgs:
+- Apple
+- Oxfam
+- FBI
+- Gallup
+- Microsoft
 date: '2024-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《完美主义的陷阱》
+- 《椭圆形肖像》
+- 《成功反思》
+people:
+- Thomas Curran
+- Edgar Allan Poe
+- Steve Jobs
+- Karen Horney
+- Patrick Gaudreau
+- David Burns
+- Richard Easterlin
+- Barack Obama
+- Tony Blair
+- Kate Raworth
+- Richard Layard
+- Elon Musk
+- J.K. Rowling
+- David Smail
+- Tarah Brach
+products_models:
+- Speak
+- Research Excellence Framework
+- Human Development Index
+- Donut Economics
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=7rSQCTBzg9k
 speaker: 超級歪 SuperY
-tags:
-  - perfectionism
-  - burnout
-  - competitive-individualism
-  - consumer-culture
-  - economic-growth-critique
-  - workplace-culture
-  - mental-health
-title: 完美主义的陷阱：现代社会倦怠与系统性困境
-summary: 本期节目深入探讨了现代社会中普遍存在的完美主义现象及其深层根源。从台湾学生和上班族日益增长的倦怠感入手，节目揭示了完美主义如何被竞争性个人主义、消费文化、家庭教育和职场环境所驱动。心理学家托马斯·柯伦的著作《完美主义的陷阱》指出，过度追求完美不仅效率低下，更导致广泛的精神困扰。节目呼吁从个人“躺平”转向集体行动，通过停止盲目追求经济增长、采用幸福指标衡量社会进步、以及推行工作共享等系统性变革，以对抗病态的完美主义文化，迈向一个“足够好”的社会。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people:
-  - Thomas Curran
-  - Edgar Allan Poe
-  - Steve Jobs
-  - Karen Horney
-  - Patrick Gaudreau
-  - David Burns
-  - Richard Easterlin
-  - Barack Obama
-  - Tony Blair
-  - Kate Raworth
-  - Richard Layard
-  - Elon Musk
-  - J.K. Rowling
-  - David Smail
-  - Tarah Brach
-companies_orgs:
-  - Apple
-  - Oxfam
-  - FBI
-  - Gallup
-  - Microsoft
-products_models:
-  - Speak
-  - Research Excellence Framework
-  - Human Development Index
-  - Donut Economics
-media_books:
-  - 《完美主义的陷阱》
-  - 《椭圆形肖像》
-  - 《成功反思》
 status: evergreen
+summary: 本期节目深入探讨了现代社会中普遍存在的完美主义现象及其深层根源。从台湾学生和上班族日益增长的倦怠感入手，节目揭示了完美主义如何被竞争性个人主义、消费文化、家庭教育和职场环境所驱动。心理学家托马斯·柯伦的著作《完美主义的陷阱》指出，过度追求完美不仅效率低下，更导致广泛的精神困扰。节目呼吁从个人“躺平”转向集体行动，通过停止盲目追求经济增长、采用幸福指标衡量社会进步、以及推行工作共享等系统性变革，以对抗病态的完美主义文化，迈向一个“足够好”的社会。
+tags:
+- competitive-individualism
+- culture
+- economic-growth-critique
+- mental-health
+- perfectionism
+- psychology
+title: 完美主义的陷阱：现代社会倦怠与系统性困境
 ---
+
 ### 现代人的疲惫根源：完美主义的陷阱
 
 近期一项研究发现，台湾大学生罹患抑郁症的比例显著增加，从疫情前的16.3%上升至疫情后的25.5%，增幅达9.2%。此外，根据人力银行的调查，高达94%的台湾上班族曾经历**职场倦怠**（Burnout: 因长期压力导致的身心俱疲状态），其中最常出现倦怠症状的时间是周一下午两点，这表明“蓝色星期一”的魔咒确实存在。

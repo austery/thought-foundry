@@ -1,79 +1,76 @@
 ---
-author: 硅谷101播客
+area: tech-insights
+category: technology
+companies_orgs:
+- 硅谷101
+- UC Berkeley
+- Meta
+- Amazon
+- TetherIA
+- Tesla
+- Figure AI
+- Physical Intelligence
+- NVIDIA
+- OpenAI
+- Sharpa
+- 源升智能
+- Honda
+- Covariant
+- Google Brain
+- Google Robotics
+- Sky Lab
+- 1X
+- Sunday
+- Generalist
+- DeepMind
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《硅谷101》
+- Google Scholar
+people:
+- 泓君
+- 齐浩之
+- 陶一伟
+- Evan Tao
+- Elon Musk
+- Pieter Abbeel
+- Sergey Levine
+products_models:
+- PaLM-E
+- RT-1
+- RT-2
+- Optimus
+- π0
+- π0.5
+- Neo
+- Aloha
+- ORCA Hand
+- Shadow Hand
+- ASIMO
+- vLLM
+- SG Lang
+- Genie3
+project:
+- ai-impact-analysis
+- systems-thinking
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=VV6l2Iw1L8U
 speaker: 硅谷101播客
-tags:
-  - robot-dexterous-hands
-  - robot-hardware
-  - robot-algorithms
-  - teleoperation
-  - robot-generalization
-  - tactile-sensing
-  - robot-data-collection
-title: 机器人灵巧手的硬件与算法：从开可乐到发扑克，挑战与未来
-summary: 本期节目深入探讨了机器人灵巧手在硬件和算法层面的发展与挑战。嘉宾齐浩之和陶一伟分享了灵巧手在精细操作、泛化能力、硬件可靠性等方面的瓶颈，并详细介绍了连杆驱动、绳驱和直驱等主流技术路线的优劣。节目还讨论了触觉传感器的重要性、数据采集（遥操作与视频学习）的现状，以及伯克利等顶尖研究机构在机器人AI领域的贡献。两位嘉宾预测了灵巧手达到“GPT时刻”的可能性和时间点，展望了机器人行业的光明未来。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - us-analysis
-people:
-  - 泓君
-  - 齐浩之
-  - 陶一伟
-  - Evan Tao
-  - Elon Musk
-  - Pieter Abbeel
-  - Sergey Levine
-companies_orgs:
-  - 硅谷101
-  - UC Berkeley
-  - Meta
-  - Amazon
-  - TetherIA
-  - Tesla
-  - Figure AI
-  - Physical Intelligence
-  - NVIDIA
-  - OpenAI
-  - Sharpa
-  - 源升智能
-  - Honda
-  - Covariant
-  - Google Brain
-  - Google Robotics
-  - Sky Lab
-  - 1X
-  - Sunday
-  - Generalist
-  - DeepMind
-products_models:
-  - PaLM-E
-  - RT-1
-  - RT-2
-  - Optimus
-  - π0
-  - π0.5
-  - Neo
-  - Aloha
-  - ORCA Hand
-  - Shadow Hand
-  - ASIMO
-  - vLLM
-  - SG Lang
-  - Genie3
-media_books:
-  - 《硅谷101》
-  - Google Scholar
 status: evergreen
+summary: 本期节目深入探讨了机器人灵巧手在硬件和算法层面的发展与挑战。嘉宾齐浩之和陶一伟分享了灵巧手在精细操作、泛化能力、硬件可靠性等方面的瓶颈，并详细介绍了连杆驱动、绳驱和直驱等主流技术路线的优劣。节目还讨论了触觉传感器的重要性、数据采集（遥操作与视频学习）的现状，以及伯克利等顶尖研究机构在机器人AI领域的贡献。两位嘉宾预测了灵巧手达到“GPT时刻”的可能性和时间点，展望了机器人行业的光明未来。
+tags:
+- data
+- history
+- tactile-sensing
+- technology
+title: 机器人灵巧手的硬件与算法：从开可乐到发扑克，挑战与未来
 ---
+
 ### 播客获奖与机器人特辑引言
 
 哈喽，大家好，欢迎收听《硅谷101》，我是泓君。有个好消息要告诉大家，我们的播客获得了2025年苹果播客的年度编辑精选，这已经是我们第二次入选苹果的年度精选播客了。对于独立播客来说，苹果一直是一个很重要的分发渠道，它每年的播客评选其实也是业内很有重量级的一个奖。所以今年很开心，也很荣幸能获奖。当然，也希望我们能够继续努力，做出大家更多喜欢听的好内容、好节目。

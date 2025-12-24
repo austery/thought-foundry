@@ -1,46 +1,46 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 东京大学
+- Fraser Institute
+- Cato Institute
+- 联合国
 date: '2025-06-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Boston Review
+people:
+- 周保松
+- 李泽厚
+- 叶浩
+- 秦晖
+- Milton Friedman
+- Friedrich Hayek
+- Robert Nozick
+- 赵紫阳
+- 江泽民
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=OjuDdFniNhI
 speaker: 东京人文论坛
-tags:
-  - social-welfare
-  - individual-liberty
-  - wealth-redistribution
-  - political-philosophy
-  - left-liberalism
-title: 周保松：社会福利是否必然牺牲个人自由？——来自左翼自由主义的解答
-summary: 本文深入探讨了社会福利与个人自由之间普遍存在的认知误区。讲者周保松教授挑战了“福利越多，自由越少”的主流观点，他引用全球自由指数数据指出，经济与人类自由度最高的国家恰恰是福利国家。通过对金钱、财产与自由关系的哲学分析，他论证了财富再分配并非自由的净损失，而是一种“自由的再分配”。最终，文章倡导一种超越党国资本主义与自由放任主义的“第三条路”——即以保障所有公民平等自由为核心的民主福利国家模式。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people:
-  - 周保松
-  - 李泽厚
-  - 叶浩
-  - 秦晖
-  - Milton Friedman
-  - Friedrich Hayek
-  - Robert Nozick
-  - 赵紫阳
-  - 江泽民
-companies_orgs:
-  - 东京大学
-  - Fraser Institute
-  - Cato Institute
-  - 联合国
-products_models: []
-media_books:
-  - Boston Review
 status: evergreen
+summary: 本文深入探讨了社会福利与个人自由之间普遍存在的认知误区。讲者周保松教授挑战了“福利越多，自由越少”的主流观点，他引用全球自由指数数据指出，经济与人类自由度最高的国家恰恰是福利国家。通过对金钱、财产与自由关系的哲学分析，他论证了财富再分配并非自由的净损失，而是一种“自由的再分配”。最终，文章倡导一种超越党国资本主义与自由放任主义的“第三条路”——即以保障所有公民平等自由为核心的民主福利国家模式。
+tags:
+- individual-liberty
+- political-philosophy
+- social-welfare
+- society
+- wealth
+title: 周保松：社会福利是否必然牺牲个人自由？——来自左翼自由主义的解答
 ---
+
 ### 引言：一个核心的争论
 大家好，很高兴今天有机会来做这个报告。我现在人在香港，非常抱歉不能亲自来到东京。我非常喜欢东京，也经常过去，但因为明天需要上课，所以无法亲临现场，在此先向大家致歉。
 

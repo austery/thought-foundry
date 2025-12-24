@@ -1,43 +1,42 @@
 ---
-author: Darren聊美股
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Nvidia
+- Google
+- META
+- Amazon
+- Palantir
+- 美联储
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Seeking Alpha
+people:
+- Donald Trump
+products_models:
+- Covered Call ETF
+- Alpha Picks
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=b4Yv0F3aKy4
 speaker: Darren聊美股
-tags:
-  - us-stock-market-crash
-  - us-china-tariff-war
-  - market-correction
-  - ai-bubble-analysis
-  - investment-strategy
-title: 美股暴跌：中美关税战再起，AI泡沫破裂与否？市场回调下的投资策略分析
-summary: 本周美股因中美关税战升级而暴跌，标普和纳斯达克指数显著下挫。本文深入分析此次市场回调，指出其与四月份“黄金坑”的相似性，并强调这更像是一次健康的调整，而非牛市终结或AI泡沫破裂。作者通过对比历史市盈率、宏观经济环境及AI公司的盈利能力，论证AI浪潮远未结束。文章建议投资者保持冷静，关注公司基本面，利用市场波动进行加仓布局，并坚持长期持有优质股票的投资理念。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Donald Trump
-companies_orgs:
-  - Nvidia
-  - Google
-  - META
-  - Amazon
-  - Palantir
-  - 美联储
-products_models:
-  - Covered Call ETF
-  - Alpha Picks
-media_books:
-  - Seeking Alpha
 status: evergreen
+summary: 本周美股因中美关税战升级而暴跌，标普和纳斯达克指数显著下挫。本文深入分析此次市场回调，指出其与四月份“黄金坑”的相似性，并强调这更像是一次健康的调整，而非牛市终结或AI泡沫破裂。作者通过对比历史市盈率、宏观经济环境及AI公司的盈利能力，论证AI浪潮远未结束。文章建议投资者保持冷静，关注公司基本面，利用市场波动进行加仓布局，并坚持长期持有优质股票的投资理念。
+tags:
+- ai-bubble-analysis
+- market-correction
+- us-china-tariff-war
+- us-stock-market-crash
+title: 美股暴跌：中美关税战再起，AI泡沫破裂与否？市场回调下的投资策略分析
 ---
+
 ### 美股暴跌与中美关税战：市场情绪与基本面分析
 
 本周五，美股市场经历了显著的暴跌。标普大盘下跌了2.5%，纳斯达克指数下跌了3.5%。其中，此前涨势强劲的**高beta股票**（High Beta Stocks: 波动性高于大盘的股票）跌幅尤为明显。此次暴跌是自今年四月份的“黄金坑”以来，标普单日首次下跌超过2%。值得注意的是，造成本次下跌的原因与四月份相似，仍是特朗普的关税战以及中美关系的紧张局势。面对市场一片“血红”，许多投资者难免感到恐慌，不知如何操作。本文旨在帮助大家平复心情，冷静分析此次市场暴跌。

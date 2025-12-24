@@ -1,35 +1,32 @@
 ---
-title: AI并非泡沫：三大投资板块与市场领导力演变
-summary: AI非泡沫：能源、软件、芯片三大投资板块布局，重塑市场与企业效率。
-area: market-analysis
-category: technology
+area: tech-engineering
+category: ai-ml
+companies_orgs: []
+date: '2025-10-04'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- talk
+products_models: []
 project:
 - ai-impact-analysis
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- ai
-- investment-themes
-- market-shifts
-- tech-investment
-- us-tech-leadership
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- talk
-date: '2025-10-04'
-author: 投资TALK君
-speaker: 投资TALK君
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=_HenXrB6PTQ
+speaker: 投资TALK君
 status: evergreen
+summary: AI非泡沫：能源、软件、芯片三大投资板块布局，重塑市场与企业效率。
+tags:
+- investment
+- market
+- us-tech-leadership
+title: AI并非泡沫：三大投资板块与市场领导力演变
 ---
+
 ### 引言：AI浪潮下的市场展望
 
 本期内容主要分享了两位一级市场投资者（**一级市场**：指证券发行市场，公司在此首次发行股票或债券以筹集资金）的观点，他们通过一个名为“BG two”的博客，深入探讨了为何当前的人工智能（AI）并非泡沫，以及他们对AI未来发展的乐观预期。这两位投资者分别在**一级市场**和**二级市场**（**二级市场**：指已发行证券的交易市场，投资者在此买卖已上市的股票、债券等）均有投资经验，他们的分析对于理解AI当前的价值和未来走向具有重要意义。

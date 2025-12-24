@@ -1,32 +1,30 @@
 ---
-title: 科技女皇的皇帝新衣：CaaStle亿元骗局的始末
-summary: 本文讲述了CaaStle公司CEO克里斯汀·汉西克如何通过伪造财务报表，将一家估值近10亿美元的科技独角兽公司变成一场持续六年的惊天骗局，最终导致破产的商业故事。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- investment-strategy
-tags:
-- corporate-fraud
-- due-diligence
-- fashion-tech
-- investment-scam
-- startup-failure
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-03'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=jAqwATGIfzY
+speaker: 北美王路飞
 status: evergreen
+summary: 本文讲述了CaaStle公司CEO克里斯汀·汉西克如何通过伪造财务报表，将一家估值近10亿美元的科技独角兽公司变成一场持续六年的惊天骗局，最终导致破产的商业故事。
+tags:
+- corporate-fraud
+- due-diligence
+- failure
+- investment
+- tech
+title: 科技女皇的皇帝新衣：CaaStle亿元骗局的始末
 ---
+
 ### 引子：科技女皇的陨落
 
 您现在看到这张照片里的女人叫做克里斯汀·汉西克。她穿着时尚的蛇皮纹西装，带着标志性的粗框眼镜，眼神里透着一股“我能搞定一切”的自信。在媒体的聚光灯下，她是改变零售业的**CEO**（Chief Executive Officer: 首席执行官，公司最高管理职位），科技时尚教母。她的公司投资人名单星光熠熠，包括谷歌董事会成员，甚至**Alphabet**（Alphabet Inc.: 谷歌的母公司）的董事长都为她站台。她宣称自己的公司CaaStle即将成为估值10亿美金的**独角兽企业**（Unicorn Company: 估值超过10亿美元的初创公司）。

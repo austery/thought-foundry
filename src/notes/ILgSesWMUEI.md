@@ -1,54 +1,52 @@
 ---
-author: Veritasium
-date: '2023-09-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ILgSesWMUEI
-speaker: Veritasium
-tags:
-  - veritasium
-  - nuclear-accidents
-  - cold-war
-  - false-alarms
-  - nuclear-deterrence
-  - human-error
-title: 人类如何多次险些因核武器意外自我毁灭
-summary: 本视频详细讲述了人类在冷战及之后因核武器事故、核弹丢失和虚假警报而多次险些遭遇核灾难的惊险时刻。它强调了帕洛马雷斯B-52轰炸机坠毁、泰坦二号导弹爆炸等事件，以及瓦西里·阿尔希波夫和斯坦尼斯拉夫·彼得罗夫等关键人物的理性决策，指出核武器的最大威胁并非蓄意使用，而是意外事故，并呼吁核裁军以确保人类未来安全。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Larry Messinger
-  - Jack ReVelle
-  - Alexander Lebed
-  - Vasili Arkhipov
-  - Arthur Schlesinger Jr.
-  - Stanislav Petrov
-  - Boris Yeltsin
+category: geopolitics
 companies_orgs:
-  - US military
-  - Pentagon
-  - Department of Defence
-  - CIA
-  - US Navy
-  - Soviet Union
-  - Russia
-  - Henson Shaving
+- US military
+- Pentagon
+- Department of Defence
+- CIA
+- US Navy
+- Soviet Union
+- Russia
+- Henson Shaving
+date: '2023-09-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Larry Messinger
+- Jack ReVelle
+- Alexander Lebed
+- Vasili Arkhipov
+- Arthur Schlesinger Jr.
+- Stanislav Petrov
+- Boris Yeltsin
 products_models:
-  - B-52 bomber
-  - hydrogen bombs
-  - Titan II intercontinental ballistic missile
-  - Trident ICBM
-  - Douglas A-4 jet
-  - AL13
-media_books: []
+- B-52 bomber
+- hydrogen bombs
+- Titan II intercontinental ballistic missile
+- Trident ICBM
+- Douglas A-4 jet
+- AL13
+project:
+- us-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ILgSesWMUEI
+speaker: veritasium
 status: evergreen
+summary: 本视频详细讲述了人类在冷战及之后因核武器事故、核弹丢失和虚假警报而多次险些遭遇核灾难的惊险时刻。它强调了帕洛马雷斯B-52轰炸机坠毁、泰坦二号导弹爆炸等事件，以及瓦西里·阿尔希波夫和斯坦尼斯拉夫·彼得罗夫等关键人物的理性决策，指出核武器的最大威胁并非蓄意使用，而是意外事故，并呼吁核裁军以确保人类未来安全。
+tags:
+- cold-war
+- human
+- nuclear
+title: 人类如何多次险些因核武器意外自我毁灭
+companies:
+- false-alarm
 ---
+
 ### 核武器：人类的多次“擦肩而过”
 
 自**核武器**（Nuclear Weapons: 利用核裂变或核聚变反应释放巨大能量的武器）问世以来，人类曾多次险些因意外而自我毁灭。本视频将讲述其中一些惊心动魄的时刻。

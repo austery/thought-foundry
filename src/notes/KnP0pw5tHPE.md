@@ -1,32 +1,31 @@
 ---
-title: 我为何不再出书：亲历中国出版审查的“文学之冬”
-summary: 一位作家亲述因出版审查收紧，涉及西方内容的著作无法面世的经历，揭示了国内创作者在“文学之冬”下面临的困境。
 area: personal-growth
 category: culture
-project:
-- china-analysis
-- historical-insights
-tags:
-- art-history
-- china-censorship
-- creative-freedom
-- publishing-industry
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-06-07'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+products_models: []
+project:
+- china-analysis
+- historical-insights
 series: ''
 source: https://www.youtube.com/watch?v=KnP0pw5tHPE
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 一位作家亲述因出版审查收紧，涉及西方内容的著作无法面世的经历，揭示了国内创作者在“文学之冬”下面临的困境。
+tags:
+- china
+- freedom
+- history
+- industry
+title: 我为何不再出书：亲历中国出版审查的“文学之冬”
 ---
+
 ### 出书之难：从满怀期待到遥遥无期
 
 今天，我们不聊读书，来谈谈出书这件事。近几年来，不断有朋友问我什么时候能再出本书，其实并非我不想，我已经有两本签了出版合同并完成交稿的书，都与西方艺术史相关。但在当前的环境下，我估计它们二十年内都无法出版。

@@ -1,67 +1,67 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 人民银行
+- 工商银行
+- 建设银行
+- 中石油
+- 中石化
+- 中国电信
+- 欧盟
+- 北约
+- 华约
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《三国演义》
+- 《统一与分裂》
+- 《自由的展览》
+people:
+- 贾葭
+- 易富贤
+- 孙中山
+- 陈炯明
+- 曾国藩
+- 秦始皇
+- 诸葛亮
+- 李白
+- 马云
+- 马化腾
+- 李登辉
+- 刘仲敬
+- 弗里德里西
+- 福山
+- 李克强
+- 李强
+- 达赖喇嘛
+- 史念海
+- 武律
+- 后臣
+products_models:
+- 淘宝
+- ATMG
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Prqvre1GkXs
 speaker: 三個水槍手
-tags:
-  - china-fragmentation
-  - unification-debate
-  - regional-autonomy
-  - economic-interdependence
-  - administrative-control
-title: 中国分裂的可能性与统一的代价：一场激辩
-summary: 本期节目深入探讨了中国未来分裂的可能性与统一的代价。嘉宾们围绕普通民众对大一统的观念、历史上的分合规律、以及现代社会经济和行政联系对地方独立的影响展开激辩。讨论涵盖了富裕省份独立动机、贸易论的内外适用性、以及中央集权崩溃后地方自治的挑战，并对中国各区域在假设分裂情境下的生存能力进行了多维度分析。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 贾葭
-  - 易富贤
-  - 孙中山
-  - 陈炯明
-  - 曾国藩
-  - 秦始皇
-  - 诸葛亮
-  - 李白
-  - 马云
-  - 马化腾
-  - 李登辉
-  - 刘仲敬
-  - 弗里德里西
-  - 福山
-  - 李克强
-  - 李强
-  - 达赖喇嘛
-  - 史念海
-  - 武律
-  - 后臣
-companies_orgs:
-  - 人民银行
-  - 工商银行
-  - 建设银行
-  - 中石油
-  - 中石化
-  - 中国电信
-  - 欧盟
-  - 北约
-  - 华约
-products_models:
-  - 淘宝
-  - ATMG
-media_books:
-  - 《三国演义》
-  - 《统一与分裂》
-  - 《自由的展览》
 status: evergreen
+summary: 本期节目深入探讨了中国未来分裂的可能性与统一的代价。嘉宾们围绕普通民众对大一统的观念、历史上的分合规律、以及现代社会经济和行政联系对地方独立的影响展开激辩。讨论涵盖了富裕省份独立动机、贸易论的内外适用性、以及中央集权崩溃后地方自治的挑战，并对中国各区域在假设分裂情境下的生存能力进行了多维度分析。
+tags:
+- china
+- control
+- economic
+- regional-autonomy
+- unification-debate
+title: 中国分裂的可能性与统一的代价：一场激辩
 ---
+
 ### 中国分裂的可能性与历史周期
 
 武律: 香港不行。

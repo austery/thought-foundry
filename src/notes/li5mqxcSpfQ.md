@@ -1,47 +1,46 @@
 ---
-author: 东京人文论坛
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国际货币基金组织 (IMF)
+- 联合国 (UN)
+- 北约 (NATO)
 date: '2025-06-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国家构建：21世纪的国家治理与世界秩序》
+- 《君主论》
+- 《论李维罗马史》
+people:
+- 马基雅维里
+- 圭恰迪尼
+- Francis Fukuyama
+- 萨佛纳罗拉
+- 查维斯
+- 美第奇家族
+- 伯利克里
+- 亚里士多德
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=li5mqxcSpfQ
 speaker: 东京人文论坛
-tags:
-  - political-transition
-  - state-governance
-  - republicanism
-  - political-realism
-  - institutional-design
-title: 超越制度想象：马基雅维里对中国未来转型的现实主义启示
-summary: 本文探讨了中国未来政治转型问题，指出单纯的“制度中心”想象（如直接引入民主选举）是不够的。文章借鉴马基雅维里和圭恰迪尼在佛罗伦萨共和国的政治实践，强调了“国家治理能力”和“习俗”的重要性。讲者认为，政治转型并非走向一个理想终点，而是驾驭持续变化与冲突的“移风易俗”过程，这为理解中国未来提供了超越简单制度植入的现实主义视角。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 马基雅维里
-  - 圭恰迪尼
-  - Francis Fukuyama
-  - 萨佛纳罗拉
-  - 查维斯
-  - 美第奇家族
-  - 伯利克里
-  - 亚里士多德
-companies_orgs:
-  - 国际货币基金组织 (IMF)
-  - 联合国 (UN)
-  - 北约 (NATO)
-products_models: []
-media_books:
-  - 《国家构建：21世纪的国家治理与世界秩序》
-  - 《君主论》
-  - 《论李维罗马史》
 status: evergreen
+summary: 本文探讨了中国未来政治转型问题，指出单纯的“制度中心”想象（如直接引入民主选举）是不够的。文章借鉴马基雅维里和圭恰迪尼在佛罗伦萨共和国的政治实践，强调了“国家治理能力”和“习俗”的重要性。讲者认为，政治转型并非走向一个理想终点，而是驾驭持续变化与冲突的“移风易俗”过程，这为理解中国未来提供了超越简单制度植入的现实主义视角。
+tags:
+- design
+- history
+- political
+- state
+title: 超越制度想象：马基雅维里对中国未来转型的现实主义启示
 ---
+
 ## 引言：从制度想象到现实困境
 
 非常感谢大家，因为这个第二期还能来这么些人，我也挺意外的。因为这种系列的讲座，肯定总是人数越来越少的，尤其是这个内容还很硬。

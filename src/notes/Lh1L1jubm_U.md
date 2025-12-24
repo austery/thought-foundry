@@ -1,30 +1,29 @@
 ---
-title: 混血英雄的信仰与罪恶：解读拜占庭史诗《狄吉尼斯·阿克里特》
-summary: 深入解读拜占庭史诗《狄吉尼斯·阿克里特》，分析其在基督教与伊斯兰教冲突背景下，如何用中世纪价值观扭曲古希腊英雄传说，展现主角充满矛盾的信仰与罪恶。
 area: null
 category: null
-project: []
-tags:
-- byzantine-empire
-- christianity-vs-islam
-- digenes-akritas
-- medieval-literature
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-02'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- stella-an
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Lh1L1jubm_U
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 深入解读拜占庭史诗《狄吉尼斯·阿克里特》，分析其在基督教与伊斯兰教冲突背景下，如何用中世纪价值观扭曲古希腊英雄传说，展现主角充满矛盾的信仰与罪恶。
+tags:
+- christianity-vs-islam
+- health
+- history
+- technology
+title: 混血英雄的信仰与罪恶：解读拜占庭史诗《狄吉尼斯·阿克里特》
 ---
+
 ### 重返中世纪：拜占庭史诗《狄吉尼斯·阿克里特》
 
 大家好，我是安争鸣，欢迎回到读书时间。我猜想，现在观看节目的朋友，绝大多数是在我被国内平台封杀后才开始关注我的。但在此之前，我频道的第一波流量其实是由中世纪文学带动的。我至今还记得，频道里第一支播放量过千的影片，就是关于但丁的《神曲》地狱篇。掐指一算，我已有近两年没讲过中世纪文学了。因此，今天我打算重拾旧业，为大家介绍一部拜占庭史诗——《狄吉尼斯·阿克里特：混血的边境之王》。

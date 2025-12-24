@@ -1,37 +1,27 @@
 ---
-author: Big Think
+area: knowledge-meta
+category: psychology
+companies_orgs: []
 date: '2025-12-22'
+draft: true
 guest: ''
 layout: post.njk
+people:
+- Anne-Laure Le Cunff
+products_models: []
+project:
+- pkm-research
 source: https://www.youtube.com/watch?v=7WSSMee5pH8
 speaker: Big Think
-title: "摆脱大脑的“预设脚本”：如何拿回人生的主导权？"
-summary: "本文探讨了认知心理学中的“认知脚本”概念，揭示了“续集脚本”、“取悦脚本”和“史诗脚本”如何潜移默化地限制我们的职业、情感与成功观。通过识别这些自动化思维，并将内心独白中的“我应该”替换为“我可以”，我们可以打破心理局限，转向以好奇心为导向的实验性生活。"
-
-area: "knowledge-meta"
-
-category: "psychology"
-
-project:
-  - "pkm-research"
-
-tags:
-  - "cognitive-behavioral-therapy"
-  - "decision-making"
-  - "mental-models"
-  - "self-discovery"
-draft: true
-
-
-people:
-  - Anne-Laure Le Cunff
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了认知心理学中的“认知脚本”概念，揭示了“续集脚本”、“取悦脚本”和“史诗脚本”如何潜移默化地限制我们的职业、情感与成功观。通过识别这些自动化思维，并将内心独白中的“我应该”替换为“我可以”，我们可以打破心理局限，转向以好奇心为导向的实验性生活。
+tags:
+- cognitive
+- decision-making
+- mental-model
+- self-discovery
+title: 摆脱大脑的“预设脚本”：如何拿回人生的主导权？
 ---
-
-
 
 ### 什么是认知脚本？
 

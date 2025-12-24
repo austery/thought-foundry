@@ -1,47 +1,46 @@
 ---
-author: Veritasium
-date: '2022-04-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=oI_X2cMHNe0
-speaker: Veritasium
-tags:
-  - veritasium
-  - electricity
-  - electric-fields
-  - circuit-theory
-  - maxwells-equations
-  - energy-transfer
-title: 电力如何真正运作：Veritasium澄清电路能量传输误解
-summary: 视频主持人Veritasium针对其此前关于超长电路中灯泡点亮速度的视频所引发的争议进行澄清。他通过实验和物理学原理，纠正了关于电流和能量传输的三大常见误解：电子并非从电池携带能量到灯泡，电子之间也并非相互推动，且电场并非完全来自电池。文章深入探讨了电场、表面电荷、坡印亭矢量以及传输线模型在电路中的真实作用，揭示了能量实际上通过电磁场在导线外部传输，并以接近光速的速度传播。此外，视频还展示了实验结果，证明即使在信号尚未完整环绕电路时，灯泡也能接收到足以发光的能量，强调了理解电磁场作为电路主要作用者的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Derek Muller
-  - Richard Abbott
-  - Ben Watson
-  - Chabay
-  - Sherwood
-  - Rick Hartley
-  - Alpha Phoenix
-  - ZY
+category: technology
 companies_orgs:
-  - Caltech
-  - LIGO
-  - Ansys
-products_models:
-  - HFSS
-  - VPython
-  - Brilliant
+- Caltech
+- LIGO
+- Ansys
+date: '2022-04-29'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Matter and Interactions
+- Matter and Interactions
+people:
+- Derek Muller
+- Richard Abbott
+- Ben Watson
+- Chabay
+- Sherwood
+- Rick Hartley
+- Alpha Phoenix
+- ZY
+products_models:
+- HFSS
+- VPython
+- Brilliant
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=oI_X2cMHNe0
+speaker: veritasium
 status: evergreen
+summary: 视频主持人Veritasium针对其此前关于超长电路中灯泡点亮速度的视频所引发的争议进行澄清。他通过实验和物理学原理，纠正了关于电流和能量传输的三大常见误解：电子并非从电池携带能量到灯泡，电子之间也并非相互推动，且电场并非完全来自电池。文章深入探讨了电场、表面电荷、坡印亭矢量以及传输线模型在电路中的真实作用，揭示了能量实际上通过电磁场在导线外部传输，并以接近光速的速度传播。此外，视频还展示了实验结果，证明即使在信号尚未完整环绕电路时，灯泡也能接收到足以发光的能量，强调了理解电磁场作为电路主要作用者的重要性。
+tags:
+- electric-field
+- energy
+- science
+- society
+- theory
+title: 电力如何真正运作：Veritasium澄清电路能量传输误解
 ---
+
 ### 澄清电路争议：光速点亮灯泡的真相
 
 我曾制作了一个关于一个巨大电路的视频，其中包含**光秒**（Light-second: 光传播一秒的距离）长的导线，连接到一个距离电池和开关仅一米远的灯泡。

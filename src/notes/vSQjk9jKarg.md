@@ -1,42 +1,40 @@
 ---
-author: Veritasium
-date: '2023-11-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vSQjk9jKarg
-speaker: Veritasium
-tags:
-  - veritasium
-  - happiness-research
-  - longitudinal-study
-  - social-connections
-  - loneliness-effects
-  - wellbeing
-title: 美好生活的秘密：哈佛幸福研究85年的启示
-summary: 一项长达85年的哈佛成人发展研究揭示了幸福生活的真正秘诀。该研究追踪了数千人的一生，发现金钱和成就并非幸福的终极保障。相反，高质量的人际关系，而非社交数量，才是预测健康、长寿和认知能力的关键因素。文章探讨了孤独的危害、关系的压力调节作用，并鼓励人们像锻炼身体一样，积极投入和培养人际连接，以实现更充实、更幸福的人生。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Robert Waldinger
-  - Julianne Holt-Lunstad
-  - Daniel Kahneman
-  - Angus Deaton
-  - Matthew Killingsworth
-  - Barbara Mellers
+category: psychology
 companies_orgs:
-  - Harvard
-  - University of Utah
-  - BetterHelp
+- Harvard
+- University of Utah
+- BetterHelp
+date: '2023-11-15'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Robert Waldinger
+- Julianne Holt-Lunstad
+- Daniel Kahneman
+- Angus Deaton
+- Matthew Killingsworth
+- Barbara Mellers
 products_models: []
-media_books: []
+project:
+- personal-growth-lab
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=vSQjk9jKarg
+speaker: veritasium
 status: evergreen
+summary: 一项长达85年的哈佛成人发展研究揭示了幸福生活的真正秘诀。该研究追踪了数千人的一生，发现金钱和成就并非幸福的终极保障。相反，高质量的人际关系，而非社交数量，才是预测健康、长寿和认知能力的关键因素。文章探讨了孤独的危害、关系的压力调节作用，并鼓励人们像锻炼身体一样，积极投入和培养人际连接，以实现更充实、更幸福的人生。
+tags:
+- effect
+- investment
+- psychology
+- research
+- social
+title: 美好生活的秘密：哈佛幸福研究85年的启示
 ---
+
 ### 什么是美好生活？金钱与幸福的初探
 
 视频探讨了一个最重要的问题：什么能带来幸福的生活？现实地说，是金钱。变得富有绝对是其中一个重要方面。存很多钱，赚钱，富裕非常重要。人们很容易说他们不在乎金钱，金钱买不到幸福，但这并非事实。因为我宁愿在游艇上哭泣，也不愿在斯巴鲁车里哭泣。（两人笑）

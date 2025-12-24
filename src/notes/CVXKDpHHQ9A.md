@@ -1,51 +1,51 @@
 ---
-author: 張内咸
+area: society-systems
+category: geopolitics
+companies_orgs:
+- YouTube
+- Google
+- 国民党
+- 共产党
+- 日本关东军
+- 网信办
 date: '2025-09-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Saturday Night Live
+people:
+- 张内咸
+- Donald Trump
+- Larry David
+- 张作霖
+- 张学良
+- 蒋介石
+- 吴京
+products_models:
+- Content ID
+- 高德地图
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=CVXKDpHHQ9A
 speaker: 張内咸
-tags:
-  - youtube-content-creation
-  - censorship-in-china
-  - political-satire
-  - copyright-issues
-  - historical-memory
-  - mandela-effect
-  - chinese-humor
-title: 张内咸脱口秀：从节目延误到“请喝茶”的幽默与反思
-summary: 本期节目中，张内咸幽默地探讨了YouTube节目制作的幕后挑战，包括上传延误、版权问题和平台审查。他以讽刺的口吻回应了观众关于“被请喝茶”的担忧，并借此批判了中国社会宣传与幽默感的缺失。同时，他还纠正了一个关于张作霖逝世日期的历史性错误，深入剖析了“曼德拉效应”在中国语境下的体现，并对比了中美社会关怀体系的差异。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 张内咸
-  - Donald Trump
-  - Larry David
-  - 张作霖
-  - 张学良
-  - 蒋介石
-  - 吴京
-companies_orgs:
-  - YouTube
-  - Google
-  - 国民党
-  - 共产党
-  - 日本关东军
-  - 网信办
-products_models:
-  - Content ID
-  - 高德地图
-media_books:
-  - Saturday Night Live
 status: evergreen
+summary: 本期节目中，张内咸幽默地探讨了YouTube节目制作的幕后挑战，包括上传延误、版权问题和平台审查。他以讽刺的口吻回应了观众关于“被请喝茶”的担忧，并借此批判了中国社会宣传与幽默感的缺失。同时，他还纠正了一个关于张作霖逝世日期的历史性错误，深入剖析了“曼德拉效应”在中国语境下的体现，并对比了中美社会关怀体系的差异。
+tags:
+- china
+- chinese
+- effect
+- historical-memory
+- political
+- society
+- youtube-content-creation
+title: 张内咸脱口秀：从节目延误到“请喝茶”的幽默与反思
 ---
+
 ### 节目延误的幕后与观众的“担忧”
 
 大家好，我是张内咸。非常抱歉，上周节目上线时间稍微晚了一点，按照北京时间大概是凌晨12点半才上线，算是一次小失误。我的节目是每周六晚上发布，但具体时间定不了那么准。首先，这档节目的制作难度太大，非常费时间，耗时耗力。再加上YouTube后台有很多复杂的问题，对我这种商业频道的要求又很高。如果你只是随便开个号做着玩，那些问题肯定遇不到；但如果你是它的business partner，后台就会经常给你找麻烦，导致我们的效率进一步降低，更难控制时间。

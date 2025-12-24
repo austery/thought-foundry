@@ -1,48 +1,49 @@
 ---
-author: 夸克说
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CGTN
+- 华为
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《十美纪律》
+- 小红书
+- 推特
+- 抖音
+people:
+- 司马南
+- 陈平
+- 大头鹰
+- 意大利筹妈
+- 行走的大羊腿
+- 曲婉婷
+- 朱南山
+- Xi Jinping
+- 陈兰斌
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Uh7oMu7PY7A
 speaker: 夸克说
-tags:
-  - offshore-patriotism
-  - information-warfare
-  - psychological-defense
-  - stockholm-syndrome
-  - nationalism
-title: 离岸爱国现象深度解析：为何有人越出国越爱国？
-summary: 本文深度探讨了海外华人中普遍存在的“离岸爱国”现象，将其定义为身在海外却强烈认同中国现行政治制度并支持中共长期执政。文章剖析了信息战（包括内容封禁、算法推荐及国家力量支持的网络水军）在此现象中的作用，并细致分析了留学生、经济导向型移民、既得利益群体及华人二代等不同群体的心理机制。其中，心理防御机制和斯德哥尔摩综合症被认为是关键因素。通过历史案例对比，文章指出这种“爱国”往往源于对祖国缺乏真实了解和封闭的心态，而非基于开放思考的理性选择。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 司马南
-  - 陈平
-  - 大头鹰
-  - 意大利筹妈
-  - 行走的大羊腿
-  - 曲婉婷
-  - 朱南山
-  - 习近平
-  - 陈兰斌
-companies_orgs:
-  - CGTN
-  - 华为
-products_models: []
-media_books:
-  - 《十美纪律》
-  - 小红书
-  - 推特
-  - 抖音
 status: evergreen
+summary: 本文深度探讨了海外华人中普遍存在的“离岸爱国”现象，将其定义为身在海外却强烈认同中国现行政治制度并支持中共长期执政。文章剖析了信息战（包括内容封禁、算法推荐及国家力量支持的网络水军）在此现象中的作用，并细致分析了留学生、经济导向型移民、既得利益群体及华人二代等不同群体的心理机制。其中，心理防御机制和斯德哥尔摩综合症被认为是关键因素。通过历史案例对比，文章指出这种“爱国”往往源于对祖国缺乏真实了解和封闭的心态，而非基于开放思考的理性选择。
+tags:
+- information
+- investment
+- nationalism
+- offshore-patriotism
+title: 离岸爱国现象深度解析：为何有人越出国越爱国？
+companies:
+- psychological-defense
 ---
+
 ### 引言：定义“离岸爱国”现象
 
 大家好，欢迎收看夸克说。本期节目将探讨一个老生常谈的话题：为什么会有人一出国就爱国？之所以选择这个话题，是因为近期一位国内男生发邮件给我，表示对国内现状不满，想出国留学，但又担心自己会像网上很多海外华人一样，一出国就“爱国”。他担心自己对国外有“滤镜”，出来后也会变得如此。正好，这些年我对这个话题也有一些切身体会，并且墙内墙外谈论此话题的，基本上清一色都是“粉红号”，讲得也不是特别清楚，于是便有了这期节目。

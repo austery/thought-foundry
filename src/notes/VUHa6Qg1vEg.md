@@ -1,48 +1,48 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2024-10-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《你的名字》
+- 《天气之子》
+- 《铃芽之旅》
+people:
+- 三叶
+- 泷
+- 大野晃
+- 柳田国男
+- Hugh Everett
+- Schrödinger
+- Roger Penrose
+- Sigmund Freud
+- Tim Ingold
+- Mircea Eliade
+- 西谷修
+- Jean-Luc Nancy
+- 九鬼周造
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=VUHa6Qg1vEg
 speaker: 超級歪 SuperY
-tags:
-  - modernity-critique
-  - disaster-ethics
-  - quantum-mechanics
-  - shintoism
-  - fated-accident
-title: 新海诚《你的名字》深度解析：量子力学、神道教与灾难伦理的交织
-summary: 本文深入探讨了新海诚电影《你的名字》中的多重主题，包括城乡对立下的现代性批判、量子力学多世界诠释与日本神道教的融合，以及灾难伦理的深刻反思。文章结合弗洛伊德的创伤后效性、伊利亚德的神圣时间与永恒回归，并引入九鬼周造的“偶然的必然”哲学，揭示了影片中看似偶然的相遇背后所蕴含的深层命运与人类面对灾难时的伦理困境。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - 三叶
-  - 泷
-  - 大野晃
-  - 柳田国男
-  - Hugh Everett
-  - Schrödinger
-  - Roger Penrose
-  - Sigmund Freud
-  - Tim Ingold
-  - Mircea Eliade
-  - 西谷修
-  - Jean-Luc Nancy
-  - 九鬼周造
-companies_orgs: []
-products_models: []
-media_books:
-  - 《你的名字》
-  - 《天气之子》
-  - 《铃芽之旅》
 status: evergreen
+summary: 本文深入探讨了新海诚电影《你的名字》中的多重主题，包括城乡对立下的现代性批判、量子力学多世界诠释与日本神道教的融合，以及灾难伦理的深刻反思。文章结合弗洛伊德的创伤后效性、伊利亚德的神圣时间与永恒回归，并引入九鬼周造的“偶然的必然”哲学，揭示了影片中看似偶然的相遇背后所蕴含的深层命运与人类面对灾难时的伦理困境。
+tags:
+- critique
+- ethics
+- health
+- quantum-mechanic
+- shintoism
+title: 新海诚《你的名字》深度解析：量子力学、神道教与灾难伦理的交织
 ---
+
 ### 《你的名字》：现代性批判与城乡对立
 
 时隔八年，《你的名字》再次在台湾大银幕上映。今天，超级歪将深入解析这部电影。

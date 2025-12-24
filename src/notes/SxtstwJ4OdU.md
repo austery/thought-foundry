@@ -1,57 +1,55 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 美团
+- 东鹏饮料
+- 爱美客
+- 珀莱雅
+- 巨子生物
+- 锦波生物
+- 泡泡玛特
+- 贵州茅台
+- 五粮液
+- 洋河股份
+- 酒鬼酒
+- 绝味食品
+- 腾讯控股
+- 福寿园
+- 毛戈平
+- 完美生物
+- 上海家化
+- 贝泰妮
+- 尚美股份
+- 华熙生物
+- Alibaba
+- 京东
 date: '2025-10-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- 玻尿酸
+- 胶原蛋白
+- 重组胶原蛋白
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=SxtstwJ4OdU
 speaker: 海淀拙大叔
-tags:
-  - investment-philosophy
-  - consumer-industry
-  - medical-aesthetics
-  - high-growth-stocks
-  - market-analysis-methods
-title: 财富增长论：大钱靠等——消费行业高增长股的识别与选择
-summary: 本文深入探讨了“赚大钱靠等”的投资哲学，将其与“信仰”相提并论，并批判了过度依赖K线等技术分析的局限性。作者通过对比“厚积薄发型”与“痛苦顿悟型”投资者，阐述了从“术”到“道”的投资领悟过程。随后，文章聚焦消费行业，特别是医美赛道，通过数据分析揭示了锦波生物、爱美客等公司在收入、净利润及现金流方面的高增长特性，强调了重医美相对于轻医美的增长优势，并总结了医美行业成瘾性强、增长性高、竞争门槛的投资逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs:
-  - 美团
-  - 东鹏饮料
-  - 爱美客
-  - 珀莱雅
-  - 巨子生物
-  - 锦波生物
-  - 泡泡玛特
-  - 贵州茅台
-  - 五粮液
-  - 洋河股份
-  - 酒鬼酒
-  - 绝味食品
-  - 腾讯控股
-  - 福寿园
-  - 毛戈平
-  - 完美生物
-  - 上海家化
-  - 贝泰妮
-  - 尚美股份
-  - 华熙生物
-  - 阿里巴巴
-  - 京东
-products_models:
-  - 玻尿酸
-  - 胶原蛋白
-  - 重组胶原蛋白
-media_books: []
 status: evergreen
+summary: 本文深入探讨了“赚大钱靠等”的投资哲学，将其与“信仰”相提并论，并批判了过度依赖K线等技术分析的局限性。作者通过对比“厚积薄发型”与“痛苦顿悟型”投资者，阐述了从“术”到“道”的投资领悟过程。随后，文章聚焦消费行业，特别是医美赛道，通过数据分析揭示了锦波生物、爱美客等公司在收入、净利润及现金流方面的高增长特性，强调了重医美相对于轻医美的增长优势，并总结了医美行业成瘾性强、增长性高、竞争门槛的投资逻辑。
+tags:
+- growth
+- industry
+- investment-philosophy
+- market-analysis-method
+- medical
+title: 财富增长论：大钱靠等——消费行业高增长股的识别与选择
 ---
+
 ### 投资的“道”与“术”：赚大钱靠等
 
 “阿甘财富增长论”的第七篇指出，赚大钱靠的是“等”，这与之前提到的“赚大钱靠的是信仰”实则异曲同工。最好的投资策略是在底部时买入高确定性且能长期高增长的好公司，并长期持有。这并非一句废话，而是投资的根本之道。我们知道，投资分为“数”、“道”、“市”三个等级。最低级的“数”是看**K线**（K-line: 一种股票价格图表，用于显示价格走势）预测走势。

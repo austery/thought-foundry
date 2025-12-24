@@ -1,31 +1,28 @@
 ---
-title: 特斯拉暴跌仍坚定买入：我的熊市投资系统与应对恐慌情绪之道
-summary: 在2022年特斯拉股价狂跌超60%的背景下，一位长期投资者分享了自己持续买入的理由、对埃隆·马斯克看法的转变，以及如何运用个人投资系统应对熊市恐慌情绪的策略。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-  - market-cycles
-tags:
-  - bear-market-strategy
-  - investment-strategy
-  - personal-finance
-  - tesla-investment
-people:
-  - elon-musk
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-12-17'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- elon-musk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=g4-ubFQEhJ8
+speaker: 一口新飯
 status: evergreen
+summary: 在2022年特斯拉股价狂跌超60%的背景下，一位长期投资者分享了自己持续买入的理由、对埃隆·马斯克看法的转变，以及如何运用个人投资系统应对熊市恐慌情绪的策略。
+tags:
+- investment
+- market
+- personal-finance
+title: 特斯拉暴跌仍坚定买入：我的熊市投资系统与应对恐慌情绪之道
 ---
 
 ### 特斯拉投资历程与背景

@@ -1,44 +1,43 @@
 ---
-author: 王红雨
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 欧盟
 date: '2025-07-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 伊塞亚·柏林的传记
+- 《刺猬与狐狸》
+- 《两种自由概念》
+people:
+- 卡尼
+- 特鲁多
+- 奥尔班
+- 弗朗西斯·福山
+- 伊塞亚·柏林
+- 叶里婷
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=cHTVTY0NST4
 speaker: 王红雨
-tags:
-  - tariff-weaponization
-  - us-canada-relations
-  - canadian-liberalism
-  - us-populism
-  - political-polarization
-  - international-order
-title: 关税武器化下的美加关系：加拿大自由主义的挑战与未来
-summary: 本期节目深入探讨了美加关系在关税武器化背景下的复杂性。面对美国奉行的保护主义和孤立主义，加拿大自由党及其自由主义理念面临严峻挑战。节目分析了美国民众愤怒与恐惧的历史根源，以及加拿大在此意识形态冲突中如何寻求经济多元化、加强国防并重塑其自由主义。同时，也批判性反思了加拿大自由主义的“政治正确”倾向，并展望了未来美加关系将基于信任而非共同价值观的新模式。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 卡尼
-  - 特鲁多
-  - 奥尔班
-  - 弗朗西斯·福山
-  - 伊塞亚·柏林
-  - 叶里婷
-companies_orgs:
-  - 欧盟
-products_models: []
-media_books:
-  - 伊塞亚·柏林的传记
-  - 《刺猬与狐狸》
-  - 《两种自由概念》
 status: evergreen
+summary: 本期节目深入探讨了美加关系在关税武器化背景下的复杂性。面对美国奉行的保护主义和孤立主义，加拿大自由党及其自由主义理念面临严峻挑战。节目分析了美国民众愤怒与恐惧的历史根源，以及加拿大在此意识形态冲突中如何寻求经济多元化、加强国防并重塑其自由主义。同时，也批判性反思了加拿大自由主义的“政治正确”倾向，并展望了未来美加关系将基于信任而非共同价值观的新模式。
+tags:
+- canadian
+- international
+- tariff-weaponization
+- us-canada-relations
+- us-populism
+title: 关税武器化下的美加关系：加拿大自由主义的挑战与未来
 ---
+
 ### 引言：关税武器化与美加关系的新挑战
 
 今天是2025年7月12号，我们将探讨加拿大目前面临的美国关税挑战。很多人困惑，在明知美国已选择现任总统后，加拿大为何依然选择了自由党？在大选之前，我曾分析过加拿大保守党的一些看法和保守主义思想。今天，我想跟大家聊一聊加拿大自由党以及自由主义思想到底是什么，这种思想与目前美国对加拿大的关税政策有何关系，以及加拿大未来如何面对这种博弈。

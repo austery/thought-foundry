@@ -1,75 +1,75 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OpenAI
+- Gilbert LLP
+- Canadian Press
+- Torstar
+- The Globe and Mail
+- Postmedia
+- CBC
+- Oracle
+- IBM
+- PayPal
+- Tesla
+- NASA
+- Department of Defense
+- Google
+- Microsoft
+- Palantir
+- Anduril
+- Fair Shake
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Gilded Rage, Elon Musk, and the Radicalization of Silicon Valley
+- The Making of Elon Musk
+- The Stanford Review
+- The Diversity Myth
+- The Washington Post
+people:
+- Sam Altman
+- Kevin Seu
+- Jacob Silverman
+- Elon Musk
+- Peter Thiel
+- Saffra Catz
+- Ginni Rometty
+- David Sacks
+- Doug Leone
+- Marc Andreessen
+- Kamala Harris
+- Donald Trump
+- Max Chaffkin
+- Gavin Newsom
+- Chesa Boudin
+- Gil Duran
+- JD Vance
+products_models:
+- ChatGPT
+- Stargate initiative
+project:
+- ai-impact-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=yvB9jDW2ocI
 speaker: TVO Today
-tags:
-  - ai-copyright
-  - silicon-valley-politics
-  - tech-oligarchs
-  - political-radicalization
-  - charter-cities
-title: AI版权之争与硅谷政治激进化：科技巨头如何重塑未来
-summary: 本文聚焦两大科技议题：首先，加拿大新闻机构起诉OpenAI侵犯版权，质疑其未经许可使用受版权保护内容训练AI模型的合法性，并探讨了“检索增强生成”技术及“合理使用”原则对AI商业模式的深远影响。其次，文章剖析了以埃隆·马斯克和彼得·蒂尔为代表的硅谷科技巨头如何利用其财富和权力，通过政治干预、地方政治行动及“特许城市”等方式，推动其保守主义愿景，挑战现有社会规范，并揭示了他们对身份认同的矛盾态度及对政府合同的强烈渴望，预示着科技与政治结合的新趋势。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Sam Altman
-  - Kevin Seu
-  - Jacob Silverman
-  - Elon Musk
-  - Peter Thiel
-  - Saffra Catz
-  - Ginni Rometty
-  - David Sacks
-  - Doug Leone
-  - Marc Andreessen
-  - Kamala Harris
-  - Donald Trump
-  - Max Chaffkin
-  - Gavin Newsom
-  - Chesa Boudin
-  - Gil Duran
-  - JD Vance
-companies_orgs:
-  - OpenAI
-  - Gilbert LLP
-  - Canadian Press
-  - Torstar
-  - The Globe and Mail
-  - Postmedia
-  - CBC
-  - Oracle
-  - IBM
-  - PayPal
-  - Tesla
-  - NASA
-  - Department of Defense
-  - Google
-  - Microsoft
-  - Palantir
-  - Anduril
-  - Fair Shake
-products_models:
-  - ChatGPT
-  - Stargate initiative
-media_books:
-  - Gilded Rage, Elon Musk, and the Radicalization of Silicon Valley
-  - The Making of Elon Musk
-  - The Stanford Review
-  - The Diversity Myth
-  - The Washington Post
 status: evergreen
+summary: 本文聚焦两大科技议题：首先，加拿大新闻机构起诉OpenAI侵犯版权，质疑其未经许可使用受版权保护内容训练AI模型的合法性，并探讨了“检索增强生成”技术及“合理使用”原则对AI商业模式的深远影响。其次，文章剖析了以埃隆·马斯克和彼得·蒂尔为代表的硅谷科技巨头如何利用其财富和权力，通过政治干预、地方政治行动及“特许城市”等方式，推动其保守主义愿景，挑战现有社会规范，并揭示了他们对身份认同的矛盾态度及对政府合同的强烈渴望，预示着科技与政治结合的新趋势。
+tags:
+- llm
+- political
+- politics
+- society
+- tech
+title: AI版权之争与硅谷政治激进化：科技巨头如何重塑未来
 ---
+
 ### 生成式AI的承诺与版权挑战
 
 **生成式AI**（Generative AI: 能够根据现有数据生成新内容的人工智能）是否能拓展创造力的边界并扩展人类知识？其支持者无疑是这样认为的。OpenAI的首席执行官**山姆·奥尔特曼**（Sam Altman）表示，人类的创造精神极其重要，他们希望构建能够提升这种精神的工具，让更多人创作出更好的艺术、内容和小说，供我们所有人欣赏。

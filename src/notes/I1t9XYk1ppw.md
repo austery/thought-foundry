@@ -1,64 +1,65 @@
 ---
-author: Peter Pang
+area: tech-insights
+category: technology
+companies_orgs:
+- Amazon
+- 人民邮电出版社
+- Meta
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人月神话》
+- 《Just for Fun》
+- '《Code: The Hidden Language of Computer Hardware and Software》'
+- 《图灵的秘密》
+- '《The Annotated Turing: A Guided Tour Through Alan Turing''s Historic Paper on Computability
+  and Turing Machines》'
+- 《UNIX编程艺术》
+- 《软件设计的哲学》
+- '《Hooked: How to Build Habit-Forming Products》'
+- 《平台革命》
+- 《采购与供应链管理》
+- 《编译原理》
+- 《商业模式新生代》
+- 《精益创业》
+- 《设计心理学》
+- 《The Design of Everyday Things》
+- 《算法导论》
+- 《编程珠玑》
+people:
+- Charles Petzold
+- Alan Turing
+- Linus Torvalds
+- Johann Osterhout
+- Frederick Brooks
+- Nir Eyal
+- Liu Baohong
+- Eric Ries
+- Donald Norman
+products_models:
+- UNIX
+- Linux
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=I1t9XYk1ppw
 speaker: Peter Pang
-tags:
-  - software-engineering
-  - computer-science-fundamentals
-  - software-design-principles
-  - product-development
-  - business-models
-title: 资深程序员书单揭秘：从软件工程到商业模式的经典之选
-summary: 本文深入探讨了一位资深程序员推荐的17本经典书单，涵盖了软件工程的圣经《人月神话》、计算机硬件与软件的演进《Code》、图灵计算理论的源头《图灵的秘密》、UNIX操作系统哲学、软件设计理念、产品管理与平台革命、供应链管理，以及精益创业等多个领域。作者分享了每本书的核心价值、阅读体验及对个人职业发展的启发，旨在为技术从业者提供一份全面的学习指南。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Charles Petzold
-  - Alan Turing
-  - Linus Torvalds
-  - Johann Osterhout
-  - Frederick Brooks
-  - Nir Eyal
-  - Liu Baohong
-  - Eric Ries
-  - Donald Norman
-companies_orgs:
-  - Amazon
-  - 人民邮电出版社
-  - Facebook
-products_models:
-  - UNIX
-  - Linux
-media_books:
-  - 《人月神话》
-  - 《Just for Fun》
-  - '《Code: The Hidden Language of Computer Hardware and Software》'
-  - 《图灵的秘密》
-  - '《The Annotated Turing: A Guided Tour Through Alan Turing''s Historic Paper on Computability and Turing Machines》'
-  - 《UNIX编程艺术》
-  - 《软件设计的哲学》
-  - '《Hooked: How to Build Habit-Forming Products》'
-  - 《平台革命》
-  - 《采购与供应链管理》
-  - 《编译原理》
-  - 《商业模式新生代》
-  - 《精益创业》
-  - 《设计心理学》
-  - 《The Design of Everyday Things》
-  - 《算法导论》
-  - 《编程珠玑》
 status: evergreen
+summary: 本文深入探讨了一位资深程序员推荐的17本经典书单，涵盖了软件工程的圣经《人月神话》、计算机硬件与软件的演进《Code》、图灵计算理论的源头《图灵的秘密》、UNIX操作系统哲学、软件设计理念、产品管理与平台革命、供应链管理，以及精益创业等多个领域。作者分享了每本书的核心价值、阅读体验及对个人职业发展的启发，旨在为技术从业者提供一份全面的学习指南。
+tags:
+- business-model
+- design
+- product-development
+- science
+- software-engineering
+title: 资深程序员书单揭秘：从软件工程到商业模式的经典之选
 ---
+
 ### 经典软件工程与计算机科学入门
 
 首先，我将逐一介绍书单中的书籍。这里的排名是随机的，但也有一定的意义。

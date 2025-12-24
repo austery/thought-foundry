@@ -1,35 +1,33 @@
 ---
-title: 从1980年代的日本恐慌看今日的中国焦虑
-summary: 本期节目深入探讨了1980年代美国对日本经济崛起的“恐慌”，将其与当前对中国的“焦虑”进行对比。嘉宾John Gans剖析了这两种情绪在流行文化、政治和经济层面的异同，揭示了泡沫破裂后美国对日本认知的转变，以及对今日全球经济竞争的启示。
 area: market-analysis
 category: geopolitics
+companies_orgs: []
+date: '2025-10-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
 project:
 - china-analysis
 - cultural-critique
 - geopolitics-watch
 - us-analysis
-tags:
-- economic-protectionism
-- geopolitical-anxiety
-- japan-economic-miracle
-- pop-culture-influence
-- us-china-relations
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
-date: '2025-10-11'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=W_THZSm4lqE
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期节目深入探讨了1980年代美国对日本经济崛起的“恐慌”，将其与当前对中国的“焦虑”进行对比。嘉宾John Gans剖析了这两种情绪在流行文化、政治和经济层面的异同，揭示了泡沫破裂后美国对日本认知的转变，以及对今日全球经济竞争的启示。
+tags:
+- culture
+- economic
+- geopolitical
+- us-china-relations
+title: 从1980年代的日本恐慌看今日的中国焦虑
 ---
+
 ### 引言：今日中国焦虑与昔日日本恐慌
 
 Hello and welcome to another episode of the Odd Lots podcast.

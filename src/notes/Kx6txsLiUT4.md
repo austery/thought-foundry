@@ -1,40 +1,39 @@
 ---
-author: TED
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Amazon
+- AWS
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Swami Sivasubramanian
+products_models:
+- DynamoDB
+- SageMaker
+- Bedrock
+- Amazon Q
+- EC2
+- Prime Video
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Kx6txsLiUT4
 speaker: TED
-tags:
-  - ai-agent
-  - automated-reasoning
-  - software-development
-  - trust
-  - developer-experience
-title: AI智能体：重塑软件开发与未来世界的关键里程碑
-summary: AWS副总裁Swami Sivasubramanian探讨了AI智能体如何成为我们时代最具变革性的技术之一。他分享了个人从贫困农村到亚马逊的成长经历，强调了AI智能体在软件开发、药物发现等领域的广泛应用。演讲重点介绍了AI智能体需要实现的三大里程碑：赋能开发者、建立信任（通过自动化推理）、以及让所有人都能构建智能体，最终描绘了一个由AI智能体驱动的、充满无限可能性的未来。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Swami Sivasubramanian
-companies_orgs:
-  - Amazon
-  - AWS
-products_models:
-  - DynamoDB
-  - SageMaker
-  - Bedrock
-  - Amazon Q
-  - EC2
-  - Prime Video
-media_books: []
 status: evergreen
+summary: AWS副总裁Swami Sivasubramanian探讨了AI智能体如何成为我们时代最具变革性的技术之一。他分享了个人从贫困农村到亚马逊的成长经历，强调了AI智能体在软件开发、药物发现等领域的广泛应用。演讲重点介绍了AI智能体需要实现的三大里程碑：赋能开发者、建立信任（通过自动化推理）、以及让所有人都能构建智能体，最终描绘了一个由AI智能体驱动的、充满无限可能性的未来。
+tags:
+- ai-agent
+- developer-experience
+- philosophy
+- software-development
+- trust
+title: AI智能体：重塑软件开发与未来世界的关键里程碑
 ---
+
 ### 科技的启蒙与个人成长
 
 我热爱科技，因为它能帮助我们实现过去无法想象的事情。例如，我成长在印度的一个农村地区，并非城市，也非富裕家庭。事实上，我小时候家里甚至没有电脑。我的初中和高中只有一台电脑供全校师生共享。我每周最多只有10到20分钟的时间使用电脑。这意味着我必须珍惜每一秒，因为我渴望学习编程。在仅有的10分钟里，这并非一个显而易见或轻松的选择。我没有一整天的时间来尝试我的代码。事实上，我必须像一个“**人工编译器**”（Human Compiler: 在实际运行前通过人工检查代码来发现语法错误）一样，提前检测出语法错误。我爱上了这种解决问题的过程，并最终进入了我所在邦的顶尖学府——**金迪工程学院**（College of Engineering, Guindy）学习，成为我们家族中第一代大学生。后来，我在阿姆斯特丹的**阿姆斯特丹自由大学**（Vrije Universiteit in Amsterdam）获得了博士学位。一个有趣的轶事是，在我的大学里，论文答辩时必须有两个人站在你身边，以防答辩时间过长，你需要休息时有人可以替补。在这张照片中，我请我的兄弟担任其中一人。他对我的博士论文几乎一无所知，非常担心我会开玩笑走开，但我没有。

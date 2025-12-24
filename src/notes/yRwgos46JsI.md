@@ -1,34 +1,32 @@
 ---
-title: 本周宏观数据展望、个股CRCL分析与市场风险思考
-summary: 本期视频展望了本周CPI和PPI数据，分析了美股个股CRCL的买入策略，探讨了市场参与度指标，并深入解析了美元指数与美债的背离现象，以及美国政府与家庭债务结构的潜在风险。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- investment-strategy
-- macro-data
-- market-risk
-- stock-analysis
-- us-debt
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- talk
 date: '2025-06-10'
-author: 投资TALK君
-speaker: 投资TALK君
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- talk
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=yRwgos46JsI
+speaker: 投资TALK君
 status: evergreen
+summary: 本期视频展望了本周CPI和PPI数据，分析了美股个股CRCL的买入策略，探讨了市场参与度指标，并深入解析了美元指数与美债的背离现象，以及美国政府与家庭债务结构的潜在风险。
+tags:
+- debt
+- financial
+- market-risk
+- stock-analysis
+title: 本周宏观数据展望、个股CRCL分析与市场风险思考
 ---
+
 ### 引言
 
 大家好，我是市场分析员小涛。本期视频将首先展望本周即将公布的宏观数据，接着探讨个股CRCL的买入策略。CRCL是我之前看好但尚未买入的股票，我将分享后续的策略。之后，我们将分析当前的市场参与度，并讨论如何根据其位置进行调整。最后，我将分享最近对美元指数与美债之间背离现象的思考，探讨其是否应引起我们的警示。

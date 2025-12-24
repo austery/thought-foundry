@@ -1,78 +1,78 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 笑果文化
 date: '2025-04-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《哪吒2》
+- 《热辣滚烫》
+- 《向阳花》
+- 《不说话的爱》
+- 《猎狐行动》
+- 《阳光照耀青春里》
+- 《我的世界大电影》
+- 《草莓百分百》
+- 《阿Q正传》
+- 《我爱我家》
+- 《今晚80后脱口秀》
+- 《吐槽大会》
+- 《脱口秀大会》
+- 《这就是中国》
+- Star TV
+- Channel V
+- 东森卫视
+- WWF
+- WWE
+- 《周六夜现场》
+- 《大卫·莱特曼深夜秀》
+people:
+- Donald Trump
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Jackie Chan
+- Bruce Lee
+- Stone Cold Steve Austin
+- Triple H
+- The Rock
+- Mankind
+- Undertaker
+- Robin Kung
+- Martin Luther King
+- William Shakespeare
+- Chen Peisi
+- Yan Shunkai
+- Lu Xun
+- Ying Da
+- Wang Zijian
+- Li Dan
+- Zhang Weiwei
+products_models:
+- Minecraft
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=fL9r_66wMjk
 speaker: 張内咸
-tags:
-  - us-china-relations
-  - trade-war
-  - chinese-film-industry
-  - stand-up-comedy
-  - cultural-differences
-  - societal-censorship
-  - personal-identity
-title: 张内咸：从地缘政治到中国喜剧，一个格格不入者的清明节随想
-summary: 张内咸在本期节目中，从当前中美贸易战的紧张局势和地缘政治的混乱开场，引申至中国电影市场的困境与“经济内循环”的缩影。他分享了自己独特的成长背景——一个基督教家庭，从小接触西方文化，这让他与主流中国社会格格不入。通过对比中西方葬礼习俗的差异，以及亲身经历的趣事，他深入探讨了中国喜剧的发展历程、其面临的审查与禁忌，以及社会普遍缺乏幽默感的现状，最终为中国喜剧的未来点燃了一炷香。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Donald Trump
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - Jackie Chan
-  - Bruce Lee
-  - Stone Cold Steve Austin
-  - Triple H
-  - The Rock
-  - Mankind
-  - Undertaker
-  - Robin Kung
-  - Martin Luther King
-  - William Shakespeare
-  - Chen Peisi
-  - Yan Shunkai
-  - Lu Xun
-  - Ying Da
-  - Wang Zijian
-  - Li Dan
-  - Zhang Weiwei
-companies_orgs:
-  - 笑果文化
-products_models:
-  - Minecraft
-media_books:
-  - 《哪吒2》
-  - 《热辣滚烫》
-  - 《向阳花》
-  - 《不说话的爱》
-  - 《猎狐行动》
-  - 《阳光照耀青春里》
-  - 《我的世界大电影》
-  - 《草莓百分百》
-  - 《阿Q正传》
-  - 《我爱我家》
-  - 《今晚80后脱口秀》
-  - 《吐槽大会》
-  - 《脱口秀大会》
-  - 《这就是中国》
-  - Star TV
-  - Channel V
-  - 东森卫视
-  - WWF
-  - WWE
-  - 《周六夜现场》
-  - 《大卫·莱特曼深夜秀》
 status: evergreen
+summary: 张内咸在本期节目中，从当前中美贸易战的紧张局势和地缘政治的混乱开场，引申至中国电影市场的困境与“经济内循环”的缩影。他分享了自己独特的成长背景——一个基督教家庭，从小接触西方文化，这让他与主流中国社会格格不入。通过对比中西方葬礼习俗的差异，以及亲身经历的趣事，他深入探讨了中国喜剧的发展历程、其面临的审查与禁忌，以及社会普遍缺乏幽默感的现状，最终为中国喜剧的未来点燃了一炷香。
+tags:
+- chinese-film-industry
+- cultural-difference
+- identity
+- societal
+- stand-up-comedy
+- trade-war
+- us-china-relations
+title: 张内咸：从地缘政治到中国喜剧，一个格格不入者的清明节随想
 ---
+
 ### 地缘政治的“幼儿园吵架”与普通人的困境
 
 大家好，我是张内咸，又见面了。最近整个中文世界都鸡飞狗跳的，因为美国前总统特朗普宣布对美国一百多个贸易伙伴国家征收关税，其中对中国商品额外加征34%的关税，这样一来，中国商品出口美国的关税累积达到54%。紧接着，中国公布多项反制措施，对美国也增加了34%的报复性关税。结果白宫一怒之下对中国又加征了50%的关税，美国对华关税直接飙升到了104%。中国政府表示奉陪到底，对美国进口商品加征84%的关税。短短几天之内，中美两个超级大国一惊一乍的，把国际政治舞台变成了幼儿园小朋友吵架，让全世界看得目瞪口呆。

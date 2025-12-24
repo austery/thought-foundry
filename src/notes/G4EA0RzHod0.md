@@ -1,34 +1,34 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-06-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Why Greatness Can''t Be Planned: The Free Exploration of Creativity, Innovation
+  and Creation'
+people:
+- Anthony
+products_models: []
+project:
+- china-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=G4EA0RzHod0
 speaker: Anthony看世界
-tags:
-  - chinese-education
-  - career-planning
-  - mental-capital
-  - institutional-trauma
-  - uncertainty-management
-title: 维稳式教育扼杀中国年轻人：在不确定时代培养“心智资本”
-summary: 本视频深入探讨了中国大学教育和就业规划的现状。面对日益加剧的不确定性，许多学生和家庭倾向于选择“考公考研”等看似稳定的路径，导致大学沦为应试培训机构。然而，这种“伪确定性”策略在中国社会结构下并不可靠。视频强调，真正的出路在于培养批判性思维、情绪调节、同理心等“心智资本”，而非学历或证书。同时，呼吁警惕大学中制度性和人际关系带来的创伤，提倡开放灵活的生涯规划，并根据能否促进心智发展和减少创伤来重新定义“好大学”和“好专业”。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Anthony
-companies_orgs: []
-products_models: []
-media_books:
-  - 'Why Greatness Can''t Be Planned: The Free Exploration of Creativity, Innovation and Creation'
 status: evergreen
+summary: 本视频深入探讨了中国大学教育和就业规划的现状。面对日益加剧的不确定性，许多学生和家庭倾向于选择“考公考研”等看似稳定的路径，导致大学沦为应试培训机构。然而，这种“伪确定性”策略在中国社会结构下并不可靠。视频强调，真正的出路在于培养批判性思维、情绪调节、同理心等“心智资本”，而非学历或证书。同时，呼吁警惕大学中制度性和人际关系带来的创伤，提倡开放灵活的生涯规划，并根据能否促进心智发展和减少创伤来重新定义“好大学”和“好专业”。
+tags:
+- capital
+- career
+- chinese-education
+- institutional
+- management
+title: 维稳式教育扼杀中国年轻人：在不确定时代培养“心智资本”
 ---
 
 ### 引言：中国年轻人的迷茫与焦虑

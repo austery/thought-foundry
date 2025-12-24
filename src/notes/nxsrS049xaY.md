@@ -1,35 +1,34 @@
 ---
-author: TED
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Global Methane Hub
+- Environmental Protection Agency
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mohamed A. Sultan
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=nxsrS049xaY
 speaker: TED
-tags:
-  - methane-emissions
-  - global-warming
-  - climate-vulnerability
-  - circular-economy
-  - regulatory-frameworks
-title: 甲烷：应对气候变化的紧急刹车与非洲的韧性之路
-summary: 甲烷是一种强效温室气体，对全球变暖的贡献巨大。本文探讨了甲烷排放的主要来源，包括垃圾填埋场、化石燃料产业和农业，并强调了其对非洲大陆的严重影响。作者呼吁通过改进废物管理、加速能源转型、推广可持续农业实践以及加强政策监管和国际合作来有效减少甲烷排放，以应对气候变化带来的短期脆弱性，并为人类和地球建设一个更具韧性的未来。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Mohamed A. Sultan
-companies_orgs:
-  - Global Methane Hub
-  - Environmental Protection Agency
-products_models: []
-media_books: []
 status: evergreen
+summary: 甲烷是一种强效温室气体，对全球变暖的贡献巨大。本文探讨了甲烷排放的主要来源，包括垃圾填埋场、化石燃料产业和农业，并强调了其对非洲大陆的严重影响。作者呼吁通过改进废物管理、加速能源转型、推广可持续农业实践以及加强政策监管和国际合作来有效减少甲烷排放，以应对气候变化带来的短期脆弱性，并为人类和地球建设一个更具韧性的未来。
+tags:
+- circular-economy
+- climate
+- environment
+- global
+- regulatory
+title: 甲烷：应对气候变化的紧急刹车与非洲的韧性之路
 ---
+
 ### 垃圾填埋场的甲烷之患
 
 你闻过垃圾填埋场的味道吗？

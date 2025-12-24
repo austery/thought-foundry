@@ -1,40 +1,39 @@
 ---
-author: TED
+area: society-systems
+category: geopolitics
+companies_orgs:
+- OPEC
+- CrossBoundary Energy
+- CrossBoundary Access
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Matt Tilleard
+- Donald Trump
+- Vladimir Putin
+- Xi Jinping
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=2ZIfqLDG_Qs
 speaker: TED
-tags:
-  - energy-transition
-  - critical-minerals
-  - resource-control
-  - technology-abundance
-  - geopolitical-shifts
-title: 能源的未来：从燃料控制到技术共享的范式转变
-summary: 本文探讨了全球能源格局从燃料控制转向技术共享的深刻转变。作者指出，历史上的权力由燃料主导，但随着可再生能源技术的兴起，关键矿物的重要性被重新评估。他强调，与燃料不同，技术具有非生存依赖性、可循环性、可替代性和丰富性，这将颠覆传统的卡特尔模式。未来的大国将是那些专注于创新、建设和分享技术，而非控制资源的国家。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - Matt Tilleard
-  - Donald Trump
-  - Vladimir Putin
-  - Xi Jinping
-companies_orgs:
-  - OPEC
-  - CrossBoundary Energy
-  - CrossBoundary Access
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文探讨了全球能源格局从燃料控制转向技术共享的深刻转变。作者指出，历史上的权力由燃料主导，但随着可再生能源技术的兴起，关键矿物的重要性被重新评估。他强调，与燃料不同，技术具有非生存依赖性、可循环性、可替代性和丰富性，这将颠覆传统的卡特尔模式。未来的大国将是那些专注于创新、建设和分享技术，而非控制资源的国家。
+tags:
+- control
+- critical-mineral
+- energy-transition
+- geopolitical-shift
+- technology
+title: 能源的未来：从燃料控制到技术共享的范式转变
 ---
+
 ### 燃料：塑造历史的基石
 
 我们的现代世界是建立在燃料基础之上的。

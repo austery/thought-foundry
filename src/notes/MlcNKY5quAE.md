@@ -1,67 +1,65 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- FBI
+- DOJ
+- Mossad
+- Wahaha
+- Google
+- APEC
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Journal
+- Her Story
+- YouTube
+- 《让子弹飞》
+people:
+- Jeffrey Epstein
+- Michael Wolf
+- Larry Summers
+- 金克宇
+- 金立群
+- Donald Trump
+- Bannon
+- Mark
+- Thomas Massey
+- Mike Johnson
+- Marjorie Taylor Greene
+- Dan Bongino
+- Barack Obama
+- Cuomo
+- Mbani
+- 宗庆后
+- 宗馥莉
+- 王菊
+- 刘总
+- 老马
+- 索隆
+- 邦迪
+products_models:
+- Jmail
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=MlcNKY5quAE
 speaker: 北美王路飞
-tags:
-  - epstein-scandal
-  - political-accountability
-  - us-elections
-  - political-polarization
-  - media-influence
-title: 爱泼斯坦邮件门：沉浸式体验与美国政治风暴
-summary: 本期节目深入探讨了爱泼斯坦邮件门事件，通过模拟邮件APP展示其影响力。嘉宾们分析了该案如何牵扯出包括Larry Summers、金克宇在内的多位名人，以及对唐纳德·特朗普政治生涯的持续冲击。讨论涵盖了案件背后的权贵掩盖、民众对政府的不信任，以及该事件如何加剧共和党内部的分裂。节目强调了爱泼斯坦案对美国政治生态的深远影响，并呼吁追究真相。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jeffrey Epstein
-  - Michael Wolf
-  - Larry Summers
-  - 金克宇
-  - 金立群
-  - Donald Trump
-  - Bannon
-  - Mark
-  - Thomas Massey
-  - Mike Johnson
-  - Marjorie Taylor Greene
-  - Dan Bongino
-  - Barack Obama
-  - Cuomo
-  - Mbani
-  - 宗庆后
-  - 宗馥莉
-  - 王菊
-  - 北美王路飞
-  - 刘总
-  - 老马
-  - 索隆
-  - 邦迪
-companies_orgs:
-  - FBI
-  - DOJ
-  - Mossad
-  - Wahaha
-  - Google
-  - APEC
-products_models:
-  - Jmail
-media_books:
-  - Wall Street Journal
-  - Her Story
-  - YouTube
-  - 《让子弹飞》
 status: evergreen
+summary: 本期节目深入探讨了爱泼斯坦邮件门事件，通过模拟邮件APP展示其影响力。嘉宾们分析了该案如何牵扯出包括Larry Summers、金克宇在内的多位名人，以及对唐纳德·特朗普政治生涯的持续冲击。讨论涵盖了案件背后的权贵掩盖、民众对政府的不信任，以及该事件如何加剧共和党内部的分裂。节目强调了爱泼斯坦案对美国政治生态的深远影响，并呼吁追究真相。
+tags:
+- epstein-scandal
+- media-influence
+- political
+- us-election
+title: 爱泼斯坦邮件门：沉浸式体验与美国政治风暴
 ---
+
 ### 爱泼斯坦邮件门：沉浸式体验与名人牵扯
 
 北美王路飞: 好的，那我们进入另一个话题。大家现在看到我这个屏幕，你以为是邮箱对吧？这个是**Jmail**（一个模拟爱泼斯坦邮件系统的APP），不是Gmail。我现在这个头像是**爱泼斯坦**（Jeffrey Epstein: 美国金融家，因性贩卖和性侵未成年少女被捕，后在狱中离奇死亡）。大家仔细看，这个头像在这上面没有出现。我把这个屏幕稍微移一下，大家看一下，就在这个右边上角。这就是有人把爱泼斯坦所有邮件做成了一个APP。你可以现在假装你登录，我先登录进爱泼斯坦的机密号，然后再看邮件。你看我这边的这一块，我得把这屏幕稍微弄小一点，要不然的话每次它都没有办法全部体现。OK，这样会少一点，沉浸式体验。对，这有不同的人，**Michael Wolf**就是作家，**Larry Summers**。王菊昨天推出一期节目就讲Larry Summers和**金克宇**。我们来看一下Larry Summers的邮件。我们点一下，这太牛了。我一会儿把链接放在这儿，他这延迟做得恰到好处，这做得真牛。等一下，我先把这个东西放在平衡区，然后大家想玩的可以自己进去玩一下。我先找一下这个链接，这个特别好玩，你可以沉浸式地去看爱泼斯坦的邮件。

@@ -1,34 +1,30 @@
 ---
-author: Veritasium
-date: '2023-02-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XeSu9fBJ2sI
-speaker: Veritasium
-tags:
-  - veritasium
-  - sleeping-beauty-problem
-  - probability-theory
-  - philosophical-paradox
-  - simulation-hypothesis
-  - multiverse-theory
-title: 哲学中最具争议的问题：深入探讨睡美人悖论
-summary: 本文深入探讨了哲学和数学领域最具争议的“睡美人悖论”。通过详细阐述“二分之一派”和“三分之一派”的观点，并引入蒙提霍尔问题、模拟假说及多重宇宙等相关思想实验，揭示了该悖论在概率论和认知偏见上的深刻挑战。文章旨在引导读者思考在不确定信息下如何判断概率，以及这些哲学问题如何影响我们对现实的理解。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - systems-thinking
-  - pkm-research
-people: []
+category: general
 companies_orgs: []
+date: '2023-02-11'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 products_models:
-  - Brilliant
-media_books: []
+- Brilliant
+project:
+- systems-thinking
+- pkm-research
+series: ''
+source: https://www.youtube.com/watch?v=XeSu9fBJ2sI
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了哲学和数学领域最具争议的“睡美人悖论”。通过详细阐述“二分之一派”和“三分之一派”的观点，并引入蒙提霍尔问题、模拟假说及多重宇宙等相关思想实验，揭示了该悖论在概率论和认知偏见上的深刻挑战。文章旨在引导读者思考在不确定信息下如何判断概率，以及这些哲学问题如何影响我们对现实的理解。
+tags:
+- philosophy
+- problem
+- simulation-hypothesis
+- theory
+title: 哲学中最具争议的问题：深入探讨睡美人悖论
 ---
+
 ### 睡美人悖论：一个引人深思的概率问题
 
 请先不要点赞，也不要点踩，至少现在还不要。

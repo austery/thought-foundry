@@ -1,113 +1,113 @@
 ---
-author: INDIGO 数字镜像
+area: society-systems
+category: general
+companies_orgs:
+- OpenAI
+- NVIDIA
+- Google
+- Meta
+- Anthropic
+- xAI
+- Databricks
+- Stripe
+- SpaceX
+- CoreWeave
+- Coatue
+- AWS
+- Azure
+- Cisco
+- IBM
+- Microsoft
+- Palantir
+- Cursor
+- Glean
+- Groq
+- Harvey
+- Cognition
+- Oracle
+- Apptronik
+- Figure
+- Boston Dynamics
+- Apple
+- NASA
+- ARK Invest
+- DeepMind
+- Reddit
+- 加拿大皇家地理协会
+- 微博
+- 美One
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《主权个人》
+- 《智能简史》
+- 《2001太空漫游》
+- 《赛博朋克2077》
+- 《The Last Economy》
+people:
+- Sam Altman
+- Elon Musk
+- Jensen Huang
+- Peter Thiel
+- Andrej Karpathy
+- Vitalik Buterin
+- Geoffrey Hinton
+- Demis Hassabis
+- 曹国伟
+products_models:
+- ChatGPT
+- Sora
+- Claude
+- Gemini
+- Grok
+- Imagen
+- Nano Banana
+- FSD
+- TPU
+- H100
+- Vision Pro
+- Horizon
+- Starship
+- Starlink
+- Optimus
+- Genie 3
+- Gen-0
+- Sonnet
+- Codex
+- GPT-4.5
+- GPT-5
+- Grok Fast
+- Grokipedia
+- Nano GPT
+- Veo 3
+- VLA
+- OpenXE
+- π (Physical Intelligent)
+- Siri
+- Pixel
+- Airpod
+- Apple Watch
+project:
+- ai-impact-analysis
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=cDtREXA8kO4
 speaker: INDIGO 数字镜像
-tags:
-  - ai-investment
-  - market-bubble
-  - computational-paradigm-shift
-  - future-of-work
-  - techno-accelerationism
-title: AI浪潮下的投资、范式转变与社会未来：一场良性泡沫的深度剖析
-summary: 这篇文章深入探讨了当前AI技术飞速发展对投资市场、计算范式及社会结构带来的深远影响。讲者从AI泡沫的本质、市场领跑者、技术趋势以及对未来社会（如劳动力市场、地缘政治、人类价值）的重塑等多个维度进行剖析，认为AI正推动一场良性泡沫。文章强调了在这一变革时代中，资本与个人策略的重要性，并展望了AI驱动下数字沉浸、太空计算及社会结构演变的未来图景。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - systems-thinking
-people:
-  - Sam Altman
-  - Elon Musk
-  - Jensen Huang
-  - Peter Thiel
-  - Andrej Karpathy
-  - Vitalik Buterin
-  - Geoffrey Hinton
-  - Demis Hassabis
-  - 曹国伟
-companies_orgs:
-  - OpenAI
-  - NVIDIA
-  - Google
-  - Meta
-  - Anthropic
-  - xAI
-  - Databricks
-  - Stripe
-  - SpaceX
-  - CoreWeave
-  - Coatue
-  - AWS
-  - Azure
-  - Cisco
-  - IBM
-  - Microsoft
-  - Palantir
-  - Cursor
-  - Glean
-  - Groq
-  - Harvey
-  - Cognition
-  - Oracle
-  - Apptronik
-  - Figure
-  - Boston Dynamics
-  - Apple
-  - NASA
-  - ARK Invest
-  - DeepMind
-  - Reddit
-  - 加拿大皇家地理协会
-  - 微博
-  - 美One
-products_models:
-  - ChatGPT
-  - Sora
-  - Claude
-  - Gemini
-  - Grok
-  - Imagen
-  - Nano Banana
-  - FSD
-  - TPU
-  - H100
-  - Vision Pro
-  - Horizon
-  - Starship
-  - Starlink
-  - Optimus
-  - Genie 3
-  - Gen-0
-  - Sonnet
-  - Codex
-  - GPT-4.5
-  - GPT-5
-  - Grok Fast
-  - Grokipedia
-  - Nano GPT
-  - Veo 3
-  - VLA
-  - OpenXE
-  - π (Physical Intelligent)
-  - Siri
-  - Pixel
-  - Airpod
-  - Apple Watch
-media_books:
-  - 《主权个人》
-  - 《智能简史》
-  - 《2001太空漫游》
-  - 《赛博朋克2077》
-  - 《The Last Economy》
 status: evergreen
+summary: 这篇文章深入探讨了当前AI技术飞速发展对投资市场、计算范式及社会结构带来的深远影响。讲者从AI泡沫的本质、市场领跑者、技术趋势以及对未来社会（如劳动力市场、地缘政治、人类价值）的重塑等多个维度进行剖析，认为AI正推动一场良性泡沫。文章强调了在这一变革时代中，资本与个人策略的重要性，并展望了AI驱动下数字沉浸、太空计算及社会结构演变的未来图景。
+tags:
+- ai-investment
+- future-of-work
+- market-bubble
+- shift
+- technology
+title: AI浪潮下的投资、范式转变与社会未来：一场良性泡沫的深度剖析
 ---
+
 ### AI时代的到来：从工具到工人
 
 本次分享的主题是“智变时代 II”，距离我们上一次探讨已有两年半时间。在这两年里，**AI**（Artificial Intelligence: 人工智能）技术突飞猛进，尤其是在2024年下半年，其**推理**（Inference: 指AI模型根据已有数据和训练结果进行预测或生成新内容的能力）能力显著提升，使得我能够将所有工作都押注于AI。

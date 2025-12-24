@@ -1,60 +1,60 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: general
+companies_orgs:
+- 央视
+- 全国妇联
+- 全国人大
+- 新京报
+- 南方周末
+- 北京市人民医院
 date: '2025-06-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《看见》
+people:
+- 柴静
+- 高平海
+- 朱继红
+- 王静
+- 温家宝
+- 张洁
+- 刘畅
+- 王小鹏
+- 沈纪兰
+- 庄启传
+- 邱继宝
+- 老毛
+- 李阳
+- Kim
+- 张北川
+- 大卫
+- 子路
+- 孔子
+- 夏俊
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=_cekUfCopMs
 speaker: 柴静 Chai Jing
-tags:
-  - media-role
-  - social-justice
-  - human-rights
-  - sars-epidemic
-  - domestic-violence
-  - lgbtq-rights
-  - truth-and-power
-title: 真实自有万钧之力：柴静的十年中国观察与媒体反思
-summary: 资深记者柴静回顾其著作《看见》被禁的经历，并以此为引，深入剖析了她在非典疫情、家庭暴力、同性恋群体等重大社会事件中的采访与思考。她强调了人性的力量、真相的价值，以及媒体在社会变革中的角色与责任，呼吁社会关注个体尊严，推动制度完善，以善与爱去探寻世界的美好。即使面对时代的巨变和个人困境，真实的力量也永不消逝，它无形却有万钧之力。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 柴静
-  - 高平海
-  - 朱继红
-  - 王静
-  - 温家宝
-  - 张洁
-  - 刘畅
-  - 王小鹏
-  - 沈纪兰
-  - 庄启传
-  - 邱继宝
-  - 老毛
-  - 李阳
-  - Kim
-  - 张北川
-  - 大卫
-  - 子路
-  - 孔子
-  - 夏俊
-companies_orgs:
-  - 央视
-  - 全国妇联
-  - 全国人大
-  - 新京报
-  - 南方周末
-  - 北京市人民医院
-products_models: []
-media_books:
-  - 《看见》
 status: evergreen
+summary: 资深记者柴静回顾其著作《看见》被禁的经历，并以此为引，深入剖析了她在非典疫情、家庭暴力、同性恋群体等重大社会事件中的采访与思考。她强调了人性的力量、真相的价值，以及媒体在社会变革中的角色与责任，呼吁社会关注个体尊严，推动制度完善，以善与爱去探寻世界的美好。即使面对时代的巨变和个人困境，真实的力量也永不消逝，它无形却有万钧之力。
+tags:
+- domestic-violence
+- human-right
+- media
+- power
+- right
+- social-justice
+- technology
+title: 真实自有万钧之力：柴静的十年中国观察与媒体反思
 ---
+
 ### 引言：真实的力量与被禁的《看见》
 
 在采访了国共内战的幸存者高平海先生后，我的书《看见》在大陆被禁。这件事情并未让我感到意外，因为高先生的节目中已经谈及了政治的逻辑和历史的必然性。一本十二年前出版、已印刷数百万册的书被禁，这个结果也未让我感到愤怒或悲哀。我的第一反应是一种力量感。高先生的节目中谈论的是人心，他反思战争的残酷，思念母亲和故土，正是这样的感情在两岸的许多普通人当中引起了强烈的共鸣。这种感情是无形的，但它有**万钧之力**（万钧之力: 形容力量巨大，势不可挡）。

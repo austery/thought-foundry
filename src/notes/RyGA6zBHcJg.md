@@ -1,48 +1,47 @@
 ---
-author: Peter Pang
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=RyGA6zBHcJg'
-speaker: Peter Pang
-tags:
-  - uml-modeling
-  - software-development-history
-  - agile-methodology
-  - waterfall-model
-  - software-engineering-tools
-title: UML的兴衰：软件开发中的图形化建模语言为何被淘汰？
-summary: 本文深入探讨了统一建模语言（UML）的兴衰历程。UML曾是软件开发中的必修课，旨在通过图形化语言促进技术与管理团队的沟通，并在90年代随RUP流程广泛传播。然而，随着软件复杂性增加和开发工具的整合，UML因其难以扩展、搜索性差等问题逐渐失去实用性。文章分析了UML未能适应敏捷开发趋势和传统行业转型，最终被时代淘汰的原因，并指出其作为总结工具的潜在价值及对数字化转型的贡献。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Fred Brooks
+category: technology
 companies_orgs:
-  - Rational Software
-  - HP
-  - IBM
-  - Microsoft
-  - GitHub
-  - Intel
-products_models:
-  - UML
-  - RUP
-  - Waterfall
-  - Agile
-  - Mermaid
-  - Visual Paradigm
-  - Enterprise Architect
-  - Pentium CPU
+- Rational Software
+- HP
+- IBM
+- Microsoft
+- GitHub
+- Intel
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《人月神话》
+- 《人月神话》
+people:
+- Fred Brooks
+products_models:
+- UML
+- RUP
+- Waterfall
+- Agile
+- Mermaid
+- Visual Paradigm
+- Enterprise Architect
+- Pentium CPU
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=RyGA6zBHcJg
+speaker: Peter Pang
 status: evergreen
+summary: 本文深入探讨了统一建模语言（UML）的兴衰历程。UML曾是软件开发中的必修课，旨在通过图形化语言促进技术与管理团队的沟通，并在90年代随RUP流程广泛传播。然而，随着软件复杂性增加和开发工具的整合，UML因其难以扩展、搜索性差等问题逐渐失去实用性。文章分析了UML未能适应敏捷开发趋势和传统行业转型，最终被时代淘汰的原因，并指出其作为总结工具的潜在价值及对数字化转型的贡献。
+tags:
+- llm
+- model
+- software-development-history
+- software-engineering-tool
+title: UML的兴衰：软件开发中的图形化建模语言为何被淘汰？
 ---
+
 ### UML的兴衰：程序员的“噩梦”与历史的教训
 
 你见过这些图吗？你画过这些图吗？如果你的回答是没有，那么恭喜你，躲过了软件开发历史上最“坑”程序员的一段时间。这种叫做**UML**（Unified Modeling Language: 一种图形化的软件建模语言）的图，曾经是每个程序员的必修课。然而，绘制UML图比编写文档和**单元测试**（Unit Test: 对软件中的最小可测试单元进行检查和验证）还要折磨人。

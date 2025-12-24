@@ -1,60 +1,59 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York Times
+- ICE
+- Supreme Court
+- White House
+- Hamas
+- Pentagon
+- University of Texas
+- Brown University
+- Dartmouth College
+- University of Southern California
+- University of Virginia
+- University of Arizona
+- Amazon
+- Apple
+- Google
+- Microsoft
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Big Bang Theory
+- Pediatrics
+- The Daily
+people:
+- Donald Trump
+- Matathi Schwarz
+- JD Vance
+- Benjamin Netanyahu
+- Shawn Duffy
+- George Smoot
+- Steven Hawking
+- Nicole Hannah-Jones
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=P0OlUX9htF8
 speaker: New York Times Podcasts
-tags:
-  - us-politics
-  - judicial-crisis
-  - emergency-powers
-  - israel-hamas-conflict
-  - government-shutdown
-title: 特朗普政府的紧急权力、司法危机与多重挑战
-summary: 本期新闻聚焦于特朗普政府在多个领域引发的争议：联邦上诉法院批准其在波特兰部署国民警卫队，引发关于总统单方面派兵权的法律纠纷；最高法院频繁使用“影子议程”处理紧急上诉，导致下级法院法官普遍感到困惑和沮丧，甚至警告出现“司法危机”。此外，副总统万斯访问以色列以维系脆弱的和平协议；政府停摆导致空管员面临停薪；多所大学拒绝特朗普政府关于学术自由的提案；白宫东翼改造引发伦理争议。新闻还简要提及花生过敏研究的积极进展以及宇宙学家乔治·斯穆特的逝世。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Matathi Schwarz
-  - JD Vance
-  - Benjamin Netanyahu
-  - Shawn Duffy
-  - George Smoot
-  - Steven Hawking
-  - Nicole Hannah-Jones
-companies_orgs:
-  - New York Times
-  - ICE
-  - Supreme Court
-  - White House
-  - Hamas
-  - Pentagon
-  - University of Texas
-  - Brown University
-  - Dartmouth College
-  - University of Southern California
-  - University of Virginia
-  - University of Arizona
-  - Amazon
-  - Apple
-  - Google
-  - Microsoft
-products_models: []
-media_books:
-  - The Big Bang Theory
-  - Pediatrics
-  - The Daily
 status: evergreen
+summary: 本期新闻聚焦于特朗普政府在多个领域引发的争议：联邦上诉法院批准其在波特兰部署国民警卫队，引发关于总统单方面派兵权的法律纠纷；最高法院频繁使用“影子议程”处理紧急上诉，导致下级法院法官普遍感到困惑和沮丧，甚至警告出现“司法危机”。此外，副总统万斯访问以色列以维系脆弱的和平协议；政府停摆导致空管员面临停薪；多所大学拒绝特朗普政府关于学术自由的提案；白宫东翼改造引发伦理争议。新闻还简要提及花生过敏研究的积极进展以及宇宙学家乔治·斯穆特的逝世。
+tags:
+- conflict
+- crisis
+- government-shutdown
+- power
+title: 特朗普政府的紧急权力、司法危机与多重挑战
 ---
+
 ### 特朗普政府的紧急权力与司法危机
 
 联邦上诉法院已为特朗普政府在俄勒冈州波特兰部署国民警卫队扫清了障碍，尽管该州州长对此表示反对。此前，波特兰当地一个**ICE**（Immigration and Customs Enforcement: 移民和海关执法局）设施外持续数月的抗议活动，促使特朗普总统声称该市需要受到保护，免受“国内恐怖分子”的侵害。本月初，一名下级法院法官曾阻止了国民警卫队的部署，称特朗普对局势的描述“完全脱离事实”。

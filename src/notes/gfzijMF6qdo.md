@@ -1,53 +1,53 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- MasterCard
+- Salesforce
+- Fortinet
+- Visa
+- American Express
+- Google
+- Amazon
+- Microsoft
+- Meta
+- SAP
+- Adobe
+- Palo Alto Networks
+- Kronos
+- Oracle
 date: '2025-03-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+- CNBC
+people:
+- 唐石峻
+- Marc Benioff
+products_models:
+- NetScreen
+- Focus
+project:
+- investment-strategy
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=gfzijMF6qdo
 speaker: Shijun Tang
-tags:
-  - economic-downturn-investing
-  - saaas-business-model
-  - customer-lifetime-value
-  - high-margin-businesses
-  - switching-costs
-title: 经济下行期的投资机会：MasterCard、Salesforce与Fortinet的底层逻辑
-summary: 在经济下行与AI热潮交织的背景下，本文深入分析MasterCard、Salesforce和Fortinet三家公司的基本面与护城河，揭示其为何在市场低迷时仍具长期投资价值，并探讨SaaS模式、客户终身价值（LTV）与高利润率如何构成抗周期投资的核心逻辑。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - 唐石峻
-  - Marc Benioff
-companies_orgs:
-  - MasterCard
-  - Salesforce
-  - Fortinet
-  - Visa
-  - American Express
-  - Google
-  - Amazon
-  - Microsoft
-  - Meta
-  - SAP
-  - Adobe
-  - Palo Alto Networks
-  - Kronos
-  - Oracle
-products_models:
-  - NetScreen
-  - Focus
-media_books:
-  - 《The Daily Beast》
-  - CNBC
 status: evergreen
+summary: 在经济下行与AI热潮交织的背景下，本文深入分析MasterCard、Salesforce和Fortinet三家公司的基本面与护城河，揭示其为何在市场低迷时仍具长期投资价值，并探讨SaaS模式、客户终身价值（LTV）与高利润率如何构成抗周期投资的核心逻辑。
+tags:
+- business
+- economic-downturn-investing
+- saaas-business-model
+- switching-cost
+- value
+title: 经济下行期的投资机会：MasterCard、Salesforce与Fortinet的底层逻辑
 ---
+
 ### 经济下行中的投资迷思：从支付网络到企业云的抗周期逻辑
 
 你之所以点击这支视频，相信一定对当前市场形势感到迷茫——不确定特朗普政府推动的关税政策是否会引发新一轮经济衰退，也不清楚此时该卖出股票静观其变，还是寻找机会加仓。欢迎收看《常识性财富体验》，我是唐石峻。

@@ -1,17 +1,19 @@
 ---
-title: "The Uncertainty Solution"
-date: "2024-10-03"  # 你完成这篇笔记的日期
-layout: "book-note.njk" # 指定使用读书笔记的专属布局
-tags:
-- "Book" 
-- "投资" 
-author: "John M. Jennings"
-publisher: "Greenleaf Book Group"
-year: "2023-05-02" 
-read_date: "2024-05-20" 
-rating: "4/5" 
-description: "这里是一段关于这本书的简短介绍。" 
-cover_image: "http://books.google.com/books/content?id=vPqyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" 
+area: finance-wealth
+author: John M. Jennings
+category: stock-investment
+cover_image: http://books.google.com/books/content?id=vPqyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+date: '2024-10-03'
+description: 这里是一段关于这本书的简短介绍。
+layout: book-note.njk
+publisher: Greenleaf Book Group
+rating: 4/5
+read_date: '2024-05-20'
+tags: []
+title: The Uncertainty Solution
+year: '2023-05-02'
+media_books:
+- Book
 ---
 
 ## *Why I read this book*

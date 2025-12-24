@@ -1,61 +1,61 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: general
+companies_orgs:
+- Bloomberg
+- NYCHA
+- ICE
+- IRS
+- FDNY
+- ATF
+- FBI
+- HSI
+- ACS
+- Robin Hood Foundation
 date: '2025-07-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- All About the Deep State
+people:
+- Joe Weisenthal
+- Tracy Alloway
+- Eric Adams
+- Derek Thompson
+- Randy Mastro
+- Andrew Cuomo
+- Zoran Mdani
+- Cash Patel
+- Donald Trump
+- Joe Biden
+- Kamala Harris
+- Carl McCall
+- Charlie King
+- David Patterson
+- Jeffrey Epstein
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Js1QNQ_96UA
 speaker: Bloomberg Podcasts
-tags:
-  - urban-governance
-  - affordable-housing
-  - public-safety
-  - socialism-debate
-  - immigration-policy
-  - quality-of-life
-title: 纽约市长亚当斯：从夜生活到住房、移民与政治挑战的城市未来展望
-summary: 纽约市长埃里克·亚当斯在播客中深入探讨了纽约市面临的多元挑战与机遇。他阐述了夜生活经济的重要性、其任期内推动的住房改革（包括NYCHA项目和“城市说‘是’”倡议），并回应了对城市高生活成本的质疑，强调通过医疗债务减免、儿童保育补贴等措施减轻工薪阶层负担。亚当斯还澄清了他对社会主义的看法，解释了与联邦政府在移民问题上的合作与分歧，以及如何应对城市治理中的“深层政府”阻力。他强调了在犯罪率下降、鼠患治理取得进展后，将重点转向提升城市整体生活品质的决心。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Joe Weisenthal
-  - Tracy Alloway
-  - Eric Adams
-  - Derek Thompson
-  - Randy Mastro
-  - Andrew Cuomo
-  - Zoran Mdani
-  - Cash Patel
-  - Donald Trump
-  - Joe Biden
-  - Kamala Harris
-  - Carl McCall
-  - Charlie King
-  - David Patterson
-  - Jeffrey Epstein
-companies_orgs:
-  - Bloomberg
-  - NYCHA
-  - ICE
-  - IRS
-  - FDNY
-  - ATF
-  - FBI
-  - HSI
-  - ACS
-  - Robin Hood Foundation
-products_models: []
-media_books:
-  - Odd Lots
-  - All About the Deep State
 status: evergreen
+summary: 纽约市长埃里克·亚当斯在播客中深入探讨了纽约市面临的多元挑战与机遇。他阐述了夜生活经济的重要性、其任期内推动的住房改革（包括NYCHA项目和“城市说‘是’”倡议），并回应了对城市高生活成本的质疑，强调通过医疗债务减免、儿童保育补贴等措施减轻工薪阶层负担。亚当斯还澄清了他对社会主义的看法，解释了与联邦政府在移民问题上的合作与分歧，以及如何应对城市治理中的“深层政府”阻力。他强调了在犯罪率下降、鼠患治理取得进展后，将重点转向提升城市整体生活品质的决心。
+tags:
+- geopolitical
+- immigration-policy
+- life
+- public-safety
+- society
+- urban-governance
+title: 纽约市长亚当斯：从夜生活到住房、移民与政治挑战的城市未来展望
 ---
+
 ### 纽约夜生活：繁荣的经济引擎
 
 [音乐]

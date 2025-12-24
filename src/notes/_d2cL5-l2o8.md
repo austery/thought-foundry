@@ -1,34 +1,33 @@
 ---
-title: 塑造经济思想的伟大先驱们
-summary: 本文深入探讨了从马尔萨斯到新制度经济学等十余种重要经济学流派及其代表人物。文章详细阐述了这些思想家所处的时代背景、核心理论（如马尔萨斯的人口论、边沁的功利主义、马克思的阶级斗争、凯恩斯的有效需求理论等），以及他们的理论如何革新了经济学，并对当今的经济政策和理解产生了深远影响。
 area: market-analysis
 category: finance
-project:
-- historical-insights
-- investment-strategy
-- market-cycles
-tags:
-- economic-history
-- economic-theory
-- market-mechanisms
-- resource-allocation
-- social-welfare
-people:
-- adam-s-axiom
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-05-07'
-author: Adam's Axiom
-speaker: Adam's Axiom
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- adam-s-axiom
+products_models: []
+project:
+- historical-insights
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=_d2cL5-l2o8
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了从马尔萨斯到新制度经济学等十余种重要经济学流派及其代表人物。文章详细阐述了这些思想家所处的时代背景、核心理论（如马尔萨斯的人口论、边沁的功利主义、马克思的阶级斗争、凯恩斯的有效需求理论等），以及他们的理论如何革新了经济学，并对当今的经济政策和理解产生了深远影响。
+tags:
+- economic-history
+- economic-theory
+- market
+- resource-allocation
+- social-welfare
+title: 塑造经济思想的伟大先驱们
 ---
+
 ### 马尔萨斯理论：人口与稀缺性
 
 马尔萨斯在英国社会动荡时期发展了他的理论。作为一名英国国教牧师，他目睹了人口的快速增长以及工业化带来的严酷条件，因此他拒绝了启蒙运动对社会进步的乐观态度。法国大革命的激进主义进一步巩固了他的保守观点。

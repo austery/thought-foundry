@@ -6,16 +6,15 @@ category: general
 project: china-analysis
 tags:
 - chinese-nationalism
-- education-consulting
+- education
 - public-opinion
 people:
-  - zhang-xuefeng
-  - 三個水槍手
-  - 武律
-  - 贾老师
+- zhang-xuefeng
+- 三個水槍手
+- 武律
+- 贾老师
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-25
 author: 三個水槍手
 speaker: ''
@@ -27,6 +26,7 @@ series: null
 source: https://www.youtube.com/watch?v=B-YK7B0UP0g
 status: evergreen
 ---
+
 ### “捐款攻台”言论引发的争议
 
 李厚辰: 最近有一个视频大家应该都看见了，一个叫张雪峰的人，对着一个中青年男性，一边踱步一边拿话筒讲，说打台湾，他立马捐五千万，他们公司捐一亿，现金就趴在那，就等开战的一枪。枪一响，钱就准备好了。二位看到这个视频的第一情绪是什么？

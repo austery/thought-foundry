@@ -1,64 +1,62 @@
 ---
-author: FearNation 世界苦茶
+area: society-thinking
+category: politics-society
+companies_orgs:
+- CSIS
+- DeepSeek
+- OpenAI
+- Google
+- Nvidia
+- Huawei
+- CNA
+- Council on Foreign Relations
+- Pentagon
+- US Indo-Pacific Command
+- Bernstein Research
+- Tencent
+- 长江存储
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《外交事务》
+- 《彭博社》
+- 《伯恩斯坦研究公司报告》
+- 《五角大楼中国军力报告》
+people:
+- Gregory Allen
+- Oriana Skyler-Mastro
+- Donald Trump
+- Sanae Takaichi
+- Jensen Huang
+- Ma Huateng
+- Li Qiang
+products_models:
+- GPT-4
+- H800
+- H200
+- Blackwell
+- Typhoon system
+- Starlink
+- DF-41
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=mXncGN7oSH8
 speaker: FearNation 世界苦茶
-tags:
-  - llm
-  - geopolitics
-  - taiwan-strait
-  - chip-war
-  - arms-control
-title: 中美芯片AI战、台海危机与日本的战略困境：多维视角下的全球博弈
-summary: 本期节目深入分析了中美在AI芯片领域的战略竞争，指出美国通过“最大化摩擦策略”延缓中国技术发展，但也面临算法效率和成熟制程反包围的挑战。同时，节目探讨了未来台海冲突可能演变为区域性全面战争的风险，以及日本在中美强权政治夹缝中的战略困境。最后，文章还剖析了中国军控白皮书背后规则塑造者的角色转变，以及美国对华科技策略从遏制转向交易型妥协的深层影响。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - ai-impact-analysis
-  - china-analysis
-  - us-analysis
-people:
-  - Gregory Allen
-  - Oriana Skyler-Mastro
-  - Donald Trump
-  - Sanae Takaichi
-  - Jensen Huang
-  - Ma Huateng
-  - Li Qiang
-companies_orgs:
-  - CSIS
-  - DeepSeek
-  - OpenAI
-  - Google
-  - Nvidia
-  - Huawei
-  - CNA
-  - Council on Foreign Relations
-  - Pentagon
-  - US Indo-Pacific Command
-  - Bernstein Research
-  - Tencent
-  - 长江存储
-products_models:
-  - GPT-4
-  - H800
-  - H200
-  - Blackwell
-  - Typhoon system
-  - Starlink
-  - DF-41
-media_books:
-  - 《外交事务》
-  - 《彭博社》
-  - 《伯恩斯坦研究公司报告》
-  - 《五角大楼中国军力报告》
 status: evergreen
+summary: 本期节目深入分析了中美在AI芯片领域的战略竞争，指出美国通过“最大化摩擦策略”延缓中国技术发展，但也面临算法效率和成熟制程反包围的挑战。同时，节目探讨了未来台海冲突可能演变为区域性全面战争的风险，以及日本在中美强权政治夹缝中的战略困境。最后，文章还剖析了中国军控白皮书背后规则塑造者的角色转变，以及美国对华科技策略从遏制转向交易型妥协的深层影响。
+tags:
+- control
+- taiwan-strait
+- war
+title: 中美芯片AI战、台海危机与日本的战略困境：多维视角下的全球博弈
 ---
+
 大家好，欢迎来到本期的世界苦茶观察线节目。观察线节目汇总全球智库、国际媒体深度分析中国问题的内容。该节目为AI制作，播放速度照顾收听较慢听众，如果你觉得太慢可以调整至1.25倍。AI脚本和声音会不断优化。以下是精选的全世界对中国的分析，关于中美芯片AI战和中美日外交与地缘政治等内容。
 
 ### 中美AI芯片战：最大化摩擦策略

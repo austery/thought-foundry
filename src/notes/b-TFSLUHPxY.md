@@ -1,54 +1,54 @@
 ---
-author: Big Think
+area: society-systems
+category: general
+companies_orgs:
+- Roots of Progress Institute
+- Big Think
+- Silicon Valley
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Techno-Humanist Manifesto
+- The Atlantic
+- Novum Organum
+people:
+- Jason Crawford
+- Tyler Cowen
+- Patrick Collison
+- Francis Bacon
+- George Washington
+- Alexander the Great
+- Henry Ford
+- Rousseau
+- Carl Becker
+- Steve Jobs
+- Elon Musk
+- Paul Romer
+products_models:
+- ChatGPT
+- mRNA-based vaccines
+- CRISPR
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=b-TFSLUHPxY
 speaker: Big Think
-tags:
-  - human-progress
-  - technological-advancement
-  - innovation-slowdown
-  - progress-philosophy
-  - societal-development
-title: 进步并非必然：理解人类发展的驱动力与未来潜力
-summary: 杰森·克劳福德探讨了人类进步的哲学、历史和未来。他指出，进步并非自动发生，而是源于人类的选择和努力。文章回顾了从循环史观到进步观念的转变，弗朗西斯·培根等关键人物的贡献，以及工业革命带来的巨大飞跃。同时，也剖析了20世纪世界大战和环境问题导致的进步怀疑论，以及近50年来（信息技术除外）进步放缓的原因，包括过度监管、科学资助模式和文明层面的雄心丧失。克劳福德对未来充满希望，认为人工智能、基因工程和核聚变等前沿技术，以及新一代建设者的雄心，将推动人类进入一个更加辉煌的时代，实现超越想象的进步。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - Jason Crawford
-  - Tyler Cowen
-  - Patrick Collison
-  - Francis Bacon
-  - George Washington
-  - Alexander the Great
-  - Henry Ford
-  - Rousseau
-  - Carl Becker
-  - Steve Jobs
-  - Elon Musk
-  - Paul Romer
-companies_orgs:
-  - Roots of Progress Institute
-  - Big Think
-  - Silicon Valley
-products_models:
-  - ChatGPT
-  - mRNA-based vaccines
-  - CRISPR
-media_books:
-  - The Techno-Humanist Manifesto
-  - The Atlantic
-  - Novum Organum
 status: evergreen
+summary: 杰森·克劳福德探讨了人类进步的哲学、历史和未来。他指出，进步并非自动发生，而是源于人类的选择和努力。文章回顾了从循环史观到进步观念的转变，弗朗西斯·培根等关键人物的贡献，以及工业革命带来的巨大飞跃。同时，也剖析了20世纪世界大战和环境问题导致的进步怀疑论，以及近50年来（信息技术除外）进步放缓的原因，包括过度监管、科学资助模式和文明层面的雄心丧失。克劳福德对未来充满希望，认为人工智能、基因工程和核聚变等前沿技术，以及新一代建设者的雄心，将推动人类进入一个更加辉煌的时代，实现超越想象的进步。
+tags:
+- development
+- human
+- innovation
+- philosophy
+- technological
+title: 进步并非必然：理解人类发展的驱动力与未来潜力
 ---
+
 ### 进步的意义与追求
 
 在我看来，过去几个世纪的进步是人类历史上最伟大的事情，是对人类生命、健康、幸福和福祉最有利的事情。

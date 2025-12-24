@@ -1,45 +1,43 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Yomiuri Shimbun
 date: '2025-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sanae Takaichi
+- Shigeru Ishiba
+- Satsuki Katayama
+- Kimi Onoda
+- Shi Ping
+- Empress Dowager Cixi
+- Sun Yat-sen
+- Mao Zedong
+- Hillary Clinton
+- Donald Trump
+- Wu Yi
+- Sun Chunlan
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=T9XOM6kxNmI
 speaker: 徒步的騎手
-tags:
-  - political-systems
-  - youth-disillusionment
-  - civic-politics
-  - gender-equality
-  - societal-stagnation
-title: 日本首位女首相与中国“土皇帝”：两种政治文明的对比及对年轻人的启示
-summary: 本文以日本首位女首相高市早苗的当选为引，深刻对比了日本开放包容的公民政治与中国封闭僵化的“土皇帝”式血统政治。文章指出，日本社会对个性与多元背景的接纳，为年轻人提供了希望，并体现在女性及归化公民的参政机会上。而中国体制则扼杀个体活力，导致年轻人“躺平”，凸显了中日两国在政治文明上的巨大差距，并呼吁中国迈向宪政民主。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Sanae Takaichi
-  - Shigeru Ishiba
-  - Satsuki Katayama
-  - Kimi Onoda
-  - Shi Ping
-  - Empress Dowager Cixi
-  - Sun Yat-sen
-  - Mao Zedong
-  - Hillary Clinton
-  - Donald Trump
-  - Wu Yi
-  - Sun Chunlan
-companies_orgs:
-  - Yomiuri Shimbun
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文以日本首位女首相高市早苗的当选为引，深刻对比了日本开放包容的公民政治与中国封闭僵化的“土皇帝”式血统政治。文章指出，日本社会对个性与多元背景的接纳，为年轻人提供了希望，并体现在女性及归化公民的参政机会上。而中国体制则扼杀个体活力，导致年轻人“躺平”，凸显了中日两国在政治文明上的巨大差距，并呼吁中国迈向宪政民主。
+tags:
+- gender
+- geopolitical
+- political-system
+- politics
+- societal
+title: 日本首位女首相与中国“土皇帝”：两种政治文明的对比及对年轻人的启示
 ---
 
 ### 日本首位女首相的崛起与社会活力

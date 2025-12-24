@@ -1,50 +1,50 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- 美光科技
+- 应用材料
+- 台积电
+- ASML
+- 阿里巴巴集团
+- 伯克希尔·哈撒韦
+- 摩根大通
 date: '2024-06-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富》
+- 《金融时报》
+people:
+- 唐石峻
+- 蔡崇信
+- 巴菲特
+products_models:
+- Blackwell GPU
+- EUV光刻机
+- 通义千问
+- ModelScope社区
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=B7xJ7oqfdmA
 speaker: Shijun Tang
-tags:
-  - ai-hardware-ecosystem
-  - stock-split-misconception
-  - share-dilution
-  - free-cash-flow-analysis
-  - value-investing-community
-title: 错过英伟达就无望了？阿里能否逆袭？AI时代硬件生态与价值投资的真相
-summary: 本文深入分析英伟达在AI硬件中的垄断地位及其供应链生态，剖析阿里巴巴通过可转债加码AI与云业务的战略意图，并揭示拆股骗局与SBC对股东权益的影响，最终回归价值投资的本质：专注、复利与社群认同。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - 蔡崇信
-  - 巴菲特
-companies_orgs:
-  - 英伟达
-  - 美光科技
-  - 应用材料
-  - 台积电
-  - ASML
-  - 阿里巴巴集团
-  - 伯克希尔·哈撒韦
-  - 摩根大通
-products_models:
-  - Blackwell GPU
-  - EUV光刻机
-  - 通义千问
-  - ModelScope社区
-media_books:
-  - 《财富》
-  - 《金融时报》
 status: evergreen
+summary: 本文深入分析英伟达在AI硬件中的垄断地位及其供应链生态，剖析阿里巴巴通过可转债加码AI与云业务的战略意图，并揭示拆股骗局与SBC对股东权益的影响，最终回归价值投资的本质：专注、复利与社群认同。
+tags:
+- analysis
+- ecosystem
+- stock
+- technology
+- value-investing-community
+title: 错过英伟达就无望了？阿里能否逆袭？AI时代硬件生态与价值投资的真相
 ---
+
 ### AI时代的硬件霸权：英伟达与它的隐形盟友
 
 AI狂潮正在席卷全球，但真正能从这场技术革命中持续获利的，并非那些开发语言模型的软件公司，而是背后的硬件基础设施提供者。目前，在数据中心GPU市场中，英伟达的占有率高达92%，几乎形成绝对垄断。几乎所有主流AI模型的训练，都依赖其GPU算力。

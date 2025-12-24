@@ -1,63 +1,63 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Apple
+- Foxconn
+- Dell
+- Biel Crystal
+- Tealbook
+- University of Toronto
+- Munk School of Public Policy
+- OpenAI
+- Nvidia
+- Ontario Centre for Innovation
+- Vector Institute
+- UK government
+- Department of Defence (US)
+- Kraft Heinz
+- Goldman Sachs
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Apple in China: The Capture of the World''s Greatest Company'
+- The Rundown
+people:
+- Jony Ive
+- Tim Cook
+- Terry Guo
+- Steve Jobs
+- Steve Wozniak
+- Deng Xiaoping
+- John Rubenstein
+- David Wolfe
+- Stephany Lapierre
+- Patrick Magee
+products_models:
+- iPhone
+- iPod
+- iPod mini
+project:
+- china-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=5xYGciEtHhY
 speaker: TVO Today
-tags:
-  - supply-chain
-  - industrial-policy
-  - global-competitiveness
-  - manufacturing
-  - economic-development
-title: 苹果与中国：全球供应链的塑造者与加拿大工业政策的困境
-summary: 本文深入探讨了苹果公司如何通过在中国建立其高度复杂的供应链，不仅推动了自身在全球智能手机市场的成功，也间接助力中国电子产业的崛起，成为中国的“国家建设者”。文章还讨论了中国在全球贸易、科技竞争和国家安全中的地位。随后，内容转向加拿大，反思其在工业政策上的缺失，以及在面对中国这样庞大经济体时，加拿大如何通过聚焦利基市场、利用技术创新（特别是AI）和优化政府采购来提升全球竞争力。专家们强调了清晰的工业战略、人才培养和资本获取对加拿大未来发展的关键作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Jony Ive
-  - Tim Cook
-  - Terry Guo
-  - Steve Jobs
-  - Steve Wozniak
-  - Deng Xiaoping
-  - John Rubenstein
-  - David Wolfe
-  - Stephany Lapierre
-  - Patrick Magee
-companies_orgs:
-  - Apple
-  - Foxconn
-  - Dell
-  - Biel Crystal
-  - Tealbook
-  - University of Toronto
-  - Munk School of Public Policy
-  - OpenAI
-  - Nvidia
-  - Ontario Centre for Innovation
-  - Vector Institute
-  - UK government
-  - Department of Defence (US)
-  - Kraft Heinz
-  - Goldman Sachs
-products_models:
-  - iPhone
-  - iPod
-  - iPod mini
-media_books:
-  - 'Apple in China: The Capture of the World''s Greatest Company'
-  - The Rundown
 status: evergreen
+summary: 本文深入探讨了苹果公司如何通过在中国建立其高度复杂的供应链，不仅推动了自身在全球智能手机市场的成功，也间接助力中国电子产业的崛起，成为中国的“国家建设者”。文章还讨论了中国在全球贸易、科技竞争和国家安全中的地位。随后，内容转向加拿大，反思其在工业政策上的缺失，以及在面对中国这样庞大经济体时，加拿大如何通过聚焦利基市场、利用技术创新（特别是AI）和优化政府采购来提升全球竞争力。专家们强调了清晰的工业战略、人才培养和资本获取对加拿大未来发展的关键作用。
+tags:
+- economic
+- global
+- industrial-policy
+- manufacturing
+- supply-chain
+title: 苹果与中国：全球供应链的塑造者与加拿大工业政策的困境
 ---
+
 ### 苹果与中国：全球供应链的崛起与影响
 
 如果你没有iPhone，你很可能认识拥有它的人，甚至可能是很多人。据估计，全球有超过15亿部iPhone处于活跃状态。那么，苹果是如何成为智能手机市场主要参与者之一的呢？

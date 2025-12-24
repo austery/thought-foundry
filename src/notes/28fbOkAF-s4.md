@@ -1,47 +1,46 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: culture
+companies_orgs:
+- 博洛尼亚大学
+- 巴黎大学
+- 牛津大学
+- 剑桥大学
+- 罗马教廷
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《100个哲学大概念开悟人生》
+- 《什么是科学》
+people:
+- 吴国盛
+- 恩格斯
+- 达芬奇
+- 拉斐尔
+- 米开朗基罗
+- 柏拉图
+- 亚里士多德
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=28fbOkAF-s4
 speaker: 大问题Dialectic
-tags:
-  - middle-ages-reassessment
-  - christian-church-role
-  - university-origins
-  - scholasticism
-  - renaissance-reinterpretation
-title: 为中世纪正名：教会如何孕育现代科学与大学制度
-summary: 本文旨在纠正对欧洲中世纪的普遍偏见，指出其并非“黑暗时代”，基督教教会也并非反智。相反，教会是古典文明的保存者，更是现代大学制度和科学诞生的重要推手。文章通过分析经院哲学、自由七艺以及文艺复兴的真实赞助者，揭示了中世纪在西方文明发展中的关键作用，并批判了启蒙运动时期对中世纪的刻意贬低，呼吁避免智力上的懒惰，客观理解历史。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - systems-thinking
-people:
-  - 吴国盛
-  - 恩格斯
-  - 达芬奇
-  - 拉斐尔
-  - 米开朗基罗
-  - 柏拉图
-  - 亚里士多德
-companies_orgs:
-  - 博洛尼亚大学
-  - 巴黎大学
-  - 牛津大学
-  - 剑桥大学
-  - 罗马教廷
-products_models: []
-media_books:
-  - 《100个哲学大概念开悟人生》
-  - 《什么是科学》
 status: evergreen
+summary: 本文旨在纠正对欧洲中世纪的普遍偏见，指出其并非“黑暗时代”，基督教教会也并非反智。相反，教会是古典文明的保存者，更是现代大学制度和科学诞生的重要推手。文章通过分析经院哲学、自由七艺以及文艺复兴的真实赞助者，揭示了中世纪在西方文明发展中的关键作用，并批判了启蒙运动时期对中世纪的刻意贬低，呼吁避免智力上的懒惰，客观理解历史。
+tags:
+- christian-church-role
+- llm
+- scholasticism
+- society
+title: 为中世纪正名：教会如何孕育现代科学与大学制度
 ---
+
 ### 破除“黑暗中世纪”的刻板印象
 
 很多人一提到欧洲的**中世纪**（Middle Ages: 指从公元5世纪到公元15世纪这1000年的欧洲历史时期），脑子里面的刻板印象就是中世纪都是黑暗的，基督教都是反智的，**文艺复兴**（Renaissance: 强调人文主义，打破神权桎梏，以人为中心）才是反宗教的。但是，实际情况真的是这样的吗？欢迎来到《100个哲学大概念开悟人生》这一讲，我们将讲述西方的中世纪，这算作中世纪哲学的一个导论。在讲述中世纪的哲学之前，需要跟大家作一些翻案文章，纠正一些很多人关于欧洲中世纪的偏见。

@@ -1,132 +1,133 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- AMD
+- Nvidia
+- Amazon
+- Apple
+- Eli Lilly
+- UnitedHealth Group
+- Google
+- Fiserv
+- Baxter International
+- TSMC
+- Applied Materials
+- Adobe
+- Fidelity National Information Services
+- Walmart
+- U.S. Supreme Court
+- Federal Reserve
+- Melius
+- CoreWeave
+- Nebius
+- Robinhood
+- Bank of America
+- Nike
+- Circle
+- On Holding
+- Fannie Mae
+- Lululemon
+- Chipotle
+- Glean
+- Google Cloud Platform
+- Microsoft Azure
+- Amazon Web Services
+- Palantir
+- SpaceX
+- Rocket Lab
+- D-Wave
+- Rigetti Computing
+- IQM Quantum Computers
+- BMR
+- Ford
+- General Motors
+- Meta
+- Oracle
+- xAI
+- Blue Owl Capital
+- Anthropic
+- FluidStack
+- Midjourney
+- Mistral
+- OpenAI
+- The New York Times
+- Bumble
+- Tinder
+- Hinge
+- Shopify
+- OpenDoor
+- WeBull
+- Meritz Financial
+- Apex Fintech Solutions
+- Cisco
+- Dell
+- Intel
+- IBM
+- Dow Jones Industrial Average
+- NASDAQ
+- Blackstone
+- Morgan Stanley
+- BlackRock
+- Goldman Sachs
+- JPMorgan Chase
+- UBS
+- Politico
+- Bloomberg
+- Fox News
+- The Wall Street Journal
+- homes.com
+- Cantor Fitzgerald
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Big Short
+- Cassandra Unchained
+people:
+- Michael Burry
+- Donald Trump
+- Lisa Su
+- Jensen Huang
+- Alex Karp
+- Joe Biden
+- Brooke Rollins
+- Christian Bale
+- Warren Buffett
+- Peter Thiel
+- Lisa McClain
+- Peter Beck
+- Stanley Druckenmiller
+- Raphael Bostic
+- Jamie Dimon
+- Elon Musk
+- Tom Lee
+- Keith Rabois
+products_models:
+- S&P 500
+- ChatGPT
+- Neutron Rocket
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=NxQOGVGRSak
 speaker: Amit Kukreja
-tags:
-  - market-rally
-  - ai-chips
-  - economic-stimulus
-  - corporate-earnings
-  - investor-sentiment
-title: SPY逼近历史高点，AMD发布新增长预期，迈克尔·贝瑞持续看空
-summary: 市场情绪乐观，标普500指数在盘前交易中距离历史高点仅一步之遥，市场普遍预期“圣诞老人行情”。AMD发布了未来五年35%的年收入增长和强劲的毛利率指引，大幅提振了AI板块。然而，著名投资人迈克尔·贝瑞通过社交媒体暗示他正坚持其对AI泡沫的看空立场。同时，美国经济呈现出明显的分化现象：一方面企业盈利创下新高，另一方面低收入群体面临 affordability 挑战，政府正考虑发放2000美元补贴及降低关税以应对。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Michael Burry
-  - Donald Trump
-  - Lisa Su
-  - Jensen Huang
-  - Alex Karp
-  - Joe Biden
-  - Brooke Rollins
-  - Christian Bale
-  - Warren Buffett
-  - Peter Thiel
-  - Lisa McClain
-  - Peter Beck
-  - Stanley Druckenmiller
-  - Raphael Bostic
-  - Jamie Dimon
-  - Elon Musk
-  - Tom Lee
-  - Keith Rabois
-companies_orgs:
-  - AMD
-  - Nvidia
-  - Amazon
-  - Apple
-  - Eli Lilly
-  - UnitedHealth Group
-  - Google
-  - Fiserv
-  - Baxter International
-  - TSMC
-  - Applied Materials
-  - Adobe
-  - Fidelity National Information Services
-  - Walmart
-  - U.S. Supreme Court
-  - Federal Reserve
-  - Melius
-  - CoreWeave
-  - Nebius
-  - Robinhood
-  - Bank of America
-  - Nike
-  - Circle
-  - On Holding
-  - Fannie Mae
-  - Lululemon
-  - Chipotle
-  - Glean
-  - Google Cloud Platform
-  - Microsoft Azure
-  - Amazon Web Services
-  - Palantir
-  - SpaceX
-  - Rocket Lab
-  - D-Wave
-  - Rigetti Computing
-  - IQM Quantum Computers
-  - BMR
-  - Ford
-  - General Motors
-  - Meta
-  - Oracle
-  - xAI
-  - Blue Owl Capital
-  - Anthropic
-  - FluidStack
-  - Midjourney
-  - Mistral
-  - OpenAI
-  - The New York Times
-  - Bumble
-  - Tinder
-  - Hinge
-  - Shopify
-  - OpenDoor
-  - WeBull
-  - Meritz Financial
-  - Apex Fintech Solutions
-  - Cisco
-  - Dell
-  - Intel
-  - IBM
-  - Dow Jones Industrial Average
-  - NASDAQ
-  - Blackstone
-  - Morgan Stanley
-  - BlackRock
-  - Goldman Sachs
-  - JPMorgan Chase
-  - UBS
-  - Politico
-  - Bloomberg
-  - Fox News
-  - The Wall Street Journal
-  - homes.com
-  - Cantor Fitzgerald
-products_models:
-  - S&P 500
-  - ChatGPT
-  - Neutron Rocket
-media_books:
-  - The Big Short
-  - Cassandra Unchained
 status: evergreen
+summary: 市场情绪乐观，标普500指数在盘前交易中距离历史高点仅一步之遥，市场普遍预期“圣诞老人行情”。AMD发布了未来五年35%的年收入增长和强劲的毛利率指引，大幅提振了AI板块。然而，著名投资人迈克尔·贝瑞通过社交媒体暗示他正坚持其对AI泡沫的看空立场。同时，美国经济呈现出明显的分化现象：一方面企业盈利创下新高，另一方面低收入群体面临
+  affordability 挑战，政府正考虑发放2000美元补贴及降低关税以应对。
+tags:
+- ai-chip
+- corporate-earning
+- economic-stimulus
+- investor-sentiment
+- market
+title: SPY逼近历史高点，AMD发布新增长预期，迈克尔·贝瑞持续看空
 ---
+
 ### 市场接近历史高点，“圣诞老人行情”可期？
 
 大家早上好，欢迎回到“市场开盘”节目。今天是11月12日，星期三，我们正在直播。感谢各位的到来。

@@ -1,48 +1,48 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: psychology
+companies_orgs:
+- University of Pennsylvania
+- Norges Bank Investment Management
+- Morgan Stanley
+- Peloton
 date: '2024-04-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- US News and World Report
+- What Intelligence Tests Miss
+people:
+- Adam Grant
+- Danny Kahneman
+- Howard Marks
+- Keith Stanovich
+- Phil Tetlock
+- Mother Teresa
+- Michael Jordan
+products_models:
+- Good Judgment Project
+- Zapper virus
+- ChatGPT
+project:
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=x3CSmiw-1z4
 speaker: Norges Bank Investment Management
-tags:
-  - overconfidence
-  - confirmation-bias
-  - decision-making
-  - forecasting
-  - cognitive-biases
-title: 提升投资决策：克服过度自信与确认偏误的实用策略
-summary: 本次会议旨在探讨影响决策的两个主要障碍：过度自信和确认偏误。演讲者Michael Mauboussin分享了如何通过校准、利用外部视角（基准率）、记录决策日志、进行概率预测以及采纳关键指标分析等方法，帮助投资者做出更明智的判断。他强调，成功的投资者能有效对抗这些认知偏误，并将信念视为待验证的假设而非需要保护的珍宝。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Adam Grant
-  - Danny Kahneman
-  - Howard Marks
-  - Keith Stanovich
-  - Phil Tetlock
-  - Mother Teresa
-  - Michael Jordan
-companies_orgs:
-  - University of Pennsylvania
-  - Norges Bank Investment Management
-  - Morgan Stanley
-  - Peloton
-products_models:
-  - Good Judgment Project
-  - Zapper virus
-  - ChatGPT
-media_books:
-  - US News and World Report
-  - What Intelligence Tests Miss
 status: evergreen
+summary: 本次会议旨在探讨影响决策的两个主要障碍：过度自信和确认偏误。演讲者Michael Mauboussin分享了如何通过校准、利用外部视角（基准率）、记录决策日志、进行概率预测以及采纳关键指标分析等方法，帮助投资者做出更明智的判断。他强调，成功的投资者能有效对抗这些认知偏误，并将信念视为待验证的假设而非需要保护的珍宝。
+tags:
+- bias
+- cognitive-bias
+- decision-making
+- forecasting
+- overconfidence
+title: 提升投资决策：克服过度自信与确认偏误的实用策略
 ---
+
 ### 决策的障碍与克服之道
 
 大家下午好，很高兴能与各位相聚。

@@ -1,31 +1,30 @@
 ---
-title: 亿万富翁卡鲁索：加州野火后的复苏与好莱坞的未来
-summary: 房地产大亨里克·卡鲁索探讨加州野火后的复苏，批评政府应对不力，并分享他对领导力、公共服务以及如何重振好莱坞电影产业的看法。
 area: null
 category: null
-project: []
-tags:
-- california-wildfires
-- hollywood-film-industry
-- los-angeles-politics
-- public-service
-- rick-caruso
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qf8u9Qguv3k
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 房地产大亨里克·卡鲁索探讨加州野火后的复苏，批评政府应对不力，并分享他对领导力、公共服务以及如何重振好莱坞电影产业的看法。
+tags:
+- environment
+- geopolitical
+- industry
+- politics
+- public-service
+title: 亿万富翁卡鲁索：加州野火后的复苏与好莱坞的未来
 ---
+
 ### 彭博社介绍与市长巴斯的回应
 
 Bloomberg: You're listening to Bloomberg BusinessWeek with Carol Masser and Tim Stenc on Bloomberg radio. We are in the heart of Hollywood, live at **Bloomberg Screen Time** (Bloomberg Screen Time: 彭博社的现场活动). We're speaking to the mogul, celebrities, entrepreneurs, the leaders defining the next phase of pop culture. One of those leaders joins us now, Rick Caruso. He's the billionaire real estate developer, the former candidate for mayor of LA. He's the founder and executive chairman of **Caruso** (Caruso: 美国最大的私人房地产公司之一). It's one of the largest privately held real estate companies in the US. He's a philanthropist. He's going to be here on stage a little bit later for a conversation with our LA bureau chief, John Gdson. He joins us now ahead of that conversation. Rick, welcome back to Bloomberg Business Week. It's been a bit since we last spoke to you. We got to start with what LA Mayor Bass said last night here. She spoke with Sarah McGregor, managing editor, national desk at Bloomberg. Here she is last night at screen time. Rick Caruso, who you defeated in 2022 in the mayor's race, has been one of your most vocal critics around the fires. He released a statement today after the arrest, saying it shows the disaster was preventable and in his words calling it a failure of government on an epic level, starting with Mayor Bass. He'll be with us on this stage tomorrow.

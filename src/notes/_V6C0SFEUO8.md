@@ -1,39 +1,39 @@
 ---
-author: TED
+area: society-systems
+category: culture
+companies_orgs:
+- NFL
+- TED
 date: '2025-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- olympic-game
+people:
+- Troy Vincent Sr.
+- Alma Vincent
+- Tracy Williams
+- Desiré Vincent
+- Ki'Lolo Westerlund
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=_V6C0SFEUO8
 speaker: TED
-tags:
-  - flag-football
-  - women-in-sports
-  - gender-equality
-  - youth-sports
-  - olympic-games
-title: 腰旗橄榄球：女性运动的崛起与体育平权的未来
-summary: NFL高管特洛伊·文森特讲述了腰旗橄榄球如何从一项边缘运动发展成为全球性的包容性体育项目，尤其为年轻女性提供了前所未有的参与机会。他分享了自己女儿和身边女性因性别而失去体育梦想的经历，强调了打破“男性刻板印象”的重要性。随着腰旗橄榄球被纳入2028年洛杉矶奥运会，文森特呼吁社会共同努力，确保这项运动的健康发展，为所有参与者创造一个真正公平的竞争环境，让女性在体育领域发挥领导作用。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-people:
-  - Troy Vincent Sr.
-  - Alma Vincent
-  - Tracy Williams
-  - Desiré Vincent
-  - Ki'Lolo Westerlund
-companies_orgs:
-  - NFL
-  - TED
-products_models: []
-media_books: []
 status: evergreen
+summary: NFL高管特洛伊·文森特讲述了腰旗橄榄球如何从一项边缘运动发展成为全球性的包容性体育项目，尤其为年轻女性提供了前所未有的参与机会。他分享了自己女儿和身边女性因性别而失去体育梦想的经历，强调了打破“男性刻板印象”的重要性。随着腰旗橄榄球被纳入2028年洛杉矶奥运会，文森特呼吁社会共同努力，确保这项运动的健康发展，为所有参与者创造一个真正公平的竞争环境，让女性在体育领域发挥领导作用。
+tags:
+- flag-football
+- gender
+- life
+- society
+title: 腰旗橄榄球：女性运动的崛起与体育平权的未来
 ---
+
 ### 体育梦想的平等机会
 
 如果你的孩子对他们热爱的事物充满热情、动力和技能，但却无法获得参与的机会，那会怎样？

@@ -1,30 +1,30 @@
 ---
-title: 进步的幻象：《文明至死》揭示现代文明的困境
-summary: 《文明至死》一书揭示了文明“进步”的代价：个人幸福感下降。走出困境的关键在于重新认识人类与自我。
 area: null
 category: null
-project: []
-tags:
-- critique-of-progress
-- hunter-gatherer
-- modern-dilemma
-people:
-- stella-an
 companies_orgs: []
-products_models: []
-media_books:
-- civilized-to-death
 date: '2025-06-28'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- civilized-to-death
+people:
+- stella-an
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7p6UDffiy8E
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 《文明至死》一书揭示了文明“进步”的代价：个人幸福感下降。走出困境的关键在于重新认识人类与自我。
+tags:
+- critique
+- history
+- hunter-gatherer
+title: 进步的幻象：《文明至死》揭示现代文明的困境
 ---
+
 ### 文明的困境：为何发展没有带来幸福？
 
 尤瓦尔·赫拉利的《人类简史》中有一个观点能引起广泛共鸣：人类最初依靠采集狩猎为生，直到新石器时代的农业革命，才逐渐进入农业社会，进而发展出灿烂的文明。然而，有趣的是，无论是农业革命还是现代科技革命，人类的生活并未因此变得更轻松，反而被科技与文明的进步所奴役。

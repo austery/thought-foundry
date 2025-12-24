@@ -1,37 +1,36 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- HCCSS
+- Meals On Wheels
+- 星岛日报
 date: '2024-02-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 张国焘
+- 张爱玲
+products_models:
+- Walker
+- Reverse Mortgage
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=vRdyQIGPeCA
 speaker: 莊也雜談
-tags:
-  - canada-elder-care
-  - retirement-planning
-  - long-term-care
-  - home-care-services
-  - caregiver-shortage
-title: 加拿大养老全景：从居家到长期护理的五大阶段深度解析
-summary: 本期节目深入探讨加拿大养老系统的五大阶段，从退休初期的居家养老，到需要辅助的居家护理，再到老年公寓、退休屋，直至最终的长期护理院。详细介绍各阶段的特点、申请流程、费用、服务内容及面临的挑战，旨在为华人社区提供清晰、全面的加拿大养老信息，帮助家庭更好地规划未来，了解即使是贫困老人也能获得人文关怀的养老保障。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project: []
-people:
-  - 张国焘
-  - 张爱玲
-companies_orgs:
-  - HCCSS
-  - Meals On Wheels
-  - 星岛日报
-products_models:
-  - Walker
-  - Reverse Mortgage
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨加拿大养老系统的五大阶段，从退休初期的居家养老，到需要辅助的居家护理，再到老年公寓、退休屋，直至最终的长期护理院。详细介绍各阶段的特点、申请流程、费用、服务内容及面临的挑战，旨在为华人社区提供清晰、全面的加拿大养老信息，帮助家庭更好地规划未来，了解即使是贫困老人也能获得人文关怀的养老保障。
+tags:
+- canada
+- care
+- investment
+- long
+- retirement-planning
+title: 加拿大养老全景：从居家到长期护理的五大阶段深度解析
 ---
+
 ### 加拿大养老系统概述：一个现实而沉重的话题
 
 大家好，我是庄也，欢迎收看庄也杂谈加拿大。今天，我们将继续聊聊加拿大的养老话题。上集我们留下了一个关于加拿大养老院的小尾巴，这个话题关系到一个人如何离开这个世界。毕竟每个人都会老去，即使有些人现在还很年轻，他们的父母也正在老去。所以，每个家庭都将面临这个既现实又有些沉重的话题，它关系到你我以及我们深爱的亲人们。

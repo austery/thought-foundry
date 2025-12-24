@@ -1,39 +1,38 @@
 ---
-title: Aaron Levie on How AI is Reshaping Startup Productivity and Disrupting Incumbents
-summary: A deep dive into how AI is creating superhuman productivity gains in small,
-  expert teams, why it represents a major platform shift that favors startups, and
-  how software is finally poised to automate and consume the world of professional
-  services.
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- vibe-coding
-tags:
-- ai
-- future-of-work
-- platform-shift
-- software-as-a-service
-- startup-productivity
-people:
-  - Erik Torenberg
-  - Aaron Levie
-  - Steven Sinofsky
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-09-25
+area: tech-engineering
 author: Lei
-speaker: a16z
+category: ai-ml
+companies_orgs: []
+date: 2025-09-25
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Erik Torenberg
+- Aaron Levie
+- Steven Sinofsky
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- vibe-coding
 series: null
 source: https://www.youtube.com/watch?v=JI_lyrkh4Gs
+speaker: a16z
 status: evergreen
+summary: A deep dive into how AI is creating superhuman productivity gains in small,
+  expert teams, why it represents a major platform shift that favors startups, and
+  how software is finally poised to automate and consume the world of professional
+  services.
+tags:
+- future-of-work
+- platform
+- software
+- startup
+title: Aaron Levie on How AI is Reshaping Startup Productivity and Disrupting Incumbents
 ---
+
 ### Debating Immigration Policy for Tech Talent
 
 Interviewer: I want to get into the immigration news. What were your reactions to what you think of the policy?

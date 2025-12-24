@@ -1,52 +1,52 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- OpenAI
+- a16z
+- 即梦AI
+- 可灵AI
+- Google
+- 可口可乐
 date: '2025-06-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《黑客与画家》
+people:
+- 赵汗青
+- 宫崎骏
+- 科比·布莱恩特
+- 奥尼尔
+- 埃隆·马斯克
+- 史蒂夫·乔布斯
+- 保罗·格拉汉姆
+- 李安
+- 蔡浩宇
+products_models:
+- GPT-4o
+- Midjourney V3
+- MCP协议
+project:
+- cultural-critique
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=cxEkL-RsoPw
 speaker: 一席YiXi
-tags:
-  - ai-generated-content
-  - creative-authenticity
-  - media-transformation
-  - democratization-of-creation
-  - technology-and-art
-title: 在AI能复制一切的时代，做自己才是真正的护城河
-summary: 赵汗青分享他如何用AI创作AI.Talk品牌，揭示AIGC正在重塑内容产业：技术不是威胁，而是逼迫创作者回归思考本质。真正的护城河不在于工具，而在于独特的思想与个体性。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - 赵汗青
-  - 宫崎骏
-  - 科比·布莱恩特
-  - 奥尼尔
-  - 埃隆·马斯克
-  - 史蒂夫·乔布斯
-  - 保罗·格拉汉姆
-  - 李安
-  - 蔡浩宇
-companies_orgs:
-  - OpenAI
-  - a16z
-  - 即梦AI
-  - 可灵AI
-  - Google
-  - 可口可乐
-products_models:
-  - GPT-4o
-  - Midjourney V3
-  - MCP协议
-media_books:
-  - 《黑客与画家》
 status: evergreen
+summary: 赵汗青分享他如何用AI创作AI.Talk品牌，揭示AIGC正在重塑内容产业：技术不是威胁，而是逼迫创作者回归思考本质。真正的护城河不在于工具，而在于独特的思想与个体性。
+tags:
+- canada
+- content
+- media-transformation
+- society
+- technology
+title: 在AI能复制一切的时代，做自己才是真正的护城河
 ---
+
 ### AI时代的创作：从技术工具到思想表达
 
 大家好，我是汉青。一个来自北京的85后，在过去几年里持续用AI生成内容、探索新事物。如果要用大数据标签来定义我，我会选三个：20岁前，我是画画的人；大学毕业后的18年，我在互联网大厂做产品与研发管理；而30多岁后，我成为了一名数字游民——和太太在各个城市的咖啡厅里工作，用AI技术打造我们自己的小媒体品牌：**AI.Talk**。

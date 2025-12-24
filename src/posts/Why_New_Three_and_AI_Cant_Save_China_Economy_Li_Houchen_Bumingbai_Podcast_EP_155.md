@@ -1,32 +1,32 @@
 ---
-title: 李厚辰：为什么“新三样”和AI救不了中国经济？- 不明白播客EP-155文字版
-summary: null
-area: market-analysis
-category: geopolitics
-project:
-- ai-impact-analysis
-- china-analysis
-tags:
-  - ai
-  - 中国经济
-people:
-  - 袁莉
-  - 李厚辰
+area: tech-engineering
+author: Lei
+category: ai-ml
+channel: 不明白播客
 companies_orgs:
 - 不明白播客
-products_models: []
-media_books:
-- 不明白播客
 date: '2025-07-10'
-author: Lei
-speaker: ''
-channel: 不明白播客
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 不明白播客
+people:
+- 袁莉
+- 李厚辰
+products_models: []
+project:
+- ai-impact-analysis
+- china-analysis
 series: null
 source: https://bumingbai.net/2025/06/20/155-lhc-text/
+speaker: ''
+summary: null
+tags:
+- china-economy
+title: 李厚辰：为什么“新三样”和AI救不了中国经济？- 不明白播客EP-155文字版
 ---
+
 ## 引言：“闪闪发光”与“暗淡萧条”并存的两个中国
 
 **袁莉:** 大家好，欢迎来到不明白播客，我是主持人袁莉。

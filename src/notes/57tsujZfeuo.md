@@ -1,37 +1,37 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-05-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《追随昆虫》
+people:
+- 杨小峰
+- 付晓东
+- 吴俊
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=57tsujZfeuo
 speaker: 一席YiXi
-tags:
-  - camouflage-strategies
-  - microscopic-beauty
-  - non-human-perception
-  - evolutionary-adaptation
-  - art-nature-connection
-title: 世界破破烂烂，蜘蛛缝缝补补：一位建筑青年的昆虫观察日记
-summary: 杨小峰从恐惧昆虫到成为狂热观察者，通过微距镜头发现虫类惊人的美学与生存智慧，并以此重新理解自然、艺术与生命。他以建筑学视角解码昆虫的伪装、行为与结构，揭示微观世界中隐藏的秩序与诗意。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - knowledge-pipeline
-people:
-  - 杨小峰
-  - 付晓东
-  - 吴俊
-companies_orgs: []
-products_models: []
-media_books:
-  - 《追随昆虫》
 status: evergreen
+summary: 杨小峰从恐惧昆虫到成为狂热观察者，通过微距镜头发现虫类惊人的美学与生存智慧，并以此重新理解自然、艺术与生命。他以建筑学视角解码昆虫的伪装、行为与结构，揭示微观世界中隐藏的秩序与诗意。
+tags:
+- adaptation
+- environment
+- human
+- microscopic-beauty
+- strategy
+title: 世界破破烂烂，蜘蛛缝缝补补：一位建筑青年的昆虫观察日记
 ---
+
 ### 恐惧到热爱：一场微距镜头下的觉醒
 
 大家好，我是杨小峰。  

@@ -1,50 +1,49 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- Goldman Sachs
+- SEC
+- TSMC
+- Intel
+- Samsung
+- Nvidia
+- Google
+- Bybit
 date: '2025-07-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Elon Musk
+- Jerome Powell
+- Donald Trump
+- Joe Biden
+products_models:
+- ChatGPT
+- FSD
+- N7N5N3N2
+- 18A
+- 14A
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=08QLsFCoCTM
 speaker: Shanghao Jin
-tags:
-  - us-economic-policy
-  - monetary-policy-outlook
-  - semiconductor-industry
-  - crypto-market-analysis
-  - tariff-impact
-title: 美国BBB法案、美联储政策与关键行业展望：2025年市场深度分析
-summary: 本期市场分析深入探讨了美国“大美法案”（BBB Bill）的通过及其对财政赤字、去监管化和减税的影响。文章分析了美联储的货币政策走向、国债发行计划，以及特朗普关税政策的潜在冲击。特别关注了AI时代下半导体行业的指数级需求增长与供应瓶颈，并对RWA和稳定币在加密货币市场中的作用进行了批判性评估，指出其对市场流动性的影响有限，而半导体才是未来十年的真正大周期。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Elon Musk
-  - Jerome Powell
-  - Donald Trump
-  - Joe Biden
-companies_orgs:
-  - Goldman Sachs
-  - SEC
-  - TSMC
-  - Intel
-  - Samsung
-  - Nvidia
-  - Google
-  - Bybit
-products_models:
-  - ChatGPT
-  - FSD
-  - N7N5N3N2
-  - 18A
-  - 14A
-media_books: []
 status: evergreen
+summary: 本期市场分析深入探讨了美国“大美法案”（BBB Bill）的通过及其对财政赤字、去监管化和减税的影响。文章分析了美联储的货币政策走向、国债发行计划，以及特朗普关税政策的潜在冲击。特别关注了AI时代下半导体行业的指数级需求增长与供应瓶颈，并对RWA和稳定币在加密货币市场中的作用进行了批判性评估，指出其对市场流动性的影响有限，而半导体才是未来十年的真正大周期。
+tags:
+- crypto-market-analysis
+- policy
+- semiconductor
+- tariff-impact
+- us-economic-policy
+title: 美国BBB法案、美联储政策与关键行业展望：2025年市场深度分析
 ---
+
 ### 市场概览与“大美法案”的通过
 
 上周是美国独立日假期，整体市场相对清淡。本周一，美股下跌了0.75%。这一下跌主要受到美国“大美法案”（**BBB法案**：Big Beautiful Bill，美国一项重要的综合性法案，涵盖去监管、减税等多方面内容）闯关成功以及特朗普政府公布新关税政策的影响。尽管我之前预测该法案还会拖延一段时间，但共和党表现强势，最终在参议院以一票之差、众议院以几票之差使其通过。

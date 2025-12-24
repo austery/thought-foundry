@@ -1,135 +1,135 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Archer
+- Hims
+- SoFi
+- MP Materials
+- BitMine
+- Meta
+- Oscar
+- Humana
+- Poly Market
+- Google
+- Open Door
+- Nvidia
+- Rocket Lab
+- Grab
+- Celsius
+- Palantir
+- MicroStrategy
+- CoreWeave
+- Nebius
+- Oracle
+- AMD
+- Tesla
+- Apple
+- Amazon
+- Robinhood
+- SoundHound
+- Coinbase
+- Intel
+- Microsoft
+- Marathon
+- Duolingo
+- ABclonal
+- Dutch Bros
+- Take-Two
+- Enovix
+- Elf Beauty
+- UnitedHealth
+- Marvell
+- Axon
+- Visa
+- The Trade Desk
+- MercadoLibre
+- ServiceNow
+- Zeta Global
+- Indeed
+- Conde Nast
+- Morgan Stanley
+- BlackRock
+- Vanguard
+- State Street
+- JPMorgan
+- OpenAI
+- ESPN
+- Chime
+- Johnson Controls
+- Netflix
+- Costco
+- Walmart
+- Beyond Meat
+- White House
+- Democrats
+- Republicans
+- Congress
+- Senate
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- CNBC
+- Twitter
+- Seeking Alpha
+- The Compound
+people:
+- Chuck Schumer
+- Donald Trump
+- Mike Johnson
+- Jeremy Siegel
+- Tom Lee
+- Brad Gerstner
+- Andy Jassy
+- Jensen Huang
+- Sundar Pichai
+- Mark Zuckerberg
+- Vlad Tenev
+- Jamie Dimon
+- Cathy Wood
+- Michael Burry
+- Sam Altman
+products_models:
+- Bitcoin
+- Ethereum
+- Affordable Care Act
+- Chips Act
+- ChatGPT
+- Gemini
+- CUDA
+- Blackwell
+- Vera Rubin
+- Waymo
+- Reality Labs
+- Vision Pro
+- Fabric
+- PowerBI
+- SharePoint
+- Azure
+- AWS
+- Google Cloud
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ouzN66rzIqU
 speaker: Amit Kukreja
-tags:
-  - market-volatility
-  - government-shutdown
-  - v-shaped-recovery
-  - ai-trade
-  - political-impact
-title: 美国政府关门风波引发市场巨震：V型反转背后的政治博弈
-summary: 本周市场经历了一场惊心动魄的过山车行情，在周五早盘大幅下挫后，尾盘竟奇迹般地实现V型反转。本文深入剖析了此次市场波动的核心驱动因素，指出关于美国政府可能重新开放的谈判消息是引发市场情绪逆转的关键。文章探讨了民主党与共和党之间围绕《平价医疗法案》补贴的政治博弈，并分析了市场对AI交易泡沫、企业估值和宏观经济基本面的担忧。最终，政治新闻似乎暂时压倒了基本面担忧，成为主导市场走向的决定性力量。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Chuck Schumer
-  - Donald Trump
-  - Mike Johnson
-  - Jeremy Siegel
-  - Tom Lee
-  - Brad Gerstner
-  - Andy Jassy
-  - Jensen Huang
-  - Sundar Pichai
-  - Mark Zuckerberg
-  - Vlad Tenev
-  - Jamie Dimon
-  - Cathy Wood
-  - Michael Burry
-  - Sam Altman
-companies_orgs:
-  - Archer
-  - Hims
-  - SoFi
-  - MP Materials
-  - BitMine
-  - Meta
-  - Oscar
-  - Humana
-  - Poly Market
-  - Google
-  - Open Door
-  - Nvidia
-  - Rocket Lab
-  - Grab
-  - Celsius
-  - Palantir
-  - MicroStrategy
-  - CoreWeave
-  - Nebius
-  - Oracle
-  - AMD
-  - Tesla
-  - Apple
-  - Amazon
-  - Robinhood
-  - SoundHound
-  - Coinbase
-  - Intel
-  - Microsoft
-  - Marathon
-  - Duolingo
-  - ABclonal
-  - Dutch Bros
-  - Take-Two
-  - Enovix
-  - Elf Beauty
-  - UnitedHealth
-  - Marvell
-  - Axon
-  - Visa
-  - The Trade Desk
-  - MercadoLibre
-  - ServiceNow
-  - Zeta Global
-  - Indeed
-  - Conde Nast
-  - Morgan Stanley
-  - BlackRock
-  - Vanguard
-  - State Street
-  - JPMorgan
-  - OpenAI
-  - ESPN
-  - Chime
-  - Johnson Controls
-  - Netflix
-  - Costco
-  - Walmart
-  - Beyond Meat
-  - White House
-  - Democrats
-  - Republicans
-  - Congress
-  - Senate
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Affordable Care Act
-  - Chips Act
-  - ChatGPT
-  - Gemini
-  - CUDA
-  - Blackwell
-  - Vera Rubin
-  - Waymo
-  - Reality Labs
-  - Vision Pro
-  - Fabric
-  - PowerBI
-  - SharePoint
-  - Azure
-  - AWS
-  - Google Cloud
-media_books:
-  - Bloomberg
-  - CNBC
-  - Twitter
-  - Seeking Alpha
-  - The Compound
 status: evergreen
+summary: 本周市场经历了一场惊心动魄的过山车行情，在周五早盘大幅下挫后，尾盘竟奇迹般地实现V型反转。本文深入剖析了此次市场波动的核心驱动因素，指出关于美国政府可能重新开放的谈判消息是引发市场情绪逆转的关键。文章探讨了民主党与共和党之间围绕《平价医疗法案》补贴的政治博弈，并分析了市场对AI交易泡沫、企业估值和宏观经济基本面的担忧。最终，政治新闻似乎暂时压倒了基本面担忧，成为主导市场走向的决定性力量。
+tags:
+- government-shutdown
+- market-volatility
+- political
+- trade
+- v-shaped-recovery
+title: 美国政府关门风波引发市场巨震：V型反转背后的政治博弈
 ---
+
 ### 市场V型反转的疯狂一日
 今天真是疯狂的一天。感谢各位的到来，欢迎回到新一期的《收盘快评》。
 

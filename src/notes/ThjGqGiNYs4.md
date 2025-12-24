@@ -1,48 +1,47 @@
 ---
-author: Norges Bank Investment Management
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- London Business School
+- Norges Bank Investment Management
+- Norwegian Central Bank
+- Ministry of Finance
+- Nvidia
+- Anthropic
+- Apple
 date: '2025-03-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+people:
+- Sergey Guif
+- Nikolai Tangen
+- Floren Vasvari
+- Jensen Huang
+- Satya Nadella
+products_models:
+- Claude
+project:
+- investment-strategy
+- systems-thinking
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ThjGqGiNYs4
 speaker: Norges Bank Investment Management
-tags:
-  - sovereign-wealth-fund
-  - investment-strategy
-  - transparency
-  - ai-in-finance
-  - corporate-culture
-  - leadership-styles
-title: 挪威主权财富基金的成功秘诀：透明、长期与创新
-summary: 本文深入探讨了全球最大主权财富基金——挪威银行投资管理公司（NBIM）的运作模式。首席执行官尼古拉·坦根分享了基金在治理结构、投资策略、技术应用（特别是AI）、人才管理和企业文化方面的独特方法。基金强调极度透明、长期投资、积极所有权，并通过系统化学习和体育心理学提升团队韧性。文章还探讨了新兴领导力风格、应对市场波动以及对年轻投资者的建议，揭示了该基金如何在复杂多变的市场中持续创造价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-  - ai-impact-analysis
-people:
-  - Sergey Guif
-  - Nikolai Tangen
-  - Floren Vasvari
-  - Jensen Huang
-  - Satya Nadella
-companies_orgs:
-  - London Business School
-  - Norges Bank Investment Management
-  - Norwegian Central Bank
-  - Ministry of Finance
-  - Nvidia
-  - Anthropic
-  - Apple
-products_models:
-  - Claude
-media_books:
-  - Financial Times
 status: evergreen
+summary: 本文深入探讨了全球最大主权财富基金——挪威银行投资管理公司（NBIM）的运作模式。首席执行官尼古拉·坦根分享了基金在治理结构、投资策略、技术应用（特别是AI）、人才管理和企业文化方面的独特方法。基金强调极度透明、长期投资、积极所有权，并通过系统化学习和体育心理学提升团队韧性。文章还探讨了新兴领导力风格、应对市场波动以及对年轻投资者的建议，揭示了该基金如何在复杂多变的市场中持续创造价值。
+tags:
+- ai-in-finance
+- corporate-culture
+- leadership-style
+- sovereign-wealth-fund
+- technology
+title: 挪威主权财富基金的成功秘诀：透明、长期与创新
 ---
+
 ### 欢迎与挪威主权财富基金的洞察
 
 **谢尔盖·古伊夫**（Sergey Guif: 伦敦商学院院长）致欢迎辞，并向在场嘉宾问好。

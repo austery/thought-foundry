@@ -1,49 +1,49 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: general
+companies_orgs:
+- 清华大学
+- 协和医院
+- 公安部
+- 马里兰大学
 date: '2024-02-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bones
+people:
+- 朱令
+- 贺敏
+- 柴静
+- 孙维
+- 陈正阳
+- Richard Ash
+- Bill McDowell
+- 王琪
+- 张力
+- 金雅
+- 童爱军
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Qe9L7p1rD4Q
 speaker: 柴静 Chai Jing
-tags:
-  - thallium-poisoning
-  - forensic-science
-  - unsolved-case
-  - scientific-analysis
-  - institutional-failure
-title: 朱令案：头发检测揭示的长期、反复中毒真相——专访华裔科学家贺敏
-summary: 本篇专访深入探讨了华裔科学家贺敏博士团队对朱令头发样本的突破性检测结果。研究发现，朱令并非一次性中毒，而是遭受了至少25次、长达数月的反复铊中毒，且体内还检测到铅。贺敏博士详细解释了激光消融电感耦合等离子体质谱技术如何重建中毒过程，并回应了关于中毒途径、时间点及铅来源的争议。此次检测为朱令案提供了前所未有的科学证据，也引发了对案件侦查和相关机构责任的深刻反思。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 朱令
-  - 贺敏
-  - 柴静
-  - 孙维
-  - 陈正阳
-  - Richard Ash
-  - Bill McDowell
-  - 王琪
-  - 张力
-  - 金雅
-  - 童爱军
-companies_orgs:
-  - 清华大学
-  - 协和医院
-  - 公安部
-  - 马里兰大学
-products_models: []
-media_books:
-  - Bones
 status: evergreen
+summary: 本篇专访深入探讨了华裔科学家贺敏博士团队对朱令头发样本的突破性检测结果。研究发现，朱令并非一次性中毒，而是遭受了至少25次、长达数月的反复铊中毒，且体内还检测到铅。贺敏博士详细解释了激光消融电感耦合等离子体质谱技术如何重建中毒过程，并回应了关于中毒途径、时间点及铅来源的争议。此次检测为朱令案提供了前所未有的科学证据，也引发了对案件侦查和相关机构责任的深刻反思。
+tags:
+- analysis
+- failure
+- science
+- thallium-poisoning
+- unsolved-case
+title: 朱令案：头发检测揭示的长期、反复中毒真相——专访华裔科学家贺敏
 ---
+
 ### 朱令案：30年未解之谜与头发的证言
 
 2023年12月底，朱令去世。这位清华大学92届的学生，在21岁时被确诊为**铊中毒**（Thallium Poisoning: 一种由重金属铊引起的急性或慢性中毒，可导致多器官衰竭、神经系统损伤甚至死亡）。警方以投毒罪立案调查，但此后30年，直至朱令去世，此案仍未侦破。由于中毒，朱令的智力和表达能力都受到了严重影响，她无法指认嫌疑人或提供线索。然而，一个人的头发会“说话”，它能够记录重金属在人体中沉积的时间和过程，从而揭示过去发生了什么。

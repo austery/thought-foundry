@@ -1,32 +1,31 @@
 ---
-title: Levi's业绩强劲：消费者韧性、产品细分与关税应对策略
-summary: Levi's在强劲的季度表现后上调全年指引，得益于消费者韧性、有效的产品细分及国际市场增长。公司通过多元化供应链和产品创新来应对关税影响，并正向“丹宁生活方式”品牌转型。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- consumer-behavior
-- denim
-- levis
-- retail-strategy
-- tariffs
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=z1cZukh0oo8
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: Levi's在强劲的季度表现后上调全年指引，得益于消费者韧性、有效的产品细分及国际市场增长。公司通过多元化供应链和产品创新来应对关税影响，并正向“丹宁生活方式”品牌转型。
+tags:
+- consumer-behavior
+- denim
+- strategy
+- tariff
+- technology
+title: Levi's业绩强劲：消费者韧性、产品细分与关税应对策略
 ---
+
 ### 业绩强劲与消费者韧性
 
 Thanks for having me, Carolyn Bailey. It's great to be here again.

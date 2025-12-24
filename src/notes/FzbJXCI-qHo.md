@@ -1,38 +1,34 @@
 ---
-title: Figure 03：Figure AI第三代人形机器人，迈向通用、家庭与量产的整合探索
-summary: Figure 03是Figure AI第三代人形机器人，旨在实现通用性、家庭应用及全球规模化生产。它在硬件、软件、安全、量产等方面进行了彻底重构，是人形机器人从技术展示走向实用化的重要里程碑。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- commercial-robotics
-- figure-ai
-- helix-ai
-- home-automation
-- humanoid-robot
-- mass-production
-- robotics
-- sensory-systems
-- tactile-sensors
-- wireless-charging
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models:
-- figure-03
-media_books: []
 date: '2025-10-11'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- figure-03
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=FzbJXCI-qHo
+speaker: Best Partners TV
 status: evergreen
+summary: Figure 03是Figure AI第三代人形机器人，旨在实现通用性、家庭应用及全球规模化生产。它在硬件、软件、安全、量产等方面进行了彻底重构，是人形机器人从技术展示走向实用化的重要里程碑。
+tags:
+- business
+- commercial-robotic
+- home-automation
+- humanoid-robot
+- llm
+- robotic
+- system
+- tactile-sensor
+- technology
+title: Figure 03：Figure AI第三代人形机器人，迈向通用、家庭与量产的整合探索
 ---
+
 ### Figure 03：通用型人形机器人的新范式
 
 10月9日，Figure AI正式推出了其第三代人形机器人**Figure 03**。这款机器人从设计之初就瞄准了“真正的通用型机器人”目标，不仅能够像人类一样完成日常任务，还能够直接向人类学习。更关键的是，它同时兼顾了家庭使用、商业应用和大规模生产的能力。本文将拆解**Figure 03**的技术细节、应用场景，并探讨它对整个行业的意义，旨在让读者清晰了解这款机器人“强在哪”以及“是否值得期待”。

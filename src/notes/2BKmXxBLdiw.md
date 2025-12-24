@@ -1,31 +1,28 @@
 ---
-author: Anthony看世界
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-02-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Lyons-Ruth
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=2BKmXxBLdiw
 speaker: Anthony看世界
-tags:
-  - trauma-fascination
-  - implicit-memory
-  - explicit-memory
-  - intimate-relationships
-  - emotional-connection
-title: 理解却无法改变：创伤迷恋、内隐记忆与亲密关系中的疗愈之道
-summary: 本视频深入探讨了为何人们在有毒的亲密关系中，即使明知问题所在，却仍难以自拔。通过区分外显记忆和内隐记忆，特别是内隐关系认知，揭示了“道理都懂但没法改变”的深层心理机制。视频强调，真正的疗愈并非仅靠理论分析，而是通过建立真实健康的亲密关系，在情感协调和非语言互动中重塑固化的内隐认知，从而实现身心健康与个人成长。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Lyons-Ruth
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了为何人们在有毒的亲密关系中，即使明知问题所在，却仍难以自拔。通过区分外显记忆和内隐记忆，特别是内隐关系认知，揭示了“道理都懂但没法改变”的深层心理机制。视频强调，真正的疗愈并非仅靠理论分析，而是通过建立真实健康的亲密关系，在情感协调和非语言互动中重塑固化的内隐认知，从而实现身心健康与个人成长。
+tags:
+- emotional
+- memory
+- psychology
+- relationship
+title: 理解却无法改变：创伤迷恋、内隐记忆与亲密关系中的疗愈之道
 ---
 
 ### 创伤迷恋：为何“道理都懂却难以改变”？

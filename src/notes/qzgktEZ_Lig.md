@@ -1,31 +1,31 @@
 ---
-title: 《坏血》揭秘：伊丽莎白·霍尔姆斯与Theranos谎言帝国的崛起
-summary: 本文深入剖析伊丽莎白·霍尔姆斯如何利用其个人魅力与家族背景，通过系统性欺诈和偏执控制，将Theranos公司从一个90亿美元的独角兽推向惊天骗局的深渊，揭示了谎言如何战胜事实的硅谷故事。
 area: personal-growth
 category: culture
-project:
-- cultural-critique
-tags:
-- bad-blood-book
-- corporate-fraud
-- startup-culture
-- theranos-scandal
-people:
-- elizabeth-holmes
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-18'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bad-blood-book
+people:
+- elizabeth-holmes
+products_models: []
+project:
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=qzgktEZ_Lig
+speaker: 北美王路飞
 status: evergreen
+summary: 本文深入剖析伊丽莎白·霍尔姆斯如何利用其个人魅力与家族背景，通过系统性欺诈和偏执控制，将Theranos公司从一个90亿美元的独角兽推向惊天骗局的深渊，揭示了谎言如何战胜事实的硅谷故事。
+tags:
+- corporate-fraud
+- history
+- startup-culture
+title: 《坏血》揭秘：伊丽莎白·霍尔姆斯与Theranos谎言帝国的崛起
 ---
+
 ### 引言：硅谷神话的破灭
 
 伊丽莎白·霍尔姆斯（Elizabeth Holmes）曾是震惊硅谷乃至全世界的传奇人物。她以其独特的造型（常模仿史蒂夫·乔布斯，穿着黑色高领毛衣）、美女学霸的形象、19岁斯坦福大学辍学创业的经历，以及“颠覆血液检测行业的天才”标签而闻名。她创立的**Theranos**（一家曾估值高达90亿美元的血液检测公司）一度让她成为全球最年轻的白手起家亿万富翁。然而，这个看似冉冉升起的科技巨星最终轰然倒塌，从一个价值90亿美元的**独角兽**（Unicorn: 指估值达到10亿美元以上的未上市公司）变成了一个价值归零的惊天骗局，霍尔姆斯本人也因此锒铛入狱。

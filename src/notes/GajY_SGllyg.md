@@ -1,51 +1,51 @@
 ---
-author: 美投讲美股
+area: market-analysis
+category: finance
+companies_orgs:
+- Walmart
+- Target
+- Morgan Stanley
+- Goldman Sachs
+- Jefferies
+- Meta
+- Palantir
+- Microsoft
+- TSMC
 date: '2025-05-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《川普的软肋》
+people:
+- Donald Trump
+- Jerome Powell
+products_models:
+- PCE物价指数
+- CPI数据
+- ISM生产者价格指数
+- 消费者信心指数
+- ISM制造业PMI指数
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=GajY_SGllyg
 speaker: 美投讲美股
-tags:
-  - us-stock-market
-  - trade-war-impact
-  - inflation-outlook
-  - economic-indicators
-  - policy-uncertainty
-  - ai-investment
-title: 美股极限反转：市场分歧下的宏观风险与AI投资机遇
-summary: 美股在经历一个月前的崩盘后，迅速实现极限反转，三大股指反弹超10%。然而，市场分歧巨大，表面乐观的经济数据背后隐藏着通胀抬头、消费者信心不足和制造业衰退等风险。文章深入分析了关税政策带来的不确定性如何影响经济，并探讨了美联储在宏观恶化下的应对困境。最终，建议投资者将目光投向基本面优质的AI公司，以应对当前市场的不确定性，并指出Palantir作为具备避险属性的AI公司，值得关注。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Jerome Powell
-companies_orgs:
-  - Walmart
-  - Target
-  - Morgan Stanley
-  - Goldman Sachs
-  - Jefferies
-  - Meta
-  - Palantir
-  - Microsoft
-  - TSMC
-products_models:
-  - PCE物价指数
-  - CPI数据
-  - ISM生产者价格指数
-  - 消费者信心指数
-  - ISM制造业PMI指数
-media_books:
-  - 《川普的软肋》
 status: evergreen
+summary: 美股在经历一个月前的崩盘后，迅速实现极限反转，三大股指反弹超10%。然而，市场分歧巨大，表面乐观的经济数据背后隐藏着通胀抬头、消费者信心不足和制造业衰退等风险。文章深入分析了关税政策带来的不确定性如何影响经济，并探讨了美联储在宏观恶化下的应对困境。最终，建议投资者将目光投向基本面优质的AI公司，以应对当前市场的不确定性，并指出Palantir作为具备避险属性的AI公司，值得关注。
+tags:
+- ai-investment
+- economic-indicator
+- inflation-outlook
+- policy
+- trade-war-impact
+- us-stock-market
+title: 美股极限反转：市场分歧下的宏观风险与AI投资机遇
 ---
+
 ### 市场极限反转与分歧加剧
 
 大家好，我是美投君，你们的美股探路者。一个月前，美股的崩盘还历历在目。怎料，仅仅一个月的时间，市场竟发生了极限反转，三大股指纷纷反弹10%以上，不仅收复了川普解放日以来所有的跌幅，而且速度之快，达到了近5年来之最。

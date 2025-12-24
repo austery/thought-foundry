@@ -1,40 +1,40 @@
 ---
-author: AI超元域
+area: tech-insights
+category: technology
+companies_orgs:
+- Google
+- Antigravity
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- ''
+people:
+- ''
+products_models:
+- Cloud OP 4.5
+- Cloud Code
+- MCP
+- Superb
+project:
+- ai-impact-analysis
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=vz0-W3BwFQU
 speaker: AI超元域
-tags:
-  - ai-assisted-development
-  - multi-agent-systems
-  - mvp-prototyping
-  - code-restructuring
-  - automated-project-generation
-title: Antigravity + Cloud OP 4.5 实测：重构智能体与零开发宠物领养平台MVP
-summary: 本视频实测谷歌AI编程助手Antigravity集成Cloud OP 4.5模型，在不依赖被封的Cloud Code前提下，成功完成微软智能体框架重构与完整宠物领养平台MVP开发，验证其高效多智能体异步处理能力。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - knowledge-pipeline
-people:
-  - ''
-companies_orgs:
-  - Google
-  - Antigravity
-products_models:
-  - Cloud OP 4.5
-  - Cloud Code
-  - MCP
-  - Superb
-media_books:
-  - ''
 status: evergreen
+summary: 本视频实测谷歌AI编程助手Antigravity集成Cloud OP 4.5模型，在不依赖被封的Cloud Code前提下，成功完成微软智能体框架重构与完整宠物领养平台MVP开发，验证其高效多智能体异步处理能力。
+tags:
+- business
+- code
+- development
+- generation
+- system
+title: Antigravity + Cloud OP 4.5 实测：重构智能体与零开发宠物领养平台MVP
 ---
+
 ### Antigravity 与 Cloud OP 4.5 的集成背景
 
 谷歌近期在其AI编程助手Antigravity中，正式加入了对Cloud OP 4.5模型的支持。这一更新对大量因使用Cloud Code而遭遇封号的开发者而言具有重大意义。许多用户在注册Cloud官方账号后，往往在一天内就被限制访问，导致无法使用其核心AI编码能力。Antigravity的介入，使得开发者可以在不依赖被封禁的Cloud Code平台前提下，直接通过Antigravity调用Cloud OP 4.5模型，执行复杂的编程任务。

@@ -1,40 +1,39 @@
 ---
-author: Veritasium
-date: '2020-08-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jn5M48MVWyg
-speaker: Veritasium
-tags:
-  - veritasium
-  - dust-composition
-  - skin-shedding
-  - urban-legends
-  - scientific-research
-  - information-literacy
-title: 灰尘的真相：它主要是死皮吗？
-summary: 本文深入探讨了关于家庭灰尘成分的常见误解，特别是“灰尘主要由死皮组成”的说法。通过科学研究和数据分析，揭示了灰尘的真实构成，包括死皮细胞、纤维、花粉等，并探讨了人体皮肤脱落的机制和数量。同时，文章还分享了如何利用Google等工具进行有效研究，以辨别信息真伪的方法。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - systems-thinking
-  - knowledge-pipeline
-people:
-  - Johanna van Brunswick
+category: general
 companies_orgs:
-  - Google
-  - Live Science
-  - BBC Science magazine
-  - International Standardization Organization
-products_models:
-  - Google Scholar
+- Google
+- Live Science
+- BBC Science magazine
+- International Standardization Organization
+date: '2020-08-18'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - House Dust Biology
+- House Dust Biology
+people:
+- Johanna van Brunswick
+products_models:
+- Google Scholar
+project:
+- systems-thinking
+- knowledge-pipeline
+series: ''
+source: https://www.youtube.com/watch?v=jn5M48MVWyg
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了关于家庭灰尘成分的常见误解，特别是“灰尘主要由死皮组成”的说法。通过科学研究和数据分析，揭示了灰尘的真实构成，包括死皮细胞、纤维、花粉等，并探讨了人体皮肤脱落的机制和数量。同时，文章还分享了如何利用Google等工具进行有效研究，以辨别信息真伪的方法。
+tags:
+- geopolitical
+- information
+- scientific
+- skin-shedding
+- urban
+title: 灰尘的真相：它主要是死皮吗？
 ---
+
 ### 灰尘之谜：它从何而来？
 
 这是我大学毕业时的样子。总之，今天我正在收拾房间，简直脏得令人作呕。到处都是灰尘，这个地方积攒的灰尘量简直令人难以置信，太不真实了。

@@ -1,45 +1,45 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- National Academy of Engineering
+- IMF
+- IEA
+- European Commission
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Inconvenient Truth
+people:
+- Christine Lagarde
+- Al Gore
+- Kristin Halvorsen
+- Donald Trump
+- Cristalina Georgieva
+- President Lula
+products_models: []
+project:
+- geopolitics-watch
+- investment-strategy
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=pFt4DGVvhV8
 speaker: Norges Bank Investment Management
-tags:
-  - climate-action
-  - energy-transition
-  - fossil-fuel-subsidies
-  - private-sector-investment
-  - electricity-grids
-title: 加速气候行动：私营资本、电网现代化与全球合作的挑战
-summary: 本次小组讨论聚焦于如何加速全球气候行动，强调了私营部门投资的关键作用，以及电网现代化和能源转型的紧迫性。与会者探讨了化石燃料补贴的取消、碳边境调节机制的潜力，以及在面对地缘政治挑战（如对中国供应链的依赖）时，如何通过国际合作和政策制定来推动绿色转型。讨论还触及了民主危机对气候行动的影响，并呼吁年轻一代积极参与，共同应对气候变化带来的多元危机。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - investment-strategy
-  - china-analysis
-people:
-  - Christine Lagarde
-  - Al Gore
-  - Kristin Halvorsen
-  - Donald Trump
-  - Cristalina Georgieva
-  - President Lula
-companies_orgs:
-  - Norges Bank Investment Management
-  - National Academy of Engineering
-  - IMF
-  - IEA
-  - European Commission
-products_models: []
-media_books:
-  - The Inconvenient Truth
 status: evergreen
+summary: 本次小组讨论聚焦于如何加速全球气候行动，强调了私营部门投资的关键作用，以及电网现代化和能源转型的紧迫性。与会者探讨了化石燃料补贴的取消、碳边境调节机制的潜力，以及在面对地缘政治挑战（如对中国供应链的依赖）时，如何通过国际合作和政策制定来推动绿色转型。讨论还触及了民主危机对气候行动的影响，并呼吁年轻一代积极参与，共同应对气候变化带来的多元危机。
+tags:
+- climate
+- energy-transition
+- environment
+- investment
+- society
+title: 加速气候行动：私营资本、电网现代化与全球合作的挑战
 ---
+
 ### 加速气候行动的紧迫性与挑战
 
 我有很多问题，但我想我只提一个主要问题，因为你们都告诉了我们所需的一切，我们也知道需要什么，并且我们知道我们正朝着正确的方向前进，无论是在欧洲还是在美国（尽管美国进展不大，但特朗普能造成的损害是有限的）。然而，我们需要加快速度。那么，我们应该怎么做才能加速呢？拉加德女士，请您先发言。

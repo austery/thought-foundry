@@ -1,47 +1,47 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Otis
+- Norges Bank Investment Management
+- United Technologies
+- Carrier
+- NASDAQ
+- Schindler
+- Tiss Con
 date: '2025-05-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Radical Uncertainty
+- The Power of Us
+people:
+- Judy Marks
+- Nicolai Tangen
+- Tony Malcin
+- Adena Friedman
+- Elijah Otis
+- Ben Franklin
+products_models: []
+project:
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=4_RpJEsuUU4
 speaker: Norges Bank Investment Management
-tags:
-  - elevator-industry
-  - service-business
-  - corporate-culture
-  - leadership-principles
-  - digital-transformation
-title: 奥的斯CEO Judy Marks访谈：电梯行业的创新、文化与领导力
-summary: 本期播客采访了奥的斯（Otis）总裁兼首席执行官Judy Marks，深入探讨了电梯行业的独特之处、奥的斯作为全球领先企业的运营策略。Marks女士分享了公司在安全、服务、技术创新（如物联网连接电梯）方面的努力，以及如何应对人口结构变化带来的机遇。她还详细阐述了奥的斯从联合技术公司分拆后的文化转型、对员工（特别是44,000名机械师）的重视，以及她作为领导者在制定战略、风险管理和保持乐观方面的核心原则。此次访谈揭示了一个百年老店如何在不断变化的世界中保持活力和增长。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Judy Marks
-  - Nicolai Tangen
-  - Tony Malcin
-  - Adena Friedman
-  - Elijah Otis
-  - Ben Franklin
-companies_orgs:
-  - Otis
-  - Norges Bank Investment Management
-  - United Technologies
-  - Carrier
-  - NASDAQ
-  - Schindler
-  - Tiss Con
-products_models: []
-media_books:
-  - Radical Uncertainty
-  - The Power of Us
 status: evergreen
+summary: 本期播客采访了奥的斯（Otis）总裁兼首席执行官Judy Marks，深入探讨了电梯行业的独特之处、奥的斯作为全球领先企业的运营策略。Marks女士分享了公司在安全、服务、技术创新（如物联网连接电梯）方面的努力，以及如何应对人口结构变化带来的机遇。她还详细阐述了奥的斯从联合技术公司分拆后的文化转型、对员工（特别是44,000名机械师）的重视，以及她作为领导者在制定战略、风险管理和保持乐观方面的核心原则。此次访谈揭示了一个百年老店如何在不断变化的世界中保持活力和增长。
+tags:
+- business
+- corporate-culture
+- digital-transformation
+- industry
+- leadership-principle
+title: 奥的斯CEO Judy Marks访谈：电梯行业的创新、文化与领导力
 ---
+
 ### 奥的斯：连接世界的百年品牌
 
 大家好，我是挪威**主权财富基金**（Sovereign Wealth Fund: 国家拥有的投资基金）的首席执行官Nicolai Tangen。今天，我很荣幸能与奥的斯（**Otis**：全球领先的电梯和自动扶梯制造商及服务提供商）的首席执行官兼总裁Judy Marks女士在一起。奥的斯是一家令人惊叹的公司，作为电梯和升降机制造商，他们每天在全球200个国家运送24亿人次。我认为Judy的领导力是创新和“以人为本”文化的杰出典范。非常欢迎您。

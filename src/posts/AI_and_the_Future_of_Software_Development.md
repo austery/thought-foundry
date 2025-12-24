@@ -1,28 +1,26 @@
 ---
-title: AI与软件开发的未来
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - 未来趋势
-  - 软件开发
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-06-07'
+area: tech-engineering
 author: Lei
-speaker: PCC insider
+category: ai-ml
 channel: null
+companies_orgs: []
+date: '2025-06-07'
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: AI企业应用研讨会
 source: null
+speaker: PCC insider
+summary: null
+tags:
+- software-development
+- 未来趋势
+title: AI与软件开发的未来
 ---
+
 ## The Evolving Role of AI in Programming / 人工智能在编程中角色的演变
 
 One speaker initiated the discussion by questioning whether AI,

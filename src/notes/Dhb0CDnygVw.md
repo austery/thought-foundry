@@ -1,70 +1,70 @@
 ---
-author: LT視界
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- Meta
+- Nvidia
+- OpenAI
+- 香港房屋委员会
+- 巴拿马运河管理局
+- 香港长江河际实业有限公司
+- 美国黑石集团
+- 中原海运港口有限公司
+- 东方海外货柜航运公司
+- PSA国际港务集团
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《彭博社》
+- 《新华社》
+- 《香港电台》
+- 《北京日报》
+- 《路透社》
+- 《法新社》
+- 《手术台上的日本》
+people:
+- Donald Trump
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Mike Pompeo
+- Jared Kushner
+- Brian Fitzpatrick
+- Don Bacon
+- Xi Jinping
+- 李家超
+- 陈德烈
+- 徐放
+- 毛宁
+- Prema Wangchuk Dodul
+- Paul Krugman
+- William Pesek
+- 许春冈
+products_models:
+- 战斧导弹
+project:
+- china-analysis
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Dhb0CDnygVw
 speaker: LT視界
-tags:
-  - ai-chip-market
-  - economic-stagnation
-  - geopolitical-tensions
-  - wolf-warrior-diplomacy
-  - government-debt
-  - deflationary-pressure
-title: 中国经济“日本化”警示：从AI芯片到地缘政治的全球变局
-summary: 本期节目聚焦全球经济与地缘政治热点。探讨谷歌AI芯片突破对市场格局的影响，以及英国增税计划的经济挑战。乌克兰和平谈判因美国特使与俄方对话泄露而复杂化。节目还关注香港火灾暴露的住房问题、中国渔船事故瞒报，以及印度女子在上海机场被扣事件引发的中印外交风波。核心分析是中国长期利率首次低于日本，深入探讨中国经济“日本化”的风险，并引用克鲁格曼等学者的观点，揭示中国经济面临的深层结构性问题。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - us-analysis
-  - market-cycles
-people:
-  - Donald Trump
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - Mike Pompeo
-  - Jared Kushner
-  - Brian Fitzpatrick
-  - Don Bacon
-  - Xi Jinping
-  - 李家超
-  - 陈德烈
-  - 徐放
-  - 毛宁
-  - Prema Wangchuk Dodul
-  - Paul Krugman
-  - William Pesek
-  - 许春冈
-companies_orgs:
-  - Google
-  - Facebook
-  - Nvidia
-  - OpenAI
-  - 香港房屋委员会
-  - 巴拿马运河管理局
-  - 香港长江河际实业有限公司
-  - 美国黑石集团
-  - 中原海运港口有限公司
-  - 东方海外货柜航运公司
-  - PSA国际港务集团
-products_models:
-  - 战斧导弹
-media_books:
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《新华社》
-  - 《香港电台》
-  - 《北京日报》
-  - 《路透社》
-  - 《法新社》
-  - 《手术台上的日本》
 status: evergreen
+summary: 本期节目聚焦全球经济与地缘政治热点。探讨谷歌AI芯片突破对市场格局的影响，以及英国增税计划的经济挑战。乌克兰和平谈判因美国特使与俄方对话泄露而复杂化。节目还关注香港火灾暴露的住房问题、中国渔船事故瞒报，以及印度女子在上海机场被扣事件引发的中印外交风波。核心分析是中国长期利率首次低于日本，深入探讨中国经济“日本化”的风险，并引用克鲁格曼等学者的观点，揭示中国经济面临的深层结构性问题。
+tags:
+- ai-chip-market
+- economic-stagnation
+- financial
+- geopolitical-tension
+- government-debt
+- wolf-warrior-diplomacy
+title: 中国经济“日本化”警示：从AI芯片到地缘政治的全球变局
 ---
+
 ### 财经头条：AI芯片市场与英国增税计划
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月26日，我们首先来了解今天的财经头条，有两个方面的最新信息与网友分享。

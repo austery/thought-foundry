@@ -1,31 +1,29 @@
 ---
-title: 柏拉图式爱情的真谛：超越肉体的永恒追求
-summary: 本讲深入探讨柏拉图哲学中的“柏拉图式爱情”，揭示其并非简单的精神恋爱，而是人类对不朽的深层爱欲，通过肉体与灵魂的生育，最终攀升至对智慧与真理的爱，以实现灵魂的永恒。
 area: null
 category: null
-project: []
-tags:
-- ancient-greece
-- dialectic
-- eros
-- immortality
-- philosophy
-- platonic-love
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-28'
-author: 大问题Dialectic
-speaker: 大问题Dialectic
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qWcmbC_oDjE
+speaker: 大问题Dialectic
 status: evergreen
+summary: 本讲深入探讨柏拉图哲学中的“柏拉图式爱情”，揭示其并非简单的精神恋爱，而是人类对不朽的深层爱欲，通过肉体与灵魂的生育，最终攀升至对智慧与真理的爱，以实现灵魂的永恒。
+tags:
+- dialectic
+- ero
+- history
+- immortality
+- love
+- philosophy
+title: 柏拉图式爱情的真谛：超越肉体的永恒追求
 ---
+
 ### 重新审视柏拉图式爱情的定义
 
 在许多人看来，**柏拉图式爱情**（Platonic Love: 通常被误解为不涉及肉体关系的精神恋爱）就是指一种不涉及肉体关系的精神恋爱。然而，在柏拉图自己看来，所谓的柏拉图式爱情真的要求我们压抑性欲吗？本讲将深入探讨这一哲学大概念。柏拉图式爱情顾名思义是哲学家柏拉图提出的一种爱情观。我们今天许多人以讹传讹的理解是，男女之间只谈精神恋爱，但不能有肉体上的亲密行为。简单来说，柏拉图式爱情就是不涉及肉体关系的精神恋爱。但实际上，这个理解并不符合柏拉图的原意。柏拉图所描述的**爱欲**（Eros: 古希腊哲学中指一种强烈的欲望或冲动，通常与爱、激情和追求不朽相关）并不要求我们压抑自己的肉体欲望。本讲将阐明在柏拉图看来，“柏拉图式爱情”究竟是指什么。

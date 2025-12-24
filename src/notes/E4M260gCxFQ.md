@@ -1,49 +1,49 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- CBC Visual Investigations
+- Institute for Strategic Dialogue
+- Second Sons
+- Diagalon
+- Nationalist 13
+- Adamwaffen Division
+- Terror Collective
+- Canadian Security Intelligence Service
+- Stats Canada
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Unraveled
+- 'Origins: The Striking Rise of Right-wing Extremism'
+people:
+- Eric Sito
+- Steven Ray
+- Jeremy McKenzie
+- Matthew Althorp
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=E4M260gCxFQ
 speaker: TVO Today
-tags:
-  - white-nationalism
-  - right-wing-extremism
-  - hate-crimes
-  - social-media-polarization
-  - canadian-history
-title: 加拿大白人民族主义的兴起：历史根源、极端主义团体与社会影响
-summary: 本文深入探讨了加拿大白人民族主义的兴起及其背后的驱动因素。文章追溯了加拿大历史上排他性政策的根源，揭示了右翼极端主义团体（如“第二子”和“活跃俱乐部”）如何通过线上宣传和线下活动招募成员、煽动仇恨。专家指出，经济焦虑、社会变革以及社交媒体的算法放大效应共同加速了极端主义观点的传播和政治两极分化。文章强调了对仇恨犯罪上升的担忧，并呼吁社会采取积极措施应对这一日益严峻的威胁。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - Eric Sito
-  - Steven Ray
-  - Jeremy McKenzie
-  - Matthew Althorp
-companies_orgs:
-  - TVO Today
-  - CBC Visual Investigations
-  - Institute for Strategic Dialogue
-  - Second Sons
-  - Diagalon
-  - Nationalist 13
-  - Adamwaffen Division
-  - Terror Collective
-  - Canadian Security Intelligence Service
-  - Stats Canada
-products_models: []
-media_books:
-  - Unraveled
-  - 'Origins: The Striking Rise of Right-wing Extremism'
 status: evergreen
+summary: 本文深入探讨了加拿大白人民族主义的兴起及其背后的驱动因素。文章追溯了加拿大历史上排他性政策的根源，揭示了右翼极端主义团体（如“第二子”和“活跃俱乐部”）如何通过线上宣传和线下活动招募成员、煽动仇恨。专家指出，经济焦虑、社会变革以及社交媒体的算法放大效应共同加速了极端主义观点的传播和政治两极分化。文章强调了对仇恨犯罪上升的担忧，并呼吁社会采取积极措施应对这一日益严峻的威胁。
+tags:
+- history
+- right
+- social
+- society
+- white-nationalism
+title: 加拿大白人民族主义的兴起：历史根源、极端主义团体与社会影响
 ---
+
 ### 加拿大白人民族主义的抬头
 
 许多加拿大人喜欢认为，**白人民族主义**（White Nationalism: 一种认为白人是一个民族，并寻求维护白人多数地位和主导地位的意识形态）主要是一个边境以南的问题，但它在这里也正在抬头。

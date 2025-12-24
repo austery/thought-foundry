@@ -1,45 +1,44 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg
+- Boston Fed
+- Kansas City Fed
+- FOMC
+- Supreme Court
+- Harvard Center on Housing Studies
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+- 30 Rock
+people:
+- Tracy Alloway
+- Joe Weisenthal
+- Susan Collins
+- Tom Barkin
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=SzjWJA0glbI
 speaker: Bloomberg Podcasts
-tags:
-  - monetary-policy
-  - inflation-expectations
-  - labor-market-dynamics
-  - tariffs-economic-impact
-  - ai-employment-impact
-title: 波士顿联储主席柯林斯：降息需权衡通胀与就业风险，关税与AI影响深远
-summary: 波士顿联储主席苏珊·柯林斯在一次经济会议上讨论了当前美国经济面临的挑战。她强调美联储在价格稳定和最大就业双重使命间的权衡，指出劳动力市场疲软与持续高通胀并存的复杂局面。柯林斯还深入分析了关税对通胀的长期影响、人工智能对生产力和就业的潜在改变，以及住房负担能力问题。她认为，尽管经济存在不确定性，但美联储将继续密切关注数据，并致力于通过宏观环境的稳定来支持经济发展。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Susan Collins
-  - Tom Barkin
-companies_orgs:
-  - Bloomberg
-  - Boston Fed
-  - Kansas City Fed
-  - FOMC
-  - Supreme Court
-  - Harvard Center on Housing Studies
-products_models: []
-media_books:
-  - Odd Lots podcast
-  - 30 Rock
 status: evergreen
+summary: 波士顿联储主席苏珊·柯林斯在一次经济会议上讨论了当前美国经济面临的挑战。她强调美联储在价格稳定和最大就业双重使命间的权衡，指出劳动力市场疲软与持续高通胀并存的复杂局面。柯林斯还深入分析了关税对通胀的长期影响、人工智能对生产力和就业的潜在改变，以及住房负担能力问题。她认为，尽管经济存在不确定性，但美联储将继续密切关注数据，并致力于通过宏观环境的稳定来支持经济发展。
+tags:
+- impact
+- inflation-expectation
+- labor-market-dynamic
+- tariffs-economic-impact
+title: 波士顿联储主席柯林斯：降息需权衡通胀与就业风险，关税与AI影响深远
 ---
+
 ### 波士顿联储经济会议：全球变局下的美国经济
 
 欢迎收听新一期**Odd Lots**播客。我是Tracy Alloway。

@@ -1,72 +1,72 @@
 ---
-author: 小翠時政財經
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 发改委
+- 高盛
+- 日本央行
+- 日本维新会
+- 摩根大通
+- 美国银行
+- 美联储
+- 英特尔
+- 台积电
+- AMD
+- Nvidia
+- ByteDance
+- Alibaba
+- 腾讯
+- 宝洁
+- Target
+- 沃尔玛
+- 里根基金会
+- 世界贸易组织
 date: '2025-10-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- News Max
+- 彭博社
+- 福克斯新闻
+- NBC
+- BBC
+- CNBC
+people:
+- Xi Jinping
+- Donald Trump
+- 郑山杰
+- 高市早苗
+- Pat Gelsinger
+- 赵长鹏
+- 鲍威尔
+- Ronald Reagan
+- 弗里德里希·哈耶克
+products_models:
+- 豆包
+- 18A
+- 14A
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=5Zu_kC6FFDU
 speaker: 小翠時政財經
-tags:
-  - us-china-relations
-  - chinese-economic-policy
-  - global-market-trends
-  - intel-earnings
-  - cryptocurrency-regulation
-  - wealth-inequality
-title: 中美关系缓和与中国万亿产业规划：全球市场动态与英特尔财报深度解析
-summary: 本期节目深入探讨了2025年10月全球主要市场的动态。从中国A股受“十五五”规划利好，到中美关系因大豆订单和高层会晤而缓和，再到日本经济面临的挑战。节目还详细分析了英特尔财报表现、加密货币市场的政治化趋势，以及美国日益加剧的贫富差距。最后，主持人对加拿大与美国之间的贸易摩擦进行了评论，并回答了观众关于投资策略和个人经历的问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-  - Donald Trump
-  - 郑山杰
-  - 高市早苗
-  - Pat Gelsinger
-  - 赵长鹏
-  - 鲍威尔
-  - Ronald Reagan
-  - 弗里德里希·哈耶克
-companies_orgs:
-  - 发改委
-  - 高盛
-  - 日本央行
-  - 日本维新会
-  - 摩根大通
-  - 美国银行
-  - 美联储
-  - 英特尔
-  - 台积电
-  - AMD
-  - 英伟达
-  - 字节跳动
-  - 阿里巴巴
-  - 腾讯
-  - 宝洁
-  - Target
-  - 沃尔玛
-  - 里根基金会
-  - 世界贸易组织
-products_models:
-  - 豆包
-  - 18A
-  - 14A
-media_books:
-  - 《华尔街日报》
-  - News Max
-  - 彭博社
-  - 福克斯新闻
-  - NBC
-  - BBC
-  - CNBC
 status: evergreen
+summary: 本期节目深入探讨了2025年10月全球主要市场的动态。从中国A股受“十五五”规划利好，到中美关系因大豆订单和高层会晤而缓和，再到日本经济面临的挑战。节目还详细分析了英特尔财报表现、加密货币市场的政治化趋势，以及美国日益加剧的贫富差距。最后，主持人对加拿大与美国之间的贸易摩擦进行了评论，并回答了观众关于投资策略和个人经历的问题。
+tags:
+- chinese-economic-policy
+- earning
+- global-market-trend
+- regulation
+- us-china-relations
+- wealth-inequality
+title: 中美关系缓和与中国万亿产业规划：全球市场动态与英特尔财报深度解析
 ---
+
 大家好，欢迎回到小崔时政财经。今天是美东时间2025年10月24日。现在全世界都在关注习总和川总这对**CP**（Couple Pairing: 情侣搭档或配对），每天的故事都很精彩，像狗血连续剧一样。今天他们将呈现怎样的剧情呢？我们今天会展开来说。
 
 ### 全球市场概览与中国经济政策

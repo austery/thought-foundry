@@ -7,13 +7,11 @@ project:
 - cultural-critique
 tags:
 - ab-testing
-- data-science
-- experimentation-culture
+- culture
+- data
 - product-management
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-24
 author: Lei
 speaker: 课代表立正
@@ -25,6 +23,7 @@ series: null
 source: https://www.youtube.com/watch?v=9kh1YvzZYks
 status: evergreen
 ---
+
 大家好，今天就跟大家系统完整地讲解一下**A/B实验**（A/B Testing：一种包含两个变体A和B的随机对照实验），希望能帮助你直接达到A/B实验的最顶级认知。
 
 我为什么有这样的自信呢？因为我曾在亚马逊和Meta工作过，很早就意识到了A/B实验的作用，并制作了许多相关视频。我现在所在的公司Statsig是市面上最领先的A/B实验软件或平台提供商，是一家SaaS公司，像OpenAI、Anthropic、Atlassian、Notion、Figma这样的公司都是我们的客户。我作为公司的Evangelist，工作内容不仅是与客户交流，还要和许多业界领袖进行学术和应用上的探讨。即使是像Lyft、DoorDash、Netflix这些非我们客户的公司，我个人也与他们有非常深度的交流。因此，我完全了解整个业界的水平以及我自己的水平。

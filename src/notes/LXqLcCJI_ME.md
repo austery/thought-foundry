@@ -1,41 +1,40 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Atlas Copco
+- Norges Bank Investment Management
+- ABB
+- Wahlberg Group
 date: '2024-05-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mats Rahmström
+- Roger Federer
+- Elon Musk
+products_models:
+- Microsoft Teams
+- Zoom
+project:
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=LXqLcCJI_ME
 speaker: Norges Bank Investment Management
-tags:
-  - corporate-culture
-  - decentralized-organization
-  - leadership-development
-  - continuous-improvement
-  - talent-management
-title: 阿特拉斯·科普柯前CEO Mats Rahmström谈企业文化、领导力与人才发展
-summary: 阿特拉斯·科普柯前首席执行官Mats Rahmström在播客中分享了公司独特而成功的企业文化。他深入探讨了权力下放、问责制、持续改进的理念，以及如何通过“使命”计划培养人才。Rahmström强调了面对面交流、从失败中学习的重要性，并阐述了他对工作与生活平衡、内部招聘、导师制以及斯堪的纳维亚领导模式的看法。他还分享了对优秀董事会和长期股东价值的见解。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Mats Rahmström
-  - Roger Federer
-  - Elon Musk
-companies_orgs:
-  - Atlas Copco
-  - Norges Bank Investment Management
-  - ABB
-  - Wahlberg Group
-products_models:
-  - Microsoft Teams
-  - Zoom
-media_books: []
 status: evergreen
+summary: 阿特拉斯·科普柯前首席执行官Mats Rahmström在播客中分享了公司独特而成功的企业文化。他深入探讨了权力下放、问责制、持续改进的理念，以及如何通过“使命”计划培养人才。Rahmström强调了面对面交流、从失败中学习的重要性，并阐述了他对工作与生活平衡、内部招聘、导师制以及斯堪的纳维亚领导模式的看法。他还分享了对优秀董事会和长期股东价值的见解。
+tags:
+- business
+- corporate-culture
+- geopolitical
+- leadership-development
+- management
+title: 阿特拉斯·科普柯前CEO Mats Rahmström谈企业文化、领导力与人才发展
 ---
+
 ### 阿特拉斯·科普柯的卓越文化
 
 大家好，欢迎收听“In Good Company”播客。

@@ -1,46 +1,45 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 携程
+- '12306'
+- 飞猪
+- 美团
+- 微信
+- 同程旅行
+- 哈根达斯
 date: '2024-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 莊也
+products_models:
+- 和谐号
+- 复兴号
+- 上海交通卡APP
+- 北京玲珑通卡
+- iPhone
+- ChatGPT
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ZY0fL7d4W8U
 speaker: 莊也雜談
-tags:
-  - shanghai-travel
-  - urban-development
-  - high-speed-rail-china
-  - nanjing-road
-  - the-bund-night-cruise
-title: 二十年后再访上海：极简旅行攻略与城市变迁观察
-summary: 主持人庄也分享了2024年回国探亲系列中，时隔二十年重访上海的经历。文章详细介绍了上海作为中国现代化顶配城市的魅力，并提供了从北京出发的高铁购票、市中心民宿预订、以及两天一夜的紧凑旅行攻略。内容涵盖了南京路步行街的今昔对比、黄浦江夜游的震撼体验，以及对中国城市管理和高科技交通的观察与思考，展现了上海日新月异的变化。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 莊也
-companies_orgs:
-  - 携程
-  - '12306'
-  - 飞猪
-  - 美团
-  - 微信
-  - 同程旅行
-  - 哈根达斯
-products_models:
-  - 和谐号
-  - 复兴号
-  - 上海交通卡APP
-  - 北京玲珑通卡
-  - iPhone
-  - ChatGPT
-media_books: []
 status: evergreen
+summary: 主持人庄也分享了2024年回国探亲系列中，时隔二十年重访上海的经历。文章详细介绍了上海作为中国现代化顶配城市的魅力，并提供了从北京出发的高铁购票、市中心民宿预订、以及两天一夜的紧凑旅行攻略。内容涵盖了南京路步行街的今昔对比、黄浦江夜游的震撼体验，以及对中国城市管理和高科技交通的观察与思考，展现了上海日新月异的变化。
+tags:
+- china
+- nanjing-road
+- the-bund-night-cruise
+- travel
+- urban-development
+title: 二十年后再访上海：极简旅行攻略与城市变迁观察
 ---
+
 ### 重回上海：一座城市的二十年变迁
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊我2024年回国探亲的话题。上一集我们简单介绍了北京的颐和园、御河以及国贸**CBD**（Central Business District: 中央商务区）地区。今天，我们换一个城市，聊一聊我们去上海旅游的经历。

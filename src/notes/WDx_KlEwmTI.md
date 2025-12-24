@@ -1,41 +1,40 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: education
+companies_orgs:
+- 黑龙江省教育厅
+- 齐齐哈尔市
+- 大庆市
+- 牡丹江市
 date: '2025-07-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《中庸》
+people:
+- 李果
+- 朱一良
+- 王彦清
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=WDx_KlEwmTI
 speaker: 一席YiXi
-tags:
-  - educational-reform
-  - test-centric-education
-  - student-wellbeing
-  - talent-development
-  - rural-education
-title: 教育的另一条路：从应试深渊到目标引领的农村改革实践
-summary: 李果校长以40年农村教育经验，批判应试教育对多数学生的系统性伤害，提出以‘适合目标’为核心的素质教育体系——通过职业教育、体育艺术普及与自主学习，让每个孩子找到人生方向。
-insight: ''
-draft: true
-series: ''
-category: education
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - 李果
-  - 朱一良
-  - 王彦清
-companies_orgs:
-  - 黑龙江省教育厅
-  - 齐齐哈尔市
-  - 大庆市
-  - 牡丹江市
-products_models: []
-media_books:
-  - 《中庸》
 status: evergreen
+summary: 李果校长以40年农村教育经验，批判应试教育对多数学生的系统性伤害，提出以‘适合目标’为核心的素质教育体系——通过职业教育、体育艺术普及与自主学习，让每个孩子找到人生方向。
+tags:
+- development
+- education
+- educational-reform
+- psychology
+title: 教育的另一条路：从应试深渊到目标引领的农村改革实践
 ---
+
 ### 教育的伤痕：当分数成为唯一尺度
 
 我叫李果，来自黑龙江省泰来县大兴镇中心学校。从1985年参加工作至今，我已在农村教育一线坚守了整整40年。这四十年里，我只做了一件事：寻找一种能真正符合每个学生成长需要、也对得起教育者良知的教育。

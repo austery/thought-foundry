@@ -1,63 +1,63 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Federal Reserve
+- Google
+- Meta
+- Microsoft
+- Amazon
+- OpenAI
+- ServiceNow
+- CrowdStrike
+- SAP
+- KSA
+- Anthropic
+- Cursor
+- OpenEvidence
+- Appic
+- Average
+- Futu MoMo
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+people:
+- Jensen Huang
+- Mark Zuckerberg
+- Nick Timiraos
+- Jerome Powell
+products_models:
+- A-series
+- H-series
+- Blackwell
+- Hopper
+- MPP
+- Ruben
+- Facebook
+- Threads
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=DNdxI-oN2Ro
 speaker: 投资TALK君
-tags:
-  - nvidia-earnings
-  - ai-market-demand
-  - fed-monetary-policy
-  - non-farm-payrolls
-  - market-volatility
-title: 英伟达财报揭示AI强劲需求，美联储纪要与非农数据引市场波动
-summary: 本期节目深入分析了英伟达最新财报，强调其在AI领域的强劲增长和对未来需求的乐观指引，并探讨了AI应用落地的具体案例。同时，节目解读了美联储会议纪要，指出12月降息前景仍存分歧，并前瞻了即将公布的9月非农数据对市场预期的影响。节目提醒投资者在当前市场波动加剧时，应保持谨慎并适时调整投资策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Jensen Huang
-  - Mark Zuckerberg
-  - Nick Timiraos
-  - Jerome Powell
-companies_orgs:
-  - Nvidia
-  - Federal Reserve
-  - Google
-  - Meta
-  - Microsoft
-  - Amazon
-  - OpenAI
-  - ServiceNow
-  - CrowdStrike
-  - SAP
-  - KSA
-  - Anthropic
-  - Cursor
-  - OpenEvidence
-  - Appic
-  - Average
-  - Futu MoMo
-products_models:
-  - A-series
-  - H-series
-  - Blackwell
-  - Hopper
-  - MPP
-  - Ruben
-  - Facebook
-  - Threads
-media_books:
-  - Bloomberg
 status: evergreen
+summary: 本期节目深入分析了英伟达最新财报，强调其在AI领域的强劲增长和对未来需求的乐观指引，并探讨了AI应用落地的具体案例。同时，节目解读了美联储会议纪要，指出12月降息前景仍存分歧，并前瞻了即将公布的9月非农数据对市场预期的影响。节目提醒投资者在当前市场波动加剧时，应保持谨慎并适时调整投资策略。
+tags:
+- fed-monetary-policy
+- market
+- market-volatility
+- non
+- nvidia-earning
+title: 英伟达财报揭示AI强劲需求，美联储纪要与非农数据引市场波动
 ---
+
 ### 频道动态与线下活动预告
 
 各位观众大家好，欢迎来到一个接下去将要连续“逃课”三天的专业美股频道。我是市场分析小陶。因为我将要去美国的两个城市做几场线下的活动，分别是洛杉矶的两场和硅谷的两场。我其实非常期待，因为无论是亚洲行还是在亚洲行之前在加拿大做的两场线下活动，结果都非常的好，可以和大家有一个面对面非常充分的交流，最后也变成了一个投资的交流会。且很多观众来到现场之后也不愿意走，所以还是非常期待这一次接下去的美国行。而且在线下的时候，有些我们线上不太愿意聊的东西，我们在线下都可以聊。至于什么话题，大家如果了解我的话，应该心里有数。废话不多说，回到今天的主题。

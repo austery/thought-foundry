@@ -1,32 +1,28 @@
 ---
-title: Keith Rabois 深度解析AI、地缘政治与金融科技未来
-summary: Keith Rabois讨论了AI对国家未来的重要性、中东和平进程、特朗普的执政遗产，并深入分析了OpenAI与谷歌的竞争、AI时代的设备创新、传统科技巨头的挑战以及金融科技的机遇。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- geopolitics-watch
-tags:
-- ai
-- disruptive-innovation
-- economic-growth
-- fintech
-- geopolitics
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-16'
-author: a16z
-speaker: a16z
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- geopolitics-watch
 series: ''
 source: https://www.youtube.com/watch?v=Kw2bK_jLz8M
+speaker: a16z
 status: evergreen
+summary: Keith Rabois讨论了AI对国家未来的重要性、中东和平进程、特朗普的执政遗产，并深入分析了OpenAI与谷歌的竞争、AI时代的设备创新、传统科技巨头的挑战以及金融科技的机遇。
+tags:
+- economic-growth
+- fintech
+- innovation
+title: Keith Rabois 深度解析AI、地缘政治与金融科技未来
 ---
+
 ### AI与国家未来
 
 ChatGPT becomes a monopoly.

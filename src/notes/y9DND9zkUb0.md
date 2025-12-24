@@ -1,45 +1,45 @@
 ---
-author: 政經孫老師
+area: society-systems
+category: finance
+companies_orgs:
+- 联合国
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《政府论》
+- 《国富论》
+- 《关于财富的形成和分配的考察》
+- 《制度经济学》
+- 《21世纪资本论》
+people:
+- 约翰·洛克
+- 弗朗索瓦·奎奈
+- 杜尔哥
+- 亚当·斯密
+- 皮凯蒂
+- 约翰·康芒斯
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=y9DND9zkUb0
 speaker: 政經孫老師
-tags:
-  - wealth-creation
-  - property-rights
-  - labor-theory-of-value
-  - economic-cycles
-  - financialization
-title: 勤劳为何不富有？财富的源头是权利而非劳动，兼论经济周期的演变
-summary: 本文深入探讨了“勤劳而不富有”这一普遍现象背后的深层原因。作者指出，财富的根本前提是自由和权利，特别是对个人财产权的尊重。在缺乏财产权保障的集权国家，劳动无法创造真正的财富。文章还追溯了劳动价值理论的演变，从重农学派的农业劳动到工业时代的工业劳动，再到当前金融和科技主导的经济阶段。最终，作者强调当前经济已进入资本回报远超实际产出的“含泪投资”阶段，预示着经济周期的末尾和残酷的存量博弈。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - investment-strategy
-  - systems-thinking
-  - historical-insights
-people:
-  - 约翰·洛克
-  - 弗朗索瓦·奎奈
-  - 杜尔哥
-  - 亚当·斯密
-  - 皮凯蒂
-  - 约翰·康芒斯
-companies_orgs:
-  - 联合国
-products_models: []
-media_books:
-  - 《政府论》
-  - 《国富论》
-  - 《关于财富的形成和分配的考察》
-  - 《制度经济学》
-  - 《21世纪资本论》
 status: evergreen
+summary: 本文深入探讨了“勤劳而不富有”这一普遍现象背后的深层原因。作者指出，财富的根本前提是自由和权利，特别是对个人财产权的尊重。在缺乏财产权保障的集权国家，劳动无法创造真正的财富。文章还追溯了劳动价值理论的演变，从重农学派的农业劳动到工业时代的工业劳动，再到当前金融和科技主导的经济阶段。最终，作者强调当前经济已进入资本回报远超实际产出的“含泪投资”阶段，预示着经济周期的末尾和残酷的存量博弈。
+tags:
+- economic-cycle
+- financial
+- right
+- value
+- wealth
+title: 勤劳为何不富有？财富的源头是权利而非劳动，兼论经济周期的演变
 ---
+
 ### 引言：勤劳为何不富有？
 
 我们来讨论一个问题：为什么你勤劳但不富有？我相信这是很多网友的疑问，因为这是我们普遍面对的一个现实。现在有很多人非常勤奋，劳动强度非常高，但最终他们的财富状况却不理想，普遍陷入贫穷的状态。这样的事实情况与传统观念存在矛盾。我们从小到大，老师和家长都在教育我们“劳动最光荣”、“劳动能够创造财富”、“靠勤劳可以获得富裕”，但为什么这种教育与我们面对的现实相差如此巨大呢？这个问题很有意义。今天这一期节目，将深入解答这个疑问，解决这个矛盾。要仔细分析这个问题，需要将其拆分成两个部分：财富和劳动。

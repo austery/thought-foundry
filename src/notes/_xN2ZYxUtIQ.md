@@ -1,42 +1,41 @@
 ---
-author: 北美王路飞
+area: tech-insights
+category: technology
+companies_orgs:
+- NFI
+- Google
+- 马来西亚航空
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Thomas Bayes
+- Judea Pearl
+products_models:
+- Siri
+- Google Search
+- Xbox
+- Bonaparte
+- Turbo码
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=_xN2ZYxUtIQ
 speaker: 北美王路飞
-tags:
-  - bayesian-networks
-  - probabilistic-reasoning
-  - causal-inference
-  - cognitive-bias
-  - information-theory
-title: 贝叶斯网络：从体检报告到AI，理解概率如何重塑我们的世界
-summary: 本文深入探讨了贝叶斯定理及其在日常生活和尖端科技中的应用。从一个反直觉的体检报告案例出发，揭示了基础概率的重要性，并详细阐述了贝叶斯网络的链式、分叉和对撞结构。文章还讨论了贝叶斯网络的局限性（相关不等于因果）以及其在空难调查、手机通信和人工智能等领域的强大作用，最后提供了运用贝叶斯思维提升认知的实用建议。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Thomas Bayes
-  - Judea Pearl
-companies_orgs:
-  - NFI
-  - Google
-  - 马来西亚航空
-products_models:
-  - Siri
-  - Google Search
-  - Xbox
-  - Bonaparte
-  - Turbo码
-media_books: []
 status: evergreen
+summary: 本文深入探讨了贝叶斯定理及其在日常生活和尖端科技中的应用。从一个反直觉的体检报告案例出发，揭示了基础概率的重要性，并详细阐述了贝叶斯网络的链式、分叉和对撞结构。文章还讨论了贝叶斯网络的局限性（相关不等于因果）以及其在空难调查、手机通信和人工智能等领域的强大作用，最后提供了运用贝叶斯思维提升认知的实用建议。
+tags:
+- cognitive-bias
+- llm
+- network
+- philosophy
+- theory
+title: 贝叶斯网络：从体检报告到AI，理解概率如何重塑我们的世界
 ---
+
 ### 概率的直觉陷阱：体检报告的迷思
 
 想象一个场景：你刚刚度过了一个焦虑的星期，终于拿到了体检报告。翻开它，一个刺眼的词跳进了你的眼睛——“阳性”。你心里咯噔一下，赶紧往下看。报告上附着一小段说明文字：“本次检测是一种新型高效的筛查技术，准确率高达99%。”

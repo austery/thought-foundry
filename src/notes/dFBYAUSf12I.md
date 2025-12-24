@@ -1,40 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-02-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 全齡運動處方
+people:
+- 雯心医师
+- 徐栋英教官
+- 宋晏仁医师
+products_models:
+- Inbody
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=dFBYAUSf12I
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - menopausal-obesity
-  - hormone-balance
-  - strength-training
-  - aerobic-exercise
-  - healthy-diet
-  - insulin-resistance
-  - bone-health
-title: 更年期肥胖的运动与饮食策略：平衡荷尔蒙，逆转体态
-summary: 本期节目深入探讨了40岁后男女因荷尔蒙失衡导致的更年期肥胖问题。雯心医师与徐栋英教官共同分享了如何通过运动（如超慢跑、肌力训练）和饮食（211餐盘、高蛋白摄入）来平衡荷尔蒙、改善胰岛素敏感度、增加肌肉量、稳定骨质并提升整体生活品质。节目还提供了深蹲、伏地推撑、棒式等徒手训练示范，并强调了关键营养素如维生素D的重要性，为对抗更年期肥胖提供了全面且实用的解决方案。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 雯心医师
-  - 徐栋英教官
-  - 宋晏仁医师
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models:
-  - Inbody
-media_books:
-  - 全齡運動處方
 status: evergreen
+summary: 本期节目深入探讨了40岁后男女因荷尔蒙失衡导致的更年期肥胖问题。雯心医师与徐栋英教官共同分享了如何通过运动（如超慢跑、肌力训练）和饮食（211餐盘、高蛋白摄入）来平衡荷尔蒙、改善胰岛素敏感度、增加肌肉量、稳定骨质并提升整体生活品质。节目还提供了深蹲、伏地推撑、棒式等徒手训练示范，并强调了关键营养素如维生素D的重要性，为对抗更年期肥胖提供了全面且实用的解决方案。
+tags:
+- health
+- insulin-resistance
+- strength-training
+title: 更年期肥胖的运动与饮食策略：平衡荷尔蒙，逆转体态
 ---
+
 ### 荷尔蒙失衡与更年期肥胖的挑战
 
 **雯心医师:** 所以其实在**更年期肥胖**（Menopausal Obesity: 指因荷尔蒙变化导致的体重增加和脂肪重新分布）方面，男生女生都有一个共通的原因。男生的**睪固酮**（Testosterone: 一种主要的雄性激素，对肌肉量有重要影响）较高，所以他的肌肉量本来就比女生高。那女生为了孕育下一代，身体的脂肪比例就高。结果造成更年期以后呢，嗨大家好，我是雯心医师，欢迎回到**全齡運動處方**（一个关于全年龄段运动健康的节目系列）。你有没有发现40岁以后无论男女，身材越来越不受控呢？其实这都是荷尔蒙失衡的影响哦。所以我们今天很高兴地再次邀请了徐栋英教官来替我们谈谈，如何透过运动平衡荷尔蒙，对抗更年期的肥胖。让我们欢迎。

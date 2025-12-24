@@ -1,49 +1,50 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg Audio Studios
+- Partnership for New York
+- Quantier
+- Appaloosa Capital Management
+- NYPD
 date: '2025-07-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OddLots podcast
+- The New York Times
+people:
+- Zohran Mamdani
+- Bill de Blasio
+- Eric Adams
+- Kathy Wild
+- Ben Carlos Typen
+- Brandon Johnson
+- Michael Bloomberg
+- David Tepper
+- Crystal Ball Young
+- Jessica Tisch
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=sG4MOv6cbfQ
 speaker: Bloomberg Podcasts
-tags:
-  - housing-affordability
-  - rent-stabilization
-  - property-tax-reform
-  - urban-development
-  - political-economy
-title: 纽约房东为何最担心佐兰·马姆达尼？
-summary: 本期OddLots播客深入探讨了纽约市房地产行业对政治家佐兰·马姆达尼（Zohran Mamdani）住房政策提案的担忧。嘉宾本·卡洛斯·泰彭（Ben Carlos Typen）分析了租金冻结、物业税改革以及公共部门在私人市场中的角色等议题。他指出，尽管一些房东和开发商感到焦虑，但也有部分市场参与者看到了潜在的商机。播客还讨论了纽约市住房危机的结构性问题，以及政治言论与经济现实之间的差异，强调了适应新环境的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Zohran Mamdani
-  - Bill de Blasio
-  - Eric Adams
-  - Kathy Wild
-  - Ben Carlos Typen
-  - Brandon Johnson
-  - Michael Bloomberg
-  - David Tepper
-  - Crystal Ball Young
-  - Jessica Tisch
-companies_orgs:
-  - Bloomberg Audio Studios
-  - Partnership for New York
-  - Quantier
-  - Appaloosa Capital Management
-  - NYPD
-products_models: []
-media_books:
-  - OddLots podcast
-  - The New York Times
 status: evergreen
+summary: 本期OddLots播客深入探讨了纽约市房地产行业对政治家佐兰·马姆达尼（Zohran Mamdani）住房政策提案的担忧。嘉宾本·卡洛斯·泰彭（Ben
+  Carlos Typen）分析了租金冻结、物业税改革以及公共部门在私人市场中的角色等议题。他指出，尽管一些房东和开发商感到焦虑，但也有部分市场参与者看到了潜在的商机。播客还讨论了纽约市住房危机的结构性问题，以及政治言论与经济现实之间的差异，强调了适应新环境的重要性。
+tags:
+- housing-affordability
+- political-economy
+- reform
+- rent-stabilization
+- urban-development
+title: 纽约房东为何最担心佐兰·马姆达尼？
 ---
+
 ### 纽约市住房挑战的全球共鸣
 
 **Joe:** 大家好，欢迎收听新一期的**OddLots podcast**（OddLots播客：彭博社旗下专注于金融和经济的播客）。我是乔·魏森塔尔（Joe Weisenthal）。

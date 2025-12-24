@@ -6,12 +6,9 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-  - psychology
-  - 斯多葛主义
-people: []
+- psychology
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-05-25'
 author: Lei
 speaker: 大问题Dialectic
@@ -22,6 +19,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 **主讲人:** 大问题阿伦
 
 ## 区分 可控与不可控

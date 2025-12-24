@@ -1,50 +1,48 @@
 ---
-author: Veritasium
-date: '2024-11-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=zTDFhWWPZ4Q
-speaker: Veritasium
-tags:
-  - veritasium
-  - aviation-history
-  - radio-navigation
-  - communication-failure
-  - human-error
-  - physics-application
-title: 阿梅利亚·埃尔哈特失踪之谜：物理、导航与沟通的致命交织
-summary: 本文深入探讨了著名女飞行员阿梅利亚·埃尔哈特在1937年环球飞行中失踪的悲剧。通过分析一系列不幸事件、糟糕决策以及对物理和无线电系统知识的缺乏，揭示了导致其飞机坠毁太平洋的复杂原因。文章强调了知识、责任和有效沟通在挑战性任务中的关键作用，并详细解释了当时导航和无线电通信的技术原理及局限性。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Amelia Earhart
-  - Fred Noonan
-  - Harry Manning
-  - Eleanor Roosevelt
-  - Eugene Vidal
-  - President Roosevelt
-  - Heinrich Hertz
-  - Joseph Gurr
-  - Commander Thompson
-  - George Putnam
-  - Clifford
+category: general
 companies_orgs:
-  - KiwiCo
-  - US Navy
-  - Coast Guard
-  - Bureau of Commerce
+- KiwiCo
+- US Navy
+- Coast Guard
+- Bureau of Commerce
+date: '2024-11-20'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Amelia Earhart
+- Fred Noonan
+- Harry Manning
+- Eleanor Roosevelt
+- Eugene Vidal
+- President Roosevelt
+- Heinrich Hertz
+- Joseph Gurr
+- Commander Thompson
+- George Putnam
+- Clifford
 products_models:
-  - Lockheed Electra
-  - Adcock antenna array
-media_books: []
+- Lockheed Electra
+- Adcock antenna array
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=zTDFhWWPZ4Q
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了著名女飞行员阿梅利亚·埃尔哈特在1937年环球飞行中失踪的悲剧。通过分析一系列不幸事件、糟糕决策以及对物理和无线电系统知识的缺乏，揭示了导致其飞机坠毁太平洋的复杂原因。文章强调了知识、责任和有效沟通在挑战性任务中的关键作用，并详细解释了当时导航和无线电通信的技术原理及局限性。
+tags:
+- failure
+- history
+- human
+- radio-navigation
+- technology
+title: 阿梅利亚·埃尔哈特失踪之谜：物理、导航与沟通的致命交织
 ---
+
 ### 序言：一场注定的悲剧？
 
 1937年7月2日，当太阳升起时，阿梅利亚·埃尔哈特（Amelia Earhart: 美国著名女飞行员，首位独自飞越大西洋的女性）深知自己陷入了困境。她通过无线电呼叫：“我们一定就在你们上方，但看不到你们。燃油快耗尽了。无法通过无线电联系到你们。我们正以1000英尺的高度飞行。”在她下方，四面八方都是一望无际的海洋。

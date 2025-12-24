@@ -1,63 +1,62 @@
 ---
-author: a16z
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Plaid
+- Visa
+- Spark
+- Goldman Sachs
+- Andreessen Horowitz
+- Robinhood
+- SoFi
+- Affirm
+- Revolut
+- Nubank
+- WAN
+- Ford
+- John Deere
+- Rocket
+- JP Morgan
+- Moment
+- Salient
+- Modernify
+- LPL
+- GitHub
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Zach
+- David
+- Pier Paulo
+products_models:
+- Protect
+- Lens Score
+- Cursor
+- GitHub Copilot
+- Marcus
+- Orbit
+- USDC
+- Bitcoin
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=pDC8mIbjRgM
 speaker: a16z
-tags:
-  - fintech
-  - ai
-  - financial-fraud
-  - venture-capital
-  - digital-banking
-  - credit-scoring
-title: AI如何重塑金融科技：从繁荣到寒冬再到2026年的展望
-summary: 本期播客探讨了金融科技从2018年到2024年的演变历程，重点介绍了新冠疫情期间的繁荣、随后的“金融科技寒冬”以及当前的复苏。嘉宾强调了AI的双重影响：一方面推动金融欺诈，另一方面为提高效率和改善客户体验提供解决方案。他们还探讨了金融科技如何与金融服务融为一体、嵌入式金融的兴起，以及传统金融机构对AI日益增长的采纳。Plaid的发展历程、其反欺诈产品Protect和创新的Lens Score也进行了讨论，为2026年描绘了一幅乐观而谨慎的未来图景。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Zach
-  - David
-  - Pier Paulo
-companies_orgs:
-  - Plaid
-  - Visa
-  - Spark
-  - Goldman Sachs
-  - Andreessen Horowitz
-  - Robinhood
-  - SoFi
-  - Affirm
-  - Revolut
-  - Nubank
-  - WAN
-  - Ford
-  - John Deere
-  - Rocket
-  - JP Morgan
-  - Moment
-  - Salient
-  - Modernify
-  - LPL
-  - GitHub
-products_models:
-  - Protect
-  - Lens Score
-  - Cursor
-  - GitHub Copilot
-  - Marcus
-  - Orbit
-  - USDC
-  - Bitcoin
-media_books: []
 status: evergreen
+summary: 本期播客探讨了金融科技从2018年到2024年的演变历程，重点介绍了新冠疫情期间的繁荣、随后的“金融科技寒冬”以及当前的复苏。嘉宾强调了AI的双重影响：一方面推动金融欺诈，另一方面为提高效率和改善客户体验提供解决方案。他们还探讨了金融科技如何与金融服务融为一体、嵌入式金融的兴起，以及传统金融机构对AI日益增长的采纳。Plaid的发展历程、其反欺诈产品Protect和创新的Lens
+  Score也进行了讨论，为2026年描绘了一幅乐观而谨慎的未来图景。
+tags:
+- credit
+- digital
+- financial-fraud
+- fintech
+- venture-capital
+title: AI如何重塑金融科技：从繁荣到寒冬再到2026年的展望
 ---
+
 ### 金融科技的四季变迁
 
 2018年至2019年，金融科技领域正值晚春时节，行业发展势头良好，增长显著。彼时，金融科技作为一个独立行业已经有了自己的名称，这要归功于**David**在2015年创造的这一术语。我们看到无数创新涌现，例如**Robinhood**等应用迅速崛起，各种针对特定市场的**新银行**（Neo Bank: 纯数字银行，无实体分支机构）层出不穷，以及早期的加密货币应用也开始崭露头角。

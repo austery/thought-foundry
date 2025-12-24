@@ -1,46 +1,46 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: general
+companies_orgs:
+- 泽博律师事务所
+- 南方都市报
+- 凤凰卫视
+- 新华社
+- 腾讯
+- 大疆
+- 商汤科技
+- 江苏中烟
+- Boss直聘
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 中华秩序
+people:
+- 张雪峰
+- 周泽
+- 李佳琦
+- Xi Jinping
+- 李自成
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=PQJivsrriB8
 speaker: 三個水槍手
-tags:
-  - youth-unemployment
-  - civil-service-exam
-  - economic-downturn
-  - social-involution
-title: 改革开放以来最严峻的就业寒冬：中国年轻人的困境与出路
-summary: 本文深入探讨了中国年轻人正面临的严峻就业危机。从法律、新闻等行业的理想主义消退，到直播带货、报考公务员成为主流选择，文章揭示了经济下行压力下，年轻一代在价值观与生存现实间的挣扎。内容涵盖了“本科生倒读专科”、企业用工模式恶化、以及高校教师被迫“化缘”等社会现象，并最终就“润”、高风险投资或“躺平”等不同出路进行了多角度的讨论。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 张雪峰
-  - 周泽
-  - 李佳琦
-  - 习近平
-  - 李自成
-companies_orgs:
-  - 泽博律师事务所
-  - 南方都市报
-  - 凤凰卫视
-  - 新华社
-  - 腾讯
-  - 大疆
-  - 商汤科技
-  - 江苏中烟
-  - Boss直聘
-products_models: []
-media_books:
-  - 中华秩序
 status: evergreen
+summary: 本文深入探讨了中国年轻人正面临的严峻就业危机。从法律、新闻等行业的理想主义消退，到直播带货、报考公务员成为主流选择，文章揭示了经济下行压力下，年轻一代在价值观与生存现实间的挣扎。内容涵盖了“本科生倒读专科”、企业用工模式恶化、以及高校教师被迫“化缘”等社会现象，并最终就“润”、高风险投资或“躺平”等不同出路进行了多角度的讨论。
+tags:
+- civil-service-exam
+- economic-downturn
+- social
+- youth-unemployment
+title: 改革开放以来最严峻的就业寒冬：中国年轻人的困境与出路
 ---
+
 ### 引言：需要想象力面对的时代
 
 人需要有想象力，有战略纵深空间去思考。如果我们有足够的想象力，今天或许就不会维持忧郁。

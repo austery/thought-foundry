@@ -1,49 +1,49 @@
 ---
-author: 海伦子Hellen
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Baidu
+- Ford
+- BYD
+- Waymo
+- Cruise
+- General Motors
 date: '2024-05-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《埃隆·马斯克传记》
+- YouTube
+people:
+- Elon Musk
+- Joe Biden
+products_models:
+- Model Y
+- HW5
+- FSD Supervised
+- Optimus Robot
+- Robotaxi
+project:
+- investment-strategy
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=KltV1o1INe4
 speaker: 海伦子Hellen
-tags:
-  - tesla-stock-performance
-  - full-self-driving
-  - robotaxi-development
-  - ai-transformation
-  - china-market-strategy
-title: 特斯拉的AI转型、FSD进展与未来投资机遇
-summary: 本文深入分析了特斯拉从电动车公司向人工智能公司转型的战略布局，包括其第一季度财报表现、HW5硬件研发、Robotaxi和Optimus机器人的发展计划。文章还探讨了特斯拉在中国市场获得数据收集资格的意义、FSD技术从Beta版到AI神经网络的演进，以及自动驾驶在立法和社会接受度方面面临的挑战。作者分享了对特斯拉未来十年的看好，并强调了长期投资的“农民心态”和政治因素对股价的影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Elon Musk
-  - Joe Biden
-companies_orgs:
-  - Tesla
-  - Baidu
-  - Ford
-  - BYD
-  - Waymo
-  - Cruise
-  - General Motors
-products_models:
-  - Model Y
-  - HW5
-  - FSD Supervised
-  - Optimus Robot
-  - Robotaxi
-media_books:
-  - 《埃隆·马斯克传记》
-  - YouTube
 status: evergreen
+summary: 本文深入分析了特斯拉从电动车公司向人工智能公司转型的战略布局，包括其第一季度财报表现、HW5硬件研发、Robotaxi和Optimus机器人的发展计划。文章还探讨了特斯拉在中国市场获得数据收集资格的意义、FSD技术从Beta版到AI神经网络的演进，以及自动驾驶在立法和社会接受度方面面临的挑战。作者分享了对特斯拉未来十年的看好，并强调了长期投资的“农民心态”和政治因素对股价的影响。
+tags:
+- ai-transformation
+- development
+- full-self-driving
+- market
+- stock
+title: 特斯拉的AI转型、FSD进展与未来投资机遇
 ---
+
 ### 特斯拉的转型与投资逻辑
 
 如果你是在2019年以前入股特斯拉的，相信大部分现在都已经实现了**财务自由**（Financial Freedom: 指个人无需为金钱工作，资产收入足以支付生活开销的状态）或者是半躺平的状态了。因此，很多人也很期待特斯拉下一个阶段的发展。特斯拉从一个电动车公司过渡到能源公司，到现在逐步往AI公司转变，它股价的波动和未来的涨幅也一直有很多的争议。如果你不认为特斯拉可以实现**完全自动驾驶**（Full Self-Driving, FSD: 特斯拉开发的一种高级驾驶辅助系统，旨在实现车辆在无需人为干预下的自主行驶），你就不应该去投资它。这就像10年前不相信电动车会取代**燃油车**（Internal Combustion Engine Vehicle: 使用汽油或柴油等燃料驱动发动机的汽车）的人一样。这话不是我说的，是埃隆·马斯克自己说的，但我非常赞同。

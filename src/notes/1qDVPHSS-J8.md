@@ -1,90 +1,89 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Oracle
+- OpenAI
+- SpaceX
+- Nvidia
+- Broadcom
+- AMD
+- Google
+- Amazon
+- Tesla
+- Robin Hood
+- Rocket Lab
+- Snapchat
+- Disney
+- Microsoft
+- Meta
+- Apple
+- Fed
+- Deutsche Bank
+- JP Morgan
+- Goldman Sachs
+- Walmart
+- Costco
+- Netflix
+- SoFi
+- Micron
+- Carnival Cruise
+- Foxconn
+- TSMC
+- Hewlett Packard Enterprise (HPE)
+- Super Micro
+- ASML
+- Gigabyte
+- Quanta
+- Dell
+- Cooler Master
+- ABC
+- ARAS
+- Delta
+- Connect X7
+- Bluefield 3DPUs
 date: '2025-12-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+- Bloomberg
+people:
+- Donald Trump
+- Elon Musk
+- Sam Altman
+- Kevin Hassett
+- Greg Ael
+- Todd Combs
+- Jensen Huang
+- Chris
+- Matt
+- Steve
+products_models:
+- Gemini Flash
+- Blackwell GPU
+- Grace Blackwell
+- Ver Rubin
+project:
+- us-analysis
+- ai-impact-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=1qDVPHSS-J8
 speaker: Amit Kukreja
-tags:
-  - ai-capex-exhaustion
-  - end-of-year-rally
-  - inflation-narrative
-  - market-fragility
-  - retail-investor-power
-title: AI泡沫、SpaceX上市与年末市场博弈：2026年的经济转折点
-summary: 本期《Market Futures》深入剖析AI行业产能焦虑、SpaceX高达8000亿美元的IPO预期，以及特朗普政府政策对通胀与利率的影响。主持人指出市场正面临‘AI叙事疲劳’，而年末的经济数据与美联储动向将成为决定2026年牛市能否延续的关键。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Donald Trump
-  - Elon Musk
-  - Sam Altman
-  - Kevin Hassett
-  - Greg Ael
-  - Todd Combs
-  - Jensen Huang
-  - Chris
-  - Matt
-  - Steve
-companies_orgs:
-  - Oracle
-  - OpenAI
-  - SpaceX
-  - Nvidia
-  - Broadcom
-  - AMD
-  - Google
-  - Amazon
-  - Tesla
-  - Robin Hood
-  - Rocket Lab
-  - Snapchat
-  - Disney
-  - Microsoft
-  - Meta
-  - Apple
-  - Fed
-  - Deutsche Bank
-  - JP Morgan
-  - Goldman Sachs
-  - Walmart
-  - Costco
-  - Netflix
-  - SoFi
-  - Micron
-  - Carnival Cruise
-  - Foxconn
-  - TSMC
-  - Hewlett Packard Enterprise (HPE)
-  - Super Micro
-  - ASML
-  - Gigabyte
-  - Quanta
-  - Dell
-  - Cooler Master
-  - ABC
-  - ARAS
-  - Delta
-  - Connect X7
-  - Bluefield 3DPUs
-products_models:
-  - Gemini Flash
-  - Blackwell GPU
-  - Grace Blackwell
-  - Ver Rubin
-media_books:
-  - The Wall Street Journal
-  - Bloomberg
 status: evergreen
+summary: 本期《Market Futures》深入剖析AI行业产能焦虑、SpaceX高达8000亿美元的IPO预期，以及特朗普政府政策对通胀与利率的影响。主持人指出市场正面临‘AI叙事疲劳’，而年末的经济数据与美联储动向将成为决定2026年牛市能否延续的关键。
+tags:
+- inflation-narrative
+- llm
+- market
+- power
+- technology
+title: AI泡沫、SpaceX上市与年末市场博弈：2026年的经济转折点
 ---
+
 ### AI行业产能焦虑与年末市场博弈
 
 本周，市场经历了一场由AI基础设施新闻引发的剧烈波动。Oracle发布声明澄清，其与OpenAI合作的数据中心项目并未出现延期，所有里程碑均按计划推进。然而，市场对此反应冷淡——此前由媒体渲染的“延期”传闻已导致科技股集体下跌，显示出投资者对AI行业巨额资本开支（capex）的普遍焦虑。这种情绪并非针对单一公司，而是对整个AI产业链能否持续支撑其高昂估值的系统性担忧。市场开始质疑：当所有公司都在竞相建设数据中心时，实际需求能否跟上？这种“AI叙事疲劳”正在侵蚀市场的信心。

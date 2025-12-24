@@ -1,74 +1,74 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Fox News
+- The Economist
+- Reuters
+- Bloomberg
+- Wall Street Journal
+- Sky News
+- CCTV
+- Xinhua News Agency
+- Ministry of Foreign Affairs of the People's Republic of China
+- United Nations
+- G20
+- NATO
+- Communist Party of China
+- Guangming Daily
+- Yutong
+- APT31
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《光明日报》
+- 《日经新闻》
+- 《华尔街日报》
+- 《经济学人》
+- 《路透社》
+- 《彭博社》
+- 《天空新闻》
+people:
+- Donald Trump
+- Volodymyr Zelenskyy
+- Vladimir Putin
+- Sergei Lavrov
+- Jared Kushner
+- Dmitry Dmitriev
+- Rustem Umerov
+- Marco Rubio
+- Boris Johnson
+- Xi Jinping
+- Fu Cong
+- Kobayashi Tomohiro
+- 高市早苗
+- Carlos Vova
+products_models:
+- Javelin
+- Storm Shadow
+- Mirage 2000
+- 5G
+project:
+- us-analysis
+- geopolitics-watch
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=CXIwfsplAM0
 speaker: LT視界
-tags:
-  - ukraine-peace-plan
-  - us-foreign-policy
-  - geopolitical-strategy
-  - cyber-espionage
-  - public-opinion-control
-title: 川普乌克兰和平计划引发国际震荡：美俄密谈、欧洲无奈与西方内部分歧
-summary: 本文深入探讨川普政府提出的乌克兰28点和平计划及其引发的国际反响。从美俄秘密会晤、乌克兰面临的最后通牒，到欧洲盟友的挣扎与西方内部的激烈争论，揭示了该计划对地缘政治格局的深远影响。同时，文章还分析了中国在对日关系、国内宣传以及网络安全领域的最新动态，并探讨了中俄互信的深层矛盾。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - china-analysis
-people:
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Vladimir Putin
-  - Sergei Lavrov
-  - Jared Kushner
-  - Dmitry Dmitriev
-  - Rustem Umerov
-  - Marco Rubio
-  - Boris Johnson
-  - Xi Jinping
-  - Fu Cong
-  - Kobayashi Tomohiro
-  - 高市早苗
-  - Carlos Vova
-companies_orgs:
-  - Fox News
-  - The Economist
-  - Reuters
-  - Bloomberg
-  - Wall Street Journal
-  - Sky News
-  - CCTV
-  - Xinhua News Agency
-  - Ministry of Foreign Affairs of the People's Republic of China
-  - United Nations
-  - G20
-  - NATO
-  - Communist Party of China
-  - Guangming Daily
-  - Yutong
-  - APT31
-products_models:
-  - Javelin
-  - Storm Shadow
-  - Mirage 2000
-  - 5G
-media_books:
-  - 《光明日报》
-  - 《日经新闻》
-  - 《华尔街日报》
-  - 《经济学人》
-  - 《路透社》
-  - 《彭博社》
-  - 《天空新闻》
 status: evergreen
+summary: 本文深入探讨川普政府提出的乌克兰28点和平计划及其引发的国际反响。从美俄秘密会晤、乌克兰面临的最后通牒，到欧洲盟友的挣扎与西方内部的激烈争论，揭示了该计划对地缘政治格局的深远影响。同时，文章还分析了中国在对日关系、国内宣传以及网络安全领域的最新动态，并探讨了中俄互信的深层矛盾。
+tags:
+- geopolitical-strategy
+- public-opinion-control
+- technology
+- ukraine-peace-plan
+- us-foreign-policy
+title: 川普乌克兰和平计划引发国际震荡：美俄密谈、欧洲无奈与西方内部分歧
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月22日。
 
 ### 川普乌克兰和平计划：最后通牒与各方反应

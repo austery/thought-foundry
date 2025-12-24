@@ -1,62 +1,52 @@
 ---
-author: "Lei"
-date: "2025-11-15"
-guest: ''
-layout: "post.njk"
-source: "https://www.youtube.com/watch?v=ExLFkG1ny1s"
-speaker: ''
-title: "AI 编程的进化：从 Copilot 1.0 到 Tree 的 3.0 智能体愿景"
-summary: "Tree 负责人师洋深入探讨了 AI 编程工具的演进历程，从 Copilot 的代码补全（1.0）到 Cursor 的 IDE 深度集成（2.0），再到 Tree (Solo) 提出的 3.0 愿景。他认为，未来的核心挑战已从“编写”转向“审核”，AI 需要一个统一的界面来调度 IDE、浏览器等多工具，以解决专业开发者在完整开发流程中的上下文丢失和高效迭代问题。"
-
-area: "tech-insights"
-
-category: "technology"
-
-project:
-  - "ai-impact-analysis"
-
-tags:
-  - "ai-coding"
-  - "agentic-workflow"
-  - "ide"
-  - "context-window"
-  - "developer-tools"
-
-people:
-  - 师洋
-  - Angelika Parsi
-  - 课代表立正
-
+area: tech-engineering
+author: Lei
+category: ai-ml
 companies_orgs:
-  - "Tree"
-  - "Microsoft"
-  - "Google"
-  - "Facebook"
-  - "Tencent"
-  - "TikTok"
-  - "Anthropic"
-
-products_models:
-  - "Copilot"
-  - "Cloud Code"
-  - "Cursor"
-  - "Claude"
-  - "Solo"
-  - "Menace"
-  - "Devon"
-  - "GPT-5"
-  - "ChatGPT"
-  - "VS Code"
-  - "Figma"
-  - "Photoshop"
-  - "剪映"
-  - "VI"
-  - "EMAC"
-
-media_books: []
-
+- Tree
+- Microsoft
+- Google
+- Meta
+- Tencent
+- TikTok
+- Anthropic
+date: '2025-11-15'
 draft: true
-status: "evergreen"
+guest: ''
+layout: post.njk
+people:
+- 师洋
+- Angelika Parsi
+- 课代表立正
+products_models:
+- Copilot
+- Cloud Code
+- Cursor
+- Claude
+- Solo
+- Menace
+- Devon
+- GPT-5
+- ChatGPT
+- VS Code
+- Figma
+- Photoshop
+- 剪映
+- VI
+- EMAC
+project:
+- ai-impact-analysis
+source: https://www.youtube.com/watch?v=ExLFkG1ny1s
+speaker: ''
+status: evergreen
+summary: Tree 负责人师洋深入探讨了 AI 编程工具的演进历程，从 Copilot 的代码补全（1.0）到 Cursor 的 IDE 深度集成（2.0），再到
+  Tree (Solo) 提出的 3.0 愿景。他认为，未来的核心挑战已从“编写”转向“审核”，AI 需要一个统一的界面来调度 IDE、浏览器等多工具，以解决专业开发者在完整开发流程中的上下文丢失和高效迭代问题。
+tags:
+- developer-tool
+- ide
+- llm
+- technology
+title: AI 编程的进化：从 Copilot 1.0 到 Tree 的 3.0 智能体愿景
 ---
 
 ## 介绍：世界第二大的 AI 编程工具

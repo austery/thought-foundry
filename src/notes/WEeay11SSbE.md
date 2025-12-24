@@ -1,46 +1,46 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Academia Sinica
+- Hebrew University of Jerusalem
 date: '2023-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《资本论》
+- 《卡利班与女巫：女人身体与原始积累》
+- 《女巫之锤》
+people:
+- Karl Marx
+- Silvia Federici
+- Wu Jianmin
+- Benjamin Z. Kedar
+- Geoffrey Chaucer
+- John Ball
+- Dong Jingquan
+- Francis Bacon
+- James I
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=WEeay11SSbE
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - primitive-accumulation
-  - witch-hunts
-  - gender-division-of-labor
-  - capitalism-origins
-  - population-control
-title: 以女代赈：女性身体与资本主义原始积累的隐秘拼图
-summary: 本文深入探讨了西尔维娅·费德里奇的《卡利班与女巫》，挑战了马克思关于资本主义原始积累的传统解释。文章指出，15至17世纪欧洲的女巫猎杀并非简单的宗教狂热，而是国家为增加人口、控制女性生育与劳动能力而推行的政治运动。通过将女性贬低、压制并将其劳动非市场化，资本主义得以降低男性劳工的必要劳动成本，从而顺利完成原始积累，奠定现代“社畜秩序”的基础。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Karl Marx
-  - Silvia Federici
-  - Wu Jianmin
-  - Benjamin Z. Kedar
-  - Geoffrey Chaucer
-  - John Ball
-  - Dong Jingquan
-  - Francis Bacon
-  - James I
-companies_orgs:
-  - Academia Sinica
-  - Hebrew University of Jerusalem
-products_models: []
-media_books:
-  - 《资本论》
-  - 《卡利班与女巫：女人身体与原始积累》
-  - 《女巫之锤》
 status: evergreen
+summary: 本文深入探讨了西尔维娅·费德里奇的《卡利班与女巫》，挑战了马克思关于资本主义原始积累的传统解释。文章指出，15至17世纪欧洲的女巫猎杀并非简单的宗教狂热，而是国家为增加人口、控制女性生育与劳动能力而推行的政治运动。通过将女性贬低、压制并将其劳动非市场化，资本主义得以降低男性劳工的必要劳动成本，从而顺利完成原始积累，奠定现代“社畜秩序”的基础。
+tags:
+- canada
+- control
+- investment
+- labor
+- witch-hunt
+title: 以女代赈：女性身体与资本主义原始积累的隐秘拼图
 ---
+
 ### 马克思的“薪水劳工”与资本积累
 
 在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究发现。如果有一天，你穿越回古代，有人问你：“喂，现代仔好开吗？现代仔，你所谓的现代和这个你眼中的古代世界相比，最本质的差别是什么？”你会怎么回答他呢？19世纪的时候，许多西方学者试着回答这道难题，其中一个人的答案产生了特别巨大的影响力，这个人就是《资本论》的作者卡尔·马克思。

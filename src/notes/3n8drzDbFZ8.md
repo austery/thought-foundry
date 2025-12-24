@@ -1,33 +1,32 @@
 ---
-title: 全球经济与地缘政治：中美贸易战下的多方博弈
-summary: 本期节目深入剖析了美国金融监管、美联储货币政策、川普政府的外交与贸易策略，以及中日关系和中美商业联系。同时，也探讨了新加坡基金起诉中国电动车企业事件，并分析了中美贸易战中双方的策略与互动，揭示了当下复杂多变的国际局势。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- china-us-trade
-- global-politics
-- rare-earth-elements
-- stablecoin-regulation
-- us-economy
-people:
-- lt
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-16'
-author: LT視界
-speaker: LT視界
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- lt
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=3n8drzDbFZ8
+speaker: LT視界
 status: evergreen
+summary: 本期节目深入剖析了美国金融监管、美联储货币政策、川普政府的外交与贸易策略，以及中日关系和中美商业联系。同时，也探讨了新加坡基金起诉中国电动车企业事件，并分析了中美贸易战中双方的策略与互动，揭示了当下复杂多变的国际局势。
+tags:
+- china
+- politics
+- rare-earth-element
+- regulation
+- us-economy
+title: 全球经济与地缘政治：中美贸易战下的多方博弈
 ---
+
 ### 美国财经头条：稳定币监管、银行财报与美联储政策
 
 **稳定币监管与风险**

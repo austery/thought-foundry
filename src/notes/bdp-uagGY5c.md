@@ -1,30 +1,27 @@
 ---
-title: 美联储缩表：探析40年高通胀下的货币政策与投资应对
-summary: 本文深入剖析美联储如何通过“缩表”应对40年来最高通胀。详细解释了央行资产负债表、扩表与缩表机制，以及Tapering、加息和资产到期不续投等具体措施。同时，为投资者提供了在不确定市场中的应对策略和建议。
-area: market-analysis
-category: finance
-project:
-  - investment-strategy
-tags:
-  - federal-reserve
-  - inflation
-  - investment-strategy
-  - monetary-policy
-  - quantitative-tightening
-people: []
+area: finance-wealth
+category: macro-economy
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2022-01-16'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books: []
+people: []
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=bdp-uagGY5c
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入剖析美联储如何通过“缩表”应对40年来最高通胀。详细解释了央行资产负债表、扩表与缩表机制，以及Tapering、加息和资产到期不续投等具体措施。同时，为投资者提供了在不确定市场中的应对策略和建议。
+tags:
+- federal-reserve
+- inflation
+- quantitative-tightening
+title: 美联储缩表：探析40年高通胀下的货币政策与投资应对
 ---
 
 ### 当前经济背景与美联储政策转向

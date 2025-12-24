@@ -6,15 +6,13 @@ category: geopolitics
 project:
 - china-analysis
 tags:
-  - 中国转型
-  - 制度经济学
-  - 包容性制度
-  - 国家失败
-  - 榨取性制度
-people: []
+- financial
+- 中国转型
+- 包容性制度
+- 国家失败
+- 榨取性制度
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: 李厚辰
@@ -25,6 +23,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=qkrxpQfeDZI
 ---
+
 ## 引言：从制度经济学看中国转型
 
 非常感谢大家，今天我们是一个讨论活动，所以和过去主要是我讲大家听的模式不一样。今天我们一上来很快就会开始讨论，主要围绕这本书展开。因为我们这个系列活动分四次，只有上一次是我讲，后几次都以大家讨论为主。我希望通过更多互相讨论，能让活动效果更好，大家的参与感和吸收效果也会更强。刚好今天人比上次少一些，讨论起来大家发言也更方便。

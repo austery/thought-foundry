@@ -1,69 +1,69 @@
 ---
-author: Joseph Wang
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- White House
+- Wall Street Journal
+- Goldman Sachs
+- New York Fed
+- Supreme Court
+- CIA
+- Republican Party
+- Council of Economic Advisors
+- National Economic Council
+- Cleveland Fed
+- Alternative for Germany
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- New York Times
+- Markets Weekly
+people:
+- Donald Trump
+- Kevin Hassett
+- Mitt Romney
+- John McCain
+- Ben Bernanke
+- Janet Yellen
+- Secretary Basson
+- Beth Hammack
+- Lorie Logan
+- Lisa Cook
+- Javier Milei
+- Nicolas Maduro
+- Elon Musk
+- Jensen Huang
+- Jeb Bush
+- George H.W. Bush
+- George W. Bush
+- Bill Clinton
+- Hillary Clinton
+- J.D. Vance
+- Alexandria Ocasio-Cortez
+products_models:
+- S&P 500
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Z30clMddgzM
 speaker: Joseph Wang
-tags:
-  - fed-policy
-  - us-foreign-policy
-  - european-politics
-  - regime-change
-  - political-dynamism
-title: 美联储主席人选与美国国家安全战略：对市场及欧洲关系的影响
-summary: 本期《市场周刊》探讨了美国政策层面的两大关键动向。首先是美联储主席人选，特朗普总统暗示凯文·哈塞特将出任，预示着美联储可能走向更为鸽派的货币政策。其次是白宫发布的国家安全战略，该战略重申“美国优先”原则，提出了门罗主义的“特朗普推论”，并维持台海现状。最引人注目的是，该战略对欧洲民主进程的批评，甚至暗示美国可能通过“培养抵抗力量”来推动欧洲的“政权更迭”，这预示着大西洋两岸关系将迎来重大转折。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Kevin Hassett
-  - Mitt Romney
-  - John McCain
-  - Ben Bernanke
-  - Janet Yellen
-  - Secretary Basson
-  - Beth Hammack
-  - Lorie Logan
-  - Lisa Cook
-  - Javier Milei
-  - Nicolas Maduro
-  - Elon Musk
-  - Jensen Huang
-  - Jeb Bush
-  - George H.W. Bush
-  - George W. Bush
-  - Bill Clinton
-  - Hillary Clinton
-  - J.D. Vance
-  - Alexandria Ocasio-Cortez
-companies_orgs:
-  - Federal Reserve
-  - White House
-  - Wall Street Journal
-  - Goldman Sachs
-  - New York Fed
-  - Supreme Court
-  - CIA
-  - Republican Party
-  - Council of Economic Advisors
-  - National Economic Council
-  - Cleveland Fed
-  - Alternative for Germany
-products_models:
-  - S&P 500
-media_books:
-  - New York Times
-  - Markets Weekly
 status: evergreen
+summary: 本期《市场周刊》探讨了美国政策层面的两大关键动向。首先是美联储主席人选，特朗普总统暗示凯文·哈塞特将出任，预示着美联储可能走向更为鸽派的货币政策。其次是白宫发布的国家安全战略，该战略重申“美国优先”原则，提出了门罗主义的“特朗普推论”，并维持台海现状。最引人注目的是，该战略对欧洲民主进程的批评，甚至暗示美国可能通过“培养抵抗力量”来推动欧洲的“政权更迭”，这预示着大西洋两岸关系将迎来重大转折。
+tags:
+- change
+- fed-policy
+- political
+- politics
+- us-foreign-policy
+title: 美联储主席人选与美国国家安全战略：对市场及欧洲关系的影响
 ---
+
 ### 市场概览与政策动向
 
 过去几周，市场表现相对平静，价格走势在一定区间内波动。我们确实看到主要股指小幅走高，我个人认为，到今年年底，**标普500**（S&P 500: 衡量美国大型上市公司股票表现的指数）指数很有可能达到7000点。

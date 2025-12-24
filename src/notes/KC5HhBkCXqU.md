@@ -1,49 +1,48 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Vanity Fair
+- NFL
+- Truth Social
+- USAID
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《名利场》
+people:
+- Susie Wiles
+- Donald Trump
+- Pat Summerall
+- Rick Scott
+- Ron DeSantis
+- Chris Whipple
+- Donald Trump Jr.
+- J.D. Vance
+- Elon Musk
+- Ross Vought
+- Pam Bondi
+- Bill Clinton
+- Robert F. Kennedy Jr.
+products_models: []
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=KC5HhBkCXqU
 speaker: 北美王路飞
-tags:
-  - political-strategy
-  - white-house
-  - political-analysis
-  - leadership
-  - power-dynamics
-title: 白宫幕僚长苏西·威尔斯核弹级爆料：特朗普、马斯克、万斯内幕全揭露
-summary: 白宫幕僚长**苏西·威尔斯**在《名利场》杂志的深度采访中，打破华盛顿不成文的规矩，公开爆料总统**唐纳德·特朗普**的人格缺陷、副总统**J.D.万斯**的阴谋论倾向，以及**埃隆·马斯克**使用氯胺酮等惊人内幕。她不仅揭露了特朗普政府的内部运作和极端策略，还承认了对委内瑞拉政策的真实目的。尽管言论极具争议，但特朗普团队却异常支持她，这揭示了苏西在混乱白宫中作为“驯兽师”和“翻译官”的独特权力地位，以及特朗普主义“不感羞耻便不会被羞辱”的核心哲学。然而，这些自供状也可能为特朗普政府埋下巨大的法律隐患。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-people:
-  - Susie Wiles
-  - Donald Trump
-  - Pat Summerall
-  - Rick Scott
-  - Ron DeSantis
-  - Chris Whipple
-  - Donald Trump Jr.
-  - J.D. Vance
-  - Elon Musk
-  - Ross Vought
-  - Pam Bondi
-  - Bill Clinton
-  - Robert F. Kennedy Jr.
-companies_orgs:
-  - Vanity Fair
-  - NFL
-  - Truth Social
-  - USAID
-products_models: []
-media_books:
-  - 《名利场》
 status: evergreen
+summary: 白宫幕僚长**苏西·威尔斯**在《名利场》杂志的深度采访中，打破华盛顿不成文的规矩，公开爆料总统**唐纳德·特朗普**的人格缺陷、副总统**J.D.万斯**的阴谋论倾向，以及**埃隆·马斯克**使用氯胺酮等惊人内幕。她不仅揭露了特朗普政府的内部运作和极端策略，还承认了对委内瑞拉政策的真实目的。尽管言论极具争议，但特朗普团队却异常支持她，这揭示了苏西在混乱白宫中作为“驯兽师”和“翻译官”的独特权力地位，以及特朗普主义“不感羞耻便不会被羞辱”的核心哲学。然而，这些自供状也可能为特朗普政府埋下巨大的法律隐患。
+tags:
+- leadership
+- political
+- political-strategy
+- power-dynamic
+title: 白宫幕僚长苏西·威尔斯核弹级爆料：特朗普、马斯克、万斯内幕全揭露
 ---
+
 ### 引爆华盛顿：核弹级爆料
 
 你敢相信吗？华盛顿最沉默的女人，刚刚引爆了一颗核弹。在这个圈子里，有一条不成文的死规矩：永远不要让自己成为主角。如果你是幕僚长，你的工作就是执行，而不是上杂志封面。然而，**苏西·威尔斯**（Susie Wiles: **唐纳德·特朗普**的白宫幕僚长），这个被称为“冰雪女王”的女人，在此前几乎是一个隐形人。她没有几张公开照片，几乎从不接受采访。在特朗普混乱的第一任期里，他换了4个幕僚长，而苏西在第二任期中，在这个位置上已经稳坐了将近一年。

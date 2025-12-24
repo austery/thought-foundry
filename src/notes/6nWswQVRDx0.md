@@ -1,51 +1,51 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- White House
+- National Guard
+- ICE
+- Feeding Our Future
+- Republican Party
+- Democratic Party
+- Pentagon
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Donald Trump
+- Natalie Kitroeff
+- Ernesto Londoño
+- Chris Rufo
+- Joe Thompson
+- Stephen Miller
+- Melvin Carter
+- Tim Walz
+- Pete Hgsith
+products_models:
+- Signal
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=6nWswQVRDx0
 speaker: New York Times Podcasts
-tags:
-  - immigration-policy
-  - xenophobia
-  - political-rhetoric
-  - government-fraud
-  - racial-politics
-title: 特朗普攻击索马里裔美国人：仇外言论、欺诈指控与政治影响
-summary: 本播客探讨了美国前总统特朗普针对索马里裔美国人的仇外言论，将其称为“垃圾”并呼吁他们“回到老家”。节目深入剖析了明尼苏达州索马里裔社区卷入的数十亿美元欺诈案，以及种族歧视指控如何一度阻碍了调查。文章还分析了特朗普政府利用此事件推行更严厉移民政策的政治动机，以及这如何挑战了索马里裔美国人的身份认同和公民权利。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Natalie Kitroeff
-  - Ernesto Londoño
-  - Chris Rufo
-  - Joe Thompson
-  - Stephen Miller
-  - Melvin Carter
-  - Tim Walz
-  - Pete Hgsith
-companies_orgs:
-  - New York Times
-  - White House
-  - National Guard
-  - ICE
-  - Feeding Our Future
-  - Republican Party
-  - Democratic Party
-  - Pentagon
-products_models:
-  - Signal
-media_books:
-  - The Daily
 status: evergreen
+summary: 本播客探讨了美国前总统特朗普针对索马里裔美国人的仇外言论，将其称为“垃圾”并呼吁他们“回到老家”。节目深入剖析了明尼苏达州索马里裔社区卷入的数十亿美元欺诈案，以及种族歧视指控如何一度阻碍了调查。文章还分析了特朗普政府利用此事件推行更严厉移民政策的政治动机，以及这如何挑战了索马里裔美国人的身份认同和公民权利。
+tags:
+- government
+- immigration-policy
+- political
+- politics
+- xenophobia
+title: 特朗普攻击索马里裔美国人：仇外言论、欺诈指控与政治影响
 ---
+
 ### 特朗普的仇外言论
 
 本期《**The Daily**》（《每日》：由《纽约时报》制作的每日新闻播客）节目由**Natalie Kitroeff**主持。

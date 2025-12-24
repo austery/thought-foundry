@@ -1,49 +1,49 @@
 ---
-author: 视野环球财经
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Oracle
+- Blue Owl
+- OpenAI
+- Amazon
+- Google
+- Meta
+- ASML
+- TSMC
+- Micron
+- NVIDIA
+- AMD
+- Tesla
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《英国金融时报》
+- 《彭博社》
+- 《路透社》
+people:
+- Reno
+products_models:
+- EUV lithography machine
+- HBM memory
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=6zE5olxcDbI
 speaker: 视野环球财经
-tags:
-  - ai-investment
-  - chip-manufacturing
-  - market-analysis
-  - stock-outlook
-  - data-center
-title: 美股：AI融资与芯片制造面临挑战，市场抛售与回购窗口关闭
-summary: 本期节目分析了美股市场因两大消息引发的下跌：一是**甲骨文**数据中心风波引发的对人工智能资本支出的担忧，二是**路透社**报道中国在EUV光刻机研发上的进展。节目详细探讨了AI投资链条的脆弱性，并对**ASML**、**台积电**、**镁光**、**英伟达**、**AMD**、**特斯拉**等关键科技股进行了估值和走势分析。此外，还更新了**CTA数据**触发的抛售信号，并提醒投资者注意即将关闭的企业回购窗口，建议在市场信心疲软时保持保守策略。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Reno
-companies_orgs:
-  - Oracle
-  - Blue Owl
-  - OpenAI
-  - Amazon
-  - Google
-  - Meta
-  - ASML
-  - TSMC
-  - Micron
-  - NVIDIA
-  - AMD
-  - Tesla
-products_models:
-  - EUV lithography machine
-  - HBM memory
-media_books:
-  - 《英国金融时报》
-  - 《彭博社》
-  - 《路透社》
 status: evergreen
+summary: 本期节目分析了美股市场因两大消息引发的下跌：一是**甲骨文**数据中心风波引发的对人工智能资本支出的担忧，二是**路透社**报道中国在EUV光刻机研发上的进展。节目详细探讨了AI投资链条的脆弱性，并对**ASML**、**台积电**、**镁光**、**英伟达**、**AMD**、**特斯拉**等关键科技股进行了估值和走势分析。此外，还更新了**CTA数据**触发的抛售信号，并提醒投资者注意即将关闭的企业回购窗口，建议在市场信心疲软时保持保守策略。
+tags:
+- ai-investment
+- data-center
+- manufacturing
+- market-analysis
+- stock
+title: 美股：AI融资与芯片制造面临挑战，市场抛售与回购窗口关闭
 ---
+
 大家好，欢迎回到视野环球财经，我是Reno。现在是美东时间25年12月17号周三晚上的7点25分。今天的四大指数全天被抛售，除了道指跌幅较小之外，三大指数的跌幅全部超过1%。尤其是今天的科技股抛售非常糟糕，市场对逢低买入的兴趣不大。另外，我是今天上午才拿到新的**CTA数据**（Commodity Trading Advisors Data: 大宗商品交易顾问数据，用于衡量量化基金的市场仓位和动向）。本来打算收盘的时候和大家更新一下，结果今天的盘中其实已经触发了抛售加速的位置。等会儿会给大家拿出来看一下，包括对于后方的中期和更远期的抛售点位都有所上调。
 
 ### AI资本支出担忧引发市场动荡

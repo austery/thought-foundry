@@ -1,31 +1,30 @@
 ---
-title: 停止翻译，流利开口：拥抱大脑的“偷懒”学习法
-summary: 揭秘语言学习的“偷懒”秘诀，告别死记硬背，掌握将知识转化为流利表达的“场景化”学习方法，让你轻松开口说外语。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- brain-science
-- contextual-learning
-- language-learning
-- procedural-knowledge
-people:
-- kevinfeng
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: KevinFeng 冯凯文
-speaker: KevinFeng 冯凯文
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- kevinfeng
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=kDn8C6xbM78
+speaker: KevinFeng 冯凯文
 status: evergreen
+summary: 揭秘语言学习的“偷懒”秘诀，告别死记硬背，掌握将知识转化为流利表达的“场景化”学习方法，让你轻松开口说外语。
+tags:
+- language-learning
+- learning
+- philosophy
+- science
+title: 停止翻译，流利开口：拥抱大脑的“偷懒”学习法
 ---
+
 ### 告别“努力却学不好”的困境
 
 许多人在学习英语时，会陷入一个普遍的困惑：投入大量时间和精力背单词、学语法，但一开口就卡壳，表达僵硬，甚至需要在大脑中不停翻译。尽管付出了巨大的努力，学习效果却不尽如人意。这并非个人不够努力，而是可能方法完全错了。大脑学习语言有其偏好的方式，迎合这种喜好，学习将变得轻松而高效。

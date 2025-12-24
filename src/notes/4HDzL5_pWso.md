@@ -1,49 +1,48 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Jesuits
+- McDonald's
 date: '2023-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《方法论》
+- 《沉思录》
+- 《盗梦空间》
+- 《蜘蛛侠：英雄远征》
+- 《双瞳》
+- 《花木兰》
+- 《咒》
+people:
+- Descartes
+- Augustine
+- Wolfgang Pauli
+- Carl Jung
+- Aristotle
+- Husserl
+- Noam Chomsky
+- Urbain Grandier
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=4HDzL5_pWso
 speaker: 超級歪 SuperY
-tags:
-  - descartes-philosophy
-  - universal-doubt
-  - cogito-ergo-sum
-  - existence-of-god
-  - mind-body-problem
-title: 笛卡儿《沉思录》解析：从普遍怀疑到“我思故我在”与上帝存在
-summary: 本视频深入解析笛卡儿的《沉思录》前三篇。从“普遍怀疑”的方法论出发，探讨了感官经验的不可靠性、梦境与现实的区分，以及“邪恶精灵”的挑战。在此基础上，笛卡儿确立了“我思故我在”这一确定性基础，并进一步论证了心智与物质的本质差异。最后，视频介绍了笛卡儿如何通过先天观念和存在论证来证明上帝的存在，并回应了其论证中的循环论证争议，揭示了其哲学与教会“精神操练”传统的关联。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Descartes
-  - Augustine
-  - Wolfgang Pauli
-  - Carl Jung
-  - Aristotle
-  - Husserl
-  - Noam Chomsky
-  - Urbain Grandier
-companies_orgs:
-  - Jesuits
-  - McDonald's
-products_models: []
-media_books:
-  - 《方法论》
-  - 《沉思录》
-  - 《盗梦空间》
-  - 《蜘蛛侠：英雄远征》
-  - 《双瞳》
-  - 《花木兰》
-  - 《咒》
 status: evergreen
+summary: 本视频深入解析笛卡儿的《沉思录》前三篇。从“普遍怀疑”的方法论出发，探讨了感官经验的不可靠性、梦境与现实的区分，以及“邪恶精灵”的挑战。在此基础上，笛卡儿确立了“我思故我在”这一确定性基础，并进一步论证了心智与物质的本质差异。最后，视频介绍了笛卡儿如何通过先天观念和存在论证来证明上帝的存在，并回应了其论证中的循环论证争议，揭示了其哲学与教会“精神操练”传统的关联。
+tags:
+- code
+- philosophy
+- problem
+- universal-doubt
+title: 笛卡儿《沉思录》解析：从普遍怀疑到“我思故我在”与上帝存在
 ---
+
 ### 笛卡儿：现代哲学的开端
 
 哲学令人心旷神怡，每一集都会向你介绍一位哲学家。在过去的几集中，我们介绍了古希腊的三位哲学家。现在，我们终于进入了现代哲学，介绍欧洲理性启蒙的奠基人——笛卡儿。

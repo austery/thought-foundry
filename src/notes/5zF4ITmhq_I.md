@@ -1,73 +1,73 @@
 ---
-author: ZetaBook
+area: finance-wealth
+category: macro-economics
+companies_orgs:
+- 南京國民政府
+- 國民黨
+- CC系
+- 黃埔軍校
+- 中國銀行
+- 交通銀行
+- 上海銀行公會
+- 上海商業儲蓄銀行
+- 軍統
+- 中央銀行
+- 監察院
+- 國民黨六屆三中全會
+- 行政院
+- 財政部
+- 立法院
+- 上海青年服務總隊
+- 第六綏靖區教導隊
+- 揚子公司
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《白銀法案》
+- 《時代雜誌》
+people:
+- 蔣介石
+- 宋子文
+- 孔祥熙
+- 杜月笙
+- 汪精衛
+- 戴笠
+- 貝祖貽
+- 詹蓮生
+- 蔣經國
+- 宋美齡
+- 孔令侃
+- 馬歇爾
+products_models:
+- 法幣
+- 金圓券
+- 銀元
+- 銀票
+- 美元債券
+- 美國國庫券
+- 黃金
+- 白銀
+- 美元
+- 港幣
+- 銀元券
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=5zF4ITmhq_I
 speaker: ZetaBook
-tags:
-  - currency-reform
-  - inflation
-  - economic-history
-  - kmt-politics
-title: '1945年國民政府超有錢？法幣和金圓券失敗背後的政治原因｜ #禁書筆記 #歷史'
-summary: 本期節目深入探討國民政府時期法幣與金圓券的改革歷程及其失敗原因，揭示金融權力鬥爭、戰爭影響及政治決策對中國經濟的深遠衝擊，並藉此反思當代中國經濟。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - china-analysis
-people:
-  - 蔣介石
-  - 宋子文
-  - 孔祥熙
-  - 杜月笙
-  - 汪精衛
-  - 戴笠
-  - 貝祖貽
-  - 詹蓮生
-  - 蔣經國
-  - 宋美齡
-  - 孔令侃
-  - 馬歇爾
-companies_orgs:
-  - 南京國民政府
-  - 國民黨
-  - CC系
-  - 黃埔軍校
-  - 中國銀行
-  - 交通銀行
-  - 上海銀行公會
-  - 上海商業儲蓄銀行
-  - 軍統
-  - 中央銀行
-  - 監察院
-  - 國民黨六屆三中全會
-  - 行政院
-  - 財政部
-  - 立法院
-  - 上海青年服務總隊
-  - 第六綏靖區教導隊
-  - 揚子公司
-products_models:
-  - 法幣
-  - 金圓券
-  - 銀元
-  - 銀票
-  - 美元債券
-  - 美國國庫券
-  - 黃金
-  - 白銀
-  - 美元
-  - 港幣
-  - 銀元券
-media_books:
-  - 《白銀法案》
-  - 《時代雜誌》
 status: evergreen
+summary: 本期節目深入探討國民政府時期法幣與金圓券的改革歷程及其失敗原因，揭示金融權力鬥爭、戰爭影響及政治決策對中國經濟的深遠衝擊，並藉此反思當代中國經濟。
+tags:
+- economic-history
+- inflation
+- politics
+- reform
+title: '1945年國民政府超有錢？法幣和金圓券失敗背後的政治原因｜ #禁書筆記 #歷史'
 ---
+
 ### 儲備謎團與節目引言
 
 很多人可能不知道，1937年**七七事變**全面抗戰前，**南京國民政府**手裡只有2億美金的外匯儲備。但是到了1945年，打了8年抗戰後，手裡的儲備反而變成了8億多美金，暴增了4倍多。僅僅四年時間後，到國民政府敗退台灣時，手上剩下的黃金加上美元又回到了1937年的2億美元左右。用一句話來形容就是「如夢幻泡影」、「如露亦如電」。

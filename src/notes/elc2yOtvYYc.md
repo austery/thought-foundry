@@ -1,69 +1,69 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Organization for Economic Cooperation and Development
+- General Motors
+- CNN
+- Canadian Chamber of Commerce
+- University of Toronto
+- Ontario Lottery and Gaming
+- Hamilton Tiger Cats
+- Winnipeg Blue Bombers
+- Canada Post
+- TVO
+- TVO Today
 date: '2025-10-31'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- British North America Act
+- Fighting Delays Building Faster Act
+- Moonstruck
+people:
+- Ronald Reagan
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Pete Hora
+- David Patterson
+- Brian Mulroney
+- Tom Engel
+- Jim Prentice
+- Rachel Notley
+- Bill Davis
+- John Fraser
+- Bonnie Crombie
+- Joe Carter
+- Paul Molitor
+- Tim Reid
+- Margaret Birch
+- Kenny Plane
+- Paul Vanderham
+- Steve Pacen
+- John Michael McGrath
+products_models:
+- GPS
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=elc2yOtvYYc
 speaker: TVO Today
-tags:
-  - us-canada-relations
-  - ontario-politics
-  - trade-tariffs
-  - housing-policy
-  - constitutional-reform
-title: 安大略省的政治博弈：从广告战到宪法改革
-summary: 本期播客深入探讨了安大略省政治的多个层面。内容涵盖了安省耗资7500万美元的反关税广告及其引发的美国总统唐纳德·特朗普的强烈反应，以及由此带来的外交影响。此外，节目还讨论了安省政府在固定租约改革上的争议性提议及其撤回，以及对选举法和竞选资金的拟议修改。最后，播客呼吁对加拿大宪法进行改革，以应对当前的政治挑战，并回顾了加拿大历史上的重要宪法时刻和一位杰出的安省前议员的传奇人生。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Ronald Reagan
-  - Donald Trump
-  - Doug Ford
-  - Mark Carney
-  - Pete Hora
-  - David Patterson
-  - Brian Mulroney
-  - Tom Engel
-  - Jim Prentice
-  - Rachel Notley
-  - Bill Davis
-  - John Fraser
-  - Bonnie Crombie
-  - Joe Carter
-  - Paul Molitor
-  - Tim Reid
-  - Margaret Birch
-  - Kenny Plane
-  - Paul Vanderham
-  - Steve Pacen
-  - John Michael McGrath
-companies_orgs:
-  - Organization for Economic Cooperation and Development
-  - General Motors
-  - CNN
-  - Canadian Chamber of Commerce
-  - University of Toronto
-  - Ontario Lottery and Gaming
-  - Hamilton Tiger Cats
-  - Winnipeg Blue Bombers
-  - Canada Post
-  - TVO
-  - TVO Today
-products_models:
-  - GPS
-media_books:
-  - British North America Act
-  - Fighting Delays Building Faster Act
-  - Moonstruck
 status: evergreen
+summary: 本期播客深入探讨了安大略省政治的多个层面。内容涵盖了安省耗资7500万美元的反关税广告及其引发的美国总统唐纳德·特朗普的强烈反应，以及由此带来的外交影响。此外，节目还讨论了安省政府在固定租约改革上的争议性提议及其撤回，以及对选举法和竞选资金的拟议修改。最后，播客呼吁对加拿大宪法进行改革，以应对当前的政治挑战，并回顾了加拿大历史上的重要宪法时刻和一位杰出的安省前议员的传奇人生。
+tags:
+- housing-policy
+- ontario-politics
+- reform
+- trade-tariff
+- us-canada-relations
+title: 安大略省的政治博弈：从广告战到宪法改革
 ---
+
 ### 播客开场与加拿大历史回顾
 
 Steve Pacen: 欢迎大家收听**OnPy播客**（OnPy Podcast: TVO Today的政治评论播客）。

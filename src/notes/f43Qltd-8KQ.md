@@ -1,58 +1,58 @@
 ---
-author: ZetaBook
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国民党
+- 共产党
+- 八路军
+- 黄埔军校
+- 中原野战军
+- 桂系
+- 土木系
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 禁书笔记
+people:
+- 蒋介石
+- 卫立煌
+- 廖耀湘
+- 李宗仁
+- 刘峙
+- 杜聿明
+- 黄维
+- 陈诚
+- 白崇禧
+- 刘伯承
+- 邓小平
+- 黄百韬
+- 粟裕
+- 张治中
+- 孙立人
+- 彭杰如
+- 板垣征四郎
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=f43Qltd-8KQ
 speaker: ZetaBook
-tags:
-  - chinese-civil-war
-  - kmt-factionalism
-  - military-strategy
-  - command-chaos
-  - strategic-blunders
-title: 国共内战国军惨败：将帅失和、派系内斗与战略失误的深层剖析
-summary: 本文深入剖析了国民党在国共内战中惨败的多重原因。文章批判性地审视了国民党对共产党军队实力的严重低估、国民党内部严重的派系内斗，以及由此在辽西会战中蒋介石与卫立煌之间指挥冲突所导致的混乱。此外，文章还分析了徐蚌会战中蒋介石的越级指挥和桂系为自保而袖手旁观的行为，强调这些战略和组织上的失误如何最终导致国民党的全面溃败。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 蒋介石
-  - 卫立煌
-  - 廖耀湘
-  - 李宗仁
-  - 刘峙
-  - 杜聿明
-  - 黄维
-  - 陈诚
-  - 白崇禧
-  - 刘伯承
-  - 邓小平
-  - 黄百韬
-  - 粟裕
-  - 张治中
-  - 孙立人
-  - 彭杰如
-  - 板垣征四郎
-companies_orgs:
-  - 国民党
-  - 共产党
-  - 八路军
-  - 黄埔军校
-  - 中原野战军
-  - 桂系
-  - 土木系
-products_models: []
-media_books:
-  - 禁书笔记
 status: evergreen
+summary: 本文深入剖析了国民党在国共内战中惨败的多重原因。文章批判性地审视了国民党对共产党军队实力的严重低估、国民党内部严重的派系内斗，以及由此在辽西会战中蒋介石与卫立煌之间指挥冲突所导致的混乱。此外，文章还分析了徐蚌会战中蒋介石的越级指挥和桂系为自保而袖手旁观的行为，强调这些战略和组织上的失误如何最终导致国民党的全面溃败。
+tags:
+- chinese-civil-war
+- command-chao
+- financial
+- kmt-factionalism
+- strategy
+title: 国共内战国军惨败：将帅失和、派系内斗与战略失误的深层剖析
 ---
+
 ### 国军对共军实力的严重低估
 
 在中国大陆的互联网上，流传着一个源自一部老电影的梗，其中一位国军军官的经典台词是：“不是我们无能，是共军太狡猾了。”这句台词实际上暗示了共产党军队的强大。从1945年到1946年，中国共产党从苏联手中接收了东北北部的大量日军装备后，其战斗力得到了快速提升。到了1950年，共产党军队凭借一些苏联在二战中淘汰的武器，在**韩战**（Korean War: 1950-1953年朝鲜半岛爆发的国际冲突）中就已经能够与美军打得有来有回。

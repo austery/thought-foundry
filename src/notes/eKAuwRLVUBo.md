@@ -1,48 +1,48 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: culture
+companies_orgs:
+- 中研院
+- 国民党政府
 date: '2024-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《非驢非馬：中醫、西醫與現代中國的相互形塑》
+- 《解體新書》
+- 《醫林改錯》
+- 《黃帝內經》
+- 《中西會通醫經》
+people:
+- 雷祥林
+- 山田全白
+- 王千仞
+- 皮國利
+- 唐仲海
+- 李鴻章
+- 李金幫
+- 陸茂修
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=eKAuwRLVUBo
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - traditional-chinese-medicine
-  - western-medicine
-  - medical-history
-  - knowledge-systems
-  - cultural-adaptation
-title: 當科學來襲，中醫為什麼沒消失？ep1「雜種醫」的史前史
-summary: 本文探討了中醫在西方科學衝擊下為何沒有消失的歷史。從18世紀日本的解剖學衝擊到19世紀晚清中國的反應，揭示了中西醫首次碰撞時，中國知識分子如何透過「死人無氣化」等論點，成功維護了中醫的真實性。文章以雷祥林《非驢非馬》一書為軸，探究了中西醫結合從晚清的「隨意拼裝」到民國時期被視為「禁忌」的轉變，並預告了「雜種醫」的誕生與掙扎。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 雷祥林
-  - 山田全白
-  - 王千仞
-  - 皮國利
-  - 唐仲海
-  - 李鴻章
-  - 李金幫
-  - 陸茂修
-companies_orgs:
-  - 中研院
-  - 国民党政府
-products_models: []
-media_books:
-  - 《非驢非馬：中醫、西醫與現代中國的相互形塑》
-  - 《解體新書》
-  - 《醫林改錯》
-  - 《黃帝內經》
-  - 《中西會通醫經》
 status: evergreen
+summary: 本文探討了中醫在西方科學衝擊下為何沒有消失的歷史。從18世紀日本的解剖學衝擊到19世紀晚清中國的反應，揭示了中西醫首次碰撞時，中國知識分子如何透過「死人無氣化」等論點，成功維護了中醫的真實性。文章以雷祥林《非驢非馬》一書為軸，探究了中西醫結合從晚清的「隨意拼裝」到民國時期被視為「禁忌」的轉變，並預告了「雜種醫」的誕生與掙扎。
+tags:
+- chinese
+- cultural
+- health
+- history
+- system
+title: 當科學來襲，中醫為什麼沒消失？ep1「雜種醫」的史前史
 ---
+
 ### 中醫的百年存續之謎
 
 本期節目將以輕鬆的方式，帶您了解國際上最有趣的社會科學研究發現。當我們現在去看**中醫**（Traditional Chinese Medicine: 中國傳統醫學體系），或是一位醫生到府出診時，雖然畫面中的兩位醫生都在診脈，看起來實踐著相同的醫學知識，但中研院的醫學史學者雷祥林告訴我們，這兩個時空中的中醫已經不是同一種東西了。

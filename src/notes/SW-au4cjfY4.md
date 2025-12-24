@@ -1,57 +1,57 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg Audio Studios
+- Hoover Institution
+- American University
+- Chinese Communist Party
+- Google
 date: '2025-08-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'The Party''s Interests Come First: The Life of Xi Zhongxun, Father of Xi Jinping'
+- Moby Dick
+- The Three-Body Problem
+- People's Daily
+people:
+- Joe Wisenthal
+- Tracy Aloway
+- Joseph Torigian
+- Xi Zhongxun
+- Xi Jinping
+- Mao Zedong
+- Deng Xiaoping
+- Zhou Enlai
+- Gao Gang
+- Peng Dehuai
+- Nikita Khrushchev
+- Stalin
+- Stanford Cotkin
+- Dalai Lama
+products_models:
+- Gemini Flash
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=SW-au4cjfY4
 speaker: Bloomberg Podcasts
-tags:
-  - elite-politics
-  - party-history
-  - ideological-struggle
-  - cultural-revolution
-  - leadership-succession
-title: 习近平之父习仲勋与中共精英政治：历史、权力及意识形态
-summary: 本期OddLots播客邀请学者Joseph Torigian，探讨其关于习近平之父习仲勋生平的传记。节目深入剖析了中共精英政治的复杂性、意识形态斗争（如“左倾”与“右倾”）、党内权力斗争的本质，以及历史叙事在政权合法化中的关键作用。嘉宾还讨论了早期党员的入党动机、中苏关系对中共发展的影响，以及文化大革命对中国政治的深远影响。节目也探讨了习近平的执政理念与其父辈经历的联系，揭示了中共如何通过不断适应和学习来维持其统治。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Joe Wisenthal
-  - Tracy Aloway
-  - Joseph Torigian
-  - Xi Zhongxun
-  - Xi Jinping
-  - Mao Zedong
-  - Deng Xiaoping
-  - Zhou Enlai
-  - Gao Gang
-  - Peng Dehuai
-  - Nikita Khrushchev
-  - Stalin
-  - Stanford Cotkin
-  - Dalai Lama
-companies_orgs:
-  - Bloomberg Audio Studios
-  - Hoover Institution
-  - American University
-  - Chinese Communist Party
-  - Google
-products_models:
-  - Gemini Flash
-media_books:
-  - 'The Party''s Interests Come First: The Life of Xi Zhongxun, Father of Xi Jinping'
-  - Moby Dick
-  - The Three-Body Problem
-  - People's Daily
 status: evergreen
+summary: 本期OddLots播客邀请学者Joseph Torigian，探讨其关于习近平之父习仲勋生平的传记。节目深入剖析了中共精英政治的复杂性、意识形态斗争（如“左倾”与“右倾”）、党内权力斗争的本质，以及历史叙事在政权合法化中的关键作用。嘉宾还讨论了早期党员的入党动机、中苏关系对中共发展的影响，以及文化大革命对中国政治的深远影响。节目也探讨了习近平的执政理念与其父辈经历的联系，揭示了中共如何通过不断适应和学习来维持其统治。
+tags:
+- cultural-revolution
+- history
+- leadership-succession
+- philosophy
+- politics
+title: 习近平之父习仲勋与中共精英政治：历史、权力及意识形态
 ---
+
 ### 中共精英政治的迷雾与历史的价值
 
 **Joe Wisenthal:** 大家好，欢迎收听OddLots播客的又一期节目。我是Joe Wisenthal。

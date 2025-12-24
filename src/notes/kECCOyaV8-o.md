@@ -1,37 +1,36 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- BC Housing
+- Comfort Life
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《繁花》
+people:
+- 莊也
+products_models: []
+project:
+- historical-insights
+- us-analysis
+- pkm-research
+series: ''
 source: https://www.youtube.com/watch?v=kECCOyaV8-o
 speaker: 莊也雜談
-tags:
-  - senior-housing-access
-  - affordable-retirement-housing
-  - long-term-care-waitlists
-  - asset-limit-policies
-  - private-vs-public-senior-care
-title: 從退休到墳墓2025：加拿大廉租老年房申請全指南與四種養老住房透視
-summary: 本文詳盡解析加拿大2025年最新養老體系，涵蓋廉租老年房、老年公寓、Life Lease與老年人社區Condo四種住房模式的申請條件、費用結構與輪候時間，並探討居家護理與長期照護的過渡關卡。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - us-analysis
-  - pkm-research
-people:
-  - 莊也
-companies_orgs:
-  - BC Housing
-  - Comfort Life
-products_models: []
-media_books:
-  - 《繁花》
 status: evergreen
+summary: 本文詳盡解析加拿大2025年最新養老體系，涵蓋廉租老年房、老年公寓、Life Lease與老年人社區Condo四種住房模式的申請條件、費用結構與輪候時間，並探討居家護理與長期照護的過渡關卡。
+tags:
+- geopolitical
+- long
+- policy
+- public
+title: 從退休到墳墓2025：加拿大廉租老年房申請全指南與四種養老住房透視
 ---
+
 ### 加拿大養老住房的四種模式：從廉租房到有產權社區
 
 哈嘍，大家好，我是莊也。歡迎收看《莊也雜談》。

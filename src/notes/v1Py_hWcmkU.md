@@ -1,31 +1,30 @@
 ---
-title: AI、意识与推理：与 Murray Shanahan 的哲学思辨
-summary: 我对于AI是否有智能很感兴趣，看看大佬的访谈。Murray Shanahan 与 Hannah Fry 探讨了人工智能的哲学问题，从符号AI到神经网络，深入分析了机器的推理能力、意识的多面性、图灵测试的局限性，以及我们应如何理解这些新兴的“异类的类心实体”。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - philosophy
-  - 意识
-  - 推理
-people:
-  - Hannah Fry
-  - Murray Shanahan
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-07-21
+area: tech-engineering
 author: Lei
-speaker: ''
+category: ai-ml
 channel: https://www.youtube.com/@googledeepmind
+companies_orgs: []
+date: 2025-07-21
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Hannah Fry
+- Murray Shanahan
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=v1Py_hWcmkU&t
+speaker: ''
+summary: 我对于AI是否有智能很感兴趣，看看大佬的访谈。Murray Shanahan 与 Hannah Fry 探讨了人工智能的哲学问题，从符号AI到神经网络，深入分析了机器的推理能力、意识的多面性、图灵测试的局限性，以及我们应如何理解这些新兴的“异类的类心实体”。
+tags:
+- consciousness
+- philosophy
+- 推理
+title: AI、意识与推理：与 Murray Shanahan 的哲学思辨
 ---
+
 ## AI 哲学的深远问题
 
 **Murray Shanahan**: I think there are just a huge number of enormously interesting philosophical questions that AI gives rise to. What is the nature of the human mind? What is the nature of mind?

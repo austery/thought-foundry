@@ -1,35 +1,34 @@
 ---
-author: TED
+area: personal-systems
+category: productivity
+companies_orgs:
+- TED
 date: '2025-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Edith Zimmerman
+products_models:
+- Drawing Links
+- How to Be a Better Human
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=1jWA3mE5o9Y
 speaker: TED
-tags:
-  - habit-breaking
-  - self-reinvention
-  - sobriety-journey
-  - creative-expression
-  - new-hobbies
-title: 戒酒后的自我重塑：寻找新乐趣与生活重心
-summary: 本文探讨了戒酒后的生活转变与自我重塑过程。主持人与作家兼漫画家伊迪丝·齐默尔曼分享了她们如何通过培养新习惯（如编织、跑步和绘画）来填补戒酒后产生的巨大时间空缺，并重新定义自我。文章强调了自我纪律、创造性地规划日常生活以及拥抱变化的理念，鼓励读者探索新的兴趣和可能性，即使这会带来一些无聊或不适。
-insight: ''
-draft: true
-series: ''
-category: productivity
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Edith Zimmerman
-companies_orgs:
-  - TED
-products_models:
-  - Drawing Links
-  - How to Be a Better Human
-media_books: []
 status: evergreen
+summary: 本文探讨了戒酒后的生活转变与自我重塑过程。主持人与作家兼漫画家伊迪丝·齐默尔曼分享了她们如何通过培养新习惯（如编织、跑步和绘画）来填补戒酒后产生的巨大时间空缺，并重新定义自我。文章强调了自我纪律、创造性地规划日常生活以及拥抱变化的理念，鼓励读者探索新的兴趣和可能性，即使这会带来一些无聊或不适。
+tags:
+- canada
+- life
+- psychology
+- self
+- sobriety-journey
+title: 戒酒后的自我重塑：寻找新乐趣与生活重心
 ---
+
 ### 戒酒后的生活转变
 
 这是一杯加了青柠的**苏打水**（selzer with lime: 一种无酒精、气泡丰富的饮品）。

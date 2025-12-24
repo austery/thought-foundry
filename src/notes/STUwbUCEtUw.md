@@ -1,39 +1,39 @@
 ---
-author: TED
+area: society-systems
+category: technology
+companies_orgs:
+- Wild Nature Institute
+- Fundación Biodiversa Colombia
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Game of Thrones
+people:
+- Andrés Rojas
+- Juan M. Lavista Ferres
+- Paula Caycedo
+- edge-computing
+products_models:
+- SPARROW
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=STUwbUCEtUw
 speaker: TED
-tags:
-  - biodiversity-conservation
-  - ai-applications
-  - remote-monitoring
-  - edge-computing
-  - wildfire-detection
-title: AI设备如何实时保护自然：SPARROW的创新与实践
-summary: 本文介绍了SPARROW系统，一个由AI驱动、太阳能供电的远程观测设备网络，旨在彻底改变生物多样性数据的收集方式。通过实时数据传输、边缘AI处理和卫星通信，SPARROW解决了传统野外数据收集缓慢且耗时的问题，实现了动物自动识别、声学分类及早期火灾预警。文章强调了简单设计的重要性，并呼吁为全球的环保工作者提供更好的工具。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Andrés Rojas
-  - Juan M. Lavista Ferres
-  - Paula Caycedo
-companies_orgs:
-  - Wild Nature Institute
-  - Fundación Biodiversa Colombia
-products_models:
-  - SPARROW
-media_books:
-  - Game of Thrones
 status: evergreen
+summary: 本文介绍了SPARROW系统，一个由AI驱动、太阳能供电的远程观测设备网络，旨在彻底改变生物多样性数据的收集方式。通过实时数据传输、边缘AI处理和卫星通信，SPARROW解决了传统野外数据收集缓慢且耗时的问题，实现了动物自动识别、声学分类及早期火灾预警。文章强调了简单设计的重要性，并呼吁为全球的环保工作者提供更好的工具。
+tags:
+- ai-application
+- environment
+- health
+- remote-monitoring
+title: AI设备如何实时保护自然：SPARROW的创新与实践
 ---
+
 ### 挑战重重的自然保护工作
 
 让我向大家介绍安德烈斯·罗哈斯。每隔几周，安德烈斯都会深入哥伦比亚雨林徒步，穿过泥泞和成群的蚊子。这并非为了冒险，更不是为了乐趣，而是为了完成他的工作。他需要更换**红外相机**（camera traps: 自动拍摄野生动物的设备）和**生物声学设备**（bioacoustic devices: 记录生物声音的设备）的电池和存储卡。这正是当今**保护科学**（conservation science: 旨在保护生物多样性和生态系统的科学领域）的关键基础设施。像安德烈斯这样的人是英雄，正是由于他们的努力，许多物种才得以从灭绝的边缘被拯救回来。

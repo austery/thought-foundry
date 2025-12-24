@@ -1,36 +1,34 @@
 ---
-title: 全球经济与地缘政治：股市震荡、乌克兰僵局、中美贸易战缓和及中国社会热点透视
-summary: 本期节目深入剖析了全球财经、地缘政治及社会热点。内容涵盖华尔街股市波动预警、特朗普对乌克兰战争的立场、哈马斯对加沙控制的坚持、台湾国民党主席选举结果、中国消费降级现象的另类解读、诺贝尔奖与中国“洋奖”之争，以及中美贸易战的最新缓和态势。
-area: market-analysis
-category: geopolitics
+area: society-thinking
+category: politics-society
+companies_orgs: []
+date: '2025-10-18'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- lt
+products_models: []
 project:
 - china-analysis
 - geopolitics-watch
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- china-society
-- geopolitics
-- global-economy
-- market-trends
-- us-china-relations
-people:
-- lt
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-18'
-author: LT視界
-speaker: LT視界
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=ozS-kc1QbIQ
+speaker: LT視界
 status: evergreen
+summary: 本期节目深入剖析了全球财经、地缘政治及社会热点。内容涵盖华尔街股市波动预警、特朗普对乌克兰战争的立场、哈马斯对加沙控制的坚持、台湾国民党主席选举结果、中国消费降级现象的另类解读、诺贝尔奖与中国“洋奖”之争，以及中美贸易战的最新缓和态势。
+tags:
+- china
+- global-economy
+- market-trend
+- us-china-relations
+title: 全球经济与地缘政治：股市震荡、乌克兰僵局、中美贸易战缓和及中国社会热点透视
 ---
+
 ### 财经头条：股市波动与风险预警
 
 10月18日的财经头条聚焦于华尔街日报的报道，标题为“波动性再次困扰股市，华尔街的恐慌指数触及4月底以来最高水平”。这份报道值得有投资理财的网友高度关注，因为它不仅关乎美国股市的风险，更与4月份美国股市崩盘以及给全球股市带来的灾难性影响紧密相连。

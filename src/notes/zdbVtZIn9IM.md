@@ -1,97 +1,94 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- OpenAI
+- Nvidia
+- Microsoft
+- AMD
+- Meta
+- DeepMind
+- Google
+- CCP
+- Ministry of State Security
+- NKVD
+- FERC
+- Amazon
 date: '2024-06-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Situational Awareness》
+- 《The Information》
+- 《InstructGPT paper》
+- 《AlphaGo》
+- 《Gemini paper》
+- 《Chinchilla Scaling laws》
+- 《MoE papers》
+- 《古拉格群岛》
+- 《奥本海默》
+- 《Freedom's Forge》
+- 《Fast》
+- 《原子弹秘史》
+people:
+- Leopold Aschenbrenner
+- Patrick Collison
+- John Collison
+- Daniel Gross
+- Nat Friedman
+- Sholto
+- Trenton
+- Mark Zuckerberg
+- John Schulman
+- Tyler Cowen
+- Scarlett Johansson
+- Alec Radford
+- Leo Szilard
+- Enrico Fermi
+- George Pegram
+- Richard Rhodes
+- Lavrentiy Beria
+- Paul Samuelson
+- William Knudsen
+- Aleksandr Solzhenitsyn
+- Mikhail Gorbachev
+products_models:
+- GPT-4
+- ChatGPT
+- A100
+- H100
+- Copilot
+- GPT-4.5
+- GPT-4o
+- InstructGPT
+- AlphaGo
+- System 1
+- System 2
+- GPT-2
+- Llama
+- Gemini
+- GPT-5
+- GPT-6
+- Microsoft Office
+- Apple Notes
+- Stuxnet
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zdbVtZIn9IM
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - agi
-  - geopolitics
-  - compute-scaling
-  - national-security
-  - ai-race
-title: 2027年通用人工智能、中美超智能竞赛与历史的回归
-summary: 本次播客探讨了人工智能的快速发展，预测通用人工智能（AGI）将在2027-2028年实现，其驱动力是万亿美元级别的计算集群。讨论深入分析了AGI带来的深远地缘政治影响，特别是中美之间激烈的AI霸权竞争、潜在的智能爆炸以及AI技术扩散和被威权政权滥用的风险。对话还触及了构建大规模AI基础设施的挑战以及提升国家安全意识的必要性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Leopold Aschenbrenner
-  - Dwarkesh Patel
-  - Patrick Collison
-  - John Collison
-  - Daniel Gross
-  - Nat Friedman
-  - Sholto
-  - Trenton
-  - Mark Zuckerberg
-  - John Schulman
-  - Tyler Cowen
-  - Scarlett Johansson
-  - Alec Radford
-  - Leo Szilard
-  - Enrico Fermi
-  - George Pegram
-  - Richard Rhodes
-  - Lavrentiy Beria
-  - Paul Samuelson
-  - William Knudsen
-  - Aleksandr Solzhenitsyn
-  - Mikhail Gorbachev
-companies_orgs:
-  - OpenAI
-  - Nvidia
-  - Microsoft
-  - AMD
-  - Meta
-  - DeepMind
-  - Google
-  - CCP
-  - Ministry of State Security
-  - NKVD
-  - FERC
-  - Amazon
-products_models:
-  - GPT-4
-  - ChatGPT
-  - A100
-  - H100
-  - Copilot
-  - GPT-4.5
-  - GPT-4o
-  - InstructGPT
-  - AlphaGo
-  - System 1
-  - System 2
-  - GPT-2
-  - Llama
-  - Gemini
-  - GPT-5
-  - GPT-6
-  - Microsoft Office
-  - Apple Notes
-  - Stuxnet
-media_books:
-  - 《Situational Awareness》
-  - 《The Information》
-  - 《InstructGPT paper》
-  - 《AlphaGo》
-  - 《Gemini paper》
-  - 《Chinchilla Scaling laws》
-  - 《MoE papers》
-  - 《古拉格群岛》
-  - 《奥本海默》
-  - 《Freedom's Forge》
-  - 《Fast》
-  - 《原子弹秘史》
 status: evergreen
+summary: 本次播客探讨了人工智能的快速发展，预测通用人工智能（AGI）将在2027-2028年实现，其驱动力是万亿美元级别的计算集群。讨论深入分析了AGI带来的深远地缘政治影响，特别是中美之间激烈的AI霸权竞争、潜在的智能爆炸以及AI技术扩散和被威权政权滥用的风险。对话还触及了构建大规模AI基础设施的挑战以及提升国家安全意识的必要性。
+tags:
+- agi
+- compute-scaling
+- llm
+- national-security
+title: 2027年通用人工智能、中美超智能竞赛与历史的回归
 ---
+
 ### AI发展与地缘政治风险
 
 未来面临的风险将不仅仅是酷炫的产品，而是**自由民主**能否存续，**中国共产党**能否存续，以及未来一个世纪的世界秩序将如何演变。**中国共产党（CCP）**将竭尽全力渗透美国的AI实验室，投入数十亿美元，动员数千人，试图在AI领域超越美国。人们没有意识到国家层面的间谍活动有多么激烈。当我们拥有真正的**超级智能**（Superintelligence: 远超人类智能水平的人工智能）时，它们甚至可以像**震网病毒**（Stuxnet: 一种复杂的计算机蠕虫病毒，曾被用于攻击伊朗核设施）一样攻击中国的**数据中心**。你真的认为这会是一家私营公司的事情，而政府不会惊呼“天哪，到底发生了什么？”

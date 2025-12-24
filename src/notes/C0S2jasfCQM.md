@@ -1,49 +1,49 @@
 ---
-author: 柴静 Chai Jing
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- 中科院经济所
 date: '2025-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《圣经》
+- 《左派幼稚病》
+- 《东西方哲学思想史》
+people:
+- 顾准
+- 徐芳
+- 汪碧
+- 毛泽东
+- 薄一波
+- 吴景莲
+- 张春英
+- 陈敏智
+- 顾崇之
+- 吕志伟
+- 钱钟书
+- 吕叔湘
+- 周扬
+- gu-zhun
+products_models: []
+project:
+- historical-analysis
+series: ''
 source: https://www.youtube.com/watch?v=C0S2jasfCQM
 speaker: 柴静 Chai Jing
-tags:
-  - gu-zhun
-  - great-famine
-  - may-seventh-cadre-school
-  - cultural-revolution
-  - intellectual-history
-  - utopianism
-title: 大饥荒废墟上的五七干校“乌托邦最后都是大灾难”｜柴静对话徐方｜顾准
-summary: 本片记录了思想家顾准在大饥荒及“文革”期间的经历，通过其女儿徐芳的视角，展现了知识分子的苦难、坚韧与思想探索，以及对乌托邦理想的深刻反思。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project:
-  - historical-analysis
-people:
-  - 顾准
-  - 徐芳
-  - 汪碧
-  - 毛泽东
-  - 薄一波
-  - 吴景莲
-  - 张春英
-  - 陈敏智
-  - 顾崇之
-  - 吕志伟
-  - 钱钟书
-  - 吕叔湘
-  - 周扬
-companies_orgs:
-  - 中科院经济所
-products_models: []
-media_books:
-  - 《圣经》
-  - 《左派幼稚病》
-  - 《东西方哲学思想史》
 status: evergreen
+summary: 本片记录了思想家顾准在大饥荒及“文革”期间的经历，通过其女儿徐芳的视角，展现了知识分子的苦难、坚韧与思想探索，以及对乌托邦理想的深刻反思。
+tags:
+- china
+- cultural-revolution
+- history
+- technology
+- utopianism
+title: 大饥荒废墟上的五七干校“乌托邦最后都是大灾难”｜柴静对话徐方｜顾准
 ---
+
 ### 历史背景
 
 上期节目，我们读到1959年，思想家**顾准**在集中营的劳改队，亲历了**大饥荒**（Great Famine: 1959-1961年中国发生的严重粮食短缺导致的大规模死亡事件）。灾后同期，商城县有400多个村庄，无人烟。而商城县453个村庄死绝。就在同一时期，信阳所有的大小粮仓都是满的。顾准认为，**大饥荒**不是天灾，也不是简单的人祸，而是一场国家与农民的冲突。根据官方报告，1959年冬天到1960年春天，信阳地区死亡100万余人，占人口13%，死绝5万多户。毁灭村庄1万多个，牲畜死亡21万多头。当地文件中用了4个字：“十事九空”，一片凄凉。

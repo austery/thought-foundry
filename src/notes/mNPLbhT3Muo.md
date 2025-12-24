@@ -1,39 +1,39 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- CPR
+- Parks Canada
 date: '2023-07-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 加拿大20元纸钞
+people:
+- Nicholas Morant
+- Agnes MacDonald
+- John A. Macdonald
+- Queen Victoria
+- Princess Louise Caroline Alberta
+- Lord Lorne
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=mNPLbhT3Muo
 speaker: 莊也雜談
-tags:
-  - banff-national-park
-  - canadian-rockies
-  - lake-louise
-  - moraine-lake
-  - scenic-travel
-title: 班芙国家公园深度游：弓谷大道、露易丝湖与梦莲湖精华攻略
-summary: 本期节目将带您深入探索加拿大班芙国家公园的北部精华景点。从连接班芙镇与路易斯湖的弓谷大道开始，详细介绍约翰斯顿峡谷、城堡山及莫兰特弯道等沿途风光。随后重点聚焦世界闻名的路易斯湖与梦莲湖双湖景区，提供交通、停车、划船、徒步路线等实用攻略，助您规划一场难忘的洛基山之旅。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project: []
-people:
-  - Nicholas Morant
-  - Agnes MacDonald
-  - John A. Macdonald
-  - Queen Victoria
-  - Princess Louise Caroline Alberta
-  - Lord Lorne
-companies_orgs:
-  - CPR
-  - Parks Canada
-products_models: []
-media_books:
-  - 加拿大20元纸钞
 status: evergreen
+summary: 本期节目将带您深入探索加拿大班芙国家公园的北部精华景点。从连接班芙镇与路易斯湖的弓谷大道开始，详细介绍约翰斯顿峡谷、城堡山及莫兰特弯道等沿途风光。随后重点聚焦世界闻名的路易斯湖与梦莲湖双湖景区，提供交通、停车、划船、徒步路线等实用攻略，助您规划一场难忘的洛基山之旅。
+tags:
+- canadian-rocky
+- geopolitics
+- llm
+- national
+- travel
+title: 班芙国家公园深度游：弓谷大道、露易丝湖与梦莲湖精华攻略
 ---
+
 ### 班芙北部风光：弓谷大道与沿途景点
 
 大家好，我是庄野，欢迎您收看庄野杂谈加拿大系列节目。今天咱们继续讲述班芙国家公园的旅程，从班芙镇往北，前往路易斯湖跟梦莲湖一带。然而，在抵达目的地之前，沿途还有许多绝美的景色不容错过。

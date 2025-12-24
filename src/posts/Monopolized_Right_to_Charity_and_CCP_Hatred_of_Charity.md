@@ -1,29 +1,29 @@
 ---
-title: 黄杨钿甜天价耳环背后：被垄断的“慈善权”与中共对慈善的憎恨
-summary: null
-area: null
-category: null
-project: []
-tags:
-  - 政治
-people:
-  - 李厚辰
-  - 贾葭
-  - 伍雷
-companies_orgs: []
-products_models: []
-media_books:
-- 三个水枪手
-date: '2025-07-10'
+area: society-thinking
 author: Lei
-speaker: 三個水槍手
+category: politics-society
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 三个水枪手
+people:
+- 李厚辰
+- 贾葭
+- 伍雷
+products_models: []
+project: []
 series: null
 source: null
+speaker: 三個水槍手
+summary: null
+tags: []
+title: 黄杨钿甜天价耳环背后：被垄断的“慈善权”与中共对慈善的憎恨
 ---
+
 **讨论主题**：中国慈善体系的问题、官方垄断、NGO困境
 
 **涉及事件**：黄杨钿甜事件、雅安地震、汶川地震、郭美美事件、武汉疫情

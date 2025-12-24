@@ -1,31 +1,28 @@
 ---
-title: 2030年AI发展：DeepMind与Epoch AI的保守基线报告深度解读
-summary: 这份报告描绘了2030年AI的“保守基线”：算力增长千倍、投资近2000亿美元、用电占比超2%。AI将优先重塑知识工作，并逐步渗透物理世界，带来巨大的经济增量，但也面临能源、数据和可靠性等挑战。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-2030
-- ai-development
-- compute-trends
-- epoch-ai
-people: []
 companies_orgs:
 - deepmind
-products_models: []
-media_books: []
 date: '2025-10-17'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=a9ZTJ__Sk9Y
+speaker: Best Partners TV
 status: evergreen
+summary: 这份报告描绘了2030年AI的“保守基线”：算力增长千倍、投资近2000亿美元、用电占比超2%。AI将优先重塑知识工作，并逐步渗透物理世界，带来巨大的经济增量，但也面临能源、数据和可靠性等挑战。
+tags:
+- ai-development
+- llm
+- trend
+title: 2030年AI发展：DeepMind与Epoch AI的保守基线报告深度解读
 ---
+
 ### 报告引言：2030年AI的保守基线
 
 近期，由谷歌**DeepMind**（Google旗下的人工智能研究实验室）委托**Epoch AI**（一家专注于预测人工智能发展轨迹的研究机构）完成了一份长达119页的量化研究报告《AI in 2030》。这份报告勾勒出2030年人工智能发展的一条“保守基线”，预计单次训练量将达到10的29次方**浮点运算**（FLOP: Floating Point Operations，衡量计算机处理能力的单位），算力规模将是现在的1000倍左右，硬件投入接近2000亿美元，全球用电占比可能超过2%，最前沿训练的峰值功率将直逼**吉瓦级**（GW: Gigawatt，功率单位，1吉瓦等于10亿瓦）。

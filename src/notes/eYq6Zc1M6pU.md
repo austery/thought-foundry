@@ -1,32 +1,29 @@
 ---
-title: 揭秘大模型推理非确定性：Thinking Machines Lab的批次不变性解决方案
-summary: 本文深入探讨大模型推理中输出非确定性的核心原因——批次不变性缺失。结合Thinking Machines Lab的研究，详细解释了浮点数非结合性如何导致批次依赖，并介绍了针对RMSNorm、矩阵乘法和注意力机制的批次不变内核解决方案，强调其对模型可重复性和在线策略强化学习的重要性。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-inference
-- batch-invariance
-- floating-point-arithmetic
-- llm
-- non-determinism
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books:
-- best-partners-tv
 date: '2025-09-12'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- best-partners-tv
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=eYq6Zc1M6pU
+speaker: Best Partners TV
 status: evergreen
+summary: 本文深入探讨大模型推理中输出非确定性的核心原因——批次不变性缺失。结合Thinking Machines Lab的研究，详细解释了浮点数非结合性如何导致批次依赖，并介绍了针对RMSNorm、矩阵乘法和注意力机制的批次不变内核解决方案，强调其对模型可重复性和在线策略强化学习的重要性。
+tags:
+- llm
+- non-determinism
+- technology
+title: 揭秘大模型推理非确定性：Thinking Machines Lab的批次不变性解决方案
 ---
+
 ### 开篇：大模型推理的“老大难”问题
 
 大家好，这里是最佳拍档，我是大飞。今天将和大家探讨一个大模型开发与应用领域普遍面临的难题：为何在输入完全相同内容时，大模型会产生不同的输出？即使已固定**随机种子**（random seed: 用于初始化伪随机数生成器，确保每次运行生成相同的随机序列），结果依然可能“失控”。

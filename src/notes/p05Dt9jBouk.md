@@ -1,36 +1,33 @@
 ---
-author: AI超元域
+area: tech-engineering
+category: ai-ml
+companies_orgs:
+- OpenAI
 date: '2025-12-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- GPT-5.2-Codex
+- Agent Skills
+- Codex
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=p05Dt9jBouk
 speaker: AI超元域
-tags:
-  - llm
-  - prompt-engineering
-  - ai-agents
-  - coding-tools
-  - gpt-5-2
-  - codex
-title: 开发者必看！Codex新增Agent Skills！GPT-5.2-Codex三大编程任务实测，结果出乎意料！实战开发iOS App，它真的能取代程序员吗？到底是“生产力核弹”还是“又慢又贵”？
-summary: 本视频评测了OpenAI新发布的Agent Skills功能以及GPT-5.2-Codex模型在Codex中的应用。通过UI复刻、框架迁移和iOS原生App开发三大编程任务实测，揭示了GPT-5.2-Codex在代码理解和生成方面有所提升，但速度慢是其主要缺点。视频还演示了Agent Skills如何将AI转化为可控的工程工具，并指出在复杂开发任务中，AI仍存在局限性，如代码质量、架构遵循度及多语言支持等问题。
-insight: ''
-draft: true
-series: ''
-category: ai-coding
-area: tech-work
-project:
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - OpenAI
-products_models:
-  - GPT-5.2-Codex
-  - Agent Skills
-  - Codex
-media_books: []
 status: evergreen
+summary: 本视频评测了OpenAI新发布的Agent Skills功能以及GPT-5.2-Codex模型在Codex中的应用。通过UI复刻、框架迁移和iOS原生App开发三大编程任务实测，揭示了GPT-5.2-Codex在代码理解和生成方面有所提升，但速度慢是其主要缺点。视频还演示了Agent
+  Skills如何将AI转化为可控的工程工具，并指出在复杂开发任务中，AI仍存在局限性，如代码质量、架构遵循度及多语言支持等问题。
+tags:
+- ai-agent
+- code
+- llm
+- tool
+title: 开发者必看！Codex新增Agent Skills！GPT-5.2-Codex三大编程任务实测，结果出乎意料！实战开发iOS App，它真的能取代程序员吗？到底是“生产力核弹”还是“又慢又贵”？
 ---
+
 在发布**Agent Skills**两个月之后，**OpenAI**现在终于支持Agent Skills了。现在，我们就可以在**Codex**的最新版中使用Agent Skills。同时，OpenAI官方还发布了**GPT-5.2-Codex**模型，我们只需要确认Codex已经升级到最新版，然后用斜杠命令加`model`就可以查看GPT-5.2-Codex模型。我这里选择的它的推理级别选的是high，这里也支持extra-high。通过我一上午的使用，发现GPT-5.2-Codex模型，它最大的缺点就是速度太慢了。像一个简单的任务，它可能需要耗费5分钟，甚至更长时间。本期视频我们将在Codex中测试一下Agent Skills的使用方式以及效果，并且在Codex中重点测试GPT-5.2-Codex模型的编程能力。
 
 ### Agent Skills 详解

@@ -1,40 +1,39 @@
 ---
-author: 三個水槍手
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 抖音
+- 观察者网
+- 环球时报
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 陈志翰
+- 王骁
+- 高志凯
+- 李一修
+products_models: []
+project:
+- china-analysis
+- ai-impact-analysis
+- taiwan-analysis
+series: ''
 source: https://www.youtube.com/watch?v=7h31GhuAEX8
 speaker: 三個水槍手
-tags:
-  - cross-strait-relations
-  - united-front
-  - propaganda
-  - live-streaming
-  - taiwan-politics
-title: E107 台湾馆长厦门首秀日入百万！中国买单的是统战虚荣心? 还是商业利益?
-summary: 本期节目深入探讨台湾网红陈志翰（馆长）在抖音的直播首秀及其引发的巨额打赏，分析这背后是中共的统战策略、商业利益驱动，还是数据造假。节目揭示了中国MCN机构的运作模式、台湾网红在两岸关系中的角色，并结合民调数据探讨了台湾民众对两岸关系、国家认同及战争意愿的看法，以及中国对台认知作战的复杂手法。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-  - ai-impact-analysis
-  - taiwan-analysis
-people:
-  - 陈志翰
-  - 王骁
-  - 高志凯
-  - 李一修
-companies_orgs:
-  - 抖音
-  - 观察者网
-  - 环球时报
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨台湾网红陈志翰（馆长）在抖音的直播首秀及其引发的巨额打赏，分析这背后是中共的统战策略、商业利益驱动，还是数据造假。节目揭示了中国MCN机构的运作模式、台湾网红在两岸关系中的角色，并结合民调数据探讨了台湾民众对两岸关系、国家认同及战争意愿的看法，以及中国对台认知作战的复杂手法。
+tags:
+- cross-strait-relations
+- geopolitics
+- live-streaming
+- society
+- taiwan-politics
+title: E107 台湾馆长厦门首秀日入百万！中国买单的是统战虚荣心? 还是商业利益?
 ---
+
 ### 直播首秀与巨额打赏
 最近确实有很多令人比较不舒服的事情。其中一个焦点是台湾网红**陈志翰**（馆长）近期在**抖音**进行了一次直播。这次直播吸引了**405万人次**的点击，最高在线人数超过十万。然而，最令人震惊的是直播期间收到的打赏金额，保守估计高达**三四百万人民币**，其中不乏数千元人民币的“嘉年华”和“小火箭”等虚拟礼物。
 

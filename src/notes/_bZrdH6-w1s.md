@@ -1,72 +1,72 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Texas Instruments
+- Nvidia
+- TSMC
+- Southwest Airlines
+- American Airlines
+- IBM
+- Tesla
+- Intel
+- IOQ
+- Rigetti
+- D-Wave
+- Quantum Computer
+- Google
+- JPMorgan Chase
+- Circle
+- Coinbase
+- Echo
+- ASML
+- Reliance Industries
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 路透社
+- 彭博社
+- 美联社
+people:
+- Donald Trump
+- Xi Jinping
+- Sanae Takaichi
+- Christopher Waller
+- He Lifeng
+- Janet Yellen
+- Vladimir Putin
+- Joe Biden
+products_models:
+- FSD
+- Model 3
+- Model Y
+- Optimus
+- Robotaxi
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=_bZrdH6-w1s
 speaker: 小翠時政財經
-tags:
-  - us-china-relations
-  - software-sanctions
-  - fourth-plenum
-  - economic-stability
-  - quantum-computing
-  - tesla-earnings
-  - market-outlook
-  - financial-system-risk
-title: 川普对华软件制裁与中国四中全会公告：全球经济与地缘政治的交锋
-summary: 本期节目深入分析了川普政府对中国可能实施的软件制裁，以及中国四中全会公报中透露的未来发展方向，特别是“斗争”精神的强化。同时，节目还探讨了特斯拉财报不及预期、日本经济面临的加息压力、美联储对加密货币政策的收紧，以及中国理财市场规模扩大等全球经济热点。主持人强调了地缘政治紧张局势对市场的影响，并对不同投资品类进行了分析，建议投资者关注资产配置和基本面。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Sanae Takaichi
-  - Christopher Waller
-  - He Lifeng
-  - Janet Yellen
-  - Vladimir Putin
-  - Joe Biden
-companies_orgs:
-  - Texas Instruments
-  - Nvidia
-  - TSMC
-  - Southwest Airlines
-  - American Airlines
-  - IBM
-  - Tesla
-  - Intel
-  - IOQ
-  - Rigetti
-  - D-Wave
-  - Quantum Computer
-  - Google
-  - JPMorgan Chase
-  - Circle
-  - Coinbase
-  - Echo
-  - ASML
-  - Reliance Industries
-products_models:
-  - FSD
-  - Model 3
-  - Model Y
-  - Optimus
-  - Robotaxi
-media_books:
-  - 《华尔街日报》
-  - 路透社
-  - 彭博社
-  - 美联社
 status: evergreen
+summary: 本期节目深入分析了川普政府对中国可能实施的软件制裁，以及中国四中全会公报中透露的未来发展方向，特别是“斗争”精神的强化。同时，节目还探讨了特斯拉财报不及预期、日本经济面临的加息压力、美联储对加密货币政策的收紧，以及中国理财市场规模扩大等全球经济热点。主持人强调了地缘政治紧张局势对市场的影响，并对不同投资品类进行了分析，建议投资者关注资产配置和基本面。
+tags:
+- earning
+- economic
+- fourth-plenum
+- market-outlook
+- quantum-computing
+- software
+- system
+- us-china-relations
+title: 川普对华软件制裁与中国四中全会公告：全球经济与地缘政治的交锋
 ---
+
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月23日，欢迎收看我们今天的每日要闻节目。在节目开始之前，我要先感谢各位朋友，因为我昨天提到会员价很便宜很良心，昨天晚上真的有好多好多朋友加入会员，让我受宠若惊。说实在，会员收入主要真的是给YouTube赚的。我们现在大概有700个会员，一个月能拿到1,000美元。我开这个会员频道，主要目的是想要组织一个团契，让大家加入小群，互相沟通交流，交个朋友。所以，会员频道确实不赚钱。
 
 ### 中国A股市场分析

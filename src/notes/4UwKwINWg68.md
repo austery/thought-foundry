@@ -1,35 +1,34 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日诊所
+- 初日医学
+- Cofit
 date: '2025-06-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 范亚萱
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=4UwKwINWg68
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - blood-sugar-management
-  - insulin-response
-  - dietary-choices
-  - street-food-traps
-  - weight-management
-title: 医师实测：街头小吃隐藏的血糖陷阱与聪明吃法
-summary: 范亚萱医师通过实际血糖机数据，揭示了台湾街头小吃中隐藏的血糖陷阱。文章详细解释了进食顺序、食物内容对血糖波动和胰岛素分泌的影响，以及如何避免脂肪储存。通过对虱目鱼米粉汤、牛蒡、紫米等常见食物的实测分析，提供了减少精制淀粉、避免高油高糖、均衡摄取蛋白质与蔬菜的外食控糖策略，帮助读者在享受美食的同时，有效管理血糖和体重。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 范亚萱
-companies_orgs:
-  - 初日诊所
-  - 初日医学
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 范亚萱医师通过实际血糖机数据，揭示了台湾街头小吃中隐藏的血糖陷阱。文章详细解释了进食顺序、食物内容对血糖波动和胰岛素分泌的影响，以及如何避免脂肪储存。通过对虱目鱼米粉汤、牛蒡、紫米等常见食物的实测分析，提供了减少精制淀粉、避免高油高糖、均衡摄取蛋白质与蔬菜的外食控糖策略，帮助读者在享受美食的同时，有效管理血糖和体重。
+tags:
+- health
+- insulin-response
+- life
+- management
+- weight-management
+title: 医师实测：街头小吃隐藏的血糖陷阱与聪明吃法
 ---
+
 ### 街头小吃与健康：血糖波动的秘密
 
 大家好，我是范亚萱医师。你是否跟我一样，出门游玩最期待的就是品尝美食与小吃，但又担心一不小心就会发胖？今天我将带大家实测高雄小吃，并用实际的血糖机数据告诉大家，如何掌握进食顺序和点餐技巧，让你出门在外也能吃得开心又安心。

@@ -1,53 +1,53 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: business
+companies_orgs:
+- Xueqiu
+- BBK
+- Subor
+- Beijing Electron Tube Factory
+- Renmin University of China
+- Apple
+- Tencent
+- Kweichow Moutai
+- NetEase
+- Nokia
+- Panasonic
+- TSMC
+- DeepSeek
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《方略》
+people:
+- Duan Yongping
+- Fang Sanwen
+- Terry Gou
+- Warren Buffett
+- Peter Drucker
+products_models:
+- iPhone
+project:
+- investment-strategy
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=iiYHtk-cfBM
 speaker: Best Partners TV
-tags:
-  - rationality
-  - long-term-investing
-  - corporate-culture
-  - ai-transformation
-  - decision-making
-title: 段永平访谈精粹：理性、克制与长期主义的商业智慧
-summary: 在雪球《方略》访谈中，段永平分享了其贯穿三十年的人生哲学与商业智慧。他强调“做对的事”、本分文化、信任与放权的重要性，并将企业经营与投资视为理解人性和理性的同一件事。面对AI革命，他认为理性与克制是稀缺的长期资产，技术是工具，文化才是灵魂，而投资的核心在于看懂公司和现金流。此次访谈为创业者、企业家和投资人提供了宝贵的启示。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Duan Yongping
-  - Fang Sanwen
-  - Terry Gou
-  - Warren Buffett
-  - Peter Drucker
-companies_orgs:
-  - Xueqiu
-  - BBK
-  - Subor
-  - Beijing Electron Tube Factory
-  - Renmin University of China
-  - Apple
-  - Tencent
-  - Kweichow Moutai
-  - NetEase
-  - Nokia
-  - Panasonic
-  - TSMC
-  - DeepSeek
-products_models:
-  - iPhone
-media_books:
-  - 《方略》
 status: evergreen
+summary: 在雪球《方略》访谈中，段永平分享了其贯穿三十年的人生哲学与商业智慧。他强调“做对的事”、本分文化、信任与放权的重要性，并将企业经营与投资视为理解人性和理性的同一件事。面对AI革命，他认为理性与克制是稀缺的长期资产，技术是工具，文化才是灵魂，而投资的核心在于看懂公司和现金流。此次访谈为创业者、企业家和投资人提供了宝贵的启示。
+tags:
+- ai-transformation
+- corporate-culture
+- decision-making
+- long-term-investing
+- philosophy
+title: 段永平访谈精粹：理性、克制与长期主义的商业智慧
 ---
+
 ### 访谈概述：理性与克制，穿越商业周期
 
 各位读者大家好。在2025年11月11日，由**雪球**（Xueqiu: 中国领先的投资社区平台）出品的《方略》第三季第一期节目中，雪球创始人**方三文**在美国加州与著名企业家、投资人**段永平**进行了一场面对面访谈。这不仅是一场关于财富的对话，更是一次面向创业者、企业家与投资人的理性探讨。

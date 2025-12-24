@@ -1,44 +1,42 @@
 ---
-author: Norges Bank Investment Management
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Stanford Management Company
+- Stanford University
+- Norges Bank Investment Management
+- Google
 date: '2024-04-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Robert Wallace
+- Tron
+- Thomas Edison
+- Harry Markowitz
+- Roald Amundsen
+- Fridtjof Nansen
+- TAA Rosenberg
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=T1kQFz2kbZ0
 speaker: Norges Bank Investment Management
-tags:
-  - endowment-management
-  - investment-strategy
-  - portfolio-diversification
-  - risk-management
-  - governance
-  - long-term-returns
-title: 斯坦福大学捐赠基金的投资成功三支柱：策略、执行与治理
-summary: 斯坦福管理公司首席执行官罗伯特·华莱士分享了斯坦福大学捐赠基金的投资管理框架，强调了实现长期成功的三个核心支柱：策略、执行和治理。他详细阐述了如何通过明确目标、保持股权偏向、多元化投资来制定策略；通过积极的投资组合管理和严格的外部合作伙伴选择来执行策略；以及通过健全的治理结构来抵御市场极端情况。最终，他展示了斯坦福捐赠基金在过去三十年间取得的显著长期回报。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Robert Wallace
-  - Tron
-  - Thomas Edison
-  - Harry Markowitz
-  - Roald Amundsen
-  - Fridtjof Nansen
-  - TAA Rosenberg
-companies_orgs:
-  - Stanford Management Company
-  - Stanford University
-  - Norges Bank Investment Management
-  - Google
-products_models: []
-media_books: []
 status: evergreen
+summary: 斯坦福管理公司首席执行官罗伯特·华莱士分享了斯坦福大学捐赠基金的投资管理框架，强调了实现长期成功的三个核心支柱：策略、执行和治理。他详细阐述了如何通过明确目标、保持股权偏向、多元化投资来制定策略；通过积极的投资组合管理和严格的外部合作伙伴选择来执行策略；以及通过健全的治理结构来抵御市场极端情况。最终，他展示了斯坦福捐赠基金在过去三十年间取得的显著长期回报。
+tags:
+- governance
+- investment
+- long
+- management
+- risk-management
+title: 斯坦福大学捐赠基金的投资成功三支柱：策略、执行与治理
 ---
+
 ### 斯坦福大学及投资概览
 
 非常感谢 Tron 先生的盛情介绍。很高兴今天能与大家相聚，我将分享一个我经常在斯坦福大学思考和管理**斯坦福捐赠基金**（Stanford Endowment Fund: 一种为大学、医院等非营利机构提供长期资金支持的投资组合）时使用的框架。这个框架主要关注我们必须做对的三件事，如果想让斯坦福大学在长期内取得成功，就必须做好这三件事。我称它们为投资成功的三大支柱：策略、执行和治理。

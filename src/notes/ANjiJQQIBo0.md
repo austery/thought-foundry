@@ -1,43 +1,43 @@
 ---
-author: AI超元域
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ANjiJQQIBo0'
-speaker: AI超元域
-tags:
-  - spec-driven-development
-  - ai-coding-assistant
-  - software-development-workflow
-  - project-iteration
-  - code-quality
-title: OpenSpec：AI驱动的规范化开发，加速现有项目迭代
-summary: 本视频详细演示了开源规范驱动开发框架OpenSpec的使用方法。OpenSpec专为在现有项目基础上进行迭代开发而设计，通过引入轻量级规范驱动工作流，确保用户与AI编程助手在代码编写前达成一致，解决AI编码助手在需求不明确时表现出的不可预测性。视频以一个iOS番茄专注应用为例，展示了如何利用OpenSpec新增自定义时长功能，涵盖了从创建提议到文档归档的完整流程，旨在实现高质量、可预测的零失误代码输出。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people: '[]'
+category: technology
 companies_orgs: '[]'
-products_models:
-  - OpenSpec
-  - SpecKit
-  - Kero
-  - WebCoding
-  - Cursor
-  - Codex
-  - Cloud Code
-  - Node.js
-  - Xcode
-  - VS Code
-  - iOS
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people: '[]'
+products_models:
+- OpenSpec
+- SpecKit
+- Kero
+- WebCoding
+- Cursor
+- Codex
+- Cloud Code
+- Node.js
+- Xcode
+- VS Code
+- iOS
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=ANjiJQQIBo0
+speaker: AI超元域
 status: evergreen
+summary: 本视频详细演示了开源规范驱动开发框架OpenSpec的使用方法。OpenSpec专为在现有项目基础上进行迭代开发而设计，通过引入轻量级规范驱动工作流，确保用户与AI编程助手在代码编写前达成一致，解决AI编码助手在需求不明确时表现出的不可预测性。视频以一个iOS番茄专注应用为例，展示了如何利用OpenSpec新增自定义时长功能，涵盖了从创建提议到文档归档的完整流程，旨在实现高质量、可预测的零失误代码输出。
+tags:
+- code
+- development
+- history
+- llm
+- software-development-workflow
+title: OpenSpec：AI驱动的规范化开发，加速现有项目迭代
 ---
+
 ### OpenSpec：AI驱动的规范化开发，加速现有项目迭代
 
 此前，我们详细演示了基于**规范驱动开发**（Spec-driven Development: 一种软件开发方法论，通过编写详细的规范来指导开发过程）的开源工作流项目**SpecKit**。视频发布后，评论区有粉丝提问：如果针对已有项目，如何应用规范驱动开发？鉴于SpecKit更适合从零开始构建新项目，本期视频将为大家演示另一款开源规范驱动开发工作流项目——**OpenSpec**。

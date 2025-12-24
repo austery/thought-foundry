@@ -1,47 +1,44 @@
 ---
-author: AI超元域
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Google
+- Microsoft
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- GPT 5.2
+- Claude Opus 4.5
+- GPT 5.1
+- GPT 5.0
+- Codex
+- ChatGPT
+- Google AK
+- Microsoft AutoGen
+- Minim
+- Pygame
+- Next.js
+- Supabase
+- XCode
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Y2n1HbXXP2c
 speaker: AI超元域
-tags:
-  - gpt-5-2
-  - ai-programming
-  - code-generation
-  - model-evaluation
-  - software-development
-title: GPT-5.2编程能力深度测评：实测UI、算法、重构与全栈开发
-summary: 本视频对OpenAI最新发布的GPT-5.2模型进行了全面的编程能力深度测评。测试涵盖了前端UI复刻、SVG动画生成、复杂算法实现、浏览器自动化、3D数学公式可视化、跨框架智能体重构以及全栈宠物领养平台开发等多个维度。结果显示，GPT-5.2相比GPT-5.1有显著提升，但在某些复杂任务中仍存在逻辑理解不准确、功能实现不完整或效率较低的问题，揭示了其在高级编程任务中的真实水平。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people: []
-companies_orgs:
-  - OpenAI
-  - Google
-  - Microsoft
-products_models:
-  - GPT 5.2
-  - Claude Opus 4.5
-  - GPT 5.1
-  - GPT 5.0
-  - Codex
-  - ChatGPT
-  - Google AK
-  - Microsoft AutoGen
-  - Minim
-  - Pygame
-  - Next.js
-  - Supabase
-  - XCode
-media_books: []
 status: evergreen
+summary: 本视频对OpenAI最新发布的GPT-5.2模型进行了全面的编程能力深度测评。测试涵盖了前端UI复刻、SVG动画生成、复杂算法实现、浏览器自动化、3D数学公式可视化、跨框架智能体重构以及全栈宠物领养平台开发等多个维度。结果显示，GPT-5.2相比GPT-5.1有显著提升，但在某些复杂任务中仍存在逻辑理解不准确、功能实现不完整或效率较低的问题，揭示了其在高级编程任务中的真实水平。
+tags:
+- code-generation
+- llm
+- model-evaluation
+- software-development
+title: GPT-5.2编程能力深度测评：实测UI、算法、重构与全栈开发
 ---
+
 ### GPT-5.2模型概览与测评方法
 
 OpenAI于今天凌晨发布了最新的**GPT-5.2**系列模型。官方发布的基准测试得分显示，GPT-5.2甚至超越了**Claude Opus 4.5**。在**Codex**（OpenAI推出的代码生成模型）最新版本中，以及OpenAI的浏览器中，都已集成了GPT-5.2模型。本期视频将重点测试这款模型的编程能力，以验证GPT-5.2的编程能力是否有了真正的提升。此前在GPT-5.1发布时，曾进行过一期测评视频，结果显示GPT-5.1的效果并不理想。尽管当时评论区有不少反对声音，但几天后，开发者群体在社区中普遍反映GPT-5.1甚至不如GPT-5.0，这证实了测试案例能真实反映模型能力。因此，本期视频将继续采用多种具有代表性的案例对GPT-5.2进行测试。如果GPT-5.2的编程能力确实很强，那么它肯定能很好地完成测试题；如果编程能力不强，那也不能归咎于测试题难度过高。

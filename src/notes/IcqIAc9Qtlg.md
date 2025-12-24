@@ -1,43 +1,42 @@
 ---
-author: 北美王路飞
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- Fannie Mae
+- Freddie Mac
+- AIG
+- National Bureau of Economic Research
+- SEC
+- FDIC
+- Financial Stability Oversight Council
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伦巴第街》
+people:
+- Ben Bernanke
+- Walter Bagehot
+products_models: []
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=IcqIAc9Qtlg
 speaker: 北美王路飞
-tags:
-  - financial-crisis-2008
-  - quantitative-easing
-  - monetary-policy
-  - dodd-frank-act
-  - economic-recovery
-title: 美联储的后危机时代：量化宽松、金融改革与未解的复苏难题
-summary: 本文深入探讨了2008年金融危机后，美联储在伯南克领导下的应对策略。文章详细阐述了“最后贷款人”原则的现代应用、银行压力测试的透明化、以及“量化宽松”（QE）这一前所未有的大规模资产购买计划的运作机制。同时，文章也分析了经济复苏的缓慢、信贷紧缩等结构性障碍，以及《多德-弗兰克法案》如何重塑金融监管，旨在终结“大而不能倒”的困境。最终，文章反思了美联储在危机中扮演的角色及其历史使命。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Ben Bernanke
-  - Walter Bagehot
-companies_orgs:
-  - Federal Reserve
-  - Fannie Mae
-  - Freddie Mac
-  - AIG
-  - National Bureau of Economic Research
-  - SEC
-  - FDIC
-  - Financial Stability Oversight Council
-products_models: []
-media_books:
-  - 《伦巴第街》
 status: evergreen
+summary: 本文深入探讨了2008年金融危机后，美联储在伯南克领导下的应对策略。文章详细阐述了“最后贷款人”原则的现代应用、银行压力测试的透明化、以及“量化宽松”（QE）这一前所未有的大规模资产购买计划的运作机制。同时，文章也分析了经济复苏的缓慢、信贷紧缩等结构性障碍，以及《多德-弗兰克法案》如何重塑金融监管，旨在终结“大而不能倒”的困境。最终，文章反思了美联储在危机中扮演的角色及其历史使命。
+tags:
+- dodd-frank-act
+- economic
+- financial-crisis-2008
+- llm
+title: 美联储的后危机时代：量化宽松、金融改革与未解的复苏难题
 ---
+
 ### 2008年金融危机的余波：美联储的挑战
 
 在前几集中，我们仿佛置身于一场海啸的中心，目睹了2008年那场几乎摧毁全球金融体系的恐慌。那时候，美联储的角色就像一个消防队长，手里拿着高压水枪，唯一的任务就是灭火，不惜一切代价地灭火。但今天，我想带大家把时钟稍微往后拨一点，火确实是灭了，但是当你站在这片废墟上时，你会发现，这个挑战才刚刚开始。这集我们要讲的叫做“余波”（the aftermath），这可能比救火更难。因为当烟雾散去，你面对的是一个从地基到横梁都摇摇欲坠的房子。

@@ -1,42 +1,40 @@
 ---
-author: 大伟探秘加拿大
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 加拿大国家电影局（NFB）
+- 迪士尼
+- 皮克斯
+- 梦工厂
+- Netflix
+- Disney+
+- Corus
+- Nelvana
 date: '2025-12-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 诺曼·麦克拉伦
+products_models:
+- Softimage
+- Maya
+- Toon Boom
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=9iO_SoMw6eE
 speaker: 大伟探秘加拿大
-tags:
-  - llm
-  - animation-industry
-  - canada
-  - ai-impact
-title: 加拿大动画帝国：从辉煌到衰落
-summary: 本视频探讨了加拿大动画产业的兴衰历程。从其黄金时代的辉煌成就，到近年来的结构性崩塌和人才危机，分析了加拿大动画面临的挑战和可能的出路。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 诺曼·麦克拉伦
-companies_orgs:
-  - 加拿大国家电影局（NFB）
-  - 迪士尼
-  - 皮克斯
-  - 梦工厂
-  - Netflix
-  - Disney+
-  - Corus
-  - Nelvana
-products_models:
-  - Softimage
-  - Maya
-  - Toon Boom
-media_books: []
 status: evergreen
+summary: 本视频探讨了加拿大动画产业的兴衰历程。从其黄金时代的辉煌成就，到近年来的结构性崩塌和人才危机，分析了加拿大动画面临的挑战和可能的出路。
+tags:
+- ai-impact
+- canada
+- industry
+title: 加拿大动画帝国：从辉煌到衰落
 ---
+
 ### 加拿大动画的黄金时代起源
 
 如果我跟您说，在美国好莱坞作品中的特效、后期和动画有半数是在加拿大做的，您是否感到惊讶？比如《阿凡达》、《蜘蛛侠》和《怪奇物语》，这些大片的幕后功臣可能就在加拿大。而小朋友们最喜欢的动画片《汪汪队立大功》（**Paw Patrol**），其实是一个彻头彻尾的加拿大动画片。

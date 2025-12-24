@@ -1,44 +1,44 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Chroma
+- Weights & Biases
+- Anthropic
 date: '2025-08-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jeff Huber
+- Jason Liu
+- Peter Drucker
+products_models:
+- MTeb
+- Gina embeddings v3
+- Voyage 3 large
+- text embedding three small
+- Gemini
+- Cleo
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=jryZvCuA0Uc
 speaker: AI Engineer
-tags:
-  - ai-evaluation
-  - data-analysis
-  - retrieval-systems
-  - chatbot-optimization
-  - product-roadmap
-title: 如何有效分析数据以提升AI应用性能
-summary: 本次演讲深入探讨了如何系统化地评估和改进AI应用，特别是检索系统和聊天机器人。Jeff Huber首先介绍了通过“快速评估”（fast evals）来衡量输入数据质量的方法，强调了构建黄金数据集和生成合成查询的重要性。Jason Liu接着阐述了如何通过结构化数据提取和传统数据分析来洞察用户交互和产品输出，从而制定数据驱动的产品路线图。演讲强调了持续实验、细分用户群以及基于影响权重进行决策的关键性，旨在帮助开发者更系统、更确定地提升AI系统性能。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Jeff Huber
-  - Jason Liu
-  - Peter Drucker
-companies_orgs:
-  - Chroma
-  - Weights & Biases
-  - Anthropic
-products_models:
-  - MTeb
-  - Gina embeddings v3
-  - Voyage 3 large
-  - text embedding three small
-  - Gemini
-  - Cleo
-media_books: []
 status: evergreen
+summary: 本次演讲深入探讨了如何系统化地评估和改进AI应用，特别是检索系统和聊天机器人。Jeff Huber首先介绍了通过“快速评估”（fast evals）来衡量输入数据质量的方法，强调了构建黄金数据集和生成合成查询的重要性。Jason
+  Liu接着阐述了如何通过结构化数据提取和传统数据分析来洞察用户交互和产品输出，从而制定数据驱动的产品路线图。演讲强调了持续实验、细分用户群以及基于影响权重进行决策的关键性，旨在帮助开发者更系统、更确定地提升AI系统性能。
+tags:
+- ai-evaluation
+- data
+- optimization
+- product
+- system
+title: 如何有效分析数据以提升AI应用性能
 ---
+
 ### 引言：系统化地审视你的数据
 
 大家好，我是Chroma的联合创始人兼首席执行官Jeff Huber，Jason也加入了我们。我们将进行一个两部分的演讲，内容非常丰富。这是今天的最后一场会议，所以我们希望给大家带来很多有价值的信息。今天演示中的所有内容都是开源的，代码也都可以获取。我们不销售任何工具，所以全程都会有二维码供大家获取代码。现在，让我们来谈谈如何审视你的数据。

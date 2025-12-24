@@ -1,37 +1,37 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- Clean Air Partnership
+- TVO Today
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Provincial Planning Statement
+- Toronto Green Standard
+people:
+- Adam
+products_models: []
+project:
+- systems-thinking
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=UuW1o6jglwQ
 speaker: TVO Today
-tags:
-  - nature-based-solutions
-  - urban-planning
-  - climate-adaptation
-  - green-infrastructure
-  - environmental-policy
-title: 树木如何保护我们免受极端天气影响？
-summary: 本文探讨了自然解决方案在城市应对气候变化挑战中的关键作用。Adam解释了树木如何通过蒸散作用、遮荫和吸收热量来缓解极端高温，以及通过根系吸收和土壤渗透来管理洪水。文章还讨论了树木对空气污染的净化作用，并强调了提高公众意识和制定更具前瞻性的政策（如绿色发展标准和省级规划声明）以促进城市绿色基础设施建设的必要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - geopolitics-watch
-people:
-  - Adam
-companies_orgs:
-  - Clean Air Partnership
-  - TVO Today
-products_models: []
-media_books:
-  - Provincial Planning Statement
-  - Toronto Green Standard
 status: evergreen
+summary: 本文探讨了自然解决方案在城市应对气候变化挑战中的关键作用。Adam解释了树木如何通过蒸散作用、遮荫和吸收热量来缓解极端高温，以及通过根系吸收和土壤渗透来管理洪水。文章还讨论了树木对空气污染的净化作用，并强调了提高公众意识和制定更具前瞻性的政策（如绿色发展标准和省级规划声明）以促进城市绿色基础设施建设的必要性。
+tags:
+- climate
+- environment
+- environmental-policy
+- infrastructure
+- urban
+title: 树木如何保护我们免受极端天气影响？
 ---
+
 ### 引入自然解决方案
 
 主持人: 嘿，Adam，你好吗？

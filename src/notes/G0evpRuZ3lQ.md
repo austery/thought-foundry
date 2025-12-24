@@ -1,35 +1,35 @@
 ---
-title: Anthropic 专家 Carly 分享：Claude 模型与 AI 代理的专业 Prompt Engineering 技巧
-summary: Anthropic 应用人工智能专家 Carly 深入探讨了 Prompt Engineering 的最佳实践，特别针对 Claude 模型、AI
-  代理的构建原则，以及如何在 Kilo Code 等工具中高效应用这些技巧，以提升 AI 编码效率。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai-agent
-  - anthropic-claude
-  - kilo-code
-  - prompt-engineering
-people:
-  - Alex
-  - Justin
-  - Carly
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-08-01
+area: tech-engineering
 author: Lei
-speaker: ''
+category: ai-ml
 channel: null
+companies_orgs: []
+date: 2025-08-01
 draft: true
 file_name: anthropic_claude_ai_agent_prompt_engineering_guide.md
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Alex
+- Justin
+- Carly
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=G0evpRuZ3lQ&t
+speaker: ''
+summary: Anthropic 应用人工智能专家 Carly 深入探讨了 Prompt Engineering 的最佳实践，特别针对 Claude 模型、AI
+  代理的构建原则，以及如何在 Kilo Code 等工具中高效应用这些技巧，以提升 AI 编码效率。
+tags:
+- ai-agent
+- code
+title: Anthropic 专家 Carly 分享：Claude 模型与 AI 代理的专业 Prompt Engineering 技巧
+companies:
+- anthropic-claude
 ---
+
 ## 开场与介绍
 
 **Alex**: But now you definitely can. Hello, greetings everyone. That is Justin. He is lead of developer relations and killer code and we are putting him first time on the screen should have happened earlier Justin .

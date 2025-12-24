@@ -1,45 +1,44 @@
 ---
-author: 人民公園說AI
+area: market-analysis
+category: finance
+companies_orgs:
+- Polymarket
+- nof1
+- 幻方
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+- THREAD
+products_models:
+- DeepSeek
+- Gemini
+- Claude
+- Grok
+- ChatGPT
+- 通义千问
+- MMLU
+project:
+- ai-impact-analysis
+- investment-strategy
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=a3_yWYk-Ozs
 speaker: 人民公園說AI
-tags:
-  - ai-quant-trading
-  - open-source-ai
-  - model-limitations
-  - market-strategy
-  - ai-competition
-title: AI模型炒币大比拼：中国开源模型表现亮眼，量化交易的未来走向何方？
-summary: 本文深入探讨了一场由美国实验室nof1在Polymarket平台发起的六大AI模型炒币竞赛。主持人与嘉宾老修详细分析了此次比赛的局限性，包括短周期、缺乏实时场外信息及模型记忆缺陷，并指出这些因素导致模型表现出类似人类散户的“不稳定性”。文章随后讨论了当前利用AI进行量化交易的最佳时机，强调了中国开源模型DeepSeek和通义千问在数据处理基本功上的优势，并展望了AI在金融市场中策略涌现的潜力与挑战，以及未来AI与AI对抗、监管的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - china-analysis
-people: []
-companies_orgs:
-  - Polymarket
-  - nof1
-  - 幻方
-products_models:
-  - DeepSeek
-  - Gemini
-  - Claude
-  - Grok
-  - ChatGPT
-  - 通义千问
-  - MMLU
-media_books:
-  - X
-  - THREAD
 status: evergreen
+summary: 本文深入探讨了一场由美国实验室nof1在Polymarket平台发起的六大AI模型炒币竞赛。主持人与嘉宾老修详细分析了此次比赛的局限性，包括短周期、缺乏实时场外信息及模型记忆缺陷，并指出这些因素导致模型表现出类似人类散户的“不稳定性”。文章随后讨论了当前利用AI进行量化交易的最佳时机，强调了中国开源模型DeepSeek和通义千问在数据处理基本功上的优势，并展望了AI在金融市场中策略涌现的潜力与挑战，以及未来AI与AI对抗、监管的重要性。
+tags:
+- ai-competition
+- llm
+- market-strategy
+- model
+- open-source-ai
+title: AI模型炒币大比拼：中国开源模型表现亮眼，量化交易的未来走向何方？
 ---
+
 ### AI模型炒币大比拼：一场“不稳定性稳定”的实验
 
 主持人: 现在的模型，如果真的把所有条件都打开，它能不能直接进入股市？我觉得至少它的不稳定性是稳定的。我们经常说“一顿操作猛如虎，其实输出二百五”。这次的六个模型各有特色，大家会试图把它带入“原生家庭”进行解读。例如，**DeepSeek**（中国开源大模型，以其量化基因背景而闻名）之所以火，是因为它背后有量化的基因在里面。**Gemini**（谷歌开发的多模态大模型）则更像散户，操作超级多，很焦虑，几天交易几十次，结果亏得最多。我认为在现在这个时间点，反倒是用模型去炒股、做**量化**（Quantitative Trading: 利用数学模型和计算机程序进行交易的策略）的最佳时机。

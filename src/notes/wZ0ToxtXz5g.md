@@ -1,35 +1,32 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs: []
 date: '2024-06-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Francois Chollet
+products_models:
+- LLM
+- multimodal model
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=wZ0ToxtXz5g
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - agi
-  - ai-benchmarks
-  - intelligence
-  - memorization
-title: If an LLM solves this then we'll probably have AGI – Francois Chollet
-summary: 本次对话探讨了人工智能的通用性问题，重点关注了ARC基准测试。嘉宾认为，如果一个多模态模型能达到人类80%的水平解决ARC，则可能预示着AGI的到来。讨论深入到智能的本质，将其类比为寻路算法，并对比了人类学习与LLM训练中的“记忆”与“推理”界限。文章还触及了通过大规模数据生成和自动化在静态分布下的潜力，以及当前模型相对于人脑的参数限制。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Francois Chollet
-  - Dwarkesh Patel
-companies_orgs: []
-products_models:
-  - LLM
-  - multimodal model
-media_books: []
 status: evergreen
+summary: 本次对话探讨了人工智能的通用性问题，重点关注了ARC基准测试。嘉宾认为，如果一个多模态模型能达到人类80%的水平解决ARC，则可能预示着AGI的到来。讨论深入到智能的本质，将其类比为寻路算法，并对比了人类学习与LLM训练中的“记忆”与“推理”界限。文章还触及了通过大规模数据生成和自动化在静态分布下的潜力，以及当前模型相对于人脑的参数限制。
+tags:
+- agi
+- intelligence
+- llm
+- memorization
+title: If an LLM solves this then we'll probably have AGI – Francois Chollet
 ---
+
 ### ARC基准与AGI的可能迹象
 
 假设一年后，一个**多模态模型**（能够处理多种类型数据（如文本、图像、音频）的AI模型）能够解决**ARC**（A.R.C.: AI Reasoning Challenge，一个衡量AI推理能力的基准测试），并达到人类平均水平的80%，那么**AGI**（Artificial General Intelligence: 人工通用智能）很可能就指日可待了。主持人**Dwarkesh Patel**和嘉宾**Francois Chollet**对此进行了探讨。嘉宾表示，他个人希望看到一个**LLM**（Large Language Model: 大型语言模型）类型的模型能以80%的准确率解决ARC，但前提是其训练信息不包含明确旨在预测ARC测试集的内容。

@@ -1,34 +1,32 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-09-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 毛泽东
+- 扁鹊
+- 蔡桓公
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=SHY1Tp6c2HM
 speaker: 徒步的騎手
-tags:
-  - cult-of-personality
-  - historical-allegory
-  - social-critique
-  - political-mythology
-title: 从“红太阳”到“桩上龟公”：被制造的“伟人”如何祸害几代中国人
-summary: 本文深刻剖析了“伟人”形象的虚假性及其对中国社会造成的深远伤害。通过将曾经的“红太阳”解构为“桩上龟公”这一隐喻，文章揭示了被神化领袖的无能本质，并将其宣传的宏大叙事与几代人经历的真实苦难进行对比。同时，文章借用“扁鹊见蔡桓公”的历史典故，辛辣地讽刺了当下中国社会对危机视而不见、智者纷纷“润”走的危险局面，警示着一场无人能幸免的危机正在到来。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 毛泽东
-  - 扁鹊
-  - 蔡桓公
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深刻剖析了“伟人”形象的虚假性及其对中国社会造成的深远伤害。通过将曾经的“红太阳”解构为“桩上龟公”这一隐喻，文章揭示了被神化领袖的无能本质，并将其宣传的宏大叙事与几代人经历的真实苦难进行对比。同时，文章借用“扁鹊见蔡桓公”的历史典故，辛辣地讽刺了当下中国社会对危机视而不见、智者纷纷“润”走的危险局面，警示着一场无人能幸免的危机正在到来。
+tags:
+- historical
+- political
+- psychology
+- social
+title: 从“红太阳”到“桩上龟公”：被制造的“伟人”如何祸害几代中国人
 ---
 
 ### 从“红太阳”到“桩上龟公”：解构被神化的偶像

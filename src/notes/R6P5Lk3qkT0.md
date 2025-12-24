@@ -1,54 +1,54 @@
 ---
-author: 王红雨
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- CBO
 date: '2025-06-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《赤字迷思》
+people:
+- Alexander Hamilton
+- Stephanie Kelton
+- Donald Trump
+- Elon Musk
+- Ray Dalio
+- Jamie Dimon
+- Warren Buffett
+- Jerome Powell
+- Shinzo Abe
+- Joe Biden
+- 顾超明
+products_models:
+- 现代货币理论 (MMT)
+- 安倍经济学
+- 拜登经济学
+- 大美丽法案
+- 天才法案
+- 海湖庄园协议
+- CPP
+- HOLI FE
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=R6P5Lk3qkT0
 speaker: 王红雨
-tags:
-  - us-debt
-  - modern-monetary-theory
-  - fiscal-policy
-  - trade-war
-  - currency-devaluation
-title: 美债投资：在变局中寻找确定性——从历史、MMT到川普政策的深度解析
-summary: 本文深入探讨了美债的投资价值，从其诞生之初的汉密尔顿时代，到现代货币理论（MMT）的重新定义，再到特朗普政府的系列政策（如大美丽法案、海湖庄园协议）对其信誉和需求的影响。文章分析了加拿大等国抛售美债的现象，并汇集了达利欧、巴菲特等专家的多元观点。最终，作者给出了关于普通人投资美债的个人建议，强调了汇率风险和本地资产的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Alexander Hamilton
-  - Stephanie Kelton
-  - Donald Trump
-  - Elon Musk
-  - Ray Dalio
-  - Jamie Dimon
-  - Warren Buffett
-  - Jerome Powell
-  - Shinzo Abe
-  - Joe Biden
-  - 顾超明
-companies_orgs:
-  - CBO
-products_models:
-  - 现代货币理论 (MMT)
-  - 安倍经济学
-  - 拜登经济学
-  - 大美丽法案
-  - 天才法案
-  - 海湖庄园协议
-  - CPP
-  - HOLI FE
-media_books:
-  - 《赤字迷思》
 status: evergreen
+summary: 本文深入探讨了美债的投资价值，从其诞生之初的汉密尔顿时代，到现代货币理论（MMT）的重新定义，再到特朗普政府的系列政策（如大美丽法案、海湖庄园协议）对其信誉和需求的影响。文章分析了加拿大等国抛售美债的现象，并汇集了达利欧、巴菲特等专家的多元观点。最终，作者给出了关于普通人投资美债的个人建议，强调了汇率风险和本地资产的重要性。
+tags:
+- currency
+- debt
+- fiscal-policy
+- theory
+- trade-war
+title: 美债投资：在变局中寻找确定性——从历史、MMT到川普政策的深度解析
 ---
+
 ### 美债投资：一个悬而未决的全球性议题
 
 大家好，今天是2025年6月29日，欢迎大家再次回到我的频道。今天要跟大家聊一个大家一直讨论很多，但悬而未决的问题：在目前的情况下，尤其是特朗普执政以来，美债还值不值得投资？

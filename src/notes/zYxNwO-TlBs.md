@@ -1,49 +1,49 @@
 ---
-author: 政經孫老師
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 中国央企
+- Circle
+- G7
 date: '2025-07-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 香港信报
+- 施政报告
+- 亚洲金融论坛
+people:
+- 李家超
+products_models:
+- 港币
+- 离岸人民币
+- 欧元
+- 日元
+- 加元
+- 澳元
+- 美元
+- 稳定币
+- 联系汇率
+- 国安法
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=zYxNwO-TlBs
 speaker: 政經孫老師
-tags:
-  - stablecoin-regulation
-  - offshore-rmb
-  - hong-kong-finance
-  - linked-exchange-rate
-  - money-laundering
-title: 香港稳定币浪潮：金融转型、港币终结与背后的利益博弈
-summary: 香港正积极推动稳定币立法，此举不仅预示着其金融结构的深层变革，也引发了对港币联系汇率及存续的广泛关注。本文深入分析了香港稳定币政策背后的官方意图（如提升离岸人民币需求、吸纳外汇）与私利驱动（如洗钱、赌博、资本套利），揭示了高门槛发行机制如何偏袒中资机构，以及香港国际金融中心地位的衰退。最终，文章探讨了港币可能因使用场景收窄而逐渐走向终结的命运，并将其视为香港金融“二次回归”的标志。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 李家超
-companies_orgs:
-  - 中国央企
-  - Circle
-  - G7
-products_models:
-  - 港币
-  - 离岸人民币
-  - 欧元
-  - 日元
-  - 加元
-  - 澳元
-  - 美元
-  - 稳定币
-  - 联系汇率
-  - 国安法
-media_books:
-  - 香港信报
-  - 施政报告
-  - 亚洲金融论坛
 status: evergreen
+summary: 香港正积极推动稳定币立法，此举不仅预示着其金融结构的深层变革，也引发了对港币联系汇率及存续的广泛关注。本文深入分析了香港稳定币政策背后的官方意图（如提升离岸人民币需求、吸纳外汇）与私利驱动（如洗钱、赌博、资本套利），揭示了高门槛发行机制如何偏袒中资机构，以及香港国际金融中心地位的衰退。最终，文章探讨了港币可能因使用场景收窄而逐渐走向终结的命运，并将其视为香港金融“二次回归”的标志。
+tags:
+- finance
+- investment
+- offshore-rmb
+- rate
+- regulation
+title: 香港稳定币浪潮：金融转型、港币终结与背后的利益博弈
 ---
+
 ### 引言：香港金融格局的深层变化
 
 今天我们来谈谈香港，但今天不打算说香港的政治，因为政治方面已经没什么好说的了。香港现在就是中国广东省的一个直辖市。我今天想说的是关于香港金融的一些事情，尤其是香港准备立法推出**稳定币**（Stablecoin: 一种旨在保持价格稳定的加密货币，通常与法定货币或其他资产挂钩）这个事情。这件事情引起了很多人的关注，我觉得它也象征着香港的金融结构正在改变，以及香港功能的一个变化。

@@ -1,79 +1,79 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Intel
+- Hoover Institution
+- National Development and Reform Commission
+- Ministry of Industry and Information Technologies
+- Communist Party of China
+- SMIC
+- Huawei
+- ByteDance
+- DJI
+- Qualcomm
+- Nvidia
+- Meta
+- Foxconn
+- McKinsey & Company
+- OpenAI
+- BYD
+- Xiaomi
+- ZTE
+- National Science Foundation
+- National Institutes of Health
+- Bloomberg Podcasts
 date: '2025-09-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots podcast
+- 'Breakneck: China''s Quest to Engineer the Future'
+- Moby Dick
+- Bartleby, the Scrivener
+- Foreign Affairs
+people:
+- Dan Wang
+- Tracy Alloway
+- Joe Weisenthal
+- Donald Trump
+- Deng Xiaoping
+- Mao Zedong
+- Hu Jintao
+- Wen Jiabao
+- Xi Jinping
+- Li Keqiang
+- Arthur Kroeber
+- Tyler Cowen
+- Howard Lutnick
+- Cameron Johnson
+- Joseph Torigian
+- Herman Melville
+- Rockwell Kent
+- Friedrich Hayek
+- Dwight D. Eisenhower
+products_models:
+- DeepSeek
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=VaNy4J4cju8
 speaker: Bloomberg Podcasts
-tags:
-  - engineering-state
-  - overcapacity
-  - tech-rivalry
-  - manufacturing-base
-  - export-controls
-title: 丹·王谈中国经济的飞速增长：工程治国、产能过剩与科技雄心
-summary: 本期节目中，嘉宾丹·王深入探讨了中国经济的飞速增长及其背后的“工程治国”理念。他分析了中国在基础设施建设上的巨大成就，但也指出了产能过剩和“内卷”政策带来的挑战。节目还讨论了美国出口管制对中国科技发展的影响，以及中国在人工智能领域的独特优势，包括电力供应和成熟芯片。此外，对话触及了中国社会对“躺平”现象的看法，以及企业家面临的不确定性，并对中美两国经济模式进行了比较。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Dan Wang
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Donald Trump
-  - Deng Xiaoping
-  - Mao Zedong
-  - Hu Jintao
-  - Wen Jiabao
-  - Xi Jinping
-  - Li Keqiang
-  - Arthur Kroeber
-  - Tyler Cowen
-  - Howard Lutnick
-  - Cameron Johnson
-  - Joseph Torigian
-  - Herman Melville
-  - Rockwell Kent
-  - Friedrich Hayek
-  - Dwight D. Eisenhower
-companies_orgs:
-  - Intel
-  - Hoover Institution
-  - National Development and Reform Commission
-  - Ministry of Industry and Information Technologies
-  - Communist Party of China
-  - SMIC
-  - Huawei
-  - ByteDance
-  - DJI
-  - Qualcomm
-  - Nvidia
-  - Meta
-  - Foxconn
-  - McKinsey & Company
-  - OpenAI
-  - BYD
-  - Xiaomi
-  - ZTE
-  - National Science Foundation
-  - National Institutes of Health
-  - Bloomberg Podcasts
-products_models:
-  - DeepSeek
-media_books:
-  - Odd Lots podcast
-  - 'Breakneck: China''s Quest to Engineer the Future'
-  - Moby Dick
-  - Bartleby, the Scrivener
-  - Foreign Affairs
 status: evergreen
+summary: 本期节目中，嘉宾丹·王深入探讨了中国经济的飞速增长及其背后的“工程治国”理念。他分析了中国在基础设施建设上的巨大成就，但也指出了产能过剩和“内卷”政策带来的挑战。节目还讨论了美国出口管制对中国科技发展的影响，以及中国在人工智能领域的独特优势，包括电力供应和成熟芯片。此外，对话触及了中国社会对“躺平”现象的看法，以及企业家面临的不确定性，并对中美两国经济模式进行了比较。
+tags:
+- export-control
+- manufacturing
+- society
+- state
+- tech
+title: 丹·王谈中国经济的飞速增长：工程治国、产能过剩与科技雄心
 ---
+
 ### 美国对中国的模仿与反思
 
 **丹·王:** 特蕾西，当我第一次听到“**解放日**”（Liberation Day: 指美国政府宣布对中国实施关税的日期，与中国历史上的“解放日”形成对比）的关税时，我觉得“解放”这个词听起来不太像美国词汇，在我听来它更像一个中国词汇。

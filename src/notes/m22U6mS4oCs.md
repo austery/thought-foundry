@@ -1,48 +1,48 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Orange Group
+- Norges Bank Investment Management
+- GSMA
+- China Mobile
+- Boston Consulting Group
+- Alcatel-Lucent
+- Schneider Electric
+- OpenAI
 date: '2025-08-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Mobile World Congress
+people:
+- Nicolai Tangen
+- Christel Heydemann
+- Mario Draghi
+products_models:
+- 5G
+- 6G
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=m22U6mS4oCs
 speaker: Norges Bank Investment Management
-tags:
-  - telecom-industry
-  - ai-impact
-  - market-consolidation
-  - digital-sovereignty
-  - network-investment
-title: Orange CEO Christel Heydemann 论电信行业变革、AI影响与领导力
-summary: Orange集团首席执行官Christel Heydemann在播客中深入探讨了电信行业的关键议题。她阐述了电信连接在日常生活中的核心作用，分析了人工智能（AI）技术对网络流量和未来发展带来的深远影响。Heydemann还指出了欧洲电信市场碎片化所导致的投资困境，并详细解读了数字主权的战略意义。此外，她分享了Orange在业务多元化方面的探索、其工程背景如何塑造独特的战略视角，以及她直接、充满活力的领导风格，强调了终身学习和勇于迎接挑战的职业哲学。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Nicolai Tangen
-  - Christel Heydemann
-  - Mario Draghi
-companies_orgs:
-  - Orange Group
-  - Norges Bank Investment Management
-  - GSMA
-  - China Mobile
-  - Boston Consulting Group
-  - Alcatel-Lucent
-  - Schneider Electric
-  - OpenAI
-products_models:
-  - 5G
-  - 6G
-media_books:
-  - In Good Company
-  - Mobile World Congress
 status: evergreen
+summary: Orange集团首席执行官Christel Heydemann在播客中深入探讨了电信行业的关键议题。她阐述了电信连接在日常生活中的核心作用，分析了人工智能（AI）技术对网络流量和未来发展带来的深远影响。Heydemann还指出了欧洲电信市场碎片化所导致的投资困境，并详细解读了数字主权的战略意义。此外，她分享了Orange在业务多元化方面的探索、其工程背景如何塑造独特的战略视角，以及她直接、充满活力的领导风格，强调了终身学习和勇于迎接挑战的职业哲学。
+tags:
+- ai-impact
+- digital
+- industry
+- investment
+- market
+title: Orange CEO Christel Heydemann 论电信行业变革、AI影响与领导力
 ---
+
 ### 引言
 
 主持人: 大家好，欢迎收听《In Good Company》播客。我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威管理全球最大主权财富基金的机构）的首席执行官Nicolai Tangen。

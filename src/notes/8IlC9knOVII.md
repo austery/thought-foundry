@@ -1,44 +1,44 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 同仁医院
+- 301医院
+- 辉瑞
+- 同仁堂
 date: '2023-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 庄也杂谈
+people:
+- 庄也
+- 庄也的老爹
+- 小孙
+products_models:
+- 利普妥
+- 甲硝唑
+- 连花清瘟
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=8IlC9knOVII
 speaker: 莊也雜談
-tags:
-  - china-healthcare-system
-  - medical-insurance-reform
-  - healthcare-access
-  - social-inequality
-  - medical-corruption
-title: 亲历中国医疗体系：从潜规则到医保改革的深层观察
-summary: 本文深入探讨了作者回国陪父亲就医的亲身经历，从挂号的“潜规则”到社区医院的便捷，展现了中国医疗体系的复杂面貌。文章详细分析了中国医保制度的三个等级及其不平等、医保资金分配不合理、地区医疗资源差异巨大以及医生收入偏低导致的医患信任危机等四大核心问题。同时，也肯定了中国医疗在普惠性、效率和灵活性方面的显著成就，为理解中国医疗改革的现状与挑战提供了客观视角。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 庄也
-  - 庄也的老爹
-  - 小孙
-companies_orgs:
-  - 同仁医院
-  - 301医院
-  - 辉瑞
-  - 同仁堂
-products_models:
-  - 利普妥
-  - 甲硝唑
-  - 连花清瘟
-media_books:
-  - 庄也杂谈
 status: evergreen
+summary: 本文深入探讨了作者回国陪父亲就医的亲身经历，从挂号的“潜规则”到社区医院的便捷，展现了中国医疗体系的复杂面貌。文章详细分析了中国医保制度的三个等级及其不平等、医保资金分配不合理、地区医疗资源差异巨大以及医生收入偏低导致的医患信任危机等四大核心问题。同时，也肯定了中国医疗在普惠性、效率和灵活性方面的显著成就，为理解中国医疗改革的现状与挑战提供了客观视角。
+tags:
+- china-healthcare-system
+- healthcare-access
+- medical
+- reform
+- social-inequality
+title: 亲历中国医疗体系：从潜规则到医保改革的深层观察
 ---
+
 ### 中国医疗体系：个人观察与深层思考
 
 今天，我们将继续探讨2023年回国探亲的话题，聚焦一个相对敏感但又非常重要的议题：中国当前的医疗体制。曾几何时，移民加拿大的主要动因之一便是羡慕其全民免费医疗，因为在中国看病存在诸多问题，一想到年老后“看病难、看病贵”便感到焦虑。如今，我们已在加拿大生活多年，深知其医疗体系亦是好坏参半，一言难尽。与此同时，中国的医疗体制改革也在不断推进。那么，当前中国的医疗状况究竟如何？与过去相比，是进步还是退步？哪些地方取得了进展，又有哪些问题依然悬而未决？

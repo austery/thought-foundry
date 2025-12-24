@@ -1,30 +1,28 @@
 ---
-title: 22亿美元公司创始人的创业忠告与成功哲学
-summary: Sadi Khan分享创业忠告、AAN使命、团队建设、产品开发、领导力及个人生活哲学。
 area: tech-insights
 category: technology
-project: []
-tags:
-- fintech
-- leadership-philosophy
-- personal-efficiency
-- startup-advice
-- team-building
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-09'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=al8nDmjVzxo
+speaker: EO
 status: evergreen
+summary: Sadi Khan分享创业忠告、AAN使命、团队建设、产品开发、领导力及个人生活哲学。
+tags:
+- fintech
+- leadership-philosophy
+- life
+- personal
+- startup
+title: 22亿美元公司创始人的创业忠告与成功哲学
 ---
+
 ### 创业忠告：极度坚定的信念
 
 My first piece of advice to most people would be: don't start a company.

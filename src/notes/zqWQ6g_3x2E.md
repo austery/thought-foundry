@@ -1,54 +1,55 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- MicroStrategy
+- UFC
+- Apple
+- Tesla
+- Google
+- Intel
+- Microsoft
+- Nvidia
+- OpenAI
+- Coreweave
+- Nabeas
+- Circle
+- Disney
+- Palantir
+- Coinbase
+- investing.com
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CNN
+people:
+- Donald Trump
+- Sam Altman
+- Warren Buffett
+- Satya Nadella
+products_models:
+- IBIT
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=zqWQ6g_3x2E
 speaker: 投资TALK君
-tags:
-  - market-sentiment
-  - valuation-correction
-  - premium-analysis
-  - position-management
-title: 市场情绪低迷下的投资策略：深入分析 MSTR 溢价与仓位调整时机
-summary: 在当前市场情绪低迷、指数全面下跌的背景下，讲者分享了其“左侧交易”的仓位调整策略，并认为当前是重新审视特定标的的好时机。文章深入剖析了 MicroStrategy (MSTR) 相对于比特币的溢价变化，探讨了其作为市场情绪领先指标的可能性，并回应了关于 AI 公司债券风险、个股选择以及宏观经济噪音等热点问题。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Donald Trump
-  - Sam Altman
-  - Warren Buffett
-  - Satya Nadella
-companies_orgs:
-  - MicroStrategy
-  - UFC
-  - Apple
-  - Tesla
-  - Google
-  - Intel
-  - Microsoft
-  - Nvidia
-  - OpenAI
-  - Coreweave
-  - Nabeas
-  - Circle
-  - Disney
-  - Palantir
-  - Coinbase
-  - investing.com
-products_models:
-  - IBIT
-media_books:
-  - CNN
 status: evergreen
+summary: 在当前市场情绪低迷、指数全面下跌的背景下，讲者分享了其“左侧交易”的仓位调整策略，并认为当前是重新审视特定标的的好时机。文章深入剖析了 MicroStrategy
+  (MSTR) 相对于比特币的溢价变化，探讨了其作为市场情绪领先指标的可能性，并回应了关于 AI 公司债券风险、个股选择以及宏观经济噪音等热点问题。
+tags:
+- analysis
+- management
+- market-sentiment
+- valuation
+title: 市场情绪低迷下的投资策略：深入分析 MSTR 溢价与仓位调整时机
 ---
+
 ### 市场回顾：情绪低迷与全面下跌
 大家好，今天不能聊太长时间。我会稍微聊一下 MicroStrategy (MSTR)，我为此做了一些功课，回顾了过去一段时间的走势。
 

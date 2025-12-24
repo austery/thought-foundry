@@ -1,53 +1,53 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: psychology
+companies_orgs:
+- Jewish Church
+- Inquisition
 date: '2024-05-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《伦理学》
+- 《神学政治论》
+- 《圣经》
+- 《绝命毒师》
+- 《人性的枷锁》
+people:
+- Einstein
+- Spinoza
+- Descartes
+- Hegel
+- Nicolas Malebranche
+- Nietzsche
+- Freud
+- Deleuze
+- Arne Naess
+- Jason Read
+- W. Somerset Maugham
+- Lothar Bickel
+products_models:
+- HelloVoice
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ViN-DxJKZmk
 speaker: 超級歪 SuperY
-tags:
-  - spinoza-philosophy
-  - causal-determinism
-  - human-nature
-  - free-will
-  - affect-theory
-title: 爱因斯坦与斯宾诺莎的“上帝”：探寻自由与人性的哲学之旅
-summary: 本文深入探讨了17世纪荷兰哲学家斯宾诺莎的核心思想，特别是他“自然即是上帝”的泛神论观点，以及其对因果决定论和人类自由的深刻影响。文章详细阐述了斯宾诺莎对人性的独特理解，包括“康德”（conatus）与“情感”（affect）理论，揭示了人类行为背后不为人知的欲望与力量关系。通过解析斯宾诺莎的哲学，我们得以反思如何超越情感与外部限制，实现真正的理性自主与自我实现，从而获得现代意义上的自由。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Einstein
-  - Spinoza
-  - Descartes
-  - Hegel
-  - Nicolas Malebranche
-  - Nietzsche
-  - Freud
-  - Deleuze
-  - Arne Naess
-  - Jason Read
-  - W. Somerset Maugham
-  - Lothar Bickel
-companies_orgs:
-  - Jewish Church
-  - Inquisition
-products_models:
-  - HelloVoice
-media_books:
-  - 《伦理学》
-  - 《神学政治论》
-  - 《圣经》
-  - 《绝命毒师》
-  - 《人性的枷锁》
 status: evergreen
+summary: 本文深入探讨了17世纪荷兰哲学家斯宾诺莎的核心思想，特别是他“自然即是上帝”的泛神论观点，以及其对因果决定论和人类自由的深刻影响。文章详细阐述了斯宾诺莎对人性的独特理解，包括“康德”（conatus）与“情感”（affect）理论，揭示了人类行为背后不为人知的欲望与力量关系。通过解析斯宾诺莎的哲学，我们得以反思如何超越情感与外部限制，实现真正的理性自主与自我实现，从而获得现代意义上的自由。
+tags:
+- causal-determinism
+- free-will
+- human-nature
+- philosophy
+- theory
+title: 爱因斯坦与斯宾诺莎的“上帝”：探寻自由与人性的哲学之旅
 ---
+
 ### 斯宾诺莎的生平与思想启蒙
 
 哲学令人心旷神怡，使人感到无比愉悦。在上一期视频中，我们介绍了笛卡尔，而本期将介绍与笛卡尔同时代的哲学家——斯宾诺莎。斯宾诺莎是爱因斯坦最推崇的哲学家之一，爱因斯坦曾表示他只相信斯宾诺莎的上帝。在今天的节目中，我们将详细解释斯宾诺莎的“上帝”究竟意味着什么。

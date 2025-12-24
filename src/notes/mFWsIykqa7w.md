@@ -1,68 +1,69 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: business
+companies_orgs:
+- WWE
+- Netflix
+- ESPN
+- CW
+- USA
+- NBCU
+- UFC
+- Marvel
 date: '2025-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wrestler
+- Unreal
+people:
+- Triple H
+- Jerry Lawler
+- Hulk Hogan
+- Stone Cold Steve Austin
+- Donald Trump
+- The Rock
+- Conor McGregor
+- Shawn Michaels
+- Ric Flair
+- Ivan Kolaf
+- Arnold Schwarzenegger
+- Rege Park
+- Bruno San Martino
+- Roman Reigns
+- Ria Ripley
+- David Sacks
+- Jason Calacanis
+- Chamath Palihapitiya
+- David Friedberg
+products_models:
+- Royal Rumble
+- WrestleMania
+- Raw
+- Smackdown
+- NXT
+- Peacock
+- Ozempic
+project:
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=mFWsIykqa7w
 speaker: All-In Podcast
-tags:
-  - wwe-business-model
-  - entertainment-industry
-  - charisma-leadership
-  - character-development
-  - live-experiences
-title: Triple H 谈 WWE 的演变：从反英雄到共享体验的商业帝国
-summary: 本文深入探讨了 WWE 传奇人物 Triple H（保罗·莱维斯克）从明星选手到首席创意官的职业生涯。他分享了 WWE 选手所需的综合素质，以及魅力在娱乐和政治中的关键作用。文章分析了摔跤角色从传统英雄到反英雄的演变，并对比了 WWE 的叙事驱动与 MMA 的竞技模式。此外，Triple H 还阐述了 WWE 作为现场体验驱动的全球商业模式，以及其如何通过数字平台讲述故事，并强调了共享现场体验对家庭和社会的价值。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Triple H
-  - Jerry Lawler
-  - Hulk Hogan
-  - Stone Cold Steve Austin
-  - Donald Trump
-  - The Rock
-  - Conor McGregor
-  - Shawn Michaels
-  - Ric Flair
-  - Ivan Kolaf
-  - Arnold Schwarzenegger
-  - Rege Park
-  - Bruno San Martino
-  - Roman Reigns
-  - Ria Ripley
-  - David Sacks
-  - Jason Calacanis
-  - Chamath Palihapitiya
-  - David Friedberg
-companies_orgs:
-  - WWE
-  - Netflix
-  - ESPN
-  - CW
-  - USA
-  - NBCU
-  - UFC
-  - Marvel
-products_models:
-  - Royal Rumble
-  - WrestleMania
-  - Raw
-  - Smackdown
-  - NXT
-  - Peacock
-  - Ozempic
-media_books:
-  - The Wrestler
-  - Unreal
 status: evergreen
+summary: 本文深入探讨了 WWE 传奇人物 Triple H（保罗·莱维斯克）从明星选手到首席创意官的职业生涯。他分享了 WWE 选手所需的综合素质，以及魅力在娱乐和政治中的关键作用。文章分析了摔跤角色从传统英雄到反英雄的演变，并对比了
+  WWE 的叙事驱动与 MMA 的竞技模式。此外，Triple H 还阐述了 WWE 作为现场体验驱动的全球商业模式，以及其如何通过数字平台讲述故事，并强调了共享现场体验对家庭和社会的价值。
+tags:
+- character-development
+- charisma-leadership
+- experience
+- industry
+- wwe-business-model
+title: Triple H 谈 WWE 的演变：从反英雄到共享体验的商业帝国
 ---
+
 ### 摔跤传奇的演变：从擂台到幕后
 
 这位十四届的 **WWE**（世界摔跤娱乐：全球最大的职业摔跤推广公司）世界冠军、两次皇家大战（Royal Rumble）的赢家，现在正幕后运营着世界摔跤娱乐。

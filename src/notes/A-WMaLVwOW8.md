@@ -1,35 +1,35 @@
 ---
-author: Norges Bank Investment Management
+area: personal-systems
+category: psychology
+companies_orgs:
+- Norges Bank Investment Management
 date: '2024-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Power of Regret
+people:
+- Nikolai Tangen
+- Dan Pink
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=A-WMaLVwOW8
 speaker: Norges Bank Investment Management
-tags:
-  - regret
-  - timing
-  - breaks
-  - counterfactual-thinking
-  - work-performance
-title: 丹·平克谈后悔的力量、时机与高效休息的关键
-summary: 在本次播客节选中，畅销书作家丹·平克与挪威主权财富基金首席执行官尼古拉·坦根探讨了后悔的积极作用、工作时机的选择以及有效休息的秘诀。平克强调，我们应从后悔中学习，而非一味逃避，并分享了他对全球2.6万人的后悔研究。他还讨论了反事实思维如何影响我们对成就的感知，以及如何通过优化工作节奏和休息方式来提升表现。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Nikolai Tangen
-  - Dan Pink
-companies_orgs:
-  - Norges Bank Investment Management
-products_models: []
-media_books:
-  - The Power of Regret
 status: evergreen
+summary: 在本次播客节选中，畅销书作家丹·平克与挪威主权财富基金首席执行官尼古拉·坦根探讨了后悔的积极作用、工作时机的选择以及有效休息的秘诀。平克强调，我们应从后悔中学习，而非一味逃避，并分享了他对全球2.6万人的后悔研究。他还讨论了反事实思维如何影响我们对成就的感知，以及如何通过优化工作节奏和休息方式来提升表现。
+tags:
+- break
+- performance
+- regret
+- thinking
+- timing
+title: 丹·平克谈后悔的力量、时机与高效休息的关键
 ---
+
 ### 引言：丹·平克谈后悔、驱动力与时机
 
 大家好，欢迎收听本期播客的短版，我们每周五都会推出短版，而完整版则在每周三上线。

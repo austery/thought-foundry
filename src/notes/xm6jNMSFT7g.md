@@ -1,54 +1,55 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: technology
+companies_orgs:
+- Anthropic
+- Norges Bank Investment Management
+- Amazon
+- Google
+- Apple
+- OpenAI
+- Nvidia
+- Griffin Biosciences
+- DeepMind
+- Meta
+- Mistral
 date: '2024-06-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dario Amodei
+- Bill Gates
+products_models:
+- Claude
+- Claude 3
+- Opus
+- Sonet
+- Haiku
+- GPT-2
+- GPT-3
+- AlphaGo
+- AlphaGo Zero
+project:
+- ai-impact-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=xm6jNMSFT7g
 speaker: Norges Bank Investment Management
-tags:
-  - ai-safety
-  - model-interpretability
-  - scaling-hypothesis
-  - catastrophic-risk
-  - race-to-the-top
-title: Anthropic CEO Dario Amodei：论AI的前沿、安全竞赛与社会未来
-summary: Anthropic 公司联合创始人兼 CEO Dario Amodei 深入探讨了人工智能的最新突破，特别是模型规模的持续扩大和“可解释性”研究的重要性。他分享了 Anthropic 的 Claude 模型的设计理念，并展望了未来几年可能出现的、能力超越人类的 AI。Amodei 重点阐述了公司的核心使命——引领一场关于 AI 安全和伦理的“良性竞争”（race to the top），并详细解释了其“负责任扩展政策”如何应对滥用和自主行为等灾难性风险。他还讨论了 AI 对地缘政治、经济生产力以及社会平等的深远影响。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-people:
-  - Dario Amodei
-  - Bill Gates
-companies_orgs:
-  - Anthropic
-  - Norges Bank Investment Management
-  - Amazon
-  - Google
-  - Apple
-  - OpenAI
-  - Nvidia
-  - Griffin Biosciences
-  - DeepMind
-  - Meta
-  - Mistral
-products_models:
-  - Claude
-  - Claude 3
-  - Opus
-  - Sonet
-  - Haiku
-  - GPT-2
-  - GPT-3
-  - AlphaGo
-  - AlphaGo Zero
-media_books: []
 status: evergreen
+summary: Anthropic 公司联合创始人兼 CEO Dario Amodei 深入探讨了人工智能的最新突破，特别是模型规模的持续扩大和“可解释性”研究的重要性。他分享了
+  Anthropic 的 Claude 模型的设计理念，并展望了未来几年可能出现的、能力超越人类的 AI。Amodei 重点阐述了公司的核心使命——引领一场关于
+  AI 安全和伦理的“良性竞争”（race to the top），并详细解释了其“负责任扩展政策”如何应对滥用和自主行为等灾难性风险。他还讨论了 AI 对地缘政治、经济生产力以及社会平等的深远影响。
+tags:
+- ai-safety
+- model
+- risk
+- scaling-hypothesis
+- society
+title: Anthropic CEO Dario Amodei：论AI的前沿、安全竞赛与社会未来
 ---
+
 ### AI 的最新突破：规模化与可解释性
 
 人工智能的规模化趋势仍在继续。未来一年，我们将看到更大、更强的模型，能够处理更复杂的任务。事实上，到这个播客播出时，Anthropic 将会发布一款新模型，它很可能会成为世界上最智能、最强大的模型。

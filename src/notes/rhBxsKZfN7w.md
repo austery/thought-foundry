@@ -1,44 +1,42 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Meta
+- Micron
+- Nvidia
+- Tesla
+- Ditech Networks
 date: '2024-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Charlie Munger
+- Warren Buffett
+- Mohnish Pabrai
+- Li Lu
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=rhBxsKZfN7w
 speaker: Shijun Tang
-tags:
-  - value-investing
-  - capability-circle
-  - market-emotions
-  - leverage-risk
-  - fomo
-title: 如何把握非凡的投资机会：价值投资、能力圈与市场情绪的博弈
-summary: 本文深入剖析了在当今高度投机化的美股市场中，散户如何通过价值投资、构建能力圈和理解市场情绪来把握非凡的投资机会。作者强调，真正的投资是理解公司基本面而非追逐价格波动，并指出杠杆与FOMO是普通人最危险的陷阱。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - historical-insights
-people:
-  - Shijun Tang
-  - Charlie Munger
-  - Warren Buffett
-  - Mohnish Pabrai
-  - Li Lu
-companies_orgs:
-  - Meta
-  - Micron
-  - Nvidia
-  - Tesla
-  - Ditech Networks
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入剖析了在当今高度投机化的美股市场中，散户如何通过价值投资、构建能力圈和理解市场情绪来把握非凡的投资机会。作者强调，真正的投资是理解公司基本面而非追逐价格波动，并指出杠杆与FOMO是普通人最危险的陷阱。
+tags:
+- capability-circle
+- investment
+- leverage-risk
+- market
+title: 如何把握非凡的投资机会：价值投资、能力圈与市场情绪的博弈
 ---
+
 ### 把握非凡投资机会的核心逻辑
 
 非凡的投资机会，从来不会出现在满大街人人在谈论的热点里。当所有人都在热议Meta股价88美元、英伟达974美元、比特币七万美元一枚、特斯拉抄底180美元时，你几乎听不到有人讨论Micron为何只值48美元。真正的机会，往往藏在被忽视的角落。

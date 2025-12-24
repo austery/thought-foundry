@@ -1,35 +1,33 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
 date: '2025-01-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李思贤
+products_models:
+- 三日苗
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=PW7MK-4jouw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - healthy-lifestyle
-  - weight-management
-  - dietary-habits
-  - circadian-rhythm
-  - ketone-monitoring
-title: 减重医师李思贤的一天：健康生活与工作平衡的实践
-summary: 本文记录了初日诊所李思贤医师的一天，从清晨的咖啡、自制健康饮品、健身房锻炼，到诊所看诊、午餐选择，再到傍晚的市场采购、烹饪健康晚餐，以及利用红光调节生理时钟。李医师分享了他在体重管理、青少年减重挑战及个人健康习惯上的见解，并介绍了如何通过监测血糖和酮体来评估身体状态，展现了其专业与生活平衡的健康实践。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 李思贤
-companies_orgs:
-  - 初日診所
-products_models:
-  - 三日苗
-media_books: []
 status: evergreen
+summary: 本文记录了初日诊所李思贤医师的一天，从清晨的咖啡、自制健康饮品、健身房锻炼，到诊所看诊、午餐选择，再到傍晚的市场采购、烹饪健康晚餐，以及利用红光调节生理时钟。李医师分享了他在体重管理、青少年减重挑战及个人健康习惯上的见解，并介绍了如何通过监测血糖和酮体来评估身体状态，展现了其专业与生活平衡的健康实践。
+tags:
+- circadian-rhythm
+- health
+- ketone-monitoring
+- weight-management
+title: 减重医师李思贤的一天：健康生活与工作平衡的实践
 ---
+
 ### 清晨的健康习惯与锻炼
 
 李医师每天早上都会手冲一杯咖啡。我的妻子习惯不吃早餐。家中的宠物里昂今天享用生牛肉。由于天气较冷，我们会将肉稍微加热，模拟动物刚捕获时的状态，让它感觉像捕猎到小动物一样。

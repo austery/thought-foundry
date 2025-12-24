@@ -1,39 +1,36 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 渣打银行
+- 汇丰银行
+- 中国银行
+- 黑龙江库买尔和金矿局
 date: '2025-04-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 马克思
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=4BQijY6qGTQ
 speaker: 海淀拙大叔
-tags:
-  - commodity-currency
-  - crisis-preparedness
-  - hyperinflation
-  - currency-attributes
-  - storage-strategy
-title: 乱世求生：何为最佳预防性商品货币贮藏手段？
-summary: 在面临战争或恶性通胀等不可预测的危机时，个人应如何进行财富贮藏？本文探讨了商品货币的本质与特性，分析了黄金、比特币、粮食等常见储备品的优缺点，并结合历史经验与货币原理，提出知名品牌、中等价位的白酒，因其稀缺性、易于储存、价值增值及高辨识度，是应对特殊时期风险的最佳预防性商品货币贮藏手段。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - 马克思
-  - 海淀拙大叔
-companies_orgs:
-  - 渣打银行
-  - 汇丰银行
-  - 中国银行
-  - 黑龙江库买尔和金矿局
-products_models: []
-media_books: []
 status: evergreen
+summary: 在面临战争或恶性通胀等不可预测的危机时，个人应如何进行财富贮藏？本文探讨了商品货币的本质与特性，分析了黄金、比特币、粮食等常见储备品的优缺点，并结合历史经验与货币原理，提出知名品牌、中等价位的白酒，因其稀缺性、易于储存、价值增值及高辨识度，是应对特殊时期风险的最佳预防性商品货币贮藏手段。
+tags:
+- crisis
+- currency
+- financial
+- strategy
+title: 乱世求生：何为最佳预防性商品货币贮藏手段？
 ---
+
 ### 危机下的财富贮藏：一个紧迫的问题
 
 阿甘经济宏观论第11集，什么是最好的预防性贮藏手段？今天是2024年的最后一天。前两天在复盘中，我问到大家一个问题：一旦发生了我们不愿看到、不能预期具体时间的不幸事件，比如说战争，我们最好事先做哪些准备？去贮藏些什么东西？大家知道，从我们正常的经济进入到战时经济或者短缺经济，很可能出现个人财富的大翻盘。所以我们事先做一些准备，不是什么坏事情。很多人提出，比如说贮藏黄金、粮食，甚至比特币，还有说要存盐的，这些其实都挺好。特别提出来要存盐的，那一定是有过生活阅历，甚至可能在这方面有过思考的人。

@@ -1,33 +1,32 @@
 ---
-title: 中东停火、中美贸易与美国政府停摆：彭博早间新闻聚焦
-summary: 本期彭博早间新闻聚焦中东停火与人质交换、美国对华贸易政策新动向、政府停摆僵局、法国内阁重组，以及美国经济、市场动态与全球要闻。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- economic-outlook
-- global-news
-- government-shutdown
-- middle-east-peace
-- us-china-trade
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=05plEvJ1uxc
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期彭博早间新闻聚焦中东停火与人质交换、美国对华贸易政策新动向、政府停摆僵局、法国内阁重组，以及美国经济、市场动态与全球要闻。
+tags:
+- economic-outlook
+- global
+- government-shutdown
+- middle-east-peace
+- us-china-relations
+title: 中东停火、中美贸易与美国政府停摆：彭博早间新闻聚焦
 ---
+
 ### 中东停火与人质交换
 
 Nathan Hager: Good morning. I'm Nathan Hager.

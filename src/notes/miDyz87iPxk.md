@@ -1,49 +1,48 @@
 ---
-author: 北美王路飞
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- US Treasury
+- Silicon Valley Bank
+- AIG
+- Lehman Brothers
+- Fannie Mae
+- Freddie Mac
 date: '2025-09-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- All In Podcast
+people:
+- Alan Greenspan
+- Ben Bernanke
+- William McChesney Martin Jr.
+- Arthur Burns
+- Paul Volcker
+- Jimmy Carter
+- Donald Trump
+- Jerome Powell
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=miDyz87iPxk
 speaker: 北美王路飞
-tags:
-  - monetary-policy
-  - financial-stability
-  - housing-bubble
-  - great-moderation
-  - systemic-risk
-title: 格林斯潘时代：大缓和下的金融暗流与2008危机的种子
-summary: 本文深入探讨了美联储在艾伦·格林斯潘领导下的“大缓和”时期，经济表面繁荣稳定，实则埋下了2008年全球金融危机的隐患。文章分析了美联储在货币政策、金融监管和消费者保护方面的失职，以及房地产泡沫的形成机制。通过伯南克的内部视角，揭示了过度借贷、风险管理失控及监管体系滞后等深层脆弱性，强调了金融系统复杂性与谦卑的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - market-cycles
-people:
-  - Alan Greenspan
-  - Ben Bernanke
-  - William McChesney Martin Jr.
-  - Arthur Burns
-  - Paul Volcker
-  - Jimmy Carter
-  - Donald Trump
-  - Jerome Powell
-companies_orgs:
-  - Federal Reserve
-  - US Treasury
-  - Silicon Valley Bank
-  - AIG
-  - Lehman Brothers
-  - Fannie Mae
-  - Freddie Mac
-products_models: []
-media_books:
-  - All In Podcast
 status: evergreen
+summary: 本文深入探讨了美联储在艾伦·格林斯潘领导下的“大缓和”时期，经济表面繁荣稳定，实则埋下了2008年全球金融危机的隐患。文章分析了美联储在货币政策、金融监管和消费者保护方面的失职，以及房地产泡沫的形成机制。通过伯南克的内部视角，揭示了过度借贷、风险管理失控及监管体系滞后等深层脆弱性，强调了金融系统复杂性与谦卑的重要性。
+tags:
+- bubble
+- financial-stability
+- history
+- systemic-risk
+title: 格林斯潘时代：大缓和下的金融暗流与2008危机的种子
 ---
+
 ### 美联储的权威与2008危机的悖论
 
 美联储在公众心中一直是一个高大且权威的机构，拥有美元的印钞权，其一举一动都牵动着全球经济的神经。它常被视为经济的守护神，能够维持经济稳定增长并有效控制通货膨胀。尤其是在**艾伦·格林斯潘**（Alan Greenspan: 曾任美联储主席，任期长达近19年）时代，美国经济经历了一个所谓的“**大缓和**”（The Great Moderation: 指1980年代中期至2000年代中期，美国经济波动性显著降低，通货膨胀和经济增长都保持在较低且稳定的水平的时期），经济表现稳健，让全世界都觉得美联储驯服了经济周期这头猛兽。

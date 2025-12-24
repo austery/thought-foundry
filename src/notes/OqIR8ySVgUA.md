@@ -1,41 +1,41 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Google
+- US Department of Defense
+- Anduril
 date: '2024-04-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Marc Andreessen
+- Elon Musk
+products_models:
+- ChatGPT
+- Starlink
+project:
+- us-analysis
+- china-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=OqIR8ySVgUA
 speaker: Norges Bank Investment Management
-tags:
-  - ai-platform-shift
-  - geopolitical-competition
-  - western-dynamism
-  - technological-superiority
-  - centralized-vs-decentralized
-title: Marc Andreessen 谈 AI 竞赛、地缘政治与西方活力
-summary: 在2024年投资大会上，知名风险投资家 Marc Andreessen 深入探讨了人工智能作为新平台带来的技术颠覆，以及其在地缘政治竞争中的核心地位。他强调了西方在与中国AI竞赛中取胜的必要性，并分析了去中心化与中心化系统各自的优劣。Andreessen 呼吁西方社会重拾对技术和经济进步的信心，通过创新和创业精神来重振活力，以应对全球挑战并实现持续增长。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - ai-impact-analysis
-people:
-  - Marc Andreessen
-  - Elon Musk
-companies_orgs:
-  - Norges Bank Investment Management
-  - Google
-  - US Department of Defense
-  - Anduril
-products_models:
-  - ChatGPT
-  - Starlink
-media_books: []
 status: evergreen
+summary: 在2024年投资大会上，知名风险投资家 Marc Andreessen 深入探讨了人工智能作为新平台带来的技术颠覆，以及其在地缘政治竞争中的核心地位。他强调了西方在与中国AI竞赛中取胜的必要性，并分析了去中心化与中心化系统各自的优劣。Andreessen
+  呼吁西方社会重拾对技术和经济进步的信心，通过创新和创业精神来重振活力，以应对全球挑战并实现持续增长。
+tags:
+- centralized-vs-decentralized
+- geopolitical-competition
+- platform
+- technological
+- western-dynamism
+title: Marc Andreessen 谈 AI 竞赛、地缘政治与西方活力
 ---
+
 ### 投资哲学与宏观挑战
 
 主持人: 嗨，马克，很高兴再次见到你。

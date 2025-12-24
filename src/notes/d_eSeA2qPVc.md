@@ -1,29 +1,27 @@
 ---
-title: 驾驭心流：实现不可能的艺术
-summary: 本文分享《不可能的艺术》核心理念，探讨心流背后的科学原理、如何利用心流实现宏大目标，以及培养迎难而上、任务细分和持续学习创造力的重要启发。
 area: null
 category: null
-project: []
-tags:
-  - flow-state
-  - learning-creativity
-  - peak-performance
-  - personal-development
-people:
-  - steven-kotler
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-08-18'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- steven-kotler
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d_eSeA2qPVc
+speaker: 一口新飯
 status: evergreen
+summary: 本文分享《不可能的艺术》核心理念，探讨心流背后的科学原理、如何利用心流实现宏大目标，以及培养迎难而上、任务细分和持续学习创造力的重要启发。
+tags:
+- learning
+- performance
+- personal-development
+- state
+title: 驾驭心流：实现不可能的艺术
 ---
 
 ### 心流：实现大目标的关键

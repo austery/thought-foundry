@@ -1,47 +1,46 @@
 ---
-author: All-In Podcast
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- 美国财政部
+- 美联储
+- 波音
+- 麻省理工学院
+- 劳工统计局
+- 旧金山联储
+- Strategus Research
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《美联储：不平等引擎》
+people:
+- Scott Bessent
+- Donald Trump
+- Alan Greenspan
+- Ben Bernanke
+- Karen Petrou
+- Steven Myron
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=G0GuHkUbuEY
 speaker: All-In Podcast
-tags:
-  - fiscal-policy
-  - monetary-policy
-  - tariffs
-  - inflation
-  - economic-inequality
-  - federal-reserve
-title: 斯科特·贝森特：美联储改革、国家安全关税与2026年的经济可负担性
-summary: 美国财政部长**斯科特·贝森特**在All-In播客中回顾了**特朗普政府**执政第一年的经济政策，并展望了2026年的经济前景。他讨论了预算赤字、关税对国家安全和贸易平衡的积极影响，以及普通民众对通胀和可负担性的不满。贝森特批评了**美联储**的**量化宽松**（QE）政策加剧了经济不平等，并主张回归更传统、可预测的中央银行角色。他还强调了即将生效的减税政策和旨在提高金融素养的“**特朗普账户**”计划。
-insight: ''
-draft: true
-series: ''
-category: macro-economics
-area: finance-wealth
-project:
-  - us-analysis
-  - investment-strategy
-people:
-  - Scott Bessent
-  - Donald Trump
-  - Alan Greenspan
-  - Ben Bernanke
-  - Karen Petrou
-  - Steven Myron
-companies_orgs:
-  - 美国财政部
-  - 美联储
-  - 波音
-  - 麻省理工学院
-  - 劳工统计局
-  - 旧金山联储
-  - Strategus Research
-products_models: []
-media_books:
-  - 《美联储：不平等引擎》
 status: evergreen
+summary: 美国财政部长**斯科特·贝森特**在All-In播客中回顾了**特朗普政府**执政第一年的经济政策，并展望了2026年的经济前景。他讨论了预算赤字、关税对国家安全和贸易平衡的积极影响，以及普通民众对通胀和可负担性的不满。贝森特批评了**美联储**的**量化宽松**（QE）政策加剧了经济不平等，并主张回归更传统、可预测的中央银行角色。他还强调了即将生效的减税政策和旨在提高金融素养的“**特朗普账户**”计划。
+tags:
+- economic-inequality
+- federal-reserve
+- fiscal-policy
+- inflation
+- tariff
+title: 斯科特·贝森特：美联储改革、国家安全关税与2026年的经济可负担性
 ---
+
 ### 财政状况与赤字目标
 
 主持人欢迎**斯科特·贝森特**回到All-In播客，感谢他抽出时间回顾执政第一年，并讨论美国政府的财政状况、美国经济的经济状况（包括华尔街和普通民众的情况），以及政府政策和决策的实施情况。主持人首先提及上次对话中，贝森特曾提出将预算赤字降至**GDP**（Gross Domestic Product: 国内生产总值，衡量一国经济产出的总值）3%以下的目标，并询问目前的进展以及对2026财年的展望。贝森特表示，2025年是“为未来铺垫”的一年，而2026年将是“盛宴”之年。尽管在政府停摆期间公布，美国在2025财年实现了轻微的财政紧缩，赤字从预估的2万亿美元降至1.78万亿美元，远好于预期。他指出，**拜登政府**在2024年第四季度为了副总统**哈里斯**的选举，支出了40%的政府预算。贝森特预测，本日历年将实现约2000亿至3000亿美元的财政紧缩，相当于GDP的0.7%至1%。随着名义增长接近6%，赤字占GDP的比例将从去年的峰值6.8%-8%降至5.5%左右。他相信，在**特朗普总统**离任时，赤字占GDP的比例将稳定在3%左右，从而实现债务偿还。

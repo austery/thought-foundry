@@ -1,41 +1,38 @@
 ---
-author: Anthropic
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Anthropic
+- AFT
+- MIT
 date: '2025-12-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Drew Bent
+- Zoe
+- Maggie
+- Ephraim
+- Joe Feller
+- Rick Dakan
+products_models:
+- Claude
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Uh98_aGhAuY
 speaker: Anthropic
-tags:
-  - llm
-  - prompt-engineering
-  - critical-thinking
-  - personalized-learning
-  - teacher-burnout
-title: AI如何重塑教育：Anthropic团队的深度思考与实践
-summary: Anthropic团队成员探讨了人工智能对教育的深远影响，包括其带来的巨大机遇和潜在风险。他们分享了个人对AI教育的看法，并介绍了Anthropic在开发AI素养课程、推出Claude“学习模式”以及与教育机构合作方面的实践。讨论强调了AI在个性化学习、评估创新和教师减负方面的潜力，同时也指出了数据隐私、机构适应性以及培养学生批判性思维以应对AI时代挑战的重要性。最终，团队展望了AI时代教育的未来，认为它将促使人类回归更本质的连接与提问能力。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Drew Bent
-  - Zoe
-  - Maggie
-  - Ephraim
-  - Joe Feller
-  - Rick Dakan
-companies_orgs:
-  - Anthropic
-  - AFT
-  - MIT
-products_models:
-  - Claude
-media_books: []
 status: evergreen
+summary: Anthropic团队成员探讨了人工智能对教育的深远影响，包括其带来的巨大机遇和潜在风险。他们分享了个人对AI教育的看法，并介绍了Anthropic在开发AI素养课程、推出Claude“学习模式”以及与教育机构合作方面的实践。讨论强调了AI在个性化学习、评估创新和教师减负方面的潜力，同时也指出了数据隐私、机构适应性以及培养学生批判性思维以应对AI时代挑战的重要性。最终，团队展望了AI时代教育的未来，认为它将促使人类回归更本质的连接与提问能力。
+tags:
+- critical-thinking
+- learning
+- psychology
+title: AI如何重塑教育：Anthropic团队的深度思考与实践
 ---
+
 ### AI与教育：机遇与挑战并存
 
 我个人非常不希望看到一个未来，教师将教育中那些真正有价值的部分——即与学生建立联系、深入了解他们并花时间陪伴他们的部分——外包给AI。AI可以通过多种方式让教师有更多时间投入到这类工作中。我很高兴能与各机构交流，探讨如何放大他们已有的知识。大家好，我们今天来讨论我最喜欢的话题：AI与教育。我是**Drew Bent**，负责**Anthropic**教育领域中有益部署的工作。我曾是一名高中数学老师，我的父母也是教育工作者。我曾在教育非营利组织工作，并认为自己是一个终身学习者。今天与我一同参与讨论的是我在公司教育团队的优秀同事们。**Zoe**，你愿意先开始吗？我很乐意。大家好，我是**Zoe**，我在**Anthropic**的教育团队工作，负责支持所有非技术受众，包括向教师和学生普及我们的产品和通用AI知识。大家好，我是**Maggie**，我创立并目前管理和支持这个教育团队，我们内部亲切地称之为“教育部”。大家好，我是**Ephraim**，我是一名产品工程经理，也参与了我们面向教育的一些产品开发。

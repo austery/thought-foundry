@@ -1,31 +1,29 @@
 ---
-title: 裸辞与间隔年：拥抱不确定性，定义你的人生路径——《The Pathless Path》的四大启示
-summary: 本文结合《The Pathless Path》一书的作者访谈与个人经历，分享裸辞与间隔年（Gap Year）的四个核心启示，旨在帮助读者拥抱不确定性，找到内心能量来源，为新生活打样，并书写属于自己的人生剧本。
 area: personal-growth
 category: career
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-tags:
-  - career-change
-  - gap-year
-  - personal-growth
-  - uncertainty
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-  - the-pathless-path
 date: '2024-12-27'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- the-pathless-path
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
 series: ''
 source: https://www.youtube.com/watch?v=Elsh6-tcYRA
+speaker: 一口新飯
 status: evergreen
+summary: 本文结合《The Pathless Path》一书的作者访谈与个人经历，分享裸辞与间隔年（Gap Year）的四个核心启示，旨在帮助读者拥抱不确定性，找到内心能量来源，为新生活打样，并书写属于自己的人生剧本。
+tags:
+- career
+- gap
+- llm
+- personal-growth
+title: 裸辞与间隔年：拥抱不确定性，定义你的人生路径——《The Pathless Path》的四大启示
 ---
 
 ### 序言：人生转折期的必读书籍

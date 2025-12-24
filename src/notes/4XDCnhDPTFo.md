@@ -1,53 +1,53 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: culture
+companies_orgs:
+- ISIS
+- EDL
+- Center for the Analysis of Islam and Antisemitism
+- Youth Association
 date: '2023-09-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《古兰经》
+- 《死亡的牧师》
+- 《反恐主义》
+people:
+- 柴静
+- Osama Hassan
+- Suhail
+- Chi Shi
+- David
+- Benyatou
+- Mawa
+- Emily
+- Mohamed Baqiri
+- Latifa
+- George Cox
+- Ahmed Aboutaleb
+- Mohammed Merah
+products_models: []
+project:
+- geopolitics-watch
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=4XDCnhDPTFo
 speaker: 柴静 Chai Jing
-tags:
-  - extremism-de-radicalization
-  - religious-interpretation
-  - humanism-dialogue
-  - identity-transformation
-  - science-religion-reconciliation
-title: 以人之名：从极端到和解——信仰、科学与人性的对话
-summary: 本集深入探讨了多位曾涉足或深受极端主义影响的个体，他们如何经历内心挣扎、实现自我转变，并致力于推动对话与人道主义。通过质疑僵化的宗教解释、接纳进化论等科学真理、寻求宽恕以及与昔日对手互动，影片揭示了同理心、批判性思维和开放沟通如何挑战极端意识形态，并构建更具包容性的社会。它强调真正的自由并非找到终极答案，而在于一种开放且不断更新的身份认同。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - geopolitics-watch
-  - cultural-critique
-  - historical-insights
-people:
-  - 柴静
-  - Osama Hassan
-  - Suhail
-  - Chi Shi
-  - David
-  - Benyatou
-  - Mawa
-  - Emily
-  - Mohamed Baqiri
-  - Latifa
-  - George Cox
-  - Ahmed Aboutaleb
-  - Mohammed Merah
-companies_orgs:
-  - ISIS
-  - EDL
-  - Center for the Analysis of Islam and Antisemitism
-  - Youth Association
-products_models: []
-media_books:
-  - 《古兰经》
-  - 《死亡的牧师》
-  - 《反恐主义》
 status: evergreen
+summary: 本集深入探讨了多位曾涉足或深受极端主义影响的个体，他们如何经历内心挣扎、实现自我转变，并致力于推动对话与人道主义。通过质疑僵化的宗教解释、接纳进化论等科学真理、寻求宽恕以及与昔日对手互动，影片揭示了同理心、批判性思维和开放沟通如何挑战极端意识形态，并构建更具包容性的社会。它强调真正的自由并非找到终极答案，而在于一种开放且不断更新的身份认同。
+tags:
+- extremism-de-radicalization
+- geopolitical
+- humanism-dialogue
+- identity
+- science-religion-reconciliation
+title: 以人之名：从极端到和解——信仰、科学与人性的对话
 ---
+
 ### 信仰与科学的冲突：哈桑的故事
 
 2019年，我曾到访伦敦的一座宗教寺庙，与人们席地而坐。我印象最深的并非**伊玛目**（Imam: 伊斯兰教的领拜人或宗教领袖）的祷告，而是他离开后，众人散去，我身旁一位正在哭泣的女士，许多人上前安慰她。我的父亲刚刚去世，那一刻，我似乎也获得了某种慰藉。我能理解宗教带给人们的情感以及温暖的集体记忆。同时，我也理解为何哈桑（Hassan）说要将宗教从僵化的自负中解放出来，让伊斯兰教的核心概念与现代人的心灵结合。

@@ -1,41 +1,40 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 卫福部
+- 国健署
+- 初日医學
+- 马偕医院
 date: '2025-01-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Lancet》
+people:
+- 宋晏仁
+- 王律婷
+products_models:
+- BMI计算机
+- NOVA System
+- 211餐盘
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=Q6r1B02ky5M
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - childhood-obesity
-  - growth-development
-  - hormone-imbalance
-  - ultra-processed-foods
-  - parenting-strategies
-title: 儿童肥胖与身高发展：打破“小时候胖不是胖”的误区
-summary: 研究表明，儿童肥胖不仅影响外表，更对身高发展、学习表现及长期身心健康产生深远影响。台湾平均身高缩水与儿童肥胖率上升呈现关联。肥胖会导致儿童青春期前生长加速，但青春期生长速率下降，并可能引发性早熟和生长板提早闭合。超加工食品是导致儿童肥胖的重要因素，其高糖、高脂、高盐特性会影响大脑奖赏系统、饱足感中枢，并产生有害的糖化终产物。专家强调，家长应重视孩子的饮食、运动和睡眠，共同建立健康的生活习惯。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - 宋晏仁
-  - 王律婷
-companies_orgs:
-  - 卫福部
-  - 国健署
-  - 初日医學
-  - 马偕医院
-products_models:
-  - BMI计算机
-  - NOVA System
-  - 211餐盘
-media_books:
-  - 《The Lancet》
 status: evergreen
+summary: 研究表明，儿童肥胖不仅影响外表，更对身高发展、学习表现及长期身心健康产生深远影响。台湾平均身高缩水与儿童肥胖率上升呈现关联。肥胖会导致儿童青春期前生长加速，但青春期生长速率下降，并可能引发性早熟和生长板提早闭合。超加工食品是导致儿童肥胖的重要因素，其高糖、高脂、高盐特性会影响大脑奖赏系统、饱足感中枢，并产生有害的糖化终产物。专家强调，家长应重视孩子的饮食、运动和睡眠，共同建立健康的生活习惯。
+tags:
+- development
+- health
+- parenting-strategy
+- ultra-processed-food
+title: 儿童肥胖与身高发展：打破“小时候胖不是胖”的误区
 ---
+
 ### 引言：儿童肥胖的深远影响
 
 **宋晏仁医师:** 孩子的肥胖问题不仅影响到外表，将来还会影响身高、学习表现，甚至带来长期的身心影响。我们过去做肥胖研究发现，体重甚至会影响将来的职涯发展。因此，“小时候胖不是胖”这其实是一个错误的观念。很多客人说他们从小就胖，从小胖就是胖。

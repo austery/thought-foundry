@@ -1,49 +1,47 @@
 ---
-author: Veritasium
-date: '2021-06-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yCsgoLc_fzI
-speaker: Veritasium
-tags:
-  - veritasium
-  - downwind-faster-than-wind
-  - physics-debate
-  - science-communication
-  - counterintuitive-concepts
-  - propeller-driven-vehicle
-title: 顺风车挑战物理直觉：一场万元赌局揭示的科学真相
-summary: Veritasium的Derek Muller与加州大学洛杉矶分校的物理教授Alex Kusenko打赌一万美元，赌他的顺风车Blackbird能否持续以快于风速的速度行驶。Kusenko教授提出了阵风、风速梯度和理论方程中的除零问题等质疑。Derek通过实验证据、模型演示和详细的物理学解释，最终证明了Blackbird的工作原理，赢得了赌局，并强调了科学辩论在探求真相中的价值。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-  - personal-growth-lab
-people:
-  - Derek Muller
-  - Alex Kusenko
-  - Neil deGrasse Tyson
-  - Bill Nye
-  - Sean Carroll
-  - Alice Zhang
-  - Andrew Bauer
-  - Apolo Smith
-  - Rick Cavallaro
-  - Xyla Foxlin
-  - Mark Drela
+category: science
 companies_orgs:
-  - UCLA
-  - MIT Aero
-  - Brilliant
+- UCLA
+- MIT Aero
+- Brilliant
+date: '2021-06-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Derek Muller
+- Alex Kusenko
+- Neil deGrasse Tyson
+- Bill Nye
+- Sean Carroll
+- Alice Zhang
+- Andrew Bauer
+- Apolo Smith
+- Rick Cavallaro
+- Xyla Foxlin
+- Mark Drela
 products_models:
-  - Blackbird
-media_books: []
+- Blackbird
+project:
+- systems-thinking
+- historical-insights
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=yCsgoLc_fzI
+speaker: veritasium
 status: evergreen
+summary: Veritasium的Derek Muller与加州大学洛杉矶分校的物理教授Alex Kusenko打赌一万美元，赌他的顺风车Blackbird能否持续以快于风速的速度行驶。Kusenko教授提出了阵风、风速梯度和理论方程中的除零问题等质疑。Derek通过实验证据、模型演示和详细的物理学解释，最终证明了Blackbird的工作原理，赢得了赌局，并强调了科学辩论在探求真相中的价值。
+tags:
+- communication
+- downwind-faster-than-wind
+- driven
+- philosophy
+- technology
+title: 顺风车挑战物理直觉：一场万元赌局揭示的科学真相
 ---
+
 ### 万元赌局：顺风车挑战物理直觉
 
 我在此签署一份文件，赌注一万美元，证明我上一个视频的内容确实是正确的。

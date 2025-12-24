@@ -1,45 +1,45 @@
 ---
-author: ZetaBook
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《西姆拉宣言》
+- 《残军亡魂》
+- 《甘达马克条约》
+- 《英法协约》
+- 《英俄协约》
+- 《拉萨条约》
+- 《中英续议藏印条约》
+- great-game
+people:
+- 多斯特·默哈默德
+- 沙·舒贾
+- 谢尔·阿里
+- 雅各布
+- 沙皇保罗一世
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=boBjhVuChII
 speaker: ZetaBook
-tags:
-  - us-china-rivalry
-  - great-game
-  - taiwan-geopolitics
-  - buffer-states
-  - proxy-wars
-title: 中美新冷战与19世纪英俄大博弈：台湾的未来之路
-summary: 本文深入探讨了当前中美新冷战与19世纪英俄“大博弈”之间的历史相似性，分析了当时英国和沙俄在中亚的战略角力、代理人战争及最终的和解。通过回顾阿富汗作为缓冲国的历史经验，文章提出台湾在未来中美冲突中，若能成为“东亚阿富汗”式的附庸国，或许是其最佳结局。文章还分析了大国战略的演变、地缘政治的复杂性以及意识形态对国家道路的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - 多斯特·默哈默德
-  - 沙·舒贾
-  - 谢尔·阿里
-  - 雅各布
-  - 沙皇保罗一世
-companies_orgs: []
-products_models: []
-media_books:
-  - 《西姆拉宣言》
-  - 《残军亡魂》
-  - 《甘达马克条约》
-  - 《英法协约》
-  - 《英俄协约》
-  - 《拉萨条约》
-  - 《中英续议藏印条约》
 status: evergreen
+summary: 本文深入探讨了当前中美新冷战与19世纪英俄“大博弈”之间的历史相似性，分析了当时英国和沙俄在中亚的战略角力、代理人战争及最终的和解。通过回顾阿富汗作为缓冲国的历史经验，文章提出台湾在未来中美冲突中，若能成为“东亚阿富汗”式的附庸国，或许是其最佳结局。文章还分析了大国战略的演变、地缘政治的复杂性以及意识形态对国家道路的影响。
+tags:
+- state
+- taiwan-geopolitics
+- us-china-relations
+- war
+title: 中美新冷战与19世纪英俄大博弈：台湾的未来之路
 ---
+
 ### 中美新冷战与历史回响：19世纪的“大博弈”
 
 美中新冷战发展至今，双方在关税攻防和军事对峙上依然剑拔弩张，但私底下，两国似乎都不愿再升级对抗。回顾整个十九世纪，英俄两国关系也曾非常紧张。当时，大英帝国和沙俄在阿富汗和伊朗等中亚地区展开了高强度的地缘政治和经济角力，双方都宣称中亚是本国的核心利益，是不可触碰的红线。以我们现代人的眼光来看，当时两国的对抗就是一场冷战，这场冷战在历史中被称为**大博弈**（The Great Game: 19世纪英国和沙俄在中亚地区争夺势力范围的地缘政治对抗）。

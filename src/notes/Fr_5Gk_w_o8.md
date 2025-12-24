@@ -1,31 +1,29 @@
 ---
-title: 人形机器人：下一个“iPhone时刻”？1X创始人谈创新、挑战与未来
-summary: 1X创始人Bernt Børnich深入探讨了人形机器人领域的创新文化，强调拥抱失败的重要性。他分享了1X独特的低能耗腱驱动技术、早期发展挑战，并展望了通过消费者市场实现规模化的愿景，呼吁创业者专注于解决深层技术问题并保持对事业的热爱。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-innovation
-- deep-tech
-- future-of-work
-- humanoid-robots
-- startup-journey
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-08-14'
-author: EO
-speaker: EO
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=Fr_5Gk_w_o8
+speaker: EO
 status: evergreen
+summary: 1X创始人Bernt Børnich深入探讨了人形机器人领域的创新文化，强调拥抱失败的重要性。他分享了1X独特的低能耗腱驱动技术、早期发展挑战，并展望了通过消费者市场实现规模化的愿景，呼吁创业者专注于解决深层技术问题并保持对事业的热爱。
+tags:
+- ai-innovation
+- future-of-work
+- humanoid-robot
+- startup-journey
+- tech
+title: 人形机器人：下一个“iPhone时刻”？1X创始人谈创新、挑战与未来
 ---
+
 ### 创新文化：拥抱失败是进步之源
 
 我认为，接受失败并将其作为企业文化的一部分至关重要，因为若非如此，你就无法进行真正的创新。你所做的许多前所未有的事情，大多数情况下都是完全错误的。事后看来，这或许并非完全错误，可能只是有点愚蠢。你可能会想：“我们怎么会认为这会奏效呢？”但这正是游戏本质，也是创新运作的方式。

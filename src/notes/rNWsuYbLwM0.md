@@ -1,41 +1,40 @@
 ---
-author: 徒步的騎手
-date: 2025-02-08
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=rNWsuYbLwM0'
-speaker: 徒步的騎手
-tags:
-  - concepts-of-freedom
-  - negative-liberty
-  - positive-liberty
-  - philosophical-assumptions
-  - political-legal-distinction
-title: 理解自由的三个层次：从哲学假设到法律实践与柏林的两概念
-summary: 本讲座深入探讨了“自由”概念在哲学、政治和法律层面的多重含义。从卢梭的“原初状态”到《独立宣言》的政治宣示，再到美国宪法修正案的具体法律保障，揭示了自由的复杂性。文章还详细阐述了以赛亚·柏林的消极自由与积极自由理论，并通过罗斯福新政和美国最高法院案例（如罗伊诉韦德案）进行实例分析，最终批判性地审视了二分法在解释现实政治时的局限性，强调学习应站在巨人肩膀而非匍匐脚下。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 卢梭
-  - John Stuart Mill
-  - Isaiah Berlin
-  - Franklin D. Roosevelt
-  - Gretchen Whitmer
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-02-08
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《论自由》
-  - 《独立宣言》
-  - 《三字经》
-  - Two Concepts of Liberty
+- 《论自由》
+- 《独立宣言》
+- 《三字经》
+- Two Concepts of Liberty
+people:
+- 卢梭
+- John Stuart Mill
+- Isaiah Berlin
+- Franklin D. Roosevelt
+- Gretchen Whitmer
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=rNWsuYbLwM0
+speaker: 徒步的騎手
 status: evergreen
+summary: 本讲座深入探讨了“自由”概念在哲学、政治和法律层面的多重含义。从卢梭的“原初状态”到《独立宣言》的政治宣示，再到美国宪法修正案的具体法律保障，揭示了自由的复杂性。文章还详细阐述了以赛亚·柏林的消极自由与积极自由理论，并通过罗斯福新政和美国最高法院案例（如罗伊诉韦德案）进行实例分析，最终批判性地审视了二分法在解释现实政治时的局限性，强调学习应站在巨人肩膀而非匍匐脚下。
+tags:
+- freedom
+- negative-liberty
+- philosophy
+- political
+- positive-liberty
+title: 理解自由的三个层次：从哲学假设到法律实践与柏林的两概念
 ---
 
 ### 自由的复杂性与多重含义

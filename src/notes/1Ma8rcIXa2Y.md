@@ -1,59 +1,59 @@
 ---
-author: LT視界
+area: market-analysis
+category: finance
+companies_orgs:
+- Bloomberg
+- Goldman Sachs
+- ADP
+- ISM
+- Wall Street Journal
+- Savills
+- 斯邦威里斯
+- Apollo Global Management
+- Citadel Investment Group
+- CitiGroup
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Economist
+- Financial Times
+- 《大公报》
+- X平台
+people:
+- Donald Trump
+- Li Qiang
+- John Thune
+- Ed Skyler
+- Bill Ackman
+- Lucian Cook
+- 马大尼
+- 兰德鲍罗
+- Xi Jinping
+- 毛泽东
+- 蒋经国
+- Barack Obama
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=1Ma8rcIXa2Y
 speaker: LT視界
-tags:
-  - us-stock-market
-  - economic-indicators
-  - government-shutdown
-  - china-economic-data
-  - geopolitical-economy
-title: 《经济学人》揭秘中国经济数据“淡定”下的真相，李强透露增长目标，川普敦促“核选项”
-summary: 本期节目深入分析了当前全球财经与政治热点。从美国股市回调、就业数据及服务业扩张，到英国房市预期上涨，节目探讨了宏观经济趋势。政治方面，聚焦美国选举日后的舆论发展，包括川普对政府停摆及“核选项”的敦促，以及华尔街对新市长的态度转变。此外，节目还关注中国要求数据中心停用外国AI芯片的举措，李强总理透露的五年经济增长目标，以及中美贸易战的最新进展。最后，通过《经济学人》对中国投资数据下滑与GDP增长之间矛盾的深度分析，揭示了中国经济数据可能存在的“注水”问题，并探讨了其深层政治含义。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - market-cycles
-people:
-  - Donald Trump
-  - Li Qiang
-  - John Thune
-  - Ed Skyler
-  - Bill Ackman
-  - Lucian Cook
-  - 马大尼
-  - 兰德鲍罗
-  - 习近平
-  - 毛泽东
-  - 蒋经国
-  - Barack Obama
-companies_orgs:
-  - Bloomberg
-  - Goldman Sachs
-  - ADP
-  - ISM
-  - Wall Street Journal
-  - Savills
-  - 斯邦威里斯
-  - Apollo Global Management
-  - Citadel Investment Group
-  - CitiGroup
-products_models: []
-media_books:
-  - The Economist
-  - Financial Times
-  - 《大公报》
-  - X平台
 status: evergreen
+summary: 本期节目深入分析了当前全球财经与政治热点。从美国股市回调、就业数据及服务业扩张，到英国房市预期上涨，节目探讨了宏观经济趋势。政治方面，聚焦美国选举日后的舆论发展，包括川普对政府停摆及“核选项”的敦促，以及华尔街对新市长的态度转变。此外，节目还关注中国要求数据中心停用外国AI芯片的举措，李强总理透露的五年经济增长目标，以及中美贸易战的最新进展。最后，通过《经济学人》对中国投资数据下滑与GDP增长之间矛盾的深度分析，揭示了中国经济数据可能存在的“注水”问题，并探讨了其深层政治含义。
+tags:
+- china-economic-datum
+- economic-indicator
+- geopolitical-economy
+- government-shutdown
+- us-stock-market
+title: 《经济学人》揭秘中国经济数据“淡定”下的真相，李强透露增长目标，川普敦促“核选项”
 ---
+
 ### 财经头条：全球市场与经济数据分析
 
 我们首先来了解今天的财经头条，有四个方面的最新信息与网友分享。

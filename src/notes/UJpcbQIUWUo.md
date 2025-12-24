@@ -1,56 +1,56 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: business
+companies_orgs:
+- OpenAI
+- Google
+- Nvidia
+- AWS
+- Azure
+- Hostinger
+- IMF
+- Goldman Sachs
+- Yale Law Policy Review
+- Brookings
+- Yale Budget Lab
+- Thinking Machines Labs
+- Perplexity
+- Cursor
+- Midjourney
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Fortune's article
+people:
+- Sam Altman
+- Dwaresh Patel
+- Andre Karpathy
+- Ilia Sutskever
+products_models:
+- Claude
+- Siri
+- GPT5
+- N8N
+project:
+- ai-impact-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=UJpcbQIUWUo
 speaker: TechButMakeItReal
-tags:
-  - agi-narrative
-  - investment-dynamics
-  - market-concentration
-  - labor-market-impact
-  - ai-safety-narrative
-title: “接近”通用人工智能的商业：虚假宣传如何变得有利可图
-summary: 本文探讨了“人工通用智能（AGI）”叙事背后的商业和经济影响。文章指出，尽管AGI缺乏明确定义和技术可行性，但科技巨头不断宣称其即将到来，旨在模糊界限、吸引数十亿美元投资并合理化巨额亏损。作者剖析了AGI安全叙事如何使市场集中化合法化，并为募资制造表面的紧迫感，而现有AI对劳动力市场的实际影响却未被证实。文章强调了谨慎的研究人员与自信但信息不足的公众发言者之间的矛盾，并质疑了基于一个未定义概念的投资的可持续性。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - investment-strategy
-people:
-  - Sam Altman
-  - Dwaresh Patel
-  - Andre Karpathy
-  - Ilia Sutskever
-companies_orgs:
-  - OpenAI
-  - Google
-  - Nvidia
-  - AWS
-  - Azure
-  - Hostinger
-  - IMF
-  - Goldman Sachs
-  - Yale Law Policy Review
-  - Brookings
-  - Yale Budget Lab
-  - Thinking Machines Labs
-  - Perplexity
-  - Cursor
-  - Midjourney
-products_models:
-  - Claude
-  - Siri
-  - GPT5
-  - N8N
-media_books:
-  - Fortune's article
 status: evergreen
+summary: 本文探讨了“人工通用智能（AGI）”叙事背后的商业和经济影响。文章指出，尽管AGI缺乏明确定义和技术可行性，但科技巨头不断宣称其即将到来，旨在模糊界限、吸引数十亿美元投资并合理化巨额亏损。作者剖析了AGI安全叙事如何使市场集中化合法化，并为募资制造表面的紧迫感，而现有AI对劳动力市场的实际影响却未被证实。文章强调了谨慎的研究人员与自信但信息不足的公众发言者之间的矛盾，并质疑了基于一个未定义概念的投资的可持续性。
+tags:
+- ai-safety-narrative
+- investment
+- labor-market-impact
+- market-concentration
+- narrative
+title: “接近”通用人工智能的商业：虚假宣传如何变得有利可图
 ---
+
 ### AGI叙事的经济学
 
 今年，**奥特曼**（Sam Altman: OpenAI首席执行官）先生曾表示**AGI**（Artificial General Intelligence: 人工通用智能，指能够像人类一样学习、理解和应用知识的AI）即将到来。

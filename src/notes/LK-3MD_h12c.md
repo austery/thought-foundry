@@ -1,60 +1,60 @@
 ---
-author: Bloomberg Podcasts
+area: market-analysis
+category: business
+companies_orgs:
+- Dallas Cowboys
+- Minnesota Timberwolves
+- Minnesota Lynx
+- NFL
+- Nike
+- Reebok
+- Legends
+- Tyson's Chicken
+- Holly Farms
+- New York Giants
 date: '2025-10-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- The Godfather
+people:
+- Jerry Jones
+- Alex Rodriguez
+- George Steinbrenner
+- Phil Knight
+- Eddie Sutton
+- Al Michaels
+- Dan Dierdorf
+- Paul Tagliabue
+- Don Tyson
+- Bum Bright
+- Gene Jones
+- Charlotte Jones
+- Jeannie Buss
+- Stephen A. Smith
+- Red McCombs
+- Ben Franklin
+products_models: []
+project:
+- entrepreneurship
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=LK-3MD_h12c
 speaker: Bloomberg Podcasts
-tags:
-  - sports-ownership
-  - business-strategy
-  - risk-taking
-  - deal-making
-  - marketing-strategy
-title: 体育商业巨头的激情与风险：杰里·琼斯与亚历克斯·罗德里格斯的对话
-summary: 本期节目深入探讨了达拉斯牛仔队老板杰里·琼斯与明尼苏达森林狼队及山猫队老板亚历克斯·罗德里格斯在体育商业领域的经验与哲学。琼斯分享了他收购牛仔队时的巨大挑战、对风险的独特容忍度、如何将宣传转化为营销的商业模式，以及与耐克达成开创性合作的幕后故事。节目强调了激情在商业决策中的核心作用，以及家族企业在体育界传承的重要性，为渴望在竞争激烈的体育产业中取得成功的企业家提供了宝贵见解。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - investment-strategy
-people:
-  - Jerry Jones
-  - Alex Rodriguez
-  - George Steinbrenner
-  - Phil Knight
-  - Eddie Sutton
-  - Al Michaels
-  - Dan Dierdorf
-  - Paul Tagliabue
-  - Don Tyson
-  - Bum Bright
-  - Gene Jones
-  - Charlotte Jones
-  - Jeannie Buss
-  - Stephen A. Smith
-  - Red McCombs
-  - Ben Franklin
-companies_orgs:
-  - Dallas Cowboys
-  - Minnesota Timberwolves
-  - Minnesota Lynx
-  - NFL
-  - Nike
-  - Reebok
-  - Legends
-  - Tyson's Chicken
-  - Holly Farms
-  - New York Giants
-products_models: []
-media_books:
-  - Odd Lots
-  - The Godfather
 status: evergreen
+summary: 本期节目深入探讨了达拉斯牛仔队老板杰里·琼斯与明尼苏达森林狼队及山猫队老板亚历克斯·罗德里格斯在体育商业领域的经验与哲学。琼斯分享了他收购牛仔队时的巨大挑战、对风险的独特容忍度、如何将宣传转化为营销的商业模式，以及与耐克达成开创性合作的幕后故事。节目强调了激情在商业决策中的核心作用，以及家族企业在体育界传承的重要性，为渴望在竞争激烈的体育产业中取得成功的企业家提供了宝贵见解。
+tags:
+- business-strategy
+- deal-making
+- life
+- risk-taking
+- strategy
+title: 体育商业巨头的激情与风险：杰里·琼斯与亚历克斯·罗德里格斯的对话
 ---
+
 ### 体育商业的激情之旅
 
 主持人: 好的。我们这档节目去过很多地方，但这是我们第一次来到达拉斯的“星光基地”（The Star）。这是琼斯家族的创意，我们今天将与本人——杰里·琼斯先生对话。很高兴见到您。

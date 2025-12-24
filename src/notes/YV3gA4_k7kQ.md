@@ -1,66 +1,66 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NATO
+- European Union
+- Kremlin
+- CIA
+- Mossad
+- Pentagon
+- United Nations
+- World Trade Organization
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The New York Times
+- Bloomberg
+people:
+- Donald Trump
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Marco Rubio
+- John Mearsheimer
+- Lindsey Graham
+- Angela Merkel
+- William J. Burns
+- Steve Witkoff
+- Jared Kushner
+- David Sanger
+- Dmitry Medvedev
+- Jeffrey Sachs
+- Saddam Hussein
+- George W. Bush
+- James Monroe
+- Abraham Lincoln
+- 蒋介石
+- 慈禧太后
+- 秦晖
+- 石国鹏
+- 王菊
+- Xi Jinping
+products_models:
+- F-35
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=YV3gA4_k7kQ
 speaker: 北美王路飞
-tags:
-  - russia-ukraine-war
-  - great-power-politics
-  - realist-international-relations
-  - multipolar-world
-title: 揭秘俄乌“28条和平协议”：地缘政治棋局中的大国博弈与现实主义回归
-summary: 一份据称由特朗普阵营推动、内容高度亲俄的“28点和平计划”震惊了乌克兰与欧洲。本文深入剖析了这份协议的争议性条款、其在美国政坛引发的混乱，以及欧洲盟友的愤怒反应。文章进一步借助约翰·米尔斯海默的现实主义理论，探讨了俄乌战争如何标志着世界从单极秩序向多极化的大国平衡时代转变，并分析了在这场地缘政治博弈中，美国、俄罗斯、欧洲和中国的各自得失与未来战略。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Vladimir Putin
-  - Volodymyr Zelenskyy
-  - Marco Rubio
-  - John Mearsheimer
-  - Lindsey Graham
-  - Angela Merkel
-  - William J. Burns
-  - Steve Witkoff
-  - Jared Kushner
-  - David Sanger
-  - Dmitry Medvedev
-  - Jeffrey Sachs
-  - Saddam Hussein
-  - George W. Bush
-  - James Monroe
-  - Abraham Lincoln
-  - 蒋介石
-  - 慈禧太后
-  - 秦晖
-  - 石国鹏
-  - 王菊
-  - 习近平
-companies_orgs:
-  - NATO
-  - European Union
-  - Kremlin
-  - CIA
-  - Mossad
-  - Pentagon
-  - United Nations
-  - World Trade Organization
-products_models:
-  - F-35
-media_books:
-  - The New York Times
-  - Bloomberg
 status: evergreen
+summary: 一份据称由特朗普阵营推动、内容高度亲俄的“28点和平计划”震惊了乌克兰与欧洲。本文深入剖析了这份协议的争议性条款、其在美国政坛引发的混乱，以及欧洲盟友的愤怒反应。文章进一步借助约翰·米尔斯海默的现实主义理论，探讨了俄乌战争如何标志着世界从单极秩序向多极化的大国平衡时代转变，并分析了在这场地缘政治博弈中，美国、俄罗斯、欧洲和中国的各自得失与未来战略。
+tags:
+- investment
+- power
+- realist-international-relations
+- russia-ukraine-war
+title: 揭秘俄乌“28条和平协议”：地缘政治棋局中的大国博弈与现实主义回归
 ---
+
 ### 一份“通俄”的和平协议？
 
 如果现在有一份结束乌克兰战争的和平方案摆在面前，条款写着：乌克兰必须承认割让土地、承诺永远不加入北约，并且军队人数必须被严格限制。你会认为这份方案是谁起草的？答案似乎显而易见：普京，或者至少是他手下的俄罗斯强硬派。

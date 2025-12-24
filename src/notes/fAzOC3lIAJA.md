@@ -1,51 +1,50 @@
 ---
-author: 投资TALK君
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- CNN
+- Federal Reserve
+- US Treasury Department
 date: '2025-04-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+people:
+- Donald Trump
+- Nick Timiraos
+- Jerome Powell
+products_models:
+- QQQ
+- KBWB
+- VIX
+- S&P 500
+- Nasdaq
+- Dow Jones Industrial Average
+- Russell 2000
+- Bitcoin
+- Solana
+- Ethereum
+- Costco
+project:
+- investment-strategy
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=fAzOC3lIAJA
 speaker: 投资TALK君
-tags:
-  - market-downturn
-  - investor-sentiment
-  - monetary-policy
-  - fiscal-policy
-  - economic-indicators
-title: 市场恐慌：美股遭遇历史性暴跌，投资人如何应对不确定性？
-summary: 本期节目深入分析了近期美股市场的剧烈下跌，特别是纳斯达克指数创下频道开播以来的最大单日跌幅。主持人小涛通过详细数据，剖析了黄金、原油、美元、美债收益率及垃圾级别债券利差等关键指标的恐慌走势。节目还探讨了在关税政策不确定性下，美联储面临的双重目标冲突，以及投资者在极端市场情绪下的应对策略，并提供了具体的加仓计划和对未来就业数据及鲍威尔讲话的展望。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Nick Timiraos
-  - Jerome Powell
-companies_orgs:
-  - CNN
-  - Federal Reserve
-  - US Treasury Department
-products_models:
-  - QQQ
-  - KBWB
-  - VIX
-  - S&P 500
-  - Nasdaq
-  - Dow Jones Industrial Average
-  - Russell 2000
-  - Bitcoin
-  - Solana
-  - Ethereum
-  - Costco
-media_books:
-  - X
 status: evergreen
+summary: 本期节目深入分析了近期美股市场的剧烈下跌，特别是纳斯达克指数创下频道开播以来的最大单日跌幅。主持人小涛通过详细数据，剖析了黄金、原油、美元、美债收益率及垃圾级别债券利差等关键指标的恐慌走势。节目还探讨了在关税政策不确定性下，美联储面临的双重目标冲突，以及投资者在极端市场情绪下的应对策略，并提供了具体的加仓计划和对未来就业数据及鲍威尔讲话的展望。
+tags:
+- economic-indicator
+- fiscal-policy
+- investor-sentiment
+- market-downturn
+title: 市场恐慌：美股遭遇历史性暴跌，投资人如何应对不确定性？
 ---
+
 ### 市场回顾：历史性下跌与频道历程
 
 我们这个频道开播于2020年11月4日，正好是上上一次大型事件的时间点，所以我永远不会忘记。从开播到现在，每一期视频都已在网上发布。我曾和大家说过，一定会陪着大家穿越牛熊。今天整个市场的下跌，特别是**纳指**（Nasdaq Composite Index: 美国三大股指之一，以科技股为主）的下跌，是自从我频道开播以来，幅度最大的一次。疫情那段时间的下跌我们没有一起走过，但我们频道里不少观众都一起度过了2022年长达10个月的熊市。现在是不是熊市的开启，我觉得不用去谈论，起码市场早就已经进入了调整阶段。

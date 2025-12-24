@@ -1,33 +1,30 @@
 ---
-title: 从东京到首尔：激进投资如何发现并创造价值？
-summary: 本期节目中，资产价值投资公司（AVI）的Joe Bowen分享了其激进投资策略，探讨了日本、韩国市场的独特机遇，以及如何通过积极股东参与促使企业释放价值。他还讨论了美国市场、英国投资信托的未来挑战与机遇，并分析了当前投资组合的防御性。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- activist-investing
-- investment-strategy
-- investment-trusts
-- japanese-market
-- korean-market
-people: []
+area: finance-wealth
+category: stock-investment
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-13'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=Xuyk0tiDJ9A
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期节目中，资产价值投资公司（AVI）的Joe Bowen分享了其激进投资策略，探讨了日本、韩国市场的独特机遇，以及如何通过积极股东参与促使企业释放价值。他还讨论了美国市场、英国投资信托的未来挑战与机遇，并分析了当前投资组合的防御性。
+tags:
+- investing
+- investment
+- market
+title: 从东京到首尔：激进投资如何发现并创造价值？
 ---
+
 ### 欢迎辞与本期主题
 
 Welcome to Merryn Talks Money, the podcast in which people who know the markets explain the markets. I'm Merryn Somerset Webb. This week we are talking about **activist investing** (Activist Investing: 一种投资策略，通过成为公司的大股东并积极参与公司治理，以影响管理层决策，从而提升公司价值), why it's seeing a resurgence and what that means for the investment landscape and possibly for your portfolio.

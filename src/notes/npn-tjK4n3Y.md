@@ -1,40 +1,39 @@
 ---
-author: 海淀拙大叔
+area: market-analysis
+category: finance
+companies_orgs:
+- 复达基金
+- 高盛
 date: '2025-04-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 巴菲特
+products_models:
+- 标普500
+- 纳斯达克指数
+project:
+- investment-strategy
+- market-cycles
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=npn-tjK4n3Y
 speaker: 海淀拙大叔
-tags:
-  - wealth-growth
-  - compound-interest
-  - stock-investment
-  - long-term-holding
-  - market-cycles
-  - continuous-learning
-  - ai-impact
-title: 60岁能挣多少钱？阿甘财富增长论：从10万到1.5亿的投资之路
-summary: 海淀拙大叔探讨32岁投资者如何通过股票投资实现财富增长。文章以终局思维出发，分析在不同复利收益率（10%至30%）下，10万元本金到60岁时可能达到的财富目标，并深入探讨长期持有、选股能力、AI技术革命及周期判断对投资收益的影响，强调持续学习的重要性，以期实现简单幸福的生活。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - personal-growth-lab
-people:
-  - 巴菲特
-companies_orgs:
-  - 复达基金
-  - 高盛
-products_models:
-  - 标普500
-  - 纳斯达克指数
-media_books: []
 status: evergreen
+summary: 海淀拙大叔探讨32岁投资者如何通过股票投资实现财富增长。文章以终局思维出发，分析在不同复利收益率（10%至30%）下，10万元本金到60岁时可能达到的财富目标，并深入探讨长期持有、选股能力、AI技术革命及周期判断对投资收益的影响，强调持续学习的重要性，以期实现简单幸福的生活。
+tags:
+- ai-impact
+- compound-interest
+- continuous-learning
+- growth
+- investment
+- long
+- market-cycle
+title: 60岁能挣多少钱？阿甘财富增长论：从10万到1.5亿的投资之路
 ---
+
 ### 财富增长的终局思维：60岁能挣多少钱？
 
 大家好，我是海淀拙大叔。今天是4月13号，周日。首先，大叔想解释一下这个财富增长系列是如何产生的。它源于一位网友的启发，这位32岁的网友正在焦虑自己未来的方向。他希望大叔能提供一些建议，但大叔的知识面其实很窄，无法担任职业导师或人生导师。不过，大叔将这个问题简化了一下：我们寻找未来更有希望的方向，目的不就是为了寻找未来更能挣钱、能让生活更幸福的途径吗？

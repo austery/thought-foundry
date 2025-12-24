@@ -1,60 +1,58 @@
 ---
-author: Veritasium
-date: '2024-02-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=AF8d72mA41M
-speaker: Veritasium
-tags:
-  - veritasium
-  - blue-led
-  - semiconductor-physics
-  - material-science
-  - lighting-revolution
-  - innovation-challenges
-title: 蓝色LED的诞生：中村修二的非凡突破与照明革命
-summary: 本文深入探讨了蓝色LED的艰辛发明历程，详细介绍了日本科学家中村修二如何在一个小型公司面临巨大压力和行业质疑的情况下，通过三次关键技术突破，成功研制出高效的蓝色发光二极管。文章解释了LED的工作原理、蓝色LED难以制造的原因，以及中村修二如何克服晶体生长、P型掺杂和效率提升等挑战。最终，蓝色LED的问世引发了全球照明产业的革命，并带来了巨大的能源节约和环境效益。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-people:
-  - Nick Holonyak
-  - Shūji Nakamura
-  - Nobuo Ogawa
-  - Eji Ogawa
-  - Herbert Maruska
-  - Isamu Akasaki
-  - Hiroshi Amano
-  - Derek Muller
+category: technology
 companies_orgs:
-  - General Electric
-  - Monsanto
-  - IBM
-  - Bell Labs
-  - Sony
-  - Toshiba
-  - Panasonic
-  - Nichia
-  - RCA
-  - Nagoya University
-  - Matsushita
-  - Cree
+- General Electric
+- Monsanto
+- IBM
+- Bell Labs
+- Sony
+- Toshiba
+- Panasonic
+- Nichia
+- RCA
+- Nagoya University
+- Matsushita
+- Cree
+date: '2024-02-08'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Nick Holonyak
+- Shūji Nakamura
+- Nobuo Ogawa
+- Eji Ogawa
+- Herbert Maruska
+- Isamu Akasaki
+- Hiroshi Amano
+- Derek Muller
 products_models:
-  - Blue LED
-  - Red LED
-  - Green LED
-  - White LED
-  - Micro LED
-  - UV LED
-  - MOCVD
-  - Two-flow reactor
-media_books: []
+- Blue LED
+- Red LED
+- Green LED
+- White LED
+- Micro LED
+- UV LED
+- MOCVD
+- Two-flow reactor
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=AF8d72mA41M
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了蓝色LED的艰辛发明历程，详细介绍了日本科学家中村修二如何在一个小型公司面临巨大压力和行业质疑的情况下，通过三次关键技术突破，成功研制出高效的蓝色发光二极管。文章解释了LED的工作原理、蓝色LED难以制造的原因，以及中村修二如何克服晶体生长、P型掺杂和效率提升等挑战。最终，蓝色LED的问世引发了全球照明产业的革命，并带来了巨大的能源节约和环境效益。
+tags:
+- blue-led
+- challenge
+- material-science
+- revolution
+- semiconductor-physics
+title: 蓝色LED的诞生：中村修二的非凡突破与照明革命
 ---
+
 ### 蓝色LED的艰难开端
 
 **LED**（Light Emitting Diode：发光二极管）的颜色并非来自其塑料外壳。你可以看到这一点，因为这里有一个透明的LED，它也发出相同的红色光。光的颜色来自电子元件本身，外壳只是帮助我们区分不同的LED。1962年，**通用电气**（General Electric：美国一家跨国综合企业）工程师尼克·霍洛尼亚克（Nick Holonyak）创造了第一个可见光LED，它发出微弱的红光。几年后，**孟山都**（Monsanto：美国一家农业生物技术公司）的工程师们创造了绿色LED。

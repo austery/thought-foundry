@@ -1,37 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 初日醫學
+- Cofit
 date: '2025-03-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Immunity & Ageing》
+people:
+- 魏士航医师
+- 宋晏仁医师
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=JRZMn142jw8
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - immune-aging
-  - chronic-inflammation
-  - lifestyle-habits
-  - micronutrients
-  - health-optimization
-title: 免疫老化：坏习惯如何掏空你的免疫力？重建防线，远离疾病与疲惫
-summary: 随着年龄增长，免疫力衰退是自然现象，但不良生活习惯和营养不均会加速这一过程。本文深入探讨免疫老化的特征及其与慢性发炎的恶性循环，揭示吸烟、饮酒、压力、睡眠不足等风险因子。魏士航医师强调，通过改善营养状况并补充关键微量营养素，如维生素C、D、Omega-3、镁、锌和硒，可以有效延缓免疫系统老化，重建身体防线，重拾活力。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 魏士航医师
-  - 宋晏仁医师
-companies_orgs:
-  - 初日診所
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books:
-  - 《Immunity & Ageing》
 status: evergreen
+summary: 随着年龄增长，免疫力衰退是自然现象，但不良生活习惯和营养不均会加速这一过程。本文深入探讨免疫老化的特征及其与慢性发炎的恶性循环，揭示吸烟、饮酒、压力、睡眠不足等风险因子。魏士航医师强调，通过改善营养状况并补充关键微量营养素，如维生素C、D、Omega-3、镁、锌和硒，可以有效延缓免疫系统老化，重建身体防线，重拾活力。
+tags:
+- health
+- llm
+- micronutrient
+- psychology
+title: 免疫老化：坏习惯如何掏空你的免疫力？重建防线，远离疾病与疲惫
 ---
+
 ### 免疫力衰退的真相：老化与生活习惯的双重影响
 
 人们常说，年纪越大，免疫力就会越差，这确实是事实。但我们有没有想过，为什么随着年龄增长，免疫力会变弱？难道老化一定意味着疾病和疲惫吗？其实，只要掌握正确的方法，我们可以有效延缓免疫系统的老化，甚至重建防护力。

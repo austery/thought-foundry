@@ -1,46 +1,45 @@
 ---
-author: 课代表立正
+area: society-systems
+category: business
+companies_orgs:
+- Head AI
+- Aha
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- YouTube
+- Product Hunt
+- Reddit
+- Hacker News
+- LinkedIn
+- Twitter
+people:
+- Kay
+products_models:
+- Webflow
+- Figma
+- AI SOAP
+project:
+- entrepreneurship
+- personal-growth-lab
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=cyZeAw8DLew
 speaker: 课代表立正
-tags:
-  - startup-journey
-  - influencer-marketing
-  - go-to-market
-  - talent-acquisition
-  - entrepreneurial-mindset
-title: 00后CEO Kay：AI时代创业、成长与市场策略深度洞察
-summary: 本访谈深入对话00后CEO Kay，她分享了从高中辍学到创立AI达人营销平台Aha（原Head AI）的创业历程。Kay探讨了AI时代下，如何通过精准的达人营销策略实现业务增长，并对创业公司在市场负责人招聘、产品推广渠道选择以及创始人决策权等核心议题提供了独到见解。她强调了对产品热爱、快速学习能力和承担责任的创业精神。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - entrepreneurship
-  - personal-growth-lab
-  - ai-impact-analysis
-people:
-  - Kay
-  - 课代表立正
-companies_orgs:
-  - Head AI
-  - Aha
-products_models:
-  - Webflow
-  - Figma
-  - AI SOAP
-media_books:
-  - YouTube
-  - Product Hunt
-  - Reddit
-  - Hacker News
-  - LinkedIn
-  - Twitter
 status: evergreen
+summary: 本访谈深入对话00后CEO Kay，她分享了从高中辍学到创立AI达人营销平台Aha（原Head AI）的创业历程。Kay探讨了AI时代下，如何通过精准的达人营销策略实现业务增长，并对创业公司在市场负责人招聘、产品推广渠道选择以及创始人决策权等核心议题提供了独到见解。她强调了对产品热爱、快速学习能力和承担责任的创业精神。
+tags:
+- business
+- entrepreneurial-mindset
+- market
+- startup-journey
+- talent
+title: 00后CEO Kay：AI时代创业、成长与市场策略深度洞察
 ---
+
 ### 00后CEO Kay：从辍学到创立AI达人营销平台
 
 大家好，我是Kay，**Head AI**（现已更名为**Aha**）的创始人。**Aha**是一个直接用**AI**（Artificial Intelligence: 人工智能）交付达人营销结果的平台。我们累计已服务300多家公司，并帮助达人在达人营销方面赚取了超过100万美金。公司成立至今约一年半，已累计融资近1000万美金，目前处于Pre-A轮。

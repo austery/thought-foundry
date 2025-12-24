@@ -1,52 +1,52 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: geopolitics
+companies_orgs:
+- 日本央行
+- 伯克希尔·哈撒韦
+- 苹果公司
+- 英特尔
+- 星巴克
+- Meta
+- 亚马逊
+- Polymarket
+- Fidelity
+- Interactive Brokers
+- Robinhood
 date: '2024-08-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《财富》
+- 《经济学人》
+people:
+- 唐石峻
+- 巴菲特
+- 李强
+products_models:
+- TQQQ
+- AAPL
+- SBC
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=UqHdZ_w172o
 speaker: Shijun Tang
-tags:
-  - carry-trade-bust
-  - market-meltdown
-  - brokerage-system-failure
-  - valuation-mispricing
-  - investment-vs-speculation
-title: 日本加息引爆全球套利潮：黑天鹅事件如何重创美股与散户交易生态
-summary: 本期节目深入剖析日本央行加息引发的日元套利交易崩盘事件，揭示其如何传导至美股剧烈震荡，并暴露券商系统脆弱性与散户投资者的认知误区。同时分析苹果、英特尔、星巴克与Meta等巨头财报背后的真伪价值信号，强调投资与投机的本质区别。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-  - 巴菲特
-  - 李强
-companies_orgs:
-  - 日本央行
-  - 伯克希尔·哈撒韦
-  - 苹果公司
-  - 英特尔
-  - 星巴克
-  - Meta
-  - 亚马逊
-  - Polymarket
-  - Fidelity
-  - Interactive Brokers
-  - Robinhood
-products_models:
-  - TQQQ
-  - AAPL
-  - SBC
-media_books:
-  - 《财富》
-  - 《经济学人》
 status: evergreen
+summary: 本期节目深入剖析日本央行加息引发的日元套利交易崩盘事件，揭示其如何传导至美股剧烈震荡，并暴露券商系统脆弱性与散户投资者的认知误区。同时分析苹果、英特尔、星巴克与Meta等巨头财报背后的真伪价值信号，强调投资与投机的本质区别。
+tags:
+- investment
+- market
+- system
+- trade
+- valuation
+title: 日本加息引爆全球套利潮：黑天鹅事件如何重创美股与散户交易生态
 ---
+
 ### 日本加息引爆全球套利潮：黑天鹅事件如何重创美股与散户交易生态
 
 道琼斯指数单日暴跌超千点，创下自新冠疫情以来最大跌幅；与此同时，日经指数下跌12%，为1987年以来最差表现。市场一片恐慌，经济衰退的疑云笼罩全球。但这次危机的导火索，并非来自美国本土，而是远在东亚——日本。

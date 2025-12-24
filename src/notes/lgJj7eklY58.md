@@ -1,32 +1,31 @@
 ---
-title: 黄金突破4000美元，法国政局动荡，足球巨星成首位亿万富翁
-summary: 本期节目聚焦金价飙升至4000美元/盎司的历史新高，法国总统马克龙面临国内政治挑战，以及C罗成为全球首位足球亿万富翁的财经新闻。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- cristiano-ronaldo
-- france
-- gold
-- macron
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-08'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+people:
+- macron
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=lgJj7eklY58
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期节目聚焦金价飙升至4000美元/盎司的历史新高，法国总统马克龙面临国内政治挑战，以及C罗成为全球首位足球亿万富翁的财经新闻。
+tags:
+- cristiano-ronaldo
+- france
+- gold
+title: 黄金突破4000美元，法国政局动荡，足球巨星成首位亿万富翁
 ---
+
 ### 市场焦点：黄金价格创历史新高
 
 Music

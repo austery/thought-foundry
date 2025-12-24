@@ -1,46 +1,46 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- White House
+- House Oversight Committee
+- Justice Department
+- US Mint
+- FBI
+- BBC
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+people:
+- Donald Trump
+- Jeffrey Epstein
+- William Ratichek
+- DB Cooper
+- David Enrich
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=rrDSpzEjTlM
 speaker: New York Times Podcasts
-tags:
-  - government-shutdown
-  - epstein-emails
-  - homelessness-policy
-  - penny-production
-  - unsolved-crime
-title: 美国政府重新开放、爱泼斯坦邮件与新政策：多维度新闻速览
-summary: 这篇新闻速览涵盖了美国政府结束43天停摆的细节，包括特朗普总统签署法案、民主党议员打破党派立场以及停摆对医疗补贴和联邦雇员的影响。同时，文章深入探讨了杰弗里·爱泼斯坦邮件的公开，揭示了其与特朗普总统关系的潜在内幕和白宫的回应。此外，还介绍了特朗普政府对无家可归者住房政策的重大调整，以及美国铸币局停止生产一美分硬币的决定。最后，回顾了1971年D.B.库珀劫机案的未解之谜。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Jeffrey Epstein
-  - William Ratichek
-  - DB Cooper
-  - David Enrich
-companies_orgs:
-  - New York Times
-  - White House
-  - House Oversight Committee
-  - Justice Department
-  - US Mint
-  - FBI
-  - BBC
-products_models: []
-media_books:
-  - The Daily
 status: evergreen
+summary: 这篇新闻速览涵盖了美国政府结束43天停摆的细节，包括特朗普总统签署法案、民主党议员打破党派立场以及停摆对医疗补贴和联邦雇员的影响。同时，文章深入探讨了杰弗里·爱泼斯坦邮件的公开，揭示了其与特朗普总统关系的潜在内幕和白宫的回应。此外，还介绍了特朗普政府对无家可归者住房政策的重大调整，以及美国铸币局停止生产一美分硬币的决定。最后，回顾了1971年D.B.库珀劫机案的未解之谜。
+tags:
+- business
+- government-shutdown
+- llm
+- policy
+- society
+title: 美国政府重新开放、爱泼斯坦邮件与新政策：多维度新闻速览
 ---
+
 ### 美国政府重新开放与停摆影响
 
 来自《纽约时报》的头条新闻，我是特雷西·芒福德。今天是11月13日星期四，以下是我们报道的内容。

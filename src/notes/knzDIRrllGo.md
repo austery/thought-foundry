@@ -1,48 +1,47 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: technology
+companies_orgs:
+- 地平线
+- Waymo
+- Google X
+- CMU
+- 斯坦福
+- Darpa
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 苏箐
+- 余凯
+- 奥本海默
+products_models:
+- HSD
+- FSD V12
+- AGI
+- L2
+- L4
+- robotaxi
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=knzDIRrllGo
 speaker: Best Partners TV
-tags:
-  - autonomous-driving
-  - deep-learning
-  - l2-l4-convergence
-  - engineering-excellence
-  - paradigm-shift
-title: 苏箐：自动驾驶的“原子弹时刻”已过，未来三年将迈向L4落地但不会有理论跨越式变革
-summary: 地平线苏箐分享了对自动驾驶行业现状与未来的深刻洞察。他指出，FSD V12的出现标志着自动驾驶领域的“原子弹时刻”已过，证明了端到端范式的可行性。然而，他预测未来三年行业将进入极致优化阶段，而非理论上的跨越式变革。苏箐强调，L2将迎来普及红利，同时L2与L4的开发范式将趋于统一，有望实现L4系统以低成本、广区域部署。他呼吁行业应持续投入算力，并强化工程与组织能力，以应对不确定性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 苏箐
-  - 余凯
-  - 奥本海默
-companies_orgs:
-  - 地平线
-  - Waymo
-  - Google X
-  - CMU
-  - 斯坦福
-  - Darpa
-products_models:
-  - HSD
-  - FSD V12
-  - AGI
-  - L2
-  - L4
-  - robotaxi
-media_books: []
 status: evergreen
+summary: 地平线苏箐分享了对自动驾驶行业现状与未来的深刻洞察。他指出，FSD V12的出现标志着自动驾驶领域的“原子弹时刻”已过，证明了端到端范式的可行性。然而，他预测未来三年行业将进入极致优化阶段，而非理论上的跨越式变革。苏箐强调，L2将迎来普及红利，同时L2与L4的开发范式将趋于统一，有望实现L4系统以低成本、广区域部署。他呼吁行业应持续投入算力，并强化工程与组织能力，以应对不确定性。
+tags:
+- autonomous-driving
+- engineering
+- l2-l4-convergence
+- learning
+- shift
+title: 苏箐：自动驾驶的“原子弹时刻”已过，未来三年将迈向L4落地但不会有理论跨越式变革
 ---
+
 ### 致敬行业同仁：自动驾驶的挑战与不易
 
 非常感谢大家花时间来听我分享一些感悟。坦率地说，我本来是不想来的，因为不知道该说什么。上个月我们的**HSD**（Horizon Self-Driving: 地平线自动驾驶系统）才刚刚**SOP**（Start of Production: 量产开始），所以我整个人和团队都处于工程模式，还没有切换到思想模式。因此，今天分享的很多内容可能会比较零碎，但都是这几年过程中一些实实在在的感悟。

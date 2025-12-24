@@ -1,63 +1,63 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs:
+- 《重庆晨报》
+- 哈佛大学
+- A4美术馆
+- 俺有大石头
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《他们》
+- 《海岸线》
+- 《西游记》
+- 《喜剧之王》
+- 《甄嬛传》
+people:
+- 张晓
+- 海子
+- 毕加索
+- 莫言
+- 谢德庆
+- 草间弥生
+- 杜尚
+- 罗福兴
+- 萧敬腾
+- 杨超越
+- 周润发
+- 李宇春
+- 马老师
+- 周星驰
+- 张柏芝
+- 高俅
+- 罗永浩
+- 甄嬛
+products_models:
+- 苹果手机
+- 桑塔纳
+- 东风导弹
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=MAcH3YGou4w
 speaker: 一席YiXi
-tags:
-  - folk-aesthetics
-  - rural-transformation
-  - cultural-adaptation
-  - religious-localization
-  - social-observation
-title: 张晓：民间美学与时代造像——一位艺术家眼中的中国乡村变迁
-summary: 艺术家张晓分享了他从摄影记者到独立艺术家的创作历程。他通过记录中国海岸线的快速发展、家乡烟台的民间审美，以及河南许昌社火道具制作的变迁，展现了传统与现代的碰撞。尤其引人深思的是，他与工匠合作，创作出一系列反映当代社会需求（如健身、外卖、考试）的“新菩萨”雕塑，揭示了信仰的商品化与本土化。最终，他将目光投向中国乡村的真实面貌，探讨底层民众如何通过民间信仰寻求精神慰藉，呼吁社会关注乡村的深层现实与原生力量。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 张晓
-  - 海子
-  - 毕加索
-  - 莫言
-  - 谢德庆
-  - 草间弥生
-  - 杜尚
-  - 罗福兴
-  - 萧敬腾
-  - 杨超越
-  - 周润发
-  - 李宇春
-  - 马老师
-  - 周星驰
-  - 张柏芝
-  - 高俅
-  - 罗永浩
-  - 甄嬛
-companies_orgs:
-  - 《重庆晨报》
-  - 哈佛大学
-  - A4美术馆
-  - 俺有大石头
-products_models:
-  - 苹果手机
-  - 桑塔纳
-  - 东风导弹
-media_books:
-  - 《他们》
-  - 《海岸线》
-  - 《西游记》
-  - 《喜剧之王》
-  - 《甄嬛传》
 status: evergreen
+summary: 艺术家张晓分享了他从摄影记者到独立艺术家的创作历程。他通过记录中国海岸线的快速发展、家乡烟台的民间审美，以及河南许昌社火道具制作的变迁，展现了传统与现代的碰撞。尤其引人深思的是，他与工匠合作，创作出一系列反映当代社会需求（如健身、外卖、考试）的“新菩萨”雕塑，揭示了信仰的商品化与本土化。最终，他将目光投向中国乡村的真实面貌，探讨底层民众如何通过民间信仰寻求精神慰藉，呼吁社会关注乡村的深层现实与原生力量。
+tags:
+- cultural
+- folk-aesthetic
+- geopolitical
+- social
+- transformation
+title: 张晓：民间美学与时代造像——一位艺术家眼中的中国乡村变迁
 ---
+
 ### 从建筑到摄影：早期创作与社会观察
 
 大家好，我是来自成都的艺术家张晓。这几个字是我在一个庙会的现场，一个给游客和来参加庙会的人写字的**花鸟字**（Flower-and-Bird Calligraphy: 一种将花鸟图案融入汉字笔画的民间书法艺术）。“**民间美学大观**”（Grand View of Folk Aesthetics: 艺术家张晓持续关注并创办杂志的主题）这个项目是我这些年一直在关注的一个主题，同时也是我自己创办的一个艺术家杂志的名字。

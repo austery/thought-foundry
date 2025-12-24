@@ -1,39 +1,37 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- YouTube
+- Google
+- Waymo
+- Abundant
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jesse Hu
+products_models:
+- BERT
+- Dreamer
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=qqXdLf3wy1E
 speaker: AI Engineer
-tags:
-  - ai-agents
-  - robotics
-  - system-design
-  - simulation
-  - closed-loop-systems
-title: 智能体亦是机器人：自动驾驶对构建智能体的启示
-summary: 本次演讲深入探讨了自动驾驶与AI智能体开发之间的深刻共通之处。讲者Jesse Hu指出，两者都面临着“1%模型工作与99%工程工作”的挑战，强调了离线堆栈、闭环系统、状态管理、处理分布外问题以及仿真在开发中的关键作用。他强调，智能体如同现实世界的机器人，会犯错并需要强大的恢复机制，因此需要从预测模型转向行动模型，并构建完善的基础设施来支持迭代开发过程。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Jesse Hu
-companies_orgs:
-  - YouTube
-  - Google
-  - Waymo
-  - Abundant
-products_models:
-  - BERT
-  - Dreamer
-media_books: []
 status: evergreen
+summary: 本次演讲深入探讨了自动驾驶与AI智能体开发之间的深刻共通之处。讲者Jesse Hu指出，两者都面临着“1%模型工作与99%工程工作”的挑战，强调了离线堆栈、闭环系统、状态管理、处理分布外问题以及仿真在开发中的关键作用。他强调，智能体如同现实世界的机器人，会犯错并需要强大的恢复机制，因此需要从预测模型转向行动模型，并构建完善的基础设施来支持迭代开发过程。
+tags:
+- ai-agent
+- robotic
+- simulation
+- system
+title: 智能体亦是机器人：自动驾驶对构建智能体的启示
 ---
+
 ### 引言：智能体与机器人学的共通之处
 
 大家好。

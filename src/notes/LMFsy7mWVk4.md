@@ -1,33 +1,33 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《谁来决定吃什么》
+people:
+- 陈宇慧
+products_models: []
+project:
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=LMFsy7mWVk4
 speaker: 一席YiXi
-tags:
-  - cooking-culture
-  - modern-lifestyle
-  - work-life-balance
-  - pre-made-meals
-  - social-connection
-title: 被预制的不只食物，还有我们的生活：陈宇慧谈现代社会与烹饪的连接
-summary: 美食博主陈宇慧（田螺）分享了她从产品经理到全职美食博主的经历，并深入探讨了现代社会中人们与食物关系的变化。她指出，快节奏生活、工作压力及便利文化的兴起，正使烹饪从一项基本生活技能变为负担或社交工具，导致许多年轻人与厨房渐行渐远。陈宇慧呼吁人们重新审视并连接日常生活的价值，通过烹饪找回掌控感与慰藉，而非被预制的生活模式所裹挟。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-people:
-  - 陈宇慧
-companies_orgs: []
-products_models: []
-media_books:
-  - 《谁来决定吃什么》
 status: evergreen
+summary: 美食博主陈宇慧（田螺）分享了她从产品经理到全职美食博主的经历，并深入探讨了现代社会中人们与食物关系的变化。她指出，快节奏生活、工作压力及便利文化的兴起，正使烹饪从一项基本生活技能变为负担或社交工具，导致许多年轻人与厨房渐行渐远。陈宇慧呼吁人们重新审视并连接日常生活的价值，通过烹饪找回掌控感与慰藉，而非被预制的生活模式所裹挟。
+tags:
+- canada
+- culture
+- life
+- social
+- work-life-balance
+title: 被预制的不只食物，还有我们的生活：陈宇慧谈现代社会与烹饪的连接
 ---
+
 ### 从产品经理到美食博主：田螺姑娘的厨房情缘
 
 大家好，我叫陈宇慧，网上有很多人叫我田螺，就是田螺姑娘的那个田螺。这是一个在现在的语境里面听起来可能没有那么女性主义的名字。我其实是在2008年毕业，然后独立生活之后，给自己取了这个网名。那会儿我在互联网公司工作，做一名普通的**产品经理**（Product Manager: 负责产品规划和设计的人员）。工作很忙，然后下班也挺晚的，但是我会在网上用田螺姑娘这个名字发表一些我做的菜。比起每天在公司吃外卖来说，我会希望省点钱，然后吃得也更加健康，更加适合自己的口味一点。谁不想自己家里有个田螺姑娘呢？可是神话是神话，现实是现实，我只能自己做自己的田螺。

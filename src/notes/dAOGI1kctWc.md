@@ -1,40 +1,40 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 慧科新闻数据库
 date: '2024-07-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《一席》
+people:
+- 蒋安丽
+- 徐建华
+- 夏俊峰
+- 阿伟
+- 李哥
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=dAOGI1kctWc
 speaker: 一席YiXi
-tags:
-  - informal-economy
-  - urban-governance
-  - power-inequality
-  - street-vendor-resilience
-  - temporary-worker-dilemma
-title: 街头江湖：城管与小贩的非正式秩序
-summary: 通过田野调查，蒋安丽揭示了城市街头小贩与城管之间复杂的非正式规则体系。小贩依靠地盘划分、商品垄断和互助网络生存，而协管因低薪、无编制与执法压力成为暴力冲突的前线执行者，反映中国基层治理中的结构性矛盾。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 蒋安丽
-  - 徐建华
-  - 夏俊峰
-  - 阿伟
-  - 李哥
-companies_orgs:
-  - 慧科新闻数据库
-products_models: []
-media_books:
-  - 《一席》
 status: evergreen
+summary: 通过田野调查，蒋安丽揭示了城市街头小贩与城管之间复杂的非正式规则体系。小贩依靠地盘划分、商品垄断和互助网络生存，而协管因低薪、无编制与执法压力成为暴力冲突的前线执行者，反映中国基层治理中的结构性矛盾。
+tags:
+- economy
+- power
+- society
+- street-vendor-resilience
+- urban-governance
+title: 街头江湖：城管与小贩的非正式秩序
 ---
+
 ### 街头的生存智慧：小贩的非正式秩序
 
 说起街头小贩，我们并不陌生。街边十块钱三双的袜子、二十五块一条的裤子，这些廉价而实用的商品构成了城市生活的烟火气。然而，在正式的社会话语中，小贩的声音几乎被淹没。他们不是城市规划的主角，而是治理的对象。

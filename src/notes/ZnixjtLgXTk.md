@@ -1,40 +1,38 @@
 ---
-author: Anthony看世界
+area: tech-insights
+category: psychology
+companies_orgs:
+- Google
 date: '2025-08-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Attachment in Psychotherapy
+people:
+- Anthony
+- Bowlby
+- Main
+products_models:
+- ChatGPT
+- Gemini
+- Gemini 2.5 Pro
+- GPT-4o
+project:
+- ai-impact-analysis
+- pkm-research
+series: ''
 source: https://www.youtube.com/watch?v=ZnixjtLgXTk
 speaker: Anthony看世界
-tags:
-  - ai-reading-ability
-  - academic-assistance
-  - llm-comparison
-  - text-comprehension
-  - theoretical-transfer
-title: GPT与Gemini阅读能力实测：谁是更优秀的学术助手？
-summary: 本视频深入探讨了ChatGPT和Gemini在处理学术文本时的阅读理解与理论迁移能力。通过对《心理治疗中的依恋》一书进行多阶段测试，包括信息提取、目录总结、隐性结构分析及跨章节理论应用，结果显示Gemini在学术文本的严谨性、准确性和深度理解方面表现更优，尤其在处理长文本和进行跨章节整合时展现出卓越能力，而GPT则在某些方面存在“补全”和“臆想”的倾向。视频最终将Gemini评为更稳定可靠的学术助手。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - pkm-research
-people:
-  - Anthony
-  - Bowlby
-  - Main
-companies_orgs:
-  - Google
-products_models:
-  - ChatGPT
-  - Gemini
-  - Gemini 2.5 Pro
-  - GPT-4o
-media_books:
-  - Attachment in Psychotherapy
 status: evergreen
+summary: 本视频深入探讨了ChatGPT和Gemini在处理学术文本时的阅读理解与理论迁移能力。通过对《心理治疗中的依恋》一书进行多阶段测试，包括信息提取、目录总结、隐性结构分析及跨章节理论应用，结果显示Gemini在学术文本的严谨性、准确性和深度理解方面表现更优，尤其在处理长文本和进行跨章节整合时展现出卓越能力，而GPT则在某些方面存在“补全”和“臆想”的倾向。视频最终将Gemini评为更稳定可靠的学术助手。
+tags:
+- academic-assistance
+- canada
+- llm
+- theoretical-transfer
+title: GPT与Gemini阅读能力实测：谁是更优秀的学术助手？
 ---
 
 ### 引言：AI阅读能力的深度探索

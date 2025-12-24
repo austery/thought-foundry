@@ -1,62 +1,62 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中华苏维埃共和国
+- 国民党
+- 中共
+- 解放军
+- 波巴人民共和国
+- 香港国安处
+- 香港民意研究所
+- 约翰霍普金斯大学
+- 华金会
+- 纽位大学上海分校
 date: '2023-07-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《边际危城》
+- 《南京条约》
+- 《中英联合声明》
+- 《香港基本法》
+- 《纽约时报》
+people:
+- 邓小平
+- 孙中山
+- 毛泽东
+- 达赖喇嘛
+- 班禅
+- Xi Jinping
+- 罗爱华
+- Margaret Thatcher
+- 栗战书
+- 利钱心
+- 张燕男
+- Mikhail Gorbachev
+- 曾宇璇
+- 孔誥烽
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=AHbpfyWJlDE
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - one-country-two-systems
-  - hong-kong-national-security-law
-  - geopolitical-strategy
-  - freedom-of-speech
-  - economic-impact
-title: 帝国吸纳的诱饵：香港“一国两制”为何失败？对台湾有何启示？
-summary: 本文深入探讨香港“一国两制”模式的失败根源，追溯至中共早期对民族自觉态度的转变及西藏作为首个实验场的经验。文章分析了香港在经济上作为中西方资本中介的独特地位如何被侵蚀，以及《港区国安法》实施后，香港言论自由和高度自治的急剧恶化。最终，文章警示香港的经验可能成为中共未来并吞台湾的治理策略蓝本。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 邓小平
-  - 孙中山
-  - 毛泽东
-  - 达赖喇嘛
-  - 班禅
-  - 习近平
-  - 罗爱华
-  - Margaret Thatcher
-  - 栗战书
-  - 利钱心
-  - 张燕男
-  - Mikhail Gorbachev
-  - 曾宇璇
-  - 孔誥烽
-companies_orgs:
-  - 中华苏维埃共和国
-  - 国民党
-  - 中共
-  - 解放军
-  - 波巴人民共和国
-  - 香港国安处
-  - 香港民意研究所
-  - 约翰霍普金斯大学
-  - 华金会
-  - 纽位大学上海分校
-products_models: []
-media_books:
-  - 《边际危城》
-  - 《南京条约》
-  - 《中英联合声明》
-  - 《香港基本法》
-  - 《纽约时报》
 status: evergreen
+summary: 本文深入探讨香港“一国两制”模式的失败根源，追溯至中共早期对民族自觉态度的转变及西藏作为首个实验场的经验。文章分析了香港在经济上作为中西方资本中介的独特地位如何被侵蚀，以及《港区国安法》实施后，香港言论自由和高度自治的急剧恶化。最终，文章警示香港的经验可能成为中共未来并吞台湾的治理策略蓝本。
+tags:
+- economic-impact
+- freedom-of-speech
+- geopolitical-strategy
+- hong-kong-national-security-law
+- system
+title: 帝国吸纳的诱饵：香港“一国两制”为何失败？对台湾有何启示？
 ---
+
 ### 香港“一国两制”的困境与言论自由的消逝
 
 香港，这座千年的帝国边陲与如今的金融城邦，曾以其独特的魅力吸引着世界。然而，近年来，香港的自由环境正迅速恶化。过去一年，香港国安处的监控视角已逐渐扩张到普通市民身上，从家庭主妇到外卖小哥，越来越多香港人因在社交媒体上发表政治批评而被送进监狱。这些小市民被起诉或判刑的法源，几乎清一色是**煽动罪**（Sedition Law: 香港《罪行条例》第九与第十条，旨在禁止煽动叛乱、煽动对政府的仇恨或藐视等行为）。这项臭名昭著的殖民地法律已超过68年不曾被法庭引用，却在誓言帮香港洗刷殖民屈辱的祖国手中重新激活。

@@ -1,74 +1,73 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Nvidia
+- Chat GPT
+- Qualcomm
+- Marvell Technology
+- European Union
+- Kremlin
+- White House
+- 住建部
+- 新陈公司
+- 惠誉
+- 中共中央
+- 胡赵基金
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《雅虎财经》
+- 《经济学人》
+- 《彭博社》
+- 《北京日报》
+- 《路透社》
+- 《新华社》
+people:
+- Donald Trump
+- Huang Renxun
+- Volodymyr Zelenskyy
+- Steve Witkoff
+- Dmitriyev
+- Dmitry Medvedev
+- Kaja Kallas
+- Dmitry Peskov
+- Catherine Colonna
+- Christine Wormuth
+- Denys Shmyhal
+- Oleksandr Syrskyi
+- Andriy Yermak
+- Asim Munir
+- Shehbaz Sharif
+- Xi Jinping
+- Wendy Cutler
+- Rahm Emanuel
+- Hu Yaobang
+- Zhao Ziyang
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=3KVWzMs3-_A
 speaker: LT視界
-tags:
-  - us-employment-data
-  - ai-bubble-debate
-  - ukraine-peace-plan
-  - political-consolidation
-  - china-japan-relations
-  - real-estate-stimulus
-  - political-legacy
-title: 美国就业数据与AI泡沫论：乌克兰和平方案引争议，中国房地产再出新政，习近平纪念胡耀邦引关注
-summary: 本期节目聚焦多项国际与国内热点。美国就业增长超预期但失业率上升，美联储降息前景不明；英伟达驳斥人工智能泡沫论，但分析师仍持谨慎态度。乌克兰战争方面，美俄联手提出“糟糕”和平方案，要求乌克兰大幅让步，引发欧洲担忧。巴基斯坦陆军参谋长巩固权力，被指效仿习近平。中日关系因熊猫外交和稀土出口再起波澜。中国驻中非使馆警示公民沦为“矿奴”风险。国内房地产市场，习近平再次出手，欲通过补贴减税刺激购房以稳定金融系统。最后，节目深入分析习近平高调纪念胡耀邦的政治意图，探讨其与胡耀邦真实理念的差异。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Huang Renxun
-  - Volodymyr Zelenskyy
-  - Steve Witkoff
-  - Dmitriyev
-  - Dmitry Medvedev
-  - Kaja Kallas
-  - Dmitry Peskov
-  - Catherine Colonna
-  - Christine Wormuth
-  - Denys Shmyhal
-  - Oleksandr Syrskyi
-  - Andriy Yermak
-  - Asim Munir
-  - Shehbaz Sharif
-  - Xi Jinping
-  - Wendy Cutler
-  - Rahm Emanuel
-  - Hu Yaobang
-  - Zhao Ziyang
-companies_orgs:
-  - Nvidia
-  - Chat GPT
-  - Qualcomm
-  - Marvell Technology
-  - European Union
-  - Kremlin
-  - White House
-  - 住建部
-  - 新陈公司
-  - 惠誉
-  - 中共中央
-  - 胡赵基金
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 《雅虎财经》
-  - 《经济学人》
-  - 《彭博社》
-  - 《北京日报》
-  - 《路透社》
-  - 《新华社》
 status: evergreen
+summary: 本期节目聚焦多项国际与国内热点。美国就业增长超预期但失业率上升，美联储降息前景不明；英伟达驳斥人工智能泡沫论，但分析师仍持谨慎态度。乌克兰战争方面，美俄联手提出“糟糕”和平方案，要求乌克兰大幅让步，引发欧洲担忧。巴基斯坦陆军参谋长巩固权力，被指效仿习近平。中日关系因熊猫外交和稀土出口再起波澜。中国驻中非使馆警示公民沦为“矿奴”风险。国内房地产市场，习近平再次出手，欲通过补贴减税刺激购房以稳定金融系统。最后，节目深入分析习近平高调纪念胡耀邦的政治意图，探讨其与胡耀邦真实理念的差异。
+tags:
+- ai-bubble-debate
+- china-japan-relations
+- geopolitical
+- political
+- real
+- ukraine-peace-plan
+title: 美国就业数据与AI泡沫论：乌克兰和平方案引争议，中国房地产再出新政，习近平纪念胡耀邦引关注
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。
 
 ### 财经头条：美国就业与AI泡沫论

@@ -1,76 +1,75 @@
 ---
-author: 張内咸
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Sony
+- 正大集团
 date: '2025-03-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《荒野大镖客》
+- 《十个小黑人》
+- 《碰头地点不变》
+- 《德苏乌扎拉》
+- 《丑陋的美国人》
+- 《太阳的季节》
+- 《日本可以说不》
+- 《剑桥英国戏剧史》
+- 《再见李香兰》
+- 《国产凌凌漆》
+- 《无人生还》
+- 《那年我20岁》
+- 《阳光灿烂的日子》
+- video-expression
+people:
+- Donald Trump
+- Volodymyr Zelenskyy
+- Clint Eastwood
+- 李香兰
+- Tracey Brabin
+- Stanislav Govorukhin
+- Marjan Šarec
+- Jimmy Morales
+- Nikolai Gubenko
+- Yuri Solomin
+- Joseph Estrada
+- 克立·巴莫
+- 石原慎太郎
+- Smriti Irani
+- Arnold Schwarzenegger
+- Eva Perón
+- Yair Lapid
+- Scott Morrison
+- Ronald Reagan
+- 江青
+- Vladimir Putin
+- 蔡英文
+- 小泉纯一郎
+- 盛田昭夫
+- 马龙·白兰度
+- 毛泽东
+products_models:
+- STEM
+project:
+- us-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=dv4CxaoDYG4
 speaker: 張内咸
-tags:
-  - us-election-2024
-  - political-polarization
-  - global-order-shift
-  - actor-politicians
-  - cultural-prejudice
-  - video-expression
-title: 演员从政：打破偏见，探寻全球明星政客的权力版图
-summary: 本文深入探讨了简中世界因美国大选和俄乌战争引发的社会撕裂，并以此为切入点，剖析了华人社会对“演员从政”的普遍偏见。通过梳理全球20位知名演员出身的政治人物，从市长到总统乃至更高职位，揭示了表演艺术与政治之间天然的紧密联系，并强调了在互联网时代，视频化表达能力的重要性，呼吁打破传统观念，拥抱新的交流方式。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - Donald Trump
-  - Volodymyr Zelenskyy
-  - Clint Eastwood
-  - 李香兰
-  - Tracey Brabin
-  - Stanislav Govorukhin
-  - Marjan Šarec
-  - Jimmy Morales
-  - Nikolai Gubenko
-  - Yuri Solomin
-  - Joseph Estrada
-  - 克立·巴莫
-  - 石原慎太郎
-  - Smriti Irani
-  - Arnold Schwarzenegger
-  - Eva Perón
-  - Yair Lapid
-  - Scott Morrison
-  - Ronald Reagan
-  - 江青
-  - Vladimir Putin
-  - 蔡英文
-  - 小泉纯一郎
-  - 盛田昭夫
-  - 马龙·白兰度
-  - 毛泽东
-companies_orgs:
-  - Sony
-  - 正大集团
-products_models:
-  - STEM
-media_books:
-  - 《荒野大镖客》
-  - 《十个小黑人》
-  - 《碰头地点不变》
-  - 《德苏乌扎拉》
-  - 《丑陋的美国人》
-  - 《太阳的季节》
-  - 《日本可以说不》
-  - 《剑桥英国戏剧史》
-  - 《再见李香兰》
-  - 《国产凌凌漆》
-  - 《无人生还》
-  - 《那年我20岁》
-  - 《阳光灿烂的日子》
 status: evergreen
+summary: 本文深入探讨了简中世界因美国大选和俄乌战争引发的社会撕裂，并以此为切入点，剖析了华人社会对“演员从政”的普遍偏见。通过梳理全球20位知名演员出身的政治人物，从市长到总统乃至更高职位，揭示了表演艺术与政治之间天然的紧密联系，并强调了在互联网时代，视频化表达能力的重要性，呼吁打破传统观念，拥抱新的交流方式。
+tags:
+- actor-politician
+- cultural
+- global
+- us-election-2024
+title: 演员从政：打破偏见，探寻全球明星政客的权力版图
 ---
+
 ### 简中世界的撕裂与旧秩序的终结
 
 自从去年美国大选之后，**简中世界**（简体中文互联网世界，指中国大陆的中文网络社群）就产生了一次巨大的分裂。短短几个月时间，许多人感到整个社会都变得凌乱，墙内墙外的情况傻傻分不清楚。例如，打开微博以为自己看的是**X**（社交媒体平台，即原Twitter），打开X呢，又以为自己看的是微博，因为都在批评**Donald Trump**（唐纳德·特朗普）。甚至有人觉得，反建制派比“小粉红”更恨特朗普，号子喊得震天响，这让不少人好奇，难道他们都是**走线**（指通过非法途径穿越边境进入美国的行为）过去的吗？

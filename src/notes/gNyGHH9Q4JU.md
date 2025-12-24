@@ -1,49 +1,48 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-06-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Book of Rites
+- The Great Learning
+- Records of the Grand Historian
+- Zuo Zhuan
+- Peach Blossom Fan
+- Dream of the Red Chamber
+people:
+- Bai Juyi
+- Confucius
+- Qin Shi Huang
+- Duke Mu of Qin
+- Baili Xi
+- Su Shi
+- Dong Zhongshu
+- Zhu Xi
+- Newton
+- Fan Zhongyan
+- Wang Yangming
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=gNyGHH9Q4JU
 speaker: Anthony看世界
-tags:
-  - chinese-culture-crisis
-  - neo-confucianism
-  - gewu-zhizhi
-  - imperial-autocracy
-  - philosophical-skepticism
-title: 中国文化危机、程朱理学与“格物致知”的真实含义
-summary: 本文深入探讨了中国文化的深层危机，追溯了从秦制到宋代的演变历程。文章分析了白居易和苏轼等历史人物对传统儒家伦理和天道正义的深刻怀疑。随后，讨论转向程朱理学如何试图通过“天理”和“格物致知”重建宇宙秩序以应对危机，并批判了其内在的僵化和心理操控本质。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Bai Juyi
-  - Confucius
-  - Qin Shi Huang
-  - Duke Mu of Qin
-  - Baili Xi
-  - Su Shi
-  - Dong Zhongshu
-  - Zhu Xi
-  - Newton
-  - Fan Zhongyan
-  - Wang Yangming
-companies_orgs: []
-products_models: []
-media_books:
-  - The Book of Rites
-  - The Great Learning
-  - Records of the Grand Historian
-  - Zuo Zhuan
-  - Peach Blossom Fan
-  - Dream of the Red Chamber
 status: evergreen
+summary: 本文深入探讨了中国文化的深层危机，追溯了从秦制到宋代的演变历程。文章分析了白居易和苏轼等历史人物对传统儒家伦理和天道正义的深刻怀疑。随后，讨论转向程朱理学如何试图通过“天理”和“格物致知”重建宇宙秩序以应对危机，并批判了其内在的僵化和心理操控本质。
+tags:
+- canada
+- culture
+- gewu-zhizhi
+- neo-confucianism
+- philosophy
+title: 中国文化危机、程朱理学与“格物致知”的真实含义
 ---
 
 ### 引言：中国文化的深层危机

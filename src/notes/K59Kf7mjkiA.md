@@ -1,187 +1,185 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Spotify
+- Google
+- Nvidia
+- Robinhood
+- Apple
+- Meta
+- Tesla
+- Microsoft
+- Oracle
+- Costco
+- Berkshire Hathaway
+- Rocket Lab
+- Palantir
+- Caterpillar
+- Figma
+- Lockheed Martin
+- TSMC
+- Intel
+- Walmart
+- Kors
+- Bath & Body Works
+- DraftKings
+- Shopify
+- Amcor
+- Boeing
+- Cisco
+- AeroVironment
+- Schlumberger
+- Coinbase
+- Snapchat
+- Disney
+- American Tower
+- Devon Energy
+- Qualcomm
+- AMD
+- US Foods
+- Circle
+- Datadog
+- Kratos Defense & Security Solutions
+- Roblox
+- Ford
+- Altria
+- Northrop Grumman
+- Laser Photonics
+- Johnson & Johnson
+- TransDigm Group
+- Grab
+- ASML
+- American Airlines
+- MongoDB
+- Occidental Petroleum
+- Innovative Industrial Properties
+- Philip Morris International
+- Canadian Natural Resources
+- Viking Therapeutics
+- Vertex Pharmaceuticals
+- Celsius Holdings
+- Albemarle
+- UiPath
+- BridgeBio Pharma
+- SoundHound AI
+- Arbor Realty Trust
+- Esco Technologies
+- Ouster
+- Lyft
+- Abbott Laboratories
+- PepsiCo
+- Records
+- Columbia Records
+- Sony Music Entertainment
+- A16Z
+- IRS
+- Waymo
+- Purple Biotech
+- SpaceX
+- SoFi Technologies
+- Vanguard
+- DJ Booth
+- Polymarket
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Wall Street Bets
+- The Founders Podcast
+- The New York Times
+- CNBC
+- Bloomberg
+- Saturday Night Live
+- The Last Economy
+people:
+- 24kGoldn
+- Michael Jackson
+- Eminem
+- Lil Wayne
+- Ian Dior
+- Jensen Huang
+- Vlad Tenev
+- Jim Cramer
+- Andrew Ross Sorkin
+- Becky Quick
+- Russ
+- Sharief O'Neal
+- Naval Ravikant
+- Elon Musk
+- Paul Volcker
+- Jerome Powell
+- Tobi Lütke
+- Daniel Negreanu
+- Allison
+- Tom Brady
+- Wesley Snipes
+- Central Cee
+- Dan Niles
+products_models:
+- Mood
+- Valentino
+- City of Angels
+- Call of Duty
+- 2K
+- FSD
+- Tesla Roadster
+- Model S
+- Model 3
+- Robo-taxi
+- Optimus
+- iPhone
+- Huawei
+- Android
+- iPod Touch
+- iTunes
+- MacBook
+- Instagram
+- TikTok
+- Meta Ray-Ban
+- Google Glass
+- Ozempic
+- Poppi
+- Starface
+- MoonPay
+- Hero Bread
+- G63
+- E36 M3
+- Acura NSX
+- Cybertruck
+- Icarus
+- June
+- Django Unchained
+- Sorry to Bother You
+- City of God
+- Slumdog Millionaire
+- Inception
+- Interstellar
+- Wolf of Wall Street
+- Dark Knight
+- Rounders
+- The Gambler
+- Molly's Game
+- Balling Like Shareef
+- NT219
+project:
+- investment-strategy
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=K59Kf7mjkiA
 speaker: Amit Kukreja
-tags:
-  - investment-portfolio
-  - music-industry
-  - wealth-management
-  - startup-investment
-  - career-development
-title: 说唱歌手24kGoldn的投资组合：从音乐到财富的蜕变
-summary: 24kGoldn与主持人Amit Kukreja深入探讨了他的投资策略和音乐生涯。他分享了从年少时受父亲影响开始投资，到凭借热门歌曲《Mood》爆红后的财务管理经验。文章详细介绍了他的多元化股票组合，包括对科技巨头和ETF的长期持有，以及对加密货币和初创公司的看法。同时，他也揭示了音乐行业唱片合约的运作方式，以及作为独立艺术家如何平衡创作自由与商业成功，并分享了他对未来五年职业和个人发展的规划，包括进军演艺界的抱负。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - entrepreneurship
-people:
-  - Amit Kukreja
-  - 24kGoldn
-  - Michael Jackson
-  - Eminem
-  - Lil Wayne
-  - Ian Dior
-  - Jensen Huang
-  - Vlad Tenev
-  - Jim Cramer
-  - Andrew Ross Sorkin
-  - Becky Quick
-  - Russ
-  - Sharief O'Neal
-  - Naval Ravikant
-  - Elon Musk
-  - Paul Volcker
-  - Jerome Powell
-  - Tobi Lütke
-  - Daniel Negreanu
-  - Allison
-  - Tom Brady
-  - Wesley Snipes
-  - Central Cee
-  - Dan Niles
-companies_orgs:
-  - Spotify
-  - Google
-  - Nvidia
-  - Robinhood
-  - Apple
-  - Meta
-  - Tesla
-  - Microsoft
-  - Oracle
-  - Costco
-  - Berkshire Hathaway
-  - Rocket Lab
-  - Palantir
-  - Caterpillar
-  - Figma
-  - Lockheed Martin
-  - TSMC
-  - Intel
-  - Walmart
-  - Kors
-  - Bath & Body Works
-  - DraftKings
-  - Shopify
-  - Amcor
-  - Boeing
-  - Cisco
-  - AeroVironment
-  - Schlumberger
-  - Coinbase
-  - Snapchat
-  - Disney
-  - American Tower
-  - Devon Energy
-  - Qualcomm
-  - AMD
-  - US Foods
-  - Circle
-  - Datadog
-  - Kratos Defense & Security Solutions
-  - Roblox
-  - Ford
-  - Altria
-  - Northrop Grumman
-  - Laser Photonics
-  - Johnson & Johnson
-  - TransDigm Group
-  - Grab
-  - ASML
-  - American Airlines
-  - MongoDB
-  - Occidental Petroleum
-  - Innovative Industrial Properties
-  - Philip Morris International
-  - Canadian Natural Resources
-  - Viking Therapeutics
-  - Vertex Pharmaceuticals
-  - Celsius Holdings
-  - Albemarle
-  - UiPath
-  - BridgeBio Pharma
-  - SoundHound AI
-  - Arbor Realty Trust
-  - Esco Technologies
-  - Ouster
-  - Lyft
-  - Abbott Laboratories
-  - PepsiCo
-  - Records
-  - Columbia Records
-  - Sony Music Entertainment
-  - A16Z
-  - IRS
-  - Waymo
-  - Purple Biotech
-  - SpaceX
-  - SoFi Technologies
-  - Vanguard
-  - DJ Booth
-  - Polymarket
-products_models:
-  - Mood
-  - Valentino
-  - City of Angels
-  - Call of Duty
-  - 2K
-  - FSD
-  - Tesla Roadster
-  - Model S
-  - Model 3
-  - Robo-taxi
-  - Optimus
-  - iPhone
-  - Huawei
-  - Android
-  - iPod Touch
-  - iTunes
-  - MacBook
-  - Instagram
-  - TikTok
-  - Meta Ray-Ban
-  - Google Glass
-  - Ozempic
-  - Poppi
-  - Starface
-  - MoonPay
-  - Hero Bread
-  - G63
-  - E36 M3
-  - Acura NSX
-  - Cybertruck
-  - Icarus
-  - June
-  - Django Unchained
-  - Sorry to Bother You
-  - City of God
-  - Slumdog Millionaire
-  - Inception
-  - Interstellar
-  - Wolf of Wall Street
-  - Dark Knight
-  - Rounders
-  - The Gambler
-  - Molly's Game
-  - Balling Like Shareef
-  - NT219
-media_books:
-  - Wall Street Bets
-  - The Founders Podcast
-  - The New York Times
-  - CNBC
-  - Bloomberg
-  - Saturday Night Live
-  - The Last Economy
 status: evergreen
+summary: 24kGoldn与主持人Amit Kukreja深入探讨了他的投资策略和音乐生涯。他分享了从年少时受父亲影响开始投资，到凭借热门歌曲《Mood》爆红后的财务管理经验。文章详细介绍了他的多元化股票组合，包括对科技巨头和ETF的长期持有，以及对加密货币和初创公司的看法。同时，他也揭示了音乐行业唱片合约的运作方式，以及作为独立艺术家如何平衡创作自由与商业成功，并分享了他对未来五年职业和个人发展的规划，包括进军演艺界的抱负。
+tags:
+- career-development
+- industry
+- investment
+- wealth-management
+title: 说唱歌手24kGoldn的投资组合：从音乐到财富的蜕变
 ---
+
 ### 欢迎24kGoldn：从音乐到投资
 
 **Amit Kukreja:** 大家好，欢迎回到频道。今天我们请到了一位非常特别的嘉宾，美国说唱歌手、杰出艺术家24kGoldn。

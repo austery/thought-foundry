@@ -1,68 +1,68 @@
 ---
-author: 北美王路飞
+area: market-analysis
+category: business
+companies_orgs:
+- OpenAI
+- Sierra Technology
+- Google
+- FriendFeed
+- Meta
+- Quip
+- Salesforce
+- Twitter
+- Microsoft
+- Sun Microsystems
+- Pets.com
+- Etoys
+- Amazon
+- Square
+- Nvidia
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- 《神曲·地狱篇》
+people:
+- Brett Taylor
+- Sam Altman
+- Marissa Mayer
+- Larry Page
+- Mark Zuckerberg
+- Elon Musk
+- Marc Benioff
+- Jack Dorsey
+- Bill Hewlett
+- David Packard
+products_models:
+- Google Local
+- Google Maps
+- FriendFeed
+- Quip
+- Like button
+- ChatGPT
+- TI-85 calculator
+- HP computer
+project:
+- ai-impact-analysis
+- entrepreneurship
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Iclo9FpYn2Q
 speaker: 北美王路飞
-tags:
-  - ai-bubble
-  - startup-strategy
-  - customer-service-ai
-  - business-model
-  - tech-leadership
-title: 硅谷幸存者布雷特·泰勒：在AI泡沫中，为何他选择“无聊”的客服赛道？
-summary: 本文深入探讨了硅谷资深领袖布雷特·泰勒的职业生涯与独特视角。作为OpenAI董事长，他曾亲历Web 1.0泡沫破裂，并从中汲取了宝贵教训。在当前AI热潮中，泰勒选择创办估值百亿美金的Sierra公司，专注于看似“无聊”的AI客服领域，并强调真实收入（ARR）而非盲目炒作。文章通过分析泰勒的“三道伤疤”及其务实策略，揭示了在泡沫中识别真正价值和构建持久企业的生存之道。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - market-cycles
-people:
-  - Brett Taylor
-  - Sam Altman
-  - Marissa Mayer
-  - Larry Page
-  - Mark Zuckerberg
-  - Elon Musk
-  - Marc Benioff
-  - Jack Dorsey
-  - Bill Hewlett
-  - David Packard
-companies_orgs:
-  - OpenAI
-  - Sierra Technology
-  - Google
-  - FriendFeed
-  - Facebook
-  - Quip
-  - Salesforce
-  - Twitter
-  - Microsoft
-  - Sun Microsystems
-  - Pets.com
-  - Etoys
-  - Amazon
-  - Square
-  - Nvidia
-products_models:
-  - Google Local
-  - Google Maps
-  - FriendFeed
-  - Quip
-  - Like button
-  - ChatGPT
-  - TI-85 calculator
-  - HP computer
-media_books:
-  - Bloomberg
-  - 《神曲·地狱篇》
 status: evergreen
+summary: 本文深入探讨了硅谷资深领袖布雷特·泰勒的职业生涯与独特视角。作为OpenAI董事长，他曾亲历Web 1.0泡沫破裂，并从中汲取了宝贵教训。在当前AI热潮中，泰勒选择创办估值百亿美金的Sierra公司，专注于看似“无聊”的AI客服领域，并强调真实收入（ARR）而非盲目炒作。文章通过分析泰勒的“三道伤疤”及其务实策略，揭示了在泡沫中识别真正价值和构建持久企业的生存之道。
+tags:
+- ai-bubble
+- business-model
+- llm
+- strategy
+- tech-leadership
+title: 硅谷幸存者布雷特·泰勒：在AI泡沫中，为何他选择“无聊”的客服赛道？
 ---
+
 ### 硅谷的“英灵殿”与泰勒的偏执
 
 斯坦福大学在某种意义上是硅谷的英灵殿，一座用万亿美金市值公司命名的纪念碑。比尔·盖茨的微软大楼在这里，黄仁勋的英伟达中心也在这里，每一块砖似乎都在讲述一个关于成功的神话。然而，就在2025年9月的这个下午，一个坐在这里的人想到的不是成功，而是失败。他的名字叫做布雷特·泰勒（Brett Taylor）。

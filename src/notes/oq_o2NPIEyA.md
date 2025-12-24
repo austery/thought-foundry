@@ -1,76 +1,76 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- IBM
+- AMD
+- Nvidia
+- 摩根大通
+- Circle
+- Coinbase
+- Google
+- Meta
+- 亚马逊
+- 苹果
+- Microsoft
+- 甲骨文
+- 特斯拉
+- 三星
+- SK海力士
+- 北京大学化学与分子工程学院
+- 人民日报
+- 美国银行
+- 美联储
+- 日本央行
+- 加拿大央行
+- 北约
+- 中富力宏盛集团
+- 娃哈哈
 date: '2025-10-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《交易的艺术》
+- 《孙子兵法》
+- 纽约时报
+people:
+- Donald Trump
+- Joe Biden
+- Kamala Harris
+- Jerome Powell
+- 潘功胜
+- 李承刚
+- 贝森特
+- 高市早苗
+- 贾斯廷·特鲁多
+- 哈维尔·米莱
+- 马克·扎克伯格
+products_models:
+- TikTok
+- 比特币
+- 以太坊
+- 数字人民币
+- LPR
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=oq_o2NPIEyA
 speaker: 小翠時政財經
-tags:
-  - us-southeast-asia-relations
-  - us-china-trade
-  - global-market-trends
-  - central-bank-policy
-  - political-strategy
-title: 川总东南亚之行成果丰硕，中美谈判与全球市场动态深度解析
-summary: 本期节目深入分析了美国总统川普近期东南亚之行的外交与贸易成果，包括与马来西亚、泰国、越南等国签署的贸易协定及其对美国商品准入的影响。同时，详细解读了中美谈判的表面结果与潜在深层考量，以及川普应对国内关税法律挑战的策略。节目还探讨了全球股市（A股、港股、美股）的近期表现，特别是科技巨头财报周和英伟达GTC大会对AI及相关板块的影响。最后，分析了中国央行政策、全球主要央行议息会议，并对比了加拿大与阿根廷的政治经济走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - Joe Biden
-  - Kamala Harris
-  - Jerome Powell
-  - 潘功胜
-  - 李承刚
-  - 贝森特
-  - 高市早苗
-  - 贾斯廷·特鲁多
-  - 哈维尔·米莱
-  - 马克·扎克伯格
-companies_orgs:
-  - IBM
-  - AMD
-  - Nvidia
-  - 摩根大通
-  - Circle
-  - Coinbase
-  - 谷歌
-  - Meta
-  - 亚马逊
-  - 苹果
-  - 微软
-  - 甲骨文
-  - 特斯拉
-  - 三星
-  - SK海力士
-  - 北京大学化学与分子工程学院
-  - 人民日报
-  - 美国银行
-  - 美联储
-  - 日本央行
-  - 加拿大央行
-  - 北约
-  - 中富力宏盛集团
-  - 娃哈哈
-products_models:
-  - TikTok
-  - 比特币
-  - 以太坊
-  - 数字人民币
-  - LPR
-media_books:
-  - 《交易的艺术》
-  - 《孙子兵法》
-  - 纽约时报
 status: evergreen
+summary: 本期节目深入分析了美国总统川普近期东南亚之行的外交与贸易成果，包括与马来西亚、泰国、越南等国签署的贸易协定及其对美国商品准入的影响。同时，详细解读了中美谈判的表面结果与潜在深层考量，以及川普应对国内关税法律挑战的策略。节目还探讨了全球股市（A股、港股、美股）的近期表现，特别是科技巨头财报周和英伟达GTC大会对AI及相关板块的影响。最后，分析了中国央行政策、全球主要央行议息会议，并对比了加拿大与阿根廷的政治经济走向。
+tags:
+- central-bank-policy
+- global-market-trend
+- political-strategy
+- relations
+- us-china-relations
+title: 川总东南亚之行成果丰硕，中美谈判与全球市场动态深度解析
 ---
+
 ### 川普东南亚之行：外交与贸易的胜利
 
 大家好，欢迎回到崔时政财经。今天是美东时间2025年10月27日。本期节目将为大家分享许多好消息，因为全球股市一片大涨。这要归功于川普总统，他以一人之力带动全球股市上涨，并在亚洲进行了一系列精彩的外交活动。

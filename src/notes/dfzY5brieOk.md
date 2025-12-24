@@ -1,39 +1,38 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-05-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 趙哲暘
+- 宋晏仁
+products_models:
+- 阳压呼吸器
+- 止鼾牙套
+- Mewing
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=dfzY5brieOk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - oral-structure
-  - chewing-development
-  - sleep-apnea
-  - mouth-breathing
-  - swallowing-patterns
-title: 口腔结构专家：精细饮食对孩子健康的影响可能是一辈子
-summary: 赵哲暘牙医师在《初日会客室》中指出，现代儿童过早接触精细食物，缺乏咀嚼，导致口腔结构狭窄，进而引发鼻塞、鼻过敏、睡眠呼吸中止症等问题。他强调，不拔牙矫正应回归复健医学和骨科概念，重视咀嚼训练和吞咽模式的纠正，并提出通过咀嚼硬块食物、鼻呼吸训练、唱歌发音练习等方法，改善口腔功能和全身健康，而非仅仅关注牙齿排列。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 趙哲暘
-  - 宋晏仁
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models:
-  - 阳压呼吸器
-  - 止鼾牙套
-  - Mewing
-media_books: []
 status: evergreen
+summary: 赵哲暘牙医师在《初日会客室》中指出，现代儿童过早接触精细食物，缺乏咀嚼，导致口腔结构狭窄，进而引发鼻塞、鼻过敏、睡眠呼吸中止症等问题。他强调，不拔牙矫正应回归复健医学和骨科概念，重视咀嚼训练和吞咽模式的纠正，并提出通过咀嚼硬块食物、鼻呼吸训练、唱歌发音练习等方法，改善口腔功能和全身健康，而非仅仅关注牙齿排列。
+tags:
+- development
+- health
+- mouth-breathing
+- oral-structure
+- swallowing-pattern
+title: 口腔结构专家：精细饮食对孩子健康的影响可能是一辈子
 ---
+
 ### 口腔结构与全身健康：不拔牙矫正的深层考量
 
 **趙哲暘**: 并非简单地扩张牙床就能解决所有问题。如果我们不考虑**异常吞嚥**（Abnormal Swallowing: 指吞咽时牙齿会咬紧，舌头位置不正确）的病人，他们在吞咽时牙齿会咬紧。很多人会去打**肉毒**（Botox: 肉毒杆菌素，用于放松肌肉），但即使你打了咬肌，也打不到里面的**内翼肌**（Medial Pterygoid Muscle: 位于下颌骨内侧的咀嚼肌）。我们常常遇到这种情况，其实你会发现嘴角和眼睛的歪斜是不一样的。

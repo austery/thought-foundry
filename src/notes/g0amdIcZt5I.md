@@ -1,38 +1,36 @@
 ---
-author: Veritasium
-date: '2023-03-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=g0amdIcZt5I
-speaker: Veritasium
-tags:
-  - veritasium
-  - magnetic-fields
-  - superconductors
-  - diamagnetism
-  - ferromagnetism
-  - material-science
-title: 世界最强磁铁：45特斯拉的奥秘与应用
-summary: 本文深入探讨了位于佛罗里达州国家高磁场实验室的世界最强连续磁场——45特斯拉混合磁铁。文章详细介绍了其独特的超导与电阻磁铁组合结构，以及它如何影响各种材料，从铁磁性到抗磁性物质，甚至能使生物悬浮。同时，也探讨了其在材料科学发现中的关键作用，以及运行如此强大磁铁所需的巨大能量和成本。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - historical-insights
-people:
-  - Francis Bitter
+category: technology
 companies_orgs:
-  - Google
-  - National High Magnetic Field Laboratory
-  - MIT
+- Google
+- National High Magnetic Field Laboratory
+- MIT
+date: '2023-03-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Francis Bitter
 products_models:
-  - Nerf football
-  - Project Sunroof
-media_books: []
+- Nerf football
+- Project Sunroof
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=g0amdIcZt5I
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了位于佛罗里达州国家高磁场实验室的世界最强连续磁场——45特斯拉混合磁铁。文章详细介绍了其独特的超导与电阻磁铁组合结构，以及它如何影响各种材料，从铁磁性到抗磁性物质，甚至能使生物悬浮。同时，也探讨了其在材料科学发现中的关键作用，以及运行如此强大磁铁所需的巨大能量和成本。
+tags:
+- diamagnetism
+- ferromagnetism
+- magnetic-field
+- material-science
+- technology
+title: 世界最强磁铁：45特斯拉的奥秘与应用
 ---
+
 ### 世界最强磁铁：45特斯拉的惊人力量
 
 这就是世界上最强的磁铁，它能够吸入物体，产生电流，甚至能使非磁性物体悬浮。它甚至会对摄像设备造成严重影响。

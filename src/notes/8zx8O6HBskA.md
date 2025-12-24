@@ -1,48 +1,47 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- AIPAC
+- Mossad
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jeffrey Epstein
+- Donald Trump
+- Joe Biden
+- Kamala Harris
+- Gavin Newsom
+- Andrew Cuomo
+- Mondaire Jones
+- Alexandria Ocasio-Cortez
+- Charles Schumer
+- Larry Summers
+- Marjorie Taylor Greene
+- Thomas Massie
+- Barack Obama
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=8zx8O6HBskA
 speaker: 北美王路飞
-tags:
-  - us-political-polarization
-  - elite-distrust
-  - epstein-case-impact
-  - us-economy-policy
-  - stem-education-gap
-title: 爱泼斯坦案、美国政治撕裂与社会深层问题：从精英不信任到教育危机
-summary: 本文深入探讨了爱泼斯坦案如何加剧美国社会对精英阶层的不信任，分析了美国两党政治的极化、建制派与非建制派的冲突，以及经济政策失误对社会的影响。同时，文章也触及了中国职场“江湖系”文化和美国理工科人才短缺的深层原因，揭示了精英政治制度的挑战及其对社会公平和教育系统的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Jeffrey Epstein
-  - Donald Trump
-  - Joe Biden
-  - Kamala Harris
-  - Gavin Newsom
-  - Andrew Cuomo
-  - Mondaire Jones
-  - Alexandria Ocasio-Cortez
-  - Charles Schumer
-  - Larry Summers
-  - Marjorie Taylor Greene
-  - Thomas Massie
-  - Barack Obama
-companies_orgs:
-  - AIPAC
-  - Mossad
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入探讨了爱泼斯坦案如何加剧美国社会对精英阶层的不信任，分析了美国两党政治的极化、建制派与非建制派的冲突，以及经济政策失误对社会的影响。同时，文章也触及了中国职场“江湖系”文化和美国理工科人才短缺的深层原因，揭示了精英政治制度的挑战及其对社会公平和教育系统的影响。
+tags:
+- code
+- education
+- impact
+- political
+- us-economy-policy
+title: 爱泼斯坦案、美国政治撕裂与社会深层问题：从精英不信任到教育危机
 ---
+
 ### 中国职场的“江湖系”文化
 
 **陆飞:** 我就想说那个马洪亮是不是那个就是**虚无主义者**（Nihilism: 认为生命没有意义、价值观毫无根据的哲学观点）什么都不存在的就不存在主义的电机人，虚无主义加怀疑主义。

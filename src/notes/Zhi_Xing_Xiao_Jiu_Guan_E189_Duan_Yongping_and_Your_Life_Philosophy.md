@@ -1,32 +1,32 @@
 ---
-title: E189 聊聊段永平，以及你想活出怎样的人生
-summary: 可以看看段永平的书，好像是他在雪球的合集
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-  - 人生哲学
-  - 投资
-  - 投资大师
-people:
-  - 段永平
-  - 雨白
-  - 小波老师
-companies_orgs: []
-products_models: []
-media_books:
-- 知行小酒馆
-date: '2025-07-10'
+area: finance-wealth
 author: Lei
-speaker: 知行小酒馆
+category: stock-investment
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 知行小酒馆
+people:
+- 段永平
+- 雨白
+- 小波老师
+products_models: []
+project:
+- investment-strategy
 series: null
 source: null
+speaker: 知行小酒馆
+summary: 可以看看段永平的书，好像是他在雪球的合集
+tags:
+- investment-master
+- life-philosophy
+title: E189 聊聊段永平，以及你想活出怎样的人生
 ---
+
 ## 引言：聊聊段永平的契机
 
 **雨白:**

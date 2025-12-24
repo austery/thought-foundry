@@ -1,68 +1,67 @@
 ---
-author: 小翠時政財經
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=_92N3LeQf_o'
-speaker: 小翠時政財經
-tags:
-  - us-china-relations
-  - monetary-policy
-  - corporate-finance
-  - ai-economy
-  - market-sentiment
-title: 川习会中美博弈：美方让步与科技巨头财报下的市场洞察
-summary: 本次川习会美方在芬太尼关税、半导体出口管制及造船业调查上做出让步，引发对美方利益受损的担忧。同时，比亚迪财报显示经营困境。美联储降息并结束缩表，鲍威尔关注就业市场。科技巨头财报表现分化：Meta因税务和元宇宙投资巨亏，微软云服务稳健增长，谷歌广告与云计算业务强劲，共同支撑AI市场信心。文章深入分析了中美关系、企业财报与宏观经济政策对全球市场的影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Jerome Powell
-  - Mark Zuckerberg
-  - 高市早苗
-  - 黄仁勋
-  - 刘鹤
-  - Joe Biden
-  - 李志英
+area: finance-wealth
+category: macro-economy
 companies_orgs:
-  - ASML
-  - BYD
-  - Meta
-  - Microsoft
-  - Google
-  - Nvidia
-  - Amazon
-  - OpenAI
-  - TSMC
-  - Federal Reserve
-  - Bank of Japan
-  - World Gold Council
-  - Citi
-  - Morgan Stanley
-  - Apple
-  - Intel
-  - Netflix
-  - AMD
-products_models:
-  - Azure
-  - Facebook
-  - Instagram
-  - WhatsApp
-  - YouTube
-  - Quest
+- ASML
+- BYD
+- Meta
+- Microsoft
+- Google
+- Nvidia
+- Amazon
+- OpenAI
+- TSMC
+- Federal Reserve
+- Bank of Japan
+- World Gold Council
+- Citi
+- Morgan Stanley
+- Apple
+- Intel
+- Netflix
+- AMD
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《华尔街日报》
-  - 《彭博社》
+- 《华尔街日报》
+- 《彭博社》
+people:
+- Donald Trump
+- Xi Jinping
+- Jerome Powell
+- Mark Zuckerberg
+- 高市早苗
+- 黄仁勋
+- 刘鹤
+- Joe Biden
+- 李志英
+products_models:
+- Azure
+- Facebook
+- Instagram
+- WhatsApp
+- YouTube
+- Quest
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
+source: https://www.youtube.com/watch?v=_92N3LeQf_o
+speaker: 小翠時政財經
 status: evergreen
+summary: 本次川习会美方在芬太尼关税、半导体出口管制及造船业调查上做出让步，引发对美方利益受损的担忧。同时，比亚迪财报显示经营困境。美联储降息并结束缩表，鲍威尔关注就业市场。科技巨头财报表现分化：Meta因税务和元宇宙投资巨亏，微软云服务稳健增长，谷歌广告与云计算业务强劲，共同支撑AI市场信心。文章深入分析了中美关系、企业财报与宏观经济政策对全球市场的影响。
+tags:
+- corporate
+- economy
+- market-sentiment
+- us-china-relations
+title: 川习会中美博弈：美方让步与科技巨头财报下的市场洞察
 ---
+
 ### 川习会：美方让步与中方“虚”承诺
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月30日。欢迎收看我们今天的每日要闻节目。今天我们要从川总和习总的会面开始讲起，然后我们再延伸到资本市场，讲讲昨天整个资本市场的反应。

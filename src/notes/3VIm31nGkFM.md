@@ -1,59 +1,59 @@
 ---
-author: 知行小酒馆
+area: personal-systems
+category: business
+companies_orgs:
+- 知行小酒馆
+- OpenAI
+- Nvidia
+- 亚马逊
+- 伯克希尔·哈撒韦
+- 罗斯柴尔德家族
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《芒格之道》
+- 《时间管理》
+- 《穷爸爸富爸爸》
+- 《神之水滴》
+- 《大明王朝七张炼孔》
+people:
+- 张云帆
+- 雨白
+- 查理·芒格
+- 罗伯特·帕克
+- 拿破仑三世
+- 杰夫·贝索斯
+- 沃伦·巴菲特
+- 乔治·欧仁·奥斯曼
+- 周杰伦
+- 路德维希·维特根斯坦
+- 泰戈尔
+- 路易十五
+- 路易十三
+products_models:
+- Transformer
+- 豆包
+project:
+- personal-growth-lab
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=3VIm31nGkFM
 speaker: 知行小酒馆
-tags:
-  - wealth-creation
-  - personal-assets
-  - skill-productization
-  - emotional-intelligence
-  - risk-avoidance
-title: 张云帆谈不靠运气赚钱：构建个人资产飞轮的底层逻辑
-summary: 本期节目中，张云帆与主持人雨白深入探讨了如何在不依赖运气的情况下实现财富增长。他强调了健康、能力产品化、建立信用、有效情绪管理以及识别资产与负债的重要性。通过具体案例和心理学原理，揭示了长期积累、避免陷阱、拥抱时代红利的智慧，并以拉菲红酒的故事生动阐释了知识复利和系统化思维的价值，为听众提供了超越平均水平的赚钱新视角。
-insight: ''
-draft: true
-series: ''
-category: business
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - entrepreneurship
-people:
-  - 张云帆
-  - 雨白
-  - 查理·芒格
-  - 罗伯特·帕克
-  - 拿破仑三世
-  - 杰夫·贝索斯
-  - 沃伦·巴菲特
-  - 乔治·欧仁·奥斯曼
-  - 周杰伦
-  - 路德维希·维特根斯坦
-  - 泰戈尔
-  - 路易十五
-  - 路易十三
-companies_orgs:
-  - 知行小酒馆
-  - OpenAI
-  - 英伟达
-  - 亚马逊
-  - 伯克希尔·哈撒韦
-  - 罗斯柴尔德家族
-products_models:
-  - Transformer
-  - 豆包
-media_books:
-  - 《芒格之道》
-  - 《时间管理》
-  - 《穷爸爸富爸爸》
-  - 《神之水滴》
-  - 《大明王朝七张炼孔》
 status: evergreen
+summary: 本期节目中，张云帆与主持人雨白深入探讨了如何在不依赖运气的情况下实现财富增长。他强调了健康、能力产品化、建立信用、有效情绪管理以及识别资产与负债的重要性。通过具体案例和心理学原理，揭示了长期积累、避免陷阱、拥抱时代红利的智慧，并以拉菲红酒的故事生动阐释了知识复利和系统化思维的价值，为听众提供了超越平均水平的赚钱新视角。
+tags:
+- emotional-intelligence
+- personal
+- risk
+- skill
+- wealth
+title: 张云帆谈不靠运气赚钱：构建个人资产飞轮的底层逻辑
 ---
+
 ### 引言：不靠运气赚钱的挑战与前提
 
 **雨白:** 欢迎来到知行小酒馆，这是一档有知有行出品的播客节目。我们关注投资，更关注怎样更好地生活。我是雨白，今天的嘉宾是大家非常熟悉的老朋友张云帆。如果你是小酒馆的老听众，应该记得他之前来过两次，一次我们聊芒格之道，一次我们聊时间管理。很多听友后来跟我讲，那两期节目他们都会反复收听。这次聊天机会难得，我决定给云帆老师上点难度，给他布置了一道作业，让他聊一聊如何赚钱。听起来很直接，甚至有点俗气，但我觉得这是我们播客里最不好聊的一个话题，因为它太现实，也太容易被误解。你要是讲得太实用，听起来好像一学就能发大财，那就太像在卖课了。聪明的听友肯定会想，要是真这么灵，你怎么不自己去赚呢？可是如果只聊心态、聊哲学、聊怎么看待金钱，又很容易变成好听的废话。更麻烦的是，这个话题对嘉宾的要求也特别高，他得在自己的领域走了足够远，有真实的经验，还不能靠教别人赚钱来赚钱。没想到云帆老师居然接下了这个挑战，还很认真地写了一份大纲。

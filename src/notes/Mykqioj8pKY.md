@@ -1,42 +1,42 @@
 ---
-author: TVO Today
+area: society-systems
+category: technology
+companies_orgs:
+- OpenAI
+- TVO Today
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Me and Viv
+- The Rundown
+people:
+- Alexandra Samuel
+- Jeyan
+products_models:
+- ChatGPT
+- Viv
+- Custom GPT
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Mykqioj8pKY
 speaker: TVO Today
-tags:
-  - ai-coaching
-  - ai-ethics
-  - mental-health-support
-  - creative-expression
-  - societal-impact-of-ai
-title: AI能帮助你过上美好生活吗？——一位技术作家与她的AI教练Viv的探索
-summary: 本文探讨了技术作家兼研究员Alexandra Samuel如何通过其定制AI教练Viv探索“美好生活”的定义。文章深入分析了AI教练的潜力与局限，包括其在激发创造力、促进自我表达方面的益处，以及其可能存在的“逢迎”倾向、幻觉问题，甚至在心理健康支持方面的风险。同时，也讨论了AI技术在社会层面引发的广泛议题，如环境影响、监管需求和就业替代等，呼吁在拥抱AI潜力的同时，也要负责任地应对其挑战。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Alexandra Samuel
-  - Jeyan
-companies_orgs:
-  - OpenAI
-  - TVO Today
-products_models:
-  - ChatGPT
-  - Viv
-  - Custom GPT
-media_books:
-  - Me and Viv
-  - The Rundown
 status: evergreen
+summary: 本文探讨了技术作家兼研究员Alexandra Samuel如何通过其定制AI教练Viv探索“美好生活”的定义。文章深入分析了AI教练的潜力与局限，包括其在激发创造力、促进自我表达方面的益处，以及其可能存在的“逢迎”倾向、幻觉问题，甚至在心理健康支持方面的风险。同时，也讨论了AI技术在社会层面引发的广泛议题，如环境影响、监管需求和就业替代等，呼吁在拥抱AI潜力的同时，也要负责任地应对其挑战。
+tags:
+- ai-ethics
+- canada
+- impact
+- llm
+- mental-health-support
+title: AI能帮助你过上美好生活吗？——一位技术作家与她的AI教练Viv的探索
 ---
+
 ### AI教练Viv的诞生
 
 究竟何为美好生活？人工智能（AI）又能如何助我们达成？技术作家兼研究员Alexandra Samuel一直在思考这些问题。为了寻求答案，她打造了自己的定制AI——Viv。这项实验的成败及其对她生活的启示，正是**TVO Today**（一家加拿大公共媒体机构）新播客《我与Viv》（Me and Viv）的核心内容。在此提醒观众，本节目包含关于自杀的讨论。Alex，欢迎来到我们的临时演播室。您近况如何？

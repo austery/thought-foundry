@@ -1,48 +1,47 @@
 ---
-author: 人民公園說AI
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 豆包
+- 小米
+- 腾讯
+- 阿里
+- 脉脉
+- 苹果
+- Google
+- 荣耀
+- OPPO
+- vivo
+- 华为
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 张和
+- 库克
+products_models:
+- 豆包手机助手
+- Gemini
+- 小爱同学
+- AI眼镜
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=7JEX0Uj9OFs
 speaker: 人民公園說AI
-tags:
-  - llm
-  - gui-agent
-  - os-ai
-  - privacy
-  - mobile-ai
-title: 豆包手机！GUI Agent是真革命还是开倒车？｜ 深度对话张和
-summary: 本期节目深度对话AI出海创业者张和，探讨字节跳动推出的豆包手机助手及其GUI Agent技术。嘉宾分享了其在小米推动类似项目时的经验与挑战，分析了GUI Agent在准确率、隐私、生态壁垒等方面面临的困境与机遇。讨论了OS级AI的未来发展趋势，以及苹果、谷歌等大厂的潜在布局，并从创业者视角审视了PC端GUI Agent的机遇。节目认为，尽管面临挑战，GUI Agent代表了AI与硬件交互的重要方向，未来可能重塑人机交互模式。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - 张和
-  - 库克
-companies_orgs:
-  - 豆包
-  - 小米
-  - 腾讯
-  - 阿里
-  - 脉脉
-  - 苹果
-  - 谷歌
-  - 荣耀
-  - OPPO
-  - vivo
-  - 华为
-products_models:
-  - 豆包手机助手
-  - Gemini
-  - 小爱同学
-  - AI眼镜
-media_books: []
 status: evergreen
+summary: 本期节目深度对话AI出海创业者张和，探讨字节跳动推出的豆包手机助手及其GUI Agent技术。嘉宾分享了其在小米推动类似项目时的经验与挑战，分析了GUI
+  Agent在准确率、隐私、生态壁垒等方面面临的困境与机遇。讨论了OS级AI的未来发展趋势，以及苹果、谷歌等大厂的潜在布局，并从创业者视角审视了PC端GUI Agent的机遇。节目认为，尽管面临挑战，GUI
+  Agent代表了AI与硬件交互的重要方向，未来可能重塑人机交互模式。
+tags:
+- agent
+- canada
+- llm
+title: 豆包手机！GUI Agent是真革命还是开倒车？｜ 深度对话张和
 ---
+
 ### 开场与嘉宾介绍
 哈喽哈喽，大家好啊！**人民公园说AI**又和大家见面了。今天这期特别好啊，我们和**脉脉**一起，共建一个「脉向AI」的栏目哎。众所周知，**脉脉**是1.2亿职场人的职场社区。好，今天我们正好通过**脉脉**认识了一位新的嘉宾，新的朋友**张和**老师。哎，一会我们好好的欢迎一下**张老师**。首先允许我啊，简单介绍一下**张老师**。现在是**AI出海创业项目**的创始人，然后同时呢，**张和老师**以前是在**小米**工作的，曾经是**小米OS**的AI产品专家，而同时也是**小米汽车**的前20名的核心骨干。我们欢迎一下，让**张老师**给我们做一些简单介绍。
 

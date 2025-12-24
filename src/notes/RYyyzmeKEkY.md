@@ -1,46 +1,44 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-04-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《圣经创世记》
+- 《圣经真言》
+people:
+- Peter Singer
+- Jeremy Bentham
+- Aristotle
+- Thomas Aquinas
+- René Descartes
+- Voltaire
+- Immanuel Kant
+- John Searle
+products_models:
+- 人造肉
+project:
+- systems-thinking
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=RYyyzmeKEkY
 speaker: 大问题Dialectic
-tags:
-  - animal-rights
-  - utilitarianism
-  - deontology
-  - animal-ethics
-  - moral-philosophy
-  - human-animal-relationship
-  - cultivated-meat
-title: 哲学家圆桌：吃肉在道德上是否错误？一场跨越时空的伦理思辨
-summary: 本期节目汇集七位哲学家，探讨动物是否有免于被人类伤害的权利。讨论围绕功利主义的动物福利观、亚里士多德的灵魂等级论、阿奎那的神意、笛卡尔的动物机器论、伏尔泰的反驳以及康德的间接责任展开。文章深入分析了不同哲学流派对动物道德地位的看法，并探讨了在现代社会背景下，如何平衡人类需求与动物权利保护的复杂议题。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - cultural-critique
-people:
-  - Peter Singer
-  - Jeremy Bentham
-  - Aristotle
-  - Thomas Aquinas
-  - René Descartes
-  - Voltaire
-  - Immanuel Kant
-  - John Searle
-companies_orgs: []
-products_models:
-  - 人造肉
-media_books:
-  - 《圣经创世记》
-  - 《圣经真言》
 status: evergreen
+summary: 本期节目汇集七位哲学家，探讨动物是否有免于被人类伤害的权利。讨论围绕功利主义的动物福利观、亚里士多德的灵魂等级论、阿奎那的神意、笛卡尔的动物机器论、伏尔泰的反驳以及康德的间接责任展开。文章深入分析了不同哲学流派对动物道德地位的看法，并探讨了在现代社会背景下，如何平衡人类需求与动物权利保护的复杂议题。
+tags:
+- cultivated-meat
+- ethics
+- human
+- philosophy
+- right
+title: 哲学家圆桌：吃肉在道德上是否错误？一场跨越时空的伦理思辨
 ---
+
 ### 动物是否有免于被人类伤害的权利？
 
 本期“大问题”节目将深入探讨一个核心伦理议题：动物是否有免于被人类伤害的权利？为此，我们通过时空连线的方式，邀请了七位不同时代的哲学家共同参与讨论。

@@ -1,91 +1,91 @@
 ---
-author: Veritasium
-date: '2023-07-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Xzv84ZdtlE0
-speaker: Veritasium
-tags:
-  - veritasium
-  - atomic-bomb
-  - nuclear-weapons
-  - manhattan-project
-  - scientific-ethics
-  - arms-race
-title: 奥本海默：原子弹之父与世界的毁灭者
-summary: J. Robert Oppenheimer，一位未获诺贝尔奖却改变世界的物理学家，领导了曼哈顿计划，研制出原子弹，永远改变了历史进程。本文将探讨原子弹的科学原理、奥本海默的生平、他早期在剑桥和哥廷根的经历，以及科学家们对原子弹可能点燃大气层、毁灭地球的担忧。文章也深入分析了原子弹的研发过程、其对二战后世界格局的影响，以及奥本海默在核武器伦理和军备竞赛问题上的立场，揭示了科学发现的巨大力量及其带来的深刻伦理困境。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - historical-insights
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - J. Robert Oppenheimer
-  - Patrick Blackett
-  - JJ Thompson
-  - Rutherford
-  - Chadwick
-  - Max Born
-  - Werner Heisenberg
-  - Wolfgang Pauli
-  - Enrico Fermi
-  - Eugene Wigner
-  - Paul Dirac
-  - John Von Neumann
-  - Frank Oppenheimer
-  - Henri Becquerel
-  - Marie Curie
-  - Pierre Curie
-  - Ernest Rutherford
-  - Albert Einstein
-  - John Cockcroft
-  - Ernest Walton
-  - Leo Szilard
-  - Louise Alvarez
-  - Otto Hahn
-  - Fritz Strassmann
-  - Franklin Roosevelt
-  - Willis Lamb
-  - Murray Gell-Mann
-  - Isidor Rabi
-  - General Leslie Groves
-  - Catherine Oppenheimer
-  - Arthur Compton
-  - Truman
-  - Churchill
-  - Stalin
-  - Gene Tatlock
-  - Heinar Kipphardt
-  - Thomas Midgley
+category: geopolitics
 companies_orgs:
-  - Cambridge University
-  - University of Göttingen
-  - Nazi Germany
-  - US military
-  - UC Berkeley
-  - Caltech
-  - Institute of Advanced Study at Princeton
-  - General Advisory Committee
-  - Soviet Union
-  - Wren
-products_models:
-  - Atomic bomb
-  - Hydrogen bomb
-  - Little Boy
-  - Ivy Mike
-  - Tsar Bomba
-  - Freon
+- Cambridge University
+- University of Göttingen
+- Nazi Germany
+- US military
+- UC Berkeley
+- Caltech
+- Institute of Advanced Study at Princeton
+- General Advisory Committee
+- Soviet Union
+- Wren
+date: '2023-07-18'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The San Francisco Chronicle
-  - Bhagavad Gita
-  - Time Magazine
-  - Oppenheimer
+- The San Francisco Chronicle
+- Bhagavad Gita
+- Time Magazine
+- Oppenheimer
+people:
+- J. Robert Oppenheimer
+- Patrick Blackett
+- JJ Thompson
+- Rutherford
+- Chadwick
+- Max Born
+- Werner Heisenberg
+- Wolfgang Pauli
+- Enrico Fermi
+- Eugene Wigner
+- Paul Dirac
+- John Von Neumann
+- Frank Oppenheimer
+- Henri Becquerel
+- Marie Curie
+- Pierre Curie
+- Ernest Rutherford
+- Albert Einstein
+- John Cockcroft
+- Ernest Walton
+- Leo Szilard
+- Louise Alvarez
+- Otto Hahn
+- Fritz Strassmann
+- Franklin Roosevelt
+- Willis Lamb
+- Murray Gell-Mann
+- Isidor Rabi
+- General Leslie Groves
+- Catherine Oppenheimer
+- Arthur Compton
+- Truman
+- Churchill
+- Stalin
+- Gene Tatlock
+- Heinar Kipphardt
+- Thomas Midgley
+products_models:
+- Atomic bomb
+- Hydrogen bomb
+- Little Boy
+- Ivy Mike
+- Tsar Bomba
+- Freon
+project:
+- historical-insights
+- geopolitics-watch
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=Xzv84ZdtlE0
+speaker: veritasium
 status: evergreen
+summary: J. Robert Oppenheimer，一位未获诺贝尔奖却改变世界的物理学家，领导了曼哈顿计划，研制出原子弹，永远改变了历史进程。本文将探讨原子弹的科学原理、奥本海默的生平、他早期在剑桥和哥廷根的经历，以及科学家们对原子弹可能点燃大气层、毁灭地球的担忧。文章也深入分析了原子弹的研发过程、其对二战后世界格局的影响，以及奥本海默在核武器伦理和军备竞赛问题上的立场，揭示了科学发现的巨大力量及其带来的深刻伦理困境。
+tags:
+- atomic-bomb
+- canada
+- ethics
+- nuclear
+title: 奥本海默：原子弹之父与世界的毁灭者
+companies:
+- arms-race
 ---
+
 ### 奥本海默：改变世界的物理学家
 
 J. Robert Oppenheimer（J. 罗伯特·奥本海默）或许是有史以来最重要的物理学家。

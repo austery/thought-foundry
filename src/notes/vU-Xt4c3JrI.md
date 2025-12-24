@@ -1,40 +1,39 @@
 ---
-author: 徒步的騎手
-date: 2025-07-23
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=vU-Xt4c3JrI'
-speaker: 徒步的騎手
-tags:
-  - food-safety
-  - water-pollution
-  - collective-vanity
-  - slave-morality
-  - cognitive-bias
-title: 中国饮水与食品污染的根源：集体虚荣心与世代轮回的心理分析
-summary: 本期节目深入探讨中国饮水和食品污染的深层根源，指出这些问题不仅导致身体疾病，更引发普遍的集体焦虑。文章分析了中国人面对此类问题时，因过度虚荣心和“奴隶道德”而产生的“死要面子活受罪”心理，以及这种病态集体心理如何阻碍社会进步。通过引用马斯洛需求层次理论、尼采的哲学思想，并回顾新文化运动等历史经验，节目呼吁个体打破虚荣，回归事实，以期走出世代轮回的困境。
-insight: ''
-draft: true
-series: ''
-category: psychology
 area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - 马斯洛
-  - 尼采
-  - 冯友兰
-  - 胡锡进
-  - 金灿荣
-  - 张维为
+category: psychology
 companies_orgs:
-  - 哥伦比亚大学
-  - 福布斯杂志
-products_models: '[]'
+- 哥伦比亚大学
+- 福布斯杂志
+date: 2025-07-23
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- 马斯洛
+- 尼采
+- 冯友兰
+- 胡锡进
+- 金灿荣
+- 张维为
+products_models: '[]'
+project:
+- china-analysis
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=vU-Xt4c3JrI
+speaker: 徒步的騎手
 status: evergreen
+summary: 本期节目深入探讨中国饮水和食品污染的深层根源，指出这些问题不仅导致身体疾病，更引发普遍的集体焦虑。文章分析了中国人面对此类问题时，因过度虚荣心和“奴隶道德”而产生的“死要面子活受罪”心理，以及这种病态集体心理如何阻碍社会进步。通过引用马斯洛需求层次理论、尼采的哲学思想，并回顾新文化运动等历史经验，节目呼吁个体打破虚荣，回归事实，以期走出世代轮回的困境。
+tags:
+- cognitive-bias
+- collective-vanity
+- environment
+- food-safety
+- philosophy
+title: 中国饮水与食品污染的根源：集体虚荣心与世代轮回的心理分析
 ---
 
 ### 中国饮水与食品安全现状及官方回应

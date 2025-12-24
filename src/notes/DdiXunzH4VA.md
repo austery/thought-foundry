@@ -1,29 +1,27 @@
 ---
-title: 从不爱读书到阅读上瘾：我的功利性阅读三步法则
-summary: 主持人Ray分享他如何从不爱读书到成为阅读爱好者的个人经历，揭示了“功利性阅读”的三步上瘾法则，并强调读书应以解决实际问题为导向，而非盲目追求数量或书单。
 area: null
 category: null
-project: []
-tags:
-  - audiobooks
-  - personal-development
-  - personal-growth
-  - reading-habits
-  - utilitarian-reading
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-10-09'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- audiobook
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DdiXunzH4VA
+speaker: 一口新飯
 status: evergreen
+summary: 主持人Ray分享他如何从不爱读书到成为阅读爱好者的个人经历，揭示了“功利性阅读”的三步上瘾法则，并强调读书应以解决实际问题为导向，而非盲目追求数量或书单。
+tags:
+- life
+- personal-development
+- personal-growth
+- reading-habit
+title: 从不爱读书到阅读上瘾：我的功利性阅读三步法则
 ---
 
 ### 从阅读困难到阅读上瘾：我的转变之路

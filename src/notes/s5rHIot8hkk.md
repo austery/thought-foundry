@@ -1,56 +1,55 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- Disney
+- Pixar
+- Marvel
+- 21st Century Fox
+- ABC
 date: '2024-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nicola Tangan
+- Bob Iger
+- Walt Disney
+- Paul McCartney
+- Steven Spielberg
+- Steve Jobs
+- Brothers Grimm
+- H. Christian Anderson
+products_models:
+- Disney+
+- Snow White
+- Mickey Mouse
+- Inside Out Too
+- Shogun
+- Deadpool and Wolverine
+- Up
+- Coco
+- Finding Nemo
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=s5rHIot8hkk
 speaker: Norges Bank Investment Management
-tags:
-  - corporate-culture
-  - creative-leadership
-  - brand-longevity
-  - storytelling-power
-  - technological-adaptation
-title: 迪士尼CEO鲍勃·艾格：百年品牌传承、创意领导力与未来展望
-summary: 迪士尼首席执行官鲍勃·艾格在播客中分享了迪士尼百年成功的秘诀，强调了故事讲述、核心价值观、拥抱技术以及多代人共享体验的重要性。他深入探讨了卓越领导者的特质，包括平衡传统与创新、培养创造力、保持乐观和耐心。艾格还阐述了人工智能对创意产业的潜在影响，并分享了他在重返迪士尼后如何重塑公司文化和战略的经验。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Nicola Tangan
-  - Bob Iger
-  - Walt Disney
-  - Paul McCartney
-  - Steven Spielberg
-  - Steve Jobs
-  - Brothers Grimm
-  - H. Christian Anderson
-companies_orgs:
-  - Norges Bank Investment Management
-  - Disney
-  - Pixar
-  - Marvel
-  - 21st Century Fox
-  - ABC
-products_models:
-  - Disney+
-  - Snow White
-  - Mickey Mouse
-  - Inside Out Too
-  - Shogun
-  - Deadpool and Wolverine
-  - Up
-  - Coco
-  - Finding Nemo
-media_books: []
 status: evergreen
+summary: 迪士尼首席执行官鲍勃·艾格在播客中分享了迪士尼百年成功的秘诀，强调了故事讲述、核心价值观、拥抱技术以及多代人共享体验的重要性。他深入探讨了卓越领导者的特质，包括平衡传统与创新、培养创造力、保持乐观和耐心。艾格还阐述了人工智能对创意产业的潜在影响，并分享了他在重返迪士尼后如何重塑公司文化和战略的经验。
+tags:
+- corporate-culture
+- creative-leadership
+- investment
+- power
+- technological
+title: 迪士尼CEO鲍勃·艾格：百年品牌传承、创意领导力与未来展望
 ---
+
 ### 迪士尼的魔力与百年传承
 
 **Nicola Tangan:** 大家好，我是**挪威银行投资管理公司**（Norges Bank Investment Management: 挪威主权财富基金的管理机构）的首席执行官尼古拉·坦根。今天，我们将深入探讨迪士尼这个神奇的世界，我们很荣幸能持有该公司超过1%的股份。我身边这位是鲍勃·艾格，这位富有远见的领导者将迪士尼转型为全球娱乐巨头，主导了**皮克斯**（Pixar: 著名动画工作室）、**漫威**（Marvel: 知名漫画与电影公司）和**21世纪福克斯**（21st Century Fox: 曾是美国主要媒体公司，后大部分资产被迪士尼收购）等大胆的收购。鲍勃，热烈欢迎！

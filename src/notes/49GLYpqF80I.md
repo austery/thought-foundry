@@ -1,41 +1,41 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 美国国务院
+- 日本法务省
+- 美国社会学会
 date: '2024-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《Illicit Flirtations》
+- 《第二轮班》
+people:
+- Rhacel Parreñas
+- 千山勋
+- 阿li
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=49GLYpqF80I
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - migrant-sex-workers
-  - human-trafficking-critique
-  - japan-sex-industry
-  - us-foreign-policy
-  - academic-integrity
-title: 斩断翅膀的救赎：菲律宾女公关的东京梦华录
-summary: 本集深入探讨普林斯顿大学社会学者Rhacel Parreñas对东京菲律宾女公关的研究。她挑战美国政府关于日本存在大规模人口贩运的指控，揭示了这些女性在贫困背景下，如何自主选择进入日本性产业，以及她们在其中面临的复杂劳动条件和制度化困境。文章还批判了美国国务院人口贩运报告的粗糙性，并触及学术界剽窃的争议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Rhacel Parreñas
-  - 千山勋
-  - 阿li
-companies_orgs:
-  - 美国国务院
-  - 日本法务省
-  - 美国社会学会
-products_models: []
-media_books:
-  - 《Illicit Flirtations》
-  - 《第二轮班》
 status: evergreen
+summary: 本集深入探讨普林斯顿大学社会学者Rhacel Parreñas对东京菲律宾女公关的研究。她挑战美国政府关于日本存在大规模人口贩运的指控，揭示了这些女性在贫困背景下，如何自主选择进入日本性产业，以及她们在其中面临的复杂劳动条件和制度化困境。文章还批判了美国国务院人口贩运报告的粗糙性，并触及学术界剽窃的争议。
+tags:
+- academic-integrity
+- human
+- industry
+- society
+- us-foreign-policy
+title: 斩断翅膀的救赎：菲律宾女公关的东京梦华录
 ---
+
 ### 东京性产业的灰色地带
 
 本集内容涉及敏感话题。东京，作为日本性产业最大的集散地之一，从都市到边陲，提供性服务的种类相当繁杂。从陪酒、调情、打手枪、性器官摩擦到口交，只要发生在政府核准的性风俗营业场所，都是合法的。日本法律禁止异性之间的阴道性交易，但神户大学的社会学者千山勋告诉我们，两道主管法令——**卖春防止法**（Baishun Bōshi Hō: 日本禁止卖淫的法律）和**风俗营业法**（Fūzoku Eigyō Hō: 日本规范性风俗场所经营的法律）之间，始终存在着让阴道性交易准合法化的灰色地带。

@@ -1,46 +1,46 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Globe and Mail
+- Assembly of First Nations
+- Liberal Party
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- TVO Today
+people:
+- Mark Carney
+- Danielle Smith
+- Justin Trudeau
+- Rachel Notley
+- Doug Ford
+- Chrystia Freeland
+- Stephanie Levitz
+- Tim Hodgson
+products_models:
+- Building Canada Act
+project:
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=U9UivxnMmD0
 speaker: TVO Today
-tags:
-  - pipeline-deal
-  - intergovernmental-relations
-  - indigenous-consultation
-  - climate-policy
-  - canadian-politics
-title: 卡尼的输油管道协议：政治胜利还是争议焦点？
-summary: 加拿大总理马克·卡尼与阿尔伯塔省省长丹妮尔·史密斯近期签署了一项能源协议，核心内容包括一条通往不列颠哥伦比亚省海岸的新沥青输油管道，以及更严格的工业碳定价和全球最大的碳捕获与储存项目。然而，该协议面临来自不列颠哥伦比亚省、原住民部落和环保主义者的质疑与批评。本文深入探讨了该协议的政治背景、与原住民协商的复杂性，以及自由党党团内部因此产生的紧张关系，并指出该项目在实际建设上面临的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Danielle Smith
-  - Justin Trudeau
-  - Rachel Notley
-  - Doug Ford
-  - Chrystia Freeland
-  - Stephanie Levitz
-  - Tim Hodgson
-companies_orgs:
-  - Globe and Mail
-  - Assembly of First Nations
-  - Liberal Party
-products_models:
-  - Building Canada Act
-media_books:
-  - The Rundown
-  - TVO Today
 status: evergreen
+summary: 加拿大总理马克·卡尼与阿尔伯塔省省长丹妮尔·史密斯近期签署了一项能源协议，核心内容包括一条通往不列颠哥伦比亚省海岸的新沥青输油管道，以及更严格的工业碳定价和全球最大的碳捕获与储存项目。然而，该协议面临来自不列颠哥伦比亚省、原住民部落和环保主义者的质疑与批评。本文深入探讨了该协议的政治背景、与原住民协商的复杂性，以及自由党党团内部因此产生的紧张关系，并指出该项目在实际建设上面临的挑战。
+tags:
+- canadian-politics
+- geopolitical
+- pipeline-deal
+- policy
+- relations
+title: 卡尼的输油管道协议：政治胜利还是争议焦点？
 ---
+
 ### 卡尼政府的能源协议及其争议
 
 加拿大总理马克·卡尼和阿尔伯塔省省长丹妮尔·史密斯上月末签署了一项新的能源协议，双方笑容满面。

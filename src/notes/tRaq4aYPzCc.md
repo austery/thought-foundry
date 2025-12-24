@@ -1,42 +1,41 @@
 ---
-author: Veritasium
-date: '2023-06-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=tRaq4aYPzCc
-speaker: Veritasium
-tags:
-  - veritasium
-  - p-adic-numbers
-  - number-theory
-  - modular-arithmetic
-  - fermat-last-theorem
-  - mathematical-systems
-title: 如果一直平方下去会怎样？探索p进数与数学的隐藏维度
-summary: 本文深入探讨了p进数这一奇特的数系，它拥有无限向左延伸的数字，并颠覆了我们对“大小”的传统认知。文章通过具体例子解释了p进数的加减乘除、分数和负数表示，以及它们在解决费马大定理等数论难题中的关键作用，揭示了数学中一个不为人知的强大工具。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Pierre de Fermat
-  - Diophantus
-  - Kurt Hensel
-  - Andrew Wiles
-  - Richard Taylor
-  - Kazuya Kato
+category: science
 companies_orgs:
-  - Brilliant.org
-products_models:
-  - Thinking in Code
+- Brilliant.org
+date: '2023-06-06'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Arithmetica
+- Arithmetica
+people:
+- Pierre de Fermat
+- Diophantus
+- Kurt Hensel
+- Andrew Wiles
+- Richard Taylor
+- Kazuya Kato
+products_models:
+- Thinking in Code
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=tRaq4aYPzCc
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了p进数这一奇特的数系，它拥有无限向左延伸的数字，并颠覆了我们对“大小”的传统认知。文章通过具体例子解释了p进数的加减乘除、分数和负数表示，以及它们在解决费马大定理等数论难题中的关键作用，揭示了数学中一个不为人知的强大工具。
+tags:
+- p-adic-number
+- science
+- system
+- technology
+- theory
+title: 如果一直平方下去会怎样？探索p进数与数学的隐藏维度
 ---
+
 ### 奇特的平方模式与无限数字
 
 Derek: 取数字5并将其平方，得到25。现在取25并将其平方，得到625。再平方625，你将得到390,625。你看到其中的模式了吗？

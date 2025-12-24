@@ -1,57 +1,58 @@
 ---
-author: TechButMakeItReal
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Mistral AI
+- OpenAI
+- AWS
+- Microsoft
+- Meta
+- Google
+- Orano
+- STMicroelectronics
+- JellySmack
+- Pay Fit
+- Back Market
+- Open Classrooms
+- Hugging Face
+- Poolside
+- Dr. Lib
+- KTO
+- Data IU
+- Content Square
+- Ledger
+- Pascal
+- Alice & Bob
+- Rosatom
 date: '2025-06-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- layoffs.fyi
+people:
+- Emmanuel Macron
+products_models: []
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=oyiglOaFA6w
 speaker: TechButMakeItReal
-tags:
-  - french-ai-strategy
-  - nuclear-energy-advantage
-  - geopolitical-risk
-  - labor-laws-impact
-  - france-2030
-title: 法国科技2025：AI竞赛中的秘密武器
-summary: 本文深入探讨了法国如何在2025年成为欧洲人工智能领域的核心力量。尽管面临官僚主义和严格劳动法的挑战，法国凭借其核能优势、政府的战略支持以及“法国2030”计划，成功吸引了大量投资并催生了Mistral AI等创新企业。文章还分析了法国能源战略的殖民历史根源及其面临的全球地缘政治风险，并比较了法国与德国、荷兰在科技生态系统和劳工政策上的差异，为科技专业人士提供了全面的洞察。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Emmanuel Macron
-companies_orgs:
-  - Mistral AI
-  - OpenAI
-  - AWS
-  - Microsoft
-  - Meta
-  - Google
-  - Orano
-  - STMicroelectronics
-  - JellySmack
-  - Pay Fit
-  - Back Market
-  - Open Classrooms
-  - Hugging Face
-  - Poolside
-  - Dr. Lib
-  - KTO
-  - Data IU
-  - Content Square
-  - Ledger
-  - Pascal
-  - Alice & Bob
-  - Rosatom
-products_models: []
-media_books:
-  - layoffs.fyi
 status: evergreen
+summary: 本文深入探讨了法国如何在2025年成为欧洲人工智能领域的核心力量。尽管面临官僚主义和严格劳动法的挑战，法国凭借其核能优势、政府的战略支持以及“法国2030”计划，成功吸引了大量投资并催生了Mistral
+  AI等创新企业。文章还分析了法国能源战略的殖民历史根源及其面临的全球地缘政治风险，并比较了法国与德国、荷兰在科技生态系统和劳工政策上的差异，为科技专业人士提供了全面的洞察。
+tags:
+- energy
+- france-2030
+- french-ai-strategy
+- geopolitical-risk
+- impact
+title: 法国科技2025：AI竞赛中的秘密武器
 ---
+
 ### 法国在AI竞赛中异军突起
 
 你是否曾好奇，为何法国在欧洲科技领域一直默默无闻？

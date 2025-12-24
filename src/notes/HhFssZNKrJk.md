@@ -1,46 +1,46 @@
 ---
-author: TVO Today
+area: society-systems
+category: general
+companies_orgs:
+- TVO Today
+- Globe and Mail
+- Ottawa Public Health
+- CNN
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- Unravel
+people:
+- Nathan Vanderklippe
+- Dr. Dawn Bowdish
+- Dr. Trevor Arnason
+- Donald Trump
+- Sangeeta Patel
+- Jeyan Jeganathan
+products_models:
+- Advil
+project:
+- systems-thinking
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=HhFssZNKrJk
 speaker: TVO Today
-tags:
-  - measles-outbreak
-  - vaccine-hesitancy
-  - public-health-systems
-  - misinformation
-  - herd-immunity
-title: 麻疹卷土重来：加拿大公共卫生系统与公众信任面临的挑战
-summary: 加拿大曾是全球首批消除麻疹的国家之一，但在27年后，麻疹疫情再次爆发，导致其失去了“无麻疹”地位。本文探讨了疫情爆发的原因，包括疫苗接种率下降、公众对疫苗的犹豫、信息误导以及公共卫生基础设施的薄弱。专家指出，麻疹的高度传染性意味着疫苗接种是唯一的出路，并强调了重建公众信任、设立全国疫苗登记系统以及解决家庭医生短缺问题的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Nathan Vanderklippe
-  - Dr. Dawn Bowdish
-  - Dr. Trevor Arnason
-  - Donald Trump
-  - Sangeeta Patel
-  - Jeyan Jeganathan
-companies_orgs:
-  - TVO Today
-  - Globe and Mail
-  - Ottawa Public Health
-  - CNN
-products_models:
-  - Advil
-media_books:
-  - The Rundown
-  - Unravel
 status: evergreen
+summary: 加拿大曾是全球首批消除麻疹的国家之一，但在27年后，麻疹疫情再次爆发，导致其失去了“无麻疹”地位。本文探讨了疫情爆发的原因，包括疫苗接种率下降、公众对疫苗的犹豫、信息误导以及公共卫生基础设施的薄弱。专家指出，麻疹的高度传染性意味着疫苗接种是唯一的出路，并强调了重建公众信任、设立全国疫苗登记系统以及解决家庭医生短缺问题的重要性。
+tags:
+- health
+- herd-immunity
+- measles-outbreak
+- misinformation
+- public-health-system
+title: 麻疹卷土重来：加拿大公共卫生系统与公众信任面临的挑战
 ---
+
 ### 加拿大麻疹“消除状态”的丧失
 
 主持人: 1998年，加拿大庆祝了一个重要的里程碑：我们成为世界上首批**消除麻疹**（Measles: 一种由麻疹病毒引起的急性呼吸道传染病）的国家之一。

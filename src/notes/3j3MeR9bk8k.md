@@ -1,67 +1,67 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Federal Reserve
+- Wall Street
+- Institute for Supply Management
+- Automatic Data Processing
+- European Central Bank
+- Bank of Japan
+- S&P Global
+- National Bureau of Statistics of China
+- UBS Group
+- Goldman Sachs
+- 山东程序化铅纯网有限公司
+- 山东宾州市圆镜化铅网纯有限公司
+- 山东宾州市检验检测中心
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 《彭博社》
+- 《路透社》
+- 《香港01》
+- 《南华早报》
+- 《法国国际广播电台》
+- 《经济学人》
+people:
+- Donald Trump
+- Benjamin Netanyahu
+- Isaac Herzog
+- Vitkov
+- Jared Kushner
+- Umenov
+- Marco Rubio
+- Sanae Takaichi
+- Chris Tang
+- Vladimir Putin
+- Nicolás Maduro
+- Xi Jinping
+products_models:
+- 28点计划
+- 三道红线
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=3j3MeR9bk8k
 speaker: LT視界
-tags:
-  - global-macroeconomics
-  - us-monetary-policy
-  - china-real-estate
-  - geopolitical-conflicts
-  - political-stability
-title: 全球经济与地缘政治动态：从美国数据、乌克兰谈判到中国房市困境
-summary: 本期节目深入分析了当前全球多个关键领域的动态。经济方面，关注美国宏观数据发布延迟、欧元区通胀预期以及日本央行政策走向，并探讨中国制造业的持续萎缩和房地产市场的加速恶化。地缘政治方面，聚焦美乌和平谈判的复杂性、内塔尼亚胡寻求赦免的法律争议、中俄在委内瑞拉危机中的立场，以及香港火灾事件如何演变为政治风波，揭示中共维稳模式在港面临的挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Benjamin Netanyahu
-  - Isaac Herzog
-  - Vitkov
-  - Jared Kushner
-  - Umenov
-  - Marco Rubio
-  - Sanae Takaichi
-  - Chris Tang
-  - Vladimir Putin
-  - Nicolás Maduro
-  - 习近平
-companies_orgs:
-  - Federal Reserve
-  - Wall Street
-  - Institute for Supply Management
-  - Automatic Data Processing
-  - European Central Bank
-  - Bank of Japan
-  - S&P Global
-  - National Bureau of Statistics of China
-  - UBS Group
-  - Goldman Sachs
-  - 山东程序化铅纯网有限公司
-  - 山东宾州市圆镜化铅网纯有限公司
-  - 山东宾州市检验检测中心
-products_models:
-  - 28点计划
-  - 三道红线
-media_books:
-  - 《华尔街日报》
-  - 《彭博社》
-  - 《路透社》
-  - 《香港01》
-  - 《南华早报》
-  - 《法国国际广播电台》
-  - 《经济学人》
 status: evergreen
+summary: 本期节目深入分析了当前全球多个关键领域的动态。经济方面，关注美国宏观数据发布延迟、欧元区通胀预期以及日本央行政策走向，并探讨中国制造业的持续萎缩和房地产市场的加速恶化。地缘政治方面，聚焦美乌和平谈判的复杂性、内塔尼亚胡寻求赦免的法律争议、中俄在委内瑞拉危机中的立场，以及香港火灾事件如何演变为政治风波，揭示中共维稳模式在港面临的挑战。
+tags:
+- china
+- geopolitical-conflict
+- global
+- political
+- us-monetary-policy
+title: 全球经济与地缘政治动态：从美国数据、乌克兰谈判到中国房市困境
 ---
+
 ### 全球经济数据与市场展望
 
 大家好，今天我们一起来分享不能错过的重大新闻。今天是11月30日，在新的一周开始之际，我们一起来了解一下未来一周最值得大家关注的五个重大经济事件。

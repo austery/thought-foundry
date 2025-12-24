@@ -1,41 +1,40 @@
 ---
-author: Shijun Tang
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Lululemon
+- Uber
+- FBI
 date: '2024-09-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《聪明的投资者》
+people:
+- 唐石峻
+- 巴菲特
+- 查理·芒格
+- 本杰明·格雷厄姆
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=yiHyZ7uqy3Q
 speaker: Shijun Tang
-tags:
-  - leverage-risk
-  - value-investing
-  - capital-allocation
-  - moat-analysis
-  - inflation-hedging
-title: 靠投资积累财富，不要加杠杆：从交易幻觉到价值投资的清醒认知
-summary: 作者通过自身800多次30倍杠杆交易的惨痛经历，揭示金融市场的残酷真相：交易不是致富捷径，真正的财富来自长期持有优质公司的股票、理解资本配置与护城河，并警惕法币、黄金和比特币的局限性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - investment-strategy
-  - historical-insights
-people:
-  - 唐石峻
-  - 巴菲特
-  - 查理·芒格
-  - 本杰明·格雷厄姆
-companies_orgs:
-  - Lululemon
-  - Uber
-  - FBI
-products_models: []
-media_books:
-  - 《聪明的投资者》
 status: evergreen
+summary: 作者通过自身800多次30倍杠杆交易的惨痛经历，揭示金融市场的残酷真相：交易不是致富捷径，真正的财富来自长期持有优质公司的股票、理解资本配置与护城河，并警惕法币、黄金和比特币的局限性。
+tags:
+- capital-allocation
+- inflation-hedging
+- leverage-risk
+- moat-analysis
+title: 靠投资积累财富，不要加杠杆：从交易幻觉到价值投资的清醒认知
 ---
+
 ### 交易不是致富捷径：杠杆的幻觉与现实
 
 如果你想在金融市场中积累财富，千万不要加杠杆。我最早接触到“杠杆”这个概念时，被它深深吸引——用很少的钱博取巨大的利润，这种诱惑对我而言极其强烈。我学习了期权交易、期货交易和CFD差价合约交易后，一度以为自己掌握了通向成功的金钥匙，开始幻想功成名就的场景。

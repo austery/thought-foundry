@@ -1,32 +1,28 @@
 ---
-title: 基因编辑的“GPT时刻”：丛乐教授谈CRISPR技术与AI的未来
-summary: 斯坦福大学丛乐教授深入探讨CRISPR-Cas9基因编辑技术的里程碑式突破，包括其在医学、农业、环境等领域的广泛应用。同时，他展望了AI（如CRISPR-GPT）如何加速生命科学的创新与发展，以及基因编辑面临的伦理挑战。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- '101'
-- ai
-- biotechnology
-- crispr
-- gene-editing
-- life-science
-people: []
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-01'
-author: 硅谷101播客
-speaker: 硅谷101播客
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=jbF0SbbxExU
+speaker: 硅谷101播客
 status: evergreen
+summary: 斯坦福大学丛乐教授深入探讨CRISPR-Cas9基因编辑技术的里程碑式突破，包括其在医学、农业、环境等领域的广泛应用。同时，他展望了AI（如CRISPR-GPT）如何加速生命科学的创新与发展，以及基因编辑面临的伦理挑战。
+tags:
+- '101'
+- health
+- life
+- technology
+title: 基因编辑的“GPT时刻”：丛乐教授谈CRISPR技术与AI的未来
 ---
+
 ### 节目开场与基因编辑的时代意义
 
 泓君: 大家好，欢迎收听《硅谷101》。我是泓君。我们每年10月份都会在硅谷举办一年一度的《硅谷101》科技峰会。今年，我们新增加了全球创业企业挑战赛环节，旨在寻找AI时代的下一个独角兽。我们将从所有报名企业中挑选出六家公司，现场向美国顶级的投资机构路演，冠军团队有机会现场拿到融资。如果你正在全职创业，欢迎通过我们的Show Notes查找活动详细信息和报名链接。关于峰会的详细信息，我们也会在接下来的一周公布，大家可以关注我们的播客、视频或公众号。接下来，我们正式开始今天的节目。这集我再次尝试突破自己的能力范围，我们将深入聊一聊**基因编辑**（Gene Editing: 通过技术手段对生物体基因组进行修改，实现基因的增添、删除、替换或修饰）以及AI在基因编辑领域的应用。

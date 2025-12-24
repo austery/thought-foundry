@@ -1,68 +1,68 @@
 ---
-author: 硅谷101播客
+area: market-analysis
+category: business
+companies_orgs:
+- 寿司郎
+- 滨寿司
+- Food&Life
+- 泉膳控股
+- 萨莉亚
+- 国信证券
+- 启承资本
+- 海底捞
+- 绿茶餐厅
+- 遇见小面
+- 藏寿司
+- 优衣库
+- Nitori
+- 大创
+- 无印良品
+- 丸龟制面
+- 花丸乌冬
+- Venture Link
+- Tully's
+- 圣马可
+- 牛角烤肉
+- Colowide
+- 吉野家
+- 龟甲万
+- 肉肉大米
+- 伊豆野菜村
+- 杨国福
+- 七宝麻辣烫
+- 蜜雪冰城
+- 霸王茶姬
+- 喜茶
+- 奈雪的茶
+- 兴隆记
+- M Stand
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 硅谷101播客
+people:
+- 东子
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xhmNjgDdHRM
 speaker: 硅谷101播客
-tags:
-  - cost-reduction-efficiency
-  - lost-thirty-years
-  - restaurant-operations
-  - performative-experience
-  - supply-chain-optimization
-title: 日本“失去的30年”：如何锻造出中国的餐饮“排队王”？
-summary: 来自日本的寿司郎、滨寿司等餐饮品牌，在中国市场逆势成为“排队王”。本文深入探讨了这些品牌如何在日本“失去的30年”这一通缩与存量竞争的环境中，通过极致的降本增效和技术创新，锻造出强大的运营效率。文章分析了回转寿司行业如何利用科技降低损耗，并探讨了萨莉亚的垂直供应链模式。同时，嘉宾“东子”提出了“表演式烟火气”的概念，揭示了在高度标准化下维持顾客体验的秘诀，并对比了中日餐饮市场的差异与出海策略。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 东子
-companies_orgs:
-  - 寿司郎
-  - 滨寿司
-  - Food&Life
-  - 泉膳控股
-  - 萨莉亚
-  - 国信证券
-  - 启承资本
-  - 海底捞
-  - 绿茶餐厅
-  - 遇见小面
-  - 藏寿司
-  - 优衣库
-  - Nitori
-  - 大创
-  - 无印良品
-  - 丸龟制面
-  - 花丸乌冬
-  - Venture Link
-  - Tully's
-  - 圣马可
-  - 牛角烤肉
-  - Colowide
-  - 吉野家
-  - 龟甲万
-  - 肉肉大米
-  - 伊豆野菜村
-  - 杨国福
-  - 七宝麻辣烫
-  - 蜜雪冰城
-  - 霸王茶姬
-  - 喜茶
-  - 奈雪的茶
-  - 兴隆记
-  - M Stand
-products_models: []
-media_books:
-  - 硅谷101播客
 status: evergreen
+summary: 来自日本的寿司郎、滨寿司等餐饮品牌，在中国市场逆势成为“排队王”。本文深入探讨了这些品牌如何在日本“失去的30年”这一通缩与存量竞争的环境中，通过极致的降本增效和技术创新，锻造出强大的运营效率。文章分析了回转寿司行业如何利用科技降低损耗，并探讨了萨莉亚的垂直供应链模式。同时，嘉宾“东子”提出了“表演式烟火气”的概念，揭示了在高度标准化下维持顾客体验的秘诀，并对比了中日餐饮市场的差异与出海策略。
+tags:
+- efficiency
+- experience
+- history
+- supply-chain-optimization
+- technology
+title: 日本“失去的30年”：如何锻造出中国的餐饮“排队王”？
 ---
+
 ### 中国餐饮新“排队王”：逆势增长的日本品牌
 
 在如今竞争激烈的中国餐饮市场，来自日本的连锁餐饮品牌寿司郎和滨寿司，却在一线城市的商场里异军突起，成为了新的“排队王”。在高峰时段，想吃上一顿寿司郎，排队等候两小时已是常态。

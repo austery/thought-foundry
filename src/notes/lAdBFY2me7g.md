@@ -1,43 +1,43 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: general
+companies_orgs:
+- Sun Microsystems
+- Khosla Ventures
+- OpenAI
+- Juniper
+- AT&T
+- Verizon
+- Google
+- Kleiner Perkins
+- Norges Bank Investment Management
 date: '2024-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+people:
+- Vinod Khosla
+products_models: []
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=lAdBFY2me7g
 speaker: Norges Bank Investment Management
-tags:
-  - future-trends
-  - ai-impact
-  - technological-abundance
-  - venture-capital
-  - expert-opinion
-title: Vinod Khosla：未来已来——技术驱动的十二大趋势与投资哲学
-summary: 风险投资家Vinod Khosla分享了他的投资哲学，强调对“不可能事件”的押注和对快速学习者的识别。他预测了未来十二大技术驱动趋势，包括专业知识和劳动力免费、计算能力普及、个性化医疗、清洁能源（核聚变）以及能源免费，描绘了一个由技术带来极大丰裕的未来世界，并对年轻人提出了追求激情的建议。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Vinod Khosla
-companies_orgs:
-  - Sun Microsystems
-  - Khosla Ventures
-  - OpenAI
-  - Juniper
-  - AT&T
-  - Verizon
-  - Google
-  - Kleiner Perkins
-  - Norges Bank Investment Management
-products_models: []
-media_books:
-  - In Good Company
 status: evergreen
+summary: 风险投资家Vinod Khosla分享了他的投资哲学，强调对“不可能事件”的押注和对快速学习者的识别。他预测了未来十二大技术驱动趋势，包括专业知识和劳动力免费、计算能力普及、个性化医疗、清洁能源（核聚变）以及能源免费，描绘了一个由技术带来极大丰裕的未来世界，并对年轻人提出了追求激情的建议。
+tags:
+- ai-impact
+- expert-opinion
+- future
+- technological
+- venture-capital
+title: Vinod Khosla：未来已来——技术驱动的十二大趋势与投资哲学
 ---
+
 ### 播客简介与嘉宾介绍
 
 大家好，欢迎收听播客《**In Good Company**》（In Good Company: 挪威银行投资管理公司制作的播客）的精彩片段。我们决定为那些时间紧迫的人，将每集剪辑成仅10分钟的精华版。但你可能会发现，听完这10分钟后，你会想听完整版。我们每周三发布完整版，周五发布短版，敬请收听。

@@ -1,63 +1,63 @@
 ---
-author: New York Times Podcasts
+area: tech-work
+category: politics-society
+companies_orgs:
+- New York Times
+- Brown University
+- Reddit
+- MIT
+- FBI
+- American Academy of Pediatrics
+- Democratic National Committee
+- European Council
+- EU
+- Russia
+- Hungary
+- JetBlue
+- Meta
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《公主新娘》
+- 《伴我同行》
+- 《俏妞》
+- 《华尔街之狼》
+- 《西雅图夜未眠》
+- 《当哈利遇到莎莉》
+- 《社交网络》
+- news-reporting
+people:
+- Tracy Mumford
+- Claudio Nevice Valente
+- Vladimir Putin
+- Donald Trump
+- Kla Harris
+- Rob Reiner
+- Michelle Singer Reiner
+- Mark Zuckerberg
+- Leonardo DiCaprio
+- Tom Hanks
+products_models:
+- PSRJ2322-2650B
+project:
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=oXgcEaFar9I
 speaker: New York Times Podcasts
-tags:
-  - trump-administration
-  - cannabis-policy
-  - ukraine-war
-  - space-telescope
-  - news-reporting
-title: 布朗大学枪击案嫌犯身亡，特朗普政府调整大麻政策，欧洲援助乌克兰及太空新发现
-summary: 本期新闻播报涵盖了布朗大学枪击案嫌犯克劳迪奥·内维斯·瓦伦特的死亡，他被发现死于自杀。报道还涉及特朗普政府关于未成年人性别相关护理的政策调整，以及将大麻从第一类管制药物降级为第三类。此外，欧洲领导人就向乌克兰提供巨额贷款达成一致，詹姆斯·韦伯空间望远镜发现了一个奇特的“拉伸行星”。节目还包括一个新闻问答环节，回顾了航空安全、加密货币领域及电影导演罗伯·雷纳的作品。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: tech-work
-project:
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Tracy Mumford
-  - Claudio Nevice Valente
-  - Vladimir Putin
-  - Donald Trump
-  - Kla Harris
-  - Rob Reiner
-  - Michelle Singer Reiner
-  - Mark Zuckerberg
-  - Leonardo DiCaprio
-  - Tom Hanks
-companies_orgs:
-  - New York Times
-  - Brown University
-  - Reddit
-  - MIT
-  - FBI
-  - American Academy of Pediatrics
-  - Democratic National Committee
-  - European Council
-  - EU
-  - Russia
-  - Hungary
-  - JetBlue
-  - Facebook
-products_models:
-  - PSRJ2322-2650B
-media_books:
-  - 《公主新娘》
-  - 《伴我同行》
-  - 《俏妞》
-  - 《华尔街之狼》
-  - 《西雅图夜未眠》
-  - 《当哈利遇到莎莉》
-  - 《社交网络》
 status: evergreen
+summary: 本期新闻播报涵盖了布朗大学枪击案嫌犯克劳迪奥·内维斯·瓦伦特的死亡，他被发现死于自杀。报道还涉及特朗普政府关于未成年人性别相关护理的政策调整，以及将大麻从第一类管制药物降级为第三类。此外，欧洲领导人就向乌克兰提供巨额贷款达成一致，詹姆斯·韦伯空间望远镜发现了一个奇特的“拉伸行星”。节目还包括一个新闻问答环节，回顾了航空安全、加密货币领域及电影导演罗伯·雷纳的作品。
+tags:
+- policy
+- space
+- trump-administration
+- ukraine-war
+title: 布朗大学枪击案嫌犯身亡，特朗普政府调整大麻政策，欧洲援助乌克兰及太空新发现
 ---
+
 ### 新闻播报开场
 
 来自《纽约时报》，这是今天的头条新闻。我是 Tracy Mumpford。今天是 12 月 19 日，星期五。以下是我们今天将要报道的内容。

@@ -1,30 +1,29 @@
 ---
-title: 史蒂文·科恩的崛起：从扑克牌桌到华尔街帝国
-summary: 本期节目深入探讨了史蒂文·科恩如何从贫困童年和扑克桌上的磨砺中崛起，创立SAC资本，凭借其独特的交易天赋、无情手腕和对信息的极致追求，逐步建立起百亿美金的金融帝国。
 area: null
 category: null
-project: []
-tags:
-- hedge-funds
-- poker
-- wall-street
-people:
-- steven-cohen
 companies_orgs:
 - sac-capital
-products_models: []
-media_books: []
 date: '2025-09-26'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- steven-cohen
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mNFRSzBOBDM
+speaker: 北美王路飞
 status: evergreen
+summary: 本期节目深入探讨了史蒂文·科恩如何从贫困童年和扑克桌上的磨砺中崛起，创立SAC资本，凭借其独特的交易天赋、无情手腕和对信息的极致追求，逐步建立起百亿美金的金融帝国。
+tags:
+- investment
+- poker
+- wall-street
+title: 史蒂文·科恩的崛起：从扑克牌桌到华尔街帝国
 ---
+
 ### 引言：华尔街的幽灵——史蒂文·科恩
 
 大家好，欢迎来到我的频道，欢迎来到“黑金”系列的第二期。上一期节目，我们直接空降到2008年FBI与华尔街大战的前线。我们通过FBI（**Federal Bureau of Investigation**: 美国联邦调查局，主要负责反恐、反间谍、网络犯罪等联邦犯罪调查）的窃听录音，亲耳听到了帆船集团的Raj（拉吉），也就是上一集我们提到的那位印度大哥，是如何明目张胆地进行**内幕交易**（Insider Trading: 指公司内部人员或与公司有特殊关系的人，利用未公开的重大信息进行证券交易，从中获利或避免损失的行为）。我们还详细拆解了FBI探员BJ康，一位韩国裔探员，如何通过策反这一核心战术，一步步撕开了这个庞大犯罪网络的一角。一直跟着我们系列的朋友都还记得，在这些混乱的线索中，有一个名字反复出现，像一个幽灵一样，笼罩在所有事件的上方，这就是**SAC资本**（SAC Capital: 史蒂文·科恩创立的对冲基金）和那个神秘莫测的创始人**史蒂文·科恩**（Steven Cohen: SAC资本的创始人，一位著名的对冲基金经理）。

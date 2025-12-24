@@ -6,12 +6,10 @@ area: null
 category: null
 project: []
 tags:
-  - ontario
-  - 教育
-people: []
+- society
+- technology
 companies_orgs: []
 products_models: []
-media_books: []
 date: '2025-06-02'
 author: Lei
 speaker: null
@@ -22,6 +20,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## Are Tariffs Driving Up Food Prices in Ontario? / 关税正在推高安大略省的食品价格吗？
 
 

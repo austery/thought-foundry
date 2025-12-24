@@ -1,38 +1,37 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Norges Bank Investment Management
+- Netflix
+- PayPal
+- Nintendo
+- Ubisoft
 date: '2024-05-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Stephanie W. Vardheim
+products_models:
+- Investment Simulator
+project:
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=RFzGl3VbRbA
 speaker: Norges Bank Investment Management
-tags:
-  - career-transition
-  - portfolio-management
-  - investment-process
-  - earnings-reports
-  - behavioral-finance
-title: 挪威银行投资管理公司投资经理的一天：从法律到金融的转型之路
-summary: 本文记录了挪威银行投资管理公司一位投资经理的职业转型与日常工作。她从法律专业转入金融领域，分享了成为投资经理的心路历程，以及她在应对市场波动、分析财报、与企业高管会面等日常工作中的挑战与乐趣。文章还深入探讨了其独特的投资流程，包括估值、投资论证构建和利用“投资模拟器”辅助决策，揭示了金融行业对数据分析和行为偏差管理的重视。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-people:
-  - Stephanie W. Vardheim
-companies_orgs:
-  - Norges Bank Investment Management
-  - Netflix
-  - PayPal
-  - Nintendo
-  - Ubisoft
-products_models:
-  - Investment Simulator
-media_books: []
 status: evergreen
+summary: 本文记录了挪威银行投资管理公司一位投资经理的职业转型与日常工作。她从法律专业转入金融领域，分享了成为投资经理的心路历程，以及她在应对市场波动、分析财报、与企业高管会面等日常工作中的挑战与乐趣。文章还深入探讨了其独特的投资流程，包括估值、投资论证构建和利用“投资模拟器”辅助决策，揭示了金融行业对数据分析和行为偏差管理的重视。
+tags:
+- behavioral-finance
+- career-transition
+- earnings-report
+- investment
+- portfolio-management
+title: 挪威银行投资管理公司投资经理的一天：从法律到金融的转型之路
 ---
+
 ### 从法律到金融的职业转型
 
 我决定学习法律，因为我认为法律是为聪明人准备的，而我是一个聪明的女孩，这就是我想做的事情。

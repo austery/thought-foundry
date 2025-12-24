@@ -1,58 +1,58 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: technology
+companies_orgs:
+- DeepMind
+- Bullfrog Productions
+- Google
+- CASP
+- 曼哈顿计划
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《上帝也疯狂》
+- 《主题公园》
+- 《打砖块》
+- 《星际争霸II》
+- 《薄伽梵歌》
+- 《创造亚当》
+people:
+- Demis Hassabis
+- Peter Molyneux
+- Shane Legg
+- Mustafa Suleyman
+- Lee Sedol
+- John Moult
+- Paul Nurse
+- John Jumper
+- J. Robert Oppenheimer
+- Stuart Russell
+products_models:
+- AlphaGo
+- AlphaZero
+- AlphaStar
+- AlphaFold
+- AlphaFold 2
+project:
+- ai-impact-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=clGdgQEOew8
 speaker: Best Partners TV
-tags:
-  - general-ai
-  - reinforcement-learning
-  - protein-folding
-  - ai-ethics
-  - technological-development
-title: DeepMind与通用人工智能AGI的探索：德米斯·哈萨比斯的智能之旅
-summary: 本文深入探讨了DeepMind创始人德米斯·哈萨比斯及其团队追求通用人工智能（AGI）的非凡历程。从哈萨比斯童年对智能的追问，到DeepMind在强化学习、棋类游戏（AlphaGo、AlphaZero、AlphaStar）和科学突破（AlphaFold）上的里程碑式成就，文章展现了AI如何从游戏训练场走向解决现实世界难题。同时，文中也深刻反思了AGI带来的伦理挑战与未来影响，呼吁人类在技术加速发展中保持警醒与思考。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - historical-insights
-people:
-  - Demis Hassabis
-  - Peter Molyneux
-  - Shane Legg
-  - Mustafa Suleyman
-  - Lee Sedol
-  - John Moult
-  - Paul Nurse
-  - John Jumper
-  - J. Robert Oppenheimer
-  - Stuart Russell
-companies_orgs:
-  - DeepMind
-  - Bullfrog Productions
-  - Google
-  - CASP
-  - 曼哈顿计划
-products_models:
-  - AlphaGo
-  - AlphaZero
-  - AlphaStar
-  - AlphaFold
-  - AlphaFold 2
-media_books:
-  - 《上帝也疯狂》
-  - 《主题公园》
-  - 《打砖块》
-  - 《星际争霸II》
-  - 《薄伽梵歌》
-  - 《创造亚当》
 status: evergreen
+summary: 本文深入探讨了DeepMind创始人德米斯·哈萨比斯及其团队追求通用人工智能（AGI）的非凡历程。从哈萨比斯童年对智能的追问，到DeepMind在强化学习、棋类游戏（AlphaGo、AlphaZero、AlphaStar）和科学突破（AlphaFold）上的里程碑式成就，文章展现了AI如何从游戏训练场走向解决现实世界难题。同时，文中也深刻反思了AGI带来的伦理挑战与未来影响，呼吁人类在技术加速发展中保持警醒与思考。
+tags:
+- ai-ethics
+- development
+- health
+- llm
+- reinforcement-learning
+title: DeepMind与通用人工智能AGI的探索：德米斯·哈萨比斯的智能之旅
 ---
+
 ### 序言：与时间赛跑的智能探索
 
 大家好，这里是最佳拍档。在今天这期视频的开始，我想请大家和我一起想象这样一个场景：你坐在一辆飞驰的列车上，窗外的风景，那些田野、桥梁、城市，正在以一种你几乎无法捕捉的速度向后退去。这不仅仅是物理上的速度，更是一种关于时间的隐喻。对于有些人来说，时间是用来享受的，但是对于另一些人来说，时间是用来赛跑的。如果你真的要把某件事当做一生的使命，你会发现时间其实少得可怜，生命太短暂了。

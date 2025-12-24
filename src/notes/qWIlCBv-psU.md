@@ -1,66 +1,66 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- Munk School of Global Affairs and Public Policy
+- Red Cross
+- United Farmers of Ontario
+- Toronto Public School Board
+- Financial Accountability Office
+- LCBO
+- Cycle Toronto
+- Ontario Provincial Conservation Agency
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Better Call Saul
+- Breaking Bad
+- The Premier Files
+people:
+- Steve Paikin
+- John Michael McGrath
+- Paul Calandra
+- Brian Lewis
+- Bob Rae
+- Ernest Drury
+- Bill Davis
+- Ernie Eves
+- Mohaulif Holliff
+- Saul Holliff
+- Murray Cibilash
+- Richard Romer
+- David Peterson
+- Mike Harris
+- Dalton McGuinty
+- Kathleen Wynne
+- John Robarts
+- Doug Ford
+- Carol Lewis
+- Justin Trudeau
+- Donald Trump
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qWIlCBv-psU
 speaker: TVO Today
-tags:
-  - ontario-politics
-  - provincial-governance
-  - fiscal-policy
-  - education-reform
-  - environmental-policy
-title: 安大略省政治播客：教育、经济与历史
-summary: 本期播客深入探讨了安大略省的多个关键政治议题，包括教育部长保罗·卡兰德拉在学校董事会改革和托儿协议中的角色，省政府秋季经济报告的财政状况分析，以及对安大略省前省长们的系列访谈。此外，节目还讨论了骑行者安全法案、退伍军人纪念墙的更新，以及安大略省流域保护区的重组，为听众提供了全面的省级政治洞察。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Steve Paikin
-  - John Michael McGrath
-  - Paul Calandra
-  - Brian Lewis
-  - Bob Rae
-  - Ernest Drury
-  - Bill Davis
-  - Ernie Eves
-  - Mohaulif Holliff
-  - Saul Holliff
-  - Murray Cibilash
-  - Richard Romer
-  - David Peterson
-  - Mike Harris
-  - Dalton McGuinty
-  - Kathleen Wynne
-  - John Robarts
-  - Doug Ford
-  - Carol Lewis
-  - Justin Trudeau
-  - Donald Trump
-companies_orgs:
-  - TVO Today
-  - Munk School of Global Affairs and Public Policy
-  - Red Cross
-  - United Farmers of Ontario
-  - Toronto Public School Board
-  - Financial Accountability Office
-  - LCBO
-  - Cycle Toronto
-  - Ontario Provincial Conservation Agency
-products_models: []
-media_books:
-  - Better Call Saul
-  - Breaking Bad
-  - The Premier Files
 status: evergreen
+summary: 本期播客深入探讨了安大略省的多个关键政治议题，包括教育部长保罗·卡兰德拉在学校董事会改革和托儿协议中的角色，省政府秋季经济报告的财政状况分析，以及对安大略省前省长们的系列访谈。此外，节目还讨论了骑行者安全法案、退伍军人纪念墙的更新，以及安大略省流域保护区的重组，为听众提供了全面的省级政治洞察。
+tags:
+- education-reform
+- environmental-policy
+- fiscal-policy
+- governance
+- ontario-politics
+title: 安大略省政治播客：教育、经济与历史
 ---
+
 ### 播客开场与本期议题
 
 **Steve:** 欢迎大家收听 **OnPy播客**（OnPy Podcast: TVO Today的政治评论播客）。

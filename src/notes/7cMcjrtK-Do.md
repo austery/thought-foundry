@@ -1,51 +1,51 @@
 ---
-author: TED
+area: personal-systems
+category: psychology
+companies_orgs:
+- TED
+- Move the Crowd
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'The Calling: Three Fundamental Shifts to Stay True, Get Paid and Do Good'
+- 'Intentional Ambition: Redefining Your Work for Greater Joy, Freedom, and Fulfillment'
+people:
+- Elise Hugh
+- Rha Goddess
+- Christie
+- Kelly S.
+- Ryan S.
+- Sofal E.
+- Ozgushi
+- Kim H.
+- Jeannie J.
+- Manoj M.
+- Wanderly D.
+- Jennifer S.
+- Tara W.
+- Gail Stra
+- David Gerson
+products_models: []
+project:
+- personal-growth-lab
+- career
+series: ''
 source: https://www.youtube.com/watch?v=7cMcjrtK-Do
 speaker: TED
-tags:
-  - intentional-ambition
-  - work-life-balance
-  - self-care
-  - redefining-success
-  - personal-narratives
-title: 重新定义工作与成功：在不确定时代寻找快乐、自由与使命
-summary: 在TED每日讲座读书俱乐部中，Rha Goddess深入探讨了如何在后疫情时代重新评估我们与工作的关系。她指出，当前的工作文化正经历巨变，人们开始将快乐、健康和使命置于金钱之上。Goddess分享了她从倦怠中走出的个人经历，并提出了“协商、放弃、再协商”的框架，帮助人们摆脱外部定义的成功，拥抱内在的真实自我。她强调了寻求外部支持、挑战稀缺心态以及在职业生涯后期重新构想目标的重要性，并提供了实用的建议和积极的宣言，鼓励听众在充满不确定性的世界中找到平衡与意义。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - career
-people:
-  - Elise Hugh
-  - Rha Goddess
-  - Christie
-  - Kelly S.
-  - Ryan S.
-  - Sofal E.
-  - Ozgushi
-  - Kim H.
-  - Jeannie J.
-  - Manoj M.
-  - Wanderly D.
-  - Jennifer S.
-  - Tara W.
-  - Gail Stra
-  - David Gerson
-companies_orgs:
-  - TED
-  - Move the Crowd
-products_models: []
-media_books:
-  - 'The Calling: Three Fundamental Shifts to Stay True, Get Paid and Do Good'
-  - 'Intentional Ambition: Redefining Your Work for Greater Joy, Freedom, and Fulfillment'
 status: evergreen
+summary: 在TED每日讲座读书俱乐部中，Rha Goddess深入探讨了如何在后疫情时代重新评估我们与工作的关系。她指出，当前的工作文化正经历巨变，人们开始将快乐、健康和使命置于金钱之上。Goddess分享了她从倦怠中走出的个人经历，并提出了“协商、放弃、再协商”的框架，帮助人们摆脱外部定义的成功，拥抱内在的真实自我。她强调了寻求外部支持、挑战稀缺心态以及在职业生涯后期重新构想目标的重要性，并提供了实用的建议和积极的宣言，鼓励听众在充满不确定性的世界中找到平衡与意义。
+tags:
+- intentional-ambition
+- personal
+- redefining-success
+- self
+- work-life-balance
+title: 重新定义工作与成功：在不确定时代寻找快乐、自由与使命
 ---
+
 ### 欢迎来到TED每日讲座读书俱乐部
 
 大家好，欢迎来到TED会员社区。我是《**TED每日讲座**》（TED Talks Daily: TED官方播客节目，每天发布鼓舞人心的新想法）的主持人Elise Hugh，很高兴今天能与大家一起参加最新一期的**TED每日讲座读书俱乐部**（TED Talks Daily Book Club: TED每日讲座播客的特别系列活动）。

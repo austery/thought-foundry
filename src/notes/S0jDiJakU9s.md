@@ -1,52 +1,52 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Liberal Party
+- Conservative Party
+- NDP
+- Bloc Québécois
+- Green Party
+- Canadian Leaders' Debates Commission
+- TVA
+- White House
 date: '2025-03-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Fox News
+- CBC News
+people:
+- Mark Carney
+- Pierre Poilievre
+- Donald Trump
+- Justin Trudeau
+- Stephen Harper
+- Jack Layton
+- Elizabeth May
+- Jonathan Pedneault
+- Mary Simon
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=S0jDiJakU9s
 speaker: 莊也雜談
-tags:
-  - canadian-election-2025
-  - campaign-platforms
-  - us-canada-relations
-  - political-strategy
-  - economic-policies
-title: 加拿大2025年“超级大选”选情深度分析：两党政策、美加关系与最终走向
-summary: 本文深度分析了2025年加拿大联邦大选的最新选情，聚焦自由党新党魁马克·卡尼与保守党领袖博励治的竞选策略与政策纲领。文章详细探讨了美国前总统特朗普对加拿大选举的干预及其对美加贸易关系的影响，以及两党在经济、环保、住房等关键议题上的承诺。通过对民调、历史背景和外部因素的剖析，揭示了本次大选的复杂性与不确定性，并对保守党提出了战略建议。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Pierre Poilievre
-  - Donald Trump
-  - Justin Trudeau
-  - Stephen Harper
-  - Jack Layton
-  - Elizabeth May
-  - Jonathan Pedneault
-  - Mary Simon
-companies_orgs:
-  - Liberal Party
-  - Conservative Party
-  - NDP
-  - Bloc Québécois
-  - Green Party
-  - Canadian Leaders' Debates Commission
-  - TVA
-  - White House
-products_models: []
-media_books:
-  - Fox News
-  - CBC News
 status: evergreen
+summary: 本文深度分析了2025年加拿大联邦大选的最新选情，聚焦自由党新党魁马克·卡尼与保守党领袖博励治的竞选策略与政策纲领。文章详细探讨了美国前总统特朗普对加拿大选举的干预及其对美加贸易关系的影响，以及两党在经济、环保、住房等关键议题上的承诺。通过对民调、历史背景和外部因素的剖析，揭示了本次大选的复杂性与不确定性，并对保守党提出了战略建议。
+tags:
+- canadian-election-2025
+- economic-policy
+- platform
+- political-strategy
+- us-canada-relations
+title: 加拿大2025年“超级大选”选情深度分析：两党政策、美加关系与最终走向
 ---
+
 ### 加拿大2025年“超级大选”选情概览
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们来聊一聊截至目前，加拿大大选的选情分析。目前大家可以看到，自从马克·卡尼宣布提前大选以来，民调显示自由党正在扩大领先优势，但这个优势并不稳固，保守党在后面步步紧逼。再加上南边川普总统的“神秘助选”，更让这场选战变得扑朔迷离。川普究竟是支持保守党还是自由党？两党又分别提出了哪些激动人心的竞选政策？这些都使得本次加拿大大选的选情比以往任何时候都更加复杂，堪称加拿大历史上非常罕见的、戏剧性十足的“超级大选”。

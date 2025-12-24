@@ -1,56 +1,56 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: culture
+companies_orgs:
+- 营造学社
+- 清华大学
+- 宾夕法尼亚大学
 date: '2024-06-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《诗经》
+- 《营造法式》
+- 《我们太太的客厅》
+- 《清式营造则例》
+- 《中国建筑史》
+people:
+- 林徽因
+- 梁思成
+- 梁启超
+- 林长民
+- 林恒
+- 林璎
+- 徐志摩
+- 金岳霖
+- 冰心
+- 吴晗
+- 毛泽东
+- 彭真
+- 周恩来
+- 李诫
+- 宁公遇
+- 黄洞泉
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=unPzWsqQ_X4
 speaker: 柴静 Chai Jing
-tags:
-  - lin-huiyin-legacy
-  - chinese-architecture-preservation
-  - gender-inequality-history
-  - cultural-heritage
-  - urban-planning-beijing
-title: 林徽因：纠正历史偏见，重塑中国第一位女建筑师的真实图景
-summary: 本文深入探讨了中国第一位女建筑师林徽因的传奇一生，纠正了长期以来对她存在的历史误解和偏见。从她出生时名字的性别不平等到她在宾大求学期间的艰难，再到她在中国古建筑研究和保护领域的开创性贡献，以及她面对时代洪流和政治压力的坚韧，文章展现了林徽因作为一位独立女性和杰出学者的多维形象，强调了个人创造力在时代局限下爆发的巨大能量。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - 林徽因
-  - 梁思成
-  - 梁启超
-  - 林长民
-  - 林恒
-  - 林璎
-  - 徐志摩
-  - 金岳霖
-  - 冰心
-  - 吴晗
-  - 毛泽东
-  - 彭真
-  - 周恩来
-  - 李诫
-  - 宁公遇
-  - 黄洞泉
-companies_orgs:
-  - 营造学社
-  - 清华大学
-  - 宾夕法尼亚大学
-products_models: []
-media_books:
-  - 《诗经》
-  - 《营造法式》
-  - 《我们太太的客厅》
-  - 《清式营造则例》
-  - 《中国建筑史》
 status: evergreen
+summary: 本文深入探讨了中国第一位女建筑师林徽因的传奇一生，纠正了长期以来对她存在的历史误解和偏见。从她出生时名字的性别不平等到她在宾大求学期间的艰难，再到她在中国古建筑研究和保护领域的开创性贡献，以及她面对时代洪流和政治压力的坚韧，文章展现了林徽因作为一位独立女性和杰出学者的多维形象，强调了个人创造力在时代局限下爆发的巨大能量。
+tags:
+- chinese
+- cultural-heritage
+- history
+- legacy
+- urban
+title: 林徽因：纠正历史偏见，重塑中国第一位女建筑师的真实图景
 ---
+
 ### 补发学位背后的历史纠偏
 
 今天是林徽因诞辰120周年。之所以做这个节目，是因为上个月宾夕法尼亚大学给她补发了建筑学学位的证书。100年前，她本来应该得到的机会，就因为女性身份而没有能够得到，这个历史错误今天被纠正了。但这引起了我的兴趣去重读林徽因，我才知道这位中国历史上第一位女建筑师在当年因为她的性别，在追求职业使命当中遇到了多少障碍。而我作为一个中国人，对自己文化史上一个重要女性的了解，有多少遗漏、多少忽视，和多少需要被纠正的历史错误。

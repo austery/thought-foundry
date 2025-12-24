@@ -1,146 +1,145 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Nvidia
+- Robinhood
+- Palantir
+- Cipher Mining
+- Rocket Lab
+- Oklo
+- Bitmine
+- Nebia
+- Google
+- BigBear.ai
+- Broadcom
+- Microsoft
+- Meta
+- Amazon
+- MercadoLibre
+- MicroStrategy
+- Federal Reserve
+- JPMorgan Chase
+- CoreWeave
+- AMD
+- SoFi
+- Weeble
+- Intuit
+- D-Wave
+- Carnival Cruise Line
+- American Airlines
+- United Airlines
+- AppLovin
+- Rigetti Computing
+- Walmart
+- PayPal
+- Grab
+- Duolingo
+- Verizon
+- Goldman Sachs
+- UnitedHealth Group
+- Palo Alto Networks
+- Ross Stores
+- Piper Sandler
+- Morgan Stanley
+- Coinbase
+- Home Depot
+- Melius Research
+- Wedbush Securities
+- Oracle
+- MongoDB
+- Snowflake
+- Anthropic
+- xAI
+- Humane
+- Amazon Web Services
+- T-Mobile
+- OpenAI
+- Bureau of Labor Statistics
+- FOMC
+- Norwegian Cruise Line
+- Novo Nordisk
+- Eli Lilly
+- The Wall Street Journal
 date: '2025-11-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+people:
+- Chris Patel
+- Tom Lee
+- Steve
+- Brian Sullivan
+- Donald Trump
+- Austan Goolsbee
+- Christopher Waller
+- Loretta Mester
+- Jensen Huang
+- Jake Levenson
+- Simma Modi
+- Sam
+- Michael Burry
+- David Shaw
+- Ryan Cohen
+- Sundar Pichai
+- Brad Gerstner
+- Mark Zuckerberg
+- Stephen Moore
+- Peter Lynch
+- Warren Buffett
+- Vlad Tenev
+- Alex Karp
+- Sam Altman
+- Dan Ives
+- Scott Devitt
+- Larry Summers
+- Ro Khanna
+- Alexandria Ocasio-Cortez
+- Dr. King
+- Mark Newton
+- Cathie Wood
+- Joseph Carlson
+- Ray Dalio
+- Karoline Leavitt
+- Mukesh Ambani
+products_models:
+- S&P 500
+- Bitcoin
+- Ethereum
+- ADL (Automatic Deleveraging)
+- QQQ
+- Gemini
+- Blackwell
+- Vera Rubin
+- Aura Ring
+- Instagram Reels
+- Waymo
+- TPU (Tensor Processing Unit)
+- Trainium
+- Copilot
+- GLP-1
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=ceoAOugf7zA
 speaker: Amit Kukreja
-tags:
-  - market-reversal
-  - algorithmic-trading
-  - liquidity-crisis
-  - macro-economics
-  - rate-cut-expectations
-title: 年度最差逆转：加密市场“软件故障”如何引发美股闪崩？
-summary: 本文深入分析了近期全球股市经历的年度最剧烈的盘中逆转之一。文章探讨了导致市场从早盘上涨2%到收盘暴跌的多种可能原因，包括知名分析师Tom Lee提出的加密市场“软件故障”理论，该理论认为自动清算事件严重削弱了做市商，引发流动性危机并蔓延至股市。此外，文章还讨论了美联储降息预期落空、日元套利交易平仓以及机构在英伟达财报后获利了结等宏观因素，为理解这场突如其来的市场动荡提供了多维度的视角。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Amit Kukreja
-  - Chris Patel
-  - Tom Lee
-  - Steve
-  - Brian Sullivan
-  - Donald Trump
-  - Austan Goolsbee
-  - Christopher Waller
-  - Loretta Mester
-  - Jensen Huang
-  - Jake Levenson
-  - Simma Modi
-  - Sam
-  - Michael Burry
-  - David Shaw
-  - Ryan Cohen
-  - Sundar Pichai
-  - Brad Gerstner
-  - Mark Zuckerberg
-  - Stephen Moore
-  - Peter Lynch
-  - Warren Buffett
-  - Vlad Tenev
-  - Alex Karp
-  - Sam Altman
-  - Dan Ives
-  - Scott Devitt
-  - Larry Summers
-  - Ro Khanna
-  - Alexandria Ocasio-Cortez
-  - Dr. King
-  - Mark Newton
-  - Cathie Wood
-  - Joseph Carlson
-  - Ray Dalio
-  - Karoline Leavitt
-  - Mukesh Ambani
-companies_orgs:
-  - Tesla
-  - Nvidia
-  - Robinhood
-  - Palantir
-  - Cipher Mining
-  - Rocket Lab
-  - Oklo
-  - Bitmine
-  - Nebia
-  - Google
-  - BigBear.ai
-  - Broadcom
-  - Microsoft
-  - Meta
-  - Amazon
-  - MercadoLibre
-  - MicroStrategy
-  - Federal Reserve
-  - JPMorgan Chase
-  - CoreWeave
-  - AMD
-  - SoFi
-  - Weeble
-  - Intuit
-  - D-Wave
-  - Carnival Cruise Line
-  - American Airlines
-  - United Airlines
-  - AppLovin
-  - Rigetti Computing
-  - Walmart
-  - PayPal
-  - Grab
-  - Duolingo
-  - Verizon
-  - Goldman Sachs
-  - UnitedHealth Group
-  - Palo Alto Networks
-  - Ross Stores
-  - Piper Sandler
-  - Morgan Stanley
-  - Coinbase
-  - Home Depot
-  - Melius Research
-  - Wedbush Securities
-  - Oracle
-  - MongoDB
-  - Snowflake
-  - Anthropic
-  - xAI
-  - Humane
-  - Amazon Web Services
-  - T-Mobile
-  - OpenAI
-  - Bureau of Labor Statistics
-  - FOMC
-  - Norwegian Cruise Line
-  - Novo Nordisk
-  - Eli Lilly
-  - The Wall Street Journal
-products_models:
-  - S&P 500
-  - Bitcoin
-  - Ethereum
-  - ADL (Automatic Deleveraging)
-  - QQQ
-  - Gemini
-  - Blackwell
-  - Vera Rubin
-  - Aura Ring
-  - Instagram Reels
-  - Waymo
-  - TPU (Tensor Processing Unit)
-  - Trainium
-  - Copilot
-  - GLP-1
-media_books:
-  - The Wall Street Journal
 status: evergreen
+summary: 本文深入分析了近期全球股市经历的年度最剧烈的盘中逆转之一。文章探讨了导致市场从早盘上涨2%到收盘暴跌的多种可能原因，包括知名分析师Tom Lee提出的加密市场“软件故障”理论，该理论认为自动清算事件严重削弱了做市商，引发流动性危机并蔓延至股市。此外，文章还讨论了美联储降息预期落空、日元套利交易平仓以及机构在英伟达财报后获利了结等宏观因素，为理解这场突如其来的市场动荡提供了多维度的视角。
+tags:
+- crisis
+- financial
+- llm
+- market
+- rate-cut-expectation
+title: 年度最差逆转：加密市场“软件故障”如何引发美股闪崩？
 ---
+
 ### 年度最惨烈的市场逆转
 好的，大家好，欢迎回到新一期的市场收盘节目。我们有很多内容要讨论。这是过去一年里，我们在全球资本股票市场见过的最糟糕的日子之一，或者说，是最糟糕的逆转之一。标普500指数下跌了1.39%。而在早上，标普500指数还上涨了2%。所以，你看到的是接近3.5%的日内逆转。我的意思是，这太难看了，非常非常难看。
 

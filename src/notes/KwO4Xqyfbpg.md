@@ -1,41 +1,41 @@
 ---
-author: 徒步的騎手
-date: 2025-03-14
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=KwO4Xqyfbpg'
-speaker: 徒步的騎手
-tags:
-  - cognitive-upgrading
-  - critical-thinking
-  - learning-ability
-  - intellectual-elite
-  - textbook-mindset
-title: 如何避免书越念越蠢？知识精英的幻觉与认知升级之路
-summary: 本文探讨了如何避免知识上的停滞不前，并引用徐奔教授的观点，批判了阻碍学习的“教科书头脑”和“居高临下感”。文章强调了批判性思维、判断力以及向智者学习的谦逊态度的重要性，并援引孔子对学习者的分类。核心论点是真正的智慧源于持续学习、实践判断，而非死记硬背。
-insight: ''
-draft: true
-series: ''
-category: general
 area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - china-analysis
-people:
-  - 徐奔
-  - 孔子
-  - 波拉图
-  - 罗素
-  - 毛主席
+category: general
 companies_orgs:
-  - 燕京书评
-products_models: '[]'
+- 燕京书评
+date: 2025-03-14
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《与时俱进的启蒙》
-  - 《批判性思维的认知和伦理》
-  - 《中国学者谈启蒙》《割靴挠痒》或者《瞎子摸象》
+- 《与时俱进的启蒙》
+- 《批判性思维的认知和伦理》
+- 《中国学者谈启蒙》《割靴挠痒》或者《瞎子摸象》
+people:
+- 徐奔
+- 孔子
+- 波拉图
+- 罗素
+- 毛主席
+products_models: '[]'
+project:
+- personal-growth-lab
+- systems-thinking
+- china-analysis
+series: ''
+source: https://www.youtube.com/watch?v=KwO4Xqyfbpg
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了如何避免知识上的停滞不前，并引用徐奔教授的观点，批判了阻碍学习的“教科书头脑”和“居高临下感”。文章强调了批判性思维、判断力以及向智者学习的谦逊态度的重要性，并援引孔子对学习者的分类。核心论点是真正的智慧源于持续学习、实践判断，而非死记硬背。
+tags:
+- cognitive
+- critical-thinking
+- learning
+- mindset
+title: 如何避免书越念越蠢？知识精英的幻觉与认知升级之路
+companies:
+- intellectual-elite
 ---
 
 ### 知识精英的责任与“居高临下感”的迷思

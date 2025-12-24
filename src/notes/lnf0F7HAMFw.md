@@ -1,68 +1,67 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- AMD
+- Super Micro Computer (SMCI)
+- Arista Networks (ANET)
+- Rivian
+- Zeta Global
+- Axon
+- Pinterest
+- OpenAI
+- Oracle
+- Microsoft
+- TSMC
+- Intel
+- Nvidia
+- Amazon
+- Tesla
+- Robinhood
+- Palantir
+- Google
+- Schwab
+- Anduril Industries
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Lisa Sue
+- Sam Altman
+- Jerome Powell
+- Larry Ellison
+- Donald Trump
+- Vlad Tenev
+- RJ Scaringe
+- Michael Burry
+- Tom Lee
+- Palmer Luckey
+products_models:
+- EPYC
+- Ryzen
+- Instinct MI350
+- Instinct MI450
+- Helios
+- ROCm 7
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=lnf0F7HAMFw
 speaker: Amit Kukreja
-tags:
-  - earnings-reports
-  - market-volatility
-  - crypto-impact
-  - ai-revenue-guidance
-title: AMD财报深度解析：在市场抛售与加密货币崩盘中的关键考验
-summary: 在市场普遍下跌和加密货币市场大幅回调的背景下，AMD发布了最新财报。本次讨论深入分析了财报前的市场宏观环境，包括加密货币清算、政府停摆等因素。财报发布后，重点解读了AMD的关键数据、AI收入指引的重要性，以及与OpenAI合作的长期影响。同时，还快速回顾了SMCI、Rivian、Pinterest等多家公司的业绩表现，探讨了当前市场的恐慌情绪与投资机会。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Lisa Sue
-  - Sam Altman
-  - Jerome Powell
-  - Larry Ellison
-  - Donald Trump
-  - Vlad Tenev
-  - RJ Scaringe
-  - Michael Burry
-  - Tom Lee
-  - Palmer Luckey
-companies_orgs:
-  - AMD
-  - Super Micro Computer (SMCI)
-  - Arista Networks (ANET)
-  - Rivian
-  - Zeta Global
-  - Axon
-  - Pinterest
-  - OpenAI
-  - Oracle
-  - Microsoft
-  - TSMC
-  - Intel
-  - Nvidia
-  - Amazon
-  - Tesla
-  - Robinhood
-  - Palantir
-  - Google
-  - Schwab
-  - Anduril Industries
-products_models:
-  - EPYC
-  - Ryzen
-  - Instinct MI350
-  - Instinct MI450
-  - Helios
-  - ROCm 7
-media_books: []
 status: evergreen
+summary: 在市场普遍下跌和加密货币市场大幅回调的背景下，AMD发布了最新财报。本次讨论深入分析了财报前的市场宏观环境，包括加密货币清算、政府停摆等因素。财报发布后，重点解读了AMD的关键数据、AI收入指引的重要性，以及与OpenAI合作的长期影响。同时，还快速回顾了SMCI、Rivian、Pinterest等多家公司的业绩表现，探讨了当前市场的恐慌情绪与投资机会。
+tags:
+- crypto-impact
+- earnings-report
+- financial
+- market-volatility
+title: AMD财报深度解析：在市场抛售与加密货币崩盘中的关键考验
 ---
+
 ### 市场概览：加密货币崩盘引发的抛售潮
 
 好了，大家好。欢迎回到频道。我们现在进入市场收盘时刻。今天是一个非常特别的财报日。SMCI、Tempest、Arista、Rivian、Zeta、Axon、Pinterest，当然还有那家公司——当它股价远低于100美元时，这两位分析师就一直在分析它。他们当时就说：“嘿，我认为这值得买入。”而听了他们话的人肯定从中赚了些钱。AMD，Neil、Jose，你们好吗？

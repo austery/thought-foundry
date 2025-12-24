@@ -1,44 +1,43 @@
 ---
-author: TED
+area: society-thinking
+category: history
+companies_orgs:
+- TED
+- The Atlantic
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《如何成为一个更好的人》
+- 《言语如何传承》
+- 《地上》
+- 《计数下降》
+- 《独立宣言》
+- 《弗吉尼亚州札记》
+people:
+- Martin Luther King Jr.
+- Chris Duffy
+- Clint Smith
+- David Thorson
+- Thomas Jefferson
+products_models: []
+project:
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=hZMaiUsIQog
 speaker: TED
-tags:
-  - history
-  - honesty
-  - racial-inequality
-  - slavery
-  - education
-title: 诚实面对历史：黑人历史与美国社会的不公
-summary: 本期节目中，主持人**克里斯·达菲**与作家**克林特·史密斯**探讨了历史、记忆与怀旧的区别，以及诚实面对美国奴隶制历史的重要性。史密斯强调，理解过去的不公是理解当下社会不平等根源的关键，并呼吁在教育中平衡讲述历史的残酷与黑人生活的丰富性，以赋能年轻人，让他们能够理解并超越历史的暴力与压迫，共同面对复杂的社会现实。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - us-analysis
-people:
-  - Martin Luther King Jr.
-  - Chris Duffy
-  - Clint Smith
-  - David Thorson
-  - Thomas Jefferson
-companies_orgs:
-  - TED
-  - The Atlantic
-products_models: []
-media_books:
-  - 《如何成为一个更好的人》
-  - 《言语如何传承》
-  - 《地上》
-  - 《计数下降》
-  - 《独立宣言》
-  - 《弗吉尼亚州札记》
 status: evergreen
+summary: 本期节目中，主持人**克里斯·达菲**与作家**克林特·史密斯**探讨了历史、记忆与怀旧的区别，以及诚实面对美国奴隶制历史的重要性。史密斯强调，理解过去的不公是理解当下社会不平等根源的关键，并呼吁在教育中平衡讲述历史的残酷与黑人生活的丰富性，以赋能年轻人，让他们能够理解并超越历史的暴力与压迫，共同面对复杂的社会现实。
+tags:
+- education
+- honesty
+- racial-inequality
+- slavery
+title: 诚实面对历史：黑人历史与美国社会的不公
 ---
+
 ### 沉默的代价与个人真相
 
 在**马丁·路德·金**（Martin Luther King Jr.）1968年的一次演讲中，他反思民权运动时曾说：“最终，我们记住的不是敌人的言语，而是朋友的沉默。”作为一名教师，我深切体会到这句话的含义。我们每天都能看到沉默带来的后果，以歧视、暴力、种族灭绝和战争的形式显现。在课堂上，我鼓励学生通过诗歌探索自己生活中的“沉默地带”，共同努力去填补这些空白，认识并命名它们，理解它们并非羞耻的来源。为了在课堂上营造一个学生能够安全分享内心“沉默”的文化，我在教室前面的黑板上贴了四条核心原则，每位学生在学年开始时都会签署：批判性阅读，有意识地写作，清晰地表达，讲述你的真相。我经常思考最后一点——“讲述你的真相”。我意识到，如果我要求学生勇敢发声，那么我也必须讲述我的真相，并诚实地告诉他们我何时未能做到这一点。

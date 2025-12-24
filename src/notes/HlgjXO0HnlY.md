@@ -1,49 +1,49 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- MSCI
+- ServiceNow
+- Oracle
+- S&P Global
+- Fidelity
+- BMC
+- Salesforce
+- Microsoft
+- Palantir
+- Alibaba Cloud
+- Amazon Web Services
+- Microsoft Azure
+- Google Cloud
+- Workday
 date: '2025-07-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=HlgjXO0HnlY
 speaker: Shijun Tang
-tags:
-  - compound-growth-machine
-  - switching-costs
-  - network-effects
-  - subscription-economy
-  - cloud-infrastructure-race
-title: 我找到了一家新的复利机器：MSCI、ServiceNow 与 Oracle 的投资本质分析
-summary: 本文深入剖析了MSCI、ServiceNow和Oracle三家公司的商业模式、护城河与财务健康度，揭示指数服务、IT运维平台和企业数据库为何能成为‘复利机器’，并指出市场估值与基本面之间的巨大背离。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - MSCI
-  - ServiceNow
-  - Oracle
-  - S&P Global
-  - Fidelity
-  - BMC
-  - Salesforce
-  - Microsoft
-  - Palantir
-  - Alibaba Cloud
-  - Amazon Web Services
-  - Microsoft Azure
-  - Google Cloud
-  - Workday
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深入剖析了MSCI、ServiceNow和Oracle三家公司的商业模式、护城河与财务健康度，揭示指数服务、IT运维平台和企业数据库为何能成为‘复利机器’，并指出市场估值与基本面之间的巨大背离。
+tags:
+- economy
+- growth
+- infrastructure
+- network-effect
+- switching-cost
+title: 我找到了一家新的复利机器：MSCI、ServiceNow 与 Oracle 的投资本质分析
 ---
+
 ### MSCI：指数霸权与气候评级的复利引擎
 
 我找到了一家新的复利机器！这家公司的基本面几乎可以说是无懈可击，并且拥有极宽的护城河。今天我要谈的就是美股中的 **MSCI**（Morgan Stanley Capital International：全球领先的指数与投资决策数据提供商）。

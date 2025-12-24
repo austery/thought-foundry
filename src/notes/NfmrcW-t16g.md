@@ -1,30 +1,29 @@
 ---
-title: 华尔街之神还是内幕交易之王？史蒂文·科恩与黑金迷局
-summary: 史蒂文·科恩，华尔街传奇，其对冲基金SAC资本以30%年化回报率闻名。然而，他也被FBI视为史上最大内幕交易网络核心。本文将深入探讨科恩的投资神话，以及他是否利用“黑金”捷径，揭示华尔街不为人知的腐败生态。
 area: null
 category: null
-project: []
-tags:
-- hedge-funds
-- insider-trading
-- wall-street
-people:
-- steven-cohen
 companies_orgs:
 - sac-capital
-products_models: []
-media_books: []
 date: '2025-09-24'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- steven-cohen
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NfmrcW-t16g
+speaker: 北美王路飞
 status: evergreen
+summary: 史蒂文·科恩，华尔街传奇，其对冲基金SAC资本以30%年化回报率闻名。然而，他也被FBI视为史上最大内幕交易网络核心。本文将深入探讨科恩的投资神话，以及他是否利用“黑金”捷径，揭示华尔街不为人知的腐败生态。
+tags:
+- insider-trading
+- investment
+- wall-street
+title: 华尔街之神还是内幕交易之王？史蒂文·科恩与黑金迷局
 ---
+
 ### 引言：华尔街的传奇与争议
 
 本期节目将开启一个新系列，其后续制作速度将取决于观众的反馈。如果您对本节目内容感兴趣，请在评论区留言、点赞并分享，这将帮助我决定是否加快制作进度。

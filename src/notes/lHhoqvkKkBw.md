@@ -1,105 +1,105 @@
 ---
-author: Best Partners TV
+area: market-analysis
+category: business
+companies_orgs:
+- Microsoft
+- OpenAI
+- Oracle
+- CoreWeave
+- Amazon
+- Google
+- Meta
+- SemiAnalysis
+- Nscale
+- SB能源公司
+- Anthropic
+- HuggingFace
+- Snowflake
+- PeriodicLabs
+- AdaptiveML
+- Modular
+- Neurophos
+- TSMC
+- xAI
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- SemiAnalysis万字报告
+people:
+- Sundar Pichai
+products_models:
+- ChatGPT
+- GPT-3.5
+- GPT-4
+- H100
+- A100
+- H200
+- GB200
+- GB300 NVL72
+- Azure
+- Fairwater计划
+- StarGate
+- Azure Foundry
+- Microsoft 365 Copilot
+- GitHub Copilot
+- Claude Code
+- Cursor
+- Agent HQ
+- MAI-1
+- Excel Agent
+- SpreadsheetBench
+- GPT-4o
+- Claude Opus 4.1
+- Maia 100
+- Maia 200
+- Maia 300
+- TPUv5p
+- Trainium2E
+- TPUv7
+- MTIA Athena
+- Iris
+- Arke
+- Vera Rubin
+- Blackwell
+- Titan
+- Modular MAX
+- vLLM
+- SGLang
+- Neurophos OPU
+- Clos网络拓扑
+- Spectrum-X SN5600
+- Spectrum-5 512端口交换机
+- CX-8网卡
+- PXN
+- NVLink
+- MRC协议
+- AI广域网
+- OCS
+- Apollo OCS
+- DWDM
+- RLS
+- ZR光模块
+project:
+- ai-impact-analysis
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=lHhoqvkKkBw
 speaker: Best Partners TV
-tags:
-  - ai-strategy
-  - data-center-investment
-  - custom-ai-chips
-  - network-architecture
-  - market-competition
-title: 微软AI战略：从巅峰跌落到反攻之路——深度解析其失误与未来布局
-summary: 本文深度解析了微软在AI领域的战略演变。从2023年作为AI赛道领导者的大胆投资，到2024年突然“踩刹车”导致市场份额流失，再到2025年高调回归，试图通过多元算力、Token即服务模式和网络架构创新重夺主导权。文章基于SemiAnalysis报告，剖析了微软在AI需求误判、自建项目执行缓慢、利润率权衡、自研芯片困境等方面的失误，并探讨了其在PaaS层、应用层及网络架构上的优势与挑战，展望了微软在激烈AI竞争中的未来走向。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - market-cycles
-people:
-  - Sundar Pichai
-companies_orgs:
-  - Microsoft
-  - OpenAI
-  - Oracle
-  - CoreWeave
-  - Amazon
-  - Google
-  - Meta
-  - SemiAnalysis
-  - Nscale
-  - SB能源公司
-  - Anthropic
-  - HuggingFace
-  - Snowflake
-  - PeriodicLabs
-  - AdaptiveML
-  - Modular
-  - Neurophos
-  - TSMC
-  - xAI
-products_models:
-  - ChatGPT
-  - GPT-3.5
-  - GPT-4
-  - H100
-  - A100
-  - H200
-  - GB200
-  - GB300 NVL72
-  - Azure
-  - Fairwater计划
-  - StarGate
-  - Azure Foundry
-  - Microsoft 365 Copilot
-  - GitHub Copilot
-  - Claude Code
-  - Cursor
-  - Agent HQ
-  - MAI-1
-  - Excel Agent
-  - SpreadsheetBench
-  - GPT-4o
-  - Claude Opus 4.1
-  - Maia 100
-  - Maia 200
-  - Maia 300
-  - TPUv5p
-  - Trainium2E
-  - TPUv7
-  - MTIA Athena
-  - Iris
-  - Arke
-  - Vera Rubin
-  - Blackwell
-  - Titan
-  - Modular MAX
-  - vLLM
-  - SGLang
-  - Neurophos OPU
-  - Clos网络拓扑
-  - Spectrum-X SN5600
-  - Spectrum-5 512端口交换机
-  - CX-8网卡
-  - PXN
-  - NVLink
-  - MRC协议
-  - AI广域网
-  - OCS
-  - Apollo OCS
-  - DWDM
-  - RLS
-  - ZR光模块
-media_books:
-  - SemiAnalysis万字报告
 status: evergreen
+summary: 本文深度解析了微软在AI领域的战略演变。从2023年作为AI赛道领导者的大胆投资，到2024年突然“踩刹车”导致市场份额流失，再到2025年高调回归，试图通过多元算力、Token即服务模式和网络架构创新重夺主导权。文章基于SemiAnalysis报告，剖析了微软在AI需求误判、自建项目执行缓慢、利润率权衡、自研芯片困境等方面的失误，并探讨了其在PaaS层、应用层及网络架构上的优势与挑战，展望了微软在激烈AI竞争中的未来走向。
+tags:
+- ai-strategy
+- architecture
+- custom-ai-chip
+- data-center-investment
+- market
+title: 微软AI战略：从巅峰跌落到反攻之路——深度解析其失误与未来布局
 ---
+
 ### 微软AI战略的跌宕起伏：从巅峰到反攻
 
 大家好，这里是最佳拍档。本期节目我们将深入探讨微软的AI发展之路。

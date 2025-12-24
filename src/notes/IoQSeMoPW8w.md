@@ -1,56 +1,56 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 普林斯顿大学
+- 美国国务院
+- 白宫
+- 伊朗外交部
+- 伊朗伊斯兰革命卫队
+- 伊朗情报部
+- 美国国家安全委员会
+- 伊朗伊斯兰革命法庭
+- 瑞士大使馆
+- FBI
 date: '2024-05-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华盛顿邮报》
+- 《纽约时报》
+- 《古拉格群岛》
+- 《逃离德黑兰》
+- NPR
+- 《凡文长诗与史》
+people:
+- 王熙月
+- 曲化
+- 柴静
+- 约翰·霍尔登
+- 尼扎尔·扎卡
+- 唐纳德·特朗普
+- 巴拉克·奥巴马
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=IoQSeMoPW8w
 speaker: 柴静 Chai Jing
-tags:
-  - hostage-diplomacy
-  - iran-us-relations
-  - academic-freedom
-  - solitary-confinement
-  - family-advocacy
-title: 华裔学者王熙月伊朗蒙冤记：绝境中的人性与营救
-summary: 本文记录了美籍华裔学者王熙月在伊朗被指控间谍罪并获刑十年的经历。详细描述了他在埃文监狱遭受单独囚禁的心理冲击，以及妻子曲化长达三年不懈的营救行动。文章还揭示了普林斯顿大学和美国政府在初期处理上的沉默与不足，以及中国留学生自发组织“读书小组”对王熙月精神上的支持。最终，通过多方努力和曲化的直接推动，王熙月得以获释，并对这段经历进行了深刻反思。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 王熙月
-  - 曲化
-  - 柴静
-  - 约翰·霍尔登
-  - 尼扎尔·扎卡
-  - 唐纳德·特朗普
-  - 巴拉克·奥巴马
-companies_orgs:
-  - 普林斯顿大学
-  - 美国国务院
-  - 白宫
-  - 伊朗外交部
-  - 伊朗伊斯兰革命卫队
-  - 伊朗情报部
-  - 美国国家安全委员会
-  - 伊朗伊斯兰革命法庭
-  - 瑞士大使馆
-  - FBI
-products_models: []
-media_books:
-  - 《华盛顿邮报》
-  - 《纽约时报》
-  - 《古拉格群岛》
-  - 《逃离德黑兰》
-  - NPR
-  - 《凡文长诗与史》
 status: evergreen
+summary: 本文记录了美籍华裔学者王熙月在伊朗被指控间谍罪并获刑十年的经历。详细描述了他在埃文监狱遭受单独囚禁的心理冲击，以及妻子曲化长达三年不懈的营救行动。文章还揭示了普林斯顿大学和美国政府在初期处理上的沉默与不足，以及中国留学生自发组织“读书小组”对王熙月精神上的支持。最终，通过多方努力和曲化的直接推动，王熙月得以获释，并对这段经历进行了深刻反思。
+tags:
+- diplomacy
+- family
+- freedom
+- relations
+- society
+title: 华裔学者王熙月伊朗蒙冤记：绝境中的人性与营救
 ---
+
 ### 案件背景与人性抉择
 
 五年前，我曾想制作一个故事，当时美国和伊朗这两个长期敌对的国家在中立国瑞士交换囚犯。美籍华裔学者王熙月被释放回家，此前这位普林斯顿大学的历史学博士在伊朗被指控犯有间谍罪，获刑十年。这个故事吸引我的不是其中的政治，而是人性。王熙月能够逃离德黑兰，重获自由，是因为他的妻子曲化在三年中从未停止的营救。而他能够在伊朗监狱活下去，是因为有一位中国留学生组织了“为王熙月读书小组”。今天，我将与他们对话。

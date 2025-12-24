@@ -1,56 +1,54 @@
 ---
-author: 徒步的騎手
-date: 2025-06-15
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=rqgdHu3WM3E'
-speaker: 徒步的騎手
-tags:
-  - us-election-2024
-  - political-polarization
-  - immigration-policy
-  - protest-movements
-  - rule-of-law
-title: 川普阅兵引发全国抗议：民主党困境与美国民意走向
-summary: 本文深入探讨了川普阅兵引发的全国性“不要国王日”抗议活动，以及洛杉矶骚乱背后的政治和社会深层原因。文章分析了美国民众对阅兵和移民执法的不同态度，指出民主党在移民政策上的失误及其对选情的影响。同时，对比了加州不同城市在处理抗议活动中的表现，强调了法治和公民常识在维护社会稳定中的重要性，并对美国政治的未来走向进行了反思。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - George H.W. Bush
-  - Vladimir Putin
-  - Xi Jinping
-  - Joseph Stalin
-  - Adolf Hitler
-  - Kim Jong Un
-  - Gavin Newsom
-  - Karen Bass
-  - Charles Breyer
-  - Daniel Lurie
-  - John Fetterman
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - US Army
-  - Los Angeles Police Department
-  - Immigration and Customs Enforcement
-  - California National Guard
-  - Democratic Party
-  - Republican Party
-  - Hamas
-products_models: '[]'
+- US Army
+- Los Angeles Police Department
+- Immigration and Customs Enforcement
+- California National Guard
+- Democratic Party
+- Republican Party
+- Hamas
+date: 2025-06-15
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - The Pledge of Allegiance
-  - The Economist
-  - The Wall Street Journal
-  - CBS
-  - CNN
-  - Syracuse University
+- The Pledge of Allegiance
+- The Economist
+- The Wall Street Journal
+- CBS
+- CNN
+- Syracuse University
+people:
+- Donald Trump
+- George H.W. Bush
+- Vladimir Putin
+- Xi Jinping
+- Joseph Stalin
+- Adolf Hitler
+- Kim Jong Un
+- Gavin Newsom
+- Karen Bass
+- Charles Breyer
+- Daniel Lurie
+- John Fetterman
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=rqgdHu3WM3E
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了川普阅兵引发的全国性“不要国王日”抗议活动，以及洛杉矶骚乱背后的政治和社会深层原因。文章分析了美国民众对阅兵和移民执法的不同态度，指出民主党在移民政策上的失误及其对选情的影响。同时，对比了加州不同城市在处理抗议活动中的表现，强调了法治和公民常识在维护社会稳定中的重要性，并对美国政治的未来走向进行了反思。
+tags:
+- immigration-policy
+- movement
+- rule-of-law
+- us-election-2024
+title: 川普阅兵引发全国抗议：民主党困境与美国民意走向
 ---
 
 ### 川普阅兵与“不要国王日”抗议

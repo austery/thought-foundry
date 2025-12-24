@@ -1,17 +1,15 @@
 ---
-title: 20分钟速览：理解全球经济的十大核心理论
-summary: 本文深入浅出地解释了十大主流经济理论，从古典经济学的“看不见的手”到行为经济学的人类非理性，再到发展经济学和公共选择理论。通过对这些理论的剖析，读者将全面理解经济学如何解释市场运作、社会发展和政策制定，以及不同学派对经济挑战的独特视角。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- economic-theories
-- government-intervention
-- human-behavior
-- institutional-economics
-- market-mechanisms
+companies_orgs: []
+date: '2024-12-23'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- Beautiful Mind
+- The Wealth of Nations
 people:
 - Adam Smith
 - Amos Tversky
@@ -32,26 +30,28 @@ people:
 - Muhammad Yunus
 - Ronald Coase
 - adam-s-axiom
-companies_orgs: []
 products_models:
 - Bolsa Familia
 - Laffer Curve
 - Nash Equilibrium
 - Prisoner's Dilemma
-media_books:
-- Beautiful Mind
-- The Wealth of Nations
-date: '2024-12-23'
-author: Adam's Axiom
-speaker: Adam's Axiom
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=dQ_UPQa3CUE
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入浅出地解释了十大主流经济理论，从古典经济学的“看不见的手”到行为经济学的人类非理性，再到发展经济学和公共选择理论。通过对这些理论的剖析，读者将全面理解经济学如何解释市场运作、社会发展和政策制定，以及不同学派对经济挑战的独特视角。
+tags:
+- economic-theory
+- government-intervention
+- human-behavior
+- institutional
+- market
+title: 20分钟速览：理解全球经济的十大核心理论
 ---
+
 ### 古典经济学：看不见的手
 
 古典经济学将经济体描绘成一台庞大的机器，在不受干预时运行最佳。

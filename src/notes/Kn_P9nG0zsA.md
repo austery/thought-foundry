@@ -1,115 +1,113 @@
 ---
-author: The Pragmatic Engineer
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Oxide
+- Sun Microsystems
+- Cisco
+- AT&T
+- GNU
+- AWS
+- Joyent
+- Enron
+- JDS Uniphase
+- Global Crossing
+- MCI WorldCom
+- Linear
+- GitHub
+- OpenAI
+- Google
+- Microsoft
+- Notion
+- HP
+- Super Micro
+- Samsung
+- Basecamp
+- AMD
+- Intel
+- Barefoot
+- Broadcom
+- Renesas
+- GE Medical
+- Dell
+- Apple
+- Lockheed Martin
+- Data General
+- Oculus
+- Benchmark Electronics
+- Statsig
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《新机器的灵魂》
+- 《臭鼬工厂》
+- 《史蒂夫·乔布斯与下一个大事件》
+- 《仓库规模的计算机》
+- 《创始人模式》
+people:
+- Brian Caner
+- Jeff Bonwick
+- Matt Erenss
+- Greg Papadopoulos
+- Larry Ellison
+- Jeff Bezos
+- Kat Cosgrove
+- Craig Mccau
+- Arman Ronacher
+- Richard Sutton
+- Simon Wilson
+- Dave Pacico
+- Tom West
+- Ben Rich
+- Clarence Kelly Thompson
+- Randall Straws
+- Steve Jobs
+products_models:
+- Solaris
+- SPARC
+- x86
+- ZFS
+- DTrace
+- Service Management Facility
+- XFS
+- IRIX
+- EC2
+- S3
+- Kubernetes
+- Borg
+- Elastic Beanstalk
+- Green Grass
+- Redshift
+- AMD Milan
+- AMD Turin
+- Hubris
+- Humility
+- Omicron
+- DDR5
+- PCIe
+- Intel Tofino
+- SolidWorks
+- Altium
+- CT systems
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Kn_P9nG0zsA
 speaker: The Pragmatic Engineer
-tags:
-  - llm
-  - prompt-engineering
-  - hardware-engineering
-  - cloud-computing
-  - open-source
-  - startup-culture
-  - software-development
-title: 服务器、云计算与未来：Oxide的硬件软件创新之路
-summary: 本期播客深入探讨了服务器和云计算的历史演变，从90年代的互联网泡沫到现代超大规模数据中心。Oxide联合创始人Brian Caner分享了公司如何从零开始构建硬件和软件，包括定制服务器和交换机，以及他们独特的开放文化和薪酬体系。节目还讨论了AI工具在软件工程中的应用局限性，特别是在硬件开发领域的无用性，并对年轻工程师提出了职业发展建议。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Brian Caner
-  - Jeff Bonwick
-  - Matt Erenss
-  - Greg Papadopoulos
-  - Larry Ellison
-  - Jeff Bezos
-  - Kat Cosgrove
-  - Craig Mccau
-  - Arman Ronacher
-  - Richard Sutton
-  - Simon Wilson
-  - Dave Pacico
-  - Tom West
-  - Ben Rich
-  - Clarence Kelly Thompson
-  - Randall Straws
-  - Steve Jobs
-companies_orgs:
-  - Oxide
-  - Sun Microsystems
-  - Cisco
-  - AT&T
-  - GNU
-  - AWS
-  - Joyent
-  - Enron
-  - JDS Uniphase
-  - Global Crossing
-  - MCI WorldCom
-  - Linear
-  - GitHub
-  - OpenAI
-  - Google
-  - Microsoft
-  - Notion
-  - HP
-  - Super Micro
-  - Samsung
-  - Basecamp
-  - AMD
-  - Intel
-  - Barefoot
-  - Broadcom
-  - Renesas
-  - GE Medical
-  - Dell
-  - Apple
-  - Lockheed Martin
-  - Data General
-  - Oculus
-  - Benchmark Electronics
-  - Statsig
-products_models:
-  - Solaris
-  - SPARC
-  - x86
-  - ZFS
-  - DTrace
-  - Service Management Facility
-  - XFS
-  - IRIX
-  - EC2
-  - S3
-  - Kubernetes
-  - Borg
-  - Elastic Beanstalk
-  - Green Grass
-  - Redshift
-  - AMD Milan
-  - AMD Turin
-  - Hubris
-  - Humility
-  - Omicron
-  - DDR5
-  - PCIe
-  - Intel Tofino
-  - SolidWorks
-  - Altium
-  - CT systems
-media_books:
-  - 《新机器的灵魂》
-  - 《臭鼬工厂》
-  - 《史蒂夫·乔布斯与下一个大事件》
-  - 《仓库规模的计算机》
-  - 《创始人模式》
 status: evergreen
+summary: 本期播客深入探讨了服务器和云计算的历史演变，从90年代的互联网泡沫到现代超大规模数据中心。Oxide联合创始人Brian Caner分享了公司如何从零开始构建硬件和软件，包括定制服务器和交换机，以及他们独特的开放文化和薪酬体系。节目还讨论了AI工具在软件工程中的应用局限性，特别是在硬件开发领域的无用性，并对年轻工程师提出了职业发展建议。
+tags:
+- cloud-computing
+- engineering
+- open-source
+- software-development
+- startup-culture
+title: 服务器、云计算与未来：Oxide的硬件软件创新之路
 ---
+
 ### 互联网泡沫与创新驱动
 
 主持人开场提问了关于互联网泡沫时期的情况，以及AI工具如何改变了 **Oxide** 的工作方式。**Brian Caner**，曾是 **Sun Microsystems** 的杰出工程师，亲历了互联网的繁荣与萧条，后来创立了 **Joyent**（**AWS** 的早期竞争者），现在是 **Oxide** 的联合创始人。他指出，在互联网泡沫破裂时期，他们反而完成了更多技术上有趣的工作。他认为，创新在某种程度上需要一定程度的绝望，而在经济繁荣时期，这种绝望感很难被激发。AI工具在 **Oxide** 主要作为“润色工具”使用，而非创造的核心。本期播客将深入探讨服务器和云计算的历史，从1990年代末至今，以及从零开始构建 **Oxide** 计算机等硬件所面临的挑战。此外，还将讨论 **Oxide** 团队如何使用AI，为何他们认为AI在硬件工程挑战中几乎无用，以及 **Oxide** 为何将所有产品开源，以及作为一家硬件初创公司如何实现远程工作等。本期节目由 **Statsig** 赞助，这是一个用于功能标志、分析和实验的统一平台。

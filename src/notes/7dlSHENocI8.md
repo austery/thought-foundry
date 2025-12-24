@@ -1,48 +1,48 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: business
+companies_orgs:
+- Grindr
+- Goldman Sachs
+- Ningi Research
+- Tinder
+- HIMS
+- FBI
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily Beast
+- Glassdoor
+- Reddit
+people:
+- George Arison
+- Raymond Zage
+- James Lu
+- Cory Doctorow
+products_models:
+- Instagram
+- Tesla
+project:
+- systems-thinking
+- entrepreneurship
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=7dlSHENocI8
 speaker: 北美王路飞
-tags:
-  - platform-enshittification
-  - corporate-governance
-  - financial-leverage
-  - user-exploitation
-  - business-ethics
-title: 彩虹帝国下的铁王座：两个直男如何“榨干”全球最大的同志社交应用Grindr
-summary: 本文深入剖析了全球最大同志社交应用Grindr在两位直男大股东和CEO掌控下的权力斗争与资本运作。揭露了公司为追求短期股价和高管奖金，不惜通过虚假数据、平台恶化（Enshittification）和裁员等手段，牺牲用户体验和社区信任。文章详细阐述了高杠杆质押、财务造假、强制返工以瓦解工会、以及售卖壮阳药等一系列争议性策略，最终导致平台走向“大便化”的深渊。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - systems-thinking
-  - entrepreneurship
-  - market-cycles
-people:
-  - George Arison
-  - Raymond Zage
-  - James Lu
-  - Cory Doctorow
-companies_orgs:
-  - Grindr
-  - Goldman Sachs
-  - Ningi Research
-  - Tinder
-  - HIMS
-  - FBI
-products_models:
-  - Instagram
-  - Tesla
-media_books:
-  - The Daily Beast
-  - Glassdoor
-  - Reddit
 status: evergreen
+summary: 本文深入剖析了全球最大同志社交应用Grindr在两位直男大股东和CEO掌控下的权力斗争与资本运作。揭露了公司为追求短期股价和高管奖金，不惜通过虚假数据、平台恶化（Enshittification）和裁员等手段，牺牲用户体验和社区信任。文章详细阐述了高杠杆质押、财务造假、强制返工以瓦解工会、以及售卖壮阳药等一系列争议性策略，最终导致平台走向“大便化”的深渊。
+tags:
+- business
+- corporate-governance
+- financial
+- geopolitical
+- platform
+title: 彩虹帝国下的铁王座：两个直男如何“榨干”全球最大的同志社交应用Grindr
 ---
+
 ### 狂欢背后的阴影：Grindr的“欲望舞会”与缺席的国王
 
 如果在这个星球上有一个地方能让你感到彻底的释放，那大概就是2015年万圣节前夕的纽约。**Grindr**（全球最大的同志社交应用）在切尔西区举办了它的第二届年度盛会——“欲望舞会 Pleasure Ball”。邀请函上印着一句极具挑逗又充满野性的话：“大自然是弯的，而且它饿了。”现场是一场视觉的盛宴，空气里弥漫着荷尔蒙的味道，到处都是打扮成性感精灵、神兽的年轻人。这里有纽约顶级的广告高管，有拥有百万粉丝的网红，当然了，还有这晚的焦点Grindr CEO George Arison。这位Arison先生当晚盛装出席，天鹅绒西装，胸前别着几枚极其抢眼的昆虫胸针，仿佛他是这片欲望花园的园丁。

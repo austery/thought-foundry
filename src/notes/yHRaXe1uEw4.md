@@ -1,54 +1,53 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-08-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《100个哲学大概念开悟人生》
+- 《申辩篇》
+- 《克力同篇》
+- 《斐多篇》
+- 《第七封信》
+- 《云》
+- 《苏格拉底之死》
+- 《死亡问题》
+people:
+- Socrates
+- Jesus
+- 岳飞
+- Plato
+- Crito
+- Xanthippe
+- Aristophanes
+- Strepsiades
+- Alcibiades
+- Critias
+- Charmides
+- Anytus
+- Meletus
+- Jacques-Louis David
+- socrates-death
+products_models: []
+project:
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=yHRaXe1uEw4
 speaker: 大问题Dialectic
-tags:
-  - socrates-death
-  - athenian-democracy
-  - philosophical-inquiry
-  - soul-immortality
-  - plato-political-philosophy
-title: 苏格拉底的真实死因：真理、民主与哲学的殉道
-summary: 本讲揭示了古希腊哲学家苏格拉底被雅典民主投票判处死刑的真实原因。他因坚持哲学探讨、不惧死亡，拒绝妥协，最终从容赴死。这一事件对他的学生柏拉图产生了深远影响，促使柏拉图对雅典民主制产生反感，并开始构建其理想国的政治哲学。文章通过串联柏拉图的多篇对话录，还原了苏格拉底之死的全过程及其深层政治背景。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Socrates
-  - Jesus
-  - 岳飞
-  - Plato
-  - Crito
-  - Xanthippe
-  - Aristophanes
-  - Strepsiades
-  - Alcibiades
-  - Critias
-  - Charmides
-  - Anytus
-  - Meletus
-  - Jacques-Louis David
-companies_orgs: []
-products_models: []
-media_books:
-  - 《100个哲学大概念开悟人生》
-  - 《申辩篇》
-  - 《克力同篇》
-  - 《斐多篇》
-  - 《第七封信》
-  - 《云》
-  - 《苏格拉底之死》
-  - 《死亡问题》
 status: evergreen
+summary: 本讲揭示了古希腊哲学家苏格拉底被雅典民主投票判处死刑的真实原因。他因坚持哲学探讨、不惧死亡，拒绝妥协，最终从容赴死。这一事件对他的学生柏拉图产生了深远影响，促使柏拉图对雅典民主制产生反感，并开始构建其理想国的政治哲学。文章通过串联柏拉图的多篇对话录，还原了苏格拉底之死的全过程及其深层政治背景。
+tags:
+- geopolitical
+- philosophy
+- plato-political-philosophy
+title: 苏格拉底的真实死因：真理、民主与哲学的殉道
 ---
+
 ### 苏格拉底之死：西方历史上的重大哲学事件
 
 哲学家**苏格拉底**（Socrates: 古希腊著名哲学家，被誉为西方哲学的奠基人之一）是历史上唯一一个通过民主投票的方式被雅典民众判处死刑的哲学家。这位哲学家究竟做了什么，能得罪广大老百姓呢？今天这一讲，我们将揭示苏格拉底的真实死因。欢迎来到《100个哲学大概念开悟人生》。

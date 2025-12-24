@@ -1,61 +1,60 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 东京大学
+- 南京大学
+- 香港大学
+- 笹川平和基金会
+- 产经新闻
+- 日经新闻
+- 复旦大学
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 阿古智子
+- 高市早苗
+- 安倍晋三
+- Xi Jinping
+- 李登辉
+- 冯锦华
+- 铃木英司
+- 李克强
+- 许志永
+- 高智晟
+- 何俊仁
+- 余文生
+- 丁家喜
+- 孙中山
+- 蒋介石
+- 丸山真男
+- 王毅
+- 冯德莱恩
+- 沈逸
+- 张雪峰
+products_models:
+- TikTok
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ZwdWBeCTWW0
 speaker: 三個水槍手
-tags:
-  - sino-japanese-relations
-  - political-communication
-  - nationalism
-  - historical-narrative
-  - cross-strait-relations
-title: 阿古智子：我如何目睹中国成为一个不可沟通的国度
-summary: 东京大学教授阿古智子深入剖析了中日关系恶化的根源。她认为，问题的核心在于中国内部的剧烈变化，特别是言论空间的收缩和民族主义的兴起，导致两国在官方和民间层面都变得“不可沟通”。她探讨了从2012年反日游行至今的演变，分析了中国超越日本后的“弑父情结”心理，并对台湾问题、两国历史教育以及中国社会内部的困境提出了深刻见解。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 阿古智子
-  - 高市早苗
-  - 安倍晋三
-  - 习近平
-  - 李登辉
-  - 冯锦华
-  - 铃木英司
-  - 李克强
-  - 许志永
-  - 高智晟
-  - 何俊仁
-  - 余文生
-  - 丁家喜
-  - 孙中山
-  - 蒋介石
-  - 丸山真男
-  - 王毅
-  - 冯德莱恩
-  - 沈逸
-  - 张雪峰
-companies_orgs:
-  - 东京大学
-  - 南京大学
-  - 香港大学
-  - 笹川平和基金会
-  - 产经新闻
-  - 日经新闻
-  - 复旦大学
-products_models:
-  - TikTok
-media_books: []
 status: evergreen
+summary: 东京大学教授阿古智子深入剖析了中日关系恶化的根源。她认为，问题的核心在于中国内部的剧烈变化，特别是言论空间的收缩和民族主义的兴起，导致两国在官方和民间层面都变得“不可沟通”。她探讨了从2012年反日游行至今的演变，分析了中国超越日本后的“弑父情结”心理，并对台湾问题、两国历史教育以及中国社会内部的困境提出了深刻见解。
+tags:
+- cross-strait-relations
+- historical-narrative
+- nationalism
+- political
+- sino-japanese-relations
+title: 阿古智子：我如何目睹中国成为一个不可沟通的国度
 ---
+
 ### 对当前中日关系的深切担忧
 
 我非常荣幸能与大家交流。我叫阿古智子，是东京大学的教授，长期从事中国研究。我在香港读的博士，过去十多年来，我密切关注中国的政治变动，并致力于促进中日之间的民间学术与文化交流。我甚至在中国举办了婚礼，有长期的田野调查经验，对中国的亲身感受很深，在中国**喝茶**（中国网络用语：指被国家安全部门约谈或警告）的经验可能超过了九成九的网友。

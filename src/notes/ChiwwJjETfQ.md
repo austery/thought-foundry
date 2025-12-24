@@ -1,30 +1,29 @@
 ---
-title: 硅谷之王的复仇：蒂尔团队如何利用“超重女性”陪审团绞杀Gawker
-summary: 本文揭示了Peter Thiel团队如何通过精密的模拟庭审和心理战，在与Gawker Media的亿万官司中，将“超重女性”作为秘密武器，最终在法庭上实现惊天逆转，并强调了理解环境与受众的重要性。
 area: null
 category: null
-project: []
-tags:
-- gawker-media
-- jury-strategy
-- legal-battle
-- media-ethics
-people:
-- peter-thiel
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-14'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- peter-thiel
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ChiwwJjETfQ
+speaker: 北美王路飞
 status: evergreen
+summary: 本文揭示了Peter Thiel团队如何通过精密的模拟庭审和心理战，在与Gawker Media的亿万官司中，将“超重女性”作为秘密武器，最终在法庭上实现惊天逆转，并强调了理解环境与受众的重要性。
+tags:
+- gawker-media
+- legal
+- media
+- strategy
+title: 硅谷之王的复仇：蒂尔团队如何利用“超重女性”陪审团绞杀Gawker
 ---
+
 ### 序言：决战前夜的暗流涌动
 
 大家好，欢迎来到我的频道。今天，本系列节目将进入最高潮的部分。上一期我们探讨了**彼得·蒂尔**（Peter Thiel: 硅谷知名投资人，PayPal联合创始人）的团队如何在幕后通过保密、分化、制造混乱等一系列手段，将不可一世的**Gawker Media**（一家以八卦和争议性报道闻名的美国在线媒体公司）拖入一场多线作战的战争泥潭。他们不仅在正面战场以**霍根**（Hulk Hogan: 美国著名职业摔跤手）的案子牵制Gawker，还在侧翼利用实习生案、玩家们事件等不断消耗Gawker的元气，甚至运用精妙的法律诡计切断了Gawker保险公司的“大血包”。然而，所有这些暗战与计谋都仅仅是前菜，真正的决战终将回到法庭。

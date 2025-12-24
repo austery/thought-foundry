@@ -1,71 +1,71 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Google
+- OpenAI
+- Anthropic
+- XAI
+- Meta
+- Microsoft
+- Amazon
+- Pitchbook
+- 华为
+- 中芯国际
+- 甲骨文
+- 软银
+- Alibaba
+- 腾讯
+- Manus
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- attention is all you need
+- The New York Times
+people:
+- Sam Altman
+- Elon Musk
+- Andy Jassy
+- JD Vance
+- Donald Trump
+- 李强
+- Xi Jinping
+- 黄仁勋
+- Sarah Silverman
+products_models:
+- ChatGPT
+- GPT-4
+- DeepSeek
+- Moonshot
+- 通义千问
+- Claude
+- H100
+- Blackwell
+- A800
+- H800
+- Ascend 910C
+- Ascend 910B
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=7avo_mHcSLU
 speaker: 北美王路飞
-tags:
-  - ai-competition
-  - us-china-rivalry
-  - technological-supremacy
-  - open-source-strategy
-  - power-grid-challenge
-title: 中美AI终局之战：谁将定义21世纪的技术超级大国？
-summary: 当前全球AI竞赛已演变为中美两强对决。本文深入剖析了这场“铁人五项”式的体系对抗，从模型战略、国家意志、资金投入、人才储备以及基础设施与软肋五个核心战场，揭示了美国在顶尖技术和创新上的领先，以及中国在规模化、成本控制和战略普及上的独特优势。最终，这场对决的结果将深远影响全球技术标准和未来生活方式。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Sam Altman
-  - Elon Musk
-  - Andy Jassy
-  - JD Vance
-  - Donald Trump
-  - 李强
-  - 习近平
-  - 黄仁勋
-  - Sarah Silverman
-companies_orgs:
-  - Google
-  - OpenAI
-  - Anthropic
-  - XAI
-  - Meta
-  - Microsoft
-  - Amazon
-  - Pitchbook
-  - 华为
-  - 中芯国际
-  - 甲骨文
-  - 软银
-  - 阿里巴巴
-  - 腾讯
-  - Manus
-products_models:
-  - ChatGPT
-  - GPT-4
-  - DeepSeek
-  - Moonshot
-  - 通义千问
-  - Claude
-  - H100
-  - Blackwell
-  - A800
-  - H800
-  - Ascend 910C
-  - Ascend 910B
-media_books:
-  - attention is all you need
-  - The New York Times
 status: evergreen
+summary: 当前全球AI竞赛已演变为中美两强对决。本文深入剖析了这场“铁人五项”式的体系对抗，从模型战略、国家意志、资金投入、人才储备以及基础设施与软肋五个核心战场，揭示了美国在顶尖技术和创新上的领先，以及中国在规模化、成本控制和战略普及上的独特优势。最终，这场对决的结果将深远影响全球技术标准和未来生活方式。
+tags:
+- ai-competition
+- power
+- strategy
+- technological
+- us-china-relations
+title: 中美AI终局之战：谁将定义21世纪的技术超级大国？
 ---
+
 ### AI竞赛：全球格局已定，中美双雄对决
 
 如果你对人工智能（**AI**：Artificial Intelligence）的认知还停留在2022年底，即**ChatGPT**（Generative Pre-trained Transformer: 一种大型语言模型）刚刚引爆全球的时刻，你可能仍认为这是一场全球各国共同参与的百米冲刺。然而，时至2025年底，一个残酷的现实是：这场竞赛已不再是百米冲刺，也几乎不再是所有国家的参与。经过近三年的AI狂潮，绝大多数国家，无论如何努力，都已然掉队。真正留在牌桌上，进行一场无限注豪赌的超级玩家，只剩下美国和中国。

@@ -1,44 +1,44 @@
 ---
-author: 知行小酒馆
+area: personal-systems
+category: career
+companies_orgs:
+- 有志有行
+- ITF
+- 国家体育总局
 date: '2025-10-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 知行小酒馆
+- 小红书
+people:
+- 朝珺
+- 孟严
+- 萧羽
+- 郑钦文
+products_models:
+- Web3
+- 元宇宙
+- AI
+project:
+- personal-growth-lab
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=sy99_P0P6iY
 speaker: 知行小酒馆
-tags:
-  - career-transition
-  - fear-driven-motivation
-  - self-discovery
-  - product-thinking
-title: 前COO的四十岁转型：从恐惧驱动到热爱驱动，在网球场上重塑人生
-summary: 朝珺，一位前游戏行业高管和COO，在40岁时毅然转型为一名网球教练并创立了自己的网球学校。本期节目深入探讨了他的人生转变历程：从一个长期被恐惧和焦虑驱动的“卷王”，到通过网球这项运动直面自己的心理短板，最终学会与自己和解。他将游戏策划和产品思维应用于网球教学，开创了独特的成人网球教育模式，并在这个过程中找到了由衷的热爱与内心的平静，实现了从“职业精英”到“黑皮体育生”的快乐蜕变。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - entrepreneurship
-people:
-  - 朝珺
-  - 孟严
-  - 萧羽
-  - 郑钦文
-companies_orgs:
-  - 有志有行
-  - ITF
-  - 国家体育总局
-products_models:
-  - Web3
-  - 元宇宙
-  - AI
-media_books:
-  - 知行小酒馆
-  - 小红书
 status: evergreen
+summary: 朝珺，一位前游戏行业高管和COO，在40岁时毅然转型为一名网球教练并创立了自己的网球学校。本期节目深入探讨了他的人生转变历程：从一个长期被恐惧和焦虑驱动的“卷王”，到通过网球这项运动直面自己的心理短板，最终学会与自己和解。他将游戏策划和产品思维应用于网球教学，开创了独特的成人网球教育模式，并在这个过程中找到了由衷的热爱与内心的平静，实现了从“职业精英”到“黑皮体育生”的快乐蜕变。
+tags:
+- career-transition
+- driven
+- self-discovery
+- thinking
+title: 前COO的四十岁转型：从恐惧驱动到热爱驱动，在网球场上重塑人生
 ---
+
 ### 从游戏公司COO到网球教练的“惊人”转型
 
 我叫朝珺，曾是游戏行业的一名高管，后来加入“有志有行”担任COO。一年前，当主持人雨白开始跟我学网球时，就想邀请我来节目聊聊。因为在我看来，我的人生故事颇为精彩：先是在游戏行业深耕十余年，从游戏策划做到制作人、总监、VP，最终成为公司合伙人；然后在许多人感到“40岁焦虑”的年纪，我却选择转型成为一名网球教练，并创办了自己的网球学校，拥有了专属的球场。

@@ -1,35 +1,34 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- People's Daily
 date: '2025-11-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- What to Do When Your Child is a Little Pink
+people:
+- Mao Zedong
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=T3KNmFXr5a0
 speaker: Anthony看世界
-tags:
-  - witch-hunt-mentality
-  - purity-cult
-  - internal-strife
-  - ideological-distortion
-  - dualism-of-good-evil
-title: 中国社会“猎巫”思维的底层逻辑：从概念异化到无尽内斗
-summary: 本视频深入探讨了中国社会中普遍存在的“猎巫”心态及其深层逻辑。作者指出，无论是西方还是东方思想，一旦进入中国社会实践，都易被扭曲异化为“驱魔仪式”。文章通过分析自恋型人格障碍（NPD）受害者群体和20世纪共产主义运动的例子，揭示了对“绝对纯洁”的追求如何导致“敌人”概念的无限扩大，进而引发无休止的内斗和清洗。作者强调，这种思维模式超越意识形态，将道德、真理和正义建立在对“恶”的警惕之上，最终使个体陷入由“恶”锚定的循环，而非基于内在价值的自我实现。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Mao Zedong
-companies_orgs:
-  - People's Daily
-products_models: []
-media_books:
-  - What to Do When Your Child is a Little Pink
 status: evergreen
+summary: 本视频深入探讨了中国社会中普遍存在的“猎巫”心态及其深层逻辑。作者指出，无论是西方还是东方思想，一旦进入中国社会实践，都易被扭曲异化为“驱魔仪式”。文章通过分析自恋型人格障碍（NPD）受害者群体和20世纪共产主义运动的例子，揭示了对“绝对纯洁”的追求如何导致“敌人”概念的无限扩大，进而引发无休止的内斗和清洗。作者强调，这种思维模式超越意识形态，将道德、真理和正义建立在对“恶”的警惕之上，最终使个体陷入由“恶”锚定的循环，而非基于内在价值的自我实现。
+tags:
+- philosophy
+- purity-cult
+- science
+- society
+- technology
+title: 中国社会“猎巫”思维的底层逻辑：从概念异化到无尽内斗
 ---
 
 ### 中国社会“猎巫”心态的深层逻辑

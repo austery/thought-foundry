@@ -1,39 +1,36 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- OpenAI
+- CCP
 date: '2024-06-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Leopold Aschenbrenner
+- Sam Altman
+- Donald Trump
+products_models:
+- ASI
+- AGI
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=K0Pa5oudUp4
 speaker: Dwarkesh Patel
-tags:
-  - agi
-  - asi
-  - national-security
-  - government-control
-  - geopolitics
-title: AI的未来：国家安全与政府主导的必然性
-summary: 演讲者 Leopold Aschenbrenner 预测，随着人工智能（AI）技术的飞速发展，特别是通用人工智能（AGI）和人工智能超级智能（ASI）的出现，其最终将不可避免地被国家安全部门掌控，而非仅仅由私营企业主导。他认为，ASI的巨大力量将重塑世界秩序，引发地缘政治竞争，并可能威胁到自由民主。因此，政府的介入和控制将是稳定局势、应对潜在风险的关键，这与核武器的管控历史类似。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Leopold Aschenbrenner
-  - Dwarkesh Patel
-  - Sam Altman
-  - Donald Trump
-companies_orgs:
-  - OpenAI
-  - CCP
-products_models:
-  - ASI
-  - AGI
-media_books: []
 status: evergreen
+summary: 演讲者 Leopold Aschenbrenner 预测，随着人工智能（AI）技术的飞速发展，特别是通用人工智能（AGI）和人工智能超级智能（ASI）的出现，其最终将不可避免地被国家安全部门掌控，而非仅仅由私营企业主导。他认为，ASI的巨大力量将重塑世界秩序，引发地缘政治竞争，并可能威胁到自由民主。因此，政府的介入和控制将是稳定局势、应对潜在风险的关键，这与核武器的管控历史类似。
+tags:
+- agi
+- government
+- llm
+- national-security
+title: AI的未来：国家安全与政府主导的必然性
 ---
+
 ### AI的终局预测
 
 我希望我们使用**人工智能超级智能**（ASI: Artificial Super Intelligence，指在几乎所有领域都远超最聪明人类的AI）是为了治愈疾病，是为了造福世界。但我的预测是，在终局阶段，我们所面临的将不仅仅是酷炫的产品，而是**自由民主是否能够存续**，**中国共产党**（CCP）是否能够存续，以及**未来一个世纪的世界秩序**将是怎样的。当这些成为赌注时，将被激活的力量将远远超出我们目前的讨论范畴。

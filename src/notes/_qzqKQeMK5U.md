@@ -1,50 +1,49 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中华文化总会
+- 中国空军
+- 中央航校
 date: '2024-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《西子姑娘》
+- 《巨流河》
+people:
+- 张钊维
+- 刘粹刚
+- 许希麟
+- 陈炳靖
+- 金英
+- 金士杰
+- 汤卜生
+- 胡德夫
+- 刘兆玄
+- 张伯苓
+products_models:
+- 零式战斗机
+- 《冲天》
+project:
+- historical-insights
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=_qzqKQeMK5U
 speaker: 一席YiXi
-tags:
-  - moral-courage
-  - sacrifice-in-war
-  - modern-gentlemanly-ethic
-  - intergenerational-memory
-  - war-and-memory
-title: “我们的身体、飞机和炸弹，当与敌人兵舰阵地同归于尽”：抗战飞行员的生死抉择与现代贵族精神
-summary: 纪录片导演张钊维通过《冲天》影片，讲述抗战时期中国飞行员的英勇故事与精神世界。他们出身优渥却毅然赴死，在孤绝天空中直面死亡，留下超越时代的贵族精神——无恐无惧、无忧无虑、无俯无愧、无怨无悔。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - systems-thinking
-people:
-  - 张钊维
-  - 刘粹刚
-  - 许希麟
-  - 陈炳靖
-  - 金英
-  - 金士杰
-  - 汤卜生
-  - 胡德夫
-  - 刘兆玄
-  - 张伯苓
-companies_orgs:
-  - 中华文化总会
-  - 中国空军
-  - 中央航校
-products_models:
-  - 零式战斗机
-  - 《冲天》
-media_books:
-  - 《西子姑娘》
-  - 《巨流河》
 status: evergreen
+summary: 纪录片导演张钊维通过《冲天》影片，讲述抗战时期中国飞行员的英勇故事与精神世界。他们出身优渥却毅然赴死，在孤绝天空中直面死亡，留下超越时代的贵族精神——无恐无惧、无忧无虑、无俯无愧、无怨无悔。
+tags:
+- history
+- llm
+- memory
+- war
+title: “我们的身体、飞机和炸弹，当与敌人兵舰阵地同归于尽”：抗战飞行员的生死抉择与现代贵族精神
 ---
+
 ### “我们的身体、飞机和炸弹，当与敌人兵舰阵地同归于尽”：一段被遗忘的空中誓言
 
 各位好，我是张钊维，一名纪录片导演。今天我想讲的故事，始于一句1946年写给中国空军的歌词：“我们的身体、飞机和炸弹，当与敌人兵舰阵地同归于尽。”这不是口号，而是一群年轻人在踏入航校第一天就刻入骨髓的信念。

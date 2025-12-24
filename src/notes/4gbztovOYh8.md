@@ -1,39 +1,39 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- PayPal
+- Honey
+- Starbucks
+- ASM
 date: '2025-02-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=4gbztovOYh8
 speaker: Shijun Tang
-tags:
-  - market-irrationality
-  - business-model-disparity
-  - monopoly-power
-  - free-cash-flow-dynamics
-  - investor-expectation-management
-title: PayPal、星巴克与ASM财报深度剖析：市场情绪、商业模式与行业垄断的博弈
-summary: 本文逐句分析PayPal、星巴克和ASM三家公司最新财报表现，揭示市场对不同商业模式的定价逻辑差异：PayPal基本面改善却被抛售，星巴克经营恶化却获市场宽容，而ASM凭借半导体设备垄断地位实现自由现金流暴增，展现顶级赛道的护城河力量。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - PayPal
-  - Honey
-  - Starbucks
-  - ASM
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文逐句分析PayPal、星巴克和ASM三家公司最新财报表现，揭示市场对不同商业模式的定价逻辑差异：PayPal基本面改善却被抛售，星巴克经营恶化却获市场宽容，而ASM凭借半导体设备垄断地位实现自由现金流暴增，展现顶级赛道的护城河力量。
+tags:
+- business-model-disparity
+- dynamic
+- management
+- market
+- power
+title: PayPal、星巴克与ASM财报深度剖析：市场情绪、商业模式与行业垄断的博弈
 ---
+
 ### PayPal：基本面改善却遭市场抛弃
 
 PayPal发布最新财报后，华尔街并未给予正面回应。财报当日，其股价暴跌13.74%。作为长期持有者，我早已习惯这种情绪波动——这是一家始终不受市场待见的公司。每当市场似乎开始认可其价值时，总会出现新的质疑声将其拉回。

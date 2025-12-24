@@ -1,38 +1,38 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2024-11-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《林广记》
+people:
+- 陈重穆
+- 张岱
+- 董其昌
+- 林文水
+- commodification-of-tradition
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=wO8S8dTFEeo
 speaker: 一席YiXi
-tags:
-  - floral-tea-culture
-  - artisanal-processing
-  - commodification-of-tradition
-  - sensory-aesthetics
-  - industrialization-of-lifestyle
-title: 桂花不是一朵一朵地摘，而是用打的：花茶背后的中国生活美学与工业化叙事
-summary: 陈重穆通过茉莉花茶与桂花茶的制作工艺，揭示中国花茶文化中‘气质型’与‘体质型’香花的差异，并追溯文人雅趣如何演变为商品化产品，最终指向工业化生产对生活美学的传承与转化。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-  - market-cycles
-people:
-  - 陈重穆
-  - 张岱
-  - 董其昌
-  - 林文水
-companies_orgs: []
-products_models: []
-media_books:
-  - 《林广记》
 status: evergreen
+summary: 陈重穆通过茉莉花茶与桂花茶的制作工艺，揭示中国花茶文化中‘气质型’与‘体质型’香花的差异，并追溯文人雅趣如何演变为商品化产品，最终指向工业化生产对生活美学的传承与转化。
+tags:
+- culture
+- geopolitical
+- sensory-aesthetic
+- technology
+title: 桂花不是一朵一朵地摘，而是用打的：花茶背后的中国生活美学与工业化叙事
 ---
+
 ### 花茶的真相：从文人雅趣到工业产品
 
 大家好，我是陈重穆。我的专业原本是政治思想，后来因为热爱茶，博士毕业后便转行做茶。我一年到头的工作从冬天的小雪开始，一直到次年的春分，中间几乎没有休息。最忙碌的是春天——那时几乎全是原叶茶，花果茶只是在无茶可做时的点缀。

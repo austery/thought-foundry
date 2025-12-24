@@ -1,45 +1,43 @@
 ---
-author: Veritasium
-date: '2021-02-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Grv1RJkdyqI
-speaker: Veritasium
-tags:
-  - veritasium
-  - pandemic-preparedness
-  - climate-change
-  - bioterrorism
-  - misinformation
-  - vaccine-development
-title: 比尔·盖茨谈下一个全球危机：疫情、气候变化与信息战
-summary: 在这段访谈中，比尔·盖茨回顾了其对全球疫情的预警，并探讨了为何世界未能充分准备。他指出，除了气候变化和生物恐怖主义，下一个重大危机可能来自信息失真。盖茨详细阐述了未来疫情应对系统所需的研发和实地部署，并深入探讨了社交媒体上阴谋论和错误信息的挑战，以及言论自由与真相传播之间的复杂平衡。他还澄清了围绕牛津疫苗与阿斯利康合作的争议，强调了疫苗生产的复杂性和基金会在全球疫苗推广中的作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - Bill Gates
-  - Derek Muller
-  - Vaclav Smil
+category: geopolitics
 companies_orgs:
-  - Bill and Melinda Gates Foundation
-  - AstraZeneca
-  - Johnson & Johnson
-  - Novovax
-  - Oxford University
-products_models:
-  - mRNA
-  - PCR tests
-  - Smallpox
+- Bill and Melinda Gates Foundation
+- AstraZeneca
+- Johnson & Johnson
+- Novovax
+- Oxford University
+date: '2021-02-04'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Be Hated
+- Be Hated
+people:
+- Bill Gates
+- Derek Muller
+- Vaclav Smil
+products_models:
+- mRNA
+- PCR tests
+- Smallpox
+project:
+- geopolitics-watch
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=Grv1RJkdyqI
+speaker: veritasium
 status: evergreen
+summary: 在这段访谈中，比尔·盖茨回顾了其对全球疫情的预警，并探讨了为何世界未能充分准备。他指出，除了气候变化和生物恐怖主义，下一个重大危机可能来自信息失真。盖茨详细阐述了未来疫情应对系统所需的研发和实地部署，并深入探讨了社交媒体上阴谋论和错误信息的挑战，以及言论自由与真相传播之间的复杂平衡。他还澄清了围绕牛津疫苗与阿斯利康合作的争议，强调了疫苗生产的复杂性和基金会在全球疫苗推广中的作用。
+tags:
+- climate-change
+- development
+- health
+- misinformation
+title: 比尔·盖茨谈下一个全球危机：疫情、气候变化与信息战
 ---
+
 ### 对疫情预警的反思
 
 Derek: 那么，做出这个预测，但世界基本上没有听取并做好准备，你感觉如何？

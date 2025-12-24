@@ -1,57 +1,56 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: business
+companies_orgs:
+- 万科
+- 深圳地鐵
+- 建行
+- 深圳國資委
+- 万科企业股中心
+- 上海萬豐
+- 盈安合伙
+- 金鵬資管計劃
+- 德贏資管計劃
+- 寶能
+- 萬科財務顧問公司
+- 鵬鼎控股
+- 鵬金所
+- 博商資管
+- 招商基金
+- 東方資產
+- 光大信託
+- 清華大學教育基金會
 date: '2025-10-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 祝九胜
+- 王石
+- 郁亮
+- 姚振华
+- 辛杰
+- Xi Jinping
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=0vSaB-y10hc
 speaker: 小翠時政財經
-tags:
-  - vanke-debt
-  - financial-manipulation
-  - corporate-governance
-  - china-real-estate
-  - state-intervention
-title: 万科金融迷局：祝九胜的千亿操盘术与高层自救之路
-summary: 本文系统性揭示了万科前任总裁祝九胜如何通过万科企业股中心，搭建三条复杂的金融输血管道，包括盈安合伙、鹏金所和博商资管，为万科进行体外融资和表外操作。文章深入分析了这些金融手段的运作方式、风险及对万科股权结构的影响，并探讨了近期万科高管被捕、资产捐赠以及深圳国资委介入背后的深层原因和未来走向。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 祝九胜
-  - 王石
-  - 郁亮
-  - 姚振华
-  - 辛杰
-  - 习近平
-companies_orgs:
-  - 万科
-  - 深圳地鐵
-  - 建行
-  - 深圳國資委
-  - 万科企业股中心
-  - 上海萬豐
-  - 盈安合伙
-  - 金鵬資管計劃
-  - 德贏資管計劃
-  - 寶能
-  - 萬科財務顧問公司
-  - 鵬鼎控股
-  - 鵬金所
-  - 博商資管
-  - 招商基金
-  - 東方資產
-  - 光大信託
-  - 清華大學教育基金會
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文系统性揭示了万科前任总裁祝九胜如何通过万科企业股中心，搭建三条复杂的金融输血管道，包括盈安合伙、鹏金所和博商资管，为万科进行体外融资和表外操作。文章深入分析了这些金融手段的运作方式、风险及对万科股权结构的影响，并探讨了近期万科高管被捕、资产捐赠以及深圳国资委介入背后的深层原因和未来走向。
+tags:
+- china
+- corporate-governance
+- debt
+- financial
+- state
+title: 万科金融迷局：祝九胜的千亿操盘术与高层自救之路
 ---
+
 ### 万科危机：高管被捕与债务迷局
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月24日。这期节目咱们要来系统性地聊聊万科。为什么聊万科呢？因为前阵子万科的新董事，也就是深圳地鐵的董事长被抓了，万科的前任总裁祝九胜也被带走了。这些事件似乎在告诉我们，万科的雷，皇上不打算兜了。那么万科到底欠了多少钱？这钱又是怎么欠下的？深圳地鐵一年给万科输血十几次，现在董事长却被抓了，这是不是意味着深圳国资委误判了万科的债务情况，以至于现在才发现自己根本无力救起万科呢？这期视频，咱们就来试着找到这些问题的答案。

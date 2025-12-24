@@ -1,38 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- 國際運動營養協會
 date: '2025-05-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《肌肉抗老》
+- 《宋醫師百變211》
+people:
+- 威龍醫師
+- 羅婕Jessica營養師
+- 宋晏仁醫師
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=rxsUmIHPfgE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - muscle-gain
-  - anti-aging
-  - body-composition
-  - protein-nutrition
-  - resistance-training
-title: 肌肉是最佳抗老法：體組成實測、飲食與運動增肌全攻略
-summary: 初日診所威龍醫師分享肌肉作為抗老關鍵的實測數據與科學原理。影片詳細介紹了體組成分析，並提供增肌飲食三大黃金時機、蛋白質攝取原則、好澱粉與好油脂的選擇，以及肌酸等補充品運用。羅婕營養師與健身教練進一步指導外食增肌菜單與新手阻力訓練動作，強調有氧與阻力運動結合的重要性，並揭示肌肉分泌的激素如何激發腦力、抗炎及促進全身代謝，全面守護健康。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 威龍醫師
-  - 羅婕Jessica營養師
-  - 宋晏仁醫師
-companies_orgs:
-  - 初日診所
-  - 國際運動營養協會
-products_models: []
-media_books:
-  - 《肌肉抗老》
-  - 《宋醫師百變211》
 status: evergreen
+summary: 初日診所威龍醫師分享肌肉作為抗老關鍵的實測數據與科學原理。影片詳細介紹了體組成分析，並提供增肌飲食三大黃金時機、蛋白質攝取原則、好澱粉與好油脂的選擇，以及肌酸等補充品運用。羅婕營養師與健身教練進一步指導外食增肌菜單與新手阻力訓練動作，強調有氧與阻力運動結合的重要性，並揭示肌肉分泌的激素如何激發腦力、抗炎及促進全身代謝，全面守護健康。
+tags:
+- anti
+- health
+- llm
+title: 肌肉是最佳抗老法：體組成實測、飲食與運動增肌全攻略
 ---
+
 ### 威龍醫師的體組成實測與分析
 
 我們現在在初日診所。在過去的幾支影片中，有網友看到我的臉比較乾瘦，懷疑我可能有**肌少症**（Sarcopenia: 肌肉量減少、肌肉力量下降、身體功能受損的一種老年綜合症）的問題。今天我們就要來實地測量我的**體組成**（Body Composition: 身體由脂肪、肌肉、骨骼和水分等組成的比例），讓大家來看看我有沒有肌少症的問題。

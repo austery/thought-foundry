@@ -1,46 +1,46 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Rockefeller International
+- International Monetary Fund
+- Bank for International Settlements
+- Silicon Valley Bank
+- Continental Illinois Bank
 date: '2024-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- What Went Wrong with Capitalism
+people:
+- Ruchir Sharma
+- Nicola Tangen
+- Liz Truss
+- Alan Greenspan
+- Ronald Reagan
+- Margaret Thatcher
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=dEJtNfEHMXY
 speaker: Norges Bank Investment Management
-tags:
-  - budget-deficits
-  - capitalism-critique
-  - government-spending
-  - productivity-decline
-  - bailout-culture
-title: 预算赤字、救助文化与资本主义的困境：鲁奇尔·夏尔马的深度剖析
-summary: 全球知名经济学家鲁奇尔·夏尔马深入探讨了预算赤字、政府过度干预和救助文化对现代资本主义造成的深远影响。他指出，美国长期以来的赤字习惯、储备货币地位的滥用，以及欧洲高福利社会的弊病，共同导致了生产力增长停滞和僵尸企业泛滥。夏尔马呼吁通过去监管化、解决住房负担能力问题和彻底终结救助文化来重塑资本主义，强调市场纪律和风险承担的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Ruchir Sharma
-  - Nicola Tangen
-  - Liz Truss
-  - Alan Greenspan
-  - Ronald Reagan
-  - Margaret Thatcher
-companies_orgs:
-  - Norges Bank Investment Management
-  - Rockefeller International
-  - International Monetary Fund
-  - Bank for International Settlements
-  - Silicon Valley Bank
-  - Continental Illinois Bank
-products_models: []
-media_books:
-  - What Went Wrong with Capitalism
 status: evergreen
+summary: 全球知名经济学家鲁奇尔·夏尔马深入探讨了预算赤字、政府过度干预和救助文化对现代资本主义造成的深远影响。他指出，美国长期以来的赤字习惯、储备货币地位的滥用，以及欧洲高福利社会的弊病，共同导致了生产力增长停滞和僵尸企业泛滥。夏尔马呼吁通过去监管化、解决住房负担能力问题和彻底终结救助文化来重塑资本主义，强调市场纪律和风险承担的重要性。
+tags:
+- budget-deficit
+- capitalism-critique
+- culture
+- decline
+- government
+title: 预算赤字、救助文化与资本主义的困境：鲁奇尔·夏尔马的深度剖析
 ---
+
 ### 预算赤字：从常态到失控
 
 Nicola: 大家好，我是挪威**主权财富基金**（Sovereign wealth fund: 由政府拥有和管理的投资基金）的首席执行官尼古拉·坦根。今天，我邀请到了全球经济学界最受尊敬的人物之一、洛克菲勒国际公司主席鲁奇尔·夏尔马。今年早些时候，他出版了一本非常棒的书，名为《资本主义到底出了什么问题》（"What Went Wrong with Capitalism"），我们今天就来谈谈这本书。鲁奇尔，热烈欢迎您。

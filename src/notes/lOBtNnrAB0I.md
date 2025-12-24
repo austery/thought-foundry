@@ -1,66 +1,65 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Robinhood
+- SoFi
+- Nvidia
+- Microsoft
+- Meta
+- Google
+- Apple
+- Amazon
+- S&P 500
+- Bank of America
+- Western Alliance
+- Zions Bancorporation
+- FanDuel
+- DraftKings
+- Poly Market
+- Citadel
+- PayPal
+- Vanguard
+- Fidelity
+- Celestica
+- NBA
+- ESPN
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Tanner
+- Roy
+- Jamie Dimon
+- Mark Zuckerberg
+- Vlad Tenev
+- Anthony Noto
+- Sean Taylor
+products_models:
+- Cortex
+- Llama
+- Sora
+project:
+- us-analysis
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=lOBtNnrAB0I
 speaker: Amit Kukreja
-tags:
-  - market-outlook
-  - earnings-season
-  - rate-cuts
-  - us-china-relations
-  - prediction-markets
-title: 市场展望：标普500创历史新高，降息与中美关系缓和注入乐观情绪
-summary: 本期深入探讨了当前金融市场的复杂动态。在标普500指数创下历史新高的背景下，我们分析了市场情绪、即将到来的降息预期以及中美关系缓和等地缘政治因素带来的积极影响。讨论涵盖了关键的财报季，特别是科技巨头的表现，并剖析了近期3%的市场回调如何挤出部分泡沫，使市场环境更为健康。此外，我们还详细解读了 Robinhood 的产品更新，如封闭式基金和预测市场，并对 SoFi 即将发布的财报进行了前瞻性分析。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Amit Kukreja
-  - Tanner
-  - Roy
-  - Jamie Dimon
-  - Mark Zuckerberg
-  - Vlad Tenev
-  - Anthony Noto
-  - Sean Taylor
-companies_orgs:
-  - Robinhood
-  - SoFi
-  - Nvidia
-  - Microsoft
-  - Meta
-  - Google
-  - Apple
-  - Amazon
-  - S&P 500
-  - Bank of America
-  - Western Alliance
-  - Zions Bancorporation
-  - FanDuel
-  - DraftKings
-  - Poly Market
-  - Citadel
-  - PayPal
-  - Vanguard
-  - Fidelity
-  - Celestica
-  - NBA
-  - ESPN
-products_models:
-  - Cortex
-  - Llama
-  - Sora
-media_books: []
 status: evergreen
+summary: 本期深入探讨了当前金融市场的复杂动态。在标普500指数创下历史新高的背景下，我们分析了市场情绪、即将到来的降息预期以及中美关系缓和等地缘政治因素带来的积极影响。讨论涵盖了关键的财报季，特别是科技巨头的表现，并剖析了近期3%的市场回调如何挤出部分泡沫，使市场环境更为健康。此外，我们还详细解读了
+  Robinhood 的产品更新，如封闭式基金和预测市场，并对 SoFi 即将发布的财报进行了前瞻性分析。
+tags:
+- earnings-season
+- market-outlook
+- prediction-market
+- rate
+- us-china-relations
+title: 市场展望：标普500创历史新高，降息与中美关系缓和注入乐观情绪
 ---
+
 ### 当前市场宏观展望：创纪录高位下的机遇与风险
 
 Amit: 好的，我们有很多话题要谈。感谢大家又一周来到 Tech Bros。我想我们上周错过了，因为是排灯节，所以我上周没能参加，但我们回来了。我想让我们从对市场的初步看法开始。明天有 SoFi 的财报，我们会谈到。还有一些关于 Hood 和 Nvidia 的更新。但 Roy，我们从你开始。标普500指数创下历史新高，你感觉如何？

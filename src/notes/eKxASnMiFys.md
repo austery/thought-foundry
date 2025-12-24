@@ -1,54 +1,54 @@
 ---
-author: All-In Podcast
+area: society-systems
+category: geopolitics
+companies_orgs:
+- National Electoral Council
+- FARC
+- ELN
+- Hezbollah
+- Hamas
+- Organization of American States
+- Inter-American Commission of Human Rights
+- United Nation
+- Yale University
+- Google
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- All-In Podcast
+people:
+- Maria Corina Machado
+- David Sacks
+- Edmundo Gonzalez
+- Maduro
+- Chavez
+- Fidel Castro
+- Donald Trump
+- Obama
+- Biden
+products_models:
+- Starlink
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=eKxASnMiFys
 speaker: All-In Podcast
-tags:
-  - venezuelan-crisis
-  - socialism-dangers
-  - democratic-resistance
-  - electoral-integrity
-  - authoritarian-tactics
-title: 击败马杜罗、社会主义与解放委内瑞拉：玛丽亚·科丽娜·马查多访谈
-summary: 委内瑞拉反对派领袖玛丽亚·科丽娜·马查多在《All-In Podcast》上分享了她与马杜罗及查韦斯政权斗争的经历。她详细阐述了委内瑞拉从富裕国家沦为贫困国家的悲剧，揭露了社会主义暴政、选举舞弊、腐败和犯罪网络如何摧毁国家。马查多讲述了她如何通过公民运动和技术手段挑战独裁统治，并在2023年总统初选中取得压倒性胜利，尽管随后被禁止参选。她向美国青年警示社会主义的危险，强调自由与民主对国家繁荣的重要性，并呼吁国际社会支持委内瑞拉的民主转型。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Maria Corina Machado
-  - David Sacks
-  - Edmundo Gonzalez
-  - Maduro
-  - Chavez
-  - Fidel Castro
-  - Donald Trump
-  - Obama
-  - Biden
-companies_orgs:
-  - National Electoral Council
-  - FARC
-  - ELN
-  - Hezbollah
-  - Hamas
-  - Organization of American States
-  - Inter-American Commission of Human Rights
-  - United Nation
-  - Yale University
-  - Google
-products_models:
-  - Starlink
-media_books:
-  - All-In Podcast
 status: evergreen
+summary: 委内瑞拉反对派领袖玛丽亚·科丽娜·马查多在《All-In Podcast》上分享了她与马杜罗及查韦斯政权斗争的经历。她详细阐述了委内瑞拉从富裕国家沦为贫困国家的悲剧，揭露了社会主义暴政、选举舞弊、腐败和犯罪网络如何摧毁国家。马查多讲述了她如何通过公民运动和技术手段挑战独裁统治，并在2023年总统初选中取得压倒性胜利，尽管随后被禁止参选。她向美国青年警示社会主义的危险，强调自由与民主对国家繁荣的重要性，并呼吁国际社会支持委内瑞拉的民主转型。
+tags:
+- crisis
+- democratic
+- electoral-integrity
+- geopolitical
+- society
+title: 击败马杜罗、社会主义与解放委内瑞拉：玛丽亚·科丽娜·马查多访谈
 ---
+
 ### 委内瑞拉的民主斗士：玛丽亚·科丽娜·马查多
 
 主持人：玛丽亚·科丽娜·马查多，欢迎来到《All-In》访谈节目，感谢您今天与我在一起，并祝贺您两周前荣获**诺贝尔和平奖**（Nobel Peace Prize: 旨在表彰为促进和平作出杰出贡献的人士）。

@@ -1,52 +1,51 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Ford Motor Company
+- American Automobile Association
+- General Motors
+- AASHTO
 date: '2024-03-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《是设计，让城市更快乐》
+people:
+- Charles Montgomery
+- Peter Norton
+- Henry Ford
+- Herbert Hoover
+- Roy Chapin
+- Aristotle
+- Socrates
+- Emperor Trajan
+- Horace
+- Bentham
+- Robert Pemberton
+- Ken Livingstone
+- Bertrand Delanoë
+- Enrique Peñalosa
+products_models:
+- Vélib'
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=yxN75SZysFw
 speaker: 超級歪 SuperY
-tags:
-  - us-urban-planning
-  - pedestrian-rights
-  - car-centric-design
-  - urban-happiness
-  - public-space
-title: 台湾“行人地狱”的深层原因：汽车如何抢占路权，以及全球城市如何还路于民
-summary: 本文深入探讨了台湾“行人地狱”现象的成因，追溯汽车工业如何通过塑造观念和政策，逐步抢占城市路权。文章揭示了以汽车为中心的城市设计对个人幸福和社会公共生活造成的负面影响，并引用心理学研究证明驾驶并不等同于自由。最后，通过哥本哈根、巴黎、伦敦等全球城市的成功案例，探讨了“还路于民”的有效策略，为台湾改善行人环境提供了借鉴。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Charles Montgomery
-  - Peter Norton
-  - Henry Ford
-  - Herbert Hoover
-  - Roy Chapin
-  - Aristotle
-  - Socrates
-  - Emperor Trajan
-  - Horace
-  - Bentham
-  - Robert Pemberton
-  - Ken Livingstone
-  - Bertrand Delanoë
-  - Enrique Peñalosa
-companies_orgs:
-  - Ford Motor Company
-  - American Automobile Association
-  - General Motors
-  - AASHTO
-products_models:
-  - Vélib'
-media_books:
-  - 《是设计，让城市更快乐》
 status: evergreen
+summary: 本文深入探讨了台湾“行人地狱”现象的成因，追溯汽车工业如何通过塑造观念和政策，逐步抢占城市路权。文章揭示了以汽车为中心的城市设计对个人幸福和社会公共生活造成的负面影响，并引用心理学研究证明驾驶并不等同于自由。最后，通过哥本哈根、巴黎、伦敦等全球城市的成功案例，探讨了“还路于民”的有效策略，为台湾改善行人环境提供了借鉴。
+tags:
+- design
+- public
+- right
+- urban
+title: 台湾“行人地狱”的深层原因：汽车如何抢占路权，以及全球城市如何还路于民
 ---
+
 ### 台湾“行人地狱”的困境与争议
 
 众所周知，台湾素有“行人地狱”之称。去年，全国交通事故死亡人数高达3085人，创下自2013年有统计以来的新高。在伦敦生活时，即使在市中心步行半小时以上，也不会感到危险；但在台湾，走在街上却必须时刻保持警惕。当车辆拒绝让行并鸣笛时，究竟是行人的错，还是驾驶者的责任？

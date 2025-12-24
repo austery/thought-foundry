@@ -1,53 +1,52 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- CSIS
+- G20
+- COP
+- 中国共产党
+- 中国国民党
+- 民主进步党
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Xi Jinping
+- Donald Trump
+- Vladimir Putin
+- 毛泽东
+- 华国锋
+- George H.W. Bush
+- Margaret Thatcher
+- Mikhail Gorbachev
+- 王毅
+- Nancy Pelosi
+- 刘静松
+- 薛剑
+- 朱立伦
+products_models:
+- Mirage 2000
+- MiG-21
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=qn-5UEtjqxM
 speaker: FearNation 世界苦茶
-tags:
-  - taiwan-strait-conflict
-  - strategic-dilemma
-  - alliance-dynamics
-  - military-simulation
-title: 台海冲突推演：中国为何陷入“既要又要”的战略困境？
-summary: 本期互动探讨了台海冲突中的关键议题：从外国干预的合理性，到CSIS兵推揭示的军事现实。深入分析了中国在拉拢全球南方与强硬维护主权之间的“既要又要”困境，并从多角度讨论了台湾的防御意志、美国的协防承诺以及不同盟友的支持层级。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 习近平
-  - Donald Trump
-  - Vladimir Putin
-  - 毛泽东
-  - 华国锋
-  - George H.W. Bush
-  - Margaret Thatcher
-  - Mikhail Gorbachev
-  - 王毅
-  - Nancy Pelosi
-  - 刘静松
-  - 薛剑
-  - 朱立伦
-companies_orgs:
-  - CSIS
-  - G20
-  - COP
-  - 中国共产党
-  - 中国国民党
-  - 民主进步党
-products_models:
-  - Mirage 2000
-  - MiG-21
-media_books: []
 status: evergreen
+summary: 本期互动探讨了台海冲突中的关键议题：从外国干预的合理性，到CSIS兵推揭示的军事现实。深入分析了中国在拉拢全球南方与强硬维护主权之间的“既要又要”困境，并从多角度讨论了台湾的防御意志、美国的协防承诺以及不同盟友的支持层级。
+tags:
+- dynamic
+- financial
+- military
+- taiwan-strait-conflict
+title: 台海冲突推演：中国为何陷入“既要又要”的战略困境？
 ---
+
 ### 外国干预台海：一个道德与历史的拷问
 
 有观众提问：“你再怎么讨厌中共，也不应该希望台湾问题上被外国人插手吧？”

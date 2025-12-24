@@ -1,66 +1,68 @@
 ---
-author: a16z
+area: society-systems
+category: geopolitics
+companies_orgs:
+- a16z
+- OpenAI
+- Google
+- Anthropic
+- Nvidia
+- Quora
+- Replit
+- Scale AI
+- Surge
+- Merkore
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Innovator's Dilemma
+- The Sovereign Individual
+- The Emperor's New Mind
+people:
+- Adam D'Angelo
+- Amjad Masad
+- Peter Thiel
+- Roger Penrose
+products_models:
+- GPT-3
+- GPT-2
+- GPT-3.5
+- GPT-4
+- GPT-5
+- Gemini
+- Gemini Flash
+- Claude
+- Claude 3.5
+- Claude 3.7
+- DeepSeek
+- Co-pilot
+- Cursor
+- Po
+- AlphaGo
+- Stripe
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=191Ojd7Rq6s
 speaker: a16z
-tags:
-  - artificial-general-intelligence
-  - large-language-models
-  - job-automation
-  - economic-impact
-  - disruptive-innovation
-title: AGI之路：大语言模型的潜力、局限与社会经济影响
-summary: 本播客讨论了人工智能（AI）的未来发展，特别是通用人工智能（AGI）的实现路径、大语言模型（LLM）的当前能力与局限。Adam D'Angelo持乐观态度，认为LLM进展迅速，有望在未来几年内实现远程工作者级别的自动化。Amjad Masad则更为谨慎，强调LLM的“功能性AGI”特性，并指出其对专家数据和人工干预的依赖。对话深入探讨了AI对GDP增长、就业市场、社会文化以及地缘政治的潜在影响，并展望了AI Agent、多模态交互和基础研究的未来。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - entrepreneurship
-people:
-  - Adam D'Angelo
-  - Amjad Masad
-  - Peter Thiel
-  - Roger Penrose
-companies_orgs:
-  - a16z
-  - OpenAI
-  - Google
-  - Anthropic
-  - Nvidia
-  - Quora
-  - Replit
-  - Scale AI
-  - Surge
-  - Merkore
-products_models:
-  - GPT-3
-  - GPT-2
-  - GPT-3.5
-  - GPT-4
-  - GPT-5
-  - Gemini
-  - Gemini Flash
-  - Claude
-  - Claude 3.5
-  - Claude 3.7
-  - DeepSeek
-  - Co-pilot
-  - Cursor
-  - Po
-  - AlphaGo
-  - Stripe
-media_books:
-  - The Innovator's Dilemma
-  - The Sovereign Individual
-  - The Emperor's New Mind
 status: evergreen
+summary: 本播客讨论了人工智能（AI）的未来发展，特别是通用人工智能（AGI）的实现路径、大语言模型（LLM）的当前能力与局限。Adam D'Angelo持乐观态度，认为LLM进展迅速，有望在未来几年内实现远程工作者级别的自动化。Amjad
+  Masad则更为谨慎，强调LLM的“功能性AGI”特性，并指出其对专家数据和人工干预的依赖。对话深入探讨了AI对GDP增长、就业市场、社会文化以及地缘政治的潜在影响，并展望了AI
+  Agent、多模态交互和基础研究的未来。
+tags:
+- agi
+- economic-impact
+- innovation
+- job-automation
+- large-language-model
+title: AGI之路：大语言模型的潜力、局限与社会经济影响
 ---
+
 ### AI发展现状：乐观与悲观的交锋
 
 似乎没有什么根本性的难题是世界上最聪明的人在未来五年内努力工作无法解决的。

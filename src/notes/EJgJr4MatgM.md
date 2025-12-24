@@ -1,73 +1,72 @@
 ---
-author: Amit Kukreja
+area: society-systems
+category: geopolitics
+companies_orgs:
+- S&P 500
+- Rocket Lab
+- Core Weave
+- Nvidia
+- Palantir
+- Robinhood
+- Oscar
+- Oracle
+- Meta
+- Microsoft
+- Google
+- Amazon
+- Dell
+- Andreessen Horowitz
+- Gamma
+- Chipotle
+- Lululemon
+- Uber
+- Affirm
+- SEC
+- US Senate
+- US House of Representatives
+- US Congress
+- Supreme Court
+- EU
+- Japan
+- South Korea
+- Saudi Arabia
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Catch Me If You Can
+people:
+- Michael Burry
+- Alex Karp
+- Jensen Huang
+- Donald Trump
+- Barack Obama
+products_models:
+- ACA (Affordable Care Act)
+- Gemini
+- ChatGPT
+- Anthropic
+- FSD (Full Self-Driving)
+project:
+- us-analysis
+- geopolitics-watch
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=EJgJr4MatgM
 speaker: Amit Kukreja
-tags:
-  - government-shutdown
-  - ai-valuation
-  - depreciation-accounting
-  - stimulus-checks
-  - affordability-crisis
-title: 市场回顾：政府停摆结束、Michael Burry看空AI、特朗普暗示新刺激政策
-summary: 本期节目回顾了近期市场动态，包括美国政府停摆的解决及其对股市的影响。知名投资者Michael Burry对AI领域（特别是英伟达和Palantir）采取看空立场，他认为大型科技公司可能通过会计手段虚报盈利，并将在11月25日公布更多细节。此外，节目还分析了特朗普关于2000美元关税红利和刺激政策的言论，以及美国社会对可负担性危机的普遍担忧，探讨了这些宏观因素对经济和市场可能产生的影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - ai-impact-analysis
-people:
-  - Amit Kukreja
-  - Michael Burry
-  - Alex Karp
-  - Jensen Huang
-  - Donald Trump
-  - Barack Obama
-companies_orgs:
-  - S&P 500
-  - Rocket Lab
-  - Core Weave
-  - Nvidia
-  - Palantir
-  - Robinhood
-  - Oscar
-  - Oracle
-  - Meta
-  - Microsoft
-  - Google
-  - Amazon
-  - Dell
-  - Andreessen Horowitz
-  - Gamma
-  - Chipotle
-  - Lululemon
-  - Uber
-  - Affirm
-  - SEC
-  - US Senate
-  - US House of Representatives
-  - US Congress
-  - Supreme Court
-  - EU
-  - Japan
-  - South Korea
-  - Saudi Arabia
-products_models:
-  - ACA (Affordable Care Act)
-  - Gemini
-  - ChatGPT
-  - Anthropic
-  - FSD (Full Self-Driving)
-media_books:
-  - Catch Me If You Can
 status: evergreen
+summary: 本期节目回顾了近期市场动态，包括美国政府停摆的解决及其对股市的影响。知名投资者Michael Burry对AI领域（特别是英伟达和Palantir）采取看空立场，他认为大型科技公司可能通过会计手段虚报盈利，并将在11月25日公布更多细节。此外，节目还分析了特朗普关于2000美元关税红利和刺激政策的言论，以及美国社会对可负担性危机的普遍担忧，探讨了这些宏观因素对经济和市场可能产生的影响。
+tags:
+- ai-valuation
+- canada
+- crisis
+- geopolitical
+- government-shutdown
+title: 市场回顾：政府停摆结束、Michael Burry看空AI、特朗普暗示新刺激政策
 ---
+
 ### 市场回顾与政府停摆结束
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目。很高兴能再次为大家带来节目。

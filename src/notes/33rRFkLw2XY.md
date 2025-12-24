@@ -1,44 +1,41 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 臺北醫學大學心智意識與腦科學研究所
+- 臺灣師範大學運動與腦科學研究團隊
+- 一分鐘健身教室史考特
 date: '2025-08-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Marian Diamond
+- Wendy Suzuki
+- James Fixx
+- 徐慈妤
+- 張育愷
+- 洪聰敏
+- 王院長
+products_models:
+- 舒爾特方格
+- P300腦波
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=33rRFkLw2XY
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - brain-health
-  - exercise-benefits
-  - cognitive-function
-  - memory-enhancement
-  - mood-regulation
-  - neuroplasticity
-title: 運動如何點亮大腦：科學實證強化記憶、改善情緒的運動策略
-summary: 本篇文章深入探討運動對大腦的深遠影響，從科學角度揭示運動如何刺激腦源性神經營養因子（BDNF）分泌，促進神經連接與血管新生，進而提升記憶力、專注力並改善情緒。文章引用多項研究，包括舒爾特方格測驗、老鼠實驗及人類MRI掃描結果，並邀請腦科學專家解釋運動對海馬迴、前額葉及神經傳導物質的積極作用。文末提供實用的運動菜單與自我評估，鼓勵讀者透過運動為大腦投資，實現身心升級。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Marian Diamond
-  - Wendy Suzuki
-  - James Fixx
-  - 徐慈妤
-  - 張育愷
-  - 洪聰敏
-  - 王院長
-companies_orgs:
-  - 臺北醫學大學心智意識與腦科學研究所
-  - 臺灣師範大學運動與腦科學研究團隊
-  - 一分鐘健身教室史考特
-products_models:
-  - 舒爾特方格
-  - P300腦波
-media_books: []
 status: evergreen
+summary: 本篇文章深入探討運動對大腦的深遠影響，從科學角度揭示運動如何刺激腦源性神經營養因子（BDNF）分泌，促進神經連接與血管新生，進而提升記憶力、專注力並改善情緒。文章引用多項研究，包括舒爾特方格測驗、老鼠實驗及人類MRI掃描結果，並邀請腦科學專家解釋運動對海馬迴、前額葉及神經傳導物質的積極作用。文末提供實用的運動菜單與自我評估，鼓勵讀者透過運動為大腦投資，實現身心升級。
+tags:
+- cognitive
+- health
+- memory
+- regulation
+title: 運動如何點亮大腦：科學實證強化記憶、改善情緒的運動策略
 ---
+
 ### 運動點亮大腦：舒爾特方格測驗與科學啟示
 
 今天我們來玩一個實驗，測測你的大腦能不能動起來。現在畫面上出現的是**舒爾特方格**（Schulte Grid: 一種用於測量和訓練注意力、視覺搜索速度和認知靈活性的心理測驗），你的任務是從1開始找到25，看看你能在幾秒內完成。請按下暫停，計時看看你花了幾秒，並記住這個秒數。現在請你站起來，原地跳30下，要有點喘、心跳加快的那一種。跳完後深呼吸一下，我們進行第二次挑戰。現在畫面出現第二張新的舒爾特方格，同樣的方法從1數到25，看看這次你能不能更快？你覺得是不是變得比較專注、比較快了呢？這就是我們今天要說的主題：運動真的會及時點亮你的大腦。

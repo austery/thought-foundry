@@ -1,61 +1,60 @@
 ---
-author: Veritasium
-date: '2025-09-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CYlon2tvywA
-speaker: Veritasium
-tags:
-  - veritasium
-  - six-degrees-of-separation
-  - small-world-networks
-  - network-science
-  - hubs-and-shortcuts
-  - cooperation-dilemma
-title: 六度分隔、小世界网络与社会连接的深层影响
-summary: 本文深入探讨了“六度分隔”理论的起源、其背后的科学原理以及社会网络结构对疾病传播、信息流动乃至人类行为与信念的深远影响。从瓦茨和斯特罗加茨的“小世界模型”到巴拉巴西的“无尺度网络”和“中心节点”理论，文章揭示了少数关键连接如何塑造整个复杂系统的行为，并探讨了在数字时代，个人选择如何影响我们在网络中的体验和集体合作的潜力。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Salah ben Ghaly
-  - Marlon Brando
-  - Paul Erdos
-  - Duncan Watts
-  - Steve Strogatz
-  - Albert-Laszlo Barabasi
-  - Reka Albert
-  - Robert Axelrod
-  - Peter Higgs
-  - Watson
-  - Crick
-  - Einstein
-  - Steve Jobs
-  - Casper
+category: science
 companies_orgs:
-  - FBI
-  - Incogni
-  - Google
-  - Yahoo
-products_models:
-  - C. elegans
-  - Higgs boson
-  - DNA
-  - Internet Chess Club
-  - Twitter
+- FBI
+- Incogni
+- Google
+- Yahoo
+date: '2025-09-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Die Zeit
-  - Don Juan DeMarco
-  - Nature
-  - Caddy Shack
-  - She's Having a Baby
+- Die Zeit
+- Don Juan DeMarco
+- Nature
+- Caddy Shack
+- She's Having a Baby
+people:
+- Salah ben Ghaly
+- Marlon Brando
+- Paul Erdos
+- Duncan Watts
+- Steve Strogatz
+- Albert-Laszlo Barabasi
+- Reka Albert
+- Robert Axelrod
+- Peter Higgs
+- Watson
+- Crick
+- Einstein
+- Steve Jobs
+- Casper
+products_models:
+- C. elegans
+- Higgs boson
+- DNA
+- Internet Chess Club
+- Twitter
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=CYlon2tvywA
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了“六度分隔”理论的起源、其背后的科学原理以及社会网络结构对疾病传播、信息流动乃至人类行为与信念的深远影响。从瓦茨和斯特罗加茨的“小世界模型”到巴拉巴西的“无尺度网络”和“中心节点”理论，文章揭示了少数关键连接如何塑造整个复杂系统的行为，并探讨了在数字时代，个人选择如何影响我们在网络中的体验和集体合作的潜力。
+tags:
+- history
+- investment
+- network
+- science
+- technology
+title: 六度分隔、小世界网络与社会连接的深层影响
 ---
+
 ### 六度分隔理论的起源与悖论
 
 1999年，德国报纸《**时代周刊**》（Die Zeit: 德国一份全国性周报）进行了一项实验。他们询问一位沙拉三明治销售员兼前剧院导演萨拉赫·本·加利（Salah ben Ghaly），他最想与世界上哪位名人建立联系。他选择了自己最喜欢的演员马龙·白兰度（Marlon Brando）。

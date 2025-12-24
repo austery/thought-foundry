@@ -1,48 +1,48 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: general
+companies_orgs:
+- NVIDIA
 date: '2025-12-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Joe Rogan Experience
+- The New Yorker
+- 《终结者》
+- 《黑客帝国》
+- 《使命召唤》
+- 《洞穴寓言》
+people:
+- Brett Weinstein
+- Joe Rogan
+- James Summers
+- Carl Newport
+- Geoffrey Hinton
+products_models:
+- ChatGPT
+- Claude
+- Gemini
+- ChatGPT4
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=Lw8pleyvcVw
 speaker: 北美王路飞
-tags:
-  - ai-misconceptions
-  - large-language-models
-  - ai-agents
-  - cognitive-bias
-  - information-pollution
-title: 揭秘AI：从“觉醒的婴儿”到“静态的数学表格”——2025年AI泡沫破裂后的冷静审视
-summary: 本文深入剖析了围绕人工智能的普遍误解与恐惧，通过计算机科学的视角，揭示了AI的本质是静态的数学模型，而非具有意识或意图的生命体。文章驳斥了将AI拟人化的“万物有灵论思维”，并指出2025年AI智能体（Agent）的失败，证明了AI在物理世界规划能力的贫瘠。最终，文章警示了AI带来的真正风险并非科幻中的“天网”，而是信息环境污染和人类认知能力的退化，呼吁理性使用AI，保护人类的专注与思考能力。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Brett Weinstein
-  - Joe Rogan
-  - James Summers
-  - Carl Newport
-  - Geoffrey Hinton
-companies_orgs:
-  - NVIDIA
-products_models:
-  - ChatGPT
-  - Claude
-  - Gemini
-  - ChatGPT4
-media_books:
-  - Joe Rogan Experience
-  - The New Yorker
-  - 《终结者》
-  - 《黑客帝国》
-  - 《使命召唤》
-  - 《洞穴寓言》
 status: evergreen
+summary: 本文深入剖析了围绕人工智能的普遍误解与恐惧，通过计算机科学的视角，揭示了AI的本质是静态的数学模型，而非具有意识或意图的生命体。文章驳斥了将AI拟人化的“万物有灵论思维”，并指出2025年AI智能体（Agent）的失败，证明了AI在物理世界规划能力的贫瘠。最终，文章警示了AI带来的真正风险并非科幻中的“天网”，而是信息环境污染和人类认知能力的退化，呼吁理性使用AI，保护人类的专注与思考能力。
+tags:
+- ai-agent
+- cognitive-bias
+- information
+- large-language-model
+- llm
+title: 揭秘AI：从“觉醒的婴儿”到“静态的数学表格”——2025年AI泡沫破裂后的冷静审视
 ---
+
 ### AI意识觉醒的恐惧与生物学家的误判
 
 就在两周前，生物学家Brett Weinstein参加了Joe Rogan的播客节目，这期节目在互联网上引起了不小的震动。大家都知道，现在网络聊天绕不开一个话题——AI。但是Weinstein没有谈什么生产力工具，也没有聊ChatGPT帮他写了多少邮件。他在节目一开始就抛出了一段非常惊悚的独白。他看着Joe Rogan，眼神里充满了担忧，他是这么说的：“你会听到有些人说，‘AI根本不是在真正的思考，它只不过是在计算下一个词出现的概率而已。’我告诉你，这全是垃圾废话（garbage）。”

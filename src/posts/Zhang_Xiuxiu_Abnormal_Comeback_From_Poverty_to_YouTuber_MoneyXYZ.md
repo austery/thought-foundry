@@ -5,15 +5,15 @@ area: null
 category: null
 project: []
 tags:
-  - youtuber
-  - 人生故事
-  - 張修修
-  - 自我成长
+- life
+- personal-growth
+- 張修修
 people:
 - 不正常人类
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- youtuber
 date: '2025-07-10'
 author: Lei
 speaker: null
@@ -24,6 +24,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 這次的採訪對象是台灣的 YouTuber 張修修。現在是 2022 年 6
 月了，大家過得還好嗎？其實我不太好欸。兩年前我第一次看到這條視頻的時候，我的直覺非常的強烈，大家都知道，我喜歡這個人，我一定得認識他，跟他好好的聊一聊。因為我能感受到啊，在那條短短的視頻背後藏著一個更大、更複雜也更精彩的人生故事。不要當成
 NPC（非玩家角色，遊戲中由電腦控制的角色），一個人一匹白馬就去了。他的腦袋啊，你完全可以看得出在冒煙。所以還有我一個很矛盾的，就是我覺得沒什麼，然後後來又覺得，哇這太屌了。

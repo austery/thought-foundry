@@ -1,48 +1,49 @@
 ---
-author: 一口新飯
+area: society-systems
+category: general
+companies_orgs:
+- Tesla
+- Interactive Brokers
+- Replit
+- OpenAI
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Art of Doing Science and Research》
+- 《IT狂人》
+people:
+- Sam Altman
+- Richard Hamming
+- Geoffrey Hinton
+- Steve Jobs
+products_models:
+- ChatGPT
+- Robo Taxi
+- Gemini CLI
+- n8n
+- Claude Code
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- vibe-coding
+series: ''
 source: https://www.youtube.com/watch?v=sgD0UKYQC6Y
 speaker: 一口新飯
-tags:
-  - vibe-coding
-  - ai-automation
-  - job-displacement
-  - role-transformation
-  - resource-ownership
-title: 'ALL in AI: 为什么你需要立即开始Vibe Coding？'
-summary: 本视频深入探讨了在AI时代，为何个人必须立即开始“Vibe Coding”。作者指出，AI带来的全面自动化正终结“工具人”的黄金时代，导致大规模结构性失业。他强调，真正的机遇在于从工具使用者转变为工具和资源的拥有者。作者分享了其个人策略，包括投资AI核心资源和通过Vibe Coding驾驭AI。Vibe Coding被定义为利用自然语言与AI协作解决实际问题，是实现个人角色跃迁的关键。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - personal-growth-lab
-  - vibe-coding
-people:
-  - Sam Altman
-  - Richard Hamming
-  - Geoffrey Hinton
-  - Steve Jobs
-companies_orgs:
-  - Tesla
-  - Interactive Brokers
-  - Replit
-  - OpenAI
-products_models:
-  - ChatGPT
-  - Robo Taxi
-  - Gemini CLI
-  - n8n
-  - Claude Code
-media_books:
-  - 《The Art of Doing Science and Research》
-  - 《IT狂人》
 status: evergreen
+summary: 本视频深入探讨了在AI时代，为何个人必须立即开始“Vibe Coding”。作者指出，AI带来的全面自动化正终结“工具人”的黄金时代，导致大规模结构性失业。他强调，真正的机遇在于从工具使用者转变为工具和资源的拥有者。作者分享了其个人策略，包括投资AI核心资源和通过Vibe
+  Coding驾驭AI。Vibe Coding被定义为利用自然语言与AI协作解决实际问题，是实现个人角色跃迁的关键。
+tags:
+- ai-automation
+- environment
+- job-displacement
+- transformation
+- vibe-coding
+title: 'ALL in AI: 为什么你需要立即开始Vibe Coding？'
 ---
+
 ### AI时代生存法则：为何你需要立即开始Vibe Coding
 
 最近发生的两件事，让我觉得必须制作一个视频来告诉大家，为什么我们每个人都需要立即开始所谓的**Vibe Coding**（通过自然语言，在需要时结合代码，同AI协作来解决实际问题的过程）。我知道这听起来有点制造焦虑，但我相信当你看完这个视频之后，你就会明白，我分享的是很多人还没有意识到的正在发生的现实。

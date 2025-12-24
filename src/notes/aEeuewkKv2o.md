@@ -1,48 +1,48 @@
 ---
-author: 徒步的騎手
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- Nazi Germany
+- Israel
+- Ku Klux Klan
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《艾希曼在耶路撒冷》
+- 《悲惨世界》
+- 《老无所依》
+- No Country for Old Men
+people:
+- Hannah Arendt
+- Adolf Eichmann
+- Victor Hugo
+- Jean Valjean
+- Javert
+- Thénardiers
+- Ren Zhiqiang
+- Immanuel Kant
+- Gunnar Myrdal
+products_models: []
+project:
+- china-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=aEeuewkKv2o
 speaker: 徒步的騎手
-tags:
-  - banality-of-evil
-  - human-nature
-  - institutional-evil
-  - individual-responsibility
-  - chinese-society
-title: 恶并不平庸：对“平庸的恶”的反思与中国社会的竞争性作恶
-summary: 本期节目深入探讨了**汉娜·阿伦特**提出的“平庸的恶”概念，并对其进行了批判性反思。讲者指出，阿伦特对**艾希曼**的描述流于表面，未能洞察作恶者主动、精明的本性。结合中国社会的现实，节目强调了“乖巧的恶”和“竞争性作恶”的普遍性，认为恶并非平庸，而是积极主动、损人利己。同时，节目批判了将所有问题归咎于制度的“制度决定论”，强调了个人责任的重要性，并以**雨果**的《悲惨世界》为例，阐释了在恶劣制度下人性的多样选择。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-people:
-  - Hannah Arendt
-  - Adolf Eichmann
-  - Victor Hugo
-  - Jean Valjean
-  - Javert
-  - Thénardiers
-  - Ren Zhiqiang
-  - Immanuel Kant
-  - Gunnar Myrdal
-companies_orgs:
-  - Nazi Germany
-  - Israel
-  - Ku Klux Klan
-products_models: []
-media_books:
-  - 《艾希曼在耶路撒冷》
-  - 《悲惨世界》
-  - 《老无所依》
-  - No Country for Old Men
 status: evergreen
+summary: 本期节目深入探讨了**汉娜·阿伦特**提出的“平庸的恶”概念，并对其进行了批判性反思。讲者指出，阿伦特对**艾希曼**的描述流于表面，未能洞察作恶者主动、精明的本性。结合中国社会的现实，节目强调了“乖巧的恶”和“竞争性作恶”的普遍性，认为恶并非平庸，而是积极主动、损人利己。同时，节目批判了将所有问题归咎于制度的“制度决定论”，强调了个人责任的重要性，并以**雨果**的《悲惨世界》为例，阐释了在恶劣制度下人性的多样选择。
+tags:
+- chinese
+- human-nature
+- individual-responsibility
+- institutional
+- technology
+title: 恶并不平庸：对“平庸的恶”的反思与中国社会的竞争性作恶
 ---
+
 各位好，这些年经常听到中文世界有人讲**平庸的恶**（The Banality of Evil: 政治思想家**汉娜·阿伦特**提出的概念，指大屠杀等罪行并非由狂热分子或反社会者实施，而是由普通人因不思考、盲目服从权威而犯下），或者说恶的平庸。这是**汉娜·阿伦特**的说法。用老百姓的话来说，就是不用头脑思考，随波逐流干坏事，像**希特勒**时代的**纳粹**官员，像文革时代的红卫兵，向现在中国体制内一些大大小小的官吏。**阿伦特**对**纳粹德国**的说法有一定的道理，但他不是个有深度观察能力、有深度思考能力的人。对很多事物的评论都流于表面，在恶的问题上也是这样。
 
 ### 艾希曼的伪装与阿伦特的盲区

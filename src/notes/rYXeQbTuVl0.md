@@ -1,64 +1,63 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Meta
+- OpenAI
+- NVIDIA
+- Anthropic
+- Google
+- Apple
+- Microsoft
+- Amazon
 date: '2025-04-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Mark Zuckerberg
+- Sam Altman
+products_models:
+- Llama 3
+- Llama 4
+- Meta AI
+- Scout
+- Maverick
+- Behemoth
+- o4-mini
+- Gemini 2.5 Flash
+- Sonnet 3.7
+- Claude
+- MetaMate
+- Llama Guard
+- Code Shield
+- Ray-Ban Meta
+- Android
+- iMessage
+- WhatsApp
+- Instagram
+- Facebook
+- Netflix
+- ESPN
+- TikTok
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=rYXeQbTuVl0
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-agent
-  - open-source-ai
-  - ai-infrastructure
-  - ai-social-impact
-title: 扎克伯格：AI将在18个月内编写Meta大部分代码
-summary: Meta首席执行官马克·扎克伯格在播客中分享了Llama 4的最新进展，包括其多模态能力和未来规划。他深入探讨了开源AI与闭源AI的竞争格局，强调Meta AI的北极星指标是用户价值而非传统基准。扎克伯格还展望了AI在软件工程、客户支持、社交娱乐等领域的巨大潜力，并讨论了AI治理、模型价值观编码及基础设施建设等关键议题。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Mark Zuckerberg
-  - Dwarkesh Patel
-  - Sam Altman
-companies_orgs:
-  - Meta
-  - OpenAI
-  - NVIDIA
-  - Anthropic
-  - Google
-  - Apple
-  - Microsoft
-  - Amazon
-products_models:
-  - Llama 3
-  - Llama 4
-  - Meta AI
-  - Scout
-  - Maverick
-  - Behemoth
-  - o4-mini
-  - Gemini 2.5 Flash
-  - Sonnet 3.7
-  - Claude
-  - MetaMate
-  - Llama Guard
-  - Code Shield
-  - Ray-Ban Meta
-  - Android
-  - iMessage
-  - WhatsApp
-  - Instagram
-  - Facebook
-  - Netflix
-  - ESPN
-  - TikTok
-media_books: []
 status: evergreen
+summary: Meta首席执行官马克·扎克伯格在播客中分享了Llama 4的最新进展，包括其多模态能力和未来规划。他深入探讨了开源AI与闭源AI的竞争格局，强调Meta
+  AI的北极星指标是用户价值而非传统基准。扎克伯格还展望了AI在软件工程、客户支持、社交娱乐等领域的巨大潜力，并讨论了AI治理、模型价值观编码及基础设施建设等关键议题。
+tags:
+- ai-agent
+- ai-infrastructure
+- ai-social-impact
+- open-source-ai
+title: 扎克伯格：AI将在18个月内编写Meta大部分代码
 ---
+
 马克，感谢你再次来到播客。很高兴能来，很高兴见到你。我也是。你上次来的时候发布了 **Llama 3**，现在又发布了 **Llama 4** 的第一个版本。没错。有什么新东西？有什么令人兴奋的？有什么变化？整个领域变化如此之快，感觉自从我们上次谈话以来，一切都发生了巨大变化。**Meta AI** 现在每月有近 **10亿** 人使用，这相当惊人。我认为今年对所有这些都将是重要的一年，特别是当你启动个性化循环时。我们现在才刚刚开始真正构建它，这不仅包括所有算法对你感兴趣的内容（如信息流、个人资料信息、社交图谱信息）的理解，还包括你与AI的互动方式。这将是下一个令人兴奋的重点，我对此非常看好。
 
 ### Llama 4 模型发布与规划

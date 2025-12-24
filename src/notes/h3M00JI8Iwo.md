@@ -1,46 +1,46 @@
 ---
-author: TED
+area: personal-systems
+category: psychology
+companies_orgs:
+- TED
+- Amazon Prime
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Netflix
+people:
+- Oz Pearlman
+- Ian
+- Nanjera
+- Jeff Johnson
+- Dylan
+- Brett
+- Michael Phelps
+- Bob Dylan
+- Trevor Noah
+- Alexander the Great
+- Barack Obama
+products_models:
+- Frisbee
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=h3M00JI8Iwo
 speaker: TED
-tags:
-  - people-reading
-  - memory-techniques
-  - human-behavior
-  - mentalism
-  - self-belief
-title: 心灵魔术师的秘密：阅读人心与记忆姓名之艺术
-summary: 在这场引人入胜的TED演讲中，心灵魔术师奥兹·珀尔曼揭示了他并非真正拥有读心术，而是通过精湛的观察和对人类思维的逆向工程来“阅读”人们。他通过精彩的互动表演展示了这一技能，并分享了一套实用的记忆技巧——“倾听、重复、回应”，旨在帮助听众永远记住新认识的人的名字。珀尔曼还深入探讨了信念在成功中的关键作用，并通过一次赋能观众的最终演示，完美诠释了其表演艺术的精髓。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Oz Pearlman
-  - Ian
-  - Nanjera
-  - Jeff Johnson
-  - Dylan
-  - Brett
-  - Michael Phelps
-  - Bob Dylan
-  - Trevor Noah
-  - Alexander the Great
-  - Barack Obama
-companies_orgs:
-  - TED
-  - Amazon Prime
-products_models:
-  - Frisbee
-media_books:
-  - Netflix
 status: evergreen
+summary: 在这场引人入胜的TED演讲中，心灵魔术师奥兹·珀尔曼揭示了他并非真正拥有读心术，而是通过精湛的观察和对人类思维的逆向工程来“阅读”人们。他通过精彩的互动表演展示了这一技能，并分享了一套实用的记忆技巧——“倾听、重复、回应”，旨在帮助听众永远记住新认识的人的名字。珀尔曼还深入探讨了信念在成功中的关键作用，并通过一次赋能观众的最终演示，完美诠释了其表演艺术的精髓。
+tags:
+- human-behavior
+- life
+- memory
+- self
+- society
+title: 心灵魔术师的秘密：阅读人心与记忆姓名之艺术
 ---
+
 ### 读心术的真相：阅读人心而非思想
 
 我被宣传为世界上最伟大的读心者。

@@ -1,37 +1,36 @@
 ---
-title: Tulsi Gabbard on Declassifying the Russiagate Hoax and Reforming Politicized
-  Intelligence
-summary: Director of National Intelligence Tulsi Gabbard details the declassified
-  evidence behind the Russiagate hoax, explaining how intelligence was allegedly politicized
-  to undermine a presidency, and discusses her current mission to root out corruption
-  and secure the southern border.
 area: market-analysis
-category: geopolitics
-project:
-- us-analysis
-tags:
-- intelligence-agencies
-- political-weaponization
-- russiagate
-- us-politics
-people:
-  - tulsi-gabbard
-  - Interviewer
-  - Tulsi Gabbard
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-09-25
 author: Lei
-speaker: ''
+category: politics-society
+companies_orgs: []
+date: 2025-09-25
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+people:
+- tulsi-gabbard
+- Interviewer
+- Tulsi Gabbard
+products_models: []
+project:
+- us-analysis
 series: null
 source: null
+speaker: ''
 status: evergreen
+summary: Director of National Intelligence Tulsi Gabbard details the declassified
+  evidence behind the Russiagate hoax, explaining how intelligence was allegedly politicized
+  to undermine a presidency, and discusses her current mission to root out corruption
+  and secure the southern border.
+tags:
+- geopolitical
+- intelligence
+- political
+title: Tulsi Gabbard on Declassifying the Russiagate Hoax and Reforming Politicized
+  Intelligence
 ---
+
 ### Introduction
 
 Interviewer: Ladies and gentlemen, please welcome Tulsi Gabbard. Hello. Nice to see you, Tulsi. Thanks for coming.

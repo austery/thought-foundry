@@ -1,69 +1,70 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Bloomberg Podcasts
+- AQR
+- Goldman Sachs
+- Citadel
+- Susquehanna
+- Hudson River Trading
+- Robinhood
+- FanDuel
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Who Wants to Be a Millionaire?
+- Journal of Portfolio Management
+- The Princess Bride
+- The Simpsons
+- The Wisdom of Crowds
+- Extraordinary Popular Delusions and the Madness of Crowds
+- Scorecasting
+people:
+- Cliff Asness
+- Tracy Alloway
+- Joe Weisenthal
+- Regis Philbin
+- Tom Keene
+- Eugene Fama
+- Stan Druckenmiller
+- Jack Bogle
+- Mike Green
+- Robert Shiller
+- Lars Hansen
+- Jim Surowiecki
+- Marshall McLuhan
+- Ian Dunning
+- Toby Moskowitz
+- Aaron Brown
+- Ken Griffin
+- Steve Cohen
+- Izzy Englander
+- Tucker Carlson
+products_models:
+- Odd Lots
+project:
+- investment-strategy
+- market-cycles
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=e1Iok2wyoCw
 speaker: Bloomberg Podcasts
-tags:
-  - market-efficiency
-  - wisdom-of-crowds
-  - behavioral-finance
-  - passive-investing
-  - value-investing
-title: AQR 创始人 Cliff Asness：过去十年，市场为何变得越来越“蠢”？
-summary: AQR 联合创始人 Cliff Asness 深入探讨了他的“欠有效市场假说”。他认为，过去十年，市场变得越来越容易出现非理性行为的爆发。Asness 将此现象归因于两大因素：一是被动投资的兴起，导致进行资产定价的参与者减少；二则更为关键，是社交媒体的崛起，它破坏了群体决策的独立性，将“群体智慧”扭曲为“乌合之众的疯狂”。文章还探讨了作为理性投资者在非理性市场中面临的挑战、散户投资者的影响、AI 在量化投资中的应用，以及多策略与多管理人模式的区别。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - systems-thinking
-people:
-  - Cliff Asness
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Regis Philbin
-  - Tom Keene
-  - Eugene Fama
-  - Stan Druckenmiller
-  - Jack Bogle
-  - Mike Green
-  - Robert Shiller
-  - Lars Hansen
-  - Jim Surowiecki
-  - Marshall McLuhan
-  - Ian Dunning
-  - Toby Moskowitz
-  - Aaron Brown
-  - Ken Griffin
-  - Steve Cohen
-  - Izzy Englander
-  - Tucker Carlson
-companies_orgs:
-  - Bloomberg Podcasts
-  - AQR
-  - Goldman Sachs
-  - Citadel
-  - Susquehanna
-  - Hudson River Trading
-  - Robinhood
-  - FanDuel
-products_models:
-  - Odd Lots
-media_books:
-  - Who Wants to Be a Millionaire?
-  - Journal of Portfolio Management
-  - The Princess Bride
-  - The Simpsons
-  - The Wisdom of Crowds
-  - Extraordinary Popular Delusions and the Madness of Crowds
-  - Scorecasting
 status: evergreen
+summary: AQR 联合创始人 Cliff Asness 深入探讨了他的“欠有效市场假说”。他认为，过去十年，市场变得越来越容易出现非理性行为的爆发。Asness
+  将此现象归因于两大因素：一是被动投资的兴起，导致进行资产定价的参与者减少；二则更为关键，是社交媒体的崛起，它破坏了群体决策的独立性，将“群体智慧”扭曲为“乌合之众的疯狂”。文章还探讨了作为理性投资者在非理性市场中面临的挑战、散户投资者的影响、AI
+  在量化投资中的应用，以及多策略与多管理人模式的区别。
+tags:
+- behavioral-finance
+- investing
+- market-efficiency
+- philosophy
+title: AQR 创始人 Cliff Asness：过去十年，市场为何变得越来越“蠢”？
 ---
+
 ### 播客十周年与市场的变迁
 
 Tracy Alloway：大家好，欢迎收听新一期的《Odd Lots》播客。我是 Tracy Alloway。

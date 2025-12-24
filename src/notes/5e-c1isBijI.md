@@ -1,52 +1,51 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Ministry of Education
 date: '2025-03-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Book of Han
+- Records of the Three Kingdoms
+- Records of the Grand Historian
+- Zhenguan Zhengyao
+people:
+- Qin Shi Huang
+- Liu Che
+- Ban Gu
+- Chen Shou
+- Cao Pi
+- Liu Bang
+- Xiang Yu
+- Mao Zedong
+- Ji An
+- Li Shimin
+- Li Daliang
+- Han Yu
+- Wang Yi
+- Emperor Wen of Han
+- Emperor Jing of Han
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=5e-c1isBijI
 speaker: Anthony看世界
-tags:
-  - imperial-perspective
-  - chinese-nationalism
-  - autocratic-rule
-  - historical-revisionism
-  - power-legitimacy
-title: 为何中国文化中易生帝王视角？批判“雄才大略”与专制统治的本质
-summary: 本视频深入探讨了中国文化中普遍存在的“帝王视角”现象，并批判了对“雄才大略”型君主的盲目推崇。通过剖析长城的功能、汉武帝对外战争的真实动机，以及李世民对待边疆民族的策略，揭示了专制统治下国家利益与民众福祉的错位。视频还对比了中西方在权力合法性法理基础上的根本差异，指出民族主义叙事如何将帝王行为包装成现代国家理性运作的产物，从而掩盖了其自私与残暴的本质。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - Qin Shi Huang
-  - Liu Che
-  - Ban Gu
-  - Chen Shou
-  - Cao Pi
-  - Liu Bang
-  - Xiang Yu
-  - Mao Zedong
-  - Ji An
-  - Li Shimin
-  - Li Daliang
-  - Han Yu
-  - Wang Yi
-  - Emperor Wen of Han
-  - Emperor Jing of Han
-companies_orgs:
-  - Ministry of Education
-products_models: []
-media_books:
-  - Book of Han
-  - Records of the Three Kingdoms
-  - Records of the Grand Historian
-  - Zhenguan Zhengyao
 status: evergreen
+summary: 本视频深入探讨了中国文化中普遍存在的“帝王视角”现象，并批判了对“雄才大略”型君主的盲目推崇。通过剖析长城的功能、汉武帝对外战争的真实动机，以及李世民对待边疆民族的策略，揭示了专制统治下国家利益与民众福祉的错位。视频还对比了中西方在权力合法性法理基础上的根本差异，指出民族主义叙事如何将帝王行为包装成现代国家理性运作的产物，从而掩盖了其自私与残暴的本质。
+tags:
+- canada
+- chinese-nationalism
+- historical
+- imperial-perspective
+- power
+title: 为何中国文化中易生帝王视角？批判“雄才大略”与专制统治的本质
 ---
 
 ### 引言：长城的双重功能与民族主义的叙事

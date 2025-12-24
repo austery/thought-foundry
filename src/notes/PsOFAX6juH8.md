@@ -1,77 +1,78 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- SoFi
+- SpaceX
+- S&P 500
+- Netflix
+- Warner Bros.
+- Meta
+- Robin Hood
+- Nvidia
+- Carvana
+- Reddit
+- MicroStrategy
+- Google
+- OpenAI
+- Paramount
+- Tesla
+- Microsoft
+- Amazon
+- Apple
+- DOJ
+- Federal Reserve
+- ServiceNow
+- CRH
+- Comfort Systems
+- AT&T
+- Disney
+- Oracle
+- CNN
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Wall Street Journal
+people:
+- Elon Musk
+- Josh Brown
+- Sam Altman
+- Donald Trump
+- Larry Ellison
+- Anthony Noto
+- Mark Carney
+products_models:
+- Bitcoin
+- Ethereum
+- ChatGPT
+- Gemini
+- Llama
+- Vision Pro
+- iPhone
+- Starlink
+- Ray-Ban Smart Glasses
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=PsOFAX6juH8
 speaker: Amit Kukreja
-tags:
-  - sp-500-rebalancing
-  - mergers-and-acquisitions
-  - market-commentary
-  - private-market-valuation
-  - ai-wearables
-title: SpaceX估值飙升至8000亿美元，SoFi无缘标普500指数
-summary: 本期市场收盘分析聚焦于周五的平淡行情，尽管盘中一度冲高，但标普500指数最终收平。本期核心议题包括：SpaceX在二级市场的股票出售可能使其估值达到惊人的8000亿美元，超越OpenAI成为全球最大的私营初创公司；Netflix收购华纳兄弟的交易引发了激烈的市场讨论和潜在的监管审查；以及万众瞩目的标普500指数成分股调整，最终Carvana、CRH和Comfort Systems入选，而SoFi、Reddit等热门候选公司则未能入围。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Elon Musk
-  - Josh Brown
-  - Sam Altman
-  - Donald Trump
-  - Larry Ellison
-  - Anthony Noto
-  - Mark Carney
-companies_orgs:
-  - SoFi
-  - SpaceX
-  - S&P 500
-  - Netflix
-  - Warner Bros.
-  - Meta
-  - Robin Hood
-  - Nvidia
-  - Carvana
-  - Reddit
-  - MicroStrategy
-  - Google
-  - OpenAI
-  - Paramount
-  - Tesla
-  - Microsoft
-  - Amazon
-  - Apple
-  - DOJ
-  - Federal Reserve
-  - ServiceNow
-  - CRH
-  - Comfort Systems
-  - AT&T
-  - Disney
-  - Oracle
-  - CNN
-products_models:
-  - Bitcoin
-  - Ethereum
-  - ChatGPT
-  - Gemini
-  - Llama
-  - Vision Pro
-  - iPhone
-  - Starlink
-  - Ray-Ban Smart Glasses
-media_books:
-  - The Wall Street Journal
 status: evergreen
+summary: 本期市场收盘分析聚焦于周五的平淡行情，尽管盘中一度冲高，但标普500指数最终收平。本期核心议题包括：SpaceX在二级市场的股票出售可能使其估值达到惊人的8000亿美元，超越OpenAI成为全球最大的私营初创公司；Netflix收购华纳兄弟的交易引发了激烈的市场讨论和潜在的监管审查；以及万众瞩目的标普500指数成分股调整，最终Carvana、CRH和Comfort
+  Systems入选，而SoFi、Reddit等热门候选公司则未能入围。
+tags:
+- business
+- investment
+- llm
+- market
+- private-market-valuation
+title: SpaceX估值飙升至8000亿美元，SoFi无缘标普500指数
 ---
+
 ### 周五市场回顾与PCE数据
 
 大家好，欢迎回到新一期的市场收盘节目。今天是12月5日，星期五，我们正在直播。今天盘中并没有发生太多疯狂的事情。

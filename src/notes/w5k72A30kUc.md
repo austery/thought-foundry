@@ -1,43 +1,43 @@
 ---
-author: Big Think
+area: society-systems
+category: general
+companies_orgs:
+- Wired magazine
+- Amazon
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Long Boom
+people:
+- Peter Leyden
+- Peter Schwarz
+- FDR
+products_models:
+- iPhone
+- Uber
+- ChatGPT
+- ChatGPT 3.5
+project:
+- us-analysis
+- historical-insights
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=w5k72A30kUc
 speaker: Big Think
-tags:
-  - tipping-points
-  - technological-shifts
-  - societal-transformation
-  - 80-year-cycles
-  - future-civilization
-title: 2025：旧世界的终结与新文明的黎明——三大技术引爆历史性变革
-summary: 彼得·莱登指出，2025年正处于一个历史性的转折点，与美国历史上内战后、二战后的变革时期相似。他认为，人工智能、清洁能源和生物工程这三大颠覆性技术正在推动旧有系统瓦解，并催生21世纪的新文明。文章探讨了从金融资本主义到可持续资本主义、代议制民主到数字民主、以及民族国家到全球治理的潜在转变，强调了美国乃至全球正经历的巨大变革。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - ai-impact-analysis
-people:
-  - Peter Leyden
-  - Peter Schwarz
-  - FDR
-companies_orgs:
-  - Wired magazine
-  - Amazon
-products_models:
-  - iPhone
-  - Uber
-  - ChatGPT
-  - ChatGPT 3.5
-media_books:
-  - The Long Boom
 status: evergreen
+summary: 彼得·莱登指出，2025年正处于一个历史性的转折点，与美国历史上内战后、二战后的变革时期相似。他认为，人工智能、清洁能源和生物工程这三大颠覆性技术正在推动旧有系统瓦解，并催生21世纪的新文明。文章探讨了从金融资本主义到可持续资本主义、代议制民主到数字民主、以及民族国家到全球治理的潜在转变，强调了美国乃至全球正经历的巨大变革。
+tags:
+- cycle
+- financial
+- future
+- societal
+- technological
+title: 2025：旧世界的终结与新文明的黎明——三大技术引爆历史性变革
 ---
+
 ### 历史性转折点：旧世界的瓦解与新技术的崛起
 
 我们正生活在一个非凡的历史时刻。在2025年，我们正处于一个世界性的、能够改变游戏规则的技术开始大规模普及的时期。然而，美国乃至整个世界也正经历着巨大的扭曲和挣扎。

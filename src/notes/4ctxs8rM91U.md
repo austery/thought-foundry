@@ -1,53 +1,53 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 新东方
+- 学而思
+- 公安机关
+- 邮电部
 date: '2023-11-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- YouTube
+- Facebook
+- Twitter
+- 《中华人民共和国计算机信息网络国际联联网管理暂行规定》
+people:
+- 庄也
+- 孙猴子
+- 堂弟
+products_models:
+- VPN
+- WhatsApp
+- Telegram
+- Line
+- Facebook Messenger
+- Zoom
+- Google Chat
+- Netflix
+- ChatGPT
+- iPhone
+project:
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=4ctxs8rM91U
 speaker: 莊也雜談
-tags:
-  - internet-censorship
-  - vpn-safety
-  - digital-privacy
-  - chinese-law
-  - travel-tips-china
-title: 在中国安全翻墙的三大守则及真实案例警示
-summary: 本期节目深入探讨外籍人士在中国境内获取互联网信息的“翻墙”问题。庄也指出，翻墙在中国处于灰色地带，并强调其对外籍游客的重要性。节目详细阐述了翻墙的法律边界（不违法但违规），并基于一个真实案例，总结出在中国安全翻墙的三大守则：避免敏感内容互动、选择安全可靠的VPN、以及注意翻墙地点。旨在帮助计划来华的游客规避风险，做好充分准备。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 庄也
-  - 孙猴子
-  - 堂弟
-companies_orgs:
-  - 新东方
-  - 学而思
-  - 公安机关
-  - 邮电部
-products_models:
-  - VPN
-  - WhatsApp
-  - Telegram
-  - Line
-  - Facebook Messenger
-  - Zoom
-  - Google Chat
-  - Netflix
-  - ChatGPT
-  - iPhone
-media_books:
-  - YouTube
-  - Facebook
-  - Twitter
-  - 《中华人民共和国计算机信息网络国际联联网管理暂行规定》
 status: evergreen
+summary: 本期节目深入探讨外籍人士在中国境内获取互联网信息的“翻墙”问题。庄也指出，翻墙在中国处于灰色地带，并强调其对外籍游客的重要性。节目详细阐述了翻墙的法律边界（不违法但违规），并基于一个真实案例，总结出在中国安全翻墙的三大守则：避免敏感内容互动、选择安全可靠的VPN、以及注意翻墙地点。旨在帮助计划来华的游客规避风险，做好充分准备。
+tags:
+- china
+- chinese
+- digital
+- internet-censorship
+- safety
+title: 在中国安全翻墙的三大守则及真实案例警示
 ---
+
 ### 引言：中国互联网的“灰色地带”
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊回国的话题。上集我们讨论了外籍人士去中国是否需要在24小时内向当地派出所报备的问题，得到了无数网友的关注和反馈。大家在视频下方积极留言，我本人也从中补充了不少有用的信息，受益匪浅，增长了不少知识，再次感谢大家。本集节目，我们将继续以干货为主，主要讲解外国人抵达中国后的信息获取问题，说白了就是**翻墙**。

@@ -1,112 +1,112 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Berkshire Hathaway
+- Google
+- Apple
+- Oracle
+- Rocket Lab
+- Tesla
+- Amazon
+- Meta
+- OpenAI
+- Blue Origin
+- Salesforce
+- Coreweave
+- Bloomberg
+- JP Morgan
+- SoftBank
+- Ford
+- Microsoft
+- UnitedHealth Group
+- Grab
+- HIMS
+- Bitmine
+- Cipher
+- Super Micro Computer
+- MicroStrategy
+- Federal Reserve
+- Bank of Japan
+- Bank of America
+- Home Depot
+- Lowe's
+- Target
+- Walmart
+- Bridgewater Associates
+- Anthropic
+- Coinbase
+- Spotify
+- Netflix
+- Dell
+- AMD
+- Micron
+- Broadcom
+- Morgan Stanley
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- CNBC
+- 60 Minutes
+- The Financial Times
+- The New York Times
+people:
+- Warren Buffett
+- Michael Saylor
+- Jeff Bezos
+- Peter Thiel
+- Tom Lee
+- Sundar Pichai
+- Elon Musk
+- Tim Cook
+- Stanley Druckenmiller
+- David Tepper
+- Greg Abel
+- Ray Dalio
+- Howard Marks
+- Kevin Hasset
+- Donald Trump
+- John Williams
+- Rebecca Patterson
+- Jeremy Siegel
+- Bill Gates
+- Jensen Huang
+products_models:
+- Bitcoin
+- Ethereum
+- Gemini
+- Waymo
+- ChatGPT
+- Project Prometheus
+- iPhone 17
+- GB200
+- Blackwell
+- Reuben
+- Optimus
+- FSD
+- Claude
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=jz62JH6e-1Q
 speaker: Amit Kukreja
-tags:
-  - market-volatility
-  - ai-investment
-  - yen-carry-trade
-  - macroeconomic-outlook
-  - nvidia-earnings
-title: 伯克希尔建仓谷歌震动市场，英伟达财报周来临
-summary: 本周市场开盘即由绿转红，波动加剧。核心焦点在于伯克希尔·哈撒韦公司披露建仓谷歌，引发市场对科技股，特别是AI领域的重新评估，谷歌股价因此逆市上扬。与此同时，日本宣布将推出高达17万亿日元的经济刺激计划，其对日元套利交易及加密货币市场的影响备受关注。亚马逊发售高评级债券引发了市场对信贷风险的担忧。本周，万众瞩目的英伟达财报即将发布，其业绩表现和未来指引将成为判断AI投资热潮能否持续的关键。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Warren Buffett
-  - Michael Saylor
-  - Jeff Bezos
-  - Peter Thiel
-  - Tom Lee
-  - Sundar Pichai
-  - Elon Musk
-  - Tim Cook
-  - Stanley Druckenmiller
-  - David Tepper
-  - Greg Abel
-  - Ray Dalio
-  - Howard Marks
-  - Kevin Hasset
-  - Donald Trump
-  - John Williams
-  - Rebecca Patterson
-  - Jeremy Siegel
-  - Bill Gates
-  - Jensen Huang
-companies_orgs:
-  - Nvidia
-  - Berkshire Hathaway
-  - Google
-  - Apple
-  - Oracle
-  - Rocket Lab
-  - Tesla
-  - Amazon
-  - Meta
-  - OpenAI
-  - Blue Origin
-  - Salesforce
-  - Coreweave
-  - Bloomberg
-  - JP Morgan
-  - SoftBank
-  - Ford
-  - Microsoft
-  - UnitedHealth Group
-  - Grab
-  - HIMS
-  - Bitmine
-  - Cipher
-  - Super Micro Computer
-  - MicroStrategy
-  - Federal Reserve
-  - Bank of Japan
-  - Bank of America
-  - Home Depot
-  - Lowe's
-  - Target
-  - Walmart
-  - Bridgewater Associates
-  - Anthropic
-  - Coinbase
-  - Spotify
-  - Netflix
-  - Dell
-  - AMD
-  - Micron
-  - Broadcom
-  - Morgan Stanley
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Gemini
-  - Waymo
-  - ChatGPT
-  - Project Prometheus
-  - iPhone 17
-  - GB200
-  - Blackwell
-  - Reuben
-  - Optimus
-  - FSD
-  - Claude
-media_books:
-  - CNBC
-  - 60 Minutes
-  - The Financial Times
-  - The New York Times
 status: evergreen
+summary: 本周市场开盘即由绿转红，波动加剧。核心焦点在于伯克希尔·哈撒韦公司披露建仓谷歌，引发市场对科技股，特别是AI领域的重新评估，谷歌股价因此逆市上扬。与此同时，日本宣布将推出高达17万亿日元的经济刺激计划，其对日元套利交易及加密货币市场的影响备受关注。亚马逊发售高评级债券引发了市场对信贷风险的担忧。本周，万众瞩目的英伟达财报即将发布，其业绩表现和未来指引将成为判断AI投资热潮能否持续的关键。
+tags:
+- ai-investment
+- macroeconomic-outlook
+- market-volatility
+- nvidia-earning
+- trade
+title: 伯克希尔建仓谷歌震动市场，英伟达财报周来临
 ---
+
 ### 开盘直击：市场由绿转红
 
 大家早上好，欢迎回到新一期的《市场开盘》。今天是11月17日，星期一。我们正在直播，市场刚刚转为下跌。期货市场之前还是上涨的，昨晚也是上涨的，但就在大约30分钟前，市场突然转跌。我认为有几个原因导致了今天市场的下跌，我们稍后会讨论。

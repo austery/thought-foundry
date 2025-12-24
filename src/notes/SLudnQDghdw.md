@@ -1,47 +1,47 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 妇联
+- 公安局
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《大国空巢》
+- 《现代性大饥荒》
+- 《邪联网》
+people:
+- 易富贤
+- 吴国光
+- Elon Musk
+- Xi Jinping
+- 阿玛蒂亚·森
+- 刘宗辉
+- 波尔布特
+products_models:
+- 学习强国APP
+- 脑机接口
+project:
+- china-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=SLudnQDghdw
 speaker: 三個水槍手
-tags:
-  - population-crisis
-  - one-child-policy
-  - socialized-upbringing
-  - demographic-challenge
-  - authoritarian-governance
-title: 中国人口危机、社会化抚养迷思与未来走向：一场评论深度对话
-summary: 本期节目深入探讨了观众对中国人口危机的评论，从计划生育政策的历史遗留问题，到社会化抚养的可行性与成本，再到强制生育手段的有效性。节目分析了人口结构变化对国家经济、社会稳定和民主转型的深远影响，并回应了关于女性权利、人口统计准确性等争议，揭示了中国在人口问题上面临的巨大挑战和复杂性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 易富贤
-  - 吴国光
-  - 马斯克
-  - 习近平
-  - 阿玛蒂亚·森
-  - 刘宗辉
-  - 波尔布特
-companies_orgs:
-  - 妇联
-  - 公安局
-products_models:
-  - 学习强国APP
-  - 脑机接口
-media_books:
-  - 《大国空巢》
-  - 《现代性大饥荒》
-  - 《邪联网》
 status: evergreen
+summary: 本期节目深入探讨了观众对中国人口危机的评论，从计划生育政策的历史遗留问题，到社会化抚养的可行性与成本，再到强制生育手段的有效性。节目分析了人口结构变化对国家经济、社会稳定和民主转型的深远影响，并回应了关于女性权利、人口统计准确性等争议，揭示了中国在人口问题上面临的巨大挑战和复杂性。
+tags:
+- authoritarian-governance
+- challenge
+- crisis
+- policy
+- society
+title: 中国人口危机、社会化抚养迷思与未来走向：一场评论深度对话
 ---
+
 我们来进行读评论节目。这次读的是易富贤老师那期的评论。其实我本来想读吴国光老师那期的，那期评论量特别大，但我挑不出来，全都是攻击吴老师、攻击我们，说我们是汉奸，说“美国现在都这样了，你们还在吹民主”之类的评论。我觉得这种评论含量比较低，我也不知道该怎么回应。下次我们可以尝试用机器人来读这些评论，机器人对机器人。
 
 那期评论量确实非常大，我本以为能选出一些来读，结果全是这类东西，所以选不出来。因此，我们选了易富贤老师这期关于生育问题的节目，这期确实影响挺大的。

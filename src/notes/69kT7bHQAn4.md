@@ -1,35 +1,35 @@
 ---
-title: 市场反弹逻辑、中美关系进展与科技巨头财报解析
-summary: 本期视频深入分析了近期市场空头回补的逻辑、中美贸易关系的最新动态，并详细解读了谷歌、英特尔及Skechers的最新财报数据与市场影响。
 area: market-analysis
 category: finance
+companies_orgs: []
+date: '2025-04-25'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+media_books:
+- talk
+people: []
+products_models: []
 project:
 - china-analysis
 - investment-strategy
 - market-cycles
 - us-analysis
+series: ''
+source: https://www.youtube.com/watch?v=69kT7bHQAn4
+speaker: 投资TALK君
+status: evergreen
+summary: 本期视频深入分析了近期市场空头回补的逻辑、中美贸易关系的最新动态，并详细解读了谷歌、英特尔及Skechers的最新财报数据与市场影响。
 tags:
 - economic-outlook
 - federal-reserve
 - market-analysis
-- tech-earnings
-- us-china-trade
-people: []
-companies_orgs: []
-products_models: []
-media_books:
-- talk
-date: '2025-04-25'
-author: 投资TALK君
-speaker: 投资TALK君
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
-series: ''
-source: https://www.youtube.com/watch?v=69kT7bHQAn4
-status: evergreen
+- tech-earning
+- us-china-relations
+title: 市场反弹逻辑、中美关系进展与科技巨头财报解析
 ---
+
 ### 引言与本期内容概览
 
 欢迎来到一个不单只聊新闻的专业美股频道。本期视频是本周的第四期，我们致力于做到全勤，周五也将尽量发布一期视频。今天主要探讨中美贸易战的进展、两位美联储成员讲话背后的意义，并拆解谷歌、英特尔以及鞋类公司Skechers的三家公司财报。在内容开始之前，请各位观众点赞并留言，以保持留言区的活跃度，确保交流属性不被削弱。

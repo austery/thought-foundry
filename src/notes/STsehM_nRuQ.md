@@ -1,32 +1,30 @@
 ---
-title: 重建巴别塔：稳定币如何打破全球协作壁垒——赋能创作者、零工与AI智能体经济
-summary: 本期节目深入探讨稳定币在跨国支付、创作者经济、零工经济及AI智能体经济中的核心价值。嘉宾Shawn分享了AllScale如何通过自托管链上数字银行模式，解决新兴经济体的开户、收款、提款难题，并展望了AI时代机器经济与能源货币的未来。
 area: market-analysis
 category: finance
-project:
-- ai-impact-analysis
-tags:
-- ai-agent-economy
-- creator-economy
-- cross-border-payment
-- gig-economy
-people: []
 companies_orgs:
 - indigo
-products_models:
-- stablecoin
-media_books: []
 date: '2025-10-10'
-author: INDIGO 数字镜像
-speaker: INDIGO 数字镜像
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- stablecoin
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=STsehM_nRuQ
+speaker: INDIGO 数字镜像
 status: evergreen
+summary: 本期节目深入探讨稳定币在跨国支付、创作者经济、零工经济及AI智能体经济中的核心价值。嘉宾Shawn分享了AllScale如何通过自托管链上数字银行模式，解决新兴经济体的开户、收款、提款难题，并展望了AI时代机器经济与能源货币的未来。
+tags:
+- ai-agent-economy
+- creator-economy
+- economy
+- geopolitical
+title: 重建巴别塔：稳定币如何打破全球协作壁垒——赋能创作者、零工与AI智能体经济
 ---
+
 ### 稳定币：应对全球协作支付难题的新方案
 
 主持人: 欢迎回到Indigo Talk。这一期我们邀请了老朋友Shawn。我记得应该是在今年年初，2025年初，我邀请Shawn和Jenny两个人一块做了一期Indigo Talk。上一次Shawn的身份还是**Hash Matrix**（一家专注于社交营销的代理公司），他们是做社交营销的，对接甲方和乙方的，帮助中国和北美的一些公司，主要是AI公司和一些**Fintech**（金融科技: 运用科技提升金融服务效率的行业）公司，做市场出海和全球营销。正好，因为今年的市场变化很快，Shawn又有了新的业务。要不Shawn你自己再介绍一下？

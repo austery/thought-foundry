@@ -1,50 +1,49 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 华人正念减压中心
+- 初日诊所
+- Google
+- 哈佛医学院
+- Apple
+- Meta
+- 耶鲁大学
+- Cofit
 date: '2025-04-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《世界幸福报告》
+- 《国家地理》
+people:
+- 姚怡君
+- 魏士航
+- 宋晏仁
+- Gary Schwartz
+- Richard Davidson
+- 明就仁波切
+- 悉达多王子
+- Jon Kabat-Zinn
+- Bob Stahl
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=TQz9u06gfcY
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - mindfulness
-  - stress-management
-  - cortisol
-  - mindful-eating
-  - chronic-diseases
-title: 正念的力量：消除压力、阻止脂肪积累，Google、哈佛、苹果都在学的身心调节术
-summary: 本视频深入探讨了现代生活中的压力挑战，以及正念（Mindfulness）如何作为一种有效的工具来管理压力、改善身心健康。姚怡君医师与魏士航医师分享了压力对身体的生理影响（如皮质醇分泌、内脏脂肪堆积），并结合临床案例和个人经验，阐述了正念在饮食控制、职场压力、家庭育儿等方面的积极作用。视频还介绍了正念的科学实证，包括对大脑伽马波的影响，并为初学者提供了入门建议，强调了自我觉察与慈爱智慧的核心价值。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 姚怡君
-  - 魏士航
-  - 宋晏仁
-  - Gary Schwartz
-  - Richard Davidson
-  - 明就仁波切
-  - 悉达多王子
-  - Jon Kabat-Zinn
-  - Bob Stahl
-companies_orgs:
-  - 华人正念减压中心
-  - 初日诊所
-  - Google
-  - 哈佛医学院
-  - Apple
-  - Facebook
-  - 耶鲁大学
-  - Cofit
-products_models: []
-media_books:
-  - 《世界幸福报告》
-  - 《国家地理》
 status: evergreen
+summary: 本视频深入探讨了现代生活中的压力挑战，以及正念（Mindfulness）如何作为一种有效的工具来管理压力、改善身心健康。姚怡君医师与魏士航医师分享了压力对身体的生理影响（如皮质醇分泌、内脏脂肪堆积），并结合临床案例和个人经验，阐述了正念在饮食控制、职场压力、家庭育儿等方面的积极作用。视频还介绍了正念的科学实证，包括对大脑伽马波的影响，并为初学者提供了入门建议，强调了自我觉察与慈爱智慧的核心价值。
+tags:
+- health
+- mindfulnes
+- psychology
+- stress-management
+title: 正念的力量：消除压力、阻止脂肪积累，Google、哈佛、苹果都在学的身心调节术
 ---
+
 ### 现代生活的压力挑战与正念的引入
 
 你是否觉得自己的压力很大？三十几岁时，你可能为了工作升迁、存钱结婚而忙碌；四十几岁时，你可能上有老下有小，家庭事业两头烧；五十几岁时，你可能面对退休规划和健康警讯，为人生下半场感到焦虑。我们的生活不可能没有压力，但压力过大时，往往会带来许多身心疾病。今天，我们将分享一个方法，这个方法连Google都开设课程让员工学习，哈佛医学院、苹果、脸书等机构也都在使用。这个方法就是**正念**（Mindfulness: 一种有意识地将注意力带到当下，并以不加评判的态度观察身心体验的练习）。

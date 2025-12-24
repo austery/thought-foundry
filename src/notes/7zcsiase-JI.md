@@ -1,44 +1,43 @@
 ---
-author: 老周横眉
+area: market-analysis
+category: finance
+companies_orgs:
+- Walmart
+- Toyota
+- Apple
+- Tesla
+- Nvidia
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Donald Trump
+- Galiqi
+- Elon Musk
+products_models:
+- Bitcoin
+- Ethereum
+- Dogecoin
+- Tesla Humanoid Robot
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=7zcsiase-JI
 speaker: 老周横眉
-tags:
-  - financial-leverage
-  - market-volatility
-  - forced-liquidation
-  - investment-risk
-  - cryptocurrency-regulation
-title: 金融杠杆：理解财富增长与毁灭的双刃剑
-summary: 本文深入探讨了金融杠杆这一强大而危险的工具。通过生动的案例，阐释了杠杆如何帮助投资者以小博大，加速财富积累，尤其在房地产和企业发展中的应用。同时，文章也详细揭示了杠杆的巨大风险，包括追缴保证金和强制平仓机制，以及在加密货币等高风险市场中，高杠杆如何导致大规模爆仓和破产。最终强调了在风险可控范围内理性运用杠杆的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Donald Trump
-  - Galiqi
-  - Elon Musk
-companies_orgs:
-  - Walmart
-  - Toyota
-  - Apple
-  - Tesla
-  - Nvidia
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Dogecoin
-  - Tesla Humanoid Robot
-media_books: []
 status: evergreen
+summary: 本文深入探讨了金融杠杆这一强大而危险的工具。通过生动的案例，阐释了杠杆如何帮助投资者以小博大，加速财富积累，尤其在房地产和企业发展中的应用。同时，文章也详细揭示了杠杆的巨大风险，包括追缴保证金和强制平仓机制，以及在加密货币等高风险市场中，高杠杆如何导致大规模爆仓和破产。最终强调了在风险可控范围内理性运用杠杆的重要性。
+tags:
+- financial
+- investment
+- investment-risk
+- market-volatility
+- regulation
+title: 金融杠杆：理解财富增长与毁灭的双刃剑
 ---
+
 ### 引言：爆仓惨剧与杠杆之谜
 
 这也许是人类历史上最惨烈的一次**爆仓**（Forced Liquidation: 投资者因账户亏损，导致保证金不足，被券商或平台强制平仓其所持有的头寸）事件，数百万人瞬间破产，全球各地都发生了跳楼事件。两周前，2025年10月10日，Donald Trump（川普）突然在社交媒体上发文，抨击中国的稀土政策，并且扬言要给中国加重100%的关税。就这么一篇短文引起了全球金融市场的震动，美股首当其冲全面下跌，最惨烈的还是加密货币市场。比特币一度从12.2万美元瞬间跌至10.2万美元，以太坊在极短的时间内缩水20%，其他那些民营币更是惨遭血洗，狗狗币下跌接近60%，很多小币更是瞬间归零。有外国媒体报道称，超过2000名加密货币交易员试图跳楼，可以确认的是，著名的乌克兰交易员Galiqi在给投资者造成3000万美元的损失后，在自己的兰博基尼里饮弹自尽，结束了他的生命。

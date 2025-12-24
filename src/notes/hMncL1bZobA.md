@@ -1,48 +1,46 @@
 ---
-author: 北美王路飞
+area: personal-systems
+category: career
+companies_orgs:
+- 华中科技大学
+- 新南威尔士大学
+- CMU
+- Mynavi
+- Recruitnavi
+- Google
+- Meta
 date: '2025-11-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nobita
+- 三岛游记夫
+- 高市早苗
+- 芬兰小猫
+products_models:
+- JLPT
+- 雅思
+- 托福
+- 托业
+- H1B
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=hMncL1bZobA
 speaker: 北美王路飞
-tags:
-  - study-abroad-japan
-  - language-learning-strategy
-  - job-hunting-process
-  - cultural-adaptation
-title: 从华科到日本：一位普通留学生的求学、求职与生存之道
-summary: 嘉宾 Nobita 分享了他从国内毕业后，因经济原因放弃欧美留学，转而选择日本的真实经历。他详细讲述了如何在国内自学日语并通过 N1，以及在日本跳过语言学校直接攻读硕士所面临的挑战。内容涵盖了他在日本求职的独特流程、工作中的文化适应，以及对语言学习和个人奋斗的深刻见解，为有意赴日发展者提供了宝贵的实践经验。
-insight: ''
-draft: true
-series: ''
-category: career
-area: personal-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Nobita
-  - 北美王路飞
-  - 三岛游记夫
-  - 高市早苗
-  - 芬兰小猫
-companies_orgs:
-  - 华中科技大学
-  - 新南威尔士大学
-  - CMU
-  - Mynavi
-  - Recruitnavi
-  - Google
-  - Facebook
-products_models:
-  - JLPT
-  - 雅思
-  - 托福
-  - 托业
-  - H1B
-media_books: []
 status: evergreen
+summary: 嘉宾 Nobita 分享了他从国内毕业后，因经济原因放弃欧美留学，转而选择日本的真实经历。他详细讲述了如何在国内自学日语并通过 N1，以及在日本跳过语言学校直接攻读硕士所面临的挑战。内容涵盖了他在日本求职的独特流程、工作中的文化适应，以及对语言学习和个人奋斗的深刻见解，为有意赴日发展者提供了宝贵的实践经验。
+tags:
+- cultural
+- science
+- society
+- strategy
+title: 从华科到日本：一位普通留学生的求学、求职与生存之道
 ---
+
 ### 个人背景与留学初心
 
 大家好，我是 Nobita。我毕业于国内的华中科技大学机械学院。毕业后，我先在国内工作了几年，之后才来到日本读书，现在已经步入职场。

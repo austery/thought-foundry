@@ -1,71 +1,71 @@
 ---
-author: 小翠時政財經
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Alibaba
+- Huawei
+- Nvidia
+- OpenAI
+- DeepSeek
+- Google
+- Berkshire Hathaway
+- Apple
+- TSMC
+- Walmart
+- ASML
+- JD.com
+- Pinduoduo
+- Douyin
+- Xiaohongshu
+- 新东方
+- 大疆
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reuters
+- The Economist
+- 观察者网
+- 央视
+- 新闻联播
+- 御渊谈天
+people:
+- Donald Trump
+- Xi Jinping
+- Gaoichi Sanae
+- Warren Buffett
+- Jensen Huang
+- Tim Cook
+- Steve Jobs
+- Jiang Zemin
+products_models:
+- ChatGPT
+- Gemini
+- X AI
+- 通义
+- 千问
+- CANN
+- CUDA
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=sg7DBVfysmI
 speaker: 小翠時政財經
-tags:
-  - china-japan-relations
-  - us-china-tech-competition
-  - ai-censorship
-  - rare-earth-diplomacy
-  - market-volatility
-title: 中日关系骤然恶化，中国AI挑战与全球市场多维透视
-summary: 聚焦中日关系因日本政客言论急剧恶化，中国官媒集体“骂街”引发国际关注，同时中国在稀土协议上对美“耍赖”。科技方面，阿里巴巴与华为积极布局AI，试图挑战美国，但中国AI受内容审查限制面临核心困境。此外，文章分析了美股（谷歌、苹果、英伟达、沃尔玛）及宏观经济数据，并探讨了领导人风格对国家发展的影响，以及加密货币和无人机产业的未来。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Gaoichi Sanae
-  - Warren Buffett
-  - Jensen Huang
-  - Tim Cook
-  - Steve Jobs
-  - Jiang Zemin
-companies_orgs:
-  - Alibaba
-  - Huawei
-  - Nvidia
-  - OpenAI
-  - DeepSeek
-  - Google
-  - Berkshire Hathaway
-  - Apple
-  - TSMC
-  - Walmart
-  - ASML
-  - JD.com
-  - Pinduoduo
-  - Douyin
-  - Xiaohongshu
-  - 新东方
-  - 大疆
-products_models:
-  - ChatGPT
-  - Gemini
-  - X AI
-  - 通义
-  - 千问
-  - CANN
-  - CUDA
-media_books:
-  - Reuters
-  - The Economist
-  - 观察者网
-  - 央视
-  - 新闻联播
-  - 御渊谈天
 status: evergreen
+summary: 聚焦中日关系因日本政客言论急剧恶化，中国官媒集体“骂街”引发国际关注，同时中国在稀土协议上对美“耍赖”。科技方面，阿里巴巴与华为积极布局AI，试图挑战美国，但中国AI受内容审查限制面临核心困境。此外，文章分析了美股（谷歌、苹果、英伟达、沃尔玛）及宏观经济数据，并探讨了领导人风格对国家发展的影响，以及加密货币和无人机产业的未来。
+tags:
+- china
+- china-japan-relations
+- llm
+- market-volatility
+- rare-earth-diplomacy
+title: 中日关系骤然恶化，中国AI挑战与全球市场多维透视
 ---
+
 ### 市场概览：中日关系与A股、港股表现
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月17日，欢迎收看今天的每日要闻节目。这个周末大事件特别多，特别是中日关系，我们等会儿会重点来讲。

@@ -1,49 +1,48 @@
 ---
-author: Veritasium
-date: '2024-08-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vjDYfvPW4mA
-speaker: Veritasium
-tags:
-  - veritasium
-  - aviation-safety
-  - aerodynamics
-  - cabin-pressure
-  - flight-regulations
-  - sensory-perception
-title: 飞机上的误解：舱门、高空飞行、飞行模式与食物口味的真相
-summary: 本视频深入探讨了关于飞机飞行的多个常见误解。它解释了为何飞机舱门在高空飞行时无需上锁，揭示了飞机在高空飞行的主要原因并非避开恶劣天气，而是为了燃油效率。视频还探讨了客舱增压的工程学原理，以及“飞行模式”规定的真实原因（与手机干扰飞机系统无关）。此外，它还分析了高空飞行如何影响我们的味觉，并解释了为何番茄汁在飞机上特别受欢迎。最后，视频强调了航空安全的重要性以及媒体在报道航空事件时可能存在的偏颇。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Mentour Pilot
+category: technology
 companies_orgs:
-  - FAA
-  - FCC
-  - Aloha Airlines
-  - Boeing
-  - Airbus
-  - Ground News
-  - The Independent
-  - SCMP
-  - Free Press
-products_models:
-  - Boeing 737
-  - Airbus
-  - 5G
+- FAA
+- FCC
+- Aloha Airlines
+- Boeing
+- Airbus
+- Ground News
+- The Independent
+- SCMP
+- Free Press
+date: '2024-08-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Veritasium
-  - Mentour Pilot
-  - Ground News
+- Veritasium
+- Mentour Pilot
+- Ground News
+people:
+- Mentour Pilot
+products_models:
+- Boeing 737
+- Airbus
+- 5G
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=vjDYfvPW4mA
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了关于飞机飞行的多个常见误解。它解释了为何飞机舱门在高空飞行时无需上锁，揭示了飞机在高空飞行的主要原因并非避开恶劣天气，而是为了燃油效率。视频还探讨了客舱增压的工程学原理，以及“飞行模式”规定的真实原因（与手机干扰飞机系统无关）。此外，它还分析了高空飞行如何影响我们的味觉，并解释了为何番茄汁在飞机上特别受欢迎。最后，视频强调了航空安全的重要性以及媒体在报道航空事件时可能存在的偏颇。
+tags:
+- canada
+- perception
+- regulation
+- safety
+- science
+title: 飞机上的误解：舱门、高空飞行、飞行模式与食物口味的真相
 ---
+
 ### 飞机舱门为何无需上锁？
 
 大多数飞机舱门都没有上锁。

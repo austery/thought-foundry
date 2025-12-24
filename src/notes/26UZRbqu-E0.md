@@ -1,45 +1,44 @@
 ---
-author: TVO Today
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Federal Conservatives
+- Liberals
+- Acadia University
+- University of Alberta
+- United Conservatives
+- New Democrats
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'No I in Team: Party Loyalty in Canadian Politics'
+people:
+- Chris D'Entremont
+- Alex Marland
+- Jared J. Wesley
+- Nate Erskine-Smith
+- Bobby Brady
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=26UZRbqu-E0
 speaker: TVO Today
-tags:
-  - party-loyalty
-  - canadian-politics
-  - message-discipline
-  - political-polarization
-  - parliamentary-democracy
-title: 加拿大政客的党派忠诚：对民主的塑造与挑战
-summary: 本文深入探讨了加拿大政治中党派忠诚度的核心议题及其对民主的深远影响。节目嘉宾分析了政客对领导人、党派和选民的忠诚困境，以及严格的党派纪律如何压制异议。文章追溯了加拿大党派权力演变的历史，揭示了社交媒体在信息纪律中的作用，并探讨了议员“跳槽”现象及其引发的政治两极化。最后，提出了通过重新定位议员职责和支持独立候选人来打破过度党派化的具体解决方案，旨在促进更健康的民主参与。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - Chris D'Entremont
-  - Alex Marland
-  - Jared J. Wesley
-  - Nate Erskine-Smith
-  - Bobby Brady
-companies_orgs:
-  - Federal Conservatives
-  - Liberals
-  - Acadia University
-  - University of Alberta
-  - United Conservatives
-  - New Democrats
-products_models: []
-media_books:
-  - 'No I in Team: Party Loyalty in Canadian Politics'
 status: evergreen
+summary: 本文深入探讨了加拿大政治中党派忠诚度的核心议题及其对民主的深远影响。节目嘉宾分析了政客对领导人、党派和选民的忠诚困境，以及严格的党派纪律如何压制异议。文章追溯了加拿大党派权力演变的历史，揭示了社交媒体在信息纪律中的作用，并探讨了议员“跳槽”现象及其引发的政治两极化。最后，提出了通过重新定位议员职责和支持独立候选人来打破过度党派化的具体解决方案，旨在促进更健康的民主参与。
+tags:
+- canadian-politics
+- geopolitical
+- history
+- party
+title: 加拿大政客的党派忠诚：对民主的塑造与挑战
 ---
+
 ### 引言：忠诚的困境与党派纪律
 
 政客应该忠诚于谁？是他们的领导人、他们的党派，还是他们的选民？

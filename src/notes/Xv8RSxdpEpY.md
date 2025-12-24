@@ -1,41 +1,40 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- 长荣航空
+- 中国海关
+- 中国联通
+- 辉瑞
+- 莫德纳
+- 杭州亚运会
 date: '2023-11-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 西瓜视频
+- Bilibili
+products_models:
+- N95口罩
+project:
+- china-analysis
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=Xv8RSxdpEpY
 speaker: 莊也雜談
-tags:
-  - china-travel
-  - government-philosophy
-  - post-pandemic-society
-  - asian-games-impact
-  - cultural-observations
-title: 阔别五年重返故土：庄也详述2023中国探亲北京入境见闻与社会观察
-summary: 本期节目中，庄也首先分享了有趣的万圣节发糖经历。随后，他继续2023年回国探亲之旅，详述了从台北飞抵北京国际机场的入境过程。庄也对比了台湾与大陆政府服务理念的差异，观察到疫情对社会心态的影响，并提及了因杭州亚运会带来的机场志愿服务。他还分享了关于国内疫情现状、口罩佩戴习惯以及个人未感染新冠的经历，对五年未归的故土表达了复杂的情感。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-people: []
-companies_orgs:
-  - 长荣航空
-  - 中国海关
-  - 中国联通
-  - 辉瑞
-  - 莫德纳
-  - 杭州亚运会
-products_models:
-  - N95口罩
-media_books:
-  - 西瓜视频
-  - Bilibili
 status: evergreen
+summary: 本期节目中，庄也首先分享了有趣的万圣节发糖经历。随后，他继续2023年回国探亲之旅，详述了从台北飞抵北京国际机场的入境过程。庄也对比了台湾与大陆政府服务理念的差异，观察到疫情对社会心态的影响，并提及了因杭州亚运会带来的机场志愿服务。他还分享了关于国内疫情现状、口罩佩戴习惯以及个人未感染新冠的经历，对五年未归的故土表达了复杂的情感。
+tags:
+- china
+- cultural
+- impact
+- philosophy
+- society
+title: 阔别五年重返故土：庄也详述2023中国探亲北京入境见闻与社会观察
 ---
+
 ### 万圣节的甜蜜“打劫”
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊天，首先聊一聊刚刚过去的**万圣节**（Halloween: 西方国家的传统节日，儿童会装扮并挨家挨户要糖）。平时因为我们家没有孩子，所以我们是不怎么过万圣节的。不过自从搬到这个奥村之后，你不过都不行，因为这里孩子多，一到万圣节总有孩子敲你家门，你也不能装不在家不给人家开门。

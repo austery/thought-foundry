@@ -1,48 +1,47 @@
 ---
-author: 政經孫老師
+area: society-thinking
+category: politics-society
+companies_orgs:
+- European Economic Community
+- European Union
+- London School of Economics and Political Science
+- Public Affairs Institute
+- Al Jazeera
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《法国国是纲要》
+- Global Policy
+- 《战争论》
+people:
+- Alexandre Kojève
+- Karl Marx
+- George Soros
+- Michael Cox
+- Donald Trump
+- Carl von Clausewitz
+- Napoleon
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=zIzqS55PSxU
 speaker: 政經孫老師
-tags:
-  - european-decline
-  - latin-empire-concept
-  - geoeconomic-strategy
-  - political-polarization
-  - international-power-dynamics
-title: 欧洲为何难以重现辉煌：从科耶夫的拉丁帝国构想到现实困境
-summary: 本文深入探讨欧洲衰落的深层原因，追溯至哲学家亚历山大·科耶夫提出的“拉丁帝国”构想。文章分析了欧洲在二战后试图通过地缘经济策略和左倾意识形态来对抗美苏两大强权，却最终陷入能源依赖、创新停滞、社会矛盾加剧的困境。作者指出，欧洲长期逃避军事对抗的“终极检验”，导致其无法成为真正的国际主导力量，并呼吁欧洲需出现“拿破仑式”人物才能重拾辉煌。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - systems-thinking
-people:
-  - Alexandre Kojève
-  - Karl Marx
-  - George Soros
-  - Michael Cox
-  - Donald Trump
-  - Carl von Clausewitz
-  - Napoleon
-companies_orgs:
-  - European Economic Community
-  - European Union
-  - London School of Economics and Political Science
-  - Public Affairs Institute
-  - Al Jazeera
-products_models: []
-media_books:
-  - 《法国国是纲要》
-  - Global Policy
-  - 《战争论》
 status: evergreen
+summary: 本文深入探讨欧洲衰落的深层原因，追溯至哲学家亚历山大·科耶夫提出的“拉丁帝国”构想。文章分析了欧洲在二战后试图通过地缘经济策略和左倾意识形态来对抗美苏两大强权，却最终陷入能源依赖、创新停滞、社会矛盾加剧的困境。作者指出，欧洲长期逃避军事对抗的“终极检验”，导致其无法成为真正的国际主导力量，并呼吁欧洲需出现“拿破仑式”人物才能重拾辉煌。
+tags:
+- decline
+- history
+- international-power-dynamic
+- strategy
+title: 欧洲为何难以重现辉煌：从科耶夫的拉丁帝国构想到现实困境
 ---
+
 ### 欧洲衰落的深层逻辑
 
 今天我们来探讨一下欧洲的底层逻辑，以此补全之前关于美国、俄罗斯和中国底层逻辑的系列。选择这个话题也是考虑到当前的现实原因，例如欧洲目前正与伊斯兰文明发生碰撞，内部矛盾重重，社会一片混乱。欧洲在政治、经济、社会意识形态等方面都面临着巨大的问题。

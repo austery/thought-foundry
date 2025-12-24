@@ -1,32 +1,29 @@
 ---
-author: Veritasium
-date: '2021-05-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=OxGsU8oIWjY
-speaker: Veritasium
-tags:
-  - veritasium
-  - hilberts-hotel
-  - infinity-concepts
-  - countable-uncountable-infinity
-  - cantors-diagonal-argument
-  - mathematical-paradox
-title: 希尔伯特旅馆悖论：无限客房如何住满，甚至超载？
-summary: 本文深入探讨了著名的希尔伯特旅馆悖论，通过一系列情景展示了可数无穷的奇妙特性，即一个拥有无限房间的旅馆如何能接纳无限多的新客人。随后，文章引入了康托尔对角线论证，揭示了存在比可数无穷“更大”的不可数无穷，从而解释了即使是无限房间的旅馆也无法容纳所有类型的无限客人。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-people: []
+category: science
 companies_orgs: []
+date: '2021-05-10'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 products_models: []
-media_books: []
+project:
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=OxGsU8oIWjY
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了著名的希尔伯特旅馆悖论，通过一系列情景展示了可数无穷的奇妙特性，即一个拥有无限房间的旅馆如何能接纳无限多的新客人。随后，文章引入了康托尔对角线论证，揭示了存在比可数无穷“更大”的不可数无穷，从而解释了即使是无限房间的旅馆也无法容纳所有类型的无限客人。
+tags:
+- countable-uncountable-infinity
+- hilberts-hotel
+- philosophy
+- science
+- society
+title: 希尔伯特旅馆悖论：无限客房如何住满，甚至超载？
 ---
+
 ### 希尔伯特旅馆：无限客房的奇妙世界
 
 想象一个拥有无限个客房的旅馆，房号依次是1、2、3、4，以此类推。欢迎来到**希尔伯特旅馆**（Hilbert's Hotel: 一个拥有无限房间的假想旅馆，用于解释无穷的特性），你是这里的经理。乍一看，无论来多少客人，你似乎总能接纳。但实际上，能容纳的人数是有限的，甚至有一种方法能使人数超过无限客房的接纳量。

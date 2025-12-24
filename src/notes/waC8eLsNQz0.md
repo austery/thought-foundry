@@ -1,60 +1,60 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: culture
+companies_orgs:
+- 国民政府
+- 国民党
+- 医界春秋社
+- 中央卫生委员会
+- 国医馆
 date: '2025-03-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《内经》
+- 《伤寒论》
+- 《伤寒杂病论》
+people:
+- 刘瑞恒
+- 伍连德
+- 颜福庆
+- 余言
+- 李受芝
+- 余泽明
+- 张赞成
+- 陆渊磊
+- 杜赞奇
+- 汪启江
+- 成村人
+- 蒋介石
+- 陈国夫
+- 陈立夫
+- 施基末
+- 运铁桥
+- 丽山冒九
+- 张仁安
+- 章太炎
+- 蒋希德
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=waC8eLsNQz0
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - tcm-modernization
-  - scientific-rationalism
-  - nationalism
-  - political-legitimacy
-  - medical-reform
-title: 中医科学化之路：从“废止旧医”到“辨证论治”的百年演变
-summary: 文章探讨了20世纪初中国中医在现代化浪潮中面临的挑战与转型。从国民政府试图废止中医，引发中医界的强烈反抗，到最终通过“中医科学化”的折中方案。重点分析了改革派中医如何尝试将传统“气论”与现代“细菌理论”融合，并最终发展出“辨证论治”这一核心教条。揭示了当代中医是特定历史政治背景下，传统与科学碰撞的现代产物。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 刘瑞恒
-  - 伍连德
-  - 颜福庆
-  - 余言
-  - 李受芝
-  - 余泽明
-  - 张赞成
-  - 陆渊磊
-  - 杜赞奇
-  - 汪启江
-  - 成村人
-  - 蒋介石
-  - 陈国夫
-  - 陈立夫
-  - 施基末
-  - 运铁桥
-  - 丽山冒九
-  - 张仁安
-  - 章太炎
-  - 蒋希德
-companies_orgs:
-  - 国民政府
-  - 国民党
-  - 医界春秋社
-  - 中央卫生委员会
-  - 国医馆
-products_models: []
-media_books:
-  - 《内经》
-  - 《伤寒论》
-  - 《伤寒杂病论》
 status: evergreen
+summary: 文章探讨了20世纪初中国中医在现代化浪潮中面临的挑战与转型。从国民政府试图废止中医，引发中医界的强烈反抗，到最终通过“中医科学化”的折中方案。重点分析了改革派中医如何尝试将传统“气论”与现代“细菌理论”融合，并最终发展出“辨证论治”这一核心教条。揭示了当代中医是特定历史政治背景下，传统与科学碰撞的现代产物。
+tags:
+- history
+- nationalism
+- political-legitimacy
+- reform
+- scientific
+title: 中医科学化之路：从“废止旧医”到“辨证论治”的百年演变
 ---
+
 ### 现代化浪潮下的中医困境与国民政府的挑战
 
 1927年初，中国国家场域出现了一个强烈的挑战者：发起**北伐**（Běifá: 国民革命军推翻北洋政府、统一中国的军事行动）的**国民政府**（Guómín Zhèngfǔ: 1925年成立，由国民党领导的中华民国政府）已经控制了长江中下游以南地区。北伐不仅仅是军事行动，为了与“万恶的卖国军阀”做出区隔，并为战争和新政府提供正当性，**国民党**（Guómíndǎng: 中国近代政党，由孙中山创立）在过程中策划了海量的文宣和群众运动。不少学者认为，这是国民革命军能博得百姓支持、吸收军阀部队，并最终快速取胜的关键。

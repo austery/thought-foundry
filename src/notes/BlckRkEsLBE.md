@@ -1,43 +1,44 @@
 ---
-author: 夸克说
+area: society-thinking
+category: philosophy-thinking
+companies_orgs: []
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《猜想与反驳》
+- 《资本论》
+- 《共产党宣言》
+- 《哥达纲领批判》
+- 《知识分子的鸦片》
+- 《黄帝内经》
+people:
+- 卡尔·马克思
+- 格奥尔格·威廉·弗里德里希·黑格尔
+- 卡尔·波普尔
+- 亚当·斯密
+- 大卫·李嘉图
+- 雷蒙·阿隆
+- marxism
+products_models:
+- 特斯拉
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=BlckRkEsLBE
 speaker: 夸克说
-tags:
-  - marxism
-  - historical-determinism
-  - labor-theory-of-value
-  - ideology
-  - critical-thinking
-title: 马克思到底错在哪儿？为什么这么扯淡的一套理论，居然能骗到这么多信徒、甚至包括某些知识分子？
-summary: 本期节目深入剖析了**马克思主义**（Marxism）的理论谬误，从其核心的**辩证法**（Dialectics）、**劳动价值论**（Labor Theory of Value）和**剩余价值论**（Surplus Value Theory）入手，揭示了其在逻辑、预测和可证伪性上的根本缺陷。节目进一步论证了马克思主义在现实中行不通的原因，包括资源分配的低效、决策机制的失灵以及对人性的错误改造。最后，探讨了该理论为何仍能吸引大量信徒，包括底层民众和部分知识分子，指出其提供了简化的解释、强烈的情绪价值和对权力的诱惑。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - 卡尔·马克思
-  - 格奥尔格·威廉·弗里德里希·黑格尔
-  - 卡尔·波普尔
-  - 亚当·斯密
-  - 大卫·李嘉图
-  - 雷蒙·阿隆
-companies_orgs: []
-products_models:
-  - 特斯拉
-media_books:
-  - 《猜想与反驳》
-  - 《资本论》
-  - 《共产党宣言》
-  - 《哥达纲领批判》
-  - 《知识分子的鸦片》
-  - 《黄帝内经》
 status: evergreen
+summary: 本期节目深入剖析了**马克思主义**（Marxism）的理论谬误，从其核心的**辩证法**（Dialectics）、**劳动价值论**（Labor
+  Theory of Value）和**剩余价值论**（Surplus Value Theory）入手，揭示了其在逻辑、预测和可证伪性上的根本缺陷。节目进一步论证了马克思主义在现实中行不通的原因，包括资源分配的低效、决策机制的失灵以及对人性的错误改造。最后，探讨了该理论为何仍能吸引大量信徒，包括底层民众和部分知识分子，指出其提供了简化的解释、强烈的情绪价值和对权力的诱惑。
+tags:
+- critical-thinking
+- historical-determinism
+- society
+- value
+title: 马克思到底错在哪儿？为什么这么扯淡的一套理论，居然能骗到这么多信徒、甚至包括某些知识分子？
 ---
+
 大家好，欢迎收看夸克说，我是夸克。这期节目咱们聊一个我一直以来就想做的话题：**马克思**到底错在哪儿？之前的节目里，我从宗教史的角度聊过共产主义的历史，但因为时长的限制，还没来得及从理论和逻辑上拆解**马克思主义**（Marxism: 一种以卡尔·马克思和弗里德里希·恩格斯的思想为基础的政治经济学理论体系）的谬误。这期咱们就把这块补上。关于这个话题，此前已经有很多大V做过，但大部分讲的还是偏理论。大家也都知道，做视频节目，讲太理论不好懂，就很难传播。
 
 所以这期节目还是老规矩，我将尽我所能，全面深入又通俗易懂地把这个话题讲透。大家也可以把这些搬运到墙内，或者转发分享给你身边的朋友，争取让更多人听到我们的声音。整期节目会分为四个部分：分别是辩证法、劳动价值和剩余价值、马克思主义为什么行不通，以及最后一部分，为什么有那么多人迷恋马克思并为他的理论辩护。再次强调，您可千万别一听到辩证法之类的专业术语就头疼，我保证每个人都能听进去。好了，请大家系好安全带，咱们马上发车。

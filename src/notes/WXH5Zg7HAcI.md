@@ -1,55 +1,54 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Norges Bank Investment Management
+- Palo Alto Networks
+- Google
+- SoftBank
+- Microsoft
+- OpenAI
+- Walmart
+- Salesforce
+- Workday
+- ServiceNow
+- DoorDash
+- Instacart
+- Nvidia
 date: '2025-04-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nikola Tangen
+- Nikesh Arora
+- Larry Page
+- Masa Son
+- Neil
+products_models:
+- Google Maps
+- Chrome browser
+- Internet Explorer
+- AlphaGo
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=WXH5Zg7HAcI
 speaker: Norges Bank Investment Management
-tags:
-  - cybersecurity
-  - ai-impact
-  - nation-state-threats
-  - supply-chain-attacks
-  - platformization
-title: Palo Alto Networks CEO Nikesh Arora：网络安全、AI颠覆与印度裔领导力
-summary: Palo Alto Networks首席执行官Nikesh Arora在播客中深入探讨了网络安全行业的演变、AI对防御和攻击两方面的影响、供应链攻击的兴起以及国家级威胁。他还分享了Palo Alto Networks的平台化战略、产品至上理念，并剖析了印度裔CEO在科技领域成功的深层原因，以及他个人在职业生涯中的学习与成长经验。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - entrepreneurship
-people:
-  - Nikola Tangen
-  - Nikesh Arora
-  - Larry Page
-  - Masa Son
-  - Neil
-companies_orgs:
-  - Norges Bank Investment Management
-  - Palo Alto Networks
-  - Google
-  - SoftBank
-  - Microsoft
-  - OpenAI
-  - Walmart
-  - Salesforce
-  - Workday
-  - ServiceNow
-  - DoorDash
-  - Instacart
-  - Nvidia
-products_models:
-  - Google Maps
-  - Chrome browser
-  - Internet Explorer
-  - AlphaGo
-media_books: []
 status: evergreen
+summary: Palo Alto Networks首席执行官Nikesh Arora在播客中深入探讨了网络安全行业的演变、AI对防御和攻击两方面的影响、供应链攻击的兴起以及国家级威胁。他还分享了Palo
+  Alto Networks的平台化战略、产品至上理念，并剖析了印度裔CEO在科技领域成功的深层原因，以及他个人在职业生涯中的学习与成长经验。
+tags:
+- ai-impact
+- state
+- supply-chain-attack
+- technology
+title: Palo Alto Networks CEO Nikesh Arora：网络安全、AI颠覆与印度裔领导力
 ---
+
 ### 引言：网络安全的重要性与Palo Alto Networks
 
 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威央行投资管理公司，负责管理挪威政府全球养老基金）的首席执行官Nikola Tangen，今天我非常荣幸能与Palo Alto Networks的首席执行官Nikesh Arora进行一次愉快的对话。

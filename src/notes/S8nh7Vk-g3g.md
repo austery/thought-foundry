@@ -1,33 +1,32 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 卫福部
 date: '2025-09-16'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 范亚萱医师
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=S8nh7Vk-g3g
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - coffee-consumption
-  - blood-sugar-management
-  - cortisol-regulation
-  - caffeine-effects
-  - antioxidants
-title: 咖啡族必看：如何科学饮用咖啡，稳定血糖、平衡皮质醇？
-summary: 范亚萱医师分享了咖啡对健康的影响及科学饮用建议。文章深入探讨了浅焙咖啡的抗氧化优势、咖啡因的代谢作用与潜在风险，以及饮用时间对皮质醇分泌的影响。同时，提出了搭配豆浆、坚果奶、肉桂或抹茶等饮品的健康益处，旨在帮助咖啡爱好者在享受咖啡的同时，更好地管理血糖、平衡压力荷尔蒙，并避免常见误区。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 范亚萱医师
-companies_orgs:
-  - 卫福部
-products_models: []
-media_books: []
 status: evergreen
+summary: 范亚萱医师分享了咖啡对健康的影响及科学饮用建议。文章深入探讨了浅焙咖啡的抗氧化优势、咖啡因的代谢作用与潜在风险，以及饮用时间对皮质醇分泌的影响。同时，提出了搭配豆浆、坚果奶、肉桂或抹茶等饮品的健康益处，旨在帮助咖啡爱好者在享受咖啡的同时，更好地管理血糖、平衡压力荷尔蒙，并避免常见误区。
+tags:
+- antioxidant
+- consumption
+- effect
+- management
+- regulation
+title: 咖啡族必看：如何科学饮用咖啡，稳定血糖、平衡皮质醇？
 ---
+
 ### 咖啡与健康：你真的会喝咖啡吗？
 
 你也是咖啡族吗？是不是起床或上班，不喝一杯咖啡就很难撑过一天？但是你知道，要怎么样喝咖啡才能对身体健康更有帮助吗？大家好，我是范医师，我本身也是很常喝咖啡，也很喜欢在高雄到处探店。今天就来介绍两家朋友大力推荐的在地店家，除了看看这些有趣的店家之外，也会告诉大家一些咖啡的健康小知识。

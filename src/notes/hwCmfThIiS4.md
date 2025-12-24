@@ -1,44 +1,45 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- AWS
+- Hugging Face
+- Ollama
 date: '2025-12-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Attention Is All You Need
+- three blue one brown
+people:
+- Suman Debnath
+- Simon
+products_models:
+- PaLI
+- Strands Agent
+- Bedrock
+- Claude Sonnet 3.7
+- Claude Sonnet 4
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=hwCmfThIiS4
 speaker: AI Engineer
-tags:
-  - multimodal-rag
-  - vision-based-retrieval
-  - agentic-frameworks
-  - pali-model
-  - contrastive-learning
-title: VoiceVision RAG：结合视觉文档智能与语音响应的RAG系统
-summary: 本次研讨会深入探讨了如何将视觉文档智能与语音响应集成到检索增强生成（RAG）系统中。主讲人Suman Debnath首先介绍了传统多模态RAG的局限性，随后详细阐述了基于视觉的检索模型PaLI的工作原理，包括其图像分块和嵌入生成过程。接着，他展示了如何利用Strands Agent这一轻量级代理框架，将PaLI模型与语音功能结合，实现更智能、更自然的问答体验。分享内容涵盖了代码演示、生产案例讨论以及不同RAG架构的适用场景。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Suman Debnath
-  - Simon
-companies_orgs:
-  - AWS
-  - Hugging Face
-  - Ollama
-products_models:
-  - PaLI
-  - Strands Agent
-  - Bedrock
-  - Claude Sonnet 3.7
-  - Claude Sonnet 4
-media_books:
-  - Attention Is All You Need
-  - three blue one brown
 status: evergreen
+summary: 本次研讨会深入探讨了如何将视觉文档智能与语音响应集成到检索增强生成（RAG）系统中。主讲人Suman Debnath首先介绍了传统多模态RAG的局限性，随后详细阐述了基于视觉的检索模型PaLI的工作原理，包括其图像分块和嵌入生成过程。接着，他展示了如何利用Strands
+  Agent这一轻量级代理框架，将PaLI模型与语音功能结合，实现更智能、更自然的问答体验。分享内容涵盖了代码演示、生产案例讨论以及不同RAG架构的适用场景。
+tags:
+- learning
+- llm
+- multimodal-rag
+- pali-model
+- technology
+title: VoiceVision RAG：结合视觉文档智能与语音响应的RAG系统
 ---
+
 ### 欢迎与议程概述
 
 好的，大家几乎准时。首先，非常感谢大家抽出时间加入我们。在接下来的一个小时左右，我们将探讨一些我发现非常有趣的内容，尤其是在我开始研究这个基于视觉的检索主题时。我会给大家介绍一些背景，说明我是如何接触到这个领域的。我的主要想法是分享一些关于这种特定检索方法的学习经验，其中包含许多内容。我将分享一篇关于检索的最新研究论文，它涉及基于视觉的检索，并且我还想将其与**代理**（Agentic Application: 指能够自主感知环境、规划行动并执行任务的软件系统）结合起来。如今，我们几乎离不开代理。

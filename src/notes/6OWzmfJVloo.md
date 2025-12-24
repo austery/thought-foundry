@@ -1,39 +1,38 @@
 ---
-author: TED
+area: society-systems
+category: psychology
+companies_orgs:
+- Boeing
+- Chernobyl nuclear plant
+- TED
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Rafael Chiuzi
+- Ed Pierson
+- Amy Edmondson
+products_models:
+- 737 Max
+project:
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=6OWzmfJVloo
 speaker: TED
-tags:
-  - psychological-safety
-  - team-success
-  - organizational-culture
-  - leadership
-  - vulnerability
-title: 团队成功的强大预测因素：心理安全
-summary: 本文深入探讨了心理安全在团队成功中的关键作用。通过个人经历、历史案例（如切尔诺贝利和波音737 Max事故）以及一项大学实验，文章阐释了心理安全如何促进团队绩效、创造力和学习。作者还提供了培养心理安全的具体行动建议，并强调其在职场、家庭和社区中的普遍重要性，指出它对人类互动和心理健康至关重要。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Rafael Chiuzi
-  - Ed Pierson
-  - Amy Edmondson
-companies_orgs:
-  - Boeing
-  - Chernobyl nuclear plant
-  - TED
-products_models:
-  - 737 Max
-media_books: []
 status: evergreen
+summary: 本文深入探讨了心理安全在团队成功中的关键作用。通过个人经历、历史案例（如切尔诺贝利和波音737 Max事故）以及一项大学实验，文章阐释了心理安全如何促进团队绩效、创造力和学习。作者还提供了培养心理安全的具体行动建议，并强调其在职场、家庭和社区中的普遍重要性，指出它对人类互动和心理健康至关重要。
+tags:
+- history
+- leadership
+- life
+- organizational-culture
+- safety
+title: 团队成功的强大预测因素：心理安全
 ---
+
 ### 序言：不敢发声的恐惧
 
 当我还是个孩子的时候，我记得在课堂上，当老师突然发起一场“口头突击测验”时，我感到非常恐惧。

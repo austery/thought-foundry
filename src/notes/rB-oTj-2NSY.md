@@ -1,52 +1,52 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- Navies
+- Coreweave
+- AMD
+- SE Limited
+- Circle
+- Nvidia
+- Microsoft
+- Amazon
+- Google
+- OpenAI
+- Sami Analysis
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- investing.com
+- X
+- CNN
+people:
+- Lisa Su
+- Sam Altman
+products_models:
+- Azure
+- AWS
+- Google Cloud
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=rB-oTj-2NSY
 speaker: 投资TALK君
-tags:
-  - earnings-analysis
-  - neo-cloud-strategy
-  - ai-chip-market
-  - investment-outlook
-  - market-volatility
-title: AMD分析师日展望强劲，Neo Cloud行业竞争与投资策略深度解析
-summary: 本期节目深入探讨了美股市场动态，详细分析了Navies和SE Limited的最新财报，并对AMD的未来展望进行了解读。节目重点关注Neo Cloud行业的资本支出结构、利润风险及竞争格局，并讨论了AMD与OpenAI支付能力的关系。同时，分享了个人投资操作逻辑，并推荐了Investing.com的AI选股工具。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Lisa Su
-  - Sam Altman
-companies_orgs:
-  - Navies
-  - Coreweave
-  - AMD
-  - SE Limited
-  - Circle
-  - Nvidia
-  - Microsoft
-  - Amazon
-  - Google
-  - OpenAI
-  - Sami Analysis
-products_models:
-  - Azure
-  - AWS
-  - Google Cloud
-media_books:
-  - investing.com
-  - X
-  - CNN
 status: evergreen
+summary: 本期节目深入探讨了美股市场动态，详细分析了Navies和SE Limited的最新财报，并对AMD的未来展望进行了解读。节目重点关注Neo Cloud行业的资本支出结构、利润风险及竞争格局，并讨论了AMD与OpenAI支付能力的关系。同时，分享了个人投资操作逻辑，并推荐了Investing.com的AI选股工具。
+tags:
+- ai-chip-market
+- earnings-analysis
+- investment-outlook
+- market-volatility
+- strategy
+title: AMD分析师日展望强劲，Neo Cloud行业竞争与投资策略深度解析
 ---
+
 ### 市场回顾与公司财报概览
 
 各位观众大家好，欢迎来到一个看财报就是我乐趣的专业美股频道，我是市场分析人小陶。今天我们继续来讲财报，稍微讲几家公司。第一家是在周二早上发布财报的Navies，它与昨天我们讲的Coreweave这家公司一样，同属于**Neo Cloud**（Neo Cloud: 新型云计算服务提供商，专注于提供高性能计算资源，尤其针对AI工作负载）领域，一家排名第一，一家排名第二。随后我们讲一下盘后AMD的情况，他们今天应该有一个分析师日（Invest Day），并聊了一下对于未来几年的产出展望。我们去看一下这个结果，盘后出现了上涨，非常有意思。然后再聊一下也是在周二盘前发布财报的SE Limited。在昨天的视频里面和大家分享了，SE Limited这家公司我从去年开始持有到今年，差不多持股时间一年多的时间，我在昨天是把那只个股卖了。然后我们一起去看，但这不妨碍我们去看一下这家公司的财报，或者去看一下为什么今天发布完财报之后出现了下跌。那么我们就废话不多说，马上开始今天的内容。在开始之前，还是希望大家可以留个言，可以点个赞，使得我们这期内容可以让更多的观众看到。

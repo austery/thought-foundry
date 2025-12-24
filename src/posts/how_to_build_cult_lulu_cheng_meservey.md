@@ -10,15 +10,14 @@ project: []
 tags:
 - communication-strategy
 - crisis-management
-- public-relations
+- relations
 - storytelling
 - trust-building
 people:
-  - Shane Parish
-  - Lulu Cheng Meservey
+- Shane Parish
+- Lulu Cheng Meservey
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-22
 author: Lei
 speaker: ''
@@ -30,6 +29,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 ## Introduction: The Challenge of a Noisy World
 
 Host: Lulu, welcome to the podcast.

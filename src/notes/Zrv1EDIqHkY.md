@@ -1,61 +1,60 @@
 ---
-author: Veritasium
-date: '2024-03-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Zrv1EDIqHkY
-speaker: Veritasium
-tags:
-  - veritasium
-  - perfect-numbers
-  - number-theory
-  - mersenne-primes
-  - unsolved-problems
-  - mathematical-proof
-title: 数学中最古老的未解之谜：奇完全数之问
-summary: 本视频探讨了数学中最古老的未解之谜——奇完全数是否存在，这一问题可追溯至两千年前。内容涵盖了从欧几里得和尼科马库斯等古希腊数学家，到文艺复兴时期及现代计算努力的漫长历史。视频重点介绍了欧拉在偶完全数形式上的突破、梅森素数的发现以及大互联网梅森素数搜索（GIMPS）项目。同时，也讨论了启发式论证对奇完全数存在性的预测，并强调了纯数学研究的内在价值，即便其没有即时实际应用。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Piergiorgio Odifreddi
-  - Euclid
-  - Nicomachus
-  - Ibn Fallus
-  - Marin Mersenne
-  - Pierre de Fermat
-  - Rene Descartes
-  - Christian Goldbach
-  - Leonhard Euler
-  - William Dunham
-  - Peter Barlow
-  - Edouard Lucas
-  - Frank Nelson Cole
-  - Raphael Robinson
-  - George Woltman
-  - John Pace
-  - Carl Pomerance
-  - Pace Nielsen
-  - Michael Rao
+category: science
 companies_orgs:
-  - American Mathematical Society
-  - St. Petersburg Academy
-  - BYU
-  - Nanairosha
-  - GIMPS
-  - Brilliant
-products_models:
-  - SWAC
+- American Mathematical Society
+- St. Petersburg Academy
+- BYU
+- Nanairosha
+- GIMPS
+- Brilliant
+date: '2024-03-08'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Introdutio Arithmetica
-  - The Largest Prime number of 2017
+- Introdutio Arithmetica
+- The Largest Prime number of 2017
+people:
+- Piergiorgio Odifreddi
+- Euclid
+- Nicomachus
+- Ibn Fallus
+- Marin Mersenne
+- Pierre de Fermat
+- Rene Descartes
+- Christian Goldbach
+- Leonhard Euler
+- William Dunham
+- Peter Barlow
+- Edouard Lucas
+- Frank Nelson Cole
+- Raphael Robinson
+- George Woltman
+- John Pace
+- Carl Pomerance
+- Pace Nielsen
+- Michael Rao
+products_models:
+- SWAC
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=Zrv1EDIqHkY
+speaker: veritasium
 status: evergreen
+summary: 本视频探讨了数学中最古老的未解之谜——奇完全数是否存在，这一问题可追溯至两千年前。内容涵盖了从欧几里得和尼科马库斯等古希腊数学家，到文艺复兴时期及现代计算努力的漫长历史。视频重点介绍了欧拉在偶完全数形式上的突破、梅森素数的发现以及大互联网梅森素数搜索（GIMPS）项目。同时，也讨论了启发式论证对奇完全数存在性的预测，并强调了纯数学研究的内在价值，即便其没有即时实际应用。
+tags:
+- canada
+- perfect-number
+- problem
+- science
+- theory
+title: 数学中最古老的未解之谜：奇完全数之问
 ---
+
 ### 数学中最古老的未解之谜
 
 这是一个关于数学中最古老的未解之谜的视频，它可追溯到两千年前。

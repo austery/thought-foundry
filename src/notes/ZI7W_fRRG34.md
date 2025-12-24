@@ -1,33 +1,33 @@
 ---
-author: Best Partners TV
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- NASA
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《臣服实验》
+people:
+- Michael Singer
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=ZI7W_fRRG34
 speaker: Best Partners TV
-tags:
-  - surrender
-  - inner-peace
-  - acceptance
-  - life-flow
-  - anxiety-management
-title: 如何摆脱精神内耗？| 《臣服实验》| 放下执念 | 内耗清零 | 顺势而为 | 放下对抗 | 接纳即力量 | 生命顺势绽放 | 内心平静的生存法则
-summary: 本书分享迈克辛格的《臣服实验》，探讨如何通过放下执念、接纳生命之流来摆脱内耗与焦虑，实现内心的平静与自由，顺应生命自然绽放。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - Michael Singer
-companies_orgs:
-  - NASA
-products_models: []
-media_books:
-  - 《臣服实验》
 status: evergreen
+summary: 本书分享迈克辛格的《臣服实验》，探讨如何通过放下执念、接纳生命之流来摆脱内耗与焦虑，实现内心的平静与自由，顺应生命自然绽放。
+tags:
+- acceptance
+- inner-peace
+- life
+- management
+- surrender
+title: 如何摆脱精神内耗？| 《臣服实验》| 放下执念 | 内耗清零 | 顺势而为 | 放下对抗 | 接纳即力量 | 生命顺势绽放 | 内心平静的生存法则
 ---
+
 大家好，这里是最佳拍档。
 
 ### 人生困境

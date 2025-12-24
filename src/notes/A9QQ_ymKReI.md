@@ -1,30 +1,28 @@
 ---
-title: 从工具到伙伴：七位AI Agent深度使用者的思考
-summary: 很关注其它人是如何使用AI或者AI tools，还有最近很火的词，AI agent,我只在github copilit用agent mode自动处理了很多代码。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - ai-agent
-  - 商业模式
-  - 未来展望
-  - 深度学习
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: tech-engineering
 author: Lei
-speaker: 硅谷101播客
-channel: 
+category: ai-ml
+channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=A9QQ_ymKReI
+speaker: 硅谷101播客
+summary: 很关注其它人是如何使用AI或者AI tools，还有最近很火的词，AI agent,我只在github copilit用agent mode自动处理了很多代码。
+tags:
+- ai-agent
+- business
+- llm
+- 未来展望
+title: 从工具到伙伴：七位AI Agent深度使用者的思考
 ---
+
 **主持人简介**
 
 **Sophie**：【特约研究员】，关注AI应用。

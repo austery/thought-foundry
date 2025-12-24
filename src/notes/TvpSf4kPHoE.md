@@ -1,63 +1,63 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- NVIDIA
+- Nebius
+- HIMS
+- CRWV
+- OpenAI
+- Samsung
+- SK Hynix
+- AMD
+- Broadcom
+- Core Scientific
+- Eli Lilly
+- Novo Nordisk
+- Amazon
+- Rocket Lab
+- Tesla
+- MicroStrategy
+- Voyager Digital
+- Iren
+- Cipher Mining
 date: '2025-10-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Semi-Analysis
+- X
+- SEC Filings
+people:
+- Donald Trump
+- Andrew
+- Dr. Mehmet
+- Antonio
+products_models:
+- GLP-1
+- Ozempic
+- NeoCloud
+- Star Gate
+- HBM
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=TvpSf4kPHoE
 speaker: Money or Life 美股频道
-tags:
-  - stock-market-review
-  - portfolio-management
-  - ai-infrastructure-investment
-  - glp-1-drugs
-  - ceo-stock-sales
-title: 美股复盘：AI基础设施仓位调整与HIMS深度分析
-summary: 本期节目主持人Ace分享了其最新的美股操作与持仓更新，包括清仓英伟达和Nebius、加仓CRWV的理由，主要基于对AI基础设施领域泡沫的担忧及对CRWV估值的看好。同时，节目深入分析了HIMS公司，探讨了其CEO卖股行为、川普关于GLP-1药物价格的言论，以及HIMS商业模式的稳健性，并给出了个人投资HIMS的看法与策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Donald Trump
-  - Andrew
-  - Dr. Mehmet
-  - Antonio
-companies_orgs:
-  - NVIDIA
-  - Nebius
-  - HIMS
-  - CRWV
-  - OpenAI
-  - Samsung
-  - SK Hynix
-  - AMD
-  - Broadcom
-  - Core Scientific
-  - Eli Lilly
-  - Novo Nordisk
-  - Amazon
-  - Rocket Lab
-  - Tesla
-  - MicroStrategy
-  - Voyager Digital
-  - Iren
-  - Cipher Mining
-products_models:
-  - GLP-1
-  - Ozempic
-  - NeoCloud
-  - Star Gate
-  - HBM
-media_books:
-  - Semi-Analysis
-  - X
-  - SEC Filings
 status: evergreen
+summary: 本期节目主持人Ace分享了其最新的美股操作与持仓更新，包括清仓英伟达和Nebius、加仓CRWV的理由，主要基于对AI基础设施领域泡沫的担忧及对CRWV估值的看好。同时，节目深入分析了HIMS公司，探讨了其CEO卖股行为、川普关于GLP-1药物价格的言论，以及HIMS商业模式的稳健性，并给出了个人投资HIMS的看法与策略。
+tags:
+- ai-infrastructure-investment
+- health
+- portfolio-management
+- stock
+- stock-market-review
+title: 美股复盘：AI基础设施仓位调整与HIMS深度分析
 ---
+
 ### 本周美股复盘与操作更新
 
 大家好，欢迎来到Money or Life美股频道。我是Ace，今天是2025年10月18号周六。本周的美股复盘及推演节目将分为三个部分：第一部分将更新我本周的操作以及最新的持仓情况；第二部分将阐述我清仓英伟达和Nebius的原因；第三部分则会深入探讨HIMS这家公司，包括其股价波动、CEO卖股行为以及川普对医药价格的言论，并分享我的看法。欢迎大家订阅Money or Life美股频道，这是对我创作的最大支持。

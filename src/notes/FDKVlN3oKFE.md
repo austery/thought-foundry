@@ -1,43 +1,43 @@
 ---
-author: 海淀拙大叔
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Berkshire Hathaway
+- National Indemnity Company
+- GEICO
+- General Reinsurance
+- NYSE
 date: '2022-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《证券分析》
+- 《聪明的投资者》
+people:
+- Warren Buffett
+- Benjamin Graham
+- Richard Nixon
+- Ronald Reagan
+products_models: []
+project:
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=FDKVlN3oKFE
 speaker: 海淀拙大叔
-tags:
-  - wealth-creation
-  - economic-transformation
-  - geopolitical-shifts
-  - historical-cycles
-  - investment-success
-title: 巴菲特的财富奇迹：时代与个人能力的交织
-summary: 本文深入探讨了沃伦·巴菲特巨大财富奇迹背后的深层原因，究竟是时代造就了巴菲特，还是他凭借个人能力创造了时代。文章通过分析巴菲特的生平关键节点、美国经济在1982年前后的结构性转型，以及全球化进程对美国经济地位的影响，揭示了时代背景在个人财富积累中扮演的决定性作用。同时，强调了以宏观历史视角审视个人投资成功的必要性，并展望了未来中国在经济周期中的发展。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Warren Buffett
-  - Benjamin Graham
-  - Richard Nixon
-  - Ronald Reagan
-companies_orgs:
-  - Berkshire Hathaway
-  - National Indemnity Company
-  - GEICO
-  - General Reinsurance
-  - NYSE
-products_models: []
-media_books:
-  - 《证券分析》
-  - 《聪明的投资者》
 status: evergreen
+summary: 本文深入探讨了沃伦·巴菲特巨大财富奇迹背后的深层原因，究竟是时代造就了巴菲特，还是他凭借个人能力创造了时代。文章通过分析巴菲特的生平关键节点、美国经济在1982年前后的结构性转型，以及全球化进程对美国经济地位的影响，揭示了时代背景在个人财富积累中扮演的决定性作用。同时，强调了以宏观历史视角审视个人投资成功的必要性，并展望了未来中国在经济周期中的发展。
+tags:
+- economic
+- geopolitical-shift
+- historical
+- investment
+- wealth
+title: 巴菲特的财富奇迹：时代与个人能力的交织
 ---
+
 ### 巴菲特的财富奇迹：时代与个人能力之辩
 
 大家好，欢迎来到老卓说。我们这个“故事中的投资学”系列，旨在通过一个个小故事，为大家带来一个宏大、历史且更具高度的投资视角。今天是第一集，我们将探讨：是时代造就了巴菲特，还是巴菲特造就了他自己的时代？

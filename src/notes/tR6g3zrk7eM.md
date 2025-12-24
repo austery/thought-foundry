@@ -1,45 +1,43 @@
 ---
-author: a16z
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Flock Safety
+- LAPD
+- Morrisville Police Department
+- Lowe's
+- Hope for Prisoners
+- Delancey Street Restaurant
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Garrett Langley
+- Ben Horowitz
+- Dr. Dre
+- Shaka Senghor
+- Rodney King
+- Tupac Shakur
+products_models:
+- Cybertruck
+- Nova
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=tR6g3zrk7eM
 speaker: a16z
-tags:
-  - crime-prevention
-  - policing
-  - technology
-  - community-policing
-  - public-private-partnership
-title: 如何根除犯罪：科技、政策与社区警务的综合策略
-summary: 本播客讨论了根除犯罪的综合策略，涵盖人员、产品和政策三个方面。嘉宾强调了通过激励机制解决警力短缺、利用智能技术提升执法效率和透明度，以及推行更具预防性和社区参与度的政策。他们还探讨了犯罪率下降背后的复杂原因，并指出公私合作在城市安全建设中的重要作用，最终目标是建立一个更安全、更公正的社会。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - ai-impact-analysis
-people:
-  - Garrett Langley
-  - Ben Horowitz
-  - Dr. Dre
-  - Shaka Senghor
-  - Rodney King
-  - Tupac Shakur
-companies_orgs:
-  - Flock Safety
-  - LAPD
-  - Morrisville Police Department
-  - Lowe's
-  - Hope for Prisoners
-  - Delancey Street Restaurant
-products_models:
-  - Cybertruck
-  - Nova
-media_books: []
 status: evergreen
+summary: 本播客讨论了根除犯罪的综合策略，涵盖人员、产品和政策三个方面。嘉宾强调了通过激励机制解决警力短缺、利用智能技术提升执法效率和透明度，以及推行更具预防性和社区参与度的政策。他们还探讨了犯罪率下降背后的复杂原因，并指出公私合作在城市安全建设中的重要作用，最终目标是建立一个更安全、更公正的社会。
+tags:
+- community-policing
+- policing
+- public
+- technology
+title: 如何根除犯罪：科技、政策与社区警务的综合策略
 ---
+
 ### 犯罪执法的社会影响
 
 如果不对犯罪进行有效执法，最终会导致几代人的堕落。如果十年后我们发现所做的只是把大量人关进监狱，那实际上是双重糟糕。我们正在浪费人才，这可能是最糟糕的情况。因此，最好的做法是明确表示：“如果你犯罪，你就会被抓。”这会改变社会激励机制和文化。如果一个人可以通过犯罪赚取最低工资的十倍，而且在他所处的社区中，犯罪甚至没有社会污名，反而会受到尊敬，那么犯罪就变得太容易、太普遍了。这对于处于这种境地的人来说，是整个社会的失败。

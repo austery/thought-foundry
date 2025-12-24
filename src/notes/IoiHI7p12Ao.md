@@ -1,29 +1,27 @@
 ---
-author: AI Engineer
+area: tech-work
+category: ai-ml
+companies_orgs: []
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- swyx
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=IoiHI7p12Ao
 speaker: AI Engineer
-tags:
-  - llm
-  - prompt-engineering
-title: The War on Slop
-summary: swyx 在 AI 工程师峰会上发表的关于“对抗低质内容（Slop）”的主题演讲，提出了利用 AI 提升内容质量的观点。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - swyx
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: swyx 在 AI 工程师峰会上发表的关于“对抗低质内容（Slop）”的主题演讲，提出了利用 AI 提升内容质量的观点。
+tags: []
+title: The War on Slop
 ---
+
 ### 对抗低质内容（Slop）的战争
 
 大家早上好！我希望你们今天都充满活力，因为我需要你们的支持。我有点紧张，但我们会一起度过。**今天，我在这里要宣布对“低质内容”（Slop）宣战。**

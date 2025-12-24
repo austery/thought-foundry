@@ -1,30 +1,29 @@
 ---
-title: 《坏血》第四期：90亿美金神话背后，豪门“叛逆者”如何揭露Theranos骗局？
-summary: Theranos估值达90亿，霍尔姆斯成全球偶像。前国务卿之孙泰勒·舒尔茨等吹哨人，揭露内部欺诈，誓戳破硅谷神话。
 area: null
 category: null
-project: []
-tags:
-- silicon-valley-fraud
-- whistleblower
-people:
-- elizabeth-holmes
-- tyler-shultz
 companies_orgs:
 - theranos
-products_models: []
-media_books: []
 date: '2025-09-20'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- elizabeth-holmes
+- tyler-shultz
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1tyWW3bIF_M
+speaker: 北美王路飞
 status: evergreen
+summary: Theranos估值达90亿，霍尔姆斯成全球偶像。前国务卿之孙泰勒·舒尔茨等吹哨人，揭露内部欺诈，誓戳破硅谷神话。
+tags:
+- fraud
+- whistleblower
+title: 《坏血》第四期：90亿美金神话背后，豪门“叛逆者”如何揭露Theranos骗局？
 ---
+
 ### 悲剧废墟上的狂飙突进
 
 欢迎来到我的频道。上一期我们讲到Theranos历史上最黑暗的一夜。在公司全力冲刺准备上市的前夜，其核心科学家伊恩·吉本斯因无法承受谎言的重压而选择自尽。一位科学家的悲剧照理说应该能够敲响警钟，让这场疯狂的骗局停下来，但是大家都低估了伊丽莎白·霍尔姆斯的能量。她不仅没有停下来，反而踩下了油门，在这场悲剧的废墟上，她即将把自己打造成一个全球偶像，把公司推向一个令人炫目、价值90亿美元的巅峰。

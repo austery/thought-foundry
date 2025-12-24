@@ -1,26 +1,25 @@
 ---
+area: finance-wealth
 author: Lei
+category: stock-investment
+created: 1984-01-24T03:00
 date: 2025-07-10
-guest: 
-insight:
+guest: null
+insight: null
 layout: post.njk
-series:
+project: 知行小酒馆
+series: null
 source: https://www.youtube.com/watch?v=1xqu1UvVHPc
 speaker: 知行小酒馆
-summary:
-tags:
-  - 全球经济
-  - 投资
-  - 知行小酒馆
-  - t-literature-note
-title: 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？
-created: 1984-01-24T03:00
-updated: 2025-09-01T13:05
-area: ""
-project: 知行小酒馆
-category: ""
 status: evergreen
+summary: null
+tags:
+- global-economy
+- history
+title: 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？
+updated: 2025-09-01T13:05
 ---
+
 ## 开场：波澜壮阔的市场与远方的观察者
 
 **俞白**

@@ -1,73 +1,73 @@
 ---
-author: The Diary Of A CEO
+area: personal-systems
+category: psychology
+companies_orgs:
+- Liverpool FC
+- Manchester United
+- Mainz 05
+- Borussia Dortmund
+- Real Madrid
+- Arsenal
+- Chelsea
+- Manchester City
+- Fenway Sports Group
+- Red Bull
+- Eintracht Frankfurt
+- Everton
+- Crystal Palace
+- Bournemouth
+- Southampton
+- West Bromwich Albion
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Diary Of A CEO
+people:
+- Jürgen Klopp
+- Steven Bartlett
+- Sir Alex Ferguson
+- James Milner
+- Sadio Mané
+- Mohamed Salah
+- Trent Alexander-Arnold
+- Lionel Messi
+- Mike Gordon
+- Phil Coutinho
+- Alisson Becker
+- Virgil van Dijk
+- Diogo Jota
+- Darwin Núñez
+- Christian Heidel
+- Michael Edwards
+- Richard Hughes
+- Pep Guardiola
+- Pep Lijnders
+- Arne Slot
+- David Moyes
+- Roberto Firmino
+- Jordan Henderson
+- Jamie Carragher
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=UMy6GESNkDc
 speaker: The Diary Of A CEO
-tags:
-  - leadership-philosophy
-  - team-culture
-  - dealing-with-failure
-  - high-performance-teams
-  - sports-psychology
-title: 尤尔根·克洛普：我的领导力哲学与打造冠军团队的秘诀
-summary: 著名足球教练尤尔根·克洛普分享了他独特的领导力哲学。他强调，成功的关键在于深入理解并因材施教地对待每一位球员，而非采用一刀切的管理方式。克洛普回顾了从球员到顶级教练的历程，阐述了如何将来自不同文化背景的个体融合成一个“愿为彼此赴汤蹈火”的团队。他分享了从失败中学习的重要性，并解释了离开利物浦是因精力耗尽，而非对球队失去信心。这篇访谈为任何领域的领导者提供了宝贵的经验。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Jürgen Klopp
-  - Steven Bartlett
-  - Sir Alex Ferguson
-  - James Milner
-  - Sadio Mané
-  - Mohamed Salah
-  - Trent Alexander-Arnold
-  - Lionel Messi
-  - Mike Gordon
-  - Phil Coutinho
-  - Alisson Becker
-  - Virgil van Dijk
-  - Diogo Jota
-  - Darwin Núñez
-  - Christian Heidel
-  - Michael Edwards
-  - Richard Hughes
-  - Pep Guardiola
-  - Pep Lijnders
-  - Arne Slot
-  - David Moyes
-  - Roberto Firmino
-  - Jordan Henderson
-  - Jamie Carragher
-companies_orgs:
-  - Liverpool FC
-  - Manchester United
-  - Mainz 05
-  - Borussia Dortmund
-  - Real Madrid
-  - Arsenal
-  - Chelsea
-  - Manchester City
-  - Fenway Sports Group
-  - Red Bull
-  - Eintracht Frankfurt
-  - Everton
-  - Crystal Palace
-  - Bournemouth
-  - Southampton
-  - West Bromwich Albion
-products_models: []
-media_books:
-  - The Diary Of A CEO
 status: evergreen
+summary: 著名足球教练尤尔根·克洛普分享了他独特的领导力哲学。他强调，成功的关键在于深入理解并因材施教地对待每一位球员，而非采用一刀切的管理方式。克洛普回顾了从球员到顶级教练的历程，阐述了如何将来自不同文化背景的个体融合成一个“愿为彼此赴汤蹈火”的团队。他分享了从失败中学习的重要性，并解释了离开利物浦是因精力耗尽，而非对球队失去信心。这篇访谈为任何领域的领导者提供了宝贵的经验。
+tags:
+- culture
+- failure
+- leadership-philosophy
+- performance
+- psychology
+title: 尤尔根·克洛普：我的领导力哲学与打造冠军团队的秘诀
 ---
+
 ### 引言：离开的决定与成功的本质
 
 那是一段紧张的时期。我们必须赢得足球比赛，但所有其他事情也都压在了我的肩上。我需要休息。但在这一行，你无法这么做。你不能说：“给我一年时间，回头见。”

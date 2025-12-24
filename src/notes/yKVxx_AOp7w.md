@@ -1,51 +1,51 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Nanos
+- Leger
+- Ipsos
+- NDP
 date: '2025-03-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+- USMCA
+- NAFTA
+people:
+- Justin Trudeau
+- Donald Trump
+- Frank Baylis
+- Karina Gould
+- Chrystia Freeland
+- Mark Carney
+- Pierre Poilievre
+- Erin O'Toole
+- Andrew Scheer
+- Stephen Harper
+- Doug Ford
+- Ruby Dhalla
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=yKVxx_AOp7w
 speaker: 莊也雜談
-tags:
-  - canadian-politics
-  - liberal-party-strategy
-  - conservative-party-response
-  - political-polling
-  - us-canada-relations
-title: 加拿大政坛风云突变：自由党民调反弹，保守党面临挑战
-summary: 加拿大政坛近期出现戏剧性转变。曾跌至谷底的自由党，在2025年初不到两个月内，民调支持率大幅回升，甚至在部分机构反超保守党。本文深入分析了自由党此次“涅槃重生”的四大原因：特鲁多辞职带来的“切割重置”效应、特朗普关税威胁引发的外部助攻、自由党及时进行的政策调整，以及新领袖马克·卡尼的强势崛起。同时，文章也探讨了保守党如何运用反击策略，试图阻止自由党的复苏势头，并展望了未来加拿大政局的可能走向。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Justin Trudeau
-  - Donald Trump
-  - Frank Baylis
-  - Karina Gould
-  - Chrystia Freeland
-  - Mark Carney
-  - Pierre Poilievre
-  - Erin O'Toole
-  - Andrew Scheer
-  - Stephen Harper
-  - Doug Ford
-  - Ruby Dhalla
-companies_orgs:
-  - Nanos
-  - Leger
-  - Ipsos
-  - NDP
-products_models: []
-media_books:
-  - X
-  - USMCA
-  - NAFTA
 status: evergreen
+summary: 加拿大政坛近期出现戏剧性转变。曾跌至谷底的自由党，在2025年初不到两个月内，民调支持率大幅回升，甚至在部分机构反超保守党。本文深入分析了自由党此次“涅槃重生”的四大原因：特鲁多辞职带来的“切割重置”效应、特朗普关税威胁引发的外部助攻、自由党及时进行的政策调整，以及新领袖马克·卡尼的强势崛起。同时，文章也探讨了保守党如何运用反击策略，试图阻止自由党的复苏势头，并展望了未来加拿大政局的可能走向。
+tags:
+- canadian-politics
+- party
+- political
+- strategy
+- us-canada-relations
+title: 加拿大政坛风云突变：自由党民调反弹，保守党面临挑战
 ---
+
 ### 引言：自由党民调意外反弹
 
 今天我们来聊一聊近期在加拿大政坛上兴起的一股自由党**回光返照**（Huíguāngfǎnzào: 原指日落时阳光反照，现多比喻事物在灭亡前短暂的兴盛或恢复）的现象。众所周知，从2024年年底到2025年1月初，曾经风光无限的自由党如寒冬残叶般一片凋零。不仅内阁辞职、党魁下台，自由党的民调更是跌至16%，被保守党拉开将近20个百分点。

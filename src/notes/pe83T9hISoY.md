@@ -1,44 +1,41 @@
 ---
-author: Veritasium
-date: '2019-09-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=pe83T9hISoY
-speaker: Veritasium
-tags:
-  - veritasium
-  - planet-nine
-  - kuiper-belt
-  - orbital-mechanics
-  - celestial-discovery
-  - observational-challenges
-title: 第九行星是否存在？一段关于太阳系边缘的探索之旅
-summary: 本文深入探讨了第九行星（Planet 9）存在的可能性及其背后的科学依据。从天王星和海王星的发现历史，到柯伊伯带天体的异常轨道集群，再到第九行星可能解释的太阳系谜团，文章详细介绍了科学家们如何通过数学预测和观测数据来寻找这个遥远而神秘的行星，并展望了未来的探测前景。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Konstantin Batygin
-  - Herschel
-  - Urbain Le Verrier
-  - Jane Luu
-  - Mike Brown
-  - Scott Shepard
-  - Chad Raheel
-  - David Bowie
+category: science
 companies_orgs:
-  - Caltech
-  - change.org
+- Caltech
+- change.org
+date: '2019-09-13'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Konstantin Batygin
+- Herschel
+- Urbain Le Verrier
+- Jane Luu
+- Mike Brown
+- Scott Shepard
+- Chad Raheel
+- David Bowie
 products_models:
-  - LSST telescope
-media_books: []
+- LSST telescope
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=pe83T9hISoY
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了第九行星（Planet 9）存在的可能性及其背后的科学依据。从天王星和海王星的发现历史，到柯伊伯带天体的异常轨道集群，再到第九行星可能解释的太阳系谜团，文章详细介绍了科学家们如何通过数学预测和观测数据来寻找这个遥远而神秘的行星，并展望了未来的探测前景。
+tags:
+- celestial-discovery
+- challenge
+- kuiper-belt
+- science
+title: 第九行星是否存在？一段关于太阳系边缘的探索之旅
 ---
+
 ### 引言：第九行星的猜想
 
 主持人: 那么，你认为第九行星存在的概率是99.8%吗？

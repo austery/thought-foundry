@@ -1,39 +1,39 @@
 ---
-author: Big Think
+area: society-systems
+category: general
+companies_orgs:
+- Big Think
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Fluke
+people:
+- Brian Klaas
+- Adam Smith
+- Isaac Newton
+- Ivan
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=IaBn3McvJI8
 speaker: Big Think
-tags:
-  - randomness
-  - illusion-of-control
-  - causality
-  - pattern-recognition
-  - interconnectedness
-title: 掌控幻觉与随机性：理解世界的真实面貌
-summary: 布莱恩·克拉斯在演讲中探讨了人类对控制的普遍幻觉以及对随机性的排斥。他指出，我们对世界有深远影响但控制有限，并强调接受混沌和偶然性是理解现实的关键。通过历史、心理学和生动案例，他揭示了“一切事出有因”的信念如何导致认知错误，并呼吁人们直面不确定性，从而获得更充实的生活。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - historical-insights
-people:
-  - Brian Klaas
-  - Adam Smith
-  - Isaac Newton
-  - Ivan
-companies_orgs:
-  - Big Think
-products_models: []
-media_books:
-  - Fluke
 status: evergreen
+summary: 布莱恩·克拉斯在演讲中探讨了人类对控制的普遍幻觉以及对随机性的排斥。他指出，我们对世界有深远影响但控制有限，并强调接受混沌和偶然性是理解现实的关键。通过历史、心理学和生动案例，他揭示了“一切事出有因”的信念如何导致认知错误，并呼吁人们直面不确定性，从而获得更充实的生活。
+tags:
+- control
+- geopolitical
+- interconnectednes
+- pattern-recognition
+- randomnes
+title: 掌控幻觉与随机性：理解世界的真实面貌
 ---
+
 ### 接受有限的控制与深远的影响
 
 这里的核心观点之一是，当你开始接受你对世界有着深远的影响，但控制力却非常有限时，你就会开始以不同的方式看待世界，以不同的方式行事，并开始接受自己能力和局限的边界。

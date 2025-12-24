@@ -1,45 +1,46 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- CBC
+- UN
 date: '2025-10-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- On the Ground My Life as a Foreign Correspondent
+people:
+- Mark Carney
+- Donald Trump
+- Ronald Reagan
+- Louise Blais
+- Stephen Marche
+- Brian Stewart
+- Jeyan Jeganathan
+products_models:
+- Gloves Off
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=zSbL3DR_l9k
 speaker: TVO Today
-tags:
-  - canada-us-relations
-  - foreign-policy
-  - middle-power
-  - global-media-coverage
-  - international-security
-title: 加拿大在世界舞台上的新角色：挑战与选择
-summary: 本期节目深入探讨了加拿大在全球舞台上不断变化的角色，特别是在与美国关系紧张的背景下。前加拿大驻联合国大使Louise Blais和记者Stephen Marche就加拿大应如何应对美国保护主义、是否仍是“中间强国”以及应采取何种外交策略展开激烈辩论。前战地记者Brian Stewart则从媒体视角反思了加拿大在国际维和与援助方面的历史声誉，并呼吁加拿大重新聚焦自身利益，同时强调媒体应更全面地报道全球危机与重建，而非仅关注苦难。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mark Carney
-  - Donald Trump
-  - Ronald Reagan
-  - Louise Blais
-  - Stephen Marche
-  - Brian Stewart
-  - Jeyan Jeganathan
-companies_orgs:
-  - TVO Today
-  - CBC
-  - UN
-products_models:
-  - Gloves Off
-media_books:
-  - On the Ground My Life as a Foreign Correspondent
 status: evergreen
+summary: 本期节目深入探讨了加拿大在全球舞台上不断变化的角色，特别是在与美国关系紧张的背景下。前加拿大驻联合国大使Louise Blais和记者Stephen
+  Marche就加拿大应如何应对美国保护主义、是否仍是“中间强国”以及应采取何种外交策略展开激烈辩论。前战地记者Brian Stewart则从媒体视角反思了加拿大在国际维和与援助方面的历史声誉，并呼吁加拿大重新聚焦自身利益，同时强调媒体应更全面地报道全球危机与重建，而非仅关注苦难。
+tags:
+- canada-us-relations
+- foreign-policy
+- international-security
+- media
+- power
+title: 加拿大在世界舞台上的新角色：挑战与选择
 ---
+
 ### 加拿大在世界舞台上的新角色：挑战与选择
 
 >> 主持人: 马克·卡尼（Mark Carney）总理上周再次表示，加拿大与美国之间的旧有关系已经结束。

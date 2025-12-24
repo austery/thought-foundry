@@ -1,49 +1,50 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Mozilla AI
+- Arthur AI
+- OpenAI
+- JPMC
+- Google
+- Meta
+- Galileo
+- Brain Trust
+- Merkor
 date: '2025-08-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Information
+- Nature Machine Intelligence
+- iClar
+people:
+- John Dickerson
+- Jamie Dimon
+- Sam Altman
+products_models:
+- ChatGPT
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=CQGuvf6gSrM
 speaker: AI Engineer
-tags:
-  - ai-evaluation
-  - agentic-systems
-  - genai-adoption
-  - c-suite-priorities
-  - enterprise-budgets
-title: 2025：AI评估终于成为焦点——CEO视角下的AI发展与挑战
-summary: Mozilla AI首席执行官John Dickerson深入探讨了AI评估（Evals）如何从一个技术小众话题，逐步演变为企业高管层（C-Suite）关注的核心议题。他指出，ChatGPT的出现、宏观经济预算冻结以及智能体（Agentic Systems）的崛起，共同推动了AI评估在企业中的战略地位。文章详细阐述了AI评估如何与业务关键绩效指标（KPI）挂钩，以及CEO、CFO、CISO等高管对AI评估的日益重视，预示着AI评估市场即将迎来爆发式增长。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - John Dickerson
-  - Jamie Dimon
-  - Sam Altman
-companies_orgs:
-  - Mozilla AI
-  - Arthur AI
-  - OpenAI
-  - JPMC
-  - Google
-  - Meta
-  - Galileo
-  - Brain Trust
-  - Merkor
-products_models:
-  - ChatGPT
-media_books:
-  - The Information
-  - Nature Machine Intelligence
-  - iClar
 status: evergreen
+summary: Mozilla AI首席执行官John Dickerson深入探讨了AI评估（Evals）如何从一个技术小众话题，逐步演变为企业高管层（C-Suite）关注的核心议题。他指出，ChatGPT的出现、宏观经济预算冻结以及智能体（Agentic
+  Systems）的崛起，共同推动了AI评估在企业中的战略地位。文章详细阐述了AI评估如何与业务关键绩效指标（KPI）挂钩，以及CEO、CFO、CISO等高管对AI评估的日益重视，预示着AI评估市场即将迎来爆发式增长。
+tags:
+- ai-evaluation
+- business
+- canada
+- genai-adoption
+- system
+title: 2025：AI评估终于成为焦点——CEO视角下的AI发展与挑战
 ---
+
 ### 引言：2025，评估之年
 
 大家好，感谢各位的到来。我将主要从Arthur AI联合创始人兼首席科学家的角度来分享这次演讲，我在加入**Mozilla AI**（Mozilla基金会旗下的AI部门，致力于开源AI工具和技术栈）担任首席执行官之前，在Arthur AI工作了六年。

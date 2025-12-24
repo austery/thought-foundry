@@ -1,37 +1,36 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: geopolitics
+companies_orgs: []
 date: '2025-10-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'The Perfect Dictatorship: China in the 21st Century'
+- Anthem
+people:
+- Qin Shihuang
+- Zhou Youguang
+- Stein Ringen
+- Leonard Cohen
+products_models: []
+project:
+- china-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=eXv8_lCFj94
 speaker: 徒步的騎手
-tags:
-  - great-firewall
-  - perfect-dictatorship
-  - censorship
-  - digital-freedom
-  - controlocracy
-title: “完美独裁”的裂痕：论“墙国”公民的翻墙自救与精神觉醒
-summary: 本文深入探讨了中国“防火长城”背后的“完美独裁”体制。文章引用了学者斯坦·林根的“管控专制”概念，剖析了该体制如何通过信息控制实现自我维系。文章区分了“身在奴役”与“心在奴役”两种状态，强调“翻墙”不仅是技术突破，更是追求思想自由、摆脱精神奴役的自救行为。最后，文章借用莱昂纳德·科恩的名言“万物皆有裂痕，光才能照进来”，指出即使在严密的控制下，裂痕依然存在，为希望和改变提供了可能。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - systems-thinking
-people:
-  - Qin Shihuang
-  - Zhou Youguang
-  - Stein Ringen
-  - Leonard Cohen
-companies_orgs: []
-products_models: []
-media_books:
-  - 'The Perfect Dictatorship: China in the 21st Century'
-  - Anthem
 status: evergreen
+summary: 本文深入探讨了中国“防火长城”背后的“完美独裁”体制。文章引用了学者斯坦·林根的“管控专制”概念，剖析了该体制如何通过信息控制实现自我维系。文章区分了“身在奴役”与“心在奴役”两种状态，强调“翻墙”不仅是技术突破，更是追求思想自由、摆脱精神奴役的自救行为。最后，文章借用莱昂纳德·科恩的名言“万物皆有裂痕，光才能照进来”，指出即使在严密的控制下，裂痕依然存在，为希望和改变提供了可能。
+tags:
+- canada
+- censorship
+- digital
+- geopolitical
+- great-firewall
+title: “完美独裁”的裂痕：论“墙国”公民的翻墙自救与精神觉醒
 ---
 
 ### 围墙的建立：隔绝与控制

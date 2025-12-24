@@ -1,61 +1,61 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times Podcasts
+- Senate Appropriations Committee
+- Government Accountability Office
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Daily
+- Quinnipiac Poll
+people:
+- Michael Bubbero
+- Katie Edmonson
+- Shane Goldmaker
+- Donald Trump
+- Jeanne Shaheen
+- Maggie Hassan
+- Catherine Cortez Masto
+- Jackie Rosen
+- Angus King
+- John Fetterman
+- Tim Kaine
+- Dick Durbin
+- Mike Johnson
+- John Thune
+- Bernie Sanders
+- Alyssa Slotkin
+- Chuck Schumer
+- Gavin Newsom
+- Chris Murphy
+- Ro Khanna
+- Carl Hulse
+- Jon Ossoff
+- Kamala Harris
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=CyrapyXZfsA
 speaker: New York Times Podcasts
-tags:
-  - government-shutdown
-  - democratic-party-division
-  - healthcare-policy
-  - campaign-strategy
-  - bipartisan-deal
-title: 民主党停摆协议的复杂政治：党内分裂与战略反思
-summary: 本文深入探讨了美国政府停摆期间，一小部分中间派民主党参议员如何打破党派界限，与共和党达成协议以结束停摆，从而引发了民主党内部的激烈“内战”。文章分析了该协议的细节，包括恢复联邦政府运作、保护政府问责机构以及对《平价医疗法案》补贴进行投票的承诺。同时，也揭示了进步派和党内领导层对此协议的强烈不满，以及在特朗普时代下民主党所面临的战略困境和内部路线之争。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Michael Bubbero
-  - Katie Edmonson
-  - Shane Goldmaker
-  - Donald Trump
-  - Jeanne Shaheen
-  - Maggie Hassan
-  - Catherine Cortez Masto
-  - Jackie Rosen
-  - Angus King
-  - John Fetterman
-  - Tim Kaine
-  - Dick Durbin
-  - Mike Johnson
-  - John Thune
-  - Bernie Sanders
-  - Alyssa Slotkin
-  - Chuck Schumer
-  - Gavin Newsom
-  - Chris Murphy
-  - Ro Khanna
-  - Carl Hulse
-  - Jon Ossoff
-  - Kamala Harris
-companies_orgs:
-  - New York Times Podcasts
-  - Senate Appropriations Committee
-  - Government Accountability Office
-products_models: []
-media_books:
-  - The Daily
-  - Quinnipiac Poll
 status: evergreen
+summary: 本文深入探讨了美国政府停摆期间，一小部分中间派民主党参议员如何打破党派界限，与共和党达成协议以结束停摆，从而引发了民主党内部的激烈“内战”。文章分析了该协议的细节，包括恢复联邦政府运作、保护政府问责机构以及对《平价医疗法案》补贴进行投票的承诺。同时，也揭示了进步派和党内领导层对此协议的强烈不满，以及在特朗普时代下民主党所面临的战略困境和内部路线之争。
+tags:
+- campaign-strategy
+- government-shutdown
+- healthcare-policy
+- party
+- technology
+title: 民主党停摆协议的复杂政治：党内分裂与战略反思
 ---
+
 ### 民主党内部的“内战”：停摆协议引发的震荡
 
 我是《纽约时报》的迈克尔·布巴罗（Michael Bubbero），这里是《The Daily》节目。

@@ -1,86 +1,84 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: politics-society
+companies_orgs:
+- 北约
+- 高盛
+- 黑石集团
+- 民主党全国委员会
+- 福克斯
+- 华尔街日报
+- 以色列国防军
+- 共和党
+- 民主党
+- 新华社
+- Gallup
+- Polymarket
+- The Young Turks
 date: '2025-08-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 大棋局
+- 制造共识
+- 大幻觉
+people:
+- 陈军
+- 泽连斯基
+- Elon Musk
+- 约翰逊
+- 克林顿
+- Vladimir Putin
+- 约翰·麦凯恩
+- 维多利亚·纽兰
+- 杰弗里·萨克斯
+- 蓬佩奥
+- 乔姆斯基
+- 特朗普
+- Xi Jinping
+- 梅德韦杰夫
+- 内塔尼亚胡
+- 丘吉尔
+- 尼采
+- 韦伯
+- 邓小平
+- 毛泽东
+- 莱克斯·弗里德曼
+- 金克玉
+- 张维维
+- 金泰容
+- 胡适
+- 桑德斯
+- 希拉里
+- 奥巴马
+- 埃里克·亚当斯
+- 安德鲁·科莫
+- 佐赫兰·马姆达尼
+- 比尔·阿克曼
+- 马西
+- 马英九
+- 赖清德
+products_models:
+- 星链
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Gt4OSZ__VWQ
 speaker: 北美王路飞
-tags:
-  - russia-ukraine-war
-  - geopolitical-strategy
-  - us-politics
-  - populism-rise
-  - war-consequences
-title: 俄乌战争的深层代价与全球政治的复杂博弈：从敖德萨到华盛顿
-summary: 本期播客深入探讨俄乌战争的真实代价，嘉宾陈军分享了在敖德萨的亲身见闻，揭示了乌克兰民众对战争意愿的转变、征兵困境及内部腐败问题。节目分析了美国新保守主义对战争的推动，以及特朗普政府在地缘政治中的独特策略。同时，讨论延伸至美国两党政治的困境、民粹主义的崛起，并批判了僵化的意识形态认知。最后，探讨了台海问题，呼吁以真相、和平与人道主义的视角审视复杂的世界冲突。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 陈军
-  - 北美王路飞
-  - 泽连斯基
-  - 马斯克
-  - 约翰逊
-  - 克林顿
-  - 普京
-  - 约翰·麦凯恩
-  - 维多利亚·纽兰
-  - 杰弗里·萨克斯
-  - 蓬佩奥
-  - 乔姆斯基
-  - 特朗普
-  - 习近平
-  - 梅德韦杰夫
-  - 内塔尼亚胡
-  - 丘吉尔
-  - 尼采
-  - 韦伯
-  - 邓小平
-  - 毛泽东
-  - 莱克斯·弗里德曼
-  - 金克玉
-  - 张维维
-  - 金泰容
-  - 胡适
-  - 桑德斯
-  - 希拉里
-  - 奥巴马
-  - 埃里克·亚当斯
-  - 安德鲁·科莫
-  - 佐赫兰·马姆达尼
-  - 比尔·阿克曼
-  - 马西
-  - 马英九
-  - 赖清德
-companies_orgs:
-  - 北约
-  - 高盛
-  - 黑石集团
-  - 民主党全国委员会
-  - 福克斯
-  - 华尔街日报
-  - 以色列国防军
-  - 共和党
-  - 民主党
-  - 新华社
-  - Gallup
-  - Polymarket
-  - The Young Turks
-products_models:
-  - 星链
-media_books:
-  - 大棋局
-  - 制造共识
-  - 大幻觉
 status: evergreen
+summary: 本期播客深入探讨俄乌战争的真实代价，嘉宾陈军分享了在敖德萨的亲身见闻，揭示了乌克兰民众对战争意愿的转变、征兵困境及内部腐败问题。节目分析了美国新保守主义对战争的推动，以及特朗普政府在地缘政治中的独特策略。同时，讨论延伸至美国两党政治的困境、民粹主义的崛起，并批判了僵化的意识形态认知。最后，探讨了台海问题，呼吁以真相、和平与人道主义的视角审视复杂的世界冲突。
+tags:
+- geopolitical-strategy
+- populism-rise
+- russia-ukraine-war
+- war
+title: 俄乌战争的深层代价与全球政治的复杂博弈：从敖德萨到华盛顿
 ---
+
 ### 开场：俄乌和谈的复杂背景
 
 **北美王路飞:** 大家好，欢迎来到我的频道。今天这期播客很高兴请到了陈军先生，我们来继续聊一下俄乌的问题。如果熟悉我们频道的朋友应该知道，我们之前有一个辩论节目，当时陈军先生和野狼兵是站在一方，对俄乌战争进行了非常激烈的辩论。我们这一期节目非常高兴又邀请陈先生过来，再分享一下对于俄乌和谈的一些看法。我知道陈先生你去过乌克兰，也有很多生意伙伴，所以你对这一方面的理解会有一个跟一般人不一样的视角。我们今天很想听听陈先生怎么看待现在这样一个和谈的情况。

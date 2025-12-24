@@ -1,33 +1,30 @@
 ---
-title: Readwise Reader：革新知识获取与内容创作的阅读神器
-summary: 本视频深入探讨了Readwise Reader如何通过整合信息捕捉、阅读笔记、知识管理和AI辅助功能，彻底改变了内容创作者的知识获取效率。它支持多媒体源，提供强大的批注和标签系统，并能辅助内容创作和分享，是寻求高效阅读和知识转化的理想工具。
 area: tech-insights
 category: technology
-project:
-  - ai-impact-analysis
-  - knowledge-pipeline
-  - pkm-research
-  - vibe-coding
-tags:
-  - ai-tools
-  - content-creation
-  - knowledge-management
-  - reading-software
-  - readwise-reader
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2023-12-03'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- knowledge-pipeline
+- pkm-research
+- vibe-coding
 series: ''
 source: https://www.youtube.com/watch?v=m0-8dJez7Rc
+speaker: 一口新飯
 status: evergreen
+summary: 本视频深入探讨了Readwise Reader如何通过整合信息捕捉、阅读笔记、知识管理和AI辅助功能，彻底改变了内容创作者的知识获取效率。它支持多媒体源，提供强大的批注和标签系统，并能辅助内容创作和分享，是寻求高效阅读和知识转化的理想工具。
+tags:
+- content-creation
+- knowledge-management
+- readwise-reader
+- software
+- tool
+title: Readwise Reader：革新知识获取与内容创作的阅读神器
 ---
 
 ### 引言：Readwise Reader的革命性体验

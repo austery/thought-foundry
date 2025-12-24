@@ -1,36 +1,35 @@
 ---
-author: 徒步的騎手
-date: 2025-10-16
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=bZlZiA_EUhY'
-speaker: 徒步的騎手
-tags:
-  - cognitive-revolution
-  - world-centric-view
-  - historical-transformation
-  - closed-society
-title: 周有光对中国的诊断：为何中国人急需一场认知的“哥白尼革命”？
-summary: 本文探讨了“汉语拼音之父”周有光先生的核心思想：中国人必须进行一场认知的“哥白尼革命”，即从世界的角度审视中国，而非固守以中国为中心的视角。文章分析了这种思维转变的必要性，并结合唐德刚的“历史三峡”理论，探讨了劣质制度对社会的影响以及中国现代化转型的长期性和艰巨性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 周有光
-  - 哥白尼
-  - 季羡林
-  - 毛泽东
-  - 唐德刚
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-10-16
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《晚清七十年》
+- 《晚清七十年》
+people:
+- 周有光
+- 哥白尼
+- 季羡林
+- 毛泽东
+- 唐德刚
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=bZlZiA_EUhY
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了“汉语拼音之父”周有光先生的核心思想：中国人必须进行一场认知的“哥白尼革命”，即从世界的角度审视中国，而非固守以中国为中心的视角。文章分析了这种思维转变的必要性，并结合唐德刚的“历史三峡”理论，探讨了劣质制度对社会的影响以及中国现代化转型的长期性和艰巨性。
+tags:
+- cognitive
+- historical
+- society
+- world-centric-view
+title: 周有光对中国的诊断：为何中国人急需一场认知的“哥白尼革命”？
 ---
 
 ### 周有光的诊断：要从世界看中国

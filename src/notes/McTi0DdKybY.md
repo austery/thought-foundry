@@ -1,44 +1,44 @@
 ---
-author: 课代表立正
+area: market-analysis
+category: business
+companies_orgs:
+- Aha
+- MetaGPT
+- Uber
+- Airbnb
+- MCN
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- TechCrunch Disrupt
+people:
+- Kay
+products_models:
+- YouTube
+- Twitter
+- Instagram Reels
+- Instagram Carousel
+project:
+- ai-impact-analysis
+- entrepreneurship
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=McTi0DdKybY
 speaker: 课代表立正
-tags:
-  - influencer-marketing
-  - ai-platform
-  - startup-challenges
-  - dynamic-pricing
-  - network-effects
-title: AI如何重塑达人营销：Aha创始人Kay揭秘“不卷”赛道的深层逻辑与创业心法
-summary: Aha创始人Kay在访谈中深入剖析了AI如何解决达人营销行业长期缺乏数据和匹配效率低下的痛点。她详细阐述了平台如何利用大模型进行达人画像、内容匹配和动态定价，实现广告主和达人双方的效率提升与信任构建。Kay还分享了创业过程中的挑战、团队筛选标准以及对用户价值的坚定信念，揭示了看似“卷”的AI赛道背后，通过深耕细作仍能找到蓝海的创业哲学。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - systems-thinking
-people:
-  - Kay
-companies_orgs:
-  - Aha
-  - MetaGPT
-  - Uber
-  - Airbnb
-  - MCN
-products_models:
-  - YouTube
-  - Twitter
-  - Instagram Reels
-  - Instagram Carousel
-media_books:
-  - TechCrunch Disrupt
 status: evergreen
+summary: Aha创始人Kay在访谈中深入剖析了AI如何解决达人营销行业长期缺乏数据和匹配效率低下的痛点。她详细阐述了平台如何利用大模型进行达人画像、内容匹配和动态定价，实现广告主和达人双方的效率提升与信任构建。Kay还分享了创业过程中的挑战、团队筛选标准以及对用户价值的坚定信念，揭示了看似“卷”的AI赛道背后，通过深耕细作仍能找到蓝海的创业哲学。
+tags:
+- business
+- dynamic
+- network-effect
+- platform
+- startup-challenge
+title: AI如何重塑达人营销：Aha创始人Kay揭秘“不卷”赛道的深层逻辑与创业心法
 ---
+
 ### AI重塑达人营销：解决行业核心痛点
 
 谈及Aha（现已更名为Aha）这家公司，我的第一反应是为何此前没有人成功解决其所面对的问题。我猜测，应该有很多公司曾试图解决这一难题。我们可以先探讨对于传统公司而言，为何过去难以实现这一目标。

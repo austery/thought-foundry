@@ -1,48 +1,48 @@
 ---
-author: 徒步的騎手
-date: 2025-02-06
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=BIAsYA0u_6E'
-speaker: 徒步的騎手
-tags:
-  - freedom-definition
-  - political-philosophy
-  - us-constitutional-law
-  - equality-rights
-  - historical-context
-title: 自由到底是什么意思？：自由科普第二讲
-summary: 本文深入探讨“自由”一词的含义及其在中文和英文世界中的滥用现象。通过追溯其在政治、法律和日常语言中的演变，文章强调了厘清自由概念的重要性，以避免思维混乱和被操纵。内容涵盖了美国政治中两大阵营对自由的解读、林肯总统对自由多义性的论述，以及英国《大宪章》、美国《独立宣言》和宪法中自由概念的历史渊源。此外，文章还通过具体案例（如Loving v. Virginia案和Dobbs案）阐释了普通人对自由的理解，并探讨了自由与平等之间的关系，指出在弱势群体争取权利的过程中，自由与平等往往是同步实现的。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - 孔子
-  - 林肯
-  - Isaac Berlin
-  - Ronald Dworkin
-  - 颜复
-  - John Stuart Mill
-  - Epictetus
-  - Pertinex
+category: geopolitics
 companies_orgs:
-  - 共和党
-  - 民主党
-  - 美国最高法院
-products_models: '[]'
+- 共和党
+- 民主党
+- 美国最高法院
+date: 2025-02-06
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《群己权界论》
-  - 《生活的艺术》
-  - 《英格兰大宪章》
-  - 《英格兰权力法案》
-  - 《美国独立宣言》
-  - 《美国宪法》
+- 《群己权界论》
+- 《生活的艺术》
+- 《英格兰大宪章》
+- 《英格兰权力法案》
+- 《美国独立宣言》
+- 《美国宪法》
+people:
+- 孔子
+- 林肯
+- Isaac Berlin
+- Ronald Dworkin
+- 颜复
+- John Stuart Mill
+- Epictetus
+- Pertinex
+products_models: '[]'
+project:
+- us-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=BIAsYA0u_6E
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨“自由”一词的含义及其在中文和英文世界中的滥用现象。通过追溯其在政治、法律和日常语言中的演变，文章强调了厘清自由概念的重要性，以避免思维混乱和被操纵。内容涵盖了美国政治中两大阵营对自由的解读、林肯总统对自由多义性的论述，以及英国《大宪章》、美国《独立宣言》和宪法中自由概念的历史渊源。此外，文章还通过具体案例（如Loving
+  v. Virginia案和Dobbs案）阐释了普通人对自由的理解，并探讨了自由与平等之间的关系，指出在弱势群体争取权利的过程中，自由与平等往往是同步实现的。
+tags:
+- freedom
+- historical
+- law
+- political-philosophy
+- right
+title: 自由到底是什么意思？：自由科普第二讲
 ---
 
 ### 厘清“自由”的含义：避免思维与行为的混乱

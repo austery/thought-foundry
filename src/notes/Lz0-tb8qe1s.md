@@ -1,36 +1,34 @@
 ---
-title: 中美贸易战升级下的全球经济与地缘政治：加密货币震荡、中国房地产危机及言论管制
-summary: 国际货币基金组织上调全球经济预期，但警告中美贸易战风险。加密货币市场因关税意外暴跌。加沙和平协议前景不明。印度加速与美贸易谈判。非洲终身制领导人引警示。万科高管被捕，中国房地产危机加剧。胡锡进罕见批评言论管制。中美贸易战在多领域升级，但沟通渠道仍存，全球“去风险”成共识。
-area: market-analysis
-category: geopolitics
+area: society-thinking
+category: politics-society
+companies_orgs: []
+date: '2025-10-14'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- lt
+products_models: []
 project:
 - china-analysis
 - geopolitics-watch
 - investment-strategy
 - market-cycles
 - us-analysis
-tags:
-- china-economy
-- cryptocurrency-market
-- geopolitics
-- media-censorship
-- us-china-trade
-people:
-- lt
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-14'
-author: LT視界
-speaker: LT視界
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
 series: ''
 source: https://www.youtube.com/watch?v=Lz0-tb8qe1s
+speaker: LT視界
 status: evergreen
+summary: 国际货币基金组织上调全球经济预期，但警告中美贸易战风险。加密货币市场因关税意外暴跌。加沙和平协议前景不明。印度加速与美贸易谈判。非洲终身制领导人引警示。万科高管被捕，中国房地产危机加剧。胡锡进罕见批评言论管制。中美贸易战在多领域升级，但沟通渠道仍存，全球“去风险”成共识。
+tags:
+- china-economy
+- market
+- media
+- us-china-relations
+title: 中美贸易战升级下的全球经济与地缘政治：加密货币震荡、中国房地产危机及言论管制
 ---
+
 ### 国际财经动态与加密货币市场震荡
 
 今天，国际货币基金组织（**International Monetary Fund, IMF**：负责促进全球货币合作、金融稳定、国际贸易、就业和可持续经济增长的国际组织）小幅上调了2025年全球经济增长预测，认为关税冲击和金融状况比预期温和，但警告美国总统特朗普威胁再次爆发美中贸易战可能会大幅减缓产出。IMF预测2025年全球实际**GDP**（Gross Domestic Product：国内生产总值，衡量一个国家或地区在一定时间内生产的所有最终商品和服务的市场价值的总和）增长率为3.2%，高于7月份预测的3.0%和4月份预测的2.8%。IMF首席经济学家古林沙斯评论称，情况没有担心的那么糟糕，但比一年前预期的和需要的都要糟糕。

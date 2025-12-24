@@ -1,39 +1,38 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: psychology
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 宋晏仁
+- 馬大元
+- 孔子
+products_models:
+- 煥然一新大腦快樂學
+- '168'
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=nifbGWIM8fI
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - happiness-factors
-  - mental-health-physiology
-  - child-adolescent-wellbeing
-  - digital-addiction-impact
-  - stress-management-techniques
-title: 精神科醫師馬大元：揭開快樂的九成密碼——從基因、體質到生活習慣的全面解析
-summary: 馬大元醫師在《初日會客室》中指出，快樂的九成密碼掌握在個人手中，基因影響佔五成，生活方式佔四成。他詳細闡述了六大影響情緒的體質，包括發炎、氧化壓力、吡咯體質、代謝症候群、粒線體功能障礙及腸道菌群失衡，並提供相應的營養補充與生活調整建議。此外，醫師也探討了3C產品對青少年心理健康的衝擊，並分享了如「後設認知」等實用的壓力調適技巧，強調環境轉換與人際關係的重要性。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - 宋晏仁
-  - 馬大元
-  - 孔子
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models:
-  - 煥然一新大腦快樂學
-  - '168'
-media_books: []
 status: evergreen
+summary: 馬大元醫師在《初日會客室》中指出，快樂的九成密碼掌握在個人手中，基因影響佔五成，生活方式佔四成。他詳細闡述了六大影響情緒的體質，包括發炎、氧化壓力、吡咯體質、代謝症候群、粒線體功能障礙及腸道菌群失衡，並提供相應的營養補充與生活調整建議。此外，醫師也探討了3C產品對青少年心理健康的衝擊，並分享了如「後設認知」等實用的壓力調適技巧，強調環境轉換與人際關係的重要性。
+tags:
+- child
+- financial
+- impact
+- mental-health-physiology
+- stress-management-technique
+title: 精神科醫師馬大元：揭開快樂的九成密碼——從基因、體質到生活習慣的全面解析
 ---
+
 ### 快樂的密碼：基因與生活方式的雙重影響
 
 **宋晏仁:** 大家好，我是宋晏仁醫師，歡迎來到初日會客室。今天為您邀訪的是在新竹地區，竹科的救命恩人，馬大元醫師。馬醫師您好。

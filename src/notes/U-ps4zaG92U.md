@@ -1,38 +1,37 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: society-systems
+category: psychology
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-05-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 雯心医师
+- 路嘉怡
+products_models:
+- 人类图
+- 葡萄柚精油
+- 解答之书
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=U-ps4zaG92U
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - relationship-dynamics
-  - emotional-intelligence
-  - self-awareness
-  - personal-wellbeing
-  - mindset-shift
-title: 亲密关系中的自我觉察与身心疗愈：路嘉怡分享维系长久关系的智慧
-summary: 本期《女人疗心室》特邀嘉宾路嘉怡（小米姐），深入探讨亲密关系中“牺牲”的误区及如何避免情绪爆炸。节目强调自我觉察的重要性，特别是识别受害者心态和情绪敏感性。路嘉怡分享了她与伴侣维系20年感情的秘诀，包括用心经营、理解彼此，并提出通过人类图认识自身情绪模式。此外，节目还讨论了饮食、适量饮酒等身心疗愈方式，以及活在当下、照顾自己的重要性，为观众提供了维系健康关系和个人成长的实用建议。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-people:
-  - 雯心医师
-  - 路嘉怡
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models:
-  - 人类图
-  - 葡萄柚精油
-  - 解答之书
-media_books: []
 status: evergreen
+summary: 本期《女人疗心室》特邀嘉宾路嘉怡（小米姐），深入探讨亲密关系中“牺牲”的误区及如何避免情绪爆炸。节目强调自我觉察的重要性，特别是识别受害者心态和情绪敏感性。路嘉怡分享了她与伴侣维系20年感情的秘诀，包括用心经营、理解彼此，并提出通过人类图认识自身情绪模式。此外，节目还讨论了饮食、适量饮酒等身心疗愈方式，以及活在当下、照顾自己的重要性，为观众提供了维系健康关系和个人成长的实用建议。
+tags:
+- emotional-intelligence
+- personal
+- relationship-dynamic
+- self-awareness
+- shift
+title: 亲密关系中的自我觉察与身心疗愈：路嘉怡分享维系长久关系的智慧
 ---
+
 ### 节目开场与《女人疗心室》的缘起
 
 雯心医师: 大家好，欢迎来到《女人疗心室》，我是雯心医师。今天的节目我们邀请到的来宾是路嘉怡小姐，小米姐。哈啰，大家好，雯心医师你好。很荣幸，第一集吗？真的第一集吗？谢谢小米姐来这个节目。其实这个节目一开始会有发想，是因为这几年我在诊间看的病人，尤其是女性病人居多。我发现我们一直在告诉大家要照顾自己，照顾身体，所以初日医学也一直往照顾身体的方向努力，告诉大家很多细胞跟荷尔蒙的机制，想要让大家过得更健康。可是往往有的时候卡关的，就是生活中的压力、心理，甚至我觉得灵性这一块，也跟我们探索人生的价值，进而让自己活得更稳定是一个方向。毕竟我也不是专业的心理师，真的没有办法跟大家讲很专业的心理学。所以我想，不如把我遇到的有趣的人、我好奇的人，邀请来节目。这个节目一开始，我就放了一个我很喜欢的元素，就是精油。我其实有去学**精油医学**（Essential Oil Medicine: 一种结合芳香疗法与医学知识，利用精油的生理和心理作用来促进健康的实践）。我以前一直以为精油就是香味而已，后来我发现它其实真的可以用生理的一些机转，引发生体的一些状况，它也会跟我们的心理状态对应。所以我们先请小米姐闻闻看，我已经在闻香纸上点了精油，你觉得哪一支今天闻起来最舒服？

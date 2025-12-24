@@ -1,41 +1,40 @@
 ---
-author: 硅谷101
+area: market-analysis
+category: business
+companies_orgs:
+- OpenAI
+- Gartner Institute
+- Andreessen Horowitz
+- Waymo
+- Auto
+- KFC
+- Dartmouth
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jeff Hinton
+products_models: []
+project:
+- entrepreneurship
+- market-cycles
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=7d2QdCv4qNU
 speaker: 硅谷101
-tags:
-  - hype-cycles
-  - hard-tech-survival
-  - venture-capital
-  - consensus-capital
-  - entrepreneurship-strategy
-title: 穿越热潮周期：硬科技公司的生存法则
-summary: 本次演讲深入探讨了硅谷创业生态中的两种核心资本：风险投资与共识投资，并剖析了技术热潮周期（Gartner Hype Cycle）对硬科技公司生存的深远影响。讲者指出，硬科技的漫长研发和商业化周期与短暂的市场热潮之间存在严重错配，导致许多公司在“热潮退去”后陷入困境。他提出了一种“餐厅经营模式”作为穿越热潮的生存法则，强调硬科技公司应专注于创造真实的产品价值、严格控制运营成本并有效获取客户，而非盲目追逐短期热点，以实现可持续的企业发展和长期成功。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - market-cycles
-  - investment-strategy
-people:
-  - Jeff Hinton
-companies_orgs:
-  - OpenAI
-  - Gartner Institute
-  - Andreessen Horowitz
-  - Waymo
-  - Auto
-  - KFC
-  - Dartmouth
-products_models: []
-media_books: []
 status: evergreen
+summary: 本次演讲深入探讨了硅谷创业生态中的两种核心资本：风险投资与共识投资，并剖析了技术热潮周期（Gartner Hype Cycle）对硬科技公司生存的深远影响。讲者指出，硬科技的漫长研发和商业化周期与短暂的市场热潮之间存在严重错配，导致许多公司在“热潮退去”后陷入困境。他提出了一种“餐厅经营模式”作为穿越热潮的生存法则，强调硬科技公司应专注于创造真实的产品价值、严格控制运营成本并有效获取客户，而非盲目追逐短期热点，以实现可持续的企业发展和长期成功。
+tags:
+- capital
+- cycle
+- entrepreneurship-strategy
+- tech
+- venture-capital
+title: 穿越热潮周期：硬科技公司的生存法则
 ---
+
 ### 硅谷创业生态：机遇与挑战
 
 大家好，很高兴今年能来到这里。

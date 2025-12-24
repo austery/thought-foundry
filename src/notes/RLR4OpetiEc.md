@@ -1,33 +1,33 @@
 ---
-title: Richard Sutton on Why Large Language Models Are a Dead End for AGI
-summary: A detailed breakdown of Richard Sutton's argument that LLMs are fundamentally
-  flawed for achieving AGI, and his proposed alternative centered on experiential
-  learning, world models, and the lessons from animal intelligence.
-area: null
-category: null
-project: []
-tags:
-- artificial-general-intelligence
-- llm
-- reinforcement-learning
-people:
-  - richard-sutton
-  - 大飞
-  - Richard Sutton
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-10-01
+area: tech-engineering
 author: Lei
-speaker: ''
+category: ai-ml
+companies_orgs: []
+date: 2025-10-01
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+media_books: []
+people:
+- richard-sutton
+- 大飞
+- Richard Sutton
+products_models: []
+project: []
 series: null
 source: https://www.youtube.com/watch?v=RLR4OpetiEc
+speaker: ''
 status: evergreen
+summary: A detailed breakdown of Richard Sutton's argument that LLMs are fundamentally
+  flawed for achieving AGI, and his proposed alternative centered on experiential
+  learning, world models, and the lessons from animal intelligence.
+tags:
+- agi
+- reinforcement-learning
+title: Richard Sutton on Why Large Language Models Are a Dead End for AGI
 ---
+
 大家好，这里是最佳拍档，我是大飞。
 
 就在最近，知名技术播客德瓦尔凯什播客（Dwarkesh Podcast）上线了与强化学习之父Richard Sutton的一期视频，标题非常犀利，直言大语言模型是死路一条。这次访谈的内容从大语言模型的根本缺陷聊到了智能的本质，再延伸到了宇宙演化的大视角，最后落到了创造AGI是人类文明关键使命的结论，密度极高。今天我们就来一点一点地拆解，看看这位AI领域的泰山北斗到底为什么否定大语言模型，以及他眼中真正的智能究竟是什么样的。

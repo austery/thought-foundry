@@ -1,47 +1,46 @@
 ---
-author: Peter Pang
+area: tech-insights
+category: technology
+companies_orgs:
+- Vercel
+- React team
+- Next.js
+- Cloudflare
+- CVE
+- FBI
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《让编程再次伟大#35》
+- 《让编程再次伟大#49》
+people:
+- Lachlan Davidson
+products_models:
+- React
+- React Server Components
+- Next.js
+- Node.js
+- SOAP
+- gRPC
+- WAF
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=LSiYdiMGS4U
 speaker: Peter Pang
-tags:
-  - react-security-vulnerability
-  - server-side-rendering-risks
-  - system-interdependencies
-  - web-application-security
-  - cloud-infrastructure-failure
-title: React满分漏洞深度解析：前端框架如何引发半个互联网瘫痪
-summary: 本文深入探讨了React Server Components（RSC）中一个满分10分的严重安全漏洞（CVE-2025-55182），该漏洞允许攻击者在服务器上执行任意代码。文章分析了漏洞的技术细节、对Next.js的影响，以及它如何阴差阳错地导致Cloudflare服务中断。同时，也批判了Vercel公司在SSR路线上的激进策略及其对后端安全原则的忽视，并强调了系统间依赖和安全防护的重要性。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Lachlan Davidson
-companies_orgs:
-  - Vercel
-  - React team
-  - Next.js
-  - Cloudflare
-  - CVE
-  - FBI
-products_models:
-  - React
-  - React Server Components
-  - Next.js
-  - Node.js
-  - SOAP
-  - gRPC
-  - WAF
-media_books:
-  - 《让编程再次伟大#35》
-  - 《让编程再次伟大#49》
 status: evergreen
+summary: 本文深入探讨了React Server Components（RSC）中一个满分10分的严重安全漏洞（CVE-2025-55182），该漏洞允许攻击者在服务器上执行任意代码。文章分析了漏洞的技术细节、对Next.js的影响，以及它如何阴差阳错地导致Cloudflare服务中断。同时，也批判了Vercel公司在SSR路线上的激进策略及其对后端安全原则的忽视，并强调了系统间依赖和安全防护的重要性。
+tags:
+- infrastructure
+- risk
+- security
+- system
+title: React满分漏洞深度解析：前端框架如何引发半个互联网瘫痪
 ---
+
 ### React满分漏洞：前端框架的致命安全隐患
 
 在开发后端系统时，有一个基本原则至关重要：永远不要相信前端传来的任何数据。如果不遵守这一原则，结果可能会像**React**（一个用于构建用户界面的JavaScript库）一样，喜提满分10分的前端框架历史上最严重的安全漏洞。

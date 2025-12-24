@@ -1,33 +1,29 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日診所
+- Cofit
 date: '2025-04-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=eCA8qZBscFU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - fatty-liver
-  - metabolic-syndrome
-  - chronic-inflammation
-  - diet-nutrition
-  - exercise-physiology
-title: 揭秘“偷肥族”：脂肪肝如何引发全身炎症？三招教你护肝强代谢
-summary: 许多人误以为不喝酒、不肥胖就不会有脂肪肝，但实际上，外瘦内胖的“偷肥族”面临着隐形的健康危机。脂肪肝不仅是肝脏问题，更是全身慢性炎症和代谢异常的警讯，可能导致心血管疾病、三高甚至癌症。本文将深入解析脂肪肝的诊断误区、代谢性异常相关脂肪性肝病（MASLD）的最新定义，并提供通过抗氧化饮食、关键营养素补充和规律运动来逆转脂肪肝、提升代谢力的三项护肝策略。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people: []
-companies_orgs:
-  - 初日診所
-  - Cofit
-products_models: []
-media_books: []
 status: evergreen
+summary: 许多人误以为不喝酒、不肥胖就不会有脂肪肝，但实际上，外瘦内胖的“偷肥族”面临着隐形的健康危机。脂肪肝不仅是肝脏问题，更是全身慢性炎症和代谢异常的警讯，可能导致心血管疾病、三高甚至癌症。本文将深入解析脂肪肝的诊断误区、代谢性异常相关脂肪性肝病（MASLD）的最新定义，并提供通过抗氧化饮食、关键营养素补充和规律运动来逆转脂肪肝、提升代谢力的三项护肝策略。
+tags:
+- health
+title: 揭秘“偷肥族”：脂肪肝如何引发全身炎症？三招教你护肝强代谢
+companies:
+- metabolic-syndrome
 ---
+
 ### 警惕“偷肥族”：脂肪肝的隐形危机
 
 所谓的**偷肥族**（TOFI: Thin-Outside-Fat-Inside，外瘦内胖）其实都可能患有脂肪肝。如果你以为自己没有喝酒，或者身材不胖就没有问题，那一定要看到最后。接下来，我们将揭示三个简单的方法，帮助你的肝脏恢复健康，远离发炎的危机。

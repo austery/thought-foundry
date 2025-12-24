@@ -1,36 +1,36 @@
 ---
-author: 初日醫學 - 宋晏仁醫師 x Cofit
+area: personal-systems
+category: lifestyle
+companies_orgs:
+- 初日醫學
+- Cofit
 date: '2025-07-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《初日的解答之書》
+people:
+- 季芹
+- 雯心醫師
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=zQtbtWBWEiY
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags:
-  - health-crisis
-  - life-re-evaluation
-  - parenting-philosophy
-  - personal-transformation
-  - work-life-balance
-title: 季芹：一场重病让我明白，人生没有那么多“以后”
-summary: 艺人季芹在一次突如其来的健康危机中，被医生勒令住院，被迫按下人生暂停键。这场经历让她重新审视人生 priorities，从悲观中走出，积极调整生活方式，搬到宜兰，挑战户外运动，并形成了独特的育儿哲学。她强调倾听内心、有效陪伴孩子，并分享了如何通过积极心态和健康管理，活出更充实、更勇敢的自我。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - 季芹
-  - 雯心醫師
-companies_orgs:
-  - 初日醫學
-  - Cofit
-products_models: []
-media_books:
-  - 《初日的解答之書》
 status: evergreen
+summary: 艺人季芹在一次突如其来的健康危机中，被医生勒令住院，被迫按下人生暂停键。这场经历让她重新审视人生 priorities，从悲观中走出，积极调整生活方式，搬到宜兰，挑战户外运动，并形成了独特的育儿哲学。她强调倾听内心、有效陪伴孩子，并分享了如何通过积极心态和健康管理，活出更充实、更勇敢的自我。
+tags:
+- crisis
+- life
+- parenting-philosophy
+- personal
+- work-life-balance
+title: 季芹：一场重病让我明白，人生没有那么多“以后”
 ---
+
 ### 突如其来的健康危机
 
 **雯心醫師:** 大家好，我是雯心醫師，歡迎收看女人療心室。你是不是有這種經驗呢？就是明明身體上好像已經出現一些小問題了，你想著要去看醫生，但是呢，你有工作、要顧小孩，每件事情都很忙，然後就一直沒有去看，一直到真的去了之後，哇，沒想到代誌大條了。我們今天的來賓就是有這樣的經驗，她當天去看醫生的時候，本來想說看完就要回家接小孩了，結果被醫生勒令要住院，從此她的人生呢，就有了一些改變，應該是說很大的改變。我們歡迎今天的來賓，季芹小姐。

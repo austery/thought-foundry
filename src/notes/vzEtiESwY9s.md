@@ -1,44 +1,43 @@
 ---
-author: 投资TALK君
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Tesla
+- GEV
+- ISS
+- Glass Lewis
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- X
+people:
+- Elon Musk
+products_models:
+- FSD
+- Cybertruck
+- Optimus
+- Model 3
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=vzEtiESwY9s
 speaker: 投资TALK君
-tags:
-  - earnings-report
-  - market-sentiment
-  - investment-strategy
-  - autonomous-driving
-  - electrification-growth
-title: 特斯拉与GEV财报深度解析：市场情绪、自动驾驶与电气化未来
-summary: 本期节目深入分析了特斯拉和GEV两家公司的最新财报，探讨了当前美股市场的板块轮动与网红股的剧烈回调。重点解读了特斯拉在自动驾驶（FSD）、Cybertruck量产、Optimus机器人以及埃隆·马斯克对被动基金投票权的抱怨。同时，对GEV的电气化业务增长前景、积压订单及其估值进行了详细探讨，为投资者提供了对市场情绪和高估值个股的独到见解。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - Elon Musk
-companies_orgs:
-  - Tesla
-  - GEV
-  - ISS
-  - Glass Lewis
-products_models:
-  - FSD
-  - Cybertruck
-  - Optimus
-  - Model 3
-media_books:
-  - Bloomberg
-  - X
 status: evergreen
+summary: 本期节目深入分析了特斯拉和GEV两家公司的最新财报，探讨了当前美股市场的板块轮动与网红股的剧烈回调。重点解读了特斯拉在自动驾驶（FSD）、Cybertruck量产、Optimus机器人以及埃隆·马斯克对被动基金投票权的抱怨。同时，对GEV的电气化业务增长前景、积压订单及其估值进行了详细探讨，为投资者提供了对市场情绪和高估值个股的独到见解。
+tags:
+- autonomous-driving
+- earnings-report
+- growth
+- market-sentiment
+title: 特斯拉与GEV财报深度解析：市场情绪、自动驾驶与电气化未来
 ---
+
 各位观众大家好，欢迎来到一个一进入财报季度就转变为“爱发电”工作狂魔的专业美股频道。我是市场分析员小涛。今天将主要和大家聊一下两家公司的财报，它们也是我持仓的公司：特斯拉（Tesla）和GEV。虽然从结果来看，两家公司股价都出现了下跌，但财报具体如何，我们一起来深入探讨。
 
 ### 市场概览与板块轮动

@@ -1,30 +1,27 @@
 ---
-title: 揭秘“合格投资者”：富人专属的投资世界与普通人的进阶之路
-summary: 本视频深入解析美国“合格投资者”（Accredited Investor）的定义、认定标准、制度背景，并揭示其专属的私人市场投资机会与高风险策略，探讨普通人如何通过知识和经验提升自我。
 area: market-analysis
 category: finance
-project:
-  - investment-strategy
-tags:
-  - accredited-investor
-  - financial-regulation
-  - private-equity
-  - venture-capital
-  - wealth-management
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-12-05'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=hTEdcgAvPKw
+speaker: 一口新飯
 status: evergreen
+summary: 本视频深入解析美国“合格投资者”（Accredited Investor）的定义、认定标准、制度背景，并揭示其专属的私人市场投资机会与高风险策略，探讨普通人如何通过知识和经验提升自我。
+tags:
+- financial-regulation
+- investment
+- private-equity
+- venture-capital
+- wealth-management
+title: 揭秘“合格投资者”：富人专属的投资世界与普通人的进阶之路
 ---
 
 ### 引言：揭秘“合格投资者”身份

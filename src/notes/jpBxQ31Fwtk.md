@@ -1,34 +1,33 @@
 ---
-author: 徒步的騎手
-date: 2025-07-05
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=jpBxQ31Fwtk'
-speaker: 徒步的騎手
-tags:
-  - independence-day
-  - modern-state-concept
-  - popular-sovereignty
-  - constitutional-democracy
-  - more-perfect-union
-title: 美国的生日，庆祝什么？独立日背后的现代国家观念
-summary: 本文探讨了美国独立日的深层意义，强调其纪念的是《独立宣言》所宣誓的“人人生而平等”等普世价值和人民主权理念，而非任何个人或党派。文章批判了将国家与现任总统混淆的“成就国家观念”，并指出美国建国是一个不断追求“更完美的联邦”的持续过程，其精神核心在于宪法与独立宣言，而非任何一位总统。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-people:
-  - Donald Trump
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-07-05
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《独立宣言》
-  - 《宪法》
+- 《独立宣言》
+- 《宪法》
+people:
+- Donald Trump
+products_models: '[]'
+project:
+- us-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=jpBxQ31Fwtk
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文探讨了美国独立日的深层意义，强调其纪念的是《独立宣言》所宣誓的“人人生而平等”等普世价值和人民主权理念，而非任何个人或党派。文章批判了将国家与现任总统混淆的“成就国家观念”，并指出美国建国是一个不断追求“更完美的联邦”的持续过程，其精神核心在于宪法与独立宣言，而非任何一位总统。
+tags:
+- constitutional
+- geopolitical
+- independence-day
+- more-perfect-union
+- state
+title: 美国的生日，庆祝什么？独立日背后的现代国家观念
 ---
 
 ### 独立日：纪念开天辟地的创举

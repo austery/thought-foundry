@@ -1,35 +1,34 @@
 ---
-author: Anthony看世界
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-10-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Anthony
+- Sigmund Freud
+- Jacques Lacan
+products_models: []
+project:
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=WFbnEwqdqog
 speaker: Anthony看世界
-tags:
-  - effeminate-culture
-  - cross-dressing
-  - psychoanalysis
-  - sexual-fantasy
-  - trauma-response
-  - unconscious-desire
-title: 男娘文化与女装现象：精神分析视角下的欲望、创伤与权力
-summary: 本文从精神分析的视角深入探讨了网络上日益流行的男娘文化和女装现象。通过分析其背后的无意识机制，文章揭示了这种性幻想如何作为个体应对现实挫折和心理创伤的一种退行性策略。它探讨了男娘文化中“他者凝视”的重要性，以及在幻想中通过被动受虐来获得权力感的心理逻辑。最终，文章区分了症状与创造，指出对自身幻想的觉察和转化是实现升华的关键。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-people:
-  - Anthony
-  - Sigmund Freud
-  - Jacques Lacan
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文从精神分析的视角深入探讨了网络上日益流行的男娘文化和女装现象。通过分析其背后的无意识机制，文章揭示了这种性幻想如何作为个体应对现实挫折和心理创伤的一种退行性策略。它探讨了男娘文化中“他者凝视”的重要性，以及在幻想中通过被动受虐来获得权力感的心理逻辑。最终，文章区分了症状与创造，指出对自身幻想的觉察和转化是实现升华的关键。
+tags:
+- cross-dressing
+- culture
+- geopolitical
+- psychology
+- sexual-fantasy
+title: 男娘文化与女装现象：精神分析视角下的欲望、创伤与权力
+companies:
+- psychoanalysi
 ---
 
 ### 导语：从NTR到男娘文化

@@ -1,39 +1,40 @@
 ---
-author: Money or Life 美股频道
+area: market-analysis
+category: finance
+companies_orgs:
+- Money or Life 美股频道
+- CoreWeave
+- Nebius
 date: '2025-11-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Patreon
+people:
+- Ace
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=tS0gfjAoRPE
 speaker: Money or Life 美股频道
-tags:
-  - market-downturn
-  - investment-philosophy
-  - long-term-investing
-  - portfolio-management
-  - emotional-resilience
-  - dollar-cost-averaging
-title: 美股下跌中的投资心法：长期主义、仓位管理与个股深度解析
-summary: 在近期美股杀估值行情中，Money or Life美股频道主持人Ace分享了其投资心法。他强调长期投资的重要性，并阐述了在市场下跌中不减仓、不看空的核心策略。视频深入探讨了其对特斯拉、火箭实验室、Hims & Hers、Circle和MSTR等持仓个股的看法，以及对左侧加仓、本金保护的思考，旨在帮助投资者稳定心态，坚持正确的投资方向。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - personal-growth-lab
-people:
-  - Ace
-companies_orgs:
-  - Money or Life 美股频道
-  - CoreWeave
-  - Nebius
-products_models: []
-media_books:
-  - Patreon
 status: evergreen
+summary: 在近期美股杀估值行情中，Money or Life美股频道主持人Ace分享了其投资心法。他强调长期投资的重要性，并阐述了在市场下跌中不减仓、不看空的核心策略。视频深入探讨了其对特斯拉、火箭实验室、Hims
+  & Hers、Circle和MSTR等持仓个股的看法，以及对左侧加仓、本金保护的思考，旨在帮助投资者稳定心态，坚持正确的投资方向。
+tags:
+- cost
+- emotional-resilience
+- investment-philosophy
+- long-term-investing
+- market-downturn
+- portfolio-management
+title: 美股下跌中的投资心法：长期主义、仓位管理与个股深度解析
 ---
+
 ### 开场白与本期主题
 
 大家好，欢迎来到Money or Life美股频道。我是Ace，今天是2025年11月23号周日。通常美股的**复盘加推演**（Review and Projection: 对过去的市场表现进行回顾分析，并在此基础上对未来走势进行预测和推演）节目都会放在周六，但昨天我已通过一段长文字总结了本周的复盘。今天刚好有空，我想那就再录一期视频，也出一下镜。因为最近美股表现较差，我想可能很多朋友都在等着我的更新以及对我持仓的一些说明。那么本期视频，就以聊天的形式，和大家谈一下我最近一两周在股市下跌中的感想、我的最新仓位，以及我持仓的那些个股目前是什么情况。

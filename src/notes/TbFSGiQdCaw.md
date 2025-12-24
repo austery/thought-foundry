@@ -1,50 +1,50 @@
 ---
-author: a16z
+area: society-systems
+category: technology
+companies_orgs:
+- Nvidia
+- Anthropic
+- OpenAI
+- Microsoft
+- Amazon
+- XAI
+- a16z
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dario Amodei
+- Tyler Cowen
+products_models:
+- GPT-3
+- AlphaFold
+- Claude Code
+- AlphaCode
+- ChatGPT
+- Sonnet 3.5
+- MMLU
+- SweetBench
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=TbFSGiQdCaw
 speaker: a16z
-tags:
-  - ai-forecasting
-  - superintelligence-timeline
-  - ai-economic-impact
-  - ai-labor-market
-  - data-center-infrastructure
-title: AI发展前瞻：泡沫、就业冲击与超级智能时间线
-summary: 本期讨论深入探讨了人工智能的未来发展，包括当前AI投资是否构成泡沫、其对就业市场的潜在影响（预计未来十年内可能导致5-10%的失业率增长），以及实现超级智能的时间线（中位数预测在2045年左右）。嘉宾们分析了AI在数学、编程、机器人等领域的进展，数据中心基础设施建设的现状与挑战，并思考了政府对AI快速发展的潜在反应，同时提供了对未来职业选择的建议。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - geopolitics-watch
-  - us-analysis
-people:
-  - Dario Amodei
-  - Tyler Cowen
-companies_orgs:
-  - Nvidia
-  - Anthropic
-  - OpenAI
-  - Microsoft
-  - Amazon
-  - XAI
-  - a16z
-products_models:
-  - GPT-3
-  - AlphaFold
-  - Claude Code
-  - AlphaCode
-  - ChatGPT
-  - Sonnet 3.5
-  - MMLU
-  - SweetBench
-media_books: []
 status: evergreen
+summary: 本期讨论深入探讨了人工智能的未来发展，包括当前AI投资是否构成泡沫、其对就业市场的潜在影响（预计未来十年内可能导致5-10%的失业率增长），以及实现超级智能的时间线（中位数预测在2045年左右）。嘉宾们分析了AI在数学、编程、机器人等领域的进展，数据中心基础设施建设的现状与挑战，并思考了政府对AI快速发展的潜在反应，同时提供了对未来职业选择的建议。
+tags:
+- ai-economic-impact
+- ai-labor-market
+- data-center-infrastructure
+- llm
+title: AI发展前瞻：泡沫、就业冲击与超级智能时间线
+companies:
+- superintelligence-timeline
 ---
+
 ### AI投资与市场现状：是泡沫还是价值？
 
 人们在这些模型上投入了大量资金。

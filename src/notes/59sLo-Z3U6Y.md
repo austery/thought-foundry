@@ -1,70 +1,70 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- New York Times
+- Hudson Institute
+- Financial Times
+- Council on Foreign Relations
+- Power Metallic Mines
+- Lockheed Martin
+- Raytheon
+- Tesla
+- Apple
+- Ford
+- CATL
+- Gotion High-Tech
+- BYD
+- TikTok
+- Quibi
+- RealShot
+- COL Group
+- Ipsos
+- ASEAN
+- SCO
+- FBI
+- NRTA
+- CFIUS
+- General Motors
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《孙子兵法》
+people:
+- Donald Trump
+- Xi Jinping
+- Howard Lutnick
+- Marco Rubio
+- Glenn Youngkin
+- Terry Lynch
+- Narendra Modi
+- Li Qiang
+- 罗伊夫
+- Vladimir Putin
+products_models:
+- F-35
+- S-400
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=59sLo-Z3U6Y
 speaker: FearNation 世界苦茶
-tags:
-  - us-china-rivalry
-  - trade-war
-  - supply-chain-security
-  - geopolitical-strategy
-  - economic-coercion
-title: 地缘政治新格局：中美贸易战、微短剧出海与大国战略博弈
-summary: 本文深度分析了当前全球地缘政治的几个关键议题。首先，探讨《纽约时报》对特朗普对华贸易战失败的论断，指出美国对中国稀土的致命依赖及其战略后果。其次，剖析中国微短剧在全球市场的爆炸性增长及其背后的社会心理与地缘政治风险。接着，审视哈德逊研究所关于中国汽车投资构成美国国家安全威胁的报告，揭示美国内部在经济利益与国家安全间的冲突。最后，探讨印度在中美俄三角关系中的战略再平衡，以及东盟国家在中美竞争中面临的站队困境，描绘了一个复杂且充满不确定性的全球新秩序。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Howard Lutnick
-  - Marco Rubio
-  - Glenn Youngkin
-  - Terry Lynch
-  - Narendra Modi
-  - Li Qiang
-  - 罗伊夫
-  - Vladimir Putin
-companies_orgs:
-  - New York Times
-  - Hudson Institute
-  - Financial Times
-  - Council on Foreign Relations
-  - Power Metallic Mines
-  - Lockheed Martin
-  - Raytheon
-  - Tesla
-  - Apple
-  - Ford
-  - CATL
-  - Gotion High-Tech
-  - BYD
-  - TikTok
-  - Quibi
-  - RealShot
-  - COL Group
-  - Ipsos
-  - ASEAN
-  - SCO
-  - FBI
-  - NRTA
-  - CFIUS
-  - General Motors
-products_models:
-  - F-35
-  - S-400
-media_books:
-  - 《孙子兵法》
 status: evergreen
+summary: 本文深度分析了当前全球地缘政治的几个关键议题。首先，探讨《纽约时报》对特朗普对华贸易战失败的论断，指出美国对中国稀土的致命依赖及其战略后果。其次，剖析中国微短剧在全球市场的爆炸性增长及其背后的社会心理与地缘政治风险。接着，审视哈德逊研究所关于中国汽车投资构成美国国家安全威胁的报告，揭示美国内部在经济利益与国家安全间的冲突。最后，探讨印度在中美俄三角关系中的战略再平衡，以及东盟国家在中美竞争中面临的站队困境，描绘了一个复杂且充满不确定性的全球新秩序。
+tags:
+- economic
+- geopolitical-strategy
+- supply-chain-security
+- trade-war
+- us-china-relations
+title: 地缘政治新格局：中美贸易战、微短剧出海与大国战略博弈
 ---
+
 ### 《纽约时报》：特朗普输掉了对中国的贸易战
 
 下一篇文章来自《纽约时报》，题为“特朗普输掉了对中国的贸易战”。这篇文章的核心观点非常尖锐，它直指特朗普政府发动的对华贸易战已经彻底失败，并且在此过程中，严重损害了美国的战略地位和全球影响力。

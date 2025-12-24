@@ -5,18 +5,15 @@ area: null
 category: null
 project: []
 tags:
-  - 卖空
-  - 吉姆·查诺斯
-  - 比特币金库公司
-  - 高频交易
+- investment
 people:
-  - Tracy Alloway
-  - Joe Weisenthal
-  - Jim Chanos
+- Tracy Alloway
+- Joe Weisenthal
+- Jim Chanos
+- 吉姆·查诺斯
 companies_orgs:
 - 特斯拉
 products_models: []
-media_books: []
 date: '2025-06-30'
 author: Lei
 speaker: ''
@@ -27,6 +24,7 @@ layout: post.njk
 series: null
 source: https://www.bloomberg.com/news/articles/2024-07-02/odd-lots-jim-chanos-on-the-nuttiness-of-bitcoin-treasury-companies
 ---
+
 ## 引言
 
 **Joe Weisenthal:** Hello there, Odd Lots listeners. You are about to

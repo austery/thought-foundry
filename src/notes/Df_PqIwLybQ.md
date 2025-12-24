@@ -1,50 +1,47 @@
 ---
-author: TechButMakeItReal
+area: society-systems
+category: career
+companies_orgs:
+- Amazon
+- Microsoft
+- Google
+- Meta
+- IBM
+- Dell
+- Oracle
+- Tesla
+- Mailchimp
+- NCR
+- Calendarly
+- Reddit
+- Delta
+- Coca-Cola
+- Home Depot
+- University of Texas at Austin
+- Georgia Tech
 date: '2025-04-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models:
+- WhatsApp
+project:
+- us-analysis
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=Df_PqIwLybQ
 speaker: TechButMakeItReal
-tags:
-  - tech-talent-relocation
-  - cost-of-living
-  - tech-hubs
-  - career-paths
-  - work-life-balance
-title: 美国科技人才裁员后去向：西雅图、奥斯汀、亚特兰大深度解析
-summary: 本视频系列专为已在美国、加拿大、英国或欧盟生活和工作的科技专业人士设计，深入探讨了美国裁员潮后科技人才的重新安置地。文章详细分析了西雅图、奥斯汀和亚特兰大这三个城市在科技场景、人才质量、生活成本和薪资方面的特点，旨在帮助科技工作者找到更稳定、负担得起且价值观契合的职业发展和生活环境，避免过度内卷和高压工作文化。
-insight: ''
-draft: true
-series: ''
-category: career
-area: society-systems
-project:
-  - us-analysis
-  - entrepreneurship
-people: []
-companies_orgs:
-  - Amazon
-  - Microsoft
-  - Google
-  - Meta
-  - IBM
-  - Dell
-  - Oracle
-  - Tesla
-  - Mailchimp
-  - NCR
-  - Calendarly
-  - Reddit
-  - Delta
-  - Coca-Cola
-  - Home Depot
-  - University of Texas at Austin
-  - Georgia Tech
-products_models:
-  - WhatsApp
-media_books: []
 status: evergreen
+summary: 本视频系列专为已在美国、加拿大、英国或欧盟生活和工作的科技专业人士设计，深入探讨了美国裁员潮后科技人才的重新安置地。文章详细分析了西雅图、奥斯汀和亚特兰大这三个城市在科技场景、人才质量、生活成本和薪资方面的特点，旨在帮助科技工作者找到更稳定、负担得起且价值观契合的职业发展和生活环境，避免过度内卷和高压工作文化。
+tags:
+- career
+- cost-of-living
+- tech
+- work-life-balance
+title: 美国科技人才裁员后去向：西雅图、奥斯汀、亚特兰大深度解析
 ---
+
 ### 引言：美国科技人才的重新安置
 
 本视频系列专为已在美国、加拿大、英国或欧盟生活和工作的科技专业人士设计。如果您身处这些地区之外或在劳务外包密集的市场，本视频中的数据将不适用于您的情况。我不会涉及移民、国际求职或如何无需大学学历进入科技行业等话题。如果这是您所寻求的，那么这可能不是合适的频道，但这也没关系。但如果您是在这些市场中运作，请继续观看。对于科技行业中不同资历级别和职业发展路径的专业人士，前方有许多内容值得关注。这是关于美国科技中心视频的第二部分。

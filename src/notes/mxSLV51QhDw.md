@@ -1,57 +1,57 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中共中央政治局
+- 中央文革小组
 date: '2025-10-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《江青同志》
+- 《红星照耀中国》
+- 《时代》杂志
+- 《纽约时报》
+- 《基督教科学箴言报》
+- 《红色娘子军》
+- 《红灯记》
+- 《梦断情天》
+- 《武训传》
+- 《红楼梦》
+people:
+- 江青
+- 毛泽东
+- 周恩来
+- 林彪
+- Roxane Witke
+- 贺子珍
+- Richard Nixon
+- 姚文元
+- 张颖
+- 刘少奇
+- 邓小平
+- 华国锋
+- 王洪文
+- 张爱玲
+products_models: []
+project:
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=mxSLV51QhDw
 speaker: 柴静 Chai Jing
-tags:
-  - power-struggle
-  - political-narrative
-  - cultural-revolution
-  - political-legitimacy
-title: 江青与维特克的60小时访谈：一场试图改写历史的独白如何成为政治罪证
-summary: 1972年，江青接受了美国学者罗克珊·维特克长达60小时的口述传记采访，意图在国际上塑造自己的政治形象。本文回顾了这次访谈的始末，深入剖析江青如何通过指控林彪、贬低贺子珍来重塑历史叙事，展现其对权力的极度渴望与深刻的不安全感。文章揭示了这次访谈最终如何事与愿违，从一个寻求国际认可的工具，演变为指控其“泄露机密”和“政治野心”的罪证，最终成为其政治生涯终结的催化剂之一。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 江青
-  - 毛泽东
-  - 周恩来
-  - 林彪
-  - Roxane Witke
-  - 贺子珍
-  - Richard Nixon
-  - 姚文元
-  - 张颖
-  - 刘少奇
-  - 邓小平
-  - 华国锋
-  - 王洪文
-  - 张爱玲
-companies_orgs:
-  - 中共中央政治局
-  - 中央文革小组
-products_models: []
-media_books:
-  - 《江青同志》
-  - 《红星照耀中国》
-  - 《时代》杂志
-  - 《纽约时报》
-  - 《基督教科学箴言报》
-  - 《红色娘子军》
-  - 《红灯记》
-  - 《梦断情天》
-  - 《武训传》
-  - 《红楼梦》
 status: evergreen
+summary: 1972年，江青接受了美国学者罗克珊·维特克长达60小时的口述传记采访，意图在国际上塑造自己的政治形象。本文回顾了这次访谈的始末，深入剖析江青如何通过指控林彪、贬低贺子珍来重塑历史叙事，展现其对权力的极度渴望与深刻的不安全感。文章揭示了这次访谈最终如何事与愿违，从一个寻求国际认可的工具，演变为指控其“泄露机密”和“政治野心”的罪证，最终成为其政治生涯终结的催化剂之一。
+tags:
+- cultural-revolution
+- political
+- political-legitimacy
+- power-struggle
+title: 江青与维特克的60小时访谈：一场试图改写历史的独白如何成为政治罪证
 ---
+
 ### 引言：历史的交汇点
 1977年4月，当毛泽东的妻子江青被押送进秦城监狱时，一本名为《江青同志》的书在美国出版。这本书源于1972年她向美国学者罗克珊·维特克（Roxane Witke）进行的60个小时口述传记。中外报道普遍认为，这本书是导致江青失权的原因之一。这本口述至今没有获得授权的中文版本。半个世纪后，我们一同回顾这次采访，以期更好地认识历史。
 

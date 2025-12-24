@@ -1,34 +1,32 @@
 ---
-author: 徒步的騎手
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-10-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Li Ka-shing
+- Mencius
+- Yu Yingshi
+products_models: []
+project:
+- china-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=fKQ8R1chSGk
 speaker: 徒步的騎手
-tags:
-  - capital-flight
-  - perfect-storm
-  - rule-of-law
-  - emigration-trends
-title: 中国富人为何加速“润”？一场完美风暴正在酝酿
-summary: 本文深入分析了当前中国富裕阶层加速移民的现象，将其归因于一场由经济下行、地缘政治紧张和国内政策不确定性构成的“完美风暴”。文章指出，这些富人选择美国、加拿大、新加坡和日本等国作为避风港，主要是为了寻求法治保障和财产安全。此外，文章还从文化层面进行剖析，引用孟子和余英时的观点，探讨了中国传统文化中“民本思想”与现代社会中“臣妾心态”的冲突，揭示了这一移民潮背后深层的文化和制度原因。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - Li Ka-shing
-  - Mencius
-  - Yu Yingshi
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文深入分析了当前中国富裕阶层加速移民的现象，将其归因于一场由经济下行、地缘政治紧张和国内政策不确定性构成的“完美风暴”。文章指出，这些富人选择美国、加拿大、新加坡和日本等国作为避风港，主要是为了寻求法治保障和财产安全。此外，文章还从文化层面进行剖析，引用孟子和余英时的观点，探讨了中国传统文化中“民本思想”与现代社会中“臣妾心态”的冲突，揭示了这一移民潮背后深层的文化和制度原因。
+tags:
+- capital
+- perfect-storm
+- rule-of-law
+- trend
+title: 中国富人为何加速“润”？一场完美风暴正在酝酿
 ---
 
 ### 富人的嗅觉：为何他们率先“润”出中国？

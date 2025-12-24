@@ -1,44 +1,44 @@
 ---
-author: 王红雨
+area: society-systems
+category: psychology
+companies_orgs:
+- University of Toronto
+- Harvard University
+- McGill University
+- Polymarket
 date: '2025-08-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《人生十二法则》
+- 《意义的地图》
+people:
+- Jordan Peterson
+- Cathy Newman
+- Justin Trudeau
+- Warren Buffett
+- Charlie Munger
+products_models: []
+project:
+- us-analysis
+- personal-growth-lab
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=swNhV286tZk
 speaker: 王红雨
-tags:
-  - talent-drain
-  - personal-responsibility
-  - self-improvement
-  - political-correctness-critique
-  - canadian-society
-title: 网红教授乔丹·彼得森移居美国：在加拿大如何践行《人生十二法则》
-summary: 加拿大网红教授乔丹·彼得森移居美国引发人才流失热议。本期节目深入探讨彼得森教授的政治主张与思想，并重点介绍其畅销书《人生十二法则》。主持人结合自身在加拿大的生活体验，分享了书中五大核心法则如何帮助个人在资本主义社会中成为强者，以及如何以积极心态面对生活挑战，珍视加拿大环境。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - us-analysis
-  - personal-growth-lab
-  - geopolitics-watch
-people:
-  - Jordan Peterson
-  - Cathy Newman
-  - Justin Trudeau
-  - Warren Buffett
-  - Charlie Munger
-companies_orgs:
-  - University of Toronto
-  - Harvard University
-  - McGill University
-  - Polymarket
-products_models: []
-media_books:
-  - 《人生十二法则》
-  - 《意义的地图》
 status: evergreen
+summary: 加拿大网红教授乔丹·彼得森移居美国引发人才流失热议。本期节目深入探讨彼得森教授的政治主张与思想，并重点介绍其畅销书《人生十二法则》。主持人结合自身在加拿大的生活体验，分享了书中五大核心法则如何帮助个人在资本主义社会中成为强者，以及如何以积极心态面对生活挑战，珍视加拿大环境。
+tags:
+- canadian
+- personal-responsibility
+- political
+- self-improvement
+- talent
+title: 网红教授乔丹·彼得森移居美国：在加拿大如何践行《人生十二法则》
 ---
+
 ### 加拿大的人才流失与社会现象
 
 大家好，欢迎再次回到我的频道。今天是2025年8月1号。今天我们来和大家继续聊一下逃离加拿大的问题。最近有一位**网红教授**（Internet Celebrity Professor: 指在网络上拥有巨大影响力并受到广泛关注的教授），从多伦多搬到了美国去居住，在英文媒体和中文媒体都掀起了轩然大波，大家都在讨论人才流失等话题。今天我们就来了解一下这位教授，以及他留给我们的一部非常重要的著作，就是《人生十二法则》。现在有很多人在讨论逃离加拿大，也有很多人讨论为什么有这么多难民在加拿大不走。所以我们看到的现象就是“有人辞官归故里，有人星夜赶考场”。

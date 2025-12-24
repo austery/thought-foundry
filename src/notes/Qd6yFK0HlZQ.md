@@ -1,60 +1,60 @@
 ---
-author: ZetaBook
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Kuomintang
+- Communist Party of China
+- Control Yuan
+- Bureau of Investigation and Statistics
+- Ministry of National Defense
+- U.S. Department of State
+- The China Lobby
+- People's Liberation Army
+- Anti-Independence and Pro-Unification Alliance
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《光明报》
+- Time Magazine
+people:
+- Wu Shi
+- Guo Ruguai
+- Mao Zedong
+- Xi Jinping
+- Chiang Kai-shek
+- Zhu Feng
+- Wang Shijian
+- Mao Renfeng
+- Cai Xiaoqian
+- Chiang Ching-kuo
+- Kim Il Sung
+- Harry S. Truman
+- Joseph McCarthy
+- John Fairbank
+- Gao Anguo
+- Shen Boyang
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Qd6yFK0HlZQ
 speaker: ZetaBook
-tags:
-  - white-terror
-  - mccarthyism
-  - cold-war
-  - espionage
-  - political-repression
-title: 吴石案、白色恐怖与麦卡锡主义：冷战时期国共美三方历史交织
-summary: 本文深入探讨了吴石案在国共内战及台湾白色恐怖时期的关键作用，并将其置于冷战地缘政治背景下，与美国的麦卡锡主义进行对比。文章分析了吴石案如何被蒋介石政权用作树立反共威信的手段，以及白色恐怖如何从无序镇压演变为制度化暴力。同时，也揭示了麦卡锡主义对美国外交政策的深远影响，强调了历史事件之间的因果链条，以及政治论述中切割历史的危害。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - Wu Shi
-  - Guo Ruguai
-  - Mao Zedong
-  - Xi Jinping
-  - Chiang Kai-shek
-  - Zhu Feng
-  - Wang Shijian
-  - Mao Renfeng
-  - Cai Xiaoqian
-  - Chiang Ching-kuo
-  - Kim Il Sung
-  - Harry S. Truman
-  - Joseph McCarthy
-  - John Fairbank
-  - Gao Anguo
-  - Shen Boyang
-companies_orgs:
-  - Kuomintang
-  - Communist Party of China
-  - Control Yuan
-  - Bureau of Investigation and Statistics
-  - Ministry of National Defense
-  - U.S. Department of State
-  - The China Lobby
-  - People's Liberation Army
-  - Anti-Independence and Pro-Unification Alliance
-products_models: []
-media_books:
-  - 《光明报》
-  - Time Magazine
 status: evergreen
+summary: 本文深入探讨了吴石案在国共内战及台湾白色恐怖时期的关键作用，并将其置于冷战地缘政治背景下，与美国的麦卡锡主义进行对比。文章分析了吴石案如何被蒋介石政权用作树立反共威信的手段，以及白色恐怖如何从无序镇压演变为制度化暴力。同时，也揭示了麦卡锡主义对美国外交政策的深远影响，强调了历史事件之间的因果链条，以及政治论述中切割历史的危害。
+tags:
+- cold-war
+- history
+- political
+- technology
+- white-terror
+title: 吴石案、白色恐怖与麦卡锡主义：冷战时期国共美三方历史交织
 ---
+
 ### 吴石案：国共内战后的关键共谍
 
 **吴石**（Wu Shi: 中华民国高级将领，后被证实为中共间谍）是谁？如果说**郭汝瑰**（Guo Ruguai: 中华民国高级将领，国共内战期间中共间谍）是国共内战期间最著名的共谍，那么吴石就是1949年以后最著名的共谍。考虑到吴石早在1948年**徐蚌会战**（Xuzhou-Bengbu Campaign: 亦称淮海战役，国共内战三大战役之一）时就开始谍报活动，称他是国民党历史上破坏力最大的共谍也无不可。

@@ -1,52 +1,52 @@
 ---
-author: Norges Bank Investment Management
+area: knowledge-meta
+category: career-development
+companies_orgs:
+- McLaren Racing
+- Norges Bank Investment Management
+- Ferrari
+- Honda
+- Renault
+- Red Bull
+- Sky TV
+- Apple
+- Liberty Media
+- Mumtalakat
+- Abu Dhabi主权财富基金
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《710分之一秒》
+- Netflix
+people:
+- Zak Brown
+- Nicolola Latangan
+- Lando Norris
+- Oscar Piastri
+- Nico Hulkenberg
+- Paul Walsh
+- Roger Penske
+- Nikki Lao
+- Brad Pitt
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=J1hSsHa99Sk
 speaker: Norges Bank Investment Management
-tags:
-  - team-culture
-  - leadership
-  - f1-racing
-  - decision-making
-  - fan-engagement
-title: 迈凯伦的逆袭：扎克·布朗谈F1团队文化与领导力
-summary: 本期播客中，迈凯伦车队首席执行官扎克·布朗分享了他如何将一支挣扎中的F1车队转变为赛场上的主导力量。他强调了以人为本的文化、透明的沟通、战略性决策和粉丝参与的关键作用。布朗还深入探讨了车手管理、人体潜能中心的重要性，以及Netflix等媒体对F1全球增长的影响，为各行业领导者提供了宝贵的管理与发展经验。
-insight: ''
-draft: true
-series: ''
-category: career-development
-area: knowledge-meta
-project: []
-people:
-  - Zak Brown
-  - Nicolola Latangan
-  - Lando Norris
-  - Oscar Piastri
-  - Nico Hulkenberg
-  - Paul Walsh
-  - Roger Penske
-  - Nikki Lao
-  - Brad Pitt
-companies_orgs:
-  - McLaren Racing
-  - Norges Bank Investment Management
-  - Ferrari
-  - Honda
-  - Renault
-  - Red Bull
-  - Sky TV
-  - Apple
-  - Liberty Media
-  - Mumtalakat
-  - Abu Dhabi主权财富基金
-products_models: []
-media_books:
-  - 《710分之一秒》
-  - Netflix
 status: evergreen
+summary: 本期播客中，迈凯伦车队首席执行官扎克·布朗分享了他如何将一支挣扎中的F1车队转变为赛场上的主导力量。他强调了以人为本的文化、透明的沟通、战略性决策和粉丝参与的关键作用。布朗还深入探讨了车手管理、人体潜能中心的重要性，以及Netflix等媒体对F1全球增长的影响，为各行业领导者提供了宝贵的管理与发展经验。
+tags:
+- culture
+- decision-making
+- f1-racing
+- leadership
+- society
+title: 迈凯伦的逆袭：扎克·布朗谈F1团队文化与领导力
 ---
+
 大家好，欢迎来到《In Good Company》。我是**挪威主权财富基金**的首席执行官**Nicolola Latangan**。今天我将与**迈凯伦车队**（McLaren Racing: 一级方程式赛车队）的首席执行官**扎克·布朗**（Zak Brown）对话。迈凯伦车队实现了F1历史上最了不起的逆袭之一，我甚至认为这是我见过的任何领域中最非凡的逆袭。扎克将迈凯伦从一支挣扎的中游车队，转变为如今在F1赛季中占据主导地位的冠军领跑者。做得非常出色。那么，让我们直接切入主题：为什么你们今年能赢得一切？
 
 ### 迈凯伦的成功秘诀：人与文化

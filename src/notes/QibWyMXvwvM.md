@@ -1,59 +1,58 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Google
+- SpaceX
+- Tesla
+- BYD
+- Starlink
+- Reuters
+- The Economist
+- Financial Times
+- Politico
+- Futurism
+- Brookings Institution
+- Partnership for Public Service
 date: '2025-12-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Last Economy
+people:
+- Elon Musk
+- Katie Miller
+- Steven Miller
+- Donald Trump
+- Howard Lutnik
+- Edward Kristine
+- Scott Bass
+- Bill Gates
+- Marco Rubio
+- Theodore Roosevelt
+- J. Peter Grace
+products_models:
+- Grock
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=QibWyMXvwvM
 speaker: Patrick Boyle
-tags:
-  - government-efficiency
-  - budget-fantasy
-  - regulatory-capture
-  - political-performance
-  - public-sector-reform
-title: Doge计划：一场由梗图驱动的政府改革闹剧
-summary: “Doge”计划本意是削减联邦支出，却因操作混乱、数据造假和战略误判而彻底失败。它暴露了将企业效率思维简单套用于复杂政府系统的危险，并揭示了政治表演如何取代真实改革。\"
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Elon Musk
-  - Patrick Boyle
-  - Katie Miller
-  - Steven Miller
-  - Donald Trump
-  - Howard Lutnik
-  - Edward Kristine
-  - Scott Bass
-  - Bill Gates
-  - Marco Rubio
-  - Theodore Roosevelt
-  - J. Peter Grace
-companies_orgs:
-  - Google
-  - SpaceX
-  - Tesla
-  - BYD
-  - Starlink
-  - Reuters
-  - The Economist
-  - Financial Times
-  - Politico
-  - Futurism
-  - Brookings Institution
-  - Partnership for Public Service
-products_models:
-  - Grock
-media_books:
-  - The Last Economy
 status: evergreen
+summary: “Doge”计划本意是削减联邦支出，却因操作混乱、数据造假和战略误判而彻底失败。它暴露了将企业效率思维简单套用于复杂政府系统的危险，并揭示了政治表演如何取代真实改革。\"
+tags:
+- budget-fantasy
+- government
+- political
+- public
+- regulatory
+title: Doge计划：一场由梗图驱动的政府改革闹剧
 ---
+
 ### “Doge”计划：一场由梗图驱动的政府改革闹剧
 
 “Doge”（Government Efficiency）计划本意是削减联邦开支，却最终演变成一场由网络迷因驱动、数据造假和政治表演构成的灾难性失败。它不仅未能实现承诺的2万亿美元削减目标，反而在短短一年内导致政府支出增加、监管体系崩塌，并严重损害了美国的软实力。

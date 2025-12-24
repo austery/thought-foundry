@@ -1,36 +1,35 @@
 ---
-author: 投资TALK君
+area: market-analysis
+category: finance
+companies_orgs:
+- 美联储
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+people:
+- 鲍威尔
+products_models: []
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=tm4XIyzdKs8
 speaker: 投资TALK君
-tags:
-  - fed-policy
-  - interest-rate-cuts
-  - bond-yields
-  - market-divergence
-  - monetary-outlook
-title: 前瞻美联储会议：鹰派降息的信号与债券市场的背离分析
-summary: 本文前瞻美联储会议，预测将如期降息25个基点，但重点关注鲍威尔释放的鹰派信号，以压制市场对一月继续降息的预期。同时，分析了近期美股与美债真实收益率出现的背离现象，并建议投资者调整投资组合以应对潜在风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 鲍威尔
-companies_orgs:
-  - 美联储
-products_models: []
-media_books:
-  - X
 status: evergreen
+summary: 本文前瞻美联储会议，预测将如期降息25个基点，但重点关注鲍威尔释放的鹰派信号，以压制市场对一月继续降息的预期。同时，分析了近期美股与美债真实收益率出现的背离现象，并建议投资者调整投资组合以应对潜在风险。
+tags:
+- fed-policy
+- financial
+- interest-rate-cut
+- market
+title: 前瞻美联储会议：鹰派降息的信号与债券市场的背离分析
 ---
+
 ### 引言与会议前瞻
 
 各位观众大家好，欢迎来到这个专业美股频道。明天将是美联储会议，我怎么可以不录制视频呢？我是市场分析人小涛。即使我觉得大家都已经准备好了，但我知道大家可能还是希望我看到一期内容，以便对明天的美联储会议做一个展望，那我就满足大家的这个要求。今天这期内容，我们就一起来对周三的美联储会议做一个展望，包括挑选一些重点。我们要看美联储会议里面到底重点应该是什么，公告出来之后我们应该怎么去找重点，以及**SEP**（Summary of Economic Projections，经济预测摘要）数据出来之后，我们应该怎么去找重点，好吗？最后，我有一张图想和大家分享。这也是我今天晚上，针对国内多家机构做了一个演示文稿（presentation）时挑选出来的一页，我认为可能对大家也会有帮助，所以拿出来分享一下，主要是关于最近一段时间债券市场利率的一个走势，好吗？

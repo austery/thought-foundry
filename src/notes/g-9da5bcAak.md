@@ -1,64 +1,63 @@
 ---
-author: 大问题Dialectic
+area: society-systems
+category: general
+companies_orgs:
+- 吕克昂学园
+- 维也纳学派
 date: '2025-03-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《易经》
+- 《形而上学导论》
+- 《物理学》
+- 《纯粹理性批判》
+- 《逻辑哲学论》
+- 《哲学全书》
+people:
+- 亚里士多德
+- 康德
+- 维特根斯坦
+- 蒯因
+- 井上哲次郎
+- 柏拉图
+- 特奥弗拉斯托斯
+- 安德罗尼科
+- 海德格尔
+- 泰勒斯
+- 赫拉克利特
+- 阿那克西美尼
+- 毕达哥拉斯
+- 恩培多克勒
+- 德莫克里特
+- 苏格拉底
+- 黑格尔
+- 伽利略
+- 牛顿
+- 石里克
+- 卡尔纳普
+- 哥德尔
+- 费曼
+- 杨振宁
+products_models: []
+project:
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=g-9da5bcAak
 speaker: 大问题Dialectic
-tags:
-  - metaphysics
-  - philosophy-history
-  - ontology
-  - epistemology
-  - linguistic-turn
-title: 形而上学：从万物本质到语言界限的哲学追问
-summary: 本期节目深入探讨了哲学核心概念“形而上学”的演变。从亚里士多德将其视为研究万物本质的“第一哲学”，到康德将其转向对人类认知结构的批判，再到维特根斯坦将其斥为“哲学病”，最终蒯因又将其重新定义为科学研究中不可或缺的“本体论承诺”。节目旨在帮助听众理解形而上学在哲学史上的重要地位及其不同流派的观点，并引发对自然与超自然、科学与哲学关系的思考。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - 亚里士多德
-  - 康德
-  - 维特根斯坦
-  - 蒯因
-  - 井上哲次郎
-  - 柏拉图
-  - 特奥弗拉斯托斯
-  - 安德罗尼科
-  - 海德格尔
-  - 泰勒斯
-  - 赫拉克利特
-  - 阿那克西美尼
-  - 毕达哥拉斯
-  - 恩培多克勒
-  - 德莫克里特
-  - 苏格拉底
-  - 黑格尔
-  - 伽利略
-  - 牛顿
-  - 石里克
-  - 卡尔纳普
-  - 哥德尔
-  - 费曼
-  - 杨振宁
-companies_orgs:
-  - 吕克昂学园
-  - 维也纳学派
-products_models: []
-media_books:
-  - 《易经》
-  - 《形而上学导论》
-  - 《物理学》
-  - 《纯粹理性批判》
-  - 《逻辑哲学论》
-  - 《哲学全书》
 status: evergreen
+summary: 本期节目深入探讨了哲学核心概念“形而上学”的演变。从亚里士多德将其视为研究万物本质的“第一哲学”，到康德将其转向对人类认知结构的批判，再到维特根斯坦将其斥为“哲学病”，最终蒯因又将其重新定义为科学研究中不可或缺的“本体论承诺”。节目旨在帮助听众理解形而上学在哲学史上的重要地位及其不同流派的观点，并引发对自然与超自然、科学与哲学关系的思考。
+tags:
+- history
+- linguistic-turn
+- metaphysic
+- philosophy
+title: 形而上学：从万物本质到语言界限的哲学追问
 ---
+
 ### 形而上学：一个被误解的哲学核心概念
 
 大家好，欢迎收看大问题Dialectic。本期要探讨的大问题是：形而上学是什么？你听了这个选题可能会觉得，这个问题我们上过中学的人都知道标准答案，那就是形而上学是一种与辩证法相对立的哲学观，形而上学用孤立、静止、片面的眼光看问题。只要把这些词儿一字不落地写在考卷上，这题就得分了！但是，中学课本上对形而上学这个概念的解释，不能说是错，但至少在主流哲学界，或者说在哲学专业的人看来，并不是这么用的。我们学哲学专业的人，不是这么来解释形而上学这个词儿的。

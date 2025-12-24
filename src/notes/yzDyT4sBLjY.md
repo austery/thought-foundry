@@ -1,31 +1,30 @@
 ---
-title: 宇宙的冷漠与生命的意义：在科学认知中重塑人文价值
-summary: 本文探讨了科学进步带来的哲学困境，特别是“信息人”理论与人类主体性之间的冲突。通过德国物理学家哈拉尔德·莱施的著作，重新审视了生命的特殊性、人类在宇宙中的独特位置，并提出在承认宇宙不可知性的基础上，从科学视角重建人类价值的可能路径。
 area: null
 category: null
-project: []
-tags:
-- cosmology
-- humanism
-- meaning-of-life
-- philosophy-of-science
-people:
-- harald-lesch
-- stella-an
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-27'
-author: 安争鸣（Stella An）
-speaker: 安争鸣（Stella An）
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- harald-lesch
+- stella-an
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yzDyT4sBLjY
+speaker: 安争鸣（Stella An）
 status: evergreen
+summary: 本文探讨了科学进步带来的哲学困境，特别是“信息人”理论与人类主体性之间的冲突。通过德国物理学家哈拉尔德·莱施的著作，重新审视了生命的特殊性、人类在宇宙中的独特位置，并提出在承认宇宙不可知性的基础上，从科学视角重建人类价值的可能路径。
+tags:
+- cosmology
+- humanism
+- life
+- philosophy
+title: 宇宙的冷漠与生命的意义：在科学认知中重塑人文价值
 ---
+
 ### 科技神话与“信息人”的挑战
 
 在不久前曾介绍过一本名为《人类未来进化史》的书，该书从传播学的角度，深入剖析了**科技未来主义**（Technology Futurism: 一种认为科技进步将深刻改变人类社会和个体存在，甚至引领人类走向新阶段的思潮或信仰体系）神话的产生与传播。科技未来主义由众多现代神话故事构成，其中流传最广的便是“**信息人**”（Information Person: 认为人类的本质是信息，具身化的个体只是承载信息的容器与载体）的故事。这个故事的核心观点是，人类的本质是信息，肉身化的个体仅仅是承载信息的容器或载体，如同电脑一般。因此，所谓的自由意志并不存在，有的只是程序和算法。

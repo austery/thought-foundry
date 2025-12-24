@@ -1,59 +1,60 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- Signum
+- University of Virginia
+- Chinese Communist Party
+- Nvidia
+- Intel
+- ASML
 date: '2025-07-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Trade Wars Are Class Wars
+- Wages of Destruction
+- 'A World Safer for Commerce: American Foreign Policy from the Revolution to the
+  Rise of China'
+- Economic Interdependence and War
+- The Great Wall and the Empty Fortress
+people:
+- Dale Copeland
+- Andrew Bishop
+- Christian Parent
+- Alexander Hamilton
+- Adam Tooze
+- John Mearsheimer
+- Shidehara Kijūrō
+- Donald Trump
+- Franklin Roosevelt
+- Henry Kissinger
+- Xi Jinping
+- Deng Xiaoping
+- Vladimir Putin
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=UWH-TSeyImk
 speaker: Bloomberg Podcasts
-tags:
-  - trade-war-hot-war
-  - future-trade-expectations
-  - dynamic-realism
-  - technological-containment
-  - geopolitical-risk
-title: 贸易战如何演变为热战：解析中美关系的历史与未来
-summary: 弗吉尼亚大学国际政治学教授戴尔·科普兰深入探讨了贸易与战争之间的复杂联系。他提出“动态现实主义”理论，认为国家对未来贸易环境的预期是决定和平或冲突的关键。积极的预期能促进和平，而关税和制裁等负面预期则可能引发战争，如同1941年的日本。该理论被应用于分析当前的中美关系，涵盖了关税争端、技术封锁（稀土、半导体）以及台湾问题，并指出理性的经济考量或许是避免冲突的重要制约因素。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - Dale Copeland
-  - Andrew Bishop
-  - Christian Parent
-  - Alexander Hamilton
-  - Adam Tooze
-  - John Mearsheimer
-  - Shidehara Kijūrō
-  - Donald Trump
-  - Franklin Roosevelt
-  - Henry Kissinger
-  - Xi Jinping
-  - Deng Xiaoping
-  - Vladimir Putin
-companies_orgs:
-  - Bloomberg
-  - Signum
-  - University of Virginia
-  - Chinese Communist Party
-  - Nvidia
-  - Intel
-  - ASML
-products_models: []
-media_books:
-  - Odd Lots
-  - Trade Wars Are Class Wars
-  - Wages of Destruction
-  - 'A World Safer for Commerce: American Foreign Policy from the Revolution to the Rise of China'
-  - Economic Interdependence and War
-  - The Great Wall and the Empty Fortress
 status: evergreen
+summary: 弗吉尼亚大学国际政治学教授戴尔·科普兰深入探讨了贸易与战争之间的复杂联系。他提出“动态现实主义”理论，认为国家对未来贸易环境的预期是决定和平或冲突的关键。积极的预期能促进和平，而关税和制裁等负面预期则可能引发战争，如同1941年的日本。该理论被应用于分析当前的中美关系，涵盖了关税争端、技术封锁（稀土、半导体）以及台湾问题，并指出理性的经济考量或许是避免冲突的重要制约因素。
+tags:
+- dynamic
+- geopolitical-risk
+- technological
+- trade
+- trade-war-hot-war
+title: 贸易战如何演变为热战：解析中美关系的历史与未来
 ---
+
 ### 对台海冲突的深层忧虑
 
 Joe Weisenthal：您好，欢迎收听新一期的《Odd Lots》播客。我是 Joe Weisenthal。

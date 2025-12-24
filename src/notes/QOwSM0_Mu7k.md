@@ -1,43 +1,41 @@
 ---
-author: 美投讲美股
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 伯克希尔·哈撒韦
+- 好市多
+- 喜诗糖果
 date: '2025-09-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 查理·芒格
+- 沃伦·巴菲特
+- 比尔·盖茨
+- 本杰明·格雷厄姆
+- 瑞·达里奥
+- 段永平
+- 孔子
+products_models:
+- Metapro
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=QOwSM0_Mu7k
 speaker: 美投讲美股
-tags:
-  - charlie-munger-philosophy
-  - cross-disciplinary-thinking
-  - circle-of-competence
-  - value-investing
-  - decision-making
-title: 查理·芒格的投资哲学：跨学科思维与能力圈的深度解析
-summary: 本文深入探讨了投资界智者查理·芒格的独特投资哲学，特别是其核心的“跨学科思维模型”和“能力圈”理论。文章阐述了芒格如何通过多维度思考改变巴菲特的投资路径，从追求廉价“烟蒂股”转向投资伟大企业。同时，也剖析了能力圈的精髓在于深度而非广度，并揭示了看似矛盾的两者实则互补，共同构筑了顶级的投资决策体系。芒格的智慧不仅限于投资，更是一种适用于所有复杂系统的普适之道。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - 查理·芒格
-  - 沃伦·巴菲特
-  - 比尔·盖茨
-  - 本杰明·格雷厄姆
-  - 瑞·达里奥
-  - 段永平
-  - 孔子
-companies_orgs:
-  - 伯克希尔·哈撒韦
-  - 好市多
-  - 喜诗糖果
-products_models:
-  - Metapro
-media_books: []
 status: evergreen
+summary: 本文深入探讨了投资界智者查理·芒格的独特投资哲学，特别是其核心的“跨学科思维模型”和“能力圈”理论。文章阐述了芒格如何通过多维度思考改变巴菲特的投资路径，从追求廉价“烟蒂股”转向投资伟大企业。同时，也剖析了能力圈的精髓在于深度而非广度，并揭示了看似矛盾的两者实则互补，共同构筑了顶级的投资决策体系。芒格的智慧不仅限于投资，更是一种适用于所有复杂系统的普适之道。
+tags:
+- circle-of-competence
+- decision-making
+- philosophy
+- thinking
+title: 查理·芒格的投资哲学：跨学科思维与能力圈的深度解析
 ---
+
 ### 引言：查理·芒格的智慧与被低估的哲学
 
 美股不是华尔街专利，大家好，我是美投君，你们的美股探路者。一年前，投资界失去了一位真正的巨匠，一位拥有最锋利思想的智者——查理·芒格。作为几十年的老搭档，沃伦·巴菲特在悼念芒格时曾说，没有查理的灵感、智慧与参与，**伯克希尔·哈撒韦**（Berkshire Hathaway: 巴菲特和芒格共同经营的多元化控股公司）不可能有今天的成就。

@@ -1,59 +1,58 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 比亚迪
+- 小米
+- 小鹏汽车
+- 特斯拉
+- Nvidia
+- 软银
+- OpenAI
+- T-Mobile
+- Coreweave
+- Google
+- Microsoft
+- 亚马逊
+- 美银
+- 野村
+- 欧盟委员会
+- 华为
+- 中兴通信
 date: '2025-11-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 彭博社
+people:
+- Donald Trump
+- Sam Altman
+- 黄仁勋
+- Warren Buffett
+- 佩洛西
+products_models:
+- ChatGPT
+- Jimmy
+- Siri
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=MVuZg9TnUf8
 speaker: 小翠時政財經
-tags:
-  - ai-investment-strategy
-  - nvidia-ecosystem
-  - apple-ai-strategy
-  - value-investing
-  - geopolitical-economy
-title: AI时代投资前瞻：英伟达、苹果与巴菲特价值投资的启示
-summary: 本期节目探讨了全球股市动态，重点分析了美股市场中英伟达与苹果在AI时代的竞争格局。节目深入剖析了英伟达如何通过投资和绑定策略培养其“亲儿子”Coreweave，以及这种模式下的风险与机遇。同时，对比了苹果独特的AI战略及其面临的技术与生态挑战。最后，主持人分享了对巴菲特价值投资理念的感悟，强调了信任、榜样力量及家族精神的重要性，为投资者提供了多维度的思考。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - Sam Altman
-  - 黄仁勋
-  - Warren Buffett
-  - 佩洛西
-companies_orgs:
-  - 比亚迪
-  - 小米
-  - 小鹏汽车
-  - 特斯拉
-  - 英伟达
-  - 软银
-  - OpenAI
-  - T-Mobile
-  - Coreweave
-  - 谷歌
-  - 微软
-  - 亚马逊
-  - 美银
-  - 野村
-  - 欧盟委员会
-  - 华为
-  - 中兴通信
-products_models:
-  - ChatGPT
-  - Jimmy
-  - Siri
-media_books:
-  - 彭博社
 status: evergreen
+summary: 本期节目探讨了全球股市动态，重点分析了美股市场中英伟达与苹果在AI时代的竞争格局。节目深入剖析了英伟达如何通过投资和绑定策略培养其“亲儿子”Coreweave，以及这种模式下的风险与机遇。同时，对比了苹果独特的AI战略及其面临的技术与生态挑战。最后，主持人分享了对巴菲特价值投资理念的感悟，强调了信任、榜样力量及家族精神的重要性，为投资者提供了多维度的思考。
+tags:
+- ai-investment-strategy
+- apple-ai-strategy
+- ecosystem
+- geopolitical-economy
+title: AI时代投资前瞻：英伟达、苹果与巴菲特价值投资的启示
 ---
+
 ### 市场概览：A股、港股及小鹏汽车的崛起
 
 今天是美东时间2025年11月11日。首先关注A股市场，昨日高开低走，截至收盘，**沪指**（Shanghai Composite Index: 上海证券交易所的综合股价指数）下跌0.39%，**深成指**（Shenzhen Component Index: 深圳证券交易所的综合股价指数）下跌1.03%，**创业板指**（ChiNext Index: 深圳证券交易所创业板的股票价格指数）下跌1.4%。超硬材料概念股逆势大涨，原因是中国暂停了对超硬材料的出口管制。此外，光伏板块集体走强，大消费板块午后拉升。下跌方面，存储芯片板块调整，算力硬件股下挫。

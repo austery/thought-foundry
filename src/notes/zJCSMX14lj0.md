@@ -1,32 +1,30 @@
 ---
-title: Yann LeCun：深度学习四十年探索与开源信念
-summary: 本文回顾了“卷积网络之父”Yann LeCun四十年的深度学习探索历程。从早期不被理解的反向传播算法，到贝尔实验室的CNN商业应用，再到Meta的开源AI倡导，展现了他如何推动AI从边缘走向主流，以及对开源和AI未来的坚定信念。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- historical-insights
-tags:
-- ai
-- ai-history
-- convolutional-neural-network
-- open-source-ai
-people:
-- yann-lecun
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-09-01'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- yann-lecun
+products_models: []
+project:
+- ai-impact-analysis
+- historical-insights
 series: ''
 source: https://www.youtube.com/watch?v=zJCSMX14lj0
+speaker: Best Partners TV
 status: evergreen
+summary: 本文回顾了“卷积网络之父”Yann LeCun四十年的深度学习探索历程。从早期不被理解的反向传播算法，到贝尔实验室的CNN商业应用，再到Meta的开源AI倡导，展现了他如何推动AI从边缘走向主流，以及对开源和AI未来的坚定信念。
+tags:
+- convolutional-neural-network
+- history
+- open-source-ai
+title: Yann LeCun：深度学习四十年探索与开源信念
 ---
+
 ### 序言：AI传奇人物的探索历程与信念之考
 
 近期，AI Stories频道上线了一部关于AI元老级人物Yann LeCun的个人纪录片。Yann LeCun被誉为“卷积网络之父”、“深度学习三剑客”之一，同时也是**Meta**（Meta Platforms, Inc.: 脸书母公司）的首席AI科学家。这部纪录片虽然不长，却浓缩了这位AI传奇人物四十年的探索历程，也映射出整个深度学习领域从“无人问津”到“席卷全球”的缩影。值得注意的是，该纪录片上线的时机颇为微妙，正值Meta创始人马克·扎克伯格公开暗示，可能会重新考虑旗下知名开源大模型**Llama**（Large Language Model Meta AI: Meta开发的开源大型语言模型）的开源策略之际。Yann LeCun一直是开源AI最坚定的倡导者之一，他曾多次表示，选择在Meta工作正是因为其对开源的坚定承诺。因此，如果Meta真的收紧开源策略，这位开源信徒能否继续在Meta找到容身之所，以及扎克伯格任命28岁的Alexander Wang出任Meta首席AI官，都成为了外界关注的焦点。本文将借由这部纪录片，深入探讨Yann LeCun的故事，剖析他如何从法国**索邦大学**（Sorbonne University: 位于法国巴黎的著名公立研究型大学）的一名“孤独探索者”，成长为改变AI格局的“教父”，并为何始终坚信开源才是AI的未来。

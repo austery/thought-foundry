@@ -1,54 +1,54 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Google
+- Applied Materials
+- S&P Global
+- NVIDIA
+- Tesla
+- Meta
+- Amazon Web Services
+- Intel
+- Micron
+- SMIC
+- Toshiba
+- Sony
+- Texas Instruments
+- Moody's
+- Fitch
 date: '2025-03-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+products_models:
+- Waymo
+- Nest
+- AdMob
+- Google Play
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=hm9c1_W3hkE
 speaker: Shijun Tang
-tags:
-  - market-misperception
-  - business-diversification
-  - industrial-competitive-advantage
-  - shareholder-value
-  - ai-infrastructure-demand
-title: Google搜索真不行了吗？深度解析科技巨头的多元业务与市场误判
-summary: 本文拆解Google、Applied Materials与S&P Global三家科技与金融基础设施公司的真实业务结构，揭示市场对‘搜索衰落’的过度解读，并分析AI时代下半导体设备与指数编制公司的长期价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-companies_orgs:
-  - Google
-  - Applied Materials
-  - S&P Global
-  - NVIDIA
-  - Tesla
-  - Meta
-  - Amazon Web Services
-  - Intel
-  - Micron
-  - SMIC
-  - Toshiba
-  - Sony
-  - Texas Instruments
-  - Moody's
-  - Fitch
-products_models:
-  - Waymo
-  - Nest
-  - AdMob
-  - Google Play
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文拆解Google、Applied Materials与S&P Global三家科技与金融基础设施公司的真实业务结构，揭示市场对‘搜索衰落’的过度解读，并分析AI时代下半导体设备与指数编制公司的长期价值。
+tags:
+- ai-infrastructure-demand
+- business
+- industrial-competitive-advantage
+- market
+- value
+title: Google搜索真不行了吗？深度解析科技巨头的多元业务与市场误判
 ---
+
 ### Google搜索真的不行了吗？揭开市场误判的真相
 
 最近几周，Google股价下跌近20%，媒体纷纷宣称“Google搜索已不行了”，认为其市场份额正被OpenAI、中国字节跳动旗下的“豆包”（Doubao）、阿里旗下的“通义千问”等大模型平台蚕食。加上美国司法部正在酝酿反垄断诉讼，市场情绪一度悲观。但这些说法是否真实？还是只是媒体对技术变革的片面解读？

@@ -1,63 +1,63 @@
 ---
-author: FearNation 世界苦茶
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=3FDSNmqppwM'
-speaker: FearNation 世界苦茶
-tags:
-  - us-china-competition
-  - ai-strategy
-  - rare-earths
-  - trade-war
-  - military-reform
-  - civil-society-crackdown
-title: 中美战略竞争升级：AI、稀土、贸易战与军队整肃的多维观察
-summary: 本期节目汇总全球智库与国际媒体对中国问题的深度分析，聚焦中美AI竞赛的不同战略路径、特朗普关税对中国经济的冲击、中国对稀土资源的武器化反制，以及解放军内部政治工作体系的重塑。文章探讨了中美之间非对称的战略筹码，中国经济的韧性与脆弱性，公民社会组织能力的边界，以及军队忠诚与效能之间的内在矛盾，揭示了全球化时代下地缘政治、经济、科技和意识形态冲突的复杂图景。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Mike Froman
-  - Donald Trump
-  - Xi Jinping
-  - Eswar Prasad
-  - Jin Mingri
-  - Li Shangfu
-  - He Weidong
-  - Miao Hua
-  - Chen Guangcheng
-  - Dong Jun
+category: geopolitics
 companies_orgs:
-  - 美国外交关系协会
-  - 美国国家标准与技术研究院
-  - Qualcomm
-  - GSMMC
-  - 欧亚集团
-  - 詹姆斯敦基金会
-  - 国际能源署
-  - 美国地质调查局
-  - 锡安教会
-  - 对华援助协会
-  - Nvidia
-products_models:
-  - ChatGPT-15
-  - Disc v3.1
-  - GPU
-  - 钕
-  - 镝
+- 美国外交关系协会
+- 美国国家标准与技术研究院
+- Qualcomm
+- GSMMC
+- 欧亚集团
+- 詹姆斯敦基金会
+- 国际能源署
+- 美国地质调查局
+- 锡安教会
+- 对华援助协会
+- Nvidia
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《华尔街日报》
-  - 《中国：美国与AI竞赛》
-  - 《中央军委重塑解放军政治工作体系》
+- 《华尔街日报》
+- 《中国：美国与AI竞赛》
+- 《中央军委重塑解放军政治工作体系》
+people:
+- Mike Froman
+- Donald Trump
+- Xi Jinping
+- Eswar Prasad
+- Jin Mingri
+- Li Shangfu
+- He Weidong
+- Miao Hua
+- Chen Guangcheng
+- Dong Jun
+products_models:
+- ChatGPT-15
+- Disc v3.1
+- GPU
+- 钕
+- 镝
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=3FDSNmqppwM
+speaker: FearNation 世界苦茶
 status: evergreen
+summary: 本期节目汇总全球智库与国际媒体对中国问题的深度分析，聚焦中美AI竞赛的不同战略路径、特朗普关税对中国经济的冲击、中国对稀土资源的武器化反制，以及解放军内部政治工作体系的重塑。文章探讨了中美之间非对称的战略筹码，中国经济的韧性与脆弱性，公民社会组织能力的边界，以及军队忠诚与效能之间的内在矛盾，揭示了全球化时代下地缘政治、经济、科技和意识形态冲突的复杂图景。
+tags:
+- ai-strategy
+- civil-society-crackdown
+- rare-earth
+- reform
+- trade-war
+- us-china-relations
+title: 中美战略竞争升级：AI、稀土、贸易战与军队整肃的多维观察
 ---
+
 本期世界苦茶观察线节目汇总全球智库和国际媒体对中国问题的深度分析，精选了全世界对中国在中美AI竞赛、中国军队内部动态等方面的分析。
 
 ### 中美AI竞赛：战略路径的错位与非对称筹码

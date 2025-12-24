@@ -1,50 +1,50 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 巴黎外方传教会
+- 家谱网
 date: '2025-01-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《说中文：杜家庄的纪念》
+people:
+- 李纪
+- 林貌理
+- 高德
+- 杜寿山
+- 杜海
+- 杜平
+- 杜小二妞
+- 杜小十一
+- 杜小大子
+- 杜奶奶
+- 包神父
+- 李永成
+- 杨德山
+- 费神父
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- knowledge-pipeline
+series: ''
 source: https://www.youtube.com/watch?v=kSPdFFIOeJk
 speaker: 一席YiXi
-tags:
-  - everyday-religion
-  - oral-history
-  - language-and-power
-  - archive-as-living-memory
-  - minority-voices
-title: 一个东北村庄里的「世界」：被遗忘的教友村与高神父的50年日常
-summary: 历史学者李纪通过法国传教士家书与东北村民的私人信件，揭示了晚清至民国时期杜家庄这个老教友村中普通人如何在动荡时代中构建信仰、语言与生活秩序，挑战了主流历史对底层的沉默叙事。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - knowledge-pipeline
-people:
-  - 李纪
-  - 林貌理
-  - 高德
-  - 杜寿山
-  - 杜海
-  - 杜平
-  - 杜小二妞
-  - 杜小十一
-  - 杜小大子
-  - 杜奶奶
-  - 包神父
-  - 李永成
-  - 杨德山
-  - 费神父
-companies_orgs:
-  - 巴黎外方传教会
-  - 家谱网
-products_models: []
-media_books:
-  - 《说中文：杜家庄的纪念》
 status: evergreen
+summary: 历史学者李纪通过法国传教士家书与东北村民的私人信件，揭示了晚清至民国时期杜家庄这个老教友村中普通人如何在动荡时代中构建信仰、语言与生活秩序，挑战了主流历史对底层的沉默叙事。
+tags:
+- everyday-religion
+- history
+- memory
+- minority-voice
+- power
+title: 一个东北村庄里的「世界」：被遗忘的教友村与高神父的50年日常
 ---
+
 ### 被遗忘的档案：一封来自杜家庄的泪书
 
 大家好，我叫李纪，是香港大学的历史学者。今天我要分享的故事，关于一群你从未听说过的东北小人物——他们不是历史课本里的英雄或反派，而是被主流叙事彻底抹去的普通人。

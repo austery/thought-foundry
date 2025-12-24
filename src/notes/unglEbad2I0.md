@@ -1,47 +1,47 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- Expedia
+- Booking
+- Flair Airlines
+- Uber
+- A&W
+- Holiday Inn
+- Parks Canada
 date: '2024-07-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Alltrail
+people:
+- John Cabot
+- Queen Victoria
+- Justin Trudeau
+products_models:
+- Toyota RAV4
+- Kia Sorento
+- Garmin GPS
+- AirPlay
+project:
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=unglEbad2I0
 speaker: 莊也雜談
-tags:
-  - newfoundland-travel
-  - self-driving-guide
-  - st-johns-attractions
-  - budget-airline
-  - canadian-history
-title: 纽芬兰自驾探险记：圣约翰斯首日深度游与实用攻略
-summary: 本期节目详细记录了博主庄也与太太在纽芬兰为期一周的自驾之旅，重点分享了行前准备（廉价航空、租车、住宿预订）的经验教训。首日抵达圣约翰斯，体验了当地服务业的软硬件差异，并深入游览了北美最东端的斯皮尔角灯塔、圣约翰施洗者大教堂以及信號山国家历史遗迹，提供了详尽的景点介绍与实用建议。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-people:
-  - John Cabot
-  - Queen Victoria
-  - Justin Trudeau
-companies_orgs:
-  - Expedia
-  - Booking
-  - Flair Airlines
-  - Uber
-  - A&W
-  - Holiday Inn
-  - Parks Canada
-products_models:
-  - Toyota RAV4
-  - Kia Sorento
-  - Garmin GPS
-  - AirPlay
-media_books:
-  - Alltrail
 status: evergreen
+summary: 本期节目详细记录了博主庄也与太太在纽芬兰为期一周的自驾之旅，重点分享了行前准备（廉价航空、租车、住宿预订）的经验教训。首日抵达圣约翰斯，体验了当地服务业的软硬件差异，并深入游览了北美最东端的斯皮尔角灯塔、圣约翰施洗者大教堂以及信號山国家历史遗迹，提供了详尽的景点介绍与实用建议。
+tags:
+- geopolitics
+- history
+- llm
+- newfoundland-travel
+- self
+title: 纽芬兰自驾探险记：圣约翰斯首日深度游与实用攻略
 ---
+
 ### 纽芬兰自驾之旅开篇：缘起与规划
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们来聊聊我在纽芬兰自驾游的惊险历程，这是第一集。说到纽芬兰，大家都知道它是加拿大最东边的省份，经济状况不是太好。根据2022年的**GDP**（Gross Domestic Product: 国内生产总值，衡量一个国家或地区经济活动总量的指标）列表，它的表现仅强于三个边远地区以及**PEI**（Prince Edward Island: 爱德华王子岛，加拿大面积最小的省份），名列加拿大倒数第五。

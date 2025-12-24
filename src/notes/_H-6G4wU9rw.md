@@ -1,25 +1,25 @@
 ---
+area: ''
 author: Lei
+category: ''
+created: 1984-01-24T03:00
 date: 2025-07-18
-guest: 
-insight:
+guest: null
+insight: null
 layout: post.njk
-series:
+program: 知行小酒馆
+project: 知行小酒馆
+series: null
 source: https://www.youtube.com/watch?v=_H-6G4wU9rw
 speaker: 知行小酒馆
-summary:
-tags:
-  - 个人成长
-  - 知行小酒馆
-title: E196 对话曹丰泽：只要不饿死，人生没有必修课
-program: 知行小酒馆
-created: 1984-01-24T03:00
-updated: 2025-09-01T13:04
-area: ""
-project: 知行小酒馆
-category: ""
 status: evergreen
+summary: null
+tags:
+- personal-growth
+title: E196 对话曹丰泽：只要不饿死，人生没有必修课
+updated: 2025-09-01T13:04
 ---
+
 ## 引言：从“打灰”到重新定义人生
 
 **雨白：** 欢迎来到知行小酒馆，这是一档有知有行出品的播客节目。我们关注投资，更关注怎样更好的生活。我是雨白。今天这期节目是和咱们小酒馆的老朋友曹丰泽的一次“回收承诺”。四年前，他从清华土木博士毕业，跑去非洲参与当地的水电站建设，从坦桑尼亚到莱索托，一待就是三年。去年底他第一次来做客的时候，说正在写一本关于非洲经历的书，我们就约好等这本书出来，再来小酒馆好好地聊一次。前段时间，他的新书《在非洲打灰的 1001 天》终于出版了，于是今天我们又坐在一起聊天了。

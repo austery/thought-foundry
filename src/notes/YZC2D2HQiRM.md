@@ -1,39 +1,39 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: education
+companies_orgs:
+- 北大教育学院
+- 清华大学经管院
 date: '2024-08-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《小欢喜》
+people:
+- 刘云杉
+- 陈省身
+- 钱颖一
+products_models: []
+project:
+- us-analysis
+- historical-insights
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=YZC2D2HQiRM
 speaker: 一席YiXi
-tags:
-  - performance-culture
-  - education-quantification
-  - hyper-competition
-  - standardized-learning
-  - self-optimization-society
-title: 从‘精致的利己主义’到教育系统的异化：刘云杉解析中国精英教育的制度逻辑
-summary: 北京大学教育学院刘云杉教授通过大量学生案例，揭示中国精英教育如何在‘以学生为中心’的改革名义下，逐步演变为一套高度量化、目标导向、绩效至上的制度系统，导致学生丧失深度思考与真实连接的能力。
-insight: ''
-draft: true
-series: ''
-category: education
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - systems-thinking
-people:
-  - 刘云杉
-  - 陈省身
-  - 钱颖一
-companies_orgs:
-  - 北大教育学院
-  - 清华大学经管院
-products_models: []
-media_books:
-  - 《小欢喜》
 status: evergreen
+summary: 北京大学教育学院刘云杉教授通过大量学生案例，揭示中国精英教育如何在‘以学生为中心’的改革名义下，逐步演变为一套高度量化、目标导向、绩效至上的制度系统，导致学生丧失深度思考与真实连接的能力。
+tags:
+- competition
+- culture
+- education
+- learning
+- self
+title: 从‘精致的利己主义’到教育系统的异化：刘云杉解析中国精英教育的制度逻辑
 ---
+
 ### 教育异化的起点：从“神童”到“抢跑者”
 
 北京大学教育学院的刘云杉教授，自2016年起持续追踪中国精英学生的成长轨迹。她发现，许多“神童”并非天赋异禀，而是被系统性地“抢跑”训练出来的产物。以学生杨抢跑为例：三岁识字、五岁解奥数、小学已学完初中课程，六年级便背诵中考古诗。这种超前学习带来了短期的成就感——老师信任、同学仰慕、班级领先。但到了高中，当所有同学都已“抢跑”，课堂变成复习课，她才发现：自己从未真正理解知识，只是熟练掌握了培训机构提供的解题套路。她的“聪明”，是被标准化训练复制出来的表象。

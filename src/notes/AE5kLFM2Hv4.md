@@ -1,50 +1,50 @@
 ---
-author: ZetaBook
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 德意志第三帝國
+- 民進黨
+- 薩摩藩
+- 明朝
+- 清朝
+- 後黎朝
 date: '2025-11-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《吳石案》
+- 《外交事務》
+people:
+- 費正清
+- 豐臣秀吉
+- 朱棣
+- 黎利
+- 尚寧王
+- 高市早苗
+- 孟子
+- 黃宗智
+- 濱下武志
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=AE5kLFM2Hv4
 speaker: ZetaBook
-tags:
-  - tribute-system
-  - inner-empire
-  - cultural-superiority
-  - small-country-diplomacy
-  - sino-taiwan-relations
-title: 台海和平的金鑰匙：從琉球、朝鮮、越南的朝貢關係看兩岸現狀
-summary: 本期《禁書筆記》從歷史上的朝貢體系出發，分析中國作為一個內斂型帝國的特點，並以琉球、朝鮮、越南為例，探討小國如何在大國之間周旋。文章認為，理解中國的統治哲學，拿捏住中國人的「爽點」，是台灣維持現狀的關鍵。將中國視為納粹是危險的比喻，而重建21世紀的朝貢體系，才是中國當代最大的野心。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - historical-insights
-people:
-  - 費正清
-  - 豐臣秀吉
-  - 朱棣
-  - 黎利
-  - 尚寧王
-  - 高市早苗
-  - 孟子
-  - 黃宗智
-  - 濱下武志
-companies_orgs:
-  - 德意志第三帝國
-  - 民進黨
-  - 薩摩藩
-  - 明朝
-  - 清朝
-  - 後黎朝
-products_models: []
-media_books:
-  - 《吳石案》
-  - 《外交事務》
 status: evergreen
+summary: 本期《禁書筆記》從歷史上的朝貢體系出發，分析中國作為一個內斂型帝國的特點，並以琉球、朝鮮、越南為例，探討小國如何在大國之間周旋。文章認為，理解中國的統治哲學，拿捏住中國人的「爽點」，是台灣維持現狀的關鍵。將中國視為納粹是危險的比喻，而重建21世紀的朝貢體系，才是中國當代最大的野心。
+tags:
+- cultural
+- diplomacy
+- history
+- relations
+- system
+title: 台海和平的金鑰匙：從琉球、朝鮮、越南的朝貢關係看兩岸現狀
 ---
+
 ### 中國的「禮制帝國」與朝貢體系
 
 最近禁書筆記聽到有一些台灣博主有這樣一種觀點，中國這個國家只要強大了，就會像二戰時德意志第三帝國那樣對外擴張，當代中國那些小粉紅就相當於是納粹的支持者。在禁書筆記看來，把中國小粉紅和納粹做對比，即不了解中國，也不了解納粹。德意志第三帝國本質上是一個以種族優越論為核心的一神教「偽」神權帝國，這和中國傳統的科舉晉升通道，再加上多神信仰有巨大差異。

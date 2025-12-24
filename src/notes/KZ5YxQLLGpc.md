@@ -1,78 +1,78 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- Wilson Foundation
+- Canada China Business Council
+- NEO
+- Asia-Pacific Foundation of Canada
+- University of Toronto
+- China Governance Lab
+- Monk School
+- Progressive Conservative Party of Canada
+- Chinese Communist Party
+- Xiaomi
+- World Trade Organization
+- United Nations
+- Globe and Mail
+- The Star
+- ISIS
+- The Wire China
 date: '2025-12-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Policy Magazine
+- The Economist
+people:
+- Steve Paikin
+- Constantine Curionopoulos
+- Vina Najibulla
+- Mary Ng
+- Lynette
+- Red Wilson
+- Pierre Trudeau
+- Jean Chrétien
+- Justin Trudeau
+- Mark Carney
+- Henry Kissinger
+- Donald Trump
+- Bob Rae
+- John Edmonson
+- JM
+- Caroline
+- Julia Panella
+- Nicholas
+- Elliot Chen
+- Nick
+- Zach
+products_models:
+- EVs
+- CPTPP
+- ASEAN
+- CETA
+- USMCA
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=KZ5YxQLLGpc
 speaker: TVO Today
-tags:
-  - canada-china-relations
-  - trade-diversification
-  - geopolitical-risk
-  - industrial-strategy
-  - variable-geometry
-title: 加拿大应否转向中国？加中关系中的贸易、价值观与地缘政治风险
-summary: 本文探讨了加拿大与中国关系的复杂性，聚焦于贸易失衡、地缘政治风险以及价值观与经济利益的权衡。专家们讨论了加拿大在对美关系恶化背景下，是否应深化与中国的经济往来，并强调了贸易多元化、制定清晰产业战略以及防范中国共产党影响的重要性。文章还深入分析了“可变几何”外交策略，为加拿大未来外交政策提供了多维度视角。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Steve Paikin
-  - Constantine Curionopoulos
-  - Vina Najibulla
-  - Mary Ng
-  - Lynette
-  - Red Wilson
-  - Pierre Trudeau
-  - Jean Chrétien
-  - Justin Trudeau
-  - Mark Carney
-  - Henry Kissinger
-  - Donald Trump
-  - Bob Rae
-  - John Edmonson
-  - JM
-  - Caroline
-  - Julia Panella
-  - Nicholas
-  - Elliot Chen
-  - Nick
-  - Zach
-companies_orgs:
-  - TVO Today
-  - Wilson Foundation
-  - Canada China Business Council
-  - NEO
-  - Asia-Pacific Foundation of Canada
-  - University of Toronto
-  - China Governance Lab
-  - Monk School
-  - Progressive Conservative Party of Canada
-  - Chinese Communist Party
-  - Xiaomi
-  - World Trade Organization
-  - United Nations
-  - Globe and Mail
-  - The Star
-  - ISIS
-  - The Wire China
-products_models:
-  - EVs
-  - CPTPP
-  - ASEAN
-  - CETA
-  - USMCA
-media_books:
-  - Policy Magazine
-  - The Economist
 status: evergreen
+summary: 本文探讨了加拿大与中国关系的复杂性，聚焦于贸易失衡、地缘政治风险以及价值观与经济利益的权衡。专家们讨论了加拿大在对美关系恶化背景下，是否应深化与中国的经济往来，并强调了贸易多元化、制定清晰产业战略以及防范中国共产党影响的重要性。文章还深入分析了“可变几何”外交策略，为加拿大未来外交政策提供了多维度视角。
+tags:
+- canada-china-relations
+- geopolitical-risk
+- strategy
+- technology
+- trade
+title: 加拿大应否转向中国？加中关系中的贸易、价值观与地缘政治风险
 ---
+
 ### 开场与议题设定
 
 大家好，我是史蒂夫·佩辛。我们欢迎大家来到多伦多市中心这座历史悠久的圣劳伦斯大厅，参加新一期《TVO今日直播》。今晚的主题是：加拿大是否应该转向中国？我们这里座无虚席，这一切都得益于威尔逊基金会的慷慨支持。雷德·威尔逊，感谢您的努力，以及对我们TVO工作的持续支持。现在，让我们欢迎各位嘉宾，共同探讨加拿大与中国关系的未来。

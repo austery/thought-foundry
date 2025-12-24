@@ -1,77 +1,78 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Stellantis
+- LG
+- Toyota Motor Manufacturing Canada
+- McMaster University
+- Universal
+- United Auto Workers of Canada
+- General Motors
+- Ford
+- TVO Today
 date: '2025-11-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Rundown
+- The Fast and the Furious
+- 'Welcome To the Family: The Explosive Story Behind Fast and Furious, the Blockbusters
+  that Supercharged the World'
+- Vibe Magazine
+- The Godfather
+- Saving Private Ryan
+- Pitch Black
+- Furious 7
+- Go!
+- Gone In 60 Seconds
+- Star Wars
+- Rise of Skywalker
+- 'Alien: Romulus'
+- The Lord of the Rings
+- Harry Potter
+people:
+- Greig Mordue
+- Vincent Bladen
+- Colin Ellis
+- Barry Hertz
+- Kenneth Lee
+- David Ayer
+- Rob Cohen
+- Timothy Olyphant
+- Doug Liman
+- Vin Diesel
+- Paul Walker
+- Michelle Rodriguez
+- Jordana Brewster
+- Charlize Theron
+- Helen Mirren
+- Caleb Walker
+- Cody Walker
+- Carrie Fisher
+- Ian Holm
+products_models:
+- Jeep Compass
+project:
+- us-analysis
+- china-analysis
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=L0I8W_U3FL4
 speaker: TVO Today
-tags:
-  - canadian-auto-industry
-  - industrial-policy
-  - auto-pact
-  - film-franchise-evolution
-  - hollywood-business
-title: 加拿大汽车业的未来：应否超越北美三大巨头，转向中国市场？兼谈《速度与激情》系列电影的幕后故事
-summary: 本文探讨了加拿大汽车业面临的挑战，特别是渥太华与Stellantis公司因生产转移而产生的争议。文章质疑加拿大对北美“三大”汽车制造商的依赖，并建议借鉴历史上的产业政策（如《汽车协定》），考虑转向中国日益崛起的汽车产业。此外，文章还深入剖析了《速度与激情》系列电影的现象级成功，包括其对好莱坞的影响、多元化选角、创意演变，以及在保罗·沃克去世后如何继续系列创作，并面临当前的法律和经济挑战。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - historical-insights
-people:
-  - Greig Mordue
-  - Vincent Bladen
-  - Colin Ellis
-  - Barry Hertz
-  - Kenneth Lee
-  - David Ayer
-  - Rob Cohen
-  - Timothy Olyphant
-  - Doug Liman
-  - Vin Diesel
-  - Paul Walker
-  - Michelle Rodriguez
-  - Jordana Brewster
-  - Charlize Theron
-  - Helen Mirren
-  - Caleb Walker
-  - Cody Walker
-  - Carrie Fisher
-  - Ian Holm
-companies_orgs:
-  - Stellantis
-  - LG
-  - Toyota Motor Manufacturing Canada
-  - McMaster University
-  - Universal
-  - United Auto Workers of Canada
-  - General Motors
-  - Ford
-  - TVO Today
-products_models:
-  - Jeep Compass
-media_books:
-  - The Rundown
-  - The Fast and the Furious
-  - 'Welcome To the Family: The Explosive Story Behind Fast and Furious, the Blockbusters that Supercharged the World'
-  - Vibe Magazine
-  - The Godfather
-  - Saving Private Ryan
-  - Pitch Black
-  - Furious 7
-  - Go!
-  - Gone In 60 Seconds
-  - Star Wars
-  - Rise of Skywalker
-  - 'Alien: Romulus'
-  - The Lord of the Rings
-  - Harry Potter
 status: evergreen
+summary: 本文探讨了加拿大汽车业面临的挑战，特别是渥太华与Stellantis公司因生产转移而产生的争议。文章质疑加拿大对北美“三大”汽车制造商的依赖，并建议借鉴历史上的产业政策（如《汽车协定》），考虑转向中国日益崛起的汽车产业。此外，文章还深入剖析了《速度与激情》系列电影的现象级成功，包括其对好莱坞的影响、多元化选角、创意演变，以及在保罗·沃克去世后如何继续系列创作，并面临当前的法律和经济挑战。
+tags:
+- auto-pact
+- business
+- evolution
+- industrial-policy
+- industry
+title: 加拿大汽车业的未来：应否超越北美三大巨头，转向中国市场？兼谈《速度与激情》系列电影的幕后故事
 ---
+
 ### 加拿大汽车业的挑战与Stellantis争议
 
 上个月，美国汽车制造商**Stellantis**（一家跨国汽车制造公司，由菲亚特克莱斯勒汽车和PSA集团合并而成）宣布将采取一项重大举措，从字面上看，这是一次大规模的转移。该公司计划将一款**Jeep**（吉普：Stellantis旗下的一个越野车品牌）车型的生产从**Brampton**（布兰普顿：加拿大安大略省的一个城市）转移到**Illinois**（伊利诺伊州：美国中西部的一个州）。去年，布兰普顿工厂在为生产Jeep Compass做准备而关闭之前，曾雇佣了大约3000名工人。毫不夸张地说，渥太华对此非常不满，并正在启动一个正式的争议解决程序。

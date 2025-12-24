@@ -1,47 +1,45 @@
 ---
-author: New York Times Podcasts
+area: society-systems
+category: politics-society
+companies_orgs:
+- New York Times
+- United Nations
+- US State Department
+- US Navy
+- Bugles Across America
 date: '2025-11-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Will Jarvis
+- Gavin Newsom
+- Donald Trump
+- Somini Sengupta
+- Nicholas Maduro
+- Marco Rubio
+- Gene Shaheen
+- Mike Johnson
+- Tracy Mumford
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=V4LJwHy9Kos
 speaker: New York Times Podcasts
-tags:
-  - climate-change
-  - renewable-energy
-  - us-politics
-  - immigration-policy
-  - middle-east-conflict
-title: COP30气候峰会美国缺席、特朗普政府政策与西岸暴力升级
-summary: 本文涵盖了多项全球及国内关键议题。在COP30气候峰会上，加州州长加文·纽森在美国官方缺席的情况下，强调了加州在可再生能源方面的领导作用，并批评特朗普政府的气候政策，同时指出中国在清洁能源技术上的主导地位对全球气候行动的积极影响。此外，文章还更新了特朗普政府的移民政策、对委内瑞拉的施压行动以及与赤道几内亚的遣返协议。同时，美国政府停摆导致私人航空业繁荣，而约旦河西岸的以色列定居者暴力事件也持续升级。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - china-analysis
-people:
-  - Will Jarvis
-  - Gavin Newsom
-  - Donald Trump
-  - Somini Sengupta
-  - Nicholas Maduro
-  - Marco Rubio
-  - Gene Shaheen
-  - Mike Johnson
-  - Tracy Mumford
-companies_orgs:
-  - New York Times
-  - United Nations
-  - US State Department
-  - US Navy
-  - Bugles Across America
-products_models: []
-media_books: []
 status: evergreen
+summary: 本文涵盖了多项全球及国内关键议题。在COP30气候峰会上，加州州长加文·纽森在美国官方缺席的情况下，强调了加州在可再生能源方面的领导作用，并批评特朗普政府的气候政策，同时指出中国在清洁能源技术上的主导地位对全球气候行动的积极影响。此外，文章还更新了特朗普政府的移民政策、对委内瑞拉的施压行动以及与赤道几内亚的遣返协议。同时，美国政府停摆导致私人航空业繁荣，而约旦河西岸的以色列定居者暴力事件也持续升级。
+tags:
+- climate-change
+- conflict
+- immigration-policy
+- renewable-energy
+title: COP30气候峰会美国缺席、特朗普政府政策与西岸暴力升级
 ---
+
 ### 纽约时报头条新闻
 
 这里是《纽约时报》的头条新闻。我是威尔·贾维斯。今天是11月12日星期三。以下是我们正在报道的内容。

@@ -1,78 +1,78 @@
 ---
-author: 人民公園說AI
+area: society-systems
+category: geopolitics
+companies_orgs:
+- XAI
+- Meta
+- OpenAI
+- Anthropic
+- MiniMax
+- 智谱
+- ElevenLabs
+- Google
+- Apple
+- 华为
+- 百度
+- 台积电
+- 宁德时代
+- Airbnb
+- Cursor
+- 极客公园
+- DeepSeek
+- 微博
+- TikTok
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《七龙珠》
+people:
+- 毛泽东
+- Elon Musk
+- 黄仁勋
+- LeCun
+products_models:
+- ChatGPT
+- Grok
+- Gemini
+- Claude
+- Kimi
+- 千问
+- GLM
+- JustSayAI早晚报
+- Speech 2
+- NotebookLM
+- Character.ai
+- Banana
+- Sora
+- 4O
+- OE
+- DeepSeek R1
+- Talkie
+- 海螺
+- OpenRouter
+- 豆包
+- 元宝
+project:
+- china-analysis
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=czC7SYpGlPk
 speaker: 人民公園說AI
-tags:
-  - us-china-ai-competition
-  - ai-model-development
-  - open-source-ai
-  - ai-application-strategy
-  - market-penetration
-title: 中美AI：两种品类，殊途同归——从实践看模型竞争与全球分工
-summary: 本文深入探讨中美AI模型在竞争与合作中的独特路径。通过分析中国企业在应用、成本控制和开源方面的优势，以及美国在底层技术突破上的领先，揭示了双方在不同商业环境下形成的“你打你的，我打我的”发展模式。文章以“JustSayAI早晚报”产品开发为例，分享了多模型融合的实践经验，并强调了AI渗透率的巨大增量市场，指出中美AI正形成一种默契的国际分工，共同推动AI生态发展。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - 毛泽东
-  - Elon Musk
-  - 黄仁勋
-  - LeCun
-companies_orgs:
-  - XAI
-  - Meta
-  - OpenAI
-  - Anthropic
-  - MiniMax
-  - 智谱
-  - ElevenLabs
-  - Google
-  - Apple
-  - 华为
-  - 百度
-  - 台积电
-  - 宁德时代
-  - Airbnb
-  - Cursor
-  - 极客公园
-  - DeepSeek
-  - 微博
-  - TikTok
-products_models:
-  - ChatGPT
-  - Grok
-  - Gemini
-  - Claude
-  - Kimi
-  - 千问
-  - GLM
-  - JustSayAI早晚报
-  - Speech 2
-  - NotebookLM
-  - Character.ai
-  - Banana
-  - Sora
-  - 4O
-  - OE
-  - DeepSeek R1
-  - Talkie
-  - 海螺
-  - OpenRouter
-  - 豆包
-  - 元宝
-media_books:
-  - 《七龙珠》
 status: evergreen
+summary: 本文深入探讨中美AI模型在竞争与合作中的独特路径。通过分析中国企业在应用、成本控制和开源方面的优势，以及美国在底层技术突破上的领先，揭示了双方在不同商业环境下形成的“你打你的，我打我的”发展模式。文章以“JustSayAI早晚报”产品开发为例，分享了多模型融合的实践经验，并强调了AI渗透率的巨大增量市场，指出中美AI正形成一种默契的国际分工，共同推动AI生态发展。
+tags:
+- ai-application-strategy
+- ai-model-development
+- market
+- open-source-ai
+- us-china-ai-competition
+title: 中美AI：两种品类，殊途同归——从实践看模型竞争与全球分工
 ---
+
 ### 中美AI：两种品类，殊途同归
 
 中国和美国在AI领域的发展，实际上是两个不同的品类。中美之间是否存在竞争？答案是肯定的。然而，这种竞争的本质正如毛泽东所言，是“你打你的，我打我的”。

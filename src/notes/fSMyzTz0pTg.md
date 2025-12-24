@@ -1,32 +1,31 @@
 ---
-author: Best Partners TV
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Anthropic
 date: '2025-12-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sam Altman
+products_models:
+- Claude
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=fSMyzTz0pTg
 speaker: Best Partners TV
-tags:
-  - llm
-  - ai-agent
-  - claude
-title: 【人工智能】AI开店惨遭薅羊毛？| Anthropic最新实验｜Project Vend复盘｜AI独立经商的真实边界｜Claude 4.5实战 | 智能体商业实测 | 大模型走进现实
-summary: Anthropic 最新实验 Project Vend 复盘，AI 店主 Claude 从惨亏到盈利的探索，揭示 AI 独立经商的真实边界与未来可能性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sam Altman
-companies_orgs:
-  - Anthropic
-products_models:
-  - Claude
-media_books: []
 status: evergreen
+summary: Anthropic 最新实验 Project Vend 复盘，AI 店主 Claude 从惨亏到盈利的探索，揭示 AI 独立经商的真实边界与未来可能性。
+tags:
+- ai-agent
+- llm
+title: 【人工智能】AI开店惨遭薅羊毛？| Anthropic最新实验｜Project Vend复盘｜AI独立经商的真实边界｜Claude 4.5实战 | 智能体商业实测
+  | 大模型走进现实
 ---
+
 ### 1. 高保真 (High Fidelity)
 * **严禁**重写、总结或删减具有实质意义的内容
 * **严禁**替换演讲者使用的专业术语、专有名词或特定表达习惯

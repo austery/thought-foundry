@@ -1,45 +1,45 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Blackstone
+- Norges Bank Investment Management
+- Hilton Hotels
+- First Republic
+- SmartSheet
+- Tropical Smoothie
+- Corweave
 date: '2025-01-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Jon Gray
+- Niola Tangan
+- Steve Schwarzman
+- Chris Nasetta
+- Mark Zuckerberg
+products_models:
+- Nvidia GPUs
+project:
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=1-_hxKKmIsA
 speaker: Norges Bank Investment Management
-tags:
-  - private-equity
-  - private-credit
-  - investment-philosophy
-  - data-centers
-  - organizational-culture
-title: 黑石集团总裁Jon Gray：投资成功之道与未来趋势洞察
-summary: 黑石集团总裁Jon Gray在播客中分享了公司从不足10亿美元管理资产增长至万亿美元的成功秘诀。他强调了为客户创造超额回报的使命、创业精神、以及对人才和文化的重视。Gray详细阐述了黑石的投资哲学演变，从传统价值投资转向高信念主题投资，并深入探讨了数据中心、私人信贷等领域的机遇与挑战，以及公司如何利用规模优势和严格的投资流程来规避风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-people:
-  - Jon Gray
-  - Niola Tangan
-  - Steve Schwarzman
-  - Chris Nasetta
-  - Mark Zuckerberg
-companies_orgs:
-  - Blackstone
-  - Norges Bank Investment Management
-  - Hilton Hotels
-  - First Republic
-  - SmartSheet
-  - Tropical Smoothie
-  - Corweave
-products_models:
-  - Nvidia GPUs
-media_books: []
 status: evergreen
+summary: 黑石集团总裁Jon Gray在播客中分享了公司从不足10亿美元管理资产增长至万亿美元的成功秘诀。他强调了为客户创造超额回报的使命、创业精神、以及对人才和文化的重视。Gray详细阐述了黑石的投资哲学演变，从传统价值投资转向高信念主题投资，并深入探讨了数据中心、私人信贷等领域的机遇与挑战，以及公司如何利用规模优势和严格的投资流程来规避风险。
+tags:
+- data-center
+- investment-philosophy
+- organizational-culture
+- private-credit
+- private-equity
+title: 黑石集团总裁Jon Gray：投资成功之道与未来趋势洞察
 ---
+
 ### 黑石集团的成功秘诀
 
 **Niola Tangan:** 大家好，我是挪威**主权财富基金**（Sovereign Wealth Fund: 由政府拥有和管理的投资基金）的首席执行官Niola Tangan。今天我邀请到了Jon Gray。

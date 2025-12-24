@@ -1,41 +1,41 @@
 ---
-author: Shijun Tang
+area: society-systems
+category: finance
+companies_orgs:
+- 美国劳工局
+- 标普500
+- 纳斯达克
 date: '2024-09-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《福布斯富豪榜》
+people:
+- 唐石峻
+- 巴菲特
+products_models:
+- 目标日期基金
+- ETF
+project:
+- us-analysis
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=6ykDCTXlhcc
 speaker: Shijun Tang
-tags:
-  - wealth-acquisition
-  - passive-income
-  - compound-interest
-  - market-accessibility
-  - financial-literacy
-title: 普通人如何通过投资公开股权实现财务自由？——唐石峻财富体系解析
-summary: 本文系统剖析了普通人摆脱‘出卖时间’陷阱、实现财富积累的核心路径：投资公开市场的上市公司股权。通过分析创业失败率、矩阵结构与复利机制，强调ETF定投与长期学习是普通人最可行的财富跃迁策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: society-systems
-project:
-  - us-analysis
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - 唐石峻
-  - 巴菲特
-companies_orgs:
-  - 美国劳工局
-  - 标普500
-  - 纳斯达克
-products_models:
-  - 目标日期基金
-  - ETF
-media_books:
-  - 《福布斯富豪榜》
 status: evergreen
+summary: 本文系统剖析了普通人摆脱‘出卖时间’陷阱、实现财富积累的核心路径：投资公开市场的上市公司股权。通过分析创业失败率、矩阵结构与复利机制，强调ETF定投与长期学习是普通人最可行的财富跃迁策略。
+tags:
+- compound-interest
+- financial-literacy
+- income
+- market
+- wealth
+title: 普通人如何通过投资公开股权实现财务自由？——唐石峻财富体系解析
 ---
+
 ### 为什么出卖时间无法让你发财？
 
 仅靠出卖时间，你永远都不会发财。时间是公平的——每个人每天都有24小时，减去睡眠8小时、吃饭与生活琐事2小时后，你剩下14小时。如果你只是把这14小时用来换钱，你的财富上限就被自己锁死了。真正的财富积累，不来自时间的交换，而是来自**资产**——那些在你睡觉时也能为你赚钱的东西。

@@ -1,36 +1,36 @@
 ---
-author: 课代表立正
+area: knowledge-meta
+category: career-development
+companies_orgs:
+- 腾讯
+- Coinbase
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《潜规则》
+- 《有限游戏与无限游戏》
+- 《与神对话》
+- 《第二座山》
+people:
+- 吴思
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=YuR5bNL8uG0
 speaker: 课代表立正
-tags:
-  - work-meaning
-  - career-dissatisfaction
-  - personal-growth
-  - self-discovery
-title: 为什么年薪百万的你，却觉得工作毫无价值？
-summary: 本视频探讨了为何高薪职场人士常感工作空虚，揭示了工作本质是‘帝国建设’而非价值创造。文章指出，学校与职场环境的相似性导致了‘做题家思维’的误导。解决之道在于接受工作无意义的现实，并用两年时间探索个人人生意义，通过区分擅长与喜好、审计好奇心、尝试原型项目及结合市场需求来寻找答案。
-insight: ''
-draft: true
-series: ''
-category: career-development
-area: knowledge-meta
-project: []
-people:
-  - 吴思
-companies_orgs:
-  - 腾讯
-  - Coinbase
-products_models: []
-media_books:
-  - 《潜规则》
-  - 《有限游戏与无限游戏》
-  - 《与神对话》
-  - 《第二座山》
 status: evergreen
+summary: 本视频探讨了为何高薪职场人士常感工作空虚，揭示了工作本质是‘帝国建设’而非价值创造。文章指出，学校与职场环境的相似性导致了‘做题家思维’的误导。解决之道在于接受工作无意义的现实，并用两年时间探索个人人生意义，通过区分擅长与喜好、审计好奇心、尝试原型项目及结合市场需求来寻找答案。
+tags:
+- career
+- personal-growth
+- self-discovery
+- work
+title: 为什么年薪百万的你，却觉得工作毫无价值？
 ---
+
 ### 工作为何空虚
 大家好。这期视频的标题是：为什么你年薪百万，却觉得工作越来越没有价值？我不确定这是一种普遍感受，还是只属于少部分人。如果你在B站，欢迎在弹幕上互动；在YouTube，也欢迎在评论区留言。如果你没有这种感受，请打1；如果这代表了你的感受，请打2。就是虽然你的职位越来越高，年薪越来越高，但你越来越觉得，你的工作是没有意义的。
 

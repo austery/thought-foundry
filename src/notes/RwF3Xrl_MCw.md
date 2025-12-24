@@ -1,36 +1,35 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: psychology
+companies_orgs: []
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 小红书
+products_models:
+- 豆包
+project:
+- personal-growth-lab
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=RwF3Xrl_MCw
 speaker: 一席YiXi
-tags:
-  - youth-mental-health
-  - parenting-challenges
-  - educational-pressure
-  - digital-addiction
-  - intrinsic-motivation
-  - identity-development
-title: 陈默：孩子，你怎么了？——青少年心理困境的深层剖析
-summary: 资深心理教育专家陈默深入剖析当代青少年面临的六大心理困境，包括无法满足的心理需求、被误解的爱、难以解决的手机冲突、缺失的内驱力、发展失衡以及成长的迷茫。她指出，这些问题源于家庭教育、学校教育和社会环境的共同影响，呼吁家长和教育者重新审视教育方式，理解孩子真正的需求，以建立健康的亲子关系和有效的学习动力。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-  - cultural-critique
-people: []
-companies_orgs: []
-products_models:
-  - 豆包
-media_books:
-  - 小红书
 status: evergreen
+summary: 资深心理教育专家陈默深入剖析当代青少年面临的六大心理困境，包括无法满足的心理需求、被误解的爱、难以解决的手机冲突、缺失的内驱力、发展失衡以及成长的迷茫。她指出，这些问题源于家庭教育、学校教育和社会环境的共同影响，呼吁家长和教育者重新审视教育方式，理解孩子真正的需求，以建立健康的亲子关系和有效的学习动力。
+tags:
+- development
+- digital
+- parenting-challenge
+- psychology
+- society
+- youth-mental-health
+title: 陈默：孩子，你怎么了？——青少年心理困境的深层剖析
 ---
+
 ### 当代青少年面临的六大心理困境
 
 作为常年从事青少年前端心理教育和末端心理咨询与治疗的工作者，我得以全过程了解和观察青少年到底怎么了。通过我的观察，我总结出当代青少年面临的六大核心困境。

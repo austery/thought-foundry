@@ -1,42 +1,42 @@
 ---
-author: Norges Bank Investment Management
+area: society-systems
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- Oljefondet
+- Stortinget
+- Finansdepartementet
+- Norges Bank
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Sverdrutrapporten
+people:
+- Marthe Skaar
+- Nikolai
+- Line
+products_models:
+- SharePoint
+project:
+- investment-strategy
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=3nvNQEVATdc
 speaker: Norges Bank Investment Management
-tags:
-  - transparency
-  - communication-strategy
-  - sovereign-wealth-fund
-  - risk-management
-  - stakeholder-engagement
-title: 挪威主权财富基金的沟通策略转型：从封闭到开放
-summary: 挪威主权财富基金（Oljefondet）的沟通负责人Marthe Skaar分享了基金在过去五年中沟通策略的重大转变。从曾经的封闭和傲慢，基金已发展成为全球最开放的基金之一，并连续三年赢得透明度世界冠军。此次转型不仅提升了内部文化和外部信任，也成为应对地缘政治风险、技术变革等挑战的关键。文章详细阐述了基金的战略目标，包括提升挪威国内的知识和信任度，加强国际影响力，以及优化内部沟通，以应对日益复杂和不确定的全球环境。
-insight: ''
-draft: true
-series: ''
-category: business
-area: society-systems
-project:
-  - investment-strategy
-  - geopolitics-watch
-people:
-  - Marthe Skaar
-  - Nikolai
-  - Line
-companies_orgs:
-  - Norges Bank Investment Management
-  - Oljefondet
-  - Stortinget
-  - Finansdepartementet
-  - Norges Bank
-products_models:
-  - SharePoint
-media_books:
-  - Sverdrutrapporten
 status: evergreen
+summary: 挪威主权财富基金（Oljefondet）的沟通负责人Marthe Skaar分享了基金在过去五年中沟通策略的重大转变。从曾经的封闭和傲慢，基金已发展成为全球最开放的基金之一，并连续三年赢得透明度世界冠军。此次转型不仅提升了内部文化和外部信任，也成为应对地缘政治风险、技术变革等挑战的关键。文章详细阐述了基金的战略目标，包括提升挪威国内的知识和信任度，加强国际影响力，以及优化内部沟通，以应对日益复杂和不确定的全球环境。
+tags:
+- communication-strategy
+- risk-management
+- society
+- sovereign-wealth-fund
+- technology
+title: 挪威主权财富基金的沟通策略转型：从封闭到开放
 ---
+
 ### 沟通策略的演变：从封闭到开放
 
 非常高兴今天能看到这么多人在清晨聚集于此。今天，我们挪威主权财富基金（**Oljefondet**：挪威政府为未来世代设立的全球最大主权财富基金）的沟通团队将带领大家回顾我们走过的这段旅程。五年前，我们还是一家封闭且傲慢的机构。如今，我们变得开放，并且我希望也变得不那么傲慢了。今天大家将听到的是关于这段旅程的讲述。我还没有看到具体议程，因为他们说这是秘密文件，尽管我们对许多事情都持开放态度，但我本人却看不到议程。

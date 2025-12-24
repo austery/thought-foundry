@@ -1,96 +1,96 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- S&P 500
+- Tesla
+- Palantir
+- Fox News
+- Robin Hood
+- SoFi
+- Grab
+- Google
+- AMD
+- Amazon
+- Meta
+- SMCI
+- Coreweave
+- Rocket Lab
+- CrowdStrike
+- Coinbase
+- Oklo
+- D-Wave
+- Rigetti
+- Yahoo Finance
+- CNBC
+- Bloomberg
+- Cipher
+- Bitfarms
+- Riot
+- Molina Health
+- Oscar
+- Nvidia
+- Intel
+- Ford
+- Morgan Stanley
+- Apple
+- Uber
+- Lumen
+- Altera
+- Deckers
+- Pneumont
+- Digital Realty Trust
+- Target
+- Wedbush
+- Micron
+- Anthropic
+- Binance
+- Oracle
+- Wells Fargo
+- Goldman Sachs
+- BNP Paribas
 date: '2025-10-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Road Less Traveled
+people:
+- Donald Trump
+- Xi Jinping
+- Jensen Huang
+- Alex Karp
+- Kim Jong-un
+- Dave Zinsner
+- Mark Benioff
+- Brian Cornell
+- Michael Fideleki
+- Kate Johnson
+- CZ
+- Anthony Noto
+- Bernie Sanders
+products_models:
+- Nvidia Cosmos
+- Google Cloud TPU
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=NT-sFF0exok
 speaker: Amit Kukreja
-tags:
-  - earnings-season
-  - market-rebound
-  - ai-driven-margins
-  - data-center-boom
-  - us-china-relations
-title: 英特尔财报惊艳市场，标普500指数逼近历史新高
-summary: 市场迎来强劲反弹，标普500指数收盘时逼近历史高点。英特尔公布了远超预期的“史诗级”财报，每股收益超出预期20多倍，推动其股价盘后飙升。福特等公司财报表现稳健，但指引不佳导致股价下跌。一系列强劲的财报数据，尤其是在利润率上的改善，暗示人工智能可能正在提升企业效率。此外，谷歌与Anthropic确认达成数十亿美元的云协议，甲骨文为数据中心建设完成创纪录的380亿美元债务融资，进一步点燃了市场对AI基础设施的热情。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Jensen Huang
-  - Alex Karp
-  - Kim Jong-un
-  - Dave Zinsner
-  - Mark Benioff
-  - Brian Cornell
-  - Michael Fideleki
-  - Kate Johnson
-  - CZ
-  - Anthony Noto
-  - Bernie Sanders
-companies_orgs:
-  - S&P 500
-  - Tesla
-  - Palantir
-  - Fox News
-  - Robin Hood
-  - SoFi
-  - Grab
-  - Google
-  - AMD
-  - Amazon
-  - Meta
-  - SMCI
-  - Coreweave
-  - Rocket Lab
-  - CrowdStrike
-  - Coinbase
-  - Oklo
-  - D-Wave
-  - Rigetti
-  - Yahoo Finance
-  - CNBC
-  - Bloomberg
-  - Cipher
-  - Bitfarms
-  - Riot
-  - Molina Health
-  - Oscar
-  - Nvidia
-  - Intel
-  - Ford
-  - Morgan Stanley
-  - Apple
-  - Uber
-  - Lumen
-  - Altera
-  - Deckers
-  - Pneumont
-  - Digital Realty Trust
-  - Target
-  - Wedbush
-  - Micron
-  - Anthropic
-  - Binance
-  - Oracle
-  - Wells Fargo
-  - Goldman Sachs
-  - BNP Paribas
-products_models:
-  - Nvidia Cosmos
-  - Google Cloud TPU
-media_books:
-  - The Road Less Traveled
 status: evergreen
+summary: 市场迎来强劲反弹，标普500指数收盘时逼近历史高点。英特尔公布了远超预期的“史诗级”财报，每股收益超出预期20多倍，推动其股价盘后飙升。福特等公司财报表现稳健，但指引不佳导致股价下跌。一系列强劲的财报数据，尤其是在利润率上的改善，暗示人工智能可能正在提升企业效率。此外，谷歌与Anthropic确认达成数十亿美元的云协议，甲骨文为数据中心建设完成创纪录的380亿美元债务融资，进一步点燃了市场对AI基础设施的热情。
+tags:
+- data-center-boom
+- driven
+- earnings-season
+- market-rebound
+- us-china-relations
+title: 英特尔财报惊艳市场，标普500指数逼近历史新高
 ---
+
 ### 市场全线上扬，标普500逼近历史高点
 
 大家好，欢迎回到《市场收盘》节目。今天我们有很多内容要谈。**标普500指数**（Standard & Poor's 500 Index: 标准普尔500指数，代表美国500家大型上市公司的股票指数）在收盘时正试图冲击历史新高。我们基本上回到了两周前的位置，这很令人欣喜。标普500指数目前报67194点。

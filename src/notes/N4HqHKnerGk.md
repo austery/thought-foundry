@@ -1,46 +1,45 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Uber
+- Lyft
+- Waymo
+- 滴滴
+- Grab
+- Ola
+- DoorDash
+- GrubHub
+- Google
+- 特斯拉
+- Alibaba
+- S&P 500
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Bill Ackman
+- Dara Khosrowshahi
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=N4HqHKnerGk
 speaker: Shijun Tang
-tags:
-  - uber-business-model
-  - future-of-mobility
-  - competitive-landscape
-  - financial-performance
-  - network-effects
-title: 美股Uber：能否抵御Robotaxi冲击，持续盈利十年？
-summary: 本期视频深入分析了美股Uber（UBER）的最新财报、基本面及未来前景。尽管Uber近年实现盈利，股价表现强劲，并拥有强大的网络效应，但自动驾驶汽车（Robotaxi）的崛起对其核心业务构成了潜在颠覆性挑战。文章详细探讨了Uber的业务结构、市场竞争格局、财务健康状况，并评估了其在未来十年内能否持续为股东创造价值。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-people:
-  - Bill Ackman
-  - Dara Khosrowshahi
-companies_orgs:
-  - Uber
-  - Lyft
-  - Waymo
-  - 滴滴
-  - Grab
-  - Ola
-  - DoorDash
-  - GrubHub
-  - Google
-  - 特斯拉
-  - 阿里巴巴
-  - S&P 500
-products_models: []
-media_books: []
 status: evergreen
+summary: 本期视频深入分析了美股Uber（UBER）的最新财报、基本面及未来前景。尽管Uber近年实现盈利，股价表现强劲，并拥有强大的网络效应，但自动驾驶汽车（Robotaxi）的崛起对其核心业务构成了潜在颠覆性挑战。文章详细探讨了Uber的业务结构、市场竞争格局、财务健康状况，并评估了其在未来十年内能否持续为股东创造价值。
+tags:
+- competitive-landscape
+- financial-performance
+- future
+- network-effect
+- uber-business-model
+title: 美股Uber：能否抵御Robotaxi冲击，持续盈利十年？
 ---
+
 ### Uber的盈利与未来挑战
 
 今天我们来谈一谈美股**Uber**（股票代码：UBER）。Uber近几年来不但开始盈利，而且公司的基本面似乎正朝着一个好的方向发展，前景一片光明。然而，随着**自动驾驶汽车**（Automobile Vehicles，简称AV）以及**Robotaxi**（自动驾驶出租车服务：指通过自动驾驶技术提供载客服务的车辆）概念的横空问世，似乎又给这一片大好的前景打上了一个大大的问号。本期视频将详细探讨Uber最新的财报、目前的基本面以及其未来前景。

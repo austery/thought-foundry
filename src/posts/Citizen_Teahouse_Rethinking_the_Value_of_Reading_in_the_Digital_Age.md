@@ -1,27 +1,26 @@
 ---
-title: 市民茶室：读书的价值在数字时代的再思考
-summary: null
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-  - ai
-  - 专注力
-  - 读书价值
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: tech-engineering
 author: Lei
-speaker: 李厚辰
+category: ai-ml
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+media_books:
+- 读书价值
+products_models: []
+project:
+- ai-impact-analysis
 series: null
+speaker: 李厚辰
+summary: null
+tags:
+- psychology
+title: 市民茶室：读书的价值在数字时代的再思考
 ---
+
 ## 开场
 
 我们先播放一首开场歌曲，然后就正式开始。刚才那首并非真正的开场曲，只是一首垫场音乐，所以现在我为大家播放一首正式的开场歌曲。我找到了一首特别有意思的歌曲。不过，我不确定能否成功播放，让我们来试一下。啊，可以播放。

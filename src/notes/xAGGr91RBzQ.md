@@ -1,31 +1,30 @@
 ---
+area: finance-wealth
 author: Lei
+category: stock-investment
+created: 1984-01-24T03:00
 date: 2025-07-26
-guest: 
-insight:
+draft: true
+guest: null
+insight: null
 layout: post.njk
-series:
+people:
+- 仝仝
+- 星星
+project: 知行小酒馆
+series: null
 source: https://www.youtube.com/watch?v=xAGGr91RBzQ
 speaker: 知行小酒馆
+status: evergreen
 summary: 本期节目分享了三位主播在不同人生阶段的个人理财经验，探讨如何通过建立适合自己的财务习惯和系统，实现财务安心与生活从容。
 tags:
-  - 视频文稿
-  - 理财
-  - 个人财务
-  - 投资
-  - 知行小酒馆
-people:
- - 仝仝
- - 星星
+- video-transcript
+- wealth-management
+- 个人财务
 title: E197 无痛理财魔法：构建让生活更轻松的个人财务系统
-draft: true
-created: 1984-01-24T03:00
 updated: 2025-09-01T14:42
-area: ""
-project: 知行小酒馆
-category: ""
-status: evergreen
 ---
+
 ## 引言：悄然改变生活的财务小习惯
 
 雨白: 欢迎来到知行小酒馆，这是一档有知有型出品的播客节目。我们关注投资，更关注怎样更好的生活。我是雨白，最近有件事儿让我很感慨，时间真的会悄悄改变一个人，尤其是那些藏在细节里面的成长。

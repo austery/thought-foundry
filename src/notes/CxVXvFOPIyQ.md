@@ -1,65 +1,64 @@
 ---
-author: Veritasium
-date: '2025-08-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CxVXvFOPIyQ
-speaker: Veritasium
-tags:
-  - veritasium
-  - corporate-monopoly
-  - herbicide-safety
-  - gmo-seeds
-  - scientific-manipulation
-  - public-health-impact
-title: 孟山都的黑暗遗产：除草剂、转基因种子与企业垄断的代价
-summary: 本文揭露了农业巨头孟山都如何通过化学除草剂和转基因种子建立垄断，并长期隐瞒产品毒性、操纵科学研究、恐吓农民。从剧毒二噁英到广谱草甘膦，孟山都的产品带来了严重的健康和环境问题，最终导致其被拜耳收购后，面临巨额赔偿。这不仅是一段企业丑闻史，更是对科学诚信、监管失灵和社会系统脆弱性的深刻反思。
-insight: ''
-draft: true
-series: ''
-category: business
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Mike Wallace
-  - Franklin D. Jones
-  - Karl Schulz
-  - John E. Franz
-  - William Heydens
-  - Brent Wisner
-  - Dewayne Lee Johnson
-  - Dave Runyon
-  - Carey Gillam
-  - Bart Elmore
+category: business
 companies_orgs:
-  - Monsanto
-  - EPA
-  - WHO
-  - IARC
-  - Dow
-  - Calgene
-  - Bayer
-  - Incogni
-products_models:
-  - 2,4-D
-  - 2,4,5-T
-  - Agent Orange
-  - Glyphosate
-  - Roundup
-  - Roundup Ready
-  - Weedone
-  - Weed-A-Bomb
-  - Endo-Weed
-  - Dicamba
+- Monsanto
+- EPA
+- WHO
+- IARC
+- Dow
+- Calgene
+- Bayer
+- Incogni
+date: '2025-08-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Nature
-  - The Monsanto Papers
-  - Seed Money
+- Nature
+- The Monsanto Papers
+- Seed Money
+people:
+- Mike Wallace
+- Franklin D. Jones
+- Karl Schulz
+- John E. Franz
+- William Heydens
+- Brent Wisner
+- Dewayne Lee Johnson
+- Dave Runyon
+- Carey Gillam
+- Bart Elmore
+products_models:
+- 2,4-D
+- 2,4,5-T
+- Agent Orange
+- Glyphosate
+- Roundup
+- Roundup Ready
+- Weedone
+- Weed-A-Bomb
+- Endo-Weed
+- Dicamba
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=CxVXvFOPIyQ
+speaker: veritasium
 status: evergreen
+summary: 本文揭露了农业巨头孟山都如何通过化学除草剂和转基因种子建立垄断，并长期隐瞒产品毒性、操纵科学研究、恐吓农民。从剧毒二噁英到广谱草甘膦，孟山都的产品带来了严重的健康和环境问题，最终导致其被拜耳收购后，面临巨额赔偿。这不仅是一段企业丑闻史，更是对科学诚信、监管失灵和社会系统脆弱性的深刻反思。
+tags:
+- corporate
+- gmo-seed
+- public-health-impact
+- safety
+- scientific
+title: 孟山都的黑暗遗产：除草剂、转基因种子与企业垄断的代价
 ---
+
 ### 农业巨头的阴影：从谋杀到垄断
 
 2016年10月的一个傍晚，阿肯色州的一位农民坐在他的皮卡车里，就在田地外面，他变得越来越不耐烦。

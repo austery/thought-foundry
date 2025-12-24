@@ -1,46 +1,46 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: general
+companies_orgs:
+- 纽约大学上海分校
+- 西北大学
+- 美国社会学会
+- 联卡中心
+- 台北大学
+- 普林斯顿大学
+- 滨州大学
 date: '2024-02-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《生于出身，精英学生如何拿下精英工作》
+people:
+- 吴小刚
+- 贾瑞雪
+- 李红斌
+- Lauren Rivera
+- Pierre Bourdieu
+products_models: []
+project:
+- china-analysis
+- us-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=zNTVSsFJROQ
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - social-mobility
-  - elite-education
-  - class-stratification
-  - recruitment-bias
-  - career-development
-title: 毕业后，回到自己的阶层：精英教育、社会流动与职场机遇
-summary: 本文探讨了精英教育背景下，学生毕业后如何“回到自己的阶层”这一社会现象。通过对比中美案例，文章深入分析了家庭背景对顶尖大学毕业生职场发展的影响，尤其是在金砖服务业中，面试官如何通过“适配”和“优容”等标准，无意中筛选出具有特定社会化特征的富裕家庭子女。同时，文章也提及了台湾青年贫穷率的独特社会经济背景。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - systems-thinking
-people:
-  - 吴小刚
-  - 贾瑞雪
-  - 李红斌
-  - Lauren Rivera
-  - Pierre Bourdieu
-companies_orgs:
-  - 纽约大学上海分校
-  - 西北大学
-  - 美国社会学会
-  - 联卡中心
-  - 台北大学
-  - 普林斯顿大学
-  - 滨州大学
-products_models: []
-media_books:
-  - 《生于出身，精英学生如何拿下精英工作》
 status: evergreen
+summary: 本文探讨了精英教育背景下，学生毕业后如何“回到自己的阶层”这一社会现象。通过对比中美案例，文章深入分析了家庭背景对顶尖大学毕业生职场发展的影响，尤其是在金砖服务业中，面试官如何通过“适配”和“优容”等标准，无意中筛选出具有特定社会化特征的富裕家庭子女。同时，文章也提及了台湾青年贫穷率的独特社会经济背景。
+tags:
+- bias
+- career-development
+- class
+- education
+- social
+title: 毕业后，回到自己的阶层：精英教育、社会流动与职场机遇
 ---
+
 ### 中国精英教育与阶层固化
 
 在中国的年轻人之间，最近流行一句话：“在毕业的那一刻起，就回到了原本的阶层。”许多中国学生努力挤进名校窄门，以为自己搭上了向上流动的列车，毕业后却发现自己和身边那些来自富裕家庭的同学们机遇大不相同。他们本以为名校文凭可以抹平“出身乐透”的不平等，最后却感觉自己像是被打回原本的阶层。

@@ -1,34 +1,31 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: macro-economy
+companies_orgs: []
 date: '2025-09-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=88qKM2hIPhY
 speaker: 海淀拙大叔
-tags:
-  - economic-predictions
-  - monetary-policy
-  - deflation-exit
-  - economic-cycles
-  - market-outlook
-  - investor-sentiment
-title: 阿甘经济宏观论：四大预判验证中国经济周期与投资展望
-summary: 海淀拙大叔在最新一期宏观论中，回顾并验证了其年初的四项经济预判，包括四大周期见底、美元长期弱势、CPI和PPI转正。他深入阐释了货币传导机制、通缩的危害以及价格回升对扭转预期的关键作用。文章还分析了M1、M2增速及剪刀差对股市的影响，并展望了未来股市主升浪和潜在调整。最后，强调投资者应构建自身路线图，持续学习，并关注11月房价数据的验证。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - china-analysis
-  - investment-strategy
-  - market-cycles
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 海淀拙大叔在最新一期宏观论中，回顾并验证了其年初的四项经济预判，包括四大周期见底、美元长期弱势、CPI和PPI转正。他深入阐释了货币传导机制、通缩的危害以及价格回升对扭转预期的关键作用。文章还分析了M1、M2增速及剪刀差对股市的影响，并展望了未来股市主升浪和潜在调整。最后，强调投资者应构建自身路线图，持续学习，并关注11月房价数据的验证。
+tags:
+- economic
+- economic-cycle
+- financial
+- investor-sentiment
+- market-outlook
+title: 阿甘经济宏观论：四大预判验证中国经济周期与投资展望
 ---
+
 ### 经济宏观预判的验证与周期分析
 
 阿甘经济宏观论的第28篇，第四个预判已得到验证。在9月14日这个周日，我们回顾一下今年年初提出的五个预判。第一个预判是**四大周期**（Four Major Cycles: 经济学中常见的周期理论，包括基钦周期、朱格拉周期、库兹涅茨周期和康波周期）见底。具体来说，**基钦周期**（Kitchin Cycle: 短期库存周期）、**朱格拉周期**（Juglar Cycle: 中期投资周期）、**库兹涅茨周期**（Kuznets Cycle: 长期建筑业周期，也常指房地产周期）以及**康波周期**（Kondratiev Wave: 长期技术创新周期）在中国都已见底。从股市持续上涨一年多的情况来看，这个预判基本准确，但最终验证还需要两到三年。

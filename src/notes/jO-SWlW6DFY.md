@@ -1,74 +1,74 @@
 ---
-author: a16z
+area: market-analysis
+category: business
+companies_orgs:
+- a16z
+- Meta
+- HP
+- The Economist
+- Wall Street Journal
+- HarperCollins
+- GE
+- Foursquare
+- Google
+- Tesla
+- Palantir
 date: '2025-11-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Software is Eating the World
+- It's Time to Build
+- The Hard Thing About Hard Things
+- What You Do Is Who You Are
+- Marshall Revolution
+people:
+- Margaret Wenmachers
+- Mark Andreessen
+- Ben Horowitz
+- Charlie Rose
+- Bill Gross
+- Larry Ellis
+- Ron Conway
+- Ryan
+- Tyler Cohen
+- Alex Tabarrok
+- Ted Sarandos
+- Dylan Field
+- Nas
+- Larry David
+- Sarah Lacy
+- Elon Musk
+- Mark Zuckerberg
+- Diane Greene
+- Dennis Crowley
+products_models:
+- Charlie Rose
+- PO Daily
+- Seinfeld
+- ChatGPT
+- ChatGPT 3.5
+- Audi
+project:
+- us-analysis
+- investment-strategy
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=jO-SWlW6DFY
 speaker: a16z
-tags:
-  - vc-marketing
-  - personal-branding
-  - industry-disruption
-  - entrepreneur-focus
-  - thought-leadership
-title: a16z的秘密营销策略：从零到传奇风投公司
-summary: 本文深入探讨了知名风险投资公司a16z如何通过其独特的营销策略，从行业新秀成长为传奇。文章揭示了a16z如何颠覆传统风投模式，通过聚焦企业家、积极发声、构建个人品牌以及发表《软件正在吞噬世界》和《是时候建造了》等标志性文章，成功地在竞争激烈的市场中脱颖而出。同时，文章也讨论了当前营销环境的转变，强调了真实性和领导者个人品牌的重要性，以及如何应对“GPT测试”等新挑战。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - entrepreneurship
-people:
-  - Margaret Wenmachers
-  - Mark Andreessen
-  - Ben Horowitz
-  - Charlie Rose
-  - Bill Gross
-  - Larry Ellis
-  - Ron Conway
-  - Ryan
-  - Tyler Cohen
-  - Alex Tabarrok
-  - Ted Sarandos
-  - Dylan Field
-  - Nas
-  - Larry David
-  - Sarah Lacy
-  - Elon Musk
-  - Mark Zuckerberg
-  - Diane Greene
-  - Dennis Crowley
-companies_orgs:
-  - a16z
-  - Facebook
-  - HP
-  - The Economist
-  - Wall Street Journal
-  - HarperCollins
-  - GE
-  - Foursquare
-  - Google
-  - Tesla
-  - Palantir
-products_models:
-  - Charlie Rose
-  - PO Daily
-  - Seinfeld
-  - ChatGPT
-  - ChatGPT 3.5
-  - Audi
-media_books:
-  - Software is Eating the World
-  - It's Time to Build
-  - The Hard Thing About Hard Things
-  - What You Do Is Who You Are
-  - Marshall Revolution
 status: evergreen
+summary: 本文深入探讨了知名风险投资公司a16z如何通过其独特的营销策略，从行业新秀成长为传奇。文章揭示了a16z如何颠覆传统风投模式，通过聚焦企业家、积极发声、构建个人品牌以及发表《软件正在吞噬世界》和《是时候建造了》等标志性文章，成功地在竞争激烈的市场中脱颖而出。同时，文章也讨论了当前营销环境的转变，强调了真实性和领导者个人品牌的重要性，以及如何应对“GPT测试”等新挑战。
+tags:
+- business
+- industry
+- personal
+- psychology
+- thought-leadership
+title: a16z的秘密营销策略：从零到传奇风投公司
 ---
+
 ### a16z的早期竞争与颠覆性策略
 
 **Ben Horowitz**: 在那些日子里，我们与其他公司之间产生了大量的对立。

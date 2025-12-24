@@ -1,29 +1,26 @@
 ---
-title: 温哥华深度游：六大完美错过宝藏景点，不容错过！
-summary: 盘点温哥华及周边六大被遗珠的宝藏景点，从历史渔村到壮丽山景，为你的下次旅程提供参考。
 area: personal-growth
 category: lifestyle
-project: []
-tags:
-- attraction
-- canada
-- travel
-- vancouver
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-08'
-author: 莊也雜談
-speaker: 莊也雜談
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7E8h_K_SoDM
+speaker: 莊也雜談
 status: evergreen
+summary: 盘点温哥华及周边六大被遗珠的宝藏景点，从历史渔村到壮丽山景，为你的下次旅程提供参考。
+tags:
+- attraction
+- canada
+- travel
+title: 温哥华深度游：六大完美错过宝藏景点，不容错过！
 ---
+
 ### 史蒂夫斯顿渔村 (Steveston Village)
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊加西之旅。上一集和这一集，我打算花两天时间，讲述一下我和我太太在今年5月份的加西之旅中，因为时间安排不开而错过的那些精彩景点。

@@ -1,52 +1,52 @@
 ---
-author: a16z
+area: tech-insights
+category: technology
+companies_orgs:
+- Unconventional AI
+- Nvidia
+- TSMC
+- Google
+- Intel
+- Databricks
+- Microsoft
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Star Trek
+people:
+- Naveen Rao
+- Alex Honnold
+- Steph Curry
+- Yann LeCun
+- analog-computing
+products_models:
+- Nirvana
+- Mosaic
+- TPU
+- Transformers
+- Diffusion Models
+- Flow Models
+- Energy Based Models
+project:
+- ai-impact-analysis
+- systems-thinking
+- entrepreneurship
+series: ''
 source: https://www.youtube.com/watch?v=wZ4DT20OHXE
 speaker: a16z
-tags:
-  - analog-computing
-  - ai-hardware
-  - agi-path
-  - energy-efficiency
-  - neural-networks
-title: 构建解锁AGI的芯片：Naveen Rao谈模拟计算与AI的未来
-summary: Naveen Rao，Unconventional AI的联合创始人兼CEO，深入探讨了其新公司如何通过模拟计算重新构想AI硬件。他解释了模拟系统在能效和处理动态、模糊数据方面的固有优势，并将其与大脑的工作方式进行类比。Rao强调，当前数字计算范式面临全球能源限制，而模拟计算可能是实现通用人工智能（AGI）的关键路径，同时解决AI计算的能耗挑战。他还分享了创业的动力、团队建设理念以及对AI作为人类进化的下一阶段的乐观展望。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - entrepreneurship
-people:
-  - Naveen Rao
-  - Alex Honnold
-  - Steph Curry
-  - Yann LeCun
-companies_orgs:
-  - Unconventional AI
-  - Nvidia
-  - TSMC
-  - Google
-  - Intel
-  - Databricks
-  - Microsoft
-products_models:
-  - Nirvana
-  - Mosaic
-  - TPU
-  - Transformers
-  - Diffusion Models
-  - Flow Models
-  - Energy Based Models
-media_books:
-  - Star Trek
 status: evergreen
+summary: Naveen Rao，Unconventional AI的联合创始人兼CEO，深入探讨了其新公司如何通过模拟计算重新构想AI硬件。他解释了模拟系统在能效和处理动态、模糊数据方面的固有优势，并将其与大脑的工作方式进行类比。Rao强调，当前数字计算范式面临全球能源限制，而模拟计算可能是实现通用人工智能（AGI）的关键路径，同时解决AI计算的能耗挑战。他还分享了创业的动力、团队建设理念以及对AI作为人类进化的下一阶段的乐观展望。
+tags:
+- energy
+- llm
+- neural-network
+- technology
+title: 构建解锁AGI的芯片：Naveen Rao谈模拟计算与AI的未来
 ---
+
 ### 引言：AI与人类的下一阶段进化
 
 我认为**AI**（Artificial Intelligence: 人工智能）是人类的下一次进化。我认为它将我们带到一个新的水平，使我们能够以更深入的方式协作和理解世界。

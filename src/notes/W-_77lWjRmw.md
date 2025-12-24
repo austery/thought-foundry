@@ -1,41 +1,41 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: culture
+companies_orgs: []
 date: '2025-11-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《药有光》
+- 《无用的债帐》
+people:
+- 梁鸿
+- 敏敏
+- 雅雅
+- 吴勇
+- 陈清华
+- 沈春
+products_models: []
+project:
+- systems-thinking
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=W-_77lWjRmw
 speaker: 一席YiXi
-tags:
-  - adolescent-mental-health
-  - family-education
-  - parental-anxiety
-  - authoritarian-parenting
-  - educational-pressure
-  - parent-child-relationship
-title: 梁鸿：为何我们对优秀的孩子依然焦虑？——青少年心理健康与家庭教育的反思
-summary: 一席讲者梁鸿基于其非虚构著作《药有光》，分享了中国青少年心理健康问题的深度调查与思考。她通过敏敏、雅雅、吴勇等孩子的真实故事，揭示了家庭暴力、学业重压、父母缺位、单一成功标准等对孩子造成的创伤。梁鸿强调，父母常因不自知而成为伤害的源头，呼吁成人重新审视与孩子的关系，理解孩子内心的光亮与韧性，而非一味施压或控诉，共同构建健康的家庭和社会系统。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-people:
-  - 梁鸿
-  - 敏敏
-  - 雅雅
-  - 吴勇
-  - 陈清华
-  - 沈春
-companies_orgs: []
-products_models: []
-media_books:
-  - 《药有光》
-  - 《无用的债帐》
 status: evergreen
+summary: 一席讲者梁鸿基于其非虚构著作《药有光》，分享了中国青少年心理健康问题的深度调查与思考。她通过敏敏、雅雅、吴勇等孩子的真实故事，揭示了家庭暴力、学业重压、父母缺位、单一成功标准等对孩子造成的创伤。梁鸿强调，父母常因不自知而成为伤害的源头，呼吁成人重新审视与孩子的关系，理解孩子内心的光亮与韧性，而非一味施压或控诉，共同构建健康的家庭和社会系统。
+tags:
+- adolescent-mental-health
+- anxiety
+- authoritarian-parenting
+- education
+- relationship
+- society
+title: 梁鸿：为何我们对优秀的孩子依然焦虑？——青少年心理健康与家庭教育的反思
 ---
+
 ### 《药有光》：别吹灭孩子内心的光
 
 我今天之所以站在这里，是因为我刚刚写了一本书，名叫**《药有光》**。这本书是一部关于青少年心理健康问题的**非虚构著作**（Non-fiction work: 以真实的人物和事件为基础，通过调查、采访等方式创作的文学作品），也是我花费好几年时间，在中国的大城市、中等城市、小城市和农村进行调查的结果。一开始，其实这部书的名字不叫《药有光》，而是叫“别吹灭那光”。这句话是我书中采访的一个名叫雅雅的女孩子，她写的日记里面的几句话。后来之所以没有把这个名字作为书名，是因为觉得太哀求了，太黯淡了。但是我自己却一直对这句话念念不忘：“别吹灭那光”。这句话特别值得让人思考：别吹灭什么光？是谁在吹灭那光？我也希望各位听众能够带着这个疑问，慢慢地走进我书中的故事，走进敏敏、雅雅和那些情绪受困扰的孩子的故事。

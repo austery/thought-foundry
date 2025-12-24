@@ -1,43 +1,43 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 蒲公英中学
 date: '2025-06-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《风起前的蒲公英》
+people:
+- 梁君健
+- 袁老师
+- 全宇飞
+- 张战豪
+- 王璐瑶
+- 冯晓云
+- 黄晓明
+- 史田宇
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=p60TnOZVSAc
 speaker: 一席YiXi
-tags:
-  - migrant-children
-  - educational-inequality
-  - musical-resilience
-  - dream-and-disappointment
-  - structural-barriers
-title: 风起前的蒲公英：流动儿童的音乐与破碎的愿望
-summary: 纪录片导演梁君健讲述蒲公英中学合唱团孩子们的故事，揭示流动儿童在追求音乐梦想过程中遭遇的社会结构性困境，展现他们在希望破碎后依然坚韧、充满生命力的成长力量。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - us-analysis
-people:
-  - 梁君健
-  - 袁老师
-  - 全宇飞
-  - 张战豪
-  - 王璐瑶
-  - 冯晓云
-  - 黄晓明
-  - 史田宇
-companies_orgs:
-  - 蒲公英中学
-products_models: []
-media_books:
-  - 《风起前的蒲公英》
 status: evergreen
+summary: 纪录片导演梁君健讲述蒲公英中学合唱团孩子们的故事，揭示流动儿童在追求音乐梦想过程中遭遇的社会结构性困境，展现他们在希望破碎后依然坚韧、充满生命力的成长力量。
+tags:
+- child
+- code
+- musical-resilience
+- society
+- technology
+title: 风起前的蒲公英：流动儿童的音乐与破碎的愿望
 ---
+
 ### 蒲公英中学：一座城里的流动童年
 
 大家好，我叫梁君健，在大学教书，也是一名纪录片导演。今天我想分享的，是一部名为《风起前的蒲公英》的纪录电影。

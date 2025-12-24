@@ -1,36 +1,36 @@
 ---
-author: Adam's Axiom
+area: society-systems
+category: general
+companies_orgs: []
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- A Beautiful Mind
+people:
+- John von Neumann
+- John Nash
+products_models: []
+project:
+- systems-thinking
+- personal-growth-lab
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=cOESNLP00Us
 speaker: Adam's Axiom
-tags:
-  - game-theory
-  - nash-equilibrium
-  - prisoner-dilemma
-  - cooperation-strategy
-  - strategic-thinking
-title: 博弈论：理解决策与合作的强大工具
-summary: 本文深入探讨了博弈论这一强大的经济理论，揭示了在互动中人们如何做出决策。文章从博弈论的基本概念——参与者、策略、收益和纳什均衡——入手，通过囚徒困境、猎鹿博弈和斗鸡博弈等经典案例，生动阐释了合作与竞争的复杂性。随后，文章将博弈论应用于日常经济现象，如价格设定和商业谈判，并进一步探讨了重复博弈、信任和制度如何促进社会合作。最后，文章强调了博弈论在理解气候变化、经济不平等等全球挑战中的重要作用，并指出掌握博弈论能赋予我们改变博弈规则、实现共赢的能力。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - personal-growth-lab
-  - geopolitics-watch
-people:
-  - John von Neumann
-  - John Nash
-companies_orgs: []
-products_models: []
-media_books:
-  - A Beautiful Mind
 status: evergreen
+summary: 本文深入探讨了博弈论这一强大的经济理论，揭示了在互动中人们如何做出决策。文章从博弈论的基本概念——参与者、策略、收益和纳什均衡——入手，通过囚徒困境、猎鹿博弈和斗鸡博弈等经典案例，生动阐释了合作与竞争的复杂性。随后，文章将博弈论应用于日常经济现象，如价格设定和商业谈判，并进一步探讨了重复博弈、信任和制度如何促进社会合作。最后，文章强调了博弈论在理解气候变化、经济不平等等全球挑战中的重要作用，并指出掌握博弈论能赋予我们改变博弈规则、实现共赢的能力。
+tags:
+- canada
+- game-theory
+- psychology
+- strategy
+- thinking
+title: 博弈论：理解决策与合作的强大工具
 ---
+
 ### 引言：博弈论的魅力
 
 你正站在咖啡店里排队，突然每个人的手机都响起了紧急警报：恶劣天气预警，立即疏散。当你环顾四周时，看到恐慌正在蔓延。你是应该现在就冲向出口，冒着在混乱中被踩踏的风险，还是冷静等待，却可能浪费宝贵的疏散时间？其他人会怎么做？在这千钧一发之际，你正在玩一场 stakes 极高的博弈。

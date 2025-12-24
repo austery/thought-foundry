@@ -1,30 +1,29 @@
 ---
-title: 第五课：写给青少年的父母（上）
-summary: null
-area: personal-growth
-category: culture
-project: []
-tags:
-  - 亲子关系
-  - 婚姻关系
-  - 宗教
-  - 家庭生活
-people:
-  - 林静芝
-  - 李秀全
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-07-10'
+area: life-family
 author: Lei
-speaker: ''
+category: family-relations
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 林静芝
+- 李秀全
+products_models: []
+project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=xpAXGC-iKlo
+speaker: ''
+summary: null
+tags:
+- family-life
+- parenting
+- religion
+title: 第五课：写给青少年的父母（上）
 ---
+
 ## 引言：新时代的家庭挑战
 
 **李秀全：**亲爱的弟兄姊妹，你们好。在过去这四课的分享里面，求主真是让我们在这些学习的当中，有许许多多新的突破。我们真是从心里说，盼望我们的家成为一个侍奉的单位，我们的家带出来的侍奉，真是能够荣神益人。

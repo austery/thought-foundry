@@ -1,59 +1,57 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Standard Oil
+- OPEC
+- British Petroleum
+- Equinor
+- Shell
+- Total
+- Exxon
+- Aramco
 date: '2024-09-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Prize》
+- '《The New Map: Energy, Climate, and the Clash of Nations》'
+- 《The Quest》
+- 《The Commanding Heights》
+- 《Moby Dick》
+- 《The Making of the Atomic Bomb》
+people:
+- Daniel Yergin
+- John D. Rockefeller
+- George Mitchell
+- Theodore Roosevelt
+- Winston Churchill
+- Vladimir Putin
+- Modi
+products_models:
+- kerosene
+- gasoline
+- liquefied-natural-gas
+- shale-gas
+project:
+- ai-impact-analysis
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=sveBcfz0fHk
 speaker: Dwarkesh Patel
-tags:
-  - oil-history
-  - energy-geopolitics
-  - shale-revolution
-  - energy-transition
-  - ai-energy-demand
-title: 丹尼尔·耶金：石油如何塑造历史与未来能源格局
-summary: 能源权威丹尼尔·耶金深入探讨石油在20世纪历史中的核心作用，从洛克菲勒的垄断到两次世界大战的战略意义。他分析了1973年石油危机、中东石油政治的演变，以及页岩革命对美国能源独立和全球地缘政治的影响。对话还触及了AI时代对电力需求的挑战、能源转型中的矿产瓶颈，并强调了叙事在理解复杂历史事件中的重要性。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - ai-impact-analysis
-  - us-analysis
-  - china-analysis
-people:
-  - Daniel Yergin
-  - Dwarkesh Patel
-  - John D. Rockefeller
-  - George Mitchell
-  - Theodore Roosevelt
-  - Winston Churchill
-  - Vladimir Putin
-  - Modi
-companies_orgs:
-  - Standard Oil
-  - OPEC
-  - British Petroleum
-  - Equinor
-  - Shell
-  - Total
-  - Exxon
-  - Aramco
-products_models:
-  - kerosene
-  - gasoline
-  - liquefied-natural-gas
-  - shale-gas
-media_books:
-  - 《The Prize》
-  - '《The New Map: Energy, Climate, and the Clash of Nations》'
-  - 《The Quest》
-  - 《The Commanding Heights》
-  - 《Moby Dick》
-  - 《The Making of the Atomic Bomb》
 status: evergreen
+summary: 能源权威丹尼尔·耶金深入探讨石油在20世纪历史中的核心作用，从洛克菲勒的垄断到两次世界大战的战略意义。他分析了1973年石油危机、中东石油政治的演变，以及页岩革命对美国能源独立和全球地缘政治的影响。对话还触及了AI时代对电力需求的挑战、能源转型中的矿产瓶颈，并强调了叙事在理解复杂历史事件中的重要性。
+tags:
+- energy
+- energy-transition
+- history
+- revolution
+title: 丹尼尔·耶金：石油如何塑造历史与未来能源格局
 ---
+
 ### 能源史巨著的诞生
 今天，我很高兴能与**丹尼尔·耶金**（Daniel Yergin: 世界领先的能源权威）进行对话。他的著作**《石油的世纪》**（The Prize: 荣获普利策奖，讲述石油的完整历史）是关于整个20世纪的历史，因为过去150年发生的一切都与石油息息相关。他最近的著作是**《新地图：能源、气候与国家冲突》**（The New Map: Energy, Climate, and the Clash of Nations）。主持人问道，如何开始撰写这样一部涵盖整个20世纪历史的巨著？耶金博士回答说，你开始时并不知道自己在做什么。他同意写这本书，原计划两年完成，结果却花了七年。这个故事变得如此引人入胜，以至于它与20世纪的历史紧密交织在一起。
 

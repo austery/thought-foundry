@@ -1,46 +1,45 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: technology
+companies_orgs:
+- OpenAI
+- Google
+- Anthropic
+- SSI
 date: '2025-11-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ilya Sutskever
+- Sam Altman
+- Dwarkesh Patel
+products_models:
+- GPT-4
+- Claude
+- AlexNet
+- GPT-3
+- Transformer
+- H100
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=yiCc4avA2bY
 speaker: Best Partners TV
-tags:
-  - ai-development
-  - superintelligence
-  - scaling-laws
-  - reinforcement-learning
-  - ai-safety
-  - value-function
-title: Ilya Sutskever的AI新预言：从规模化到探索，AI的撕裂感与安全超级智能之路
-summary: OpenAI联合创始人Ilya Sutskever在沉寂两年后，深度访谈中剖析了当前AI发展的“撕裂感”——巨额投入与有限实际影响之间的矛盾。他反思了预训练与强化学习的本质差异，提出人类高效学习的关键在于情感和“价值函数”。Ilya认为AI正从单纯追求规模的时代转向探索研究时代，并阐述了其新公司SSI（安全超级智能公司）致力于“直线射击”式地实现安全超级智能的愿景，强调AI安全应与能力构建同步，而非事后补救。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ilya Sutskever
-  - Sam Altman
-  - Dwarkesh Patel
-companies_orgs:
-  - OpenAI
-  - Google
-  - Anthropic
-  - SSI
-products_models:
-  - GPT-4
-  - Claude
-  - AlexNet
-  - GPT-3
-  - Transformer
-  - H100
-media_books: []
 status: evergreen
+summary: OpenAI联合创始人Ilya Sutskever在沉寂两年后，深度访谈中剖析了当前AI发展的“撕裂感”——巨额投入与有限实际影响之间的矛盾。他反思了预训练与强化学习的本质差异，提出人类高效学习的关键在于情感和“价值函数”。Ilya认为AI正从单纯追求规模的时代转向探索研究时代，并阐述了其新公司SSI（安全超级智能公司）致力于“直线射击”式地实现安全超级智能的愿景，强调AI安全应与能力构建同步，而非事后补救。
+tags:
+- ai-development
+- ai-safety
+- reinforcement-learning
+- scaling-law
+- superintelligence
+- value
+title: Ilya Sutskever的AI新预言：从规模化到探索，AI的撕裂感与安全超级智能之路
 ---
+
 ### Ilya Sutskever打破沉默，谈AI瓶颈与未来
 
 大家好，这里是最佳拍档，我是大飞。自从两年前的**Sam Altman**（OpenAI首席执行官）罢免风波过后，**Ilya Sutskever**（OpenAI联合创始人兼前首席科学家）在公众视野中就像是一位隐士一样。当硅谷的CEO们在推特上为了谁的模型更强、谁的用户更多而吵得不可开交时，他选择了沉默。而最近，他终于打破了这种沉默，在与科技博主**Dwarkesh Patel**（德瓦尔克什·帕特尔）的一场深度对话中，吐露了他对当前AI技术瓶颈、未来超级智能以及人类命运的最新思考。今天这期视频，我们就来看看这位AI先知是如何看待我们正在经历的这场技术革命的。相信他的很多观点，会颠覆你对现有AI发展路径的认知。

@@ -1,35 +1,34 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- 加拿大国家公园
+- Banff Jasper Collection
 date: '2023-08-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Bill Pitot
+products_models:
+- Icefield Explorer
+- Jasper Skytrain
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=MS6T4Om0s44
 speaker: 莊也雜談
-tags:
-  - icefield-parkway
-  - canadian-rockies
-  - travel-tips
-  - glacier-tourism
-  - national-parks
-title: 冰原大道：世界最美公路之旅的精华景点与实用攻略
-summary: 本期节目深入探索加拿大洛基山脉的冰原大道（Icefield Parkway），这条连接班夫路易斯湖与贾斯珀的公路被誉为世界最美公路之一。节目详细介绍了沿途的赫伯特湖、弓湖、佩托湖、哥伦比亚冰原中心、冰川天空步道、阿萨巴斯卡瀑布等核心景点，并提供了关于门票、加油、手机信号、野生动物应对等实用出行提示，为计划前往加拿大洛基山脉的游客提供了宝贵的参考信息。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project: []
-people:
-  - Bill Pitot
-companies_orgs:
-  - 加拿大国家公园
-  - Banff Jasper Collection
-products_models:
-  - Icefield Explorer
-  - Jasper Skytrain
-media_books: []
 status: evergreen
+summary: 本期节目深入探索加拿大洛基山脉的冰原大道（Icefield Parkway），这条连接班夫路易斯湖与贾斯珀的公路被誉为世界最美公路之一。节目详细介绍了沿途的赫伯特湖、弓湖、佩托湖、哥伦比亚冰原中心、冰川天空步道、阿萨巴斯卡瀑布等核心景点，并提供了关于门票、加油、手机信号、野生动物应对等实用出行提示，为计划前往加拿大洛基山脉的游客提供了宝贵的参考信息。
+tags:
+- canadian-rocky
+- glacier-tourism
+- national
+- technology
+- travel
+title: 冰原大道：世界最美公路之旅的精华景点与实用攻略
 ---
+
 ### 引言：冰原大道——世界级美景的召唤
 
 大家好，我是庄野，欢迎您收看庄野杂谈加拿大系列节目。今天咱们在外面录制，天气不佳，是个雨天，咱们今天试一试这个录制效果。我是站着录的。今天咱们继续讲班夫，实际上今天讲的这些景点绝大多数都不在班夫国家公园的地盘之上。这个咱们之前提到过，班夫实际上是这片地区所有世界遗产公园的一个代表，但并不是说另外那几个公园就不如班夫好看，其实它们的风景一点也不输给班夫。不过，其他的公园在宣传力度上的确是稍微弱了一些。咱们今天就好好的替它们宣传一下，以后千万别一提班夫就只知道路易斯湖跟梦莲湖，还有无数超赞超美的精华景点。

@@ -1,63 +1,61 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- AMD
+- Google
+- Microsoft
+- Meta
+- Oracle
+- TSMC
+- Core Weave
+- OpenAI
+- Anthropic
+- Palo Alto Networks
+- Broadcom
+- Amazon
+- Tesla
+- Federal Reserve
+- S&P 500
 date: '2025-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jensen Huang
+- Colette Kress
+- Warren Buffett
+- Michael Burry
+- Sam Altman
+- Dylan Patel
+products_models:
+- Blackwell
+- Reuben
+- Hopper
+- Gemini 3.0
+- CUDA
+- TPU
+- NVLink
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=xXqGcV04N2Q
 speaker: Amit Kukreja
-tags:
-  - earnings-report
-  - ai-demand
-  - data-center-growth
-  - market-reaction
-  - guidance-beat
-title: 英伟达2025年Q3财报深度解析：业绩与指引双超预期，AI需求持续加速
-summary: 本期内容深度探讨了英伟达2025财年第三季度的财报表现。财报发布前，市场普遍预期乐观但对宏观经济因素有所担忧。最终，英伟达公布了远超预期的营收和每股收益，并给出了强劲的第四季度指引，有效驱散了市场对“AI泡沫”的疑虑。CEO黄仁勋在电话会议中强调，计算需求正在加速，AI已进入“良性循环”，并详细阐述了公司在数据中心、网络和软件生态系统中的多重优势。市场对此反应积极，英伟达股价及相关AI概念股均应声上涨。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Jensen Huang
-  - Amit Kukreja
-  - Colette Kress
-  - Warren Buffett
-  - Michael Burry
-  - Sam Altman
-  - Dylan Patel
-companies_orgs:
-  - Nvidia
-  - AMD
-  - Google
-  - Microsoft
-  - Meta
-  - Oracle
-  - TSMC
-  - Core Weave
-  - OpenAI
-  - Anthropic
-  - Palo Alto Networks
-  - Broadcom
-  - Amazon
-  - Tesla
-  - Federal Reserve
-  - S&P 500
-products_models:
-  - Blackwell
-  - Reuben
-  - Hopper
-  - Gemini 3.0
-  - CUDA
-  - TPU
-  - NVLink
-media_books: []
 status: evergreen
+summary: 本期内容深度探讨了英伟达2025财年第三季度的财报表现。财报发布前，市场普遍预期乐观但对宏观经济因素有所担忧。最终，英伟达公布了远超预期的营收和每股收益，并给出了强劲的第四季度指引，有效驱散了市场对“AI泡沫”的疑虑。CEO黄仁勋在电话会议中强调，计算需求正在加速，AI已进入“良性循环”，并详细阐述了公司在数据中心、网络和软件生态系统中的多重优势。市场对此反应积极，英伟达股价及相关AI概念股均应声上涨。
+tags:
+- data-center-growth
+- earnings-report
+- financial
+- guidance-beat
+- market-reaction
+title: 英伟达2025年Q3财报深度解析：业绩与指引双超预期，AI需求持续加速
 ---
+
 ### 财报发布前的期待与预测
 
 Amit: 好的，大家好。欢迎回到新一期的《收盘观察》。今天是非常特别的一期，因为我们要迎来英伟达的财报，我们所有人都在这里：Tanner、Neil、Jose 和我。非常高兴能来到这里，感谢大家花时间与我们共度。我们有很多要谈论的内容。大约20分钟后，我们将得到2025财年第三季度的财报。这将是英伟达有史以来最重要的财报。我们每个季度都这么说，但我保证，这次我们是认真的。

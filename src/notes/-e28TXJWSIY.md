@@ -1,33 +1,32 @@
 ---
-title: 市场周报：政府停摆与劳动力市场数据解读
-summary: 本周市场聚焦政府停摆和劳动力市场数据。私营部门数据显示就业市场恶化，但市场却将其解读为美联储降息的利好。政府停摆的政治博弈及其对经济的影响也成为关注焦点。
 area: market-analysis
 category: finance
-project:
-- investment-strategy
-- market-cycles
-tags:
-- economic-indicators
-- federal-reserve
-- government-shutdown
-- labor-market
-- market-weekly
-people:
-- joseph-wang
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-04'
-author: Joseph Wang
-speaker: Joseph Wang
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- joseph-wang
+products_models: []
+project:
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=-e28TXJWSIY
+speaker: Joseph Wang
 status: evergreen
+summary: 本周市场聚焦政府停摆和劳动力市场数据。私营部门数据显示就业市场恶化，但市场却将其解读为美联储降息的利好。政府停摆的政治博弈及其对经济的影响也成为关注焦点。
+tags:
+- economic-indicator
+- federal-reserve
+- government-shutdown
+- labor-market
+- market
+title: 市场周报：政府停摆与劳动力市场数据解读
 ---
+
 ### 本周市场概览与焦点
 
 Hello my friends. Today is October 4th, and this is Markets Weekly.

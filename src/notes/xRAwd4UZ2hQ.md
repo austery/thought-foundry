@@ -1,82 +1,81 @@
 ---
-author: Bloomberg Podcasts
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Bloomberg
+- Federal Reserve
+- Bank of England
+- Peterson Institute for International Economics
+- Bureau of Labor Statistics
+- EPA
+- Treasury
+- NATO
+- Chinese Communist Party
+- White House
+- European Central Bank
+- Bank of Japan
+- Bundesbank
+- Bank for International Settlements
+- GM
+- Walmart
+- Apple
+- Chubb
+- Liberty Mutual
+- State Farm Insurance
 date: '2025-08-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Joe Wisenthal
+- Tracy Alloway
+- Adam Posen
+- Jerome Powell
+- Arthur Burns
+- Carrick Sankaran
+- Steven Moran
+- Wally Adeyemo
+- Robert Lighthizer
+- Robert Lawrence
+- Larry Summers
+- Alvin Hansen
+- Daron Acemoglu
+- Simon Johnson
+- Ben Bernanke
+- Thomas Laubach
+- Frederic Mishkin
+- Ken Rogoff
+- Christine Lagarde
+- Andrew Bailey
+- Kazuo Ueda
+- Ezra Vogel
+- Deng Xiaoping
+products_models:
+- OddLots podcast
+- Foreign Affairs
+- 'The New Geography: Who Profits in a Post-American World'
+- Deng Xiaoping
+- Trade Wars Are Class Wars
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=xRAwd4UZ2hQ
 speaker: Bloomberg Podcasts
-tags:
-  - central-bank-independence
-  - global-order-restructuring
-  - us-economic-policy
-  - tariffs-inflation-impact
-  - secular-stagnation
-  - labor-market-hysteresis
-title: 亚当·波森谈后美国时代的杰克逊霍尔：央行独立性、关税与全球秩序重构
-summary: 本期OddLots播客中，亚当·波森探讨了杰克逊霍尔会议的超现实氛围，指出尽管对央行独立性和美国全球角色的攻击是核心议题，却常被避而不谈。波森批评了特朗普政府的政策，特别是关税，认为它们导致滞胀并削弱了美国作为全球保险提供者的长期作用。他还深入分析了长期利率上升的驱动因素，以及围绕通胀持续性和劳动力市场滞后效应的辩论。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Joe Wisenthal
-  - Tracy Alloway
-  - Adam Posen
-  - Jerome Powell
-  - Arthur Burns
-  - Carrick Sankaran
-  - Steven Moran
-  - Wally Adeyemo
-  - Robert Lighthizer
-  - Robert Lawrence
-  - Larry Summers
-  - Alvin Hansen
-  - Daron Acemoglu
-  - Simon Johnson
-  - Ben Bernanke
-  - Thomas Laubach
-  - Frederic Mishkin
-  - Ken Rogoff
-  - Christine Lagarde
-  - Andrew Bailey
-  - Kazuo Ueda
-  - Ezra Vogel
-  - Deng Xiaoping
-companies_orgs:
-  - Bloomberg
-  - Federal Reserve
-  - Bank of England
-  - Peterson Institute for International Economics
-  - Bureau of Labor Statistics
-  - EPA
-  - Treasury
-  - NATO
-  - Chinese Communist Party
-  - White House
-  - European Central Bank
-  - Bank of Japan
-  - Bundesbank
-  - Bank for International Settlements
-  - GM
-  - Walmart
-  - Apple
-  - Chubb
-  - Liberty Mutual
-  - State Farm Insurance
-products_models:
-  - OddLots podcast
-  - Foreign Affairs
-  - 'The New Geography: Who Profits in a Post-American World'
-  - Deng Xiaoping
-  - Trade Wars Are Class Wars
-media_books: []
 status: evergreen
+summary: 本期OddLots播客中，亚当·波森探讨了杰克逊霍尔会议的超现实氛围，指出尽管对央行独立性和美国全球角色的攻击是核心议题，却常被避而不谈。波森批评了特朗普政府的政策，特别是关税，认为它们导致滞胀并削弱了美国作为全球保险提供者的长期作用。他还深入分析了长期利率上升的驱动因素，以及围绕通胀持续性和劳动力市场滞后效应的辩论。
+tags:
+- central-bank-independence
+- global
+- labor-market-hysteresi
+- tariffs-inflation-impact
+- technology
+- us-economic-policy
+title: 亚当·波森谈后美国时代的杰克逊霍尔：央行独立性、关税与全球秩序重构
 ---
+
 ### 杰克逊霍尔的超现实氛围与央行独立性危机
 
 大家好，欢迎收听OddLots播客。我是乔·魏森塔尔。

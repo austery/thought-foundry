@@ -1,76 +1,76 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Cisco
+- Serve Robotics
+- DLocal
+- S&P 500
+- JP Morgan
+- Eli Lilly
+- Meta
+- Oracle
+- Google
+- White House
+- Federal Reserve
+- ADP
+- Goldman Sachs
+- OpenDoor
+- Nvidia
+- SoFi
+- Microsoft
+- AMD
+- Palantir
+- Uber
+- Firefly Aerospace
+- Flutter
+- DraftKings
+- MicroStrategy
+- BlackRock
+- Himalaya Capital Management
+- Altimeter Fund
 date: '2025-11-13'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Truth Social
+- Bloomberg
+- Politico
+- Barron's
+people:
+- Michael Burry
+- Chuck Robbins
+- Ray Dalio
+- Howard Marks
+- Donald Trump
+- Charlie Munger
+- Warren Buffett
+- Monish Pabrai
+- Brad Gersonner
+- Tom Lee
+- Benjamin Graham
+products_models:
+- Google Notebook LLM
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=3Pv0xF8ZS0o
 speaker: Amit Kukreja
-tags:
-  - market-rotation
-  - earnings-season
-  - corporate-debt
-  - fed-policy
-  - macro-data
-title: 市场深度解读：白宫暂停发布十月数据，思科财报超预期与市场轮动
-summary: 本日市场呈现复杂景象：标普500指数在金融和医药股带动下收绿，而科技与数据中心板块因甲骨文发债承压。白宫宣布可能不再发布十月关键经济数据，为市场增添不确定性。盘后思科财报超预期，而DLocal虽业绩亮眼股价却下跌，凸显市场轮动和对企业债务的担忧。同时，美联储降息预期因官员鹰派言论而动摇。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Michael Burry
-  - Chuck Robbins
-  - Ray Dalio
-  - Howard Marks
-  - Donald Trump
-  - Charlie Munger
-  - Warren Buffett
-  - Monish Pabrai
-  - Brad Gersonner
-  - Tom Lee
-  - Benjamin Graham
-companies_orgs:
-  - Cisco
-  - Serve Robotics
-  - DLocal
-  - S&P 500
-  - JP Morgan
-  - Eli Lilly
-  - Meta
-  - Oracle
-  - Google
-  - White House
-  - Federal Reserve
-  - ADP
-  - Goldman Sachs
-  - OpenDoor
-  - Nvidia
-  - SoFi
-  - Microsoft
-  - AMD
-  - Palantir
-  - Uber
-  - Firefly Aerospace
-  - Flutter
-  - DraftKings
-  - MicroStrategy
-  - BlackRock
-  - Himalaya Capital Management
-  - Altimeter Fund
-products_models:
-  - Google Notebook LLM
-media_books:
-  - Truth Social
-  - Bloomberg
-  - Politico
-  - Barron's
 status: evergreen
+summary: 本日市场呈现复杂景象：标普500指数在金融和医药股带动下收绿，而科技与数据中心板块因甲骨文发债承压。白宫宣布可能不再发布十月关键经济数据，为市场增添不确定性。盘后思科财报超预期，而DLocal虽业绩亮眼股价却下跌，凸显市场轮动和对企业债务的担忧。同时，美联储降息预期因官员鹰派言论而动摇。
+tags:
+- debt
+- earnings-season
+- fed-policy
+- financial
+- market-rotation
+title: 市场深度解读：白宫暂停发布十月数据，思科财报超预期与市场轮动
 ---
+
 ### 市场概览：指数上涨与个股分化
 
 欢迎回到新一期的“收盘市场”节目。感谢各位的参与。今天是11月12日，星期三。我们即将进入盘后交易时段，有三家公司将公布财报：DLO、思科（Cisco）和 Serve Robotics。我们将会关注这三家公司。如果有人持有这三家公司中任何一家的头寸，请告诉我，我们将在盘后讨论它们。

@@ -1,79 +1,77 @@
 ---
-author: 張内咸
+area: society-systems
+category: culture
+companies_orgs:
+- 网信办
+- 广电部门
+- 文化部
+- 国家新闻出版总署
+- 国家版权局
+- 中国电影集团
+- 中国电影集团进出口公司
+- 上海电影集团
+- 万达影业
+- 光线传媒
+- 华夏影业
+- 中石油
+- 中石化
+- 中海油
+- 中国电信
+- 中国联通
+- 中国移动
+- Disney
+- Quibi
+- Netflix
+- 枫叶互动
+- 中文在线
+- Amazon Prime
+- Epic Games
+- GOG
+- EA
+- 暴雪
+- 育碧
+- 索尼
+- 任天堂
+- 腾讯
+- 爱奇艺
+- Bilibili
 date: '2025-08-30'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《热血传奇》
+- 《捞女游戏》
+- 《霸王别姬》
+- 《豪门认亲错位战》
+- 《冰山总裁不能爱》
+- 《这一次我不当舔狗了》
+products_models:
+- PlayStation
+- Switch
+- Steam
+- ReelShort
+- TikTok
+- YouTube
+project:
+- china-analysis
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=UJ20wnj1wWw
 speaker: 張内咸
-tags:
-  - chinese-film-industry
-  - media-regulation
-  - duanju-economy
-  - kejin-model
-  - social-dynamics
-  - planned-economy
-title: 中国影视产业的深层困境：从审查到短剧帝国的解析
-summary: 本期节目深入探讨了中国影视产业的复杂格局，回应了观众关于电影引进审查、独特的“短剧”现象以及互动实拍游戏未来的提问。节目批判性地审视了中国影视业错综复杂的审查机制、“氪金经济”驱动的短剧模式，以及行业内人才与职业化发展的根本问题。最后，对中国影视产业的未来走向表达了悲观态度，并分享了讲者关于普及影像表达教育的愿景。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - china-analysis
-  - cultural-critique
-  - systems-thinking
-people: []
-companies_orgs:
-  - 网信办
-  - 广电部门
-  - 文化部
-  - 国家新闻出版总署
-  - 国家版权局
-  - 中国电影集团
-  - 中国电影集团进出口公司
-  - 上海电影集团
-  - 万达影业
-  - 光线传媒
-  - 华夏影业
-  - 中石油
-  - 中石化
-  - 中海油
-  - 中国电信
-  - 中国联通
-  - 中国移动
-  - Disney
-  - Quibi
-  - Netflix
-  - 枫叶互动
-  - 中文在线
-  - Amazon Prime
-  - Epic Games
-  - GOG
-  - EA
-  - 暴雪
-  - 育碧
-  - 索尼
-  - 任天堂
-  - 腾讯
-  - 爱奇艺
-  - Bilibili
-products_models:
-  - PlayStation
-  - Switch
-  - Steam
-  - ReelShort
-  - TikTok
-  - YouTube
-media_books:
-  - 《热血传奇》
-  - 《捞女游戏》
-  - 《霸王别姬》
-  - 《豪门认亲错位战》
-  - 《冰山总裁不能爱》
-  - 《这一次我不当舔狗了》
 status: evergreen
+summary: 本期节目深入探讨了中国影视产业的复杂格局，回应了观众关于电影引进审查、独特的“短剧”现象以及互动实拍游戏未来的提问。节目批判性地审视了中国影视业错综复杂的审查机制、“氪金经济”驱动的短剧模式，以及行业内人才与职业化发展的根本问题。最后，对中国影视产业的未来走向表达了悲观态度，并分享了讲者关于普及影像表达教育的愿景。
+tags:
+- chinese-film-industry
+- economy
+- media
+- model
+- social-dynamic
+title: 中国影视产业的深层困境：从审查到短剧帝国的解析
 ---
+
 大家好，我是张内咸。我们又见面了。有很长一段时间，我没有在节目中回答观众的提问了，上一次还是几个月之前。所以这期节目将集中回答几个观众的问题。
 
 几乎每期节目发布以后，都会产生大量的讨论。平时大家给我的留言，有时候写得很长，我只要看到了，能回复的，都会尽量回复。有些观众的提问，我觉得适合分享出来的，就会做成节目。那么本期节目回答的问题，主要集中在影视行业上。这些问题攒了好长时间了，一直没给大家答疑，感觉有点对不起你们。

@@ -1,39 +1,38 @@
 ---
-author: EO
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Axiom
+- MIT
+- Oxford
+- UCL Gatsby Institute
+- DeepMind
+- Stanford
+- Facebook AI Research
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Karina Hong
+products_models:
+- AI mathematician
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=b_UMhn8E8lI
 speaker: EO
-tags:
-  - mathematics
-  - ai-research
-  - scientific-discovery
-  - ai-mathematician
-title: 24岁创始人融资6400万美元，打造首个AI数学家 | Axiom, Karina Hong
-summary: 本期节目聚焦24岁的Karina Hong，她创立了Axiom公司，旨在打造首个AI数学家。节目探讨了数学研究的艰辛与魅力，AI如何加速科学发现和现实应用，以及Axiom的愿景——构建一个能自我改进的超级智能推理系统，并分享了Karina的个人成长经历和对AI数学家的期待。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Karina Hong
-companies_orgs:
-  - Axiom
-  - MIT
-  - Oxford
-  - UCL Gatsby Institute
-  - DeepMind
-  - Stanford
-  - Facebook AI Research
-products_models:
-  - AI mathematician
-media_books: []
 status: evergreen
+summary: 本期节目聚焦24岁的Karina Hong，她创立了Axiom公司，旨在打造首个AI数学家。节目探讨了数学研究的艰辛与魅力，AI如何加速科学发现和现实应用，以及Axiom的愿景——构建一个能自我改进的超级智能推理系统，并分享了Karina的个人成长经历和对AI数学家的期待。
+tags:
+- ai-research
+- llm
+- science
+- scientific-discovery
+title: 24岁创始人融资6400万美元，打造首个AI数学家 | Axiom, Karina Hong
 ---
+
 ### 数学的艰辛与吸引力
 
 数学充满艰辛。数学研究的过程，就像一位僧侣日复一日地在寺庙中祈祷。不断地、更加努力地去推进。那种多巴胺带来的愉悦感，有点像下棋一样，感觉自然而然，毫不费力。你可以看到你在竞争中走了多远。所以通常时间都在滴答作响。我认为那种感觉真的很棒，令人振奋。如果你有一个对冲基金，能够负担得起通常起薪每年1400万美元的**量化研究员**（quant researchers: 从事金融建模和算法交易的专业人士），但现在一个**人工智能数学家**（AI mathematician: 旨在进行数学研究和推理的系统）每小时只需5美元，你就能突然负担得起去攻克一个交易量总计约800万美元的市场，因为这个市场可能尚未被深入研究，并且以前未被视为目标。我们正进入一个**大规模智能**（mass intelligence: 指通过协作和集体智慧实现的智能）的时代，而人工智能数学家是这个未来的关键组成部分。

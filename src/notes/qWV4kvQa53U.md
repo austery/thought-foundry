@@ -1,50 +1,48 @@
 ---
-author: 徒步的騎手
-date: 2025-03-26
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=qWV4kvQa53U'
-speaker: 徒步的騎手
-tags:
-  - us-political-history
-  - supreme-court-rulings
-  - civil-rights
-  - political-polarization
-  - progressive-conservatism
-title: 美国历史的复杂性与进步：驳斥“让美国再伟大”的单一叙事
-summary: 本文深入探讨美国政治、社会与历史的复杂性，批判了将美国历史简单化为“好人”与“坏人”的二元对立思维。通过回顾最高法院在种族通婚、学校隔离、女性选举权等议题上的判决，文章有力地驳斥了“让美国再伟大”的怀旧式保守主义叙事，强调美国是一个不断完善、向未来发展的国家，尤其在少数族裔和女性权利方面取得了显著进步。文章呼吁人们基于事实而非单一原则来理解美国，并警惕排外与种族主义成分。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Joe Biden
-  - Kamala Harris
-  - Steven Pinker
-  - Roger Taney
-  - Louis Brandeis
-  - William Taft
-  - Eric Foner
-  - John Mitchum
-  - John Winthrop
-  - John F. Kennedy
-  - Ronald Reagan
-  - Barack Obama
+area: society-thinking
+category: politics-society
 companies_orgs:
-  - 三K党
-  - 共和党
-  - 民主党
-  - 美国最高法院
-  - 美国律师协会
-products_models: '[]'
+- 三K党
+- 共和党
+- 民主党
+- 美国最高法院
+- 美国律师协会
+date: 2025-03-26
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- Donald Trump
+- Joe Biden
+- Kamala Harris
+- Steven Pinker
+- Roger Taney
+- Louis Brandeis
+- William Taft
+- Eric Foner
+- John Mitchum
+- John Winthrop
+- John F. Kennedy
+- Ronald Reagan
+- Barack Obama
+products_models: '[]'
+project:
+- us-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=qWV4kvQa53U
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨美国政治、社会与历史的复杂性，批判了将美国历史简单化为“好人”与“坏人”的二元对立思维。通过回顾最高法院在种族通婚、学校隔离、女性选举权等议题上的判决，文章有力地驳斥了“让美国再伟大”的怀旧式保守主义叙事，强调美国是一个不断完善、向未来发展的国家，尤其在少数族裔和女性权利方面取得了显著进步。文章呼吁人们基于事实而非单一原则来理解美国，并警惕排外与种族主义成分。
+tags:
+- canada
+- political
+- right
+- society
+title: 美国历史的复杂性与进步：驳斥“让美国再伟大”的单一叙事
 ---
 
 ### 美国政治的复杂性与“政治单层人”的误区

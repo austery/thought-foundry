@@ -1,39 +1,38 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- OpenAI
+- DeepMind
 date: '2024-11-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Ray Kurzweil
+- Shane Legg
+products_models:
+- GPT-1
+- GPT-2
+- GPT-3
+- Transformer
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=5fkqmNzFni8
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - scaling-laws
-  - deep-learning
-  - neural-networks
-  - transformer
-title: Gwern 如何预见 AI 规模化浪潮
-summary: 本文追溯了 Gwern 对 AI 规模化假说的思想历程。从早期对连接主义的怀疑，到关注 Shane Legg 的预测，再到观察到深度学习领域数据、模型和算力的持续增长，最终在 GPT-3 出现后，他确信智能的涌现与规模化紧密相关，并对当时主流观点提出质疑。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Ray Kurzweil
-  - Shane Legg
-companies_orgs:
-  - OpenAI
-  - DeepMind
-products_models:
-  - GPT-1
-  - GPT-2
-  - GPT-3
-  - Transformer
-media_books: []
 status: evergreen
+summary: 本文追溯了 Gwern 对 AI 规模化假说的思想历程。从早期对连接主义的怀疑，到关注 Shane Legg 的预测，再到观察到深度学习领域数据、模型和算力的持续增长，最终在
+  GPT-3 出现后，他确信智能的涌现与规模化紧密相关，并对当时主流观点提出质疑。
+tags:
+- learning
+- llm
+- neural-network
+- scaling-law
+title: Gwern 如何预见 AI 规模化浪潮
 ---
+
 ### 引言：规模化假说的提出
 
 你是少数在 2020 年就拥有详细的**规模化**（scaling: 指模型、数据量或计算能力的增加）实证模型的人之一，我很好奇你当时使用了什么方法，让你能够看到你在《规模化假说》（scaling hypothesis）一文中描绘的图景。

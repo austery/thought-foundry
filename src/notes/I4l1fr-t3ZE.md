@@ -1,42 +1,42 @@
 ---
-author: Big Think
+area: society-systems
+category: general
+companies_orgs:
+- Hebrew University of Jerusalem
+- Google
+- KGB
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Nexus
+- The Bible
+- The US Constitution
+people:
+- Yuval Noah Harari
+- Lee Sedol
+products_models:
+- AI
+- AlphaGo
+project:
+- ai-impact-analysis
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=I4l1fr-t3ZE
 speaker: Big Think
-tags:
-  - toxic-information
-  - artificial-intelligence
-  - storytelling
-  - societal-impact
-title: 尤瓦尔·赫拉利：末日始于有毒信息——AI时代的信息洪流与社会重塑
-summary: 尤瓦尔·赫拉利在《Nexus》一书中探讨了人类知识与自我毁灭之间的悖论。他认为问题不在于人性，而在于信息质量。从古代书写到现代AI，信息技术深刻改变了社会结构、政治体系和文化叙事。赫拉利警告，AI作为一种“异类智能”，可能颠覆人类社会，尤其是在信息传播和政治权力方面，并强调建立具有自我纠错能力的机构以应对挑战的重要性。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - historical-insights
-people:
-  - Yuval Noah Harari
-  - Lee Sedol
-companies_orgs:
-  - Hebrew University of Jerusalem
-  - Google
-  - KGB
-products_models:
-  - AI
-  - AlphaGo
-media_books:
-  - Nexus
-  - The Bible
-  - The US Constitution
 status: evergreen
+summary: 尤瓦尔·赫拉利在《Nexus》一书中探讨了人类知识与自我毁灭之间的悖论。他认为问题不在于人性，而在于信息质量。从古代书写到现代AI，信息技术深刻改变了社会结构、政治体系和文化叙事。赫拉利警告，AI作为一种“异类智能”，可能颠覆人类社会，尤其是在信息传播和政治权力方面，并强调建立具有自我纠错能力的机构以应对挑战的重要性。
+tags:
+- information
+- intelligence
+- societal-impact
+- storytelling
+title: 尤瓦尔·赫拉利：末日始于有毒信息——AI时代的信息洪流与社会重塑
 ---
+
 ### 尤瓦尔·赫拉利：人类的悖论与信息的本质
 
 历史学家尤瓦尔·赫拉利（Yuval Noah Harari）在其著作《Nexus》中，提出了一个核心问题：人类如此聪明，为何又如此愚蠢？我们能够登陆月球、破译 DNA，却似乎正走向生态崩溃、世界大战，甚至被我们自己创造的强大技术——人工智能（AI）所控制或毁灭。这本书探讨了人类历史中知识与自我毁灭之间的奇异动态。传统观点认为问题源于人性本身，但《Nexus》给出的答案不同：问题不在于人性，而在于我们接收和传播的信息。即使是善良和智慧的人，在接收到错误信息时，也会做出糟糕的决定。

@@ -1,56 +1,57 @@
 ---
-author: 视野环球财经
+area: market-analysis
+category: finance
+companies_orgs:
+- Costco
+- OpenAI
+- Google
+- Amazon
+- Nvidia
+- Marvell Technology
+- CrowdStrike
+- Tesla
+- 美国政府
+- 美国联邦巡回上诉法院
+- 最高法院
+- 美国证券交易委员会
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- The Information
+- CNBC
+people:
+- Sam Altman
+- Michael Burry
+- Elon Musk
+products_models:
+- ChatGPT
+- Gemini
+- Trillionth Three
+- Trillionth Four
+- Gali C
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=mbvn6jqVE8o
 speaker: 视野环球财经
-tags:
-  - stock-market-analysis
-  - ai-development
-  - corporate-strategy
-  - investment-valuation
-  - tariff-policy
-title: 美股市场动态：Costco关税诉讼、AI巨头竞争、财报解析与特斯拉做空风云
-summary: 本期视野环球财经深入分析了美股市场多项重要动态。Costco就关税问题起诉美国政府，并探讨了其股价走势与估值。同时，OpenAI与谷歌在AI领域竞争白热化，亚马逊发布新款AI芯片。文章还详细解读了Marvell和CrowdStrike的最新财报，并关注了“大空头”Michael Burry可能再次做空特斯拉的逻辑及其历史教训，为投资者提供了全面的市场洞察和个股分析。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Sam Altman
-  - Michael Burry
-  - Elon Musk
-companies_orgs:
-  - Costco
-  - OpenAI
-  - Google
-  - Amazon
-  - Nvidia
-  - Marvell Technology
-  - CrowdStrike
-  - Tesla
-  - 美国政府
-  - 美国联邦巡回上诉法院
-  - 最高法院
-  - 美国证券交易委员会
-products_models:
-  - ChatGPT
-  - Gemini
-  - Trillionth Three
-  - Trillionth Four
-  - Gali C
-media_books:
-  - 《华尔街日报》
-  - The Information
-  - CNBC
 status: evergreen
+summary: 本期视野环球财经深入分析了美股市场多项重要动态。Costco就关税问题起诉美国政府，并探讨了其股价走势与估值。同时，OpenAI与谷歌在AI领域竞争白热化，亚马逊发布新款AI芯片。文章还详细解读了Marvell和CrowdStrike的最新财报，并关注了“大空头”Michael
+  Burry可能再次做空特斯拉的逻辑及其历史教训，为投资者提供了全面的市场洞察和个股分析。
+tags:
+- ai-development
+- corporate-strategy
+- investment
+- stock-market-analysis
+- tariff-policy
+title: 美股市场动态：Costco关税诉讼、AI巨头竞争、财报解析与特斯拉做空风云
 ---
+
 大家好，欢迎回到视野环球财经。现在是美东时间25年12月2号周二晚上的7点15分。今天的四大指数中，罗素指数独跌，纳指涨幅领先，整体成交量有所回升，看来大家正逐渐从感恩节及网络星期一的狂欢中醒来。今天的标普500指数有216只成分股上涨，286只下跌。标普11个板块中，只有科技、工业和通讯板块上涨，其余8个板块均下跌。由于今天没有重要的经济数据发布，我们将直接跟进一些个股的重要信息，并一同更新它们的位置和目前的走势。
 
 ### Costco对美政府提起关税诉讼及股价分析

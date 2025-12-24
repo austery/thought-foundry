@@ -1,65 +1,65 @@
 ---
-author: a16z
+area: tech-insights
+category: technology
+companies_orgs:
+- OpenAI
+- Google
+- a16z
+- GBT
+- Open Door
+- MIT
+- Kora
+- Perplexity
+- Harmonic Labs
+- Atlas Alamos National Labs
+- Roxet
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- YouTube
+people:
+- Sherman Woo
+- Sam Altman
+- Greg Brockman
+- Adam D'Angelo
+- Charlie Cheever
+- Dennis
+- Johnny Ho
+- Jerry Ma
+- Christina
+- Venot
+- Aditia
+- Mark
+products_models:
+- ChatGBT
+- GBT5
+- GBT4
+- GBT3
+- Gemini
+- Codeex
+- GPOSS
+- Dolly
+- Sora
+- Cursor
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=3x0jhpEj_6o
 speaker: a16z
-tags:
-  - model-specialization
-  - fine-tuning-api
-  - reinforcement-learning
-  - open-source-models
-  - agent-builder
-title: OpenAI 如何服务 8 亿周活跃用户：模型专业化与微调
-summary: OpenAI 的 Sherman Woo 深入探讨了公司如何通过 API 和 ChatGBT 等第一方应用服务 8 亿周活跃用户。讨论涵盖了模型专业化、微调 API 的演进、强化学习的应用，以及 OpenAI 在开放源代码和定价策略方面的思考。此外，还探讨了代理（Agent）构建器的设计理念，以及在不同行业中自动化工作流程的实践。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-people:
-  - Sherman Woo
-  - Sam Altman
-  - Greg Brockman
-  - Adam D'Angelo
-  - Charlie Cheever
-  - Dennis
-  - Johnny Ho
-  - Jerry Ma
-  - Christina
-  - Venot
-  - Aditia
-  - Mark
-companies_orgs:
-  - OpenAI
-  - Google
-  - a16z
-  - GBT
-  - Open Door
-  - MIT
-  - Kora
-  - Perplexity
-  - Harmonic Labs
-  - Atlas Alamos National Labs
-  - Roxet
-products_models:
-  - ChatGBT
-  - GBT5
-  - GBT4
-  - GBT3
-  - Gemini
-  - Codeex
-  - GPOSS
-  - Dolly
-  - Sora
-  - Cursor
-media_books:
-  - YouTube
 status: evergreen
+summary: OpenAI 的 Sherman Woo 深入探讨了公司如何通过 API 和 ChatGBT 等第一方应用服务 8 亿周活跃用户。讨论涵盖了模型专业化、微调
+  API 的演进、强化学习的应用，以及 OpenAI 在开放源代码和定价策略方面的思考。此外，还探讨了代理（Agent）构建器的设计理念，以及在不同行业中自动化工作流程的实践。
+tags:
+- agent
+- llm
+- model
+- reinforcement-learning
+title: OpenAI 如何服务 8 亿周活跃用户：模型专业化与微调
 ---
+
 ### OpenAI 的发展与 ChatGBT 的成功
 
 我们希望将 ChatGBT 作为一个第一方应用。

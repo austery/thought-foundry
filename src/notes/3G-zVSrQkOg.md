@@ -1,52 +1,51 @@
 ---
-author: 北美王路飞
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Polymarket
+- Turning Point USA
 date: '2025-11-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 曹操说
+people:
+- Donald Trump
+- Xi Jinping
+- Vladimir Putin
+- Pam Bondi
+- Kash Patel
+- Charlie Kirk
+- Yu Chao
+- Wong Kar-wai
+- Wang Zhian
+- San Ge Shui Qiang Shou
+- Chai Jing
+- Lele Farley
+- Da Sheng Jie
+- Wu Guoguang
+- Xu Chenggang
+- Su Jing Ayi
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=3G-zVSrQkOg
 speaker: 北美王路飞
-tags:
-  - us-election-2024
-  - campaign-strategy
-  - education-systems
-  - political-polarization
-  - overseas-chinese-identity
-title: 美国中期选举、教育差异与海外华人责任：一场深度对话
-summary: 本期节目深入探讨了美国中期选举中唐纳德·特朗普的政治策略及其潜在失利，并对比了中美教育体制在创新与基础培养上的差异。同时，节目还触及了导演王家卫的创作风格争议、固化系统与权力本质的关联。最后，连线听众提出的海外华人揭露中国时政恶行的道德义务，以及讨论中国“前现代”问题的必要性，主持人也回应了不讨论中国国内时政的原因，引发了对思辨能力和情绪价值的深入思考。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - cultural-critique
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Vladimir Putin
-  - Pam Bondi
-  - Kash Patel
-  - Charlie Kirk
-  - Yu Chao
-  - Wong Kar-wai
-  - Wang Zhian
-  - San Ge Shui Qiang Shou
-  - Chai Jing
-  - Lele Farley
-  - Da Sheng Jie
-  - Wu Guoguang
-  - Xu Chenggang
-  - Su Jing Ayi
-companies_orgs:
-  - Polymarket
-  - Turning Point USA
-products_models: []
-media_books:
-  - 曹操说
 status: evergreen
+summary: 本期节目深入探讨了美国中期选举中唐纳德·特朗普的政治策略及其潜在失利，并对比了中美教育体制在创新与基础培养上的差异。同时，节目还触及了导演王家卫的创作风格争议、固化系统与权力本质的关联。最后，连线听众提出的海外华人揭露中国时政恶行的道德义务，以及讨论中国“前现代”问题的必要性，主持人也回应了不讨论中国国内时政的原因，引发了对思辨能力和情绪价值的深入思考。
+tags:
+- campaign-strategy
+- chinese
+- system
+- us-election-2024
+title: 美国中期选举、教育差异与海外华人责任：一场深度对话
 ---
+
 ### 教育体制对比与创新思维
 
 中国在基础教育方面非常重视，其教育系统源自德国，因此非常注重培养**螺丝钉**（Rosstein: 指在大型组织中扮演固定、重复性角色的个体）。这是中美教育的一个显著区别。在优质基础教育的加成下，中国在**STEM**（Science, Technology, Engineering, Mathematics: 科学、技术、工程、数学领域）领域表现非常优秀。中国可能缺乏一些需要**新颖性**（novity: 创新性和独创性）和奇思妙想的顶尖人才，但在基础操作和实际操作上非常出色，这与中国的教育制度密切相关。培养创新思维需要打破常规，不追寻所谓的“正确答案”，而我们从小接受的教育模式往往限制了这种思维方式。

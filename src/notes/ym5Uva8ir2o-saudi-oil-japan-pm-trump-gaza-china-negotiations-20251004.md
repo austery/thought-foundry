@@ -1,32 +1,30 @@
 ---
-title: 沙特石油策略、日本新首相、川普和平计划与中美谈判深度解析
-summary: 本期节目深入分析了沙特在油价问题上配合川普的动机，日本新首相高市早苗对经济和外交的影响，川普加沙和平计划的进展，以及中美私下谈判中涉及万亿美元投资的动态。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- japan-politics
-- oil-price
-- saudi-arabia
-- trump-foreign-policy
-- us-china-relations
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: 2025-10-04
-author: LT視界
-speaker: LT視界
 draft: true
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: null
 source: https://www.youtube.com/watch?v=ym5Uva8ir2o
+speaker: LT視界
 status: evergreen
+summary: 本期节目深入分析了沙特在油价问题上配合川普的动机，日本新首相高市早苗对经济和外交的影响，川普加沙和平计划的进展，以及中美私下谈判中涉及万亿美元投资的动态。
+tags:
+- environment
+- politics
+- technology
+- trump-foreign-policy
+- us-china-relations
+title: 沙特石油策略、日本新首相、川普和平计划与中美谈判深度解析
 ---
+
 ### 今日新闻概览
 
 大家好。

@@ -1,33 +1,31 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs: []
 date: '2025-01-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Adam Brown
+- Stephen Hawking
+- Jacob Beckenstein
+- hawking-radiation
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=zfOYEMnpqdM
 speaker: Dwarkesh Patel
-tags:
-  - black-hole
-  - hawking-radiation
-  - energy-extraction
-  - material-science
-title: 为何太空电梯无法开采黑洞：与亚当·布朗的对话
-summary: 这段对话探讨了从黑洞中提取能量的理论可能性与实际限制。演讲者亚当·布朗解释了为何受限于材料科学和物理定律，通过太空电梯类比无法实现黑洞采矿。但他指出，黑洞作为一种能够突破重子数守恒的机制，有潜力用于实现接近100%质能转换效率的未来能源技术。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project: []
-people:
-  - Adam Brown
-  - Dwarkesh Patel
-  - Stephen Hawking
-  - Jacob Beckenstein
-companies_orgs: []
-products_models: []
-media_books: []
 status: evergreen
+summary: 这段对话探讨了从黑洞中提取能量的理论可能性与实际限制。演讲者亚当·布朗解释了为何受限于材料科学和物理定律，通过太空电梯类比无法实现黑洞采矿。但他指出，黑洞作为一种能够突破重子数守恒的机制，有潜力用于实现接近100%质能转换效率的未来能源技术。
+tags:
+- black-hole
+- energy
+- material-science
+title: 为何太空电梯无法开采黑洞：与亚当·布朗的对话
 ---
+
 ### 探索黑洞能源
 另一个我了解到你深入研究过的话题是，我们如何才能“开采”黑洞。这听起来很不可思议，但如果我们的后代耗尽了所有已知的能源、恒星和其他一切资源，黑洞可能会成为他们最后的关注点。那么，我们是否真的能从黑洞中获取能量呢？
 

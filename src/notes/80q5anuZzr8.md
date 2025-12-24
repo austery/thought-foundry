@@ -1,32 +1,29 @@
 ---
-title: IPO投资陷阱：为何多数投资者不应盲目追逐新股？
-summary: 本文深入剖析2021年美股IPO市场的疯狂现象，探讨企业IPO的深层动机、市场泡沫的成因及个人投资者面临的风险。文章强调信息不对称和高估值是IPO投资的主要障碍，建议投资者应保持耐心，避免盲目追逐新股。
 area: market-analysis
 category: finance
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - market-cycles
-tags:
-  - financial-risk
-  - ipo-investment
-  - market-analysis
-  - retail-investors
-  - stock-market-bubble
-people: []
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2021-11-28'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=80q5anuZzr8
+speaker: 一口新飯
 status: evergreen
+summary: 本文深入剖析2021年美股IPO市场的疯狂现象，探讨企业IPO的深层动机、市场泡沫的成因及个人投资者面临的风险。文章强调信息不对称和高估值是IPO投资的主要障碍，建议投资者应保持耐心，避免盲目追逐新股。
+tags:
+- financial-risk
+- investment
+- ipo-investment
+- market-analysis
+- stock-market-bubble
+title: IPO投资陷阱：为何多数投资者不应盲目追逐新股？
 ---
 
 ### 2021年IPO市场狂潮与泡沫警示

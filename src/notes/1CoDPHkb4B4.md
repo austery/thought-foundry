@@ -1,114 +1,114 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- Federal Open Market Committee
+- Federal Reserve
+- SpaceX
+- Rocket Lab
+- Robinhood Markets
+- Coinbase Global
+- MicroStrategy
+- Meta Platforms
+- NVIDIA Corporation
+- Wells Fargo Investment Institute
+- Decision Economics
+- Saudi Aramco
+- Anthropic
+- Oracle Corporation
+- Adobe Inc.
+- Broadcom Inc.
+- GameStop Corp.
+- CoreWeave
+- Nebius AI
+- Galaxy Digital
+- D-Wave Systems
+- Blue Origin
+- Amazon.com Inc.
+- Google
+- JPMorgan Chase & Co.
+- Goldman Sachs
+- Bank of America
+- Wells Fargo & Company
+- Citigroup Inc.
+- AeroVironment Inc.
+- Netflix Inc.
+- SoFi Technologies Inc.
+- Etsy Inc.
+- Carvana Co.
+- Advanced Micro Devices Inc.
+- Unity Technologies
+- Mastercard Inc.
+- PayPal Holdings Inc.
+- Nike Inc.
+- UiPath Inc.
+- SoundHound AI Inc.
+- Celsius Holdings Inc.
+- Roku Inc.
+- Moderna Inc.
+- Onos Technology
+- Lululemon Athletica Inc.
+- VF Corporation
+- AppLovin Corporation
+- Grab Holdings Limited
+- Sea Limited
+- Marathon Digital Holdings Inc.
+- CleanSpark Inc.
+- Zeta Global
+- Amcor plc
+- Applied Digital Corporation
+- Snowflake Inc.
 date: '2025-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Bloomberg
+- The Wall Street Journal
+- The Information
+people:
+- Jason
+- Elon Musk
+- Scott Ren
+- Alan Sinai
+- Donald Trump
+- Vlad Tenev
+- Chris Patel
+- Gavin Baker
+- Maryanne Lake
+- Jamie Dimon
+- Howard Marks
+- Ray Dalio
+- Cathie Wood
+- Masayoshi Son
+products_models:
+- Neutron
+- H200
+- Starlink
+- Gro
+- Photoshop
+- Gemini Flash
+project:
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=1CoDPHkb4B4
 speaker: Amit Kukreja
-tags:
-  - market-outlook
-  - crypto-markets
-  - fed-policy
-  - stock-analysis
-  - space-technology
-  - corporate-earnings
-title: 市场收盘：加密货币反弹、美联储会议前瞻及重点股票技术分析
-summary: 本期节目回顾了当日市场收盘情况，重点关注了加密货币在美联储公开市场委员会（FOMC）会议前夕的反弹。讨论了市场信号的复杂性，包括英伟达股价在利好消息下仍下跌的现象，以及潜在的“诱空”风险。节目深入探讨了美联储的降息预期、SpaceX首次公开募股（IPO）的传闻，并对以太坊、标普500、英伟达、Meta、特斯拉、Netflix、SoFi、Rocket Lab、Palantir、谷歌、苹果、博通、Carvana、AMD、Unity、万事达卡等多只股票进行了技术分析。此外，还探讨了太空数据中心这一创新概念及其对相关公司的潜在影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
-people:
-  - Amit Kukreja
-  - Jason
-  - Elon Musk
-  - Scott Ren
-  - Alan Sinai
-  - Donald Trump
-  - Vlad Tenev
-  - Chris Patel
-  - Gavin Baker
-  - Maryanne Lake
-  - Jamie Dimon
-  - Howard Marks
-  - Ray Dalio
-  - Cathie Wood
-  - Masayoshi Son
-companies_orgs:
-  - Federal Open Market Committee
-  - Federal Reserve
-  - SpaceX
-  - Rocket Lab
-  - Robinhood Markets
-  - Coinbase Global
-  - MicroStrategy
-  - Meta Platforms
-  - NVIDIA Corporation
-  - Wells Fargo Investment Institute
-  - Decision Economics
-  - Saudi Aramco
-  - Anthropic
-  - Oracle Corporation
-  - Adobe Inc.
-  - Broadcom Inc.
-  - GameStop Corp.
-  - CoreWeave
-  - Nebius AI
-  - Galaxy Digital
-  - D-Wave Systems
-  - Blue Origin
-  - Amazon.com Inc.
-  - Google
-  - JPMorgan Chase & Co.
-  - Goldman Sachs
-  - Bank of America
-  - Wells Fargo & Company
-  - Citigroup Inc.
-  - AeroVironment Inc.
-  - Netflix Inc.
-  - SoFi Technologies Inc.
-  - Etsy Inc.
-  - Carvana Co.
-  - Advanced Micro Devices Inc.
-  - Unity Technologies
-  - Mastercard Inc.
-  - PayPal Holdings Inc.
-  - Nike Inc.
-  - UiPath Inc.
-  - SoundHound AI Inc.
-  - Celsius Holdings Inc.
-  - Roku Inc.
-  - Moderna Inc.
-  - Onos Technology
-  - Lululemon Athletica Inc.
-  - VF Corporation
-  - AppLovin Corporation
-  - Grab Holdings Limited
-  - Sea Limited
-  - Marathon Digital Holdings Inc.
-  - CleanSpark Inc.
-  - Zeta Global
-  - Amcor plc
-  - Applied Digital Corporation
-  - Snowflake Inc.
-products_models:
-  - Neutron
-  - H200
-  - Starlink
-  - Gro
-  - Photoshop
-  - Gemini Flash
-media_books:
-  - Bloomberg
-  - The Wall Street Journal
-  - The Information
 status: evergreen
+summary: 本期节目回顾了当日市场收盘情况，重点关注了加密货币在美联储公开市场委员会（FOMC）会议前夕的反弹。讨论了市场信号的复杂性，包括英伟达股价在利好消息下仍下跌的现象，以及潜在的“诱空”风险。节目深入探讨了美联储的降息预期、SpaceX首次公开募股（IPO）的传闻，并对以太坊、标普500、英伟达、Meta、特斯拉、Netflix、SoFi、Rocket
+  Lab、Palantir、谷歌、苹果、博通、Carvana、AMD、Unity、万事达卡等多只股票进行了技术分析。此外，还探讨了太空数据中心这一创新概念及其对相关公司的潜在影响。
+tags:
+- corporate-earning
+- crypto-market
+- fed-policy
+- market-outlook
+- stock-analysis
+- technology
+title: 市场收盘：加密货币反弹、美联储会议前瞻及重点股票技术分析
 ---
+
 ### 市场收盘概览与加密货币反弹
 
 大家好，欢迎回到市场收盘节目。

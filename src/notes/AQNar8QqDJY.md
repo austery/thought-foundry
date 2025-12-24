@@ -1,32 +1,31 @@
 ---
-title: 特朗普的报复，中东和平协议，诺贝尔奖与气候危机：一周头条新闻回顾
-summary: 围绕特朗普的政治报复、以哈和平协议进展、诺贝尔和平奖得主揭晓、北极气候变化及文化热点等本周头条新闻的深度解读。
 area: personal-growth
 category: culture
-project:
-- cultural-critique
-tags:
-- climate-change
-- middle-east-peace
-- nobel-prize
-- pop-culture-news
-- trump-politics
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-10'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project:
+- cultural-critique
 series: ''
 source: https://www.youtube.com/watch?v=AQNar8QqDJY
+speaker: New York Times Podcasts
 status: evergreen
+summary: 围绕特朗普的政治报复、以哈和平协议进展、诺贝尔和平奖得主揭晓、北极气候变化及文化热点等本周头条新闻的深度解读。
+tags:
+- climate-change
+- culture
+- middle-east-peace
+- nobel-prize
+- politics
+title: 特朗普的报复，中东和平协议，诺贝尔奖与气候危机：一周头条新闻回顾
 ---
+
 ### 以色列与哈马斯达成协议，美国增派部队
 
 From the New York Times, it's The Headlines. I'm Tracy Mumford. Today's Friday, October 10th. Here's what we're covering.

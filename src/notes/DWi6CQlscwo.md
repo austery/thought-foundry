@@ -1,43 +1,43 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Micron
+- Samsung
+- SK Hynix
 date: '2024-04-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Sanjay Mehrotra
+- Mark Murphy
+- 李录
+- Mohnish Pabrai
+- Guy Spier
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=DWi6CQlscwo
 speaker: Shijun Tang
-tags:
-  - semiconductor-cycle
-  - capital-expenditure-cycles
-  - oligopoly-market-structure
-  - investor-sentiment-shift
-  - ai-driven-recovery
-title: 美光科技财报暴增与寡头垄断：一场AI驱动的半导体周期反转
-summary: 美光科技（Micron）在2024年Q1财报中营收增长23%、净利润转正，股价突破127美元。本文分析其DRAM与NAND闪存的寡头垄断结构、高CAPEX周期性调整，以及李录、Mohnish Pabrai等超级投资者的持仓变动对市场情绪的影响，揭示AI热潮如何提前触发半导体行业复苏。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
-people:
-  - Shijun Tang
-  - Sanjay Mehrotra
-  - Mark Murphy
-  - 李录
-  - Mohnish Pabrai
-  - Guy Spier
-companies_orgs:
-  - Micron
-  - Samsung
-  - SK Hynix
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 美光科技（Micron）在2024年Q1财报中营收增长23%、净利润转正，股价突破127美元。本文分析其DRAM与NAND闪存的寡头垄断结构、高CAPEX周期性调整，以及李录、Mohnish
+  Pabrai等超级投资者的持仓变动对市场情绪的影响，揭示AI热潮如何提前触发半导体行业复苏。
+tags:
+- capital-expenditure-cycle
+- driven
+- investor-sentiment-shift
+- market
+- semiconductor-cycle
+title: 美光科技财报暴增与寡头垄断：一场AI驱动的半导体周期反转
 ---
+
 ### 美光科技财报暴增与股价突破
 
 大家好，欢迎回到我的频道。最近美光科技（Micron）发布了最新的财报。要知道我住在澳洲，财报发布当天其实我在睡觉；等我第二天早上醒来，简直是被吓了一大跳——美光股价在盘后直接拉出一根“God Candle”（神之蜡烛），捅破了天际。我立刻在Twitter上表达了震惊。

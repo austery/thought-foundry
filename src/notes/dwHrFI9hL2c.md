@@ -1,61 +1,62 @@
 ---
-author: Darren聊美股
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Microsoft
+- 亚马逊
+- Google
+- Meta
+- 强生
+- 可口可乐
+- AT&T
+- 伯克希尔
+- Palantir
+- 特斯拉
+- Sofi
+- Hood
+- Nebius
+- RKLB
+- Hims
+- Oscar
+- BMNR
 date: '2025-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Seeking Alpha
+- CNN 恐惧贪婪指数
+people:
+- 黄仁勋
+- 巴菲特
+products_models:
+- Hopper
+- Ampere
+- Blackwell
+- H200
+- Alpha Picks
+project:
+- investment-strategy
+- us-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=dwHrFI9hL2c
 speaker: Darren聊美股
-tags:
-  - nvidia-earnings
-  - ai-supercycle
-  - investment-portfolio-management
-  - defensive-stocks
-  - market-volatility
-  - risk-management
-title: 英伟达财报深度解析与个人投资组合风险管理：防御股配置策略
-summary: 本文深度分析了英伟达强劲的季度财报、其对AI行业的影响以及股价剧烈波动的原因。作者反思了个人投资组合中存在的结构性风险，强调了重新平衡投资组合以降低波动性的必要性。文章最后推荐了五支防御股，并探讨了在市场下行期间保持投资纪律和良好心态的重要性。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - market-cycles
-people:
-  - 黄仁勋
-  - 巴菲特
-companies_orgs:
-  - Nvidia
-  - 微软
-  - 亚马逊
-  - 谷歌
-  - Meta
-  - 强生
-  - 可口可乐
-  - AT&T
-  - 伯克希尔
-  - Palantir
-  - 特斯拉
-  - Sofi
-  - Hood
-  - Nebius
-  - RKLB
-  - Hims
-  - Oscar
-  - BMNR
-products_models:
-  - Hopper
-  - Ampere
-  - Blackwell
-  - H200
-  - Alpha Picks
-media_books:
-  - Seeking Alpha
-  - CNN 恐惧贪婪指数
 status: evergreen
+summary: 本文深度分析了英伟达强劲的季度财报、其对AI行业的影响以及股价剧烈波动的原因。作者反思了个人投资组合中存在的结构性风险，强调了重新平衡投资组合以降低波动性的必要性。文章最后推荐了五支防御股，并探讨了在市场下行期间保持投资纪律和良好心态的重要性。
+tags:
+- investment-portfolio-management
+- market-volatility
+- nvidia-earning
+- risk-management
+- stock
+title: 英伟达财报深度解析与个人投资组合风险管理：防御股配置策略
+companies:
+- ai-supercycle
 ---
+
 ### 美股市场回顾与本期节目概要
 
 本周美股继续维持下跌走势，标普大盘单周下跌大约2%。下跌最明显的依然是**高beta值**（High Beta: 指股票相对于大盘波动性更高的特性）、高波动的成长股，其下跌幅度远超指数本身。本期节目将分为三个部分：首先，我们将深入探讨周三英伟达的财报，分析其对AI行业的意义以及股价在财报当天先暴涨后跳水的罕见反转行情；其次，我将分享自己在这次下跌中的真实感受，反思投资组合可能存在的结构性问题，并探讨如何审视风险来源；最后，我将推荐几支在大盘下跌时能有效充当保护作用的防御股。

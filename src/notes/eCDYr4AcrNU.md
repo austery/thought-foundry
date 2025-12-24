@@ -1,43 +1,43 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- Morgan Stanley
+- Brookfield
+- Citi
+- NHO
 date: '2024-12-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Dagens Næringsliv
+people:
+- Nicolai Tangen
+- James Gorman
+- Bruce Flatt
+- Jane Fraser
+products_models: []
+project:
+- investment-strategy
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=eCDYr4AcrNU
 speaker: Norges Bank Investment Management
-tags:
-  - fear-of-failure
-  - risk-taking
-  - organizational-culture
-  - leadership-development
-  - learning-from-mistakes
-title: 错误并非问题，对失败的恐惧才是症结
-summary: 挪威央行投资管理公司首席执行官尼古拉·坦根在演讲中强调，错误本身并非问题，对失败的恐惧才是阻碍成长和创新的症结。他分享了挪威石油基金曾因计算失误损失9亿挪威克朗的经历，并指出，一个害怕犯错的文化会扼杀风险承担、解决方案和学习机会。坦根引用摩根士丹利首席执行官詹姆斯·戈尔曼和花旗集团首席执行官简·弗雷泽的观点，主张领导者应营造一个允许犯错的环境，因为承认错误能建立信任，并带来宝贵的学习和进步。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - investment-strategy
-  - systems-thinking
-people:
-  - Nicolai Tangen
-  - James Gorman
-  - Bruce Flatt
-  - Jane Fraser
-companies_orgs:
-  - Norges Bank Investment Management
-  - Morgan Stanley
-  - Brookfield
-  - Citi
-  - NHO
-products_models: []
-media_books:
-  - In Good Company
-  - Dagens Næringsliv
 status: evergreen
+summary: 挪威央行投资管理公司首席执行官尼古拉·坦根在演讲中强调，错误本身并非问题，对失败的恐惧才是阻碍成长和创新的症结。他分享了挪威石油基金曾因计算失误损失9亿挪威克朗的经历，并指出，一个害怕犯错的文化会扼杀风险承担、解决方案和学习机会。坦根引用摩根士丹利首席执行官詹姆斯·戈尔曼和花旗集团首席执行官简·弗雷泽的观点，主张领导者应营造一个允许犯错的环境，因为承认错误能建立信任，并带来宝贵的学习和进步。
+tags:
+- failure
+- leadership-development
+- learning
+- organizational-culture
+- risk-taking
+title: 错误并非问题，对失败的恐惧才是症结
 ---
+
 ### 拥抱错误：从挪威石油基金的教训说起
 
 在座的各位，最近有没有人犯过错误？请举手。是的，我想到了。这里没有那么多完美无缺的人。

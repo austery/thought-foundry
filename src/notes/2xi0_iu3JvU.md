@@ -1,39 +1,37 @@
 ---
-author: 海淀拙大叔
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- 东财A股
+- 中金公司
+- 万科港股
+- 发改委
 date: '2024-10-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《阿甘股票市场论第二季》
+- 《阿根投研》
+products_models: []
+project:
+- investment-strategy
+- china-analysis
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=2xi0_iu3JvU
 speaker: 海淀拙大叔
-tags:
-  - investment-strategy
-  - market-cycles
-  - fiscal-stimulus
-  - tech-stock-selection
-  - star-market
-title: 《阿甘股票市场论第二季》：本轮行情投资主线深度解析
-summary: 本文深入探讨了当前市场行情的投资主线，通过总结历史、提取逻辑并进行预测验证的方法论，首先回顾并验证了前期对高金融杠杆行业的预测。接着，文章详细分析了下一轮行情主线股票的特征，即受益于财政刺激政策的周期性反转的科创板龙头科技股。文章从投资者风险偏好、龙头公司优势、科创板的政治、基本面、交易及制度逻辑，以及戴维斯双击效应等多维度阐述了选择依据，并指出半导体和计算机行业目前符合这些标准。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - china-analysis
-  - market-cycles
-people: []
-companies_orgs:
-  - 东财A股
-  - 中金公司
-  - 万科港股
-  - 发改委
-products_models: []
-media_books:
-  - 《阿甘股票市场论第二季》
-  - 《阿根投研》
 status: evergreen
+summary: 本文深入探讨了当前市场行情的投资主线，通过总结历史、提取逻辑并进行预测验证的方法论，首先回顾并验证了前期对高金融杠杆行业的预测。接着，文章详细分析了下一轮行情主线股票的特征，即受益于财政刺激政策的周期性反转的科创板龙头科技股。文章从投资者风险偏好、龙头公司优势、科创板的政治、基本面、交易及制度逻辑，以及戴维斯双击效应等多维度阐述了选择依据，并指出半导体和计算机行业目前符合这些标准。
+tags:
+- fiscal-stimulus
+- market
+- market-cycle
+- tech-stock-selection
+title: 《阿甘股票市场论第二季》：本轮行情投资主线深度解析
 ---
+
 ### 投资预测的方法论与前期验证
 
 《阿甘股票市场论第二季》探讨本轮行情的投资主线。投资本身是一门预测的艺术，而预测具有其方法论：首先总结历史，提取逻辑，然后根据逻辑进行预测，并最终通过验证来修正预测方法。

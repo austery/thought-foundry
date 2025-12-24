@@ -1,38 +1,37 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Anthropic
+- OpenAI
 date: '2024-03-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dario Amodei
+- Einstein
+- Cormac McCarthy
+products_models:
+- GPT-3
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=4hiXbxUnWd8
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - intelligence
-  - ai-capabilities
-  - creativity
-  - discovery
-title: 对智能的普遍误解：Anthropic CEO Dario Amodei 的见解
-summary: Anthropic CEO Dario Amodei 探讨了人工智能（AI）的发展，指出尽管缩放定律（scaling laws）可预测，但商业爆发和模型形态难以预料。他认为智能并非单一光谱，而是多维度、多领域的技能集合。AI 在受限写作等任务上表现出色，但缺乏复杂推理和纠错能力。Amodei 对比了模型规模与人脑，并指出 AI 虽拥有海量知识，但尚未产生重大科学发现，其创造力更偏向“普通创造力”。他认为，生物学等领域因知识密集型特点，AI 或许能加速发现，但目前模型仍需提升技能水平以实现知识的有效整合。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Dario Amodei
-  - Dwarkesh Patel
-  - Einstein
-  - Cormac McCarthy
-companies_orgs:
-  - Anthropic
-  - OpenAI
-products_models:
-  - GPT-3
-media_books: []
 status: evergreen
+summary: Anthropic CEO Dario Amodei 探讨了人工智能（AI）的发展，指出尽管缩放定律（scaling laws）可预测，但商业爆发和模型形态难以预料。他认为智能并非单一光谱，而是多维度、多领域的技能集合。AI
+  在受限写作等任务上表现出色，但缺乏复杂推理和纠错能力。Amodei 对比了模型规模与人脑，并指出 AI 虽拥有海量知识，但尚未产生重大科学发现，其创造力更偏向“普通创造力”。他认为，生物学等领域因知识密集型特点，AI
+  或许能加速发现，但目前模型仍需提升技能水平以实现知识的有效整合。
+tags:
+- creativity
+- discovery
+- intelligence
+- llm
+title: 对智能的普遍误解：Anthropic CEO Dario Amodei 的见解
 ---
+
 ### AI 发展与预测的挑战
 我感觉这些 **scaling laws**（缩放定律）一直非常可预测，但当你说“这些模型何时会爆发商业应用？它的形式会是什么样？模型是会独立于人类行事，还是与人类协同工作？”时，我感觉我预测这些事情的记录确实很糟糕。但同时放眼望去，我并没有看到谁的记录很出色。
 

@@ -1,50 +1,50 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: culture
+companies_orgs:
+- Wei Cheng Publishing
+- Ministry of the Interior
+- Vatican
 date: '2025-03-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《不要出生，是不是比较好？》
+- YouTube
+- 《美丽新世界》
+- 《进击的巨人》
+- 《论人的尊严》
+people:
+- Masahiro Morioka
+- SuperY
+- Hong Shih-Han
+- David Benatar
+- Schopenhauer
+- Nietzsche
+- Zeke
+- Donna Haraway
+- Aldous Huxley
+products_models: []
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=STGriTJuBLk
 speaker: 超級歪 SuperY
-tags:
-  - antinatalism
-  - birth-rate-decline
-  - family-dynamics
-  - societal-suffering
-  - gender-roles
-title: 不生育是文明演进的必然趋势？森岡正博与超级歪对谈反出生主义
-summary: 本场对谈中，森岡正博教授与YouTuber超级歪深入探讨了“反出生主义”哲学及其与台湾生育率下降的关联。森岡教授介绍了反出生主义的两种类型，并追溯了其哲学与社会根源。超级歪则分享了台湾年轻人不愿生育的经济、伦理等原因，并就“痛苦的标准”、育儿中的性别议题及未来家庭形式等问题与教授展开讨论。此次对话揭示了个人选择、社会压力与哲学思考在人类繁衍问题上的复杂交织。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - Masahiro Morioka
-  - SuperY
-  - Hong Shih-Han
-  - David Benatar
-  - Schopenhauer
-  - Nietzsche
-  - Zeke
-  - Donna Haraway
-  - Aldous Huxley
-companies_orgs:
-  - Wei Cheng Publishing
-  - Ministry of the Interior
-  - Vatican
-products_models: []
-media_books:
-  - 《不要出生，是不是比较好？》
-  - YouTube
-  - 《美丽新世界》
-  - 《进击的巨人》
-  - 《论人的尊严》
 status: evergreen
+summary: 本场对谈中，森岡正博教授与YouTuber超级歪深入探讨了“反出生主义”哲学及其与台湾生育率下降的关联。森岡教授介绍了反出生主义的两种类型，并追溯了其哲学与社会根源。超级歪则分享了台湾年轻人不愿生育的经济、伦理等原因，并就“痛苦的标准”、育儿中的性别议题及未来家庭形式等问题与教授展开讨论。此次对话揭示了个人选择、社会压力与哲学思考在人类繁衍问题上的复杂交织。
+tags:
+- antinatalism
+- dynamic
+- gender-role
+- rate
+- societal
+title: 不生育是文明演进的必然趋势？森岡正博与超级歪对谈反出生主义
 ---
+
 ### 开场致辞与书籍引介
 
 **主持人洪诗涵:** 各位好，我是卫城出版总编辑洪诗涵。今天非常开心能借台北国际书展的盛会，举办这场精彩而难得的对谈。卫城出版在去年同期出版了一本书，名为**《不要出生，是不是比较好？》**。这本书出版后反响热烈，因为它提出的问题，正是当下许多年轻人所关心的。本书作者森岡正博教授是日本早稻田大学人类科学系的教授，多年来致力于生命、死亡及相关哲学议题的研究。可以说，这本书是他多年研究此议题后的心得总结。

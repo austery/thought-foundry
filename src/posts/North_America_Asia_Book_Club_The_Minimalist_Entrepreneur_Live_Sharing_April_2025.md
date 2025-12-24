@@ -6,30 +6,30 @@ category: business
 project:
 - entrepreneurship
 tags:
-  - entrepreneurship
-  - 副业
-  - 社群
+- community
+- entrepreneurship
+- side-hustle
 people:
-  - Ray
-  - Dora
-  - Julian
-  - 麒麟
-  - Frank
-  - Alex
-  - 伊万
-  - Serena
-  - Alan
-  - 婷
-  - Victor
-  - Kayden
-  - 张硕
+- Ray
+- Dora
+- Julian
+- 麒麟
+- Frank
+- Alex
+- 伊万
+- Serena
+- Alan
+- 婷
+- Victor
+- Kayden
+- 张硕
 companies_orgs: []
 products_models: []
 media_books:
 - 读书会
 date: '2025-07-10'
 author: Lei
-speaker: '一口新饭读书会'
+speaker: 一口新饭读书会
 channel: null
 guest: ''
 insight: null
@@ -37,6 +37,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 **主讲人：** Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan,
 婷, Victor, Kayden, 张硕
 

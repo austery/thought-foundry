@@ -1,41 +1,41 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs:
+- 复旦大学老龄研究院
+- 复旦大学AI向善与数字养老研究中心
+- 腾讯研究院
 date: '2025-07-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《每日野兽》
+people:
+- 申琦
+- 陆诗语
+products_models:
+- 陪伴机器人
+- 机器嗅觉芯片
+project:
+- us-analysis
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=FGOKB1j_bhU
 speaker: 一席YiXi
-tags:
-  - digital-divide
-  - elderly-privacy
-  - technology-postponement-effect
-  - emotional-labor-in-tech
-  - intergenerational-communication
-title: AI如何对待正在变老的人：数字时代的尊严、孤独与技术后置效应
-summary: 申琦基于复旦大学团队的实地研究，揭示AI在养老场景中的真实困境：技术虽能提升效率，却常因设计忽视老年人情感需求、语言习惯与数字能力而造成伤害。真正的智能应学会‘等一等’，成为代际间的信使而非替代者。观察得很好，但是很多问题，在近期无解的，比如LLM对老年人友善，对人要嘘寒问暖；建立语料库，很有意义的活动。感觉就是人类价值对齐的那套。我考虑是否要帮助父母多用LLM。探讨AI技术在应对老龄化社会时的伦理挑战与人本关怀，强调技术应适应并尊重老年人的真实需求，而非制造新的数字障碍。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
-people:
-  - 申琦
-  - 陆诗语
-companies_orgs:
-  - 复旦大学老龄研究院
-  - 复旦大学AI向善与数字养老研究中心
-  - 腾讯研究院
-products_models:
-  - 陪伴机器人
-  - 机器嗅觉芯片
-media_books:
-  - 《每日野兽》
 status: evergreen
+summary: 申琦基于复旦大学团队的实地研究，揭示AI在养老场景中的真实困境：技术虽能提升效率，却常因设计忽视老年人情感需求、语言习惯与数字能力而造成伤害。真正的智能应学会‘等一等’，成为代际间的信使而非替代者。观察得很好，但是很多问题，在近期无解的，比如LLM对老年人友善，对人要嘘寒问暖；建立语料库，很有意义的活动。感觉就是人类价值对齐的那套。我考虑是否要帮助父母多用LLM。探讨AI技术在应对老龄化社会时的伦理挑战与人本关怀，强调技术应适应并尊重老年人的真实需求，而非制造新的数字障碍。
+tags:
+- canada
+- communication
+- digital
+- tech
+- technology
+title: AI如何对待正在变老的人：数字时代的尊严、孤独与技术后置效应
 ---
+
 ## 快速老龄化社会的挑战
 
 大家下午好，我是申琦，来自复旦大学老林研究院，也是复旦大学AI上善与数字养老研究中心团队的负责人。那么谈到**AI向善**和**数字养老**，大家可能对数字养老会有一个比较具象化的理解，比如说我们现在有很多可穿戴设备、有机器人。那么什么是AI上善呢？AI怎么能够上善呢？它又为什么要上善呢？我想今天就以AI如何对待正在变老的老人，来跟大家一起分享一下我们的研究。

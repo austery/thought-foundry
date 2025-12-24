@@ -1,36 +1,36 @@
 ---
-author: New York Times Podcasts
+area: tech-work
+category: ai-ml
+companies_orgs:
+- New York Times Podcasts
+- Wirecutter
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- gift-guide
+people:
+- Kyra
+- Sam Altman
+products_models:
+- GPT-4
+- Libro FM
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=t3-dyAIiBg8
 speaker: New York Times Podcasts
-tags:
-  - last-minute-gift
-  - holiday-shopping
-  - subscription-box
-  - gift-guide
-title: 临近节日：无需恐慌的礼物购买指南！
-summary: 纽约时报Wirecutter团队分享了最后的礼物购买建议，包括线上线下渠道、订阅服务等，帮你轻松应对临时购礼需求。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Kyra
-  - Sam Altman
-companies_orgs:
-  - New York Times Podcasts
-  - Wirecutter
-products_models:
-  - GPT-4
-  - Libro FM
-media_books: []
 status: evergreen
+summary: 纽约时报Wirecutter团队分享了最后的礼物购买建议，包括线上线下渠道、订阅服务等，帮你轻松应对临时购礼需求。
+tags:
+- code
+- financial
+- last-minute-gift
+title: 临近节日：无需恐慌的礼物购买指南！
 ---
+
 ### 礼物购买的特殊性
 主持人Kyra与Wirecutter团队的高级作家Sam Shay探讨了临近节日的礼物购买策略，尤其针对那些突发情况下的需求。Sam表示，很多人在准备礼物时容易陷入恐慌，会不计成本地购买一些并不合适的商品。
 

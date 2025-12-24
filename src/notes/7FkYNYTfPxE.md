@@ -1,68 +1,68 @@
 ---
-author: LT視界
+area: society-systems
+category: geopolitics
+companies_orgs:
+- NATO
+- European Union
+- G7
+- 中国国家安全局
+- 中国国民党
+- 美联储
+- 白宫
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+- 市场观察
+- 路透社
+- 今日印度
+- 凤凰卫视
+- 《纽约时报》
+- 《明镜周刊》
+- 《经济学人》
+- 《金融时报》
+- 第一财经
+people:
+- Donald Trump
+- Vladimir Putin
+- Volodymyr Zelensky
+- Emmanuel Macron
+- Olaf Scholz
+- Alexander Stubb
+- Donald Tusk
+- Giorgia Meloni
+- Jens Stoltenberg
+- Harry Kerwin
+- Marco Rubio
+- Steven Mnuchin
+- Xi Jinping
+- Eric Chu
+- Li Dewei
+- Jared Kushner
+- Witkoff
+- Dmitry Medvedev
+products_models: []
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=7FkYNYTfPxE
 speaker: LT視界
-tags:
-  - us-midterm-elections
-  - geopolitical-shifts
-  - us-china-strategy
-  - market-sentiment
-  - international-aid
-title: 中美关系新平衡：中国对特朗普的战略判断与全球多维挑战
-summary: 本期节目深入探讨了当前全球多维度的复杂局势。从美国中期选举对资本市场的影响规律，到乌克兰战局的最新进展及欧洲内部对援乌方案的分歧，再到香港洪福苑火灾事件折射出的官民对立。节目还分析了国民党主席郑立文对两岸关系的看法，以及人民币汇率的波动。核心聚焦于中美关系的微妙转折，揭示了中国对特朗普政府的战略判断，认为其存在可利用的弱点，并探讨了这种新平衡可能带来的机遇与风险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Vladimir Putin
-  - Volodymyr Zelensky
-  - Emmanuel Macron
-  - Olaf Scholz
-  - Alexander Stubb
-  - Donald Tusk
-  - Giorgia Meloni
-  - Jens Stoltenberg
-  - Harry Kerwin
-  - Marco Rubio
-  - Steven Mnuchin
-  - Xi Jinping
-  - Eric Chu
-  - Li Dewei
-  - Jared Kushner
-  - Witkoff
-  - Dmitry Medvedev
-companies_orgs:
-  - NATO
-  - European Union
-  - G7
-  - 中国国家安全局
-  - 中国国民党
-  - 美联储
-  - 白宫
-products_models: []
-media_books:
-  - 《华尔街日报》
-  - 市场观察
-  - 路透社
-  - 今日印度
-  - 凤凰卫视
-  - 《纽约时报》
-  - 《明镜周刊》
-  - 《经济学人》
-  - 《金融时报》
-  - 第一财经
 status: evergreen
+summary: 本期节目深入探讨了当前全球多维度的复杂局势。从美国中期选举对资本市场的影响规律，到乌克兰战局的最新进展及欧洲内部对援乌方案的分歧，再到香港洪福苑火灾事件折射出的官民对立。节目还分析了国民党主席郑立文对两岸关系的看法，以及人民币汇率的波动。核心聚焦于中美关系的微妙转折，揭示了中国对特朗普政府的战略判断，认为其存在可利用的弱点，并探讨了这种新平衡可能带来的机遇与风险。
+tags:
+- geopolitical
+- geopolitical-shift
+- international
+- market-sentiment
+- strategy
+title: 中美关系新平衡：中国对特朗普的战略判断与全球多维挑战
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月4日，我们首先来了解今天的财经头条。
 
 ### 美国中期选举与资本市场：百年数据揭示的规律

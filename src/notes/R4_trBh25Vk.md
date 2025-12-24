@@ -1,66 +1,66 @@
 ---
-author: TED
+area: society-systems
+category: culture
+companies_orgs:
+- Meta
+- YouTube
+- IMG
+- Visa
+- Google
+- FIFA
+- NCAA
+- UEFA
+- Netflix
+- Arsenal
+- Liverpool
+- India Women’s Cricket
+- WNBA
+- National Women's Soccer League
+- ESPN
+- The Athletic
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Sports Geek
+- British Vogue
+people:
+- Kate Johnson
+- Christine Sinclair
+- Cristiano Ronaldo
+- Lionel Messi
+- Gianni Infantino
+- Ilona Maher
+- Logan Hackett
+- Sean Callanan
+products_models:
+- iPhone
+- Hotmail
+- Instagram
+- TikTok
+- Gemini
+- ChatGPT
+project:
+- cultural-critique
+- systems-thinking
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=R4_trBh25Vk
 speaker: TED
-tags:
-  - women-s-sports
-  - media-bias
-  - algorithmic-bias
-  - discoverability
-  - underinvestment-cycle
-  - female-leadership
-title: 女性体育的蓬勃未来：打破算法偏见与投资不足的恶性循环
-summary: 本文探讨了女性体育在数字时代面临的挑战与机遇。作者通过个人经历和数据指出，算法偏见导致女性体育内容在日常信息流中“不可见”，从而形成“投资不足的恶性循环”，阻碍了女性运动员的发展和未来女性领导力的培养。文章呼吁媒体、品牌、运动员和粉丝共同努力，利用新技术（如AI）和创新模式，主动提升女性体育的可见性，共同构建一个更公平、更具包容性的体育未来。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-  - ai-impact-analysis
-people:
-  - Kate Johnson
-  - Christine Sinclair
-  - Cristiano Ronaldo
-  - Lionel Messi
-  - Gianni Infantino
-  - Ilona Maher
-  - Logan Hackett
-  - Sean Callanan
-companies_orgs:
-  - Facebook
-  - YouTube
-  - IMG
-  - Visa
-  - Google
-  - FIFA
-  - NCAA
-  - UEFA
-  - Netflix
-  - Arsenal
-  - Liverpool
-  - India Women’s Cricket
-  - WNBA
-  - National Women's Soccer League
-  - ESPN
-  - The Athletic
-products_models:
-  - iPhone
-  - Hotmail
-  - Instagram
-  - TikTok
-  - Gemini
-  - ChatGPT
-media_books:
-  - Sports Geek
-  - British Vogue
 status: evergreen
+summary: 本文探讨了女性体育在数字时代面临的挑战与机遇。作者通过个人经历和数据指出，算法偏见导致女性体育内容在日常信息流中“不可见”，从而形成“投资不足的恶性循环”，阻碍了女性运动员的发展和未来女性领导力的培养。文章呼吁媒体、品牌、运动员和粉丝共同努力，利用新技术（如AI）和创新模式，主动提升女性体育的可见性，共同构建一个更公平、更具包容性的体育未来。
+tags:
+- bias
+- cycle
+- female-leadership
+- history
+- media
+- society
+title: 女性体育的蓬勃未来：打破算法偏见与投资不足的恶性循环
 ---
+
 ### 引言：科技变迁与女性体育的“不可见”
 
 奥运会一直是我反思世界变化速度的一个触点。

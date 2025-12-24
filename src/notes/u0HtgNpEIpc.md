@@ -1,77 +1,78 @@
 ---
-author: INDIGO 数字镜像
+area: market-analysis
+category: business
+companies_orgs:
+- Tesla
+- SpaceX
+- xAI
+- X (formerly Twitter)
+- Warner Bros. Studios
+- Apple
+- Intel
+- IBM
+- CoreWeave
+- Polymarket
+- Lemonade
+- Waymo
+- Blue Origin
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Elon Musk (biography)
+- Universe 25 (experiment)
+people:
+- Elon Musk
+- Andrej Karpathy
+- Howard Marks
+- Donald Trump
+- Steve Jobs
+- Jeff Bezos
+- Vitalik Buterin
+- 李飞飞
+products_models:
+- Cybercab
+- Optimus
+- FSD (Full Self-Driving)
+- Dojo
+- AI5 (Tesla Chip)
+- Model S
+- Model X
+- Model 3
+- Model Y
+- Cybertruck
+- SEMI
+- Starlink
+- Neuralink
+- Hardware 3
+- Hardware 4
+- iPhone
+- Mac
+- A-series chip
+- M-series chip
+- Figma
+- Circle
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=u0HtgNpEIpc
 speaker: INDIGO 数字镜像
-tags:
-  - sustainable-abundance
-  - rate-limiting-factor
-  - vertical-integration
-  - full-self-driving
-  - robotaxi-deployment
-title: 特斯拉股东大会深度复盘：马斯克的终极赌注与“可持续富足”的未来
-summary: 亲历特斯拉股东大会的 CyberCat Leo 深度复盘现场见闻。文章探讨了马斯克天价薪酬计划背后的逻辑，分析了特斯拉独特的“粉丝文化”股东群体。核心内容聚焦于特斯拉从汽车公司向 AI 公司转型的宏大愿景——“可持续的富足”，详解了 FSD 与 Robotaxi 的技术临界点、规模化挑战，以及 Optimus 机器人和自研芯片（AI5）在垂直整合战略中的关键作用。最后，对话延伸至科技发展与投资周期，并思考在自动化和物质极大丰富的未来，人类存在的意义这一终极问题。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Elon Musk
-  - Andrej Karpathy
-  - Howard Marks
-  - Donald Trump
-  - Steve Jobs
-  - Jeff Bezos
-  - Vitalik Buterin
-  - 李飞飞
-companies_orgs:
-  - Tesla
-  - SpaceX
-  - xAI
-  - X (formerly Twitter)
-  - Warner Bros. Studios
-  - Apple
-  - Intel
-  - IBM
-  - CoreWeave
-  - Polymarket
-  - Lemonade
-  - Waymo
-  - Blue Origin
-products_models:
-  - Cybercab
-  - Optimus
-  - FSD (Full Self-Driving)
-  - Dojo
-  - AI5 (Tesla Chip)
-  - Model S
-  - Model X
-  - Model 3
-  - Model Y
-  - Cybertruck
-  - SEMI
-  - Starlink
-  - Neuralink
-  - Hardware 3
-  - Hardware 4
-  - iPhone
-  - Mac
-  - A-series chip
-  - M-series chip
-  - Figma
-  - Circle
-media_books:
-  - Elon Musk (biography)
-  - Universe 25 (experiment)
 status: evergreen
+summary: 亲历特斯拉股东大会的 CyberCat Leo 深度复盘现场见闻。文章探讨了马斯克天价薪酬计划背后的逻辑，分析了特斯拉独特的“粉丝文化”股东群体。核心内容聚焦于特斯拉从汽车公司向
+  AI 公司转型的宏大愿景——“可持续的富足”，详解了 FSD 与 Robotaxi 的技术临界点、规模化挑战，以及 Optimus 机器人和自研芯片（AI5）在垂直整合战略中的关键作用。最后，对话延伸至科技发展与投资周期，并思考在自动化和物质极大丰富的未来，人类存在的意义这一终极问题。
+tags:
+- financial
+- full-self-driving
+- integration
+- llm
+- rate
+title: 特斯拉股东大会深度复盘：马斯克的终极赌注与“可持续富足”的未来
 ---
+
 ### 序言：在市场动荡中为信仰充值
 
 **Indigo:** 欢迎回到 Indigo Talk，我们很快又把 CyberCat Leo 邀请回来了。我记得上期节目我说我们尽快再聊一期，正好市场给机会了。首先我说我们下一次约，肯定是要在股市有动荡的时候；其次，正好 CyberCat 去了特斯拉的股东大会，我也很想约他聊聊这次大会带来的新看法，尤其是关于埃隆·马斯克（Elon Musk）非常大的一个新薪酬计划。我们想先听一下 CyberCat 在现场的感受怎么样？

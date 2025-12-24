@@ -1,37 +1,36 @@
 ---
-author: 天下文化
+area: society-thinking
+category: psychology
+companies_orgs:
+- J.C. Penney
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金钱心理学》
+- 《雪球》
+- 《长期买进》
+people:
+- 丹艾瑞丽
+- 杰夫克莱斯勒
+- 巴菲特
+products_models: []
+project:
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=8pyTfFOsA_w
 speaker: 天下文化
-tags:
-  - psychology-of-money
-  - opportunity-cost
-  - psychological-bias
-  - spending-habits
-title: 《金钱心理学》：理解金钱的真相与非理性消费
-summary: 本书解读《金钱心理学》，揭示金钱并非理性存在，消费常受心理偏误影响。强调金钱是机会成本，应理解其真相，识别折扣陷阱、比较心理等非理性行为，并通过减少诱惑、设定目标等方式驾驭金钱，实现未来选择权与幸福。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-thinking
-project:
-  - investment-strategy
-people:
-  - 丹艾瑞丽
-  - 杰夫克莱斯勒
-  - 巴菲特
-companies_orgs:
-  - J.C. Penney
-products_models: []
-media_books:
-  - 《金钱心理学》
-  - 《雪球》
-  - 《长期买进》
 status: evergreen
+summary: 本书解读《金钱心理学》，揭示金钱并非理性存在，消费常受心理偏误影响。强调金钱是机会成本，应理解其真相，识别折扣陷阱、比较心理等非理性行为，并通过减少诱惑、设定目标等方式驾驭金钱，实现未来选择权与幸福。
+tags:
+- bias
+- opportunity-cost
+- psychology
+title: 《金钱心理学》：理解金钱的真相与非理性消费
 ---
+
 ### 引言与书籍介绍
 
 大家好，我是郝雪郝哥，欢迎来到天下文化播客读书单元。今天郝哥要介绍一本非常棒的书，叫《金钱心理学》。他的副标题是‘打破你对金钱的迷思，学会聪明花费’。很多人对财商或金钱相关的书籍都不陌生。但郝哥看完这本书后，觉得其中有几个非常重要的观念值得跟大家分享。作者是**丹艾瑞丽**（Dan Ariely）与**杰夫克莱斯勒**（Jeff Kreisler）合作，尤其是**丹艾瑞丽**老师，他本身是行为经济学的专家。行为经济学让我们知道，花钱这件事从来不是一件理性的事情。书中特别提到，我们通常都以为自己在理性花钱。其实每一份花费都很容易被**心理偏误**（Psychological Bias）带着走。打个比方，书中一开始提到去赌场。很多时候我们在赌场就会失去理智，很大方地花掉筹码。事实上，网站上倒数计时的特价活动，以及信用卡带来的‘无痛’花钱感，都会影响我们。有时像订阅式花费，明知道该退订，却总是忘了取消自动扣款，这就是我们与金钱之间的一些**心理偏误**。作者丹艾瑞丽在这本书里告诉我们，真正的目标是：‘花的明白，省得安心’。所以，不要让钱来控制我们。学习用脑袋和荷包对话，做一个聪明又自在花钱的人。

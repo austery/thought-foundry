@@ -1,58 +1,57 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Federal Reserve
+- Bank of Japan
+- People's Bank of China
+- Supreme Court
+- ASML
+- TSMC
+- BYD
+- Lianhe Zaobao
+- Deutsche Welle
+- Reuters
+- The Wall Street Journal
+- CBS
+- CCP
 date: '2025-12-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 1977 International Emergency Economic Powers Act
+- 1962 Trade Expansion Act Section 232
+- 1974 Trade Act Section 301
+people:
+- Donald Trump
+- Kevin Hassett
+- Nicolás Maduro
+- 马萨多
+- Eric Lin
+- Lee Hsien Loong
+- 沈志斌
+- 于先生
+- 黄先生
+- xi-jinping
+products_models:
+- GDP
+- EUV lithography machine
+project:
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=2hXbl_aEwTk
 speaker: LT視界
-tags:
-  - xi-jinping
-  - china-economy
-  - geopolitics
-  - supreme-court
-  - trade-war
-title: 习近平五大迷思致中国加速衰败；美最高法院审理川普关税案；委内瑞拉油轮被扣押影响中国债权；ASML光刻机复制论遭专家驳斥；中国民众经济痛感加剧
-summary: 本期节目深入剖析了习近平执政的五大迷思及其对中国经济与国际关系的负面影响，指出中国正走向加速衰败。同时关注美国最高法院对川普关税政策的裁决风险、委内瑞拉油轮被扣押对中国巨额债权的影响，以及专家驳斥中国复制ASML光刻机的传闻。节目还呈现了普通中国民众在经济低迷中的切肤之痛，包括农民工讨薪潮和对未来不确定性的担忧。
-insight: ''
-draft: true
-series: ''
-category: politics-society
-area: society-thinking
-project:
-  - china-analysis
-people:
-  - Donald Trump
-  - Kevin Hassett
-  - Nicolás Maduro
-  - 马萨多
-  - Eric Lin
-  - Lee Hsien Loong
-  - 沈志斌
-  - 于先生
-  - 黄先生
-companies_orgs:
-  - Federal Reserve
-  - Bank of Japan
-  - People's Bank of China
-  - Supreme Court
-  - ASML
-  - TSMC
-  - BYD
-  - Lianhe Zaobao
-  - Deutsche Welle
-  - Reuters
-  - The Wall Street Journal
-  - CBS
-  - CCP
-products_models:
-  - GDP
-  - EUV lithography machine
-media_books:
-  - 1977 International Emergency Economic Powers Act
-  - 1962 Trade Expansion Act Section 232
-  - 1974 Trade Act Section 301
 status: evergreen
+summary: 本期节目深入剖析了习近平执政的五大迷思及其对中国经济与国际关系的负面影响，指出中国正走向加速衰败。同时关注美国最高法院对川普关税政策的裁决风险、委内瑞拉油轮被扣押对中国巨额债权的影响，以及专家驳斥中国复制ASML光刻机的传闻。节目还呈现了普通中国民众在经济低迷中的切肤之痛，包括农民工讨薪潮和对未来不确定性的担忧。
+tags:
+- canada
+- china-economy
+- trade-war
+title: 习近平五大迷思致中国加速衰败；美最高法院审理川普关税案；委内瑞拉油轮被扣押影响中国债权；ASML光刻机复制论遭专家驳斥；中国民众经济痛感加剧
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月21日。
 
 ### 财经头条

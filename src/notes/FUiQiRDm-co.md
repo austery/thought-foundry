@@ -1,70 +1,70 @@
 ---
-author: Money or Life 美股频道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Money or Life 美股频道
+- YouTube
+- B站
+- Patreon
+- Interactive Brokers
+- 富途moomoo
+- Berkshire Hathaway
+- Rocket Lab
+- Joby Aviation
+- Nvidia
+- Tesla
+- AMD
+- Root
+- Oklo Inc.
+- Anduril Industries
+- Robinhood
+- Coinbase
+- Circle
+- MicroStrategy
+- Eli Lilly
+- AgEagle Aerial Systems
+- Archer Aviation
+- SoFi Technologies
+- Opendoor Technologies
+- Google
 date: '2025-09-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《富足人生》
+- 《极简退休》
+- 《百万富翁的教师》
+- 《金钱心理学》
+- 《不确定性解决方案》
+- 《太空商业时代》
+- X平台
+people:
+- Ace
+- Helen
+- Warren Buffett
+products_models:
+- Mag 7
+- QQQ
+- VOO
+project:
+- investment-strategy
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=FUiQiRDm-co
 speaker: Money or Life 美股频道
-tags:
-  - investment-strategy
-  - asset-allocation
-  - full-time-blogger
-  - risk-management
-  - long-term-investing
-title: 与订阅者对话：我的投资哲学、资产配置与全职博主之路
-summary: 本期节目是Money or Life美股频道达成五万订阅的特别问答环节。主持人Ace分享了他在投资领域的书籍推荐、仓位控制策略、对AI和核能板块的看法，以及如何进行资产配置。他还深入探讨了全职博主的生活感受、公司研究方法、期权操作的谨慎态度，并对特斯拉、Rocket Lab等持仓股的风险与回报进行了个人解读。节目中，Ace强调了长期投资、独立思考和持续学习的重要性，并分享了他对虚拟货币和新兴科技行业的看法。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: personal-systems
-project:
-  - investment-strategy
-  - personal-growth-lab
-people:
-  - Ace
-  - Helen
-  - Warren Buffett
-companies_orgs:
-  - Money or Life 美股频道
-  - YouTube
-  - B站
-  - Patreon
-  - Interactive Brokers
-  - 富途moomoo
-  - Berkshire Hathaway
-  - Rocket Lab
-  - Joby Aviation
-  - Nvidia
-  - Tesla
-  - AMD
-  - Root
-  - Oklo Inc.
-  - Anduril Industries
-  - Robinhood
-  - Coinbase
-  - Circle
-  - MicroStrategy
-  - Eli Lilly
-  - AgEagle Aerial Systems
-  - Archer Aviation
-  - SoFi Technologies
-  - Opendoor Technologies
-  - Google
-products_models:
-  - Mag 7
-  - QQQ
-  - VOO
-media_books:
-  - 《富足人生》
-  - 《极简退休》
-  - 《百万富翁的教师》
-  - 《金钱心理学》
-  - 《不确定性解决方案》
-  - 《太空商业时代》
-  - X平台
 status: evergreen
+summary: 本期节目是Money or Life美股频道达成五万订阅的特别问答环节。主持人Ace分享了他在投资领域的书籍推荐、仓位控制策略、对AI和核能板块的看法，以及如何进行资产配置。他还深入探讨了全职博主的生活感受、公司研究方法、期权操作的谨慎态度，并对特斯拉、Rocket
+  Lab等持仓股的风险与回报进行了个人解读。节目中，Ace强调了长期投资、独立思考和持续学习的重要性，并分享了他对虚拟货币和新兴科技行业的看法。
+tags:
+- asset-allocation
+- long-term-investing
+- risk-management
+- time
+title: 与订阅者对话：我的投资哲学、资产配置与全职博主之路
 ---
+
 ### 开场与感谢
 
 大家好，欢迎来到Money or Life美股频道，我是Ace。今天这期节目非常轻松，因为这是Money or Life美股频道YouTube达成五万订阅的第二期特别节目。我将回答订阅者朋友们在不同平台向我提出的一些私人或投资方面的问题。这期节目非常轻松，我的穿着也是我平时在家里研究公司时最常穿的背心，因为新加坡确实非常热。总之，今天算是把我最真实的一面展示给大家。

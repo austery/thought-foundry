@@ -1,63 +1,60 @@
 ---
-author: 记者易速利
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Fox News
+- CNN
+- Tesla
+- FBI
+- ICE
+- ATF
+- DEA
+- National Guard
 date: '2025-10-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Katie Miller Podcast
+- The Five
+- Rolling Stone
+- 《论暴政》
+people:
+- Stephen Miller
+- Alexandria Ocasio-Cortez
+- Donald Trump
+- Katie Miller
+- Jesse Watters
+- Mike Tyson
+- Mike Pence
+- Pam Bondi
+- Katy Britt
+- Charlie Kirk
+- J.B. Pritzker
+- Richard
+- Ellen
+- Jessica
+- Timothy Snyder
+- Lenin
+- Stalin
+- George H.W. Bush
+- Nixon
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=TLfz5Z1P3XM
 speaker: 记者易速利
-tags:
-  - us-politics
-  - political-polarization
-  - immigration-policy
-  - executive-power
-  - campaign-strategy
-title: 斯蒂芬·米勒：特朗普核心幕僚的权力、争议与未来影响
-summary: 本文深入探讨了斯蒂芬·米勒作为唐纳德·特朗普核心顾问的重要角色，分析了他在移民政策上的影响力及其“全力办成”的工作理念。文章详细描述了他与亚历山德里娅·奥卡西奥-科尔特斯等人的公开冲突，以及因安全担忧导致其家庭住宅挂牌出售的事件。同时，文章还审视了历史学家蒂莫西·斯奈德将其与斯大林相提并论的争议，强调了米勒对美国政治的持续影响及其在“让美国再次伟大”运动未来传承中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Stephen Miller
-  - Alexandria Ocasio-Cortez
-  - Donald Trump
-  - Katie Miller
-  - Jesse Watters
-  - Mike Tyson
-  - Mike Pence
-  - Pam Bondi
-  - Katy Britt
-  - Charlie Kirk
-  - J.B. Pritzker
-  - Richard
-  - Ellen
-  - Jessica
-  - Timothy Snyder
-  - Lenin
-  - Stalin
-  - George H.W. Bush
-  - Nixon
-companies_orgs:
-  - Fox News
-  - CNN
-  - Tesla
-  - FBI
-  - ICE
-  - ATF
-  - DEA
-  - National Guard
-products_models: []
-media_books:
-  - The Katie Miller Podcast
-  - The Five
-  - Rolling Stone
-  - 《论暴政》
 status: evergreen
+summary: 本文深入探讨了斯蒂芬·米勒作为唐纳德·特朗普核心顾问的重要角色，分析了他在移民政策上的影响力及其“全力办成”的工作理念。文章详细描述了他与亚历山德里娅·奥卡西奥-科尔特斯等人的公开冲突，以及因安全担忧导致其家庭住宅挂牌出售的事件。同时，文章还审视了历史学家蒂莫西·斯奈德将其与斯大林相提并论的争议，强调了米勒对美国政治的持续影响及其在“让美国再次伟大”运动未来传承中的关键作用。
+tags:
+- campaign-strategy
+- executive-power
+- immigration-policy
+title: 斯蒂芬·米勒：特朗普核心幕僚的权力、争议与未来影响
 ---
 
 ### 斯蒂芬·米勒与政治冲突

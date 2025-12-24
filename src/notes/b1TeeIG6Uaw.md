@@ -1,73 +1,70 @@
 ---
-author: Dwarkesh Patel
+area: tech-work
+category: ai-ml
+companies_orgs:
+- UC San Diego
+- OpenAI
+- 清华大学
+- 微信
+- 腾讯
+- DeepSeek
+- High-Flyer
+- 百度
+- 华为
+- 小米
+- 比亚迪
+- 宁德时代
+- 大疆
+- 红杉资本
+- 国家发展和改革委员会
+- 工业和信息化部
+- 国家外汇管理局
 date: '2025-05-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《罗伯特·摩西传》
+- Arthur Kroeber的著作
+people:
+- Victor Shih
+- Xi Jinping
+- 李克强
+- 马兴瑞
+- 张国清
+- 丁薛祥
+- 斯大林
+- 托洛茨基
+- 毛泽东
+- 江青
+- 周永康
+- 胡锦涛
+- 薄熙来
+- 何立峰
+- Robert Moses
+- James Kung
+- Vladimir Putin
+products_models:
+- Grok
+- DeepSeek
+- Paxlovid
+- mRNA疫苗
+project:
+- ai-impact-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=b1TeeIG6Uaw
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - prompt-engineering
-  - chinese-politics
-  - economic-policy
-  - authoritarianism
-title: 施维德：深度解析习近平的AGI策略、中国债务危机与政治局运作
-summary: 本期播客中，施维德教授深入探讨了中国政治经济的多个核心议题，包括中央与地方财政权力演变、政治局成员的专业背景与政治手腕、习近平的微观管理风格及其对政策制定的影响。他还分析了中国对人工智能（AI）发展的独特策略，特别是对AI内容审查的偏执，以及地方政府债务危机、国家主导的金融体系与经济增长模式。最后，施维德教授对中国经济未来增长和政治接班问题提出了独到见解。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-  - china-analysis
-people:
-  - Victor Shih
-  - Dwarkesh Patel
-  - 习近平
-  - 李克强
-  - 马兴瑞
-  - 张国清
-  - 丁薛祥
-  - 斯大林
-  - 托洛茨基
-  - 毛泽东
-  - 江青
-  - 周永康
-  - 胡锦涛
-  - 薄熙来
-  - 何立峰
-  - Robert Moses
-  - James Kung
-  - 普京
-companies_orgs:
-  - UC San Diego
-  - OpenAI
-  - 清华大学
-  - 微信
-  - 腾讯
-  - DeepSeek
-  - High-Flyer
-  - 百度
-  - 华为
-  - 小米
-  - 比亚迪
-  - 宁德时代
-  - 大疆
-  - 红杉资本
-  - 国家发展和改革委员会
-  - 工业和信息化部
-  - 国家外汇管理局
-products_models:
-  - Grok
-  - DeepSeek
-  - Paxlovid
-  - mRNA疫苗
-media_books:
-  - 《罗伯特·摩西传》
-  - Arthur Kroeber的著作
 status: evergreen
+summary: 本期播客中，施维德教授深入探讨了中国政治经济的多个核心议题，包括中央与地方财政权力演变、政治局成员的专业背景与政治手腕、习近平的微观管理风格及其对政策制定的影响。他还分析了中国对人工智能（AI）发展的独特策略，特别是对AI内容审查的偏执，以及地方政府债务危机、国家主导的金融体系与经济增长模式。最后，施维德教授对中国经济未来增长和政治接班问题提出了独到见解。
+tags:
+- authoritarianism
+- chinese-politics
+- economic-policy
+title: 施维德：深度解析习近平的AGI策略、中国债务危机与政治局运作
 ---
+
 今天我与 **施维德**（Victor Shih）教授对话，他是 **加州大学圣迭戈分校**（UC San Diego）**21世纪中国中心** 的主任。中国显然是我们这个时代最重要的经济和地缘政治议题之一，如果你像我一样相信人工智能（AI）的重要性，那么中国的重要性更是加倍。我特别想与您交流，因为您不仅对中国精英政治有深厚的专业知识，也对中国的经济体系以及财政和银行政策有深入研究。在讨论AI话题之前，我们将深入探讨所有这些。
 
 ### 中国的财政权力结构

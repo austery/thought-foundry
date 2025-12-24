@@ -1,79 +1,78 @@
 ---
-author: 硅谷101播客
+area: market-analysis
+category: finance
+companies_orgs:
+- Microsoft
+- Morgan Stanley
+- Cipher Mining
+- Core Scientific
+- Applied Digital
+- CoreWeave
+- CleanSpark
+- Riot Platforms
+- Oklo
+- GE
+- Fermi
+- xAI
+- Bloom Energy
+- Crusoe Energy
+- Blue Owl Capital
+- Iris Energy
+- AMD
+- OpenAI
+- Meta
+- ERCOT
+- Galaxy Digital
+- Hut 8 Mining Corp.
+- Bitdeer
+- Tether
+- Cantor Fitzgerald
+- Founders Fund
+- Amazon
+- Google
+- Anthropic
+- Federal Reserve
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Satya Nadella
+- Elon Musk
+- Sam Altman
+- David Sacks
+- Peter Thiel
+- Mark Zuckerberg
+- Donald Trump
+- J. D. Vance
+products_models:
+- SMR
+- Megapack
+- Colossus 2
+- GB200
+- Claude
+- Opus 4.1
+- GPT
+- TPU
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ECu8d7kWbeQ
 speaker: 硅谷101播客
-tags:
-  - ai-infrastructure
-  - energy-bottleneck
-  - capital-markets
-  - securitization
-  - project-financing
-title: AI万亿基建的资本迷局：电从何来？钱从何处？
-summary: AI竞赛的核心瓶颈已从GPU转向电力，催生了上万亿美元的基础设施投资需求。本文从资本市场视角深入探讨两大核心问题：“电从哪儿来”与“钱从哪儿来”。文章详细剖析了解决电力短缺的六大路径，并重点分析了最具短期可行性的比特币矿场转型方案。同时，文章解构了数据中心的万亿资本构成，揭示了从企业现金流、债务融资到资产证券化（ABS/CDO）的复杂金融链条，并探讨了其与2008年金融危机的异同，最终指出这已演变为一场“大而不能倒”的国家级战略博弈。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Satya Nadella
-  - Elon Musk
-  - Sam Altman
-  - David Sacks
-  - Peter Thiel
-  - Mark Zuckerberg
-  - Donald Trump
-  - J. D. Vance
-companies_orgs:
-  - Microsoft
-  - Morgan Stanley
-  - Cipher Mining
-  - Core Scientific
-  - Applied Digital
-  - CoreWeave
-  - CleanSpark
-  - Riot Platforms
-  - Oklo
-  - GE
-  - Fermi
-  - xAI
-  - Bloom Energy
-  - Crusoe Energy
-  - Blue Owl Capital
-  - Iris Energy
-  - AMD
-  - OpenAI
-  - Meta
-  - ERCOT
-  - Galaxy Digital
-  - Hut 8 Mining Corp.
-  - Bitdeer
-  - Tether
-  - Cantor Fitzgerald
-  - Founders Fund
-  - Amazon
-  - Google
-  - Anthropic
-  - Federal Reserve
-products_models:
-  - SMR
-  - Megapack
-  - Colossus 2
-  - GB200
-  - Claude
-  - Opus 4.1
-  - GPT
-  - TPU
-media_books: []
 status: evergreen
+summary: AI竞赛的核心瓶颈已从GPU转向电力，催生了上万亿美元的基础设施投资需求。本文从资本市场视角深入探讨两大核心问题：“电从哪儿来”与“钱从哪儿来”。文章详细剖析了解决电力短缺的六大路径，并重点分析了最具短期可行性的比特币矿场转型方案。同时，文章解构了数据中心的万亿资本构成，揭示了从企业现金流、债务融资到资产证券化（ABS/CDO）的复杂金融链条，并探讨了其与2008年金融危机的异同，最终指出这已演变为一场“大而不能倒”的国家级战略博弈。
+tags:
+- ai-infrastructure
+- canada
+- capital-market
+- energy
+- securitization
+title: AI万亿基建的资本迷局：电从何来？钱从何处？
 ---
+
 ### 引言：AI竞赛的万亿级门槛——电与钱
 随着人工智能竞赛的深入，行业的瓶颈正从GPU芯片转向更基础的资源：电力。正如微软CEO萨提亚·纳德拉所言，AI缺的不是GPU，而是电力。当一个产业的投资规模从百亿级别跃升至万亿级别时，市场开始讨论这是否预示着一场新的投资泡沫。
 

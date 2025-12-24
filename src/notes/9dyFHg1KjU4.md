@@ -1,38 +1,37 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: lifestyle
+companies_orgs:
+- Twillingate Spirit Tour
+- Annie's Harbour Restaurant
+- Fogo Island Inn
+- The Storehouse
 date: '2024-08-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jerald
+- Eileen
+products_models:
+- Moose Burger
+project:
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=9dyFHg1KjU4
 speaker: 莊也雜談
-tags:
-  - travel-disappointment
-  - climate-change-impact
-  - island-tourism
-  - infrastructure-challenges
-  - architectural-innovation
-title: 纽芬兰自驾之旅：冰山之都的失望与福戈岛的独特魅力
-summary: 本篇记录了庄也杂谈在纽芬兰自驾之旅的第五天，从甘德前往Twillingate和福戈岛的经历。旅程从天气放晴开始，却在“世界冰山之都”Twillingate遭遇没有冰山和鲸鱼的失望。随后，作者体验了前往福戈岛的轮渡挑战，并深入探讨了福戈岛酒店的独特建筑与高昂价格。文章还描绘了福戈岛的自然风光、文化特色及当地基础设施的不足，最终以对未来行程的担忧和对纽芬兰的深刻印象作结。
-insight: ''
-draft: true
-series: ''
-category: lifestyle
-area: society-systems
-project:
-  - historical-insights
-people:
-  - Jerald
-  - Eileen
-companies_orgs:
-  - Twillingate Spirit Tour
-  - Annie's Harbour Restaurant
-  - Fogo Island Inn
-  - The Storehouse
-products_models:
-  - Moose Burger
-media_books: []
 status: evergreen
+summary: 本篇记录了庄也杂谈在纽芬兰自驾之旅的第五天，从甘德前往Twillingate和福戈岛的经历。旅程从天气放晴开始，却在“世界冰山之都”Twillingate遭遇没有冰山和鲸鱼的失望。随后，作者体验了前往福戈岛的轮渡挑战，并深入探讨了福戈岛酒店的独特建筑与高昂价格。文章还描绘了福戈岛的自然风光、文化特色及当地基础设施的不足，最终以对未来行程的担忧和对纽芬兰的深刻印象作结。
+tags:
+- challenge
+- climate-change-impact
+- innovation
+- island-tourism
+- travel
+title: 纽芬兰自驾之旅：冰山之都的失望与福戈岛的独特魅力
 ---
+
 ### 纽芬兰自驾之旅：天气转晴，探访冰山之都Twillingate
 
 哈喽，大家好，我是庄也，欢迎您收看庄也杂谈。今天继续讲述在纽芬兰的自驾之旅。上集讲完了前四天的内容，今天咱们讲第五天，也就是7月3号周三。从今天开始，我们的纽芬兰行程就渐入佳境，因为天气开始放晴了，阳光就跟捉迷藏似的，终于露脸了，感觉我们整个旅程都要亮堂起来了。而且这时候，我们也已经靠近了纽芬兰景色最为优美壮丽的岛中西部地段。接下来会发生些什么好玩的事儿，咱们就书接上文。

@@ -1,105 +1,103 @@
 ---
-author: FearNation 世界苦茶
+area: society-thinking
+category: politics-society
+companies_orgs:
+- 华为
+- ASML
+- 文泰科技
+- 本田汽车
+- Nvidia
+- 佳能
+- 蔡司
+- OpenAI
+- AMD
+- DeepSeek
+- 光环新网
+- 龚博士
+- 通义
+- 豆包
+- 圆宝
+- Google
+- 特斯拉
+- 美光
+- 三星
+- Alibaba
+- 清华大学
+- 南华早报
+- 摩尔线程
+- 新凯来
+- 长春光机所
+- Sandisk
+- 台积电
+- 哈工大
+- 西航
+- 路透社
+- 中芯国际
+- 英特尔
+- Kimi
+- 字节
+- 韩武基
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《国家利益》
+- 《日经亚洲》
+- 《外交事务》
+people:
+- Dixon
+- Room Kyle
+- Shane
+- 灰照
+- Jetson Hong
+- SW
+- 欧丽
+- 浩晨
+- 郑章
+- Valer
+- 群科
+- Hotmark
+- 黄仁勋
+- 刘仲敬
+- Donald Trump
+- 刘志军
+- 陈云
+- 许晨庚
+- 卢特尼克
+- Xi Jinping
+products_models:
+- 910C
+- 骁龙888
+- EUV
+- DUV
+- H200
+- Blackwell
+- 汉芯一号
+- 昇腾芯片
+- B300
+- TPU
+- Gemini 3
+- GPT-5.2
+- GPT-5.1
+- '9020'
+- '9030'
+- AGI
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=hcPMYEYDCpc
 speaker: FearNation 世界苦茶
-tags:
-  - semiconductor
-  - chip-manufacturing
-  - geopolitics
-  - llm
-  - supply-chain
-title: 中国芯片自主之路：黄仁勋的考量、供应链博弈与国家战略
-summary: 本次讨论深入探讨了中国在半导体领域的雄心，对比了先进与成熟芯片制造的差异。与会者就中国“举国体制”策略、华为与ASML等公司的作用以及技术脱钩的地缘政治影响展开辩论。核心议题包括EUV光刻机的技术挑战、英伟达CEO黄仁勋的商业考量，以及芯片自主对中国经济和国家安全的深远影响。多位业内人士分享了对国内研发能力和供应链脆弱性的独到见解。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Dixon
-  - Room Kyle
-  - Shane
-  - 灰照
-  - Jetson Hong
-  - SW
-  - 欧丽
-  - 浩晨
-  - 郑章
-  - Valer
-  - 群科
-  - Hotmark
-  - 黄仁勋
-  - 刘仲敬
-  - Donald Trump
-  - 刘志军
-  - 陈云
-  - 许晨庚
-  - 卢特尼克
-  - 习近平
-companies_orgs:
-  - 华为
-  - ASML
-  - 文泰科技
-  - 本田汽车
-  - 英伟达
-  - 佳能
-  - 蔡司
-  - OpenAI
-  - AMD
-  - DeepSeek
-  - 光环新网
-  - 龚博士
-  - 通义
-  - 豆包
-  - 圆宝
-  - Google
-  - 特斯拉
-  - 美光
-  - 三星
-  - 阿里巴巴
-  - 清华大学
-  - 南华早报
-  - 摩尔线程
-  - 新凯来
-  - 长春光机所
-  - Sandisk
-  - 台积电
-  - 哈工大
-  - 西航
-  - 路透社
-  - 中芯国际
-  - 英特尔
-  - Kimi
-  - 字节
-  - 韩武基
-products_models:
-  - 910C
-  - 骁龙888
-  - EUV
-  - DUV
-  - H200
-  - Blackwell
-  - 汉芯一号
-  - 昇腾芯片
-  - B300
-  - TPU
-  - Gemini 3
-  - GPT-5.2
-  - GPT-5.1
-  - '9020'
-  - '9030'
-  - AGI
-media_books:
-  - 《国家利益》
-  - 《日经亚洲》
-  - 《外交事务》
 status: evergreen
+summary: 本次讨论深入探讨了中国在半导体领域的雄心，对比了先进与成熟芯片制造的差异。与会者就中国“举国体制”策略、华为与ASML等公司的作用以及技术脱钩的地缘政治影响展开辩论。核心议题包括EUV光刻机的技术挑战、英伟达CEO黄仁勋的商业考量，以及芯片自主对中国经济和国家安全的深远影响。多位业内人士分享了对国内研发能力和供应链脆弱性的独到见解。
+tags:
+- manufacturing
+- semiconductor
+- supply-chain
+title: 中国芯片自主之路：黄仁勋的考量、供应链博弈与国家战略
 ---
+
 ### 中国芯片战略
 
 晚上好，各位观众。今天我们来谈谈芯片问题，我将给那些对中国芯片发展过于乐观的看法泼一盆冷水。首先，大家需要搞清楚两个概念：一个是**先进芯片**（Advanced Chips: 指采用更小制程工艺，性能更强的芯片，如7纳米及以下），另一个是**成熟制程芯片**（Mature Process Chips: 指采用较大制程工艺，技术相对成熟，成本较低的芯片，如90纳米及以上）。

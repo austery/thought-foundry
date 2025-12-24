@@ -1,43 +1,42 @@
 ---
-author: Money & Macro
+area: society-systems
+category: culture
+companies_orgs:
+- 皮尤研究中心
+- Saily
 date: '2025-10-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 克拉拉·钱伯斯
+- 本杰明·戈德曼
+- 约瑟夫·温克尔曼
+- 盖伊·安格尔
+- 彼得·安格尔
+- 约翰伯恩默多克
+products_models:
+- eSIM
+- 智能手机
+- 社交媒体
+project:
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=25wcGWvtz1k
 speaker: Money & Macro
-tags:
-  - gen-z-relationships
-  - declining-birth-rates
-  - labor-market-shifts
-  - housing-affordability
-  - digital-media-impact
-title: Z世代爱情危机：三大原因及其对社会经济的深远影响
-summary: 本文深入探讨了Z世代全球范围内恋爱关系减少的现象及其深远影响。分析指出，劳动力市场男女比例失衡、住房负担能力下降以及智能手机和数字媒体的普及是导致这一趋势的三大主要原因。文章追溯了婚姻从必需品到选择的历史演变，并详细阐述了这些因素如何共同作用，加剧了Z世代的爱情危机，进而影响出生率和社会幸福感。文末提出了政府和教育机构可采取的应对措施。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - systems-thinking
-people:
-  - 克拉拉·钱伯斯
-  - 本杰明·戈德曼
-  - 约瑟夫·温克尔曼
-  - 盖伊·安格尔
-  - 彼得·安格尔
-  - 约翰伯恩默多克
-companies_orgs:
-  - 皮尤研究中心
-  - Saily
-products_models:
-  - eSIM
-  - 智能手机
-  - 社交媒体
-media_books: []
 status: evergreen
+summary: 本文深入探讨了Z世代全球范围内恋爱关系减少的现象及其深远影响。分析指出，劳动力市场男女比例失衡、住房负担能力下降以及智能手机和数字媒体的普及是导致这一趋势的三大主要原因。文章追溯了婚姻从必需品到选择的历史演变，并详细阐述了这些因素如何共同作用，加剧了Z世代的爱情危机，进而影响出生率和社会幸福感。文末提出了政府和教育机构可采取的应对措施。
+tags:
+- housing-affordability
+- labor-market-shift
+- media
+- rate
+- relationship
+title: Z世代爱情危机：三大原因及其对社会经济的深远影响
 ---
+
 ### Z世代爱情危机：全球趋势与深远影响
 
 根据**皮尤研究中心**（Pew Research Center: 一家美国事实调查机构，提供有关社会问题、公众舆论和人口趋势的信息）的数据，56%的**千禧一代**（Millennials: 通常指1980年代初至1990年代中期出生的人群）没有结婚。这种现象不仅限于欧洲、美国，也蔓延至东亚和拉丁美洲。在世界各地，选择建立恋爱关系的**Z世代**（Generation Z: 通常指1990年代末至2010年代初出生的人群）男女越来越少。

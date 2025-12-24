@@ -1,39 +1,39 @@
 ---
-author: Shijun Tang
+area: personal-systems
+category: psychology
+companies_orgs:
+- 金顶投资
 date: '2024-02-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- Elon
+- 科比
+- Doctor Andrew Huberman
+products_models: []
+project:
+- personal-growth-lab
+- knowledge-pipeline
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=Q7apFuu-kEo
 speaker: Shijun Tang
-tags:
-  - non-linear-growth
-  - self-encouragement
-  - habit-formation
-  - comparison-distortion
-  - identity-based-behavior
-title: 35岁重启人生：如何在新赛道保持心态、坚持到底并实现突破
-summary: 本文讲述35岁转型者的心理建设过程，强调在新赛道起步时面对孤独、低回报与绝望的应对策略：学会自我鼓励、发现微小进步、降低期待、避免无效比较，并通过习惯养成实现非线性成长。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-  - knowledge-pipeline
-  - historical-insights
-people:
-  - 唐石峻
-  - Elon
-  - 科比
-  - Doctor Andrew Huberman
-companies_orgs:
-  - 金顶投资
-products_models: []
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文讲述35岁转型者的心理建设过程，强调在新赛道起步时面对孤独、低回报与绝望的应对策略：学会自我鼓励、发现微小进步、降低期待、避免无效比较，并通过习惯养成实现非线性成长。
+tags:
+- growth
+- habit-formation
+- identity
+- self
+- technology
+title: 35岁重启人生：如何在新赛道保持心态、坚持到底并实现突破
 ---
+
 ### 35岁的转折：转型的孤独与心理建设
 
 人生的转折之所以适用于很多人，是因为大部分人意识的觉醒出现在35岁左右。这其实是件好事——但内心不够坚韧的人，容易被现实击垮，导致失败的人生。这并非个例，而是大概率会发生的结果。

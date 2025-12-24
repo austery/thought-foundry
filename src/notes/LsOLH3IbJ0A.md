@@ -1,37 +1,36 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: general
+companies_orgs:
+- 加拿大公园管理局
+- 加拿大政府
+- 加拿大军方
+- 皇家原住民委员会
 date: '2024-08-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 庄也杂谈第31集
+- 庄杂第173集
+products_models: []
+project:
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=LsOLH3IbJ0A
 speaker: 莊也雜談
-tags:
-  - canadian-geography
-  - extreme-travel
-  - indigenous-relocation
-  - arctic-exploration
-  - national-parks
-title: 探索加拿大四大极点：从美丽斯皮尔角到遥远哥伦比亚角
-summary: 本期节目将带领观众深入了解加拿大的四个地理极点：最东端的斯皮尔角、最南端的霹雳角、最西端的187号边界峰以及最北端的哥伦比亚角。主持人庄也分享了亲身经历，并详细介绍了每个极点的地理特征、历史意义、自然风光及可达性，特别是揭示了前往西部和北部极点的巨大挑战与背后的历史故事。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-people: []
-companies_orgs:
-  - 加拿大公园管理局
-  - 加拿大政府
-  - 加拿大军方
-  - 皇家原住民委员会
-products_models: []
-media_books:
-  - 庄也杂谈第31集
-  - 庄杂第173集
 status: evergreen
+summary: 本期节目将带领观众深入了解加拿大的四个地理极点：最东端的斯皮尔角、最南端的霹雳角、最西端的187号边界峰以及最北端的哥伦比亚角。主持人庄也分享了亲身经历，并详细介绍了每个极点的地理特征、历史意义、自然风光及可达性，特别是揭示了前往西部和北部极点的巨大挑战与背后的历史故事。
+tags:
+- canadian
+- geopolitical
+- national
+- technology
+- travel
+title: 探索加拿大四大极点：从美丽斯皮尔角到遥远哥伦比亚角
 ---
+
 今儿咱们上一节非常有趣的地理课，说一说加拿大的四个极点，也就是加拿大的最东端、最西端、最南端和最北端。
 
 为什么说这个呢？大家知道，我7月初的时候去了一趟纽芬兰，并且在这个纽芬兰的岛上，到访了加拿大最东端的极点**斯皮尔角**（Cape Spear: 加拿大纽芬兰与拉布拉多省最东端的海角）。之前，我又在5月中旬的时候，曾经到访过加拿大国土最南端的那个位于安省伊利湖边的**霹雳角国家公园**（Point Pelee National Park: 位于加拿大安大略省伊利湖畔，是加拿大大陆最南端的国家公园）。然后就看到有观众朋友给我留言，说既然已经去了加拿大最东端和最南端，干脆把这个最西端和最北端也一并去了，那加拿大四个极点不就全部拿下了吗？

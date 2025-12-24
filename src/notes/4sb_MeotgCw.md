@@ -1,46 +1,44 @@
 ---
-author: 徒步的騎手
-date: 2025-02-04
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=4sb_MeotgCw'
-speaker: 徒步的騎手
-tags:
-  - freedom-concept
-  - political-liberty
-  - authoritarianism
-  - concrete-vs-abstract-freedom
-  - human-nature
-title: 谁说中国人不爱自由？：自由观念的演变与政治自由的困境
-summary: 文章探讨了中国语境下的自由概念，指出中国人并非不爱自由，而是其对自由的渴望长期受到历史和政治的压制。文章通过翻译家严复对“自由”一词的引入与诠释，以及该词在中文语境中的演变，区分了抽象自由与具体自由。文章强调了婚恋自由等具体自由的巨大进步，同时也反思了政治自由（如言论自由）在当代中国所面临的困境和倒退，最终论证了爱自由是根植于人性的基本需求。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-people:
-  - 严复
-  - 蒙德斯鸠
-  - John Stuart Mill
-  - Henry Thoreau
-  - 李治
-  - 韩愈
-  - 王安石
-  - 朱熹
+category: geopolitics
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-02-04
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《天演论》
-  - 《法意》
-  - 《群己权界论》
-  - 《论自由》
-  - 英国大宪章
-  - 人身保护法案
-  - 美国宪法
+- 《天演论》
+- 《法意》
+- 《群己权界论》
+- 《论自由》
+- 英国大宪章
+- 人身保护法案
+- 美国宪法
+people:
+- 严复
+- 蒙德斯鸠
+- John Stuart Mill
+- Henry Thoreau
+- 李治
+- 韩愈
+- 王安石
+- 朱熹
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=4sb_MeotgCw
+speaker: 徒步的騎手
 status: evergreen
+summary: 文章探讨了中国语境下的自由概念，指出中国人并非不爱自由，而是其对自由的渴望长期受到历史和政治的压制。文章通过翻译家严复对“自由”一词的引入与诠释，以及该词在中文语境中的演变，区分了抽象自由与具体自由。文章强调了婚恋自由等具体自由的巨大进步，同时也反思了政治自由（如言论自由）在当代中国所面临的困境和倒退，最终论证了爱自由是根植于人性的基本需求。
+tags:
+- authoritarianism
+- freedom
+- human-nature
+- political
+title: 谁说中国人不爱自由？：自由观念的演变与政治自由的困境
 ---
 
 ### 自由的定义与政治自由的本质

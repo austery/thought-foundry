@@ -1,39 +1,39 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: finance
+companies_orgs:
+- Citadel
+- Citadel Securities
+- Norges Bank Investment Management
+- Harvard
 date: '2024-05-01'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Forbes
+people:
+- Kenneth Griffin
+products_models: []
+project:
+- investment-strategy
+- us-analysis
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=iQt9pgksZ3Y
 speaker: Norges Bank Investment Management
-tags:
-  - investment-philosophy
-  - fiscal-policy
-  - productivity-enhancement
-  - ai-impact
-  - talent-management
-title: Citadel创始人肯·格里芬：投资、经济与领导力的洞察
-summary: Citadel创始人兼首席执行官肯·格里芬在访谈中分享了他从哈佛宿舍开启金融生涯的经历。他深入探讨了投资的艺术与科学、市场效率、美国经济的财政赤字问题，以及AI对商业和投资的影响。格里芬强调了生产力提升、人才培养和持续学习的重要性，并对年轻一代提出了基于内在激情的职业建议，旨在打造一个更具韧性和活力的金融世界。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - us-analysis
-  - ai-impact-analysis
-people:
-  - Kenneth Griffin
-companies_orgs:
-  - Citadel
-  - Citadel Securities
-  - Norges Bank Investment Management
-  - Harvard
-products_models: []
-media_books:
-  - Forbes
 status: evergreen
+summary: Citadel创始人兼首席执行官肯·格里芬在访谈中分享了他从哈佛宿舍开启金融生涯的经历。他深入探讨了投资的艺术与科学、市场效率、美国经济的财政赤字问题，以及AI对商业和投资的影响。格里芬强调了生产力提升、人才培养和持续学习的重要性，并对年轻一代提出了基于内在激情的职业建议，旨在打造一个更具韧性和活力的金融世界。
+tags:
+- ai-impact
+- fiscal-policy
+- investment-philosophy
+- management
+- productivity
+title: Citadel创始人肯·格里芬：投资、经济与领导力的洞察
 ---
+
 ### 投身金融的初心与早期经历
 
 欢迎收听“好公司”播客节目，今天我们邀请到了肯·格里芬，他是史上最优秀的投资者之一。

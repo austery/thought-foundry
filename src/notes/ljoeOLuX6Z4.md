@@ -1,41 +1,39 @@
 ---
-author: Veritasium
-date: '2020-10-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ljoeOLuX6Z4
-speaker: Veritasium
-tags:
-  - veritasium
-  - supernova-refsdal
-  - gravitational-lensing
-  - hubble-constant
-  - cosmic-expansion
-  - cosmology-crisis
-title: 一颗超新星如何测量宇宙：引力透镜与哈勃常数之谜
-summary: 本文探讨了科学家如何利用引力透镜效应，成功预测并观测到一颗名为Refsdal的超新星。这次独特的观测不仅证实了我们对宇宙光线与引力相互作用的理解，更提供了一种独立测量哈勃常数的方法。文章深入分析了哈勃常数测量中存在的两大主要方法（距离阶梯法和宇宙微波背景辐射法）之间的显著差异，并指出Refsdal超新星的测量结果更倾向于后者，这可能预示着宇宙学领域的一场潜在危机。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - historical-insights
-people:
-  - Irwin Shapiro
-  - Sjur Refsdal
-  - Joseph Silk
+category: science
 companies_orgs:
-  - Fasthosts
-  - Hubble Space Telescope
+- Fasthosts
+- Hubble Space Telescope
+date: '2020-10-20'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Irwin Shapiro
+- Sjur Refsdal
+- Joseph Silk
 products_models:
-  - Lambda-CDM
-  - Voyager
-  - Pioneer
-  - Betelgeuse
-media_books: []
+- Lambda-CDM
+- Voyager
+- Pioneer
+- Betelgeuse
+project:
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=ljoeOLuX6Z4
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了科学家如何利用引力透镜效应，成功预测并观测到一颗名为Refsdal的超新星。这次独特的观测不仅证实了我们对宇宙光线与引力相互作用的理解，更提供了一种独立测量哈勃常数的方法。文章深入分析了哈勃常数测量中存在的两大主要方法（距离阶梯法和宇宙微波背景辐射法）之间的显著差异，并指出Refsdal超新星的测量结果更倾向于后者，这可能预示着宇宙学领域的一场潜在危机。
+tags:
+- crisis
+- gravitational-lensing
+- hubble-constant
+- science
+- supernova-refsdal
+title: 一颗超新星如何测量宇宙：引力透镜与哈勃常数之谜
 ---
+
 ### 超新星的罕见预测与观测
 
 这段视频由Fasthosts赞助，他们为英国观众提供赢取价值5000英镑科技大礼包的机会，只要您能在节目稍后的“科技测试”问题中给出答案。

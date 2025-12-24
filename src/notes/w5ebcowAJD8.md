@@ -1,53 +1,51 @@
 ---
-author: Veritasium
-date: '2024-09-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=w5ebcowAJD8
-speaker: Veritasium
-tags:
-  - veritasium
-  - qr-code-history
-  - data-encoding
-  - error-correction
-  - communication-technology
-  - digital-transformation
-title: QR码的诞生与演变：从摩尔斯电码到全球通用工具
-summary: 本文深入探讨了QR码的起源、技术原理及其在全球范围内的普及。从摩尔斯电码到条形码，再到QR码的二维数据矩阵，文章详细介绍了信息编码、错误纠正（如Reed-Solomon码）和掩码模式等核心技术。它揭示了QR码如何从工业用途发展成为日常生活中不可或缺的工具，并讨论了其成功背后的开放专利策略以及未来的安全挑战。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Samuel Finley Breese Morse
-  - Bernard Silver
-  - Norman Joseph Woodland
-  - David Allais
-  - Masahiro Hara
-  - Irving S. Reed
-  - Gustav Solomon
-  - Richard Hamming
-  - MattKC
+category: technology
 companies_orgs:
-  - Drexel University
-  - DENSO
-  - NASA
-  - New York University
-  - Android
-  - Apple
+- Drexel University
+- DENSO
+- NASA
+- New York University
+- Android
+- Apple
+date: '2024-09-30'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Samuel Finley Breese Morse
+- Bernard Silver
+- Norman Joseph Woodland
+- David Allais
+- Masahiro Hara
+- Irving S. Reed
+- Gustav Solomon
+- Richard Hamming
+- MattKC
 products_models:
-  - Code 49
-  - PDF417
-  - Vericode
-  - UPC barcode
-  - Saily
-media_books: []
+- Code 49
+- PDF417
+- Vericode
+- UPC barcode
+- Saily
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=w5ebcowAJD8
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了QR码的起源、技术原理及其在全球范围内的普及。从摩尔斯电码到条形码，再到QR码的二维数据矩阵，文章详细介绍了信息编码、错误纠正（如Reed-Solomon码）和掩码模式等核心技术。它揭示了QR码如何从工业用途发展成为日常生活中不可或缺的工具，并讨论了其成功背后的开放专利策略以及未来的安全挑战。
+tags:
+- data
+- digital-transformation
+- error-correction
+- history
+- technology
+title: QR码的诞生与演变：从摩尔斯电码到全球通用工具
 ---
+
 ### QR码的崛起：从最初的质疑到无处不在
 
 当**QR码**（Quick Response Code: 一种二维条码，用于存储大量信息）首次出现时，我最初觉得它们很糟糕，认为它们永远不会流行起来，当时有一张流程图很好地表达了我的这种感受。在我看来，问题在于QR码外观丑陋，对人们来说毫无意义。我宁愿直接看到一个网站或一个我可以谷歌搜索的词。QR码是机器的语言，而我是人类。但我错了。QR码显然变得如此有用，以至于它们现在无处不在，从门票到餐厅菜单和广告，无所不包。在某些国家，它们是交换资金最常见的方式。而QR码的故事，其实是一个非常人性化的故事。

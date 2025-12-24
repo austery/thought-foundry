@@ -1,52 +1,51 @@
 ---
-author: 课代表立正
+area: market-analysis
+category: business
+companies_orgs:
+- Meta
+- Instagram
+- Apple
+- Shopify
+- UPS
+- FedEx
+- USPS
+- Y Combinator
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Alex Schultz在斯坦福的讲座
+people:
+- Prakash
+- Alex Schultz
+- Sam Altman
+- Chamath
+products_models:
+- Facebook Marketplace
+- Facebook Shops
+- Instagram Shops
+- Cambridge Analytica
+- GenAI Ads
+project:
+- entrepreneurship
+- systems-thinking
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=S6-7haSvVho
 speaker: 课代表立正
-tags:
-  - product-market-fit
-  - e-commerce-strategy
-  - data-driven-growth
-  - organizational-pivot
-  - user-retention
-title: Meta电商失败史：从B2C到C2C的战略转型与增长洞察
-summary: 本文深入剖析了Meta（Facebook）电商业务从B2C模式的失败到C2C模式成功的战略转型过程。作者作为亲历者，分享了如何通过数据分析验证产品市场契合度、克服站内交易障碍，以及在疫情补贴下实现C2C配送业务26倍增长的经验。文章强调了产品市场契合度和用户留存的重要性，并探讨了在大公司内部推动长期战略和增长的挑战与机遇。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-  - market-cycles
-people:
-  - Prakash
-  - Alex Schultz
-  - Sam Altman
-  - Chamath
-companies_orgs:
-  - Meta
-  - Facebook
-  - Instagram
-  - Apple
-  - Shopify
-  - UPS
-  - FedEx
-  - USPS
-  - Y Combinator
-products_models:
-  - Facebook Marketplace
-  - Facebook Shops
-  - Instagram Shops
-  - Cambridge Analytica
-  - GenAI Ads
-media_books:
-  - Alex Schultz在斯坦福的讲座
 status: evergreen
+summary: 本文深入剖析了Meta（Facebook）电商业务从B2C模式的失败到C2C模式成功的战略转型过程。作者作为亲历者，分享了如何通过数据分析验证产品市场契合度、克服站内交易障碍，以及在疫情补贴下实现C2C配送业务26倍增长的经验。文章强调了产品市场契合度和用户留存的重要性，并探讨了在大公司内部推动长期战略和增长的挑战与机遇。
+tags:
+- data
+- geopolitical
+- organizational
+- product-market-fit
+- strategy
+title: Meta电商失败史：从B2C到C2C的战略转型与增长洞察
 ---
+
 ### Meta电商B2C模式的失败与教训
 
 大家好，书接上回，我希望今天能将Marketplace的这个系列完结，也许之后还会有一个收尾。今天我将跟大家分享我们是如何实现26倍的营收（**top line**）增长，以及这背后的前因后果、我们做了什么，以及我在这中间有什么体会。这期内容可能对技术同学，或者想了解大厂业务的人有所帮助，因为这是我对大厂业务的第一次开窍，觉得增长的体感非常重要。

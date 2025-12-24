@@ -1,51 +1,49 @@
 ---
-author: 硅谷101
+area: tech-work
+category: ai-ml
+companies_orgs:
+- 派拉蒙影业 (Paramount Pictures)
+- 甲骨文 (Oracle)
+- 维亚康姆 (Viacom)
+- 哥伦比亚广播公司 (CBS)
+- 网飞 (Netflix)
+- 华纳兄弟 (Warner Bros.)
+- 迪士尼 (Disney)
+- NBC Universal
+- Skydance Media
+- JJLake
 date: '2025-12-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- David Ellison
+- Sumner Redstone
+- Adolph Zukor
+- Walter Cronkite
+- Barry Diller
+- Sherry Lansing
+- Robert Evans
+- Stephen Colbert
+- Kamala Harris
+products_models:
+- GPT-4
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=f41vPIkpYh4
 speaker: 硅谷101
-tags:
-  - llm
-  - media-industry
-  - hollywood
-  - merger-acquisition
-  - data-analysis
-title: 派拉蒙百年兴衰史：80亿卖身甲骨文背后的传媒帝国大洗牌
-summary: 本期《硅谷101》深度剖析派拉蒙影业的百年历史，从鼎盛时期的规则制定者到如今面临被甲骨文收购的困境。探讨好莱坞巨头转型失败的原因，以及科技公司对媒体行业的颠覆性影响。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - David Ellison
-  - Sumner Redstone
-  - Adolph Zukor
-  - Walter Cronkite
-  - Barry Diller
-  - Sherry Lansing
-  - Robert Evans
-  - Stephen Colbert
-  - Kamala Harris
-companies_orgs:
-  - 派拉蒙影业 (Paramount Pictures)
-  - 甲骨文 (Oracle)
-  - 维亚康姆 (Viacom)
-  - 哥伦比亚广播公司 (CBS)
-  - 网飞 (Netflix)
-  - 华纳兄弟 (Warner Bros.)
-  - 迪士尼 (Disney)
-  - NBC Universal
-  - Skydance Media
-  - JJLake
-products_models:
-  - GPT-4
-media_books: []
 status: evergreen
+summary: 本期《硅谷101》深度剖析派拉蒙影业的百年历史，从鼎盛时期的规则制定者到如今面临被甲骨文收购的困境。探讨好莱坞巨头转型失败的原因，以及科技公司对媒体行业的颠覆性影响。
+tags:
+- business
+- data
+- hollywood
+- industry
+title: 派拉蒙百年兴衰史：80亿卖身甲骨文背后的传媒帝国大洗牌
 ---
+
 ### 派拉蒙的百年历史与现状
 也许你不熟悉**派拉蒙影业 (Paramount Pictures)**这个名字，但你一定看过它的作品《碟中谍》、《星际迷航》、《变形金刚》和《教父》。而我身后这个地方，就是这家百年好莱坞公司在美国东海岸的老总部——纽约时代广场的派拉蒙大楼，建立于1927年，曾经是纽约最耀眼的电影宫殿。它里面的剧院能坐下三千多人，首映礼和明星红毯在这里不断诞生，曾经它也有全城最高的钟楼，代表着早期好莱坞的鼎盛力量。如今，这家传媒巨头正在经历最大规模的重组和并购。2025年8月，**甲骨文 (Oracle)**创始人之子**David Ellison**入主派拉蒙，历时一年半后，他手中的**Skydance Media**以80亿美元收购了这家好莱坞巨头，而他成为史上最年轻的大制片厂CEO。
 

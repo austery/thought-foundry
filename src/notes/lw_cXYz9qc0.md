@@ -1,54 +1,54 @@
 ---
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=lw_cXYz9qc0'
-tags:
-  - us-china-relations
-  - trade-war
-  - chip-sanctions
-  - rare-earth-strategy
-  - geopolitical-competition
-title: 中美关系：釜山峰会后的冷战态势与战略评估
-summary: 本次中美元首峰会，被视为一次短暂的“休战”，而非根本性的关系逆转。虽然双方在关税、稀土出口管制和芯片禁运的“穿透性规则”上达成了一年的延缓协议，但核心的战略竞争和“去风险化”进程并未停止。文章深入分析了中美双方在此次会谈中的得失，指出中国以稀土底牌换取了船舶关税的微小优势，但芯片出口许可仍是最大的不确定性。同时，美国正积极与G7国家构建稀土供应链，预示着未来的竞争将更加激烈。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - 习近平
-  - 马朝旭
-  - 何立峰
-  - 蔡奇
-  - 王毅
-  - 郑山杰
-  - 王文涛
-  - Donald Trump
-  - Scott Basin
-  - 马克鲁比奥
-  - 哈维拉
-  - 苏c瓦尔斯特
-  - 詹姆斯克格瑞尔
-  - 黄仁勋
+category: geopolitics
 companies_orgs:
-  - 英伟达
-  - 华为
-  - OpenAI
-  - FCC
-  - 工商银行
-products_models:
-  - H20
-  - Blackwell
+- Nvidia
+- 华为
+- OpenAI
+- FCC
+- 工商银行
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
-status: evergreen
+people:
+- Xi Jinping
+- 马朝旭
+- 何立峰
+- 蔡奇
+- 王毅
+- 郑山杰
+- 王文涛
+- Donald Trump
+- Scott Basin
+- 马克鲁比奥
+- 哈维拉
+- 苏c瓦尔斯特
+- 詹姆斯克格瑞尔
+- 黄仁勋
+products_models:
+- H20
+- Blackwell
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
+source: https://www.youtube.com/watch?v=lw_cXYz9qc0
 speaker: FearNation 世界苦茶
-author: FearNation 世界苦茶
+status: evergreen
+summary: 本次中美元首峰会，被视为一次短暂的“休战”，而非根本性的关系逆转。虽然双方在关税、稀土出口管制和芯片禁运的“穿透性规则”上达成了一年的延缓协议，但核心的战略竞争和“去风险化”进程并未停止。文章深入分析了中美双方在此次会谈中的得失，指出中国以稀土底牌换取了船舶关税的微小优势，但芯片出口许可仍是最大的不确定性。同时，美国正积极与G7国家构建稀土供应链，预示着未来的竞争将更加激烈。
+tags:
+- geopolitical-competition
+- rare-earth-strategy
+- technology
+- trade-war
+- us-china-relations
+title: 中美关系：釜山峰会后的冷战态势与战略评估
 ---
+
 ### 中美元首峰会：谁是赢家？
 
 在本次中美元首峰会（特习会）之后，评论区出现了“中国大胜”、“仅付出很小代价就换得美国很多内容”的声音。因此，评估这次会谈究竟谁赢谁输，是一个有价值的问题。当前中美关系正处于“冷战”之中，双方的拉锯可以被视为一场没有硝烟的战争。此前，中国打出了稀土底牌，对稀土出口实施了巨大禁令，而这次峰会正是美国对此的“接招”，因此，判断谁输谁赢，能反映出中美冷战中的具体态势。

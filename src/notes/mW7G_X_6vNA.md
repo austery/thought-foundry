@@ -1,46 +1,46 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: general
+companies_orgs:
+- 台湾劳动部
+- 硅谷科技公司
 date: '2024-01-26'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《失控的热情》
+- 《你的降落伞是什么颜色？》
+people:
+- Erin A. Cech
+- Steve Jobs
+- Elon Musk
+- Jeff Bezos
+- Barack Obama
+- Marianne Cooper
+- Arlie Russell Hochschild
+- Max Weber
+- Franklin D. Roosevelt
+products_models: []
+project:
+- systems-thinking
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=mW7G_X_6vNA
 speaker: 超級歪 SuperY
-tags:
-  - passion-principle
-  - social-inequality
-  - class-reproduction
-  - workplace-exploitation
-  - meritocracy
-title: 别把兴趣当饭吃：社会学家揭示“热情原则”如何加剧社会不平等与剥削
-summary: 本文深入探讨了美国社会学家艾琳·A·切赫在《失控的热情》一书中提出的“热情原则”。该原则鼓励人们追求热爱的工作，但实际上它是一种少数人才能负担的特权，不仅加剧了阶级复制和社会不平等，还被雇主用来合理化低薪和高工时。文章分析了热情原则的历史演变、其背后的精英主义和新自由主义意识形态，并揭示了其对劳动者，特别是弱势群体的隐性剥削。最终，文章呼吁人们认识到结构性问题，并寻求在工作之外实现个人热情。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - systems-thinking
-  - cultural-critique
-  - historical-insights
-people:
-  - Erin A. Cech
-  - Steve Jobs
-  - Elon Musk
-  - Jeff Bezos
-  - Barack Obama
-  - Marianne Cooper
-  - Arlie Russell Hochschild
-  - Max Weber
-  - Franklin D. Roosevelt
-companies_orgs:
-  - 台湾劳动部
-  - 硅谷科技公司
-products_models: []
-media_books:
-  - 《失控的热情》
-  - 《你的降落伞是什么颜色？》
 status: evergreen
+summary: 本文深入探讨了美国社会学家艾琳·A·切赫在《失控的热情》一书中提出的“热情原则”。该原则鼓励人们追求热爱的工作，但实际上它是一种少数人才能负担的特权，不仅加剧了阶级复制和社会不平等，还被雇主用来合理化低薪和高工时。文章分析了热情原则的历史演变、其背后的精英主义和新自由主义意识形态，并揭示了其对劳动者，特别是弱势群体的隐性剥削。最终，文章呼吁人们认识到结构性问题，并寻求在工作之外实现个人热情。
+tags:
+- canada
+- class
+- principle
+- social-inequality
+- society
+title: 别把兴趣当饭吃：社会学家揭示“热情原则”如何加剧社会不平等与剥削
 ---
+
 ### 职业选择的困境：兴趣、热情与现实考量
 
 大学考试结束后，许多人将面临选择大学专业或寻找工作的抉择。究竟是应该选择一个更容易找到工作的专业，还是应该追随自己的兴趣？是选择一份热爱的工作，还是选择一份高薪的工作？社会上的主流声音通常会告诉你，你应该追随自己的热情，做自己热爱的工作。然而，今天我们将要探讨的这本书——《失控的热情》（Uncontrolled Enthusiasm），却要告诉你，你不应该把爱好当作工作，也不应该轻易地追随自己的热情。

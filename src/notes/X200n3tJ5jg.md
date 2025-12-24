@@ -1,39 +1,39 @@
 ---
-author: 一席YiXi
+area: society-systems
+category: general
+companies_orgs: []
 date: '2024-10-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《教育应该给人以希望》
+people:
+- 林小英
+- 李校长
+- 陈立群
+- 童荣喜
+- 毛向军
+products_models: []
+project:
+- historical-insights
+- cultural-critique
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=X200n3tJ5jg
 speaker: 一席YiXi
-tags:
-  - educational-equity
-  - rural-education-system
-  - teacher-retention
-  - school-consolidation
-  - emotional-development-in-education
-title: 教育应该给人以希望：县域教育的困境与本真回归
-summary: 林小英通过富士康工人与县域学校的实地调研，揭示中国县域教育在‘撤校并点’与精英化改革中的系统性忽视，呼吁回归教学常规与教育常识，强调教育的本质是人与人的相互影响，而非仅追求升学率。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - systems-thinking
-people:
-  - 林小英
-  - 李校长
-  - 陈立群
-  - 童荣喜
-  - 毛向军
-companies_orgs: []
-products_models: []
-media_books:
-  - 《教育应该给人以希望》
 status: evergreen
+summary: 林小英通过富士康工人与县域学校的实地调研，揭示中国县域教育在‘撤校并点’与精英化改革中的系统性忽视，呼吁回归教学常规与教育常识，强调教育的本质是人与人的相互影响，而非仅追求升学率。
+tags:
+- development
+- investment
+- life
+- society
+- system
+title: 教育应该给人以希望：县域教育的困境与本真回归
 ---
+
 ### 县域教育：被遗忘的根基
 
 大家好，我是北京大学教育学院的林小英。今天我要分享的话题是：县域教育，何以成为一个话题。

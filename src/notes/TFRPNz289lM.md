@@ -1,44 +1,42 @@
 ---
-author: Nico投资有道
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- Circle
+- Tether
+- Tesla
+- Sofi
+- AMD
+- Nvidia
+- Standard Chartered Bank
 date: '2025-11-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Nico
+- Cathie Wood
+products_models:
+- Ethereum
+- Bitcoin
+project:
+- investment-strategy
+- market-cycles
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=TFRPNz289lM
 speaker: Nico投资有道
-tags:
-  - stablecoin-investment
-  - investment-strategy
-  - market-downturn
-  - long-term-investing
-  - loss-aversion
-title: Circle股票投资复盘：股价腰斩后的反思与稳定币赛道展望
-summary: 本期视频中，Nico投资有道坦诚复盘其在稳定币龙头Circle股票上的投资失误，详细公开持仓及盈亏情况。他分析了建仓过早、低估市场回调力度等问题，并深入探讨了Circle的长期潜力，包括稳定币作为加密货币入口、改变传统金融贸易方式、价值存储工具以及美国战略支柱的逻辑。视频最后，Nico分享了在市场波动中保持投资心态、坚持纪律的重要性，并承诺持续更新其投资标的动态。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - personal-growth-lab
-people:
-  - Nico
-  - Cathie Wood
-companies_orgs:
-  - Circle
-  - Tether
-  - Tesla
-  - Sofi
-  - AMD
-  - Nvidia
-  - Standard Chartered Bank
-products_models:
-  - Ethereum
-  - Bitcoin
-media_books: []
 status: evergreen
+summary: 本期视频中，Nico投资有道坦诚复盘其在稳定币龙头Circle股票上的投资失误，详细公开持仓及盈亏情况。他分析了建仓过早、低估市场回调力度等问题，并深入探讨了Circle的长期潜力，包括稳定币作为加密货币入口、改变传统金融贸易方式、价值存储工具以及美国战略支柱的逻辑。视频最后，Nico分享了在市场波动中保持投资心态、坚持纪律的重要性，并承诺持续更新其投资标的动态。
+tags:
+- investment
+- long-term-investing
+- loss
+- market-downturn
+title: Circle股票投资复盘：股价腰斩后的反思与稳定币赛道展望
 ---
+
 ### Circle股票投资失误与个人持仓披露
 
 关于Circle这支股票，我必须承认我错了。最近Circle股价暴跌，我的仓位接近腰斩。今天这期视频，我将全面公开我所有的Circle持仓以及盈亏情况，并详细复盘我在这支股票上的操作。即使你完全不了解Circle这家公司，也没有投资过Circle，我相信这期视频的内容也一定会对你的长期投资和**价值投资**（Value Investing: 一种投资策略，侧重于寻找被市场低估的股票）有很大的帮助，所以请务必看到最后。

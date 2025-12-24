@@ -1,36 +1,35 @@
 ---
-author: 海伦子Hellen
+area: tech-insights
+category: technology
+companies_orgs:
+- SpaceX
+- FAA
 date: '2024-10-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Elon Musk
+products_models:
+- Starship
+- Raptor engine
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=Qiq0X87P5Pg
 speaker: 海伦子Hellen
-tags:
-  - starship-flight-5
-  - booster-landing
-  - chopstick-capture
-  - atmospheric-reentry
-  - reusability
-  - space-exploration
-title: SpaceX星舰第五次试飞：筷子捕获助推器与二级精准着陆的里程碑
-summary: SpaceX星舰（Starship）在第五次试飞中取得了重大突破，其助推器首次成功被发射塔的“筷子”捕获，实现了精准回收。同时，星舰二级也成功进行了大气层重返并精准降落在目标区域。本次试飞不仅验证了多项关键技术，也为未来星舰的快速重复使用、火星登陆以及地球点对点超快速运输奠定了坚实基础，标志着人类航天史上的又一里程碑。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project: []
-people:
-  - Elon Musk
-companies_orgs:
-  - SpaceX
-  - FAA
-products_models:
-  - Starship
-  - Raptor engine
-media_books: []
 status: evergreen
+summary: SpaceX星舰（Starship）在第五次试飞中取得了重大突破，其助推器首次成功被发射塔的“筷子”捕获，实现了精准回收。同时，星舰二级也成功进行了大气层重返并精准降落在目标区域。本次试飞不仅验证了多项关键技术，也为未来星舰的快速重复使用、火星登陆以及地球点对点超快速运输奠定了坚实基础，标志着人类航天史上的又一里程碑。
+tags:
+- atmospheric-reentry
+- booster-landing
+- chopstick-capture
+- geopolitical
+- science
+- space-exploration
+title: SpaceX星舰第五次试飞：筷子捕获助推器与二级精准着陆的里程碑
 ---
+
 ### 星舰五飞：助推器“筷子”捕获的惊人成功
 
 2024年10月13日，SpaceX进行了星舰（Starship）的第五次试飞，其中最令人激动和惊奇的一幕是星舰助推器成功返回并被发射塔的“筷子”捕获。尽管从物理学角度来看，这一操作是可行的，但其一次性成功仍然超出了许多人的预期。星舰助推器高71米，直径9米，全不锈钢箭身。返回时，包括推进剂在内总质量约300吨，最大速度接近4倍音速，最终稳稳地降落在高146米的发射架上。对于从离地95公里下落的助推器而言，这个目标显得异常微小。这个发射塔官方名为“Mechazilla”（机械怪兽），其上的巨大机械臂则被昵称为“筷子”。

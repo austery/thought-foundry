@@ -1,52 +1,51 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Federal Reserve
+- Bloomberg Audio Studios
+- NLRB
+- FTC
+- Supreme Court
+- White House
+- Congress
 date: '2025-08-27'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Odd Lots
+- Bloomberg
+people:
+- Donald Trump
+- Lisa Cook
+- Jerome Powell
+- Lev Menand
+- Adam Posen
+- Gwyn Wilcox
+- Bedoya
+- Alexander Hamilton
+- Chuck Prince
+- Corolla Binder
+products_models:
+- The Fed Unbound
+project:
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=L_7x6fEOYIU
 speaker: Bloomberg Podcasts
-tags:
-  - central-bank-independence
-  - presidential-power
-  - rule-of-law
-  - for-cause-removal
-  - monetary-policy
-title: 特朗普试图解雇美联储理事丽莎·库克：中央银行独立性与法治的危机
-summary: 本期播客深入探讨了美国前总统唐纳德·特朗普试图解雇美联储理事丽莎·库克的事件。嘉宾哥伦比亚大学法学院教授莱夫·梅南德分析了此举的法律先例、“有因解雇”的定义，以及对美联储独立性和美国法治的深远影响。讨论还涵盖了特朗普政府寻求控制美联储的动机，包括其对宽松货币政策和资产泡沫经济的追求，以及中央银行独立性在权力制衡中的关键作用。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Lisa Cook
-  - Jerome Powell
-  - Lev Menand
-  - Adam Posen
-  - Gwyn Wilcox
-  - Bedoya
-  - Alexander Hamilton
-  - Chuck Prince
-  - Corolla Binder
-companies_orgs:
-  - Federal Reserve
-  - Bloomberg Audio Studios
-  - NLRB
-  - FTC
-  - Supreme Court
-  - White House
-  - Congress
-products_models:
-  - The Fed Unbound
-media_books:
-  - Odd Lots
-  - Bloomberg
 status: evergreen
+summary: 本期播客深入探讨了美国前总统唐纳德·特朗普试图解雇美联储理事丽莎·库克的事件。嘉宾哥伦比亚大学法学院教授莱夫·梅南德分析了此举的法律先例、“有因解雇”的定义，以及对美联储独立性和美国法治的深远影响。讨论还涵盖了特朗普政府寻求控制美联储的动机，包括其对宽松货币政策和资产泡沫经济的追求，以及中央银行独立性在权力制衡中的关键作用。
+tags:
+- central-bank-independence
+- geopolitical
+- presidential-power
+- rule-of-law
+title: 特朗普试图解雇美联储理事丽莎·库克：中央银行独立性与法治的危机
 ---
+
 ### 紧急播客：美联储理事解雇风波
 
 [音乐]

@@ -1,37 +1,34 @@
 ---
-author: Veritasium
-date: '2019-08-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qnOoDE9rj6w
-speaker: Veritasium
-tags:
-  - veritasium
-  - aerogel
-  - thermal-insulation
-  - material-science
-  - cryogenic-applications
-  - subsea-pipelines
-title: 喷火器对决气凝胶：终极绝缘材料的惊人表现与广泛应用
-summary: 本视频深入探讨了气凝胶卓越的绝缘性能。通过喷火器与气凝胶毯的极限测试，展示了其在极端高温下的惊人隔热能力。文章还详细介绍了气凝胶在低温、安全触控以及深海油气管道等多个领域的实际应用，揭示了这种曾被视为奇特材料的广阔前景及其对工业的深远影响。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project: []
-people: []
+category: technology
 companies_orgs:
-  - Aspen Aerogels
-  - The Boring Company
-  - NASA
+- Aspen Aerogels
+- The Boring Company
+- NASA
+date: '2019-08-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 products_models:
-  - PyroGel XTE
-  - FLIR T1020
-  - Aerolon
-media_books: []
+- PyroGel XTE
+- FLIR T1020
+- Aerolon
+project: []
+series: ''
+source: https://www.youtube.com/watch?v=qnOoDE9rj6w
+speaker: veritasium
 status: evergreen
+summary: 本视频深入探讨了气凝胶卓越的绝缘性能。通过喷火器与气凝胶毯的极限测试，展示了其在极端高温下的惊人隔热能力。文章还详细介绍了气凝胶在低温、安全触控以及深海油气管道等多个领域的实际应用，揭示了这种曾被视为奇特材料的广阔前景及其对工业的深远影响。
+tags:
+- aerogel
+- code
+- material-science
+- subsea-pipeline
+- thermal-insulation
+title: 喷火器对决气凝胶：终极绝缘材料的惊人表现与广泛应用
 ---
+
 ### 气凝胶的终极考验：喷火器对决
 
 这是一场气凝胶的终极测试。

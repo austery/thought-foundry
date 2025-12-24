@@ -1,33 +1,32 @@
 ---
-author: 徒步的騎手
-date: 2025-08-07
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=FiJJYqOhqBk'
-speaker: 徒步的騎手
-tags:
-  - collapse-theory
-  - value-system
-  - meaning-vacuum
-  - cultural-ruins
-  - personal-refuge
-title: 中国崩溃论：后崩溃时代的价值废墟与个人避难所的构筑
-summary: 本文深入探讨了“中国崩溃论”为何成为一种令人上瘾的社会心态。作者认为，真正的崩溃并非经济或政治层面的未来事件，而是已经发生在文化和价值体系层面的现实。通过与罗马帝国衰亡的历史进行类比，文章指出我们正处于一个意义真空的“后崩溃时代”。面对这一局面，普通人不应消极等待，而应主动构筑个人的“精神避难所”，通过阅读、思考和建立社群，重建内心的秩序与意义。
-insight: ''
-draft: true
-series: ''
-category: culture
 area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - personal-growth-lab
-people:
-  - John Maynard Keynes
+category: culture
 companies_orgs: '[]'
-products_models: '[]'
+date: 2025-08-07
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books: '[]'
+people:
+- John Maynard Keynes
+products_models: '[]'
+project:
+- china-analysis
+- historical-insights
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=FiJJYqOhqBk
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了“中国崩溃论”为何成为一种令人上瘾的社会心态。作者认为，真正的崩溃并非经济或政治层面的未来事件，而是已经发生在文化和价值体系层面的现实。通过与罗马帝国衰亡的历史进行类比，文章指出我们正处于一个意义真空的“后崩溃时代”。面对这一局面，普通人不应消极等待，而应主动构筑个人的“精神避难所”，通过阅读、思考和建立社群，重建内心的秩序与意义。
+tags:
+- cultural
+- personal
+- psychology
+- system
+- theory
+title: 中国崩溃论：后崩溃时代的价值废墟与个人避难所的构筑
 ---
 
 ## “崩溃综合症”：我们时代的精神流行病

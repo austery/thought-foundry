@@ -1,72 +1,72 @@
 ---
-author: The Knowledge Project Podcast
+area: personal-systems
+category: psychology
+companies_orgs:
+- The New York Times
+- McGraw-Hill
+- Barnes & Noble
+- Starbucks
+- Amazon
+- Chipotle
+- Rolex
+- Bremont
+- Instagram
 date: '2025-11-25'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Inner Excellence
+- The Best Possible Life
+- Make the Impossible Possible
+- The Courage to Be Disliked
+- Atomic Habits
+people:
+- Jim Murphy
+- Shane Parrish
+- Brent Beshore
+- Tom Brady
+- Michael Phelps
+- David Foster Wallace
+- Jerry Seinfeld
+- Shane Claiborne
+- Bill Strickland
+- AJ Brown
+- Ricky Scruggs
+- Tim Keller
+- Brian Urlacher
+- Lewis Gordon Pugh
+- James Clear
+- Teddy Scott
+- Scottie Scheffler
+- Daniel Kahneman
+- Nick Osborne
+- Emily Balcetis
+- Simon Sinek
+products_models:
+- Aura Ring
+- Whoop
+- BioStrap
+- Remarkable 2
+- Remarkable Paper Pro
+- Remarkable Paper Pro Move
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=WvJg4SMzzQ8
 speaker: The Knowledge Project Podcast
-tags:
-  - inner-excellence
-  - performance-under-pressure
-  - clean-vs-dirty-fuel
-  - ego-management
-  - purpose-driven-life
-title: 顶级绩效教练：《内心卓越》作者揭示在高压下保持冷静与实现人生意义的原则
-summary: 顶级绩效教练兼《内心卓越》作者吉姆·墨菲深入探讨了超越世俗成功的真正含义。本期播客剖析了“清洁燃料”与“肮脏燃料”的动机差异，阐述了为何“全然临在”比自信更强大，并揭示了将追求卓越表现与探寻有意义人生相结合的路径。通过个人经历与深刻洞见，墨菲为如何在压力下保持冷静、克服小我、找到持久的人生目标提供了实用指南。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Jim Murphy
-  - Shane Parrish
-  - Brent Beshore
-  - Tom Brady
-  - Michael Phelps
-  - David Foster Wallace
-  - Jerry Seinfeld
-  - Shane Claiborne
-  - Bill Strickland
-  - AJ Brown
-  - Ricky Scruggs
-  - Tim Keller
-  - Brian Urlacher
-  - Lewis Gordon Pugh
-  - James Clear
-  - Teddy Scott
-  - Scottie Scheffler
-  - Daniel Kahneman
-  - Nick Osborne
-  - Emily Balcetis
-  - Simon Sinek
-companies_orgs:
-  - The New York Times
-  - McGraw-Hill
-  - Barnes & Noble
-  - Starbucks
-  - Amazon
-  - Chipotle
-  - Rolex
-  - Bremont
-  - Instagram
-products_models:
-  - Aura Ring
-  - Whoop
-  - BioStrap
-  - Remarkable 2
-  - Remarkable Paper Pro
-  - Remarkable Paper Pro Move
-media_books:
-  - Inner Excellence
-  - The Best Possible Life
-  - Make the Impossible Possible
-  - The Courage to Be Disliked
-  - Atomic Habits
 status: evergreen
+summary: 顶级绩效教练兼《内心卓越》作者吉姆·墨菲深入探讨了超越世俗成功的真正含义。本期播客剖析了“清洁燃料”与“肮脏燃料”的动机差异，阐述了为何“全然临在”比自信更强大，并揭示了将追求卓越表现与探寻有意义人生相结合的路径。通过个人经历与深刻洞见，墨菲为如何在压力下保持冷静、克服小我、找到持久的人生目标提供了实用指南。
+tags:
+- clean-vs-dirty-fuel
+- health
+- life
+- management
+- performance
+title: 顶级绩效教练：《内心卓越》作者揭示在高压下保持冷静与实现人生意义的原则
 ---
+
 ### 决定生活质量的三大基石
 
 **Shane:** 我想从《内心卓越》这本书开始。你写了这本书，希望整理出一本关于如何在压力下保持坚韧心智和卓越表现的手册。我在这本书里划的第一个重点，甚至还没到正文页码，就在序言里。你提到，人生的质量取决于三个要素：你由思想、情感、信念和欲望构成的内心世界；你看待世界的参照系和心态；以及你的人际关系。你是如何得出这个结论的？

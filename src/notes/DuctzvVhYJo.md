@@ -1,45 +1,45 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Accenture
+- Norges Bank Investment Management
+- BBVA
+- Mars
+- Gallup
 date: '2025-01-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Weekend Language
+people:
+- Julie Sweet
+- Nicola Tangen
+- Andy Craig
+products_models:
+- Gallup Strength Finder
+- AI Refinery
+- Enterprise Navigator
+project:
+- ai-impact-analysis
+- systems-thinking
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=DuctzvVhYJo
 speaker: Norges Bank Investment Management
-tags:
-  - digital-transformation
-  - ai-adoption
-  - corporate-culture
-  - leadership-development
-  - organizational-change
-title: 埃森哲CEO朱莉·斯威特：引领变革，拥抱AI与持续再创造
-summary: 本期播客中，埃森哲（Accenture）首席执行官朱莉·斯威特（Julie Sweet）分享了她如何领导这家全球领先的专业服务公司。她强调了技术、数据和AI在企业转型中的关键作用，探讨了埃森哲如何帮助客户实现增长与效率，并深入阐述了公司以学习、变革和创新为核心的企业文化。斯威特还分享了她对领导力、沟通技巧以及人才培养的独到见解，并鼓励年轻人以卓越、自信和谦逊的态度生活，勇于追逐梦想。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - systems-thinking
-  - personal-growth-lab
-people:
-  - Julie Sweet
-  - Nicola Tangen
-  - Andy Craig
-companies_orgs:
-  - Accenture
-  - Norges Bank Investment Management
-  - BBVA
-  - Mars
-  - Gallup
-products_models:
-  - Gallup Strength Finder
-  - AI Refinery
-  - Enterprise Navigator
-media_books:
-  - Weekend Language
 status: evergreen
+summary: 本期播客中，埃森哲（Accenture）首席执行官朱莉·斯威特（Julie Sweet）分享了她如何领导这家全球领先的专业服务公司。她强调了技术、数据和AI在企业转型中的关键作用，探讨了埃森哲如何帮助客户实现增长与效率，并深入阐述了公司以学习、变革和创新为核心的企业文化。斯威特还分享了她对领导力、沟通技巧以及人才培养的独到见解，并鼓励年轻人以卓越、自信和谦逊的态度生活，勇于追逐梦想。
+tags:
+- ai-adoption
+- corporate-culture
+- digital-transformation
+- leadership-development
+- organizational
+title: 埃森哲CEO朱莉·斯威特：引领变革，拥抱AI与持续再创造
 ---
+
 ### 欢迎与埃森哲CEO朱莉·斯威特对话
 
 Nicola Tangen: 大家好，我是尼古拉·坦根（Nicola Tangen）。今天，我非常荣幸能与埃森哲（**Accenture**: 全球领先的专业服务公司，提供战略、咨询、数字、技术和运营服务）的首席执行官兼董事长朱莉·斯威特（Julie Sweet）进行对话。

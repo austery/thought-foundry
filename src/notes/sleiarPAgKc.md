@@ -1,44 +1,43 @@
 ---
-author: TED
+area: society-systems
+category: culture
+companies_orgs:
+- American Ballet Theater
+- Metropolitan Opera House
+- San Pedro Boys and Girls Club
+- Ballet Russe de Monte Carlo
+- Misty Copeland Foundation
+- Ku Klux Klan
 date: '2025-12-02'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- The Firebird
+- Swan Lake
+- The New York Times
+people:
+- Misty Copeland
+- Raven Wilkinson
+- Prince
+products_models: []
+project:
+- personal-growth-lab
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=sleiarPAgKc
 speaker: TED
-tags:
-  - resilience
-  - ballet-artistry
-  - racial-barriers
-  - personal-perseverance
-  - social-impact
-title: Misty Copeland：芭蕾如何助我找到韧性与力量
-summary: 著名芭蕾舞者Misty Copeland分享了她在芭蕾舞生涯中如何通过艺术找到韧性。她讲述了在受伤、种族歧视和个人困境中坚持不懈的经历，包括带伤完成《火鸟》演出、被排除在《天鹅湖》拍摄之外，以及最终成为美国芭蕾舞剧院首位非裔首席舞者。她强调韧性并非坚不可摧，而是带着目标穿越痛苦，并在不确定中保持平静，最终将痛苦转化为美丽和传承。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - personal-growth-lab
-  - cultural-critique
-people:
-  - Misty Copeland
-  - Raven Wilkinson
-  - Prince
-companies_orgs:
-  - American Ballet Theater
-  - Metropolitan Opera House
-  - San Pedro Boys and Girls Club
-  - Ballet Russe de Monte Carlo
-  - Misty Copeland Foundation
-  - Ku Klux Klan
-products_models: []
-media_books:
-  - The Firebird
-  - Swan Lake
-  - The New York Times
 status: evergreen
+summary: 著名芭蕾舞者Misty Copeland分享了她在芭蕾舞生涯中如何通过艺术找到韧性。她讲述了在受伤、种族歧视和个人困境中坚持不懈的经历，包括带伤完成《火鸟》演出、被排除在《天鹅湖》拍摄之外，以及最终成为美国芭蕾舞剧院首位非裔首席舞者。她强调韧性并非坚不可摧，而是带着目标穿越痛苦，并在不确定中保持平静，最终将痛苦转化为美丽和传承。
+tags:
+- personal
+- resilience
+- social-impact
+- technology
+title: Misty Copeland：芭蕾如何助我找到韧性与力量
 ---
+
 ### 带伤起舞：《火鸟》与韧性的初次考验
 
 我在美国芭蕾舞剧院（**American Ballet Theater**：美国最顶尖的芭蕾舞团之一）首次表演《火鸟》的那个夜晚，我还没有成为一名**首席舞者**（principal dancer：芭蕾舞团中最高级别的舞者）。

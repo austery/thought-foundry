@@ -1,68 +1,68 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- YouTube
+- Google
+- Meta
+- Match Group
+- Tinder
+- OkCupid
+- LinkedIn
+- NSA
+- Palantir Technologies
+- Microsoft
+- IBM
+- ACM
+- USCIS
+- Volkswagen
 date: '2021-12-10'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《数字时代的人权思辨》
+- 《太空大战》
+people:
+- Lizzei O'shea
+- Latanya Sweeney
+- Wu Xiuming
+- Jane Jacobs
+- Edward Snowden
+- Fanon
+- Jack Balkin
+- Bill Gates
+- Richard Stallman
+- Elinor Ostrom
+products_models:
+- Windows
+- Diaspora
+- Solid
+- Freedom Box
+- OpenStreetMap
+- Google Map
+- GNU
+- Unix
+- Linux
+project:
+- geopolitics-watch
+- us-analysis
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=hvJjfzsLoto
 speaker: 超級歪 SuperY
-tags:
-  - surveillance-capitalism
-  - digital-autonomy
-  - net-neutrality
-  - algorithmic-bias
-  - free-software-movement
-title: 数字时代的人权思辨：从监控资本主义到数字自治
-summary: 本期节目深入探讨了数字时代对人权的挑战，包括监控资本主义、科技巨头垄断以及国家监控。节目分析了网络中立性、数字公民权和数字自治等核心概念，并呼吁通过去中心化平台和伦理化的软件开发，将数字技术从服务少数人转变为促进社会繁荣的力量。它还探讨了算法偏见、自由软件运动的历史及其对未来数字生态的启示。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - us-analysis
-  - china-analysis
-people:
-  - Lizzei O'shea
-  - Latanya Sweeney
-  - Wu Xiuming
-  - Jane Jacobs
-  - Edward Snowden
-  - Fanon
-  - Jack Balkin
-  - Bill Gates
-  - Richard Stallman
-  - Elinor Ostrom
-companies_orgs:
-  - YouTube
-  - Google
-  - Facebook
-  - Match Group
-  - Tinder
-  - OkCupid
-  - LinkedIn
-  - NSA
-  - Palantir Technologies
-  - Microsoft
-  - IBM
-  - ACM
-  - USCIS
-  - Volkswagen
-products_models:
-  - Windows
-  - Diaspora
-  - Solid
-  - Freedom Box
-  - OpenStreetMap
-  - Google Map
-  - GNU
-  - Unix
-  - Linux
-media_books:
-  - 《数字时代的人权思辨》
-  - 《太空大战》
 status: evergreen
+summary: 本期节目深入探讨了数字时代对人权的挑战，包括监控资本主义、科技巨头垄断以及国家监控。节目分析了网络中立性、数字公民权和数字自治等核心概念，并呼吁通过去中心化平台和伦理化的软件开发，将数字技术从服务少数人转变为促进社会繁荣的力量。它还探讨了算法偏见、自由软件运动的历史及其对未来数字生态的启示。
+tags:
+- bias
+- digital
+- free
+- geopolitical
+- investment
+title: 数字时代的人权思辨：从监控资本主义到数字自治
 ---
+
 ### 数字时代的困境与思考
 
 此前，我们曾介绍过一部关于算法与**监控资本主义**（Surveillance Capitalism: 科技公司通过收集用户数据并将其出售给广告商来盈利的商业模式）的电影。视频发布后，许多观众反馈，虽然大家早已了解这些问题，但却无能为力，难道要停止使用YouTube、Google、Facebook吗？今天，我们将通过《数字时代的人权思辨》这本书来探讨，当我们无法摆脱数字技术时，我们应该如何应对。

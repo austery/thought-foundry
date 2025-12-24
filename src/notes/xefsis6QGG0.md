@@ -1,106 +1,107 @@
 ---
-author: 大飞说科技
-date: 2025-10-31
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=xefsis6QGG0'
-speaker: Best Partners TV
-tags:
-  - ai-innovation
-  - accelerated-computing
-  - digital-twins
-  - ai-as-labor
-  - 6g-technology
-title: 英伟达GTC大会：黄仁勋描绘AI帝国版图，发布Vera Rubin芯片，深化全栈生态与全球合作
-summary: 在GTC大会上，英伟达CEO黄仁勋将AI创新提升至“下一个阿波罗时刻”。他发布了下一代Vera Rubin超级芯片，并详细阐述了CUDA-X全栈加速库、NVQLink量子互联技术等核心软件生态。英伟达通过对诺基亚、OpenAI等公司的战略投资，以及与甲骨文、富士康、Uber等巨头的广泛合作，将触角伸向6G、量子计算、机器人、自动驾驶等多个前沿领域。演讲描绘了英伟达从算力到场景的全链路AI帝国版图，预示着新工业革命的到来。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - ai-impact-analysis
-  - market-cycles
-people:
-  - Jensen Huang
-  - Vera Rubin
+author: 大飞说科技
+category: technology
 companies_orgs:
-  - NVIDIA
-  - Intel
-  - OpenAI
-  - Nokia
-  - Oracle
-  - Foxconn
-  - Uber
-  - U.S. Department of Energy
-  - Argonne National Laboratory
-  - HPE
-  - Los Alamos National Laboratory
-  - Dell Technologies
-  - T-Mobile
-  - Siemens
-  - FANUC
-  - Foxconn Industrial Internet
-  - Caterpillar
-  - Toyota
-  - TSMC
-  - Figure AI
-  - Agility Robotics
-  - Amazon
-  - Skild AI
-  - FieldAI
-  - Disney
-  - Palantir
-  - CrowdStrike
-  - SAP
-  - Synopsys
-  - Cadence
-  - Eli Lilly
-  - Stellantis
-  - Lucid
-  - Mercedes-Benz
-  - Aurora
-  - Volvo
-  - Waabi
-products_models:
-  - Vera Rubin
-  - Blackwell GPU
-  - CUDA-X
-  - cuDNN
-  - TensorRT-LLM
-  - RAPIDS
-  - cuOpt
-  - cuLitho
-  - CUDA-Q
-  - HBM4
-  - LPDDR
-  - NVLINK-C2C
-  - Vera Rubin NVL144
-  - GB300 NVL72
-  - Rubin Ultra NVL576
-  - Blackwell Ultra
-  - Solstice
-  - Equinox
-  - QuantumX 800 Infiniband
-  - ARC
-  - AI-RAN
-  - NVQLink
-  - Omniverse
-  - Xcelerator
-  - OpenUSD
-  - Helix
-  - Digit
-  - Isaac Lab
-  - BlueJay
-  - Cosmos
-  - Ontology
-  - DRIVE AGX Hyperion 10
-  - DRIVE AGX Thor
-  - DRIVE Platform
+- NVIDIA
+- Intel
+- OpenAI
+- Nokia
+- Oracle
+- Foxconn
+- Uber
+- U.S. Department of Energy
+- Argonne National Laboratory
+- HPE
+- Los Alamos National Laboratory
+- Dell Technologies
+- T-Mobile
+- Siemens
+- FANUC
+- Foxconn Industrial Internet
+- Caterpillar
+- Toyota
+- TSMC
+- Figure AI
+- Agility Robotics
+- Amazon
+- Skild AI
+- FieldAI
+- Disney
+- Palantir
+- CrowdStrike
+- SAP
+- Synopsys
+- Cadence
+- Eli Lilly
+- Stellantis
+- Lucid
+- Mercedes-Benz
+- Aurora
+- Volvo
+- Waabi
+date: 2025-10-31
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Omdia
+- Omdia
+people:
+- Jensen Huang
+- Vera Rubin
+products_models:
+- Vera Rubin
+- Blackwell GPU
+- CUDA-X
+- cuDNN
+- TensorRT-LLM
+- RAPIDS
+- cuOpt
+- cuLitho
+- CUDA-Q
+- HBM4
+- LPDDR
+- NVLINK-C2C
+- Vera Rubin NVL144
+- GB300 NVL72
+- Rubin Ultra NVL576
+- Blackwell Ultra
+- Solstice
+- Equinox
+- QuantumX 800 Infiniband
+- ARC
+- AI-RAN
+- NVQLink
+- Omniverse
+- Xcelerator
+- OpenUSD
+- Helix
+- Digit
+- Isaac Lab
+- BlueJay
+- Cosmos
+- Ontology
+- DRIVE AGX Hyperion 10
+- DRIVE AGX Thor
+- DRIVE Platform
+project:
+- ai-impact-analysis
+- market-cycles
+series: ''
+source: https://www.youtube.com/watch?v=xefsis6QGG0
+speaker: Best Partners TV
 status: evergreen
+summary: 在GTC大会上，英伟达CEO黄仁勋将AI创新提升至“下一个阿波罗时刻”。他发布了下一代Vera Rubin超级芯片，并详细阐述了CUDA-X全栈加速库、NVQLink量子互联技术等核心软件生态。英伟达通过对诺基亚、OpenAI等公司的战略投资，以及与甲骨文、富士康、Uber等巨头的广泛合作，将触角伸向6G、量子计算、机器人、自动驾驶等多个前沿领域。演讲描绘了英伟达从算力到场景的全链路AI帝国版图，预示着新工业革命的到来。
+tags:
+- accelerated-computing
+- ai-innovation
+- digital
+- labor
+- technology
+title: 英伟达GTC大会：黄仁勋描绘AI帝国版图，发布Vera Rubin芯片，深化全栈生态与全球合作
 ---
+
 ### 英伟达GTC大会：AI创新定调“下一个阿波罗时刻”
 
 美东时间10月28日，黄仁勋在华盛顿举办的GTC大会上发表了一场重要的主题演讲。他以一系列人类历史创新的剪影作为开场，将英伟达与AI创新直接拔高定调为“下一个**阿波罗时刻**”（Apollo Moment: 指像美国阿波罗登月计划一样，具有里程碑意义、推动人类进步的重大创新时刻）。在这次演讲中，除了展示下一代超级芯片Vera Rubin，黄仁勋还大谈6G、量子计算、机器人和自动驾驶，大屏上的合作对象名单可以说是密密麻麻。

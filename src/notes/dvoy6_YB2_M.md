@@ -1,51 +1,51 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- AIT
+- WHO
+- G7
+- ASEAN
 date: '2025-12-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华尔街日报》
+people:
+- 高市早苗
+- 赖清德
+- Donald Trump
+- Nancy Pelosi
+- 尹锡悦
+- 岸田文雄
+- Joe Biden
+- 李在明
+- 萧美琴
+- Samuel Paparo
+- 黄循财
+products_models:
+- Iron Dome
+- T-DOM
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=dvoy6_YB2_M
 speaker: FearNation 世界苦茶
-tags:
-  - taiwan-strait
-  - geopolitical-strategy
-  - international-relations
-  - china-taiwan-relations
-  - us-taiwan-policy
-title: 台海局势新变局：国际化浪潮与中国内政化之争
-summary: 近期台海局势发生重大变化，核心在于台湾问题“内政化”与“国际化”的激烈交锋。文章深入分析了台湾雄心勃勃的防务预算、美国《台湾保证实施法案》的签署，以及日本、韩国、东盟国家、G7、新西兰和澳大利亚等国际社会在台海问题上日益明确的立场和行动。这些举措共同推动台海问题走向国际化，旨在突破中国将其视为内政的论述，以期维护地区和平与现状。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 高市早苗
-  - 赖清德
-  - Donald Trump
-  - Nancy Pelosi
-  - 尹锡悦
-  - 岸田文雄
-  - Joe Biden
-  - 李在明
-  - 萧美琴
-  - Samuel Paparo
-  - 黄循财
-companies_orgs:
-  - AIT
-  - WHO
-  - G7
-  - ASEAN
-products_models:
-  - Iron Dome
-  - T-DOM
-media_books:
-  - 《华尔街日报》
 status: evergreen
+summary: 近期台海局势发生重大变化，核心在于台湾问题“内政化”与“国际化”的激烈交锋。文章深入分析了台湾雄心勃勃的防务预算、美国《台湾保证实施法案》的签署，以及日本、韩国、东盟国家、G7、新西兰和澳大利亚等国际社会在台海问题上日益明确的立场和行动。这些举措共同推动台海问题走向国际化，旨在突破中国将其视为内政的论述，以期维护地区和平与现状。
+tags:
+- china-taiwan-relations
+- geopolitical-strategy
+- international-relations
+- policy
+- taiwan-strait
+title: 台海局势新变局：国际化浪潮与中国内政化之争
 ---
+
 ### 中日关系与台海局势的深层关联
 
 近期，中国官方媒体和外交部对日本高市早苗的言论持续强硬，要求其收回关于台湾的表态，而非仅仅重申历史立场。尽管高市早苗重申了1972年《中日联合声明》中日本“认识并尊重”台湾是中国不可分割一部分的观点，但这并未平息中方的不满。与此同时，网上也出现了一些关于中日可能开战的言论，尽管这被认为是极少数人的观点，但其影响力不容小觑。然而，这些表面上的中日摩擦，在我看来，更多是中国在“胡搅蛮缠”，真正值得关注的是台海局势正在发生的重大改变。

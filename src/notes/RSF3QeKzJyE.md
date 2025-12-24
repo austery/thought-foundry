@@ -1,66 +1,65 @@
 ---
-author: LT視界
+area: society-thinking
+category: politics-society
+companies_orgs:
+- Pentagon
+- White House
+- Oxford Economics
+- Morgan Stanley
+- FBI
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Reuters
+- Wall Street Journal
+- Bloomberg
+- Associated Press
+- New York Times
+- Huffington Post
+- Fox News
+people:
+- Donald Trump
+- Xi Jinping
+- Mark Carney
+- Takachi Sanae
+- Ma Hongbao
+- Vladimir Putin
+- John Heggins
+- Bruce Las
+- Robert Yaros
+- Sean Parnell
+- Levitt
+- Hogseth
+- George Bush
+- Koizumi Junichiro
+- Kathy Hochul
+- Li Chenggang
+- Guo Jiakun
+products_models:
+- H1B visa
+- Case Stone
+- WPS
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=RSF3QeKzJyE
 speaker: LT視界
-tags:
-  - us-government-shutdown
-  - rare-earth-controls
-  - us-china-trade-war
-  - geopolitical-decoupling
-  - political-polarization
-  - campaign-strategy
-title: 中国稀土政策的极端化与中美关系的螺旋式升级：全球经济与政治的复杂博弈
-summary: 本文深入剖析了中国稀土出口管制的极端化措施，包括强制中文申请和使用国产软件，此举正加速全球产业链的去风险化与重建。同时，文章探讨了美国政府停摆对经济的深远影响、日本政治向右翼的转变，以及中美贸易关系在表面缓和下实则螺旋式升级的本质。此外，还关注了华裔学者马洪宝竞选纽约州长提出的“六个清零”主张，并分析了美国H1B签证费政策的最新调整。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Xi Jinping
-  - Mark Carney
-  - Takachi Sanae
-  - Ma Hongbao
-  - Vladimir Putin
-  - John Heggins
-  - Bruce Las
-  - Robert Yaros
-  - Sean Parnell
-  - Levitt
-  - Hogseth
-  - George Bush
-  - Koizumi Junichiro
-  - Kathy Hochul
-  - Li Chenggang
-  - Guo Jiakun
-companies_orgs:
-  - Pentagon
-  - White House
-  - Oxford Economics
-  - Morgan Stanley
-  - FBI
-products_models:
-  - H1B visa
-  - Case Stone
-  - WPS
-media_books:
-  - Reuters
-  - Wall Street Journal
-  - Bloomberg
-  - Associated Press
-  - New York Times
-  - Huffington Post
-  - Fox News
 status: evergreen
+summary: 本文深入剖析了中国稀土出口管制的极端化措施，包括强制中文申请和使用国产软件，此举正加速全球产业链的去风险化与重建。同时，文章探讨了美国政府停摆对经济的深远影响、日本政治向右翼的转变，以及中美贸易关系在表面缓和下实则螺旋式升级的本质。此外，还关注了华裔学者马洪宝竞选纽约州长提出的“六个清零”主张，并分析了美国H1B签证费政策的最新调整。
+tags:
+- campaign-strategy
+- geopolitical
+- rare-earth-control
+- us-china-relations
+- us-government-shutdown
+title: 中国稀土政策的极端化与中美关系的螺旋式升级：全球经济与政治的复杂博弈
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月21日，我们首先来了解今天的财经头条。
 
 ### 财经头条：黄金泡沫警告与美国政府停摆的经济冲击

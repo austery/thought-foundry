@@ -1,60 +1,59 @@
 ---
-author: 徒步的騎手
-date: 2025-03-18
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=2pFYkzZ-DNI'
-speaker: 徒步的騎手
-tags:
-  - alien-enemies-act
-  - constitutional-crisis
-  - presidential-power
-  - us-constitutional-history
-  - immigration-policy
-title: 特朗普启动‘外国敌人法案’：历史沿革、宪法争议与美国民主的韧性
-summary: 本文深入探讨了美国总统特朗普近期启动的‘外国敌人法案’，追溯其227年的历史，从1798年约翰·亚当斯时期应对法美紧张关系，到麦迪逊、威尔逊和小罗斯福总统在战争时期的三次启用。文章详细阐述了该法案的法律依据、适用范围与历史争议，并分析了特朗普在非战争时期将其用于驱逐非法移民中的犯罪分子的具体操作，以及由此引发的‘宪法危机’辩论。通过对美国宪政民主发展历程的梳理，揭示了其在复杂规则和政治博弈中不断完善的韧性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - Donald Trump
-  - George Washington
-  - John Adams
-  - Thomas Jefferson
-  - James Madison
-  - Woodrow Wilson
-  - Franklin D. Roosevelt
-  - Nayib Bukele
-  - Marco Rubio
-  - David Brown
-  - Luther Baldwin
-  - Kamala Harris
-  - Joe Biden
-  - Hillary Clinton
+category: geopolitics
 companies_orgs:
-  - Department of Homeland Security
-  - Federal Court
-  - U.S. Congress
-  - U.S. Supreme Court
-  - TDA Gang
-  - Maduro Government of Venezuela
-  - Government of El Salvador
-  - Government of Honduras
-products_models: '[]'
+- Department of Homeland Security
+- Federal Court
+- U.S. Congress
+- U.S. Supreme Court
+- TDA Gang
+- Maduro Government of Venezuela
+- Government of El Salvador
+- Government of Honduras
+date: 2025-03-18
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《独立宣言》
-  - The Alien Enemies Act of 1798
-  - The Alien Friends Act
-  - The Naturalization Act
-  - The Sedition Act
-  - Marbury v. Madison
+- 《独立宣言》
+- The Alien Enemies Act of 1798
+- The Alien Friends Act
+- The Naturalization Act
+- The Sedition Act
+- Marbury v. Madison
+people:
+- Donald Trump
+- George Washington
+- John Adams
+- Thomas Jefferson
+- James Madison
+- Woodrow Wilson
+- Franklin D. Roosevelt
+- Nayib Bukele
+- Marco Rubio
+- David Brown
+- Luther Baldwin
+- Kamala Harris
+- Joe Biden
+- Hillary Clinton
+products_models: '[]'
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=2pFYkzZ-DNI
+speaker: 徒步的騎手
 status: evergreen
+summary: 本文深入探讨了美国总统特朗普近期启动的‘外国敌人法案’，追溯其227年的历史，从1798年约翰·亚当斯时期应对法美紧张关系，到麦迪逊、威尔逊和小罗斯福总统在战争时期的三次启用。文章详细阐述了该法案的法律依据、适用范围与历史争议，并分析了特朗普在非战争时期将其用于驱逐非法移民中的犯罪分子的具体操作，以及由此引发的‘宪法危机’辩论。通过对美国宪政民主发展历程的梳理，揭示了其在复杂规则和政治博弈中不断完善的韧性。
+tags:
+- alien-enemies-act
+- crisis
+- history
+- immigration-policy
+- presidential-power
+title: 特朗普启动‘外国敌人法案’：历史沿革、宪法争议与美国民主的韧性
 ---
 
 ### 特朗普启动“外国敌人法案”的背景与争议

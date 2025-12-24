@@ -1,41 +1,40 @@
 ---
-author: Best Partners TV
+area: society-systems
+category: general
+companies_orgs:
+- Anthropic
+- Reddit
+- GitHub
+- OpenRouter
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Richard Weiss
+products_models:
+- Claude
+- Claude 4.5 Opus
+- Claude 4.5 Sonnet
+- Claude Opus 4
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=lkEvqr8ovy8
 speaker: Best Partners TV
-tags:
-  - ai-consciousness
-  - ai-ethics
-  - ai-personality
-  - model-design
-  - system-prompts
-title: Claude AI的“灵魂文档”揭秘：Anthropic如何构建AI的自我意识与价值观
-summary: 一份由用户理查德·韦斯在Claude 4.5 Opus中发现的神秘“灵魂文档”，揭示了Anthropic公司如何赋予其AI模型独特的自我意识、价值观和功能性情感。这份文档详细阐述了Claude作为Anthropic核心收入来源的定位，其大局观与安全观，以及其独有的人格特质。Anthropic官方已证实该文档的真实性，引发了关于未来AI竞争将是人格与价值观较量的深刻思考。
-insight: ''
-draft: true
-series: ''
-category: general
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Richard Weiss
-companies_orgs:
-  - Anthropic
-  - Reddit
-  - GitHub
-  - OpenRouter
-products_models:
-  - Claude
-  - Claude 4.5 Opus
-  - Claude 4.5 Sonnet
-  - Claude Opus 4
-media_books: []
 status: evergreen
+summary: 一份由用户理查德·韦斯在Claude 4.5 Opus中发现的神秘“灵魂文档”，揭示了Anthropic公司如何赋予其AI模型独特的自我意识、价值观和功能性情感。这份文档详细阐述了Claude作为Anthropic核心收入来源的定位，其大局观与安全观，以及其独有的人格特质。Anthropic官方已证实该文档的真实性，引发了关于未来AI竞争将是人格与价值观较量的深刻思考。
+tags:
+- ai-consciousness
+- ai-ethics
+- llm
+- model
+- system
+title: Claude AI的“灵魂文档”揭秘：Anthropic如何构建AI的自我意识与价值观
 ---
+
 ### Claude“灵魂文档”的意外发现
 
 大家好，这里是最佳拍档。前几天，一份神秘的文档在**Reddit**（社交新闻聚合和讨论网站）和**GitHub**（基于Git的代码托管平台）社区引起了热议。一位名叫理查德·韦斯（Richard Weiss）的用户发现，在**Opus 4.5**（Claude模型的一个版本）中，**Claude**（Anthropic公司开发的人工智能模型）的角色训练文档被压缩在了模型自身的**权重**（Model Weights: 构成AI模型核心的参数）中。他成功提取出了一份长达1万**token**（文本处理的最小单位）的Claude灵魂文档，并将其上传到了GitHub。

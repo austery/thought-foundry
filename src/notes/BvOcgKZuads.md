@@ -1,41 +1,41 @@
 ---
-author: 壽司坦丁 Sociostanding
+area: society-systems
+category: culture
+companies_orgs:
+- OECD
+- 纽约大学
+- 牛津大学
 date: '2022-09-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《第二轮班》
+- 《性别与社会》
+people:
+- Paula England
+- Arlie Hochschild
+- 简敏仪
+products_models: []
+project:
+- cultural-critique
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=BvOcgKZuads
 speaker: 壽司坦丁 Sociostanding
-tags:
-  - stalled-gender-revolution
-  - gender-inequality
-  - total-work-hours
-  - patriarchal-society
-  - fertility-rates
-  - marriage-rates
-title: 停滞的性别革命：社会科学视角下的东亚女性困境与台湾经验
-summary: 本文探讨了社会科学领域备受关注的“停滞的性别革命”现象，指出尽管女性大量进入劳动力市场，但男性在家庭劳动中的参与度并未显著增加，导致女性总工时普遍更长。特别聚焦东亚地区，一项最新研究显示台湾已婚女性的总工时在16个国家中位居榜首，这深刻影响了台湾女性的结婚意愿和生育率。文章进一步分析，这种不平等根植于父权社会对两性角色的固有期待，并强调女性主义旨在实现两性共同解放。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-  - historical-insights
-people:
-  - Paula England
-  - Arlie Hochschild
-  - 简敏仪
-companies_orgs:
-  - OECD
-  - 纽约大学
-  - 牛津大学
-products_models: []
-media_books:
-  - 《第二轮班》
-  - 《性别与社会》
 status: evergreen
+summary: 本文探讨了社会科学领域备受关注的“停滞的性别革命”现象，指出尽管女性大量进入劳动力市场，但男性在家庭劳动中的参与度并未显著增加，导致女性总工时普遍更长。特别聚焦东亚地区，一项最新研究显示台湾已婚女性的总工时在16个国家中位居榜首，这深刻影响了台湾女性的结婚意愿和生育率。文章进一步分析，这种不平等根植于父权社会对两性角色的固有期待，并强调女性主义旨在实现两性共同解放。
+tags:
+- gender-inequality
+- marriage-rate
+- rate
+- revolution
+- society
+- work
+title: 停滞的性别革命：社会科学视角下的东亚女性困境与台湾经验
 ---
+
 ### 台湾女性的“魔幻现实”：性别平等之困
 
 这里是寿司坦丁，在这里你可以用最轻松的方式接收国际上最有趣的社会科学研究发现。我以前一直觉得我们这个世代，也就是所谓的七八年级生，虽然是看着**乡土剧**（Local Drama: 台湾本土制作的电视剧，常描绘家庭伦理和婆媳关系）长大，但应该已经完全脱离了乡土剧中的那个世界。我们都知道，乡土剧又可以称为“台湾女人婚后在婆家的100万种悲惨遭遇”。我一直觉得我们这个时代的女生已经觉醒了，台湾的家庭结构、女性教育程度以及女性劳动参与率也已经发生巨大变化，所以乡土剧应该只是上一代台湾女人的悲歌。

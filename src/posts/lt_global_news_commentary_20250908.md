@@ -1,31 +1,29 @@
 ---
-title: LT新闻评述：美联储降息争议、米莱改革受挫及中共的全球叙事
-summary: 本期评论探讨摩根大通对美联储降息可能引发股市抛售的争议观点，并关注德国经济的韧性。同时深入分析了阿根廷总统米莱改革遭遇的重大挫折，以及经济学人对美国共和党内部分裂的剖析。最后，重点解读了西方媒体对习近平推动“后美国世界”秩序的评判与质疑。
 area: market-analysis
-category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- china-politics
-- global-economy
-- news-commentary
-- us-politics
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
-date: 2025-09-08
 author: Lei
-speaker: LT視界
+category: politics-society
+companies_orgs: []
+date: 2025-09-08
 draft: true
 guest: null
 insight: null
 layout: post.njk
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: null
 source: null
+speaker: LT視界
 status: evergreen
+summary: 本期评论探讨摩根大通对美联储降息可能引发股市抛售的争议观点，并关注德国经济的韧性。同时深入分析了阿根廷总统米莱改革遭遇的重大挫折，以及经济学人对美国共和党内部分裂的剖析。最后，重点解读了西方媒体对习近平推动“后美国世界”秩序的评判与质疑。
+tags:
+- china-politics
+- global-economy
+- society
+title: LT新闻评述：美联储降息争议、米莱改革受挫及中共的全球叙事
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是9月8日。
 
 ## 财经头条：降息预期与德国经济

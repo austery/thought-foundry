@@ -1,53 +1,49 @@
 ---
-author: Veritasium
-date: '2021-08-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=AaZ_RSt0KP8
-speaker: Veritasium
-tags:
-  - veritasium
-  - bit-flips
-  - cosmic-rays
-  - computer-reliability
-  - radiation-hardening
-  - single-event-upset
-title: 宇宙对计算机的敌意：从选举错误到飞机失事，宇宙射线如何影响我们的数字生活
-summary: 本视频探讨了宇宙射线这一无形现象及其对计算机系统的惊人影响。从比利时选举中离奇的计票错误，到《超级马里奥64》速通玩家遇到的游戏故障，甚至空中客车A330客机的突然俯冲，这些高能粒子都可能导致计算机内存中的“比特翻转”。文章深入剖析了宇宙射线的发现历程、起源，以及工程师们如何设计出具有韧性的系统，以抵御这些普遍存在却常被忽视的太空威胁。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Maria Vindevogel
-  - Henri Becquerel
-  - Theodore Wolf
-  - Victor Hess
-  - Charles Wilson
-  - Carl Anderson
-  - DOTA_Teabag
-  - PenandCook12
+category: technology
 companies_orgs:
-  - Intel
-  - IBM
-  - Toyota
-  - NASA
-  - Los Alamos National Labs
-  - Airbus
+- Intel
+- IBM
+- Toyota
+- NASA
+- Los Alamos National Labs
+- Airbus
+date: '2021-08-31'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Maria Vindevogel
+- Henri Becquerel
+- Theodore Wolf
+- Victor Hess
+- Charles Wilson
+- Carl Anderson
+- DOTA_Teabag
+- PenandCook12
 products_models:
-  - 16 kilobit DRAM
-  - Super Mario 64
-  - Power PC
-  - Perseverance Rover
-  - Voyager 1
-  - Airbus A330
-media_books: []
+- 16 kilobit DRAM
+- Super Mario 64
+- Power PC
+- Perseverance Rover
+- Voyager 1
+- Airbus A330
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=AaZ_RSt0KP8
+speaker: veritasium
 status: evergreen
+summary: 本视频探讨了宇宙射线这一无形现象及其对计算机系统的惊人影响。从比利时选举中离奇的计票错误，到《超级马里奥64》速通玩家遇到的游戏故障，甚至空中客车A330客机的突然俯冲，这些高能粒子都可能导致计算机内存中的“比特翻转”。文章深入剖析了宇宙射线的发现历程、起源，以及工程师们如何设计出具有韧性的系统，以抵御这些普遍存在却常被忽视的太空威胁。
+tags:
+- bit-flip
+- science
+- technology
+title: 宇宙对计算机的敌意：从选举错误到飞机失事，宇宙射线如何影响我们的数字生活
 ---
+
 ### 比利时选举中的离奇错误
 
 一架飞机从空中坠落，一位速通玩家莫名其妙地跳到了更高的平台，还有一次选举重新计票被触发。

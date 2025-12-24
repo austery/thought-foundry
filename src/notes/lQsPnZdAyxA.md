@@ -1,40 +1,40 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: psychology
+companies_orgs:
+- FBI
+- KGB
 date: '2025-11-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《判断人心：一位资深FBI特工的行为预测用户手册》
+people:
+- Robin
+- Leo
+- Jessie
+- Victor
+- JFK
+products_models: []
+project:
+- personal-growth-lab
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=lQsPnZdAyxA
 speaker: 北美王路飞
-tags:
-  - human-behavior-prediction
-  - interpersonal-trust
-  - fbi-methodology
-  - decision-making-framework
-  - cognitive-biases
-title: FBI识人系统：掌握6大信号，精准预测他人行为
-summary: 本视频基于一位FBI探员的深刻洞察，揭示了一套六步识人系统，旨在帮助人们理解和预测他人行为。内容从一个涉及神秘线人的棘手案件讲起，强调了在复杂情境中，逻辑思考远比戏剧化假设更为重要。随后，视频深入探讨了关于人性的十个“残酷真相”，例如行为的可变性、豁免权的影响以及直觉的不可靠性。最终，系统性地介绍了六个核心信号——利益捆绑、长期关系、可靠性、行动、语言和稳定性——这些构成了建立信任和客观评估他人的科学框架，超越了主观判断。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - personal-growth-lab
-  - systems-thinking
-people:
-  - Robin
-  - Leo
-  - Jessie
-  - Victor
-  - JFK
-companies_orgs:
-  - FBI
-  - KGB
-products_models: []
-media_books:
-  - 《判断人心：一位资深FBI特工的行为预测用户手册》
 status: evergreen
+summary: 本视频基于一位FBI探员的深刻洞察，揭示了一套六步识人系统，旨在帮助人们理解和预测他人行为。内容从一个涉及神秘线人的棘手案件讲起，强调了在复杂情境中，逻辑思考远比戏剧化假设更为重要。随后，视频深入探讨了关于人性的十个“残酷真相”，例如行为的可变性、豁免权的影响以及直觉的不可靠性。最终，系统性地介绍了六个核心信号——利益捆绑、长期关系、可靠性、行动、语言和稳定性——这些构成了建立信任和客观评估他人的科学框架，超越了主观判断。
+tags:
+- cognitive-bias
+- decision-making-framework
+- fbi-methodology
+- human
+- trust
+title: FBI识人系统：掌握6大信号，精准预测他人行为
 ---
+
 ### FBI探员罗宾的棘手任务：与神秘线人Leo的初次交锋
 
 本期视频将继续探讨FBI顶级探员亲授的六步识人系统。故事始于一个特殊的日子——2001年12月24日，911恐怖袭击阴影笼罩下的平安夜。当时，纽约仍是惊弓之鸟。本书作者、FBI探员**罗宾**（Robin）在纽约一艘二战时期的航空母舰“无畏号”上临时办公，因为他们原有的办公室在袭击中被毁。正是在这个关键时刻，罗宾接手了一个令他头疼不已的案件：他需要搞定一位名叫**Leo**的线人。Leo并非寻常人物，他神秘古怪，难以捉摸。在罗宾之前，已有14位FBI探员试图与他合作，但都以失败告终，这几乎成了一个魔咒。罗宾深感压力，担心自己会成为第15个失败者，掉进Leo设下的陷阱。面对这个烫手山芋，罗宾一开始也犯了大多数人常犯的错误——想得太多。他甚至怀疑Leo是否是双面间谍。当他听到Leo家中有人喊了一句“dead”（死亡）时，他吓得不轻，后来才发现是Leo的孙子在用俄语喊“爷爷”（ded），发音相似而已。

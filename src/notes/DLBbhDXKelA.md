@@ -1,86 +1,88 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- NBIM
+- AWS
+- Grit AI
+- Capgemini
+- OpenAI
+- Anthropic
+- Microsoft
+- Mercedes-Benz
+- Google
+- Amazon
+- University of Pennsylvania
+- Nvidia
+- Deep Seek
 date: '2025-06-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+people:
+- Gunund
+- Shet Len
+- Selena
+- Vita Brina
+- Helena Stavo
+- Alexandre Stansp
+- Robert Angels
+- Brigittita
+- Nicolai Tangen
+- Bill Gates
+- Demis Hassabis
+- Sam Altman
+- Elon Musk
+- Ethan Molik
+- Johanses
+- Ain
+- Islang
+- Stan Shik
+- Oscar
+products_models:
+- Pilates
+- ISAC project
+- Claude
+- Cursor
+- Copilot
+- GPT-3
+- GPT-3.5
+- ChatGPT
+- Snowflake
+- Fivetran
+- DBT
+- Tableau
+- Python
+- Streamlit
+- GitHub
+- Sentinel
+- React Loop
+- MCP
+- RAG
+- Alpha Evolve
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=DLBbhDXKelA
 speaker: Norges Bank Investment Management
-tags:
-  - ai-adoption
-  - digital-transformation
-  - cloud-native
-  - data-platform
-  - organizational-strategy
-title: 挪威银行投资管理公司 (NBIM) 技术之夜：AI 如何重塑万亿基金的未来
-summary: 挪威银行投资管理公司（NBIM）在其技术之夜活动中，全面展示了其从外包到云原生的技术转型之旅。活动重点探讨了人工智能（AI）的战略性应用，包括内部投资平台 Pilates 的开发、AI 在网络安全和数据分析中的实战案例，以及由 CEO 尼古拉·坦根领导的、自上而下的 AI 采纳策略。这揭示了一家万亿级主权财富基金如何利用技术和 AI 保持领先地位。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Gunund
-  - Shet Len
-  - Selena
-  - Vita Brina
-  - Helena Stavo
-  - Alexandre Stansp
-  - Robert Angels
-  - Brigittita
-  - Nicolai Tangen
-  - Bill Gates
-  - Demis Hassabis
-  - Sam Altman
-  - Elon Musk
-  - Ethan Molik
-  - Johanses
-  - Ain
-  - Islang
-  - Stan Shik
-  - Oscar
-companies_orgs:
-  - Norges Bank Investment Management
-  - NBIM
-  - AWS
-  - Grit AI
-  - Capgemini
-  - OpenAI
-  - Anthropic
-  - Microsoft
-  - Mercedes-Benz
-  - Google
-  - Amazon
-  - University of Pennsylvania
-  - Nvidia
-  - Deep Seek
-products_models:
-  - Pilates
-  - ISAC project
-  - Claude
-  - Cursor
-  - Copilot
-  - GPT-3
-  - GPT-3.5
-  - ChatGPT
-  - Snowflake
-  - Fivetran
-  - DBT
-  - Tableau
-  - Python
-  - Streamlit
-  - GitHub
-  - Sentinel
-  - React Loop
-  - MCP
-  - RAG
-  - Alpha Evolve
-media_books:
-  - In Good Company
 status: evergreen
+summary: 挪威银行投资管理公司（NBIM）在其技术之夜活动中，全面展示了其从外包到云原生的技术转型之旅。活动重点探讨了人工智能（AI）的战略性应用，包括内部投资平台
+  Pilates 的开发、AI 在网络安全和数据分析中的实战案例，以及由 CEO 尼古拉·坦根领导的、自上而下的 AI 采纳策略。这揭示了一家万亿级主权财富基金如何利用技术和
+  AI 保持领先地位。
+tags:
+- ai-adoption
+- data
+- digital-transformation
+- strategy
+- technology
+title: 挪威银行投资管理公司 (NBIM) 技术之夜：AI 如何重塑万亿基金的未来
 ---
+
 ### 技术浪潮的序幕
 
 当你将技术民主化，并将其交到几乎每个人手中时，你就赋予了每个人力量。人工智能将是这十年中最重大的事件。我想说，我们在以各种方式利用机器学习与世界连接方面，才刚刚起步。

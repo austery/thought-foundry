@@ -1,65 +1,65 @@
 ---
-author: 三個水槍手
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 自民党
+- 立宪民主党
+- 令和新选组
+- APEC
+- 中国外交部
+- 网信办
+- 央视
+- 新华社
 date: '2025-11-14'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《朝日新闻》
+- Fox News
+people:
+- 薛剑
+- 高市早苗
+- Xi Jinping
+- Donald Trump
+- 安倍晋三
+- 岸田文雄
+- 林信义
+- 王毅
+- 小泉进次郎
+- 吴江浩
+- 刘晓明
+- 卢沙野
+- 贵从友
+- 郑晓云
+- 钱其琛
+- 温家宝
+- 顾维钧
+- 栗战书
+- 董军
+- Lloyd Austin
+- Rahm Emanuel
+- 秦刚
+products_models:
+- F-16V
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=KpX5cQoY2ew
 speaker: 三個水槍手
-tags:
-  - sino-japanese-relations
-  - wolf-warrior-diplomacy
-  - taiwan-strait-situation
-  - diplomatic-crisis
-title: “斩首高市”风波：薛剑言论如何引爆中日外交危机与台海局势新变数？
-summary: 中国驻大阪总领事薛剑针对日本首相高市早苗的“斩首”言论引发了严重外交风波。本期内容深入探讨了此事件的来龙去脉，分析了薛剑被驱逐的可能性、中国“战狼外交”的演变及其内部逻辑。同时，节目也剖析了高市早苗涉台言论的背景、其与美国政策的潜在关联，以及这一系列事件对中日关系、台海局势乃至海外华人处境的深远影响。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - 薛剑
-  - 高市早苗
-  - 习近平
-  - Donald Trump
-  - 安倍晋三
-  - 岸田文雄
-  - 林信义
-  - 王毅
-  - 小泉进次郎
-  - 吴江浩
-  - 刘晓明
-  - 卢沙野
-  - 贵从友
-  - 郑晓云
-  - 钱其琛
-  - 温家宝
-  - 顾维钧
-  - 栗战书
-  - 董军
-  - Lloyd Austin
-  - Rahm Emanuel
-  - 秦刚
-companies_orgs:
-  - 自民党
-  - 立宪民主党
-  - 令和新选组
-  - APEC
-  - 中国外交部
-  - 网信办
-  - 央视
-  - 新华社
-products_models:
-  - F-16V
-media_books:
-  - 《朝日新闻》
-  - Fox News
 status: evergreen
+summary: 中国驻大阪总领事薛剑针对日本首相高市早苗的“斩首”言论引发了严重外交风波。本期内容深入探讨了此事件的来龙去脉，分析了薛剑被驱逐的可能性、中国“战狼外交”的演变及其内部逻辑。同时，节目也剖析了高市早苗涉台言论的背景、其与美国政策的潜在关联，以及这一系列事件对中日关系、台海局势乃至海外华人处境的深远影响。
+tags:
+- crisis
+- sino-japanese-relations
+- taiwan-strait-situation
+- wolf-warrior-diplomacy
+title: “斩首高市”风波：薛剑言论如何引爆中日外交危机与台海局势新变数？
 ---
+
 ### 薛剑“斩首”言论风波：会被驱逐吗？
 
 最近，中日关系因中国驻大阪总领事薛剑的惊人言论而再起波澜。这期节目我们必须深入探讨此事。首先，一个直接的问题是：薛剑因此番言论被日本驱逐出境的可能性有多大？

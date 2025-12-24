@@ -1,69 +1,69 @@
 ---
-author: Patrick Boyle
+area: society-systems
+category: geopolitics
+companies_orgs:
+- Nvidia
+- AMD
+- US Government
+- Bernstein Research
+- Huawei
+- National Security Council
+- Lockheed Martin
+- Peterson Institute for International Economics
+- Moonshot AI
+- Alibaba
+- ByteDance
+- FBI
+- Ford
+- Nippon Steel
+- Intel
+- Apple
+- Coca-Cola
 date: '2025-08-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Financial Times
+- CNN
+- Ground News
+people:
+- Donald Trump
+- Jensen Huang
+- Liza Tobin
+- Aaron Bartnik
+- Gary Hufbauer
+- John Moolenaar
+- Raja Krishnamoorthi
+- Stacy Rasgon
+- Tim Cook
+- Hugo Chavez
+products_models:
+- Nvidia H20
+- AMD AI Chips
+- Nvidia H100
+- Moonshot Kimmy K2
+- F-35
+- ANOM
+project:
+- us-analysis
+- china-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=0d2pCt8JomQ
 speaker: Patrick Boyle
-tags:
-  - export-controls
-  - trade-policy
-  - executive-power
-  - national-security
-  - us-china-rivalry
-title: 特朗普20亿美元芯片协议：重塑美国资本主义与地缘政治的新模式
-summary: 一项由总统亲自斡旋的协议，允许英伟达和AMD向中国出口受限AI芯片，但需向美国政府支付15%的销售收入。这笔每年约20亿美元的交易，并非税收或许可费，而是对出口权的直接分成。文章深入探讨了该协议对美国传统贸易政策、国家安全、宪法原则及全球盟友关系的影响，并将其视为一种“交易型资本主义”的新模式，挑战了既有的治理规范，并可能重塑美国与商业界的互动方式。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - geopolitics-watch
-people:
-  - Donald Trump
-  - Jensen Huang
-  - Liza Tobin
-  - Aaron Bartnik
-  - Gary Hufbauer
-  - John Moolenaar
-  - Raja Krishnamoorthi
-  - Stacy Rasgon
-  - Tim Cook
-  - Hugo Chavez
-companies_orgs:
-  - Nvidia
-  - AMD
-  - US Government
-  - Bernstein Research
-  - Huawei
-  - National Security Council
-  - Lockheed Martin
-  - Peterson Institute for International Economics
-  - Moonshot AI
-  - Alibaba
-  - ByteDance
-  - FBI
-  - Ford
-  - Nippon Steel
-  - Intel
-  - Apple
-  - Coca-Cola
-products_models:
-  - Nvidia H20
-  - AMD AI Chips
-  - Nvidia H100
-  - Moonshot Kimmy K2
-  - F-35
-  - ANOM
-media_books:
-  - Financial Times
-  - CNN
-  - Ground News
 status: evergreen
+summary: 一项由总统亲自斡旋的协议，允许英伟达和AMD向中国出口受限AI芯片，但需向美国政府支付15%的销售收入。这笔每年约20亿美元的交易，并非税收或许可费，而是对出口权的直接分成。文章深入探讨了该协议对美国传统贸易政策、国家安全、宪法原则及全球盟友关系的影响，并将其视为一种“交易型资本主义”的新模式，挑战了既有的治理规范，并可能重塑美国与商业界的互动方式。
+tags:
+- executive-power
+- export-control
+- national-security
+- trade-policy
+- us-china-relations
+title: 特朗普20亿美元芯片协议：重塑美国资本主义与地缘政治的新模式
 ---
+
 ### 特朗普芯片协议：重塑美国资本主义的新模式
 
 本周，**英伟达**（Nvidia: 一家全球领先的图形处理器和人工智能芯片制造商）和**AMD**（Advanced Micro Devices: 一家全球性的半导体公司，主要设计和销售计算机处理器及相关技术）达成一项协议，同意向美国政府支付其在中国芯片销售收入的15%。此举重写了美国资本主义的规则。这并非作为税收或特许权使用费，而是作为获得向中国出口近期受限的AI芯片许可的代价。这不是关税，也不是许可费，甚至不是罚款。它是一种分成，是企业收入直接交给联邦政府以换取出口权。

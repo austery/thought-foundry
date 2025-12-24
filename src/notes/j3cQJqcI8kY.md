@@ -1,40 +1,40 @@
 ---
-author: TVO Today
+area: society-systems
+category: psychology
+companies_orgs:
+- University of Toronto
+- Rotman School of Management
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Hamilton
+people:
+- George E Newman
+- Taylor Swift
+- John Hughes
+products_models:
+- Simon Garfunkel record
+- Instant Pot
+project:
+- historical-insights
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=j3cQJqcI8kY
 speaker: TVO Today
-tags:
-  - nostalgia
-  - escapism
-  - psychology-of-comfort
-  - retro-trends
-  - consumerism-drivers
-title: 为何我们如此怀旧？心理学家的深度解析
-summary: 本文探讨了怀旧的心理机制及其与逃避现实的关系。研究表明，在不确定的时期，人们更倾向于通过怀旧来寻求慰藉和稳定感。文章还分析了怀旧如何驱动文化趋势和消费行为，并指出我们对过去的认知可能受到“玫瑰色眼镜”的影响，但历史和过往的经验确实能激发创新灵感。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: society-systems
-project:
-  - historical-insights
-  - personal-growth-lab
-people:
-  - George E Newman
-  - Taylor Swift
-  - John Hughes
-companies_orgs:
-  - University of Toronto
-  - Rotman School of Management
-products_models:
-  - Simon Garfunkel record
-  - Instant Pot
-media_books:
-  - Hamilton
 status: evergreen
+summary: 本文探讨了怀旧的心理机制及其与逃避现实的关系。研究表明，在不确定的时期，人们更倾向于通过怀旧来寻求慰藉和稳定感。文章还分析了怀旧如何驱动文化趋势和消费行为，并指出我们对过去的认知可能受到“玫瑰色眼镜”的影响，但历史和过往的经验确实能激发创新灵感。
+tags:
+- code
+- consumerism-driver
+- nostalgia
+- psychology
+- trend
+title: 为何我们如此怀旧？心理学家的深度解析
 ---
+
 ### 怀旧的本质：慰藉与逃避现实的联系
 
 有时你就是想和一些老电视朋友一起度过时光。他们会像过去一样在你身边，但他们也能让你产生向往。怀旧并非总是令人愉悦的。那么，我们为什么会为了慰藉、为了向往，或是两者兼而有之而观看旧的喜爱节目呢？我从心理学家和认知科学家那里获得了一些见解。

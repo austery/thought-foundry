@@ -1,73 +1,73 @@
 ---
-author: TVO Today
+area: society-systems
+category: geopolitics
+companies_orgs:
+- TVO Today
+- Lyft
+- Uber
+- LCBO
+- The Beer Store
+- Financial Accountability Office
+- Canadian Home Builders' Association
+- Ontario Home Builders' Association
+- Hamilton Tiger-Cats
+- Montreal Alouettes
+- Toronto Blue Jays
+- Boston Red Sox
+- Los Angeles Dodgers
 date: '2025-11-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- OnPaly podcast
+- TVO.org
+- The Missing Middle
+- Fairness Is a Two-Way Street Act
+- Casablanca
+- judicial-review
+people:
+- Steve Pacen
+- John Michael McGrath
+- Mark Carney
+- Doug Ford
+- Peter Bethlenfalvy
+- Justin Trudeau
+- François-Philippe Champagne
+- François Legault
+- Lionel Carmant
+- Kathleen Wynne
+- Pierre Poilievre
+- Mike Harris
+- Ned Basin
+- Ernie Harwell
+- Addison Barger
+- Treya Savage
+- Max Scherzer
+- Jeff Hoffman
+- Mike Moffatt
+- Chris Dontrammo
+products_models:
+- Darlington Small Modular Nuclear Reactor
+- HST
+project:
+- geopolitics-watch
+- systems-thinking
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=ooF6D5g8Abo
 speaker: TVO Today
-tags:
-  - fiscal-policy
-  - inter-governmental-relations
-  - housing-affordability
-  - judicial-review
-  - public-spending
-title: 安大略省秋季经济报告与联邦预算：加拿大各省财政与政治博弈
-summary: 本期节目深入探讨了安大略省的秋季经济报告和加拿大联邦预算，揭示了各级政府在财政赤字、经济增长、医疗保健、教育和司法支出方面的挑战与策略。节目还讨论了魁北克省医生争议引发的省际人才争夺，以及最高法院关于强制性最低刑期的裁决。此外，主持人还分享了多伦多蓝鸟队在世界大赛中的感人表现，以及住房政策的最新进展。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - systems-thinking
-  - historical-insights
-people:
-  - Steve Pacen
-  - John Michael McGrath
-  - Mark Carney
-  - Doug Ford
-  - Peter Bethlenfalvy
-  - Justin Trudeau
-  - François-Philippe Champagne
-  - François Legault
-  - Lionel Carmant
-  - Kathleen Wynne
-  - Pierre Poilievre
-  - Mike Harris
-  - Ned Basin
-  - Ernie Harwell
-  - Addison Barger
-  - Treya Savage
-  - Max Scherzer
-  - Jeff Hoffman
-  - Mike Moffatt
-  - Chris Dontrammo
-companies_orgs:
-  - TVO Today
-  - Lyft
-  - Uber
-  - LCBO
-  - The Beer Store
-  - Financial Accountability Office
-  - Canadian Home Builders' Association
-  - Ontario Home Builders' Association
-  - Hamilton Tiger-Cats
-  - Montreal Alouettes
-  - Toronto Blue Jays
-  - Boston Red Sox
-  - Los Angeles Dodgers
-products_models:
-  - Darlington Small Modular Nuclear Reactor
-  - HST
-media_books:
-  - OnPaly podcast
-  - TVO.org
-  - The Missing Middle
-  - Fairness Is a Two-Way Street Act
-  - Casablanca
 status: evergreen
+summary: 本期节目深入探讨了安大略省的秋季经济报告和加拿大联邦预算，揭示了各级政府在财政赤字、经济增长、医疗保健、教育和司法支出方面的挑战与策略。节目还讨论了魁北克省医生争议引发的省际人才争夺，以及最高法院关于强制性最低刑期的裁决。此外，主持人还分享了多伦多蓝鸟队在世界大赛中的感人表现，以及住房政策的最新进展。
+tags:
+- fiscal-policy
+- housing-affordability
+- public
+- relations
+title: 安大略省秋季经济报告与联邦预算：加拿大各省财政与政治博弈
 ---
+
 ### 播客开场与蓝鸟队的世界大赛之旅
 
 **Steve Pacen:** 大家好，欢迎收听 OnPaly 播客。我是 Steve Pacen。

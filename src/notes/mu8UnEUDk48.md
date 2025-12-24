@@ -1,52 +1,51 @@
 ---
-author: Shanghao Jin
+area: market-analysis
+category: finance
+companies_orgs:
+- First Brand
+- Zebank
+- Honda
+- Porsche
+- Mercedes-Benz
+- Xiaomi
+- Tesla
+- 依法半导体
 date: '2025-10-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jerome Powell
+- Donald Trump
+products_models:
+- CDS
+- CDO
+- CPI
+- DVO1
+- FOMC
+- PCE
+- S&P
+- Subprime Mortgage
+- Option
+project:
+- investment-strategy
+- market-cycles
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=mu8UnEUDk48
 speaker: Shanghao Jin
-tags:
-  - ai-investment
-  - tail-risk
-  - credit-market
-  - fed-policy
-  - auto-industry-disruption
-title: 2025年市场展望：AI泡沫、信贷风险与中国汽车产业的全球影响
-summary: 本文深入分析了当前市场面临的潜在风险与机遇。主持人首先驳斥了AI市场存在巨大泡沫的观点，指出其盈利能力强劲。接着，文章探讨了美国信贷市场（特别是汽车贷款）的问题，并将其与2008年次贷危机和2013年区域银行危机进行对比，认为系统性风险较低。同时，文章分析了政府关门对经济数据和美联储降息决策的影响，并对十年期国债利率进行了展望。最后，重点阐述了中国汽车产业的“农村包围城市”策略如何冲击全球二手车市场，进而影响欧美日车企的盈利能力，并警示了相关投资风险。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - china-analysis
-people:
-  - Jerome Powell
-  - Donald Trump
-companies_orgs:
-  - First Brand
-  - Zebank
-  - Honda
-  - Porsche
-  - Mercedes-Benz
-  - Xiaomi
-  - Tesla
-  - 依法半导体
-products_models:
-  - CDS
-  - CDO
-  - CPI
-  - DVO1
-  - FOMC
-  - PCE
-  - S&P
-  - Subprime Mortgage
-  - Option
-media_books: []
 status: evergreen
+summary: 本文深入分析了当前市场面临的潜在风险与机遇。主持人首先驳斥了AI市场存在巨大泡沫的观点，指出其盈利能力强劲。接着，文章探讨了美国信贷市场（特别是汽车贷款）的问题，并将其与2008年次贷危机和2013年区域银行危机进行对比，认为系统性风险较低。同时，文章分析了政府关门对经济数据和美联储降息决策的影响，并对十年期国债利率进行了展望。最后，重点阐述了中国汽车产业的“农村包围城市”策略如何冲击全球二手车市场，进而影响欧美日车企的盈利能力，并警示了相关投资风险。
+tags:
+- ai-investment
+- fed-policy
+- industry
+- market
+- risk
+title: 2025年市场展望：AI泡沫、信贷风险与中国汽车产业的全球影响
 ---
+
 ### 市场概览与个人结论
 
 上两周在分享过程中出现了一些意外，因此未来我可能会避免讨论与政治相关的话题。随着年底临近，今年11月份的季度财报已经陆续发布。回想去年同期，我们也曾对来年的市场进行展望。最近市场上很多人都在讨论AI“左脚踩右脚”的现象，以及美国股市在创新高之后是否面临巨大的泡沫，是否预示着需要“逃跑”的时机。大家普遍关注是否存在**尾部风险**（Tail Risk: 指发生概率极低但一旦发生就会造成巨大损失的事件，常被称为“黑天鹅事件”），即像去年我们认为概率非常大的那种市场暴跌。那么，今年、明年年初或年底前是否还会出现这类风险呢？

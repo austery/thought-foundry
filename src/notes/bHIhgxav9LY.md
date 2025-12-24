@@ -1,42 +1,40 @@
 ---
-author: Veritasium
-date: '2021-11-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bHIhgxav9LY
-speaker: Veritasium
-tags:
-  - veritasium
-  - electromagnetic-fields
-  - poynting-vector
-  - electrical-energy-transmission
-  - electricity-misconceptions
-  - wave-propagation
-title: 关于电的巨大误解：能量如何真正传输？
-summary: 本视频揭示了关于电力传输的普遍误解。它解释了电能并非通过导线中的电子流动，而是通过导线周围空间中的电磁场以接近光速传输。视频深入探讨了麦克斯韦方程和坡印亭矢量，并通过历史案例（如跨大西洋电报电缆）来证明这一科学事实。最终，它解答了一个关于超长电路中灯泡点亮速度的经典问题。
-insight: ''
-draft: true
-series: ''
-category: science
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - James Clerk Maxwell
-  - John Henry Poynting
-  - William Thomson
-  - Heaviside
-  - Fitzgerald
+category: science
 companies_orgs:
-  - Lutron Electronics
+- Lutron Electronics
+date: '2021-11-19'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- James Clerk Maxwell
+- John Henry Poynting
+- William Thomson
+- Heaviside
+- Fitzgerald
 products_models:
-  - Caséta by Lutron
-  - Alexa
-  - Google Assistant
-media_books: []
+- Caséta by Lutron
+- Alexa
+- Google Assistant
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=bHIhgxav9LY
+speaker: veritasium
 status: evergreen
+summary: 本视频揭示了关于电力传输的普遍误解。它解释了电能并非通过导线中的电子流动，而是通过导线周围空间中的电磁场以接近光速传输。视频深入探讨了麦克斯韦方程和坡印亭矢量，并通过历史案例（如跨大西洋电报电缆）来证明这一科学事实。最终，它解答了一个关于超长电路中灯泡点亮速度的经典问题。
+tags:
+- electromagnetic-field
+- energy
+- poynting-vector
+- science
+- society
+title: 关于电的巨大误解：能量如何真正传输？
 ---
+
 ### 引言：关于灯泡点亮速度的谜题
 
 本视频由Lutron旗下的**Caséta**赞助。

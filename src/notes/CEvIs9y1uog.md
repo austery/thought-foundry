@@ -1,42 +1,42 @@
 ---
-author: AI Engineer
+area: tech-insights
+category: technology
+companies_orgs:
+- Anthropic
+- Cadence
+- Browserbase
+- Notion
+- Fortune 100s
 date: '2025-12-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Barry Zhang
+- Mahesh Murag
+products_models:
+- Claude
+- Cloud Code
+- Stagehand
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=CEvIs9y1uog
 speaker: AI Engineer
-tags:
-  - ai-agents
-  - agent-skills
-  - domain-expertise
-  - ai-ecosystem
-  - continuous-learning
-title: 停止构建代理，转而构建技能：Anthropic的AI新范式
-summary: Anthropic的Barry Zhang和Mahesh Murag提出，随着AI代理日益普及，其在特定领域缺乏专业知识的问题日益凸显。他们引入了“代理技能”（Agent Skills）这一新范式，将可组合的程序性知识打包成简单的文件集合，旨在为AI代理提供领域专业知识、提高执行一致性，并使其能够持续学习和进化。这一方法论将代码视为通用的数字世界接口，并通过技能生态系统赋能非技术人员，最终构建一个可共享、可进化的代理知识库。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Barry Zhang
-  - Mahesh Murag
-companies_orgs:
-  - Anthropic
-  - Cadence
-  - Browserbase
-  - Notion
-  - Fortune 100s
-products_models:
-  - Claude
-  - Cloud Code
-  - Stagehand
-media_books: []
 status: evergreen
+summary: Anthropic的Barry Zhang和Mahesh Murag提出，随着AI代理日益普及，其在特定领域缺乏专业知识的问题日益凸显。他们引入了“代理技能”（Agent
+  Skills）这一新范式，将可组合的程序性知识打包成简单的文件集合，旨在为AI代理提供领域专业知识、提高执行一致性，并使其能够持续学习和进化。这一方法论将代码视为通用的数字世界接口，并通过技能生态系统赋能非技术人员，最终构建一个可共享、可进化的代理知识库。
+tags:
+- ai-agent
+- ai-ecosystem
+- continuous-learning
+- llm
+- skill
+title: 停止构建代理，转而构建技能：Anthropic的AI新范式
 ---
+
 ### 代理的演变与技能的兴起
 
 大家早上好，感谢再次邀请我们。上次我们来这里时，我们还在探索**代理**（Agent: 能够自主感知环境、做出决策并执行行动的AI实体）究竟是什么。如今，我们许多人每天都在使用代理，但我们仍然发现存在一些不足。代理拥有智能和能力，但并非总具备我们实际工作所需的**专业知识**。我是Barry，这位是Mahesh。我们创建了**代理技能**（Agent Skills: 为AI代理提供特定领域知识和操作能力的模块化组件）。在本次演讲中，我们将向大家展示为什么我们停止了构建代理，转而开始构建技能。

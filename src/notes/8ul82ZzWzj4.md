@@ -1,33 +1,32 @@
 ---
-title: 聚焦全球经济动态：特朗普会晤米莱，摩根大通财报与女性财富转移
-summary: 本期节目深入探讨了特朗普与米莱会晤、摩根大通财报季、美中贸易谈判及稀土供应风险，并重点分析了全球贸易格局变化和女性财富转移对投资界带来的深远影响，揭示市场波动与未来趋势。
 area: market-analysis
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
-tags:
-- bank-earnings
-- global-economy
-- rare-earths
-- us-china-trade
-- wealth-transfer
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-14'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project:
+- china-analysis
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=8ul82ZzWzj4
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: 本期节目深入探讨了特朗普与米莱会晤、摩根大通财报季、美中贸易谈判及稀土供应风险，并重点分析了全球贸易格局变化和女性财富转移对投资界带来的深远影响，揭示市场波动与未来趋势。
+tags:
+- bank-earning
+- global-economy
+- rare-earth
+- us-china-relations
+- wealth
+title: 聚焦全球经济动态：特朗普会晤米莱，摩根大通财报与女性财富转移
 ---
+
 ### 市场概览与早期动荡
 
 This is Bloomberg Businessweek Daily, reporting from the magazine that helps global leaders stay ahead with insight on the people, companies and trends shaping today's complex economy.

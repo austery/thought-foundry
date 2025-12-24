@@ -1,34 +1,30 @@
 ---
-author: Dwarkesh Patel
+area: society-thinking
+category: politics-society
+companies_orgs:
+- OpenAI
+- CCP
 date: '2024-06-06'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Leopold Aschenbrenner
+products_models: []
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=ghluOfM-Xik
 speaker: Dwarkesh Patel
-tags:
-  - llm
-  - ai-race
-  - geopolitics
-  - national-security
-title: 美中AI竞赛的未来走向
-summary: 本讲稿探讨了AI技术快速发展带来的地缘政治风险，特别是美中AI竞赛的潜在后果。演讲者强调了技术领先优势的重要性，以及在智能爆炸时期保持缓冲期的必要性。文章回顾了历史上的军事冲突，并分析了AI可能如何压缩技术进步时间线，导致前所未有的军事和战略不稳定。演讲者提出，美国应争取技术领先地位，然后与中国达成一项旨在避免灾难性军备竞赛的稳定协议，并强调了历史竞争常态与当前和平时期的对比。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Leopold Aschenbrenner
-  - Dwarkesh Patel
-companies_orgs:
-  - OpenAI
-  - CCP
-products_models: []
-media_books: []
 status: evergreen
+summary: 本讲稿探讨了AI技术快速发展带来的地缘政治风险，特别是美中AI竞赛的潜在后果。演讲者强调了技术领先优势的重要性，以及在智能爆炸时期保持缓冲期的必要性。文章回顾了历史上的军事冲突，并分析了AI可能如何压缩技术进步时间线，导致前所未有的军事和战略不稳定。演讲者提出，美国应争取技术领先地位，然后与中国达成一项旨在避免灾难性军备竞赛的稳定协议，并强调了历史竞争常态与当前和平时期的对比。
+tags:
+- llm
+- national-security
+title: 美中AI竞赛的未来走向
 ---
+
 ### 危险的领先劣势
 
 我们正处于一个极其危险的境地，领先优势仅有三个月。我们正经历一场激烈的竞争，如果对手领先，他们就能占据主导地位，获得决定性优势。他们正在疯狂地构建计算集群，不惜一切代价，我们必须跟上。新的**大规模杀伤性武器**（WMDs: Weapons of Mass Destruction）层出不穷，这将使我们陷入一种疯狂的军事技术和**大规模杀伤性武器**（WMDs: Weapons of Mass Destruction）的局面，**相互保证毁灭**（Mutually Assured Destruction: MAD）的威慑模式每几周都在变化，整个局势极不稳定且充满危险。

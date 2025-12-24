@@ -1,52 +1,52 @@
 ---
-author: 北美王路飞
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 五角大楼
+- 联合特种作战司令部
+- 海豹6队
+- 基地组织
+- ISIS
+- 海岸警卫队
+- 司法部法律顾问办公室
+- 参议院军事委员会
 date: '2025-12-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《华盛顿邮报》
+- 《日内瓦公约》
+people:
+- 黑格赛斯
+- 弗兰克·米奇·布拉德利
+- 托德·亨特利
+- 杰基·罗森
+- 罗杰·威克
+- 汤姆·提利斯
+- 特朗普
+- 本·拉登
+- 莱维特
+products_models: []
+project:
+- us-analysis
+- geopolitics-watch
+- historical-insights
+series: ''
 source: https://www.youtube.com/watch?v=YMfcdjxjhU8
 speaker: 北美王路飞
-tags:
-  - extrajudicial-killings
-  - war-crimes
-  - anti-drug-operations
-  - military-ethics
-  - legal-frameworks
-title: 美国防长“格杀勿论”指令：加勒比海上的战争罪疑云
-summary: 本文深入探讨了美国国防部长黑格赛斯在加勒比海域下达的“不留活口”指令，导致海豹6队对贩毒船只进行“二次打击”并击毙所有幸存者的事件。文章分析了特朗普政府将贩毒集团定义为“外国恐怖组织”的法律策略，以及此举在国际法和战争伦理层面引发的巨大争议，揭示了权力滥用和法律红线被模糊的危险。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - us-analysis
-  - geopolitics-watch
-  - historical-insights
-people:
-  - 黑格赛斯
-  - 弗兰克·米奇·布拉德利
-  - 托德·亨特利
-  - 杰基·罗森
-  - 罗杰·威克
-  - 汤姆·提利斯
-  - 特朗普
-  - 本·拉登
-  - 莱维特
-companies_orgs:
-  - 五角大楼
-  - 联合特种作战司令部
-  - 海豹6队
-  - 基地组织
-  - ISIS
-  - 海岸警卫队
-  - 司法部法律顾问办公室
-  - 参议院军事委员会
-products_models: []
-media_books:
-  - 《华盛顿邮报》
-  - 《日内瓦公约》
 status: evergreen
+summary: 本文深入探讨了美国国防部长黑格赛斯在加勒比海域下达的“不留活口”指令，导致海豹6队对贩毒船只进行“二次打击”并击毙所有幸存者的事件。文章分析了特朗普政府将贩毒集团定义为“外国恐怖组织”的法律策略，以及此举在国际法和战争伦理层面引发的巨大争议，揭示了权力滥用和法律红线被模糊的危险。
+tags:
+- anti
+- ethics
+- extrajudicial-killing
+- legal
+- war
+title: 美国防长“格杀勿论”指令：加勒比海上的战争罪疑云
 ---
+
 ### “格杀勿论”：权力中心的一句指令
 
 你有没有想过，决定一个千里之外陌生人生死的时刻究竟长什么样？它可能不是电影里那种战火纷飞的战壕，也不是按下红色按钮时的惊心动魄。在现实的华盛顿权力中心，生与死的界限往往只是一句话，一句在空调房里轻飘飘说出来的话——“Kill everybody”，把人都杀光。

@@ -1,32 +1,30 @@
 ---
-title: 加沙人质协议取得突破，洛杉矶致命野火嫌犯被捕
-summary: 本期新闻涵盖了以色列与哈马斯达成首阶段人质交换协议、美国政府在加勒比海打击贩毒的军事行动引发争议、特朗普向美国城市部署军队计划面临法律挑战，以及洛杉矶帕利塞德斯野火的逮捕进展。
 area: market-analysis
-category: geopolitics
-project:
-- investment-strategy
-- us-analysis
-tags:
-- gaza-conflict
-- middle-east-peace
-- us-politics
-- wildfire-investigation
-people: []
+category: politics-society
 companies_orgs: []
-products_models: []
-media_books:
-- new-york-times-podcasts
 date: '2025-10-09'
-author: New York Times Podcasts
-speaker: New York Times Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- new-york-times-podcasts
+products_models: []
+project:
+- investment-strategy
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=mmjvjFKxZbc
+speaker: New York Times Podcasts
 status: evergreen
+summary: 本期新闻涵盖了以色列与哈马斯达成首阶段人质交换协议、美国政府在加勒比海打击贩毒的军事行动引发争议、特朗普向美国城市部署军队计划面临法律挑战，以及洛杉矶帕利塞德斯野火的逮捕进展。
+tags:
+- gaza-conflict
+- investment
+- middle-east-peace
+title: 加沙人质协议取得突破，洛杉矶致命野火嫌犯被捕
 ---
+
 ### 头条新闻
 
 From the New York Times, it's the headlines. I'm Tracy Mumford. Today's Thursday, October 9th. Here's what we're covering.

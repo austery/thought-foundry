@@ -1,69 +1,67 @@
 ---
-title: "2025年度阅读复盘：从阿德勒心理学、投资策略到AI深度编程"
-summary: "本期读书会为年度复盘特别场。Vivi、Shiqi、Michael、鹏哥、陆遥和Carmen分享了2025年对他们影响最深的书籍与生活感悟。讨论涵盖了《反脆弱》与《黑天鹅》中的不确定性应对、阿德勒心理学在亲子教育中的实战应用、《Just Keep Buying》的投资哲学、以及如何利用《Clear Thinking》构建高效的AI交互模型。鹏哥还深度分享了利用AI进行复杂代码开发（如机票搜索工具）的经验。"
-area: "personal-systems"
-category: "general"
-project:
-  - "personal-growth-lab"
-  - "ai-impact-analysis"
-  - "investment-strategy"
-source: https://www.youtube.com/watch?v=AmU9MGywFVg
-tags:
-  - "reading-review"
-  - "adlerian-psychology"
-  - "investment-mindset"
-  - "ai-assisted-coding"
-  - "parenting"
-date: 2025-12-11
+area: life-family
 author: Lei
-speaker: '一口新饭读书会'
-layout: post.njk
-people:
-  - "Ray"
-  - "Vivi"
-  - "Shiqi"
-  - "Michael"
-  - "鹏哥"
-  - "陆遥"
-  - "Carmen"
-  - "Naval Ravikant"
-  - "Nassim Nicholas Taleb"
-  - "Steven Pinker"
-  - "刘仲敬"
-  - "Kazuo Ishiguro"
-  - "Annie Duke"
-  - "Charlie Munger"
-  - "Daniel Kahneman"
-
+category: family-relations
 companies_orgs:
-  - "Google"
-  - "Tesla"
-  - "OpenAI"
-
+- Google
+- Tesla
+- OpenAI
+date: 2025-12-11
+layout: post.njk
 media_books:
-  - "《Grain Brain (谷物大脑)》"
-  - "《Just Keep Buying (持续买入)》"
-  - "《The Courage to Be Disliked (被讨厌的勇气)》"
-  - "《Don't Believe Everything You Think》"
-  - "《Antifragile (反脆弱)》"
-  - "《The Black Swan (黑天鹅)》"
-  - "《The Pathless Path"
-  - "《Ultralearning (超速学习)》"
-  - "《Clear Thinking (清晰思维)》"
-  - "《Cloud Computing》"
-  - "《How Would You Move Mount Fuji? (如何移动富士山)》"
-  - "《Problem Solving》"
-  - "《Outliers (异类)》"
-  - "《Thinking, Fast and Slow (思考，快与慢)》"
-  - "《The Naval Almanack (纳瓦尔宝典)》"
-  - "《The Better Angels of Our Nature (人性中的善良天使)》"
-  - "《为幸福而生》"
-  - "《Wadjda (瓦嘉达)》"
-  - "《The Remains of the Day (长日将尽)》"
-  - "《Thinking in Bets (对赌)》"
-  - "《Sapiens (人类简史)》"
-  - "《Nexus (智人之上)》"
-  - "《Stolen Focus (偷以此书)》"
+- 《Grain Brain (谷物大脑)》
+- 《Just Keep Buying (持续买入)》
+- 《The Courage to Be Disliked (被讨厌的勇气)》
+- 《Don't Believe Everything You Think》
+- 《Antifragile (反脆弱)》
+- 《The Black Swan (黑天鹅)》
+- 《The Pathless Path
+- 《Ultralearning (超速学习)》
+- 《Clear Thinking (清晰思维)》
+- 《Cloud Computing》
+- 《How Would You Move Mount Fuji? (如何移动富士山)》
+- 《Problem Solving》
+- 《Outliers (异类)》
+- 《Thinking, Fast and Slow (思考，快与慢)》
+- 《The Naval Almanack (纳瓦尔宝典)》
+- 《The Better Angels of Our Nature (人性中的善良天使)》
+- 《为幸福而生》
+- 《Wadjda (瓦嘉达)》
+- 《The Remains of the Day (长日将尽)》
+- 《Thinking in Bets (对赌)》
+- 《Sapiens (人类简史)》
+- 《Nexus (智人之上)》
+- 《Stolen Focus (偷以此书)》
+- reading-review
+people:
+- Ray
+- Vivi
+- Shiqi
+- Michael
+- 鹏哥
+- 陆遥
+- Carmen
+- Naval Ravikant
+- Nassim Nicholas Taleb
+- Steven Pinker
+- 刘仲敬
+- Kazuo Ishiguro
+- Annie Duke
+- Charlie Munger
+- Daniel Kahneman
+project:
+- personal-growth-lab
+- ai-impact-analysis
+- investment-strategy
+source: https://www.youtube.com/watch?v=AmU9MGywFVg
+speaker: 一口新饭读书会
+summary: 本期读书会为年度复盘特别场。Vivi、Shiqi、Michael、鹏哥、陆遥和Carmen分享了2025年对他们影响最深的书籍与生活感悟。讨论涵盖了《反脆弱》与《黑天鹅》中的不确定性应对、阿德勒心理学在亲子教育中的实战应用、《Just
+  Keep Buying》的投资哲学、以及如何利用《Clear Thinking》构建高效的AI交互模型。鹏哥还深度分享了利用AI进行复杂代码开发（如机票搜索工具）的经验。
+tags:
+- adlerian-psychology
+- investment
+- llm
+title: 2025年度阅读复盘：从阿德勒心理学、投资策略到AI深度编程
 ---
 
 ### 暖场与天气闲聊

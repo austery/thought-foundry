@@ -1,63 +1,63 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Tesla
+- Polymarket
+- LTCM
+- CrowdStrike
+- Palo Alto Networks
+- Micron Technology
+- Disney
+- NVIDIA
+- TSMC
+- Applied Materials
+- Samsung
+- Fortinet
+- Cisco
+- Vanguard
+- BlackRock
+- Fidelity
 date: '2024-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Donald Trump
+- Kamala Harris
+- John Meriwether
+- Myron Scholes
+- Robert C. Merton
+- Nancy Pelosi
+- Robert Danner
+- Ronald Read
+products_models:
+- Falcon
+- Prisma Cloud
+- Firepower
+- Loto
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=V29iyScpV-M
 speaker: Shijun Tang
-tags:
-  - valuation-mispricing
-  - free-cash-flow-illusion
-  - leverage-risk
-  - capital-expenditure-burden
-  - compound-interest-wealth
-title: 特斯拉Robotaxi发布会为何暴跌？揭秘美股科技股的估值陷阱与投资真相
-summary: 本文深度剖析特斯拉Robotaxi发布会后股价暴跌的根源，指出市场对其AI与自动驾驶叙事的过度期待落空，并对比美光、CrowdStrike、Palo Alto Networks与迪士尼等公司的财务健康度，揭示高估值科技股的系统性风险与复利投资的真正路径。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Shijun Tang
-  - Donald Trump
-  - Kamala Harris
-  - John Meriwether
-  - Myron Scholes
-  - Robert C. Merton
-  - Nancy Pelosi
-  - Robert Danner
-  - Ronald Read
-companies_orgs:
-  - Tesla
-  - Polymarket
-  - LTCM
-  - CrowdStrike
-  - Palo Alto Networks
-  - Micron Technology
-  - Disney
-  - NVIDIA
-  - TSMC
-  - Applied Materials
-  - Samsung
-  - Fortinet
-  - Cisco
-  - Vanguard
-  - BlackRock
-  - Fidelity
-products_models:
-  - Falcon
-  - Prisma Cloud
-  - Firepower
-  - Loto
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本文深度剖析特斯拉Robotaxi发布会后股价暴跌的根源，指出市场对其AI与自动驾驶叙事的过度期待落空，并对比美光、CrowdStrike、Palo
+  Alto Networks与迪士尼等公司的财务健康度，揭示高估值科技股的系统性风险与复利投资的真正路径。
+tags:
+- capital-expenditure-burden
+- compound-interest-wealth
+- flow
+- leverage-risk
+- valuation
+title: 特斯拉Robotaxi发布会为何暴跌？揭秘美股科技股的估值陷阱与投资真相
 ---
+
 ### 特斯拉Robotaxi发布会为何引爆市场失望？
 
 特斯拉在2024年10月举办的Robotaxi发布会，被外界寄予厚望，甚至被视为公司“成王败寇”的关键节点。现场展示了50台无方向盘、仅含座椅与大屏幕的自动驾驶车辆，并首次推出可容纳20人的“Robo Van”。然而，发布会结束后，特斯拉股价在两周内暴跌19.3%，市场热情瞬间冷却。为何一场“科技盛宴”反而成为股价的滑铁卢？

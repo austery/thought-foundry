@@ -1,45 +1,45 @@
 ---
-author: The MAD Podcast with Matt Turck
+area: tech-work
+category: ai-ml
+companies_orgs:
+- Google DeepMind
+- Google
+- OpenAI
 date: '2025-12-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Sebastian Bourjou
+- Matt Turk
+- Oral Yilmaz
+- Demi Sasabis
+products_models:
+- Gemini 3
+- Gemini 1.5
+- BERT
+- XLNET
+- Gopher
+- Chinchilla
+- Retro
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=cNGDAqFXvew
 speaker: The MAD Podcast with Matt Turck
-tags:
-  - llm
-  - gemini
-  - ai-research
-  - deepmind
-  - multimodal-ai
-title: Gemini 3 与 AI 的未来：深度对话 Sebastian Bourjou
-summary: Google DeepMind 的 Sebastian Bourjou 深入探讨了 Gemini 3 的研发、AI 领域从数据无限到数据有限的范式转变，以及研究团队的组织方式。他分享了对 AI 进展的看法，认为我们正超乎预期地前进，并强调了系统性改进、多模态能力及研究与工程的融合。对话还触及了扩展定律、数据策略、模型效率和未来 AI 研究方向。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sebastian Bourjou
-  - Matt Turk
-  - Oral Yilmaz
-  - Demi Sasabis
-companies_orgs:
-  - Google DeepMind
-  - Google
-  - OpenAI
-products_models:
-  - Gemini 3
-  - Gemini 1.5
-  - BERT
-  - XLNET
-  - Gopher
-  - Chinchilla
-  - Retro
-media_books: []
 status: evergreen
+summary: Google DeepMind 的 Sebastian Bourjou 深入探讨了 Gemini 3 的研发、AI 领域从数据无限到数据有限的范式转变，以及研究团队的组织方式。他分享了对
+  AI 进展的看法，认为我们正超乎预期地前进，并强调了系统性改进、多模态能力及研究与工程的融合。对话还触及了扩展定律、数据策略、模型效率和未来 AI 研究方向。
+tags:
+- ai-research
+- llm
+- multimodal-ai
+title: Gemini 3 与 AI 的未来：深度对话 Sebastian Bourjou
+companies:
+- deepmind
 ---
+
 ### AI 进展与范式转变
 
 坦白说，我认为我们已经超越了最初的预期。我们不再仅仅是构建一个模型，而是真正地在构建一个**系统**。目前可能发生的是一种范式转变：过去我们主要在数据无限的领域进行扩展，而现在我们正转向**数据有限**的领域。这实际上极大地改变了研究方法和我们思考问题的方式。我暂时看不到这种工作方式会停止带来进展的迹象。

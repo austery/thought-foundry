@@ -1,52 +1,52 @@
 ---
-author: Norges Bank Investment Management
+area: tech-insights
+category: technology
+companies_orgs:
+- Wharton
+- Norges Bank Investment Management
+- Boston Consulting Group
+- Harvard
+- MIT
+- University of Warwick
+- Samsung
+- JP Morgan
+- OpenAI
+- Anthropic
+- Google
+- Procter & Gamble
 date: '2025-06-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Co-Intelligence: Living and Working with AI'
+people:
+- Ethan Mollick
+- Nicola Tangan
+products_models:
+- GPT-4
+- Manis
+- ChatGPT
+- Gemini
+- DeepSeek R1
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=G9YthW0eQ7A
 speaker: Norges Bank Investment Management
-tags:
-  - ai-adoption
-  - organizational-transformation
-  - ai-agents
-  - workforce-impact
-  - ai-regulation
-title: Ethan Mollick谈AI：企业如何拥抱人机协作，应对变革挑战
-summary: 沃顿商学院教授Ethan Mollick深入探讨了企业在AI时代面临的机遇与挑战。他强调了提升员工AI意识、解决激励问题的重要性，并介绍了AI代理（Agent）的潜力及其在工作中的应用。Mollick还讨论了AI对劳动力市场的影响、成本削减与增长策略的权衡、合规与IT部门的角色，以及AI监管和通用人工智能的未来发展。他认为，AI能力和普及速度远超预期，企业领导者需保持紧迫感，积极探索人机协作模式。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Ethan Mollick
-  - Nicola Tangan
-companies_orgs:
-  - Wharton
-  - Norges Bank Investment Management
-  - Boston Consulting Group
-  - Harvard
-  - MIT
-  - University of Warwick
-  - Samsung
-  - JP Morgan
-  - OpenAI
-  - Anthropic
-  - Google
-  - Procter & Gamble
-products_models:
-  - GPT-4
-  - Manis
-  - ChatGPT
-  - Gemini
-  - DeepSeek R1
-media_books:
-  - 'Co-Intelligence: Living and Working with AI'
 status: evergreen
+summary: 沃顿商学院教授Ethan Mollick深入探讨了企业在AI时代面临的机遇与挑战。他强调了提升员工AI意识、解决激励问题的重要性，并介绍了AI代理（Agent）的潜力及其在工作中的应用。Mollick还讨论了AI对劳动力市场的影响、成本削减与增长策略的权衡、合规与IT部门的角色，以及AI监管和通用人工智能的未来发展。他认为，AI能力和普及速度远超预期，企业领导者需保持紧迫感，积极探索人机协作模式。
+tags:
+- ai-adoption
+- ai-agent
+- ai-regulation
+- impact
+- transformation
+title: Ethan Mollick谈AI：企业如何拥抱人机协作，应对变革挑战
 ---
+
 ### 拥抱人机协作：AI时代的领导力与企业转型
 
 大家好。

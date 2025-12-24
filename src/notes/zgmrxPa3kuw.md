@@ -1,64 +1,64 @@
 ---
-author: 超級歪 SuperY
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 国际奥委会
+- 国际田径联合会
+- 国际拳击协会
+- 欧洲人权法院
 date: '2024-08-08'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《哈利·波特》
+- 《权力游戏：奥运会的政治史》
+- 《身体的性别：性别政治与性构建》
+- 《体育性别：跨性别和间性运动员的历史、科学与故事》
+- 《睾酮：一部未经授权的传记》
+- 《性别检测：女子体育中的性别规训》
+people:
+- 林郁婷
+- Kailifu
+- JK Rowling
+- Pierre de Coubertin
+- Alice Milliat
+- Renji Renji
+- Helen Stephens
+- Stella Walsh
+- Irina Press
+- Tamara Press
+- Ewa Kłobukowska
+- Kirsten Wengler
+- Maria José Martínez-Patiño
+- 王军霞
+- PattiSue Plumer
+- Shane Gould
+- Santhi Soundarajan
+- Caster Semenya
+- Elisa Cusma
+- Michael Phelps
+- 潘展乐
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=zgmrxPa3kuw
 speaker: 超級歪 SuperY
-tags:
-  - gender-testing
-  - olympic-controversy
-  - racial-discrimination
-  - fair-competition
-  - testosterone-limits
-title: 巴黎奥运性别争议：百年奥运史中的性别检测、种族歧视与公平竞赛
-summary: 2024年巴黎奥运会上，台湾拳击手林郁婷因性别问题引发争议，知名作家JK罗琳的言论更是激化了讨论。本文深入探讨了奥运会百年历史上性别检测的演变、其背后的科学争议、伦理困境以及与种族歧视的复杂交织。从早期对女性身体能力的质疑，到冷战时期美苏对抗下的性别规训，再到现代对睾酮水平的限制，文章揭示了性别检测标准的不一致性及其对运动员造成的深远影响，并反思了体育竞赛中“公平”的真正含义。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - geopolitics-watch
-  - historical-insights
-  - cultural-critique
-people:
-  - 林郁婷
-  - Kailifu
-  - JK Rowling
-  - Pierre de Coubertin
-  - Alice Milliat
-  - Renji Renji
-  - Helen Stephens
-  - Stella Walsh
-  - Irina Press
-  - Tamara Press
-  - Ewa Kłobukowska
-  - Kirsten Wengler
-  - Maria José Martínez-Patiño
-  - 王军霞
-  - PattiSue Plumer
-  - Shane Gould
-  - Santhi Soundarajan
-  - Caster Semenya
-  - Elisa Cusma
-  - Michael Phelps
-  - 潘展乐
-companies_orgs:
-  - 国际奥委会
-  - 国际田径联合会
-  - 国际拳击协会
-  - 欧洲人权法院
-products_models: []
-media_books:
-  - 《哈利·波特》
-  - 《权力游戏：奥运会的政治史》
-  - 《身体的性别：性别政治与性构建》
-  - 《体育性别：跨性别和间性运动员的历史、科学与故事》
-  - 《睾酮：一部未经授权的传记》
-  - 《性别检测：女子体育中的性别规训》
 status: evergreen
+summary: 2024年巴黎奥运会上，台湾拳击手林郁婷因性别问题引发争议，知名作家JK罗琳的言论更是激化了讨论。本文深入探讨了奥运会百年历史上性别检测的演变、其背后的科学争议、伦理困境以及与种族歧视的复杂交织。从早期对女性身体能力的质疑，到冷战时期美苏对抗下的性别规训，再到现代对睾酮水平的限制，文章揭示了性别检测标准的不一致性及其对运动员造成的深远影响，并反思了体育竞赛中“公平”的真正含义。
+tags:
+- fair-competition
+- gender
+- olympic-controversy
+- racial-discrimination
+- testosterone-limit
+title: 巴黎奥运性别争议：百年奥运史中的性别检测、种族歧视与公平竞赛
 ---
+
 ### 巴黎奥运性别争议：林郁婷事件的背景
 
 今年的巴黎奥运会争议不断，台湾选手林郁婷和阿尔及利亚选手卡伊利福的性别问题受到了质疑。知名作家JK罗琳转发了外媒报道，并评论称“这种疯狂何时才能结束？我们要等到一名女拳击手受重伤，甚至被殴打致死吗？”此番言论在台湾网友中引发了强烈不满。事实上，国际奥委会在赛前已明确保证所有参赛选手均符合比赛规定。因此，罗琳被批评为“没见过世面”，认为她“在书里可以乱写，但不能乱说话”。许多网友在留言区发布中英文澄清图片支持林郁婷，一些粉丝表示失望，称将不再观看《哈利·波特》，甚至有人引用原著情节，称JK罗琳应该属于斯莱特林学院。

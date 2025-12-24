@@ -1,43 +1,42 @@
 ---
-author: 老周横眉
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 北京大学健康发展研究中心
+- 国家医保局
+- 世界卫生组织
+- 国家发改委
+- 中组部
+- 深圳市第二人民医院
+- 人民日报
+- 卫生部
 date: '2025-11-07'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- 李玲
+- 殷大奎
+products_models: []
+project:
+- china-analysis
+- geopolitics-watch
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=-80WLZSCtKc
 speaker: 老周横眉
-tags:
-  - over-medicalization
-  - healthcare-reform
-  - public-hospital-funding
-  - medical-insurance
-  - government-spending
-title: 中国医疗困境：过度医疗、高昂费用与体制性症结
-summary: 本视频深入探讨了中国医疗系统面临的严峻挑战，特别是过度医疗、医疗费用飙升以及公立医院巨大的创收压力。通过详实的数据和案例，揭示了中国医疗体制下的制度性问题，包括医保覆盖不足、政府财政投入匮乏，以及由此导致的医患关系紧张。文章还对比了中国与其他主要国家的医疗财政投入，并指出解决民生问题而非追求“面子工程”的重要性。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - geopolitics-watch
-  - systems-thinking
-people:
-  - 李玲
-  - 殷大奎
-companies_orgs:
-  - 北京大学健康发展研究中心
-  - 国家医保局
-  - 世界卫生组织
-  - 国家发改委
-  - 中组部
-  - 深圳市第二人民医院
-  - 人民日报
-  - 卫生部
-products_models: []
-media_books: []
 status: evergreen
+summary: 本视频深入探讨了中国医疗系统面临的严峻挑战，特别是过度医疗、医疗费用飙升以及公立医院巨大的创收压力。通过详实的数据和案例，揭示了中国医疗体制下的制度性问题，包括医保覆盖不足、政府财政投入匮乏，以及由此导致的医患关系紧张。文章还对比了中国与其他主要国家的医疗财政投入，并指出解决民生问题而非追求“面子工程”的重要性。
+tags:
+- government
+- health
+- medical
+- public
+- reform
+title: 中国医疗困境：过度医疗、高昂费用与体制性症结
 ---
+
 ### 中国医疗的过度化乱象
 
 最近，北京大学国家发展研究院的一位教授带领十位研究员，假扮成病人前往各地医院就诊，旨在了解中国医院**过度医疗**（Over-medicalization: 指医院为追求利润，对患者进行不必要的检查、治疗或手术）问题的严重程度。他们发现，老百姓被“宰”得一无所知，因为每家医院都面临创收和抢病人的压力，导致小病大治、过度医疗的现象触目惊心。例如，有医院的报告显示，患者几乎百分之百是胎儿流产，其中一位孕妇甚至在医院门口生产。院长因此责骂医生动作太慢，错失了“破腹产”这个更有利可图的手术机会。破腹产作为手术，需要用药、住院，这无疑增加了患者的负担和痛苦。

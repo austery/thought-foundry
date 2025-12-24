@@ -9,12 +9,10 @@ project:
 tags:
 - china-politics
 - international-relations
-- news-commentary
+- society
 - us-economy
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
 date: 2025-09-07
 author: Lei
 speaker: LT視界
@@ -26,6 +24,7 @@ series: null
 source: null
 status: evergreen
 ---
+
 大家好，我们一起来分享今天不能错过的重要新闻。今天是9月7日。
 
 ## 本周五大经济事件展望

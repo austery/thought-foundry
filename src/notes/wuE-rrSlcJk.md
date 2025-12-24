@@ -1,31 +1,29 @@
 ---
-title: 杰夫·迪恩：从分布式系统到谷歌大脑，洞察AI的过去与未来
-summary: 谷歌AI巨头杰夫·迪恩回顾其职业生涯，从早期编程兴趣到谷歌大脑的创立，深入探讨神经网络、TPU、注意力机制等关键技术，并对AI的未来发展及社会影响提出深刻见解。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai
-- google-brain
-- neural-networks
-people:
-- jeff-dean
+area: tech-engineering
+category: ai-ml
 companies_orgs: []
-products_models:
-- tpu
-media_books: []
 date: '2025-09-02'
-author: Best Partners TV
-speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- jeff-dean
+products_models:
+- tpu
+project:
+- ai-impact-analysis
 series: ''
 source: https://www.youtube.com/watch?v=wuE-rrSlcJk
+speaker: Best Partners TV
 status: evergreen
+summary: 谷歌AI巨头杰夫·迪恩回顾其职业生涯，从早期编程兴趣到谷歌大脑的创立，深入探讨神经网络、TPU、注意力机制等关键技术，并对AI的未来发展及社会影响提出深刻见解。
+tags:
+- brain
+- neural-network
+title: 杰夫·迪恩：从分布式系统到谷歌大脑，洞察AI的过去与未来
 ---
+
 ### 引言：杰夫·迪恩的AI旅程
 
 如果你关注人工智能和计算机科学，那么对**杰夫·迪恩**（Jeff Dean: 谷歌核心工程师、谷歌大脑创始人）这个名字一定不会陌生。他不仅是谷歌早期的核心工程师之一，更是一手缔造了**谷歌大脑**（Google Brain: 谷歌旗下著名人工智能研究团队）这个举世瞩目的AI研究团队。他的职业生涯犹如一场精彩的连续创业，不断投身于新的挑战，推动着技术边界的拓展。本文将通过The Moonshot Factory的播客采访，深入了解杰夫·迪恩的成长经历、他在谷歌大脑的早期探索，以及他对人工智能未来发展的深刻洞察。

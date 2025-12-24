@@ -1,57 +1,57 @@
 ---
-author: TechButMakeItReal
+area: market-analysis
+category: business
+companies_orgs:
+- Lovable
+- Play Magnus Group
+- Trello
+- Slack
+- Snyk
+- GitHub
+- Zoom
+- Salesforce
+- HubSpot
+- Dropbox
+- Miro
+- Canva
+- Figma
+- Pendo
+- Smile Direct Club
+- Outreach
+- June
 date: '2025-09-23'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Substack
+people:
+- Magnus Carlsen
+- Elena Verna
+- Enzo Avigo
+- Anton
+products_models:
+- Google ads
+- LinkedIn ads
+project:
+- ai-impact-analysis
+- entrepreneurship
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=aYMhsE_mSc4
 speaker: TechButMakeItReal
-tags:
-  - ai-growth-strategy
-  - culture-native-growth
-  - customer-acquisition-cost
-  - product-led-growth
-  - founder-led-sales
-title: AI时代增长新范式：为何企业重金投入文化而非广告？
-summary: 本文深入探讨了在AI优先时代，软件公司增长策略的根本性转变。传统依赖广告和销售的模式正被“文化原生增长”所取代，以Lovable公司赞助国际象棋为例，分析了客户获取成本、利润率和关键指标在疫情前、疫情期间和AI时代的变化。文章强调了真实性、创始人品牌和创作者经济的重要性，指出AI公司应将资源投入到能将用户转化为倡导者、创作者和创始人的文化建设中。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - entrepreneurship
-  - market-cycles
-people:
-  - Magnus Carlsen
-  - Elena Verna
-  - Enzo Avigo
-  - Anton
-companies_orgs:
-  - Lovable
-  - Play Magnus Group
-  - Trello
-  - Slack
-  - Snyk
-  - GitHub
-  - Zoom
-  - Salesforce
-  - HubSpot
-  - Dropbox
-  - Miro
-  - Canva
-  - Figma
-  - Pendo
-  - Smile Direct Club
-  - Outreach
-  - June
-products_models:
-  - Google ads
-  - LinkedIn ads
-media_books:
-  - Substack
 status: evergreen
+summary: 本文深入探讨了在AI优先时代，软件公司增长策略的根本性转变。传统依赖广告和销售的模式正被“文化原生增长”所取代，以Lovable公司赞助国际象棋为例，分析了客户获取成本、利润率和关键指标在疫情前、疫情期间和AI时代的变化。文章强调了真实性、创始人品牌和创作者经济的重要性，指出AI公司应将资源投入到能将用户转化为倡导者、创作者和创始人的文化建设中。
+tags:
+- business
+- cost
+- culture
+- growth
+- strategy
+title: AI时代增长新范式：为何企业重金投入文化而非广告？
 ---
+
 ### AI时代：增长策略的范式转变
 
 如果你有10万美元来发展你的软件业务，你会投资于广告还是体育？

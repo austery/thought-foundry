@@ -1,53 +1,52 @@
 ---
-author: 徒步的騎手
-date: 2025-02-25
-guest: ''
-layout: post.njk
-source: 'https://www.youtube.com/watch?v=ou4n2PhdABc'
-speaker: 徒步的騎手
-tags:
-  - financial-freedom
-  - stoic-philosophy
-  - modern-civilization
-  - information-environment
-  - personal-resilience
-  - chinese-education
-title: 财务自由、心智成年与时代挑战：如何在历史的“垃圾时间”中活出自我
-summary: 本期节目探讨了财务自由与财务安全感的区别，强调真正的自由在于精神世界的超越。通过玄奘、空海大师的案例，反思传统教育中背书的局限性，并呼吁培养独立思考、决断力和想象力。节目深入剖析了现代化与现代文明化的差异，以及中文世界信息环境的挑战。面对历史的‘垃圾时间’，倡导斯多亚哲学和《心经》的智慧，鼓励个体在纷乱中保持平静、勇气和智慧，避免将个人人生活成垃圾，实现心智成年。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
 area: society-systems
-project:
-  - us-analysis
-  - china-analysis
-  - personal-growth-lab
-people:
-  - 玄奘
-  - 空海
-  - 孔子
-  - 文家宝
-  - 奥勒流
-  - 莱茵霍尔德尼布尔
-  - 五月散人
-  - 刘世公
-  - Donald Trump
+category: geopolitics
 companies_orgs:
-  - YouTube
-  - 香港中文大学
-  - 21世纪评论
-products_models: '[]'
+- YouTube
+- 香港中文大学
+- 21世纪评论
+date: 2025-02-25
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - 《心经》
-  - 《论语》
-  - 《当下的力量》
-  - 《沉思录》
-  - 《道德的人和不道德的社会》
-  - 《人的本性和命运》
-  - 《光明之子与黑暗之子》
-  - 《肖申克的救赎》
+- 《心经》
+- 《论语》
+- 《当下的力量》
+- 《沉思录》
+- 《道德的人和不道德的社会》
+- 《人的本性和命运》
+- 《光明之子与黑暗之子》
+- 《肖申克的救赎》
+people:
+- 玄奘
+- 空海
+- 孔子
+- 文家宝
+- 奥勒流
+- 莱茵霍尔德尼布尔
+- 五月散人
+- 刘世公
+- Donald Trump
+products_models: '[]'
+project:
+- us-analysis
+- china-analysis
+- personal-growth-lab
+series: ''
+source: https://www.youtube.com/watch?v=ou4n2PhdABc
+speaker: 徒步的騎手
 status: evergreen
+summary: 本期节目探讨了财务自由与财务安全感的区别，强调真正的自由在于精神世界的超越。通过玄奘、空海大师的案例，反思传统教育中背书的局限性，并呼吁培养独立思考、决断力和想象力。节目深入剖析了现代化与现代文明化的差异，以及中文世界信息环境的挑战。面对历史的‘垃圾时间’，倡导斯多亚哲学和《心经》的智慧，鼓励个体在纷乱中保持平静、勇气和智慧，避免将个人人生活成垃圾，实现心智成年。
+tags:
+- chinese-education
+- financial-freedom
+- information
+- personal-resilience
+- philosophy
+- society
+title: 财务自由、心智成年与时代挑战：如何在历史的“垃圾时间”中活出自我
 ---
 
 ### 财务自由的真谛与财务安全感

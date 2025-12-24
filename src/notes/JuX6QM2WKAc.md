@@ -1,30 +1,29 @@
 ---
-title: 98% 的 Z 世代价值观与企业需求脱节：Suzy Welch 深度分析
-summary: Suzy Welch 的研究揭示，只有 2% 的 Z 世代拥有企业青睐的价值观。她深入探讨了 Z 世代的价值观形成原因，以及企业在招聘和管理上的应对策略。
 area: null
 category: null
-project: []
-tags:
-- employer-expectations
-- gen-z
-- generational-differences
-- workforce-values
-people: []
 companies_orgs: []
-products_models: []
-media_books:
-- bloomberg-podcasts
 date: '2025-10-08'
-author: Bloomberg Podcasts
-speaker: Bloomberg Podcasts
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+media_books:
+- bloomberg-podcasts
+products_models: []
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JuX6QM2WKAc
+speaker: Bloomberg Podcasts
 status: evergreen
+summary: Suzy Welch 的研究揭示，只有 2% 的 Z 世代拥有企业青睐的价值观。她深入探讨了 Z 世代的价值观形成原因，以及企业在招聘和管理上的应对策略。
+tags:
+- employer-expectation
+- gen-z
+- health
+- value
+title: 98% 的 Z 世代价值观与企业需求脱节：Suzy Welch 深度分析
 ---
+
 ### Z 世代的价值观观察
 
 I teach Gen Z every single day. I mean, every semester, hundreds of students. So my shock was perhaps less than the rest of the team because I'm in the room with them now. NYU students are not quite as representative of Gen Z as outside of them. These are MBAs, so they tend to have a little bit more gear going on.

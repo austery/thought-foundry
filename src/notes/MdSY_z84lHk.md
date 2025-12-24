@@ -1,42 +1,41 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- META
+- Google
+- ByteDance
+- OpenAI
 date: '2025-11-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- Donald Trump
+- Mark Zuckerberg
+products_models:
+- Sora 2
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=MdSY_z84lHk
 speaker: Shijun Tang
-tags:
-  - network-effects
-  - digital-advertising-market
-  - non-cash-tax-charge
-  - capital-expenditure-risks
-  - earnings-per-share-volatility
-title: META财报暴跌14.36%背后的真相：复利机器还是烧钱深渊？
-summary: 尽管META因一次性非现金税款和AI领域巨额资本支出导致股价暴跌，其核心社交平台仍维持全球主导地位，广告变现效率与网络效应构筑强大护城河。长期来看，其基本面未受损，仍是高回报的复利机器。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Shijun Tang
-  - Donald Trump
-  - Mark Zuckerberg
-companies_orgs:
-  - META
-  - Google
-  - 字节跳动
-  - OpenAI
-products_models:
-  - Sora 2
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 尽管META因一次性非现金税款和AI领域巨额资本支出导致股价暴跌，其核心社交平台仍维持全球主导地位，广告变现效率与网络效应构筑强大护城河。长期来看，其基本面未受损，仍是高回报的复利机器。
+tags:
+- capital-expenditure-risk
+- investment
+- market
+- network-effect
+- non
+title: META财报暴跌14.36%背后的真相：复利机器还是烧钱深渊？
 ---
+
 ### META股价暴跌14.36%：一场财务地震的表象与本质
 
 META最新财报发布后，股价单日暴跌14.36%，震惊市场。许多投资者开始质疑：这家曾被视为“复利机器”的科技巨头，是否已走向衰落？本期内容将基于其财报数据，逐层剖析这场暴跌背后的真正原因。

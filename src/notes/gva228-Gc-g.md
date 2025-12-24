@@ -1,35 +1,36 @@
 ---
-author: Big Think
+area: personal-systems
+category: psychology
+companies_orgs: []
 date: '2025-10-29'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 'Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for
+  What Counts'
+people:
+- Oliver Burkeman
+- Hartmut Rosa
+- Paul Loomans
+products_models: []
+project:
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=gva228-Gc-g
 speaker: Big Think
-tags:
-  - problem-solving
-  - avoidance
-  - discomfort
-  - personal-growth
-  - mindset-shift
-title: 你永远无法逃避生活中的问题，但这恰恰是解脱之道
-summary: 奥利弗·伯克曼指出，我们对生活中的问题常抱有双重抵触：既要应对问题本身，又对不该有问题的想法感到愤怒。他认为，与其逃避，不如培养对问题的“品味”，将其视为有意义的活动。通过直面而非回避，将那些令人困扰的“啃噬之鼠”转化为温顺的“白羊”，并以微小的增量行动。他强调，不适感是成长的标志，而那些令人感到“尴尬”的建议，往往触及了我们内心脆弱之处，是值得关注的信号。
-insight: ''
-draft: true
-series: ''
-category: psychology
-area: personal-systems
-project:
-  - personal-growth-lab
-people:
-  - Oliver Burkeman
-  - Hartmut Rosa
-  - Paul Loomans
-companies_orgs: []
-products_models: []
-media_books:
-  - 'Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts'
 status: evergreen
+summary: 奥利弗·伯克曼指出，我们对生活中的问题常抱有双重抵触：既要应对问题本身，又对不该有问题的想法感到愤怒。他认为，与其逃避，不如培养对问题的“品味”，将其视为有意义的活动。通过直面而非回避，将那些令人困扰的“啃噬之鼠”转化为温顺的“白羊”，并以微小的增量行动。他强调，不适感是成长的标志，而那些令人感到“尴尬”的建议，往往触及了我们内心脆弱之处，是值得关注的信号。
+tags:
+- avoidance
+- discomfort
+- personal-growth
+- problem
+- shift
+title: 你永远无法逃避生活中的问题，但这恰恰是解脱之道
 ---
+
 ### 拥抱问题：从抵触到解脱
 
 我的名字是奥利弗·伯克曼（Oliver Burkeman），我是一名作家，也是一位正在戒除**效率狂人**（Productivity Geek: 对效率极度痴迷的人）习惯的人，我写了《凡人的冥想：拥抱局限，为重要之事腾出时间的四周指南》（"Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts"）这本书。

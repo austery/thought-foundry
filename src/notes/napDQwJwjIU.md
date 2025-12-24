@@ -1,33 +1,32 @@
 ---
-title: 迈克尔·乔丹教授：AI革命中“超级智能”的误区与真解
-summary: 加州大学伯克利分校教授迈克尔·乔丹批判硅谷对AGI的盲目追求，认为AI是集体智慧的镜子，而非独立神灵，并强调构建超级市场而非超级大脑，警惕数据垄断的社会风险。
 area: tech-insights
 category: technology
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
-tags:
-- agi-critique
-- ai-governance
-- collective-intelligence
-- market-design
-people:
-- michael-jordan
 companies_orgs: []
-products_models: []
-media_books: []
 date: '2025-10-07'
-author: 北美王路飞
-speaker: 北美王路飞
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- michael-jordan
+products_models: []
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
 series: ''
 source: https://www.youtube.com/watch?v=napDQwJwjIU
+speaker: 北美王路飞
 status: evergreen
+summary: 加州大学伯克利分校教授迈克尔·乔丹批判硅谷对AGI的盲目追求，认为AI是集体智慧的镜子，而非独立神灵，并强调构建超级市场而非超级大脑，警惕数据垄断的社会风险。
+tags:
+- ai-governance
+- critique
+- intelligence
+- market
+title: 迈克尔·乔丹教授：AI革命中“超级智能”的误区与真解
 ---
+
 ### AI狂潮下的“超级智能”神话
 
 近年来，关于人工智能（AI）的话题几乎到了爆炸的程度。每天都有消息称，**超级智能**（Superintelligence: 指在几乎所有领域都大大超越人类智能的假想智能系统）离我们越来越近，**AGI**（通用人工智能: Artificial General Intelligence，指能够理解、学习或执行人类所能完成的任何智力任务的人工智能系统）即将无所不能，能写诗、画画、代写代码。许多人因此兴奋地认为**奇点**（Singularity: 指技术发展达到一个临界点，此后技术进步将变得不可预测和不可控的假想未来事件）将至，例如萨顿老爷子就认为AGI终将取代人类。但也有人感到焦虑，像辛顿一样，担心自己创造的人工智能会取代人类工作，甚至恐惧电影中**天网**（Skynet: 电影《终结者》中拥有自我意识并试图毁灭人类的人工智能系统）的出现。

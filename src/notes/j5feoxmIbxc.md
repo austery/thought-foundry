@@ -1,42 +1,41 @@
 ---
-author: TVO Today
+area: society-systems
+category: culture
+companies_orgs:
+- Netflix
+- YouTube
+- Givenchy
+- Balenciaga
 date: '2025-11-28'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Jennifer Lawrence
+- Tim McLaughlin
+- Amil Niazi
+- Amy Schumer
+- Hannah Einbinder
+- Mike Myers
+products_models:
+- Black Square
+project:
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=j5feoxmIbxc
 speaker: TVO Today
-tags:
-  - celebrity-activism
-  - public-opinion
-  - social-responsibility
-  - cancel-culture
-  - risk-assessment
-title: 聚光灯下的声音：明星公开发声的风险与价值
-summary: 在政治紧张和社会分裂日益加剧的背景下，明星公开发表观点成为一个备受关注的现象。本文探讨了明星发声可能带来的风险与收益，以及他们的观点是否真正能影响公众舆论。通过分析明星在敏感议题上的表态，揭示了公众人物在社会议题中应扮演的角色，以及他们如何才能以更负责任和有效的方式参与公共讨论。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - cultural-critique
-people:
-  - Jennifer Lawrence
-  - Tim McLaughlin
-  - Amil Niazi
-  - Amy Schumer
-  - Hannah Einbinder
-  - Mike Myers
-companies_orgs:
-  - Netflix
-  - YouTube
-  - Givenchy
-  - Balenciaga
-products_models:
-  - Black Square
-media_books: []
 status: evergreen
+summary: 在政治紧张和社会分裂日益加剧的背景下，明星公开发表观点成为一个备受关注的现象。本文探讨了明星发声可能带来的风险与收益，以及他们的观点是否真正能影响公众舆论。通过分析明星在敏感议题上的表态，揭示了公众人物在社会议题中应扮演的角色，以及他们如何才能以更负责任和有效的方式参与公共讨论。
+tags:
+- celebrity-activism
+- culture
+- public-opinion
+- risk
+- social
+title: 聚光灯下的声音：明星公开发声的风险与价值
 ---
+
 ### 引言：明星发声的背景与争议
 
 政治局势日益紧张，社会分歧似乎无处不在，名人也无法置身事外。

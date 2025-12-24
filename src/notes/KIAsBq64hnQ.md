@@ -1,34 +1,34 @@
 ---
-author: TED
+area: society-systems
+category: technology
+companies_orgs:
+- TED
 date: '2025-11-15'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Cesar Ramirez-Sarmiento
+products_models: []
+project:
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=KIAsBq64hnQ
 speaker: TED
-tags:
-  - protein-design
-  - ai-applications
-  - biotechnology
-  - scientific-innovation
-  - global-challenges
-title: AI赋能蛋白质设计新时代：解锁自然未及的潜力
-summary: 蛋白质是细胞的基石，由氨基酸构成，其三维结构决定了生物功能。传统蛋白质工程旨在优化其特性以解决人类面临的挑战，如塑料污染和健康问题，但效率低下。人工智能的引入带来了革命性突破，将蛋白质设计的成功率从不足1%提升至10-20%，极大地加速了新功能蛋白质的创造。演讲者César Ramírez-Sarmiento强调了科学与艺术的共通性——创造力，并展望在拉丁美洲建立强大的蛋白质工程社区，利用AI工具解决区域特有问题，共同探索蛋白质的无限可能。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: society-systems
-project:
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Cesar Ramirez-Sarmiento
-companies_orgs:
-  - TED
-products_models: []
-media_books: []
 status: evergreen
+summary: 蛋白质是细胞的基石，由氨基酸构成，其三维结构决定了生物功能。传统蛋白质工程旨在优化其特性以解决人类面临的挑战，如塑料污染和健康问题，但效率低下。人工智能的引入带来了革命性突破，将蛋白质设计的成功率从不足1%提升至10-20%，极大地加速了新功能蛋白质的创造。演讲者César
+  Ramírez-Sarmiento强调了科学与艺术的共通性——创造力，并展望在拉丁美洲建立强大的蛋白质工程社区，利用AI工具解决区域特有问题，共同探索蛋白质的无限可能。
+tags:
+- ai-application
+- challenge
+- design
+- innovation
+- technology
+title: AI赋能蛋白质设计新时代：解锁自然未及的潜力
 ---
+
 ### 蛋白质：生命的基石与工程挑战
 
 我的名字是Cesar Ramirez-Sarmiento，我来自智利圣地亚哥，是一名**蛋白质**（Proteins: 构成生物体并执行生命活动的大分子）工程师和设计师。

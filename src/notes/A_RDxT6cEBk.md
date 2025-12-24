@@ -1,67 +1,67 @@
 ---
-author: a16z
+area: tech-insights
+category: business
+companies_orgs:
+- Kong
+- Mashape
+- a16z
+- United
+- Stanford
+- YouTube
+- NEA
+- Index Ventures
+- CRV
+- Amazon
+- Google
+- Expedia
+- Airbnb
+- Uber
+- Duolingo
+- Anthropic
+- Looped
 date: '2025-10-21'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- TechCrunch
+- ReadWriteWeb
+- Mashable
+- Quora
+people:
+- Sam Altman
+- George Zachary
+- Mike Volpi
+- Jeff Bezos
+- Eric Schmidt
+- Travis Kalanick
+- Marco
+- Mikuela
+products_models:
+- AWS
+- Kong API Gateway
+- Cursor
+- LLMs
+- O1 Visa
+project:
+- entrepreneurship
+- ai-impact-analysis
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=A_RDxT6cEBk
 speaker: a16z
-tags:
-  - startup-journey
-  - api-infrastructure
-  - open-source
-  - ai-connectivity
-  - market-pivot
-title: 从米兰车库到API巨头：Kong的创业史与AI基础设施的未来
-summary: 本文深入探讨了API基础设施公司Kong（前身为Mashape）的艰辛创业历程，从在米兰车库的早期挣扎，到在硅谷的多次关键转型和融资。嘉宾分享了公司如何在资金匮乏、面临倒闭的边缘坚持下来，最终通过开源API网关Kong实现爆发式增长。文章还展望了AI时代下API基础设施的演变，强调了API在机器间通信中的核心作用，以及Kong如何应对这一新的市场变革。
-insight: ''
-draft: true
-series: ''
-category: business
-area: tech-insights
-project:
-  - entrepreneurship
-  - ai-impact-analysis
-  - systems-thinking
-people:
-  - Sam Altman
-  - George Zachary
-  - Mike Volpi
-  - Jeff Bezos
-  - Eric Schmidt
-  - Travis Kalanick
-  - Marco
-  - Mikuela
-companies_orgs:
-  - Kong
-  - Mashape
-  - a16z
-  - United
-  - Stanford
-  - YouTube
-  - NEA
-  - Index Ventures
-  - CRV
-  - Amazon
-  - Google
-  - Expedia
-  - Airbnb
-  - Uber
-  - Duolingo
-  - Anthropic
-  - Looped
-products_models:
-  - AWS
-  - Kong API Gateway
-  - Cursor
-  - LLMs
-  - O1 Visa
-media_books:
-  - TechCrunch
-  - ReadWriteWeb
-  - Mashable
-  - Quora
 status: evergreen
+summary: 本文深入探讨了API基础设施公司Kong（前身为Mashape）的艰辛创业历程，从在米兰车库的早期挣扎，到在硅谷的多次关键转型和融资。嘉宾分享了公司如何在资金匮乏、面临倒闭的边缘坚持下来，最终通过开源API网关Kong实现爆发式增长。文章还展望了AI时代下API基础设施的演变，强调了API在机器间通信中的核心作用，以及Kong如何应对这一新的市场变革。
+tags:
+- api-infrastructure
+- llm
+- market
+- open-source
+- startup-journey
+title: 从米兰车库到API巨头：Kong的创业史与AI基础设施的未来
 ---
+
 ### 早期挣扎与创业初心
 
 AI: 他打开一个衣柜，里面堆满了香蕉，因为有一个人只吃大香蕉。他又打开另一个衣柜，里面是另一张床垫，睡着其他几个人，他心想：“这才是真实的生活。”我们当时身无分文，只剩下600美元，买了美国联合航空（United）的机票，我们有90天的时间来决定成败。我们知道，如果不能成功融资，就只能身无分文地回到意大利，一切就此结束。我想很多人可能不知道或不曾意识到，Kong在真正起飞后发展得有多快。在此之前，我们经历了七年的“饥饿期”，基本上毫无进展。每年我们都会颁发创始人奖，这个奖项会给公司最优秀的员工2555股股票。之所以是2555，是因为它象征着2555天的奋斗，是一个纪念七年挣扎的符号，每年都是一次回顾。

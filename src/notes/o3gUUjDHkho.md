@@ -1,41 +1,41 @@
 ---
-author: 海伦子Hellen
+area: tech-insights
+category: technology
+companies_orgs:
+- SpaceX
 date: '2024-06-19'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- X
+people:
+- Elon Musk
+products_models:
+- Starship
+- Super Heavy
+- Raptor engine
+- Falcon 9
+- Apollo 11
+- Starlink
+project:
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=o3gUUjDHkho
 speaker: 海伦子Hellen
-tags:
-  - starship-flight-4
-  - reusability
-  - atmospheric-reentry
-  - vertical-landing
-  - thermal-protection-system
-  - space-transportation
-title: 星舰第四次试飞：再入大气层与垂直着陆的关键突破
-summary: SpaceX星舰第四次试飞取得了迄今为止最全面的成功，首次实现了助推器和二级飞船的完整飞行，包括载入大气层和垂直软着陆。本次试飞验证了星舰在极端高温下的隔热瓦性能和姿态控制能力，并为未来的快速重复使用和火星探索奠定了基础。文章深入探讨了再入大气层、垂直着陆的技术挑战及SpaceX的创新解决方案，展望了星舰作为火星交通工具和地球点对点运输的潜力。
-insight: ''
-draft: true
-series: ''
-category: technology
-area: tech-insights
-project:
-  - systems-thinking
-people:
-  - Elon Musk
-companies_orgs:
-  - SpaceX
-products_models:
-  - Starship
-  - Super Heavy
-  - Raptor engine
-  - Falcon 9
-  - Apollo 11
-  - Starlink
-media_books:
-  - X
 status: evergreen
+summary: SpaceX星舰第四次试飞取得了迄今为止最全面的成功，首次实现了助推器和二级飞船的完整飞行，包括载入大气层和垂直软着陆。本次试飞验证了星舰在极端高温下的隔热瓦性能和姿态控制能力，并为未来的快速重复使用和火星探索奠定了基础。文章深入探讨了再入大气层、垂直着陆的技术挑战及SpaceX的创新解决方案，展望了星舰作为火星交通工具和地球点对点运输的潜力。
+tags:
+- atmospheric-reentry
+- geopolitical
+- science
+- space
+- system
+- vertical-landing
+title: 星舰第四次试飞：再入大气层与垂直着陆的关键突破
 ---
+
 ### 星舰第四次试飞：里程碑式的成功
 
 星舰刚刚完成了它的第四次试飞，这是目前为止最成功的一次。无论是**助推器**（Super Heavy: 星舰的第一级火箭），还是**星舰二级**（Starship: 星舰的第二级飞船），都完成了一次完整的飞行。这里所谓的完整飞行，包含了两个此前难以攻克的关键点：一是成功**再入大气层**，二是在空中翻转后实现**垂直着陆**。这也是星舰试飞以来首次同时做到这两点。

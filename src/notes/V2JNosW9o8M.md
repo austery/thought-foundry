@@ -1,63 +1,62 @@
 ---
-author: Bloomberg Podcasts
+area: finance-wealth
+category: macro-economy
+companies_orgs:
+- Bloomberg
+- Federal Reserve
+- Citadel
+- Boston Fed
+- Atlanta Fed
+- Federal Open Market Committee
 date: '2025-08-22'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Mike McKe
+- Jerome Powell
+- Anna Wong
+- Chris Waller
+- Ben Bernanke
+- Emmy Nakamura
+- Donald Trump
+- Kevin Hassett
+- Kevin Warsh
+- Scott Bessent
+- David Zervos
+- Christine Lagarde
+- Andrew Bailey
+- Paul Volcker
+- Lisa Cook
+- Carmen Rodriguez
+- Dashel Bennett
+- Moses Andom
+- Kale Brooks
+- Blake Maples
+- Sage Bowman
+products_models:
+- OddLots podcast
+- Lots More podcast
+- Bloomberg terminal
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=V2JNosW9o8M
 speaker: Bloomberg Podcasts
-tags:
-  - jackson-hole-symposium
-  - monetary-policy
-  - inflation-outlook
-  - tariff-impact
-  - fed-chair-selection
-title: 围绕杰克逊霍尔会议美联储政策、通胀及关税影响的深入探讨
-summary: 本文深入探讨了杰克逊霍尔（Jackson Hole）会议上美联储的最新政策动向，特别是其对利率、通胀和新框架的立场。讨论涵盖了美联储主席鲍威尔（J. Powell）的讲话、关税政策对通胀的复杂影响，以及下一任美联储主席人选的猜测。文章还揭示了杰克逊霍尔会议从学术研讨会演变为市场关注焦点的历史演变，并分析了全球央行在后疫情时代面临的共同挑战和特朗普财政政策带来的差异化影响。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Mike McKe
-  - Jerome Powell
-  - Anna Wong
-  - Chris Waller
-  - Ben Bernanke
-  - Emmy Nakamura
-  - Donald Trump
-  - Kevin Hassett
-  - Kevin Warsh
-  - Scott Bessent
-  - David Zervos
-  - Christine Lagarde
-  - Andrew Bailey
-  - Paul Volcker
-  - Lisa Cook
-  - Carmen Rodriguez
-  - Dashel Bennett
-  - Moses Andom
-  - Kale Brooks
-  - Blake Maples
-  - Sage Bowman
-companies_orgs:
-  - Bloomberg
-  - Federal Reserve
-  - Citadel
-  - Boston Fed
-  - Atlanta Fed
-  - Federal Open Market Committee
-products_models:
-  - OddLots podcast
-  - Lots More podcast
-  - Bloomberg terminal
-media_books: []
 status: evergreen
+summary: 本文深入探讨了杰克逊霍尔（Jackson Hole）会议上美联储的最新政策动向，特别是其对利率、通胀和新框架的立场。讨论涵盖了美联储主席鲍威尔（J.
+  Powell）的讲话、关税政策对通胀的复杂影响，以及下一任美联储主席人选的猜测。文章还揭示了杰克逊霍尔会议从学术研讨会演变为市场关注焦点的历史演变，并分析了全球央行在后疫情时代面临的共同挑战和特朗普财政政策带来的差异化影响。
+tags:
+- financial
+- inflation-outlook
+- jackson-hole-symposium
+- tariff-impact
+title: 围绕杰克逊霍尔会议美联储政策、通胀及关税影响的深入探讨
 ---
+
 ### 杰克逊霍尔会议：参会经历与政策意外
 
 主持人：你现在实际参加过多少次**杰克逊霍尔会议**（Jackson Hole Symposium: 每年由堪萨斯城联邦储备银行主办的全球央行年会）了？

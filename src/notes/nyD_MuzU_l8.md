@@ -1,35 +1,35 @@
 ---
-author: 一席YiXi
+area: society-thinking
+category: philosophy-thinking
+companies_orgs:
+- 中气爱
 date: '2025-12-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《龙卷风》
+- 《银翼杀手2049》
+people:
+- 王路澄
+- 苏镝坷
+products_models: []
+project: []
+series: ''
 source: https://www.youtube.com/watch?v=nyD_MuzU_l8
 speaker: 一席YiXi
-tags:
-  - storm-chasing
-  - extreme-weather
-  - meteorology
-  - passion
-  - nature
-title: 王路澄：一场跨越数年数十万公里的追风旅程
-summary: 中气爱联合主创王路澄分享了他从童年对气象的萌芽兴趣，到成为一名专业追风人的心路历程。他详细介绍了线下追风的准备、预测与部署工作流，并通过大量震撼的影像资料展示了追击台风、龙卷风、超级单体风暴等极端天气的经历。演讲还探讨了中国独特的线上追风文化、追风的风险与安全措施，并深入剖析了追风背后，人类对自然力量的敬畏与探索的哲学思考。
-insight: ''
-draft: true
-series: ''
-category: philosophy-thinking
-area: society-thinking
-project: []
-people:
-  - 王路澄
-  - 苏镝坷
-companies_orgs:
-  - 中气爱
-products_models: []
-media_books:
-  - 《龙卷风》
-  - 《银翼杀手2049》
 status: evergreen
+summary: 中气爱联合主创王路澄分享了他从童年对气象的萌芽兴趣，到成为一名专业追风人的心路历程。他详细介绍了线下追风的准备、预测与部署工作流，并通过大量震撼的影像资料展示了追击台风、龙卷风、超级单体风暴等极端天气的经历。演讲还探讨了中国独特的线上追风文化、追风的风险与安全措施，并深入剖析了追风背后，人类对自然力量的敬畏与探索的哲学思考。
+tags:
+- environment
+- extreme-weather
+- llm
+- meteorology
+- passion
+title: 王路澄：一场跨越数年数十万公里的追风旅程
 ---
+
 大家好，我叫**王路澄**。如果是看过**中气爱**（气象科普账号: 中国最大的气象科普账号，拥有2000万粉丝，专注于青少年气象预报）视频，或者说关注**中气爱**的话，一定对这句开场白非常熟悉。我是一名00后的打工人，在平日里，我就是个普通的上班族。但是一旦有恶劣天气出现的时候，我就摇身一变成为了一名气象爱好者，同时也是一名**追风人**（从事追逐极端天气现象，如台风、龙卷风等的人），也是**中气爱**目前的一个联合主创。并且我平时还喜欢养仙人球，所以我在圈子里还有个名字叫仙人球。
 
 **中气爱**目前是全网最大的一个气象科普账号，它在全网大概有2000万的粉丝左右，它也被誉为是更适合，或者说最适合青少年体质的一个气象预报。我从2018年加入**中气爱**到现在一共7年的时间，我在其中主要负责跟雷暴、暴雨、强对流、台风等极端天气的这个内容创作，还有就是可能会参与到一些**中气爱**的线下追风活动中。所以你们有时候可能会在**中气爱**的一些追风视频里看到我的身影。

@@ -1,70 +1,69 @@
 ---
-author: Veritasium
-date: '2022-04-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=IV3dnLzthDA
-speaker: Veritasium
-tags:
-  - veritasium
-  - lead-poisoning
-  - ozone-depletion
-  - environmental-impact
-  - public-health
-  - scientific-discovery
-title: 意外改变世界的科学家：托马斯·米奇利的铅与氟利昂遗祸
-summary: 本文探讨了科学家托马斯·米奇利（Thomas Midgley Jr.）的两项关键发明——四乙基铅汽油和氟利昂，如何意外地在全球范围内造成了数百万人的死亡、智力下降、犯罪率上升以及两场严重的环境灾难（铅污染和臭氧层空洞）。文章还详细介绍了克莱尔·帕特森（Clair Patterson）如何通过其开创性的科学研究揭露了铅污染的真实规模，并最终推动了全球禁用含铅汽油的进程，以及这些事件对人类社会和环境的深远影响。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Thomas Midgley Jr.
-  - Clair Patterson
-  - Byron Carter
-  - Henry Leland
-  - Charles Kettering
-  - Benjamin Franklin
-  - John McNeil
-  - Frank Howard
-  - George Tilton
+category: science
 companies_orgs:
-  - Manhattan Project
-  - Cadillac
-  - General Motors
-  - DuPont
-  - Standard Oil of New Jersey
-  - Ethyl Corporation
-  - Caltech
-  - American Chemical Society
-  - MIT
-  - Harvard
-  - Yale
-  - US Health Service
-  - CDC
-  - UNICEF
-  - Wren
-  - Montreal Protocol
+- Manhattan Project
+- Cadillac
+- General Motors
+- DuPont
+- Standard Oil of New Jersey
+- Ethyl Corporation
+- Caltech
+- American Chemical Society
+- MIT
+- Harvard
+- Yale
+- US Health Service
+- CDC
+- UNICEF
+- Wren
+- Montreal Protocol
+date: '2022-04-22'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Thomas Midgley Jr.
+- Clair Patterson
+- Byron Carter
+- Henry Leland
+- Charles Kettering
+- Benjamin Franklin
+- John McNeil
+- Frank Howard
+- George Tilton
 products_models:
-  - Cadillac Model 30
-  - Freon
-  - Tetraethyl lead
-  - Uranium-235
-  - Uranium-238
-  - Lead-206
-  - n-heptane
-  - iso-octane
-  - methyl formate
-  - sulfur dioxide
-  - dichlorodifluoromethane
-  - CFCs
-media_books: []
+- Cadillac Model 30
+- Freon
+- Tetraethyl lead
+- Uranium-235
+- Uranium-238
+- Lead-206
+- n-heptane
+- iso-octane
+- methyl formate
+- sulfur dioxide
+- dichlorodifluoromethane
+- CFCs
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=IV3dnLzthDA
+speaker: veritasium
 status: evergreen
+summary: 本文探讨了科学家托马斯·米奇利（Thomas Midgley Jr.）的两项关键发明——四乙基铅汽油和氟利昂，如何意外地在全球范围内造成了数百万人的死亡、智力下降、犯罪率上升以及两场严重的环境灾难（铅污染和臭氧层空洞）。文章还详细介绍了克莱尔·帕特森（Clair
+  Patterson）如何通过其开创性的科学研究揭露了铅污染的真实规模，并最终推动了全球禁用含铅汽油的进程，以及这些事件对人类社会和环境的深远影响。
+tags:
+- impact
+- lead-poisoning
+- ozone-depletion
+- public-health
+- scientific-discovery
+title: 意外改变世界的科学家：托马斯·米奇利的铅与氟利昂遗祸
 ---
+
 ### 意外的遗产：一位科学家的发明与全球灾难
 
 一位科学家凭借三项发明，意外地导致了数百万人死亡，其中也包括他自己。

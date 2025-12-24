@@ -1,47 +1,46 @@
 ---
-author: Veritasium
-date: '2023-11-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=RQYuyHNLPTQ
-speaker: Veritasium
-tags:
-  - veritasium
-  - sewing-machine-mechanics
-  - invention-history
-  - textile-manufacturing
-  - industrial-revolution
-  - consumerism-impact
-title: 缝纫机的惊人智慧：从手工到机械的革命性演变
-summary: 本文深入探讨了缝纫机背后巧妙的机械原理和丰富的历史。它揭示了从手工缝纫的局限性到现代缝纫机诞生的三大关键突破，包括双尖针、链式缝合和锁式缝合，以及用于布料移动的送布牙。文章还介绍了艾萨克·胜家（Isaac Singer）的商业智慧及其对缝纫机普及的贡献，并反思了这项革命性发明对社会和服装产业的深远影响，包括效率提升和快时尚的兴起。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Charles Frederick Wiesenthal
-  - Thomas Saint
-  - Joseph Madersperger
-  - Barthélemy Thimonnier
-  - James Gibbs
-  - Charles Raymond
-  - Elias Howe
-  - Allen B. Wilson
-  - Isaac Singer
-  - Derek Muller
-  - Noah
+category: technology
 companies_orgs:
-  - Singer
-  - KiwiCo
+- Singer
+- KiwiCo
+date: '2023-11-22'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Charles Frederick Wiesenthal
+- Thomas Saint
+- Joseph Madersperger
+- Barthélemy Thimonnier
+- James Gibbs
+- Charles Raymond
+- Elias Howe
+- Allen B. Wilson
+- Isaac Singer
+- Derek Muller
+- Noah
 products_models:
-  - Singer Model 27
-media_books: []
+- Singer Model 27
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=RQYuyHNLPTQ
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了缝纫机背后巧妙的机械原理和丰富的历史。它揭示了从手工缝纫的局限性到现代缝纫机诞生的三大关键突破，包括双尖针、链式缝合和锁式缝合，以及用于布料移动的送布牙。文章还介绍了艾萨克·胜家（Isaac
+  Singer）的商业智慧及其对缝纫机普及的贡献，并反思了这项革命性发明对社会和服装产业的深远影响，包括效率提升和快时尚的兴起。
+tags:
+- history
+- impact
+- manufacturing
+- revolution
+- sewing-machine-mechanic
+title: 缝纫机的惊人智慧：从手工到机械的革命性演变
 ---
+
 ### 缝纫机的奥秘：一个被忽视的机械奇迹
 
 你能解释缝纫机是如何工作的吗？仔细想想，我们都见过它们。那根小小的针快速地上下移动，留下一串串针脚。

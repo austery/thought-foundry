@@ -1,52 +1,51 @@
 ---
-author: Veritasium
-date: '2021-11-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=cUzklzVXJwo
-speaker: Veritasium
-tags:
-  - veritasium
-  - imaginary-numbers
-  - cubic-equations
-  - quantum-mechanics
-  - mathematical-history
-  - algebra-geometry-separation
-title: 虚数如何被发明：从三次方程到量子物理的数学之旅
-summary: 数学最初是为了量化现实世界而生，但当遇到看似不可能解决的三次方程时，数学家们被迫脱离几何直观，发明了虚数。本文追溯了虚数从文艺复兴时期三次方程的秘密解法，到其在现代物理学（如薛定谔方程）中扮演核心角色的历史。通过放弃与现实的直接联系，虚数揭示了宇宙更深层的真实性质，展现了抽象数学的强大力量。
-insight: ''
-draft: true
-series: ''
-category: science
 area: society-systems
-project:
-  - historical-insights
-  - systems-thinking
-people:
-  - Luca Pacioli
-  - Omar Khayyam
-  - Scipione del Ferro
-  - Antonio Fior
-  - Niccolo Fontana Tartaglia
-  - Gerolamo Cardano
-  - Rafael Bombelli
-  - Francois Viete
-  - Rene Descartes
-  - Euler
-  - Erwin Schrödinger
-  - Louis de Broglie
-  - Freeman Dyson
+category: science
 companies_orgs:
-  - University of Bologna
-products_models:
-  - Bohr model
-  - Schrödinger equation
-  - Gemini Flash
+- University of Bologna
+date: '2021-11-01'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Summa de Arithmetica
-  - Ars Magna
+- Summa de Arithmetica
+- Ars Magna
+people:
+- Luca Pacioli
+- Omar Khayyam
+- Scipione del Ferro
+- Antonio Fior
+- Niccolo Fontana Tartaglia
+- Gerolamo Cardano
+- Rafael Bombelli
+- Francois Viete
+- Rene Descartes
+- Euler
+- Erwin Schrödinger
+- Louis de Broglie
+- Freeman Dyson
+products_models:
+- Bohr model
+- Schrödinger equation
+- Gemini Flash
+project:
+- historical-insights
+- systems-thinking
+series: ''
+source: https://www.youtube.com/watch?v=cUzklzVXJwo
+speaker: veritasium
 status: evergreen
+summary: 数学最初是为了量化现实世界而生，但当遇到看似不可能解决的三次方程时，数学家们被迫脱离几何直观，发明了虚数。本文追溯了虚数从文艺复兴时期三次方程的秘密解法，到其在现代物理学（如薛定谔方程）中扮演核心角色的历史。通过放弃与现实的直接联系，虚数揭示了宇宙更深层的真实性质，展现了抽象数学的强大力量。
+tags:
+- history
+- llm
+- quantum-mechanic
+- science
+- technology
+title: 虚数如何被发明：从三次方程到量子物理的数学之旅
 ---
+
 ### 数学与现实的脱离：虚数的诞生
 
 数学最初是为了量化我们的世界而诞生的，例如测量土地、预测行星运动以及记录商业交易。

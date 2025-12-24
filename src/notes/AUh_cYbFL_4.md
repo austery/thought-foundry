@@ -1,70 +1,69 @@
 ---
-author: 小翠時政財經
+area: finance-wealth
+category: stock-investment
+companies_orgs:
+- White House
+- China's Ministry of Commerce
+- Nexperia
+- Wingtech Group
+- Wuxi Guolian Integrated Circuit Investment Center
+- ICBC
+- ABC
+- Pfizer
+- Eli Lilly
+- Roche
+- Merck
+- Federal Reserve
+- AMD
+- Intel
+- Palantir
+- Toyota
+- IBM
+- McDonald's
+- Starbucks
+- Boyu Capital
+- SK Hynix
+- Nvidia
+- BYD
+- Supreme Court
+- Zhejiang Provincial Administration for Market Regulation
 date: '2025-11-05'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Caixin
+- Reuters
+- Xinhua News Agency
+people:
+- Xie Feng
+- Donald Trump
+- Sanae Takaichi
+- Elon Musk
+- Marco Rubio
+- Janet Yellen
+- Xi Jinping
+products_models:
+- D-chain
+- HBM4
+project:
+- us-analysis
+- china-analysis
+- investment-strategy
+series: ''
 source: https://www.youtube.com/watch?v=AUh_cYbFL_4
 speaker: 小翠時政財經
-tags:
-  - market-volatility
-  - investment-strategy
-  - us-china-relations
-  - liquidity-crisis
-  - china-tech-policy
-title: 美股暴跌与亚洲市场震荡：中美谈判、半导体风波及投资策略深度解析
-summary: 本期节目深入分析了美股暴跌、亚洲市场震荡的背景，探讨了中美谈判的最新进展，特别是安氏半导体风波的持续影响。同时，节目详细解读了AMD、丰田、IBM等公司的最新财报，并分析了美国流动性危机、政府关门等宏观风险。针对比特币等加密货币，主持人分享了个人投资策略。最后，节目关注了中国比亚迪“迪链”问题、国产AI芯片政策以及长三角区域协作等国内经济动态，并提供了对当前市场环境的投资建议和认知分享。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - china-analysis
-  - investment-strategy
-people:
-  - Xie Feng
-  - Donald Trump
-  - Sanae Takaichi
-  - Elon Musk
-  - Marco Rubio
-  - Janet Yellen
-  - Xi Jinping
-companies_orgs:
-  - White House
-  - China's Ministry of Commerce
-  - Nexperia
-  - Wingtech Group
-  - Wuxi Guolian Integrated Circuit Investment Center
-  - ICBC
-  - ABC
-  - Pfizer
-  - Eli Lilly
-  - Roche
-  - Merck
-  - Federal Reserve
-  - AMD
-  - Intel
-  - Palantir
-  - Toyota
-  - IBM
-  - McDonald's
-  - Starbucks
-  - Boyu Capital
-  - SK Hynix
-  - Nvidia
-  - BYD
-  - Supreme Court
-  - Zhejiang Provincial Administration for Market Regulation
-products_models:
-  - D-chain
-  - HBM4
-media_books:
-  - Caixin
-  - Reuters
-  - Xinhua News Agency
 status: evergreen
+summary: 本期节目深入分析了美股暴跌、亚洲市场震荡的背景，探讨了中美谈判的最新进展，特别是安氏半导体风波的持续影响。同时，节目详细解读了AMD、丰田、IBM等公司的最新财报，并分析了美国流动性危机、政府关门等宏观风险。针对比特币等加密货币，主持人分享了个人投资策略。最后，节目关注了中国比亚迪“迪链”问题、国产AI芯片政策以及长三角区域协作等国内经济动态，并提供了对当前市场环境的投资建议和认知分享。
+tags:
+- china
+- crisis
+- market-volatility
+- us-china-relations
+title: 美股暴跌与亚洲市场震荡：中美谈判、半导体风波及投资策略深度解析
 ---
+
 ### 中美谈判后续与安氏半导体风波
 
 首先关注中美谈判的后续进展。白宫此前公布了一份协议内容，中方对此一直保持沉默，既未反对也未肯定。根据对中国的了解，这种沉默通常意味着默认。今天，中国商务部发布了一系列公告，其内容与白宫披露的基本一致，这进一步佐证了协议的真实性。

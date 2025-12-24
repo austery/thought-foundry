@@ -1,64 +1,64 @@
 ---
-author: FearNation 世界苦茶
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 印尼国营铁路公司
+- Denantara
+- KPK
+- 布鲁金斯学会
+- 美国罗盘
+- 哈佛大学
+- 詹姆斯敦基金会
+- 辉瑞
+- 吉利德
+- Illumina
+- 高盛
+- 诺华
+- 华大基因
+- 药明康德
+- ASML
+- 三星
+- 台积电
 date: '2025-11-17'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《纽约时报》
+- 《经济学人》
+people:
+- Joko Widodo
+- Prabowo Subianto
+- Donald Trump
+- Xi Jinping
+- Oren Cass
+- Jason Furman
+products_models:
+- iPhone
+- mRNA
+- CAR-T
+- ADC
+- DUV光刻机
+project:
+- china-analysis
+- us-analysis
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=Yd7ebL1Fpxk
 speaker: FearNation 世界苦茶
-tags:
-  - us-china-competition
-  - belt-and-road-initiative
-  - technological-self-reliance
-  - economic-nationalism
-  - supply-chain-resilience
-title: 中国经济与地缘政治：债务、科技与战略对抗的多维透视
-summary: 本期节目深入分析了中国经济面临的挑战与地缘政治策略。从印尼高铁的债务危机，到中美在贸易、科技和国家安全领域的激烈竞争，以及中国“十五五规划”所揭示的“有管理的对抗”战略，文章探讨了中国在科技自立、供应链韧性与全球化中的角色。同时，也审视了美国对华政策的内部辩论，以及两国在生物科技领域角色互换的深层含义，揭示了全球经济与政治格局的复杂演变。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - us-analysis
-  - geopolitics-watch
-people:
-  - Joko Widodo
-  - Prabowo Subianto
-  - Donald Trump
-  - Xi Jinping
-  - Oren Cass
-  - Jason Furman
-companies_orgs:
-  - 印尼国营铁路公司
-  - Denantara
-  - KPK
-  - 布鲁金斯学会
-  - 美国罗盘
-  - 哈佛大学
-  - 詹姆斯敦基金会
-  - 辉瑞
-  - 吉利德
-  - Illumina
-  - 高盛
-  - 诺华
-  - 华大基因
-  - 药明康德
-  - ASML
-  - 三星
-  - 台积电
-products_models:
-  - iPhone
-  - mRNA
-  - CAR-T
-  - ADC
-  - DUV光刻机
-media_books:
-  - 《金融时报》
-  - 《纽约时报》
-  - 《经济学人》
 status: evergreen
+summary: 本期节目深入分析了中国经济面临的挑战与地缘政治策略。从印尼高铁的债务危机，到中美在贸易、科技和国家安全领域的激烈竞争，以及中国“十五五规划”所揭示的“有管理的对抗”战略，文章探讨了中国在科技自立、供应链韧性与全球化中的角色。同时，也审视了美国对华政策的内部辩论，以及两国在生物科技领域角色互换的深层含义，揭示了全球经济与政治格局的复杂演变。
+tags:
+- economic-nationalism
+- geopolitics
+- self
+- supply-chain-resilience
+- us-china-relations
+title: 中国经济与地缘政治：债务、科技与战略对抗的多维透视
 ---
+
 ### 印尼高铁债务危机：一带一路的挑战与市场逻辑的惩罚
 
 《金融时报》的一篇文章深入分析了由中国支持的印度尼西亚子弹列车项目，指出其因不断增加的债务而面临脱轨风险。这项被誉为中国**一带一路**（Belt and Road Initiative: 中国提出的跨国基础设施建设和投资倡议）倡议和印尼前总统佐科威基础设施建设旗舰项目的**护士高铁**（Whoosh High-Speed Rail: 印度尼西亚的雅万高铁项目，连接雅加达和万隆），正濒临一场严重的财务危机。

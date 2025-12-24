@@ -1,51 +1,51 @@
 ---
-author: 视野环球财经
+area: market-analysis
+category: finance
+companies_orgs:
+- Apple
+- Nvidia
+- Amazon
+- Meta
+- AMD
+- Oracle
+- Microsoft
+- Google
+- Tesla
+- SoftBank
+- OpenAI
+- Saba Capital
+- Berkshire Hathaway
+- Federal Reserve
 date: '2025-11-18'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 路透社
+people:
+- Peter Thiel
+- Christopher Waller
+- Philip Jefferson
+products_models: []
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+series: ''
 source: https://www.youtube.com/watch?v=fOkmwMULV1Y
 speaker: 视野环球财经
-tags:
-  - us-stock-market
-  - nvidia-earnings
-  - corporate-debt
-  - interest-rate-outlook
-  - market-volatility
-title: 美股市场动态：指数下跌、英伟达清仓与亚马逊发债引发关注
-summary: 美东时间2025年11月17日，美股四大指数集体下跌，标普500指数跌破50日移动平均线，市场波动性加剧。英伟达面临机构清仓，亚马逊宣布大规模发债，加剧了市场对科技公司债务的担忧。美联储官员对降息前景存在分歧，交易员对12月降息的押注下降。文章还深入分析了特斯拉、谷歌等个股走势，并对标普500指数的长期支撑位进行了展望，提醒投资者关注财报后的市场反应及长期投资策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - investment-strategy
-  - market-cycles
-  - us-analysis
-people:
-  - Peter Thiel
-  - Christopher Waller
-  - Philip Jefferson
-companies_orgs:
-  - Apple
-  - Nvidia
-  - Amazon
-  - Meta
-  - AMD
-  - Oracle
-  - Microsoft
-  - Google
-  - Tesla
-  - SoftBank
-  - OpenAI
-  - Saba Capital
-  - Berkshire Hathaway
-  - Federal Reserve
-products_models: []
-media_books:
-  - 路透社
 status: evergreen
+summary: 美东时间2025年11月17日，美股四大指数集体下跌，标普500指数跌破50日移动平均线，市场波动性加剧。英伟达面临机构清仓，亚马逊宣布大规模发债，加剧了市场对科技公司债务的担忧。美联储官员对降息前景存在分歧，交易员对12月降息的押注下降。文章还深入分析了特斯拉、谷歌等个股走势，并对标普500指数的长期支撑位进行了展望，提醒投资者关注财报后的市场反应及长期投资策略。
+tags:
+- debt
+- interest-rate-outlook
+- market-volatility
+- nvidia-earning
+- us-stock-market
+title: 美股市场动态：指数下跌、英伟达清仓与亚马逊发债引发关注
 ---
+
 ### 美股市场概览：指数下跌与波动性加剧
 
 大家好，欢迎回到视野环球财经。现在是美东时间2025年11月17日周一晚上的8点25分。今天的四大指数集体下跌，其中标普500指数是自5月1号以来，也就是半年多以来，首次跌破50日的**移动平均线**（Moving Average: 衡量特定时期内证券平均价格的指标）。今天个股下跌的数量相比上周两天有所扩大，标普500指数成分股中，有407只下跌，仅96只上涨；道指30只成分股中，有27只下跌，仅3只上涨。此外，在标普的11个板块中，只有公共事业板块上涨，其余10个板块均下跌，其中金融、科技、材料和能源板块的跌幅较大。

@@ -1,48 +1,47 @@
 ---
-author: Nico投资有道
+area: market-analysis
+category: finance
+companies_orgs:
+- 中国人民银行
+- 中央金融办
+- 国家发展改革委
+- 司法部
+- 中央金融委员会
+- 海妖交易所
+- Fiat24
+- 复星证券
+- 众安银行
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《金融时报》
+- 《华尔街日报》
+people:
+- Nico
+products_models:
+- USDT
+- Safepal虚拟卡
+- Bitget钱包虚拟卡
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=GSK8YVFP6AQ
 speaker: Nico投资有道
-tags:
-  - crypto-regulation
-  - stablecoin-risk
-  - anti-money-laundering
-  - outbound-capital-control
-  - otc-risk
-title: 加密货币监管再升级：内地散户如何应对出入金困局？
-summary: 本文详细解读2025年11月中国央行联合13部门对加密货币及稳定币的监管升级政策，分析其对散户出入金的影响，并提供合规出金路径与风险应对策略。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - Nico
-companies_orgs:
-  - 中国人民银行
-  - 中央金融办
-  - 国家发展改革委
-  - 司法部
-  - 中央金融委员会
-  - 海妖交易所
-  - Fiat24
-  - 复星证券
-  - 众安银行
-products_models:
-  - USDT
-  - Safepal虚拟卡
-  - Bitget钱包虚拟卡
-media_books:
-  - 《金融时报》
-  - 《华尔街日报》
 status: evergreen
+summary: 本文详细解读2025年11月中国央行联合13部门对加密货币及稳定币的监管升级政策，分析其对散户出入金的影响，并提供合规出金路径与风险应对策略。
+tags:
+- anti
+- control
+- crypto-regulation
+- risk
+title: 加密货币监管再升级：内地散户如何应对出入金困局？
 ---
+
 ### 加密货币监管政策的最新动向
 
 最近，国内加密货币行业再次遭遇强力监管。2025年11月28日，中国人民银行联合包括中央金融办、国家发展改革委和司法部在内的13个部门，召开打击虚拟货币交易炒作的工作协调会议。此次会议明确重申：**继续坚持对虚拟货币的禁止性政策，持续打击虚拟货币相关非法金融活动**。

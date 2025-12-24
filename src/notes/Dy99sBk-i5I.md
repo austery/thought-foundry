@@ -1,53 +1,53 @@
 ---
-author: Shijun Tang
+area: market-analysis
+category: finance
+companies_orgs:
+- Nvidia
+- Mastercard
+- Amazon
+- 腾讯
+- Netflix
+- Salesforce
+- Robinhood
+- Interactive Brokers
+- Disney
+- Warner Bros.
+- Adobe
+- Oracle
 date: '2024-09-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《The Daily Beast》
+people:
+- 唐石峻
+- Jeff Bezos
+- Warren Buffett
+- Charlie Munger
+- Dave Canaria
+products_models:
+- Blackwell
+- SBC
+project:
+- us-analysis
+- investment-strategy
+- market-cycles
+series: ''
 source: https://www.youtube.com/watch?v=Dy99sBk-i5I
 speaker: Shijun Tang
-tags:
-  - valuation-methods
-  - options-trading-risk
-  - cash-flow-analysis
-  - growth-sustainability
-  - market-polarization
-title: 英伟达暴跌后的投资困局与期权交易的双刃剑：从亚马逊到腾讯的价值启示
-summary: 本期视频深入剖析英伟达股价暴跌背后的结构性变化，探讨期权交易的高风险本质与价值投资的实用策略，并通过亚马逊、腾讯、网飞和Salesforce等公司案例，揭示如何在不确定市场中建立独立的估值框架。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - market-cycles
-people:
-  - 唐石峻
-  - Jeff Bezos
-  - Warren Buffett
-  - Charlie Munger
-  - Dave Canaria
-companies_orgs:
-  - 英伟达
-  - Mastercard
-  - Amazon
-  - 腾讯
-  - Netflix
-  - Salesforce
-  - Robinhood
-  - Interactive Brokers
-  - Disney
-  - Warner Bros.
-  - Adobe
-  - Oracle
-products_models:
-  - Blackwell
-  - SBC
-media_books:
-  - 《The Daily Beast》
 status: evergreen
+summary: 本期视频深入剖析英伟达股价暴跌背后的结构性变化，探讨期权交易的高风险本质与价值投资的实用策略，并通过亚马逊、腾讯、网飞和Salesforce等公司案例，揭示如何在不确定市场中建立独立的估值框架。
+tags:
+- analysis
+- growth
+- market
+- risk
+- valuation
+title: 英伟达暴跌后的投资困局与期权交易的双刃剑：从亚马逊到腾讯的价值启示
 ---
+
 ### 英伟达的崩塌与重构：从“最佳公司”到估值泡沫
 
 英伟达近期股价下跌超过10%，这一波动引发了广泛讨论。作者认为，英伟达或许从此不再是“同一家公司”——这并非贬义，而是指其业务结构发生了根本性转变。在他个人的评分体系中，英伟达以95分高居榜首，远超第二名万事达卡的88分。在该体系中，80分以上每增加一分都意味着质的飞跃，而90分以上的公司仅此一家。然而，作者却并未持有英伟达股份——因为他早在2022年就错过了这波增长浪潮。

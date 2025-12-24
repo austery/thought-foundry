@@ -1,49 +1,49 @@
 ---
-author: Norges Bank Investment Management
+area: market-analysis
+category: business
+companies_orgs:
+- Norges Bank Investment Management
+- IKEA
+- Yara
+- H&M
+- Volvo Museum
 date: '2025-06-04'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- In Good Company
+- Lord Beaverbrock
+- omnichannel-retail
+people:
+- Nicola Tangen
+- Jesper Brodin
+- Ingvar Kamprad
+- Gilis Lung
+products_models:
+- Levette
+- Billy
+- Klippan
+- Poäng
+- PAX
+project:
+- entrepreneurship
+- systems-thinking
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=F9COKcZr9co
 speaker: Norges Bank Investment Management
-tags:
-  - democratic-design
-  - sustainability-strategy
-  - omnichannel-retail
-  - flat-pack-furniture
-  - leadership-values
-title: 宜家CEO Jesper Brodin：民主设计、可持续发展与全球化挑战
-summary: 宜家CEO Jesper Brodin在播客中分享了宜家独特的“民主设计”理念，强调功能、质量、形式、可持续性和低价的平衡。他深入探讨了宜家在可持续发展方面的领先实践，如何通过环保措施实现成本节约，以及应对全球地缘政治挑战的策略。Brodin还讨论了宜家从传统门店向全渠道转型的历程，AI在业务中的应用，并分享了其个人领导力哲学。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - systems-thinking
-  - ai-impact-analysis
-people:
-  - Nicola Tangen
-  - Jesper Brodin
-  - Ingvar Kamprad
-  - Gilis Lung
-companies_orgs:
-  - Norges Bank Investment Management
-  - IKEA
-  - Yara
-  - H&M
-  - Volvo Museum
-products_models:
-  - Levette
-  - Billy
-  - Klippan
-  - Poäng
-  - PAX
-media_books:
-  - In Good Company
-  - Lord Beaverbrock
 status: evergreen
+summary: 宜家CEO Jesper Brodin在播客中分享了宜家独特的“民主设计”理念，强调功能、质量、形式、可持续性和低价的平衡。他深入探讨了宜家在可持续发展方面的领先实践，如何通过环保措施实现成本节约，以及应对全球地缘政治挑战的策略。Brodin还讨论了宜家从传统门店向全渠道转型的历程，AI在业务中的应用，并分享了其个人领导力哲学。
+tags:
+- design
+- flat-pack-furniture
+- leadership-value
+- strategy
+title: 宜家CEO Jesper Brodin：民主设计、可持续发展与全球化挑战
 ---
+
 ### 宜家：全球家居的标志性品牌
 
 主持人 Nicola Tangen（挪威主权财富基金**Norges Bank Investment Management**的首席执行官）向大家问好，并表示非常高兴能邀请到宜家（**IKEA**: 瑞典知名跨国居家用品零售企业）的首席执行官 Jesper Brodin。

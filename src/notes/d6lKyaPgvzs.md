@@ -1,50 +1,49 @@
 ---
-author: EO
+area: market-analysis
+category: business
+companies_orgs:
+- DevRev
+- Nutanix
+- Google
+- Amazon
+- Meta
+- Dell
+- HP
+- IBM
+- EMC
+- NetApp
+- Adobe
+- Slack
+- Snowflake
 date: '2025-12-11'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+people:
+- Dheeraj Pandey
+- Jeff Bezos
+- Will Gdara
+- Taylor Rottwell
+products_models:
+- Laravel
+project:
+- entrepreneurship
+- personal-growth-lab
+series: ''
 source: https://www.youtube.com/watch?v=d6lKyaPgvzs
 speaker: EO
-tags:
-  - startup-scaling
-  - customer-retention
-  - product-market-fit
-  - ai-disruption
-  - entrepreneurial-lessons
-title: 初创公司如何实现规模化增长：一位十亿美元级创始人的经验教训
-summary: 本文深入探讨了初创公司在规模化过程中面临的普遍挑战，并借鉴了十亿美元级创始人 Dheeraj Pandey 的宝贵经验。文章强调了‘承诺不足，交付有余’、‘狩猎与耕耘’的平衡、‘非理性热情好客’以及‘产品-市场契合度’的动态本质。同时，也触及了个人背景对其创业思维的影响，以及技术颠覆（如 AI 和消费模式）如何重塑商业格局。核心观点在于，克服惰性、持续适应市场变化是企业成功的关键。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - entrepreneurship
-  - personal-growth-lab
-people:
-  - Dheeraj Pandey
-  - Jeff Bezos
-  - Will Gdara
-  - Taylor Rottwell
-companies_orgs:
-  - DevRev
-  - Nutanix
-  - Google
-  - Amazon
-  - Facebook
-  - Dell
-  - HP
-  - IBM
-  - EMC
-  - NetApp
-  - Adobe
-  - Slack
-  - Snowflake
-products_models:
-  - Laravel
-media_books: []
 status: evergreen
+summary: 本文深入探讨了初创公司在规模化过程中面临的普遍挑战，并借鉴了十亿美元级创始人 Dheeraj Pandey 的宝贵经验。文章强调了‘承诺不足，交付有余’、‘狩猎与耕耘’的平衡、‘非理性热情好客’以及‘产品-市场契合度’的动态本质。同时，也触及了个人背景对其创业思维的影响，以及技术颠覆（如
+  AI 和消费模式）如何重塑商业格局。核心观点在于，克服惰性、持续适应市场变化是企业成功的关键。
+tags:
+- geopolitical
+- llm
+- product-market-fit
+- startup
+title: 初创公司如何实现规模化增长：一位十亿美元级创始人的经验教训
 ---
+
 ### 核心理念：承诺不足，交付有余与客户忠诚度
 
 一个单独的功能不足以赢得客户的青睐。我们成功的核心秘诀之一是“承诺不足，交付有余”。

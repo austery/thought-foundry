@@ -1,51 +1,50 @@
 ---
-author: Veritasium
-date: '2021-09-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=aFPJf-wKTd0
-speaker: Veritasium
-tags:
-  - veritasium
-  - bowling-technology
-  - sport-science
-  - lane-oil-patterns
-  - bowling-ball-design
-  - game-evolution
-title: 隐藏科技如何彻底改变了保龄球运动
-summary: 本文深入探讨了保龄球运动中隐藏的科学与技术，从保龄球的制造工艺、内部非对称配重块的设计，到球道上复杂的油膜模式，以及职业选手如何利用这些技术实现精准击球。文章还追溯了保龄球的悠久历史，并分析了科技进步如何显著提升了平均得分和完美比赛的频率，揭示了这项运动不断演进的奥秘。
-insight: ''
-draft: true
-series: ''
-category: technology
 area: tech-insights
-project:
-  - systems-thinking
-  - historical-insights
-people:
-  - Chris Barnes
-  - Steve
-  - Martin Luther
-  - Pete Weber
-  - LeBron
+category: technology
 companies_orgs:
-  - Creative Electron
-  - Storm Bowling
-  - US Bowling Congress
-  - Salesforce
-products_models:
-  - Brunswick LT-48
-  - Dark Code
-  - Rad 4 core
-  - Cheetah
-  - Chameleon
-  - Scorpion
-  - Shark
-  - Bear
+- Creative Electron
+- Storm Bowling
+- US Bowling Congress
+- Salesforce
+date: '2021-09-25'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
 media_books:
-  - Vox
+- Vox
+people:
+- Chris Barnes
+- Steve
+- Martin Luther
+- Pete Weber
+- LeBron
+products_models:
+- Brunswick LT-48
+- Dark Code
+- Rad 4 core
+- Cheetah
+- Chameleon
+- Scorpion
+- Shark
+- Bear
+project:
+- systems-thinking
+- historical-insights
+series: ''
+source: https://www.youtube.com/watch?v=aFPJf-wKTd0
+speaker: veritasium
 status: evergreen
+summary: 本文深入探讨了保龄球运动中隐藏的科学与技术，从保龄球的制造工艺、内部非对称配重块的设计，到球道上复杂的油膜模式，以及职业选手如何利用这些技术实现精准击球。文章还追溯了保龄球的悠久历史，并分析了科技进步如何显著提升了平均得分和完美比赛的频率，揭示了这项运动不断演进的奥秘。
+tags:
+- design
+- environment
+- evolution
+- science
+- technology
+title: 隐藏科技如何彻底改变了保龄球运动
 ---
+
 ### 引言：保龄球的科学与魅力
 
 本视频的部分内容由Salesforce赞助。这是有史以来关于保龄球最宏大、最深入的视频。

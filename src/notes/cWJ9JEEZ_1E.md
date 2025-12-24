@@ -1,51 +1,51 @@
 ---
-author: 莊也雜談
+area: society-systems
+category: culture
+companies_orgs:
+- 聚宝源
+- 德云社
+- 全聚德
+- 同仁堂
+- 张一元
+- 内联升
+- 六必居
+- 苹果
+- 华为
+- 联想
 date: '2024-11-24'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《龙鬚沟》
+- 《习近平谈治国理政》
+people:
+- 冯唐
+- 大张伟
+- 鹿晗
+- Xi Jinping
+- 李嘉诚
+products_models:
+- 中国尊
+project:
+- historical-insights
+- cultural-critique
+- china-analysis
+series: ''
 source: https://www.youtube.com/watch?v=cWJ9JEEZ_1E
 speaker: 莊也雜談
-tags:
-  - beijing-culture
-  - hutong-life
-  - urban-development
-  - traditional-vs-modern
-  - travel-experience
-title: 从胡同到CBD：庄也带你深度探索北京南城的文化变迁与市井魅力
-summary: 本期节目，庄也将视角从沉重话题转向轻松的旅行体验，深度探索北京。他带领观众走进充满历史韵味的南城胡同，感受地道的京腔京韵和老北京文化，并对比了南城与北城在历史发展、市容市貌上的差异。同时，也分享了前门大栅栏、王府井、东方新天地等现代化商业区的变迁，展现了北京传统与现代交织的独特魅力，以及个人在城市中的怀旧情怀。
-insight: ''
-draft: true
-series: ''
-category: culture
-area: society-systems
-project:
-  - historical-insights
-  - cultural-critique
-  - china-analysis
-people:
-  - 冯唐
-  - 大张伟
-  - 鹿晗
-  - 习近平
-  - 李嘉诚
-companies_orgs:
-  - 聚宝源
-  - 德云社
-  - 全聚德
-  - 同仁堂
-  - 张一元
-  - 内联升
-  - 六必居
-  - 苹果
-  - 华为
-  - 联想
-products_models:
-  - 中国尊
-media_books:
-  - 《龙鬚沟》
-  - 《习近平谈治国理政》
 status: evergreen
+summary: 本期节目，庄也将视角从沉重话题转向轻松的旅行体验，深度探索北京。他带领观众走进充满历史韵味的南城胡同，感受地道的京腔京韵和老北京文化，并对比了南城与北城在历史发展、市容市貌上的差异。同时，也分享了前门大栅栏、王府井、东方新天地等现代化商业区的变迁，展现了北京传统与现代交织的独特魅力，以及个人在城市中的怀旧情怀。
+tags:
+- culture
+- history
+- life
+- travel
+- urban-development
+title: 从胡同到CBD：庄也带你深度探索北京南城的文化变迁与市井魅力
 ---
+
 ### 从沉重话题到轻松旅程：北京深度游的开启
 
 大家好，我是庄也，欢迎您收看庄也杂谈。上集节目我们简单聊了一下，这次我回北京发现，北京作为中国的首都，外表光鲜亮丽，各种服务快捷方便。然而，我们没有注意到，在这些快捷方便的背后，默默支撑起基础服务的众多底层劳动人民，他们的生活却鲜为人知。其中最典型的基础服务包括打车和上门送货（包括送餐），提供这些服务的出租车司机、网约车司机、快递员以及外卖员，都是我们最应该感谢的人群。上期节目通过我的一些亲身经历，以小见大，讲述了他们起早贪黑、辛苦劳作的人生。虽然用“苦逼”来形容有些夸张，严格来说他们挣得不算少，但工作时间长、心理压力大，这种超长的工作时间和超强的工作强度，确实非常不容易。

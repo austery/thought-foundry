@@ -1,82 +1,83 @@
 ---
-author: Amit Kukreja
+area: market-analysis
+category: finance
+companies_orgs:
+- ADP
+- Federal Reserve
+- S&P 500
+- Macy's
+- Marvell
+- American Eagle Outfitters
+- Tesla
+- Nvidia
+- Microsoft
+- Amazon
+- Google
+- OpenAI
+- Meta
+- Robinhood
+- MicroStrategy
+- Snowflake
+- UiPath
+- The Information
+- Salesforce
+- Palantir
+- TSMC
+- Intel
+- Broadcom
+- Netflix
+- Kratos
+- Amkor Technology
+- EnerSys
+- Viavi Solutions
 date: '2025-12-03'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- Politico
+- The New York Times
+people:
+- Donald Trump
+- Jack Mallers
+- David Sacks
+- Mark Chen
+- Satya Nadella
+- Jensen Huang
+- Wilbur Ross
+- Kevin Hassett
+- Steve Kovac
+- George Kurtz
+- Vashall
+- jobs-report
+products_models:
+- Bitcoin
+- Ethereum
+- Copilot
+- Azure
+- Office 365
+- Gemini 3
+- Optimus
+- GB200
+project:
+- us-analysis
+- investment-strategy
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=IEqXqA839-w
 speaker: Amit Kukreja
-tags:
-  - jobs-report
-  - fed-rate-cut
-  - market-volatility
-  - investment-philosophy
-  - ai-adoption
-title: 市场开盘：ADP就业数据疲软与微软AI销售风波
-summary: 本期市场分析深入探讨了疲软的ADP私营部门就业数据，该数据显著低于预期，尤其是小型企业遭受重创，这进一步强化了美联储降息的预期。节目中途，一则关于微软下调其AI软件销售配额的报道引发市场剧烈震荡，导致科技股普遍下跌，但微软随后迅速否认该报道，市场情绪随之反转。此外，节目还讨论了加密货币的反弹、强劲的零售商业绩、特朗普政府的机器人产业政策，并特邀投资人“Stock Talk”分享其独特的投资哲学与个人投资组合。
-insight: ''
-draft: true
-series: ''
-category: finance
-area: market-analysis
-project:
-  - us-analysis
-  - investment-strategy
-  - ai-impact-analysis
-people:
-  - Donald Trump
-  - Jack Mallers
-  - David Sacks
-  - Mark Chen
-  - Satya Nadella
-  - Jensen Huang
-  - Wilbur Ross
-  - Kevin Hassett
-  - Steve Kovac
-  - George Kurtz
-  - Vashall
-companies_orgs:
-  - ADP
-  - Federal Reserve
-  - S&P 500
-  - Macy's
-  - Marvell
-  - American Eagle Outfitters
-  - Tesla
-  - Nvidia
-  - Microsoft
-  - Amazon
-  - Google
-  - OpenAI
-  - Meta
-  - Robinhood
-  - MicroStrategy
-  - Snowflake
-  - UiPath
-  - The Information
-  - Salesforce
-  - Palantir
-  - TSMC
-  - Intel
-  - Broadcom
-  - Netflix
-  - Kratos
-  - Amkor Technology
-  - EnerSys
-  - Viavi Solutions
-products_models:
-  - Bitcoin
-  - Ethereum
-  - Copilot
-  - Azure
-  - Office 365
-  - Gemini 3
-  - Optimus
-  - GB200
-media_books:
-  - Politico
-  - The New York Times
 status: evergreen
+summary: 本期市场分析深入探讨了疲软的ADP私营部门就业数据，该数据显著低于预期，尤其是小型企业遭受重创，这进一步强化了美联储降息的预期。节目中途，一则关于微软下调其AI软件销售配额的报道引发市场剧烈震荡，导致科技股普遍下跌，但微软随后迅速否认该报道，市场情绪随之反转。此外，节目还讨论了加密货币的反弹、强劲的零售商业绩、特朗普政府的机器人产业政策，并特邀投资人“Stock
+  Talk”分享其独特的投资哲学与个人投资组合。
+tags:
+- ai-adoption
+- fed-rate-cut
+- investment-philosophy
+- market-volatility
+title: 市场开盘：ADP就业数据疲软与微软AI销售风波
 ---
+
 ### ADP就业数据疲软，降息预期升温
 
 大家早上好，欢迎回到新一期的市场开盘直播。我们有新的就业数据出炉了。坦白说，我之前并不知道今天会公布**ADP**（Automatic Data Processing, Inc.：美国自动数据处理公司，每月发布私营部门就业报告）的私营部门就业数据，但数据确实来了，而且有点难看。

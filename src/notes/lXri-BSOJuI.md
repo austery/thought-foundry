@@ -1,32 +1,30 @@
 ---
-title: 特斯拉Robotaxi发布会深度解读：投资者视角下的机遇与挑战
-summary: 本视频从特斯拉投资者角度，深度解读了近期Robotaxi发布会。内容涵盖对Cybercab的常见误解、Optimus人形机器人的潜在价值，以及特斯拉作为现实世界AI公司的长期增长前景，并分享了对未来投资策略的思考。
 area: market-analysis
 category: finance
-project:
-  - ai-impact-analysis
-  - investment-strategy
-  - us-analysis
-tags:
-  - ai-investment
-  - autonomous-driving
-  - tesla-robotaxi
-people: []
 companies_orgs: []
-products_models:
-  - fsd
-  - optimus-robot
-media_books: []
 date: '2024-10-15'
-author: 一口新飯
-speaker: 一口新飯
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- fsd
+- optimus-robot
+project:
+- ai-impact-analysis
+- investment-strategy
+- us-analysis
 series: ''
 source: https://www.youtube.com/watch?v=lXri-BSOJuI
+speaker: 一口新飯
 status: evergreen
+summary: 本视频从特斯拉投资者角度，深度解读了近期Robotaxi发布会。内容涵盖对Cybercab的常见误解、Optimus人形机器人的潜在价值，以及特斯拉作为现实世界AI公司的长期增长前景，并分享了对未来投资策略的思考。
+tags:
+- ai-investment
+- autonomous-driving
+title: 特斯拉Robotaxi发布会深度解读：投资者视角下的机遇与挑战
+companies:
+- tesla-robotaxi
 ---
 
 ### 对特斯拉Robotaxi发布会的整体看法

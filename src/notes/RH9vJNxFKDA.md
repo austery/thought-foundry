@@ -1,90 +1,90 @@
 ---
-author: a16z
+area: market-analysis
+category: business
+companies_orgs:
+- OpenAI
+- Google
+- Microsoft
+- Meta
+- Amazon
+- Apple
+- Nvidia
+- Broadcom
+- AMD
+- Oracle
+- Salesforce
+- Workday
+- Uber
+- Snap
+- Instagram
+- WhatsApp
+- a16z
+- Bain & Company
+- Boston Consulting Group
+- Accenture
+- Infosys
+- Everlaw
 date: '2025-12-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- AI eats the world
+- Wall-E
+people:
+- Sam Altman
+- Demis Hassabis
+- Benedict Evans
+- Mark Zuckerberg
+- Mark Andreessen
+- Jeff Dean
+- Karpathy
+- Balaji Srinivasan
+- Craig Federighi
+- Tim Berners-Lee
+- Larry Page
+- Sergey Brin
+- Bill Gates
+products_models:
+- ChatGPT
+- Gemini
+- Siri
+- Windows
+- Excel
+- Google Maps
+- Tinder
+- YouTube
+- Google Flights
+- Bloomberg
+- PitchBook
+- Chrome
+- Safari
+- DSL
+- iPhone
+- Android
+- Netscape
+- Apple II
+- DOS
+- Win32
+project:
+- ai-impact-analysis
+- market-cycles
+- systems-thinking
+series: ''
 source: https://www.youtube.com/watch?v=RH9vJNxFKDA
 speaker: a16z
-tags:
-  - ai-adoption
-  - platform-shift
-  - investment-bubble
-  - business-models
-  - competitive-advantage
-title: 人工智能会比互联网更伟大吗？平台转移与市场变革的深度探讨
-summary: 本播客深入探讨了人工智能（AI）作为一场平台转移的潜力，并将其与互联网和智能手机等历史性技术变革进行比较。讨论涵盖了AI的普及率、AGI的定义与前景、投资泡沫的风险、AI对现有企业和新兴公司的影响，以及在技术发展不确定性下，企业如何应对和寻找新的商业价值。嘉宾强调，理解AI的关键在于识别其如何重塑“待完成的工作”，而非简单地自动化现有任务。
-insight: ''
-draft: true
-series: ''
-category: business
-area: market-analysis
-project:
-  - ai-impact-analysis
-  - market-cycles
-  - systems-thinking
-people:
-  - Sam Altman
-  - Demis Hassabis
-  - Benedict Evans
-  - Mark Zuckerberg
-  - Mark Andreessen
-  - Jeff Dean
-  - Karpathy
-  - Balaji Srinivasan
-  - Craig Federighi
-  - Tim Berners-Lee
-  - Larry Page
-  - Sergey Brin
-  - Bill Gates
-companies_orgs:
-  - OpenAI
-  - Google
-  - Microsoft
-  - Meta
-  - Amazon
-  - Apple
-  - Nvidia
-  - Broadcom
-  - AMD
-  - Oracle
-  - Salesforce
-  - Workday
-  - Uber
-  - Snap
-  - Instagram
-  - WhatsApp
-  - a16z
-  - Bain & Company
-  - Boston Consulting Group
-  - Accenture
-  - Infosys
-  - Everlaw
-products_models:
-  - ChatGPT
-  - Gemini
-  - Siri
-  - Windows
-  - Excel
-  - Google Maps
-  - Tinder
-  - YouTube
-  - Google Flights
-  - Bloomberg
-  - PitchBook
-  - Chrome
-  - Safari
-  - DSL
-  - iPhone
-  - Android
-  - Netscape
-  - Apple II
-  - DOS
-  - Win32
-media_books:
-  - AI eats the world
-  - Wall-E
 status: evergreen
+summary: 本播客深入探讨了人工智能（AI）作为一场平台转移的潜力，并将其与互联网和智能手机等历史性技术变革进行比较。讨论涵盖了AI的普及率、AGI的定义与前景、投资泡沫的风险、AI对现有企业和新兴公司的影响，以及在技术发展不确定性下，企业如何应对和寻找新的商业价值。嘉宾强调，理解AI的关键在于识别其如何重塑“待完成的工作”，而非简单地自动化现有任务。
+tags:
+- ai-adoption
+- business-model
+- competitive-advantage
+- investment
+- platform
+title: 人工智能会比互联网更伟大吗？平台转移与市场变革的深度探讨
 ---
+
 ### 人工智能的普及与定义
 
 **ChatGPT**（Chat Generative Pre-trained Transformer: 一种大型语言模型）拥有八到九亿的每周活跃用户。如果你是那种每天使用它数小时的人，请问自己：为什么有五倍多的人看过它、了解它、知道它是什么、拥有账户、知道如何使用它，但本周或下周却想不出任何可以用它做的事情？

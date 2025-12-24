@@ -1,75 +1,76 @@
 ---
-author: 柴静 Chai Jing
+area: society-systems
+category: geopolitics
+companies_orgs:
+- 中央电视台
+- 广电部
+- 新华社
+- 人民日报
+- 威斯康辛大学
+- 北京大学
+- 中央宣传部
+- 中央书记处
+- 中共中央政治局
 date: '2024-10-12'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 《新闻调查》
+- 《红高粱家族》
+- 《王震传记》
+- 《赵紫阳回忆录》
+- 《邓力群回忆录》
+- 《人民日报》
+people:
+- 苏小康
+- 夏俊
+- 赵紫阳
+- 王震
+- 李鹏
+- 李先念
+- 杨尚昆
+- 陈汉元
+- 莫言
+- 胡启立
+- 李光耀
+- 杨振宁
+- 金观涛
+- 胡耀邦
+- 阎明复
+- 戴晴
+- 李泽厚
+- 刘晓波
+- 丁子霖
+- 蔡元培
+- 胡适
+- 陈寅恪
+- 冯友兰
+- 郭沫若
+products_models:
+- 《河殇》
+- 《五四》
+project:
+- china-analysis
+- historical-insights
+- geopolitics-watch
+series: ''
 source: https://www.youtube.com/watch?v=vwA3lVWbUVg
 speaker: 柴静 Chai Jing
-tags:
-  - he-shang
-  - chinese-nationalism
-  - cultural-critique
-  - political-reform
-  - intellectuals-role
-  - 1989-protests
-title: 《河殇》总撰稿人苏小康：一部纪录片如何卷入中国高层政争与文化反思
-summary: 《河殇》总撰稿人苏小小康在访谈中，深入剖析了这部纪录片从文化批判到卷入中国高层政治斗争的意外历程。他详述了《河殇》对中国传统文化和民族主义的激进批判，以及该片如何成为赵紫阳时期政治博弈的焦点。苏小康还反思了知识分子在社会变革中的角色、激进思潮的利弊，并回顾了1989年事件对其个人及一代知识分子的深远影响与精神蜕变。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-  - china-analysis
-  - historical-insights
-  - geopolitics-watch
-people:
-  - 苏小康
-  - 夏俊
-  - 赵紫阳
-  - 王震
-  - 李鹏
-  - 李先念
-  - 杨尚昆
-  - 陈汉元
-  - 莫言
-  - 胡启立
-  - 李光耀
-  - 杨振宁
-  - 金观涛
-  - 胡耀邦
-  - 阎明复
-  - 戴晴
-  - 李泽厚
-  - 刘晓波
-  - 丁子霖
-  - 蔡元培
-  - 胡适
-  - 陈寅恪
-  - 冯友兰
-  - 郭沫若
-companies_orgs:
-  - 中央电视台
-  - 广电部
-  - 新华社
-  - 人民日报
-  - 威斯康辛大学
-  - 北京大学
-  - 中央宣传部
-  - 中央书记处
-  - 中共中央政治局
-products_models:
-  - 《河殇》
-  - 《五四》
-media_books:
-  - 《新闻调查》
-  - 《红高粱家族》
-  - 《王震传记》
-  - 《赵紫阳回忆录》
-  - 《邓力群回忆录》
-  - 《人民日报》
 status: evergreen
+summary: 《河殇》总撰稿人苏小小康在访谈中，深入剖析了这部纪录片从文化批判到卷入中国高层政治斗争的意外历程。他详述了《河殇》对中国传统文化和民族主义的激进批判，以及该片如何成为赵紫阳时期政治博弈的焦点。苏小康还反思了知识分子在社会变革中的角色、激进思潮的利弊，并回顾了1989年事件对其个人及一代知识分子的深远影响与精神蜕变。
+tags:
+- chinese-nationalism
+- cultural-critique
+- he-shang
+- history
+- political-reform
+title: 《河殇》总撰稿人苏小康：一部纪录片如何卷入中国高层政争与文化反思
+companies:
+- intellectuals-role
 ---
+
 ### 《河殇》的诞生与轰动效应
 
 2003年，我到中央电视台《新闻调查》栏目工作，该栏目的创始人之一夏俊，经常回来与我们一块开会谈业务。我们都知道他是纪录片**《河殇》**（He Shang: 一部探讨中国传统文化与现代化进程的电视纪录片）的导演。《河殇》在1988年播出时曾引起过空前的轰动效应，当时中国差不多有三亿人看了这个片子，并引起了热烈的全球性大讨论。然而，等我到央视的时候，我印象中没有人公开谈过这个片子，包括夏俊本人。因为大家都知道，这片子后来好像卷入了某种巨大的政治风波，直接影响到了当时中共中央总书记赵紫阳的政治命运，围绕着它，有一种强烈的禁忌感。

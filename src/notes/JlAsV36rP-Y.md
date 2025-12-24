@@ -1,21 +1,6 @@
 ---
-title: 全球经济体系解析：主要金融机构的角色与相互作用
-summary: 本文深入探讨了全球经济体系中六大类主要金融机构：国际组织、中央银行、政府金融机构、金融市场、私人金融机构和开发银行。文章阐述了它们在维护金融稳定、促进经济发展中的关键作用，并通过案例分析其影响与面临的挑战，揭示了这些机构之间复杂的相互依赖关系。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-- economic-governance
-- financial-crises
-- financial-institutions
-- global-economy
-- monetary-policy
-people:
-- Ben Bernanke
-- Bernie Madoff
-- Bruno Iksil
-- adam-s-axiom
+area: finance-wealth
+category: macro-economy
 companies_orgs:
 - AIG
 - African Development Bank
@@ -50,23 +35,36 @@ companies_orgs:
 - US Treasury Department
 - World Bank
 - World Trade Organization
+date: '2025-01-26'
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+people:
+- Ben Bernanke
+- Bernie Madoff
+- Bruno Iksil
+- adam-s-axiom
 products_models:
 - Ponzi scheme
 - derivatives
 - mortgage-backed securities
 - quantitative easing
-media_books: []
-date: '2025-01-26'
-author: Adam's Axiom
-speaker: Adam's Axiom
-draft: true
-guest: ''
-insight: ''
-layout: post.njk
+project:
+- investment-strategy
 series: ''
 source: https://www.youtube.com/watch?v=JlAsV36rP-Y
+speaker: Adam's Axiom
 status: evergreen
+summary: 本文深入探讨了全球经济体系中六大类主要金融机构：国际组织、中央银行、政府金融机构、金融市场、私人金融机构和开发银行。文章阐述了它们在维护金融稳定、促进经济发展中的关键作用，并通过案例分析其影响与面临的挑战，揭示了这些机构之间复杂的相互依赖关系。
+tags:
+- economic
+- financial
+- financial-crisis
+- global-economy
+title: 全球经济体系解析：主要金融机构的角色与相互作用
 ---
+
 ### 国际组织：全球经济的“消防员”
 
 你是否曾想过，为什么一个国家的金融危机能够威胁到整个全球经济？这就是国际组织发挥作用的地方，它们扮演着世界金融“消防员”的角色，尽管有时在你真正需要消防车时，它们却只带着一根花园水管。这些**多边机构**（Multilateral Institutions: 由多个国家通过条约建立的国际组织），通过成员国之间的条约建立，是全球经济治理的支柱。它们不懈努力地维护金融稳定、促进国际贸易并推动全球经济发展，常常能阻止经济多米诺骨牌的倒塌。
