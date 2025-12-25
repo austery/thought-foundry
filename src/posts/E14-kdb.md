@@ -25,7 +25,7 @@ project:
 - entrepreneurship
 - personal-growth-lab
 source: https://www.xiaoyuzhoufm.com/episode/6947c9a19f70e5d6b3795ff5
-speaker: Lei
+speaker: 课代表立正
 summary: 本期播客专访了AI社区创始人“课代表立正”。他分享了从腾讯、Meta、Amazon等大厂离职创业的心路历程，深入探讨了AI泡沫的本质、副业的时间管理法则以及高客单价课程的定价逻辑。立正指出，AI能力的瓶颈往往在于人类提供的上下文（Context）不足，并强调在“冷市场”中，真正的技术能力比职场软技能更为重要。对话还涉及了大厂与初创公司的选择、职业生涯末期的危机感以及如何通过“真本事”构建反脆弱的职业护城河。
 tags:
 - ai-bubble
