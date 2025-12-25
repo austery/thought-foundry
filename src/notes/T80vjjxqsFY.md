@@ -10,7 +10,6 @@ media_books:
 - 《史记》
 people:
 - 孔子
-- Naval Ravikant
 - 甘地
 products_models:
 - 柯尔特M1911手枪
