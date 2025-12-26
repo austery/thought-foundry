@@ -1,335 +1,120 @@
 {
     "meta": {
-        "version": "4.2",
-        "updated": "2025-12-23",
-        "description": "Unified Knowledge Taxonomy for Obsidian & Eleventy"
+        "version": "4.3",
+        "updated": "2025-12-25",
+        "description": "Master Taxonomy Protocol"
     },
     "governance": {
         "tag_rules": {
             "case": "lowercase",
             "separator": "kebab-case",
-            "language": "english_preferred",
-            "singular": true,
+            "enforce_singular": true,
             "singular_exceptions": [
-                "politics",
-                "geopolitics",
-                "economics",
-                "macro-economics",
-                "physics",
-                "mathematics",
-                "statistics",
-                "analytics",
-                "news",
-                "series",
-                "species",
-                "logistics",
-                "graphics",
-                "sales",
-                "operations",
-                "analysis",
-                "analytics",
-                "statistics",
-                "hypothesis",
-                "thesis",
-                "crisis",
-                "business",
-                "process",
-                "success",
-                "access",
-                "happiness",
-                "wellness",
-                "fitness",
-                "awareness",
-                "consciousness",
-                "kindness",
-                "bias",
-                "loss",
-                "focus",
-                "stimulus",
-                "surplus",
-                "ethics",
-                "mathematics",
-                "physics",
-                "progress",
-                "acumen",
-                "emptiness",
-                "competitiveness",
-                "weakness",
-                "correctness",
-                "fairness",
-                "stress",
-                "fairness",
-                "stress",
-                "distress",
-                "relations"
+                "news", "series", "species", "logistics", "graphics",
+                "sales", "operations", "analysis", "analytics", "statistics",
+                "hypothesis", "thesis", "crisis", "business", "process",
+                "success", "access", "happiness", "wellness", "fitness",
+                "awareness", "consciousness", "kindness", "bias", "loss",
+                "focus", "stimulus", "surplus", "ethics", "mathematics",
+                "physics", "economics", "politics", "geopolitics", "progress",
+                "acumen", "emptiness", "competitiveness", "weakness",
+                "correctness", "fairness", "stress", "distress", "relations"
             ]
         }
     },
     "taxonomy": {
-        "areas": [
-            {
-                "id": "tech-engineering",
+        "areas": {
+            "tech-engineering": {
                 "label": "Tech & Engineering",
                 "desc": "技术原理、代码、数据工程、AI",
-                "visibility": "public"
+                "categories": [
+                    { "id": "ai-ml", "match_tags": ["ai", "llm", "chatgpt", "machine-learning", "rlhf", "robotics", "transformer"] },
+                    { "id": "data-engineering", "match_tags": ["etl", "dbt", "sql", "data-lake", "warehouse", "airflow"] },
+                    { "id": "software-development", "match_tags": ["python", "java", "coding", "software", "angular", "react"] }
+                ]
             },
-            {
-                "id": "finance-wealth",
+            "finance-wealth": {
                 "label": "Finance & Wealth",
                 "desc": "投资、宏观经济、加密货币",
-                "visibility": "public"
+                "categories": [
+                    { "id": "stock-investment", "match_tags": ["investment", "stocks", "market", "value-investing", "etf", "vfv"] },
+                    { "id": "business", "match_tags": ["business", "startup", "management", "strategy", "entrepreneurship"] },
+                    { "id": "crypto", "match_tags": ["bitcoin", "blockchain", "web3", "crypto", "btc", "eth"] }
+                ]
             },
-            {
-                "id": "society-thinking",
+            "society-thinking": {
                 "label": "Society & Thinking",
                 "desc": "政治、历史、哲学、深度思考",
-                "visibility": "public"
+                "categories": [
+                    { "id": "politics-society", "match_tags": ["politics", "geopolitics", "china-us", "society", "election"] },
+                    { "id": "history", "match_tags": ["history", "ancient", "civilization"] },
+                    { "id": "psychology", "match_tags": ["psychology", "mental-model", "cognitive", "bias", "mindset"] },
+                    { "id": "environment", "match_tags": ["environment", "climate", "energy"] }
+                ]
             },
-            {
-                "id": "life-family",
+            "life-family": {
                 "label": "Life & Family",
                 "desc": "家庭、健康、生活管理",
-                "visibility": "private"
+                "categories": [
+                    { "id": "family-relations", "match_tags": ["parenting", "kids", "marriage", "family", "education"] },
+                    { "id": "health-wellness", "match_tags": ["health", "sleep", "gym", "biohacking", "cooking", "diet"] }
+                ]
             },
-            {
-                "id": "knowledge-meta",
+            "knowledge-meta": {
                 "label": "Knowledge Meta",
                 "desc": "PKM方法论、学习系统",
-                "visibility": "public"
-            }
-        ],
-        "categories": [
-            {
-                "id": "ai-ml",
-                "area": "tech-engineering",
-                "tags_to_migrate": [
-                    "ai",
-                    "llm",
-                    "chatgpt",
-                    "machine-learning",
-                    "rlhf",
-                    "robotics"
+                "categories": [
+                    { "id": "science", "match_tags": ["science", "physics", "biology", "space", "quantum"] },
+                    { "id": "note-taking-systems", "match_tags": ["obsidian", "pkm", "notetaking", "learning"] }
                 ]
-            },
-            {
-                "id": "science",
-                "area": "knowledge-meta",
-                "tags_to_migrate": [
-                    "science",
-                    "physics",
-                    "biology",
-                    "space",
-                    "quantum"
-                ]
-            },
-            {
-                "id": "environment",
-                "area": "society-thinking",
-                "tags_to_migrate": [
-                    "environment",
-                    "climate",
-                    "energy"
-                ]
-            },
-            {
-                "id": "data-engineering",
-                "area": "tech-engineering",
-                "tags_to_migrate": [
-                    "etl",
-                    "dbt",
-                    "sql",
-                    "data-lake"
-                ]
-            },
-            {
-                "id": "software-development",
-                "area": "tech-engineering",
-                "tags_to_migrate": [
-                    "python",
-                    "java",
-                    "coding",
-                    "software"
-                ]
-            },
-            {
-                "id": "stock-investment",
-                "area": "finance-wealth",
-                "tags_to_migrate": [
-                    "investment",
-                    "stocks",
-                    "market",
-                    "value-investing"
-                ]
-            },
-            {
-                "id": "business",
-                "area": "finance-wealth",
-                "tags_to_migrate": [
-                    "business",
-                    "startup",
-                    "management",
-                    "strategy"
-                ]
-            },
-            {
-                "id": "crypto",
-                "area": "finance-wealth",
-                "tags_to_migrate": [
-                    "bitcoin",
-                    "blockchain",
-                    "web3",
-                    "crypto"
-                ]
-            },
-            {
-                "id": "politics-society",
-                "area": "society-thinking",
-                "tags_to_migrate": [
-                    "politics",
-                    "geopolitics",
-                    "china-us",
-                    "society"
-                ]
-            },
-            {
-                "id": "history",
-                "area": "society-thinking",
-                "tags_to_migrate": [
-                    "history",
-                    "ancient"
-                ]
-            },
-            {
-                "id": "psychology",
-                "area": "society-thinking",
-                "tags_to_migrate": [
-                    "psychology",
-                    "mental-model",
-                    "cognitive",
-                    "bias"
-                ]
-            },
-            {
-                "id": "family-relations",
-                "area": "life-family",
-                "tags_to_migrate": [
-                    "parenting",
-                    "kids",
-                    "marriage",
-                    "family"
-                ]
-            },
-            {
-                "id": "health-wellness",
-                "area": "life-family",
-                "tags_to_migrate": [
-                    "health",
-                    "sleep",
-                    "gym",
-                    "biohacking"
-                ]
-            },
-            {
-                "id": "note-taking-systems",
-                "area": "knowledge-meta",
-                "tags_to_migrate": [
-                    "obsidian",
-                    "pkm",
-                    "notetaking"
-                ]
-            }
-        ],
-        "status_lifecycle": [
-            "inbox",
-            "evergreen",
-            "archived",
-            "deprecated"
-        ],
-        "source_types": [
-            "youtube-transcript",
-            "blog-post",
-            "book-note",
-            "meeting-note"
-        ],
-        "entity_aliases": {
-            "people": {
-                "习近平": "Xi Jinping",
-                "习大大": "Xi Jinping",
-                "普京": "Vladimir Putin",
-                "Elon Musk": "Elon Musk",
-                "马斯克": "Elon Musk",
-                "Donald Trump": "Donald Trump",
-                "唐拉德·川普": "Donald Trump",
-                "川普": "Donald Trump",
-                "Sam Altman": "Sam Altman",
-                "Altman": "Sam Altman",
-                "Jensen Huang": "Jensen Huang",
-                "黄仁勋": "Jensen Huang",
-                "Steve Jobs": "Steve Jobs",
-                "乔布斯": "Steve Jobs",
-                "Bill Gates": "Bill Gates",
-                "Jeff Bezos": "Jeff Bezos",
-                "Mark Zuckerberg": "Mark Zuckerberg",
-                "Warren Buffett": "Warren Buffett",
-                "巴菲特": "Warren Buffett",
-                "Charlie Munger": "Charlie Munger",
-                "芒格": "Charlie Munger",
-                "Ray Dalio": "Ray Dalio",
-                "桥水达里奥": "Ray Dalio",
-                "Peter Thiel": "Peter Thiel",
-                "Naval Ravikant": "Naval Ravikant",
-                "Naval": "Naval Ravikant",
-                "Nassim Taleb": "Nassim Taleb",
-                "塔勒布": "Nassim Taleb",
-                "Yuval Harari": "Yuval Noah Harari",
-                "赫拉利": "Yuval Noah Harari",
-                "小翠時政財經": "小翠时政财经",
-                "小翠": "小翠时政财经",
-                "王红雨": "王红雨",
-                "Wang Hongyu": "王红雨",
-                "章泽天": "Zhang Zetian"
-            },
-            "companies": {
-                "谷歌": "Google",
-                "Alphabet": "Google",
-                "微软": "Microsoft",
-                "MSFT": "Microsoft",
-                "英伟达": "Nvidia",
-                "NVDA": "Nvidia",
-                "Met": "Meta",
-                "Facebook": "Meta",
-                "META": "Meta",
-                "Tesla": "Tesla",
-                "TSLA": "Tesla",
-                "特斯拉": "Tesla",
-                "Apple": "Apple",
-                "AAPL": "Apple",
-                "苹果": "Apple",
-                "Amazon": "Amazon",
-                "AMZN": "Amazon",
-                "亚马逊": "Amazon",
-                "OpenAI": "OpenAI",
-                "Anthropic": "Anthropic",
-                "SpaceX": "SpaceX",
-                "Zero2Hero": "Zero2Hero",
-                "阿里巴巴": "Alibaba",
-                "BABA": "Alibaba",
-                "腾讯": "Tencent",
-                "TCEHY": "Tencent",
-                "字节跳动": "ByteDance",
-                "ByteDance": "ByteDance",
-                "拼多多": "Pinduoduo",
-                "PDD": "Pinduoduo",
-                "TSMC": "TSMC",
-                "台积电": "TSMC",
-                "Youtube": "YouTube",
-                "Twitter": "Twitter",
-                "X.com": "Twitter",
-                "X": "Twitter"
-            },
-            "media_books": {
-
             }
         }
-    }
+    },
+    "dictionaries": {
+        "status_lifecycle": ["inbox", "evergreen", "archived", "deprecated"],
+        "source_types": ["youtube-transcript", "blog-post", "book-note", "meeting-note", "journal"],
+        "entity_aliases": {
+            "people": {
+                "Xi Jinping": ["习近平", "习大大", "Xi"],
+                "Vladimir Putin": ["普京", "Putin"],
+                "Elon Musk": ["马斯克", "Elon"],
+                "Donald Trump": ["唐拉德·川普", "川普", "Trump"],
+                "Sam Altman": ["Altman"],
+                "Jensen Huang": ["黄仁勋"],
+                "Steve Jobs": ["乔布斯"],
+                "Bill Gates": ["盖茨"],
+                "Mark Zuckerberg": ["扎克伯格"],
+                "Warren Buffett": ["巴菲特", "Buffett"],
+                "Charlie Munger": ["芒格"],
+                "Ray Dalio": ["桥水达里奥", "Dalio"],
+                "Nassim Taleb": ["塔勒布", "Taleb"],
+                "Yuval Noah Harari": ["赫拉利", "Harari"],
+                "小翠时政财经": ["小翠時政財經", "小翠"],
+                "王红雨": ["Wang Hongyu"],
+                "Zhang Zetian": ["章泽天"]
+            },
+            "companies": {
+                "Google": ["谷歌", "Alphabet"],
+                "Microsoft": ["微软", "MSFT"],
+                "Nvidia": ["英伟达", "NVDA"],
+                "Meta": ["Facebook", "META"],
+                "Tesla": ["TSLA", "特斯拉"],
+                "Apple": ["AAPL", "苹果"],
+                "Amazon": ["AMZN", "亚马逊"],
+                "Alibaba": ["阿里巴巴", "BABA"],
+                "Tencent": ["腾讯", "TCEHY"],
+                "ByteDance": ["字节跳动"],
+                "Pinduoduo": ["拼多多", "PDD"],
+                "TSMC": ["台积电"],
+                "Twitter": ["X.com", "X"],
+                "YouTube": ["Youtube"]
+            }
+        }
+    },
+    "tag_mappings": [
+        { "tag": "视频文稿", "field": null, "value": null, "action": "remove_tag" },
+        { "tag": "daily", "field": "tags", "value": "journal", "action": "replace_tag" }, 
+        { "tag": "t-journal", "field": "tags", "value": "journal", "action": "replace_tag" },
+        { "tag": "s-wip", "field": "status", "value": "inbox", "action": "remove_tag" }
+    ]
 }
