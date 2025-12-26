@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs: []
 date: '2025-10-11'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OwQRoRhP7zo
 speaker: Bloomberg Podcasts
@@ -24,7 +23,6 @@ tags:
 - security
 title: 特朗普：新药物协议、对华政策、中东和平与国内挑战
 ---
-
 ### 经济成就与药物降价
 
 At this moment, I think we just cracked $18 trillion in commitments and investments in our country.

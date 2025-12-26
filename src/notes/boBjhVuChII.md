@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-30'
@@ -17,10 +17,7 @@ media_books:
 - 《中英续议藏印条约》
 - great-game
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=boBjhVuChII
 speaker: ZetaBook
@@ -33,7 +30,6 @@ tags:
 - war
 title: 中美新冷战与19世纪英俄大博弈：台湾的未来之路
 ---
-
 ### 中美新冷战与历史回响：19世纪的“大博弈”
 
 美中新冷战发展至今，双方在关税攻防和军事对峙上依然剑拔弩张，但私底下，两国似乎都不愿再升级对抗。回顾整个十九世纪，英俄两国关系也曾非常紧张。当时，大英帝国和沙俄在阿富汗和伊朗等中亚地区展开了高强度的地缘政治和经济角力，双方都宣称中亚是本国的核心利益，是不可触碰的红线。以我们现代人的眼光来看，当时两国的对抗就是一场冷战，这场冷战在历史中被称为**大博弈**（The Great Game: 19世纪英国和沙俄在中亚地区争夺势力范围的地缘政治对抗）。

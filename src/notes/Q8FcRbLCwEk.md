@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Federal Housing Finance Agency
@@ -22,9 +22,7 @@ people:
 products_models:
 - PowerPoint
 - Dodd-Frank Act
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q8FcRbLCwEk
 speaker: Patrick Boyle
@@ -38,7 +36,6 @@ tags:
 - risk
 title: 特朗普的50年抵押贷款计划：你必须了解的真相
 ---
-
 ### 特朗普的50年抵押贷款提议及其潜在风险
 
 上周末，特朗普总统在推特上提出了设立**50年抵押贷款**（50-year mortgage: 一种将还款期限延长至50年的住房贷款）的想法，以此帮助那些希望购房的美国人降低月供。

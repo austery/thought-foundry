@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - new-york-times-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gKFpNh2avys
 speaker: New York Times Podcasts
@@ -24,7 +23,6 @@ tags:
 - self-discovery
 title: 超越标签：马拉拉·优素福扎伊的成长与自我发现
 ---
-
 ### 引言：重新介绍马拉拉
 
 Anna: Hi Malala, I'm Anna.

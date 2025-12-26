@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -23,10 +23,7 @@ products_models:
 - ChatGPT
 - DeepMind
 - VLA模型
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rMTQm36bRko
 speaker: 美投讲美股
@@ -40,7 +37,6 @@ tags:
 - technological
 title: 万亿风口将至！人形机器人爆发前夜的机遇与挑战（上集）
 ---
-
 ### 引言：下一个颠覆性机遇——人形机器人
 
 大家好，我是美投讲美股，您的美股探索者。2020年，电动车的引擎推力成就了特斯拉，其股价一年内翻了三倍。2023年，AI语言模型的横空出世成就了ChatGPT，其股价同样翻了三倍。那么，下一个颠覆性的机遇会是什么？哪家公司将主导新时代？今天，美投将为大家介绍一个这样的行业，那就是**人形机器人**（Humanoid Robot: 模仿人类形态和行为的机器人）产业。

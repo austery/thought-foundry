@@ -20,8 +20,7 @@ people:
 - Lenin
 - Stalin
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tMILjWpuzhU
 speaker: Anthony看世界
@@ -34,7 +33,6 @@ tags:
 - nationalism
 title: 21世纪的中国人为何还在“反清复明”？皇汉史观与西方伪史论：中国的民族主义为何如此愚昧？谁才是真正的中国人？｜历史｜哲学｜社会学｜民族主义｜
 ---
-
 大家好，我是Anthony。欢迎来到我的频道。
 
 ### 皇汉史观的兴起

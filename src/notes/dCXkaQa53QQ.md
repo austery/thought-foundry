@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Starbucks
@@ -26,7 +26,6 @@ tags:
 - nitro-cold-brew
 title: 从空气中自制液氮：科学实验与星巴克氮气冷萃的奥秘
 ---
-
 ### 氮气无处不在：从大气到咖啡
 
 氮气无处不在，它是生命的基本组成部分。

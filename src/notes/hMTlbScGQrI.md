@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -35,10 +35,7 @@ products_models:
 - TikTok
 - VPN
 - OxyContin
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hMTlbScGQrI
 speaker: 北美王路飞
@@ -52,7 +49,6 @@ tags:
 - venezuela-crisis
 title: 美国防长丑闻：弹劾前景、毒品战争与委内瑞拉危机深度解析
 ---
-
 ### 美国防长争议事件概览
 
 **北美王路飞:** 大家好，我们今天主要讲一下美国国防部长涉嫌的争议事件。我们的国防部长**皮特·赫格塞斯**（Peter Hegseth: 现任美国国防部长）最近干了一件大事。这个事情其实在9月2号就已经发生了，只不过最近是《华盛顿邮报》先是一篇重磅爆料文章发出来，然后引发了巨大的媒体争议和舆论反应。

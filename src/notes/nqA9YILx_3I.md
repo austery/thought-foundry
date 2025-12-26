@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国共产党
@@ -16,10 +16,7 @@ people:
 - 周星驰
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nqA9YILx_3I
 speaker: 張内咸
@@ -33,7 +30,6 @@ tags:
 - reform
 title: 从体检焦虑到社会批判：中国“改革开放”的语义错乱与“砸窗者”的隐喻
 ---
-
 ### 从体检焦虑到“朋克养生”
 
 大家好，我是张内咸，我们又见面了。前几天我做了一次全面的体检，检查了心脏、血压、肝肾功能、口腔和超声等诸多项目。通过体检，我们可以了解自己的身体状况，尤其是提前筛查潜在的癌症风险，这真的很可怕。那些医疗健康类的博主通常会建议35岁以上的人每年做一次定期体检。

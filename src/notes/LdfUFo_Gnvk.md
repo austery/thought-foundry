@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中共
@@ -16,10 +16,7 @@ people:
 - 朱镕基
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LdfUFo_Gnvk
 speaker: 夸克说
@@ -34,7 +31,6 @@ tags:
 - systemic-corruption
 title: 中国“基建狂魔”的阴暗面：从豆腐渣工程到制度性悲剧
 ---
-
 ### 引言：中国速度与豆腐渣工程的悖论
 
 大家好，欢迎收看夸克说。上上期节目我讲了中国的大基建是如何拉高失业率，让普通人处境更艰难的。然后推特上就有小粉红留言抬杠说：“你甭管怎么说，中国基建就是世界第一，你老美修条路好几年，我们三个月就干完了。”是这样啊，你要说快，我承认，中国基建在这方面确实强，但你光快不行啊。

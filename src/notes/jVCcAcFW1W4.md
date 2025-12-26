@@ -16,9 +16,7 @@ layout: post.njk
 people:
 - Marc Rowan
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jVCcAcFW1W4
 speaker: Norges Bank Investment Management
@@ -31,7 +29,6 @@ tags:
 - market-liquidity
 title: 金融市场巨变：投资策略的范式转移与未来展望
 ---
-
 ### 拥抱变革：投资新时代的呼唤
 
 感谢大家。我们都从最近Adam U以及今天上午的演讲中受益匪浅，这些建议都非常精彩。我想以我自己的方式来探讨这个问题。我告诉我的团队：“不要防守，要保持好奇心，因为变化是永恒的。”我认为，我们作为投资者，作为金融服务从业者，一直低估了变化的影响。我们抵制变化，否认变化，墨守成规。所以，我想分享一些关于变化及其影响力的例子。

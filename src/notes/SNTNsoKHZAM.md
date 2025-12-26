@@ -19,8 +19,7 @@ people:
 - 老尹
 - 特朗普
 - 夏河
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SNTNsoKHZAM
 speaker: 北美王路飞
@@ -30,7 +29,6 @@ tags:
 - content-creation
 title: 逃离鸭科夫能治好我的电子ED吗？
 ---
-
 ### 游戏开局
 OK，我现在这个话筒调好了，声音应该是没问题了。我在想一个办法，我刚刚买了这个游戏，现在正在玩，先把这个关了。OK，画面没有问题。我刚刚在外面被人打死了，我现在要回去。
 

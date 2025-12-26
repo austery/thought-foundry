@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: technology
 companies_orgs:
 - CATL
@@ -15,10 +15,7 @@ people:
 products_models:
 - Model 3
 - Model Y
-project:
-- china-analysis
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5VIXjjw4u9A
 speaker: Norges Bank Investment Management
@@ -32,7 +29,6 @@ tags:
 - technology
 title: 宁德时代CEO曾毓群：电池巨头的市场策略、研发创新与全球布局
 ---
-
 ### 引言：宁德时代的全球领先地位
 
 **Nicola Tangan:** 大家好，欢迎来到“In Good Company”。我是挪威主权财富基金（Norges Bank Investment Management: 挪威政府运营的全球最大主权财富基金）的首席执行官**Nicola Tangan**。今天，我们有幸邀请到一位杰出的嘉宾——全球最大的电池生产商**宁德时代**（CATL: Contemporary Amperex Technology Co. Limited，中国新能源科技公司）的创始人兼首席执行官**曾毓群**（Robin Zeng）。宁德时代不仅是全球最大的电池生产商，它还占据了这个庞大市场高达40%的份额，这真是令人惊叹。

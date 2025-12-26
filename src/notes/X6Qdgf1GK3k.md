@@ -1,7 +1,7 @@
 ---
 title: 马基雅维里时刻读书会（一）：共和、美德与现代政治
 summary: null
-area: personal-growth
+area: "life-family"
 category: culture
 project: []
 tags:
@@ -22,7 +22,6 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=X6Qdgf1GK3k&t
 ---
-
 ## 开场与引言
 
 **主持人:**

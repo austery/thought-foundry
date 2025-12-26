@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - TED
@@ -8,8 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1jWA3mE5o9Y
 speaker: TED
@@ -23,7 +22,6 @@ tags:
 - sobriety-journey
 title: 戒酒后的自我重塑：寻找新乐趣与生活重心
 ---
-
 ### 戒酒后的生活转变
 
 这是一杯加了青柠的**苏打水**（selzer with lime: 一种无酒精、气泡丰富的饮品）。

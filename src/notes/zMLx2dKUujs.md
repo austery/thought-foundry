@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-04-06'
@@ -15,10 +15,7 @@ people:
 - Mencius
 - Ichiro Kishimi
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zMLx2dKUujs
 speaker: Anthony看世界
@@ -32,7 +29,6 @@ tags:
 - technology
 title: 《被讨厌的勇气》：中国流行心理学的致命缺陷与阿德勒思想的误读
 ---
-
 ### 流行心理学的“目的论”陷阱
 
 大家好，我是Anthony，欢迎来到我的频道。今天，我们继续来聊聊《被讨厌的勇气》以及其背后的思想。

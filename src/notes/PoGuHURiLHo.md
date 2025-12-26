@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Intuit
@@ -35,10 +35,7 @@ products_models:
 - Photoshop
 - Premiere Pro
 - VMware
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PoGuHURiLHo
 speaker: Shijun Tang
@@ -52,7 +49,6 @@ tags:
 - wealth
 title: 为什么90%投资者亏钱？揭开指数基金迷思与真正的复利机器
 ---
-
 ### 普通人真跑不赢大盘吗？一个被广泛误传的迷思
 
 普通人不可能跑赢大盘吗？如果没有买“七巨头”，你还不如去买指数基金。公开股权市场是一个危险丛生的迷宫，稍不注意，你就会亏很多钱——毕竟你看到的数据也是这么反馈的：市场中超过80%到90%的人都亏钱，绝大多数普通参与者都跑不过大盘。所谓选股，那是专业人士做的事，普通人根本玩不转。

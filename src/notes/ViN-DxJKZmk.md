@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 date: '2024-05-04'
 draft: true
@@ -18,10 +18,7 @@ people:
 - Hegel
 - Nietzsche
 - Freud
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ViN-DxJKZmk
 speaker: 超級歪 SuperY
@@ -35,7 +32,6 @@ tags:
 - theory
 title: 爱因斯坦与斯宾诺莎的“上帝”：探寻自由与人性的哲学之旅
 ---
-
 ### 斯宾诺莎的生平与思想启蒙
 
 哲学令人心旷神怡，使人感到无比愉悦。在上一期视频中，我们介绍了笛卡尔，而本期将介绍与笛卡尔同时代的哲学家——斯宾诺莎。斯宾诺莎是爱因斯坦最推崇的哲学家之一，爱因斯坦曾表示他只相信斯宾诺莎的上帝。在今天的节目中，我们将详细解释斯宾诺莎的“上帝”究竟意味着什么。

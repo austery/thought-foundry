@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Anthropic
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NfoFdsc2ODQ
 speaker: Anthropic
@@ -26,7 +24,6 @@ tags:
 - management
 title: 艾伯维如何利用AI加速药物发现与临床开发
 ---
-
 ### AI在制药行业的变革性力量
 
 Sarah Nam: 制药行业中，没有任何其他技术变革能够像人工智能一样，彻底重塑每一个职能。我们相信，这确实是一个百年一遇的机会，能够加速我们的进步，并为患者带来更大的影响。

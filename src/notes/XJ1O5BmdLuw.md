@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - 智谱AI
@@ -12,8 +12,7 @@ products_models:
 - GRM 4.5 V纤文3VL系列
 - Kimi VL系列
 - SteerPE P3 321B系列
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XJ1O5BmdLuw
 speaker: AI超元域
@@ -28,7 +27,6 @@ tags:
 - technology
 title: 智谱GLM-4.6V深度实测：本地部署9B模型，原生Function Calling赋能，多模态能力全面超越SOTA
 ---
-
 ### GLM-4.6V系列模型发布与性能概览
 
 智谱AI在昨天下午发布了GLM 4. 6V系列模型。这个系列的模型包含9B参数的GLM 4. 6V flash模型。它是一款轻量级模型，专为本地部署，还有低延迟应用而优化。还有另一款106 B参数的GLM. 4. 6V，它是专门为云端还有高性能集群场景而设计的模型。

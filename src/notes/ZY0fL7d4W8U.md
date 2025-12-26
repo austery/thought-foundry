@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 携程
@@ -16,9 +16,7 @@ products_models:
 - 上海交通卡APP
 - iPhone
 - ChatGPT
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZY0fL7d4W8U
 speaker: 莊也雜談
@@ -32,7 +30,6 @@ tags:
 - urban-development
 title: 二十年后再访上海：极简旅行攻略与城市变迁观察
 ---
-
 ### 重回上海：一座城市的二十年变迁
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊我2024年回国探亲的话题。上一集我们简单介绍了北京的颐和园、御河以及国贸**CBD**（Central Business District: 中央商务区）地区。今天，我们换一个城市，聊一聊我们去上海旅游的经历。

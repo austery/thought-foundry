@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -27,10 +27,7 @@ people:
 products_models:
 - Waymo
 - Kubernetes
-project:
-- us-analysis
-- historical-insights
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2r2P9Jl_Rgg
 speaker: Shijun Tang
@@ -44,7 +41,6 @@ tags:
 - wealth-inequality
 title: 谷歌为何是复利机器？护城河、AI融合与资本主义的未来
 ---
-
 ### 谷歌的复利引擎：搜索、云与AI的三位一体
 
 谷歌股价近期的爆发，让许多曾看空它的金融专家和机构投资者措手不及。在信息获取门槛极低的时代，散户通过深入分析，已能超越传统机构的判断。过去1205天，谷歌为投资者带来了29.7%的复合年化回报率，远超同期标普500指数17.02%的收益（扣除汇率影响后，后者实际回报率仅约3%）。这一表现成为作者投资组合跑赢大盘的关键。

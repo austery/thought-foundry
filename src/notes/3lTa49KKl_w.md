@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 北约
@@ -21,9 +21,7 @@ people:
 - Vladimir Putin
 - 梁启超
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3lTa49KKl_w
 speaker: 政經孫老師
@@ -37,7 +35,6 @@ tags:
 - theory
 title: 俄罗斯的底层逻辑：从边缘帝国到世界岛中心的扩张与挑战
 ---
-
 ### 俄罗斯的深层逻辑：对抗西方的历史根源
 
 今天，我们将深入探讨俄罗斯的底层逻辑。俄罗斯这个国家，我想大家都非常熟悉，它经常出现在新闻、影视作品甚至是游戏当中，因此大家对俄罗斯并不陌生。而且，无论俄罗斯出现在何处，它通常都给人留下一个反面、负面的形象，通常都在挑战西方、挑战美国、挑战欧洲。这便是俄罗斯给人的刻板印象，但在现实中，俄罗斯确实也一直在做类似的事情。

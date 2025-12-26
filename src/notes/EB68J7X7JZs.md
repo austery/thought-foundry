@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-04-06'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《比山更高 自由攀登者的悲情与荣耀》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EB68J7X7JZs
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - non
 title: 比山更高：中国自由攀登者的悲情与荣耀
 ---
-
 ### 一场被忽视的史诗：自由攀登者的真实人生
 
 大家好，我叫宋明蔚。今天我想分享的，不是那些站在珠峰顶上举旗庆祝的成功故事，而是一群被主流社会视为“失败者”的中国自由攀登者——他们大学肄业、高中辍学、出身不幸、居无定所，却在死亡的悬崖边寻找自由与自我。他们没有被写进教科书，没有登上新闻头条，在官方叙事中几乎隐形；但在我眼中，他们在中国大地上书写了一部壮丽而隐秘的史诗。

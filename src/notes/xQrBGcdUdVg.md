@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -26,10 +26,7 @@ people:
 - 尼克松
 - 李南央
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xQrBGcdUdVg
 speaker: 柴静 Chai Jing
@@ -43,7 +40,6 @@ tags:
 - us-china-relations
 title: 韩秀：一个中美混血儿的32年中国记忆与挣扎
 ---
-
 ### 战乱中的归途与身份之谜
 
 **柴静:** 今天我要访谈的人是韩秀。这位中美混血儿在1948年被送回战乱中的中国。此后32年，她经历了每一场主要的政治运动。17岁她下乡当**知青**（知识青年：指上山下乡运动中从城市到农村插队落户的青年），20岁她在**文革**（文化大革命：1966年至1976年在中国发生的一场政治运动）中逃亡，此后在新疆之边九年。因为特殊的身世，韩秀和中国政界、文艺界的主要人物，像周恩来和老舍，都有直接的命运交集。今年她78岁了，她对我说，这将是她最后一次面对媒体来讲述自己的历史。但这也是她第一次面对有大陆背景的读者来讲。历史是沉重的，但是她说，讲述它是幸存者的责任。

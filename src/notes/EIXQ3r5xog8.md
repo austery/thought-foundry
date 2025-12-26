@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2024-06-27'
@@ -13,10 +13,7 @@ people:
 - 梁启超
 - 巴金
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EIXQ3r5xog8
 speaker: 一席YiXi
@@ -30,7 +27,6 @@ tags:
 - ritual-and-routine
 title: 每个潮州人自带一座茶馆：功夫茶中的生活哲学与文化韧性
 ---
-
 ### 茶，是潮州人的日常仪式
 
 我是一个写作者，叫陈思呈，祖籍潮州。虽然我现在生活在广州，但我的身份认同里，最核心的一条是：我是一个潮州人。提到潮州人，外界常贴上“贤惠”之类的标签，但这些我都不太符合。唯一让我感到自己真正属于这个群体的，是喝茶——准确地说，是喝功夫茶。

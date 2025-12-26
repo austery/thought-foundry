@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-08-09'
@@ -13,8 +13,7 @@ people:
 - stella-an
 - marxism
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d9PpP8Y-oAg
 speaker: 安争鸣（Stella An）
@@ -26,7 +25,6 @@ tags:
 - state
 title: 《福利大博弈》：欧洲福利制度源于阶级妥协，而非马克思主义
 ---
-
 ### 对“福利国家源于马克思主义”的错误认知
 
 最近，我看到一种令人啼笑皆非的观点，声称欧洲的福利国家制度是以马克思主义理论为基础发展而来，是马克思主义的胜利。这种颠倒黑白的程度，不亚于说“希特勒建立集中营是为了保护犹太人”。如果说欧洲的福利国家制度是在批判马克思主义的基础上发展起来的，或许还稍微沾点边。

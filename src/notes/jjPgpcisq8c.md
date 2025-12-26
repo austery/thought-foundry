@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 高盛
@@ -16,10 +16,7 @@ people:
 - Jerome Powell
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jjPgpcisq8c
 speaker: 美投讲美股
@@ -34,7 +31,6 @@ tags:
 - us-stock-market
 title: 下半年美股投资展望：政策转向、通胀挑战与AI机遇深度解析
 ---
-
 ### 下半年美股市场展望：机遇与风险并存
 
 美股不是华尔街的专利。前不久，**美股**（US Stocks: 美国股票市场）灾难性的**闪崩**（Flash Crash: 短时间内股价急剧下跌）还历历在目，转眼间股市就已经快要再创新高了。抓住这波机会的人赚得盆满钵满，然而也有不少人因为市场涨得太快，仍然没有找到入场机会。不过没关系，无论你是哪一种投资者，下半年的美股市场注定都将给你更多的机会。为什么这么说呢？在本期视频中，美投君将带大家全面了解下半年的美股市场。我在年初的2025年全年投资展望中提到，上半年的美股走势基本是按照我们的预测剧本发展的。那么下半年会如何呢？我将从政策、通胀、经济、企业盈利、**美联储**（The Fed: 美国联邦储备系统，负责制定货币政策）等多个角度，为大家深度解读美股市场，让你全方位了解到下半年的市场机会以及市场风险。相信看完本期视频，你就可以安心掌控下半年的美股投资了。

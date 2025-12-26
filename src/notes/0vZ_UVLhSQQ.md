@@ -12,8 +12,7 @@ layout: post.njk
 products_models:
 - Claude
 - Claude Sonnet
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0vZ_UVLhSQQ
 speaker: Anthropic
@@ -27,7 +26,6 @@ tags:
 - tool
 title: Claude.ai 入门指南：您的智能协作伙伴
 ---
-
 ### 拥抱智能协作：Claude 简介
 
 想象一下，你正面对一张空白页面，为一个复杂的大项目绞尽脑汁，却不知从何开始。如果有一个伙伴能帮助你将其分解，那该多好？

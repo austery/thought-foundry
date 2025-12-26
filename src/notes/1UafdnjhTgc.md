@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Stellantis
@@ -16,10 +16,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Jeep Compass
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1UafdnjhTgc
 speaker: TVO Today
@@ -33,7 +30,6 @@ tags:
 - relations
 title: 加拿大汽车工业的十字路口：拥抱中国电动汽车产业的机遇与挑战
 ---
-
 ### 加拿大与Stellantis的争议
 
 联邦政府正在挑战**Stellantis**（一家跨国汽车制造商）将其Jeep Compass车型的生产线南迁的决定。加拿大是否应该超越传统的“三大”汽车制造商，转而拥抱中国日益崛起的汽车产业呢？

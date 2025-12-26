@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-11-13'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - 《谁来决定吃什么》
 products_models: []
-project:
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LMFsy7mWVk4
 speaker: 一席YiXi
@@ -25,7 +24,6 @@ tags:
 - work-life-balance
 title: 被预制的不只食物，还有我们的生活：陈宇慧谈现代社会与烹饪的连接
 ---
-
 ### 从产品经理到美食博主：田螺姑娘的厨房情缘
 
 大家好，我叫陈宇慧，网上有很多人叫我田螺，就是田螺姑娘的那个田螺。这是一个在现在的语境里面听起来可能没有那么女性主义的名字。我其实是在2008年毕业，然后独立生活之后，给自己取了这个网名。那会儿我在互联网公司工作，做一名普通的**产品经理**（Product Manager: 负责产品规划和设计的人员）。工作很忙，然后下班也挺晚的，但是我会在网上用田螺姑娘这个名字发表一些我做的菜。比起每天在公司吃外卖来说，我会希望省点钱，然后吃得也更加健康，更加适合自己的口味一点。谁不想自己家里有个田螺姑娘呢？可是神话是神话，现实是现实，我只能自己做自己的田螺。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 腾讯
@@ -19,10 +19,7 @@ people:
 - 查理·芒格
 products_models:
 - CDS
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pFdgMKMaP64
 speaker: Shijun Tang
@@ -36,7 +33,6 @@ tags:
 - strategy
 title: 腾讯、华纳与飞塔：三巨头财报背后的资本逻辑与投资哲学
 ---
-
 ### 腾讯：游戏帝国的无脑护城河
 
 腾讯并非一家依赖创新的公司，而是一家通过资本并购构建坚不可摧护城河的“游戏之王”。其业务结构清晰，游戏、广告与金融服务三大板块中，游戏贡献了约50%的营收。其核心策略是“零创新、全靠买”——通过全资或控股收购全球顶级游戏开发商，形成难以复制的生态垄断。

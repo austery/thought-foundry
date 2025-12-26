@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - SpaceX
@@ -17,8 +17,7 @@ products_models:
 - Raptor engine
 - Falcon 9
 - Starlink
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o3gUUjDHkho
 speaker: 海伦子Hellen
@@ -33,7 +32,6 @@ tags:
 - vertical-landing
 title: 星舰第四次试飞：再入大气层与垂直着陆的关键突破
 ---
-
 ### 星舰第四次试飞：里程碑式的成功
 
 星舰刚刚完成了它的第四次试飞，这是目前为止最成功的一次。无论是**助推器**（Super Heavy: 星舰的第一级火箭），还是**星舰二级**（Starship: 星舰的第二级飞船），都完成了一次完整的飞行。这里所谓的完整飞行，包含了两个此前难以攻克的关键点：一是成功**再入大气层**，二是在空中翻转后实现**垂直着陆**。这也是星舰试飞以来首次同时做到这两点。

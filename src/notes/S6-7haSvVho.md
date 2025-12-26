@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Meta
@@ -21,10 +21,7 @@ people:
 - Sam Altman
 products_models:
 - Facebook Marketplace
-project:
-- entrepreneurship
-- systems-thinking
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S6-7haSvVho
 speaker: 课代表立正
@@ -38,7 +35,6 @@ tags:
 - strategy
 title: Meta电商失败史：从B2C到C2C的战略转型与增长洞察
 ---
-
 ### Meta电商B2C模式的失败与教训
 
 大家好，书接上回，我希望今天能将Marketplace的这个系列完结，也许之后还会有一个收尾。今天我将跟大家分享我们是如何实现26倍的营收（**top line**）增长，以及这背后的前因后果、我们做了什么，以及我在这中间有什么体会。这期内容可能对技术同学，或者想了解大厂业务的人有所帮助，因为这是我对大厂业务的第一次开窍，觉得增长的体感非常重要。

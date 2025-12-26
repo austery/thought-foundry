@@ -1,13 +1,12 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 date: '2023-07-15'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fLONEYM5Aj8
 speaker: 莊也雜談
@@ -21,7 +20,6 @@ tags:
 - travel
 title: 班夫美景深度游（一）：小镇及周边景点全攻略
 ---
-
 ### 班夫系列前瞻与安全提示
 
 大家好，我是庄野，欢迎收看庄野杂谈加拿大系列节目。今天我们继续聊班夫，这是班夫系列的第四集，也是庄野杂谈的第145集。如果您还没有看过班夫系列的前三集（庄杂141、142和143），我建议您最好先回顾一下，再观看今天的节目会感觉比较流畅。

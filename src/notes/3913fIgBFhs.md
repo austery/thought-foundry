@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TED
@@ -9,10 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3913fIgBFhs
 speaker: TED
@@ -26,7 +23,6 @@ tags:
 - right
 title: 欧洲极右翼政治崛起：超越移民议题的深层原因与应对策略
 ---
-
 ### 欧洲极右翼的崛起及其普遍性
 
 欧洲各地，**极右翼**（Far Right: 指政治光谱中偏向极端民族主义、保守主义或威权主义的政治势力）正在崛起。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Bloomberg Audio Studios
@@ -45,9 +45,7 @@ products_models:
 - DeepMind
 - Chat GPT
 - Figma
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0pbpIhBfoF8
 speaker: Bloomberg Podcasts
@@ -61,7 +59,6 @@ tags:
 - war
 title: AI人才争夺战：科技行业如何演变为“职业体育”模式
 ---
-
 ### AI人才争夺战：高薪与行业“体育化”
 
 **Joe Weisenthal:** 大家好，欢迎收听《OddLots》播客的又一期节目，我是Joe Weisenthal。

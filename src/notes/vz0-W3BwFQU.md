@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -15,9 +15,7 @@ people:
 products_models:
 - Cloud Code
 - MCP
-project:
-- ai-impact-analysis
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vz0-W3BwFQU
 speaker: AI超元域
@@ -31,7 +29,6 @@ tags:
 - system
 title: Antigravity + Cloud OP 4.5 实测：重构智能体与零开发宠物领养平台MVP
 ---
-
 ### Antigravity 与 Cloud OP 4.5 的集成背景
 
 谷歌近期在其AI编程助手Antigravity中，正式加入了对Cloud OP 4.5模型的支持。这一更新对大量因使用Cloud Code而遭遇封号的开发者而言具有重大意义。许多用户在注册Cloud官方账号后，往往在一天内就被限制访问，导致无法使用其核心AI编码能力。Antigravity的介入，使得开发者可以在不依赖被封禁的Cloud Code平台前提下，直接通过Antigravity调用Cloud OP 4.5模型，执行复杂的编程任务。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 天主教会
@@ -27,9 +27,7 @@ people:
 - Sigmund Freud
 - Michel Foucault
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1ToiYrT9FBw
 speaker: 超級歪 SuperY
@@ -42,7 +40,6 @@ tags:
 - society
 title: 笛卡儿《沉思录》深度解析：心物二元论、上帝存在与近代科学的起源
 ---
-
 ### 引言：笛卡儿《沉思录》的未解之谜
 
 哲学令人心旷神怡，每一集都将带你认识一位哲学思想家。在上一期视频中，我们介绍了笛卡儿《沉思录》的前三篇沉思。本集我们将继续探索后三篇沉思，处理上一集遗留的问题：如果上帝存在，他为何创造会犯错误的人类？上帝存在的证明是否存在循环论证，是否有更好的证明？“我思”这一精神实体与我的身体之间究竟是什么关系？

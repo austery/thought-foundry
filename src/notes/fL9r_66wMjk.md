@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 笑果文化
@@ -39,10 +39,7 @@ people:
 - Lu Xun
 products_models:
 - Minecraft
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fL9r_66wMjk
 speaker: 張内咸
@@ -58,7 +55,6 @@ tags:
 - us-china-relations
 title: 张内咸：从地缘政治到中国喜剧，一个格格不入者的清明节随想
 ---
-
 ### 地缘政治的“幼儿园吵架”与普通人的困境
 
 大家好，我是张内咸，又见面了。最近整个中文世界都鸡飞狗跳的，因为美国前总统特朗普宣布对美国一百多个贸易伙伴国家征收关税，其中对中国商品额外加征34%的关税，这样一来，中国商品出口美国的关税累积达到54%。紧接着，中国公布多项反制措施，对美国也增加了34%的报复性关税。结果白宫一怒之下对中国又加征了50%的关税，美国对华关税直接飙升到了104%。中国政府表示奉陪到底，对美国进口商品加征84%的关税。短短几天之内，中美两个超级大国一惊一乍的，把国际政治舞台变成了幼儿园小朋友吵架，让全世界看得目瞪口呆。

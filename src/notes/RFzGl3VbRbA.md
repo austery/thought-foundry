@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -10,8 +10,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RFzGl3VbRbA
 speaker: Norges Bank Investment Management
@@ -25,7 +24,6 @@ tags:
 - portfolio-management
 title: 挪威银行投资管理公司投资经理的一天：从法律到金融的转型之路
 ---
-
 ### 从法律到金融的职业转型
 
 我决定学习法律，因为我认为法律是为聪明人准备的，而我是一个聪明的女孩，这就是我想做的事情。

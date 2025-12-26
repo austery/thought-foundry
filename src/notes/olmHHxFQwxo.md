@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -23,8 +23,7 @@ products_models:
 - GPT-4
 - AlphaFold
 - iPhone
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=olmHHxFQwxo
 speaker: Dwarkesh Patel
@@ -37,7 +36,6 @@ tags:
 - technology
 title: 乔治·丘奇谈生物科技的指数级增长、AI融合与未来挑战
 ---
-
 今天，我非常荣幸能采访到**乔治·丘奇**（George Church）。我不知道该如何介绍您。这绝非夸张，老实说，列出过去几十年里您没有参与的生物学重大突破，反而会更容易——从**人类基因组计划**（Human Genome Project）到**CRISPR**（Clustered Regularly Interspaced Short Palindromic Repeats: 一种基因编辑技术），从逆转衰老到去灭绝。所以，准备这次采访对我来说并不容易。
 
 ### 寿命“逃逸速度”的预测

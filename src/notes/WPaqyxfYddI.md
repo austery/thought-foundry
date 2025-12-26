@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 世界卫生组织
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《繁花》
 products_models: []
-project:
-- historical-insights
-- ai-impact-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WPaqyxfYddI
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - technology
 title: 从失败实验到砒霜奇迹：科学思维如何重塑癌症治疗
 ---
-
 ### 科学的失败，是通往诺奖的路
 
 大家下午好，我是李治中，大家可以叫我菠萝。我是一个癌症生物学家，也是一个科普作家。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - World Trade Organization
@@ -22,10 +22,7 @@ people:
 - Javier Milei
 - Vladimir Putin
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VLfcp9Tn02M
 speaker: LT視界
@@ -39,7 +36,6 @@ tags:
 - us-china-relations
 title: 中美框架协议提振全球市场，米莱胜选巩固改革，世贸组织肯定川普贸易政策
 ---
-
 ### 中美框架协议提振全球市场
 
 全球市场在唐纳德·川普和习近平会谈前普遍上涨。正如多数网友预期的那样，周末中美两国在马来西亚达成了框架协议，这极大地鼓舞了全球资本市场。周一，全球市场的投资者用他们的交易行为对中美达成协议表达了热烈的祝贺，全球市场一片欢腾。这种市场感性反应，很难用立场、主义或道德来定义，它反映了市场投资者最直接的感受。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 央视
@@ -18,9 +18,7 @@ people:
 - 温家宝
 - 孔子
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_cekUfCopMs
 speaker: 柴静 Chai Jing
@@ -36,7 +34,6 @@ tags:
 - technology
 title: 真实自有万钧之力：柴静的十年中国观察与媒体反思
 ---
-
 ### 引言：真实的力量与被禁的《看见》
 
 在采访了国共内战的幸存者高平海先生后，我的书《看见》在大陆被禁。这件事情并未让我感到意外，因为高先生的节目中已经谈及了政治的逻辑和历史的必然性。一本十二年前出版、已印刷数百万册的书被禁，这个结果也未让我感到愤怒或悲哀。我的第一反应是一种力量感。高先生的节目中谈论的是人心，他反思战争的残酷，思念母亲和故土，正是这样的感情在两岸的许多普通人当中引起了强烈的共鸣。这种感情是无形的，但它有**万钧之力**（万钧之力: 形容力量巨大，势不可挡）。

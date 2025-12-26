@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Deloitte
@@ -28,10 +28,7 @@ people:
 - Hannah Arendt
 - 庄子
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YKVhaDrkhb4
 speaker: 超級歪 SuperY
@@ -45,7 +42,6 @@ tags:
 - philosophy
 title: 躺平思潮千年回响：从庄子到梭罗，无所事事如何反抗资本主义？
 ---
-
 ### 引言：躺平哲学的现代回响
 
 上次我们探讨了年轻人选择**躺平**（Lying Flat: 一种面对社会压力选择低欲望、低消费、不奋斗的生活态度）的原因，引发了观众的热烈反响。今天，我们将深入探讨斯坦福大学艺术家珍妮·奥德尔（Jenny Odell）的著作《如何无所事事》，来学习如何实践“躺平”哲学。本书的前半部分将阐述“躺平”的哲学思想，以及如何逃离资本主义的**注意力经济**（Attention Economy: 资本主义通过争夺用户注意力来获取商业利益的模式）；后半部分则教导我们如何将注意力从经济活动转向生态共存和社区连接，从而实现对资本主义的抵抗。

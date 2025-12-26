@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -22,9 +22,7 @@ people:
 - Donald Trump
 - Xi Jinping
 - Scott Bessant
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9_6vFlkeQws
 speaker: New York Times Podcasts
@@ -38,7 +36,6 @@ tags:
 - society
 title: NBA赌博丑闻：黑手党、内幕交易与体育诚信危机
 ---
-
 ### NBA赌博丑闻震惊体育界
 
 我是《纽约时报》的娜塔莉·基特鲁夫，这里是《每日》节目。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -17,9 +17,7 @@ people:
 - Nikolai
 products_models:
 - SharePoint
-project:
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3nvNQEVATdc
 speaker: Norges Bank Investment Management
@@ -33,7 +31,6 @@ tags:
 - technology
 title: 挪威主权财富基金的沟通策略转型：从封闭到开放
 ---
-
 ### 沟通策略的演变：从封闭到开放
 
 非常高兴今天能看到这么多人在清晨聚集于此。今天，我们挪威主权财富基金（**Oljefondet**：挪威政府为未来世代设立的全球最大主权财富基金）的沟通团队将带领大家回顾我们走过的这段旅程。五年前，我们还是一家封闭且傲慢的机构。如今，我们变得开放，并且我希望也变得不那么傲慢了。今天大家将听到的是关于这段旅程的讲述。我还没有看到具体议程，因为他们说这是秘密文件，尽管我们对许多事情都持开放态度，但我本人却看不到议程。

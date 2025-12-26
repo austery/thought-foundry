@@ -12,8 +12,7 @@ media_books:
 people:
 - trump
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cbuAFUxSHoA
 speaker: Bloomberg Podcasts
@@ -24,7 +23,6 @@ tags:
 - inflation
 title: Ken Griffin 深度解读：特朗普政策、人工智能浪潮与经济前景
 ---
-
 ### 特朗普政府政策对美国经济的激发作用
 
 市场目前看到了特朗普政府在美国投资和企业中激发出的热情。本届政府正努力促进美国经济增长，推行一系列旨在推动美国重新工业化的政策。他们的确对美国的繁荣抱有强烈的兴趣，这种兴趣在过去几年的政府中是罕见的。特朗普政府高度重视美国工人的成功，许多正在实施的政策都是为了让普通美国家庭的生活更美好、工作更顺利。这种背景激发了我们在美国市场看到的大部分热情。此外，一项财政和货币刺激计划正在实施，这符合经济衰退期间应有的措施。当前，在商业周期的数年内，我们正处于接近充分就业的时期，这表明美国经济正处于亢奋状态。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Wharton School
@@ -11,9 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XcBPpeWqlfg
 speaker: Norges Bank Investment Management
@@ -27,7 +25,6 @@ tags:
 - organizational-resilience
 title: 危机领导力：从灾难中崛起，构建韧性文化
 ---
-
 ### 历史的教训：互联网泡沫与安然事件
 
 回想1999年到2000年，在美国发生了一些非常有趣的事情。

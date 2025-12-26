@@ -46,8 +46,7 @@ products_models:
 - GPT-5.2
 - GPT-5.1
 - AGI
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hcPMYEYDCpc
 speaker: FearNation 世界苦茶
@@ -59,7 +58,6 @@ tags:
 - supply-chain
 title: 中国芯片自主之路：黄仁勋的考量、供应链博弈与国家战略
 ---
-
 ### 中国芯片战略
 
 晚上好，各位观众。今天我们来谈谈芯片问题，我将给那些对中国芯片发展过于乐观的看法泼一盆冷水。首先，大家需要搞清楚两个概念：一个是**先进芯片**（Advanced Chips: 指采用更小制程工艺，性能更强的芯片，如7纳米及以下），另一个是**成熟制程芯片**（Mature Process Chips: 指采用较大制程工艺，技术相对成熟，成本较低的芯片，如90纳米及以上）。

@@ -24,10 +24,7 @@ people:
 products_models:
 - iPhone
 - Truth Social
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FevJ4EK0exo
 speaker: Bloomberg Podcasts
@@ -39,7 +36,6 @@ tags:
 - leading-economic-indicator
 title: 从阿拉斯加透视美国经济：旧金山联储主席戴利深度解析通胀、关税与AI浪潮
 ---
-
 ### 为什么是阿拉斯加？
 Tracy：大家好，欢迎收听新一期的 Odd Lots 播客。我是 Tracy Alloway。
 

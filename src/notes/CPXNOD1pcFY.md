@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - SEC
@@ -12,10 +12,7 @@ products_models:
 - TQQQ
 - QQQ
 - ChatGPT
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CPXNOD1pcFY
 speaker: 美投讲美股
@@ -28,7 +25,6 @@ tags:
 - speculative-trading
 title: 揭秘TQQQ：三倍杠杆ETF的真相与风险
 ---
-
 ### TQQQ的诱惑与监管警告
 
 大家好，我是美投君，你们的美股探路者。视频一开始，我想先给大家看一张图，这是**TQQQ**（3倍纳斯达克100指数ETF: 一种旨在提供纳斯达克100指数每日三倍收益的杠杆交易型开放式指数基金）的股价表现。那条矮一点的浅蓝色线，则是我们熟悉的**QQQ**（纳斯达克100指数ETF: 追踪纳斯达克100指数表现的交易型开放式指数基金）的表现。不知道大家看到这张图时有何感受？

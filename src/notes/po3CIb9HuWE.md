@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -30,10 +30,7 @@ people:
 - JD Vance
 - Donald Trump
 - Joe Biden
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=po3CIb9HuWE
 speaker: TVO Today
@@ -47,7 +44,6 @@ tags:
 - tech-political-influence
 title: 科技亿万富翁如何重塑美国政治？
 ---
-
 ### 科技寡头对美国政治的影响
 
 美国的科技寡头们非常富有，其中许多人也对“**觉醒心智病毒**”（woke mind virus: 指在社会正义和身份政治议题上过度敏感或激进的思潮）、监管和民主感到非常愤怒，他们正在利用其非凡的财富和权力，试图让世界反映他们的愿景。

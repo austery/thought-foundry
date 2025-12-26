@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TED
@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PNoQzQwbTFU
 speaker: TED
@@ -24,7 +22,6 @@ tags:
 - newborn-consciousness
 title: 新生儿的意识之谜：科学如何揭示婴儿内心世界
 ---
-
 ### 踏入新世界：新生儿的感知体验
 
 你在一片全新的世界中醒来。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - New York Times Podcasts
@@ -27,10 +27,7 @@ people:
 - Marian Lozano
 - Diane Wong
 - Cliff Levy
-project:
-- us-analysis
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o0eKk7Jq8s4
 speaker: New York Times Podcasts
@@ -43,7 +40,6 @@ tags:
 - tariff
 title: 关税如何影响今年的节日购物季？
 ---
-
 ### 关税对节日购物的“千刀万剐”效应
 
 这就像是**千刀万剐**（death by a thousand cuts: 指一系列小而累积的负面事件最终导致重大失败或损害）。可能这里多了几美元，那里多了几美元，你在购物时可能根本不会注意到。然而，当你累计计算你总共花了多少钱时，你可能会想：“这些钱都去哪儿了？”

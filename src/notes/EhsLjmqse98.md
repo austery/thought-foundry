@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -19,9 +19,7 @@ people:
 - Richard Nixon
 products_models:
 - CPI
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EhsLjmqse98
 speaker: Bloomberg Podcasts
@@ -35,7 +33,6 @@ tags:
 - us-economic-datum
 title: 特朗普将美国经济数据政治化：劳工统计局局长被解雇后的信任危机
 ---
-
 ### 播客开场与就业报告的冲击
 
 [音乐]

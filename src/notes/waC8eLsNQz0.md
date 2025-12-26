@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 国民政府
@@ -18,9 +18,7 @@ people:
 - 陈立夫
 - 章太炎
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=waC8eLsNQz0
 speaker: 壽司坦丁 Sociostanding
@@ -34,7 +32,6 @@ tags:
 - scientific
 title: 中医科学化之路：从“废止旧医”到“辨证论治”的百年演变
 ---
-
 ### 现代化浪潮下的中医困境与国民政府的挑战
 
 1927年初，中国国家场域出现了一个强烈的挑战者：发起**北伐**（Běifá: 国民革命军推翻北洋政府、统一中国的军事行动）的**国民政府**（Guómín Zhèngfǔ: 1925年成立，由国民党领导的中华民国政府）已经控制了长江中下游以南地区。北伐不仅仅是军事行动，为了与“万恶的卖国军阀”做出区隔，并为战争和新政府提供正当性，**国民党**（Guómíndǎng: 中国近代政党，由孙中山创立）在过程中策划了海量的文宣和群众运动。不少学者认为，这是国民革命军能博得百姓支持、吸收军阀部队，并最终快速取胜的关键。

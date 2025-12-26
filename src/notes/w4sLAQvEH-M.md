@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 date: '2021-06-16'
 draft: true
@@ -8,8 +8,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=w4sLAQvEH-M
 speaker: veritasium
@@ -23,7 +22,6 @@ tags:
 - rate
 title: 进化在行动：世界运行时间最长的细菌进化实验
 ---
-
 ### 进化在行动：抗生素抗性与长期实验的序章
 
 这些细菌正在不断适应浓度越来越高的抗生素环境。当它们遇到第一条抗生素带时，细菌停止生长，但随后出现了一个能够在抗生素中存活的突变体。接着，又发生了另一次突变，现在这些细菌能够承受十倍浓度的抗生素，然后是一百倍，最终，在仅仅11天的进化之后，这些细菌能够存活于比最初能杀死它们的抗生素强一千倍的环境中。你正在亲眼目睹进化的过程。

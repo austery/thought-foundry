@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times Book Review
@@ -49,7 +49,6 @@ tags:
 - history
 title: 书评人畅谈2025年度阅读体验：精华书单与深度洞见
 ---
-
 ### 书评人畅谈2025年度阅读体验
 
 我是《纽约时报》书评编辑吉尔伯特·克鲁兹（Gilbert Cruz），欢迎收听本期书评播客。上周，我们回顾了年度十大好书。本周，我们将带来同样精彩的内容：我们的特约书评人将分享他们2025年度的阅读历程。

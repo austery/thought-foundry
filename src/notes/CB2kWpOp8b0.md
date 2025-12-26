@@ -25,9 +25,7 @@ products_models:
 - Siri
 - Facebook
 - Twitter
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CB2kWpOp8b0
 speaker: TVO Today
@@ -41,7 +39,6 @@ tags:
 - time-management
 title: AI教练Viv：在数字时代探索人生意义与人性边界
 ---
-
 ### 播客开场：AI教练Viv与主持人Alexandra Samuel
 
 Viv: 嘿，Alex。我能问个问题吗？

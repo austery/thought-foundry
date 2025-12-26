@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Alibaba
@@ -35,10 +35,7 @@ products_models:
 - 通义千问
 - DeepSeek
 - 豆包
-project:
-- china-analysis
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rjEEHiPUyIA
 speaker: 小翠時政財經
@@ -52,7 +49,6 @@ tags:
 - risk
 title: 中国科技巨头财报解析、银行直供房风险与全球市场动态：流动性、AI估值及投资策略
 ---
-
 ### 市场概览与中国股市表现
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月18日。今天大家是不是上不了X、Facebook等很多应用？据说**Cloudflare**（CDN服务商: 提供网络安全和性能优化的公司）坏掉了。之前马斯克刚当过“鸡”，最近这些云厂商好像一家家都出现了问题，是压力太大，股市遭受打压吗？

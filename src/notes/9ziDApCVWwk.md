@@ -20,10 +20,7 @@ layout: post.njk
 people:
 - Jerome Powell
 - Austan Goolsbee
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9ziDApCVWwk
 speaker: 视野环球财经
@@ -35,7 +32,6 @@ tags:
 - us-stock-market
 title: 美股高开低走引恐慌？历史数据揭示反弹潜力与市场脆弱性
 ---
-
 ### 市场概览与历史回溯
 
 大家好，欢迎回到视野环球财经。现在是美东时间2025年11月20日周四晚上的8点25分。今天的市场呈现高开后被大幅抛售的态势，其中**费城半导体指数**（Philadelphia Semiconductor Index: 衡量半导体行业表现的股票指数）的30只成分股全军覆没。跌幅最少的成分股是**台积电**（TSMC），下跌1.7%；跌幅最大的**美光**（Micron Technology）则下跌了10%。今天的科技股和权重股集体走弱，拖累**纳指**（Nasdaq Composite: 衡量科技股为主的股票市场表现的指数）跌幅超过2%，而**标普**（S&P 500: 衡量美国500家大型上市公司股票表现的指数）也下跌了1.56%。

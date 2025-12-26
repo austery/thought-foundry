@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -18,9 +18,7 @@ people:
 products_models:
 - GPT-5
 - Qwen
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lLMEtL3PVj4
 speaker: Best Partners TV
@@ -34,7 +32,6 @@ tags:
 - technology
 title: Thinking Machines Lab新作：在线策略蒸馏，赋能小模型专家级能力
 ---
-
 ### 引言：小模型专家化与在线策略蒸馏
 
 如何让小模型在特定领域也能达到大模型的专家水平，这是当前AI行业中的一个核心痛点。Thinking Machines Lab最新发布的技术文章——**在线策略蒸馏**（On-Policy Distillation: 一种将强化学习的纠错相关性与监督微调的奖励密度相结合的训练方法），恰好就是解决这个问题的关键。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Health Canada
@@ -14,8 +14,7 @@ people:
 - Nam Kiwanuka
 products_models:
 - AI
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nrED-HeLRw8
 speaker: TVO Today
@@ -29,7 +28,6 @@ tags:
 - strategy
 title: 女性健康与经济：加拿大370亿加元的机遇与挑战
 ---
-
 ### 女性健康与经济的深度关联
 
 您正在收听《(MIS)Treated》节目，我是Nam Kiwanuka。去年十月，**McKenzie健康研究所**（McKenzie Health Institute: 一家致力于健康研究和分析的机构）发布了一项分析报告，指出女性健康与职场生产力之间存在深刻的相互关联。

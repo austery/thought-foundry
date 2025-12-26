@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -30,10 +30,7 @@ people:
 - Kathleen Wynne
 - Pierre Poilievre
 - Mike Harris
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ooF6D5g8Abo
 speaker: TVO Today
@@ -46,7 +43,6 @@ tags:
 - relations
 title: 安大略省秋季经济报告与联邦预算：加拿大各省财政与政治博弈
 ---
-
 ### 播客开场与蓝鸟队的世界大赛之旅
 
 **Steve Pacen:** 大家好，欢迎收听 OnPaly 播客。我是 Steve Pacen。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Canva
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Lenny’s Podcast
-project:
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=quwaZPVMG9M
 speaker: Best Partners TV
@@ -28,7 +26,6 @@ tags:
 - thinking
 title: Canva的创业之路：从百次拒绝到420亿美元估值，梅兰妮·珀金斯的长期主义与B栏思维
 ---
-
 ### Canva的崛起：从百次拒绝到设计巨头
 
 今天，我们将探讨一个从被100多个投资人拒绝，到估值超过420亿美元的创业故事。这个故事的主角是**Canva**（Canva: 一个在线设计平台）的联合创始人兼CEO**梅兰妮·珀金斯**（Melanie Perkins: Canva的联合创始人兼CEO）。许多朋友可能每天都在使用Canva制作海报、剪辑视频、设计**PPT**（PowerPoint: 微软公司开发的演示文稿软件），但很少有人知道，这家现在拥有2.4亿**月活用户**（Monthly Active Users: 每月至少活跃一次的用户数量）、年收入超过30亿美元，并能连续八年保持盈利的公司，早期曾经历过两年技术重写期，完全无法发布新功能的绝境。甚至，Canva最初的业务方向也不是设计工具，而是一个**年鉴出版平台**（Yearbook Publishing Platform: 专门用于制作和出版学校年鉴的在线平台）。

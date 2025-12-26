@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - nvidia
@@ -11,8 +11,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hFXU7FkdaeY
 speaker: Bloomberg Podcasts
@@ -25,7 +24,6 @@ tags:
 - regulation
 title: xAI融资200亿美元，英伟达等巨头加码；传统广播业与流媒体监管之辩；科技巨头加速AI布局
 ---
-
 ### xAI融资动态与英伟达的角色
 
 Bloomberg Audio Studios podcasts radio news. You're listening to the Bloomberg Intelligence Podcast. Catch us live weekdays at 10 a.m. Eastern on Apple CarPlay and Android Auto with the Bloomberg Business App. Listen on demand wherever you get your podcasts or watch us live on YouTube.

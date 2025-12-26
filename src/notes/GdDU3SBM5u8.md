@@ -27,10 +27,7 @@ people:
 - Xi Jinping
 - 邓小平
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GdDU3SBM5u8
 speaker: 張内咸
@@ -43,7 +40,6 @@ tags:
 - strategy
 title: 李嘉诚的第三张牌：97岁高龄如何洞察全球变局与逆全球化浪潮
 ---
-
 ### 中文YouTube生态与内容创作困境
 
 最近，我做这个账号有一些感想。最初的计划是做娱乐属性的内容，因为我毕竟是导演，是影视行业的资深从业人员，按说聊娱乐才是我分内的事。结果没想到，YouTube上**简中区**（简体中文区: 指YouTube上使用简体中文内容的区域）的整体气氛太严肃了，基本上全是政治、政治、政治，要不就是教你怎么赚钱、怎么洗钱、怎么移民、怎么“润”，娱乐内容根本没人看。这跟YouTube的整体氛围是相反的，YouTube有28亿用户，其中66%是英语内容，主要的流量都来自于娱乐、教育、生活方式，新闻政治类的内容反而是关注度最低的一个类别，看的人很少。

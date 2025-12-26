@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - 比亚迪
@@ -12,10 +12,7 @@ insight: ''
 layout: post.njk
 people:
 - 王传福
-project:
-- china-analysis
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Wnwj-e_OK0g
 speaker: 小翠時政財經
@@ -29,7 +26,6 @@ tags:
 - management
 title: 比亚迪深陷困境：财报揭示利润下滑、库存激增与扩张风险
 ---
-
 作为长期唱衰比亚迪的海外观察者，我一直受到国内各路支持者的批评。然而，如果审视比亚迪刚刚发布的三季度财报，便不难理解为何今年中国股市表现良好，比亚迪股价却停滞不前。本文将深入解读比亚迪的这份财报，相信读者会认同比亚迪正面临严峻挑战，其未来发展存在诸多不确定性。
 
 ### 财报数据：营收与利润双双承压

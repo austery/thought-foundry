@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-08-09'
@@ -13,10 +13,7 @@ media_books:
 people:
 - 项飙
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4peiChtXkjo
 speaker: 一席YiXi
@@ -30,7 +27,6 @@ tags:
 - work
 title: 在工厂与外卖之间：一个打工者二十二年的灵魂挣扎
 ---
-
 ### 打工二十二年：从工厂到外卖的循环人生
 
 我叫张赛，初中毕业后开始打工，今年是第22年。家里条件不好，哥哥没读完初中就去打工了。我之所以多念了两年书，是因为当时个子太矮——不到一米五，父亲希望我“多长长个子”。五年初中读完，2003年，16岁的我终于去了南方晋江，投奔在树脂厂工作的哥哥。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Alibaba
@@ -30,10 +30,7 @@ people:
 products_models:
 - 通义千问
 - Snowflake
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-YAVSO_kVJ4
 speaker: Shijun Tang
@@ -47,7 +44,6 @@ tags:
 - market-efficiency
 title: 阿里巴巴暴涨52%背后的转型逻辑：阿里云、电商重组与资本配置的深层分析
 ---
-
 ### 阿里巴巴股价暴涨52%：从破产恐惧到战略重估
 
 阿里巴巴最近两天跳空高开，股价一度站上109.43美元。你还认为阿里是一家即将破产的公司吗？我从2022年4月7日开始建仓，当时股价是100美元。在接下来的901天里，我从100美元一路买到了58美元。2022年10月24日，阿里股价跌至58.01美元，而我买入的最低价是62美元。很多人嘲讽我说：“你100建仓，跌到58都腰斩了，还好意思做内容？”但实际情况并非如此——我不是一次性买入，而是分多次逐步建仓。随着股价下跌，我的平均成本被不断拉低。目前我的持仓均价为77.28美元，股价上涨至109.43美元后，我的仓位涨幅已超过52%。期间阿里还派发了3%的股息，综合回报接近55%。

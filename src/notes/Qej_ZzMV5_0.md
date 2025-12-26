@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TED
@@ -10,9 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Qej_ZzMV5_0
 speaker: TED
@@ -26,7 +24,6 @@ tags:
 - self
 title: 好人为何会变成坏老板？揭秘权力盲点与自我反省之道
 ---
-
 ### 坏老板的普遍困境
 
 潔美‧伍爾夫：在我得知我需要接受手术的那一天，才意识到我那时的老板真的很糟。那时我二十六岁，被告知这项手术可能会让我将来无法生孩子。我身心交瘁，但我心中最强烈的情绪，反而是一股兴奋感，因为接受手术表示我可以远离我老板五个星期，这个老板让我的人生很悲惨。先说清楚，我现在有两个很棒的孩子，而我今天会在这里，部分原因是他们比一般人遇到更多烂老板，且他们的职涯才刚开始。

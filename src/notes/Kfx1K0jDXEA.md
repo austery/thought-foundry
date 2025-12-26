@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Norges Bank
@@ -18,10 +18,7 @@ media_books:
 people:
 - Kristin Halvorsen
 - Nikolai
-project:
-- geopolitics-watch
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Kfx1K0jDXEA
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - strategy
 title: 挪威主权财富基金：三位前财政部长共话基金的过去、现在与未来
 ---
-
 ### 挪威主权财富基金的诞生与发展
 
 [音乐]

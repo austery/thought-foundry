@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-03-06'
 draft: true
@@ -28,9 +28,7 @@ people:
 - 牛顿
 - 杨振宁
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g-9da5bcAak
 speaker: 大问题Dialectic
@@ -43,7 +41,6 @@ tags:
 - philosophy
 title: 形而上学：从万物本质到语言界限的哲学追问
 ---
-
 ### 形而上学：一个被误解的哲学核心概念
 
 大家好，欢迎收看大问题Dialectic。本期要探讨的大问题是：形而上学是什么？你听了这个选题可能会觉得，这个问题我们上过中学的人都知道标准答案，那就是形而上学是一种与辩证法相对立的哲学观，形而上学用孤立、静止、片面的眼光看问题。只要把这些词儿一字不落地写在考卷上，这题就得分了！但是，中学课本上对形而上学这个概念的解释，不能说是错，但至少在主流哲学界，或者说在哲学专业的人看来，并不是这么用的。我们学哲学专业的人，不是这么来解释形而上学这个词儿的。

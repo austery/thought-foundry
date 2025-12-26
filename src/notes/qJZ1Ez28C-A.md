@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 date: '2025-03-05'
 draft: true
@@ -14,9 +14,7 @@ people:
 - Richard Feynman
 products_models:
 - NordVPN
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qJZ1Ez28C-A
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - science
 title: 量子力学揭示：万物皆循所有可能路径
 ---
-
 ### 颠覆性的物理学观念：万物皆循所有可能路径
 
 作为一名42岁、一生大部分时间都在研究物理学的人，我必须承认自己曾有一个巨大的误解。

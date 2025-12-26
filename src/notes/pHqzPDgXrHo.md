@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -27,9 +27,7 @@ people:
 - Robert F. Kennedy Jr.
 products_models:
 - Tylenol
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pHqzPDgXrHo
 speaker: New York Times Podcasts
@@ -43,7 +41,6 @@ tags:
 - ukraine-peace-plan
 title: 被泄露的乌克兰和平计划：俄罗斯的影子与泽连斯基的困境
 ---
-
 ### 乌克兰和平计划：俄罗斯的影子与全球哗然
 
 来自《纽约时报》，我是雷切尔·艾布拉姆斯，这里是《The Daily》节目。

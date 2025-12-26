@@ -26,8 +26,7 @@ products_models:
 - VS Code
 - Figma
 - Photoshop
-project:
-- ai-impact-analysis
+project: []
 source: https://www.youtube.com/watch?v=ExLFkG1ny1s
 speaker: ''
 status: evergreen
@@ -40,7 +39,6 @@ tags:
 - technology
 title: AI 编程的进化：从 Copilot 1.0 到 Tree 的 3.0 智能体愿景
 ---
-
 ## 介绍：世界第二大的 AI 编程工具
 
 课代表: Hello 师洋，你好。欢迎来到克莱萝莉（*节目名称*）。我们介绍一下师洋，师洋是 Tree 的负责人。Tree 现在在我的认知里边，是世界第二大的 AI coding 的工具。

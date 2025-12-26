@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-11'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-6-Brq13sB8
 speaker: Bloomberg Podcasts
@@ -24,7 +23,6 @@ tags:
 - war
 title: 2025年彭博屏幕时间：娱乐产业的未来挑战与机遇
 ---
-
 ### 彭博屏幕时间：洞察娱乐产业前沿
 
 《彭博商业周刊》日报的特别版聚焦于近期在洛杉矶举行的“彭博屏幕时间”活动，该活动汇集了定义流行文化下一阶段的大亨、名人和企业家。会议深入讨论了好莱坞电影公司的未来、体育和现场音乐的繁荣，以及人工智能（AI）对创意产业的深远影响。与会者包括演员、制片厂负责人、投资者乃至深夜节目主持人，共同探讨了在复杂多变的经济环境中，如何洞察影响当今娱乐产业的人物、公司和趋势。

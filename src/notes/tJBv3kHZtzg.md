@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-18'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tJBv3kHZtzg
 speaker: 课代表立正
@@ -23,7 +22,6 @@ tags:
 - technology
 title: OpenAI+YC双料冠军分享：黑客马拉松制胜五大干货原则
 ---
-
 ### 开场与嘉宾介绍
 
 主持人: Okay. Uh, well, just wait for another minute and then I'll start. Uh, there's recording. So, uh, if you want to share this with your friend, uh, you probably just joined from Maven the Lightning course, you can just share that and uh, uh, we'll upload the recording and you can access get access to the recording that way.

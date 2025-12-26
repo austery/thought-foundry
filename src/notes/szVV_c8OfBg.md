@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 招商银行
@@ -31,10 +31,7 @@ people:
 - 卢梭
 - 托克维尔
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=szVV_c8OfBg
 speaker: FearNation 世界苦茶
@@ -48,7 +45,6 @@ tags:
 - reform
 title: 中国民粹主义的风险：为何任何改革都可能被视为阴谋？
 ---
-
 ### 争论的起点：中国未来是“二次文革”还是“二次改开”？
 
 **克里斯丁·李赫特:** 主持人你好，我经常听你的节目，你的说法非常有道理。但我认为，这可能会推翻你之前的一个重要构想，即中国的转型会逐渐走向“二次改开”。从最近的一些事情来看，我认为中国未来一定会转向**二次文革**（Èrcì Wéngé: 指效仿毛泽东时代文化大革命模式的第二次社会政治运动），而绝不是**二次改开**（Èrcì Gǎikāi: 指效仿邓小平时代改革开放模式的第二次经济社会转型）。

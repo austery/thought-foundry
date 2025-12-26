@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-07'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cXqfYxKcTDQ
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - trump-administration
 title: 美国政府关门风波：特朗普威胁或不支付被停职员工工资，农业援助及国际贸易成焦点
 ---
-
 ### Bloomberg 播客介绍
 
 Music

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Money or Life 美股频道
@@ -15,9 +15,7 @@ products_models:
 - Arc
 - USDC
 - USDT
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q4Dg6M34q7Y
 speaker: Money or Life 美股频道
@@ -32,7 +30,6 @@ tags:
 - valuation
 title: CIRCLE 2025年第三季度财报深度解读：暴跌后的加仓逻辑与估值展望
 ---
-
 ### 引言：财报发布与加仓决策
 
 欢迎来到Money or Life美股频道。本期视频将深入解读**CIRCLE**（一家专注于数字货币和支付技术的公司）刚刚发布的2025年第三季度财报。尽管财报发布后CIRCLE股价暴跌，我却选择进行了加仓。本视频将详细阐述财报的主要关注点以及我做出加仓决定的原因。如果您喜欢我的个股分析和及时的财报分享，请点赞、评论并免费订阅Money or Life美股频道，您的支持是我创作的最大动力。

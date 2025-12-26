@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Money or Life 美股频道
@@ -15,10 +15,7 @@ media_books:
 people:
 - Ace
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tS0gfjAoRPE
 speaker: Money or Life 美股频道
@@ -34,7 +31,6 @@ tags:
 - portfolio-management
 title: 美股下跌中的投资心法：长期主义、仓位管理与个股深度解析
 ---
-
 ### 开场白与本期主题
 
 大家好，欢迎来到Money or Life美股频道。我是Ace，今天是2025年11月23号周日。通常美股的**复盘加推演**（Review and Projection: 对过去的市场表现进行回顾分析，并在此基础上对未来走势进行预测和推演）节目都会放在周六，但昨天我已通过一段长文字总结了本周的复盘。今天刚好有空，我想那就再录一期视频，也出一下镜。因为最近美股表现较差，我想可能很多朋友都在等着我的更新以及对我持仓的一些说明。那么本期视频，就以聊天的形式，和大家谈一下我最近一两周在股市下跌中的感想、我的最新仓位，以及我持仓的那些个股目前是什么情况。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Google
@@ -35,9 +35,7 @@ products_models:
 - AI Overviews
 - Grok
 - Safari
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=M4MruTOrLyM
 speaker: Patrick Boyle
@@ -51,7 +49,6 @@ tags:
 - trust
 title: AI如何颠覆互联网信息经济：新闻业、评论与信任的危机
 ---
-
 ### AI颠覆信息获取与新闻业经济模式
 
 人工智能工具正在改变人们在互联网上寻找信息的方式，这种变化的速度之快，让出版商难以适应。当用户向聊天机器人提问而非使用搜索引擎时，他们得到的是答案，而不是可供点击的链接，这正在改变互联网的经济模式，尤其是新闻提供商的经济模式，他们投入资金收集信息，却无法再从中获利。

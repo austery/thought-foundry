@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: general
 companies_orgs:
 - Snowflake
@@ -13,10 +13,7 @@ layout: post.njk
 media_books:
 - Capone
 products_models: []
-project:
-- us-analysis
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=O5fht9LVhoQ
 speaker: 莊也雜談
@@ -30,7 +27,6 @@ tags:
 - urban
 title: 旧金山商务与探索：科技峰会、文化地标及旅行心得
 ---
-
 我是庄也，本期节目将与您分享我近期前往美国旧金山出差的经历与感受。上周节目之所以断更，是因为我受公司派遣，前往旧金山参加了2024年**Snowflake**（云端资料库产品: 结合AI利用前沿的数据仓库服务）的全球峰会。
 
 此前我曾提及参加的是一个AI产品峰会，但需更正的是，它并非纯粹的AI峰会，而是一个与AI技术结合紧密、走在AI利用前沿的云端数据库产品峰会。虽然我并非为该产品做广告，但**Snowflake**目前确实非常热门，甚至连我从事财会领域、与IT不相关的妻子都听说过。本期节目将不深入探讨具体产品信息，而是着重分享我在旧金山的城市体验、参会前后的经历，以及北美地区商务出差的一般流程，最后再总结我对旧金山的整体印象。

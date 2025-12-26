@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-10-15'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - big-think
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vSxomJb2KGE
 speaker: Big Think
@@ -24,7 +23,6 @@ tags:
 - psychology
 title: 习惯与成瘾：神经科学、心理学与行为改变的视角
 ---
-
 ### 习惯的神经学基础
 
 Here's the thing to recognize about your bad habit: You cannot eradicate your bad habit. You have to trick your neurology.

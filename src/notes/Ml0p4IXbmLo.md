@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - NVIDIA
@@ -23,10 +23,7 @@ products_models:
 - GPT-5
 - Gemini
 - Claude
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ml0p4IXbmLo
 speaker: 美投讲美股
@@ -40,7 +37,6 @@ tags:
 - vertical-ai-application
 title: AI投资新范式：揭秘垂直领域AI应用的长期价值与选股策略
 ---
-
 ### 引言：AI投资的现状与新趋势
 
 美股并非华尔街的专利，大家好，我是美投君，你们的美股探路者。AI投资无疑是过去这两年资本市场上最热门的一个主题，但不得不说，现在市场上真正受益于AI的投资机会是少之又少，只有像**英伟达**（NVIDIA: 全球领先的图形处理器和人工智能计算公司）这样零星几家公司才真正迎来了股价的爆发。不过，这种情况恐怕即将要发生改变了。在最新发布的财报中，我们看到了全新的AI趋势。传统的AI降本增效似乎已经走到了尽头，而一个全新的AI赛道正在加速到来，预示着AI领域又一个爆发性投资机会的出现。

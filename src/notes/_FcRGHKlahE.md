@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - 巴菲特
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_FcRGHKlahE
 speaker: 投资TALK君
@@ -27,7 +25,6 @@ tags:
 - trade
 title: 日元利差交易（Carry Trade）平仓风险与美股下跌：深度分析
 ---
-
 ### 日元利差交易（Carry Trade）的定义与操作流程
 
 大家好，欢迎来到本期节目。今天我们来聊一聊市场中出现的一种声音，即日元**利差交易**（Carry Trade: 一种通过借入低利率货币，投资于高利率资产以获取利差收益的交易策略）的平仓是否导致了美股的下跌。

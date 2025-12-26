@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - WTO
@@ -30,10 +30,7 @@ people:
 products_models:
 - P-2空对空导弹
 - 大型语言模型AI
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DUwT5DHG3Mc
 speaker: FearNation 世界苦茶
@@ -47,7 +44,6 @@ tags:
 - trade
 title: 中国经济困境与政策选择：从消费、就业到地缘政治影响的深度对话
 ---
-
 ### 消费政策的困境与经济危机的认知
 
 **FearNation 世界苦茶:** 很高兴各位连麦的同学能参与讨论。首先请JT分享他的看法。

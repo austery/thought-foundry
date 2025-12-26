@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - KiwiCo
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Mike
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lfkjm2YRG-Q
 speaker: veritasium
@@ -25,7 +23,6 @@ tags:
 - technology
 title: 烟花的奥秘：从黑火药到量子力学的绚烂科学
 ---
-
 ### 引言：烟花的极致探索
 
 这是有史以来关于烟花最宏大、最热门、最具爆炸性的视频，涵盖了从火药的发明到火如何在水下燃烧，再到烟花的制作、颜色、形状、引信以及发射方式的一切。

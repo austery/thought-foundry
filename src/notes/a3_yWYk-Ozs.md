@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Polymarket
@@ -18,10 +18,7 @@ products_models:
 - Grok
 - ChatGPT
 - 通义千问
-project:
-- ai-impact-analysis
-- investment-strategy
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a3_yWYk-Ozs
 speaker: 人民公園說AI
@@ -35,7 +32,6 @@ tags:
 - open-source-ai
 title: AI模型炒币大比拼：中国开源模型表现亮眼，量化交易的未来走向何方？
 ---
-
 ### AI模型炒币大比拼：一场“不稳定性稳定”的实验
 
 主持人: 现在的模型，如果真的把所有条件都打开，它能不能直接进入股市？我觉得至少它的不稳定性是稳定的。我们经常说“一顿操作猛如虎，其实输出二百五”。这次的六个模型各有特色，大家会试图把它带入“原生家庭”进行解读。例如，**DeepSeek**（中国开源大模型，以其量化基因背景而闻名）之所以火，是因为它背后有量化的基因在里面。**Gemini**（谷歌开发的多模态大模型）则更像散户，操作超级多，很焦虑，几天交易几十次，结果亏得最多。我认为在现在这个时间点，反倒是用模型去炒股、做**量化**（Quantitative Trading: 利用数学模型和计算机程序进行交易的策略）的最佳时机。

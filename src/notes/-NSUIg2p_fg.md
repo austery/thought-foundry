@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -36,9 +36,7 @@ people:
 - Hillary Clinton
 - Joe Biden
 products_models: []
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-NSUIg2p_fg
 speaker: 北美王路飞
@@ -51,7 +49,6 @@ tags:
 - society
 title: 爱泼斯坦邮件曝光：特朗普深陷泥潭与共和党内部分裂
 ---
-
 ### 前言：两份不同的爱泼斯坦文件
 
 今天我们主要讨论的是杰弗里·爱泼斯坦的遗产文件公开事件。首先必须厘清，这份文件与目前众议院及参议院即将投票表决的爱泼斯坦文件并非同一事物。我们今天要讲的，是近两日由民主党和共和党的众议院监督委员会分别公开的爱泼斯坦邮件。

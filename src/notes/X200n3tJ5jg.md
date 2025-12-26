@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2024-10-10'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《教育应该给人以希望》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X200n3tJ5jg
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - system
 title: 教育应该给人以希望：县域教育的困境与本真回归
 ---
-
 ### 县域教育：被遗忘的根基
 
 大家好，我是北京大学教育学院的林小英。今天我要分享的话题是：县域教育，何以成为一个话题。

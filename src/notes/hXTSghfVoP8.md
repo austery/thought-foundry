@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 央视
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《繁花》
 products_models: []
-project:
-- psychological-development
-- education-reform
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hXTSghfVoP8
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - psychology
 title: 生命教育的真相：为什么孩子选择死亡，不需要太久的生命
 ---
-
 ### 生命教育的困境：我们误以为“不懂事”是保护
 
 大家好，非常高兴再次来到一席的演讲台。十年前我曾在这里讲述犯罪心理，今天我想谈一个更沉重、却更迫切的话题——生命教育。

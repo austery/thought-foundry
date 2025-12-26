@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-04-13'
@@ -17,9 +17,7 @@ people:
 - Hegel
 - Wang Yangming
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pvkGS20w8iY
 speaker: Anthony看世界
@@ -33,7 +31,6 @@ tags:
 - technology
 title: 《被讨厌的勇气》：课题分离是自由的代价，还是对人际关系的误读？
 ---
-
 ### 引言：再谈《被讨厌的勇气》与课题分离
 
 大家好，我是Anthony。欢迎来到我的频道。

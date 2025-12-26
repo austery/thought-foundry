@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - NPR
@@ -17,10 +17,7 @@ media_books:
 people:
 - Jonathan Haidt
 products_models: '[]'
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=E94LCqY1TBI
 speaker: 徒步的騎手
@@ -34,7 +31,6 @@ tags:
 - social-resilience
 title: 从“严厉的爱”到“作死试试”：美国育儿观念的回归与代际困境
 ---
-
 ### “作死试试”：一种育儿风潮的回归
 
 最近，美国国家公共广播电台（NPR）等媒体报道了一种新兴的育儿趋势，其口号颇具冲击力：“告别温和育儿，拥抱‘作死试试’”。这句口号的英文原文是“Goodbye gentle parenting, hello fuck around and find out”，通常被缩写为 **FAFO**（Fuck Around and Find Out: 一个俚语，意指通过亲身尝试不明智的行为来承担其带来的负面后果）。光从名字就能听出，这绝非传统意义上循循善诱的教育方式。

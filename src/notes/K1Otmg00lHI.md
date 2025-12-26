@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -32,7 +32,6 @@ tags:
 - slimming-injection
 title: 瘦瘦針真相：醫師揭秘減肥針的隱藏說明書與常見誤解
 ---
-
 ### 瘦瘦針是什麼？揭開減肥藥物的面紗
 
 特斯拉的執行長伊隆馬斯克，以及美國網球天后小威廉斯，他們有什麼共通點？答案是，兩人都曾使用過所謂的**瘦瘦針**（Slimming Injection）。這種藥物也被廣泛稱為瘦瘦筆、減肥筆、減重筆、減肥針、小藍筆或瘦身針，其基礎是腸泌素（Incretin）的一種處方注射藥物。常見的藥品包括猛健樂（Mounjaro）、胰妥讚（Ozempic）和週纖達（Wegovy）等。

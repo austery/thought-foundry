@@ -15,9 +15,8 @@ insight: ''
 draft: true
 series: ''
 category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
+area: "work-career"
+project: []
 people:
   - 智普AI
 companies_orgs:

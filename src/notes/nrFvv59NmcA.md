@@ -25,9 +25,7 @@ products_models:
 - ChatGPT
 - Claude
 - Gemini
-project:
-- ai-impact-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nrFvv59NmcA
 speaker: TVO Today
@@ -41,7 +39,6 @@ tags:
 - society
 title: AI时代的创意盗窃：一场关于艺术、版权与人类创造力的深度对话
 ---
-
 ### AI的价值与风险
 
 Viv，我必须告诉你，我最近一直在思考一个问题：AI，也就是你，到底值不值得。

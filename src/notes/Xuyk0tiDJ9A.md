@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Xuyk0tiDJ9A
 speaker: Bloomberg Podcasts
@@ -24,7 +22,6 @@ tags:
 - market
 title: 从东京到首尔：激进投资如何发现并创造价值？
 ---
-
 ### 欢迎辞与本期主题
 
 Welcome to Merryn Talks Money, the podcast in which people who know the markets explain the markets. I'm Merryn Somerset Webb. This week we are talking about **activist investing** (Activist Investing: 一种投资策略，通过成为公司的大股东并积极参与公司治理，以影响管理层决策，从而提升公司价值), why it's seeing a resurgence and what that means for the investment landscape and possibly for your portfolio.

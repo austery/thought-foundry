@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 有知有行
@@ -13,10 +13,7 @@ media_books:
 - 《等待戈多》
 people:
 - 雨白
-project:
-- personal-growth-lab
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=be0F8NYEHvI
 speaker: 知行小酒馆
@@ -29,7 +26,6 @@ tags:
 - personal
 title: 2025年，我花得最幸福的一笔钱：五位听友的真实生活回响
 ---
-
 ### 一双鞋，四年的等待：当消费成为对自己的确认
 
 “14 39”这个名字不是编号，而是一双鞋的标价——他花了四年时间，终于在2025年决定买下它。这不是一次冲动的购物，而是一场漫长的自我对话。

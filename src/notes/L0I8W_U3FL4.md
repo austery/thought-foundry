@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Stellantis
@@ -33,10 +33,7 @@ media_books:
 - Harry Potter
 products_models:
 - Jeep Compass
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=L0I8W_U3FL4
 speaker: TVO Today
@@ -50,7 +47,6 @@ tags:
 - industry
 title: 加拿大汽车业的未来：应否超越北美三大巨头，转向中国市场？兼谈《速度与激情》系列电影的幕后故事
 ---
-
 ### 加拿大汽车业的挑战与Stellantis争议
 
 上个月，美国汽车制造商**Stellantis**（一家跨国汽车制造公司，由菲亚特克莱斯勒汽车和PSA集团合并而成）宣布将采取一项重大举措，从字面上看，这是一次大规模的转移。该公司计划将一款**Jeep**（吉普：Stellantis旗下的一个越野车品牌）车型的生产从**Brampton**（布兰普顿：加拿大安大略省的一个城市）转移到**Illinois**（伊利诺伊州：美国中西部的一个州）。去年，布兰普顿工厂在为生产Jeep Compass做准备而关闭之前，曾雇佣了大约3000名工人。毫不夸张地说，渥太华对此非常不满，并正在启动一个正式的争议解决程序。

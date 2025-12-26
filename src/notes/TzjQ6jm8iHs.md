@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TVO Today
@@ -15,9 +15,7 @@ people:
 - Nam Kiwanuka
 products_models:
 - Ozempic
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TzjQ6jm8iHs
 speaker: TVO Today
@@ -32,7 +30,6 @@ tags:
 - societal
 title: 多囊卵巢综合征：揭示误解、打破污名与自我赋能
 ---
-
 ### 揭秘多囊卵巢综合征：一种被误解的普遍疾病
 
 **Nam Kiwanuka:** 您正在收听《误诊》（Mistreated）。我是Nam Kiwanuka。您可能听说过**PCOS**（Polycystic Ovarian Syndrome: 多囊卵巢综合征）。

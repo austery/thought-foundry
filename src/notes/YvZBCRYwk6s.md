@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-14'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YvZBCRYwk6s
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - tech
 title: 美国化石燃料 vs. 中国清洁技术：出口竞赛谁是赢家？
 ---
-
 ### 清洁技术与化石燃料的出口竞赛
 
 Oscar Boyd: 欢迎收听《零度》。我是奥斯卡·博伊德。今天，我们将迎来清洁技术的一个里程碑。你好，阿特。

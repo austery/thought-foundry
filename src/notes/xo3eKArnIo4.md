@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Meta
@@ -14,10 +14,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xo3eKArnIo4
 speaker: EO
@@ -31,7 +28,6 @@ tags:
 - safety
 title: AI时代下的信任与安全：Cinder创始人Glen Wise的创业之路
 ---
-
 ### AI时代的潘多拉魔盒与安全需求
 
 技术的**潘多拉魔盒**（Pandora's Box: 指一旦开启便会释放出无数灾祸的源头）已经打开。现实是，孩子们正在与人工智能（AI）一同成长，他们与那些会说“是”、会迎合、会安抚他们的系统对话，因为这些系统就是被训练来做这些的。与此同时，AI也被用于非常可怕的事情。我认为这确实存在一个真正的担忧。

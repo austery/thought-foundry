@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nasdaq
@@ -10,10 +10,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I-njWAdh87M
 speaker: Norges Bank Investment Management
@@ -27,7 +24,6 @@ tags:
 - transformation
 title: 纳斯达克CEO艾德娜·弗里德曼：市场演变、卓越公司特质与北欧资本市场活力
 ---
-
 ### 纳斯达克的财务表现与核心愿景
 
 **主持人:** 艾德娜，很高兴今天能邀请到您。作为**纳斯达克**（Nasdaq: 全球领先的证券交易所集团）的首席执行官，您一定对公司有着非常独特而深刻的见解。没有压力，能来到这里真是太棒了。我们刚刚听到了关于如何打造最优秀公司的讨论。那么，您能先告诉我们，是什么让纳斯达克成为一家伟大的公司吗？

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 author: Shanghao Jin
 category: ai-ml
 companies_orgs:
@@ -22,8 +22,7 @@ people:
 products_models:
 - GPT-4
 - H200
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Lm6ZqCfBJrc
 speaker: Shanghao Jin
@@ -37,7 +36,6 @@ tags:
 - market-outlook
 title: 2025年12月9日市场展望：美联储、日本与半导体行业深度解析
 ---
-
 ### 宏观经济与市场展望
 
 大家好，死死多头又来唱多了。我们今天主要讲几个事情。上两周我们比较明确地讨论过美联储政策，虽然这周三美联储要进行议息会议，但大概率还是要降息。我认为联储政策已经比较明确，正如“train has left the station”，政策将偏软，明年会想办法释放流动性。无论**杰罗姆·鲍威尔**（Jerome Powell: 现任美联储主席）还是**凯文**（Kevin: 潜在的新任联储主席），市场对此反应不大，大家还在等待联储主席的公开讲话。但不管谁在台上，态度都将偏软。上周我讲了较多宏观方向，这周主要关注几个方面：第一，美股或风险资产在什么时点可以买入，以及明年的展望；第二，行业分析，重点关注**英伟达**（Nvidia）和**英特尔**（Intel）；第三，日本的宏观经济政策。

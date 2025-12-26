@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-12-12'
 draft: true
@@ -10,9 +10,7 @@ products_models:
 - Gemini 3.0
 - Gemini 2.5
 - Sonnet 4.5
-project:
-- ai-impact-analysis
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I8fs4omN1no
 speaker: AI Engineer
@@ -27,7 +25,6 @@ tags:
 - technology
 title: 构建高效AI编码代理的宝贵经验：模型能力超越工程技巧
 ---
-
 ### 宝贵经验：模型能力超越工程技巧
 
 能够站在这里，与许多我一直以来汲取灵感的杰出人士同台，这感觉非常棒。今天，我将分享一些我们在构建AI编码代理过程中学到的经验。

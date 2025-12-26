@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - intellectuals-role
@@ -35,10 +35,7 @@ people:
 - 胡适
 - 陈寅恪
 - 郭沫若
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vwA3lVWbUVg
 speaker: 柴静 Chai Jing
@@ -52,7 +49,6 @@ tags:
 - political-reform
 title: 《河殇》总撰稿人苏小康：一部纪录片如何卷入中国高层政争与文化反思
 ---
-
 ### 《河殇》的诞生与轰动效应
 
 2003年，我到中央电视台《新闻调查》栏目工作，该栏目的创始人之一夏俊，经常回来与我们一块开会谈业务。我们都知道他是纪录片**《河殇》**（He Shang: 一部探讨中国传统文化与现代化进程的电视纪录片）的导演。《河殇》在1988年播出时曾引起过空前的轰动效应，当时中国差不多有三亿人看了这个片子，并引起了热烈的全球性大讨论。然而，等我到央视的时候，我印象中没有人公开谈过这个片子，包括夏俊本人。因为大家都知道，这片子后来好像卷入了某种巨大的政治风波，直接影响到了当时中共中央总书记赵紫阳的政治命运，围绕着它，有一种强烈的禁忌感。

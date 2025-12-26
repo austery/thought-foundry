@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-11-15'
@@ -17,10 +17,7 @@ media_books:
 people:
 - C.S. Lewis
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a5kuJ2q07DU
 speaker: 一席YiXi
@@ -34,7 +31,6 @@ tags:
 - structural-violence
 title: 友情的复杂性：文学、共同体与自我塑造的交织
 ---
-
 ### 友情的复杂性：一个未被充分思考的议题
 
 大家好，很高兴再次来到这里。我目前是一名文学老师。这次我想分享的话题可能有点宏大，它与友情相关。但这个宏大的话题，或许我们并未对其进行深入思考，这也是我想要谈论它的原因。当我们谈论友情时，我们可能渴望听到那些历经岁月、情感不变的故事。然而，在我个人生活中，这类故事却特别稀缺。中学时期，我与“朋友”或“死党”这些词语相距甚远，那时我对社交并不那么热衷。我们总希望在新环境中能建立更好的关系，却常常感到失望。我们渴望与某人建立更亲密的关系，却发现走着走着就分开了。无论是中学时代还是成人世界，我们都希望拥有一段更安全、更值得信任的关系，但往往感到困惑。因此，友情的复杂性便是我今天想要探讨的主题。

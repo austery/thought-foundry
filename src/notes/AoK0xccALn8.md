@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -44,9 +44,7 @@ products_models:
 - Ethereum
 - Gemini
 - VIX
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AoK0xccALn8
 speaker: Amit Kukreja
@@ -60,7 +58,6 @@ tags:
 - trade
 title: 美联储降息预期升温，市场剧烈波动，加密货币遭遇重创
 ---
-
 ### 美联储降息预期推动市场情绪
 
 早上好，各位。欢迎回到新一期的《开盘直击》。我们一切安好，盘前市场呈现绿色，而且只有一个简单的原因。大约20分钟前，市场开始转绿。如你所见，标普500指数目前上涨了约0.56%，这算是一种宽慰。盘前，标普500指数一度跌至649点，而在10月10日我们曾触及647点，所以非常接近10月10日的低点。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Global X
@@ -19,10 +19,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- fire-movement
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Wglc9dj9tu8
 speaker: Darren聊美股
@@ -35,7 +32,6 @@ tags:
 - market
 title: 2025加拿大市场ETF投资组合推荐：长期增长与高现金流策略
 ---
-
 ### 市场回顾与投资策略引言
 
 本周美股继续保持强劲上涨，距离十月底的历史新高已非常接近。虽然十一月初曾出现近5%的回调，但随着降息预期回归，**标普500**（S&P 500: 美国500家大型上市公司股票指数）在月末开始反弹，最终十一月甚至微微收涨。进入十二月，涨势仍在延续。本周公布的经济数据也进一步强化了市场对降息的预期。下周三，**美联储**（Federal Reserve: 美国中央银行系统）将召开会议，如果真的宣布降息，我认为标普不仅能重回历史高点，甚至有望在年底前冲击7000点。

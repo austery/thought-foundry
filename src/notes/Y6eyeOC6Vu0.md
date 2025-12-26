@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -23,9 +23,7 @@ people:
 - Robert F. Kennedy Jr.
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y6eyeOC6Vu0
 speaker: New York Times Podcasts
@@ -40,7 +38,6 @@ tags:
 - redistricting
 title: 美国政治风波、国际丑闻与公共卫生警报
 ---
-
 ### 特朗普的选区划分计划受阻
 
 ### 国际网红兄弟Tate的释放与特朗普政府的影响

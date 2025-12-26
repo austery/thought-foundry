@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-10-26'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NWfvpA9QIAo
 speaker: Anthony看世界
@@ -24,7 +22,6 @@ tags:
 - social
 title: 解构NPD：超越识别与逃离，构建真正的自救之路
 ---
-
 ### 引言：NPD批判的意义与误区
 
 大家好，我是Anthony，欢迎来到我的频道。

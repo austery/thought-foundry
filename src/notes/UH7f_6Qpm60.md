@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 初日醫學
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UH7f_6Qpm60
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - ultra-processed-food
 title: 文長安教授談食品安全：不含防腐劑的食品更危險？
 ---
-
 ### 蟑螂不吃的生日蛋糕：食品添加劑的隱憂
 
 **宋晏仁 宋醫師:** 嗨，大家好，我是宋晏仁宋醫師，歡迎來到初日會客室。今天要為您訪問的是一位非常特別的人，他就是文長安文教授。文老師您好。

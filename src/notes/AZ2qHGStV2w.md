@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - OKX
@@ -23,10 +23,7 @@ people:
 products_models:
 - H100
 - B100
-project:
-- us-analysis
-- geopolitics-watch
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AZ2qHGStV2w
 speaker: Shanghao Jin
@@ -40,7 +37,6 @@ tags:
 - us-economic-outlook
 title: 特朗普政策、美国经济与英伟达前景展望：2025年市场深度分析
 ---
-
 ### 市场概览与美国经济基本面
 
 大家好，感谢各位参加本次会议。过去三周，特别是春节过后，市场的主要关注点和趋势都在等待特朗普（Donald Trump）上台。他已于昨日正式就任，接下来我将分析他上台前后的一些操作，以及未来政策可能带来的影响。近期，特别是加密货币市场，波动异常剧烈。

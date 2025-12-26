@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Bloomberg Podcasts
@@ -23,10 +23,7 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 products_models: []
-project:
-- us-analysis
-- systems-thinking
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rJD2IEKFP0E
 speaker: Bloomberg Podcasts
@@ -40,7 +37,6 @@ tags:
 - urban-governance
 title: 旧金山新市长卢里：应对城市挑战，重塑未来
 ---
-
 ### 旧金山市长卢里：我的三大施政重点
 
 我的首要任务是公共安全。

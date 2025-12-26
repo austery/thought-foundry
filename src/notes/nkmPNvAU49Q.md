@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-14'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nkmPNvAU49Q
 speaker: a16z
@@ -22,7 +21,6 @@ tags:
 - multimodal-ai
 title: AI发展放缓了吗？Nathan Labenz：我们问错了问题
 ---
-
 ### 引言：AI的本质与未来展望
 
 AI is not synonymous with language models.

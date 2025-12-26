@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - Brilliant
@@ -8,8 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6etTERFUlUI
 speaker: veritasium
@@ -22,7 +21,6 @@ tags:
 - technology
 title: 荒诞的暗物质搜寻之旅：从地下实验室到宇宙边缘
 ---
-
 ### 引言：寻找暗物质的地下之旅
 
 我正在墨尔本市郊的一座金矿里。

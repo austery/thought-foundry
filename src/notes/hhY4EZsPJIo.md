@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-06'
@@ -20,9 +20,7 @@ people:
 - John Rawls
 - Plato
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hhY4EZsPJIo
 speaker: 大问题Dialectic
@@ -36,7 +34,6 @@ tags:
 - state
 title: 霍布斯《利维坦》：从自然状态到国家起源的哲学思考
 ---
-
 ### 霍布斯《利维坦》：国家的本质与起源
 
 欢迎来到《100个哲学大概念开悟人生》。今天要讲的哲学大概念是**《利维坦》**（Leviathan: 英国哲学家托马斯·霍布斯于1651年出版的政治哲学著作）。这本书是政治哲学的一部经典著作，它介绍了国家的本质，或者说国家的起源。国家这种东西是怎么来的呢？霍布斯认为，国家这种东西它并不是从一开始就有的。在国家诞生之前，人类生活在一种**自然状态**（State of Nature: 在国家和法律出现之前，人类社会所处的原始状态）之中。

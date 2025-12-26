@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - a16z
@@ -20,10 +20,7 @@ products_models:
 - Zapier
 - Cursor
 - Figma
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fBfY7tWCecU
 speaker: a16z
@@ -37,7 +34,6 @@ tags:
 - startup-growth
 title: Gamma创始人Grant Lee：如何将AI演示公司发展到1亿用户
 ---
-
 ### 早期融资的挑战与反思
 
 我进行了第三次路演，感觉进行得相当顺利。我停下来等待投资人的反应，他基本上说：“这绝对是我听过的最糟糕的主意。你不仅要与强大的**现有企业**（incumbents: 在市场中占据主导地位的成熟公司）竞争，他们还拥有极致的分销能力。你根本无法与他们竞争。”

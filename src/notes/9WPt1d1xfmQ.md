@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 亚马逊
@@ -23,10 +23,7 @@ products_models:
 - USMCA
 - B-2轰炸机
 - X
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9WPt1d1xfmQ
 speaker: 莊也雜談
@@ -40,7 +37,6 @@ tags:
 - us-canada-relations
 title: 加拿大DST税撤回与伊朗核问题深度分析：地缘博弈、务实外交及核扩散挑战
 ---
-
 ### 加拿大数字服务税（DST）的戏剧性撤回
 
 今天我们来聊两个话题。首先是加拿大取消**数字服务税**（Digital Services Tax, DST: 针对美国大型科技公司在加拿大数字服务收入征收的税收政策）的事件。这几天，加拿大国内对此事的讨论非常热烈。这个故事特别有意思，距离DST开征仅三天，特朗普一怒，加拿大总理卡尼（指贾斯汀·特鲁多）便迅速妥协，加拿大突然撤回了这个已经立法三年的税收项目。这背后究竟是外交失败还是高明的博弈，真相远比我们想象的复杂。

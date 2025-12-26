@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Google DeepMind
@@ -17,8 +17,7 @@ products_models:
 - AlphaGo
 - AlphaZero
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=21EYKqUsPfg
 speaker: Dwarkesh Patel
@@ -31,7 +30,6 @@ tags:
 - world-model
 title: Richard Sutton：强化学习之父为何认为大型语言模型是死胡同
 ---
-
 ### 强化学习与大型语言模型的本质差异
 
 今天，我与**Richard Sutton**进行了一次对话，他是**强化学习**（RL: 一种机器学习范式，智能体通过与环境互动，根据奖励信号学习最优行为策略）的奠基人之一，也是**TD学习**（Temporal Difference Learning: 强化学习中的一种核心算法，用于从经验中学习价值函数）和**策略梯度方法**（Policy Gradient Methods: 强化学习中直接优化策略以最大化预期回报的算法）等诸多核心技术的发明者。为此，他荣获了今年的**图灵奖**（Turing Award: 计算机科学领域的最高荣誉，常被称为“计算机科学界的诺贝尔奖”），这被誉为计算机科学界的诺贝尔奖。**Richard**，恭喜您！谢谢**Dwarkesh**。感谢您来参加播客。这是我的荣幸。

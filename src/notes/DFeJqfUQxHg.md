@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -11,10 +11,7 @@ layout: post.njk
 people:
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DFeJqfUQxHg
 speaker: 海淀拙大叔
@@ -28,7 +25,6 @@ tags:
 - military
 title: 美国战略收缩的百年回响：从大英帝国看特朗普政策与中国应对
 ---
-
 ### 引言：战略收缩的历史回响
 
 阿甘经济宏观论第16集，主题是美国战略大收缩，以及我们应如何应对和投资。本节将深入探讨百年前英国的战略大收缩，并将其与当前美国可能采取的政策进行对比。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - TVO Today
@@ -16,8 +16,7 @@ people:
 - Jeffrey Epstein
 - Harvey Weinstein
 products_models: []
-project:
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=z_4yeao3ddo
 speaker: TVO Today
@@ -30,7 +29,6 @@ tags:
 - life
 title: 加拿大青少年体育文化：竞技压力、不当行为与健康成长
 ---
-
 ### 加拿大冰球文化的深刻反思
 
 主持人：加拿大是一个冰球之国。这项运动是数百万人的骄傲和共同目标。因此，当2022年爆出五名加拿大**世界青年队**（World Junior Team: 国际冰球联合会举办的青年冰球赛事中的国家队成员）球员被指控性侵的故事时，这个国家本身面临着一场清算。

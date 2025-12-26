@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - G7
@@ -9,10 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TgQ2oYE1YO8
 speaker: 大伟探秘加拿大
@@ -26,7 +23,6 @@ tags:
 - trade
 title: 加拿大1160亿超级工程：四大战略支柱重塑国家未来十年
 ---
-
 ### 加拿大国家重建路线图：1160亿加元的战略投资
 
 今天，我们将深入探讨一项将深刻影响加拿大未来十年的重大议题。这不仅关乎经济政策、资源开发和就业机会，更关乎加拿大作为一个国家，未来在全球舞台上的定位。2025年11月13日，联邦政府公布了第二批即将提交给**重大项目管理办公室**（Major Projects Office, MPO: 旨在大幅加速国家级大型工程审批流程的联邦机构）的七个国家级大型工程清单。

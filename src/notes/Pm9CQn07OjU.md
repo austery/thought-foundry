@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Patreon
@@ -18,8 +18,7 @@ people:
 products_models:
 - Instagram
 - Twitter
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Pm9CQn07OjU
 speaker: veritasium
@@ -33,7 +32,6 @@ tags:
 - technology
 title: 新年决心为何失败？科学方法助你成功
 ---
-
 ### 新年决心：为何多数以失败告终？
 
 大多数新年决心都会失败。因此，在本期视频中，我将探讨它们失败背后的科学原因，以及如何避免这些陷阱，从而让你的新年决心真正成功，我还会分享我为2020年设定的三个新年决心。

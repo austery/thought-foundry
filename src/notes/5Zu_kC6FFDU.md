@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 发改委
@@ -43,10 +43,7 @@ products_models:
 - 豆包
 - 18A
 - 14A
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5Zu_kC6FFDU
 speaker: 小翠時政財經
@@ -61,7 +58,6 @@ tags:
 - wealth-inequality
 title: 中美关系缓和与中国万亿产业规划：全球市场动态与英特尔财报深度解析
 ---
-
 大家好，欢迎回到小崔时政财经。今天是美东时间2025年10月24日。现在全世界都在关注习总和川总这对**CP**（Couple Pairing: 情侣搭档或配对），每天的故事都很精彩，像狗血连续剧一样。今天他们将呈现怎样的剧情呢？我们今天会展开来说。
 
 ### 全球市场概览与中国经济政策

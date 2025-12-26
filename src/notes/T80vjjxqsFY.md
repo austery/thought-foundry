@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-12-07'
 draft: true
@@ -13,10 +13,7 @@ people:
 - 甘地
 products_models:
 - 柯尔特M1911手枪
-project:
-- china-analysis
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T80vjjxqsFY
 speaker: 徒步的騎手
@@ -31,7 +28,6 @@ tags:
 - freedom
 title: 滨崎步空场演出：文明与野蛮的对照——从契约精神看中国政府的反应
 ---
-
 我从家里出发，一路向西，开车穿过了德克萨斯。第一站的目的地是德州边境的**Big Bend National Park（大湾国家公园）**。
 
 开车路上呢？我第一次听到**滨崎步**这个名字，知道了她是一位日本女歌手。在这之前呢，我从没有听过她的歌，对她一无所知。

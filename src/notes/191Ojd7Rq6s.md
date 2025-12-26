@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - a16z
@@ -37,10 +37,7 @@ products_models:
 - Co-pilot
 - Cursor
 - AlphaGo
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=191Ojd7Rq6s
 speaker: a16z
@@ -56,7 +53,6 @@ tags:
 - large-language-model
 title: AGI之路：大语言模型的潜力、局限与社会经济影响
 ---
-
 ### AI发展现状：乐观与悲观的交锋
 
 似乎没有什么根本性的难题是世界上最聪明的人在未来五年内努力工作无法解决的。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 东京人文论坛
@@ -27,9 +27,7 @@ people:
 - 康有为
 - 阎锡山
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EUem-f6qOf0
 speaker: 东京人文论坛
@@ -42,7 +40,6 @@ tags:
 - sino-japanese-relations
 title: 近代中国留日史：一场寻求强国之道的冒险，而非革命之旅
 ---
-
 ### 海外文化沙龙的价值与多元社会的重要性
 
 我出身于大学，说话时可能不免带些学院气。如果大家听不清楚，任何时候都可以提问或打断我。东京人文论坛是一个非常有意思的组织。在认识武类先生之后，我确实觉得自己的思想开阔了很多。

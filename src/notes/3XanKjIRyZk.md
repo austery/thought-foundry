@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -11,8 +11,7 @@ layout: post.njk
 media_books:
 - 《愈跑愈年輕》
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3XanKjIRyZk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -25,7 +24,6 @@ tags:
 - self
 title: 神經科醫師的跑步奇蹟：52歲起跑，65歲奪超馬冠軍，打破老化極限
 ---
-
 ### 引言：從52歲開始的跑步人生
 
 很多人在40歲左右會發現身體開始出現變化，這邊痠那邊痛，想運動又擔心膝蓋無法負荷，心臟會受不了。隨著年紀增長，體力越來越差，是不是最終只能承認自己真的老了呢？然而，有一位醫師從52歲才開始跑步，中間經歷了車禍以及頸椎嚴重的受傷，她曾以為自己沒辦法再回到跑道上，最終卻在65歲得到全國超馬冠軍，跑得比許多年輕人還快。這聽起來或許不可思議，但屏東民眾醫院院長張淑鳳醫師，將以跑者及醫師的雙重身份，顛覆大家對於老化與極限的想像。

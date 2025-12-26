@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2024-10-27'
@@ -14,9 +14,7 @@ media_books:
 people:
 - 亚里士多德
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AxEWPOseWzQ
 speaker: 大问题Dialectic
@@ -30,7 +28,6 @@ tags:
 - society
 title: 宿命论：一切都是命中注定吗？哲学与逻辑的深度探讨
 ---
-
 ### 宿命论：一个经典哲学大问题
 
 本期节目将探讨一个经典的哲学大问题：一切都是命中注定的吗？这个问题在哲学中被称为**宿命论**（Fatalism: 一切发生的事情都是注定的，无论做什么都无法改变既定结局）。

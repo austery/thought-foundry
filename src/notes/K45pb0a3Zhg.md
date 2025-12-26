@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -23,9 +23,7 @@ people:
 - Pete Hegsth
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K45pb0a3Zhg
 speaker: New York Times Podcasts
@@ -39,7 +37,6 @@ tags:
 - technology
 title: 加沙冲突再起，白宫回应抗议“谁在乎？”，以及其他头条新闻
 ---
-
 ### 今日头条：亚马逊服务中断与全球要闻
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是10月20日星期一，以下是我们今天早上将要报道的内容。

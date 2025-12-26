@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -16,10 +16,7 @@ people:
 - Donald Trump
 - Harry S. Truman
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gNcU6uH8W88
 speaker: 莊也雜談
@@ -33,7 +30,6 @@ tags:
 - strategy
 title: 格陵蘭島：大國角力下的冰封戰略要地
 ---
-
 ### 引言：格陵蘭島的戰略重要性與大國角力
 
 大家好，我是莊也。今天我們來聊聊格陵蘭島。您可能會好奇，為什麼我們的話題突然從加拿大轉向了格陵蘭島？其實，格陵蘭島與加拿大有著千絲萬縷的聯繫。美國總統特朗普曾多次公開表示，出於安全考慮，美國必須掌控全球三個重要的戰略要地：加拿大、巴拿馬運河，以及格陵蘭島。加拿大我們在前兩集已經討論過，巴拿馬運河距離太遠暫且不談，而這片與加拿大接壤、被厚重冰蓋覆蓋的神秘土地——格陵蘭，我認為它特別有意思，值得我們深入探討。

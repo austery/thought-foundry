@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2022-07-09'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yR3omjdHZ2g
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - system
 title: 银行存款的“秘密”：商业银行如何凭空创造货币
 ---
-
 ### 存款的来源：一个普遍的误解
 
 当个人向银行贷款时，这笔钱的真正来源常常令人困惑。例如，主持人曾向银行贷款30万加币用于购房，但这笔巨款从未经过其手。人们普遍认为银行借出的钱来自他人的存款，但事实并非如此。在贷款发放时，其他储户的存款并不会减少。实际上，银行借出的钱，仅仅是银行凭空创造出的一个数字，并非来自他人的存款。这一关于银行的秘密，对于大多数人而言是未知的，而其线索就隐藏在银行卡的名字中。

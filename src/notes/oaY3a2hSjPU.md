@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 media_books:
 - how-i-ai
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oaY3a2hSjPU
 speaker: How I AI
@@ -21,7 +20,6 @@ tags:
 - llm
 title: Midjourney 提示词三要素：打造更出色的 AI 图像生成效果
 ---
-
 ### 基础提示词的局限性
 
 我们首先来了解一下，仅使用简单的提示词来生成图像时可能遇到的问题。以“一张办公椅的图片”为例，直接输入“办公椅”这个词，Midjourney 可能会生成一些参考性不错的图像，但这些图像的实用性可能并不高。它们或许可以被放入目录，但距离真正有吸引力和结构感的成品还有差距。

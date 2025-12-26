@@ -16,10 +16,7 @@ insight: ''
 layout: post.njk
 products_models:
 - ClickHouse
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=23FqrplxnWc
 speaker: Money or Life 美股频道
@@ -32,7 +29,6 @@ tags:
 - stock-market-reaction
 title: Nebius与微软AI基础设施合作：深度解读盘后股价暴涨及投资策略
 ---
-
 ### Nebius与微软达成AI基础设施合作，股价盘后暴涨
 
 周一收盘后，**Nebius**这家我从年初就持续关注的**NeoCloud公司**（NeoCloud Company: 一家提供云计算服务的公司）发生了一件大事情。Nebius宣布与巨头微软达成了**AI基础设施**（AI Infrastructure: 为人工智能应用提供计算、存储和网络支持的硬件和软件系统）的合作。熟悉这个产业的朋友应该知道，Nebius和**CoreWeave**（一家专注于GPU云服务的公司）不同，它服务的主要是一些中小型客户。而这里提到的巨头Microsoft，它其实是CoreWeave的最大客户，CoreWeave的第二大客户就是**OpenAI**（一家人工智能研究和部署公司）。

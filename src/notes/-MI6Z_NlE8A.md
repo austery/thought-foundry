@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-10-07'
@@ -24,7 +24,6 @@ tags:
 - 治疗
 title: 创伤如何摧毁我们与他人建立联系的能力：Bessel van der Kolk 深度解读
 ---
-
 ### 创伤的定义与影响
 
 In the preamble to the definition of PTSD, we write, these people have been exposed to an extraordinary event that's outside of normal human experience.

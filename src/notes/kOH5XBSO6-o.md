@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Google X
@@ -12,9 +12,7 @@ layout: post.njk
 media_books:
 - You are not everything that you think
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kOH5XBSO6-o
 speaker: KevinFeng 冯凯文
@@ -30,7 +28,6 @@ tags:
 - self-awareness
 title: 8秒钟的幸福公式：从物质追求到内心觉醒与自我接纳
 ---
-
 ### 播客感悟：通向自我察觉的幸福之门
 
 最近，我收听了一期令我深受触动的英文播客。这期播客对我而言是前所未有的喜爱，其中一些观点在我脑海中引发了深刻的个人顿悟，让我觉得必须独自静思数周，因为它们是真正改变人生的内容。我从未在播客中表现出如此大的热情，所以如果大家愿意相信我，请务必听听这一期。它让我们突然明白了自己为何不开心，以及如何变得开心，方法简单到只需要8秒钟。

@@ -13,10 +13,7 @@ layout: post.njk
 media_books:
 - 《巡路集》
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d4uCOn90x1k
 speaker: 海淀拙大叔
@@ -29,7 +26,6 @@ tags:
 - short-selling
 title: 从巨子生物做空事件看港股投资与长期主义
 ---
-
 ### 巨子生物做空事件的反思与港股投资的险恶
 
 阿甘财富增长论第十篇，主题是做空巨子生物，消费行业预判之五。这几天我感到很不开心，因为巨子生物的跌幅太大了。我常跟大家说，投资要有“三看”：站高了看、拉长了看、往细了看。然而，我这次恰恰没有“往细了看”，在自己的检查清单中没有检查港股，特别是巨子生物的做空数据。

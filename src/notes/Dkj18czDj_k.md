@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Moody's
@@ -18,10 +18,7 @@ people:
 - Joe Biden
 products_models:
 - TLT
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Dkj18czDj_k
 speaker: Shanghao Jin
@@ -36,7 +33,6 @@ tags:
 - trend
 title: 2025年5月市场展望：美国债务、降级与美元走势深度分析
 ---
-
 ### 引言：市场现状与风险认知
 
 我最近梳理了一下市场现在整体的情况，并与2024年年底时的状态进行对比。当时我们一直在讨论**尾部风险**（Tail Risk: 指发生概率极低但影响极大的事件），而现在我的仓位相对稳定。我对当前市场状态的理解是，两者处于不同阶段，并非完全会重现尾部风险。在尾部风险出现时，你应该持有一定仓位并购买看跌期权（Put Option）来防范。但现在的情况可能不会像2024年那样出现巨大的风险，许多风险已被消化。然而，全球范围内出现下跌或价值调整的概率会更大，但其深度和速度可能不会那么快。这是我对整个市场的一个初步了解。

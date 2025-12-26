@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-09-02'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iF9iV4xponk
 speaker: Anthropic
@@ -25,7 +23,6 @@ tags:
 - software-engineering
 title: Claude Code与智能编程的未来：Anthropic专家洞察
 ---
-
 ### 引言：编程的个人启蒙与Claude Code的诞生
 
 Alex: 我回想起自己刚开始学习编程的时候，那时我还是个坐在中学数学课后排的孩子，手里拿着我的TI-83 Plus计算器。

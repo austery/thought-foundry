@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Stanford University
@@ -13,8 +13,7 @@ people:
 - Derek Muller
 products_models:
 - ChatGPT
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vS0TuIPoeBs
 speaker: veritasium
@@ -28,7 +27,6 @@ tags:
 - van-der-waals-force
 title: 壁虎仿生粘合剂：不粘却能承重，揭秘范德华力与未来机器人应用
 ---
-
 ### 引言：奇特的“不粘”粘合剂
 
 这是一种我见过的最奇特的材料之一。

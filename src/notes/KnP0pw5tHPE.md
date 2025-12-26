@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-06-07'
@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - stella-an
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KnP0pw5tHPE
 speaker: 安争鸣（Stella An）
@@ -25,7 +23,6 @@ tags:
 - industry
 title: 我为何不再出书：亲历中国出版审查的“文学之冬”
 ---
-
 ### 出书之难：从满怀期待到遥遥无期
 
 今天，我们不聊读书，来谈谈出书这件事。近几年来，不断有朋友问我什么时候能再出本书，其实并非我不想，我已经有两本签了出版合同并完成交稿的书，都与西方艺术史相关。但在当前的环境下，我估计它们二十年内都无法出版。

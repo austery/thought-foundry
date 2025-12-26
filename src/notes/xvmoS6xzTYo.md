@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 美联储
@@ -26,10 +26,7 @@ products_models:
 - USDC
 - USDT
 - SOXS
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xvmoS6xzTYo
 speaker: 投资TALK君
@@ -43,7 +40,6 @@ tags:
 - risk
 title: 美联储12月降息基本确定？稳定币USDT评级下调与个人投资组合降贝塔策略
 ---
-
 ### 本期内容提要
 
 本期节目主要涵盖以下几个方面：首先，将探讨美联储12月底会议降息基本确定的原因，并分享一组最新数据；其次，分析S&P Global下调Tether旗下稳定币USDT评级的事件及其背后逻辑；最后，回顾过去约两个月时间里，个人在投资操作中如何实施“降**贝塔**”（Beta: 衡量资产相对于市场整体波动性的指标）策略，并解释其思路，包括为何不直接留出现金仓位等问题。

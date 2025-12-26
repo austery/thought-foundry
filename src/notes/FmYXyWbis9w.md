@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-06'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - internet-of-bugs
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FmYXyWbis9w
 speaker: Internet of Bugs
@@ -25,7 +24,6 @@ tags:
 - social
 title: 超越科幻：机器早已接管，人类如何在极化时代重拾团结？
 ---
-
 ### 机器的崛起：一个被误解的科幻预言
 
 Stop me if you've heard this one before: humanity gets better and better technology until, one day, while humanity is too busy fighting amongst itself to pay attention, the machine takes over.

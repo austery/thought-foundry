@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 卫福部
@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S8nh7Vk-g3g
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -24,7 +23,6 @@ tags:
 - regulation
 title: 咖啡族必看：如何科学饮用咖啡，稳定血糖、平衡皮质醇？
 ---
-
 ### 咖啡与健康：你真的会喝咖啡吗？
 
 你也是咖啡族吗？是不是起床或上班，不喝一杯咖啡就很难撑过一天？但是你知道，要怎么样喝咖啡才能对身体健康更有帮助吗？大家好，我是范医师，我本身也是很常喝咖啡，也很喜欢在高雄到处探店。今天就来介绍两家朋友大力推荐的在地店家，除了看看这些有趣的店家之外，也会告诉大家一些咖啡的健康小知识。

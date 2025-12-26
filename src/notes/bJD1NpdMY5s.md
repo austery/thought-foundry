@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Apple
@@ -17,8 +17,7 @@ people:
 - Steve Jobs
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bJD1NpdMY5s
 speaker: Dwarkesh Patel
@@ -33,7 +32,6 @@ tags:
 - technology
 title: 自动化公司将是什么样子？
 ---
-
 当人们想到**AGI**（Artificial General Intelligence: 具备与人类相当或超越人类的认知能力的通用人工智能）时，他们会想象拥有一个能回答所有问题、全天候工作的个人助理。但这低估了**AI**（人工智能）将拥有的真正集体优势，这与原始智商无关，而在于它们是数字化的。目前，公司在招聘和培训人员方面受到极大限制。但如果你的员工是**AI**，那么你就可以将它们复制数百万次，并完整保留它们所有的技能、判断力和**隐性知识**（tacit knowledge: 难以言传、难以量化的知识，通常通过经验获得）。
 
 这是一个根本性的变革，因为历史上第一次，你可以将资本转化为**计算能力**（compute: 指计算机处理信息的能力，在此语境下特指AI运行所需的算力），再将计算能力转化为劳动力（labor）。你可以将数万亿美元转化为维持数十亿数字员工所需的电力、芯片和数据中心。

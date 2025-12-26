@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - NVIDIA
@@ -18,9 +18,7 @@ layout: post.njk
 people:
 - Donald Trump
 products_models: []
-project:
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=l9yuo0RObiY
 speaker: Nico投资有道
@@ -33,7 +31,6 @@ tags:
 - investment-philosophy
 title: 黄金暴涨下的投资抉择：为何我偏爱比特币而非黄金？
 ---
-
 ### 黄金近期暴涨现象与背景
 
 黄金在两年时间内市值翻了一倍，达到了接近30个**万亿美元**（Trillion: 衡量大额货币单位，一万亿美元等于一兆美元）。然而，我手头没有任何黄金仓位。为什么我没有买入黄金？比特币和黄金，哪一个是未来更好的投资选择？在本期视频中，我将详细分享我对以上问题的看法，帮助你快速找到未来的投资答案。

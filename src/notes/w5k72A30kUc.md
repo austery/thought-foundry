@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Amazon
@@ -16,10 +16,7 @@ products_models:
 - iPhone
 - ChatGPT
 - ChatGPT 3.5
-project:
-- us-analysis
-- historical-insights
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=w5k72A30kUc
 speaker: Big Think
@@ -33,7 +30,6 @@ tags:
 - technological
 title: 2025：旧世界的终结与新文明的黎明——三大技术引爆历史性变革
 ---
-
 ### 历史性转折点：旧世界的瓦解与新技术的崛起
 
 我们正生活在一个非凡的历史时刻。在2025年，我们正处于一个世界性的、能够改变游戏规则的技术开始大规模普及的时期。然而，美国乃至整个世界也正经历着巨大的扭曲和挣扎。

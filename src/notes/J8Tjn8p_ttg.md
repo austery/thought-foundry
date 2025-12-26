@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: '[]'
 date: 2025-02-28
@@ -17,9 +17,7 @@ people:
 - Bertrand Russell
 - Max Weber
 products_models: '[]'
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J8Tjn8p_ttg
 speaker: 徒步的騎手
@@ -33,7 +31,6 @@ tags:
 - social-dynamic
 title: 人能被改变吗？社交媒体时代的“走开”智慧与“去蠢化”的挑战
 ---
-
 ### 改变他人：徒劳无功的努力
 
 人能犯的最大错误之一，就是希望改变别人，包括改变别人的价值观、行为方式、生活态度、政治观点，甚至生活习惯。如果你抱有那种想法，无论出发点多么高大上，无论你付出多少努力，注定会到处碰壁。为什么要改变别人呢？对于喜欢的人，你不想改变他们身上让你喜欢的东西，你能宽容他们身上你不那么喜欢的东西。对于你觉得无所谓的人，他们爱怎么样怎么样，跟你没有关系。对于你厌恶的人，你离他们越远越好，更不愿在他们身上浪费呼吸。人生值得做的事情很多，值得交往的人也很多，改变别人是最不值得做的事。如果觉得需要改变那个人，说明那个人根本不值得交往，远离才是正途。

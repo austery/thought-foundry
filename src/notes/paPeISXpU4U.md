@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=paPeISXpU4U
 speaker: Best Partners TV
@@ -24,7 +23,6 @@ title: Anthropic《经济指数》报告深度解读：AI采用速度、应用�
 companies:
 - anthropic-report
 ---
-
 ### 引言：Anthropic经济指数报告概览
 
 近期，**Anthropic**（Anthropic: 一家领先的人工智能研究公司）发布了一份名为《**经济指数**》（Economic Index: 一份基于其大模型Claude使用数据分析AI采用情况的报告）的报告。这份报告基于全球150多个国家的**Claude**（Claude: Anthropic公司开发的人工智能大模型）使用数据以及企业**API**（Application Programming Interface: 应用程序编程接口，允许不同软件系统间进行通信和数据交换）部署的真实情况，为AI行业描绘了一张形象的“使用热力图”。同时，Anthropic在报告中也回答了两个普遍关心的问题：大模型目前在高频使用的场景有哪些，以及哪些应用不仅有用户，还能带来实实在在的经济价值。本文将深入解读这份报告，探讨AI行业的商业落地与潜在投资机会。

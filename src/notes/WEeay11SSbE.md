@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2023-10-31'
 draft: true
@@ -14,9 +14,7 @@ people:
 - Karl Marx
 - Francis Bacon
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WEeay11SSbE
 speaker: 壽司坦丁 Sociostanding
@@ -30,7 +28,6 @@ tags:
 - witch-hunt
 title: 以女代赈：女性身体与资本主义原始积累的隐秘拼图
 ---
-
 ### 马克思的“薪水劳工”与资本积累
 
 在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究发现。如果有一天，你穿越回古代，有人问你：“喂，现代仔好开吗？现代仔，你所谓的现代和这个你眼中的古代世界相比，最本质的差别是什么？”你会怎么回答他呢？19世纪的时候，许多西方学者试着回答这道难题，其中一个人的答案产生了特别巨大的影响力，这个人就是《资本论》的作者卡尔·马克思。

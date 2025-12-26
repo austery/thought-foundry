@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - KiwiCo
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RQYuyHNLPTQ
 speaker: veritasium
@@ -27,7 +25,6 @@ tags:
 - sewing-machine-mechanic
 title: 缝纫机的惊人智慧：从手工到机械的革命性演变
 ---
-
 ### 缝纫机的奥秘：一个被忽视的机械奇迹
 
 你能解释缝纫机是如何工作的吗？仔细想想，我们都见过它们。那根小小的针快速地上下移动，留下一串串针脚。

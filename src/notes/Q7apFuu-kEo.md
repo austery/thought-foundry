@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 date: '2024-02-20'
 draft: true
@@ -11,10 +11,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- personal-growth-lab
-- knowledge-pipeline
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q7apFuu-kEo
 speaker: Shijun Tang
@@ -28,7 +25,6 @@ tags:
 - technology
 title: 35岁重启人生：如何在新赛道保持心态、坚持到底并实现突破
 ---
-
 ### 35岁的转折：转型的孤独与心理建设
 
 人生的转折之所以适用于很多人，是因为大部分人意识的觉醒出现在35岁左右。这其实是件好事——但内心不够坚韧的人，容易被现实击垮，导致失败的人生。这并非个例，而是大概率会发生的结果。

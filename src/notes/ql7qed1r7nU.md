@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ql7qed1r7nU
 speaker: Best Partners TV
@@ -20,7 +19,6 @@ tags:
 - education
 title: 吴恩达：从质疑到突破——谷歌大脑的开创性旅程与AI的未来展望
 ---
-
 ### 吴恩达访谈回顾：谷歌大脑的诞生与AI的未来
 
 本期内容将回顾吴恩达教授在The Moonshot播客的专访，围绕其学术生涯起点、**Google Brain**（Google Brain: 谷歌内部的一个人工智能研究团队，专注于深度学习和神经网络）项目的创立与发展，以及**人工智能**（Artificial Intelligence, AI: 模拟人类智能的理论和技术）的未来趋势展开。访谈深入探讨了Google Brain赖以成功的两大颠覆性基石——“规模至上”与“单一学习算法”的提出与论证，以及这些观点在当时学术界主流范式下所遭遇的巨大阻力与争议。此外，吴恩达还谈及了Google Brain团队的关键合作、硬件选择的曲折之路、早期应用场景的开拓，以及他对AI未来、教育和工作的看法，展现了那段充满挑战与突破的岁月。

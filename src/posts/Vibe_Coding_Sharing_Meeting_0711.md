@@ -1,10 +1,9 @@
 ---
 title: Vibe Coding分享会纪要20250712
 summary: null
-area: tech-insights
+area: "tech-engineering"
 category: technology
-project:
-- vibe-coding
+project: []
 tags:
 - code
 - vibe-coding
@@ -20,7 +19,6 @@ layout: post.njk
 series: Vibe Coding
 source: null
 ---
-
 ## 开场与介绍
 
 **Ray:**

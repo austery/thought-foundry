@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-08-09'
 draft: true
@@ -9,8 +9,7 @@ layout: post.njk
 products_models:
 - Claude 4
 - LLMs
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MC55hdWLq4o
 speaker: AI Engineer
@@ -25,7 +24,6 @@ tags:
 - performance
 title: AI评估的未来：Braintrust如何通过Loop实现自动化和优化
 ---
-
 ### AI评估的现状与未来展望
 
 今天，我们将探讨迄今为止的**评估**（Evals: 人工智能模型或产品的性能评估）现状，以及我们认为评估未来将走向何方。

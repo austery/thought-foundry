@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -19,9 +19,7 @@ products_models:
 - Gemini
 - Qwen
 - Claude
-project:
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yz4UEVWFxZQ
 speaker: 金融汪
@@ -35,7 +33,6 @@ tags:
 - open-source-ai
 title: 大模型竞争白热化：OpenAI商业模式面临严峻挑战
 ---
-
 ### OpenAI的领先优势不再明显
 
 当前，**大模型**（Large Model: 指参数量巨大、拥有强大理解和生成能力的人工智能模型）的竞争优势已不再明显。尽管OpenAI曾领先两到三年，但市场很快发现，其他竞争者在各个领域都取得了快速进展。

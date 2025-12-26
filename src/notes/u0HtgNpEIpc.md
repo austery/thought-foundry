@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -45,10 +45,7 @@ products_models:
 - iPhone
 - Mac
 - Figma
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u0HtgNpEIpc
 speaker: INDIGO 数字镜像
@@ -63,7 +60,6 @@ tags:
 - rate
 title: 特斯拉股东大会深度复盘：马斯克的终极赌注与“可持续富足”的未来
 ---
-
 ### 序言：在市场动荡中为信仰充值
 
 **Indigo:** 欢迎回到 Indigo Talk，我们很快又把 CyberCat Leo 邀请回来了。我记得上期节目我说我们尽快再聊一期，正好市场给机会了。首先我说我们下一次约，肯定是要在股市有动荡的时候；其次，正好 CyberCat 去了特斯拉的股东大会，我也很想约他聊聊这次大会带来的新看法，尤其是关于埃隆·马斯克（Elon Musk）非常大的一个新薪酬计划。我们想先听一下 CyberCat 在现场的感受怎么样？

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -19,9 +19,7 @@ products_models:
 - Claude Opus 4.5
 - Lovable
 - Cursor
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6w0i2Wp0knM
 speaker: How I AI
@@ -37,7 +35,6 @@ tags:
 - user-experience
 title: AI模型设计能力大比拼：Gemini 3 Pro、Opus 4.5与GPT-5.1 Codex谁是最佳网页设计师？
 ---
-
 ### 欢迎来到“我如何AI”
 
 欢迎回到“我如何AI”。我是Claireo，一位产品负责人和AI狂热者，我的使命是帮助大家更好地利用这些新工具进行构建。

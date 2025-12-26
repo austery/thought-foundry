@@ -8,12 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IbnrclsPGPQ
 speaker: All-In Podcast
@@ -26,7 +21,6 @@ tags:
 - policy
 title: 中东和平、美国城市治安与AI芯片投资热潮：All-In播客深度探讨
 ---
-
 ### 播客开场与嘉宾介绍
 
 All right, everybody. Welcome back to the number one podcast in the world. That's right. It's your favorite podcast. It's your podcasters's favorite podcast, the All-In podcast. We're back, baby.

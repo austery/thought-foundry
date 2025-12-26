@@ -30,10 +30,7 @@ people:
 - 李敖
 - 蒋介石
 - JD Vance
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pNpLbYVJVCg
 speaker: 張内咸
@@ -46,7 +43,6 @@ tags:
 - value
 title: 超越渗透与误解：从台湾大罢免看华人政治思维与世代价值观的均值回归
 ---
-
 大家好，我是张内咸。又见面了。直接进正题。
 
 ### 台湾“大罢免”的复杂性与华人移民的融入困境

@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - Alex Karp
 products_models: []
-project:
-- geopolitics-watch
+project: []
 series: null
 source: null
 speaker: ''
@@ -28,7 +27,6 @@ tags:
 - society
 title: Alex Karp on Palantir, Geopolitics, and the Decline of the West
 ---
-
 ## Introduction: The Palantir Phenomenon
 
 Sometimes traditional stock analysis just lets you down. That's how I feel about the stock of Palantir. A billion dollars in quarterly revenue for the first time ever. The stock has just ripped. They have delivered here beyond the expectation, and the expectations were obviously remarkably high. Karp's the kind of guy who kicks you know what and then he gets in your face afterwards and he tells you that he just did that.

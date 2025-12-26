@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - KiwiCo
@@ -13,8 +13,7 @@ media_books:
 people:
 - Stephen Hawking
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4Wrc4fHSCpw
 speaker: veritasium
@@ -27,7 +26,6 @@ tags:
 - technology
 title: 小行星撞击：我们面临的威胁、探测挑战与应对策略
 ---
-
 ### 车里雅宾斯克事件：被忽视的警钟
 
 2013年2月15日，一颗比埃菲尔铁塔还重的小行星，在俄罗斯**车里雅宾斯克**（Chelyabinsk：俄罗斯乌拉尔联邦区的一座城市）上空冲入大气层。

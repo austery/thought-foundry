@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -21,10 +21,7 @@ people:
 - Jeffrey Epstein
 - Michael Bubaro
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=N0CRMN5Vclg
 speaker: New York Times Podcasts
@@ -38,7 +35,6 @@ tags:
 - reform
 title: 特朗普的50年抵押贷款提案：一项激进的住房可负担性解决方案及其争议
 ---
-
 ### 特朗普的50年抵押贷款提案
 
 主持人迈克尔·布巴罗：几天前，当特朗普总统提出引入**50年期抵押贷款**（50-year mortgage: 一种将还款期限延长至50年的住房贷款）时，他挑战了美国住房市场和金融体系的基石。

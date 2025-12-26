@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 摩根大通
@@ -15,10 +15,7 @@ people:
 - 巴菲特
 products_models:
 - ETF
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=daMlysUdhdE
 speaker: 海淀拙大叔
@@ -32,7 +29,6 @@ tags:
 - stock-market-outlook
 title: 中国经济新周期：三大问题解决，市场潜力巨大
 ---
-
 ### 新周期开始：中国经济三大问题与市场展望
 
 大家好，我是海淀拙大叔。今天是2024年的双十一，很多人给我留言，询问现在是否是买入**ETF**（Exchange Traded Fund: 交易型开放式指数基金，一种在交易所上市交易的基金份额，代表一篮子股票或资产）的时机。因此，我决定制作这个视频。本人没有股票群，也不推荐股票，纯粹是个人研究的副产品，旨在向大家介绍一种投资的思考方法。所以对于询问股票具体操作的问题，我基本上不予回复。

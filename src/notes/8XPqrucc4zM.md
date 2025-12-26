@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2023-10-23'
 draft: true
@@ -13,9 +13,7 @@ people:
 - 莊也
 products_models:
 - Google Map
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8XPqrucc4zM
 speaker: 莊也雜談
@@ -29,7 +27,6 @@ tags:
 - taiwan-urban-development
 title: 台湾高楼稀少、房屋老旧之谜：地理、历史与人文的深度解读
 ---
-
 ### 台湾过境续集：流量密码与观众回馈
 
 大家好，我是莊也，欢迎收看“莊也杂谈”系列节目。今天我们换一个场景，不用总是干巴巴地在小院里录制，这里是我们家附近的一个小公园，希望能让您领略一下深秋时节加拿大美丽的风景。

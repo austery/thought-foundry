@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -26,10 +26,7 @@ people:
 products_models:
 - Google Maps
 - AlphaGo
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WXH5Zg7HAcI
 speaker: Norges Bank Investment Management
@@ -43,7 +40,6 @@ tags:
 - technology
 title: Palo Alto Networks CEO Nikesh Arora：网络安全、AI颠覆与印度裔领导力
 ---
-
 ### 引言：网络安全的重要性与Palo Alto Networks
 
 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威央行投资管理公司，负责管理挪威政府全球养老基金）的首席执行官Nikola Tangen，今天我非常荣幸能与Palo Alto Networks的首席执行官Nikesh Arora进行一次愉快的对话。

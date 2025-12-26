@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -21,10 +21,7 @@ products_models:
 - Foundry
 - Vantage
 - Golden Dome
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PSepY7pNdE4
 speaker: Amit Kukreja
@@ -39,7 +36,6 @@ tags:
 - value
 title: Palantir 2025年第三季度财报：AI产品驱动的卓越增长与战略价值
 ---
-
 ### Palantir 2025年第三季度财报总结
 
 这是Palantir 2025年第三季度财报的总结。整个团队，特别是**卡普博士**（Dr. Karp: Palantir的首席执行官），都充满了活力，他显然有一个信息要传达，而且我认为他成功地传达了。

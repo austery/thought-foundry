@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lgJj7eklY58
 speaker: Bloomberg Podcasts
@@ -23,7 +22,6 @@ tags:
 - gold
 title: 黄金突破4000美元，法国政局动荡，足球巨星成首位亿万富翁
 ---
-
 ### 市场焦点：黄金价格创历史新高
 
 Music

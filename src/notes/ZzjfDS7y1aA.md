@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Jane Street
@@ -15,10 +15,7 @@ people:
 - Matt Levine
 products_models:
 - S&P 500
-project:
-- investment-strategy
-- systems-thinking
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZzjfDS7y1aA
 speaker: Patrick Boyle
@@ -31,7 +28,6 @@ tags:
 - market
 title: Jane Street 在印度赚取数十亿美元后被禁：套利与操纵的界限
 ---
-
 ### 印度衍生品市场的独特生态与Jane Street的崛起
 
 在印度的股票市场，可谓是“尾巴摇狗”。**衍生品交易**（Derivatives trading: 金融合约，其价值来源于标的资产，如股票或指数）不仅与**现金股票**（Cash equities: 指直接买卖公司股票的交易）交易量不相上下，甚至远远超过后者。衍生品交易额是现金股票交易额的300多倍。这种由大量热衷于**期权**（Options: 一种金融衍生品，赋予持有人在未来某个时间以特定价格买入或卖出标的资产的权利，而非义务）的**零售交易者**（Retail traders: 指非专业投资者，通常是个人投资者）推动的倒挂现象，在全球其他任何地方都前所未有。

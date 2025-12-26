@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Blue Origin
@@ -29,10 +29,7 @@ products_models:
 - Neutron
 - Starlink
 - Space Launch System
-project:
-- us-analysis
-- geopolitics-watch
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hbhdnqhihs0
 speaker: 海伦子Hellen
@@ -47,7 +44,6 @@ tags:
 - space-economy
 title: 2025年商业太空：贝索斯、马斯克与NASA的新篇章
 ---
-
 ### 2025年商业太空展望：从爱好到万亿级产业
 
 在一个月前接受《纽约时报》采访时，杰夫·贝索斯被问及：**蓝色起源**（Blue Origin: 杰夫·贝索斯创立的私人航天公司）对他而言是爱好还是一门生意？贝索斯明确回答：“当然是一门生意。”他认为蓝色起源将成为他最好的一门生意，甚至会超越他另一家市值高达2.47万亿美元的公司——亚马逊。主持人之所以提出这个问题，是因为贝索斯曾公开表示自己从小就着迷于太空，这使得他能够将个人爱好与商业追求完美结合。然而，火箭制造是一项极其耗费资金、时间与人才的事业，投资回报周期漫长，并非寻常人会主动涉足的领域。

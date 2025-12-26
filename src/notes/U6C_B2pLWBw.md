@@ -18,10 +18,7 @@ draft: true
 series: ''
 category: macro-economics
 area: finance-wealth
-project:
-  - china-analysis
-  - us-analysis
-  - ai-impact-analysis
+project: []
 people:
   - Donald Trump
   - 习近平

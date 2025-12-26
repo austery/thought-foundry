@@ -8,11 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fHIqNx2qDZU
 speaker: LT視界
@@ -29,7 +25,6 @@ tags:
 - us-economy
 title: 全球焦点：稀土战升级、地缘政治动荡与经济前景展望
 ---
-
 ### 开篇致辞与经济头条概览
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月10日，我们首先向台湾的网友致以节日的问候，今天是中华民国的国庆日。今天的财经头条，我们一起来了解三个方面的最新报道。

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Gartner
@@ -17,9 +17,7 @@ people:
 products_models:
 - GPT-4
 - Cursor
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=02mwepIbgb0
 speaker: 老科谈科技股
@@ -30,7 +28,6 @@ tags:
 - technology
 title: 2026年十大技术趋势？科技股投资者必看！选择大于努力！(老科谈科技股 263期)
 ---
-
 大家好！
 今天是2025年12月20日。欢迎来到这个追踪科技行业大趋势、顺势而为投资科技股的频道。2025年年底，著名咨询公司**Gartner**发布了2026年十大战略技术趋势。我今天给大家用通俗语言解释一下，并说说我认为了科技股投资者该如何应对和布局。
 

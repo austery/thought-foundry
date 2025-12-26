@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 高盛
@@ -30,10 +30,7 @@ people:
 - 李在明
 - Donald Trump
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7875okzerzY
 speaker: 小翠時政財經
@@ -48,7 +45,6 @@ tags:
 - valuation
 title: 中国星巴克股权易主，稀土战马来西亚渔翁得利，美股AI泡沫与大空头做空
 ---
-
 ### 全球股市与宏观经济概览
 
 今天是美东时间2025年11月4日。首先来看A股市场，11月4日A股全天震荡走低，三大股指集体收跌，但这并非A股独有的现象，因为全球股市普遍下跌。创业板指缩量下跌近2%。表现较好的板块包括福建本地股，十余只股票全部涨停，这得益于“两岸融合概念”，因为2023年福建被中国列为两岸融合发展示范区，政策利好带动了板块炒作，但其本质是泡沫。其次是电网设备板块，受AI数据中心热潮带动而拉升。第三是银行板块，央企银行指数上涨2.08%，在大盘下跌时通常起到稳定指数的作用，其中厦门银行涨幅居前。此外，此前提及的土鸡熔岩堆概念继续走强。下跌方面，创新药概念股走低。资金方面，央行昨天开展了1175亿的逆回购操作，但当天到期量为4753亿，实际上收紧了流动性，这可能对股市造成一定冲击。

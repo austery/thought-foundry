@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -22,10 +22,7 @@ people:
 - John le Carré
 products_models:
 - Taobao
-project:
-- china-analysis
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mT6mRJehJdw
 speaker: Norges Bank Investment Management
@@ -39,7 +36,6 @@ tags:
 - supply-chain
 title: 蔡崇信访谈：阿里巴巴、中国经济与全球化挑战
 ---
-
 ### 蔡崇信：从台湾到阿里巴巴的非凡旅程
 
 **Nikolai:** 大家好，今天我们有一位特别的嘉宾来访，他就是**阿里巴巴**（Alibaba: 中国领先的电子商务、数字支付、云计算和娱乐巨头）的联合创始人兼董事会主席蔡崇信（Joe Tsai）。

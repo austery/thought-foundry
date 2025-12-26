@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国民党
@@ -20,10 +20,7 @@ people:
 - 邓小平
 - 孙立人
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f43Qltd-8KQ
 speaker: ZetaBook
@@ -37,7 +34,6 @@ tags:
 - strategy
 title: 国共内战国军惨败：将帅失和、派系内斗与战略失误的深层剖析
 ---
-
 ### 国军对共军实力的严重低估
 
 在中国大陆的互联网上，流传着一个源自一部老电影的梗，其中一位国军军官的经典台词是：“不是我们无能，是共军太狡猾了。”这句台词实际上暗示了共产党军队的强大。从1945年到1946年，中国共产党从苏联手中接收了东北北部的大量日军装备后，其战斗力得到了快速提升。到了1950年，共产党军队凭借一些苏联在二战中淘汰的武器，在**韩战**（Korean War: 1950-1953年朝鲜半岛爆发的国际冲突）中就已经能够与美军打得有来有回。

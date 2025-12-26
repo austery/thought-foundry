@@ -1,6 +1,6 @@
 ---
 Exclude: true
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: null
@@ -12,8 +12,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -25,7 +24,6 @@ tags:
 - technology
 title: 利用 AI 和 MCP 服务器加速端到端测试：一个 VS Code 扩展的实践分享
 ---
-
 ## 开场与介绍
 
 **Ilona Medvedovsky**: OK, I think we can get started, Sweeney. Thank you.

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - sac-capital
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - steven-cohen
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0k0qOh7Dn0g
 speaker: 北美王路飞
@@ -25,7 +23,6 @@ tags:
 - system
 title: 黑金终章：18亿美元罚金，国王为何安然无恙？史蒂文·科恩与美国司法体系的终极对决
 ---
-
 ### 引言：审判日的到来与司法体系的终极考验
 
 本期节目将深入解读《黑金》一书的最终章，标志着“审判日”的到来。此前，这场围绕**SAC资本**（SAC Capital: 史蒂文·科恩创立的对冲基金公司）的战争已进入白热化阶段。**FBI**（Federal Bureau of Investigation: 美国联邦调查局，主要调查联邦犯罪）终于找到了来自SAC内部核心的线人，掌握了其内部运作的致命证据。在巨大的压力下，政府正式对SAC资本提起了**刑事诉讼**（Criminal Litigation: 由政府对涉嫌犯罪的个人或实体提起的法律诉讼），并将科恩的两位核心大将迈克尔·斯坦伯格和马修·马托马送上了被告席。科恩本人虽然暂时安全，但也已被**SEC**（Securities and Exchange Commission: 美国证券交易委员会，负责监督证券市场和保护投资者）以**监管失职**（Supervisory Negligence: 指未能履行监督职责，导致下属发生不当行为）为由起诉。这座看似坚不可摧的堡垒，终于摇摇欲坠。

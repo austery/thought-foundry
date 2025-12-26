@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: career
 companies_orgs: []
 date: '2025-10-16'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aS38m85kUJQ
 speaker: 课代表立正
@@ -23,7 +22,6 @@ tags:
 - society
 title: 掌握“无我”心态：面试与职场成功的核心策略
 ---
-
 ### 掌握“无我”心态：面试与职场成功的关键
 
 今天将探讨一个核心心态，一旦掌握并运用，无论是在面试、工作还是生活中，都能帮助个人发挥出最佳水平。相反，如果缺乏这种心态，在面试中将难以发挥应有水平，甚至可能因一个小错误而导致整个表现崩溃。这种心态不仅适用于面试，在工作和生活中同样重要。例如，在工作场景中向大老板汇报时，拥有和缺乏这种心态，汇报效果将天差地别；在约会中，这种心态也会显著影响你的表现。

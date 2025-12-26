@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-01-26'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JAlqKC75bq0
 speaker: Anthony看世界
@@ -25,7 +23,6 @@ tags:
 - value
 title: 解析完美主义：中国家庭如何塑造“伪完美”与个人解放之路
 ---
-
 ### 完美主义：一个普遍的心理议题
 
 大家好，我是Anthony，欢迎来到我的频道。

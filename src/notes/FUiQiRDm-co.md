@@ -41,9 +41,7 @@ people:
 products_models:
 - QQQ
 - VOO
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FUiQiRDm-co
 speaker: Money or Life 美股频道
@@ -57,7 +55,6 @@ tags:
 - time
 title: 与订阅者对话：我的投资哲学、资产配置与全职博主之路
 ---
-
 ### 开场与感谢
 
 大家好，欢迎来到Money or Life美股频道，我是Ace。今天这期节目非常轻松，因为这是Money or Life美股频道YouTube达成五万订阅的第二期特别节目。我将回答订阅者朋友们在不同平台向我提出的一些私人或投资方面的问题。这期节目非常轻松，我的穿着也是我平时在家里研究公司时最常穿的背心，因为新加坡确实非常热。总之，今天算是把我最真实的一面展示给大家。

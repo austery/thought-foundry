@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 高盛
@@ -19,10 +19,7 @@ layout: post.njk
 media_books: []
 people:
 - Donald Trump
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aEda4v32hvc
 speaker: Shanghao Jin
@@ -37,7 +34,6 @@ tags:
 - us-economic-outlook
 title: 特朗普关税、美国经济衰退与美联储政策对市场的影响分析
 ---
-
 ### 市场反弹与特朗普关税政策的影响
 
 近期市场出现了大规模反弹。首先，大家普遍关注的是**特朗普**（Donald Trump）的关税政策。昨天，特朗普的关税政策与中国达成了协议。实际上，达成协议的三个经济体包括英国、中国和台湾地区。观察这三项协议，它们对市场的影响非常正面。从二月份以来，市场情绪很大程度上出现反转，原本认为政策是亲商业的，后来发现其“胡搞”，市场认为白宫层面并不关心市场会如何。

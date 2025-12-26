@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Bloomberg
@@ -22,9 +22,7 @@ people:
 - Kalebrooks
 products_models:
 - Odd Lots podcast
-project:
-- us-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IkPH06e8SlY
 speaker: Bloomberg Podcasts
@@ -38,7 +36,6 @@ tags:
 - mindset
 title: Z世代的财富观：无人拯救下的资本主义与消费主义
 ---
-
 ### Z世代的世界观：无人拯救与财富追求
 
 **主持人**: 大家好，各位《**Odd Lots**》（Bloomberg旗下专注于金融和经济的播客节目）的听众。

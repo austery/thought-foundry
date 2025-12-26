@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-01-08
@@ -20,10 +20,7 @@ people:
 - 毛
 - 刘宗坤
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GJnYnI1Sai8
 speaker: 徒步的騎手
@@ -37,7 +34,6 @@ tags:
 - totalitarianism
 title: 艰难时代与危险社会：个人坚韧的抉择
 ---
-
 ### 历史的循环：艰难、坚强与软弱
 
 北风渐冷，我们再次回到阁楼。两年前，一位国内的朋友曾说，四十年的经济发展将大部分中国人驯化了，驯化成了软弱的人。历史上的好时代和坏时代常常交替出现，仿佛具有周期性。表面上看，人们随着周期沉浮，无法决定自己是生活在好时代还是坏时代，生活在什么时代便是什么时代。但仔细观察，你会发现是人的行为影响了好时代和坏时代的周期。

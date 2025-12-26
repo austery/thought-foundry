@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -16,9 +16,7 @@ layout: post.njk
 people:
 - Jerome Powell
 products_models: []
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ibz72ohgK9c
 speaker: 视野环球财经
@@ -33,7 +31,6 @@ tags:
 - market-liquidity
 title: 美联储新剧本与AI财报风暴：甲骨文拉胯，多比“路过”，特斯拉待发力
 ---
-
 ### 美联储利率决议与市场反应
 
 大家好，欢迎回到视野环球财经，我是reno。现在是美工时间25年12月10号，周三晚上的7点35分。今天的四大指数啊是在美联储利率决议公布之后，全线走高。那么在利率决议公布之前呢，华尔街是普遍预期，美联储会采取鹰派的降息策略。不过呢，最终的结果和表述都比预期更为鸽派。那咱们呢，首先看一下关于利率决议以及后续需要关注的一些问题。

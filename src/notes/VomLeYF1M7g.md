@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 芝加哥大学
@@ -23,9 +23,7 @@ people:
 - 周恩来
 products_models:
 - CUSPEA项目
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VomLeYF1M7g
 speaker: 北美王路飞
@@ -38,7 +36,6 @@ tags:
 - scientific
 title: 杨振宁与李政道：从黄金搭档到半世纪决裂的科学传奇
 ---
-
 ### 两位巨星陨落：一个时代的终章
 
 2024年8月4日，**诺贝尔物理学奖**（Nobel Prize in Physics: 瑞典皇家科学院颁发的物理学领域最高荣誉）得主李政道先生在美国逝世，享年98岁。仅仅一年多后，2025年10月18日，与他分享这一殊荣的杨振宁先生在北京与世长辞，享年103岁。一个物理学的伟大时代，随着两位巨星的相继陨落，正式落下了帷幕。

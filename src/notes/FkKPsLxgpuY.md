@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Stanford
@@ -12,9 +12,7 @@ people:
 - Stephen Hawking
 products_models:
 - SAT
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FkKPsLxgpuY
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - iq-testing
 title: 智商测试的问题：从历史争议到现代误解
 ---
-
 ### 智商测试的普及与核心问题
 
 在流行文化中，“智商（**IQ**：Intelligence Quotient，智力商数）”这个词无处不在。

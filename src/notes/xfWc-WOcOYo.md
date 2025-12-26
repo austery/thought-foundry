@@ -21,10 +21,7 @@ people:
 - 查理·芒格
 - Greg Abel
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xfWc-WOcOYo
 speaker: Shijun Tang
@@ -37,7 +34,6 @@ tags:
 - market-cycle
 title: 来自中国的隐形巨鲸：段永平的投资哲学与巴菲特的现金策略
 ---
-
 ### 中国隐形巨鲸：段永平的低调财富之路
 
 这周，我通过YouTube认识了一个人——段永平。他在90年代就创建了两家巨型航母级公司，旗下品牌在其竞争领域都是行业翘楚。他一掷千金，拍下与股神巴菲特共进午餐的机会；他激流勇退，却在股市中傲视群雄；他热衷慈善，为母校累计捐款已超一亿人民币。没错，这个人就是段永平。

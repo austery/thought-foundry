@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -22,9 +22,7 @@ products_models:
 - Copilot
 - ChatGPT
 - GPT-5
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NwuHxEw80gA
 speaker: Norges Bank Investment Management
@@ -38,7 +36,6 @@ tags:
 - organizational
 title: 解锁AI成功之道：挪威主权财富基金的经验与未来展望
 ---
-
 ### 引言：AI的指数级增长与变革
 
 **主持人 Marte:** 大家好，非常欢迎大家来到由挪威主权财富基金（**Oljefondet**：Norges Bank Investment Management的通俗名称）举办的这场活动。我将与我的同事Birgitte和Oscar一起，讨论AI以及我们在基金中的工作。

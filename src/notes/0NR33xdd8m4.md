@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2024-12-12'
@@ -24,9 +24,7 @@ people:
 - Aristotle
 - Jean-Paul Sartre
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0NR33xdd8m4
 speaker: 大问题Dialectic
@@ -40,7 +38,6 @@ tags:
 - social
 title: 离婚有错吗？婚姻的本质是什么？——康德、黑格尔与波伏瓦的哲学辩论
 ---
-
 大家好，欢迎收看大问题节目。本期要探讨的大问题是：离婚是坏事吗？
 
 ### 婚姻与离婚的道德困境

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Norges Bank Investment Management
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - Marte
 products_models: []
-project:
-- knowledge-pipeline
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LZIeWGeWTBI
 speaker: Norges Bank Investment Management
@@ -27,7 +25,6 @@ tags:
 - strategy
 title: 挪威主权财富基金的社交媒体战略：建立信任与影响力
 ---
-
 ### 社交媒体的影响：接收者与发送者
 
 社交媒体对我们既有影响，作为接收者，也有影响，作为发送者。

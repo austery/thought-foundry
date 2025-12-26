@@ -10,8 +10,7 @@ media_books:
 - fearnation
 people: []
 products_models: []
-project:
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DqU4Q3UxaaI
 speaker: FearNation 世界苦茶
@@ -20,7 +19,6 @@ summary: 深入分析中国宣布不再寻求WTO特殊待遇的战略意图，�
 tags: []
 title: 中国放弃WTO发展中国家待遇：战略转向背后的三重逻辑与全球贸易的未来推演
 ---
-
 ### 视频节目内容划分说明
 
 大家好，欢迎来到本期的世界苦茶事实线节目。我们尝试将世界苦茶分为事实线、分析线和观察线。事实线节目将覆盖更多国际和中国国内的事实，而分析线将进行更多深度的经济和政治哲学内容。节目数量将更多。那我们进入今天的内容。

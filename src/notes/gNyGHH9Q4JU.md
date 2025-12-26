@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-06-02'
@@ -20,10 +20,7 @@ people:
 - Newton
 - Wang Yangming
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gNyGHH9Q4JU
 speaker: Anthony看世界
@@ -37,7 +34,6 @@ tags:
 - philosophy
 title: 中国文化危机、程朱理学与“格物致知”的真实含义
 ---
-
 ### 引言：中国文化的深层危机
 
 今天，我们继续探讨中国文化的危机，以及**理学**（Neo-Confucianism: 宋明时期儒家思想发展出的哲学体系）如何应对这场危机。在上一期视频中，我们谈到中国政治制度、意识形态和宗教信仰呈现出独特的演变轨迹。

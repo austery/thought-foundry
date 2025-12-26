@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -31,10 +31,7 @@ products_models:
 - ChatGPT
 - GPT-4
 - AlexNet
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=avWhreBUYF0
 speaker: AI Engineer
@@ -50,7 +47,6 @@ tags:
 - software-engineering
 title: OpenAI 联合创始人 Greg Brockman 谈编程、AI 基础设施与 AGI 之路
 ---
-
 ### 编程之路的启蒙与转变
 
 主持人向 Greg Brockman 问好，并感谢他抽出时间接受 AI Engineer 的采访。

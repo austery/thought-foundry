@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Airbnb
@@ -17,8 +17,7 @@ people:
 products_models:
 - Bitcoin
 - Venmo
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9BHwU2BEFzM
 speaker: Adam's Axiom
@@ -32,7 +31,6 @@ tags:
 - social
 title: 从以物易物到比特币：塑造世界的经济体系演变指南
 ---
-
 ### 史前礼物经济：人类最早的社会安全网
 
 礼物经济（Gift Economies）作为人类最早的经济体系而出现，其中资源通过复杂的互惠关系而非直接交换来共享。考古证据表明，在各个定居点之间存在着持续的食物共享模式，大型猎物肉类会在多个家庭之间进行分配。你可以将其想象成史前的**维诺**（Venmo: 一款移动支付应用），只不过你分摊的不是晚餐账单，而是猛犸象。这种体系对20到50人的小型紧密群体而言，被证明非常有效，因为它创造了一个社会安全网：如果你的狩猎今天失败了，你可以依靠那些成功的人。更重要的是，它鼓励了专业化，一些人可以专注于工具制造，而另一些人则负责狩猎，因为他们知道会分享成果。但随着人口增长，追踪谁欠谁变得异常困难。解决方案是什么？可以说，我们的祖先在贝壳方面发挥了创意。

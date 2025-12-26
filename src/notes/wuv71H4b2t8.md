@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wuv71H4b2t8
 speaker: Norges Bank Investment Management
@@ -25,7 +23,6 @@ tags:
 - sovereign-wealth-fund
 title: 挪威财政规则：石油财富的跨代管理与经济稳定之道
 ---
-
 ### 挪威支出规则的诞生与运作
 
 挪威有一项被称为**支出规则**（håndlingsregel: 挪威管理石油财富的财政规则）的制度，这项规则规定了挪威**主权财富基金**（Norwegian Sovereign Wealth Fund: 挪威政府管理石油收入的基金）每年可以有多少资金用于支持国家预算，它确实成为了挪威经济规划的基石。

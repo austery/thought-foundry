@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Wall Street
@@ -17,10 +17,7 @@ people:
 - Daniel Kahneman
 products_models:
 - S&P 500
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5eW6Eagr9XA
 speaker: veritasium
@@ -34,7 +31,6 @@ tags:
 - psychology
 title: 专家迷思：洞察真正专业技能的四大要素
 ---
-
 ### 专家技能的本质：模式识别与组块化
 
 Interviewer: 你会在派对上表演这个把戏吗？

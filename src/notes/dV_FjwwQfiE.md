@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: business
 companies_orgs:
 - 小红书
@@ -22,10 +22,7 @@ products_models:
 - Notion
 - iPad
 - DeepSeek
-project:
-- entrepreneurship
-- personal-growth-lab
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dV_FjwwQfiE
 speaker: 一口新飯
@@ -39,7 +36,6 @@ tags:
 - side-hustle-economy
 title: 从崩溃裸辞到年入70万：Ami分享她靠热爱与副业实现自由的创业之路
 ---
-
 ### 嘉宾介绍与近况更新
 
 Ray: 这次的采访嘉宾是Ami。一年半以前，她作为频道的观众加入了一口新饭社群，我们有机会在线下见过一次。那时候她刚裸辞不久，开始全职发展自己的文创事业和视频创作。现在一年多过去了，她的进步惊人，文创事业发展得非常棒，自媒体也迎来了起飞，小红书涨到了十几万粉丝，YouTube也有超过六万的订阅。

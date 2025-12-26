@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Shell
@@ -20,10 +20,7 @@ people:
 - Nikolai Tangen
 - Mustafa Suleyman
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=evHLTxDJsJU
 speaker: Norges Bank Investment Management
@@ -37,7 +34,6 @@ tags:
 - organizational-resilience
 title: 壳牌CEO瓦埃勒·萨万：韧性、能源转型与地缘政治下的领导力
 ---
-
 ### 欢迎与背景介绍
 
 **Nikolai:** 大家好，欢迎收听《**In Good Company**》（In Good Company: Norges Bank Investment Management制作的播客节目）。我是**Nikolai Tangen**（Nikolai Tangen: 挪威主权财富基金Norges Bank Investment Management的首席执行官），今天我们与壳牌（Shell）的首席执行官**Wael Sawan**（Wael Sawan: 壳牌现任首席执行官）进行对话。我们大多数人将壳牌与路边的加油站联系在一起，但壳牌是一家令人难以置信的公司，它从事勘探、生产、提炼、贸易和运输，涉及汽车、船舶、飞机等各种领域。事实上，我曾读到，壳牌一天提取的能源足以让一辆汽车往返月球超过18,000次。我们拥有该公司3%的股份，价值超过60亿美元。因此，Wael Sawan，欢迎您参加这次播客。

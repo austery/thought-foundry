@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2024-09-13'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6YN9bQ9Ei4U
 speaker: 莊也雜談
@@ -25,7 +23,6 @@ tags:
 - society
 title: 加拿大人海外退休胜地深度解析：意大利、葡萄牙、泰国、马来西亚（下）
 ---
-
 ### 加拿大人青睐的海外退休国家：前四名揭晓
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们继续讲加拿大人最青睐的退休胜地前四名。在节目开始之前，咱们先总结一下上集节目中提到的，最受加拿大人青睐的海外退休国家排名从第五到第十的国家。它们分别是排名第十的哥斯达黎加、排名第九的法国、第八是墨西哥、第七是巴拿马、第六是希腊、第五是西班牙。关于前四名分别是什么，看了上集节目的很多观众在留言区这儿踊跃猜测，还别说，猜得还都挺好的，有不少人猜得真是八九不离十，不过没有完全说中的。好，咱们今儿就废话少说，直入主题，揭晓答案。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - AWS
@@ -25,9 +25,7 @@ people:
 products_models:
 - Claude Code
 - Cursor
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IJ1v-mkxyO4
 speaker: Best Partners TV
@@ -42,7 +40,6 @@ tags:
 - vibe-coding
 title: Martin Fowler 深度剖析：AI对软件工程的颠覆性冲击与我们必须坚守的核心原则
 ---
-
 ### 殿堂级人物的视角：AI是职业生涯中最大的变革
 
 前两周，**Martin Fowler**（殿堂级软件工程师：敏捷宣言签署者之一，著有《重构》等经典著作）做客了《The Pragmatic Engineer》播客节目，与主持人进行了长达110分钟的深度对话。可能很多人对这个名字不太熟悉，但是在程序员圈子里，Martin Fowler绝对是殿堂级的人物。他写的《重构》和《企业应用架构模式》是无数开发者的入门必读书，还是2001年敏捷宣言的签署者之一。可以说，他见证了软件行业过去四十年的几乎所有重大变革。在这期访谈中，两人主要聊的是AI对软件开发的冲击。有趣的是，作为一个从**汇编语言**（Assembly Language: 最接近机器码的低级编程语言）时代走过来的老兵，Fowler对AI的态度既不盲目乐观，也不一味悲观，而是带着一种经历过大风大浪之后的冷静。

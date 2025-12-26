@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: finance
 channel: null
@@ -13,8 +13,7 @@ layout: post.njk
 people:
 - 课代表立正
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: ''
@@ -26,7 +25,6 @@ tags:
 - risk-management
 title: 嘴上长期持有，身体追涨杀跌？投资认知如何建立？
 ---
-
 ## 开场与近期回顾
 
 课代表: hello Terry。

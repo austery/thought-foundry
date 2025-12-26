@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - CME
@@ -17,10 +17,7 @@ people:
 - Donald Trump
 - Elon Musk
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3YmDDx3171c
 speaker: Shanghao Jin
@@ -34,7 +31,6 @@ tags:
 - us-economic-outlook
 title: 2025年6月市场展望：财政扩张、地缘政治与美元及比特币的深层逻辑
 ---
-
 ### 市场概览与宏观经济基本面
 
 上一周市场经历了大量**新闻流**（news flow: 指市场中不断涌现的各类新闻和信息）的驱动，整体表现出较高的**波动性**（volatile: 市场价格或指数在一段时间内变化的剧烈程度）。这些新闻主要来自政治层面（尤其是美国）、美国的经济数据以及全球**中央银行**（Central Bank: 负责制定和执行货币政策的金融机构）的行为。尽管市场波动，但其走势基本遵循了这些新闻流。

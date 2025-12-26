@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -35,10 +35,7 @@ people:
 - Wang Yi
 - 高市早苗
 - 莫茨
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9fLAg8fea5E
 speaker: LT視界
@@ -52,7 +49,6 @@ tags:
 - us-economic-outlook
 title: 何立峰重提中美经贸“压舱石”策略，乌克兰和平计划与中日地缘博弈
 ---
-
 ### 全球经济展望：美国数据、假日购物季与欧洲通胀
 
 在新的一周开始之际，我们首先来了解未来一周最值得关注的五个重大经济事件。第一个值得大家关注的是周二，美国官方会发布重要的经济数据，包括9月份的零售总额和餐饮服务业的数据。原定下周发布的通胀数据被推迟到12月16号，原定于周三发布的三季度的GDP第二次估值也被推迟。所以，尽管周二公布的三个月前的数据对市场的分析研究缺乏时效性，但这毕竟是来自美国政府最权威的数据，市场关注这个数据本身，它并不是真的要去了解这个数据，它还是在强化一种舆论的氛围，就是美国的投资者对美国的宏观经济目前仍然处于两眼抹黑的状态。所以这种情绪本身是值得关注的，而并不是周二的9月份的老数据。政府官员对资本市场的负面冲击还在进一步发酵。

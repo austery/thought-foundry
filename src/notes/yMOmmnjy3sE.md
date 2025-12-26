@@ -10,9 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yMOmmnjy3sE
 speaker: EO
@@ -24,7 +22,6 @@ tags:
 - productivity
 title: 斯坦福实用指南：如何将你的AI生产力提升十倍 | 杰里米·厄特利
 ---
-
 ### AI：一个热情的实习生
 
 I joke, **AI** (Artificial Intelligence: 人工智能) is bad software, but it's good people.

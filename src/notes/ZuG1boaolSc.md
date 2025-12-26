@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - SEC
@@ -11,10 +11,7 @@ layout: post.njk
 people:
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZuG1boaolSc
 speaker: 金融汪
@@ -28,7 +25,6 @@ tags:
 - vie-structure
 title: 特朗普政府对华投资限制政策的全面解析与影响
 ---
-
 ### 对华投资限制的范围拓展
 
 接下来，我们来看一下针对敌对国家的投资限制计划。我认为这份计划实际上是专门针对中国的投资限制计划。为什么这么说呢？因为它从头到尾都在提及中国的名字。虽然它划分了盟友和敌对阵营，但实际上，这是一份专门针对中国制定的投资备忘录。对于中国对美国的投资，它大大拓展了限制行业的标准。以前，中国企业如果想投资美国，一些敏感的、高科技的或涉及国家安全的行业，比如军工行业，是想都别想的，肯定投不了。现在，除了以前不能投的，还涉及美国的食品安全、矿产资源、新能源以及核心基础设施，比如桥梁、港口、高速公路等，这些你也不能投资了。以前可能有人会说，我能不能投资个电厂、投个桥或修个路什么的，现在所有这些都不能投了。你能投资的有多少，就看**外国投资委员会**（CFIUS: Committee on Foreign Investment in the United States，负责审查外国投资对美国国家安全影响的跨部门委员会）到底能给你批多少了，因为他们的权力也在无限扩大。所以，这基本上就是没地方说理了，命运完全掌握在别人手里，也没有什么法律可循了，因为外国投资委员会的权力在扩展，你也别想去诉诸法律了。这是一个很要命的事情。

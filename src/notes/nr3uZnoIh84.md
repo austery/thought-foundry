@@ -18,10 +18,7 @@ people:
 - J.D. Vance
 - Abraham Lincoln
 - Marjorie Taylor Greene
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nr3uZnoIh84
 speaker: 徒步的騎手
@@ -34,7 +31,6 @@ tags:
 - politics
 title: 亨廷顿的“盎格鲁新教传统”：一个概念如何演变为政治“狗哨”
 ---
-
 ### 亨廷顿“盎格鲁新教传统”的争议与学生们的反思
 
 在探讨文明的冲突和短语炼金术时，我们曾提及萨缪尔·亨廷顿去世后，他的几位学生为他举办了一场纪念会。该纪念会的录像已上传至YouTube。在座谈会的问答环节，有观众提到了亨廷顿所强调的**盎格鲁新教传统**（Anglo-Protestant tradition: 一种认为美国核心文化和价值观源于英国新教传统的观点），他的几位学生对此各自发表了看法，这至少在我看来是那场纪念会比较精彩的一段。

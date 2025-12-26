@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - 初日診所
@@ -13,9 +13,7 @@ media_books:
 people:
 - 王律婷
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wDidoLpHlbE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +25,6 @@ tags:
 - ultra-processed-food
 title: 儿童成长警报：超加工食品的隐形威胁，比吸烟更伤健康？
 ---
-
 ### 引言：被忽视的健康警报
 
 一位小朋友曾分享，他从国中到高中，放学后习惯先去便利商店买一包洋芋片，再去隔壁买一杯奶茶。这种看似无害的日常习惯，却可能隐藏着巨大的健康风险。当孩子哭闹时，我们常用糖果安抚；逛便利商店时，也顺手拿几包零食点心。然而，这些“健康零食”的背后，可能潜藏着比吸烟更严重的健康威胁。

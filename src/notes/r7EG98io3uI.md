@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2024-05-10'
@@ -19,10 +19,7 @@ people:
 - Muhammad
 - Paul
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=r7EG98io3uI
 speaker: 超級歪 SuperY
@@ -36,7 +33,6 @@ tags:
 - state
 title: 斯宾诺莎《神学政治论》：揭露奴役的心理机制与思想自由的辩护
 ---
-
 ### 引言：斯宾诺莎与《神学政治论》
 
 哲学令人愉悦，每一集都带你认识一位哲学家。上一期我们介绍了**斯宾诺莎**（Baruch Spinoza: 17世纪荷兰哲学家，理性主义代表人物）的《伦理学》，本期则将深入探讨他的政治哲学著作——**《神学政治论》**（Tractatus Theologico-Politicus: 斯宾诺莎于1670年出版的政治哲学著作）。这本书旨在探讨人类如何挣脱社会束缚，获得真正的自由。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: finance
 channel: null
@@ -12,9 +12,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=ip8jf_PW2u8&t
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - stock
 title: 美股分析：最差CPI报告后的市场反应与Lululemon估值深度剖析
 ---
-
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且再晚也要为大家做日更的专业美股频道，我是市场分析员小陶。今天这期内容的准备时间没有像昨天那么的疯狂，没有七个小时那么长，所以今天我们稍微快一点，大家都可以早点去休息。
 
 昨天那期视频和大家分享了最新公布的**CPI数据**，我个人认为它不是一组非常好的数据，且是今年到现在为止，可能是最差的一份CPI报告。那在周三的时候，有美联储成员出来讲话了，包括市场也做出了反馈，反馈的方向可能和我们的一个理解有一点点偏差。出现了一个多月之前我和大家分享过的一种可能性：9月份降息50个基点。那为什么会出现这种情况？这种情况如果真的发生，对于市场会出现什么一些影响？我们今天稍微讨论一下。

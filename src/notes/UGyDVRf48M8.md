@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国民党
@@ -15,9 +15,7 @@ people:
 - 马英九
 - 郑丽文
 - 蒋介石
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UGyDVRf48M8
 speaker: ZetaBook
@@ -31,7 +29,6 @@ tags:
 - system
 title: 小中華意識形態的傳承：從朝鮮「中華正統」到台灣「九二共識」
 ---
-
 ### 朝貢體系與台灣的“九二共識”
 
 上期“禁書筆記”提出了一個觀點，即**朝貢體系**（Tributary System: 東亞歷史上以中國為中心，周邊國家向中國皇帝進貢並獲得冊封的國際關係模式）是解決台海問題的金鑰匙。許多台灣觀眾認為，今天的中國已非傳統古代的中國，因此歷史經驗無法借鑒。然而，向中國磕頭，用政治紅利向北京朝貢以換取經貿紅利，這並非“禁書筆記”獨創。國民黨早在连战時期就已開始實踐，這是一個已經發生的事實。

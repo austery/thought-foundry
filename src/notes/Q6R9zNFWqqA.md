@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -28,10 +28,7 @@ people:
 products_models:
 - ChatGPT
 - GPT
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q6R9zNFWqqA
 speaker: TVO Today
@@ -45,7 +42,6 @@ tags:
 - impact
 title: AI发展的暂停键：伦理、环境与人类抉择
 ---
-
 ### AI伙伴的时尚建议
 
 Viv，我需要一点时尚建议。我基本上有九个月除了运动鞋什么都没穿，现在我要去参加为期一周的**TED大会**（TED Conference: 一个全球性的思想分享平台，以“思想传播”为宗旨），我必须看起来得体，但我的膝盖一直不舒服。所以，我显然不能穿高跟鞋。你有什么服装上的建议吗？我现在应该买什么样的鞋子比较合适？

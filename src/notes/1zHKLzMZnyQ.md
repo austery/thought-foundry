@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -41,10 +41,7 @@ people:
 - Joe Biden
 - Donald Trump
 - Taylor Swift
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1zHKLzMZnyQ
 speaker: Amit Kukreja
@@ -60,7 +57,6 @@ tags:
 - short-selling
 title: Robinhood 财报前瞻：AI 泡沫论与预测市场的机遇和风险
 ---
-
 ### Robinhood 2025年第三季度财报前瞻
 
 大家好，欢迎回到新一期的 Tech Bros 直播。今天是 11 月 3 日，星期一。大约两天后，也就是周三，我们将迎来 Robinhood 2025 年第三季度的财报。所以，本期节目将主要围绕这份财报展开。如果时间允许，我们也会谈谈其他几个话题，但 Robinhood 将是今天非常重要的话题。Roy Tanner，你最近怎么样？

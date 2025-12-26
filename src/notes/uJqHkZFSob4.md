@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -12,8 +12,7 @@ insight: ''
 layout: post.njk
 people:
 - Sam Altman
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uJqHkZFSob4
 speaker: 徒步的騎手
@@ -24,7 +23,6 @@ tags:
 - trade
 title: 德国与中国关系的转变：从合作共赢到贸易摩擦
 ---
-
 ### 中德关系的蜜月与裂痕  
 
 大家好，这期节目盘点一下德国跟中国的关系，怎么样？从过去的合作共赢走到今天，面临崩塌。我们从华尔街日报的一篇报道讲起。这篇报道的标题是 Why Germany wants divorce with China，为什么德国想跟中国离婚？

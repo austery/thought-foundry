@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 《伟大的博弈》
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-pFywL4xqFI
 speaker: 海淀拙大叔
@@ -26,7 +24,6 @@ tags:
 - product
 title: 巨子生物多空决战：新产品获批后的市场博弈与投资策略
 ---
-
 ### 巨子生物新产品获批及其市场影响
 
 巨子生物近期发布公告，宣布其最新的**冻干纤维**（Lyophilized Fiber: 一种通过冷冻干燥技术制成的纤维产品，常用于生物医疗和护肤领域）产品已获批。该产品有四个值得关注的特点：

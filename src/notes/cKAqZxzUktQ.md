@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: productivity
 companies_orgs: []
 date: '2025-10-08'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - kevinfeng
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cKAqZxzUktQ
 speaker: KevinFeng 冯凯文
@@ -24,7 +23,6 @@ tags:
 - strategy
 title: 告别低效努力：掌握“心流”的秘密，实现专注学习与工作
 ---
-
 ### 专注的本质：意志力还是心流？
 
 过去我曾认为，学习和工作难以专注是因为意志力不足。我曾以为，只要意志力足够强大，就能做到专注。但随着时间的推移，我发现事实并非如此。越是强迫自己专注，反而越是难以集中。这就像睡觉一样，越想睡着，越睡不着。

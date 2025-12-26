@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hXHdDOM_mos
 speaker: 投资TALK君
@@ -24,7 +22,6 @@ tags:
 - technology
 title: 降息预期、劳动力市场与市场参与度：美股最新分析与展望
 ---
-
 ### 市场回顾与机构操作观察
 
 今天将讨论宏观数据、鲍威尔的讲话、美联储接下来的降息预期，并更新操作建议，最后对二季度的财报季度进行展望。

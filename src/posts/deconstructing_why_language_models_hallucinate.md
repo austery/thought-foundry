@@ -1,10 +1,9 @@
 ---
 title: 深度解析：为何语言模型会产生幻觉？
 summary: 深入剖析OpenAI与佐治亚理工的联合研究，揭示语言模型产生幻觉的两大根源：预训练阶段的统计误差传导，以及后训练阶段的评估机制激励错位，并探讨相应的解决方案。
-area: tech-insights
+area: "tech-engineering"
 category: technology
-project:
-- ai-impact-analysis
+project: []
 tags:
 - design
 - large-language-model
@@ -23,7 +22,6 @@ series: null
 source: null
 status: evergreen
 ---
-
 ### 引言：揭开“幻觉之谜”
 
 大家好，这里是最佳拍档，我是大飞。今天要和大家深度拆解一篇有希望能彻底解开“幻觉之谜”的重磅研究，即来自OpenAI和佐治亚理工联合发表的论文《为什么语言模型会有幻觉（Why Language Models Hallucinate）》。

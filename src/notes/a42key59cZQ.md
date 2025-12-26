@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -42,8 +42,7 @@ products_models:
 - AlphaZero
 - AlexNet
 - Adderall
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a42key59cZQ
 speaker: Dwarkesh Patel
@@ -56,7 +55,6 @@ tags:
 - theory
 title: Gwern谈AI预测、智能本质与独立研究生活
 ---
-
 今天，我采访了**Gwern Branwen**。**Gwern**是一位匿名研究员和作家，他对构建**AGI**（通用人工智能）的人们产生了深远影响。他是最早预见到**LLM**（大型语言模型）规模化趋势的人之一。如果你读过他的博客，就会知道他是当今最有趣的博学思想家之一。我们面对面录制了这次对话，为了保护**Gwern**的匿名性，我们创建了这个虚拟形象。这不是他的声音，也不是他的脸，但这些都是他的原话。
 
 ### 匿名性的价值

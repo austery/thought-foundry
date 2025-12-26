@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Tsinghua University
@@ -19,10 +19,7 @@ media_books:
 people:
 - Anthony
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tGAEri1JdY0
 speaker: Anthony看世界
@@ -36,7 +33,6 @@ tags:
 - nationalism
 title: 中国文化中的退行倾向：从语文教育到民族主义的心理学解读
 ---
-
 ### 中国语文教育中的“回归母胎”倾向
 
 大家好，我是Anthony。欢迎来到我的频道。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - CMU
@@ -13,9 +13,7 @@ layout: post.njk
 people:
 - Nobita
 - 高市早苗
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hMncL1bZobA
 speaker: 北美王路飞
@@ -28,7 +26,6 @@ tags:
 - strategy
 title: 从华科到日本：一位普通留学生的求学、求职与生存之道
 ---
-
 ### 个人背景与留学初心
 
 大家好，我是 Nobita。我毕业于国内的华中科技大学机械学院。毕业后，我先在国内工作了几年，之后才来到日本读书，现在已经步入职场。

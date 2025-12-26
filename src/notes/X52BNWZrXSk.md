@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: technology
 companies_orgs: []
 date: '2025-10-06'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - bg2-pod
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X52BNWZrXSk
 speaker: Bg2 Pod
@@ -27,7 +24,6 @@ tags:
 - 人才竞争
 title: Invest America法案签署与AI人才大战：迈克尔·戴尔与比尔·格利谈美国未来
 ---
-
 ### AI带来的生产力提升是否会超越个人电脑和互联网时代？
 
 Is the productivity gains from this going to be as big or bigger than what we saw from personal computers and the internet?

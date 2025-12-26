@@ -18,12 +18,11 @@ draft: true
 series:
 category:
 area:
-project: Peter Thiel revenge
+project: []
 status: evergreen
 created: 2025-09-19T21:08
 updated: 2025-09-23T14:29
 ---
-
 ### 序幕：胜利后的危机
 
 大家好，欢迎来到我的频道。今天这期节目，终于来到Peter Thiel这个系列的最终章。上一期，我们把镜头对准了那场惊心动魄的法庭对决，看到了Peter Thiel团队是如何通过精准的战术，把Gawker送上了舆论和法律的双重断头台。 当陪审团宣布裁决那一刻，整个世界都震惊了，1.15亿美金的赔偿，这已经不是打脸了，这就是死刑。 

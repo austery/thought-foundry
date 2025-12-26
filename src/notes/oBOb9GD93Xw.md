@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-11-20'
@@ -11,8 +11,7 @@ people:
 - John Locke
 - David Hume
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oBOb9GD93Xw
 speaker: 大问题Dialectic
@@ -26,7 +25,6 @@ tags:
 - theory
 title: 主观唯心主义：贝克莱的“存在就是被感知”哲学解析
 ---
-
 ### 哲学大概念：存在就是被感知
 
 欢迎来到《100个哲学大概念开悟人生》。今天要讲解的哲学大概念是“存在就是被感知”这句名言。这句名言由英国哲学家**乔治·贝克莱**（George Berkeley: 17世纪爱尔兰经验主义哲学家，主观唯心主义的代表人物）提出。许多人听过这句话，并认为它是一种典型的**主观唯心主义**（Subjective Idealism: 认为一切存在都依赖于心灵或意识的感知，没有独立于感知者而存在的客观物质世界）。

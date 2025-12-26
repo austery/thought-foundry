@@ -13,8 +13,7 @@ media_books:
 people:
 - 雨白
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61
 speaker: 知行小酒馆
@@ -23,7 +22,6 @@ tags:
 - global-economy
 title: 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？
 ---
-
 ## 开场：波澜壮阔的市场与远方的观察者
 
 **俞白**

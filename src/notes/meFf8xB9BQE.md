@@ -15,10 +15,7 @@ people:
 - Jerome Powell
 - Donald Trump
 - jobs-report
-project:
-- us-analysis
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=meFf8xB9BQE
 speaker: Bloomberg Podcasts
@@ -30,7 +27,6 @@ tags:
 - labor-market
 title: 月度就业报告的深层问题：数据偏差、经济放缓与全球展望
 ---
-
 ### 月度就业报告的可靠性困境
 
 主持人：乔，我有一个令人尴尬的坦白。

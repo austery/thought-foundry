@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - 蚂蚁集团
@@ -38,8 +38,7 @@ products_models:
 - EUV
 - ChatGPT
 - Gemini
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0e5y2wT4xBA
 speaker: 小翠時政財經
@@ -52,7 +51,6 @@ tags:
 - market-analysis
 title: 中国“光刻机鬼故事”与AI投资：甲骨文、OpenAI及市场情绪分析
 ---
-
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月18日，欢迎收看我们今天的每日要闻节目。首先，我们从中国A股市场讲起。12月18日，A股市场走势分化，截至收盘，沪指上涨0.16%，深成指下跌1.29%，创业板指下跌2.17%。港股恒生指数尾盘飘红，最终收涨0.12%，恒生科技指数收跌0.73%，像**小米**、**阿里巴巴**等公司股价昨日均下跌。
 
 ### 市场热点速览

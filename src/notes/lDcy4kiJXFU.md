@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 富士康
@@ -16,10 +16,7 @@ media_books:
 - 《放羊的星星》
 - 《搭车去柏林》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lDcy4kiJXFU
 speaker: 一席YiXi
@@ -32,7 +29,6 @@ tags:
 - psychology
 title: 在生命的河流中寻找自己的船：一位编剧的故乡、破碎与重生
 ---
-
 ### 生命的河流与破碎的故乡
 
 大家好，我是陈小雨。我是一个编剧和导演，在2019年创作了电影《乘船而去》——一部关于归宿的家庭影片，故事发生在我的老家浙江德清。

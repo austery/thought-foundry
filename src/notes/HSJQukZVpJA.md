@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 小鹏
@@ -42,10 +42,7 @@ products_models:
 - DDR5
 - ChatGPT
 - 比特币
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HSJQukZVpJA
 speaker: 小翠時政財經
@@ -59,7 +56,6 @@ tags:
 - stock-market-trend
 title: 全球市场速览：A股重返4000点，巴菲特加仓日本，Robinhood业绩爆表，AI冲击就业市场
 ---
-
 ### A股市场强势上涨与科技热点
 
 2025年11月6日，**A股**（中国A股市场: 中国大陆的股票市场）市场强势收涨，三大指数集体走高。上证指数上涨0.97%，重返4000点；**深成指**（深圳证券交易所成分指数: 反映深圳证券交易所上市股票表现的指数）上涨1.73%；**创业板指**（创业板指数: 反映深圳证券交易所创业板股票表现的指数）上涨1.84%；**科创50指数**（上海证券交易所科创板50成分指数: 反映上海证券交易所科创板股票表现的指数）收涨3.34%。有色板块集体拉升，中国铝业涨停，创15年新高。机器人概念股表现活跃，这与中国近期多项机器人相关炒作事件有关。例如，小鹏汽车推出了一款名为IRO的机器人，引发了关于其真实性的讨论，但其功能性并未得到充分展示。这种对产品真实性的质疑，反映出中国企业在诚信度方面面临的挑战。

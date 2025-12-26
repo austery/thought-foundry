@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国人民解放军
@@ -30,11 +30,7 @@ people:
 - 蒋介石
 - 杜鲁门
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2ZAGjxFskVc
 speaker: 柴静 Chai Jing
@@ -47,7 +43,6 @@ tags:
 - war
 title: 朝鲜战争志愿军战俘：被劫持的战争与人性的代价
 ---
-
 ### 战俘甄别前的政治博弈与营内冲突
 
 上一期节目结束时，我们提到在1952年4月份**甄别**（Screening/Identification: 战俘选择遣返去向的过程）之前，美国和中国都预估并希望能够回大陆的战俘越多越好，这样能够促成尽早的停战。因此，美方在甄别时询问战俘的问题清单上不但没有台湾的选项，而且七个问题中的每一个都会给战俘造成极大的压力。在甄别的前两天，他们又在战俘营反复广播中方的声明，用以打消那些身上曾经有**刺字**（Tattooing: 强行在战俘身上纹身以表明政治立场）或者写过**血书**（Blood Oath/Letter: 用血写下的誓言或信件）的人的顾虑。这个声明里说：“我们深知他们的行为绝非出于自愿，不应该由他们负责。我们完全欢迎所有的战俘人员回到祖国的怀抱，过和平的生活。”

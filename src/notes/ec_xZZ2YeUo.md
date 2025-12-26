@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - YouTube
@@ -23,10 +23,7 @@ people:
 - 司马南
 - 金正恩
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ec_xZZ2YeUo
 speaker: 張内咸
@@ -39,7 +36,6 @@ tags:
 - society
 title: 美国网红IShowSpeed中国行：中共外宣经费与互联网认知盲区深度解析
 ---
-
 ### 美国网红IShowSpeed中国行引发的“外宣”争议
 
 大家好，我是张内咸。上周，美国知名YouTube网红**IShowSpeed**（美国知名YouTube网红，以直播和娱乐内容为主）来中国旅游，中国人称他为“**甲亢哥**”（中国网友对IShowSpeed的昵称，形容其亢奋状态）。这件事在中文和英语世界都引起了广泛关注和讨论。有人认为他是来旅游的，也有人说他收了**CCP**（中国共产党）的钱，来为中共做外宣。那么，他到底是不是中共的外宣？如果是，中共又给了他多少钱呢？

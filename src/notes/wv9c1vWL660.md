@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2022-02-18'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wv9c1vWL660
 speaker: 一口新飯
@@ -24,7 +21,6 @@ tags:
 - technology
 title: 股市投资回报：揭秘散户赚钱的真相与合理预期
 ---
-
 ### 股市神话的解构与投资预期的重塑
 
 如果长期研究股票投资，你一定听说过“90%的人在股市里都赔钱”的说法。大多数文章，包括一些财经视频博主，都将这个数据当作既定事实来引用。然而，经过大量调查，我发现这种说法更多是对一系列研究的错误表述。那么，作为散户投资者，到底有多少比例的人是赚钱的呢？我们在股市中的投资回报率的合理预期又应该是多少？这些问题其实非常不好回答，尤其是在过去两年的牛市中，当所有人似乎都在赚大钱，抱有不切实际的期待时。现在，市场似乎开始冷静下来了，我们也终于可以心平气和地来聊一聊，作为一名股票投资者，我们到底应该期待一个什么样的投资回报率。

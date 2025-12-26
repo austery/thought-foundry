@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BBC
@@ -15,10 +15,7 @@ media_books:
 - The Rundown
 people:
 - Osama bin Laden
-project:
-- geopolitics-watch
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nmSWaFc5l8c
 speaker: TVO Today
@@ -32,7 +29,6 @@ tags:
 - human-resilience
 title: 阿富汗的往昔、加拿大的角色，以及见证这一切的酒店
 ---
-
 ### 阿富汗的希望与变迁
 
 主持人: 你还记得2001年**塔利班**（Taliban: 阿富汗的一个伊斯兰原教旨主义政治与军事组织）倒台的时候吗？

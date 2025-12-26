@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-05-06'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uWzetJU8Ly0
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - trade-tariff
 title: 新广场协议、货币战与美联储会议前瞻：市场动态与财报深度解析
 ---
-
 ### 市场概览与本期内容预告
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小涛。今天这期内容的前半部分，我想先聊一下在过去几天我们所看到的亚洲市场货币的相对强势，包括未来有可能央行的潜在干预，以及这背后的原因。然后，我们将对关税政策做一个更新，同时展望周三的美联储会议。展望之后，在财报季度，我们当然要聊财报，分析一下周一盘后发布财报的Palantir和上一周有观众要求我讲解的Block的财报。那么就废话不多说，马上开始。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -43,10 +43,7 @@ people:
 - Mike Johnson
 products_models:
 - Blackwell
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cr3EKnWRL40
 speaker: Amit Kukreja
@@ -62,7 +59,6 @@ tags:
 - short-selling
 title: Palantir CEO Alex Karp 猛烈回击空头 Michael Burry，解读AI泡沫与市场动荡
 ---
-
 ### Palantir CEO Alex Karp：我们是一家反常规的公司
 
 早上好，很高兴见到你。我们之前在节目中请过你的传记作者，现在终于能和你本人对话了。Palantir 的财报可以说全面超预期，我们可以稍后讨论为什么股市的反应是这样。但昨天我听了电话会议，你提出了一些非常有趣的观点，关于为什么你认为这家公司，甚至你自己，被如此严重地误解了。

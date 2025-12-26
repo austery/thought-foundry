@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - FBI
@@ -17,9 +17,7 @@ people:
 - Barack Obama
 - Osama bin Laden
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xDQyLnNAXr4
 speaker: The Diary Of A CEO
@@ -34,7 +32,6 @@ tags:
 - emotional-regulation
 title: 前特勤局审讯专家：如何驾驭那些让你恐惧的艰难对话
 ---
-
 ### 如何驾驭“黑暗对话”
 >> Desmond O'Neal，对于刚点开这段对话的观众，他们能从我们的讨论中学到什么？
 

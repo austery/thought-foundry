@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - OpenAI
@@ -22,10 +22,7 @@ people:
 products_models:
 - GPT-4o
 - MCP协议
-project:
-- cultural-critique
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cxEkL-RsoPw
 speaker: 一席YiXi
@@ -39,7 +36,6 @@ tags:
 - technology
 title: 在AI能复制一切的时代，做自己才是真正的护城河
 ---
-
 ### 讲述者简介
 
 赵汗青，一位来自北京的85后，是AI内容生成的实践者与探索者。他的职业生涯分为三个阶段：20岁前，他是一位在美术学院完成学业的画画者；大学毕业后，他在互联网大厂从事了18年的产品与研发管理工作；30多岁后，他成为一名“数字游民”，与太太共同创立了小型媒体品牌“AI.Talk”，致力于用AI技术进行各种有趣的创作。

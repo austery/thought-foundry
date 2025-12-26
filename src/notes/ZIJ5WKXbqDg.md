@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Adobe
@@ -33,10 +33,7 @@ people:
 - 薛健
 - 卢比奥
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZIJ5WKXbqDg
 speaker: LT視界
@@ -50,7 +47,6 @@ tags:
 - us-china-relations
 title: 高盛为中国经济指路？委内瑞拉局势紧张、中日关系再起波澜
 ---
-
 ### 美国“黑色星期五”消费数据分析
 
 路透社和 Salesforce 的报告显示，美国人在“黑色星期五”的网上消费额分别创下 118 亿美元（同比增长 9.1%）和 180 亿美元（同比增长 3%）的纪录。Salesforce 的数据包括线上和实体店消费，奢侈服装和配件最受欢迎。虽然消费总额增加，但价格上涨抑制了消费需求，导致消费者购买的商品数量减少。LT 认为，美国人的消费市场仍然正常，比去年有一定的增长。

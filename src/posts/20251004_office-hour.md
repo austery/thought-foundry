@@ -4,8 +4,7 @@ author: null
 category: ai-ml
 date: 2025-10-04
 layout: post.njk
-project:
-- ai-impact-analysis
+project: []
 published: null
 source: https://www.youtube.com/watch?v=aJs-8slesUA
 speaker: 用AI發電
@@ -15,7 +14,6 @@ summary: 欢迎来到本次的“小白专场”开放问答实战手册。这�
 tags: []
 title: 20251004 office hour小白專場 開放問答
 ---
-
 ### 第一部分：核心理念 — AI时代下的个体生存法则
 
   

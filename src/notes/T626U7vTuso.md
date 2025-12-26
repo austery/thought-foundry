@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -39,10 +39,7 @@ products_models:
 - Foundry
 - Vantage
 - Golden Dome
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T626U7vTuso
 speaker: Amit Kukreja
@@ -57,7 +54,6 @@ tags:
 - stock-valuation
 title: Palantir 2025年Q3财报深度解析：增长惊人，Karp称其为“史上最佳”
 ---
-
 ### 财报前瞻：社区的期待与祝福
 
 大家好，欢迎收看又一期的 Palantir 财报直播。今天是11月3日，星期一，我们将迎来 Palantir 2025年第三季度的财报。我非常激动能来到这里。我们团队——包括我自己、Matt、Amir、Arie、Suchin 以及这个社区的许多成员——已经关注这家公司四年了。所以我们又有机会再次为大家解读，能有这样的机会，我们深感荣幸，希望大家能喜欢我们的分析。

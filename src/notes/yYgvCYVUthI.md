@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-06'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yYgvCYVUthI
 speaker: a16z
@@ -24,7 +22,6 @@ tags:
 - us-china-relations
 title: 律师社会与工程师国家：中美竞争与未来走向
 ---
-
 ### 超越刻板框架，追求共同进步
 
 I want people to get out of these rigid frameworks like socialist, capitalist, neoliberal, autocratic to think about the US and China.

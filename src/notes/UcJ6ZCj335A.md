@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-05-15'
@@ -16,9 +16,7 @@ people:
 - 拉康
 - 亚里士多德
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UcJ6ZCj335A
 speaker: 大问题Dialectic
@@ -33,7 +31,6 @@ tags:
 - technology
 title: 斯多葛主义的「精神止损法」：区分可控与不可控，摆脱精神内耗
 ---
-
 ### 斯多葛主义的核心智慧：区分可控与不可控
 
 **斯多葛主义**（Stoicism: 古罗马哲学流派，强调区分可控与不可控，追求内心平静与理性生活）哲学教导我们，人生在世一定要区分好两种事情：一种是自己能控制的事情，另一种是自己不能控制的事情。我们千万不要把自己的心思耗费在那些自己不能控制的事情上，因为你改变不了它们。耗费再多的时间和心力都属于是毫无意义的**精神内耗**（Mental Internal Friction: 指个体在面对问题时，过度思考、担忧或自责，消耗心理能量却无法解决问题的状态）。

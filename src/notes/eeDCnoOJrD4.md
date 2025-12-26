@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - European Union
@@ -22,10 +22,7 @@ people:
 - Adolf Hitler
 - Benjamin Netanyahu
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eeDCnoOJrD4
 speaker: 北美王路飞
@@ -39,7 +36,6 @@ tags:
 - security
 title: 特朗普斡旋俄乌冲突：米尔斯海默与皮拉什的终局辩论
 ---
-
 ### 特朗普的和平斡旋与停火争议
 
 大家好，欢迎来到我的频道。今天我们继续探讨俄乌谈判。前两天，美国前总统**唐纳德·特朗普**（Donald Trump: 美国前总统，现任总统候选人）在阿拉斯加与俄罗斯总统**普京**（Vladimir Putin: 俄罗斯总统）进行了面对面的闭门会谈。紧接着，他又飞回白宫，召开了一场高能峰会。这场峰会汇聚了重量级人物，包括乌克兰总统**泽连斯基**（Volodymyr Zelenskyy: 乌克兰总统），以及英国、法国、德国、意大利、芬兰等七个欧洲国家的领导人，外加上欧盟和北约的最高负责人。这阵仗简直把半个西方世界的决策者都凑到了一个桌子上。

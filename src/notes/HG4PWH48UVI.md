@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HG4PWH48UVI
 speaker: Bloomberg Podcasts
@@ -23,7 +22,6 @@ tags:
 - gold
 title: 黄金飙升至4000美元，日本央行面临加息困境，人工智能重塑金融业
 ---
-
 ### 黄金价格飙升与投资者避险情绪
 
 Original English sentence(s) from the transcript.

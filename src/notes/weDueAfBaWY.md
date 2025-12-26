@@ -24,9 +24,7 @@ people:
 - Taylor Swift
 products_models:
 - MRNA疫苗
-project:
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=weDueAfBaWY
 speaker: 记者易速利
@@ -39,7 +37,6 @@ tags:
 - politics
 title: 肯尼迪家族的陨落：昔日政治王朝的悲剧、纷争与未来
 ---
-
 ### 肯尼迪家族：一个政治王朝的兴衰
 
 肯尼迪家族，这个名字常常让人联想到历史、政治和悲剧。但在这背后，是一个非常真实、非常现代的家庭，他们正努力在生活中互相扶持。

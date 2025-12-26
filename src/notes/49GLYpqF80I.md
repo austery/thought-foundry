@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国国务院
@@ -15,10 +15,7 @@ media_books:
 people:
 - 阿li
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=49GLYpqF80I
 speaker: 壽司坦丁 Sociostanding
@@ -32,7 +29,6 @@ tags:
 - us-foreign-policy
 title: 斩断翅膀的救赎：菲律宾女公关的东京梦华录
 ---
-
 ### 东京性产业的灰色地带
 
 本集内容涉及敏感话题。东京，作为日本性产业最大的集散地之一，从都市到边陲，提供性服务的种类相当繁杂。从陪酒、调情、打手枪、性器官摩擦到口交，只要发生在政府核准的性风俗营业场所，都是合法的。日本法律禁止异性之间的阴道性交易，但神户大学的社会学者千山勋告诉我们，两道主管法令——**卖春防止法**（Baishun Bōshi Hō: 日本禁止卖淫的法律）和**风俗营业法**（Fūzoku Eigyō Hō: 日本规范性风俗场所经营的法律）之间，始终存在着让阴道性交易准合法化的灰色地带。

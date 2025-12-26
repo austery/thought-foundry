@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Visa
@@ -26,8 +26,7 @@ products_models:
 - GitHub Copilot
 - USDC
 - Bitcoin
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pDC8mIbjRgM
 speaker: a16z
@@ -42,7 +41,6 @@ tags:
 - venture-capital
 title: AI如何重塑金融科技：从繁荣到寒冬再到2026年的展望
 ---
-
 ### 金融科技的四季变迁
 
 2018年至2019年，金融科技领域正值晚春时节，行业发展势头良好，增长显著。彼时，金融科技作为一个独立行业已经有了自己的名称，这要归功于**David**在2015年创造的这一术语。我们看到无数创新涌现，例如**Robinhood**等应用迅速崛起，各种针对特定市场的**新银行**（Neo Bank: 纯数字银行，无实体分支机构）层出不穷，以及早期的加密货币应用也开始崭露头角。

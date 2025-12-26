@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-11-24'
 draft: true
@@ -9,8 +9,7 @@ layout: post.njk
 products_models:
 - Claude
 - Gemini
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zMXKhhwiCIc
 speaker: AI Engineer
@@ -26,7 +25,6 @@ tags:
 - technology
 title: Backlog.md：AI 智能体任务管理的终端看板工具
 ---
-
 ### 引言：AI 智能体任务管理的挑战与 Backlog.md
 
 您的**人工智能智能体**（AI Agent: 能够自主执行任务的程序）是否曾工作了将近一个小时，结果却发现它方向错了，或者在执行某个重要任务的过程中耗尽了**上下文窗口**（Context Window: AI 模型处理信息的能力范围）？

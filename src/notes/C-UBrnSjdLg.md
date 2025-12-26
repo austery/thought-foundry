@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -17,10 +17,7 @@ people:
 - Yoshua Bengio
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C-UBrnSjdLg
 speaker: 一席YiXi
@@ -34,7 +31,6 @@ tags:
 - value
 title: AI的深层隐患：从对抗样本到价值对齐
 ---
-
 ### 从自动驾驶到价值对齐：AI系统的深层隐患
 
 大家好，我叫吴翼，之前在OpenAI工作，现在是清华大学交叉信息研究院的助理教授，也是博士生导师，主要研究方向是强化学习。这是我第二次来到“一席”，五年前我刚从OpenAI回国时，曾以《嘿！AGI》为题分享过AI的前景。今天我特意翻出当时的照片，想找回一点年轻时的热情。

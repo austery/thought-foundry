@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Nvidia
@@ -34,9 +34,7 @@ products_models:
 - Starlink
 - FSD
 - Robotaxi
-project:
-- ai-impact-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KikJoLhQ_Qc
 speaker: 小翠時政財經
@@ -49,7 +47,6 @@ tags:
 - technology
 title: 每日要闻：中国商业航天与SpaceX差距，快手遭攻击，英伟达H200出货中国，AI芯片需求旺盛
 ---
-
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月23日，欢迎收看今天的每日要闻节目。
 
 ### A股与港股新股

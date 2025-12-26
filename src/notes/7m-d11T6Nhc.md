@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - IMF
@@ -23,10 +23,7 @@ people:
 - Javier Milei
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7m-d11T6Nhc
 speaker: Bloomberg Podcasts
@@ -40,7 +37,6 @@ tags:
 - political-reform
 title: 阿根廷：为何深陷无休止的债务危机与救助循环？
 ---
-
 ### 阿根廷的最新救助与历史困境
 
 **Tracy Alloway:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是特蕾西·阿洛威。

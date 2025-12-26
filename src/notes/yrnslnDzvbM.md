@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - SoFi
@@ -38,10 +38,7 @@ people:
 products_models:
 - ChatGPT
 - Azure
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yrnslnDzvbM
 speaker: Amit Kukreja
@@ -55,7 +52,6 @@ tags:
 - market-reaction
 title: SoFi 与 PayPal 财报解析：FinTech 创新与 AI 合作的市场反应
 ---
-
 ### SoFi 首席执行官 Noto 解读强劲财报
 我们从业绩报告开始，首先是 PayPal。SoFi 的 CEO 安东尼·诺托（Anthony Noto）正在 CNBC 上。财报数据显示，SoFi 的每股收益（EPS）和营收双双超预期，每股收益超出2美分，营收超出约2000万美元。
 

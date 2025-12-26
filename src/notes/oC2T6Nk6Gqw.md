@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-12'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - ai-report
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oC2T6Nk6Gqw
 speaker: Best Partners TV
@@ -25,7 +23,6 @@ tags:
 - trend
 title: 2025年AI现状报告深度解读：推理飞跃、营收转型与全球博弈
 ---
-
 ### 引言：AI年度圣经揭示行业真貌
 
 内森·贝纳奇（Nathan Benaich）及其Air Street Capital团队近日发布了最新的《2025年AI现状报告》。这份已连续发布八年的报告，被誉为全球最受信任的开源AI进展追踪报告，堪称AI领域的年度圣经。本期内容将从研究、行业、政治、安全、用户调查及未来预测六个维度，共同揭示2025年AI世界的真实面貌，审视那些改变行业的技术突破、暗藏的风险以及未来一年可能发生的关键变革。需提前说明，由于报告内容庞杂，此处仅能抽取有限部分进行分析，建议大家阅读原文获取更全面的信息。

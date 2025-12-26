@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - McDonald's
@@ -32,10 +32,7 @@ products_models:
 - Remarkable 2
 - Remarkable Paper Pro
 - Remarkable Paper Pro Move
-project:
-- entrepreneurship
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h1fIVmf7uaw
 speaker: The Knowledge Project Podcast
@@ -50,7 +47,6 @@ tags:
 - thinking
 title: 长期贪婪，短期不傻：Panera 创始人揭示 78 亿美元出售背后的商业哲学
 ---
-
 ### 长期贪婪，而非短期愚蠢
 
 我从事这个行业已经超过半个世纪了。我曾参与在美国创建面包咖啡馆，比如 Au Bon Pain 和 Panera，这些都是市场上的主导品牌。你是如何培养出这种应用于所有这些不同概念的长期思维的？我有一个说法：我选择“长期贪婪，而非短期愚蠢”。

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - SpaceX
@@ -29,8 +29,7 @@ products_models:
 - GPT-5
 - H100 GPU
 - Project Kuiper
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1pIVecYA_9A
 speaker: Best Partners TV
@@ -42,7 +41,6 @@ tags:
 - technology
 title: 太空算力：SpaceX的未来愿景还是资本泡沫？
 ---
-
 大家好，这里是最佳拍档，我是小飞。
 
 在之前说**SpaceX IPO**的视频里，我们提到了**太空算力**的概念，但是当时只是提了一下，语焉不详。所以今天我们稍微更深入地来聊聊这件事，看看它到底是未来的趋势，还是资本催生的泡沫呢？它的技术逻辑是否成立呢？又面临哪些无法回避的挑战呢？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 author: 贾葭
 category: geopolitics
 companies_orgs:
@@ -17,10 +17,7 @@ media_books:
 people:
 - 贾葭
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3KEtLmFQ_s0
 speaker: 东京人文论坛
@@ -36,7 +33,6 @@ tags:
 - system
 title: 日本为何排外？从历史传统到当下右翼思潮的深度剖析
 ---
-
 ### 引言：日本人排外吗？一个有历史根源的民族心理
 
 很抱歉来晚了。我今天出门很早，去关西机场见了一位四年未见的大学同学。他是一位中央电视台的记者，路过大阪机场去和歌山玩。我打趣他说：“你们这么散布仇日情绪，自己还跑到日本来玩。”他回答说：“宣传工作是宣传工作，旅游是生活。”我想他应该也是党员，在中央台那么多年了。我接着又恶心了他一下，说：“你们都趁地震后跑来玩，这两天还有余震呢。”他说：“真的吗？”所以我就说，体制内的这些人，信息处理能力真的是有问题的。

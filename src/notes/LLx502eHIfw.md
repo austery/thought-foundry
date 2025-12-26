@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -24,10 +24,7 @@ products_models:
 - GPT-3
 - GPT-4
 - GPT-5
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LLx502eHIfw
 speaker: Shanghao Jin
@@ -41,7 +38,6 @@ tags:
 - us-government-shutdown
 title: 市场概述：美国政治、中美关税、AI泡沫与加密市场异动分析
 ---
-
 ### 美国政治僵局与政府关门影响
 
 大家好，我们两周没有交流了。这次会议其实是一次重录，因为实际会议时发生了一些技术问题，导致录制中断。因此，我在讲解时会更加谨慎。两周前，我们讨论了几个重要事件，其中之一是美国政府关门。当时，**唐纳德·特朗普**（Donald Trump）与民主党之间出现了**僵持**（Stand Off: 指双方对峙，互不让步的局面）。我们当时预期政府可能会关门，但没想到会持续这么长时间。

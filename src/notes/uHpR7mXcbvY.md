@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - United Nations
@@ -18,10 +18,7 @@ people:
 - Putin
 products_models:
 - ''
-project:
-- geopolitics-watch
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uHpR7mXcbvY
 speaker: TVO Today
@@ -35,7 +32,6 @@ tags:
 - ukraine-war
 title: 从战争到人权：乌克兰的未来与加拿大的责任
 ---
-
 ### 引言：乌克兰战争、人权与加拿大的角色
 
 在2024年美国总统大选前夕，唐纳德·特朗普曾反复强调他将在上任第一天结束俄乌战争。然而，如今已接近他第二个任期的开始，欧洲自第二次世界大战以来最大、最血腥的冲突仍在继续。成千上万的人丧生，似乎看不到尽头。那么，局势究竟如何？我们离和平协议还有多远？在多年的艰辛与损失之后，又是什么给了乌克兰人希望？

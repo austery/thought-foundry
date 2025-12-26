@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-01-10'
 draft: true
@@ -22,10 +22,7 @@ people:
 - James Madison
 - John Taylor
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0UtFlaHqMrA
 speaker: 超級歪 SuperY
@@ -38,7 +35,6 @@ tags:
 - power
 title: 颠覆传统认知：民主的全球起源与现代民主的挑战
 ---
-
 ### 重新审视民主的起源：挑战欧洲中心论
 
 台湾的总统大选即将到来，我们成长于民主制度下，常常将民主选举视为理所当然。然而，许多人并不真正了解民主的原始含义是什么？民主制度又是如何产生的？今天我们将探讨戴维·斯塔萨维奇所著的《民主的擂台》一书，它将带我们回顾民主的千年历史。

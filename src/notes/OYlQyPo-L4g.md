@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -21,9 +21,7 @@ products_models:
 - Midjourney
 - GPT
 - LLM
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OYlQyPo-L4g
 speaker: TechButMakeItReal
@@ -36,7 +34,6 @@ tags:
 - financial
 title: 为什么大多数AI初创公司都不是好生意
 ---
-
 ### AI应用浪潮下的经济现实
 
 发布应用程序从未如此简单。

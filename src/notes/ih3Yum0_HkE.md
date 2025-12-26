@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Reuters
@@ -43,10 +43,7 @@ products_models:
 - Affordable Care Act
 - GPU
 - Fentanyl
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ih3Yum0_HkE
 speaker: 小翠時政財經
@@ -60,7 +57,6 @@ tags:
 - us-government-shutdown
 title: 美政府重开提振市场，中国机器人豪赌存风险，多国经济政策引关注
 ---
-
 ### 市场概览与中国消费刺激政策
 
 大家好，欢迎回到小崔时政财经。今天是美东时间2025年11月10日，欢迎收看本周的每日要闻节目。今天是一个令人振奋的日子，因为美国政府终于有望重新开门，资本市场普遍表现良好。

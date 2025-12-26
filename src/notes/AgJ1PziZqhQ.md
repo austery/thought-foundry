@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -25,10 +25,7 @@ products_models:
 - TLT
 - VIX
 - Bitcoin
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AgJ1PziZqhQ
 speaker: 投资TALK君
@@ -42,7 +39,6 @@ tags:
 - us-stock-market
 title: 美股一季度回顾、关税影响与非农预测：市场深度分析
 ---
-
 ### 引言：美股一季度回顾与展望
 
 各位观众大家好，欢迎来到一个不单止聊新闻的专业美股频道。我是市场分析人小涛。周一正好是三月份最后一个交易日，也是第一季度最后一个交易日。我们正好在第一季度走完之后，来对第一季度或者**YTD**（Year-to-Date: 从年初至今）的走势做一个总结。同时，我们对于一些数据进行更新，例如市场的参与度，市场对于美联储今年降息的预期是否改变，以及纳指或科技板块目前的估值位置。今天彭博社正好有一篇新闻指出，当前估值已接近历史平均水平。

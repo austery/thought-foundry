@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 公安局
@@ -19,10 +19,7 @@ people:
 - Xi Jinping
 products_models:
 - 学习强国APP
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SLudnQDghdw
 speaker: 三個水槍手
@@ -36,7 +33,6 @@ tags:
 - society
 title: 中国人口危机、社会化抚养迷思与未来走向：一场评论深度对话
 ---
-
 我们来进行读评论节目。这次读的是易富贤老师那期的评论。其实我本来想读吴国光老师那期的，那期评论量特别大，但我挑不出来，全都是攻击吴老师、攻击我们，说我们是汉奸，说“美国现在都这样了，你们还在吹民主”之类的评论。我觉得这种评论含量比较低，我也不知道该怎么回应。下次我们可以尝试用机器人来读这些评论，机器人对机器人。
 
 那期评论量确实非常大，我本以为能选出一些来读，结果全是这类东西，所以选不出来。因此，我们选了易富贤老师这期关于生育问题的节目，这期确实影响挺大的。

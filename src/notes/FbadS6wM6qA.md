@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-13'
@@ -11,9 +11,7 @@ media_books:
 - bloomberg-podcasts
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FbadS6wM6qA
 speaker: Bloomberg Podcasts
@@ -27,7 +25,6 @@ tags:
 - middle-east-peace
 title: 彭博观察：中东和平、市场策略与房地产及能源展望
 ---
-
 ### 以色列人质归来与中东和平前景
 
 Bloomberg Audio Studios, podcasts, radio, news.

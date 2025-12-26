@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs: []
 date: '2025-10-14'
@@ -11,8 +11,7 @@ media_books:
 - new-york-times-podcasts
 people: []
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BS-7Jf29G4U
 speaker: New York Times Podcasts
@@ -25,7 +24,6 @@ tags:
 - trump-administration
 title: 加沙未来、特朗普新政与全球挑战：多维新闻速览
 ---
-
 ### 加沙停火后的胜利宣言与和平挑战
 
 This long and difficult war has now ended. Some people say it lasted 3,000 years, some say 500 years; whatever its duration, it is the granddaddy of them all.

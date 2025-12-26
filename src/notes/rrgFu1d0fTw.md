@@ -21,10 +21,7 @@ people:
 products_models:
 - iPhone
 - Taylor rule
-project:
-- us-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rrgFu1d0fTw
 speaker: Bloomberg Podcasts
@@ -37,7 +34,6 @@ tags:
 - productivity
 title: 堪萨斯城联储主席杰夫·施密特：杰克逊霍尔会议焦点——劳动力市场、AI与美联储独立性
 ---
-
 ### 杰克逊霍尔经济研讨会：全球央行家的年度盛会
 
 **Tracy Alloway:** 大家好，欢迎收听新一期的《**Odd Lots**》（Bloomberg Podcasts旗下的金融市场播客节目）。我是Tracy Alloway。

@@ -16,9 +16,8 @@ insight: ''
 draft: true
 series: ''
 category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
+area: "work-career"
+project: []
 people:
   - ''
 companies_orgs:

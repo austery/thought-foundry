@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -49,8 +49,7 @@ products_models:
 - Claude
 - AlexNet
 - H100
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WLBsUarvWTw
 speaker: Dwarkesh Patel
@@ -63,7 +62,6 @@ tags:
 - economic-growth
 title: AGI尚需30年：AI发展、经济增长与未来展望
 ---
-
 ### 智能爆炸的误解
 
 今天，我与**Tamay Besiroglu**和**Ege Erdil**进行了交流。他们曾运营**Epoch AI**，现在正推出**Mechanize**公司，致力于自动化所有工作。**Tamay**最近提出了一个有趣的观点，即“**智能爆炸**”这个概念是错误的或具有误导性的。他认为这个概念并不十分有用，就像把**工业革命**称为“马力爆炸”一样。当然，在工业革命期间，我们看到了原始物理力量的急剧加速，但还有许多其他因素在解释工业革命期间的增长和技术变革加速方面可能同样重要。

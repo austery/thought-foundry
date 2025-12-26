@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CNN
@@ -16,10 +16,7 @@ people:
 - Pierre Poilievre
 - Jean Chrétien
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qSbTpTkBfnk
 speaker: 莊也雜談
@@ -34,7 +31,6 @@ tags:
 - us-canada-relations
 title: 特朗普提議吞併加拿大：六大理由為何難以實現？
 ---
-
 哈嘍大家好，今天咱們聊一聊關於特朗普想要把加拿大變為美國的第51個州這個腦洞大開的話題。咱們說這事兒，首先聊一下這件事情的來龍去脈。
 
 ### 特朗普吞併加拿大提議的緣起與加方反應

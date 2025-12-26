@@ -20,10 +20,7 @@ people:
 - Barack Obama
 - Hillary Clinton
 products_models: '[]'
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RLhYQ-bsNpY
 speaker: 徒步的騎手
@@ -35,7 +32,6 @@ tags:
 - strategy
 title: 倒挂国旗：美国邻里间的政治表达与“权力的傲慢”
 ---
-
 ### 邻里间的政治表达：倒挂国旗与言论自由
 
 我想谈谈邻里之间的一些事情。我居住的地方属于城乡结合部的外围，在这个小区已经住了十来年。邻居中有一对老人家，老先生身体不太好，但喜欢玩船，他家后院有船屋。一到周末，儿女带着孩子来，他就会开船带他们去湖上玩，一家人其乐融融。他家太太喜欢户外活动，有时候会过来借我的滑艇玩。

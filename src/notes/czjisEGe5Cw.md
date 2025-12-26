@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Shopify
@@ -13,10 +13,7 @@ media_books:
 - Archive Pre-print Server
 products_models:
 - Snatoms
-project:
-- systems-thinking
-- knowledge-pipeline
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=czjisEGe5Cw
 speaker: veritasium
@@ -30,7 +27,6 @@ tags:
 - scientific
 title: 科学传播的困境：过度炒作、虚假希望与信任危机
 ---
-
 ### 科学传播的误区：从全息虫洞到室温超导体
 
 2022年12月1日，《**自然**》（Nature: 国际顶级科学期刊）杂志刊登了一篇关于**全息虫洞**（Holographic Wormhole: 一种理论上的时空结构，通过全息原理与量子纠缠联系起来）的封面故事。

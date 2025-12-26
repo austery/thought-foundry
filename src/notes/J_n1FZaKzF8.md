@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Boeing
@@ -12,10 +12,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Footfall
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J_n1FZaKzF8
 speaker: veritasium
@@ -28,7 +25,6 @@ tags:
 - space
 title: “上帝之杖”：揭秘美国军事史上最疯狂的太空武器构想及其可行性挑战
 ---
-
 ### 序言：一项大胆的实验
 
 这是我制作过的规模最大、最雄心勃勃、也最昂贵的视频，它也将令人感到恐惧。

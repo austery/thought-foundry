@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-07-06'
 draft: true
@@ -18,10 +18,7 @@ people:
 - 袁世凯
 - 张之洞
 products_models: []
-project:
-- historical-insights
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4YFLtH_YeMc
 speaker: 柴静 Chai Jing
@@ -34,7 +31,6 @@ tags:
 - xenophobia
 title: 义和团运动：一场荒诞的排外狂热及其深远影响
 ---
-
 ### 访谈缘起与义和团运动的时代背景
 
 **柴静:** 最近有几位观众写信给我，希望我能够做一期关于**义和团**（Yihetuan: 清末爆发的以“扶清灭洋”为口号的农民排外运动）的节目。所以我就打电话找国内研究这个领域的历史学者张鸣，想看看他有没有可能能够谈一谈。电话打通的时候，张教授是一个非常爽快的人，他说：“可以，那现在谈。”我说：“我们能不能约下周，因为我还没有看任何史料。”他说：“你现在这个水平正好代表大众来提问，来吧。”所以这期节目是这样开始的。然后我没有任何提纲，我也没有时间出装打扮或者准备镜头和灯光。我的第一个提问是我自己很本能的一个疑问，就是1900年义和团这么一场严重排外的运动，为什么不是发生在中国和西方刚刚遭遇互为陌生人的时候，也不是在双方交战的期间，而恰恰是在**洋务运动**（Yangwu Yundong: 清朝末期进行的一场旨在学习西方军事技术和工业生产的自强运动）早已有之，中国改革开放30多年之后呢？怎么会有这么突然之间强烈的用意？

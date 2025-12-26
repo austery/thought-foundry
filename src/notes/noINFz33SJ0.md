@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -25,10 +25,7 @@ people:
 - Martin Luther King Jr.
 - John F. Kennedy
 - Tracy Mumford
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=noINFz33SJ0
 speaker: New York Times Podcasts
@@ -42,7 +39,6 @@ tags:
 - society
 title: 特朗普家族的沙特商业关系、加沙和平计划及其他头条新闻
 ---
-
 ### 特朗普家族与沙特的商业联系
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是11月18日星期二，以下是我们正在报道的内容。

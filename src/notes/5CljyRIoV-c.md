@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -20,10 +20,7 @@ people:
 - Nam Kiwanuka
 - Nicole Kidman
 - Donald Trump
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5CljyRIoV-c
 speaker: TVO Today
@@ -36,7 +33,6 @@ tags:
 - medical-research
 title: 被忽视的半边天：女性健康研究的系统性偏见与挑战
 ---
-
 ### 导语：女性在临床试验中的长期缺位
 
 您正在收听《(MIS)Treated》节目，我是Nam Kiwanuka。

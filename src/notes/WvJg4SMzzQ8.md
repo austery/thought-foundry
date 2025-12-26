@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - The New York Times
@@ -28,8 +28,7 @@ products_models:
 - Remarkable 2
 - Remarkable Paper Pro
 - Remarkable Paper Pro Move
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WvJg4SMzzQ8
 speaker: The Knowledge Project Podcast
@@ -43,7 +42,6 @@ tags:
 - performance
 title: 顶级绩效教练：《内心卓越》作者揭示在高压下保持冷静与实现人生意义的原则
 ---
-
 ### 决定生活质量的三大基石
 
 **Shane:** 我想从《内心卓越》这本书开始。你写了这本书，希望整理出一本关于如何在压力下保持坚韧心智和卓越表现的手册。我在这本书里划的第一个重点，甚至还没到正文页码，就在序言里。你提到，人生的质量取决于三个要素：你由思想、情感、信念和欲望构成的内心世界；你看待世界的参照系和心态；以及你的人际关系。你是如何得出这个结论的？

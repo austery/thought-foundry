@@ -32,10 +32,7 @@ people:
 - 毛主席
 products_models:
 - '[]'
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oNnd5A_uHds
 speaker: 徒步的騎手
@@ -49,7 +46,6 @@ tags:
 - relations
 title: 美乌外交风波、欧洲盟友与民主的韧性：后川普时代的政治审视
 ---
-
 ### 乌克兰危机：外交风波与盟友关系
 
 在二月的最后一天，乌克兰总统泽连斯基访问美国进行谈判。媒体报道称，此行的目的是与美国签署一项“矿产换和平”的协议。尽管在此之前，唐纳德·川普曾多次公开羞辱乌克兰和泽连斯基，但谈判似乎进展顺利。然而，当J. D. **万斯**（J. D. Vance: 美国共和党参议员，曾公开批评对乌克兰的援助）介入并当面指责乌克兰和泽连斯基时，会谈急转直下，迅速演变成一场“**狗屎秀**”（shit show: 形容一场混乱、糟糕的局面）。泽连斯基最终未能签署任何协议，返回欧洲，谈判又回到了起点。

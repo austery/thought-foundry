@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: lifestyle
 companies_orgs: []
 date: '2025-10-08'
@@ -21,7 +21,6 @@ tags:
 - shannon-fall
 title: 溫哥華之旅：吊橋驚魂、瀑布奇觀與烤蝦之夜
 ---
-
 ### 告別溫哥華島，重返大陸
 
 早晨，我們從維多利亞的酒店出發，驅車前往Swartz Bay輪渡碼頭，準備乘坐BC Ferries返回大溫地區的Tsawwassen。這次乘坐的“不列顛哥倫比亞精神號”郵輪建於1993年，總長167.5米，可容納大量乘客和汽車，是這條航線上最大的兩艘船之一。經過一個小時35分鐘的海上航行，我們於上午10:40左右抵達對岸的Tsawwassen。

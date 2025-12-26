@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg Podcasts
@@ -33,10 +33,7 @@ products_models:
 - S&P 500
 - Nasdaq
 - CDO
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n7JV_DaBFXk
 speaker: Bloomberg Podcasts
@@ -50,7 +47,6 @@ tags:
 - risk
 title: 杰弗里·冈拉克：几乎所有金融资产都被高估，私人信贷或成下一场危机
 ---
-
 ### 投资生涯与市场洞察
 
 **Jeff:** 我有70%的成功率。

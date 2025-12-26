@@ -54,10 +54,7 @@ products_models:
 - Gemini 3
 - TPU
 - FSD (Full Self-Driving)
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-aej9RnypH8
 speaker: Amit Kukreja
@@ -68,7 +65,6 @@ tags:
 - market-sentiment
 title: 英伟达财报力挽狂澜，强劲就业数据能否动摇美联储降息预期？
 ---
-
 ### 就业数据与英伟达财报主导市场开盘
 
 早上好，各位。欢迎回到新一期的市场开盘直播。我们今天提前开始了，因为有重要的就业数据要公布，还有很多事情要讨论。显然，我们看到了英伟达的财报，看起来黄仁勋（Jensen）可能拯救了市场，成为了2025年的圣诞老人。让我们直接进入正题，就业数据大约在5分钟前发布了，我们来分析一下当前的市场状况。

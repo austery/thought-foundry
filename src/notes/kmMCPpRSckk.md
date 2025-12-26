@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-09-04'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《柳叶刀》
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- climate-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kmMCPpRSckk
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - psychology
 title: 脆弱的健康：当气候变化成为基层医疗的日常挑战
 ---
-
 ### 气候变化不是远方的新闻，而是急诊室的日常
 
 大家好，我是来自广东肇庆的卢辉，一名有16年临床经验的医生。我在当地一家二级医院工作，服务基层群众，处理最常见的疾病与突发状况。由于医院同时承担120急救任务，我每年约有四分之一的时间跟随救护车出诊。创伤患者的病情千变万化，我们戏称这像“开盲盒”——你永远不知道下一个病人会遭遇什么。

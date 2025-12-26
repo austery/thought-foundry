@@ -90,10 +90,7 @@ products_models:
 - Starlink
 - AIP
 - IBIT
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1YB-ccTHhRk
 speaker: Amit Kukreja
@@ -106,7 +103,6 @@ tags:
 - us-china-relations
 title: 市场深度解读：中美达成初步协议，科技巨头财报震撼市场
 ---
-
 ### 市场开盘概览：多重因素交织的一周
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是 10 月 30 日，星期四，上午 8:47。这周真是疯狂，很难相信今天才周四。但昨天无疑是 2025 年股市中最重要的日子之一，我们有很多内容要讨论。

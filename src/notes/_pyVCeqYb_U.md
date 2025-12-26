@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 人民日报
@@ -42,10 +42,7 @@ people:
 - 李厚诚
 products_models:
 - iPhone
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_pyVCeqYb_U
 speaker: 三個水槍手
@@ -59,7 +56,6 @@ tags:
 - sino-japanese-relations
 title: 中国人对日矛盾情结：情绪价值、国家叙事与独立思考
 ---
-
 ### 中国人对日情结：矛盾、情绪与国家叙事
 
 本期节目围绕“中国人对日本的矛盾心理”展开讨论。有观众提出，喜欢日本文化与反日并不矛盾，并举例称日本人崇拜中华文化却反华，韩国人喜欢中国文化却反华，以及全世界被美国“修理”过的国家也看好莱坞却讨厌美国。因此，他们认为将中国人喜欢日本商品、日本动漫与反日视为矛盾，是“看中国人不爽”。

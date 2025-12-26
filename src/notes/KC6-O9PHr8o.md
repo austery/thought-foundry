@@ -15,10 +15,7 @@ people:
 - Kamala Harris
 - Adolf Hitler
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KC6-O9PHr8o
 speaker: 海淀拙大叔
@@ -31,7 +28,6 @@ tags:
 - us-election-2024
 title: 川普上台的必然性：一场“帝国”与“罗马”的资源分配之争
 ---
-
 ### 美国大选：一场关于“帝国”与“罗马”的抉择
 
 今天是11月4号，我们将进行“阿甘经济宏观论”的第二季讨论。今天我们要探讨的是美国大选的结果，主题是“要帝国还是要罗马”，这预示着川普上台的必然性。从这个题目大家就可以看出，我相信川普大概率会再次上台。我们虽然不是一个讨论时政的栏目，但由于这次大选对中国经济的影响非常深远，对中国的股市也可能立即产生反馈，因此我们决定在大选之前，先要讨论特朗普上台的可能性以及他可能推行的政策。

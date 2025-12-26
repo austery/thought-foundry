@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 大疆
@@ -24,10 +24,7 @@ people:
 products_models:
 - ChatGPT
 - GPU
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qkrxpQfeDZI
 speaker: 东京人文论坛
@@ -41,7 +38,6 @@ tags:
 - technological
 title: 榨取型社会下的中国转型：模仿、创新与制度成本
 ---
-
 ### 诺奖著作与中国转型：讨论的缘起
 
 本次讨论活动围绕诺贝尔经济学奖得主的研究，特别是其著作《国家为什么失败》和《自由的窄廊》，旨在探讨制度经济学与中国转型之间的关系。前一次活动主要由主讲人阐述，而本次及后续活动则更侧重于参与者之间的互动讨论，以期提升大家的参与感和吸收效果。本次讨论的核心是深入剖析中国转型中的具体问题，尤其是那些被主讲人称为“失败国家的千万细节”。这些细节对于理解不同国家模式的差异至关重要，因为若不关注细节，许多国家似乎仅有三四种模式。然而，诺奖得主的著作通过大量案例来论证其观点，而非依赖复杂的理论框架。因此，本次讨论也将以中国的具体例子来印证书中的理论。

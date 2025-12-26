@@ -35,10 +35,7 @@ people:
 - Mark Zuckerberg
 - Nick Timiraos
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=79N7c4SbgOE
 speaker: LT視界
@@ -51,7 +48,6 @@ tags:
 - trade-war
 title: AI泡沫、就业数据疑云与中国经济新信号：深度解析中央经济工作会议
 ---
-
 ### 财经头条：AI泡沫、就业数据与美联储政策走向
 
 今天我们分享四条重要的财经新闻。

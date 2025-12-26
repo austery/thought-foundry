@@ -16,8 +16,7 @@ people:
 - Thomas Jefferson
 - Abraham Lincoln
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Khk3VzVWE9k
 speaker: Bloomberg Podcasts
@@ -31,7 +30,6 @@ tags:
 - management
 title: 狩猎的经济史：从殖民时期到现代美国野生动物管理
 ---
-
 ### 熊肉的美味与狩猎的经济价值
 
 主持人讨论了熊肉的味道，嘉宾**史蒂文·里内拉**（Steven Rinella: 《MeatEater》的创始人兼作者）表示熊肉口感非常像牛肉，味道极佳。尽管在某些文化层面存在禁忌，例如佛罗里达州目前正在进行的**黑熊**（Black Bear）狩猎引发了争议，但它确实是一种优质食物，在过去备受珍视。**丹尼尔·布恩**（Daniel Boone: 美国拓荒者、猎人）的另一项生意就是生产**熊肉培根**（Bear Bacon），供国内消费。**本杰明·富兰克林**（Benjamin Franklin: 美国开国元勋）甚至可能在费城的市场上购买到熊肉培根或熏制黑熊火腿，这在当时是一种非常受欢迎的食物。然而，熊肉可能携带**旋毛虫病**（Trichinosis: 由旋毛虫寄生引起的人畜共患病），在美国，大多数旋毛虫病病例并非来自猪，而是来自黑熊，因此必须彻底煮熟。尽管如此，里内拉的家人仍然大量食用熊肉。

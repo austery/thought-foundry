@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -36,10 +36,7 @@ products_models:
 - CoWoS
 - TPU
 - HBM
-project:
-- ai-impact-analysis
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5EU7GUeON5U
 speaker: 老科谈科技股
@@ -53,7 +50,6 @@ tags:
 - technology
 title: 拆解AI数据中心：供电、制冷、芯片与未来趋势
 ---
-
 ### 引言：AI数据中心的新时代
 
 近期，AI数据中心的热度持续飙升。从OpenAI到特斯拉，再到各大云计算巨头，它们都在积极大规模建设全新的AI数据中心。这些AI数据中心的规模越来越大，一次次挑战着人类工程的极限。可以说，AI数据中心的**基础设施建设**（Infrastructure Construction: 为社会经济活动提供基础服务的工程设施建设）是美国历史上继铁路、公路和互联网之后，又一次基础设施建设的热潮。它带动了相关产业的繁荣，也驱动着美国GDP的持续增长。本文将深入探讨AI数据中心规模不断扩大的原因、**吉瓦特**（Gigawatt, GW: 功率单位，等于十亿瓦特，常用于衡量大型发电厂或数据中心的电力容量）数据中心的含义、电力为何成为数据中心需求的瓶颈，以及电力、制冷和芯片在数据中心建设和运营中的成本比例，并分析数据中心未来的走势，特别是哪些关键技术驱动着未来的数据中心发展。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - YouTube
@@ -27,10 +27,7 @@ products_models:
 - Windows
 - Google Map
 - Linux
-project:
-- geopolitics-watch
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hvJjfzsLoto
 speaker: 超級歪 SuperY
@@ -44,7 +41,6 @@ tags:
 - investment
 title: 数字时代的人权思辨：从监控资本主义到数字自治
 ---
-
 ### 数字时代的困境与思考
 
 此前，我们曾介绍过一部关于算法与**监控资本主义**（Surveillance Capitalism: 科技公司通过收集用户数据并将其出售给广告商来盈利的商业模式）的电影。视频发布后，许多观众反馈，虽然大家早已了解这些问题，但却无能为力，难道要停止使用YouTube、Google、Facebook吗？今天，我们将通过《数字时代的人权思辨》这本书来探讨，当我们无法摆脱数字技术时，我们应该如何应对。

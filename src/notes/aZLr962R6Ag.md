@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-09'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aZLr962R6Ag
 speaker: Anthropic
@@ -22,7 +21,6 @@ tags:
 - model
 title: 使用MCP与Claude API进行构建：跨应用连接与通用标准的未来
 ---
-
 ### 介绍：MCP是什么？
 
 Anthony: Am I reading your status updates in your Slack, and are those all Claude-generated?

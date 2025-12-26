@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - 标普500
@@ -16,10 +16,7 @@ people:
 - 巴菲特
 products_models:
 - ETF
-project:
-- us-analysis
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6ykDCTXlhcc
 speaker: Shijun Tang
@@ -33,7 +30,6 @@ tags:
 - wealth
 title: 普通人如何通过投资公开股权实现财务自由？——唐石峻财富体系解析
 ---
-
 ### 为什么出卖时间无法让你发财？
 
 仅靠出卖时间，你永远都不会发财。时间是公平的——每个人每天都有24小时，减去睡眠8小时、吃饭与生活琐事2小时后，你剩下14小时。如果你只是把这14小时用来换钱，你的财富上限就被自己锁死了。真正的财富积累，不来自时间的交换，而是来自**资产**——那些在你睡觉时也能为你赚钱的东西。

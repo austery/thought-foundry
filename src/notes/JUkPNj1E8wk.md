@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - IPCC
@@ -20,9 +20,7 @@ media_books:
 people:
 - Donald Trump
 products_models: []
-project:
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JUkPNj1E8wk
 speaker: 一席YiXi
@@ -36,7 +34,6 @@ tags:
 - social-inequality
 title: 气候变化：一个正在发生的真实挑战——从极端天气到社会不公
 ---
-
 ### 引言：气候变化的切身感受
 
 大家好，我叫张诗卉，是一名研究气候变化和人群健康的青年学者。我现在在中国人民大学任教，同时也在**柳叶刀倒计时亚洲中心**（Lancet Countdown Asia Centre: 一个全球性的气候变化与健康研究组织）担任科研主管。每年秋天，我和我的同事们都会发布一份特殊的体检报告，这份报告的对象不是某个特定的人，而是我们共同生活的这个蓝色星球。我们这份报告会评估气候变化对我们每一个人的生活与健康产生了哪些新的风险。经过日复一年、年复一年的数据追踪，我和我的同事们都发现了许多令人忧心的数据。但今天，我想先不谈数据，而是从几个在座的各位都有可能感同身受的故事讲起。

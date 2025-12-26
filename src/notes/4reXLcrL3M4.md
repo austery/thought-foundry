@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -21,9 +21,7 @@ products_models:
 - ChatGPT
 - Gemini 3
 - Codex
-project:
-- ai-impact-analysis
-- pkm-research
+project: []
 source: https://www.youtube.com/watch?v=4reXLcrL3M4
 speaker: Best Partners TV
 status: evergreen
@@ -34,7 +32,6 @@ tags:
 - ai-agent
 title: OpenAI 的关键拐点：Sam Altman 深度解析 GPT-6、企业转型与 AI 硬件蓝图
 ---
-
 ### 应对竞争：常态化的“红色警报”
 
 在最近与《Big Technology Podcast》的独家对话中，OpenAI 的 CEO **Sam Altman** 深入分享了公司在激烈竞争环境下的战略思考。主持人开场便提及了 **Gemini 3** (Google 推出的新一代多模态大模型) 发布后，行业内对手环伺的局面，并询问 OpenAI 的 **红色警报**（Code Red: 企业在面临重大竞争威胁或紧急危机时启动的高优先级响应状态）会持续多久。

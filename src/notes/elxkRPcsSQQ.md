@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -32,9 +32,7 @@ people:
 - Sheryl Sandberg
 products_models:
 - Apple Pay
-project:
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=elxkRPcsSQQ
 speaker: Bloomberg Podcasts
@@ -49,7 +47,6 @@ tags:
 - stablecoin
 title: 美国银行如何应对监管与创新挑战：从SVB危机到金融科技的未来
 ---
-
 ### 硅谷银行危机：传统业务模式的意外失败
 
 **Tracy Aloway:** 几年前，如果我告诉你有一家银行，它吸收存款，比如活期账户，然后把这些钱投资于美国国债，但这种商业模式最终会彻底失败，银行会倒闭，你会怎么说？

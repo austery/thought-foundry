@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Money or Life 美股频道
@@ -21,10 +21,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0k99Ll0FyX4
 speaker: Money or Life 美股频道
@@ -38,7 +35,6 @@ tags:
 - portfolio-management
 title: 接受股票下跌50%，才能享受美股长期投资收益：Ace的11月美股投资总结与反思
 ---
-
 ### 2025年11月美股投资收益回顾
 
 本期视频将分享2025年11月美股投资的总结与感想，包括整个11月美股投资收益的变化、最新持仓，以及作为重仓成长股投资者在11月心态的变化。同时，也将回顾几只持仓股票的技术图形，分析从技术和基本面角度观点是否有变化。

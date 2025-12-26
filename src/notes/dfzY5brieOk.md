@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dfzY5brieOk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +25,6 @@ tags:
 - swallowing-pattern
 title: 口腔结构专家：精细饮食对孩子健康的影响可能是一辈子
 ---
-
 ### 口腔结构与全身健康：不拔牙矫正的深层考量
 
 **趙哲暘**: 并非简单地扩张牙床就能解决所有问题。如果我们不考虑**异常吞嚥**（Abnormal Swallowing: 指吞咽时牙齿会咬紧，舌头位置不正确）的病人，他们在吞咽时牙齿会咬紧。很多人会去打**肉毒**（Botox: 肉毒杆菌素，用于放松肌肉），但即使你打了咬肌，也打不到里面的**内翼肌**（Medial Pterygoid Muscle: 位于下颌骨内侧的咀嚼肌）。我们常常遇到这种情况，其实你会发现嘴角和眼睛的歪斜是不一样的。

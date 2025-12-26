@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-18'
@@ -11,9 +11,7 @@ media_books:
 - 'The Perfect Dictatorship: China in the 21st Century'
 - Anthem
 products_models: []
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eXv8_lCFj94
 speaker: 徒步的騎手
@@ -27,7 +25,6 @@ tags:
 - great-firewall
 title: “完美独裁”的裂痕：论“墙国”公民的翻墙自救与精神觉醒
 ---
-
 ### 围墙的建立：隔绝与控制
 大家好。最近，很多人反映党的网络“翻墙”工具多次失效，许多梯子都找不到了。翻墙变得时断时续，因为技术总是在进行道高一尺、魔高一丈的博弈。一旦翻墙软件被封堵，你就无法访问外部世界。建墙是一种悠久的传统和统治术。从中国的秦始皇，到明朝，都曾修建物理的城墙。而当互联网世界来临时，中国建立了一道被称为**防火长城**（Great Firewall: 指中国政府对其互联网边界审查系统（包括相关行政审查系统）的统称）的数字高墙。这道网络上的“墙”将中国与世界隔绝开来，使中国的互联网变成了一个巨大的局域网。中国人如果想了解真实的世界，就必须“翻墙”。
 

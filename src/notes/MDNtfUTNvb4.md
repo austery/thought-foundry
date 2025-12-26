@@ -1,11 +1,9 @@
 ---
 title: 走出硅谷，我们去看看国际贸易的“ChatGPT时刻”
 summary: 本文探讨AI如何走出硅谷泡沫，赋能中小企业，尤其在国际贸易B2B领域。通过分析CoCreate大赛和阿里巴巴国际站的AI Agent“Accio”，揭示AI如何降低创业门槛，提升效率，并促成“一人公司”模式的兴起，为全球贸易带来新确定性。
-area: market-analysis
+area: "finance-wealth"
 category: business
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 tags:
 - ai-agent
 - business
@@ -25,7 +23,6 @@ series: null
 source: https://www.youtube.com/watch?v=MDNtfUTNvb4
 status: evergreen
 ---
-
 ## 引言：硅谷是否活在AI泡沫中？
 
 硅谷真的在AI泡沫当中自嗨吗？经常看到有观众给我们留言说，AI就是硅谷技术圈的自嗨，你们生活在自己的bubble（泡沫）中，AI根本没有改变普通人的生活。

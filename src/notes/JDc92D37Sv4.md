@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-11-30'
@@ -14,10 +14,7 @@ people:
 - Euclid
 - Hegel
 products_models: []
-project:
-- china-analysis
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JDc92D37Sv4
 speaker: Anthony看世界
@@ -31,7 +28,6 @@ tags:
 - law
 title: 互渗律：中国式理性与独立人格的心理根源
 ---
-
 ### 主体性缺失与非理性根源
 
 本期视频将继续探讨为何人的**主体性**（sense of agency: 人的自主意识和能动性）发展不足，因为这是陷入迷信与非理性的根本原因。在之前的视频中，我们讨论了一个现象：历史上和世界各地许多迷信与狂热，都离不开知识分子的参与和推动。时至今日，我们仍能观察到许多此类现象。许多受过高等教育、掌握复杂知识的专家学者，一旦离开专业领域，就会显得非常无助和盲从。他们会轻易被一些**宏大叙事**（grand narrative: 具有普遍性、权威性，并试图解释历史、社会或人类命运的宏伟故事或理论）所吞噬，甚至在自身专业领域内，他们也会放弃应有的判断。

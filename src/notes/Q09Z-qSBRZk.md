@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - MicroStrategy
@@ -17,9 +17,7 @@ people:
 - Eric Trump
 - Donald Trump Jr.
 - Peter
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q09Z-qSBRZk
 speaker: 北美王路飞
@@ -33,7 +31,6 @@ tags:
 - stock-market-crash
 title: 特朗普家族加密帝国崩塌：纳斯达克敲钟背后的洗钱黑幕与信任危机
 ---
-
 ### 特朗普家族加密帝国的风光上市与诡异开局
 
 2025年8月13日，在纽约时代广场，Eric Trump和他的哥哥Donald Trump Jr.正站在世界金融舞台的绝对C位。随着一声钟响，他们宣布了一件大事：特朗普家族的加密货币帝国**World Liberty Financial**（WLF: 特朗普家族的加密货币帝国），简称WLF，正式通过一家上市公司借壳登陆纳斯达克。Eric当时对着镜头说了一句口气非常大的话：“我们将永远地改变金融业。”那一刻看起来风光无限，闪光灯与欢呼声此起彼伏，15亿美元的估值交易，一切都像是这一家人又一次商业胜利的加冕礼。

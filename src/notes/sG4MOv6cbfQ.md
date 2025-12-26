@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg Audio Studios
@@ -18,9 +18,7 @@ people:
 - Eric Adams
 - David Tepper
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sG4MOv6cbfQ
 speaker: Bloomberg Podcasts
@@ -35,7 +33,6 @@ tags:
 - urban-development
 title: 纽约房东为何最担心佐兰·马姆达尼？
 ---
-
 ### 纽约市住房挑战的全球共鸣
 
 **Joe:** 大家好，欢迎收听新一期的**OddLots podcast**（OddLots播客：彭博社旗下专注于金融和经济的播客）。我是乔·魏森塔尔（Joe Weisenthal）。

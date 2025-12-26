@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Google
@@ -17,9 +17,7 @@ products_models:
 - Notion
 - Google Drive
 - SharePoint
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fh9LgKXBGnQ
 speaker: AI Engineer
@@ -32,7 +30,6 @@ tags:
 - system
 title: 企业深度研究：AI在企业应用中的下一个杀手级应用
 ---
-
 ### Vectara的可信赖代理操作系统
 
 大家好，我是Vectara的Ofer。在Vectara，我们开发了一个**可信赖代理操作系统**（Trustworthy Agent Operating System: 旨在提供可靠、安全的AI代理服务平台）。

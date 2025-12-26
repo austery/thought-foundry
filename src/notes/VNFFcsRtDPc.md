@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -23,10 +23,7 @@ products_models:
 - Claude
 - GPU
 - TPU
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VNFFcsRtDPc
 speaker: 投资TALK君
@@ -40,7 +37,6 @@ tags:
 - us-economy
 title: 美联储降息周期展望与市场策略：短债利率预示未来三次降息空间
 ---
-
 ### 美联储降息周期展望：短债利率的指引
 
 各位观众大家好，欢迎来到一个每天不单只聊新闻的专业美股频道，我是市场发行人小涛。昨天虽然讨了一天课，但因为市场走得比较好，我个人认为也没有非常多可以提供给大家价值的一些东西。但是连续淘两天有点不好意思，所以今天回来为大家做一个更新。今天聊什么呢？很长一段时间没有和大家聊一些和宏观相关的数据。今天正好借着这期内容，和大家分享一下为什么我认为11月份或者12月份降息，12月份降不降息其实没有那么重要，而接下去起码整个这一次降息周期，美联储还有三次降息的幅度。好吧，就围绕这个观点去展开吧。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 中国人民银行
@@ -18,10 +18,7 @@ products_models:
 - USDT
 - Safepal虚拟卡
 - Bitget钱包虚拟卡
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GSK8YVFP6AQ
 speaker: Nico投资有道
@@ -34,7 +31,6 @@ tags:
 - risk
 title: 加密货币监管再升级：内地散户如何应对出入金困局？
 ---
-
 ### 加密货币监管政策的最新动向
 
 最近，国内加密货币行业再次遭遇强力监管。2025年11月28日，中国人民银行联合包括中央金融办、国家发展改革委和司法部在内的13个部门，召开打击虚拟货币交易炒作的工作协调会议。此次会议明确重申：**继续坚持对虚拟货币的禁止性政策，持续打击虚拟货币相关非法金融活动**。

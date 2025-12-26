@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-05'
 draft: true
@@ -10,10 +10,7 @@ media_books:
 - 《古希臘羅馬的貨幣體系》
 - 《中國的通脹螺旋》
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Xgk8DCmH3iU
 speaker: 政經孫老師
@@ -27,7 +24,6 @@ tags:
 - systemic-corruption
 title: 中国经济深陷通缩螺旋：制度性腐败与历史宿命
 ---
-
 ### 中国经济的通缩困境：长期性与螺旋式发展
 
 今天我们将深入探讨中国的**通缩**（Deflation: 指商品和服务的普遍价格水平持续下降，导致货币购买力上升，但同时可能伴随经济活动放缓和失业增加）问题。当前，如果不谈及通缩，根本无法清晰地理解中国经济的现状，因为两者紧密相连。本文将从通缩的角度剖析中国经济的现状，并指出中国目前面临的并非短期通缩，而是一种长期通缩，乃至是不断自我加强、形成循环的**通缩螺旋**。通缩的最终尽头是什么，我们将在稍后揭示。

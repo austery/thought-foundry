@@ -14,9 +14,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nl08qFEvTig
 speaker: 海淀拙大叔
@@ -29,7 +27,6 @@ tags:
 - market
 title: 阿甘财富增长论：最佳投资的十大要点与消费行业预判
 ---
-
 ### 最佳投资的十大要点：宏观与微观框架
 
 在“阿甘财富增长论”的第六期中，我们探讨了“什么是最好的投资”，这实际上是“海淀拙大叔”投资框架的十大要点总结。他将自己的投资框架概括为一句话：最好的投资，就是在周期的底部——包括经济周期、资本市场、行业周期和投资者情绪的底部，买入那些处于**困境反转**（Turnaround: 指公司或行业从不利局面中恢复并走向好转）且即将反转的、长期盈利能力强、长期高增长、确定性高的好公司，并长期持有。

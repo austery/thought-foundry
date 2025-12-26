@@ -24,10 +24,7 @@ people:
 - JD Vance
 - Émile Durkheim
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tJZHDicrFXo
 speaker: 超級歪 SuperY
@@ -41,7 +38,6 @@ tags:
 - right
 title: 理解美国右派：社会学视角下的反移民、反政治正确与信仰力量
 ---
-
 ### 美国右派的崛起与特朗普的再次当选
 
 2024年美国总统大选已经落幕，唐纳德·特朗普再次当选美国总统，这可以被视为美国右派的一次巨大胜利。特朗普曾明确表示，他上任第一天就会启动美国历史上最大规模的驱逐出境计划。反移民、反堕胎、反环保、反政治正确，这些都是美国右派的核心主张。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Carnegie Mellon University
@@ -18,10 +18,7 @@ people:
 - Donald Trump
 - Barack Obama
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xzsCuP1ooLI
 speaker: 壽司坦丁 Sociostanding
@@ -35,7 +32,6 @@ tags:
 - us-election-dynamic
 title: 为何说谎政客反而更显真诚？社会科学揭示“川普现象”背后的正当性危机
 ---
-
 ### 谎言与真诚的悖论
 
 在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究发现。我们有没有可能明知道一个人经常故意说谎，却仍然觉得这个人很真诚，甚至喜欢他？根据中研院社会所的调查，诚实很可能是人们最重视的道德规范，而说谎则违反了这一规范。谎言与真诚在定义上似乎是矛盾互斥的，理论上我们很难明知一个人喜欢说谎，却仍赞赏其真诚。然而，最新的社会科学研究可能会彻底颠覆我们的看法。

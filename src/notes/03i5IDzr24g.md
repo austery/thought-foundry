@@ -11,9 +11,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=03i5IDzr24g
 speaker: 海淀拙大叔
@@ -26,7 +24,6 @@ tags:
 - market-sentiment
 title: 牛市仍在，顶部尚远：资本市场深度分析与投资策略
 ---
-
 ### 牛市基础稳固，何必慌张
 
 今天是9月7号周日，在经历市场激跌后，热门板块如AI、军工、创新药、机器人等都跌惨了。对此，有四个字可以概括：何必慌张。这四个字可以拆解为五点：

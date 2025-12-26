@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank
@@ -30,10 +30,7 @@ people:
 - Christine Lagarde
 - Al Gore
 - Kristin Halvorsen
-project:
-- investment-strategy
-- systems-thinking
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rsGLRMZdT4E
 speaker: Norges Bank Investment Management
@@ -47,7 +44,6 @@ tags:
 - risk
 title: 挪威银行气候大会：气候变化的宏观经济与金融影响
 ---
-
 ### 开幕致辞：气候风险即是金融风险
 
 **Ida Wolden Bache：** 部长、各位贵宾、女士们、先生们，我非常荣幸能欢迎各位莅临2025年挪威银行气候大会，无论是在座的各位，还是在线上观看会议的朋友们。由于本次活动由挪威央行和挪威银行投资管理公司（NBIM）共同主办，我很高兴能与你，Nikolai，同台主持。

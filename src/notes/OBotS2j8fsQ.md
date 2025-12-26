@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - WeChat
@@ -16,10 +16,7 @@ products_models:
 - Claude
 - Python
 - Postgres
-project:
-- ai-impact-analysis
-- systems-thinking
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OBotS2j8fsQ
 speaker: Peter Pang
@@ -33,7 +30,6 @@ tags:
 - trust
 title: AI时代版本号的信任危机：当数字不再代表升级
 ---
-
 ### AI时代版本号的混乱与用户困境
 
 在制作本期视频时，我曾尝试通过AI了解版本号的发展史。然而，打开**Copilot**（微软开发的一款AI编程助手），面对15个可供选择的大模型，我却不知该如何选择，因为我已经搞不懂它们之间的区别了。有时，版本4的回答比4.1和5更详细；有时，3.7的答案会比3.5和4.5更精准。因此，每次我都需要挨个询问一遍，再货比三家得出结论。我十分怀念那个什么软件都可以无脑使用最新版本的时代。约定俗成的版本命名规则，在AI时代已经荡然无存。

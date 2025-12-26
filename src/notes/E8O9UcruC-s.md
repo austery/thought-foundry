@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Ministry of Education
@@ -16,10 +16,7 @@ people:
 - George Floyd
 products_models:
 - Bill 33
-project:
-- systems-thinking
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=E8O9UcruC-s
 speaker: TVO Today
@@ -33,7 +30,6 @@ tags:
 - technology
 title: 安大略省的学校警察计划与托儿服务延迟：政策困境与社会影响
 ---
-
 ### 安大略省的托儿服务承诺与现实
 
 如果你是安大略省的家长，那么在2022年3月，你很可能松了一口气。

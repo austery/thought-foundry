@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 北约
@@ -25,10 +25,7 @@ people:
 - 拜登
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k9LokqlnADQ
 speaker: 北美王路飞
@@ -42,7 +39,6 @@ tags:
 - strategy
 title: 美国在乌克兰的战略布局：20年伏笔与大国博弈的演变
 ---
-
 ### 引言：美国在乌克兰的战略谜团
 
 今天，我们将深入复盘美国在乌克兰的战略布局，追溯其历史脉络与地缘政治考量。自2014年乌克兰危机爆发，克里米亚并入俄罗斯，乌东战火燃起以来，一个现象引人深思：与乌克兰相隔遥远、历史渊源不深、经济依赖不大的美国，却表现出前所未有的重视，提供了空前的政治、经济和军事支持，俨然成为乌克兰的头号支持者。

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs: []
 date: '2025-12-22'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - 《贫穷的本质》
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tIeDA1Z5wgA
 speaker: Best Partners TV
@@ -23,7 +22,6 @@ tags:
 - society
 title: 【读书】6 个致命贫穷陷阱 |《贫穷的本质》| 认知觉醒 | 消费 | 健康 | 思维 | 教育 | 现金流破局 | 摆脱贫穷循环
 ---
-
 ### 1. 高保真 (High Fidelity)
 
 大家好，这里是最佳拍档

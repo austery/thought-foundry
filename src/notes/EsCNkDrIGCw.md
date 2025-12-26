@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-27'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EsCNkDrIGCw
 speaker: Anthropic
@@ -22,7 +21,6 @@ tags:
 - vibe-hacking
 title: 威胁情报：Anthropic 如何阻止 AI 网络犯罪
 ---
-
 ### AI 带来的当下网络威胁
 
 Stuart: All right, welcome to another video from Anthropic. My name's Stuart, from the Communications team.

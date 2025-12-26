@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - CME Group
@@ -30,10 +30,7 @@ people:
 - Howard Lutnik
 products_models:
 - Gemini Flash
-project:
-- investment-strategy
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eoga24H0yrA
 speaker: Bloomberg Podcasts
@@ -48,7 +45,6 @@ tags:
 - technology
 title: CME如何拥抱散户交易：与FanDuel合作及对预测市场、监管的看法
 ---
-
 ### 芝加哥：交易的中心与市场的演变
 
 **Bloomberg** 音频工作室。播客、广播、新闻。

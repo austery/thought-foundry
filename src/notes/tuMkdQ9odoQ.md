@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 美国商务部
@@ -30,10 +30,7 @@ people:
 - 高市早苗
 - Donald Trump
 - Xi Jinping
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tuMkdQ9odoQ
 speaker: LT視界
@@ -47,7 +44,6 @@ tags:
 - us-economic-outlook
 title: 全球经济与地缘政治：美国数据延迟、乌克兰协议与中国金融渗透
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月21日，我们首先来了解今天的财经头条。
 
 ### 美国经济数据延迟与市场波动

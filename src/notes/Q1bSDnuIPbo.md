@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - KiwiCo
@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q1bSDnuIPbo
 speaker: veritasium
@@ -24,7 +23,6 @@ tags:
 - space
 title: 揭秘：黑洞图像是如何拍摄的？甚长基线干涉测量技术详解
 ---
-
 ### 银河系中心黑洞的首张图像
 
 这是一个位于我们银河系中心、被称为**人马座A***（Sagittarius A*: 银河系中心的超大质量黑洞）的超大质量黑洞的图像。

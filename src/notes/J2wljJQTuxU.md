@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs: []
 date: '2025-11-15'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - 《十月新娘》
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J2wljJQTuxU
 speaker: Peter Pang
@@ -26,7 +24,6 @@ tags:
 - skill
 title: 工作经验丰富反而不会写简历？资深编辑教你优化简历与应对职场焦虑
 ---
-
 ### 简历中个人项目的价值与取舍
 
 关于简历中是否可以写个人项目的问题，答案是肯定的，为什么不可以呢？简历本身并非一个定稿，其内容只有一个目的，那就是让面试官感兴趣。因此，在某种程度上，你仍然需要针对不同的职位进行调整。但如果从一个宏观角度来看，简历是展示你自己的工具。

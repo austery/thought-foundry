@@ -20,10 +20,7 @@ people:
 - 高市早苗
 - 老马
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pFAln92nfRs
 speaker: 北美王路飞
@@ -36,7 +33,6 @@ tags:
 - us-election-2024
 title: 政治与金融的交织：从美国大选到日本政局的深度探讨
 ---
-
 ### 政治与金融：美联储角色及美国大选影响
 
 **老马:** 我跟大家，刚才支持我、反对我的那些群众，我不是乱讲话。有人说我是不懂政治，但我炒股炒债这么多年，是在市场上玩真钱的。这跟政治没什么关系，但我政治上的敏感性还是很强的。

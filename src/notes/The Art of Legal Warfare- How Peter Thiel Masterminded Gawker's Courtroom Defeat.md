@@ -9,7 +9,7 @@ file_name: thiel_vs_gawker_courtroom_takedown.md
 guest: null
 insight: null
 layout: post.njk
-project: Peter Thiel revenge
+project: []
 series: null
 source: null
 speaker: 北美王路飞
@@ -26,7 +26,6 @@ tags:
 title: The Art of Legal Warfare-How Peter Thiel Masterminded Gawker's Courtroom Defeat
 updated: 2025-09-17T14:16
 ---
-
 ## 序幕：决战前的消耗战
 
 大家好，欢迎来到我的频道。今天我们这个系列进入最高潮的部分。上一期我们讲到，Peter Thiel的团队如何在幕后通过保密、分化、制造混乱等一系列手段，把不可一世的Gawker传媒拖入了一场多线作战的战争泥潭。他们不仅在正面战场用霍根的案子拖住Gawker，还在侧翼用实习生案、玩家门事件等不断地给Gawker放血，甚至还用了一招精妙的法律诡计，切断了Gawker的保险公司这个“大血包”。

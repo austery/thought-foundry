@@ -18,10 +18,7 @@ people:
 - 巴拉克·奥巴马
 - 内塔尼亚胡
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7WbxktOlR6I
 speaker: 北美王路飞
@@ -34,7 +31,6 @@ tags:
 - right
 title: 爱泼斯坦照片曝光与MAGA运动内战：特朗普、班农、MTG与右翼媒体的权力崩解
 ---
-
 ### 爱泼斯坦照片泄露事件：政治威胁与权力信号
 
 近期，众议院民主党人公开发布了19张与已故金融家杰弗里·爱泼斯坦相关的照片，并宣称手中尚有9500张未公开的照片。此举被广泛解读为一种政治威胁：若共和党不按期公布爱泼斯坦案全部档案，他们将全面公开所有照片。这一举动不仅涉及司法透明问题，更是一次精准的政治施压——尤其当这些照片中包含比尔·盖茨、安德鲁王子等重量级人物时，其政治杀伤力被无限放大。

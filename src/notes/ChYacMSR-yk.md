@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Apple
@@ -15,10 +15,7 @@ media_books:
 - 《奢侈品战略》
 products_models:
 - Apple Watch
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ChYacMSR-yk
 speaker: 硅谷101
@@ -32,7 +29,6 @@ tags:
 - luxury-market-dynamic
 title: Swatch危机：瑞士钟表的昔日辉煌、市场变迁与家族文化的冲突
 ---
-
 ### Swatch的崛起与瑞士钟表业的救赎
 
 你买过Swatch手表吗？我们现在在纽约世贸中心里面的Swatch门店。这个品牌曾经一次又一次地把一块手表变成了流行文化标志，其背后的Swatch集团也通过这些五颜六色的塑料表，一度拯救了瑞士钟表业。然而如今它却跌至了16年的最低点，并且成为了欧洲被做空最多的股票之一。这中间到底发生了什么？

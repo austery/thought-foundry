@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - MP Materials
@@ -25,11 +25,7 @@ people:
 - Donald Trump
 - Xi Jinping
 - Deng Xiaoping
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q95xzDQUxzI
 speaker: Patrick Boyle
@@ -43,7 +39,6 @@ tags:
 - supply-chain-resilience
 title: 中国稀土：全球供应链中的地缘政治利器与挑战
 ---
-
 ### 中美稀土与芯片协议：一次短暂的缓和
 
 唐纳德·特朗普和习近平在本周四，他们六年多来的首次会晤中，同意推迟对**稀土元素**（Rare Earth Elements: 一组具有独特磁性、催化和光学性质的17种金属元素）和计算机芯片的出口管制。他们达成的这项协议为期一年，此前数月两国之间的关税、报复性限制和停滞不前的谈判不断升级。美国和中国还就与芬太尼相关的美国关税，以及两国航运业的针锋相对的征税达成了协议。

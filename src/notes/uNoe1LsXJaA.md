@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-10-14
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《增长的文化：现代经济的起源》
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uNoe1LsXJaA
 speaker: 徒步的騎手
@@ -26,7 +23,6 @@ tags:
 - state
 title: 乔尔·莫基尔的“增长文化”：解析中国经济长期停滞的底层逻辑
 ---
-
 ### 引言：中国经济陷入长期停滞了吗？
 
 当前一个至关重要的问题是：中国经济的困境是短期的周期性波动，还是一个长期结构性停滞的开端？要理解这个问题，我们不能仅仅局限于当前的经济数据，如房地产危机、地方政府债务或消费疲软，而需要深入探究更深层次的结构性因素。

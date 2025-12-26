@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: business
 companies_orgs:
 - McKinsey
@@ -30,9 +30,7 @@ people:
 products_models:
 - CRM
 - Facebook
-project:
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4n28-DoNxWs
 speaker: EO
@@ -47,7 +45,6 @@ tags:
 - technology
 title: 从七年挣扎到十亿美元独角兽：G2创始人Godard Abel的创业心路历程
 ---
-
 ### 创业最艰难的时刻：裁员与韧性
 
 作为一名创业者，最困难的事情莫过于解雇员工。

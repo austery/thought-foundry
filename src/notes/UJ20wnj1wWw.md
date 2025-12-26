@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 网信办
@@ -33,10 +33,7 @@ products_models:
 - Steam
 - TikTok
 - YouTube
-project:
-- china-analysis
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UJ20wnj1wWw
 speaker: 張内咸
@@ -50,7 +47,6 @@ tags:
 - social-dynamic
 title: 中国影视产业的深层困境：从审查到短剧帝国的解析
 ---
-
 大家好，我是张内咸。我们又见面了。有很长一段时间，我没有在节目中回答观众的提问了，上一次还是几个月之前。所以这期节目将集中回答几个观众的问题。
 
 几乎每期节目发布以后，都会产生大量的讨论。平时大家给我的留言，有时候写得很长，我只要看到了，能回复的，都会尽量回复。有些观众的提问，我觉得适合分享出来的，就会做成节目。那么本期节目回答的问题，主要集中在影视行业上。这些问题攒了好长时间了，一直没给大家答疑，感觉有点对不起你们。

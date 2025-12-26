@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Cloudflare
@@ -21,9 +21,7 @@ products_models:
 - PostgreSQL
 - ClickHouse
 - Rust
-project:
-- systems-thinking
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T14klX5K6mQ
 speaker: Peter Pang
@@ -39,7 +37,6 @@ tags:
 - technology
 title: 深度解析Cloudflare故障：互联网基建为何如此脆弱？
 ---
-
 ### 2025年Cloudflare故障回顾
 
 2025年11月18日，互联网服务商**Cloudflare**（Cloudflare: 全球领先的互联网性能与安全服务提供商，提供**CDN**、DDoS防护等服务）出现长达5小时的故障。包括GPT、推特在内的大量头部互联网服务全面瘫痪。这也是继6月12日的Google Cloud故障和10月19日的AWS故障之后，半年来出现的第三起全球范围内的大型瘫痪事件。这提醒了我们，互联网这个强大的科技产物，比想象的还要脆弱。在三次事故中出场两次的Cloudflare，作为互联网的基建服务，也是其脆弱的根源之一。

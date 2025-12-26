@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -12,10 +12,7 @@ media_books:
 - The Life of Genghis Khan
 people:
 - Nicolai Tangen
-project:
-- ai-impact-analysis
-- entrepreneurship
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UPtPobAYCcM
 speaker: Norges Bank Investment Management
@@ -29,7 +26,6 @@ tags:
 - technology
 title: 诺维信CEO艾斯特·拜格特：生物解决方案如何重塑世界与商业
 ---
-
 ### 诺维信：用生物解决方案改变世界
 
 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 负责管理挪威政府全球养老基金）的首席执行官尼古拉·坦根。

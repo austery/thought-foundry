@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Broadcom
@@ -15,10 +15,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LR9kg6ReepA
 speaker: Shijun Tang
@@ -32,7 +29,6 @@ tags:
 - technology
 title: 美股博通 (AVGO) 深度解析：AI时代连接一切的复利机器？
 ---
-
 ### 博通：AI浪潮中的隐形巨头
 
 今天我们来聊一聊美股**博通**（Broadcom：一家美国半导体和基础设施软件解决方案提供商）。在短短三年间，这家公司股价翻了九倍，它未来究竟还能涨多高？我创作内容的目的，是希望通过投资帮助大家实现自由和快乐，不提供任何喊单、价格预期或买卖信号。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Netflix
@@ -44,10 +44,7 @@ people:
 products_models:
 - 哆啦A梦
 - Minecraft
-project:
-- china-analysis
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1Xu1TETrRes
 speaker: 張内咸
@@ -62,7 +59,6 @@ tags:
 - sci-fi-vs-fantasy
 title: 《三体》中西方改编对比：文化输出、科幻根源与中国电影产业的困境
 ---
-
 ### 频道成长与《三体》之约
 
 大家好，我是张内咸。前几个月，我曾在一期节目中提及美国版《三体》，并许诺待频道订阅数过万时，将从技术角度拆解美版与中国版《三体》的区别。没想到，频道订阅数很快就突破了万位，观众们也对这个约定记忆犹新。因此，本期节目将兑现承诺，深入探讨《三体》的影视改编。

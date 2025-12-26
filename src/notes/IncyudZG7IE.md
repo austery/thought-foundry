@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -21,9 +21,7 @@ products_models:
 - YouTube
 - Instagram
 - TikTok
-project:
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IncyudZG7IE
 speaker: Norges Bank Investment Management
@@ -37,7 +35,6 @@ tags:
 - talent
 title: 挪威主权财富基金的沟通战略：透明度、人才吸引与全球影响力
 ---
-
 ### 挪威银行投资管理公司的沟通战略目标
 
 感谢大家，欢迎来到这次“咖啡谈话”。

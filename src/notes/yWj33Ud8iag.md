@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - CNN
@@ -14,9 +14,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yWj33Ud8iag
 speaker: TED
@@ -30,7 +28,6 @@ tags:
 - online
 title: 从爆红经历看互联网的挑战与Z世代女性的解决方案
 ---
-
 ### 个人经历：从私密到公开的爆红之路
 
 我出生于亚利桑那州土桑市，由一位单亲妈妈抚养长大。15岁时，由于母亲药物滥用，我搬了出去。第二年，也就是2017年，我和男友一家人住在一起时，当地的参议员投票决定削减我所依赖的补助。当时我身无分文、没有保险、也没有父母陪伴，走进一家诊所，却无法获得控制自己身体和未来所需的**避孕措施**（Contraception: 阻止怀孕的方法）。

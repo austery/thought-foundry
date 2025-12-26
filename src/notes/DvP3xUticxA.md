@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-17'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - big-think
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DvP3xUticxA
 speaker: Big Think
@@ -25,7 +24,6 @@ tags:
 - system
 title: 浪漫之爱的科学：一位人类学家的视角
 ---
-
 ### 爱的普世性与进化根源
 
 No matter what their gods were, what they did for a living, what they wore, the songs they sang, everything varies except love, and everybody loves.

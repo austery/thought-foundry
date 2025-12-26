@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Bell Labs
@@ -17,9 +17,7 @@ people:
 - analog-computing
 products_models:
 - ENIAC
-project:
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IgF3OX8nT0w
 speaker: veritasium
@@ -32,7 +30,6 @@ tags:
 - war
 title: 被遗忘的强大计算器：模拟计算机的兴衰与回归
 ---
-
 ### 模拟计算的古老起源与基本原理
 
 1901年，一件古希腊文物在安提基特拉岛附近的一艘沉船中被发现。

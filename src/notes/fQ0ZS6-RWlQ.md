@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Columbia University
@@ -19,9 +19,7 @@ media_books:
 people:
 - Isaac Newton
 - Paul McCartney
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fQ0ZS6-RWlQ
 speaker: Big Think
@@ -34,7 +32,6 @@ tags:
 - resilience
 title: 破除永久创伤迷思：心理学家乔治·博南诺揭示人类韧性的科学
 ---
-
 ### 导言：重新思考创伤
 
 当我思考创伤时，真正的大问题是：大多数人如何应对我们所认为的创伤事件？我倾向于使用“潜在创伤”或“潜在创伤性事件”这个词。这是因为事件本身并非创伤，它们只是具有创伤的可能性。但大多数人是如何应对的呢？我们知道有些人会患上**创伤后应激障碍**（Post-Traumatic Stress Disorder, PTSD：指个体在经历或目睹创伤性事件后出现的严重、持续的心理障碍），但大多数人，他们是如何反应的？当我们能看清这一点时，我们就能追问，为什么人们会有某些特定的反应方式？这正是我整个职业生涯都在探究的问题。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -28,9 +28,7 @@ people:
 products_models:
 - Claude
 - Siri
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UJpcbQIUWUo
 speaker: TechButMakeItReal
@@ -44,7 +42,6 @@ tags:
 - narrative
 title: “接近”通用人工智能的商业：虚假宣传如何变得有利可图
 ---
-
 ### AGI叙事的经济学
 
 今年，**奥特曼**（Sam Altman: OpenAI首席执行官）先生曾表示**AGI**（Artificial General Intelligence: 人工通用智能，指能够像人类一样学习、理解和应用知识的AI）即将到来。

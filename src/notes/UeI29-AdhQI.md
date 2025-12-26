@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -15,8 +15,7 @@ people:
 products_models:
 - GPT-4
 - Gemini
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UeI29-AdhQI
 speaker: Dwarkesh Patel
@@ -32,7 +31,6 @@ tags:
 - research
 title: AI 进展加速：计算、研究与未来
 ---
-
 ### AI 研究的加速潜力
 在智能爆炸的设想中，当人工智能研究员被 AI 取代时，会涌现出大量自动化 AI 研究员，它们能加速研究进程，创造更多 AI 研究员，并推动更深层次的进展。然而，这种设想是否可行，需要我们直接询问 AI 研究员。如果拥有成千上万的 AI 研究员，是否就能引发智能爆炸？目前的瓶颈似乎更多在于运行模型所需的**计算能力**（Compute Power）和**数据信号**的获取，而非纯粹的工程实现难度。
 

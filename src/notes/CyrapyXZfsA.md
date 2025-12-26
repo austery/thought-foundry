@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times Podcasts
@@ -25,10 +25,7 @@ people:
 - Ro Khanna
 - Kamala Harris
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CyrapyXZfsA
 speaker: New York Times Podcasts
@@ -42,7 +39,6 @@ tags:
 - technology
 title: 民主党停摆协议的复杂政治：党内分裂与战略反思
 ---
-
 ### 民主党内部的“内战”：停摆协议引发的震荡
 
 我是《纽约时报》的迈克尔·布巴罗（Michael Bubbero），这里是《The Daily》节目。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 哈马斯
@@ -22,10 +22,7 @@ people:
 - Donald Trump
 products_models:
 - F-35战机
-project:
-- china-analysis
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lyhnNVdlG_k
 speaker: FearNation 世界苦茶
@@ -39,7 +36,6 @@ tags:
 - technology
 title: 中国地缘政治与经济挑战：规避制裁、稀土武器化与企业家困境
 ---
-
 ### 中国秘密规避美国对伊朗制裁的支付系统
 
 《华尔街日报》的一篇文章揭示了在全球金融体系的眼皮底下，中国如何精心构建了一套隐蔽的支付系统，以绕开美国对伊朗的严厉制裁。这篇文章的核心观点非常明确：中国不再仅仅是伊朗石油的一个大买家，而是建立了一个独立于国际银行体系之外的、类似以物易物的资金闭环。

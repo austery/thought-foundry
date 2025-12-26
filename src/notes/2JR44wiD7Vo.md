@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: finance
 companies_orgs:
 - 星巴克
@@ -21,9 +21,7 @@ products_models:
 - Twitter
 - Nasdaq
 - 标普500
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2JR44wiD7Vo
 speaker: 老周横眉
@@ -37,7 +35,6 @@ tags:
 - wealth-accumulation
 title: 普通人如何实现财务自由？老周横眉揭示8大致富之道
 ---
-
 ### 财富积累的真相：巴菲特的复利启示
 
 让我们先来看一个事实：**巴菲特**在11岁时就买了他人生中的第一支股票，但他目前1500亿美元的财富中，有99%是在他50岁之后才赚到的。

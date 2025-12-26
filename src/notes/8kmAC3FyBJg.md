@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - SEC
@@ -18,10 +18,7 @@ products_models:
 - QQQ
 - VOO
 - TQQQ
-project:
-- investment-strategy
-- us-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8kmAC3FyBJg
 speaker: Shijun Tang
@@ -35,7 +32,6 @@ tags:
 - leverage-risk
 title: 散户最好的躺平投资：从QQQ到SCHG，再到价值投资的底层逻辑
 ---
-
 ### 什么是散户最理想的“躺平式”投资产品？
 
 最近，许多投资圈的KOL都在讨论：标普500和纳斯达克指数是否已经过时？他们声称找到了“更好的投资产品”——不是某只个股，而是一个跟踪特定指数的**交易所交易基金（ETF）**。其中被频繁提及的是**SCHG**（Schwab U.S. Large-Cap Growth ETF），它追踪的是**道琼斯美国大盘成长股指数**（Dow Jones U.S. Large-Cap Growth Index）。这类指数基金的费率极低，SCHG仅为0.04%。

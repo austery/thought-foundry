@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Gemini
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jryZvCuA0Uc
 speaker: AI Engineer
@@ -27,7 +25,6 @@ tags:
 - system
 title: 如何有效分析数据以提升AI应用性能
 ---
-
 ### 引言：系统化地审视你的数据
 
 大家好，我是Chroma的联合创始人兼首席执行官Jeff Huber，Jason也加入了我们。我们将进行一个两部分的演讲，内容非常丰富。这是今天的最后一场会议，所以我们希望给大家带来很多有价值的信息。今天演示中的所有内容都是开源的，代码也都可以获取。我们不销售任何工具，所以全程都会有二维码供大家获取代码。现在，让我们来谈谈如何审视你的数据。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2022-09-13'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - podcast-recommendation
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZuItzDktDiI
 speaker: 一口新飯
@@ -24,7 +23,6 @@ tags:
 - personal-development
 title: 播客如何改变人生：深度解析与精选推荐
 ---
-
 ### 我的播客之旅与收听倡议
 
 从2007年第一次接触**播客**（Podcast: 一种通过互联网发布的音频节目）到现在，在总共14年的时间里，我每天至少有30分钟在收听播客。毫不夸张地说，长期收听播客改变了我的人生，让我从一个非英语专业的普通学生，变成一位托福雅思老师，随后出国留学、工作、创业、投资，一直到现在成立这个频道。收听英文播客和读书一样，成为我获取知识、认知世界的最重要途径。

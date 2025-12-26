@@ -17,8 +17,7 @@ people:
 - 赫鲁晓夫
 - 彭德怀
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RmpTm4KRWAk
 speaker: 柴静 Chai Jing
@@ -31,7 +30,6 @@ tags:
 - society
 title: “集中营”纪录大饥荒：有天大的谎言，才有天大的灾难｜顾准日记
 ---
-
 ### 思想家的亲历
 
 上期节目说到高华的时候，我谈到了顾准。**顾准**（Gu Zhun: 20世纪中国最重要的思想家之一）是20世纪中国最重要的，也是最著名的思想家之一。而1959年，作为**右派**（Rightist: 在1957年反右运动中被划为“资产阶级右派”的知识分子或干部），在**河南信阳**（Henan Xinyang: 劳改地点）劳改时，亲历了**大饥荒**（Great Famine: 1959-1961年中国发生的全国性饥荒）。这是他思想历程中最为残酷也最为关键的一段。据估计，信阳地区800万人口中超过100万死于饥荒。顾准认为，大饥荒不是天灾，也不是简单的人祸，而是一场国家对抗农民的冲突。

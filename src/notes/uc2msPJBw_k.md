@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-06-21'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uc2msPJBw_k
 speaker: 海淀拙大叔
@@ -25,7 +22,6 @@ tags:
 - stock-market
 title: 货币指标预示市场乐观前景：海淀拙大叔的经济宏观论
 ---
-
 ### 货币指标：市场乐观前景的信号
 
 在《阿甘经济宏观论》第21集中，货币指标显示我们对未来的市场可以更乐观一些。海淀拙大叔在6月21号周六指出，根据他此前关于货币和资本市场的推演，在去年推出宽松和刺激政策之后，首先的表现应该是**M1**（狭义货币: 流通中的现金加上活期存款）增长大于4%。接下来，**M1减M2剪刀差**（狭义货币M1增速减去广义货币M2增速）应大于0，随后是中长期贷款增加，资产价格便会开始改善。

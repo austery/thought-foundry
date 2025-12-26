@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -18,9 +18,7 @@ people:
 - Tracy Mumford
 - Donald Trump
 - Mike Johnson
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tI0M00E-_dw
 speaker: New York Times Podcasts
@@ -35,7 +33,6 @@ tags:
 - us-election
 title: 美国田纳西州特别选举预警、移民政策收紧及其他要闻速览
 ---
-
 ### 田纳西州特别选举：共和党面临严峻考验
 
 来自《纽约时报》的头条新闻，我是特雷西·芒福德。

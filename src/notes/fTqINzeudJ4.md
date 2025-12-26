@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-06'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bg2-pod
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fTqINzeudJ4
 speaker: Bg2 Pod
@@ -25,7 +23,6 @@ tags:
 - 全球贸易
 title: 中美AI竞争、开源模型崛起与全球贸易格局重塑
 ---
-
 ### 贸易协议的积极影响与市场反应
 
 on all goods coming from Europe, 0% on US goods going to Europe. So an opening up of Europe markets, paying us 15% and on top of that getting commitments like $750 billion, almost a trillion dollars of energy purchases from the US. Or look at Japan, which they announced last week, another huge market. Again, similar. They're going to pay tariffs to the United States. No tariffs imposed on the United States and they're going to invest $550 billion dollars into the US in a way the president gets to direct. So I would love I would I just think we need to give the president credit where credit is due. Everybody said this was going to lead to retaliation to trade wars was going to be disastrous for the US and all we've seen so far is deals deals deals deals. And I have to say, if this was the CEO of one of our companies, right, let's say we had a board meeting at the start of the year and he outlined these plans and we said, "Hey, we're really nervous about this. You know, this is a high-risk, high-reward strategy. It's either going to backfire and we're going to fire you or it's going to work really well and we give you a bonus." If we're measuring them halfway through the year, I would say that he's in line for a bonus.

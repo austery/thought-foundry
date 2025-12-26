@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-16'
@@ -13,10 +13,7 @@ media_books:
 people:
 - 毛
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ztgOZpDKhg8
 speaker: 徒步的騎手
@@ -31,7 +28,6 @@ tags:
 - youth-unemployment
 title: 中国经济的制度陷阱：国强民弱的悖论与历史回响
 ---
-
 ### 国力膨胀与民生困境：极权制度陷阱下的中国悖论
 
 今天我们将结合近期的几则媒体报道，深入分析中国当前所经历的**极权制度陷阱**（Totalitarian Systemic Trap: 指国家权力过度集中，以牺牲民生为代价追求国家力量扩张的体制困境）。用老百姓的话来说，就是眼看着国家越来越强大，但我们每天的日子却越来越不好过。在正常国家，国力越强，国民生活越好，国力与民生这两条曲线本应同步向上。然而，并非所有国家都是如此。

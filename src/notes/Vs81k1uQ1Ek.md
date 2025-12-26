@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2024-08-18'
@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Vs81k1uQ1Ek
 speaker: 一口新飯
@@ -21,7 +20,6 @@ tags:
 - personal-growth
 title: 彪悍的人生，无需解释：一次心梗带来的富足思维觉醒
 ---
-
 ### 领悟“彪悍人生”的真谛
 
 我相信每个人都曾有过类似的经历，听到一句很爽很有道理的话，但真的要解释却又难以说清楚。直到经历了一些事情后，在某个瞬间突然顿悟。对我而言，罗永浩的“**彪悍的人生不需要解释**”（Brave Life Needs No Explanation: 罗永浩提出的理念，强调个体追求目标时无需向外界证明或辩解）就是这样一句话。

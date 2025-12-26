@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -28,10 +28,7 @@ people:
 products_models:
 - GPT-4 Turbo
 - ChatGPT
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4QoRNaLKIqA
 speaker: 北美王路飞
@@ -46,7 +43,6 @@ tags:
 - power
 title: 伊尔亚·苏兹克维秘密证词揭露OpenAI“政变”内幕：权力、背叛与AI未来
 ---
-
 ### 硅谷罗生门：伊尔亚·苏兹克维的秘密证词
 
 今天，我们来聊一聊硅谷的**罗生门**（Rashomon: 指事件各方各执一词，真相扑朔迷离的局面），聚焦于**伊尔亚·苏兹克维**（Ilya Sutskever: OpenAI联合创始人及前首席科学家）的秘密证词。这是一个关于背叛、权力与人工智能未来的谜团。

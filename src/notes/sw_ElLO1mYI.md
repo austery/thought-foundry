@@ -41,10 +41,7 @@ people:
 - Mao Zedong
 - Lin Biao
 - Joseph Stalin
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sw_ElLO1mYI
 speaker: 張内咸
@@ -57,7 +54,6 @@ tags:
 - nationalism
 title: 全球「辱華」神片TOP10：從以伊衝突看中國人的「玻璃心」與彈性
 ---
-
 ### 引言：小粉紅的「破防」與以伊衝突
 
 大家好，我是張内咸。過去的一周，真的是讓**小粉紅**（Xiao Fen Hong: 指中國網絡上極端民族主義的年輕人）集體「破防」的一周。先是以色列宣布對伊朗實施「**斬首行動**」（Decapitation Strike: 指通過精準打擊消滅敵方領導層或指揮系統的軍事行動），緊接著伊朗表示要對以色列展開「報復行動」，大戰一觸即發，全世界等著看美國的表現。川普弱弱地說：「你等等，給我們兩周時間研究研究。」正當伊朗鬆了口氣的時候，沒想到隔天美國就出動B2轟炸機，空襲了伊朗的核設施基地。川普說：「祝賀祝賀。」以色列說：「充分合作。」伊朗咬著牙說：「材料還在。」美國趕緊補充說：「基本摧毀。」普京一看都沒人理他了，插嘴說：「毫無道理。」川普翻了翻白眼說：「全面停火。」感覺從頭到尾就習近平沒說話。習近平不說，因為他不用**X**（X: 指社交媒體平台Twitter，在中國大陸常被代指）嘛。

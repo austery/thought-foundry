@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: 2025-10-04
@@ -8,9 +8,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=ym5Uva8ir2o
 speaker: LT視界
@@ -24,7 +22,6 @@ tags:
 - us-china-relations
 title: 沙特石油策略、日本新首相、川普和平计划与中美谈判深度解析
 ---
-
 ### 今日新闻概览
 
 大家好。

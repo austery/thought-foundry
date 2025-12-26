@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -36,10 +36,7 @@ people:
 - Alexandria Ocasio-Cortez
 products_models:
 - S&P 500
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Z30clMddgzM
 speaker: Joseph Wang
@@ -53,7 +50,6 @@ tags:
 - us-foreign-policy
 title: 美联储主席人选与美国国家安全战略：对市场及欧洲关系的影响
 ---
-
 ### 市场概览与政策动向
 
 过去几周，市场表现相对平静，价格走势在一定区间内波动。我们确实看到主要股指小幅走高，我个人认为，到今年年底，**标普500**（S&P 500: 衡量美国大型上市公司股票表现的指数）指数很有可能达到7000点。

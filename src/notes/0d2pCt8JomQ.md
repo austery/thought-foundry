@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Nvidia
@@ -31,10 +31,7 @@ people:
 - Tim Cook
 products_models:
 - F-35
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0d2pCt8JomQ
 speaker: Patrick Boyle
@@ -48,7 +45,6 @@ tags:
 - us-china-relations
 title: 特朗普20亿美元芯片协议：重塑美国资本主义与地缘政治的新模式
 ---
-
 ### 特朗普芯片协议：重塑美国资本主义的新模式
 
 本周，**英伟达**（Nvidia: 一家全球领先的图形处理器和人工智能芯片制造商）和**AMD**（Advanced Micro Devices: 一家全球性的半导体公司，主要设计和销售计算机处理器及相关技术）达成一项协议，同意向美国政府支付其在中国芯片销售收入的15%。此举重写了美国资本主义的规则。这并非作为税收或特许权使用费，而是作为获得向中国出口近期受限的AI芯片许可的代价。这不是关税，也不是许可费，甚至不是罚款。它是一种分成，是企业收入直接交给联邦政府以换取出口权。

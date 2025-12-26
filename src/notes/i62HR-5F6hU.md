@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Conservative Party
@@ -22,10 +22,7 @@ people:
 - Jordan Peterson
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=i62HR-5F6hU
 speaker: 莊也雜談
@@ -39,7 +36,6 @@ tags:
 - technology
 title: 加拿大保守党党魁博勵治的逆袭之路与执政理念：经济、移民与社会政策全解析
 ---
-
 ### 引言：博勵治与加拿大政治前景
 
 今天，我们将深入探讨观众们高度关注的加拿大保守党党魁**博勵治**（Pierre Poilievre: 加拿大保守党党魁，加拿大下任总理热门人选），以及在他领导下的保守党所秉持的执政理念。选择这个话题，不仅因为观众点播众多，还因为上期节目中关于加拿大加入美国的话题引发了意外反响。许多观众对加拿大加入美国表现出浓厚兴趣，并对节目中似乎不支持美加合并的立场感到不满。

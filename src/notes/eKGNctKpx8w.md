@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Bloomberg
@@ -18,10 +18,7 @@ people:
 - Joe Weisenthal
 - Kerman Rodriguez
 - Kalebrooks
-project:
-- entrepreneurship
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eKGNctKpx8w
 speaker: Bloomberg Podcasts
@@ -35,7 +32,6 @@ tags:
 - supply-chain-management
 title: 从洛杉矶面包店看当下经济：运营、成本与监管挑战
 ---
-
 ### 播客开场与烘焙趣谈
 
 **Bloomberg:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Aloway。

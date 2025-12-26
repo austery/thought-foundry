@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies:
 - intellectual-dilemma
@@ -29,10 +29,7 @@ people:
 - Nietzsche
 - Lu Xun
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=90UvAwbsYPM
 speaker: Anthony看世界
@@ -45,7 +42,6 @@ tags:
 - movement
 title: 五四知识分子的启蒙困境：从师生恋视角看中国启蒙的异化
 ---
-
 ### 中国启蒙的困境：从个人视角到宏大叙事
 
 大家好，我是Anthony，欢迎来到我的频道。

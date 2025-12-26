@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NASA
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - Derek Muller
 - George Washington
-project:
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YMDJA4UvXLA
 speaker: veritasium
@@ -27,7 +25,6 @@ tags:
 - society
 title: 改变世界的爆炸性元素：从犹他盐湖到全球粮食的钾肥故事
 ---
-
 ### 犹他沙漠中的神秘蓝色池塘
 
 世界充满了神秘之地，你可以通过**谷歌地球**（Google Earth: 谷歌公司开发的虚拟地球仪软件）从高空俯瞰，但那里究竟发生了什么，原因又是什么？我是德里克·穆勒，一名科学家、教育家和电影制作人，我将揭示这些神奇之地背后的故事。只需放下大头针，我便启程。

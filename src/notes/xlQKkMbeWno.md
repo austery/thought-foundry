@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - The Globe and Mail
@@ -17,10 +17,7 @@ media_books:
 people:
 - Benjamin Netanyahu
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xlQKkMbeWno
 speaker: TVO Today
@@ -34,7 +31,6 @@ tags:
 - technology
 title: 理解以色列-加沙冲突：一位记者的人道主义视角
 ---
-
 ### 冲突后的反思与新书发布
 
 2023年10月7日之后，**《环球邮报》**（The Globe and Mail: 加拿大全国性日报）的**马莎·莱德曼**（Marsha Lederman: 加拿大记者和作家）开始分享她对这场冲突的看法。她在这第一年撰写的专栏文章已被收录到一本新书《10月7日：寻找人道主义中点》（October 7th: Searching for the Humanitarian Middle.）中。她的思想是如何演变的？她对未来又有哪些希望和担忧？马莎，很高兴你能来到我们的节目。你最近怎么样？

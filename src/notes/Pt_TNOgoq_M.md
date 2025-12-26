@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-02-01
@@ -13,10 +13,7 @@ people:
 - John Locke
 - Thomas Jefferson
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Pt_TNOgoq_M
 speaker: 徒步的騎手
@@ -30,7 +27,6 @@ tags:
 - tyranny-definition
 title: 武断任性统治的终局：西方政治思想与中国对暴政的误解
 ---
-
 ### 引言：武断任性统治的普遍性与后果
 
 过去十几年，中国经历了一波又一波的**武断任性**（arbitrary and capricious: 权力行使缺乏依据、随意而为）的折腾。很多人都在问，接下来会怎么样？今天我们将探讨一个正常国家国民所应具备的常识。这个常识在中文世界长期以来是国民的心智盲点。掌握了这个常识，普通的听众也不难对中国未来十年的走向做出大致不离谱的判断。

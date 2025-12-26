@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -120,10 +120,7 @@ products_models:
 - ChatGPT
 - Acrobat
 - Firefly
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iNPfT91VNuk
 speaker: Amit Kukreja
@@ -142,7 +139,6 @@ tags:
 - space-data-center
 title: 美联储降息25个基点并重启量化宽松：市场、AI与企业财报深度解析
 ---
-
 ### 美联储降息25个基点及量化宽松回归
 
 大家好，欢迎回到频道。我们提前大约10分钟开始直播，各位，我们降息了。

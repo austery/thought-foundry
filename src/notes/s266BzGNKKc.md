@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - DeepSeek
@@ -13,10 +13,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s266BzGNKKc
 speaker: Hung-yi Lee
@@ -31,7 +28,6 @@ tags:
 - technology
 title: 大型语言模型评估的挑战与古德哈特定律
 ---
-
 ### 大型语言模型推理能力的评估现状
 
 本堂课将探讨大型语言模型（LLM）的评估问题。在讨论了许多关于模型推理能力的内容后，我们如何判断这些模型是否真的具备良好的推理能力呢？

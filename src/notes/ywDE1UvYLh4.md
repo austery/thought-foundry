@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BP
@@ -25,10 +25,7 @@ people:
 - Thomas Piketty
 products_models:
 - iPhone
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ywDE1UvYLh4
 speaker: 超級歪 SuperY
@@ -42,7 +39,6 @@ tags:
 - life
 title: 《人类世的资本论》：气候危机下的资本主义批判与“去成长共产主义”展望
 ---
-
 ### 极端气候下的全球困境与资本主义的失败
 
 今年，全球经历了百年未见的极端天气，台湾气温高达38摄氏度，仿佛一块被烘烤的地瓜，短短五天内有136人因中暑受伤。专家预测，未来四十年内，台湾可能将没有冬天。极端气候已然影响台湾，我们作为生于斯长于斯的人，该如何面对？今天，我们将通过《人类世的资本论》一书，深入探讨气候危机如何凸显资本主义的失效，以及如何通过“**去成长**”（Degrowth: 减少物质和能源消耗，以实现生态可持续性和社会公平）来达成2050年净零碳排放的目标。

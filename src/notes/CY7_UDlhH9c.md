@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - Angela Duckworth
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CY7_UDlhH9c
 speaker: Norges Bank Investment Management
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 坚毅（Grit）：超越天赋的成功与领导力
 ---
-
 ### 坚毅：不确定性中的卓越品质
 
 大家好，来自费城的问候，非常感谢邀请我。

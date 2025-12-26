@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国社会学会
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Bill Clinton
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TtoAwuaabj8
 speaker: 壽司坦丁 Sociostanding
@@ -28,7 +25,6 @@ tags:
 - social
 title: 同性恋家庭子女养育争议：深度解析Mark Regnerus研究及其方法论缺陷
 ---
-
 ### 争议研究：同性亲密关系与子女养育
 
 曾与男性发生过性行为的美国**异性恋男性**（异男）数量，竟然比美国所有同性恋男性加起来还要多。这里是寿司坦丁，在这里，你可以用最轻松的方式接收国际上最有趣的社会科学。一项研究发现，其作者名为Mark Regnerus，我们称他为“小雷”。这篇论文的题目，如果用当下热门的议题来翻译，可以理解为“曾与同性谈过恋爱或发生过性行为的人，他们的小孩……”。小雷指出，他发现在同性家庭中长大的人，在十几项指标中都不如在异性恋家庭中长大的孩子。

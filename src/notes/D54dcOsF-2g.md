@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-13'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - new-york-times-podcasts
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D54dcOsF-2g
 speaker: New York Times Podcasts
@@ -25,7 +23,6 @@ tags:
 - us-china-relations
 title: 加沙人质获释、美国政府停摆与中美贸易新局
 ---
-
 ### 加沙人质获释与中东和平进程
 
 This morning, Hamas released all of the remaining living hostages held in Gaza.

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-07-31'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HNzH5Us1Rvg
 speaker: Anthropic
@@ -23,7 +22,6 @@ tags:
 - model
 title: MCP 协议深度解析：超越工具调用的丰富交互
 ---
-
 ### 引言：MCP 的核心能力与愿景
 
 Well, hello. My name is David. I'm a member of technical staff at Anthropic and one of the co-creators of MCP. And today I'm going to tell you a little bit more about the protocol and the things you can do just to give you an understanding of what there's more to the protocol than what most people use it for at the moment, which would be tools.

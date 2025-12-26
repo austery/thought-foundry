@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
@@ -12,9 +12,7 @@ people:
 - Annie Duke
 - Danny Kahneman
 - Amos Tversky
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=M_PA-2Lx3RE
 speaker: Norges Bank Investment Management
@@ -28,7 +26,6 @@ tags:
 - strategy
 title: 投资与决策中的退出艺术：为何我们难以割舍，又如何明智放手
 ---
-
 ### 决策中的不确定性与退出选项
 
 大家好，很高兴能以线上形式来到这里。今天，我将和大家探讨“退出”这个话题，特别是我们如何改进退出决策，以及为什么我们真的需要这样做。作为决策者，我们面临的问题是，不确定性使得启动任何事情都变得非常困难，因为有两种形式的不确定性会影响我们做出的任何决策。

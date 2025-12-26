@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: All-In Podcast
 category: finance
 date: '2025-10-09'
@@ -8,11 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- cultural-critique
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TKtIoF4yLos
 speaker: all-in-podcast
@@ -26,7 +22,6 @@ tags:
 - venture-capital
 title: 红杉资本Roelof Botha：风险投资行业为何“失灵”？伟大公司如何铸就？
 ---
-
 ### 红杉资本的卓越声誉与使命
 
 Original English sentence(s) from the transcript.

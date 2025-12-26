@@ -33,8 +33,7 @@ people:
 - 傅国涌
 - 李厚诚
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=txfH3IVjIwY
 speaker: 东京人文论坛
@@ -48,7 +47,6 @@ tags:
 - social
 title: 贾葭：重读近代史的五大理由
 ---
-
 ### 个人兴趣与讲座缘起
 
 近代史是**贾葭**过去20年个人比较感兴趣的领域，他阅读的书籍也以近代史居多。在**武律**筹办家庭图书文化节并计划举办讲座时，他们正在录制一期关于**宋教仁**的节目。**贾葭**便随口提议，不如就讲讲“为什么要读近代史”。他认为这虽然是一个老生常谈的话题，许多学者、书人或媒体人都在不同场合讲过，但他对此有自己独特的理解。

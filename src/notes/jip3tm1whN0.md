@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -31,10 +31,7 @@ people:
 - John F. Kennedy
 - Barack Obama
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jip3tm1whN0
 speaker: 北美王路飞
@@ -48,7 +45,6 @@ tags:
 - technology
 title: MAGA兵变2025：特朗普盟友为何联手推动爱泼斯坦文件公开？
 ---
-
 ### 美国国会历史性投票与“MAGA兵变”
 
 就在昨天，美国国会众议院投出了一张足以载入史册的票，结果是427票赞成，一票反对。这并非无聊的例行公事，要知道，现在的美国国会是一个连午饭吃什么都能吵上三天三夜，为了选个议长能够把一整届国会瘫痪好几周的地方。在这个分裂到连空气都带着火药味的华盛顿，居然能有一件事情让427位议员，不管是极左进步派还是极右保守派，手牵手地投了赞成票，只有一个人投了反对票。这让人第一反应肯定是“天要变了”。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-07-06'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《国民心理健康发展报告》
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tnEp7uwrlLo
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - social
 title: 在朋友圈独立自信，在小红书岁月静好：当代大学生的自我困局与情绪困境
 ---
-
 ### 当代大学生的自我困局：在朋友圈与小红书之间迷失
 
 大家好，我是王佳莹，南京师范大学的心理教师和心理咨询师。在过去十年里，我见证了许多皱着眉头走进咨询室的年轻人——他们带着困惑、焦虑和无声的泪水，寻求一个答案：我是谁？

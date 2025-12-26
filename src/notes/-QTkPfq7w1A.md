@@ -1,15 +1,12 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 date: '2025-06-30'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-QTkPfq7w1A
 speaker: veritasium
@@ -23,7 +20,6 @@ tags:
 - theory
 title: 反直觉的收缩机制：布雷斯悖论及其在复杂系统中的应用
 ---
-
 ### 反直觉的收缩机制
 
 这个小小的装置在你试图拉伸它的时候反而会收缩。

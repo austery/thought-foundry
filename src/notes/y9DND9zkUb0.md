@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - 联合国
@@ -18,10 +18,7 @@ people:
 - 约翰·洛克
 - 亚当·斯密
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=y9DND9zkUb0
 speaker: 政經孫老師
@@ -35,7 +32,6 @@ tags:
 - wealth
 title: 勤劳为何不富有？财富的源头是权利而非劳动，兼论经济周期的演变
 ---
-
 ### 引言：勤劳为何不富有？
 
 我们来讨论一个问题：为什么你勤劳但不富有？我相信这是很多网友的疑问，因为这是我们普遍面对的一个现实。现在有很多人非常勤奋，劳动强度非常高，但最终他们的财富状况却不理想，普遍陷入贫穷的状态。这样的事实情况与传统观念存在矛盾。我们从小到大，老师和家长都在教育我们“劳动最光荣”、“劳动能够创造财富”、“靠勤劳可以获得富裕”，但为什么这种教育与我们面对的现实相差如此巨大呢？这个问题很有意义。今天这一期节目，将深入解答这个疑问，解决这个矛盾。要仔细分析这个问题，需要将其拆分成两个部分：财富和劳动。

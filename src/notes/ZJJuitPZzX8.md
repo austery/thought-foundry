@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 开心麻花
@@ -39,10 +39,7 @@ people:
 products_models:
 - iPhone
 - GPT
-project:
-- china-analysis
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZJJuitPZzX8
 speaker: 張内咸
@@ -56,7 +53,6 @@ tags:
 - social
 title: 中国电影与庆丰包子：透视‘大热必死’与‘捧杀’的社会逻辑
 ---
-
 ### 引言：中国电影市场的“内卷”与困境
 
 马上就要过年了，先给大家提前拜个年，大家过年好。不知道今年的**春节档**（Chūn Jié Dàng: 中国农历新年期间的电影上映高峰期）票房会怎么样。官方宣传号称是史上最强春节档，有《哪吒2》、乌尔善的《封神》第二部，还有《红海行动2》等等一大堆。这是强吗？这是**卷**（juǎn: “内卷”，指非理性的内部竞争，导致过度消耗和停滞）！应该叫史上最卷春节档。一个良性正常的市场，应该是把票房分散开，每个月都有不同的热点。你去看看国外是怎么做市场的，哪儿有把一整年里所有的大作全都丢到一块儿“斗蛐蛐”的？

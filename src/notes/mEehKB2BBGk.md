@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - AMD
@@ -43,10 +43,7 @@ products_models:
 - Bitcoin
 - Ethereum
 - Solana
-project:
-- investment-strategy
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mEehKB2BBGk
 speaker: Amit Kukreja
@@ -60,7 +57,6 @@ tags:
 - trade-tariff
 title: 每日回顾：AMD、AI数据中心、SoFi加密货币、Grab并购与特朗普关税动态
 ---
-
 ### 每日市场回顾概览
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目。今天我们有很多内容要讨论。感谢大家的到来。

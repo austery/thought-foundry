@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 伯克希尔·哈撒韦
@@ -18,10 +18,7 @@ people:
 - Ajit Jain
 - Greg Abel
 products_models: []
-project:
-- investment-strategy
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XdjMinVomuA
 speaker: Shijun Tang
@@ -35,7 +32,6 @@ tags:
 - risk
 title: 2023伯克希尔股东信深度解析：查理·芒格的遗产、投资哲学与能源布局
 ---
-
 ### 查理·芒格：伯克希尔的建筑师
 
 每年，巴菲特都会通过致股东信传递其投资哲学与企业经营智慧。2023年的这封信，因查理·芒格于同年11月逝世而显得格外厚重。巴菲特开篇即用整段文字缅怀这位合伙人，称其为“伯克希尔·哈撒韦的建筑师”。

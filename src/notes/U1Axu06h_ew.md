@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - New Democratic Party
@@ -18,9 +18,7 @@ people:
 - Justin Trudeau
 - Pierre Poilievre
 - Warren Buffett
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U1Axu06h_ew
 speaker: 王红雨
@@ -34,7 +32,6 @@ tags:
 - trade-war
 title: 卡尼访美一无所获：加拿大经济迷雾与美加关系新常态分析
 ---
-
 ### 引言：卡尼访美与加拿大经济迷雾
 
 大家好，欢迎再次回到我的频道。今天是2025年5月9号。在**马克·卡尼**（Mark Carney: 前加拿大央行行长、前英格兰银行行长，现任加拿大自由党政府高级顾问）于5月6号访问美国之后，我想跟大家分享一下我自己的想法。卡尼此行美国，几乎是一无所获，这个结果应该是预料之中的。因为加拿大如果想和美国建立新的贸易关系，需要自己手里有牌。然而，加拿大确实是空着手走入美国经济迷雾去谈判的，这种空手而归的情况是必然的。因此，我们需要从头来分析一下加拿大未来的走向，以及我们生活在加拿大的人该做哪些准备。

@@ -14,9 +14,7 @@ products_models:
 - Electron
 - Neutron
 - Starlink
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vcsRao13wWg
 speaker: Money or Life 美股频道
@@ -29,7 +27,6 @@ tags:
 - technology
 title: Rocket Lab (RKLB) 股价深度分析：暴跌后的合理估值与未来展望
 ---
-
 ### RKLB股价暴跌与估值重审
 
 火箭实验室 (Rocket Lab, **RKLB**: 火箭实验室的股票代码) 一直是备受关注的股票，也是许多投资者，包括本文作者的重仓股，目前甚至占据了高达43%的仓位。自频道成立以来，作者制作了不下十余期视频专门讲解这家公司。本期视频将为大家带来火箭实验室最新的估值数据，并分析其与之前是否有变化。目前，火箭实验室的股价已跌至40美元出头，相较于前一段时间最高点接近74美元，下跌了40%多。

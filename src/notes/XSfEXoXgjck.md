@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - jpmorgan-chase
@@ -12,9 +12,7 @@ media_books:
 - bloomberg-podcasts
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XSfEXoXgjck
 speaker: Bloomberg Podcasts
@@ -25,7 +23,6 @@ tags:
 - financial-market
 title: 大型银行财报季：摩根大通、富国银行与花旗的业绩与挑战
 ---
-
 ### 摩根大通与高盛的财报概览
 
 What do we need to know about the numbers in JPMorgan's business? Because, as Matt says, sometimes the headlines look darn good and the quarter was darn good.

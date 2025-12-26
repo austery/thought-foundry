@@ -18,10 +18,7 @@ insight: ''
 layout: post.njk
 products_models:
 - iOS
-project:
-- investment-strategy
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F0fswCUWuN8
 speaker: Shijun Tang
@@ -34,7 +31,6 @@ tags:
 - market-valuation
 title: 深度解析阿里巴巴、耐克与Fortinet：投资者的视角与复利机器的探寻
 ---
-
 ### 投资理念与个人背景
 
 阿里巴巴的股价曾一天暴涨16.20%。市场对阿里巴巴的态度是否已经彻底反转？本期视频将仔细分析阿里巴巴股价暴涨的原因，并探讨其未来是否会带来更多收益。此外，我们还将分析运动服饰巨头耐克近年来的下坡路，以及网络安全巨头Fortinet近期遭到市场打压的原因。

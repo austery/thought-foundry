@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - DuPont
@@ -12,9 +12,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SC2eSujzrUY
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 特氟龙背后的秘密：杜邦如何用‘永远的化学品’污染地球
 ---
-
 ### 冰箱的致命秘密与特氟龙的诞生
 
 1929年，芝加哥的人们不断神秘地死在家中。

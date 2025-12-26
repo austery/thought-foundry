@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-06-21'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LO-pOUpcdB0
 speaker: 海淀拙大叔
@@ -25,7 +22,6 @@ tags:
 - stock-market-correlation
 title: PMI指标预示经济繁荣即将到来：海淀拙大叔的宏观经济分析
 ---
-
 ### PMI：经济繁荣的先行指标
 
 本期宏观经济论将聚焦于**采购经理人指数**（PMI: Purchasing Managers' Index, 衡量制造业或服务业经济活动的综合指标），探讨其如何预示经济反转和繁荣的到来。此前，关于房价未来上涨的观点曾引发广泛讨论，多数人的不相信反而坚定了经济拐点即将到来的判断。今天，我们将通过PMI指标，深入分析经济走向。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - 加州大学伯克利分校
@@ -24,9 +24,7 @@ products_models:
 - Unreal Engine
 - LLM
 - VLA
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zR9tvIE_P-w
 speaker: 硅谷101
@@ -39,7 +37,6 @@ tags:
 - llm
 title: 给AI一个“身体”：3D数字人如何驱动具身智能的未来？
 ---
-
 ### AI发展：有脑无身与有身无脑的矛盾
 
 最近，AI视频领域的热潮被**Sora2**（一个能够生成逼真短片的视频生成模型）点燃。它刚发布时，以假乱真的画质、自然的语态和生动的微表情令人非常震惊。在10月5号举办的硅谷101线下科技大会上，我们甚至用了一段Sora2生成的Sam Altman的AI视频。

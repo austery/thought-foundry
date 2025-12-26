@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-05-23'
 draft: true
@@ -10,10 +10,7 @@ media_books:
 - 《单身社会》
 - 《无缘社会》
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Go_HgsLxoRI
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - social
 title: “懒婚”现象：青年晚婚不婚背后的结构性困境与婚姻价值的重构
 ---
-
 ### “懒婚”：一种理性选择，而非道德缺陷
 
 大家好，我叫刘汶蓉，来自上海社会科学院社会学研究所，长期从事家庭社会学研究。今天我想和大家分享关于大城市青年人婚恋困境的观察与思考。

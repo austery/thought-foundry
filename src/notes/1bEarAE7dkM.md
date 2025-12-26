@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Norges Bank Investment Management
@@ -25,10 +25,7 @@ people:
 - James Clear
 products_models:
 - ChatGPT
-project:
-- systems-thinking
-- personal-growth-lab
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1bEarAE7dkM
 speaker: Norges Bank Investment Management
@@ -41,7 +38,6 @@ tags:
 - trust-building
 title: 信任的演变：从人际到AI时代，我们如何建立与重建信任
 ---
-
 ### 信任的定义与重要性
 
 **Nikolai:** 大家好，我是挪威主权财富基金的首席执行官尼古拉·坦根。

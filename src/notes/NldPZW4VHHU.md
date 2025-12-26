@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Circle
@@ -25,10 +25,7 @@ people:
 products_models:
 - USDC
 - AI选股功能
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NldPZW4VHHU
 speaker: 投资TALK君
@@ -42,7 +39,6 @@ tags:
 - market-sentiment
 title: Circle财报暴雷与美联储降息分歧：AI泡沫下的市场叙事与投资策略
 ---
-
 ### 市场概览与Circle财报表现
 
 各位观众大家好，欢迎来到本专业美股频道。我是市场分析师小涛。我的所有持仓中，大部分公司已发布财报，仅剩两家：周三发布财报的**Circle**和周四早上发布财报的**Disney**。此前已发布财报的公司表现基本令人满意，股价走势也符合预期。

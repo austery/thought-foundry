@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Kuomintang
@@ -20,10 +20,7 @@ people:
 - Harry S. Truman
 - Joseph McCarthy
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Qd6yFK0HlZQ
 speaker: ZetaBook
@@ -37,7 +34,6 @@ tags:
 - white-terror
 title: 吴石案、白色恐怖与麦卡锡主义：冷战时期国共美三方历史交织
 ---
-
 ### 吴石案：国共内战后的关键共谍
 
 **吴石**（Wu Shi: 中华民国高级将领，后被证实为中共间谍）是谁？如果说**郭汝瑰**（Guo Ruguai: 中华民国高级将领，国共内战期间中共间谍）是国共内战期间最著名的共谍，那么吴石就是1949年以后最著名的共谍。考虑到吴石早在1948年**徐蚌会战**（Xuzhou-Bengbu Campaign: 亦称淮海战役，国共内战三大战役之一）时就开始谍报活动，称他是国民党历史上破坏力最大的共谍也无不可。

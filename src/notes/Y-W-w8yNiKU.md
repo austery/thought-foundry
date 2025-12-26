@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Caltech
@@ -19,9 +19,7 @@ people:
 - Carl Anderson
 - Richard Feynman
 - Max Born
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y-W-w8yNiKU
 speaker: Veritasium
@@ -35,7 +33,6 @@ tags:
 - technology
 title: 意外发现反物质之人：保罗·狄拉克与量子物理的革命
 ---
-
 ### 狄拉克方程的诞生与量子物理的震动
 
 1928年，一位年轻人在德国的讲台上发表了他近期工作的演讲。他有着一种略显不同寻常的演讲风格。物理学家**尤金·维格纳**（Eugene Wigner: 匈牙利裔美国理论物理学家，诺贝尔物理学奖得主）形容那次演讲是超然的，几乎就像是在背诵一篇技术文本。他说：“这个人说话时，没有表现出任何享受自己演讲的迹象。”然而，这位奇怪而谦逊的年轻人所展示的工作，即将让20世纪一些最著名的**量子物理学家**（Quantum Physicists: 研究量子力学及其应用的科学家）陷入困惑。

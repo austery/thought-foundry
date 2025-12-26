@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-12-14'
 draft: true
@@ -11,10 +11,7 @@ media_books:
 people:
 - 莊也
 products_models: []
-project:
-- historical-insights
-- us-analysis
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kECCOyaV8-o
 speaker: 莊也雜談
@@ -27,7 +24,6 @@ tags:
 - public
 title: 從退休到墳墓2025：加拿大廉租老年房申請全指南與四種養老住房透視
 ---
-
 ### 加拿大養老住房的四種模式：從廉租房到有產權社區
 
 哈嘍，大家好，我是莊也。歡迎收看《莊也雜談》。

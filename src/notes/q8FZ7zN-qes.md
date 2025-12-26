@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 纽约时报
@@ -30,10 +30,7 @@ people:
 - 李登辉
 - 林彪
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q8FZ7zN-qes
 speaker: 柴静 Chai Jing
@@ -46,7 +43,6 @@ tags:
 - war
 title: 龙应台对话柴静：当掌权者要你仇恨，你必须先知道仇恨是什么
 ---
-
 ### 战斗机下的田园生活与战争的反思
 
 很多人说，龙应台是因为受不了政治才躲到深山里，事实是这样吗？每天早上七点到七点半之间，当战斗机从我头上飞过时，我基本上正在林间小路上带着两只狗散步。此时，森林里传来猴子的叫声，伴随着我的狗吠和我家鸡鸣的声音。这种反差和冲突，在心理上是一种复杂的感受。

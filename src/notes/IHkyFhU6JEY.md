@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -22,9 +22,7 @@ products_models:
 - Copilot
 - ChatGPT
 - Notebook LM
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IHkyFhU6JEY
 speaker: AI Engineer
@@ -39,7 +37,6 @@ tags:
 - model
 title: 设计AI密集型应用：AI工程的标准模型与未来方向
 ---
-
 ### 欢迎与大会概览
 
 大家好，欢迎来到本次大会。通常，我会在大会开幕时进行一次简短的演讲，介绍大会的进展，并分享AI工程的最新状况以及我们如何组织这次会议。这次演讲将结合这些内容，我将尝试回答大家关于大会、AI新闻以及AI未来发展的所有问题，让我们直接开始。

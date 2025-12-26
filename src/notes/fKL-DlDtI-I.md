@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -21,10 +21,7 @@ people:
 - Bill de Blasio
 - Jamie Dimon
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fKL-DlDtI-I
 speaker: Bloomberg Podcasts
@@ -40,7 +37,6 @@ tags:
 - public-safety
 title: 纽约商界精英如何看待民主社会主义市长候选人Zohran Mamdani？
 ---
-
 ### Zohran Mamdani的意外崛起
 
 **Joe Weisenthal:** 大家好，欢迎收听《OddLots》播客的又一期节目，我是Joe Weisenthal。

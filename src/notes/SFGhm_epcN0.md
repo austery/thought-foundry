@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - Norges Bank Investment Management
@@ -21,8 +21,7 @@ people:
 - Richard Feynman
 products_models:
 - PowerPoint
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SFGhm_epcN0
 speaker: Norges Bank Investment Management
@@ -36,7 +35,6 @@ tags:
 - technology
 title: 告别职场行话：如何用“周末语言”提升沟通影响力
 ---
-
 ### 职场沟通的“周末语言”之谜
 
 大家好，我是来自**挪威主权财富基金**（Norges Bank Investment Management: 挪威政府运营的全球最大主权财富基金）的尼古拉·坦根。今天，我们将与安迪·克雷格对话，他可能是世界上在商业故事讲述方面首屈一指的专家。事情是这样的，在周末，我们总能听到很多有趣的轶事和故事，但一到办公室，我们却变得如此无聊。那么，安迪，请告诉我们这是为什么？

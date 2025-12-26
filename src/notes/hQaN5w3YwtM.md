@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - LinkedIn
@@ -14,9 +14,7 @@ media_books:
 people:
 - Steven Bartlett
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hQaN5w3YwtM
 speaker: The Diary Of A CEO
@@ -29,7 +27,6 @@ tags:
 - health
 title: 哈佛神经科学家吉尔·泰勒博士：你的大脑在欺骗你，揭示掌控思维与情绪的真相
 ---
-
 ### 解锁大脑：有意识地选择你的心理状态
 
 你给我带了一个装在盒子里的礼物，我感到既紧张又兴奋。

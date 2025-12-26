@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 companies_orgs: []
@@ -14,8 +14,7 @@ people:
 - 索隆
 products_models:
 - gpt-5
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=93OnX9pOMHQ
 speaker: 北美王路飞
@@ -27,7 +26,6 @@ tags:
 - large-language-model
 title: AI泡沫破灭：聊聊GPT-5的失望与行业的未来
 ---
-
 ## GPT-5的初体验与失望
 
 陆飞: 好的，我们直播开始了。今天我们的主题，就像标题上说的，“AI泡沫破灭了？聊聊ChatGPT-5”。我不知道老隐，你和索隆两个人，有没有经常用这个最新的GPT？

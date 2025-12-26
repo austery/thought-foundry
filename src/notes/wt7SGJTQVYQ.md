@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies:
 - wanda-group
@@ -22,7 +22,6 @@ tags:
 - red-top-merchant
 title: 王健林万达帝国的兴衰：权力、资本与红顶商人的困境
 ---
-
 ### 王健林限高风波的真相
 
 針對王健林被**限高**（High-consumption restriction: 限制高消费行为，通常因未履行法院判决义务而实施）的消息，外界曾一度猜测是“**乌龙**”（blunder/mistake: 指错误或虚假信息）。然而，實際上這并非烏龍，而是因为王健林確實迅速償還了一筆一点多億的欠款。這表明他可能遭遇了極為強硬的執行法官，並意識到其連鎖效應將非常巨大。这并非影响过大，而是因为资金窟窿得到了迅速填补。

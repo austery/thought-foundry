@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Berkshire Hathaway
@@ -17,10 +17,7 @@ people:
 - Charlie Munger
 - Ajit Jain
 - Greg Abel
-project:
-- investment-strategy
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K1QMiBTNt5E
 speaker: Best Partners TV
@@ -34,7 +31,6 @@ tags:
 - succession-planning
 title: 巴菲特的告别信：商业传奇的人生智慧与伯克希尔的未来展望
 ---
-
 ### 巴菲特致股东信：童年回忆与奥马哈情缘
 
 前不久，被誉为**奥马哈先知**（Oracle of Omaha: 著名投资人沃伦·巴菲特的昵称）的沃伦·巴菲特发布了他人生中最后一封致股东信，这位执掌**伯克希尔·哈撒韦公司**（Berkshire Hathaway: 巴菲特创建并长期领导的多元化控股公司）整整六十年的商业传奇，以这封信正式告别了半个多世纪的职业生涯。

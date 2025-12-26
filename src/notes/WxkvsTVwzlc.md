@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -22,9 +22,7 @@ people:
 - Marjorie Taylor Greene
 products_models:
 - Obamacare
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WxkvsTVwzlc
 speaker: New York Times Podcasts
@@ -37,7 +35,6 @@ tags:
 - ukraine-peace-plan
 title: 特朗普对乌克兰和平计划设最后期限；玛乔丽·泰勒·格林意外辞职
 ---
-
 ### 乌克兰和平计划：特朗普设下最后期限
 
 来自《纽约时报》的头条新闻，我是特雷西·芒福德。今天是11月24日星期一，以下是我们正在报道的内容。美国和乌克兰官员对一项可能有助于阻止乌克兰残酷战争的和平计划表示乐观。

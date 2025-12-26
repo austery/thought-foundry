@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Big Think
@@ -26,10 +26,7 @@ people:
 products_models:
 - ChatGPT
 - CRISPR
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b-TFSLUHPxY
 speaker: Big Think
@@ -43,7 +40,6 @@ tags:
 - technological
 title: 进步并非必然：理解人类发展的驱动力与未来潜力
 ---
-
 ### 进步的意义与追求
 
 在我看来，过去几个世纪的进步是人类历史上最伟大的事情，是对人类生命、健康、幸福和福祉最有利的事情。

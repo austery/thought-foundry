@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -13,9 +13,7 @@ layout: post.njk
 people:
 - Nikolai
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IcGqbqWh7L4
 speaker: Norges Bank Investment Management
@@ -29,7 +27,6 @@ tags:
 - organizational-culture
 title: 领导力、文化与多元化：企业成功的基石
 ---
-
 ### 引言：以人为本的领导力
 
 主持人：谢谢大家。在听完两位发言后，我感到非常荣幸能主持这次小组讨论。如你们所知，我们事先准备了一些问题，但现在听了你们的发言，我有了更多的问题。我实际上想从一个贯穿你们两人评论的主题开始，那就是关于“人”。梅雷特，我先从你开始，因为我发现一个有趣的现象：在你成为唯一的**首席执行官**（CEO: Chief Executive Officer，企业最高行政负责人）之前，你曾从事**人力资源**（HR: Human Resources，负责企业员工招聘、培训、薪酬福利等管理）工作，这通常不是一个能晋升到首席执行官职位的岗位。请告诉我们，通过领导人力资源职能，你学到了哪些关于领导力的知识？

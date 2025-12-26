@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Bayer
@@ -20,10 +20,7 @@ media_books:
 - 《天工开物》
 people:
 - George Washington
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h8F-OIPmiDU
 speaker: 老周横眉
@@ -37,7 +34,6 @@ tags:
 - scientific
 title: 中医：博大精深还是伪科学？深入剖析传统医学与现代科学的冲突
 ---
-
 ### 中医：一个引发争议的古老话题
 
 今天，我们将挑战一个在华人世界里极具争议的话题——中医。本次节目的主要对象是那些将中医神化，认为中医博大精深能与西医平起平坐，甚至比西医更强，认为西医治不了的病到中医这里都能治好的人。即使你认为中医只是比西医稍微弱一点，但各有千秋，不应该褒医贬医，本视频也希望能尝试说服你。

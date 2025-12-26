@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 穆迪
@@ -16,9 +16,7 @@ media_books:
 people:
 - 老马
 - Xi Jinping
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BpHLYYtSIUA
 speaker: 莊也雜談
@@ -32,7 +30,6 @@ tags:
 - social
 title: 从坚决不润到非润不可：是什么让中国中产对教育如此焦虑？
 ---
-
 ### 引言：中国“润”潮下的社会观察
 
 今天我们继续聊聊我回国探亲的所见所闻，特别是关于当下中国社会一个非常火热且敏感的话题——“**润**”（Run: 指通过移民或其他方式离开中国，前往海外生活）。这个话题之所以难以深入探讨，一是因为其涉及面广，二是因为其敏感性。因此，我将通过此次回国的亲身经历、所见所闻，以及身边朋友们的故事，从三个方面来阐述：第一，现在国内想“润”的人多不多？第二，我身边都是哪些人想“润”？第三，这些人之所以想“润”，其背后最大的原因是什么？

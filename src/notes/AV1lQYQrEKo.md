@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -16,10 +16,7 @@ insight: ''
 layout: post.njk
 products_models:
 - LLM
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AV1lQYQrEKo
 speaker: TechButMakeItReal
@@ -32,7 +29,6 @@ tags:
 - job-market-trend
 title: 2026年科技趋势：全球就业市场、地缘政治分化与AI新纪元
 ---
-
 ### 2025年回顾与2026年展望
 
 大家好，这是2025年的最后一个月，也是我们今年的最后一期视频。过去的一年真是跌宕起伏，科技领域既有令人兴奋的进展，也有一些不那么如意的地方，但总而言之，这是一个充满活力的时代。在今年的最后一期视频中，我想展望未来，看看前方有哪些新动向。请坐好，泡杯茶，我们将一起探讨全球性的议题：全球就业市场、地缘政治对科技行业的影响、明年的新热词，以及2026年的AI主题。

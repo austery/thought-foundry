@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Bloomberg Podcasts
@@ -16,10 +16,7 @@ people:
 products_models:
 - Truth Social
 - Odd Lots podcast
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_9FBzNGZLZA
 speaker: Bloomberg Podcasts
@@ -33,7 +30,6 @@ tags:
 - trade-policy
 title: 美国牛肉产业的困境：市场集中、进口冲击与牧场主的挣扎
 ---
-
 ### 美国牛肉产业的现状与困境
 
 如今，我们已失去了超过一半的肉牛养殖场，这些养殖场在一个世代前还在经营。我们已经失去了其中52%的养殖场。我们还失去了25%的**母牛群**（Mother Cow Beef Herd: 用于繁殖肉牛的母牛群体）。目前，四大**肉类加工商**（Packers: 将活畜屠宰并加工成肉类产品的企业）控制着大约80%的**市场份额**（Marketplace Share: 企业在特定市场中销售额或产量的占比）。2024年，消费者为牛肉支付的价格约为每磅8.23美元。2021年，加工商和零售商获得了消费者每消费一美元牛肉中的60%以上，即60美分，而生产者获得的不足40美分。那么问题来了：在一个竞争激烈的市场中，这怎么可能发生？市场中的竞争力量如何能完全颠覆整个牛肉供应链中消费者牛肉美元的竞争性分配？这个问题的答案是：不可能。

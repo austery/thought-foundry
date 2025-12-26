@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 author: Lei
 category: productivity
 companies_orgs:
@@ -25,9 +25,7 @@ products_models:
 - Photoshop
 - Google
 - GitHub
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 source: https://example.com/Spokenly_transcript_2025-11-06_0847
 speaker: null
 status: evergreen
@@ -39,7 +37,6 @@ tags:
 - perfectionism
 title: 精益学习与敏捷行动：克服完美主义，拥抱求助的力量
 ---
-
 ## 开场与新平台测试
 
 Rui: 好的，我们现在就开始试试看。你那边会听到我这里有噪音吗？

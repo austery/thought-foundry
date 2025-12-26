@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - 国信证券
@@ -10,8 +10,7 @@ insight: ''
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EkiBqPVr5sg
 speaker: 小翠時政財經
@@ -22,7 +21,6 @@ tags:
 - risk-management
 title: 浙江金融資產交易中心200億爆雷真相：竟然和葉簡明的華信案有關！
 ---
-
 ### 浙江金融資產交易中心200億爆雷真相
 
 近日，浙江省金融資產交易平台**浙金中心**爆雷，涉及金额超过200亿元，超过一万名投資人血本無歸。浙金中心是浙江省第一家被省级政府批复设立的金融資產交易平台，其背景与**叶简明的华信集团**密切相关。

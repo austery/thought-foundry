@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-01'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- cultural-critique
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FMDfxOFgEys
 speaker: 三個水槍手
@@ -24,7 +21,6 @@ tags:
 - right
 title: 罗永浩事件评论解析：言论自由、消费责任与中国特色论
 ---
-
 ### 开场与前期更正
 
 **三個水槍手:** 每周我们都会有一期读评论的节目，主要选取上周最具争议的节目来回应。上周我们最具争议的节目是关于罗永浩与西贝餐饮的探讨，因此本期节目将商榷一些评论。这一期有很多人对武力律师表示不满，我感到很惊讶，因为武力是这个节目的“名义担当”。

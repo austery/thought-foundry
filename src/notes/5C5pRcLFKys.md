@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - DeepSeek
@@ -20,9 +20,7 @@ products_models:
 - GPT-4
 - Claude
 - DeepSeek-OCR
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5C5pRcLFKys
 speaker: Best Partners TV
@@ -37,7 +35,6 @@ tags:
 - technology
 title: DeepSeek-OCR：以视觉模态突破大语言模型长文本处理瓶颈
 ---
-
 ### 引言：长文本处理的痛点与DeepSeek-OCR的破局之道
 
 在处理几万字的学术论文或电子书时，我们常常会遇到大型语言模型（**LLM**：Large Language Model，一种基于深度学习的语言模型）的两个棘手问题：要么提示序列长度超出上限，要么生成速度慢得让人失去耐心。这背后隐藏着**LLM**的一个根深蒂固的技术痛点：它们的计算量会随着文本序列长度的增加呈平方增长。简单来说，文本长度翻倍，计算量可能要翻四倍，这对硬件资源的消耗是毁灭性的。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Google
@@ -32,9 +32,7 @@ people:
 products_models:
 - Kindle
 - iPad
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 source: https://www.youtube.com/watch?v=-h3u1KJAduk
 speaker: 一口新饭读书会
 summary: 本次读书会围绕注意力危机展开深度讨论。成员们从各自的视角出发，探讨了社交媒体戒断、多任务处理的伪高效、物理空间隔离法以及阅读介质（纸质书vs电子书）对专注力的影响。讨论还涉及了ADHD的进化论视角、App设计中的成瘾机制，以及如何在算法围剿中通过“数字极简”和“预先承诺”重建内心秩序。
@@ -46,7 +44,6 @@ tags:
 - work
 title: 夺回被偷走的注意力：关于数字成瘾、深度工作与生活重建的社区对话
 ---
-
 ### 开场与阅读进度交流
 
 **Vivian:** Hello，可可，好久不见。你们还在台北吗？哦，在天津了，现在回国了，挺好的。倒时差，现在我变成了亚洲时间。一直倒来倒去挺累的，不过还好，因为会在亚洲待挺长时间，大概半年，应该会待到4月份。

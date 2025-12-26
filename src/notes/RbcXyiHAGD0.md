@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - OpenAI
@@ -15,9 +15,7 @@ insight: ''
 layout: post.njk
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RbcXyiHAGD0
 speaker: TVO Today
@@ -30,7 +28,6 @@ tags:
 - llm-business-model
 title: AI公司抓取内容是否应付费？加拿大版权诉讼案解析
 ---
-
 ### 加拿大媒体起诉OpenAI：版权侵权的核心指控
 
 去年，一群加拿大媒体公司对**OpenAI**（OpenAI: 一家人工智能研究和部署公司）提起了诉讼。当时他们发布了一份联合声明，指出OpenAI通过抓取加拿大媒体的大量内容来开发其产品，例如**ChatGPT**（ChatGPT: OpenAI开发的大型语言模型），从而经常违反版权和在线使用条款。OpenAI在未经许可或未向内容所有者支付报酬的情况下，利用这些内容进行资本运作并从中获利。目前，安大略省法院已决定此案可以继续审理。我向**Gilbert LLP**（Gilbert LLP: 一家律师事务所）的知识产权律师**Kevin Cu**询问了此案的进展，以及OpenAI应如何看待针对其提起的众多诉讼。

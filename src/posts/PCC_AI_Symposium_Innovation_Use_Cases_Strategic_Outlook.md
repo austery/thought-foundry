@@ -9,8 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: null
 speaker: PCC insider
@@ -20,7 +19,6 @@ tags:
 - investment
 title: AI研讨会纪要：创新、应用案例与战略展望
 ---
-
 ## 主题演讲对话：AI 的紧迫性与机遇
 
 ### 领导力要务：学会取舍，聚焦未来

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -29,7 +29,6 @@ tags:
 - research
 title: 患者故事如何重塑多囊卵巢综合征研究：被忽视的疾病与亟待改善的医疗体系
 ---
-
 ### 介绍：多囊卵巢综合征（PCOS）研究的现状
 
 主持人: 您正在收听《被误诊》（Mistreated），我是纳姆·基瓦努卡（Nam Kiwanuka）。

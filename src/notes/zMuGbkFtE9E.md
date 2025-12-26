@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Accel
@@ -20,10 +20,7 @@ products_models:
 - GitHub Copilot
 - Cursor
 - Siri
-project:
-- entrepreneurship
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zMuGbkFtE9E
 speaker: EO
@@ -37,7 +34,6 @@ tags:
 - startup
 title: 无名校背景、无强大网络，我如何为Rocket.new筹集1500万美元种子轮融资
 ---
-
 ### 逆境中成长：信念与坚持的力量
 
 我没有上过任何**常春藤盟校**（Ivy League: 美国东北部八所著名私立大学组成的体育赛事联盟，也代指这些顶尖学府）。我们从风险投资公司那里得到了四十多次拒绝。他们会要求你必须来自斯坦福大学或**IIT**（印度理工学院: 印度顶尖的工程和技术大学）或其他一些优秀的大学。他们嘴上不会明说，但我知道他们是如何评判和看重什么的。那是在我们只剩下三个月资金的时候，三个月后我们就会“死亡”。那是我们最艰难的时期，但我从未放弃。如果你有决心，你可以在任何地方实现它。

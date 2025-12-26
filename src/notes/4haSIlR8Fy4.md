@@ -18,9 +18,8 @@ insight: ''
 draft: true
 series: ''
 category: career-development
-area: tech-work
-project:
-  - ai-impact-analysis
+area: "work-career"
+project: []
 people:
   - 老冒
   - Larry Page

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -31,10 +31,7 @@ products_models:
 - ChatGPT
 - Grok
 - Claude
-project:
-- us-analysis
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PZYxnIB076Y
 speaker: 一口新飯
@@ -48,7 +45,6 @@ tags:
 - strategy
 title: 亲身体验特斯拉Robotaxi：技术、运营与Waymo的深度对决
 ---
-
 ### 引言：为何一次20分钟的打车体验价值2000美金？
 
 Ray: 6月22日，特斯拉**Robotaxi**（自动驾驶出租车: 指无需人类司机即可提供载客服务的车辆）开放试运营的第一天，我做了一件听起来很疯狂的事。我花了将近两千美金，从加拿大飞两千多公里来到奥斯汀，就是为了和我的朋友，前特斯拉自动驾驶工程师老于一起成为Robotaxi的第一批乘客。

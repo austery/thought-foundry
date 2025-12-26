@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Google
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-project:
-- personal-growth-lab
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rhgwIhB58PA
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - learning
 title: 教育界最大的迷思：学习风格真的存在吗？
 ---
-
 ### 学习风格：一个普遍的信念
 
 本视频探讨的是学习风格。你属于哪种类型的学习者呢？

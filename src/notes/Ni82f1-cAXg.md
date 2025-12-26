@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - FDA
@@ -9,9 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ni82f1-cAXg
 speaker: veritasium
@@ -25,7 +23,6 @@ tags:
 - science
 title: 瞬干胶为何如此强大？从意外发现到医疗应用与塑料回收的未来
 ---
-
 ### 瞬干胶的惊人强度与广泛应用
 
 这里有两个金属圆柱体和一滴瞬干胶。

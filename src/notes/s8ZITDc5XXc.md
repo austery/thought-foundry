@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - CMHC
@@ -14,10 +14,7 @@ people:
 - 卡尼
 - 特鲁多
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s8ZITDc5XXc
 speaker: 王红雨
@@ -31,7 +28,6 @@ tags:
 - trade-tariff-impact
 title: 2025年下半年多伦多房地产市场展望：关税战影响减弱，7月交易量反转与利率走势深度分析
 ---
-
 ### 2025年上半年多伦多房地产市场回顾与下半年展望
 
 大家好，欢迎再次回到我的频道。今天是2025年8月8号。我们在2月份的时候曾展望了今年多伦多房地产市场的情况，现在差不多已经过去6个月了。我们现在来回顾一下2月份的预测，看看哪些说准了，哪些说错了。然后，再展望一下未来5个月多伦多房地产市场的一些情况。

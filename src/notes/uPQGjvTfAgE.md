@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -23,10 +23,7 @@ people:
 - Vladimir Putin
 - Ursula von der Leyen
 - Emmanuel Macron
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uPQGjvTfAgE
 speaker: FearNation 世界苦茶
@@ -40,7 +37,6 @@ tags:
 - ukraine-peace-plan
 title: 特朗普背刺乌克兰？深度解析美俄28条“和平协议”的惊人内幕
 ---
-
 ### 一份出卖乌克兰的“投降方案”
 
 今天我们来谈论一个非常沉重的话题：美国最终还是背刺了乌克兰。虽然整个事件尚未结束，欧盟目前正强硬地顶住压力，事情或许不会以最坏的方式发展，但现状已经足够糟糕了。美国与俄罗斯联手炮制了一份实质性的乌克兰投降方案，被称为“28条”，并已提交给乌克兰。

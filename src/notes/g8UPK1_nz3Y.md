@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 彭博
@@ -18,10 +18,7 @@ people:
 - 赖清德
 products_models:
 - 半导体
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g8UPK1_nz3Y
 speaker: 政經孫老師
@@ -35,7 +32,6 @@ tags:
 - us-china-relations
 title: 台海危机：全球经济崩溃论的夸大与中国攻台的真实考量
 ---
-
 ### 台海危机：被夸大的全球经济冲击
 
 大家好，我是孙老师。今天我们来探讨一下台海危机的问题。台湾海峡爆发战争或军事冲突的可能性，最近又受到人们的关注和媒体的炒作。当然，如果台海爆发危机，中国和台湾都将是受害者。但如果从全球经济的整体角度来看，这里的战争也会影响全球的贸易和经济。关于这方面的讨论非常多，媒体和专家得出了一个共同结论：如果台海爆发战争，全球经济将付出惨重代价，全球经济体系会直接崩溃，结果将非常严重。

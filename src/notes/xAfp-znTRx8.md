@@ -1,5 +1,5 @@
 ---
-area: digital-garden
+area: "knowledge-meta"
 category: general
 companies_orgs: []
 date: '2025-11-27'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xAfp-znTRx8
 speaker: AI Engineer
@@ -21,7 +20,6 @@ tags:
 - data
 title: 无法处理的逐字稿：内容仅包含音乐和零散词汇
 ---
-
 ### 内容处理失败：逐字稿缺乏有效信息
 
 尊敬的用户，经过分析，本次提供的逐字稿内容无法被处理成一篇结构化的专业文章。该逐字稿几乎完全由 `[music]` 标签和重复的、无上下文的单个词汇（如 “Heat”、“up here”）组成，不包含任何连贯的句子、观点或论述。

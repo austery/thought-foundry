@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -23,10 +23,7 @@ people:
 products_models:
 - Model Y
 - Robotaxi
-project:
-- investment-strategy
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KltV1o1INe4
 speaker: 海伦子Hellen
@@ -40,7 +37,6 @@ tags:
 - stock
 title: 特斯拉的AI转型、FSD进展与未来投资机遇
 ---
-
 ### 特斯拉的转型与投资逻辑
 
 如果你是在2019年以前入股特斯拉的，相信大部分现在都已经实现了**财务自由**（Financial Freedom: 指个人无需为金钱工作，资产收入足以支付生活开销的状态）或者是半躺平的状态了。因此，很多人也很期待特斯拉下一个阶段的发展。特斯拉从一个电动车公司过渡到能源公司，到现在逐步往AI公司转变，它股价的波动和未来的涨幅也一直有很多的争议。如果你不认为特斯拉可以实现**完全自动驾驶**（Full Self-Driving, FSD: 特斯拉开发的一种高级驾驶辅助系统，旨在实现车辆在无需人为干预下的自主行驶），你就不应该去投资它。这就像10年前不相信电动车会取代**燃油车**（Internal Combustion Engine Vehicle: 使用汽油或柴油等燃料驱动发动机的汽车）的人一样。这话不是我说的，是埃隆·马斯克自己说的，但我非常赞同。

@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - fearnation
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bmZJY-7Xf18
 speaker: FearNation 世界苦茶
@@ -24,7 +22,6 @@ tags:
 - global-supply-chain
 title: 台积电的战略突围与全球医药供应链的暗流：地缘政治下的产业博弈
 ---
-
 ### 台积电的全球战略：地缘政治下的商业抉择
 
 大家好，欢迎来到本期的世界苦茶观察线节目。我们尝试将世界苦茶分为事实线、分析线和观察线。观察线节目是汇总全球智库、国际媒体以及分析中国问题的实质内容，关注全球顶尖思考者对中国问题的关切和分析。在信息爆炸的时代，我们帮你选择内容，进行深度解读，为希望成为中国问题专家的思考者提供最好的信息。该内容为AI处理，AI克隆音频会不断迭代优化。

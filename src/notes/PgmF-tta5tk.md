@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - TVO Today
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - Zohran Mamdani
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PgmF-tta5tk
 speaker: TVO Today
@@ -26,7 +24,6 @@ tags:
 - grassroots-organizing
 title: 佐兰·曼达尼的竞选：草根动员与数字策略的成功蓝图
 ---
-
 ### 曼达尼的崛起与竞选启示
 
 官方消息称，**民主社会主义者**（Democratic Socialist: 一种主张通过民主手段实现社会主义目标的政治意识形态）佐兰·曼达尼将成为下一任纽约市市长。他的竞选活动激发了进步人士和年轻人的热情，其成功震惊了许多传统政治势力。

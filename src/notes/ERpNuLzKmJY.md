@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -16,8 +16,7 @@ products_models:
 - GPT-3.5
 - GPT-4
 - ChatGPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ERpNuLzKmJY
 speaker: Dwarkesh Patel
@@ -29,7 +28,6 @@ tags:
 - technology
 title: ChatGPT诞生内幕：OpenAI联合创始人John Schulman的讲述
 ---
-
 ### LLM的未来与聊天机器人
 
 你是在什么时候，**OpenAI**联合创始人**John Schulman**，意识到**大型语言模型（LLM）**是未来的方向，并且开发一个像**ChatGPT**这样的聊天机器人，或者某种指令遵循的方式来指导它们，会是一件有用的事情？在**ChatGPT**出现之前，**OpenAI**就已经有了**指令遵循模型（Instruction Following Models）**。当时的想法是，我们有基础模型（base models），人们可以通过复杂的方式来提示它们。但这些模型很难提示，它们本质上是进行自动补全，所以你需要设置一个非常好的提示，并包含一些示例。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - NFL
@@ -15,9 +15,7 @@ people:
 - Tom Brady
 - Derek Muller
 - Henry
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J3i3F2e4IYs
 speaker: veritasium
@@ -31,7 +29,6 @@ tags:
 - technology
 title: 揭秘足球投掷物理：为何汤姆·布雷迪的传球总会晃动和偏转？
 ---
-
 ### 汤姆·布雷迪的“不完美”螺旋球
 
 这是汤姆·布雷迪。他是美国橄榄球史上最伟大的四分卫。

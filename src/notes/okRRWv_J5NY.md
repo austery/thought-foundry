@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -22,10 +22,7 @@ people:
 - Jerome Powell
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=okRRWv_J5NY
 speaker: 投资TALK君
@@ -40,7 +37,6 @@ tags:
 - market-liquidity
 title: 深度解析美联储会议：QE信号浮现？Oracle财报引爆市场波动
 ---
-
 ### 会议前市场概览与关键经济数据
 
 今天要聊的内容非常的多，我今天也忙了一天，所以前面就废话不多说了，直接开始和大家去聊一下这一次的美联储会议，然后聊一下周三盘后发布财报的Oracle，好吗？

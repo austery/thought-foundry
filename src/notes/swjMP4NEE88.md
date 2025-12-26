@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bridgewater
@@ -15,10 +15,7 @@ people:
 - Ray Dalio
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=swjMP4NEE88
 speaker: 北美王路飞
@@ -33,7 +30,6 @@ title: 桥水基金CIO Greg Jensen揭示未来三大风暴：现代重商主义�
 companies:
 - ai-arms-race
 ---
-
 ### 揭秘未来风暴：桥水基金CIO的三大预警
 
 作为桥水基金（Bridgewater）的联席首席投资官，Greg Jensen和他的团队管理着超过1,000亿美金的资产。在这个星球上，如果说有谁必须比其他人更早看到未来的风暴，那一定就是坐在那个位置上的人。当所有人都盯着每天的股价涨跌时，Greg却异常冷静地抛出了三个巨大的、真正改变一切的变量。这三个变量交织在一起，正在终结我们过去30年熟悉的一切游戏规则。在最近他做的一期播客中，他没有跟主持人聊什么K线，他上来就告诉对方，现在的世界正在经历一场**现代重商主义**（Modern Mercantilism: 一种将贸易视为零和博弈，国家通过贸易顺差积累财富的经济政策）的回归、一场疯狂的AI资源掠夺战，以及一次前所未有的资本大洗牌。这背后的每一个词，都直接关系到你的钱袋子。

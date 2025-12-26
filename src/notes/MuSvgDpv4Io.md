@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies:
 - psychopathy
@@ -17,9 +17,7 @@ people:
 - Bill Gates
 - Taylor Swift
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MuSvgDpv4Io
 speaker: TED
@@ -33,7 +31,6 @@ tags:
 - well-being
 title: 理解利他与精神病态：大脑、同理心及行为模式的科学视角
 ---
-
 ### 陌生人的善举：一次生死攸关的经历
 
 外面有一个人，他长得有点像演员**伊德瑞斯·艾尔巴**（Idris Elba: 英国演员），至少二十年前是这样。

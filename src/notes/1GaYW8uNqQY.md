@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: business
 companies_orgs:
 - YouTube
@@ -14,10 +14,7 @@ media_books:
 - 协同智能与人工智能共生共事
 - youtube-membership
 products_models: []
-project:
-- entrepreneurship
-- knowledge-pipeline
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1GaYW8uNqQY
 speaker: 北美王路飞
@@ -30,7 +27,6 @@ tags:
 - design
 title: 北美王路飞频道会员功能详解：超新星与七武海专属内容与早期福利
 ---
-
 ### 频道会员功能正式上线
 
 大家好，最近我开通了频道的会员功能。实际上，我的频道很早之前就拥有了开通会员的权限，但我一直没有启用。这主要是因为我尚未完全确定是否要投入精力进行这项长期的承诺，同时，设置一个完善的会员结构也确实需要投入时间和精力进行构思。

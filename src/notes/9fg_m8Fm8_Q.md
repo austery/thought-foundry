@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - New York Times
@@ -17,10 +17,7 @@ people:
 - Michael Barbaro
 - Susan Lee
 - Marian Lozano
-project:
-- us-analysis
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9fg_m8Fm8_Q
 speaker: New York Times Podcasts
@@ -35,7 +32,6 @@ tags:
 - philosophy
 title: 感恩节：食你所猎，回归自然本源
 ---
-
 ### 狩猎的旋律与感恩节的省思
 
 **Steven Rinella:** 你是想让我把各种声音都过一遍吗？好的。嗯，是的，一声简单的鸭叫就是这样。

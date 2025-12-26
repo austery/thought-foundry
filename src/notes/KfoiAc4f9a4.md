@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - CoreWeave
@@ -30,10 +30,7 @@ people:
 - Steve Eisman
 products_models:
 - Willow
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KfoiAc4f9a4
 speaker: Money or Life 美股频道
@@ -46,7 +43,6 @@ tags:
 - technology
 title: NeoCloud利润率深度解析：传统数据中心与新兴巨头的投资回报对比
 ---
-
 ### NeoCloud与传统数据中心：投资分析师的深度洞察
 
 周末，我观看了一个YouTube视频，其中一位覆盖**CoreWeave**（一家专注于GPU云服务的NeoCloud公司）的分析师，详细介绍了数据中心的历史及相关公司。这对我理解数据中心和**NeoCloud**（新一代云服务，专注于高性能计算和AI工作负载）板块的投资有了很好的帮助。因此，我制作了这期简短视频，分享从中提取的有用信息和个人思考。

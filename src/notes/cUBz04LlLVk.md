@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Incogni
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cUBz04LlLVk
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - thermite-reaction
 title: 铝热反应：百年化学奇迹的威力与掌控
 ---
-
 ### 铝热反应：百年化学奇迹的威力
 
 - [Derek] 这是关于一种125多年前发现的化学反应系列视频的第一集。它能释放出巨大的热量。天哪，我的GoPro。金属被液化了。它太热了。它不是炸药，但能引起爆炸。这太疯狂了！然而，反应物却如此惰性，它们可以无限期地承受喷灯的炙烤。你觉得这整个东西会炸到我脸上吗？事实上，当好莱坞导演想要制造看起来像核弹的效果时，他们选择的就是这种反应。但在其最常见的用途中，一个多世纪以来基本未变的应用，它帮助了全世界数十亿人出行。

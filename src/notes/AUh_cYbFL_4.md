@@ -37,10 +37,7 @@ people:
 - Marco Rubio
 - Janet Yellen
 - Xi Jinping
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AUh_cYbFL_4
 speaker: 小翠時政財經
@@ -53,7 +50,6 @@ tags:
 - us-china-relations
 title: 美股暴跌与亚洲市场震荡：中美谈判、半导体风波及投资策略深度解析
 ---
-
 ### 中美谈判后续与安氏半导体风波
 
 首先关注中美谈判的后续进展。白宫此前公布了一份协议内容，中方对此一直保持沉默，既未反对也未肯定。根据对中国的了解，这种沉默通常意味着默认。今天，中国商务部发布了一系列公告，其内容与白宫披露的基本一致，这进一步佐证了协议的真实性。

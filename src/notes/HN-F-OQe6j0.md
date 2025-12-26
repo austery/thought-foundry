@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -21,9 +21,7 @@ products_models:
 - AI Studio
 - Google Docs
 - Figma
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HN-F-OQe6j0
 speaker: AI Engineer
@@ -38,7 +36,6 @@ tags:
 - software-development-workflow
 title: Google DeepMind推出Anti-gravity：AI智能体驱动的开发者平台新范式
 ---
-
 ### 欢迎来到Anti-gravity的世界
 
 大家好。

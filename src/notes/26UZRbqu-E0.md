@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 'No I in Team: Party Loyalty in Canadian Politics'
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=26UZRbqu-E0
 speaker: TVO Today
@@ -25,7 +22,6 @@ tags:
 - party
 title: 加拿大政客的党派忠诚：对民主的塑造与挑战
 ---
-
 ### 引言：忠诚的困境与党派纪律
 
 政客应该忠诚于谁？是他们的领导人、他们的党派，还是他们的选民？

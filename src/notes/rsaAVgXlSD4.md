@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - 中共
@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rsaAVgXlSD4
 speaker: 老周横眉
@@ -22,7 +21,6 @@ tags:
 - theory
 title: 苹果安卓论、力工梭哈论、性压抑论：中共为何惧怕这民间三大理论？
 ---
-
 ### 三大理论及其解读
 
 最近，互联网上流行的 **安卓苹果论**、**立功说哈论** 和 **性压抑论** 引起了广泛讨论，但中共政府却迅速封杀了其中两大理论。究竟是什么原因让中共如此惧怕这些民间理论？

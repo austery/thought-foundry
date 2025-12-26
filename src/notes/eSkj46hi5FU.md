@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-22'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eSkj46hi5FU
 speaker: ZetaBook
@@ -21,7 +20,6 @@ tags:
 - politics
 title: 国民党高层派系政治：蒋介石权力巩固与九一八事变提前爆发
 ---
-
 ### 国民党内部的白热化冲突
 
 1930年，国民党内部派系冲突已趋白热化，蒋介石实质上面临着朝小野大的僵局。1931年，他运用何种手段瓦解了中华民国首任立法院院长胡汉民的权力？国民党党内的派系斗争又是如何提前引爆了**九一八事变**（September 18th Incident: 1931年日本关东军在沈阳柳条湖制造事端，并以此为借口侵占中国东北的事件）？《国民党高层的派系政治》与《蒋介石最高领袖地位的确立》这本书深入探讨了这些问题，无论观众持何种政治立场，都能从中获益。

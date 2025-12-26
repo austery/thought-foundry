@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Alphabet
@@ -27,10 +27,7 @@ products_models:
 - Messenger
 - LinkedIn
 - Bing
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eXXE553YhWE
 speaker: Money or Life 美股频道
@@ -44,7 +41,6 @@ tags:
 - tech
 title: 深度解析：投资科技巨头前，你必须了解的线上广告核心知识
 ---
-
 ### 线上广告：投资科技巨头前的必修课
 
 欢迎来到Money or Life美股频道。本期视频将与大家一同学习一个新的领域——广告。最初，本频道仅打算研究 **AppLovin** 这家公司，但随后发现广告领域其实非常有趣，且有许多基础知识需要先了解清楚，才能更好地研究那些以广告为主要营收的公司。我们熟知的 **谷歌**、**Meta** 以及 **AppLovin**、**Trade Desk** 等公司的主要营收都来自广告，那么它们究竟是如何赚钱的呢？在接下来的几期视频中，我们将一同探索。

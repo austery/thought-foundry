@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -34,9 +34,7 @@ people:
 - Elon Musk
 - Alexander Hamilton
 - John Bolton
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nZFlB05Wxp4
 speaker: 北美王路飞
@@ -50,7 +48,6 @@ tags:
 - trade-policy
 title: 斯科特·贝森特：特朗普背后的“沼泽狐狸”——华尔街与民粹主义的交汇点
 ---
-
 ### 华尔街之狐：斯科特·贝森特的魔幻身份
 
 大家好，欢迎来到我的频道。今天我们来聊一个特别有意思的人，他最近登上了**彭博商业周刊**（Bloomberg Businessweek: 一份国际商业杂志）的封面，甚至还在一枚硬币上印着“**In Bessent We Trust**”（In Bessent We Trust: 模仿美国货币上“In God We Trust”的说法，意指对贝森特的信任）。他就是美国财政部长斯科特·贝森特，可以说是当今美国政坛最拧巴、最让人看不懂的角色。

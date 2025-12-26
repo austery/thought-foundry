@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -16,9 +16,7 @@ products_models:
 - ChatGPT
 - GPT-3
 - AlphaZero
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Bma6tHQYaD4
 speaker: Best Partners TV
@@ -32,7 +30,6 @@ tags:
 - law
 title: Jason Wei斯坦福演讲：智能商品化、验证者法则与AI锯齿状前沿
 ---
-
 ### Jason Wei斯坦福演讲：AI发展的三大核心思想
 
 上周，斯坦福大学AI俱乐部邀请了Jason Wei作为嘉宾，进行了一场精彩的演讲。如果你关注我们频道或者AI领域一段时间，那么应该对他并不陌生。Jason Wei目前在Meta Superintelligence labs担任研究科学家。在此之前，他在OpenAI参与了**o1 模型**（OpenAI One Model: OpenAI 内部研究项目，首次大规模展示自适应计算概念）和Deep Research产品的创建。更早之前，他在Google Brain工作期间，推动了**思维链**（Chain of Thought: 一种通过逐步推理来解决复杂问题的AI提示技术）和**指令微调**（Instruction Tuning: 通过在多样化任务指令上训练模型，使其能更好地遵循指令）等关键技术的发展。他的论文引用次数超过9万次，是当今AI领域最具影响力的研究者之一。

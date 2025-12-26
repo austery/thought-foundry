@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -31,10 +31,7 @@ people:
 - Narendra Modi
 - Vladimir Putin
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_viyEzIe_v0
 speaker: Bloomberg Podcasts
@@ -48,7 +45,6 @@ tags:
 - us-china-relations
 title: 迈克尔·弗罗曼论全球贸易体系的演变：从规则到“多角恋”世界秩序
 ---
-
 ### 全球贸易体系的现状与挑战
 
 [音乐]

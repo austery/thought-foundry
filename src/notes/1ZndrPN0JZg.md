@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -11,8 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Jess教練
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1ZndrPN0JZg
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -26,7 +25,6 @@ tags:
 - strength-training
 title: 女性30+減肥迷思：避開三大陷阱，掌握週期性訓練策略
 ---
-
 ### 30歲後女性減肥的普遍困境
 
 許多朋友可能都有疑問，為什麼明明有在運動，卻好像沒有什麼效果？這是一個超級普遍且行之有年的大迷思。運動前有沒有吃東西，其實對於減脂的效果沒有什麼太大差異。大家好，我是范亞萱醫師。很多女生覺得三十歲後，身體忽然變得難搞。我們今天就要來破解三個女生容易掉進去的減肥誤區，也請到了全方位的健康教練Jess教練。大家好，我是Jess教練，我的專業是透過營養訓練跟行為心理學的引導，幫助客戶達成他們的健康目標。

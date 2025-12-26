@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -24,10 +24,7 @@ products_models:
 - Mosaic浏览器
 - Chrome浏览器
 - Android系统
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yypnaMmK2RQ
 speaker: 美投讲美股
@@ -41,7 +38,6 @@ tags:
 - platform
 title: AI巨头之争像极了30年前的浏览器大战？历史背后的投资真相
 ---
-
 ### 从浏览器大战到AI之争：一场历史的镜像
 
 美股播华尔街专利，大家好，我是米德军，你们的美股探路者。如今，OpenAI与谷歌之间的AI大模型之战已进入白热化阶段：谷歌刚推出Jamon 3.0横扫评分榜，三周后OpenAI便接连发布GPT-5.1和GPT-5.2，获得广泛好评。双方你来我往、各擅胜场，而这场技术较量，早已成为决定美股市场走势的核心变量。

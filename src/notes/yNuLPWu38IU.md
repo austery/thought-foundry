@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Microsoft
@@ -39,10 +39,7 @@ products_models:
 - Microsoft 365 Copilot
 - Azure
 - Mistral
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yNuLPWu38IU
 speaker: Norges Bank Investment Management
@@ -56,7 +53,6 @@ tags:
 - strategy
 title: 萨提亚·纳德拉：微软的AI战略、文化转型与未来愿景
 ---
-
 ### 序言：全球市值最高公司的CEO访谈
 
 主持人：大家好。我刚刚经历了我一生中最不可思议的体验，我有幸采访了萨提亚·纳德拉，微软的首席执行官，该公司现在是全球市值最高的公司。哇，请大家收听。萨提亚，您是全球市值最高公司的CEO，最近您在思考些什么？

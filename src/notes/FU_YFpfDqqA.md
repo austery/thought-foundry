@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Bell Labs
@@ -20,9 +20,7 @@ people:
 - David
 products_models:
 - ENIAC
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FU_YFpfDqqA
 speaker: veritasium
@@ -36,7 +34,6 @@ tags:
 - vacuum-tube
 title: 灯泡如何成为早期计算机的基石
 ---
-
 ### 爱迪生效应与热电子发射
 
 现代电子时代的开端与灯泡息息相关，但其方式可能与你想象的不同。早期的灯泡由一个碳灯丝组成，密封在一个内部真空的玻璃球中。当灯丝两端施加电势差时，电流流过灯丝，将其加热到超过2000开尔文，温度高到足以使其发光。如果灯泡内有大量氧气，灯丝会立即烧毁，这就是需要真空的原因。

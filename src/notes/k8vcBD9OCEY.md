@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Netflix
@@ -32,10 +32,7 @@ people:
 - 李嘉诚
 - 金庸
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k8vcBD9OCEY
 speaker: 張内咸
@@ -48,7 +45,6 @@ tags:
 - strategy
 title: 深度解析：三部台剧如何展现台湾社会面貌与影视新高度
 ---
-
 大家好，我是张内咸，又见面了。前几个月我做过一期关于Netflix亚洲剧TOP10排名的节目，其实主要是为了讲述Netflix的全球发行策略。当然，这是一个很大的话题，一期节目讲不完，以后还可以再继续聊。在我排出的TOP10榜单里面，有两部台剧上榜。我是按照豆瓣和IMDb评分排名的，不是根据我自己的个人喜好。所以我简单点评了一下上榜的这两部台剧，我个人认为评分有点“水”，和其他国家的**Netflix Original Series**（Netflix原创剧集：由Netflix投资制作并在其平台独家发行的剧集）相比，感觉不在一个梯度里。
 
 ### Netflix亚洲策略的“水土不服”

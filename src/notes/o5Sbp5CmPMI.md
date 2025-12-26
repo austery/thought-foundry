@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -21,10 +21,7 @@ layout: post.njk
 people:
 - John McCarthy
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o5Sbp5CmPMI
 speaker: Norges Bank Investment Management
@@ -38,7 +35,6 @@ tags:
 - sovereign-wealth-fund
 title: 挪威主权财富基金2024年创纪录强劲回报：市场洞察与未来展望
 ---
-
 ### 2024年挪威主权财富基金表现创纪录
 
 主持人: 哇，真是激动人心的一年，我们非常高兴向大家汇报去年的业绩。

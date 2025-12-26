@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Stanford University
@@ -68,10 +68,7 @@ products_models:
 - GPT-5
 - Claude 4.5
 - AGI
-project:
-- ai-impact-analysis
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BFU1OCkhBwo
 speaker: The Diary Of A CEO
@@ -87,7 +84,6 @@ tags:
 - technological-determinism
 title: 技术伦理学家 Tristan Harris：我们必须在为时已晚前，认清 AGI 竞赛的真正风险
 ---
-
 ### AI：比移民潮更严峻的就业威胁
 
 Tristan Harris：如果你担心移民抢走工作，那么你应该更担心人工智能，因为它就像数百万诺贝尔奖级别能力的数字移民涌入，它们能以超人速度工作，而且工资比最低工资还低。我的意思是，我们正面临着巨大的变革，其速度之快远超我们社会目前的应对能力。

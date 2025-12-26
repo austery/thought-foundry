@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Boeing
@@ -28,11 +28,7 @@ people:
 products_models:
 - H20
 - F-35
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sv-iIZFsOzc
 speaker: Bloomberg Podcasts
@@ -47,7 +43,6 @@ tags:
 - technology
 title: 中国阅兵与新型战机：中美空中霸权之争的启示
 ---
-
 ### 中国军事阅兵与新一代战机
 
 **Jill Weisenthal:** 大家好，欢迎收听《OddLots》播客的又一期节目。我是Jill Weisenthal。

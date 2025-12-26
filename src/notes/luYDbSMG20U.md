@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Amazon
@@ -41,10 +41,7 @@ products_models:
 - Blackwell
 - ChatGPT
 - Claude
-project:
-- china-analysis
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=luYDbSMG20U
 speaker: 小翠時政財經
@@ -58,7 +55,6 @@ tags:
 - us-china-relations
 title: 中美关系缓和、亚马逊云服务宕机与中国经济新动向：2025年10月20日时政财经要闻
 ---
-
 ### 市场概览：A股、港股及亚洲股市表现
 
 2025年10月20日，全球市场迎来一系列重要动态。A股市场昨日出现修复性反弹，三大指数全线收涨。然而，**创业板指**（ChiNext Index: 中国深圳证券交易所的创业板市场指数，主要反映高成长性创新创业企业的表现）和**科创50**（STAR Market 50 Index: 上海证券交易所科创板的指数，涵盖市值大、流动性好的50只科创板股票）均遭遇冲高回落，两市成交额萎缩至8月8日以来的新低。这表明A股市场信心尚未完全恢复，散户入场积极性不高，市场仍以政策调控为主导。预计今年年底前，A股可能维持横盘震荡，科技板块或有轮动行情。

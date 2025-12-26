@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -11,8 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁醫師
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kMvTWITQEV4
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -24,7 +23,6 @@ tags:
 - technology
 title: 鸡蛋的健康益处与米其林级烹饪技巧：主厨汉克揭秘76年蛋行精髓
 ---
-
 ### 鸡蛋：营养宝库与情绪能量
 
 你今天吃蛋了吗？关于蛋，它是一个很好的蛋白质来源，但你还知道它有其他帮助吗？它里面蕴含的能量可以帮助我们对抗下午三点的瞌睡魔咒，还能保护大脑。除此之外，它里面还有快乐因子，可以让我们由内而外散发出好心情。今天我们邀请了一位很特别的来宾，来和我们聊聊蛋的一切，让我们欢迎厨师汉克。

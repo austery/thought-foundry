@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - 甲骨文
@@ -11,8 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=goQEJyUkrTU
 speaker: 北美王路飞
@@ -23,7 +22,6 @@ tags:
 - investment
 title: 3000亿美金的疯狂豪赌：81岁埃里森的最后一战，是封神还是毁灭？
 ---
-
 ### 1. 背景介绍
 
 2024年，人工智能（AI）领域的竞争愈发激烈。作为硅谷最具传奇色彩的企业家之一，甲骨文创始人拉里·埃里森（Larry Ellison）以其大胆的投资策略和对未来的精准把握，再次成为焦点。近期，埃里森以3000亿美元的投资，携手OpenAI的山姆·奥特曼（Sam Altman）共同打造“星际之门”（Stargate）项目，引发市场广泛关注和热议。

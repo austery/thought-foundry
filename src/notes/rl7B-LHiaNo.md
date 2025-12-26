@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs: []
 date: '2024-06-12'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rl7B-LHiaNo
 speaker: Dwarkesh Patel
@@ -23,7 +22,6 @@ tags:
 - scaling-law
 title: 'Scaling Laws: Memorization vs. Intelligence'
 ---
-
 ### 智能的定义
 通用智能并非特定任务技能的扩展，而是能够快速掌握任何问题或技能的能力，并利用过往数据来应对未知挑战。这一定义的核心在于“**通用性**”（generality），它不是将单一技能规模化，而是指能够将思维应用于任何事物、任何情境的能力。要实现这一点，根本上需要具备高效、即时适应和学习的能力。
 

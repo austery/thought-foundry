@@ -28,10 +28,7 @@ people:
 products_models:
 - OddLots podcast
 - Bloomberg terminal
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=V2JNosW9o8M
 speaker: Bloomberg Podcasts
@@ -45,7 +42,6 @@ tags:
 - tariff-impact
 title: 围绕杰克逊霍尔会议美联储政策、通胀及关税影响的深入探讨
 ---
-
 ### 杰克逊霍尔会议：参会经历与政策意外
 
 主持人：你现在实际参加过多少次**杰克逊霍尔会议**（Jackson Hole Symposium: 每年由堪萨斯城联邦储备银行主办的全球央行年会）了？

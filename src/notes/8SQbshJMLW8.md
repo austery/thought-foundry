@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2024-12-29'
 draft: true
@@ -20,10 +20,7 @@ media_books:
 people:
 - 苏东坡
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8SQbshJMLW8
 speaker: 一席YiXi
@@ -37,7 +34,6 @@ tags:
 - technology
 title: 风味的魔法：茶叶与桂花背后的科学与诗意
 ---
-
 ### 茶叶的风味密码：从单宁到诗意
 
 大家好，我是林卫辉，一位美食作家。我们都知道《舌尖上的中国》这部纪录片播出后，仿佛唤醒了全民的味觉意识。陈晓卿老师曾开玩笑说：“如果你的朋友圈突然冒出一位美食家，那说明他的主业失败了。”这句话看似调侃，实则揭示了一个深层现实：我们的生活已经富足到可以认真对待“吃什么”这件事了。

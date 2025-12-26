@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TVO Today
@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - My Mother's Daughter
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4QzBiF0H4zI
 speaker: TVO Today
@@ -26,7 +24,6 @@ tags:
 - technology
 title: 激烈竞争对孩子是好是坏？——儿童竞争心理学探讨
 ---
-
 ### 竞争：动力还是压力？
 
 体育界充满了励志格言，比如“付出百分之一百一十的努力”、“不劳无获”。

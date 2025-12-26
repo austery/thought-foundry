@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-09-12'
 draft: true
@@ -21,9 +21,7 @@ people:
 - 恩格斯
 - 司马南
 products_models: []
-project:
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lDuHOTxx6fc
 speaker: 夸克说
@@ -37,7 +35,6 @@ tags:
 - totalitarianism
 title: 共产主义思想的谱系：卢梭与巴贝夫的理论贡献与批判
 ---
-
 ### 共产主义思想的第四代掌门人：卢梭
 
 在上一期节目的后半段，我们探讨了**共产教**（Communist cult: 一种将共产主义意识形态比作宗教信仰的说法）的第三代代表人物**梅梅**（Gabriel Bonnot de Mably: 法国启蒙思想家，早期共产主义思想的倡导者），并介绍了他的理论贡献。然而，存在一个关键问题：梅梅的著作是在他去世后才得以出版的，并且在很长一段时间内，市面上流传的都是经过**福尔泰**（Voltaire: 法国启蒙思想家，本名弗朗索瓦-马利·阿鲁埃）删改的版本。这个删改版彻底删除了梅梅的无神论和共产主义思想，仅保留了他对教会的批判。这导致在随后的几十年里，梅梅的理论影响力极其有限，几乎无人知晓。换言之，共产教这一新兴的意识形态虽然已经具备了理论基础，但仍需要一位能够将其发扬光大的人物。这位人物便是我们接下来要介绍的第四代掌门人，大名鼎鼎的**卢梭**（Jean-Jacques Rousseau: 法国启蒙思想家，其社会契约论和不平等理论对法国大革命影响深远）。

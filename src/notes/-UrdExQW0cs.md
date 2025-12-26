@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - US Congress
@@ -13,10 +13,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Brilliant
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-UrdExQW0cs
 speaker: veritasium
@@ -30,7 +27,6 @@ tags:
 - technology
 title: 量子计算机的颠覆性力量与后量子加密的应对之道
 ---
-
 ### 量子计算的威胁：先存储后解密
 
 目前，一些国家和个人行为者正在截获并存储大量加密数据，例如密码、银行详细信息和社会安全号码。然而，他们现在还无法打开这些文件。那么，他们为什么要这样做呢？这是因为他们相信在未来10到20年内，他们将能够使用量子计算机在几分钟内破解这些加密。

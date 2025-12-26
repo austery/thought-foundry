@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: finance
 companies_orgs: []
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - Kevin
 products_models: []
-project:
-- fire-movement
+project: []
 series: null
 source: null
 speaker: ''
@@ -27,7 +26,6 @@ tags:
 - movement
 title: A Deep Dive into the FIRE Lifestyle and Cognitive Enhancement with Kevin
 ---
-
 ## 开场与介绍
 
 Lia: 好的，Kevin你好。我们今天预计是一个小时的时间，现在已经有很多朋友上来了，所以我们可以直接开聊。我有看你个人的长篇介绍，非常地有意思，所以我也有几个问题，我们可以一起聊聊。如果你有什么已经准备好想讲的故事，也可以直接跟我们说。社群里的小伙伴如果想发言，可以举手，我们会把你变成speaker。

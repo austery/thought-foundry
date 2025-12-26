@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
@@ -17,10 +17,7 @@ people:
 - Bill Gates
 products_models:
 - Bitcoin
-project:
-- personal-growth-lab
-- systems-thinking
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zgQmaScqFiY
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - value
 title: 决策的艺术：Annie Duke 谈何时放弃、认知偏差与风险管理
 ---
-
 ### 访谈开场与放弃的挑战
 
 主持人: 今天，我们有一期特别的加长版节目，邀请到了 Annie Duke。

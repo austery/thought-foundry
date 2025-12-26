@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - CMHC
@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - 《庄也杂谈》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rdiHfHizo_g
 speaker: 莊也雜談
@@ -26,7 +24,6 @@ tags:
 - travel
 title: 温哥华之旅（二）：从斯坦利公园骑行到格兰维尔岛，体验城市与自然的交融
 ---
-
 ### 温哥华旅行续篇：斯坦利公园的骑行与城市探索
 
 今儿，咱们继续讲述在温哥华的旅行，这是第二集。如果您没有看第一集的话，欢迎回去收看。很多人可能注意到我的肤色明显变黑了，这是因为家里来了亲戚，打算停留一个月左右。上周是第一周，我带他们在多伦多周边到处跑，结果被多伦多毒辣的太阳晒黑了一圈。这个视频也因此没时间做，让大家久等了，先说声抱歉。当然，这个视频没时间做不怪别人，还是怪我自己，家里来亲戚，心里就长草了，静不下心来。今儿他们出去安排别的活动了，我正好抽时间录制温哥华旅行的第二集。

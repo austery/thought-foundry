@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -13,10 +13,7 @@ layout: post.njk
 people:
 - Jerome Powell
 - Donald Trump
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BveKysV7vuA
 speaker: 投资TALK君
@@ -31,7 +28,6 @@ tags:
 - tech
 title: 美联储点阵图或偏鹰，QT或将结束？大科技估值与市场前瞻分析
 ---
-
 各位观众大家好，欢迎来到一个不单止聊新闻的专业美股频道，我是市场分析人小涛。
 
 经过了一个周末两天的休整，不知道大家有没有准备好本周市场所给我们带来的一切。无论是上涨还是下跌，看了一下，现在的期货市场出现了小幅下跌。但是就像我在上周五做直播的那期视频里面一样，从技术角度去看的话，或者从上周五的走势去看，我认为它是一个**死猫跳**（Dead Cat Bounce: 股市术语，指股价在长期下跌后短暂反弹，但随后继续下跌的现象）的行为。但是市场永远是走出来的，我不希望在现在就去做出这一个判断，说我们这一次一定是一个死猫跳，然后还会去看一个新低。我个人认为，现在去对接下去市场的一个走势做出这样的一个判断，还为时过早。

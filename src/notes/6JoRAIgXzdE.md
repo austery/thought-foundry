@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国央行
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - recourse-loan
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6JoRAIgXzdE
 speaker: 老周横眉
@@ -27,7 +24,6 @@ tags:
 - society
 title: 房价跌破房贷余额，我该断供吗？中国房贷的金融与法律深度解析
 ---
-
 ### 房价下跌与断供困境：一个灵魂拷问
 
 最近一年多以来，在中国房价持续下跌的大环境下，经常会有人问我一个灵魂拷问：“老周啊，我房子的价格都跌到比我的房贷余额还低了，这个贷款我还还不还啊？”这个问题背后反映的是很多中国人正在经历的痛苦现实：房子不再是致富的工具，反而成了**负资产**（Negative Equity: 指资产的市场价值低于其相关债务的状况）。面对这样的楼市逆转，我们到底应该怎么做呢？我认为首先你需要具备正确的金融认知，才能在这个乱世当中做出正确的判断。

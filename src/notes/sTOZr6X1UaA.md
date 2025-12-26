@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - ''
@@ -13,8 +13,7 @@ media_books:
 people:
 - ''
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sTOZr6X1UaA
 speaker: 政經孫老師
@@ -25,7 +24,6 @@ tags:
 - strategy
 title: 中國為何無法武統台灣？《戰爭論》已經告訴我們答案！
 ---
-
 ### 中國為何無法武統台灣？《戰爭論》已經告訴我們答案！如果爆發戰爭，受害最深的反而是中國人
 
 稻村佬 今天節目來討論一下

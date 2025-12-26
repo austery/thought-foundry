@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Apollo Global Management
@@ -25,9 +25,7 @@ products_models:
 - S&P 500
 - 401k
 - OpenAI
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yOoJd58jERw
 speaker: Norges Bank Investment Management
@@ -41,7 +39,6 @@ tags:
 - system
 title: 阿波罗CEO马克·罗文：金融市场变革、私人信贷崛起与投资哲学
 ---
-
 ### 引言：金融界的远见者与阿波罗的崛起
 
 **Nicolai:** 大家好，我是挪威银行投资管理公司（**Norges Bank Investment Management**: 挪威主权财富基金，管理挪威政府全球养老基金）的首席执行官尼古拉·坦根。今天，我们有幸邀请到金融界的真正远见者马克·罗文（Marc Rowan），他是**阿波罗全球管理公司**（Apollo Global Management: 全球领先的另类资产管理公司之一）的联合创始人，该公司是全球最具影响力的**另类资产管理公司**（Alternative Asset Management Firm: 投资于股票、债券等传统资产之外的资产，如私募股权、对冲基金、房地产等）之一。

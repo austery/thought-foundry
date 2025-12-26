@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - CBC
@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - 维基百科
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iENawqlglD8
 speaker: 莊也雜談
@@ -30,7 +27,6 @@ tags:
 - urban-development
 title: 埃德蒙顿：加拿大之最的城市魅力与经济韧性深度解析
 ---
-
 ### 埃德蒙顿的地理与自然风光
 
 大家好，我是庄也，欢迎收看庄也杂谈加拿大系列节目。今天我们继续讲城市系列，是埃德蒙顿的下半部分。上半部分在《庄杂第150集》，我知道时间隔得有点长，所以强烈建议大家回去复习一下。上一集主要讲了埃德蒙顿的人口、气候、狗血历史故事，以及它和南边卡尔加里之间相爱相杀、你争我夺的竞争历史。今天我们主要讲一下埃德蒙顿这个城市的其他一些比较有意思的干货知识。

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -57,8 +57,7 @@ products_models:
 - BERT
 - Gemma
 - Copilot
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UTuuTTnjxMQ
 speaker: Dwarkesh Patel
@@ -72,7 +71,6 @@ tags:
 - superposition
 title: LLM如何思考：长上下文、可解释性与AI智能爆炸
 ---
-
 今天，我很高兴能与我的两位好友**Sholto Douglas**和**Trenton Bricken**进行对话。**Noam Brown**，**《外交》论文**的作者，曾这样评价**Sholto**：“他进入这个领域才一年半，但在AI界，人们都知道他是**Gemini**成功背后最重要的人物之一。”而**Trenton**则在**Anthropic**工作，专注于**机械可解释性**（Mechanistic Interpretability: 旨在理解神经网络内部工作机制的研究领域），据广泛报道，他已经解决了AI对齐问题。
 
 当然，这只是**Twitter**上朋友的玩笑。本期播客将只关注AI的能力，因为对齐问题已经解决，无需进一步讨论。

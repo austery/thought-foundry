@@ -18,9 +18,7 @@ people:
 - 毛宁
 - 王毅
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4O0KfLyv5XY
 speaker: 夸克说
@@ -33,7 +31,6 @@ tags:
 - technology
 title: 中国公民为何成为‘世界硬通货’？从南非绑架案看‘强大祖国’的真相
 ---
-
 ### 南非绑架案：中国公民的“硬通货”困境
 
 大家好，欢迎收看夸克说，我是夸克。12月8号，知名博主千万大飞蓝战飞在微博、朋友圈和粉丝群里发布了一则信息，称自己在南非遭遇了一名中国人的绑架。这位以“一个人走过了七大洲，都没有被老外抢过”而闻名的旅游博主，却在南非被自己的同胞绑架劫持，最后还被当地人强行“取经”。

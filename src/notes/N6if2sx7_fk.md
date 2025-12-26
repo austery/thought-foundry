@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -13,10 +13,7 @@ media_books:
 - Responsible Investment report
 - sharpened climate change expectations
 products_models: []
-project:
-- investment-strategy
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=N6if2sx7_fk
 speaker: Norges Bank Investment Management
@@ -30,7 +27,6 @@ tags:
 - risk
 title: 挪威主权财富基金2023年负责任投资报告：气候、AI与透明度
 ---
-
 ### 2023年：挑战、机遇与负责任投资的承诺
 
 2023年是受战争、气候和通货膨胀影响的一年。

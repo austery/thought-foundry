@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Money or Life 美股频道
@@ -22,10 +22,7 @@ products_models:
 - H100
 - GB200
 - GB300
-project:
-- us-analysis
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hYymPLvBkPQ
 speaker: Money or Life 美股频道
@@ -38,7 +35,6 @@ tags:
 - power
 title: 数据中心电力瓶颈深度解析：从特斯拉储能到新型核电的投资机遇
 ---
-
 ### 引言：AI数据中心与电力瓶颈
 
 大家好，欢迎来到Money or Life美股频道。我是Ace，本期视频的主题是电力。我在七八个月前发布了一期关于新型核能公司OKLO的视频，现在这家公司的股价已经来到了100美元以上。于是上周，我又花了不少时间去探索和学习以数据中心驱动的电力需求，它背后的逻辑到底是什么，以及它背后涉及的公司有哪些。今天我将通过一期长视频和大家分享这些内容。

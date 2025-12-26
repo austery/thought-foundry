@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Google
@@ -13,10 +13,7 @@ insight: ''
 layout: post.njk
 people:
 - Sergey Brin
-project:
-- systems-thinking
-- entrepreneurship
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZjBgEkbnX2I
 speaker: veritasium
@@ -30,7 +27,6 @@ tags:
 - technology
 title: 飞艇：重返天空的潜在巨头？
 ---
-
 ### 飞艇的“糟糕”历史与复兴之问
 
 飞艇似乎是个糟糕的主意。证据A就是（欢快的音乐声）在那场灾难中，竟然有人能幸存下来，这简直是最大的奇迹。

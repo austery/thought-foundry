@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 币安
@@ -33,10 +33,7 @@ people:
 - 严歌苓
 - 刘德华
 products_models: []
-project:
-- china-analysis
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FRl_Ko7_oBc
 speaker: 三個水槍手
@@ -49,7 +46,6 @@ tags:
 - technology
 title: 盘点被中国封杀的艺人：失去巨大市场，能否赢得国际声誉？
 ---
-
 ### 引子：从范冰冰获奖谈起
 近期范冰冰获得金马奖，引发了一个有趣的话题：许多艺人因被中国封杀而离开，之后却在国际上走出了更宽广的道路。尽管从商业成就上看，任何市场都难以与中国庞大的体量相比，但他们却走出了一条不一样的路。
 

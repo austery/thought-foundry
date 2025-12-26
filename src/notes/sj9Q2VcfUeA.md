@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Google
@@ -62,9 +62,7 @@ products_models:
 - TensorFlow
 - AWS
 - Azure
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sj9Q2VcfUeA
 speaker: The Pragmatic Engineer
@@ -78,7 +76,6 @@ tags:
 - tool
 title: 深入谷歌工程文化：从定制技术栈到晋升潜规则
 ---
-
 ### 引言：深入谷歌的工程世界
 
 从用户数量来看，谷歌是世界上使用最广泛的公司，旗下拥有 Google 搜索、YouTube、Chrome、Android 等众多产品。但从工程角度看，这家公司究竟是怎样的呢？我们花了数月时间研究这个话题，旨在为您带来迄今为止关于谷歌工程文化最详尽的深度剖析。

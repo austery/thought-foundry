@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 汇丰银行
@@ -12,10 +12,7 @@ layout: post.njk
 people:
 - 马克思
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4BQijY6qGTQ
 speaker: 海淀拙大叔
@@ -28,7 +25,6 @@ tags:
 - strategy
 title: 乱世求生：何为最佳预防性商品货币贮藏手段？
 ---
-
 ### 危机下的财富贮藏：一个紧迫的问题
 
 阿甘经济宏观论第11集，什么是最好的预防性贮藏手段？今天是2024年的最后一天。前两天在复盘中，我问到大家一个问题：一旦发生了我们不愿看到、不能预期具体时间的不幸事件，比如说战争，我们最好事先做哪些准备？去贮藏些什么东西？大家知道，从我们正常的经济进入到战时经济或者短缺经济，很可能出现个人财富的大翻盘。所以我们事先做一些准备，不是什么坏事情。很多人提出，比如说贮藏黄金、粮食，甚至比特币，还有说要存盐的，这些其实都挺好。特别提出来要存盐的，那一定是有过生活阅历，甚至可能在这方面有过思考的人。

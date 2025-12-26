@@ -29,10 +29,7 @@ people:
 - Adam Posen
 - Jens Stoltenberg
 products_models: []
-project:
-- investment-strategy
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TAx9DL3Itjc
 speaker: Norges Bank Investment Management
@@ -45,7 +42,6 @@ tags:
 - technology
 title: 挪威主权财富基金：全球最大基金的成功秘诀与未来挑战
 ---
-
 ### 引言：全球最大主权财富基金的掌舵者
 
 各位女士们、先生们，非常荣幸能向大家介绍两位杰出人物。首先是**Nicolai Tangen**，他受托管理着近2万亿美元的挪威财富。

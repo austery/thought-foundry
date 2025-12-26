@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -81,10 +81,7 @@ products_models:
 - Grok
 - Gemini
 - AI5
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JJmdKrU2P6Y
 speaker: Amit Kukreja
@@ -98,7 +95,6 @@ tags:
 - us-china-relations
 title: 特斯拉2025年Q3财报解读：盈利未达预期，但AI、机器人与自动驾驶的未来愿景支撑股价
 ---
-
 ### 市场动荡：中美贸易紧张局势引发抛售
 
 Amit：好的，大家好，欢迎回到新一期的《收盘观察》节目。我们正在直播，抱歉我迟到了一会儿，但我们已经准备就绪。今天有很多内容要谈。

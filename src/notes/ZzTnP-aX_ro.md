@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Ministry of Education
@@ -13,9 +13,7 @@ people:
 - George Floyd
 products_models:
 - Bill 33
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZzTnP-aX_ro
 speaker: TVO Today
@@ -29,7 +27,6 @@ tags:
 - systemic-racism
 title: 学校是否应有警察驻守？安大略省SRO项目争议
 ---
-
 ### 引言与SRO项目背景
 
 政府表示，在学校中配备警官将保护学生并建立信任。但另一些人则认为，**SRO**（School Resource Officer: 学校资源官，指派到学校的警官）项目无法解决暴力的根本原因，反而会让一些学生感到不安全。那么，数据告诉我们什么？

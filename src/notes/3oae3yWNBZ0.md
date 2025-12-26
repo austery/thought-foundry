@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -25,10 +25,7 @@ products_models:
 - USDC
 - Obamacare
 - ChatGPT
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3oae3yWNBZ0
 speaker: 投资TALK君
@@ -43,7 +40,6 @@ tags:
 - us-economic-datum
 title: UNH与Coinbase财报深度解析：市场轮动、估值逻辑及宏观经济展望
 ---
-
 ### 市场回顾与情绪分析
 
 在连续两周的财报季忙碌之后，市场分析员小涛对过去一周的市场走势进行了总结。美元指数和美债收益率波动不大，但美股出现了比较明显的下调，其中纳斯达克指数下跌3%，标普500指数下跌1.6%，道琼斯指数下跌1.2%，**VIX**（Volatility Index: 波动率指数，衡量市场对未来30天市场波动性的预期）上升9.4%，罗素指数下跌近2%，比特币下跌5.1%。这标志着资产价格出现了一定程度的下跌。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -15,8 +15,7 @@ people:
 - 李思賢
 products_models:
 - Inbody
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ol33rmGq7T0
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -29,7 +28,6 @@ tags:
 - weight-management
 title: 瘦不代表健康：揭秘“代谢健康型肥胖”与“隐形胖”的真相
 ---
-
 ### 瘦不代表健康：重新认识肥胖与健康的复杂关系
 
 大家好，我是初日診所的思思醫師。多数人都会同意“瘦比胖更健康”这句话，然而近年来的研究告诉我们，身材胖瘦与健康之间的关系，并非大家印象中那么简单。我参考了我的门诊经验和相关研究，发现有两种“胖”特别值得我们深入探讨，它们可能会挑战传统上对肥胖与健康的认知。

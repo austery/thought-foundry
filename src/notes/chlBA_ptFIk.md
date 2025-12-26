@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -14,9 +14,7 @@ media_books:
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=chlBA_ptFIk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -31,7 +29,6 @@ tags:
 - technology
 title: 运动即良药：吴肇基医师谈《大夫训练》中的运动治疗与健康老化
 ---
-
 ### 运动：人人适用的治疗介入
 
 **宋晏仁宋医师:** 运动是否真的适合所有人作为治疗的介入方式？

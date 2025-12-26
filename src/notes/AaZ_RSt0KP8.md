@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Intel
@@ -16,9 +16,7 @@ people:
 - Carl Anderson
 products_models:
 - Voyager 1
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AaZ_RSt0KP8
 speaker: veritasium
@@ -30,7 +28,6 @@ tags:
 - technology
 title: 宇宙对计算机的敌意：从选举错误到飞机失事，宇宙射线如何影响我们的数字生活
 ---
-
 ### 比利时选举中的离奇错误
 
 一架飞机从空中坠落，一位速通玩家莫名其妙地跳到了更高的平台，还有一次选举重新计票被触发。

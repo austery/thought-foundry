@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Stanford
@@ -14,9 +14,7 @@ media_books:
 people:
 - Derek Muller
 - Emily
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d6iQrh2TK98
 speaker: veritasium
@@ -30,7 +28,6 @@ tags:
 - problem
 title: 为什么这个数字无处不在？37的随机性、数学奥秘与决策智慧
 ---
-
 ### 数字37：一个看似随机却无处不在的现象
 
 让我向你展示一些令人难以置信的事情。请说出一个介于1到100之间的随机数。

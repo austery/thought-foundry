@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Google
@@ -11,9 +11,7 @@ layout: post.njk
 products_models:
 - iPhone
 - Android
-project:
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pztijFSlfZs
 speaker: EO
@@ -29,7 +27,6 @@ tags:
 - resilience
 title: 从创业失败中拯救我的心态：Matt Hagger 的 TaleTree 之旅
 ---
-
 ### 创业之路：从硅谷到失败的洗礼
 
 在过去的20年里，我曾是英国和后来的洛杉矶硅谷的**连续创业者**（Serial entrepreneur：指连续创办多家公司的创业者）。我的第二家公司是 Scatter，一款照片分享产品。我曾希望它能成为全球每一位成员都能访问和使用的产品。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 携程
@@ -15,10 +15,7 @@ people:
 - 光绪皇帝
 - 慈禧太后
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tnxj9d0mNuw
 speaker: 莊也雜談
@@ -32,7 +29,6 @@ tags:
 - urban-development
 title: 北京双面行：颐和园的皇家风华与国贸CBD的消费观察
 ---
-
 ### 颐和园：皇家园林的兴衰与游览攻略
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊北京旅游的话题。上一集我们简单介绍了北京南城胡同、前门大栅栏步行街以及王府井商圈的一些情况。但要全面了解北京，不能只去市井胡同，那些著名的大景点也值得一去，例如天安门、故宫、八达岭长城、天坛、颐和园、圆明园、香山、景山、北海、十三陵等。如果您是第一次来北京，这些地方还是应该去打卡的。

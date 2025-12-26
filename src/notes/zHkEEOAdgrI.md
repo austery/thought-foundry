@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - TVO
@@ -15,9 +15,7 @@ media_books:
 - How Great Ideas Happen
 - Simon & Garfunkel record
 - John Hughes movies
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zHkEEOAdgrI
 speaker: TVO Today
@@ -30,7 +28,6 @@ tags:
 - reality-tv
 title: 为何我们沉迷于逃避现实？深度解析真人秀、怀旧与现代文化的连接
 ---
-
 ### 引言：逃避现实的诱惑
 
 >> 听到我说我因为工作原因看和读很多新闻，你可能不会感到惊讶。我必须经常思考和谈论新闻。但有时我的大脑需要休息一下。所以，我开始看一部不一定是影评人首选的节目：《黯然销魂饭》（Selling Sunset）。洛杉矶。房地产。戏剧。让我们来看看第九季的预告片，它刚刚杀青。

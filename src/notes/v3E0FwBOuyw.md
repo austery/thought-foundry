@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 台积电
@@ -20,10 +20,7 @@ people:
 - 哥白尼
 - 伽利略
 products_models: []
-project:
-- historical-insights
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v3E0FwBOuyw
 speaker: 超級歪 SuperY
@@ -37,7 +34,6 @@ tags:
 - value
 title: 文科「无用论」的迷思：历史溯源、社会价值与未来出路
 ---
-
 ### 文科“无用论”的甚嚣尘上与媒体的过度解读
 
 每当大学放榜时，文科系所的招生缺额总会引发新一轮关于“文组无用”的讨论。在台湾，这种“战文组”的现象时有发生，文科生也常被问及“毕业后要做什么？”近年来，随着人工智能（AI）浪潮的兴起，理工科的优势进一步凸显，这似乎更加强化了文科无用的论调。今天我们将深入探讨日本社会学家吉見俊哉所著的《废除文科学部的冲击》一书，来剖析这一议题。

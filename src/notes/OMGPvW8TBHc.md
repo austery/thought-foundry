@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Air Canada
@@ -14,9 +14,7 @@ products_models:
 - ChatGPT
 - Llama 3
 - GPT-4
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OMGPvW8TBHc
 speaker: AI Engineer
@@ -30,7 +28,6 @@ tags:
 - technology
 title: 生成式AI时代的模糊测试：确保LLM可靠性的关键
 ---
-
 ### 引言：AI可靠性与“磨练式测试”
 
 感谢艾莉出色的介绍。

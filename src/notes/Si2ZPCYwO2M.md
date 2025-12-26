@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - IMF
@@ -25,10 +25,7 @@ people:
 - Narendra Modi
 - Vladimir Putin
 - Donald Trump
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Si2ZPCYwO2M
 speaker: 三個水槍手
@@ -41,7 +38,6 @@ tags:
 - sino-japanese-relations
 title: 中国人应为日本ODA援助而感恩吗？一段被尘封的历史
 ---
-
 ### 一个注定引发争议的话题：中国人该不该感恩日本？
 
 今天我们要讨论一个问题，这个问题注定会让评论区充满争议。如果用最直白的话来讲，就是“中国人为什么不领情？中国人为什么不感恩？”我甚至要直接使用“感恩”这个词，因为我个人确实心怀感恩。我们将要探讨的是中日之间的“感恩”问题，尤其是在当前中日争端背景下，介绍一下日本的**ODA**（Official Development Assistance: 即“官方发展援助”，指发达国家为促进发展中国家的经济发展水平和福利水平而提供的援助）项目。

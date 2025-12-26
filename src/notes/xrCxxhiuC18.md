@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - OpenAI
@@ -26,10 +26,7 @@ products_models:
 - GPT-5
 - AlphaFold
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xrCxxhiuC18
 speaker: 北美王路飞
@@ -44,7 +41,6 @@ tags:
 - problem
 title: 认知科学家加里·马库斯：为何硅谷的AGI“弥天大谎”需要被驯服？
 ---
-
 ### AI时代的“头号唱反调者”：加里·马库斯
 
 大家好，欢迎来到我的频道。今天我们来聊一位名叫**加里·马库斯**（Gary Marcus: 著名认知科学家、心理学家、畅销书作家，以其对当前主流AI发展路线的批判而闻名）的学者。前段时间，**GPT-5**（Generative Pre-trained Transformer 5: OpenAI开发的大型语言模型，用于生成文本、回答问题等）发布后，他在Twitter上疯狂嘲讽，表现得非常兴奋。在AI圈内，马库斯其实是赫赫有名的“头号唱反调者”。无论是OpenAI还是谷歌发布新模型，他总是第一个跳出来说：“你这玩意儿不行，还是个‘磕了药的**自动补全**（Auto-complete: 一种软件功能，根据用户输入预测并提供可能的完成选项）’。”

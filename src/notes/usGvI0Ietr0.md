@@ -24,8 +24,7 @@ people:
 - Ivanka Trump
 - Jared Kushner
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=usGvI0Ietr0
 speaker: 北美王路飞
@@ -36,7 +35,6 @@ tags:
 - interview
 title: 白宫幕僚长苏珊·威尔斯惊人爆料：深度解析特朗普政府内幕
 ---
-
 ### 白宫幕僚长角色
 
 我认为之前可能离职的是**苏珊·威尔斯**（Susie Wiles）。我们来聊聊**苏珊·威尔斯**，以及她最近在《名利场》杂志的这件事情。我相信你也看了，老尹有没有看那个采访？我大致上了解了一下。

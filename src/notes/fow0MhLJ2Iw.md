@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2024-06-19'
@@ -20,9 +20,7 @@ people:
 - Buddha
 - Nietzsche
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fow0MhLJ2Iw
 speaker: 超級歪 SuperY
@@ -36,7 +34,6 @@ tags:
 - suffering-existence
 title: 反出生主义：从古希腊到现代的哲学思辨
 ---
-
 ### 台湾低生育率与反出生主义的兴起
 
 根据2024年的统计调查，台湾的生育率在全球排名倒数第一，每位台湾女性的生育率仅为1.11人。这一数字不仅超越日本、直追韩国，使台湾成为亚洲乃至全球生育率最低的地区之一。随着越来越多的年轻人选择不婚不育，这种“不生”的趋势实际上自古有之。今天我们将探讨的正是近年来备受关注的“**反出生主义**”（Anti-natalism: 认为出生在世比未出生更糟，且出生在道德上是错误的哲学观点）哲学。

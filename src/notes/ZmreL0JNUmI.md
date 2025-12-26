@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Cornell University
@@ -23,9 +23,7 @@ people:
 - Elon Musk
 products_models:
 - '[]'
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZmreL0JNUmI
 speaker: 徒步的騎手
@@ -39,7 +37,6 @@ tags:
 - self
 title: 自我创造的人：美国精神、人生哲理与普通人的故事
 ---
-
 ### 美国精神的基石：自我创造的人
 
 人生似乎从十七八岁开始，高中毕业后离开父母去念大学或到外面打工，开始相对独立的生活。我们开始品尝人生的酸甜苦辣，体会人间冷暖，经历生活的艰辛，有时甚至不得不面对世道的险恶。今天，我们将通过两位17岁少年在美国闯荡的故事，来审视美国社会的面貌，它提供了怎样的机会，以及美国人所佩服的品质。

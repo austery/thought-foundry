@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - Meta
@@ -25,9 +25,7 @@ products_models:
 - Tesla
 - 微信
 - 小红书
-project:
-- personal-growth-lab
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UTDLS_T2Ra4
 speaker: 课代表立正
@@ -42,7 +40,6 @@ tags:
 - strategy
 title: 抵抗KPI焦虑，回归“有用”本质：大厂创新与个人成长之道
 ---
-
 ### 大厂创新困境与创业思维的启示
 
 在当前科技行业，尽管像**Meta**（Facebook母公司）和**亚马逊**（Amazon）这样的大厂拥有充足的人才和资金，并且从上到下都高度重视，但在**大模型**（Large Language Model, LLM: 指参数量巨大、能够处理和生成复杂语言内容的人工智能模型）的训练上，它们反而常常落后于许多创业公司。这背后的原因，无疑是大厂的管理方式、运作模式和激励机制中存在着固有的低效率，使得像大模型训练这样对资金和人才密度要求极高的困难项目难以在大厂中成功。

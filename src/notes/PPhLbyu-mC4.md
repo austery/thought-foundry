@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: 2025-01-21
 draft: true
@@ -25,10 +25,7 @@ people:
 - Joe Biden
 products_models:
 - '[]'
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PPhLbyu-mC4
 speaker: 徒步的騎手
@@ -42,7 +39,6 @@ tags:
 - us-national-identity
 title: 美国是一个什么样的国家？观念、信条与普世文明的构建
 ---
-
 ### 美国对中国及个人命运的深远影响
 
 几年前，在一次朋友的直播中，我们聊到了一个宏大的话题：美国到底是一个什么样的国家？这无疑是一个可以持续探讨、撰写多本书籍，甚至永远也无法穷尽的题目。然而，这个话题又与我们每个人的生活息息相关，它既宏大又微小。或许有人会说：“我又不在美国，美国跟我有什么关系呢？”实际上，美国与你的关系非常大，而且一直都很大。

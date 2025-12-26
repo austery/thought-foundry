@@ -20,9 +20,7 @@ people:
 - 毛泽东
 - 老布什
 - 邓小平
-project:
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FdkpWrlR5zg
 speaker: Dwarkesh Patel
@@ -36,7 +34,6 @@ tags:
 - system
 title: 冷战为何终结？多维度剖析苏联解体的原因与启示
 ---
-
 This is the final episode of the Sarah Paine lecture series, and it’s probably my favorite one.
 
 Sarah gives a “tour of the arguments” on what ultimately led to the Soviet Union’s collapse, diving into the role of the US, the Sino-Soviet border conflict, the oil bust, ethnic rebellions and even the Roman Catholic Church. As she points out, this is all particularly interesting as we find ourselves potentially at the beginning of another Cold War.

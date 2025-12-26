@@ -20,8 +20,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Alpha Picks
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wNgRjHCCemc
 speaker: Darren聊美股
@@ -34,7 +33,6 @@ tags:
 - technical-analysis
 title: 长期看涨期权（LEAPS）实战指南：小资金如何实现超额收益与风险控制
 ---
-
 ### LEAPS期权投资策略概述
 
 本期视频将深度介绍一种投资方法，即购买**长期看涨期权**（LEAPS: Long-term Equity AnticiPation Securities，到期时间超过一年的看涨期权）。许多投资朋友，尤其是新手，一听到“期权”二字，就会觉得复杂且风险很高。但实际上，如果方法得当，LEAPS可以成为一种相对稳健的工具，帮助投资者用更小的资金获取超值的投资收益。通过这个策略，在短短几周内，就可以获得超过本股将近一倍的盈利，在较小仓位的前提下，已经获得了不错的收益。接下来将一步一步展示为什么使用LEAPS、如何选标的、何时进场以及何时退出等内容。同时，还将分享本周新开仓的一个LEAPS，并给出开仓理由。希望本期节目能帮助大家在持有ETF和个股作为大仓位的前提下，通过灵活使用LEAPS，进一步提升投资组合收益。

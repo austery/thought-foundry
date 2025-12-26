@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国人口机构UNPD
@@ -20,10 +20,7 @@ people:
 - LeBron James
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Mshab4k83SY
 speaker: 老周横眉
@@ -38,7 +35,6 @@ tags:
 - us-china-relations
 title: 东亚的无声雪崩：人口危机如何重塑21世纪的命运与中美博弈
 ---
-
 ### 东亚人口危机的序幕：一场无声的雪崩
 
 今天，我们将探讨一个与我们每个人及其未来生活息息相关的重要议题。长期以来，当我们谈论国家间的竞争、兴衰以及权力更迭时，我们总是从经济、技术和制度等角度进行分析。这些因素无疑是决定一个国家命运的重要组成部分。然而，当前东亚地区正面临着一场“不确定”但足以带来毁灭性后果的危机。最终，决定21世纪全球格局的，可能不是意识形态或尖端科技，而是出生证明书。

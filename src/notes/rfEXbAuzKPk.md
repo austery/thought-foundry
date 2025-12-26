@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Columbia University
@@ -19,9 +19,7 @@ media_books:
 people:
 - Bo Xilai
 - Li Qiang
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rfEXbAuzKPk
 speaker: 柴静 Chai Jing
@@ -35,7 +33,6 @@ tags:
 - rule-of-law
 title: 柴静亲历重庆打黑：司法运动化与权力滥用的深层反思
 ---
-
 ### 薄瓜瓜公开信引发的思考：重庆打黑的责任与争议
 
 一个月前，我看到一个熟名叫**薄瓜瓜**的人在社交媒体上发表公开信谈论他的家庭。信中提到重庆**打黑**（Anti-gang campaign: 中国政府打击有组织犯罪的专项行动）变成**黑打**（Abusive crackdown: 指在打黑行动中，执法部门滥用职权、违反法律程序，甚至刑讯逼供，将无辜者或轻罪者定性为黑社会性质犯罪的行为）时，他认为原因在于**王立军**滥用职权、目中无人，而**薄熙来**用人不当、骑虎难下。如果这封信是真的，为自己的父母辩护是人之常情。而且，薄熙来在重庆打黑中究竟要负什么责任，这一点在他和王立军的庭审中都没有涉及，给争议留下了很大的空间。

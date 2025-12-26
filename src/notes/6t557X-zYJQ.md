@@ -29,10 +29,7 @@ people:
 products_models:
 - Starlink
 - Neutron rocket
-project:
-- investment-strategy
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6t557X-zYJQ
 speaker: Money or Life 美股频道
@@ -45,7 +42,6 @@ tags:
 - us-stock-market
 title: 美股疯狂一周：特斯拉、火箭实验室、HIMS股价飙升，SpaceX百亿频谱交易引爆太空投资新纪元
 ---
-
 大家好，欢迎来到Money or Life美股频道。我是Ace，今天是2025年9月13号周六。本周的美股复盘加推演节目分为两个部分。第一部分将聊一下疯狂的一周，特别是我和自己重仓的**特斯拉**（Tesla: 一家美国电动汽车及清洁能源公司）、**火箭实验室**（Rocket Lab: 一家美国航空航天制造商和小型卫星发射服务提供商）和**HIMS**（Hims & Hers Health, Inc.: 一家美国远程医疗和个人健康平台公司）。它们在本周的涨势都非常好，让我的投资收益在一周内就达到了15%到20%，这是我从来没有想过能在一周之内获得这么高的收益。感谢每一股，感谢屏幕前所有支持这个频道的朋友们。
 
 视频第二部分，我将通过为大家解读包括**EchoStar**（EchoStar Corporation: 一家美国卫星服务提供商）和**SpaceX**（Space Exploration Technologies Corp.: 一家美国航空航天制造商和空间运输服务公司）**频谱**（Spectrum: 无线电波频率范围，用于无线通信）交易等重大的太空新闻，带大家再次聚焦太空领域。因为投资太空一直是我个人以及屏幕前很多关注Money or Life美股频道朋友们的投资主线。现在毫无疑问，我们已经进入了**Space Race 2.0**（太空竞赛2.0: 指新一轮由国家和私人公司共同推动的太空探索和商业化竞争）。所以对于太空领域的投资，不仅是现在，也是未来很长一段时间都将有较大的热度，这也是我持续关注这个领域，持续为大家输出相关内容的原因。

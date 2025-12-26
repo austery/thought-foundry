@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - 腾讯
@@ -33,10 +33,7 @@ people:
 products_models:
 - Gemini
 - Sora
-project:
-- china-analysis
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rglu0FhJMdI
 speaker: 小翠時政財經
@@ -51,7 +48,6 @@ tags:
 - rate
 title: 人民币汇率为何强势？反日大礼包、AI财报季与市场新动向
 ---
-
 ### A股市场动态
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月12日，双十二。

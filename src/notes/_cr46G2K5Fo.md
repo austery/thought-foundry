@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 date: '2025-04-02'
 draft: true
@@ -13,9 +13,7 @@ people:
 - Galileo Galilei
 products_models:
 - ChatGPT
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_cr46G2K5Fo
 speaker: veritasium
@@ -30,7 +28,6 @@ tags:
 - theory
 title: 选择公理：数学的基石与悖论
 ---
-
 ### 数学中的选择难题与悖论
 
 数学中有一条规则，它如此简单，你可能会认为它显然是真的，但如果你接受它，你会发现有些线段现在没有长度。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-08-06'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QKOm0B1HUUA
 speaker: 投资TALK君
@@ -28,7 +25,6 @@ tags:
 - technology
 title: AMD财报深度解析与宏观经济数据洞察：消费者借贷与市场走势
 ---
-
 ### 宏观经济概览：资产价格与服务业指数
 
 周二，**美元指数**（U.S. Dollar Index: 衡量美元兑一篮子主要货币的汇率变化）横盘整理，**美债收益率**（U.S. Treasury Yield: 美国国债的投资回报率）小幅反弹，但**TLT**（iShares 20+ Year Treasury Bond ETF: 一种追踪长期美国国债表现的交易所交易基金）仍上涨，表明长期美债收益率仍在下跌。**垃圾级别债券**（Junk Bonds / High-Yield Bonds: 信用评级较低、风险较高但收益率也较高的债券）的**利差**（Spread: 两种金融资产收益率之间的差异）在周二下跌，这是一个积极信号，预示市场风险正在降低。然而，三大股指均下跌，其中**标普**（S&P 500: 标准普尔500指数，衡量美国500家大型上市公司股票表现的指数）下跌0.5%，**纳指**（Nasdaq Composite: 纳斯达克综合指数，衡量在纳斯达克交易所上市的股票表现的指数，科技股占比较大）下跌0.7%，**道指**（Dow Jones Industrial Average: 道琼斯工业平均指数，衡量30家美国大型蓝筹股公司股票表现的指数）跌幅相对较小，为0.1%。与此形成对比的是，**罗素2000**（Russell 2000: 罗素2000指数，衡量美国2000家小型上市公司股票表现的指数）上涨了0.6%。从板块表现看，除公共事业板块下跌1.1%外，其他所有板块的涨跌幅均在1%以内。前期大科技股下跌0.6%，标普等权指数下跌0.3%。

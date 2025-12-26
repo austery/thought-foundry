@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - 腾讯
@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=M6ZsbRhhZys
 speaker: 课代表立正
@@ -25,7 +23,6 @@ tags:
 - relations
 title: 腾讯裁员亲历者分享：四名下属被裁背后的真相与职场启示
 ---
-
 ### 裁员的敏感性与法律风险
 
 会员朋友们大家好，今天我将分享一个稍显沉重且敏感的话题，那就是我在腾讯工作期间，亲手裁掉四名下属的经历，以及他们被裁背后的真实原因。这个话题之所以敏感且难以分享，是因为在公司进行裁员时，存在巨大的法律风险。国内的**劳动法**（Labor Law: 旨在保护劳动者权益的法律）对劳动者有较强的保护。因此，在我第一次执行裁员之前，HR部门专门对我进行了培训。培训内容明确指出，在与被裁员工沟通时，哪些话可以说，哪些话不能说。我们被要求假设对方正在录音，并准备提起诉讼，因此所说的每一句话都必须在法庭上站得住脚。经过这样的培训，我对整个裁员过程都非常谨慎。

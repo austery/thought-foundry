@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Google
@@ -31,8 +31,7 @@ products_models:
 - Gemini
 - TPU
 - Waymo
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=l-z2cASNUMY
 speaker: Best Partners TV
@@ -45,7 +44,6 @@ tags:
 - optimization
 title: 谢尔盖·布林斯坦福对话：谷歌AI策略反思与未来展望
 ---
-
 大家好，这里是最佳拍档，我是大飞。就在不久前，在**硅谷**的心脏，**斯坦福大学工程学院**举办了一场庆祝建院100周年的压轴活动。在这场活动上，他们请回了一位可以说是改变了互联网历史进程的校友，他就是**谷歌**的联合创始人**谢尔盖·布林**（Sergey Brin）。我们都知道，现在的科技圈，尤其是人工智能领域，正处于一种近乎疯狂的战国时代。**OpenAI**、**Anthropic**、**Meta**，当然还有**谷歌**，都在进行着激烈的角逐。
 
 在这样一个时间节点，作为**谷歌**的灵魂人物，已经处于半退休状态的**谢尔盖·布林**罕见地公开露面，坐在**斯坦福**的讲台上，面对台下数百名年轻的学子。他回顾了**谷歌**的起点，更重要的是，他非常坦诚地剖析了**谷歌**在AI时代的得与失。这场对话，不仅是一次历史的回顾，更是一次对未来技术趋势的深度预判。今天大飞就来给大家分享一下。

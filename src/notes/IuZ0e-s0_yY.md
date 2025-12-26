@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Fox News
@@ -26,10 +26,7 @@ people:
 - Osama bin Laden
 products_models:
 - Signal
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IuZ0e-s0_yY
 speaker: 北美王路飞
@@ -43,7 +40,6 @@ tags:
 - war
 title: 美国战争部长争议事件：从“二次打击”到弹劾风波
 ---
-
 ### 美国战争部长黑格赛斯争议事件始末
 
 今天我们将主要探讨美国战争部长黑格赛斯涉嫌的一系列争议事件。

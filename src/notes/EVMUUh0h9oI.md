@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -39,10 +39,7 @@ products_models:
 - Chrome
 - Quest
 - Trainium
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EVMUUh0h9oI
 speaker: 投资TALK君
@@ -56,7 +53,6 @@ tags:
 - tech-earning
 title: 科技巨头2025Q3财报深度解析：AI投资浪潮下的机遇与挑战
 ---
-
 ### 科技巨头2025Q3财报概览与AI投资焦点
 
 本期节目将深入探讨科技五巨头——Meta、微软、谷歌、亚马逊和苹果在2025年第三季度的财报表现。这些公司在未来两年，即2025至2026年，都承诺将大幅扩大**资本开支**（Capital Expenditure - CAPEX: 公司用于购买、改进或延长固定资产使用寿命的支出），尤其是在AI领域。然而，市场对它们的反馈却不尽相同。尽管每家公司都与AI息息相关，并可能成为AI的受益者，但从长远来看，它们各自的侧重点有所不同。

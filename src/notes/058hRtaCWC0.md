@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Stanford
@@ -14,9 +14,7 @@ layout: post.njk
 media_books:
 - Big Hero 6
 products_models: []
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=058hRtaCWC0
 speaker: veritasium
@@ -31,7 +29,6 @@ tags:
 - technology
 title: 软体机器人：柔性结构如何改变人机交互与探索？
 ---
-
 ### 软体机器人：柔性设计的奥秘与工作原理
 
 这些是**软体机器人**（Soft Robots: 由柔性材料而非传统金属或木材构建的机器人）。它们的结构部件不是由金属或木材制成，而是由塑料管等柔性材料构成。但它们是如何工作的？以及为什么我们首先需要一个软体机器人呢？

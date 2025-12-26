@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -31,10 +31,7 @@ people:
 - Eric Chu
 - Li Qiang
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rpaMlNwJAso
 speaker: LT視界
@@ -49,7 +46,6 @@ tags:
 - market
 title: 全球经济与地缘政治：美中日欧动态、台湾政局及中共四中全会影响深度分析
 ---
-
 ### 全球财经一周展望：聚焦宏观数据与政策动向
 
 在新的一周开始之际，有五个重大经济事件值得关注。首先是周五（10月24日），美国劳工部将发布9月份的通胀数据。这是美国政府关门三周以来，特朗普政府发布的第一个重大宏观数据，因此引起了市场的普遍关注。美国劳工部统计局召回了部分员工加班，以确保该数据能按预期发布。这份通胀数据也是10月29日美联储做出利率政策调整前，唯一由政府发布的核心宏观数据。美联储目前主要关注两大问题：美国的就业和通胀形势。由于政府关门，就业数据未能发布，美联储只能关注通胀数据。

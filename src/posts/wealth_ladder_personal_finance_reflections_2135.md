@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 author: Lei
 category: lifestyle
 companies_orgs:
@@ -27,9 +27,7 @@ products_models:
 - VOO
 - QQQ
 - Bitcoin
-project:
-- fire-movement
-- personal-growth-lab
+project: []
 source: ''
 speaker: 一口新饭读书会
 status: evergreen
@@ -42,7 +40,6 @@ tags:
 - wealth
 title: 财富的阶梯：从生存挣扎到财务自由的个人经验与反思
 ---
-
 ## 开场与技术调试
 
 Zalira: Hello Remy。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - TVO Today
@@ -21,9 +21,7 @@ people:
 - Jimmy Kimmel
 - Charlie Kirk
 - Barack Obama
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NQAFTme998E
 speaker: TVO Today
@@ -38,7 +36,6 @@ tags:
 - society
 title: 约翰·坎迪：多伦多塑造的喜剧传奇与加拿大精神
 ---
-
 ### 约翰·坎迪在第二城的喜剧启蒙
 
 Paul，非常感谢您来到多伦多**第二城**（Second City: 著名的即兴喜剧剧团）与我们交流。正如您所见，我们正坐在约翰·坎迪剧院里。他与这个机构有着非常特殊的关系，能和我们谈谈吗？我身下的这个舞台，正是约翰·坎迪在第二城开启职业生涯的地方，他差点就错过了这个机会，因为他本来没打算去第二城试镜。但是丹·艾克罗伊德和瓦莱丽·布拉姆菲尔德当时正在试镜，他们是他的朋友，就对他说：“和我们一起去试镜吧，你可以在后面坐着，之后我们一起吃午饭。”然后他们就叫了他的名字，他当时心想：“你们这些家伙！”

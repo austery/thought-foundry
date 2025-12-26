@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 同盟会
@@ -36,9 +36,7 @@ people:
 - 杨度
 - 蒋经国
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HUVNuFfNsJs
 speaker: 东京人文论坛
@@ -52,7 +50,6 @@ tags:
 - politics
 title: 笔杆子胜过枪杆子：梁启超在东京的思想革命
 ---
-
 ### 从“中国时间”到“世界时间”
 
 中国的纪年方式，普通人使用农历，而政治上则使用皇帝的年号。所以，中国的世界其实是一个没有“世界”概念的世界。因为新皇帝登基后，一切又重新开始，又是元年。这与我们今天使用的公元纪年法——“世界世界”——完全不同。

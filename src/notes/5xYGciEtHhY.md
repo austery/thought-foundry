@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Apple
@@ -27,10 +27,7 @@ people:
 products_models:
 - iPhone
 - iPod
-project:
-- china-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5xYGciEtHhY
 speaker: TVO Today
@@ -44,7 +41,6 @@ tags:
 - supply-chain
 title: 苹果与中国：全球供应链的塑造者与加拿大工业政策的困境
 ---
-
 ### 苹果与中国：全球供应链的崛起与影响
 
 如果你没有iPhone，你很可能认识拥有它的人，甚至可能是很多人。据估计，全球有超过15亿部iPhone处于活跃状态。那么，苹果是如何成为智能手机市场主要参与者之一的呢？

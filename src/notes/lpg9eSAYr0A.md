@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - SEC
@@ -34,10 +34,7 @@ products_models:
 - H100
 - Obamacare
 - Grok
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lpg9eSAYr0A
 speaker: All-In Podcast
@@ -51,7 +48,6 @@ tags:
 - reform
 title: Michael Burry做空AI与Palantir，美国住房危机与H-1B签证改革辩论
 ---
-
 ### Michael Burry的AI与Palantir空头及媒体素养
 
 **Jason:** 大家好，Chamath和Friedberg都在。但Sacksy Poo昨晚在白宫待到很晚，今天来不了了，我们稍后会展示一些照片。不过，我们还是开始吧，我们想为你们准备一期节目，并及时在周末前呈现。我们先从Michael Burry和他的空头头寸说起。你们都知道Michael Burry，他是电影《**大空头**》（The Big Short: 一部讲述2008年金融危机前少数人预见并做空市场的电影）中的资本配置者，他刚刚撤销了在**SEC**（Securities and Exchange Commission: 美国证券交易委员会）的注册。他针对人工智能和Palantir进行了大笔押注。几周前，他披露了对Palantir的空头头寸，虽然规模不大。CNBC报道称其价值约为9亿美元，但Burry表示CNBC错了，实际只有900万美元。他提出了一个非常有趣的指控，这与我们节目中一直在讨论的关于建设的问题有关。

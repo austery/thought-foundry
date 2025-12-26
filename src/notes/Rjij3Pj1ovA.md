@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 滴滴
@@ -23,10 +23,7 @@ people:
 - Donald Trump
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Rjij3Pj1ovA
 speaker: 老周横眉
@@ -42,7 +39,6 @@ tags:
 - wealth
 title: 财富海啸下的新加坡：中国富豪涌入的机遇与挑战
 ---
-
 ### 全球反移民浪潮下的新加坡独特现象
 
 近年来，全球范围内掀起了一股反移民浪潮，从欧洲到美国，从澳大利亚到日本，右翼思潮抬头，各地都在抗议国家引入过多移民。例如，**唐纳德·特朗普**（Donald Trump: 美国前总统）当选的一个重要原因，就是右派选民对美国过于宽松的移民政策感到不满。通常，在反对移民的思潮中，“移民”一词往往与那些落后国家的民众或非法移民联系在一起。人们担心这些人会抢走当地人的工作，也害怕他们会带来更高的犯罪率，并增加政府的财政支出和负担。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - a16z
@@ -28,10 +28,7 @@ products_models:
 - CAR-T
 - CRISPR
 - GLP-1
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=M7eXyc8GLSo
 speaker: a16z
@@ -45,7 +42,6 @@ tags:
 - research
 title: 生物科技的残酷真相：为何每款新药20亿美元的成本正在扼杀创新
 ---
-
 ### 生物科技行业的现状：冰火两重天
 
 欢迎来到 a16z 播客。今天我们来探讨生物科技的方方面面，首先快速审视一下 2025 年生物科技行业的现状。你们如何看待今天这个行业的状况？科学层面又处于什么状态？

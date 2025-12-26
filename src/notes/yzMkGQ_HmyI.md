@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Amazon
@@ -21,10 +21,7 @@ people:
 - Jerome Powell
 - Joe Biden
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yzMkGQ_HmyI
 speaker: Shanghao Jin
@@ -38,7 +35,6 @@ tags:
 - us-tariff
 title: 2025年8月市场展望：AI驱动增长、经济数据调整与美联储降息前景
 ---
-
 ### 市场回顾与AI驱动的科技巨头业绩
 
 上一周我们没有深入探讨市场情况，而是进行了一次问答环节。未来我可能会每月进行一次问答，因为宏观市场并非每周都会有巨大的变化。上周有两方面内容特别重要。首先是**大规模公司财报**（earnings）。虽然这里没有贴图，但大型公司的财报传递了一个明确的信息：它们持续投资并获得收益，然后进行更大规模的投资。这种我们称之为**正向循环**（positive feedback loop）的模式并未被打断。

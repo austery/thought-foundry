@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中共
@@ -15,10 +15,7 @@ people:
 - Xi Jinping
 - 孟晚舟
 products_models: '[]'
-project:
-- china-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XodFsOd9Aa4
 speaker: 夸克说
@@ -33,7 +30,6 @@ tags:
 - system
 title: 中国男性之困：从猝死个案看等级社会的重压与性别对立
 ---
-
 ### 中国男性的多重困境：从一则讣闻说起
 
 大家好，欢迎收看夸克说，我是夸克。本期节目我们将探讨一个可能引起许多人共鸣的话题：中国男性为何如此疲惫？在此需要提前声明，讨论中国男性的困境并非暗示女性不累，只是本期节目聚焦于男性。如果大家对女性的困境感兴趣，也欢迎在评论区留言，我们改日可以单独制作一期节目。

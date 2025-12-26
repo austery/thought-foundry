@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2022-06-28'
 draft: true
@@ -12,10 +12,7 @@ people:
 - Hobbes
 - Rousseau
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b7AgojHiIhE
 speaker: 超級歪 SuperY
@@ -29,7 +26,6 @@ tags:
 - system
 title: 人性的本质：善良还是自私？《人慈》揭示人类本性与文明的真相
 ---
-
 ### 人性善恶的古老辩论
 
 人类本性究竟是善是恶？这是一个古老的辩论，至今没有被普遍接受的答案。然而，**鲁特格尔·布雷格曼**（Rutger Bregman: 荷兰历史学家）所著的《人慈》一书，通过丰富的历史、人类学和心理学证据，颠覆了我们对人性的传统看法。作者认为，关于人性善恶的辩论本身就是错误的，因为人性的发展取决于我们相信何种人性。

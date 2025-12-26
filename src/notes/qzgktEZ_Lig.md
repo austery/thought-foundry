@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-09-18'
@@ -12,8 +12,7 @@ media_books:
 people:
 - elizabeth-holmes
 products_models: []
-project:
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qzgktEZ_Lig
 speaker: 北美王路飞
@@ -25,7 +24,6 @@ tags:
 - startup-culture
 title: 《坏血》揭秘：伊丽莎白·霍尔姆斯与Theranos谎言帝国的崛起
 ---
-
 ### 引言：硅谷神话的破灭
 
 伊丽莎白·霍尔姆斯（Elizabeth Holmes）曾是震惊硅谷乃至全世界的传奇人物。她以其独特的造型（常模仿史蒂夫·乔布斯，穿着黑色高领毛衣）、美女学霸的形象、19岁斯坦福大学辍学创业的经历，以及“颠覆血液检测行业的天才”标签而闻名。她创立的**Theranos**（一家曾估值高达90亿美元的血液检测公司）一度让她成为全球最年轻的白手起家亿万富翁。然而，这个看似冉冉升起的科技巨星最终轰然倒塌，从一个价值90亿美元的**独角兽**（Unicorn: 指估值达到10亿美元以上的未上市公司）变成了一个价值归零的惊天骗局，霍尔姆斯本人也因此锒铛入狱。

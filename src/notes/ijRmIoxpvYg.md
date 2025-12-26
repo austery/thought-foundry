@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - SpaceX
@@ -25,9 +25,7 @@ products_models:
 - Falcon 9
 - Starlink
 - Apollo
-project:
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ijRmIoxpvYg
 speaker: 海伦子Hellen
@@ -42,7 +40,6 @@ tags:
 - technology
 title: 北极星黎明：SpaceX商业太空探索的新里程碑与挑战
 ---
-
 ### 商业太空任务的变迁：从dearMoon到北极星黎明
 
 我个人最期待的太空任务原本有两个，其中之一就是今天要深入探讨的北极星计划。另一个是前泽友作（Yusaku Maezawa）的dearMoon绕月飞行项目，但大约两个月前，前泽友作已在X（前身为Twitter）上证实dearMoon计划已取消。官方给出的理由是星舰（Starship）的研发进程过于缓慢，未能按时间表进行。该项目原本预计在2023年下半年即可抵达月球轨道，但按目前状况来看，可能还需要一两年甚至更久。前泽友作认为这打乱了他本人及其他八位同行人员的生活计划。毕竟，乘坐火箭前往太空需要一段不短的培训时间，即使星舰的自动化程度再高，宇航员也需要在外太空停留三天，至少需要具备基本的太空常识和应对紧急情况的能力。

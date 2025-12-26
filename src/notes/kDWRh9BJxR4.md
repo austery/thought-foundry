@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Meta
@@ -24,10 +24,7 @@ people:
 - René Descartes
 - Immanuel Kant
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kDWRh9BJxR4
 speaker: 超級歪 SuperY
@@ -41,7 +38,6 @@ tags:
 - technology
 title: 台湾社会两极化：情绪政治的挑战与法国哲学教育的启示
 ---
-
 ### 台湾社会两极化：情绪政治的挑战
 
 近一年来，人们普遍感受到言论自由空间日益受限，一旦发表意见便可能立即遭受网络攻击，导致许多网红和公众人物在网络上不敢发声，甚至有受害者因网络暴力而出现抑郁及心理问题。台湾社会的内耗和舆论两极化现象，正逐渐步入美国社会的后尘。如果未来持续恶化，势必会危及台湾的民主运作。本文将从社会科学、哲学和历史三个角度出发，探讨当今的两极化社会。

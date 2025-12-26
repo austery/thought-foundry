@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-08-24'
 draft: true
@@ -15,10 +15,7 @@ people:
 - Carl Jung
 - Leo Tolstoy
 - Rui
-project:
-- cultural-critique
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d8fdoARbYSc
 speaker: 超級歪 SuperY
@@ -32,7 +29,6 @@ tags:
 - social
 title: 《鬼灭之刃：无限城篇》的人性论哲学：从历史、心理到互助与无我
 ---
-
 ### “鬼”的象征意义：从历史到哲学
 
 今天，我们将深入分析电影《鬼灭之刃：无限城篇》。

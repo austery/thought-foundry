@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 date: '2025-12-09'
 draft: true
@@ -8,9 +8,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Game of Thrones
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=STUwbUCEtUw
 speaker: TED
@@ -23,7 +21,6 @@ tags:
 - remote-monitoring
 title: AI设备如何实时保护自然：SPARROW的创新与实践
 ---
-
 ### 挑战重重的自然保护工作
 
 让我向大家介绍安德烈斯·罗哈斯。每隔几周，安德烈斯都会深入哥伦比亚雨林徒步，穿过泥泞和成群的蚊子。这并非为了冒险，更不是为了乐趣，而是为了完成他的工作。他需要更换**红外相机**（camera traps: 自动拍摄野生动物的设备）和**生物声学设备**（bioacoustic devices: 记录生物声音的设备）的电池和存储卡。这正是当今**保护科学**（conservation science: 旨在保护生物多样性和生态系统的科学领域）的关键基础设施。像安德烈斯这样的人是英雄，正是由于他们的努力，许多物种才得以从灭绝的边缘被拯救回来。

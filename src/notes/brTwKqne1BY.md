@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OECD
@@ -18,10 +18,7 @@ media_books:
 - 《经济增长的终结：人口下降的意外后果》
 products_models:
 - Deepseek
-project:
-- china-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=brTwKqne1BY
 speaker: 老周横眉
@@ -35,7 +32,6 @@ tags:
 - society
 title: AI能否拯救东亚人口危机？深度老龄化与技术革命下的社会经济挑战
 ---
-
 ### AI与东亚人口危机的交汇
 
 上期视频曾探讨中日韩台在未来25年内将面临的极其严峻的人口危机。预计到2050年，中日韩台65岁及以上的老人比例将达到30%至40%，这是**OECD**（经济合作与发展组织：由38个市场经济国家组成的政府间国际经济组织）对超级老龄社会定义的3倍。中国80岁以上的老人也将在未来30年内翻4倍，届时每10个人当中就有一个超过80岁。在没有战争、饥荒和瘟疫的情况下，这样级别的人口崩溃在人类历史上是前所未有的，也必然带来一系列严重的经济和社会问题。人口自愿性的断崖式下跌是一张单程车票，有去无回，无可逆转。

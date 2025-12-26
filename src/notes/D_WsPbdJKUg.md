@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -13,8 +13,7 @@ people:
 products_models:
 - GPT-4
 - AlphaZero
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D_WsPbdJKUg
 speaker: Dwarkesh Patel
@@ -27,7 +26,6 @@ tags:
 - research-automation
 title: What a GPT-7 Intelligence Explosion Looks Like | Carl Shulman
 ---
-
 ### AI研究的现状与人类审计
 
 在这个极其令人担忧的晚期阶段，当**AI**（Artificial Intelligence: 人工智能）已真正实现研究自动化时，人类承担起审计的职能，增加**AI**合谋、入侵服务器、接管流程并提取信息的难度。这在可验证的实验范围内进行，例如，我们可以看到某个实验能有效阻止AI绕过人类审查员。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Goldman Sachs
@@ -18,10 +18,7 @@ media_books:
 products_models:
 - Instagram
 - Tesla
-project:
-- systems-thinking
-- entrepreneurship
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7dlSHENocI8
 speaker: 北美王路飞
@@ -35,7 +32,6 @@ tags:
 - platform
 title: 彩虹帝国下的铁王座：两个直男如何“榨干”全球最大的同志社交应用Grindr
 ---
-
 ### 狂欢背后的阴影：Grindr的“欲望舞会”与缺席的国王
 
 如果在这个星球上有一个地方能让你感到彻底的释放，那大概就是2015年万圣节前夕的纽约。**Grindr**（全球最大的同志社交应用）在切尔西区举办了它的第二届年度盛会——“欲望舞会 Pleasure Ball”。邀请函上印着一句极具挑逗又充满野性的话：“大自然是弯的，而且它饿了。”现场是一场视觉的盛宴，空气里弥漫着荷尔蒙的味道，到处都是打扮成性感精灵、神兽的年轻人。这里有纽约顶级的广告高管，有拥有百万粉丝的网红，当然了，还有这晚的焦点Grindr CEO George Arison。这位Arison先生当晚盛装出席，天鹅绒西装，胸前别着几枚极其抢眼的昆虫胸针，仿佛他是这片欲望花园的园丁。

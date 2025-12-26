@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - NVIDIA
@@ -21,10 +21,7 @@ media_books:
 products_models:
 - CUDA
 - TPU
-project:
-- us-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f8K-6Xrbo98
 speaker: Shijun Tang
@@ -38,7 +35,6 @@ tags:
 - network-effect-advantage
 title: 英伟达(NVDA)的垄断护城河：AI时代真正的复利机器？
 ---
-
 ### 英伟达的崛起：从显卡公司到AI时代霸主
 
 今天这期我们来谈谈美股英伟达，股票代码NVDA。英伟达在过去的三年里，股价已上涨1862.36%，相当于翻了近19.5倍。如今，它以6.39万亿美元的市值成为全球最大的公司，远超其他科技巨头。那么，它的增长是可持续的复利奇迹，还是已经高估、终将回归均值？我们从其最新财报、业务结构、竞争格局和护城河等多个维度，逐一拆解。

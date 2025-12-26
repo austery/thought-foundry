@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -18,10 +18,7 @@ people:
 - Lyndon B. Johnson
 products_models:
 - '[]'
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GNVOX7hazSM
 speaker: 徒步的騎手
@@ -34,7 +31,6 @@ tags:
 - technology
 title: 美国最高法院9:0判决：逆向歧视、法律面前人人平等及身份政治的转向
 ---
-
 ### 引言：最高法院的里程碑式判决
 
 近期，美国最高法院做出六项判决，其中有五项是9:0的一致判决，这出乎大部分人的意料。这些判决涉及到同性恋职场歧视、枪支等敏感问题。通常，最高法院九名大法官（包括保守派和自由派）在这些问题上分歧较大，判决结果多为5:4或6:3。然而，此次一天之内出现五个9:0的判决，意味着在某些敏感问题上，大法官们可能正在形成新的共识。其中，对普通美国人生活影响最重大的是一个涉及到职场**逆向歧视**（reverse discrimination: 少数群体歧视主流群体）的判决。这个判决表面上只是一场职场晋升纠纷，但背后却反映出美国社会几十年来关于平等、歧视以及**多元、公平与包容**（Diversity, Equity, and Inclusion, 简称DEI: 旨在促进社会和组织内部多样性、公平性和包容性的政策和实践）的认知正在悄然发生变化。9:0的一致判决更可能意味着在平等、歧视和DEI等问题上，自由派法官正在悄然转向。

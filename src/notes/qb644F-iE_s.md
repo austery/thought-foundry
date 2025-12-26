@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - TSMC
@@ -36,9 +36,7 @@ people:
 - Joe Biden
 products_models:
 - H100
-project:
-- ai-impact-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qb644F-iE_s
 speaker: Dwarkesh Patel
@@ -52,7 +50,6 @@ tags:
 - us-china-relations
 title: 中国制造业主导地位的深层原因与中美关系展望
 ---
-
 今天，我采访了**Gavekal Dragonomics**（一家专注于中国研究的咨询公司）的创始人**Arthur Kroeber**，他也是**《中国的经济：每个人都需要知道什么》**（China’s Economy: What Everyone Needs to Know）一书的作者。我在中国时，一位朋友向我推荐了这本书，它成为了我理解中国运作方式最有价值和最有用的资源。**Arthur**，感谢您来到播客并抽出时间与我交流。很高兴来到这里，谢谢。
 
 ### 中国经济崛起的问题

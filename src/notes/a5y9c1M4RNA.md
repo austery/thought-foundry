@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -21,9 +21,7 @@ people:
 products_models:
 - Obamacare
 - HBO Max
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a5y9c1M4RNA
 speaker: New York Times Podcasts
@@ -37,7 +35,6 @@ tags:
 - social
 title: 美国总统权力之争、医保补贴困境、在线赌场兴起与伊朗社会变革
 ---
-
 ### 美国总统权力之争：最高法院将审理关键案件
 
 来自《纽约时报》的头条新闻。我是Will Jarvis，代班Tracy Mumford。今天是12月8日星期一。以下是今天早晨我们将报道的内容。

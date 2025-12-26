@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Rocket Lab
@@ -23,10 +23,7 @@ people:
 products_models:
 - Neutron
 - Electron
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pjzRJ-CczuQ
 speaker: Money or Life 美股频道
@@ -41,7 +38,6 @@ tags:
 - stock
 title: RKLB火箭实验室财报分析：中子火箭推迟为何股价仍暴涨？CoreWave财报与投资观点不变
 ---
-
 ### 两大公司财报速览：RKLB与CRWV
 
 大家好，欢迎来到Money or Life美股频道。本期视频将重点关注两家公司——RKLB**火箭实验室**（Rocket Lab）和**CoreWave**（CRWV）——最新发布的三份财报。目前，本人对这两家公司均持有仓位，特别是对火箭实验室关注已久，且持仓较重。接下来，我将为大家总结财报的重点信息，并分享财报发布后我的投资观点是否有所变化。如果你喜欢我的分享，请订阅Money or Life美股频道，这是对我视频创作的最大支持，感谢大家。

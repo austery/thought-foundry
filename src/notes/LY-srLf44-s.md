@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 同盟会
@@ -35,9 +35,7 @@ people:
 - 严复
 - 陈其美
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LY-srLf44-s
 speaker: 东京人文论坛
@@ -50,7 +48,6 @@ tags:
 - nation-building
 title: 在东京重造中国：1895-1925年间的革命、思想与人物
 ---
-
 ### 从个人体验到历史命题：为何是东京？
 
 我们现在正式开始今天的主题：在东京重造中国。

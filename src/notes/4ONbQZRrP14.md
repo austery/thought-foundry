@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: technology
 companies_orgs:
 - ASML
@@ -16,10 +16,7 @@ media_books:
 - QS World University Rankings 2022
 - Where to Run
 products_models: []
-project:
-- ai-impact-analysis
-- market-cycles
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4ONbQZRrP14
 speaker: TechButMakeItReal
@@ -33,7 +30,6 @@ tags:
 - work-life-balance
 title: 荷兰如何规避全球科技裁员潮：韧性与挑战并存的科技市场
 ---
-
 ### 荷兰科技市场：逆势而上的独特韧性
 
 当美国、加拿大、德国和瑞士的科技巨头通过大规模裁员重创人才，并努力应对疫情余波时，一个欧洲市场却悄然抵制了这种混乱，并采取了不同的做法——那就是荷兰。它并非戏剧性地更好，只是有所不同。

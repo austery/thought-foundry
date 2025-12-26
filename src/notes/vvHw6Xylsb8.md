@@ -26,10 +26,7 @@ people:
 - Elon Musk
 products_models:
 - H200
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vvHw6Xylsb8
 speaker: 视野环球财经
@@ -43,7 +40,6 @@ tags:
 - us-stock-market
 title: 美股市场前瞻：甲骨文财报、英伟达出口政策与宏观经济展望
 ---
-
 ### 市场概览与宏观经济数据
 
 大家好，欢迎回到视野环球财经，我是Reno。现在是美东时间25年12月9号周二晚上的7点35分。今天市场整体呈现**缩量交投**（Volume Contraction Trading: 指市场交易量减少，投资者情绪谨慎）的态势，交投平淡。罗素指数的表现相对不错，盘中还打出了一个高点。市场目前正等待明天美联储的议息会议，以及明天盘后甲骨文的财报。预计甲骨文财报的波动会比较大，可能对纳指起到新高推动或者砸盘跳水的作用，我们稍后会详细讲解。

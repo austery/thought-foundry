@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: null
@@ -14,8 +14,7 @@ people:
 - Jay
 - Vincent
 products_models: []
-project:
-- vibe-coding
+project: []
 series: null
 source: null
 speaker: ''
@@ -25,7 +24,6 @@ tags:
 - vibe-coding
 title: AI Vibe Coding 社区讨论会纪要0705
 ---
-
 ## 开场与社区未来展望
 
 **Dusing:** Amy，我邀请你了。Hello，好久不见，三个月没见到你了。

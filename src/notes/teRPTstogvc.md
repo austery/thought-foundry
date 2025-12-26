@@ -17,10 +17,7 @@ media_books:
 people:
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=teRPTstogvc
 speaker: FearNation 世界苦茶
@@ -33,7 +30,6 @@ tags:
 - relations
 title: BBC公信力危机：特朗普演讲剪辑风波与媒体信任的瓦解
 ---
-
 ### 特朗普演讲争议与BBC的剪辑选择
 
 今天我们将探讨一个非常敏感但又极其重要的话题：2021年1月6日发生的**美国国会山庄事件**（Capitol Hill Incident: 指2021年1月6日美国前总统特朗普支持者冲击国会大厦的事件）。那一天无疑是美国现代史上一个黑暗的注脚，事件过后，几乎所有人都把矛头指向了当时的美国总统唐纳德·川普。所有指控的核心都围绕着一个问题：川普在那天中午对支持者发表的演说，到底算不算是**煽动叛乱**（Incitement to Insurrection: 指通过言论或行为直接煽动他人进行非法暴力或叛乱活动）？他是不是那个点燃火药筒的人？这个问题不仅在美国的法庭上被激烈辩论，在全世界的媒体上，在我们的饭桌上也引发了无数的争吵。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国共产党
@@ -32,10 +32,7 @@ people:
 - 麻生太郎
 - 小泉纯一郎
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NmrQtuJzz6Q
 speaker: 三個水槍手
@@ -47,7 +44,6 @@ tags:
 - politics
 title: 从高市早苗到蔡英文：解析中日台女性政治家的崛起密码
 ---
-
 ### 东亚政坛的女性新面孔
 
 近期，东亚政坛出现了两位引人注目的女性政治家。一位是刚刚组建自己内阁的日本首相高市早苗，另一位是当选台湾国民党第二位女性党主席的郑丽文。

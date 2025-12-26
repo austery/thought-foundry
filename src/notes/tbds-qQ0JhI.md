@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tbds-qQ0JhI
 speaker: 投资TALK君
@@ -25,7 +22,6 @@ tags:
 - us-stock-market
 title: 7月CPI数据透视与8月大非农前瞻：消费强劲，就业市场现异动
 ---
-
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且周日也要为大家做更新的专业美股日更频道，我是市场分析员小涛。今天内容非常的多，所以大家可以慢慢的听。
 
 首先，先对上一周市场的走势去做一个总结，包括二季度的财报，我们从FactSet数据去出发，也去做一个总结，聊一下市场的参与度，聊一下市场的估值。然后上上周五公布了**大非农数据**，在那组大非农数据里面的**失业率**，比起上一个月是出现了0.13%的上涨。那今天我想借由这个机会，我们对于**大非农数据**，对于**失业率**去做一个比较深入的解读。

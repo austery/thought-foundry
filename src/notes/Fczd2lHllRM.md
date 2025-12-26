@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - palantir
@@ -11,11 +11,7 @@ layout: post.njk
 people:
 - amit-kukreja
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Fczd2lHllRM
 speaker: Amit Kukreja
@@ -27,7 +23,6 @@ tags:
 - market
 title: Palantir评级上调、鲍威尔看涨及中美贸易紧张局势：市场一日回顾
 ---
-
 ### 每日回顾概览
 
 Hey everybody, welcome back to the channel. We are back with another episode of the daily recap, episode number two, after a five-month hiatus. I just want to thank everyone who showed support on episode number one yesterday. I'm super grateful and happy that a lot of people enjoy the format, and we're going to try to do it every single day, Monday through Thursday, for 15-20 minutes, to get all the news that's important for the stock market, so that it's an easy way to consume it for everybody.

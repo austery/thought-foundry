@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Kuomintang
@@ -23,10 +23,7 @@ people:
 - Ma Ying-jeou
 - He Weidong
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kdEtvYQjHso
 speaker: FearNation 世界苦茶
@@ -41,7 +38,6 @@ tags:
 - science
 title: 红统党主席郑立文当选：国民党路线大摇摆及其对台海局势的影响
 ---
-
 ### 国民党主席选举与郑立文的当选
 
 对台湾问题的关注是毋庸置疑的。此前，台湾政治经历了一次大的波折，即“大罢免”行动。在“大罢免”大失败之后，国民党的势力反而变得很强，且台湾社会对民进党和赖清德政府的支持率也在下降。因此，国民党看到了希望，期待能在2026年的**九合一选举**（台湾地方公职人员选举，包括县市长、县市议员等）和2028年的总统选举中，在三届之后重新执政。在此背景下，谁将成为国民党的新主席人选，便成为了各方关注的焦点。

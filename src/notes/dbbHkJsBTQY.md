@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - White House
@@ -38,10 +38,7 @@ products_models:
 - 理想Maga
 - DDR5
 - GB300
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dbbHkJsBTQY
 speaker: 小翠時政財經
@@ -56,7 +53,6 @@ tags:
 - us-china-relations
 title: 川习会后续：白宫披露中美贸易谈判新细节，AI投资周期与核能、机器人市场展望
 ---
-
 ### 中美贸易谈判新进展：白宫披露更多细节
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月3日，美国正式进入冬令时。今天我们将首先更新关于**川习会**（Trump-Xi Meeting: 指美国前总统唐纳德·特朗普与中国国家主席习近平之间的会晤）的后续信息，因为白宫又释放了一些此前未知的细节。接着，我们将讨论资本市场的情况。

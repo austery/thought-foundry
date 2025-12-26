@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -25,10 +25,7 @@ people:
 - Harry Truman
 - Recep Tayyip Erdoğan
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_7PwcfHPawQ
 speaker: 北美王路飞
@@ -42,7 +39,6 @@ tags:
 - us-monetary-policy
 title: 特朗普强行罢免美联储理事库克：一场挑战央行独立性的“金融政变”及其深远影响
 ---
-
 ### 特朗普罢免美联储理事：事件始末与库克身份揭秘
 
 近期，一则重磅新闻震惊全球：唐纳德·特朗普在社交媒体Twitter上发布公开信，宣布罢免**美联储**（Federal Reserve: 美国中央银行系统）理事丽莎·库克。库克博士并非苹果公司CEO蒂姆·库克，而是美联储历史上首位非洲裔女性理事，其任期本应持续到2038年。然而，在上任一年多后，她却被特朗普指控涉嫌**按揭欺诈**（Mortgage Fraud: 虚假陈述以骗取贷款的行为），成为美联储百年历史上首位被总统强行解职的在任理事。

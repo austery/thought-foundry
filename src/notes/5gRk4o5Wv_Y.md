@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times Book Review
@@ -22,9 +22,7 @@ media_books:
 people:
 - Gilbert Cruz
 - John D. Rockefeller
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5gRk4o5Wv_Y
 speaker: New York Times Podcasts
@@ -38,7 +36,6 @@ tags:
 - untold-story
 title: 埃德蒙·菲茨杰拉德号沉没50周年：一段未被讲述的悲剧与大湖区航运史诗
 ---
-
 ### 沉没50年：美国最著名的沉船事件
 
 **Gilbert:** 我是《**纽约时报书评**》（New York Times Book Review: 《纽约时报》的图书评论版块）的编辑吉尔伯特·克鲁兹，这里是书评播客。这可以说是美国历史上最著名的沉船事件。五十年前的这个月，即1975年11月10日，**SS埃德蒙·菲茨杰拉德号**（SS Edmund Fitzgerald: 一艘美国湖泊货轮，于1975年在苏必利尔湖沉没）在**苏必利尔湖**（Lake Superior: 北美五大湖中最大、最深的一个）沉没，船上所有人员全部遇难。

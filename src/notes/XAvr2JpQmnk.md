@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies:
 - psychobiotic
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 《肠子、大脑、肠道菌群》
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XAvr2JpQmnk
 speaker: 超級歪 SuperY
@@ -27,7 +25,6 @@ tags:
 - impact
 title: 肠道：人类的“第二大脑”如何主宰情绪、记忆与心智？
 ---
-
 ### 肠道：被忽视的“第二大脑”
 
 我们之前介绍过许多关于神经科学的影片，例如逆向思考、解锁大脑、社会天性等。这些神经科学的研究都聚焦于人类的大脑。然而，近年来，越来越多的研究发现，人类实际上拥有一个“**第二大脑**”（Second Brain: 指肠道，因为它拥有独立的神经系统并与大脑双向沟通），那就是肠道。我们普遍认为人类的情绪、记忆和压力都产生于大脑，但实际上，消化系统正不断向大脑传递大量信息。这些新发现颠覆了许多常识，人类本性的真相很可能不在大脑，而是在肠道这个“第二大脑”中。这里究竟隐藏着什么秘密？在今天的节目中，我们将介绍神经科学家埃默伦·迈耶（Emeran Mayer）的著作《肠子、大脑、肠道菌群》（Gut, Brain, Gut Microbiota），看看这个“第二大脑”是如何运作的。

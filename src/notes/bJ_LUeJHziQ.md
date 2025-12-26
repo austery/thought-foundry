@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - nvidia
@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bJ_LUeJHziQ
 speaker: Bloomberg Podcasts
@@ -27,7 +24,6 @@ tags:
 - market
 title: AI 市场的千亿级“循环融资”：OpenAI 与英伟达的深度绑定
 ---
-
 ### 什么是“循环融资”及其影响？
 
 Okay, Let's talk about this concept of

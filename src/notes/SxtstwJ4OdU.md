@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 美团
@@ -16,9 +16,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SxtstwJ4OdU
 speaker: 海淀拙大叔
@@ -32,7 +30,6 @@ tags:
 - medical
 title: 财富增长论：大钱靠等——消费行业高增长股的识别与选择
 ---
-
 ### 投资的“道”与“术”：赚大钱靠等
 
 “阿甘财富增长论”的第七篇指出，赚大钱靠的是“等”，这与之前提到的“赚大钱靠的是信仰”实则异曲同工。最好的投资策略是在底部时买入高确定性且能长期高增长的好公司，并长期持有。这并非一句废话，而是投资的根本之道。我们知道，投资分为“数”、“道”、“市”三个等级。最低级的“数”是看**K线**（K-line: 一种股票价格图表，用于显示价格走势）预测走势。

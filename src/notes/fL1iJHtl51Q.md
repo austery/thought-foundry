@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Cursor
@@ -9,9 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fL1iJHtl51Q
 speaker: AI Engineer
@@ -25,7 +23,6 @@ tags:
 - technology
 title: Cursor Composer：构建高效智能的AI编程代理模型
 ---
-
 ### Cursor Composer模型概述
 
 很高兴回到纽约，我非常激动能代表Cursor的所有工程和研究团队，在此谈论我们如何构建**Cursor Composer**（Cursor公司首个代理模型）。我的同事Sasha最近也做过类似演讲，所以我也很高兴能分享自己的看法。Cursor Composer是一个专为真实世界软件工程设计的模型，它力求兼顾速度与智能。

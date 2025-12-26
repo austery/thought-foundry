@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - LastPass
@@ -15,10 +15,7 @@ media_books:
 - Salyut 7 (movie)
 people:
 - Richard Feynman
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1VPfZ_XzisU
 speaker: veritasium
@@ -32,7 +29,6 @@ tags:
 - technology
 title: 旋转体的奇异行为：贾尼别科夫效应、网球拍定理与地球自转之谜
 ---
-
 ### 旋转体的奇异行为：贾尼别科夫效应
 
 你现在看到的就是著名的**贾尼别科夫效应**（Dzhanibekov effect），它也被称为**网球拍定理**（tennis racket theorem）或**中间轴定理**（intermediate axis theorem）。

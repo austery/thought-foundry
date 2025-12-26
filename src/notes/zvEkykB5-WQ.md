@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 路透社
@@ -29,11 +29,7 @@ people:
 - Vladimir Putin
 products_models:
 - Bitcoin
-project:
-- china-analysis
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zvEkykB5-WQ
 speaker: LT視界
@@ -47,7 +43,6 @@ tags:
 - us-china-relations
 title: 全球市场动荡、美中博弈与中国经济深层挑战
 ---
-
 ### 全球市场动荡：人工智能泡沫与流动性担忧
 
 今天，我们首先关注财经头条。路透社报道指出，“人工智能泡沫的担忧席卷全球”，导致“软银市值单周蒸发500亿美元”，科技股集体降温。过去一周，全球市场在没有激烈地缘政治冲突、贸易战激化迹象或糟糕宏观数据的情况下，仅仅因为对人工智能泡沫的担忧，就引发了股市的莫名大跌。这种悲观情绪迅速从美国市场蔓延至欧洲和亚洲。华尔街认为，这是自四月份以来最糟糕的一周。

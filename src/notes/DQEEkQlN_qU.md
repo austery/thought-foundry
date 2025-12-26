@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-08-21'
 draft: true
@@ -12,10 +12,7 @@ media_books:
 people:
 - 项飙
 products_models: []
-project:
-- cultural-critique
-- knowledge-pipeline
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DQEEkQlN_qU
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - technology
 title: 我是白：当发呆成为创作——无字漫画中的生活切片与存在之思
 ---
-
 ### 从漫画少年到社恐创作者
 
 大家下午好，我是一个漫画家、插画师，笔名叫“我是白”。今天我想分享的是，我是怎么开始画漫画的，以及这之后发生的一些事。

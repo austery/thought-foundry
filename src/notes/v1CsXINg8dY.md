@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: finance
 companies_orgs:
 - Apple
@@ -15,9 +15,7 @@ media_books:
 - X
 products_models:
 - Model 3
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v1CsXINg8dY
 speaker: 海伦子Hellen
@@ -31,7 +29,6 @@ tags:
 - strategy
 title: 投资套现的三个关键时机：见好就收与风险管理
 ---
-
 ### 投资套现：比买入更重要的决策
 
 在投资行为中，决定何时卖出比何时买入更为关键。因为投资的最终目的在于实际回报，这具体体现在你兜里有多少钱，而非账面数字有多好看。尤其在股票投资中，如果不卖出，股票的增值与你毫无关系。当然，反之亦然，股价下跌若不卖出，亏损也并未实际产生。本文将主要探讨两个问题：一是为何定时卖出股票套现至关重要；二是如何判断最佳卖出时机。

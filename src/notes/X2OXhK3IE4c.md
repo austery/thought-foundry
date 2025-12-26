@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - nvidia
@@ -10,9 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X2OXhK3IE4c
 speaker: Best Partners TV
@@ -22,7 +20,6 @@ tags:
 - financial
 title: OpenAI的算力神话：万亿帝国还是巨大泡沫？
 ---
-
 ### OpenAI的估值飙升与算力需求
 
 2024年，**OpenAI**（OpenAI: 一家人工智能研究和部署公司）的营收约为40亿美元，估值已达1570亿美元。到了2025年上半年，其收入达到43亿美元，市场对其全年营收预测为130亿美元，估值更是飙升至5000亿美元。尽管OpenAI尚未上市，但其估值已超越埃隆·马斯克的**SpaceX**（SpaceX: 埃隆·马斯克创立的太空探索技术公司），成为全球估值最高的未上市初创企业。

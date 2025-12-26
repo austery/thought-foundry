@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Alibaba
@@ -28,8 +28,7 @@ products_models:
 - Midjourney
 - Sora
 - ChatGPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hfiI8taHQcg
 speaker: 硅谷101
@@ -41,7 +40,6 @@ tags:
 - evolution
 title: 阿里千问与“AI Layer”崛起：一场重塑互联网的“操作系统”生态战
 ---
-
 ### AI 搅动互联网格局
 
 2025年11月中旬，**阿里**杭州总部格外忙碌。11月17日，**千问app**正式公测，首周下载量迅速突破了1000万。而在公测的23天之后，月活跃用户数突破了3000万。差不多一个月后，最新的**WAN 2.6**视频生成模型也上线了，支持更完整的叙事和多镜头自动切换。这些市场反馈预示着**AI**正成为搅动整个互联网格局的巨大变量，这是一场重构入口的战争。本视频将探讨**阿里**如何打响这场重塑互联网的操作系统生态战。

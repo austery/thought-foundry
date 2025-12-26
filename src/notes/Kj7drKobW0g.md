@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -12,8 +12,7 @@ layout: post.njk
 products_models:
 - GPT-5.1
 - ChatGPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Kj7drKobW0g
 speaker: AI超元域
@@ -28,7 +27,6 @@ tags:
 - performance
 title: GPT-5.1与Claude Sonnet 4.5终极对决：多维度性能深度测评
 ---
-
 ### GPT-5.1模型概述与测试范围
 
 OpenAI于今日凌晨发布了**GPT-5.1**（OpenAI最新大型语言模型）系列模型，用户可在ChatGPT中直接使用。该模型提供了“即时（Instant）”和“思考（Thinking）”两种模式供选择。我们曾尝试让GPT-5.1通过代码生成模拟**冒泡排序**（Bubble Sort: 一种简单的排序算法，通过重复遍历列表，比较相邻元素并交换位置，直到列表排序完成）的动画，以实现鸭子从小到大排序的效果。

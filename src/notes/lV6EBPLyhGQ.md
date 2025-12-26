@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -48,10 +48,7 @@ products_models:
 - Llama 4
 - Sora
 - Veo
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lV6EBPLyhGQ
 speaker: 硅谷101播客
@@ -66,7 +63,6 @@ tags:
 - supply-chain-bottleneck
 title: AI数据中心万亿基建潮：美国经济增长引擎与能源挑战
 ---
-
 ### AI大基建：美国GDP增长的新引擎
 
 欢迎收听硅谷101。最近，哈佛大学经济学家Jason Furman（杰森·弗曼）的一项研究数据引人深思。他指出，在2025年上半年，整个美国**GDP**（Gross Domestic Product: 国内生产总值，衡量一个国家经济活动的指标）的增长，几乎将全部来自于人工智能的基础设施建设。如果将信息技术和软件这一部分拿掉，那美国**GDP**的增长将仅仅只有0.1%。

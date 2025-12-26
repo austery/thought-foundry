@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -17,10 +17,7 @@ people:
 - John Taylor
 - Paul Volcker
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xvB3A9leAQ8
 speaker: Bloomberg Podcasts
@@ -34,7 +31,6 @@ tags:
 - taylor-rule
 title: 超越泰勒规则：央行信誉、通胀与货币政策的演变
 ---
-
 ### 杰克逊霍尔会议与经济政策讨论
 
 Tracy Aloway: 大家好，欢迎收听新一期的《Odd Lots》播客。我是特蕾西·阿洛韦。

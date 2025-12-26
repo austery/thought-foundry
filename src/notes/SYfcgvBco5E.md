@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-09-25'
 draft: true
@@ -7,10 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- historical-insights
-- us-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SYfcgvBco5E
 speaker: 徒步的騎手
@@ -23,7 +20,6 @@ tags:
 - history
 title: 从白人女孩到酋长之母：辛西娅·安·帕克与科曼奇部落的百年纠葛
 ---
-
 ### 德克萨斯平原上的科曼奇幽魂
 
 这些年，我几乎每年都会驾车穿越德克萨斯州。德州地域辽阔，从东到西、从南到北的距离都超过1200公里。当你驱车行驶在广袤的平原上，窗外的天空似乎永远没有尽头。如今，这片土地上是现代化的牧场和城镇，但在150多年前，这里是**科曼奇人**（Comanche: 历史上活动于美国大平原南部的印第安民族，以其精湛的马术和骁勇善战而闻名，被称为“平原之王”）的天下。

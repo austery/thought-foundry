@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - BMW
@@ -9,10 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GATuMWAFBUA
 speaker: veritasium
@@ -26,7 +23,6 @@ tags:
 - urban
 title: 电动汽车的未来：历史、技术突破与十大优势
 ---
-
 ### 电动汽车的兴衰：一段被遗忘的历史
 
 我受邀来到慕尼黑，由本视频的赞助商**宝马**（BMW: 德国豪华汽车品牌）公司邀请，旨在探究汽车的未来为何是电动化的。

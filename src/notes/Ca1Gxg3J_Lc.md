@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Nvidia
@@ -21,10 +21,7 @@ products_models:
 - GPT
 - ImageNet
 - AlexNet
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ca1Gxg3J_Lc
 speaker: Best Partners TV
@@ -41,7 +38,6 @@ tags:
 - power
 title: AI是产业革命还是泡沫？六位奠基人激辩AGI未来与AI发展之路
 ---
-
 今天，我们将回顾一场可能被载入AI发展史册的“神仙对话”。2025年，六位亲手塑造了现代AI世界的奠基人，因共同获得伊丽莎白女王工程奖而齐聚一堂。这六位人物，每一位单独拿出来，都是能撑起一个领域的顶流：**深度学习**（Deep Learning: 一种机器学习方法，通过模拟人脑神经网络的结构和功能来学习数据中的复杂模式）三巨头杰弗里·辛顿（Jeffrey Hinton）、杨立昆（Yann LeCun）、约书亚·本吉奥（Yoshua Bengio）；英伟达（Nvidia）的算力双引擎——CEO黄仁勋（Jensen Huang）和首席科学家比尔·达利（Bill Dally）；以及李飞飞（Fei-Fei Li）。
 
 在这场对谈中，他们不仅复盘了AI从无人问津到席卷全球的40年，还激烈辩论了一个核心问题：我们现在经历的是真实的产业革命，还是即将破裂的泡沫？更关键的是，关于**AGI**（Artificial General Intelligence: 通用人工智能，指机器拥有与人类相当甚至超越人类的智能水平，能执行任何智力任务）的时间线，他们给出了从5年到20年不等的预测，甚至有人认为这个问题本身就是错误的。

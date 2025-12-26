@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BBC
@@ -36,9 +36,7 @@ people:
 products_models:
 - 微信
 - YouTube
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bnezc1E6l_Y
 speaker: 三個水槍手
@@ -51,7 +49,6 @@ tags:
 - media
 title: 吴薇亲述：穿越中国媒体二十年兴衰，从《南华早报》到创办“大声”
 ---
-
 ### 开场：大声、朋友与奇遇
 
 吴薇：我叫吴薇，北京人，在甘肃兰州出生，在山东淄博待过几年，在北京待了足够长的时间。我花了二十多年，在中英文媒体都工作过，从一个实习新闻助理，一路干到一个国际媒体的语言组组长和十八线小干部。现在我在纽约做“大声”。“大声”的宗旨是“自由、体面、美”，我们是一个基于价值观的华文独立社群。我希望在我们这儿能做深度访谈，放大公共领域的故事、知识和探索。我一定是无审查的，希望能跟我的观众社群连接，并且好好地证明：人是可以在自由的状态下活得漂亮的。

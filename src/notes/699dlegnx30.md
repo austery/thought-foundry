@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -36,9 +36,7 @@ people:
 - Tom Lee
 products_models:
 - AIP
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=699dlegnx30
 speaker: Amit Kukreja
@@ -52,7 +50,6 @@ tags:
 - market
 title: Palantir股价突破200美元：高速增长下的估值迷思与未来展望
 ---
-
 ### Palantir Weekly 的演变：从每周更新到季度回顾
 
 Amit: 大家好，欢迎回到新一期的 Palantir Weekly。我们已经有一段时间没做这个节目了。Arie 今天来不了，我甚至不确定 Amir 是否能赶到。他说他会来，但他住在地球的另一端，考虑到时差，他可能真的来不了。

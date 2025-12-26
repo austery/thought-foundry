@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - YouTube
@@ -15,10 +15,7 @@ people:
 products_models:
 - Sora
 - iPhone
-project:
-- entrepreneurship
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 source: https://www.youtube.com/watch?v=Gb-riLR6III
 speaker: 用AI發電
 summary: 本期播客邀请了身兼文创主理人与内容创作者的 Ami，分享她从高压金融公关岗位裸辞，转型为一人公司的真实历程。Ami 深入探讨了 Gen Z “工作服务于我”的职場觀，以及如何利用
@@ -30,7 +27,6 @@ tags:
 - side-hustle
 title: 从高压公关到裸辞创业：Ami 的 Gen Z 职场哲学与 AI 赋能创作之路
 ---
-
 ### 嘉宾介绍与多重身份
 
 **张独行:** 哈囉大家，歡迎收聽用愛發電 Podcast。那這個節目呢，會用比較輕鬆的方式，帶你一起來看看我們怎麼使用 AI，AI 怎麼樣幫助我們，然後不同的領域怎麼樣把 AI 融入自己的日常生活。那我是主持人張獨行，我們今天的大來賓是 Ami。

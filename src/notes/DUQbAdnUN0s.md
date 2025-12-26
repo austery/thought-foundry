@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -10,8 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DUQbAdnUN0s
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -23,7 +22,6 @@ tags:
 - health
 title: 40岁后如何正确摄取蛋白质：种类、来源与抗老关键
 ---
-
 ### 蛋白质摄取：量与质同样关键
 
 谈到抗老，肌肉是其中非常关键且重要的一环。如果你摄取了30克的蛋白质，但**白胺酸**（Leucine: 一种必需胺基酸，对启动肌肉合成至关重要）的含量却不足，那么效果可能就不会那么显著。那么，到底需要摄取多少白胺酸呢？换算成食物，3克的白胺酸究竟是什么概念？

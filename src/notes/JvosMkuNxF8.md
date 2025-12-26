@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Stanford
@@ -11,9 +11,7 @@ layout: post.njk
 products_models:
 - GitHub Copilot
 - Cursor
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JvosMkuNxF8
 speaker: AI Engineer
@@ -27,7 +25,6 @@ tags:
 - software-engineering
 title: 如何量化AI在软件工程中的投资回报率？斯坦福研究揭示关键洞察
 ---
-
 ### AI在软件工程中的投资回报率：斯坦福研究的深度解析
 
 企业在软件工程的AI工具上投入了数百万美元。但我们真的知道这些工具在企业中的实际效果如何吗？还是说它们仅仅是炒作？为了回答这个问题，在过去两年里，我们一直在研究AI对软件工程生产力的影响。我们的研究是时间序列的，因为我们查看历史数据，这意味着我们可以回溯时间。同时，它也是横截面的，因为我们跨越了不同的公司。我们用来衡量大部分影响的方法是利用一个机器学习模型，该模型能够复制一个专家小组的评估结果。其工作原理是这样的：想象一下，一位软件工程师提交了一段代码（code commit）。这段代码提交会由10到15名独立专家的多个小组进行评估，他们会从实现时间、可维护性和复杂性等方面评估这段代码提交，然后生成一个评估结果。因此，我们收集了这些专家小组在数百万次评估中的标签，然后训练了一个模型来复制这个专家小组的功能。这意味着我们可以大规模部署这个模型，并且如果对模型的输出有任何疑问，你总可以组建自己的专家小组进行验证，你会发现它与现实情况有很好的相关性。

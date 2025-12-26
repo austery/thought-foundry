@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -31,10 +31,7 @@ people:
 - 李家超
 - 毛宁
 - Paul Krugman
-project:
-- china-analysis
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Dhb0CDnygVw
 speaker: LT視界
@@ -49,7 +46,6 @@ tags:
 - wolf-warrior-diplomacy
 title: 中国经济“日本化”警示：从AI芯片到地缘政治的全球变局
 ---
-
 ### 财经头条：AI芯片市场与英国增税计划
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月26日，我们首先来了解今天的财经头条，有两个方面的最新信息与网友分享。

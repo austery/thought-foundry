@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-05'
@@ -16,9 +16,7 @@ people:
 - Albert Einstein
 - Yuval Noah Harari
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xG6YniZh4KU
 speaker: 安争鸣（Stella An）
@@ -32,7 +30,6 @@ tags:
 - systemic-crisis
 title: 《复杂社会的崩溃》解读：洞悉国家兴衰的边际收益递减理论
 ---
-
 ### 引言：社会崩溃的普遍规律
 
 今天的节目将探讨一个引人深思的问题：我们所处的社会是否有一天会突然崩溃？历史并非简单重复，但其惊人的相似性已无数次上演。从古埃及到两河流域，从地中海到美洲大陆，无数城邦、帝国、王国和共和，如罗马帝国、玛雅文明、米诺斯文明等，都曾以相似的方式走向终结。在中国历史上，汉人建立的政权，尽管发展出复杂的社会结构和治理体系，平均寿命也仅在一两百年左右，最多三百年便会崩溃，退化为更简单、分散的社会，这便是我们常说的“合久必分”。

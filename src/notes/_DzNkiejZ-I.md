@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -22,9 +22,7 @@ products_models:
 - AI Studio
 - Colab
 - React
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_DzNkiejZ-I
 speaker: The MAD Podcast with Matt Turck
@@ -40,7 +38,6 @@ tags:
 - multimodal-ai
 title: Google DeepMind 负责人：用 Gemini 在几分钟内构建 AI 应用
 ---
-
 ### 欢迎与 Google DeepMind 的 AI 工具
 
 大家好，我叫 Paige。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: finance
 companies_orgs: []
 date: '2025-03-12'
@@ -12,9 +12,7 @@ media_books:
 people:
 - 宋晏仁
 - 张忠谋
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2qQ78AtcxcU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - retirement-planning
 title: 理財專家周行一：致富的真相與全人均衡理財法
 ---
-
 ### 引言：全人均衡理財的理念
 
 大家好，我是宋晏仁宋醫師，歡迎您來到初日會客室。今天我們要跟您談的題目，不同於我們以往的健康運動等健身題目。許多病人常常感到焦慮的地方，在於他們的財務出現狀況。因此，今天我們要跟大家來談一談這本書的作者，我的老朋友，周行一周教授。我們應該叫他周校長。我跟周校長認識的時間很長很長了，在聚會當中，周校長教我們這些不會賺錢、不懂理財的教授們，怎麼樣最簡單地賺錢。

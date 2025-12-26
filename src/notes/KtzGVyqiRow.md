@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Bloomberg
@@ -21,10 +21,7 @@ people:
 - Kale Brooks
 - Eric Adams
 - Andrew Cuomo
-project:
-- entrepreneurship
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KtzGVyqiRow
 speaker: Bloomberg Podcasts
@@ -39,7 +36,6 @@ tags:
 - restaurant-economics
 title: 在纽约市卖披萨：餐饮业的经济学与生存挑战
 ---
-
 ### 纽约披萨的悖论：饱和市场与创业勇气
 
 **Joe Weisenthal:** 大家好，欢迎收听OddLots播客的又一期节目。我是Joe Weisenthal。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - White House
@@ -23,9 +23,7 @@ people:
 - Bill Gates
 products_models:
 - Chat GPT
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MT4l_XrrRNc
 speaker: a16z
@@ -39,7 +37,6 @@ tags:
 - time-management
 title: 每个人都需要助理：为什么授权和杠杆是成功的关键
 ---
-
 ### 时间：终极资产与个人杠杆
 
 关于布莱恩·约翰逊（Brian Johnson）想要打破生物学的束缚，而我（嘉宾）想要打破时间的束缚。我们总能再筹集一轮资金或再做一笔交易，但我们无法再争取一个十年。

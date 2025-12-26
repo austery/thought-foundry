@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -41,10 +41,7 @@ products_models:
 - Grok
 - Megapack
 - iPhone
-project:
-- ai-impact-analysis
-- entrepreneurship
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=c4MyrUCEBgY
 speaker: 人民公園說AI
@@ -59,7 +56,6 @@ tags:
 - tesla-ai-strategy
 title: 特斯拉AI的未来豪赌：世界模拟器、擎天柱与马斯克的领导力挑战
 ---
-
 ### 特斯拉AI的惊人飞跃：一天学习人类500年驾驶经验
 
 如果特斯拉的AI一天之内就能学习人类500年的驾驶经验，你觉得离**通用人工智能**（AGI: Artificial General Intelligence，指能够理解或学习人类所能完成的任何智力任务的AI）还遥远吗？特斯拉目前所讲述的**端到端**（End-to-End: 指系统直接从原始输入到最终输出，中间不经过人工分模块处理）技术，是一个极致的总结。它能够在一秒之内处理高达20亿个**Token**（Token: 在自然语言处理中，指文本或数据被分割成的最小有意义单元），然后输出仅两个Token，实现了1亿倍的压缩。这两个Token主要控制两件事情：一是车辆的转向方向，二是车辆的加速程度。

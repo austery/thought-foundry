@@ -10,12 +10,7 @@ layout: post.njk
 people:
 - lt
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Lz0-tb8qe1s
 speaker: LT視界
@@ -28,7 +23,6 @@ tags:
 - us-china-relations
 title: 中美贸易战升级下的全球经济与地缘政治：加密货币震荡、中国房地产危机及言论管制
 ---
-
 ### 国际财经动态与加密货币市场震荡
 
 今天，国际货币基金组织（**International Monetary Fund, IMF**：负责促进全球货币合作、金融稳定、国际贸易、就业和可持续经济增长的国际组织）小幅上调了2025年全球经济增长预测，认为关税冲击和金融状况比预期温和，但警告美国总统特朗普威胁再次爆发美中贸易战可能会大幅减缓产出。IMF预测2025年全球实际**GDP**（Gross Domestic Product：国内生产总值，衡量一个国家或地区在一定时间内生产的所有最终商品和服务的市场价值的总和）增长率为3.2%，高于7月份预测的3.0%和4月份预测的2.8%。IMF首席经济学家古林沙斯评论称，情况没有担心的那么糟糕，但比一年前预期的和需要的都要糟糕。

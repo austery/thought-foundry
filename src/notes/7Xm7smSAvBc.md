@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国共产党
@@ -37,9 +37,7 @@ people:
 - 陈水扁
 - 雷震
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7Xm7smSAvBc
 speaker: 三個水槍手
@@ -52,7 +50,6 @@ tags:
 - war
 title: 蒋经国：从苏联人质到台湾民主推手，一位充满矛盾的历史人物
 ---
-
 ### 探讨蒋经国的当代意义
 
 对于正处在巨大历史转型进程中的中国人来说，了解蒋经国这位历史人物具有特殊的意义。通过研究历史文献资料，我们可以观察到，曾经处于相似地位的蒋经国，如何看待社会转型、如何面对反对党成立、如何处理党外运动等一系列复杂问题。这为我们提供了一个观察转型路径中领袖人物心态的独特视角。

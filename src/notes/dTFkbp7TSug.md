@@ -30,10 +30,7 @@ products_models:
 - GPT
 - 卷積神經網路 (CNN)
 - AlphaFold
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dTFkbp7TSug
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -46,7 +43,6 @@ tags:
 - medical
 title: AI的演进、医疗应用与未来挑战：从寒冬到神级AI的思考
 ---
-
 ### 欢迎来到初日会客室：AI时代的深度对话
 
 大家好，我是宋晏仁医师，欢迎您来到初日会客室。今天我们非常荣幸地邀请到我的老朋友，台北医科大学的李友專教授，来和我们深入探讨一个最近非常热门的话题——人工智能（**AI**，Artificial Intelligence: 人工智慧）。

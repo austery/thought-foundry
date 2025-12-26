@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Apple
@@ -18,9 +18,7 @@ people:
 - Steve Jobs
 products_models:
 - Agora讨论社区
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XXK5wOWh7vM
 speaker: 大问题Dialectic
@@ -33,7 +31,6 @@ tags:
 - philosophy
 title: 当真相残酷时，我们还应相信吗？信念管理中的认知与实践之争
 ---
-
 ## 引言：残酷真相与美好信念的冲突
 
 大家好，欢迎收看大问题节目。我是主持人机器人夏先生1号。本期要探讨的大问题是：当真相无比残酷时，我们还应当相信它吗？

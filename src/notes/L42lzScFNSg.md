@@ -19,8 +19,7 @@ draft: true
 series: ''
 category: politics-society
 area: society-thinking
-project:
-  - china-analysis
+project: []
 people:
   - 王肯
   - 罗宾·布鲁克斯

@@ -21,9 +21,7 @@ products_models:
 - Claude
 - Claude Code
 - Cursor
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MZZCW179nKM
 speaker: How I AI
@@ -38,7 +36,6 @@ tags:
 - skill
 title: 深入解析Claude Skills：如何创建可复用的AI工作流
 ---
-
 ### 欢迎与节目介绍
 
 欢迎回到“How I AI”节目。

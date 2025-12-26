@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2022-11-29'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0j-r8ZkIquw
 speaker: 一口新飯
@@ -23,7 +22,6 @@ title: 货币与汇率的千年演进：从银本位到金本位的历史透视
 companies:
 - bimetallism
 ---
-
 ### 汇率制度的困惑与历史溯源
 
 从小到大，最令人感到迷惑的经济概念便是**汇率**（Exchange Rate: 两种不同货币之间兑换的比率）。一年前，一张20美元无法兑换两张10欧元钞票，但随着今年美元升值，同样这张20美元却能兑换两张10欧元并略有剩余。这表明美元和欧元之间的汇率是浮动的。然而，为何有些国家的汇率浮动，而另一些国家则维持固定汇率？例如，在2021年取消之前，25分的古巴**CUC**（Cuban Convertible Peso: 古巴曾使用的一种可兑换货币）与美元保持1:1的固定汇率，即25古巴CUC等同于25美分。鉴于目前一美元可兑换七块多人民币，这意味着25分的古巴CUC的价值甚至高于一张一元人民币。

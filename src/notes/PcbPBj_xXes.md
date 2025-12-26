@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Stanford
@@ -10,10 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PcbPBj_xXes
 speaker: EO
@@ -28,7 +25,6 @@ tags:
 - llm
 title: 创业者与医生：聚焦核心，AI赋能医疗的未来
 ---
-
 ### 优先排序：创业者与医生的共同智慧
 
 斯坦福大学的毕业典礼是一个激动人心的时刻，它标志着医学院生涯的结束。

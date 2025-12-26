@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - OpenAI
@@ -60,10 +60,7 @@ products_models:
 - Grok
 - Stargate
 - Siri
-project:
-- us-analysis
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6uYEPfiBMAE
 speaker: All-In Podcast
@@ -77,7 +74,6 @@ tags:
 - regulation
 title: OpenAI 需要救助吗？探讨AI泡沫、市场风险与美国政治新动向
 ---
-
 ### OpenAI 财务状况引发市场震动
 
 **Jason Calacanis:** Brad Gerstner 来了，刚搞垮了股市、戳破了 AI 泡沫就加入了我们。干得好，Brad。我们稍后会深入聊聊。我们是不是该请求 OpenAI 在未来几个月内暂停任何公开声明或露面？

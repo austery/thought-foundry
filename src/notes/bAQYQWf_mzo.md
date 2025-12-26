@@ -10,9 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bAQYQWf_mzo
 speaker: 一口新飯
@@ -24,7 +22,6 @@ tags:
 - stock-market
 title: 2022年美股生存指南：我的极简投资组合与长期投资策略
 ---
-
 ### 重新审视投资：告别“抄底”思维
 
 我曾分享过2019年初至2020年底“抄底”特斯拉的经历。近期美股大跌，让我这个一年多未购入股票的人再次买入特斯拉。然而，这次我不想再使用“抄底”这个词。因为“**抄底**”（Buying the Dip: 指在股票或其他资产价格大幅下跌时买入，预期其价格将在短期内反弹的行为）一词本身就带有“**投机性**”（Speculative: 指以短期价格波动为主要关注点，而非资产内在价值的投资行为）和短期暗示。当我们使用它时，往往预设所“抄底”的股票会在短期内价格反转。更关键的是，它暗示了一种机械的投资方法。这种方法在过去两年**牛市**（Bull Market: 指市场总体趋势向上，股价持续上涨的时期）中看似有效，人人都在喊“buy the dip”。然而，我必须警告，在充满不确定性的2022年，这种方法很可能会让你陷入危机。

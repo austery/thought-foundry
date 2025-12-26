@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-11-18'
@@ -9,9 +9,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Cursor
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S4kd_ZG5DTQ
 speaker: AI超元域
@@ -25,7 +23,6 @@ tags:
 - software
 title: 告别传统编程：Lumi.new AI一键生成完整应用与游戏深度实战
 ---
-
 ### AI应用生成新范式：Lumi.new的崛起
 
 我们平时在使用像**Cursor**（一款AI编程工具）和**Boot**（另一款AI编程工具）这类AI编程工具来制作网站或应用时，经常需要反复迭代。例如，修改一个按钮的位置可能需要来回沟通三四次，增加一个表单功能又需要重新生成很多代码。一个简单的落地页可能需要花费很长时间才能调试好，而且越复杂的需求，所需的对话轮数就越多，有时改到最后连AI都理解不了我们到底想要做什么。最近发布的**Lumi**（一个AI应用生成平台）采用了一种不同的思路：它不是让你一行一行地修改代码，而是直接生成完整的网站、应用甚至是游戏。像前端页面、数据库、用户登录认证这些功能，它都内置好了。而且，Lumi处理**WebSocket**（一种在单个TCP连接上进行全双工通信的协议）多人项目的能力也比其他竞品要好很多。本期视频将用大约15分钟的时间，制作几个不同类型的应用，全程不写任何代码，看看Lumi到底能做到什么程度。最后会告诉大家哪些场景适用Lumi，哪些场景不适用。

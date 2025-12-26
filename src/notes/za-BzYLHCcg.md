@@ -11,10 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=za-BzYLHCcg
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-economy
 title: 关税、通胀与极度贪婪的市场：当前投资策略深度解析
 ---
-
 ### 开场与内容概述
 
 大家好，我是市场分析员小涛。今天我们将深入探讨一系列重要议题，包括美国前总统特朗普对美联储主席鲍威尔的持续言论、关税政策的量化影响分析，特别是彭博团队对此进行的详细研究，以及市场情绪面，尤其是CNN恐慌贪婪指数所揭示的“极度乐观”状态下我们应如何应对。

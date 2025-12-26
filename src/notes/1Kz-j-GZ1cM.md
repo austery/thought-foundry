@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-09-12'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1Kz-j-GZ1cM
 speaker: ZetaBook
@@ -23,7 +21,6 @@ tags:
 - taiwan-politics
 title: 柯文哲与格拉古：跨越两千年的政治素人悲歌
 ---
-
 ### 政治素人的跨时空共鸣
 
 医生出身的**政治素人**（Political Novice/Outsider: 指没有传统政治背景，首次进入政坛的人物）柯文哲在竞选台北市市长时曾表示：「台湾政治最大的问题就是**蓝绿恶斗**（Blue-Green Rivalry: 台湾政治中国民党（蓝营）与民进党（绿营）之间的长期对立和激烈竞争）」，他认为台湾不能继续分裂，需要一个重新开机的机会，摆脱蓝绿意识形态对立的泥沼。两千多年前，以平民代言人身份竞选罗马**保民官**（Tribune of the Plebs: 古罗马时期平民阶层的代表，拥有召集平民大会、通过议案和一票否决权）的提比略·格拉古（Tiberius Gracchus）也曾发表名言：「野兽尚且有它们的巢穴，而那些为罗马战斗和牺牲的士兵们，却连一片属于自己的土地都没有。」

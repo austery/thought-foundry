@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 央视
@@ -19,10 +19,7 @@ people:
 - 温家宝
 - 柴静
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eLsJGEMWvhs
 speaker: 柴静 Chai Jing
@@ -36,7 +33,6 @@ tags:
 - science
 title: 前明星检察官杨冰：我们之所以一路溃退，是因为过于恐惧
 ---
-
 ### 明星检察官的抉择：收留异见人士
 
 四年前，我在海外看到了《纽约时报》的一篇报道，其中提到中国著名的社会活动家**许志永**在厦门会议之后被追捕，并在广州的藏身处被拘留。我感到很意外，意外的不是许志永被逮捕，而是他是从广州杨冰的家中被带走的。我对杨冰这个名字最深刻的印象是，她是中国几乎最有名的明星检察官。2011年，我所在的央视《看见》栏目曾经分上下集报道过她的故事。她是当年的“中国年度正义人物”，而且广东省政法委书记曾经号召全省的**政法干警**（政法干警: 政治法律系统的干部和警察的统称）向她学习。

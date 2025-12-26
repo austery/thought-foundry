@@ -11,8 +11,7 @@ media_books:
 - bloomberg-podcasts
 people: []
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gOZnM5fFBJc
 speaker: Bloomberg Podcasts
@@ -24,7 +23,6 @@ tags:
 - global-economy
 title: 美联储政策、全球经济与Z世代就业：彭博访谈精华
 ---
-
 ### 对美联储政策的洞察
 
 Original English sentence(s) from the transcript.

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Meta
@@ -23,9 +23,7 @@ people:
 products_models:
 - Adderall
 - OxyContin
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NhbsY4WxD-s
 speaker: 记者易速利
@@ -39,7 +37,6 @@ tags:
 - legal
 title: 北大女生何如佳硅谷创业神话破灭：远程医疗公司Dunn Global涉嫌滥开Adderall，CEO面临20年刑期
 ---
-
 ### 硅谷远程医疗公司Dunn Global创始人何如佳被定罪
 
 旧金山联邦地区法院经过七周审理后，于11月18日裁定，硅谷初创公司**Dunn Global**（一家远程医疗服务公司）前CEO何如佳（Rujia He）及其前首席医生大卫·布罗迪（David Brody）有罪。罪名包括两项共谋欺诈药房、医保系统（Medicaid）及其他保险机构，以及四项分发受控药物。何如佳还被判两项妨碍司法的共谋罪名成立。法官将于2026年2月宣判，刑期最高可达20年。

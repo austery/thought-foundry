@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - 台积电
@@ -30,10 +30,7 @@ products_models:
 - CoWoS
 - DUV
 - EUV
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3DmLcNdmMmU
 speaker: 老科谈科技股
@@ -46,7 +43,6 @@ tags:
 - technology
 title: 深度解析台积电核心技术：晶圆代工竞争格局与未来挑战
 ---
-
 ### 芯片产业概览：台积电的定位与核心竞争力
 
 台积电作为近期备受关注的芯片股，同时拥有AI概念，其产品与技术复杂性较高，常使人难以清晰理解其具体业务和核心竞争力。本文旨在深入解析台积电的核心技术、解决方案及其在芯片行业的竞争优势。

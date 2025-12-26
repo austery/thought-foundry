@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -22,10 +22,7 @@ people:
 - Elon Musk
 - Jeff Bezos
 - Warren Buffett
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=emlHKw0Sgso
 speaker: New York Times Podcasts
@@ -39,7 +36,6 @@ tags:
 - military
 title: 美国政府停摆影响深远，阿拉斯加试行手机投票，新德里空气污染严峻，蓝色起源挑战SpaceX
 ---
-
 ### 政府停摆余波未了：经济损失与民生困境
 
 美国联邦政府已开始恢复运转，但即使雇员重返工作岗位，政府服务恢复在线，这场创纪录的停摆所带来的更广泛影响才刚刚显现。

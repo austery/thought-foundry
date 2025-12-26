@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - YouTube
@@ -22,10 +22,7 @@ people:
 - Donald Trump
 products_models:
 - '[]'
-project:
-- us-analysis
-- china-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ou4n2PhdABc
 speaker: 徒步的騎手
@@ -40,7 +37,6 @@ tags:
 - society
 title: 财务自由、心智成年与时代挑战：如何在历史的“垃圾时间”中活出自我
 ---
-
 ### 财务自由的真谛与财务安全感
 
 这个博客开播两个月以来，我希望结合听众的留言，讲几个小话题。前些年，我经常听到有人谈论**财务自由**（Financial Freedom: 指个人无需为生计工作，其被动收入足以支付生活开销的状态），认为它是人生追求的目标，有了财务自由，人生就潇洒了。然而，没有人知道究竟有多少钱才算财务自由。有些在网上教人如何赚钱的人说，怎么也要有几百万美元；也有人说，几百万美元还不够，怎么也得上千万、几千万。按这种说法，世界上没有多少人能做到财务自由。那些在网上教人如何通过赚钱实现财务自由的人，都有一个共同的特点，就是他们自己都需要钱，他们自己都还没有财务自由。

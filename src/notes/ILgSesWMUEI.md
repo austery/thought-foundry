@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - false-alarm
@@ -19,9 +19,7 @@ layout: post.njk
 people:
 - Stanislav Petrov
 - Boris Yeltsin
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ILgSesWMUEI
 speaker: veritasium
@@ -33,7 +31,6 @@ tags:
 - nuclear
 title: 人类如何多次险些因核武器意外自我毁灭
 ---
-
 ### 核武器：人类的多次“擦肩而过”
 
 自**核武器**（Nuclear Weapons: 利用核裂变或核聚变反应释放巨大能量的武器）问世以来，人类曾多次险些因意外而自我毁灭。本视频将讲述其中一些惊心动魄的时刻。

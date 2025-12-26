@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Etsy
@@ -19,9 +19,7 @@ people:
 - Kyra Blackwell
 - Rosie Garin
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Uq5teDMA5TA
 speaker: New York Times Podcasts
@@ -35,7 +33,6 @@ tags:
 - theory
 title: 梅尔·罗宾斯：如何运用“随他们去”理论，在假日季保持平静与理智
 ---
-
 ### 接受他人的意见与情绪
 
 让他们持有自己的观点。

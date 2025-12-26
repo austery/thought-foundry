@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -16,10 +16,7 @@ layout: post.njk
 media_books:
 - The Rundown
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1zEU57L3FY0
 speaker: TVO Today
@@ -33,7 +30,6 @@ tags:
 - talent
 title: 创新如何影响安大略省的产业未来？
 ---
-
 ### 产业政策的定义与重要性
 
 当你听到“**产业政策**”（Industrial Policy: 政府为引导经济发展、提升特定产业竞争力而制定的一系列措施）这个词时，你可能会觉得它像是一个行业术语，对吗？但实际上，它的含义远不止于此。

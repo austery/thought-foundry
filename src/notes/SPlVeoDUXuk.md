@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Google
@@ -23,9 +23,7 @@ people:
 products_models:
 - Gemini 2.5 Pro
 - Gemini CLI
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SPlVeoDUXuk
 speaker: Anthony看世界
@@ -40,7 +38,6 @@ tags:
 - social
 title: AI如何成为你的理想学术助手：测评两大模型阅读人文社科书籍的能力
 ---
-
 ### AI赋能学习与思考：人文社科阅读新范式
 
 大家好，我是Anthony。欢迎来到我的频道。今天的视频，我想继续和大家聊聊如何让AI更好地辅助我们学习和思考。在5月18日的视频中，我们探讨了AI在自我探索方面的潜力。当时我们提到，你可以通过与AI对话来写日记，分享你的情感和想法，这与传统的日记写作相比，可以说是一个巨大的突破。我们还可以要求AI阅读心理学或哲学书籍，并分析我们的经历。节目发布后，许多朋友希望我能分享更多关于如何利用AI学习的经验。所以今天，我们将主要讨论如何结合Python和AI，使其成为我们在阅读人文社科书籍时真正有用的助手。我们还将设计一套考试题目，测试目前两大主流AI——即**ChatGPT 5**（GPT-5: 一种大型语言模型）和**Gemini 2.5 Pro**（Gemini 2.5 Pro: 谷歌开发的多模态大型语言模型）——在阅读人文社科书籍时的能力差异。因此，大家关注Anthony的频道，不仅可以看到人文社科的观点和解读，还可以观看技术视频，甚至看到两者的结合，是不是非常值得和划算呢？好了，吹嘘的部分到此为止。我将把这个视频放在“心理学与教育”的列表中。如果你有任何想和我讨论的话题和咨询需求，可以通过我的邮箱预约。那么，让我们回到今天的话题。

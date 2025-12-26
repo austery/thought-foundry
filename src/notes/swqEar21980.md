@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -16,10 +16,7 @@ people:
 - Joe Weisenthal
 - Elon Musk
 - Matt Levine
-project:
-- us-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=swqEar21980
 speaker: Bloomberg Podcasts
@@ -33,7 +30,6 @@ tags:
 - society
 title: 特拉华州公司法面临挑战：埃隆·马斯克与“逐底竞争”
 ---
-
 ### 特拉华州：美国公司注册的“事实标准”
 
 **Tracy Alloway:** 你知道吗，特拉华州的人口大约只有105万，是美国人口最少的州之一，甚至比很多大城市的人口都少。然而，特拉华州却有210万家注册企业，基本上每两个人就有一家企业。

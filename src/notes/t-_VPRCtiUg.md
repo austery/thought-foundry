@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - BBC
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=t-_VPRCtiUg
 speaker: veritasium
@@ -24,7 +22,6 @@ tags:
 - system
 title: 同步的惊人秘密：从钟摆到心脏的秩序之谜
 ---
-
 ### 秩序的悖论：无序中的自发同步
 
 热力学第二定律（**Second law of thermodynamics**: 描述孤立系统熵值随时间变化的物理定律）告诉我们，宇宙中的一切都趋向于无序。

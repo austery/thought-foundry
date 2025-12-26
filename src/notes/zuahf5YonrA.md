@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 摩根大通
@@ -26,10 +26,7 @@ people:
 - 莫茨
 - 马云
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zuahf5YonrA
 speaker: LT視界
@@ -42,7 +39,6 @@ tags:
 - state
 title: 川普为何撕裂欧美？中共房市困局与中国经济的深层危机
 ---
-
 ### 川普为何撕裂欧美？颠覆性战略背后的真正动机
 
 美国国家安全战略报告突然将欧洲定位为“文明消亡”的威胁，引发全球震惊。这并非偶然的外交失误，而是一次精心策划的战略转向。华尔街日报指出，川普政府将矛头指向移民与文化问题，却刻意回避了欧洲真正的结构性危机——庞大的福利国家体系导致高税收、低创新与财政僵化。但真正揭开谜底的，是《经济学人》的深度分析：川普的目标并非“抛弃”欧洲，而是**重构欧洲政治生态**。

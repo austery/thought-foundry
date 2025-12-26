@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Microsoft
@@ -45,10 +45,7 @@ people:
 - Ben Thompson
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bBQhzsoJ0uM
 speaker: The Pragmatic Engineer
@@ -63,7 +60,6 @@ tags:
 - venture-capital
 title: Carta数据洞察：风险投资、人工智能与初创公司的现状
 ---
-
 ### 导语：VC 寒冬与 AI 崛起
 
 初创公司的招聘人数远比过去要少。2022 年 1 月，在 Carta 平台上的公司共招聘了 73,000 人。到了 2023 年 1 月，这个数字降至 40,000 人。2024 年 1 月，进一步降至 32,000 人。我预计到 2025 年 1 月，这个数字大概会在 20,000 人左右。我并不认为 AI 不会取代工作岗位，事实上，我认为它已经在这么做了。

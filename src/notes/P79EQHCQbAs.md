@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -17,10 +17,7 @@ people:
 - Nicola Tangan
 - Henry Kissinger
 - Magnus Carlsen
-project:
-- entrepreneurship
-- personal-growth-lab
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P79EQHCQbAs
 speaker: Norges Bank Investment Management
@@ -34,7 +31,6 @@ tags:
 - women-in-leadership
 title: 携程CEO孙洁：从个人旅程到全球旅游巨头的领导力与创新
 ---
-
 ### 携程CEO孙洁的个人旅程与职业选择
 
 大家好，我是**挪威主权财富基金**（Norwegian Sovereign Wealth Fund: 挪威政府设立的全球最大主权财富基金，投资于国际股票、固定收益、房地产和未上市的可再生能源基础设施）的首席执行官Nicola Tangan。

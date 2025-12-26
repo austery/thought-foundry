@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Starlink
@@ -29,10 +29,7 @@ products_models:
 - Tesla
 - iPhone
 - YouTube
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JeqF29f0UMc
 speaker: 莊也雜談
@@ -46,7 +43,6 @@ tags:
 - us-canada-trade-war
 title: 美加关税战升级：加拿大如何反击与民众自保指南
 ---
-
 ### 美加关税战：一场关乎尊严与生存的较量
 
 大家好，本期节目将探讨一个非常沉重的话题，即加拿大人民最不愿看到的美加关税大战，现已正式打响。这场冲突的持续时间尚不确定，但已预示着我们的生活可能陷入混乱。整个国家仿佛被卷入了一场突如其来的经济风暴，股市暴跌，加元摇摇欲坠。这不仅仅是一场贸易战，更是一场关乎国家尊严与生存的较量。面对此次关税暴击，加拿大从联邦到地方，从政客到平民，都掀起了反击浪潮。

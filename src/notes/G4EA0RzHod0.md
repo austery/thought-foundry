@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-06-29'
@@ -13,10 +13,7 @@ media_books:
 people:
 - Anthony
 products_models: []
-project:
-- china-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=G4EA0RzHod0
 speaker: Anthony看世界
@@ -30,7 +27,6 @@ tags:
 - management
 title: 维稳式教育扼杀中国年轻人：在不确定时代培养“心智资本”
 ---
-
 ### 引言：中国年轻人的迷茫与焦虑
 
 大家好，我是Anthony，欢迎来到我的频道。

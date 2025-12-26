@@ -17,9 +17,8 @@ insight: ''
 draft: true
 series: ''
 category: career-development
-area: tech-work
-project:
-  - ai-impact-analysis
+area: "work-career"
+project: []
 people:
   - Derek Muller
   - Dr. Benjamin Spock

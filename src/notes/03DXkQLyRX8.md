@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - PG&E
@@ -18,10 +18,7 @@ people:
 - Warren Buffett
 - Jensen Huang
 - Thomas Edison
-project:
-- us-analysis
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=03DXkQLyRX8
 speaker: Norges Bank Investment Management
@@ -36,7 +33,6 @@ tags:
 - transformation
 title: PG&E 首席执行官 Patricia Poppe：以爱领导，重建信任与能源未来
 ---
-
 ### 欢迎与 PG&E 的转型之旅
 
 大家好，我是**挪威主权财富基金**（Norges Bank Investment Management: 挪威政府养老基金全球）的首席执行官 Nicolai Tangen。今天，我们邀请到了 PG&E 的首席执行官 Patricia Poppe。

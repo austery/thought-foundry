@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - TVO Today
@@ -12,8 +12,7 @@ people:
 - John Michael McGrath
 - Mark Carney
 products_models: []
-project:
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Or9Iso_WQBU
 speaker: TVO Today
@@ -27,7 +26,6 @@ tags:
 - trade
 title: 联邦与安大略省预算：基础设施与经济增长计划是否一致？
 ---
-
 ### 联邦与安大略省的财政概览
 
 加拿大**联邦预算**（Federal Budget: 加拿大联邦政府的年度财政计划，包含收入、支出和赤字预测）的总支出为2800亿加元，赤字达783亿加元。而**安大略省秋季经济更新**（Ontario's Fall Economic Update: 安大略省政府在秋季发布的经济报告，提供对财政状况和经济前景的最新评估）的支出约为2350亿加元，**赤字**（Deficit: 财政支出超过收入的部分）为135亿加元。这些数字在电子表格上一目了然，但它们究竟意味着什么？它们能告诉我们政府的真正优先事项以及政府在安大略省议会（Queen's Park）的实际立场和自主权吗？

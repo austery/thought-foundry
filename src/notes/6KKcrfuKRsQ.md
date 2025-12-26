@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6KKcrfuKRsQ
 speaker: 投资TALK君
@@ -25,7 +23,6 @@ tags:
 - market-analysis
 title: 回顾25年市场：资产关系解析与未来布局展望
 ---
-
 ### 市场回顾与资产表现总结
 
 欢迎来到专业美股频道，我是市场分析员小陶。本周我们做到了全勤，虽然大家看到这期内容时已是4月26日周六，但过去一周我们依然非常勤快。今天，我们将借由过去一周的市场走势，回顾今年以来的整体表现，将所有资产串联起来，并对未来走势进行展望。回顾之后，我们将从数据出发，总结过去一周的财报季度，并分享市场参与度指标——20日均线和50日均线。

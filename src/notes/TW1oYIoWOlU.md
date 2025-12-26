@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs:
 - Nvidia
@@ -35,10 +35,7 @@ products_models:
 - S&P 500
 - Venmo
 - Cash App
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TW1oYIoWOlU
 speaker: New York Times Podcasts
@@ -53,7 +50,6 @@ tags:
 - market
 title: 英伟达盈利飙升引AI泡沫担忧，美国经济面临挑战，多项国际国内新闻速览
 ---
-
 ### 英伟达盈利飙升与AI泡沫担忧
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德（Tracy Mumford）。

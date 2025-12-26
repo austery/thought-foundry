@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 皮尤研究中心
@@ -13,10 +13,7 @@ media_books:
 - 《古兰经》
 - X平台
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Gj5IrxQo6oc
 speaker: 郭里有范
@@ -30,7 +27,6 @@ tags:
 - society
 title: 欧洲社会撕裂：从英国南港暴乱看移民与本土冲突的死亡螺旋
 ---
-
 ### 引言：欧洲社会撕裂的魔幻现实
 
 您现在看到的画面，左边是英国国王**查尔斯三世**（Charles III: 英国君主）正引用《古兰经》感谢穆斯林群体对英国社会做出的贡献，但屏幕的右边却是2024年夏天英国南港，极右翼示威者正在围攻清真寺。这就是这几年英国最魔幻的现实：上层依然在宏大叙事里号召大家手拉手唱“We are the world”，但在中下层，本地人觉得自己家的篱笆已经破了，安全没有了，福利被抢了，甚至连自己的传统文化都快成了一种政治不正确。

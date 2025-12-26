@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -29,10 +29,7 @@ products_models:
 - iPhone
 - GPT
 - CPU
-project:
-- systems-thinking
-- entrepreneurship
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EXhp_6USdZY
 speaker: 夸克说
@@ -46,7 +43,6 @@ tags:
 - theory
 title: 2025年诺贝尔经济学奖：创新、垄断与经济增长的深层逻辑
 ---
-
 ### 2025年诺贝尔经济学奖：人类经济增长之谜
 
 大家好，欢迎收看夸克说。我是夸克。本期节目我们将探讨今年的**诺贝尔经济学奖**（Nobel Prize in Economic Sciences: 瑞典皇家科学院颁发的经济学奖项），以及从中可以解读出的对包括中国在内的众多经济现象的解释。相信我，看完这期节目，尤其是后半部分的论述，有可能会颠覆一些你此前深信不疑的观念。废话不多说，我们马上开始。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - MSCI
@@ -15,10 +15,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8TX1_cYYhBo
 speaker: Shijun Tang
@@ -32,7 +29,6 @@ tags:
 - switching-cost
 title: 明晟（MSCI）：指数背后的印钞机，是否真的坚不可摧？
 ---
-
 ### 明晟（MSCI）的业务结构：指数才是真正的印钞机
 
 今天我们来谈一谈明晟（MSCI），这家被广泛称为“指数背后的印钞机”的公司，它是否真的名副其实？在深入分析之前，请允许我说明：本文不提供任何买卖建议，也不预测股价走势。我的目标是帮助你理解公司的基本面，从而做出更清醒的投资决策。

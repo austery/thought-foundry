@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - University of Pennsylvania
@@ -21,9 +21,7 @@ people:
 - Michael Jordan
 products_models:
 - ChatGPT
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=x3CSmiw-1z4
 speaker: Norges Bank Investment Management
@@ -37,7 +35,6 @@ tags:
 - overconfidence
 title: 提升投资决策：克服过度自信与确认偏误的实用策略
 ---
-
 ### 决策的障碍与克服之道
 
 大家下午好，很高兴能与各位相聚。

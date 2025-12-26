@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Oracle
@@ -23,8 +23,7 @@ media_books:
 - 《英国金融时报》
 - 《彭博社》
 - 《路透社》
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6zE5olxcDbI
 speaker: 视野环球财经
@@ -38,7 +37,6 @@ tags:
 - stock
 title: 美股：AI融资与芯片制造面临挑战，市场抛售与回购窗口关闭
 ---
-
 大家好，欢迎回到视野环球财经，我是Reno。现在是美东时间25年12月17号周三晚上的7点25分。今天的四大指数全天被抛售，除了道指跌幅较小之外，三大指数的跌幅全部超过1%。尤其是今天的科技股抛售非常糟糕，市场对逢低买入的兴趣不大。另外，我是今天上午才拿到新的**CTA数据**（Commodity Trading Advisors Data: 大宗商品交易顾问数据，用于衡量量化基金的市场仓位和动向）。本来打算收盘的时候和大家更新一下，结果今天的盘中其实已经触发了抛售加速的位置。等会儿会给大家拿出来看一下，包括对于后方的中期和更远期的抛售点位都有所上调。
 
 ### AI资本支出担忧引发市场动荡

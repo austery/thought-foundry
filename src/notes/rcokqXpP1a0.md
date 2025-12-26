@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -25,10 +25,7 @@ people:
 - Andy Jassy
 products_models:
 - Chrome
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rcokqXpP1a0
 speaker: Shijun Tang
@@ -42,7 +39,6 @@ tags:
 - model
 title: 谷歌、博通与奈飞：三巨头财报背后的资本逻辑与市场误判
 ---
-
 ### 谷歌：被低估的盈利机器
 
 谷歌终于在近期财报后扬眉吐气了一回。我持有谷歌股票已1121天，从未卖出。过去一段时间，它被市场无情打压：先是遭遇反垄断调查，被指控违反公平竞争；又在本应领先的AR领域屡屡受挫。其旗下的大语言模型（Large Language Model: 一种能理解并生成自然语言的人工智能系统）也被其他竞争对手“摁在地板上摩擦”，市场份额严重落后。

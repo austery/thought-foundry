@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -19,10 +19,7 @@ media_books:
 people:
 - Nicolai Tangen
 - Brad Pitt
-project:
-- systems-thinking
-- entrepreneurship
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1iQFttdkQGU
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - society
 title: F1总裁兼CEO斯蒂法诺·多梅尼卡利：从赛车运动到全球娱乐平台的转型与未来展望
 ---
-
 ### F1：一项运动还是一场电视秀？
 
 **Nicolai:** 大家好。我是**挪威主权财富基金**（Norwegian Southern Wealth Fund: 挪威政府养老基金全球）的首席执行官**尼古拉·坦根**（Nicolai Tangen），今天我非常荣幸能与赛车运动传奇人物**斯蒂法诺·多梅尼卡利**（Stefano Domenicali）共处一室，他目前担任**一级方程式赛车**（Formula 1: 简称F1）的总裁兼首席执行官。斯蒂法诺，非常感谢您的加入。

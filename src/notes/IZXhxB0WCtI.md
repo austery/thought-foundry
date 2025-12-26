@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-06-30'
 draft: true
@@ -23,10 +23,7 @@ people:
 - John Rawls
 - Plato
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IZXhxB0WCtI
 speaker: 超級歪 SuperY
@@ -42,7 +39,6 @@ tags:
 - state
 title: 洛克《政府论》：自由主义之父如何奠定美国建国哲学，并促成资本主义与殖民主义？
 ---
-
 ### 洛克政治哲学的起源与背景
 
 欢迎来到“哲学爽歪歪”节目，本周是美国的独立日，而美国的建国思想深受**自由主义**（Liberalism: 一种以个人自由为核心价值的政治哲学）之父约翰·洛克（John Locke）的启发。今天，我们将深入探讨洛克的政治哲学。

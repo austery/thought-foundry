@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hU1hr7KCyqk
 speaker: 课代表立正
@@ -23,7 +20,6 @@ tags:
 - strategy
 title: AI时代下流量增长的终结：品味驱动的创业新范式
 ---
-
 ### 创业初期的挑战与初心
 
 “恭喜自由了！”“谢谢谢谢。”从“打工人的天花板”到“创业明星”，我更愿意称自己为“first time founder”（首次创业者）的小白，现在什么都没有，什么都不会，所以还在一个非常早期的阶段。

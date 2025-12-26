@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 剑桥大学
@@ -16,10 +16,7 @@ people:
 - 柏拉图
 - 亚里士多德
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=28fbOkAF-s4
 speaker: 大问题Dialectic
@@ -32,7 +29,6 @@ tags:
 - society
 title: 为中世纪正名：教会如何孕育现代科学与大学制度
 ---
-
 ### 破除“黑暗中世纪”的刻板印象
 
 很多人一提到欧洲的**中世纪**（Middle Ages: 指从公元5世纪到公元15世纪这1000年的欧洲历史时期），脑子里面的刻板印象就是中世纪都是黑暗的，基督教都是反智的，**文艺复兴**（Renaissance: 强调人文主义，打破神权桎梏，以人为中心）才是反宗教的。但是，实际情况真的是这样的吗？欢迎来到《100个哲学大概念开悟人生》这一讲，我们将讲述西方的中世纪，这算作中世纪哲学的一个导论。在讲述中世纪的哲学之前，需要跟大家作一些翻案文章，纠正一些很多人关于欧洲中世纪的偏见。

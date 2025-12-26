@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Universal
@@ -20,10 +20,7 @@ people:
 products_models:
 - Go
 - Transformers
-project:
-- historical-insights
-- cultural-critique
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BA-aEMl76ZU
 speaker: TVO Today
@@ -36,7 +33,6 @@ tags:
 - trend
 title: 《速度与激情》系列如何重塑好莱坞：一部电影传奇的幕后故事
 ---
-
 ### 《速度与激情》的缘起与作者的创作动机
 
 主持人：巴里·赫兹，欢迎来到《Rundown》节目。

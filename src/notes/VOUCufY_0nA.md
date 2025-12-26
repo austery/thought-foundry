@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - a16z
@@ -59,10 +59,7 @@ products_models:
 - Next.js
 - Postgres
 - X
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VOUCufY_0nA
 speaker: a16z
@@ -77,7 +74,6 @@ tags:
 - tech
 title: AI 时代，创造力为何比代码更重要
 ---
-
 ### 序幕：老友重逢与职业渊源
 
 **Kevin:** 很高兴我们能一起做这期节目，兄弟。

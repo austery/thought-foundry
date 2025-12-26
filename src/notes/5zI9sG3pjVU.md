@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - Caltech
@@ -12,8 +12,7 @@ media_books:
 - The Aviator
 people:
 - Destin Sandlin
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5zI9sG3pjVU
 speaker: veritasium
@@ -27,7 +26,6 @@ tags:
 - technology
 title: 湍流：混沌中的秩序与力量——为什么它比层流更迷人
 ---
-
 ### 湍流与层流：科学家们的“陷阱”
 
 本视频的部分内容由Loda赞助。

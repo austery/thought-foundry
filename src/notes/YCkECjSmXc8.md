@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -46,10 +46,7 @@ people:
 - Peter Navarro
 products_models:
 - F-35
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YCkECjSmXc8
 speaker: LT視界
@@ -63,7 +60,6 @@ tags:
 - us-china-relations
 title: 中美博弈下的全球震荡：从利率困境到产业人质，再探中共权力核心的未解之谜
 ---
-
 ### 美联储利率决策与美国国债困境
 
 当前华尔街最关注的问题之一是，**美联储**（Federal Reserve: 美国中央银行体系）的利率决策可能受制于国债成本。这不仅关乎**唐纳德·川普**（Donald Trump）反复要求大幅度降息的理由，也涉及其观点的利弊。鉴于美国债务负担沉重，未来若需再次加息，将是一项极为敏感和艰难的任务。

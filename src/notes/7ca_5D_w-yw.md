@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Lululemon
@@ -17,10 +17,7 @@ people:
 - 唐石峻
 - 巴菲特
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7ca_5D_w-yw
 speaker: Shijun Tang
@@ -34,7 +31,6 @@ tags:
 - value
 title: 投资中的知行合一：从理论到实践的艰难跨越
 ---
-
 ### 知行合一：投资中最难的修行
 
 你有没有听过这样一句话：“学我说的，但不要学我做的？”这句话在投资圈里极为常见。曾经我也以为这是理所当然的——毕竟，市场充满欺骗，人人都在包装自己。但大约五年前，我的看法发生了根本性的转变。

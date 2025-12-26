@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -41,10 +41,7 @@ people:
 products_models:
 - InfiniBand
 - Stargate
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=reCHpD4yDfQ
 speaker: 硅谷101
@@ -58,7 +55,6 @@ tags:
 - market-dynamic
 title: AI数据中心：万亿级基建狂潮背后的真实成本与投资逻辑
 ---
-
 ### 引言：AI基建的万亿级投入
 
 NASA预估5000亿美元能让人类完成火星登陆，这笔钱能买下1.36个阿里巴巴、3.5个NBA联盟，建设100座Apple Park，或购买1400亿杯咖啡。然而，这笔巨款却只够OpenAI建设一座名为Stargate的数据中心，而其野心可能是这个规模的十倍甚至更多。除了OpenAI之外，xAI、Meta等科技巨头也开始疯狂地在AI数据中心领域砸钱，全球因此开启了一波基建狂潮，押注新一轮的万亿级市场。但在狂潮背后，我们不禁想问，这么多钱都花到哪里去了？本期《硅谷101》将深入探讨AI数据中心背后的资本支出，分析数据中心由哪些部分构成，上下游主要公司和玩家有哪些，以及资金究竟如何分配。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: null
@@ -16,9 +16,7 @@ people:
 - Remy
 - Mike
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: null
 source: null
 speaker: 用AI發電
@@ -31,7 +29,6 @@ tags:
 - 社群建设
 title: AI创客们的热情分享：从电子衣橱到自动化工具的Vibe Coding实践
 ---
-
 ## 开场与新工具讨论
 
 Ray: 哈喽，小西瓜，我先邀请你们上来一下。麦克也来了。我现在发现一个特别特别好用的浏览器，应该都知道，就是那个 **Perplexity** 新出的那个 **Comet**，我已经用上了，这真的名不虚传。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -71,10 +71,7 @@ products_models:
 - Azure
 - GitHub
 - Vera Rubin
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=r7TVxsbZ3lw
 speaker: Amit Kukreja
@@ -87,7 +84,6 @@ tags:
 - wealth
 title: 特朗普确认中美协议，市场展望11月：OpenAI争议与Palantir财报前瞻
 ---
-
 ### 11月市场开局展望
 大家好，欢迎回到新一期的周日市场期货节目。我们提前三分钟开始了直播，因为我已经准备就绪，不如直接开始。感谢大家的到来，希望各位度过了一个愉快的周末。朋友们，11月正式开始了，这感觉有点疯狂。2025年只剩下两个月了，今天是11月2日。今年过得相当快。10月份的股市跌宕起伏，上周我们讨论了美联储和大型科技公司财报等大量事件。但10月已经结束，我们进入了新的月份。
 

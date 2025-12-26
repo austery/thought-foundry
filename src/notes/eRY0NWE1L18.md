@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -13,10 +13,7 @@ media_books:
 people:
 - Nikolai
 products_models: []
-project:
-- entrepreneurship
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eRY0NWE1L18
 speaker: Norges Bank Investment Management
@@ -30,7 +27,6 @@ tags:
 - strategy
 title: 害虫防治巨头Rentokil CEO Andy Ransom：业务增长、创新与领导力
 ---
-
 ### 欢迎与疯狂的害虫故事
 
 Nikolai：大家好，今天我们的特邀嘉宾是**Rentokil**（Rentokil：全球最大的害虫防治服务提供商）的首席执行官Andy Ransom。

@@ -9,8 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=93BZHst3ghs
 speaker: ''
@@ -22,7 +21,6 @@ tags:
 - economy
 title: 深入探讨智能体经济与AI-Crypto的未来融合
 ---
-
 ### 引言
 
 Indigo: 欢迎回到Indigo Talk，这是我们新的一期。这一期我邀请了一个老朋友，币圈人称迪神，郑迪老师。今天他也在做一个投资和**Crypto**（加密货币：使用密码学原理确保交易安全及控制交易单位创造的交易媒介）的社群，因为我自己也有一个科技加速社群，我们两个社群还经常互访一下。

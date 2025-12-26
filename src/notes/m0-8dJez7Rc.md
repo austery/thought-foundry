@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2023-12-03'
@@ -8,11 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- knowledge-pipeline
-- pkm-research
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m0-8dJez7Rc
 speaker: 一口新飯
@@ -26,7 +22,6 @@ tags:
 - tool
 title: Readwise Reader：革新知识获取与内容创作的阅读神器
 ---
-
 ### 引言：Readwise Reader的革命性体验
 
 今年我发现**Readwise Reader**（阅读软件: 集信息捕捉、阅读笔记、知识管理和内容创作于一体的工具）这款软件，对于像我这样需要大量阅读和输入的知识类**up主**（Uploader: 在视频平台上传原创内容的用户）来说，简直是革命性的存在。自从使用它之后，我便抛弃了所有其他的阅读类应用，将全部阅读活动都集中到了**Readwise Reader**中。如果仅仅将它视为一个电子阅读软件，那可就小看它了。实际上，它是一款三合一的神器，不仅是信息捕捉工具，也是优秀的阅读笔记和知识管理软件，同时还内置了**ChatGPT**（聊天生成预训练转换器: 由OpenAI开发的人工智能聊天机器人模型）的AI功能。此外，**Readwise Reader**还是一款内容创作和分享软件。我对它的评价只有三个字：“它懂我”。在今天的视频中，我将分享如何利用**Readwise Reader**来加倍提升我的知识获取效率。无论您是内容创作者、学生还是研究人员，只要您希望通过阅读学习知识、解决问题，这个视频都会对您有所帮助。我也替大家从Readwise官方获得了福利：通过我的专属链接注册**Readwise Reader**，可以获得两个月的免费使用，这比官方提供的试用期多了一个月。

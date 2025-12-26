@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - PayPal
@@ -29,10 +29,7 @@ people:
 - Warren Buffett
 - Charlie Munger
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qbvInWaOAjE
 speaker: Shijun Tang
@@ -46,7 +43,6 @@ tags:
 - pricing-power
 title: PayPal护城河是否仍在？与超级投资人Kris的护城河框架深度解析
 ---
-
 ### PayPal的护城河：增长停滞下的真实价值
 
 PayPal的股价长期低迷，近1150天涨幅仅为3.2%，远低于标普500指数同期约4%的年化回报。这是否意味着它是一次失败的投资？答案并非如此简单。

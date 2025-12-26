@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Google
@@ -29,10 +29,7 @@ people:
 products_models:
 - 抖音
 - 小红书
-project:
-- cultural-critique
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pHbp8hjNlG0
 speaker: 張内咸脫口秀
@@ -45,7 +42,6 @@ tags:
 - trend
 title: 金马奖被封杀后：华语电影集体失控了吗？
 ---
-
 ### 悲喜交加的开场：父亲们的“网络寻亲”
 
 大家好，我是张内咸，又见面了。上周节目播出后，我家突然多了很多长辈，这真是始料未及。可能是我疏忽了，没想到Google还有“网络寻亲系统”这种功能，能帮你找到失散多年的父亲。感觉我们家像提前过年了似的，父亲还带了一大群叔叔阿姨来探望我。虽然我手忙脚乱，但心里很感动，世上还是好人多啊。

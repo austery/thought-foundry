@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
@@ -23,10 +23,7 @@ people:
 - Steve Jobs
 - Donald Trump
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X0RNhfHswiA
 speaker: Norges Bank Investment Management
@@ -40,7 +37,6 @@ tags:
 - thinking
 title: 马尔科姆·格拉德威尔：洞察不变的人性与社会变迁
 ---
-
 ### 序言：不变的人性与变迁的社会
 
 **Nicola:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威的中央银行管理的主权财富基金，是全球最大的主权财富基金之一）的首席执行官尼古拉·坦。

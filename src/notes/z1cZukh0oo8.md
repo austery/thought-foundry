@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-13'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=z1cZukh0oo8
 speaker: Bloomberg Podcasts
@@ -25,7 +24,6 @@ tags:
 - technology
 title: Levi's业绩强劲：消费者韧性、产品细分与关税应对策略
 ---
-
 ### 业绩强劲与消费者韧性
 
 Thanks for having me, Carolyn Bailey. It's great to be here again.

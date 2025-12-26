@@ -17,10 +17,7 @@ people:
 - 查理·芒格
 - 沃伦·巴菲特
 products_models: []
-project:
-- investment-strategy
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h8PTqjxE7pA
 speaker: Shijun Tang
@@ -33,7 +30,6 @@ tags:
 - value
 title: 如何在任何市场环境中都赚到钱：从赌场思维到价值投资的彻底转变
 ---
-
 ### 从赌场思维到价值投资：为何大多数股民注定亏损
 
 你买的股票跌了，可能你爆仓了，可能你亏了不少钱。怨天尤人的同时，你有没有想过：为什么成功的投资人，不管是牛市还是熊市，总能赚到钱？如果你心有不甘，是时候退一步，重新审视你的认知了。

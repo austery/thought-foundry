@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Meta
@@ -41,10 +41,7 @@ products_models:
 - GitHub Copilot
 - Alexa
 - TensorFlow
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HGoQnDFHTVA
 speaker: The MAD Podcast with Matt Turck
@@ -60,7 +57,6 @@ tags:
 - open-source-ai
 title: 美国能否赢得开源AI竞赛？AI2发布Olmo 3的深度解析
 ---
-
 ### 引言：地缘政治背景下的开源AI新篇章
 
 **Nathan:** Meta 领导层发生了重大变动，Llama 的未来变得不明朗。这导致影响力出现了一个巨大的真空，而这个真空已经被 Qwen、Deepseek、Kimmy Moonshot 等公司所填补，尤其是在那些试图用开源模型构建应用的人群中，这是一个巨大的转变。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-29'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bRBLPJguU-0
 speaker: EO
@@ -23,7 +22,6 @@ tags:
 - technology
 title: 22岁创始人Jessica Wu：从华尔街到硅谷，Solola的创业心路与成长法则
 ---
-
 ### 金融生涯与创业动机
 
 I was actually the youngest **quant researcher** (Quant Researcher: 运用数学和统计模型分析金融市场的专业人员) at a pretty big **hedge fund** (Hedge Fund: 一种采用复杂策略以获取高回报的私人投资基金), and so had started my career in finance, but had seen a lot of different areas, from very thesis-driven to just pure numbers and numbers crunching.

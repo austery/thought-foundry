@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Google
@@ -29,8 +29,7 @@ products_models:
 - TPU
 - BERT
 - ImageNet
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v0gjI__RyCY
 speaker: Dwarkesh Patel
@@ -42,7 +41,6 @@ tags:
 - technology
 title: Jeff Dean与Noam Shazeer：Google二十五年，从PageRank到AGI
 ---
-
 ### 引言：Google的两位AI先驱
 
 今天，我很荣幸能与**Jeff Dean**和**Noam Shazeer**进行对话。**Jeff**是**Google**的首席科学家，在他效力**Google**的25年里，他参与了现代计算领域最具变革性的系统开发，包括**MapReduce**（MapReduce: Google开发的一种分布式计算模型，用于处理和生成大数据集）、**BigTable**（BigTable: Google开发的一种分布式结构化数据存储系统）、**Tensorflow**（Tensorflow: Google开发的开源机器学习框架）、**AlphaChip**（AlphaChip: Google内部的AI芯片项目，或指其定制AI硬件）以及现在的**Gemini**（Gemini: Google DeepMind开发的多模态大型语言模型），这份名单简直数不胜数。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - a16z
@@ -39,10 +39,7 @@ products_models:
 - iPad
 - Xcode
 - ChatGPT
-project:
-- ai-impact-analysis
-- entrepreneurship
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fgzr3PhzIMk
 speaker: a16z
@@ -57,7 +54,6 @@ tags:
 - strategy
 title: AI时代下的“护城河”：软件如何重塑市场与竞争格局
 ---
-
 ### AI时代下软件市场机遇的根本性转变
 
 当前产品周期的根本不同之处在于，软件本身能够实际完成工作，因此，如今软件的市场机会不再仅仅是IT支出，而主要在于劳动力成本。这并非意味着所有工作都会消失，我实际上认为这根本不会发生。有很多任务，如果我能以一美元的价格雇人完成，我百分之百会这样做。但我从未能以一美元雇到人。现在，我可以用一美元“雇佣”软件。虽然了解模型能力和前沿技术发展很重要，但你仍然需要弄清楚如何应用这项技术。

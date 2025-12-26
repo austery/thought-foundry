@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - Big Think
@@ -16,8 +16,7 @@ media_books:
 people:
 - Roger Federer
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tW7ClAexgHI
 speaker: Big Think
@@ -31,7 +30,6 @@ tags:
 - performance
 title: 突破技能瓶颈：外科医生阿图·葛文德谈教练的重要性
 ---
-
 ### 引言：专业人士的技能提升之路
 
 大家好，我是阿图·葛文德。我是一名外科医生、公共卫生领导者、研究员，同时也是一位作家。我著有四本《纽约时报》畅销书，包括《并发症》、《更好》、《清单革命》和《凡人》。

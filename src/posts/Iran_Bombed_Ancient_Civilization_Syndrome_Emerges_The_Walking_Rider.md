@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 author: Lei
 category: culture
 channel: '@LiuTalks'
@@ -9,8 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- cultural-critique
+project: []
 series: null
 source: null
 speaker: 徒步的騎手
@@ -21,7 +20,6 @@ tags:
 - society
 title: 伊朗挨炸，炸出来的“文明古国综合症”
 ---
-
 ## 引言：“文明古国综合症”
 
 各位好，今天说说伊朗挨炸，炸出来的“文明古国综合症”。文明古国是加引号的。

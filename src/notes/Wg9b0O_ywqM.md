@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2022-02-10'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Wg9b0O_ywqM
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - thinking
 title: 二元思维：人类的本能、影响与应对之道
 ---
-
 ### 二元思维的普遍性与本能根源
 
 作为一名内容创作者，经常会面对一些极端评论。大多数情况下会选择忽略，因为自以为与他们不同，认为他们爱走极端，有着非黑即白的二元思维。然而，黑白之间其实充满不同的灰度，对灰度的探讨能让我们更加接近真相。但事实并非如此，我们每个人都是**二元思维**（Black-And-White Thinking: 一种非黑即白、极端化的思考模式）的忠实信徒，只不过表现方式不同罢了。

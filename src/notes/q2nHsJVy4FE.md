@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -10,9 +10,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q2nHsJVy4FE
 speaker: AI Engineer
@@ -24,7 +22,6 @@ tags:
 - llm
 title: LLM时代的编译器：简化AI模型部署的Python编译实践
 ---
-
 ### AI工程师的日常困境与部署挑战
 
 如果你现在是一名AI工程师，你的日常工作可能看起来是这样的：你的代码库中打开着一个客户端，有几个**Hugging Face**（一个AI模型和数据集的开源社区）的标签页，还有三个不同的代码仓库，名字里都带着“playground”这个词。

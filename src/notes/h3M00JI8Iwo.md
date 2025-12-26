@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - TED
@@ -16,8 +16,7 @@ people:
 - Trevor Noah
 - Alexander the Great
 - Barack Obama
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h3M00JI8Iwo
 speaker: TED
@@ -31,7 +30,6 @@ tags:
 - society
 title: 心灵魔术师的秘密：阅读人心与记忆姓名之艺术
 ---
-
 ### 读心术的真相：阅读人心而非思想
 
 我被宣传为世界上最伟大的读心者。

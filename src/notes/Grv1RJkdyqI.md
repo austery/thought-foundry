@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - AstraZeneca
@@ -15,9 +15,7 @@ media_books:
 people:
 - Bill Gates
 - Derek Muller
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Grv1RJkdyqI
 speaker: veritasium
@@ -30,7 +28,6 @@ tags:
 - misinformation
 title: 比尔·盖茨谈下一个全球危机：疫情、气候变化与信息战
 ---
-
 ### 对疫情预警的反思
 
 Derek: 那么，做出这个预测，但世界基本上没有听取并做好准备，你感觉如何？

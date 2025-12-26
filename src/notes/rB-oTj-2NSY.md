@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Coreweave
@@ -26,10 +26,7 @@ products_models:
 - Azure
 - AWS
 - Google Cloud
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rB-oTj-2NSY
 speaker: 投资TALK君
@@ -43,7 +40,6 @@ tags:
 - strategy
 title: AMD分析师日展望强劲，Neo Cloud行业竞争与投资策略深度解析
 ---
-
 ### 市场回顾与公司财报概览
 
 各位观众大家好，欢迎来到一个看财报就是我乐趣的专业美股频道，我是市场分析人小陶。今天我们继续来讲财报，稍微讲几家公司。第一家是在周二早上发布财报的Navies，它与昨天我们讲的Coreweave这家公司一样，同属于**Neo Cloud**（Neo Cloud: 新型云计算服务提供商，专注于提供高性能计算资源，尤其针对AI工作负载）领域，一家排名第一，一家排名第二。随后我们讲一下盘后AMD的情况，他们今天应该有一个分析师日（Invest Day），并聊了一下对于未来几年的产出展望。我们去看一下这个结果，盘后出现了上涨，非常有意思。然后再聊一下也是在周二盘前发布财报的SE Limited。在昨天的视频里面和大家分享了，SE Limited这家公司我从去年开始持有到今年，差不多持股时间一年多的时间，我在昨天是把那只个股卖了。然后我们一起去看，但这不妨碍我们去看一下这家公司的财报，或者去看一下为什么今天发布完财报之后出现了下跌。那么我们就废话不多说，马上开始今天的内容。在开始之前，还是希望大家可以留个言，可以点个赞，使得我们这期内容可以让更多的观众看到。

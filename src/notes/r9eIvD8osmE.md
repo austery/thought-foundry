@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Microsoft
@@ -29,10 +29,7 @@ products_models:
 - GitHub
 - Xbox
 - DCF估值模型
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=r9eIvD8osmE
 speaker: Shijun Tang
@@ -46,7 +43,6 @@ tags:
 - switching-cost
 title: 微软、Visa与穆迪：三大巨头的护城河与长期投资价值
 ---
-
 ### 微软：多维护城河构建的科技巨头
 
 微软在过去25年中，为投资者创造了高达1,692.60%的回报，远超标普500指数（450.06%）和纳斯达克指数（1,021.12%）。这种惊人的超额收益，不仅让许多仅靠股票薪酬（SBC）的前工程师成为百万富翁，也奠定了其作为“华尔街高枕无忧”公司的地位。

@@ -28,8 +28,7 @@ people:
 - Kevin Hassett
 - Nicolás Maduro
 - xi-jinping
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2hXbl_aEwTk
 speaker: LT視界
@@ -41,7 +40,6 @@ tags:
 - trade-war
 title: 习近平五大迷思致中国加速衰败；美最高法院审理川普关税案；委内瑞拉油轮被扣押影响中国债权；ASML光刻机复制论遭专家驳斥；中国民众经济痛感加剧
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月21日。
 
 ### 财经头条

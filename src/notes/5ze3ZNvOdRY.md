@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - A16Z
@@ -38,9 +38,7 @@ products_models:
 - CUDA
 - Blackwell
 - Optimus
-project:
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5ze3ZNvOdRY
 speaker: a16z
@@ -54,7 +52,6 @@ tags:
 - market
 title: AI泡沫是否存在？与2000年互联网泡沫的对比及市场结构分析
 ---
-
 ### AI泡沫是否存在？与2000年互联网泡沫的对比
 
 **David George:** 我们是否正处于一个**AI泡沫**（AI bubble: 指人工智能领域资产价格被过度高估的现象）之中？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Amazon
@@ -15,10 +15,7 @@ people:
 - Donald Trump
 - Elon Musk
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F_1_3fC4g4Q
 speaker: 海淀拙大叔
@@ -32,7 +29,6 @@ tags:
 - us-election-2024
 title: 特朗普执政下的美国战略收缩：关税、能源与美元霸权的未来走向
 ---
-
 ### 特朗普潜在的战略收缩措施概述
 
 本期“阿甘经济宏观论”第16集，由海淀拙大叔在3月23号周日为大家带来，主要讨论特朗普未来四年可能采取的战略收缩措施。特朗普的口号是“让美国再次伟大”，而实现这一目标的**抓手**（Leverage: 实现目标的有效手段）就是减少财政赤字，或者说采取美国式的**画债**（Monetizing Debt: 通过非传统手段减轻国家债务负担）策略。只有减少财政赤字，美国的国债才不会继续膨胀，对美元的信心才不会继续贬损，美国的实力才不会继续萎缩。

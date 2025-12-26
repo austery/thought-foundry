@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - White House
@@ -25,10 +25,7 @@ people:
 - Bill Clinton
 - Oprah Winfrey
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6FPr2fkWsH4
 speaker: Norges Bank Investment Management
@@ -42,7 +39,6 @@ tags:
 - self-improvement
 title: 大卫·鲁宾斯坦：伟大投资者的特质、领导力哲学与历史观
 ---
-
 ### 鲁宾斯坦的公众形象与早期背景
 
 主持人欢迎了**大卫·鲁宾斯坦**（David Rubenstein），他是**凯雷集团**（The Carlyle Group: 美国最大的私募股权投资公司之一）的创始人兼主席，同时也是一位知名的访谈节目主持人。鲁宾斯坦谦虚地评价自己的公众品牌，认为自己可能因为涉猎太广而没有在任何单一领域做到极致，但如今他更因主持的访谈节目和慈善事业而闻名，而非投资界的工作。

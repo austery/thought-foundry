@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Shell
@@ -14,9 +14,7 @@ layout: post.njk
 people:
 - Hugo Chávez
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xUfggUpJGS0
 speaker: 北美王路飞
@@ -29,7 +27,6 @@ tags:
 - political
 title: 从拉美土豪到独裁深渊：委内瑞拉的石油诅咒与制度失灵
 ---
-
 ### 从拉美土豪到独裁深渊：委内瑞拉的石油诅咒与制度失灵
 
 如果时光倒流回40年前，你在美国迈阿密走进一家商场，只要听到这句西班牙语“Ta barato，dame dos”（这太便宜了，给我来俩），你就知道，委内瑞拉人来了。那是一个疯狂的年代，那时候的委内瑞拉人被称为是拉美的沙特土豪。他们的货币强势到什么程度？4.3 **玻利瓦尔**（Bolívar: 委内瑞拉的法定货币）就能换一美金，这汇率雷打不动的维持了20年。哪怕是一个普通的中产阶级家庭，周末飞去迈阿密，不仅去度假，还是去进货的，买衣服、买家电，甚至有人去买房子。你敢信吗？仅仅1981年这一年，就有25万人次委内瑞拉人飞往迈阿密扫货。佛罗里达对于委内瑞拉的出口额，短短几年内翻了4倍。甚至有杂志封面上直接写着：“迈阿密，是被委内瑞拉的10元美油喂肥的。”

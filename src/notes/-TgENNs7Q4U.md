@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Anduril Industries
@@ -31,10 +31,7 @@ people:
 - Hillary Clinton
 products_models:
 - B-2轰炸机
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-TgENNs7Q4U
 speaker: 记者易速利
@@ -48,7 +45,6 @@ tags:
 - us-china-relations
 title: 硅谷颠覆美国军工：帕尔默与安杜里尔的2027台湾冲突预警
 ---
-
 ### 中国军工崛起与美国防务困境
 
 中国拥有比美国多300倍的海军造船能力。美国建造一艘航空母舰所需的时间，中国可以建造300艘。目前，中国并未大量建造航空母舰，而是主要专注于与他们想要做的——入侵台湾——更相关的其他方面，主要是两栖登陆艇。

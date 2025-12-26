@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -25,10 +25,7 @@ people:
 - Steve Jobs
 - Elon Musk
 products_models: []
-project:
-- investment-strategy
-- entrepreneurship
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2FC2x0_z2IA
 speaker: Norges Bank Investment Management
@@ -42,7 +39,6 @@ tags:
 - technology
 title: Kinnevik 的长线投资哲学：驾驭创新与市场波动
 ---
-
 ### 欢迎与 Kinnevik 共同探讨长线投资
 
 **主持人:** 大家好，欢迎收听本期关于 Kinnevik 的现场播客，这是一家卓越的瑞典公司。

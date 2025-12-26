@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 中国人民银行
@@ -14,10 +14,7 @@ media_books:
 - 路透
 - 彭博
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OZQjptcJQXk
 speaker: 郭里有范
@@ -31,7 +28,6 @@ tags:
 - science
 title: 中澳铁矿石博弈真相：人民币结算、定价权与市场挑战
 ---
-
 ### 辟谣：铁矿石定价权与人民币结算的“爽文”真相
 
 今天的节目咱们从辟个谣开始。前段时间都说中国赢了铁矿石定价权，听起来确实挺提气，澳洲矿石用人民币结算，打破美元垄断。那真是这样吗？从官方公布的消息，至少是截至我录这期视频的时候，中国和**必和必拓**（BHP Billiton: 全球最大的矿业公司之一）还在谈，没有达成任何协议。

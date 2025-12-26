@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - IMF
@@ -32,10 +32,7 @@ people:
 - 安倍晋三
 products_models:
 - S1曲-901
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=taMkuBAbLdk
 speaker: FearNation 世界苦茶
@@ -49,7 +46,6 @@ tags:
 - us-china-relations
 title: 中国巨额顺差、中美无人机竞赛与中日外交热战：AI泡沫下的全球经济与地缘政治挑战
 ---
-
 ### 中国巨额顺差：全球经济失衡的隐形推手
 
 全球智库和国际媒体对中国问题的深度分析显示，中国的巨额顺差是无处不在且显而易见的。这不仅是一个数据点，更是全球供应链和市场结构正在发生巨变的体现。根据中国海关数据，中国在制成品领域的顺差现已轻松超过2万亿美元，大约占中国GDP的10.5%。中国所有商品的总顺差目前也达到1.2万亿美元，约占中国GDP的6%。更令人震惊的是，将此顺差占全球GDP的比例来看，它远远超过了德国和日本在其鼎盛时期的总和，达到超过2%。

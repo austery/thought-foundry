@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - ADP
@@ -13,10 +13,7 @@ insight: ''
 layout: post.njk
 products_models:
 - S&P 500
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ejT8qdk5lJI
 speaker: Joseph Wang
@@ -30,7 +27,6 @@ tags:
 - valuation
 title: 市场周报：政府停摆下的劳动力市场与美联储的“万物泡沫”警告
 ---
-
 ### 市场概览与数据真空
 
 大家好，今天是11月8日，这里是《市场周报》。过去一周，股市表现相当低迷，出现了显著的回调。但最终，标普500指数似乎在**50日移动平均线**（50-day moving average: 衡量过去50个交易日平均价格的指标）处获得了支撑并反弹，而且我们正处于一年中季节性表现相当积极的时期，因此目前我不会过于悲观。

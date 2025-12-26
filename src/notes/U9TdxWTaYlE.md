@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - AWS
@@ -30,10 +30,7 @@ people:
 - Donald Trump
 - Franklin D. Roosevelt
 - Dylan Patel
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U9TdxWTaYlE
 speaker: All-In Podcast
@@ -47,7 +44,6 @@ tags:
 - geopolitical-strategy
 title: 沙特阿拉伯的AI雄心：Tareq Amin如何打造新的科技超级大国
 ---
-
 ### 沙特阿拉伯的数字雄心与转型
 
 **Tareq Amin:** 我相信互联互通是一项人权。

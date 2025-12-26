@@ -1,11 +1,9 @@
 ---
 title: 财经与地缘政治观察：从美国经济数据到习近平的战略大棋
 summary: 本期内容深入分析了美国强劲的宏观经济数据及其对美联储政策的影响，探讨了特朗普在乌克兰和加沙问题上的复杂策略，并剖析了中美贸易战的最新动态以及对习近平“下一盘大棋”战略的不同解读。
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
+project: []
 tags:
 - foreign-policy
 - strategy
@@ -24,7 +22,6 @@ series: null
 source: https://www.youtube.com/watch?v=9thFLZi-8yg
 status: evergreen
 ---
-
 ### 美国宏观经济数据强劲，降息预期减弱
 
 今天早上，美国官方发布了三组超出预期的宏观经济数据，表现非常强劲。

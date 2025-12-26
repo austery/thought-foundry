@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 三星电子
@@ -19,10 +19,7 @@ products_models:
 - PCIE retimer芯片7.0
 - Switch芯片
 - CXL技术
-project:
-- investment-strategy
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fQj6hIi9kkg
 speaker: 海淀拙大叔
@@ -36,7 +33,6 @@ tags:
 - technology
 title: 澜起科技市值天花板何在？投资逻辑与估值再审视
 ---
-
 ### 澜起科技股价表现与股东减持分析
 
 阿甘公司研究论第19集第三部分，将从投资角度对澜起科技进行再审查。当前，澜起科技的股价表现平平，今年从1月1号到4月28号仅上涨了6.9%。股价涨幅较小的主要原因是卖出量大于买入量，净卖出量约为1900万股。

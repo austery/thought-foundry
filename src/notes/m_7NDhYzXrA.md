@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - 哈佛大学
@@ -17,9 +17,7 @@ people:
 - 莎士比亚
 - 汉娜·阿伦特
 products_models: '[]'
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m_7NDhYzXrA
 speaker: 徒步的騎手
@@ -33,7 +31,6 @@ tags:
 - societal
 title: 活出真我：摆脱“什么也不是”的困境与道德审判
 ---
-
 ### 戴着面具的自我与寻找真我
 
 在现实世界中，一个司空见惯的现象是每个人都戴着面具生活。长年累月，面具戴久了，很多人便失去了面具下面的那个**真我**（真实的自我）。人生的许多挣扎、是非纠结都与此相关。英语世界有句说法叫做“**Be true to yourself**”（对自己诚实：要面对真实的自我，别欺骗自己），简单来说就是不自欺。人们习惯了戴着面具与他人打交道，甚至与很亲密的人也是如此。那么，如何才能找到面具下面的那个真实的自我呢？这里有几个简单的问题可以问一下自己：

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - UCSF
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Today I Learned
-project:
-- personal-growth-lab
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Pry6l7h48ro
 speaker: TED
@@ -27,7 +25,6 @@ tags:
 - personal-development
 title: 拥抱未知：好奇心如何驱动发现与学习
 ---
-
 ### 未知之美：好奇心驱动的探索
 
 举手示意，如果你不知道这是什么。

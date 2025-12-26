@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -30,10 +30,7 @@ people:
 - Justin Trudeau
 - Richard Nixon
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IJ45rkL49dg
 speaker: LT視界
@@ -48,7 +45,6 @@ tags:
 - us-national-security-strategy
 title: 川普政府国家安全战略深度解读：全球秩序重构与美中欧关系新动向
 ---
-
 ### 川普政府国家安全战略的重大转向
 
 今天，我们将深入分享一些不容错过的重要新闻。对于关注国际形势和地缘政治格局的网友来说，今天的分享内容将回答许多长期以来的推测，例如美国的全球战略将如何调整、川普希望将美国带向何方，以及川普政府正在对现有国际秩序做出哪些主动调整。此外，它还将回应关于川普政府是否在下一盘大棋的争论，包括所谓的**反向尼克松战略**（Reverse Nixon Strategy: 一种与尼克松联华制苏策略相反的外交策略构想）以及重新调整美国战略重点等问题。美国官方是否对此有明确说法？

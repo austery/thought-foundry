@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-08-07
@@ -9,10 +9,7 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 products_models: '[]'
-project:
-- china-analysis
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XRjgH-1jR1Y
 speaker: 徒步的騎手
@@ -25,7 +22,6 @@ tags:
 - system
 title: 强控制与弱治理：从校园霸凌看中美两种“政治操作系统”的迥异结局
 ---
-
 ### 四川霸凌事件：一场“人心未死”的群体抗议
 
 最近，四川某地发生的一起涉及14岁女孩的校园霸凌事件，通过一段长达10分45秒的视频在社交网络上发酵，引发了公众的强烈愤慨。事件发生后的72小时内，成千上万的民众，尤其是年轻人，自发聚集到当地，为受害者发声。他们唯一的诉求，就是为那个被欺凌的孩子讨回公道。

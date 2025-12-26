@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 泡泡玛特
@@ -33,10 +33,7 @@ people:
 - 邓小平
 products_models:
 - Labubu
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8l4ZqsMyaOo
 speaker: 張内咸
@@ -50,7 +47,6 @@ tags:
 - system
 title: 从《哪吒》票房到Labubu盲盒：透视中国畸形市场与资本出逃的深层逻辑
 ---
-
 ### 中国电影市场的魔幻现实
 
 不知不觉，2025年都快过去一半了，电影《哪吒》现在还在电影院里放映。5月初，《哪吒》全球票房已经突破了158亿，但多排了一个月片，票房数据却完全没变。这让领导似乎有些不高兴，所以最近的媒体文章标题都写得特别直白，称《哪吒2》票房只差7400万美元就能登顶全球第四。现在的第四名是《泰坦尼克号》，7400万美元折算成人民币是5.3亿。这似乎在暗示，需要想尽一切办法把这5.3亿凑出来。如果真能冲到全球第四，那么距离第三名《阿凡达2水之道》也只差4亿人民币，再努努力肯定能冲到前三。

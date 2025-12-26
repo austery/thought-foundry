@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 收获APP
@@ -14,10 +14,7 @@ people:
 - 余华
 - 莫言
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZW1BgWdSB2w
 speaker: 一席YiXi
@@ -31,7 +28,6 @@ tags:
 - social
 title: 孩子，青年们，告别和漫长的梦：一个东北青年的理想突围史
 ---
-
 ### 奥特曼的崩塌：一个男孩对权威世界的初次觉醒
 
 大家好，我叫梁彦增。是一个喜剧演员，也是一个文学爱好者。今天我想聊聊理想——这个在当下时代听起来有点烫嘴的词。

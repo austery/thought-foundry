@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies:
 - precious-metal
@@ -19,10 +19,7 @@ people:
 products_models:
 - S&P 500
 - CPI
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Gig5BzuLVqQ
 speaker: Joseph Wang
@@ -35,7 +32,6 @@ tags:
 - market-trend
 title: 市场周报：标普创新高、通胀徘徊、地缘政治新格局与贵金属动荡
 ---
-
 ### 市场概览：标普创新高、通胀徘徊与美中贸易进展
 
 大家好，今天是10月25日，这是本周的市场周报。

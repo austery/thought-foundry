@@ -11,10 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CKcsnk3QkKY
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-economy
 title: CPI数据深度解析：美联储视角、市场影响与经济展望
 ---
-
 ### CPI数据的重要性与美联储的解读视角
 
 本期节目主要围绕即将公布的**消费者物价指数**（**CPI**：Consumer Price Index，衡量消费者购买商品和服务价格变化的指标）数据展开讨论。尽管数据可能已公布，但其重要性在于美联储将如何解读。相比数据本身，美联储的行动更为关键。此外，节目还将探讨与衰退相关的数据，并简要提及本周即将发布财报的公司。由于时间较晚，主持人希望尽快进入正题，并提醒观众点赞留言。主持人还透露，本周五至下周三以及九月份将暂停更新视频，但若有重要事件，仍会在X平台或YouTube社区以文字形式分享。

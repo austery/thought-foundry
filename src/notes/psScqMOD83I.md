@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2023-05-21'
 draft: true
@@ -18,9 +18,7 @@ people:
 - Georg Wilhelm Friedrich Hegel
 - Alexander the Great
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=psScqMOD83I
 speaker: 超級歪 SuperY
@@ -34,7 +32,6 @@ tags:
 - theory
 title: 探索亚里士多德的哲学体系：从四因说到形而上学
 ---
-
 ### 引言：古希腊的百科全书式哲学家亚里士多德
 
 本系列节目将向您介绍一位位哲学思想家。上一集我们介绍了柏拉图，所以今天我将向大家介绍柏拉图的学生——**亚里士多德**（Aristotle: 古希腊哲学家，柏拉图的学生，亚历山大大帝的老师）。他是古希腊百科全书式的哲学家。亚里士多德出生于希腊殖民地马其顿，并非来自雅典，这一点非常重要，因为他实际上并未获得雅典的公民权。这使他能够以一个“外邦人”的视角思考政治哲学。他17岁时前往柏拉图的雅典学园学习了20年。柏拉图去世后，雅典学园由柏拉图的侄子斯彪西普斯（Speusippus）接管，亚里士多德未能继承学园的领导权，于是失望地离开了雅典，前往各个岛屿研究动物学和植物学。40岁时，他受马其顿国王腓力二世（Philip II）的邀请，担任亚历山大大帝（Alexander the Great）的导师，教授哲学。这让亚里士多德实现了柏拉图的理想，因为柏拉图认为要建立一个理想国，要么让哲学家成为君主，要么教导君主哲学。后来，亚里士多德返回雅典，创立了自己的学园——**吕克昂学园**（Lyceum: 亚里士多德在雅典创立的学园）。这个词在今天的法语中依然存在，法国的高中就叫做“lycée”。那么，亚里士多德在他的学园里究竟教授了什么样的哲学呢？

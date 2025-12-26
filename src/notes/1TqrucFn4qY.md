@@ -24,9 +24,7 @@ products_models:
 - Git
 - Grok
 - DeepSeek
-project:
-- personal-growth-lab
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1TqrucFn4qY
 speaker: 东京人文论坛
@@ -39,7 +37,6 @@ tags:
 - vibe-coding
 title: 李厚辰讲Vibe Coding：让AI为你编程，告别重复性工作
 ---
-
 ### 什么是Vibe Coding？告别重复性工作
 
 今天我们直接进入主题，讲一讲 **Vibe Coding**（Vibe Coding: 凭感觉编程，即利用自然语言让AI辅助编写代码的方法）。这是一种面向不会编程的人的编程方法，用途非常广泛。

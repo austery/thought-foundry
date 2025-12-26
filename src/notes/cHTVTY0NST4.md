@@ -16,10 +16,7 @@ people:
 - 卡尼
 - 特鲁多
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cHTVTY0NST4
 speaker: 王红雨
@@ -33,7 +30,6 @@ tags:
 - us-populism
 title: 关税武器化下的美加关系：加拿大自由主义的挑战与未来
 ---
-
 ### 引言：关税武器化与美加关系的新挑战
 
 今天是2025年7月12号，我们将探讨加拿大目前面临的美国关税挑战。很多人困惑，在明知美国已选择现任总统后，加拿大为何依然选择了自由党？在大选之前，我曾分析过加拿大保守党的一些看法和保守主义思想。今天，我想跟大家聊一聊加拿大自由党以及自由主义思想到底是什么，这种思想与目前美国对加拿大的关税政策有何关系，以及加拿大未来如何面对这种博弈。

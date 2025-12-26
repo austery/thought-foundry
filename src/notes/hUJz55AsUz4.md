@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-06'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - bg2-pod
 products_models: []
-project:
-- china-analysis
-- cultural-critique
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hUJz55AsUz4
 speaker: Bg2 Pod
@@ -26,7 +23,6 @@ tags:
 - venture-capital
 title: 深度解析中国科技崛起的驱动力：创业文化、竞争格局与全球影响
 ---
-
 ### 对中国学习态度的观察
 
 Over lunch, this individual told me, you know, every founder and every VC in China studies the West at a nauseating level. So they listen to all the podcasts, they read everything they possibly can, they study any speech, they look at the financials. And he said, "The West doesn't do that of China."

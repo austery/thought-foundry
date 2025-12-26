@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2024-05-17'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_VZxxnD_6A8
 speaker: 莊也雜談
@@ -24,7 +22,6 @@ tags:
 - social-impact
 title: 加拿大南亞裔移民潮：社會衝擊與個人反思
 ---
-
 ### 加拿大南亞裔移民現狀與數據分析
 
 大家好，我是莊也，歡迎您收看莊也雜談。今天我們來聊一聊**南亞裔**（South Asian: 指出生在印度次大陸或血統可追溯到印度次大陸的加拿大人，包括印度、巴基斯坦、孟加拉國、尼泊爾、斯里蘭卡、不丹或馬爾代夫等國家）。根據2021年加拿大人口普查數據，南亞裔加拿大人有257.14萬人，約佔加拿大總人口的7%，是加拿大第二大泛族裔群體，僅次於佔比69.8%的歐洲人。

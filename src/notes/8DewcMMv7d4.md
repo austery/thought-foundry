@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国务院
@@ -17,10 +17,7 @@ people:
 - 李克强
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8DewcMMv7d4
 speaker: FearNation 世界苦茶
@@ -34,7 +31,6 @@ tags:
 - tax
 title: 2025中国税收挤压元年：金税四期下的经济微操与社会冲击
 ---
-
 ### 中国税收：从讳莫如深到隐秘运行的焦点
 
 税收在其他国家通常是备受关注的重大议题，但在中国，这个问题却带有一丝**讳莫如深**（指因有所顾忌而不敢说或不愿说）的色彩。这主要是因为我们缺乏“**非代表不纳税**”（No taxation without representation: 一种政治原则，认为政府在未获得公民同意的情况下，不得征收税款）的政治传统，且中国的税收体系以**间接税**（Indirect Tax: 指税负不是直接由纳税人承担，而是通过商品价格转嫁给最终消费者的税种）为主，使得普通民众对自身纳税的体感不强。例如，在日本，政客竞选时满大街都在讨论税收；在美国，唐纳德·特朗普（Donald Trump）的标志性政策也是减税。然而，在中国，民众往往不清楚自己究竟缴纳了多少税。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -39,10 +39,7 @@ people:
 - Xi Jinping
 products_models:
 - F-35
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YV3gA4_k7kQ
 speaker: 北美王路飞
@@ -55,7 +52,6 @@ tags:
 - russia-ukraine-war
 title: 揭秘俄乌“28条和平协议”：地缘政治棋局中的大国博弈与现实主义回归
 ---
-
 ### 一份“通俄”的和平协议？
 
 如果现在有一份结束乌克兰战争的和平方案摆在面前，条款写着：乌克兰必须承认割让土地、承诺永远不加入北约，并且军队人数必须被严格限制。你会认为这份方案是谁起草的？答案似乎显而易见：普京，或者至少是他手下的俄罗斯强硬派。

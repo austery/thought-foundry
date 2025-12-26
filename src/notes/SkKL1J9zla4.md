@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Canada Post
@@ -12,9 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SkKL1J9zla4
 speaker: 大伟探秘加拿大
@@ -28,7 +26,6 @@ tags:
 - state
 title: 加拿大邮政大罢工：一场动摇国本的劳资冲突与国企改革困境
 ---
-
 ### 2025年加拿大邮政大罢工：一场关乎国本的冲突
 
 2025年秋季，一场劳资纠纷席卷加拿大，加拿大邮政工人再次举行全国大罢工。但这并非一次常规的劳资谈判破裂，而是加拿大邮政工人工会与联邦政府之间，就一个国家机构的根本性质和未来存亡展开的直接对抗。

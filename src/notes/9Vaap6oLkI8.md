@@ -17,8 +17,7 @@ draft: true
 series: ''
 category: stock-investment
 area: finance-wealth
-project:
-  - ai-impact-analysis
+project: []
 people:
   - Nico
 companies_orgs:

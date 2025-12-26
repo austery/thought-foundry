@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-10-17'
 draft: true
@@ -7,8 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a9ZTJ__Sk9Y
 speaker: Best Partners TV
@@ -20,7 +19,6 @@ tags:
 - trend
 title: 2030年AI发展：DeepMind与Epoch AI的保守基线报告深度解读
 ---
-
 ### 报告引言：2030年AI的保守基线
 
 近期，由谷歌**DeepMind**（Google旗下的人工智能研究实验室）委托**Epoch AI**（一家专注于预测人工智能发展轨迹的研究机构）完成了一份长达119页的量化研究报告《AI in 2030》。这份报告勾勒出2030年人工智能发展的一条“保守基线”，预计单次训练量将达到10的29次方**浮点运算**（FLOP: Floating Point Operations，衡量计算机处理能力的单位），算力规模将是现在的1000倍左右，硬件投入接近2000亿美元，全球用电占比可能超过2%，最前沿训练的峰值功率将直逼**吉瓦级**（GW: Gigawatt，功率单位，1吉瓦等于10亿瓦）。

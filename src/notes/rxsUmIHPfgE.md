@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -15,8 +15,7 @@ people:
 - 羅婕Jessica營養師
 - 宋晏仁醫師
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rxsUmIHPfgE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +27,6 @@ tags:
 - llm
 title: 肌肉是最佳抗老法：體組成實測、飲食與運動增肌全攻略
 ---
-
 ### 威龍醫師的體組成實測與分析
 
 我們現在在初日診所。在過去的幾支影片中，有網友看到我的臉比較乾瘦，懷疑我可能有**肌少症**（Sarcopenia: 肌肉量減少、肌肉力量下降、身體功能受損的一種老年綜合症）的問題。今天我們就要來實地測量我的**體組成**（Body Composition: 身體由脂肪、肌肉、骨骼和水分等組成的比例），讓大家來看看我有沒有肌少症的問題。

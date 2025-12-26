@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2024-10-20'
 draft: true
@@ -13,10 +13,7 @@ media_books:
 - 《黃帝內經》
 - 《中西會通醫經》
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eKAuwRLVUBo
 speaker: 壽司坦丁 Sociostanding
@@ -30,7 +27,6 @@ tags:
 - system
 title: 當科學來襲，中醫為什麼沒消失？ep1「雜種醫」的史前史
 ---
-
 ### 中醫的百年存續之謎
 
 本期節目將以輕鬆的方式，帶您了解國際上最有趣的社會科學研究發現。當我們現在去看**中醫**（Traditional Chinese Medicine: 中國傳統醫學體系），或是一位醫生到府出診時，雖然畫面中的兩位醫生都在診脈，看起來實踐著相同的醫學知識，但中研院的醫學史學者雷祥林告訴我們，這兩個時空中的中醫已經不是同一種東西了。

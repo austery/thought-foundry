@@ -14,10 +14,7 @@ people:
 - Kamala Harris
 - 刘鹤
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=49AKzfxukSk
 speaker: 海淀拙大叔
@@ -30,7 +27,6 @@ tags:
 - us-election-2024
 title: 特朗普胜选：美国民粹主义正循环与中国A股应对策略
 ---
-
 ### 特朗普胜选对中国及A股的深远影响
 
 特朗普已宣布胜选，这引发了市场上的迅速反应。许多原先认为卡玛拉·哈里斯（Kamala Harris）将当选的投资者，在得知这一消息后，迅速开始卖出股票，担心特朗普会像2018年那样再次引发贸易战。然而，他们最终极有可能两边打脸，因为缺乏投资预案，他们或许没有预料到昨天夜里美股是大幅上涨的。这可能是因为他们没有研究过特朗普的政策，也可能没有考虑过本周末即将出台的人大会刺激内需方案，就这么匆匆忙忙地卖出了。由此可见，政治研究预测和股市分析在本质上是相通的，最终都回归到基本面分析。基本面分析的正确概率通常要大于那些技术面或资金面的分析。

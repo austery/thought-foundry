@@ -29,9 +29,7 @@ products_models:
 - Llama 4
 - AlphaGo
 - Gemini CLI
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lVdajtNpaGI
 speaker: Hung-yi Lee
@@ -45,7 +43,6 @@ tags:
 - learning
 title: 上下文工程 (Context Engineering)：AI Agent 时代的关键技术
 ---
-
 ### 什么是上下文工程 (Context Engineering)？
 
 今天我们要讲什么是**上下文工程**（Context Engineering: 一种管理和优化语言模型输入信息的技术，尤其在 AI Agent 场景下至关重要）。这是一个最近很热门的术语。我们会介绍它的概念，并告诉你它与你熟悉的**提示工程**（Prompt Engineering: 专注于设计和优化单个提示词以引导模型输出的技术）有什么差异。

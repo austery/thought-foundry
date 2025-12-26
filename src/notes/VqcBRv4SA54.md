@@ -30,10 +30,7 @@ products_models:
 - TPU
 - Gemini
 - EUV
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VqcBRv4SA54
 speaker: 投资TALK君
@@ -46,7 +43,6 @@ tags:
 - market-outlook
 title: 投资TALK君硅谷行：AI泡沫、芯片前沿与市场策略深度解析
 ---
-
 ### 市场回顾与美联储政策解读
 
 各位观众大家好，欢迎来到即使YouTube停更三天，但X上仍然为大家做更新的专业维股频道，我是市场分析员小陶。今天不多说，对话有几天没有和大家见面了，所以来为大家做一期更新，主要聊一下过去一周发生的一些事件、一些数据，再加上大家知道我这周去哪了吗？刚刚过去的周四、周五、周六，我在美西这边的两个城市——洛杉矶和硅谷——分别做了两场线下和大家的投资交流会。在硅谷那两场非常精彩，我在X上说了我在硅谷，然后X上也有观众让我能不能和大家分享一下在硅谷那两场到底和大家讨论了哪些内容。那我今天稍微做了一个总结，然后和大家分享一下。

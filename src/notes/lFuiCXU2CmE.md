@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - OpenAI
@@ -28,9 +28,7 @@ products_models:
 - Codex
 - ChatGPT
 - Gemini 3
-project:
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lFuiCXU2CmE
 speaker: Best Partners TV
@@ -44,7 +42,6 @@ tags:
 - llm
 title: OpenAI 发布 GPT-5.2：性能飞跃、经济价值与商业合作新篇章
 ---
-
 ### OpenAI 发布 GPT-5.2，全面回应市场竞争
 
 随着 Google Gemini 3 的发布，OpenAI CEO Sam Altman 上周罕见地拉响了 **Code Red (红色警报)**，并宣布所有资源回流 ChatGPT 主线，其他业务一律靠边站。这是 OpenAI 成立以来第一次进入红色警报状态，也是它第一次如此明确地承认，竞争压力已经大到必须全力应对。就在今天，OpenAI 发布了 GPT-5.2 模型，打出了一记回应谷歌的重拳。

@@ -22,9 +22,7 @@ products_models:
 - TikTok
 - Gemini
 - GPT-4
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uNBXwOtv9CI
 speaker: 投资TALK君
@@ -38,7 +36,6 @@ tags:
 - valuation
 title: 日本央行加息、美国CPI数据、TikTok出售与耐克财报深度解析
 ---
-
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道，我是市场分析员**小陶**。今天这期内容和大家聊几点：第一，美国这边的**CPI**数据；第二，周五早上**日本央行**加息这条消息对于市场未来会产生什么样的影响，暂时来看似乎影响没有那么大；第三，美国这边一条新闻，**TikTok**美国这边正式出售，然后**Oracle**是其中的一个股东，那对于**Oracle**来说会产生什么样的影响；第四点，我们通过**Nike**的财报和大家分享一下怎么去看待一家零售公司，我们关注点应该放在哪里。
 
 好，那我们就废话不多说，直接开始。在开始之前，能够拜托大家给这期视频点一个赞，然后留一个言，可以让更多的人看到今天的内容。

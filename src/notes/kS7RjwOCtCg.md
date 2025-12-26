@@ -12,10 +12,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kS7RjwOCtCg
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-economy
 title: 彭博预测9月不降息，特斯拉面临利空，关税即将落地——市场深度解析
 ---
-
 ### 节目开篇与内容概览
 
 大家好，欢迎来到专业美股频道。近期有观众希望我能增加更新频率，我将尽力为大家带来更多视频，分享我对市场的看法和视角。今天我们将主要探讨周四公布的**大非农数据**（Non-Farm Payrolls: 美国劳工部每月公布的就业数据，反映除农业部门以外的就业人数变化）及其对7月和9月降息预期的影响。此外，周四通过的“大美丽法案”将如何影响整个电动汽车（EV）市场、特斯拉以及美国国债，我们也将一并讨论。在开始之前，请大家点赞并留言，分享你们对市场或视频更新频率的看法。

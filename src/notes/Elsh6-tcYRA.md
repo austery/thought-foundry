@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: career
 companies_orgs: []
 date: '2024-12-27'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - the-pathless-path
 products_models: []
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Elsh6-tcYRA
 speaker: 一口新飯
@@ -25,7 +23,6 @@ tags:
 - personal-growth
 title: 裸辞与间隔年：拥抱不确定性，定义你的人生路径——《The Pathless Path》的四大启示
 ---
-
 ### 序言：人生转折期的必读书籍
 
 如果你正处于**间隔年**（Gap Year: 指在教育阶段之间或工作生涯中暂停学习或工作，进行旅行、志愿服务、自我探索等活动的一段时间），或者正在考虑**裸辞**（Naked Resignation: 指在没有找到下一份工作的情况下，主动辞去现有工作），那么你可能需要阅读《The Pathless Path》这本书。一年前，我成立了一个读书会，让我意想不到的是，我们大多数成员都处在人生重要的转变期。有的人在九月底之后就要离职，我去年则经历了一次裁员，而现在也有人裸辞后正在经历间隔年，做文创创业。在这段期间，我们都经历了低谷，重新审视人生。在我们过去一年读过的所有书里，这本**《The Pathless Path》**（一本探讨非传统职业道路、拥抱不确定性和自我探索的著作）是引起大家最大共鸣的一本书。

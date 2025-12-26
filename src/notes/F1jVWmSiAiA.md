@@ -17,10 +17,7 @@ people:
 - 唐石峻
 products_models:
 - VOO
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F1jVWmSiAiA
 speaker: Shijun Tang
@@ -33,7 +30,6 @@ tags:
 - risk
 title: 投资股票 vs 投资房产：杠杆无法掩盖的长期回报真相
 ---
-
 ### 投资股票与房产的长期回报对比
 
 投资股票还是投资房产？这个问题困扰了我十几年。在经历了多次失败后，通过系统性学习与模型构建，我现在可以明确地说：对于绝大多数人而言，投资股市（尤其是指数基金）优于投资房产。

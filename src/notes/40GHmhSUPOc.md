@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Northvolt
@@ -24,10 +24,7 @@ people:
 - Mike Tyson
 products_models:
 - Model S
-project:
-- china-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=40GHmhSUPOc
 speaker: Norges Bank Investment Management
@@ -40,7 +37,6 @@ tags:
 - technology
 title: Northvolt CEO Peter Carlsson：电池革命、中国竞争与可持续发展
 ---
-
 ### Northvolt的使命：可持续电池与循环经济
 
 欢迎收听“In Good Company”节目。今天，我们将与**Northvolt**（Northvolt: 一家瑞典电池制造商，专注于开发可持续电池和建立循环供应链）的首席执行官Peter Carlsson一起，深入探讨电池、可再生能源和创新技术的世界。

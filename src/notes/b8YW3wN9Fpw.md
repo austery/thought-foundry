@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - intellectual-persecution
@@ -28,10 +28,7 @@ people:
 - 刘少奇
 - 江青
 - 张春桥
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b8YW3wN9Fpw
 speaker: 柴静 Chai Jing
@@ -45,7 +42,6 @@ tags:
 - scientific
 title: 中国物理学泰斗叶企孙的文革悲剧：一位科学家的独立与毁灭
 ---
-
 ### 《三体》原型与叶企孙的真实人生
 
 我最近看完了奈飞版《三体》，其中文革的开场引发了广泛讨论，而主人公的原型被普遍认为是清华大学的叶企孙教授。科幻小说本无需考证，但我曾在2010年撰写过一篇关于叶企孙先生的文章，之后又拜访了他的家人和学生。他们向我展示了叶先生一些未曾公布的文革期间日记和照片。多年来，我一直将这些资料带在身边，觉得可以借此机会与大家分享。

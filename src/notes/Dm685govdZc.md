@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -22,9 +22,7 @@ products_models:
 - Model Y
 - Model 3
 - Model X
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Dm685govdZc
 speaker: 海伦子Hellen
@@ -38,7 +36,6 @@ tags:
 - robotic
 title: 特斯拉Robotaxi与Optimus发布会：惊喜、失望与未来商业模式深度解析
 ---
-
 ### 振奋人心的航天突破与未来展望
 
 过去的一周，对于埃隆·马斯克及其支持者来说，无疑是振奋人心的一周。特斯拉不仅发布了**无人驾驶出租车**（Robotaxi: 一种不需人类司机操作的自动驾驶车辆，提供出行服务），SpaceX新建的**助推器**（Booster: 火箭发射时提供初始推力的部分，通常可回收重复使用）也成功实现了在发射台上的回收。当新建5飞助推器精准落入“筷子”中的那一刻，其激动之情溢于言表。新建助推器分离后，返回时的最大速度接近音速的四倍，同时产生了剧烈高温，却能精准地降落在小小的发射架上，并且没有发生爆炸，这确实是人类航天史上的一大突破。

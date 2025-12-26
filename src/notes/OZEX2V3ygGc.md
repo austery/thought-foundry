@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CIA
@@ -21,10 +21,7 @@ people:
 - Joe Biden
 products_models:
 - Huawei
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OZEX2V3ygGc
 speaker: 记者易速利
@@ -38,7 +35,6 @@ tags:
 - venezuela-crisis
 title: 美国对委内瑞拉策略的转变：从民主到毒品恐怖主义的干预
 ---
-
 ### 美国对委内瑞拉的军事行动升级与策略转变
 
 美国国防部长皮特·赫格塞斯宣布，美军在加勒比海进行了第七次针对毒品船只的打击行动，造成三名所谓的“毒品恐怖分子”死亡。自九月初以来，美国已对委内瑞拉的涉毒船只发动了至少五次空袭，导致27人死亡。热爱海钓的人现在应该果断放弃到委内瑞拉沿海钓鱼度假的计划。特朗普已经通知国会，他认定美国目前与贩毒集团正处于武装冲突状态，并且已经授权**中央情报局**（CIA: Central Intelligence Agency，美国对外情报机构）在委内瑞拉境内展开秘密行动。

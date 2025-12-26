@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - arms-race
@@ -34,10 +34,7 @@ people:
 - Otto Hahn
 - Franklin Roosevelt
 - Stalin
-project:
-- historical-insights
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Xzv84ZdtlE0
 speaker: veritasium
@@ -50,7 +47,6 @@ tags:
 - nuclear
 title: 奥本海默：原子弹之父与世界的毁灭者
 ---
-
 ### 奥本海默：改变世界的物理学家
 
 J. Robert Oppenheimer（J. 罗伯特·奥本海默）或许是有史以来最重要的物理学家。

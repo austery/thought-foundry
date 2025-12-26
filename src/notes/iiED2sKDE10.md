@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -17,10 +17,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iiED2sKDE10
 speaker: Shijun Tang
@@ -34,7 +31,6 @@ tags:
 - valuation
 title: 从META到FICO：一位投资者的持仓逻辑与市场认知突围
 ---
-
 ### META持仓：从安全边际到长期信心的转变
 
 我持有Meta很长时间，买入时的仓位均价是162美元。目前我的涨幅达到354%，差不多翻了四到五倍。最近，Meta的股价一度站上740美元，作为投资者，我自然感到非常开心。我也不是那种完全冷静、没有情绪的人——没有情绪的是机器，不是人。虽然作为投资人，我一直努力抑制自己的情绪，但我必须承认，我能真切地感受到巨大的喜悦。

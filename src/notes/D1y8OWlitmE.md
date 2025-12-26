@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OECD
@@ -24,10 +24,7 @@ people:
 - Jean Chrétien
 - Jeremy Bentham
 - Bill Davis
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D1y8OWlitmE
 speaker: TVO Today
@@ -41,7 +38,6 @@ tags:
 - public-service
 title: 安大略省前省长道尔顿·麦金蒂：政治生涯的回顾与领导力感悟
 ---
-
 ### 安大略省前省长道尔顿·麦金蒂：政治生涯的回顾
 
 **MAN:** 安大略省前省长们是否仍然坚持他们赖以成名的政策？

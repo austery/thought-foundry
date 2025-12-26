@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 date: '2025-11-25'
 draft: true
@@ -12,9 +12,7 @@ products_models:
 - GLP-1
 - Tirzepatide
 - DDP4抑制劑
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Fd-T51Mif7A
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +25,6 @@ tags:
 - loss
 title: 毒藥變神藥：芥子氣與蜥蜴毒液如何改寫醫學史
 ---
-
 ### 醫學不思議：從劇毒到神藥的傳奇故事
 
 歡迎收看全新節目《醫學不思議》，在這裡我們談粒線體，也談靈魂去哪裡，從醫學到玄學，破解各種奇怪知識。今天首集我們要聊的是誤打誤撞改變人類命運的神藥故事。

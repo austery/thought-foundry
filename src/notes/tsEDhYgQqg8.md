@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OECD
@@ -21,10 +21,7 @@ people:
 - John A. Macdonald
 - Pierre Poilievre
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tsEDhYgQqg8
 speaker: TVO Today
@@ -38,7 +35,6 @@ tags:
 - relations
 title: 加拿大正面临危机吗？《崩溃点》作者探讨国家未来
 ---
-
 ### 引言：加拿大面临的“崩溃点”
 
 民意测验专家Daryl Bricker和记者John Ibbitson认为，甚至在特朗普开始对加拿大征收关税并威胁要吞并我们之前，这个国家就已经陷入困境。

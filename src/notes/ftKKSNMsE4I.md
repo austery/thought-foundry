@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - ICE
@@ -19,10 +19,7 @@ people:
 - Donald Trump
 - Xi Jinping
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ftKKSNMsE4I
 speaker: New York Times Podcasts
@@ -36,7 +33,6 @@ tags:
 - us-foreign-policy
 title: 全球焦点：飓风灾情、边境执法争议与国际政治动态
 ---
-
 ### 飓风“梅丽莎”肆虐加勒比海
 
 目前收到的报告显示，灾情极其严重。

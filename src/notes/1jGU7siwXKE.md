@@ -8,10 +8,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=1jGU7siwXKE
 speaker: Lei
@@ -25,7 +22,6 @@ tags:
 - us-economy
 title: Global News Digest- US Jobs Data, NVIDIA's Slowdown, and Geopolitical Tensions
 ---
-
 ## 财经头条：美国就业数据与英伟达增长放缓
 
 我们首先来了解今天的财经头条，有两个方面的最新信息值得大家了解。

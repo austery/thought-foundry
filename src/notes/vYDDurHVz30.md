@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-02-02'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vYDDurHVz30
 speaker: Anthony看世界
@@ -25,7 +22,6 @@ tags:
 - thinking
 title: 警惕统计学思维：如何避免人生千篇一律并发现自我独特性
 ---
-
 ### 引言：警惕统计学思维的陷阱
 
 大家好，我是Anthony。欢迎来到我的频道。今天我想和大家聊聊许多人在做决策时常犯的一个错误，那就是**统计学思维**（Statistical Thinking: 一种通过回归分析和优化模型进行决策的思维方式）。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-22'
@@ -11,10 +11,7 @@ media_books:
 - 《隐墙》
 - 《鲁滨逊漂流记》
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3DMH3LV75xU
 speaker: 安争鸣（Stella An）
@@ -28,7 +25,6 @@ tags:
 - war
 title: 《隐墙》：冷战阴影下的生存寓言与理性之殇
 ---
-
 ### 频道里程碑与《隐墙》的重现
 
 我的频道订阅量刚刚突破了20万，这对我来说是一个奇迹，至少目前在YouTube上还没有看到同类型节目有如此多的订阅。在此，我衷心感谢各位的支持，希望大家能将我的频道推荐给更多朋友，让我能稍微梦想一下30万订阅的目标。

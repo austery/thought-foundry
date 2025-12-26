@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -48,10 +48,7 @@ products_models:
 - GPT-4
 - ChatGPT
 - Grok
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GKxQ0Bq2c5c
 speaker: 北美王路飞
@@ -65,7 +62,6 @@ tags:
 - tech
 title: 马斯克与奥特曼的AI帝国之争：硅谷“权游”的十年恩怨
 ---
-
 ### 硅谷“权游”：马斯克与奥特曼的十年恩怨
 
 大家好，欢迎来到我的频道。今天我们要讲述的故事，堪称是硅谷版的**《权力的游戏》**（Game of Thrones: 一部讲述权力斗争的史诗奇幻小说及电视剧）。在我们这个时代，科技圈的神是换了一茬又一茬，从比尔·盖茨到史蒂夫·乔布斯，从贝索斯再到扎克伯格。要说现在哪两个名字放在一起最具戏剧性，最能体现出人性的复杂和权力的诱惑，那必须是埃隆·马斯克（Elon Musk）和萨姆·奥特曼（Sam Altman）。

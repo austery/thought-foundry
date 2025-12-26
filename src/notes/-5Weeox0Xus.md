@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -24,10 +24,7 @@ people:
 products_models:
 - ChatGPT
 - CUDA
-project:
-- investment-strategy
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-5Weeox0Xus
 speaker: Norges Bank Investment Management
@@ -41,7 +38,6 @@ tags:
 - investment-philosophy
 title: 斯坦·德鲁肯米勒：洞察宏观经济、AI投资与美联储政策的传奇投资人
 ---
-
 ### 宏观经济展望与美联储政策
 
 **Nicola Tangan:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 负责管理挪威政府全球养老基金）的首席执行官尼古拉·坦根。今天，我与投资界的传奇人物斯坦·德鲁肯米勒（**Stan Druckenmiller**: 著名宏观对冲基金经理，索罗斯量子基金前首席策略师）在这里。斯坦，很高兴见到你。你目前最关注哪些重要数据？

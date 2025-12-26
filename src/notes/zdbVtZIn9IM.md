@@ -57,8 +57,7 @@ products_models:
 - Gemini
 - GPT-5
 - GPT-6
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zdbVtZIn9IM
 speaker: Dwarkesh Patel
@@ -71,7 +70,6 @@ tags:
 - national-security
 title: 2027年通用人工智能、中美超智能竞赛与历史的回归
 ---
-
 ### AI发展与地缘政治风险
 
 未来面临的风险将不仅仅是酷炫的产品，而是**自由民主**能否存续，**中国共产党**能否存续，以及未来一个世纪的世界秩序将如何演变。**中国共产党（CCP）**将竭尽全力渗透美国的AI实验室，投入数十亿美元，动员数千人，试图在AI领域超越美国。人们没有意识到国家层面的间谍活动有多么激烈。当我们拥有真正的**超级智能**（Superintelligence: 远超人类智能水平的人工智能）时，它们甚至可以像**震网病毒**（Stuxnet: 一种复杂的计算机蠕虫病毒，曾被用于攻击伊朗核设施）一样攻击中国的**数据中心**。你真的认为这会是一家私营公司的事情，而政府不会惊呼“天哪，到底发生了什么？”

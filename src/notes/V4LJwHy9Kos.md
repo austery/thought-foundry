@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -19,10 +19,7 @@ people:
 - Mike Johnson
 - Tracy Mumford
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=V4LJwHy9Kos
 speaker: New York Times Podcasts
@@ -35,7 +32,6 @@ tags:
 - renewable-energy
 title: COP30气候峰会美国缺席、特朗普政府政策与西岸暴力升级
 ---
-
 ### 纽约时报头条新闻
 
 这里是《纽约时报》的头条新闻。我是威尔·贾维斯。今天是11月12日星期三。以下是我们正在报道的内容。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies:
 - bicycle-touring
@@ -19,9 +19,7 @@ layout: post.njk
 media_books: '[]'
 products_models:
 - Ford F-150
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PU1poPjWfG4
 speaker: 徒步的騎手
@@ -34,7 +32,6 @@ tags:
 - technology
 title: 我的汽车与自行车之旅：26年美国生活中的驾驶与骑行感悟
 ---
-
 ### 引言：徒步骑行与汽车情缘
 
 各位好，今天说点轻松的。这几年我经常出门徒步骑行，出远门徒步骑行一般是两三个月时间。回到家后，一般要适应几天，尤其是开车上路，在高速穿梭的车流当中多少有点陌生感。不知不觉来到美国已经26年，想一想买过11辆汽车加5辆自行车。按照顺序，买过的汽车有Acura（中文好像叫欧歌）、丰田、本田、林肯、雷克萨斯、宝马、奔驰、福特、特斯拉。自行车有凯迪拉克、Specialized、Canyon、State。

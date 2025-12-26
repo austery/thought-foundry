@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Polymarket
@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - 《他乡的童年》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gevH3h-5p6A
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - learning
 title: 教育的可能性，就是生活的可能性：全球视野下的童年与社会土壤
 ---
-
 ### 教育不是方法，而是社会的投影
 
 大家好，我是纪录片导演周轶君。2018年，当我的两个孩子分别六岁和三岁时，我陷入了一个深刻的困惑：上一代的教育方式似乎已不再适用，而我自己，却找不到新的语言去回应下一代的成长需求。作为一名国际新闻记者，我选择走进更大的世界——去看看其他国家的教育长什么样子。

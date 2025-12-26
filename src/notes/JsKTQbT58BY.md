@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-11-24'
 draft: true
@@ -7,10 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- systems-thinking
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JsKTQbT58BY
 speaker: AI Engineer
@@ -23,7 +20,6 @@ tags:
 - software-engineering-principle
 title: 告别“随性编程”：AI辅助开发的高效框架与实践
 ---
-
 ### “随性编程”的困境与AI加速开发的挑战
 
 灵感来袭，你有一个想法，并且清楚地知道如何实现它。你启动了你最喜欢的**AI编程代理**（AI Coding Agent: 能够根据指令生成代码的AI工具），输入提示词，然后将任务交给它。看，它完成了！也就是说，你完成了。应用程序运行良好。这才是**10倍工程师**（10x Engineer: 指生产力远超普通工程师的开发者）真正感受到的。你是个天才，是AI革命中的反叛者。

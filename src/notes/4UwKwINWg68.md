@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日诊所
@@ -11,8 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4UwKwINWg68
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -26,7 +25,6 @@ tags:
 - weight-management
 title: 医师实测：街头小吃隐藏的血糖陷阱与聪明吃法
 ---
-
 ### 街头小吃与健康：血糖波动的秘密
 
 大家好，我是范亚萱医师。你是否跟我一样，出门游玩最期待的就是品尝美食与小吃，但又担心一不小心就会发胖？今天我将带大家实测高雄小吃，并用实际的血糖机数据告诉大家，如何掌握进食顺序和点餐技巧，让你出门在外也能吃得开心又安心。

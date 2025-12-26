@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -36,10 +36,7 @@ people:
 products_models:
 - Grok
 - Gemini Flash
-project:
-- us-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cHiZ-7jI0Ew
 speaker: Patrick Boyle
@@ -53,7 +50,6 @@ tags:
 - risk
 title: OpenAI的万亿负债与政府救助之争：AI泡沫下的金融幻觉
 ---
-
 ### OpenAI的万亿负债：一场由算力渴求驱动的金融豪赌
 
 在最近几周，市场对AI热潮能否持续产生了严重焦虑。这种焦虑部分源于OpenAI首席财务官莎拉·弗里尔（Sarah Friar）曾提出：政府为该公司高达1.4万亿美元的数据中心建设提供担保，或许是个“不错的主意”。这一言论迅速引发公众愤怒。

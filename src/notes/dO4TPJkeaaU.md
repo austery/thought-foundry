@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Stanford
@@ -14,9 +14,7 @@ products_models:
 - AlphaZero
 - BERT
 - GPT-2
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 source: https://www.youtube.com/watch?v=dO4TPJkeaaU
 speaker: Lei
 summary: OpenAI 研究员 Jack Rae 在斯坦福 MLSys 研讨会上深入探讨了压缩与通用人工智能（AGI）之间的本质联系。他论证了生成式模型实际上是最先进的无损压缩器，并基于最小描述长度（MDL）原则提出：更好的压缩意味着更强的泛化能力与理解力。文章结合算术编码、模型缩放定律及
@@ -29,7 +27,6 @@ tags:
 - scaling-law
 title: 压缩即智能：AGI 的最小描述长度之路
 ---
-
 ###介绍与开场大家好，欢迎来到斯坦福 MLSys 研讨会系列的第 76 期。
 
 <details>

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Blackstone
@@ -12,9 +12,7 @@ layout: post.njk
 media_books: []
 people:
 - Mark Zuckerberg
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1-_hxKKmIsA
 speaker: Norges Bank Investment Management
@@ -28,7 +26,6 @@ tags:
 - private-equity
 title: 黑石集团总裁Jon Gray：投资成功之道与未来趋势洞察
 ---
-
 ### 黑石集团的成功秘诀
 
 **Niola Tangan:** 大家好，我是挪威**主权财富基金**（Sovereign Wealth Fund: 由政府拥有和管理的投资基金）的首席执行官Niola Tangan。今天我邀请到了Jon Gray。

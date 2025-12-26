@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 德意志银行
@@ -24,10 +24,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qT8oR3RF2gQ
 speaker: 海淀拙大叔
@@ -41,7 +38,6 @@ tags:
 - market
 title: 德意志银行预测A股三年内冲击6100点：国际投行看多中国资产的深层逻辑
 ---
-
 ### 德意志银行看多中国资产报告解读
 
 本期《阿甘经济宏观论》第14集，我们将探讨德意志银行关于A股将在三年内冲击6100点的预测。近期，德意志银行发布的这份看多中国资产的报告，无疑在投资界引起了广泛关注。在该报告发布后，高盛、摩根士丹利（**大摩**：Morgan Stanley，国际知名投资银行）、汇丰等国际投行也纷纷跟进，相继发布了看多中国资产的报告。

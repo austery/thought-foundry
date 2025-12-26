@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Goldman Sachs
@@ -16,10 +16,7 @@ people:
 products_models:
 - SMH
 - IBIT
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=begfirtqquc
 speaker: Darren聊美股
@@ -33,7 +30,6 @@ tags:
 - strategy
 title: 【2025年度总结】美国市场ETF投资组合推荐：增长型与Covered Call双轨策略
 ---
-
 ### 2025年美股ETF表现回顾与核心组合分析
 
 大家好，我是Darren。本期视频将系统性地回顾2025年美股ETF的市场表现，并基于历史数据与未来展望，推荐两类核心投资组合：**增长型ETF组合**和**Covered Call ETF组合**。

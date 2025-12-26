@@ -22,10 +22,7 @@ people:
 - Warren Buffett
 - Charlie Munger
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=y_s_mLc2pws
 speaker: Shijun Tang
@@ -38,7 +35,6 @@ tags:
 - stock
 title: 可口可乐与Celsius：复利机器还是过山车？深度解析两大饮料巨头投资价值
 ---
-
 ### 投资可口可乐：是无敌复利机器还是神话？
 
 今天我们来谈谈可口可乐，它是股神巴菲特的重仓股票，也被很多投资人戏称为永远都不会卖出的股票。今天我们就来详细谈谈，看看可口可乐是不是真的可以拿一辈子都不用卖出。

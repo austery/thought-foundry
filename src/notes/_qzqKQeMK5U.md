@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-12-05'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《西子姑娘》
 - 《巨流河》
-project:
-- historical-insights
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_qzqKQeMK5U
 speaker: 一席YiXi
@@ -25,7 +22,6 @@ tags:
 - war
 title: “我们的身体、飞机和炸弹，当与敌人兵舰阵地同归于尽”：抗战飞行员的生死抉择与现代贵族精神
 ---
-
 ### “我们的身体、飞机和炸弹，当与敌人兵舰阵地同归于尽”：一段被遗忘的空中誓言
 
 各位好，我是张钊维，一名纪录片导演。今天我想讲的故事，始于一句1946年写给中国空军的歌词：“我们的身体、飞机和炸弹，当与敌人兵舰阵地同归于尽。”这不是口号，而是一群年轻人在踏入航校第一天就刻入骨髓的信念。

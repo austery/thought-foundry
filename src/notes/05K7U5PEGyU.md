@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 富士康
@@ -27,9 +27,7 @@ people:
 - 刘晓波
 products_models:
 - ChatGPT
-project:
-- china-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=05K7U5PEGyU
 speaker: 三個水槍手
@@ -43,7 +41,6 @@ tags:
 - value
 title: 从性别偏见到幸存者内疚：一场关于底层、牺牲与爱的深度思辨
 ---
-
 ### 引言：一场围绕评论的“公开审判”
 本期节目是一期读评论节目，主要回应了观众对之前关于“三大理论”那期内容的批评。观众的批评主要集中在其中一位主持人对女性的看法上，形成了七三开甚至八二开的两派观点。一部分观众认为其言论存在偏见，而另一部分则认为这反映了真实的社会现象，批评其他主持人“不接地气”。借此机会，我们想坦诚地面对这些批评，并展开更深入的探讨。
 

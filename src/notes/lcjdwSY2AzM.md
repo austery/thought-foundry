@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - KiwiCo
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - Albert Einstein
 - David Hilbert
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lcjdwSY2AzM
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - symmetry
 title: 物理学中最大的误解：诺特定理如何揭示能量守恒的真相
 ---
-
 ### 能量守恒的悖论：太空中的一块石头
 
 想象一下，你是一名宇航员，在深空中漂浮，然后你尽力扔出一块石头。你可能会认为这块石头会以恒定的速度沿直线继续飞行，这正是**牛顿第一定律**（Newton's First Law: 描述物体在不受力或所受合力为零时运动状态的定律）。然而，实际情况是，它最终会减速并停止。那么，这究竟是为什么？这块石头的所有能量都去哪儿了呢？

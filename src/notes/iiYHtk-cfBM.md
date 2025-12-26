@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Apple
@@ -20,10 +20,7 @@ people:
 - Warren Buffett
 products_models:
 - iPhone
-project:
-- investment-strategy
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iiYHtk-cfBM
 speaker: Best Partners TV
@@ -37,7 +34,6 @@ tags:
 - philosophy
 title: 段永平访谈精粹：理性、克制与长期主义的商业智慧
 ---
-
 ### 访谈概述：理性与克制，穿越商业周期
 
 各位读者大家好。在2025年11月11日，由**雪球**（Xueqiu: 中国领先的投资社区平台）出品的《方略》第三季第一期节目中，雪球创始人**方三文**在美国加州与著名企业家、投资人**段永平**进行了一场面对面访谈。这不仅是一场关于财富的对话，更是一次面向创业者、企业家与投资人的理性探讨。

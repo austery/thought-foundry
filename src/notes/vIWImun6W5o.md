@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vIWImun6W5o
 speaker: 北美王路飞
@@ -21,7 +20,6 @@ tags:
 - philosophy
 title: 图灵奖得主Judea Pearl的灵魂拷问：AI能回答“为什么”吗？
 ---
-
 ### AI的真正局限：因果关系之梯
 
 你是否曾想过，那些画出蒙娜丽莎、太空漫步图的AI，以及打败世界围棋冠军的**AlphaGo**（AlphaGo: 谷歌DeepMind开发的人工智能围棋程序），在某些方面可能还不如一个三岁的孩子聪明？这不是科幻，也不是危言耸听，而是当前人工智能最顶尖学者们正在激烈讨论的一个事实。究其原因，所有这些强大的AI，都被困在了**因果关系之梯**（Ladder of Causality: Judea Pearl提出的一个框架，用于描述不同层次的因果推理能力）的最底层。而我们每个人，包括三岁的孩子，每天都在这个梯子顶端自由攀爬。

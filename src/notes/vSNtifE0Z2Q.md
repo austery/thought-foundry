@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - NASA
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Jim
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vSNtifE0Z2Q
 speaker: veritasium
@@ -27,7 +25,6 @@ tags:
 - space-exploration
 title: NASA如何重塑车轮：记忆合金Nitinol的魔力与应用
 ---
-
 ### 镍钛诺：自然界中的“魔法金属”
 
 这种金属是自然界中能找到的，最接近魔法的物质。我简直无法理解它。它能调整原子排列，恢复到预设的形状，同时还能在机械能和热能之间进行转换。它还能比普通金属多拉伸30倍，却依然能弹回原始尺寸。我能感觉到它在我手中收缩回去。

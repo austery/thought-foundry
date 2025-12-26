@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -28,10 +28,7 @@ people:
 - 唐石峻
 products_models:
 - Waymo
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hm9c1_W3hkE
 speaker: Shijun Tang
@@ -45,7 +42,6 @@ tags:
 - value
 title: Google搜索真不行了吗？深度解析科技巨头的多元业务与市场误判
 ---
-
 ### Google搜索真的不行了吗？揭开市场误判的真相
 
 最近几周，Google股价下跌近20%，媒体纷纷宣称“Google搜索已不行了”，认为其市场份额正被OpenAI、中国字节跳动旗下的“豆包”（Doubao）、阿里旗下的“通义千问”等大模型平台蚕食。加上美国司法部正在酝酿反垄断诉讼，市场情绪一度悲观。但这些说法是否真实？还是只是媒体对技术变革的片面解读？

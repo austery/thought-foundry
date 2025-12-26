@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs: []
 date: '2025-10-04'
@@ -15,8 +15,7 @@ people:
 products_models:
 - AlphaGo
 - AlphaZero
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u3HBJVjpXuw
 speaker: Dwarkesh Patel
@@ -28,7 +27,6 @@ tags:
 - world-model
 title: 对萨顿访谈的思考：AI学习范式与未来
 ---
-
 ### 对萨顿观点的理解
 
 大家对**萨顿**（Sutton）的访谈有很多想法。我自己也一直在思考，现在对萨顿的视角有了比采访时更清晰的理解。我想分享一下我如何理解他的世界观。理查德（Richard），如果还有任何错误或误解，请多包涵。从你的想法中学到东西非常有益。这是我对理查德（Richard）立场的“钢人”（Steelman）式理解。

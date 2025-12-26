@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Oracle
@@ -53,10 +53,7 @@ people:
 products_models:
 - Gemini Flash
 - Blackwell GPU
-project:
-- us-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1qDVPHSS-J8
 speaker: Amit Kukreja
@@ -70,7 +67,6 @@ tags:
 - technology
 title: AI泡沫、SpaceX上市与年末市场博弈：2026年的经济转折点
 ---
-
 ### AI行业产能焦虑与年末市场博弈
 
 本周，市场经历了一场由AI基础设施新闻引发的剧烈波动。Oracle发布声明澄清，其与OpenAI合作的数据中心项目并未出现延期，所有里程碑均按计划推进。然而，市场对此反应冷淡——此前由媒体渲染的“延期”传闻已导致科技股集体下跌，显示出投资者对AI行业巨额资本开支（capex）的普遍焦虑。这种情绪并非针对单一公司，而是对整个AI产业链能否持续支撑其高昂估值的系统性担忧。市场开始质疑：当所有公司都在竞相建设数据中心时，实际需求能否跟上？这种“AI叙事疲劳”正在侵蚀市场的信心。

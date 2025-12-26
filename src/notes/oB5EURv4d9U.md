@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-13'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oB5EURv4d9U
 speaker: 硅谷101播客
@@ -24,7 +23,6 @@ tags:
 - ultrasonic-bci
 title: 超声脑机接口：挑战Neuralink，AI巨头与硅谷大佬的下一片蓝海
 ---
-
 ### 引言：超声脑机接口的兴起与竞争格局
 
 泓君: 欢迎收听硅谷101，我是泓君。在人工智能领域打得正火热的时候，**OpenAI**（OpenAI: 一家美国人工智能研究实验室和公司，以开发ChatGPT等大型语言模型闻名）的创始人Sam Altman正在低调布局一家脑机接口公司，叫做**Merge Labs**（Merge Labs: Sam Altman参与创立的脑机接口公司）。它采用基因改造与超声波的方式，在脑机接口领域与马斯克开始正式的竞争。就在2025年上半年，像超声脑机接口这样的公司陆续得到了硅谷顶级富豪的资本支持。这条路径进入脑机接口领域，与**Neuralink**（Neuralink: 埃隆·马斯克创立的神经技术公司，致力于开发植入式脑机接口）这种需要破脑膜的方式完全不同。Neuralink是通过电信号进行通信的脑植入，而**超声脑机接口**（Ultrasonic Brain-Computer Interface: 利用超声波检测血流信号来揭示大脑秘密的脑机接口技术）是用超声波检测到的血流信号来揭开大脑的秘密。这集节目对我来说也打开了一个新大陆，而且最有意思的是，我发现我们从完全不同的视角再去看Neuralink的时候，就像站在月球去看地球，又打开了一个新的世界。聊到最后，我们会发现脑机接口、人工智能、机器人正在朝着融合的方向发展，而这也是硅谷最有意思的地方。下面就请收听我们今天的节目。今天我在上海的小宇宙总部来录了这集的播客，今天跟我们在一起的嘉宾也非常特别，他之前是脑虎科技的创始人彭雷，现在也开始做了一家新的公司。

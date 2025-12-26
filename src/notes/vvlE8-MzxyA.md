@@ -13,9 +13,7 @@ layout: post.njk
 people:
 - Dylan Patel
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: null
 source: https://www.youtube.com/watch?v=vvlE8-MzxyA
 speaker: ''
@@ -31,7 +29,6 @@ tags:
 title: Semiconductor Wars - The Nvidia-Intel Alliance, Huawei's Rise, and the AI Hardware
   Arms Race
 ---
-
 ## The Nvidia-Intel Bombshell Alliance
 
 Eric: Dylan, welcome back to the podcast.

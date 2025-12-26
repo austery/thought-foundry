@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -33,10 +33,7 @@ products_models:
 - Reels
 - TikTok
 - Douyin
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jeZQPXsFIxw
 speaker: Shijun Tang
@@ -50,7 +47,6 @@ tags:
 - semiconductor-equipment
 title: 持有Meta 1234天：投资Thesis、应用材料与万事达卡深度分析
 ---
-
 ### Meta投资回顾与未来展望
 
 我持有**Meta**（Meta Platforms, Inc.: 脸书母公司，全球领先的社交媒体和数字广告公司）已经1234天了，这可能是一个巧合，因为我写文案的这天正好是第1234天。如果你关注我有一段时间了，你肯定知道，Meta在我所有仓位中，按照回报的比例来看是最高的。今天我们就来详细谈谈，看看持有1234天之后，我的**投资Thesis**（Investment Thesis: 投资论点，指支持一项投资决策的核心理由和预期）到底有没有变化，以及我对Meta的未来究竟如何看待。

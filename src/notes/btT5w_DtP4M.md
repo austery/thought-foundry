@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -21,10 +21,7 @@ products_models:
 - Bloomberg Terminal
 - Bitcoin
 - Microsoft
-project:
-- investment-strategy
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=btT5w_DtP4M
 speaker: Bloomberg Podcasts
@@ -40,7 +37,6 @@ tags:
 - systemic-risk
 title: 全球投资者为何开始对美元敞口进行对冲？
 ---
-
 ### 播客开场：美元、黄金与市场分歧
 
 **Bloomberg:** 音乐。

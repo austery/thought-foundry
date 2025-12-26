@@ -27,9 +27,7 @@ people:
 products_models:
 - Covered Call ETF
 - Alpha Picks
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3wximl8zbTE
 speaker: Darren聊美股
@@ -42,7 +40,6 @@ tags:
 - stock
 title: 美股圣诞行情在路上？分享我近期的个股操作 | 降 Beta | 我是如何卖股票的 | RKLB火箭实验室暴涨 | 美光MU财报炸裂
 ---
-
 ### 本周市场回顾与展望
 
 大家好，我是Darren，欢迎回到我的频道。本周美股低开高走，连续三天的下跌后，随着超越预期的 **CPI** 数据公布，以及周五的 **四巫日** 带来的期权压力释放，大盘在最后两天持续走高。目前 **标普大盘** 再次站回六千八百点。我看好下周的 **圣诞行情** 还是大概率会到来，届时标普有望继续冲击新高的六千九百点，甚至实现之前大家预期的年底七千点位的突破。今年到目前为止，标普大盘的收益是百分之十六，我的个股账户在同时期上涨了百分之四十八，正好是标普大盘收益的三倍。

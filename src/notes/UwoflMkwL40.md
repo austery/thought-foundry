@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Twitter
@@ -19,10 +19,7 @@ products_models:
 - Whisper Flow
 - ChatGPT
 - Claude
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UwoflMkwL40
 speaker: EO
@@ -36,7 +33,6 @@ tags:
 - personal
 title: AI时代内容创作：从个人品牌到垂直化蓝海
 ---
-
 ### AI的崛起与内容创作者的机遇
 
 当我们刚开始时，每个人都害怕AI会取代一切。当时有一句名言：“AI不会取代你，但使用AI的人会。”我意识到我的受众真正想要的是最新的AI新闻。他们面临的最大问题是，看到一些爆红的东西，然后说：“我想试试那个。”他们试了之后会觉得：“酷，我试过了。”但他们没有发现任何用途。所以，他们没有任何黏性，使用那个工具对他们来说毫无意义，订阅它也没有任何意义。

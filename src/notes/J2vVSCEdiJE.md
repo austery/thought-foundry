@@ -18,10 +18,7 @@ people:
 - 潘功胜
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J2vVSCEdiJE
 speaker: 小翠時政財經
@@ -34,7 +31,6 @@ tags:
 - technology
 title: 央行报告揭示中国经济真相：贷款、M2、社融全线承压，技术官僚进退维谷
 ---
-
 ### 中国技术官僚的困境与央行报告的“反话”
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月13日。

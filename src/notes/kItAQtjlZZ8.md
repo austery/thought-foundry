@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Western Alliance
@@ -25,10 +25,7 @@ people:
 products_models:
 - Xbox
 - Bitcoin
-project:
-- us-analysis
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kItAQtjlZZ8
 speaker: 小翠時政財經
@@ -43,7 +40,6 @@ tags:
 - us-election-2024
 title: 美股“活久见”：区域银行危机再现，全球股市震荡，川普政策与中国财政压力
 ---
-
 ### 2025年资本市场：活久见与每日要闻
 
 大家好，欢迎回到小翠时政财经。今天是东时间2025年10月17日，欢迎收看我们今天的每日要闻节目。今天的节目内容非常精彩，因为股市事件频发。今年的资本市场，如果用一个词来形容，那真的是“活久见”。黄金白银猛涨，甚至涨过了美股和所有风险资产。大家一边买美股，一边买黄金对冲风险，个个都很专业。每一天的行情都精彩得可以写进剧本。我记得我看过一部美剧叫《Billions》，我觉得今年可以写一个姐妹剧叫《Trillions》，毕竟通货膨胀了嘛，单位都不够用了。

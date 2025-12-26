@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Goldman Sachs
@@ -18,10 +18,7 @@ people:
 - Bill Gross
 products_models:
 - ETF
-project:
-- investment-strategy
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lRGr9UAE1Kw
 speaker: Bloomberg Podcasts
@@ -34,7 +31,6 @@ tags:
 - risk
 title: 尾部风险对冲：在市场巨变中保护投资组合
 ---
-
 ### 投资组合构建的挑战与尾部风险
 
 Tracy: 大家好，欢迎收听《OddLots》播客的又一期节目。我是Tracy Alloway。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -29,10 +29,7 @@ people:
 - Justin Trudeau
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qWIlCBv-psU
 speaker: TVO Today
@@ -46,7 +43,6 @@ tags:
 - ontario-politics
 title: 安大略省政治播客：教育、经济与历史
 ---
-
 ### 播客开场与本期议题
 
 **Steve:** 欢迎大家收听 **OnPy播客**（OnPy Podcast: TVO Today的政治评论播客）。

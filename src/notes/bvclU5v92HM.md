@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 伯克希尔·哈撒韦
@@ -21,10 +21,7 @@ layout: post.njk
 people:
 - 黄仁勋
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bvclU5v92HM
 speaker: 视野环球财经
@@ -38,7 +35,6 @@ tags:
 - us-stock-market
 title: 美股市场展望：英伟达财报与科技巨头动向分析
 ---
-
 ### 市场概览与宏观经济动向
 
 大家好，欢迎回到视野环球财经，我是Rino。现在是美东时间25年11月14号周晚上的8点45分。今天的四大指数呈现低开高走的态势，成功收复了盘前的恐慌性跌幅，收盘位置与昨天几乎持平。尽管有些指数表面上有所上涨，但标普500指数的下跌个股数量为311只，上涨的仅有186只。在标普的11个板块中，除了能源板块涨幅超过1%外，其他板块表现平平，甚至有6个板块收跌。

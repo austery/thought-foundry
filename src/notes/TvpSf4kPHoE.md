@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - NVIDIA
@@ -36,9 +36,7 @@ products_models:
 - GLP-1
 - Ozempic
 - HBM
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TvpSf4kPHoE
 speaker: Money or Life 美股频道
@@ -52,7 +50,6 @@ tags:
 - stock-market-review
 title: 美股复盘：AI基础设施仓位调整与HIMS深度分析
 ---
-
 ### 本周美股复盘与操作更新
 
 大家好，欢迎来到Money or Life美股频道。我是Ace，今天是2025年10月18号周六。本周的美股复盘及推演节目将分为三个部分：第一部分将更新我本周的操作以及最新的持仓情况；第二部分将阐述我清仓英伟达和Nebius的原因；第三部分则会深入探讨HIMS这家公司，包括其股价波动、CEO卖股行为以及川普对医药价格的言论，并分享我的看法。欢迎大家订阅Money or Life美股频道，这是对我创作的最大支持。

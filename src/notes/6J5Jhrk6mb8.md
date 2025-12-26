@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 北约
@@ -13,10 +13,7 @@ people:
 - 唐纳德·特朗普
 - 博励治
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6J5Jhrk6mb8
 speaker: 莊也雜談
@@ -30,7 +27,6 @@ tags:
 - us-canada-trade-war
 title: 加拿大2025年预算案：一场影响未来十年的政治经济豪赌
 ---
-
 ### 2025年加拿大联邦预算案：一场政治风暴的开端
 
 大家好，我是庄也。欢迎您收看庄也杂谈。今天，我们要聊一个非常重磅，并且将深刻影响未来十年加拿大命运的大事件——刚刚正式通过的2025-2026财年加拿大联邦预算案。为了方便，我们简称它为“2025年预算”。

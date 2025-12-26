@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国家统计局
@@ -23,9 +23,7 @@ people:
 - 刘晓波
 - 刘仲敬
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K_Z_JtFdpN4
 speaker: 三個水槍手
@@ -38,7 +36,6 @@ tags:
 - society
 title: 易富贤：被篡改的人口数据与中国不可逆转的衰退
 ---
-
 ### 被严重高估的中国人口数据
 
 中国的实际人口数字是高估的，并没有官方宣称的14.1亿那么多。其根本原因在于，从1990年之后，中国的生育率数据就被高估了。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Shopify
@@ -13,9 +13,7 @@ people:
 - Petr
 products_models:
 - Snatoms
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q51-gLL_MRM
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - technology
 title: 日本E-Defense：全球最大地震模拟器如何提升建筑抗震能力
 ---
-
 ### E-Defense：全球最大的地震模拟器
 
 这是世界上最大的地震模拟器，名为**E-Defense**（世界最大地震模拟器：位于日本，用于测试建筑抗震性能）。其巨大的振动台能够支撑一栋10层高的建筑，并以全球最具破坏性地震的力度，在各个方向上移动它。E-Defense已经进行了上百次测试，让各种建筑经受不同的模拟地震，所有这些都是为了学习如何使建筑更具抗震能力。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - United Nations
@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - The Economist
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MeBsN_t84Q0
 speaker: Money & Macro
@@ -29,7 +26,6 @@ tags:
 - rate
 title: 人口萎缩速度远超预期：联合国预测为何过于乐观？
 ---
-
 ### 全球人口峰值提前：联合国预测的乐观偏差
 
 联合国预测，全球人口将在2083年达到峰值。然而，越来越多的经济学家，例如宾夕法尼亚大学的**哈扎德·费尔南德斯·维拉富尔特**（Hazard Fernandes Villafuerte: 一位研究人口和经济趋势的教授），认为这一联合国预测过于乐观。

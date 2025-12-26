@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-05-11'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《追随昆虫》
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=57tsujZfeuo
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - strategy
 title: 世界破破烂烂，蜘蛛缝缝补补：一位建筑青年的昆虫观察日记
 ---
-
 ### 恐惧到热爱：一场微距镜头下的觉醒
 
 大家好，我是杨小峰。  

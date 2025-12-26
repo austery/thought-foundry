@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - New York Times
@@ -33,10 +33,7 @@ people:
 - Lindseay Halligan
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oEPqrCdwi9o
 speaker: New York Times Podcasts
@@ -50,7 +47,6 @@ tags:
 - systemic-risk
 title: AI泡沫：华尔街的担忧与硅谷的豪赌
 ---
-
 ### AI泡沫疑云：华尔街的担忧与硅谷的豪赌
 
 **Natalie:** 大家好，我是《纽约时报》的娜塔莉·基特罗夫，这里是《The Daily》节目。

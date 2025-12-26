@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2024-12-31'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《周易》
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6TpdZQ1yuBo
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - philosophy
 title: 在海滩上捡了800多只拖鞋：一位艺术家对海洋污染与文明的沉思
 ---
-
 ### 漂浮物中的时间与文明
 
 大家好，我叫付军胜，是一位来自山东烟台的青年艺术家。近八年来，我一直生活在家乡的海岛上进行创作。我们的故事，从一个塑料袋开始。

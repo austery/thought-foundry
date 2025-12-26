@@ -8,7 +8,7 @@ guest: null
 insight: null
 layout: post.njk
 program: 知行小酒馆
-project: 知行小酒馆
+project: []
 series: null
 source: https://www.youtube.com/watch?v=giSlEc0ZofI
 speaker: 知行小酒馆
@@ -21,7 +21,6 @@ tags:
 title: E194 当科普面对算法高墙：癌症生物学博士李志忠谈《癌症天敌》与信息茧房的突围
 updated: 2025-09-01T13:04
 ---
-
 ## 引言：科普的持久影响力与现实困境
 
 **雨白:**

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - New York Times Podcasts
@@ -30,7 +30,6 @@ tags:
 - personalized-gift
 title: 2025送礼指南：如何为最难取悦的人挑选礼物
 ---
-
 ### 导语：为“难搞”的人挑选礼物
 
 大家好，我是克里斯汀。

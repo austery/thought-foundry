@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - CDC
@@ -14,10 +14,7 @@ people:
 - Max Weber
 - Samuel Huntington
 products_models: []
-project:
-- us-analysis
-- cultural-critique
-- historical-insights
+project: []
 source: https://www.youtube.com/watch?v=uqwgJmnUYVk
 speaker: 徒步的騎手
 summary: 这是一篇基于旅途观察与深度数据分析的社会评论。文章从作者在美日两国的直观视觉反差出发，对比了高达74%的美国超重肥胖人口与仅24%的日本数据。通过引用《肥胖国度》一书及社会学理论，深入剖析了导致美国肥胖危机的客观因素（农业补贴、城市规划、加工食品）与主观因素（清教徒传统的丧失、自律文化的崩溃）。文章进一步探讨了“政治正确”如何阻碍了对肥胖问题的科学讨论，并指出在物质高度富足的时代，节制与个人责任感才是维持社会健康的核心免疫机制。
@@ -29,7 +26,6 @@ tags:
 - urban
 title: 富足的代价是节制：从中日肥胖率差异看社会自律与文化危机
 ---
-
 ### 中山道上的视觉反差：富裕病与健康的距离
 
 各位好，我现在依然是在中山道上。从严高到中金川这100公里的山谷路段，前几天我趁着天晴走了一段，今天因为下雨，便停下来录一段节目。

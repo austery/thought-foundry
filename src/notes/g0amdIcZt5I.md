@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -9,8 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g0amdIcZt5I
 speaker: veritasium
@@ -24,7 +23,6 @@ tags:
 - technology
 title: 世界最强磁铁：45特斯拉的奥秘与应用
 ---
-
 ### 世界最强磁铁：45特斯拉的惊人力量
 
 这就是世界上最强的磁铁，它能够吸入物体，产生电流，甚至能使非磁性物体悬浮。它甚至会对摄像设备造成严重影响。

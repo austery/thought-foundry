@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - 小米
@@ -11,10 +11,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- china-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=E1YoJJVY0Ww
 speaker: 海淀拙大叔
@@ -28,7 +25,6 @@ tags:
 - market-valuation
 title: 小米中报深度解析：汽车业务盈利在望，生态粘性与AI原生应用构建宏大未来
 ---
-
 ### 小米中报表现与五大核心优势
 
 小米公司研究论第23集，聚焦小米的中报。2025年上半年，小米收入约2200亿元，同比增长38%；净利润达228亿元，同比增长140%，表现亮眼。然而，小米股价并未显著上涨。本文旨在探讨小米未来的**宏大叙事**（Grand Narrative: 指一个企业或品牌超越短期业绩，构建的具有长远吸引力和愿景的发展故事）。

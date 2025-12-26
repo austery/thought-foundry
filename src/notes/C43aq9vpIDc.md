@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Adobe
@@ -22,10 +22,7 @@ people:
 products_models:
 - Photoshop
 - Premiere Pro
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C43aq9vpIDc
 speaker: Shijun Tang
@@ -39,7 +36,6 @@ tags:
 - opportunity-cost
 title: 什么时候卖股票？从巴菲特到拼多多的投资逻辑与择时误区
 ---
-
 ### 投资的核心难题：什么时候卖股票？
 
 今天我来聊聊什么时候卖股票这个话题。卖股票操作起来很简单——买入点一个键，卖出同样也是点一个键。股票是一种流动性极高的资产，而正因如此，把握买卖时机却变得异常困难。

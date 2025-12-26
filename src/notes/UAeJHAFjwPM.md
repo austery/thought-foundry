@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Brilliant
@@ -14,8 +14,7 @@ people:
 - Ben
 products_models:
 - ChatGPT
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UAeJHAFjwPM
 speaker: veritasium
@@ -30,7 +29,6 @@ tags:
 - technology
 title: 夜视镜是如何工作的？从原理到军事应用与未来展望
 ---
-
 ### 探索极致黑暗：夜视镜的奥秘
 
 当您将世界上最好的夜视镜带入世界上最黑暗的房间时，会发生什么？

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -19,8 +19,7 @@ products_models:
 - GPT-3.5
 - GPT-3
 - GPT-2
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Wo95ob_s_NI
 speaker: Dwarkesh Patel
@@ -33,7 +32,6 @@ tags:
 - technology
 title: OpenAI 联合创始人 John Schulman 谈 AI 推理、RLHF 与 2027 年 AGI 计划
 ---
-
 今天，我非常荣幸能与 **John Schulman** 对话，他是 **OpenAI** 的联合创始人之一，领导着后训练团队，并主导了 **ChatGPT** 的创建。他还撰写了许多人工智能和强化学习领域（包括 **PPO** 在内）最重要且被广泛引用的论文。**John**，很高兴与你交流，感谢你参加播客。
 
 感谢邀请我参加播客，我是你们的忠实粉丝。

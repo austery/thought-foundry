@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - University of Toronto
@@ -25,10 +25,7 @@ people:
 - Doug Ford
 - John Fraser
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DM1jVY-TeIQ
 speaker: TVO Today
@@ -43,7 +40,6 @@ tags:
 - strategy
 title: 凯瑟琳·温恩访谈：一位先行者的政治之路
 ---
-
 ### 引言：安大略省长的政治遗产
 
 STEVE: 安大略省的前省长们是否仍然坚持他们赖以成名的政策？

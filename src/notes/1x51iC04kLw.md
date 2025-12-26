@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - New York Times
@@ -19,8 +19,7 @@ people:
 - John
 products_models:
 - 401k
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1x51iC04kLw
 speaker: New York Times Podcasts
@@ -35,7 +34,6 @@ tags:
 - management
 title: 夫妻如何谈论金钱：从情感连接到共享富裕生活愿景
 ---
-
 ### 金钱：亲密关系中的“禁忌”话题
 
 主持人安娜·马丁在节目中指出，金钱是亲密关系中一个难以启齿的话题。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 date: '2025-10-13'
 draft: true
@@ -10,9 +10,7 @@ media_books:
 - bloomberg-podcasts
 people: []
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GABZK0KGkiE
 speaker: Bloomberg Podcasts
@@ -25,7 +23,6 @@ tags:
 - tariff
 title: Levi Strauss首席财务官：关税挑战下的增长与消费者韧性
 ---
-
 ### Levi Strauss股价表现与分析师预期
 
 Bloomberg: Levi Strauss shares are trading slightly lower today after dropping as much as 14% on Friday.

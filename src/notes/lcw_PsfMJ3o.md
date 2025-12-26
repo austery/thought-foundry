@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -31,10 +31,7 @@ people:
 - Marjorie Taylor Greene
 - Bill Clinton
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lcw_PsfMJ3o
 speaker: New York Times Podcasts
@@ -48,7 +45,6 @@ tags:
 - political
 title: 爱泼斯坦新邮件揭示特朗普关联及其政治博弈
 ---
-
 ### 爱泼斯坦邮件风波再起
 
 Rachel Abrams: 大家好，我是《**纽约时报**》（New York Times: 美国知名报纸）的蕾切尔·艾布拉姆斯，这里是《**每日**》（The Daily: 纽约时报播客节目）。

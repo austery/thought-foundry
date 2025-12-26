@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Hamas
@@ -24,10 +24,7 @@ people:
 - Ronald Reagan
 - George H.W. Bush
 - Mahatma Gandhi
-project:
-- geopolitics-watch
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LptK0TWA7l4
 speaker: 超級歪 SuperY
@@ -41,7 +38,6 @@ tags:
 - zionism
 title: 巴勒斯坦之殇：解析以巴冲突的百年演变与国际角色
 ---
-
 ### 引言：冲突的国际视角与历史溯源
 
 以色列-巴勒斯坦战争爆发后，西方各国政府纷纷表态支持以色列，谴责哈马斯的恐怖袭击。美国总统乔·拜登曾表示“美国与以色列站在一起”，而台湾的外交部也在台北101点亮了以色列国旗，以示声援。然而，阿拉伯国家则普遍支持巴勒斯坦，全球各地也爆发了许多支持巴勒斯坦的民间示威活动。

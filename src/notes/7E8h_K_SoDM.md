@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: lifestyle
 companies_orgs: []
 date: '2025-10-08'
@@ -20,7 +20,6 @@ tags:
 - travel
 title: 温哥华深度游：六大完美错过宝藏景点，不容错过！
 ---
-
 ### 史蒂夫斯顿渔村 (Steveston Village)
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊加西之旅。上一集和这一集，我打算花两天时间，讲述一下我和我太太在今年5月份的加西之旅中，因为时间安排不开而错过的那些精彩景点。

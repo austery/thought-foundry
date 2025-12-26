@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2024-03-30'
@@ -17,10 +17,7 @@ people:
 - Max
 - Freud
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LApcc7JBfi4
 speaker: 超級歪 SuperY
@@ -34,7 +31,6 @@ tags:
 - technology
 title: 《可憐的東西》哲學解析：社會即牢籠，人類如何追求自由？
 ---
-
 ### 《可憐的東西》：机械唯物论与存在主义的交锋
 
 今年荣获四项奥斯卡大奖的电影《可憐的東西》（Poor Things），无疑是年度最受瞩目的作品之一。影片讲述了19世纪维多利亚时代的伦敦，怀孕女子贝拉（Bella）自杀后，被科学家戈德温（Godwin）人工复活的故事。戈德温将贝拉母亲的脑部移除，植入其腹中婴儿的脑部，使得贝拉拥有成人身体和婴儿心智，成为戈德温密切观察的实验对象。

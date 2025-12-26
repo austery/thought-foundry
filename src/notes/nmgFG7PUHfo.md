@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CERN
@@ -17,9 +17,7 @@ people:
 - Carl Friedrich Gauss
 - Joseph Fourier
 - John F. Kennedy
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nmgFG7PUHfo
 speaker: veritasium
@@ -33,7 +31,6 @@ tags:
 - nuclear
 title: 史上最重要的算法：快速傅里叶变换如何影响世界
 ---
-
 ### 快速傅里叶变换：无处不在的幕后英雄
 
 这是一个关于**快速傅里叶变换**（Fast Fourier Transform, FFT: 一种用于将信号分解为不同频率的正弦波的算法，显著提高了傅里叶变换的计算效率）的视频，它被誉为史上最重要的算法。

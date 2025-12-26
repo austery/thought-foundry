@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-16'
@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - lt
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3n8drzDbFZ8
 speaker: LT視界
@@ -26,7 +24,6 @@ tags:
 - us-economy
 title: 全球经济与地缘政治：中美贸易战下的多方博弈
 ---
-
 ### 美国财经头条：稳定币监管、银行财报与美联储政策
 
 **稳定币监管与风险**

@@ -24,10 +24,7 @@ people:
 - Warren Buffett
 products_models:
 - Gemini
-project:
-- investment-strategy
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YOHoeWIZQ2A
 speaker: Shijun Tang
@@ -40,7 +37,6 @@ tags:
 - market-valuation
 title: 美股牛市下的价值投资实录：PayPal、Google、苹果、阿里与比亚迪的长期分析
 ---
-
 ### 美股牛市下的价值投资逻辑
 
 近期美股迎来大牛市，标普500指数突破5000点大关，比特币也重回69000美元前高。Nvidia、Arm Holdings、Uber、Costco、Coinbase、AMD等公司成为本轮行情的领涨者。尽管美国通胀率仍维持在3.1%，联邦利率高达5.5%，市场却呈现出“盛世降临”的氛围，散户疯狂涌入，投机主义再度主导情绪。

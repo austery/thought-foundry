@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NordVPN
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - Derek Muller
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lGJEihgN4OU
 speaker: veritasium
@@ -27,7 +25,6 @@ tags:
 - technology
 title: 全球最大降雨模拟器：日本如何应对极端天气挑战
 ---
-
 ### 引言：全球最大降雨模拟器
 
 这是位于日本**筑波**（Tsukuba: 日本关东地区的一个城市）的全球最大降雨模拟器。

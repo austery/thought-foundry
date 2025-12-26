@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies:
 - deepmind
@@ -16,8 +16,7 @@ products_models:
 - Gemini 3
 - Gemini 1.5
 - BERT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cNGDAqFXvew
 speaker: The MAD Podcast with Matt Turck
@@ -30,7 +29,6 @@ tags:
 - multimodal-ai
 title: Gemini 3 与 AI 的未来：深度对话 Sebastian Bourjou
 ---
-
 ### AI 进展与范式转变
 
 坦白说，我认为我们已经超越了最初的预期。我们不再仅仅是构建一个模型，而是真正地在构建一个**系统**。目前可能发生的是一种范式转变：过去我们主要在数据无限的领域进行扩展，而现在我们正转向**数据有限**的领域。这实际上极大地改变了研究方法和我们思考问题的方式。我暂时看不到这种工作方式会停止带来进展的迹象。

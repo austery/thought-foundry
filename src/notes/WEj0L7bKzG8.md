@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Oracle
@@ -69,10 +69,7 @@ products_models:
 - Ethereum
 - Bitcoin
 - IBIT
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WEj0L7bKzG8
 speaker: Amit Kukreja
@@ -86,7 +83,6 @@ tags:
 - stock
 title: CPI数据优于预期，推动标普500创下历史新高
 ---
-
 ### CPI 数据提振市场，标普500创历史新高
 
 大家早上好，欢迎回到新一期的市场开盘直播。朋友们，盘前市场一片大好，而且是“非常”好。我们之所以“非常”好，是因为标普500指数刚刚触及了676点。我们谈论的是在盘前就创下历史新高的那种“好”。

@@ -19,8 +19,7 @@ people:
 - John Williams
 - Kevin Hassett
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FsHmAfudzys
 speaker: Joseph Wang
@@ -34,7 +33,6 @@ tags:
 - society
 title: 市场周报：数据发布与日本央行动态
 ---
-
 ### 市场概览与本周焦点
 Hello my friends. Today is December 20th, and this is Markets Weekly. This week, markets were very choppy. It didn't seem like much was going on, and that Santa rally that many, including myself, have been expecting just isn't there, at least not yet. We only have a couple of weeks left in the year. The **S&P 500** is about a couple of percent away from 7,000. Let's see if it can get there. I was thinking this week would be about the market outlook, but actually, this past week was a full trading week. We'll do that next week when it's a shortened holiday trading week.
 

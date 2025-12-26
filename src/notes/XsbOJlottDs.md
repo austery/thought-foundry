@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -41,8 +41,7 @@ products_models:
 - GPU
 - CDS
 - ETF
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XsbOJlottDs
 speaker: 小翠時政財經
@@ -54,7 +53,6 @@ tags:
 - stock-market
 title: 拼多多打人事件揭露企业文化，亚马逊注资OpenAI，特斯拉白银铜价走势分析
 ---
-
 大家好，欢迎来到小翠时政财经。今天是美东时间2025年12月17日，欢迎收看我们今天的每日要闻节目。
 
 ### A股市场动态

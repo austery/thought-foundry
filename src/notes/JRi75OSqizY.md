@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Chinese Communist Party
@@ -16,9 +16,7 @@ media_books:
 - Fight Club
 - lgat-course
 products_models: []
-project:
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JRi75OSqizY
 speaker: 超級歪 SuperY
@@ -31,7 +29,6 @@ tags:
 - psychological-manipulation
 title: 揭秘心靈成長課程：從美國傳銷騙局到亞洲的心理操控史
 ---
-
 ### 心靈課程爭議的緣起與現狀
 
 三個月前，鍾大加寧的一段影片在台灣YouTuber圈引發了一場風暴，探討了加入心靈成長課程是否等同於誤入邪教的議題。許多YouTuber紛紛分享了他們參與心靈課程的經驗。近期，錫蘭又發布了一段影片，揭露了「三階段課程」的內幕，這進一步引發了廣泛討論，甚至促使衛生福利部介入調查。

@@ -26,8 +26,7 @@ products_models:
 - Apple Pay
 - Apple TV
 - Pixel
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ToGxKVWkeik
 speaker: Shijun Tang
@@ -39,7 +38,6 @@ tags:
 - stock-analysis
 title: 美股AAPL（苹果）还能打么？它还是无敌的复利机器么？| 持仓1276天复盘
 ---
-
 ### 开篇：苹果现状与视频主旨
 
 今天这期我们来谈谈**苹果**，股票代码**AAPL**。众所周知了，**巴菲特**老爷子已经连续好几个季度减持**苹果**了。可是**苹果**的股价，最近238天居然也涨了**70.57%**。再涨涨，可能**苹果**一年下来股价也要翻倍了。连**巴菲特**都开始大量减持**苹果**，未来**苹果**还有戏么？今天这期视频，我们从公司最新财报、最新基本面、竞争环境，以及公司护城河等多个方面来详细谈谈，究竟**苹果**这家公司未来他还有戏吗？

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-08-27'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SdBCdSbMNtQ
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-housing-market
 title: 美加楼市深度剖析：川普、美联储独立性与移民政策如何塑造房价未来
 ---
-
 ### 市场概览与银行板块表现
 
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且即使上期视频点赞量明显下滑情况下，还要为大家做日更的专业美股频道。我是市场分析员小涛。这样的开场白是不是暗示得有点明显了？没有关系，即使点赞量和留言量下降，我还是会为大家做日更，起码把这个班值到我回国之前。

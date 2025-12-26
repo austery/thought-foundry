@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-05-03'
 draft: true
@@ -30,10 +30,7 @@ people:
 - 李安
 - 哥白尼
 - Donald Trump
-project:
-- china-analysis
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GDcL1nc-IqI
 speaker: 張内咸
@@ -48,7 +45,6 @@ tags:
 - national-identity
 title: 美食强国，电影废国？从《饮食男女》看中国电影的文化困境与符号失语
 ---
-
 ### 中国电影的“消费年”与“战狼式”促销
 
 大家好，我是张内咸。好久没聊电影了，我也好久没看电影了。前段时间，我看到一条推送，标题是“跨省联动 多部门协作 直击中国电影行业”。看到这条推送，我吓了一跳，以为是要跨省抓谁，结果仔细一看，才明白这是个促销信息。推送说2025年是史上第一个“中国电影消费年”，预计要投入10亿元观影优惠补贴，以发挥电影对提振社会消费的带动作用。所以才要“跨省联动多部门协作”，“直击中国电影行业”，打出“促进消费组合拳”。

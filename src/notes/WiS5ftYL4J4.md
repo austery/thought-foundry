@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - FBI
@@ -25,9 +25,7 @@ people:
 - Alan Dershowitz
 - Jeffrey Epstein
 products_models: []
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WiS5ftYL4J4
 speaker: 记者易速利
@@ -41,7 +39,6 @@ tags:
 - victim-perpetrator-duality
 title: 爱泼斯坦案深度解析：吴丽娜的复杂角色与受害者赔偿基金的挑战
 ---
-
 ### 爱泼斯坦档案公布的政治博弈与法律困境
 
 在全力劝阻国会众议院共和党人之后，周日晚上唐纳德·特朗普改变了说法，表示支持他们要求公布爱泼斯坦文件的请求。这表明他希望保持共和党起码表面上的团结，不希望对立发展到无法调和的程度。特朗普也强调“无可隐瞒”，希望摆脱这件事情，因为美国的确还有太多更重要的议题期待应对。

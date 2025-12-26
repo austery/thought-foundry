@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - White House
@@ -23,9 +23,7 @@ people:
 - Jennifer Lawrence
 - Sydney Sweeney
 - Dwayne Johnson
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0KJpNfcogSk
 speaker: New York Times Podcasts
@@ -38,7 +36,6 @@ tags:
 - hollywood-box-office
 title: 特朗普政策转向、移民打击与加密货币诈骗：每日头条速览
 ---
-
 ### 特朗普在爱泼斯坦文件上的意外转向
 
 来自《纽约时报》的头条新闻，今天是11月17日星期一。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bilibili
@@ -19,10 +19,7 @@ people:
 - 马克思
 - 恩格斯
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZwXKjB8J5yQ
 speaker: 安争鸣（Stella An）
@@ -36,7 +33,6 @@ tags:
 - social
 title: 举报文化：阶级斗争思维的社会遗毒与个人反思
 ---
-
 ### 网络奇遇与舆论战场
 
 大家好，我是安争鸣。今天这期节目是一期聊天节目，估计老观众一听就明白，我肯定是又遇到想要吐槽的事情了。没错，接下来我就给大家讲一讲我最近在网络上的奇遇。

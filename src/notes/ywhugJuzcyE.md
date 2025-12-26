@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -47,10 +47,7 @@ products_models:
 - ETF
 - S&P 500
 - ChatGPT
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ywhugJuzcyE
 speaker: a16z
@@ -65,7 +62,6 @@ tags:
 - prediction-market
 title: Robinhood CEO Vlad Tenev：让每个人都成为所有者，打造普惠金融的未来
 ---
-
 ### 引言：所有权经济与信息噪音
 几个月前我发表了一个声明，我认为**预测市场**（Prediction Markets: 允许参与者就未来事件结果进行交易的市场）是真相机器。我们不断被各种信息和噪音轰炸。任何人都可以成为网红，任何人都可以拥有播客。你如何筛选这些信息，找出真正会发生什么？
 

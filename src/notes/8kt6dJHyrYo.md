@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies:
 - psychosomatic-disorder
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《疼痛治疗学》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8kt6dJHyrYo
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - social
 title: 疼痛不只是症状：社会功能粉碎与身心医学的觉醒
 ---
-
 ### 疼痛的真相：不只是身体信号，更是社会功能的崩塌
 
 坐下来询问病史的时候，一位70岁的老人开始讲述她的疼痛历史。她说起1958年就开始全身疼痛，吃过的药、看过的医生、经历的折磨，一讲就到了深夜十二点。她的女儿忍不住打断：“妈，您别说了，大夫还要睡觉呢——您还有五十年没说呢！”老人却坚持：“不行，关键点还没说到。连我的病情都不了解，怎么给我看病？”

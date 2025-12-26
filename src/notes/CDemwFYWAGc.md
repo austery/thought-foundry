@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-13'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CDemwFYWAGc
 speaker: Bloomberg Podcasts
@@ -25,7 +24,6 @@ tags:
 - tariff
 title: 全球商业洞察：加沙和平、AI芯片与企业财报分析
 ---
-
 ### 播客开场与嘉宾介绍
 
 Bloomberg Audio Studios, podcasts, radio, news. This is Bloomberg Business Week Daily, reporting from the magazine that helps global leaders stay ahead with insight on the people, companies, and trends shaping today's complex economy, plus global business, finance, and tech news as it happens. The Bloomberg Business Week Daily podcast with Carol Masser and Tim Stenbec on Bloomberg Radio.

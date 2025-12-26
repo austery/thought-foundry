@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Fox News
@@ -23,9 +23,7 @@ people:
 - Chris Wright
 products_models:
 - SNAP
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hv3E_ya91KI
 speaker: New York Times Podcasts
@@ -39,7 +37,6 @@ tags:
 - war
 title: 美国地方选举前瞻：关键州选情与特朗普政府争议
 ---
-
 ### 美国地方选举与政治动态
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是11月3日星期一。以下是我们将报道的内容。

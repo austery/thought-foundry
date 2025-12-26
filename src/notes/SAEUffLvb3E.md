@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-04-04'
 draft: true
@@ -12,10 +12,7 @@ media_books:
 people:
 - Sigmund Freud
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SAEUffLvb3E
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - society
 title: 隐藏的哀伤：年轻子女如何在沉默中承受父母离世之痛
 ---
-
 ### 一场被社会忽视的哀伤：年轻子女的无声痛苦
 
 大家好，我叫昀鋆，来自香港中文大学社会工作系。在正式开始之前，我想问大家几个问题——不用举手回答，你只要在心里想一想你的答案就好。

@@ -16,9 +16,7 @@ layout: post.njk
 products_models:
 - TPU
 - GPU
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CHWoaQ_S-wE
 speaker: 视野环球财经
@@ -29,7 +27,6 @@ tags:
 - interest-rate
 title: 美股市场分析：AI芯片、日元加息与2026展望
 ---
-
 大家好，欢迎回到视野环球财经。，我是 **reno**。现在是美东时间25年12月19号周晚上的7点45分。 今年最后一个完整的交易周是顺利结束了啊，今天的市场呢总体表现非常的活跃。，那么**标普**和**钠指**都是高开高走，那么**道指**和**罗素**呢稍微逊色一些啊，几乎是开在了收在了这个开盘价附近，不板。那么今天呢在这个板块方面和一些主题相关的啊，比如AI的**TPU**（Tensor Processing Unit: 谷歌开发的用于加速机器学习的专用集成电路）和**GPU**（Graphics Processing Unit: 图形处理器，常用于并行计算，尤其在AI领域）的两个声套系统呢，今天相关的股票都是强劲的反弹。所以呢总体**科技股**啊是领涨四大指数。
 
 ### 日元加息信号模糊

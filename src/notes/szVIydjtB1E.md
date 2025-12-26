@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - University of Waterloo
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - The Rundown
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=szVIydjtB1E
 speaker: TVO Today
@@ -25,7 +23,6 @@ tags:
 - urban-resilience
 title: 加拿大如何应对极端天气：适应与基于自然的解决方案
 ---
-
 ### 极端天气成为新常态：减缓与适应并重
 
 野火季节在十月底正式结束。如果你没有看到火焰，很有可能你闻到了烟味。

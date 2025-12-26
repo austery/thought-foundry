@@ -25,8 +25,7 @@ people:
 - Bill Clinton
 - Robert F. Kennedy Jr.
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KC5HhBkCXqU
 speaker: 北美王路飞
@@ -39,7 +38,6 @@ tags:
 - power-dynamic
 title: 白宫幕僚长苏西·威尔斯核弹级爆料：特朗普、马斯克、万斯内幕全揭露
 ---
-
 ### 引爆华盛顿：核弹级爆料
 
 你敢相信吗？华盛顿最沉默的女人，刚刚引爆了一颗核弹。在这个圈子里，有一条不成文的死规矩：永远不要让自己成为主角。如果你是幕僚长，你的工作就是执行，而不是上杂志封面。然而，**苏西·威尔斯**（Susie Wiles: **唐纳德·特朗普**的白宫幕僚长），这个被称为“冰雪女王”的女人，在此前几乎是一个隐形人。她没有几张公开照片，几乎从不接受采访。在特朗普混乱的第一任期里，他换了4个幕僚长，而苏西在第二任期中，在这个位置上已经稳坐了将近一年。

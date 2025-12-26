@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 小米集团
@@ -45,10 +45,7 @@ products_models:
 - ChatGPT
 - TPU
 - GPU
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0joBR9jgX-s
 speaker: 小翠時政財經
@@ -63,7 +60,6 @@ tags:
 - semiconductor
 title: 中国股市震荡、日本经济承压：全球科技与地缘政治下的多重挑战
 ---
-
 ### 中国股市与电动车行业动态
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月19日，欢迎收看我们今天的每日要闻节目。今天我们的内容很多，所以我们抓紧时间赶紧开始。

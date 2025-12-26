@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - SpaceX
@@ -18,9 +18,7 @@ products_models:
 - Boeing 747
 - Raptor engine
 - Saturn V
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Tvw0CzDd2TY
 speaker: 海伦子Hellen
@@ -33,7 +31,6 @@ tags:
 - technology
 title: SpaceX星舰第九次试飞回顾：进步与挑战并存
 ---
-
 ### 星舰第九次试飞：关键里程碑与挑战
 
 SpaceX的**星舰**（Starship: 美国太空探索技术公司SpaceX正在开发的新一代重型运载火箭和宇宙飞船）于北京时间5月28日上午7点36分进行了第九次试飞。尽管这次试飞没有上演“筷子甲火箭”的壮观场面，但它绝对是最重要的一次。此前两次试飞中，星舰二级都在上升阶段爆炸，未能成功入轨，而且那两次使用的是备受瞩目的第二代星舰。因此，第九次试飞需要证明其设计方案依然可行，这直接关系到美国接下来的登月计划，乃至整个太空经济。

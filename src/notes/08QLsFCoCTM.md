@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Goldman Sachs
@@ -24,10 +24,7 @@ products_models:
 - FSD
 - 18A
 - 14A
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=08QLsFCoCTM
 speaker: Shanghao Jin
@@ -41,7 +38,6 @@ tags:
 - us-economic-policy
 title: 美国BBB法案、美联储政策与关键行业展望：2025年市场深度分析
 ---
-
 ### 市场概览与“大美法案”的通过
 
 上周是美国独立日假期，整体市场相对清淡。本周一，美股下跌了0.75%。这一下跌主要受到美国“大美法案”（**BBB法案**：Big Beautiful Bill，美国一项重要的综合性法案，涵盖去监管、减税等多方面内容）闯关成功以及特朗普政府公布新关税政策的影响。尽管我之前预测该法案还会拖延一段时间，但共和党表现强势，最终在参议院以一票之差、众议院以几票之差使其通过。

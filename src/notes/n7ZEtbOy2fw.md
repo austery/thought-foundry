@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs: []
 date: '2025-10-11'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - trump
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n7ZEtbOy2fw
 speaker: 北美王路飞
@@ -22,7 +21,6 @@ tags:
 - crisis
 title: 2024年总统辩论：拜登崩溃时刻，白宫战情室绝望60秒
 ---
-
 ### 班农的预言：辩论前的警告
 
 2024年6月，就在那场后来改变一切的总统辩论前几天，唐纳德·特朗普打了一个电话给他的前**首席战略官**（Chief Strategist: 美国白宫高级顾问职位，负责制定总统的战略方针）史蒂夫·班农。班农当时正在直播他的战情室节目，他告诉特朗普自己正要上电视，稍后回电。等他回拨回去的时候，他问了特朗普一个所有人都想问的问题：“你为什么参加这场辩论？”特朗普的回答充满了自信，他说他要把拜登打得落花流水。

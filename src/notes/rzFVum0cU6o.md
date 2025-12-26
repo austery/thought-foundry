@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-04-25'
@@ -18,10 +18,7 @@ people:
 - 张爱玲
 - 小威廉·E·多尔
 products_models: []
-project:
-- personal-growth-lab
-- knowledge-pipeline
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rzFVum0cU6o
 speaker: 一席YiXi
@@ -35,7 +32,6 @@ tags:
 - tool
 title: 当诗歌脱离标准答案：在语言的远与近之间重拾体验的力量
 ---
-
 ### 诗歌为何让我们越来越陌生？
 
 各位同学、各位朋友，大家好。我是冯军鹤，一名独立语文老师。当你们看到“在我们的生命中，体验能够被说出来，是非常重要的”这个题目时，或许会感到困惑。但请相信，在这堂课结束之后，你们心里自然会有答案。

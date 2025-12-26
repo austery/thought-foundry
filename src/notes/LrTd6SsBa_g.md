@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Jefferies
@@ -28,9 +28,7 @@ people:
 - Robert Armstrong
 products_models:
 - Saily
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LrTd6SsBa_g
 speaker: Patrick Boyle
@@ -44,7 +42,6 @@ tags:
 - market
 title: AAA级垃圾债：Tricolor与First Brands破产案揭示信贷市场真实风险
 ---
-
 ### 破产风波：信贷市场尽职调查的盲区
 
 就在**First Brands Group**（一家汽车零部件进口商和分销商）宣布破产的几周前，它还被推销给投资者，被宣传为一个价值60亿美元的贷款机会。Jefferies公司当时正在推销这笔交易，该公司据称拥有近10亿美元现金。然而，它很快就崩溃了——这再次证明，“**尽职调查**”（Due Diligence: 投资前对目标公司进行的全面审查）有时只是推介材料中的一个空泛词汇。

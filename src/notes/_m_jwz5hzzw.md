@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - Shopify
@@ -16,10 +16,7 @@ people:
 - Andrew
 products_models:
 - Netflix
-project:
-- personal-growth-lab
-- systems-thinking
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_m_jwz5hzzw
 speaker: All-In Podcast
@@ -31,7 +28,6 @@ tags:
 - investment
 title: Chamath的健康优化之旅：预防性医疗与长寿之道
 ---
-
 ### 追求健康：我的动机与警醒
 
 我身边有许多朋友，他们拥有一切，唯独缺少健康，而我不想成为那样的人。

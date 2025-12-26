@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -12,9 +12,7 @@ layout: post.njk
 media_books:
 - 《Cell》期刊
 - 《万万黴想到》
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7fXXPLJDhaE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +25,6 @@ tags:
 - strategy
 title: 警惕隐形杀手：体内霉菌毒素的危害与排毒策略
 ---
-
 ### 隐藏的健康困扰：霉菌毒素的威胁
 
 嗨，大家好，我是雯心医师。你知道吗？许多人在健康上遇到的困扰，比如疲劳、整天不知道在累什么、一直在过敏、慢性发炎，以及门诊最常见的反复减肥失败，背后可能隐藏着一个重大原因，而你至今可能都还不知道——那就是**霉菌毒素**。为了深入探讨这个专业话题，我特别邀请到了我的好朋友，超全能诊所的王伟全医师来与我们分享。

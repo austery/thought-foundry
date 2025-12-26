@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-17'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - ai-in-filmmaking
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m6bkPPXHWX0
 speaker: a16z
@@ -24,7 +23,6 @@ tags:
 - social-commentary
 title: 好莱坞的变迁：从文化神话到AI时代的新篇章
 ---
-
 ### 电影在文化中的角色
 
 Marc: I think movies play the role in our culture that myths and legends used to play in ancient cultures or that novels used to play 100 years ago. They're the art form that is capable of basically containing and expressing and making permanent the most important aspects of a culture or of a civilization.

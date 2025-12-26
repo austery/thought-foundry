@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - NASA
@@ -15,9 +15,7 @@ people:
 - Derek
 products_models:
 - Voyager 1
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fG8SwAFQFuU
 speaker: veritasium
@@ -31,7 +29,6 @@ tags:
 - society
 title: 探索宇宙的浩瀚：从月球到星系，人类的认知挑战
 ---
-
 ### 引言：宇宙尺度的认知挑战
 
 **德里克**：人们真的理解宇宙的尺度吗？

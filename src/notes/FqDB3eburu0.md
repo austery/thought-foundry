@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国外交关系协会
@@ -25,10 +25,7 @@ people:
 - 高市早苗
 products_models:
 - 半导体
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FqDB3eburu0
 speaker: FearNation 世界苦茶
@@ -42,7 +39,6 @@ tags:
 - us-china-relations
 title: 深度观察：中国重塑全球秩序、稀土困境、高层清洗与经济挑战
 ---
-
 欢迎来到本期的世界苦茶观察线节目。观察线节目旨在汇总全球智库和国际媒体对中国问题的深度分析。本节目为AI制作，播放速度已照顾收听较慢的听众，如果你觉得太慢，可以调整至1.25倍。AI脚本和声音将不断优化。以下是精选的全世界对中国的分析，关于中国重塑全球格局、西方面对中国稀土困境等内容。
 
 ### 中国重塑全球秩序的行动与美国的回应

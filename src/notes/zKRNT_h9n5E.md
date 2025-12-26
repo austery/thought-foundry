@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - Nicola Tangan
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zKRNT_h9n5E
 speaker: Norges Bank Investment Management
@@ -28,7 +26,6 @@ tags:
 - risk-management
 title: 保罗·辛格论激进投资、风险规避与当前市场风险
 ---
-
 ### 欢迎与激进投资的定义
 
 大家好，我是挪威主权财富基金的尼古拉·坦根（Nicola Tangan），今天我们荣幸地邀请到了一位投资界的传奇人物——保罗·辛格（Paul Singer），他是埃利奥特管理公司（Elliott Management）的创始人，也是全球最重要的激进投资者。保罗，热烈欢迎您。

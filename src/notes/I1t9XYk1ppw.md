@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Amazon
@@ -33,10 +33,7 @@ people:
 - Linus Torvalds
 products_models:
 - Linux
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I1t9XYk1ppw
 speaker: Peter Pang
@@ -50,7 +47,6 @@ tags:
 - software-engineering
 title: 资深程序员书单揭秘：从软件工程到商业模式的经典之选
 ---
-
 ### 经典软件工程与计算机科学入门
 
 首先，我将逐一介绍书单中的书籍。这里的排名是随机的，但也有一定的意义。

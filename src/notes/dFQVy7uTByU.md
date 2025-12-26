@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs: []
 date: '2025-04-17'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dFQVy7uTByU
 speaker: 海淀拙大叔
@@ -24,7 +22,6 @@ tags:
 - reform
 title: 中国经济长期增长的根本之道：解决总需求不足与深化体制改革
 ---
-
 ### 中国经济长期增长的核心挑战
 
 阿甘经济宏观论第7集探讨了中国经济长期增长的关键问题：只有解决总需求不足，中国经济才能实现长期增长。此前几集已指出，中国经济增长面临总需求、总成本和总供给三大问题，其中总成本和总供给问题已基本解决，当前的核心是总需求不足。

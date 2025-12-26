@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Meta
@@ -20,8 +20,7 @@ media_books:
 - 《The Information Bottleneck》
 people:
 - Yann LeCun
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jYuH2tCRJ60
 speaker: Best Partners TV
@@ -33,7 +32,6 @@ tags:
 - world-model
 title: Yann LeCun 批判硅谷AI路径：世界模型是未来，AGI是胡扯
 ---
-
 大家好，这里是最佳拍档，我是大飞。最近呢，图灵奖得主、前**Meta**首席AI科学家**Yann LeCun**在《**The Information Bottleneck**》栏目里，用将近两小时的时间，把当前硅谷追捧的AI发展路径**批了个体无完肤**。他直言，靠扩大大语言模型的规模、喂合成数据、搞强化学习微调就想通往超级智能，**完全是胡扯**。甚至说，**AGI**（Artificial General Intelligence: 通用人工智能）的概念本身就站不住脚。
 
 ### 路线之争

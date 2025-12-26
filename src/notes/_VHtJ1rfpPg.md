@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - amit-kukreja
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_VHtJ1rfpPg
 speaker: Amit Kukreja
@@ -25,7 +23,6 @@ tags:
 - regional-bank
 title: 区域性银行危机与市场动荡：信贷质量、利率和宏观经济展望
 ---
-
 ### 市场回顾：区域性银行引发的红色星期四
 
 All right. Hello everybody. Welcome back to another episode of the market close. We got a red day.

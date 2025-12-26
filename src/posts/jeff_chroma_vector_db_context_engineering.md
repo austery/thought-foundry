@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 companies_orgs: []
@@ -8,8 +8,7 @@ draft: true
 guest: ''
 insight: null
 layout: post.njk
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -24,7 +23,6 @@ tags:
 - developer-experience
 title: Jeff on Building Chroma - From Open-Source Vector DB to Context Engineering
 ---
-
 ## Introduction and Chroma's Origin
 
 Alessio: Hey everyone, welcome to the Latent Space podcast in the new studio. This is Alessio, partner and CTO of Decible, and I'm joined by Swyx, founder of Smol AI.

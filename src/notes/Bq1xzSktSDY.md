@@ -31,9 +31,7 @@ people:
 - Xi Jinping
 - Donald Trump
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Bq1xzSktSDY
 speaker: 投资TALK君
@@ -46,7 +44,6 @@ tags:
 - us-stock-market
 title: 美股十月强势反弹，十一月十二月展望与高估值下的投资策略
 ---
-
 ### 十月美股回顾与十一月、十二月展望
 
 各位观众大家好，欢迎来到专业美股频道，我是市场分析员小陶。今天我想借这期内容和大家一起回顾一下整个十月份的走势，然后我们稍微对整个十一月份、十二月份去做一个展望，包括聊一下本周将会发布财报的一些公司。

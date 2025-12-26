@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 自民党
@@ -30,10 +30,7 @@ people:
 - 王毅
 - Marco Rubio
 - 福泽谕吉
-project:
-- geopolitics-watch
-- historical-insights
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4MQo1sgzOH8
 speaker: 东京人文论坛
@@ -47,7 +44,6 @@ tags:
 - war
 title: 战后中日关系史：2025年的我们身处何方？
 ---
-
 ### 引言：关注外交与中日关系的必要性
 
 在探讨中日关系时，我深感惶恐。一方面，我虽在日本生活一年多，但日语不通，对日本民众的心情和态度缺乏一手感知和深入了解。另一方面，在王克老师等专家面前谈论中日关系，更显得班门弄斧。因此，我仅以抛砖引玉的态度，分享我的观点和看法，其中可能存在史实不够充分或总结有误之处，期待各位老师的指正和补充。

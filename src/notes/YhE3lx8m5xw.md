@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Chinese Communist Party
@@ -16,9 +16,7 @@ people:
 - Peng Dehuai
 products_models:
 - '[]'
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YhE3lx8m5xw
 speaker: 徒步的騎手
@@ -31,7 +29,6 @@ tags:
 - war
 title: 谁战胜了日本？解析中共对抗战历史的系统性重塑
 ---
-
 ### 胜利日的不同日期：一个被操纵的起点
 
 今天是9月1日，美国的劳动节，而北京时间则已经是9月2日。这一天，对于二战历史而言，具有非凡的意义。日本的投降日，即所谓的“V-J Day”（Victory over Japan Day），在美国和多数盟国被定为9月2日。然而，苏联及其后来的继承者则将9月3日定为对日战争胜利纪念日。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Volkswagen
@@ -16,10 +16,7 @@ media_books:
 people:
 - Carl
 products_models: []
-project:
-- ai-impact-analysis
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MaFTqjYjADw
 speaker: Internet of Bugs
@@ -33,7 +30,6 @@ tags:
 - societal
 title: 别再担忧AI灭绝人类：我们应关注当下真实的AI危害与责任追究
 ---
-
 ### 驳斥“AI末日论”：关注当下真实危害
 
 在我上一期关于“**武器化广告技术**（Weaponized AdTech: 利用广告技术进行操纵、宣传或影响用户行为）”如何已经掌控社会，以及人工智能（AI）如何使其变得更糟的视频之后，有几个人联系我，希望我谈谈**AI末日论**（AI Doomerism: 关于人工智能可能导致人类灭绝或严重灾难的悲观观点），那我就谈谈吧。

@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: lifestyle
 companies_orgs: []
 date: '2022-12-10'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AJrN0Y0Riy0
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - travel
 title: 旅行是消费主义还是个人投资？深度解析意向性旅行与消费主义陷阱
 ---
-
 ### 个人旅行经历与反思
 
 今年我们进行了两次国际旅行。8月去爱尔兰8天，11月在墨西哥的Peurto Vallarta旅行12天。这次在墨西哥可以说，是我们长时间以来最快乐的一次旅行。我们住在一个普通的Airbnb里，房东Gueillmo和他的妻子Veronica像亲人一样，每天为我们做不重样的早餐，无微不至。在Guiermo的Airbnb里，我们遇到了来自不同地方的旅行者，很快就像家人们一样打成一片。我们每天一起吃饭、喝酒、聊天、分享自己的故事，一起挤在Gueillmo超载的车里去看小海龟放归大海。我们所有人坐在一起有说有笑，就好像一个大家庭一样，这是一种难以言表的美好。从墨西哥回来后，我们依然沉浸在旅行带来的兴奋之中，很快就预定了明年3月底到5月初在欧洲的行程。买完机票后，我突然有了一些犹豫，那就是我们这样追求旅行算是一种**消费主义**（Consumerism: 一种鼓励人们购买商品和服务以获得幸福和满足的社会经济秩序）吗？作为一名长期的投资者，一个在自己YouTube频道里宣扬摒弃消费主义的财经博主，我不可避免地会考虑旅行对个人财务的影响。我们经常听人说，“旅行是对自己最好的投资，钱花到经历上要比花到东西上更加有意义”，然而一个不可回避的现实是，旅行是很贵的。如果旅行是对自己的投资，那么我的回报到底是什么？

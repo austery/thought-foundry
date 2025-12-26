@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 恒大
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Xi Jinping
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xjrIxHlWAU0
 speaker: 政經孫老師
@@ -25,7 +23,6 @@ tags:
 - market
 title: 中国股市的政治经济学解读：一场盛大的烟火晚会
 ---
-
 ### 中国股市的政治经济学解读
 
 今天我们来聊一聊中国的股市。近期，中国股市一直在上升，这让许多中国内地的民众感到自豪，认为中国经济正在好转，股市表现优异。然而，事实真的如此吗？我们应该如何理解中国股市的这波上涨？我认为，理解中国的许多事情不能仅仅从经济角度出发，更要从政治角度去衡量。最近这波中国股市的上升，就必须与此前**习近平**（梁家河同志：中国最高领导人）提出的“反内卷”口号结合起来看。

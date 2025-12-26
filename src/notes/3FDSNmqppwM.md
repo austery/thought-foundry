@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国外交关系协会
@@ -21,10 +21,7 @@ people:
 - He Weidong
 products_models:
 - GPU
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3FDSNmqppwM
 speaker: FearNation 世界苦茶
@@ -39,7 +36,6 @@ tags:
 - us-china-relations
 title: 中美战略竞争升级：AI、稀土、贸易战与军队整肃的多维观察
 ---
-
 本期世界苦茶观察线节目汇总全球智库和国际媒体对中国问题的深度分析，精选了全世界对中国在中美AI竞赛、中国军队内部动态等方面的分析。
 
 ### 中美AI竞赛：战略路径的错位与非对称筹码

@@ -15,11 +15,10 @@ title: 'E192 AI: 真正的机会，不在AI，在现实世界'
 created: 1984-01-24T03:00
 updated: 2025-09-01T13:04
 area: ''
-project: 知行小酒馆
+project: []
 category: ''
 status: evergreen
 ---
-
 ## 开场：一个有趣的朋友——王汉洋
 
 **雨白:**

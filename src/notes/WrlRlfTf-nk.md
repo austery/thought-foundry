@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2021-10-24'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WrlRlfTf-nk
 speaker: 一口新飯
@@ -23,7 +21,6 @@ tags:
 - value
 title: ETF交易原理深度解析：市场价格如何紧密追踪资产净值？
 ---
-
 ### ETF市场价格的困惑与核心矛盾
 
 在最初投资**ETF**（Exchange Traded Fund: 交易型开放式指数基金）时，存在一个普遍的困惑：**ETF**的市场价格究竟是如何决定的？通常人们会认为，由于**ETF**像股票一样实时交易，其价格应由市场供需关系决定：卖方增多则价格下降，买方增多则价格上涨。然而，这里存在一个显著的矛盾。购买一支**ETF**，实际上是购买了一篮子股票。例如，当购买**标准普尔500指数基金**（$SPY: 一种追踪标准普尔500指数表现的ETF）时，这支**ETF**的投资组合中包含了**标普500**指数的股票种类和相应比例。这些股票或资产本身具有各自的市场价格。我们将**ETF**所包含的资产价格总和称为**资产净值**（**NAV** - Net Asset Value: **ETF**底层资产的市场价值总和）。

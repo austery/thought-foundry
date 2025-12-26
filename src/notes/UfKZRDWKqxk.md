@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Tesla
@@ -26,10 +26,7 @@ products_models:
 - Grok
 - Optimus
 - FSD
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UfKZRDWKqxk
 speaker: Best Partners TV
@@ -43,7 +40,6 @@ tags:
 - theory
 title: 埃隆·马斯克的系统思维：能源、AI与人类文明的未来路径
 ---
-
 大家好，这里是最佳拍档，我是大飞。如果你有机会和这个星球上最富有、也最具争议的科技领袖面对面坐一个小时，你会问他什么？是特斯拉的股价？是SpaceX什么时候登陆火星？还是AI会不会毁灭人类？最近，印度最年轻的亿万富翁之一、Zerodha的联合创始人尼基尔·卡马特（Nikhil Kamath）就有这样一个机会。他飞到了美国得克萨斯州的奥斯汀，在特斯拉的一座巨型工厂里，和埃隆·马斯克（Elon Musk）进行了一场非常反常态的对话。
 
 为什么说反常态？因为这不像是一场商业采访，更像是两个聪明人在深夜酒吧里的哲学漫谈。没有提词器，没有公关稿，背景是特斯拉工厂里正在运作的机械臂和来回穿梭的工程师。在这个嘈杂、充满工业美感的环境里，马斯克展现了他作为工程师、哲学家和父亲的多重面相。今天，我们就来拆解一下这场将近两个小时的对话，希望能去窥探马斯克大脑里那个正在运行的操作系统，它不仅关乎着技术的未来，还有关于人类未来的终极命题。

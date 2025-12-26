@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies:
 - craftsman-spirit
@@ -18,10 +18,7 @@ media_books:
 - 《民主与教育》
 people:
 - Hobbes
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ne7SDQ1VlgQ
 speaker: 超級歪 SuperY
@@ -34,7 +31,6 @@ tags:
 - skill
 title: 《匠人》：重拾被现代社会遗忘的匠人精神与创造力
 ---
-
 ### 匠人精神的定义与一万小时定律
 
 你是否曾好奇，伟大的作品是如何被创造出来的？美国社会学家理查德·桑内特（Richard Sennett）研究了各行各业的顶尖人物，包括音乐家、建筑师、工匠和日本匠人，他发现这些人普遍拥有一种共同的特质，这便是所谓的**匠人精神**（Craftsman Spirit: 一种追求卓越、精益求精的工作态度和能力）。今天我们将探讨桑内特的著作《匠人》，分析匠人精神是如何被锻造的，为何当代社会不再鼓励这种精神，以及我们如何才能找回每个人心中的匠人。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-03-20'
@@ -13,9 +13,7 @@ media_books:
 - 《罗拉快跑》
 products_models:
 - GPT
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0RdlFUvZYgk
 speaker: 大问题Dialectic
@@ -29,7 +27,6 @@ tags:
 - strategy
 title: 哲学视角下的恋爱攻略：如何在可能世界中寻找异次元伴侣
 ---
-
 ### 单身困境与理想型伴侣的追寻
 
 欢迎收看大问题节目。本期我们要探讨的大问题是：为什么现在有很多人都单身？一个很大的原因就是不会追求异性。每次只要真心喜欢上一个人，就会变得言行拙劣，忍不住表白，然后就“表白死”。据说要真正追到对方，得玩欲擒故纵，得若即若离，得吊足胃口，得忍着不能说自己喜欢人家，甚至还得PUA对方。但是，这对咱们这些不会玩心眼子的直肠子而言，真难啊！

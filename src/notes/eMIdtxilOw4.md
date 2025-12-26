@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Nvidia
@@ -25,9 +25,7 @@ products_models:
 - Gemini
 - GPT-4
 - GPT-5
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eMIdtxilOw4
 speaker: TechButMakeItReal
@@ -42,7 +40,6 @@ tags:
 - investment
 title: AI智能体：炒作、经济学与企业落地的真实图景
 ---
-
 ### 2025：AI智能体之年——炒作与现实的落差
 
 英伟达（Nvidia）首席执行官**黄仁勋**（Jensen Huang）将2025年称为“**AI智能体**（AI Agents: 能够自主感知环境、做出决策并执行任务的人工智能系统）之年”。

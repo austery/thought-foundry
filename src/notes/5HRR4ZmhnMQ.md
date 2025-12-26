@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -13,9 +13,7 @@ people:
 - 魏士航医师
 - 宋晏仁医师
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5HRR4ZmhnMQ
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - science
 title: 痛风的真正元凶：BMI、果糖与胰岛素阻抗，而非海鲜
 ---
-
 ### 痛风迷思：海鲜并非唯一元凶
 
 秋分时节，天气逐渐转凉，许多人会选择煮火锅或海鲜来暖胃驱寒。然而，也有不少人担心吃火锅或海鲜会导致痛风发作，甚至认为痛风就是海鲜吃太多造成的。诚然，火锅如同一个蕴藏丰富**普林**（Purine: 一种存在于食物中的化合物，在体内代谢后会产生尿酸）的仓库，高汤、海鲜等高普林食材在锅中不断炖煮浓缩，一餐下来，体内的普林含量便会瞬间升高。

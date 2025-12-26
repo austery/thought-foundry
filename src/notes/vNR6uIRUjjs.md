@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -25,10 +25,7 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 - Howard Schultz
-project:
-- us-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vNR6uIRUjjs
 speaker: Bloomberg Podcasts
@@ -43,7 +40,6 @@ tags:
 - policy
 title: 揭秘餐饮业的幕后巨头：Sysco如何塑造我们的餐桌与市场
 ---
-
 ### 欢迎来到“奇思妙想”播客
 
 Joe: 大家好，欢迎收听“奇思妙想”播客的又一期节目。我是Joe Weisenthal。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - precious-metals-demand
@@ -16,10 +16,7 @@ media_books:
 - The Last Economy
 people:
 - Donald Trump
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GJuP1wCJzfs
 speaker: Joseph Wang
@@ -32,7 +29,6 @@ tags:
 - technology
 title: 黄金白银飙升背后：地缘政治与美元疲软的双重驱动
 ---
-
 ### 黄金与白银的暴涨：地缘政治与美元疲软的双重推力
 
 过去一周，尽管科技板块因AI泡沫降温而出现调整，但黄金和白银却双双逼近或创下历史新高。这背后并非偶然——两大地缘政治事件正在重塑全球主权资产配置逻辑，同时美元的预期走弱进一步强化了贵金属的避险吸引力。

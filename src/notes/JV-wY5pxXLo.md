@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -16,10 +16,7 @@ people:
 products_models:
 - Gemini Flash
 - Cursor
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JV-wY5pxXLo
 speaker: AI Engineer
@@ -33,7 +30,6 @@ tags:
 - vibe-coding
 title: 从振动编码到振动工程：AI时代的开发者生存指南
 ---
-
 ## 开场白：多线程生活与开发者工具
 那是我旧头像。好了，这是我的新头像。我在美国才待了三天，Twitter 上就已经收到了全套周边产品。如果你关注我，接下来一周我的时间线会很奇怪，但之后我们会回归正常的欧洲作息。别担心。
 

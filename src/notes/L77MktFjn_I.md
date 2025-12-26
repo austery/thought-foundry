@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - 路透社
@@ -25,9 +25,7 @@ products_models:
 - H200
 - Blackwell
 - Rubin
-project:
-- ai-impact-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=L77MktFjn_I
 speaker: FearNation 世界苦茶
@@ -41,7 +39,6 @@ tags:
 - technology
 title: 中国EUV“曼哈顿计划”爆料：战略烟雾弹还是技术突破？
 ---
-
 今天大家应该都看到了**路透社**独家报道中国的**曼哈顿计划**开始。以免有人不知道细节，我给大家简单说说**路透社**这篇报道的细节是什么：中国在**深圳**有一间高度戒备的实验室。你就要问一个问题了：既然是一个如此高度戒备的实验室，那么这个信息是被谁传出来的呢？
 
 首先，这是中国**深圳**一个机密高度戒备的实验室。这个实验室在**2025年初**已经完成了一个**EUV光刻机**（Extreme Ultraviolet Lithography: 用于制造先进半导体芯片的超紫外光刻技术）的原型机。就中国现在一直拿不到，中国现在只掌握一些**DUV光刻机**（Deep Ultraviolet Lithography: 深紫外光刻技术，比EUV技术成熟但精度较低）。终于造出了一台**EUV光刻机**的原型机，但是呢还没有做出芯片。那么官方呢说**2028年**可以开始量产芯片，那么更接近这个项目的业内人士说呢，可能需要**2030年**可以开始量产芯片。所以虽然有这个**曼哈顿计划**，但是开始量产芯片的是五年之后的事情。

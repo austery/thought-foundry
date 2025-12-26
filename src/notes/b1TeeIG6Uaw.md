@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -42,9 +42,7 @@ products_models:
 - Grok
 - DeepSeek
 - mRNA疫苗
-project:
-- ai-impact-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b1TeeIG6Uaw
 speaker: Dwarkesh Patel
@@ -56,7 +54,6 @@ tags:
 - economic-policy
 title: 施维德：深度解析习近平的AGI策略、中国债务危机与政治局运作
 ---
-
 今天我与 **施维德**（Victor Shih）教授对话，他是 **加州大学圣迭戈分校**（UC San Diego）**21世纪中国中心** 的主任。中国显然是我们这个时代最重要的经济和地缘政治议题之一，如果你像我一样相信人工智能（AI）的重要性，那么中国的重要性更是加倍。我特别想与您交流，因为您不仅对中国精英政治有深厚的专业知识，也对中国的经济体系以及财政和银行政策有深入研究。在讨论AI话题之前，我们将深入探讨所有这些。
 
 ### 中国的财政权力结构

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P 500
@@ -66,10 +66,7 @@ products_models:
 - AWS
 - Tesla Roadster
 - SNAP
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=72r6WbPYEOI
 speaker: Amit Kukreja
@@ -83,7 +80,6 @@ tags:
 - market
 title: 十月市场回顾与展望：科技巨头财报、美联储动向及牛市前景分析
 ---
-
 ### 十月市场收官：坚韧中收涨
 
 大家好，欢迎回到新一期的“市场收盘”节目。今天是十月的最后一天，我们即将结束十月份的行情。今年只剩下两个月了，看起来今天我们将以一个上涨的姿态收官。感谢大家的到来，我们有很多内容要讨论，自从早上市开盘直播以来，又出现了很多头条新闻。

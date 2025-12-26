@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Apple
@@ -15,9 +15,7 @@ layout: post.njk
 people:
 - Richard Stallman
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QeWakvBsgEE
 speaker: 超級歪 SuperY
@@ -31,7 +29,6 @@ tags:
 - right
 title: 数字时代的人权思辨：智慧财产权的挑战与反思
 ---
-
 ### 数字时代的人权与智慧财产权
 
 今天与频道会员分享的内容是《书来面对》第26集“数字时代的人权思辨”。这支影片是由**台湾人权协会**找我合作的，他们希望在世界人权日发布这支影片，让大家开始关注所谓的**数字人权**（Digital Human Rights: 指公民在数字环境中应享有的基本权利和自由）概念。因此，这支影片主要焦点放在数字空间中哪些权利应该被重新争取回来。由于时间长度限制，我删除了一个非常重要的部分，而这部分也是当代资本主义社会最关键的争论议题，即所谓的**智慧财产权**（Intellectual Property Rights: 指对智力劳动成果依法享有的专有权利）。在影片中，我们只简短地谈到了软件的智慧财产权，而**专有软件**（Proprietary Software: 指受著作权保护，且其源代码不公开的软件）只是智慧财产权的其中一个例子。

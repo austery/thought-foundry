@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X_ClPE5Y2q4
 speaker: EO
@@ -23,7 +22,6 @@ tags:
 - user-experience
 title: 从苹果和优步到打造数十亿美元的钱包产业：Magic Labs 的创新之路
 ---
-
 ### 苹果的细节执念与产品叙事
 
 A big lesson that I learned at Apple while I was there was the obsession with detail. There was a great sense of ownership and craftsmanship. Everyone deeply cared about making it right.

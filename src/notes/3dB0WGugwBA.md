@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -9,10 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- entrepreneurship
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3dB0WGugwBA
 speaker: Norges Bank Investment Management
@@ -26,7 +23,6 @@ tags:
 - organizational-leadership
 title: 企业文化与领导力：CEO视角下的投资考量
 ---
-
 ### 引言：文化与领导力作为投资考量
 
 非常感谢您的盛情介绍，也感谢挪威银行（Norges Bank）的邀请。

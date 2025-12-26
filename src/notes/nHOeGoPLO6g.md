@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Coreweave
@@ -22,9 +22,7 @@ products_models:
 - GB200
 - H100
 - H200
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nHOeGoPLO6g
 speaker: Money or Life 美股频道
@@ -38,7 +36,6 @@ tags:
 - technology
 title: Coreweave面临的三大争议：GPU折旧、内部套现与巨额债务深度解析
 ---
-
 大家好，欢迎来到Money or Life美股频道。本期视频，我们将深入探讨**Coreweave**（一家专注于提供大规模GPU云基础设施的云计算公司）目前争议最多的三个核心问题。这些是我在过去几天学习和收集信息后为大家总结的。
 
 ### 引言：Coreweave面临的三大争议

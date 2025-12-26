@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 五角大楼
@@ -15,10 +15,7 @@ media_books:
 people:
 - 特朗普
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YMfcdjxjhU8
 speaker: 北美王路飞
@@ -32,7 +29,6 @@ tags:
 - war
 title: 美国防长“格杀勿论”指令：加勒比海上的战争罪疑云
 ---
-
 ### “格杀勿论”：权力中心的一句指令
 
 你有没有想过，决定一个千里之外陌生人生死的时刻究竟长什么样？它可能不是电影里那种战火纷飞的战壕，也不是按下红色按钮时的惊心动魄。在现实的华盛顿权力中心，生与死的界限往往只是一句话，一句在空调房里轻飘飘说出来的话——“Kill everybody”，把人都杀光。

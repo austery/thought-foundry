@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Cadillac
@@ -18,9 +18,7 @@ insight: ''
 layout: post.njk
 people:
 - Benjamin Franklin
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IV3dnLzthDA
 speaker: veritasium
@@ -35,7 +33,6 @@ tags:
 - scientific-discovery
 title: 意外改变世界的科学家：托马斯·米奇利的铅与氟利昂遗祸
 ---
-
 ### 意外的遗产：一位科学家的发明与全球灾难
 
 一位科学家凭借三项发明，意外地导致了数百万人死亡，其中也包括他自己。

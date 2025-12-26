@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-02-16'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2BKmXxBLdiw
 speaker: Anthony看世界
@@ -22,7 +21,6 @@ tags:
 - relationship
 title: 理解却无法改变：创伤迷恋、内隐记忆与亲密关系中的疗愈之道
 ---
-
 ### 创伤迷恋：为何“道理都懂却难以改变”？
 
 大家好，我是Anthony。欢迎来到我的频道。在本期视频中，我们将继续探讨**创伤迷恋**（Trauma Fascination: 一种长期被有毒关系吸引并受其伤害的心理模式），以及如何寻找到一段良好的亲密关系。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - JPMorgan Chase
@@ -27,10 +27,7 @@ people:
 - Xi Jinping
 - Javier Milei
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=siL4gKX5ZGo
 speaker: 投资TALK君
@@ -44,7 +41,6 @@ tags:
 - us-china-relations
 title: 苹果创新高与地缘博弈：美股市场、通胀及财报深度分析
 ---
-
 ### 周一市场概览与投资信号
 
 各位观众大家好，欢迎来到专业美股频道。我是市场风选小唐。今天我们将直接开始，分享一些最新的市场动态和个人看法。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-07-06'
 draft: true
@@ -19,9 +19,7 @@ people:
 - Mao Zedong
 - Zhou Enlai
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IcheECofOe8
 speaker: Anthony看世界
@@ -35,7 +33,6 @@ tags:
 - societal
 title: 阳明心学与文革：中国文化中精神自虐机制的深层关联
 ---
-
 ### 阳明心学与文革：精神自虐机制的深层关联
 
 大家好，我是Anthony。欢迎来到我的频道。

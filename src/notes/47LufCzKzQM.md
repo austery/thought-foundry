@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -29,9 +29,7 @@ products_models:
 - Grok
 - GPT-5
 - Gemini 2.5 Pro
-project:
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=47LufCzKzQM
 speaker: FearNation 世界苦茶
@@ -45,7 +43,6 @@ tags:
 - society
 title: AlphaArena：中国AI模型在投资大赛中“屠杀”西方巨头，这究竟意味着什么？
 ---
-
 ### 中国AI模型在国际投资大赛中异军突起
 
 今天，我们将探讨一个近期在科技圈和金融圈都引起轰动的大事件：一场名为**AlphaArena**（人工智能交易大赛）的真金白银实战。其结果可谓戏剧性十足，一半是“屠杀”，一半是“加冕”。

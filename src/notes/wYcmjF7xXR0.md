@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wYcmjF7xXR0
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - tariff
 title: 美债风险、比特币新高与市场参与度：投资TALK君深度解析
 ---
-
 ### 开篇：近况与市场概览
 
 市场分析员小桃首先解释了近期视频更新较少的原因，主要在于工作繁忙，以及过去一周市场波动较小。从5月12日到昨日收盘，**标普500**（S&P 500: 美国股市的基准指数之一，包含500家大型上市公司）仅上涨约1%，显示市场整体波动不大。

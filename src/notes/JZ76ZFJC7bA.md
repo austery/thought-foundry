@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-04-12'
@@ -20,10 +20,7 @@ people:
 - Immanuel Kant
 - Friedrich Nietzsche
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JZ76ZFJC7bA
 speaker: Anthony看世界
@@ -37,7 +34,6 @@ tags:
 - self
 title: 《被讨厌的勇气》：日本式个人主义如何扭曲东亚的自由观？
 ---
-
 ### 对《被讨厌的勇气》的批判性反思
 
 上周末，我们通过两期视频分析了书籍《被讨厌的勇气》中存在的问题。

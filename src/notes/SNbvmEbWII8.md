@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Goldman Sachs
@@ -11,9 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SNbvmEbWII8
 speaker: Norges Bank Investment Management
@@ -27,7 +25,6 @@ tags:
 - risk-management
 title: 高盛的企业文化：百年基业的韧性与传承
 ---
-
 ### 欢迎致辞与企业耐久性主题
 
 非常感谢大家。下午好。

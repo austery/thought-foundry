@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-29'
 draft: true
@@ -14,10 +14,7 @@ people:
 - 高市早苗
 - 孟子
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AE5kLFM2Hv4
 speaker: ZetaBook
@@ -31,7 +28,6 @@ tags:
 - system
 title: 台海和平的金鑰匙：從琉球、朝鮮、越南的朝貢關係看兩岸現狀
 ---
-
 ### 中國的「禮制帝國」與朝貢體系
 
 最近禁書筆記聽到有一些台灣博主有這樣一種觀點，中國這個國家只要強大了，就會像二戰時德意志第三帝國那樣對外擴張，當代中國那些小粉紅就相當於是納粹的支持者。在禁書筆記看來，把中國小粉紅和納粹做對比，即不了解中國，也不了解納粹。德意志第三帝國本質上是一個以種族優越論為核心的一神教「偽」神權帝國，這和中國傳統的科舉晉升通道，再加上多神信仰有巨大差異。

@@ -9,8 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -20,7 +19,6 @@ tags:
 - technology
 title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
 ---
-
 Moonshots
 
 ## WTF Just Happened in Tech

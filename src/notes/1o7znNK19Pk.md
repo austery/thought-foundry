@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Meta
@@ -16,9 +16,7 @@ media_books:
 - Death Cab for Cutie
 products_models:
 - iPod
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1o7znNK19Pk
 speaker: TED
@@ -32,7 +30,6 @@ tags:
 - technology
 title: 如何重拾早期互联网的乐趣
 ---
-
 ### 早期互联网的邂逅
 
 让我来给你们讲一个故事。

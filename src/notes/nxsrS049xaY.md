@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-18'
 draft: true
@@ -7,9 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nxsrS049xaY
 speaker: TED
@@ -23,7 +21,6 @@ tags:
 - regulatory
 title: 甲烷：应对气候变化的紧急刹车与非洲的韧性之路
 ---
-
 ### 垃圾填埋场的甲烷之患
 
 你闻过垃圾填埋场的味道吗？

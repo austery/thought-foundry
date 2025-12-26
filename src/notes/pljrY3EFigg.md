@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Microsoft
@@ -25,9 +25,7 @@ products_models:
 - Google Cloud
 - AWS
 - ChatGPT
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pljrY3EFigg
 speaker: 老科谈科技股
@@ -41,7 +39,6 @@ tags:
 - tech
 title: AI需求驱动云计算加速增长：2025年第二季度巨头财报深度解析
 ---
-
 ### 2025年第二季度云计算赛道表现亮眼
 
 大家好，今天是2025年8月8日，欢迎来到“老科谈科技股”。这是一个通过深入追踪分析科技行业大趋势，顺势而为长期投资科技股的频道。在2025年第二季度的科技股财报中，一个科技细分赛道仍然在狂奔，而且市场空间巨大。人工智能（AI）的爆火使这个赛道持续加速增长，有些大公司的仅此业务就实现了一年千亿美元的营收。这个赛道就是**云计算**（Cloud Computing: 一种通过互联网提供计算服务，包括服务器、存储、数据库、网络、软件、分析和智能等资源的技术）。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Fidelity
@@ -12,10 +12,7 @@ layout: post.njk
 people:
 - Nikolai
 products_models: []
-project:
-- investment-strategy
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=37txX2TANKQ
 speaker: Norges Bank Investment Management
@@ -29,7 +26,6 @@ tags:
 - portfolio-management
 title: 逆向投资之父安东尼·博尔顿：如何在市场中反其道而行之
 ---
-
 ### 逆向投资的本质：反其道而行之
 
 主持人：大家好，今天我们非常荣幸能邀请到安东尼·博尔顿（Anthony Bolton），在我看来，他堪称**逆向投资**（Contrarian Investing: 一种投资策略，与市场主流观点或趋势反向操作）之父。

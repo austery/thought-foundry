@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Microsoft
@@ -21,9 +21,7 @@ products_models:
 - GPT-4
 - Lovable
 - Bolt
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3ZAqtHJJXSs
 speaker: How I AI
@@ -37,7 +35,6 @@ tags:
 - vibe-coding
 title: 用AI打造万圣节儿童友好型算命应用：Marco Casalaina的即兴编程分享
 ---
-
 ### 欢迎来到万圣节特别节目
 
 **Clarvo:** 欢迎来到“How I AI”的万圣节特别节目，这是一个充满鬼魅且计划之外的节目。

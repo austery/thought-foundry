@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - NIST
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Matt
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TILjzuBGkRc
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - science
 title: 揭秘嗅觉与气流：从犬鼻到法医科学的痕迹检测技术
 ---
-
 ### 犬类嗅觉的科学奥秘与痕迹检测的起源
 
 在美国政府的这个实验室里，研究人员通过研究气流来侦破案件。他们利用镜子、灯光和激光，能够照亮空气温度和密度最微小的差异，并追踪毒品粉末如何在房屋房间内沉降，确定是哪个人开了枪，或者发现从密封包裹中逸出的微粒。本视频的一部分由Lutron的Caseta赞助。几个世纪以来，我们用于检测微量物质的最佳工具始终如一。

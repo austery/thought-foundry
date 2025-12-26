@@ -15,9 +15,7 @@ people:
 - Michelangelo
 products_models:
 - GPT-3
-project:
-- ai-impact-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C1TqBmezv20
 speaker: TED
@@ -30,7 +28,6 @@ tags:
 - shift
 title: 内容3.0：AI如何重塑互动叙事与媒体体验
 ---
-
 ### 开启内容3.0时代：AI驱动的互动体验
 
 一幅经过巧妙处理的《蒙娜丽莎》画像，月球表面的TEDAI，以及一个你正在探索的3D奇幻世界——它们有什么共同之处？

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Databricks
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Rich Sutton
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qdmxApz3EJI
 speaker: AI Engineer
@@ -26,7 +24,6 @@ tags:
 - technology
 title: AI系统工程：拥抱高层抽象，规避过早优化
 ---
-
 ### AI系统工程的挑战与现状
 
 感谢大家的到来，也感谢组织者邀请我来到这里。我很高兴能和大家谈谈如何构建能够经受住“苦涩教训”考验的**AI系统**（Artificial Intelligence System: 利用人工智能技术解决特定问题的软件或硬件系统）。

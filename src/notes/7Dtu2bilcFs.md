@@ -35,9 +35,7 @@ people:
 products_models:
 - Cloud Code
 - C#
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7Dtu2bilcFs
 speaker: AI Engineer
@@ -50,7 +48,6 @@ tags:
 - vibe-coding
 title: 2026：IDE的终结？AI编码与Vibe Coding的未来
 ---
-
 ### AI编码的未来：从“云代码”到CNC机器
 
 大家好。我很高兴来到这里。我将主讲前半部分，我的合著者Gene Kim将主讲后半部分。好的，期待与大家交流。今天，我们将快速地讨论一些内容。我将告诉大家明年的工具会是什么样子。去年，我向大家介绍了聊天工具，但大家都忽略了我；而今年，每个人都在使用聊天工具，所以我们现在就要纠正这种状况。

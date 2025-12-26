@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-08-10'
@@ -13,10 +13,7 @@ people:
 - Winnicott
 - Plato
 products_models: []
-project:
-- china-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XIDn08XeEE4
 speaker: Anthony看世界
@@ -31,7 +28,6 @@ title: 中国式教育下，为何聪明孩子易走向自我毁灭？温尼科�
 companies:
 - psychological-defense
 ---
-
 ### 中国聪明孩子的困境
 
 大家好，我是Anthony，欢迎来到我的频道。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Amazon
@@ -68,10 +68,7 @@ products_models:
 - Prime Video
 - EC2
 - Gemini
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8zt_fJCWQT0
 speaker: Amit Kukreja
@@ -85,7 +82,6 @@ tags:
 - tech-stock
 title: 亚马逊财报震撼市场：AWS重回增长轨道，苹果发布强劲指引
 ---
-
 ### 收盘前市场情绪低迷
 好的，各位，欢迎回到新一期的《市场收盘》直播节目。我们有很多公司要讨论，包括亚马逊、苹果、Coinbase、MicroStrategy 和 Roku。显然，亚马逊和苹果是重头戏，我们将在接下来的15分钟内关注并获取它们的业绩。
 

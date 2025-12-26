@@ -35,10 +35,7 @@ products_models:
 - A100
 - VOO
 - QQQ
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XcH0LlwJlS4
 speaker: 小翠時政財經
@@ -52,7 +49,6 @@ tags:
 - us-market-outlook
 title: 美股震荡中的AI巨头：英伟达面临空头质疑，木头姐逆势加仓，小翠解析长期投资逻辑
 ---
-
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月21日，欢迎收看我们今天的每日要闻节目。昨天评论区很多朋友发来热烈的慰问，我知道作为财经博主，股市一跌必然是要挨骂的。所以财经博主一般有两重价值：第一重是提供情绪价值，股市跌了你可以来骂骂我；第二重价值是你可以站在我的肩膀上看世界，我提供我的观点，对你进行思维的碰撞。如果你没有挖掘到我的这一重价值，你真是白白浪费了我这个免费的大好资源。
 
 ### 中日市场深度调整与日本经济刺激方案

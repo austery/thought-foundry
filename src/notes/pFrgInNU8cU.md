@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Saudi Arabia
@@ -18,10 +18,7 @@ people:
 - Justin Trudeau
 - Anita Anand
 products_models: []
-project:
-- geopolitics-watch
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pFrgInNU8cU
 speaker: TVO Today
@@ -35,7 +32,6 @@ tags:
 - state
 title: 加拿大外交政策的权衡：经济增长、人权与全球定位
 ---
-
 ### 加拿大外交政策的优先事项转变
 
 早在去年十月，总理卡尼就明确了他的首要任务。

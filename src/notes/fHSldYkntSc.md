@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -62,10 +62,7 @@ products_models:
 - NVLink
 - Starlink
 - Obamacare
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fHSldYkntSc
 speaker: Amit Kukreja
@@ -79,7 +76,6 @@ tags:
 - semiconductor
 title: AI模型发布、财报季与美联储政策展望：市场动态深度解析
 ---
-
 ### 市场概览与主要股票动态
 
 大家好，欢迎回到市场收盘节目。

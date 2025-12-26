@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国国务院
@@ -14,10 +14,7 @@ people:
 - Donald Trump
 products_models:
 - '[]'
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yKBb0m6jzwo
 speaker: 徒步的騎手
@@ -33,7 +30,6 @@ tags:
 - presidential-power
 title: 美国最高法院裁决：川普启用《外敌法案》获开绿灯，但须遵守正当程序
 ---
-
 ### 美国最高法院就《外敌法案》作出关键判决
 
 各位好，今天我们将深入解读美国最高法院近期做出的一项重要判决。这项判决可能对美国的移民，无论是合法还是非法移民，都将产生深远影响。尽管本周媒体的焦点大多集中在川普的关税战上，这项最高法院的判决却未能登上头条，甚至连头版也未见踪影。

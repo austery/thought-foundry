@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国国防部
@@ -15,10 +15,7 @@ people:
 - 张又侠
 - 董军
 - 泽连斯基
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=i_JABFb4Pr8
 speaker: 记者易速利
@@ -31,7 +28,6 @@ tags:
 - military
 title: 中美军事实力对比：解放军的挑战与美军工业衰退的隐忧
 ---
-
 ### 解放军高层清洗与军事现代化
 
 在习近平的第三个任期内，他提拔的79位**将军**（General/Admiral: 军队最高级别军官）中，有15位或失踪或正在接受调查。这是自1976年毛泽东时代结束以来，中国军队人员最大规模的一次清洗。从外部观察解放军时，尽管隔着一层厚厚的毛玻璃，我们仍然不会错过两个最显而易见且具有矛盾性的现象。

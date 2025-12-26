@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - Nicolai Tangen
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: null
 source: null
 speaker: ''
@@ -24,7 +22,6 @@ tags:
 - global-economy
 title: Børge Brende：在世界秩序之间，驾驭全球合作与数字化转型
 ---
-
 ## 世界经济论坛的角色与愿景
 
 **Nicolai Tangen**: Hi everyone. I'm Nicolai Tangen, the CEO of the Norwegian Sovereign Wealth Fund. And today I'm really excited because I'm joined by my fellow Norwegian, Børge Brende. And Børge, he is the president and CEO of the World Economic Forum, the organization behind the iconic Davos gatherings and that's where the world's most powerful leaders meet each year to shape the global agenda. Um, Børge also happens to be, I think, the best connected person in the world. So, uh, Børge, pleasure to have you here.

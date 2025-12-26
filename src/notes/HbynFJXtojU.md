@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Goldman Sachs
@@ -23,10 +23,7 @@ people:
 - Karina Gould
 - Benjamin Franklin
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HbynFJXtojU
 speaker: 莊也雜談
@@ -40,7 +37,6 @@ tags:
 - us-canada-relations
 title: 加拿大新總理馬克·卡尼：六大挑戰與大選抉擇
 ---
-
 ### 馬克·卡尼當選自由黨黨魁與面臨的挑戰
 
 今天我們來聊聊加拿大政壇的最新進展。當馬克·卡尼以壓倒性優勢登上自由黨黨魁寶座時，整個加拿大政壇屏住了呼吸。這位經濟奇才即將迎來的挑戰堪稱地獄難度，包括經濟陰霾、黨內分裂，以及虎視眈眈的反對黨。他不僅要迅速拼湊出一支足以重振自由黨雄風的內閣，而且還要面對來自外部，即特朗普直接的關稅壓迫。

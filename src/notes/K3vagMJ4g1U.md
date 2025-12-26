@@ -64,10 +64,7 @@ people:
 - Thomas Piketty
 - Warren Buffett
 - adam-s-axiom
-project:
-- investment-strategy
-- market-cycles
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K3vagMJ4g1U
 speaker: Adam's Axiom
@@ -80,7 +77,6 @@ tags:
 - wealth-inequality
 title: 经济与金融领域最具影响力的30本书籍
 ---
-
 ### 1. 《国富论》：亚当·斯密的经济学奠基之作
 
 亚当·斯密的《**国富论**》（The Wealth of Nations）是开启无数经济学学位和争论的著作。该书于1776年美国宣布独立时出版，斯密则通过这部作品向**重商主义**（Mercantilism: 一种认为国家财富主要通过贸易顺差积累的经济思想）宣战，发表了历史上最具影响力的经济学“金句”。他提出的“**看不见的手**”（Invisible Hand: 市场中个体追求自身利益，最终却能促进社会整体利益的现象）概念，如此优雅地解释了市场力量，以至于经济学家们在接下来的200年里都在试图重新将其“缝合”起来。这本书引入了**劳动分工**（Division of Labor: 将生产过程分解为多个专业化任务）等革命性思想，以一个不起眼的针厂为例来解释生产力。尽管今天的科技公司首席执行官们在假装自己发现了效率的同时，仍然引用着这本书。斯密的核心信息是，自由市场和自利行为可以服务于公共利益，这改变了世界，即使今天的解读略显“贪婪是好事”。然而，当斯密解释市场如何运作时，下一位作者即将向我们展示市场可能如何惊人地失灵。

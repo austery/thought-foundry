@@ -1,13 +1,12 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 date: '2024-08-04'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9dyFHg1KjU4
 speaker: 莊也雜談
@@ -21,7 +20,6 @@ tags:
 - travel
 title: 纽芬兰自驾之旅：冰山之都的失望与福戈岛的独特魅力
 ---
-
 ### 纽芬兰自驾之旅：天气转晴，探访冰山之都Twillingate
 
 哈喽，大家好，我是庄也，欢迎您收看庄也杂谈。今天继续讲述在纽芬兰的自驾之旅。上集讲完了前四天的内容，今天咱们讲第五天，也就是7月3号周三。从今天开始，我们的纽芬兰行程就渐入佳境，因为天气开始放晴了，阳光就跟捉迷藏似的，终于露脸了，感觉我们整个旅程都要亮堂起来了。而且这时候，我们也已经靠近了纽芬兰景色最为优美壮丽的岛中西部地段。接下来会发生些什么好玩的事儿，咱们就书接上文。

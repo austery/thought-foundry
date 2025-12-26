@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -30,10 +30,7 @@ products_models:
 - Teams
 - Co-pilot
 - Google Workspace
-project:
-- ai-impact-analysis
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n2to2wIKgDA
 speaker: TechButMakeItReal
@@ -47,7 +44,6 @@ tags:
 - market
 title: AI巨额交易：谁真正掌控OpenAI和Anthropic？
 ---
-
 ### AI竞赛进入“中局”：从模型竞争到基础设施控制
 
 我们已经关注AI竞赛整整三年了。起初，一切都围绕着开局的行动：模型、突破、芯片，例如**GPT**（Generative Pre-trained Transformer: 一种基于深度学习的语言模型）与**Claude**（Anthropic公司开发的大型语言模型）的对决，**Gemini**（Google开发的多模态大型语言模型）与**Deepseek**（一家AI公司开发的语言模型）的竞争。

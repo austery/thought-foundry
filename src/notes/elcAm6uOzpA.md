@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CBC
@@ -21,10 +21,7 @@ people:
 - Elon Musk
 - J.D. Vance
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=elcAm6uOzpA
 speaker: 莊也雜談
@@ -38,7 +35,6 @@ tags:
 - us-trade-policy
 title: 特朗普钢铝关税重击加拿大：经济困境与应对策略分析
 ---
-
 ### 引言：特朗普关税重拳再袭加拿大
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天，咱们来聊聊特朗普刚刚制定的**钢铝关税**（Steel and Aluminum Tariffs: 指对进口钢铁和铝产品征收的税费，旨在保护国内相关产业）政策，以及它对加拿大的深远影响。本来上期节目已经详细讨论了关税问题，并以为美加关税暂停一个月能让加拿大人民喘口气，本周可以换个轻松话题。然而，特朗普总统的行事风格出人意料，还没等加拿大缓过劲来，就又一次挥出重拳，直接将加拿大打趴在地。这记重拳的级别堪比核弹，它瞄准的是加拿大的工业潜力。因此，尽管这周是加拿大的“家庭日”长周末，我也不能偷懒，不得不专门做一集节目来分析此事。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 卫福部
@@ -16,8 +16,7 @@ people:
 products_models:
 - BMI计算机
 - 211餐盘
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q6r1B02ky5M
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -30,7 +29,6 @@ tags:
 - ultra-processed-food
 title: 儿童肥胖与身高发展：打破“小时候胖不是胖”的误区
 ---
-
 ### 引言：儿童肥胖的深远影响
 
 **宋晏仁医师:** 孩子的肥胖问题不仅影响到外表，将来还会影响身高、学习表现，甚至带来长期的身心影响。我们过去做肥胖研究发现，体重甚至会影响将来的职涯发展。因此，“小时候胖不是胖”这其实是一个错误的观念。很多客人说他们从小就胖，从小胖就是胖。

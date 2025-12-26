@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-09-13'
@@ -12,10 +12,7 @@ media_books:
 people:
 - stella-an
 products_models: []
-project:
-- cultural-critique
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kz2UiEMUxUQ
 speaker: 安争鸣（Stella An）
@@ -28,7 +25,6 @@ tags:
 - strategy
 title: 批判“赢学”与迎合施虐者：一种既缺德又愚蠢的生存策略
 ---
-
 ### 对“赢学”与“计算机党”的批判
 
 大家好，我是安争鸣。今天我们暂时不读书，因为最近发生了一些事情，让我不吐不快。所以，我打算久违地跟大家聊聊天，听我吐吐槽。

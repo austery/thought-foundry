@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OECD
@@ -10,10 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Mark Carney
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3mXEELHotk0
 speaker: 大伟探秘加拿大
@@ -27,7 +24,6 @@ tags:
 - strategy
 title: 加拿大启动“建国工程”：五大旗舰项目重塑国家战略与全球地位
 ---
-
 ### 加拿大百年大转型：启动“建国工程”
 
 2025年9月11日，加拿大总理马克·卡尼公布了五个由联邦重大项目管理办公室（MPO）审批的国家级重点工程，以及一系列即将推动的项目。这标志着加拿大正在启动一项自建国以来最雄心勃勃的计划，一个被称为**建国工程**（Founding Projects: 加拿大自建国以来最雄心勃勃的庞大基础设施蓝图，旨在重塑国家经济和全球地位）的庞大基础设施蓝图。这并非简单的修桥补路，而是一次彻头彻尾的国家战略大转型，其目标是从根本上重塑加拿大的经济，乃至其在世界舞台上的地位。

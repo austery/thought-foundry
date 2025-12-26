@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -39,10 +39,7 @@ people:
 - 郭文贵
 - 毛泽东
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5fAHhy16C0I
 speaker: FearNation 世界苦茶
@@ -55,7 +52,6 @@ tags:
 - state
 title: 特朗普的叙事战争：爱泼斯坦档案如何揭示美国政治的虚无与情感动员
 ---
-
 ### 从司法案件到政治叙事：爱泼斯坦档案的强制公开
 近期，如果你关心美国政治，一定会知道爱泼斯坦档案（Epstein File）事件取得了重大进展。这件事被许多共和党或特朗普的支持者称为“萝莉岛”、“萝莉门”，并以此攻击民主党。最近的巨大进展是，参众两院以高票通过了强制公开爱泼斯坦调查档案的法案，其中众议院更是以427比1的压倒性票数通过。随后，参议院一致同意快速放行，并由特朗普签署了该法案。然而，就在一个月前，特朗普还一直在阻挠档案的公开。
 

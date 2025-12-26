@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -30,9 +30,7 @@ products_models:
 - Gemini CLI
 - Figma
 - Bolt
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dHIppEqwi0g
 speaker: The Pragmatic Engineer
@@ -46,7 +44,6 @@ tags:
 - vibe-coding
 title: Addy Osmani深度解析：从Vibe Coding到专业的AI辅助工程
 ---
-
 ### Vibe Coding与AI辅助工程的本质区别
 
 Addy Osmani 在 Chrome 团队工作了13年，是一位多产的作家。他的最新著作名为《超越Vibe Coding》，面向专业软件工程师。今天，我们将深入探讨 **Vibe Coding**（Vibe Coding: 一种依赖直觉和高层级提示，快速进行原型设计的编程方式）与 **AI 辅助工程**（AI-assisted engineering: 一种更严谨的方法，将AI作为强大协作者，但人类工程师仍掌握主导权）的对比，以及为什么 Vibe Coding 除了用于快速构建粗糙原型外，用途并不广泛。我们还将讨论理解模型行为的重要性、新的AI开发工作流程，如规约驱动开发、异步编码、后台代理和多代理并行编码等未被充分探索的软件工程新领域。

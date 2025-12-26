@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: finance
 channel: null
@@ -13,9 +13,7 @@ layout: post.njk
 people:
 - 美联储
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: null
 source: null
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - 衰退
 title: CPI的真正意义：为何降息25个基点可能优于50个基点
 ---
-
 欢迎来到一个即使忙了一天，也要为大家做日更的专业美股频道，我是市场分析员肖涛。今天我们主要针对周二早上将要公布的 **CPI** (居民消费价格指数：衡量通货膨胀的关键指标) 数据去展开。虽然大家看到这期内容时，数据本身可能已经公布，但我个人认为，如何解读数据比数据本身更重要，尤其是美联储会带着怎样的视角去解读。相比数据，美联储的行为才是最重要的。
 
 今天主要针对这个话题展开，然后聊一些和衰退相关的数据，最后稍微聊一下本周将要发布财报的一些公司。

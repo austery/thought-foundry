@@ -22,10 +22,7 @@ people:
 - Volodymyr Zelenskyy
 products_models:
 - 东风导弹
-project:
-- china-analysis
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2SlxUdkBrLI
 speaker: 夸克说
@@ -38,7 +35,6 @@ tags:
 - value
 title: 海外华人价值观转向：从“反贼”到“粉红”的夏河现象深度剖析
 ---
-
 ### 海外“反贼”的价值观转向
 
 大家好，欢迎收看夸客说。近期，海外YouTube视频圈出现了一个很有意思的现象，那就是不少已经“润”（**润**：网络流行语，指通过各种方式移民海外）到海外的“反贼大V”（**反贼大V**：指在网络上持反中共立场并拥有大量粉丝的意见领袖）们集体“回流”。这里说的“回流”并非真的回中国，而是在节目中所传达出的价值观来了个180度大转弯。他们曾经挂在嘴边的自由民主等普世价值观，突然就成了他们口中过时的“裹脚布”，取而代之的是提醒你认清现实、直面中共的强大。

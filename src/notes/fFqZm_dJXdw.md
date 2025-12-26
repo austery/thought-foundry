@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -18,9 +18,7 @@ products_models:
 - Google AI Studio
 - Sora
 - Notebook LM
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fFqZm_dJXdw
 speaker: How I AI
@@ -35,7 +33,6 @@ tags:
 - workflow-automation
 title: AI赋能产品经理：革新工作流程，从构思到发布的高效实践
 ---
-
 ### AI赋能产品经理：提升效率与影响力
 
 当所有我们日常使用的工具开始涌现时，我开始思考如何成为一名**AI增强型产品经理**（AI Enhanced PM: 利用人工智能工具和技术来提升产品管理效率和效果的产品经理）。

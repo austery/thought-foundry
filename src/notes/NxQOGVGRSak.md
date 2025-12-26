@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - AMD
@@ -91,10 +91,7 @@ products_models:
 - S&P 500
 - ChatGPT
 - Neutron Rocket
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NxQOGVGRSak
 speaker: Amit Kukreja
@@ -109,7 +106,6 @@ tags:
 - market
 title: SPY逼近历史高点，AMD发布新增长预期，迈克尔·贝瑞持续看空
 ---
-
 ### 市场接近历史高点，“圣诞老人行情”可期？
 
 大家早上好，欢迎回到“市场开盘”节目。今天是11月12日，星期三，我们正在直播。感谢各位的到来。

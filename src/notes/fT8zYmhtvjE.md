@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-16'
@@ -10,10 +10,7 @@ layout: post.njk
 people:
 - amit-kukreja
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fT8zYmhtvjE
 speaker: Amit Kukreja
@@ -27,7 +24,6 @@ tags:
 - semiconductor
 title: TSM业绩强劲，Meta挖角苹果高管，财报季开局良好 | 市场开盘
 ---
-
 ### 市场概览与开场
 
 Good morning everybody. Welcome back to another episode of the market open. We are live. It is Thursday, October 16th, and we are back.

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-06-17'
@@ -17,10 +17,7 @@ people:
 - 余华
 - 李安
 products_models: []
-project:
-- historical-insights
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=B_9FUXnuZJY
 speaker: 一席YiXi
@@ -34,7 +31,6 @@ tags:
 - social
 title: 我们今天最缺的就是活法：在统一性中寻找生命的差异性
 ---
-
 ## 引言：从个人经历看时代的变迁
 
 各位好，今天来到这里，心情既有一种温暖，也有一种激动。因为在这么一个中学里，这让我想起自己高中时期，面向未来的时候，想得很简单，那就是好好学习，以后能拥有出色的能力，怀着一份打造美好生活的心情去面向生活、面向工作。但是，未曾预料到的是，高中毕业后，我去了云南高黎贡山的怒江边，与傣族乡亲们一起劳动。那里的生活很多还保留着原始状态，一个窝棚下面一个**火塘**，打猎等等。所以，那时我最大的梦想就是以后离开这里，去做一个卡车司机，我认为那特别好，比在那里生活，天天能看到新的风景。

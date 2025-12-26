@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-19'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - trump
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qk_omJLZ9_E
 speaker: 北美王路飞
@@ -23,7 +22,6 @@ tags:
 - politics
 title: 2024美国大选终局：哈里斯精英联盟的失策与特朗普的混乱胜利
 ---
-
 ### 竞选策略的殊途同归：精英的迷茫与草根的混乱
 
 2024年10月初，距离美国总统大选仅剩最后四周。在华盛顿郊外一间气氛严肃的会议室里，哈里斯竞选团队的几十名高级幕僚正在进行一场长达数小时的头脑风暴。他们的议题既不是经济，也不是外交，更不是边境问题，而是在为一个单词，或者说三个单词反复辩论，争论不休。黑板上，“危险的”、“神经错乱的”、“反复无常”等词被不断地划掉、圈出。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Amazon
@@ -18,10 +18,7 @@ people:
 - Steve Jobs
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C0AlI0oc9q4
 speaker: EO
@@ -35,7 +32,6 @@ tags:
 - technology
 title: 从500亿公司离职：创业教会我的生存法则与GenAI愿景
 ---
-
 ### 创业公司的生存法则：没有安全网的拼搏
 
 当然，在创业公司最大的不同就是你没有任何安全网。你确实需要一种远超你生活中所见的拼搏精神。你没有时间坐下来思考，你必须直接处理问题并持续推进。

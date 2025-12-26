@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-11-27'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - Mao Zedong
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=du_jUZWi-0k
 speaker: 徒步的騎手
@@ -25,7 +24,6 @@ tags:
 - personal-development
 title: 感恩与放手：成熟的标志与最难的爱
 ---
-
 ### 大家好，感恩节到了
 
 大家好，感恩节到了。下午从外面回来的时候，看到进小区的车排起长龙——这是个家庭团聚的日子，空气中开始弥漫着烤火鸡的香味儿。

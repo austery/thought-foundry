@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -18,10 +18,7 @@ people:
 - Donald Trump
 - Joe Biden
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FjYYOEXZLKc
 speaker: New York Times Podcasts
@@ -32,7 +29,6 @@ tags:
 - policy
 title: 特朗普政府移民执法：边境巡逻队长的强硬策略与争议
 ---
-
 ### 特朗普政府的移民执法升级
 
 我是《纽约时报》的娜塔莉·凯特罗夫，这里是《每日》播客。

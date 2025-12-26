@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-11-02'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - 50 Features to Identify Male NPD
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tj5DEZKtcwU
 speaker: Anthony看世界
@@ -27,7 +25,6 @@ title: NPD叙事下的受害者心态：摆脱精神控制与自我赋能
 companies:
 - psychological-trauma
 ---
-
 ### NPD叙事：觉醒与无力的悖论
 
 大家好，我是Anthony。欢迎来到我的频道。今天，我们将继续探讨NPD叙事更深层的含义。这也是我们NPD系列的一部分，是第三集。

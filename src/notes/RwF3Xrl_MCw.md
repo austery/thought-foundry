@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-12-05'
@@ -11,10 +11,7 @@ media_books:
 - 小红书
 products_models:
 - 豆包
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RwF3Xrl_MCw
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - youth-mental-health
 title: 陈默：孩子，你怎么了？——青少年心理困境的深层剖析
 ---
-
 ### 当代青少年面临的六大心理困境
 
 作为常年从事青少年前端心理教育和末端心理咨询与治疗的工作者，我得以全过程了解和观察青少年到底怎么了。通过我的观察，我总结出当代青少年面临的六大核心困境。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: general
 companies_orgs:
 - Substack
@@ -25,10 +25,7 @@ people:
 - 孟子
 - V.S. Naipaul
 - 老舍
-project:
-- personal-growth-lab
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g8MCNxIw0Uk
 speaker: 徒步的騎手
@@ -42,7 +39,6 @@ tags:
 - self
 title: 开播满月：与听众的对话，关于人间、快乐与自我成长
 ---
-
 ### 开播满月，感谢相遇
 
 这个播客从圣诞夜上线到今天，正好满一个月。这期间，我收到了三百多条听众留言，大部分是夸赞和鼓励的话，也提出了一些宝贵的建议。作为播客新手，读了以后很受激励，也很感动，在此一并致谢。

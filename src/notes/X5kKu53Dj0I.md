@@ -40,10 +40,7 @@ products_models:
 - Gemini
 - DeepMind
 - AlphaGo
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X5kKu53Dj0I
 speaker: 老周横眉
@@ -56,7 +53,6 @@ tags:
 - technology
 title: AI泡沫是否临近？华尔街为何担忧？普通人应如何投资AI产业？
 ---
-
 ### AI泡沫：一个循环的投资游戏？
 
 想象一下这样的场景：我给朋友1000块钱，让他在树林里挖一个洞，然后他又付给我1000块钱，让我把这个洞给填上。我们俩各自都赚了1000块钱，但实际上什么都没有发生。现在有很多人认为AI世界正在上演这个“挖洞”的情节。最近网上流传一张图，这张图想要说明，目前全球金融市场上存在着一个巨大的**AI泡沫**（AI Bubble: 指资产价格被过度高估，远超其内在价值的现象）。各大AI企业之间所投入的巨量AI投资，其实都是一种内部循环。我投给你，你再投回给我，数字看起来很庞大，但其实就像那个在树林里挖洞的例子一样，全都是泡沫。

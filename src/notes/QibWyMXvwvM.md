@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -29,10 +29,7 @@ people:
 - Theodore Roosevelt
 products_models:
 - Grock
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QibWyMXvwvM
 speaker: Patrick Boyle
@@ -46,7 +43,6 @@ tags:
 - regulatory
 title: Doge计划：一场由梗图驱动的政府改革闹剧
 ---
-
 ### “Doge”计划：一场由梗图驱动的政府改革闹剧
 
 “Doge”（Government Efficiency）计划本意是削减联邦开支，却最终演变成一场由网络迷因驱动、数据造假和政治表演构成的灾难性失败。它不仅未能实现承诺的2万亿美元削减目标，反而在短短一年内导致政府支出增加、监管体系崩塌，并严重损害了美国的软实力。

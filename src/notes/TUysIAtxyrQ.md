@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies:
 - google-cloud
@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TUysIAtxyrQ
 speaker: Anthropic
@@ -23,7 +22,6 @@ tags:
 - llm
 title: 在Google Cloud Vertex AI上使用Claude构建AI智能体：挑战、解决方案与实战
 ---
-
 ### 引言与AI智能体生产化挑战
 
 Hello everyone. Thank you for joining this session. In this session, we are going to talk about how you can build AI agents using Claude on Vertex AI.

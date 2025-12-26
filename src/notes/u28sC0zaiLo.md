@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁醫師
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u28sC0zaiLo
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -25,7 +24,6 @@ tags:
 - loss
 title: 高蛋白零食真能助減脂？醫師與營養師揭秘常見陷阱與健康選擇
 ---
-
 ### 引言：健康零食的再探索
 
 魏醫師: 上次那支零食的評測影片推出之後，下面還是有人留言說怎麼有很多沒有介紹到的零食。所以今天我們就是再次找了這些常見的零食，要來再幫大家評測一下。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Amazon
@@ -22,9 +22,7 @@ people:
 products_models:
 - Starlink
 - Project Kuiper
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yVsIPoWOwIc
 speaker: Shijun Tang
@@ -37,7 +35,6 @@ tags:
 - investment
 title: 亚马逊：深度解析其商业帝国、投资哲学与未来潜力
 ---
-
 ### 亚马逊股价表现与个人投资复盘
 
 亚马逊的股价在最近200天内一度上涨了60.24%，并再次刷新历史新高。这引发了人们对其股价能否持续上涨、以及当前价格是否仍具买入价值的疑问。本期视频将从公司最新财报、基本面以及护城河等多个维度，深入探讨美股亚马逊。

@@ -20,9 +20,7 @@ people:
 - 秦辉
 - 王志安
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=96uuIQqkZTM
 speaker: 三個水槍手
@@ -35,7 +33,6 @@ tags:
 - public
 title: 大聲創始人吳薇東京大學直播:在夾縫中發出最大聲
 ---
-
 ### 开场与“大声”的诞生
 
 非常抱歉，刚才调试出现了一点小问题，耽误了大家十分钟。今天非常荣幸能在**东京大学**，感谢**阿古老师**和**人民论坛**的**贾佳老师**，以及各位老师的邀请，能在这样一个有文化氛围的媒体环境中进行讨论。今天我想探讨一个重要的问题：什么是“夹缝”，以及我们的空间在哪里？

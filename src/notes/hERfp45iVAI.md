@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-06-07'
@@ -19,10 +19,7 @@ people:
 - Thomas Aquinas
 - Ichiro Kishimi
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hERfp45iVAI
 speaker: Anthony看世界
@@ -36,7 +33,6 @@ tags:
 - spiritual-victory
 title: 王阳明心学：精神胜利法与文化回光返照的深层解析
 ---
-
 ### 导言：阳明心学的本质与文化危机
 
 大家好，我是Anthony，欢迎来到我的频道。

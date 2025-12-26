@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-10-05'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YtuZpLIxV_w
 speaker: 东京人文论坛
@@ -22,7 +21,6 @@ tags:
 - tokyo-exile
 title: 东京重造中国：宋教人的宪政理想与悲剧
 ---
-
 ### 在东京重塑中国的时代背景
 
 “在东京重造中国”这个题目，乍听之下似乎惊世骇俗，但在1895年至1925年这一特定历史时期，它准确地描绘了孙中山、**宋教仁**（Song Jiaoren: 中国近代民主革命家，中华民国主要缔造者之一）、黄兴、蔡锷、梁启超、鲁迅、蒋中正、汪精卫等一代仁人志士的共同理想与实践。他们流亡东京，并非为了个人安逸，而是为中国寻找出路，探索共和之路。这段百年前的历史，因其人物皆已逝去，使得我们得以以超脱的心态来审视其深远影响。

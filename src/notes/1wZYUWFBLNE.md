@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - MIT
@@ -16,10 +16,7 @@ people:
 - Daron Acemoglu
 - Jair Bolsonaro
 products_models: []
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1wZYUWFBLNE
 speaker: 北美王路飞
@@ -33,7 +30,6 @@ tags:
 - rule-of-law
 title: 繁荣表象下的警报：耶伦为何担忧美国制度根基已入险境？
 ---
-
 ### 经济繁荣下的制度警报
 
 想象一下这样的场景：你身边的股市一片红火，AI概念股狂飙，消费市场依然坚挺，失业率虽有所上升但尚未到灾难地步，一片欣欣向荣。然而，就在这片繁荣背景下，一位权威人物却在敲响警钟。他就是**詹尼特·耶伦**（Janet Yellen），前美国财政部长、前美联储主席。在卸任后的访谈中，她几乎用尽了最严重的词汇，警告民主制度似乎正处于致命的危险之中，这种危险带来的后果将是美国人民需要支付的沉重代价。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Politico
@@ -18,10 +18,7 @@ people:
 - Vladimir Putin
 - Volodymyr Zelenskyy
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BqPUP7jUwz0
 speaker: 政經孫老師
@@ -35,7 +32,6 @@ tags:
 - us-foreign-policy
 title: 川普新政下的東亞格局：關稅、外交與權力重塑
 ---
-
 ### 川普外交政策對亞洲的影響概述
 
 大家好，今天我們來探討一個大家都關心的問題，那就是川普的外交政策，特別是其對亞洲地區，尤其是中國周邊國家，會產生什麼樣的影響。這個話題具有很強的現實意義，因為本節目主要面向華語觀眾，而華語觀眾主要居住在東亞和東南亞地區。因此，川普的亞洲政策將直接影響到這些地區的利益。我將從關稅和外交政策兩部分來闡述這個現實問題。

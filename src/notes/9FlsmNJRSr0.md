@@ -19,9 +19,7 @@ people:
 - 巴菲特
 products_models:
 - 比特币
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9FlsmNJRSr0
 speaker: 美投讲美股
@@ -33,7 +31,6 @@ tags:
 - risk-management
 title: 投资致胜关键：巴菲特仓位管理策略与动态调整之道
 ---
-
 ### 仓位管理：投资成功的核心要素
 
 大家好，我是美投君。前段时间，巴菲特兜售股票的消息闹得沸沸扬扬，很多人好奇这是否预示着大风险将至。然而，有多少人会关注他留下的仓位是什么样的，其比例又是怎样的呢？同样，当我们看到巴菲特买入新股票时，多数人会想了解他的选股逻辑，却很少关注他买了多少，是重仓押注还是谨慎试水。其实，所有这些关于仓位的问题才是投资的关键。

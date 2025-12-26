@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - NASA
@@ -25,10 +25,7 @@ people:
 - Yuri Gagarin
 - Hannah Arendt
 - Einstein
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0L20z8y3EGY
 speaker: 超級歪 SuperY
@@ -42,7 +39,6 @@ tags:
 - time-philosophy
 title: 《星际穿越》十周年：电影背后的时间哲学、爱的本质与人类的有限性
 ---
-
 ### 《星际穿越》：马尔萨斯式危机与道德困境
 
 在电影《星际穿越》上映十周年之际，我们将深入解析这部作品。故事背景设定在2067年的地球，彼时气候灾难和农作物病害导致了严重的粮食危机，人类面临灭绝的威胁。女主角**墨菲**（Murphy）一天在书房中发现了引力异常，她与父亲**库珀**（Cooper）循着引力的二进制坐标，意外来到了**NASA**（美国国家航空航天局）的秘密基地，并了解了外星殖民计划。为了拯救地球上濒临灭绝的人类，库珀告别家人，踏上了为人类寻找第二个家园的太空冒险之旅。

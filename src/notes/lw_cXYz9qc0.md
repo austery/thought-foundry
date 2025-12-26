@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Nvidia
@@ -24,10 +24,7 @@ people:
 products_models:
 - H20
 - Blackwell
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lw_cXYz9qc0
 speaker: FearNation 世界苦茶
@@ -41,7 +38,6 @@ tags:
 - us-china-relations
 title: 中美关系：釜山峰会后的冷战态势与战略评估
 ---
-
 ### 中美元首峰会：谁是赢家？
 
 在本次中美元首峰会（特习会）之后，评论区出现了“中国大胜”、“仅付出很小代价就换得美国很多内容”的声音。因此，评估这次会谈究竟谁赢谁输，是一个有价值的问题。当前中美关系正处于“冷战”之中，双方的拉锯可以被视为一场没有硝烟的战争。此前，中国打出了稀土底牌，对稀土出口实施了巨大禁令，而这次峰会正是美国对此的“接招”，因此，判断谁输谁赢，能反映出中美冷战中的具体态势。

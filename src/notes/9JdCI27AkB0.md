@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - ASEAN
@@ -17,10 +17,7 @@ people:
 - Xi Jinping
 - Anita Anand
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9JdCI27AkB0
 speaker: TVO Today
@@ -34,7 +31,6 @@ tags:
 - relations
 title: 加拿大外交政策：全球变局下，亚洲是新方向吗？
 ---
-
 ### 全球秩序变革与加拿大的战略考量
 
 马克·卡尼在上周的**APEC**（Asia-Pacific Economic Cooperation: 亚太经济合作组织）峰会上直言不讳。他告诉亚太地区领导人，旧有的基于规则的开放贸易模式已不再奏效，全球经济正经历一个深刻变革的时期，其深刻程度堪比1989年柏林墙倒塌以来的任何时期。

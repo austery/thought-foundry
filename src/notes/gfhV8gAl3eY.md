@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-10-07'
 draft: true
@@ -7,9 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gfhV8gAl3eY
 speaker: a16z
@@ -21,7 +19,6 @@ tags:
 - technology
 title: Opendoor CEO：构建“房屋界的亚马逊”——重塑房地产市场
 ---
-
 ### 上市公司的挑战与新任CEO的愿景
 
 Cass: There are things you have to deal with in a public company that are amplified. In a private company, these problems are discussed with your **VCs** (Venture Capitalists: 投资初创公司以换取股权的个人或公司) at a board table. In a public company, they're discussed on Reddit and it's cut in the Wall Street Journal. So if you care a great deal about what's said about you in the Wall Street Journal, running a public company is incredibly difficult. It's just very difficult. Luckily, I just don't care.

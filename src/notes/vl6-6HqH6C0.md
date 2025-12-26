@@ -46,10 +46,7 @@ people:
 - Monica Lewinsky
 - Steven Mnuchin
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vl6-6HqH6C0
 speaker: 记者易速利
@@ -62,7 +59,6 @@ tags:
 - presidential-power
 title: 特朗普白宫东翼改造：一面反映美国社会对立的镜子
 ---
-
 ### 白宫东翼的拆除与重建：争议的焦点
 
 美国最近几天对特朗普总统批评最强的事件，是白宫**东翼**（East Wing: 白宫建筑群的东侧部分，主要用于第一夫人办公、社交空间及访客入口）的拆除和重建。白宫俯视图显示了显著的对比：右边是白宫的**东翼**，主要供第一夫人和团队办公，也是访客进入白宫的起点。左边是**西翼**（West Wing: 白宫建筑群的西侧部分，包括椭圆形办公室、内阁会议室等总统及高级幕僚办公区域），总统和下属的办公地点都在这里，包括**椭圆形办公室**（Oval Office: 美国总统的正式办公室）、**内阁会议室**（Cabinet Room: 总统与内阁成员开会的地方）、办公厅和其他重要机构的负责人。总统的礼仪接待区和生活区则位于白宫的主体部分。

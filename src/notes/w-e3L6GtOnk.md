@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - CRA
@@ -17,9 +17,7 @@ people:
 products_models:
 - TFSA
 - CPP
-project:
-- personal-growth-lab
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=w-e3L6GtOnk
 speaker: 莊也雜談
@@ -33,7 +31,6 @@ tags:
 - social
 title: 加拿大养老深度解析：回国养老、安乐死与财务规划
 ---
-
 ### 加拿大养老话题引关注：深度解析华人关心的几大问题
 
 大家好，我是庄也。欢迎您收看庄也杂谈加拿大系列节目。上集我们聊了加拿大的养老话题，收获了非常高的收视率，这说明大家对这个话题非常感兴趣。我也收到了不少观众朋友的留言反馈，说没有听够，建议我再聊一期。因此，今天我们就听观众的，再深挖一下关于加拿大养老的一些华人最最关心的几个问题，保证全是干货。

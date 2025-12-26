@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 date: '2025-10-14'
 draft: true
@@ -10,10 +10,7 @@ media_books:
 - bloomberg-podcasts
 people: []
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u1nG_NpHZTQ
 speaker: Bloomberg Podcasts
@@ -26,7 +23,6 @@ tags:
 - us-china-relations
 title: 摩根大通的“蟑螂”担忧、AMD与甲骨文的AI芯片合作及全球贸易新格局
 ---
-
 ### 彭博商业周刊日报：引言与银行财报概览
 
 [Music]

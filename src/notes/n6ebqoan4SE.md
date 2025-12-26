@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Big Think
@@ -14,9 +14,7 @@ people:
 - Francis Bacon
 - Rousseau
 - Isaac Newton
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n6ebqoan4SE
 speaker: Big Think
@@ -30,7 +28,6 @@ tags:
 - technological
 title: 人类进步的停滞与未来展望：一项历史与哲学的反思
 ---
-
 ### 引言：对进步理念的质疑
 
 围绕进步和人类的讨论确实变得非常激烈：我们是否走在正确的轨道上？我们在做什么？我们甚至知道自己在做什么吗？也许现代性是一个错误，也许进步本身就是问题所在，也许我们应该放慢它、停止它，甚至倒退。

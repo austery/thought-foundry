@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - FBI
@@ -24,9 +24,7 @@ people:
 - Casper
 products_models:
 - Twitter
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CYlon2tvywA
 speaker: veritasium
@@ -40,7 +38,6 @@ tags:
 - technology
 title: 六度分隔、小世界网络与社会连接的深层影响
 ---
-
 ### 六度分隔理论的起源与悖论
 
 1999年，德国报纸《**时代周刊**》（Die Zeit: 德国一份全国性周报）进行了一项实验。他们询问一位沙拉三明治销售员兼前剧院导演萨拉赫·本·加利（Salah ben Ghaly），他最想与世界上哪位名人建立联系。他选择了自己最喜欢的演员马龙·白兰度（Marlon Brando）。

@@ -8,11 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XIOKr51Q_hA
 speaker: All-In Podcast
@@ -24,7 +20,6 @@ tags:
 - us-china-relations
 title: 旧金山、中美贸易与AI：一场多维度的深度对话
 ---
-
 ### 旧金山：从“狂欢”到“复苏”的争议
 
 All right. You guys were talking about the fun shenanigans you were having in San Francisco and at Marc Benioff's Dreamforce. Did you see Brian Johnson was at Benioff's CEO dinner?

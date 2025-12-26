@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -19,10 +19,7 @@ people:
 - Amy Edmondson
 - Boris Johnson
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TRumdQ66sF4
 speaker: Norges Bank Investment Management
@@ -37,7 +34,6 @@ tags:
 - market
 title: Peter Harrison：施罗德200年基业长青的秘诀、资管行业巨变与AI未来
 ---
-
 ### 施罗德的基业长青之道
 
 今天我们非常荣幸邀请到Peter Harrison来到节目中，Peter是**施罗德**（Schroders: 欧洲最大的资产管理公司之一）的首席执行官。

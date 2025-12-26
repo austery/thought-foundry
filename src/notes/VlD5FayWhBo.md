@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Alibaba
@@ -28,10 +28,7 @@ people:
 - 查理·芒格
 - 沃伦·巴菲特
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VlD5FayWhBo
 speaker: Shijun Tang
@@ -45,7 +42,6 @@ tags:
 - investment
 title: 阿里、Celsius、MercadoLibre与台积电：死猫跳还是真实增长？一场关于护城河与概率投资的深度剖析
 ---
-
 ### 阿里巴巴：电商护城河下的增长瓶颈与“死猫跳”争议
 
 最近，阿里巴巴被许多投资者称为“死猫跳”——股价短暂反弹后迅速回落。这一现象引发了广泛讨论，尤其是在其最新财报发布之后。作为一位曾运营淘宝店铺十年、跟踪阿里财报近六年的投资者，我对这家公司的理解远超普通市场观察者。

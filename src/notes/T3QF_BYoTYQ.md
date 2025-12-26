@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - White House
@@ -31,9 +31,7 @@ people:
 - Laura Loomer
 products_models:
 - H-1B visa
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T3QF_BYoTYQ
 speaker: Patrick Boyle
@@ -47,7 +45,6 @@ tags:
 - us-economy
 title: 美国H-1B签证新规：高额费用如何重塑全球人才格局与美国创新力
 ---
-
 ### H-1B签证新规引发的混乱与澄清
 
 上周，特朗普总统签署了一项**行政命令**（Executive Order: 美国总统发布的一项具有法律效力的指令，无需国会批准），规定每份新的**H-1B签证**（H-1B Visa: 美国用于雇佣高技能外国工人的主要非移民签证类别）申请将向公司收取10万美元。H-1B签证是美国雇佣高技能外国工人的主要签证类型。这项声明在外国工人中引发了一波恐慌，雇主感到困惑，白宫也随即发布了一系列澄清。网上流传着机场的恐慌景象，乘客们试图下飞机，因为他们担心如果离开美国，可能就无法再返回。

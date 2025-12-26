@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - White House
@@ -25,11 +25,7 @@ people:
 - Marco Rubio
 - Wang Yi
 - Cai Qi
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NuoPVRzzMHk
 speaker: LT視界
@@ -43,7 +39,6 @@ tags:
 - us-china-relations
 title: 中美博弈：黄金税、芯片战、外交风波与贸易协议背后的暗流
 ---
-
 ### 中国黄金税优惠政策及其影响
 
 今天是11月1日，首先来了解中国最大的财经新闻。彭博社报道称，中国取消了黄金税优惠，对关键的贵金属市场造成打击。根据中国财政部的一项新法规，从11月1日起，北京将不再允许部分零售商在出售从上海黄金交易所购买的黄金时抵扣**增值税**（Value-Added Tax, VAT: 对商品或服务在生产和流通环节中增加的价值征收的税费），无论黄金是直接出售还是经过加工出售。

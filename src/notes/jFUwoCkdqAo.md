@@ -19,9 +19,7 @@ media_books:
 products_models:
 - Mistral
 - Whisper
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jFUwoCkdqAo
 speaker: Hung-yi Lee
@@ -34,7 +32,6 @@ tags:
 - task-vector
 title: 深度解析模型合并（Model Merging）技术：无需训练，组合Foundation Model能力的创新途径
 ---
-
 ### 揭秘Model Merging：无需训练的神奇技术
 
 今天将分享一个非常神奇的技术，叫做**模型合并**（Model Merging: 一种无需额外训练即可组合或修改大型模型能力的创新技术）。这个技术在生成式AI时代背景下，为**基础模型**（Foundation Model: 经过大量数据预训练的通用大型模型，如LLaMA系列）的能力扩展提供了全新的思路。

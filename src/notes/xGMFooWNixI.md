@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - All-In Podcast
@@ -43,10 +43,7 @@ people:
 products_models:
 - Starlink
 - Cyber Cab
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xGMFooWNixI
 speaker: All-In Podcast
@@ -60,7 +57,6 @@ tags:
 - wealth-inequality
 title: 皮特·布蒂吉格：剖析民主党身份政治危机、财富税争议与2028年展望
 ---
-
 ### 硅谷科技精英的政治转向
 
 **主持人 (Jason Calacanis):** 好的，各位，欢迎回到 All-In 播客访谈系列。上周我们请来了乔·曼钦 (Joe Manchin)。这周，皮特·布蒂吉格 (Pete Buttigieg) 来到了这里。大家都知道皮特市长，他出生于南本德，毕业于哈佛，曾是罗德学者，在麦肯锡和美国海军服役，当然，他还竞选过总统，并在拜登政府担任交通部长。欢迎来到节目，皮特·布蒂吉格。你好吗？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 哈佛大学
@@ -17,10 +17,7 @@ people:
 - 努尔哈赤
 products_models:
 - iPhone
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gtpV9-CXk_k
 speaker: 張内咸
@@ -34,7 +31,6 @@ tags:
 - us-china-relations
 title: 从海淀鸡娃到中美竞争：普通人的焦虑与教育的未来
 ---
-
 大家好，我是张内咸，我们又见面了。最近这段时间又陆续发生了好多大事，才六月，2025年还没过一半，就感觉地球转得太快了点，眼睛都不够用了。不知道100年之后的人类，会如何评价今天的我们呢？我身边每个人都在忧心忡忡地谈论着国际风云变幻、中美关系、俄乌战场的局势，以及第三次世界大战的可能性。
 
 ### 政治话题的蔓延与社交边界的模糊

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Visa
@@ -19,9 +19,7 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 - Jerome Powell
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=85retuUVCN8
 speaker: Bloomberg Podcasts
@@ -35,7 +33,6 @@ tags:
 - risk
 title: 信用卡利率为何居高不下？揭秘发卡银行的隐秘收入与消费者行为
 ---
-
 ### 信用卡利率的悖论：消费者对政策利率的敏感度
 
 At the risk of sounding, heretical here,

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - SpaceX
@@ -20,9 +20,7 @@ products_models:
 - Starship
 - Starlink
 - Falcon 9
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xIkHGuTWF3s
 speaker: 海伦子Hellen
@@ -36,7 +34,6 @@ tags:
 - starship-development
 title: 特朗普与马斯克：商业太空加速与官僚主义之战
 ---
-
 ### 特朗普任期与商业太空的加速发展
 
 特朗普上任之后，有一点非常确定，那就是会加速商业太空和星际探索的发展。SpaceX虽然没有公开上市，但**Rocket Lab**（一家美国航空航天公司，专注于小型卫星发射服务）的股价在过去6个月已上涨了228.71%。当然，Rocket Lab在特朗普当选前已在上涨，但其后期的涨幅无疑与市场对商业太空未来发展的信心相关。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - New York Times
@@ -54,9 +54,7 @@ people:
 products_models:
 - HBO Max
 - Max
-project:
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eGyKD4uaEtI
 speaker: New York Times Podcasts
@@ -70,7 +68,6 @@ tags:
 - war
 title: Netflix与派拉蒙：华纳兄弟争夺战的幕后风云
 ---
-
 ### 华纳兄弟争夺战：Netflix与派拉蒙的角力
 
 **Michael:** 大家好，我是《纽约时报》的迈克尔·巴罗，这里是《The Daily》节目。

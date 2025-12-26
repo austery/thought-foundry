@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Fraser Institute
@@ -9,10 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Zb-68UXGzd8
 speaker: 王红雨
@@ -26,7 +23,6 @@ tags:
 - system
 title: 加拿大税收真相：42%收入用于交税，中产家庭是最大受害者吗？
 ---
-
 ### 加拿大税收：42%收入用于交税的真相
 
 近期，一份报告指出加拿大人的收入有42%用于交税，这一数据引发了广泛关注。随之而来的疑问是：究竟谁是这一税收体系的受益者，谁又是受害者？许多人质疑政府是否过度开支，以及在“富人不交税，穷人也不交税”的传闻下，中产家庭是否成为了最大的受害者。此外，与美国相比，加拿大的税收比例似乎更高，这是否意味着加拿大人承担了过多的税负？

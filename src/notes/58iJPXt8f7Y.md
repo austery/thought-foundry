@@ -15,10 +15,7 @@ layout: post.njk
 people:
 - Ben Bernanke
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=58iJPXt8f7Y
 speaker: Adam's Axiom
@@ -31,7 +28,6 @@ tags:
 - market
 title: 中央银行如何防止经济崩溃：九大工具及其影响
 ---
-
 ### 利率削减：经济的“糖分冲击”
 
 如果我告诉你，大幅**削减利率**（Interest Rate Cuts: 中央银行降低基准利率以刺激经济增长的政策）就像给一个糖尿病经济体注射“糖分冲击”，你会作何感想？这听起来很诱人，不是吗？

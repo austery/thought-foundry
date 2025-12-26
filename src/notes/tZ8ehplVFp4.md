@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Brilliant
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tZ8ehplVFp4
 speaker: veritasium
@@ -24,7 +22,6 @@ tags:
 - safety
 title: 罗马最危险的自动扶梯：一场工程奇迹背后的维护悲剧
 ---
-
 ### 罗马扶梯事故：失控的下坠
 
 2018年10月23日，数千名足球迷正赶往罗马观看比赛。

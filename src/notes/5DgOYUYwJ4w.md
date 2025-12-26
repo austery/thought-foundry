@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-05-27'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5DgOYUYwJ4w
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-stock-market
 title: 美股估值逼近高位，美债六月融资风险与市场情绪深度解析
 ---
-
 ### 市场回顾与参与度分析
 
 上周市场整体呈现回调态势。美元指数下跌2%，美债收益率方面，2年期和10年期相对稳定，但**TLT**（iShares 20+ Year Treasury Bond ETF: 追踪长期美国国债表现的ETF）下跌2%，表明短债利率波动不大，而长债利率有所上升。**垃圾级别债券利差**（High-yield bond spread: 高风险债券与无风险债券之间的收益率差）上升25个基点。美股三大指数均下跌约2.5%至2.6%，显示市场下跌幅度较为全面。大型科技股下跌2.4%，标普**等权指数**（Equal-weighted index: 指数中所有成分股权重相等）下跌3.1%。受美元走弱影响，黄金反弹4.8%，比特币也随之上涨4.4%。罗素2000指数下跌3.5%。所有板块在上周均出现下跌。

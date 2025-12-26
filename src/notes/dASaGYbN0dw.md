@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Volkswagen
@@ -19,10 +19,7 @@ media_books:
 people:
 - Scott Bessent
 - Trump
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dASaGYbN0dw
 speaker: Money & Macro
@@ -36,7 +33,6 @@ tags:
 - supply-chain-resilience
 title: 中国如何利用关键矿产制衡西方经济体
 ---
-
 ### 中国的关键矿产垄断及其对西方的影响
 
 中国已将其在**关键矿产**（Critical Minerals: 对经济和国家安全至关重要，且供应面临高风险的矿产）领域的垄断武器化，而整个西方工业基础都依赖于这些矿产。

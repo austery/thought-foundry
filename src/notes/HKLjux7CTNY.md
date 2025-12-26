@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - McKinsey
@@ -23,9 +23,7 @@ products_models:
 - Claude
 - Llama
 - GitHub Copilot
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HKLjux7CTNY
 speaker: TechButMakeItReal
@@ -39,7 +37,6 @@ tags:
 - productivity
 title: AI承诺巨额利润，它兑现了吗？——AI炒作与现实
 ---
-
 ### AI投资回报的严峻现实
 
 公司向人工智能投入了数十亿美元，但钱到底去哪儿了？数字不会说谎。

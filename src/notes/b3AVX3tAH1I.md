@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 华尔街日报
@@ -26,10 +26,7 @@ products_models:
 - 芬太尼
 - 稀土
 - BlackWire芯片
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b3AVX3tAH1I
 speaker: LT視界
@@ -43,7 +40,6 @@ tags:
 - us-china-relations
 title: 川习会：中美贸易战的暂时休战与战略脱钩的深层逻辑
 ---
-
 ### 川习会成果：华尔街日报的初步评估
 
 华尔街日报报道了举世瞩目的**川习会**（Trump-Xi Meeting: 指美国总统唐纳德·特朗普与中国国家主席习近平之间的会晤），标题为《川普会见习近平，宣布立即削减关税》。报道指出，美国总统唐纳德·特朗普和中国领导人习近平举行了六年来的首次面对面会晤，两国之间激烈的贸易战暂时休战。双方协议旨在降低中美之间的直接紧张局势，此前两国因贸易和技术问题陷入激烈斗争，损害了两国经济。

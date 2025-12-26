@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - OpenAI
@@ -19,8 +19,7 @@ people:
 - Hank Green
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4lKyNdZz3Vw
 speaker: Internet of Bugs
@@ -35,7 +34,6 @@ tags:
 - risk
 title: 科学YouTuber如何误导你：揭穿AI宣传中的谎言
 ---
-
 ### 引言：科学YouTuber与AI的“末日预言”
 
 今天，我想和大家谈谈那些将人工智能（AI）视为“迫在眉睫的末日”的YouTuber。毫无疑问，YouTube上有大量的AI相关评论。毕竟，那些花大量时间撰写脚本和制作视频的人，很可能对生成脚本和视频的软件有很多看法。当然，YouTuber们会制作视频来表达他们对AI的看法，因为YouTuber们会制作视频来表达他们对一切事物的看法。

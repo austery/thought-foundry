@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 美联储
@@ -16,10 +16,7 @@ people:
 - Janet Yellen
 - Peter Navarro
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F4AJrkKyDcI
 speaker: Shanghao Jin
@@ -33,7 +30,6 @@ tags:
 - us-trade-policy
 title: 特朗普关税政策、美联储决策与2025年市场展望
 ---
-
 ### 市场波动与风险提示
 
 整个市场正经历着巨大的变化。当前市场波动性极高，未来几个月我们将面临更大的**尾部风险**（Tail Risk: 指发生概率极低但一旦发生会造成巨大损失的风险），这种不确定性可能向上也可能向下。与以往不同的是，当前的下跌过程并非市场自然演变，而是完全由人为政策所制造。这意味着政策也可能随时被取消或被更大的政策所取代，导致未来政策的不确定性更强。例如，昨天关于墨西哥和日本未能与美国达成关税协议的消息，就可能导致市场继续下跌。

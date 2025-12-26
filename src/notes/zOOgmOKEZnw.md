@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -24,10 +24,7 @@ people:
 - Donald Trump
 products_models:
 - Deepseek
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zOOgmOKEZnw
 speaker: Norges Bank Investment Management
@@ -43,7 +40,6 @@ tags:
 - us-china-relations
 title: AI泡沫、政府干预与全球经济：Ruchir Sharma 的深度洞察
 ---
-
 ### 资本主义的现状与政府角色的扩张
 
 大家好，欢迎收看与 Ruchir Sharma 的对话。

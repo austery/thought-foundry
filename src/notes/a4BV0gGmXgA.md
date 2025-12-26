@@ -18,8 +18,7 @@ products_models:
 - Claude 3 Opus
 - Gemini
 - Gemini Flash
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a4BV0gGmXgA
 speaker: AI Engineer
@@ -32,7 +31,6 @@ tags:
 - system
 title: AI评估系统：从防御到进攻的五大实践经验
 ---
-
 ### 评估系统有效性的三个关键指标
 
 让我们来谈谈我们随着时间的推移学到的一些有趣的事情。首先，我认为最重要的是，你需要理解并明确你的**评估系统**（Evals: 用于评估大型语言模型性能的系统）是否真的为你的组织提供了价值。我总结了三个你应该关注的积极迹象。

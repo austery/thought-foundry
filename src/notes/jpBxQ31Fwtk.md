@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-07-05
@@ -13,9 +13,7 @@ media_books:
 people:
 - Donald Trump
 products_models: '[]'
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jpBxQ31Fwtk
 speaker: 徒步的騎手
@@ -29,7 +27,6 @@ tags:
 - state
 title: 美国的生日，庆祝什么？独立日背后的现代国家观念
 ---
-
 ### 独立日：纪念开天辟地的创举
 
 各位好，今天是7月4日**独立日**（Independence Day: 纪念1776年7月4日美国《独立宣言》的通过，标志着美国脱离英国独立），美国的生日。独立日是为了纪念249年前美国这个国家开天辟地的创举。过去这200多年，世界上有很多国家独立过，但称得上开天辟地的只有美国这个国家。之所以这么讲，是因为那篇**独立宣言**（Declaration of Independence: 美国在1776年7月4日通过的声明，宣告脱离英国独立，并阐述了人人生而平等、拥有生命、自由和追求幸福等不可剥夺的权利）宣誓的价值——人人生而平等，造物主赋予他们不可剥夺的权利，包括生命、自由和追求幸福。这篇石破天惊的宣言，还有后来的**宪法**（Constitution: 美国的最高法律，确立了政府的结构、权力分配以及公民的权利与自由），彻底改变了历史的方向，颠覆了国家属于一家一姓的这种**成就国家观念**（Achieved Nation Concept: 指国家被视为某个个人、家族或特定群体所拥有和掌控的观念）。它确立了**人民主权**（Popular Sovereignty: 国家主权属于人民，政府的权力来源于人民的授予），国家不再是皇帝国王的国家，也不是贵族寡头的国家，而是人民的国家。这就是独立日的意义。

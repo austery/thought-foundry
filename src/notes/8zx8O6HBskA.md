@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - AIPAC
@@ -22,10 +22,7 @@ people:
 - Thomas Massie
 - Barack Obama
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8zx8O6HBskA
 speaker: 北美王路飞
@@ -39,7 +36,6 @@ tags:
 - us-economy-policy
 title: 爱泼斯坦案、美国政治撕裂与社会深层问题：从精英不信任到教育危机
 ---
-
 ### 中国职场的“江湖系”文化
 
 **陆飞:** 我就想说那个马洪亮是不是那个就是**虚无主义者**（Nihilism: 认为生命没有意义、价值观毫无根据的哲学观点）什么都不存在的就不存在主义的电机人，虚无主义加怀疑主义。

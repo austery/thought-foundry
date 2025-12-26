@@ -9,10 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: null
 source: http://www.youtube.com/watch?v=LSn6wCZ5FUM
 speaker: LT視界
@@ -24,7 +21,6 @@ tags:
 - system
 title: 官方文件揭示“人矿”本质：中共执政逻辑与社会冲击分析
 ---
-
 # 官方文件揭示“人矿”本质：中共执政逻辑与社会冲击分析
 
 ## 国际财经与投资焦点速览

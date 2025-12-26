@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times
@@ -14,9 +14,7 @@ media_books:
 people:
 - Anna Martin
 - Donald Trump
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZvGCcRycyTQ
 speaker: New York Times Podcasts
@@ -30,7 +28,6 @@ tags:
 - self
 title: WNBA球星娜塔莎·克劳德：爱与身份的自我探索
 ---
-
 ### 播客开场：金钱与关系
 
 大家好，我是安娜。在我们开始节目之前，我想问大家一个问题，如果听起来有点直接，请不要介意。好的，问题来了：金钱问题是否正在影响你的感情？

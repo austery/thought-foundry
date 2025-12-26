@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 清华大学
@@ -17,10 +17,7 @@ people:
 - 柴静
 - 孙维
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Qe9L7p1rD4Q
 speaker: 柴静 Chai Jing
@@ -34,7 +31,6 @@ tags:
 - unsolved-case
 title: 朱令案：头发检测揭示的长期、反复中毒真相——专访华裔科学家贺敏
 ---
-
 ### 朱令案：30年未解之谜与头发的证言
 
 2023年12月底，朱令去世。这位清华大学92届的学生，在21岁时被确诊为**铊中毒**（Thallium Poisoning: 一种由重金属铊引起的急性或慢性中毒，可导致多器官衰竭、神经系统损伤甚至死亡）。警方以投毒罪立案调查，但此后30年，直至朱令去世，此案仍未侦破。由于中毒，朱令的智力和表达能力都受到了严重影响，她无法指认嫌疑人或提供线索。然而，一个人的头发会“说话”，它能够记录重金属在人体中沉积的时间和过程，从而揭示过去发生了什么。

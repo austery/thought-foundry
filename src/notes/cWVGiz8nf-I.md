@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cWVGiz8nf-I
 speaker: 一口新飯
@@ -22,7 +21,6 @@ tags:
 - technology
 title: 美联储加息缩表与“美元回流”：国际资本流动的真相与“收割论”的迷思
 ---
-
 ### 引言：揭示“收割论”的困扰
 
 今年美联储开始加息缩表，中文世界里开始出现一种说法：美联储挥起镰刀开始收割世界，美国通过美元回流收割世界。这种说法听起来特别像阴谋论，常用的词语如“挥起镰刀”、“转嫁危机”、“收割”、“阴谋阳谋”、“一盘大棋”、“套路”等，似乎这一切都是美国设的一个局，而美国之外的全世界都是他们的韭菜，随时等待被宰割。

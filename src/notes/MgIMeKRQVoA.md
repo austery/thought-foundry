@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -17,10 +17,7 @@ people:
 - 黄仁勋
 products_models:
 - H20
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MgIMeKRQVoA
 speaker: 老科谈科技股
@@ -34,7 +31,6 @@ tags:
 - market
 title: 英伟达2025年第二季度财报深度解析：市场预期、估值与未来趋势展望
 ---
-
 ### 英伟达2025年第二季度业绩回顾
 
 今天是2025年8月28日，英伟达（Nvidia）刚刚发布了其第二季度的业绩报告。本频道旨在通过深入分析科技行业大趋势，顺势而为地进行长期科技股投资。我们将首先分析英伟达的业绩，并与AMD的最新业绩进行对比，随后分享一些思考。

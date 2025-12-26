@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2024-10-06'
@@ -15,9 +15,7 @@ people:
 - Roger Penrose
 - Sigmund Freud
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VUHa6Qg1vEg
 speaker: 超級歪 SuperY
@@ -31,7 +29,6 @@ tags:
 - shintoism
 title: 新海诚《你的名字》深度解析：量子力学、神道教与灾难伦理的交织
 ---
-
 ### 《你的名字》：现代性批判与城乡对立
 
 时隔八年，《你的名字》再次在台湾大银幕上映。今天，超级歪将深入解析这部电影。

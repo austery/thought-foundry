@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - NASA
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Saily
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=w5ebcowAJD8
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - technology
 title: QR码的诞生与演变：从摩尔斯电码到全球通用工具
 ---
-
 ### QR码的崛起：从最初的质疑到无处不在
 
 当**QR码**（Quick Response Code: 一种二维条码，用于存储大量信息）首次出现时，我最初觉得它们很糟糕，认为它们永远不会流行起来，当时有一张流程图很好地表达了我的这种感受。在我看来，问题在于QR码外观丑陋，对人们来说毫无意义。我宁愿直接看到一个网站或一个我可以谷歌搜索的词。QR码是机器的语言，而我是人类。但我错了。QR码显然变得如此有用，以至于它们现在无处不在，从门票到餐厅菜单和广告，无所不包。在某些国家，它们是交换资金最常见的方式。而QR码的故事，其实是一个非常人性化的故事。

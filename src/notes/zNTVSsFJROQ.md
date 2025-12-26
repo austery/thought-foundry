@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 美国社会学会
@@ -13,10 +13,7 @@ media_books:
 people:
 - Pierre Bourdieu
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zNTVSsFJROQ
 speaker: 壽司坦丁 Sociostanding
@@ -30,7 +27,6 @@ tags:
 - social
 title: 毕业后，回到自己的阶层：精英教育、社会流动与职场机遇
 ---
-
 ### 中国精英教育与阶层固化
 
 在中国的年轻人之间，最近流行一句话：“在毕业的那一刻起，就回到了原本的阶层。”许多中国学生努力挤进名校窄门，以为自己搭上了向上流动的列车，毕业后却发现自己和身边那些来自富裕家庭的同学们机遇大不相同。他们本以为名校文凭可以抹平“出身乐透”的不平等，最后却感觉自己像是被打回原本的阶层。

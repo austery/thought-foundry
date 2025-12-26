@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Polymarket
@@ -20,10 +20,7 @@ people:
 - Jerome Powell
 - Christine Lagarde
 - Vladimir Putin
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZdT0sSLYL1A
 speaker: LT視界
@@ -37,7 +34,6 @@ tags:
 - us-china-relations
 title: 川习会后市场反应与川普核武试验指令：地缘政治与经济动态分析
 ---
-
 ### 财经头条：美联储、川习会与欧洲央行动态
 
 彭博社报道指出，**美联储**（Federal Reserve: 美国中央银行系统）主席**鲍威尔**（Jerome Powell）对12月份降息的警告，揭示了美联储内部日益加剧的分歧。鲍威尔直言不讳地警告市场投资者，需要降低对12月份降息的预期，这凸显了美国政策制定者之间日益加剧的拉锯战，他们在就业和通胀前景方面存在分歧。尽管鲍威尔明确表示，部分人士主要担忧的是就业市场的降温，但美联储内部其他人士则警告，持续的通胀将限制进一步的宽松空间。目前，**政府停摆**（Government Shutdown: 美国政府因预算僵局而部分或全面停止运作）期间官方经济数据冻结发布，只会加剧这种分歧。

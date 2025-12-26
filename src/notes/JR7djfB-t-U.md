@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -18,10 +18,7 @@ media_books:
 - Great by Choice
 - The Wall Street Transcript
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JR7djfB-t-U
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - strategy
 title: 卓越公司的制胜之道：长期主义、核心坚守与持续创新
 ---
-
 ### 卓越公司研究：长期成功的三部曲
 
 大家下午好。很高兴来到这里。奥斯陆是我成长的地方。今天听到了四家杰出公司的分享，真是太棒了。究竟是什么造就了一家真正伟大的公司？这是一个引人入胜的问题，我为此研究了几十年。我们为此进行了三项研究，并出版了三本书，分别是**《基业长青》**（Built to Last: 探讨伟大公司长期成功的永恒原则）、**《从优秀到卓越》**（Good to Great: 解释优秀公司如何实现跨越式发展）和**《选择卓越》**（Great by Choice: 研究在动荡世界中如何成就卓越）。阅读这三本书可能需要不少时间，我希望它们能让您觉得物有所值。

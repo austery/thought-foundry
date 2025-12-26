@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Veritasium
@@ -12,9 +12,7 @@ people:
 - Mr. Beast
 - Destin Sandlin
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-PWMQR59M68
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - plant-physiology
 title: 树木的惊人秘密：它们如何违抗物理定律并从空气中生长？
 ---
-
 ### #TeamTrees 植树倡议与树木的奥秘
 
 这段视频是 YouTube 史上最大规模合作项目之一的一部分，我和我的朋友 Mr. Beast、Mark Rober、Smarter Every Day 的 Destin 以及许多其他人，正努力在今年年底前种植 2000 万棵树。

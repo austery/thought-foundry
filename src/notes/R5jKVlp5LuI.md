@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Nikolai Tangen
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=R5jKVlp5LuI
 speaker: Norges Bank Investment Management
@@ -27,7 +25,6 @@ tags:
 - risk-management
 title: 帆船运动中的风险与决策：彼得·伯林访谈
 ---
-
 ### 帆船传奇的成功秘诀：庆祝、动力与风险
 
 大家好，我是**挪威银行投资管理公司**（Norges Bank Investment Management: 负责管理挪威主权财富基金）的**首席运营官**（COO: Chief Operating Officer）尼古拉·唐根。今天我非常高兴能邀请到彼得·伯林。彼得·伯林是帆船界的传奇人物，他曾三次赢得**美洲杯帆船赛**（America's Cup: 历史悠久的国际帆船赛事）冠军，包括最近的一次，还赢得了无数世界锦标赛和奥运会冠军。可以说，他最近一直在主宰帆船界。欢迎彼得！

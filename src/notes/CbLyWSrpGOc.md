@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日诊所
@@ -13,8 +13,7 @@ people:
 - 魏士航
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CbLyWSrpGOc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +26,6 @@ tags:
 - life
 title: 揭秘伤肝坏习惯：医生解析胆、肝、小肠健康杀手与生活方式陷阱
 ---
-
 ### 开场与游戏互动
 
 邓医师和魏医师首次同台，通过一场桌游来探讨健康话题。

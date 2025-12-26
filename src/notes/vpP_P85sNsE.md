@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - DeepMind
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Gemini
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vpP_P85sNsE
 speaker: The MAD Podcast with Matt Turck
@@ -29,7 +27,6 @@ tags:
 - software
 title: Spur CEO 详解：如何构建 AI 代理取代不稳定的测试脚本
 ---
-
 ### 介绍 Spur：用 AI 代理革新软件测试
 
 大家好！很高兴见到大家，感谢 First Mark 邀请我今天来到这里。

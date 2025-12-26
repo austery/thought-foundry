@@ -23,10 +23,7 @@ people:
 products_models:
 - GPT-4
 - ChatGPT
-project:
-- ai-impact-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Kvncv8dSxPs
 speaker: 小翠時政財經
@@ -39,7 +36,6 @@ tags:
 - market-analysis
 title: 海南封关对香港影响深远：TikTok交易、AI产业战略与全球经济展望
 ---
-
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月19日，欢迎收看今天的每日要闻节目。在做节目之前，我刚刚看到有朋友告诉我，台北今天有恐怖袭击。我确实看了一下，非常严重。**台北车站**今天有一名男子在车站内释放烟雾弹，并持刀攻击民众，造成7人受伤，2人死亡。现在临近圣诞节，全球好像都有恐怖袭击，所以大家出门要小心一点。如果在外面度假，尽量不要去人多的地方，要不找个小树林或小山村，或者BBQ吧。今年特别奇怪，不知道为什么恐怖袭击这么多。台北的恐怖袭击，不知道是不是跟共产党有关，感觉好像穆斯林的这种恐怖袭击不太会发生在台北。祝台湾的朋友能够平安。
 
 ### 海南封关与香港地位

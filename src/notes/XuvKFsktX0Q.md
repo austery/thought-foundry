@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XuvKFsktX0Q
 speaker: Anthropic
@@ -20,7 +19,6 @@ tags:
 - platform
 title: 构建Claude智能代理的未来：Anthropic开发者平台新进展
 ---
-
 ### 开发者平台的演进
 
 Alex: Hey, I'm Alex. I lead Claude Relations here at Anthropic. Today we're talking about building the future of agents with Claude, and I'm joined by my colleagues.

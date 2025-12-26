@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2023-02-11'
@@ -9,9 +9,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Brilliant
-project:
-- systems-thinking
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XeSu9fBJ2sI
 speaker: veritasium
@@ -24,7 +22,6 @@ tags:
 - theory
 title: 哲学中最具争议的问题：深入探讨睡美人悖论
 ---
-
 ### 睡美人悖论：一个引人深思的概率问题
 
 请先不要点赞，也不要点踩，至少现在还不要。

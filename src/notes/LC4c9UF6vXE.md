@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -37,10 +37,7 @@ products_models:
 - Claude
 - Atlas
 - CUDA
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LC4c9UF6vXE
 speaker: 美投讲美股
@@ -53,7 +50,6 @@ tags:
 - strategy
 title: OpenAI如何搅动美股：算力帝国与应用变现的深层逻辑
 ---
-
 ### OpenAI：美股市场的AI指挥官
 
 **OpenAI**（OpenAI: 一家人工智能研究和部署公司）毫无疑问是这轮AI革命的领军者。自2022年**ChatGPT**（ChatGPT: OpenAI开发的大型语言模型）横空出世以来，整个科技产业发生了彻底的改变。现如今，OpenAI的身份似乎又要发生变化，它已然从一名科技领军者进化成了一名搅动美股市场的指挥官。它与甲骨文的一纸合约让其股价瞬间暴涨40%；与AMD的合作又带动股价两周内大涨60%。强如英伟达、微软、亚马逊、谷歌这些大科技公司也因为和OpenAI的合作股价一轮又一轮上涨。就连沃尔玛、Shopify、Expedia这样的消费类公司也因为接入了ChatGPT而股价起飞。

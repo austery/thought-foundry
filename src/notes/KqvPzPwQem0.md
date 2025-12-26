@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 腾讯
@@ -20,9 +20,7 @@ people:
 - Mike Tyson
 products_models:
 - VPN
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KqvPzPwQem0
 speaker: 張内咸
@@ -36,7 +34,6 @@ tags:
 - vpn-legality
 title: 揭秘中国翻墙真相：法律、技术与政策的演变
 ---
-
 大家好，我是张内咸，又见面了。废话不多讲，这两天中文世界里出了件大事。
 
 ### 台湾网红“馆长”的争议与流量焦虑

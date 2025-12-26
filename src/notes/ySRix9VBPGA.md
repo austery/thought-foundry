@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -15,10 +15,7 @@ people:
 products_models:
 - S&P 500
 - ETF
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ySRix9VBPGA
 speaker: 投资TALK君
@@ -31,7 +28,6 @@ tags:
 - market-volatility
 title: 降息预期下的市场波动与期权策略解析
 ---
-
 ### 周一市场回顾与债券市场信号
 
 大家好，我是市场分析人小陶。今天我们将首先回顾周一的市场走势，并深入探讨一条重要新闻。随后，我们将借由富途（Moomoo）的赞助机会，分享我常用的三种期权策略，并为期权初学者讲解一些关键的关注指标。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GJ5jTgcbRHA
 speaker: Anthropic
@@ -26,7 +24,6 @@ tags:
 - management
 title: Claude.ai 项目功能入门：提升协作与效率的智能工作空间
 ---
-
 ### Claude.ai 项目功能简介
 
 什么是项目？它们如何改善与 Claude 的协作体验？通过项目功能，Claude 用户可以创建自包含的环境，这些环境拥有独立的聊天历史、特定的知识库和定制化的设置。我们将概述项目的功能、用途、创建方法以及一些高级特性。

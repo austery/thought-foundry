@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -30,10 +30,7 @@ people:
 - Steven Spielberg
 - Dan Bongino
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9e8hotmwsJc
 speaker: New York Times Podcasts
@@ -47,7 +44,6 @@ tags:
 - political
 title: ICE移民执法引争议，1月6日炸弹案嫌犯落网，乌克兰援助腐败问题凸显
 ---
-
 ### 《纽约时报》头条新闻概览
 
 这里是《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是12月5日星期五，以下是我们正在报道的内容。

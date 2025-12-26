@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - Shopify
@@ -16,8 +16,7 @@ people:
 - Joe Rogan
 products_models:
 - Whisper Flow
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KVXnVe8eOkM
 speaker: The Diary Of A CEO
@@ -30,7 +29,6 @@ tags:
 - metabolic-health
 title: 胰岛素专家警告：这是痴呆症的第一个迹象！生酮饮食与大脑健康的惊人联系
 ---
-
 ### 导言：沙丁鱼挑战与生酮的力量
 
 欢迎来到沙丁鱼挑战。在接下来的三天里，菜单上唯一的东西就是沙丁鱼。我挑战你每天尝试吃掉三罐，因为这是一个帮助你进入生酮状态的绝佳工具。

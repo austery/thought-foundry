@@ -17,10 +17,7 @@ people:
 - George Soros
 products_models:
 - ChatGPT
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=itG58Jwu12A
 speaker: Norges Bank Investment Management
@@ -33,7 +30,6 @@ tags:
 - llm
 title: 传奇投资人斯坦·德鲁肯米勒：宏观展望、AI热潮与“先买后分析”投资哲学
 ---
-
 ### 引言
 
 大家好，欢迎收听本期播客的精简版，我们每周五都会推出；如果想收听完整版，请在周三收听。

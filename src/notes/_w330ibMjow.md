@@ -18,8 +18,7 @@ draft: true
 series: ''
 category: politics-society
 area: society-thinking
-project:
-  - china-analysis
+project: []
 people:
   - 成龙
   - 梁思成

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -27,10 +27,7 @@ people:
 - Donald Trump
 products_models:
 - QQQ
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XQ_Kb7-WRfY
 speaker: 视野环球财经
@@ -44,7 +41,6 @@ tags:
 - tech-stock-volatility
 title: 美股市场受AI担忧与宏观数据影响：科技股重挫，中国重返美元债市场，特斯拉马斯克薪酬方案获批
 ---
-
 ### 美股市场概览与避险情绪升温
 
 现在是美东时间25年11月6号周四晚上的7点55分。今天，美股市场受到人工智能担忧和疲软劳动力市场指标的影响，避险情绪升温，纳斯达克指数下跌近2%。标普500指数的341支个股下跌，162支上涨。标普11个板块中，只有医疗保健和能源板块上涨，其余9个板块均下跌，其中科技板块失血最为严重，跌幅达到2%。成长股、热门概念股以及**高贝塔股票**（High-beta stocks: 指波动性高于大盘的股票）今天都经历了大幅下跌。今天的杀伤力比周二更大，因为昨天市场出现反弹行情，许多投资者刚刚放松警惕，甚至有朋友在评论区表示要满仓抄底QQQ。然而，今天开盘后，市场高开低走，一路向下，使得今天进场的所有资金都被“闷杀”，因此今天的痛感比周二更加强烈。

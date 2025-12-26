@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OECD
@@ -16,10 +16,7 @@ people:
 - Warren Buffett
 - Jeff Bezos
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OtSwoGuz8sk
 speaker: TED
@@ -33,7 +30,6 @@ tags:
 - wealth
 title: 向富人征税以应对气候变化：一项全球正义的呼吁
 ---
-
 ### 气候变化的隐形杀手：贫困国家的生命代价
 
 多数时候，当我们思考气候变化时，脑海中会浮现出野火、风暴和洪水的画面。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Anthropic
@@ -27,9 +27,7 @@ products_models:
 - GPT-3
 - AlphaGo
 - AlphaGo Zero
-project:
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xm6jNMSFT7g
 speaker: Norges Bank Investment Management
@@ -45,7 +43,6 @@ tags:
 - society
 title: Anthropic CEO Dario Amodei：论AI的前沿、安全竞赛与社会未来
 ---
-
 ### AI 的最新突破：规模化与可解释性
 
 人工智能的规模化趋势仍在继续。未来一年，我们将看到更大、更强的模型，能够处理更复杂的任务。事实上，到这个播客播出时，Anthropic 将会发布一款新模型，它很可能会成为世界上最智能、最强大的模型。

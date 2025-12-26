@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国务院
@@ -23,10 +23,7 @@ people:
 - 邓小平
 - Vladimir Putin
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ebESBZNtlq8
 speaker: FearNation 世界苦茶
@@ -39,7 +36,6 @@ tags:
 - strategy
 title: 解读四中全会公报：习近平的权力信号与“三个中国”的未来博弈
 ---
-
 ### 核心观点提炼：习近平的真实意图与未来关注点
 
 我认为在整个四中全会报告中，有两类话是习近平同志想要重点表达的。第一类是他希望强调的政治原则。例如，报告的最后一句——“全党全军全国各族人民更加紧密团结在习近平同志为核心的党中央周围”，在以往的四中全会中，并非必须以此方式结尾。

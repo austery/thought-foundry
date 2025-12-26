@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2024-08-29'
@@ -11,9 +11,7 @@ people:
 - Nassim Nicholas Taleb
 - Martin Luther King Jr.
 - Hegel
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eCqZ9z--PAE
 speaker: 大问题Dialectic
@@ -27,7 +25,6 @@ tags:
 - strategy
 title: 不要成为网络杠精：论证是为了赢，而非赢得争论
 ---
-
 ### 论证的真正目的：赢得行动而非争论
 
 你好，我是夏栋，欢迎来到《论证与说服50讲》。金融交易员和思想家，同时也是《黑天鹅》和《反脆弱》的作者纳西姆•塔勒布（Nassim Nicholas Taleb）曾说过：“一个真正自由的人从不试图赢得一场争论，他们只追求赢。”然而，反观我们的现实生活，尤其是在当今的互联网上，我们会发现大部分人都只是想赢得争论。

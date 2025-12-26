@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CvpMjBDHFGM
 speaker: EO
@@ -22,7 +21,6 @@ tags:
 - strategy
 title: Prepared创始人Michael Chime：为何我们坚持与用户并肩创新，而非闭门造车
 ---
-
 ### 紧急事件催生的创业灵感
 
 I kind of landed into technology and startups just by seeing that emergency happen in my community as a kid.

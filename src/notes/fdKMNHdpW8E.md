@@ -32,9 +32,7 @@ people:
 - Mike Pence
 - Marco Rubio
 - Xi Jinping
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fdKMNHdpW8E
 speaker: LT視界
@@ -46,7 +44,6 @@ tags:
 - international-relations
 title: 美联储信号、川普幕僚风波与中国权贵火拼：深度解析多条重磅新闻
 ---
-
 ### 今日财经头条
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月17日，我们首先来了解今天的财经头条。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-14'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HF5SvJatptg
 speaker: Bloomberg Podcasts
@@ -27,7 +24,6 @@ tags:
 - us-china-relations
 title: 美中欧贸易战升级，AI泡沫引担忧，科技巨头如何应对？
 ---
-
 ### 市场概览：地缘政治与AI泡沫下的不安情绪
 
 Bloomberg: Bloomberg Tech is live from coast to coast with Caroline Hyde in New York and Ed Lelo in San Francisco.

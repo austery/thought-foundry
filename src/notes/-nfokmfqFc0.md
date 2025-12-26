@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: politics-society
 companies_orgs: []
 date: '2025-10-17'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - new-york-times-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-nfokmfqFc0
 speaker: New York Times Podcasts
@@ -25,7 +23,6 @@ tags:
 - ukraine-war
 title: 特朗普与普京通话、博尔顿被起诉、伊朗性别转换手术及其他头条新闻
 ---
-
 ### 特朗普与普京通话，战斧导弹交易生变
 
 Today at the White House, Ukrainian President Volodymyr Zelenskyy will meet with President Trump.

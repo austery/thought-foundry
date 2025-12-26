@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-09-22'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1N-r1-zBEDE
 speaker: 海淀拙大叔
@@ -25,7 +22,6 @@ tags:
 - urban-development
 title: 阿甘财富增长论之五：房产投资何去何从？
 ---
-
 ### 引言：房产投资的底层逻辑
 
 海淀拙大叔在“阿甘财富增长论”第五篇中，探讨了“去哪儿买房”这一问题。他提到，有同学在股市赚钱后，希望能将资金投入房产以继续增值。大叔建议，首先应梳理房价上涨的底层逻辑，答案便会自然浮现。房价上涨的逻辑主要包括以下四点：第一，引发房价上涨的底层逻辑到底是什么？第二，有哪些关键因素会引发房价上涨？第三，这些因素已经成熟的城市，房价涨幅会很大，但正在快速追赶的城市，房价涨幅是否会更大？第四，谁最可能是潜在长期涨幅最大的城市？

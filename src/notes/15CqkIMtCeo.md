@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-09-01'
 draft: true
@@ -12,10 +12,7 @@ media_books:
 people:
 - 韩寒
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=15CqkIMtCeo
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - memory
 title: 一个理想主义者的倾家荡产：方励与里斯本丸沉船的历史抢救
 ---
-
 ### 十年如一日：一件T恤与一个未完成的使命
 
 大家好，我叫方励，70岁。十年前我也站在这儿，今天我刻意穿了同一件T恤——它旧了些，我的头发掉了不少，皱纹也多了。但我的心没有变。尤其听说在座的年轻人中，还有十年前曾与我同台的人，这让我倍感欣慰。我们彼此见证了时间的流逝。

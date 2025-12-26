@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - UBS
@@ -14,10 +14,7 @@ layout: post.njk
 people:
 - James Gorman
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ycBFo2DvSr8
 speaker: Norges Bank Investment Management
@@ -32,7 +29,6 @@ tags:
 - leadership-development
 title: 瑞银CEO埃尔莫蒂：从足球梦想、瑞信收购到全球金融领导力
 ---
-
 ### 从足球梦想走向全球金融
 
 今天，我们非常荣幸地欢迎全球金融界最具影响力的领导者之一，**瑞银集团**（UBS: 瑞士最大的银行之一，提供财富管理、投资银行等服务）首席执行官塞尔吉奥·埃尔莫蒂。

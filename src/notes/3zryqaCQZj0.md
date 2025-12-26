@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2024-09-06'
@@ -13,10 +13,7 @@ people:
 - Warren Buffett
 - Benjamin Graham
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3zryqaCQZj0
 speaker: 海淀拙大叔
@@ -30,7 +27,6 @@ tags:
 - financial-innovation
 title: 中国巴菲特时代何时到来？金融化、全球中心与霸权周期
 ---
-
 ### 引言：巴菲特的成功与中国金融大时代的展望
 
 大家好，欢迎来到老卓说。今天是“故事中的投资学”系列的第二集，主题是“造就中国巴菲特的时代来了吗？”。在第一集中，我们总结了**巴菲特**（Warren Buffett: 著名美国投资家，以价值投资闻名）成功的两个主要因素。第一是个人投资能力超强。他21岁就跟随**价值投资**（Value Investing: 一种投资策略，关注公司内在价值而非市场价格）的奠基者**格雷厄姆**（Benjamin Graham: 经济学家、投资家，巴菲特的导师）走上了投资正道。26岁开始管理别人的资产，35岁通过收购保险公司来进行金融创新。在巴菲特67年的职业生涯中，他管理的资产膨胀了640万倍。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Meta
@@ -22,10 +22,7 @@ people:
 - Mark Zuckerberg
 - Charlie Kirk
 products_models: []
-project:
-- entrepreneurship
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tq_LSoDvoSI
 speaker: 北美王路飞
@@ -39,7 +36,6 @@ tags:
 - strategy
 title: Peter Thiel的颠覆性思考：关于创业、失败与教育的商业智慧
 ---
-
 ### Peter Thiel的商业智慧与颠覆性思维
 
 本期节目将分享**彼得·蒂尔**（Peter Thiel: 风险投资家、企业家、作家，PayPal联合创始人，Facebook首位外部投资者）在接受**蒂姆·费里斯**（Tim Ferris: 著名播客主持人、作家、投资者）采访时分享的一些商业智慧。此前，我们曾探讨过彼得·蒂尔如何赢得与**高客**（Gawker: 已关闭的美国博客网站，曾与彼得·蒂尔有法律诉讼）的法律诉讼。他本身是一位连续创业家和亿万富翁，是Facebook的第一个外部投资者，也是其他一百多家公司的投资者，同时还是《**从0到1**》（Zero to One: 彼得·蒂尔所著的商业书籍，探讨创新与创业）一书的作者。他与蒂姆·费里斯的播客内容很长，这里将总结他回答的所有问题。

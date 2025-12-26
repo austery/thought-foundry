@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - NVIDIA
@@ -30,9 +30,7 @@ products_models:
 - Genie3
 - ChatGPT
 - Unreal Engine
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=410Zukc8Lng
 speaker: 硅谷101播客
@@ -45,7 +43,6 @@ tags:
 - real
 title: 从Sora 2到具身智能：3D数字人如何重塑虚拟与现实的边界
 ---
-
 ### 引言：Sora 2 引爆的数字人新浪潮
 
 近期，Sora 2的发布引起了广泛关注，它能将一句话变成一段10秒的短视频，展示了强大的**文生视频**（Text-to-Video: 指通过输入文字描述直接生成视频内容的技术）能力。与此同时，完全由AI创作的好莱坞演员Tilly Norwood，诞生仅6个多月就吸引了6.5万粉丝，她会发自拍、代言品牌，却从未真实存在过。

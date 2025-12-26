@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-06-17'
@@ -11,8 +11,7 @@ media_books:
 - talk
 products_models:
 - stablecoin
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Zpdu-DUU9fY
 speaker: 投资TALK君
@@ -25,7 +24,6 @@ tags:
 - innovation
 title: 稳定币的现状、应用与未来：深度解析机遇与挑战
 ---
-
 ### 引言与嘉宾介绍
 
 投资TALK君: 各位听众好，今天非常荣幸邀请到两位在传统金融和加密货币市场深耕多年的OG——Ben和Chris。我们通过X平台交流后，认为非常有必要请两位行业OG来聊聊稳定币的现状与未来。本次访谈将尽量涵盖一些基础问题，我将以主持人的身份，向两位提出一些可能具有挑战性的问题。我们先请Ben和Chris各自介绍一下自己。

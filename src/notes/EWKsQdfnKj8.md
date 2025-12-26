@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -22,8 +22,7 @@ products_models:
 - AlexNet
 - Transformer
 - ChatGPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EWKsQdfnKj8
 speaker: Best Partners TV
@@ -40,7 +39,6 @@ tags:
 - reinforcement-learning
 title: AGI十年之遥：Andrej Karpathy论AI现状、未来与教育
 ---
-
 ### Andrej Karpathy：AGI仍需十年，AI是“幽灵”而非“动物”
 
 近期，在OpenAI和英伟达积极构建万亿AI联盟的同时，对AI泡沫的抨击也甚嚣尘上。德瓦克什·帕特尔（Dwarkesh Patel）对安德烈·卡帕西（Andrej Karpathy）的最新两小时采访，为我们深入了解人工智能的现状与未来提供了独特视角。

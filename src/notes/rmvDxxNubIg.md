@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - GitHub
@@ -19,9 +19,7 @@ people:
 products_models:
 - Claude Code
 - Cursor
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rmvDxxNubIg
 speaker: AI Engineer
@@ -35,7 +33,6 @@ tags:
 - software-development-lifecycle
 title: AI编码代理：如何在复杂代码库中解决难题并避免“笨拙区”
 ---
-
 ### 欢迎与AI在软件工程中的挑战
 
 大家好！我是Dex。正如精彩的开场介绍所说，我从事**AI代理**（AI Agents: 能够自主感知环境、做出决策并执行任务的软件实体）的开发已经有一段时间了。我们在六月AI工程师大会上关于《12要素代理》（12-Factor Agents: 基于“12要素应用”原则构建的AI代理，旨在实现健壮、可扩展和易于维护的特性）的演讲，是史上最受欢迎的演讲之一，我认为位列前八。它无疑是六月AI工程师大会上最精彩的演讲之一。我可能在其中提到了关于**上下文工程**（Context Engineering: 一种优化AI模型输入信息（上下文窗口）的技术，旨在提高模型性能和准确性）的一些内容。

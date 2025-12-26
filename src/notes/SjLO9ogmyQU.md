@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TED
@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SjLO9ogmyQU
 speaker: TED
@@ -25,7 +23,6 @@ tags:
 - rewilding
 title: 让世界重归野性之美：从大型庄园到私家花园的自然复野实践与秘诀
 ---
-
 ### 自然复野：从宏大愿景到日常实践
 
 你最近可能听过很多关于**自然复野**（Rewilding: 恢复自然生态系统和过程，让其自我调节）的说法。

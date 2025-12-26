@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-09-15'
 draft: true
@@ -12,9 +12,7 @@ media_books:
 - 《Yale Law Journal》
 people:
 - Charlie Kirk
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VcQHigpAWOE
 speaker: 徒步的騎手
@@ -27,7 +25,6 @@ tags:
 - society
 title: 美国持枪权之争：第二修正案的历史演变与政治博弈
 ---
-
 ### “值得的代价”：枪支暴力与第二修正案的现代争议
 
 枪支是美国社会一个非常特殊的问题。最近，美国保守派活动家查理·科克（Charlie Kirk）在犹他州的一所大学演讲时，被问及每年因枪支暴力丧生的人是否“值得”。他回答说：“我认为，为了我们能拥有第二修正案，每年不幸地付出一些枪支死亡的代价是值得的。”

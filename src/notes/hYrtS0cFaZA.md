@@ -7,8 +7,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hYrtS0cFaZA
 speaker: Best Partners TV
@@ -20,7 +19,6 @@ tags:
 - technology
 title: 从零手搓TPU：三个月实现AI推训一体芯片设计的奇迹
 ---
-
 ### 项目缘起：零基础挑战AI芯片设计
 
 这是一个听起来几乎不可能完成的项目：仅用三个月时间，一群非芯片设计专业的学生，从零开始，成功打造出了一块能够运行的**TPU**（Tensor Processing Unit: 谷歌设计的专用AI芯片，用于加速机器学习模型的推理和训练）原型。这块芯片不仅能进行推理，还能支持训练，并且已完全开源。尽管谷歌的**TPU**已迭代至第七代，背后有顶尖工程师团队和先进工艺支持，但来自加拿大西安大略大学的工程师们，利用一个暑假的时间，完成了这项看似不可能的挑战，并将他们的项目命名为TinyTPU。

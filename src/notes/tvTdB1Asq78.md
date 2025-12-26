@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: '[]'
 date: 2025-07-19
@@ -15,10 +15,7 @@ people:
 - Benjamin Franklin
 - Nietzsche
 products_models: '[]'
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tvTdB1Asq78
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - social-dynamic
 title: 斯蒂芬·金的硬核智慧：面对非议，活出真实自我
 ---
-
 ### 人生常态：无处不在的非议
 
 又到周末了，我们来聊点有意思的。很多使用 YouTube 的人也会上推特（Twitter，现在更名为 X，但我仍习惯称之为推特）。我在推特上关注的人不多，其中一位是小说家**斯蒂芬·金**（Stephen King: 当今世界上最成功的作家之一，以恐怖小说闻名）。今天早晨，他转发了一篇推文，内容很简单，却道出了一个**司空见惯**（指经常见到，不足为奇）的现象：无论你是谁，不管你是大人物还是小人物，是男是女，总会有人在某个角落说你的坏话。去他妈的吧，笑笑就好。这是那篇推文的原文，原推文说这是一个“冰冷的现实”（ice cold fact）。**斯蒂芬·金**在转贴中评论说：“确实，我深有体会。”

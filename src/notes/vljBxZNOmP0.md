@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - B站
@@ -32,10 +32,7 @@ people:
 - 邓小平
 - Xi Jinping
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vljBxZNOmP0
 speaker: 三個水槍手
@@ -49,7 +46,6 @@ tags:
 - technology
 title: 《芳华》误读与红色审美复兴：年轻一代为何重新拥抱文革叙事？
 ---
-
 ### 从《芳华》到红色审美：一场被误读的历史复兴
 
 最近，一部关于电影《芳华》的视频评论在B站引发爆炸性传播，单个视频播放量突破一千五百万。它并非简单影评，而是一场对历史的重新诠释——将文革时期描绘为“纯洁的理想主义”，将毛泽东塑造成“人民的救星”。这一现象远非偶然，它揭示了当代中国年轻一代与历史记忆之间深刻而危险的断裂。

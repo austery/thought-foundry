@@ -20,10 +20,7 @@ people:
 - 特朗普
 - 李宗盛
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JnD8fpdFSSk
 speaker: 柴静 Chai Jing
@@ -36,7 +33,6 @@ tags:
 - us-china-relations
 title: 庄祖宜：中美领馆风波中的个人困境与人性反思——“被两方夹攻时我对世界特别绝望”
 ---
-
 ### 沉寂四年后的首次发声：中美风波中的个人困境
 
 今天节目中，我们访谈的是庄祖宜，她是美国驻中国成都最后一任总领事林结伟的妻子。庄祖宜曾是在中国知名度最高的外交官夫人，她在中国的社交媒体上发表关于美食、音乐和家庭生活的帖子，在微博中拥有将近60万粉丝。然而，在四年前中国和美国互撤领事馆的政治风波中，庄祖宜受到来自不同政治阵营的批判，其中包括了人身威胁和严重的性别羞辱。此后四年，她保持沉默，再也没有更新过微博。

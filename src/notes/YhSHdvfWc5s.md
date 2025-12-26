@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Politico
@@ -62,10 +62,7 @@ people:
 products_models:
 - Blackwell
 - HBM
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YhSHdvfWc5s
 speaker: Amit Kukreja
@@ -79,7 +76,6 @@ tags:
 - policy
 title: 政府停摆有望结束，特朗普再提刺激计划，市场期货应声上涨
 ---
-
 ### 政府停摆危机暂解，市场期货全线飘绿
 
 大家好，欢迎回到新一期的周日市场期货节目。我们现在是直播。感谢各位的到来，希望大家度过了一个愉快的周末。市场现在一片绿色，非常亮眼的绿色。我们之所以看到绿色，就像上周五收盘时那样，在经历了周五东部时间下午2点左右结束的剧烈下跌后，市场最终还是收绿了。我们现在看到市场上涨的原因是，朋友们，这次的政府停摆似乎要结束了。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -32,10 +32,7 @@ products_models:
 - Ruben
 - Facebook
 - Threads
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DNdxI-oN2Ro
 speaker: 投资TALK君
@@ -49,7 +46,6 @@ tags:
 - nvidia-earning
 title: 英伟达财报揭示AI强劲需求，美联储纪要与非农数据引市场波动
 ---
-
 ### 频道动态与线下活动预告
 
 各位观众大家好，欢迎来到一个接下去将要连续“逃课”三天的专业美股频道。我是市场分析小陶。因为我将要去美国的两个城市做几场线下的活动，分别是洛杉矶的两场和硅谷的两场。我其实非常期待，因为无论是亚洲行还是在亚洲行之前在加拿大做的两场线下活动，结果都非常的好，可以和大家有一个面对面非常充分的交流，最后也变成了一个投资的交流会。且很多观众来到现场之后也不愿意走，所以还是非常期待这一次接下去的美国行。而且在线下的时候，有些我们线上不太愿意聊的东西，我们在线下都可以聊。至于什么话题，大家如果了解我的话，应该心里有数。废话不多说，回到今天的主题。

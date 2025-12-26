@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - B站
@@ -17,9 +17,7 @@ media_books:
 people:
 - 蔡元培
 products_models: []
-project:
-- historical-insights
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uVjmBVJvP8s
 speaker: 一席YiXi
@@ -33,7 +31,6 @@ tags:
 - technology
 title: 被应试教育筛选的能力，在AI时代为何变得无关紧要？
 ---
-
 ### 教育中的“拜神”现象与意愿的缺失
 
 大家好，我叫沈辛成，来自上海交通大学。我是一位青年的写作者，同时也是一位B站的小UP主。当然，优先于这一切的是我是一名老师，一名光荣的老师。

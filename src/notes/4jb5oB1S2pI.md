@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4jb5oB1S2pI
 speaker: Bloomberg Podcasts
@@ -23,7 +22,6 @@ tags:
 - technology
 title: AI 时代下的网络韧性：Rubrik 应对不可避免的网络攻击
 ---
-
 ### AI 自动化与数据分析在网络安全中的应用
 
 How are you using AI automation or data analytics to really stay ahead here?

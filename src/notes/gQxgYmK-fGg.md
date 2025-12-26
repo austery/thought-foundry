@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2024-05-28'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gQxgYmK-fGg
 speaker: 一口新飯
@@ -23,7 +21,6 @@ tags:
 - self-discovery
 title: 时间与财务自由的真相：十年迷失与自我发现之路
 ---
-
 ### 自由的真相与迷思
 
 许多朋友羡慕我作为 **YouTuber**（视频博主：通过在YouTube平台发布视频内容获取收入和影响力的创作者）的生活，可以完全掌控自己的时间，并实现一定程度的财务自由。例如，我刚结束了一个多月的旅行，先后去了京都、大阪，与在日本的几个频道社群成员见面；回国看望家人后，在北京举办了一场将近40人的社群见面会；五月初又去了台湾，在台北举办了一场50人的见面会。我不否认这听起来确实令人向往，这也是很多人对时间与财务自由的理解和想象。

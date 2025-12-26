@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -24,10 +24,7 @@ people:
 products_models:
 - Rufus
 - EUV
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u-VtUOsWOj4
 speaker: Shijun Tang
@@ -41,7 +38,6 @@ tags:
 - tech-competitive-advantage
 title: Meta、Intel与Uber的兴衰启示：普通人的资产配置指南
 ---
-
 ### Meta：AI与元宇宙的双引擎战略
 
 Meta是我翻了3.5倍的股票。它未来还会一直涨吗？又到了每90天一次的Meta解读环节。其实，Meta用不着我过多介绍——它是一家巨型航母级别的IT公司，业务模型非常清晰。

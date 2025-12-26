@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 东鹏饮料
@@ -14,10 +14,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- investment-strategy
-- market-cycles
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uIFGtsm6ZfQ
 speaker: 海淀拙大叔
@@ -31,7 +28,6 @@ tags:
 - market-cycle
 title: 海淀拙大叔的投资框架：十大要点与消费行业预判
 ---
-
 ### 海淀拙大叔的十大投资要点概述
 
 海淀拙大叔在此分享其财富增长论的第六部分，主要探讨“什么是最好的投资”，并将其总结为十大投资要点。他认为，最好的投资是在**周期的底部**（包括经济周期、资本市场周期、行业周期和投资者情绪周期），买入那些处于**困境且即将反转**（Turnaround Investing: 指投资于那些目前经营困难但未来有望好转的公司）的、**长期盈利能力强**、**长期高增长**、**确定性高**的好公司，并长期持有。

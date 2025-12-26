@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs: []
 date: '2025-12-22'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- social-network-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Cc2lSH7hIsU
 speaker: 北美王路飞
@@ -21,7 +20,6 @@ tags:
 - weak-tie
 title: 社交网络的隐形规则：为什么你的朋友比你更有朋友？
 ---
-
 ### 友谊悖论：你的朋友为什么比你更有朋友？
 
 不知道大家有没有这种感觉：发过朋友圈或查看通讯录时，会觉得朋友们似乎比你有更多的好朋友，他们去的地方更酷，认识的人更牛，生活更热闹。直觉告诉你，这可能是因为你不够外向，不够成功，或者想多了。

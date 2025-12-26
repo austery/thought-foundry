@@ -18,10 +18,7 @@ draft: true
 series: ''
 category: politics-society
 area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
-  - investment-strategy
+project: []
 people:
   - Donald Trump
   - Volodymyr Zelenskyy

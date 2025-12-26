@@ -12,10 +12,7 @@ media_books: []
 people:
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pWgfJJS_96E
 speaker: Shanghao Jin
@@ -28,7 +25,6 @@ tags:
 - us-market-outlook
 title: 2025年市场展望：美股投资策略、通胀与关税影响及AI应用前景分析
 ---
-
 ### 2025年市场策略调整：为何从全仓买入转向适度仓位
 
 今天，我将回答朋友们提出的两个核心问题：首先，为什么我们不再建议像去年那样采用全仓买入股票并购买看跌期权（**str rate gy**，即策略）的投资方式？其次，为什么在不建议全仓的情况下，又不建议完全清仓？

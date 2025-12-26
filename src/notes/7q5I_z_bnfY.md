@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-04-23'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7q5I_z_bnfY
 speaker: 投资TALK君
@@ -25,7 +23,6 @@ tags:
 - trump-policy
 title: 特朗普政策反复与市场波动：特斯拉与GE财报深度解析
 ---
-
 ### 市场概览：特朗普政策主导下的剧烈波动
 
 大家好，欢迎来到一个不单只聊新闻的专业美股频道，我是市场分析员小陶。近期，市场走势几乎完全受特朗普在关税政策方面言论的影响。我们观察到，**标普500**（S&P 500: 美国股市的500家大型上市公司股票指数）一天内可能下跌3%，第二天随即反弹2.5%，盘后期货市场甚至继续上涨。经过过去一个月的走势，我们似乎已习惯了标普500日内2%至3%的波动，反而对小幅涨跌或横盘感到不适应。

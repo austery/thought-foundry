@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs: []
 date: '2025-10-14'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jffX2T45zCA
 speaker: Bloomberg Podcasts
@@ -25,7 +23,6 @@ tags:
 - policy
 title: 特朗普论阿根廷援助、BRICS挑战及国内政策
 ---
-
 ### 拉美盟友与地缘政治机遇
 
 Eight or nine, 10 countries, Argentina foremost among them, that have aligned with the United States on issue after issue in international community events all over the world.

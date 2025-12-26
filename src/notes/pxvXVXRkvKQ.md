@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 author: Lei
 category: geopolitics
 channel: null
@@ -9,7 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project: china-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=pxvXVXRkvKQ
 speaker: 夸克说
@@ -21,7 +21,6 @@ tags:
 - 数字货币
 title: 【夸克说】中美稳定币战争，中国一定会输吗？
 ---
-
 ## 引言：稳定币热潮与中国舆论
 
 大家好，欢迎收看夸克说，我是夸克。今天，咱们来聊一个近期和未来一段时间都可能会很火的话题：稳定币

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CIA
@@ -27,10 +27,7 @@ people:
 - Sergey Lavrov
 - Henry Kissinger
 - Tony Blair
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=20JZYf5rFQM
 speaker: 记者易速利
@@ -44,7 +41,6 @@ tags:
 - us-foreign-policy
 title: 特朗普政府的俄乌和平斡旋：私人外交、经济诱因与地缘政治困境
 ---
-
 ### 特朗普政府的俄乌和平斡旋背景
 
 和平的障碍一直都在普京这边。之前的28点和平方案已经调整到了19点。乌克兰军队的规模由60万人提高到了80万人，更接近目前的实际水平90万。乌克兰方面坚持不放弃目前自己仍然掌控的顿巴斯领土。国卿卢比奥说，双方争夺的实际上就是30到50公里宽的区域，加上克里米亚剩下的20%。问题是，这些地区由乌克兰控制，目前是重兵布防，雷区密布。如果拱手让出去，未来乌克兰中部就会面临着俄罗斯直接的威胁。所以和平进程其实一直都在各种迷雾当中，一连下来基本上没有取得实质性进展。

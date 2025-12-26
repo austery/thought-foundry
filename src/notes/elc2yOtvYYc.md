@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - General Motors
@@ -26,10 +26,7 @@ people:
 - Bill Davis
 - John Fraser
 - John Michael McGrath
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=elc2yOtvYYc
 speaker: TVO Today
@@ -43,7 +40,6 @@ tags:
 - us-canada-relations
 title: 安大略省的政治博弈：从广告战到宪法改革
 ---
-
 ### 播客开场与加拿大历史回顾
 
 Steve Pacen: 欢迎大家收听**OnPy播客**（OnPy Podcast: TVO Today的政治评论播客）。

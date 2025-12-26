@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-06-15'
@@ -15,10 +15,7 @@ people:
 - 黑格尔
 - 马克思
 products_models: []
-project:
-- historical-insights
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1zL655wp5zg
 speaker: 一席YiXi
@@ -32,7 +29,6 @@ tags:
 - technological
 title: 数字时代的不幸生活：当科学意识形态掏空了意义
 ---
-
 ### 科学意识形态下的意义抽空
 
 大家好，我是王俊，我是一个以哲学为业的人。今天我要讲的是我们数字时代的一些不幸的生活经验。

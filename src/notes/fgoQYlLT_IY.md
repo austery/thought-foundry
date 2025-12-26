@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-09-05'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - best-partners-tv
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fgoQYlLT_IY
 speaker: Best Partners TV
@@ -25,7 +24,6 @@ tags:
 - technology
 title: Hot Chips 2025 七大技术领域深度解析：AI计算、网络、光I/O、CPU、图形、安全与散热创新
 ---
-
 ### Hot Chips 2025 大会概览与核心突破
 
 国际顶级芯片会议Hot Chips已正式落下帷幕，作为芯片及系统设计领域的年度风向标，本届大会揭示了未来科技的底层逻辑。大会议程设计巧妙，首日聚焦CPU、安全、图形与网络等基础支柱，第二天则转向光学、散热与机器学习等AI时代的核心痛点。本篇文章将沿着大会的技术脉络，逐领域拆解本届Hot Chips的核心突破，旨在以通俗易懂的方式阐释藏匿于技术文档中的参数、架构与创新，从而清晰展现未来1-2年芯片行业的真实走向。

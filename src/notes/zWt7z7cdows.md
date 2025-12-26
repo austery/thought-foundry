@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - KMT
@@ -20,10 +20,7 @@ people:
 - Donald Trump
 - Elon Musk
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zWt7z7cdows
 speaker: 超級歪 SuperY
@@ -37,7 +34,6 @@ tags:
 - totalitarianism
 title: 如何辨识法西斯主义：历史、特征与当代警示
 ---
-
 ### 法西斯主义的定义与特征
 
 台湾政治中经常出现给政治对手贴标签的现象，例如称他们为纳粹或**法西斯**（Fascism: 一种极权主义的民族主义政治意识形态）。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nike
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《The Daily Beast》
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mXrhH6TH35E
 speaker: Shijun Tang
@@ -28,7 +25,6 @@ tags:
 - market-valuation
 title: Lululemon财报深度分析：高增长背后的股价跳水与北美消费疲软
 ---
-
 ### Lululemon品牌与公司概况
 
 Lululemon Athletica Inc.是一家起源于加拿大的运动服饰公司，总部位于温哥华。该公司于2007年5月1日完成首次公开募股（IPO），专注于设计、分销和零售技术性运动服饰、鞋类及配件，以支持活跃的健康生活方式。尽管许多消费者——包括本分析作者的妻子——将其简单理解为“卖瑜伽裤的”品牌，但其产品线已扩展至跑步、健身及其他运动场景。在冬奥会期间，其一款羽绒服甚至因设计出色而“出圈”，显示出品牌在功能性与时尚性上的双重竞争力。

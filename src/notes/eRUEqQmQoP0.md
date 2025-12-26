@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - US Treasury
@@ -24,10 +24,7 @@ people:
 - Donald Trump
 - Milton Friedman
 - George Soros
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eRUEqQmQoP0
 speaker: Patrick Boyle
@@ -41,7 +38,6 @@ tags:
 - us-foreign-policy
 title: “电锯”失灵：米莱能否阻止阿根廷货币崩溃？
 ---
-
 ### 阿根廷货币危机加剧
 
 阿根廷一直在像一个透支的赌徒一样挥霍美元。在短短七个交易日内，其财政部已出售18亿美元以捍卫比索，并维持市场预期在中期选举后将崩溃的汇率。本周短期债务利率飙升超过87%，而中央银行的“弹药”也所剩无几。阿根廷政府正在干预现货和期货市场，恢复选择性外汇管制，并紧紧抓住一个日益虚构的汇率区间。

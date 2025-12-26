@@ -9,10 +9,9 @@ source: https://www.youtube.com/watch?v=h6aqpjrUd5c
 speaker: EO
 title: "Reducto CEO Adit Abraham：做“枯燥”的脏活，如何成就 AI 基础设施独角兽"
 summary: "Reducto 联合创始人 Adit Abraham 分享了公司如何从一个失败的 LLM 记忆项目（Remember All）转型为顶尖的 AI 数据摄取平台。通过专注于“枯燥”的手动标注和解决企业最棘手的非结构化数据问题，Reducto 赢得了 Fortune 10 客户和 Andreessen Horowitz 的领投，成为连接人类数据与机器智能的关键层。"
-area: "tech-work"
+area: "work-career"
 category: "ai-ml"
-project:
-  - "ai-impact-analysis"
+project: []
 tags:
   - "llm"
   - "data-engineering"
@@ -35,7 +34,6 @@ companies_orgs:
   - "Rogo"
   - "Meror"
 ---
-
 ### 早期创业的“脏活”
 
 在早期阶段，我们做了大量手动且**枯燥**（Unsexy）的工作。例如，我们尝试雇佣最初的数据标注团队，但他们的准确度不够。所以我花了大量时间亲自在文档上标记框框。如果把你处理过的页面叠起来，在我们还没有完全自动化 Stripe 账单和设置之前，那个高度实际上相当于珠穆朗玛峰的 10 倍。我会手动设置每一个订阅。

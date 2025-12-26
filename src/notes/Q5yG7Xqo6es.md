@@ -19,10 +19,7 @@ products_models:
 - 401K
 - TFSA
 - CPP
-project:
-- investment-strategy
-- personal-growth-lab
-- fire-movement
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q5yG7Xqo6es
 speaker: 王红雨
@@ -35,7 +32,6 @@ tags:
 - system
 title: 加拿大退休金制度深度解析：高额养老金的秘密与个人应对策略
 ---
-
 ### 加拿大老年人高收入之谜
 
 大家好，今天是2025年6月5号，欢迎大家回到我的频道。接着上次我们聊的加拿大人退休金话题，我们曾提到一份报告显示，2023年加拿大65岁以上老年家庭的中位数税后年收入达到79,700加元，相当于8万块钱。很多朋友对此感到惊讶，今天我们就来分析一下，为什么目前这波老年人的退休金如此之高，以及我们未来退休时能否达到这个水平。

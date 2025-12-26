@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Hugging Face
@@ -20,9 +20,7 @@ products_models:
 - S3
 - PCIe
 - NVLink
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=H7CKhTXoR30
 speaker: Best Partners TV
@@ -37,7 +35,6 @@ tags:
 - technology
 title: Hugging Face SmolLM3训练手册：世界级小模型背后的系统工程挑战与实践
 ---
-
 ### 揭秘世界级小模型训练的幕后挑战
 
 大家好，这里是最佳拍档。如果你单看**大模型**（Large Language Model, LLM: 指参数量巨大、拥有强大语言理解和生成能力的深度学习模型）相关的学术论文，可能会觉得训练一个顶尖的模型很简单，好像选个架构、拼个数据集、堆够**GPU**（Graphics Processing Unit: 图形处理器，常用于加速深度学习计算），最后就能拿到平滑的损失曲线和漂亮的**benchmark**（基准测试: 用于衡量模型性能的标准测试集或任务）分数。

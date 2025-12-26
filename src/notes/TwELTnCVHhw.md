@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2023-10-14'
 draft: true
@@ -22,9 +22,7 @@ people:
 - Michel Foucault
 - 金正恩
 products_models: []
-project:
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TwELTnCVHhw
 speaker: 超級歪 SuperY
@@ -38,7 +36,6 @@ tags:
 - society
 title: 《异能MOVING》深度解析：超级英雄的社会污名、家族传承与真爱哲学
 ---
-
 ### 异能者的社会困境与“蒙混过关”
 
 今天，我们将对热门影集《异能MOVING》进行深度解析。《异能MOVING》的故事讲述了南韩国家安全组织召集的异能者团队，他们在任务结束后创建家庭，过着隐姓埋名的生活。然而，当他们的孩子在上高中后卷入了铲除异能人士的暗杀计划时，男主角**金凤熙**和女主角**张喜秀**因此开启了一段旅程，他们一边发掘自己被压抑的异能，一边找回家族被压抑的秘密。

@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VDCpozA80dg
 speaker: Bloomberg Podcasts
@@ -24,7 +22,6 @@ tags:
 - robin-hood-foundation
 title: 保罗·图德·琼斯：当前市场与历史泡沫的对比及投资洞察
 ---
-
 ### 罗宾汉基金会及其“选股大赛”
 
 彭博主持人: 我们欢迎电视和广播观众与华尔街最受尊敬的交易员之一——**保罗·图德·琼斯**（Paul Tudor Jones: 华尔街著名交易员，以其远见卓识和成功预测市场走势而闻名）进行对话。他因在1987年预测到**黑色星期一**（Black Monday: 指1987年10月19日全球股市崩盘的事件）股市崩盘后一举成名。随后，他进行了一系列成功的全球宏观交易，例如在**互联网泡沫**（Dot-com Bubble: 指1990年代末期互联网公司股票价格飙升后迅速崩溃的经济泡沫）爆发前做空科技股，同时还在慈善事业方面做出了巨大贡献。他创立了**罗宾汉基金会**（Robin Hood Foundation: 由Paul Tudor Jones创立的慈善组织，致力于消除纽约市贫困）。每年，该基金会都会邀请金融界最杰出的人物参加名为“**Pick a Ticker**”（选股大赛: 罗宾汉基金会每年举办的金融界选股比赛，为期六个月，参赛者选择多头和空头股票，投入资金捐赠慈善机构）的选股大赛。保罗·图德·琼斯现在也加入我们。保罗，非常感谢您抽出时间。在我们讨论市场之前，我想先问您关于罗宾汉基金会的问题，因为我听说您明天要与摩根大通举行一个大型会议，对吗？

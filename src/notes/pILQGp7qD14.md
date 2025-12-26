@@ -20,9 +20,7 @@ people:
 - Vladimir Putin
 products_models:
 - DeepSeek
-project:
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pILQGp7qD14
 speaker: LT視界
@@ -34,7 +32,6 @@ tags:
 - us-china-relations
 title: 中共警告不要碰其軟肋，此地無銀三百兩；美國對台立場的微妙變化，兩岸都未必理解；南京導航系統失靈，背後是中共心裡有鬼。
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月19日。
 
 ### 日本央行加息

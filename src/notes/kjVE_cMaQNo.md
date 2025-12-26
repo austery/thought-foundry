@@ -18,8 +18,7 @@ draft: true
 series: ''
 category: ai-ml
 area: tech-engineering
-project:
-  - ai-impact-analysis
+project: []
 people:
   - Andrej Karpathy
 companies_orgs:

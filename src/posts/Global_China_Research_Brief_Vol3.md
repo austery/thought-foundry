@@ -1,11 +1,9 @@
 ---
 title: 全球中国研究简报：深度解析台海、数字身份、AI竞赛与中美战略
 summary: 这是中李的一篇AI生成的视频，我给转成文字版了主要是看看他是如何选题的。
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- ai-impact-analysis
-- china-analysis
+project: []
 tags:
 - geopolitical
 - llm
@@ -23,7 +21,6 @@ layout: post.njk
 series: null
 source: null
 ---
-
 ## 引言：全球顶尖智库的中国观察
 
 全球中国研究简报是一个汇总全球智库如哈德逊研究中心、CSIS等，以及国际媒体如《纽约时报》、Politico新闻网等针对中国的深度分析和报道，还为您搜集分析中国问题的相关内容，关注全球顶尖思考者对中国问题的关切和分析。在信息爆炸时代，帮您选择内容进行深度解读，为希望成为中国问题专家的思考者提供最好的信息。欢迎订阅频道或分享给你的朋友们。

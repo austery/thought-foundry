@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-01-22'
 draft: true
@@ -14,9 +14,7 @@ people:
 - 张内咸
 - 贾玲
 - 周星驰
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=O0hywHkhXDo
 speaker: 張内咸
@@ -29,7 +27,6 @@ tags:
 - value
 title: 从泰国电影《姥姥的外孙》看亚洲“催泪弹”文化与中国传统家庭价值观的冲突
 ---
-
 ### 引言：一部泰国小众电影带来的文化冲击
 
 去年我观看了大约20多场电影，其中印象最深的并非雷德利·斯科特的《角斗士2》这类大制作，反而是泰国小众电影《姥姥的外孙》。这部电影口碑极佳，在中国电影市场雪崩的一年里，最终票房过亿，成绩斐然。它在东南亚及其他地区的票房表现更是惊人，当时国内宣传称其为“泰国电影票房冠军”，并在新加坡、马来西亚等地打破了票房纪录。

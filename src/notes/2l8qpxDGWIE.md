@@ -7,7 +7,7 @@ date: 2025-07-10
 guest: null
 insight: null
 layout: post.njk
-project: 知行小酒馆
+project: []
 series: null
 source: https://www.youtube.com/watch?v=2l8qpxDGWIE
 speaker: 知行小酒馆
@@ -19,7 +19,6 @@ tags:
 title: E193 AI时代，“一人独角兽”是幻想还是未来？
 updated: 2025-09-01T13:04
 ---
-
 ## 引言：一场关于“一人独角兽”的思维实验
 
 **雨白:**

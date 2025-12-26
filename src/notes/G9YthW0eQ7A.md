@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Wharton
@@ -28,9 +28,7 @@ products_models:
 - ChatGPT
 - Gemini
 - DeepSeek R1
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=G9YthW0eQ7A
 speaker: Norges Bank Investment Management
@@ -44,7 +42,6 @@ tags:
 - transformation
 title: Ethan Mollick谈AI：企业如何拥抱人机协作，应对变革挑战
 ---
-
 ### 拥抱人机协作：AI时代的领导力与企业转型
 
 大家好。

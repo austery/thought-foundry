@@ -24,10 +24,7 @@ people:
 - 李登辉
 - 蒋经国
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6AWdo-9FtWQ
 speaker: 东京人文论坛
@@ -40,7 +37,6 @@ tags:
 - politics
 title: 理解台湾的“时差政治”：历史、认同与转型正义的纠葛
 ---
-
 ### 引言：从公民共和主义到台湾的“时差政治”
 
 各位好，今天能来到这个小型的论坛，我感到非常荣幸。刚刚主持人提到我们在台湾组织的“哲学星期五”，最初也是从类似这样的小型论坛开始的。在太阳花运动前后，“哲学星期五”发展得非常兴盛，在台湾有二十多个地方，每个礼拜五晚上都有这样的聚会。兴盛时期，在全球多个国家总共有45个城市都有“哲学星期五”。其背后的核心理念，源自汉娜·阿伦特的**公民共和主义**（Civic Republicanism: 一种强调公民参与、公共利益和公民美德的政治思想），这也是我们主要的思想基础。

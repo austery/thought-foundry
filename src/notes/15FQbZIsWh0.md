@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-08-15'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《南京照相馆》
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=15FQbZIsWh0
 speaker: 徒步的騎手
@@ -25,7 +22,6 @@ tags:
 - social
 title: 仇恨产业链：什么人家的孩子去日本，什么人家的孩子看《南京照相馆》？
 ---
-
 ### 两种家庭，两种未来
 
 大家好。最近我在社交媒体上看到一个引人深思的对比：什么样的家庭会带孩子去日本旅游，而什么样的家庭又会带孩子去看《南京照相馆》？这背后反映了当今中国社会一个深刻的分裂。

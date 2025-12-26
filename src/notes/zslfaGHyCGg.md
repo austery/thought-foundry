@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -24,9 +24,7 @@ people:
 - Michael Barbaro
 - Rudy Giuliani
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zslfaGHyCGg
 speaker: New York Times Podcasts
@@ -40,7 +38,6 @@ tags:
 - technology
 title: 美国政治、公共卫生与体育界：停摆、赦免、疫情与赌博丑闻
 ---
-
 ### 美国政府停摆：参议院通过支出法案
 
 来自《纽约时报》的头条新闻。我是Will Jarvis，代班Tracy Mumford。今天是11月11日星期二。以下是我们今天将要报道的内容。

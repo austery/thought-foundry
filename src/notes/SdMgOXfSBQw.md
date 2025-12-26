@@ -20,9 +20,7 @@ people:
 - 阿尔弗雷德·塞耶·马汉
 - 邓小平
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SdMgOXfSBQw
 speaker: Dwarkesh Patel
@@ -34,7 +32,6 @@ tags:
 - war
 title: 海权与陆权：二战英国战略对当代地缘政治的启示
 ---
-
 ### 海权与陆权国家的战略差异
 
 事实证明，**海权国家**（Maritime powers: 以海洋为主要防御和力量投射手段的国家）和**大陆强权**（Continental powers: 以陆地为主要防御和力量投射手段的国家）的可能性略有不同。基本上，一小部分国家可以主要依靠海上进行自卫，这开启了某些可能性；而其他国家则不能，这又开启或关闭了另一些可能性。我将从**英国**的角度讲述这个故事，它拥有360度“你抓不到我”的护城河。对于**美国**来说，拥有这种地理位置所带来的可能性和危险，是一个具有启发性的案例。

@@ -34,10 +34,7 @@ people:
 - Ian Dunning
 - Ken Griffin
 - Tucker Carlson
-project:
-- investment-strategy
-- market-cycles
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=e1Iok2wyoCw
 speaker: Bloomberg Podcasts
@@ -52,7 +49,6 @@ tags:
 - philosophy
 title: AQR 创始人 Cliff Asness：过去十年，市场为何变得越来越“蠢”？
 ---
-
 ### 播客十周年与市场的变迁
 
 Tracy Alloway：大家好，欢迎收听新一期的《Odd Lots》播客。我是 Tracy Alloway。

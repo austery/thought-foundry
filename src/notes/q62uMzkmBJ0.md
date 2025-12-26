@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - rare-metal
@@ -18,11 +18,7 @@ people:
 products_models:
 - JDAM智能炸弹
 - F35 闪电2隐形战斗机
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q62uMzkmBJ0
 speaker: 北美王路飞
@@ -37,7 +33,6 @@ tags:
 - war
 title: 稀有金属战争：绿色与数字革命背后的隐秘代价
 ---
-
 ### 绿色与数字革命的隐秘代价
 
 我们正处在一场革命之中，一场绿色革命，一场数字革命。我们被告知，通过拥抱电动汽车、太阳能电池板和风力涡轮机，我们正在摆脱对肮脏化石能源的依赖。我们被告知，通过转向云端和数字生活，我们正在走向一个非物质化、更加轻盈的未来。我们购买这些产品，我们投票支持这些政策，我们相信自己正在做正确的事情。

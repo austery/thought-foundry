@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Xiaomi
@@ -33,10 +33,7 @@ products_models:
 - Sora
 - F-35
 - CUDA
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AIDkmipKLyk
 speaker: Shanghao Jin
@@ -50,7 +47,6 @@ tags:
 - us-election-impact
 title: 2025年市场展望：波动中的机遇与挑战——特朗普政策、AI投资及全球经济分化
 ---
-
 ### 2025年市场宏观判断与“尾部风险”
 
 大家新年好！今天是新年最后一天，给大家拜个晚年。今天早上我曾向客户讲解市场情况，但忘记录音，所以现在重新录制一次。由于已有两个多星期未进行市场分析，我觉得有必要给大家一个更新，因为最近的市场环境变化非常大。尽管我基本的市场判断、方向和仓位并未改变，但鉴于近期市场的剧烈波动，我觉得有必要再次与大家分享，探讨接下来的交易方向和关注焦点。

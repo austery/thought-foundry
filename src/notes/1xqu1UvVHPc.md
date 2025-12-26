@@ -7,7 +7,7 @@ date: 2025-07-10
 guest: null
 insight: null
 layout: post.njk
-project: 知行小酒馆
+project: []
 series: null
 source: https://www.youtube.com/watch?v=1xqu1UvVHPc
 speaker: 知行小酒馆
@@ -19,7 +19,6 @@ tags:
 title: 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？
 updated: 2025-09-01T13:05
 ---
-
 ## 开场：波澜壮阔的市场与远方的观察者
 
 **俞白**

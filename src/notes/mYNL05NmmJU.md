@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -15,8 +15,7 @@ people:
 - 宋晏仁
 - Kevin
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mYNL05NmmJU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +27,6 @@ tags:
 - society
 title: 宋晏仁醫師的單車健身哲學：從新手到高手的騎行指南
 ---
-
 ### 宋晏仁醫師的單車健身之路
 
 我有想過，對我來說，我大概從2009年開始接觸到車子，**越野車**（Off-road bike: 一種專為崎嶇地形設計的自行車）就騎了大概十幾年。單車運動本身就是一個良藥，幾乎我看我們同事左生病右生病，我這個老頭子反而都不會生病。而且它很大一部分是訓練到你從腰以下腿的力量。

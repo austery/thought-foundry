@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - 苹果
@@ -31,10 +31,7 @@ products_models:
 - iPhone
 - iPad
 - Apple Watch
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U_PKeQSW5V8
 speaker: Shijun Tang
@@ -48,7 +45,6 @@ tags:
 - switching-cost
 title: 苹果、Booking与AMAT：三巨头的护城河与复利逻辑
 ---
-
 ### 苹果：生态系统的护城河与复利根基
 
 苹果是否还能成为一台复利机器？这个问题近期因巴菲特和段永平的减持而引发广泛讨论。但作者唐石峻认为，苹果的核心价值并未因增长放缓而瓦解。

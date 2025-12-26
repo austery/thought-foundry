@@ -12,8 +12,7 @@ people:
 - Steven Bartlett
 products_models:
 - chatgpt
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=SSJ3Kz3A_yU
 speaker: ''
@@ -28,7 +27,6 @@ tags:
 title: 'Brain Experts Warn: The Shocking Impact of ChatGPT on Your Brain and Dementia
   Risk'
 ---
-
 ## Introduction to the Experts
 
 Steven Bartlett: Dr. Daniel, Dr. Terry, I have asked you both to sit with me today to help me understand the impact of these tools that we call large language models, the ChatGPTs, the Geminis of the world, the Groks of the world are having on our brains and I guess more broadly on our lives. You two are experts in your field. You're two people that I admire tremendously. So by way of introduction, Terry, what is your academic background and what is your experience? I also know that you know one of our friends of the show Jeffrey Hinton. Can you give me an overview of your academic and your professional background?

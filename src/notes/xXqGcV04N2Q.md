@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -37,10 +37,7 @@ products_models:
 - CUDA
 - TPU
 - NVLink
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xXqGcV04N2Q
 speaker: Amit Kukreja
@@ -54,7 +51,6 @@ tags:
 - market-reaction
 title: 英伟达2025年Q3财报深度解析：业绩与指引双超预期，AI需求持续加速
 ---
-
 ### 财报发布前的期待与预测
 
 Amit: 好的，大家好。欢迎回到新一期的《收盘观察》。今天是非常特别的一期，因为我们要迎来英伟达的财报，我们所有人都在这里：Tanner、Neil、Jose 和我。非常高兴能来到这里，感谢大家花时间与我们共度。我们有很多要谈论的内容。大约20分钟后，我们将得到2025财年第三季度的财报。这将是英伟达有史以来最重要的财报。我们每个季度都这么说，但我保证，这次我们是认真的。

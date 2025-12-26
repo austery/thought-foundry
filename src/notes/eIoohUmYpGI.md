@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Netflix
@@ -20,8 +20,7 @@ products_models:
 - Claude
 - Codeex
 - Gemini
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eIoohUmYpGI
 speaker: AI Engineer
@@ -32,7 +31,6 @@ tags:
 - software-development
 title: The Infinite Software Crisis – Jake Nations, Netflix
 ---
-
 大家好，下午好。我将以一个坦白开始我的演讲。我曾提交过自己并不完全理解的代码，生成它、测试它、部署它，却无法解释它是如何工作的。而事实是，我敢打赌你们每个人都这样做过。
 
 ### 承认现实

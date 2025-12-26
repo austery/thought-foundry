@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Lovable
@@ -20,10 +20,7 @@ media_books:
 - Substack
 people:
 - Magnus Carlsen
-project:
-- ai-impact-analysis
-- entrepreneurship
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aYMhsE_mSc4
 speaker: TechButMakeItReal
@@ -37,7 +34,6 @@ tags:
 - strategy
 title: AI时代增长新范式：为何企业重金投入文化而非广告？
 ---
-
 ### AI时代：增长策略的范式转变
 
 如果你有10万美元来发展你的软件业务，你会投资于广告还是体育？

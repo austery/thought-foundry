@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-12-13'
 draft: true
@@ -13,9 +13,7 @@ people:
 - Anthony
 products_models:
 - PDF
-project:
-- china-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XuaL2BLaKjg
 speaker: Anthony看世界
@@ -28,7 +26,6 @@ tags:
 - technology
 title: PDF小作文与网络审判：中国互联网‘受害者文化’的深层解析
 ---
-
 ### PDF小作文与网络审判：中国互联网的“瓜”为何吃不完？
 
 近些年我们发现，越来越多的人习惯使用 **PDF**（Portable Document Format: 一种通用的电子文档格式）或 **PPT**（PowerPoint Presentation: 微软开发的演示文稿软件）文件，来表达所遭受的伤害以及对施害者的曝光和声讨，并在互联网上传播。这些PDF文件动辄几十页甚至上百页，而且还呈现出学术化、标准化的一种趋势。传统的口头对峙和声讨往往是一种碎片化的情绪宣泄，但现在，在中国互联网上流行的PDF小作文，看起来相当严谨。目录、摘要、时间线、引用的参考文献等等，应有尽有。

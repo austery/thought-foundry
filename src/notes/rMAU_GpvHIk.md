@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Amazon
@@ -20,10 +20,7 @@ products_models:
 - ChatGPT
 - Gemini
 - Grok
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rMAU_GpvHIk
 speaker: 徒步的騎手
@@ -37,7 +34,6 @@ tags:
 - transformation
 title: AI重塑职场：认知卸载与脑力淘汰赛中的生存法则
 ---
-
 ### 亚马逊的警示：AI时代的职场巨变
 
 最近几天，除了伊朗挨炸，亚马逊公司也成了舆论的焦点，横跨商业新闻和娱乐新闻。一方面是公司总裁预报要裁员，市场山雨欲来；另一方面是亚马逊公司的老板Jeff Bezos要举办盛大婚礼，再过两天婚礼就要在意大利的威尼斯举行。全世界的抗议专业户闻风而动，已经组织起来提前到达了威尼斯，要在婚礼上抗议。据说，专门抗议特斯拉老板伊隆·马斯克的组织也已经换好了标语牌子，整装待发。这次他们主要抗议的是亚马逊唯利是图、制造社会不公，也抗议婚礼太奢侈、破坏地球生态，还抗议他的老板Jeff Bezos交税太少、为富不仁。因为这次抗议声势浩大，Bezos不敢掉以轻心，雇了一大批美国海军陆战队的退役士兵来负责婚礼的保安。

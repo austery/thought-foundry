@@ -16,8 +16,7 @@ people:
 - Alex
 - Justin
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=G0evpRuZ3lQ&t
 speaker: ''
@@ -28,7 +27,6 @@ tags:
 - code
 title: Anthropic 专家 Carly 分享：Claude 模型与 AI 代理的专业 Prompt Engineering 技巧
 ---
-
 ## 开场与介绍
 
 **Alex**: But now you definitely can. Hello, greetings everyone. That is Justin. He is lead of developer relations and killer code and we are putting him first time on the screen should have happened earlier Justin .

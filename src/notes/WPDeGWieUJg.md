@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-05-04'
@@ -25,9 +25,7 @@ people:
 - 康德
 - 尼采
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WPDeGWieUJg
 speaker: 大问题Dialectic
@@ -40,7 +38,6 @@ tags:
 - virtual-realism
 title: 为何西方哲学总爱怀疑现实？从柏拉图洞穴到虚拟实在论
 ---
-
 ### 西方哲学的怀疑传统：从古至今的追问
 
 我们或许会感到奇怪，为何西方的哲学家们总是热衷于怀疑我们感官所感受到的这个现实世界是虚假的。他们一会儿怀疑自己是不是**缸中之脑**（Brain in a Vat: 一种思想实验，假设一个人的大脑被取出并放入营养液中，通过电极连接到一台计算机，计算机模拟的信号让大脑产生身处真实世界的错觉），一会儿又觉得这个世界是被计算机模拟出来的，甚至还会觉得其他人都是**NPC**（Non-Player Character: 电子游戏中由程序控制而非玩家控制的角色，在此处指代被怀疑为非真实、无自主意识的人）。这些看似“没事找事”的问题，是否反映出西方思想家们的一种独特思维模式？

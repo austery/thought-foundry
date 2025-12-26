@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2023-12-23'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 people:
 - Robert Axelrod
 - Stanislav Petrov
-project:
-- us-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mScpHTIi-kM
 speaker: veritasium
@@ -26,7 +23,6 @@ tags:
 - strategy
 title: 博弈论的囚徒困境如何塑造世界：从冷战核武到自然界合作
 ---
-
 ### 博弈论与合作的起源
 
 这是一个关于**博弈论**（Game Theory: 研究决策主体在特定规则下互动行为的数学理论）中最著名问题。

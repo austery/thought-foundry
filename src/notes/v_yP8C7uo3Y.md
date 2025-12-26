@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Big Think
@@ -22,10 +22,7 @@ people:
 - George Orwell
 - Christopher Nolan
 products_models: []
-project:
-- historical-insights
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v_yP8C7uo3Y
 speaker: Big Think
@@ -39,7 +36,6 @@ tags:
 - power
 title: 好莱坞骗了你：历史学家玛丽·比尔德揭示古罗马的真实面貌
 ---
-
 ### 引言：重新审视我们所知的罗马文化
 
 有时候，你会发现仅仅是重新思考那些你早已熟知但从未真正审视过的罗马文化，就会对你的看法产生巨大影响。我们对罗马的印象在某种程度上都建立在现代电影之上。虽然我认为那些电影在某些方面相当令人印象深刻，但它们在一些事情上却错得离谱。

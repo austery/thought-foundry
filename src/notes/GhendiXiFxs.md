@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs:
 - intel
@@ -13,10 +13,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GhendiXiFxs
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - stock-market
 title: 市场深度分析：川普鲍威尔和解、特斯拉利润下调与英特尔战略转型
 ---
-
 ### 节目开场与内容预告
 
 各位观众大家好，欢迎来到一个即使已经非常晚，也要为大家更新视频的日更美股博主。今天的内容上线时间有点晚，因为确实又非常忙，但是这无法阻挡我为大家做视频的热情，该讲的还是得讲。今天主要讲什么？昨天周三，谷歌和特斯拉两家公司发布了财报。今天市场对这两家公司未来的数据进行了一些更新，我来和大家一起更新这些数据，看看是否和我们昨天的判断一致。主要和大家聊一下川普和鲍威尔今天非常有意思的画面：他们两人戴着工程帽在美联储大楼底下接受了一段采访。我个人认为，这个事情本身算是为过去一段时间川普对鲍威尔的攻击画上了一个句号。稍后和大家分享一下这个事件。最后聊一下财报，在财报季度，我们尽量每期视频都和大家分享至少一家公司财报。今天聊盘后发布财报的英特尔。废话不多说，马上开始。今天内容已经非常晚了，大家就自觉点赞和留言，我会在留言区和大家见面。

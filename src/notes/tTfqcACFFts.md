@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-13'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tTfqcACFFts
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - tech-stock
 title: 股市异动：Papa John's、拉斯维加斯金沙与博通的涨跌背后
 ---
-
 ### 彭博《股票异动报告》开场
 
 Bloomberg: Audio Studios podcasts, radio, news, the Stock Movers Report, your roundup of companies making moves in the stock market, harnessing the power of Bloomberg data.

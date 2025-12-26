@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -30,10 +30,7 @@ people:
 - Benjamin Netanyahu
 - Shawn Duffy
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P0OlUX9htF8
 speaker: New York Times Podcasts
@@ -46,7 +43,6 @@ tags:
 - power
 title: 特朗普政府的紧急权力、司法危机与多重挑战
 ---
-
 ### 特朗普政府的紧急权力与司法危机
 
 联邦上诉法院已为特朗普政府在俄勒冈州波特兰部署国民警卫队扫清了障碍，尽管该州州长对此表示反对。此前，波特兰当地一个**ICE**（Immigration and Customs Enforcement: 移民和海关执法局）设施外持续数月的抗议活动，促使特朗普总统声称该市需要受到保护，免受“国内恐怖分子”的侵害。本月初，一名下级法院法官曾阻止了国民警卫队的部署，称特朗普对局势的描述“完全脱离事实”。

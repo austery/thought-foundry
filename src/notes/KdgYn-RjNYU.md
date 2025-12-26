@@ -13,9 +13,7 @@ media_books:
 people:
 - Brad Pitt
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KdgYn-RjNYU
 speaker: Norges Bank Investment Management
@@ -28,7 +26,6 @@ tags:
 - sovereign-wealth-fund
 title: 挪威主权财富基金：深度解析其外部管理人投资策略
 ---
-
 ### 挪威主权财富基金的诞生与增长
 
 我们是多么幸运！1969年，在最后一次钻探中发现了石油。

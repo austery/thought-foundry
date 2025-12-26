@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -11,8 +11,7 @@ layout: post.njk
 media_books: []
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gvIAkmZUEZY
 speaker: AI Engineer
@@ -23,7 +22,6 @@ tags:
 - coding-agent
 title: 下一代 AI 编程助手：Amp Code 详解 - Beyang Liu
 ---
-
 ### Amp Code：下一代 AI 编程助手
 
 AMP 是一种**具有前瞻性的智能代理**，旨在革新编码方式。它通过**终端**和**编辑器**界面提供服务，帮助开发者更高效地编写代码。

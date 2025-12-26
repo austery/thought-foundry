@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-03-16'
@@ -13,9 +13,7 @@ people:
 - Hegel
 - Winnicott
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aW4TU_Irbb4
 speaker: Anthony看世界
@@ -27,7 +25,6 @@ tags:
 - self
 title: 走出无意义感与哲学性抑郁：与不幸意识和解的终极之道
 ---
-
 ### 区分两种抑郁：外部事件与哲学性困境
 
 大家好，我是Anthony。欢迎来到我的频道。今天我们继续探讨如何摆脱无意义感和抑郁。

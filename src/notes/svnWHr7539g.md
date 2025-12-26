@@ -18,8 +18,7 @@ draft: true
 series: ''
 category: stock-investment
 area: finance-wealth
-project:
-  - investment-strategy
+project: []
 people:
   - reino
 companies_orgs:

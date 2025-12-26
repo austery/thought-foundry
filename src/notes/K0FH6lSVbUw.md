@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国民党
@@ -30,10 +30,7 @@ people:
 - 克林顿
 - 老布什
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K0FH6lSVbUw
 speaker: 老周横眉
@@ -48,7 +45,6 @@ tags:
 - us-china-relations
 title: 箭在弦上：台海战争是否无可避免？习近平何时会动手？
 ---
-
 ### 台海局势再升温：近期事件与两岸议题
 
 最近，台湾**国民党**新任主席郑丽文在接受**德国之声**记者采访时，发表了一些引发激烈争论的言论。她表示，**普丁**（Vladimir Putin: 俄罗斯总统）并非独裁者，俄罗斯已经民主化多年，且世界上没有一个完美的民主社会。她进一步指出，**俄乌战争**的核心原因在于**北约**（NATO: 北大西洋公约组织）一再东扩至俄罗斯边境，若**Zelensky**（Volodymyr Zelenskyy: 乌克兰总统）放弃加入北约，这场冲突本可避免。郑丽文的言论不仅引起欧洲各国政府的不满，也被许多人解读为讨好**中共**（中国共产党），这进一步加剧了台湾蓝绿阵营支持者的分裂。

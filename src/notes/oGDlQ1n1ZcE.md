@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -18,10 +18,7 @@ products_models:
 - Claude
 - Grok
 - MCP
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oGDlQ1n1ZcE
 speaker: 课代表立正
@@ -35,7 +32,6 @@ tags:
 - system
 title: Gemini 3发布：AI人才从“建造者”到“建筑师”的升级之路
 ---
-
 ### Gemini 3发布：AI应用开发的变革与预测回顾
 
 这两天，**Gemini 3**（Google推出的先进AI模型）发布了。打开小红书、推特和朋友圈，可以看到很多关于它的讨论。越来越多的人开始使用**AI Studio**（Google提供的AI应用开发平台）和Gemini 3去构建许多有趣的应用。大家对此惊为天人，觉得这是AI的又一次变革。然而，关注我们频道的小伙伴们会知道，这件事虽然很厉害，但它并没有那么值得大惊小怪。因为我们频道在今年的1月份就完美预测了这件事情的发生，而且无论是程度、方式还是时间，都极其精确。

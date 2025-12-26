@@ -7,10 +7,9 @@ source: https://www.youtube.com/watch?v=9p-kFa_Xmfk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
 title: 瘦子也会血糖失控？急诊医师的胰岛素阻抗自救实录
 summary: 急诊科医师刘曜增分享了他在体重仅62公斤时，如何因高压轮班、睡眠不足与精緻饮食导致血糖濒临失控。通过解析皮质醇、脂肪肝与糖尿病风险的科学关联，他详述了如何通过调整饮食顺序、重拾运动与改善睡眠，成功逆转代谢危机。
-area: personal-systems
+area: "life-family"
 category: lifestyle
-project:
-- personal-growth-lab
+project: []
 tags:
 - health
 - insulin-resistance
@@ -19,7 +18,6 @@ tags:
 companies:
 - metabolic-syndrome
 ---
-
 ### 急诊室背后的健康危机
 
 你有没有过压力大到只能靠吃来撑下去的经历呢？我以前在急诊室轮班的时候，每天都处于这种状态。直到后来我的抽血报告出现了一个令人意外的数字。大家一定会认为，医师通常都很健康吧？其实并不一定。

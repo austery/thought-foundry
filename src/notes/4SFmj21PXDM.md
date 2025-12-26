@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -64,10 +64,7 @@ products_models:
 - Nano Banana Pro
 - Gemini
 - Sora
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4SFmj21PXDM
 speaker: Amit Kukreja
@@ -82,7 +79,6 @@ tags:
 - rate-cut-expectation
 title: 市场收盘：感恩节前市场三连涨，AI与降息预期提振情绪
 ---
-
 ### 市场概览：感恩节前夕的三连涨
 
 大家好，欢迎回到《市场收盘》节目。

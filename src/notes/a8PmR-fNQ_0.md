@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Anthropic
@@ -15,9 +15,7 @@ layout: post.njk
 products_models:
 - Claude
 - Claude 3
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a8PmR-fNQ_0
 speaker: Anthropic
@@ -31,7 +29,6 @@ tags:
 - workflow-automation
 title: Claude如何革新金融服务：Anthropic的AI解决方案
 ---
-
 ### Claude赋能金融分析：从静态到实时
 
 分析师们通常以静态方式在Excel表格中完成工作，每周或每季度手动刷新数据。

@@ -16,9 +16,7 @@ media_books:
 people:
 - Warren Buffett
 - Myron Scholes
-project:
-- personal-growth-lab
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wdpw_tVMaRs
 speaker: Shijun Tang
@@ -31,7 +29,6 @@ tags:
 - philosophy
 title: 你只需要发一次财：巴菲特的财富观与快乐的秘密
 ---
-
 ### 巴菲特的财富悖论：枪口下的游戏与“一次发财”的启示
 
 如果有人拿着枪顶着你的太阳穴和你打赌，假设你有100万发弹仓，其中只有一发是真子弹，每扣动一次扳机，你可以获得1个亿，你会选择玩这个游戏吗？1998年，沃伦·巴菲特在佛罗里达大学演讲时提出了这个假设，当时在场的学生议论纷纷，认为百万分之一的概率是真子弹，每扣动一次扳机赚一个亿，这简直是天上掉馅饼。然而，巴菲特接下来说的话出乎所有人的意料：不管是给我一个亿，扣动一次扳机，还是给我十个亿，我都不会玩。巴菲特说道，理由很简单：即便我赢了，我压根就不需要一个亿；如果我输了，well，你我都知道如果我输了会发生什么事情。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Apple
@@ -53,9 +53,7 @@ products_models:
 - Mistral
 - Claude
 - DeepSeek
-project:
-- ai-impact-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U6hIS5I_4y0
 speaker: 張内咸
@@ -69,7 +67,6 @@ tags:
 - valentines-day
 title: 导演用AI挑选爱情片：一场关于人类情感与技术理解的深度测试
 ---
-
 ### 导演的困惑：电影推荐与情感雷区
 
 哈喽大家好，我是张内咸。这么多年以来，我一直对自己的身份充满了困惑。每次遇到一个陌生人，只要我说我的职业是个导演，他们就会睁大了眼睛，很惊讶的样子。我感觉他们脑海里可能是不停地在想象我的工作，也不知道他们想象的画面是什么样的。然后等他们回过神来呢，永远是瞪着他们天真的大眼睛，特别兴奋地问我：“那最近有什么好电影？你给我推荐推荐呀！”真的永远是这样，永远都是这同一个问题。

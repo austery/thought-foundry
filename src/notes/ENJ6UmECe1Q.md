@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -15,10 +15,7 @@ people:
 - Rachel Abrams
 - Donald Trump
 - Chris Wright
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ENJ6UmECe1Q
 speaker: New York Times Podcasts
@@ -32,7 +29,6 @@ tags:
 - renewable-energy
 title: 美国能源未来何去何从：中国在全球绿色能源竞赛中崛起
 ---
-
 ### 美国缺席COP气候大会，中国崛起为绿色能源领袖
 
 自特朗普于一月上任以来，他的政府推翻了拜登时代为应对气候变化所做的诸多努力，减缓了可再生能源的发展，并推动石油和天然气的扩张。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2024-12-23'
@@ -18,10 +18,7 @@ people:
 - 李老师
 products_models:
 - Starlink
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jkvuVSEbvHg
 speaker: 东京人文论坛
@@ -35,7 +32,6 @@ tags:
 - political-reform
 title: 中国转型之路：从司法独立到多元可能性的制度想象
 ---
-
 ### 司法独立：中国转型的可能突破口
 
 讨论伊始，我们聚焦于中国转型的问题，特别是司法独立是否能作为启动**红皇后效应**（Red Queen Effect: 在演化生物学中指物种为了维持现状而必须不断演化，在此处引申为社会系统在博弈中不断调整以维持平衡或推动变革的现象）的突破口。在许多国家，司法体系都扮演着关键角色，例如印度最高法院在印地语与英语关系中的诸多判决，以及美国最高法院保守派力量的崛起。书中提到，英国是**红皇后效应**最典型的案例，其社会与政府的博弈机制正是从司法角度建立起来的，如巡回法庭和陪审团制度。有听众提出，鉴于中国近期频繁发生的“远洋补牢”事件，各区政府是否有可能通过相对独立的司法裁决机制来解决利益纠纷，从而推动**司法扩权**（Judicial Expansion: 指司法机构通过判例或解释法律，扩大其在国家治理中的影响力和权力范围）？

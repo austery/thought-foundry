@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - SpaceX
@@ -14,8 +14,7 @@ people:
 products_models:
 - Starship
 - Apollo
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=73cdsu6TrbI
 speaker: 海伦子Hellen
@@ -28,7 +27,6 @@ tags:
 - science
 title: 殖民火星的终极挑战：星舰的轨道加注、辐射防护与着陆难题
 ---
-
 ### 殖民火星的逻辑与必要性
 
 关于殖民火星，一些人认为其实现难度巨大，有生之年难以看到；另一些人则将其视为一项宏大叙事，短期内能否实现并不重要，关键在于其远大的野心和浪漫情怀，能吸引全球目光和人才。埃隆·马斯克（Elon Musk）在星舰基地（Starbase）的一次讲话中，明确表达了他实现火星殖民的坚定决心，将其列为人生的重要目标。他指出，如果物理学是正确的，宇宙存在约138亿年，地球约45亿年，而地球文明的正确测量时间应从文字出现算起，最早可追溯到5500年前**苏美尔人**（Sumerians: 创造楔形文字的古老文明）创造楔形文字之时。若将宇宙的138亿年想象成一年，地球诞生于9月，生命出现于10月，而人类文明仅存在于12月31日晚上的最后几秒钟。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-04-17'
 draft: true
@@ -11,10 +11,7 @@ media_books:
 people:
 - 赫鲁晓夫
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lcoebYchwPI
 speaker: 海淀拙大叔
@@ -28,7 +25,6 @@ tags:
 - thucydides-trap
 title: 未来注定一战？从修昔底德陷阱到博弈论的深度解析
 ---
-
 ### 冲突的必然性：历史与博弈论的视角
 
 本期“阿甘经济宏观论”将探讨未来是否会有一场注定发生的战争。结论是：一定会发生。我们将从推理、故事和时间三个方面进行阐述。

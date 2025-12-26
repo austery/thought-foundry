@@ -20,8 +20,7 @@ people:
 - Tim Ferriss
 products_models:
 - Whisper Flow
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZPVdK9v0CK8
 speaker: The Diary Of A CEO
@@ -35,7 +34,6 @@ tags:
 - technology
 title: 沟通大师的五大秘诀：掌控对话，应对煤气灯操纵与自恋者
 ---
-
 ### 沟通大师的五大要素
 
 要成为一名卓越的沟通者，从而在生活中实现目标，有五件最重要的事情。首先是**真诚**（Authenticity），而**临在感**（Presence: 全神贯注于当下，不被他物干扰的状态）是真诚的最高体现。其次，要**减少分心**。第三，**停止过度解释**。第四，要**懂得如何处理他人的悲伤**。第五，你必须知道如何**应对自恋者**（Narcissist: 一种以自我为中心，缺乏同理心，需要他人持续关注和赞美的行为模式）和**煤气灯操纵者**（Gaslighter: 通过心理操纵使受害者怀疑自己的记忆、感知或理智的行为）。**杰斐逊·费舍尔**（Jefferson Fisher: 诉讼律师、沟通专家、作家）作为一名获得委员会认证的诉讼律师，正运用他在冲突解决和沟通方面的专业知识，教导夫妻、朋友、员工以及介于这些关系之间的所有人，如何掌握艰难的对话。

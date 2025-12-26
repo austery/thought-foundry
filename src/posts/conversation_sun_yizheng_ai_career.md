@@ -10,10 +10,7 @@ insight: null
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: null
 source: null
 speaker: ''
@@ -27,7 +24,6 @@ tags:
 - entrepreneurship
 title: A Conversation with Sun Yizheng on AI, Career Paths, and Content Creation
 ---
-
 ## 开场与嘉宾介绍
 佐治亚小帅: 欢迎来到《佐治亚小帅》，听北美华人落地生根的故事。本期嘉宾是孙益正同学，他在 YouTube 和 B 站的账号叫做“课代表立正”，是北美中文科技区的顶流UP主。他是康奈尔大学的经济学博士，工作履历包括亚马逊、Meta 还有腾讯的数据科学总监。最近，他效力两年的初创公司 Statsig 被 OpenAI 以11亿美元收购。
 

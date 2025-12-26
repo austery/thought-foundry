@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k9P-3z_ERK8
 speaker: 一口新飯
@@ -23,7 +21,6 @@ tags:
 - sp-500
 title: 2023年熊市投资策略：为何我坚定定投美股指数基金？
 ---
-
 ### 熊市投资迷思与指数基金策略
 
 人们常说“别人恐惧我贪婪”及“**熊市**（Bear Market: 股市持续下跌，通常跌幅超过20%的市场状态）是投资最好的时机”。然而，在2022年的熊市中，真正能践行这一原则的人可能远比我们想象的少。面对熊市，大多数投资者会感到恐惧，许多人已将资金从股市中撤出，选择在一旁观望。有人认为当前的熊市才刚刚开始，远未触底，此时投资无异于“傻子”行为。还有人质疑，为何要选择在**左侧接飞刀**（Catching a Falling Knife: 在下跌趋势中过早买入资产，试图抄底的行为），而不是等待趋势反转后进行**右侧交易**（Right Side Trading: 等待市场趋势反转确认后再进行交易的行为）？

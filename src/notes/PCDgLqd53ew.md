@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - Norges Bank Investment Management
@@ -26,9 +26,7 @@ products_models:
 - TikTok
 - Instagram
 - Twitter
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PCDgLqd53ew
 speaker: Norges Bank Investment Management
@@ -43,7 +41,6 @@ tags:
 - work
 title: Cal Newport：深度工作、慢速生产力与数字时代专注力的重建
 ---
-
 ### 深度工作：数字时代的核心竞争力
 
 大家好，今天我们非常荣幸地邀请到 Cal Newport 先生，他以其在**深度工作**（Deep Work: 全神贯注于一项认知要求高的任务的状态）和**数字极简主义**（Digital Minimalism: 一种哲学，主张有意识地使用数字工具，以支持个人价值观并减少干扰）方面的开创性工作而闻名。Cal 彻底改变了我们在数字时代处理生产力和专注力的方式，因为从根本上说，你所专注的，就是你所成就的。今天，我们将把焦点放在您和您的工作上，Cal，非常欢迎您！

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 纽约时报
@@ -15,10 +15,7 @@ media_books:
 - 《普心难断》
 products_models:
 - '[]'
-project:
-- china-analysis
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DCHHPmzn7jo
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - stand-up-comedy
 title: 中国是否开得起玩笑？从脱口秀遭遇看社会幽默感的缺失
 ---
-
 ### 中国人是否开得起玩笑？
 
 今天我们来聊一个看似轻松却又有些沉重的话题：中国人是否开得起玩笑？中国当然有不少人喜欢开玩笑，也有很多人开得起玩笑。然而，从近十年出现的各种怪现象来看，许多中国人的确开不起玩笑。这些人借助网络与权力勾结，将中国变成了一个开不起玩笑的国家。尤其是近两年，中国似乎又回到了开玩笑可能引来大祸的时代。

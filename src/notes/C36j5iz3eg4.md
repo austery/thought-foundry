@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-22'
 draft: true
@@ -16,10 +16,7 @@ people:
 - Thomas Hobbes
 - Justin Trudeau
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C36j5iz3eg4
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - self
 title: 以惩罚日本为名：中国对日制裁如何演变成一场对内家暴
 ---
-
 ### 经济下行与“折腾”的恶性循环
 
 又到周末了，我们来轻松地聊聊政治。几年前，我曾在推特上指出，中国经济已开始在滑梯上运行。可以预见的是，经济越差，**土皇帝**（Local Emperor: 指代拥有绝对权力、独断专行且缺乏现代治理理念的统治者）就越会折腾。毛时代有句名言叫“越穷越革命”，后来有人补充说“越革命越穷”。用今天的话来说，就是经济越差越折腾，越折腾经济就越差。在国内，这种折腾当然是针对中国老百姓；在国外，与发达国家对抗也是以折腾中国老百姓为主。在“土皇帝”的统治理念中，中国人就是他手中用来与发达国家对抗的工具。

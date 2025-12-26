@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - UC Berkeley
@@ -30,10 +30,7 @@ products_models:
 - Neo
 - vLLM
 - Genie3
-project:
-- ai-impact-analysis
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VV6l2Iw1L8U
 speaker: 硅谷101播客
@@ -46,7 +43,6 @@ tags:
 - technology
 title: 机器人灵巧手的硬件与算法：从开可乐到发扑克，挑战与未来
 ---
-
 ### 播客获奖与机器人特辑引言
 
 哈喽，大家好，欢迎收听《硅谷101》，我是泓君。有个好消息要告诉大家，我们的播客获得了2025年苹果播客的年度编辑精选，这已经是我们第二次入选苹果的年度精选播客了。对于独立播客来说，苹果一直是一个很重要的分发渠道，它每年的播客评选其实也是业内很有重量级的一个奖。所以今年很开心，也很荣幸能获奖。当然，也希望我们能够继续努力，做出大家更多喜欢听的好内容、好节目。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - CBC
@@ -29,9 +29,7 @@ people:
 - John Ferry
 products_models:
 - Sora
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T6OyKsOn-eA
 speaker: TVO Today
@@ -45,7 +43,6 @@ tags:
 - urban
 title: 安大略省年终回顾：政治风波、社会挑战与交通建设
 ---
-
 ### 播客开场与年终回顾
 
 **Steve:** 欢迎大家收听OnPy播客。

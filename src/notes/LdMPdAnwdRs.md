@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-07-15'
 draft: true
@@ -14,10 +14,7 @@ people:
 - 刘晓波
 - 邓小平
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LdMPdAnwdRs
 speaker: 东京人文论坛
@@ -31,7 +28,6 @@ tags:
 - nonviolent-resistance
 title: 基督教、公民社会与中国民主化：周峰锁的观察与反思
 ---
-
 ### 引言：基督教、公民社会与中国民主化
 
 大家好，感谢大家在周日早起。今天我们共同分享和敬拜。广义来讲，我作为一名基督徒、民运人士和人权活动者，基督教、基督信仰、基督教会与民主化、人权的关系，一直是我们思考和面临的问题。我本人并没有一个现成的答案，今天只是从我个人的角度进行一些分享。我可能不是一个理论家，更多地是讲述一些事实和实践层面的体会。

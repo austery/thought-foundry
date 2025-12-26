@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-03-30'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《深呼吸，开始麻醉了》
 products_models: []
-project:
-- historical-insights
-- knowledge-pipeline
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bXfuvYe72Hg
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - system
 title: 深呼吸，开始麻醉了：一位麻醉医生的生死守门人日记
 ---
-
 ### 麻醉不是“打一针就走”
 
 大家好，我是麻醉医生蒋政宇。  

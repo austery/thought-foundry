@@ -16,7 +16,7 @@ insight: ''
 draft: true
 series: ''
 category: work-related
-area: tech-work
+area: "work-career"
 project: []
 people:
   - Christine Zerette

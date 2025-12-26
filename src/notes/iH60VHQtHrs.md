@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Big Think
@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - 'A series of Fortunate Events: Chance and the Making of the Planet, Life, and You'
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iH60VHQtHrs
 speaker: Big Think
@@ -27,7 +25,6 @@ tags:
 - theory
 title: 肖恩·B·卡罗尔：进化始于随机错误，而非精密设计
 ---
-
 ### 人类思维与进化过程的差异
 
 人类的思维方式有点像工程师。我们首先设想一个期望的结果，然后思考如何以最短的路径实现它。我们可能会尝试一些试错，但会尽量将错误降到最低。

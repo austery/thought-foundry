@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Lululemon
@@ -11,9 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pMeJmiZMxeU
 speaker: Shijun Tang
@@ -27,7 +25,6 @@ tags:
 - stock
 title: Lululemon (LULU) 股价暴跌：这家运动潮牌还有翻身机会吗？
 ---
-
 ### Lululemon (LULU) 股价深度分析：挑战与前景
 
 今天我们来聊聊美股**Lululemon (LULU)**（加拿大运动潮牌: 一家专注于瑜伽、运动和休闲服饰的零售公司）。这家来自加拿大的运动潮牌，其股价已经再次创下新低。它真的再也没有翻身的机会了吗？今天这期视频，我们将从公司最新的财报、公司最新的基本面、公司所处的竞争环境以及公司的护城河等多个角度，来尝试回答这个问题。欢迎阅读这期唐石峻财富体验。

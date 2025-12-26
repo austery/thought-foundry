@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: 2025-10-04
@@ -10,9 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=euL6bSwF1vo
 speaker: LT視界
@@ -28,7 +26,6 @@ tags:
 title: Analysis of US Government Shutdown Impact, Trump's Gaza Plan, and the US-China
   Soybean Standoff
 ---
-
 # 2025年10月3日 重要新闻分享
 
 ## 1. 财经头条 (Financial Headlines)

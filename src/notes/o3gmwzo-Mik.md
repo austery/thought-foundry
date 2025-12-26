@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Apple
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - ChatGPT
-project:
-- entrepreneurship
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o3gmwzo-Mik
 speaker: AI Engineer
@@ -27,7 +25,6 @@ tags:
 - strategy
 title: AI改变不了什么：产品成功的永恒法则
 ---
-
 ### 引言：AI时代不变的产品成功法则
 
 我被告知这次演讲的时长可以在5到55分钟之间，范围相当大，而且我可以随意发挥，跑题也没关系。所以我提前告知大家，并解释一下这次演讲的风格。我的名字是Dax，我正在做一个名为**OpenCode**（Open-source coding agent: 一个开源的编程代理工具）的项目。它是目前使用最广泛的编程代理工具之一，完全开源，并且支持任何模型。其他公司都喜欢说他们拥有最智能的编程代理工具，而我们则拥有最热门的。你可以去看看，它提供了出色的体验，拥有绝佳的**UX**（User Experience: 用户体验），完全可定制、个性化，是一个非常有趣的项目。

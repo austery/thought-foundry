@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Netflix
@@ -26,10 +26,7 @@ people:
 - Larry Ellison
 - Ted Sarandos
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- media-industry-transform
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GHFBTtuUZL4
 speaker: 硅谷101播客
@@ -43,7 +40,6 @@ tags:
 - value
 title: Netflix收购华纳兄弟：流媒体巨头如何重塑好莱坞？
 ---
-
 **[Yiwen]:** 哈喽，大家好！欢迎收听《硅谷101》，我是特约研究员Yiwen。美国时间12月5日，Netflix宣布将以827亿美元的价格收购华纳兄弟探索集团（WBD）。这一并购消息在好莱坞业内引发轩然大波——一方面，Netflix向来以“不参与大型收购”著称；另一方面，它突然出手高价竞标，令人意外。更戏剧性的是，在一周后，派拉蒙影业于12月8日对华纳兄弟提出敌意收购，出价高达1080亿美元，并愿意买下整个集团（包括Netflix不愿接手的电视网络部门）。而在此之前，派拉蒙及其CEO David Ellison是竞标战中最积极的一方，共六次报价，外界普遍认为胜算最高。
 
 这期播客是我们与《美轮美换》和《去现场》两个播客的串台节目，邀请到两位资深媒体人——**小华**（《美轮美换》主播、美国媒体从业者）和**杨一**（《去现场》主理人、旅英媒体人），共同深度解读这场好莱坞并购风暴。我们录制时间为12月7日，即派拉蒙提出敌意收购前一天，因此讨论主要围绕Netflix展开：它为何涉足传统媒体？如何胜出竞争对手？以及这背后折射的硅谷基因与好莱坞生态的碰撞。

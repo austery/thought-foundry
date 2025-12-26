@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中央电视台
@@ -24,10 +24,7 @@ people:
 - 陈云
 - 蒋经国
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Db17u8E1t0g
 speaker: 柴静 Chai Jing
@@ -41,7 +38,6 @@ tags:
 - war
 title: 高秉涵的国共内战记忆：一个13岁逃亡者的苦难与和解之路
 ---
-
 ### 序言：跨越时代的呼唤
 
 近期台海局势紧张，引发了许多人的不安。上周，我收到一封来自台湾的信件，寄信人是高秉涵先生，一位前**国军**（国民革命军：中国国民党领导的军队）军官。十四年前，我曾在**央视**（中国中央电视台：中国国家电视台）采访过他。1948年，年仅13岁的高秉涵在**国共内战**（中国国民党与中国共产党之间的一场内战）的战火中，从山东出发，历时14个月，行程上万公里，最终抵达厦门。他踩着尸体，登上了从大陆开往台湾的最后一班船。

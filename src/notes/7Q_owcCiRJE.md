@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Hudson's Bay Company
@@ -13,10 +13,7 @@ people:
 - John A. Macdonald
 - Justin Trudeau
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7Q_owcCiRJE
 speaker: 莊也雜談
@@ -30,7 +27,6 @@ tags:
 - urban-development
 title: 埃德蒙顿：北美最北都市的魅力与挑战——深度解析其历史、气候、人口与文化竞争
 ---
-
 ### 埃德蒙顿：北美最北都市的独特魅力
 
 大家好，我是庄也，欢迎收看《庄也杂谈加拿大》系列节目。今天我们继续城市系列，来聊聊**埃德蒙顿**（Edmonton: 加拿大阿尔伯塔省省会，北美洲纬度最高的百万人口大都市）。埃德蒙顿是一个非常有意思的城市，咱们华人给它起了多样的外号，比如爱民屯、爱屯，以及“挨得猛冻”，这都暗示了这座城市漫长的冬季。冬季漫长很正常，因为埃德蒙顿是加拿大乃至整个北美地区，人口超过百万的大都市中纬度最靠北的城市。

@@ -32,10 +32,7 @@ people:
 products_models:
 - Model 3
 - FSD
-project:
-- investment-strategy
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TMWK9960dwM
 speaker: 投资TALK君
@@ -48,7 +45,6 @@ tags:
 - safety
 title: 巴菲特谢幕信与段永平访谈：价值投资理念如何塑造我的投资人生
 ---
-
 ### 引言：巴菲特与段永平对投资人生的影响
 
 投资TALK君: 大家好，今天我们有幸请到Richland Capital的**PM**（Portfolio Manager: 投资组合经理）刘宁刘总。相信大家对他应该不陌生，我们之前在线上和专题访谈中也合作过好几次。今天，我们借由前段时间巴菲特的谢幕信和段永平的一段采访，在刘总的办公室里，针对这两位投资界巨擘近期的一些动向进行一次访谈。通过我与刘总的交流，我知道他们两人对您整个的投资框架和经历都有非常大的影响。我希望我们能从这次对话中获益。首先，刘总要不要先和我们介绍一下您自己？

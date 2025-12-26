@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies:
 - openai-restructuring
@@ -22,9 +22,7 @@ people:
 products_models:
 - ChatGPT
 - GPT-6
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jTBV3Jb07yE
 speaker: Best Partners TV
@@ -37,7 +35,6 @@ tags:
 - llm
 title: OpenAI重构组织架构并公布AI十年路线图：超级智能梦想是蓝图还是空想？
 ---
-
 ### OpenAI的战略重组与超级智能愿景
 
 大家好，这里是最佳拍档，我是大飞。在10月28号和29号这两天里，OpenAI完成了两件大事。第一件是彻底重构了自身的组织架构，从之前的非营利机构转型为**公益型公司**（PBC: Public Benefit Corporation，一种兼顾营利与社会公益目标的法律实体）；第二件是首席执行官山姆·奥特曼（Sam Altman）和首席科学家雅各布·帕乔茨基（Jakub Pachocki）亲自出镜，进行了一场未来路线图直播，直接将未来十年的野心展现在所有人面前。

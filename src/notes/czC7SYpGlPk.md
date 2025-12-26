@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - XAI
@@ -43,10 +43,7 @@ products_models:
 - Sora
 - DeepSeek R1
 - 豆包
-project:
-- china-analysis
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=czC7SYpGlPk
 speaker: 人民公園說AI
@@ -60,7 +57,6 @@ tags:
 - us-china-ai-competition
 title: 中美AI：两种品类，殊途同归——从实践看模型竞争与全球分工
 ---
-
 ### 中美AI：两种品类，殊途同归
 
 中国和美国在AI领域的发展，实际上是两个不同的品类。中美之间是否存在竞争？答案是肯定的。然而，这种竞争的本质正如毛泽东所言，是“你打你的，我打我的”。

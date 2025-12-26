@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rADZ8xw3SA0
 speaker: Best Partners TV
@@ -24,7 +22,6 @@ title: 每日AI动态：谷歌Veo 3.1升级、Gemma单细胞分析突破及AI领
 companies:
 - google-ai
 ---
-
 ### 谷歌Veo 3.1：视频生成模型深度迭代
 
 谷歌正式发布了其视频生成模型**Veo**（Google Video Generation Model: 谷歌的视频生成模型）的3.1版本，这是一次针对创意控制能力的深度迭代，旨在为内容创作者和企业用户提供更精细的视频生成工具。自去年首次亮相以来，Veo一直专注于解决生成式视频在连贯性、物理合理性和艺术表现力方面的挑战。

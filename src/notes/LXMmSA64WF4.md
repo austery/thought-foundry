@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-11-09'
@@ -14,8 +14,7 @@ media_books:
 people:
 - Buddha
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LXMmSA64WF4
 speaker: 超級歪 SuperY
@@ -30,7 +29,6 @@ tags:
 - philosophy
 title: 《不反应练习》：2500年前的佛教智慧如何解决现代人的内耗烦恼？
 ---
-
 ### 介绍《不反应练习》
 
 现代人的精神内耗问题最近在网络上引起了频繁讨论。

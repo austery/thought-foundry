@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - 网信办
@@ -36,10 +36,7 @@ people:
 - 李安
 - 罗永浩
 - 张艺谋
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MenkuAjvHAE
 speaker: 張内咸
@@ -53,7 +50,6 @@ tags:
 - society
 title: 中国电影产业衰落的深层逻辑：审查制度并非主因
 ---
-
 ### 序言：墙内困境与墙外发声
 
 我是张内咸，今年我决定在**油管**（YouTube: 谷歌旗下的视频分享平台）上开设频道，因为有很多话憋了很多年。以前我在**墙内**（指中国大陆受网络审查的互联网环境）开过微博和微信公众号，我其实挺擅长做媒体的。过去单条微博阅读量有超过五千万的爆款，那不是刷的，是真流量。之前有朋友问过我跟姜文怎么认识的，我一直都不告诉他们，每次都很装逼地笑一笑，保持神秘。他们还以为我有什么背景，哪有什么背景？就是因为姜文看到他朋友圈里有人转我的微博，所以找我写剧本。不过那个事呢，后来我也没管他。

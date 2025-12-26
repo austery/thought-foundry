@@ -1,13 +1,12 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2021-05-29'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jyQwgBAaBag
 speaker: veritasium
@@ -21,7 +20,6 @@ tags:
 - technology
 title: 挑战物理直觉：探秘“黑鸟”风力车如何顺风超速
 ---
-
 ### 引言：一场反直觉的物理辩论
 
 这辆**螺旋桨飞行器**（Propeller Craft: 一种利用螺旋桨提供动力的交通工具）的建造，是为了解决一场物理学辩论，因为其创造者声称它能做到的事情是如此反直觉，以至于它似乎违反了**能量守恒定律**（Law of Conservation of Energy: 物理学基本定律，指在一个孤立系统中，能量总量保持不变）。因此，我来到这里亲自驾驶它，看看它是否真的有效。它安全吗？感觉有点临时拼凑，说实话。我需要一些风。给我一阵风。它有点不平衡，不是吗？

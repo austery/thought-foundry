@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Relativity Space
@@ -33,10 +33,7 @@ products_models:
 - Chrome
 - YouTube
 - X
-project:
-- us-analysis
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ld89T-mqjnU
 speaker: 海伦子Hellen
@@ -51,7 +48,6 @@ tags:
 - technology
 title: Google前CEO施密特入局商业太空：Relativity Space的机遇与太空数据中心的新愿景
 ---
-
 ### 埃里克·施密特入主Relativity Space
 
 前Google CEO埃里克·施密特（Eric Schmidt）于今年3月份正式收购了**Relativity Space**（一家利用3D打印技术制造火箭的商业太空公司），掌握了公司的控制权，并担任了CEO。这使得他继埃隆·马斯克（Elon Musk）和杰夫·贝索斯（Jeff Bezos）之后，成为又一位入局商业太空领域的富豪企业家。此举不仅预示着商业太空需求的强劲增长，也让Relativity Space这家公司再次受到市场关注。

@@ -27,10 +27,7 @@ people:
 products_models:
 - ChatGPT
 - GPU
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ydXPYyH-zyc
 speaker: 小翠時政財經
@@ -43,7 +40,6 @@ tags:
 - global-market-volatility
 title: 全球股市震荡：AI泡沫下的金融工程与中国经济挑战
 ---
-
 ### 市场概览：A股、港股与日本股市表现
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月14日，我知道大家今天的心情一定都不太好，因为市场表现不佳。不过请放心，今天我一定会给大家带来透彻的分析。

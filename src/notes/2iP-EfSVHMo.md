@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - NBA
@@ -19,9 +19,7 @@ people:
 - Damon Jones
 - Shaquille O'Neal
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2iP-EfSVHMo
 speaker: 北美王路飞
@@ -34,7 +32,6 @@ tags:
 - nba-corruption
 title: NBA赌球丑闻：揭秘体育帝国深处的腐败与危机
 ---
-
 ### NBA腐败风暴：内部侵蚀与古老幽灵
 
 大家好，欢迎来到我的频道。今天，我们要讨论一个价值千亿的体育帝国，以及一个可能正在从内部侵蚀它的古老幽灵。我们谈论的是NBA，一个关于激情、汗水与梦想的地方。但如果，我说是如果，这背后的一切，有一部分是被安排好的呢？

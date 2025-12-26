@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-02'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5y9crq8f-Hs
 speaker: EO
@@ -24,7 +22,6 @@ tags:
 - work
 title: EliseAI创始人Minna Song：在“不性感”行业中，靠“蟑螂精神”成就22亿美元市场领导者
 ---
-
 ### 努力工作：成为顶尖公司的核心原则
 
 If you want to be the best company in the world, I think you have to work the hardest in the world. It's like anything else: if you want to be the best athlete or the best musician, you're practicing non-stop.

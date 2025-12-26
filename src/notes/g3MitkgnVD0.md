@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robin Hood
@@ -66,10 +66,7 @@ products_models:
 - Hopper
 - Reuben
 - NVLink
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g3MitkgnVD0
 speaker: Amit Kukreja
@@ -83,7 +80,6 @@ tags:
 - risk
 title: 加密货币崩盘，市场再现恐慌：私营信贷会是下一个雷区吗？
 ---
-
 ### 市场全线溃败：加密货币首当其冲
 
 好了，大家好。欢迎回到新一期的市场收盘节目。今天是11月17日，星期一，下午3点45分。今天又是一个糟糕的日子，似乎我每次开始这些节目时，都不得不说的第一个词就是“糟糕”。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Rolls-Royce
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Henry
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QtxVdC7pBQM
 speaker: Veritasium
@@ -28,7 +26,6 @@ tags:
 - single-crystal-casting
 title: 喷气发动机为何不会熔化？探秘极限材料与工程奇迹
 ---
-
 ### 喷气发动机的惊人奥秘
 
 这是世界上最强大的**喷气发动机**（Jet Engine: 一种通过高速喷射工质产生推力的发动机）之一。

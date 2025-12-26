@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-15'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J_pWyYxu6qE
 speaker: EO
@@ -26,7 +24,6 @@ tags:
 - silicon-valley
 title: 硅谷三十载：创业、社区与领导力 | Nextdoor 创始人 Nirav Tolia
 ---
-
 ### 创业之路与Nextdoor的回归
 
 I am Nirav Tolia, the CEO and co-founder of Nextdoor and someone who has been fortunate to work in technology for the last 30 years in Silicon Valley.

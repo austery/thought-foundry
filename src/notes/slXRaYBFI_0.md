@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -44,9 +44,7 @@ products_models:
 - Chrome
 - VS Code
 - CUDA
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=slXRaYBFI_0
 speaker: 人民公園說AI
@@ -63,7 +61,6 @@ tags:
 - organizational
 title: Gemini 3：Google如何跑出GPT-5的理想状态，及其对AI格局的影响
 ---
-
 ### Gemini 3：跑出GPT-5的理想状态
 
 **老兄:** Gemini这一次给人的感觉是从容不迫、游刃有余，仿佛将大家对GPT-5的理想状态都实现了，明显比它更好。Google吸纳了Windsurf最核心的员工，带着他们的**Know-How**（专有技术: 实践知识和技能），用着Google的**TPU**（Tensor Processing Unit: 谷歌为机器学习工作负载设计的专用集成电路），吹着Google的空调，将这些Know-How融入到产品中，然后发布出来，这简直是活久见。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v3u8xc0zLec
 speaker: AI Engineer
@@ -25,7 +23,6 @@ tags:
 - software-development
 title: Google Labs 的前瞻性智能体：Jewels 项目如何重塑软件开发
 ---
-
 ### 引言：从家务琐事到异步智能体的启示
 
 大家好，我非常激动能来到这里。我爱纽约，也爱在这里与大家见面。我是 Kath Corbec，来自 Google Labs。我所在的团队叫做 ADA，今天我将和大家分享我们在这个名为 Jewels 的项目上的一些工作。

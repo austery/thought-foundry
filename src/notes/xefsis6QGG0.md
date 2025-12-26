@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: 大飞说科技
 category: technology
 companies_orgs:
@@ -44,9 +44,7 @@ products_models:
 - Omniverse
 - Cosmos
 - Ontology
-project:
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xefsis6QGG0
 speaker: Best Partners TV
@@ -60,7 +58,6 @@ tags:
 - technology
 title: 英伟达GTC大会：黄仁勋描绘AI帝国版图，发布Vera Rubin芯片，深化全栈生态与全球合作
 ---
-
 ### 英伟达GTC大会：AI创新定调“下一个阿波罗时刻”
 
 美东时间10月28日，黄仁勋在华盛顿举办的GTC大会上发表了一场重要的主题演讲。他以一系列人类历史创新的剪影作为开场，将英伟达与AI创新直接拔高定调为“下一个**阿波罗时刻**”（Apollo Moment: 指像美国阿波罗登月计划一样，具有里程碑意义、推动人类进步的重大创新时刻）。在这次演讲中，除了展示下一代超级芯片Vera Rubin，黄仁勋还大谈6G、量子计算、机器人和自动驾驶，大屏上的合作对象名单可以说是密密麻麻。

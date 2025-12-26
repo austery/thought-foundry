@@ -10,9 +10,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GUn0ocX5G-0
 speaker: TED
@@ -24,7 +22,6 @@ tags:
 - history
 title: AI如何重塑矿业：关键金属勘探的新范式
 ---
-
 ### 引言：矿业背景与关键金属的需求
 
 我出生并成长在赞比亚，一个以其丰富的铜矿开采历史而闻名的国家。

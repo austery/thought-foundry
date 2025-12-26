@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -26,10 +26,7 @@ people:
 - Robert Lighthizer
 - Jair Bolsonaro
 - Vladimir Putin
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d0m9Jke-vwk
 speaker: LT視界
@@ -44,7 +41,6 @@ tags:
 - us-trade-policy
 title: 全球经济展望、中美贸易协议与川普外交：马来西亚总理安华妙语谈川普
 ---
-
 ### 本周全球经济事件前瞻
 
 本周伊始，全球市场将迎来一系列不容错过的重大经济事件。首先是周三，**美联储**（Federal Reserve: 美国中央银行系统）公开市场委员会预计将调整利率政策。华尔街几乎百分之百的交易员认为，美联储将宣布降息25个**基点**（Basis Point: 衡量利率或收益率变动的最小单位，1个基点等于0.01%）。这种降息预期已在市场中做了定价，即交易员们已通过大宗商品交易价格、股价和债券等体现了这部分利好收益。因此，周三美联储的决定预计不会给市场带来特别大的刺激。

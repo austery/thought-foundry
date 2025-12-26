@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - NASA
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qevIIQHrJZg
 speaker: veritasium
@@ -24,7 +22,6 @@ tags:
 - tip-extension
 title: 藤蔓机器人：从考古到太空探索，一种可拯救生命的柔性增长型机器人
 ---
-
 ### 柔性增长型机器人：藤蔓的启示
 
 这是一种能够生长到自身数百倍大小的机器人，并且不会被粘合剂或尖刺所阻挡。尽管它看起来有些简单和廉价，但它拥有数十种潜在应用，其中之一可能是在未来某天拯救你的生命。

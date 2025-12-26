@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iCnMpVYqJsc
 speaker: 一口新飯
@@ -23,7 +21,6 @@ tags:
 - s-and-p-500
 title: 标普500的“缺陷”：为何多数人不敢投资能“打败市场”的组合？
 ---
-
 ### 开篇：CEO举重与市场悖论
 
 最近在X平台上，知名独立开发者**Pieter Levels**分享了一个有趣的推文。他以公司CEO是否进行举重训练作为筛选标准，制作了一个投资组合，并回测发现，这只**ETF**（Exchange Traded Fund: 交易所交易基金，一种在证券交易所交易，跟踪特定指数或资产的投资基金）在过去四年里的表现是**标普500**（S&P 500: 标准普尔500指数，追踪美国500家市值最大上市公司的股票指数）的2.4倍。Pieter Levels甚至开玩笑说，如果Google的CEO也做举重，Google在过去几年的表现肯定会更好。

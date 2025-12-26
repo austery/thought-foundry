@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 初日醫學
@@ -14,9 +14,7 @@ media_books:
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KxrUazeM-vE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -29,7 +27,6 @@ tags:
 - self
 title: 減重心理師：用心理學輕鬆減重，從「體重管理」到「照顧自己」
 ---
-
 ### 心理學與肥胖治療的結合：從「心」開始的減重之路
 
 歡迎來到初日會客室，我是宋晏仁醫師。今天我們邀請到心理學專家，蘇琮祺諮商心理師，來探討一個許多人面臨的問題：肥胖其實不只是食物的問題，更是心理的問題。蘇心理師不僅是中華民國肥胖研究學會的成員，其著作《心態致瘦》更將心理學與減重結合，為讀者提供了全新的視角。

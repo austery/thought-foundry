@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - BetterHelp
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nfAqTSjMBJk
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - technology
 title: 跳蛛的色彩奥秘：从感知、进化到视觉错觉的多维探索
 ---
-
 ### 色彩感知的本质：人类、科技与哲学思辨
 
 你所看到的并非一个黄色的球。

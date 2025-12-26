@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Stanford University
@@ -52,10 +52,7 @@ products_models:
 - GPT-4
 - Waymo
 - Optimus
-project:
-- ai-impact-analysis
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P7Y-fynYsgE
 speaker: The Diary Of A CEO
@@ -68,7 +65,6 @@ tags:
 - problem
 title: AI教父斯图尔特·罗素的终极警告：人类正用俄罗斯轮盘赌自己的未来
 ---
-
 ### AI 教父的警告：不确保安全就是自取灭亡
 
 去年十月，包括理查德·布兰森 (Richard Branson) 和杰弗里·辛顿 (Jeffrey Hinton) 在内的超过 850 名专家签署了一份声明，呼吁禁止发展人工智能超级智能，因为他们对可能导致人类灭绝的风险感到担忧。除非我们能想出办法保证 AI 系统的安全，否则我们都将万劫不复。

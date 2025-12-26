@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies:
 - bicycle-mechanic
@@ -13,8 +13,7 @@ layout: post.njk
 media_books:
 - MinutePhysics
 products_models: []
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9cNmUNHSBac
 speaker: veritasium
@@ -28,7 +27,6 @@ tags:
 - steering
 title: 大多数人不知道自行车是如何工作的
 ---
-
 ### 转向的错觉：我们如何错误地理解自行车
 
 大多数人并不知道自行车究竟是如何运作的。

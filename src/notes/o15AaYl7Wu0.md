@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o15AaYl7Wu0
 speaker: AI Engineer
@@ -25,7 +23,6 @@ tags:
 - technology
 title: 高效强化学习：将前沿AI应用于企业实践
 ---
-
 ### 引言：将前沿AI带入企业
 
 大家好，很高兴见到各位。今天能来到这里，我们感到非常荣幸。我叫Rhythm，这位是我的联合创始人Lyndon。我们的第三位联合创始人Yash今天未能出席，但我们都非常高兴能在这里。我们三人之前都是**OpenAI**（一家人工智能研究和部署公司）的研究员，现在我们正在**Applied Compute**（一家致力于将前沿AI应用于企业的公司）将**前沿AI**（Frontier AI: 指最先进、最顶尖的人工智能技术）引入企业。今天，我们将探讨高效的**强化学习**（RL: Reinforcement Learning: 一种机器学习范式，通过智能体与环境的交互来学习最优行为策略）。

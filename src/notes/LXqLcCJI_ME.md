@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Atlas Copco
@@ -16,9 +16,7 @@ people:
 products_models:
 - Microsoft Teams
 - Zoom
-project:
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LXqLcCJI_ME
 speaker: Norges Bank Investment Management
@@ -32,7 +30,6 @@ tags:
 - management
 title: 阿特拉斯·科普柯前CEO Mats Rahmström谈企业文化、领导力与人才发展
 ---
-
 ### 阿特拉斯·科普柯的卓越文化
 
 大家好，欢迎收听“In Good Company”播客。

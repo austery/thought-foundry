@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Airbnb
@@ -24,9 +24,7 @@ people:
 - Karl Marx
 - Leonardo DiCaprio
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DirPT0DEUcA
 speaker: 超級歪 SuperY
@@ -40,7 +38,6 @@ tags:
 - travel
 title: 巴黎文化深度游：从梵高故居到人类博物馆的城市探索
 ---
-
 ### 蒙马特高地的艺术与浪漫
 
 谈到巴黎，人们会想到什么呢？我现在身处巴黎一个非常著名的小山丘地区，叫做**蒙马特**（Montmartre: 巴黎地势最高的一座山丘，以其艺术氛围和圣心堂闻名）。这里是许多艺术家生前在巴黎居住过的地方，例如**梵高**（Vincent van Gogh）的故居就在这里。现在，梵高的故居已经被出售并改造成**Airbnb**（空中食宿: 一家联系游客与房东的全球性民宿平台），大家可以在Airbnb网站上搜索关键字，即可入住梵高的家。

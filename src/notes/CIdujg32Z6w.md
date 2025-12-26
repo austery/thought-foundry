@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - byd-d-chain
@@ -15,9 +15,7 @@ layout: post.njk
 people:
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CIdujg32Z6w
 speaker: 小翠時政財經
@@ -30,7 +28,6 @@ tags:
 - supply-chain-finance
 title: 比亚迪“迪链”危机：数千亿表外负债与中国金融监管的挑战
 ---
-
 ### 比亚迪“迪链”危机浮现
 
 近日，国内媒体突然爆料称，比亚迪长期依赖的**供应链金融**（Supply Chain Finance: 一种将供应链中的贸易环节与金融服务相结合的融资模式）工具——**迪链**（D-chain: 比亚迪自行设立的、用于结算与融资的电子欠条系统），已被高层明确要求逐步退出。目前，部分比亚迪的小型供应商已不再收到迪链作为货款，而是获得**银票**（银行承兑汇票: 由银行承诺到期付款的票据）、**商票**（商业承兑汇票: 由企业承诺到期付款的票据）甚至现金。

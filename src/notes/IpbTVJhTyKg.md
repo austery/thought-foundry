@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: productivity
 companies_orgs: []
 date: '2025-03-15'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IpbTVJhTyKg
 speaker: 一口新飯
@@ -26,7 +23,6 @@ title: 闪念笔记2.0：AI驱动的灵感捕捉与高效工作流秘籍
 companies:
 - apple-shortcut
 ---
-
 ### 闪念笔记2.0：AI驱动的灵感捕捉器
 
 作为一名创作者，我每天都在使用一款私藏的效率软件，它就是我一年前利用**ChatGPT**（ChatGPT: OpenAI开发的一个大型语言模型，能够进行自然语言理解和生成对话）和苹果**Shortcut**（Apple Shortcut: 苹果系统内置的自动化功能，允许用户创建自定义工作流程来执行任务）DIY的“闪念笔记”。目前，这个捷径的下载量已超过7000人次，并广受好评。在过去一年里，我对其进行了持续改进并增加了新功能，现在为大家带来其2.0版本，并免费分享给所有热爱效率的用户。

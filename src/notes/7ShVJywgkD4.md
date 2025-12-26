@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies:
 - psychological-trauma
@@ -22,10 +22,7 @@ people:
 - 金正恩
 - 李在明
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7ShVJywgkD4
 speaker: 張内咸
@@ -38,7 +35,6 @@ tags:
 - economic
 title: 双十一消费行为：心理创伤、经济困境与社会转型
 ---
-
 ### 从万圣节趣事到奇葩恐惧症
 
 大家好，我是张内咸，又见面了。上周末是万圣节，我在节目里随口聊了聊恐怖片，不出所料，评论区果然又歪楼了。有的朋友说：“张导，你竟然在节目里露腿了！”我是真没想到，歪楼还能歪出这种方向。露腿？你看得还挺仔细，但那并不是我的腿。在一个多元文化的社区里，我怎么可能给陌生男性看到我的腿呢？就算我真的要在节目里展露我的身体，那我至少会把羞耻的部位打上马赛克，或者干脆做成付费节目，半夜悄悄看，不要让你老婆发现。

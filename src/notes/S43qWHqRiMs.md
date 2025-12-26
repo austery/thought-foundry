@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs: []
 date: '2025-11-22'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - KevinFeng
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S43qWHqRiMs
 speaker: KevinFeng 冯凯文
@@ -24,7 +23,6 @@ tags:
 - learning
 title: 告别哑巴英语：消除学习与使用断层的语言学习法
 ---
-
 ### 为什么我们学了却用不出来？
 
 这些是我以前背过的单词语法书。有的是头脑一热，觉得我一定可以，但是后来发现我真的不行；还有的是被考试所逼，每天几十个甚至上百个单词往脑袋里塞，学得超级认真。但是我发现一个问题：当我真的要用英文的时候，基本上完全想不出来。有些时候能想起来，就是脑子里冒出来一堆词汇，可是我不知道该怎么样把它揉成一句人话，让别人能听得懂。那个时候我就在想一个问题：为什么我明明学过，而且学得那么认真，但是还是用不出来？

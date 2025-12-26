@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies:
 - psychological-trauma
@@ -15,10 +15,7 @@ media_books:
 - 《赫尔辛基宣言》
 people:
 - 柴静
-project:
-- china-analysis
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fovmRJVb83g
 speaker: 柴静 Chai Jing
@@ -30,7 +27,6 @@ tags:
 - failure
 title: 柴静反思杨永信事件：比电击更恐怖的是高压思想控制
 ---
-
 ### 十六年后，阴影仍在
 
 这是16年前我在央视的一期节目。过去一年中，我收到的很多来信都与他有关。写信的人都曾在同一个地方，被同一个叫杨永信的医生限制人身自由，接受电击治疗，并且对他们的人生造成了严重影响。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -20,9 +20,7 @@ people:
 - Barack Obama
 - Vladimir Putin
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dqs-LJHpUhA
 speaker: New York Times Podcasts
@@ -36,7 +34,6 @@ tags:
 - war
 title: 美国船只袭击是否构成战争罪？对军事行动合法性的深度审视
 ---
-
 ### 美国船只袭击的法律争议
 
 我是《纽约时报》的雷切尔·艾布拉姆斯，这里是《每日》节目。美国军方开始向来自南美的船只开火，至今已有三个月，造成80多人死亡，这促使民主党人紧急质疑这些袭击是否违法。

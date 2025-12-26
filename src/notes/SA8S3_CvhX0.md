@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - G20
@@ -20,10 +20,7 @@ people:
 products_models:
 - Mission 300计划
 - Global Mutual决议
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SA8S3_CvhX0
 speaker: FearNation 世界苦茶
@@ -37,7 +34,6 @@ tags:
 - power
 title: 美国缺席下的全球治理：中国能否填补权力真空并输出新秩序？
 ---
-
 ### 美国缺席：全球治理中的“空椅子”现象
 
 大家好，欢迎来到本期的世界苦茶事实线节目。今天我们探讨的是美国突然缺席巴西的**COP30**（第三十届联合国气候变化大会：联合国气候变化框架公约缔约方会议）和南非的**G20**（二十国集团：由世界主要经济体组成的国际经济合作论坛）峰会，以及中国国内一直宣传中国开始填补美国留下的权力真空，开始输出秩序，这是否属实？

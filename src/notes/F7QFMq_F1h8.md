@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -11,9 +11,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F7QFMq_F1h8
 speaker: 小翠時政財經
@@ -27,7 +25,6 @@ tags:
 - stock
 title: 小米遭遇機構集體看空：五大戰線與四大風險的深度解析
 ---
-
 ### 股价惨烈下跌与机构的集体撤退
 
 大家好，欢迎回到小翠时政财经。

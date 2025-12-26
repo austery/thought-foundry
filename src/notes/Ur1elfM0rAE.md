@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - JP Morgan
@@ -37,10 +37,7 @@ people:
 - Bill Gates
 products_models:
 - ETF
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ur1elfM0rAE
 speaker: Shijun Tang
@@ -54,7 +51,6 @@ tags:
 - income
 title: 神奇公式失效与EV泡沫破灭：美股投资中的永恒法则与AI冲击下的市场重构
 ---
-
 ### “神奇公式”的兴衰：从神坛到现实
 
 “神奇公式”（The Magic Formula）曾是2005年至2015年间无数投资者的圣经，由哥伦比亚商学院教授、Googlen资产管理公司创始人兼首席投资官Joe Grable在其畅销书《The Little Book That Beat the Market》及续作《The Little Book That Still Beats the Market》中系统提出。该策略宣称能实现高达30%的年化回报，其核心逻辑是：仅投资市值超过5000万美元的非金融、非公用事业公司，通过筛选**最高每股收益（EPS）**和**最高资本回报率（ROC）**的股票，每月买入前2至3名，并在财年结束前一周卖出亏损股以抵免资本利得，随后在财年末一周卖出盈利股。

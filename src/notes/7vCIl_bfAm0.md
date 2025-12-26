@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - 瑞幸咖啡
@@ -20,9 +20,7 @@ people:
 - 胡锡进
 - 邓丽君
 - 周杰伦
-project:
-- china-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7vCIl_bfAm0
 speaker: 莊也雜談
@@ -36,7 +34,6 @@ tags:
 - innovation
 title: 中国餐饮业的内卷与消费降级：一场美食盛宴背后的生存挑战
 ---
-
 ### 中国美食体验：从多伦多到北京
 
 大家好，我是庄也，欢迎收看庄也杂谈。有人说我每次开场都一个样，烦不烦人，看腻了能不能换一个？我觉得换了不好看，而且浑身刺挠，这不是我的习惯，大家就凑合听吧。今天咱们这期聊一个比较轻松的话题，说一说在中国的吃喝玩乐。一说吃，估计大家都会感兴趣，俗话说民以食为天，谁不喜欢吃呢？

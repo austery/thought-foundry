@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -21,10 +21,7 @@ people:
 - Ronald Reagan
 - Margaret Thatcher
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dEJtNfEHMXY
 speaker: Norges Bank Investment Management
@@ -38,7 +35,6 @@ tags:
 - government
 title: 预算赤字、救助文化与资本主义的困境：鲁奇尔·夏尔马的深度剖析
 ---
-
 ### 预算赤字：从常态到失控
 
 Nicola: 大家好，我是挪威**主权财富基金**（Sovereign wealth fund: 由政府拥有和管理的投资基金）的首席执行官尼古拉·坦根。今天，我邀请到了全球经济学界最受尊敬的人物之一、洛克菲勒国际公司主席鲁奇尔·夏尔马。今年早些时候，他出版了一本非常棒的书，名为《资本主义到底出了什么问题》（"What Went Wrong with Capitalism"），我们今天就来谈谈这本书。鲁奇尔，热烈欢迎您。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Tesla
@@ -20,10 +20,7 @@ products_models:
 - Cybertruck
 - Starship
 - ChatGPT
-project:
-- us-analysis
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=t7XX6-pon8M
 speaker: 海伦子Hellen
@@ -37,7 +34,6 @@ tags:
 - market
 title: 特斯拉Robotaxi：拼图的最后一块，重塑出行与资产价值
 ---
-
 ### 特斯拉Robotaxi：自动驾驶新纪元的序章
 
 特斯拉即将迎来一个重大事件。预计在6月底，具体来说是6月22日，特斯拉将在美国德州奥斯汀小范围推出其**自动驾驶出租车**（Robotaxi: 一种无需人类驾驶员即可提供载客服务的车辆）的试运营服务。初期车队规模不大，大约由10到20辆Model Y组成，每辆车都将配备最新版本的**无人监督的自动驾驶应用**（FSD: Full Self-Driving，特斯拉的高级驾驶辅助系统，旨在实现完全自动驾驶）。此次试运营将采用**地理围栏**（Geofencing: 设定虚拟地理边界，限制车辆只能在指定区域内运行）技术，车辆仅在指定区域内运行，并由后台工作人员进行监管，以确保在紧急情况下可以进行人工接管。尽管目前尚未投入生产，但该服务已在开发中。

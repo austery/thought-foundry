@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-16'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - new-york-times-podcasts
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vkBnvfCvzxc
 speaker: New York Times Podcasts
@@ -25,7 +24,6 @@ tags:
 - venezuela-crisis
 title: 特朗普授权中情局秘密行动，哈马斯血腥镇压异己
 ---
-
 ### 特朗普政府的委内瑞拉军事与情报行动
 
 From the New York Times, it's The Daily headlines. I'm Tracy Mumford. Today's Thursday, October 16th. Here's what we're covering.

@@ -1,8 +1,8 @@
 {
     "meta": {
-        "version": "4.3",
-        "updated": "2025-12-25",
-        "description": "Master Taxonomy Protocol"
+        "version": "6.0",
+        "updated": "2025-12-26",
+        "description": "Master Taxonomy - Categories Only. Projects are ad-hoc."
     },
     "governance": {
         "tag_rules": {
@@ -59,116 +59,70 @@
     },
     "taxonomy": {
         "areas": {
-            "tech-engineering": {
-                "label": "Tech & Engineering",
-                "desc": "技术原理、代码、数据工程、AI",
+            "geopolitics": {
+                "label": "Geopolitics",
+                "desc": "地缘政治、国际关系、贸易战",
                 "categories": [
                     {
-                        "id": "ai-ml",
+                        "id": "geopolitics",
                         "match_tags": [
-                            "machine-learning",
-                            "robotics",
-                            "transformer",
-                            "algorithm"
+                            "geopolitics",
+                            "geopolitical",
+                            "international-relations",
+                            "trade-war",
+                            "military",
+                            "diplomacy",
+                            "china-us",
+                            "us-china-relations",
+                            "nato",
+                            "war",
+                            "sanction"
                         ]
                     },
                     {
-                        "id": "ai-application",
+                        "id": "macro-economy",
                         "match_tags": [
-                            "ai",
-                            "chatgpt",
-                            "llm",
-                            "prompt",
-                            "prompt-engineering",
-                            "copilot",
-                            "claude",
-                            "gemini",
-                            "ai-agent",
-                            "ai-tools",
-                            "信息处理与提炼",
-                            "AI系统交互",
-                            "Prompt技巧与方法论"
-                        ]
-                    },
-                    {
-                        "id": "data-engineering",
-                        "match_tags": [
-                            "etl",
-                            "dbt",
-                            "sql",
-                            "data-lake",
-                            "warehouse",
-                            "airflow"
-                        ]
-                    },
-                    {
-                        "id": "software-development",
-                        "match_tags": [
-                            "python",
-                            "java",
-                            "coding",
-                            "software",
-                            "angular",
-                            "react",
-                            "oop",
-                            "design-pattern",
-                            "api",
-                            "git"
-                        ]
-                    }
-                ]
-            },
-            "finance-wealth": {
-                "label": "Finance & Wealth",
-                "desc": "投资、宏观经济、加密货币",
-                "categories": [
-                    {
-                        "id": "stock-investment",
-                        "match_tags": [
-                            "investment",
-                            "stocks",
-                            "market",
-                            "value-investing",
-                            "etf",
-                            "vfv",
-                            "investment-option"
-                        ]
-                    },
-                    {
-                        "id": "business",
-                        "match_tags": [
-                            "business",
-                            "startup",
-                            "management",
-                            "strategy",
-                            "entrepreneurship"
-                        ]
-                    },
-                    {
-                        "id": "crypto",
-                        "match_tags": [
-                            "bitcoin",
-                            "blockchain",
-                            "web3",
-                            "crypto",
-                            "btc",
-                            "eth"
+                            "macro-economy",
+                            "economics",
+                            "inflation",
+                            "interest-rate",
+                            "fed",
+                            "central-bank",
+                            "gdp",
+                            "economic",
+                            "economy",
+                            "policy"
                         ]
                     }
                 ]
             },
             "society-thinking": {
                 "label": "Society & Thinking",
-                "desc": "政治、历史、哲学、深度思考",
+                "desc": "政治、历史、哲学、文化、心理",
                 "categories": [
                     {
                         "id": "politics-society",
                         "match_tags": [
                             "politics",
-                            "geopolitics",
-                            "china-us",
+                            "political",
                             "society",
-                            "election"
+                            "social",
+                            "election",
+                            "government",
+                            "democracy"
+                        ]
+                    },
+                    {
+                        "id": "culture-history",
+                        "match_tags": [
+                            "culture",
+                            "cultural",
+                            "history",
+                            "ancient",
+                            "civilization",
+                            "art",
+                            "religion",
+                            "anthropology"
                         ]
                     },
                     {
@@ -188,83 +142,192 @@
                         ]
                     },
                     {
-                        "id": "history",
-                        "match_tags": [
-                            "history",
-                            "ancient",
-                            "civilization"
-                        ]
-                    },
-                    {
                         "id": "psychology",
                         "match_tags": [
                             "psychology",
                             "mental-model",
                             "cognitive",
                             "bias",
-                            "mindset"
+                            "mindset",
+                            "human"
+                        ]
+                    }
+                ]
+            },
+            "tech-engineering": {
+                "label": "Tech & Engineering",
+                "desc": "技术原理、AI应用、代码工程",
+                "categories": [
+                    {
+                        "id": "ai-application",
+                        "match_tags": [
+                            "ai",
+                            "chatgpt",
+                            "llm",
+                            "prompt",
+                            "prompt-engineering",
+                            "copilot",
+                            "claude",
+                            "gemini",
+                            "ai-agent",
+                            "ai-tools"
                         ]
                     },
                     {
-                        "id": "environment",
+                        "id": "ai-ml",
                         "match_tags": [
-                            "environment",
-                            "climate",
-                            "energy"
+                            "machine-learning",
+                            "robotics",
+                            "transformer",
+                            "algorithm",
+                            "neural-network",
+                            "data-science",
+                            "model"
+                        ]
+                    },
+                    {
+                        "id": "software-development",
+                        "match_tags": [
+                            "python",
+                            "java",
+                            "coding",
+                            "code",
+                            "software",
+                            "angular",
+                            "react",
+                            "oop",
+                            "design-pattern",
+                            "api",
+                            "git"
+                        ]
+                    },
+                    {
+                        "id": "data-engineering",
+                        "match_tags": [
+                            "etl",
+                            "dbt",
+                            "sql",
+                            "data-lake",
+                            "warehouse",
+                            "airflow",
+                            "data"
+                        ]
+                    },
+                    {
+                        "id": "tech-trends",
+                        "match_tags": [
+                            "tech",
+                            "technology",
+                            "innovation",
+                            "hardware",
+                            "chips",
+                            "semiconductor",
+                            "tech-industry",
+                            "industry"
+                        ]
+                    }
+                ]
+            },
+            "finance-wealth": {
+                "label": "Finance & Wealth",
+                "desc": "投资、商业、资产管理",
+                "categories": [
+                    {
+                        "id": "investment-assets",
+                        "match_tags": [
+                            "investment",
+                            "stocks",
+                            "market",
+                            "market-analysis",
+                            "financial",
+                            "wealth",
+                            "etf",
+                            "portfolio",
+                            "value-investing"
+                        ]
+                    },
+                    {
+                        "id": "business-entrepreneurship",
+                        "match_tags": [
+                            "business",
+                            "startup",
+                            "strategy",
+                            "management",
+                            "entrepreneurship",
+                            "marketing"
+                        ]
+                    },
+                    {
+                        "id": "crypto",
+                        "match_tags": [
+                            "bitcoin",
+                            "blockchain",
+                            "web3",
+                            "crypto",
+                            "btc",
+                            "eth"
                         ]
                     }
                 ]
             },
             "life-family": {
                 "label": "Life & Family",
-                "desc": "家庭、健康、生活管理",
+                "desc": "家庭事务、健康与生活",
                 "categories": [
+                    {
+                        "id": "home-logistics",
+                        "match_tags": [
+                            "home",
+                            "house",
+                            "maintenance",
+                            "insurance",
+                            "shopping",
+                            "travel",
+                            "bill",
+                            "pool",
+                            "camping"
+                        ]
+                    },
                     {
                         "id": "family-relations",
                         "match_tags": [
+                            "family",
                             "parenting",
                             "kids",
-                            "marriage",
                             "education",
-                            "learning-education"
+                            "marriage",
+                            "life"
                         ]
                     },
                     {
                         "id": "health-wellness",
                         "match_tags": [
                             "health",
+                            "fitness",
                             "sleep",
-                            "gym",
-                            "biohacking",
-                            "cooking",
                             "diet",
+                            "cooking",
                             "medical",
-                            "chronic-disease",
-                            "精力管理",
-                            "fatigue"
+                            "mental-health",
+                            "gym",
+                            "biohacking"
                         ]
                     },
                     {
-                        "id": "home-logistics",
+                        "id": "personal-growth",
                         "match_tags": [
-                            "home",
-                            "house",
-                            "pool",
-                            "maintenance",
-                            "insurance",
-                            "finance-personal",
-                            "shopping",
-                            "travel",
-                            "camping",
-                            "home-management",
-                            "具体的使用案例"
+                            "self",
+                            "growth",
+                            "development",
+                            "learning",
+                            "challenge"
                         ]
                     }
                 ]
             },
             "work-career": {
                 "label": "Work & Career",
-                "desc": "职业发展、工作项目",
+                "desc": "职业发展与工作场景",
                 "categories": [
                     {
                         "id": "career-development",
@@ -272,24 +335,50 @@
                             "career",
                             "resume",
                             "interview",
-                            "promotion"
+                            "promotion",
+                            "salary",
+                            "job-hunting"
                         ]
                     },
                     {
                         "id": "work-related",
                         "match_tags": [
                             "work",
-                            "job",
+                            "meeting",
                             "project-management",
-                            "meeting"
+                            "scrum",
+                            "agile",
+                            "office"
                         ]
                     }
                 ]
             },
             "knowledge-meta": {
                 "label": "Knowledge Meta",
-                "desc": "PKM方法论、学习系统",
+                "desc": "知识管理与工具方法论",
                 "categories": [
+                    {
+                        "id": "note-taking-systems",
+                        "match_tags": [
+                            "pkm",
+                            "obsidian",
+                            "learning",
+                            "knowledge-management",
+                            "second-brain",
+                            "notetaking"
+                        ]
+                    },
+                    {
+                        "id": "workflow-tools",
+                        "match_tags": [
+                            "productivity",
+                            "tools",
+                            "workflow",
+                            "automation",
+                            "mac",
+                            "software-review"
+                        ]
+                    },
                     {
                         "id": "science",
                         "match_tags": [
@@ -297,38 +386,8 @@
                             "physics",
                             "biology",
                             "space",
-                            "quantum"
-                        ]
-                    },
-                    {
-                        "id": "note-taking-systems",
-                        "match_tags": [
-                            "obsidian",
-                            "pkm",
-                            "notetaking",
-                            "learning",
-                            "second-brain",
-                            "information-processing",
-                            "knowledge-management",
-                            "note-taking",
-                            "知识管理"
-                        ]
-                    },
-                    {
-                        "id": "workflow-tools",
-                        "match_tags": [
-                            "workflow",
-                            "automation",
-                            "tools",
-                            "mac",
-                            "ios",
-                            "shortcuts",
-                            "productivity",
-                            "工作流自动化",
-                            "tool",
-                            "tool-for-daily-usage",
-                            "product-review",
-                            "software-review"
+                            "environment",
+                            "climate"
                         ]
                     }
                 ]
@@ -403,15 +462,8 @@
                     "赫拉利",
                     "Harari"
                 ],
-                "小翠时政财经": [
-                    "小翠時政財經",
-                    "小翠"
-                ],
-                "王红雨": [
-                    "Wang Hongyu"
-                ],
-                "Zhang Zetian": [
-                    "章泽天"
+                "Mao Zedong": [
+                    "毛泽东"
                 ]
             },
             "companies": {
@@ -425,7 +477,8 @@
                 ],
                 "Nvidia": [
                     "英伟达",
-                    "NVDA"
+                    "NVDA",
+                    "NVIDIA"
                 ],
                 "Meta": [
                     "Facebook",
@@ -461,658 +514,11 @@
                 "TSMC": [
                     "台积电"
                 ],
-                "Twitter": [
-                    "X.com",
-                    "X"
-                ],
-                "YouTube": [
-                    "Youtube"
+                "Federal Reserve": [
+                    "美联储",
+                    "Fed"
                 ]
             }
         }
-    },
-    "tag_mappings": [
-        {
-            "tag": "视频文稿",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "t-clipping",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "category:",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "-",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "...",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "s-wip",
-            "field": "status",
-            "value": "inbox",
-            "action": "remove_tag"
-        },
-        {
-            "tag": "read",
-            "field": "status",
-            "value": "inbox",
-            "action": "remove_tag"
-        },
-        {
-            "tag": "omnivore",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "Omnivore",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "daily",
-            "field": "tags",
-            "value": "journal",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "t-journal",
-            "field": "tags",
-            "value": "journal",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "t-reflection",
-            "field": "tags",
-            "value": "reflection",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "meeting-summary",
-            "field": "tags",
-            "value": "meeting",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "vibe-hacking",
-            "field": "tags",
-            "value": "vibe-coding",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "TestEngineer",
-            "field": "tags",
-            "value": "testengineer",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "Python",
-            "field": "tags",
-            "value": "python",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "#Python",
-            "field": "tags",
-            "value": "python",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "Thinking",
-            "field": "tags",
-            "value": "thinking",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "SystemThinking",
-            "field": "tags",
-            "value": "system-thinking",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "Prompt",
-            "field": "tags",
-            "value": "prompt",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "DBT",
-            "field": "tags",
-            "value": "dbt",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "Software Engineering",
-            "field": "tags",
-            "value": "software-engineering",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "Learning",
-            "field": "tags",
-            "value": "learning",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "Zettelkasten",
-            "field": "tags",
-            "value": "zettelkasten",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "Web",
-            "field": "tags",
-            "value": "web",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "JIRA",
-            "field": "tags",
-            "value": "jira",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "investment",
-            "field": "category",
-            "value": "stock-investment",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "work-related",
-            "field": "category",
-            "value": "work-related",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "career",
-            "field": "category",
-            "value": "career-development",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "note-taking",
-            "field": "category",
-            "value": "note-taking-systems",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "java",
-            "field": "category",
-            "value": "software-development",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "python",
-            "field": "category",
-            "value": "software-development",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "data-engineer",
-            "field": "category",
-            "value": "data-engineering",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "education",
-            "field": "category",
-            "value": "learning-education",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "parent",
-            "field": "category",
-            "value": "family-relations",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "thinking",
-            "field": "category",
-            "value": "thinking-philosophy",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "health",
-            "field": "category",
-            "value": "health-wellness",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "home",
-            "field": "category",
-            "value": "home-management",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "software-engineering",
-            "field": "category",
-            "value": "software-development",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "politics",
-            "field": "category",
-            "value": "politics-society",
-            "action": "keep_tag"
-        },
-        {
-            "tag": "investing",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "stock-market",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "美股",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "美股投资",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "investment-strategy",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "投资策略",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "Javascript",
-            "field": "tags",
-            "value": "javascript",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "FrontEnd",
-            "field": "tags",
-            "value": "javascript",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai-tool",
-            "field": "tags",
-            "value": "ai-tools",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "AI应用",
-            "field": "tags",
-            "value": "ai-tools",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "#python",
-            "field": "tags",
-            "value": "python",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "#thinking",
-            "field": "tags",
-            "value": "thinking",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "#知识管理",
-            "field": "tags",
-            "value": "knowledge-management",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "3504",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "470",
-            "field": null,
-            "value": null,
-            "action": "remove_tag"
-        },
-        {
-            "tag": "知识管理",
-            "field": "tags",
-            "value": "knowledge-management",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "人工智能",
-            "field": "tags",
-            "value": "ai",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "artificial-intelligence",
-            "field": "tags",
-            "value": "ai",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai编程",
-            "field": "tags",
-            "value": "ai-coding",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai-programming",
-            "field": "tags",
-            "value": "ai-coding",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai焦虑",
-            "field": "tags",
-            "value": "ai-anxiety",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai-anxiety",
-            "field": "tags",
-            "value": "ai-anxiety",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai应用",
-            "field": "tags",
-            "value": "ai-application",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai-application",
-            "field": "tags",
-            "value": "ai-application",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai应用开发",
-            "field": "tags",
-            "value": "ai-application",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai-agents",
-            "field": "tags",
-            "value": "ai-agent",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai-safety",
-            "field": "tags",
-            "value": "ai-safety",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "ai-security",
-            "field": "tags",
-            "value": "ai-safety",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "pacttesting",
-            "field": "tags",
-            "value": "testing",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "testing",
-            "field": "tags",
-            "value": "testing",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "event-hub",
-            "field": "tags",
-            "value": "azure-event-hubs",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "投资",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "个股投资",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "股票投资",
-            "field": "tags",
-            "value": "investment",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "财报",
-            "field": "tags",
-            "value": "financial-report",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "财报分析",
-            "field": "tags",
-            "value": "financial-report",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "indexetf",
-            "field": "tags",
-            "value": "etf",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "行业etf",
-            "field": "tags",
-            "value": "etf",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "cryptocurrency",
-            "field": "tags",
-            "value": "crypto",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "bitcoin",
-            "field": "tags",
-            "value": "crypto",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "加密货币",
-            "field": "tags",
-            "value": "crypto",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "stablecoin",
-            "field": "tags",
-            "value": "stablecoin",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "美联储",
-            "field": "tags",
-            "value": "fed",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "federal-reserve",
-            "field": "tags",
-            "value": "fed",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "tax",
-            "field": "tags",
-            "value": "tax",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "加拿大税务",
-            "field": "tags",
-            "value": "tax",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "减税",
-            "field": "tags",
-            "value": "tax",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "政治",
-            "field": "tags",
-            "value": "politics",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "中国政治",
-            "field": "tags",
-            "value": "politics",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "美国政治",
-            "field": "tags",
-            "value": "politics",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "健康",
-            "field": "tags",
-            "value": "health",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "hypertension",
-            "field": "tags",
-            "value": "health",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "diabetes",
-            "field": "tags",
-            "value": "health",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "家庭生活",
-            "field": "tags",
-            "value": "family",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "亲子关系",
-            "field": "tags",
-            "value": "family",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "家庭教育",
-            "field": "tags",
-            "value": "family",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "pool",
-            "field": "tags",
-            "value": "pool-maintenance",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "泳池维护",
-            "field": "tags",
-            "value": "pool-maintenance",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "泳池机器人",
-            "field": "tags",
-            "value": "pool-maintenance",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "water-chemistry",
-            "field": "tags",
-            "value": "pool-maintenance",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "cooking",
-            "field": "tags",
-            "value": "cooking",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "food",
-            "field": "tags",
-            "value": "cooking",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "中式烹饪",
-            "field": "tags",
-            "value": "cooking",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "炒菜公式",
-            "field": "tags",
-            "value": "cooking",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "学习",
-            "field": "tags",
-            "value": "learning",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "学习方法",
-            "field": "tags",
-            "value": "learning",
-            "action": "replace_tag"
-        },
-        {
-            "tag": "learning-strategy",
-            "field": "tags",
-            "value": "learning",
-            "action": "replace_tag"
-        }
-    ]
+    }
 }

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2021-11-28'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=80q5anuZzr8
 speaker: 一口新飯
@@ -25,7 +22,6 @@ tags:
 - stock-market-bubble
 title: IPO投资陷阱：为何多数投资者不应盲目追逐新股？
 ---
-
 ### 2021年IPO市场狂潮与泡沫警示
 
 自2019年以来，美国股市的**首次公开募股**（**IPO**，Initial Public Offering: 指一家公司首次将其股票向公众出售）数量呈现爆发式增长。2019年，美股共有232家公司上市。尽管经历了疫情，2020年这一数字翻倍至480家，超越了2000年397支IPO的记录。而2021年截至11月26日，这一数字再次翻倍达到968家，预计年底将接近1000支，创下历史上IPO数量和融资总金额的新高。在这两年众多明星IPO中，刚上市的电动皮卡公司Rivian尤为抢眼，上市首日市值接近1000亿美元，融资近120亿美元，成为2021年全球最大的IPO，也是自Facebook以来美国公司中最大的IPO。

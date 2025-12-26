@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Deutsche Welle
@@ -20,9 +20,7 @@ people:
 - Harvey Weinstein
 - Simone de Beauvoir
 products_models: []
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tST7Znl64vg
 speaker: 超級歪 SuperY
@@ -37,7 +35,6 @@ tags:
 - society
 title: 台湾#MeToo运动深度解析：父权文化下的司法困境与社会觉醒
 ---
-
 ### 台湾#MeToo运动的爆发与质疑
 
 2023年，台湾电视剧《人选之人-造浪者》热播后，台湾政坛爆发多起性骚扰丑闻，随后蔓延至学界、艺文界和演艺圈，每天都有多起性骚扰事件被揭露，台湾的**#MeToo运动**（MeToo Movement: 一场旨在揭露和谴责性骚扰与性侵犯的社会运动）终于到来。这一运动甚至登上了国际媒体德国之声。我们应如何看待这场运动？如何理解性骚扰的根本原因？这场运动是否有机会带来台湾近二十年来最重大的性别平等改革？首先，让我们从对#MeToo运动最常见的质疑开始：受害者为何不立即举报？为何到现在才说？是不是想跟风？

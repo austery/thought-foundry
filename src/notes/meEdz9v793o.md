@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
@@ -18,9 +18,7 @@ people:
 - Robert F. Kennedy Jr.
 - Donald Trump
 - Bill Gates
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=meEdz9v793o
 speaker: Norges Bank Investment Management
@@ -34,7 +32,6 @@ tags:
 - risk
 title: 统计学大师戴维·斯皮格尔哈尔特爵士论风险、不确定性与信任式沟通
 ---
-
 ### 引言：与风险沟通大师同行
 
 背景音乐响起。

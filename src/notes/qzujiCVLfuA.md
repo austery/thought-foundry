@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Rocket Companies
@@ -37,10 +37,7 @@ people:
 products_models:
 - TurboTax
 - ChatGPT
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qzujiCVLfuA
 speaker: a16z
@@ -55,7 +52,6 @@ tags:
 - life
 title: 解决住房危机：金融科技、供需失衡与资产通胀的视角
 ---
-
 ### 住房所有权：金融科技的终极前沿
 
 住房在某种意义上对我来说，就像金融科技的最后一道前沿。它是大多数消费者的终极目标。所有金融科技在某些方面都引导消费者从根本上关注**代际财富**（generational wealth: 指家族财富通过几代人的积累和传承）。而代际财富，它来源于像房屋所有权这样的事物，对吗？它来源于长期的增值。它来源于为你、你的家人以及你家人的家人创造一个安全且可持续的东西。这就是美国梦。

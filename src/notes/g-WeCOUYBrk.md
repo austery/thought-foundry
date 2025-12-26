@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - a16z
@@ -51,9 +51,7 @@ products_models:
 - AlphaGo
 - DOS
 - Windows
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g-WeCOUYBrk
 speaker: a16z
@@ -69,7 +67,6 @@ tags:
 - reinforcement-learning
 title: AI 编程的终局：Marc Andreessen 与 Amjad Masad 探讨“足够好”的 AI、AGI 及编程的未来
 ---
-
 ### AI 进展的悖论：既惊叹又失望
 
 我们正在见证魔法的发生，这些事在五年前，甚至十年前，我们可能都认为是不可能实现的。这是有史以来最令人惊叹的技术，而且发展速度极快。然而，我们却仍然感到非常失望，觉得它发展得还不够快，甚至感觉它可能正处于停滞的边缘。我们理应感到极度兴奋，但同时又濒临绝望，仿佛这场盛宴即将结束。

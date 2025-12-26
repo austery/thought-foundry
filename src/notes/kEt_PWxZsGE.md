@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 新京报
@@ -14,10 +14,7 @@ people:
 - 户晨风
 - 刘晓波
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kEt_PWxZsGE
 speaker: 夸克说
@@ -31,7 +28,6 @@ tags:
 - political
 title: 户晨风事件：央视批斗下的政治庇护之路与加拿大生活展望
 ---
-
 ### 央视批斗户晨风事件及其影响
 
 2025年11月5日，央视新闻突然点名批评了前段时间被全网封禁的网红户晨风。央视报道称：“这位拥有数百万粉丝的互联网名人户晨风，一直在展示跨境消费与对立阶层制造之间的差异。户晨风一直在利用苹果安卓收集流量。该公司突破了监管红线。他的多个平台账号被封禁，内容被清空，随后账号被彻底注销。专家认为，通过制造尖锐的反直觉问题，煽动群体情绪，贩卖焦虑以吸引关注和流量，最终目标是实现商业转化。当平台利用最高尺度的统治来主导一切时，污染的不仅是平台本身，还有社会的信任和共识。”

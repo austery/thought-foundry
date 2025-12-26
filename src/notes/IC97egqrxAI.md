@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs: []
 date: '2025-10-11'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - 《我们从未中产过》
 - 《21世纪资本论》
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IC97egqrxAI
 speaker: 王红雨
@@ -26,7 +24,6 @@ tags:
 - wealth-management
 title: 中产返贫的陷阱与出路：海外华人如何避免阶层下滑？
 ---
-
 ### 中产返贫：一个不平静的2025年
 
 大家好，欢迎再次回到我的频道。今天我们来聊一个**中产返贫**（Middle-Class Falling into Poverty: 指中产阶级因经济波动、投资失误或生活变故等原因，财富缩水，生活水平下降，甚至重新陷入贫困的状态）的话题。2025年，无论是在中国还是在北美，都出现了许多中产返贫的案例。这一年确实不平静。我们来借这个机会总结一下，如何避免中产返贫发生在我们自己身上。我将分三个小题目跟大家聊这个话题：第一个是中产的定义是什么？第二个是中产家庭可能面临中产返贫的五个陷阱是什么？最后一个是聊一聊如何绕过这些陷阱，尽快走完这段钢丝，成为中上阶层。

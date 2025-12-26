@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - CNBC
@@ -35,9 +35,7 @@ people:
 products_models:
 - FSD
 - Robotaxi
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_uNqGpj7SFA
 speaker: 美投讲美股
@@ -52,7 +50,6 @@ tags:
 - wealth-inequality
 title: 深度解析“大美利法案”：川普新政如何影响美股与经济未来五年？
 ---
-
 ### “大美利法案”：川普新政的全面影响
 
 大家好，我是美投君，你们的美股探路者。7月3日，美国众议院通过了一项重磅的财政法案——**大美利法案**。紧接着，在7月4日这个美国最重要的日子，唐纳德·川普（Donald Trump）盛大签署了这项法案，使其正式成为法律。

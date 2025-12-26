@@ -27,10 +27,7 @@ products_models:
 - FSD
 - Robotaxi
 - Optimus
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Dar8ZvlrE98
 speaker: Nico投资有道
@@ -43,7 +40,6 @@ tags:
 - us-stock-market
 title: 美股市场低迷：是回调还是熊市？AI泡沫与投资心态深度分析
 ---
-
 ### 美股市场现状：低迷而非崩盘
 
 最近几周，美股市场的走势持续低迷，AI板块的**成长股**（Growth Stock: 预期未来收入和利润将快速增长的股票，通常具有较高的估值）和科技股大面积暴跌，引发了许多投资者的恐慌。然而，从大盘数据来看，美股的走势并非崩盘，而是处于小幅回调阶段。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Netflix
@@ -21,8 +21,7 @@ people:
 - Jake Paul
 - Mike Tyson
 - Chris Rock
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sAp9RjO79cU
 speaker: The Pragmatic Engineer
@@ -37,7 +36,6 @@ tags:
 - talent
 title: 深入解析Netflix：探寻其独特的工程师文化与创新引擎
 ---
-
 ### 引言：Netflix 不为人知的技术规模
 主持人：Netflix 无需介绍，但其规模仍然能让许多人感到惊讶。但作为一名软件工程师，在一家流媒体公司工作是怎样的体验？我与 Netflix 首席技术官 Elizabeth Stone 坐下来，深入了解了更多细节。
 

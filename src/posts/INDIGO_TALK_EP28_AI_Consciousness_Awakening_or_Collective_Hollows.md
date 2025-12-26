@@ -9,8 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -20,7 +19,6 @@ tags:
 - consciousness
 title: AI 的下一步是“意识觉醒”还是“集体游魂”？ - INDIGO TALK EP28
 ---
-
 INDIGO TALK - EP28
 
 **主持人 (Indigo)：** 欢迎回到INDIGO TALK。这一期我邀请了我的NFT入门导师

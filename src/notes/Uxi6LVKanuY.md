@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: general
 companies_orgs:
 - OpenAI
@@ -51,9 +51,7 @@ products_models:
 - Microsoft Teams
 - Chrome
 - YouTube
-project:
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Uxi6LVKanuY
 speaker: All-In Podcast
@@ -67,7 +65,6 @@ tags:
 - society
 title: OpenAI的“红色警报”：AI巨头激战、Sacks反击《纽约时报》及美国贫困线新争议
 ---
-
 ### OpenAI拉响“红色警报”：AI市场进入白热化竞争
 
 Jason Calacanis：好的，各位，欢迎回到世界第一播客 All-In Podcast。我们直接进入正题。Sam Altman 已经拉响了“红色警报”。他在周一发了一份备忘录，告诉员工们停止在广告等“支线任务”上耗费精力，转而专注于核心的 ChatGPT 体验，让它变得更快、更好。我想我们都知道原因，因为 Google 的 Gemini、马斯克的 Grok 和 Anthropic 的 Claude 最近表现都非常出色。ChatGPT-5，我们就这么叫它吧，可以说有点失败，没有达到预期。

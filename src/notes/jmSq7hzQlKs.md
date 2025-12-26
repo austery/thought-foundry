@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Substack
@@ -28,10 +28,7 @@ people:
 - Andrew Cuomo
 - Eric Adams
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jmSq7hzQlKs
 speaker: 记者易速利
@@ -45,7 +42,6 @@ tags:
 - public-trust
 title: 华盛顿政坛性丑闻野火延烧：记者奥利维亚与政治人物的伦理边界
 ---
-
 ### 华盛顿性丑闻野火：奥利维亚·努齐与小罗伯特·肯尼迪的数字恋情
 
 美国首都华盛顿极少被轰动级别的性丑闻吞噬，但现在一场野火正在燃烧。起因是年轻女记者奥利维亚·努齐和年长自己39岁的前总统候选人小罗伯特·肯尼迪（Robert F. Kennedy Jr.，昵称芭比）在数字世界的恋情。他们的往来以情色短信和苹果的FaceTime为主，奥利维亚表示没有身体上的直接互动。到目前为止，这场野火席卷了传统媒体和社交媒体，涉及好几个知名的政治人物和政治记者，他们的声誉基本上呈现出焚烧过后的焦黑状态。

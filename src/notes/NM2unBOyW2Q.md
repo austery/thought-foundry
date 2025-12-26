@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - Michael Milken
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NM2unBOyW2Q
 speaker: 北美王路飞
@@ -26,7 +24,6 @@ tags:
 - technology
 title: 洛杉矶首富Gary Winnick的财富幻灭：2.5亿豪宅拍卖背后的杠杆陷阱与现金流危机
 ---
-
 ### 豪宅拍卖的荒诞开端
 
 朋友们闭上眼睛，想象一下，美国最传奇、最昂贵、最豪华的一座豪宅要被强制拍卖。你脑海中第一出现的画面是什么样的？是在苏富比那种金碧辉煌的大厅里吗？是不是应该有穿着晚礼服的买家，举着号码牌，几千万几千万地往上加价？

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: ''
 category: technology
 companies_orgs:
@@ -12,8 +12,7 @@ layout: post.njk
 products_models:
 - Cursor
 - Jira
-project:
-- ai-impact-analysis
+project: []
 source: https://www.youtube.com/watch?v=RmJ4rTLV_x4
 speaker: AI Engineer
 summary: 本文介绍了 Zapier 如何应对 8,000 多个集成带来的“应用侵蚀”挑战。通过发起让支持团队直接修复代码的实验，并结合名为 Scout 的
@@ -25,7 +24,6 @@ tags:
 - technology
 title: 从大峡谷到自动化：Zapier 如何利用 AI 辅助支持团队修复代码
 ---
-
 ### 大峡谷与“应用侵蚀”
 
 我很兴奋能在这里分享 Zapier 是如何赋能支持团队去交付代码的。在开始之前，我想问一下，这里有人去过大峡谷吗？

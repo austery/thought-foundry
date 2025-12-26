@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-15'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=roAgE4glhqM
 speaker: Best Partners TV
@@ -23,7 +22,6 @@ title: AI Agent的经验时代：Meta“早期经验”范式深度解析
 companies:
 - meta-ai
 ---
-
 ### 引言：AI Agent迈向经验时代
 
 前段时间，图灵奖得主Richard Sutton与谷歌RL大佬David Silver合作撰写了一篇文章《欢迎来到经验时代（Welcome to the Era of Experience）》，引发了广泛关注。他们在文中指出，人类数据已经接近极限，**AI Agent**（人工智能代理: 一种能够感知环境、进行决策并执行行动的智能实体）如果想要突破天花板，必须像人类和动物一样，通过与环境的持续互动来生成经验流，并通过**强化学习**（Reinforcement Learning, RL: 一种通过与环境互动，从试错中学习最优行为策略的机器学习范式）实现自主提升。这意味着AI Agent将迎来经验时代，这是一个重大的范式转变。

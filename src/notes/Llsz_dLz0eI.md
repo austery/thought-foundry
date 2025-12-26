@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Disney
@@ -23,9 +23,7 @@ people:
 - Bob Iger
 products_models:
 - Disney+
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Llsz_dLz0eI
 speaker: 投资TALK君
@@ -39,7 +37,6 @@ tags:
 - market-volatility
 title: 迪士尼财报深度解析：DTC业务利润率提升，市场波动与美联储政策展望
 ---
-
 ### 开场与市场概览
 
 大家好，欢迎来到本周全勤更新的专业美股频道。今天我们将深入探讨一只备受关注的价值股——**迪士尼**（Disney），该公司在周四盘间发布了财报。尽管周四收盘时股价下跌，但我个人认为其基本面正持续改善，且当前估值相当合理，甚至偏低。稍后，我将详细分析这份财报并更新对迪士尼的估值。

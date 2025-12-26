@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - 天下文化
@@ -20,9 +20,7 @@ people:
 - 马英九
 products_models:
 - iPad
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=skbbEyKWRwA
 speaker: 天下文化
@@ -36,7 +34,6 @@ tags:
 - transformation
 title: 大提琴家张正杰：从音乐到人生，重新定义影响力的艺术与真诚
 ---
-
 欢迎收听《对话领导力》，本节目由**领导影响力学院**（Leadership Influence Academy: 专注于领导力发展和影响力提升的机构）与**天下文化**（Commonwealth Publishing: 台湾知名出版公司）共同出品。与顶尖领袖对话，从经典书籍出发，探索领导的智慧与管理心法。我是主持人梁晓华。
 
 ### 重新定义影响力的艺术人生

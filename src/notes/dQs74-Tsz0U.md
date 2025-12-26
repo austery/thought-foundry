@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -58,10 +58,7 @@ products_models:
 - ChatGPT
 - iPhone
 - WhatsApp
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dQs74-Tsz0U
 speaker: Amit Kukreja
@@ -74,7 +71,6 @@ tags:
 - stock
 title: 英伟达强硬回应，Robinhood垂直整合，市场在感恩节前尝试反弹
 ---
-
 ### 感恩节前的市场概览
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月26日，星期三。这基本上是本交易周的最后一天，也是最后一个完整的交易日。明天，由于美国迎来感恩节，市场将会休市。然后周五，我们将只有半天交易时间。因此，与今天相比，周五的交易量将会相对清淡。今天我们可能也会看到一些清淡的交易量。但就完整的交易日而言，这确实是本周的最后一天了。

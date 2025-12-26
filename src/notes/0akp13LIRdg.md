@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 民政局
@@ -24,10 +24,7 @@ people:
 - 张国荣
 - 刘慈欣
 products_models: []
-project:
-- cultural-critique
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0akp13LIRdg
 speaker: 張内咸
@@ -41,7 +38,6 @@ tags:
 - societal
 title: 从大S离世看东亚社会：抑郁、拖累症与容貌焦虑的深层文化根源
 ---
-
 ### 大S离世：娱乐新闻背后的社会反思
 
 大家好，我是张内咸。昨天早上我正给孩子做饭，我媳妇突然冲进厨房，手里拿着手机，满脸惊恐地跟我说：“坏了，出大事了！”给我吓了一跳，我就看她那个手在颤抖着，手机啪挞一下就掉地上了。我当时就感觉心里咯噔一下，这是出什么大事了？主要是我想不出来什么大事能把我媳妇吓成这样，她一个天天在厨房里剁白菜帮子的人，什么国家大事她也不关心，能是啥事？打仗啦？社保又涨钱啦？结果我媳妇瞪着眼睛，鼻孔里冒出两管气，说：“大S去世了！”她说这句话的时候面如死灰，我还以为我家哪个亲戚没了呢，反应了半天才明白她说的是那个大S，娱乐新闻里那个。天呐，给我吓的呀！

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Chrysler
@@ -45,10 +45,7 @@ products_models:
 - SQL
 - DynamoDB
 - PostgreSQL
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CQmI4XKTa0U
 speaker: The Pragmatic Engineer
@@ -64,7 +61,6 @@ tags:
 - system
 title: 软件工程大师 Martin Fowler 对话：AI 是自汇编语言以来最大的变革
 ---
-
 ### AI 变革：堪比从汇编到高级语言的飞跃
 
 在我整个职业生涯中，人工智能（AI）无疑是最大的一次变革。回顾整个软件开发的历史，唯一能与之相提并论的，可能就是从汇编语言到第一批高级语言的转变。这次变革最大的特点是从确定性到非确定性的转变。突然之间，你开始在一个非确定性的环境中工作，这彻底改变了一切。

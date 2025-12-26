@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -18,10 +18,7 @@ people:
 - Jeyan Jeganathan
 products_models:
 - Advil
-project:
-- systems-thinking
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HhFssZNKrJk
 speaker: TVO Today
@@ -35,7 +32,6 @@ tags:
 - public-health-system
 title: 麻疹卷土重来：加拿大公共卫生系统与公众信任面临的挑战
 ---
-
 ### 加拿大麻疹“消除状态”的丧失
 
 主持人: 1998年，加拿大庆祝了一个重要的里程碑：我们成为世界上首批**消除麻疹**（Measles: 一种由麻疹病毒引起的急性呼吸道传染病）的国家之一。

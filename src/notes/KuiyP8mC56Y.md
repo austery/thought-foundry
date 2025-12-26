@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Fraser Institute
@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - OutKids
 products_models: []
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KuiyP8mC56Y
 speaker: 莊也雜談
@@ -27,7 +25,6 @@ tags:
 - system
 title: 加拿大中小學教育體系深度解析：是「放羊」還是科學？
 ---
-
 ### 加拿大中小學教育概覽與國際地位
 
 大家好，我是莊也，歡迎您收看莊也雜談加拿大系列節目。今天我們來聊聊加拿大的中小學教育。估計對這期節目最感興趣的，就是那些打算送孩子小小年紀來加拿大留學的家長們。加拿大的教育體系可以說是世界上最好的教育體系之一，這並非吹牛，我們用數字說話。

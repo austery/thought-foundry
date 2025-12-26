@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Sony
@@ -20,10 +20,7 @@ people:
 - 孔子
 products_models:
 - Walkman
-project:
-- systems-thinking
-- personal-growth-lab
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fSUIeMI3Qjs
 speaker: 天下文化
@@ -37,7 +34,6 @@ tags:
 - transformation
 title: 郭水義董事長：從中華電信到將來銀行，領導力、創新與思維轉型的實踐
 ---
-
 主持人梁曉華: 歡迎收聽對話領導力，本節目由領導影響力學院與天下文化共同出品，與頂尖領袖對話，從經典書籍出發，探索領導的智慧跟管理心法。我是主持人梁曉華。在我們節目當中，每一次都會為大家邀請到業界非常資深的CEO，來分享他們的人生故事或者是領導管理心法。今天節目當中很難得，幫大家邀請到之前是中華電信的董事長，現在是將來銀行的董事長。董事長，我們先跟觀眾朋友打聲招呼。
 
 郭水義董事長: 觀眾朋友大家好。

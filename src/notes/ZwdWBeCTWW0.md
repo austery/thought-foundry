@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 东京大学
@@ -26,10 +26,7 @@ people:
 - 张雪峰
 products_models:
 - TikTok
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZwdWBeCTWW0
 speaker: 三個水槍手
@@ -43,7 +40,6 @@ tags:
 - sino-japanese-relations
 title: 阿古智子：我如何目睹中国成为一个不可沟通的国度
 ---
-
 ### 对当前中日关系的深切担忧
 
 我非常荣幸能与大家交流。我叫阿古智子，是东京大学的教授，长期从事中国研究。我在香港读的博士，过去十多年来，我密切关注中国的政治变动，并致力于促进中日之间的民间学术与文化交流。我甚至在中国举办了婚礼，有长期的田野调查经验，对中国的亲身感受很深，在中国**喝茶**（中国网络用语：指被国家安全部门约谈或警告）的经验可能超过了九成九的网友。

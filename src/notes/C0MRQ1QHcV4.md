@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 摩根大通
@@ -14,10 +14,7 @@ layout: post.njk
 media_books:
 - 《R研究》
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C0MRQ1QHcV4
 speaker: 壽司坦丁 Sociostanding
@@ -31,7 +28,6 @@ tags:
 - self
 title: 自我實現的預言：信心如何引發金融與社會危機
 ---
-
 ### 信心崩盤：矽谷銀行倒閉的深層原因
 
 2023年3月10日，**矽谷银行**（Silicon Valley Bank: 一家总部位于美国加州的商业银行，主要服务科技初创公司）宣布倒閉，並由政府接管。這家總資產達2000億美元、全美排名第16的銀行，雖然與美國最大的銀行**摩根大通**（JPMorgan Chase: 美国最大的银行之一）相比規模較小，但美國負責金融監管的「鐵三角」——**财政部**（Treasury Department: 負責管理國家財政和經濟政策的政府部門）、**联邦储备委员会**（Federal Reserve, 簡稱聯總會: 美国的中央银行系统）和**联邦存款保险公司**（Federal Deposit Insurance Corporation, 簡稱FDIC: 負責為美國銀行存款提供保險的獨立機構）——卻如臨大敵，嚴陣以待。歷史經驗表明，引發金融危機的原因往往與銀行資產規模無關，關鍵力量是無形且難以捉摸的「信心」。

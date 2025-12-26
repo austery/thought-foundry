@@ -43,10 +43,7 @@ products_models:
 - WhatsApp
 - YouTube
 - Quest
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_92N3LeQf_o
 speaker: 小翠時政財經
@@ -59,7 +56,6 @@ tags:
 - us-china-relations
 title: 川习会中美博弈：美方让步与科技巨头财报下的市场洞察
 ---
-
 ### 川习会：美方让步与中方“虚”承诺
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月30日。欢迎收看我们今天的每日要闻节目。今天我们要从川总和习总的会面开始讲起，然后我们再延伸到资本市场，讲讲昨天整个资本市场的反应。

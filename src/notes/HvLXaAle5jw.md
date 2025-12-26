@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Alibaba
@@ -15,10 +15,7 @@ people:
 - Martin Fowler
 products_models:
 - Cursor
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HvLXaAle5jw
 speaker: Peter Pang
@@ -31,7 +28,6 @@ tags:
 - value
 title: 程序员为何热爱重构，而项目管理者却不买账？——兼论AI编程时代的机遇
 ---
-
 ### 程序员对重构的执着与现实的割裂
 
 程序员普遍喜欢**重构**（Refactoring: 在不改变代码外部行为的前提下，改进其内部结构的过程），因为将混乱的代码变得整洁能带来极大的愉悦感。在程序员圈子里，重构被公认为一个好习惯，无论是学校里的老师、职场中的前辈，还是各种软件开发理念和编程思维，都经常提及重构。

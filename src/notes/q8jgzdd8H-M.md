@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - MI6
@@ -38,10 +38,7 @@ people:
 - 奥巴马
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- china-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q8jgzdd8H-M
 speaker: 北美王路飞
@@ -54,7 +51,6 @@ tags:
 - systemic-corruption
 title: 王家卫《繁花》编剧风波与爱泼斯坦邮件门的权力游戏
 ---
-
 ### 从《东邪西毒》的孤独感谈起
 今天我们聊两个话题：王家卫的《繁花》翻车事件，以及爱泼斯坦的邮件门。
 

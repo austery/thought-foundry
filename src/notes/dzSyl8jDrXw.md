@@ -34,10 +34,7 @@ products_models:
 - FSD
 - Blackwell
 - 标普500
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dzSyl8jDrXw
 speaker: Nico投资有道
@@ -50,7 +47,6 @@ tags:
 - market-sentiment
 title: 英伟达第三季度财报深度解读：AI泡沫论与美股市场展望
 ---
-
 ### 英伟达第三季度财报亮点与市场情绪提振
 
 英伟达（**NVIDIA**：一家全球领先的图形处理器和人工智能计算公司）第三季度财报出炉后，股价盘后大涨了5个**百分点**（PERCENT），再次拯救了美股市场，全面带动了**AI板块**（人工智能相关股票）以及科技股的多头情绪。在本期视频中，我将全面解读英伟达刚刚出炉的第三季度财报，特别是财报会议中提到的关键信息，以及未来投资中必须注意到的风险。

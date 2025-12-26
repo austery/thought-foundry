@@ -9,8 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: AI企业应用研讨会
 source: null
 speaker: PCC insider
@@ -20,7 +19,6 @@ tags:
 - 未来趋势
 title: AI与软件开发的未来
 ---
-
 ## The Evolving Role of AI in Programming / 人工智能在编程中角色的演变
 
 One speaker initiated the discussion by questioning whether AI,

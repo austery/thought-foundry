@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -12,8 +12,7 @@ people:
 - Dario Amodei
 products_models:
 - Claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Yiy0cU6ChSw
 speaker: Anthropic
@@ -29,7 +28,6 @@ tags:
 - model
 title: 企业级AI的规模化应用：礼来与Anthropic的炉边对话
 ---
-
 ### 引言：AI进展与患者福祉
 
 Diogo: 让我们对技术的进步速度抱有信心，因为如果模型在一年后变得足够优秀，能够实现**端到端**（End-to-End: 从开始到结束的整个过程）的运作，而你那时才开始部署它，那将会再有两年的延迟。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - openai
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - bg2-pod
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pE6sw_E9Gh0
 speaker: Bg2 Pod
@@ -23,7 +21,6 @@ tags:
 - 计算扩展定律
 title: 英伟达CEO黄仁勋：OpenAI将成万亿美元级巨头，三大定律预示AI计算需求的爆发
 ---
-
 ### 对OpenAI未来前景的预测
 
 I think that OpenAI is likely going to be the next multi-trillion dollar hyperscale company.

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TSMC
@@ -43,10 +43,7 @@ products_models:
 - Walkman
 - iPhone
 - GPU
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=r5P1082ybvY
 speaker: 超級歪 SuperY
@@ -59,7 +56,6 @@ tags:
 - war
 title: 【晶片戰爭】從矽谷到台積電：一場決定全球命運的半導體史詩
 ---
-
 ### 晶片戰爭：全球化已死？
 
 今年三月，美國歷史學家 Chris Miller 來台，與台積電創辦人張忠謀展開一場半導體的世紀對談。張忠謀在會談中表示，他支持美國對中國的晶片制裁政策，甚至揚言全球化已死，至少在晶片產業，全球化已死，自由貿易已結束。到底要如何理解中國跟美國的晶片戰？這場晶片戰跟台灣又有何關聯？

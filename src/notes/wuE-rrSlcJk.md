@@ -7,8 +7,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wuE-rrSlcJk
 speaker: Best Partners TV
@@ -19,7 +18,6 @@ tags:
 - neural-network
 title: 杰夫·迪恩：从分布式系统到谷歌大脑，洞察AI的过去与未来
 ---
-
 ### 引言：杰夫·迪恩的AI旅程
 
 如果你关注人工智能和计算机科学，那么对**杰夫·迪恩**（Jeff Dean: 谷歌核心工程师、谷歌大脑创始人）这个名字一定不会陌生。他不仅是谷歌早期的核心工程师之一，更是一手缔造了**谷歌大脑**（Google Brain: 谷歌旗下著名人工智能研究团队）这个举世瞩目的AI研究团队。他的职业生涯犹如一场精彩的连续创业，不断投身于新的挑战，推动着技术边界的拓展。本文将通过The Moonshot Factory的播客采访，深入了解杰夫·迪恩的成长经历、他在谷歌大脑的早期探索，以及他对人工智能未来发展的深刻洞察。

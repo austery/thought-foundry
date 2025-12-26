@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-07-31'
@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 products_models:
 - claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8gTpgWru0Wg
 speaker: Anthropic
@@ -24,7 +23,6 @@ title: 基于Amazon Bedrock和Claude构建AI代理：Strands SDK实战
 companies:
 - amazon-bedrock
 ---
-
 ### 介绍：Amazon Bedrock与AI代理
 
 Dwan Lightoot: Building AI agents with Claude in Amazon Bedrock. Today, I am excited to explore how to create intelligent, autonomous AI systems that can transform your applications.

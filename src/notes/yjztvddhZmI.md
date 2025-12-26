@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Waymo
@@ -13,10 +13,7 @@ people:
 - Derek
 products_models:
 - Firefly
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yjztvddhZmI
 speaker: veritasium
@@ -30,7 +27,6 @@ tags:
 - safety
 title: 为何我们现在就应该拥抱自动驾驶汽车
 ---
-
 ### 首次自动驾驶体验与公众认知
 
 好的，我即将进行人生中第一次乘坐完全自动驾驶汽车的体验。哇，没有司机！

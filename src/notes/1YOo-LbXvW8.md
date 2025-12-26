@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-18'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1YOo-LbXvW8
 speaker: Best Partners TV
@@ -22,7 +21,6 @@ tags:
 - tactile-feedback
 title: 人形机器人是幻想吗？机器人专家Rodney Brooks深度解析灵活性与安全性挑战
 ---
-
 ### 人形机器人热潮下的冷静思考
 
 近半年来，人形机器人的新闻几乎占据了科技板块的半壁江山。特斯拉的Optimus机器人被预测能创造30万亿美元的收入，而Figure AI的首席执行官更是宣称要打造一百万个人形机器人并最终接入劳动力市场。风险投资（VC）机构也随之疯狂，数百亿美金涌入这一赛道。甚至有投资人在面对仓储机器人团队时，直接质疑：“你们为什么还要做这个？两年内双足双臂的类人机器人就能接管大部分人类工作了。”然而，今天我们想分享一篇可能为这个狂热市场降温的文章。作者是机器人领域的“活化石”**罗德尼·布鲁克斯**（Rodney Brooks），他不仅是**MIT计算机科学与人工智能实验室**（CSAIL: 麻省理工学院的计算机科学与人工智能研究机构）的前主任，还是**iRobot**（iRobot: 扫地机器人Roomba的制造商）和**Rethink Robotics**（Rethink Robotics: 曾生产协作机器人Baxter和Sawyer的公司）的创始人，一生都在与机器人打交道。他在最新的博客中直言，当前的人形机器人，即便投入再多资金，也无法学会人类的灵活性。那些关于两年内落地、五年内产生经济影响的预测，在他看来全是幻想。为什么这位行业权威会如此笃定？今天，我们将从历史、技术、生理三个维度，解读类人机器人的灵活性难题，以及布鲁克斯对未来15年的预判。

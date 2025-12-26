@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Veritasium
@@ -18,9 +18,7 @@ people:
 - Andrew
 products_models:
 - NordVPN
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rjXZzB5bUAo
 speaker: veritasium
@@ -33,7 +31,6 @@ tags:
 - lithophone
 title: 地球上最古老、最奇特的乐器：卢雷洞穴的石钟乳管风琴
 ---
-
 ### 弗吉尼亚州卢雷洞穴的独特乐器
 
 在美国西弗吉尼亚州有一个石灰岩洞穴，其中一个巨大的洞室被改造成了一件乐器。

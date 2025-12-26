@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Tata Consultancy Services
@@ -19,10 +19,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3PCuTL-YQxM
 speaker: Adam's Axiom
@@ -36,7 +33,6 @@ tags:
 - relations
 title: 全球经济巨头：韧性、挑战与未来展望
 ---
-
 ### 加拿大：资源富饶与经济多元化
 
 加拿大的经济有点像它那臭名昭著的天气，虽然变化无常，但总能保持稳定和可靠。这个拥有2万亿美元**GDP**（Gross Domestic Product: 国内生产总值）的国家，其经济主要由自然资源支撑。听起来像是一个充满机遇的富饶之地，对吗？确实如此。石油和天然气出口是这里的“皇冠上的明珠”，为加拿大的经济实力做出了巨大贡献。这些资源不仅为我们的汽车提供燃料，也为经济注入了动力，这真是令人惊叹。

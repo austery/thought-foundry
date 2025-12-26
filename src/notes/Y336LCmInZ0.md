@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -18,9 +18,7 @@ media_books:
 - Anna Karenina
 - The Green Scorpion
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y336LCmInZ0
 speaker: Norges Bank Investment Management
@@ -34,7 +32,6 @@ tags:
 - risk
 title: 金融投资者如何管理气候与自然风险：洞察、挑战与未来策略
 ---
-
 ### 气候与自然风险的财务实质性
 
 首先，我将分享一些最新的见解。

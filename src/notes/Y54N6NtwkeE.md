@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg Podcasts
@@ -39,9 +39,7 @@ products_models:
 - USDC
 - ChatGPT
 - iPhone
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y54N6NtwkeE
 speaker: Bloomberg Podcasts
@@ -55,7 +53,6 @@ tags:
 - regulation
 title: Circle CEO 揭示稳定币的蓬勃发展及其对金融系统的深远影响
 ---
-
 ### 稳定币：加密世界的真实存在与潜在风险
 
 欢迎收听OddLots播客的又一期节目。

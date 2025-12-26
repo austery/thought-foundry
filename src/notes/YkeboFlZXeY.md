@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 人民网
@@ -14,9 +14,7 @@ media_books:
 people:
 - 安争鸣
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YkeboFlZXeY
 speaker: 安争鸣（Stella An）
@@ -29,7 +27,6 @@ tags:
 - society
 title: 职业女性or家庭主妇：“自由选择”的幻象与结构性困境
 ---
-
 ### 职业女性or家庭主妇：“自由选择”的幻象与结构性困境
 
 2021年，《人民网》的一篇报道，让许多人感到三观尽毁。报道称，39岁的沈阳市民林强同时身兼外卖员、产品推销员和网约车司机三职。他白天开网约车，晚上5点半到9点半送外卖，有订单时还要去推销和安装卫浴，简直是“顶级牛马”。然而，他却表示：“感谢政府的好政策，三份工作收入稳定，而且都受到法律保护。”

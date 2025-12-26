@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - TSMC
@@ -20,10 +20,7 @@ people:
 - Aristotle
 - 孙中山
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dfn4ytbCcdE
 speaker: 超級歪 SuperY
@@ -36,7 +33,6 @@ tags:
 - theory
 title: 超级歪讲座：哲学、历史与精神分析的四种思维工具
 ---
-
 ### 前言：一种务实的英式教学法
 
 我的分享方式，是我过去几年制作影片经验的总结。我将其归纳为几种我认为非常实用的思维模式介绍给大家。为什么采用这种方式呢？这其实是一种非常英式的教学方法。当我在英国读书时，英国的教授每堂课大约一小时，在最后约五到十分钟，他们会说：“现在有些东西你必须带走。” 就算你忘了整堂课前四十分钟的内容也无所谓，但我现在讲的东西，是你能够直接带回去的。

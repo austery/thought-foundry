@@ -40,10 +40,7 @@ products_models:
 - H20
 - 升腾910C
 - CUDA
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TphYe8OcrNQ
 speaker: FearNation 世界苦茶
@@ -58,7 +55,6 @@ tags:
 - trade-war
 title: 中美芯片与AI战前沿：多维视角下的全球观察
 ---
-
 大家好，欢迎来到本期的世界苦茶观察线节目。观察线节目汇总全球智库、国际媒体深度分析中国问题的内容。该节目为AI制作，播放速度照顾收听较慢听众，如果你觉得太慢可以调整至1.25倍。AI脚本和声音会不断优化。以下是精选的全世界对中国的分析，集中关于美国对中国芯片和AI竞争的内容。
 
 ### 中老铁路：中国的边疆整合战略

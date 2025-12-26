@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2024-12-10'
 draft: true
@@ -10,10 +10,7 @@ media_books:
 - 《认识我的人慢慢忘了我》
 - 《伊萨卡岛》
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OqxmEYcOZeA
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - self
 title: 我是周慧：一个被遗忘的名字，一场自我重建的漫长旅程
 ---
-
 ### 一个被遗忘的名字，一场重生的起点
 
 我叫周慧。  

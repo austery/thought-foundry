@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - 万科
@@ -11,10 +11,7 @@ layout: post.njk
 people:
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0vSaB-y10hc
 speaker: 小翠時政財經
@@ -28,7 +25,6 @@ tags:
 - state
 title: 万科金融迷局：祝九胜的千亿操盘术与高层自救之路
 ---
-
 ### 万科危机：高管被捕与债务迷局
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月24日。这期节目咱们要来系统性地聊聊万科。为什么聊万科呢？因为前阵子万科的新董事，也就是深圳地鐵的董事长被抓了，万科的前任总裁祝九胜也被带走了。这些事件似乎在告诉我们，万科的雷，皇上不打算兜了。那么万科到底欠了多少钱？这钱又是怎么欠下的？深圳地鐵一年给万科输血十几次，现在董事长却被抓了，这是不是意味着深圳国资委误判了万科的债务情况，以至于现在才发现自己根本无力救起万科呢？这期视频，咱们就来试着找到这些问题的答案。

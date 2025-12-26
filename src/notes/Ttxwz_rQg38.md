@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CIA
@@ -22,9 +22,7 @@ people:
 - 刘宗坤
 products_models:
 - Obamacare
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ttxwz_rQg38
 speaker: FearNation 世界苦茶
@@ -39,7 +37,6 @@ tags:
 - us-election
 title: 美国中期选举前哨战：民主党“浪潮式”大胜与川普的困境
 ---
-
 ### 美国选举夜：民主党“浪潮式”大胜
 
 大家可能已经注意到，最近简体中文媒体对美国选举夜的报道非常多。这次选举夜不仅仅是纽约市市长的选举，实际上，美国各地举行了一系列非国政选举，主要集中在几个关键州，包括州长、州议会、州总检察长和州最高法院等职位的选举。

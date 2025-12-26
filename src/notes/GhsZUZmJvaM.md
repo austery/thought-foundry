@@ -1,14 +1,12 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2019-08-10'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GhsZUZmJvaM
 speaker: veritasium
@@ -21,7 +19,6 @@ tags:
 - space-exploration
 title: 火星直升机：在稀薄大气中飞行的工程奇迹
 ---
-
 ### 火星直升机：突破地外飞行极限
 
 主持人: 我现在在帕萨迪纳的**喷气推进实验室**（Jet Propulsion Laboratory: 美国国家航空航天局（NASA）下属的一个研究中心，主要负责行星探测任务），我来这里是为了看第一架将在另一个星球上飞行的无人机，那就是**火星直升机**（Mars Helicopter: 首个在地球以外星球上进行动力飞行的无人机）。

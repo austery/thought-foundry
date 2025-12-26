@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Citadel
@@ -14,10 +14,7 @@ layout: post.njk
 media_books:
 - Forbes
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iQt9pgksZ3Y
 speaker: Norges Bank Investment Management
@@ -31,7 +28,6 @@ tags:
 - productivity
 title: Citadel创始人肯·格里芬：投资、经济与领导力的洞察
 ---
-
 ### 投身金融的初心与早期经历
 
 欢迎收听“好公司”播客节目，今天我们邀请到了肯·格里芬，他是史上最优秀的投资者之一。

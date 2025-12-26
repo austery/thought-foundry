@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -34,8 +34,7 @@ products_models:
 - GPT-4o
 - DeepSeek
 - Claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CbIPjrOj2Tc
 speaker: Hung-yi Lee
@@ -49,7 +48,6 @@ tags:
 - speech-recognition
 title: 语音语言模型发展史：从早期探索到智能对话的演进
 ---
-
 大家好，这是本学期最后一堂课。今天我将跟大家分享**语音语言模型**（Speech Language Model: 一种能处理语音输入并生成语音输出的模型）的发展史。在过去的几堂课里，我们花了很多精力讲解了各式各样的生成式AI技术，其中多数基本观念都已涵盖。剩下的就靠大家自己深入研究了。今天这堂课，我将以第一人称视角，讲述语音语言模型这项技术这些年来的发展历程。
 
 在开始之前，有一个免责声明：本课程并非完整介绍语音语言模型的技术，而是以我及我的团队的第一人称视角，讲述我们所看到的语音语言模型技术发展。所以这不是一个完整的概述。希望大家能通过这堂课，了解一线研究人员是如何看待一个技术的演进的。在某个时间点，受限于概念、资源和想法的局限，我们是如何看待一个问题，以及后来发生了怎样的转变。

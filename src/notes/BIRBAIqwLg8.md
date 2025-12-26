@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -13,8 +13,7 @@ media_books:
 - Biomolecular Concepts
 people:
 - 宋晏仁
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BIRBAIqwLg8
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +27,6 @@ tags:
 - stress-management
 title: 缓解压力，提升身心健康：宋晏仁医师的高效休息法
 ---
-
 ### 现代压力源与身体的威胁评估
 
 当我们看到手机来电不想接，或者老板传来讯息却深呼吸好几次不敢点开时，这在神经科学中被称为**威胁评估**（Threat Assessment: 大脑推测某事是否会带来痛苦、不适或焦虑的过程）。一旦感受到威胁，大脑就会提早启动下意识想要逃离或拖延的反应。如今的压力，已不仅仅来自工作和家庭，更源于我们每天被网络、3C社群平台和即时讯息的轰炸。现代人生活在一个没有真正空白的生活节奏中，注意力永远处于备战状态。

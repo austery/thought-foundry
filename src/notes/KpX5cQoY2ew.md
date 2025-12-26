@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 自民党
@@ -29,10 +29,7 @@ people:
 - 温家宝
 - 董军
 - Rahm Emanuel
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KpX5cQoY2ew
 speaker: 三個水槍手
@@ -45,7 +42,6 @@ tags:
 - wolf-warrior-diplomacy
 title: “斩首高市”风波：薛剑言论如何引爆中日外交危机与台海局势新变数？
 ---
-
 ### 薛剑“斩首”言论风波：会被驱逐吗？
 
 最近，中日关系因中国驻大阪总领事薛剑的惊人言论而再起波澜。这期节目我们必须深入探讨此事。首先，一个直接的问题是：薛剑因此番言论被日本驱逐出境的可能性有多大？

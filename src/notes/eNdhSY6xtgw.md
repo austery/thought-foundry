@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 新华社
@@ -26,10 +26,7 @@ people:
 - Donald Trump
 products_models:
 - USMCA
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eNdhSY6xtgw
 speaker: 莊也雜談
@@ -43,7 +40,6 @@ tags:
 - trade-war-impact
 title: 加中关系破冰：一次关键通话背后的合作与挑战
 ---
-
 ### 加中关系：从模范生到冰点
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天，我们来聊一聊加中关系。曾几何时，加中关系是中国与西方国家中的模范生。从1970年建交到2016年高层频繁互访，两国合作顺风顺水，贸易额也节节攀升。然而，一场突如其来的**孟晚舟事件**（指2018年底华为公司CFO孟晚舟在加拿大被捕，引发的中加外交危机），像一块巨石砸进湖面，激起了持续6年的政治涟漪，最终让双方陷入前所未有的僵局。

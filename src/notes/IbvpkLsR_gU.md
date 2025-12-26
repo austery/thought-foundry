@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-08'
@@ -22,10 +22,7 @@ people:
 - Vance
 products_models:
 - Tesla
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IbvpkLsR_gU
 speaker: 记者易速利
@@ -39,7 +36,6 @@ tags:
 - political-strategy
 title: 2026年中期选举前瞻：特朗普的经济策略、民主党内部分歧与选区重划的深远影响
 ---
-
 ### 近期选举结果与特朗普的挑战
 
 刚刚结束的非周期性选举中，民主党取得了规模和气势兼具的胜利，这与**特朗普**（Donald Trump: 美国前总统）第一任期上任后的2017年情况颇为相似。当时，民主党出现了强劲反弹，选民对特朗普有所疏远。随后在2018年的**中期选举**（Midterm Elections: 指美国总统任期中段举行的国会及部分地方选举）中，民主党掀起了一股“**蓝潮**”（Blue Wave: 指美国民主党在选举中取得显著胜利的现象），一批女性在国会选举中脱颖而出。民主党在众议院竞争41席，夺回了多数党地位，**佩洛西**（Nancy Pelosi: 美国前众议院议长）重新担任议长。然而，在参议院，共和党扩大了差距，保持了多数党地位。

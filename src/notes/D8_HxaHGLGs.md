@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-09-08'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - best-partners-tv
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D8_HxaHGLGs
 speaker: Best Partners TV
@@ -26,7 +24,6 @@ tags:
 - system
 title: 12-Factor Agents：构建生产级AI Agent的十二个核心原则
 ---
-
 ### 引言：从概念到落地的Agent挑战
 
 AI行业的朋友们普遍感觉到，**Agent**（Agent: 一种能够感知环境、进行决策并执行行动以达成特定目标的软件实体）正在从概念走向实际落地。然而，要让Agent从“能跑起来”进化到“能稳定用起来”，中间仍存在一道巨大的鸿沟。今天将探讨的“**12-Factor Agents**”（12-Factor Agents: 一套用于构建生产级AI Agent的设计原则），即Agent的十二个设计原则，正是为了填平这道鸿沟而生。

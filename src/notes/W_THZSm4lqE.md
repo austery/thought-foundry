@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-11'
@@ -10,11 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- china-analysis
-- cultural-critique
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=W_THZSm4lqE
 speaker: Bloomberg Podcasts
@@ -27,7 +23,6 @@ tags:
 - us-china-relations
 title: 从1980年代的日本恐慌看今日的中国焦虑
 ---
-
 ### 引言：今日中国焦虑与昔日日本恐慌
 
 Hello and welcome to another episode of the Odd Lots podcast.

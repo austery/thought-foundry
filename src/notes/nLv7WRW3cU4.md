@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -20,10 +20,7 @@ people:
 - John Roberts
 - Clarence Thomas
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nLv7WRW3cU4
 speaker: New York Times Podcasts
@@ -37,7 +34,6 @@ tags:
 - tariff-authority
 title: 最高法院对特朗普关税权力的质疑
 ---
-
 ### 最高法院审理特朗普关税案
 
 周三，最高法院就其本届会期最受关注的案件进行了辩论，该案关乎总统是否有权征收一个世纪以来最高的关税。

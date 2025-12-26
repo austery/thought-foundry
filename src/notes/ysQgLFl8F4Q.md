@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 武汉大学
@@ -24,10 +24,7 @@ people:
 - 赵紫阳
 - 张居正
 products_models: []
-project:
-- historical-insights
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ysQgLFl8F4Q
 speaker: 柴静 Chai Jing
@@ -41,7 +38,6 @@ tags:
 - politics
 title: 野夫：六四告密案、背叛与历史的审判
 ---
-
 ### 引言：未曾触及的伤痛
 
 我认识这位作者很多年了。但有一件事我们从未面对面谈过，那就是她1989年六四之后被释放，又成为囚犯的经历。这是她写作的核心，也是她生命的核心。但我从未问过。我总觉得那份痛苦太深，朋友之间似乎不便触及。但又觉得不可回避，所以最近也附在台湾做访问学者，借这个机会，我们来把这个故事完成。

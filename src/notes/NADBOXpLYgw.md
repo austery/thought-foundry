@@ -24,10 +24,7 @@ people:
 - 吉米·卡特
 - 亨利·基辛格
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NADBOXpLYgw
 speaker: 东京人文论坛
@@ -40,7 +37,6 @@ tags:
 - theory
 title: 美国民主在衰退吗？刘宗坤律师的历史与多维度解析
 ---
-
 ## 开场介绍：刘宗坤律师
 
 宜中: 大家好，今天是我们这个系列的第六场活动，也就是最后一场，是压轴。这个系列是东京大学综合文化研究科跟东京人文论坛合办的。

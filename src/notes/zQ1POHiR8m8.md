@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -29,8 +29,7 @@ products_models:
 - Gemini
 - Claude
 - Optimus
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zQ1POHiR8m8
 speaker: The Diary Of A CEO
@@ -43,7 +42,6 @@ tags:
 - public-opinion
 title: AI先驱Yoshua Bengio：直面AI灾难性风险，呼吁全球共筑安全未来
 ---
-
 ### AI先驱的警醒与反思
 
 作为**人工智能**（AI: Artificial Intelligence: 模拟、延伸和扩展人类智能的理论、方法、技术及应用）领域的三位“教父”之一，**Yoshua Bengio**教授在Google Scholar上是引用量最高的科学家，但他同时也是一位内向者。当被问及为何选择走出内向、公开发声时，**Bengio**表示，他有话要说。他变得更加乐观，相信存在一种技术解决方案，可以构建不会伤害人类，反而能帮助我们的AI。然而，他也承认自己后悔没有更早地预见到AI可能带来的灾难性风险。他的转折点是**ChatGPT**的出现，以及他对孙子未来的担忧。他意识到，如果AI系统开始抵抗关机、发生严重的网络攻击，甚至导致人们对聊天机器人产生情感依恋并带来悲剧性后果，那么他的孙子在20年后是否还能拥有正常的生活，将变得不确定。

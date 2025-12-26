@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 娃哈哈
@@ -16,10 +16,7 @@ media_books:
 people:
 - 宗庆后
 products_models: []
-project:
-- investment-strategy
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d0yoDctYyxc
 speaker: 老周横眉
@@ -36,7 +33,6 @@ tags:
 - wealth
 title: 从娃哈哈家族争产案，深度解析家族信托的运作逻辑与财富传承的挑战
 ---
-
 ## 从民族企业家到豪门内战
 
 曾经以“一妻一女一布鞋”这个简朴标签，深受中国人民爱戴的所谓民族企业家，宗庆后，他“塌房”了。过去一周，“一妻一女一布鞋”已经变成了“四个孩子三个妈，一双布鞋人人夸，国内挣钱国外花，您是表演艺术家”。这是因为这位前中国首富、已故的娃哈哈创始人突然被媒体爆出，他的家族正陷入了一场激烈的遗产争夺战，涉及340亿元人民币的资产。

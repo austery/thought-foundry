@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中共
@@ -20,10 +20,7 @@ people:
 - 钱学森
 - 杨振宁
 - Otto Hahn
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TmBnEmT4FPQ
 speaker: 夸克说
@@ -37,7 +34,6 @@ tags:
 - thinking
 title: 中国诺贝尔奖困境：战时思维与创新抑制
 ---
-
 ### 日本诺奖井喷与中国的反思
 
 大家好，欢迎收看夸克说，我是夸克。过去的一周，瑞典皇家科学院陆续公布了本年度的诺奖名单。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 新东方
@@ -24,9 +24,7 @@ products_models:
 - Netflix
 - ChatGPT
 - iPhone
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4ctxs8rM91U
 speaker: 莊也雜談
@@ -40,7 +38,6 @@ tags:
 - safety
 title: 在中国安全翻墙的三大守则及真实案例警示
 ---
-
 ### 引言：中国互联网的“灰色地带”
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊回国的话题。上集我们讨论了外籍人士去中国是否需要在24小时内向当地派出所报备的问题，得到了无数网友的关注和反馈。大家在视频下方积极留言，我本人也从中补充了不少有用的信息，受益匪浅，增长了不少知识，再次感谢大家。本集节目，我们将继续以干货为主，主要讲解外国人抵达中国后的信息获取问题，说白了就是**翻墙**。

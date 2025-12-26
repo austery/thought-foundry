@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 路透社
@@ -35,10 +35,7 @@ people:
 products_models:
 - 抖音TikTok
 - 原料药API
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=r-zAoxRtx3I
 speaker: LT視界
@@ -52,7 +49,6 @@ tags:
 - us-china-relations
 title: 中美贸易战关键节点：习近平的“核选项”与军队清洗
 ---
-
 ### 中美贸易战进入关键阶段
 
 我们首先来了解有关中美贸易战的七个方面的最新信息。

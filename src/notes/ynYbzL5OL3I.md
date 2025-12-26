@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国
@@ -21,10 +21,7 @@ people:
 - René Descartes
 - Donald Trump
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ynYbzL5OL3I
 speaker: 超級歪 SuperY
@@ -37,7 +34,6 @@ tags:
 - philosophy
 title: 《阿凡達》：深度生態學、原住民哲學與對資本主義文明的批判
 ---
-
 ### 《阿凡達》：西方文明與非西方社會的對比
 
 今天我們將深入解析電影**《阿凡達》**（Avatar）第一集。**《阿凡達》**的故事講述了2154年，人類發現潘多拉星球，為了開發當地的稀有礦藏，人類化身為**納美人**（Na’vi: 潘多拉星球的原住民）偵查當地原住民社會。男主角傑克·薩利（Jake Sully）代替哥哥，開始受訓加入潘多拉計劃。電影中有一段對話，描述了潘多拉星球的危險：「在那道護欄後面，任何活的東西，不論天上飛的地上爬的，都想把你生吞活剝地吃了。這裡有一群叫納美人的原住民族，他們喜歡在弓箭上塗上神經毒素，讓你的心跳在一分鐘內停止。」

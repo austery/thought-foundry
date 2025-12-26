@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-03'
@@ -22,7 +22,6 @@ tags:
 - xenophobia
 title: K签证风波：中国吸引人才的战略困境与民意博弈
 ---
-
 ### 引言：K签证引发的网络风波
 
 主持人: 所谓“国庆节”之前，民意出现巨大波动。我们今天要聊的就是**K签证**（K visa: 一种允许外国人在中国特定行业寻求就业机会的签证），这个K签证就像历史的轮回，不断冲击着中国普通人的心灵，真的是网络超级大翻车。

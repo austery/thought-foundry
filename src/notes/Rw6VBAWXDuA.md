@@ -18,9 +18,7 @@ draft: true
 series: ''
 category: politics-society
 area: society-thinking
-project:
-  - china-analysis
-  - ai-impact-analysis
+project: []
 people:
   - 習近平
   - 高市早苗

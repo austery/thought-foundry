@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -14,9 +14,7 @@ products_models:
 - Llama
 - GPT-2
 - GPT-3
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=12v5S1n1eOY
 speaker: AI Engineer
@@ -30,7 +28,6 @@ tags:
 - platform
 title: Box公司CTO Ben Kuss：构建代理式AI平台——Box的AI代理之旅
 ---
-
 ### Box的AI代理之旅：从非结构化内容到智能平台
 
 大家好。我是Box公司的**CTO**（Chief Technology Officer: 首席技术官）Ben Kuss。

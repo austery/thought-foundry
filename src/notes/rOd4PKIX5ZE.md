@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-11'
@@ -11,10 +11,7 @@ media_books: []
 people:
 - lt
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rOd4PKIX5ZE
 speaker: LT視界
@@ -28,7 +25,6 @@ tags:
 - us-china-relations
 title: 中美贸易冲突骤然升级：北京为何在四中全会前引爆对美经济战？
 ---
-
 ### 中美冲突升级引爆全球资本市场：投资者的初步反应
 
 2025年10月11日，中美关系突然发生剧烈冲突，给全球市场带来了显著影响。此事件发生在中美两国元首原定会晤前夕，中共选择在最不该让局势失控的四中全会前夕引爆中美冲突，其背后意图引发广泛关注。

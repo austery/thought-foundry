@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Intel
@@ -23,10 +23,7 @@ products_models:
 - 18A
 - 14A
 - TLT
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=B9bkGvtXabg
 speaker: 投资TALK君
@@ -40,7 +37,6 @@ tags:
 - us-china-relations
 title: 英特尔财报深度解析：技术迭代、AI战略与中美谈判对市场的影响
 ---
-
 各位观众大家好，欢迎来到一个即使昨天只睡了4个小时，今天还是元气满满，在凌晨为大家做视频的专业美股频道。我是市场分析员小涛。今天主要和大家聊一下周四盘后发布财报的英特尔。
 
 ### 市场概览与投资策略

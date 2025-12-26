@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - DoorDash
@@ -28,9 +28,7 @@ products_models:
 - Facebook
 - Instagram
 - WhatsApp
-project:
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-70xtYBgLG8
 speaker: Norges Bank Investment Management
@@ -44,7 +42,6 @@ tags:
 - startup-growth
 title: DoorDash CEO徐迅达：从美国梦到全球配送巨头，一位创业者的成长与思考
 ---
-
 ### 美国梦的缩影：一位创业者的非凡旅程
 
 今天，我与**DoorDash**（DoorDash: 美国最大的第三方外卖平台）的首席执行官徐迅达（Tony Xu）坐在一起。他的人生经历非常令人惊叹：年幼时从中国来到美国，努力工作，做过各种各样的工作，最终考入**斯坦福**（Stanford: 位于美国加利福尼亚州的私立研究型大学），创立了这家令人难以置信的公司，如今它已成为美国最大的食品配送公司，并即将征服世界，创造了数十亿美元的财富，其中大部分用于慈善事业。可以说，我正坐在一个活生生的“**美国梦**”（American Dream: 指通过努力工作、勇气和决心，在美国取得成功和繁荣的信念）面前。

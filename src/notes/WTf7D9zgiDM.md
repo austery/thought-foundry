@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 华尔街
@@ -16,10 +16,7 @@ people:
 - 毛
 products_models:
 - '[]'
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WTf7D9zgiDM
 speaker: 徒步的騎手
@@ -33,7 +30,6 @@ tags:
 - us-china-relations
 title: 中国经济下沉年代：趋势、挑战与国民心态的深层分析
 ---
-
 ### 理解时代趋势：从个别事件到整体脉络
 
 许多人都在追问，这样的下沉趋势还要持续多少年？在审视现实问题时，人们最容易犯的错误就是被个别事件牵着鼻子走。很多事件的发生具有偶然性，对历史学有所了解的人都知道，审视历史不能只看一个一个单独发生的事件，而是要关注不同时段形成的趋势，我们称之为“时代”。理解历史是如此，理解现实也是同样的道理。更明确地说，要理解我们所生活的现实世界，不能只看一个一个单独发生的个别事件，而是要观察同一时段内不同事件共同形成的趋势。只有这样，我们才能对所处的时代有一个大致不离谱的判断。回顾过去十年中国密集发生的各种大大小小的事件，这个趋势已经十分清晰。

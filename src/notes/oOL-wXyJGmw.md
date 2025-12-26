@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - NVIDIA
@@ -39,10 +39,7 @@ people:
 - Elon Musk
 products_models:
 - TPU
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oOL-wXyJGmw
 speaker: Money or Life 美股频道
@@ -56,7 +53,6 @@ tags:
 - market-bubble
 title: AI基础设施是否存在泡沫？黄仁勋深度解析与投资策略
 ---
-
 ### AI基础设施的泡沫之辩与黄仁勋的视角
 
 欢迎来到Money or Life美股频道。本期视频将深入探讨**AI基础设施**（AI Infrastructure: 指支持人工智能模型训练、部署和运行所需的硬件、软件和服务，包括GPU、数据中心、云服务等）领域是否存在泡沫。希望通过本次讨论，观众能对AI基础设施的现状及未来发展有更深刻的理解。订阅本频道，您将获得AI基础设施、太空及其他热门板块的个股分析和实时消息解读。

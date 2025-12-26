@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 摩根斯坦利
@@ -22,10 +22,7 @@ people:
 - Doug Ford
 - 里根
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=N9YAv0b5ZKw
 speaker: LT視界
@@ -39,7 +36,6 @@ tags:
 - trade-policy
 title: 华尔街日报预测美元将大幅贬值，人民币有望升值：全球经济与贸易动态分析
 ---
-
 ### 全球财经头条：美元贬值与人民币升值预测
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月1日，我们首先来了解今天的财经头条。我们分享《华尔街日报》今天的报道，摩根斯坦利预计美元将在明年年底大幅下跌。这个报道之所以值得大家了解，它直接就给出了一个耸人听闻的判断：假如到明年底美元大幅下跌的话，那么相对于人民币及其他几个主要货币，它就存在一种大幅升值的可能。所以这个报道它不仅对于投资于美国、投资美元计价的资产的网友非常值得关注，同时对生活在世界各地的网友，由于**美元指数**（U.S. Dollar Index: 衡量美元兑一篮子主要货币汇率变化的指标）的大幅变化，对你所生活的国家和地区的货币会带来重大影响，也值得这些网友来关注。

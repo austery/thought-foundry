@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -38,10 +38,7 @@ people:
 - Mao Ning
 - Mao Zedong
 - Deng Xiaoping
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=A6VhRM1t8XM
 speaker: LT視界
@@ -55,7 +52,6 @@ tags:
 - us-tariff
 title: 华尔街关注OpenAI囚徒困境，川普关税面临高院考验，中共裸官整治与中美关系新动向
 ---
-
 ### OpenAI与科技巨头的“囚徒困境”
 
 今天，华尔街广泛关注的焦点是人工智能巨头**OpenAI**（一家人工智能研究机构）与亚马逊签署了一份价值380亿美元的云端服务协议。据《华尔街日报》报道，这份多年期运算能力协议标志着双方建立了合作关系，旨在满足OpenAI快速增长的运算需求，亚马逊预计所有协商的运算能力将于明年年底交付。亚马逊此举也面临投资者压力，要求加快旗下**亚马逊网络服务公司**（Amazon Web Services, AWS: 亚马逊旗下的云计算服务平台）的云端业务增长，因为近年来微软、谷歌等竞争对手在满足人工智能客户新需求方面的云端业务收入增长速度更快。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-12-04'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 people:
 - 马兴瑞
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SxWkj6EW7ps
 speaker: FearNation 世界苦茶
@@ -26,7 +23,6 @@ tags:
 - strategy
 title: 新疆官场地震：陈伟俊落马与马兴瑞缺席背后的治疆逻辑断裂与重组
 ---
-
 ### 新疆官场突发地震：陈伟俊落马与马兴瑞缺席
 
 今天我们探讨的是新疆突发的官场地震，我们将把所有细节说明白。我们要把目光投向中国西北，聊一聊2025年11月底在新疆发生的一场毫无预兆但影响深远的政治地震。这不仅仅是几个人事变动的问题，它背后折射出的是过去10年中国治疆逻辑的一次剧烈断裂和重组。

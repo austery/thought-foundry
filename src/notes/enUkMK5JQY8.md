@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Red Hat
@@ -13,8 +13,7 @@ layout: post.njk
 products_models:
 - Rust
 - C
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=enUkMK5JQY8
 speaker: The Pragmatic Engineer
@@ -29,7 +28,6 @@ tags:
 - memory
 title: 为何 Rust 正逐步融入 Linux 内核：挑战、机遇与未来
 ---
-
 ### Rust 在 Linux 内核中的现状与初步尝试
 
 关于 Rust 是否会在 Linux 中得到支持，以及未来是否会超越 C 语言进行开发，这是一个值得探讨的问题。事实上，Linux 内核中已经存在约 25,000 行 Rust 代码。在最新的内核版本中，当内核崩溃时，会显示一个二维码，用户可以通过扫描该二维码获取崩溃的详细信息，而生成这个二维码的代码就是用 Rust 编写的。

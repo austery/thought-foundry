@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Norges Bank Investment Management
@@ -17,10 +17,7 @@ people:
 - Reed Hastings
 - John
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4XGiNB00wIs
 speaker: Norges Bank Investment Management
@@ -34,7 +31,6 @@ tags:
 - strategy
 title: 艾琳·迈耶谈跨文化管理：沟通、信任与领导力的八个维度
 ---
-
 ### 播客开场与《文化地图》的灵感来源
 
 主持人: 大家好，欢迎收听我们的播客《In Good Company》。今天我们邀请到一位特别嘉宾，艾琳·迈耶（Erin Meyer），她是全球领先的跨文化管理专家之一，也是我最喜欢的书之一《文化地图》（The Culture Map）的作者。艾琳，是什么启发您写这本书的呢？

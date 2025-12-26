@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies:
 - intellectual-property
@@ -16,10 +16,7 @@ people:
 - 老尹
 - 索隆
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=taEPUx9loic
 speaker: 北美王路飞
@@ -32,7 +29,6 @@ tags:
 - society
 title: 编剧行规不能凌驾于自然财产权之上：以《繁花》谷二事件为例的著作权法律分析
 ---
-
 ### 《繁花》谷二事件：行业行规与著作权争议
 
 老尹制作的《繁花》系列节目，其特点在于强烈的个人特色，与众多大V的视角截然不同。上一集节目中，我们曾用四个词概括了故事梗概：**洗稿**（Plagiarism: 抄袭或不当借鉴他人作品），强行抢夺谷二的劳动成果，对谷二进行**PUA**（Pick-Up Artist: 原指搭讪艺术家，此处引申为通过情感操控使人顺从），以及对这位年轻编剧进行人格羞辱。最终，国内民间的舆论几乎一边倒地支持谷二，批评王家卫和秦文等业界大佬。这表明，只要不涉及政治敏感话题，国内朋友的**三观**（价值观、人生观、世界观）还是相当正的，这一点令人欣慰。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - New York Times
@@ -21,10 +21,7 @@ people:
 - Robert F. Kennedy Jr.
 - Elon Musk
 products_models: []
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eSwJmsHGrns
 speaker: New York Times Podcasts
@@ -38,7 +35,6 @@ tags:
 - resource-allocation
 title: 自闭症诊断的困境：不断扩大的定义与资源分配的挑战
 ---
-
 ### 自闭症诊断率的惊人增长与误解
 
 来自《纽约时报》，我是瑞秋·艾布拉姆斯，这里是《The Daily》。小罗伯特·F·肯尼迪多次将自闭症发病率的飙升视为其作为卫生与公众服务部部长的核心使命。他将责任归咎于从泰诺到疫苗的一切，最近他指示疾病控制与预防中心（**CDC**：美国疾病控制与预防中心）放弃其长期以来的立场，即疫苗不会导致自闭症。然而，尽管近几十年来自闭症的发病率有所增加，但其原因比肯尼迪所呈现的更为复杂。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -18,10 +18,7 @@ media_books:
 - In Good Company
 - IAA
 - Women for Leaders
-project:
-- ai-impact-analysis
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y8dG0w2ints
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - leadership-development
 title: 戴姆勒卡车CEO Karin Rådström：百年巨头的电动化、自动驾驶与文化转型之路
 ---
-
 ### 戴姆勒卡车：全球商用车巨头的转型之路
 
 今天，我们非常荣幸地邀请到戴姆勒卡车公司（Daimler Truck）的首席执行官兼总裁Karin Rådström。戴姆勒卡车是全球最大的商用车生产商。Karin最近被评为瑞典最重要的女商人，她正在戴姆勒卡车推动公司从传统的柴油车巨头转型为面向未来的移动出行强企。Karin结合了工程学背景和精英体育背景，我们向她表示热烈欢迎。

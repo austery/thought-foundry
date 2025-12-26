@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 澜起科技
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - DDR5
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VzwntRIZq3w
 speaker: 海淀拙大叔
@@ -27,7 +25,6 @@ tags:
 - market
 title: 澜起科技的投资逻辑：高增长能否持续至2026年后？
 ---
-
 ### 澜起科技投资逻辑的核心问题
 
 阿甘公司研究论第19集的第二部分，本文将探讨**澜起科技**（Montage Technology: 一家专注于内存接口芯片和高性能计算芯片的中国公司）的投资逻辑是否依然存在。我们曾提到，在跟进分析一家公司时有三个关注点。首先，公司的增长是否符合之前的投资逻辑，这一点在上一期已讨论过，结论是符合的。其次，当前的投资逻辑是否能持续存在？最后，未来的市值天花板在哪里？这里的“投资逻辑是否存在”核心是探讨其高增长能否继续。要回答这个问题，我们需要先拆分澜起科技的业务构成。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 东京大学
@@ -20,9 +20,7 @@ people:
 - 赵紫阳
 - 江泽民
 products_models: []
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OjuDdFniNhI
 speaker: 东京人文论坛
@@ -36,7 +34,6 @@ tags:
 - wealth
 title: 周保松：社会福利是否必然牺牲个人自由？——来自左翼自由主义的解答
 ---
-
 ### 引言：一个核心的争论
 大家好，很高兴今天有机会来做这个报告。我现在人在香港，非常抱歉不能亲自来到东京。我非常喜欢东京，也经常过去，但因为明天需要上课，所以无法亲临现场，在此先向大家致歉。
 

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 东京人文论坛
@@ -30,9 +30,7 @@ people:
 - 陈胜
 - 吴广
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bgpW3gi8a2U
 speaker: 东京人文论坛
@@ -45,7 +43,6 @@ tags:
 - self
 title: 伍雷：如何在海外建立华人社区与公民社会？——以东京人文论坛的实践为例
 ---
-
 ### 引言：海外华人的社区困境与东京的尝试
 
 谢谢各位，我希望今天能利用这个宝贵的时间，与大家做一些分享。每一个来到海外的中国人，除了生存问题，首当其冲可能就是社区问题。东京人文论坛似乎正在对这个问题做出回应。今天，我想用大约40到60分钟的时间，快速介绍一下东京人文论坛在做什么，我们遇到了哪些问题，并希望能和朋友们一同探讨。在后一个小时，我们可以针对我提出的10个问题进行深入讨论。

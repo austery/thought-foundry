@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 date: '2025-08-14'
 draft: true
@@ -8,8 +8,7 @@ insight: ''
 layout: post.njk
 products_models:
 - P300腦波
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=33rRFkLw2XY
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -22,7 +21,6 @@ tags:
 - regulation
 title: 運動如何點亮大腦：科學實證強化記憶、改善情緒的運動策略
 ---
-
 ### 運動點亮大腦：舒爾特方格測驗與科學啟示
 
 今天我們來玩一個實驗，測測你的大腦能不能動起來。現在畫面上出現的是**舒爾特方格**（Schulte Grid: 一種用於測量和訓練注意力、視覺搜索速度和認知靈活性的心理測驗），你的任務是從1開始找到25，看看你能在幾秒內完成。請按下暫停，計時看看你花了幾秒，並記住這個秒數。現在請你站起來，原地跳30下，要有點喘、心跳加快的那一種。跳完後深呼吸一下，我們進行第二次挑戰。現在畫面出現第二張新的舒爾特方格，同樣的方法從1數到25，看看這次你能不能更快？你覺得是不是變得比較專注、比較快了呢？這就是我們今天要說的主題：運動真的會及時點亮你的大腦。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - ByteDance
@@ -12,9 +12,7 @@ media_books:
 - 《石铁生散文集》
 - 知行小酒馆
 - 有知有行APP
-project:
-- personal-growth-lab
-- fire-movement
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yWS7C6kUUt8
 speaker: 知行小酒馆
@@ -29,7 +27,6 @@ tags:
 - psychology
 title: 有钱真好：六个普通人的生活修复时刻
 ---
-
 ### 金钱与生活：六个普通人的修复故事
 
 当不再被金钱所困扰，或者终于不再被钱推着走的时候，有没有那么一刻，你突然觉得“有钱真好”？这句话听上去可能有些俗气，但它几乎在每个人的生活中都发生过。这一次，我们收到了上百份听友投稿，从中选出了六个故事。它们来自不同的背景，但都在用自己的方式来回答一个问题：有钱真好，到底好在哪？

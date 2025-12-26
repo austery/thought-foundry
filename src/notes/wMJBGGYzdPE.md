@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Tesla
@@ -29,8 +29,7 @@ products_models:
 - Gemini
 - Atlas
 - Neo
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wMJBGGYzdPE
 speaker: 记者易速利
@@ -44,7 +43,6 @@ tags:
 - social-impact
 title: 马斯克的人形机器人Optimus：从颠覆就业市场到情感陪伴的未来展望与挑战
 ---
-
 ### 特斯拉机器人现状与愿景
 
 I'm here at the brand-new **Tesla diner** in Hollywood, California, and this is not your typical easy charging experience. The **Tesla diner** has 80 charging stations, two giant movie screens and classic American comfort food. 在洛杉矶的**特斯拉**餐厅里头，**类人机器人**（humanoid: 模仿人类外形和行为的机器人）**Optimus**可以完成端饮料、送爆米花的工作，也可以跳舞、玩石头剪刀布的游戏，逗到访者高兴。I hope the robots available for me to get decent prices are proud will give. It is pretty good. And I was very impressed by the robot serving popcorn. **Optimus**足够吸引镜头也足够安全。至于说真正复杂的决策和应变，大多数还需要人类在后台像拉线木偶一样操控。换句话说，**Optimus**更像是一位穿着未来外壳的实习生，台前表演很卖力，后台其实一直需要人操心。Its outer shell has been redesigned with smoother lines, joints are neatly covered, and fewer exposed wires can be seen. The design language has shifted from a boxy look to a more rounded and softer form, giving it a friendlier appearance and making it look more like a finished product rather than a test prototype.

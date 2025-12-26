@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - JPMorgan Chase
@@ -21,9 +21,7 @@ people:
 - John Kenneth Galbraith
 - Mark Twain
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aGmhlYueNlQ
 speaker: 北美王路飞
@@ -38,7 +36,6 @@ tags:
 - private-credit
 title: 2万亿美元的“盲盒”：私人信贷会是下一个次贷危机吗？
 ---
-
 ### 麻烦的前兆：厨房里的蟑螂与煤矿里的金丝雀
 
 想象一下，当你半夜走进厨房，打开灯，在这个干净昂贵、看起来完美无缺的房子里，你突然在地板上看到一只蟑螂匆匆跑过。你当下的反应是什么？是恶心吗？不，不仅如此，真正的恐惧在于你的潜意识告诉你，如果你看见一只，那么在你看不见的墙缝里、橱柜后可能已经藏了一整窝了。

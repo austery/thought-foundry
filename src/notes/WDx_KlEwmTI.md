@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: education
 date: '2025-07-21'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《中庸》
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WDx_KlEwmTI
 speaker: 一席YiXi
@@ -25,7 +22,6 @@ tags:
 - psychology
 title: 教育的另一条路：从应试深渊到目标引领的农村改革实践
 ---
-
 ### 教育的伤痕：当分数成为唯一尺度
 
 我叫李果，来自黑龙江省泰来县大兴镇中心学校。从1985年参加工作至今，我已在农村教育一线坚守了整整40年。这四十年里，我只做了一件事：寻找一种能真正符合每个学生成长需要、也对得起教育者良知的教育。

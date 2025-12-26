@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Oracle
@@ -20,10 +20,7 @@ media_books:
 - Financial Times
 - X
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1jCyA6XVdnw
 speaker: 投资TALK君
@@ -37,7 +34,6 @@ tags:
 - us-housing-market
 title: Oracle与Home Depot财报揭示市场信号：AI泡沫、楼市寒冬与投资策略
 ---
-
 ### 市场概览与避险情绪
 
 本期节目将主要探讨社交媒体上周二被广泛传播的一篇文章，该文章来自《金融时报》（Financial Times），内容关于**甲骨文公司**（Oracle: 全球大型企业级软件和硬件产品供应商）目前面临的挑战。文章深入分析了**甲骨文公司**的现状，并探讨了这是否与**AI泡沫**（AI bubble: 人工智能相关公司估值过高，脱离实际价值的现象）有关，以及是否提供了新的观点和数据。此外，节目还将讨论周二盘前发布财报的**家得宝**（Home Depot: 美国大型家居建材零售商），借此机会分析美国房地产市场的最新动态。

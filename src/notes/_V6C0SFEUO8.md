@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - NFL
@@ -12,9 +12,7 @@ layout: post.njk
 media_books:
 - olympic-game
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_V6C0SFEUO8
 speaker: TED
@@ -27,7 +25,6 @@ tags:
 - society
 title: 腰旗橄榄球：女性运动的崛起与体育平权的未来
 ---
-
 ### 体育梦想的平等机会
 
 如果你的孩子对他们热爱的事物充满热情、动力和技能，但却无法获得参与的机会，那会怎样？

@@ -38,9 +38,7 @@ people:
 - 马云
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YMfd3EoHfPI
 speaker: Dwarkesh Patel
@@ -55,7 +53,6 @@ tags:
 - society
 title: 斯大林如何成为史上最强大的独裁者
 ---
-
 我的嘉宾是**史蒂芬·科特金**（Stephen Kotkin: 知名历史学家，胡佛研究所高级研究员），他是胡佛研究所的高级研究员，也是他三卷本斯大林传记中已完成三分之二的作者。第一本是**《斯大林：权力悖论》**，第二本是**《斯大林：等待希特勒》**。感谢您来到我的播客。感谢您的邀请。
 
 ### 沙皇政权的压迫与现代化困境

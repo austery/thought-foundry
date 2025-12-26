@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-03-05'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《一席》
 products_models: []
-project:
-- historical-insights
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iVFnKytQgNc
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - system
 title: 从苦难出发：紧急求助平台如何重塑灾害应对的常识与确定性
 ---
-
 ### 灾难中的信息迷雾：当常识失效时
 
 大家好，我叫郝南。我的工作是应对灾害。从汶川地震开始，我已经从事这项行业16年了——最初是一名志愿者，专业从事灾害响应已有整整10年。2010年，在玉树地震中，我和伙伴们共同创立了“卓明”。十五年来，我们响应了超过200次灾害。

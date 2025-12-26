@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - the-knowledge-project-podcast
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zyw1HVOqpCQ
 speaker: The Knowledge Project Podcast
@@ -25,7 +23,6 @@ tags:
 - technology
 title: 巴里·迪勒：从好莱坞大亨到科技浪潮——本能、品牌与AI时代
 ---
-
 ### 序言：成功与失败的教训
 
 Host: Success teaches you nothing, but failure sure teaches you a lot. You've worked with some of the biggest egos in Hollywood and some of the most ruthless tycoons. I'm wondering if you can spend a few minutes on the lessons you've learned about ego and power. Barry Diller is a legendary media mogul, businessman, and investor. He is the chairman and senior executive of IA and is best known for co-founding the Fox Broadcasting Company with Rupert Murdoch and leading Paramount Pictures. Over his career, he has reshaped television, film, and online media. He remains one of the most influential figures in business and entertainment today.

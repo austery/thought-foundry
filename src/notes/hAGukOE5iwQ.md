@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-08'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hAGukOE5iwQ
 speaker: 金融汪
@@ -22,7 +21,6 @@ tags:
 - power
 title: 美国能源部长专访：战略石油储备、乌克兰矿产协议与核电站前景
 ---
-
 ### 能源生产与许可流程
 
 Original English sentence(s) from the transcript.

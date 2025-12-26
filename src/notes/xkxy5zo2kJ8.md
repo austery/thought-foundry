@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xkxy5zo2kJ8
 speaker: Dwarkesh Patel
@@ -23,7 +22,6 @@ tags:
 - war
 title: 战后重建的对比：日本、德国与阿富汗、伊拉克
 ---
-
 ### 重建对比
 After **World War II**, our occupations of **Japan** and **Germany** were very successful in rooting out the toxic ideologies and completely **transforming the society and culture**. Whereas, you know, **Afghanistan** and **Iraq**, we didn't have the same effect. What explains why those occupations were so much more successful? One is a case of **rebuilding institutions**, and the other one is **building them from scratch**. You can rebuild things rapidly. And if you think of after the war, how things were bombed out, and when **Western Europe**, and quite rapidly, they repaired buildings and things. So both **Germany** and **Japan** had an extensive list of **functioning institutions**, from local police officers' offices to educational systems to governments, local, provincial, etc., governments, and running the train systems and businesses, and all of this had been absolutely functional. And so finding the expertise to create that is easy. And of course, Germans and Japanese were living there, so they are very interested in rebuilding.
 

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -13,8 +13,7 @@ layout: post.njk
 people:
 - 宋晏仁醫師
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nRRtVqle8w4
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -26,7 +25,6 @@ tags:
 - psychology
 title: 健康零食大盘点：过年也能安心吃，营养师教你如何选
 ---
-
 ### 重新定义零食：健康与选择的平衡
 
 在上次关于**超加工食品**（Ultra-processed foods: 经过多重工业加工，通常含有大量添加糖、盐、不健康脂肪及人工添加剂的食品）的影片播出后，许多观众留言表示希望看到更多类似内容，甚至有人直接要求制作一期关于相对健康零食的节目。因此，本期节目旨在为大家盘点热门零食。主持人魏醫師首先指出，吃零食这件事基本上不可能完全健康，但希望通过本期节目，让大家以不同的视角认识这些零食。在了解它们之后，无论选择完全不吃、适量吃还是挑着吃，都是基于理解后做出的选择，从而重新建立与零食的关系。

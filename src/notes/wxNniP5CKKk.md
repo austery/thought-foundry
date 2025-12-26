@@ -10,8 +10,7 @@ layout: post.njk
 media_books: []
 products_models:
 - chatgpt
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wxNniP5CKKk
 speaker: 北美王路飞
@@ -22,7 +21,6 @@ tags:
 - neural-network
 title: Stephen Wolfram拆解ChatGPT本质：幻觉智能与文字接龙的奥秘
 ---
-
 ### ChatGPT本质的深度解析
 
 本期节目将深入探讨**ChatGPT**（Generative Pre-trained Transformer: 一种基于深度学习的语言模型）的本质。内容基于Stephen Wolfram于2023年发表的著作《ChatGPT在做什么以及它为什么能够成功》。主持人此前也曾制作过关于此书的节目，但因流量较低而未能广泛传播。现在重新制作，希望能为听众带来更深刻的理解。

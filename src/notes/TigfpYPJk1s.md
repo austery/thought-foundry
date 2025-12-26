@@ -28,9 +28,7 @@ products_models:
 - Colab
 - Transformers
 - PyTorch
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TigfpYPJk1s
 speaker: Hung-yi Lee
@@ -44,7 +42,6 @@ tags:
 - open-source-ai
 title: 一堂课搞懂生成式AI：从“文字接龙”原理到代码实战
 ---
-
 ### 课程概述：理解生成式AI背后的原理
 
 大家好，今天这堂课的目标是让大家一堂课搞懂生成式人工智慧的原理。我相信大家在日常生活中或多或少都有使用生成式人工智慧平台的经验，例如OpenAI的ChatGPT、Google的Gemini或是Anthropic的Claude。本课程希望让大家对这些生成式AI背后的运作原理有基本的认识。

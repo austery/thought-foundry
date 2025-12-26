@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - GIC
@@ -15,10 +15,7 @@ media_books:
 people:
 - Janet Yellen
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=e_KTv-8MZnA
 speaker: 小翠時政財經
@@ -32,7 +29,6 @@ tags:
 - us-china-relations
 title: 蔚来汽车财务造假疑云：新加坡主权基金GIC起诉中概股的深层影响
 ---
-
 ### 新加坡主权基金GIC起诉蔚来汽车：中概股面临的挑战
 
 美东时间2025年10月17日，中国造车新势力之一的蔚来汽车被**新加坡政府投资公司**（GIC: 新加坡最大的主权财富基金）起诉，引发了广泛关注。这起纠纷之所以值得重视，是因为这是首次由某个国家的**主权基金**（Sovereign Wealth Fund: 由国家政府持有和管理的投资基金）去起诉一家**中概股**（Chinese Concept Stocks: 在海外上市的中国公司股票）。鉴于中国企业历来存在财务造假的“传统”，如果这起事件处理不当，可能对整个中概股板块造成灾难性影响。本文将深入剖析蔚来汽车是否真的存在财务造假行为。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -19,10 +19,7 @@ people:
 products_models:
 - NASDAQ
 - S&P
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m9aA1ei9R4o
 speaker: Bloomberg Podcasts
@@ -36,7 +33,6 @@ tags:
 - tariff-impact
 title: 股市为何持续上涨？野村策略师深度解析市场非直觉动力与潜在风险
 ---
-
 ### 市场非直觉上涨：2025年的反常现象
 
 大家好，Odd Lots的听众们。你们即将听到一期非常特别的播客节目。这期节目是我们在6月26日纽约的现场活动中录制的。

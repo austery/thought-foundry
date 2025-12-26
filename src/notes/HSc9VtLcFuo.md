@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 富士康
@@ -32,10 +32,7 @@ people:
 - 胡锡进
 - 张维为
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HSc9VtLcFuo
 speaker: 东京人文论坛
@@ -48,7 +45,6 @@ tags:
 - state
 title: 李厚辰：理解中国社会转型，需从起点而非终点开始
 ---
-
 ### 引言：转型问题应从起点而非终点审视
 
 非常感谢大家，我们接下来讨论中国转型的问题。这次讨论与近期获得诺贝尔经济学奖的两本**制度经济学**（Institutional Economics: 研究制度如何影响经济行为和结果的经济学分支）著作——《国家为什么会失败》和《自由的窄廊》——密切相关。最近，围绕这两本书的讨论非常多，例如“不明白播客”对许成钢教授的访谈，就主要从《国家为什么会失败》的角度探讨了制度经济学问题。同时，正如伍雷律师所言，国内对这些观点的批判也早已开始。

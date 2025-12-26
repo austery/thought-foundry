@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: '[]'
 date: 2025-01-22
@@ -17,10 +17,7 @@ people:
 - V.S. Naipaul
 - Albert Einstein
 products_models: '[]'
-project:
-- personal-growth-lab
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=L-MEGePkUIs
 speaker: 徒步的騎手
@@ -34,7 +31,6 @@ tags:
 - time
 title: 垃圾时间，追求快乐：现代文明的普世信条与个人疗愈
 ---
-
 ### 垃圾时间，追求快乐：现代文明的普世信条
 
 去年开始，中文世界流行一个词，叫**垃圾时间**（Garbage Time: 指结局已定，普通人无能为力，只能等待时间流逝的时期）。结局既然已经注定，普通人无能为力，除了躺平，还能做点什么呢？其实，越是在历史的垃圾时段，人们越要追求快乐。

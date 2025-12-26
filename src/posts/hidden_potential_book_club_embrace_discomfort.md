@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 author: Lei
 category: psychology
 channel: ''
@@ -22,8 +22,7 @@ people:
 - Serena
 - Tracy
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: Hidden Potential
 source: ''
 speaker: 一口新饭读书会
@@ -33,7 +32,6 @@ tags:
 - 完美主义
 title: 《Hidden Potential》读书会：拥抱不适，打破完美主义，释放内在潜能
 ---
-
 ## 开场与下月书目介绍
 
 Ray: 不好意思，我刚才好像总是自动静音。小西瓜你是不是放假了？

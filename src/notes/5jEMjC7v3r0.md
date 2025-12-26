@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 清华大学
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《思考，快与慢》
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5jEMjC7v3r0
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - trust
 title: 到底谁在制造谣言？内容农场、剧本新闻与AI时代的认知危机
 ---
-
 ### 从“印度克隆村”开始：谣言是如何被构建的？
 
 我叫丁阳，是腾讯新闻较真平台的首席查证员。在中国，事实查证是一个非常小众的职业，大多数人甚至从未听说过它。

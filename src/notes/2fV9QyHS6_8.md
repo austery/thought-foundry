@@ -18,11 +18,7 @@ media_books:
 people:
 - 李文亮
 - Xi Jinping
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2fV9QyHS6_8
 speaker: 夸克说
@@ -35,7 +31,6 @@ tags:
 - systemic-corruption
 title: 香港大火：一场灾难背后的制度腐败、叙事之争与自治之殇
 ---
-
 大家好，欢迎收看夸克说，我是夸克。这期节目咱们讲讲前几天刚刚发生的香港大火，以及背后折射出来的一些更深层次的原因。2025年11月26日，香港大埔**鸿福院**（Hung Fook Court: 香港的一个住宅屋苑）发生了一场大火。截止到我写这篇稿子为止，官方通报的死亡人数已经达到了151人，30多人失联。这绝对是香港40多年来最严重的一次火灾。
 
 ### 灾难后的两种叙事

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: general
 companies_orgs:
 - Wire Cutter
@@ -15,8 +15,7 @@ people:
 - Christine Sir Cleette
 - Kyra Blackwell
 - Rosie Garren
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oD0Ig8Ku77U
 speaker: New York Times Podcasts
@@ -30,7 +29,6 @@ tags:
 - tool
 title: 如何成为一名居家能手：从基础工具到电动工具的进阶指南
 ---
-
 ### 节目开场与嘉宾介绍
 
 Christine Sir Cleette：我是Christine Sir Cleette。

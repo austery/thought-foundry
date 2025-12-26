@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Circle
@@ -17,9 +17,7 @@ people:
 - 李家超
 products_models:
 - 稳定币
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zYxNwO-TlBs
 speaker: 政經孫老師
@@ -33,7 +31,6 @@ tags:
 - regulation
 title: 香港稳定币浪潮：金融转型、港币终结与背后的利益博弈
 ---
-
 ### 引言：香港金融格局的深层变化
 
 今天我们来谈谈香港，但今天不打算说香港的政治，因为政治方面已经没什么好说的了。香港现在就是中国广东省的一个直辖市。我今天想说的是关于香港金融的一些事情，尤其是香港准备立法推出**稳定币**（Stablecoin: 一种旨在保持价格稳定的加密货币，通常与法定货币或其他资产挂钩）这个事情。这件事情引起了很多人的关注，我觉得它也象征着香港的金融结构正在改变，以及香港功能的一个变化。

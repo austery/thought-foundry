@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - 哈佛大学
@@ -18,9 +18,7 @@ people:
 - Arthur Brooks
 - Stephen Covey
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-5BXbTqfUbo
 speaker: 天下文化
@@ -34,7 +32,6 @@ tags:
 - value
 title: 掌握际遇变化，重塑职涯与人生：张安佐谈《重启人生》的领导智慧与心法
 ---
-
 ### 开启职涯新篇章：从《重啟人生》谈领导智慧
 
 **主持人:** 欢迎收听《对谈领导力》，本节目由领导影响力学院与天下文化共同出品。我是主持人梁晓华。今天我们再次邀请到好朋友，前明基亚太的张安佐总经理来到节目中。今天您要推荐的书是这本叫做**《重啟人生》**（From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life: 一本探讨如何在人生下半场找到幸福、目标和新高峰的著作）。

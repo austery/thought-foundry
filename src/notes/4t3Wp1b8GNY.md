@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -23,8 +23,7 @@ products_models:
 - Gemini 3
 - Sora
 - Nano Banana
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4t3Wp1b8GNY
 speaker: 人民公園說AI
@@ -39,7 +38,6 @@ tags:
 - llm
 title: 2025 AI年度颁奖：Google无敌、Claude Code封神、甲骨文逆袭与奥特曼的忧虑
 ---
-
 ### 年度颁奖开场
 
 大家好，今天我们进入“人民公园说AI”的年终颁奖环节。虽然我们只做了一年，但因为“AI圈一天，人间一年”，我们上半年已经颁发过一次奖项了。事实证明，一年颁两次非常有必要，因为上半年没颁出去的奖，下半年可能就找不到人了。

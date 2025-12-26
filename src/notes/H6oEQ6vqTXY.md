@@ -22,10 +22,7 @@ products_models:
 - Netflix
 - Instagram
 - TikTok
-project:
-- us-analysis
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=H6oEQ6vqTXY
 speaker: TVO Today
@@ -38,7 +35,6 @@ tags:
 - public
 title: 名人政治表态的风险与加拿大文化认同的挑战
 ---
-
 ### 名人与政治表态的困境
 
 当唐纳德·特朗普首次当选总统时，好莱坞明星**詹妮弗·劳伦斯**（Jennifer Lawrence）毫不掩饰她的感受。

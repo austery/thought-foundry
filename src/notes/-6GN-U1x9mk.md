@@ -26,10 +26,7 @@ people:
 - J.D. Vance
 products_models:
 - S&P 500 Index
-project:
-- china-analysis
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-6GN-U1x9mk
 speaker: LT視界
@@ -41,7 +38,6 @@ tags:
 - investment-outlook
 title: 人民币汇率、民众遗产与万斯政治布局
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月22日，我们首先来了解今天的财经头条。
 
 ### 美股乐观预期与反向指标

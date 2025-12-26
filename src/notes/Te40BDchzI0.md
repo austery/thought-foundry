@@ -28,10 +28,7 @@ people:
 - 李先念
 - 刘晓波
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Te40BDchzI0
 speaker: 壽司坦丁 Sociostanding
@@ -44,7 +41,6 @@ tags:
 - society
 title: 推翻主流叙事：苏阳新著揭示六四天安门屠杀的决策内幕
 ---
-
 ### 六四天安门事件：颠覆主流叙事的新研究
 
 这里是寿斯坦丁，在这里，你可以用最轻松的方式接收国际上最有趣的社会科学研究发现。

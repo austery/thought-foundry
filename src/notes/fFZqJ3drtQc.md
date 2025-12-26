@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-09-17'
@@ -11,9 +11,7 @@ media_books: []
 people:
 - joseph-wang
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fFZqJ3drtQc
 speaker: Joseph Wang
@@ -27,7 +25,6 @@ tags:
 - tariff
 title: 2025年9月FOMC会议解读：劳动力市场、通胀与利率前景
 ---
-
 ### 会议概览与背景
 
 Today is September 17th and this is my September **FOMC** (Federal Open Market Committee: 联邦公开市场委员会) debrief.

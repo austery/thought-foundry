@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-05-09'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《处处闻啼鸟》
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QWJ_pkdh_mI
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - urban
 title: 处处闻啼鸟：用声音重新认识北京的自然与城市共生
 ---
-
 ### 声音中的城市自然：一场被忽略的听觉革命
 
 大家好，我叫麻杰夫，是一名观鸟爱好者。这个名字听起来有点怪——它是“麻雀”和我英文名Jeff的组合，是我希望成为像麻雀一样低调但坚韧生物的隐喻。去年我从一家互联网公司离职，至今失业，暂时成为了一名令家人担忧的“自由观鸟人”。而这一切，都始于河边一只好看的鸟。

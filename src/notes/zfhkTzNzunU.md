@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 南京大学
@@ -17,8 +17,7 @@ people:
 - 亚里士多德
 - 笛卡尔
 products_models: []
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zfhkTzNzunU
 speaker: 大问题Dialectic
@@ -30,7 +29,6 @@ tags:
 - society
 title: 哲学暴论：你不祷告，反而能推导出上帝存在？一个纯逻辑证明的解析
 ---
-
 ### 悖论式开场：你不祷告，上帝反而存在？
 
 从“你不向上帝祷告”这个前提，反而能必然性地推导出“上帝存在”这个结论。朋友们，这个论证是一个**有效论证**（Valid Argument: 指如果所有前提都为真，那么结论必然为真的论证）！这个论证完全符合逻辑规则，无懈可击。这怎么说？意思是你越是不信上帝，反而证明了上帝的存在？

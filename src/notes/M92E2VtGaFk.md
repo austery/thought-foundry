@@ -16,9 +16,7 @@ people:
 - Jerome Powell
 products_models:
 - TLT
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=M92E2VtGaFk
 speaker: 投资TALK君
@@ -32,7 +30,6 @@ title: 市场周报与英伟达估值：宏观数据前瞻与美联储主席人�
 companies:
 - nvidia
 ---
-
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员**小陶**。有几天没有和大家见面，甚是想念，所以今天为大家准备了非常多的内容，来和大家分享。
 
 首先，我们先对过去一周市场的走势去做一个总结。当下市场的参与度，**标普**、**纳指**还有**罗素2000**，看一下哪一个指数现在市场更加的乐观。然后我们来聊一下**AI**这一块，市场现在对于AI不是那么的看好。我今天以**英伟达**为例，其实我个人认为英伟达现在的一个估值算不上贵，某种程度算得上是便宜的。为什么我认为是便宜的，后面和大家分享一下。

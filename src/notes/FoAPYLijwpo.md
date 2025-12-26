@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 立法院
@@ -25,10 +25,7 @@ people:
 - Andrew Jackson
 - Gandhi
 - Martin Luther King
-project:
-- historical-insights
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FoAPYLijwpo
 speaker: 超級歪 SuperY
@@ -42,7 +39,6 @@ tags:
 - state
 title: 群眾運動的藝術與挑戰：從佔領華爾街到太陽花，如何實踐直接民主與非暴力抗爭
 ---
-
 ### 群眾運動的興起與民主的矛盾
 
 在立法院因國會改革法案引發爭議後，許多人走上街頭，抗議黑箱操作。有人將此次事件稱為「太陽花2.0」，數百人高喊口號，拒絕黑箱、停止表決，抗議藍白兩黨違反程序正義，甚至癱瘓了附近道路，宛如十年前太陽花學運的翻版。然而，這次的立法院**青鳥行動**（Operation Bluebird: 台灣2024年因國會改革法案爭議而起的公民運動）與十年前廣泛民眾參與的太陽花學運有所不同。為什麼有些群眾運動能成功，有些卻失敗呢？

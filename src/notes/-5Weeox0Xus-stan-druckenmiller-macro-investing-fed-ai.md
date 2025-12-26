@@ -15,9 +15,7 @@ people:
 - Nicolai Tangen
 - Stan Druckenmiller
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: null
 source: https://www.youtube.com/watch?v=-5Weeox0Xus&t
 speaker: ''
@@ -29,7 +27,6 @@ tags:
 - 通货膨胀
 title: 投资传奇斯坦·德鲁肯米勒：宏观洞察、美联储的错误与AI趋势
 ---
-
 ## 当前宏观经济展望
 
 Nicolai Tangen: Hi everybody, I'm Nicolai Tangen, the CEO of the Norwegian Sovereign Wealth Fund, and today I'm here with Stan Druckenmiller, a proper legend in the investment world. Stan, what a pleasure to be here.

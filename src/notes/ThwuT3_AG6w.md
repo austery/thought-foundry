@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Patreon
@@ -13,9 +13,7 @@ media_books:
 - Irrational Exuberance
 products_models:
 - Bitcoin
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ThwuT3_AG6w
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - miniaturization
 title: 折纸工程学：古老艺术如何驱动现代创新
 ---
-
 ### 折纸：从艺术到工程的灵感源泉
 
 工程师们正转向**折纸**（Origami: 一种将纸张折叠成各种形状的艺术），从中汲取灵感，将其应用于从医疗设备到太空应用，甚至防弹等各类领域。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -17,9 +17,7 @@ media_books:
 - 《经济学人》
 products_models:
 - ChatGPT
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8c_GCTafVUk
 speaker: 美投讲美股
@@ -33,7 +31,6 @@ tags:
 - strategy
 title: Palantir：AI应用层巨头的天花板与增长突破口深度解析
 ---
-
 ### Palantir的崛起与市场质疑
 
 大家好，我是美投君。**Palantir**（PLTR: 一家专注于大数据分析和人工智能的软件公司）这家公司在过去两年的暴涨，想必各位看官都有所耳闻。作为当今美股市场上少有的**AI应用层公司**（AI Application Layer Company: 指提供基于人工智能技术，解决特定业务问题的软件或服务公司），Palantir的股价在两年内已经翻了几十倍，公司一次又一次地用惊艳的业绩表现刷新着人们对于AI的想象力。现如今，Palantir已然成为了当今美股市场上估值最高的公司之一。

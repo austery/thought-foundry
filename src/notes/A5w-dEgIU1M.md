@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Renaissance Technologies
@@ -18,10 +18,7 @@ people:
 - Albert Einstein
 - Myron Scholes
 - Henri Poincaré
-project:
-- investment-strategy
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=A5w-dEgIU1M
 speaker: veritasium
@@ -34,7 +31,6 @@ tags:
 - random-walk
 title: 万亿美元方程式：物理学、数学如何重塑金融市场与风险管理
 ---
-
 ### 物理学与数学：金融市场的意外起源
 
 这个单一的方程式催生了四个万亿美元的产业，并彻底改变了所有人对待风险的方式。你认为大多数人是否了解**衍生品**（Derivatives: 一种金融工具，其价值来源于标的资产，如股票、债券、商品等）的规模、范围和功用？不，他们毫无概念。然而，这个方程式的核心思想却源自物理学——从原子发现、热传递的理解，甚至是如何在二十一点牌桌上击败赌场。

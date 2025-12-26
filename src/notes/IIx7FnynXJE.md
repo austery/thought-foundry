@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-16'
@@ -29,9 +29,7 @@ people:
 - 彭真
 - 罗瑞卿
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IIx7FnynXJE
 speaker: 柴静 Chai Jing
@@ -45,7 +43,6 @@ tags:
 - power-struggle
 title: 高华：毛泽东为何以及如何发动文化大革命？
 ---
-
 ### 文革发动的两大动因：理想追求与权力危机
 
 今天我讲的题目是毛泽东与文革的发动，将包含两个方面：他为什么要发动文革，以及文革是如何发动起来的。我认为，毛泽东发动文革有两方面的因素：第一，集中体现了他对他所理想的社会主义的追求；第二，也是一个非常重要的因素，就是毛泽东认为他在文革前夕已经大权旁落，急于夺回权力。我认为，这两个因素在文革的整个过程，特别是在初期，是紧密缠绕在一起的。

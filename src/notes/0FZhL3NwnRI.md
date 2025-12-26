@@ -21,10 +21,7 @@ people:
 - Bill Ackman
 - Carl Icahn
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0FZhL3NwnRI
 speaker: Shijun Tang
@@ -37,7 +34,6 @@ tags:
 - long
 title: 四位投资大佬的成功之道：从巴菲特到逆向思维，解密价值投资的底层逻辑
 ---
-
 ### 围圈防御：巴菲特与长期持有的价值哲学
 
 在我研究印度“巴菲特”Mohnish Pabrai的过程中，最受益于他提出的“围圈防御”（Wagon Circles）理念。这一术语源自19世纪美国西进运动：当大篷车队遭遇美洲原住民攻击时，最佳防御方式是将所有车辆围成一圈，形成坚固的防御工事。这一比喻精准映射了价值投资的核心逻辑。

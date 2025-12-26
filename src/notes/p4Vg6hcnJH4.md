@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -43,9 +43,7 @@ products_models:
 - FR光模块
 - Hopper架构
 - Blackwell架构
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p4Vg6hcnJH4
 speaker: Best Partners TV
@@ -59,7 +57,6 @@ tags:
 - system
 title: 谷歌TPUv7挑战英伟达GPU：AI芯片市场格局的深度解析
 ---
-
 ### AI芯片：行业核心命脉与英伟达的垄断地位
 
 当前，如果要问AI行业最核心的命脉是什么，答案大概率是**AI芯片**（AI Chip: 专为人工智能计算优化设计的处理器），尤其是能够支撑大模型训练与推理的高性能AI芯片。过去几年，英伟达凭借着它的**GPU**（Graphics Processing Unit: 图形处理器，通用并行计算芯片）与**CUDA**（Compute Unified Device Architecture: 英伟达开发的并行计算平台和编程模型）生态，几乎垄断了全球AI芯片市场。甚至有人说，AI的进步本质上是Nvidia GPU算力的进步。

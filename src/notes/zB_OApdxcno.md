@@ -14,9 +14,7 @@ people:
 - Derek
 - Trump
 products_models: []
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zB_OApdxcno
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - tribalism
 title: 在某些数学问题上，为何聪明人反而更容易出错？
 ---
-
 ### 智力陷阱：聪明人更容易犯错的问题
 
 有一篇研究论文多年来一直萦绕在我心头。

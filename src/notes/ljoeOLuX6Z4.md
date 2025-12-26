@@ -1,13 +1,12 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 date: '2020-10-20'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ljoeOLuX6Z4
 speaker: veritasium
@@ -21,7 +20,6 @@ tags:
 - supernova-refsdal
 title: 一颗超新星如何测量宇宙：引力透镜与哈勃常数之谜
 ---
-
 ### 超新星的罕见预测与观测
 
 这段视频由Fasthosts赞助，他们为英国观众提供赢取价值5000英镑科技大礼包的机会，只要您能在节目稍后的“科技测试”问题中给出答案。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 高盛
@@ -12,10 +12,7 @@ people:
 - 巴菲特
 products_models:
 - 标普500
-project:
-- investment-strategy
-- market-cycles
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=npn-tjK4n3Y
 speaker: 海淀拙大叔
@@ -31,7 +28,6 @@ tags:
 - market-cycle
 title: 60岁能挣多少钱？阿甘财富增长论：从10万到1.5亿的投资之路
 ---
-
 ### 财富增长的终局思维：60岁能挣多少钱？
 
 大家好，我是海淀拙大叔。今天是4月13号，周日。首先，大叔想解释一下这个财富增长系列是如何产生的。它源于一位网友的启发，这位32岁的网友正在焦虑自己未来的方向。他希望大叔能提供一些建议，但大叔的知识面其实很窄，无法担任职业导师或人生导师。不过，大叔将这个问题简化了一下：我们寻找未来更有希望的方向，目的不就是为了寻找未来更能挣钱、能让生活更幸福的途径吗？

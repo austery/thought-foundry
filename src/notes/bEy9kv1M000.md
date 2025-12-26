@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - AWS
@@ -22,9 +22,7 @@ products_models:
 - Copilot
 - ChatGPT
 - Microsoft 365
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bEy9kv1M000
 speaker: TechButMakeItReal
@@ -38,7 +36,6 @@ tags:
 - strategy
 title: AI产品定价策略：如何避免破产并实现可持续增长
 ---
-
 ### AI产品定价的挑战与机遇
 
 想象一下，你正在开发一款**AI**（Artificial Intelligence: 人工智能）产品。

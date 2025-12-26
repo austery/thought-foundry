@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -45,10 +45,7 @@ people:
 products_models:
 - ChatGPT
 - S&P 500
-project:
-- investment-strategy
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1I5gWN-CtzU
 speaker: Bloomberg Podcasts
@@ -62,7 +59,6 @@ tags:
 - stock
 title: 吉姆·克莱默谈散户交易革命：挑战指数基金与长期持股
 ---
-
 ### 散户交易的崛起与传统投资理念的挑战
 
 我经历过最好的案例是关于英伟达（**Nvidia**）的詹森（Jensen），当时股价只有两美元，我说：“我们不再交易它了。请停止交易它。”

@@ -1,11 +1,9 @@
 ---
 title: LT评述：美联储降息预期、川普外交动向及中国内外挑战
 summary: 本期评论涵盖美联储降息预期、川普对美联储主席人选、美印关系及委内瑞拉的最新动向。重点分析了普京在乌克兰战争中的强硬立场，以及习近平阅兵后的舆论发酵和中国房地产危机的四大真相。
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
+project: []
 tags:
 - china
 - china-politics
@@ -24,7 +22,6 @@ series: null
 source: null
 status: evergreen
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是9月6日。
 
 ## 财经头条：美联储降息可能性浮现

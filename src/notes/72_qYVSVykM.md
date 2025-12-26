@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -98,10 +98,7 @@ products_models:
 - ChatGPT
 - Neutron
 - Russell 2000
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=72_qYVSVykM
 speaker: Amit Kukreja
@@ -115,7 +112,6 @@ tags:
 - market
 title: 中美贸易协议曙光初现，市场或迎新一轮飙升
 ---
-
 ### 市场全线飘绿，新高或在眼前
 
 大家好，欢迎回到新一期的《市场未来秀》。我们正在直播，天哪，这周一早上真是太刺激了。当我们从周日晚上过渡到市场开盘时，情况变得非常令人兴奋。很明显，我们正在上涨，女士们先生们。对于那些还没看到的人来说，股指期货全线飘绿。

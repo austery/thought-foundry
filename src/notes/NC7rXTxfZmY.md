@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies:
 - metabolic-syndrome
@@ -17,9 +17,7 @@ media_books:
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NC7rXTxfZmY
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -31,7 +29,6 @@ tags:
 - technology
 title: 肾脏科名医洪永祥：警惕慢性肾衰竭，揭秘台湾高洗肾率成因与防治关键
 ---
-
 ### 引言：从洗肾到预防的转变
 
 宋晏仁 宋医师: 嗨，大家好，我是宋晏仁宋医师，欢迎您来到《初日会客室》。今天我们为您邀请到的是我的好朋友洪永祥洪医师。

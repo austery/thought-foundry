@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 财政部
@@ -11,10 +11,7 @@ layout: post.njk
 people:
 - 毛泽东
 - 朱镕基
-project:
-- china-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y60M9VtYIe0
 speaker: 海淀拙大叔
@@ -26,7 +23,6 @@ tags:
 - market
 title: A股市场调整：财政刺激预期下的投资主线与历史启示
 ---
-
 ### 引言：市场调整与短期展望
 
 阿甘股票市场论第四集，主题为“明天调整结束，投资主线不变”。2024年10月9日，**上证指数**（Shanghai Composite Index: 反映上海证券交易所上市股票整体表现的综合性指数）下跌6.6%，**深证成指**（Shenzhen Component Index: 反映深圳证券交易所上市股票整体表现的综合性指数）下跌8.15%，两市总成交2.9万亿。昨日曾指出“抢钱模式关闭”，市场将“降档退一进二”，并可能面临较大调整。然而，该集视频的播放量较小，这反映出多数投资者不愿接受与自身意愿相悖的信息，思维模式倾向于线性，认为市场会延续此前的上涨趋势。

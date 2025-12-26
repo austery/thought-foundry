@@ -14,8 +14,7 @@ people:
 - 段永平
 - 雨白
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: 知行小酒馆
@@ -25,7 +24,6 @@ tags:
 - life-philosophy
 title: E189 聊聊段永平，以及你想活出怎样的人生
 ---
-
 ## 引言：聊聊段永平的契机
 
 **雨白:**

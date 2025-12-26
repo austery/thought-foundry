@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 美联储
@@ -9,10 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=E_Q0VNbPXAM
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - trade
 title: 揭秘基差交易：美联储为何如此担忧这一50倍杠杆的金融风险？
 ---
-
 ### 深度解析基差交易：美联储关注的焦点
 
 今天的这期内容，我们将深入探讨**基差交易**（Basis Trade: 一种利用现货市场和期货市场价差进行套利的交易策略）。希望通过本文，我们能回答以下几个核心问题：

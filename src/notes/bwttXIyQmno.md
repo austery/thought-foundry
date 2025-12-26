@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-07-06'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bwttXIyQmno
 speaker: EO
@@ -24,7 +22,6 @@ tags:
 - product-development
 title: Lindy创始人Flo Crivello：在AI浪潮中，为未来而非当下而构建
 ---
-
 ### Lindy：无代码构建AI代理的未来
 
 我是 Flo Crivello，Lindy 的首席执行官。Lindy 是世界上最简单的、无需代码即可构建 AI 代理的方法。它提供了一套构建块，你可以将它们组合在一起，构建属于自己的 AI 代理，并让它们完成任何任务。

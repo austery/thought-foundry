@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -23,10 +23,7 @@ products_models:
 - ChatGPT
 - GPT-3
 - GPT-4
-project:
-- ai-impact-analysis
-- market-cycles
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mL24RKiBeU0
 speaker: TechButMakeItReal
@@ -40,7 +37,6 @@ tags:
 - tech
 title: 科技泡沫是如何诞生的：从互联网到人工智能的周期性幻象
 ---
-
 ### 科技泡沫的语言陷阱
 
 人工智能（AI）泡沫已经开始泄气，并且有一些迹象表明，其中最强大的迹象有时并非来自股市。

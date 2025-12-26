@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BRICS
@@ -23,10 +23,7 @@ people:
 - Xi Jinping
 - Narendra Modi
 - Jair Bolsonaro
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iuBffJAS6qg
 speaker: 郭里有范
@@ -40,7 +37,6 @@ tags:
 - trade-war
 title: 川普关税政策下的金砖国家：去美元化进程加速与全球格局变迁
 ---
-
 ### 川普对金砖国家的警惕与关税威胁
 
 美国前总统**唐纳德·川普**（Donald Trump）一直将**金砖国家**（BRICS: 巴西、俄罗斯、印度、中国和南非组成的国际组织）视为对美国巨大的威胁。2024年他一赢下大选，就立即警告称，如果金砖国家试图削弱美元，就将面临100%的关税。在金砖巴西峰会期间，川普更进一步，声称对任何与金砖组织结盟的国家，要再加征10%的关税。

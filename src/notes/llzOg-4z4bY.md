@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: education
 companies_orgs:
 - Polymarket
@@ -24,10 +24,7 @@ people:
 - 金庸
 - 罗素
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=llzOg-4z4bY
 speaker: 一席YiXi
@@ -41,7 +38,6 @@ tags:
 - power
 title: 只有经历过自由，才会更加信赖自由：一位语文教师的性别、语言与教育变革实践
 ---
-
 ### 从性别语言到脏话：一场语文课的觉醒
 
 我叫冯军鹤，是一名中学语文老师。今天想和大家分享过去几年我在课堂上的探索。

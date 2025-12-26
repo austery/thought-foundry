@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2023-06-07'
@@ -14,10 +14,7 @@ people:
 - Plato
 - Socrates
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lr-plF1EhMU
 speaker: 超級歪 SuperY
@@ -31,7 +28,6 @@ tags:
 - potentiality-actuality
 title: 亚里士多德论人性、伦理与政治：如何活出最好的生命？
 ---
-
 ### 亚里士多德的哲学体系：从自然到神性
 
 欢迎来到“哲学爽歪歪”，本期节目将带你领略一位哲学思想家的智慧。在上一期中，我们探讨了亚里士多德的自然哲学和形而上学。今天，我们将深入介绍他的**人性论**（Theory of Human Nature）、**伦理学**（Ethics）和**政治学**（Politics）。

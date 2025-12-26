@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s00fy5RkCHc
 speaker: Best Partners TV
@@ -20,7 +19,6 @@ tags:
 - self
 title: 丹尼·周解读大语言模型推理的本质、技术演进与未来挑战
 ---
-
 ### 引言：AI推理能力的巨大反差与核心谜题
 
 许多接触**大语言模型**（Large Language Models, LLM: 能够理解和生成人类语言的AI模型）的用户都曾有过这样的经历：当向AI提出一个复杂问题时，它不仅能给出答案，还能提供详细、一步一步且逻辑严密的解题过程，让人感觉屏幕对面的不再是冰冷的代码，而是一个真正能够“推理”的智能体。然而，有时当用户提出一个同样复杂但略有不同的问题时，AI又会给出离谱的错误答案，让人觉得它只是一个更高级的“复读机”。这种体验上的巨大反差，正是当前AI领域最核心的谜题之一：大语言模型展现出的“推理能力”，究竟是一种真正的智能涌现，还是一种基于海量数据训练出的高级“模式匹配”？它是在进行逻辑推导，还是在模仿网上看过的无数解题步骤？

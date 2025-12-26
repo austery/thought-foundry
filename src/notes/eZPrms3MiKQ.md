@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-01-18'
@@ -11,10 +11,7 @@ people:
 - Louis Althusser
 - Pierre Bourdieu
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eZPrms3MiKQ
 speaker: Anthony看世界
@@ -28,7 +25,6 @@ tags:
 - social
 title: 中国社会的自嘲亚文化：精神失败法如何巩固而非解构社会等级？
 ---
-
 ### 中国社会自嘲亚文化的兴起与演变
 
 大家好，我是Anthony，欢迎来到我的频道。今天的节目，我们将继续探讨中国社会中的自嘲式网络亚文化。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -19,9 +19,7 @@ products_models:
 - Claude
 - Copilot
 - Snowflake
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fPXGmC0LtqM
 speaker: Norges Bank Investment Management
@@ -35,7 +33,6 @@ tags:
 - sovereign-wealth-fund
 title: 挪威主权财富基金：万亿科技与AI驱动的投资管理
 ---
-
 ### 基金概况与科技定位
 
 很高兴见到大家。我是玛尔特。我从刚才的介绍中回过神来。我目前在所谓的**石油基金**（Oljefondet: 挪威主权财富基金）的领导团队中任职。我们的组织名称是**挪威央行投资管理公司**（Norges Bank Investment Management）。我一直致力于吸引女性对金融产生兴趣。当我刚加入基金时，我们是一群经济学家，但现在我们需要技术人员。因此，吸引对技术感兴趣的女性进入金融领域，这是下一个阶段的目标，因为我们在这一块人手不足。

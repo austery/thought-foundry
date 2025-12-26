@@ -14,10 +14,7 @@ media_books:
 - 《阿甘股票市场论第二季》
 - 《阿根投研》
 products_models: []
-project:
-- investment-strategy
-- china-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2xi0_iu3JvU
 speaker: 海淀拙大叔
@@ -30,7 +27,6 @@ tags:
 - tech-stock-selection
 title: 《阿甘股票市场论第二季》：本轮行情投资主线深度解析
 ---
-
 ### 投资预测的方法论与前期验证
 
 《阿甘股票市场论第二季》探讨本轮行情的投资主线。投资本身是一门预测的艺术，而预测具有其方法论：首先总结历史，提取逻辑，然后根据逻辑进行预测，并最终通过验证来修正预测方法。

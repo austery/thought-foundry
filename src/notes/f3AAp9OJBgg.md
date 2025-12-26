@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -27,10 +27,7 @@ people:
 - 查理·芒格
 products_models:
 - DeepSeek
-project:
-- us-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f3AAp9OJBgg
 speaker: Shijun Tang
@@ -44,7 +41,6 @@ tags:
 - tech-market-volatility
 title: DeepSeek引爆AI竞争：美股科技股震荡与护城河重构
 ---
-
 ### AI模型商品化引爆科技股震荡
 
 DeepSeek前几天直接干翻了整个美股科技板块。阿里在大年三十这天推出“通义千问1000K”，也就是Qwen2.5-Matrix，这一举动在市场引发强烈震荡。美股中AI相关的大标的——英伟达、博通等——创下单日暴跌纪录。其中，英伟达在单个交易日内股价暴跌17%，市值蒸发高达558亿美元。你可能对这个数字没有概念，我来举个例子：阿里近期虽经历暴涨，但即便在当前高点，其市值也不过约3800亿美元。也就是说，英伟达一天之内跌掉的市值，相当于四个阿里。

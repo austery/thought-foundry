@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-15'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6TisRb-Q8pc
 speaker: 三個水槍手
@@ -25,7 +22,6 @@ tags:
 - war
 title: 中美关系：新冷战、一战前夜还是全球化新秩序的角力？
 ---
-
 ### 引言：吴国光老师论中美关系
 
 主持人: 今天非常荣幸能够请到吴国光老师莅临我们节目。吴国光老师在YouTube上和各个频道都有很多内容，他不只关注中国政治，也关注中国经济，都是非常前沿的话题，有非常多独到的见解。所以今天请吴国光老师来，我们有很多问题想请教。

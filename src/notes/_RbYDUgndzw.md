@@ -18,9 +18,7 @@ draft: true
 series: ''
 category: politics-society
 area: society-thinking
-project:
-  - origins-of-inequality
-  - social-evolution
+project: []
 people:
   - Jared Diamond
   - Robin Dunbar

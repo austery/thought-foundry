@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - ElevenLabs
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Martin Casado
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZqCEHR4wjxg
 speaker: a16z
@@ -28,7 +25,6 @@ tags:
 - strategy
 title: ElevenLabs CEO：声音如何成为下一个AI界面
 ---
-
 ### ElevenLabs：声音AI的创新与产品版图
 
 我们不希望变得像上一代编辑套件那样。

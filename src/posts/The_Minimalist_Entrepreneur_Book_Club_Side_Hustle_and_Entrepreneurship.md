@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 author: Lei
 category: psychology
 channel: null
@@ -15,8 +15,7 @@ people:
 - Simon
 - Fancy
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: null
 source: null
 speaker: 一口新饭读书会
@@ -26,7 +25,6 @@ tags:
 - 小而美
 title: 《小而美》读书会：关于副业与创业的思考与实践
 ---
-
 **主题书籍：**《The Minimalist Entrepreneur》（小而美：持续盈利的经营法则）
 
 ## 讲述者简介

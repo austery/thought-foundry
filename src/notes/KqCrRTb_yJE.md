@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国外交关系协会
@@ -23,10 +23,7 @@ people:
 - Vladimir Putin
 - Kim Jong Un
 - 何立峰
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KqCrRTb_yJE
 speaker: FearNation 世界苦茶
@@ -40,7 +37,6 @@ tags:
 - us-china-relations
 title: 多维视角下的中国：从人权外交到地缘经济博弈与战略竞争
 ---
-
 ### 美国应优先营救中国基督教牧师金明日
 
 本期节目汇总了全球智库和国际媒体对中国问题的深度分析，其中一篇来自**哈德逊研究所**（Hudson Institute）的文章，题为《为什么美国应优先考虑释放中国基督教牧师金明日》，其观点清晰且强硬。文章的核心论点是，美国政府必须立即将营救中国**西安教会**（Zion Church: 中国规模最大的未注册家庭教会之一）的领袖牧师金明日，作为一项紧急的外交优先事项。

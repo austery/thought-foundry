@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -49,10 +49,7 @@ people:
 - 胡锦涛
 products_models:
 - Bitcoin
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m9Le2D6sspM
 speaker: LT視界
@@ -66,7 +63,6 @@ tags:
 - us-monetary-policy
 title: 习近平罕见致电特朗普“告洋状”：美联储降息、乌克兰和谈与中国内部挑战
 ---
-
 ### 财经头条：美联储降息前景与沃勒观点
 
 首先关注今天的财经头条。彭博社报道称，**美联储**（Federal Reserve: 美国中央银行系统）理事**克里斯托弗·沃勒**（Christopher Waller: 美国联邦储备委员会理事）认为，12月份应该**降息**（Interest Rate Cut: 降低基准利率），但从明年1月开始，美联储应在收到更多经济数据后逐月确定利率政策。沃勒表示，就双重使命而言，他主要担忧劳动力市场，因此认为下次会议会降息。目前华尔街普遍预期，12月9日、10日两天召开的**公开市场委员会**（Federal Open Market Committee, FOMC: 美联储的货币政策制定机构）会议做出降息决定的几率为70%。降息与否仍存在很大不确定性，主要原因在于政府关门后即使恢复，也无法按时发布重要的宏观经济数据。10月和11月的就业报告推迟到12月6日发布，11月的通胀指数推迟到12月18日发布。这些数据都在美联储会议之后发布，给12月份的会议决策带来了巨大挑战，因为美联储在不完全掌握经济数据的情况下，需要对货币政策做出决定。

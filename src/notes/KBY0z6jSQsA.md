@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies:
 - yc
@@ -19,8 +19,7 @@ people:
 products_models:
 - Cursor
 - GitHub Copilot
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KBY0z6jSQsA
 speaker: EO
@@ -30,7 +29,6 @@ tags:
 - startup
 title: 18岁高中辍学生如何融资620万美元 | Arlon Rakhmetzhanov 谈创业与AI
 ---
-
 ### 初识与启程
 
 大家好，我叫**Arlon**。我今年18岁，刚刚完成了**YC**（Y Combinator）2025年夏季的训练营。我来自哈萨克斯坦，是一名高中辍学生，最近刚退学11年级，搬到了**旧金山**。现在，我全职投身于这座“地球上最棒的城市”进行创业。

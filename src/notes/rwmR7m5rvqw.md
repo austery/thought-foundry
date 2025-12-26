@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - Chime
@@ -34,9 +34,7 @@ products_models:
 - Google Docs
 - Excel
 - Google Sheets
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rwmR7m5rvqw
 speaker: How I AI
@@ -49,7 +47,6 @@ tags:
 - product-management
 title: AI赋能产品管理：Dennis Yang如何用Cursor提升PRD、Jira和团队协作效率
 ---
-
 ### AI驱动的产品管理新范式
 
 我们已经看到很多人使用像**Cursor**（一款AI驱动的集成开发环境，**IDE**：Integrated Development Environment）这样的工具来编写代码。然而，我们实际上还没有看到任何人仅仅使用Cursor来写作，而这正是您正在做的事情。

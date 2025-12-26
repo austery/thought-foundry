@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-08-14
@@ -14,9 +14,7 @@ people:
 - Adolf Hitler
 - 刘晓波
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ObeI-z35qnQ
 speaker: 徒步的騎手
@@ -30,7 +28,6 @@ tags:
 - society
 title: 文明古国综合症：从中印的非理性行为看历史的重负
 ---
-
 ### 从南海撞船事件说起
 
 最近两天，中国海警船在南海与菲律宾船只发生了撞击。菲律宾方面公布了视频，使得全世界主流媒体都对此进行了报道。然而，中国的官方回应却首先指责菲律宾“碰瓷”，这种反应在外界看来非常奇特。

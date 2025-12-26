@@ -11,9 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DnwQcXao-FE
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - market-analysis
 title: 直击美联储会议：降息条件、点阵图解读与市场展望
 ---
-
 ### 美联储SEP：经济预测与降息预期
 
 直接开始。今天主要讨论美联储会议，随后将分析市场反应，以及如何解读鲍威尔今天的发言究竟是**鸽派**（Dovish: 倾向于通过降低利率或增加货币供应来刺激经济的货币政策立场）还是**鹰派**（Hawkish: 倾向于通过提高利率或收紧货币供应来抑制通胀的货币政策立场）。我将分享个人看法。

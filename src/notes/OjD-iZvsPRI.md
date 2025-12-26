@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Otis
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - David
-project:
-- investment-strategy
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OjD-iZvsPRI
 speaker: Norges Bank Investment Management
@@ -28,7 +25,6 @@ tags:
 - model
 title: 奥的斯：172年的运营卓越与服务飞轮驱动的持续增长
 ---
-
 ### 奥的斯的运营卓越与百年传承
 
 下午好，谢谢。

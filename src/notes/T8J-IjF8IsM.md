@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Redfin
@@ -18,10 +18,7 @@ layout: post.njk
 media_books:
 - The Economist
 - Financial Times
-project:
-- us-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T8J-IjF8IsM
 speaker: Patrick Boyle
@@ -35,7 +32,6 @@ tags:
 - wealth
 title: 美国住房市场两极分化：抵押贷款利率如何加剧财富鸿沟？
 ---
-
 ### 美国住房市场的抵押贷款分化
 
 近年来，在美国购买房屋的成本急剧上升。

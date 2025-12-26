@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -92,11 +92,7 @@ products_models:
 - Sora
 - HBM
 - Python
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TP4mijlTIB8
 speaker: Amit Kukreja
@@ -110,7 +106,6 @@ tags:
 - prediction-market
 title: 市场综述：英伟达、博通财报、AI政策与加密货币动态
 ---
-
 ### 市场综述与本周亮点
 
 大家早上好，欢迎回到《市场开盘》节目。

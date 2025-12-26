@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - a16z
@@ -34,10 +34,7 @@ people:
 products_models:
 - ChatGPT
 - ChatGPT 3.5
-project:
-- us-analysis
-- investment-strategy
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jO-SWlW6DFY
 speaker: a16z
@@ -51,7 +48,6 @@ tags:
 - thought-leadership
 title: a16z的秘密营销策略：从零到传奇风投公司
 ---
-
 ### a16z的早期竞争与颠覆性策略
 
 **Ben Horowitz**: 在那些日子里，我们与其他公司之间产生了大量的对立。

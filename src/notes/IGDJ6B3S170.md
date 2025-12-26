@@ -18,10 +18,7 @@ people:
 - Jerome Powell
 products_models:
 - TikTok
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IGDJ6B3S170
 speaker: 投资TALK君
@@ -34,7 +31,6 @@ tags:
 - us-tariff
 title: 特朗普关税政策深度解析：量化经济影响与市场调整策略
 ---
-
 ### 市场概览与关税政策动向
 
 各位观众大家好，欢迎来到一个不单止聊新闻的专业维护频道，我是市场分析人小陶。过去两天没有录制视频，主要是市场里边其实没有太多可以聊的，而且市场出现了反弹。但是周三不一样，周三市场出现了下跌，然后好像关税政策这一块又有一些变动。所以今天就来为大家录制这期视频，我们一起去聊一下市场、聊一下关税，然后聊一下其他一些比较重要的数据。废话不多说，直接开始。

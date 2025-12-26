@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - best-partners-tv
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=A8pyWJuO9xw
 speaker: Best Partners TV
@@ -22,7 +21,6 @@ tags:
 - technology
 title: 斯坦福CS231N：李飞飞解读5.4亿年视觉进化史与AI智能基石
 ---
-
 ### 斯坦福CS231N课程概述与核心观点
 
 斯坦福大学2025年春季的**CS231N**（Convolutional Neural Networks for Visual Recognition: 针对视觉识别的卷积神经网络）课程已开启首次授课，主讲人是全球AI领域的顶尖学者、计算机视觉的奠基人之一**李飞飞**（Fei-Fei Li）。这堂课程不仅串联了5.4亿年的视觉进化史，更回答了深度学习革命中的一个核心逻辑：为什么“看懂世界”是AI真正走向智能的第一步？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -29,7 +29,6 @@ tags:
 - trade
 title: 加拿大联邦与安大略省预算：优先事项、经济现实与技术工人挑战
 ---
-
 ### 加拿大联邦与安大略省的财政概览
 
 上周，我们收到了两份重磅发布的文件。

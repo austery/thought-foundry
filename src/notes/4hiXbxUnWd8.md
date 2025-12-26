@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Anthropic
@@ -14,8 +14,7 @@ people:
 - Einstein
 products_models:
 - GPT-3
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4hiXbxUnWd8
 speaker: Dwarkesh Patel
@@ -30,7 +29,6 @@ tags:
 - llm
 title: 对智能的普遍误解：Anthropic CEO Dario Amodei 的见解
 ---
-
 ### AI 发展与预测的挑战
 我感觉这些 **scaling laws**（缩放定律）一直非常可预测，但当你说“这些模型何时会爆发商业应用？它的形式会是什么样？模型是会独立于人类行事，还是与人类协同工作？”时，我感觉我预测这些事情的记录确实很糟糕。但同时放眼望去，我并没有看到谁的记录很出色。
 

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -25,10 +25,7 @@ products_models:
 - EUV光刻机
 - 通义千问
 - ModelScope社区
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=B7xJ7oqfdmA
 speaker: Shijun Tang
@@ -42,7 +39,6 @@ tags:
 - value-investing-community
 title: 错过英伟达就无望了？阿里能否逆袭？AI时代硬件生态与价值投资的真相
 ---
-
 ### AI时代的硬件霸权：英伟达与它的隐形盟友
 
 AI狂潮正在席卷全球，但真正能从这场技术革命中持续获利的，并非那些开发语言模型的软件公司，而是背后的硬件基础设施提供者。目前，在数据中心GPU市场中，英伟达的占有率高达92%，几乎形成绝对垄断。几乎所有主流AI模型的训练，都依赖其GPU算力。

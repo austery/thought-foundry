@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Microsoft
@@ -20,9 +20,7 @@ people:
 - Bill Gates
 products_models:
 - Copilot
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_988hgoYeMk
 speaker: Best Partners TV
@@ -38,7 +36,6 @@ tags:
 - technological
 title: 穆斯塔法·苏莱曼：AI不是泡沫，而是重塑世界的巨浪
 ---
-
 ### AI：重塑世界的巨浪而非泡沫
 
 人工智能是否会是昙花一现的泡沫？十年后，孩子们是否还需要考大学？我们能否与AI建立情感甚至结婚？到2050年，大规模失业是否会成为现实？这些看似科幻的问题，却是我们当下需要深入思考的现实。最近，硅谷女孩播客频道对微软AI执行副总裁、**DeepMind**（DeepMind: 谷歌旗下的人工智能公司）的联合创始人穆斯塔法·苏莱曼（Mustafa Suleyman）进行了一场独家专访。作为推动现代AI革命的核心人物，苏莱曼从DeepMind到微软，一手打造了多个改变行业的AI产品。这一次，他从自己的视角，为我们绘制了一张未来十年AI重塑世界的清晰路线图。

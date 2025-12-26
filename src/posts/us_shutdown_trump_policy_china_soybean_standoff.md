@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: 2025-10-03
@@ -11,9 +11,7 @@ media_books: []
 people:
 - trump
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: null
 source: null
 speaker: Lei
@@ -30,7 +28,6 @@ tags:
 title: Analysis of US Government Shutdown, Trump's Foreign Policy, and the US-China
   Soybean Standoff
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月3日。
 
 ### 财经头条：美国政府关门与市场反应

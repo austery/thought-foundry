@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-09'
@@ -18,10 +18,7 @@ people:
 - Alexander the Great
 - marxism
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-1nEQMeCrRs
 speaker: 政經孫老師
@@ -35,7 +32,6 @@ tags:
 - technology
 title: 現代世界亂象之源：靈知主義如何滲透並禍亂當代文明？馬克思主義為何是一種靈知宗教？
 ---
-
 ### 全球亂象的深層根源：靈知主義
 
 今天我們來探討全球亂象的源頭。當今世界可謂亂象叢生，各種極端思想橫行無忌，例如極端的LGBT（同性戀、雙性戀、跨性別者）、極端的種族主義、極端的福利主義，以及西方社會中普遍存在的“聖母情懷”所導致的難民問題和社會矛盾。這些當代的極端思想，本質上都可以歸結為左派的極端思維。從歷史角度看，歷史上的**進步主義**（Progressivism: 一種認為社會可以通過改革不斷進步的政治哲學）、**馬克思主義**（Marxism: 一種以歷史唯物主義為基礎，主張通過階級鬥爭實現共產主義的社會經濟理論）和**社會主義**（Socialism: 一種主張社會或集體控制生產資料，以實現更公平分配的社會經濟體系）等，都與今天的這些極端思潮一脈相承。

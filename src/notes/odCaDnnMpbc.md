@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Bilibili
@@ -21,10 +21,7 @@ people:
 - 陈胜
 - 吴广
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=odCaDnnMpbc
 speaker: 夸克说
@@ -38,7 +35,6 @@ tags:
 - system
 title: 中国男性为何热衷娶妻生子：从性压抑到宗法制度的深层解析
 ---
-
 ### 现象与理论：力工梭哈、理工男脉冲与性压抑
 
 本期节目，我们将探讨简中互联网上近期热议，但又被官方迅速和谐的几个概念：**力工梭哈**（一种形容中国男性将娶妻生子视为人生最重要目标，为此不惜拼命压缩消费、牺牲健康，甚至从事高危工作的现象）定律、**理工男脉冲**（与力工梭哈本质相同，但在追求目标时手段略有不同，更倾向于分期投入而非一次性梭哈）和**性压抑理论**。

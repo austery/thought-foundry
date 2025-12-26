@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Meta
@@ -18,10 +18,7 @@ people:
 - Richard Sutton
 products_models:
 - GPT-5
-project:
-- ai-impact-analysis
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dymM40bVIhQ
 speaker: 课代表立正
@@ -34,7 +31,6 @@ tags:
 - research
 title: 田渊栋谈AI的“顿悟”：模型开窍的关键，对优雅的追求与科研范式之争
 ---
-
 ### 离开Meta后的思考与团队贡献
 
 **课代表立正**: 我是在准备访谈的时候才发现您在Meta已经工作10年了。

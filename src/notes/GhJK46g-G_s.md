@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -30,10 +30,7 @@ products_models:
 - H800
 - ChatGPT
 - GitHub Copilot
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GhJK46g-G_s
 speaker: TechButMakeItReal
@@ -48,7 +45,6 @@ tags:
 - geopolitical
 title: AI循环经济内幕：地缘政治漏洞、隐藏债务与金融工程
 ---
-
 ### AI经济的金融工程与潜在泡沫
 
 我们正在见证21世纪最复杂的**金融工程**（Financial Engineering: 结合金融理论、数学工具和计算机技术来设计和实施复杂金融产品及策略的过程）。数十亿美元在循环流动，估值不断攀升，债务从资产负债表中消失，泡沫持续膨胀。2008年有抵押贷款，而2025年有**GPU**（Graphics Processing Unit: 图形处理器，在AI领域因其并行处理能力而被广泛用于深度学习）。这看起来像一个**庞氏骗局**（Ponzi Scheme: 一种投资欺诈，通过向早期投资者支付后期投资者的资金来制造虚假利润的假象），交易模式也像一个泡沫。

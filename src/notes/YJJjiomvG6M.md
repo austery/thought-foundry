@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -65,10 +65,7 @@ people:
 - Warren Buffett
 products_models:
 - Affordable Care Act
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YJJjiomvG6M
 speaker: Amit Kukreja
@@ -82,7 +79,6 @@ tags:
 - market
 title: 美国政府停摆危机解除，英伟达需求激增推动市场全线飘绿
 ---
-
 ### 政府停摆危机解除，市场全线飘绿
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月10日，星期一，我们又迎来新的一周来分析全球资本股票市场。感谢各位的到来，希望大家周末愉快。我们有很多内容要谈，盘前市场一片绿色，原因在于**政府停摆**（Government Shutdown: 指美国政府因国会未能通过预算案而导致部分机构关闭的状况）基本已经结束。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2022-01-22'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VvzgD5uozKw
 speaker: 一口新飯
@@ -24,7 +22,6 @@ tags:
 - valuation
 title: 高利率如何影响股市估值？成长股为何首当其冲？
 ---
-
 ### 利率与股票估值的基本原理
 
 沃伦·巴菲特曾多次指出，利率对于股票估值的作用如同地球引力。当利率处于低位时，股票即便拥有较高的估值也并不令人意外；然而，一旦利率升高，这种“地球引力”便会将股票估值生生地向下拽。2022年初，美联储缩表加息的计划最终尘埃落定，股市随即遭受重挫，其中尤以中小盘科技成长股成为重灾区。

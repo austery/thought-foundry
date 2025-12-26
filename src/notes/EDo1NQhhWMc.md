@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2024-04-20'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EDo1NQhhWMc
 speaker: 柴静 Chai Jing
@@ -25,7 +22,6 @@ tags:
 - strategy
 title: 政治抑郁症：无力感、恐惧与希望的追寻
 ---
-
 ### 引言：政治抑郁症的困扰
 
 大约一年前，我的朋友告诉我他患上了**政治抑郁症**（Political Depression: 一种非正式的心理状态，指因政治事件或社会环境而产生的持续性抑郁情绪）。我当时并未太在意，因为我认为它不是一个正式的医学术语，而且我的朋友意志力相当坚强。然而，在接下来的一年里，他持续不断地谈论这个话题。他说他每天大概要花七八个小时去浏览那些让他感到非常不快的新闻，夜里失眠，并且他逐渐失去了对工作、对生活乃至对整个人生的兴趣。当他开始谈论死亡时，我变得非常担忧。于是我开始调查这个问题，但我发现很少有中文和英文文献可供参考。在中文世界中流传最广的一篇文章是由一位美国心理学家撰写的，他的名字是罗伯特·卢森（Robert Rosen）。因此，我联系了他。这不是一次学术访谈，这只是一个关心朋友的普通人与一位医生之间的对话。今天我播出这段对话，希望能帮助我的朋友以及其他有类似困境的人。

@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: career
 companies_orgs: []
 date: '2025-10-11'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1DsF0MItcp0
 speaker: 课代表立正
@@ -20,7 +19,6 @@ tags:
 - transformation
 title: 从迷茫到掌控：AI赋能下的硅谷职业与个人成长实践
 ---
-
 ### AI助力下的职业转型与高价值工作聚焦
 
 我上次与你交流时，你认为我仍从事**DEDA**（Data Engineer/Data Analyst: 数据工程师/数据分析师，这两种角色都涉及数据处理与分析）的角色。直到看到我的小红书，你才了解到我已参与了如此多的项目。你曾听我提及过一些AI项目，但可能误以为那只是几个朋友周末的玩乐。然而，事情的发展出乎意料，我希望能与你分享这段经历。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - York University
@@ -14,9 +14,7 @@ people:
 - Mark Winfield
 products_models:
 - Small Modular Reactor
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P_Sw-s7Ie_0
 speaker: TVO Today
@@ -30,7 +28,6 @@ tags:
 - regulatory
 title: 安大略省对核电的依赖是否正在推高电价？
 ---
-
 ### 安大略省电价上涨的背景与核电关联
 
 安大略省的电价正在上涨，作为回应，省长道格·福特正在提高电力补贴。

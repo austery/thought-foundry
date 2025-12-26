@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-03-09'
@@ -22,10 +22,7 @@ people:
 - Rogers
 - Lenin
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=idgvw0k2nnI
 speaker: Anthony看世界
@@ -39,7 +36,6 @@ tags:
 - relationship
 title: 亲密关系中的政治分歧：如何避免孩子被“洗脑”及政治性抑郁的化解
 ---
-
 ### 亲密关系中的政治分歧与“洗脑”焦虑
 
 大家好，我是Anthony，欢迎来到我的频道。

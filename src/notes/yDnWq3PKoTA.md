@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-08-08'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yDnWq3PKoTA
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - technology
 title: 市场洞察：英特尔、特斯拉、礼来财报与消费降级深度解析
 ---
-
 ### 开场与近期活动回顾
 
 大家好，欢迎收看专业美股频道。我是市场分析员小陶。今天行程非常紧凑，早上在多伦多举办了一场小型线下活动。活动中主要剖析了**大非农数据**（Non-Farm Payrolls Data: 美国劳工部每月公布的就业数据，反映非农业部门的就业情况），其中一些数据值得关注，并可能引发对劳动力市场的担忧。具体内容将在周末或下周初，在没有重要财报发布时，再与大家详细分享。

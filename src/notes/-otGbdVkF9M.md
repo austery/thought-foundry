@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-12-07'
 draft: true
@@ -16,9 +16,7 @@ people:
 - David
 - 外go女士
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-otGbdVkF9M
 speaker: 莊也雜談
@@ -32,7 +30,6 @@ tags:
 - technology
 title: 安省60号法案：房东与租客权利的巨大变革及其深远影响
 ---
-
 ### 安省60号法案：背景与个人视角
 
 大家好，我是庄野，欢迎收看庄野杂谈。今天我们来聊聊安大略省刚刚通过的**60号法案**（Bill 60: 全称“2025年对抗延迟加速建设法案”，旨在解决住房危机、加速建设并改革租赁法）。之所以选择这个话题，一方面是源于观众的留言点播，另一方面也是我个人对此深感兴趣。尽管我现在拥有自己的房产，但在此之前，我也曾是租房大军中的一员，对租房的关切感同身受。我身边也有许多朋友，曾将或正将房产用于出租，成为光荣的房东。甚至未来，我退休后也可能卖掉现有房产，重新回到租房市场。因此，这个问题与我们现在或未来每个普通人的日常生活都密切相关。

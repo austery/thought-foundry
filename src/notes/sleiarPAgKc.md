@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Ku Klux Klan
@@ -13,9 +13,7 @@ media_books:
 - Swan Lake
 - The New York Times
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sleiarPAgKc
 speaker: TED
@@ -28,7 +26,6 @@ tags:
 - technology
 title: Misty Copeland：芭蕾如何助我找到韧性与力量
 ---
-
 ### 带伤起舞：《火鸟》与韧性的初次考验
 
 我在美国芭蕾舞剧院（**American Ballet Theater**：美国最顶尖的芭蕾舞团之一）首次表演《火鸟》的那个夜晚，我还没有成为一名**首席舞者**（principal dancer：芭蕾舞团中最高级别的舞者）。

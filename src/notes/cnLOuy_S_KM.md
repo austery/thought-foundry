@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Affirm
@@ -21,9 +21,7 @@ people:
 - Carmen Rodriguez
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cnLOuy_S_KM
 speaker: Bloomberg Podcasts
@@ -37,7 +35,6 @@ tags:
 - system
 title: Affirm创始人Max Levchin深度解析“先买后付”：颠覆传统信贷的创新之路
 ---
-
 ### 传统信用卡行业的财富转移与“先买后付”的崛起
 
 **Max Levchin:** 说实话，我花了很多时间思考“生态系统”这个词，主要是对此感到愤怒，因为它是一种记录不那么充分的财富转移。顺便说一句，信用卡行业总体上是一种累退的财富转移，那些从不循环交易的人，比如你们两位和我，当我们使用信用卡时（现在已经很少了），我们月底会付清账单，一分钱利息都不付。我想Joe曾公开表示你从未支付过任何利息。

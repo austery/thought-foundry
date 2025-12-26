@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Cloudflare
@@ -61,10 +61,7 @@ products_models:
 - Blackwell
 - Office 365
 - iPhone 17
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sC2GNDZbWq0
 speaker: Amit Kukreja
@@ -79,7 +76,6 @@ tags:
 - rate-cut-expectation
 title: 市场持续抛售：美联储降息预期摇摆不定，分析师激辩经济前景
 ---
-
 ### 开盘直击：市场普跌与 Cloudflare 服务中断
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是 11 月 18 日，星期二，感谢各位的到来。不仅盘前市场下跌，Cloudflare 也宕机了。不只是它的股票在跌，而是整个公司的服务都中断了。结果导致今天许多网站无法正常工作。例如，我获取新闻的重要渠道 X 平台就完全无法使用。我知道很多人也从 X 获取新闻。它曾短暂恢复过，但随后又停止工作，现在再次陷入瘫痪。如果有人发现它恢复正常了，请告诉我。但我目前无法登录，什么也看不到，页面完全加载不出来。

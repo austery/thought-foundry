@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-11-13'
 draft: true
@@ -15,10 +15,7 @@ media_books:
 people:
 - 唐纳德·特朗普
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hmn02bewH64
 speaker: 北美王路飞
@@ -32,7 +29,6 @@ tags:
 - spiritual-manipulation
 title: 以爱之名，高潮为饵：硅谷“高潮邪教”OneTaste的崛起与覆灭
 ---
-
 ### 荒诞的开场：女权先锋与魔鬼代言人
 
 今天我们要讲述的故事，开始于一个极其荒诞的画面。时间是2024年5月，地点是纽约布鲁克林的联邦法院。您现在看到的这张照片，它的主角叫**尼可·戴多恩**（Nicole Daedone: OneTaste创始人，被指控为邪教头目）。你看，他裹着一条质感极佳的米色披肩，头发梳得一丝不苟，脸上带着一种近乎禅意的平静微笑。如果不告诉你背景，你可能会以为这是一位即将去大都会博物馆参加慈善晚宴的文化名流，或者是一位刚刚结束进修的灵性导师。

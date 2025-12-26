@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - 天下文化
@@ -15,9 +15,7 @@ media_books:
 people:
 - 梁晓华
 - Stephen Covey
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=33zhsgnDW-8
 speaker: 天下文化
@@ -32,7 +30,6 @@ tags:
 - time-management
 title: 领导力进阶：陈茂雄谈自我觉察、教练式领导与《与成功有约》的智慧
 ---
-
 欢迎收听“对话领导力”节目，本节目由领导影响力学院与天下文化共同出品，与顶尖领袖对话，从经典书籍出发，探索领导的智慧与管理心法。我是主持人梁晓华。
 
 ### AI时代最重要的学习能力

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Mastercard
@@ -14,10 +14,7 @@ layout: post.njk
 media_books:
 - 《The Daily Beast》
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uNwP2QFO09c
 speaker: Shijun Tang
@@ -31,7 +28,6 @@ tags:
 - network-effect
 title: MasterCard的护城河与增值业务：为何它仍是全球支付系统的复利机器？
 ---
-
 ### MasterCard的财务表现与市场处境
 
 近期，MasterCard（股票代码：MA）股价在两个月内回调了12.79%，Year-to-Date（年初至今）涨幅仅为5.38%，远低于标普500指数同期16.89%的回报。这一表现让许多投资者开始质疑：MasterCard是否已失去增长动力？加密货币和区块链支付是否会彻底取代传统支付网络？

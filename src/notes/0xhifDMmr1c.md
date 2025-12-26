@@ -26,10 +26,7 @@ people:
 - 唐石峻
 - 扎克伯格
 - 巴菲特
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0xhifDMmr1c
 speaker: Shijun Tang
@@ -42,7 +39,6 @@ tags:
 - risk
 title: Meta与亚马逊的天花板之争：普通人的投资陷阱与长期价值
 ---
-
 ### Meta的护城河：规模、网络效应与开源AI的双重引擎
 
 我持有Meta已经1178天了，目前总回报为236.13%。但如果除去我四月份进行的补仓股份，我的实际回报率将飙升至351.47%，相当于翻了近4.5倍。很多人在网络上炫耀自己的浮盈时，总是从最初买入的第一笔价格开始计算回报——这种算法虽然数字好看，但毫无实际意义。因为随着我们不断加仓（Average Up），后续的仓位会稀释整体回报率，真实的复合年化收益率才是衡量长期投资成败的核心指标。

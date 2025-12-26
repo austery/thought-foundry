@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Walmart
@@ -17,10 +17,7 @@ people:
 - Adi Ignatius
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OUocOJXQSQE
 speaker: Harvard Business Review
@@ -34,7 +31,6 @@ tags:
 - supply-chain-resilience
 title: 沃尔玛CEO道格·麦克米伦：在不确定时代以目标引领变革
 ---
-
 ### 沃尔玛的领导力与不确定性挑战
 
 **ADI IGNATIUS:** 沃尔玛是全球最大的公司，也是最大的私人雇主和最成功的零售商，每周有2.55亿顾客光顾。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies:
 - google-monopoly
@@ -22,10 +22,7 @@ products_models:
 - Chrome
 - ChatGPT
 - Android
-project:
-- ai-impact-analysis
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lxGTW8qpWO8
 speaker: TechButMakeItReal
@@ -38,7 +35,6 @@ tags:
 - market
 title: 为什么AI搜索难以击败Chrome：经济、垄断与用户习惯的较量
 ---
-
 ### AI搜索的挑战：Perplexity与谷歌的较量
 
 三年前，许多人称**Perplexity**（一家AI搜索公司）为“**谷歌杀手**”（Google killer）。

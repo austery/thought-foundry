@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 美联储
@@ -23,10 +23,7 @@ people:
 - Donald Trump
 - 巴菲特
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sAhusI_4QVE
 speaker: 海淀拙大叔
@@ -40,7 +37,6 @@ tags:
 - technology
 title: 美国战略收缩与弱美元周期：中国资产的投资机遇分析
 ---
-
 ### 川普战略收缩的核心目的与矛盾
 
 阿甘经济宏观论第16集，美国战略大收缩的第五部分，主题是弱美元下的中国资产定价。时间是2025年3月26号。我们原来说过，川普大收缩的核心目的就是化解债务。当前，美国国债的规模已经突破了36万亿美元，债务与GDP的比率已经达到了150%。因此，对川普来说，最大的任务就是遏制美国国债的增长，并强化对美元的信心。川普手里面有三大法宝：增加关税、削减政府开支以及制造业回流。

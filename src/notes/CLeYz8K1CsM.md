@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 天下文化
@@ -17,9 +17,7 @@ media_books:
 people:
 - 巴菲特
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CLeYz8K1CsM
 speaker: 天下文化
@@ -33,7 +31,6 @@ tags:
 - shift
 title: 韓第大師的生命智慧：《九十自述》帶來的跨世代啟示與人生重啟
 ---
-
 ### 節目開場與對韓第大師的敬意
 
 歡迎各位收聽天下文化相信閱讀 書房憲場單元。我是主持人謝文憲憲哥。今天邀請到好朋友來聊聊。雖然我們兩個人都不到90歲，看也知道沒有像到90歲。我今年57歲，范大（范永銀）59歲，沒有到60。但是我們在對談的時候，對這本書以及這位作者，都有非常深刻的體悟。當然這一集雖然這本書我們之前也找過朱為民醫師來聊過，但我覺得今天跟范大會有更多不同的火花的原因是因為，其實我們一開始聊到，他的太太是義大利人，所以我們邀請到這個知名暢銷書作者，未來也會是一個很厲害的下一本書的作者，我們在《第二座山》或者重啟人生這一類的議題當中會有非常多跟大家互動的東西。而且范大也是我在銷售談判領域當中學習的對象。我們歡迎范永銀范大。

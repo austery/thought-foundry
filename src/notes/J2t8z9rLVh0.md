@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Nvidia
@@ -56,9 +56,7 @@ products_models:
 - GPU
 - Omniverse
 - ChatGPT
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J2t8z9rLVh0
 speaker: Amit Kukreja
@@ -73,7 +71,6 @@ tags:
 - quantum-computing
 title: 英伟达 GTC 2025：黄仁勋发布 Blackwell 架构、Rubin 平台及 5000 亿美元业务展望
 ---
-
 ### GTC 2025 展前预测与讨论
 
 Amit：好了，大家好，欢迎。我们实际上只迟到了十秒钟，不算太晚。感谢大家的到来。我们现在正在为英伟达的 **GTC**（GPU Technology Conference: GPU 技术大会）做准备。黄仁勋（Jensen Huang）大约在五分钟后，也就是东部时间中午12点开始演讲，可能会稍晚一点。Tanner，你有什么期待？这应该是一场盛会。

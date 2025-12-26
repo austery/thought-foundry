@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-11-24'
@@ -9,9 +9,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 《第一财经》
-project:
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NMLf7qAFFmA
 speaker: 小翠時政財經
@@ -25,7 +23,6 @@ tags:
 - wealth-management-product
 title: 银行理财“高收益”骗局揭秘：你的钱是如何被银行悄悄挪走的？
 ---
-
 ### 银行理财热潮背后的隐忧
 
 大家好，欢迎回到小翠时政财经。今年有一个很有意思的现象：中国的**A股**（A-share market: 中国内地股票市场）涨得不错，但中国人的钱却没有往股市搬家，反而大家都去买理财了。根据权威媒体披露的数据，今年二季度，银行理财单季增量几乎追平去年全年。到三季度末，全国理财产品的存续规模已经达到32.13万亿，同比增长9.42%。为什么中国老百姓突然更喜欢买理财了？这个不难理解。现在银行存款利率越来越低，而不少理财产品页面上写的收益看起来还是挺诱人的。再加上，**固收类理财**（Fixed-income wealth management products: 主要投资于债券、存款等固定收益资产的理财产品）大多投向**同业存单**（Negotiable Certificates of Deposit, NCDs: 银行之间互相发行和购买的短期存款凭证）和国债，看上去风险不高，于是很多人自然就会动心。

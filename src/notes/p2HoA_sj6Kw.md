@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-13'
@@ -11,11 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p2HoA_sj6Kw
 speaker: 投资TALK君
@@ -29,7 +25,6 @@ tags:
 - us-china-relations
 title: 市场反弹：特朗普妥协信号、银行财报季展望及美中贸易动态解析
 ---
-
 ### 美中贸易争端与市场反应更新
 
 周末期间，市场对特朗普周五推文引发的下跌做出了反馈。许多观众可能不熟悉“Tackle”这个词，它在美式口语中意指**特朗普**（Donald Trump: 美国前总统，政治人物）最终会向市场或现实妥协。其英文原意是“Trump always checks out”，即特朗普永远会向后退缩，这与向市场妥协的意思相似。目前，在录制本期节目时，美股期货市场已经出现反弹，但反弹幅度远小于周五的跌幅，大约只恢复了一半。**B圈**（加密货币市场: Bitcoin等数字货币的交易市场）也出现了反弹，但尚未恢复到周五下跌前的水平。

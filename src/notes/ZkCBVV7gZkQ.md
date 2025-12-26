@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中央电视台
@@ -29,10 +29,7 @@ people:
 - 张艺谋
 products_models:
 - Deepseek
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZkCBVV7gZkQ
 speaker: 張内咸
@@ -46,7 +43,6 @@ tags:
 - technology
 title: 从春晚看中国宣传模式的变迁：赛博党建与未来主义美学回潮
 ---
-
 ### 春晚：从大众娱乐到“数字政绩发表会”
 
 其实，我已有多年未看**春晚**（Spring Festival Gala: 中国中央电视台春节联欢晚会，每年除夕夜播出的综合性文艺晚会）了。以前吃年夜饭的时候，都是陪着老人看，但老人自己也不看，只是习惯性地开着电视，听个声，跟听收音机似的。北京人管那叫**话匣子**（老式收音机: 对早期收音机的俗称）。后来，家里老人慢慢都没了，我自己都快40了，吃饭的时候也就没人开电视了。当然，我父母都是50后，按年纪来说也是老人，但他们也是好些年都不看春晚了。

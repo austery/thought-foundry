@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Netflix
@@ -33,10 +33,7 @@ products_models:
 - HBO Max
 - PCE
 - CDS
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XK_oJOpzHNI
 speaker: 视野环球财经
@@ -50,7 +47,6 @@ tags:
 - stock-valuation
 title: 美联储新主席降息态度引关注，SEC驳回高倍杠杆ETF，Netflix收购WBD面临反垄断挑战
 ---
-
 ### 市场概览与经济数据分析
 
 大家好，欢迎回到视野环球财经。现在是美东时间25年12月5号周五晚上的7点35分。今天的四大指数中，罗素指数独跌，其他三个指数小幅收涨。整体而言，本周愉快地度过了12月的第一周，市场整体表现尚可。在今天的经济数据方面，延迟发布的9月**PCE**（Personal Consumption Expenditures: 个人消费支出，美联储关注的核心通胀指标）数据显示，总体PCE增长了2.8%，与预期一致，小幅超过8月份的2.7%。**核心PCE**（Core Personal Consumption Expenditures: 剔除食品和能源价格后的个人消费支出，更能反映潜在通胀趋势）增长0.2%，与预期和前值一致，同比上涨2.8%，低于预期的2.9%和前值的2.9%。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Catholic Church
@@ -16,9 +16,7 @@ people:
 - Jeffrey Epstein
 - Harvey Weinstein
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jjLFdkYYaOE
 speaker: TVO Today
@@ -31,7 +29,6 @@ tags:
 - sexual-assault
 title: 加拿大青少年冰球的阴暗面：性侵、欺凌与沉默文化
 ---
-
 ### 加拿大冰球界的黑暗面：性侵与欺凌
 
 在此提醒各位观众，本访谈内容涉及性侵讨论。

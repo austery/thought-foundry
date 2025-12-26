@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -21,10 +21,7 @@ people:
 products_models:
 - Optimus
 - Omniverse
-project:
-- us-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3WPjJoYPQAI
 speaker: Nico投资有道
@@ -38,7 +35,6 @@ tags:
 - technological
 title: 人形机器人：中美科技竞赛下的十倍投资赛道
 ---
-
 ### 人形机器人：中美科技竞赛下的新兴投资主线
 
 目前我正在持续定投买入一只ETF，布局未来十年潜在的十倍机会。它很有可能是继AI大模型之后，全球范围内最有潜力的投资板块。中国和美国这两个超级大国，目前正在不惜一切代价地砸钱布局这一领域。如果你不想错过未来的暴涨，想要提前抓住投资风口，请务必认真阅读以下内容。

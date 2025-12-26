@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Scale AI
@@ -22,10 +22,7 @@ people:
 - Evan Spiegel
 products_models:
 - Figma
-project:
-- entrepreneurship
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Do_LjDsisIE
 speaker: EO
@@ -39,7 +36,6 @@ tags:
 - startup-culture
 title: 从辍学到亿万富翁：Lucy Guo的创业与人生信条
 ---
-
 ### 高效日常与自律法则
 
 我的日常作息基本上是每天早上5:30到6:00之间起床。

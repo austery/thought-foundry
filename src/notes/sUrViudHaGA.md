@@ -27,9 +27,7 @@ products_models:
 - Gemini 2.5 Flash
 - Gemini 2.5 Flash Light
 - InBody
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sUrViudHaGA
 speaker: How I AI
@@ -42,7 +40,6 @@ tags:
 - strategy
 title: AI赋能个人健康：打造你的智能表现教练
 ---
-
 ### 打造专属AI教练的初衷
 
 我一直非常热爱运动，不断挑战身体极限，自然而然地，这意味着受伤。对我来说，伤病变得有点难以承受，所以当**ChatGPT**（Generative Pre-trained Transformer: 一种大型语言模型）一推出，我就开始尝试聚合这些数据，以便更清晰地综合分析如何真正优化身体。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - 北京大学
@@ -13,9 +13,7 @@ media_books:
 people:
 - 李宗盛
 products_models: '[]'
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HuL1I10jDME
 speaker: 徒步的騎手
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 改变命运的关键五分钟：从工厂送货员到北大研究生的逆袭之路
 ---
-
 ### 和山丘一样平坦的人生
 
 大家好，这个频道创立九年来，收到了很多朋友的故事。每个人的经历各不相同，但生命中似乎总有某些共通的体验。今天，我想分享一下我自己的故事。

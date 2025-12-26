@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 民主党
@@ -16,9 +16,7 @@ people:
 - 成龙
 - 刘晓波
 - 陈云
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NfL0XmOkGlw
 speaker: 东京人文论坛
@@ -31,7 +29,6 @@ tags:
 - political
 title: 香港六四烛光晚会：从大中华情怀到本土认同，一段跨越32年的民主记忆
 ---
-
 非常感谢武雷律师邀请我来做这个讲座。其实当武雷跟我说要谈香港的时候，我想了很久到底要说什么。我曾想过讲“六七暴动”，也想过讲“雨伞运动”，还想过讲“反送中运动”。可是想来想去，还是觉得讲香港的六四晚会，可能更容易让大家理解。
 
 因为对很多香港人来说，六四晚会是香港集体记忆里第一次大型的民主运动，是第一次可以大规模动员起来的运动。它也是香港人接触什么是民主、什么是自由的第一个切入点。现在很多中国的朋友觉得我们香港人在2014年、2019年特别有勇气，但我想说的是，香港民主运动的源头，其实和北京天安门的八九学运有非常大的关系。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - a16z
@@ -46,10 +46,7 @@ products_models:
 - DeepSeek
 - Grok
 - ChatGPT
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Uho2GupZSgU
 speaker: a16z
@@ -63,7 +60,6 @@ tags:
 - regulatory
 title: David Sacks 深度解析：美国应如何赢得与中国的 AI 竞赛
 ---
-
 ### 欧洲的“领导力”：制定规则而非引领创新
 
 欧洲人对这些事情的心态确实很不一样。当他们谈论 AI 领导力时，他们指的是在制定法规方面取得领先。他们在布鲁塞尔开会，商讨所有规则应该是什么样的。这就是他们所谓的领导力。

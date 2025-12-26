@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Anthropic
@@ -16,8 +16,7 @@ products_models:
 - GPT-4
 - Claude Code
 - Gemini 2.5
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nyvmYnz6EAg
 speaker: Dwarkesh Patel
@@ -29,7 +28,6 @@ tags:
 - llm
 title: AI 发展瓶颈：持续学习的挑战与 AGI 的时间线预测
 ---
-
 ### AGI 时间线讨论
 
 在我主持的播客中，我们经常深入探讨达到**通用人工智能（AGI: Artificial General Intelligence，指拥有与人类相当或超越人类的认知能力，能够理解、学习和应用知识于广泛任务的智能系统）**的时间线。一些嘉宾认为还需要二十年，另一些则预测只需两年。截至 2025 年 7 月，我的看法是这样的。

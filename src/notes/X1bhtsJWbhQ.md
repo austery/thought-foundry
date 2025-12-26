@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -71,10 +71,7 @@ products_models:
 - Blackwell
 - H100
 - H20
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X1bhtsJWbhQ
 speaker: Amit Kukreja
@@ -88,7 +85,6 @@ tags:
 - market-downturn
 title: 市场动荡：马斯克获天价薪酬，英伟达对华销售受阻，美股全线下跌
 ---
-
 ### 市场开盘概览：全线普跌
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月7日，星期五，感谢各位的到来。今天盘前市场表现糟糕，为本周股市的惨淡画上了一个句号。这真是难熬的一天，但老实说，过去几天一直都有这种感觉，所以我理解大家普遍感到很烦恼。

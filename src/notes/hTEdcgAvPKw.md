@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2021-12-05'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hTEdcgAvPKw
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - wealth-management
 title: 揭秘“合格投资者”：富人专属的投资世界与普通人的进阶之路
 ---
-
 ### 引言：揭秘“合格投资者”身份
 
 2015年，我读过一本《穷爸爸富爸爸》作者的另一本书，叫做《富爸爸投资指南》（Rich Dad’s Guide to Investing）。多年过去，书中其他内容已模糊，但一个词汇却让我念念不忘，它就是**合格投资者**（Accredited Investor: 指在美国联邦证券法下被认定为有能力承担高风险投资的个人或机构）。

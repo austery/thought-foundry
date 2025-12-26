@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -33,9 +33,7 @@ people:
 - Rahm Emanuel
 - Bill Maher
 - Tom Brady
-project:
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5APzGySzJSQ
 speaker: Norges Bank Investment Management
@@ -48,7 +46,6 @@ tags:
 - strategy
 title: 从超级经纪人到媒体大亨：Ariel Emanuel的商业帝国与人生哲学
 ---
-
 ### 引言：超级经纪人与媒体大亨
 
 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威央行投资管理公司，负责管理挪威政府养老基金）的首席执行官Nicolai Tangen。今天，我非常荣幸能与超级经纪人兼媒体大亨Ariel Emanuel共处一室。

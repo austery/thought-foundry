@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 携程
@@ -10,10 +10,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GONvcddiu1c
 speaker: 莊也雜談
@@ -27,7 +24,6 @@ tags:
 - travel
 title: 上海之旅争议与反思：从“高华”标签到本地人推荐，兼谈高铁购票与民宿风波
 ---
-
 ### 上海之旅的争议与澄清
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天，咱们继续聊2024年的回国之旅，话题仍与上海有关。不过，今天咱们主要点评一下上一期节目中一些比较有争议性的留言，以及有几处需要更正或补充的信息。

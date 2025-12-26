@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-15'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - new-york-times-podcasts
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YxMjce6kSJY
 speaker: New York Times Podcasts
@@ -24,7 +23,6 @@ tags:
 - trump-administration
 title: 边境沙皇与5万美元现金：霍曼案为何持续发酵？
 ---
-
 ### 边境沙皇的现金疑云
 
 Natalie Kitroof: From the New York Times, I'm Natalie Kitroof.

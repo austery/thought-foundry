@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Pixar
@@ -31,9 +31,7 @@ people:
 - Sam Altman
 products_models:
 - iPad
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jroF3PH-PTs
 speaker: The Diary Of A CEO
@@ -47,7 +45,6 @@ tags:
 - thinking
 title: 布琳·布朗：我们正处于一场精神危机——解析勇气、脆弱性与真正的归属感
 ---
-
 ### 导言：盔甲、脆弱性与勇气
 主持人：你是我们收到最多点播要求的嘉宾。
 

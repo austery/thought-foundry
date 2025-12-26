@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 发改委
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - Xi Jinping
 products_models: []
-project:
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Z_JR68GYMDI
 speaker: FearNation 世界苦茶
@@ -27,7 +25,6 @@ tags:
 - public
 title: 中国经济：公众体感冰冷，官方为何“异常满意”？
 ---
-
 ### 公众体感与官方判断的巨大鸿沟
 
 今天我们采集了大家的意见，关于2025年中国经济，您是满意还是不满意？在142位参与者中，高达66%表示不满意。剩余的34%中，19%表示不知道，真正满意的仅有5%，中等的12%。简单调查显示，绝大多数人对2025年的中国经济感到非常不满意，这种体感可能代表了很多人的心态，无论是工资停滞、失业蔓延还是消费不振，普通人都感觉到这不是一年好日子。

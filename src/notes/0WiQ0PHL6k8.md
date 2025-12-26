@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -103,10 +103,7 @@ products_models:
 - Gemini 3
 - Claude
 - HBM
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0WiQ0PHL6k8
 speaker: Amit Kukreja
@@ -120,7 +117,6 @@ tags:
 - technical-analysis
 title: 英伟达回应谷歌TPU挑战，戴尔财报超预期，市场情绪回暖
 ---
-
 ### 市场概览与财报预告
 
 好了，大家好，欢迎回到新一期的市场收盘节目。我们正在直播，今天是11月25日，星期二。朋友们，今天我们有一大堆财报要公布，接下来的15分钟内，我们会逐一分析这些财报更新。我们有利好消息的公司包括戴尔、Workday、CleanSpark、Autodesk、惠普以及其他几家公司。我刚刚在聊天区发起了一个投票，看看你们认为哪家公司会表现出色。

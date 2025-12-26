@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-15'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jOr8I4J2QiA
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - trade-war
 title: 鲍威尔暗示美联储或降息，中美贸易升级与全球经济挑战
 ---
-
 ### 市场动态与美联储政策展望
 
 欢迎收听彭博社Daybreak Huet播客，今天是10月15日星期三。来自伦敦的Caroline Hepka和来自布鲁塞尔的Steven Carroll为您播报。今日市场受**美联储**（Federal Reserve: 美国中央银行系统）主席杰罗姆·鲍威尔言论影响，其指出美国劳动力市场疲软，促使市场预期将进一步**降息**（Interest Rate Cut: 降低基准利率以刺激经济），股市随之上涨。与此同时，美国和中国的贸易战持续升温。此外，前美国驻伦敦大使馆已改建成豪华酒店，成为外交领域的新焦点。以下是今日头条新闻回顾。

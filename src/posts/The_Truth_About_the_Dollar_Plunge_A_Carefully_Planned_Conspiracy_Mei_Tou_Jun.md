@@ -9,8 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: 美投讲美股
@@ -21,7 +20,6 @@ tags:
 - us-economy
 title: 美元暴跌的真相：一场精心策划的阳谋？
 ---
-
 ## 川普的政策与全球资本的博弈
 
 ### 引言：市场崩盘与美元的意外走弱

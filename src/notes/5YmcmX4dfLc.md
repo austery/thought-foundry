@@ -25,10 +25,7 @@ people:
 products_models:
 - ChatGPT
 - GPT-5
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 source: https://www.youtube.com/watch?v=5YmcmX4dfLc
 speaker: ''
 status: evergreen
@@ -40,7 +37,6 @@ tags:
 - problem
 title: AI时代的教育变革：对话罗博深教授——如何培养孩子的核心竞争力与善良品质
 ---
-
 ## 对话开场与嘉宾介绍
 
 夏宇迷: 罗教授是美国奥数队的总教练，也是**卡内基梅隆大学**（Carnegie Mellon University，简称CMU）的数学教授。很多人可能都见过罗教授，因为他在全世界一百多个城市做过讲座，把他对于数学的热情和学习方法传递给各地的人。我和我女儿也听过罗教授的讲座，我女儿听过一次后就很喜欢，说这个老师讲得真好，所以我女儿也是罗教授的粉丝。

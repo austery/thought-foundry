@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TED
@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CfPFU4UaaRA
 speaker: TED
@@ -25,7 +23,6 @@ tags:
 - strategy
 title: 地球的活力：生态系统韧性与气候适应之道
 ---
-
 ### 森林的奥秘与地球的脉搏
 
 当你看到这片森林时，你会想到什么？

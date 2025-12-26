@@ -21,10 +21,7 @@ people:
 - Jerome Powell
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Yw7eMPK9iy8
 speaker: Bloomberg Podcasts
@@ -36,7 +33,6 @@ tags:
 - political-pressure
 title: 美联储独立性受损：政治压力如何影响货币政策与市场预期
 ---
-
 ### 美联储独立性：一场日益激烈的辩论
 
 **Tracy:** 大家好，欢迎收听《奇思妙想》（"Odd Lots podcast"）播客的又一期节目，我是特雷西·阿洛韦（Tracy Alloway）。

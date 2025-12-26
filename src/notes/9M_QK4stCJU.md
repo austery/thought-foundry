@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - NASA
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Daniel Kahneman
-project:
-- personal-growth-lab
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9M_QK4stCJU
 speaker: Veritasium
@@ -28,7 +25,6 @@ tags:
 - risk
 title: 过度自信的陷阱：从银行倒闭到认知偏差
 ---
-
 ### 尼克·里森的开端：过度自信的萌芽
 
 1992年7月17日星期五，在**新加坡国际证券交易所**（SGX: Singapore Exchange Limited，新加坡最大的金融市场运营商）混乱的交易大厅里，一名初级交易员犯了一个代价高昂的错误。她本应为客户购买20份**期货合约**（Futures Contracts: 一种标准化合约，约定在未来特定日期以特定价格买卖某种资产），却错误地卖出了它们，导致**贝林银行**（Barings Bank: 英国历史最悠久的商业银行之一，因交易员尼克·里森的过度投机而倒闭）损失了近4万美元。为了保住她的工作，她的上司尼克·里森（Nick Leeson），一位渴望有所作为的年轻交易员，决定隐瞒这笔损失。他将其放入一个不为人知的**错误账户88888**（Account 88888: 银行用于处理小额交易差异的内部账户）中。这个账户通常被银行用来解决交易中的小额差异。这是一个危险的举动，本应立即被中央办公室发现。然而，当贝林银行的任何人都没有察觉时，里森的信心大增，他确信自己能够弥补损失，并让团队摆脱困境。

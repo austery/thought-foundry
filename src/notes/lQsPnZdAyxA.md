@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - FBI
@@ -12,9 +12,7 @@ layout: post.njk
 media_books:
 - 《判断人心：一位资深FBI特工的行为预测用户手册》
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lQsPnZdAyxA
 speaker: 北美王路飞
@@ -28,7 +26,6 @@ tags:
 - trust
 title: FBI识人系统：掌握6大信号，精准预测他人行为
 ---
-
 ### FBI探员罗宾的棘手任务：与神秘线人Leo的初次交锋
 
 本期视频将继续探讨FBI顶级探员亲授的六步识人系统。故事始于一个特殊的日子——2001年12月24日，911恐怖袭击阴影笼罩下的平安夜。当时，纽约仍是惊弓之鸟。本书作者、FBI探员**罗宾**（Robin）在纽约一艘二战时期的航空母舰“无畏号”上临时办公，因为他们原有的办公室在袭击中被毁。正是在这个关键时刻，罗宾接手了一个令他头疼不已的案件：他需要搞定一位名叫**Leo**的线人。Leo并非寻常人物，他神秘古怪，难以捉摸。在罗宾之前，已有14位FBI探员试图与他合作，但都以失败告终，这几乎成了一个魔咒。罗宾深感压力，担心自己会成为第15个失败者，掉进Leo设下的陷阱。面对这个烫手山芋，罗宾一开始也犯了大多数人常犯的错误——想得太多。他甚至怀疑Leo是否是双面间谍。当他听到Leo家中有人喊了一句“dead”（死亡）时，他吓得不轻，后来才发现是Leo的孙子在用俄语喊“爷爷”（ded），发音相似而已。

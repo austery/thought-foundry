@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - FBI
@@ -12,10 +12,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 《超人前传Smallville》
-project:
-- systems-thinking
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wvgetrlZLYo
 speaker: 记者易速利
@@ -29,7 +26,6 @@ tags:
 - society
 title: 从明星到邪教受害者与加害者：艾莉森·麦克与NXIVM的沉浮之路
 ---
-
 ### 艾莉森·麦克：从明星到邪教核心成员的沉浮
 
 曾出演知名美剧《超人前传》（**Smallville**: 一部讲述超人青年时期的美国电视剧）的艾莉森·麦克，因在性邪教组织**NXIVM**（一个以“自我提升”为幌子，实则进行精神控制和性剥削的邪教团体）中担任主要招募者，并承认了敲诈勒索罪名，首次公开发声。她表示自己并不无辜。这位美国演员曾因在电视剧《超人》系列中的角色而闻名，后来又因其在NXIVM邪教组织中所扮演的角色，以及因敲诈勒索和共谋敲诈勒索两项罪名被判刑三年而频繁出现在新闻和纪录片中。她实际服刑约两年，于2023年7月从联邦监狱获释。

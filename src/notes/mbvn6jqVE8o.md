@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Costco
@@ -29,10 +29,7 @@ people:
 products_models:
 - ChatGPT
 - Gemini
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mbvn6jqVE8o
 speaker: 视野环球财经
@@ -47,7 +44,6 @@ tags:
 - tariff-policy
 title: 美股市场动态：Costco关税诉讼、AI巨头竞争、财报解析与特斯拉做空风云
 ---
-
 大家好，欢迎回到视野环球财经。现在是美东时间25年12月2号周二晚上的7点15分。今天的四大指数中，罗素指数独跌，纳指涨幅领先，整体成交量有所回升，看来大家正逐渐从感恩节及网络星期一的狂欢中醒来。今天的标普500指数有216只成分股上涨，286只下跌。标普11个板块中，只有科技、工业和通讯板块上涨，其余8个板块均下跌。由于今天没有重要的经济数据发布，我们将直接跟进一些个股的重要信息，并一同更新它们的位置和目前的走势。
 
 ### Costco对美政府提起关税诉讼及股价分析

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - NordVPN
@@ -20,9 +20,7 @@ people:
 products_models:
 - iPhone
 - iPod
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=j5v8D-alAKE
 speaker: veritasium
@@ -36,7 +34,6 @@ tags:
 - right
 title: 揭秘百年阴谋：从灯泡到iPhone，计划性报废如何塑造我们的消费世界
 ---
-
 ### 灯泡的百年之谜与“永恒产品”的困境
 
 这是一个关于汽车、手机和灯泡，以及一个真实阴谋如何让它们变得更糟的视频。

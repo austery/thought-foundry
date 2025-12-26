@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -13,9 +13,7 @@ people:
 - 李思賢
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X35TinQtLTc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - real
 title: 体检正常不等于健康：医生警告肝脏与糖尿病风险，兼论健康居住理念与房产选择
 ---
-
 ### 健康体检的盲区与Ted的健康蜕变
 
 **李思賢醫師:** 哈啰，大家好，我是思思医师。今天很开心能来到AI教父**黄仁勋**的爱店——**春韭**。这家餐厅的名字取自杜甫诗句，展现了用心准备酒宴的精神，以供应依当季食材而设计的无菜单料理为特色，是许多明星、政商名流以及今天神秘来宾的餐厅口袋名单。它的招牌菜是用五只全鸡细火慢炖的黄金鸡汤，还有经典菜和牛黄金包，包裹澳洲M9和牛。丰富的菜肴让人食指大动，让我们边吃边聊吧。今天我们有一位非常特别的大来宾，就是35线上赏屋的Ted。

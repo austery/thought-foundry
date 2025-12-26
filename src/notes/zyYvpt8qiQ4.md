@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - SpaceX
@@ -17,9 +17,7 @@ media_books:
 people:
 - Elon Musk
 products_models: []
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zyYvpt8qiQ4
 speaker: Money or Life 美股频道
@@ -35,7 +33,6 @@ title: SpaceX上市引爆太空投资：深度解析RKLB与SATS的替代投资�
 companies:
 - spacex-ipo
 ---
-
 ### SpaceX上市：马斯克的转变与太空数据中心新机遇
 
 大家好，欢迎来到Money or Life美股频道，我是ace。仅仅在4天以前，我刚出了一期关于SpaceX上市，以及对于Rocket Lab（火箭实验室）股价影响的视频。没想到仅仅过了4天，它有多新的关于SpaceX上市的消息和数据传出来，本期视频就为大家做一个更新。接下来我主要覆盖三部分内容。第一部分，根据一篇专题报告文章，以及我自己去挖了一下马斯克最近关于SpaceX的推文，告诉大家，为什么马斯克要决定让SpaceX上市。第二部分，现在有了SpaceX上市的具体确认，以及未来可能的估值，对于Rocket Lab（火箭实验室）这家公司有什么影响呢？对它的估值对比有什么变化？我也简单来看一下。第三部分是本期视频的重点，我们来聊一聊SpaceX的替代概念股。

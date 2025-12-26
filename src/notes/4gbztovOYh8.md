@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - PayPal
@@ -14,10 +14,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4gbztovOYh8
 speaker: Shijun Tang
@@ -31,7 +28,6 @@ tags:
 - power
 title: PayPal、星巴克与ASM财报深度剖析：市场情绪、商业模式与行业垄断的博弈
 ---
-
 ### PayPal：基本面改善却遭市场抛弃
 
 PayPal发布最新财报后，华尔街并未给予正面回应。财报当日，其股价暴跌13.74%。作为长期持有者，我早已习惯这种情绪波动——这是一家始终不受市场待见的公司。每当市场似乎开始认可其价值时，总会出现新的质疑声将其拉回。

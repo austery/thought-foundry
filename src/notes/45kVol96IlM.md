@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Uber
@@ -36,10 +36,7 @@ products_models:
 - GitHub
 - ChatGPT
 - Next.js
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=45kVol96IlM
 speaker: The Pragmatic Engineer
@@ -54,7 +51,6 @@ tags:
 - tech
 title: Armin Ronacher 深度访谈：AI 如何重塑 Python、Go、Rust 的选择与未来
 ---
-
 ### 播客介绍
 
 Host：你如何看待当今的 Python、Rust 和 Go 的生态系统？

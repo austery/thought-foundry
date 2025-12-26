@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - Canadian Pacific Railway
@@ -10,8 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sD5VGyQ-XUA
 speaker: 莊也雜談
@@ -25,7 +24,6 @@ tags:
 - travel
 title: 班夫美景大赏（五）：优鹤与库特尼，被低估的加拿大落基山顶级秘境
 ---
-
 大家好，我是庄野，欢迎您收看庄野杂谈加拿大系列节目。今天咱们继续讲班夫系列，也是最后一部分，优鹤和库特尼。如果时间够的话，**优鹤国家公园**（Yoho National Park: 加拿大洛基山脉中的一个国家公园，以其壮丽的瀑布、湖泊和化石遗址而闻名）和**库特尼国家公园**（Kootenay National Park: 加拿大洛基山脉中的一个国家公园，以其温泉、冰川和峡谷景观为特色）这两个公园，如果按照风景排名以及人气的排名，都排在**班夫国家公园**（Banff National Park: 加拿大历史最悠久的国家公园，以其高山、湖泊和野生动物而闻名）跟**贾斯珀国家公园**（Jasper National Park: 加拿大洛基山脉中最大的国家公园，以其冰川、湖泊和野生动物而闻名）之后。不过您可千万不要小看这两个公园，它里面的风景绝对是被媒体严重低估了，属于那种宣传不够，其实那里面的风景真的不比班夫跟贾斯珀差，至少我这么以为。要是不信的话，今天我就好好地给您续导续导，看您是不是也跟我想的一样。
 
 讲之前先更正一个也不能说是错误了，就是一个补充说明。上集咱们说到马林峡谷的时候，我当时说为了节省时间，从一桥到四桥咱们腿着走，五桥和六桥开车去。后来有观众朋友指出，其实从四桥到五桥之间不应该忽略，也应该走着去，因为这一路之上的风景也是非常的漂亮。这个您心里清楚，如果有时间的话可以走一下。好，这是对上级的一个补充。

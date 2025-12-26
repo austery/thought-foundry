@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Goldman Sachs
@@ -31,10 +31,7 @@ people:
 - Charlie Munger
 - Warren Buffett
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RrF26yMfUpo
 speaker: 北美王路飞
@@ -48,7 +45,6 @@ tags:
 - history
 title: 2008年美国金融危机系列：华尔街的皇帝新衣与异类的清醒洞察
 ---
-
 ### 2008年美国金融危机系列开篇：《大空头》的视角
 
 大家好，欢迎来到我的频道。今天，我们将开启一个新系列，深入探讨2008年的美国金融危机。关于这个话题，我阅读了多本书籍，它们从不同角度描述了这场大事件。在我看来，**迈克尔·刘易斯**（Michael Lewis: 一位擅长非虚构写作的纪实类作家）所著的《**大空头**》（The Big Short: 一本关于2008年金融危机的纪实文学作品）是其中最精彩、戏剧性最强的一本。作为这个长系列的开篇，我们将以《大空头》这本书为基础进行讲解。

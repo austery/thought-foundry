@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 南方都市报
@@ -18,10 +18,7 @@ media_books:
 people:
 - 艾晓明
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Fd_HNbKGzOQ
 speaker: 东京人文论坛
@@ -35,7 +32,6 @@ tags:
 - state-civil-society-relations
 title: 二十年风云：中国女权运动与媒体、国家的复杂博弈
 ---
-
 ### 我的位置：作为亲历者的二十年回顾
 
 我想从我的个人位置开始谈起。女权主义的方法论非常强调我们自身的位置，即“我”在何处，我是以一个什么样的行动者位置，来开始我的行动与思考。我之所以将时间范围定为二十年，是因为这正是我亲身经历的时期，尽管中国的民间女权运动历史远不止二十年。我会比较重点地讲述我自己了解的事情。

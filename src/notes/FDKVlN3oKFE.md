@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Berkshire Hathaway
@@ -18,9 +18,7 @@ people:
 - Richard Nixon
 - Ronald Reagan
 products_models: []
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FDKVlN3oKFE
 speaker: 海淀拙大叔
@@ -34,7 +32,6 @@ tags:
 - wealth
 title: 巴菲特的财富奇迹：时代与个人能力的交织
 ---
-
 ### 巴菲特的财富奇迹：时代与个人能力之辩
 
 大家好，欢迎来到老卓说。我们这个“故事中的投资学”系列，旨在通过一个个小故事，为大家带来一个宏大、历史且更具高度的投资视角。今天是第一集，我们将探讨：是时代造就了巴菲特，还是巴菲特造就了他自己的时代？

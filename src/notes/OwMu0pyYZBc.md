@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -11,8 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude Code
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OwMu0pyYZBc
 speaker: Anthropic
@@ -25,7 +24,6 @@ tags:
 - history
 title: Claude Code：赋能 COBOL 遗留代码库现代化改造
 ---
-
 ### Claude Code 助力 COBOL 遗留代码现代化
 
 让我们探讨开发者如何利用**Claude Code**来现代化**COBOL**（Common Business-Oriented Language: 一种面向事务处理的编程语言）代码库。为了本次演示，我们将使用**AWS**（Amazon Web Services: 亚马逊云计算服务）的**大型机**（mainframe: 一种高性能、高可靠性的计算机系统，常用于处理大规模关键业务数据）现代化演示存储库。这是一个中等规模的信用卡管理系统，包含大约100个文件，其中包括COBOL程序、**copybooks**（COBOL中的数据结构定义文件，用于定义共享的数据结构）和**JCL**（Job Control Language: 大型机作业控制语言，用于向操作系统提交作业）脚本。

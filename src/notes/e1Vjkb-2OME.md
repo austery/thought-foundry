@@ -20,10 +20,7 @@ people:
 - Michael Burry
 - Carl Icahn
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=e1Vjkb-2OME
 speaker: Shijun Tang
@@ -35,7 +32,6 @@ tags:
 - security
 title: 超级投资大佬的持仓动向与价值投资真谛：从星巴克到阿里、耐克与谷歌的深层分析
 ---
-
 ### 星巴克换帅与Chipotle的传奇CEO：一次完美交接
 
 本周最大的财经事件之一，是星巴克任命了新任首席执行官Brian Niccol。这位高管此前担任Chipotle的CEO，在其任职期间，Chipotle的股价从不足7美元飙升至69.26美元，涨幅高达1207.3%，即翻了超过13倍。他的领导力不仅体现在营收增长上，更重塑了公司的财务健康与品牌声誉。

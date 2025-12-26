@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -18,10 +18,7 @@ people:
 - Christopher Waller
 - Stephen Miller
 - Lawrence Summers
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n_rMHoC5b1s
 speaker: 政經孫老師
@@ -35,7 +32,6 @@ tags:
 - us-monetary-policy
 title: 川普与美联储的利率之战：美国经济的深层症结与未来走向
 ---
-
 ### 川普与美联储的利率冲突：一场持续的战争
 
 今天我们来探讨川普和**美联储**（Federal Reserve: 美国中央银行体系，负责制定货币政策）之间的战争。这个话题关系到美联储的利率走势和美国经济的未来，因此有必要深入讨论。川普对美联储的批评由来已久，主要集中在利率政策上。川普一直希望美联储能够降息，但美联储却坚持不降息，这导致了双方的矛盾。

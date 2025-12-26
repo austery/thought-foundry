@@ -10,8 +10,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
+project: []
 series: null
 source: https://www.youtube.com/watch?v=6QRm8HIOLQ0&t
 speaker: ZetaBook
@@ -21,7 +20,6 @@ tags:
 - 資源詛咒
 title: 讀書筆記《超越資源的詛咒》：台灣半導體產業的荷蘭病隱憂
 ---
-
 ## 「矽盾」的迷思與詛咒
 
 2021年，蔡英文總統在《美國外交事務》雜誌上發表了一篇文章。這篇文章談民主的部分已經很少人記得了，全世界記住的反而是她文中丟出的一個安全概念：「矽盾」(Silicon Shield)。

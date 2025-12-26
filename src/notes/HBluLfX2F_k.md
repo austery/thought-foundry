@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Y Combinator
@@ -17,10 +17,7 @@ media_books:
 - Harry Potter
 products_models:
 - NordVPN
-project:
-- systems-thinking
-- historical-insights
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HBluLfX2F_k
 speaker: Veritasium
@@ -34,7 +31,6 @@ tags:
 - universality
 title: 改变你世界观的图表：正态分布、对数正态分布与幂律
 ---
-
 ### 并非所有事物都“正常”
 
 有些事物并非“正常”。我的意思是，如果你去世界上测量一些东西，比如人的身高、智商（**IQ**: Intelligence Quotient，智力商数）或者树上苹果的大小，你会发现对于这些事物中的每一个，大部分数据都聚集在某个平均值附近。这种现象非常普遍，我们称之为**正态分布**（Normal Distribution: 一种常见的概率分布，其图形呈钟形曲线，对称地分布在平均值周围）。

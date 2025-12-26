@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-05-25'
@@ -21,10 +21,7 @@ people:
 - Hegel
 - Li Shimin
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=558ffJj1r2Q
 speaker: Anthony看世界
@@ -39,7 +36,6 @@ tags:
 - system
 title: 秦制如何塑造中国文化：从阳明心学矛盾看历史内卷
 ---
-
 ### 阳明心学的吸引力与内在矛盾
 
 今天，让我们继续探讨**阳明心学**（Wang Yangming's philosophy of mind: 一种强调个人独立、自我觉醒的儒家学说）与中国文化。

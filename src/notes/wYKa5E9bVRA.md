@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -15,10 +15,7 @@ media_books:
 people:
 - Nikola Tangen
 - Jack Ma
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wYKa5E9bVRA
 speaker: Norges Bank Investment Management
@@ -34,7 +31,6 @@ tags:
 - financial-market-infrastructure
 title: 伦敦证券交易所集团 (LSEG) CEO 谈金融市场、AI 与企业文化转型
 ---
-
 ### 欢迎来到《与好公司同行》
 
 [音乐]

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-11-05'
 draft: true
@@ -11,10 +11,7 @@ media_books:
 - 《人之彼岸》
 - 《终结者》
 products_models: []
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ywspdt4mbJc
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - management
 title: 郝景芳：AI时代，任何说学某个专业不会被淘汰的说法都不要信，人要学会与AI共生进化
 ---
-
 ### AI时代：机遇与挑战并存
 
 大家好，我叫郝景芳，是一名**科幻作家**（Science Fiction Writer: 创作以科学技术发展为背景的虚构故事的作家），也是一位**教育创业者**（Education Entrepreneur: 创办并运营教育相关企业的人）。这些年我已做了八年的教育创业。我觉得我这两个身份——科幻作家和创业企业家——都有一个共同的特点，就是一定要思考未来。这两个身份如果不思考未来，其实是完全没有前途的。我们当下这个时代最重要要思考的未来，就是关于**AI人工智能**（Artificial Intelligence: 模拟、延伸和扩展人类智能的理论、方法、技术及应用系统）。

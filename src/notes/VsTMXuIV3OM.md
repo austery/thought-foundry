@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - McKinsey
@@ -24,9 +24,7 @@ people:
 - Elon Musk
 products_models:
 - CRM
-project:
-- personal-growth-lab
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VsTMXuIV3OM
 speaker: The Diary Of A CEO
@@ -39,7 +37,6 @@ tags:
 - mindset
 title: 娜塔莉·道森：五年收入翻十倍的PPF框架与成功心态
 ---
-
 ### 财富的真相：为何努力工作未得回报？
 
 **主持人：** 娜塔莉，对于刚刚点开这段对话的观众来说，你认为他们留下来倾听我们今天将要讨论的内容，以及你整个职业生涯所理解的一切，为什么是重要的？

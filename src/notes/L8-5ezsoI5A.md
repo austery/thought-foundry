@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -17,9 +17,7 @@ products_models:
 - Claude
 - Gemini
 - Apple Watch
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=L8-5ezsoI5A
 speaker: AI Engineer
@@ -32,7 +30,6 @@ tags:
 - startup
 title: HF0孵化器七大顶尖AI初创公司：下一代独角兽展望
 ---
-
 ### Kore.ai：驾驭AI生成内容的“流量”挑战
 
 大家好，我叫迭戈·罗德里格斯（Diego Rodriguez），是Kore.ai的联合创始人兼首席技术官。我们正在构建一个**AI创意套件**（AI Creative Suite: 一套利用人工智能辅助内容创作的工具）。我将讲述三个故事，然后尝试邀请大家加入我们。

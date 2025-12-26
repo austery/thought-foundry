@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - DoorDash
@@ -20,8 +20,7 @@ products_models:
 - Whoop
 - Ozempic
 - GLP-1
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P1CeHGJOX5g
 speaker: The Diary Of A CEO
@@ -33,7 +32,6 @@ tags:
 - science
 title: 女性健康新范式：专家揭示贯穿一生的运动、营养与荷尔蒙策略
 ---
-
 ### 引言：为何要专门探讨女性健康？
 
 在这次对话中，我想探讨运动、营养、禁食、生活方式、睡眠和环境因素。第一个问题是，为什么肌肉对女性尤为重要？

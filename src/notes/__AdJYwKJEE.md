@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - YouTube
@@ -19,10 +19,7 @@ people:
 - Ray
 - Paul
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=__AdJYwKJEE
 speaker: 一口新飯
@@ -37,7 +34,6 @@ tags:
 - signal-noise-distinction
 title: 如何分辨人生中的信号与噪音？我的5个思维模型
 ---
-
 ### 区分信号与噪音：源于争议的思考
 
 前一阵子，我发布了一个关于**Vibe Coding**（一种关于个人状态和环境优化的实践或理念）的视频，并在视频最后介绍了我的新创业项目——一个AI社群。结果，这个视频成为了我做YouTube以来最具争议的一个，收到了大量的负面评论。评论之多，甚至有粉丝发私信来表达支持，关怀我的内心状态，希望我不要被这些评论伤害到。

@@ -33,8 +33,7 @@ people:
 - Kamala Harris
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8SlweIXsxig
 speaker: New York Times Podcasts
@@ -48,7 +47,6 @@ tags:
 - trend
 title: 2025年图书界回顾：趋势、挑战与亮点
 ---
-
 Hello and welcome to the Book Review Podcast. I'm MJ Franklin, an editor here at The New York Times Book Review. The year is almost done, the holidays are upon us, and the new year is on the horizon. But before we jump to 2026, I wanted to take a break and ask: what did 2025 mean for books? I don't mean the biggest and best books; you can find that in our previous episode. Today, I want to explore the big picture of 2025 for the book world. What was the year like? Were there dominant storylines or emerging trends? Looking back in 10, 20, or 50 years, how will we characterize this year in books? Joining me to debrief are my wonderful colleagues: Tina Jordan, a deputy editor here at The Book Review, and John Maher, a new book news editor. Welcome back to Alexandra Alter, a books reporter for The New York Times.
 
 Alexandra, you write profiles of authors, literary trends, and breaking news about the publishing industry. You know everything. Not as much as Tina and John, but collectively, we might know almost everything. Our powers combined! I wanted to gather the smartest book people I know to talk about the year. First, a vibe check: How are you feeling about 2025? I'll start. I feel the year was both exhausting and 'meh.' Not that there weren't good books, but the energy seemed deflated. Tina, do you agree?

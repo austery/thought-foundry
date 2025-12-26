@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Meituan
@@ -13,8 +13,7 @@ media_books:
 people:
 - Bai Juyi
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KkwyUc3CLag
 speaker: 莊也雜談
@@ -28,7 +27,6 @@ tags:
 - urban-governance
 title: 北京“低端人口”的生存现状：从挣扎到无奈逃离的城市边缘群体
 ---
-
 ### 深入探讨北京“低端人口”的生存现状
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊回国的话题。上集我们谈到了在北京生活比较滋润的一群人，包括企事业单位的退休人员、体制内员工、大厂员工以及在外企工作的人。今天，我们将深入探讨那些在北京生活不那么舒服的人群，换句话说，就是那些低学历、低收入，绝大多数生活在城乡结合部的**外来人口**（Wàilái Rénkǒu: 指从外地来到某地居住和工作的人）。

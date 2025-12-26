@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2024-12-23'
@@ -22,9 +22,7 @@ people:
 - Karl Marx
 - Milton Friedman
 - adam-s-axiom
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dQ_UPQa3CUE
 speaker: Adam's Axiom
@@ -38,7 +36,6 @@ tags:
 - market
 title: 20分钟速览：理解全球经济的十大核心理论
 ---
-
 ### 古典经济学：看不见的手
 
 古典经济学将经济体描绘成一台庞大的机器，在不受干预时运行最佳。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -25,10 +25,7 @@ people:
 - Elon Musk
 products_models:
 - Robotaxi
-project:
-- ai-impact-analysis
-- market-cycles
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-tzDeGtUH-8
 speaker: 海伦子Hellen
@@ -42,7 +39,6 @@ tags:
 - technology
 title: 自动驾驶：从造车到AI平台的商业逻辑与未来竞争格局
 ---
-
 ### 特斯拉的战略转型与自动驾驶的行业趋势
 
 特斯拉下一步的发展重点是**自动驾驶出租车**（Robotaxi: 一种无人驾驶的共享出行服务），具体细节将在今年8月8日正式发布。这意味着特斯拉将成为第一家从造车转型到做AI和软件平台的公司。一旦这个转型成功，特斯拉的市场占有率将更大，直接影响其估值和未来几年的股价。无论成功与否，特斯拉都将成为其他新能源造车公司借鉴或效仿的对象，毕竟现在80%的电动车初创公司都在研究自动驾驶，这是行业趋势，也更利于这些初创公司去融资。

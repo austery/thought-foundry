@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -30,10 +30,7 @@ products_models:
 - ChatGPT
 - XLA
 - CUDA
-project:
-- us-analysis
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HAhhW-EyFq4
 speaker: 小翠時政財經
@@ -47,7 +44,6 @@ tags:
 - supply-chain-restructuring
 title: AI泡沫、科技巨头策略与市场展望：小翠时政财经深度解析
 ---
-
 ### 市场回顾与AI板块表现
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月7日，欢迎收看我们今天的每日要闻节目。首先我们从A股开始讲起，11月7日A股震荡收跌，沪指跌0.25%，深成指跌0.36%，创业板指跌0.51%。盘面上个股也是跌多涨少，像机器人、量子科技、信创、AI应用等板块都是领跌，估计是受到美国这边对整个AI板块质疑的影响。

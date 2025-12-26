@@ -11,9 +11,7 @@ layout: post.njk
 products_models:
 - TQQQ
 - 美特prop lus
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oCeRjVa4D60
 speaker: 美投讲美股
@@ -25,7 +23,6 @@ tags:
 - technology
 title: 散户加杠杆注定失败？破解期权迷局，LIP Call策略或成可行之路
 ---
-
 ### 散户加杠杆的困境
 
 大家好，我是米德军，你们的美股探路者。本期视频将深入探讨为什么散户加杠杆往往注定失败。无论你是否已经使用了杠杆，本次内容都将为你提供有价值的参考。我们将从最底层的原理分析散户加杠杆难以成功的原因，帮助你在面对投资加杠杆时，做出更明智的选择。本次讨论仅限于股票投资，其他资产暂不涉及。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Brilliant.org
@@ -12,9 +12,7 @@ people:
 - Napoleon
 - Ludwig Boltzmann
 - Stephen Hawking
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DxL2HoqLbyA
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - time
 title: 物理学中最被误解的概念：熵
 ---
-
 ### 物理学中最被误解的概念：熵
 
 这是一个关于物理学中最重要的概念之一，但它却最不为人所理解。

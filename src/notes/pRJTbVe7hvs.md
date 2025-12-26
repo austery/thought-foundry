@@ -31,10 +31,7 @@ people:
 - Donald Trump
 products_models:
 - TikTok
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pRJTbVe7hvs
 speaker: 视野环球财经
@@ -47,7 +44,6 @@ tags:
 - us-stock-market
 title: 美股大盘深度回调：科技巨头面临考验，Michael Burry转向激进做空AI
 ---
-
 ### 美股市场概览与下跌原因分析
 
 现在是美东时间25年11月13号周四晚上的8点45分。今天的四大指数大幅下跌，其中**纳指**（Nasdaq Composite Index: 美国三大股指之一，以科技股为主）领跌，更多强势股票出现破位。**标普**（S&P 500 Index: 美国三大股指之一，包含500家大型上市公司）500指数有371只个股下跌，只有130只上涨。标普11个板块中，只有能源板块上涨，其余10个板块均下跌。此外，今天的**费城半导体指数**（Philadelphia Semiconductor Index: 衡量半导体行业表现的股票指数）30只股票全部下跌。

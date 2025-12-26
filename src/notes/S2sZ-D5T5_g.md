@@ -1,6 +1,6 @@
 ---
 Series: null
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: LennysPodcast
@@ -14,8 +14,7 @@ insight: null
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 source: https://www.youtube.com/watch?v=S2sZ-D5T5_g
 speaker: ''
 summary: 很喜欢Anthropic的team,而不是Sam Altman给人画大饼的宣传。Anthropic联合创始人Ben Mann讨论了通往通用人工智能（AGI）的加速进展（预测为2028年），他为何离开OpenAI共同创立Anthropic并专注于安全，以及人工智能对就业的社会影响。他强调了对齐研究和构建可信赖AI的重要性。
@@ -25,7 +24,6 @@ tags:
 - superintelligence
 title: Anthropic联合创始人Ben Mann：AGI预测、AI安全及人类的未来
 ---
-
 Lenny Rachitsky: Ben, thank you so much for being here. Welcome to the podcast.
 
 列尼·拉奇茨基: Ben，非常感谢你来到这里。欢迎来到我们的播客。

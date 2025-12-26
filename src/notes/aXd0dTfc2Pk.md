@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Communist Party
@@ -19,11 +19,7 @@ people:
 - Benjamin Netanyahu
 products_models:
 - Fentanyl
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aXd0dTfc2Pk
 speaker: New York Times Podcasts
@@ -37,7 +33,6 @@ tags:
 - trade-war
 title: 中美贸易战升级：稀土限制与全球供应链的未来
 ---
-
 ### 中美贸易战：紧张局势升级
 
 Natalie Kitrov: 大家好，我是Natalie Kitrov，这里是《纽约时报》的每日播客。

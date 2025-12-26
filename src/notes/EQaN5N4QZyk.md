@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -19,10 +19,7 @@ people:
 - Lindseay Halligan
 - Mark Kelly
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EQaN5N4QZyk
 speaker: New York Times Podcasts
@@ -36,7 +33,6 @@ tags:
 - rule-of-law
 title: 特朗普“报复运动”遭遇法院重挫：两项核心起诉被驳回
 ---
-
 ### 特朗普“报复运动”遭遇法院重挫
 
 来自《**纽约时报**》（The New York Times）的迈克尔·布巴罗，这里是《**每日**》（The Daily）。

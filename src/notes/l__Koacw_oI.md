@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - LVMH
@@ -82,10 +82,7 @@ products_models:
 - GPT-5
 - Grok
 - QQQ
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=l__Koacw_oI
 speaker: All-In Podcast
@@ -99,7 +96,6 @@ tags:
 - wealth
 title: 加州“亿万富翁税”争议：深度解析科技、政治与社会热点
 ---
-
 ### 加州“亿万富翁税”提案：一场政治作秀还是财政良方？
 
 加州的财富税到底是怎么回事？**SEIU**（Service Employees International Union: 服务业雇员国际工会，一个影响力巨大的劳工组织）提出了一项直接面向选民的投票倡议，旨在修订加州宪法，征收一次性的“亿万富翁财富税”。根据该提案，任何净资产（扣除债务后）超过十亿美元的个人，都必须一次性缴纳其净资产5%的税款，这包括了他们的非上市公司股票和房地产。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies:
 - psychoanalysi
@@ -16,10 +16,7 @@ people:
 - Anthony
 - Lacan
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OHxBZUOYHHo
 speaker: Anthony看世界
@@ -32,7 +29,6 @@ tags:
 - ntr-fantasy
 title: NTR幻想与中国民族主义：一种扭曲的性教育心理分析
 ---
-
 ### NTR幻想的深层动机
 
 大家好，我是Anthony。欢迎来到我的频道。

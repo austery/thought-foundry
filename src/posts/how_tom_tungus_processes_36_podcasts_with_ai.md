@@ -13,8 +13,7 @@ media_books:
 people:
 - Clarvo
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=8P7v1lgl
 speaker: ''
@@ -28,7 +27,6 @@ tags:
 - content-creation
 title: How Tom Tungus Uses AI to Process 36 Weekly Podcasts and Automate Blog Writing
 ---
-
 ## Introduction
 
 Clarvo: Welcome back to how I AI. I'm Clarvo product leader and AI obsessive here on a mission to help you build better with these new tools.

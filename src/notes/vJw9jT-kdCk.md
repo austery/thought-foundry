@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -26,10 +26,7 @@ people:
 products_models:
 - Office 365
 - Snowflake
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vJw9jT-kdCk
 speaker: Shijun Tang
@@ -43,7 +40,6 @@ tags:
 - supply-chain-vulnerability
 title: 谷歌、三星与阿里：三大科技巨头的生死博弈与价值投资真谛
 ---
-
 ### 谷歌遭遇DOJ反垄断重击：Chrome与Android的生死劫
 
 谷歌（Google）面临的反垄断风暴，终于从传闻走向了实质行动。美国司法部（Department of Justice, DOJ）此次出手，目标直指谷歌在搜索市场的垄断地位，并提出三项极具破坏性的措施：要求出售Chrome浏览器、剥离Android操作系统，以及禁止谷歌与设备制造商签署独家搜索协议。

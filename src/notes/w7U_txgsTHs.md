@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -20,10 +20,7 @@ media_books:
 people:
 - Nicola Tangan
 - Bill Gates
-project:
-- entrepreneurship
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=w7U_txgsTHs
 speaker: Norges Bank Investment Management
@@ -37,7 +34,6 @@ tags:
 - technology
 title: 劳斯莱斯CEO Tufan Erginbilgiç：如何通过彻底转型重塑百年企业
 ---
-
 ### 燃烧的平台：启动劳斯莱斯转型
 
 主持人：大家好，我是Nicola Tangan，今天我很高兴能与劳斯莱斯（Rolls Royce）的首席执行官Tufan Erginbilgiç共度时光。挪威银行投资管理公司（Norges Bank Investment Management）持有劳斯莱斯2.3%的股份，总价值超过10亿美元。非常欢迎Tufan。当你接任劳斯莱斯的工作时，你称之为“燃烧的平台”（Burning Platform: 指企业面临严峻挑战，必须立即采取行动进行根本性变革的局面），为什么你的开场白如此戏剧化？

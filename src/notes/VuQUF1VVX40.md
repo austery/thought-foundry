@@ -12,9 +12,7 @@ media_books:
 - course-introduction
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VuQUF1VVX40
 speaker: Hung-yi Lee
@@ -25,7 +23,6 @@ tags:
 - tool
 title: 生成式人工智慧與機器學習導論2025：從使用者到創造者的AI之旅
 ---
-
 ### 开场白与课程愿景
 
 大家好，我们现在开始上课。刚才大家看到的影片，其实是使用Google的**VO3**（Video Generation AI: 谷歌开发的一款能够根据文字描述生成视频的人工智能）随意生成的一些影片，作为我们课程的开场。现在，我们来正式开始这门课程。

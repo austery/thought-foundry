@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-15'
@@ -15,10 +15,7 @@ people:
 - 余英时
 - George W. Bush
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mcDL2uqKGvQ
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - social
 title: “戒断中国”与“融入主流社会”：海外华人身份认同的理性切割与价值重塑
 ---
-
 ### 好奇心与感性连接：海外华人为何仍关心中国
 
 在中文社交媒体上，常有人问：“你都在美国住了那么多年了，为什么还老关心中国的事？”这可以从两个层面来解释：一是人性的层面，二是作为中国人的层面。从人性的层面讲，作为一个人，拥有好奇心是正常的。正是好奇心驱动着人类求知，即我们常说的求知欲。缺乏好奇心和求知欲的人，往往给人一种“傻吃迷糊睡，昏昏饿饿，**兴师走骨**（xīng shī zǒu gǔ: 形容人精神萎靡，行动迟缓，像行走的骨架）”的感觉。

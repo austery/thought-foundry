@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Bloomberg
@@ -33,8 +33,7 @@ products_models:
 - Adderall
 - iPhone
 - Instagram
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QErGuO-mtfc
 speaker: Bloomberg Podcasts
@@ -49,7 +48,6 @@ tags:
 - supply-chain
 title: 中国肽类药物的灰色市场与硅谷生物黑客文化
 ---
-
 ### 肽类药物的初探
 
 欢迎收听**Odd Thoughts**播客，主持人**Tracy Alloway**和**Joe Weisenthal**在本期节目中探讨了肽类药物的兴起。**Tracy**为**Joe**带来了一份特别的圣诞礼物——一瓶名为**催产素**（Oxytocin: 一种肽类激素，在怀孕、分娩和社交互动中产生，可增强亲密感和信任）的喷雾。**Joe**对此感到惊讶，误以为是违禁药物，但**Tracy**解释说这是在**亚马逊**上以60美元购买的合法产品。**Joe**提到**肽**（Peptide: 由短链氨基酸组成，是蛋白质的组成部分）这个词最近频繁出现，但对它的具体定义并不清楚。

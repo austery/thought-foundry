@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - FOMC
@@ -19,10 +19,7 @@ people:
 products_models:
 - 比特币
 - 以太坊
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jMm60vvKZiI
 speaker: Shanghao Jin
@@ -36,7 +33,6 @@ tags:
 - us-economic-policy
 title: 市场回顾与展望：FOMC、美国政策、欧洲经济及加密货币市场分析
 ---
-
 ### 市场整体回顾与政策展望
 
 从夏季休假归来，我将重新开始跟大家分析市场。本来计划去美国，但最终未能成行，也错过了与许多美国朋友见面的机会。我们大概有三个星期没有交流了，所以我想先回顾一下我对整体市场的看法。其实很多观点在之前每周的例会上也提到过。我将先阐述之前的一些基本观点，然后结合夏季休假期间发生的一些事件进行分析。

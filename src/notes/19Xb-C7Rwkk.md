@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国民党
@@ -42,10 +42,7 @@ products_models:
 - ChatGPT
 - DeepSeek
 - 豆包
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=19Xb-C7Rwkk
 speaker: FearNation 世界苦茶
@@ -58,7 +55,6 @@ tags:
 - populism
 title: 晚清困局、AI偏见与民粹挑战：一场关于政治现实的深度问答
 ---
-
 ### 晚清困局：为何李鸿章未尝试制度改革？
 
 我们今天回顾晚清历史，尤其像《走向共和》这样的作品，最关键的视角是制度变革，比如立宪派、保皇党等。这是基于历史的后见之明。但作为当时局中的人，他们怎么会把制度改革当作最关键的事情呢？制度改革其实只是当时部分人的想法，并非所有人都愿意去做。即便在当时，人们也很难看出共和制与君主制之间的根本差异，更不用说君主立宪制在不同情况下还有各种不同形态。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - ABC
@@ -24,10 +24,7 @@ people:
 - 奥巴马
 - 艾未未
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f6S1Xe29qRU
 speaker: 东京人文论坛
@@ -40,7 +37,6 @@ tags:
 - state
 title: 变态辣椒：一个反动漫画家的诞生与流亡前的创作回顾
 ---
-
 ### 引言：回顾与主题介绍
 
 今天，我打算分两部分介绍我的创作历程。通常我会介绍比较新的漫画，但这次应吴雷老师的建议，我决定回顾自己是如何走到今天的。为此，我翻阅了最早的一些作品，并发现我的记忆出现了很大的偏差。第一部分将重点介绍这些早期漫画。第二部分，我将推荐一部去年（2024年）澳大利亚ABC电视台制作的专业纪录片。我作为其中一部分受访者，这部纪录片讲述了一个叛逃到澳大利亚的间谍，揭露中共如何在海外恐吓、渗透甚至试图绑架人员回国的惊险故事。这部纪录片非常精彩，我已为其制作了中文字幕。

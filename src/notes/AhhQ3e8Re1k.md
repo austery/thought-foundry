@@ -10,10 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Putin
-project:
-- geopolitics-watch
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AhhQ3e8Re1k
 speaker: 柴静 Chai Jing
@@ -26,7 +23,6 @@ tags:
 - war
 title: 为乌克兰而战的中国士兵：信念、牺牲与战友情
 ---
-
 ### 俄乌战场上的中国面孔：马卡龙的困境与乌军志愿者的崛起
 
 上期节目中，我们采访了一位在俄乌战争中为俄罗斯军队作战的中国公民马卡龙。他的近况是，在一次运送伤员的途中遭遇轰炸，受了轻伤，目前正在后方医院治疗，他的合同将于五月到期。节目播出后，马卡龙告诉我们，国内有警察联系了他，表达了试图提供帮助的意愿。马卡龙在训练营时期就曾希望退出，但未能如愿，因此之后的参战违背了他的个人意愿。中国政府不鼓励公民前往双方战场参战，但许多人希望政府能出于人道主义考虑，在马卡龙退役和回国期间提供必要的帮助。我们将继续关注他的命运。

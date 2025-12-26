@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 date: '2024-06-25'
 draft: true
@@ -12,9 +12,7 @@ media_books:
 people:
 - Daniel Kahneman
 - Amos Tversky
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v4r71kEdYME
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - peak-end-rule
 title: 为什么人们有时宁愿选择更多的痛苦？峰终定律与记忆偏差
 ---
-
 ### 痛苦感知实验：冷水挑战
 
 我们正在复制一项关于不适感感知的心理学实验。

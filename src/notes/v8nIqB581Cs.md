@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - FBI
@@ -20,9 +20,7 @@ people:
 - Howard Lutnik
 - George W. Bush
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v8nIqB581Cs
 speaker: New York Times Podcasts
@@ -35,7 +33,6 @@ tags:
 - political
 title: 民主党议员称遭FBI调查，美国计划在加沙建设住房区
 ---
-
 ### 民主党议员称因呼吁拒绝非法命令而遭FBI调查
 
 “我们的法律很明确，你可以拒绝非法命令。你必须拒绝非法命令。”上周发布视频，告知美国军队可以拒绝**非法命令**（illegal orders: 违反法律或道德原则的指令）的民主党**国会议员**（members of Congress）表示，他们目前正受到**FBI**（Federal Bureau of Investigation: 美国联邦调查局，负责调查联邦犯罪并维护国家安全）的调查。

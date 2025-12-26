@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Sun Microsystems
@@ -27,10 +27,7 @@ people:
 - Steve Jobs
 products_models:
 - iPhone
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2VfNXLvPJ8w
 speaker: Norges Bank Investment Management
@@ -44,7 +41,6 @@ tags:
 - technological-disruption
 title: Vinod Khosla：拥抱“不可能”，驱动未来变革
 ---
-
 ### 欢迎与“不可能”同行
 
 挪威银行投资管理公司（Norges Bank Investment Management）的采访者热情欢迎了Vinod Khosla，称他为“最成功的企业家和风险投资家之一”。Khosla于1982年联合创立了**Sun Microsystems**（一家曾是全球领先的计算机硬件和软件公司），并于2004年创立了**Khosla Ventures**（一家专注于技术领域的风险投资公司），该公司在通过技术盈利的同时，也致力于为社会带来积极影响。

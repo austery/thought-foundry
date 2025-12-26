@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -33,9 +33,7 @@ people:
 - Rob Reiner
 - Mark Zuckerberg
 - Leonardo DiCaprio
-project:
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oXgcEaFar9I
 speaker: New York Times Podcasts
@@ -48,7 +46,6 @@ tags:
 - ukraine-war
 title: 布朗大学枪击案嫌犯身亡，特朗普政府调整大麻政策，欧洲援助乌克兰及太空新发现
 ---
-
 ### 新闻播报开场
 
 来自《纽约时报》，这是今天的头条新闻。我是 Tracy Mumpford。今天是 12 月 19 日，星期五。以下是我们今天将要报道的内容。

@@ -10,11 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D31xF2lopuA
 speaker: Bloomberg Podcasts
@@ -27,7 +23,6 @@ tags:
 - us-china-relations
 title: 美中贸易紧张局势重燃，鲍威尔暗示再次降息：市场与经济展望
 ---
-
 ### 美中贸易紧张局势重燃
 
 Welcome to the Daybreak Asia podcast.

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -33,10 +33,7 @@ products_models:
 - RoboTaxi
 - MI450
 - Blackwell
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tlIgsn991g8
 speaker: Amit Kukreja
@@ -50,7 +47,6 @@ tags:
 - trade
 title: Palantir获大单、特斯拉获升级、中美贸易协议或将达成：市场回顾
 ---
-
 ### 开场与市场概览
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目。感谢大家的到来。今天是周一，全新一周的开始。

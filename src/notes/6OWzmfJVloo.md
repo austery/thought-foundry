@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Boeing
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Amy Edmondson
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6OWzmfJVloo
 speaker: TED
@@ -27,7 +25,6 @@ tags:
 - safety
 title: 团队成功的强大预测因素：心理安全
 ---
-
 ### 序言：不敢发声的恐惧
 
 当我还是个孩子的时候，我记得在课堂上，当老师突然发起一场“口头突击测验”时，我感到非常恐惧。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - AIG
@@ -16,10 +16,7 @@ layout: post.njk
 media_books:
 - 《大空头》
 - 华尔街日报
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YULbq7sg1P8
 speaker: 北美王路飞
@@ -33,7 +30,6 @@ tags:
 - whistleblower
 title: 2008年金融危机系列：AIG的疯狂、独裁管理与次贷骗局
 ---
-
 ### 金融风暴的序曲：一场系统性的骗局
 
 上一期我们探讨了席卷全球的金融风暴是如何开始的，并介绍了最早察觉到危机的几位“怪人”。今天，我们将深入探讨一个更引人深思的话题：一个价值数万亿美元、由全球顶尖金融天才构建的精密体系，为何能在光天化日之下，沦为一个连赌场都不如的骗局？

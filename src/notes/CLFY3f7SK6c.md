@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-11-27'
@@ -11,9 +11,7 @@ media_books:
 - 《大问题》节目
 - 《看透世界：100个哲学大概念开悟人生！》
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CLFY3f7SK6c
 speaker: 大问题Dialectic
@@ -27,7 +25,6 @@ tags:
 - value
 title: 双信封悖论：10万年终奖换不换？一场关于概率、期望与决策的哲学争论
 ---
-
 ### 双信封悖论：10万年终奖换不换？一场关于概率、期望与决策的哲学争论
 
 在公司年会上，老板决定给小红、小黄、小蓝三人团队发放年终奖金。老板对他们说：“我会将一笔随机数额的钱放入一个红包之中，然后再往另外一个红包里面放10倍数额的钱。随后，我会随机将这两个红包中的一个发给你们。”

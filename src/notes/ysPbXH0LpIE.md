@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ysPbXH0LpIE
 speaker: Anthropic
@@ -19,7 +18,6 @@ tags:
 - llm
 title: 提示词工程101：使用Claude构建高效AI应用
 ---
-
 ### 欢迎与提示词工程简介
 
 Hi everyone. Thank you for joining us today for prompting 101. My name is Hannah. I'm part of the applied AI team here at Anthropic. And with me is Christian, also part of the applied AI team. And what we're going to do today is take you through a little bit of prompting best practices. And we're going to use a real-world scenario and build up a prompt together.

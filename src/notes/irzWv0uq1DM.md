@@ -24,10 +24,7 @@ people:
 - Jack Bogle
 products_models:
 - S&P 500
-project:
-- investment-strategy
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=irzWv0uq1DM
 speaker: 知行小酒馆
@@ -40,7 +37,6 @@ tags:
 - investment
 title: 科学拆解巴菲特：传奇收益背后的阿尔法、贝塔与“免费杠杆”
 ---
-
 ### 引言：能否用模型真正拆解巴菲特？
 
 欢迎来到知行小酒馆，这是一档由知有行出品的播客节目，我们关注投资，更关注如何更好地生活。

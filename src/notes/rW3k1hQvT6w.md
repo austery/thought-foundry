@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies:
 - psychological-barrier
@@ -12,8 +12,7 @@ media_books:
 - Monash播客
 people:
 - KevinFeng
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rW3k1hQvT6w
 speaker: KevinFeng 冯凯文
@@ -26,7 +25,6 @@ tags:
 - society
 title: 克服英语口语障碍：心理建设与实践公式
 ---
-
 ### 克服英语口语障碍：心理建设是关键
 
 今天我们要探讨一个许多人都有的共同困扰：学习英语十几年，却依然不敢开口，或者一开口就感到极度紧张。如何解决这个问题？我认为这并非完全是英语能力的问题，更多的是一种心理障碍。因此，今天我将分享两个故事和一套公式，希望能帮助大家真正开始克服这种不敢开口、开口就紧张的焦虑。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国国务院
@@ -18,10 +18,7 @@ people:
 - 蒋介石
 - 彭德怀
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lRDwjwmsWkk
 speaker: 柴静 Chai Jing
@@ -35,7 +32,6 @@ tags:
 - war
 title: 韩战志愿军战俘的抉择：国共内斗、美台博弈与个人命运
 ---
-
 ### 引言：韩战战俘的复杂命运
 
 在**抗美援朝**（Korean War: 指1950年代初发生在朝鲜半岛的战争，中国称之为抗美援朝战争）战争中，两万多名中国人民志愿军被**联合国军**（UN Forces: 指朝鲜战争中由美国主导，多国部队组成的军事联盟）俘虏。停战之后，他们中三分之二的人选择去往台湾。这并非一个简单的选择，它不但引发了战俘营内残酷的流血斗争，而且导致整个韩战的后半段为此而战。直到今天，这个事件仍然存在巨大的历史悬疑，因为中美台三方各有表述。

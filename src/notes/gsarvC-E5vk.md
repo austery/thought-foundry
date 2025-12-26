@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -15,10 +15,7 @@ people:
 - Anthony
 products_models:
 - Gemini Flash
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gsarvC-E5vk
 speaker: Anthony看世界
@@ -32,7 +29,6 @@ tags:
 - society
 title: 中国“屌丝叙事”的演变：从自嘲到社会结构批判
 ---
-
 ### 互联网亚文化中的“屌丝叙事”：从躺平到更深层的批判
 
 大家好，我是Anthony。欢迎来到我的频道。今天的视频，我们来聊一聊一种互联网亚文化，那就是**屌丝叙事**。

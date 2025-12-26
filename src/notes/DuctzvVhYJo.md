@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Accenture
@@ -14,10 +14,7 @@ media_books:
 - Weekend Language
 people:
 - Nicola Tangen
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DuctzvVhYJo
 speaker: Norges Bank Investment Management
@@ -31,7 +28,6 @@ tags:
 - organizational
 title: 埃森哲CEO朱莉·斯威特：引领变革，拥抱AI与持续再创造
 ---
-
 ### 欢迎与埃森哲CEO朱莉·斯威特对话
 
 Nicola Tangen: 大家好，我是尼古拉·坦根（Nicola Tangen）。今天，我非常荣幸能与埃森哲（**Accenture**: 全球领先的专业服务公司，提供战略、咨询、数字、技术和运营服务）的首席执行官兼董事长朱莉·斯威特（Julie Sweet）进行对话。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Wall Street Journal
@@ -16,9 +16,7 @@ people:
 - Angus Deaton
 - Ray Dalio
 - Cathie Wood
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tzxd5I-EzyA
 speaker: Money & Macro
@@ -30,7 +28,6 @@ tags:
 - social
 title: 经济学：一门被误解的社会科学？
 ---
-
 ### 经济学面临的普遍批评
 
 “宏观经济学在过去200年里一直不成功。”

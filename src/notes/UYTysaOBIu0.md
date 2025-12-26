@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-04-19'
@@ -14,9 +14,7 @@ people:
 - Aristotle
 - Kant
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UYTysaOBIu0
 speaker: Anthony看世界
@@ -30,7 +28,6 @@ tags:
 - self
 title: 无条件的爱：信任人的复杂性而非盲目无差别
 ---
-
 ### 引言：无条件的爱是否存在？
 
 大家好，我是Anthony，欢迎来到我的频道。有网友一直说希望我多聊聊关于爱的话题，所以今天我想和大家讨论一下，**无条件的爱**（Unconditional Love: 不受任何条件限制的爱）是否存在？如果存在，它又应该是什么样子？

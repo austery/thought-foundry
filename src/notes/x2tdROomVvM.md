@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -13,10 +13,7 @@ media_books:
 people:
 - Amy Edmondson
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=x2tdROomVvM
 speaker: Norges Bank Investment Management
@@ -30,7 +27,6 @@ tags:
 - safety
 title: 投资中的心理安全：如何通过高质量对话和从失败中学习做出明智决策
 ---
-
 ### 心理安全：投资者成功的基石
 
 主持人：现在我能听到你了。很好，这里非常安全，所以没问题。这次会议很棒，我喜欢开场和视频。我们也一样，这里有很棒的人，但有时他们也会感到疲惫。

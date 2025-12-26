@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Harvard University
@@ -44,10 +44,7 @@ products_models:
 - 豆包
 - GLM
 - Kimi
-project:
-- us-analysis
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-4p2-AmRUOc
 speaker: 北美王路飞
@@ -61,7 +58,6 @@ tags:
 - technology
 title: 中美政治体制辨析：从华人歧视、AI意识形态到金钱政治
 ---
-
 ### 权贵践踏与迟来的正义
 
 **iPhoneGW:** 大家好。我觉得今天聊的王家卫和爱泼斯坦这两个话题，有一个共同点，那就是上位者或者有钱有权的人对底层民众基本权利和生存空间的践踏。作为一个普通人，我还是很希望看到正义得到伸张。

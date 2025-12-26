@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Rocket Lab
@@ -25,10 +25,7 @@ products_models:
 - Starlink
 - New Glenn
 - Terran R
-project:
-- investment-strategy
-- entrepreneurship
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NYC_GEPeYKY
 speaker: 海伦子Hellen
@@ -45,7 +42,6 @@ tags:
 - technology
 title: Rocket Lab的关键战略布局：从火箭发射到千亿市值之路
 ---
-
 ### Rocket Lab的发展历程与独特商业模式
 
 大家好，我是海伦子Hellen。今天我们再次来聊聊Rocket Lab。这应该是我自2021年以来，第五次和大家探讨这家公司。在过去的四年里，Rocket Lab持续进步，但从股价表现来看，前三年相对沉寂，直到第四年才突然爆发。其**Electron**（电子火箭：Rocket Lab研发的小型运载火箭）虽然只是一个**小火箭**（近地轨道载荷300千克），但从去年开始，其发射次数已位居全球第二，仅次于SpaceX的猎鹰9号。

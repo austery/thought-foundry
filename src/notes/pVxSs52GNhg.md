@@ -29,10 +29,7 @@ people:
 products_models:
 - ChatGPT
 - TPU
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pVxSs52GNhg
 speaker: 视野环球财经
@@ -45,7 +42,6 @@ tags:
 - us-stock-market
 title: 美股震荡中探寻投资机会：日本加息、ISM数据与科技巨头动态分析
 ---
-
 ### 市场概览与本期焦点
 
 大家好，欢迎回到视野环球财经，我是Reno W.。现在是美东时间25年12月1号周一晚上的7点15分。今天的四大指数在12月的第一个交易日震荡收跌。标普500指数有363只成分股下跌，140只上涨。虽然下跌股票数量较多，但跌幅较大的股票不多，且整体成交量水平不算特别高。因此，今天的下跌并不关键。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Circle
@@ -24,9 +24,7 @@ products_models:
 - Bitcoin
 - Ethereum
 - USDT
-project:
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qftWumtLyTc
 speaker: 美投讲美股
@@ -40,7 +38,6 @@ tags:
 - trade
 title: 稳定币的投资机遇与挑战：三大关键节点深度解析
 ---
-
 ### 稳定币的投资潜力与比特币的经验教训
 
 大家好，我是美投君。上周在美投Pro视频中，我分析了**稳定币**（Stablecoin: 一种价值与法定货币如美元挂钩的加密货币）行业和Circle的投资价值。许多观众表示意犹未尽，因为这个行业确实拥有极高的上限，但其投资标的却几乎都无法直接投资。

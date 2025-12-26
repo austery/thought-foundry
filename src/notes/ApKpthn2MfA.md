@@ -1,15 +1,12 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 date: '2025-10-22'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ApKpthn2MfA
 speaker: 一席YiXi
@@ -23,7 +20,6 @@ tags:
 - society
 title: 独立游戏制作人黄高乐：玩游戏，而不要被游戏玩
 ---
-
 我是一个游戏的老玩家，今天来给大家讲一讲我对游戏的理解。在幼儿园的时候，我们家买了一台**小霸王学习机**（Subor Learning Machine: 一种结合了游戏和学习功能的家用游戏机），我爸就跟我一起用它玩游戏。这是我人生非常早期接触的游戏，它们都是双人合作制的游戏，是我那个年代的**《双人成行》**（It Takes Two: 一款强调双人合作的冒险游戏）。后来我们家买了电脑，我爸就跟我一起玩电脑游戏。
 
 有一天，我的一个同学的母亲来问我，为什么我玩游戏成绩在班里名列前茅，而她的儿子也喜欢玩游戏，却耽误了学习呢？我当时没有办法回答她的这个问题，直到我现在长大了，做了很多年的游戏从业者，对游戏有了更多的认识之后，才想清楚这个问题的答案。其实，游戏的形式、内容和我们玩游戏的态度，都会让游戏对玩家产生不同的影响。

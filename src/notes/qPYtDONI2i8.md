@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Ministry of Education
@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - classroom-discourse
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qPYtDONI2i8
 speaker: TVO Today
@@ -27,7 +25,6 @@ tags:
 - political
 title: 如何在课堂中处理政治言论：教师与学生的视角
 ---
-
 ### 课堂中的政治言论：挑战与应对
 
 主持人: 教师和学生如何处理敏感议题的讨论？学校里是否存在政治偏见问题？我邀请了**安大略省中学教师联合会**（Ontario Secondary School Teachers Federation: 简称OSSTF，代表安大略省中学教师的工会）约克区主席Muna Kadri，以及刚毕业的高中生Sarah Mora，分享他们在学校谈论政治的经历。Muna、Sarah，非常感谢你们加入我们的节目，也感谢你们来到我们临时搭建的演播室。你们最近怎么样？

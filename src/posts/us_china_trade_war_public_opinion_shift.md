@@ -1,11 +1,9 @@
 ---
 title: 美中贸易战的尴尬僵局与中国舆论的转向
 summary: 本期内容探讨了美国市场对政府关门的漠视、美中贸易战在大豆问题上陷入的尴尬局面，以及中国国内因K字签证和于朦胧事件引发的罕见反政府舆论浪潮。
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
+project: []
 tags:
 - public-opinion
 - trade-war

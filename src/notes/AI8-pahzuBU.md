@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - White House
@@ -52,10 +52,7 @@ products_models:
 - SMH
 - CPI
 - ETF
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AI8-pahzuBU
 speaker: Amit Kukreja
@@ -70,7 +67,6 @@ tags:
 - market-rotation
 title: 布瑞的最新动向、机构持续买入与劳动力市场挑战：每日回顾
 ---
-
 ### 宏观经济概览：白宫政策、布瑞警示与市场动态
 
 今天我们将讨论许多重要议题，包括白宫的最新动态，特别是我们一直关注的宏观数据更新。

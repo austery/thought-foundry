@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Polymarket
@@ -20,10 +20,7 @@ people:
 - Donald Trump
 products_models:
 - VMware
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IgYioXplgS8
 speaker: Shijun Tang
@@ -37,7 +34,6 @@ tags:
 - value
 title: 税务优化、AI与平台经济：从澳洲税制到Roblox的儿童消费模式
 ---
-
 ### 税务筹划：投资回报中被严重低估的杠杆
 
 新手投资人最容易忽视的，往往是税务对投资回报的影响。你收到股息要缴税；卖出股票赚了钱，要缴纳资本利得税；即便亏了钱，也必须报告资本损失。仅理解这三点，就能利用税务机制省下可观税款。

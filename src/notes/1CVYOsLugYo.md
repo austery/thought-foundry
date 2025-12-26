@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -53,10 +53,7 @@ products_models:
 - AIP
 - AWS
 - Azure
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1CVYOsLugYo
 speaker: Amit Kukreja
@@ -70,7 +67,6 @@ tags:
 - stock-valuation
 title: 英伟达股价飙升破200美元：GTC大会引爆AI革命，市场情绪高涨
 ---
-
 ### 市场狂热：AI 引领股市创下激动人心的一天
 
 今天真是个了不得的日子。对于股市，尤其是人工智能（AI）领域来说，我们可能从未经历过如此激动人心的一天。今年确实有过一些疯狂的日子，但就 AI 相关的更新而言，今天绝对是无与伦比的。

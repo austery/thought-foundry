@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - NYU
@@ -13,10 +13,7 @@ people:
 products_models:
 - ChatGPT
 - Llama
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3SliW74opyY
 speaker: The MAD Podcast with Matt Turck
@@ -30,7 +27,6 @@ tags:
 - reinforcement-learning
 title: AI赋能心理健康：预训练、对齐与强化学习（Slingshot AI CEO分享）
 ---
-
 ### 心理健康危机与AI的应对
 
 很高兴来到这里。今天，我将谈谈如何为心理学构建一个**基础模型**（Foundation Model: 指在大量数据上预训练，可适应多种下游任务的AI模型）。

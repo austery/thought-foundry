@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: '[]'
 date: 2025-10-31
@@ -17,9 +17,7 @@ products_models:
 - Xcode
 - VS Code
 - iOS
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ANjiJQQIBo0
 speaker: AI超元域
@@ -33,7 +31,6 @@ tags:
 - software-development-workflow
 title: OpenSpec：AI驱动的规范化开发，加速现有项目迭代
 ---
-
 ### OpenSpec：AI驱动的规范化开发，加速现有项目迭代
 
 此前，我们详细演示了基于**规范驱动开发**（Spec-driven Development: 一种软件开发方法论，通过编写详细的规范来指导开发过程）的开源工作流项目**SpecKit**。视频发布后，评论区有粉丝提问：如果针对已有项目，如何应用规范驱动开发？鉴于SpecKit更适合从零开始构建新项目，本期视频将为大家演示另一款开源规范驱动开发工作流项目——**OpenSpec**。

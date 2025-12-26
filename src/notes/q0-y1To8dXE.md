@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - KMT
@@ -25,10 +25,7 @@ people:
 products_models:
 - TikTok
 - Telegram
-project:
-- systems-thinking
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q0-y1To8dXE
 speaker: FearNation 世界苦茶
@@ -42,7 +39,6 @@ tags:
 - politics
 title: 真理的消亡与政治的胜利：在后真相时代，我们如何确信自己是对的？
 ---
-
 ### 互联网的“电子宠物”化与尊重的丧失
 
 今天我想先讨论一个小现象，它其实和今天的主题相关：现在的互联网环境真的非常糟糕，其中一个表现是大家丧失了非常基本的尊重。

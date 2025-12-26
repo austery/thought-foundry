@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Incogni
@@ -10,8 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Louis de Broglie
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=88bMVbx1dzM
 speaker: veritasium
@@ -25,7 +24,6 @@ tags:
 - spherical-aberration
 title: 揭秘原子：电子显微镜如何突破百年瓶颈，实现原子级观测
 ---
-
 ### 引言：原子可见性与挑战
 
 这是一小片金属，直径仅三毫米。如果持续放大，你会看到：放大1000倍，10万倍，乃至5000万倍。这些模糊的斑点实际上就是**原子**（Atom: 构成物质的基本单元）。

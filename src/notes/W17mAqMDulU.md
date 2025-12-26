@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 北京大学
@@ -15,10 +15,7 @@ media_books:
 people:
 - 钱学森
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=W17mAqMDulU
 speaker: 一席YiXi
@@ -31,7 +28,6 @@ tags:
 - scientific
 title: 为了父亲的事业：一位植物科学画师的四十年坚守与精神传承
 ---
-
 ### 父亲的使命：从科学画开始的人生抉择
 
 大家好，我是马平。我的职业是植物科学画画师。

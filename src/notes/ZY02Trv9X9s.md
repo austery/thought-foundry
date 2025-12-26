@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-04-18
@@ -15,10 +15,7 @@ people:
 - 孟子
 - Donald Trump
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZY02Trv9X9s
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - thinking
 title: 当取代坏的不是好，而是更坏：中国现代化进程中的思维与人格困境
 ---
-
 ### 二极管思维与现代化陷阱
 
 在中文世界，你肯定对这种现象不陌生。你只要是说点什么，马上就会有人给你贴标签。比如，你说提高民众的精神素质很重要，提高国民的素质很重要，他立马会说你是不是觉得制度不重要？如果你说唐纳德·特朗普（Donald Trump）的政策有问题，他立马会说你是民主党或者是共产党。如果你说民主党的有些政策缺乏常识，会出问题，他就会说你一定是个“川粉”。这就是典型的**非此即彼、非黑即白、非左即右的二极管式思维**（Two-Extremes Thinking: 一种将复杂问题简化为两个对立极端，并强迫人们选边站队的认知模式）。用更学术一点的话来说，这些人就是些名词概念的奴隶，他们不听你说了什么，他们只是听你用了哪一个词，然后就决定你是敌还是友，是左还是右，是黑还是白。

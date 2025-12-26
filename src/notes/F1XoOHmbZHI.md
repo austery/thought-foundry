@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - Wirecutter
@@ -31,7 +31,6 @@ tags:
 - society
 title: 烘焙完美曲奇的秘诀：纽约时报烹饪团队的专家指南
 ---
-
 ### 烘焙的乐趣与无惧犯错
 
 烘焙的好处在于，无论如何，你最终都会得到一块曲奇。所以，在厨房里不要害怕犯错，这会让你在精神上放松很多。

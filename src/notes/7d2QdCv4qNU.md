@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -14,10 +14,7 @@ layout: post.njk
 people:
 - Jeff Hinton
 products_models: []
-project:
-- entrepreneurship
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7d2QdCv4qNU
 speaker: 硅谷101
@@ -31,7 +28,6 @@ tags:
 - venture-capital
 title: 穿越热潮周期：硬科技公司的生存法则
 ---
-
 ### 硅谷创业生态：机遇与挑战
 
 大家好，很高兴今年能来到这里。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 比亚迪
@@ -21,10 +21,7 @@ people:
 - 许家印
 - 巴菲特
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hyPmEWjYjso
 speaker: 老周横眉
@@ -39,7 +36,6 @@ tags:
 - supply-chain-finance
 title: 深度解析比亚迪隐性债务：供应链金融下的财务风险与恒大警示
 ---
-
 ### 比亚迪“爆雷”传闻的由来与影响
 
 过去一周，海内外广泛流传一个消息：比亚迪负债过高，可能很快就会“爆雷”。这无疑是令人震惊的，因为比亚迪不仅是中国最大的车企，也是全球最大的汽车制造商之一。2024年，比亚迪共销售了427万台汽车，位列全球第五到第八名。截至2024年底，比亚迪在全球拥有约97万名员工，肩负着近百万个家庭的生计。

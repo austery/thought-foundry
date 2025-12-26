@@ -9,9 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: null
 source: null
 speaker: LT視界
@@ -26,7 +24,6 @@ tags:
 - social-issue
 title: US-China Tensions, Economic Analysis, and Social Commentary
 ---
-
 ## 美国商业活动增长放缓
 
 根据《华尔街日报》报道，美国制造业和服务业的商业活动增长均已放缓。美国商业活动扩张速度为三个月来的最慢，9月份标准普尔全球美国综合采购经纪人指数（PMI）的初值从8月份的54.6降至53.6。

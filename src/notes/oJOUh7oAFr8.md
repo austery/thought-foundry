@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 民进党
@@ -22,10 +22,7 @@ people:
 - 周永康
 - 李白
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oJOUh7oAFr8
 speaker: 三個水槍手
@@ -39,7 +36,6 @@ tags:
 - state
 title: 中国民意、武统与国家认同的深层探讨
 ---
-
 ### 对“武统”民意调查的回应
 
 我曾经想过，做中国人真是很悲哀的。当你从娘胎里出来的时候，你还没学会文化、没学会字，就有一种领导注定成为你的主人，你就是奴才。

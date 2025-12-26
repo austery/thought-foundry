@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-10-25'
 draft: true
@@ -17,10 +17,7 @@ people:
 - Kim Jong Un
 - Vladimir Putin
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k_MjtLYl1as
 speaker: LT視界
@@ -35,7 +32,6 @@ tags:
 - us-china-relations
 title: 彭博社分析川习会四大影响：川普亚洲行地缘政治与市场变数
 ---
-
 ### 川普亚洲行与中美峰会：彭博社的市场指南
 
 今天，我们将分享不能错过的重要新闻。首先，关注彭博社的报道，其标题为《川普亚洲之行，即与习近平的会晤，给交易员的指南》。这篇文章从专业的角度，向全球投资者和从事投资理财的网友们提供了投资及风险防控建议。川普此次亚洲之行长达六天，不仅可能给地缘政治关系带来变数，例如他与习近平谈判破裂的市场风险，以及他与东盟国家、日本的贸易协议谈判可能带来的变数，这些都将影响当地及全球市场。政治与经济之间难以完全区分或隔裂。

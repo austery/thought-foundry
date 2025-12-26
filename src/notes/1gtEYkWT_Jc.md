@@ -18,8 +18,7 @@ draft: true
 series: ''
 category: career-development
 area: knowledge-meta
-project:
-  - ai-impact-analysis
+project: []
 people:
   - 罗永浩
   - 俞敏洪

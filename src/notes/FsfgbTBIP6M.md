@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -16,10 +16,7 @@ people:
 - David Sacks
 products_models:
 - Gemini Flash
-project:
-- us-analysis
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FsfgbTBIP6M
 speaker: Patrick Boyle
@@ -33,7 +30,6 @@ tags:
 - society
 title: AI时代：职业阶梯的消亡与新一代的生存突围
 ---
-
 ### 职业阶梯的崩塌：从“学位即门票”到“技能即生存”
 
 几十年来，全球年轻一代都相信一个清晰的承诺：只要进入大学——哪怕背负一些债务——就能获得一张通往中产阶级的入场券。这张门票意味着一份白领工作、高于非毕业生的薪资，以及最终实现房产拥有权的机会。但如今，这张承诺已被打破——昔日的“黄金门票”，不过是学生贷款上一张10%折扣券。

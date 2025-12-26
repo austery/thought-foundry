@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -48,9 +48,7 @@ people:
 products_models:
 - Siri
 - Gemini
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3OvPIJOm7Sg
 speaker: Amit Kukreja
@@ -64,7 +62,6 @@ tags:
 - technology
 title: Robinhood 2025年Q3财报深度解析：业绩全面超预期，预测市场成新增长引擎
 ---
-
 ### 财报前瞻：市场预期与多方观点
 
 大家好，欢迎回到新一期的 Robinhood 财报解读。这是 2025 年第三季度的财报，我很高兴能和大家一起讨论。过去几年里，Roy 和 Tanner 一直与我同行，能和朋友们一起经历这段旅程，我感到非常有意义。

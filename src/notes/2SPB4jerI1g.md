@@ -18,10 +18,7 @@ people:
 - Peter Beck
 - Adam
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2SPB4jerI1g
 speaker: Money or Life 美股频道
@@ -34,7 +31,6 @@ tags:
 - stock
 title: 美股复盘：RKLB、HIMS、NBIS与ASTS的投资策略与仓位调整
 ---
-
 大家好，欢迎来到Money or Life美股频道。我是Ace，今天是2025年9月20号周六。本周的美股复盘加推演节目将分为四个部分。首先第一部分，我们将来看火箭实验室（RKLB）。本周火箭实验室的股价走势很差，别的股票都在疯涨，它这周反而跌了10%。部分原因是因为**内部人士**（Insiders: 公司内部人员，如高管、董事或大股东）在**抛售股票**（Selling shares: 出售持有的公司股票）。我的看法是什么？我觉得应该怎么办？在这一部分，我将和大家分享这些想法。
 
 视频第二部分，我和大家分享我持有的HIMS这家公司的**正股**（Common stock: 普通股，指公司发行的最常见股票类型），以及**卖出看跌期权**（sell put: 卖方收取权利金，并有义务在期权到期时以约定价格买入标的资产）对于未来我的思考及计划是什么。我用了一个简单的计算，告诉自己答案，希望这个分享对你也有用。

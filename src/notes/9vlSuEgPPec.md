@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - 腾讯
@@ -13,9 +13,7 @@ media_books:
 - The Diary of A CEO
 - My First Million
 - Founders
-project:
-- personal-growth-lab
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9vlSuEgPPec
 speaker: 课代表立正
@@ -29,7 +27,6 @@ tags:
 - value
 title: 频道转型：从职业发展到商业创业——打工性价比的时代变迁
 ---
-
 ### 频道转型：从职业发展到商业创业
 
 今天，我想跟大家沟通一下我频道接下来重点的变化，那就是从职业发展转向商业。为什么会有这个变化呢？因为时代变了。在上一个时代，如果你想要成功、想要赚钱、想要做一些有意义的事情，职场是我们成功率最大的机会。而且在那个时代，你只要肯努力，回报是很多的，似乎我们面前有无数的升职加薪，然后跳槽去更好公司的机会。可是在这个时代不是这个样子了。这个时代打工的性价比低了很多，而且很多东西并不受我们控制。相反的，做商业无论是天花板、成功率，还是我们做这件事情的成本，都变好了很多，让这个天平也向商业倾斜。

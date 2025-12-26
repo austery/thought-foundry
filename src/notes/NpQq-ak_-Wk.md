@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Kalshi
@@ -24,10 +24,7 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-project:
-- investment-strategy
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NpQq-ak_-Wk
 speaker: Bloomberg Podcasts
@@ -42,7 +39,6 @@ tags:
 - regulatory
 title: Kalshi CEO Tarek Mansour：预测市场如何从非法走向主流，以及其未来愿景
 ---
-
 ### 预测市场的“高光时刻”与监管挑战
 
 **Joe Weisenthal:** 各位 Odd Lots 观众大家好。

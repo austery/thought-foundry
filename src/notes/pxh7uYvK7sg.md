@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Lululemon
@@ -16,9 +16,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- us-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pxh7uYvK7sg
 speaker: TechButMakeItReal
@@ -32,7 +30,6 @@ tags:
 - work-life-balance
 title: 加拿大科技行业裁员潮后：去留何从？多伦多、温哥华与蒙特利尔深度解析
 ---
-
 ### 系列介绍：科技专业人士的职业选择指南
 
 本视频系列专为已在美国、加拿大、英国或欧盟生活和工作的科技专业人士打造。

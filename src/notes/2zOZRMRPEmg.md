@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-11-12'
@@ -21,10 +21,7 @@ people:
 products_models:
 - Deep Blue
 - AlphaGo
-project:
-- personal-growth-lab
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2zOZRMRPEmg
 speaker: 大问题Dialectic
@@ -38,7 +35,6 @@ tags:
 - self
 title: 《好的决策：把自己当作变量》新书导言：从演化时滞看人类决策的非理性与自由
 ---
-
 ### 新书发布：《好的决策：把自己当作变量》
 
 我很高兴地宣布我的新书《好的决策》已经出版了，副标题是《把自己当作变量》。阅读这本书能够帮助你，正如书名所讲的，做出好的决策。不过，我自己更喜欢这本书的副标题——《把自己当作变量》，因为它能够帮助你实现一种自由的人格，这种自由体现在能够把自己也当作变量来考量。在本期节目中，我将把这本书的导言部分改编成口语稿与你分享。

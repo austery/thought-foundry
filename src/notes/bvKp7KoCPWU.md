@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2024-06-28'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《繁花》
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bvKp7KoCPWU
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - technology
 title: 一杯茶里的中国：从一棵树到六类茶的风味地图
 ---
-
 ### 一棵茶树，万般风味
 
 大家好，我是安然。作为一名在茶行业深耕近十年的从业者，我常被问到：“做茶？是不是很高雅、很传统？”但现实是：太多人面对街边茶叶店，既怕被坑，又不知从何入手。这背后不是审美问题，而是认知断层。

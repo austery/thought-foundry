@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-08-29'
@@ -13,10 +13,7 @@ people:
 - Daron Acemoglu
 - 戈尔巴乔夫
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pE6-4vWAamk
 speaker: 徒步的騎手
@@ -29,7 +26,6 @@ tags:
 - institutional
 title: 杨小凯 vs 林毅夫：中国为何两度陷入“后发劣势”的陷阱？
 ---
-
 ### “溃而不崩”：一种更具杀伤力的状态
 
 近几年来，关于中国社会经济的讨论中，出现了一个比“崩溃”更令人担忧的词——**溃而不崩**（Collapsing without Disintegrating: 指社会经济持续衰败，但政治体制依旧维持稳定，导致整个社会陷入长期停滞和痛苦的状态）。这种状态之所以更具杀伤力，是因为它不像剧烈的崩溃那样能够迅速带来改变，而是将一代人甚至两代人锁定在经济凋敝、社会僵化和精神压抑的漫长时期里。

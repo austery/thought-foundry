@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Google
@@ -27,8 +27,7 @@ products_models:
 - Llama
 - H100
 - ChatGPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UakqL6Pj9xo
 speaker: Dwarkesh Patel
@@ -41,7 +40,6 @@ tags:
 - memorization
 title: 大型AI模型为何难解简单谜题？——ARC基准与通用智能的挑战
 ---
-
 ### LLM与AGI的争议
 **LLM** (Large Language Model: 大型语言模型) 非常擅长记忆静态程序。如果你扩大数据库的规模，你并没有增加系统一丝一毫的智能。我觉得你用“记忆”这样的词，我们绝不会用在人类儿童身上。如果他们能解决任何任意的代数问题，你不会说他们“记忆”了代数，你会说他们“学会”了代数。我们设立了一个百万美元的奖金池，其中**50万美元**将奖励给第一个达到**85%**基准的团队。如果**ARC** (Abstraction and Reasoning Corpus: 抽象推理语料库) 在三个月内通过考验，我们会增加奖金。**OpenAI**基本上将**AGI** (Artificial General Intelligence: 通用人工智能) 的进展推迟了**五到十年**。他们导致了前沿研究出版的完全封闭，现在LLMs基本上“吸干了房间里的氧气”，好像每个人都在做LLMs。
 

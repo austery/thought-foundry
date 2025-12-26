@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Mistral AI
@@ -20,10 +20,7 @@ media_books:
 people:
 - Emmanuel Macron
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oyiglOaFA6w
 speaker: TechButMakeItReal
@@ -38,7 +35,6 @@ tags:
 - impact
 title: 法国科技2025：AI竞赛中的秘密武器
 ---
-
 ### 法国在AI竞赛中异军突起
 
 你是否曾好奇，为何法国在欧洲科技领域一直默默无闻？

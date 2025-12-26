@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - SpaceX
@@ -14,8 +14,7 @@ products_models:
 - Raptor engine
 - Boeing 747
 - Starlink
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EUwyBtgQghg
 speaker: 海伦子Hellen
@@ -30,7 +29,6 @@ tags:
 - space-exploration
 title: 星舰十一飞回顾：二代星舰的完美收官与未来展望
 ---
-
 ### 星舰十一飞：二代星舰的完美谢幕
 
 今天和大家一起来回顾一下**星舰**（Starship: SpaceX公司研发的巨型可重复使用火箭系统，旨在执行深空探测和点对点运输任务）的第十一飞。每一次星舰试飞后，第二天SpaceX官方和许多职业摄影师都会发布更多更高清、视角更丰富、直播时看不到的视频和照片，其中许多都非常漂亮，我也会在视频中和大家一同欣赏。星舰于美国中部时间10月13日下午6点23分，在德州的星舰基地进行了它的第十一次试飞。这也是**二代星舰**（Starship Gen 2: 星舰系统的第二代设计版本）的最后一次试飞，下一次飞行将使用载荷量更大的**三代星舰**（Starship Gen 3: 星舰系统的第三代设计版本）。之后还有**四代星舰**（Starship Gen 4: 星舰系统的第四代设计版本），其近地轨道载荷量预计将超过200吨。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Meta
@@ -18,10 +18,7 @@ people:
 - Mark Zuckerberg
 products_models:
 - Facebook Marketplace
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uLFkQheksgI
 speaker: 课代表立正
@@ -35,7 +32,6 @@ tags:
 - system
 title: 资源、努力与正确逻辑为何仍失败？Facebook Marketplace电商项目复盘与职场博弈
 ---
-
 ### 引言：坦诚分享职业生涯的经验教训
 
 大家好，今天我们来聊聊“Marketplace”系列的第三期。这个系列旨在通过我职业生涯中非常具体的事件，坦诚地分享**经验教训**（lessons: 从经历中获得的知识或启示）。我希望通过我当时的经历、感受和事后复盘，尤其是在多年后有了新的信息和认知基础上的复盘，帮助大家更清楚地看到一些东西，并分享一些感受。

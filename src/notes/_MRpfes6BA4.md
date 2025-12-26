@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美联储
@@ -15,10 +15,7 @@ media_books:
 people:
 - 巴菲特
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_MRpfes6BA4
 speaker: 海淀拙大叔
@@ -32,7 +29,6 @@ tags:
 - us-china-relations
 title: 中美改革竞争：美国经济困境、政策转向与中国的应对之道
 ---
-
 ### 中美改革竞争：美国大收缩系列的终章
 
 本期节目是“阿甘经济宏观论”第16集，聚焦中美改革竞争，同时也是美国大收缩系列的最后一集。当前，关于中美第一轮“水战”过招结果的讨论甚嚣尘上，许多自媒体宣称“咱们赢麻了”。然而，对于一个客观、合格的投资者而言，这种观点并非全然准确。去年，我们曾预测 **MAGA**（Make America Great Again: 指唐纳德·特朗普的政治口号和支持者群体）派必然当选，并预判其上台后中美双方将不可避免地进入一场改革竞争。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - intellectual-responsibility
@@ -17,9 +17,7 @@ media_books:
 people:
 - 柴静
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_VrA94WCsx0
 speaker: 柴静 Chai Jing
@@ -32,7 +30,6 @@ tags:
 - political-persecution
 title: 柴静访熊召政：六四告密案、历史真相与知识分子的沉默
 ---
-
 ### 开场与采访缘由
 
 资深媒体人柴静在一次电话采访中，向熊召政先生表明身份，并告知其正在制作一期关于野夫的独立采访节目。柴静指出，野夫在采访中谈及了**六四事件**（1989年春夏之交发生在中国北京的民主运动）期间与熊先生的一段往事。为了能够准确和公正地呈现这件事情，柴静希望熊先生能够对此事发表看法。

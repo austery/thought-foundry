@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Nvidia
@@ -16,9 +16,7 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QDir1xJ2XD0
 speaker: New York Times Podcasts
@@ -32,7 +30,6 @@ tags:
 - us-china-relations
 title: 特朗普威胁恢复核试验，英伟达市值突破5万亿美元，多重全球事件引关注
 ---
-
 ### 特朗普威胁恢复核武器试验
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是10月30日星期四，以下是我们即将报道的内容。

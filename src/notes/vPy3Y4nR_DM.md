@@ -31,10 +31,7 @@ people:
 - Sam Altman
 - Ron DeSantis
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vPy3Y4nR_DM
 speaker: Bloomberg Podcasts
@@ -47,7 +44,6 @@ tags:
 - labor-market
 title: 美国劳动力市场恶化：数据、美联储与AI影响
 ---
-
 ### 播客十周年与劳动力市场数据
 
 **Bloomberg:** 你们知道今天是什么日子吗？

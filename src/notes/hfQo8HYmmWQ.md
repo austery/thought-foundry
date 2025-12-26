@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 date: '2025-11-03'
 draft: true
@@ -12,9 +12,7 @@ people:
 - Jeff Bezos
 products_models:
 - AlphaFold
-project:
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hfQo8HYmmWQ
 speaker: Big Think
@@ -26,7 +24,6 @@ tags:
 - science
 title: 延长人类寿命：科学突破与伦理考量
 ---
-
 ### 寿命科学的迷思与真相
 
 人们一听到寿命科学或寿命医学，脑海中立刻浮现的可能是试图阻止死亡。比如，亿万富翁每天服用数百种补品以求长生不老，或者人们进行疯狂的锻炼和尝试奇异的饮食。人们关注何时进食、吃什么、吃多少。但我认为，这些实际上分散了我们对寿命科学宏伟目标的注意力。我们不是在讨论永生，而是在于延长你的健康寿命，延长你免受疾病、痛苦和记忆丧失困扰的生命阶段。

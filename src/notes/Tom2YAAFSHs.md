@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-06-07'
@@ -15,10 +15,7 @@ people:
 - 鲁迅
 - 苏格拉底
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Tom2YAAFSHs
 speaker: 一席YiXi
@@ -32,7 +29,6 @@ tags:
 - public
 title: 批判性思考入门：如何避免抬杠、吵架与认知陷阱
 ---
-
 ### 批判性思考不是抬杠：从食堂菜不好吃说起
 
 大家好，我叫苏德超，来自武汉大学，是一位哲学老师。今天我想分享的话题是——咱们食堂的菜不好吃？开个玩笑，我真正想谈的是“极简批判性思考入门”。

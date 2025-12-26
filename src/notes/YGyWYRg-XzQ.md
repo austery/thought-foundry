@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OPEC
@@ -17,10 +17,7 @@ people:
 - Ronald Reagan
 - Ben Bernanke
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YGyWYRg-XzQ
 speaker: Adam's Axiom
@@ -34,7 +31,6 @@ tags:
 - society
 title: 美国主要经济衰退解析：从1837年恐慌到2020年疫情冲击
 ---
-
 ### 经济衰退的循环往复
 
 想象一下从零开始建设一个国家。

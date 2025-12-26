@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - MIT
@@ -16,9 +16,7 @@ media_books:
 - Black Mirror
 people:
 - Henry
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=H6q6pYZ9Fho
 speaker: veritasium
@@ -32,7 +30,6 @@ tags:
 - technology
 title: MIT为何研发仿生机器人昆虫？微型机器人的挑战与未来
 ---
-
 ### 微型机器人的奇妙世界与物理挑战
 
 世界上有蜜蜂大小的机器人，有能在水上跳跃的机器人，还有一些由硬币大小的微型内燃机驱动的机器人。

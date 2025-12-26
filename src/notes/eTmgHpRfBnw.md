@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 date: '2025-07-02'
 draft: true
@@ -12,10 +12,7 @@ media_books:
 people:
 - Scott
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eTmgHpRfBnw
 speaker: 政經孫老師
@@ -29,7 +26,6 @@ tags:
 - social-welfare
 title: 中国社会为何走向混乱：经济衰退、集体心理失调与人道主义危机
 ---
-
 ### 中国社会混乱的深层逻辑
 
 很多人不看好中国未来的政治、经济、社会发展及稳定局势，关于中国会乱的说法也十分流行。然而，持这种观点的人却始终无法证明其背后的道理。本文将深入分析中国社会走向混乱的根本原因。

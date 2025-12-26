@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - United Nations
@@ -17,9 +17,7 @@ people:
 - Donald Trump
 - Vladimir Putin
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k1-VDZlMmJU
 speaker: TVO Today
@@ -33,7 +31,6 @@ tags:
 - world-order-collapse
 title: 诺贝尔奖得主：乌克兰为民主而战能给世界带来什么启示
 ---
-
 ### 诺贝尔奖得主谈乌克兰的民主之战
 
 **亚历山德拉·马特维丘克**（Alexandra Matviichuk: 2022年诺贝尔和平奖得主，乌克兰人权律师）是**公民自由中心**（Center for Civil Liberties: 2022年诺贝尔和平奖共同获奖机构）的主席，该组织于2022年获得了**诺贝尔和平奖**（Nobel Peace Prize: 旨在表彰为促进民族团结、裁军或和平会议做出贡献的人）。

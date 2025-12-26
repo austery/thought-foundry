@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - CMHC
@@ -11,9 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_a4dSROZuQ4
 speaker: 王红雨
@@ -27,7 +25,6 @@ tags:
 - technology
 title: 2025年多伦多房地产投资策略：周期底部信号与“不卖房”的理由
 ---
-
 ### 2025年多伦多房地产：为何“不卖房”是最佳策略
 
 房地产市场具有周期性，而周期底部的显著标志之一就是开发商退出市场。鉴于此，2025年对于多伦多房地产投资者而言，最佳的投资策略就是“不卖房”。本文将从四个主要理由对此观点进行深入探讨。

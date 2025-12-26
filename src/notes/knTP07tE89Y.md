@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -35,10 +35,7 @@ people:
 products_models:
 - ChatGPT
 - iPhone
-project:
-- investment-strategy
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=knTP07tE89Y
 speaker: 课代表立正
@@ -52,7 +49,6 @@ tags:
 - tech
 title: 硅谷高管谈AI泡沫：历史重演下的健康泡沫与领导力关键
 ---
-
 ### AI泡沫：期望与现实的巨大差距
 
 我在硅谷做了20多年的高管、投资人和创业者，经历了很多个周期，包括2000年**互联网泡沫**（Dot com bubble: 2000年左右互联网公司估值过高导致的破裂）破裂的情况。今天很多人会说AI也是一个**泡沫**（bubble: 期望值与现实有距离的市场现象），或者马上就要来泡沫了。如果我们去看硅谷著名的投资人，每个人的说法都不一样。我想听听我的观点，尤其是背后的思考：AI有泡沫吗？它到底是一个什么样的周期？我们应该多投点钱，还是应该撤出来了？

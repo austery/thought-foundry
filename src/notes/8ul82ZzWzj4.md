@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-14'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8ul82ZzWzj4
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - wealth
 title: 聚焦全球经济动态：特朗普会晤米莱，摩根大通财报与女性财富转移
 ---
-
 ### 市场概览与早期动荡
 
 This is Bloomberg Businessweek Daily, reporting from the magazine that helps global leaders stay ahead with insight on the people, companies and trends shaping today's complex economy.

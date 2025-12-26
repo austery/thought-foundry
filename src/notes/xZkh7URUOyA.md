@@ -9,9 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xZkh7URUOyA
 speaker: TechButMakeItReal
@@ -25,7 +23,6 @@ tags:
 - team-collaboration
 title: 频道建设第一年回顾：收入、团队与未来展望
 ---
-
 ### 频道启动与初心
 
 一年前，我创建了一个YouTube频道，如今我们已拥有**55,000名订阅者**。感谢每一位在过去一年中与我们同行的朋友。今天，我们将揭秘频道幕后的故事：它是如何建立、如何起飞、我们如何准备一切，以及明年将发生什么。我们将回答大家在帖子下提出的所有问题。过去一年无疑是我生命中最艰难也最激动人心的一年，我想将其分为四个章节来讲述，首先是“如何开始”。

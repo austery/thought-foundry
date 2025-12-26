@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -18,10 +18,7 @@ people:
 - Mario Draghi
 products_models:
 - 5G
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m22U6mS4oCs
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - market
 title: Orange CEO Christel Heydemann 论电信行业变革、AI影响与领导力
 ---
-
 ### 引言
 
 主持人: 大家好，欢迎收听《In Good Company》播客。我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威管理全球最大主权财富基金的机构）的首席执行官Nicolai Tangen。

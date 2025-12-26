@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs: []
 date: '2023-12-16'
@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - elon-musk
 products_models: []
-project:
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NpWBtWqr12I
 speaker: 一口新飯
@@ -25,7 +23,6 @@ tags:
 - reading-habit
 title: 从埃隆·马斯克传中汲取的三个人生智慧
 ---
-
 ### 引言：马斯克的人生课程
 
 今年我读完了最新出版的埃隆·马斯克（Elon Musk）传记，想结合一些个人经历，分享我从他身上学到的三个重要人生课程，希望能对你有所启发和帮助。这次我还邀请了大小马聊科技的几位朋友，共同探讨这些话题。

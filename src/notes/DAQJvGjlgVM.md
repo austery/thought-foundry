@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-21'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DAQJvGjlgVM
 speaker: Anthropic
@@ -23,7 +22,6 @@ tags:
 - developer-tool
 title: Claude Code：加速开发、高效协作的智能助手
 ---
-
 ### 引言与快速迭代的开发模式
 
 These developers tend to like to run multiple Claude sessions at once, and they've started calling this multi-Clauding.

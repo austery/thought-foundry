@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - FBI
@@ -14,9 +14,7 @@ people:
 - 黄健 (Jian Huang)
 products_models:
 - '[]'
-project:
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AoCiBVheFCY
 speaker: 徒步的騎手
@@ -29,7 +27,6 @@ tags:
 - market
 title: 加州华裔夫妇“批量生产”22名婴儿：FBI介入调查跨国代孕产业链
 ---
-
 ### 震惊社区：一对华裔夫妇与22个孩子
 
 近期，美国多家媒体报道了一件发生在加州洛杉矶亚凯迪亚市（Arcadia）的离奇案件。一对华裔移民夫妇被发现竟然是22个孩子的合法父母，事件的复杂性最终引起了美国联邦调查局（FBI）的介入。

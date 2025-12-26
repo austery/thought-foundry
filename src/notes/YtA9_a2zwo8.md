@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2022-03-11'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - 《解构爱情》
 - 金赛性学报告
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YtA9_a2zwo8
 speaker: 超級歪 SuperY
@@ -26,7 +24,6 @@ tags:
 - psychology
 title: 解构爱情：从演化生物学与人类学视角探究人类的忠贞与背叛
 ---
-
 ### 引言：解构爱情的科学视角
 
 近几年，知名艺人接连爆出外遇出轨风波，引发了公众对两性关系的热议。究竟人为何会劈腿、外遇？又为何会相爱、结婚？《解构爱情》一书，由美国生物人类学家**海伦·费雪**（Helen Fisher: 美国知名交友网站首席科学顾问，专注于人类学和生物学研究）撰写，旨在从生物学和人类学的观点，解析爱情背后的生理与文化因素，并解释人为何会劈腿、为何会爱上彼此，以及为何会发展出保持忠贞的一夫一妻制。

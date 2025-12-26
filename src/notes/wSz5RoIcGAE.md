@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Goldman Sachs
@@ -38,10 +38,7 @@ products_models:
 - Gemini
 - ImageNet
 - Manus
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wSz5RoIcGAE
 speaker: 硅谷101播客
@@ -55,7 +52,6 @@ tags:
 - technology
 title: 机器人投资前沿：GPT时刻何时到来？中美竞争与商业化路径
 ---
-
 ### 引言：火热赛道下的冷思考
 
 近期，机器人领域新闻频出，引发广泛关注。一方面，硅谷人形机器人初创公司1X发布的家用机器人NEO，凭借精美的广告片迅速走红，但很快便因其背后依赖人类远程操作而受到质疑，这并非我们期待的具有泛化能力的真正机器人。另一方面，高盛的一份研究报告指出，尽管中国机器人公司的股价高涨，但几乎没有一家获得大规模订单。这些公司的产能规划普遍在每年10万至100万台之间，而高盛预测到2035年，全球人形机器人的出货量可能仅为138万台。

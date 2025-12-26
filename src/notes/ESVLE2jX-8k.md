@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Big Think
@@ -12,9 +12,7 @@ media_books:
 - Troop Beverly Hills
 products_models:
 - iPad
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ESVLE2jX-8k
 speaker: Big Think
@@ -28,7 +26,6 @@ tags:
 - theory
 title: 重塑童年“出厂设置”：贝姬·肯尼迪博士解析情绪模式的根源与改变之道
 ---
-
 我是贝姬·肯尼迪博士，一名临床心理学家，也是三个孩子的母亲。我创办了一个名为“内在良善”（Good Inside）的线上育儿平台。
 
 <details>

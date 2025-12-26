@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times
@@ -17,9 +17,7 @@ people:
 - Anna Martin
 products_models:
 - Venmo
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bo_wmY8P4go
 speaker: New York Times Podcasts
@@ -33,7 +31,6 @@ tags:
 - relationship-dynamic
 title: 第三次约会就提议开联名账户：金钱、文化与亲密关系的奇特融合
 ---
-
 ### 约会中结账的尴尬时刻
 
 **Anna Martin:** 大家好，我是《纽约时报》的安娜·马丁，这里是“摩登爱情”。让我来告诉你们约会中最不喜欢的环节。

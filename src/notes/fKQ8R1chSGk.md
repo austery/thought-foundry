@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-10-04'
@@ -11,10 +11,7 @@ people:
 - Li Ka-shing
 - Mencius
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fKQ8R1chSGk
 speaker: 徒步的騎手
@@ -27,7 +24,6 @@ tags:
 - trend
 title: 中国富人为何加速“润”？一场完美风暴正在酝酿
 ---
-
 ### 富人的嗅觉：为何他们率先“润”出中国？
 
 近年来，中国社会一个日益明显的趋势是，越来越多的人感到不安。富裕阶层虽然不一定都是最聪明的人，但他们对风险和环境变化的嗅觉，远比普通人灵敏得多。当他们开始大规模地用脚投票时，往往预示着某种深层问题的出现。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs: []
 date: '2025-10-13'
@@ -11,10 +11,7 @@ media_books:
 - bloomberg-podcasts
 products_models:
 - bitcoin
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k9X6jGCcikQ
 speaker: Bloomberg Podcasts
@@ -26,7 +23,6 @@ tags:
 - technology
 title: 彭博新闻速递：华尔街收盘、中东协议、比特币与政府停摆
 ---
-
 ### 市场综述与中东和平协议
 
 News when you want it with Bloomberg News. Now, I'm Monica Rix, and that's your closing bell on Wall Street.

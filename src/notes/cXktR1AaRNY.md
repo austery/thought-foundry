@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 红杉资本
@@ -22,10 +22,7 @@ people:
 - Ken Griffin
 products_models:
 - AWS
-project:
-- investment-strategy
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cXktR1AaRNY
 speaker: Best Partners TV
@@ -39,7 +36,6 @@ tags:
 - venture-capital
 title: 红杉新掌舵人阿尔弗雷德·林：四个标准差的投资哲学与AI时代的长期主义
 ---
-
 大家好，这里是最佳拍档，我是大飞。
 
 ### 红杉资本新掌舵人：阿尔弗雷德·林的投资哲学

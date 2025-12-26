@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁醫師
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hju7XpwEDVw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - stress-management
 title: 瘦身成功不復胖的四大關鍵：霸軒30公斤減重維持秘訣與智慧科技輔助
 ---
-
 ### 霸軒的減重蛻變與挑戰
 
 李唐越醫師: 嗨，大家好，我是李唐越醫師。今天邀請到一位非常厲害的來賓，從我第一次見到他，到後來減重成功的樣子，真的是差了非常多。我敢說他絕對是一個越減越帥、越減越有型的一個狀態。我們今天就歡迎YouTuber霸軒。

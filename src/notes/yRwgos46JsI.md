@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yRwgos46JsI
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - stock-analysis
 title: 本周宏观数据展望、个股CRCL分析与市场风险思考
 ---
-
 ### 引言
 
 大家好，我是市场分析员小涛。本期视频将首先展望本周即将公布的宏观数据，接着探讨个股CRCL的买入策略。CRCL是我之前看好但尚未买入的股票，我将分享后续的策略。之后，我们将分析当前的市场参与度，并讨论如何根据其位置进行调整。最后，我将分享最近对美元指数与美债之间背离现象的思考，探讨其是否应引起我们的警示。

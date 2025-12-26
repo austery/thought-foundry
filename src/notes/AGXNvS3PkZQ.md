@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Amazon
@@ -94,10 +94,7 @@ products_models:
 - Blackwell
 - GTC
 - VIX
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AGXNvS3PkZQ
 speaker: Amit Kukreja
@@ -111,7 +108,6 @@ tags:
 - tech-stock
 title: 亚马逊业绩井喷，科技巨头财报周强势收官
 ---
-
 ### 财报周的疯狂与市场的狂欢
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是10月31日，星期五。祝大家万圣节快乐。我没有打扮，因为这周是今年最疯狂的一周之一，我几乎都没怎么出门。基本上每天都有七到八小时的直播，甚至还有九小时的。说实话，我实在没准备服装，抱歉。这周太狂野了。我想，你可以叫我一个在财报周后筋疲力尽的股市YouTube博主。

@@ -12,9 +12,7 @@ people:
 - Scott Bessent
 - Putin
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YRuYb3H3mvA
 speaker: Money & Macro
@@ -27,7 +25,6 @@ tags:
 - war
 title: 俄罗斯战时经济为何比你想象的更强大？
 ---
-
 ### 俄罗斯经济：出人意料的韧性
 
 俄罗斯经济即将崩溃吗？

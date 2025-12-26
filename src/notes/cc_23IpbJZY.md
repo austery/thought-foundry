@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - APEC
@@ -22,10 +22,7 @@ people:
 - Ferdinand Marcos Jr.
 - Doug Ford
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cc_23IpbJZY
 speaker: 莊也雜談
@@ -39,7 +36,6 @@ tags:
 - us-china-relations
 title: 中美休战：卡尼的东方棋局与加拿大贸易多元化之路
 ---
-
 ### 中美APEC峰會：世紀大和解？
 
 最近幾天，全世界總算是暫時鬆了一口氣。就在幾天前，中美這兩個超級大國還在你一拳我一腳地互相加碼關稅壁壘，眼看局勢就要滑向世界末日。全球金融市場也跟著坐過山車，許多投資賬戶虧損嚴重。就在所有人都捏著一把汗，不知道這世界第一和世界第二究竟要鬥到什麼時候才是個頭時，卻突然宣布不打了，休戰了。這到底是怎麼回事？是什麼讓一向強硬的川大統領和一向沉穩的習總書記，在這次**APEC**（Asia-Pacific Economic Cooperation: 亞太經合組織，促進亞太地區經濟增長與繁榮的論壇）峰會上，上演了這麼一出世紀大和解？這場會談背後究竟達成了哪些交易？這究竟是真正的停戰，還是僅僅是一個中場休息，好讓雙方回去補充裝備，準備下一輪更激烈的較量？今天咱們就好好來扒一扒這台前幕後的精彩大戲。

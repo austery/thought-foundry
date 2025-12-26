@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Tinder
@@ -10,9 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1UYhXkNC59I
 speaker: 超級歪 SuperY
@@ -26,7 +24,6 @@ tags:
 - society
 title: 英国留学一年：文化冲击、学术差异与社会观察
 ---
-
 ### 英国留学初体验：环境与社交的文化冲击
 
 今天，我将与大家分享我在英国近一年的留学生活时光，以及期间遇到的各种经历。我将探讨留学与海外生活的优缺点，并分享一些我在当地感受到的文化冲击。首先，我们从文化冲击部分开始。

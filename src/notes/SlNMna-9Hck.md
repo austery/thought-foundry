@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - tsmc-overseas-expansion
@@ -30,10 +30,7 @@ products_models:
 - Android
 - GPU
 - EUV设备
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SlNMna-9Hck
 speaker: Best Partners TV
@@ -46,7 +43,6 @@ tags:
 - semiconductor-supply-chain
 title: 台积电海外建厂：一场昂贵的战略妥协与全球科技格局的重塑
 ---
-
 ### 引言：台积电的全球影响力与海外扩张浪潮
 
 大家好，这里是最佳拍档。今天我们要聊的这家公司，被唐纳德·特朗普（Donald Trump）称为世界上最重要的企业之一。它自己不做终端产品，却掌控着全球科技产业的命脉。它的总部位于一个面积不足4万平方公里的小岛，却支撑着全球60%以上的半导体产出，更垄断了90%以上**先进制程芯片**（Advanced Process Chips: 采用更小线宽技术制造的芯片，性能更强、功耗更低）的供应。在全球市值前十的公司里，有8家的核心业务高度依赖它的产品，剩下两家即便看似无关底层运营，也离不开它生产的芯片。它就是**台积电**（TSMC: 台湾积体电路制造股份有限公司，全球最大的专业集成电路制造服务公司）。

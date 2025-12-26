@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Costco
@@ -22,10 +22,7 @@ people:
 - 查理·芒格
 - Bob Iger
 products_models: []
-project:
-- investment-strategy
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LSdMVc10o6E
 speaker: Shijun Tang
@@ -39,7 +36,6 @@ tags:
 - wealth
 title: 千万不要再犯这些选股错误了：价值投资的核心是价格与价值的平衡
 ---
-
 ### 好公司不等于好投资：买贵了，你就亏定了
 
 光找到一家好公司还不够——如果你买入的价格太贵，你依然赚不到钱。很多人误以为只要选对了股票，财富就会从天而降，自己只需“拿着脑子去接钱”。但现实是：绝大多数人即使买对了股票，最终仍会亏损。

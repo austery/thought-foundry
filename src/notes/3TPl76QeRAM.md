@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - Wirecutter
@@ -29,7 +29,6 @@ tags:
 - product
 title: Wirecutter专家年度好物推荐：2025节日送礼指南
 ---
-
 ### 节日送礼的挑战与Wirecutter的解决方案
 
 大家好，朋友们。

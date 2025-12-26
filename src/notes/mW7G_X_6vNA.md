@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2024-01-26'
 draft: true
@@ -17,10 +17,7 @@ people:
 - Max Weber
 - Franklin D. Roosevelt
 products_models: []
-project:
-- systems-thinking
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mW7G_X_6vNA
 speaker: 超級歪 SuperY
@@ -34,7 +31,6 @@ tags:
 - society
 title: 别把兴趣当饭吃：社会学家揭示“热情原则”如何加剧社会不平等与剥削
 ---
-
 ### 职业选择的困境：兴趣、热情与现实考量
 
 大学考试结束后，许多人将面临选择大学专业或寻找工作的抉择。究竟是应该选择一个更容易找到工作的专业，还是应该追随自己的兴趣？是选择一份热爱的工作，还是选择一份高薪的工作？社会上的主流声音通常会告诉你，你应该追随自己的热情，做自己热爱的工作。然而，今天我们将要探讨的这本书——《失控的热情》（Uncontrolled Enthusiasm），却要告诉你，你不应该把爱好当作工作，也不应该轻易地追随自己的热情。

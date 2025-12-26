@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 宁德时代
@@ -57,10 +57,7 @@ products_models:
 - H100
 - H200
 - Blackwell GPU
-project:
-- china-analysis
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1jnhSxecmQ8
 speaker: 小翠時政財經
@@ -74,7 +71,6 @@ tags:
 - market-speculation
 title: A股、美股、AI与地缘政治：市场深度解析与投资策略
 ---
-
 ### A股市场表现与宁德时代前景分析
 
 截至收盘，**沪指**（上海证券交易所综合股价指数）上涨0.73%，**深成指**（深圳证券交易所成分指数）上涨1.78%，**创业板指**（深圳证券交易所创业板指数）上涨2.55%。板块方面，存储芯片板块全面飙升，锂电池、福建及消费板块亦表现良好。回顾一年前，我对A股在“924新政”后的预判，发现对国家队操盘思路及对A股的调控方向把握得相当准确，尽管在具体点位上不一定精准。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Heritage Foundation
@@ -23,9 +23,7 @@ people:
 - Elon Musk
 - Steven Bartlett
 products_models: []
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D3lhrrXb4WI
 speaker: The Diary Of A CEO
@@ -38,7 +36,6 @@ tags:
 - us-election-2024
 title: 卡玛拉·哈里斯深度访谈：剖析败选、与拜登的复杂关系及美国的未来
 ---
-
 ### 对国家现状的深切忧虑
 
 **主持人：** 副总统女士，您好吗？

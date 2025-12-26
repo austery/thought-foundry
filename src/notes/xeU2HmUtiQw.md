@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 date: '2025-01-04'
 draft: true
@@ -45,10 +45,7 @@ people:
 - Lu Xun
 - Bertrand Russell
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xeU2HmUtiQw
 speaker: Anthony看世界
@@ -62,7 +59,6 @@ tags:
 - self
 title: 中国语文教育如何助长“巨婴”心态：意识形态的隐性灌输与人格退行
 ---
-
 ### 引言：中国语文教育与人格成长
 
 大家好，我是Anthony，欢迎来到我的频道。

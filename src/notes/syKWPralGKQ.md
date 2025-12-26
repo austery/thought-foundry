@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国
@@ -19,9 +19,7 @@ people:
 - Vladimir Putin
 - 泽连斯基
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=syKWPralGKQ
 speaker: 柴静 Chai Jing
@@ -34,7 +32,6 @@ tags:
 - war
 title: 中国雇佣兵亲述俄乌战场：巴赫穆特的残酷与人性的挣扎
 ---
-
 俄乌战争三年之后，现在到了关键性时刻，局势非常动荡，而其结果将对未来整个世界格局造成重大影响。在这个战场上，也有中国公民，有人在为俄罗斯打仗，而有人在为乌克兰而战。最近的节目中，我将采访双方，来了解他们不同的立场和价值观，同时借助他们的眼睛，来看一看媒体记者很难抵达的战争内部究竟发生了什么。今天，我将与马卡龙对话，他是一名在俄罗斯军队中的中国雇佣兵。
 
 ### 前线实录：巴赫穆特的残酷日常

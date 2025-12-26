@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Goldman Sachs
@@ -25,10 +25,7 @@ people:
 products_models:
 - S&P 500
 - Alpha Picks
-project:
-- investment-strategy
-- us-analysis
-- fire-movement
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-A5LROFs-M8
 speaker: Darren聊美股
@@ -44,7 +41,6 @@ tags:
 - us-stock-market-volatility
 title: 2025年美股Covered Call ETF全面盘点：稳健收益与财务自由之路
 ---
-
 ### 美股震荡与Covered Call ETF的应对之道
 
 进入十一月以来，美股持续走弱。本周**标普500**（S&P 500: 衡量美国500家大型上市公司股票表现的指数）再度下挫超过2%，主要有三点原因：第一，大盘从四月起已连续上涨六个月，技术性回调几乎不可避免；第二，著名空头Michael Burry公开做空英伟达和Palantir，引发市场对AI泡沫的担忧；第三，政府关门持续时间过长，市场流动性明显下降。像Oscar这类政策依赖性强的股票，不确定性也在增加。直到周五收盘前传出政府即将重启的消息，市场才出现了明显的V型反弹。

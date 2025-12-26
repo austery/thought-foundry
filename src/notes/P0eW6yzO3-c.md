@@ -24,10 +24,7 @@ people:
 - Socrates
 - 崔健
 - 吴国光
-project:
-- us-analysis
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P0eW6yzO3-c
 speaker: 徒步的騎手
@@ -39,7 +36,6 @@ tags:
 - system
 title: 民主的烂苹果与独裁的金苹果：中文世界的政治二极管现象
 ---
-
 ### 地方选举与中文世界的政治二极管现象
 
 大家好。昨天是美国的选举日，晚上各地投票结果出炉。最引人瞩目的是民主党赢得了新泽西州长、弗吉尼亚州长以及纽约市长职位。有人就此预言民主党翻身了，也有人看到纽约选出了一位社会主义市长，便预言这对共和党有利。有朋友问这些预言靠不靠谱，答案很简单：从一次地方选举预言全国政治走势，从来就没靠谱过。本期节目，我想结合这次选举，谈谈中文世界中一种比较突出的政治现象。

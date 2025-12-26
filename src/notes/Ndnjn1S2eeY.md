@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Alibaba
@@ -20,10 +20,7 @@ people:
 products_models:
 - AI
 - LLM
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ndnjn1S2eeY
 speaker: Norges Bank Investment Management
@@ -37,7 +34,6 @@ tags:
 - market-cycle
 title: AI泡沫何时破裂？—— 深度解析资本主义与全球经济趋势
 ---
-
 ### 资本主义的现状与政府角色的演变
 
 大家好，欢迎来到这次访谈。今天我们有幸邀请到一位特别的嘉宾—— रुचिर·夏尔马（Ruchir Sharma）。他是一位深刻的思想家，我们去年曾就他的著作《资本主义出了什么问题？》（What Went Wrong With Capitalism）进行过深入交流。

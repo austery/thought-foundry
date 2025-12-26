@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 北京大学
@@ -33,10 +33,7 @@ people:
 - 陈天华
 - 福泽谕吉
 - 鲁迅
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U9d3krCmFUE
 speaker: 东京人文论坛
@@ -49,7 +46,6 @@ tags:
 - sino-japanese-relations
 title: 贾葭：中国人对日本的熟悉感，为何在关西最为强烈？
 ---
-
 ### 历史人物的日本情缘与近代化转型中的“偷师”
 
 王赫老师提到的好几个点，其实在我的规划里也有提及。刚才王赫老师您说**法政大学速成课**（Hosei University Crash Course: 日本法政大学在明治时期为中国留学生开设的短期课程，旨在培养近代法律和政治人才），有两个人我觉得还很重要。一个是沈俊儒，他是1949年中华人民共和国成立之后的第一任最高法院院长，他就是法政大学速成课的学员。还有一个是我的陕西老乡，大公报的总编辑张继伦，他也是法政大学的。

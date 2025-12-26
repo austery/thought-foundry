@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - UCLA
@@ -12,10 +12,7 @@ layout: post.njk
 people:
 - Derek Muller
 - Sean Carroll
-project:
-- systems-thinking
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yCsgoLc_fzI
 speaker: veritasium
@@ -29,7 +26,6 @@ tags:
 - technology
 title: 顺风车挑战物理直觉：一场万元赌局揭示的科学真相
 ---
-
 ### 万元赌局：顺风车挑战物理直觉
 
 我在此签署一份文件，赌注一万美元，证明我上一个视频的内容确实是正确的。

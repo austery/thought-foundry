@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-09-09'
 draft: true
@@ -11,10 +11,7 @@ people:
 - V.S. Naipaul
 - David Hume
 products_models: []
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=y2jvpfbMHaQ
 speaker: 徒步的騎手
@@ -28,7 +25,6 @@ tags:
 - thinking
 title: 情感作燃料，理性为引擎：如何在“历史垃圾时间”活得明白？
 ---
-
 ### 华盛顿特区的紧张景象
 
 最近我去了趟华盛顿特区，那里的气氛让我感触很深。在街上，你会看到警察和**国民卫队**（National Guard: 美国各州的预备役军事部队，通常在紧急状态下由州长调动以维持秩序）在抓人。一位优步司机告诉我，现在特区的街头很不安全，你不知道什么时候就会遇到麻烦。

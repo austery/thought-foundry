@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - AMD
@@ -53,10 +53,7 @@ people:
 products_models:
 - Affordable Care Act
 - Neutron
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xuyE-fAVu7o
 speaker: Amit Kukreja
@@ -70,7 +67,6 @@ tags:
 - technical-analysis
 title: 市场解读：AMD的AI雄心与数据中心板块回调的博弈
 ---
-
 ### 市场概览：冰火两重天
 
 欢迎回来。今天市场发生了很多事值得我们讨论。我们将在大约30分钟后，也就是4:15到4:20左右，迎来“技术星期二”环节，Jason将会加入我们。由于前几周被大型科技公司的财报占据，我们已经有几周没有这个环节了，现在所有财报都已公布，我很期待深入探讨这些数据。

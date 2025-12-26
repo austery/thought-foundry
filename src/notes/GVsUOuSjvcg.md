@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Cornell University
@@ -20,9 +20,7 @@ products_models:
 - ImageNet
 - AlexNet
 - Microsoft Word
-project:
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GVsUOuSjvcg
 speaker: veritasium
@@ -37,7 +35,6 @@ tags:
 - neural-network
 title: 模拟计算的复兴：AI时代数字计算的瓶颈与未来
 ---
-
 ### 模拟计算的兴衰与复兴契机
 
 几百年来，**模拟计算机**（Analog Computers: 使用连续可变物理量来表示和处理数据，而非离散的数字）曾是地球上最强大的计算机，它们能够预测日食、潮汐，并引导高射炮。

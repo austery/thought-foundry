@@ -17,10 +17,7 @@ people:
 - Donald Trump
 products_models:
 - AI
-project:
-- us-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9o1HPx__P9w
 speaker: TED
@@ -33,7 +30,6 @@ tags:
 - state
 title: 两位美国州长：民主的希望何在？
 ---
-
 ### 恢复对政府的信任：联邦制与州权
 
 主持人宣布提问环节开始，并向两位州长提出了第一个问题：“民主党和共和党州长可以如何携手合作，以恢复公众对政府的信任？”

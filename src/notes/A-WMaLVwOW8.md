@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
@@ -13,8 +13,7 @@ media_books:
 people:
 - Nikolai Tangen
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=A-WMaLVwOW8
 speaker: Norges Bank Investment Management
@@ -28,7 +27,6 @@ tags:
 - timing
 title: 丹·平克谈后悔的力量、时机与高效休息的关键
 ---
-
 ### 引言：丹·平克谈后悔、驱动力与时机
 
 大家好，欢迎收听本期播客的短版，我们每周五都会推出短版，而完整版则在每周三上线。

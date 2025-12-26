@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - KiwiCo
@@ -9,9 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zTDFhWWPZ4Q
 speaker: veritasium
@@ -25,7 +23,6 @@ tags:
 - technology
 title: 阿梅利亚·埃尔哈特失踪之谜：物理、导航与沟通的致命交织
 ---
-
 ### 序言：一场注定的悲剧？
 
 1937年7月2日，当太阳升起时，阿梅利亚·埃尔哈特（Amelia Earhart: 美国著名女飞行员，首位独自飞越大西洋的女性）深知自己陷入了困境。她通过无线电呼叫：“我们一定就在你们上方，但看不到你们。燃油快耗尽了。无法通过无线电联系到你们。我们正以1000英尺的高度飞行。”在她下方，四面八方都是一望无际的海洋。

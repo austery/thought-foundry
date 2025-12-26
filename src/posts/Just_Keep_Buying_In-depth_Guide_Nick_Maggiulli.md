@@ -11,8 +11,7 @@ layout: post.njk
 media_books:
 - justkeepbuying
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: https://www.harriman-house.com/press/full/4200
 speaker: null
@@ -22,7 +21,6 @@ tags:
 - wealth-management
 title: 《Just Keep Buying》深度解读指南
 ---
-
 ### 作者背景: 数据分析达人 Nick Maggiulli
 
 Nick Maggiulli (昵称“老王”, Maggiulli

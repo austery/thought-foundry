@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - KGB
@@ -24,10 +24,7 @@ people:
 - Saddam Hussein
 - Hillary Clinton
 - Boris Yeltsin
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HhZy-3-dnUA
 speaker: 北美王路飞
@@ -41,7 +38,6 @@ tags:
 - war
 title: 普京与五任美国总统的20年恩怨：KGB特工如何玩弄国际政治
 ---
-
 ### 普京与美国总统的20年恩怨：一个KGB特工的国际政治手腕
 
 大家好，欢迎来到我的频道。今天我们来聊一聊普京和美国总统们长达20年的恩怨情仇，一个**KGB**（克格勃: 前苏联的情报和秘密警察机构）特工如何将五位白宫主人玩弄于股掌之间。本视频的主要内容来源于Frontline PBS推出的一部纪录片，英语好的朋友可以查阅原片。

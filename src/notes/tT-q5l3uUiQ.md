@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TVO
@@ -17,10 +17,7 @@ people:
 - Nam Kiwanuka
 - John Ferry
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tT-q5l3uUiQ
 speaker: TVO Today
@@ -34,7 +31,6 @@ tags:
 - medical
 title: 子宫内膜异位症：被忽视的女性健康困境与漫长求医路
 ---
-
 ### 子宫内膜异位症：被忽视的全身性疾病
 
 Nam: 欢迎收听《**Mistreated**》（播客名称）节目，我是Nam Kiwanuka。

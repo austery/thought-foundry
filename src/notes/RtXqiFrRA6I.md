@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -21,9 +21,7 @@ people:
 products_models:
 - GPT-4
 - GPT-5
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RtXqiFrRA6I
 speaker: Best Partners TV
@@ -36,7 +34,6 @@ tags:
 - llm
 title: AGI的清晰定义：Yoshua Bengio团队如何评估通用人工智能的十大能力与现有模型的短板
 ---
-
 ### AGI定义之争与新框架的提出
 
 大家好，这里是最佳拍档。最近一段时间，AI界掀起了一场关于大语言模型能否通向**AGI**（Artificial General Intelligence: 能够执行人类所有认知任务的人工智能）的激烈争论。一方面，以OpenAI、Google等为代表的企业界坚信，当前的模式和**Scaling Laws**（规模法则: 指模型性能随计算资源、数据量和模型参数增加而提升的经验法则）能够实现AGI；另一方面，以Richard Sutton、Gary Marcus、Yann LeCun等为代表的学术界重量级人物对此提出了尖锐批评。Sutton认为当前的大语言模型过度依赖人类的标注数据，缺乏真正的学习机制；Marcus则反复指出大模型的推理能力存在根本缺陷，只是随机鹦鹉；LeCun更是直言，单纯大语言模型永远无法达到人类水平的智能。

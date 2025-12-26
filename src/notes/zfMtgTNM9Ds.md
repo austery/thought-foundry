@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 麻省理工学院
@@ -15,10 +15,7 @@ media_books:
 - 《台湾的基层公务员是如何制造低收入户的》
 people:
 - Max Weber
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zfMtgTNM9Ds
 speaker: 壽司坦丁 Sociostanding
@@ -32,7 +29,6 @@ tags:
 - governance
 title: 基层公务员的道德困境：公家机关如何侵蚀道德能力？
 ---
-
 这里是寿司坦丁，在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究。当麻省理工学院的政治学者**伯纳多·扎卡**（Bernardo Zacka: 麻省理工学院政治学者，研究官僚体制和公共服务）在离开他进行了八个月的田野调查时，他的脑袋里不断盘旋着一个问题：基层公务员是不是一种有毒的职业？为什么大部分的基层公务员都会呈现出某种病态的道德倾向？
 
 当时的扎卡还不是麻省理工学院的副教授，他还是哈佛政府系的一个博士生。扎卡将他的博士论文全都用来分析这个非常有趣的问题。2015年，扎卡凭借这篇论文拿到他的博士学位。两年后，他把博士论文改写成专书，在学界引起广泛的回响。扎卡最后给出的答案是，他认为基层公务员确实是一种有毒的职业，理由是他认为公家机关是一种会侵蚀道德能力的职场环境。

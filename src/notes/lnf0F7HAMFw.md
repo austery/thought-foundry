@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - AMD
@@ -35,10 +35,7 @@ people:
 - Michael Burry
 - Tom Lee
 - Palmer Luckey
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lnf0F7HAMFw
 speaker: Amit Kukreja
@@ -51,7 +48,6 @@ tags:
 - market-volatility
 title: AMD财报深度解析：在市场抛售与加密货币崩盘中的关键考验
 ---
-
 ### 市场概览：加密货币崩盘引发的抛售潮
 
 好了，大家好。欢迎回到频道。我们现在进入市场收盘时刻。今天是一个非常特别的财报日。SMCI、Tempest、Arista、Rivian、Zeta、Axon、Pinterest，当然还有那家公司——当它股价远低于100美元时，这两位分析师就一直在分析它。他们当时就说：“嘿，我认为这值得买入。”而听了他们话的人肯定从中赚了些钱。AMD，Neil、Jose，你们好吗？

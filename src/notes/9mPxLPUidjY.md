@@ -15,10 +15,7 @@ people:
 - Donald Trump
 - Obama
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9mPxLPUidjY
 speaker: Shanghao Jin
@@ -30,7 +27,6 @@ tags:
 - us-china-relations
 title: 特朗普关税政策的市场影响与衰退风险展望
 ---
-
 ### 政策主导下的市场波动与特朗普关税
 
 大家早上好。我这张图其实代表了很多东西。最近的市场，我觉得很多层面上是政策，而非经济，完全是政治政策的影响。因此，观测的整个重心，从上个星期或者再上个星期，这一两个月以来，基本上都是**唐纳德·特朗普**（Donald Trump: 美国前总统，共和党籍）的关税政策。

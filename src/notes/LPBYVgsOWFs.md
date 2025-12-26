@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -48,9 +48,7 @@ people:
 - Masayoshi Son
 - Anthony Tan
 products_models: []
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LPBYVgsOWFs
 speaker: Amit Kukreja
@@ -64,7 +62,6 @@ tags:
 - technology
 title: Robinhood Q3 财报深度解析：超预期增长与未来展望
 ---
-
 ### Robinhood Q3 财报概览与初步反应
 
 Amit: 好的，大家好，欢迎回到新一期的 Tech Bros 节目。我们正在直播，有很多内容要聊。上周 Robinhood 刚刚发布了财报，那份财报相当引人注目，随着我们深入研究这些数据，会发现有很多值得分析的地方。我们也会聊一些 AI 相关的话题，看看英伟达的最新动态。但很高兴能再次和大家在一起。Tanner Roy，你怎么样？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Lux Capital
@@ -63,10 +63,7 @@ products_models:
 - Twitter
 - Gmail
 - Google Slides
-project:
-- ai-impact-analysis
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Sd7cCpoJjbI
 speaker: Bloomberg Podcasts
@@ -81,7 +78,6 @@ tags:
 - venture-capital
 title: AI时代：风险投资的社会契约、市场洗牌与未来机遇
 ---
-
 ### 风险投资的激励机制与有限合伙人的尽职调查
 
 **VC**（Venture Capital: 风险投资）的激励机制主要有两点：首先是获得最佳回报以保持竞争力。如果我的投资回报率只有12%，而同行VC能达到20%，那么资金自然会流向那些能获得更好回报的地方，我就会因此失去竞争力。因此，我的资本成本，也就是**LP**（Limited Partner: 有限合伙人）的资本成本，就是超越同行的表现。这意味着我必须更早地进入市场，拥有更多的股权，不能随便做愚蠢的交易。

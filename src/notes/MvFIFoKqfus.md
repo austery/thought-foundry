@@ -1,5 +1,5 @@
 ---
-area: digital-garden
+area: "knowledge-meta"
 category: productivity
 companies_orgs: []
 date: '2022-11-20'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- knowledge-pipeline
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MvFIFoKqfus
 speaker: 一口新飯
@@ -24,7 +22,6 @@ tags:
 - research
 title: 将知识转化为资产：我的研究与内容创作方法论
 ---
-
 ### 知识博主的自我定位与创作动力
 
 一位观众曾留言误以为我是一名经济学教授，这让我感到非常得意。然而，我并非经济学专业出身，大学时只学过基础会计，且过往工作也与金融无关。我所有的投资、金融和经济学知识均通过自学获得。作为一名知识类博主，我始终致力于为大家提供准确、硬核的干货知识，这背后需要投入大量时间进行研究（research）。

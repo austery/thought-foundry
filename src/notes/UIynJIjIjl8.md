@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies:
 - recycling-economics
@@ -18,10 +18,7 @@ media_books:
 - The Box
 products_models:
 - Bloomberg Terminal
-project:
-- us-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UIynJIjIjl8
 speaker: Bloomberg Podcasts
@@ -34,7 +31,6 @@ tags:
 - society
 title: 纸箱：一个被忽视的美国经济晴雨表
 ---
-
 ### 纸箱：一个不寻常的宏观经济指标
 
 **Tracy:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Alloway。

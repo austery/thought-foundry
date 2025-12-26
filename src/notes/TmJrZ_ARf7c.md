@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 天主教会
@@ -15,9 +15,7 @@ people:
 - 许成钢
 - 鲍里斯·约翰逊
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TmJrZ_ARf7c
 speaker: 东京人文论坛
@@ -30,7 +28,6 @@ tags:
 - society
 title: 从马基雅维里到光荣革命：商业社会如何重塑现代共和制度
 ---
-
 ### 大西洋共和主义传统：从佛罗伦萨到英美体系
 
 今天我们讨论的内容细节很多，可能一次讲不完，讲到哪里算哪里。这本书的主题是“佛罗伦萨政治思想与大西洋共和主义传统”。佛罗伦萨部分，指的是我们上次谈到的马基雅维里所生活的时代，即佛罗伦萨和威尼斯的政治。而大西洋共和主义传统，则指大西洋两岸的英国和美国。

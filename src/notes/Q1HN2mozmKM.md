@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies:
 - material-recycling
@@ -15,10 +15,7 @@ media_books:
 people:
 - 项飙
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q1HN2mozmKM
 speaker: 一席YiXi
@@ -30,7 +27,6 @@ tags:
 - urban
 title: 北京超无聊：胡同里的野生设计与城市生命力的残响
 ---
-
 ### 胡同里的野生设计：当生活成为建筑
 
 大家好，我是鲁雯泋。我是一名建筑师。

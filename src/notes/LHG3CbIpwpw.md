@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 公安部门
@@ -38,10 +38,7 @@ people:
 - 贾老师
 products_models:
 - K他命
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LHG3CbIpwpw
 speaker: 三個水槍手
@@ -58,7 +55,6 @@ tags:
 - society
 title: 治安处罚法轻罪封存引爆民怨：毒品、权贵与中国社会深层矛盾
 ---
-
 ### 中国社会对“轻罪封存”的普遍心态
 
 我们就要反过来问了，其实说反正道理特别简单，不管从人权上，从公平上都特别简单。那请问，中国人为什么这么缺乏这种最基本的同情心和文明的共识？为什么很多中国人就认为我很清白，犯罪是社会上少数，我们迫害少数人，让大多数人活得更好，为什么不行？因为很多中国人愿意对于**一罪从有**（Presumption of Guilt: 指在未经审判前，倾向于认定嫌疑人有罪的观念），愿意**连坐**（Collective Punishment: 指一人犯罪，其亲属或相关人员也受到牵连惩罚的制度或观念），愿意这那这那。其实中国人都认为我好人，我从不犯错，我没有问题，为什么要保护有问题的人？我老老实实、本本分分，从来不干坏事，你们怎么看待这种心态？这种心态中非常多。

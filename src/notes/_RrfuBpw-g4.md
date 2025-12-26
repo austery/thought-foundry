@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - WeWork
@@ -30,9 +30,7 @@ people:
 products_models:
 - iPhone
 - Model Y
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_RrfuBpw-g4
 speaker: 北美王路飞
@@ -46,7 +44,6 @@ tags:
 - society
 title: 回国见闻：从基建消费到就业与人口的深度观察
 ---
-
 ### 回国初体验：基建、美食与生活成本
 
 我这次回国，去了南京、上海、深圳，还有一个南通如东，基本上覆盖了北上南深。我还缺浙江没去，之前去过台州、宁波等地。当时感觉浙江的基础建设确实很不错。其实你去几个城市就能明显感觉到，虽然很多地方有相似之处，但基础设施的完善程度跟经济发达程度是成正比的，这一点非常明显。深圳肯定是顶级的，但我认为浙江应该在南京之上。

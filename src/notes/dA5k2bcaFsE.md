@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dA5k2bcaFsE
 speaker: ZetaBook
@@ -24,7 +21,6 @@ tags:
 - semiconductor
 title: 从冷战历史看台美关系：台湾外交困境与芬兰化路径探析
 ---
-
 ### 台湾外交逆风与历史的启示
 
 2025年，台美外交遭遇显著逆风。先是赖清德总统希望过境美国被川普拒绝，随后美国前国务院官员**惠顿**（Christian Whiton: 美国前国务院官员及国家安全顾问）批评台湾政府“一直处在状况外”。紧接着，美国现任财政部部长**贝森特**（Scott Bessent: 美国现任财政部部长）公开指责台湾半导体对美国构成国家安全威胁，而非仅仅是经济威胁。这引发了外界对美国对台不满的疑问，尤其是在台湾已尽力“讨好”美国的情况下。

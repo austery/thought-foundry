@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Catholic Church
@@ -41,10 +41,7 @@ people:
 - Mao Zedong
 - Xi Jinping
 products_models: []
-project:
-- historical-insights
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FYGI5RKIRP8
 speaker: 夸克说
@@ -57,7 +54,6 @@ tags:
 - value
 title: 马克思恩格斯：从宗教到“科学”的共产主义转型与批判
 ---
-
 ### 共产主义的早期教主与魏特林的登场
 
 大家好，欢迎收看夸克说，我是夸克。前面两期节目，我们回顾了共产主义早期思想的五位教主。接下来，终于到了我们这个系列的高潮，也是最为大家所熟悉的马克思和恩格斯。但在介绍他俩之前，我们还得插播一位重要人物。上期节目的结尾，我们提到过**密谋社**（Conspiracy of Equals: 早期法国革命团体，主张财产公有）的一个幸存者逃到了瑞士，并将第五代核心巴贝夫的理论整理出版，搞出了一本叫《为平等而密谋》的书。这本书后来流传开来，成了全球共产主义革命者们的圣经。在巴贝夫的众多读者之中，有一个落魄的小裁缝。当他第一次读到这本书时，如遭雷击，书中的那些关于怎么造反的理论，都像是在他那颗充满仇恨却又迷茫的心里点燃了一把火。

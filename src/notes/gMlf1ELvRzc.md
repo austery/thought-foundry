@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Brilliant
@@ -14,9 +14,7 @@ people:
 - Isaac Newton
 - Derek Muller
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gMlf1ELvRzc
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - science
 title: 牛顿如何彻底改变了圆周率的计算方式
 ---
-
 ### 圆周率的直观理解
 
 本视频将探讨我们过去计算**圆周率**（Pi: 一个圆的周长与其直径之比的数学常数，约等于3.14159）的荒谬方式。

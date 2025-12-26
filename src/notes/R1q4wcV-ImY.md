@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: All-In Podcast
 category: technology
 date: '2025-10-15'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- entrepreneurship
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=R1q4wcV-ImY
 speaker: all-in-podcast
@@ -23,7 +21,6 @@ tags:
 - software
 title: Orlando Bravo的私募股权策略：如何打造顶尖公司
 ---
-
 ### Toma Bravo的崛起与Orlando Bravo的个人故事
 
 With one of the best track records in private equity, Bravo manages 179 billion in assets, Bravo has grown at a blistering pace.

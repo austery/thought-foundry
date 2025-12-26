@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -14,10 +14,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- investment-strategy
-- personal-growth-lab
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Zwyz2AeI9sc
 speaker: Shijun Tang
@@ -31,7 +28,6 @@ tags:
 - technology
 title: 新手投资人最常犯的错误：从情绪化交易到价值投资的系统性转型
 ---
-
 ### 新手投资的核心误区：情绪驱动与信息噪音
 
 很多新手投资人特别喜欢刷新闻，这种行为背后的原因，是因为他们对自己的投资决定缺乏信心。因为不自信，所以需要在新闻或社交媒体上寻找与自己观点一致的信息，以此获得心理上的认同感。例如，许多投资特斯拉的人会频繁搜索关于其全自动驾驶（FSD: Full Self-Driving）的新闻或视频——他们投资特斯拉，正是因为相信FSD能“颠覆世界”。当看到相关消息时，他们会感到安心。但这种行为与投资成败毫无关系：特斯拉是否发布FSD新闻、你刷到什么视频，根本不会影响公司的实际价值。真正重要的是学会辨别：哪些信息值得你关注？

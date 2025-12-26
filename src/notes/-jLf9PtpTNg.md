@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Hamas
@@ -25,10 +25,7 @@ people:
 - Karoline Leavitt
 - Al Gore
 - Steve Bannon
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-jLf9PtpTNg
 speaker: 记者易速利
@@ -42,7 +39,6 @@ tags:
 - political-influence
 title: 库什纳与维特科夫：特朗普中东外交的幕后推手与家族遗产
 ---
-
 ### 特朗普中东外交的非传统路径
 
 特朗普在中东地区取得的外交成就值得称赞。在哈马斯仍押的20位以色列人质全部获释后，以色列方面也开始陆续释放约2000名巴勒斯坦囚犯。尽管加沙停火尚未完全保障，加沙的未来仍充满不确定性，但这次外交突破中，特朗普的两位助手——中东特使史蒂夫·维特科夫和他的女婿贾里德·库什纳——起到了至关重要的作用。

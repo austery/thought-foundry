@@ -16,9 +16,7 @@ people:
 - Ace
 products_models:
 - GPU
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q9mzdcVkMHU
 speaker: Money or Life 美股频道
@@ -32,7 +30,6 @@ tags:
 - technology
 title: CoreWeave (CRWV) 抄底分析：与 Nebius (NBIS) 的估值与投资价值深度对比
 ---
-
 ### CoreWeave (CRWV) 股价分析与投资价值探讨
 
 大家好，欢迎来到Money or Life美股频道。我是Ace。最近，**CoreWeave**（NeoCloud公司: 指新兴的云服务提供商）的股价从最高点的183美元跌至100美元左右，接近腰斩。那么，这家公司现在是否值得买入呢？我将在本期视频中为大家阐述。

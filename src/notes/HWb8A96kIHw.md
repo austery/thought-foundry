@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - WTO
@@ -14,10 +14,7 @@ people:
 - Anita Anand
 products_models:
 - USMCA
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HWb8A96kIHw
 speaker: 莊也雜談
@@ -31,7 +28,6 @@ tags:
 - us-canada-trade-war
 title: 美加贸易战深度剖析：关税冲击下的加拿大经济与民众应对
 ---
-
 哈喽大家好，我是庄也，欢迎您收看庄也杂谈。今天，咱们聊一聊美加贸易战这个话题。为啥聊这个？这几天，加拿大本地媒体天天都在说这事。就感觉这次美国一加关税，加拿大朝野上下是一片哀鸿遍野，就好像加拿大的天都要塌下来了，顿觉加拿大的经济前景一片黑暗。同时，加拿大社会各界，上到政界名流，下到普通百姓，一谈起美国，就感觉自己被这个亲密无间的盟友“背刺”一刀，遭遇到了背叛的感觉。昨天还叫人家小甜甜，今天就成牛夫人了。我本将心向明月，奈何明月他压根就不是明月，他就是一个混账王八羔子。就是这么一种非常复杂的感觉，也是对美国各种指责。今天庄也就带您深入剖析一下美加之间相爱相杀的贸易真相。
 
 ### 事件回顾：特朗普关税与加方回应

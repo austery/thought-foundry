@@ -16,9 +16,7 @@ products_models:
 - Netflix
 - TikTok
 - YouTube
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8FcP2fDxjXQ
 speaker: 莊也雜談
@@ -31,7 +29,6 @@ tags:
 - life
 title: 不再宜居？揭秘八大原因：为何近期大量人口选择离开加拿大
 ---
-
 大家好，欢迎收看庄也杂谈。首先祝各位会员和粉丝朋友们2024年新年快乐。今天这个喜庆的日子，我们来聊一个比较轻松的话题。最近一段时间，有不少加拿大的居民纷纷离开加拿大，这听起来有些奇怪。我们常说加拿大是全球移民目的地国家中的佼佼者，为何还会有人选择离开？这个消息是真是假？如果是真的，他们离开的原因又是什么？今天，我们将就此话题解开真相。
 
 ### 离开加拿大的趋势与数据

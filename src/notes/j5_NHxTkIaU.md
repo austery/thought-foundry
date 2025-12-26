@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P 500
@@ -86,10 +86,7 @@ products_models:
 - TPU
 - GPT-5.1
 - Cursor
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=j5_NHxTkIaU
 speaker: Amit Kukreja
@@ -104,7 +101,6 @@ tags:
 - market-volatility
 title: 美国政府重开与“大空头”退隐：市场动荡背后的多重信号
 ---
-
 ### 开盘观察：市场普跌，政府重开未能提振信心
 
 大家早上好，欢迎回到新一期的《市场开盘》。今天是11月13日，星期四。就在我准备直播前的五分钟，市场突然转跌。盘前市场本来基本上是绿色的，但现在标普500指数下跌了0.32%，拖累了几乎所有板块。CoreWeave、Iren、英伟达、PayPal都转为下跌。

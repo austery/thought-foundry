@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国民党
@@ -24,10 +24,7 @@ people:
 - 爱因斯坦
 - 希特勒
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eqZcvIa5DyE
 speaker: 張内咸
@@ -43,7 +40,6 @@ tags:
 - state
 title: “国格”理论：一场违宪的荒谬闹剧与其哲学溯源
 ---
-
 ### 引言：简中世界“国格”大讨论的缘起
 
 大家好，我是张内咸，我们又见面了。最近在简中世界里，所有人都在讨论一个新词，叫做**国格**（National Dignity: 指国家在国际社会中的地位、形象和尊严）。大家以前听说过这个词吗？反正我呢，是从小到大都没听说过。什么叫国格？是指国家的性格，还是国家的资格？如果你是在海外长大的华人，就更没办法理解这个词了，因为这个词的英语都没办法翻译。如果说人格翻译成英语是 personality，那么国格翻译成英语是 nationality 吗？但我们都知道 nationality 是国籍的意思啊，难道说中文里的国格就是国籍的意思？当然不是那么回事。

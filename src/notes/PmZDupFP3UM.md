@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Atlassian
@@ -22,8 +22,7 @@ media_books:
 products_models:
 - AI
 - Bedrock
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PmZDupFP3UM
 speaker: AI Engineer
@@ -37,7 +36,6 @@ tags:
 - metric
 title: AI 赋能工程：DX (Atlassian 收购) 的 Justin Reock 谈领导力与实践
 ---
-
 ### 引言与指南
 
 非常感谢大家加入我今天的会议。很高兴看到这么多人留到最后，会议室座无虚席。在接下来的时间里，我们将涵盖大量内容。因此，我将直接开始。如果您想深入了解任何细节，我们已经发布了一本面向高级管理人员的《AI战略手册》。我将介绍的内容大部分都包含在这本手册中，您可以稍后参考。如果您错过了手册的二维码，别担心，我会在最后再次展示。

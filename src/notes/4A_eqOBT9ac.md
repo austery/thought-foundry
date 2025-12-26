@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - US House of Representatives
@@ -43,10 +43,7 @@ people:
 - Bill Gates
 products_models:
 - Google Drive
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4A_eqOBT9ac
 speaker: 北美王路飞
@@ -60,7 +57,6 @@ tags:
 - state
 title: 爱泼斯坦邮件曝光：特朗普、克林顿与美国政治精英的深层网络
 ---
-
 ### 爱泼斯坦文件公开：政治风暴的开端
 
 大家好，欢迎来到我们周六的直播。今天，我们将深入探讨爱泼斯坦（Jeffrey Epstein）遗产文件公开事件。大家必须清楚，我们今天讨论的文件与众议院及参议院即将投票表决的爱泼斯坦文件并非同一批。我们今天要讲的文件是近期由民主党和共和党的众议院监督委员会分别公开的爱泼斯坦邮件。

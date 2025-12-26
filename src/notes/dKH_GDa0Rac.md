@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2022-09-02'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dKH_GDa0Rac
 speaker: 一口新飯
@@ -24,7 +22,6 @@ tags:
 - us-monetary-policy
 title: 美国法定准备金率的兴衰：为何被废除及货币乘数理论的过时
 ---
-
 ### 美联储货币政策与华人对准备金率的困惑
 
 当前，美联储正通过加息缩表来控制通胀，这引发了许多华人一个疑问：为什么美联储不像中国央行那样，通过调整**存款准备金率**（Reserve Requirement Ratio: 银行必须将其客户存款的一部分保留在中央银行，而非全部贷出的比例）来控制货币总量？实际上，**美联储**（Federal Reserve System: 美国中央银行体系）不仅不调整准备金率，更在2020年3月取消了这项要求。美国在发达经济体中，放弃准备金要求的时间已算很晚，例如加拿大在1992年就已取消，英国一直采取自愿准备金率政策，澳大利亚、新西兰及中国香港等地也都没有准备金率要求。许多国家和地区即使设有法定准备金率，其要求也普遍很低，且不作为主要的货币政策工具。这尤其让有大陆背景的华人感到困惑，毕竟我们多年来听惯了央行“降准、升准”的说法。

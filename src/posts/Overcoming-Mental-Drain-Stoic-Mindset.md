@@ -1,10 +1,9 @@
 ---
 title: 区分 可控与不可控
 summary: null
-area: personal-growth
+area: "life-family"
 category: psychology
-project:
-- personal-growth-lab
+project: []
 tags:
 - psychology
 companies_orgs: []
@@ -19,7 +18,6 @@ layout: post.njk
 series: null
 source: null
 ---
-
 **主讲人:** 大问题阿伦
 
 ## 区分 可控与不可控

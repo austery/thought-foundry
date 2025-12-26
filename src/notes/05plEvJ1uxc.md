@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-13'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=05plEvJ1uxc
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - us-china-relations
 title: 中东停火、中美贸易与美国政府停摆：彭博早间新闻聚焦
 ---
-
 ### 中东停火与人质交换
 
 Nathan Hager: Good morning. I'm Nathan Hager.

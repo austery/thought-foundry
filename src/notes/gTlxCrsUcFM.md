@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -23,9 +23,7 @@ products_models:
 - AlphaGo Zero
 - AlphaFold
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gTlxCrsUcFM
 speaker: The MAD Podcast with Matt Turck
@@ -40,7 +38,6 @@ tags:
 - scientific-discovery
 title: Anthropic研究员Julian Schrittwieser：我们是否误读了AI的指数级增长？
 ---
-
 ### 我们再次未能理解指数级增长
 
 **Julian:** 关于 AI 泡沫的讨论似乎与前沿实验室里正在发生的事情以及我们所看到的景象严重脱节。我们没有看到任何进展放缓的迹象。多年来，我们看到的是一种非常持续的进步，大约每三四个月，模型就能独立完成一个比以前长两倍的任务。我们很难直观地理解这些**指数级趋势**（Exponential trends: 指事物在单位时间内以固定百分比增长的模式，其增长速度会越来越快）。如果你能让社会中的每个人生产力提高10倍，我们能实现怎样的富足？未来5年我们能解锁什么？我认为我们可以走得非常远。

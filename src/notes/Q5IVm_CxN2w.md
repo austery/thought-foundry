@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - GitHub
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - PostgreSQL
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q5IVm_CxN2w
 speaker: AI Engineer
@@ -27,7 +25,6 @@ tags:
 - self
 title: 利用AI编程代理实现基础设施的自我修复
 ---
-
 ### 基础设施应能自我修复
 
 您的应用程序基础设施应该能够自我修复。

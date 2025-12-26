@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - beginner-guide
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qfiLVwPUXFc
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - real-estate-investing
 title: 财务自由之路：房地产投资的不可或缺性与新人入门指南
 ---
-
 ### 房地产投资：实现财务自由的关键拼图
 
 近年来，在讨论实现**财务自由**（Financial Freedom: 指个人无需为金钱而工作，资产收益足以覆盖生活开销的状态）的方式时，人们更倾向于关注股票市场。无论是推崇**指数基金**（Index Fund: 一种旨在追踪特定市场指数表现的投资基金）的**FIRE运动**（Financial Independence, Retire Early: 财务独立，提早退休运动，倡导通过储蓄和投资实现财务自由，从而提前退休）的流行，还是前两年股市牛市催生的全民炒股现象，都让许多人得出一个不太准确的结论：他们认为想要实现财务自由，可能只需要依靠股票市场就足够了。因此，很多人开始忽略另一个重要的投资领域——房地产。毕竟，股市这几年的高回报是房地产无法比拟的。尤其是一些投资新人，他们将大部分财富集中到股市甚至**加密货币**（Cryptocurrency: 一种使用密码学原理来确保交易安全及控制单位创建的数字或虚拟货币）当中，而不去考虑房地产投资。

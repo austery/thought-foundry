@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -14,10 +14,7 @@ people:
 - Donald Trump
 - Jerome Powell
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CebcC1SvcWk
 speaker: 小翠時政財經
@@ -31,7 +28,6 @@ tags:
 - inflation-hedging
 title: 黄金暴涨：美元信用透支与全球资产重估的深层逻辑
 ---
-
 ### 黄金的疯狂上涨与美元信用的动摇
 
 今年，黄金作为金融资产，其涨幅之夸张令人瞩目。如果在去年有幸配置了黄金，那么现在账面资产可能已经涨超60%。这种金价上涨的疯狂程度，甚至让人难以找到任何看空黄金的理由，并开始怀疑金价最终可能会达到一个超乎所有人想象的离谱位置。当前的情形似乎又回到了1971年，当时美国宣布废除**布雷顿森林体系**（Bretton Woods System: 二战后建立的国际货币体系，将美元与黄金挂钩，其他货币与美元挂钩），美元与黄金彻底脱钩，之后短短几年时间，黄金暴涨超过24倍。那么，今天黄金为何又突然开始疯狂上涨，且涨势根本停不下来？这背后存在着深刻的底层逻辑。

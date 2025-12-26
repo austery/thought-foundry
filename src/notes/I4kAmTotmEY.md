@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 开心麻花
@@ -34,9 +34,7 @@ people:
 products_models:
 - TikTok
 - QQ
-project:
-- cultural-critique
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I4kAmTotmEY
 speaker: 張内咸
@@ -50,7 +48,6 @@ tags:
 - theatrical-version
 title: 日本动画电影称霸票房：真人电影的未来何去何从？
 ---
-
 ### 日本移民的挑战与日本影视行业现状
 
 近两年，选择润日（移民日本）的人数显著增多，这主要是因为日本的移民政策目前对中国最为友好。过去，中国人移民通常优先考虑美国和加拿大，我的同学中也大多去了北美或加拿大。然而，移民日本面临的首要问题是住房空间狭小。毕竟，移民是为了追求更好的生活，大家都渴望住上电影中那种带游泳池的美式大豪斯。日本或许也有这类大房子，但它们通常位于乡下。大多数人选择前往东京或大阪这样的大城市，如果去乡下，就业又会成为问题。因此，移民日本的第二大挑战就是就业，日本的工作竞争激烈，综合来看，其就业环境与国内相比，优势并不明显。

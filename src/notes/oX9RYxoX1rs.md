@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Alphabet
@@ -13,9 +13,7 @@ insight: ''
 layout: post.njk
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oX9RYxoX1rs
 speaker: 硅谷101
@@ -30,7 +28,6 @@ tags:
 - scientific
 title: AI驱动科学新范式：诺奖得主齐聚AIAS 2025峰会，揭示材料、基因与蛋白质设计前沿
 ---
-
 ### 引言：AIAS 2025峰会与科学新范式
 
 从沙漠空气中提取水、进行基因编辑，到像搭乐高一样设计蛋白质，以及价值10亿美元的新AI发现范式——这些看似不相关的词汇，实则代表着人工智能与科学结合最紧密的领域。而这些前沿进展，都集中出现在2025年10月底于旧金山举办的AIAS（天桥脑科学研究院AI驱动科学研讨会）峰会上。这场为期两天的盛会，汇聚了三位诺贝尔化学奖得主、一位图灵奖得主以及数十位各领域最权威的前沿专家，其含金量可见一斑。本期视频将带大家深入了解这些诺奖得主所传达出的前沿研究与资本布局信号。

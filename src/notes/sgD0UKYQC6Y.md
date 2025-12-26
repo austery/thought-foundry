@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Tesla
@@ -22,10 +22,7 @@ products_models:
 - ChatGPT
 - Gemini CLI
 - Claude Code
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sgD0UKYQC6Y
 speaker: 一口新飯
@@ -40,7 +37,6 @@ tags:
 - vibe-coding
 title: 'ALL in AI: 为什么你需要立即开始Vibe Coding？'
 ---
-
 ### AI时代生存法则：为何你需要立即开始Vibe Coding
 
 最近发生的两件事，让我觉得必须制作一个视频来告诉大家，为什么我们每个人都需要立即开始所谓的**Vibe Coding**（通过自然语言，在需要时结合代码，同AI协作来解决实际问题的过程）。我知道这听起来有点制造焦虑，但我相信当你看完这个视频之后，你就会明白，我分享的是很多人还没有意识到的正在发生的现实。

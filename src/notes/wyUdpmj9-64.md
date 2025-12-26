@@ -9,8 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=wyUdpmj9-64
 speaker: AI Engineer
@@ -23,7 +22,6 @@ tags:
 - system
 title: AI工程师巴黎峰会：第二天重点回顾
 ---
-
 ### 开场致辞
 
 Ralph J. ABRY: Good morning, Paris. How's it going, guys? Did you guys enjoy yesterday? If you liked yesterday, today is going to be incredible. You're going to just love it. So, I'm very happy to have you here today for day two. Yesterday was a fantastic day. We had an amazing opening ceremony with Swix and Ben, co-founder of AI engineers. And we had a great talk also from Mistral AI who talked to us about the problems that they face in the enterprise world, which I found fascinating.

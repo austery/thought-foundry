@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - FBI
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Brilliant
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KT18KJouHWg
 speaker: veritasium
@@ -26,7 +23,6 @@ tags:
 - law
 title: 金州杀手案：基因家谱如何改变冷案侦破与隐私边界
 ---
-
 ### 金州杀手：从维萨利亚到南加州的罪行升级
 
 本视频讨论了可能令某些观众感到不安的严重罪行，因此我希望提前告知大家，但我认为有必要详细讨论这些罪行，其原因将很快变得明朗。在20世纪70年代中期，加利福尼亚州维萨利亚（Visalia）这个小镇上，该州最多产的罪犯之一开始了他的犯罪生涯。他反复闯入民宅并偷窃现金、硬币和珠宝等小物件。他被冠以“**维萨利亚洗劫者**”（Visalia ransacker）的绰号，但很快他的罪行升级了。

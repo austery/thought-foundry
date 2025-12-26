@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 天下文化
@@ -18,9 +18,7 @@ media_books:
 - Nature
 products_models:
 - CAR-T
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-9owT6_FQRM
 speaker: 天下文化
@@ -34,7 +32,6 @@ tags:
 - social
 title: 林欣榮院長新書發表會：花蓮如何從醫療偏鄉成為世界級創新中心
 ---
-
 ### 天下文化高希均：花蓮是台灣希望的示範
 
 各位貴賓，大家好。今天這個標題《東台灣的生命守護者：花蓮慈濟醫院院長林欣榮的創新醫路》非常好，但如果允許我稍微修改，我想我們可以勇敢地告訴全台灣的人：「台灣的生命守護者，就是花蓮慈濟。」不僅是東台灣。

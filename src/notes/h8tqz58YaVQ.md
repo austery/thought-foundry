@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 美联储
@@ -12,10 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h8tqz58YaVQ
 speaker: Nico投资有道
@@ -29,7 +26,6 @@ tags:
 - technology
 title: 比特币市场深度分析：三大指标、宏观因素与长期投资心态
 ---
-
 ### 比特币市场近期回顾与当前挑战
 
 比特币在过去40多天的时间里，从最高点到最低点跌去了36%的市值。那么，接下来比特币会继续下跌吗？现在8万美元的比特币，到了抄底的时候了吗？今天，我将用三个指标告诉你，接下来的市场会怎么走。

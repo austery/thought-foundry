@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - FBI
@@ -16,9 +16,7 @@ people:
 - Adolf Hitler
 - Joseph Stalin
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GuM7ptWf__U
 speaker: 北美王路飞
@@ -31,7 +29,6 @@ tags:
 - society
 title: FBI顶级探员识人术：识别情绪炸弹与黄金盟友的秘密
 ---
-
 ### 引言：情绪主导的世界与识人术的必要性
 
 大家好，欢迎来到我的频道。今天我们来做超新星会员视频，这本《判断人心：一位资深FBI特工的行为预测用户手册》的最后一集节目。这本书的实用性非常强。今天最后一集讲的信号，其实就是情绪的稳定性。

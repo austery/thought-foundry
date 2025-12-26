@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NBC News
@@ -21,10 +21,7 @@ people:
 - George H.W. Bush
 products_models:
 - '[]'
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wy32xsNzRy0
 speaker: 徒步的騎手
@@ -37,7 +34,6 @@ tags:
 - rule-of-law
 title: 美国最高法院的紧急裁决与司法底线：从移民遣返到领事馆绑架案
 ---
-
 大家好，上周我在东京做了三场演讲，节目因此没有更新，十分抱歉。这周又回到了徒步路上，可以恢复节目录制和更新。上上周五傍晚，在德克萨斯州发生了一件不同寻常的事情。
 
 ### 德克萨斯州紧急遣返事件始末

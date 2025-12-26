@@ -14,10 +14,7 @@ media_books:
 products_models:
 - GLP-1减肥药
 - 微剂量元素GLP-1减肥药物
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oLZUYVLe4BQ
 speaker: Money or Life 美股频道
@@ -30,7 +27,6 @@ tags:
 - platform
 title: HIMS三季度财报前瞻：坚守长期愿景，应对短期市场波动
 ---
-
 ### HIMS股价表现与投资情绪
 
 大家好，欢迎来到Money or Life美股频道。本期视频我们来聊一聊**HIMS**（远程医疗平台: 提供在线问诊、处方和药物配送服务）这家公司，因为其最近的股价表现让很多投资者感到失望。那么，是否应该卖出HIMS？在三季度财报之前的计划是什么？我们将在本期视频中简单探讨。

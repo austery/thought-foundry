@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - Slack
@@ -49,10 +49,7 @@ products_models:
 - Discord
 - GitHub
 - Google Wallet
-project:
-- entrepreneurship
-- personal-growth-lab
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pYN7ZULM84U
 speaker: The Pragmatic Engineer
@@ -66,7 +63,6 @@ tags:
 - strategy
 title: AI初创公司创始工程师生存指南：Michelle Lim的职业抉择与成长心法
 ---
-
 ### 导语：成为杰出创始工程师的秘诀
 
 **主持人：**要怎样才能成为一名出色的创始工程师？Michelle Lim 曾是 AI 初创公司 Warp 的创始软件工程师，现在是她自己创办的公司 Flint 的创始人，并且她现在也在招聘创始工程师。

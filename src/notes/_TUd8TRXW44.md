@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - AK Media
@@ -16,9 +16,7 @@ people:
 - Jessica
 products_models:
 - ''
-project:
-- knowledge-pipeline
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_TUd8TRXW44
 speaker: Amit Kukreja
@@ -32,7 +30,6 @@ tags:
 - sobriety-journey
 title: 新经理直播与2026年频道更新：Amit Kukreja 介绍新成员 Jessica
 ---
-
 ### 频道新篇章：引入新经理与2026年发展蓝图
 
 大家好，欢迎回到频道。这是我新经理直播的正式介绍。我们有很多内容要讨论，也有很多2026年的更新。女士们先生们，这位是 Jessica。

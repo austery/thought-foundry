@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《周期人的寻路记》
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n3DX7oaq_-0
 speaker: 海淀拙大叔
@@ -26,7 +23,6 @@ tags:
 - financial
 title: 中国CPI转正：宏观经济范式转移与资本市场深远影响
 ---
-
 ### CPI确认转正：中国经济范式转移的关键信号
 
 海淀拙大叔在“阿甘经济宏观论第33集”中指出，2025年11月15日，中国10月份的**CPI**（居民消费价格指数: 衡量居民购买商品和服务价格变化的指标）同比和环比均确认转正，达到0.2%。回顾此前，大叔曾预测CPI在6月份转正，尽管随后同比又下滑了三个月，但环比始终保持正增长，这意味着物价自6月后便未再下跌。同时，**PPI**（工业生产者出厂价格指数: 衡量工业企业产品首次出售价格变化的指标）也如预期在8月份掉头向上，且环比持续正增长。这两个关键指标的积极变化，向懂行的人传递了一个明确信号：中国的宏观经济趋势已经转变。

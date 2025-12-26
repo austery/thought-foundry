@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Instagram
@@ -25,9 +25,7 @@ people:
 - Woody Allen
 - Mark Twain
 products_models: []
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0ydYThQndK0
 speaker: 记者易速利
@@ -41,7 +39,6 @@ tags:
 - society
 title: 黛安·基顿：超越时代的美丽与智慧——与伍迪·艾伦的艺术与情感羁绊
 ---
-
 ### 黛安·基顿：独一无二的银幕传奇
 
 黛安·基顿，这位曾荣获**奥斯卡金像奖**（Academy Award: 电影界的最高荣誉之一）的女演员，以其不可抗拒的魅力，点亮了自20世纪70年代以来一系列成功的**浪漫喜剧**（Romantic Comedy: 以浪漫爱情和幽默为主题的电影类型）和剧情片。她在美国女演员中自成一格，难以被简单归类。正如《纽约杂志》所描述的，她是“我们身边最具喜剧纯度和智慧的女演员之一”。“纯粹”（pure）和“智慧”（brainy）这两个词，精准地概括了她的特质。

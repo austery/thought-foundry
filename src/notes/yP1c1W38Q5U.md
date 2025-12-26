@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 光复会
@@ -48,10 +48,7 @@ people:
 - 蒋介石
 - 毛泽东
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yP1c1W38Q5U
 speaker: 东京人文论坛
@@ -62,7 +59,6 @@ tags:
 - national
 title: 东京造就鲁迅：一个民族魂的青年时代与思想起源
 ---
-
 ### 陌生化的鲁迅：从周寿仁开始
 鲁迅是大家太熟悉的人，所以如何将一个熟人进行陌生化处理，是一个值得探讨的问题。要让你对一个非常熟悉的人产生陌生感，这才是找到了正确的路径。我认为，要找到鲁迅的陌生化，应当从他的照片开始。
 

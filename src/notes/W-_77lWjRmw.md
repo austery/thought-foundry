@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-11-23'
@@ -11,9 +11,7 @@ media_books:
 - 《药有光》
 - 《无用的债帐》
 products_models: []
-project:
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=W-_77lWjRmw
 speaker: 一席YiXi
@@ -28,7 +26,6 @@ tags:
 - society
 title: 梁鸿：为何我们对优秀的孩子依然焦虑？——青少年心理健康与家庭教育的反思
 ---
-
 ### 《药有光》：别吹灭孩子内心的光
 
 我今天之所以站在这里，是因为我刚刚写了一本书，名叫**《药有光》**。这本书是一部关于青少年心理健康问题的**非虚构著作**（Non-fiction work: 以真实的人物和事件为基础，通过调查、采访等方式创作的文学作品），也是我花费好几年时间，在中国的大城市、中等城市、小城市和农村进行调查的结果。一开始，其实这部书的名字不叫《药有光》，而是叫“别吹灭那光”。这句话是我书中采访的一个名叫雅雅的女孩子，她写的日记里面的几句话。后来之所以没有把这个名字作为书名，是因为觉得太哀求了，太黯淡了。但是我自己却一直对这句话念念不忘：“别吹灭那光”。这句话特别值得让人思考：别吹灭什么光？是谁在吹灭那光？我也希望各位听众能够带着这个疑问，慢慢地走进我书中的故事，走进敏敏、雅雅和那些情绪受困扰的孩子的故事。

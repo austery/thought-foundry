@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -107,10 +107,7 @@ products_models:
 - CUDA
 - Blackwell
 - Rubin
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J7GwAIPSl4k
 speaker: Amit Kukreja
@@ -124,7 +121,6 @@ tags:
 - rate-cut-expectation
 title: 市场反弹信号：从英伟达估值到“黑色星期五”消费热潮
 ---
-
 ### 市场开盘概览：绿色信号与反弹预期
 
 早上好，各位。今天是12月2日，星期二，市场开盘呈现绿色。我们看到了一些反弹迹象，接下来要观察这种反弹能否持续。盘前市场已经转绿，这让我们看到了一线希望。

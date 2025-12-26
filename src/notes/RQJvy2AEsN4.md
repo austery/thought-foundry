@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -17,9 +17,7 @@ products_models:
 - Cloud Code
 - Copilot
 - Snowflake
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RQJvy2AEsN4
 speaker: Norges Bank Investment Management
@@ -34,7 +32,6 @@ tags:
 - strategy
 title: 人工智能在挪威主权财富基金中的战略应用与实践
 ---
-
 ### AI 战略的启动与演进
 
 在2023年12月，我们举办了首次关于人工智能（AI）的研讨会，专门用了一整天时间进行深度探讨，并邀请了外部专家参与。这距离ChatGPT的发布已过去一年。如今，三年已过，我们对AI的理解更加深入，但仍感觉处于发展的早期阶段。本次演示将涵盖三个方面：首先，分享我们在基金内部成功实施AI的一些关键标准；其次，探讨我们如何使用AI来改进沟通和内容开发；最后，Sara将深入介绍一个具体的用例。

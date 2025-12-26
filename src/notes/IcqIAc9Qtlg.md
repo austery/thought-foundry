@@ -19,9 +19,7 @@ media_books:
 people:
 - Ben Bernanke
 products_models: []
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IcqIAc9Qtlg
 speaker: 北美王路飞
@@ -34,7 +32,6 @@ tags:
 - llm
 title: 美联储的后危机时代：量化宽松、金融改革与未解的复苏难题
 ---
-
 ### 2008年金融危机的余波：美联储的挑战
 
 在前几集中，我们仿佛置身于一场海啸的中心，目睹了2008年那场几乎摧毁全球金融体系的恐慌。那时候，美联储的角色就像一个消防队长，手里拿着高压水枪，唯一的任务就是灭火，不惜一切代价地灭火。但今天，我想带大家把时钟稍微往后拨一点，火确实是灭了，但是当你站在这片废墟上时，你会发现，这个挑战才刚刚开始。这集我们要讲的叫做“余波”（the aftermath），这可能比救火更难。因为当烟雾散去，你面对的是一个从地基到横梁都摇摇欲坠的房子。

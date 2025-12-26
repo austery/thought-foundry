@@ -15,9 +15,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Willow量子计算芯片
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4KV6N2nxCC4
 speaker: Money or Life 美股频道
@@ -30,7 +28,6 @@ tags:
 - stock-analysis
 title: 深度剖析IONQ：量子计算股的投资风险与商业化挑战
 ---
-
 ### 量子计算板块热潮与IONQ的崛起
 
 大家好，欢迎来到Money or Life美股频道。最近，美股的量子计算板块表现持续火热，例如IONQ这家公司，其股价前不久创出了新高。如果你有投资量子板块，那么大概率最近的收益是不小的，恭喜你们。我在9个月以前发布了一期名为“投资量子计算（Quantum computing），你需要了解的硬核知识”的视频。在那期视频里，我不仅向大家科普了量子计算，同时也介绍了美股市场中量子计算领域的代表性公司，比如IONQ、Rigetti和D-Wave。特别是IONQ，它现在市值已经来到100亿以上，还值得投资吗？我的观点是什么？我将在本期视频为大家再次讲解。欢迎大家订阅我的Money or Life美股频道，这是对我最大的支持，谢谢你们！

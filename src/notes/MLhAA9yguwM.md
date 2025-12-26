@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs: []
 date: '2025-12-22'
@@ -7,8 +7,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MLhAA9yguwM
 speaker: AI Engineer
@@ -20,7 +19,6 @@ tags:
 - technology
 title: 自主性：非技术用户的编码代理
 ---
-
 ### 自主性：非技术用户的编码代理
 
 在Replit，我们正在为非技术用户构建一个编码代理。这是一个非常特殊的挑战，我认为与这个房间里的许多人面临的挑战非常不同。

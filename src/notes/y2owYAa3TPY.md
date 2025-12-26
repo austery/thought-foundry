@@ -11,8 +11,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: https://www.youtube.com/watch?v=y2owYAa3TPY&t
 speaker: Joseph Wang
@@ -21,7 +20,6 @@ tags:
 - 市场回顾
 title: 每周市场回顾：2025年7月12日
 ---
-
 ## 开场综述
 
 朋友们好。今天是 7 月 12 日，欢迎收看《每周市场》。回顾过去一周，各大股指的走势看起来相当平淡。我感觉它们似乎被某种力量钉住了。然而，在其他市场中却出现了大量的价格波动，当然也有很多新闻。所以今天，我们来谈谈三件事。首先，我们必须讨论关税的回归，因为它们以一种非常强势的方式卷土重来。其次，过去一周吸引我注意的是白银价格的突破。因此，我们来聊聊为什么说白银是最初的“**模因币（Memecoin：指那些因网络迷因、社区热情或名人效应而非基本面驱动而价格暴涨的资产）**”。最后，特朗普的盟友们似乎正在对杰罗姆·鲍威尔（Jerome

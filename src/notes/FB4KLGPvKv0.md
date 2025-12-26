@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - YouTube
@@ -30,10 +30,7 @@ products_models:
 - C
 - Gemini
 - Google Maps
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FB4KLGPvKv0
 speaker: 课代表立正
@@ -47,7 +44,6 @@ tags:
 - talent
 title: 微博VP谈AI时代育儿：培养下一代的核心竞争力与资本思维
 ---
-
 ### 发现并培养孩子的天赋特长
 
 我的大儿子Eric今年17岁，正在读11年级。最近他因为期末成绩有两门不理想，可能会影响大学申请，被他妈妈责骂了一顿。对他妈妈来说，成绩很重要，但我更看重他是否尽力而为。有些机会，比如申请藤校，即使机会渺茫，也值得一试。Eric虽然成绩不突出，但他有一个天生的特长——地理特别好。我也不知道为什么，我也没教过他，但他对地理的感知、画地图（map）这些东西就是很擅长。

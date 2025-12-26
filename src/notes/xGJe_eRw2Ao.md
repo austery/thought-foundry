@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TED
@@ -14,9 +14,7 @@ people:
 - Amy
 - Chris
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xGJe_eRw2Ao
 speaker: TED
@@ -30,7 +28,6 @@ tags:
 - love
 title: 如何热爱你的家乡：在哥伦布市寻找归属与社区
 ---
-
 ### 家的定义与归属感
 
 家是什么？

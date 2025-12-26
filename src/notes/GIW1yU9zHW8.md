@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -31,8 +31,7 @@ people:
 - Mike Pompeo
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GIW1yU9zHW8
 speaker: All-In Podcast
@@ -45,7 +44,6 @@ tags:
 - us-china-relations
 title: 伯尼·桑德斯呼吁暂停AI，中国EUV突破，通胀下降与2026年黄金时代？
 ---
-
 All right, everybody. Welcome back to your favorite podcast, the number one podcast. In fact, in the entire universe, the Allin podcast with your besties. We're all here. It's the original quartet. Everybody loves when the Core Four are here. And we have a docket for you today, guys. We got to start out with **Bernie Sanders**. I know this is becoming a bit repetitive, but **AI** is the topic. We reached a new level of retardation this week that we cannot avoid. Bernie Sanders has a major pitch, a moratorium on new AI data centers. Here's his argument. Number one, the billionaires are pushing AI because they want more money and power. Number two, there's going to be massive unemployment. And he cites Skates, Staro, Elon, saying that AI would replace most jobs. Number three, he has an interesting point actually. AI is harmful to kids because it decreases social interaction. Actually, we kind of agree with that one, I think, across the board.
 
 But here's his pitch, Sachs. His pitch.

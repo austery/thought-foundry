@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - PayPal
@@ -21,10 +21,7 @@ people:
 - 沃伦·巴菲特
 - 埃隆·马斯克
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n2iSePOkokk
 speaker: Shijun Tang
@@ -38,7 +35,6 @@ tags:
 - technology
 title: PayPal暴涨背后的财务真相：理性乐观主义与指数基金的财富密码
 ---
-
 ### PayPal财报暴雷？不，是现金流的全面爆发
 
 每股PayPal在两天内暴涨了15.36%。我已持有该股票789天，期间从未卖出一股。这次财报数据完全出乎我的意料——用一个词形容就是“大获全盛”。我未曾预料到PayPal竟能创造如此惊人的现金流。

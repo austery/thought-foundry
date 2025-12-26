@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Amazon
@@ -38,10 +38,7 @@ people:
 products_models:
 - S&P 500
 - iPhone 17
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7d2nA48x5vw
 speaker: Amit Kukreja
@@ -55,7 +52,6 @@ tags:
 - stock-market-high
 title: 标普500指数创历史新高，亚马逊裁员三万，盘后财报深度解析
 ---
-
 ### 市场概览：普涨行情与盘后财报预告
 
 大家好，欢迎回到本期的市场收盘分析直播。今天股市动态纷呈，有许多头条新闻值得我们探讨。此外，盘后将有多家公司发布财报，其中一些半导体公司的业绩尤其值得关注。

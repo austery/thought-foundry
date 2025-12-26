@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Pimco
@@ -22,9 +22,7 @@ people:
 - Kevin Hassett
 products_models:
 - S&P 500
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lWhXCD_JWy4
 speaker: Bloomberg Podcasts
@@ -38,7 +36,6 @@ tags:
 - private-credit
 title: Pimco CIO Dan Ivascyn：固定收益新时代，利率、私募信贷与住房市场展望
 ---
-
 ### 历史信贷表现与私募信贷的崛起
 
 如果你回顾20世纪80年代初直到**全球金融危机**（Global Financial Crisis, GFC: 2008年爆发的全球性金融危机），如果你只是盲目地购买市场上最低质量的信贷，以**高收益优先担保贷款**（High Yield Senior Secured Loans: 信用评级较低但有资产抵押的贷款）、**直接贷款**（Direct Lending: 银行或非银行机构直接向企业提供贷款，而非通过公开市场发行债券）为代表，那么在整个时期，你的增量表现相比高质量债券仅高出约0.5个百分点。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-10-27'
 draft: true
@@ -10,9 +10,7 @@ products_models:
 - GPT-4
 - Llama 2
 - GPT-4o
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hcka838hvQw
 speaker: 硅谷101
@@ -26,7 +24,6 @@ tags:
 - society
 title: 语音代理商业落地：李沐分享经验与教训
 ---
-
 ### 语音代理：商业落地的机遇与挑战
 
 今天，我将讨论**语音代理**（Voice Agent: 一种通过语音界面与用户交互的智能代理），这是今年一个非常热门的话题，因为人们认为这项技术已经成熟，可以投入实际应用和商业落地。

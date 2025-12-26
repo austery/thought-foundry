@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -41,10 +41,7 @@ people:
 - Carmen Rodriguez
 products_models:
 - OddLots podcast
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yyQOEJ38kW8
 speaker: Bloomberg Podcasts
@@ -58,7 +55,6 @@ tags:
 - uk-economy
 title: 莉兹·特拉斯：英国经济的‘厄运循环’与央行独立性之辩
 ---
-
 ### 英国经济的“厄运循环”与全球压力
 
 Joe Weisenthal：大家好，欢迎收听新一期的**OddLots播客**（OddLots podcast: 彭博社出品的经济与金融播客）。我是Joe Weisenthal。

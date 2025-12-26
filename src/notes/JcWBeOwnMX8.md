@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -25,10 +25,7 @@ products_models:
 - Kindle
 - Alexa
 - Starlink
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JcWBeOwnMX8
 speaker: Shijun Tang
@@ -42,7 +39,6 @@ tags:
 - valuation
 title: 英伟达、亚马逊与美光：投资价值深度解析与策略思考
 ---
-
 ### 引言：财富体验与投资思考
 
 大家好，欢迎收看本期唐石峻财富体验。我是唐石峻，曾在阿里生态系统从事电商工作十年，目前是澳洲一家会计事务所的会计。我于2015年进入金融市场，期间虽经历失败，但也把握住不少机会，目前有幸跑赢了**标普500**（S&P 500: 美国500家大型上市公司股票指数）。我创作的内容不提供喊单、价格预期或买卖信号，旨在帮助大家通过投资实现自由和快乐。今天，我们将深入分析英伟达、亚马逊和美光科技这三家公司，探讨它们的投资价值。

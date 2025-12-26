@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -19,10 +19,7 @@ people:
 - Mark Carney
 - Narendra Modi
 - Donald Trump
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VW1VpdMwpI4
 speaker: TVO Today
@@ -36,7 +33,6 @@ tags:
 - relations
 title: 加拿大外交政策新篇章：卡尼时代下的经济、人权与地缘政治权衡
 ---
-
 ### 加拿大外交政策的转向：从女权主义到现实主义
 
 前总理贾斯廷·特鲁多曾多次表示，他是一位自豪的女权主义者，并希望其政府政策能体现这一点。因此，在2017年，他推出了一项名为**女权主义国际援助政策**（Feminist International Assistance Policy: 将女权主义视角应用于加拿大外交政策和国际发展）的倡议，将女权主义视角融入了加拿大的外交政策和国际发展中。现任总理马克·卡尼最近在被问及加拿大是否仍沿用这一视角时，他的回答引起了广泛关注。

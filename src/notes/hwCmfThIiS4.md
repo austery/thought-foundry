@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - AWS
@@ -17,9 +17,7 @@ people:
 products_models:
 - Bedrock
 - Claude Sonnet 4
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hwCmfThIiS4
 speaker: AI Engineer
@@ -34,7 +32,6 @@ tags:
 - technology
 title: VoiceVision RAG：结合视觉文档智能与语音响应的RAG系统
 ---
-
 ### 欢迎与议程概述
 
 好的，大家几乎准时。首先，非常感谢大家抽出时间加入我们。在接下来的一个小时左右，我们将探讨一些我发现非常有趣的内容，尤其是在我开始研究这个基于视觉的检索主题时。我会给大家介绍一些背景，说明我是如何接触到这个领域的。我的主要想法是分享一些关于这种特定检索方法的学习经验，其中包含许多内容。我将分享一篇关于检索的最新研究论文，它涉及基于视觉的检索，并且我还想将其与**代理**（Agentic Application: 指能够自主感知环境、规划行动并执行任务的软件系统）结合起来。如今，我们几乎离不开代理。

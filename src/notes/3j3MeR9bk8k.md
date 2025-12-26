@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -32,10 +32,7 @@ people:
 - Vladimir Putin
 - Nicolás Maduro
 - Xi Jinping
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3j3MeR9bk8k
 speaker: LT視界
@@ -49,7 +46,6 @@ tags:
 - us-monetary-policy
 title: 全球经济与地缘政治动态：从美国数据、乌克兰谈判到中国房市困境
 ---
-
 ### 全球经济数据与市场展望
 
 大家好，今天我们一起来分享不能错过的重大新闻。今天是11月30日，在新的一周开始之际，我们一起来了解一下未来一周最值得大家关注的五个重大经济事件。

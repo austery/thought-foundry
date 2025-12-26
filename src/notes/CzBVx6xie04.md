@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - HBC公司
@@ -14,8 +14,7 @@ media_books:
 people:
 - 莊也
 products_models: []
-project:
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CzBVx6xie04
 speaker: 莊也雜談
@@ -28,7 +27,6 @@ tags:
 - technology
 title: 澳大利亞vs.加拿大：地理、气候、人口与自然环境深度对比
 ---
-
 ### 加拿大与澳大利亚：一场深入的对比之旅
 
 大家好，我是莊也，欢迎您收看莊也杂谈加拿大系列节目。今天，我们将探讨一个比较有意思的话题：对比加拿大和澳大利亚。选择这个话题是有原因的。首先，上个月我有一位亲戚第一次去澳大利亚旅游，他打电话问我澳大利亚怎么样，就好像我去过似的。其实我也没去过，只是之前听到过不少关于澳大利亚的谣言和段子。于是我就跟他说，澳大利亚的动物比较凶猛，当地人说英语口音比较重，而且到处都是沙漠、荒漠炎热的气候，并且澳大利亚人可能有一点种族歧视，移民门槛也比加拿大高不少。

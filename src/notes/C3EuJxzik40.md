@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2024-09-13'
@@ -13,10 +13,7 @@ people:
 - Ronald Reagan
 - Richard Nixon
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C3EuJxzik40
 speaker: 海淀拙大叔
@@ -30,7 +27,6 @@ tags:
 - strategy
 title: 从百年债务周期视角看美国霸权的兴衰
 ---
-
 ### 引言：巴菲特的寓言与百年债务周期
 
 大家好，欢迎来到老周说。今天是《故事中的投资学》第三集，我们将从**百年债务周期**（Century-long Debt Cycle: 指一个国家或经济体从债务积累到危机爆发，再到重塑信誉或衰落的漫长过程）的视角，探讨美国的衰落。我们先从沃伦·巴菲特（Warren Buffett: 著名投资家、伯克希尔·哈撒韦公司董事长）在2003年写的一个小故事讲起。

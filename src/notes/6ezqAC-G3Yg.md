@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-10-13'
 draft: true
@@ -9,8 +9,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6ezqAC-G3Yg
 speaker: Bloomberg Podcasts
@@ -23,7 +22,6 @@ tags:
 - tariffs-impact
 title: Fastenal：软定价、关税与全球供应链重塑
 ---
-
 ### 分析师关注定价疲软
 
 Host: It does seem like analysts were noting that the pricing during the quarter was weaker than expected and marks the second straight quarter of softer pricing. And maybe that's why we're seeing the stock down. What do you want to say to investors?

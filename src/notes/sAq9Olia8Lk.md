@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BC省政府
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - David Eby
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sAq9Olia8Lk
 speaker: 大伟探秘加拿大
@@ -27,7 +25,6 @@ tags:
 - right
 title: 加拿大列治文土地权争议：原住民裁决、私有产权与政治博弈
 ---
-
 ### 列治文居民的“产权噩梦”
 
 想象一个场景：您辛苦了一辈子，在加拿大列治文市买了一栋房子，这是您的家、您的资产、您退休之后的保障。然而，您突然收到一封来自市政府的信，并且由市长亲笔签名。信中用官方正式的语言通知您，法院的一项新裁决可能会损害您的房子所有权的地位和有效性。这意味着，您的房子和土地可能不再属于您了。这并非是一个虚拟的故事，而是发生在列治文市150户居民身上的一个匪夷所思的噩梦。一夜之间，恐慌席卷了整个社区，人们愤怒、困惑，更多的是恐惧。有的房主表示，他们被告知银行不再为该区域的土地开发提供资金，并且不愿批准新的**按揭贷款**（Mortgage Loan: 银行向购房者提供的抵押贷款）和再融资。而且，他们也实际上无法出售或者套现房产，因为恐慌情绪蔓延开来之后，没人再敢买这个区域的房子。我们不禁要问，究竟是发生了什么？这封信到底是哪来的？

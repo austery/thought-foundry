@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rQ3luEIcKes
 speaker: EO
@@ -23,7 +22,6 @@ tags:
 - startup-challenge
 title: 13岁少年课后打造通用AI智能体Flow AI：从学生视角看AI的机遇与挑战
 ---
-
 ### AI与我的灵感来源
 
 The school doesn't like AI; they don't really allow it technically.

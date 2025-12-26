@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -34,8 +34,7 @@ products_models:
 - Rust
 - C
 - C++
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7agB1vOl-wg
 speaker: The Pragmatic Engineer
@@ -50,7 +49,6 @@ tags:
 - trust
 title: 揭秘 Linux 开发：信任、代码与九周发布周期
 ---
-
 ### 引言：Linux 的九周发布周期
 
 Linux 有一个为期九周的发布周期，因为每隔九周就会有一个新版本发布。当 Linus Torvalds 在某个时间点发布一个版本后，**合并窗口**（Merge Window: 指的是允许新功能代码合入主干分支的特定时间段）就会开启。在接下来的两周内，所有的维护者会把他们自上个版本以来积累的待处理内容全部发送给 Linus。我们有两周时间来添加所有新功能，然后他会发布第一个**候选版本**（Release Candidate 1: 简称 RC1，是正式版发布前供测试的预览版本）。从那时起的接下来七周，就只进行漏洞修复。所以，这期间只有漏洞修复、回归修复，我们会回滚一些东西，但不会再有新功能。

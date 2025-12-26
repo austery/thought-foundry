@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Tesla
@@ -39,10 +39,7 @@ products_models:
 - Gemini
 - QQQ
 - VOO
-project:
-- investment-strategy
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pKU7JRB3fSM
 speaker: INDIGO 数字镜像
@@ -56,7 +53,6 @@ tags:
 - psychology
 title: AI时代的“牛马”自救指南：应用真相与投资未来
 ---
-
 ### 当前美股市场情绪：AI驱动的牛市与回调隐忧
 
 今年算是牛市，非常强劲。我看到所有刚刚进入美股半年的朋友今年都赚钱了，但学费迟早是要交的，美股股价跌起来会很快。我们可以分享一下此刻对美股的一些看法。

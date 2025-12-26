@@ -7,8 +7,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FzbJXCI-qHo
 speaker: Best Partners TV
@@ -26,7 +25,6 @@ tags:
 - technology
 title: Figure 03：Figure AI第三代人形机器人，迈向通用、家庭与量产的整合探索
 ---
-
 ### Figure 03：通用型人形机器人的新范式
 
 10月9日，Figure AI正式推出了其第三代人形机器人**Figure 03**。这款机器人从设计之初就瞄准了“真正的通用型机器人”目标，不仅能够像人类一样完成日常任务，还能够直接向人类学习。更关键的是，它同时兼顾了家庭使用、商业应用和大规模生产的能力。本文将拆解**Figure 03**的技术细节、应用场景，并探讨它对整个行业的意义，旨在让读者清晰了解这款机器人“强在哪”以及“是否值得期待”。

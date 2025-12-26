@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-08-22'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ahua8_UB9ic
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - market-analysis
 title: 全球央行年会前瞻与沃尔玛财报解读：市场、美联储及消费者健康状况分析
 ---
-
 ### 市场回顾与Jackson Hole会议前瞻
 
 欢迎来到专业美股频道，我是市场分析员小涛。在过去一周，市场整体呈现出一些值得关注的走势。美元指数和美债收益率均出现上涨，这在某种程度上是由于美联储成员的讲话，以及周四宏观数据表现强劲，显示出经济状况良好。经济表现强劲通常会导致美元指数和美债收益率上涨，进而可能降低降息预期。

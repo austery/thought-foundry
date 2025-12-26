@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -15,9 +15,7 @@ media_books:
 people:
 - Rachel Abrams
 products_models: []
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k0dSvGY6dqo
 speaker: New York Times Podcasts
@@ -32,7 +30,6 @@ tags:
 - technology
 title: 美国野火的隐形受害者：私人消防员的健康危机与系统性困境
 ---
-
 ### 引言：野火季背后的隐形危机
 
 我是《纽约时报》的雷切尔·艾布拉姆斯（Rachel Abrams），这里是《The Daily》节目。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -24,10 +24,7 @@ people:
 - Amy Edmondson
 products_models:
 - Bloomberg
-project:
-- investment-strategy
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DwHGDRCqiLI
 speaker: Norges Bank Investment Management
@@ -41,7 +38,6 @@ tags:
 - market
 title: 施罗德CEO彼得·哈里森：资产管理行业200年变迁与未来展望
 ---
-
 ### 施罗德CEO彼得·哈里森谈资产管理行业的变迁与未来
 
 大家好，今天我们非常荣幸地邀请到彼得·哈里森（Peter Harrison）来到节目中。

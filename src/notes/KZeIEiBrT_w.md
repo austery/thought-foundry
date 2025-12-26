@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -25,10 +25,7 @@ people:
 products_models:
 - ENIAC
 - Gmail
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KZeIEiBrT_w
 speaker: veritasium
@@ -42,7 +39,6 @@ tags:
 - theory
 title: 从沙皇时代的数学争论到谷歌与AI：马尔可夫链的非凡旅程
 ---
-
 ### 奇怪的数学如何预测万物
 
 你需要洗多少次牌才能让一副扑克牌真正随机？建造一枚核弹需要多少铀？你如何预测句子中的下一个词？谷歌又是如何知道你真正想搜索的页面？

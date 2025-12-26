@@ -11,10 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=08eiU5kug9U
 speaker: 投资TALK君
@@ -28,7 +25,6 @@ tags:
 - us-stock-market
 title: 小非农“爆雷”与股市泡沫：市场解读及投资策略分析
 ---
-
 ### 本期内容提要
 
 本期节目将主要围绕以下几个方面展开：首先，分析周三公布的**小非农**（ADP: 美国自动数据处理公司发布的就业报告）数据及相关新闻；其次，探讨周四即将公布的**大非农**（NFP: 美国劳工部发布的非农就业报告）数据和市场预期，包括彭博社的预测；最后，结合彭博社的一篇分析，从数据角度深入探讨当前市场是否已接近泡沫阶段，并分享在这样的市场环境下，是否存在投资机会及个人看法。

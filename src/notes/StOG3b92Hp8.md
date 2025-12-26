@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Walmart
@@ -21,10 +21,7 @@ people:
 - Justin Trudeau
 - François Legault
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=StOG3b92Hp8
 speaker: 莊也雜談
@@ -38,7 +35,6 @@ tags:
 - systemic-corruption
 title: 深度揭秘：印度移民潮对加拿大社会与制度的冲击
 ---
-
 ### 引言与加拿大社会冲击的背景
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天我们继续探讨加拿大的印度移民问题，这是本系列的第三期。如果您还没有看前两期，欢迎移步观看。本来我打算做两集就结束，觉得关于印度移民这个话题已经挖掘得足够深入了。但后来，通过与一些朋友的深入交流，我觉得还是很有必要就一些更深层次的内容再深挖一下，与大家探讨并分享我的一些心得体会。当然，我说的也不一定全对，但这期节目会非常好看和好听，因为它揭示了许多普通加拿大人不甚了解的、隐藏在加拿大表面光鲜社会背后的一些残酷真相。

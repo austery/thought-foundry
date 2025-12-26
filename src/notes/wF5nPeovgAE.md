@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-08'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wF5nPeovgAE
 speaker: Norges Bank Investment Management
@@ -23,7 +22,6 @@ tags:
 - society
 title: 黄金时代：历史的兴衰与现代的启示
 ---
-
 ### 什么是黄金时代？
 
 Hi everyone, I'm Nicola Tangan, the CEO of the Norwegian Sovereign Wealth Fund and today we are exploring one of history's most pressing questions, the rise and fall of great civilizations. Because there are so many things that we can learn from the past and today I'm here with Yuan Norberg, author of the newly released book which I just loved called Peak Human, what we can learn from the rise and of all of Golden Ages. Now Yuan, you have studied golden ages throughout history from ancient Athens to the modern Anglosphere and that's what we're going to zoom in on today. So Yuan, warm welcome. Thank you very much. Let's start with the beginning. What is a golden age?

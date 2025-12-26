@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -44,10 +44,7 @@ products_models:
 - iPhone
 - 5G
 - AI
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3KMzPRDYrdg
 speaker: Bloomberg Podcasts
@@ -61,7 +58,6 @@ tags:
 - us-china-relations
 title: 王辉耀：中国在全球新秩序中的角色——经济优先与和平竞争
 ---
-
 ### 播客引言：美中关系的视角与对话
 
 欢迎收听新一期的**Odd Lots**（Odd Lots: 彭博社旗下的一档财经播客）播客。主持人乔·魏森塔尔（Joe Weisenthal）和特雷西·阿洛韦（Tracy Alloway）指出，美中关系是他们节目中经常讨论的话题，通常会从美国的视角出发，但这可能存在地域和语言上的偏差。

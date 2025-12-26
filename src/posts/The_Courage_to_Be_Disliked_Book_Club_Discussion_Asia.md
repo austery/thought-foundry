@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 author: Lei
 category: psychology
 channel: null
@@ -17,8 +17,7 @@ people:
 - Daniel
 - David
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: null
 source: null
 speaker: 一口新饭读书会
@@ -29,7 +28,6 @@ tags:
 - self
 title: 《被讨厌的勇气》读书会讨论-亚洲区
 ---
-
 ## 开场与预告
 
 ### Ray:

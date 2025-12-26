@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: finance
 channel: null
@@ -11,9 +11,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: 美股代币化
 source: https://www.youtube.com/watch?v=TDCRkiwJU6M
 speaker: ''
@@ -25,7 +23,6 @@ tags:
 - stock
 title: 美股代币化：Jarsy创始人解析普通人如何投资SpaceX等未上市公司
 ---
-
 ## Pre-IPO投资的新途径：美股代币化
 
 Hellen: Hello 各位好,我是Hellen。如果你想要投资**SpaceX**、**XAI**这一类的没有公开上市，但是你个人又很看好的公司，目前有几种方式，每一种方式都有它的优点跟缺点。比如说你可以通过类似像**Hive**这种专门面向**Pre-IPO**二级市场交易的平台。它的优势就是很透明，你可以直接与现有的，比如说**SpaceX**的股东直接进行股票交易。但缺点就是它不是一个面向普通民众的交易平台，它只面对合格的人，对投资者的收入和净资产是有一定的要求的，而且也有最低投资门槛。

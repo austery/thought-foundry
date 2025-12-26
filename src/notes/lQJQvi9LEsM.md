@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: education
 companies_orgs:
 - 北京大学
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《渔夫和金鱼》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lQJQvi9LEsM
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - system
 title: 当学霸母亲遇见辍学儿子：一场关于教育体制的自我救赎
 ---
-
 ### 一位北大教授的自我颠覆：从学霸母亲到辍学孩子的守护者
 
 我是北京大学历史学系的赵冬梅。上次来到一席，我以教授的身份讲述学术；这一次，我只是一个母亲——泱泱的妈妈。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国务院
@@ -25,10 +25,7 @@ products_models:
 - R签证
 - K签证
 - WhatsApp
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Epa9cQ6a9oA
 speaker: 夸克说
@@ -42,7 +39,6 @@ tags:
 - talent
 title: 中国K签证的深层解读：抢人才、社会冲击与政策背后的真实动机
 ---
-
 ### K签证的背景与特点
 
 大家好，欢迎收看夸克说。我是夸克。这期节目咱们讲讲最近很多人关心的**K签证**（K Visa: 中国为吸引外籍人士入境而新增的一种签证类别）。这段时间关于K签证的讨论已经很多了，但我留意到有个点似乎一直没有人讲过，那就是中国政府为什么要出台这个K签证。冠冕堂皇的理由背后，它的真实动机到底是什么？节目的后半部分我试着把这个事讲清楚。废话不多说，咱们马上进入主题。

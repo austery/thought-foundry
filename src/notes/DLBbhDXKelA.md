@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -37,9 +37,7 @@ products_models:
 - GitHub
 - MCP
 - RAG
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DLBbhDXKelA
 speaker: Norges Bank Investment Management
@@ -55,7 +53,6 @@ tags:
 - technology
 title: 挪威银行投资管理公司 (NBIM) 技术之夜：AI 如何重塑万亿基金的未来
 ---
-
 ### 技术浪潮的序幕
 
 当你将技术民主化，并将其交到几乎每个人手中时，你就赋予了每个人力量。人工智能将是这十年中最重大的事件。我想说，我们在以各种方式利用机器学习与世界连接方面，才刚刚起步。

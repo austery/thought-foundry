@@ -12,10 +12,7 @@ people:
 - Donald Trump
 products_models:
 - 黄金ETF
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GpRxcn6aUxU
 speaker: 海淀拙大叔
@@ -28,7 +25,6 @@ tags:
 - valuation
 title: 黄金还会涨吗？基于金油比和康波周期的深度分析
 ---
-
 ### 黄金未来走势：一种估值方法的探索
 
 今天是5月17号周六。本期内容源于一位朋友在评论区希望探讨黄金的趋势。我最近正好在研究黄金，因为在发生极端情况时，我希望能转向**黄金ETF**（Exchange Traded Fund: 追踪黄金价格的交易所交易基金）进行避险。在给出结论之前，我想先分享一下我的思考方法。

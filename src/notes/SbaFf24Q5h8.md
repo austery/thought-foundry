@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 教育部
@@ -22,10 +22,7 @@ people:
 - 易富贤
 - 毛泽东
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SbaFf24Q5h8
 speaker: 徒步的騎手
@@ -39,7 +36,6 @@ tags:
 - policy
 title: 中国独生子女政策：一场史诗级人祸的社会危机链条
 ---
-
 ### “Gradually, then suddenly”：独生子女政策引爆的社会危机
 
 海明威的小说《太阳照样升起》中，人物Mike曾用“Gradually, then suddenly”三个字来描述他的破产经历。这句简单的话在过去99年中被广泛引用，它道出了所有灾难爆发的规律：长期缓慢酝酿，然后突然爆发。股灾、金融危机、经济危机莫不如此，中国的**独生子女政策**（One-Child Policy: 中国在1979年至2015年间实施的限制生育政策）造成的社会危机亦是如此。这项曾作为中国国策实施了30多年的政策，正是缓慢酝酿危机的30多年。如今，危机在这两年突然爆发，中国正面临婚姻市场崩塌、养老金即将消耗殆尽、人类历史上最脆弱的“421家庭结构”以及低迷的出生率。许多尚未彻底麻木的中国人突然发现，自己正身处这场前所未有的人祸当中。我们年轻时经历的是“gradually”，现在看到的则是“suddenly”。

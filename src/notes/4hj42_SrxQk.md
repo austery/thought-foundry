@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-08-12'
@@ -17,9 +17,7 @@ people:
 - 赫拉克利特
 - 柏拉图
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4hj42_SrxQk
 speaker: 大问题Dialectic
@@ -32,7 +30,6 @@ tags:
 - science
 title: 泰勒斯：为何“万物本原是水”让他成为哲学与科学之父？
 ---
-
 ### 泰勒斯与哲学科学的开端
 
 为什么**泰勒斯**（Thales: 古希腊哲学家，被誉为“西方哲学和科学之父”）抛出一句“万物的本原是水”这样一个初中生水平的断言，就能让他成为名垂千古的“西方哲学和科学之父”呢？欢迎来到《100个哲学大概念开悟人生》。今天要讲的哲学大概念是“万物的本原是水”，它是由古希腊哲学家泰勒斯提出的。泰勒斯是公元前6世纪活跃在希腊米利都一带的人。几乎所有讲哲学史的书，包括科学史的书，都会写到有史以来第一位哲学家或科学家就是泰勒斯，也就是说，泰勒斯是“哲学和科学之父”。

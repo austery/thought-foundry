@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - Wire Cutter
@@ -16,8 +16,7 @@ media_books:
 people:
 - Kyra Blackwell
 - Rosie Garren
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WAZBzm-JOOA
 speaker: New York Times Podcasts
@@ -30,7 +29,6 @@ tags:
 - pie-baking
 title: 制作完美派：烘焙大师的秘诀与工具
 ---
-
 ### 派底湿软的困扰与烘焙大师的登场
 
 你们有没有吃过那种派，尤其是中间部分的派底，软塌塌的，还没烤熟？那就是**湿软派底**（soggy bottom: 派底因馅料水分过多或烘烤不足而变得潮湿、不熟）。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Anthropic
@@ -13,9 +13,7 @@ layout: post.njk
 products_models:
 - Claude
 - Claude Opus 4
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lkEvqr8ovy8
 speaker: Best Partners TV
@@ -29,7 +27,6 @@ tags:
 - system
 title: Claude AI的“灵魂文档”揭秘：Anthropic如何构建AI的自我意识与价值观
 ---
-
 ### Claude“灵魂文档”的意外发现
 
 大家好，这里是最佳拍档。前几天，一份神秘的文档在**Reddit**（社交新闻聚合和讨论网站）和**GitHub**（基于Git的代码托管平台）社区引起了热议。一位名叫理查德·韦斯（Richard Weiss）的用户发现，在**Opus 4.5**（Claude模型的一个版本）中，**Claude**（Anthropic公司开发的人工智能模型）的角色训练文档被压缩在了模型自身的**权重**（Model Weights: 构成AI模型核心的参数）中。他成功提取出了一份长达1万**token**（文本处理的最小单位）的Claude灵魂文档，并将其上传到了GitHub。

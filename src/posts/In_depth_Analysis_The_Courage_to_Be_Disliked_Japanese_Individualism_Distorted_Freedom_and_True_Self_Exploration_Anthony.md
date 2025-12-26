@@ -1,10 +1,9 @@
 ---
 title: 深度剖析《被讨厌的勇气》：日式个人主义、自由观扭曲与自我探索的真谛
 summary: null
-area: personal-growth
+area: "life-family"
 category: psychology
-project:
-- personal-growth-lab
+project: []
 tags:
 - adlerian-psychology
 - 个人主义
@@ -24,7 +23,6 @@ layout: post.njk
 series: null
 source: null
 ---
-
 大家好，我是安东尼，欢迎来到我的频道。
 
 ## 引言：《被讨厌的勇气》及其争议

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Red Bull
@@ -14,9 +14,7 @@ people:
 - Steven Bartlett
 - Lionel Messi
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UMy6GESNkDc
 speaker: The Diary Of A CEO
@@ -30,7 +28,6 @@ tags:
 - psychology
 title: 尤尔根·克洛普：我的领导力哲学与打造冠军团队的秘诀
 ---
-
 ### 引言：离开的决定与成功的本质
 
 那是一段紧张的时期。我们必须赢得足球比赛，但所有其他事情也都压在了我的肩上。我需要休息。但在这一行，你无法这么做。你不能说：“给我一年时间，回头见。”

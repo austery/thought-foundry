@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Meta
@@ -33,8 +33,7 @@ products_models:
 - GPT-4
 - BERT
 - ChatGPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EIYwcKl4NDU
 speaker: Bloomberg Podcasts
@@ -47,7 +46,6 @@ tags:
 - policy
 title: AI行业试图阻止的政治家：Alex Boris与AI监管之战
 ---
-
 ### AI行业与政治家的冲突
 
 最近一篇《政治专业版》（Political Pro）的文章报道称，一个名为“**AI超级政治行动委员会引领未来**”（AI Super PAC Leading the Future）的组织，正投入数百万美元，旨在阻止**Alex Boris**在曼哈顿代表**Jerry Nadler**退休后的初选竞选。**Alex Boris**在纽约州议会任职期间，通过了27项法案，其中一项名为**《提高法案》**（Raise Act）的法案引起了AI行业的强烈不满。这项法案首次为先进AI研究设定了安全标准，因此，该组织宣布**Alex Boris**为“头号公敌”，并计划投入巨额资金来对抗他。最初计划投入数百万美元，上周已增至**1000万美元**。

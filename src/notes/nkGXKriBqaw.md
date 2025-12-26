@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - SOS救命小酒馆
@@ -12,10 +12,7 @@ media_books:
 - 《独自等待》
 - 《为什么长大》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nkGXKriBqaw
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - transformation
 title: 在鼓楼的缝隙里：理想与现实之间的野草生长记
 ---
-
 ### 鼓楼：一座城中的缝隙
 
 大家好。上半场我们听了北京超无聊，下半场我就来讲讲北京到底有多无聊。

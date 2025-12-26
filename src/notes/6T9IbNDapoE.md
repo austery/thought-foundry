@@ -42,8 +42,7 @@ people:
 products_models:
 - Photoshop
 - WeChat
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6T9IbNDapoE
 speaker: 小翠時政財經
@@ -55,7 +54,6 @@ tags:
 - technology
 title: 中国AI企业融资困境、OpenAI盈利改善与马斯克SpaceX上市新路径
 ---
-
 大家好，欢迎回到小崔时政财经。今天是美东时间2025年12月22日，欢迎收看我们今天的每日要闻节目。
 
 ### 中港股市表现与新股上市

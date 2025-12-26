@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - ASML
@@ -23,9 +23,7 @@ products_models:
 - EUV
 - CPU
 - GPU
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lZtw9BsaRlc
 speaker: Shijun Tang
@@ -39,7 +37,6 @@ tags:
 - semiconductor-equipment
 title: ASML投资复盘：深度解析其财报、业务与护城河
 ---
-
 ### ASML持仓复盘：超越大盘的投资表现
 
 今天，我们来深入探讨**ASML**（艾司摩尔/阿斯麦: 全球领先的半导体设备制造商）这只美股。时间飞逝，我持有ASML的股份已经达到了373天。在最新财报发布之后，ASML的表现究竟如何？它还能持续为我们创造收益吗？它是否仍是一台在未来能够持续带来复利增长的机器？

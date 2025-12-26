@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: career
 companies_orgs:
 - Google
@@ -20,10 +20,7 @@ people:
 - Mark Zuckerberg
 products_models:
 - Gmail
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F5-isewu-ww
 speaker: 课代表立正
@@ -37,7 +34,6 @@ tags:
 - talent
 title: AI时代的人才画像与职场生存策略：全栈思维与人脉杠杆
 ---
-
 ### AI时代的人才画像：可解但不易的问题
 
 我们频道里的许多同学都非常关心，在这个时代，理想的**人才画像**（Talent Profile: 对特定职位或角色所需技能、经验、特质的描述）是怎样的，以及如何才能成为这个时代更优秀的人才。正如之前提到的，像Google、OpenAI或Perplexity这样的公司，要做一个AI浏览器或类似的项目，理论上是可行的。这听起来似乎人才是一个可以解决的问题，或者说它并不是决定性的**差异化因素**（Differentiator: 使产品、服务或公司在竞争中脱颖而出的独特特征）。

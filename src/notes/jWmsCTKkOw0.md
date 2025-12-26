@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times Book Review
@@ -35,9 +35,7 @@ people:
 - Dave Kim
 - Pierre Bourdieu
 products_models: []
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jWmsCTKkOw0
 speaker: New York Times Podcasts
@@ -50,7 +48,6 @@ tags:
 - national
 title: 2025年文学奖季回顾：奖项的意义、争议与发现
 ---
-
 ### 欢迎来到图书评论播客：2025年文学奖季
 
 大家好，欢迎收听图书评论播客。我是MJ Franklin，是《纽约时报书评》的编辑。

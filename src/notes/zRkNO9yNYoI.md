@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bridgewater Associates
@@ -26,10 +26,7 @@ people:
 - Elon Musk
 - Sam Altman
 - Ray Dalio
-project:
-- us-analysis
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zRkNO9yNYoI
 speaker: Norges Bank Investment Management
@@ -42,7 +39,6 @@ tags:
 - history
 title: 桥水基金格雷格·詹森：在现代重商主义与AI革命中的投资之道
 ---
-
 ### 塑造当今世界的三大主题
 
 大家好，欢迎来到《In Good Company》。今天我请到了桥水基金的联席首席投资官格雷格·詹森。桥水基金是一家卓越的对冲基金，我们可以说是全球规模最大、最优秀的。格雷格，很荣幸能邀请你来到这里。

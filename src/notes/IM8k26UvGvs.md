@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Salesforce
@@ -73,10 +73,7 @@ products_models:
 - Grok
 - Blackwell
 - H200
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IM8k26UvGvs
 speaker: Amit Kukreja
@@ -92,7 +89,6 @@ tags:
 - tech
 title: 财报解读：Salesforce AI 业务强劲，UiPath 首次盈利，Snowflake 为何意外下跌？
 ---
-
 ### 开盘回顾与盘后财报预告
 
 好的，大家好，欢迎回到新一期的《市场收盘》。很抱歉我迟到了，今天真是疯狂的一天。但我们现在直播了，有很多内容要谈。盘后会有一些财报公布，其中一些非常重要。我们有 Salesforce (CRM)、Snowflake 和 UiPath。所以在接下来的 15 分钟里，我会在聊天区发起一个“哪家公司表现会更好”的投票。

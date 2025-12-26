@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: career
 companies_orgs:
 - Meta
@@ -15,10 +15,7 @@ layout: post.njk
 people:
 - 莊也
 products_models: []
-project:
-- us-analysis
-- cultural-critique
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=11Eye8dzwKk
 speaker: 莊也雜談
@@ -32,7 +29,6 @@ tags:
 - work-life-balance
 title: 加拿大职场环境深度解析：优势与八大挑战
 ---
-
 ### 加拿大职场：白月光下的真实面貌
 
 大家好，我是莊也，欢迎收看莊也杂谈加拿大。上集我们聊了很多人纷纷逃离加拿大的八大原因，把加拿大在许多人心中的“白月光”形象说得一文不值，让不少观众朋友感到焦虑。但请大家千万不要这么想，虽然我上一集指出了加拿大现在存在的一些问题，但那些问题并非我个人杜撰，而是对他人观点的总结。我的目的也不是为了“抹黑”加拿大，而是出于一种“爱之深，责之切”的心情。毕竟，我本人并未离开加拿大，这正是因为加拿大这个地方仍然有很多优点。

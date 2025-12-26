@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -16,8 +16,7 @@ products_models:
 - GPT-2
 - GPT-3
 - Transformer
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5fkqmNzFni8
 speaker: Dwarkesh Patel
@@ -31,7 +30,6 @@ tags:
 - scaling-law
 title: Gwern 如何预见 AI 规模化浪潮
 ---
-
 ### 引言：规模化假说的提出
 
 你是少数在 2020 年就拥有详细的**规模化**（scaling: 指模型、数据量或计算能力的增加）实证模型的人之一，我很好奇你当时使用了什么方法，让你能够看到你在《规模化假说》（scaling hypothesis）一文中描绘的图景。

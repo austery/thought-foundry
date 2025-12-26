@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - YouTube
@@ -29,10 +29,7 @@ people:
 - 江泽民
 - 赫鲁晓夫
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0fgq5IdwEmQ
 speaker: 三個水槍手
@@ -46,7 +43,6 @@ tags:
 - wolf-warrior-diplomacy
 title: 中日关系再激辩：回应高市早苗言论风波与“战狼外交”的合理性质疑
 ---
-
 ### 一期引发争议的节目
 
 我们这次的读评论节目，是回应之前关于“斩首高市早苗风波”的那一期。那一期节目非常特别，不只是评论量巨大，达到了973条，更在于它的点赞比例是我们节目中较低的。通常我们的节目，听众的友好度非常高，点赞比例能达到95%甚至97%以上。然而，那一期只有89.9%。在YouTube上，跌破90%就算很低了。

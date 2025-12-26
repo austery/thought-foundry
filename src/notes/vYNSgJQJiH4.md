@@ -17,9 +17,8 @@ insight: ''
 draft: true
 series: ''
 category: work-related
-area: tech-work
-project:
-  - us-analysis
+area: "work-career"
+project: []
 people:
   - George Mitchell
   - Nick Steinsberger

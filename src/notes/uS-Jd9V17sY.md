@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-16'
@@ -14,10 +14,7 @@ people:
 - Wang Yi
 - Mao Zedong
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uS-Jd9V17sY
 speaker: Anthony看世界
@@ -32,7 +29,6 @@ tags:
 - thinking
 title: 文革巫术思维的轮回：中国民族主义的深层心理根源
 ---
-
 ### 巫术狩猎心态的蔓延与深层根源
 
 大家好，我是Anthony。欢迎来到我的频道。在之前的视频中，我们通过对**文化大革命**（Cultural Revolution: 1966-1976年在中国发生的一场政治运动）时期的研究，分析了一篇社论，探讨了**巫术狩猎心态**（Witch-hunting mentality: 一种对绝对纯粹的偏执追求，导致敌人无限扩大化，并伴随对迫害的恐惧）的思维模式。这种心态在当代中国相当普遍，更重要的是，这种思维倾向超越了各种意识形态的表层差异，构成了中国各种社会思潮背后深层的共通性。无论是对“小粉红”的批判，还是民族主义的狂热，抑或是对自由民主的认同，都可能被这种巫术狩猎心态所感染。

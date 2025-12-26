@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - palantir
@@ -11,9 +11,7 @@ layout: post.njk
 media_books: []
 people:
 - amit-kukreja
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OK6EpzT8Yds
 speaker: Amit Kukreja
@@ -25,7 +23,6 @@ tags:
 - stock-market
 title: 区域银行危机再现？Bitmine获90美元评级，Palantir携手Snowflake | 每日回顾
 ---
-
 ### 市场概览：区域银行引发担忧
 
 Hey everybody, welcome back to the channel. We are back on another episode of the daily recap. This is the last daily recap for the week as we have come towards the end of the week on Thursday. Thank you again to everyone who's been showing support on these episodes. I really do love making them every day and I'm happy that people are enjoying them.

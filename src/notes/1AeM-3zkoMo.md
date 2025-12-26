@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -42,10 +42,7 @@ people:
 products_models:
 - 比特币
 - 稳定币
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1AeM-3zkoMo
 speaker: 记者易速利
@@ -59,7 +56,6 @@ tags:
 - stock-market-bubble
 title: AI狂热下的美股风险：从1929年大萧条吸取教训
 ---
-
 ### 美股牛市的终结与AI泡沫的警示
 
 美国股市出现动荡时，不少人会提心吊胆。自2009年**道琼斯指数**（Dow Jones Industrial Average: 美国股市的重要指数之一）从6600点的低点以来，已达到46000点高位，持续16年的牛市会不会有一个结束的时候呢？事实上，最近几个月，“回调”、“泡沫”、“崩盘”、“买黄金”、“降低风险敞口”这些术语出现的频度在增加。现在有一种感觉是，美国股市只靠几根顶梁柱撑着，尤其是**英伟达**（Nvidia: 全球领先的图形处理器和人工智能芯片制造商）。

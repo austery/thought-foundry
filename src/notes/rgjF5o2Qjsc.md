@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Sonar
@@ -14,8 +14,7 @@ products_models:
 - Copilot
 - Codex
 - Lovable
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rgjF5o2Qjsc
 speaker: AI Engineer
@@ -28,7 +27,6 @@ tags:
 - developer-productivity
 title: AI代码质量现状：炒作与现实的博弈
 ---
-
 ### 引言：AI代码质量的现状：炒作与现实
 
 非常荣幸能来到这里。我叫 Itamar Friedman，是 Kodto 的 CEO 和联合创始人。Kodto 的名字代表着“开发质量”（Quality of Development）。今天，我将分享我们以及其他公司关于 AI 代码质量现状的报告，试图探讨在技术炒作（hype）与实际（reality）之间的差距。

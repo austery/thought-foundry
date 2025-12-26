@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - World Health Organization
@@ -12,8 +12,7 @@ people:
 - Derek Muller
 products_models:
 - Brilliant
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7ziWrneMYss
 speaker: veritasium
@@ -27,7 +26,6 @@ tags:
 - technology
 title: 马匹如何帮助人类对抗蛇毒：抗蛇毒血清的科学与历史
 ---
-
 ### 澳大利亚的致命之舞：蛇与抗蛇毒血清
 
 **Zac:** 你们能抓住它的尾部吗？

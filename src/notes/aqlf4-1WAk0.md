@@ -24,9 +24,7 @@ people:
 - 华国锋
 - 秦晖
 products_models: []
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aqlf4-1WAk0
 speaker: FearNation 世界苦茶
@@ -39,7 +37,6 @@ tags:
 - systemic-risk
 title: 中国央行开启“赤字货币化”：是拯救经济还是饮鸩止渴？
 ---
-
 ### 中国悄然开启的“赤字货币化”
 
 今天我们要讨论的是央行的**赤字货币化**（Deficit Monetization: 指央行直接印钱为政府财政赤字融资的行为）问题，这是一个专业性较强的话题。我希望通过今天的讲解，能让大家对央行的运作有更深入的了解。

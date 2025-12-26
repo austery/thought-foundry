@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - Amazon
@@ -20,9 +20,7 @@ people:
 - Daniel Kahneman
 - Roger Federer
 - Kamala Harris
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rtufWBLOXgw
 speaker: The Diary Of A CEO
@@ -36,7 +34,6 @@ tags:
 - technology
 title: James Clear：微习惯的力量——如何构建持久系统，而非仅仅追求目标
 ---
-
 ### 引言：习惯的力量与《原子习惯》
 
 James Clear 撰写了历史上最畅销的习惯类书籍之一，因为人们总是需要更多实用的帮助来养成习惯。他拥有各种策略和工具来让习惯得以坚持，其中一个原则可能是建立习惯最重要的一点，那就是掌握开始的艺术。作为全球领先的习惯专家之一，James Clear 正在帮助数百万人建立持久的习惯，掌握目标设定，并最终重新设计他们的生活。

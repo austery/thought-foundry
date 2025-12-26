@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-07'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=napDQwJwjIU
 speaker: 北美王路飞
@@ -24,7 +21,6 @@ tags:
 - market
 title: 迈克尔·乔丹教授：AI革命中“超级智能”的误区与真解
 ---
-
 ### AI狂潮下的“超级智能”神话
 
 近年来，关于人工智能（AI）的话题几乎到了爆炸的程度。每天都有消息称，**超级智能**（Superintelligence: 指在几乎所有领域都大大超越人类智能的假想智能系统）离我们越来越近，**AGI**（通用人工智能: Artificial General Intelligence，指能够理解、学习或执行人类所能完成的任何智力任务的人工智能系统）即将无所不能，能写诗、画画、代写代码。许多人因此兴奋地认为**奇点**（Singularity: 指技术发展达到一个临界点，此后技术进步将变得不可预测和不可控的假想未来事件）将至，例如萨顿老爷子就认为AGI终将取代人类。但也有人感到焦虑，像辛顿一样，担心自己创造的人工智能会取代人类工作，甚至恐惧电影中**天网**（Skynet: 电影《终结者》中拥有自我意识并试图毁灭人类的人工智能系统）的出现。

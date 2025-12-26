@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - McMaster University
@@ -14,8 +14,7 @@ media_books:
 people:
 - Robert F. Kennedy Jr.
 products_models: []
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q_-p9kWMT58
 speaker: TVO Today
@@ -29,7 +28,6 @@ tags:
 - technology
 title: 花生过敏率下降：科学新发现与误区澄清
 ---
-
 ### 花生过敏率下降：新指南与影响
 
 花生过敏很常见，而且可能致命。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Open Market Committee
@@ -44,10 +44,7 @@ products_models:
 - Starlink
 - Photoshop
 - Gemini Flash
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1CoDPHkb4B4
 speaker: Amit Kukreja
@@ -63,7 +60,6 @@ tags:
 - technology
 title: 市场收盘：加密货币反弹、美联储会议前瞻及重点股票技术分析
 ---
-
 ### 市场收盘概览与加密货币反弹
 
 大家好，欢迎回到市场收盘节目。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 author: ''
 category: productivity
 companies_orgs:
@@ -16,9 +16,7 @@ media_books:
 - The Five Dysfunctions of a Team
 products_models:
 - NotebookLM
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SXCtQnJE8_I
 speaker: ''
@@ -33,7 +31,6 @@ tags:
 - meeting-automation
 title: Zapier EA 如何利用 AI 打造“AI 实习生”军团，自动化会议准备并扩展内部协作
 ---
-
 ### AI 赋能行政助理：自动化会议准备与提升效率
 
 Courtney Hickey，Zapier 的 CEO 行政助理 (Executive Assistant)，分享了她如何拥抱人工智能 (AI)，将其视为提升工作效率和自动化重复性任务的关键工具。她强调，AI 并非要取代人类，而是能够帮助行政助理摆脱繁琐的日常工作，从而专注于更具挑战性和趣味性的任务。她认为，AI 在行政助理角色中的应用是必然趋势，关键在于何时以及如何采纳这些工具，并以“边做边学”的态度不断探索和优化。

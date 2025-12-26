@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Microsoft
@@ -20,10 +20,7 @@ products_models:
 - Perplexity
 - Sora
 - LLMs
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HmDUWxpPgnI
 speaker: EO
@@ -37,7 +34,6 @@ tags:
 - llm
 title: AI产品致胜之道：UX、创新与未来展望
 ---
-
 ### AI产品开发：从能力出发，超越传统UX
 
 人工智能（AI）无疑已经极大地改变了我们构建产品的方式。人们普遍存在着一种“**错失恐惧症**”（FOMO: Fear Of Missing Out: 害怕错过重要事件或趋势的焦虑），我认为这就是一切的开端。

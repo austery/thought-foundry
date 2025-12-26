@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Netflix
@@ -14,10 +14,7 @@ media_books:
 - Twitter
 - 《日本时报》
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eHJUdfcvX7Y
 speaker: 记者易速利
@@ -31,7 +28,6 @@ tags:
 - royal-succession
 title: 日本真子公主：曼哈顿的隐居生活与皇室传统的挑战
 ---
-
 ### 日本皇室的悠久传统与继承挑战
 
 日本的第一位女性首相即将载入史册，这个职位设立于1885年，全称为“内阁总理大臣”，至今已有140年历史，而这将是首次由女性担任。相比之下，日本的**天皇**（Emperor: 日本的世袭君主，在二战后被宪法规定为国家的象征性元首）制度则要古老得多，大约从公元300年到500年开始，至今从未中断，延续了126代，是世界上现存最古老的世袭皇室。灵活的政治适应、深厚的文化根基和强大的国民支持，都是这个悠久传统得以保持的重要因素。

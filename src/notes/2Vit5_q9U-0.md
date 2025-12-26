@@ -30,10 +30,7 @@ products_models:
 - H100
 - H200
 - GB200
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2Vit5_q9U-0
 speaker: Money or Life 美股频道
@@ -47,7 +44,6 @@ tags:
 - market-bubble
 title: OpenAI与微软对话：AI基础设施投资的机遇与挑战——兼论CRWV与NBIS的长期价值
 ---
-
 ### OpenAI与微软的合作细节及上市展望
 
 欢迎来到Money or Life美股频道。周末观看了一期我长期关注的博主Bg2 Pod（播客名称）的播客节目，其中邀请了OpenAI的**Sam Altman**和微软的CEO **Satya Nadella**。之所以对此特别感兴趣并反复观看，是因为我个人关注的**CRWV**和**NBIS**这些**neocloud**（新云公司: 专注于提供AI算力基础设施服务的公司）公司，都与微软有合作，且微软是它们最大的客户。此外，OpenAI最近与微软达成了新的协议，并有传言OpenAI可能在明年底或后年初上市。因此，我仔细聆听了节目内容，并在此分享一些看法。

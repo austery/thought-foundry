@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Tesla
@@ -25,10 +25,7 @@ people:
 products_models:
 - ChatGPT
 - GPT-4o
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h6hpxZUgalQ
 speaker: INDIGO 数字镜像
@@ -41,7 +38,6 @@ tags:
 - society
 title: AI时代，当工作不再定义我们：重建人类价值与生活意义
 ---
-
 ### 开场：在温哥华的红叶季，聊聊AI与生活
 
 **Indigo:** 欢迎回到 Indigo Talk，今天是一个特别场，我们在线下进行。之前节目里都是两个大脑袋出现在屏幕前，今天我们的话题也会比较轻松一些，不会那么正式，以一种放松的方式来聊一些深刻的话题。我们现在身处一个看上去非常舒适的生活环境里，所以今天我邀请了一位来自日本的朋友，Amber。

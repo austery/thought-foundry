@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -34,10 +34,7 @@ products_models:
 - Java
 - Python
 - WordPress
-project:
-- ai-impact-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0qnZDMvJPh4
 speaker: Internet of Bugs
@@ -51,7 +48,6 @@ tags:
 - technological-disruption
 title: 生成式AI在科技史上的位置：一个反主流观点
 ---
-
 ### 生成式AI的炒作与历史地位
 
 大约一年前，我制作了一个关于AI炒作失控的视频。

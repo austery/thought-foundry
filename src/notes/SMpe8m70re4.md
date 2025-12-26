@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-12-20'
 draft: true
@@ -17,10 +17,7 @@ people:
 - Modi
 - Liu Shaoqi
 - Jiang Zemin
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SMpe8m70re4
 speaker: 东京人文论坛
@@ -34,7 +31,6 @@ tags:
 - social-welfare
 title: 中国政治博弈的千万细节：地方自治的可能与挑战
 ---
-
 ### 政治博弈的复杂性与“自由的宰狼”
 
 上次我们探讨了国家失败的千万细节，阅读了《国家为什么会失败》这本书，深入分析了中国在转型过程中好的与不好的方面，以及国家体制压榨的细节。我们发现，平时我们很容易对中国的政治问题或未来发展形成一些大而化之的理解，但能够关注这些细节非常有益。今天，我们将问题进一步推向“政治博弈的千万细节”，这更加有趣。因为我们设想中国未来时，经常会想到中国分裂或地方自治等情况。无论是分裂还是地方自治，我们都需要探讨地方自治有哪些细节能够支撑它，从而审视未来无论是地方自治，甚至破坏大一统格局的可能性。

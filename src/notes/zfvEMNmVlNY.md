@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Citibank
@@ -11,9 +11,7 @@ layout: post.njk
 products_models:
 - GPT-4
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zfvEMNmVlNY
 speaker: AI Engineer
@@ -28,7 +26,6 @@ tags:
 - strategy
 title: Meta-AC：超越单维度优化的AI智能体自适应框架
 ---
-
 ### 引言：Meta-AC框架概述
 
 大家好。今天我将介绍**Meta-Adaptive Context Engineering**（Meta-AC：元自适应上下文工程），这是一个旨在超越单一维度方法优化AI智能体的新框架。我们将探讨如何协调多种适应策略，以克服现有上下文工程方法的局限性。

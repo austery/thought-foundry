@@ -7,7 +7,7 @@ date: 2025-07-10
 guest: null
 insight: null
 layout: post.njk
-project: 知行小酒馆
+project: []
 series: null
 source: https://www.youtube.com/watch?v=SRRfsSBX9UY
 speaker: 知行小酒馆
@@ -21,7 +21,6 @@ updated: 2025-09-01T13:04
 people:
 - 段永平
 ---
-
 ## 引言：聊聊段永平的契机
 
 **雨白:**

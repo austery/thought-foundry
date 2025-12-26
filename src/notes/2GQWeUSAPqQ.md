@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - WhatsApp
@@ -15,10 +15,7 @@ media_books:
 - Lex Fridman Podcast
 people:
 - Lex Fridman
-project:
-- geopolitics-watch
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2GQWeUSAPqQ
 speaker: Best Partners TV
@@ -33,7 +30,6 @@ tags:
 - strategy
 title: 帕维尔·杜罗夫的自由执念与极致自律：Telegram的生存哲学与地缘政治挑战
 ---
-
 ### 帕维尔·杜罗夫：科技圈的特立独行者
 
 大家好，这里是最佳拍档，我是大飞。如果要选出当下科技圈最特立独行的创业者，那么**帕维尔·杜罗夫**（Pavel Durov）无疑是其中之一。他创办的即时通讯平台**Telegram**拥有超过10亿的活跃用户，却始终拒绝资本市场的染指，坚持100%个人持股。为了守护用户的隐私，他敢于与全球最强大的政府和情报机构硬刚，甚至一度在法国被捕入狱。他过着近乎苦行僧的生活，不碰酒精、不用手机，每天300个俯卧撑起步，却打造出了功能迭代速度远超同行的科技产品。

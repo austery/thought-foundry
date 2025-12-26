@@ -21,8 +21,7 @@ people:
 - 林静芝
 - 李秀全
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=PTCEjRNXgqs
 speaker: ''
@@ -35,7 +34,6 @@ tags:
 - relationship
 title: 基督信仰家庭观(四)：亲子关系与父母的神圣使命
 ---
-
 ## 第四课：亲子关系——神圣的托付
 
 第一课是讲到夫妻婚姻生活的成长。我们已经再三地强调，因为我们是有信仰的，因为我们的神是又真又活的，我们就知道婚姻是一个有生命的东西。所以既然是有生命的东西，我们就盼望你们夫妇今天的关系，就跟昨天的关系不一样，今天的关系就比昨天更有进步。不管你的进步是快，不管你的进步是慢，只要是有生命，我们相信是越来越在主的面前成长蒙福。

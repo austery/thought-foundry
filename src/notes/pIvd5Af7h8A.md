@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Alibaba
@@ -20,10 +20,7 @@ media_books:
 people:
 - 唐石峻
 - 巴菲特
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pIvd5Af7h8A
 speaker: Shijun Tang
@@ -37,7 +34,6 @@ tags:
 - stock
 title: 阿里、苹果与Palantir财报深度解析：增长幻觉背后的资本游戏
 ---
-
 ### 阿里财报：增长乏力下的效率年与回购逻辑
 
 阿里最近一个月股价暴涨81.49%，成为中概股领涨者，媒体热度极高。但作者指出，新闻往往跟随股价波动，并非基本面驱动。在耐心等待财报发布后，他发现其实际业绩并无飞跃式表现。

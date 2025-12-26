@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - American Airlines
@@ -16,10 +16,7 @@ people:
 - Paul
 - Ketanji Brown Jackson
 - Sigmund Freud
-project:
-- systems-thinking
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MKUDGCXP7JQ
 speaker: 超級歪 SuperY
@@ -33,7 +30,6 @@ tags:
 - social-power-dynamic
 title: 笑话的心理学：从奥斯卡巴掌事件看性别与种族歧视
 ---
-
 ### 奥斯卡巴掌事件：笑话的起点
 
 在第94届奥斯卡金像奖颁奖典礼上，主持人克里斯·洛克对贾达·萍克特·史密斯开了一个玩笑。他说：“贾达，我爱你。迫不及待想看你出演《魔鬼女大兵2》。”这个玩笑暗指贾达的光头造型，与电影《魔鬼女大兵》中参军的女主角形象相似。随后，她的丈夫威尔·史密斯上台给了克里斯·洛克一巴掌，这成为了电视史上最具戏剧性的一刻。

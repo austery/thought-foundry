@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 author: Lei
 category: geopolitics
 channel: null
@@ -9,8 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=F_7-qBbuSVg
 speaker: ''
@@ -20,7 +19,6 @@ tags:
 - 媒体偏见
 title: 前英国外交官锐评美以“公关式”轰炸真相
 ---
-
 ## 引言：克雷格·莫瑞的背景与视角
 
 大家好，欢迎来到我的频道。这期节目，我想给大家讲解一下我最近看到的一部视频，是克雷格·莫瑞（Craig

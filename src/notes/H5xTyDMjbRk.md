@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-01-16'
 draft: true
@@ -13,10 +13,7 @@ media_books:
 - 《太乙金华宗旨》
 - 《物理学之道》
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=H5xTyDMjbRk
 speaker: 一席YiXi
@@ -30,7 +27,6 @@ tags:
 - spiritual-individualism
 title: 西洋道教与现代灵性困境：当西方人在中国圣山修道
 ---
-
 ### 西方人眼中的“道”：一场去语境化的灵性旅行
 
 我叫宗树人，是香港大学的社会学家与人类学家，长期研究中国传统文化在当代社会的演变，尤其关注以道教、道家为核心的实践如何在全球化语境中被重新诠释。我与美国历史学家Elijah Siegler合著的《梦道华山》（Dream Trippers: Global Daoism and the Predicament of Modern Spirituality），正是对这一现象的深度观察。

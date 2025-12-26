@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies:
 - superintelligence-timeline
@@ -24,10 +24,7 @@ products_models:
 - AlphaFold
 - Claude Code
 - ChatGPT
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TbFSGiQdCaw
 speaker: a16z
@@ -40,7 +37,6 @@ tags:
 - llm
 title: AI发展前瞻：泡沫、就业冲击与超级智能时间线
 ---
-
 ### AI投资与市场现状：是泡沫还是价值？
 
 人们在这些模型上投入了大量资金。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -38,10 +38,7 @@ people:
 products_models:
 - Llama
 - Sora
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lOBtNnrAB0I
 speaker: Amit Kukreja
@@ -56,7 +53,6 @@ tags:
 - us-china-relations
 title: 市场展望：标普500创历史新高，降息与中美关系缓和注入乐观情绪
 ---
-
 ### 当前市场宏观展望：创纪录高位下的机遇与风险
 
 Amit: 好的，我们有很多话题要谈。感谢大家又一周来到 Tech Bros。我想我们上周错过了，因为是排灯节，所以我上周没能参加，但我们回来了。我想让我们从对市场的初步看法开始。明天有 SoFi 的财报，我们会谈到。还有一些关于 Hood 和 Nvidia 的更新。但 Roy，我们从你开始。标普500指数创下历史新高，你感觉如何？

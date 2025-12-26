@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -10,8 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ppb0Byhw1gk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -23,7 +22,6 @@ tags:
 - technology
 title: 科学跑步专家：核心训练助你跑得稳、不伤膝！
 ---
-
 ### 跑步与肌肉：破除迷思
 
 在追求更好跑步表现的过程中，有些人会过度专注于单一肌肉群的训练，例如小腿肌肉，这可能导致**跟腱**（Achilles tendon: 连接小腿肌肉到脚跟骨的强韧肌腱）拉断等伤害。这种孤立的肌肉训练，如单块大腿肌、腹肌或小腿肌的训练，通常是为了健美选手追求肌肉美观而设计。然而，真正好用的肌肉需要学会协同合作，让韧带、跟腱以及**肌膜**（Fascia: 包裹肌肉、器官和骨骼的结缔组织）共同参与完成动作，身体才能保持健康。

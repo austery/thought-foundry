@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -21,11 +21,7 @@ people:
 - Alexander Stubb
 products_models:
 - F-16
-project:
-- geopolitics-watch
-- china-analysis
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s3J_gs1Dy_k
 speaker: Norges Bank Investment Management
@@ -39,7 +35,6 @@ tags:
 - ukraine-war
 title: 斯托尔滕贝格：全球变局下的北约、中国与未来战争
 ---
-
 ### 全球格局之变：一个更危险的世界
 
 大家好，我很高兴能与延斯·斯托尔滕贝格（**Jens Stoltenberg**: 北约前秘书长，挪威前首相）在此相聚，他刚刚结束了在北约秘书长的任期。在担任北约秘书长之前，他曾是挪威首相。延斯，热烈欢迎您。非常感谢您的到来。我这里有一本您八年前出版的书，它涵盖了直到十年前的时期，封面还有您一张漂亮的照片。那么，自这本书问世以来，世界发生了哪些最重要的变化呢？

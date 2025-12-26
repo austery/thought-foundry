@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nasdaq
@@ -25,10 +25,7 @@ people:
 - Adena Friedman
 - Bob Iger
 - Michael Dell
-project:
-- investment-strategy
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hRC8SZ2n4Jc
 speaker: Norges Bank Investment Management
@@ -41,7 +38,6 @@ tags:
 - market
 title: 纳斯达克CEO艾德娜·弗里德曼：从市场运营商到全球金融科技巨头
 ---
-
 ### 纳斯达克的转型：从市场运营商到科技巨头
 
 **Nicola:** 大家好，我是**挪威主权财富基金**（Norges Bank Investment Management: 挪威政府养老基金，全球最大的主权财富基金之一）的首席执行官尼古拉·坦根。今天，我们非常高兴能邀请到纳斯达克（Nasdaq）的首席执行官艾德娜·弗里德曼（Adena Friedman）。

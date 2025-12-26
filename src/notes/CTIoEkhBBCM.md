@@ -11,10 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CTIoEkhBBCM
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - us-stock-market
 title: 当前市场分析：通胀反弹风险、资产配置策略与百万现金投资建议
 ---
-
 ### 开篇致辞与观众互动
 
 感谢观众的热情支持，特别是那些长期陪伴的观众。有观众留言表示从单身到孩子三岁，一直观看我的视频，这让我非常感动，感受到了彼此在投资和人生道路上的陪伴。通过大家的留言，我意识到不应仅凭主观判断每周视频数量，许多观众希望每天或经常听到我的内容。因此，我承诺在时间允许的情况下，会尽量多为大家制作视频。今天的节目内容丰富，我们将直接进入正题。

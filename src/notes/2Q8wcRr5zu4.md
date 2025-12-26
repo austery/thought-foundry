@@ -11,8 +11,7 @@ insight: null
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: https://www.youtube.com/watch?v=2Q8wcRr5zu4
 speaker: 硅谷101播客
@@ -21,7 +20,6 @@ summary: 2025年的Google I/O大会无疑是谷歌打的一场漂亮的翻身仗
 tags: []
 title: 硅谷101：谷歌股价为何先跌后涨？华尔街如何看？
 ---
-
 **主持人：**弘君 (硅谷101创始人，播客主理人)
 
 **嘉宾：**

@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 author: Lei
 category: culture
 companies_orgs: []
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - Yuval Noah Harari
 products_models: []
-project:
-- historical-insights
+project: []
 series: null
 source: null
 speaker: ''
@@ -28,7 +27,6 @@ tags:
 title: A Conversation with Yuval Noah Harari on History, Fiction, and the Future of
   Humanity
 ---
-
 ### 节目前言
 
 **导读**: 大家好，欢迎收听《世界播明》，用中文解码世界的缤纷，带你听见不一样的风景。我是你们的导读。

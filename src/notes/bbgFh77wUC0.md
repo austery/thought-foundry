@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2021-10-17'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bbgFh77wUC0
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - wealth
 title: 债务、财务自由与“债务承受公式”：一个量化标准助你破解财务困惑
 ---
-
 ### 债务：限制人类行为的经济根源
 
 1861年美国爆发了南北战争，其核心争端之一是南北双方对待奴隶制的态度。历史常将北方描述为废除奴隶制的道德高地，而南方奴隶主则被描绘成贪婪、残忍、种族主义且没有人性。这种道德视角的描述虽易于理解，但事实可能很大程度上源于另一个与道德无关的原因：债务。

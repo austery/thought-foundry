@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: technology
 companies_orgs:
 - palantir
@@ -11,11 +11,7 @@ layout: post.njk
 media_books:
 - best-partners-tv
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GetIS0APO1o
 speaker: Best Partners TV
@@ -29,7 +25,6 @@ tags:
 - product-market-fit
 title: FDE模式深度解析：AI落地新解法还是历史倒退？
 ---
-
 ### AI能力与落地困境：FDE模式的兴起
 
 如今，我们正处在一个矛盾的时代。一方面是AI能力的狂飙突进，GPT、Gemini、Claude、Grok、DeepSeek、Qwen、GLM、Kimi等模型迭代速度之快令人应接不暇，技术发布会上展示的能力让人感觉**AGI**（Artificial General Intelligence: 通用人工智能，指拥有与人类同等或超越人类智能水平的AI）仿佛触手可及。另一方面，却是企业应用部署的步履蹒跚，许多企业浅尝辄止地体验过后，却不知道如何将这些“魔法”真正融入到自己复杂又具体的业务流程中。大家都认为AI的潜力巨大，但从潜力到生产力的最后一公里，成为了一道难以逾越的鸿沟。简而言之，模型的能力和落地之间出现了巨大的断层。

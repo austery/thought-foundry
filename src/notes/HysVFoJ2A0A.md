@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 date: '2025-10-12'
 draft: true
@@ -7,8 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HysVFoJ2A0A
 speaker: 莊也雜談
@@ -21,7 +20,6 @@ tags:
 - public-service
 title: 加拿大郵政危機：罷工、改革與百年國企的未來
 ---
-
 ### 加拿大郵政罷工的始末與社會衝擊
 
 最近，加拿大郵政的罷工事件引發了廣泛關注。2025年9月25日，**加拿大郵政工人工會**（CUPW: Canadian Union of Postal Workers，加拿大郵政工人的全國性工會）發起全國性罷工。這場罷工由兩個主要原因驅動：一是工會與資方（即加拿大郵政）之間的勞資談判破裂；二是工會希望藉此向聯邦政府提出嚴正抗議，反對政府主導的一系列改革措施，工會認為這些改革損害了郵政工人的切身利益。

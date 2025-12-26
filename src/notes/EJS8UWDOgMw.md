@@ -25,10 +25,7 @@ people:
 - Williams
 products_models:
 - H200
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EJS8UWDOgMw
 speaker: 视野环球财经
@@ -40,7 +37,6 @@ tags:
 - us-stock-market
 title: 美股市场展望：科技股承压下的反弹与未来走势分析
 ---
-
 ### 市场概览与美联储动态
 
 美东时间11月21日周五晚8点25分，市场开盘承压，但在上午11点左右开始反弹。这部分得益于美联储重要官员威廉姆斯发表的相当**鸽派**（Dovish: 指货币政策倾向于通过降息或量化宽松来刺激经济增长的立场）言论。他表示，就业下行风险增加，而通胀上行风险有所缓解。他认为，短期内联邦基金利率的目标仍有可能进一步调整，以使政策立场更接近**中性区间**（Neutral Rate: 既不刺激也不抑制经济增长的利率水平），从而实现两个目标之间的平衡。由于威廉姆斯被认为是美联储三位主要决策者之一，他的讲话大幅提升了美联储在12月份降息的可能性，从昨天的不到40%跃升至69%。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: https://www.youtube.com/@Dr.IreneLee/featured
@@ -9,8 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=AbjE0-Nran4&t
 speaker: ''
@@ -19,7 +18,6 @@ tags:
 - llm
 title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
 ---
-
 ### 讲述者简介
 
 **胡思宇医师 (Jimmy

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: psychology
 companies_orgs:
 - Google
@@ -17,9 +17,7 @@ products_models:
 - Gemini
 - Gemini 2.5 Pro
 - GPT-4o
-project:
-- ai-impact-analysis
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZnixjtLgXTk
 speaker: Anthony看世界
@@ -32,7 +30,6 @@ tags:
 - theoretical-transfer
 title: GPT与Gemini阅读能力实测：谁是更优秀的学术助手？
 ---
-
 ### 引言：AI阅读能力的深度探索
 
 大家好，我是Anthony。欢迎来到我的频道。

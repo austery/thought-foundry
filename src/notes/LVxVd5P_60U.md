@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Novo Nordisk
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - GLP-1
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LVxVd5P_60U
 speaker: Norges Bank Investment Management
@@ -27,7 +25,6 @@ tags:
 - value
 title: 诺和诺德CEO：创新是战胜慢性病、实现股东回报的关键
 ---
-
 ### 创新：伟大公司与社会贡献的核心
 
 非常感谢您的热情介绍，也感谢今天能有这个机会来到这里。这对我来说是莫大的荣幸。

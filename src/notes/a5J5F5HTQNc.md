@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Health Canada
@@ -9,8 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a5J5F5HTQNc
 speaker: TVO Today
@@ -24,7 +23,6 @@ tags:
 - society
 title: 阿尔茨海默病新药Lecanemab：能否为加拿大医疗系统带来变革？
 ---
-
 ### 引言：阿尔茨海默病的挑战与Lecanemab的出现
 
 目前，加拿大约有77万人患有痴呆症，预计到2031年这一数字将上升至93.7万人。阿尔茨海默病是痴呆症最常见的病因，目前尚无治愈方法。

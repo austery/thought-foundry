@@ -28,9 +28,7 @@ products_models:
 - Starlink
 - Starship
 - Neutron Rocket
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FMHw09ptvPw
 speaker: Money or Life 美股频道
@@ -44,7 +42,6 @@ tags:
 - valuation
 title: 太空热潮与AI情绪波动：RKLB、TSLA等个股深度复盘与展望
 ---
-
 ### 美股复盘与推演：太空热潮与AI情绪波动
 
 本周的美股复盘与推演节目分为三个部分。第一部分，将再次和大家聊一聊最近的太空投资热潮。我这里放了一张马斯克的头像截图，因为正是他的SpaceX公司最近要上市的消息，以及高达8,000亿美金的最新估值，引爆了整个太空板块。我这里放的“投资太空，一起FOMO”的标题，当然是有开玩笑的成分，不过我确实也感觉到了FOMO（Fear Of Missing Out: 害怕错过）情绪快要到来，或者说已经开始到来了。

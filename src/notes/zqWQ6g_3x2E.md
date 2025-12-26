@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - MicroStrategy
@@ -30,10 +30,7 @@ people:
 - Satya Nadella
 products_models:
 - IBIT
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zqWQ6g_3x2E
 speaker: 投资TALK君
@@ -47,7 +44,6 @@ tags:
 - valuation
 title: 市场情绪低迷下的投资策略：深入分析 MSTR 溢价与仓位调整时机
 ---
-
 ### 市场回顾：情绪低迷与全面下跌
 大家好，今天不能聊太长时间。我会稍微聊一下 MicroStrategy (MSTR)，我为此做了一些功课，回顾了过去一段时间的走势。
 

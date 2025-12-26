@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Brilliant.org
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Arithmetica
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tRaq4aYPzCc
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - theory
 title: 如果一直平方下去会怎样？探索p进数与数学的隐藏维度
 ---
-
 ### 奇特的平方模式与无限数字
 
 Derek: 取数字5并将其平方，得到25。现在取25并将其平方，得到625。再平方625，你将得到390,625。你看到其中的模式了吗？

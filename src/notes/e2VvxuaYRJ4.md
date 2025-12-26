@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 北约
@@ -17,10 +17,7 @@ people:
 - Vladimir Putin
 - Donald Trump
 - 安倍晋三
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=e2VvxuaYRJ4
 speaker: 徒步的騎手
@@ -34,7 +31,6 @@ tags:
 - taiwan-strait
 title: 台湾有事即日本有事：地缘政治的冰冷现实与中国“太监化”外交的根源
 ---
-
 ### 世界的分裂与文明的进程
 
 今天将探讨“台湾有事就是日本有事”这一话题，因为这句话正引发中国与日本之间的激烈摩擦。近年来，人们常说世界正变得越来越分裂，至于具体如何分裂，每个人的感受可能不尽相同。有些国家突破了历史的桎梏，在政治和文化上展现出崭新的气象，现代文明化不断深化和拓展。然而，另一些国家在现代文明化反复难产之后，又一次回到历史的桎梏当中。中文世界对这种回到历史桎梏中的国家肯定不陌生，因为中国就是其中之一。改革开放尚未深化到制度层面，国家便又回到了皇帝与太监的统治模式。俄国亦是如此，几经折腾，最终变成了“普希金一家亲”，在历史的桎梏中自娱自虐。

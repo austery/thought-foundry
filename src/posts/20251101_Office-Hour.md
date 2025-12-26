@@ -4,8 +4,7 @@ author: null
 category: ai-ml
 date: 2025-11-01
 layout: post.njk
-project:
-- ai-impact-analysis
+project: []
 published: null
 source: https://www.youtube.com/watch?v=Paa-17FrDBU
 speaker: 用AI發電
@@ -16,7 +15,6 @@ summary: 欢迎来到本周的实践分享会！本次分享会深入探讨了 A
 tags: []
 title: 20251101_Office Hour：AI又“进化”了！如何跟上脚步？
 ---
-
 ### 导语：从"工具使用者"到"心法掌握者"
 
 欢迎来到本周的实践分享会！本次分享会深入探讨了 AI 辅助编程的最新动向和核心“心法”。Mike Chong 和社群成员们分享了从 Google、OpenAI 的最新工具，到“单打独斗”时如何解决 UI 设计、安全和顽固 Bug 的高级战术。

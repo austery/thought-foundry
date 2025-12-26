@@ -10,12 +10,7 @@ layout: post.njk
 people:
 - lt
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ozS-kc1QbIQ
 speaker: LT視界
@@ -28,7 +23,6 @@ tags:
 - us-china-relations
 title: 全球经济与地缘政治：股市震荡、乌克兰僵局、中美贸易战缓和及中国社会热点透视
 ---
-
 ### 财经头条：股市波动与风险预警
 
 10月18日的财经头条聚焦于华尔街日报的报道，标题为“波动性再次困扰股市，华尔街的恐慌指数触及4月底以来最高水平”。这份报道值得有投资理财的网友高度关注，因为它不仅关乎美国股市的风险，更与4月份美国股市崩盘以及给全球股市带来的灾难性影响紧密相连。

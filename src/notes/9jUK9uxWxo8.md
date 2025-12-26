@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-08'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - anglo-russian-great-game
 products_models: []
-project:
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9jUK9uxWxo8
 speaker: 郭里有范
@@ -23,7 +21,6 @@ tags:
 - tibet
 title: 西藏为何未能独立？探析清末民初的政治博弈与大国角力
 ---
-
 ### 导论：西藏的政治地位之谜
 
 在当前舆论环境下，围绕西藏问题的讨论常聚焦于与共产党的斗争或历史的整体叙述，但往往忽略了其真实的政治地位。本文将重点梳理从清朝到解放军进藏前，西藏与中国关系的演变，探究达赖喇嘛地位的变化、西藏在满、蒙、英、俄等强大势力间的摇摆，以及为何在清朝覆灭、英国支持的背景下，西藏未能像外蒙古那样独立。

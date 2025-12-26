@@ -25,10 +25,7 @@ people:
 - Elon Musk
 products_models:
 - Neutron rocket
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aKUdP8Zd4bY
 speaker: Money or Life 美股频道
@@ -41,7 +38,6 @@ tags:
 - us-stock-market
 title: 美股十月复盘与十一月展望：火箭实验室、特斯拉及个人投资策略深度解析
 ---
-
 ### 美股十月复盘与火箭实验室周边分享
 
 大家好，欢迎来到Money or Life美股频道，我是Ace。今天是2025年11月1号，整个美股10月的交易已经过去。本周的美股复盘加推演节目将会非常特别，因为平时周末的节目我都没有出镜，今天专门打开了镜头拍摄。一个重要的原因就是我预定的**火箭实验室**（Rocket Lab: 一家美国航空航天制造商和小型卫星发射服务提供商）官方的周边商品，昨天刚刚从美国寄到新加坡，包括我现在身上穿的这一件印有**中子火箭**（Neutron rocket: 火箭实验室公司正在开发的一种可重复使用的中型运载火箭）图形的文化衫，我自己非常喜欢。

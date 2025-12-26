@@ -11,9 +11,7 @@ media_books:
 - talk
 - earnings-review
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-L0eF-p7wfs
 speaker: 投资TALK君
@@ -24,7 +22,6 @@ tags:
 - economic-outlook
 title: 2025年8月CPI数据深度解析与市场展望：降息预期、消费趋势及公司财报
 ---
-
 ### 引言与内容概览
 
 各位观众大家好，欢迎来到一个每天不单只聊新闻的专业美股日更频道，我是市场分析员小陶。今天这期视频，从制作到上传总共花费了7个小时。听到这边，是不是应该先来一波点赞加留言？那我就废话不多说了，马上开始非常多的新内容，我会尽量压缩得稍微短一点，因为时间太长大家就不爱听了，也听不完。我将聊一下宏观数据，特别是**CPI**（Consumer Price Index: 消费者物价指数，衡量商品和服务价格变化的指标）数据，然后详细分析周二多家公司发布的财报。

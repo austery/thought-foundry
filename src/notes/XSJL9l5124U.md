@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-02'
@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XSJL9l5124U
 speaker: 北美王路飞
@@ -23,7 +22,6 @@ tags:
 - superintelligence
 title: 杰弗里·辛顿的警告：AI教父眼中人类文明的深渊与出路
 ---
-
 ### AI教父的“水管工”建议与深层恐惧
 
 近日，在一次播客节目中，被全球尊称为**人工智能教父**（Geoffrey Hinton: 人工智能领域的先驱，被称为“AI教父”）的**杰弗里·辛顿**（Geoffrey Hinton: 人工智能领域的先驱，被称为“AI教父”）被问及，在由超级智能主导的世界中，年轻人应如何谋生时，他的答案出人意料：去培训成为一名水管工。这一建议显得朴素甚至倒退，引发了人们对这位穷尽50年心血、几乎以一己之力奠定时代技术革命基础的科学家，为何对自己毕生心血结晶产生巨大恐惧的疑问。这背后，隐藏着一个关乎人类文明的惊天秘密。

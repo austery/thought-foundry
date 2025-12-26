@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hg6uHfTgfM4
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +26,6 @@ tags:
 - posture-correction
 title: 物理治療師揭秘：為何「抬頭挺胸」非最佳姿勢？久坐危害與正確體態實踐
 ---
-
 ### 序言：久坐的危害與姿勢迷思
 
 **宋晏仁:** 嗨，大家好，我是宋晏仁醫師，歡迎您來到初日會客室。今天為您邀訪的是另外一位知識網紅，啾C物理治療師。美麗的物理治療師，請您介紹一下自己。

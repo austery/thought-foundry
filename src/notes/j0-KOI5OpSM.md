@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 清华大学
@@ -25,10 +25,7 @@ people:
 - 孙维
 - 江泽民
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=j0-KOI5OpSM
 speaker: 柴静 Chai Jing
@@ -42,7 +39,6 @@ tags:
 - zhu-ling-case
 title: 朱令案十年回访：法治之困与未竟的追寻
 ---
-
 ### 清华投毒案：侦办疑云与朱家三问
 
 从上一集节目我们了解到，清华大学没有及时告知警方他们的实验室存在**铊盐**（Thallium salt: 一种剧毒化学物质），并且管理混乱，同时贻误了报案时机，导致宿舍的失窃案发生，关键证据灭失。这意味着警方在1995年5月5日立案之后，在获取直接证据时存在极大的困难。

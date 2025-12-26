@@ -11,8 +11,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=pNDQGI4RFzo
 speaker: 硅谷101
@@ -24,7 +23,6 @@ title: GE Vernova：从“没落帝国”剥离，到AI电力危机下的大赢�
 companies:
 - ge-vernovum
 ---
-
 ## AI时代的电力新革命
 
 AI时代，电力需要一场新革命。而当下，全球正掀起自二战以来新一轮电力超级周期。这就是为什么华尔街交易员们的目光，从英伟达转向了电力股。今年以来，一系列电力能源股的涨势惊人。它们不再是过去那种沉闷、稳定的公用事业股，而是摇身一变，成为了科技革命的新宠。

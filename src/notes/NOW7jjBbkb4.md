@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - TED
@@ -8,10 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NOW7jjBbkb4
 speaker: TED
@@ -25,7 +22,6 @@ tags:
 - supply-chain-finance
 title: 通过创新融资模式保护森林：林巴集体案例
 ---
-
 ### 森林流失与泥炭地燃烧：气候变化的关键驱动因素
 
 在像印度尼西亚这样的地方，最大的碳排放源实际上来自于森林的流失以及**泥炭地**（Peatland: 由死亡有机物经过数千年积累形成的富碳生态系统）的燃烧。

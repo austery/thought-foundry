@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-01-22'
 draft: true
@@ -16,10 +16,7 @@ people:
 - 金庸
 - 秦始皇
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=j1mhbIOp4Yw
 speaker: 一席YiXi
@@ -33,7 +30,6 @@ tags:
 - storytelling-rule
 title: 故事的套路：从民间传说到现代短视频的叙事底层逻辑
 ---
-
 ### 故事的本质：封闭时空中的语言游戏
 
 施爱东开篇即指出，所有故事本质上都是一种发生在**密闭时空**（closed temporal-spatial system）中的语言游戏。在这个系统里，所有行为都必须有因果，所有角色都有功能，一切细节都被精简到极致。正如金庸小说中的人物行走江湖几十年却从不考虑生计——他们不需要赚钱、没有行李箱，因为这些与“武侠”无关的细节会被系统性地剔除。民间故事尤其如此，它不关心“吃瓜群众”的命运，只聚焦于核心角色之间的互动。

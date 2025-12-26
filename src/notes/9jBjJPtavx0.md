@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -14,10 +14,7 @@ layout: post.njk
 people:
 - Donald Trump
 - Xi Jinping
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9jBjJPtavx0
 speaker: Joseph Wang
@@ -31,7 +28,6 @@ tags:
 - trade-negotiation
 title: 市场周报：亚洲贸易谈判、黄金市场动态与美国关税影响分析
 ---
-
 ### 市场回顾与本周焦点
 
 大家好，今天是11月1日，欢迎收看本期市场周报。

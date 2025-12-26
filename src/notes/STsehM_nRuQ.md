@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - indigo
@@ -10,8 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - stablecoin
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=STsehM_nRuQ
 speaker: INDIGO 数字镜像
@@ -24,7 +23,6 @@ tags:
 - geopolitical
 title: 重建巴别塔：稳定币如何打破全球协作壁垒——赋能创作者、零工与AI智能体经济
 ---
-
 ### 稳定币：应对全球协作支付难题的新方案
 
 主持人: 欢迎回到Indigo Talk。这一期我们邀请了老朋友Shawn。我记得应该是在今年年初，2025年初，我邀请Shawn和Jenny两个人一块做了一期Indigo Talk。上一次Shawn的身份还是**Hash Matrix**（一家专注于社交营销的代理公司），他们是做社交营销的，对接甲方和乙方的，帮助中国和北美的一些公司，主要是AI公司和一些**Fintech**（金融科技: 运用科技提升金融服务效率的行业）公司，做市场出海和全球营销。正好，因为今年的市场变化很快，Shawn又有了新的业务。要不Shawn你自己再介绍一下？

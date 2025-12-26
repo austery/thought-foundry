@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -46,10 +46,7 @@ products_models:
 - H200
 - Blackwell
 - S&P 500
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4Eb1ORjDAFM
 speaker: Amit Kukreja
@@ -63,7 +60,6 @@ tags:
 - technical-analysis
 title: 特朗普或允许英伟达对华销售芯片，市场闻声上演大逆转
 ---
-
 ### 特朗普与姆达尼的意外“和解”
 
 好的，大家好，欢迎回到新一期的市场收盘节目。我们今天提早开始，将直接关注姆达尼和特朗普的会面，之后我们会讨论市场上发生的一切。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - 卡游
@@ -29,9 +29,7 @@ people:
 - Kevin Durant
 products_models:
 - Labubu
-project:
-- investment-strategy
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oAQfUzSGQqk
 speaker: 硅谷101播客
@@ -45,7 +43,6 @@ tags:
 - value
 title: 卡牌投资热潮：从爱好到掘金，年轻人能否借此赚取第一桶金？
 ---
-
 ### 卡牌热潮：从小众爱好到千万投资
 
 麻花: 大家好，我是《硅谷101》的特约研究员麻花。这期播客我们要谈论的是卡牌。今年8月，一张汇聚了**乔丹**（Michael Jordan: 美国职业篮球运动员，被誉为史上最伟大的篮球运动员之一）和**科比**（Kobe Bryant: 美国职业篮球运动员，湖人队传奇球星）的球星卡，以1293万美元的价格刷新了体育收藏卡牌的成交纪录。这张卡不仅镶嵌了两位传奇巨星球衣上的NBA Logo，并且还有两个人的亲笔签名，是实打实的孤品球星卡。而在2022年，美国网红**Logan Paul**（美国知名YouTuber、职业摔跤手）展示出了他评级10分的画师皮卡丘卡牌，那张卡牌价值527.5万美元，刷新了私人拍卖中宝可梦卡牌的最高成交纪录。

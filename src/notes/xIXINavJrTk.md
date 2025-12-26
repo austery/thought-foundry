@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-04'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《光明共和国》
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xIXINavJrTk
 speaker: 安争鸣（Stella An）
@@ -27,7 +24,6 @@ tags:
 - society
 title: 《光明共和国》：一部直指西方社会种族对立的争议小说
 ---
-
 ### 政治敏感话题的开场白
 
 大家好，我是安争鸣，欢迎回到读书时间。在制作今天这期节目之前，我真的犹豫了很久，因为今天要给大家介绍的这本书，是我这辈子读过的最**政治不正确**（Political Correctness: 指避免使用可能冒犯或歧视特定群体的言论或行为的原则）的书。我甚至觉得，这种书也是能写的吗？我实在有点担心，发了这期节目后，YouTube会给我一个黄牌或者红牌警告。所以，真的是犹豫了很久，但最后我还是决定做这期节目，因为我觉得这本书还是挺值得分享的。希望大家能给我点个赞。

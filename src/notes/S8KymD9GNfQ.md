@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -34,9 +34,7 @@ products_models:
 - Dogecoin
 - Ethereum
 - Messenger
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S8KymD9GNfQ
 speaker: 超級歪 SuperY
@@ -50,7 +48,6 @@ tags:
 - political-philosophy
 title: 加密貨幣的政治與經濟：從密碼龐克到央行數位貨幣的演變
 ---
-
 ### 加密貨幣的崛起與其背後的政治經濟學
 
 自從**比特幣**（Bitcoin: 一種去中心化的加密貨幣）發行以來，近十年來**區塊鏈**（Blockchain: 一種去中心化的分布式數據庫技術）與**加密貨幣**（Cryptocurrency: 基於密碼學和區塊鏈技術的數字貨幣）的關注度越來越高。2020年，中國推出了用區塊鏈開發的「**數字人民幣**」（Digital Yuan / DCEP: 中國央行發行的法定數字貨幣）。2021年，薩爾瓦多成為第一個把比特幣當成法定貨幣的國家。此外，周杰倫進軍**NFT**（Non-Fungible Token: 非同質化代幣）秒殺進帳八千萬，Elon Musk甚至在Twitter上表示會大力支持**狗狗幣**（Dogecoin: 一種基於迷因的加密貨幣）。那麼，加密貨幣的出現會對未來社會造成什麼影響？

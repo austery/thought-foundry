@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 台积电
@@ -14,9 +14,7 @@ media_books:
 - 《你问对问题了吗？》
 - 《第三选择》
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ksn8zszj1Kk
 speaker: 天下文化
@@ -30,7 +28,6 @@ tags:
 - problem
 title: 《你问对问题了吗？》：重组问题框架，探寻问题本质的智慧
 ---
-
 ### 引言：重塑问题框架的重要性
 
 大家好，我是好学好哥，欢迎来到好书导读这个单元。今天要介绍的这本书，看起来像画册一样，我非常喜欢，尤其它整个封面的设计，我一拿到的时候都爱不释手。再加上这个题目，不管是好哥以前在**台积电**（TSMC: 台湾积体电路制造公司，全球最大的专业集成电路制造服务公司），或者是在**淡马锡**（Temasek: 新加坡政府的投资公司）的时候，都非常在意所谓的逻辑跟问题分析解决，我想这本书真的应该人手一本。它的题目叫做《你问对问题了吗？》（What's Your Problem?）。

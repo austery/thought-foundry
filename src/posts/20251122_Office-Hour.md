@@ -6,7 +6,7 @@ category: ai-ml
 date: 2025-11-22
 insight: null
 layout: post.njk
-project: null
+project: []
 published: null
 source: https://www.youtube.com/watch?v=8uSUci1dZHM
 speaker: 用AI發電
@@ -17,7 +17,6 @@ summary: 在 AI 编程工具爆发的当下，我们是否正在见证一种新�
 tags: []
 title: 20251122_Office Hour 带上你的 Bug，Vibe Coding 大神现场一对一“问诊”
 ---
-
 ### 第一部分：核心理念 — 从“指令投喂”到“系统构建”
 
 1\. 像搭乐高一样构建代码：原子化设计工作流

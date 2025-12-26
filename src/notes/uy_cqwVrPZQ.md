@@ -19,10 +19,7 @@ people:
 - Janet Yellen
 - Donald Trump
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uy_cqwVrPZQ
 speaker: 视野环球财经
@@ -36,7 +33,6 @@ tags:
 - stock-market-analysis
 title: 美股分析：甲骨文破位预示AI板块分化，关注重点个股走势
 ---
-
 ### 市场概览与宏观经济动态
 
 大家好，欢迎回到视野环球财经。现在是美东时间25年11月12号周三晚上的7点55分。今天的**四大指数**（S&P Dow Jones Indices: 衡量美国股市表现的重要指数）小幅震荡，**标普道指**（S&P Dow Jones Indices: 衡量美国股市表现的重要指数）上涨，**纳指**（Nasdaq Composite: 纳斯达克综合指数，以科技股为主的股票市场指数）和**罗素**（Russell Indices: 罗素指数，衡量美国小型股市场表现的指数）下跌。**标普成分股**（S&P 500 Component Stocks: 标普500指数的组成股票）298只上涨，203只下跌。另外，**费城半导体**（Philadelphia Semiconductor Index: 衡量半导体行业股票表现的指数）30只成分股中，23只上涨，6只下跌。市场今天总体情绪还算平稳。

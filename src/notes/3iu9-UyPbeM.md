@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3iu9-UyPbeM
 speaker: 北美王路飞
@@ -23,7 +21,6 @@ tags:
 - llm
 title: 人工智能的路线之争：气宗符号主义与剑宗连接主义的兴衰
 ---
-
 ### 引言：AI江湖的“气剑之争”
 
 大家好，欢迎来到我的频道。今天我们来聊一聊人工智能（AI）的历史。最近我做了几期关于 **Gary Marcus** (盖瑞·马库斯: 知名认知科学家、人工智能批评者) 和 **Stefan Wolfram** (斯蒂芬·沃尔夫勒姆: 英国物理学家、数学家、计算机科学家) 批评大语言模型的视频，有观众认为他们不懂AI，即便 Gary Marcus 已经卖掉了一个AI公司又创办了另一个。还有人说，这两位是符号主义流派，是唱衰连接主义的“失败者”，属于AI界的非主流，并认为我报道他们是对GPT有偏见。然而，我早期频道其实做了很多期“爆吹”GPT的视频，甚至详细介绍了其使用方法，简直是将其捧上了天。现在制作这些批评GPT的视频，其实是为了达到一个中和的作用。我本人每天也都会使用大语言模型进行工作。

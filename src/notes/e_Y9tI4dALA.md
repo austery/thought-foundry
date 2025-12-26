@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Block
@@ -27,10 +27,7 @@ people:
 products_models:
 - Cash App
 - Threads
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=e_Y9tI4dALA
 speaker: Norges Bank Investment Management
@@ -46,7 +43,6 @@ tags:
 - technology
 title: Jack Dorsey 访谈：从 Twitter 到比特币，再谈去中心化与算法主权
 ---
-
 ### Twitter 的诞生：从城市地图到用户共创
 
 **主持人:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威的中央银行投资管理部门）的首席执行官 Nicola Tangen。

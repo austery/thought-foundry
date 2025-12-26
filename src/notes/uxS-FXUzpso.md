@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Alphabet
@@ -40,10 +40,7 @@ products_models:
 - ChatGPT
 - Gemini 3
 - TikTok
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uxS-FXUzpso
 speaker: LT視界
@@ -58,7 +55,6 @@ tags:
 - social
 title: 谷歌AI芯片挑战英伟达垄断，乌克兰和平计划新进展，中美关系与中国社会情绪分析
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月25日。
 
 ### 财经头条：谷歌AI芯片挑战英伟达垄断地位

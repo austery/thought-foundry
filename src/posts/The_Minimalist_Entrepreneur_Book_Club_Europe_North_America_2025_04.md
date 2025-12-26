@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: business
 channel: null
@@ -14,8 +14,7 @@ people:
 - Vivian
 - Fancy
 products_models: []
-project:
-- entrepreneurship
+project: []
 series: null
 source: null
 speaker: 一口新饭读书会
@@ -25,7 +24,6 @@ tags:
 - side-hustle
 title: 「欧洲_北美场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 ---
-
 ## 开场与介绍
 
 ### Vivian:

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Wall Street
@@ -30,9 +30,7 @@ people:
 products_models:
 - iPhone
 - Cybertruck
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4qfxHfBJ3Mw
 speaker: The Diary Of A CEO
@@ -45,7 +43,6 @@ tags:
 - psychology
 title: 从读心术到影响力：Oz Pearlman 解构人际交往与成功的心理战术
 ---
-
 ### 引言：揭开“读心术”的神秘面纱
 
 **Oz Pearlman:** 我花了三十年时间逆向工程人类思维，向你展示如何利用它来了解别人在见到你时在想什么，或者判断某人是在说真话还是在撒谎。我们来做点有趣的事。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - AstraZeneca
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《CEO world》
 - 《美国新闻周刊》
-project:
-- us-analysis
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q60tC9Sj2qM
 speaker: 莊也雜談
@@ -29,7 +26,6 @@ tags:
 - time
 title: 加拿大免费医疗：深度解析其优缺点与真实面貌
 ---
-
 ### 加拿大医疗系统：全球排名与核心优势
 
 大家好，我是庄也，欢迎收看庄也杂谈加拿大。今天我们继续“加拿大深度观察系列”，旨在客观分析加拿大的各项特点。本期节目将聚焦加拿大的医疗保健系统，深入探讨其优缺点。

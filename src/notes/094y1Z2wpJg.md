@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Brilliant
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - John Conway
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=094y1Z2wpJg
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - undecidability
 title: 考拉兹猜想：一个看似简单却无人能解的数学难题
 ---
-
 ### 考拉兹猜想：一个“危险”的数学问题
 
 这是数学领域中最“危险”的问题之一，年轻的数学家们被警告不要在其上浪费时间。

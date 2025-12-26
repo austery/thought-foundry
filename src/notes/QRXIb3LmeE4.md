@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Princeton University
@@ -15,10 +15,7 @@ people:
 - Donald Trump
 products_models:
 - '[]'
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QRXIb3LmeE4
 speaker: 徒步的騎手
@@ -31,7 +28,6 @@ tags:
 - society
 title: 批判“文化差异”：野蛮、文明与政治的下游
 ---
-
 ### “文化差异”的滥用与野蛮的辩护
 
 在美国法庭上，曾出现一个奇特的现象：来自中国和印度的移民在因家暴被捕并被检察官起诉后，会提出一种辩护，声称自己有**文化差异**（Cultural Difference: 指不同文化背景下行为规范的差异）。他们认为，在自己的传统文化中，殴打配偶并不违法，因此他们是被各自的文化所“害”，不知道打老婆是犯法的。在一些中国和印度第一代移民较多的地区，这种辩护在法庭上成了笑话。这些施暴者将自己描绘成受害者，声称他们的暴力倾向并非源于自身，而是传统文化所致。

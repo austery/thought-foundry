@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Hudson River Trading
@@ -32,9 +32,7 @@ products_models:
 - AlphaGo
 - Hopper
 - Blackwell
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ADfpBrl8Avo
 speaker: Bloomberg Podcasts
@@ -49,7 +47,6 @@ tags:
 - market
 title: Hudson River Trading如何实际应用AI：高频交易中的人工智能与挑战
 ---
-
 ### 播客开场与AI在交易中的应用探讨
 
 **Bloomberg:** 大家好，欢迎收听新一期Odd Lots播客。我是Jill Weisenthal。

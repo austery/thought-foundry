@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 世界贸易组织
@@ -15,10 +15,7 @@ media_books:
 people: '[]'
 products_models:
 - '[]'
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zPVi8G-N3nQ
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - wealth
 title: 中国财富大转移：土地炼金术与三代人的债务困境
 ---
-
 ### 中国家庭债务危机：从勤俭到负债累累
 
 前段时间我们讲美国比较多，今天我们来谈谈中国。最新一期**《经济学人》**（The Economist: 一份英国的全球性新闻和国际事务刊物）有一篇报道，题目是《为什么这么多中国人被债务淹没》（Why so many Chinese are drowning in debt）。曾几何时，中国人以勤俭节约、爱存钱著称，贷款消费是不可思议的事情。

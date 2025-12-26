@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -41,10 +41,7 @@ people:
 - Nikolai Tangen
 products_models:
 - S&P 500
-project:
-- investment-strategy
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6Kas8LRJnGU
 speaker: Norges Bank Investment Management
@@ -58,7 +55,6 @@ tags:
 - risk-management
 title: 成为更优秀投资者的秘诀：桥水、橡树资本与顶级思想家深度对话
 ---
-
 ### 何为优秀的投资者？
 
 一位优秀的投资者，应将充满激情的好奇心与对真理的不懈追求相结合，整合多样化的信息以获得独特的见解，创造性地连接不相关的数据，并不断积累知识，成为一台学习机器。对我而言，一个安全且支持性的组织文化至关重要。这种文化在公开的异议、从失败和成功中协同学习以及相互关怀中蓬勃发展。培养这种环境需要集体努力，但最终能将一个组织提升到超越个体贡献的高度。

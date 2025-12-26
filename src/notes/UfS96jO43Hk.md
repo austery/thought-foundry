@@ -9,8 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UfS96jO43Hk
 speaker: Best Partners TV
@@ -24,7 +23,6 @@ tags:
 - valuation
 title: 趣店：一家没有主营业务却躺赚百亿的资本游戏
 ---
-
 大家好，这里是最佳拍档。今天来跟大家聊聊中国一家相当神奇的公司——**趣店**。
 
 ### 营收利润反差

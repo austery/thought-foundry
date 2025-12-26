@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -12,10 +12,7 @@ layout: post.njk
 people:
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=44OVYn5os-U
 speaker: 金融汪
@@ -29,7 +26,6 @@ tags:
 - sensitive-sector
 title: 特朗普“美国优先投资政策”深度解析：中美投资脱钩的起点？
 ---
-
 ### 引言：特朗普“美国优先投资政策”的出台
 
 今天，我们将深入分析特朗普政府上周五刚刚出台的一项重要政策——“美国优先投资政策”。这项政策之所以如此重要，是因为它将为未来特朗普政府任内，所有海外投资人对美国本土的投资，以及美国对外的投资，确立基本原则。虽然中国的一些自媒体在周末已发布相关解读报告，且内容良好，但它们可能过于关注细节，未能从提纲挈领和重点突出的角度来审视问题。因此，本视频旨在对现有视角进行补充。此外，中国一些从事宏观政策分析的卖方研究机构，目前尚未发布深入的市场分析报告，这其实是不应该的。

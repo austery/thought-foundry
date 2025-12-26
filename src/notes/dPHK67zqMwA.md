@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-16'
@@ -10,11 +10,7 @@ layout: post.njk
 people:
 - amit-kukreja
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dPHK67zqMwA
 speaker: Amit Kukreja
@@ -27,7 +23,6 @@ tags:
 - us-china-relations
 title: 每日市场回顾：中美博弈、亚马逊潜力与英伟达扩张
 ---
-
 ### 每日回顾：市场动态与焦点
 
 Hey everybody, welcome back to the channel. We are back on another episode of the daily recap, third day in a row after the five-month hiatus, and we are back.

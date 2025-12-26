@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg Podcasts
@@ -33,10 +33,7 @@ products_models:
 - GPU
 - Co-pilot
 - Cursor
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=z4ct_eDYx2A
 speaker: Bloomberg Podcasts
@@ -50,7 +47,6 @@ tags:
 - private-credit
 title: Paul Kedrosky：AI泡沫集所有历史泡沫之大成
 ---
-
 ### AI热潮与资本密集度
 
 **Joe Weisenthal:** 大家好，欢迎收听新一期的**OddLots播客**（OddLots Podcast: 彭博社旗下专注于金融和经济的播客节目）。我是Joe Weisenthal。

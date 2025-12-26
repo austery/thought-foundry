@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - Apple
@@ -19,8 +19,7 @@ people:
 - LeBron James
 - Michael Jordan
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=L2B1NhxfvIw
 speaker: KevinFeng 冯凯文
@@ -34,7 +33,6 @@ tags:
 - value
 title: 走出人生低谷：高中生也能读懂的两本英文逆袭书
 ---
-
 ### 引言：走出低谷，重塑人生
 
 今天跟大家分享两本词汇语法都超级简单，高中毕业应该就能够读的英文书，但它们却帮我从低谷走了出来。什么都不顺，连呼吸都感觉有压力的日子，直到有一天我读到了这两本书，那一刻我突然就意识到，也许我们可以换一种方式看世界，可以过上不一样的人生。那如果你也想学英文，顺便想要提升自己，甚至逆袭自己的生活的话，那么请务必一定要读这两本书。

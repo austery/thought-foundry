@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - CMHC
@@ -12,11 +12,7 @@ layout: post.njk
 people:
 - Ray Dalio
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=N1iBScYwtxc
 speaker: 王红雨
@@ -31,7 +27,6 @@ tags:
 - real
 title: 2025年加拿大联邦预算案深度解读：背景、框架、住房政策与香港化趋势
 ---
-
 ### 2025年加拿大联邦预算案背景与框架
 
 11月4号，加拿大联邦政府终于公布了2025年的预算案。这份预算案本应在4月份公布，不仅公布得非常晚，而且金额巨大，内容庞杂。今天，就来跟大家聊一聊这份预算案的大致框架，以及其中大家最关心的住房政策细节。欢迎大家再次回到我的频道。今天是2025年11月6号，将跟大家拆解这份预算案的大体背景、目标、内容概览以及住房政策的详解，最后是我的看法。

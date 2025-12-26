@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - NVIDIA
@@ -22,9 +22,7 @@ products_models:
 - ChatGPT
 - Claude
 - Gemini
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Lw8pleyvcVw
 speaker: 北美王路飞
@@ -38,7 +36,6 @@ tags:
 - llm
 title: 揭秘AI：从“觉醒的婴儿”到“静态的数学表格”——2025年AI泡沫破裂后的冷静审视
 ---
-
 ### AI意识觉醒的恐惧与生物学家的误判
 
 就在两周前，生物学家Brett Weinstein参加了Joe Rogan的播客节目，这期节目在互联网上引起了不小的震动。大家都知道，现在网络聊天绕不开一个话题——AI。但是Weinstein没有谈什么生产力工具，也没有聊ChatGPT帮他写了多少邮件。他在节目一开始就抛出了一段非常惊悚的独白。他看着Joe Rogan，眼神里充满了担忧，他是这么说的：“你会听到有些人说，‘AI根本不是在真正的思考，它只不过是在计算下一个词出现的概率而已。’我告诉你，这全是垃圾废话（garbage）。”

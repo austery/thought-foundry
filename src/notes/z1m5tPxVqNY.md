@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-29'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=z1m5tPxVqNY
 speaker: ZetaBook
@@ -23,7 +21,6 @@ tags:
 - war
 title: 战火下的抉择：抗日与俄乌战争中弱国领袖的妥协与抗争
 ---
-
 ### 引言：战火下的艰难抉择
 
 在战争中，国家领袖的抉择往往决定了一个民族的生死存亡：究竟是战斗到底，还是寻求妥协？从1937年至1942年，抗日战争初期的**中华民国**（Republic of China: 1912年至1949年在中国大陆执政的政权）在军事上连连失利，外交上几乎孤立，国民政府曾两次被迫迁都，蒋介石多次面临和谈与抗战的艰难抉择。

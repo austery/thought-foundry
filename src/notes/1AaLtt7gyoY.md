@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Soviet Union
@@ -16,10 +16,7 @@ people:
 - Jiang Zemin
 - Mao Zedong
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1AaLtt7gyoY
 speaker: 徒步的騎手
@@ -33,7 +30,6 @@ tags:
 - technology
 title: 诺奖经济学家的警示：解析中国“榨取性体制”与经济从头部腐烂的根源
 ---
-
 ## 引言：中国经济正从头部腐烂
 
 各位好，今天讲个比较严肃的话题，中国经济正从头部腐烂。这个说法不是我的发明，而是去年诺贝尔经济学奖得主Daron Acemoglu一篇文章的标题，*China's Economy is Rotting from the Head*。这篇文章发表在2022年10月，当时中共刚开完二十大，极权达到登峰造极，但很多人盼着新冠疫情结束以后，中国经济会再度起飞，那种期望很快落空。

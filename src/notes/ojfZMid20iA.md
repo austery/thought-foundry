@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies:
 - amazon-rainforest
@@ -13,9 +13,7 @@ layout: post.njk
 media_books: '[]'
 products_models:
 - '[]'
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ojfZMid20iA
 speaker: TED
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 黄金的隐性成本：亚马逊雨林中的汞污染与健康危机
 ---
-
 ### 序言：森林的价值与黄金的代价
 
 从小我就热爱大自然，我一直喜欢置身森林的感觉。

@@ -15,9 +15,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Grock
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-kQhM94-t8M
 speaker: Joseph Wang
@@ -31,7 +29,6 @@ tags:
 - technology
 title: 市场周报：美股震荡与日本债券收益率飙升背后的逻辑
 ---
-
 ### 市场概览：美股波动与日本债券异动
 
 大家好，今天是11月22日，这里是《市场周报》。过去一周，市场经历了异常激动人心的时刻。

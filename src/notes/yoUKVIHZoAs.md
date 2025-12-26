@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: career
 companies_orgs:
 - Gartner
@@ -17,9 +17,7 @@ layout: post.njk
 products_models:
 - ChatGPT
 - Claude
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yoUKVIHZoAs
 speaker: TechButMakeItReal
@@ -34,7 +32,6 @@ tags:
 - work
 title: 2025年科技就业市场与招聘趋势深度解析
 ---
-
 ### 2025年科技就业市场概览
 
 我将详细解析2025年科技就业市场的所有关键信息，包括劳动力市场的变化、技能要求、人工智能（AI）的影响以及人才招聘策略的调整。企业正积极推动员工返岗，AI已主导绩效评估，年轻一代不愿担任管理职位，“假装成功直到你真的成功”（fake it till you make it）的心态也终于开始消退。如果你还在使用ChatGPT撰写简历，那么你必须听听这些，希望我能说服你重新思考。我们将从招聘乐观情绪和劳动力市场韧性开始。

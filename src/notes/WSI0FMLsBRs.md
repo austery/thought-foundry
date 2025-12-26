@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-10-07'
@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - peter-santenello
 products_models: []
-project:
-- cultural-critique
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WSI0FMLsBRs
 speaker: Peter Santenello
@@ -26,7 +24,6 @@ tags:
 - urban
 title: 深入纽约的遗忘之州：史泰登岛的真实面貌
 ---
-
 ### 导言：被低估的纽约第五区
 
 [jazz music]

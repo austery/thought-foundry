@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -14,10 +14,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 小翠时政财經
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ONi_0yPtwpM
 speaker: 小翠時政財經
@@ -31,7 +28,6 @@ tags:
 - state
 title: 苏宁破产重组：中国民企未来命运的四大铁律
 ---
-
 ### 苏宁的兴衰与债务危机
 
 大家好，欢迎回到小翠时政财經。今天是美东时间2025年10月28日。这期节目，我们要聊的是一家从江苏首富一路跌到破产重组的老牌民企——苏宁。这家连续多年稳居江苏民营企业百强榜第一的老牌巨头，如今也终于走到了要靠法院接管、靠国资托底的那一步。

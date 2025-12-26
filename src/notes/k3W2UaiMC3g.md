@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 麦当劳
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《我用中文做了场梦》
 products_models: []
-project:
-- cultural-critique
-- knowledge-pipeline
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k3W2UaiMC3g
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - society
 title: 我用中文做了场梦：一个意大利人在中国的隔阂、连接与书写
 ---
-
 ### 一场始于南京的梦
 
 我叫阿雷，来自意大利。今天在屏幕上看到的三个名字——阿雷、雅丽、阿里山德——都是我。阿雷是我的中文名，雅丽是中文老师给我起的名字，阿里山德则是我父母为我取的意大利原名。这个名字在意大利语中意为“保护人类”，所以不要小看意大利父母，他们也懂得把希望寄托在下一代身上。

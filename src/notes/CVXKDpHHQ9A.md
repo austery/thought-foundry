@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - YouTube
@@ -23,10 +23,7 @@ people:
 - 吴京
 products_models:
 - 高德地图
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CVXKDpHHQ9A
 speaker: 張内咸
@@ -42,7 +39,6 @@ tags:
 - youtube-content-creation
 title: 张内咸脱口秀：从节目延误到“请喝茶”的幽默与反思
 ---
-
 ### 节目延误的幕后与观众的“担忧”
 
 大家好，我是张内咸。非常抱歉，上周节目上线时间稍微晚了一点，按照北京时间大概是凌晨12点半才上线，算是一次小失误。我的节目是每周六晚上发布，但具体时间定不了那么准。首先，这档节目的制作难度太大，非常费时间，耗时耗力。再加上YouTube后台有很多复杂的问题，对我这种商业频道的要求又很高。如果你只是随便开个号做着玩，那些问题肯定遇不到；但如果你是它的business partner，后台就会经常给你找麻烦，导致我们的效率进一步降低，更难控制时间。

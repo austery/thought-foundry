@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Meta
@@ -38,10 +38,7 @@ products_models:
 - GPT-3
 - Gemini 2.5 Pro
 - o1系列
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0mrko3cYqBs
 speaker: 硅谷101
@@ -56,7 +53,6 @@ tags:
 - research
 title: 失衡的乌托邦：Meta开源AI路线的滑铁卢与组织重构
 ---
-
 ### Meta AI裁员与Llama 4滑铁卢的背景
 
 2025年10月底，Meta AI部门宣布裁员600个职位，甚至核心部门的研究总监、掌管AI业务的高管纷纷离职或被边缘化。就连**图灵奖**（Turing Award: 计算机科学领域的最高荣誉）得主Yann LeCun也被认为自身难保。在看到新闻时，我们感到震惊，一方面马克·扎克伯格（Mark Zuckerberg）正用上亿美元的年薪去挖AI人才，但同时又如此决绝地裁员。这种割裂行为背后的原因是什么？

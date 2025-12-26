@@ -15,9 +15,7 @@ media_books:
 people:
 - Nicholas Maduro
 - Jerome Powell
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hsYdXRiDFFM
 speaker: New York Times Podcasts
@@ -29,7 +27,6 @@ tags:
 - regulatory
 title: FEMA 削减援助，特朗普‘黄金卡’签证开放，以及其他新闻速递
 ---
-
 ### FEMA 削减灾难援助：政治动机引发担忧
 
 近期，美国联邦紧急事务管理局（FEMA）在灾难援助方面采取了更为保守的姿态，这引起了广泛关注。马里兰州西部港镇（Western Port, Maryland）遭受了严重的洪水侵袭，造成了巨大的破坏，包括房屋被淹、车辆和碎片漂浮在街道上。在评估了约3000万美元的清理费用后，当地官员向FEMA提交了财政援助申请，但却被两次拒绝。

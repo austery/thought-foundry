@@ -14,8 +14,7 @@ products_models:
 - Chrome
 - React
 - Express
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wVS-J7lRLlg
 speaker: AI超元域
@@ -28,7 +27,6 @@ tags:
 - history
 title: "\U0001F680丢掉playwright吧！Claude Code原生支持Chrome浏览器！全自动调用Chrome开发React组件、自动发现Bug、自动修复，自动化测试API接口！全自动化开发流程实测！#ai"
 ---
-
 ### Cloud Code 原生支持 Chrome
 Cloud Code 最新版，现在已经原生支持调用 **Chrome** (浏览器: Google Chrome: Google 开发的网页浏览器) 浏览器了。我们只需要将 **Cloud Code** (AI 编程助手: 一个用于代码生成、调试和自动化任务的 AI 工具) 升级到最新版本，然后在 **Cloud Code** 中使用斜杠命令，加上 `chrome` 就可以进入 **Chrome** 浏览器的设置。在是否默认启用这里，我这里设为了启用，而且这里还可以管理权限。
 

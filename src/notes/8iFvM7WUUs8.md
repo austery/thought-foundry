@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Hugging Face
@@ -19,10 +19,7 @@ products_models:
 - BERT
 - Claude
 - iPad
-project:
-- ai-impact-analysis
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8iFvM7WUUs8
 speaker: Hung-yi Lee
@@ -38,7 +35,6 @@ tags:
 - model
 title: 解剖大型语言模型：深入理解其内部运作机制
 ---
-
 ### 引言：课程目标与核心概念
 
 今天，这是我们课程的第三讲，我们将深入探讨语言模型内部的运作机制。到目前为止，我们反复强调语言模型所做的事情，就是给定一个未完成的句子，让它输出一个概率分布，预测接下来可以接每一个**Token**（词元: 语言模型处理的最小文本单元）的概率。我们也反复讲过，这个语言模型就是一个函数，我们写作 F。未完成的句子写作 X，输出写作 F(X)。在上一堂课中，我们讲解了如何选取合适的 X，以得到你想要的 F(X)。在这一堂课中，我们将关注 F 内部是如何运作的，即给定 X 以后，F 里面到底发生了什么事，才让我们看到 F(X) 呈现出某种样子。

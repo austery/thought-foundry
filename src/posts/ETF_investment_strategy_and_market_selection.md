@@ -14,9 +14,7 @@ people:
 - Lei
 - Frank
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: ''
 speaker: ''
@@ -27,7 +25,6 @@ tags:
 - stock
 title: ETF投资深度探讨：如何选择市场、构建投资组合与风险管理
 ---
-
 ## 开场与投资反思
 
 Frank: 你对 **ETF** (交易所交易基金：一种跟踪市场指数、可以在证券交易所自由买卖的开放式基金) 有什么研究吗？还是说无所谓？

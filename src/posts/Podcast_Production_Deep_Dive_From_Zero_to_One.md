@@ -1,10 +1,9 @@
 ---
 title: 关于播客制作的深度对谈：从零到一的经验分享
 summary: null
-area: personal-growth
+area: "life-family"
 category: psychology
-project:
-- personal-growth-lab
+project: []
 tags:
 - community
 - personal-growth
@@ -23,7 +22,6 @@ layout: post.njk
 series: null
 source: null
 ---
-
 **讲述者简介**
 
 **主持人Vincent：**新范三人行播客主持人，前软件架构师，现为创业者，热衷于通过对话和活动链接社群，探索不同的人生故事。

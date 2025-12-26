@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Shopify
@@ -16,10 +16,7 @@ media_books:
 - The Rundown
 people:
 - Jeyan Jeganathan
-project:
-- entrepreneurship
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cn2BEi6zF5Q
 speaker: TVO Today
@@ -33,7 +30,6 @@ tags:
 - venture-capital-funding
 title: 加拿大科技创新与私募股权的挑战：本土增长与外部收购的博弈
 ---
-
 ### 加拿大科技创新：本土增长的困境
 
 **主持人:** Shopify经常被誉为加拿大科技的成功典范，它在这里创立，总部也设在这里。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国民党
@@ -34,10 +34,7 @@ people:
 - 李鸿章
 - 达赖喇嘛
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3JXej6KgqM0
 speaker: 东京人文论坛
@@ -50,7 +47,6 @@ tags:
 - political
 title: 中国民主化的未来：为何更可能走向俄罗斯模式而非台湾模式？
 ---
-
 ### 台湾民主化叙事的困境：蓝绿阵营的视角差异
 
 **陈宜中（主持人）**：今天大家可以讨论的问题很多，除了关于美国政治与民主的提问，最后也牵扯到了中国大陆的话题。我知道这一直是伍雷律师特别关切的题目。伍雷曾问我，能否安排人来讲台湾的民主转型。我想了很久，一直想不出合适的人选。

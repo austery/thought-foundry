@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-09-26'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9RMvKWHgyF8
 speaker: 硅谷101
@@ -25,7 +23,6 @@ tags:
 - technology
 title: 机器人灵巧手：从“不可能三角”到六大技术门派的突破之路
 ---
-
 ### 机器人灵巧手：比走路更难的终极挑战
 
 让机器人学会走路难，还是让它学会打开一听可乐难？大多数人可能会认为走路更难，毕竟人类经历了数百万年才实现直立行走，波士顿动力（Boston Dynamics）的机器人也历经无数次摔倒才学会后空翻。然而，最近的采访揭示了一个颠覆认知的现实：在机器人领域，开启可乐的难度远超走路。这意味着控制**灵巧手**（Dexterous Hand: 专门指高度仿人、具有多自由度、能够完成精细操作的机器人手）的难度，至少是控制机器人躯体的十倍。

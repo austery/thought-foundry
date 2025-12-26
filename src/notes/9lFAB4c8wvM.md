@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - United Nations
@@ -15,10 +15,7 @@ people:
 - Joe Biden
 - Donald Trump
 - Recep Tayyip Erdoğan
-project:
-- geopolitics-watch
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9lFAB4c8wvM
 speaker: 郭里有范
@@ -31,7 +28,6 @@ tags:
 - war
 title: 苏丹内战：代理人战争下的种族灭绝与大国博弈
 ---
-
 ### 法希尔大屠杀：人间炼狱的开端
 
 我想请大家回忆一下，2025年10月26号那天，你在做什么？喝啤酒，看足球，还是跟家人享受了一顿周末大餐。不管你在做什么，但对于生活在苏丹法希尔城的成千上万人来说，这一天到了他们生命的最后时刻。苏丹的快速支援部队（Rapid Support Forces, RSF）在把城市围困了18个月之后，终于突破了政府军防线攻进了城里。紧接着就是大屠杀。RSF入城之后，就掐断了公共通信，没有确切消息传出来。但是通过卫星图片可以看到地面上有成滩的血迹，成堆疑似的白色裹尸袋，还有类似万人坑的那种挖掘痕迹。最保守的估计是至少已经屠杀了2500人。而耶鲁大学人道主义研究室给出的数据，一周的大屠杀就可能已经超过了加沙冲突两年（注：此处原文为“两年”，但根据上下文和现实时间线，应为“两年”或“多年”的误读，此处保留原文表述）的丧生人数。丧心病狂的RSF士兵，甚至跟被处决的人合影录视频，发到社交媒体上炫耀。

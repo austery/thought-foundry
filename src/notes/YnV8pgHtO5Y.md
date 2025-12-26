@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - UCSF
@@ -16,9 +16,7 @@ people:
 products_models:
 - AlphaFold
 - Diffusion Model
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YnV8pgHtO5Y
 speaker: a16z
@@ -31,7 +29,6 @@ tags:
 - scientific
 title: AI如何加速基础科学，以本世纪末治愈所有疾病
 ---
-
 ### AI与生物学：弥合鸿沟，加速发现
 
 Mark: 这是一个，我认为，**人工智能**（AI: Artificial Intelligence，模拟人类智能的机器或程序）将发挥巨大作用的领域。

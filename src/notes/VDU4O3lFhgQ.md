@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Mastercard
@@ -19,10 +19,7 @@ people:
 - Jane Fraser
 products_models:
 - Apple Pay
-project:
-- investment-strategy
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VDU4O3lFhgQ
 speaker: Norges Bank Investment Management
@@ -36,7 +33,6 @@ tags:
 - leadership-principle
 title: 万事达卡CEO迈克尔·米巴赫：支付的未来、AI与全球领导力
 ---
-
 ### 欢迎与万事达卡CEO迈克尔·米巴赫对话
 
 大家好，我是**挪威主权财富基金**（Norges Bank Investment Management: 管理挪威政府全球养老基金的机构）的首席执行官**尼古拉·坦根**（Nicola Tangen）。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Google
@@ -19,10 +19,7 @@ people:
 products_models:
 - AI
 - AlphaGo
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I4l1fr-t3ZE
 speaker: Big Think
@@ -35,7 +32,6 @@ tags:
 - storytelling
 title: 尤瓦尔·赫拉利：末日始于有毒信息——AI时代的信息洪流与社会重塑
 ---
-
 ### 尤瓦尔·赫拉利：人类的悖论与信息的本质
 
 历史学家尤瓦尔·赫拉利（Yuval Noah Harari）在其著作《Nexus》中，提出了一个核心问题：人类如此聪明，为何又如此愚蠢？我们能够登陆月球、破译 DNA，却似乎正走向生态崩溃、世界大战，甚至被我们自己创造的强大技术——人工智能（AI）所控制或毁灭。这本书探讨了人类历史中知识与自我毁灭之间的奇异动态。传统观点认为问题源于人性本身，但《Nexus》给出的答案不同：问题不在于人性，而在于我们接收和传播的信息。即使是善良和智慧的人，在接收到错误信息时，也会做出糟糕的决定。

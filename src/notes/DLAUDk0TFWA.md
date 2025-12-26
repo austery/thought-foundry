@@ -1,10 +1,9 @@
 ---
 title: 美国最高法院大法官吵架的事
 summary: null
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- us-analysis
+project: []
 tags:
   - 司法制度
   - 法律与公平

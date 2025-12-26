@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 世界银行
@@ -15,9 +15,7 @@ products_models:
 - 空客A321 XLR
 - 空客A350
 - 图-154M
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zfcFxeaGBLQ
 speaker: 一席YiXi
@@ -31,7 +29,6 @@ tags:
 - technology
 title: 航空安全：90%事故源于人为因素及其防范之道
 ---
-
 ### 航空业的规模与安全性：被误解的现实
 
 大家好，我是科学作家瘦驼。在我的职业生涯中，我撰写了许多与航空相关的科幻作品，也因此结识了航空领域的众多专业人士，包括飞机设计师、制造商、飞行员、维修人员、空中管制员、飞行员培训师，甚至还有飞机的销售和拆解人员。飞机最终都会走向拆解的结局，就像人类终将离开世界一样。简而言之，我基本接触了航空工业全生命周期中的所有产业链环节，这让我对航空系统有了更深入的理解——它并非易事，而是令人惊叹的复杂系统。

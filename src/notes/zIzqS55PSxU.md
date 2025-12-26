@@ -18,10 +18,7 @@ people:
 - Donald Trump
 - Napoleon
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zIzqS55PSxU
 speaker: 政經孫老師
@@ -34,7 +31,6 @@ tags:
 - strategy
 title: 欧洲为何难以重现辉煌：从科耶夫的拉丁帝国构想到现实困境
 ---
-
 ### 欧洲衰落的深层逻辑
 
 今天我们来探讨一下欧洲的底层逻辑，以此补全之前关于美国、俄罗斯和中国底层逻辑的系列。选择这个话题也是考虑到当前的现实原因，例如欧洲目前正与伊斯兰文明发生碰撞，内部矛盾重重，社会一片混乱。欧洲在政治、经济、社会意识形态等方面都面临着巨大的问题。

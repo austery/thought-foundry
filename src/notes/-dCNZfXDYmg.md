@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - DeepSeek
@@ -37,9 +37,7 @@ products_models:
 - H100
 - TPU
 - Grok
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-dCNZfXDYmg
 speaker: 老科谈科技股
@@ -52,7 +50,6 @@ tags:
 - large-language-model
 title: 2025年AI赛道回顾与2026年热点展望：大模型与基础设施的新格局
 ---
-
 ### 2025年AI赛道回顾：惊喜与意外
 
 2025年即将结束，AI赛道充满了惊喜和意外。从年初的Deepseek到年尾的Gemini 3，龙头英伟达也经历了从年初的质疑到年中因AI数据中心建设热潮而备受追捧，再到四季度Gemini 3发布后再次受到质疑的过山车式发展。本文将梳理2025年AI热点的切换，侧重于大模型和AI基础设施，并展望2026年AI的热点。

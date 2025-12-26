@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Google
@@ -18,8 +18,7 @@ people:
 - Andy Jones
 products_models:
 - Transformers
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cPu3SecmgUU
 speaker: Dwarkesh Patel
@@ -34,7 +33,6 @@ tags:
 title: How They Became Leading AI Researchers in Just 1 Year – Sholto Douglas & Trenton
   Bricken
 ---
-
 ### 快速成长之路
 
 主持人 **Dwarkesh Patel** 感到好奇，想了解嘉宾 **Sholto Douglas** 和 **Trenton Bricken** 是如何在一年或一年半的时间里，在各自的领域做出重要贡献的。他提到，这其中固然有运气成分，但他也感觉自己很幸运，在职业发展的不同阶段，时机都恰到好处，帮助他迈向了新的成长高度。

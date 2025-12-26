@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -38,10 +38,7 @@ people:
 - Vladimir Putin
 - Kamala Harris
 - Vinod Khosla
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zAkj8tOq3kQ
 speaker: Norges Bank Investment Management
@@ -55,7 +52,6 @@ tags:
 - trade-tariff
 title: 经济学家肯尼斯·罗格夫：解析特朗普关税、通胀风险与中美经济变局
 ---
-
 ### 序言
 挪威主权财富基金负责人尼古拉·坦根 (Nicolai Tangen) 邀请到了全球金融和经济史领域的权威专家肯尼斯·罗格夫 (Ken Rogoff)。罗格夫因其与卡门·莱因哈特 (Carmen Reinhart) 合著的开创性著作《这次不一样》(This Time It's Different) 而闻名。在本次对话中，罗格夫就当前全球经济、特朗普政府的政策影响、美元的未来、中美关系以及通货膨胀等关键问题分享了他的深刻见解。
 

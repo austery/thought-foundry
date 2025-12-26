@@ -19,10 +19,7 @@ people:
 - Joe Weisenthal
 - Susan Collins
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SzjWJA0glbI
 speaker: Bloomberg Podcasts
@@ -35,7 +32,6 @@ tags:
 - tariffs-economic-impact
 title: 波士顿联储主席柯林斯：降息需权衡通胀与就业风险，关税与AI影响深远
 ---
-
 ### 波士顿联储经济会议：全球变局下的美国经济
 
 欢迎收听新一期**Odd Lots**播客。我是Tracy Alloway。

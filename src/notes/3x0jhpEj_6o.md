@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -25,8 +25,7 @@ products_models:
 - Codeex
 - Sora
 - Cursor
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3x0jhpEj_6o
 speaker: a16z
@@ -40,7 +39,6 @@ tags:
 - reinforcement-learning
 title: OpenAI 如何服务 8 亿周活跃用户：模型专业化与微调
 ---
-
 ### OpenAI 的发展与 ChatGBT 的成功
 
 我们希望将 ChatGBT 作为一个第一方应用。

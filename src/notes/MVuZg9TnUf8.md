@@ -32,10 +32,7 @@ people:
 products_models:
 - ChatGPT
 - Siri
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MVuZg9TnUf8
 speaker: 小翠時政財經
@@ -48,7 +45,6 @@ tags:
 - geopolitical-economy
 title: AI时代投资前瞻：英伟达、苹果与巴菲特价值投资的启示
 ---
-
 ### 市场概览：A股、港股及小鹏汽车的崛起
 
 今天是美东时间2025年11月11日。首先关注A股市场，昨日高开低走，截至收盘，**沪指**（Shanghai Composite Index: 上海证券交易所的综合股价指数）下跌0.39%，**深成指**（Shenzhen Component Index: 深圳证券交易所的综合股价指数）下跌1.03%，**创业板指**（ChiNext Index: 深圳证券交易所创业板的股票价格指数）下跌1.4%。超硬材料概念股逆势大涨，原因是中国暂停了对超硬材料的出口管制。此外，光伏板块集体走强，大消费板块午后拉升。下跌方面，存储芯片板块调整，算力硬件股下挫。

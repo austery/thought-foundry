@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -100,10 +100,7 @@ products_models:
 - AWS
 - Project Kuiper
 - Grok
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Zddeo13g5Rg
 speaker: Amit Kukreja
@@ -118,7 +115,6 @@ tags:
 - technology
 title: 市场周评：谷歌AI引领科技股反弹，特朗普新政与美联储降息预期搅动全局
 ---
-
 ### 市场周初展望：感恩节前的平静与动荡
 
 大家早上好，欢迎回到新一期的市场开盘直播。现在是周一早上，我们正式开始了十一月的最后一周，这感觉有点疯狂，因为大约七天后我们就要进入十二月了，甚至很难想象 2025 年即将结束。

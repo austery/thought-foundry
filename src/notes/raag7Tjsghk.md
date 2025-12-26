@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Twitter
@@ -21,10 +21,7 @@ people:
 - 毛主席
 - Gunnar Myrdal
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=raag7Tjsghk
 speaker: 东京人文论坛
@@ -38,7 +35,6 @@ tags:
 - us-china-relations
 title: 美国民主衰退论：从竞选口号到文明断层线的深度剖析
 ---
-
 ## 引言：政治口号与现实
 
 现在美国在竞选，再过两天就最后投票了。

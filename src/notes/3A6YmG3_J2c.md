@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2024-09-05'
@@ -11,9 +11,7 @@ people:
 - 鲁迅
 - 周作人
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3A6YmG3_J2c
 speaker: 大问题Dialectic
@@ -26,7 +24,6 @@ tags:
 - validity-reliability
 title: 逻辑学导论：论证的三要件、有效性与可靠性
 ---
-
 ### 论证与说服的内功心法：逻辑学
 
 你好，我是夏栋，欢迎来到《论证与说服50讲》。从今天这一讲开始，我们将深入探讨论证与说服这门功夫的“内功心法”修炼，即确保你的论证符合逻辑，是讲得通道理的。逻辑学是一门放诸四海而皆准的学问。

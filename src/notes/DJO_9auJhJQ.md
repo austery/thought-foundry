@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - NASA
@@ -15,9 +15,7 @@ media_books:
 - 2010, Odyssey Two
 products_models:
 - Galileo
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DJO_9auJhJQ
 speaker: veritasium
@@ -32,7 +30,6 @@ tags:
 - tidal-heating
 title: 木卫二：在木星的致命辐射带中寻找地外生命
 ---
-
 ### 寻找地外生命的希望：木卫二
 
 亚瑟·C·克拉克（Arthur C. Clarke）的《2001太空漫游》（2001, A Space Odyssey）有一部续集，名为《2010太空漫游》（2010, Odyssey Two）。在故事的结尾，一个外星智慧将**木星**（Jupiter：太阳系中最大的行星）变成了一颗恒星。当一群宇航员险些逃脱内爆时，他们收到了来自外星人的信息：“所有这些世界都属于你们，除了**木卫二**（Europa：木星的第四大卫星，也是太阳系中第六大卫星），不要试图在那里着陆。”虽然这只是一部小说，但它表明早在1982年，我们就怀疑木卫二可能提供了我们在太阳系中寻找地外生命的最佳机会。四十二年后，也就是2024年10月，**美国国家航空航天局**（NASA：负责美国太空计划、航空研究以及行星探索的联邦机构）正在发射最先进的任务来寻找地外生命的迹象，而它的目的地正是木星的卫星木卫二。然而，只有一个问题：木星会杀死它周围的一切。那么，生命如何能在那里存在？以及如何制造一个能够承受危险条件的探测器呢？

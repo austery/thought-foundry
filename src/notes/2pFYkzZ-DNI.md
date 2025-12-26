@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Department of Homeland Security
@@ -30,10 +30,7 @@ people:
 - Hillary Clinton
 products_models:
 - '[]'
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2pFYkzZ-DNI
 speaker: 徒步的騎手
@@ -47,7 +44,6 @@ tags:
 - presidential-power
 title: 特朗普启动‘外国敌人法案’：历史沿革、宪法争议与美国民主的韧性
 ---
-
 ### 特朗普启动“外国敌人法案”的背景与争议
 
 3月15日是星期六，我与一群朋友在山姆休斯顿国家森林徒步走了约20公里。由于刚下过雨，一些低洼路段变成了沼泽，大家在泥泞中跋涉，鞋上和裤脚上沾满了泥水，甚至有两名队友不慎掉入水中。临近结束时，大家已精疲力尽、饥肠辘辘，开始专门聊起美食。我开玩笑说，此刻我最想要一个“知识汉堡”外加一杯冰镇啤酒。开车回家的路上，我一边寻找汉堡店，一边收听新闻。新闻报道称，几个小时前，特朗普总统颁布了**行政命令**（Executive Order: 美国总统发布，具有法律效力的指令，无需国会批准），启动了战时**外国敌人法案**（The Alien Enemies Act: 授权总统在战争或外敌入侵期间拘留、重新安置或驱逐对美国构成威胁的外国人）。随后，国土安全部的两架飞机从德克萨斯州与墨西哥边境的哈林根起飞，分别飞往萨尔瓦多和洪都拉斯。飞机起飞不久，首都华盛顿联邦法院的一名法官勒令飞机掉头飞回美国。萨尔瓦多总统不久后在媒体上表示“可惜晚了”。美国各大报纸都在显著位置报道了这一事件，下午我在社区健身房时，墙上的电视新闻也在持续报道。

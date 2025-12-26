@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: '[]'
 date: 2025-08-07
@@ -11,10 +11,7 @@ media_books: '[]'
 people:
 - John Maynard Keynes
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FiJJYqOhqBk
 speaker: 徒步的騎手
@@ -28,7 +25,6 @@ tags:
 - theory
 title: 中国崩溃论：后崩溃时代的价值废墟与个人避难所的构筑
 ---
-
 ## “崩溃综合症”：我们时代的精神流行病
 
 各位好，在讲**中国崩溃论**之前，先说几句我们这个时代一种非常流行的精神疾病。它不分国界，不分左右，感染力极强，我把它叫做**崩溃综合症**。

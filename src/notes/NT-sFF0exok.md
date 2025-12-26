@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P 500
@@ -59,10 +59,7 @@ people:
 - Mark Benioff
 - Anthony Noto
 - Bernie Sanders
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NT-sFF0exok
 speaker: Amit Kukreja
@@ -76,7 +73,6 @@ tags:
 - us-china-relations
 title: 英特尔财报惊艳市场，标普500指数逼近历史新高
 ---
-
 ### 市场全线上扬，标普500逼近历史高点
 
 大家好，欢迎回到《市场收盘》节目。今天我们有很多内容要谈。**标普500指数**（Standard & Poor's 500 Index: 标准普尔500指数，代表美国500家大型上市公司的股票指数）在收盘时正试图冲击历史新高。我们基本上回到了两周前的位置，这很令人欣喜。标普500指数目前报67194点。

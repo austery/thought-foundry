@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - New York Times Podcasts
@@ -34,10 +34,7 @@ people:
 - Lisa Cook
 products_models:
 - Bloomberg terminal
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TueVfNvyeTE
 speaker: New York Times Podcasts
@@ -51,7 +48,6 @@ tags:
 - stock-market-rally
 title: 为何股市持续上涨？解析市场逆势上扬的深层原因
 ---
-
 ### 市场逆势上扬的悖论
 
 来自《纽约时报》，我是娜塔莉·基特鲁夫，这里是《The Daily》节目。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Microsoft
@@ -17,10 +17,7 @@ people:
 - 唐石峻
 - 巴菲特
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aGQdYqum_Vc
 speaker: Shijun Tang
@@ -34,7 +31,6 @@ tags:
 - wealth
 title: 不要追求财富自由了，你应该追求这个：快乐与自由的真正路径
 ---
-
 ### 财富自由的幻觉：快乐源于现实与期待的平衡
 
 财富自由是为了不工作吗？这或许是许多人的终极目标。人们努力赚钱、投资，希望当资产达到一定规模后，就能停止劳碌，过上无忧无虑的生活。又或者，通过经营生意积累资本后，选择出售企业换取巨额收购款，再将资金投入低风险资产如房产指数、基金或国债，从此享受安逸人生。

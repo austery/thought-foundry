@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-14'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Fr_5Gk_w_o8
 speaker: EO
@@ -23,7 +22,6 @@ tags:
 - tech
 title: 人形机器人：下一个“iPhone时刻”？1X创始人谈创新、挑战与未来
 ---
-
 ### 创新文化：拥抱失败是进步之源
 
 我认为，接受失败并将其作为企业文化的一部分至关重要，因为若非如此，你就无法进行真正的创新。你所做的许多前所未有的事情，大多数情况下都是完全错误的。事后看来，这或许并非完全错误，可能只是有点愚蠢。你可能会想：“我们怎么会认为这会奏效呢？”但这正是游戏本质，也是创新运作的方式。

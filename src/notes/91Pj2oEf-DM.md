@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Coca-Cola
@@ -19,10 +19,7 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-project:
-- investment-strategy
-- market-cycles
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=91Pj2oEf-DM
 speaker: Bloomberg Podcasts
@@ -38,7 +35,6 @@ tags:
 - trend
 title: 牛奶行业的蛋白质热潮：Fairlife如何改变市场格局与乳业未来
 ---
-
 ### 播客开场与健身房牛奶现象
 
 **Tracy:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Alloway。

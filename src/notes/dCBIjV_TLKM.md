@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NVIDIA
@@ -29,10 +29,7 @@ people:
 products_models:
 - Tylenol
 - Advil
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dCBIjV_TLKM
 speaker: LT視界
@@ -46,7 +43,6 @@ tags:
 - us-china-relations
 title: 美国媒体深度剖析中美贸易战：真相、得失与脱钩挑战
 ---
-
 ### 中美贸易战的深层剖析：美国媒体的视角
 
 今天，我们将围绕中美贸易战这一主题，分享一些不能错过的重要新闻。目前，美国媒体正在集中、深层次地探讨中美贸易战的真相，他们跳出了党派利益之争，站在美国的根本利益上，检讨中美贸易战，并探索美国应对贸易战的新策略。无论我们持支持中国还是支持美国的立场，都有必要了解美国人是如何看待所谓的中美贸易战真相的，以及他们对未来中美贸易战发展有哪些策略和举措。特别是对于生活在中国的网友，可以比较中方在如何应对贸易战，以及中方下一步会有哪些战略性策略。通过美国最新的五方面报道，相信大家对中美贸易战的真相可能会有一个不一样的感受。

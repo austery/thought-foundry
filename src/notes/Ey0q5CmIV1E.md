@@ -35,10 +35,7 @@ products_models:
 - Firefly
 - ChatGPT
 - Sora
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ey0q5CmIV1E
 speaker: Norges Bank Investment Management
@@ -51,7 +48,6 @@ tags:
 - market
 title: Adobe CEO Shantanu Narayen：创新、领导力与AI时代的未来
 ---
-
 ### Adobe的使命与核心业务
 
 **Nikolai:** 大家好，今天我们采访的这位男士，他让我们在照片中看起来更美，并使我们每年能够打开4000亿个**PDF**（Portable Document Format: 一种独立于应用程序、硬件和操作系统，用于表示文档的文件格式）。

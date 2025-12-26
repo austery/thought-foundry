@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - OpenAI
@@ -19,10 +19,7 @@ people:
 products_models:
 - ChatGPT
 - Claude Opus 4
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1IQ9IbJVZnc
 speaker: Internet of Bugs
@@ -36,7 +33,6 @@ tags:
 - risk
 title: 揭露SciShow对AI的误导：发展速度、真实风险与行业宣传
 ---
-
 ### 对SciShow AI节目的批判
 
 SciShow 最近发布了一期关于人工智能的节目，尽管我喜欢 SciShow 并且讨厌 YouTuber 之间的争执，但我真的希望这一切没有发生。

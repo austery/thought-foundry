@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -10,8 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=O97WrG1Gny0
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -25,7 +24,6 @@ tags:
 - technology
 title: 塑膠微粒入侵大腦與身體：醫師揭示失智、肥胖、代謝差的潛在關聯及兩招排塑策略
 ---
-
 ### 塑膠微粒的普遍存在與健康威脅
 
 **陈威龙:** 嗨，大家好，我是初日醫學的陈威龙醫師。你知道你早上喝的拿鐵（紙杯）、一瓶礦泉水，到中午吃的便當，甚至到晚上的微波食品，研究發現我們平常吃的16種蛋白質可能也含有很多的塑膠。你可能會覺得很累、代謝差，但是你吃得卻很健康，也許你是吃進了過多的**塑膠微粒**（Microplastics: 直径小于5毫米的塑料碎片）。我們今天很開心邀請到基因醫師张家铭张醫師來到我們初日醫學的現場，跟我們觀眾來聊聊這個話題。我們歡迎张醫師。

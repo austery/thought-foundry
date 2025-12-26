@@ -13,9 +13,7 @@ media_books:
 people:
 - Jesse
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7kXE9a6i2dM
 speaker: TED
@@ -27,7 +25,6 @@ tags:
 - technology
 title: AI生成视频的乐趣：从披萨、UFO到重构现实
 ---
-
 ### 从“一无是处”到AI视频创业
 
 当我告诉姐姐我将上台发言时，她这样回复我：“还记得你老师和咱妈说你这辈子也不会有什么出息吗？” 确实，如果我是那位老师，我可能也会说同样的话。我从小就只喜欢探索和寻找乐趣。事实证明我是对的，如果不是为了好玩，我今天就不会站在这里。

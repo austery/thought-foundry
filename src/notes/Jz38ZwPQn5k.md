@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Wirecutter
@@ -45,7 +45,6 @@ tags:
 - tech
 title: 电脑慢了怎么办？专家教你让旧电脑焕然一新
 ---
-
 ### 电脑慢了？先别急着换新！
 
 如果本次播客您能记住一件事，那就是请更新您的软件。请更新您的**操作系统**（Operating System: 管理电脑硬件与软件资源的程序）。更新您的电脑。

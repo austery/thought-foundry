@@ -55,9 +55,7 @@ products_models:
 - ChatGPT
 - Gemini
 - DeepSeek
-project:
-- investment-strategy
-- china-analysis
+project: []
 source: https://www.youtube.com/watch?v=1ikLMn2naSA
 speaker: ''
 status: evergreen
@@ -69,7 +67,6 @@ tags:
 - long-term-investing
 title: 段永平：我的投资与人生感悟
 ---
-
 ## 序言与投资理念快问快答
 
 方三文: 你觉得抄作业这个东西，它是不是一种可持续的投资方法？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -28,10 +28,7 @@ people:
 - Benjamin Netanyahu
 - Laura Loomer
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YqQTmJ_OBqo
 speaker: 北美王路飞
@@ -45,7 +42,6 @@ tags:
 - ukraine-war
 title: 特朗普与普京的交易：乌克兰与加沙危机背后的信任崩塌与地缘政治博弈
 ---
-
 ### 引言：超越人身攻击，理性审视国际政治
 
 大家好，欢迎来到本频道。今天我们将继续探讨特朗普和普京的“密会”。上期节目中，我们分享了米尔斯海默教授的观点，引发了一些关于他“亲俄”或“大俄宣”的质疑。然而，我认为这些说法往往是基于对不认同观点的一种**人身攻击**（Ad Hominem: 逻辑谬误的一种，通过攻击提出观点的人而非观点本身来试图否定其论证）。这种做法是懒惰的，因为它回避了对观点逻辑本身的反驳。我们应该深入思考如何根据其逻辑进行反驳，而非仅仅攻击发言者的身份。

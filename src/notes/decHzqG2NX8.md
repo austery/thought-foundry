@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Tencent
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - CRISPR
-project:
-- systems-thinking
-- entrepreneurship
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=decHzqG2NX8
 speaker: TED
@@ -28,7 +25,6 @@ tags:
 - manufacturing
 title: 如何将污染转化为玩具、牙膏及更多产品：加速低碳解决方案
 ---
-
 ### 科学、工程与商业：加速低碳转型
 
 人类使用酒精已有数千年历史。

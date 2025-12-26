@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: productivity
 companies_orgs: []
 date: '2024-01-14'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=R0L3U0HRYGA
 speaker: 一口新飯
@@ -24,7 +23,6 @@ tags:
 - technology
 title: 坚持5点起床『第二年』：我的5-am project实践、感悟与社群邀请
 ---
-
 ### 5-am Club：开启早起新篇章
 
 一年前，我分享了5点起床一年后的感悟视频，其播放量超过170万。如今又一年过去，我觉得有必要和大家分享过去一年我早起所做之事及新的感悟。我有一个想法，希望设计一个**5-am club**（五点早起俱乐部: 一个鼓励早起并利用早晨时间进行个人成长的网络社群），让更多人在新的一年里加入，为人生带来改变。请放心，这个5-am club任何人都可以免费参加，它更像是一项网络运动。我将提供一份完整的教程，分享我的经验和方法，并且我的**YouTuber**（视频博主: 在YouTube上创建和发布视频内容的人）朋友还设计了一套**Notion**（一款集笔记、任务管理、数据库等功能于一体的生产力工具）和**PDF**（Portable Document Format: 便携式文档格式，一种通用文档格式）电子模板供大家使用，稍后将详细讲解其使用方法。

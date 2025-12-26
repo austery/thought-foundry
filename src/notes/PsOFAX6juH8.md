@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - SoFi
@@ -51,10 +51,7 @@ products_models:
 - Vision Pro
 - iPhone
 - Starlink
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PsOFAX6juH8
 speaker: Amit Kukreja
@@ -69,7 +66,6 @@ tags:
 - private-market-valuation
 title: SpaceX估值飙升至8000亿美元，SoFi无缘标普500指数
 ---
-
 ### 周五市场回顾与PCE数据
 
 大家好，欢迎回到新一期的市场收盘节目。今天是12月5日，星期五，我们正在直播。今天盘中并没有发生太多疯狂的事情。

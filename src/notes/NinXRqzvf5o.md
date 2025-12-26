@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: science
 companies_orgs:
 - 初日診所
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NinXRqzvf5o
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -24,7 +22,6 @@ tags:
 - performance
 title: 微生物免疫學家：益生菌如何助力肌肉恢復與耐力提升？
 ---
-
 ### 腸道菌群與肌肉健康的奧秘
 
 **宋晏仁醫師:** 為了增肌，我吃了好多蛋白質，但還是長不出肌肉，這是為什麼呢？問題可能出在腸道菌。研究發現，當我們吃下纖維時，腸道裡的菌會將其分解成**短鏈脂肪酸**（Short-chain fatty acids: 由腸道菌發酵膳食纖維產生的一類脂肪酸），例如**乙酸**（Acetate）、**丙酸**（Propionate）、**丁酸**（Butyrate）。這些分子不只是腸道的養分，它更能抑制發炎、提升**粒腺體**（Mitochondria: 細胞的能量工廠）的能量代謝，甚至促進**肌蛋白**（Muscle protein: 構成肌肉的主要蛋白質）的合成，讓肌肉恢復得更快，持續變強。

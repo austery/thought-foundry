@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 author: 三個水槍手
 category: general
 companies_orgs: []
@@ -12,7 +12,7 @@ people:
 - 武律
 - 贾老师
 products_models: []
-project: china-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=B-YK7B0UP0g
 speaker: ''
@@ -24,7 +24,6 @@ tags:
 - public-opinion
 title: 深度剖析张雪峰：投机者、爱国者还是骗子？
 ---
-
 ### “捐款攻台”言论引发的争议
 
 李厚辰: 最近有一个视频大家应该都看见了，一个叫张雪峰的人，对着一个中青年男性，一边踱步一边拿话筒讲，说打台湾，他立马捐五千万，他们公司捐一亿，现金就趴在那，就等开战的一枪。枪一响，钱就准备好了。二位看到这个视频的第一情绪是什么？

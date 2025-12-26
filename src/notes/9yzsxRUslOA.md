@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - lt
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9yzsxRUslOA
 speaker: LT視界
@@ -24,7 +22,6 @@ tags:
 - uk-china-relations
 title: 国师孙立平呼吁关注农村困境，中美关系再起波澜，法国政坛动荡
 ---
-
 ### 财经头条：人工智能基础设施投资潮涌
 
 今日财经头条聚焦于人工智能领域的大规模合作。美国超微半导体公司（AMD）与OpenAI达成了一项价值数百亿美元的人工智能基础设施协议，OpenAI将在多年内部署6000兆瓦的AMD图形处理单元，AMD则向OpenAI授予大量认股权证，此举被解读为双方联手推高股价的信号。

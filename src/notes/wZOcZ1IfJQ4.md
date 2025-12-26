@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Rolls-Royce
@@ -50,10 +50,7 @@ people:
 - 伊藤博文
 - 梁启超
 - 章太炎
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wZOcZ1IfJQ4
 speaker: 柴静 Chai Jing
@@ -66,7 +63,6 @@ tags:
 - history
 title: 《河殇》：对黄色文明的深刻反思与蓝色文明的呼唤
 ---
-
 ### 第一集：寻梦
 
 1987年6月13日，黄河吞没了两支正在进行漂流探险的中国队伍。这些年轻人之所以要进行这次漂流，据说是不愿让美国人拿走“中国江河首漂”的荣誉。美国探险家肯·沃伦对此很不理解，他说：“如果你们中国人到美国来漂流密西西比河，我们是不会反对的。”他无法将这次漂流与一百年前西方列强的炮舰联系起来，但中国的青年们却无法忘记。

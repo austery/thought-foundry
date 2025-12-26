@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -23,9 +23,7 @@ people:
 - Ronald Reagan
 - J.D. Vance
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FUkQpOipBLA
 speaker: LT視界
@@ -39,7 +37,6 @@ tags:
 - us-economic-policy
 title: 川普为何再掀桌子？美联储降息路径与国际局势深度解析
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月24日。根据许多网友的建议和要求，从今天开始，我们会把这个节目分成两个专栏分别发布。
 
 ### 频道栏目调整说明

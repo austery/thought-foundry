@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -24,10 +24,7 @@ people:
 products_models:
 - OxyContin
 - F-35
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FpOO3__SNlA
 speaker: New York Times Podcasts
@@ -40,7 +37,6 @@ tags:
 - trend
 title: 70亿美元阿片类药物和解、特朗普为沙特王储辩护及其他要闻
 ---
-
 ### 美国近期要闻速览
 
 来自《纽约时报》的头条新闻。我是特雷西·芒福德。今天是11月19日星期三。以下是我们今天将报道的内容。

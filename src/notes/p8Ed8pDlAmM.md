@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Oracle
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 media_books:
 - TED
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p8Ed8pDlAmM
 speaker: TED
@@ -26,7 +24,6 @@ tags:
 - power
 title: AI如何化解自身能源危机：灵活性是关键
 ---
-
 ### AI如何化解能源危机：灵活性是关键
 
 在亚利桑那州凤凰城一个酷热的日子里，当数百万台空调推高了电力负荷时，一群耗能巨大的**人工智能**（Artificial Intelligence: 模拟人类智能的计算机系统）服务器却逆势而行，提供了帮助。在一家甲骨文（Oracle）数据中心，这些AI计算机在三小时内将其功耗降低了25%，为当天的高峰需求提供了完美的时机支持。至关重要的是，先进的英伟达（Nvidia）芯片在此期间仍能满足其任务的严格性能要求，包括训练、微调和使用AI大型语言模型。

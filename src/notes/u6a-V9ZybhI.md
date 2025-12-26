@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - FAA
@@ -22,9 +22,7 @@ products_models:
 - Raptor engine
 - Falcon 9
 - Boeing 747
-project:
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u6a-V9ZybhI
 speaker: 海伦子Hellen
@@ -38,7 +36,6 @@ tags:
 - technology
 title: 星舰六飞：FAA绿灯、特朗普亲临与技术突破全解析
 ---
-
 ### 星舰六飞：审批加速与政治关注
 
 大家好，今天我们一起来回顾一下**星舰**（Starship: SpaceX正在开发的一款完全可重复使用的超重型运载火箭系统）的第六次飞行。感觉就像刚刚才说完星舰的第五次飞行，现在就开始讨论第六次了。不过，这一次确实是间隔时间最短的一次，距离第五次飞行只有37天。毕竟第五次和第六次飞行是一起获得批准的。这事实证明，只要**FAA**（美国联邦航空管理局: 负责民用航空安全和空域管理的机构）开绿灯，发射的动作可以非常迅速。

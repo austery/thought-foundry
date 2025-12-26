@@ -41,10 +41,7 @@ products_models:
 - ChatGPT
 - Alpha Picks
 - Covered Call ETF
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FR5KGfC06sQ
 speaker: Darren聊美股
@@ -58,7 +55,6 @@ tags:
 - stock-market-downturn
 title: 美股剧烈回调后的投资策略：加仓三支潜力股并深度解析AI泡沫
 ---
-
 ### 美股市场近期表现与投资机会
 
 大家好，我是Darren，欢迎回到我的频道。本周美股迎来了一波较为剧烈的下跌，尤其是在周四，市场遭遇了一记重锤。**标普 500**（S&P 500: 美国500家大型上市公司股票指数）当天直接下跌了1.5%，而**纳斯达克**（Nasdaq: 以科技股为主的美国股票市场指数）更是下挫2.5%。第二天开盘，市场情绪依然非常疲弱，标普盘前一度再次下探1%。虽然后来盘中出现反弹，将跌幅稍微拉回一些，但整个星期算下来，标普仍下跌了将近1%。

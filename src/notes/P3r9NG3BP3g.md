@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies:
 - meta-discipline
@@ -30,10 +30,7 @@ products_models:
 - DeepSeek
 - Gemini
 - ChatGPT
-project:
-- personal-growth-lab
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P3r9NG3BP3g
 speaker: 大问题Dialectic
@@ -46,7 +43,6 @@ tags:
 - thinking
 title: 在AI时代，为何我们更应学习哲学：打破“做题家”思维，培养元学科能力
 ---
-
 ### 告别“做题家”思维：AI时代下的挑战与反思
 
 大家好，欢迎收看大问题节目。本期我们要探讨的大问题是：为什么在这个时代，我们更应该学习哲学？

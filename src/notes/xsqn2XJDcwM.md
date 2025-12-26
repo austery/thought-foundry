@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -32,10 +32,7 @@ products_models:
 - Stargate
 - Sora 2
 - Meta AI
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xsqn2XJDcwM
 speaker: Bloomberg Podcasts
@@ -49,7 +46,6 @@ tags:
 - market-bubble-concern
 title: AI基础设施建设狂潮：数据中心、能源与“卖铲人”的投资机遇
 ---
-
 ### 欢迎来到Odd Lots
 
 [音乐]

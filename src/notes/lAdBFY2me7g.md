@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Sun Microsystems
@@ -19,9 +19,7 @@ media_books:
 people:
 - Vinod Khosla
 products_models: []
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lAdBFY2me7g
 speaker: Norges Bank Investment Management
@@ -35,7 +33,6 @@ tags:
 - venture-capital
 title: Vinod Khosla：未来已来——技术驱动的十二大趋势与投资哲学
 ---
-
 ### 播客简介与嘉宾介绍
 
 大家好，欢迎收听播客《**In Good Company**》（In Good Company: 挪威银行投资管理公司制作的播客）的精彩片段。我们决定为那些时间紧迫的人，将每集剪辑成仅10分钟的精华版。但你可能会发现，听完这10分钟后，你会想听完整版。我们每周三发布完整版，周五发布短版，敬请收听。

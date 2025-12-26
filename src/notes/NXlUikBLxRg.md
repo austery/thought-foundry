@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - pharmaceutical-marketing
@@ -26,10 +26,7 @@ products_models:
 - Valium
 - Fentanyl
 - Heroin
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NXlUikBLxRg
 speaker: 北美王路飞
@@ -42,7 +39,6 @@ tags:
 - regulatory
 title: 痛苦帝国：奥施康定如何引爆美国阿片危机
 ---
-
 ### 萨克勒家族的表象与奥施康定的阴影
 
 在纽约大都会艺术博物馆的萨克勒翼，阳光透过巨大的玻璃幕墙，洒落在丹泽神庙上。这里是人类文明的结晶，是艺术、历史和美的殿堂。在哈佛、耶鲁、牛津和卢浮宫，**萨克勒家族**（Sackler family: 普渡制药的拥有者家族）的名字被镌刻在人类最顶级的学术和艺术机构的墙壁上。这是一个曾代表着慷慨、博爱和高尚品味的家族。

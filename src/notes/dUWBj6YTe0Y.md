@@ -22,9 +22,7 @@ products_models:
 - Claude Sonnet 4.5
 - GPT-5.1
 - Nano Banana
-project:
-- ai-impact-analysis
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dUWBj6YTe0Y
 speaker: Best Partners TV
@@ -39,7 +37,6 @@ tags:
 - multimodal-ai
 title: 谷歌Gemini 3重磅发布：史上最智能AI模型，重新定义行业新标杆
 ---
-
 ### 引言：AI行业新标杆的诞生
 
 如果说过去两年的AI行业是群雄逐鹿的战国时代，那么今天，Google用一款重磅产品再次定义了行业的新标杆——**Gemini 3**正式发布了。作为Google DeepMind团队倾尽两年心血打磨的集大成之作，这款被称为史上最智能的**AI模型**（AI Model: 人工智能系统中的核心组件，通过算法和数据进行学习和推理）不仅在推理、**多模态**（Multimodal: 指AI系统能够处理和理解多种类型的数据，如文本、图像、音频、视频等）、编码等核心能力上实现了跨越式的突破，更是把AI的应用边界从工具辅助推向了主动协作的新高度。本期视频将全面拆解Gemini 3的各个细节，看看它到底藏着多少改变行业的硬实力，以及它会如何影响我们未来的工作和生活。

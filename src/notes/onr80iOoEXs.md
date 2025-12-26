@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-09-21'
 draft: true
@@ -16,9 +16,7 @@ people:
 - Henry
 - Jesse
 - Derek
-project:
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=onr80iOoEXs
 speaker: veritasium
@@ -32,7 +30,6 @@ tags:
 - unintended-consequence
 title: 从“死亡商人”到诺贝尔奖：阿尔弗雷德·诺贝尔与炸药的传奇
 ---
-
 ### 诺贝尔的觉醒：一则改变命运的讣告
 
 大多数人并不知道阿尔弗雷德·诺贝尔的真实故事。

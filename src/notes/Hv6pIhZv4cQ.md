@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -15,10 +15,7 @@ people:
 - Kamala Harris
 - Donald Trump
 - Natalie Kitroof
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hv6pIhZv4cQ
 speaker: New York Times Podcasts
@@ -32,7 +29,6 @@ tags:
 - public
 title: 拜登如何失去美国人对移民政策的信任
 ---
-
 ### 拜登政府的移民政策为何彻底失败？
 
 在拜登总统任内，美国边境的移民人数飙升至历史峰值。这一危机不仅摧毁了民主党在关键选民中的支持率，更成为特朗普重返白宫的核心政治叙事。《纽约时报》的记者克里斯·拉维尔通过深入调查发现，这场失败并非偶然——而是由一系列被忽视的预警、政治误判和决策瘫痪共同导致的系统性溃败。

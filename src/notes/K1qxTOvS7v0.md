@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -17,8 +17,7 @@ people:
 - Todd Blanch
 - Robert F. Kennedy Jr.
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K1qxTOvS7v0
 speaker: New York Times Podcasts
@@ -29,7 +28,6 @@ tags:
 - gun-violence
 title: 美国司法部发布爱泼斯坦文件，引发争议；美国枪支涌入加拿大
 ---
-
 ### 美国司法部发布爱泼斯坦文件，引发争议
 
 美国司法部近日部分释放了与杰弗里·爱泼斯坦相关的文件，但因大量删减而遭到国会部分议员的批评。他们认为司法部没有按照法律要求充分释放所有文件。

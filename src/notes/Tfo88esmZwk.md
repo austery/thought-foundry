@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -15,10 +15,7 @@ media_books:
 - Desert Island Discs
 - Hamilton
 - In Good Company
-project:
-- investment-strategy
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Tfo88esmZwk
 speaker: Norges Bank Investment Management
@@ -32,7 +29,6 @@ tags:
 - llm
 title: Aviva首席执行官Amanda Blanc：保险业的转型、领导力与社会责任
 ---
-
 ### 欢迎与Aviva首席执行官Amanda Blanc对话
 
 Nicolola Tangen: 大家好，我是**挪威主权财富基金**（Norges Bank Investment Management: 负责管理挪威政府全球养老基金的机构）的首席执行官Nicolola Tangen。今天，我们有幸邀请到**Aviva**（英国领先的保险公司）的首席执行官Amanda Blanc。

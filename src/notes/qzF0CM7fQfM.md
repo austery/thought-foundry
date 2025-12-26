@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: '[]'
 date: 2025-05-12
@@ -9,9 +9,7 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qzF0CM7fQfM
 speaker: 徒步的騎手
@@ -25,7 +23,6 @@ tags:
 - society
 title: 母亲像胶水一样把家粘在一起：中山道上的回忆与人生初体验
 ---
-
 ### 中山道上的花屋与母亲节的思念
 
 继续走在**中山道**（Nakasendō: 日本五街道之一，连接京都和江户的重要古道）上。这里是一家**家老客栈**（Kagoro Ryokan: 日本古代武士家庭的住所，后多指有历史的旅馆），据说已有200年历史，当年的烧火盆和铸铁壶都还在。昨天上路不久，看到路边有家花屋，门口的小黑板上写着一行字：“**Ocasa Arigato**”（日语: 谢谢妈妈）。我的日语虽然还不到幼儿园水平，也看懂了这句话，原来是母亲节到了。猛然间就想到母亲已经不在了。曾经在**油管**（YouTube: 一个视频分享平台）上看一个视频，一位老人叫Paul Offler，他年轻的时候白手起家，挣了很多钱，岁数大了以后做慈善。老人回忆自己的母亲，说年轻的时候，他母亲对他说：“你二十来岁，要放开去尝试；三十来岁的时候呢，得搞清楚自己这辈子适合干什么；四十来岁的时候呢，要努力工作，拼命挣钱；到了五十来岁呢，就别再拼了。”

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bridgewater
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - Greg Jensen
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DJSInohPQOE
 speaker: Norges Bank Investment Management
@@ -28,7 +26,6 @@ tags:
 - strategy
 title: 桥水基金的投资哲学：卓越源于持续改进与系统化思维
 ---
-
 ### 桥水基金的卓越哲学：持续改进是核心
 
 非常感谢邀请我。

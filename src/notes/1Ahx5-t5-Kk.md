@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -34,10 +34,7 @@ people:
 - John Turner
 products_models:
 - Bill 33
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1Ahx5-t5-Kk
 speaker: TVO Today
@@ -51,7 +48,6 @@ tags:
 - society
 title: 安大略省政要闻：技能基金丑闻、HST争议与立法博弈
 ---
-
 ### 欢迎与开场闲谈
 
 **Steve Paikin:** 欢迎大家收听**OnPy podcast**（On Politics podcast: 政治播客）。

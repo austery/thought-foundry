@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Fox News
@@ -26,10 +26,7 @@ people:
 - Martin Luther King Jr.
 products_models:
 - '[]'
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=htYyTecKXO0
 speaker: 徒步的騎手
@@ -43,7 +40,6 @@ tags:
 - judicial-independence
 title: 美国宪法危机了么？川普、司法权与民主的韧性
 ---
-
 ### 川普与司法权的冲突：宪法危机之辩
 
 在上周的节目中，我们提到**唐纳德·川普**（Donald Trump）总统发布公告，启动了**外国敌人法案**（Foreign Enemy Act: 旨在绕开法院程序直接遣返有犯罪记录的非法移民），但这项举措被联邦法院叫停。随后，川普总统在社交媒体上发帖称，那位叫停的法官应当被**弹劾**（Impeachment: 国会通过特定程序罢免公职人员的行为）。第二天，美国最高法院**首席大法官**（Chief Justice: 美国最高法院的最高司法官员）**约翰·罗伯茨**（John Roberts）发布正式声明，维护**司法独立性**（Judicial Independence: 司法机构不受行政或立法干预的原则）。在声明中，首席大法官指出，200多年来确立的规范是，不同意法院决定的正确回应方式不是弹劾，正常的司法上诉程序正是为此而存在的。美国最高法院首席大法官公开发布声明反驳总统的说法，这在美国历史上并不常见。在此事件之前，已有不少媒体和评论员讨论美国面临**宪法危机**（Constitutional Crisis: 国家权力机构无法正常运作，宪法原则受到严重挑战的局面）。此事件发生后，更多媒体和评论员开始大谈宪法危机，有的甚至说美国已经处于宪法危机之中。那么，究竟什么是宪法危机？美国真的已经处于宪法危机当中了吗？

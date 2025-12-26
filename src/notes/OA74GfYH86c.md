@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -19,10 +19,7 @@ products_models:
 - Model 3
 - Model Y
 - FSD
-project:
-- us-analysis
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OA74GfYH86c
 speaker: 海伦子Hellen
@@ -36,7 +33,6 @@ tags:
 - user-experience
 title: 特斯拉Robotaxi首次载人测试：细节、体验与未来展望
 ---
-
 ### 特斯拉Robotaxi首次载人测试启动
 
 特斯拉的**Robotaxi**（自动驾驶出租车: 一种无需人类驾驶员即可运行的共享出行服务）终于来了。此前我们曾探讨过特斯拉Robotaxi的竞争壁垒及车主加入Robotaxi车队的愿景。今天，我们将深入了解已公布的细节以及首批乘客的体验。

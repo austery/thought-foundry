@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Ford Motor Company
@@ -16,9 +16,7 @@ people:
 - Herbert Hoover
 - Aristotle
 - Socrates
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yxN75SZysFw
 speaker: 超級歪 SuperY
@@ -31,7 +29,6 @@ tags:
 - urban
 title: 台湾“行人地狱”的深层原因：汽车如何抢占路权，以及全球城市如何还路于民
 ---
-
 ### 台湾“行人地狱”的困境与争议
 
 众所周知，台湾素有“行人地狱”之称。去年，全国交通事故死亡人数高达3085人，创下自2013年有统计以来的新高。在伦敦生活时，即使在市中心步行半小时以上，也不会感到危险；但在台湾，走在街上却必须时刻保持警惕。当车辆拒绝让行并鸣笛时，究竟是行人的错，还是驾驶者的责任？

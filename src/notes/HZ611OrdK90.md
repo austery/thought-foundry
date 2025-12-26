@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-13'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - fearnation
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HZ611OrdK90
 speaker: FearNation 世界苦茶
@@ -25,7 +24,6 @@ tags:
 - us-foreign-policy
 title: 阿根廷经济困境：美国干预、国内改革与未来挑战
 ---
-
 ### 阿根廷的经济困境与美国出人意料的干预
 
 本期节目将探讨阿根廷的经济困境。阿根廷总统米莱上台之初推行的自由主义经济政策，曾一度被视为大获成功。然而，在中期选举前，该国不仅曝出任人唯亲的贪腐事件，经济也似乎遭遇了严峻挑战。

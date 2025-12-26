@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PW7MK-4jouw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -23,7 +21,6 @@ tags:
 - weight-management
 title: 减重医师李思贤的一天：健康生活与工作平衡的实践
 ---
-
 ### 清晨的健康习惯与锻炼
 
 李医师每天早上都会手冲一杯咖啡。我的妻子习惯不吃早餐。家中的宠物里昂今天享用生牛肉。由于天气较冷，我们会将肉稍微加热，模拟动物刚捕获时的状态，让它感觉像捕猎到小动物一样。

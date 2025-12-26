@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 华盛顿邮报
@@ -19,10 +19,7 @@ people:
 - 沃伦·巴菲特
 - 苏格拉底
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YpFnCZG2qKU
 speaker: Shijun Tang
@@ -36,7 +33,6 @@ tags:
 - mental-model
 title: 《穷查理宝典》精髓：查理·芒格的投资智慧与终身学习体系
 ---
-
 ### 查理·芒格与《穷查理宝典》：一部浓缩毕生智慧的投资经典
 
 查理·芒格是我心中的偶像。《穷查理宝典》（Poor Charlie’s Almanack）这本书的最新版本，在他去世前六天发布，但许多人仍不了解它的价值。事实上，这本书已是第五个版本——自2005年10月首版发行，到2023年11月最终版问世，历时整整18年66天。查理毕生积累的投资智慧、商业洞见与人生哲学，全部融汇在这本书中。它涵盖投资、商业乃至做人的根本道理。

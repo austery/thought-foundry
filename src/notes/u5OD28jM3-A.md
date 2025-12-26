@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 初日診所
@@ -15,8 +15,7 @@ people:
 products_models:
 - MBTI
 - ChatGPT
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u5OD28jM3-A
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -30,7 +29,6 @@ tags:
 - self
 title: 每个女人心里都藏着一个48公斤的魔咒：丹妮婊姐与邓雯心医师的自我疗愈对谈
 ---
-
 ### “48公斤魔咒”与自我批判
 
 **鄧雯心醫師:** 嗨，大家好，欢迎收看《女人疗心室》。很多人在三十五岁以后，身体都开始有些变化了，可是我们常常还是用二十岁的标准在逼自己、在要求自己。我们今天邀请的这位来宾，她说了一句话让我觉得很惊讶，她说：“我最大的敌人其实不是观众，也不是网友，我最大的批评者是我自己。”我们今天的来宾就是丹妮婊姐，欢迎她。

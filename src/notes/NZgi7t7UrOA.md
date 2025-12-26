@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BBC
@@ -21,10 +21,7 @@ people:
 - Bill Gates
 - Alan Dershowitz
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NZgi7t7UrOA
 speaker: 记者易速利
@@ -38,7 +35,6 @@ tags:
 - technology
 title: 爱泼斯坦案余波：安德鲁王子被剥夺王室头衔与弗吉尼亚·朱弗雷回忆录揭秘
 ---
-
 ### 安德鲁王子被剥夺王室头衔与荣誉
 
 65岁的**安德鲁王子**（Prince Andrew: 英国女王伊丽莎白二世的次子，约克公爵）被认为是与**爱泼斯坦案**（Epstein Case: 指美国金融家杰弗里·爱泼斯坦涉嫌性贩运未成年女性的丑闻及相关法律案件）牵连的名人中，证据最为确凿的一位。他的哥哥，英国国王查尔斯，刚刚宣布启动正式程序，剥夺安德鲁的王子头衔和荣誉。此后，他只能被称为安德鲁·**蒙巴顿-温莎**（Mountbatten-Windsor: 英国王室成员的姓氏），即英国王室本来的姓氏。他还将被逐出作为王子官邸的皇家木屋（Royal Lodge），这是一座由纳税人供养、拥有30个房间的豪宅。这项处罚之严厉，在现代英国王室历史上是前所未有的。

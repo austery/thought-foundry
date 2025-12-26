@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - National Science Foundation
@@ -15,9 +15,7 @@ products_models:
 - LLM
 - RAG
 - LangChain
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9AQOvT8LnMI
 speaker: AI Engineer
@@ -31,7 +29,6 @@ tags:
 - system
 title: 智慧驱动的知识增强生成：超越RAG，构建可扩展的专家AI系统
 ---
-
 ### 介绍PO.AI及其智慧驱动的AI系统
 
 大家好，我是Chin Keong Lam，**PO.AI**（一家专注于构建专家AI系统的公司）的创始人兼首席执行官。

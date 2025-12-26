@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Brown University
@@ -17,9 +17,7 @@ media_books:
 people:
 - Donald Trump
 - Adam Smith
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZwHJwDIjvP0
 speaker: 海淀拙大叔
@@ -33,7 +31,6 @@ tags:
 - technological
 title: 美国战略大收缩：百年帝国兴衰的镜鉴与特朗普政策预判（一）
 ---
-
 ### 美国战略大收缩系列：引言与核心议题
 
 今天是3月23日，周日。上回提到美国将实行战略大收缩，因此本期节目将专门讨论关于美国战略收缩的五个问题。这可能将分为五个视频系列。首先，当前美国与一百年前英国所面临的处境惊人相似。其次，美国的战略性大收缩是对英国的完全复刻，因此它是可以预测的。第三，我们将预判**特朗普**（Donald Trump: 第45任美国总统，以“美国优先”政策著称）未来四年可能采取的收缩政策。第四，中国应如何反制美国的战略收缩。第五，投资者将面临哪些风险和机会。

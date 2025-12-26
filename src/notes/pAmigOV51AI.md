@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robin Hood
@@ -75,9 +75,7 @@ products_models:
 - CyberCab
 - Powerwall
 - Blackwell
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pAmigOV51AI
 speaker: Amit Kukreja
@@ -94,7 +92,6 @@ tags:
 - market
 title: 市场普跌下的财报季：特斯拉股东大会揭示“可持续富足”新篇章
 ---
-
 ### 市场收盘回顾：多重利空打击下的普跌行情
 
 好的，各位朋友，欢迎回到新一期的市场收盘节目。今天是11月6日，星期四。股市今天相当惨淡。

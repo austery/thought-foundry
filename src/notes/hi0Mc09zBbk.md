@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2022-10-12'
@@ -18,9 +18,7 @@ people:
 - Socrates
 - Plato
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hi0Mc09zBbk
 speaker: 超級歪 SuperY
@@ -35,7 +33,6 @@ tags:
 - system
 title: 颠覆传统认知：国家是如何诞生的？《反穀》揭示文明起源的另一面
 ---
-
 ### 重新审视国家起源：挑战传统文明叙事
 
 今年八月，南希·佩洛西访问台湾，国家安全、统独议题再次引发热议。台湾将如何在中国和美国这两个大帝国之间找到出路？要厘清这个问题，我们首先必须理解“国家”究竟是什么。今天我们要面对的这本书——**《反穀》**（Against the Grain: A Deep History of the Earliest States，一本挑战传统国家起源论的著作），便探讨了国家是一种怎样的存在。本书的作者是美国人类学家詹姆斯·斯科特。他在这本书中，以最新的考古证据重述了国家的起源，颠覆了我们对文明的传统看法。

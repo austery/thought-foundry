@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - ISIS
@@ -17,10 +17,7 @@ people:
 - David
 - Emily
 products_models: []
-project:
-- geopolitics-watch
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4XDCnhDPTFo
 speaker: 柴静 Chai Jing
@@ -34,7 +31,6 @@ tags:
 - science-religion-reconciliation
 title: 以人之名：从极端到和解——信仰、科学与人性的对话
 ---
-
 ### 信仰与科学的冲突：哈桑的故事
 
 2019年，我曾到访伦敦的一座宗教寺庙，与人们席地而坐。我印象最深的并非**伊玛目**（Imam: 伊斯兰教的领拜人或宗教领袖）的祷告，而是他离开后，众人散去，我身旁一位正在哭泣的女士，许多人上前安慰她。我的父亲刚刚去世，那一刻，我似乎也获得了某种慰藉。我能理解宗教带给人们的情感以及温暖的集体记忆。同时，我也理解为何哈桑（Hassan）说要将宗教从僵化的自负中解放出来，让伊斯兰教的核心概念与现代人的心灵结合。

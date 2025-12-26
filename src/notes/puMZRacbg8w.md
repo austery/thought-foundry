@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-01-12'
 draft: true
@@ -15,10 +15,7 @@ people:
 - 彭德怀
 - 柴静
 products_models: []
-project:
-- us-analysis
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=puMZRacbg8w
 speaker: 柴静 Chai Jing
@@ -32,7 +29,6 @@ tags:
 - self
 title: 林培瑞谈美国大学的“思想审查”：DEI机制与自我审查的困境
 ---
-
 ### 汉学家林培瑞的“思想审查”风波
 
 著名汉学家林培瑞教授，在西方世界享有盛誉，曾因在天安门事件后帮助方立芝进入美国大使馆，并支持刘晓波的写作，一向被海外舆论称作人权捍卫者。然而，在79岁高龄时，他却意外地被自己所在的大学认定发表了种族歧视言论，并因此受到了处罚。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Tesla
@@ -35,10 +35,7 @@ products_models:
 - Model 2
 - Autopilot
 - Hyperloop
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=W8HEjee20V0
 speaker: Patrick Boyle
@@ -53,7 +50,6 @@ tags:
 - market-valuation
 title: 销量下滑，薪酬飙升：特斯拉怪异新现实的内幕
 ---
-
 ### 特斯拉销量暴跌与马斯克天价薪酬
 
 今年7月，特斯拉在英国的销量不足一千辆。这并非笔误。这家曾定义电动汽车（EV: Electric Vehicle）革命的公司，其在英国的销量暴跌了近60%，而其中国竞争对手**比亚迪**（BYD: Build Your Dreams，一家中国汽车制造商）则销量飙升，增长了四倍，在英国以3比1的比例超越了特斯拉。

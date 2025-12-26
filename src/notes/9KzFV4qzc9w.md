@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-14'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9KzFV4qzc9w
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - us-foreign-policy
 title: 沃伦参议员：特朗普政府的阿根廷协议与国内政策皆失民心
 ---
-
 ### 对阿根廷援助的质疑
 
 Interviewer: Senator, it's good to see you. Welcome back to Bloomberg TV and Radio. You sure seem to be top of mind, if not top of word, every time the President speaks lately. I want to ask you about your effort to quash this bailout, as many are calling it, for Argentina. The President said today, and this is a direct quote, "just helping a great philosophy take over a great country. We don't have to do it," he said. "It's not going to make a big difference for our country." How many Republicans, how many America First Republicans, did you get to sign on?

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Microsoft
@@ -49,10 +49,7 @@ products_models:
 - MRC协议
 - AI广域网
 - ZR光模块
-project:
-- ai-impact-analysis
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lHhoqvkKkBw
 speaker: Best Partners TV
@@ -66,7 +63,6 @@ tags:
 - market
 title: 微软AI战略：从巅峰跌落到反攻之路——深度解析其失误与未来布局
 ---
-
 ### 微软AI战略的跌宕起伏：从巅峰到反攻
 
 大家好，这里是最佳拍档。本期节目我们将深入探讨微软的AI发展之路。

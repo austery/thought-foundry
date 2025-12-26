@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -26,9 +26,7 @@ people:
 - Shawn Duffy
 products_models:
 - Affordable Care Act
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dl7BSGlmMuw
 speaker: New York Times Podcasts
@@ -42,7 +40,6 @@ tags:
 - travel
 title: 美国政府停摆僵局突破、特朗普政府减税以及全球多地新闻速览
 ---
-
 ### 美国政府停摆僵局突破与党内反弹
 
 来自《纽约时报》的头条新闻。我是Will Jarvis，代班Tracy Mumford。今天是11月10日星期一，以下是我们今天报道的内容。

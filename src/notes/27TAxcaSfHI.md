@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2024-12-29'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=27TAxcaSfHI
 speaker: Anthony看世界
@@ -23,7 +21,6 @@ tags:
 - life
 title: 中国语文作文的“加密语言”：羞耻感、模板化与深远影响
 ---
-
 ### 引言：从语文教学方法到作文困境
 
 大家好，我是Anthony，欢迎来到我的频道。今天的视频，我们来继续昨天的话题，聊聊中国的语文教育。在昨天的视频中，我们分析了语文课的教学方法，即那套讲解生词、划分段落、归纳主旨和分析写作特点的机械化、程式化的解释套路。

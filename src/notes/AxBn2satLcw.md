@@ -20,10 +20,7 @@ products_models:
 - GPT
 - FSD
 - CDS
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AxBn2satLcw
 speaker: Shanghao Jin
@@ -36,7 +33,6 @@ tags:
 - market-volatility
 title: 2025年市场展望：AI非泡沫，政策真空下的投资机遇
 ---
-
 ### 市场波动与AI泡沫之辩
 
 近期市场波动较大，特别是加密货币市场跌幅凶猛，这引发了大家对美股的担忧。此外，关于**AI**（人工智能: 模拟、延伸和扩展人类智能的理论、方法、技术及应用系统）是否存在泡沫、泡沫程度如何，以及我们当前所处的市场状态，都是大家普遍关心的问题。

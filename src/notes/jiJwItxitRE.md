@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Toyota
@@ -11,8 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - CBC Marketplace
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jiJwItxitRE
 speaker: 莊也雜談
@@ -26,7 +25,6 @@ tags:
 - security
 title: 防不勝防：加拿大盜車危機下，汽車廠商的態度與竊賊的暗黑偷車技術揭秘
 ---
-
 哈嘍大家好，我是莊也，歡迎您收看莊也雜談加拿大系列節目。上集咱們聊了一下目前發生在加拿大的盜車危機到底有多麼嚴重，是哪些人在偷車，以及偷車的原因和目的是什麼。還有就是這些被偷的車都被銷贓去了什麼地方，以及加拿大政府在這方面有哪些地方做得還不足等等，都是一些站位比較高的觀點。今天，咱們就把這個視角下沉一下，站在普通老百姓的立場上來審視這個盜車的事兒，談幾個比較有意思的話題。
 
 ### 汽車廠商在盜車危機中的立場

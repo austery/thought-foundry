@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - ADP
@@ -34,10 +34,7 @@ people:
 - 李家超
 - 温家宝
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YD-HGEe2Ltw
 speaker: LT視界
@@ -51,7 +48,6 @@ tags:
 - us-china-relations
 title: 全球经济与地缘政治：美欧分歧、人民币升值及中共舆论管制深度解析
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月3日，我们首先来了解今天的财经头条。有三个方面的最新信息与网友分享。
 
 ### 美国经济与美联储动态

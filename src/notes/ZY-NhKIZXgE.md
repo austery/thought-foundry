@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -40,10 +40,7 @@ people:
 - Kalebrooks
 products_models:
 - Ethereum
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZY-NhKIZXgE
 speaker: Bloomberg Podcasts
@@ -57,7 +54,6 @@ tags:
 - venture-capital
 title: AI投资：为何难以致富？从集装箱化看技术革命的终结
 ---
-
 ### AI投资的困境：缺乏纯粹的AI上市公司
 
 **Jill Weisenthal:** 大家好，欢迎收听新一期的OddLots播客。我是Jill Weisenthal。

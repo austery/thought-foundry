@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - FBI
@@ -14,9 +14,7 @@ media_books:
 people:
 - Derek
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=quVHh_Pd8l8
 speaker: 北美王路飞
@@ -30,7 +28,6 @@ tags:
 - trust
 title: FBI识人术：语言如何揭示真实意图与人品
 ---
-
 ### 语言：洞察人心的X光片
 
 大家好，欢迎来到我的频道。今天我们继续探讨超新星会员节目，关于FBI顶尖探员亲授的识破人心的信号。今天的主题是语言。你可能会觉得语言是每个人都会听的信号，但德里克告诉我们，语言绝不仅仅是说话的内容，它更像是一个人的X光片，能够清晰地照出这个人的思维模式、真实意图，甚至他的人品。我们将通过作者德里克的一次真实经历——他退休后再就业的面试过程，来展示他是如何运用自己的语言分析法，看穿一切表象背后的真相。

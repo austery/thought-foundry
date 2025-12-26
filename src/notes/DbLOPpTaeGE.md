@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -24,10 +24,7 @@ people:
 products_models:
 - H200
 - AGI
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DbLOPpTaeGE
 speaker: 视野环球财经
@@ -41,7 +38,6 @@ tags:
 - strategy
 title: 美股动态：Meta削减元宇宙预算，英伟达核电言论引关注，IBM与摩根士丹利警示数据中心投资风险
 ---
-
 ### 市场概览与经济数据
 
 美东时间12月4日周四晚上7点45分，美股四大指数中，罗素指数表现最为亮眼，其他三大指数表现平平，特别是纳斯达克100指数。若非少数权重股的上涨，纳指100的表现可能会比较难看，因为其61只成分股下跌，仅有40只上涨。

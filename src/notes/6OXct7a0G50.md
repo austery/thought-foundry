@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-07-30'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6OXct7a0G50
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - stablecoin
 title: 市场洞察：美联储展望、关税影响与UNH、Visa、Booking财报深度解析
 ---
-
 ### 引言
 
 各位观众大家好，欢迎来到日更美股专业博主的视频。本次视频录制于凌晨两点，此前刚完成一期关于联合健康（UNH）的会员视频，并对其进行了估值分析。本期内容将涵盖宏观数据、彭博And One团队对美联储会议的展望、关税议题，以及联合健康、Visa和Booking三家公司的财报，特别是从Visa和Booking的角度探讨消费者健康状况。

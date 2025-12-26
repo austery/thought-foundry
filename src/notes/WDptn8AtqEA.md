@@ -11,12 +11,7 @@ media_books: []
 people:
 - lt
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WDptn8AtqEA
 speaker: LT視界
@@ -29,7 +24,6 @@ tags:
 - us-china-relations
 title: 习主席的紧箍咒：中美博弈、中东和平与中国经济困境
 ---
-
 ### 财经头条：中美关系与市场动态
 
 今天，华尔街日报报道指出，在美国对华态度软化后，**道琼斯指数**（Dow Jones Industrial Average: 美国股市的重要指数之一）上涨。在周五的抛售之后，股市和大盘出现了反弹。美国总统川普和高级政府官员的评论，缓解了人们对于中国再次爆发贸易战的担忧。川普周日在社交平台上发文称：“别担心中国，一切都会好起来的。备受尊敬的习近平主席只是心情不好而已。”他补充说：“我想要帮助中国，而不是伤害它。”美国副总统万斯周日在接受采访时表示，美国对中国拥有很大的影响力，但他补充说，川普总统始终愿意成为一名通情达理的谈判者。美国财政部长今天表示，双方将在未来几周内进行谈判。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: culture
 companies_orgs:
 - Massachusetts Institute of Technology
@@ -17,10 +17,7 @@ media_books:
 people:
 - Elon Musk
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ggjuBHXX4RU
 speaker: 政經孫老師
@@ -34,7 +31,6 @@ tags:
 - social
 title: 顶层狂生，中产不育：生育率两极分化预示的社会结构巨变
 ---
-
 ### 全球生育率的结构性分化
 
 当前，全球范围内普遍存在一个共识：年轻人越来越不愿意生育，整体人口出生率呈下降趋势。然而，对于某些特定阶层而言，他们的生育率却不降反升。例如，富人阶层的生育频率非常高。彭博新闻的一篇评论文章《亿万富翁的婴儿潮给我们的衰退带来的教训》就提到了这一现象。文章指出，世界上最富有的人正在大量繁衍后代。数据显示，美国亿万富翁平均生育三个孩子，而普通美国家庭仅生育1.9个孩子，这一数字远高于亚洲那些生育率低下的国家。贫富阶层之间的生育差距由此可见一斑。例如，埃隆·马斯克（Elon Musk）的子女数量就非常庞大，更不用说亚洲的权贵阶层，其婚生子女和非婚生子女的总数也相当可观。相比之下，普通人的生育子女数量则呈现下降趋势，这种对比非常明显。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 公安部
@@ -26,9 +26,7 @@ people:
 - 周恩来
 - 王震
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Da0So2rRXQU
 speaker: 柴静 Chai Jing
@@ -42,7 +40,6 @@ tags:
 - social
 title: 孙海英：艺术自由是国家前行的基石——一位文革亲历者的沉痛反思
 ---
-
 ### 文革的两种反应与历史的必要性
 
 在上一期节目中，邓小平曾指出毛泽东发动文革有两大错误：一是打倒一切，二是全面内战。节目播出后，出现了两种截然不同的反应：一种是震惊，因为这些内容在历史课本中从未提及；另一种则是捍卫文革，认为毛泽东此举是为了打倒特权阶层，实现**巴黎公社**（Paris Commune: 1871年法国巴黎工人阶级建立的自治政府，被视为无产阶级专政的早期尝试）式的大民主。这两种反应都让我深感，我们确实需要更丰富、真实、直接的第一手材料来审视自己的历史。今天，我们将采访一位历史当事人——演员孙海英。

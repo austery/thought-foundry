@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NASA
@@ -21,10 +21,7 @@ people:
 - Jessica
 - Sam
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NeMz-YdJI2Y
 speaker: 超級歪 SuperY
@@ -38,7 +35,6 @@ tags:
 - hyperobject
 title: 《沙丘》电影解析：生态危机、帝国循环与跨物种联盟的启示
 ---
-
 ### 《沙丘》故事背景与香料争夺战
 
 《沙丘》的故事背景设定在一万年后的未来世界。片中，厄崔迪家族在卡乐丹星球接到皇帝的命令，负责接管原本由哈克南家族统治的沙漠星球厄拉科斯。然而，在接管之后，厄崔迪家族却遭到皇帝军团和哈克南家族的联手剿灭。主角保罗和他的母亲杰西卡幸存下来，并加入了厄拉科斯星球的原住民弗瑞曼人的社会，由此开启了一段王子复仇记。

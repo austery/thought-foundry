@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -21,10 +21,7 @@ people:
 products_models:
 - Disney+
 - Finding Nemo
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s5rHIot8hkk
 speaker: Norges Bank Investment Management
@@ -38,7 +35,6 @@ tags:
 - technological
 title: 迪士尼CEO鲍勃·艾格：百年品牌传承、创意领导力与未来展望
 ---
-
 ### 迪士尼的魔力与百年传承
 
 **Nicola Tangan:** 大家好，我是**挪威银行投资管理公司**（Norges Bank Investment Management: 挪威主权财富基金的管理机构）的首席执行官尼古拉·坦根。今天，我们将深入探讨迪士尼这个神奇的世界，我们很荣幸能持有该公司超过1%的股份。我身边这位是鲍勃·艾格，这位富有远见的领导者将迪士尼转型为全球娱乐巨头，主导了**皮克斯**（Pixar: 著名动画工作室）、**漫威**（Marvel: 知名漫画与电影公司）和**21世纪福克斯**（21st Century Fox: 曾是美国主要媒体公司，后大部分资产被迪士尼收购）等大胆的收购。鲍勃，热烈欢迎！

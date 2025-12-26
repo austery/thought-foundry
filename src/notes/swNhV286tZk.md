@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - University of Toronto
@@ -20,10 +20,7 @@ people:
 - Warren Buffett
 - Charlie Munger
 products_models: []
-project:
-- us-analysis
-- personal-growth-lab
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=swNhV286tZk
 speaker: 王红雨
@@ -37,7 +34,6 @@ tags:
 - talent
 title: 网红教授乔丹·彼得森移居美国：在加拿大如何践行《人生十二法则》
 ---
-
 ### 加拿大的人才流失与社会现象
 
 大家好，欢迎再次回到我的频道。今天是2025年8月1号。今天我们来和大家继续聊一下逃离加拿大的问题。最近有一位**网红教授**（Internet Celebrity Professor: 指在网络上拥有巨大影响力并受到广泛关注的教授），从多伦多搬到了美国去居住，在英文媒体和中文媒体都掀起了轩然大波，大家都在讨论人才流失等话题。今天我们就来了解一下这位教授，以及他留给我们的一部非常重要的著作，就是《人生十二法则》。现在有很多人在讨论逃离加拿大，也有很多人讨论为什么有这么多难民在加拿大不走。所以我们看到的现象就是“有人辞官归故里，有人星夜赶考场”。

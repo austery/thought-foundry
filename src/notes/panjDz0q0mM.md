@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Amazon
@@ -33,10 +33,7 @@ products_models:
 - Notion
 - Cursor
 - Lovable
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=panjDz0q0mM
 speaker: TechButMakeItReal
@@ -50,7 +47,6 @@ tags:
 - product-market-fit
 title: AI商业转型失败的五大案例及其深刻教训
 ---
-
 ### 引言：AI转型中的现实挑战
 
 一位顾客抓了五个番茄就走了。当摄像头识别错误时，谁知道他们付了多少钱？一辆行驶中的卡车里正在烤披萨。谁能阻止奶酪滑落？一部重制版的《乱世佳人》上线流媒体。当人物面部看起来不对劲时，谁来批准它上线？自动化只有在背后有大量人工支持时才能良好运作。今天的故事是关于五次失败的**AI转型**（AI Pivots: 指企业将核心业务或产品策略转向人工智能驱动的尝试），这些产品押注遭遇了物理定律、市场现实和利润率的严峻挑战。我们将研究五个**单位经济效益**（Unit Economics: 指每单位产品或服务所产生的收入和成本）崩溃导致产品失败的重大案例，并从中吸取教训。让我们深入探讨。

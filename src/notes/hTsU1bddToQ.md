@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-12-10'
@@ -16,9 +16,7 @@ people:
 - Doug Ford
 - Pierre Poilievre
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hTsU1bddToQ
 speaker: TVO Today
@@ -31,7 +29,6 @@ tags:
 - us-trade-policy
 title: 2025年加拿大政坛的决定性时刻：关税冲击、领导人更迭与能源战略
 ---
-
 ### 2025年政治回顾：聚焦高光与低谷
 
 这一年，在安大略省乃至全国范围内，发生了许多事情。

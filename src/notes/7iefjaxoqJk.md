@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-11-05'
@@ -14,9 +14,7 @@ people:
 - John von Neumann
 - Robert Axelrod
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7iefjaxoqJk
 speaker: Adam's Axiom
@@ -30,7 +28,6 @@ tags:
 - tit-for-tat
 title: 最强大的博弈论策略竟然如此简单？
 ---
-
 ### 简介：最简单的成功策略
 
 如果我告诉你，最强大的成功策略根本不复杂呢？

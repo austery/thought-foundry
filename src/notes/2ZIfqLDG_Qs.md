@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OPEC
@@ -13,10 +13,7 @@ people:
 - Vladimir Putin
 - Xi Jinping
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2ZIfqLDG_Qs
 speaker: TED
@@ -30,7 +27,6 @@ tags:
 - technology
 title: 能源的未来：从燃料控制到技术共享的范式转变
 ---
-
 ### 燃料：塑造历史的基石
 
 我们的现代世界是建立在燃料基础之上的。

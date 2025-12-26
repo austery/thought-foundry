@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bank of America
@@ -22,10 +22,7 @@ products_models:
 - TLT
 - CPI
 - VIX
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P1GIAY9Sn-s
 speaker: 投资TALK君
@@ -40,7 +37,6 @@ tags:
 - us-china-relations
 title: 美联储会救市吗？鲍威尔访谈、中美贸易与Q1财报深度解析
 ---
-
 ### 市场概览与资产走势分析
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。有几天没有和大家见面，周三市场出现了相对比较大幅度的下跌，但总体感受来说还好。今天的内容正好借由这次下跌和一些事件，和大家做更新。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - Norges Bank Investment Management
@@ -14,9 +14,7 @@ media_books:
 people:
 - Steve Jobs
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rBPd7KkYhpY
 speaker: Norges Bank Investment Management
@@ -30,7 +28,6 @@ tags:
 - one-on-one-meeting
 title: 会议的科学：如何让会议更高效、更有意义
 ---
-
 ### 会议的普遍困境与专家见解
 
 **主持人：** 今天，我们将讨论一个非常有趣的话题——会议。我们有很多会议吗？可能每天仅在美国就有超过一亿场会议。其中许多会议很棒，但也有很多效果不佳。今天我们将讨论如何改进它们。我们请来了世界顶尖专家Steven Rogelberg，热烈欢迎。

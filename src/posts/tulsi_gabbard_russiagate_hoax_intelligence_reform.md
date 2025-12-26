@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: politics-society
 companies_orgs: []
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - Interviewer
 products_models: []
-project:
-- us-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -28,7 +27,6 @@ tags:
 title: Tulsi Gabbard on Declassifying the Russiagate Hoax and Reforming Politicized
   Intelligence
 ---
-
 ### Introduction
 
 Interviewer: Ladies and gentlemen, please welcome Tulsi Gabbard. Hello. Nice to see you, Tulsi. Thanks for coming.

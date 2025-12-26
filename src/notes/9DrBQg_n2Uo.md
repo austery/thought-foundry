@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Salesforce
@@ -11,8 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Einstein
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9DrBQg_n2Uo
 speaker: veritasium
@@ -25,7 +24,6 @@ tags:
 - technology
 title: 宇宙膨胀时，究竟是什么在膨胀？
 ---
-
 ### 宇宙膨胀的初步证据与红移现象
 
 本视频的一部分由Salesforce赞助。

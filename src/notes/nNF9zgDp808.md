@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -20,10 +20,7 @@ people:
 - Tracy Mumford
 - Pete Hegsth
 - Donald Trump
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nNF9zgDp808
 speaker: New York Times Podcasts
@@ -37,7 +34,6 @@ tags:
 - war
 title: 特朗普收紧移民政策，中国快餐品牌加速出海
 ---
-
 ### 特朗普政府收紧移民政策
 
 美国总统特朗普正在采取一项新的、积极的举措，以限制对美国的移民，此前华盛顿特区发生了两名**国民警卫队士兵**（National Guard soldiers: 美国各州和地区军事力量，通常在紧急情况下协助联邦政府或州政府）被枪击事件。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-05-03'
@@ -18,9 +18,7 @@ people:
 - Kant
 - Rogers
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DdrqjtXGg-c
 speaker: Anthony看世界
@@ -33,7 +31,6 @@ tags:
 - self
 title: 接纳人性的复杂性：超越“容忍”，拥抱内在的阴暗面
 ---
-
 ### 引言：接纳人性的复杂性
 
 大家好，我是Anthony。欢迎来到我的频道。今天的视频，我们继续来聊聊如何接纳人性的复杂性。在4月19日的视频中，我们讨论了**无条件之爱**（Unconditional Love: 一种不基于特定品质或能力的爱，而是接纳对方的整体复杂性和可能性）是如何可能的。我们当时说，无条件之爱不仅仅是爱对方特定的品质或能力，我们应该爱这种品质背后蕴含的复杂性和可能性，并鼓励这种可能性。当然，你能看到并爱上另一个人的复杂性，首先是因为你已经接纳了自己的复杂性。这种建立在复杂性之上的爱，超越了我们对爱的普遍理解。

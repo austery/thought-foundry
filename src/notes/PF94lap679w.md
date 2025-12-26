@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 新华社
@@ -39,10 +39,7 @@ people:
 products_models:
 - DUV光刻机
 - AM算力芯片
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PF94lap679w
 speaker: 三個水槍手
@@ -57,7 +54,6 @@ tags:
 - technology
 title: 四中全会与十五五规划：解读习近平权力、对台政策及中国经济走向
 ---
-
 ### 四中全会与习近平权力斗争的深度解析
 
 **三个水枪手:** 很多人觉得我过度解读，不以为然。李厚诚这么有名，还有质疑我没厚诚同学呢。那主要是质疑的，这说明人民群众眼睛还不错。

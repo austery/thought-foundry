@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - TED
@@ -8,10 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- investment-strategy
-- market-cycles
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7onAN_t68t0
 speaker: TED
@@ -25,7 +22,6 @@ tags:
 - science
 title: 气候冲击如何瓦解经济：超越传统经济模型的洞察
 ---
-
 ### 气候冲击：经济学与科学之间的鸿沟
 
 2021年是自然灾害频发的一年。那一年，巴基斯坦的洪水夺走了1700人的生命，欧洲则开始了500年来最严重的干旱。

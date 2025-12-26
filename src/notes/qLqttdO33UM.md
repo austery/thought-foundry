@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Intel
@@ -10,10 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Andre Karpathy
-project:
-- ai-impact-analysis
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qLqttdO33UM
 speaker: AI Engineer
@@ -27,7 +24,6 @@ tags:
 - software
 title: 零缺陷软件的愿景：从航空航天到AI编程的可靠性之路
 ---
-
 ### 零缺陷软件的愿景
 
 请和我一起设想一个软件零缺陷的世界。不是只有少数缺陷，而是真正意义上的**零缺陷**。请大家暂时相信我。

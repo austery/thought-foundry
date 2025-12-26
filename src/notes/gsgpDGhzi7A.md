@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies:
 - psychological-discourse
@@ -14,10 +14,7 @@ media_books:
 people:
 - Simone de Beauvoir
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gsgpDGhzi7A
 speaker: Anthony看世界
@@ -30,7 +27,6 @@ tags:
 - social
 title: 中国互联网NPD叙事：命名痛苦，还是偏离现实？
 ---
-
 ### 引言：NPD叙事在中国的兴起
 
 大家好，我是Anthony。欢迎来到我的频道。今天，我想和大家聊聊最近在中国互联网上一个热门话题，那就是**NPD**（Narcissistic Personality Disorder: 自恋型人格障碍）。

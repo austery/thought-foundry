@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b8Bx2oNJWlI
 speaker: 一口新飯
@@ -22,7 +21,6 @@ tags:
 - technology
 title: AI时代：如何成为超级学习者，掌握核心知识与跨领域能力
 ---
-
 ### 引言：AI加速进化下的学习焦虑
 
 AI的发展让许多人感到焦虑。当 **ChatGPT**（OpenAI开发的基于大型语言模型的聊天机器人）刚出现时，我感到特别兴奋，并像许多人一样，加入了AI的学习大军。作为一个没有编程基础的“麻瓜”，我进行了许多AI尝试，甚至计划制作自己的AI课程。然而，AI进化的速度太快了，我刚写完课程大纲，ChatGPT的升级就让许多内容失去了意义。这种还没开始就被淘汰的经历，在开发者社区里更为常见。许多人辛辛苦苦地基于OpenAI刚开发出一个应用，ChatGPT的一个更新就可能将其消灭在萌芽阶段。

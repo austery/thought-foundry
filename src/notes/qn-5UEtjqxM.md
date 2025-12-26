@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CSIS
@@ -23,10 +23,7 @@ people:
 - 王毅
 - Nancy Pelosi
 - 薛剑
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qn-5UEtjqxM
 speaker: FearNation 世界苦茶
@@ -39,7 +36,6 @@ tags:
 - taiwan-strait-conflict
 title: 台海冲突推演：中国为何陷入“既要又要”的战略困境？
 ---
-
 ### 外国干预台海：一个道德与历史的拷问
 
 有观众提问：“你再怎么讨厌中共，也不应该希望台湾问题上被外国人插手吧？”

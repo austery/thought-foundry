@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -50,10 +50,7 @@ products_models:
 - FSD
 - Optimus
 - iPhone 17
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f_oFmV9FFSA
 speaker: Amit Kukreja
@@ -67,7 +64,6 @@ tags:
 - us-china-relations
 title: 英伟达在美生产芯片，特朗普释放谈判善意，本周市场展望：特斯拉财报与CPI数据前瞻
 ---
-
 ### 本周市场展望
 
 大家好，欢迎回到新一期的市场前瞻。朋友们，我们正在直播。今天是周日，距离股市开盘还有14分钟。感谢大家的到来，我们有很多内容要讨论。希望大家周末过得愉快，是时候开启新一周的市场了。

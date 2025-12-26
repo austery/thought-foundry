@@ -21,10 +21,7 @@ products_models:
 - Falcon 9
 - New Glenn
 - Starlink
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TngrYsyVjSg
 speaker: 海伦子Hellen
@@ -40,7 +37,6 @@ tags:
 - technology
 title: Rocket Lab股票深度分析：为何值得长期持有？
 ---
-
 ### Rocket Lab的上市历程与个人投资视角
 
 今天继续跟大家聊聊Rocket Lab。我第一次聊这家公司是在2021年3月份，当时我刚刚购买了它的股票。Rocket Lab是通过**SPAC**（特殊目的收购公司: 一种没有实际业务，但通过首次公开募股募集资金，然后收购一家私人公司，使后者上市的“空壳公司”）的形式上市的，即通过与另一家有资金但没有实体项目的公司并购完成上市。因此，如果你查看它的股价，可能会发现其正式上市时间标注为2021年8月25日。我在2021年3月份购买的，其实是与它并购的另一家公司的股票。后来，在完成合并后，公司名称正式变为Rocket Lab。有意思的是，在合并刚刚完成后的几天，股价达到了最高点，从最初的每股10美元涨到将近20美元，随后便一路下跌，到今天大约是每股6美元左右。

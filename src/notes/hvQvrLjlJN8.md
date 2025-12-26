@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - ASML
@@ -24,10 +24,7 @@ people:
 products_models:
 - EUV
 - GPU
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hvQvrLjlJN8
 speaker: Norges Bank Investment Management
@@ -41,7 +38,6 @@ tags:
 - technology
 title: ASML首席执行官：光刻技术如何塑造未来与应对地缘政治挑战
 ---
-
 ### ASML：半导体世界的无名英雄
 
 大家好，我是挪威主权财富基金（Norges Bank Investment Management）的首席执行官**Nicola Tangen**。今天，我们很荣幸邀请到**ASML**（Advanced Semiconductor Materials Lithography：全球最大的半导体设备制造商，专注于光刻机）的首席执行官**Christophe Fouquet**。

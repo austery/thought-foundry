@@ -92,10 +92,7 @@ products_models:
 - ChatGPT
 - AWS
 - FSD (Full Self-Driving)
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7y04GzP6lTI
 speaker: Amit Kukreja
@@ -108,7 +105,6 @@ tags:
 - trade
 title: 日本收益率飙升引发市场震荡：Nvidia 竞争加剧与加密货币前景分析
 ---
-
 ### 欢迎回来与感恩节后记
 大家早上好，欢迎回到新一期的市场开盘直播。今天是12月1日，星期一，也是今年的最后一个月。我没有迟到，尽管大家都在刷屏说我晚了。我实际上是在8:45前五秒开始的，就为了能准时。
 

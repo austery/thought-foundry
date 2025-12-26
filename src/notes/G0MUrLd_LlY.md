@@ -11,10 +11,7 @@ layout: post.njk
 people:
 - Paul
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=G0MUrLd_LlY
 speaker: Joseph Wang
@@ -27,7 +24,6 @@ tags:
 - rate
 title: 2025年12月FOMC会议深度解读：意外的鸽派转向与市场影响
 ---
-
 ### 12月FOMC会议回顾与鸽派基调
 
 大家好。今天是12月10日，这是我关于12月**FOMC**（Federal Open Market Committee: 联邦公开市场委员会）会议的解读。

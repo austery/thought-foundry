@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Globe and Mail
@@ -19,9 +19,7 @@ people:
 - Rachel Notley
 - Doug Ford
 - Chrystia Freeland
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U9UivxnMmD0
 speaker: TVO Today
@@ -35,7 +33,6 @@ tags:
 - relations
 title: 卡尼的输油管道协议：政治胜利还是争议焦点？
 ---
-
 ### 卡尼政府的能源协议及其争议
 
 加拿大总理马克·卡尼和阿尔伯塔省省长丹妮尔·史密斯上月末签署了一项新的能源协议，双方笑容满面。

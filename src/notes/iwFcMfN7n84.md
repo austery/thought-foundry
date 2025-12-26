@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-07-18'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iwFcMfN7n84
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-stock-market
 title: 国际资本涌入美股，零售数据与财报深度解析
 ---
-
 ### 市场概览与板块表现
 
 本期节目将深入分析美股市场动态。周四，**美元指数**（U.S. Dollar Index: 衡量美元对一篮子主要货币汇率变化的指数）小幅上涨，**美债收益率**（U.S. Treasury Yield: 美国国债的投资回报率，反映市场对未来利率和经济的预期）波动不大，基本处于横盘状态。三大股指表现良好，其中**标普500**（S&P 500: 标准普尔500指数，包含美国500家大型上市公司股票的市场指数）上涨0.5%，**纳指**（Nasdaq Composite: 纳斯达克综合指数，主要反映美国科技股表现的市场指数）上涨0.7%，**道指**（Dow Jones Industrial Average: 琼斯工业平均指数，包含30家美国大型蓝筹公司的股票指数）上涨0.5%。原油价格反弹后下跌，而**罗素2,000**（Russell 2000: 罗素2000指数，衡量美国2000家小型公司股票表现的市场指数）表现最为优异，上涨了1.2%。**比特币**（Bitcoin: 一种去中心化的数字加密货币）则小幅下跌。

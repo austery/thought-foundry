@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -18,10 +18,7 @@ people:
 - Donald Trump
 - Jeffrey Epstein
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rrDSpzEjTlM
 speaker: New York Times Podcasts
@@ -35,7 +32,6 @@ tags:
 - society
 title: 美国政府重新开放、爱泼斯坦邮件与新政策：多维度新闻速览
 ---
-
 ### 美国政府重新开放与停摆影响
 
 来自《纽约时报》的头条新闻，我是特雷西·芒福德。今天是11月13日星期四，以下是我们报道的内容。

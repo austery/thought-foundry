@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中共
@@ -29,10 +29,7 @@ people:
 - 蔡英文
 - Victor Shih
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8KJap6TJAcw
 speaker: 壽司坦丁 Sociostanding
@@ -46,7 +43,6 @@ tags:
 - power
 title: 习近平与“弱者联盟”：中共二十大后的权力集中与潜在危机
 ---
-
 ### 中共二十大：权力格局的重塑
 
 这里是寿司坦丁，在这里，你可以用最轻松的方式接收国际上最有趣的社会科学研究发现。2022年10月23日中午12点，中共二十大一中全会公布了未来五年中国最有权势的24个人。这些人以前确实是中共的权力核心，但现在称他们为习近平最信任的一群人，可能更精准一点。最受瞩目的当然是习近平之外的六位政治局常委。在习近平上台之前，或者更准确一点，在90年代到2017年之前，中共政治局常委是中共权力金字塔的顶端。总书记之外的其他六位常委，和总书记是以同僚互称，他们拥有在国事或党务上各管一摊的权利，他们是跟总书记分享权力、相互制衡的集体领导班子。

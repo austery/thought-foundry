@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Harvard Business Review
@@ -28,10 +28,7 @@ people:
 - George Orwell
 - Alan Greenspan
 - Mahatma Gandhi
-project:
-- geopolitics-watch
-- systems-thinking
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X4UnZgBlRLg
 speaker: Harvard Business Review
@@ -45,7 +42,6 @@ tags:
 - problem
 title: 理解“常识”：从市场泡沫到社会协调的关键洞察
 ---
-
 ### “常识”的定义与重要性
 
 **ADI IGNATIUS:** 好的，史蒂芬，感谢您今天与我们在一起。

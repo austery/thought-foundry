@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Palantir
@@ -19,10 +19,7 @@ products_models:
 - Ontology
 - AIP
 - DCF估值模型
-project:
-- investment-strategy
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f3lAGjqR-GI
 speaker: Money or Life 美股频道
@@ -37,7 +34,6 @@ tags:
 - software-business-model
 title: Palantir的护城河：CEO Alex Karp深度解析其独特优势与AI落地挑战
 ---
-
 ### Palantir的投资回顾与未来展望
 
 欢迎来到Money or Life美股频道。距离去年开始关注**Palantir**（Palantir Technologies Inc.: 一家美国软件公司，专注于大数据分析和人工智能）并制作其专题视频，已经接近一年的时间了。在这一年里，我收获了100%以上的收益，并于上周重新选择建仓Palantir。我知道许多朋友可能还不完全了解Palantir的业务。因此，借着Palantir近期刚刚举办**AIP Conference 8**（Artificial Intelligence Platform Conference 8: Palantir年度人工智能平台大会）的机会，我将制作两期简短视频，进一步解释Palantir的相对优势，以及为什么它依然值得我们持续关注。视频将分为两期，今天一期，明天一期，希望能帮助大家更好地理解Palantir这家公司。

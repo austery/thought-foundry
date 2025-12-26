@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国
@@ -42,10 +42,7 @@ people:
 products_models:
 - 安卓
 - 苹果
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Sp51QNzqaq8
 speaker: 三個水槍手
@@ -59,7 +56,6 @@ tags:
 - politics
 title: 中国能否分裂成多个国家？一场关于政治想象力的深度对话
 ---
-
 ### 节目开场与争议话题的引爆
 
 李沪辰: 大家好，我是你们的李沪辰，今天我们首次进行读评论节目，并邀请到了嘉宾吴薇。

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs: []
 date: '2025-12-22'
@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IoiHI7p12Ao
 speaker: AI Engineer
@@ -19,7 +18,6 @@ summary: swyx 在 AI 工程师峰会上发表的关于“对抗低质内容（Sl
 tags: []
 title: The War on Slop
 ---
-
 ### 对抗低质内容（Slop）的战争
 
 大家早上好！我希望你们今天都充满活力，因为我需要你们的支持。我有点紧张，但我们会一起度过。**今天，我在这里要宣布对“低质内容”（Slop）宣战。**

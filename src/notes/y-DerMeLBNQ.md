@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - IMF
@@ -20,10 +20,7 @@ people:
 - Richard Nixon
 products_models:
 - F-35
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=y-DerMeLBNQ
 speaker: 北美王路飞
@@ -37,7 +34,6 @@ tags:
 - us-national-security-strategy
 title: 美国2025国家安全战略解读：帝国资产重组与全球秩序重塑
 ---
-
 ### 2025国家安全战略：一场冷酷的帝国重组
 
 最近，美国政府颁布了2025年美国国家安全战略（**NSS 2025**：美国政府发布的一份阐述国家安全目标和战略的文件）。如果认为这仅仅是唐纳德·特朗普政府歇斯底里的“退群宣言”或孤立主义复辟，那可能正在犯下一个致命的认知错误。那些关于背叛盟友和放弃责任的道德愤怒，在大国博弈的牌桌上，道德是给观众看的，而利益才是给玩家算的。这份文件并非一份辞职信，恰恰相反，它是一份冷酷到极点的帝国资产负债表重组方案。它上面写的每一个字，翻译成博弈论的语言，都是在说：为了在未来那场决定生死的赌局中活下来，美国必须砍掉所有亏损的业务，变卖所有不赚钱的资产，然后把剩下的每一枚筹码全部压在核心堡垒上。这是一个关于战略收缩、坚壁清野的故事，一个关于美国如何从“世界警察”转化为“西半球武装地主”的故事。我们将透过**约翰·米尔斯海默**（John Mearsheimer：美国政治学家，进攻性现实主义理论的主要代表人物）的现实主义视角来分析这份文档。

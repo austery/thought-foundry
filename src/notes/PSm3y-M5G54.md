@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bank of Japan
@@ -35,10 +35,7 @@ people:
 - Sheikh Hasina
 products_models:
 - Bitcoin
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PSm3y-M5G54
 speaker: LT視界
@@ -52,7 +49,6 @@ tags:
 - political
 title: 全球经济与地缘政治：日本央行加息预期、美国制造业萎缩及中国数据盖牌的深层影响
 ---
-
 ### 全球财经头条：日本央行加息预期与美国制造业萎缩
 
 今天，国际财经界最受关注的话题是彭博社的报道，日本央行行长**植田和南**（Kazuo Ueda: 日本中央银行的现任行长）暗示12月可能**升息**（Interest Rate Hike: 中央银行提高基准利率以抑制通货膨胀）。植田和南的此番演讲超出了国际货币市场和资本市场投资者的预期，不仅将对日元和日本国债带来重大影响，甚至已波及到对美国国债的影响。

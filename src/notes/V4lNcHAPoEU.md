@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Ferrari
@@ -13,10 +13,7 @@ people:
 - David
 - Nikolai
 products_models: []
-project:
-- entrepreneurship
-- systems-thinking
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=V4lNcHAPoEU
 speaker: Norges Bank Investment Management
@@ -30,7 +27,6 @@ tags:
 - strategy
 title: 法拉利CEO Benedetto Vigna：重新定义可能的边界，以情感驱动创新
 ---
-
 ### 开场白与法拉利的新梦想
 
 主持人分享了一个关于法拉利创始人恩佐·法拉利（Enzo Ferrari）的趣闻，他曾因被困电梯而输掉一场比赛，此后便再也不乘坐电梯。

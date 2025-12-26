@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《寻录集》
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kf8duXmla5Q
 speaker: 海淀拙大叔
@@ -26,7 +23,6 @@ tags:
 - valuation
 title: 资本市场风格转变：经济指标与投资策略深度解析
 ---
-
 ### 市场风格的转变与牛市展望
 
 在阿甘资本市场论的第25集中，我们探讨了当前市场出现的“风格转变”现象。回顾9月7日第24篇的观点，当时我们认为牛市的基础依然存在，顶部尚远，无需过度慌张，只有当成交量达到10万亿时才可能触及顶部。急跌慢涨是牛市的典型特征，不必担忧。然而，牛市每次调整之后，都会出现风格转变。9月份我们曾预言风格将发生转变，如今看来，这一预言已得到印证：以科技股为代表的“小灯资产”表现不佳，而传统行业的“老灯资产”则重新崛起。因此，对于投资者而言，均衡配置是跟随牛市走得更远的关键，必须顺势而为。

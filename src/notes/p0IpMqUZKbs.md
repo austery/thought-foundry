@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-24'
 draft: true
@@ -9,9 +9,7 @@ layout: post.njk
 media_books:
 - The Iliad
 - How to Be a Better Human
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p0IpMqUZKbs
 speaker: TED
@@ -25,7 +23,6 @@ tags:
 - llm
 title: 与自然共食：原住民美食如何重塑我们与土地的关系
 ---
-
 ### 重新认识食物的来源
 
 当我搬到洛杉矶时，有一次我在杂货店买柠檬，我的邻居看见我，问道：“你为什么要买柠檬？”

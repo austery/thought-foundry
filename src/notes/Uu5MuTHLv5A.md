@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国
@@ -18,10 +18,7 @@ people:
 - 高晓松
 - 弗拉基米尔·普京
 products_models: []
-project:
-- systems-thinking
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Uu5MuTHLv5A
 speaker: 夸克说
@@ -36,7 +33,6 @@ tags:
 - state
 title: 劣质民主国家为何步履维艰？优质民主与劣质民主的六大分水岭
 ---
-
 大家好，欢迎收看夸克说，我是夸克。不久前有观众发来邮件，问了这么个问题，说他经常在网上跟“粉红们”辩论，争到最后，对方总会来一句：“民主也不是万能的，世界上有很多民主国家都发展不咋地，有的地方还隔三差五搞政变，三天两头打仗呢。阿根廷是民主国家吧，连通胀率都200%。”他觉得对方似乎在偷换概念，但也不知道该如何反驳，所以希望我聊聊这个事。正好之前我其实也收到过类似的邮件，这里就一并汇总，深入聊聊这个话题。
 
 ### 驳斥对民主制度的常见谬误

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -68,10 +68,7 @@ products_models:
 - Bitcoin
 - Ethereum
 - Omniverse
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tN5B4lQkf1I
 speaker: Amit Kukreja
@@ -86,7 +83,6 @@ tags:
 - technology
 title: 英伟达财报日：白宫晚宴、沙特万亿投资与谷歌Gemini 3震撼发布
 ---
-
 ### 英伟达财报日来临，市场盘前普涨
 
 大家早上好，欢迎回到“市场开盘”直播。今天正式是英伟达的财报日，因此市场动态非常丰富。值得高兴的是，我们看到了一个普涨的盘前市场，英伟达自身也呈现绿色。

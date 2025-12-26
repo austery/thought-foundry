@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Kw2bK_jLz8M
 speaker: a16z
@@ -22,7 +20,6 @@ tags:
 - innovation
 title: Keith Rabois 深度解析AI、地缘政治与金融科技未来
 ---
-
 ### AI与国家未来
 
 ChatGPT becomes a monopoly.

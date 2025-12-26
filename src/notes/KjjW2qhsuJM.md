@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-14'
 draft: true
@@ -11,9 +11,7 @@ media_books:
 - Giant Tiger
 - Ashley Madison
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KjjW2qhsuJM
 speaker: TVO Today
@@ -28,7 +26,6 @@ tags:
 - white-nationalism
 title: 安大略省：白人民族主义活跃俱乐部与仇恨犯罪的兴起
 ---
-
 ### 活跃俱乐部与调查缘起
 
 他们组织徒步旅行、划独木舟和聚餐。

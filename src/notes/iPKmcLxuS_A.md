@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - Microsoft
@@ -41,9 +41,7 @@ products_models:
 - Instagram
 - WhatsApp
 - ChatGPT
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iPKmcLxuS_A
 speaker: The Pragmatic Engineer
@@ -56,7 +54,6 @@ tags:
 - software
 title: 与《代码大全》作者 Steve McConnell 对话：软件工艺、职业发展与AI时代的持久之道
 ---
-
 ### 《代码大全》的诞生：从一篇文章到一个900页的庞大计划
 
 我当时以为这本书肯定已经有人写过了，我希望能找到这本书，这样我就可以用它作为一篇文章的素材。在我的构想中，我打算写一本250页的书。所以，那是我第一次，因为我从未出版过任何东西，我想我应该让它看起来像是我知道自己在做什么。因此，我为这本书制定了一个详细的计划，并估算了书的页数，结果出来是900页。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 皮尤研究中心
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=25wcGWvtz1k
 speaker: Money & Macro
@@ -24,7 +22,6 @@ tags:
 - relationship
 title: Z世代爱情危机：三大原因及其对社会经济的深远影响
 ---
-
 ### Z世代爱情危机：全球趋势与深远影响
 
 根据**皮尤研究中心**（Pew Research Center: 一家美国事实调查机构，提供有关社会问题、公众舆论和人口趋势的信息）的数据，56%的**千禧一代**（Millennials: 通常指1980年代初至1990年代中期出生的人群）没有结婚。这种现象不仅限于欧洲、美国，也蔓延至东亚和拉丁美洲。在世界各地，选择建立恋爱关系的**Z世代**（Generation Z: 通常指1990年代末至2010年代初出生的人群）男女越来越少。

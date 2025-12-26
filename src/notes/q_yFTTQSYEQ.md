@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - FBI
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 《判断人心：一位资深FBI特工的行为预测用户手册》
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q_yFTTQSYEQ
 speaker: 北美王路飞
@@ -27,7 +25,6 @@ tags:
 - trust-building
 title: FBI识人术：20条黄金信号，一秒看穿“猪队友”
 ---
-
 ### 引言：识人识己，看穿“猪队友”
 
 大家好，欢迎来到我的频道。今天我们继续探讨前FBI探员亲授的**《size people up》**（识人术：如何快速准确地评估他人）一书，旨在帮助我们一秒看穿身边的“猪队友”。我们将深入研究书中工具的第三条信号，即**可靠性**（Reliability: 指一个人在特定情境下，能够持续兑现承诺并完成任务的特质）。

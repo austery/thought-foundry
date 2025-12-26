@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -17,8 +17,7 @@ people:
 - Larry Page
 - Bill Gates
 - Elon Musk
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MBh8kRto0aw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -31,7 +30,6 @@ tags:
 - impact
 title: 睡眠质量与大脑健康：深入解析失眠的成因、危害与改善之道
 ---
-
 ### 睡眠：被忽视的生命三分之一
 
 你是否曾被问及睡眠质量如何？我们生命中约三分之一的时间都在睡眠和休息中度过，那么，究竟怎样才算睡不好？如果每天能睡八九个小时，就意味着睡得好吗？佩戴**电子手环**（Wearable Devices: 用于监测身体活动和生理指标的智能设备）评估睡眠是否有帮助？本期节目邀请到神经内科及睡眠专科**邬定宇医师**，以及资深媒体人**梁惠雯**，他们共同撰写了《为何睡不好？原来问题在大脑》一书，与我们一同探讨一夜好眠为何如此艰难。

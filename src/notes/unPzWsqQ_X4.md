@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 清华大学
@@ -21,9 +21,7 @@ people:
 - 彭真
 - 周恩来
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=unPzWsqQ_X4
 speaker: 柴静 Chai Jing
@@ -37,7 +35,6 @@ tags:
 - urban
 title: 林徽因：纠正历史偏见，重塑中国第一位女建筑师的真实图景
 ---
-
 ### 补发学位背后的历史纠偏
 
 今天是林徽因诞辰120周年。之所以做这个节目，是因为上个月宾夕法尼亚大学给她补发了建筑学学位的证书。100年前，她本来应该得到的机会，就因为女性身份而没有能够得到，这个历史错误今天被纠正了。但这引起了我的兴趣去重读林徽因，我才知道这位中国历史上第一位女建筑师在当年因为她的性别，在追求职业使命当中遇到了多少障碍。而我作为一个中国人，对自己文化史上一个重要女性的了解，有多少遗漏、多少忽视，和多少需要被纠正的历史错误。

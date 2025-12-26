@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - University of Waterloo
@@ -9,8 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-tP5MJm0AoM
 speaker: TVO Today
@@ -24,7 +23,6 @@ tags:
 - technology
 title: 加拿大如何适应气候变化？从家园到社区的韧性建设
 ---
-
 ### 气候适应：加拿大韧性建设的核心
 
 构建**气候韧性**（Climate Resilience: 应对气候变化影响并从中恢复的能力）意味着什么？Anabela Bonada是滑铁卢大学**英泰气候适应中心**（Intact Centre on Climate Adaptation: 致力于气候适应研究与实践的机构）的气候科学常务董事。她认为，加拿大不应仅仅对灾害作出反应，更应该为此做好准备。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -12,9 +12,7 @@ layout: post.njk
 products_models:
 - Codeex
 - GPT-5
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p1CmPZ2j6Lk
 speaker: AI Engineer
@@ -29,7 +27,6 @@ tags:
 - tool
 title: OpenAI Agent RFT：通过强化微调提升智能体性能的策略与实践
 ---
-
 ### 智能体强化微调 (Agent RFT) 简介
 
 大家好，我是Will。

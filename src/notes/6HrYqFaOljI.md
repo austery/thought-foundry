@@ -28,10 +28,7 @@ people:
 products_models:
 - ChatGPT
 - Taylor rule
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6HrYqFaOljI
 speaker: Bloomberg Podcasts
@@ -45,7 +42,6 @@ tags:
 - rate
 title: 中性利率飙升：解读全球资金成本上涨的五大动因
 ---
-
 ### 中性利率：一个“看不见”的魔法对象
 
 **Joe:** 崔西，我觉得这场对话真正探讨的是一个你不能直视的魔法对象，因为它会让你凝固。

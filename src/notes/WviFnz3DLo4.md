@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Wilson Foundation
@@ -26,10 +26,7 @@ people:
 - Barack Obama
 - Donald Trump
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WviFnz3DLo4
 speaker: TVO Today
@@ -43,7 +40,6 @@ tags:
 - system
 title: 加拿大对华关系：迈克尔·康明凯的警示与战略耐心
 ---
-
 ### 加拿大与中国关系的演变：吸取历史教训
 
 加拿大与中国的关系正在迅速演变。我们是否充分吸取了近期历史的教训，以便正确处理这一关系？

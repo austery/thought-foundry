@@ -20,10 +20,7 @@ products_models:
 - Cybertruck
 - Optimus
 - Model 3
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vzEtiESwY9s
 speaker: 投资TALK君
@@ -36,7 +33,6 @@ tags:
 - market-sentiment
 title: 特斯拉与GEV财报深度解析：市场情绪、自动驾驶与电气化未来
 ---
-
 各位观众大家好，欢迎来到一个一进入财报季度就转变为“爱发电”工作狂魔的专业美股频道。我是市场分析员小涛。今天将主要和大家聊一下两家公司的财报，它们也是我持仓的公司：特斯拉（Tesla）和GEV。虽然从结果来看，两家公司股价都出现了下跌，但财报具体如何，我们一起来深入探讨。
 
 ### 市场概览与板块轮动

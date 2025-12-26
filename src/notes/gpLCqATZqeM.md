@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -14,8 +14,7 @@ media_books:
 people:
 - May姐
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gpLCqATZqeM
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -26,7 +25,6 @@ tags:
 - loss
 title: 減肥想吃澱粉又怕胖？May姐教你用「偽碳水」越吃越瘦的控醣料理
 ---
-
 ### 控醣料理新思維：偽碳水讓你越吃越瘦
 
 **小吳醫師:** 哈囉大家好，我是小吳醫師。我常常在診間聽到客人跟我說：「小吳醫師，我現在在**飲控**（Dietary control: 指通過調整飲食來管理體重或健康狀況），我想要…」不知道在螢幕前的大家是不是有相同的狀況呢？想要減澱粉，但是又覺得不知道要怎麼替換。今天這支影片呢，是我們的全新系列，會從病症解析聊到飲食對策，從營養素聊到餐桌上，就是要教大家不用餓肚子、不用算熱量，能夠好好地選擇對的食物。那我們今天邀請到YT頻道「May姐健康台味」的May姐，來教大家做控醣料理，我們歡迎May姐。

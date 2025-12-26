@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: science
 companies_orgs:
 - BetterHelp
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - Derek
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Is2Lip1cJUc
 speaker: veritasium
@@ -26,7 +25,6 @@ tags:
 - society
 title: 挑战极限：屏息背后的生理与心理奥秘
 ---
-
 ### 屏息挑战：探索人体极限
 
 水箱里是布兰登·伯查克（Brandon Birchak），他将尝试在这段视频的整个过程中屏住呼吸。

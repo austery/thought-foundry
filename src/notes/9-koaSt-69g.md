@@ -29,8 +29,7 @@ people:
 - Lisa Su
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9-koaSt-69g
 speaker: 小翠時政財經
@@ -41,7 +40,6 @@ tags:
 - stock-market
 title: 加税、美联储与AI时代：2025年市场前瞻与投资策略
 ---
-
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月16日，欢迎收看今天的每日要闻节目。
 
 ### A股市场动态与政策影响

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Apple
@@ -19,9 +19,7 @@ people:
 products_models:
 - iPhone
 - Saily
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2oDXbFcHliM
 speaker: veritasium
@@ -34,7 +32,6 @@ tags:
 - technology
 title: 玻璃：从易碎到坚不可摧的材料革命
 ---
-
 ### 玻璃：从易碎到坚韧的蜕变
 
 玻璃本质上是**脆性**（brittle）的。

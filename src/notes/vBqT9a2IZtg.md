@@ -11,10 +11,7 @@ people:
 - lt
 products_models:
 - bitcoin
-project:
-- ai-impact-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vBqT9a2IZtg
 speaker: LT視界
@@ -25,7 +22,6 @@ tags:
 - china
 title: 金价飙升，比特币创新高，AI选股成新趋势，中俄朝关系微妙，中国数字监控引担忧
 ---
-
 ### 财经头条：黄金、比特币价格创新高，AI选股成焦点
 
 **黄金价格首次突破4000美元，投资者担忧美国经济前景**

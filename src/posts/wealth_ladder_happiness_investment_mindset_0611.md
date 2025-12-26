@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 author: Lei
 category: lifestyle
 companies_orgs:
@@ -28,9 +28,7 @@ people:
 products_models:
 - S&P 500
 - Starlink
-project:
-- fire-movement
-- personal-growth-lab
+project: []
 source: ''
 speaker: 一口新饭读书会
 status: evergreen
@@ -43,7 +41,6 @@ tags:
 - wealth
 title: 财富阶梯与幸福感：一场关于金钱、目标和个人价值的深度探讨
 ---
-
 ## 开场与闲聊
 
 Vivi: 你好呀，可以听到我说话吗？

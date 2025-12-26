@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - LV集团
@@ -36,10 +36,7 @@ people:
 - 王毅
 products_models:
 - TikTok
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BeHwwSCW-9Y
 speaker: LT視界
@@ -53,7 +50,6 @@ tags:
 - us-china-relations
 title: 习近平索要新权力？政治局会议解读与中国经济观察
 ---
-
 ### 美国消费趋势与宏观经济观察
 
 《经济学人》报道指出，尽管美国消费者信心指数降至历史低点，但实际消费支出并未同步下降，两者出现脱钩。美国即将迎来黑色星期五和网络星期一的消费狂潮，企业将密切关注消费意愿。密歇根大学消费者信心指数已跌至仅略高于2022年6月的水平，当时正值疫情最严重时期。美国人普遍对就业前景感到沮丧，并对通货膨胀感到担忧，计划削减开支。然而，美国人口普查局数据显示，经通胀调整后，9月份零售商和餐厅的支出同比增长1%，表明消费者并未大幅勒紧裤腰带。富人受益于坚挺的股市，消费能力依旧强劲，而低收入消费者面临更大压力。富国银行预测，今年购物季的销售额将高于通货膨胀率。

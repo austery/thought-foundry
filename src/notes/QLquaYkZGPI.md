@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 新华社
@@ -15,9 +15,7 @@ people:
 - 段永平
 - 毛泽东
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QLquaYkZGPI
 speaker: 夸克说
@@ -31,7 +29,6 @@ tags:
 - social
 title: 为何中国老板常出尔反尔？契约精神的缺失与全球比较
 ---
-
 ### 节目开场与观众来信
 
 大家好，欢迎收看夸克说，我是夸克。节目开始前，我先发一则招聘广告：由于发展需要，本频道面向全球招聘一位AI动画长篇制作师。主要工作内容是与我合作制作由AI工具生成的连续剧型动画剧集。如果您具备相应的专业能力，欢迎给我发邮件，并附上您此前的作品及基本情况。我们将提供基于加拿大标准的有竞争力的薪酬。

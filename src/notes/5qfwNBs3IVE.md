@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Meta
@@ -8,8 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- gigascale-capital
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5qfwNBs3IVE
 speaker: EO
@@ -20,7 +19,6 @@ tags:
 - tech
 title: 高保真双语档案：Mike Schroepfer - 下一代科技投资与创新
 ---
-
 ### 高保真双语档案：Mike Schroepfer - 下一代科技投资与创新
 
 我叫 Mike Schroepfer。

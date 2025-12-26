@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - LastPass
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QRt7LjqJ45k
 speaker: veritasium
@@ -24,7 +22,6 @@ tags:
 - technology
 title: 减缓衰老甚至逆转衰老：科学前沿与实践
 ---
-
 ### 减缓衰老研究的意义与顾虑
 
 本视频的一部分由LastPass赞助，更多信息将在节目末尾介绍。这是一个关于减缓衰老速度和延长人类寿命研究的视频。在拍摄之前，我想了解大家对这类研究的普遍看法。我做了一个Twitter投票，结果发现大多数人支持并认为应该有更多的此类研究，但也有一些重要的顾虑，我想在开头就解决这些问题。最主要的顾虑是：如果我们要延长人类寿命，那是否意味着我们将有更多“生病”的岁月，躺在床上患上阿尔茨海默症？没有人希望这样，这一点对我来说很清楚。

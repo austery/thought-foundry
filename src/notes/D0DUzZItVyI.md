@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Amazon
@@ -17,10 +17,7 @@ people:
 products_models:
 - ChatGPT 3.5
 - iPhone
-project:
-- us-analysis
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D0DUzZItVyI
 speaker: Big Think
@@ -34,7 +31,6 @@ tags:
 - technological
 title: 未来25年：技术引爆的文明重塑与大繁荣时代
 ---
-
 ### 历史的转折点：大进步时代
 
 我们正生活在一个非凡的历史时刻。

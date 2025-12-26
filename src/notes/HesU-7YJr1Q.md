@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg Podcasts
@@ -26,10 +26,7 @@ products_models:
 - Bitcoin
 - Ethereum
 - Solana
-project:
-- ai-impact-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HesU-7YJr1Q
 speaker: Bloomberg Podcasts
@@ -44,7 +41,6 @@ tags:
 - prediction-market
 title: 芝加哥交易之王唐·威尔逊：GPU市场将超越石油，代币化与预测市场的未来
 ---
-
 ### 欢迎与 GPU 市场愿景
 
 Odd Lots 的各位观众，你们即将观看的是在芝加哥现场录制的一段对话，嘉宾是 TRW 创始人兼首席执行官唐·威尔逊（Don Wilson），他有时被称为交易界最聪明的人。

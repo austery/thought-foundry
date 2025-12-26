@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中金公司
@@ -14,9 +14,7 @@ media_books:
 people:
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IM6gLtDy_Us
 speaker: 小翠時政財經
@@ -30,7 +28,6 @@ tags:
 - state
 title: 中金资本腐败窝案：国家队里的国家队为何被“一锅端”？
 ---
-
 ### 引言：中金资本的崛起与覆灭
 
 今天我们要聊的是中国金融圈的一只超级大鳄——**中金资本**（CICC Capital: 中金公司旗下的私募股权投资管理机构）。它是著名央企**中金公司**（CICC: 中国国际金融股份有限公司，中国首家中外合资投资银行）旗下的子公司，也是国内背景最硬、资源最广、能量最大的私募投资管理机构。2017年，中金资本刚成立，就拿到了财政部母基金的管理资格，此后一路高歌猛进。截至2024年9月，中金资本累计资产管理规模已超过5,600亿，投资近1,500个直投项目，拥有390只子基金。

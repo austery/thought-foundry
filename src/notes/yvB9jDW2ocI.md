@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -40,10 +40,7 @@ people:
 - JD Vance
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yvB9jDW2ocI
 speaker: TVO Today
@@ -57,7 +54,6 @@ tags:
 - tech
 title: AI版权之争与硅谷政治激进化：科技巨头如何重塑未来
 ---
-
 ### 生成式AI的承诺与版权挑战
 
 **生成式AI**（Generative AI: 能够根据现有数据生成新内容的人工智能）是否能拓展创造力的边界并扩展人类知识？其支持者无疑是这样认为的。OpenAI的首席执行官**山姆·奥尔特曼**（Sam Altman）表示，人类的创造精神极其重要，他们希望构建能够提升这种精神的工具，让更多人创作出更好的艺术、内容和小说，供我们所有人欣赏。

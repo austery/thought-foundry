@@ -9,9 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=zqrxCx7KKLY
 speaker: a16z
@@ -24,7 +22,6 @@ tags:
 - social
 title: 科技的共同主线：从美国动力学到医疗和教育中的人工智能
 ---
-
 # 科技的共同主线：从美国动力学到医疗和教育中的人工智能
 
 ## I. 科技领域的连贯性与统一价值

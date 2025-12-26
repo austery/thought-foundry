@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Amazon
@@ -28,10 +28,7 @@ people:
 - Andy Jassy
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YcHaXJWXpOM
 speaker: 投资TALK君
@@ -45,7 +42,6 @@ tags:
 - us-china-relations
 title: AI落地引发大裁员，高通加入AI推理战局：市场、地缘与宏观数据展望
 ---
-
 各位观众大家好，欢迎来到本周的专业美股频道。我是市场分析员萧涛。今天主要和大家聊聊近期发生的一些新闻，大多数新闻都与芯片板块或大科技相关，主要围绕着AI展开。同时，我们也将通过宏观数据，探讨本周将要发布的一些重要经济数据，包括周三的美联储会议，以及我们对此的预期。
 
 ### 市场概览与中美关系影响

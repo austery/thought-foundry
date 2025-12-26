@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 贵州茅台
@@ -12,10 +12,7 @@ media_books:
 - 《资本的秘密》
 - 《巡录集》
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1Qpin5lQass
 speaker: 海淀拙大叔
@@ -29,7 +26,6 @@ tags:
 - reform
 title: 中国消费不足的深层逻辑：投资、信心与财富增值的多维解析
 ---
-
 ### 探寻中国消费不足的深层逻辑
 
 “阿甘知识分享论”第二篇，旨在深入探讨中国消费不足的深层逻辑。当前，中国消费不足问题为何总是难以解决？一言以蔽之，是由于我们过去的投资占比过高，导致今天的产出超出了我们当前消费的极限。

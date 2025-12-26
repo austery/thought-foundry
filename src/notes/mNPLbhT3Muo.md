@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - Parks Canada
@@ -28,7 +28,6 @@ tags:
 - travel
 title: 班芙国家公园深度游：弓谷大道、露易丝湖与梦莲湖精华攻略
 ---
-
 ### 班芙北部风光：弓谷大道与沿途景点
 
 大家好，我是庄野，欢迎您收看庄野杂谈加拿大系列节目。今天咱们继续讲述班芙国家公园的旅程，从班芙镇往北，前往路易斯湖跟梦莲湖一带。然而，在抵达目的地之前，沿途还有许多绝美的景色不容错过。

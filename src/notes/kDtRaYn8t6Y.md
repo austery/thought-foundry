@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-08-31'
 draft: true
@@ -12,9 +12,7 @@ people:
 - 巴拉克·奥巴马
 - 希拉里·克林顿
 products_models: []
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kDtRaYn8t6Y
 speaker: 北美王路飞
@@ -29,7 +27,6 @@ tags:
 - super-pac
 title: 金钱与言论：公民联合案如何重塑美国政治
 ---
-
 ### 美国民主的理想与现实：金钱的隐形之手
 
 今天我们将深入探讨一个核心议题：金钱是如何操纵美国政治游戏的。在来到美国之前，许多人对自由民主充满向往，羡慕美国作为民主灯塔，宣扬人人平等、“一人一票”，每个人的声音都与华尔街大佬一样重要。这听起来特别美好，然而，在美国生活十几年后，我们可能会发现这一切可能都只是一个精心包装的童话故事。

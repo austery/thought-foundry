@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=50AhIyybR0M
 speaker: Anthropic
@@ -22,7 +20,6 @@ tags:
 - financial
 title: Claude 赋能金融服务：革新分析、驱动增长与应对挑战
 ---
-
 ### 欢迎致辞：Claude 驱动金融未来
 
 Please welcome to the stage head of revenue at Anthropic Kate Jensen.

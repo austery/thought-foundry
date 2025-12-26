@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
@@ -20,9 +20,7 @@ people:
 - Annie Duke
 - Sam Altman
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Qvy9oAldcxY
 speaker: Norges Bank Investment Management
@@ -36,7 +34,6 @@ tags:
 - psychology
 title: 丹·平克：拥抱遗憾、激发内在动力与掌握时机，活出更丰盛的人生
 ---
-
 ### 播客开场：欢迎丹·平克
 
 **Nikolai**: 大家好，我是挪威主权财富基金（**Sovereign wealth fund**: 由政府拥有和管理的投资基金）的**首席运营官**（COO: Chief Operating Officer）**尼古拉·坦根**（Nikolai Tangen）。今天，我非常高兴地欢迎**丹·平克**（Dan Pink），他撰写了七本《**纽约时报**》（New York Times: 美国知名报纸）畅销书。

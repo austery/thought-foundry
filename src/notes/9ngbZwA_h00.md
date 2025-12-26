@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: productivity
 companies_orgs:
 - OpenAI
@@ -24,10 +24,7 @@ products_models:
 - Whisper
 - Gemini
 - Photoshop
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9ngbZwA_h00
 speaker: How I AI
@@ -41,7 +38,6 @@ tags:
 - technology
 title: AI如何赋能纪录片制作：自动化繁琐任务，提升效率与发现力
 ---
-
 ### 引言：AI在纪录片制作中的应用
 
 Claire Vo: 你是如何思考AI在你的工作以及与你共事的人们所面临的问题中，有哪些可以解决的？你又为何从最初的起点开始呢？

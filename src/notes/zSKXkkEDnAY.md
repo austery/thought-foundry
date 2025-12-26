@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 恒大
@@ -30,10 +30,7 @@ people:
 - 李鸿章
 - 薄熙来
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zSKXkkEDnAY
 speaker: 夸克说
@@ -47,7 +44,6 @@ tags:
 - risk
 title: 王健林事件：中国政商关系的潜规则与民营企业家的困境
 ---
-
 ### 王健林被限高事件的震撼与反思
 
 大家好，欢迎收看夸克说，我是夸克。这期节目咱们讲讲近期王健林被**限高**（限制高消费: 一种法律措施，限制有未偿债务的个人或实体进行高价值消费）的事。在正式开始讨论前，先做个小广告。前几天我刚刚开通了Twitter，也就是X的账号，链接我会放在评论区。今后大家除了看我的视频节目外，还可以上Twitter和我互动，有些比较碎片化、个人化的想法，我可能会在推上更新得多一些。广告完毕，说回这期的主角王健林。

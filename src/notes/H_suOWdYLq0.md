@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 美国证券交易委员会
@@ -30,10 +30,7 @@ people:
 - Donald Trump
 products_models:
 - ChatGPT
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=H_suOWdYLq0
 speaker: 北美王路飞
@@ -47,7 +44,6 @@ tags:
 - us-fiscal-policy
 title: 大空头Michael Burry深度解析：为何做空AI与美国金融体系的结构性危机
 ---
-
 ### 大空头Michael Burry的再现与隐秘世界
 
 如果你曾看过电影《大空头》（The Big Short），你一定不会忘记那个性格古怪、喜欢光脚在办公室里听重金属音乐、独自一人对抗整个华尔街的独眼天才——**Michael Burry**。然而，在现实生活中，他几乎就是一个幽灵。大多数华尔街的赢家在赚了几亿美金之后，会写书、上CNBC吹嘘战绩，迫不及待地把自己塑造成下一代股神。但Burry不同，在准确预测了人类历史上最大金融灾难之后，他选择了消失。他不仅清空了自己的Twitter，拒绝了几乎所有的采访，甚至连那本让他名声大噪的书《大空头》的作者Michael Lewis想找他聊聊，都吃了闭门羹。

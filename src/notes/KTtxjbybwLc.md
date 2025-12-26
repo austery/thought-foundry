@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Huawei
@@ -23,10 +23,7 @@ people:
 - Lee Kuan Yew
 products_models:
 - H-1B visa
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KTtxjbybwLc
 speaker: 徒步的騎手
@@ -40,7 +37,6 @@ tags:
 - youth-unemployment
 title: 中美人才战：解析特朗普H-1B政策的政治逻辑与中国的无解困境
 ---
-
 ### 人才争夺：中美竞争的核心战场
 
 今天我们来聊一聊中国与世界之间的一场争斗。这场斗争的核心不是土地、石油或芯片，而是人才。国与国之间的竞争，归根结底是人才的竞争。

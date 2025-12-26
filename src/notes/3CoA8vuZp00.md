@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中科院
@@ -19,10 +19,7 @@ people:
 - 蒋经国
 - 李登辉
 - 毛泽东
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3CoA8vuZp00
 speaker: 壽司坦丁 Sociostanding
@@ -36,7 +33,6 @@ tags:
 - war
 title: 台湾核武秘辛：从研发到拆除的地缘政治博弈
 ---
-
 ### 台湾的秘密核武之路：一个被拆除的原子弹故事
 
 台湾距离成为一个真正的**核武国家**（Nuclear-armed state: 拥有核武器的国家）几乎只剩下一件事情要做。我至今仍认为U2乐队的《如何拆除原子弹？》是他们最好的一张专辑。当时我不太懂这标题是什么意思，我当时只觉得Eno长得好像我叔叔。现在，我可以对U2说，这个问题你们问台湾人就对了，因为我们是一个曾经亲眼见证自己的原子弹被拆掉的国家。台湾曾经是一个秘密的核武国家。在这一集，我想透过几篇近几年出版的最新研究，和大家聊聊台湾原子弹是怎么出现，又怎么被拆除的？台湾的核武计划对台湾造成了什么影响？如果历史改变，台湾原子弹顺利诞生，这到底是一件好事还是一件坏事呢？

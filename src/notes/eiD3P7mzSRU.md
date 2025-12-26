@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -15,10 +15,7 @@ people:
 products_models:
 - DeepSeek
 - FSD
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eiD3P7mzSRU
 speaker: Shanghao Jin
@@ -32,7 +29,6 @@ tags:
 - us-china-relations
 title: 中美经济前景、特朗普政策与AI泡沫：2025年市场展望
 ---
-
 ### 市场波动与三大核心议题
 
 近期市场波动剧烈，引发了广泛关注。当前，市场主要围绕三大核心议题展开讨论：首先，美国经济是否已达顶峰，宏观层面应如何解读？其次，人工智能（AI）是否构成泡沫，若成立，泡沫何时可能破裂？第三，中国经济是否已触底，在美国机会不佳的情况下，中国市场是否会迎来重大机遇，特别是考虑到**DeepSeek**（深度求索: 一家中国人工智能公司，以其大模型产品闻名）的出现和即将召开的**两会**（全国人民代表大会和中国人民政治协商会议: 中国每年举行的重要政治会议，通常会发布新的政策和经济目标）可能带来的新政策？这些问题在对冲基金圈内引发了密集的闭门会议和讨论。

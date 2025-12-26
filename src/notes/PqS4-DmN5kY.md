@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -26,10 +26,7 @@ people:
 - Donald Trump
 products_models:
 - Odd Lots podcast
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PqS4-DmN5kY
 speaker: Bloomberg Podcasts
@@ -43,7 +40,6 @@ tags:
 - term
 title: 全球最重要的市场：美国国债的未来走向与挑战
 ---
-
 ### 欢迎来到Odd Lots播客：美国国债市场专题
 
 **Tracy Aloway:** 大家好，欢迎收听Odd Lots播客的特别节目。我是Tracy Aloway。

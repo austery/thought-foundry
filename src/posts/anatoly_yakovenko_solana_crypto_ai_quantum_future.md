@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - Interviewer
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: ''
@@ -27,7 +25,6 @@ tags:
 - quantum-computing
 title: Anatoly Yakovenko on Solana, Crypto's Next Era with AI and Quantum Computing
 ---
-
 ### Introduction
 
 Interviewer: Anatoli is the CEO of a little crypto project known as Solana, one of the fastest growing blockchains in the world. As CEO of Solana Labs, he's driving web 3 innovation. BlackRock, the world's largest asset manager, expanded its $1.7 billion tokenized money market fund to Solana. Why don't we all switch to Solana? I mean, Solana sounds like it's actually commercial and the other guys sound like they're antique. Everybody in the world should be your customer. Crypto will eventually win. It's inevitable. Ladies and gentlemen, please welcome Solana co-founder Anatoly Yakovenko.

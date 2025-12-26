@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - The Boring Company
@@ -23,7 +23,6 @@ tags:
 - thermal-insulation
 title: 喷火器对决气凝胶：终极绝缘材料的惊人表现与广泛应用
 ---
-
 ### 气凝胶的终极考验：喷火器对决
 
 这是一场气凝胶的终极测试。

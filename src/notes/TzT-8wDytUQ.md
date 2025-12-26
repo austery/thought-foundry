@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Goldman Sachs
@@ -20,10 +20,7 @@ products_models:
 - Tesla
 - Robotaxi
 - Cybertruck
-project:
-- us-analysis
-- geopolitics-watch
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TzT-8wDytUQ
 speaker: Shanghao Jin
@@ -37,7 +34,6 @@ tags:
 - us-election-2024
 title: 特朗普政策不确定性下的市场震荡与投资展望
 ---
-
 ### 市场回顾与投资策略考量
 
 昨天市场大幅下跌，不只是昨日，过去几周市场也持续走低。我们先回顾一下。从去年12月份开始，我建议大家降低仓位，至少要降到60%以内。春节之后，我又一次建议降仓。但复盘来看，我可能还是不够坚决，当时或许应该将仓位降得更低，甚至直接清仓。然而，做交易需要经常复盘。回过头看当时的情况，我可能仍然无法给出空仓的建议。

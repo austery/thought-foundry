@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: https://www.youtube.com/@101.school
@@ -12,8 +12,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=Jb1U0BH31x0
 speaker: ''
@@ -26,7 +25,6 @@ tags:
 title: 深入探讨由Perplexity收购Chrome要约引发的AI浏览器大战
 updated: 2025-08-29T16:34
 ---
-
 ## 什么是AI浏览器？
 
 Howie Sheng: First question, help us to define what is an AI browser. So, guru, why don't you start first?

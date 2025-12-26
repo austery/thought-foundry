@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -62,10 +62,7 @@ products_models:
 - Avocado
 - GPT
 - Neutron
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vVWfnL-oCpU
 speaker: Amit Kukreja
@@ -80,7 +77,6 @@ tags:
 - space-economy
 title: 美联储议息日：Palantir获海军大单，英伟达芯片与中美AI竞争，以及太空数据中心展望
 ---
-
 ### 市场开盘与美联储议息日展望
 
 大家早上好，欢迎回到《市场开盘》节目。我们正在直播，今天是12月10日星期三，也是联邦公开市场委员会（**FOMC**：Federal Open Market Committee，美联储的货币政策决策机构）会议日。今天我们将揭晓美国联邦储备委员会（**Federal Reserve**：美国中央银行系统）是否会降息。

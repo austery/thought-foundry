@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -11,9 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k9C6hYf5kks
 speaker: Norges Bank Investment Management
@@ -27,7 +25,6 @@ tags:
 - value
 title: 负责任投资：挪威主权财富基金2024年报告亮点与长期价值创造
 ---
-
 ### 2024年负责任投资报告亮点
 
 今天，我们发布了2024年负责任投资报告，期待向大家介绍一些亮点。

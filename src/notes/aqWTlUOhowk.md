@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Big Think
@@ -25,10 +25,7 @@ people:
 - Leo Tolstoy
 - Ludwig Wittgenstein
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aqWTlUOhowk
 speaker: Big Think
@@ -41,7 +38,6 @@ tags:
 - problem
 title: 哲学家 Alex O'Connor：从第一因到虚无主义，我们如何理解存在与意义
 ---
-
 认为自己是出于某种写在宇宙法则中的原因而存在，而不是一场或喜或悲的意外，这种想法确实更令人慰藉。我认为有非常充分的论据可以相信，宇宙存在某种基本原则，某个必然存在的实体，某个第一因。但我认为，犹太-基督教传统对于这个存在的描述是一个不完美的近似。
 
 <details>

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times Podcasts
@@ -36,10 +36,7 @@ people:
 - Barack Obama
 - Muhammad bin Salman
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GFov-triEi8
 speaker: New York Times Podcasts
@@ -52,7 +49,6 @@ tags:
 - power
 title: 国会命令特朗普公布爱泼斯坦文件：一场政治反叛与权力制衡的胜利
 ---
-
 ### 国会通过爱泼斯坦文件法案：一场政治反叛
 
 这里是《纽约时报》的迈克尔·巴巴罗，欢迎收听《The Daily》。周二，在一场戏剧性的投票中，国会共和党人以压倒性优势通过了一项法案。这项法案是特朗普总统数月来一直试图阻止的，但现在它将迫使他的政府公布所有与**杰弗里·爱泼斯坦**（Jeffrey Epstein: 美国金融家，因性贩卖未成年少女被捕并死亡）相关的文件。

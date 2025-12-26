@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Brilliant
@@ -14,9 +14,7 @@ media_books:
 people:
 - Euclid
 - Leonhard Euler
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Zrv1EDIqHkY
 speaker: veritasium
@@ -30,7 +28,6 @@ tags:
 - theory
 title: 数学中最古老的未解之谜：奇完全数之问
 ---
-
 ### 数学中最古老的未解之谜
 
 这是一个关于数学中最古老的未解之谜的视频，它可追溯到两千年前。

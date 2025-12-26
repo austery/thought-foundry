@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Reuters
@@ -29,10 +29,7 @@ people:
 - 雷震
 products_models:
 - PHL-03火箭炮
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cNJ1e74lc-0
 speaker: LT視界
@@ -46,7 +43,6 @@ tags:
 - us-foreign-policy
 title: 中国政治局定调2026年经济：内需优先，对外经贸斗争；贸易顺差创新高引国际警惕；乌克兰、台湾及全球财经热点分析
 ---
-
 ### 全球财经市场动态
 
 今天的重要新闻首先关注财经头条，有三个方面的最新信息值得分享。第一是路透社的报道，美联储会议之前，全球股票基金吸引了资金流入。由于市场预期**美联储**（Federal Reserve: 美国中央银行系统）本周可能降息，风险情绪受到提振，全球股票基金吸引了大量的资金流入。截至12月3日的当周，投资者净买入价值79.3亿美元的全球股票基金，与前一周净卖出约64.1亿美元的数据形成鲜明对比。芝加哥商品交易所交易员今天认为，美联储周三降息25个基点的概率为89.6%。也就是说，在今天这个时间节点，差不多90%的交易员认为周三美联储会做出25个基点降息的决定，这几乎成了市场的一种确定性。这个新闻通过数据佐证，得出的结论仍然是周三的降息有利于全球股市。

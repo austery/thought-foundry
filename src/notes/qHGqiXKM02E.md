@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -27,10 +27,7 @@ people:
 - Joe Biden
 - Adam Schiff
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qHGqiXKM02E
 speaker: 记者易速利
@@ -43,7 +40,6 @@ tags:
 - system
 title: 特朗普前私人律师起诉科米：一场充满政治色彩的司法对决
 ---
-
 ### 科米被起诉案：开庭审理与辩方策略
 
 前联邦调查局局长詹姆斯·科米（James Comey）被指控向国会撒谎的案件预计将于2026年1月5日开庭审理。在媒体被带入法庭时，科米已坐在辩护席上，在简短的听证会期间，他安静地坐在律师两侧，而辩方和检方则在商讨包括设定审判日期在内的后勤事宜。科米的辩护团队目前采取主动进攻的姿态，旨在让代表特朗普和司法部的检方陷入防守。检方的前台代表是弗吉尼亚东区的代理**联邦检察官**（US Attorney: 联邦政府在特定司法区域的首席检察官，代表美国政府提起刑事诉讼和民事案件）林塞·哈里根（Lindsey Halligan）。她因起诉科米而备受关注，既有赞扬也有谴责。哈里根被任命为弗吉尼亚州的联邦检察官后，迅速兑现了特朗普总统的强烈意愿。

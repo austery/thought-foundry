@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 三K党
@@ -14,10 +14,7 @@ people:
 - 张内咸
 - 冯小刚
 - 高晓松
-project:
-- cultural-critique
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=N7PdFdusER4
 speaker: 張内咸
@@ -31,7 +28,6 @@ tags:
 - semiotic
 title: 万圣节与恐怖片：解构东西方恐惧文化的深层差异
 ---
-
 ### 万圣节的文化演变与宗教背景
 
 大家好，我是张内咸，又见面了。本周末是一年一度的万圣节，不知道大家都是怎么安排的呢？这次轮到西方的鬼节了，你们有没有发现，看我的节目啊，这一年以来，好像就没从殡葬行业里面出来过，怎么老是这点事呢？今年清明节的时候我带着大家上坟，后来到中元节又带着大家烧纸，火葬场的粉丝每周六晚上给我打call，我娘还给我提前买好了阴宅，我感觉自己在各位观众的鼓励下，已经功德圆满，随时可以准备升天啦。当然了，因为我家有一半在美国嘛，像我这种情况，死了以后应该能混个双重阴籍，所以我提前把纸钱和**赎罪券**（Indulgences: 罗马教廷出售的免除罪罚的凭证）都给准备好了，争取在两边都能吃得开，因为我担心这两种货币到了那边也不能自由兑换嘛。

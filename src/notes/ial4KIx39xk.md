@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Wall Street Journal
@@ -21,10 +21,7 @@ people:
 - Bernie Sanders
 - Mao Zedong
 - George Washington
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ial4KIx39xk
 speaker: 徒步的騎手
@@ -38,7 +35,6 @@ tags:
 - us-china-relations
 title: 美国“乱象”的深层逻辑：民主与资本主义的250年博弈
 ---
-
 ### 中国人眼中的美国“乱象”与历史常态
 
 大家好，前面有期节目我们讲了中国人一个历史悠久的绝活，就是建墙。古代建长城，到了互联网时代也要在网上建道墙，把自己的世界分成墙内墙外。从墙内看墙外的世界，如果只看官方宣传喉舌和各种民间**肉喇叭**（Rou Labao: 指代那些为官方宣传摇旗呐喊、缺乏独立思考的民间人士或媒体），肯定会得出一个结论，就是美国要完了，日本要完了，欧洲也要完了。墙不只是阻挡中国人的视野，而且也塑造中国人的**三观**（San Guan: 世界观、人生观、价值观）和行为方式。很多从墙内出来的人到了国外，也是背着墙出来，仍然是那种“墙民”世界观。他们来到美国看美国媒体，发现美国真是太乱了，真的快要完了，跟墙内喉舌、跟墙内的肉喇叭说的都一样：社会撕裂、种族对立、政客相互攻击、党派互相拆台、政治冲突接连不断、民众动不动就上街抗议，这能不完吗？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -33,10 +33,7 @@ people:
 - 王家卫
 products_models:
 - F-16
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OOCOFx10SZo
 speaker: LT視界
@@ -50,7 +47,6 @@ tags:
 - us-monetary-policy
 title: 美联储降息前景不明，中国经济数据引困惑，地缘政治与社会控制成焦点
 ---
-
 ### 美联储降息前景与市场反应
 
 全球资本市场目前笼罩在不确定性中，主要源于美联储内部对12月份是否降息的动向。有观点认为，12月份降息的确定性降低，即便降息也可能仅为25个基点，并附带对泡沫的质疑。这两种舆论叠加，使得资本市场在12月9日之前可能持续多云甚至阴雨绵绵。

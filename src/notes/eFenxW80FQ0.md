@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 环球时报
@@ -45,10 +45,7 @@ people:
 - 刘晓波
 - 韩寒
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eFenxW80FQ0
 speaker: 东京人文论坛
@@ -61,7 +58,6 @@ tags:
 - traffic-nationalism
 title: 胡锡进与《环球时报》：中国商业民族主义的兴衰史
 ---
-
 ### 引言：胡锡进的崛起与江泽民时代
 
 为什么要以《环球时报》为例呢？今天这个日子很好，是伟大的无产阶级革命家、军事家、政治家江泽民同志的生日。之所以提到江泽民，是因为胡锡进的崛起与江泽民时代有密切关系。民族主义这个叙事，恰恰是在江时代形成甚至奠基的。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Intel
@@ -51,10 +51,7 @@ people:
 - Dwight D. Eisenhower
 products_models:
 - DeepSeek
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VaNy4J4cju8
 speaker: Bloomberg Podcasts
@@ -68,7 +65,6 @@ tags:
 - tech
 title: 丹·王谈中国经济的飞速增长：工程治国、产能过剩与科技雄心
 ---
-
 ### 美国对中国的模仿与反思
 
 **丹·王:** 特蕾西，当我第一次听到“**解放日**”（Liberation Day: 指美国政府宣布对中国实施关税的日期，与中国历史上的“解放日”形成对比）的关税时，我觉得“解放”这个词听起来不太像美国词汇，在我听来它更像一个中国词汇。

@@ -12,8 +12,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: Google Gemini
@@ -23,7 +22,6 @@ tags:
 - autonomous-driving
 title: 对特斯拉完全自动驾驶（FSD）技术的独立评估：性能、安全与Robotaxi的博弈
 ---
-
 ## 执行摘要
 
 本报告旨在对特斯拉的完全自动驾驶（Full Self-Driving, FSD）技术进行全面、客观的评估。报告首先分析了用户提供的批评性文本，该文本准确地捕捉了FSD早期版本存在的“不可预测性”、权威机构的负面安全评级以及数据透明度等历史性问题。然而，随着FSD v12版本的推出，其底层架构发生了根本性变革，使得部分批评已显过时。

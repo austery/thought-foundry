@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 复旦大学AI向善与数字养老研究中心
@@ -10,10 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 《每日野兽》
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FGOKB1j_bhU
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - technology
 title: AI如何对待正在变老的人：数字时代的尊严、孤独与技术后置效应
 ---
-
 ## 快速老龄化社会的挑战
 
 大家下午好，我是申琦，来自复旦大学老林研究院，也是复旦大学AI上善与数字养老研究中心团队的负责人。那么谈到**AI向善**和**数字养老**，大家可能对数字养老会有一个比较具象化的理解，比如说我们现在有很多可穿戴设备、有机器人。那么什么是AI上善呢？AI怎么能够上善呢？它又为什么要上善呢？我想今天就以AI如何对待正在变老的老人，来跟大家一起分享一下我们的研究。

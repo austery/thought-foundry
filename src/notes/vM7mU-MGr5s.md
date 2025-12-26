@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -10,8 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vM7mU-MGr5s
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -24,7 +23,6 @@ tags:
 - weight-management
 title: 三明治的血糖陷阱：減重醫師揭秘早餐地雷與健康選擇
 ---
-
 ### 三明治的健康迷思與血糖衝擊
 
 三明治是許多人早餐和午餐的首選，包括我自己以前也是。我幾乎吃過各種超商和連鎖早餐店的三明治，但後來發現，如果沒有搭配正確的吃法，會讓我變成**泡芙人**（外表不胖但體脂高、肌肉量低的體型），甚至越吃越累。確實，與肉包、薯餅、飯糰等其他主食相比，三明治看起來小小一份，比較清爽、少油，但對於已經有**代謝問題**（身體處理營養素和能量的效率出現異常）的族群來說，吃錯了仍然是一個血糖炸彈。這也是我這幾年來，透過血糖實測所發現的體悟。

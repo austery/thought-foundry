@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - United Nations
@@ -17,9 +17,7 @@ people:
 - George W. Bush
 - Winston Churchill
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qf7ws2DF-zk
 speaker: veritasium
@@ -33,7 +31,6 @@ tags:
 - technology
 title: 民主制度在数学上为何不可能？阿罗不可能定理揭示投票系统的困境
 ---
-
 ### 民主制度的数学困境
 
 民主制度在数学上可能是不可能的。

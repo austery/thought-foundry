@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -86,10 +86,7 @@ products_models:
 - Optimus
 - FSD
 - Claude
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jz62JH6e-1Q
 speaker: Amit Kukreja
@@ -103,7 +100,6 @@ tags:
 - trade
 title: 伯克希尔建仓谷歌震动市场，英伟达财报周来临
 ---
-
 ### 开盘直击：市场由绿转红
 
 大家早上好，欢迎回到新一期的《市场开盘》。今天是11月17日，星期一。我们正在直播，市场刚刚转为下跌。期货市场之前还是上涨的，昨晚也是上涨的，但就在大约30分钟前，市场突然转跌。我认为有几个原因导致了今天市场的下跌，我们稍后会讨论。

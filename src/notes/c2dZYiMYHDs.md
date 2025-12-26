@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - CBC
@@ -10,10 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 《莊也雜談》
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=c2dZYiMYHDs
 speaker: 莊也雜談
@@ -28,7 +25,6 @@ tags:
 - psychology
 title: 加拿大医疗系统危机：家庭医生短缺的深层原因与改革困境
 ---
-
 ### 加拿大家庭医生短缺的严峻现状
 
 大家好，我是莊也，欢迎您收看莊也杂谈。今天，我们将探讨一个与我们切身利益紧密相关的话题，那就是加拿大家庭医生严重短缺的问题。在我看来，这已是当今加拿大社会一个非常严重的社会问题，甚至可以称之为危机。它正在冲击整个加拿大医保系统的正常运行，尽管不至于让系统崩溃，但已极大降低了其有效性和可持续发展能力，对社会构成了严重的冲击。

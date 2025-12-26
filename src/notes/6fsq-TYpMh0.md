@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - NASDAQ
@@ -17,10 +17,7 @@ people:
 - Nicola Tangan
 - Adena Friedman
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6fsq-TYpMh0
 speaker: Norges Bank Investment Management
@@ -34,7 +31,6 @@ tags:
 - public
 title: 纳斯达克CEO艾德娜·弗里德曼：塑造全球金融的未来
 ---
-
 ### 播客引言与嘉宾介绍
 
 大家好，欢迎收听本期播客的精简版，我们每周五都会推出精简版，完整版则在每周三发布。

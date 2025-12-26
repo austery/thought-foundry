@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - AWS
@@ -11,9 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rSTeMV_jGqY
 speaker: TechButMakeItReal
@@ -27,7 +25,6 @@ tags:
 - trend
 title: 2035年科技领域哪些职业将举足轻重？
 ---
-
 ### 引言：未来科技就业趋势展望
 
 大家好，我是Daria。今天我们将讨论未来科技领域的就业，特别是未来10到15年的发展。即使是现在，我们也能看到一些非常清晰的趋势。我将重点介绍那些已经展现出强劲发展势头，并注定会持续增长的职位。

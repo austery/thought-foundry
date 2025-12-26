@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -25,10 +25,7 @@ products_models:
 - ChatGPT
 - GPT
 - Midjourney
-project:
-- us-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2MfQ2KCIUWo
 speaker: Money & Macro
@@ -42,7 +39,6 @@ tags:
 - rate
 title: 为什么现在找工作如此艰难？AI、政策不确定性与疫情经济的终结
 ---
-
 ### 当前就业市场：年轻人面临的挑战
 
 我们将会失业。

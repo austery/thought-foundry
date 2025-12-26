@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -22,9 +22,7 @@ products_models:
 - GPT-4
 - Microsoft Word
 - Excel
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0Plo-zT8W9w
 speaker: Internet of Bugs
@@ -38,7 +36,6 @@ tags:
 - software
 title: AI行业最大的谎言：模型只会越来越好？
 ---
-
 ### 揭露AI行业最大的谎言
 
 今天，我想谈谈在我看来，人工智能行业曾经并持续讲述的“最大谎言”，为什么我相信**GPT-5**（Generative Pre-trained Transformer 5: 一种大型语言模型）揭露了这一谎言，以及我认为这个谎言所带来的影响。

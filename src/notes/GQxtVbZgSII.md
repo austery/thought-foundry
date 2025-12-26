@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 四川大学
@@ -12,10 +12,7 @@ media_books:
 - 《万物静默如谜》
 - 《达芬奇的笔记本》
 products_models: []
-project:
-- historical-insights
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GQxtVbZgSII
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - psychology
 title: 活着就好：在游戏与创造中寻找孩子的天命
 ---
-
 ### 在游戏里找到人生的方向
 
 大家好，我是池晓。我是好奇学习社区和钥匙玩校的创办人。我们为9至18岁的青少年设计非传统的教育体验，试图帮他们找到一条不同于传统升学路径的“另一条路”——一种能让他们像被雷劈中一样，突然意识到自己人生方向的体验。

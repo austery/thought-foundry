@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Apple
@@ -33,10 +33,7 @@ products_models:
 - AWS
 - USDC
 - USDT
-project:
-- geopolitics-watch
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DRLwCEuopPY
 speaker: 小翠時政財經
@@ -50,7 +47,6 @@ tags:
 - us-china-relations
 title: 美联储支付创新大会与稳定币未来：摩根大通的优势及中美台议题分析
 ---
-
 ### 全球股市动态：A股、港股与美股表现分析
 
 美东时间2025年10月21日，小翠时政财经节目回顾了近期全球股市的要闻。

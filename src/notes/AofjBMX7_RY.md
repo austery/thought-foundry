@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AofjBMX7_RY
 speaker: 人民公園說AI
@@ -25,7 +23,6 @@ title: 深度解析OpenAI的商业化路径：从AI税到新时代操作系统
 companies:
 - amd-partnership
 ---
-
 ### 引言：OpenAI的商业化野心与行业风向
 
 主持人: 这一周毫无疑问是“OpenAI周”，各种新闻满天飞。如果非要找到一个关键词，大家觉得是什么？

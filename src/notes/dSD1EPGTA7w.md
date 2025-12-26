@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -36,10 +36,7 @@ products_models:
 - CUDA
 - Rufus
 - Vera Rubin
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dSD1EPGTA7w
 speaker: Amit Kukreja
@@ -53,7 +50,6 @@ tags:
 - trade
 title: 英伟达回应谷歌挑战，日元套利交易冲击比特币，美联储或将降息 | 每日回顾
 ---
-
 ### 每日回顾：市场动态与个人思考
 
 大家好，欢迎回到本频道，我们又带来了一期每日回顾节目。希望大家度过了一个愉快的感恩节。说实话，过去几天我完全没有考虑市场，甚至可以说什么都没想。这是我很久以来最长的四天假期，没有直播也没有制作视频。所以，我认为这次休息是必要的，我花了一些时间陪伴家人。希望大家也享受了假期。正如你们所见，我的胡子还在继续生长，我真的长了白头发。我不知道该怎么形容这种感觉，我才28岁，不知道这是否是长白发的年纪。我也不知道是不是市场让我老了，但我不会因为长了白头发就刮掉胡子。不过，它确实很明显，非常显眼，就像圣诞老人一样。

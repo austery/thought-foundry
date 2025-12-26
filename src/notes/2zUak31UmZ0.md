@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - WTO
@@ -34,10 +34,7 @@ people:
 - 特朗普
 products_models:
 - MBTI
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2zUak31UmZ0
 speaker: FearNation 世界苦茶
@@ -51,7 +48,6 @@ tags:
 - relations
 title: 中华帝制的基因：理解中国政治转型的历史惯性
 ---
-
 ### 中国政治转型的复杂性
 转型问题对所有关心中国政治和未来的人来说都不陌生，但对此并没有一个统一的答案。有人认为可以转型，有人则认为转不了，甚至可能千秋万代。最近有领导人说自己要活到150岁，让很多人感到惶恐，因为过去大家寄望于“比他长寿”的希望似乎面临崩溃的危险。
 

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -43,10 +43,7 @@ products_models:
 - Gemini
 - 千问
 - CUDA
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sg7DBVfysmI
 speaker: 小翠時政財經
@@ -60,7 +57,6 @@ tags:
 - rare-earth-diplomacy
 title: 中日关系骤然恶化，中国AI挑战与全球市场多维透视
 ---
-
 ### 市场概览：中日关系与A股、港股表现
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月17日，欢迎收看今天的每日要闻节目。这个周末大事件特别多，特别是中日关系，我们等会儿会重点来讲。

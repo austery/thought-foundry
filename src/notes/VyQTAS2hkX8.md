@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国同盟会
@@ -34,9 +34,7 @@ people:
 - 李宗仁
 - 白崇禧
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VyQTAS2hkX8
 speaker: 东京人文论坛
@@ -49,7 +47,6 @@ tags:
 - technology
 title: 东京造“蒋介石”：一个不起眼的小人物如何塑造近代中国
 ---
-
 ### 历史角落里不起眼的小人物
 我想说的第一句话是：历史常常是在一个不起眼的角落，由不起眼的人创造出来的。所以今天《东京重造中国》的第九讲，我把它称为总结篇，其主角就是一个不起眼的小人物。
 

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 中芯国际
@@ -10,9 +10,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pVAdNvz3hRY
 speaker: 海淀拙大叔
@@ -26,7 +24,6 @@ tags:
 - technology
 title: 中芯国际收购子公司少数股权：港股上涨的催化剂与国家意志的体现
 ---
-
 ### 中芯国际收购子公司股权：港股重大利好
 
 中芯国际此次停牌，对**港股**（Hong Kong Stocks: 在香港联合交易所上市的股票）而言是一个重大利好。近期，中芯国际发布公告，计划通过发行股票的方式，收购**中芯北方**少数股东所持有的49%股权。此前曾有推测，中芯南方等子公司的少数股东迟早会退出，若此情况发生，对中芯国际的股东而言无疑是意外之财。此次收购的并非中芯南方，而是中芯北方，但其性质与预期相符。

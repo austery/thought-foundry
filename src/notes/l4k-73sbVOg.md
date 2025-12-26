@@ -25,10 +25,7 @@ people:
 products_models:
 - A100
 - H100
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=l4k-73sbVOg
 speaker: Money or Life 美股频道
@@ -41,7 +38,6 @@ tags:
 - technology
 title: NeoCloud投资分析：IREN、CIFR、NBIS与CRWV深度对比及投资策略
 ---
-
 ### NeoCloud市场概览与公司梯队划分
 
 最近，美股的**NeoCloud**（GPU云服务：提供高性能GPU计算资源，通常以即服务形式出租）板块表现强劲。本期视频将为大家介绍两家新的公司：IREN和CIFR，并结合之前对CRWV和NBIS两家公司的研究，分析这些公司孰优孰劣，作为投资者该如何判断，以及它们未来会有哪些差异化的发展。最后，将分享NeoCloud的投资观点。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Netflix
@@ -24,9 +24,7 @@ people:
 - David Friedberg
 products_models:
 - Ozempic
-project:
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mFWsIykqa7w
 speaker: All-In Podcast
@@ -41,7 +39,6 @@ tags:
 - wwe-business-model
 title: Triple H 谈 WWE 的演变：从反英雄到共享体验的商业帝国
 ---
-
 ### 摔跤传奇的演变：从擂台到幕后
 
 这位十四届的 **WWE**（世界摔跤娱乐：全球最大的职业摔跤推广公司）世界冠军、两次皇家大战（Royal Rumble）的赢家，现在正幕后运营着世界摔跤娱乐。

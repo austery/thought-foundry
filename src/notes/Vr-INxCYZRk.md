@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -14,9 +14,7 @@ media_books:
 - Easy Strength
 people:
 - 宋晏仁
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Vr-INxCYZRk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -29,7 +27,6 @@ tags:
 - psychology
 title: 何立安博士：探索轻松高效的训练哲学——弹性训练与日常活动的力量
 ---
-
 ### 欢迎来到初日会客室：何立安博士的训练哲学
 
 **宋晏仁:** 嗨 大家好，我是宋晏仁宋医师，欢迎来到初日会客室。今天我们再度邀访我们的好朋友何立安博士。何博士您好。

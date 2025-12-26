@@ -1,11 +1,9 @@
 ---
 title: LT新闻评述：本周全球经济焦点、俄乌冲突升级及中日政局动态
 summary: 本期评论聚焦未来一周全球五大经济事件，特别是美联储利率决策前的通胀数据。同时深入分析了俄罗斯对乌克兰空袭的升级、日本首相石破茂辞职后的政局走向，以及中美韩在移民、间谍与贸易问题上的多重博弈。最后探讨了美国智库对中共近期政治秀的深层解读。
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
+project: []
 tags:
 - china-politics
 - international-relations
@@ -24,7 +22,6 @@ series: null
 source: null
 status: evergreen
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是9月7日。
 
 ## 本周五大经济事件展望

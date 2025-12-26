@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -12,10 +12,7 @@ people:
 - Claude Shannon
 products_models:
 - Tesla Roadster
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZMQbHMgK2rw
 speaker: veritasium
@@ -29,7 +26,6 @@ tags:
 - maze-solving
 title: 微型鼠：一场持续近半世纪的迷宫竞速与机器人创新之旅
 ---
-
 ### 引言：微型鼠竞赛的魅力与挑战
 
 这只小小的机器人鼠可以在短短六秒内完成迷宫。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -31,10 +31,7 @@ products_models:
 - H100
 - GB200
 - M300系列CPU
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iKZRNyrbEkM
 speaker: Shijun Tang
@@ -48,7 +45,6 @@ tags:
 - supply-chain-vulnerability
 title: 英伟达、标普全球与万事达：三巨头的复利机器与支付帝国
 ---
-
 ### 英伟达：CUDA生态构筑的AI垄断护城河
 
 英伟达这家公司，相信你只要不是住在与世隔绝的山洞里没有网络，就很难没听说过它。在短短两年间，它缔造了股价暴涨1395%、翻了十四倍的神话。如今，其在AI数据中心市场的份额超过90%，几乎可以认为这个市场中只存在一家公司——英伟达。

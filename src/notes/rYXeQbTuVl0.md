@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Meta
@@ -33,8 +33,7 @@ products_models:
 - Facebook
 - Netflix
 - TikTok
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rYXeQbTuVl0
 speaker: Dwarkesh Patel
@@ -48,7 +47,6 @@ tags:
 - open-source-ai
 title: 扎克伯格：AI将在18个月内编写Meta大部分代码
 ---
-
 马克，感谢你再次来到播客。很高兴能来，很高兴见到你。我也是。你上次来的时候发布了 **Llama 3**，现在又发布了 **Llama 4** 的第一个版本。没错。有什么新东西？有什么令人兴奋的？有什么变化？整个领域变化如此之快，感觉自从我们上次谈话以来，一切都发生了巨大变化。**Meta AI** 现在每月有近 **10亿** 人使用，这相当惊人。我认为今年对所有这些都将是重要的一年，特别是当你启动个性化循环时。我们现在才刚刚开始真正构建它，这不仅包括所有算法对你感兴趣的内容（如信息流、个人资料信息、社交图谱信息）的理解，还包括你与AI的互动方式。这将是下一个令人兴奋的重点，我对此非常看好。
 
 ### Llama 4 模型发布与规划

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 date: '2021-11-19'
 draft: true
@@ -10,9 +10,7 @@ people:
 - James Clerk Maxwell
 products_models:
 - Alexa
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bHIhgxav9LY
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - society
 title: 关于电的巨大误解：能量如何真正传输？
 ---
-
 ### 引言：关于灯泡点亮速度的谜题
 
 本视频由Lutron旗下的**Caséta**赞助。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -17,10 +17,7 @@ products_models:
 - Cursor
 - ChatGPT
 - TPUs
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OsLRf6r5U9E
 speaker: a16z
@@ -34,7 +31,6 @@ tags:
 - technology
 title: AI基础设施的未来：谷歌、思科与a16z的深度对话
 ---
-
 ### AI基础设施：新时代的“性感”投资
 
 好消息是，基础设施再次变得“性感”起来。这很酷，因为它结合了互联网的建设、太空竞赛和曼哈顿计划的特点，并融入了地缘政治、经济、国家安全以及速度的深刻影响。

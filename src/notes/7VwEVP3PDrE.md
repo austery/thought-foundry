@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Hamas
@@ -14,10 +14,7 @@ people:
 - Tony Blair
 - Marco Rubio
 products_models: []
-project:
-- geopolitics-watch
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7VwEVP3PDrE
 speaker: TVO Today
@@ -31,7 +28,6 @@ tags:
 - peace-plan
 title: 以色列-哈马斯停火能否持续？和平之路面临的挑战
 ---
-
 ### 停火协议的现状与前景
 
 上个月，当以色列和哈马斯达成停火协议时，一位总理曾这样表示：

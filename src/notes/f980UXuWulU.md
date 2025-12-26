@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 date: '2025-07-17'
 draft: true
@@ -9,8 +9,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f980UXuWulU
 speaker: 投资TALK君
@@ -22,7 +21,6 @@ tags:
 - powell-resignation
 title: 鲍威尔离职演习、宏观数据与芯片股分析：ASML和美国银行财报解读
 ---
-
 ### 市场概览与本期焦点
 
 周三市场可探讨的焦点众多。首先是特朗普先威胁解雇鲍威尔，随后又否认此事。通过这一事件，我们可以观察华尔街背后的交易逻辑，为未来鲍威尔若真的被辞退或主动离职时市场可能出现的反馈做预演。这是第一部分。第二部分将关注宏观数据，包括PPI数据和褐皮书，褐皮书可能揭示了美联储对通胀仍存担忧的原因。第三部分是财报分析，涉及阿斯麦（ASML）和美国银行两家公司。阿斯麦发布财报后跌幅较大，我们将探讨这是否构成一个买点。美国银行的财报看点则更多，包括宏观环境、消费者健康状况以及稳定币议题。

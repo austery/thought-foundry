@@ -24,10 +24,7 @@ products_models:
 - H20
 - Blackwell
 - CUDA
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1tEnAg4gdCU
 speaker: Darren聊美股
@@ -41,7 +38,6 @@ tags:
 - stock-market-reaction
 title: 英伟达财报深度解析：业绩创新高股价为何下跌？长期投资策略与机会
 ---
-
 ### 英伟达财报争议：业绩创新高股价为何下跌？
 
 本期节目将深入探讨本周三刚刚发布财报的**英伟达**（Nvidia: 全球领先的图形处理器和人工智能计算公司），这家当前美股市值排名第一的公司。周三发布的这份财报在市场上引发了非常大的争议。一方面，英伟达业绩再创新高，营收和利润都大幅超出预期；另一方面，其股价却在财报后下跌。许多投资者感到困惑，为什么基本面如此良好，股价反而下跌？本文将系统地分析英伟达这份财报的结果，探讨市场到底在担心什么。随后，将分享作为长期投资者，应该如何看待并利用这次下跌，以及接下来的一些操作计划。

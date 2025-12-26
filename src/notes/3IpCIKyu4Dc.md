@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Tim Hortons
@@ -14,9 +14,7 @@ layout: post.njk
 media_books:
 - 《东京女子图鉴》
 products_models: []
-project:
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3IpCIKyu4Dc
 speaker: 大伟探秘加拿大
@@ -30,7 +28,6 @@ tags:
 - value
 title: 十年加拿大移民再看日本：我后悔了吗？
 ---
-
 ### 引言：十年移民路，日本之行引发的思考
 
 作为一个在加拿大已经生活了近10年的中国移民，我必须要承认，我的生活在某种程度上已经进入了一种模式化的安逸。每天一杯**Tim Hortons**（加拿大著名的咖啡连锁店）咖啡开启新的一天，也习惯了邻居们之间互相“How are you doing”的问候，更习惯了在长周末开车去国家公园，去寻找那种所谓**好山好水好无聊**（加拿大自然风光优美但生活节奏相对平淡的俗语）的宁静。这十年，我从一个对未来充满迷茫的新移民，一步步走过来，有了稳定的工作和生活，似乎也已经找到了最适合我自己的第二故乡。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -13,9 +13,7 @@ media_books:
 people:
 - 魏士航
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4d_YaStAsrQ
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -29,7 +27,6 @@ tags:
 - technology
 title: 40歲就肌少症前期？專家揭增肌關鍵：居家運動組合與生活習慣優化
 ---
-
 ### 引言：運動，不該是等有空才做的事
 
 許多人總認為運動可以等到有空時再進行，卻忽略了身體健康的重要性，以及疾病來得又快又急的現實。為此，我們特別邀請到兩位專家：物理治療師郭曉韻老師與職能治療師曾品嘉老師。他們共同出版了一本名為《30+增肌訓練》的書籍，書中不僅破除了許多關於運動的迷思，更設計了一套增肌策略，旨在幫助我們逆齡、抗老、減重、紓壓並預防疾病。在這支影片中，我們也將為大家帶來一些簡單的居家運動，即使不用出門或上健身房，也能輕鬆有效地增加肌肉量。

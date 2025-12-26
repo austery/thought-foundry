@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Politico
@@ -32,10 +32,7 @@ people:
 - 李强
 products_models:
 - iPhone
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6lM__kH36-w
 speaker: FearNation 世界苦茶
@@ -50,7 +47,6 @@ tags:
 - supply-chain-dominance
 title: 中国地缘经济与社会系统深度观察：绿色能源竞争、台海博弈及内部挑战
 ---
-
 ### 全球绿色能源转型中的中美竞争与中国崛起
 
 本期“世界苦茶观察线”节目旨在汇总全球智库和国际媒体对中国问题的深度分析。第一篇文章来自《Politico》，题为“巴西的北京：中国在特朗普拒绝气候谈判时赚得盆满钵满”，揭示了全球能源转型与地缘政治竞争中，美国缺席与中国崛起所构成的引人注目的画面。

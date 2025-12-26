@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-12-09'
@@ -49,10 +49,7 @@ people:
 - Steve Jobs
 - John Rawls
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VsjN7LgvNa0
 speaker: 大问题Dialectic
@@ -66,7 +63,6 @@ tags:
 - self
 title: 存在主义：在无意义中寻找人生的意义
 ---
-
 ### 存在主义：应对人生无意义的哲学流派
 
 各位朋友晚上好，今天我们继续来聊一聊存在主义。存在主义可以说是20世纪影响力最大的哲学流派之一。它对许多不以哲学为学问的人的生活，都有很多启发。如果去研究现象学、本体论、认识论、语言哲学，那都比较偏学术。但存在主义能对我们普通人的日常生活带来一些启发。我就经常说存在主义有点像禅宗，它和那些比较高大上的唯识宗比起来更接地气。但它的接地气并不意味着它很“low”，它依然有很多智慧在里面，同时也会对我们的日常生活带来很多启发。

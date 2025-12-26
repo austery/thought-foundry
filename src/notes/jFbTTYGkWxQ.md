@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Meta
@@ -19,10 +19,7 @@ media_books:
 products_models:
 - iPhone
 - YouTube
-project:
-- ai-impact-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jFbTTYGkWxQ
 speaker: TechButMakeItReal
@@ -36,7 +33,6 @@ tags:
 - tech
 title: 英国科技行业裁员潮与人才短缺的悖论：2025年市场深度解析
 ---
-
 ### 引言：英国科技行业的悖论
 
 想象一下，你是一名在伦敦工作的软件工程师。

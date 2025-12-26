@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - NASA
@@ -14,10 +14,7 @@ media_books:
 - Astrum
 people:
 - Alex
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=20vUNgRdB4o
 speaker: veritasium
@@ -31,7 +28,6 @@ tags:
 - technology
 title: 火星上的奇迹：机智号直升机1004天传奇与未来探索
 ---
-
 ### 火星任务的严峻考验
 
 本应为期30天的任务，在第427天却演变成了一场噩梦。

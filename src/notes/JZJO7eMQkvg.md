@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Xinhua News Agency
@@ -15,9 +15,7 @@ media_books:
 people:
 - Anthony
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JZJO7eMQkvg
 speaker: Anthony看世界
@@ -31,7 +29,6 @@ tags:
 - skill
 title: 中国语文教育如何摧毁读写能力并进行思想灌输？——以《荔枝蜜》为例的批判性分析
 ---
-
 ### 中国语文教育对读写能力的深远影响
 
 大家好，我是Anthony，欢迎来到我的频道。

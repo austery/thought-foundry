@@ -30,9 +30,7 @@ products_models:
 - Taylor rule
 - PCE
 - CPI
-project:
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fdM3u1DrDrM
 speaker: Bloomberg Podcasts
@@ -45,7 +43,6 @@ tags:
 - tariff-economic-impact
 title: 美联储主席巴尔金：中央银行正处于“困难模式”
 ---
-
 <details>
 <summary>View/Hide Original English</summary>
 <p class="english-text">[Music]</p>

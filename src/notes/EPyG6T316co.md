@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 麦当劳
@@ -32,10 +32,7 @@ people:
 - 侯孝贤
 - 海德格尔
 - 亚里士多德
-project:
-- historical-insights
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EPyG6T316co
 speaker: 超級歪 SuperY
@@ -48,7 +45,6 @@ tags:
 - impact
 title: 台北电影中的城市哲学：半世纪的变迁与身份认同之旅
 ---
-
 ### 台北：电影中的城市叩问与现代性创伤
 
 在《台北女子图鉴》播出后，网络上出现了许多批评与讨论，认为它刻意夸大了南北差距，同时激怒了台北和台南两地的人。女主角为何要去台北？所有这些问题，实际上都围绕着同一个核心疑问：台北究竟是怎样一座城市？在过去的半个世纪里，“台北是什么？”一直是许多台湾电影试图回答的核心问题。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -20,10 +20,7 @@ people:
 products_models:
 - SNAP
 - Tylenol
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=l5AU-yDO35c
 speaker: New York Times Podcasts
@@ -37,7 +34,6 @@ tags:
 - social
 title: 美国政府停摆：数百万贫困人口的食品援助危机
 ---
-
 ### 引言：政府停摆下的食品援助危机
 
 来自《纽约时报》的瑞秋·艾布拉姆斯（Rachel Abrams）为您带来《The Daily》节目。

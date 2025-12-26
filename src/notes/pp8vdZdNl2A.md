@@ -18,9 +18,7 @@ people:
 products_models:
 - Bitcoin
 - Ethereum
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pp8vdZdNl2A
 speaker: TED
@@ -33,7 +31,6 @@ tags:
 - investment
 title: AI 泡沫即将破裂？
 ---
-
 ### 引言
 
 “别以为你很特别。别以为你比我们懂得多。” 这些是出自**延特法**（Jante Law: 源自虚构作品的一套规则，宣扬墨守成规，反对个人成就或炫耀）的论断。我认为这是危险的，它正在驱动一种可能带来灾难性后果的普遍思维。今天我想谈论一个可能比刚才听到的内容更枯燥的话题：**比特币**、加密货币以及金融泡沫。

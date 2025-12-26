@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - 加拿大国家电影局（NFB）
@@ -12,8 +12,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Maya
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9iO_SoMw6eE
 speaker: 大伟探秘加拿大
@@ -25,7 +24,6 @@ tags:
 - industry
 title: 加拿大动画帝国：从辉煌到衰落
 ---
-
 ### 加拿大动画的黄金时代起源
 
 如果我跟您说，在美国好莱坞作品中的特效、后期和动画有半数是在加拿大做的，您是否感到惊讶？比如《阿凡达》、《蜘蛛侠》和《怪奇物语》，这些大片的幕后功臣可能就在加拿大。而小朋友们最喜欢的动画片《汪汪队立大功》（**Paw Patrol**），其实是一个彻头彻尾的加拿大动画片。

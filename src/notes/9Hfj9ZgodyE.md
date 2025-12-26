@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - OpenAI
@@ -18,10 +18,7 @@ people:
 - 大飞
 products_models:
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9Hfj9ZgodyE
 speaker: Best Partners TV
@@ -35,7 +32,6 @@ tags:
 - reinforcement-learning-environment
 title: Surge AI：在AI时代重建高质量数据与人类审美
 ---
-
 ### Surge AI：一个反直觉的商业奇迹
 
 在当今这个烧钱如流水的AI时代，一家仅用四年时间、依靠自有资金、员工不足百人却实现十亿美元营收的公司，几乎被视为不可能。然而，Surge AI 就是这样一个存在——它不仅盈利，而且其数据服务已被OpenAI、Anthropic和Google等前沿实验室广泛采用。这家由华裔创始人埃德温·陈（Edwin Chen）领导的企业，拒绝了硅谷传统的融资扩张剧本，选择以“精英部队”的模式，在高度专注中攻克一个核心难题：**高质量的AI训练数据**。

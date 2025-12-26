@@ -1,10 +1,9 @@
 ---
 title: 你要培养的好习惯反倒会害了你！｜《原子习惯》的陷阱
 summary: 本文深入探讨了《原子习惯》一书可能引导读者陷入的陷阱：即在没有明确目标的情况下，盲目培养所谓的“好习惯”。作者分享了个人经验，指出这种做法不仅消耗精力，还可能让你与真正重要的目标背道而驰。文章强调，真正的效率来自于先选对与终极目标（如“自由”）一致的习惯，并建立“复盘”和“心流”这两个核心系统，以确保方向正确和执行专注。
-area: personal-growth
+area: "life-family"
 category: psychology
-project:
-- systems-thinking
+project: []
 tags:
 - investment
 - thinking
@@ -24,7 +23,6 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=YL87p4zUkZo
 ---
-
 ## 《原子习惯》的陷阱：不要轻易培养“好习惯”
 
 你读了《Atomic Habits》，可以分享一下吗？但我今天不是要跟大家分享这本书，我是想跟大家分享我读这本书、实践这本書里面讲的习惯培养，踩过的一些坑，获得了一些经验教训。而且这些坑是你一旦掉进去，你想要培养的所有好习惯，减肥啊、学英文啊、读书啊，都会失败。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国财政部
@@ -21,10 +21,7 @@ media_books:
 - WhatsApp
 - YouTube
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dITN1Yr-rMU
 speaker: 记者易速利
@@ -38,7 +35,6 @@ tags:
 - technology
 title: 美英联手制裁陈志与太子集团：揭露东南亚网络犯罪帝国与“杀猪盘”骗局
 ---
-
 ### 美英联手制裁：揭露太子集团的网络犯罪帝国
 
 美国财政部日前宣布制裁柬埔寨籍中国富豪**陈志**（Chen Zhi）及其旗下的**太子控股集团**（Prince Holding Group），指控他主导东南亚网络犯罪帝国。陈志是太子集团的创始人兼首席执行官，总部设在柬埔寨。近年来，太子集团业务迅速扩张，涵盖房地产开发、银行与金融以及消费服务。美国政府指控太子集团是一个跨国犯罪网络，涉嫌以虚假工作广告为诱饵，将数十万劳工以强制手段带到柬埔寨和缅甸的诈骗园区，从事网络诈骗，通过**杀猪盘**（Pig Butchering Scam: 一种情感与投资结合的诈骗模式）风格的情感和投资骗局，讹诈世界各地的受害者，涉案金额高达数千亿美元。

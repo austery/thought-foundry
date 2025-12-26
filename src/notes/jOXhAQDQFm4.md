@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -23,10 +23,7 @@ people:
 - Scott Bessant
 products_models:
 - SNAP
-project:
-- us-analysis
-- geopolitics-watch
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jOXhAQDQFm4
 speaker: New York Times Podcasts
@@ -40,7 +37,6 @@ tags:
 - trade
 title: 美国食品援助告急，特朗普亚洲行与普京核导弹引担忧
 ---
-
 ### 今日头条速览
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是10月27日星期一，以下是我们今天报道的内容。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-11-05'
@@ -13,10 +13,7 @@ people:
 - John von Neumann
 - John Nash
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cOESNLP00Us
 speaker: Adam's Axiom
@@ -30,7 +27,6 @@ tags:
 - thinking
 title: 博弈论：理解决策与合作的强大工具
 ---
-
 ### 引言：博弈论的魅力
 
 你正站在咖啡店里排队，突然每个人的手机都响起了紧急警报：恶劣天气预警，立即疏散。当你环顾四周时，看到恐慌正在蔓延。你是应该现在就冲向出口，冒着在混乱中被踩踏的风险，还是冷静等待，却可能浪费宝贵的疏散时间？其他人会怎么做？在这千钧一发之际，你正在玩一场 stakes 极高的博弈。

@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CLLOqyokj-s
 speaker: 人民公園說AI
@@ -23,7 +21,6 @@ tags:
 - semiconductor
 title: 瓜分英特尔：X86生态的战略价值与全球AI格局演变
 ---
-
 ### 英特尔的命运：从辉煌到“人工呼吸”
 
 人民公园说AI: 瓜分英特尔是一个很有故事性的话题，这几方博弈特别精彩。有川普政府介入，有英伟达投资英特尔，甚至连孙正义也来掺一脚。这个事情最有意思的点在于，每一方都有各自的小心思和小九九，特别值得大家细细品味。不过，也给大家留一个悬念，那就是无论是川普政府、英伟达还是孙正义，他们最后最看重的英特尔的一点，我们将在最后解释。

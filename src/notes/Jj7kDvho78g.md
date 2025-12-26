@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - GE Aerospace
@@ -15,10 +15,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Jj7kDvho78g
 speaker: Shijun Tang
@@ -32,7 +29,6 @@ tags:
 - transformation
 title: GE Aerospace：从旧通用电气脱胎的复利机器，护城河为何能称冠全球？
 ---
-
 ### GE Aerospace 的业务重构：从臃肿集团到专注引擎巨头
 
 今天这期内容，我们来深入剖析GE Aerospace——这家由原通用电气（General Electric）剥离而出、如今仅以单一核心业务运营的航空引擎巨头。其股票代码仍为GE，但公司实质早已脱胎换骨。

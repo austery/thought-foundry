@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Starbucks
@@ -36,10 +36,7 @@ products_models:
 - Xbox
 - Bing
 - YouTube
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6one1ZpFIK8
 speaker: Shijun Tang
@@ -53,7 +50,6 @@ tags:
 - loss
 title: 为什么巴菲特拒绝现代净利计算？从星巴克、耐克到谷歌的财报真相
 ---
-
 ### 巴菲特为何反对现代净利计算？
 
 为什么巴菲特不喜欢现代的净利润计算方式？这个问题的答案，远比表面看起来更深刻。在2024年致伯克希尔股东的信中，巴菲特再次明确表达了他对现行会计准则的不满。他指出，当前将“未实现的资本利得和损失”纳入净利润的做法，严重扭曲了投资者对公司真实经营状况的理解。

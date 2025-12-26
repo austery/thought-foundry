@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Broadcom
@@ -36,9 +36,7 @@ products_models:
 - InfiniBand
 - TPU
 - VMware
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jrFKhwBOKF0
 speaker: 老科谈科技股
@@ -52,7 +50,6 @@ tags:
 - semiconductor
 title: 博通（Broadcom）的产品、核心技术及其在AI芯片领域的竞争策略深度解析
 ---
-
 ### 博通（Broadcom）产品与核心技术概览
 
 大家好！今天是2025年9月13日，欢迎来到这个通过深入分析和追踪科技行业大趋势、顺势而为长期投资科技股的频道。**博通**（Broadcom: 一家全球领先的半导体和基础设施软件解决方案提供商）现在是炙手可热的芯片股，同时拥有**AI**（人工智能: 模拟人类智能的机器能力）概念、安全软件和企业软件。它的产品十分复杂，一般人很难理解清楚它究竟是做什么的以及竞争优势在哪里。今天，我将发挥本频道的优势，给大家讲清楚博通的技术、解决方案和竞争优势。

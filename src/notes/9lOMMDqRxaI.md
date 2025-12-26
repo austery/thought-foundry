@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - SEC
@@ -32,10 +32,7 @@ people:
 - Sam Bankman-Fried
 products_models:
 - USDT
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9lOMMDqRxaI
 speaker: 记者易速利
@@ -49,7 +46,6 @@ tags:
 - political-influence
 title: 孙宇晨的加密帝国、政治博弈与艺术纠纷：一场跨越全球的财富与权力游戏
 ---
-
 ### 孙宇晨的美国之旅与特朗普的加密情缘
 
 加密货币亿万富翁孙宇晨，以其备受争议的区块链平台**波场创**（Tron: 一个全球性的去中心化支付网络）及其与美国前总统唐纳德·特朗普的联系而闻名，即将成为下一位进入太空的超级富豪游客。2025年5月16日，加密货币亿万富翁孙宇晨走下空客A330飞机后，他将手掌放在屏幕上，仿佛在确认自己已真正抵达美国。在他的财产中，包括一架估价2亿美元的空客，很可能就是这架A330。这一天是他横跨美国之旅的开始。过去几年来，孙宇晨一直在联邦机构的调查当中，因此他一直未能到美国。这次人来，他的心情当然是不错的。在此之前，孙宇晨购买了两种特朗普家族发行的加密货币，价值超过9000万美元。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Circle
@@ -31,10 +31,7 @@ products_models:
 - Bitcoin
 - Ethereum
 - 数字人民币
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0KmY_uzzxyI
 speaker: 老周横眉
@@ -48,7 +45,6 @@ tags:
 - technology
 title: 稳定币深度解析：中美博弈、企业变革与普通人应对策略
 ---
-
 ### 稳定币浪潮来袭：香港法案与全球格局
 
 近期，一则重磅消息震动全球：香港稳定币法案已正式通过，并将在一个多月后生效。这一举措不仅对银行和金融圈产生深远影响，更可能颠覆跨境电商、金融科技、国际政治乃至**币权**（Currency Rights/Power: 对货币发行、流通和价值控制的权力）的现有格局。有媒体分析认为，此举标志着中央政府正试图通过香港掌握货币主导权，以稳定币挑战美元霸权；另有观点指出，这预示着金融科技和数字资产发展进入新阶段，为普通人带来致富新机遇。例如，美国**Circle**（一家全球金融科技公司，USDC稳定币的发行方）的股票在相关法案通过后，股价在短短几周内飙升近600%。

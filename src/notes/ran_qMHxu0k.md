@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - World Bank
@@ -14,10 +14,7 @@ media_books:
 people:
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ran_qMHxu0k
 speaker: 老周横眉
@@ -31,7 +28,6 @@ tags:
 - infrastructure
 title: 一带一路十二年：经济失败与政治困境的深度解析
 ---
-
 ### 一带一路：愿景、投资与争议
 
 上周最受关注的事件是中国的国庆活动。我一直认为，在这些活动中，你会发现发达国家几乎没有参与。我相信名单上很多国家甚至在地图上都找不到，甚至闻所未闻。那么，我们不禁要问，究竟是哪些国家愿意与中国站在一起呢？事实上，答案很简单：其中80%都是参与了**一带一路**（Belt and Road Initiative，简称BRI：中国提出的跨国基础设施建设和投资倡议）计划的国家。

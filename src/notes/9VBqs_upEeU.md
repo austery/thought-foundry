@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国司法部
@@ -21,10 +21,7 @@ people:
 - George H.W. Bush
 - Janet Yellen
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9VBqs_upEeU
 speaker: 徒步的騎手
@@ -38,7 +35,6 @@ tags:
 - venezuela-crisis
 title: 中国毒枭张志东落网：揭秘中墨美毒品产业链与中国三大犯罪输出
 ---
-
 ### 中国犯罪出口、张志东引渡与委内瑞拉危机
 
 大家好！今天说说上周发生的几件事。这几件事放到一起，给人山雨欲来的感觉。这几件事不是跟中国人有关，就是跟中国人民的老朋友有关。第一件事是被美国通缉的中国毒枭张志东，在逃亡了半个地球以后被抓获归案，引渡到美国。他的毒品生意在墨西哥和美国，但他的毒品供应链源头在中国。第二件事就是美国在委内瑞拉周边完成了军事集结，川普威胁对委内瑞拉境内目标进行军事打击。委内瑞拉是中国人民的老朋友，也是南美洲欠中国贷款最多的国家。这二十来年，中国总共借给委内瑞拉500多亿美元。因为美国的经济崩溃，现在还欠多少没还，外界并不太清楚，一般估计至少是还有一半没还。

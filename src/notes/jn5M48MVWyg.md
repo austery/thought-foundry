@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Google
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - House Dust Biology
-project:
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jn5M48MVWyg
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - urban
 title: 灰尘的真相：它主要是死皮吗？
 ---
-
 ### 灰尘之谜：它从何而来？
 
 这是我大学毕业时的样子。总之，今天我正在收拾房间，简直脏得令人作呕。到处都是灰尘，这个地方积攒的灰尘量简直令人难以置信，太不真实了。

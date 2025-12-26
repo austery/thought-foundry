@@ -34,10 +34,7 @@ people:
 - Larry Summers
 - Michael Wolf
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jNKRmamMb5Y
 speaker: 记者易速利
@@ -48,7 +45,6 @@ tags:
 - epstein-scandal
 title: 爱泼斯坦案阴影笼罩华盛顿：文件公开与政治博弈
 ---
-
 ### 爱泼斯坦案的幽灵与华盛顿政治运作
 
 民主党人提到，一封来自已故性犯罪者杰弗里·爱泼斯坦的电子邮件，提到了特朗普总统。对于特朗普与爱泼斯坦的关系，正如张克家诗歌所言：“有的人活着他已经死了，有的人死了他还活着。”爱泼斯坦虽已离世，却似乎化身为美国暂时无法根除的慢性病毒，持续影响着华盛顿的政治运作。历史上，像爱泼斯坦这样已离去多年却仍成为当下政治运作焦点的人物，应该极为罕见。

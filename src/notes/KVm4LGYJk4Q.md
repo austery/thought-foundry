@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2023-03-25'
 draft: true
@@ -9,9 +9,7 @@ layout: post.njk
 people:
 - 超级歪 SuperY
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KVm4LGYJk4Q
 speaker: 超級歪 SuperY
@@ -25,7 +23,6 @@ tags:
 - policy
 title: 英式英语的秘密与台湾双语政策：地道表达、学习误区及口语沟通的关键
 ---
-
 ### 英式英语的日常问候与地道表达
 
 上次制作了关于英国文化冲击的视频后，观众反响热烈，本期节目将向大家介绍台湾英语课本中学不到的、我来到英国后才了解的英语用法。

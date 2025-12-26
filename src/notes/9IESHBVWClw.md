@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-10-13'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9IESHBVWClw
 speaker: Bloomberg Podcasts
@@ -25,7 +22,6 @@ tags:
 - security
 title: Axon推出小型执法记录仪，进军零售与医疗市场
 ---
-
 ### Axon业务现状与市场拓展
 
 We have a lot going on at Axon right now, with our core business, including tasers, body cams, and digital evidence management, really gaining momentum.

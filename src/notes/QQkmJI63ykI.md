@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BASF
@@ -16,10 +16,7 @@ people:
 - Otto Hahn
 products_models:
 - Snatoms
-project:
-- historical-insights
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QQkmJI63ykI
 speaker: veritasium
@@ -33,7 +30,6 @@ tags:
 - technology
 title: 弗里茨·哈伯：拯救数十亿生命与制造致命武器的科学双刃剑
 ---
-
 ### 弗里茨·哈伯：诺贝尔奖背后的争议与遗产
 
 1918年的**诺贝尔化学奖**（Nobel Prize for Chemistry）可能是迄今为止颁发的最重要的诺贝尔奖。

@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oX_R10ETKWg
 speaker: 海淀拙大叔
@@ -23,7 +21,6 @@ tags:
 - inflation-deflation
 title: 下半年中国经济增长推演与资本市场投资策略
 ---
-
 ### 下半年经济增长指标推演
 
 本期宏观经济论将聚焦于下半年经济增长的推演，并探讨可能采取的投资策略。上周，我们已通过三集内容深入讨论了房地产、**采购经理人指数**（PMI: 一项衡量制造业和服务业经济活动的综合指标）的变化以及货币数据的变化。总体的结论是，今年下半年房地产极有可能出现正增长，因为房价降幅已连续收敛五个月。下半年，采购经理人指数显示中国经济将从复苏期转向繁荣期，货币数据也支持这一观点。接下来，我们将对这些观点进行量化分析。

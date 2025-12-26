@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-10-04'
 draft: true
@@ -31,10 +31,7 @@ people:
 - 刘晓波
 - 姜文
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kcPlhH5MklU
 speaker: 張内咸
@@ -48,7 +45,6 @@ tags:
 - social-commentary
 title: 从《甜蜜的事业》到《你行!你上!》：十部电影看懂京圈文化的消亡与北京人的权力边缘化
 ---
-
 ### 别开生面的观众互动
 
 上周节目播出后，一些观众纷纷留言表示：“感谢张导的节目，六四这一天发生了什么，我们记住了，而且记得特别清楚。”我上期节目是讲这个的吗？谁教你们这么接梗的？你们在剧场听相声、听脱口秀的时候也这样吗？演员不得让你们玩死？

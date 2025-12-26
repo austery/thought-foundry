@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - TVO Today
@@ -16,9 +16,7 @@ media_books:
 - Listing Large
 - Gilmore Girls
 products_models: []
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jC8K2r7es70
 speaker: TVO Today
@@ -32,7 +30,6 @@ tags:
 - rot-day
 title: 为何沉迷真人秀？深度解析逃避现实与怀旧文化
 ---
-
 ### 真人秀的持久魅力
 
 《摩门妻子们的秘密生活》、《爱岛》、《几乎所有你听过的城市的真人家庭主妇》等等。在真人秀（**Reality TV**: A genre of television programming that documents unscripted situations.）这一类型真正兴起三十多年后，它依然比以往任何时候都更加强大。那么，究竟是什么让真人秀节目让我们欲罢不能，一再回归呢？

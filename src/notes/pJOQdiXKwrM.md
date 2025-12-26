@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Starbucks
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 《The Daily Beast》
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pJOQdiXKwrM
 speaker: Shijun Tang
@@ -27,7 +25,6 @@ tags:
 - model
 title: 绿色王者的陨落？星巴克股价深度分析：会员卡金融化与市场困局
 ---
-
 ### 星巴克股价与市场关注度的转折点
 
 大家好，欢迎来到我的频道。星巴克的股价最新已来到86.85美元，自跌破90美元后，正式进入我的关注范围。这家在1990年代迅速崛起的公司，曾以惊人的扩张速度占领全球市场，但其发展并非一帆风顺。

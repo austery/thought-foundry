@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 date: '2025-12-19'
 draft: true
@@ -9,8 +9,7 @@ layout: post.njk
 products_models:
 - Arc
 - GPT
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o4scJaQgnFA
 speaker: AI Engineer
@@ -23,7 +22,6 @@ tags:
 - security
 title: 从 Arc 到 DIA：构建 AI 浏览器的经验教训
 ---
-
 ### 公司愿景与使命
 大家好，我是 Samir，在 **The Browser Company of New York** 担任 AI 工程主管。今天，我将与大家分享我们如何从构建 **Arc** 浏览器转型到 **DIA**，以及在构建 AI 浏览器过程中学到的经验。
 

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 中国央行
@@ -12,10 +12,7 @@ insight: ''
 layout: post.njk
 people:
 - 吴清
-project:
-- china-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PvtWg5D4D08
 speaker: 小翠時政財經
@@ -29,7 +26,6 @@ tags:
 - risk
 title: 央行报告揭示中国经济三大困境：就业恶化、消费低迷与内需萎缩
 ---
-
 大家好，欢迎回到小翠时政财经。
 
 ### 央行调查报告及时发布：经济摸底与挑战

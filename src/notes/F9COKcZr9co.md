@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -15,10 +15,7 @@ media_books:
 - omnichannel-retail
 people:
 - Nicola Tangen
-project:
-- entrepreneurship
-- systems-thinking
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F9COKcZr9co
 speaker: Norges Bank Investment Management
@@ -31,7 +28,6 @@ tags:
 - strategy
 title: 宜家CEO Jesper Brodin：民主设计、可持续发展与全球化挑战
 ---
-
 ### 宜家：全球家居的标志性品牌
 
 主持人 Nicola Tangen（挪威主权财富基金**Norges Bank Investment Management**的首席执行官）向大家问好，并表示非常高兴能邀请到宜家（**IKEA**: 瑞典知名跨国居家用品零售企业）的首席执行官 Jesper Brodin。

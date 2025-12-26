@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 华尔街
@@ -16,9 +16,7 @@ media_books:
 products_models:
 - 美投AI泡沫指数
 - 美投prop lus服务
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_hq3DsX9V2w
 speaker: 美投讲美股
@@ -32,7 +30,6 @@ tags:
 - market-sentiment
 title: 现在投资AI有多危险？美投AI泡沫指数揭示六大关键指标与金融模型
 ---
-
 ### AI泡沫：当前美股市场的关键议题
 
 AI到底有没有泡沫？这个问题俨然已经成为了决定当前美股市场最关键的因素，没有之一。一方面，AI可能确实是现在我们普通人能够改变命运的最好的投资机会了，而另一方面，泡沫破裂的风险又让很多人望而却步。那么现在投资AI究竟有多危险呢？如果说有这么一个量化的指标，能够帮助我们清晰地衡量出这个危险程度，那想必对于每一位投资者来说，都能够增添一份安心。

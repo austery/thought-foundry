@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - 德勤
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《大伟探秘加拿大》
 products_models: []
-project:
-- entrepreneurship
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X31prPLx2kQ
 speaker: 大伟探秘加拿大
@@ -28,7 +25,6 @@ tags:
 - strategy
 title: 大统华：从移民梦想走向北美零售巨头的30年崛起之路
 ---
-
 ### 大统华的独特体验与美国首店的轰动
 
 想象一下，在北美大陆上，您走进一家超市，一边是刚出炉的葡式蛋挞，那种黄油和焦糖混合的香味，令人忍不住咽口水；而另一边，则是海鲜区，活蹦乱跳的鱼虾还带着大海的气息。您还能看到熟食档口，师傅在摊煎饼卷饭团，身边的顾客们推着购物车，在来自全世界的水果和蔬菜之间穿梭。这里与其说是一个解决柴米油盐酱醋茶等日常需求的地方，不如说更像是一场感官探险，一次小型的文化旅行。这里不是一个传统意义上的华人超市，更不是一个标榜有机健康的美食卖场，而是源自加拿大的**大统华超市**（T&T Supermarket: 加拿大最大的亚洲连锁超市）的一个日常体验。

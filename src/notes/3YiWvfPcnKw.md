@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - NVIDIA
@@ -21,10 +21,7 @@ products_models:
 - H100
 - Blackwell
 - 以太坊
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3YiWvfPcnKw
 speaker: 北美王路飞
@@ -38,7 +35,6 @@ tags:
 - financial
 title: 深度解析全球经济的“大撕裂”：双速经济下的泡沫与生存法则
 ---
-
 ### 经济体感与数据背离：双速经济的现实
 
 生活在北美的朋友们或许有这样的感受：即便美股屡创新高，GDP也保持正增长，但身边的朋友们，或是楼下小店的店主，却普遍反映生意难做、工作难找。这便是我们当下的现实——数据在天上飞，体感在地上爬。这种现象令人费解，因为通常经济向好时，大家的日子都会好过；经济变差时，大家也都会受影响。然而，我们现在仿佛生活在两个平行的宇宙中。

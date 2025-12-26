@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies:
 - steel-metallurgy
@@ -10,8 +10,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Tt6WQYtefXA
 speaker: veritasium
@@ -24,7 +23,6 @@ tags:
 - technology
 title: 日本刀的诞生：从沙土到传奇武士刀的千年工艺
 ---
-
 ### 日本刀的传奇与制作之旅
 
 这是一个关于日本刀如何制作的视频，这些刀剑足够坚韧和锋利，甚至能将子弹一分为二。

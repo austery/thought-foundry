@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Nikolai Tangen
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s25VVj_XvVU
 speaker: Norges Bank Investment Management
@@ -29,7 +26,6 @@ tags:
 - safety
 title: UL Solutions 首席执行官 Jennifer Scanlon 谈安全测试、AI影响与领导力演变
 ---
-
 ### UL Solutions 简介与核心业务
 
 大家好，我是尼古拉·坦根（Nikolai Tangen），挪威主权财富基金的首席执行官。

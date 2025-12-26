@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - psychological-mechanism
@@ -16,10 +16,7 @@ people:
 - 安争鸣
 - 墨索里尼
 products_models: []
-project:
-- historical-insights
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3hOTBKZpu0E
 speaker: 安争鸣（Stella An）
@@ -32,7 +29,6 @@ tags:
 - society
 title: 《同流者》：揭示普通人如何成为暴政的共谋
 ---
-
 ### 暴政的本质与普通人的共谋
 
 大家好，我是安争鸣，欢迎回到读书时间。自从人类社会诞生以来，**暴政**（Tyranny: 权力被少数人或个人滥用，对民众进行压迫和控制的政治体制）就从未消失。甚至到了20世纪，还出现了**纳粹德国**（Nazi Germany: 指1933年至1945年间，由阿道夫·希特勒及其纳粹党统治下的德国，以极端民族主义、种族主义和独裁统治为特征）、**红色高棉**（Khmer Rouge: 指柬埔寨共产党在1975年至1979年间建立的极端共产主义政权，以大规模屠杀、强制劳动和社会改造闻名）这种邪恶到极致的政权。

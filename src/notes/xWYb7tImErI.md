@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-16'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xWYb7tImErI
 speaker: EO
@@ -24,7 +22,6 @@ tags:
 - social-entrepreneurship
 title: AI时代成功的关键特质：深思熟虑与利他精神的构建
 ---
-
 ### AI与人类创造力的边界
 
 在**ChatGPT**（Generative Pre-trained Transformer: 一种大型语言模型）发布后不久，我曾走遍全国，告诉人们需要学习新事物以提升创造力，因为这曾被认为是人工智能唯一无法做到的事情。然而，我不再持此观点，因为我已经看到人工智能实际上能够提出许多想法。去年，在**国际数学奥林匹克竞赛**（International Mathematical Olympiad, IMO: 一项面向全球高中生的数学竞赛）的六道题目中，有四道是由谷歌的人工智能解答的。

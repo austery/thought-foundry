@@ -28,9 +28,7 @@ people:
 - xi-jinping
 products_models:
 - Bitcoin
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VC4tA571EPo
 speaker: LT視界
@@ -43,7 +41,6 @@ tags:
 - ukraine-war
 title: 深度解析：習近平2025年評價兩極分化，川普策略成催化劑；中共收買網紅內幕；俄羅斯如何布局？
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月20日。
 
 ### 财经头条：加密货币泡沫破裂

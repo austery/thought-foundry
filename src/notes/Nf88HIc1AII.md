@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - Cofit
@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - 鄧雯心醫師
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Nf88HIc1AII
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +25,6 @@ tags:
 - strategy
 title: 女性減肥為何更難？揭秘月經週期與荷爾蒙的專屬瘦身攻略
 ---
-
 ### 女性減肥的生理與心理挑戰
 
 大家好，我是雯心醫師。你知道嗎？女生減肥比男生難，這不是錯覺，而是科學事實！今天這支影片將告訴你為什麼女生這麼難瘦。如果你不了解原因，一旦遇到挫折或卡關，就容易感到頹廢並放棄。因此，除了說明原因，我們還會教你如何健康、持久地瘦身。

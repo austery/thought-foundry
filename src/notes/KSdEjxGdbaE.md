@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Norges Bank Investment Management
@@ -26,10 +26,7 @@ products_models:
 - GPT-3
 - GPT-3.5
 - GPT-4
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KSdEjxGdbaE
 speaker: Norges Bank Investment Management
@@ -42,7 +39,6 @@ tags:
 - society
 title: 可汗学院创始人萨尔·汗：从对冲基金到全球教育革命
 ---
-
 ### 从对冲基金到可汗学院的诞生
 
 大家好，欢迎收听“In Good Company”节目，今天我们非常高兴能带来一期特别节目，邀请到**可汗学院**（Khan Academy: 一个提供免费、世界级教育的非营利组织）富有远见的创始人萨尔·汗（Sal Khan）。

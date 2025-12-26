@@ -18,10 +18,7 @@ people:
 - 贝森特
 products_models:
 - 美投prop lus
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ipnnrJgepsI
 speaker: 美投讲美股
@@ -34,7 +31,6 @@ tags:
 - us-economic-policy
 title: 美元重挫10%：贬值潮将至？深度解析美元走势与普通人应对策略
 ---
-
 ### 美元近期走势回顾与市场担忧
 
 两个月前，美股的闪崩仍历历在目。在**唐纳德·特朗普**（Donald Trump）的关税政策影响下，美国金融市场遭遇了罕见的股市、债市、汇市“三杀”局面。如今两个月过去，美股快速爬升并已恢复如初，债市也早已稳定下来。然而，诡异的是，美元不仅没有恢复，反而一路走低。目前，**美元指数**（US Dollar Index, 简称DXY: 衡量美元相对于一篮子主要货币强弱变化的指标）已重挫10%，创下自2022年以来的新低。

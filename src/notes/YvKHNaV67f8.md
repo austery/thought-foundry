@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2024-07-02'
 draft: true
@@ -12,10 +12,7 @@ media_books:
 people:
 - 项飙
 products_models: []
-project:
-- historical-insights
-- systems-thinking
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YvKHNaV67f8
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - technology
 title: 把球踢好看：一名中国基层足球教练的突围与坚持
 ---
-
 ### 一场梦里的足球：从看台到教练席
 
 很多时候，当我们赢球的时候，我走去看台，球迷会给我鼓掌，唱属于我的歌，我自己会为这个情况非常非常地动容。我们没有赢球的时候，大家在网络上或者在现实里用特别难听的话骂着我，骂着我的家人去发泄——我也很理解。因为作为一个得失心很重的行业，你没有办法不去注重“赢”这个概念。在90分钟的比赛里，你就像沉浸在一场梦里面一样。

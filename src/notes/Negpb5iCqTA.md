@@ -20,8 +20,7 @@ draft: true
 series: ''
 category: philosophy-thinking
 area: knowledge-meta
-project:
-  - ai-impact-analysis
+project: []
 people:
   - Saul Perlmutter
   - Nicolola Tangan

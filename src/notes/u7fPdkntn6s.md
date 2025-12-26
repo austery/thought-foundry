@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国家统计局
@@ -14,10 +14,7 @@ media_books:
 people:
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u7fPdkntn6s
 speaker: 老周横眉
@@ -31,7 +28,6 @@ tags:
 - social
 title: 中国全民强制社保：压垮企业与民生的多重困境
 ---
-
 ### 强制社保：一场引发民怨的政策风暴
 
 近日，中国政府的一项最新政策再次引发了民愤。中国最高法院宣布，自9月1日开始，自愿放弃社保协议全面失效，所有用人单位必须为劳动者缴纳社保。这意味着中国全民强制**社会保险**（社保：一种通过集体力量保障个人风险的保险产品）的时代正式开启。一时间，民意沸腾，几乎所有人都在抱怨。毕竟，大家收入本来就不高，强制缴纳社保，员工到手的钱变少了，小微企业的人工成本增加了，没有人高兴得起来。

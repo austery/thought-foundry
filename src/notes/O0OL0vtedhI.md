@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Polymarket
@@ -21,10 +21,7 @@ people:
 - Richard Nixon
 - Lisa Cook
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=O0OL0vtedhI
 speaker: Shanghao Jin
@@ -39,7 +36,6 @@ tags:
 - us-fiscal-policy
 title: 2025年市场展望：财政周期、美联储政策与美国机构独立性挑战
 ---
-
 ### 市场概览：美联储的谨慎与不确定性
 
 上周，市场头寸相对谨慎，出现了近几周以来较为明显的出货。这主要是因为本周市场存在诸多**不确定性**（Uncertainty），其中最大的因素是政府可能面临**关门**（Government Shutdown: 指美国政府因国会未能及时通过拨款法案而暂停部分非必要服务的状态）的风险。我个人认为，这次政府关门对市场的影响可能不会像以往那么大。历史上，政府停摆对市场确实有影响，但这次可能不同。

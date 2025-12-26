@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - Brilliant
@@ -14,9 +14,7 @@ people:
 - Derek Muller
 products_models:
 - Gemini Flash
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ao2Jfm35XeE
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - technology
 title: 雪花之谜：85年未解之谜的分子物理学解释
 ---
-
 ### 实验室中的雪花大师
 
 **Ken:** 现在，我要打开2000伏电压。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Microsoft
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Half Monk, Half Machine
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cweJsYgLRRc
 speaker: EO
@@ -28,7 +26,6 @@ tags:
 - vertical-saa
 title: 从零背景到2500万美元：一位移民如何用AI重塑保险业
 ---
-
 ### 早期经历与创业萌芽
 
 我来自印度中部的一个小镇。

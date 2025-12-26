@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Boeing 747
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ElhxzUO7YQM
 speaker: All-In Podcast
@@ -28,7 +25,6 @@ tags:
 - society
 title: 加州永恒：一家创业公司如何建造美国下一座伟大城市
 ---
-
 ### 建造美国下一座伟大城市：加州永恒的愿景
 
 梦想是建造一个宜居、可负担且环保的社区。**加州永恒**（California Forever: 一家旨在加州索拉诺县建造新城市的创业公司）在**索拉诺县**（Solano County: 位于加利福尼亚州，介于硅谷和萨克拉门托之间）拥有超过100平方英里的土地，并由**硅谷**（Silicon Valley: 美国高科技产业的中心地带）投资者支持，旨在建造一座新城市。

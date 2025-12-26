@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k-9sQXhHHmk
 speaker: TED
@@ -22,7 +21,6 @@ tags:
 - technology
 title: 从头设计蛋白质：AI赋能下的生命科学新突破
 ---
-
 ### 开场与诺贝尔奖
 
 Host: Hi, David.

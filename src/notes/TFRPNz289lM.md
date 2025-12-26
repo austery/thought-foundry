@@ -20,10 +20,7 @@ people:
 products_models:
 - Ethereum
 - Bitcoin
-project:
-- investment-strategy
-- market-cycles
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TFRPNz289lM
 speaker: Nico投资有道
@@ -36,7 +33,6 @@ tags:
 - market-downturn
 title: Circle股票投资复盘：股价腰斩后的反思与稳定币赛道展望
 ---
-
 ### Circle股票投资失误与个人持仓披露
 
 关于Circle这支股票，我必须承认我错了。最近Circle股价暴跌，我的仓位接近腰斩。今天这期视频，我将全面公开我所有的Circle持仓以及盈亏情况，并详细复盘我在这支股票上的操作。即使你完全不了解Circle这家公司，也没有投资过Circle，我相信这期视频的内容也一定会对你的长期投资和**价值投资**（Value Investing: 一种投资策略，侧重于寻找被市场低估的股票）有很大的帮助，所以请务必看到最后。

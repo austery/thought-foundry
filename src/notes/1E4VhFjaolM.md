@@ -24,10 +24,7 @@ people:
 - 马云
 - 刘宗坤
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1E4VhFjaolM
 speaker: 东京人文论坛
@@ -43,7 +40,6 @@ tags:
 - state
 title: 企业在国家与社会博弈中的角色及美国政治体系的韧性与危机
 ---
-
 ### 企业在国家与社会博弈中的多重角色
 
 **主持人:** 好的，那我们来谈谈企业部分。刚才我们讲了宗教，其实有很多原因，比如中国特殊原因，再加上现在也是个世俗社会，其实在任何国家宗教都处于一个相对退潮的状态。而企业在整个社会中则一直在前进。我们刚才已经讲了很多企业在社会国家博弈之中的特殊角色。实际上，大家仔细想的话，企业在社会国家博弈之中起了很重要的作用。

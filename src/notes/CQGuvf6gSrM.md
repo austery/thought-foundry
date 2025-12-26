@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -19,10 +19,7 @@ people:
 - Sam Altman
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CQGuvf6gSrM
 speaker: AI Engineer
@@ -37,7 +34,6 @@ tags:
 - system
 title: 2025：AI评估终于成为焦点——CEO视角下的AI发展与挑战
 ---
-
 ### 引言：2025，评估之年
 
 大家好，感谢各位的到来。我将主要从Arthur AI联合创始人兼首席科学家的角度来分享这次演讲，我在加入**Mozilla AI**（Mozilla基金会旗下的AI部门，致力于开源AI工具和技术栈）担任首席执行官之前，在Arthur AI工作了六年。

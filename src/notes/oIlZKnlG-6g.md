@@ -8,8 +8,7 @@ insight: ''
 layout: post.njk
 people:
 - 蔡英文
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oIlZKnlG-6g
 speaker: ZetaBook
@@ -23,7 +22,6 @@ tags:
 - power
 title: 台灣憲政危機：從賴清德彈劾案看憲法法庭的歷史變遷與政治角力
 ---
-
 ### 賴清德彈劾案與憲法法庭的關鍵角色
 
 賴清德拒絕執行立法院通過的**《財劃法》**（Fiscal Discipline Act: 財政收支劃分法的簡稱，涉及中央與地方財政分配的法律）後，在野黨聯盟發起了彈劾總統的行動。這一系列事件已經超越了常規的政治攻防，而是繼「大罷免」之後，台灣政壇發生的又一次政治地震。

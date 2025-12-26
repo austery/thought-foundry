@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 联合国
@@ -33,10 +33,7 @@ people:
 - 金刻羽
 - 拜登
 - 马杜罗
-project:
-- historical-insights
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Gw1xjIQ2UhY
 speaker: FearNation 世界苦茶
@@ -48,7 +45,6 @@ tags:
 - theory
 title: 黄金时代的终结：当我们确定最好的时候已经过去
 ---
-
 ### 引言：当最好的时光已成过往
 今天我想和大家讨论一个话题：如果我们能确定，最好的时候已经过去了，该怎么办？
 

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -46,10 +46,7 @@ people:
 - Charlie Munger
 products_models:
 - NFT
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Qe3cxA5sAzc
 speaker: Joseph Wang
@@ -64,7 +61,6 @@ tags:
 - quantitative-tightening
 title: 美联储政策深度解读：为何量化紧缩紧急刹车，扩表或将重启？
 ---
-
 ### 引言：美联储政策的重大转向
 
 **Jack:** 你曾说过，美联储将开始扩张其资产负债表。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P Global
@@ -16,9 +16,7 @@ people: []
 products_models:
 - S&P 500 Index
 - S&P 500 ETF
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Fzlt6dIUq5Q
 speaker: Shijun Tang
@@ -32,7 +30,6 @@ tags:
 - stock-analysis
 title: 深度解析标普全球（SPGI）：被低估的金融市场基石与复利机器潜力
 ---
-
 ### 美股标普全球（SPGI）的当前表现与投资疑问
 
 今天我们将深入探讨美股**标普全球**（S&P Global: 一家提供金融信息和分析服务的公司，股票代码SPGI）。标普全球今年的回报表现差强人意。在“七巨头”争相刷新历史新高之际，标普全球在这样一个大牛市中不进反退。截至今年11月，其**年初至今**（Year to Date, YTD: 从年初到当前日期的累计表现）的回报率为负0.38%。形成鲜明对比的是，其旗下的产品**标普500指数**（S&P 500 Index: 由标准普尔公司编制的美国500家大型上市公司股票指数），YTD却跑出了12.51%的年化率，表现远超其母公司。

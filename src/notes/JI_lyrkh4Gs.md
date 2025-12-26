@@ -9,10 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- vibe-coding
+project: []
 series: null
 source: https://www.youtube.com/watch?v=JI_lyrkh4Gs
 speaker: a16z
@@ -28,7 +25,6 @@ tags:
 - startup
 title: Aaron Levie on How AI is Reshaping Startup Productivity and Disrupting Incumbents
 ---
-
 ### Debating Immigration Policy for Tech Talent
 
 Interviewer: I want to get into the immigration news. What were your reactions to what you think of the policy?

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Federal Reserve
@@ -39,10 +39,7 @@ people:
 - Vladimir Putin
 - Wang Qishan
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pVRU0jTYQH4
 speaker: LT視界
@@ -56,7 +53,6 @@ tags:
 - us-monetary-policy
 title: 美联储降息预期、乌克兰和谈进展与马克龙对华贸易警告：中国民间舆论如何以逻辑挑战官方叙事
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月7日，我们首先来了解今天的财经头条。
 
 ### 全球经济事件前瞻

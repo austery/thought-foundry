@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - IMF
@@ -21,9 +21,7 @@ products_models:
 - S&P 500
 - Nasdaq
 - Russell 2000
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wOyuzSCQoUI
 speaker: Nico投资有道
@@ -37,7 +35,6 @@ tags:
 - financial
 title: 比特币四年周期已失效？加密市场新范式与投资策略
 ---
-
 ### 比特币四年周期是否存在？加密货币牛市是否结束？
 
 比特币的四年周期还存在吗？加密货币的牛市结束了吗？在价格大幅回调和市场极度悲观的情况下，目前我们是否应该继续投资加密货币？在今天这期视频中，我将详细分享对于比特币四年周期以及后续市场走势的看法，并公开我接下来的主动操作策略，相信这一定会对你的加密货币投资有所帮助。

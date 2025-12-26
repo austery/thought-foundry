@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Bloomberg Podcasts
@@ -27,10 +27,7 @@ products_models:
 - Kimmy
 - iPhone
 - Huawei
-project:
-- china-analysis
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7BVSxKmjXkc
 speaker: Bloomberg Podcasts
@@ -44,7 +41,6 @@ tags:
 - trade-war-impact
 title: 中国制造商如何应对贸易战：供应链重塑与AI竞赛
 ---
-
 ### 贸易战的幻想与现实
 
 主持人 Jill: 大家好，欢迎收听《OddLots播客》的又一期节目。我是Jill Wisenthal。

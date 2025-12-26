@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-04-26'
@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - adam-s-axiom
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0o6gPFbq_1w
 speaker: Adam's Axiom
@@ -26,7 +24,6 @@ tags:
 - wealth
 title: 亚当·斯密如何看待当今经济：一场跨越时空的对话
 ---
-
 ### 引言：斯密的困惑与现代资本主义的挑战
 
 **亚当·斯密**（Adam Smith: 18世纪苏格兰经济学家和哲学家，被誉为“资本主义之父”，其著作《国富论》奠定了现代经济学基础）被认为是**资本主义**（Capitalism: 一种经济和社会制度，其特点是生产资料私有制、通过市场交换分配商品和服务，以及追求利润的动机）之父。1776年，他出版了**《国富论》**（An Inquiry into the Wealth of Nations: 亚当·斯密于1776年出版的经济学巨著，详细阐述了自由市场、劳动分工和“看不见的手”等理论），彻底改变了经济思想。近250年后，他的思想塑造了当今主导世界的经济体系。然而，如果斯密看到今天的实践，他还会认同自己的愿景吗？让我们看看斯密如何看待两位最杰出的资本主义倡导者。

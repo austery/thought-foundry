@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg Audio Studios
@@ -29,10 +29,7 @@ people:
 - Stalin
 products_models:
 - Gemini Flash
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SW-au4cjfY4
 speaker: Bloomberg Podcasts
@@ -46,7 +43,6 @@ tags:
 - politics
 title: 习近平之父习仲勋与中共精英政治：历史、权力及意识形态
 ---
-
 ### 中共精英政治的迷雾与历史的价值
 
 **Joe Wisenthal:** 大家好，欢迎收听OddLots播客的又一期节目。我是Joe Wisenthal。

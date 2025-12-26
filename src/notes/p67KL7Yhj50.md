@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -14,10 +14,7 @@ people:
 - Marc Rowan
 products_models:
 - S&P 500
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p67KL7Yhj50
 speaker: Norges Bank Investment Management
@@ -30,7 +27,6 @@ tags:
 - market
 title: Apollo创始人Marc Rowan：私募市场、投资哲学与宏观风险洞察
 ---
-
 ### 引言：金融远见者Marc Rowan与Apollo的崛起
 
 大家好，我是挪威银行投资管理公司（**Norges Bank Investment Management**: 挪威主权财富基金）的首席执行官Nicola Tangen。今天我们有幸邀请到金融界的真正远见者Marc Rowan，他是全球最具影响力的另类资产管理公司之一——**Apollo Global Management**（阿波罗全球管理公司）的联合创始人。我们很荣幸持有阿波罗略低于2%的股份，价值近15亿美元。Marc，很高兴您能来这里。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-11-25'
@@ -21,9 +21,7 @@ products_models:
 - Gemini
 - Lovable
 - Manus
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CYzqEZ5lKoM
 speaker: 课代表立正
@@ -37,7 +35,6 @@ tags:
 - skill
 title: AI课程深度解析：构建AI思维与实战技能的新范式
 ---
-
 ### 课程内容与教学特色
 
 我们的AI课程并非仅仅教授那些表面的**标签**（Tags），例如**RAG**（Retrieval-Augmented Generation: 检索增强生成）、**MCP**（一种AI框架或概念）以及**LangChain**（一个用于开发基于大型语言模型应用的框架）。我们认为，单纯学习这些标签很快就会过时。课程的核心在于深度理解与实践。

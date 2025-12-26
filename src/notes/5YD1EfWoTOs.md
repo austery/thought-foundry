@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times Book Review
@@ -33,10 +33,7 @@ people:
 - MJ Franklin
 - Martin Luther King
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5YD1EfWoTOs
 speaker: New York Times Podcasts
@@ -49,7 +46,6 @@ tags:
 - relationship
 title: 尼古拉斯·博格斯谈詹姆斯·鲍德温传记：以爱之名
 ---
-
 ### 詹姆斯·鲍德温：一位以爱为核心的作家与偶像
 
 MJ Franklin: 欢迎收听《书评播客》。我是《纽约时报书评》的编辑MJ Franklin。本周的播客，我们邀请到尼古拉斯·博格斯来聊聊他的新书《鲍德温：一个爱情故事》。

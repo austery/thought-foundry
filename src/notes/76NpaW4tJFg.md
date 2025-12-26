@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Meta
@@ -16,10 +16,7 @@ media_books:
 - Black Mirror
 products_models:
 - ChatGPT
-project:
-- historical-insights
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=76NpaW4tJFg
 speaker: TVO Today
@@ -33,7 +30,6 @@ tags:
 - technological
 title: 印刷机与现代AI：历史如何指引我们应对技术变革？
 ---
-
 ### 历史的回响：技术进步的双重性
 
 技术并非孤立存在。它不断塑造着我们，而我们也持续塑造着它。随之而来的是巨大的可能性与真实的风险并存。西蒙菲沙大学传播学院助理教授Stephanie Dick经常思考这个问题。她研究数学、计算和**人工智能**（AI: Artificial Intelligence）的历史。她探讨了历史能如何指导我们理解当前所处的时刻，以及我们应该思考哪些问题来决定下一步的方向。

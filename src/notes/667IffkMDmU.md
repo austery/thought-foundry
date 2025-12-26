@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -18,8 +18,7 @@ people:
 products_models:
 - iPhone
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=667IffkMDmU
 speaker: Dwarkesh Patel
@@ -36,7 +35,6 @@ tags:
 - zero-day
 title: AI 实验室面临严峻的间谍活动威胁
 ---
-
 人们确实低估了**间谍活动**。我认为安全问题的一部分在于，人们没有意识到**国家级间谍活动**可能有多么激烈。例如，一家**以色列**公司拥有可以“零点击”（zero-click）破解任何**iPhone**的软件。只需输入你的号码，就可以直接下载所有内容。美国也曾渗透过一个**原子武器项目**。这真是太疯狂了。
 
 情报机构拥有大量的**零日漏洞**（Zero-day exploit: 指尚未被软件开发者发现或修复的安全漏洞，可被攻击者利用进行攻击）。当情况变得非常棘手时，他们可能会派遣**特种部队**前往数据中心。或者，**中国**会威胁人们的家人，说：“看，如果你不合作，不给我们**情报**（Intel），后果自负。”

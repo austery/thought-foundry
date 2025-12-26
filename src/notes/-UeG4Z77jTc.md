@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Pixar
@@ -20,10 +20,7 @@ products_models:
 - Finding Nemo
 - iPad
 - iPhone
-project:
-- systems-thinking
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-UeG4Z77jTc
 speaker: Norges Bank Investment Management
@@ -37,7 +34,6 @@ tags:
 - technology
 title: 皮克斯联合创始人埃德·卡特穆尔：创造力、文化与人才的秘密
 ---
-
 ### 皮克斯的创始愿景与文化基石
 
 皮克斯凭借《玩具总动员》、《海底总动员》、《超人总动员》、《赛车总动员》、《怪兽电力公司》等作品，在动画界占据了主导地位。这家公司已经赢得了27项奥斯卡金像奖。今天，我们非常荣幸地邀请到埃德·卡特穆尔，他与史蒂夫·乔布斯和约翰·拉塞特共同创立了皮克斯。埃德还写了我读过的关于创造力最好的书，那就是《**创造力公司**》（Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration）。如果你还没读过，你应该赶紧去买一本。埃德，非常荣幸能邀请您参加播客。

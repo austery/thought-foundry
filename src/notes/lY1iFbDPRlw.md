@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-12-13'
 draft: true
@@ -7,8 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lY1iFbDPRlw
 speaker: AI Engineer
@@ -24,7 +23,6 @@ tags:
 - open-weight
 title: Minimax M2：专为编码与智能体任务打造的高效AI模型
 ---
-
 ### Minimax M2：一款革命性的 AI 模型
 
 大家好，我是 Olive。今天非常荣幸能向大家介绍我们的新模型 Minimax M2。我曾在纽约市生活了六年，很高兴能回到这里，尽管角色有所不同。我目前在 Minimax 从事强化学习（Reinforcement Learning: 一种通过试错和奖励/惩罚来学习的机器学习方法）和模型评估的研究。

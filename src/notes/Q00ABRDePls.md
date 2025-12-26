@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-05-18'
@@ -12,9 +12,7 @@ people:
 - Winnicott
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q00ABRDePls
 speaker: Anthony看世界
@@ -28,7 +26,6 @@ tags:
 - self
 title: AI如何赋能学习与自我探索：超越人际关系局限的对话工具
 ---
-
 ### 引言：AI赋能学习与自我探索
 
 大家好，我是Anthony，欢迎来到我的频道。

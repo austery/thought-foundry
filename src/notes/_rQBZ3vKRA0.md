@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -32,10 +32,7 @@ products_models:
 - Model 3
 - Model Y
 - Cybertruck
-project:
-- ai-impact-analysis
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_rQBZ3vKRA0
 speaker: Norges Bank Investment Management
@@ -49,7 +46,6 @@ tags:
 - space-exploration
 title: 埃隆·马斯克：AI、火星、X平台与人类文明的未来展望
 ---
-
 ### 播客开场：X平台上的实时对话
 
 主持人首先对埃隆·马斯克（Elon Musk）能参加播客表示感谢，并提到他们两年前就开始尝试邀请他。

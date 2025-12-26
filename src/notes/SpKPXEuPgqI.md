@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - 芝加哥大学
@@ -14,9 +14,7 @@ people:
 - 蔡英文
 products_models:
 - MOO INK 电子书阅读器
-project:
-- personal-growth-lab
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SpKPXEuPgqI
 speaker: 超級歪 SuperY
@@ -30,7 +28,6 @@ tags:
 - strategy
 title: 超级歪分享：欧美名校与教育部奖学金申请全攻略
 ---
-
 ### 欧美国际研究所与奖学金申请经验分享
 
 今天将分享大家期待已久的国外研究所及教育部奖学金的申请经验。此前，超级歪这个频道曾有九个月未更新，那段时间我其实就是在申请硕士班和奖学金。但后来因为疫情关系，必须延期一年，所以去年我又申请了几间博士班。硕士班和博士班的申请重点有所不同，我将着重讲述两边有重叠的部分。我录取和未录取的学校是这几所，在考量地点、课程规划和学费之后，我最终选择到**伦敦政治经济学院**（LSE: London School of Economics and Political Science）攻读社会人类学硕士班。因为美国芝加哥大学的学费实在太贵，一年扣掉奖学金还要支付一百万台币，而LSE这边大概一年是八十五万台币。LSE是一所怎样的学校呢？其实就是蔡英文总统博士论文所在的学校。

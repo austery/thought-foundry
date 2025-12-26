@@ -22,10 +22,7 @@ people:
 - Nicole Kidman
 products_models:
 - Obamacare
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AtjORqj9gAA
 speaker: 记者易速利
@@ -38,7 +35,6 @@ tags:
 - us-government-shutdown
 title: 美国政府关门危机：医保补贴、中期选举与联邦官僚体系改革的政治博弈
 ---
-
 ### 美国政府关门：预测市场与历史回顾
 
 美国联邦政府从中国国庆节当天开始关门，国庆长假持续七天，但美国政府关门会持续多少天仍是未知数，也许几天，也许几周，只有国会和白宫才是决定者。然而，每个人都有机会通过真金白银去下注预测。**Polymarket**（预测市场：一个基于区块链的去中心化预测平台）已经开放了关于关门持续时间的项目。用户普遍预测这次关门的时间比较长，至少持续到10月中旬甚至更久，希望不要拖到党的20届市中全会召开的时候，即10月20号。

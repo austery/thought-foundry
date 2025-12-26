@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -84,10 +84,7 @@ products_models:
 - Llama 4
 - Gemini
 - Vision Pro
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5_KDQfCTLfI
 speaker: Amit Kukreja
@@ -102,7 +99,6 @@ tags:
 - prediction-market
 title: Meta削减元宇宙开支引发股价飙升，Palantir联手英伟达进军AI数据中心
 ---
-
 ### 市场开盘摘要
 
 大家早上好，欢迎回到新一期的市场开盘节目。感谢各位的到来，我们正在直播，有很多内容要讨论。今天是12月4日，星期四。昨天出现了很多不同的头条新闻，我们将逐一讨论。其中最重磅的莫过于 Jensen（英伟达CEO黄仁勋）做客 Joe Rogan 的播客。我真的没想到这会发生，但它确实发生了。那个播客里有很多片段正在迅速传播开来。所以，我们会谈谈这个。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - SemiAnalysis
@@ -47,10 +47,7 @@ products_models:
 - Genie 3
 - TPU
 - Trainium
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hEogqc9NrlM
 speaker: Best Partners TV
@@ -64,7 +61,6 @@ tags:
 - power
 title: AI战争的深层博弈：算力、资本与地缘政治的权力链条
 ---
-
 ### AI竞争的本质：算力即货币，英伟达是“中央银行”
 
 大家好，这里是最佳拍档。相信大家最近打开科技新闻，几乎满屏都是AI算力、英伟达市值、大模型竞赛这些关键词。但是很少有人能说清楚，AI领域的万亿美元竞争到底是在争什么？是模型参数的大小，还是数据的多少呢？

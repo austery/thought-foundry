@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Netflix
@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - Jennifer Lawrence
 - Mike Myers
-project:
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=j5feoxmIbxc
 speaker: TVO Today
@@ -27,7 +26,6 @@ tags:
 - social
 title: 聚光灯下的声音：明星公开发声的风险与价值
 ---
-
 ### 引言：明星发声的背景与争议
 
 政治局势日益紧张，社会分歧似乎无处不在，名人也无法置身事外。

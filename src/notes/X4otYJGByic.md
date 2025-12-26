@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - ISIS
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《查理周刊》
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X4otYJGByic
 speaker: 柴静 Chai Jing
@@ -27,7 +24,6 @@ tags:
 - radicalization
 title: 巴塞罗那恐袭亲历：追溯圣战分子激进化的根源
 ---
-
 ### 巴塞罗那恐袭亲历：和平假象下的阴影
 
 2017年7月，我们全家搬到了西班牙巴塞罗那。在离开北京之前，我把自己采访时穿过的所有西装都送了人。做了20年电视记者，这对我来说是一种虚妄而甜蜜的告别，我将去一个异国他乡，只是生活，不再工作。我们住在旅游区，兰布拉大道边缘。老实说，这条欧洲最繁华的步行街并不是一个好的居住地，到处都是游客。但我们有一个三岁的小女孩，她喜欢这条街上的一切：艺人、音乐、冰淇淋。所以，我们在这里安顿下来。

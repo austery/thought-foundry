@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 初日醫學
@@ -17,8 +17,7 @@ people:
 - Elon Musk
 products_models:
 - Apple Watch
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5qHI6y4Qisc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -32,7 +31,6 @@ tags:
 - society
 title: 睡眠专家揭示：休息的关键不在夜晚，而在白天
 ---
-
 ### 休息的关键：白天而非夜晚
 
 许多人开始出现睡眠问题的关键，其实不在晚上，而是在白天。哇赛心理学的蔡宇哲博士指出，如果白天没有机会让大脑休息，身体就会忘记什么叫做休息。有人认为一天睡八小时是浪费生命，会影响做事的效率，但从脑科学的研究来看，这恰恰相反。蔡博士举例说，**Elon Musk**（特斯拉与SpaceX创始人：一位曾认为睡觉是浪费时间的知名企业家）以前觉得睡觉是浪费时间，但在2023年，他改口表示每天都需要好好睡觉，因为他发现如果睡眠不足，所做的决策反而会变差。这正是许多努力工作者的缩影，他们最终会付出代价，长期来看效率反而会降低。睡眠不足会导致注意力下降，甚至有研究发现，主管如果前一晚睡不好，白天对待下属会比较凶。

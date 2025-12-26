@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO
@@ -10,10 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - The Pitch
-project:
-- historical-insights
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1hQyP2G3dUQ
 speaker: TVO Today
@@ -28,7 +25,6 @@ tags:
 - society
 title: 加拿大女子职业足球联赛的诞生与残奥运动员的体育力量
 ---
-
 ### 加拿大女子职业足球联赛：从梦想走向现实
 
 建立一支扩充球队已经够难了，所以想象一下从零开始创建一个完整的联赛。

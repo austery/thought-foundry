@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - AppLovin
@@ -27,10 +27,7 @@ media_books:
 - Seeking Alpha
 products_models:
 - GCP
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XWe52lsp6d0
 speaker: Money or Life 美股频道
@@ -44,7 +41,6 @@ tags:
 - tech
 title: AppLovin深度剖析：AI时代广告巨头的崛起、挑战与投资价值
 ---
-
 ### AppLovin的广告业务与AI受益
 
 大家好，欢迎来到Money or Life美股频道。我是Ace。上期视频我为大家科普了广告业务，我自己觉得广告业务真的太有意思了。真正为广告业务买单的都是我们这些终端消费者。而且最近几年，整个广告业务的增速非常快，部分原因就是得益于AI的发展。提起AI，我们今天要聊的主角**AppLovin**（一家领先的移动应用营销平台），可以说他是受益于AI最大的公司，可能没有之一。如果非要比的话，我想到另一家公司那就是Palantir而已了。

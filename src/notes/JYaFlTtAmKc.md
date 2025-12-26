@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Bloomberg
@@ -14,10 +14,7 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 - Mary Daly
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JYaFlTtAmKc
 speaker: Bloomberg Podcasts
@@ -31,7 +28,6 @@ tags:
 - infrastructure
 title: 阿拉斯加住房之谜：地广人稀，为何一房难求？
 ---
-
 ### 阿拉斯加的住房之谜
 
 Joe: 大家好，欢迎收听新一期的**Odd Lots**（一档探讨经济和金融话题的播客）播客。我是Joe Weisenthal。

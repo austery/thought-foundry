@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -11,9 +11,7 @@ layout: post.njk
 products_models:
 - Codeex
 - GPT-4.1
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_IzZWeuTx7I
 speaker: AI Engineer
@@ -28,7 +26,6 @@ tags:
 - society
 title: Prime Intellect：通过开放式RL环境和工具提升AI研究的可及性
 ---
-
 ### 规模化AI研究的深层含义
 
 今天，我们来谈谈**强化学习**（RL: Reinforcement Learning，一种机器学习方法，通过智能体与环境的交互来学习最优行为）环境及其规模化。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-09-20'
@@ -10,10 +10,7 @@ layout: post.njk
 people:
 - joseph-wang
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Vn5BEqcD5IY
 speaker: Joseph Wang
@@ -27,7 +24,6 @@ tags:
 - market-analysis
 title: 市场周报：美联储政策、日本央行行动与美国移民新政
 ---
-
 ### 本周市场回顾：波动与泡沫迹象
 
 Hello, my friends. Today is September 20th, and this is Markets Weekly.

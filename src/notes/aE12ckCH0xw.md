@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-07-27'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aE12ckCH0xw
 speaker: Anthony看世界
@@ -24,7 +22,6 @@ tags:
 - technology
 title: 中国家庭的“恩情高利贷”：如何摆脱原生家庭带来的情感债务与愧疚感？
 ---
-
 ### 中国家庭的普遍创伤：情感债务与愧疚感
 
 大家好，我是Anthony，欢迎来到我的频道。

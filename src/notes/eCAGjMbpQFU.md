@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - fearnation
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eCAGjMbpQFU
 speaker: FearNation 世界苦茶
@@ -26,7 +23,6 @@ tags:
 - us-election
 title: 全球右转浪潮：高市早苗当选与民粹主义兴起的影响
 ---
-
 ### 全球右翼浪潮与高市早苗当选
 
 近期，日本自民党总裁选举的结果备受关注。右翼候选人高市早苗意外当选，引发了人们对其执政方向的讨论。值得注意的是，这种民粹派或极右翼的当选并非日本独有，在全球范围内，许多国家都出现了类似的政治趋势。

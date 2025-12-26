@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Blue Origin
@@ -26,10 +26,7 @@ products_models:
 - New Glenn
 - Project Kuiper
 - Saturn V
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jMJNf9rOxig
 speaker: 海伦子Hellen
@@ -42,7 +39,6 @@ tags:
 - space-exploration
 title: 贝索斯的蓝色起源：一场低调而宏大的太空探索之旅
 ---
-
 ### 蓝色起源：低调的太空玩家与频繁的法律纠纷
 
 与SpaceX相比，杰夫·贝索斯旗下的**蓝色起源**（Blue Origin）公司似乎一直保持着较低的存在感，关注和谈论它的人也相对较少，这主要是因为其项目进度确实比SpaceX慢很多。然而，最近蓝色起源再次引起关注，因为它又在起诉SpaceX，要求监管机构限制SpaceX火箭在佛罗里达州的发射次数，理由是对当地社区和环境造成了影响。

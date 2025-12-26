@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-14'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fedosU0UolE
 speaker: Bloomberg Podcasts
@@ -27,7 +24,6 @@ tags:
 - trade
 title: 收盘分析：贸易担忧、银行财报与市场波动
 ---
-
 ### 市场收盘概览与贸易紧张局势
 
 All right. We are about 2 minutes away from the end of the trading day. Katie Greifeld and Matt Miller, in for Romaine Bostick, are here to help take us through the closing bell. We're joined by a global simulcast, Carol Massar and Isobel, filling in for Tim Stenovec. Carol, we were just talking about how we were so close to seeing another green finish for the S&P 500, but those trade tensions coming back in a big way just in the last 15 minutes or so.

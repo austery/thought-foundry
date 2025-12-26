@@ -21,10 +21,7 @@ people:
 - Donald Trump
 - Zohran Mamdani
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g7r67d-BJR4
 speaker: 北美王路飞
@@ -38,7 +35,6 @@ tags:
 - politics
 title: 美国MAGA右翼内战：Ben Shapiro与Tucker Carlson的意识形态对决
 ---
-
 ### 美国右翼的意识形态冲突：Ben Shapiro与Tucker Carlson的对决
 
 如果你经常关注一些右翼博客，会发现目前一场关于**反犹主义**（Anti-Semitism: 对犹太民族的仇恨、偏见或歧视）、以色列政策以及保守运动未来的激烈冲突，正在美国右翼内部上演。2025年10月，当Tucker Carlson在其博客节目中，对**白人民族主义者**（White Nationalist: 一种认为白人是独立民族，并寻求维护白人多数地位和政治经济主导权的意识形态）Nick Fuentes进行了长达两小时的友好访谈后，**MAGA**（Make America Great Again: 特朗普总统的竞选口号，代表其政治运动和支持者群体）运动内部爆发了一场前所未有的意识形态战争。这场冲突的核心人物是保守派媒体巨头Ben Shapiro和前Fox News主播Tucker Carlson。他们之间的对决，揭示了共和党联盟内部深层次的裂痕。

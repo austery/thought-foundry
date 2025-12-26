@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NVIDIA
@@ -32,10 +32,7 @@ products_models:
 - FSD
 - Windows
 - ChatGPT
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MwuFGHyINyg
 speaker: 小翠時政財經
@@ -49,7 +46,6 @@ tags:
 - us-china-relations
 title: 川普亚洲行与“川习会”前瞻：芯片、芬太尼与英伟达的AI帝国野心
 ---
-
 ### 川普亚洲行与“川习会”前瞻
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月29日，欢迎收看今天的每日要闻节目。我们今天将从川普总统的行踪开始讲起，讲完川普总统的行踪，我们就可以解释为什么昨天全球股市都大涨，特别是英伟达，简直冲上云霄，成为第一家市值达到5万亿美元的大公司。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-10-12'
@@ -12,9 +12,7 @@ people:
 - Sigmund Freud
 - Jacques Lacan
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WFbnEwqdqog
 speaker: Anthony看世界
@@ -30,7 +28,6 @@ title: 男娘文化与女装现象：精神分析视角下的欲望、创伤与�
 companies:
 - psychoanalysi
 ---
-
 ### 导语：从NTR到男娘文化
 
 大家好，我是Anthony。欢迎来到我的频道。在前两期视频中，我们讨论了**NTR幻想**（NTR: Netorare，指伴侣出轨并被他人占有的性幻想）及其背后的心理状态。

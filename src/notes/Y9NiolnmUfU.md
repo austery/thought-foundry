@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -34,10 +34,7 @@ people:
 - Larry Ellison
 - Elon Musk
 - Muhammad
-project:
-- us-analysis
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y9NiolnmUfU
 speaker: New York Times Podcasts
@@ -50,7 +47,6 @@ tags:
 - social-issue
 title: 美国政治与社会动态：从白宫会面到海岸警卫队政策争议
 ---
-
 ### 纽约市长当选人与特朗普的白宫会面
 
 我打算向特朗普总统明确表示，我将与他合作，推动任何有益于纽约市民的议程。

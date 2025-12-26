@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -45,10 +45,7 @@ products_models:
 - Grok
 - Claude
 - Optimus
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NvOdDBR1cWY
 speaker: Amit Kukreja
@@ -63,7 +60,6 @@ tags:
 - technology
 title: Palantir 深度解析：专家解读其政府业务与军事技术核心
 ---
-
 ### 嘉宾介绍与政府业务背景
 
 **Amit:** 好的，大家好，欢迎回到新一期节目。今天我请来了 Adam，也就是 Gokarp。我把他的推特链接放在聊天区了，还没关注他的朋友可以去关注一下。我的频道有很多新订阅者，所以如果你不认识 Adam，他是 Palantir 社区的**OG**（Original Gangsters：指元老级或创始成员）之一，是帮助大家理解 Palantir 政府业务的绝对瑰宝。我想他过去四年里花了无数个小时，我估计得超过一万小时，才像现在这样深入理解政府业务。他确实帮助了整个散户社区理解这一点。过去一年我们大概做了六七次直播，所以这次应该是第八次了。我们将更深入地探讨政府业务。Adam，你好吗？

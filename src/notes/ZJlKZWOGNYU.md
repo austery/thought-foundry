@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-10-14'
 draft: true
@@ -9,9 +9,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZJlKZWOGNYU
 speaker: Bloomberg Podcasts
@@ -24,7 +22,6 @@ tags:
 - network
 title: Lumen科技：重塑债务结构，聚焦AI与增长的战略转型
 ---
-
 ### 访谈开场与Lumen的业务转型
 
 Bloomberg: You're listening to Bloomberg BusinessWeek with Carol Masser and Tim Stenc on Bloomberg Radio. It is time for another edition of the CFO briefing. This week we are joined by Chris Stanbury, chief financial officer and EVP of the Louisiana-based publicly traded global communication services company Lumen Technologies. Market cap of about $6.88 billion. Shares so far this year up more than 25%. Also with us here in the studio is Nina Trentman, a Bloomberg News senior editor. She writes the CFO briefing newsletter. You can subscribe to it at bloomberg.com/cfo-briefing. Chris is featured in the most recent edition of the newsletter. Chris joins us from Denver. Chris, welcome. The company divesting non-core assets, for example, earlier this year announcing the sale of its mass market residential fiber unit to AT&T for $5.75 billion in cash. Now what you're planning to do is leasing existing fiber routes to hyperscalers and social media companies to transport AI traffic between data centers. I want to know how big of an opportunity is it to lease to these hyperscalers?

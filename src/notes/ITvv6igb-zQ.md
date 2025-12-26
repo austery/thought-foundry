@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NDP
@@ -18,9 +18,7 @@ people:
 - John Michael McGrath
 - Doug Ford
 - John Fraser
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ITvv6igb-zQ
 speaker: TVO Today
@@ -34,7 +32,6 @@ tags:
 - politics
 title: 安大略省政治风波：技能基金丑闻、审计威胁与水务改革争议
 ---
-
 ### 播客开场与主持人趣谈
 
 大家好，欢迎收听 OnPy 播客。

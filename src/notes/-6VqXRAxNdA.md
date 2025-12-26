@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-6VqXRAxNdA
 speaker: Bloomberg Podcasts
@@ -25,7 +24,6 @@ title: Zwift 首席执行官谈论盈利能力与虚拟骑行平台
 companies:
 - virtual-cycling
 ---
-
 ### 智能单车的市场反响
 
 About a year ago, you had just announced this with Rye. That's a 1300 dollar smart bike to get more people on the app. Has it worked?

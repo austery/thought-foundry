@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -15,9 +15,7 @@ people:
 - Howard Marks
 - Warren Buffett
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=w2MlCypH2N8
 speaker: Norges Bank Investment Management
@@ -32,7 +30,6 @@ tags:
 - private-equity
 title: 投资哲学、市场效率与组织学习：一场深度对话
 ---
-
 ### 引言：投资哲学的多元视角
 
 主持人：非常荣幸能邀请到四位嘉宾——Greg、Howard、Jean 和 Patrick。今天的会议以如此精彩的方式开场，真是令人难以置信。非常感谢大家。现在，Jean 和 Patrick 也加入了我们，我们将进一步深入讨论。如果我在任何时候打断了各位，请大家多多包涵，这只是为了充分利用大家慷慨给予我们的时间。Jean，我将从您开始。Greg 和 Howard 已经阐述了他们的投资哲学以及建立投资信条的必要性。您管理着 **Wellington**（一家全球知名的投资管理公司），它被视为一个由投资精品店组成的联邦。那么，不拥有一个 overarching（总括性）投资哲学，其优势和潜在的陷阱分别是什么？

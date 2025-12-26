@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Intel
@@ -17,10 +17,7 @@ people:
 - Joe Biden
 products_models:
 - S&P 500
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lAT8hx3BUtw
 speaker: Shanghao Jin
@@ -35,7 +32,6 @@ tags:
 - us-market-outlook
 title: 2025年3月市场展望：美股头寸、宏观风险与政策影响深度分析
 ---
-
 ### 市场概览与宏观判断
 
 本周将直接开始对市场的分析。上周主要讨论了美股市场的**头寸**（Position: 市场参与者持有某种资产或证券的数量）分布。本轮下跌已持续近20天，从上个月开始。上周的基本判断是美股已达到一个阶段性的底部。至于此后是反弹后继续下跌，还是回到原有位置，则需根据宏观基本面来判断。

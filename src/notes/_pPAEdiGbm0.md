@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - IMF
@@ -12,9 +12,7 @@ people:
 - Vladimir Putin
 - Boris Yeltsin
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_pPAEdiGbm0
 speaker: 海淀拙大叔
@@ -27,7 +25,6 @@ tags:
 - society
 title: 普京税制改革的启示：中国收入分配改革的破局之道
 ---
-
 ### 中国经济的挑战与改革方向
 
 本期《阿甘经济宏观论》第17集，以“普京税制改革的启示”为题，开启了收入分配改革系列的第一集。当前中国经济面临的最大问题是**总需求不足**（Insufficient Aggregate Demand: 指经济中商品与服务需求总量低于潜在供给能力），解决之道在于让老百姓有钱消费。只有解决了总需求问题，中国经济才能实现可持续增长，资本市场才能迎来真正意义上的超级大牛市。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - 北约
@@ -35,10 +35,7 @@ people:
 - 奥巴马
 - 马英九
 - 赖清德
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Gt4OSZ__VWQ
 speaker: 北美王路飞
@@ -51,7 +48,6 @@ tags:
 - war
 title: 俄乌战争的深层代价与全球政治的复杂博弈：从敖德萨到华盛顿
 ---
-
 ### 开场：俄乌和谈的复杂背景
 
 **北美王路飞:** 大家好，欢迎来到我的频道。今天这期播客很高兴请到了陈军先生，我们来继续聊一下俄乌的问题。如果熟悉我们频道的朋友应该知道，我们之前有一个辩论节目，当时陈军先生和野狼兵是站在一方，对俄乌战争进行了非常激烈的辩论。我们这一期节目非常高兴又邀请陈先生过来，再分享一下对于俄乌和谈的一些看法。我知道陈先生你去过乌克兰，也有很多生意伙伴，所以你对这一方面的理解会有一个跟一般人不一样的视角。我们今天很想听听陈先生怎么看待现在这样一个和谈的情况。

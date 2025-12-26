@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
@@ -16,10 +16,7 @@ media_books:
 people:
 - Magnus Carlsen
 - Peter
-project:
-- investment-strategy
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d9cR7NvgFCo
 speaker: Norges Bank Investment Management
@@ -33,7 +30,6 @@ tags:
 - risk-management
 title: 国际象棋大师马格努斯·卡尔森的商业智慧：从棋盘到投资的洞察
 ---
-
 ### 开场与国际象棋的商业启示
 
 大家好，欢迎收听“In Good Company”播客。

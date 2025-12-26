@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -20,9 +20,7 @@ people:
 - Doug Ford
 - Paul Calandra
 - Mike Harris
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GOxWgQqL8eE
 speaker: TVO Today
@@ -36,7 +34,6 @@ tags:
 - relations
 title: 安大略省审计长报告揭示医疗支出问题及其他省政要闻
 ---
-
 ### 欢迎收听 OnPy 播客
 
 Steve Paikin: 欢迎大家收听 OnPy 播客。我是史蒂夫·帕金。

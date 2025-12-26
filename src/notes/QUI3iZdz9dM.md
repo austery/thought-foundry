@@ -30,9 +30,7 @@ media_books:
 people:
 - Donald Trump
 - Hassett
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QUI3iZdz9dM
 speaker: 视野环球财经
@@ -45,7 +43,6 @@ tags:
 - semiconductor-outlook
 title: 美股震荡无需恐慌：AI投资前景与机构乐观展望
 ---
-
 ### 市场跳水无需恐慌，技术性回撤是常态
 
 大家好，欢迎回到视野环球财经，我是reino。现在是美东时间25年12月12号周晚上的7点35分。今天的四大指数开盘即遭遇抛售。代表着通用GPU供应链需求风向标的甲骨文（Oracle）和代表着定制化AI芯片的搏通（Broadcom），都在财报后折戟。这给人工智能（AI）的投资前景增加了许多不确定性。

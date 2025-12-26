@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2024-11-29'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=45jFMosXWtA
 speaker: 一口新飯
@@ -22,7 +21,6 @@ tags:
 - self
 title: 从“自私”到“自救”：构建不败的人生底牌
 ---
-
 ### 自救的起点：学会毫无保留的“自私”
 
 我来自中国的一个贫困农村家庭，人生中经历过许多卡住的时刻。起初，我并不清楚如何**自救**（Self-salvation: 指在困境中依靠自身力量摆脱困境、实现自我提升的过程）。然而，一次重要的心态转变，让我一次次实现了人生的反转，这个心态就是学会**毫无保留的自私**（Selfishness: 在这里指将注意力优先放在自身需求和成长上，而非传统意义上只顾自己不顾他人的负面含义）。今天，我想通过一些故事和思考，分享为什么自私是自救的第一步。它包含两个关键部分：先给自己戴上氧气面罩，以及拿好你的人生底牌。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - IBM
@@ -17,9 +17,7 @@ products_models:
 - NFT
 - 数字人民币
 - Raft协议
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sFK5ypLDlrI
 speaker: Peter Pang
@@ -32,7 +30,6 @@ tags:
 - work
 title: 区块链：一场技术热潮的幻灭与反思
 ---
-
 ### 区块链：一场席卷全球的技术狂热
 
 曾经有这么一个技术热潮，它席卷全球，让全民狂热，人人参与。资本为它孤注一掷，投入了大量的定制硬件。它号称是革命性的技术突破，誓要颠覆现有的商业秩序。我说的不是现在的AI，而是十年前比AI还火的**区块链**（Blockchain: 一种分布式账本技术，通过密码学方法将数据块串联起来，并由网络中的多个节点共同维护，以实现去中心化和不可篡改性）。当年这矿我挖过，这币我炒过，技术我研究过，项目我开发过。作为曾经的重度参与者，看着如今“死翘翘”的区块链，我却丝毫不怀念它，甚至想说一句：好死。

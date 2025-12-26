@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国社会学会
@@ -13,10 +13,7 @@ media_books:
 - 《Social Science Research》
 - 《纽约时报》
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=twRmVjqqQ3M
 speaker: 壽司坦丁 Sociostanding
@@ -30,7 +27,6 @@ tags:
 - social
 title: 学术争议与同性亲职研究：一场影响深远的文化战争
 ---
-
 ### 同性婚姻诉讼中的学术战场
 
 这里是寿斯坦丁，在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究发现。Mark Regnerus是美国德州大学奥斯汀分校的郑教授，他所任职的社会学系全美排名前20。对许多博士生或新晋学者来说，职业阶梯的终点就是在这样一所声望卓著的机构当上正教授。然而，Mark Regnerus（下称“小雷”）的名声却在业界谷底，有人说他专门生产“垃圾科学”。五年前，他升上正教授时，业界的八卦论坛甚至有人唱衰，这所社会学系会因此掉到200名以外。这一切都与11年前，江湖上掀起的那场腥风血雨有关。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2021-12-16'
@@ -14,10 +14,7 @@ media_books:
 people:
 - Milton Friedman
 products_models: []
-project:
-- systems-thinking
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gpkijBhKBJg
 speaker: 超級歪 SuperY
@@ -31,7 +28,6 @@ tags:
 - strategy
 title: 拆解政治话术：解读《反动的修辞》中的三大论证策略
 ---
-
 ### 导言：公共辩论中的反动修辞
 
 2021年12月18日，台湾举行了四大公投，议题涵盖“重启动核四”、“反莱猪”、“公投绑大选”以及“三接迁建”。在这些公共议题的辩论中，我们常常会遇到各种反对改革的声音。美国经济学家阿尔伯特·赫希曼（Albert O. Hirschman）的著作《反动的修辞》（The Rhetoric of Reaction）正是为了帮助我们破解这些公共论述，揭示反改革人士如何运用修辞技巧进行辩论。

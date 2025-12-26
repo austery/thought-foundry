@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2024-01-03'
 draft: true
@@ -12,9 +12,7 @@ people:
 - 艾晓明
 - 柴静
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wrflkuSJEs4
 speaker: 柴静 Chai Jing
@@ -28,7 +26,6 @@ tags:
 - social
 title: 《中原纪事》：河南“血祸”下的艾滋病村悲剧与抗争
 ---
-
 ### “血浆经济”的起源与泛滥
 
 在一个村子里，三千多口人，一天就有五百多人去卖血。后来查出来有八百多人感染了艾滋病，还有五百人没有检查，情况非常严重。

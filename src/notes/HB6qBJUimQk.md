@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Globe and Mail
@@ -14,9 +14,7 @@ people:
 - Donald Trump
 products_models:
 - Advil
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HB6qBJUimQk
 speaker: TVO Today
@@ -29,7 +27,6 @@ tags:
 - public-health-system
 title: 加拿大麻疹卷土重来：从清零到失守的全球追踪与公共卫生挑战
 ---
-
 ### 加拿大麻疹清零地位的丧失及其影响
 
 自加拿大在1998年正式消灭麻疹以来，我们曾经历过疫情爆发，但从未像这次一样严重。

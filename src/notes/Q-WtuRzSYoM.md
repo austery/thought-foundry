@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -20,10 +20,7 @@ people:
 - Joe Biden
 - Recep Tayyip Erdoğan
 products_models: []
-project:
-- geopolitics-watch
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q-WtuRzSYoM
 speaker: Norges Bank Investment Management
@@ -36,7 +33,6 @@ tags:
 - ukraine-war
 title: 斯托尔滕贝格：全球安全挑战、乌克兰战争与危机领导力
 ---
-
 ### 全球安全格局的演变
 
 北约前秘书长延斯·斯托尔滕贝格（**Jens Stoltenberg**：曾任挪威首相，后担任北大西洋公约组织秘书长）在播客节目《In Good Company》中接受采访时，回顾了他八年前出版的一本书，该书涵盖了直到十年前的时期。主持人询问他，自那本书问世以来，世界发生了哪些最重要的变化。

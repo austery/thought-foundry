@@ -9,8 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=A9QQ_ymKReI
 speaker: 硅谷101播客
@@ -22,7 +21,6 @@ tags:
 - 未来展望
 title: 从工具到伙伴：七位AI Agent深度使用者的思考
 ---
-
 **主持人简介**
 
 **Sophie**：【特约研究员】，关注AI应用。

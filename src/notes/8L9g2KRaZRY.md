@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-10-06'
@@ -11,9 +11,7 @@ people:
 - Jacques Lacan
 - 拉康
 products_models: []
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8L9g2KRaZRY
 speaker: Anthony看世界
@@ -25,7 +23,6 @@ tags:
 - 绿帽癖
 title: NTR与绿帽癖的深层心理学：揭秘羞辱与被羞辱的快感机制
 ---
-
 ### 继续探讨NTR与绿帽癖的深层心理学
 
 Hello everyone, I'm Anthony

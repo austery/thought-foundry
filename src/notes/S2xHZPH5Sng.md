@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - YouTube
@@ -18,10 +18,7 @@ people:
 - Derek Muller
 - Stephen Hawking
 - Mr. Beast
-project:
-- systems-thinking
-- entrepreneurship
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S2xHZPH5Sng
 speaker: veritasium
@@ -34,7 +31,6 @@ tags:
 - rate
 title: 标题党为何如此有效：YouTube算法、点击率与内容传播的科学
 ---
-
 ### 标题党：一个令人头疼的难题
 
 我能告诉你们我擅长什么吗？

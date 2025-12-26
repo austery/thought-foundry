@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -19,9 +19,7 @@ people:
 - François-Philippe Champagne
 - Mark Carney
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3UTXWxUNZ1A
 speaker: TVO Today
@@ -35,7 +33,6 @@ tags:
 - remembrance-day
 title: 2025年的阵亡将士纪念日：加拿大军事记忆与国防现代化
 ---
-
 ### 阵亡将士纪念日的历史与演变
 
 1919年11月6日，英王**乔治五世**（King George V: 英国国王，在位期间经历第一次世界大战）的一封信在**下议院**（House of Commons: 加拿大联邦议会的下议院）被宣读。

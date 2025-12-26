@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 网信办
@@ -27,10 +27,7 @@ products_models:
 - 特斯拉
 - 苹果
 - 安卓
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5ZPNo4U38wc
 speaker: 老周横眉
@@ -43,7 +40,6 @@ tags:
 - social-commentary
 title: 户晨风被全网封杀：中国言论审查环境与博主出海挑战
 ---
-
 ### 户晨风事件回顾与中国言论审查环境
 
 过去这个周末，中国知名博主户晨风突然被全网封杀。在我看来，户晨风被封杀这件事，就跟潮汐一样，根本就不是会不会发生的问题，而是什么时候发生的问题。如果说户晨风和他的粉丝们没有想过他迟早会被全网封禁的话，那只是一种侥幸心理罢了。其实过去一年来，经常都会有观众让我评价一下户晨风，但我一直觉得没有这个必要特地做一期视频去讲他。但他被封杀的这件事情确实引起了广泛的社会讨论。户晨风被中共封杀也不仅仅是他个人的事，也能让我们对目前中国言论审查的大环境做一个探讨和审视。所以今天我觉得还是有必要来跟大家聊一聊这件事。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies:
 - meta-neuro-symbolic-rl
@@ -23,10 +23,7 @@ products_models:
 - Claude
 - VS Code
 - Next.js
-project:
-- ai-impact-analysis
-- entrepreneurship
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kWOQS3XPZ10
 speaker: AI Engineer
@@ -40,7 +37,6 @@ tags:
 - developer-preference
 title: Command Code：一个能学习你编程品味的AI编码代理
 ---
-
 ### 介绍Command Code：一个有“品味”的AI编码代理
 
 大家好！今天我非常激动地向大家发布并分享我们已经为此努力了一年多的成果，它叫做**Command Code**（一个带有“品味”的AI编码代理）。

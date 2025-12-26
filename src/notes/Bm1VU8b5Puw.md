@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Adobe
@@ -24,10 +24,7 @@ products_models:
 - Premiere Pro
 - Acrobat
 - PDF
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Bm1VU8b5Puw
 speaker: Shijun Tang
@@ -41,7 +38,6 @@ tags:
 - technology
 title: 建仓Adobe、Palantir与FICO三年后：价值陷阱还是长期护城河？
 ---
-
 ### Adobe：创意软件市场的生态垄断者
 
 我建仓Adobe已经156天了，而且这已经不是我第一次建仓Adobe。这一次是在家庭信托账户中买入，此前我在个人账户也持有过。虽然在建仓时点，Adobe的股价表现疲软——不考虑汇率因素，我的持仓回报率约为负3%——而同期标普500指数基金的回报则高达15%，但这并不能简单地判定Adobe是价值陷阱。

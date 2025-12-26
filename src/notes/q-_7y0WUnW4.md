@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 date: '2021-10-27'
 draft: true
@@ -9,8 +9,7 @@ layout: post.njk
 people:
 - Derek Muller
 products_models: []
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=q-_7y0WUnW4
 speaker: veritasium
@@ -24,7 +23,6 @@ tags:
 - technology
 title: 直升机悬挂缆绳的物理之谜：实验验证与深度解析
 ---
-
 ### 直升机缆绳之谜：一道物理考题引发的争议
 
 2014年，**美国物理队**（US Physics Team: 旨在选拔和培训代表美国参加国际物理奥林匹克竞赛的学生队伍）的资格考试中，第19题提出了这样一个问题：一架直升机正以恒定速度水平飞行，其下方悬挂着一根完全柔韧、均匀的缆绳。缆绳上的空气摩擦不可忽略。那么，当直升机向右飞行时，以下哪个图表最能显示缆绳的形状？选项包括：A. 垂直向下；B. 向左对角线倾斜；C. 钩状；D. 倒钩状；E. S形弯曲。

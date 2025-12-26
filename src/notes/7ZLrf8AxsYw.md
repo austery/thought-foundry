@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -13,8 +13,7 @@ layout: post.njk
 people:
 - 李思賢
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7ZLrf8AxsYw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +27,6 @@ tags:
 - management
 title: 女性婦科問題竟是糖尿病前期警訊？醫師解析3大症狀與逆轉策略
 ---
-
 大家好，我是思思醫師。或許您習以為常的婦科問題，其實正讓您面臨**糖尿病前期**（Pre-diabetes: 血糖值高於正常但未達糖尿病診斷標準的狀態）的風險。在今天的文章中，我將整理出三種診間常見的患者主訴婦科症狀，解析這些症狀與糖尿病前期之間的關聯，並分享實用的改善建議。
 
 ### 月經失調與胰島素阻抗的警訊

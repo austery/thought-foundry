@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-08-15'
 draft: true
@@ -17,10 +17,7 @@ people:
 - 柴静
 - 孙立人
 products_models: []
-project:
-- historical-insights
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Bxwx9D8NyeA
 speaker: 柴静 Chai Jing
@@ -33,7 +30,6 @@ tags:
 - philosophy
 title: 抗战老兵的沉默与记忆：赖恩典15年口述历史的追寻
 ---
-
 ### 引言：国家记忆与民间追寻
 
 在历史的长河中，许多抗战老兵曾为国族冒死，却最终被遗忘。他们曾是国家的脊梁，却在和平年代被冠以“三无犯人”或“国民党的残渣与孽”等罪名，甚至连一个字都不敢提及自己的过往。一个国家若没有勇气面对真相，不愿为保卫自己的士兵承担责任，那么这些老兵的命运，便如同那句“赵耀，你对中国人做了什么？”的质问，最终只能得到“我个人没有对他们做什么，他们甚至不喜欢我”的无奈回答。许多老兵的经历，就这样被长期尘封，甚至消失。

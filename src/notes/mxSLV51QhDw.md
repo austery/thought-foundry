@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-10-18'
 draft: true
@@ -28,9 +28,7 @@ people:
 - 华国锋
 - 张爱玲
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mxSLV51QhDw
 speaker: 柴静 Chai Jing
@@ -43,7 +41,6 @@ tags:
 - power-struggle
 title: 江青与维特克的60小时访谈：一场试图改写历史的独白如何成为政治罪证
 ---
-
 ### 引言：历史的交汇点
 1977年4月，当毛泽东的妻子江青被押送进秦城监狱时，一本名为《江青同志》的书在美国出版。这本书源于1972年她向美国学者罗克珊·维特克（Roxane Witke）进行的60个小时口述传记。中外报道普遍认为，这本书是导致江青失权的原因之一。这本口述至今没有获得授权的中文版本。半个世纪后，我们一同回顾这次采访，以期更好地认识历史。
 

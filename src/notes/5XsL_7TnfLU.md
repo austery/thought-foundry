@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -28,8 +28,7 @@ people:
 - Jefferson
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5XsL_7TnfLU
 speaker: Dwarkesh Patel
@@ -42,7 +41,6 @@ tags:
 - power-dynamic
 title: AI接管的风险与对齐：哲学视角下的未来展望
 ---
-
 今天我与**乔·卡尔史密斯**（Joe Carlsmith: 一位哲学家）聊天。他是一位在我看来，堪称“大写字母G”的伟大哲学家。你可以在 **joecarlsmith.com** 上找到他的文章。我们现在有 **GPT-4**，它看起来不像一个“回形针制造者”**（Paperclipper: 指一个目标单一且极端的AI，例如将宇宙中所有物质转化为回形针）**。它理解人类价值观。事实上，你可以让它解释为什么成为一个回形针制造者是坏事，或者让它解释为什么不应该把整个星系变成回形针。那么，要发生什么，才能最终出现一个系统接管世界，并将其转化为毫无价值的东西呢？
 
 ### AI失控的担忧

@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: lifestyle
 companies_orgs: []
 date: '2025-09-28'
@@ -21,7 +21,6 @@ tags:
 - victoria-attraction
 title: 加西三天之旅费用总结与维多利亚周边遗珠景点盘点
 ---
-
 ### 加西之旅：费用总结与景点回顾
 
 大家好，我是庄也。欢迎收看庄也杂谈。本期节目将继续探讨加西之旅，主要总结在大温哥华及大维多利亚地区三天旅行的所有费用，并补充介绍一些因时间关系未能到访，但非常值得一去的精华景点，为未来的旅行提供参考。

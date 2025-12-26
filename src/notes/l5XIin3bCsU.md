@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-07-25'
@@ -17,10 +17,7 @@ people:
 - 萨特
 - 罗振宇
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=l5XIin3bCsU
 speaker: 王红雨
@@ -34,7 +31,6 @@ tags:
 - ponzi-scheme-analogy
 title: 2025年“逃离加拿大”现象的反思：移民政策、人生困境与存在意义的探索
 ---
-
 ### “逃离加拿大”现象及其反思
 
 大家好，欢迎再次回到我的频道。今天是2025年7月25号。今年我们看到了很多在网上直播自己“逃离加拿大”的故事。今天跟大家来聊一聊我对这些现象的一些思考，重点是想聊一聊我们这些留下来的人如何自处。

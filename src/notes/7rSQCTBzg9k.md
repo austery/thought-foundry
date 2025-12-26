@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Apple
@@ -21,10 +21,7 @@ people:
 - Tony Blair
 - Elon Musk
 - J.K. Rowling
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7rSQCTBzg9k
 speaker: 超級歪 SuperY
@@ -39,7 +36,6 @@ tags:
 - psychology
 title: 完美主义的陷阱：现代社会倦怠与系统性困境
 ---
-
 ### 现代人的疲惫根源：完美主义的陷阱
 
 近期一项研究发现，台湾大学生罹患抑郁症的比例显著增加，从疫情前的16.3%上升至疫情后的25.5%，增幅达9.2%。此外，根据人力银行的调查，高达94%的台湾上班族曾经历**职场倦怠**（Burnout: 因长期压力导致的身心俱疲状态），其中最常出现倦怠症状的时间是周一下午两点，这表明“蓝色星期一”的魔咒确实存在。

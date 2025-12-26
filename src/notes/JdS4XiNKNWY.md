@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-12-04'
 draft: true
@@ -7,10 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JdS4XiNKNWY
 speaker: TED
@@ -23,7 +20,6 @@ tags:
 - society
 title: 如何赋能下一代飞行员：Refilwe Ledwaba的航空梦想与实践
 ---
-
 ### 赋能与成功的共享
 
 有时候，我们倾向于只把人看作问题的一部分，却不把他们看作成功的一部分。

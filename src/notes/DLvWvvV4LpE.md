@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-08-12'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《繁花》
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DLvWvvV4LpE
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - society
 title: 高考志愿填报：制度缝隙中的教育公平与AI时代的干预新路径
 ---
-
 ### 高考志愿填报：一场被忽视的系统性公平之战
 
 大家好，我叫叶晓阳，是一名教育经济学家。我的任务是研究“读书有没有用”——这个看似简单、实则深刻的问题。很多人以为这是无用之学，但事实上，教育经济学的核心正是通过科学方法分析教育投入与回报的关系，从而指导政策制定和个人决策。

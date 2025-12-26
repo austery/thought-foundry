@@ -10,10 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- ai-impact-analysis
-- taiwan-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7h31GhuAEX8
 speaker: 三個水槍手
@@ -27,7 +24,6 @@ tags:
 - taiwan-politics
 title: E107 台湾馆长厦门首秀日入百万！中国买单的是统战虚荣心? 还是商业利益?
 ---
-
 ### 直播首秀与巨额打赏
 最近确实有很多令人比较不舒服的事情。其中一个焦点是台湾网红**陈志翰**（馆长）近期在**抖音**进行了一次直播。这次直播吸引了**405万人次**的点击，最高在线人数超过十万。然而，最令人震惊的是直播期间收到的打赏金额，保守估计高达**三四百万人民币**，其中不乏数千元人民币的“嘉年华”和“小火箭”等虚拟礼物。
 

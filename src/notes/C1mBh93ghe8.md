@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 中国移动
@@ -18,9 +18,7 @@ products_models:
 - 抖音
 - 王者荣耀
 - Photoshop
-project:
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C1mBh93ghe8
 speaker: 北美王路飞
@@ -35,7 +33,6 @@ tags:
 - personal-resilience
 title: 从负债50万到重拾希望：一位连续创业者的韧性之路
 ---
-
 ### 连续创业的起点：从服装到装修
 
 大家好，欢迎来到我的频道。今天很高兴请到了一位连续创业者，也是我多年的老朋友老聂，来给大家分享一下他在中国这么多年的创业史。我只是一个连续创业者，一个在中国普遍的、大家都在创业的创业者，而且是到现在也没有取得多大成功的一个。

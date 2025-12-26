@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-05-31'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - stella-an
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PjRIrC6WIyE
 speaker: 安争鸣（Stella An）
@@ -24,7 +23,6 @@ tags:
 - technology
 title: 群体如何助长个体作恶：从党卫军到网络暴民的心理机制
 ---
-
 ### 为何有人能理直气壮地作恶？
 
 生活在现代社会，我的内心常常会产生一个疑问：为什么有的人能对善恶是非丧失最基本的判断力，甚至堂而皇之地作恶？无论是那些穿着防护服执法的“白色魔鬼”，还是向无辜者挥舞铁拳的“党卫军”，抑或是动辄将人举报的“自干五”，作为正常人，我们实在难以理解，他们为何能如此肆无忌惮、嚣张地作恶，甚至不以为耻，反以为荣。

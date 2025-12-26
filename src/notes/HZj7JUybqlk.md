@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Wharton School
@@ -17,9 +17,7 @@ media_books:
 people:
 - Leonardo DiCaprio
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HZj7JUybqlk
 speaker: 北美王路飞
@@ -33,7 +31,6 @@ tags:
 - shell-company
 title: 亚洲盖茨比的崛起：刘特佐如何从槟城少年蜕变为1MDB金融骗局主谋
 ---
-
 ### 拉斯维加斯的奢华派对：骗局的序章
 
 如果有人在2012年的那个夜晚告诉你，全世界最疯狂的派对不在好莱坞，也不在纽约，而是在拉斯维加斯的一间酒店里，你可能不会相信。但是，看看这原本只存在于幻想中的画面：小甜甜**布兰妮**（Britney Spears: 美国著名流行歌手）刚刚从蛋糕里跳出来唱生日歌；那边还在拍《华尔街之狼》的**小李子**（Leonardo DiCaprio: 美国著名演员）已经喝得微醺，站上台和饶舌歌手Q-tip一起唱rap；就连韩国的**鸟叔**（Psy: 韩国歌手，以《江南Style》闻名）都在现场，跳着那首当年火遍全球的《江南Style》。

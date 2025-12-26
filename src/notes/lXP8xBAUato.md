@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Amazon
@@ -15,10 +15,7 @@ media_books:
 - 'The Hunger Games: Sparks'
 - Evangelion
 - Death Note
-project:
-- systems-thinking
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lXP8xBAUato
 speaker: 超級歪 SuperY
@@ -32,7 +29,6 @@ tags:
 - structural-domination
 title: 《鱿鱼游戏》的哲学解析：资本主义是阶级翻转的契机还是人性的泯灭？
 ---
-
 ### 《鱿鱼游戏》：一场关于生存的残酷考验
 
 《鱿鱼游戏》第三季迎来了黑暗的结局，在全球观众中引发了热烈讨论。

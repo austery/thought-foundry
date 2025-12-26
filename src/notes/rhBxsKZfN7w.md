@@ -17,10 +17,7 @@ people:
 - Charlie Munger
 - Warren Buffett
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rhBxsKZfN7w
 speaker: Shijun Tang
@@ -33,7 +30,6 @@ tags:
 - market
 title: 如何把握非凡的投资机会：价值投资、能力圈与市场情绪的博弈
 ---
-
 ### 把握非凡投资机会的核心逻辑
 
 非凡的投资机会，从来不会出现在满大街人人在谈论的热点里。当所有人都在热议Meta股价88美元、英伟达974美元、比特币七万美元一枚、特斯拉抄底180美元时，你几乎听不到有人讨论Micron为何只值48美元。真正的机会，往往藏在被忽视的角落。

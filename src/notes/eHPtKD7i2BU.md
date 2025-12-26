@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: general
 companies_orgs:
 - Wirecutter
@@ -31,9 +31,7 @@ people:
 - Cliff Levy
 products_models:
 - iPhone
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eHPtKD7i2BU
 speaker: New York Times Podcasts
@@ -47,7 +45,6 @@ tags:
 - tool
 title: 尼克·奥弗曼的持久之物建造指南
 ---
-
 ### 木工：从电影片酬到带锯机
 
 尼克·奥弗曼: 我记得当我被选为《**特工佳丽2：武装与迷人**》（Miss Congeniality 2: Armed and Fabulous: 一部2005年的美国喜剧电影）中的反派时，我获得了一笔虽然不多但很可观的报酬。

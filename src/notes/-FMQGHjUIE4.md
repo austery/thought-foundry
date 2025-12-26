@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Starbucks
@@ -29,10 +29,7 @@ people:
 - Mao Zedong
 - Deng Xiaoping
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-FMQGHjUIE4
 speaker: LT視界
@@ -46,7 +43,6 @@ tags:
 - us-china-relations
 title: 深度解析：江泽民之孙的百亿交易、中美贸易博弈与习近平的“大胆鲁莽”领导风格
 ---
-
 ### 江泽民之孙的百亿交易：博裕资本与星巴克中国业务
 
 根据**彭博社**（Bloomberg: 一家全球性的金融信息服务公司）今天的报道，私募股权公司**博裕资本**（Boyu Capital: 江泽民之孙江志成创办的私募股权公司）已成为星巴克寻找中国业务合作伙伴的领跑者。这家咖啡连锁店正试图在其第二大市场中国重振雄风。知情人士表示，博裕资本在出价中击败了包括**凯雷集团**（Carlyle Group: 一家全球性另类资产管理公司）在内的其他私募股权公司，成为收购该公司控股权的最有可能的买家。由于资料保密，知情人士不愿意透露姓名。知情人士表示，这笔交易可能使其中国业务的估值超过40亿美元。知情人士还表示，这家咖啡连锁店和博裕可能需要几个月的时间进行谈判，并就最终达成协议的条款达成一致。

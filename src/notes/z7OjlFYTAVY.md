@@ -10,11 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=z7OjlFYTAVY
 speaker: Bloomberg Podcasts
@@ -27,7 +23,6 @@ tags:
 - us-government-shutdown
 title: 聚焦国际焦点：美国政府停摆、法国政治危机、中东和平谈判及市场动态
 ---
-
 ### 美国政府停摆进入第八天，白宫施压民主党
 
 Good morning. I'm Nathan Hager.

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 中国科学院
@@ -68,9 +68,7 @@ people:
 - 蒋中正
 - 冯玉祥
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mGXs_1SNUyw
 speaker: 东京人文论坛
@@ -83,7 +81,6 @@ tags:
 - technology
 title: 傅国涌谈秋瑾：休言女子非英物，在东京重造中国
 ---
-
 ### 引言：秋瑾与个体命运的预言
 
 在秋瑾的问题上，我可以百分之百地做出大胆预言。这个话题我已关注了几十年。我今年57岁，最近在台湾过了生日，恰逢19年一次的农历和公历同一天。有朋友想为我庆祝，但我选择骄傲地拒绝了蛋糕。我认为，这个世界上最了不起的，就是能骄傲地拒绝那些“好东西”，因为不好的东西谁都会拒绝，拒绝好东西才值得骄傲。我拒绝蛋糕有几个原因：第一，我根本不吃蛋糕；第二，如果带到朋友家，可能会让朋友感到惶恐，觉得菜准备得不够丰盛。因此，我们临时决定把蛋糕送给朋友家作为礼物，并扔掉了所有生日快乐的装饰。

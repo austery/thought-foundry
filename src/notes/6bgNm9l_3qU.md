@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - BetterHelp
@@ -12,9 +12,7 @@ people:
 - Derek Muller
 - Jake
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6bgNm9l_3qU
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - venom-extraction
 title: 揭秘漏斗网蜘蛛：地球上最致命毒液的提取与抗蛇毒血清的生产
 ---
-
 ### 漏斗网蜘蛛：致命威胁与毒液提取
 
 对于某些人来说，这个房间可能是地球上最可怕的地方。

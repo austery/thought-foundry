@@ -15,9 +15,7 @@ products_models:
 - Claude
 - Claude Code
 - MCP
-project:
-- ai-impact-analysis
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K6-sR__mA3s
 speaker: AI超元域
@@ -31,7 +29,6 @@ tags:
 - skill
 title: Skill Seeker：让Claude成为你的技术导师，告别框架学习文档噩梦
 ---
-
 ### AI Agent Skills与Skill Seeker简介
 
 Anthropic 最近密集发布了新功能，尤其是前几天发布的**Agent Skills**（AI代理技能：允许AI模型加载自定义指令、脚本和资源，以在特定任务上表现更出色）和**Claude Code Web**（Claude AI的网页版编程环境）。对于AI编码的场景，这些功能非常有帮助，特别是Agent Skills功能被普遍认为是AI定制化领域的一次重大突破。

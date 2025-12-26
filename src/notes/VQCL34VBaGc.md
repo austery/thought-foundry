@@ -31,10 +31,7 @@ people:
 - Xi Jinping
 - 丁薛祥
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VQCL34VBaGc
 speaker: LT視界
@@ -46,7 +43,6 @@ tags:
 - trade-war
 title: 全球经济与地缘政治：美联储政策、中美贸易战、台湾政局及黎智英案深度解析
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月15日，我们首先来了解今天的财经头条。
 
 ### 美联储货币政策前瞻

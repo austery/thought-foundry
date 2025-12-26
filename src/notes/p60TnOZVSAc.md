@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-06-28'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《风起前的蒲公英》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p60TnOZVSAc
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - technology
 title: 风起前的蒲公英：流动儿童的音乐与破碎的愿望
 ---
-
 ### 蒲公英中学：一座城里的流动童年
 
 大家好，我叫梁君健，在大学教书，也是一名纪录片导演。今天我想分享的，是一部名为《风起前的蒲公英》的纪录电影。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: null
 category: technology
 date: 2025-10-05
@@ -7,11 +7,7 @@ layout: post.njk
 people:
 - Ray
 - Mike
-project:
-- ai-impact-analysis
-- entrepreneurship
-- investment-strategy
-- market-cycles
+project: []
 published: null
 source: https://www.youtube.com/watch?v=jmD-fU_3v28
 speaker: 用AI發電
@@ -23,7 +19,6 @@ tags:
 - startup
 title: 20251005_AI Agent 创业与中小企业机会:从 Vertical AI Agent 到 Agent as a Service
 ---
-
 **第一部分：核心理念——创业者的生存法则**
 
 1. **交易优先，融资在后**

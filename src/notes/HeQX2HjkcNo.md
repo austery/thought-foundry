@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 date: '2021-05-22'
 draft: true
@@ -18,9 +18,7 @@ people:
 - Henri Poincaré
 products_models:
 - ENIAC
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HeQX2HjkcNo
 speaker: veritasium
@@ -32,7 +30,6 @@ tags:
 - undecidability
 title: 数学的根本缺陷：不确定性、不可判定性与现代计算的诞生
 ---
-
 ### 数学深处的“漏洞”
 
 数学的底层存在一个漏洞。

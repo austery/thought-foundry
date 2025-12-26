@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-04-13'
@@ -10,10 +10,7 @@ layout: post.njk
 people:
 - Donald Trump
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_GBErL-MsUA
 speaker: 海淀拙大叔
@@ -27,7 +24,6 @@ tags:
 - trade-war
 title: 关税战、市场分化与中国未来主导产业展望
 ---
-
 ### 关税升级与中美贸易博弈
 
 今天是4月8号的早上，关税的影响确实很大。在讨论美国大收缩与中国反击时，我们的策略是只要不在美国生产，在哪生产都可以，就是不让制造业回流美国。美国现在的政策则是只要不是中国制造，在哪制造都行，因为美国最终一定会分化瓦解。大家可以看到，我们主要的对美转口地，例如越南被征收46%的**关税**（Tariff: 一种对进出口商品征收的税费），柬埔寨被征收49%的关税，这其实就是为了不让中国制造流入美国。

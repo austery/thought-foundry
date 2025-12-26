@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2021-10-16'
 draft: true
@@ -10,9 +10,7 @@ people:
 - Derek Muller
 products_models:
 - WordPress
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=H1_OpWiyijU
 speaker: veritasium
@@ -26,7 +24,6 @@ tags:
 - system
 title: LEONARDO：会走路、飞行、滑板和走绳索的机器人
 ---
-
 ### 介绍LEONARDO：多功能机器人
 
 这是一个会走路、飞行、滑板和走绳索的机器人。

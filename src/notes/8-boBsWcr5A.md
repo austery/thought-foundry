@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Microsoft
@@ -53,10 +53,7 @@ products_models:
 - Grok
 - Gemini 2.5
 - TPU
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8-boBsWcr5A
 speaker: Dwarkesh Patel
@@ -70,7 +67,6 @@ tags:
 - model
 title: 萨提亚·纳德拉深度解读：微软的AI基础设施、商业模式与全球战略
 ---
-
 ### 微软的超大规模赌注：构建面向未来的AI基础设施
 
 我们参观了微软全新的 Fairwater 2 数据中心，这是目前世界上最强大的数据中心。我们的目标是每18到24个月将训练能力提升10倍。所以，这实际上相当于 GPT-5 训练规模的10倍。从网络光学的角度来看，这座建筑中的网络光学器件数量，几乎相当于两年半前整个 Azure 所有数据中心的总和，拥有大约五百万个网络连接。

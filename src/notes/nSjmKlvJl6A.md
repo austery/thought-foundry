@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 汇丰
@@ -14,10 +14,7 @@ media_books:
 people:
 - Nico
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nSjmKlvJl6A
 speaker: Nico投资有道
@@ -30,7 +27,6 @@ tags:
 - risk
 title: 建设银行亚洲香港开户全指南：零门槛、线上完成、避险利器
 ---
-
 ### 建设银行亚洲开户：零门槛的线上实操全流程
 
 建设银行亚洲，可能是目前香港最容易开户的一家实体银行。它不需要地址证明、资产证明或投资证明，不会详细审核你的职业和资产信息，没有资金门槛，也没有管理费和年费，堪称真正的零门槛开户。

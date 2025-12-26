@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -23,10 +23,7 @@ products_models:
 - Threads
 - Midjourney
 - iOS
-project:
-- ai-impact-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OVrBDuKtGPE
 speaker: 美投讲美股
@@ -40,7 +37,6 @@ tags:
 - technological-disruption
 title: SORA2冲击波：OpenAI的社交媒体野心与Meta的未来挑战
 ---
-
 ### SORA2的横空出世与Meta的挑战
 
 AI软件ChatGPT曾引发搜索领域的变革，而这一次，OpenAI携**SORA2**（OpenAI: 一款AI视频生成软件）再次掀起波澜。SORA2的矛头直指另一科技巨头Meta。SORA是由OpenAI开发的一款AI视频生产软件。本次SORA2不仅拥有强大的AI视频生产功能，还配备了全套的社交平台设施。用户可以制作自己的短视频，并将其上传到平台与朋友分享，展示了一款全新的社交媒体软件。该产品已经上线并迅速刷屏，这让人联想到当年TikTok横空出世时的盛况。要知道，当年TikTok大火时，Meta的股价曾因此下跌70%。那么，这一次面对SORA2的强劲挑战，Meta是否也会面临类似的冲击？

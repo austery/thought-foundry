@@ -17,10 +17,7 @@ media_books:
 people:
 - 鲍威尔
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-4tRFHTpYvc
 speaker: 投资TALK君
@@ -33,7 +30,6 @@ tags:
 - market-valuation
 title: CPI数据与市场展望：通胀、盈利与估值深度解析
 ---
-
 ### 本期内容概览：宏观数据、财报与市场估值展望
 
 各位观众大家好，欢迎来到一个不单止聊新闻的专业美股频道。本期内容将主要对本周即将公布的一些宏观数据进行展望，主要包括**消费者物价指数**（CPI: Consumer Price Index，衡量消费者购买商品和服务价格变化的指标）、**生产者物价指数**（PPI: Producer Price Index，衡量生产者在生产过程中所需商品和服务价格变化的指标）以及密歇根的调查指数。

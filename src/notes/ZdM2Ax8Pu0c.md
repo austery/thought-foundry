@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - RCMP
@@ -22,10 +22,7 @@ people:
 - Donald Trump
 - Anita Anand
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZdM2Ax8Pu0c
 speaker: 莊也雜談
@@ -39,7 +36,6 @@ tags:
 - trade
 title: 加拿大2025联邦大选：两党政策深度解析与华裔选民抉择
 ---
-
 ### 大选背景与个人投票选择
 
 随着2025年加拿大联邦大选进入最后一周，全国选民的热情空前高涨，投票站前大排长龙。保守党与自由党展开激烈冲刺，两党推出了许多刺激性政策，不断撩拨着选民的神经。从对美关税谈判到内政危机应对，两党政策针锋相对，互不相让。究竟谁能带领加拿大走出泥潭、重振经济？此外，一个重磅问题是，加拿大华人在这场政治风暴中应该如何选择？

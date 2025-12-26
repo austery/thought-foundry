@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Palantir
@@ -69,10 +69,7 @@ people:
 - Jensen Huang
 products_models:
 - TPU
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-wss-haC8Y8
 speaker: Amit Kukreja
@@ -87,7 +84,6 @@ tags:
 - us-china-relations
 title: 中美贸易协议现曙光，标普创历史新高：市场迎来全面上涨
 ---
-
 ### 生日感言：社群的力量与感恩之心
 
 大家早上好，欢迎回到新一期的《市场开盘》。今天是10月27日，星期一，我们正在直播。这是我正式满28岁后，第一次为大家带来《市场开盘》。今天就是过去364天里大家一直祝我生日快乐的日子，今天才是我的生日。

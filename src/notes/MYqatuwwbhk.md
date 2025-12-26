@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - 摩尔线程
@@ -30,10 +30,7 @@ products_models:
 - NVLink
 - Blackwell
 - TPU
-project:
-- china-analysis
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MYqatuwwbhk
 speaker: Best Partners TV
@@ -47,7 +44,6 @@ tags:
 - valuation
 title: 摩尔线程科创板上市：国产GPU第一股的挑战与机遇
 ---
-
 ### 国产GPU第一股摩尔线程登陆科创板
 
 周五，A股市场迎来了一场资本狂欢，备受瞩目的国产 **GPU**（Graphics Processing Unit: 图形处理器，一种专门在个人电脑、工作站、游戏机和一些移动设备上图像渲染的微处理器）第一股摩尔线程，终于成功登陆 **科创板**（STAR Market: 上海证券交易所科创板，中国大陆的一个股票市场板块，旨在支持科技创新企业上市融资）。作为科创板“1+6”政策发布后首家过会并上市的企业，摩尔线程也创下了2022年以来审核最快的科创板 **IPO**（Initial Public Offering: 首次公开募股，指一家企业或公司第一次将它的股份向公众出售）记录，从受理到过会仅用了88天，上市总共用时不到半年。

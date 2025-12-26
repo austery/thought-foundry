@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Alphabet
@@ -38,10 +38,7 @@ products_models:
 - Android
 - AI Overviews
 - NotebookLM
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hcWSDxrE1uI
 speaker: Norges Bank Investment Management
@@ -55,7 +52,6 @@ tags:
 - quantum-computing
 title: Alphabet总裁露丝·波拉特：AI竞赛、量子计算与谷歌创新文化
 ---
-
 ### 引言：Alphabet总裁谈科技前沿
 
 挪威主权财富基金（**Norges Bank Investment Management**）的首席执行官尼古拉·坦根（Nicola Tangan）在“In Good Company”播客中，邀请了**Alphabet**（Alphabet: 谷歌的母公司）总裁兼首席投资官露丝·波拉特（Ruth Porat）进行访谈。

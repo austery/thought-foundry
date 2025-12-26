@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-07-08'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rDczaUp4wRk
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-stock-market
 title: 关税政策、鲍威尔去留与市场展望：从债券利差和美元指数看投资机会
 ---
-
 ### 引言：本期内容概览
 
 各位观众大家好，欢迎来到专业美股频道。我是市场分析员小陶。本期节目将主要更新关税政策，探讨未来鲍威尔卸任、川普上任及新任美联储主席开始降息对市场的影响。最后，我们将从债券市场利差出发，分析其与美股走势的相关性，并回顾川普1.0时期美元指数和美股的走势，以期为川普2.0时期提供指引。

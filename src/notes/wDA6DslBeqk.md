@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - GoFundMe
@@ -23,10 +23,7 @@ products_models:
 - Gemini Flash
 - Figma
 - Lovable
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wDA6DslBeqk
 speaker: How I AI
@@ -41,7 +38,6 @@ tags:
 - management
 title: Yelp AI产品经理：从“黄金对话”到高效原型设计
 ---
-
 ### AI产品管理：从用户界面到幕后逻辑
 
 **Clarvo:** 在设计和构建你工作中正在开发的AI产品时，你通常从何处着手？

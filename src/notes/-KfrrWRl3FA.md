@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - a16z
@@ -38,10 +38,7 @@ products_models:
 - iOS
 - Windows
 - Mac OS
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-KfrrWRl3FA
 speaker: a16z
@@ -54,7 +51,6 @@ tags:
 - personal
 title: 从AI伴侣到个人软件：AI驱动的个性化应用与未来内容生态
 ---
-
 ### AI的现状与未来愿景
 
 Eugenia: 目前，**AI**（人工智能）只是你手机上的一个应用程序，它不应该仅仅如此。有时候，你需要放手一搏，孤注一掷。如果缺乏这样做的勇气，尤其是在当前环境下，你可能会承担后果。在这一领域，开发者中存在一个巨大的思维误区，他们总觉得语音是主要的交互界面。这可能是因为他们一直在错误地思考电影《**Her**》（《她》）中的情节。

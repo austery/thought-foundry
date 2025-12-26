@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - NASA
@@ -18,10 +18,7 @@ products_models:
 - UML
 - RUP
 - PostgreSQL
-project:
-- systems-thinking
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TzOaXepgEtQ
 speaker: Peter Pang
@@ -34,7 +31,6 @@ tags:
 - software
 title: 测试驱动开发（TDD）的兴衰：程序员为何不爱写测试？
 ---
-
 ### TDD的定义、历史与核心困境
 
 **测试驱动开发**（TDD: Test Driven Development，一种以测试驱动开发的软件开发模式）简单来说，是一种在拿到开发需求后，先凭空把测试写出来的方法。由于此时还没有实际代码，测试必然会失败。接下来的工作就是编写实际代码，让测试结果的红灯一个个变绿，直到全部通过。之后，在对代码进行重构或增加新功能时，也要确保已有测试继续保持绿灯状态。

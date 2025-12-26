@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - ''
@@ -12,8 +12,7 @@ people:
 - ''
 products_models:
 - ''
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0rwIjgWlT_U
 speaker: 徒步的騎手
@@ -25,7 +24,6 @@ tags:
 - investment
 title: 中国经济深度分析：投资、消费、出口三驾马车为何失灵？
 ---
-
 ### 德州西部的见闻与 2025 年冬天的中国经济
 
 各位好。从12月初开始，我在德克萨斯西部转了两周，上周末回家，算是回到了生活世界的日常，继续读书读报，知己知彼，知天下。趁着周末的时间，收拾了一下阁楼上的演播室，恢复正常做节目。在西部旷野中徒步素颜，有一周多的时间不读报、不看新闻，心情会好很多。

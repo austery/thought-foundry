@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Nazi Party
@@ -13,10 +13,7 @@ people:
 - Albert Einstein
 - John von Neumann
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DBt9GySBIFk
 speaker: 徒步的騎手
@@ -30,7 +27,6 @@ tags:
 - talent
 title: 两种人才模式的终极对决：为何“筑巢引凤”不如“茂林养才”？
 ---
-
 ### 只要愚蠢未过时，古老智慧便永存
 
 今天我们来谈谈最后几句话。中国古人有言，至今依然适用。有句话说得好：只要愚蠢还没有过时，古老的智慧就不会过时。这句话据说是**孔子**（Confucius: 中国古代著名的思想家、教育家，儒家学派创始人）所言，距今已有2509年。

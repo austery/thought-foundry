@@ -46,10 +46,7 @@ products_models:
 - Facebook
 - Instagram
 - Google
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DFNc7PrhZKw
 speaker: LT視界
@@ -62,7 +59,6 @@ tags:
 - us-national-security-strategy
 title: 美国新国家安全战略引发全球震动：市场泡沫预警、对欧立场转变与中国自信解读
 ---
-
 ### 市场泡沫的预判与投资挑战
 
 今天，我们首先来分享《经济学人》的一篇报道，这篇报道引起了全球许多专业财经媒体的广泛转载和关注，标题是《如何预判泡沫的破裂》。全球资本市场目前最聚焦的话题，依然是担心当前市场的泡沫，其中最突出的是人工智能领域的空前投资集中，以及三年疫情期间全球各国政府超发的大量货币且没有任何退出机制。因此，全球性的忐忑和恐慌普遍存在。包括目前中国的股市涨势不错，实际上中国投资界也在研究这个问题，即中国的股市是否有泡沫，会不会再次跌回3000点以内。当然，官方媒体畅想光明论，不研究这些问题，但作为实际投资者，没有人敢对这类问题掉以轻心。

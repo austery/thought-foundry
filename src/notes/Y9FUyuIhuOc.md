@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-02-22'
@@ -12,9 +12,7 @@ media_books:
 people:
 - Anthony
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y9FUyuIhuOc
 speaker: Anthony看世界
@@ -28,7 +26,6 @@ tags:
 - urging-marriage
 title: 中国式催婚：代际创伤与心理机制的深层解读
 ---
-
 ### 引言：中国式催婚的普遍困境
 
 大家好，我是Anthony，欢迎来到我的频道。今天我想和大家聊聊“催婚”这个话题。

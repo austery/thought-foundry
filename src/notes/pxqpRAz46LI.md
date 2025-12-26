@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -22,10 +22,7 @@ people:
 - Donald Trump
 - Lisa Su
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pxqpRAz46LI
 speaker: Shijun Tang
@@ -39,7 +36,6 @@ tags:
 - value
 title: 川普关税突变与中概股震荡：一场市场赌场中的价值投资启示
 ---
-
 ### 川普关税突变：一场精心设计的市场震荡？
 
 就在投资人普遍预期美股将进入新一轮暴跌时，这一周却上演了惊天逆转。川普政府在承受巨大舆论压力后，宣布对所有国家加征关税——但唯独豁免中国。这一政策的突然转向，彻底打破了市场的预期。

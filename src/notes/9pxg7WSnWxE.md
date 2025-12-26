@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9pxg7WSnWxE
 speaker: 投资TALK君
@@ -25,7 +23,6 @@ tags:
 - slr-ratio
 title: 美联储会议前瞻：点阵图、SLR调整与市场应对策略
 ---
-
 ### 引言与本期展望
 
 欢迎来到不单只聊新闻的专业美股频道，我是市场分析员小陶。本期内容主要对周三的美联储会议进行展望，特别是列出可能发生的情况及其应对策略。此外，还将探讨中东战争对市场的影响、美联储可能改变银行**补充杠杆比率**（SLR: Supplementary Leverage Ratio，对银行资本充足性的一种监管要求）的意义，以及近期热门的稳定币话题。

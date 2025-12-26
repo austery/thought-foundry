@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Boeing
@@ -14,10 +14,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Space Launch System
-project:
-- us-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-RoYL_5FLUg
 speaker: 海伦子Hellen
@@ -31,7 +28,6 @@ tags:
 - space-exploration
 title: 波音灾难永无止尽：从载人飞船困境到民航安全隐患的深层剖析
 ---
-
 ### 波音载人飞船Starliner的困境与宇航员滞留
 
 对于**波音公司**（Boeing: 美国航空航天巨头）来说，坏消息可以说是永无止境。波音公司的载人飞船**Starliner**（波音CST-100 Starliner: 一款由波音公司开发的载人航天器）在两名宇航员于6月5号登上**国际空间站**（International Space Station, ISS: 一个在近地轨道运行的科研设施）后，原本是一个只有10天的任务。然而，由于飞船在做对接的时候，28个反应控制推进器中的5个无法正常点火，导致这两名宇航员直到今天还困在国际空间站上下不来。

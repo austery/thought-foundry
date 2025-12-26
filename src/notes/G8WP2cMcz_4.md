@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies:
 - tesla
@@ -16,8 +16,7 @@ people:
 products_models:
 - Model 3
 - Model Y
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=G8WP2cMcz_4
 speaker: Shijun Tang
@@ -27,7 +26,6 @@ tags:
 - investment
 title: 美股TSLA（特斯拉）能助你实现财富自由么？
 ---
-
 ### 特斯拉（TSLA）股票分析：能否实现财富自由？
 
 特斯拉的股价最近创下历史新高，在最近252天内涨了131.17%，翻了2.3倍。特斯拉是否马上就要涨疯了，还是这仅仅是另一趟过山车的顶点？本文将从特斯拉的最新财报、基本面、竞争环境和护城河等多个方面进行详细分析。

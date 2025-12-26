@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google DeepMind
@@ -17,8 +17,7 @@ products_models:
 - Nano Banana
 - Gemini
 - Gemini 2.5 Flash
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I8VUN141MjU
 speaker: a16z
@@ -33,7 +32,6 @@ tags:
 - user-experience
 title: Google DeepMind 开发者揭秘：Nano Banana 模型是如何诞生的
 ---
-
 ### AI 赋能创意：从繁琐到创新
 
 这些模型让创作者能够减少工作中繁琐的部分，对吧？他们可以更具创意，并将 90% 的时间用于创作，而不是 90% 的时间用于编辑和执行这些繁琐的手动操作。

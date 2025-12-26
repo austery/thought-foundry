@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 世界卫生组织
@@ -10,10 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-80WLZSCtKc
 speaker: 老周横眉
@@ -27,7 +24,6 @@ tags:
 - reform
 title: 中国医疗困境：过度医疗、高昂费用与体制性症结
 ---
-
 ### 中国医疗的过度化乱象
 
 最近，北京大学国家发展研究院的一位教授带领十位研究员，假扮成病人前往各地医院就诊，旨在了解中国医院**过度医疗**（Over-medicalization: 指医院为追求利润，对患者进行不必要的检查、治疗或手术）问题的严重程度。他们发现，老百姓被“宰”得一无所知，因为每家医院都面临创收和抢病人的压力，导致小病大治、过度医疗的现象触目惊心。例如，有医院的报告显示，患者几乎百分之百是胎儿流产，其中一位孕妇甚至在医院门口生产。院长因此责骂医生动作太慢，错失了“破腹产”这个更有利可图的手术机会。破腹产作为手术，需要用药、住院，这无疑增加了患者的负担和痛苦。

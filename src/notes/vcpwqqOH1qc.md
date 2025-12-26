@@ -11,10 +11,7 @@ layout: post.njk
 people:
 - xi-jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=vcpwqqOH1qc
 speaker: LT視界
@@ -29,7 +26,6 @@ tags:
 title: News Analysis on Poland's NATO First, Xi Jinping's Power Play, and US Economic
   Signals
 ---
-
 ## 财经头条
 
 ### 美国生产者物价指数意外下跌

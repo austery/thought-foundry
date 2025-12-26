@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - 农业银行
@@ -46,10 +46,7 @@ people:
 products_models:
 - ChatGPT
 - Grok
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bMPcWG-fl0Y
 speaker: 小翠時政財經
@@ -63,7 +60,6 @@ tags:
 - stock-market-trend
 title: 2025年10月28日每日要闻：A股、美日关系、AI裁员与中国“十五五”规划深度解读
 ---
-
 ### A股市场动态与热门板块分析
 
 10月28日，A股市场全天冲高回落，三大股指集体收跌。**沪指**（Shanghai Composite Index: 上海证券交易所综合股价指数）盘中曾一度站上4000点。比较热门的板块如福建军工、可控核聚变等表现较好，有色行业则普遍下跌。截至收盘，沪指跌0.22%，**深成指**（Shenzhen Component Index: 深圳证券交易所成分股价指数）跌0.44%，**创业板指**（ChiNext Index: 深圳证券交易所创业板指数）跌0.15%。农业银行股价再次创出新高。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 初日醫學
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HEEfxQ3B1r8
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 枯木逢春訓練法：打破疾病不可逆的禁忌，重塑高齡照護與生命品質
 ---
-
 ### 枯木逢春訓練法的緣起與動機
 
 過去許多疾病曾被定義為不可逆，但現在這個禁忌已被打破。這項突破性進展，尤其在增強認知功能和減少腦部慢性發炎方面，已經牽涉到內分泌系統。我是宋晏仁醫師，歡迎您來到初日會客室。今天我們邀請到一位非常特別的林醫師，他的發明將來有望嘉惠全世界。林醫師，您好。宋醫師，您好。久仰大名。不敢，是我久仰您大名。今天我們主要想請您談談研發這套訓練法的動機。

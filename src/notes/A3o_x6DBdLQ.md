@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - OpenAI
@@ -28,9 +28,7 @@ products_models:
 - GPT-4o
 - GPT-5
 - AlphaGo
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=A3o_x6DBdLQ
 speaker: 北美王路飞
@@ -41,7 +39,6 @@ tags:
 - scaling-law
 title: GPT-5“翻车”：AI缩放定律失效与硅谷狂热的终结
 ---
-
 ### 引言：ChatGPT的现状与AI现实主义者的警示
 
 大家好，欢迎来到我的频道。今天我们来聊聊ChatGPT。我的频道制作了许多与AI相关的内容，说实话，如果没有ChatGPT模型，我不可能制作这么多视频。很多工作，比如收集信息、整理数据，以及处理和校对字幕，都可以交给AI完成。如果没有这种效率提升的工具，我不可能在这么短的时间内制作这么多视频。

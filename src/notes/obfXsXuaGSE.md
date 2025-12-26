@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-07'
 draft: true
@@ -22,10 +22,7 @@ people:
 - 张居正
 - 张之洞
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=obfXsXuaGSE
 speaker: 三個水槍手
@@ -39,7 +36,6 @@ tags:
 - technology
 title: 两岸故宫百年：文物分离的历史与文化主权的争议
 ---
-
 ### 台北故宫百年大展：一场跨越时空的文化盛宴
 
 我第四次去台北，每次都觉得时间不够，总感觉看不完，甚至心疼得想搭个帐篷睡在那里。这次去台北，正值故宫博物院百年大庆，其展览主题为“甲子万年”。

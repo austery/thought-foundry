@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -32,10 +32,7 @@ people:
 - John
 products_models:
 - Microsoft Teams
-project:
-- investment-strategy
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=M01NZc2QlDk
 speaker: Norges Bank Investment Management
@@ -49,7 +46,6 @@ tags:
 - technology
 title: 传奇投资人 Chris Hohn：探寻投资与人生的终极护城河
 ---
-
 ### 优质投资的核心：高进入壁垒
 
 大家好，我是尼古拉·坦根（Nikolai Tangan），今天我们请到了一位堪称史上最杰出的投资者之一——克里斯·霍恩（Chris Horn）。他的基金 TCI 不仅是欧洲有史以来最优秀、最成功的基金之一，其同名慈善机构如今也位列全球规模最大的慈善组织之林。克里斯，你持续地为世界带来巨大的积极影响，感谢你的到来。

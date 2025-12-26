@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: '[]'
 date: 2025-01-31
@@ -13,10 +13,7 @@ people:
 - 孔子
 products_models:
 - DeepSeek
-project:
-- systems-thinking
-- personal-growth-lab
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=i1kukrBcCYk
 speaker: 徒步的騎手
@@ -30,7 +27,6 @@ tags:
 - social
 title: 信息洪流下的认知策略：学会存疑，避免盲从
 ---
-
 ### 认知方式与现代世界的开启
 
 最近，**DeepSeek**（DeepSeek：一家中国AI公司，在此文中作为讨论信息认知的案例）事件闹得沸沸扬扬。如何看待这个事件呢？它反映了一个人的**认知方式**（Cognitive Style：个人处理、理解和解释信息的方式）。认知方式听起来高大上，但实际上你每天都离不开它。比如，你交了个男朋友或女朋友，想约他/她出来，他/她却说病了不舒服。你是选择相信他/她，还是选择不相信他/她？这就涉及认知方式。一个人是选择相信还是不相信DeepSeek，与他/她选择相信还是不相信自己的男友/女友，在认知方式上道理是相同的。

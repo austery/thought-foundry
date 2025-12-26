@@ -14,8 +14,7 @@ products_models:
 - Claude Code
 - Claude Sonnet 4.5
 - Claude Sonnet 4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CBneTpXF1CQ
 speaker: Anthropic
@@ -29,7 +28,6 @@ tags:
 - software-development
 title: Claude Code 和 Claude Haiku 4.5 的最新进展：网页版开发、Haiku 4.5 模型应用及智能工作流
 ---
-
 ### 网页版 Claude Code：赋能并行云开发
 
 **Claude Code**（基于Anthropic大型语言模型的代码助手）现已在网页端上线。

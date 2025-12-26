@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - AST SpaceMobile
@@ -26,9 +26,7 @@ people:
 products_models:
 - Starlink
 - Neutron rocket
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=00GIV3zXZVE
 speaker: 海伦子Hellen
@@ -44,7 +42,6 @@ tags:
 - technology
 title: 商业太空公司投资分析：为何我暂未布局AST、Redwire与Intuitive Machines？
 ---
-
 ### 商业太空公司：机遇与风险并存
 
 大家好，我是Helen。今天想跟大家聊聊从去年开始股价就大幅上涨的几家商业太空公司，包括它们具体是做什么的、为什么股价起飞如此之快，以及几个我认为存在风险的地方。当然，我也很想听听大家的意见，看看有没有我没有察觉到的点。

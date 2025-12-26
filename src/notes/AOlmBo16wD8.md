@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - MIT
@@ -12,10 +12,7 @@ media_books:
 - How I Learned to Jump Higher than LeBron James
 people:
 - LeBron James
-project:
-- ai-impact-analysis
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AOlmBo16wD8
 speaker: EO
@@ -30,7 +27,6 @@ tags:
 - work
 title: 从扣篮冠军到AI创业者：Nico Christie的数字人类与迭代哲学
 ---
-
 ### 有效的产品演示与用户价值
 
 我认为一个有趣的**启发式方法**（heuristic: 一种解决问题的方法，通常通过经验法则或试错来发现解决方案）是，在产品演示中，当前的趋势是制作高度优化的视频，并谈论那些客户根本不关心的事情。

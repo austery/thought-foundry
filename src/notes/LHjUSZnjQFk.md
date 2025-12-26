@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Diageo
@@ -14,10 +14,7 @@ layout: post.njk
 people:
 - Nicola Tangan
 - George Clooney
-project:
-- investment-strategy
-- entrepreneurship
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LHjUSZnjQFk
 speaker: Norges Bank Investment Management
@@ -32,7 +29,6 @@ tags:
 - trend
 title: 帝亚吉欧CEO黛布拉·克鲁：洞察烈酒行业趋势、品牌策略与领导力
 ---
-
 ### 欢迎与帝亚吉欧CEO黛布拉·克鲁对话
 
 Nicola Tangan: 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威中央银行负责管理政府全球养老基金的部门）的首席执行官尼古拉·坦根（Nicola Tangan）。

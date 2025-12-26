@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -33,8 +33,7 @@ products_models:
 - Llama 2
 - Llama 3
 - Whisper
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EnWz5XuOnIQ
 speaker: Hung-yi Lee
@@ -48,7 +47,6 @@ tags:
 - model
 title: 通用AI模型的終身學習：從微調、編輯到合併的四大核心技術
 ---
-
 ### 通用模型的終身學習之旅
 今天我們要探討的主題是通用模型的終身學習。在之前的課程中，我們已經介紹了通用模型的誕生過程，例如大家每天都在使用的 ChatGPT、Gemini、Claude、Llama、DeepSeek 等模型，通常是如何被打造出來的。
 

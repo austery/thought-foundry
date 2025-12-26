@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中石化
@@ -32,10 +32,7 @@ people:
 - Mao Zedong
 - 王沪宁
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zy9gu8LrYV0
 speaker: LT視界
@@ -49,7 +46,6 @@ tags:
 - power
 title: 川普对俄制裁升级与中共四中全会解读：全球政治经济的冲击与权力清洗
 ---
-
 ### 川普对俄罗斯实施最严厉制裁
 
 10月23日，全球舆论聚焦两项重大事件：川普宣布美国对俄罗斯的最新制裁决定，以及中共四中全会的闭幕。首先，我们来分享川普对俄罗斯制裁的最新信息。

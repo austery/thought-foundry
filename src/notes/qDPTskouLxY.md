@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -22,10 +22,7 @@ people:
 products_models:
 - Covered Call ETF
 - Alpha Picks
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qDPTskouLxY
 speaker: Darren聊美股
@@ -41,7 +38,6 @@ tags:
 - meta-stock-analysis
 title: Meta股票深度分析：暴跌15%后的黄金机会与投资策略
 ---
-
 大家好，我是Darren，欢迎回到我的频道。本周，美股十月份正式收官。在经历了过山车般的上蹿下跳之后，**标普**（S&P: 标准普尔指数，衡量美国大型上市公司股票表现的指数）最终收盘在6840点位。虽然本周小幅下跌，但它在十月份依然实现了2%的上涨，这已经是继四月份的“黄金坑”之后，标普大盘连续第六个月的上涨。过去这一周，市场依然非常热闹。
 
 **英伟达**（Nvidia: 一家全球领先的图形处理器和人工智能计算公司）的CEO黄仁勋在GTC大会上宣布，未来五个季度AI市场将带来五千亿美元的机会，直接推动英伟达的股价迎来爆发。**Palantir**（Palantir Technologies: 一家大数据分析公司）的股价也突破了两百美元，并与英伟达达成合作，黄仁勋直接称其为“全球最重要的企业软件公司”。微软、谷歌、Meta、亚马逊和苹果这五大科技巨头都陆续发布了**财报**（Earnings Report: 公司定期公布的财务业绩报告）。财报结果普遍表现不错，再次证明AI浪潮依然强劲。然而，Meta却因为提高**资本支出**（Capital Expenditure: 公司用于购买、改进或延长固定资产寿命的资金）被**算法交易**（Algorithmic Trading: 利用计算机程序和算法自动执行交易）错杀，股价跌回了五月份的水平。本期节目我将和大家深入聊一聊Meta，我正是趁着这波下跌，终于**开仓**（Open Position: 首次买入某只股票或资产）了这支我关注已久的股票。我将分享我对Meta的看法、我的投资计划，以及一些相关的投资感悟。

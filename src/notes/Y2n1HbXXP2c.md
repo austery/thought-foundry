@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -16,8 +16,7 @@ products_models:
 - Codex
 - ChatGPT
 - Next.js
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y2n1HbXXP2c
 speaker: AI超元域
@@ -30,7 +29,6 @@ tags:
 - software-development
 title: GPT-5.2编程能力深度测评：实测UI、算法、重构与全栈开发
 ---
-
 ### GPT-5.2模型概览与测评方法
 
 OpenAI于今天凌晨发布了最新的**GPT-5.2**系列模型。官方发布的基准测试得分显示，GPT-5.2甚至超越了**Claude Opus 4.5**。在**Codex**（OpenAI推出的代码生成模型）最新版本中，以及OpenAI的浏览器中，都已集成了GPT-5.2模型。本期视频将重点测试这款模型的编程能力，以验证GPT-5.2的编程能力是否有了真正的提升。此前在GPT-5.1发布时，曾进行过一期测评视频，结果显示GPT-5.1的效果并不理想。尽管当时评论区有不少反对声音，但几天后，开发者群体在社区中普遍反映GPT-5.1甚至不如GPT-5.0，这证实了测试案例能真实反映模型能力。因此，本期视频将继续采用多种具有代表性的案例对GPT-5.2进行测试。如果GPT-5.2的编程能力确实很强，那么它肯定能很好地完成测试题；如果编程能力不强，那也不能归咎于测试题难度过高。

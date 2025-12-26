@@ -18,8 +18,7 @@ draft: true
 series: ''
 category: politics-society
 area: society-thinking
-project:
-  - feminist-analysis
+project: []
 people:
   - Anthony
   - Papi Jiang

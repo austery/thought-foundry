@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TED
@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RXwQ7_hlL3g
 speaker: TED
@@ -23,7 +22,6 @@ tags:
 - skill
 title: 解锁你的调情超能力 | Francesca Hogi | TED
 ---
-
 ### 调情的重新定义
 
 如果我说你很会调情，你会有什么感觉？

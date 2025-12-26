@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Labour Party
@@ -48,10 +48,7 @@ people:
 - 赖清德
 products_models:
 - Optimus
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U2T4tHYPJw0
 speaker: FearNation 世界苦茶
@@ -65,7 +62,6 @@ tags:
 - us-china-relations
 title: 多维透视：英美对华政策、科技竞争与台海局势的复杂交织
 ---
-
 大家好，欢迎来到本期的世界苦茶观察线节目。观察线节目旨在汇总全球智库和国际媒体对中国问题的深度分析。本节目为AI制作，播放速度已照顾到收听较慢的听众，如果你觉得太慢可以调整至1.25倍。AI脚本和声音会不断优化。以下是精选的全世界对中国的分析，内容涵盖特朗普关于中国不会进攻台海的言论、中国机器人行业的新进展等。
 
 ### 英国对华政策的钟摆效应：经济与安全的权衡

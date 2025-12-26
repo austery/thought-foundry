@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2024-12-22'
@@ -13,10 +13,7 @@ people:
 - Anthony
 - Max Weber
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9QhxJ3Q-TEY
 speaker: Anthony看世界
@@ -30,7 +27,6 @@ tags:
 - system
 title: 批判中国社会符号系统的虚假性：学校教育中的象征性暴力与个体自尊的剥夺
 ---
-
 ### 引言：“普通学”的局限性与社会焦虑
 
 大家好，我是Anthony，欢迎来到我的频道。在本期视频中，我们将继续探讨“普通学”这一话题。

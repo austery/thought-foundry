@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 companies_orgs:
@@ -28,9 +28,7 @@ people:
 products_models:
 - GPT-5
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 source: https://www.youtube.com/watch?v=zAzsDHpR4xs
 speaker: ''
 status: evergreen
@@ -46,7 +44,6 @@ tags:
 - philosophy
 title: 从 Grokking (顿悟) 到科研哲学：AI 如何从记忆转向泛化
 ---
-
 ## 关于 Meta 裁员与发帖初衷
 
 田渊栋: 反正现在我没有 access 了，就是所以也算自由了吧，就是想干啥干啥了。 [00:00:00 - 00:00:06]

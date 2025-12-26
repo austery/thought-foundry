@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - NFL
@@ -15,9 +15,7 @@ media_books:
 people:
 - Ben Franklin
 products_models: []
-project:
-- entrepreneurship
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LK-3MD_h12c
 speaker: Bloomberg Podcasts
@@ -31,7 +29,6 @@ tags:
 - strategy
 title: 体育商业巨头的激情与风险：杰里·琼斯与亚历克斯·罗德里格斯的对话
 ---
-
 ### 体育商业的激情之旅
 
 主持人: 好的。我们这档节目去过很多地方，但这是我们第一次来到达拉斯的“星光基地”（The Star）。这是琼斯家族的创意，我们今天将与本人——杰里·琼斯先生对话。很高兴见到您。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -14,9 +14,7 @@ people:
 products_models:
 - Claude
 - Claude 4
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CiMVKnX-CNI
 speaker: AI Engineer
@@ -29,7 +27,6 @@ tags:
 - llm
 title: AI协作伙伴的形态因子：从感知材料到发现纹理的设计哲学
 ---
-
 ### AI工具的演进与协作设计
 
 我认为我们都注意到了像**V0**（Vercel V0: Vercel推出的一个用于快速生成UI组件的AI工具）这样的工具，在**生成式用户界面**（Generative UI: 能够根据指令自动生成用户界面的技术）方面表现出色，不仅能创造美观的界面，还能生成**Claude代码**（Claude Code: 指由Anthropic的Claude模型生成的代码）。这使得我们能够在本地运行更复杂的程序并在此基础上进行构建。

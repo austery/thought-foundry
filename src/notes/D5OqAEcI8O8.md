@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - X
@@ -38,10 +38,7 @@ products_models:
 - 千问APP
 - ChatGPT
 - XAI
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D5OqAEcI8O8
 speaker: 小翠時政財經
@@ -55,7 +52,6 @@ tags:
 - us-china-relations
 title: 马斯克X平台揭露中共水军，比特币大跌疑云指向川普与华尔街权力斗争
 ---
-
 ### 中国股市与科技板块动态
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月24日，欢迎收看我们今天的每日要闻节目。

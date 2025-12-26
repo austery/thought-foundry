@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs:
 - tesla
@@ -13,10 +13,7 @@ media_books:
 people:
 - elon-musk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I4RXv6HMCag
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - stock-analysis
 title: 马斯克第三党派、关税更新与大美丽法案对特斯拉的深远影响分析
 ---
-
 ### 引言：特斯拉面临的多重挑战与投资策略
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小陶。本期内容将主要探讨埃隆·马斯克（Elon Musk）建立第三党派对特斯拉（Tesla）的影响，以及市场是否已对这些影响进行定价。最后，我将分享对特斯拉的操作建议，包括是否减仓、加仓或继续持有。

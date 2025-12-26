@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies:
 - philanthropic-foundation
@@ -18,10 +18,7 @@ layout: post.njk
 media_books:
 - Swedish-Finnish relationship book
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bdfUZcK2I9Q
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - nordic-business-model
 title: 瓦伦堡家族的百年传承：适应、创新与长期主义
 ---
-
 ### 瓦伦堡家族：百年传承与商业影响力
 
 主持人：大家好，今天我非常荣幸能与**Marcus Wallenberg**（瑞典瓦伦堡家族的第五代传人，现任**SEB Banking**（Skandinaviska Enskilda Banken: 瑞典领先的商业银行）董事长及**Investor AB**（瑞典银瑞达集团: 瓦伦堡家族的控股公司，专注于长期投资）副董事长）共处。

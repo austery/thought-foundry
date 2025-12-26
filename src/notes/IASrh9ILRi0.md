@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Reddit
@@ -18,10 +18,7 @@ people:
 products_models:
 - Tinder
 - TikTok
-project:
-- geopolitics-watch
-- cultural-critique
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IASrh9ILRi0
 speaker: 超級歪 SuperY
@@ -35,7 +32,6 @@ tags:
 - value
 title: 揭秘“红药丸”与Incel文化：网络厌女思潮如何侵蚀年轻世代并引发社会危机
 ---
-
 ### “红药丸”与Incel文化的浮现
 
 Netflix剧集《混沌少年时》全片以一镜到底的方式拍摄，每一集都揭示了一桩青少年杀人案的真相，令人惊讶的是，这些案件竟然与**红药丸**（Red Pill: 源自电影《黑客帝国》，指看清世界“真相”的意识形态）和**Incel**（involuntary celibate: 非自愿独身者，指渴望伴侣却长期单身的人群）文化息息相关。这部剧集在三周内获得了近亿次观看，引发了广泛的社会关注，甚至英国首相也要求在全国学校放映。目前，在中文YouTube圈和台湾书市中，对红药丸主题的完整介绍尚属空白。本文将以《混沌少年时》这部剧集为切入点，深入探讨红药丸和Incel究竟是什么，以及网络厌女文化是如何侵蚀当今的年轻世代。

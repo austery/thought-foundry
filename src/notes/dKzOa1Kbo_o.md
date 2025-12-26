@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs: []
 date: '2025-09-25'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - youtube-creator
 products_models: []
-project:
-- entrepreneurship
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dKzOa1Kbo_o
 speaker: 北美王路飞
@@ -24,7 +22,6 @@ tags:
 - financial
 title: MrBeast的商业帝国：流量之王为何巨额亏损，又如何转型？
 ---
-
 ### MrBeast的惊人成就与财务悖论
 
 在**油管**（YouTube: 全球最大的视频分享平台）的江湖中，吉米·唐纳森，更广为人知的网名是**MrBeast**（吉米·唐纳森: 知名YouTube内容创作者），被誉为唯一的王者。他主频道拥有4.3亿订阅者，这一数字已超过地球上绝大多数国家的人口，甚至多于美国总人口。他的单个视频播放量可达数亿，公司估值高达52亿美元，堪称天之骄子。若以**简中区**（简体中文区: 指以简体中文为主要语言的网络社群）顶流王志安180万订阅为例，MrBeast的订阅数是其200多倍。

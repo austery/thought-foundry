@@ -13,9 +13,7 @@ media_books:
 people:
 - 老尹
 products_models: []
-project:
-- china-analysis
-- ystems-thinking
+project: []
 series: null
 source: null
 speaker: 北美王路飞
@@ -23,7 +21,6 @@ summary: null
 tags: []
 title: 专题讨论：从哈佛演讲争议到六四历史反思
 ---
-
 ## 一、 哈佛毕业生蒋语荣演讲引发的争议
 
 **路飞:**

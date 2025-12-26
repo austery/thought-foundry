@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁醫師
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sPwEbuTVHi0
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -25,7 +24,6 @@ tags:
 - stress-management
 title: 壓力胖的幕後黑手：內臟脂肪與皮質醇的秘密，醫師親授5招逆轉壓力胖
 ---
-
 ### 壓力與肥胖的隱秘連結
 
 你是否曾有這樣的煩惱：努力控制飲食，肚子卻沒變小；每天運動，腰圍卻越來越粗；甚至覺得光是呼吸都會胖？其實，這可能不是你的錯，而是壓力在搞鬼。回想一下，是不是每次壓力一來，手就不自覺地伸向眼前的甜點？明明心裡告訴自己要減肥，身體卻忍不住打開外送App，點了最愛的炸雞？這其實不是意志力的問題，而是你的身體在向你求救。

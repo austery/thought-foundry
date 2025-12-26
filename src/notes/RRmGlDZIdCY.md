@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Harvard Business Review
@@ -21,9 +21,7 @@ people:
 - Jeff Bezos
 - Tom Brady
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RRmGlDZIdCY
 speaker: Harvard Business Review
@@ -38,7 +36,6 @@ tags:
 - thinking
 title: 动荡时代的稳健领导力：寻找你的坚实根基
 ---
-
 ### 动荡时代下的领导力挑战
 
 BRENE BROWN: 我感觉我触及到了一些东西，它既给了我一种真正的稳定感，也为我提供了完成他要求我做的事情所需的力量的跳板。

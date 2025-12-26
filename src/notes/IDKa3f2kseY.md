@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 洛克菲勒基金会
@@ -22,9 +22,7 @@ people:
 - 章太炎
 - 阎锡山
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IDKa3f2kseY
 speaker: 壽司坦丁 Sociostanding
@@ -38,7 +36,6 @@ tags:
 - scientific
 title: 气化世界的崩毁：中西医交锋与现代中国的医学转型
 ---
-
 ### 西医登陆与中医的最初回应
 
 19世纪后半叶，西方医学登陆中国。晚清的知识分子虽然很快就放弃了本土的算学和天文学，但他们普遍认为本土的传统医学一点也不输西方医学。医学史学者张哲家告诉我们，当时不少人喜欢写中医擅长A、西医擅长B，这种看似抬举双方的比较文，但他们会说A比B重要。例如，**气化**（Qi-hua: 中医理论中，气在体内运行、转化、生成各种物质和能量的过程）就被认为是比人体构造更高维度的现象。人们真正的意思是：中医，你很赞。

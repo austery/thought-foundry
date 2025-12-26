@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Nvidia
@@ -22,10 +22,7 @@ products_models:
 - Mosaic
 - TPU
 - Transformers
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wZ4DT20OHXE
 speaker: a16z
@@ -38,7 +35,6 @@ tags:
 - technology
 title: 构建解锁AGI的芯片：Naveen Rao谈模拟计算与AI的未来
 ---
-
 ### 引言：AI与人类的下一阶段进化
 
 我认为**AI**（Artificial Intelligence: 人工智能）是人类的下一次进化。我认为它将我们带到一个新的水平，使我们能够以更深入的方式协作和理解世界。

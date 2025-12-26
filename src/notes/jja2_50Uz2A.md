@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-14'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - new-york-times-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jja2_50Uz2A
 speaker: New York Times Podcasts
@@ -24,7 +23,6 @@ tags:
 - trump-administration
 title: 中东和平峰会与美国国际开发署的解体：政府权力运用与机构存废的教训
 ---
-
 ### 中东和平峰会：人质与囚犯的交换
 
 Rachel: It's Rachel in Tel Aviv. Before we get to the rest of today's show, here's an update from the Middle East. On Monday, after Hamas returned 20 living hostages from Gaza, Israel began releasing nearly 2,000 Palestinian prisoners back to Gaza and the West Bank. Large crowds gathered near Nasser Hospital in Kyunis, where released Palestinian prisoners were taken.

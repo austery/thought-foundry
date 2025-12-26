@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Money or Life 美股频道
@@ -31,10 +31,7 @@ people:
 products_models:
 - TPU
 - Neutron Rocket
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Wqa-DtEd5qo
 speaker: Money or Life 美股频道
@@ -49,7 +46,6 @@ tags:
 - strategy
 title: 美股暴跌周复盘：高Beta成长股策略与市场应对
 ---
-
 ### 美股暴跌周复盘与个人应对策略
 
 大家好，欢迎来到Money or Life美股频道。今天是2025年11月15号周六。本周美股市场表现不佳，特别是对于持有大量成长股的投资者而言。在本周，我制作了多期视频和文字内容，包括Pure Storage的个股分析，以及Rocket Lab、CoreWeave和Circle三季度财报的视频分析，并为会员和所有观众创作了文字内容。鉴于许多朋友可能仍在等待每周更新，我将简要汇报本周的经历、目前的仓位和未来的计划。

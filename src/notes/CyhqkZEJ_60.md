@@ -1,15 +1,12 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-12-01'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CyhqkZEJ_60
 speaker: Big Think
@@ -21,7 +18,6 @@ tags:
 - health
 title: 基因疗法的未来：AI如何解锁细胞内精准递送与个性化治疗
 ---
-
 ### 基因疗法的愿景与挑战
 
 作为人类，我们都渴望同样的东西：充满美好体验的生活，与家人和朋友共度更多时光，拥有更多去爱的机会。

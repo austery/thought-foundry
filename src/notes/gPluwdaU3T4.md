@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs: []
 date: '2025-09-14'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - kamala-harris
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gPluwdaU3T4
 speaker: 北美王路飞
@@ -22,7 +21,6 @@ tags:
 - political
 title: 哈里斯新书揭秘白宫内幕：副总统的忠诚与被压制的声音
 ---
-
 ### 哈里斯新书引发关注：打破沉默与政治困境
 
 民主党前总统候选人、拜登政府期间的副总统卡玛拉·哈里斯（Kamala Harris）的新书近期开始宣传，虽然其推广热度被其他新闻事件所覆盖，但书中内容却显露出她对拜登团队的重大立场转变。此前，哈里斯在竞选期间因未与拜登进行明确切割而受到批评。然而，新书编者在前言中指出，哈里斯在书中展现了“直率洞悉世事，热情偶尔还会说脏话，带着一丝狡黠的幽默”的另一面，似乎不再特别在意有所保留。

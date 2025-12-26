@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - WTO
@@ -24,10 +24,7 @@ people:
 - 温家宝
 products_models:
 - USMCA
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qVjd9kRhyAM
 speaker: 莊也雜談
@@ -41,7 +38,6 @@ tags:
 - us-trade-policy
 title: 加中关系：从冰点到“重新校准”的务实博弈
 ---
-
 ### 引言：加外长访华，破冰之旅？
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们来聊一聊中加关系发展的最新状况。2025年10月16日至17日，一则重磅新闻震撼了国际舆论场：加拿大外长**安妮塔.阿南德**（Anita Anand）踏上了访华之旅。这不仅仅是一次例行的访问，它更像是一场对过去七年中加关系低谷的深度破冰尝试。在美国贸易保护主义的巨大压力之下，加拿大主动将目光投向东方。那么，中加关系是否真的迎来了转圜的关键时刻？这一次的高级别对话，究竟是仅出于交易驱动的权宜之计，还是意味着中加关系将重拾当年的蜜月期，甚至重建战略合作伙伴关系？这背后的动因、面临的困境，以及对两国经济和未来政治格局的影响，都值得我们深入探究。今天我们将深入剖析中加关系复杂博弈下的真实走向，这其中每一个细节都可能牵动着您未来的财富与生活。好，咱们就废话少说，直入主题。

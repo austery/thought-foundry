@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - 天下文化
@@ -18,9 +18,7 @@ people:
 products_models:
 - CRM
 - ERP
-project:
-- entrepreneurship
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YNqA0bsTuO8
 speaker: 天下文化
@@ -34,7 +32,6 @@ tags:
 - technology
 title: 业务谈判的秘密武器：从情境与价值重塑赛局
 ---
-
 ### 引言：谈判无处不在，超越输赢
 
 谢文宪: 欢迎各位收听书房宪场单元，我是主持人谢文宪宪哥。今天要跟各位介绍一本我自己非常喜欢的一本书，这让我想起我在1991年开始工作之后，我连续换了三个不同业务性质的工作，包含房地产、金融跟高科技产业。这12年的业务销售经验当中，我们大部分在服务客户，其实说起来就是跟客户做不断地谈判。不管是**买方卖方**（Buyer-Seller: 交易双方），或者是**2b**（B2B: Business-to-Business，企业对企业）或**2c**（B2C: Business-to-Consumer，企业对消费者），其实谈判的行为就在我们日常生活当中。但也不用把它讲得非常严肃，它不一定非要坐在谈判桌上谈判。甚至我现在跟出版社谈事情，跟企业教育训练的窗口谈事情，其实某种程度也是一种谈判。在过去一二十年当中，我看过非常多谈判相关的书籍，但是我看了这一本之后，我觉得给我一种比较划时代的感觉。它是从谈判的情境去切入，只要你愿意改变谈判情境，或许我们不要谈输赢，至少你可以取得你要的。

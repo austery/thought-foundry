@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-05-11'
 draft: true
@@ -15,10 +15,7 @@ people:
 - 刘少奇
 - 托克维尔
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NsO9oHp9rM8
 speaker: 东京人文论坛
@@ -31,7 +28,6 @@ tags:
 - society
 title: 中国腐败模式的变迁：从毛时代的特权到改革开放后的“新特权”
 ---
-
 ### 开场白：学术出版的困境
 
 大家下午好，我叫马德佳，现在在立教大学担任非常勤讲师。首先，我要感谢东京人文论坛这个公益平台，帮助我出版了这本书，非常感谢。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Amazon
@@ -11,10 +11,7 @@ layout: post.njk
 people:
 - Muhammad bin Salman
 products_models: []
-project:
-- us-analysis
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IHp0I_j5tHk
 speaker: TechButMakeItReal
@@ -28,7 +25,6 @@ tags:
 - tech
 title: 中东科技就业：迪拜与沙特的机遇、挑战与权衡
 ---
-
 ### 考虑中东科技就业：迪拜与沙特的真实图景
 
 如果你因为科技行业裁员而失业，厌倦了高税收，现在正考虑迪拜，心想着那里的免税工资和阳光，情况能有多糟呢？

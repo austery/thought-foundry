@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -43,10 +43,7 @@ products_models:
 - Unreal Engine
 - ChatGPT
 - Claude Sonnet
-project:
-- ai-impact-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TZE33qMYwsc
 speaker: The Pragmatic Engineer
@@ -62,7 +59,6 @@ tags:
 - vibe-coding
 title: Steve Yegge 深度访谈：从谷歌平台之怒到 AI 时代的 Vibe Coding
 ---
-
 ### 访谈开场
 
 Stevey 的平台檄文之所以广为流传，是因为它对谷歌提出了非常精彩的批评，同时也极其真实地描绘了亚马逊，包括 Jeff Bezos 根本不关心你今天过得怎么样的那一面。

@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3gFMO1K7N-E
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - us-economy
 title: 媒体解读“滞涨”：GDP数据与科技股财报深度分析
 ---
-
 ### 市场概览与GDP数据解读
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小桃。今天这期视频内容丰富，将和大家分享五家公司的财报、周三整个市场的走势、整个4月份的走势、周三所公布的一些宏观数据以及特斯拉的相关新闻。

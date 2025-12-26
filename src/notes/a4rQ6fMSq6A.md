@@ -22,10 +22,7 @@ people:
 products_models:
 - Square支付系统
 - Cash App
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a4rQ6fMSq6A
 speaker: Shijun Tang
@@ -38,7 +35,6 @@ tags:
 - share-repurchase
 title: 财务自由之路：投资随时都不嫌晚，从价值分析到杠杆陷阱的全面洞察
 ---
-
 ### 投资的核心：耐心与基本面分析
 
 你有充足的时间来投资，任何时间都是最好的投资时间。如果你懂你在干什么？其实投资的关键在于你对公司基本面的了解。只要你懂得分析一家公司的知识，无论市场是牛市还是熊市，你都可以找到合适的投资机会。其实，价值投资人做的事情非常简单：利用市场短暂的无效期，抓住非凡的投资机会。因为从长期来看，市场的效率会逐渐显现；任何极端的情况，终将回归均值。

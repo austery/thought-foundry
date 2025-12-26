@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -24,10 +24,7 @@ people:
 products_models:
 - Air Force One
 - DeepSeek
-project:
-- geopolitics-watch
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=R-ul-WN1zRU
 speaker: Norges Bank Investment Management
@@ -41,7 +38,6 @@ tags:
 - technology
 title: 世界经济论坛主席博尔格·布伦德：在两股世界秩序之间运作
 ---
-
 ### 欢迎与世界经济论坛
 
 **Nicolai:** 大家好，我是挪威主权财富基金（Norges Bank Investment Management: 挪威中央银行旗下的主权财富基金，管理挪威政府的石油收入）的首席执行官尼古拉·坦根。今天我非常高兴，因为我的挪威同胞博尔格·布伦德（Børge Brende）加入了我们。

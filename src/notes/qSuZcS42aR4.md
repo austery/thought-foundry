@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: '[]'
 date: 2024-12-31
@@ -12,8 +12,7 @@ people:
 - Friedrich Nietzsche
 products_models:
 - Substack
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qSuZcS42aR4
 speaker: 徒步的騎手
@@ -27,7 +26,6 @@ tags:
 - self
 title: 面对“柠檬年”：尼采哲学、积极心态与2025年的个人期许
 ---
-
 ### 开篇：时间的流逝与不确定性
 
 2024年转眼即逝，仿佛加速一般，人生一年过得比一年快。过去这一年，密集发生的许多意外事件和快速叠加的不确定性，让很多人感到沮丧、焦虑、迷茫和无助。到了年终，我们总有一种感觉，觉得又靠生活的惯性虚度了一年。其实，我们这种感觉就是消磨时光、虚度时光的感觉。这是生活世界的一种假象，不是人消磨时光，而是我们的生命被时光消磨。这可能是人不可抗拒的一种宿命。为了抗拒这种不可抗拒的宿命，我们的祖先发明了神话、宗教、哲学、艺术，也发明了节日，给节日赋予意义，让节日成为无意义的时间中一个有意义的时刻。新年就是这样一个节日，它是结束，也是开始，是新旧交替的节点，这是我们赋予新年的意义。

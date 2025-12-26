@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 澜起科技
@@ -13,10 +13,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- china-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tFiONe_z2Ng
 speaker: 海淀拙大叔
@@ -30,7 +27,6 @@ tags:
 - technology
 title: 澜起科技H股溢价潜力分析：稀缺性、增长与估值
 ---
-
 ### H股溢价的市场套利机会与核心条件
 
 阿甘公司研究论第22集，我们将探讨澜起科技是否会出现**H股溢价**（H-share premium: 指同一家公司在内地A股和香港H股市场上市时，H股股价高于A股股价的现象，通常反映了国际投资者对公司价值的认可）。在上一集我们讲到了一个确定性比较强的**超额收益**（Excess return: 投资组合或资产在扣除风险调整后，超过其基准收益的部分）。如果一家**A股**（A-shares: 在中国大陆注册、在中国大陆上市的股票，供境内机构、组织或个人以及符合条件的境外机构投资者买卖）公司业绩本身有增长，且A股市场股价上涨，那么它在发行**H股**（H-shares: 在中国大陆注册、在香港联合交易所上市的股票，供所有投资者买卖）两地上市之后，如果H股出现溢价，投资者就有一个市场套利的机会。因此，这种超额收益来自于两部分：一是A股股价的上涨，二是H股溢价所产生的市场套利。

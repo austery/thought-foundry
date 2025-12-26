@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - NASA
@@ -39,8 +39,7 @@ products_models:
 - Claude
 - Grok
 - Apple II
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3cDHx2_QbPE
 speaker: Dwarkesh Patel
@@ -54,7 +53,6 @@ tags:
 - supply-chain
 title: AI时代能源之战：中美竞争与太阳能未来展望
 ---
-
 ### 嘉宾介绍与核心议题
 
 今天我将采访**Casey Handmer**。Casey在许多令人惊叹的项目中工作过，他拥有**Caltech**（加州理工学院: 位于美国加利福尼亚州帕萨迪纳的私立研究型大学）的博士学位，研究引力波黑洞相关技术，之后参与了**Hyperloop**（超级高铁: 一种高速运输系统概念，通过低压管道运送乘客或货物舱）项目，并在**NASA**（美国国家航空航天局: 美国联邦政府的独立机构，负责民用空间计划、航空航天研究）的**Jet Propulsion Laboratory (JPL)**（喷气推进实验室: 美国国家航空航天局（NASA）下属的一个研究中心，负责行星机器人探测器任务）工作。现在，他是**Terraform Industries**（Terraform Industries: Casey Handmer 创立的公司，致力于从阳光和空气中制造合成燃料及其他基础材料）的创始人兼首席执行官。Casey，欢迎你。谢谢，很高兴终于来到这里。

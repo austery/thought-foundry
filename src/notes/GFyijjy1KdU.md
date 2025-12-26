@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Uber
@@ -23,9 +23,7 @@ people:
 - Tim Ferriss
 - Jason Calcanis
 - Joe Rogan
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GFyijjy1KdU
 speaker: The Diary Of A CEO
@@ -38,7 +36,6 @@ tags:
 - psychology
 title: 蒂姆·费里斯：从创伤与抑郁中重塑自我的四大突破性工具与学习心法
 ---
-
 ### 导言：在复杂中寻找简约
 
 每一种心理健康问题或诊断都在增加。我与不同的科学家合作，并在自己身上做了大量实验，因为我从小每年都会经历多次抑郁发作，我想看看我们是否能找到并解决其根本原因。因此，我将分享一些对我非常有帮助的方法。首先是脑刺激，当我做了这个之后，我连续几个月都没有焦虑。还有一种叫做迷走神经刺激的方法，过去30年里被引用最多的科学家之一已经观察到了一系列惊人的益处。

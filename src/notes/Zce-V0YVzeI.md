@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Parks Canada
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - Peter
 - Derek
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Zce-V0YVzeI
 speaker: veritasium
@@ -27,7 +25,6 @@ tags:
 - technology
 title: 雪崩的恐怖真相：科学原理、预防与自救
 ---
-
 ### 雪崩：成因、破坏力与历史教训
 
 这是一个关于雪崩的视频，它将探讨雪崩是什么、由什么引起、如何预防破坏性雪崩，以及万一被困其中该如何应对。

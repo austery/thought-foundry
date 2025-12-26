@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - University of Toronto
@@ -17,9 +17,7 @@ media_books:
 people:
 - Nam Kiwanuka
 products_models: []
-project:
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=c_2beNvXkXA
 speaker: TVO Today
@@ -34,7 +32,6 @@ tags:
 - technology
 title: 埃勒斯-丹洛斯综合征：被忽视的疾病与医疗系统困境
 ---
-
 ### 被忽视的埃勒斯-丹洛斯综合征
 
 在现代医学史上，没有其他疾病像**埃勒斯-丹洛斯综合征**（Ehlers-Danlos syndrome, EDS: 一种影响结缔组织的遗传性疾病）这样被忽视。这句话出自EDS专家兼风湿病学家罗德尼·格雷厄姆教授。

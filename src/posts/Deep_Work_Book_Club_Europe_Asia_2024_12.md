@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 author: Lei
 category: psychology
 channel: null
@@ -13,8 +13,7 @@ media_books:
 people:
 - Vivi
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: null
 source: null
 speaker: ''
@@ -26,7 +25,6 @@ tags:
 - 深度工作
 title: 「欧洲|亚洲场」2024年12月读书会「Deep Work」直播分享
 ---
-
 ## 开场与主持人分享
 
 ### Vivi (主持人)

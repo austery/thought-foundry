@@ -27,10 +27,7 @@ people:
 - Levitt
 - Kathy Hochul
 - Li Chenggang
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RSF3QeKzJyE
 speaker: LT視界
@@ -44,7 +41,6 @@ tags:
 - us-government-shutdown
 title: 中国稀土政策的极端化与中美关系的螺旋式升级：全球经济与政治的复杂博弈
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月21日，我们首先来了解今天的财经头条。
 
 ### 财经头条：黄金泡沫警告与美国政府停摆的经济冲击

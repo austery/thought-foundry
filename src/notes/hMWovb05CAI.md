@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-01-08'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《不能承受的生命之轻》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hMWovb05CAI
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - identity
 title: 在平庸中凝视灵魂的失落：一位纪录片导演的生命记录
 ---
-
 ### 一部关于“只发生一次”的纪录片
 
 大家好，我是陈东楠。我是一名纪录片导演，从二十多岁进入这个行业，至今已超过十年。在初中时，我深受米兰·昆德拉《不能承受的生命之轻》的影响——书中托马斯引用了一句德文谚语：“Einmal ist keinmal”，意思是：如果一件事只发生一次，那它就像从未发生过。

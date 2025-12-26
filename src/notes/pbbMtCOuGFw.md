@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-08-14'
@@ -16,9 +16,7 @@ people:
 - Pierre-Simon Laplace
 - Pythagoras
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pbbMtCOuGFw
 speaker: 大问题Dialectic
@@ -34,7 +32,6 @@ tags:
 - technology
 title: 原子论：古希腊哲学家如何预见现代物理学
 ---
-
 ### 德谟克利特原子论的现代回响
 
 欢迎来到《100个哲学大概念开悟人生》。今天我们将探讨的哲学大概念是**原子论**（Atomism），这是古希腊哲学家**德谟克利特**（Democritus: 约公元前460年—约公元前370年，古希腊唯物主义哲学家）的学说。我们前几讲曾提到，哲学诞生时的一个核心问题是“万物的本原是什么？”。对此，有哲学家认为是水，有认为是火，也有认为是气。总的来说，这种思路是将一种具体的经验事物视为纷繁复杂世界的本原。然而，到了哲学家德谟克利特这里，他给出了一个极具现代感的回答：万物都是由原子构成的。这听起来不正是现代物理学的说法吗？万物确实是由原子构成的。20世纪的物理学家**理查德·费曼**（Richard Feynman: 1918—1988，美国理论物理学家，诺贝尔物理学奖得主）在他的著作《费曼物理学讲义》开头写道，如果地球发生某种大灾难，所有科学知识都丢失了，只有一句话可以传给下一代，那么如何用最少的词汇传达最多的信息呢？费曼给出的这句话就是“万物都是由原子构成的”。令人惊叹的是，德谟克利特在2000多年前就已经提出了这个说法。难道这位哲学家是现代人穿越回古希腊的吗？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 美国财政部
@@ -14,10 +14,7 @@ media_books:
 - 《论心脏运动》
 - 《肉体与石头：西方文明中的身体和城市》
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NFTrNxr72pM
 speaker: 政經孫老師
@@ -31,7 +28,6 @@ tags:
 - social
 title: 城市是最佳绝育器？生育率下跌的经济与文化深层原因
 ---
-
 ### 城市生育率下降的深层原因
 
 今天来讨论一下为什么城市人口生不出孩子。其实讨论这个问题的人很多，但是大部分讨论方向都是错误的，所以得不出什么正确结论。我们知道现在全球各地的大城市，人口的生育意愿可以说是下降到了历史最低点。那各国政府也针对这个问题进行了各种政策调整，希望刺激人的生育率。但是我认为所有的这些刺激政策最后都会失效，城市人口生不出孩子，它是一个客观的历史规律。那么这个当中的原因是什么呢？今天就从经济和文化两个方面来分析这个问题。

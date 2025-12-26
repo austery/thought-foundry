@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 澜起科技
@@ -16,9 +16,7 @@ products_models:
 - CXL产品
 - CKD时钟芯片
 - DDR5
-project:
-- investment-strategy
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=At3C_clNSH0
 speaker: 海淀拙大叔
@@ -32,7 +30,6 @@ tags:
 - semiconductor
 title: 澜起科技中报点评与长期增长前瞻：从“蓝企”到“蓝王”的蜕变之路
 ---
-
 ### 澜起科技中报表现与预期差异分析
 
 2025年8月31日，澜起科技的半年报正式发布。报告显示，公司上半年实现收入26亿元，同比增长58%；净利润11.6亿元，同比增长95%；毛利率保持在60%。受此利好影响，澜起科技股价在上周上涨了30%，市场对其称呼也从“蓝企”变为“蓝王”。

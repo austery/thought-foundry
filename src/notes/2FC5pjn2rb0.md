@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - PayPal
@@ -23,10 +23,7 @@ people:
 - Warren Buffett
 - Charlie Munger
 products_models: []
-project:
-- investment-strategy
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2FC5pjn2rb0
 speaker: Shijun Tang
@@ -40,7 +37,6 @@ tags:
 - technology
 title: PayPal、Booking.com、FICO与AMAT：四位价值投资的隐形冠军
 ---
-
 ### 四家被低估的价值型科技企业深度解析
 
 PayPal是我少数全仓持有的股票。这里所说的“全仓持有”，是指在我的投资策略中，我已经将该股配置到了单一标的的最大额度。自2023年10月以来，PayPal的股价已上涨86.39%，近乎翻了两倍。我的平均买入价为60.68美元，即使以当前持仓计算，也已实现超过53%的浮盈。如今，PayPal已悄然成为我投资组合中最大的单一仓位，在所有持仓中排名第一。

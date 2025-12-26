@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -20,10 +20,7 @@ people:
 - George W. Bush
 - Pete Hgsith
 - Vladimir Putin
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nA3PSewC00w
 speaker: New York Times Podcasts
@@ -37,7 +34,6 @@ tags:
 - venezuela-crisis
 title: 美国是否正试图推翻委内瑞拉政府？
 ---
-
 ### 美国对委内瑞拉的“最大压力”运动
 
 《纽约时报》的娜塔莉·基特罗夫（Natalie Kitrov）报道，几个月来，特朗普总统一直在加大对委内瑞拉的压力，采取了日益激进的军事行动，政府声称这些行动旨在打击贩毒分子。

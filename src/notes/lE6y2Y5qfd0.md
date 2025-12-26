@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - WhatsApp
@@ -20,9 +20,7 @@ people:
 - Vladimir Putin
 products_models:
 - NFT
-project:
-- us-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lE6y2Y5qfd0
 speaker: 莊也雜談
@@ -36,7 +34,6 @@ tags:
 - online
 title: 2023年美加十大网络诈骗盘点：警惕投资、就业与情感陷阱
 ---
-
 ### 加拿大常见的“发错短信”诈骗手法
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们来聊一个比较有意思的话题，那就是在加拿大可能会遇到什么样的网络诈骗。之所以聊这个话题，是因为今天早上我收到一个电话短信。一开始，对方直接喊我的名字，说：“您好师傅，我们家的厨房水管有一点漏水，您看能不能安排人来维修一下？”我一看，这很明显是号码发错了，因为我也不是水管工。于是我回复了一个“wrong number”。结果对方好像没看见，继续说：“师傅，我们可以约个时间吗？我好安排好工作，在家等您派人上门维修。”

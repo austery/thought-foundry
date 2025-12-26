@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Google
@@ -65,9 +65,7 @@ products_models:
 - Tesla
 - Slack
 - IBM PC
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QBznUHAopxU
 speaker: The Knowledge Project Podcast
@@ -81,7 +79,6 @@ tags:
 - value
 title: 营销的非理性力量：超越效率与量化的客户价值
 ---
-
 ### AI与人类决策的非理性
 
 嘉宾: 我一直听到人们说，你会对你的**AI**（Artificial Intelligence: 人工智能）说：“给我找个滑雪假期”，然后它会为你提供一个完美的滑雪假期。

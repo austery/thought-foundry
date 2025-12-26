@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - OpenAI
@@ -17,10 +17,7 @@ people:
 products_models:
 - ChatGPT
 - Viv
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Mykqioj8pKY
 speaker: TVO Today
@@ -34,7 +31,6 @@ tags:
 - mental-health-support
 title: AI能帮助你过上美好生活吗？——一位技术作家与她的AI教练Viv的探索
 ---
-
 ### AI教练Viv的诞生
 
 究竟何为美好生活？人工智能（AI）又能如何助我们达成？技术作家兼研究员Alexandra Samuel一直在思考这些问题。为了寻求答案，她打造了自己的定制AI——Viv。这项实验的成败及其对她生活的启示，正是**TVO Today**（一家加拿大公共媒体机构）新播客《我与Viv》（Me and Viv）的核心内容。在此提醒观众，本节目包含关于自杀的讨论。Alex，欢迎来到我们的临时演播室。您近况如何？

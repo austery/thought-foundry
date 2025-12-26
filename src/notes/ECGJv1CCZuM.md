@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-14'
@@ -10,12 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ECGJv1CCZuM
 speaker: Bloomberg Podcasts
@@ -29,7 +24,6 @@ tags:
 - us-china-relations
 title: 美中贸易摩擦再起，AI泡沫与市场动向：资深编辑深度解读
 ---
-
 ### 美中贸易紧张与稀土争端升级
 
 Bloomberg: Welcome to the Daybreak Asia podcast. I'm Doug Krner. Tensions over trade between the US and China seemed to soften a bit during the last session.

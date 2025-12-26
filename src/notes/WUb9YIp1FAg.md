@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Netflix
@@ -11,8 +11,7 @@ layout: post.njk
 media_books: []
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WUb9YIp1FAg
 speaker: Best Partners TV
@@ -25,7 +24,6 @@ tags:
 title: 【播客】Netflix没有绩效 | CTO Elizabeth Stone | 技术版图 | Pitch to Play | Open Connect
   | 独特的企业文化 | 留任测试
 ---
-
 大家好，这里是最佳拍档，我是大飞
 
 当我们谈论**奈飞（Netflix）**的时候，你的第一反应会是什么呢？是《怪奇物语》里的逆世界？是《纸牌屋》里的政治博弈？还是那个著名的红色N字Logo呢？在大多数人眼中，奈飞是一家好莱坞级别的娱乐制作公司，但是在我们科技圈，奈飞却有着另一重更为硬核的身份，它是全球顶级的硅谷科技巨头，是**微服务架构**（Microservices Architecture: 一种将应用程序构建为一组小型服务的架构方法）的先驱，是**混沌工程**（Chaos Engineering: 通过故意引入故障来测试系统弹性的实践）的鼻祖。很多人可能会好奇，一家做流媒体的公司，它的技术护城河到底有多深？作为一名软件工程师，在奈飞工作究竟又是一种什么样的体验呢？为了解开这些谜题，今天我们将通过著名的科技博主**格尔盖伊·奥罗斯（Gergely Orosz）**的视角，与奈飞的现任首席技术官**伊丽莎白·斯通（Elizabeth Stone）**进行一场深度对话。它不仅揭示了奈飞如何应对刚刚发生的、打破世界纪录的拳击赛的直播流量洪峰，更深层地剖析了奈飞那套在硅谷独树一帜、甚至有些反直觉的工程文化。今天大飞就来给大家分享一下。

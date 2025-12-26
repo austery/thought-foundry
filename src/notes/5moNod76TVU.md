@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Polymarket
@@ -24,10 +24,7 @@ people:
 - 张学良
 - 鲍里斯·约翰逊
 - Vladimir Putin
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5moNod76TVU
 speaker: 北美王路飞
@@ -41,7 +38,6 @@ tags:
 - war
 title: 俄乌战争的现实困局与美国国家安全战略的转折：从全球霸权到区域主义
 ---
-
 ### 俄乌战争的现实困局：资源、人口与心理的三重枷锁
 
 乌克兰战争已持续三年，其残酷性远超多数人的想象。丁义博士指出，这场冲突早已不是“正义对抗侵略”的简单叙事，而是一场消耗战。乌克兰的人力资源严重不足，欧美援助也未能持续到位，导致前线士气低迷。数据显示，自2024年至2025年底，乌克兰已发生超过31万起逃兵与擅离职守的刑事案件。更令人震惊的是，乌克兰女性在街头拍摄男性被强征入伍的画面，已成为社交媒体上的常见景象——这揭示了战争对社会肌理的深层撕裂。

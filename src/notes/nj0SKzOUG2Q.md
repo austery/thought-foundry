@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nj0SKzOUG2Q
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +25,6 @@ tags:
 - strategy
 title: 天天運動、戒澱粉、吃水煮還是胖？減重醫師揭3大燃脂禁忌，更快突破減肥停滯期！
 ---
-
 ### 減重迷思：為何努力卻不見成效？
 
 許多人對於減重感到困惑與委屈，明明每天運動、只吃水煮餐，甚至嚴格減糖減澱粉，體重和體脂卻依然停滯不前，甚至出現頭暈、發冷等症狀。初日診所許芷瑜醫師指出，這並非個人問題，而是可能踩入了減重過程中的三大燃脂禁忌。

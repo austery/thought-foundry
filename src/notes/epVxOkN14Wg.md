@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -26,9 +26,7 @@ people:
 - George Floyd
 - Steven Miller
 - John Thune
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=epVxOkN14Wg
 speaker: New York Times Podcasts
@@ -42,7 +40,6 @@ tags:
 - technology
 title: 特朗普如何颠覆60年民权成果：DEI之名下的深层变革
 ---
-
 ### 特朗普政府对民权成果的颠覆
 
 纽约时报出品，我是迈克尔·巴巴罗。这里是《The Daily》。

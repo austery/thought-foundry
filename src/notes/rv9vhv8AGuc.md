@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-02'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books: []
 products_models:
 - chatgpt
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rv9vhv8AGuc
 speaker: 北美王路飞
@@ -24,7 +23,6 @@ tags:
 - reinforcement-learning
 title: 图灵奖得主理查德·萨顿痛批ChatGPT：AI路线之争与智能的未来
 ---
-
 ### 引言：图灵奖得主对AI主流路线的质疑
 
 今天我们探讨一个引人深思的问题：当前我们所见的**ChatGPT**（Generative Pre-trained Transformer: 一种基于Transformer架构的生成式人工智能模型）的惊艳表现、**生成式AI**（Generative AI: 能够生成文本、图像、音频等新内容的AI）的狂潮以及数万亿美元的投入，是否从根本上走上了一条错误的AI发展道路？这个听起来像是阴谋论的观点，并非出自局外批评家，而是由刚刚荣获**图灵奖**（Turing Award: 计算机科学领域的最高荣誉）的**理查德·萨顿**（Richard Sutton: 图灵奖得主、强化学习的奠基人）提出。

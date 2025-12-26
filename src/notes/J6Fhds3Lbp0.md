@@ -15,8 +15,7 @@ products_models:
 - Ethereum
 - USDT
 - USDC
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J6Fhds3Lbp0
 speaker: Nico投资有道
@@ -29,7 +28,6 @@ tags:
 - staking
 title: 加密货币熊市怎么办？10大高收益套利理财+Alpha空投赚钱策略，帮你轻松度过熊市，轻松配置加密货币资产！全网最新最详细的币安从0到1赚钱套利理财+资产配置攻略！
 ---
-
 ### 熊市应对策略
 
 假设币圈大熊市开启，我们应该怎么办？在加密货币过往的熊市过程中，包括**比特币**（Bitcoin）、**以太坊**（Ethereum）在内的主流币以及各路山寨币，可能都会**价格腰斩**。如果我们想要熬过熊市，必须得想尽一切办法**增加自己的现金仓位**，从而能够在暴跌的过程中，持续买入**比特币**、**以太坊**之类优质的加密资产，持续拉低平均持仓成本。

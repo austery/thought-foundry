@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2022-12-03'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HzMRtl-pilI
 speaker: 一口新飯
@@ -24,7 +22,6 @@ tags:
 - term
 title: Airbnb新房东必读：从市场调查到成功运营的关键须知
 ---
-
 ### 引言：承诺兑现与福利预告
 
 大家好，欢迎回到MoneyXYZ的视频。我是Ray。在我上一期分享关于做Airbnb一年赚多少钱的视频中，我曾做出两个承诺。第一个承诺是，如果使用我的推荐链接注册成为Airbnb房东，并成功接待第一位客人，你我都拿到Airbnb的佣金后，我将免费提供一小时的一对一视频咨询来回答你的问题。截至目前，已有二十多个人使用我的链接注册成为房东，其中六人成功接待了第一位客人，并且有四人已与我进行了一对一通话。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-11'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - how-i-ai
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bz-POj6myUE
 speaker: How I AI
@@ -22,7 +21,6 @@ tags:
 - llm
 title: 如何利用自定义GPT打造高效写作教练
 ---
-
 ### 引入定制化写作助手
 
 You've also built a custom GPT to make sure that your writing is concise. So, can you show us a little bit of what that looks like?

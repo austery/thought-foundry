@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SNlTkyAQFEY
 speaker: 人民公園說AI
@@ -23,7 +22,6 @@ tags:
 - technology
 title: Sora 2与OpenAI版“抖音”：重塑社交电商与AI生态的野心
 ---
-
 ### Sora 2的惊艳亮相与行业震动
 
 主持人: 抖音危险了。这一次**Sora 2**（OpenAI公司开发的文本到视频生成模型的新版本）的**物理引擎**（Physical Engine: 模拟真实世界物理规律的软件模块）非常强大。我真想说脏话，我觉得它太牛了，就直接形成闭环，把抖音整个商业模式搬到**AI**（Artificial Intelligence: 人工智能）上面来。Sora要是未来能够把流量再做起来，那**Amazon**（亚马逊: 跨国电子商务和云计算公司）苦心经营30年的一个帝国，真的可能就会被踹倒一面墙。

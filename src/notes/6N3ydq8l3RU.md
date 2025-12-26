@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Tesla
@@ -18,9 +18,7 @@ people:
 - Elon Musk
 - Joe Biden
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6N3ydq8l3RU
 speaker: 海伦子Hellen
@@ -34,7 +32,6 @@ tags:
 - right
 title: 马斯克天价薪酬案：一场不寻常的法律与政治博弈
 ---
-
 ### 马斯克天价薪酬案的非同寻常之处
 
 埃隆·马斯克的天价薪酬案近期引发了广泛关注，因为它有可能导致马斯克将目前在特斯拉内部的人工智能和机器人业务转移到特斯拉之外的公司进行。如果这种情况真的发生，特斯拉可能会瞬间沦为一家普通的电动车公司，其市值和影响力也将随之消散。然而，在我看来，这个案件有几个非常不寻常的地方，值得我们深入探讨。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Iwwmm1n2Pzc
 speaker: TVO Today
@@ -25,7 +23,6 @@ tags:
 - public-health
 title: 公共卫生如何应对虚假信息挑战？
 ---
-
 ### 公共卫生机构重回聚光灯下
 
 主持人：还记得**新冠**（COVID-19: 2019冠状病毒病）疫情初期，人们焦急等待**安大略省首席医疗官**（Ontario's Chief Medical Officer of health: 负责省内公共卫生事务的最高级别官员）最新新闻发布会的情景吗？

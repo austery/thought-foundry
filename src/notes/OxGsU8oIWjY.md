@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs: []
 date: '2021-05-10'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OxGsU8oIWjY
 speaker: veritasium
@@ -23,7 +22,6 @@ tags:
 - society
 title: 希尔伯特旅馆悖论：无限客房如何住满，甚至超载？
 ---
-
 ### 希尔伯特旅馆：无限客房的奇妙世界
 
 想象一个拥有无限个客房的旅馆，房号依次是1、2、3、4，以此类推。欢迎来到**希尔伯特旅馆**（Hilbert's Hotel: 一个拥有无限房间的假想旅馆，用于解释无穷的特性），你是这里的经理。乍一看，无论来多少客人，你似乎总能接纳。但实际上，能容纳的人数是有限的，甚至有一种方法能使人数超过无限客房的接纳量。

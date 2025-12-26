@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - NVIDIA
@@ -20,9 +20,7 @@ products_models:
 - GPT-4
 - InfiniBand
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MrreyJEorAE
 speaker: Best Partners TV
@@ -37,7 +35,6 @@ tags:
 - technology
 title: 英伟达爆发式增长的深层逻辑：CTO Michael Kagan揭秘Mellanox收购与AI算力挑战
 ---
-
 ### 英伟达的崛起：被忽视的关键事件
 
 在过去的六年里，英伟达的市值实现了惊人的增长，从2019年的约1000亿美元一路飙升至如今的4.5万亿美元，成为全球市值最高的公司之一。许多人都在探究，英伟达的爆发式增长究竟依靠什么？是其**GPU**（Graphics Processing Unit: 图形处理器，专门用于处理图像渲染和并行计算的芯片）芯片的算力优势，还是**AI浪潮**（AI Wave: 人工智能技术快速发展和广泛应用的趋势）带来的风口红利？

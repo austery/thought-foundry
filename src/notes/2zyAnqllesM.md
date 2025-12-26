@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Bilibili
@@ -62,10 +62,7 @@ people:
 - Donald Trump
 - Joe Biden
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2zyAnqllesM
 speaker: FearNation 世界苦茶
@@ -79,7 +76,6 @@ tags:
 - narrative
 title: B站芳华视频现象级爆火：碎片化解读与青年情绪的共鸣
 ---
-
 ### B站“芳华”视频爆火现象的困惑与探讨
 
 今天我们将探讨一个现象级视频，它在B站上非常火爆，即便它的前面部分很长，但其内容和引发的讨论都非常值得关注。这个视频以《芳华》为核心，但融合了其他作品，如《让子弹飞》和《大明王朝1566》，并以一种我个人难以理解的方式进行解读。我曾以为自己了解**民粹**（Populism: 一种政治思潮，强调普通民众的利益和愿望，常与精英阶层对立），但现在发现自己并不懂。

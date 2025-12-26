@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 雪球
@@ -30,9 +30,7 @@ products_models:
 - AI语言模型
 - Bitcoin
 - S&P 500 ETF
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WAFo6IrMaEc
 speaker: Shijun Tang
@@ -46,7 +44,6 @@ tags:
 - safety
 title: 从段永平雪球访谈看懂公司：投资理念与实践的深度解读
 ---
-
 ### 引言：段永平的投资智慧与个人启发
 
 段永平是目前投资体量最大的华人投资者，他的成功之路与众不同。功成名就的他偶尔也会接受媒体访谈，以启发像我们一样的普通投资人。最近，雪球的老总方三文成功邀请到段永平，进行了一场将近两个小时的播客（Podcast）形式的谈话。这段视频一经上线，我就反复听了好几遍，其中有很多值得普通投资人学习的要点。虽然大多数都是我的频道反复强调、几乎磨出茧的观点，但还是有几点给了我一些新的启发。

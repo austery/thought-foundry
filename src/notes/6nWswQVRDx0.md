@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -22,9 +22,7 @@ people:
 - Pete Hgsith
 products_models:
 - Signal
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6nWswQVRDx0
 speaker: New York Times Podcasts
@@ -38,7 +36,6 @@ tags:
 - xenophobia
 title: 特朗普攻击索马里裔美国人：仇外言论、欺诈指控与政治影响
 ---
-
 ### 特朗普的仇外言论
 
 本期《**The Daily**》（《每日》：由《纽约时报》制作的每日新闻播客）节目由**Natalie Kitroeff**主持。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Porsche
@@ -13,10 +13,7 @@ insight: ''
 layout: post.njk
 people:
 - Nikolai
-project:
-- china-analysis
-- investment-strategy
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iXbdvSZfsqA
 speaker: Norges Bank Investment Management
@@ -30,7 +27,6 @@ tags:
 - strategy
 title: 保时捷与大众集团CEO奥利弗·布鲁姆：驾驭梦想与创新
 ---
-
 ### 驾驭梦想：保时捷与大众集团CEO奥利弗·布鲁姆访谈
 
 大家好，今天我们将与保时捷和大众汽车的首席执行官奥利弗·布鲁姆（Oliver Blume）一起进行一次激动人心的旅程。保时捷是全球最知名的品牌之一，挪威银行投资管理公司拥有保时捷和大众汽车超过1%的股份。2022年保时捷上市（**IPO**：Initial Public Offering，首次公开募股）时，我们是其基石投资者，所以我们可说是在这场竞赛中并肩前行。

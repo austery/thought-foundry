@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 恒大
@@ -21,9 +21,7 @@ people:
 products_models:
 - 抖音
 - 快手
-project:
-- china-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YEBjd0BU-BA
 speaker: 張内咸
@@ -37,7 +35,6 @@ tags:
 - social-commentary
 title: 中国社会观察：从内容分级到经济现实的复杂图景
 ---
-
 ### 开篇致歉与内容警示
 
 大家好，我是张内咸，又见面了。首先要对一部分观众表达歉意。上周的节目中，我做了一个讨论中国电影**分级制度**（Content Rating System: 对影视内容进行年龄限制和分类的制度）的专题。由于中国没有通过内容分级保护青少年的概念，而且是从上到下压根就没有这个意识，所以我们会在墙内的电影、电视、网络和手机上，看到各种各样令人无法直视的大尺度内容。这些内容连成年人看了都会感觉非常不适，何况是小朋友呢？

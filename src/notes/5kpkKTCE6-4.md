@@ -10,11 +10,7 @@ layout: post.njk
 media_books:
 - fearnation
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5kpkKTCE6-4
 speaker: FearNation 世界苦茶
@@ -27,7 +23,6 @@ tags:
 - us-china-relations
 title: 台湾、新疆与中美博弈：全球智库深度解析中国挑战与未来走向
 ---
-
 ### 节目开场与内容概述
 
 欢迎来到本期的世界苦茶观察线节目。观察线节目旨在汇总全球智库和国际媒体对中国问题的深度分析内容。该节目为AI制作，播放速度已照顾收听较慢的听众，如果你觉得太慢可以调整至1.25倍。AI脚本和声音会不断优化。以下是精选的全世界对中国的分析，包括台海局势、中国对新疆白皮书等内容。

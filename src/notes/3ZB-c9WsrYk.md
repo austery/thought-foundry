@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 长荣航空
@@ -43,10 +43,7 @@ people:
 products_models:
 - 抖音
 - 快手
-project:
-- china-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3ZB-c9WsrYk
 speaker: 莊也雜談
@@ -61,7 +58,6 @@ tags:
 - trend
 title: 中国经济下行与社会变迁：北京不同人群的生活图景
 ---
-
 ### 引言：回国见闻与争议反思
 
 大家好，欢迎收看庄也杂谈。今天我们继续聊我回国的话题。在开始之前，还是先交代两句。关于长荣航空退我第一排座位票钱的事，这事有了新的进展。前天查账户的时候，500多加币已经退回了我的信用卡，已经到账。再次感谢长荣航空。

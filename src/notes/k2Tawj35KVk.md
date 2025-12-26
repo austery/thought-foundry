@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-04-06'
 draft: true
@@ -11,9 +11,7 @@ people:
 products_models:
 - Ford F-150
 - Tesla
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k2Tawj35KVk
 speaker: 莊也雜談
@@ -27,7 +25,6 @@ tags:
 - society
 title: 加拿大汽车盗窃危机：防盗策略、保险选择与系统性成因深度解析
 ---
-
 ### 加拿大汽车盗窃：防范与应对策略
 
 大家好，我是庄也，欢迎收看庄也杂谈加拿大系列节目。今天我们继续探讨盗车这个话题，这是第三集。如果您还没有看前两集，建议您花时间回顾一下。今天我们主要接着前一集的话题，总结了小偷的几种偷车方法，并针对这些方法，探讨我们应该采取的防盗措施和购买的防盗装备。

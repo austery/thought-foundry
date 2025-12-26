@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - EQT
@@ -19,9 +19,7 @@ people:
 - Nikolai
 products_models:
 - Microsoft Teams
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3Xk3y4RrnOc
 speaker: Norges Bank Investment Management
@@ -35,7 +33,6 @@ tags:
 - valuation
 title: EQT CEO与知名投资人探讨卓越公司的定义、长期投资与私有化趋势
 ---
-
 ### 开场与卓越公司的定义
 
 **主持人:** 现在，我邀请**EQT**（欧洲领先的私募股权投资公司）的首席执行官Christian Sinding加入我们。在他的领导下，EQT的规模扩大了四倍，成为瑞典第四大上市公司，也是私募市场中领先的、具有前瞻性思维的组织。欢迎，Christian。

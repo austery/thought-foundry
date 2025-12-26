@@ -24,9 +24,7 @@ products_models:
 - ChatGPT
 - VS Code
 - TikTok
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d-Mel7dGDGE
 speaker: 课代表立正
@@ -39,7 +37,6 @@ tags:
 - strategy
 title: AI编程工具的演进与未来：Trae产品负责人石扬的深度洞察
 ---
-
 ### AI编程工具的崛起与Trae的定位
 
 课代表立正：哈喽石扬，欢迎来到课代表立正。我们来介绍一下石扬，石扬是**Trae**（字节跳动旗下的一款AI编程工具）的负责人。在我看来，Trae目前是全球第二大的**AI编程**（Artificial Intelligence Coding: 利用人工智能辅助或自动化代码编写）工具。

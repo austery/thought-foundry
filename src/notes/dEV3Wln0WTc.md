@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 抖音
@@ -31,10 +31,7 @@ people:
 - 王志安
 - Donald Trump
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dEV3Wln0WTc
 speaker: 夸克说
@@ -48,7 +45,6 @@ tags:
 - power
 title: 中国网红为何频遭封禁？从“三体世界”看中共言论审查的混沌逻辑
 ---
-
 ### 中国网红集体被封：表面原因与深层逻辑
 
 大家好，欢迎收看夸克说，我是夸克。这期节目咱们接着聊上期没聊完的话题，户晨风为什么会被封。关于这一点，这几天我已经看了不少分析了。最常见的说法是“歧视制造对立论”，也就是他的“苹果安卓论”是在歧视低收入群体，因为2025年**清朗行动**（中国互联网监管机构开展的一系列净化网络环境的专项行动）的重点打击目标之一，就是所谓的“借热点事件挑起群体极端对立情绪”。

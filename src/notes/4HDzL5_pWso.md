@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - McDonald's
@@ -23,9 +23,7 @@ people:
 - Aristotle
 - Noam Chomsky
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4HDzL5_pWso
 speaker: 超級歪 SuperY
@@ -38,7 +36,6 @@ tags:
 - universal-doubt
 title: 笛卡儿《沉思录》解析：从普遍怀疑到“我思故我在”与上帝存在
 ---
-
 ### 笛卡儿：现代哲学的开端
 
 哲学令人心旷神怡，每一集都会向你介绍一位哲学家。在过去的几集中，我们介绍了古希腊的三位哲学家。现在，我们终于进入了现代哲学，介绍欧洲理性启蒙的奠基人——笛卡儿。

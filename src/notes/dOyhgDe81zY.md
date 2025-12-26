@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国人民大学
@@ -17,10 +17,7 @@ media_books:
 - 《广东进军抄》
 - book-rescue
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dOyhgDe81zY
 speaker: 一席YiXi
@@ -33,7 +30,6 @@ tags:
 - war
 title: 乱世微光：吴真追寻抗战时期被劫书籍的十六年
 ---
-
 ### 引言：追书之旅的起点
 
 大家好，我是吴真，来自中国人民大学。今天很高兴在这里和大家分享我过去十六年的追书经历。上海也是我追寻书籍的一个重要站点，但这段经历的起点是在日本东京。2009年，我偶然翻到了一本名为**《广东战后报告》**的著作。这本书的作者提到，1938年底他在广州，看到许多大学的图书被日军搞得一片狼藉，其中有一位来自帝国大学的教授正在搜集和汇总这些图书。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 author: Lei
 category: technology
 companies_orgs: []
@@ -9,8 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: http://www.youtube.com/watch?v=xEaAR0AqMlk
 speaker: All-In Podcast
@@ -24,7 +23,6 @@ tags:
 - reform
 title: H-1B签证改革、吉米·坎摩尔道歉、自闭症成因与加州仇恨言论法案系统性分析
 ---
-
 ## H-1B签证改革：打击滥用与市场化手段 [00:02:25]
 
 The topic of the week: H-1B visas are being overhauled.

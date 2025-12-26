@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Tesla
@@ -30,10 +30,7 @@ products_models:
 - Optimus
 - Android
 - iPhone
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FueX88st2OQ
 speaker: 硅谷101
@@ -47,7 +44,6 @@ tags:
 - technology
 title: 硅谷视角：人形机器人普及的挑战与机遇
 ---
-
 ### 欢迎与人形机器人展望
 
 主持人景吴: 好的，欢迎来到 Alignment 2025 的下午场。

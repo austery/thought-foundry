@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 南方都市报
@@ -21,9 +21,7 @@ people:
 - Xi Jinping
 - 李自成
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PQJivsrriB8
 speaker: 三個水槍手
@@ -36,7 +34,6 @@ tags:
 - youth-unemployment
 title: 改革开放以来最严峻的就业寒冬：中国年轻人的困境与出路
 ---
-
 ### 引言：需要想象力面对的时代
 
 人需要有想象力，有战略纵深空间去思考。如果我们有足够的想象力，今天或许就不会维持忧郁。

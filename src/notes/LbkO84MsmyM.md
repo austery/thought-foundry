@@ -38,9 +38,7 @@ people:
 - 金正恩
 products_models:
 - U2侦察机
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LbkO84MsmyM
 speaker: Dwarkesh Patel
@@ -53,7 +51,6 @@ tags:
 - strategy
 title: 冷战博弈：美中俄印巴的地缘政治棋局
 ---
-
 首先，我需要发表一个免责声明，因为我为美国政府工作，他们要求我这样做。因此，你们即将听到的观点是我个人的想法，不一定代表美国政府、美国海军部、美国国防部，更不用说我工作所在的海军战争学院的立场。大家对此没问题吧？
 
 今天，我将向你们讲述一个关于三个主要角色——**俄罗斯**、**美国**和**中国**——的故事。它们都想在**印度**和**巴基斯坦**身上施展“魔法”，而这两个国家对此并不领情。

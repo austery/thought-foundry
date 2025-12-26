@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 通用汽车
@@ -24,10 +24,7 @@ products_models:
 - 雪铁龙C3
 - 丰田RAV4
 - 雪佛兰BrightDrop
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5Sgf9MvASmI
 speaker: 大伟探秘加拿大
@@ -41,7 +38,6 @@ tags:
 - trade-tariff
 title: 加拿大电动车困境：高价、政策摇摆与贸易壁垒下的产业梦碎真相
 ---
-
 ### 加拿大电动车普及之路的困境与挑战
 
 今天我们将探讨一个让无数加拿大人既向往又头疼的话题——电动汽车。我们都曾听过电动车是未来、环保省钱且驾驶体验极佳的美好承诺。早在2021年，加拿大联邦政府就制定了电动车普及的路线图，计划到2026年，至少20%的新车销售为**零排放汽车**（Zero-Emission Vehicles, ZEVs: 指不排放任何废气或温室气体的车辆，通常为纯电动车或燃料电池车）；到2030年提升至60%；最终在2035年实现100%的销售目标。然而，现在这个路线图已是名存实亡。就在不久前，总理贾斯汀·特鲁多（Justin Trudeau）宣布推迟2026年20%的目标，而2035年100%的目标更是显得不切实际。

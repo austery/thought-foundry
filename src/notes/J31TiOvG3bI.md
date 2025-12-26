@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Microsoft
@@ -18,9 +18,7 @@ media_books:
 - 搜狐新聞
 products_models:
 - S&P 500
-project:
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J31TiOvG3bI
 speaker: 政經孫老師
@@ -34,7 +32,6 @@ tags:
 - low-end-service
 title: 中產破產潮：全球與中國白領階層的未來出路分析
 ---
-
 今天我們來談談白領中產的問題。這個問題分成兩部分來說：第一是全球普遍的情況，第二是中國特殊的情況。
 
 ### 全球白領中產的普遍困境

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2023-05-01'
@@ -24,10 +24,7 @@ people:
 - Sigmund Freud
 - Jacques Lacan
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DkVIVtasN6s
 speaker: 超級歪 SuperY
@@ -41,7 +38,6 @@ tags:
 - philosophy
 title: 咒术回战的哲学：鬼魂为何现世？执念、创伤与文明的起源
 ---
-
 ### 引言：鬼魂现象与三部作品的哲学思考
 
 鬼魂为何重返人间？它们究竟想从人类那里得到什么？幽灵又如何才能安息？今天，我们将通过《咒术回战》、《鬼灭之刃》以及《不良执念清除师》这三部作品，深入探讨鬼魂与人类执念的哲学。

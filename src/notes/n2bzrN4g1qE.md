@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - theranos
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - elizabeth-holmes
 products_models: []
-project:
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n2bzrN4g1qE
 speaker: 北美王路飞
@@ -24,7 +23,6 @@ tags:
 - whistleblower
 title: Theranos的至暗时刻：谎言、胁迫与生命的代价
 ---
-
 ### 序言：谎言帝国的高潮
 
 上一集结尾留下了两个巨大的悬念：Theranos内部不靠谱的技术如何应付已签下大单的零售巨头？外部睚眦必报的老邻居理查德·福伊兹已举起法律的屠刀。内忧外患，双线作战，照理说这家公司应该早就玩完了。然而，大家即将见证的是伊丽莎白·霍尔姆斯职业生涯中最不可思议也最令人胆寒的一场表演。她不仅没崩，反而把这个谎言推向了前所未有的高潮。

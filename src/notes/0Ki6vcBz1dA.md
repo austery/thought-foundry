@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -27,10 +27,7 @@ people:
 products_models:
 - 芬太尼
 - 稀土
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0Ki6vcBz1dA
 speaker: LT視界
@@ -43,7 +40,6 @@ tags:
 - us-china-relations
 title: 中美贸易战：经济数据、稀土博弈与停火协议下的深层较量
 ---
-
 ### 中国宏观经济现状：制造业低迷与房地产危机加剧
 
 彭博社报道指出，尽管中美达成贸易休战协议，中国工厂活动仍连续多月低迷，引发了要求加大政策支持的呼声。中国国家统计局公布的10月份制造业**采购经理人指数**（PMI: Purchasing Managers' Index, 衡量制造业活动的经济指标）跌至49，低于华尔街预期的49.6，降幅超出预期，显示制造业活动创下6个月以来的最大跌幅。新订单降幅更是创下2023年以来的最大降幅，受贸易壁垒和国内市场情绪疲软的双重打击。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times Podcasts
@@ -20,10 +20,7 @@ people:
 - Clarence Thomas
 - Ketanji Brown Jackson
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=41TiFVsp0AI
 speaker: New York Times Podcasts
@@ -38,7 +35,6 @@ tags:
 - strategy
 title: 美国最高法院自由派大法官的策略分歧：团结的表象与内在的张力
 ---
-
 ### 最高法院自由派少数派的团结表象与内在张力
 
 在过去几年中，美国最高法院自由派少数派的大法官们，为了对抗法院的保守派多数派，一次又一次地投票反对，展现出看似坚不可摧的抵抗阵线。然而，在其背后，一场关于最佳反击策略的紧张关系正在悄然滋长。

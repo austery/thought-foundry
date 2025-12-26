@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-05-07'
@@ -10,10 +10,7 @@ layout: post.njk
 people:
 - adam-s-axiom
 products_models: []
-project:
-- historical-insights
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_d2cL5-l2o8
 speaker: Adam's Axiom
@@ -27,7 +24,6 @@ tags:
 - social-welfare
 title: 塑造经济思想的伟大先驱们
 ---
-
 ### 马尔萨斯理论：人口与稀缺性
 
 马尔萨斯在英国社会动荡时期发展了他的理论。作为一名英国国教牧师，他目睹了人口的快速增长以及工业化带来的严酷条件，因此他拒绝了启蒙运动对社会进步的乐观态度。法国大革命的激进主义进一步巩固了他的保守观点。

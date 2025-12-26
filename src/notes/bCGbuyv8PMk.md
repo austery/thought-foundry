@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Tesla
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Optimus
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bCGbuyv8PMk
 speaker: AI Engineer
@@ -25,7 +23,6 @@ tags:
 - system
 title: 特斯拉擎天柱机器人系统挑战：高性能机器人软件设计要点
 ---
-
 ### 引言：策略与软件系统之争
 
 大家下午好，非常高兴今天能来到这里。

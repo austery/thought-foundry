@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-11-14'
 draft: true
@@ -8,9 +8,7 @@ insight: ''
 layout: post.njk
 products_models:
 - BERT
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mPWvAN4hzzY
 speaker: Hung-yi Lee
@@ -25,7 +23,6 @@ tags:
 - optimization
 title: 训练神经网络的实用技巧：优化、泛化与模型架构全解析
 ---
-
 ### 前言：理解训练技巧的核心框架
 
 今天这堂课旨在向大家介绍在训练类神经网络时会用到的各种技巧。在上一堂课中，我们已经明确了机器学习的三个核心步骤：

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -26,10 +26,7 @@ people:
 products_models:
 - Twitter
 - Discord
-project:
-- us-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uQ2oPbJ-wS4
 speaker: Bloomberg Podcasts
@@ -43,7 +40,6 @@ tags:
 - tariff
 title: 纳西姆·塔勒布：在波动时代中追求美好生活与识别脆弱性
 ---
-
 ### 节目开场与嘉宾介绍
 
 欢迎各位“奇思妙想”（**Odd Lots**）的听众。您正在收听的是6月26日在纽约市现场录制的另一期节目，本期嘉宾是独一无二的纳西姆·尼古拉斯·塔勒布（**Nassim Nicholas Taleb**），他是**Universa Investments**的杰出科学家和顾问。

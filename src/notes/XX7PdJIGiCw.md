@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Hostinger
@@ -14,9 +14,7 @@ media_books:
 products_models:
 - Chat GPT
 - Notion
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XX7PdJIGiCw
 speaker: Veritasium
@@ -30,7 +28,6 @@ tags:
 - theory
 title: 模拟生命演化的奇特方式：基因的自私之旅
 ---
-
 ### 粪便之谜与利他主义悖论
 
 如果你想知道一个人是否真正理解**演化**（Evolution: 生物种群在世代中发生遗传性状改变的过程），只需问他们一个奇怪的问题：为什么粪便闻起来很臭？

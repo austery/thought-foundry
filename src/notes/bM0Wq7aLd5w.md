@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - Uber
@@ -39,10 +39,7 @@ products_models:
 - C++
 - TypeScript
 - Rust
-project:
-- us-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bM0Wq7aLd5w
 speaker: The Pragmatic Engineer
@@ -57,7 +54,6 @@ tags:
 - personal
 title: 从 Uber 早期工程师到 CloudKitchens：在高增长科技公司脱颖而出的战术与心法
 ---
-
 ### 引言：在高增长公司中茁壮成长
 
 **Gergely:** 作为一名软件工程师，在一家快速发展的公司里茁壮成长需要具备哪些要素？Charles-Axel Dein 是 Uber 的第 20 号工程师，他亲眼见证了公司在短短 5 年内从 20 名工程师发展到超过 2000 人。他还碰巧在 Uber 雇用了我，并是我在该公司的第一位经理。如今，Charles 在 Cloud Kitchens 工作，并维护着一个广受欢迎的 GitHub 仓库——“Professional Programming”——这个项目他已经坚持了 15 年。

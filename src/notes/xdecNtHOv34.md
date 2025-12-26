@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 新华网
@@ -17,10 +17,7 @@ people:
 - 伊藤博文
 products_models:
 - '[]'
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xdecNtHOv34
 speaker: 徒步的騎手
@@ -34,7 +31,6 @@ tags:
 - national
 title: 外国游客为何避开中国，蜂拥日本？文明断层线下的国家形象与社会现实
 ---
-
 ### 外国游客对中日的不同选择
 
 今天不走路，今天坐车，出发前再跟大家讲几句。现在，日本城市的街上到处都是说普通话的游客，从东京到名古屋到京都全是这样。甚至在帮松一条偏僻的道路，有个路口还看到一对用普通话直播的中年人，一位大叔站在街头在那讲，一位大妈用手机在拍。去年来日本旅行的外国游客达到3700万人次，今年头几个月增长势头更猛，预计全年将会超过4000万人次。相比之下，去年去中国旅游的外国人只有不到2700万人次，中华人民共和国政府网说是有2694万人次，新华网说是有6488万人次，不知道他是怎么统计出来的。

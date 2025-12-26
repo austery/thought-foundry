@@ -13,8 +13,7 @@ people:
 - Frank
 - Vivian
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: ''
@@ -24,7 +23,6 @@ tags:
 - safety
 title: 个股投资案例分析：Frank的公司股票投资复盘
 ---
-
 ## 引言：抓住疫情带来的逆向投资机会
 
 **Frank:**

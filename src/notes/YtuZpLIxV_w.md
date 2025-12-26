@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 同盟会
@@ -32,9 +32,7 @@ people:
 - 胡适
 - 陈其美
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YtuZpLIxV_w
 speaker: 东京人文论坛
@@ -47,7 +45,6 @@ tags:
 - power
 title: 宋教仁：一位被遗忘的宪政先驱与“在东京重造中国”的梦想
 ---
-
 ### 引言：我与青春偶像宋教仁
 
 “在东京重造中国”，这七个字本身是一个吓人的题目，是要杀头的。但由于我在后面加了一个括号（1895-1925），那就没事了。因为要在东京重造中国的不是我傅国涌，而是孙中山、宋教仁、黄兴、蔡锷、梁启超、鲁迅、蒋中正、汪精卫这些人。所以要杀头也是杀他们，讲的是一百多年前的历史。

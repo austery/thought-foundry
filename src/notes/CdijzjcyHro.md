@@ -21,10 +21,7 @@ products_models:
 - OxyContin
 - Heroin
 - Fentanyl
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CdijzjcyHro
 speaker: 北美王路飞
@@ -37,7 +34,6 @@ tags:
 - public-trust
 title: 爱泼斯坦案与美国民众对精英信任度的持续瓦解
 ---
-
 ### 引言：从哈佛案到爱泼斯坦案——民众对精英信任的起点
 
 有观众曾问及为何相信唐纳德·特朗普的话。回溯到2016年，特朗普在一次“Chinese for Trump”集会上，承诺将推动司法部调查**哈佛大学**（Harvard University: 美国常春藤盟校之一）歧视亚裔学生的事件。这个承诺他最终兑现了，该案件在最高法院取得了亚裔学生的压倒性胜利。然而，在**爱泼斯坦案**（Epstein Case: 指美国金融家杰弗里·爱泼斯坦涉及的性贩卖和性侵丑闻，牵连众多社会名流）中，民众对精英的信任度却呈现出截然不同的面貌。这促使我们从观念层面探讨民众与精英之间的信任问题。

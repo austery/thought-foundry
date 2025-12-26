@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Catholic Church
@@ -17,10 +17,7 @@ people:
 - Aristotle
 - Alexander the Great
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0KraEt1ebD0
 speaker: 超級歪 SuperY
@@ -34,7 +31,6 @@ tags:
 - state
 title: 卢梭《论不平等的起源》：人性本善，文明致恶？
 ---
-
 ### 卢梭的生平与思想启蒙
 
 “哲学爽歪歪”节目，每集都会向您介绍一位哲学家。

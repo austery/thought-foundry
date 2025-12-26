@@ -18,10 +18,7 @@ people:
 - Jerome Powell
 products_models:
 - S&P 500
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QOj6IymPXwI
 speaker: 投资TALK君
@@ -35,7 +32,6 @@ tags:
 - labor-market-datum
 title: 期货下跌、新联储主席人选与宏观经济展望：市场如何应对不确定性
 ---
-
 ### 市场回顾与本周展望
 
 各位观众大家好，欢迎来到一个周末也要为大家做更新的专业美股频道。我是市场奉闲小桃。期货上现在出现了下跌。正好借这期内容，我们一起回顾一下刚刚过去的这个周末到底发生了什么，然后对本周将要公布的宏观数据做一个展望。我们将从**PCE**（Personal Consumption Expenditures: 个人消费支出）这个角度出发，去聊一些相对比较深层的问题。主要就是这两部分。

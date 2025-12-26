@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -35,10 +35,7 @@ people:
 - Nassim Nicholas Taleb
 - Benjamin Graham
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vZJHQrGS7PE
 speaker: Norges Bank Investment Management
@@ -52,7 +49,6 @@ tags:
 - risk-management
 title: 橡树资本霍华德·马克斯：投资哲学、风险控制与逆向思维
 ---
-
 ### 投资之路的起点
 
 主持人: 大家好，我是赫林，在奥斯陆与橡树资本（Oaktree Capital: 一家全球领先的另类投资管理公司）的联合创始人、投资大师霍华德·马克斯在一起。很高兴您能来这里。您是世界上最令人印象深刻和受人尊敬的投资者之一，也因撰写各种备忘录而闻名。我们很想先问问您，最初是如何进入金融行业的？

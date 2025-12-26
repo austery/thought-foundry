@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-07-12'
@@ -17,9 +17,7 @@ people:
 - 康德
 - Daniel Kahneman
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EqO7Cs61Mi8
 speaker: 一口新飯
@@ -32,7 +30,6 @@ tags:
 - self
 title: 从《被讨厌的勇气》中学到的三堂人生课：撕掉人设，拥抱自由
 ---
-
 ### 撕掉“网红人设”：一场网络争执带来的自我反思
 
 大家好，我是Ray。今天这期视频的分享需要一些勇气。我想分享一下《**被讨厌的勇气**》（The Courage to Be Disliked: 一本基于阿德勒心理学，探讨如何摆脱外界束缚、获得幸福人生的书籍）这本书，以及我从中学到的人生课程，是如何帮助我撕掉“网红人设”，让我能够做自己的。如果你也曾因为外界的评价、期待或所谓的人设而感到内耗，失去做自己的勇气，那么我相信这本书和我的一些经历可能会给你带来启发。

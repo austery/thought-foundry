@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - The Economist
@@ -20,10 +20,7 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 - Jack Ma
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K44YmnIl_DA
 speaker: Bloomberg Podcasts
@@ -37,7 +34,6 @@ tags:
 - impact
 title: 中国房地产泡沫：历史性困境与全球启示
 ---
-
 ### 房地产的本质：社会公益还是投资工具？
 
 **Joe Weisenthal:** 什么是**土地改革**（Land Reform: 重新分配土地所有权以实现社会或经济目标）？你总是听到经济学家们争论，比如“哦，他们实行了土地改革，这真的很重要”，而另一些人则说“哦，不，实际上土地改革并非如此”。那么，土地改革到底是什么？

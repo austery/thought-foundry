@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - Apple
@@ -44,10 +44,7 @@ people:
 - 胡锡进
 products_models:
 - iPhone
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=i6Z-U233qqk
 speaker: LT視界
@@ -60,7 +57,6 @@ tags:
 - society
 title: 苹果库克继任计划、川普与格林决裂、纽约市长曼达尼的社会主义挑战及中日冲突升级
 ---
-
 ### 财经头条：苹果CEO库克继任计划浮出水面
 
 今天，英国《金融时报》的一篇报道在国际财经界引起了广泛议论，标题为“苹果推进了执行长库克的继任计划”，预示着苹果公司即将更换领导人。报道指出，苹果公司董事会正加紧规划库克的继任者工作，准备让蒂姆·库克在明年辞去这家科技巨头的执行长一职。《金融时报》援引几位熟悉情况的人士的话说，负责苹果硬件工程的高级副总裁约翰·特努斯被广泛认为是库克最有可能的继承者。苹果公司内部讨论人士透露，其董事会和高阶管理人员最近加强了为库克在任14年后交出执行长的准备工作。该报道还宣称，苹果不太可能在1月下旬下一个财报之前任命新的执行长，这意味着库克最早也要在明年二季度下台。库克于2011年成为执行长，此前传奇的苹果创始人史蒂夫·乔布斯辞职。

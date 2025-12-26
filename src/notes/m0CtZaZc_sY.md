@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 自民党
@@ -38,10 +38,7 @@ people:
 - 李在明
 - 蒋介石
 - 石破茂
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m0CtZaZc_sY
 speaker: 三個水槍手
@@ -55,7 +52,6 @@ tags:
 - public-opinion
 title: 中日关系：从“政冷经热”到文化脱钩的深层矛盾与未来走向
 ---
-
 ### 中日关系现状与中国策略
 
 **武律:** 我觉得可能性不大，就是日本的名义不可能左转，而且我认为中国跟日本的关系有改善。我认为短时期内日本的政局也比较稳定。不是说中国怎么能够跟世界重新修好，那只有一个**二次改开**（Second Reform and Opening Up: 指中国在经济和社会领域进行新一轮的改革开放），我回去是吧？

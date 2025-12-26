@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-17'
@@ -15,10 +15,7 @@ people:
 - 刘晓波
 products_models:
 - DeepSeek
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9LzWf5W_-No
 speaker: 三個水槍手
@@ -32,7 +29,6 @@ tags:
 - urban
 title: 中国人的利益与国家利益真的一致吗？从天网、禁毒到残酷的社会共识
 ---
-
 ### 引言：个人利益与国家利益是否同向？
 
 今天我们探讨一个非常尖锐的问题，尤其对于海外的自由派人士而言。许多人为“爱国”提供了一种辩护：他们认为自己实实在在地从国家发展中获得了益处，那么爱国便是理所当然的。我们经常反驳这种观点，指出“国家好不等于你好”，中国的体制本质上是剥削性的。

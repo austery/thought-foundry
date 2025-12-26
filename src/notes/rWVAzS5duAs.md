@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Wren
@@ -10,8 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rWVAzS5duAs
 speaker: veritasium
@@ -25,7 +24,6 @@ tags:
 - technology
 title: 混凝土的奥秘：从古罗马到现代，以及你是否能浮在其中？
 ---
-
 ### 混凝土：定义与重要性
 
 我即将被混凝土掩埋。在这一切发生的同时，我将解释关于这种物质你需要知道的一切。

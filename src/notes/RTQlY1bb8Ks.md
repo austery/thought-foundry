@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RTQlY1bb8Ks
 speaker: 北美王路飞
@@ -21,7 +20,6 @@ tags:
 - llm
 title: 揭秘AI的致命缺陷：因果革命与数据思维的转变
 ---
-
 ### 大数据与AI的因果盲区
 
 本期节目将探讨一个可能冒犯到许多将**大数据**（Big Data: 指数据量巨大、增长速度快、数据类型多样的数据资产）奉为神明的人的观点：你比你的数据更聪明。尽管日常讨论中数据、算法和人工智能似乎无所不能，但一个残酷的真相是：数据，特别是我们引以为傲的大数据，本质上是极其愚蠢的。它能以惊人的效率揭示事物之间的**相关性**（Correlation: 指两个或多个变量在数值上表现出某种程度的同步变化），例如购买A商品的用户也倾向于购买B商品，但它永远无法解释“为什么”会发生这种关联。

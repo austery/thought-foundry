@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-22'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WXLVCZIUxpY
 speaker: EO
@@ -24,7 +22,6 @@ tags:
 - troubleshooting
 title: Traversal：AI如何革新软件故障排除，重塑软件维护
 ---
-
 ### 软件复杂性的挑战与停机成本
 
 The code is no longer being written by humans but by AI systems, so much more code is being written now by Cursor or Windsor for Copilot, and AI is going to write so much more code.

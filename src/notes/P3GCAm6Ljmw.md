@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - White House
@@ -32,10 +32,7 @@ people:
 - Robert Armstrong
 products_models:
 - Truth Social
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P3GCAm6Ljmw
 speaker: Patrick Boyle
@@ -49,7 +46,6 @@ tags:
 - trade-tariff
 title: 特朗普关税政策：全球贸易体系的裂痕与地缘政治工具
 ---
-
 ### 特朗普关税最后期限与全球市场反应
 
 本周市场紧张不安，因为唐纳德·特朗普（Donald Trump）就美国关税进行的贸易谈判所设的8月1日最后期限终于到期。特朗普此前已宣布对从美国许多最大贸易伙伴进口的商品征收关税，贸易谈判代表们争分夺秒地争取在最后期限前达成临时协议或延期。

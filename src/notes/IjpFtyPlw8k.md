@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Patreon
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IjpFtyPlw8k
 speaker: Money or Life 美股频道
@@ -26,7 +24,6 @@ tags:
 - model
 title: SOFI 2025年三季度财报深度解析：一站式金融平台战略与未来投资展望
 ---
-
 ### SOFI 2025年三季度财报亮点与公司愿景
 
 大家好，欢迎来到Money or Life美股频道。昨天晚上，美股盘前，**SOFI**（Fintech: 金融科技公司）发布了其2025年三季度财报。财报数字非常亮眼，营收和**EPS**（每股收益: Earnings Per Share，衡量公司盈利能力的指标）均超过预期，一如其以往的表现，总是击败预期。在仅有的一点**Sell Put**（卖出看跌期权: 一种期权策略，投资者通过卖出看跌期权收取权利金，并承诺在期权到期时以行权价买入标的资产）基础上，我昨天盘中进一步加仓了Sell Put。大约在两个月前，我对SOFI进行了深入分析，如果你对这家公司还不了解，欢迎观看我之前的视频。在分析之后，我个人对SOFI很有好感。这家公司的愿景是打造一个一站式金融服务平台，即“one stop shop for financial services”，他们目前正在实现这个愿景的路上。所谓一站式金融平台，就是从你出生到成人再到老年，你所需要的储蓄（saving）、花销（spending）、投资（investment），以及借贷（包括信用卡借贷和学生贷款借贷等），SOFI都能提供所有服务。在这次电话会议上，CEO还提到，除了这些传统业务，他们正向新兴业务扩张，例如基于区块链（blockchain）的全球支付**SOFI Pay**，以及在SOFI平台重新开始加密货币的买卖。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Google
@@ -18,10 +18,7 @@ people:
 - Lacan
 - Foucault
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3zrUct94IWQ
 speaker: Anthony看世界
@@ -35,7 +32,6 @@ tags:
 - society
 title: 批判《当下的力量》：放弃思维真的能带来自由吗？
 ---
-
 ### 引言：对流行思潮的深度剖析
 
 大家好，我是Anthony，欢迎来到我的频道。

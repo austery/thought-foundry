@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Weibo
@@ -19,10 +19,7 @@ people:
 - Foucault
 - Zhu Yuanzhang
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4wMEQyhigq4
 speaker: Anthony看世界
@@ -35,7 +32,6 @@ tags:
 - society
 title: 解读中国社会的隐形自我审查：权力、焦虑与意识形态的享乐机制
 ---
-
 ### 中国社会中的权力与享乐机制
 
 大家好，我是Anthony，欢迎来到我的频道。

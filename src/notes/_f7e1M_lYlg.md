@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -33,10 +33,7 @@ products_models:
 - iOS
 - Pixel
 - S&P 500 ETF
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_f7e1M_lYlg
 speaker: Shijun Tang
@@ -50,7 +47,6 @@ tags:
 - market-revaluation
 title: 谷歌：无敌的复利机器？深度解析其股价暴涨与未来潜力
 ---
-
 ### 谷歌股价飙升：从被质疑到“赢麻了”
 
 今天我们来谈一谈谷歌（Google）。显然，谷歌现在已经“赢麻了”！谷歌的股价在过去的200天里已经上涨了107.49%，妥妥地翻了两倍。这家前段时间还被投资人嗤之以鼻，认为其搜索业务即将被ChatGPT取代的公司，为什么能在这么短的时间内暴涨这么多呢？今天这期，我们将从公司最新财报、最新基本面以及公司护城河等多个方面，详细研究一下，看看谷歌是不是一台无敌的复利机器，它是否能在未来持续给股东赚钱。

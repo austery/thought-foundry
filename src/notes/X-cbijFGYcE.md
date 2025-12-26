@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - World Health Organization
@@ -14,9 +14,7 @@ media_books:
 - 《庄野杂谈第151集》
 people:
 - Justin Trudeau
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=X-cbijFGYcE
 speaker: 莊也雜談
@@ -30,7 +28,6 @@ tags:
 - society
 title: 加拿大人退休外流：十大热门国家（上）深度解析
 ---
-
 ### 加拿大：养老天堂光环褪去，退休外流成新趋势
 
 大家好，我是庄野，欢迎收看庄野杂谈。今天我们来聊一个比较有意思的话题：离开加拿大去哪里退休？您可能会觉得奇怪，加拿大素有“养老天堂”之称，为何还要去其他地方退休？如果这话放在三四年前，确实如此。那时的加拿大山清水秀，房价合理，医疗养老资源充裕，社会治安良好，除了天气稍冷，几乎没有大问题。只要培养冬季运动爱好，或选择温哥华、多伦多周边居住，冬天也并非难以忍受。

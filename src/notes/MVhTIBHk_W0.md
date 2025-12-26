@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 恒大
@@ -14,10 +14,7 @@ media_books:
 people:
 - 李兆基
 products_models: []
-project:
-- china-analysis
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MVhTIBHk_W0
 speaker: 政經孫老師
@@ -31,7 +28,6 @@ tags:
 - real
 title: 地產霸權的興衰：中國與香港經濟進入新階段的警示
 ---
-
 ### 地產霸權的衰落及其深遠影響
 
 今天我們來談一談**地產霸權**（Real Estate Hegemony: 指房地產行業在經濟中佔據主導地位，並通過土地和房價壟斷形成對社會的影響力）。無論是在中國大陸還是香港，房地產在經濟中都佔有非常重要的地位。有些人將這種現象總結為所謂的地產霸權。然而，這個曾經不可一世、非常強大的地產霸權，如今卻正在衰落，甚至消失。

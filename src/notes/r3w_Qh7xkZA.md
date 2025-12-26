@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=r3w_Qh7xkZA
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 超马选手苏英超：24小时极限耐力、低碳饮食与人体工程学模型
 ---
-
 ### 引言：超马选手苏英超的极限挑战
 
 欢迎来到初日会客室，我是宋晏仁医师。今天我们有幸邀请到一位特别的嘉宾——苏英超教练，他是一位达到国家标准的24小时**超级马拉松**（Ultra-marathon: 距离超过标准马拉松42.195公里的长跑赛事）跑者。苏教练在35岁时开始从事三铁的有氧耐力运动，但直到2019年，才通过**低碳**（Low-carb: 限制碳水化合物摄入的饮食方式）、**生酮**（Ketogenic: 一种极低碳水化合物、高脂肪的饮食，促使身体产生酮体作为能量来源）和**间歇性断食**（Intermittent Fasting: 在特定时间段内进食，其他时间段禁食的饮食模式）彻底改善了睡眠障碍。

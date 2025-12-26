@@ -9,8 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- historical-insights
+project: []
 series: null
 source: https://www.youtube.com/watch?v=LI-o2VWBQaU
 speaker: 北美王路飞
@@ -19,7 +18,6 @@ tags:
 - geopolitical
 title: 伊朗人为什么痛恨美国？1953：伊朗关键之年
 ---
-
 ## 引言：从1979年革命回溯历史之谜
 
 大家好，欢迎来到我的频道。谈及伊朗，我们可能都有这样的印象：在1979年之前，伊朗存在一个非常亲西方的巴列维君主制政府。它与英国和美国关系良好，人民生活美满，致力于现代化、开放市场经济，并计划逐步实现民主化进程，对女性权益也有保障。那时的伊朗女性权利，与现在这个政教合一的国家相比，简直是一个天上，一个地下。然而，伊朗人似乎不愿意过好日子，非要在1979年发动伊斯兰革命，推翻亲西方的皇室政府，建立一个政教合一的国家。结果导致如今被制裁，社会管制严格，女性权利丧失。这究竟是怎样的人民配怎样的政府？

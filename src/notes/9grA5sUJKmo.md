@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2024-03-23'
 draft: true
@@ -13,9 +13,7 @@ media_books:
 - CBC Marketplace
 people:
 - Olivia Chow
-project:
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9grA5sUJKmo
 speaker: 莊也雜談
@@ -29,7 +27,6 @@ tags:
 - system
 title: 加拿大汽車盜竊案猖獗：深度剖析背後原因與應對挑戰
 ---
-
 ### 加拿大汽車盜竊案：日益嚴峻的社會問題
 
 大家好，我是莊也。歡迎您收看莊也雜談加拿大系列節目。今天我們將繼續深度觀察系列，不過今兒的話題比較沉重。以前我們講的都是花兒朵朵開，今天咱們說一個比較可怕的話題，那就是最近幾年，在加拿大汽車失竊案件與日俱增，愈演愈烈。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Big Think
@@ -23,10 +23,7 @@ people:
 - Eliezer Yudkowsky
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jkXOudImoI0
 speaker: Big Think
@@ -40,7 +37,6 @@ tags:
 - rationalism
 title: 理性主义的局限：从苏格拉底到神经网络
 ---
-
 ### 理性主义的局限：从苏格拉底到神经网络
 
 

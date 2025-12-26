@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 中央银行
@@ -10,10 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Excel
-project:
-- investment-strategy
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_KqWctjw9kY
 speaker: 老周横眉
@@ -27,7 +24,6 @@ tags:
 - value
 title: 学校不教、父母不懂的金融知识：普通人如何用时间价值、IRR等概念实现财富逆袭
 ---
-
 ## 学历贬值时代，普通人必须掌握的金融知识
 
 老周横眉：两周前，我给大家分析了中国失控的青年失业率。在学历贬值（学历贬值：指学历的实际价值和社会认可度下降，高学历不再能保证高收入和好工作的现象）已经成为既定现实，并且预计将会持续很长一段时间的情况下，评论区里很多年轻人和家长都觉得很迷茫，不知道未来的路要怎么走。

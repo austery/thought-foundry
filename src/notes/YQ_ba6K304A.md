@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - 万科
@@ -37,10 +37,7 @@ people:
 products_models:
 - H200
 - Blackwell
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YQ_ba6K304A
 speaker: 小翠時政財經
@@ -53,7 +50,6 @@ tags:
 - war
 title: 万科救市传闻引爆地产股，科技战升级与美联储政策走向：深度解析
 ---
-
 ### 技术故障与节目开场
 
 首先，非常抱歉，由于麦克风出现技术故障，今天的节目可能会稍微受到影响，请大家将就一下。因为我原先那个话筒暂时好像修不好。OK，那我们现在ok的话，我们就开始今天的节目，不好意思，技术故障。

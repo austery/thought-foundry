@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 初日診所
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - 鄧雯心醫師
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7YEzzDLLG7E
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +25,6 @@ tags:
 - society
 title: 婦女更年期身心困擾：從35歲到70歲的荷爾蒙挑戰與應對策略
 ---
-
 ### 更年期症狀的廣泛性與提早
 
 許多人以為**更年期**（Menopause: 女性卵巢功能逐漸衰退，月經停止的生理階段）是50歲才需要煩惱的事情，但事實並非如此。鄧雯心醫師指出，女性常常在35歲或40歲時就可能出現更年期相關症狀。這些症狀中，最困擾大家的往往是身心層面的表現，例如焦慮、憂鬱、易怒和失眠。為此，鄧醫師特別邀請了身心科專家蕭美君醫師，共同探討這些問題。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -14,10 +14,7 @@ people:
 - Mark Carney
 products_models:
 - Golden Dome
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6wBiU62WgUU
 speaker: TVO Today
@@ -30,7 +27,6 @@ tags:
 - technology
 title: 加拿大国防开支与现代战争：准备好了吗？
 ---
-
 ### 加拿大国防开支与现代战争的挑战
 
 主持人：国防开支是2025年联邦预算中的一个主要项目。

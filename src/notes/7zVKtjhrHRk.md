@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 美国财政部
@@ -23,10 +23,7 @@ products_models:
 - 半导体
 - 稳定币
 - VIX市场风险指数
-project:
-- china-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7zVKtjhrHRk
 speaker: 政經孫老師
@@ -40,7 +37,6 @@ tags:
 - us-china-relations
 title: 中国股市异常上涨与政治传言：一场短期套利与长期风险的博弈
 ---
-
 ### 中国股市的异常上涨与政治传言
 
 近期，中国上海和香港的股票指数均出现不同程度的上升，这一现象显得异常奇特。因为中国经济的整体数据，特别是内需消费，并没有出现明显的起色，也没有传出任何内在的重大利好消息。在实体经济一路下跌的情况下，股市却反常上涨，这种矛盾现象引发了广泛关注。

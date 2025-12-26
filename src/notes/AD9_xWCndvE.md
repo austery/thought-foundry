@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - NBC
@@ -14,9 +14,7 @@ media_books:
 - The Tonight Show
 products_models:
 - '[]'
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AD9_xWCndvE
 speaker: 徒步的騎手
@@ -30,7 +28,6 @@ tags:
 - society
 title: 没人真正在乎你：华裔脱口秀女星的顿悟与聚光灯效应的解放
 ---
-
 ### 华裔脱口秀女星的顿悟：没人真正在乎你
 
 前两期节目讨论了阴谋论和自来水，今天我们来聊聊脱口秀。来到美国后，我开始看脱口秀，这几年美国脱口秀行业有一个显著变化，那就是华裔演员的崛起，尤其是华裔女性脱口秀演员。其中有一位名叫Leslie Liao，她相当出色。Leslie的节目登上了NBC电视网的《The Tonight Show》（今夜秀），也上了Netflix（奈飞）。

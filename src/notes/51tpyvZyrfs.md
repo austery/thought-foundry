@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-16'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=51tpyvZyrfs
 speaker: Best Partners TV
@@ -23,7 +22,6 @@ title: DeepMind Genie 3与世界模型：AI理解世界是通往AGI的必经之�
 companies:
 - deepmind-genie-3
 ---
-
 ### 引言：Genie 3与世界模型的核心议题
 
 2025年8月12日，Google开发负责人洛根·基尔帕特里克（Logan Kilpatrick）与DeepMind的首席执行官德米斯·哈萨比斯（Demis Hassabis）进行了一场信息量丰富的对谈。此次访谈不仅涉及**通用人工智能**（AGI: Artificial General Intelligence, 具备与人类同等或超越人类智能水平的人工智能）的进展和AI未来所需具备的能力，更重点提及了DeepMind刚刚发布的**Genie 3**（DeepMind Genie 3: DeepMind开发的100%可控、实时的AI世界引擎）。Genie 3是一个100%可控、实时的AI世界引擎，其视频演示已广为人知。或许有人会认为这不过是一个高端的视频生成器，但实际上，Genie 3背后代表的是一个最值得深入讨论的概念——**世界模型**（World Model: AI在内部构建的环境模拟器，用于预测结果、想象未来和评估策略）。今天，我们将借此访谈内容，探讨一个可能之前很少思考的问题：如果一个AI不理解这个世界，它还能算是智能的吗？

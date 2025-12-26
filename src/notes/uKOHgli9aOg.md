@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bank of America
@@ -16,10 +16,7 @@ layout: post.njk
 media_books:
 - Fed's Beige Book
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uKOHgli9aOg
 speaker: Joseph Wang
@@ -33,7 +30,6 @@ tags:
 - regional-bank
 title: 市场周报：区域银行风险、经济现状与黄金白银的抛物线式上涨
 ---
-
 ### 市场概览与政府停摆影响
 
 大家好，今天是10月18日，这里是《市场周报》。过去一周市场波动剧烈，但如果将时间拉长到过去几个月，股市似乎只会上涨，而现在则出现了双向风险，有时也会下跌。这或许表明市场情绪有所转变。

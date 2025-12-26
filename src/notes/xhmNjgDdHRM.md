@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - 国信证券
@@ -15,9 +15,7 @@ layout: post.njk
 media_books:
 - 硅谷101播客
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xhmNjgDdHRM
 speaker: 硅谷101播客
@@ -31,7 +29,6 @@ tags:
 - technology
 title: 日本“失去的30年”：如何锻造出中国的餐饮“排队王”？
 ---
-
 ### 中国餐饮新“排队王”：逆势增长的日本品牌
 
 在如今竞争激烈的中国餐饮市场，来自日本的连锁餐饮品牌寿司郎和滨寿司，却在一线城市的商场里异军突起，成为了新的“排队王”。在高峰时段，想吃上一顿寿司郎，排队等候两小时已是常态。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -17,10 +17,7 @@ people:
 products_models:
 - ChatGPT
 - Starlink
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OqIR8ySVgUA
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - western-dynamism
 title: Marc Andreessen 谈 AI 竞赛、地缘政治与西方活力
 ---
-
 ### 投资哲学与宏观挑战
 
 主持人: 嗨，马克，很高兴再次见到你。

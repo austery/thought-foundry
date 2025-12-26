@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NGOAUJtdk-4
 speaker: Anthropic
@@ -26,7 +24,6 @@ tags:
 - system
 title: AI能否编程机器人狗？Anthropic实验揭示AI对机器人开发的加速作用
 ---
-
 ### AI与物理世界的交汇：机器人技术的崛起
 
 如今，人们的关注点大多集中在**前沿AI模型**（Frontier AI Models: 指最先进、能力最强的AI模型）如何变革**软件工程**（Software Engineering: 利用工程化方法开发、维护软件的学科）上。我们感兴趣的是，这种变革如何开始转化为**物理世界**（Physical World: 现实物质世界，与虚拟世界相对）中的应用。**机器人技术**（Robotics: 涉及机器人设计、制造、操作和应用的科学技术）正是让一个主要由软件组成的系统，开始具备能力延伸到现实世界的明确切入点。

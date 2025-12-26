@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Lehman Brothers
@@ -14,9 +14,7 @@ products_models:
 - Dow Jones Industrial Average
 - VIX
 - Dodd-Frank Act
-project:
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5PUr_jpJGcg
 speaker: Adam's Axiom
@@ -30,7 +28,6 @@ tags:
 - systemic-risk
 title: 经济史上最糟糕的日子：从黑色星期二到全球疫情
 ---
-
 ### 1929年黑色星期二：大萧条的序幕
 
 您知道吗，1929年股市在一天之内惊人地损失了12%的价值？欢迎来到**黑色星期二**（Black Tuesday: 1929年10月29日，美国股市崩盘日），这是1929年**股市崩盘**（Stock Market Crash: 股票市场价格急剧下跌的事件）的严峻高潮。这一天，经济受到了巨大冲击，并在美国民众心中留下了持久的创伤。

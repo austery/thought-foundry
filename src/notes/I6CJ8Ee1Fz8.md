@@ -82,10 +82,7 @@ products_models:
 - HBO Max
 - QQQ
 - Ethereum
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I6CJ8Ee1Fz8
 speaker: Amit Kukreja
@@ -99,7 +96,6 @@ tags:
 - technical-analysis
 title: 市场收盘分析：财报季风云再起，特朗普暗示新任美联储主席人选
 ---
-
 ### 市场概览与财报预告
 
 好的，大家好，欢迎回到新一期的《市场收盘》直播节目。我们有很多内容要讨论，此外，还有大量的财报需要解读。

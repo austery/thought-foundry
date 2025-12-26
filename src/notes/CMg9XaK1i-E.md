@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - Nvidia
@@ -46,10 +46,7 @@ products_models:
 - Bitcoin
 - Dogecoin
 - Market Vector 数字资产100小新股指数
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CMg9XaK1i-E
 speaker: LT視界
@@ -62,7 +59,6 @@ tags:
 - market
 title: 中国经济数据迷雾与民生悲歌：全球政治与市场动态下的多重挑战
 ---
-
 ### 财经头条：英伟达财报与加密货币市场
 
 今天，我们将分享不能错过的财经头条。首先是路透社的报道，标题指出**魏德布什**（Wedbush: 一家美国投资银行和财富管理公司）分析师称英伟达财报将成为人工智能验证时刻。本周让华尔街投资者最紧张的事情，是周三盘后英伟达将发布财报。昨天在**X平台**（X Platform: 即Twitter，一个社交媒体平台）上与网友分享了一幅美国财经媒体的漫画，描绘了一栋倾斜即将倒塌的大厦，由几根标写着“英伟达”的柱子支撑。这幅漫画在X平台上传播很广，传递出市场情绪：许多投资者认为当前美股市场的高位，英伟达起到了中流砥柱或支撑作用。假如英伟达出现问题，或者其财报未能给市场带来信心，那么不仅是英伟达自身股价的崩塌，它还会让整个美国股市出现剧烈下跌。

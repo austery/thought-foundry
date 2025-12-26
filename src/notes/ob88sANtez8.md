@@ -23,8 +23,7 @@ products_models:
 - Express
 - PostgreSQL
 - Minecraft
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ob88sANtez8
 speaker: AI超元域
@@ -38,7 +37,6 @@ tags:
 - development
 title: 深度测评：谷歌Gemini 3 Pro与Anti-Gravity IDE前端编程能力，对比Claude Sonnet 4.5
 ---
-
 ### 谷歌Gemini 3 Pro模型与Anti-Gravity IDE深度测评
 
 谷歌在今天凌晨发布了**Gemini 3 Pro**（Google's latest large language model: 谷歌最新发布的大型语言模型），这款模型在多项基准测试中的得分非常高，甚至超越了Cloud 3.5和GPT 5.1。然而，经过一早上的测试发现，Gemini 3 Pro在前端编程方面的能力与**Cloud 3.5**（Anthropic's large language model: Anthropic公司开发的大型语言模型）比较接近，两款模型在前端编程能力方面没有非常明显的差距。目前，用户可以直接在**Google AI Studio**（Google's platform for AI development: 谷歌提供的AI开发平台）中使用Gemini 3 Pro Preview模型。同时，谷歌还发布了**Google Anti-Gravity**（Google's new integrated development environment: 谷歌新推出的集成开发环境），这款产品对标Cursor和Windsoft等编程**IDE**（Integrated Development Environment: 集成开发环境）。

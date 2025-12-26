@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs: []
 date: '2025-05-16'
@@ -16,10 +16,7 @@ people:
 - 罗振宇
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mnbyRLqYlw8
 speaker: 王红雨
@@ -34,7 +31,6 @@ tags:
 - work
 title: 加拿大工作、收入与财富：在不确定时代如何平衡一生
 ---
-
 ### 引言：加拿大人的收入、工作与财富
 
 大家好，欢迎再次回到我的频道。今天是2025年5月16号。今天要和大家聊一个每个人都很关心而且很敏感的话题，那就是加拿大人的收入、工作和财富。我先跟大家说说我对这个问题的一些看法，主要有四个观点，然后用整期视频来跟大家解释我为什么会这么想。

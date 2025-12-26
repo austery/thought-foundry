@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 腾讯
@@ -28,9 +28,7 @@ people:
 - 孙中山
 - 柴静
 - 易富贤
-project:
-- china-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9CJrY24EgVE
 speaker: 三個水槍手
@@ -43,7 +41,6 @@ tags:
 - political
 title: 《三个水枪手》百期特辑：我们如何相识、评价彼此，并与听众真诚对话
 ---
-
 ### 百期感言与节目缘起
 
 **武雷:** 能做到100期很厉害，已经很厉害了。到去年我们诞生这个主意，正好满一年。

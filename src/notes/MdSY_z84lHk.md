@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - META
@@ -18,10 +18,7 @@ people:
 - Mark Zuckerberg
 products_models:
 - Sora 2
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MdSY_z84lHk
 speaker: Shijun Tang
@@ -35,7 +32,6 @@ tags:
 - non
 title: META财报暴跌14.36%背后的真相：复利机器还是烧钱深渊？
 ---
-
 ### META股价暴跌14.36%：一场财务地震的表象与本质
 
 META最新财报发布后，股价单日暴跌14.36%，震惊市场。许多投资者开始质疑：这家曾被视为“复利机器”的科技巨头，是否已走向衰落？本期内容将基于其财报数据，逐层剖析这场暴跌背后的真正原因。

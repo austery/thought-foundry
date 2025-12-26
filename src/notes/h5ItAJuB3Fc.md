@@ -12,9 +12,7 @@ people:
 - Claude Shannon
 products_models:
 - LLMs
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h5ItAJuB3Fc
 speaker: AI Engineer
@@ -27,7 +25,6 @@ tags:
 - human
 title: AI生成内容的感知评估：美学与人类视角的挑战
 ---
-
 ### 引言：AI评估中的人类感知缺失
 
 大家好，我是 **Diego Rodriguez**，**Krea.ai**（一家专注于生成式媒体、多媒体和多模态等热门领域的AI初创公司）的联合创始人。我今天主要想分享一个故事，关于当我们必须将人类感知、人类观点和美学纳入考量时，如何进行评估。

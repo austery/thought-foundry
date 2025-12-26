@@ -21,10 +21,7 @@ people:
 - 金正恩
 products_models:
 - GPT-4
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6Pvd4vvQQOM
 speaker: 北美王路飞
@@ -37,7 +34,6 @@ tags:
 - stock
 title: 直播切片「川粉川黑连麦与大川聊枫糖小猫回国事件！」@ZoroLiu @大川在日本 @LaoYinTalk
 ---
-
 ### 政治角色探讨
 
 大家好，欢迎连麦。提前祝大家圣诞快乐。有人说我的角色像“司礼监掌印大太监”，有点意思。但我仔细想了想，这个角色更像是明朝的内阁总理大臣，负责批阅奏折，决定哪些奏折能呈给皇帝看。这其实是内阁的权力。最重要的职责是阻止总统做不好的事情，这是幕僚长制度的关键。我曾想是否有更好的办法，但似乎没有。让一个反对派变成体制内的人是不可能的，必须是总统最信任的人，才能说真话，帮助管理内政。这要求总统有高度的自制力和政治智慧。

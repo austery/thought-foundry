@@ -15,10 +15,7 @@ layout: post.njk
 media_books:
 - 《2025中国城市住房断供率研究报告》
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zPghdBSEhk4
 speaker: 小翠時政財經
@@ -30,7 +27,6 @@ tags:
 - non
 title: 透视中国银行三季度财报：经济未触底，风险持续累积，央行降息展望
 ---
-
 ### 中国经济宏观脉搏：透过银行财报看变化
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月4日。本期节目，我们将透过银行财报来观察宏观经济变化，为中国经济把脉。今年中国股市表现良好，从年初至今，上证指数已上涨超过20%，甚至一度冲上4,000点。那么，资本市场的火热能否缓解目前中国银行业面临的利润压力？又是否能提振市场信心呢？本期节目，我们将从三季度的银行财报中寻找答案。

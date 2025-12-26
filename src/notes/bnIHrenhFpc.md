@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Amazon
@@ -19,9 +19,7 @@ people:
 products_models:
 - ChatGPT
 - AlphaGo
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bnIHrenhFpc
 speaker: 硅谷101
@@ -35,7 +33,6 @@ tags:
 - reinforcement-learning
 title: 强化学习：通往通用人工智能（AGI）之路的关键挑战与未来方向
 ---
-
 ### 引言与嘉宾介绍
 
 **主持人 (Bill):** 好的，各位早上好！我很高兴今天能与各位优秀的嘉宾进行小组讨论。事实上，他们都是我多年的朋友，我认识他们每个人已经好几年了。所以，很高兴能有这个机会与我的朋友们在这里重聚。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -10,8 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9oOvmEfdxPE
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -25,7 +24,6 @@ tags:
 - stress-management
 title: 甲狀腺：身體的「小蝴蝶」如何影響你的代謝、疲倦與體重？醫師教你讀懂驗血報告
 ---
-
 ### 引言：身體的「小蝴蝶」與代謝開關
 
 一位32歲的男性工程師常常感到壓力大，即使難得睡了6到7小時，仍然覺得疲累。你以為這是年紀到了嗎？其實是身體誤以為你在冬眠，開啟了省電模式。而影響這個省電模式的關鍵，就是我們的**甲狀腺**（Thyroid gland: 位於頸部，負責分泌甲狀腺激素，調節新陳代謝）。這個健康的指標絕對不能漏掉。今天這支影片將教大家理解並看懂檢測報告的重要訊息。

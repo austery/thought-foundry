@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Google
@@ -12,8 +12,7 @@ products_models:
 - GPT-4 Turbo
 - Claude 4.5
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6wuIT0DU1Jk
 speaker: AI超元域
@@ -26,7 +25,6 @@ tags:
 - performance
 title: 谷歌发布Gemini 3 Flash：OCR能力惊艳，但复杂编码挑战重重
 ---
-
 谷歌在今天凌晨发布了全新的 **Gemini 3 Flash**（Google推出的最新AI模型）模型。目前，我们可以直接在 **Google Studio**（一个用于使用Google AI模型的环境）中使用该模型，并且在谷歌推出的AI编程助手**中**，我们也可以直接使用这款模型。在模型列表中，只需下拉即可找到 **Gemini 3 Flash**。
 
 ### 价格与性能

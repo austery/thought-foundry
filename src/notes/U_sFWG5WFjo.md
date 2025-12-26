@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies:
 - psychedelic-therapy
@@ -27,9 +27,7 @@ products_models:
 - Prozac
 - Valium
 - Heroin
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U_sFWG5WFjo
 speaker: Big Think
@@ -42,7 +40,6 @@ tags:
 - set-and-setting
 title: 迷幻药科学：从大脑机制到心理治疗的革命性潜力
 ---
-
 ### 迷幻药的独特魅力：一次体验何以改变一生
 
 我是马特·约翰逊，约翰斯·霍普金斯大学的精神病学和行为科学教授。我研究各种药物：兴奋剂、镇静剂以及全方位作用的药物。在过去近二十年里，我研究最多的药物类别是**迷幻药**（英文 Psychedelics: 源于希腊语，意为“心灵显现”，指一类能显著改变人的意识、情绪和感知的药物）。

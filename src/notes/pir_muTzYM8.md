@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - US Navy
@@ -12,9 +12,7 @@ people:
 - Derek Muller
 products_models:
 - Brilliant
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pir_muTzYM8
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - technology
 title: 美国海军室内海洋：波浪物理与舰船设计的创新测试
 ---
-
 ### 探索海军的室内海洋：全球最大的造浪池
 
 我现在在美国海军位于**卡德罗克**（Carderock: 美国海军水面作战中心的一个部门）的室内海洋设施。

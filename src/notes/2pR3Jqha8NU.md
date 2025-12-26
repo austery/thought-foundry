@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -62,10 +62,7 @@ products_models:
 - Grok
 - Llama
 - Vision Pro
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2pR3Jqha8NU
 speaker: Amit Kukreja
@@ -79,7 +76,6 @@ tags:
 - technology
 title: 谷歌TPU挑战英伟达霸权？市场深度解析谷歌市值冲刺4万亿与英伟达股价震荡
 ---
-
 ### 谷歌市值冲向4万亿，英伟达应声下跌
 
 早上好，各位。欢迎回到新一期的《市场开盘》。今天是11月25日，星期二。过去24小时，全球两家主要公司——谷歌和英伟达——发生了一些疯狂的事情。谷歌即将以4万亿美元的估值开盘。考虑到不久前，大约在四五月份，这只股票还停留在140美元，现在看到这一幕真是相当不可思议。目前，该股在盘前交易中达到331美元。两周前它突破了300美元，一周前超过了310美元，昨天突破了318美元。昨夜价格为320美元，然后一项小交易的宣布导致这只股票飙升。我们将在开盘时看看人们是会利用这个机会卖出，还是会买入这股炒作热潮。而这股热潮非常真实，这也是我认为谷歌在盘前交易中获得如此高估值的原因。谷歌股价为331.15美元，上涨了3.95%。

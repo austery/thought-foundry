@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Google
@@ -58,10 +58,7 @@ products_models:
 - AGI
 - Gemini 3
 - Transformer
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=06w6QGGPnhs
 speaker: 人民公園說AI
@@ -76,7 +73,6 @@ tags:
 - war
 title: Scaling Law 终结后，AI 创业的泡沫会在 2026 年破裂吗？
 ---
-
 ### AI 创业公司的“幸”与“不幸”
 
 最近，我对于 AI 创业公司的机会信心指数，从两年前的 80 分骤降到了现在的 20 分。如今在 AI 领域创业变得异常艰难，任何一个软件产品，都很有可能在 6 到 12 个月内，因为某个大模型的更新而被彻底颠覆。

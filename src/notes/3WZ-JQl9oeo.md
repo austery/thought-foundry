@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P 500
@@ -55,10 +55,7 @@ products_models:
 - Azure
 - Google Cloud
 - ChatGPT
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3WZ-JQl9oeo
 speaker: Amit Kukreja
@@ -71,7 +68,6 @@ tags:
 - technology
 title: 疯狂的周五：市场在剧烈波动中收涨，展望年末行情
 ---
-
 ### 疯狂的一天：市场在剧烈波动中收涨
 
 好的，大家好。欢迎回到新一期的收盘速递。我们正在直播，今天真是疯狂的一天。不仅是今天，整个星期都非常疯狂。但今天尤其狂野。

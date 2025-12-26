@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Netflix
@@ -35,10 +35,7 @@ people:
 - 柴静
 products_models:
 - 真朋友APP
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TKKMWlTK3eE
 speaker: 北美王路飞
@@ -52,7 +49,6 @@ tags:
 - taiwan-politics
 title: 台湾“大罢免”事件：政治博弈、社会分裂与两岸关系的深层思考
 ---
-
 ### 播客开场与嘉宾介绍
 
 **王路飞:** 大家好，非常高兴来到本期的播客节目。我们和Neo联动录一期非常神奇的线下节目。那么今天呢，非常高兴Neo请到了许教授。

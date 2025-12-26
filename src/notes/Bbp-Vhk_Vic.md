@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs:
 - AMD
@@ -121,10 +121,7 @@ products_models:
 - MI450
 - Blackwell
 - Ozempic
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Bbp-Vhk_Vic
 speaker: Amit Kukreja
@@ -137,7 +134,6 @@ tags:
 - market-volatility
 title: 市场解读：选举尘埃落定，加密货币企稳，财报季喜忧参半
 ---
-
 ### 选举尘埃落定与市场隔夜动荡
 
 大家早上好，欢迎回到新一期的市场开盘直播。现在是11月5日，星期三。我们有很多事情要谈。昨天有大量的财报发布，我们稍后会深入探讨。昨天还举行了大量选举，民主党在全国范围内几乎大获全胜，包括纽约市。Zoron（应为 Mandani）现在是纽约市长。

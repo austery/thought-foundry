@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - 中共中央
@@ -26,10 +26,7 @@ media_books:
 people:
 - Xi Jinping
 - 高善文
-project:
-- china-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fQBfTHRgwe0
 speaker: 老周横眉
@@ -44,7 +41,6 @@ tags:
 - society
 title: 中国经济的‘内卷’困境与中共的‘反内卷’挑战
 ---
-
 ### 中国经济的“内卷”困境与政府的应对
 
 7月份，中国经济领域最引人瞩目的一件大事是中共中央向市场发出了一个强烈信号：他们真的要在**反内卷**（Involution: 指非理性的内部竞争，导致投入与产出比下降，甚至负增长的现象）和**去产能**（Overcapacity Reduction: 削减过剩的生产能力）上动真格了。7月1日，中央财经委员会第六次会议明确表示要治理企业低价无序竞争；7月24日，中共党刊《求是》杂志发表文章，强调要“深刻认识和综合整治内卷式竞争”。

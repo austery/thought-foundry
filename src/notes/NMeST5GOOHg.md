@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NMeST5GOOHg
 speaker: Bloomberg Podcasts
@@ -25,7 +22,6 @@ tags:
 - technology
 title: 美股再创纪录，科技股领涨，人工智能和航空数据中断成焦点
 ---
-
 ### 市场收盘与全球同步直播
 
 And right now we are 2 minutes away from

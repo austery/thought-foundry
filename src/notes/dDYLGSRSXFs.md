@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 网信办
@@ -22,10 +22,7 @@ people:
 - 柴静
 - 郭文贵
 - 刘仲敬
-project:
-- china-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dDYLGSRSXFs
 speaker: FearNation 世界苦茶
@@ -38,7 +35,6 @@ tags:
 - social-control
 title: 从户晨风事件解析网信办“清朗行动”：当国家开始治理你的情绪
 ---
-
 ### 引言：超越“压制真相”与“口袋罪”的传统解读
 
 今天我们来探讨一个大家非常熟悉的话题——网信办的**清朗行动**（Qinglang Campaign: 由中国国家互联网信息办公室发起的一系列旨在“净化”网络环境的专项整治行动）。自2016年起，尤其是在疫情之后，清朗行动的频率和知名度都越来越高。

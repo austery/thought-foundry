@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - New York Times Podcasts
@@ -14,8 +14,7 @@ media_books:
 people:
 - Anna Martin
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9fvrxJoZZAQ
 speaker: New York Times Podcasts
@@ -29,7 +28,6 @@ tags:
 - personal-resilience
 title: 在生命尽头找到爱与魔法：一个关于希望与重逢的故事
 ---
-
 ### 序言：重温爱的故事
 
 主持人安娜·马丁：大家好，我是安娜。今天我想重温我最喜欢的一集。我们大约在一年前录制了这一集，我至今仍常常想起它。请务必听到最后，因为我们为大家准备了一个非常甜蜜的更新。

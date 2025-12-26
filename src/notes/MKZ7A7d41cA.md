@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 世界银行
@@ -23,10 +23,7 @@ people:
 - 陈水扁
 - 马英九
 - 蔡英文
-project:
-- geopolitics-watch
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MKZ7A7d41cA
 speaker: 超級歪 SuperY
@@ -40,7 +37,6 @@ tags:
 - social
 title: 新青安推高房价？台湾居住正义30年改革路与未来解方
 ---
-
 ### 新青安与台湾高房价困境
 
 在**新青安**（青年安心成家购屋优惠贷款：台湾政府为协助青年购屋而推出的优惠房贷方案）上路一周年之际，许多人都在追问：居住正义是否已经实现？为何仍有大量年轻人买不起房，反而房价被进一步推高？数据显示，今年5月，新青安房贷占五大银行新承做房贷的40.6%，创下近八年新高。有人将**新青安**形容为给年轻人打兴奋剂，认为在房价高企时推出激励措施，反而让原本可能降温的房市再次抬头。李同荣认为，新青安吸引了超过三成的虚假需求介入，从而推高了房价，且难以查核，恐将扭曲市场机制。

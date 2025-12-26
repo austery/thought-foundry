@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-04'
@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - joseph-wang
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-e28TXJWSIY
 speaker: Joseph Wang
@@ -26,7 +24,6 @@ tags:
 - market
 title: 市场周报：政府停摆与劳动力市场数据解读
 ---
-
 ### 本周市场概览与焦点
 
 Hello my friends. Today is October 4th, and this is Markets Weekly.

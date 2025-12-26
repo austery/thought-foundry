@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 一席YiXi
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《回家》
 products_models: []
-project:
-- historical-insights
-- knowledge-pipeline
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=byrdesSjW4w
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - technology
 title: 与分离的家庭共筑远距离亲子互动的桥梁
 ---
-
 ### 桥梁的起点：一次支教带来的震撼
 
 大家好，我叫钟郁含，是“一起长大”项目的发起人。这个项目致力于支持乡村家庭进行远距离亲子互动。在许多乡村，父母因务工不得不与孩子长期分离——但这并非仅限于农村的家庭经验。今天我想探讨的是：当父母与孩子被迫分隔两地时，如何跨越时间和空间的障碍，重建真正的情感联结。

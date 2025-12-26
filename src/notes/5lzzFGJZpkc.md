@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -16,10 +16,7 @@ people:
 - Donald Trump
 - Steve Bannon
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5lzzFGJZpkc
 speaker: New York Times Podcasts
@@ -33,7 +30,6 @@ tags:
 - war
 title: 飓风梅丽莎强度飙升，特朗普三度竞选总统计划引争议
 ---
-
 ### 飓风梅丽莎：加勒比海的灾难性威胁
 
 来自《纽约时报》的头条新闻。今天是10月28日星期二。以下是我们今天关注的重点。

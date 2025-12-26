@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 摩根大通
@@ -46,10 +46,7 @@ people:
 products_models:
 - MSCI中国指数
 - MSCI亚太指数
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fuHksgcx98c
 speaker: LT視界
@@ -63,7 +60,6 @@ tags:
 - market
 title: 摩根大通预测反转、华盛顿枪击案与中日外交：全球热点深度解析
 ---
-
 ### 美国感恩节与市场动态
 
 今天是11月27日，也是美国的**感恩节**（Thanksgiving: 美国和加拿大等国家的重要节日，通常在每年11月的第四个星期四，家人团聚，感谢丰收和祝福）。一年一度的纽约**梅西感恩节大游行**（Macy's Thanksgiving Day Parade: 每年感恩节在纽约市举行的大型游行活动，以巨型气球和花车闻名）是全美假日季开启的一个重大标志。从今天开始，美国人将一直处在节日的氛围之中，人们见面会互相祝贺节日快乐，美国的商业零售也将进入全年的一个高峰期。今年的梅西大游行有8000人参加，有42个大型气球和28辆花车，全球有5000万名观众通过直播收看了今天的大游行。

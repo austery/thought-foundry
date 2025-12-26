@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -54,10 +54,7 @@ products_models:
 - ChatGPT
 - Sora
 - XAI
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EufqQyyJLHk
 speaker: Bloomberg Podcasts
@@ -71,7 +68,6 @@ tags:
 - public-trust
 title: 人工智能的政治影响即将爆发：一场跨越左右翼的民粹主义反弹
 ---
-
 ### 人工智能：从技术奇迹到政治引爆点
 
 **Joe Weisenthal:** 大家好，欢迎收听新一期的Odd Lots播客。我是Joe Weisenthal。

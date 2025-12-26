@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Micron
@@ -20,10 +20,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3qMcVdcwOtE
 speaker: Shijun Tang
@@ -37,7 +34,6 @@ tags:
 - technology
 title: 美光、Visa、Mastercard与Lululemon：半导体寒冬中的寡头红利与支付网络的坚不可摧
 ---
-
 ### 美光科技：三星陨落后的内存寡头红利
 
 又到了每个季度对美光（Micron）进行复盘的时刻，这是2025年的第一支视频。在这里，我也祝大家新年快乐，愿新的一年投资顺利。

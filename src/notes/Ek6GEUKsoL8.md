@@ -92,10 +92,7 @@ products_models:
 - Avocado
 - Neutron
 - MI450
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ek6GEUKsoL8
 speaker: Amit Kukreja
@@ -108,7 +105,6 @@ tags:
 - market-outlook
 title: 市场动态：英伟达中国销售、Netflix收购战、美联储降息预期与AI前沿
 ---
-
 ### 市场开盘与主持人健康更新
 
 大家早上好，欢迎回到《市场开盘》节目。

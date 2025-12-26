@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=88qKM2hIPhY
 speaker: 海淀拙大叔
@@ -25,7 +22,6 @@ tags:
 - market-outlook
 title: 阿甘经济宏观论：四大预判验证中国经济周期与投资展望
 ---
-
 ### 经济宏观预判的验证与周期分析
 
 阿甘经济宏观论的第28篇，第四个预判已得到验证。在9月14日这个周日，我们回顾一下今年年初提出的五个预判。第一个预判是**四大周期**（Four Major Cycles: 经济学中常见的周期理论，包括基钦周期、朱格拉周期、库兹涅茨周期和康波周期）见底。具体来说，**基钦周期**（Kitchin Cycle: 短期库存周期）、**朱格拉周期**（Juglar Cycle: 中期投资周期）、**库兹涅茨周期**（Kuznets Cycle: 长期建筑业周期，也常指房地产周期）以及**康波周期**（Kondratiev Wave: 长期技术创新周期）在中国都已见底。从股市持续上涨一年多的情况来看，这个预判基本准确，但最终验证还需要两到三年。

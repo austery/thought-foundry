@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-06'
@@ -11,8 +11,7 @@ media_books:
 - bg2-pod
 products_models:
 - gpt-5
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yLTSqBzKG2s
 speaker: Bg2 Pod
@@ -27,7 +26,6 @@ title: OpenAI 平台工程与产品负责人谈企业级应用、GPT-5 及自主
 companies:
 - openai-enterprise
 ---
-
 ### 物理自主性领先数字自主性：2025年的现状与技术根源
 
 In San Francisco, you could take a car from one part of SF to the other fully autonomously. As opposed to the digital world, I can't book a ticket online right now. Physical autonomy is ahead of digital autonomy in 2025. I think AI agents are like really in day one here. Like ChatGPT only came out in 2022. The slope I think is incredibly steep. I actually do think self-driving cars have a good amount of scaffolding in the world. You have roads, roads exist. They're pretty standardized. Stoplights. AI agents are just kind of dropped in the middle of nowhere.

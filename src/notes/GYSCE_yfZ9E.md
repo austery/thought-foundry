@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Alphabet
@@ -44,10 +44,7 @@ products_models:
 - Chrome
 - Google Cloud
 - Google Workspace
-project:
-- ai-impact-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GYSCE_yfZ9E
 speaker: Best Partners TV
@@ -61,7 +58,6 @@ tags:
 - strategy
 title: 谷歌2025年Q3财报：AI全栈战略驱动营收破千亿，重塑业务版图
 ---
-
 ### 谷歌Q3财报里程碑：营收首破千亿，AI驱动全面增长
 
 10月29日，谷歌母公司**Alphabet**（谷歌母公司: Google的母公司，旗下拥有Google及其他业务）发布了2025年第三季度的业绩报告，并交出了一份足以载入公司史册的答卷。这是它自成立以来，第一次季度营收突破1000亿美元。五年前，它的单季营收还只有500亿美元，如今不仅翻倍，而且是在**生成式AI**（Generative AI: 能够生成文本、图像、音频等新内容的AI技术）竞争最激烈的阶段实现的。

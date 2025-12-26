@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 date: '2025-10-15'
 draft: true
@@ -7,8 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CWAMH9xMJfg
 speaker: a16z
@@ -21,7 +20,6 @@ tags:
 - startup-growth
 title: 奔·霍洛维茨与阿里·戈德西：如何运营千亿市值企业
 ---
-
 ### 坚守愿景：出售与坚持的抉择
 
 Ali: Maybe they're right. Maybe we should just sell. And I remember having that conversation with Ben.

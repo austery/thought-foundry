@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies:
 - immediate-harm
@@ -14,9 +14,7 @@ layout: post.njk
 media_books:
 - Journal of Medical Ethics
 - AI in the Falling Sky
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vjE3VUuOMFg
 speaker: Internet of Bugs
@@ -29,7 +27,6 @@ tags:
 - risk
 title: 驳斥AI末日论：警惕被误导的研究与被忽视的即时危害
 ---
-
 ### 引言：对AI风险研究的后续讨论
 
 这是一个对我之前“AI不会毁灭我们所有人，但我们需要关注更重要的AI风险”视频的后续。

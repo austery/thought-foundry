@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -16,9 +16,7 @@ people:
 - Donald Trump
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2NObEEnTJW8
 speaker: New York Times Podcasts
@@ -32,7 +30,6 @@ tags:
 - policy
 title: 儿童疫苗、军事伦理与燃油车政策：今日头条速览
 ---
-
 ### 今日头条速览
 
 来自《纽约时报》的头条新闻。今天是12月4日星期四。以下是今日头条内容。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - White House
@@ -34,9 +34,7 @@ people:
 - Chauncey Billups
 - Margaret Thatcher
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PFWiZ34FxJI
 speaker: New York Times Podcasts
@@ -49,7 +47,6 @@ tags:
 - trade
 title: 特朗普赦免加密货币创始人、NBA赌博丑闻与政府停摆
 ---
-
 ### 特朗普与科技加密行业的影响力
 
 欢迎收听《纽约时报》的头条新闻。今天是10月24日星期五。以下是我们将要报道的内容。

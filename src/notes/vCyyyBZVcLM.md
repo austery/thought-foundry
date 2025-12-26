@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Amazon
@@ -23,10 +23,7 @@ products_models:
 - Gmail
 - Teams
 - H-1B visa
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vCyyyBZVcLM
 speaker: TechButMakeItReal
@@ -40,7 +37,6 @@ tags:
 - tech-labor-market
 title: H-1B签证政策巨变：美国科技劳动力模式转型与全球人才流向
 ---
-
 ### H-1B签证政策：一次无偏见的分析
 
 我将明确指出本视频并非对美国政府的批评，也不是对H-1B头条新闻的情绪化反应。

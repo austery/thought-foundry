@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times Podcasts
@@ -24,9 +24,7 @@ people:
 - JD Vance
 - Nicholas Maduro
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CfXoKJBpZAQ
 speaker: New York Times Podcasts
@@ -39,7 +37,6 @@ tags:
 - political
 title: 特朗普联盟的裂痕：保守派内部的挑战与“美国优先”的辩论
 ---
-
 ### 特朗普联盟的裂痕与内部挑战
 
 自唐纳德·特朗普重返权力巅峰以来，他与他一手创建的运动之间日益公开的破裂，一直是令人惊讶的故事情节之一。从可负担性问题到对外战争，右翼的关键人物现在正大胆挑战特朗普的优先事项和他（在某些方面的）有效性。今天，我的同事罗伯特·德雷珀将探讨 MAGA 运动内部日益增长的紧张关系，以及这些关系告诉我们关于后特朗普时代美国右翼可能是什么样子。

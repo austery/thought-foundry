@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bear Stearns
@@ -40,10 +40,7 @@ people:
 - Hillary Clinton
 - Tucker Carlson
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CbJSgan4mfQ
 speaker: Patrick Boyle
@@ -58,7 +55,6 @@ tags:
 - wealth
 title: 爱泼斯坦的财富之谜：追踪金钱，揭露精英网络与阴谋论
 ---
-
 ### 爱泼斯坦的财富之谜
 
 杰弗里·爱泼斯坦（Jeffrey Epstein），这位声名狼藉的金融家，虽然大学辍学，却积累了难以解释的巨额财富，并于2019年在狱中神秘死亡。

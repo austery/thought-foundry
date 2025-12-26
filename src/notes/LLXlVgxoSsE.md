@@ -38,10 +38,7 @@ products_models:
 - ChatGPT
 - Gemini
 - Starlink
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LLXlVgxoSsE
 speaker: 小翠時政財經
@@ -57,7 +54,6 @@ tags:
 - us-national-security
 title: 2025年终展望：中美日经济政策与地缘战略深度解析
 ---
-
 ### 中日美经济动态与政策展望
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月8日。我的身体已经恢复，但声音尚未恢复到最佳状态，请大家多多包涵。

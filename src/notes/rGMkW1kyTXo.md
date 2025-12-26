@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 兰德公司
@@ -30,10 +30,7 @@ people:
 - 巴拉克·奥巴马
 - 唐纳德·川普
 - 王毅
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rGMkW1kyTXo
 speaker: 郭里有范
@@ -47,7 +44,6 @@ tags:
 - us-china-relations
 title: 川普G2概念下的全球格局重塑：台湾、日本、印度与欧洲的应对
 ---
-
 ### 川普G2概念的提出与历史演变
 
 日本首相高市早苗为何突然在台湾问题上撂下狠话？德国外长为何在最后一刻取消访华？是什么原因让欧盟领导人不敢参加拉美峰会？而印度又为何尝试用人民币购买石油？这些看似不相关的事态，却隐约指向同一个方向：中美双极，即川普在10月底釜山APEC峰会上提出的**G2**（Group of Two: 指由美国和中国两个大国共同主导全球事务的构想）。

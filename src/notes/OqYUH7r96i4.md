@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - a16z
@@ -37,10 +37,7 @@ people:
 - Elon Musk
 products_models:
 - Starlink
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OqYUH7r96i4
 speaker: a16z
@@ -54,7 +51,6 @@ tags:
 - tech
 title: 重燃美国活力：a16z 创始人解析硅谷与国防的未来
 ---
-
 ### 引言：中心化控制 vs. 资本主义活力
 
 资本主义的方式是混乱的，但你拥有活力作为你的优势。让我们回到宏观层面的问题：美国总体上是世界上一股向善的力量吗？美国的成功对世界是否重要？美国的价值观、西方的价值观在世界上占据主导地位是否重要？世界不陷入苏联式共产主义的全面蔓延是否重要？而另一个方向则是在对抗我们文化、历史和制度的一切。这种思想竟然有吸引力，就像某些人身上存在一种奇怪的心理缺陷。他们总是渴望中央控制，总认为那样更好。

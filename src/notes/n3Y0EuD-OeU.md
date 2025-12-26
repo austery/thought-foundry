@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -18,10 +18,7 @@ people:
 - Shawn Duffy
 products_models:
 - Tinder
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n3Y0EuD-OeU
 speaker: New York Times Podcasts
@@ -35,7 +32,6 @@ tags:
 - tariff
 title: 特朗普关税案面临最高法院考验，多国社会议题引关注
 ---
-
 ### 特朗普关税案在最高法院受审
 
 来自《纽约时报》的头条新闻。我是威尔·贾维斯（Will Jarvis），代班特蕾西·芒福德（Tracy Mumford）。今天是11月6日星期四，以下是我们正在报道的内容。

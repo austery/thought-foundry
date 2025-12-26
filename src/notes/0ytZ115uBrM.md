@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P 500
@@ -25,10 +25,7 @@ people:
 - Powell
 products_models:
 - GPU
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0ytZ115uBrM
 speaker: Joseph Wang
@@ -43,7 +40,6 @@ tags:
 - rate
 title: 市场周报：美联储降息前景与AI叙事中的裂痕
 ---
-
 ### 市场概览与本周焦点
 
 大家好，今天是11月15日，这是本周的市场周报。过去一周，市场再次经历了激动人心的时刻。我们终于迎来了美国历史上最长的**政府停摆**（Government Shutdown）的结束。

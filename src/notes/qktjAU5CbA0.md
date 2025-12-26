@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 路透社
@@ -17,10 +17,7 @@ media_books:
 products_models:
 - Nasdaq
 - S&P
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qktjAU5CbA0
 speaker: 老周横眉
@@ -34,7 +31,6 @@ tags:
 - state
 title: 中国股市：十年新高背后的结构性陷阱与投资迷思
 ---
-
 ### 中国股市：狐狸与刺猬的博弈
 
 中国股市吸引的是**狐狸**（Fox: 狡猾多变，追求短期利益的投机者），而并非**刺猬**（Hedgehog: 坚守单一原则，追求长期价值的投资者）。这是今年5月底，现代金融与投资经典著作之一《金融投资史》的作者爱德华·钱赛乐在路透社发表的一篇文章标题。

@@ -18,8 +18,7 @@ draft: true
 series: ''
 category: politics-society
 area: society-thinking
-project:
-  - us-analysis
+project: []
 people:
   - Natalie Kitro
   - Anatoli Kmanay

@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lHBb8Ecd-gY
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - market-analysis
 title: 美股市场周报：宏观数据、财报季与投资策略展望
 ---
-
 ### 市场回顾与本周展望
 
 大家好，欢迎来到专业美股频道。借着周日晚上，我们将对上周市场走势进行总结，并对本周的宏观数据和财报进行展望。上周我们分享了五到六家公司的财报，本期将重点讨论**联合航空**（United Airlines: 美国一家大型航空公司）的财报，以观察消费者在旅游领域的健康状况。

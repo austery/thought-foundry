@@ -19,9 +19,7 @@ people: []
 products_models:
 - SMH
 - TikTok
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bZ_k5IGQhaI
 speaker: 视野环球财经
@@ -34,7 +32,6 @@ tags:
 - semiconductor
 title: 美股市场前瞻：2026年机构预测最大风险、经济数据与个股深度解析
 ---
-
 大家好，欢迎回到视野环球财经，我是Reno。现在是美东时间25年12月18号周四晚上的7点45分。今天的四大指数全天高位震荡，科技股大幅反弹，纳指领涨，收复了部分昨天的跌幅。咱们今天的节目首先还是看一下数据，因为今天出了**CPI**（Consumer Price Index: 衡量通货膨胀的关键经济指标），然后呢再看一看机构认为的2026年最大的风险是什么，看和你想的是不是一样。还有就是关于**SOXX**（费城半导体指数ETF: 追踪费城半导体指数表现的交易所交易基金）和**SMH**（VanEck Semiconductor ETF: 追踪MVIS美国上市半导体25指数的交易所交易基金）的关键位置的防守在哪里，因为最近很长时间没有讲这两个**ETF**（Exchange Traded Fund: 交易所交易基金）。另外，今天**耐克**（Nike: 知名运动品牌）的财报之后大跌了10%，咱们看一看它现在面临的问题，以及之前咱们提到过关于**甲骨文**（Oracle: 知名企业软件和数据库公司）的潜在利好，这根救命稻草终于是来了，来得晚是晚了点，但是虽迟还是到。
 
 ### 11月CPI数据低于预期

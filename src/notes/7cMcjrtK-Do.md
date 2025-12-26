@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - TED
@@ -12,9 +12,7 @@ media_books:
 - 'The Calling: Three Fundamental Shifts to Stay True, Get Paid and Do Good'
 - 'Intentional Ambition: Redefining Your Work for Greater Joy, Freedom, and Fulfillment'
 products_models: []
-project:
-- personal-growth-lab
-- career
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7cMcjrtK-Do
 speaker: TED
@@ -28,7 +26,6 @@ tags:
 - work-life-balance
 title: 重新定义工作与成功：在不确定时代寻找快乐、自由与使命
 ---
-
 ### 欢迎来到TED每日讲座读书俱乐部
 
 大家好，欢迎来到TED会员社区。我是《**TED每日讲座**》（TED Talks Daily: TED官方播客节目，每天发布鼓舞人心的新想法）的主持人Elise Hugh，很高兴今天能与大家一起参加最新一期的**TED每日讲座读书俱乐部**（TED Talks Daily Book Club: TED每日讲座播客的特别系列活动）。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日诊所
@@ -11,8 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NWD7sBMYSHk
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -26,7 +25,6 @@ tags:
 - technology
 title: 你选对油了吗？地中海饮食专家教你健康用油与美味料理秘诀
 ---
-
 ### 地中海饮食：世界第一的健康选择
 
 **思思医师:** 大家好，我是思思医师。今天我们来到 Mia C’bon，要跟大家介绍一种已经蝉联七年世界第一的饮食法，那就是**地中海饮食**（Mediterranean Diet: 一种以植物性食物为主，强调橄榄油、全谷物、豆类、坚果、蔬菜、水果和鱼类的饮食模式）。这种饮食不仅对糖尿病患者很有益，对高胆固醇的患者也很有帮助。我们今天来这里帮大家破解一些地中海料理的迷思，让大家知道地中海饮食并没有那么难准备。我们今天邀请到一位精通地中海料理的专家，他本身拥有一间地中海料理餐厅，并且出过食谱，而且成功靠地中海饮食减重——马可老师。

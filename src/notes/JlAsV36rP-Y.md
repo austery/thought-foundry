@@ -28,8 +28,7 @@ layout: post.njk
 people:
 - Ben Bernanke
 - adam-s-axiom
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JlAsV36rP-Y
 speaker: Adam's Axiom
@@ -42,7 +41,6 @@ tags:
 - global-economy
 title: 全球经济体系解析：主要金融机构的角色与相互作用
 ---
-
 ### 国际组织：全球经济的“消防员”
 
 你是否曾想过，为什么一个国家的金融危机能够威胁到整个全球经济？这就是国际组织发挥作用的地方，它们扮演着世界金融“消防员”的角色，尽管有时在你真正需要消防车时，它们却只带着一根花园水管。这些**多边机构**（Multilateral Institutions: 由多个国家通过条约建立的国际组织），通过成员国之间的条约建立，是全球经济治理的支柱。它们不懈努力地维护金融稳定、促进国际贸易并推动全球经济发展，常常能阻止经济多米诺骨牌的倒塌。

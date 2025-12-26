@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KGgsLG_o1pA
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - us-stock-market
 title: 美股市场展望：降息预期、指数新高与投资策略深度解析
 ---
-
 ### 市场回顾与板块表现
 
 过去一周，市场整体呈现反弹态势。**美元指数**（U.S. Dollar Index: 衡量美元兑一篮子主要货币的汇率变化）下跌1.3%，**美债收益率**（U.S. Treasury Yield: 投资者持有美国国债所获得的年回报率）普遍下跌，其中10年期美债利率下跌10个**基点**（Basis Point: 金融领域中衡量利率或收益率变动的单位，1个基点等于0.01%），**TLT**（iShares 20+ Year Treasury Bond ETF: 一种追踪长期美国国债表现的交易所交易基金）也出现反弹，但幅度有限。

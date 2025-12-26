@@ -22,9 +22,7 @@ people:
 - Jerome Powell
 - Adam Posen
 - Alexander Hamilton
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=L_7x6fEOYIU
 speaker: Bloomberg Podcasts
@@ -37,7 +35,6 @@ tags:
 - rule-of-law
 title: 特朗普试图解雇美联储理事丽莎·库克：中央银行独立性与法治的危机
 ---
-
 ### 紧急播客：美联储理事解雇风波
 
 [音乐]

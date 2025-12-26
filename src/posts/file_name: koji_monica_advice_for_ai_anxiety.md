@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: null
@@ -13,8 +13,7 @@ layout: post.njk
 people:
 - 主持人
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -27,7 +26,6 @@ tags:
 - llm
 title: Koji 与 Monica 对话：给 AI 焦虑者的终极建议——狠狠学或好好玩
 ---
-
 ## AI 的潜力与使用者的鸿沟
 
 **主持人**: 解决不了一些 edge case（边缘案例），或者说帮我们执行一些任务的成功率，是大家经常诟病 AI 的一点。不可控，对吧？我同样一个任务可能让他解决5次，还不一定5次都能解决。很多人也因此一方面诟病 AI 产品，或者说去质疑 AI 什么时候能够实现那个 tipping point（引爆点）。因为我知道课代表做的课程里也在教大家怎么去用上 AI，所以我想听听你的看法，作为一个 AI 使用者，你怎么看待这些 AI 工具的不足？我应该怎么样去发挥最大效果地使用 AI 工具？

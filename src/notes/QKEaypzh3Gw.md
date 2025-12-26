@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -28,10 +28,7 @@ products_models:
 - AWS
 - Azure
 - Telegram
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QKEaypzh3Gw
 speaker: Nico投资有道
@@ -45,7 +42,6 @@ tags:
 - us-stock-market
 title: 美股财报季深度解读：Nico分享三支看好股票的投资逻辑与AI赋能
 ---
-
 ### 美股财报季高潮：投资策略与基本面分析
 
 本周，**美股财报季**（Earnings Season: 上市公司定期公布财务业绩的时期）正式进入高潮，各大科技巨头的三季度财报数据陆续公布。在看完这些财报之后，我正在买入三家公司的股票。如果你想知道我买了哪些股票、我看好的原因、我的买入计划以及我对未来美股走势的看法，请务必完整看完这期视频，相信会对你的美股投资有所帮助。

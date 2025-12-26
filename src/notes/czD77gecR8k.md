@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Pure Storage
@@ -31,9 +31,7 @@ products_models:
 - HBM
 - DDR5
 - Google Cloud
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=czD77gecR8k
 speaker: Money or Life 美股频道
@@ -48,7 +46,6 @@ tags:
 - technology
 title: 存储芯片股暴涨后，Pure Storage的投资机会与全闪存未来
 ---
-
 ### 存储产品分类与代表公司
 
 近期，“存储”概念备受关注，相关概念股股价也水涨船高。本期视频将深入探讨存储行业。视频内容分为五个部分：第一部分将简单介绍存储产品的分类和代表公司，为不太了解存储的朋友提供基础知识铺垫；第二部分将介绍Pure Storage的业务及其成本优势；第三部分是公司的护城河，包括软件优势和订阅模式的商业模式优势；第四部分将介绍Pure Storage签约Meta这一大客户的重要意义；最后是投资观点。

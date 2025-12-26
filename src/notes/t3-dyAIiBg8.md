@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - New York Times Podcasts
@@ -15,8 +15,7 @@ people:
 - Sam Altman
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=t3-dyAIiBg8
 speaker: New York Times Podcasts
@@ -28,7 +27,6 @@ tags:
 - last-minute-gift
 title: 临近节日：无需恐慌的礼物购买指南！
 ---
-
 ### 礼物购买的特殊性
 主持人Kyra与Wirecutter团队的高级作家Sam Shay探讨了临近节日的礼物购买策略，尤其针对那些突发情况下的需求。Sam表示，很多人在准备礼物时容易陷入恐慌，会不计成本地购买一些并不合适的商品。
 

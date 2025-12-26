@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -12,8 +12,7 @@ people:
 - John Schulman
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JclnqKZBTUU
 speaker: Dwarkesh Patel
@@ -25,7 +24,6 @@ tags:
 - llm
 title: GPT-4的智能飞跃：OpenAI联合创始人解析后训练的重要性
 ---
-
 ### 训练计算的重心转移
 
 随着训练计算资源的投入，**预训练** (pre-training) 与**后训练** (post-training: 对预训练模型进行微调以提升性能或行为对齐的过程) 的比例正在发生显著变化，未来将大幅倾向于后训练。尽管目前比例失衡，但可以认为模型生成的输出质量很高，甚至高于网络上的大部分内容。因此，让模型自主思考，而非仅仅模仿网络信息进行训练，似乎更为合理。这背后存在着基于第一性原理的论证，并且我们在后训练中发现了大量收益。因此，我们预计将继续推行这种方法论，并可能增加在此方面的计算投入。

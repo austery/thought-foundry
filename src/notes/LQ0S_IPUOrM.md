@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Amazon
@@ -19,11 +19,7 @@ people:
 - adam-s-axiom
 products_models:
 - Bitcoin
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LQ0S_IPUOrM
 speaker: Adam's Axiom
@@ -37,7 +33,6 @@ tags:
 - market-psychology
 title: 金融泡沫的隐藏模式：从郁金香狂热到加密货币的400年教训
 ---
-
 ### 郁金香狂热：史上首次有记录的金融泡沫
 
 想象一下，你把一套豪宅的钱花在一朵花上。欢迎来到17世纪30年代的荷兰，郁金香在这里成为了世界上第一个有记录的金融泡沫，并给我们留下了关于市场心理的教训，而我们至今仍在忽视这些教训。这些异国情调的土耳其进口花卉在富人中已经很受欢迎，但当一种病毒导致花瓣出现稀有颜色图案时，它们便成为了终极的地位象征。率先开创现代银行业和股票市场的荷兰人，即将被花朵所颠覆。

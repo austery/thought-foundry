@@ -10,8 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-3N3PCD2HeA
 speaker: 一口新飯
@@ -24,7 +23,6 @@ tags:
 - insurance
 title: '一个得罪保险销售的视频: 投资与保险的底层逻辑与购买原则'
 ---
-
 ### 投资与保险关系的困惑
 
 在MoneyXYZ频道中，主持人Ray发现许多人对投资和保险之间的关系感到困惑，并经常询问他对保险的看法。尽管这是一个关于金钱的频道，Ray此前却从未深入探讨过保险话题。这并非因为他没有观点，恰恰相反，他对保险的看法非常明确，但这些观点可能会让一些保险从业者不悦，因此他一直避免提及。然而，最近一位在美国多年的朋友向他咨询某款保险产品，这让他深受触动，于是决定制作本期视频。他将从底层逻辑出发，探讨投资与保险的关系、保险的四种分类及其购买原则。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Apple
@@ -13,10 +13,7 @@ insight: ''
 layout: post.njk
 products_models:
 - GPT
-project:
-- ai-impact-analysis
-- entrepreneurship
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lT0_UQyl0YI
 speaker: TechButMakeItReal
@@ -30,7 +27,6 @@ tags:
 - risk
 title: 如何识别十亿美元级AI商业创意：自动化“时间”而非“责任”
 ---
-
 ### AI与专业人士：为何责任不可被取代
 
 如果人工智能（AI）能做数学计算、撰写邮件，甚至起草合同，那为什么律师和会计师们仍然有生意可做呢？

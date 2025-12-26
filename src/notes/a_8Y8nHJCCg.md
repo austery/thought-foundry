@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-12-05'
@@ -14,9 +14,7 @@ people:
 - Jensen Huang
 products_models:
 - ENIAC
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a_8Y8nHJCCg
 speaker: Peter Pang
@@ -30,7 +28,6 @@ tags:
 - technology
 title: 蒙特卡罗模拟：科学史上最“赖皮”却最有用的算法
 ---
-
 ### 蒙特卡罗模拟：从有限算力到无限可能
 
 计算机自发明之初，其计算能力便如坐火箭般疯狂飙升。然而，再强大的算力也是有限的，在无穷无尽的宇宙面前，它不过是沧海一粟。困扰我们的并非宇宙的浩瀚，而是其内在的**不确定性**。看过《三体》的观众应该能理解**混沌理论**（Chaos Theory: 描述对初始条件敏感的动力学系统，微小变化可导致巨大差异的理论）的威力：微小的误差会被指数级放大，使计算结果与真实结果产生天壤之别。直到有一天，一位天才想到了一个天才的做法：如果过程难以计算，那不如干脆不计算过程，只模拟结果。通过大量的随机模拟获得海量数据，再从统计学的角度找到最接近真相的答案。这就是**蒙特卡罗模拟**（Monte Carlo Simulation: 一种通过随机抽样和统计学方法解决复杂问题的计算方法），现代科学史上最“赖皮”却也是最有用的算法之一。

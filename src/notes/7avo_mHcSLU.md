@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -42,10 +42,7 @@ products_models:
 - Blackwell
 - H800
 - Ascend 910C
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7avo_mHcSLU
 speaker: 北美王路飞
@@ -59,7 +56,6 @@ tags:
 - us-china-relations
 title: 中美AI终局之战：谁将定义21世纪的技术超级大国？
 ---
-
 ### AI竞赛：全球格局已定，中美双雄对决
 
 如果你对人工智能（**AI**：Artificial Intelligence）的认知还停留在2022年底，即**ChatGPT**（Generative Pre-trained Transformer: 一种大型语言模型）刚刚引爆全球的时刻，你可能仍认为这是一场全球各国共同参与的百米冲刺。然而，时至2025年底，一个残酷的现实是：这场竞赛已不再是百米冲刺，也几乎不再是所有国家的参与。经过近三年的AI狂潮，绝大多数国家，无论如何努力，都已然掉队。真正留在牌桌上，进行一场无限注豪赌的超级玩家，只剩下美国和中国。

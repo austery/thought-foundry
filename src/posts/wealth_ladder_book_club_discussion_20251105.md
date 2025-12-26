@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 author: Ray
 category: career
 companies_orgs:
@@ -37,9 +37,7 @@ products_models:
 - S&P 500
 - YouTube
 - Twitter
-project:
-- fire-movement
-- investment-strategy
+project: []
 source: ''
 speaker: 一口新饭读书会
 status: evergreen
@@ -52,7 +50,6 @@ tags:
 - wealth
 title: 《财富的阶梯》读书会：探讨财富等级、资产观念与人生游戏
 ---
-
 ## 开场与近况分享
 
 Ray: 好，看看我这里有没有声音。Hello，Hello Ye Wei，Hello Betty，我把大家邀请上来。好暗，可以听到我声音吗？

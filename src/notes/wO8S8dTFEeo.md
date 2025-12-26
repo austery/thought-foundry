@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2024-11-02'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《林广记》
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wO8S8dTFEeo
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - technology
 title: 桂花不是一朵一朵地摘，而是用打的：花茶背后的中国生活美学与工业化叙事
 ---
-
 ### 花茶的真相：从文人雅趣到工业产品
 
 大家好，我是陈重穆。我的专业原本是政治思想，后来因为热爱茶，博士毕业后便转行做茶。我一年到头的工作从冬天的小雪开始，一直到次年的春分，中间几乎没有休息。最忙碌的是春天——那时几乎全是原叶茶，花果茶只是在无茶可做时的点缀。

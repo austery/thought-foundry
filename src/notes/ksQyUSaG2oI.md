@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 全国人大
@@ -23,10 +23,7 @@ people:
 - 薄熙来
 - 王立军
 - 胡适
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ksQyUSaG2oI
 speaker: 柴静 Chai Jing
@@ -40,7 +37,6 @@ tags:
 - rule-of-law
 title: 贺卫方忆江平：没有独立的司法，没有一个人是安全的
 ---
-
 ### 江平先生的葬礼与“朝野共识”
 
 上个月23号，中国民法学者**江平**先生的追悼会上，上千人冒着严寒前来为他送行。一个出人意外的细节是，葬礼上出现了中国两位前总理朱镕基、温家宝和多位政界人物送的花圈。要知道，江平先生是一位自称“只向真理低头”的知识分子，他的道德权威是在1989年之后被免职后树立起来的。此后，他一直代表着法治对于**公权力**（Public Power: 国家机关及其工作人员依法行使的权力）的制约力量。他曾和学生贺卫方一起公开声援被停刊的媒体，建议全国人大启动对于**劳教制度**（劳动教养制度: 一种未经司法审判即可限制人身自由的行政处罚制度）的违宪审查，并且对于重庆运动式“打黑”当中法院和检察院丧失独立性提出公开批评。这样一位为了中国的言论自由、司法公正和宪政社会呐喊终生的人，为什么会在这样的时刻以这样的方式得到缅怀？今天我们请贺卫方教授一起来谈这个问题。

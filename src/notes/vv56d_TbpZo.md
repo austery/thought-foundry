@@ -10,8 +10,7 @@ guest: ''
 insight: 我也对债券的投资和资产组合很感兴趣，60/40，还有50/50的coach potato的方式曾经很流行。要思考为什么它们失效了。基本的理解是股票和债券相关性太强了，同时没有太高的利率了。
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: https://www.youtube.com/watch?v=vv56d_TbpZo&t
 speaker: ''
@@ -21,7 +20,6 @@ tags:
 - investment
 title: Jeff Park：为何传统60/40投资组合正在失效以及激进投资组合的兴起
 ---
-
 ## 引言与嘉宾介绍
 
 David Bonnie: Jeff Park今天加入我们。他是Bitwise资产管理公司的Alpha策略主管和投资组合经理。我们将讨论他关于加密货币和比特币相关市场的看法。欢迎来到节目，Jeff。很高兴见到你。我叫David Bonnie。我们之前邀请过你的同事Matt Hougan，那次访谈非常精彩。大家应该去看看那次访谈。我们当时在纽约采访了他，链接在下方。但这次我们想听听你对比特币和加密货币的看法。他在推特上非常受欢迎，很多人关注他。他最受欢迎的帖子之一是关于“激进投资组合”。什么是激进投资组合？

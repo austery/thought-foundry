@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -122,10 +122,7 @@ products_models:
 - Azure
 - Gemini
 - Sora
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uYEOEv0QQIk
 speaker: Amit Kukreja
@@ -140,7 +137,6 @@ tags:
 - us-china-relations
 title: 中美关系缓和推动市场走高，AWS大范围宕机引发开盘混乱
 ---
-
 ### 开盘前瞻：中美关系缓和带来看涨信号
 
 大家早上好，欢迎回到新一期的市场开盘直播。感谢各位的到来。今天有很多话题要谈，我们看到**盘前交易**（premarket: 指在常规股市交易时段之前进行的股票交易）呈现绿色，这是一个非常好的迹象。希望从昨天夜间市场延续至今的这股涨势，能够持续到正式开盘。大约45分钟后我们就能见分晓。

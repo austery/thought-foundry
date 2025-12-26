@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Anthropic
@@ -12,8 +12,7 @@ people:
 - Sam Altman
 products_models:
 - Claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fSMyzTz0pTg
 speaker: Best Partners TV
@@ -25,7 +24,6 @@ tags:
 title: 【人工智能】AI开店惨遭薅羊毛？| Anthropic最新实验｜Project Vend复盘｜AI独立经商的真实边界｜Claude 4.5实战 | 智能体商业实测
   | 大模型走进现实
 ---
-
 ### 1. 高保真 (High Fidelity)
 * **严禁**重写、总结或删减具有实质意义的内容
 * **严禁**替换演讲者使用的专业术语、专有名词或特定表达习惯

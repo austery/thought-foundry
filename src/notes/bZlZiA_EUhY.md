@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-10-16
@@ -13,9 +13,7 @@ people:
 - 哥白尼
 - 毛泽东
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bZlZiA_EUhY
 speaker: 徒步的騎手
@@ -28,7 +26,6 @@ tags:
 - world-centric-view
 title: 周有光对中国的诊断：为何中国人急需一场认知的“哥白尼革命”？
 ---
-
 ### 周有光的诊断：要从世界看中国
 
 很多人都在思考中国的问题，但最根本的问题是什么？被誉为“汉语拼音之父”的周有光先生，用他一生的思考给出了一个深刻的答案。周有光先生生于1906年，于2017年以111岁高龄去世，他的人生跨越了晚清、民国、毛泽东时代以及改革开放，见证了中国的百年沧桑。

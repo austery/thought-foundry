@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - SHU SHU工作室
@@ -16,10 +16,7 @@ media_books:
 - 《狂人日记》
 - artistic-book
 products_models: []
-project:
-- cultural-critique
-- knowledge-pipeline
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bacmSmpNytU
 speaker: 一席YiXi
@@ -32,7 +29,6 @@ tags:
 - social
 title: 当孩子用书对抗世界的墙：艺术家书如何成为青少年的表达容器
 ---
-
 ### 艺术家书：孩子对抗世界的沉默武器
 
 大家好，我是开开，一个以儿童和青少年为作者的出版人。不同于传统编辑，我的工作不是筛选成熟的文本，而是与5至17岁的孩子一起，用书作为工具，去观察、思考和表达他们所经历的世界。

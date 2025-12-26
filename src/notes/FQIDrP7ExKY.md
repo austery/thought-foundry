@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2024-07-23'
@@ -16,10 +16,7 @@ media_books:
 people:
 - 李白
 - 苏东坡
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FQIDrP7ExKY
 speaker: 一席YiXi
@@ -33,7 +30,6 @@ tags:
 - technology
 title: 中国茶审美的脉动：从唐宋到明清的味觉哲学
 ---
-
 ### 唐代：自然野趣与“辣感”的审美奠基
 
 大家好，我叫徐千懿，目前在安徽农业大学茶叶系任教。虽然我是茶学教师，但并非茶学专业出身——我毕业于北京大学哲学系，博士论文研究的是先秦《诗经》。听起来，茶与哲学似乎相距甚远，但茶的魅力恰恰就在于它能穿透学科的界限。

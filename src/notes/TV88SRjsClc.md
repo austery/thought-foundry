@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -20,10 +20,7 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TV88SRjsClc
 speaker: Bloomberg Podcasts
@@ -37,7 +34,6 @@ tags:
 - energy-transition
 title: 300年柴火价格揭示的美国经济变迁与能源转型
 ---
-
 ### 探寻被遗忘的能源：柴火价格的300年历史
 
 欢迎收听《Odd Lots》播客节目。主持人Tracy Alloway和Joe Weisenthal开场时提到，他们生活中一直缺少一份关于美国过去300年柴火价格的全面历史数据。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - TED
@@ -15,8 +15,7 @@ people:
 - Chris
 - Arnold Schwarzenegger
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YOryOy1qL00
 speaker: TED
@@ -29,7 +28,6 @@ tags:
 - strength-training
 title: 肌肉的秘密：超越力量，塑造人生
 ---
-
 ### 冲浪之旅：从挣扎到觉醒
 
 冲浪需要我调动全身数十块肌肉，将爆发力与平衡感和力量结合起来。这是一种伪装成轻松优雅的全身锻炼。哦，顺便说一句，那不是我。你以为那是我吗？那家伙太棒了，我不知道他是怎么做到的。我冲浪的时候根本不像那样，更像是这样：没有抓住浪，拼命划水，差点抓住浪，然后假装自己抓住了浪。

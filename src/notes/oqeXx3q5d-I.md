@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - intellectual-responsibility
@@ -38,9 +38,7 @@ people:
 - Werner Heisenberg
 - Albert Einstein
 - Wang Yi
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oqeXx3q5d-I
 speaker: 夸克说
@@ -53,7 +51,6 @@ tags:
 - totalitarianism
 title: 杨振宁：科学家的良知与政治站队
 ---
-
 ### 引言：对杨振宁的评价与核心议题
 
 大家好，欢迎收看夸克说，我是夸克。前两天，103岁的**杨振宁**（Chen-Ning Yang: 著名物理学家，诺贝尔物理学奖获得者）去世了。大家可能留意到，我在讲述他的死讯时，用了最基础的叙述方式：没有一堆头衔，没有任何尊称，也没有使用“去世”、“过世”、“仙游”一类较为婉转的说法，就是“某某某死了”。这基本上代表了我对他的态度，也是我对包括**钱学森**（Qian Xuesen: 著名科学家，中国导弹之父）和**邓稼先**（Deng Jiaxian: 著名核物理学家，中国核武器研制者）等一批在**中共**（Chinese Communist Party: 中国执政党）叙事中被极力推崇、褒扬乃至捧上神坛的理工科领域学者们的态度。接下来，我将分成两部分来解释为何我持有这样的态度。前半部分，我将尝试探讨科学与伦理、科学家的个人良知与研究工作之间的关系。节目的后半段，我将应部分网友的要求，仔细讲述杨振宁都做了些什么，然后您可以自行判断我是否应该鄙视他。

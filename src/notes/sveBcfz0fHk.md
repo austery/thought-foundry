@@ -24,10 +24,7 @@ people:
 - Winston Churchill
 - Vladimir Putin
 - Modi
-project:
-- ai-impact-analysis
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sveBcfz0fHk
 speaker: Dwarkesh Patel
@@ -40,7 +37,6 @@ tags:
 - revolution
 title: 丹尼尔·耶金：石油如何塑造历史与未来能源格局
 ---
-
 ### 能源史巨著的诞生
 今天，我很高兴能与**丹尼尔·耶金**（Daniel Yergin: 世界领先的能源权威）进行对话。他的著作**《石油的世纪》**（The Prize: 荣获普利策奖，讲述石油的完整历史）是关于整个20世纪的历史，因为过去150年发生的一切都与石油息息相关。他最近的著作是**《新地图：能源、气候与国家冲突》**（The New Map: Energy, Climate, and the Clash of Nations）。主持人问道，如何开始撰写这样一部涵盖整个20世纪历史的巨著？耶金博士回答说，你开始时并不知道自己在做什么。他同意写这本书，原计划两年完成，结果却花了七年。这个故事变得如此引人入胜，以至于它与20世纪的历史紧密交织在一起。
 

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - openai
@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EM-DFGOiJ04
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - wealth
 title: 股市狂欢：标普500指数大涨，芯片股领跑，宏观因素退居次席
 ---
-
 ### 市场收盘概览：逢低买入者回归
 
 About two minutes away from the end of the trading day, Katie Grifeld and Matt Miller in for Roma Bosik. And here to help take us through the closing bell, we're joined by a global simulcast, Carol Masser and Bailey Lipult. He's in for Tim Stenovic, bringing together all of our audiences, Carol Masser to parse through the most crucial moments of this trading day on this Monday. And the dip buyers, they're back.

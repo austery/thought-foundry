@@ -17,15 +17,14 @@ file_name: dialogue_yang_meng_create_happily_and_long_term.md
 draft: true
 series: null
 category: null
-area: public-thinking
-project: 知行小酒馆
+area: "society-thinking"
+project: []
 status: evergreen
 created: 2025-09-01T12:55
 updated: 2025-09-02T13:55
 companies:
 - anker
 ---
-
 ## 开场：一次意料之外的访谈
 
 雨白: 欢迎来到知行小酒馆，这是一档有知有行出品的播客节目。我们关注投资，更关注怎样更好的生活。我是雨白，今天的嘉宾是安克创新的CEO阳萌。安克创新是一家成立于2011年的中国消费电子公司。很多人一听安克就想到充电宝，但其实，它早就不只是一家充电宝公司，他们的安防、扫地机器人等多个品类都做到了欧美市场前列，是个不折不扣的全球化消费电子品牌。说实话，这期节目能录成实属意外之喜。

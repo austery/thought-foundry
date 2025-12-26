@@ -22,10 +22,7 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sHIy2TpHk74
 speaker: Bloomberg Podcasts
@@ -38,7 +35,6 @@ tags:
 - tariffs-impact
 title: 深入阿拉斯加腹地：美联储如何从地方视角洞察宏观经济与货币政策
 ---
-
 ### 美联储降息决策背后的地方洞察
 
 美联储（Federal Reserve）的降息问题并非“是否”，而是“降多少”。答案是，如预期般降息了四分之一个百分点，但美联储官员也预计今年10月和12月还会再降息两次。

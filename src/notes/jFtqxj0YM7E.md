@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Hamas
@@ -19,10 +19,7 @@ people:
 - Donald Trump
 - Benjamin Netanyahu
 - Barack Obama
-project:
-- geopolitics-watch
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jFtqxj0YM7E
 speaker: 莊也雜談
@@ -36,7 +33,6 @@ tags:
 - nuclear-proliferation
 title: 以伊“十二日战争”：双标争议下的先发制人与核武迷雾
 ---
-
 ### 引言：诡异的“十二日战争”
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天我们来聊一聊刚刚发生的以色列与伊朗之间的**十二日战争**（Twelve-Day War: 指2025年6月13日至24日以色列与伊朗之间爆发的军事冲突）。这并非一场普通的中东冲突，而是一场让全球屏息、高能实况直播的大戏。在短短12天内，200多架战机出动，伊朗高层几乎被一锅端。美国半夜下场，发射了30枚**战斧导弹**（Tomahawk Missile: 一种由美国研发的全天候、亚音速、中程巡航导弹）和14枚**地堡破坏者钻地炸弹**（GBU-57 MOP, Massive Ordnance Penetrator: 一种由美国研发的重型钻地炸弹，用于摧毁深层地下目标），狂炸伊朗三大核基地。

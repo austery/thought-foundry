@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -11,8 +11,7 @@ layout: post.njk
 media_books:
 - 《Pediatric Research》
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4YT4kFZ_hyg
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -26,7 +25,6 @@ tags:
 - technology
 title: 高糖饮食如何影响儿童生长发育与学习力？揭秘胰岛素阻抗的隐形危害
 ---
-
 ### 高糖饮食：儿童生长与学习力的隐形杀手
 
 喝一杯全糖的珍珠奶茶，可能会影响**生长激素**（Growth Hormone: 促进身体生长和细胞再生的荷尔蒙）的分泌。**胰岛素阻抗**（Insulin Resistance: 细胞对胰岛素反应迟钝，导致血糖升高）就像上课不专心，甚至比同龄的孩子更容易发胖。你觉得这只是遗传或管教问题吗？还是你尚未发现其中的关联？研究显示，全球青少年**第二型糖尿病**（Type 2 Diabetes: 身体无法有效利用胰岛素或胰岛素分泌不足导致的慢性代谢疾病）的趋势正在增加。你认为这是什么原因造成的呢？

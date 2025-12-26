@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Harvard University
@@ -31,10 +31,7 @@ people:
 - 张维为
 - 江泽民
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hIL8ETAIiyA
 speaker: 徒步的騎手
@@ -48,7 +45,6 @@ tags:
 - power-dynamic
 title: 中美跨国权贵裙带网：萨默斯、爱泼斯坦与金刻羽事件揭示的腐败肿瘤
 ---
-
 ### 中美权贵大戏：萨默斯、爱泼斯坦与中国官二代千金
 
 周末时光转瞬即逝，我们继续探讨娱乐政治，聚焦一出由“美国版西门庆、王婆”与“中国官二代千金”联袂主演的大戏。上周，美国主流和非主流媒体同时爆出一个重磅消息，主角是横跨官、学、商三界的**拉里·萨默斯**（Larry Summers: 曾任美国财政部长、哈佛大学校长、世界银行首席经济学家）。事件发生时，他仍担任哈佛大学教授，并兼任一些大公司的董事。

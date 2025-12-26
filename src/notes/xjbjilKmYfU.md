@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 共产党
@@ -34,10 +34,7 @@ people:
 - 蒋介石
 - 刘少奇
 - 林彪
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xjbjilKmYfU
 speaker: 張内咸
@@ -51,7 +48,6 @@ tags:
 - problem
 title: 《三体》的中国式解读与刘慈欣的真实世界：从文革到未来主义的深层反思
 ---
-
 ### 对《三体》与中国科幻的初探
 
 在上周的节目中，我们展开了对刘慈欣创作的小说**《三体》**（The Three-Body Problem: 刘慈欣创作的科幻小说系列）以及中国**科幻**（Science Fiction: 以科学理论为基础，通过想象力创造未来世界或非现实情境的文学艺术形式）的讨论。当然，YouTube上的观众并非每一个人都听说过这个作品，即便听说过，可能也不感兴趣。这很正常，因为事实上我本人也对这个作品不太感冒。尽管我确实很早以前就读过这部小说，但我既不是刘慈欣的粉丝，也不是中国科幻的受众群体。

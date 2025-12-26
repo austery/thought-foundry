@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-13'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iInoaaH6yIY
 speaker: 三個水槍手
@@ -25,7 +24,6 @@ tags:
 - political-leadership
 title: 中国民意：武统、经济困境与领导人形象的复杂交织
 ---
-
 ### 台湾问题民意调查的解读
 
 主持人: 我给二位先分享一个调查。这份调查是2024年9月1号到25号，一家美国调查公司**亚高尔**（美国调查公司: 在线调查公司）针对中国公民进行的一次网络调查。他们在网上调查了2211名介于18岁到54岁的中国公民，询问一个问题：“你接不接受中国以武力接管台湾？”结果显示，大幅度不赞同接管台湾的有50%多，赞同武力接管台湾的20%多，中立的20%多。这份调查显示，55%的人不赞成在任何情况之下以武力接管台湾。

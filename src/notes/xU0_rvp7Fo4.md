@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 克莱斯勒
@@ -14,9 +14,7 @@ media_books:
 - 《詹姆斯王一本的英文圣经》
 people:
 - Jesus
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xU0_rvp7Fo4
 speaker: 徒步的騎手
@@ -30,7 +28,6 @@ tags:
 - value
 title: 老律师的人生箴言：在交叉火力中活出价值
 ---
-
 ### 初识Morris：一位经历“交叉火力”的老律师
 
 今天，我想聊聊一位老同事。他是我来美国二十多年后遇到的几位良师益友之一，对我过去二十年的事业和人生都产生了不小的影响。他是一位老律师，名叫Morris，我们都叫他Morris。二十多年前，我刚当律师不久，我们就在同一家事务所共事。他喜欢开跑车，平常上班时开一辆**克莱斯勒的Crossfire**（Chrysler Crossfire: 一款由克莱斯勒公司生产的跑车）。二十多年前，克莱斯勒生产了一批Crossfire跑车，但因为销量太低早就停产了，现在马路上已经不容易看见。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 美联储
@@ -13,10 +13,7 @@ media_books:
 people:
 - 鲍威尔
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tm4XIyzdKs8
 speaker: 投资TALK君
@@ -29,7 +26,6 @@ tags:
 - market
 title: 前瞻美联储会议：鹰派降息的信号与债券市场的背离分析
 ---
-
 ### 引言与会议前瞻
 
 各位观众大家好，欢迎来到这个专业美股频道。明天将是美联储会议，我怎么可以不录制视频呢？我是市场分析人小涛。即使我觉得大家都已经准备好了，但我知道大家可能还是希望我看到一期内容，以便对明天的美联储会议做一个展望，那我就满足大家的这个要求。今天这期内容，我们就一起来对周三的美联储会议做一个展望，包括挑选一些重点。我们要看美联储会议里面到底重点应该是什么，公告出来之后我们应该怎么去找重点，以及**SEP**（Summary of Economic Projections，经济预测摘要）数据出来之后，我们应该怎么去找重点，好吗？最后，我有一张图想和大家分享。这也是我今天晚上，针对国内多家机构做了一个演示文稿（presentation）时挑选出来的一页，我认为可能对大家也会有帮助，所以拿出来分享一下，主要是关于最近一段时间债券市场利率的一个走势，好吗？

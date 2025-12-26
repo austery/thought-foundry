@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-14'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YvZBCRYwk6s
 speaker: Bloomberg Podcasts
@@ -26,7 +24,6 @@ tags:
 - renewable-energy
 title: 中美能源出口竞争：清洁技术与化石燃料的较量
 ---
-
 ### 能源出口的里程碑
 
 Oscar Boyd: Welcome to Zero. I'm Oscar Boyd. Today, a milestone for clean tech. Hello, Aat.

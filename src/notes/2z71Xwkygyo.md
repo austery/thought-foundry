@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -30,10 +30,7 @@ products_models:
 - S&P 500
 - Bloomberg terminal
 - ChatGPT
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2z71Xwkygyo
 speaker: Bloomberg Podcasts
@@ -47,7 +44,6 @@ tags:
 - short-selling
 title: 吉姆·查诺斯：比特币国库公司、AI投资热潮与市场非理性
 ---
-
 ### 欢迎辞与吉姆·查诺斯
 
 大家好，Odd Lots的听众们。你们即将收听一期非常特别的节目。这是我们在纽约近期活动中现场录制的一段对话。

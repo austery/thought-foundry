@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times
@@ -20,9 +20,7 @@ people:
 - JD Vance
 - Vladimir Putin
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2dP6Rfk56Tk
 speaker: New York Times Podcasts
@@ -36,7 +34,6 @@ tags:
 - technology
 title: 卢浮宫惊天盗窃案：法国皇室珠宝失窃之谜
 ---
-
 ### 卢浮宫：从法国象征到犯罪现场
 
 我是《纽约时报》的娜塔莉·基特鲁夫，这里是《The Daily》。世界上最大的博物馆，法国的象征，如今却成为了犯罪现场。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -14,10 +14,7 @@ people:
 - Donald Trump
 - Joe Biden
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=blCqB_qJ__M
 speaker: 北美王路飞
@@ -30,7 +27,6 @@ tags:
 - us-foreign-policy
 title: 赌盘预测：明年3月前开战概率超50%？委内瑞拉会是下一个伊拉克吗？
 ---
-
 ### 川普对海上“疑似毒贩”的激进行动
 
 这个炸船的行为，其实只是川普这个大旗非常小的一部分。从9月份开始到今天，川普已经在公海上炸了，据说是20多艘船只，并且好像已经杀了80多个人，快接近100人了。全部都是同一个理由，就是说这些人是运毒的。我查了一下美国以往针对这种毒贩的操作，因为他们不可能是川普上台以后才开始运毒的，之前也运，那之前怎么操作呢？一般如果发现这种疑似的运毒船，就会派出海岸警卫队，然后把船拦下来，上船搜查。如果是渔民就放了，如果是运毒的，那就把毒品没收，然后把人抓回美国去关起来。这是一个正常的做法。你没有听说过，就是没有侦查，没有上船检查，就直接拿炸弹把船炸了，直接拿导弹炸了，这有点太夸张了。而且这其实是一个违法行为，因为贩毒是你国内警察应该管的事情，而不是军队应该管的事情。没有一个国家是出动军队去抓毒贩的呀，而且美国国内毒贩都没有死刑，你这个疑似毒贩就全都突突了，这完全是打了自己国家法制脸。

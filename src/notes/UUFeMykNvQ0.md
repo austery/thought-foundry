@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CCTV
@@ -17,10 +17,7 @@ people:
 - Gavin Newsom
 - Donald Trump
 - Xi Jinping
-project:
-- china-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UUFeMykNvQ0
 speaker: 老周横眉
@@ -34,7 +31,6 @@ tags:
 - system
 title: 中国食品安全：从毒奶粉到特供，为何问题层出不穷？
 ---
-
 ### 中国食品安全：一个不断重复的“老电影”
 
 中华民族是否伟大复兴了？我不知道。我只希望我的孩子能吃一口安心饭。最近，一位母亲给孩子买了一个粽子，结果从粽子里吃出了带血的创可贴。这并非出自小作坊，而是来自全国拥有3000多家连锁店的上海行业巨头“**来一份**”。

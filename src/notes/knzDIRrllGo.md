@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Waymo
@@ -13,10 +13,7 @@ layout: post.njk
 products_models:
 - AGI
 - robotaxi
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=knzDIRrllGo
 speaker: Best Partners TV
@@ -30,7 +27,6 @@ tags:
 - shift
 title: 苏箐：自动驾驶的“原子弹时刻”已过，未来三年将迈向L4落地但不会有理论跨越式变革
 ---
-
 ### 致敬行业同仁：自动驾驶的挑战与不易
 
 非常感谢大家花时间来听我分享一些感悟。坦率地说，我本来是不想来的，因为不知道该说什么。上个月我们的**HSD**（Horizon Self-Driving: 地平线自动驾驶系统）才刚刚**SOP**（Start of Production: 量产开始），所以我整个人和团队都处于工程模式，还没有切换到思想模式。因此，今天分享的很多内容可能会比较零碎，但都是这几年过程中一些实实在在的感悟。

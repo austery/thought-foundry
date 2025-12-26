@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-08-03'
@@ -10,10 +10,7 @@ layout: post.njk
 people:
 - Winnicott
 products_models: []
-project:
-- china-analysis
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=t9r-5Bujz6E
 speaker: Anthony看世界
@@ -27,7 +24,6 @@ tags:
 - technology
 title: 生孩子能缓解死亡焦虑吗？中国家庭中的投射与控制：孩子如何替父母承受了创伤？
 ---
-
 ### 恩情：一种可量化的单向交易？
 
 大家好，我是Anthony。欢迎来到我的频道。今天的视频，我们试图提出另一个视角来探讨，为什么恩情并不存在？

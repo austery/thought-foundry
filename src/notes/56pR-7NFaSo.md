@@ -17,10 +17,7 @@ people:
 - 李鸿章
 - 林则徐
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=56pR-7NFaSo
 speaker: 知行小酒馆
@@ -32,7 +29,6 @@ tags:
 - impact
 title: 元明清七百年兴衰史：财政与货币如何决定帝国命运
 ---
-
 ### 前言：以全球化视角重审帝国命运
 
 欢迎来到知行小酒馆，我们关注投资与更美好的生活。今天我们挑战一个宏大的主题：王朝的兴衰。但我们的切入点并非帝王将相或宫闱秘闻，而是一个更底层的视角：财政、税收、货币、人口与全球流动。

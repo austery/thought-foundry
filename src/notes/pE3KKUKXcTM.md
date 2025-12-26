@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - SemiAnalysis
@@ -69,8 +69,7 @@ products_models:
 - GB200
 - TPU
 - GPT-5
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pE3KKUKXcTM
 speaker: Dwarkesh Patel
@@ -85,7 +84,6 @@ tags:
 - semiconductor
 title: 半导体产业运作揭秘：AI与地缘政治的影响
 ---
-
 今天，我与**SemiAnalysis**的**Dylan Patel**和**Asianometry** YouTube频道的**Jon Y**进行了一次对话。**Jon Y**解释了他遮脸的原因是为了匿名，并开玩笑说自己害怕看到岁月和肥胖的痕迹。**Dwarkesh Patel**随后开玩笑地提到了**Dylan**和他父亲的名字，引出了关于名字的趣闻。
 
 ### 中国AI战略与芯片间谍战

@@ -16,10 +16,7 @@ people:
 - Chuck Schumer
 products_models:
 - Affordable Care Act
-project:
-- us-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=el00FMwE_7c
 speaker: 大伟探秘加拿大
@@ -32,7 +29,6 @@ tags:
 - system
 title: 美国政府停摆的秘密与加拿大制度的对比：僵局、信任与政治文化
 ---
-
 ### 美国政府停摆：一场由制度与政治催化的风暴
 
 想象一下，一个国家的政府突然关门大吉了。这并非电影情节，而是正在美国真实上演的一幕。国家公园的大门上了锁，护照审批陷入停顿，甚至连食品安全检查都暂停了。数十万公务员要么待在家里备休假，要么继续上班却领不到薪水。这听起来有些匪夷所思，一个超级大国的政府怎么能够说停就停呢？这背后究竟发生了什么？更奇怪的是，为什么我们从未听说过隔壁的加拿大政府也发生过同样的事情？要搞清楚这一切，我们需要深入了解这两种看似相似却截然不同的政治体制。这不仅仅是一个关于预算和法律的故事，更是一个关于僵局与信任、制度设计与政治文化的故事。

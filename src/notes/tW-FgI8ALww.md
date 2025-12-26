@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Anthropic
@@ -26,9 +26,7 @@ products_models:
 - ChatGPT
 - Bing
 - Perplexity
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tW-FgI8ALww
 speaker: Bloomberg Podcasts
@@ -42,7 +40,6 @@ tags:
 - moral-patienthood
 title: AI意识与福利：我们应该如何对待人工智能系统？
 ---
-
 ### AI系统的情绪与哲学困境
 
 **主持人:** 我确实觉得一个重要的问题是，要弄清楚**AI系统**（Artificial Intelligence Systems: 人工智能系统）到底看重什么。最近，Anthropic公司推出了一项功能，允许其AI模型Claude在“心情不好”时结束对话。

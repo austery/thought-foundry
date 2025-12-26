@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -23,10 +23,7 @@ products_models:
 - FSD
 - Optimus
 - iPhone
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6ujahuQD9nQ
 speaker: Money or Life 美股频道
@@ -41,7 +38,6 @@ tags:
 - made-in-america
 title: 为何持续加仓特斯拉？四大业务进展与投资逻辑深度解析
 ---
-
 ### 特斯拉投资逻辑：顺应时代潮流的确定性选择
 
 大家好，欢迎来到Money or Life美股频道。最近，我决定再次小幅度地加仓**特斯拉**（Tesla: 一家美国电动汽车及清洁能源公司），尽管我的特斯拉仓位已超过30%，但我依然想再加一点。这样做的主要原因在于，特斯拉的各个业务板块都在稳步前进，财报即将发布，并且11月6日还将举行股东大会。我对特斯拉接下来的表现持比较乐观的态度。在当前倡导“美国制造”和“AI”的潮流下，我认为特斯拉这家公司是顺应时代的投资选择。在我看来，特斯拉这家公司的确定性又增加了，这也是我选择持续加码的原因。本期视频，我将向大家介绍特斯拉四大业务的主要进展，包括**电动汽车**（EV: Electric Vehicle）、储能业务、**自动驾驶**（FSD: Full Self-Driving）和**人形机器人**（Optimus: Tesla开发的人形机器人项目）。

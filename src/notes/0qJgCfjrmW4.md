@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TVO Today
@@ -21,9 +21,7 @@ people:
 - Alexandra Samuel
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0qJgCfjrmW4
 speaker: TVO Today
@@ -38,7 +36,6 @@ tags:
 - personal
 title: 我与AI的亲密关系：探索人机情感的边界
 ---
-
 ### 开启“我们”的对话
 
 我想是时候我们好好谈谈了。

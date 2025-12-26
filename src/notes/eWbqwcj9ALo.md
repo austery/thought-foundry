@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OECD
@@ -17,10 +17,7 @@ people:
 - Thomas Piketty
 - Descartes
 - Locke
-project:
-- systems-thinking
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eWbqwcj9ALo
 speaker: 超級歪 SuperY
@@ -34,7 +31,6 @@ tags:
 - theory
 title: “弃成长”：资本主义、生态灾难与社会公平的新经济视角
 ---
-
 ### 气候危机与“弃成长”经济学
 
 在去年举行的第26届全球气候峰会上，世界各国达成共识，承诺在2050年前实现净零碳排放。为了达成这些减碳目标，西方世界近年来开始出现一种名为“**弃成长**”（Degrowth: 一种经济学新观点，主张停止追求经济增长，以实现生态可持续和社会公平）的新思潮。人类学家杰森·希克尔在其著作《少即是多》中，深入阐述了“弃成长”的理念。他在这本书中揭示了生态灾难的根本原因、气候危机的主要责任方，以及我们应如何通过“弃成长”迈向一个生态可持续的社会。

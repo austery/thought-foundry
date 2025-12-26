@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Anthropic
@@ -60,8 +60,7 @@ products_models:
 - H800
 - Transformer
 - TurboTax
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=64lXQP6cs5M
 speaker: Dwarkesh Patel
@@ -74,7 +73,6 @@ tags:
 - reinforcement-learning
 title: RL+LLM能否实现AGI？——Sholto Douglas与Trenton Bricken访谈
 ---
-
 ### RL在语言模型中的突破
 
 **Dwarkesh Patel**再次邀请到朋友**Sholto Douglas**和**Trenton Bricken**。两人目前都在**Anthropic**工作，**Sholto Douglas**负责扩展**RL**（Reinforcement Learning: 强化学习，一种机器学习范式，通过与环境互动学习如何做出决策以最大化累积奖励），而**Trenton Bricken**则专注于**Mechanistic Interpretability**（机械可解释性: 旨在逆向工程神经网络，理解其内部计算单元和决策过程的研究领域）。他们回顾了过去一年AI领域的变化。最大的变化是**RL**在语言模型中终于取得了成功，证明了在给定正确反馈循环的情况下，算法可以达到专家级的人类可靠性和性能。这主要在竞技编程和数学领域得到了证实。

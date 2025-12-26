@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - YouTube
@@ -12,9 +12,7 @@ media_books:
 - The Hitchhiker's Guide to the Galaxy
 people:
 - Derek Muller
-project:
-- personal-growth-lab
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0dqX3NjwaQs
 speaker: veritasium
@@ -27,7 +25,6 @@ tags:
 - society
 title: Veritasium十年YouTube之路：回顾、问答与赠品
 ---
-
 ### 庆祝十年YouTube生涯：问答与赠品
 
 截至今天，我全职制作YouTube视频已经十年了。

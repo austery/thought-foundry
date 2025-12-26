@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -41,10 +41,7 @@ people:
 - 张又侠
 products_models:
 - Signal
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7zNG4_dJbsA
 speaker: LT視界
@@ -58,7 +55,6 @@ tags:
 - us-china-relations
 title: 国际局势动荡与中国政治风云：从油价、乌战到内部清洗
 ---
-
 ### 财经头条：国际油价、美联储与马斯克荐股
 
 首先，我们来了解今天的财经头条，有三个方面的最新信息与网友分享。

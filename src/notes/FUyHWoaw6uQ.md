@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Goldman Sachs
@@ -18,10 +18,7 @@ people:
 - Donald Trump
 - Elon Musk
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FUyHWoaw6uQ
 speaker: Shanghao Jin
@@ -37,7 +34,6 @@ tags:
 - us-economy
 title: 2025年6月市场展望：特朗普政策、估值风险与科技股机遇
 ---
-
 ### 特朗普政策与市场反应
 
 最近一段时间以来，从瑞士会议之后，市场上出现了一个非常有名的交易现象，被称为**Tack Stand for Always Check Out**（Tack：指特朗普的政策波动性大，市场预期他最终会“认怂”）。尽管美国法院对特朗普的裁决有所反复，例如巡回法院曾推翻其裁决又重新恢复，但市场对特朗普重新对中国加税的言论并未完全买账。特朗普曾在社交媒体上表示中国未能履行承诺，但他这种言论的波动性很大，市场普遍认为其政策不必过于严肃对待。

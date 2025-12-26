@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - LastPass
@@ -16,8 +16,7 @@ people:
 - Johannes Kepler
 - Roger Penrose
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=48sCx-wBs34
 speaker: veritasium
@@ -31,7 +30,6 @@ tags:
 - penrose-tiling
 title: 永不重复的无限图案：从开普勒猜想到准晶体
 ---
-
 ### 引言：不可能的图案与材料
 
 本视频将探讨一种曾被认为不可能存在的图案，以及一种不应存在于世的材料。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -13,8 +13,7 @@ media_books:
 - 《女人女人》
 people:
 - 宋晏仁
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qj4WzrXgXWw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +26,6 @@ tags:
 - society
 title: 婦科權威鄭丞傑醫師：卵巢癌早期徵兆常被忽視，女性健康警訊全解析
 ---
-
 ### 婦科權威鄭丞傑醫師：從醫學到人文的深耕
 
 宋晏仁醫師: 大家好，我是宋晏仁醫師，歡迎來到初日會客室。今天我們有幸邀請到一位名醫，他不僅在醫學領域成就斐然，更深具人文素養，寫過四十幾本暢銷書，他就是鄭丞傑醫師。

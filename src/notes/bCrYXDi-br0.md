@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2023-11-11'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- entrepreneurship
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bCrYXDi-br0
 speaker: 一口新飯
@@ -27,7 +24,6 @@ tags:
 - wealth-management
 title: 大实话：财富自由不能靠股市，还需“拥有生意”
 ---
-
 ### 财富自由的迷思：股市致富的现实与误区
 
 今天的节目将结合个人经历，坦诚地探讨几个关键问题。首先，为什么大多数人无法通过股市实现阶层跃迁和财富自由，反而想靠股市致富，你可能得先是一个富人。其次，为什么拥有私人生意才是多数人实现财富自由的必经之路。第三，如果股市不能让我们暴富，那么它对我们的意义又是什么？最后，如果普通人不创业，是否就没有变富的机会？

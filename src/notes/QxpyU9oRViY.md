@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-04-24'
@@ -11,10 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QxpyU9oRViY
 speaker: 投资TALK君
@@ -28,7 +25,6 @@ tags:
 - us-economy
 title: 关税政策深度剖析：对美国经济、通胀、企业盈利及选民票仓的影响
 ---
-
 ### 引言：关税政策的全面审视
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道，我是市场分析员小陶。关税政策至今已实施一个多月，本文将借此机会，全面审视关税对美国经济各方面的影响。我们将重点探讨关税对川普票仓选民工作的影响、对企业盈利的影响（以Chipotle财报为例）、对通胀及通胀预期的影响，以及关税是否能为美国政府带来额外的收入。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Dell
@@ -20,9 +20,7 @@ products_models:
 - PC
 - CPU
 - GPU
-project:
-- entrepreneurship
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jaaDki7pQWE
 speaker: Norges Bank Investment Management
@@ -36,7 +34,6 @@ tags:
 - tech-entrepreneurship
 title: 迈克尔·戴尔：从拆解IBM电脑到构建科技帝国
 ---
-
 ### 播客引言：科技巨头迈克尔·戴尔
 
 **Nikola Tangen:** 大家好，欢迎收听本期播客的精简版，我们每周五都会推出。完整版请在每周三收听。大家好，我是尼古拉·坦根，今天我邀请到了一位有史以来最杰出的科技企业家之一，他从大学一年级的宿舍起步，将自己的公司打造成了全球最大的科技公司之一。现在，你们中三分之一的人可能都拥有一台印有他名字的电脑：迈克尔·戴尔。欢迎您。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 公安机关
@@ -13,10 +13,7 @@ media_books:
 people:
 - 王浩
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7gTMGB6ZpLk
 speaker: 老周横眉
@@ -28,7 +25,6 @@ tags:
 - technology
 title: 中国司法系统常见问题：从大同订婚案看程序正义缺失、二审低改判率与司法不透明的倒退
 ---
-
 想必大家都有这种感受，中国几乎每隔几年就会出现一起引发全社会激烈讨论的案件。从张玉环案、彭宇案、金华鹦鹉案，到2022年的铁链女案，当然还有今年的大同订婚强奸案等等。张玉环曾蒙冤入狱27年；彭宇案则是南京法官王浩那句“不是你撞的你为什么要扶”的拷问，让许多人感到司法不公。这些案件总是让许多人感到疑虑，要么怀疑内部存在黑洞，要么觉得司法系统不公平。上周我曾谈及大同订婚案，但当时我的重点是中国社会传统习俗与现代法律之间的冲突。然而，除了大家已经知道的争议点，大同案也暴露了中国司法系统的一些常见问题。本期节目并非要再次讨论大同订婚案本身，我只是想以此案为引子，向大家讲述中国司法系统中一些经常导致司法不公的问题。
 
 ### 超期羁押与看守所的非人道待遇

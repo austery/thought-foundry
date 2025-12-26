@@ -15,9 +15,7 @@ products_models:
 - GPT-5.1
 - ChatGPT
 - VS Code
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wVl6ZjELpBk
 speaker: AI Engineer
@@ -33,7 +31,6 @@ tags:
 - software-automation
 title: OpenAI 编码智能体 Codeex：模型与协调器共生，构建面向未来的AI编程
 ---
-
 ### 编码智能体的崛起
 
 大家好。今天，我们将讨论如何构建编码智能体。我是 Bill，在 OpenAI 的应用 AI 初创团队工作。Brian 和我都在 OpenAI 的初创团队工作，我们特别专注于在这里构建编码智能体。

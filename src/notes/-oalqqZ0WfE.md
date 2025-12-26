@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Equinix
@@ -34,10 +34,7 @@ products_models:
 - InfiniBand
 - HBM
 - H20
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-oalqqZ0WfE
 speaker: 老科谈科技股
@@ -50,7 +47,6 @@ tags:
 - technology
 title: AI数据中心的演进、结构与未来：为何它是第四次工业革命的核心？
 ---
-
 ### AI数据中心：第四次工业革命的核心
 
 在AI炙手可热的今天，以AI为中心的**数据中心**（Data Center: 台湾称“资料中心”，是集中放置服务器、网络设备并提供制冷供电的大型机房）正在变成第四次工业革命的核心。AI数据中心又与AI**服务器**（Server: 一种高性能计算机，用于提供网络服务或处理大量计算任务）、超级计算和**云计算**（Cloud Computing: 一种通过互联网提供计算服务的方式，用户按需租用计算资源，而非购买和维护物理硬件）相结合，成为了新一代计算平台。本文将深入探讨AI数据中心的结构、它与AI服务器、超级计算和云计算的关系，以及英伟达的AI数据中心解决方案，并阐释它为何是第四次工业革命的核心。

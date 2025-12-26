@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO
@@ -20,9 +20,7 @@ people:
 - Gavin Newsom
 - Ronald Reagan
 - Doug Ford
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZV-Cv_lLE9U
 speaker: TVO Today
@@ -36,7 +34,6 @@ tags:
 - trade-war
 title: 特朗普时代下的抉择：加拿大“雪鸟”族今年应抵制美国吗？
 ---
-
 ### 节目开场与议题介绍
 
 大家好，我是史蒂夫·帕金。我们现在在安大略省纽马基特的上加拿大购物中心，为我们名为《TVO Today Live》的节目开启第三季。我们这次的主题是：**雪鸟族**（Snowbirds: 指为了躲避本国寒冷的冬天而迁徙到温暖南方过冬的人，在加拿大通常指前往美国的退休人士）今年冬天是否应该放弃前往温暖的美国？

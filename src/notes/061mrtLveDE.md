@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Bloomberg Audio Studios
@@ -18,10 +18,7 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=061mrtLveDE
 speaker: Bloomberg Podcasts
@@ -35,7 +32,6 @@ tags:
 - tariff-volatility
 title: 阿拉斯加家具业：关税、物流与经济周期的独特视角
 ---
-
 ### 极端气候与家具的奇妙联系
 
 Tracy: 大家好，欢迎收听新一期的《Odd Lots》播客。我是特雷西·阿洛韦。

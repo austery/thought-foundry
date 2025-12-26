@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - CBC
@@ -13,9 +13,7 @@ media_books:
 - The Apprentice
 people:
 - Mark Carney
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rX8FuxKSv2U
 speaker: TVO Today
@@ -28,7 +26,6 @@ tags:
 - streaming-act
 title: 捍卫加拿大文化：一场关乎身份认同的持久战
 ---
-
 ### 加拿大文化认同的危机
 
 感谢 Barry 再次加入 The Rundown 节目。

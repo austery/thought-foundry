@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Ontario government
@@ -23,7 +23,6 @@ tags:
 - social
 title: 安大略省的平价日托困境：为何未能实现每日10加元目标？
 ---
-
 ### 安大略省日托目标落后
 
 去年十月，**安大略省审计长**（Auditor General: 负责审查政府开支和运营的独立官员）明确指出，安大略省在实现平价日托目标方面进展滞后，这对于许多家长来说早已是显而易见的事实。

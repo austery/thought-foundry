@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Global Crossing
@@ -20,10 +20,7 @@ products_models:
 - Android
 - Office 365
 - H100 GPU
-project:
-- ai-impact-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KlfuZRjmgPQ
 speaker: 北美王路飞
@@ -37,7 +34,6 @@ tags:
 - market-bubble
 title: AI基建狂潮：历史重演？从光纤泡沫到页岩油陷阱的财务警示
 ---
-
 ### AI的质变与投资热潮的兴起
 
 当前，AI领域正经历一场深刻的质变，这促使商界巨头们，如**Mega Seven**（Mega Seven: 指代市值最高的七家科技巨头），纷纷投入到万亿级别的AI基建投资中。长期以来，AI被视为实验室里的“高智商玩具”，例如**AlphaGO**（AlphaGo: 谷歌DeepMind开发的人工智能围棋程序）在围棋上战胜人类冠军，或在特定任务中展现超凡能力。然而，对于普罗大众和绝大多数企业而言，AI的应用场景模糊、落地困难且成本高昂。例如，**IBM应用Watson**（IBM Watson: IBM开发的人工智能系统，以其在问答系统和自然语言处理方面的能力闻名）的案例，就曾面临技术强大但商业化困难的困境。

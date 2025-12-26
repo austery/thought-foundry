@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - ADP
@@ -51,10 +51,7 @@ products_models:
 - Gemini 3
 - Optimus
 - GB200
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IEqXqA839-w
 speaker: Amit Kukreja
@@ -68,7 +65,6 @@ tags:
 - market-volatility
 title: 市场开盘：ADP就业数据疲软与微软AI销售风波
 ---
-
 ### ADP就业数据疲软，降息预期升温
 
 大家早上好，欢迎回到新一期的市场开盘直播。我们有新的就业数据出炉了。坦白说，我之前并不知道今天会公布**ADP**（Automatic Data Processing, Inc.：美国自动数据处理公司，每月发布私营部门就业报告）的私营部门就业数据，但数据确实来了，而且有点难看。

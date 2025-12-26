@@ -1,10 +1,9 @@
 ---
 title: 书评：《透明的阴谋》——新保守主义、中东战争与以色列的国家利益
 summary: null
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- us-analysis
+project: []
 tags:
 - conflict
 - israel
@@ -23,7 +22,6 @@ layout: post.njk
 series: null
 source: null
 ---
-
 ## 引言：美国优先还是以色列优先？
 
 为何奉行“美国优先”的特朗普，宁可得罪其核心支持群体MAGA（Make America

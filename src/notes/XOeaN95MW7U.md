@@ -19,10 +19,7 @@ people:
 products_models:
 - Max
 - Disney+
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XOeaN95MW7U
 speaker: Shijun Tang
@@ -35,7 +32,6 @@ tags:
 - stock-valuation
 title: 英伟达套现、华纳困局与价值投资的真相：为什么你买对股票却赚不到钱
 ---
-
 ### 英伟达套现与市场过热信号
 
 欢迎观看本期内容。我是唐石峻，自2015年进入金融市场以来，我的目标始终是帮助你通过投资实现快乐与自由。本周，我们关注两位科技巨头的创始人——亚马逊的杰夫·贝索斯和英伟达的黄仁勋——相继套现离场。贝索斯近期出售了价值43.9亿美元的亚马逊股票，但仍持有公司8.8%股份，保持最大股东地位。黄仁勋则累计卖出价值16.9亿美元的英伟达股票，目前仍持有3.5%股份。

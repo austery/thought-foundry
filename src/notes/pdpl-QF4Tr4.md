@@ -33,9 +33,7 @@ products_models:
 - HBM
 - DDR5
 - Alpha Picks
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pdpl-QF4Tr4
 speaker: Darren聊美股
@@ -48,7 +46,6 @@ tags:
 - stock
 title: 美股猴市行情：Darren推荐三支潜力股，把握年底布局良机
 ---
-
 ### 美股“猴市行情”下的市场分析与投资策略
 
 大家好，我是Darren，欢迎回到我的频道。本周美股开启了**猴式行情**（Monkey Market: 指市场波动剧烈，股价忽涨忽跌，走势难以预测的行情）。周一开盘迎来一波大涨，几乎收回了上周五的大半跌幅。然而，随着中美关系的反复、双方政府官员时不时发表的言论，以及近期美国区域银行公布的数据，市场出现了一些信用风险恐慌，导致股价一会儿大涨一会儿大跌。

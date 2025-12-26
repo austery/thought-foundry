@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - University of Waterloo
@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - Pierre Poilievre
 - David Eby
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u0tFMHv0CCk
 speaker: TVO Today
@@ -27,7 +26,6 @@ tags:
 - youth-unemployment
 title: 加拿大临时外籍劳工计划：是就业威胁还是经济必需？
 ---
-
 ### 加拿大临时外籍劳工计划面临的争议
 
 >> **临时外籍劳工计划**（Temporary Foreign Worker Program, TFWP: 加拿大政府允许雇主在无法找到加拿大公民或永久居民填补空缺时，雇佣外国劳工的计划）正面临来自左翼和右翼的批评。

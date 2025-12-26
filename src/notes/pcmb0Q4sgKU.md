@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Hancock公司
@@ -16,10 +16,7 @@ media_books:
 people:
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pcmb0Q4sgKU
 speaker: 北美王路飞
@@ -34,7 +31,6 @@ tags:
 - us-china-relations
 title: 澳大利亚首富吉娜·莱因哈特：稀土地缘政治博弈中的百亿布局
 ---
-
 ### 稀土：地缘政治博弈中的意外赢家
 
 当今世界，地缘政治博弈的焦点往往集中在白宫的关税、AI芯片战或南海的航母上。然而，一个可能出乎意料的赢家正在浮出水面，她不在华盛顿，也不在硅谷，而是远在地球另一端的澳大利亚珀斯。她就是澳大利亚首富吉娜·莱因哈特。这位女富豪是Donald Trump的铁杆支持者，也是一位著名的“川粉”，更是海湖庄园的常客，甚至还入股了Donald Trump的社交媒体公司。然而，她真正赚大钱的手段比这些都“土”得多。

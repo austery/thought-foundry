@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - ABC
@@ -27,10 +27,7 @@ people:
 - Dwayne Johnson
 - Shaquille O'Neal
 - Evan Spiegel
-project:
-- personal-growth-lab
-- entrepreneurship
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5sCGZAcXKWg
 speaker: The Diary Of A CEO
@@ -44,7 +41,6 @@ tags:
 - persistence
 title: 凯文·哈特深度访谈：成功没有捷径，唯有13年的坚持与无畏提问
 ---
-
 ### 承认无知：开启成长的大门
 
 你不能害怕说出自己的无知，那会阻碍你前进。

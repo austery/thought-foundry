@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - NordVPN
@@ -15,10 +15,7 @@ media_books:
 - Lascaux
 people:
 - Leonardo da Vinci
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dBap_Lp-0oc
 speaker: veritasium
@@ -32,7 +29,6 @@ tags:
 - perception
 title: 艾姆斯窗错觉：为何我们所见并非真实？
 ---
-
 ### 艾姆斯窗错觉初探
 
 我将通过这个窗户，把自己变成一个视错觉。

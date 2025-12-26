@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - Canadian Tire
@@ -8,8 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MSsoHz5nElU
 speaker: 莊也雜談
@@ -23,7 +22,6 @@ tags:
 - travel
 title: 纽芬兰七日自驾游深度总结：费用、景点与经济面面观
 ---
-
 ### 纽芬兰之旅：科纳布鲁克与第七日行程
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊纽芬兰的自驾之旅。上集我们讲到在科纳布鲁克（Corner Brook）住店，接下来，咱们就书接上文，说一下第七天，也就是7月5日星期五，这天都发生了什么事。

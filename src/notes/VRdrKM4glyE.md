@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-09-20'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - Ring of the Nibelung
 - Das Rheingold
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VRdrKM4glyE
 speaker: Anthony看世界
@@ -26,7 +24,6 @@ tags:
 - technology
 title: 真爱如何促进个性化？荣格阿尼玛原型与中西方女神的心理学解读
 ---
-
 ### 引言：爱的能力与个性化成长
 
 大家好，我是Anthony，欢迎来到我的频道。

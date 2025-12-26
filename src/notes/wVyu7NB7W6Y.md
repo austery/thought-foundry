@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Veritasium
@@ -18,10 +18,7 @@ people:
 products_models:
 - Signal
 - WhatsApp
-project:
-- systems-thinking
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wVyu7NB7W6Y
 speaker: veritasium
@@ -34,7 +31,6 @@ tags:
 - two-factor-authentication
 title: 揭露电话系统漏洞：SS7攻击的原理、历史与现实威胁
 ---
-
 ### 电话网络入侵：一个令人不安的演示
 
 这是来自Linus Tech Tips的Linus，我们入侵了电话网络，以便监视他。

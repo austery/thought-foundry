@@ -7,7 +7,7 @@ date: 2025-07-10
 guest: null
 insight: null
 layout: post.njk
-project: 知行小酒馆
+project: []
 series: null
 source: https://www.youtube.com/watch?v=W1APBdE8wOs
 speaker: 知行小酒馆
@@ -19,7 +19,6 @@ tags:
 title: E164：吉姆·西蒙斯，征服市场的人
 updated: 2025-09-01T13:04
 ---
-
 # E164 吉姆·西蒙斯：征服市场的人
 
 ## 引言：一位偶像的金融革命

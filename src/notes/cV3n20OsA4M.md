@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Palantir
@@ -15,9 +15,7 @@ layout: post.njk
 products_models:
 - AIP
 - Ontology
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cV3n20OsA4M
 speaker: Money or Life 美股频道
@@ -31,7 +29,6 @@ tags:
 - value
 title: 深入解析Palantir：AIP大会精华与三大争议点剖析
 ---
-
 ### Palantir AIP大会精华总结与三大争议点
 
 大家好，欢迎来到Money or Life美股频道。本期视频将对Palantir近期举行的AIP conference 8（**AIP大会**：Palantir每年举办的人工智能平台会议，展示其最新产品和客户案例）长达三小时的视频内容进行精华总结。借此机会，我们也将深入探讨关于Palantir的三个主要争议点。

@@ -19,10 +19,7 @@ people:
 - Kash Patel
 - Charlie Kirk
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3G-zVSrQkOg
 speaker: 北美王路飞
@@ -35,7 +32,6 @@ tags:
 - us-election-2024
 title: 美国中期选举、教育差异与海外华人责任：一场深度对话
 ---
-
 ### 教育体制对比与创新思维
 
 中国在基础教育方面非常重视，其教育系统源自德国，因此非常注重培养**螺丝钉**（Rosstein: 指在大型组织中扮演固定、重复性角色的个体）。这是中美教育的一个显著区别。在优质基础教育的加成下，中国在**STEM**（Science, Technology, Engineering, Mathematics: 科学、技术、工程、数学领域）领域表现非常优秀。中国可能缺乏一些需要**新颖性**（novity: 创新性和独创性）和奇思妙想的顶尖人才，但在基础操作和实际操作上非常出色，这与中国的教育制度密切相关。培养创新思维需要打破常规，不追寻所谓的“正确答案”，而我们从小接受的教育模式往往限制了这种思维方式。

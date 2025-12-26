@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times Podcasts
@@ -27,7 +27,6 @@ tags:
 - trend
 title: 2025年儿童礼物指南：听听孩子们想要什么
 ---
-
 ### 节日礼物季：倾听孩子们的心声
 
 我是 Rosie，欢迎收听 Wire Cutter Show。我们即将结束今年的节日礼物系列节目。在这个系列中，我们为大家推荐产品、提供送礼建议，并解答听众关于节日期间如何为所爱之人挑选礼物的疑问。虽然本系列之前的节目大多是为成年人准备的，但根据我的经验，孩子往往是礼物清单上最难搞定的接收者——他们几乎总是很挑剔，坦率地给出反馈，对想要的东西非常具体，有时又极其模糊。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - Google
@@ -13,10 +13,7 @@ media_books:
 - novel-discovery
 products_models:
 - AlphaGo
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zwXz30EYyfQ
 speaker: EO
@@ -31,7 +28,6 @@ tags:
 - startup-culture
 title: Radical AI：用AI重塑科学发现，告别低垂果实
 ---
-
 ### AI的真正潜力：追求新颖发现
 
 人工智能（AI: Artificial Intelligence）如此不可思议，这项技术将改变世界。我不明白的是，为什么每个人都在摘取低垂的果实，解决一些小问题。

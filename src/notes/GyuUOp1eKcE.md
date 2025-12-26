@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-08-23'
 draft: true
@@ -7,9 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GyuUOp1eKcE
 speaker: 徒步的騎手
@@ -22,7 +20,6 @@ tags:
 - social
 title: 法官卡普里奥的遗产：当法律的天平遇见人性的温度
 ---
-
 ### 一位感动世界的地方法官
 
 在美国，乃至全世界，有一位法官的名字广为人知，他就是**弗兰克·卡普里奥**（Frank Caprio）。他并非最高法院的大法官，而是在**普罗维登斯市法院**（Providence City Court: 美国罗德岛州的一个市级法院，主要处理交通违章等轻微案件）工作。然而，他审理案件的视频却在网络上获得了数十亿的点击量，感动了无数人。

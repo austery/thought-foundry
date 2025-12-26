@@ -10,10 +10,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- investment-strategy
-- market-cycles
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HFbClKHiWlc
 speaker: 海淀拙大叔
@@ -26,7 +23,6 @@ tags:
 - technology
 title: 医美行业投资深度解析：胶原蛋白与玻尿酸的未来增长潜力
 ---
-
 ### 医美行业投资概览与市场洞察
 
 本期“阿甘财富增长论”将深入探讨**医美**（医疗美容：通过医学手段改善人体外貌和形态的专业服务）行业的**胶原蛋白**（Collagen: 一种在动物体内广泛存在的蛋白质，是结缔组织的主要成分）领域，这是对消费行业预判的第三篇。投资的核心逻辑是“底部买入好公司”。回顾过往，去年11月讨论的中心国际从28港元涨至75港元；蓝企科技从68元涨至150元；两个月前讨论A股与H股差价时提及的宁德时代，从250元人民币涨至400元。这些公司都符合行业底部反转且业绩高增长的投资标准。尽管东方财富和小米集团等公司在讨论后股价波动不大，但只要是业绩能持续高增长的好公司，其价值迟早会体现。

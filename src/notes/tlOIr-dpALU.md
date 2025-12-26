@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - ARK Invest
@@ -19,9 +19,7 @@ people:
 products_models:
 - ChatGPT
 - FSD
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tlOIr-dpALU
 speaker: 海淀拙大叔
@@ -35,7 +33,6 @@ tags:
 - technology
 title: 木头姐2025大预言：颠覆性创新如何驱动经济指数级增长与财富重构
 ---
-
 ### 木头姐“2025大预言”概览与背景
 
 “阿甘财富增长论”第四集将聚焦**木头姐**（Cathie Wood: 方舟投资创始人，以专注于颠覆性创新技术投资闻名）的“2025大预言”。这份由**方舟投资**（ARK Invest: Cathie Wood创立的投资管理公司）发布的“Big Ideas 2025”报告，近期备受关注。尽管市场对其有诸多概括性介绍，但详细分析却相对较少。报告中包含许多令人震惊的数据和预测，因此有必要进行详细解读，以供认真研究的读者参考。

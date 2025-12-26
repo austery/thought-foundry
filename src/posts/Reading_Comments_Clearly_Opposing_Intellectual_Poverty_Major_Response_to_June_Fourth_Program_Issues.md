@@ -1,11 +1,9 @@
 ---
 title: 读评论：旗帜鲜明地反对知识贫瘠——关于六四两期节目问题的重大回应
 summary: null
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- china-analysis
-- historical-insights
+project: []
 tags:
 - china-politics
 - society
@@ -27,7 +25,6 @@ layout: post.njk
 series: null
 source: null
 ---
-
 ### 目录
 
 ## 开场白：为何要回应争议评论

@@ -22,10 +22,7 @@ people:
 - Stephen Harper
 - Danielle Smith
 - Joe Biden
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f66NH7OI3hA
 speaker: 莊也雜談
@@ -40,7 +37,6 @@ tags:
 - strategy
 title: 阿尔伯塔“退群”风波：加拿大联邦解体危机深度解析
 ---
-
 ### 阿尔伯塔独立运动：一场可能颠覆加拿大联邦结构的政治风暴
 
 在加拿大西部的心脏地带，正酝酿着一场可能颠覆整个加拿大联邦结构的政治风暴。一项悄然通过的省级法案，竟然可能为阿尔伯塔省走向独立铺平了道路。为什么一个为加拿大经济做出巨大贡献的省份，会对加拿大这个国家的统一产生如此深刻的质疑？他们是愤怒、无奈，还是精心布局的政治筹码？阿省真的要闹分家了吗？而且，阿省到底能不能达到自己的目的？本文将从历史恩怨、能源经济、民意裂痕到法律迷宫，全面细致地深入分析这场关于独立与归属的政治大戏背后的精彩内幕和深层逻辑。

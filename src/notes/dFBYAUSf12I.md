@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -15,8 +15,7 @@ people:
 - 宋晏仁医师
 products_models:
 - Inbody
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dFBYAUSf12I
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +27,6 @@ tags:
 - strength-training
 title: 更年期肥胖的运动与饮食策略：平衡荷尔蒙，逆转体态
 ---
-
 ### 荷尔蒙失衡与更年期肥胖的挑战
 
 **雯心医师:** 所以其实在**更年期肥胖**（Menopausal Obesity: 指因荷尔蒙变化导致的体重增加和脂肪重新分布）方面，男生女生都有一个共通的原因。男生的**睪固酮**（Testosterone: 一种主要的雄性激素，对肌肉量有重要影响）较高，所以他的肌肉量本来就比女生高。那女生为了孕育下一代，身体的脂肪比例就高。结果造成更年期以后呢，嗨大家好，我是雯心医师，欢迎回到**全齡運動處方**（一个关于全年龄段运动健康的节目系列）。你有没有发现40岁以后无论男女，身材越来越不受控呢？其实这都是荷尔蒙失衡的影响哦。所以我们今天很高兴地再次邀请了徐栋英教官来替我们谈谈，如何透过运动平衡荷尔蒙，对抗更年期的肥胖。让我们欢迎。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TED
@@ -14,10 +14,7 @@ media_books:
 people:
 - William James
 products_models: []
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n6VzKtEKs3o
 speaker: TED
@@ -31,7 +28,6 @@ tags:
 - self
 title: 大脑如何塑造你的现实：意识、自我与控制性幻觉
 ---
-
 ### 意识的奥秘：从麻醉中醒来
 
 就在一年多前，我生平第三次停止了存在。我当时正在接受一个小手术，我的大脑被**麻醉剂**（Anesthetic: 用于暂时阻断疼痛感或意识的药物）充满。

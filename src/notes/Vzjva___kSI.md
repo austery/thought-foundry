@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Bloomberg Podcasts
@@ -24,10 +24,7 @@ people:
 - Joe Weisenthal
 - Henry Ford
 - Eric Adams
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Vzjva___kSI
 speaker: Bloomberg Podcasts
@@ -41,7 +38,6 @@ tags:
 - talent
 title: 美国住房成本居高不下：生产力停滞与预制建筑的困境
 ---
-
 ### 美国住房建设的效率困境
 
 **Joe:** 住房问题在于我们尚未找到将其**离岸外包**（offshore: 将生产或服务转移到海外）给中国的方法。如果我们做到了，那么住房成本可能会像我们在中国制造的其他所有商品一样变得更便宜。

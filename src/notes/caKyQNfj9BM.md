@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - nvidias-journey
@@ -26,10 +26,7 @@ products_models:
 - AlexNet
 - GPT
 - ChatGPT
-project:
-- us-analysis
-- historical-insights
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=caKyQNfj9BM
 speaker: Best Partners TV
@@ -41,7 +38,6 @@ tags:
 - psychology
 title: 黄仁勋的AI远见：能源、恐惧与英伟达的生存之道
 ---
-
 ### 黄仁勋的AI远见：能源、恐惧与英伟达的生存之道
 
 在人类科技变革的最前沿，英伟达CEO黄仁勋无疑是站在聚光灯下的人物。他将一家游戏显卡公司打造成全球市值巅峰的企业，成为人工智能时代的“军火商”。最近，黄仁勋做客了全美顶流播客节目，与主持人乔·罗根（Joe Rogan）进行了长达数小时的深度对话，内容不仅涉及芯片与AI，更触及人类命运、能源未来以及个人成长。

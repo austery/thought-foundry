@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - FBI
@@ -21,8 +21,7 @@ products_models:
 - Windows
 - Android
 - iOS
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EYIldddAeQ4
 speaker: 莊也雜談
@@ -36,7 +35,6 @@ tags:
 - tech
 title: 2023年美加十大危险诈骗深度解析（下）：预防钓鱼、贷款与技术支持诈骗
 ---
-
 ### 2023年美加十大危险诈骗回顾与下半场解析
 
 大家好，我是庄也。今天我们继续聊2023年美国和加拿大最危险的十大网络诈骗。上集我们回顾了排名前五的诈骗类型，分别是排名第一的投资及加密货币投资诈骗、排名第二的求职诈骗、排名第三的网络购物诈骗、排名第四的家居装修诈骗，以及排名第五的爱情诈骗。今天我们继续探讨排名第六到第十的诈骗。请注意，不要因为这些诈骗排名靠后就低估它们的危害，事实上，其中有几种在生活中非常常见，波及面更广，危害同样不容小觑，因此千万不要掉以轻心。

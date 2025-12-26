@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NASA
@@ -30,10 +30,7 @@ products_models:
 - Apollo
 - Galileo
 - Cosmos
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iUTXblI295E
 speaker: 记者易速利
@@ -47,7 +44,6 @@ tags:
 - space
 title: 马斯克与NASA的太空权力之争：从登月计划到星链霸权
 ---
-
 ### 马斯克与NASA代理局长的公开冲突
 
 埃隆·马斯克与美国政府体制的冲突再度爆发。美国交通部长兼**国家航空航天局**（NASA: 负责美国民用太空计划、航空科研和长期空间探索的联邦机构）代理局长**肖恩·达菲**（Sean Duffy: 美国政治人物，曾任国会众议员，现任美国交通部长兼国家航空航天局代理局长）最近连续出现在两档电视节目当中，表示希望将目前NASA联邦独立机构的地位变成交通部的下属机构，这意味着它可以直接由交通部管理。另外，他正在考虑如何调整**重返月球**（Return to the Moon: 指美国旨在再次将宇航员送上月球表面的计划）的计划。SpaceX将把新飞船改造为月球飞船，但目前已经落后于NASA在2027年登月的目标，这可能无法实现。因此，他希望扩大竞争，邀请更多公司参与开发，将人类从月球轨道送至月球表面，然后再返回月球轨道上的月球飞船，目的是在竞争当中加快进度，在特朗普任期内实现重返月球的目标，赶在中国前头。

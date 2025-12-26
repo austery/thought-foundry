@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-06-12'
@@ -13,11 +13,7 @@ people:
 - elon-musk
 products_models:
 - stablecoin
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vnjJIrBOGA4
 speaker: 投资TALK君
@@ -28,7 +24,6 @@ tags:
 - us-stock-market
 title: 美股三大利好为何市场不买单？CPI、关税与马斯克/川普争端深度剖析
 ---
-
 ### 美股三大利好与市场反应
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小陶。周三美股出现了三大利好：一组非常好的**CPI**（Consumer Price Index: 消费者物价指数，衡量居民消费价格变动的指标）数据，中美之间的关税似乎画上了句号，同时马斯克和川普之间的斗嘴也好像画上了句号。但是，为什么在三大利好的情况下，美股却出现了下跌？针对这三大利好，我将和大家一个一个地剖析，这就是今天的三大主题。

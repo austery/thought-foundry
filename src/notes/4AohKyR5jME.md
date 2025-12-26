@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2024-11-29'
@@ -11,10 +11,7 @@ media_books:
 - 《春晖》
 - 《我的理想》
 products_models: []
-project:
-- cultural-critique
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4AohKyR5jME
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - system
 title: 从今往后的人生，我希望你为自己而活：一位漫画家教师的教育觉醒
 ---
-
 ### 教师的困境：当“好老师”的标准成为牢笼
 
 我叫阮筠庭，是一名漫画家，也在中国美术学院教了23年画。  

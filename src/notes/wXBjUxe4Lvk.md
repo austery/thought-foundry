@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TED
@@ -19,9 +19,7 @@ media_books:
 - The Anxious Generation
 people:
 - Jonathan Haidt
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wXBjUxe4Lvk
 speaker: TED
@@ -35,7 +33,6 @@ tags:
 - resilience-building
 title: 如何培养自信独立的孩子：应对焦虑时代的育儿挑战
 ---
-
 ### “美国最差妈妈”与“放养式育儿”的文化冲击
 
 您在演讲开始时提到，在您让九岁的儿子独自乘坐纽约市地铁后，您曾被称为“**美国最差妈妈**”（America's Worst Mom: 一个讽刺性称号，指因允许孩子独立行动而受到公众批评的母亲），而您欣然接受了这个称号。

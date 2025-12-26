@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -56,10 +56,7 @@ products_models:
 - Atlas
 - Sora
 - Rufus
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wfdtNyPQqtE
 speaker: Amit Kukreja
@@ -74,7 +71,6 @@ tags:
 - stock-market-trend
 title: 市场收盘分析：MongoDB 财报超预期，英伟达需求依旧强劲
 ---
-
 ### 市场收盘概览：涨跌互现，比特币承压
 
 欢迎回到市场收盘节目。这是我们大约五天来的首次市场收盘，很高兴能回来。今天是十二月的第一天，我们来看看市场表现如何。早盘市场下跌，午后转为上涨，现在则处于来回拉锯的状态。标普500指数和比特币的走势是今日的焦点，不幸的是比特币一直处于下行趋势。比特币目前价格为85,000美元，盘中一度跌至83,000美元，而清晨时还高达91,000美元。

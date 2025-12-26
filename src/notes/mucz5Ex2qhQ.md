@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Netflix
@@ -68,10 +68,7 @@ people:
 products_models:
 - IBM PC
 - Steam
-project:
-- china-analysis
-- us-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mucz5Ex2qhQ
 speaker: 張内咸
@@ -84,7 +81,6 @@ tags:
 - war
 title: Netflix 亚洲原创剧集 Top 10 榜单：为何韩剧霸榜，第一名却出人意料？
 ---
-
 ### 电影院线的衰落与流媒体的崛起
 
 大家好，我是张内咸。整个2024年，在电影市场如此不景气的情况下，我依然看了十几场电影，纯粹是出于热爱。我的工作与电影并无关系，因为我根本没有工作。然而，像我这样的专业影迷已是凤毛麟角。

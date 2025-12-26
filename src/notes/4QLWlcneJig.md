@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Meta
@@ -32,10 +32,7 @@ products_models:
 - Facebook Marketplace
 - ChatGPT
 - WhatsApp
-project:
-- entrepreneurship
-- personal-growth-lab
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4QLWlcneJig
 speaker: The Diary Of A CEO
@@ -49,7 +46,6 @@ tags:
 - strategy
 title: 从副业到百万富翁：Chris Kerner的低成本创业与成功心法
 ---
-
 ### 副业致富：低成本创业的时代机遇
 
 许多人正在寻找通过**副业**（Side Hustle: 在主业之外开展的额外工作或业务以赚取收入）获得**被动收入**（Passive Income: 无需持续投入大量精力即可获得的收入）的机会。这就像一场“金融奥运会”，而且现在比以往任何时候都更容易参与。我所讨论的90%的创业想法都可以在500美元或更少的预算下启动，并且在晚上和周末有足够的时间来完成。在我面前的三个手提箱里，放着三笔不同金额的钱。在这次对话中，我将随机递给你一个盒子，你的任务是告诉我你会用这笔钱启动什么样的业务。听起来不错，我们开始吧。Chris Kerner被誉为“副业之王”，他已经启动了80多个业务，在此过程中赚取了数百万美元。现在，这位连续创业家将教我们如何培养商业思维，并以少量资金启动简单、被忽视但有利可图的 ventures。

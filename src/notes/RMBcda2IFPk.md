@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国最高法院
@@ -13,10 +13,7 @@ media_books: '[]'
 people:
 - 乔治·华盛顿
 products_models: '[]'
-project:
-- us-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RMBcda2IFPk
 speaker: 徒步的騎手
@@ -28,7 +25,6 @@ tags:
 - right
 title: 法律如何为自由划界：美国经验与中国启示
 ---
-
 ### 法律与有秩序的自由
 
 通过前面三期讲座，大家可能对自由有了一个基本的了解。今天我们讲一下法律如何为自由设限、划界。跟人民日常生活直接相关的，并不是政治哲学中讲的自由观念，也不是政治宣言中的自由理想，而是法律上有具体规定的自由，也就是各种法律权利。美国最高法院有一个说法，他说只是笼统地讲自由会不知所云，法院能管的是**有秩序的自由**（Ordered Liberty: 法律为相互冲突的利益划定边界，从而实现的自由）。

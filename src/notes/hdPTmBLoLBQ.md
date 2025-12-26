@@ -32,10 +32,7 @@ products_models:
 - Electron Rocket
 - Neutron Rocket
 - Starlink
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hdPTmBLoLBQ
 speaker: Money or Life 美股频道
@@ -48,7 +45,6 @@ tags:
 - stock-valuation
 title: SpaceX上市传闻及其对Rocket Lab和特斯拉估值的影响分析
 ---
-
 ### 频道一周年回顾与本周节目概览
 
 大家好，欢迎来到Money or Life美股频道。今天是2025年12月7号周日，本周的美股复盘加推演节目将分为两部分。第一部分将简要回顾本周大盘走势及个人交易，包括Hims & Hers以及CoreWeave两支股票。本期视频的重点在第二部分，将花费大部分时间阐述SpaceX的估值及上市传闻对Rocket Lab（RKLB）估值的影响。Rocket Lab一直是我的重仓股，另一只重仓股是特斯拉。SpaceX上市我认为会同时影响到特斯拉和Rocket Lab，这两支股票占据了我仓位的70%到80%，因此我会持续关注它们具体的影响。

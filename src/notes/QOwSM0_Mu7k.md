@@ -14,9 +14,7 @@ people:
 - 比尔·盖茨
 - 段永平
 - 孔子
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QOwSM0_Mu7k
 speaker: 美投讲美股
@@ -29,7 +27,6 @@ tags:
 - thinking
 title: 查理·芒格的投资哲学：跨学科思维与能力圈的深度解析
 ---
-
 ### 引言：查理·芒格的智慧与被低估的哲学
 
 美股不是华尔街专利，大家好，我是美投君，你们的美股探路者。一年前，投资界失去了一位真正的巨匠，一位拥有最锋利思想的智者——查理·芒格。作为几十年的老搭档，沃伦·巴菲特在悼念芒格时曾说，没有查理的灵感、智慧与参与，**伯克希尔·哈撒韦**（Berkshire Hathaway: 巴菲特和芒格共同经营的多元化控股公司）不可能有今天的成就。

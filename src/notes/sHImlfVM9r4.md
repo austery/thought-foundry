@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Anthropic
@@ -18,9 +18,7 @@ products_models:
 - Claude
 - Sonnet 4.5
 - Claude Code
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sHImlfVM9r4
 speaker: Anthropic
@@ -37,7 +35,6 @@ tags:
 - scientific-discovery
 title: Anthropic 推出 Claude 生命科学版：赋能生物研究，加速科学发现
 ---
-
 ### Claude 在生命科学中的潜力
 
 **Eric Kauderer-Abrams:** 最终，我们花了三个月的时间，实验室里很多人日以继夜地工作，才解决了那个问题。

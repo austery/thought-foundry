@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times Book Review
@@ -56,9 +56,7 @@ people:
 - Gilbert Cruz
 - Stephen King
 products_models: []
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-r9fGnIMKj0
 speaker: New York Times Podcasts
@@ -72,7 +70,6 @@ tags:
 - psychology
 title: 恐怖文学的魅力：乔·希尔与维克多·拉瓦勒的深度对谈
 ---
-
 ### 播客引言：恐怖文学的魅力与深度
 
 本周，我们沉浸在十月的氛围中，为您带来几年前与伟大恐怖作家进行的两次对话。

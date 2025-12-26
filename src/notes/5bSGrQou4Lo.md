@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: All-In Podcast
 category: finance
 date: '2025-10-08'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5bSGrQou4Lo
 speaker: all-in-podcast
@@ -22,7 +21,6 @@ tags:
 - platform
 title: YouTube CEO Neal Mohan谈AI、审查与创作者的未来
 ---
-
 ### 开场致辞与YouTube的地位
 
 [Music]

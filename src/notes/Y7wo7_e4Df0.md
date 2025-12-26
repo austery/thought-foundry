@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Salesforce
@@ -17,10 +17,7 @@ people:
 - John C. Williams
 - Nick Timiraos
 - Marc Benioff
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y7wo7_e4Df0
 speaker: 投资TALK君
@@ -35,7 +32,6 @@ tags:
 - saas-business-model
 title: ADP数据警示劳动力市场放缓，Salesforce财报透视AI落地与市场预期
 ---
-
 各位观众大家好，欢迎来到专业美股频道。我是市场分析员小陶。由于出差几天，今天刚从波士顿回来，虽然有些疲惫，但仍希望为大家带来最新的市场更新，因为正好今天有一些重要数据和新闻。废话不多说，我们直接开始。在开始之前，别忘了点赞留言，让更多人看到这期内容。
 
 ### 市场资产价格走势与美联储降息预期

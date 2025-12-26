@@ -23,9 +23,7 @@ people:
 products_models:
 - OddLots podcast
 - USMCA
-project:
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2F5xZciOO9U
 speaker: Bloomberg Podcasts
@@ -38,7 +36,6 @@ tags:
 - tariff-impact
 title: 古尔斯比对通胀的持续担忧：美联储官员对经济前景的深度剖析
 ---
-
 ### 播客开场与会议背景
 
 **Joe Weisenthal:** 大家好，欢迎收听《OddLots》播客的又一期节目，我是乔·魏森塔尔。

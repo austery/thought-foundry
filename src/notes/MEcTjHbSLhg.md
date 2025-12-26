@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -12,10 +12,7 @@ people:
 - Nikolai
 - Mark
 products_models: []
-project:
-- entrepreneurship
-- systems-thinking
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MEcTjHbSLhg
 speaker: Norges Bank Investment Management
@@ -29,7 +26,6 @@ tags:
 - value
 title: Visma的文化驱动增长：一家软件巨头的并购与领导力策略
 ---
-
 ### 引言：文化作为Visma的价值驱动力
 
 非常感谢您的精彩介绍，也感谢Nikolai今天让我有机会介绍Visma。

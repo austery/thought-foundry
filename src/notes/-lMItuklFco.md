@@ -20,10 +20,7 @@ products_models:
 - Gemini 2.5 Flash Light
 - NotebookLM
 - Claude
-project:
-- ai-impact-analysis
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-lMItuklFco
 speaker: How I AI
@@ -36,7 +33,6 @@ tags:
 - workflow-automation
 title: ChatGPT智能代理模式：招聘、客户画像与通勤优化
 ---
-
 ### 开启AI代理模式：你的“小帮手”
 
 Clarva: 我们将从一个在“How I AI”节目中尚未出现过的话题开始，那就是ChatGPT的**代理模式**（Agent Mode: 一种允许AI执行多步骤任务并与外部环境交互的运行模式）。

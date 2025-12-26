@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - Caltech
@@ -8,9 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pe83T9hISoY
 speaker: veritasium
@@ -23,7 +21,6 @@ tags:
 - science
 title: 第九行星是否存在？一段关于太阳系边缘的探索之旅
 ---
-
 ### 引言：第九行星的猜想
 
 主持人: 那么，你认为第九行星存在的概率是99.8%吗？

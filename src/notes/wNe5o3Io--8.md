@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Instacart
@@ -24,10 +24,7 @@ people:
 - Donald Trump
 - Ben Castleman
 - Jared Kushner
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wNe5o3Io--8
 speaker: New York Times Podcasts
@@ -41,7 +38,6 @@ tags:
 - us-china-relations
 title: 动态定价的隐忧、特朗普的经济与地缘政治棋局，以及加沙的权力重塑
 ---
-
 ### 动态定价的隐忧：消费者面临的价格差异
 
 今年秋季的一个早晨，几十名志愿者通过视频通话聚集在一起，进行了一项实验。

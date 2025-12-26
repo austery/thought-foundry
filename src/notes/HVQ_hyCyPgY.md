@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - The New York Times
@@ -15,10 +15,7 @@ media_books:
 people:
 - Rachel Abrams
 - Peter Goodman
-project:
-- us-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HVQ_hyCyPgY
 speaker: New York Times Podcasts
@@ -32,7 +29,6 @@ tags:
 - supply-chain-ethics
 title: “清洁”技术背后的污染：全球电池回收链的隐秘代价
 ---
-
 ### “清洁”技术背后的肮脏交易
 
 我是《纽约时报》的雷切尔·艾布拉姆斯，这里是《每日》节目。

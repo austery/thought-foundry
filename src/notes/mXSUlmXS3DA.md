@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mXSUlmXS3DA
 speaker: 投资TALK君
@@ -25,7 +23,6 @@ tags:
 - real
 title: 银行危机卷土重来？借贷风暴下的市场避险与投资策略
 ---
-
 ### 市场避险情绪升温与资产价格走势
 
 欢迎来到专业美国频道，我是市场分析员小陶。今天将重点讨论市场走势、中小型银行借贷中可能出现的问题，以及针对这些事件的投资视角和准备工作。首先回顾资产价格走势，整体来看，**美元指数**（U.S. Dollar Index: 衡量美元兑一篮子主要货币的汇率变化）下跌，**美债收益率**（U.S. Treasury Yield: 美国国债的投资回报率，反映市场利率水平和避险情绪）下跌，TOT上涨，这表明市场正在避险。同时，**垃圾级别债券利差**（Junk Bond Spread: 高风险企业债券与无风险国债之间的收益率差，反映市场对风险的厌恶程度）上升了10个基点，黄金上涨2.8%，**VIX指数**（VIX Index: 芝加哥期权交易所波动率指数，衡量市场对未来30天股市波动性的预期，又称“恐慌指数”）上涨22.6%，显示出明显的避险走势。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-09-26'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vLIDHi-1PVU
 speaker: Anthropic
@@ -24,7 +22,6 @@ tags:
 - technology
 title: Claude Code 的设计哲学：终端、LLM 与开发者工作流的融合
 ---
-
 ### 欢迎与产品介绍
 
 - Hi, I'm Alex. I lead Claude Relations here at Anthropic. Today we're talking about design for Claude Code and I'm joined by my colleague Meaghan.

@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cu0u-aflw5w
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - valuation
 title: 市场动态、财报解读与Figma IPO估值策略
 ---
-
 各位观众大家好，欢迎来到一个不单只聊新闻的专业日更美股频道，我是市场分析员小涛。今天为大家准备了丰富的新内容，涵盖财报、热门IPO以及个股分析。
 
 首先，财报季我们将讨论通用汽车和可口可乐两家公司。其次，正如标题所示，Circle（CRCL）今日出现下跌，如果错过了它的**IPO**（首次公开募股：指一家企业或公司第一次将它的股份向公众出售），下一个值得我们关注的IPO是哪家公司呢？稍后我将揭晓答案。最后，和大家分享一只我今天清仓的个股，并解释在何种条件下我会做出清仓决定。

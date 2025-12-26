@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - UC Berkeley
@@ -21,10 +21,7 @@ media_books:
 people:
 - Stephen Hawking
 - Richard Feynman
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GWOPRdN8INU
 speaker: All-In Podcast
@@ -36,7 +33,6 @@ tags:
 - technology
 title: 诺贝尔物理学奖得主约翰·马蒂尼斯：量子跃迁如何改变一切
 ---
-
 ### 欢迎与诺贝尔奖得主对话
 
 主持人: 欢迎。今天我非常高兴能与本周的诺贝尔奖得主，2025年诺贝尔物理学奖获得者约翰·马蒂尼斯进行这次“All-In”访谈。约翰，欢迎来到“All-In”访谈。

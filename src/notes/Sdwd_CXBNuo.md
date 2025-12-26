@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - New York Times
@@ -25,10 +25,7 @@ people:
 - Nicholas Maduro
 - JD Vance
 - Marco Rubio
-project:
-- ai-impact-analysis
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Sdwd_CXBNuo
 speaker: New York Times Podcasts
@@ -42,7 +39,6 @@ tags:
 - labor-market
 title: 亚马逊的机器人革命：自动化如何重塑美国劳动力市场
 ---
-
 ### 亚马逊的机器人革命：劳动力市场的新篇章
 
 来自《纽约时报》，我是娜塔莉·基特鲁夫，这里是《The Daily》。

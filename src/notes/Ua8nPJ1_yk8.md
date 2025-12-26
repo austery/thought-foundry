@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - a16z
@@ -17,9 +17,7 @@ products_models:
 - ChatGPT
 - Claude
 - Gemini
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ua8nPJ1_yk8
 speaker: a16z
@@ -35,7 +33,6 @@ tags:
 - tool
 title: Emmett Shear 论 AI 对齐：超越驾驭与控制，构建真正关心人类的 AI
 ---
-
 ### 超越驾驭与控制：构建真正关心人类的 AI
 
 目前大多数关于 AI 的研究都将**对齐**（Alignment：确保 AI 系统的目标和行为与人类的价值观和意图一致）视为一种“驾驭”（steering）。这是一个比较委婉的词。如果你认为我们正在创造的是生命体，你也可以称之为“奴役”。

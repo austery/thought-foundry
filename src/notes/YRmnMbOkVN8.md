@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 北京大学
@@ -15,9 +15,7 @@ media_books:
 - 《匹配》
 people:
 - 王阳明
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YRmnMbOkVN8
 speaker: 知行小酒馆
@@ -30,7 +28,6 @@ tags:
 - strategy
 title: 对话叶晓阳：在不公平的高考志愿体系中，如何为普通人争取更多可能
 ---
-
 ### 缘起：一个好制度应保护普通人
 
 一个好的制度会保护那些不了解规则的普通人，但高考志愿填报系统却恰恰相反。在过去十年里，我不仅在书斋里研究教育公平，也一直在全国各地奔走，与一线的师生互动。我带着团队去过宁夏、贵州，以及中西部的许多中小城市和乡镇学校，帮助那些因信息匮乏而在教育竞争中处于劣势的学生和家长，让他们少走弯路。

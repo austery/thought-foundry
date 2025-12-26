@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -28,10 +28,7 @@ people:
 - Masayoshi Son
 products_models:
 - GPT
-project:
-- us-analysis
-- geopolitics-watch
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UzzouKS6sPg
 speaker: Shanghao Jin
@@ -46,7 +43,6 @@ tags:
 - us-china-relations
 title: 2025年8月市场展望：通胀、降息与科技巨头的投资策略
 ---
-
 ### 市场概览与美联储政策展望
 
 本周市场焦点在于即将公布的通胀数据。上周经济数据不多，但本周二将发布通胀数据，市场对此高度关注。近期就业数据表现不佳，市场已开始将“**坏数据就是好数据**”（Bad News Is Good News: 指经济数据表现不佳时，市场预期美联储会降息，从而利好股市的现象）纳入定价。然而，对于上次坏数据所对应的降息预期，市场定价仍显不足。

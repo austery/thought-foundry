@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 南京大学
@@ -25,10 +25,7 @@ people:
 - 林彪
 - 刘少奇
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ga4F9-q3k-k
 speaker: 柴静 Chai Jing
@@ -42,7 +39,6 @@ tags:
 - political
 title: 高华：说出真相是我的宿命——柴静访谈与历史学家的坚守
 ---
-
 ### 纪念高华：一位历史学家的遗产
 
 上期节目我采访**龙应台**（Lung Ying-tai: 台湾著名作家、文化评论家，曾任台湾文化部长）时，提到了大陆历史学家高华，评论区中有许多人在纪念他。**傅高义**（Ezra Vogel: 美国著名汉学家，哈佛大学荣休教授）曾经说过，高华在2011年去世，是当代中国历史研究领域失去了最杰出的学者之一，但14年后，人们没有忘记他。在这个频道，我将播出高华教授生前的讲座《毛泽东何以发动文革》，并对他做一个简单的介绍。

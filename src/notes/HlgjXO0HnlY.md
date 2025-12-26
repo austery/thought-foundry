@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - MSCI
@@ -24,10 +24,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HlgjXO0HnlY
 speaker: Shijun Tang
@@ -41,7 +38,6 @@ tags:
 - switching-cost
 title: 我找到了一家新的复利机器：MSCI、ServiceNow 与 Oracle 的投资本质分析
 ---
-
 ### MSCI：指数霸权与气候评级的复利引擎
 
 我找到了一家新的复利机器！这家公司的基本面几乎可以说是无懈可击，并且拥有极宽的护城河。今天我要谈的就是美股中的 **MSCI**（Morgan Stanley Capital International：全球领先的指数与投资决策数据提供商）。

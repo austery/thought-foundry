@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - 哥伦比亚大学
@@ -15,10 +15,7 @@ people:
 - 张维为
 products_models:
 - '[]'
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vU-Xt4c3JrI
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - philosophy
 title: 中国饮水与食品污染的根源：集体虚荣心与世代轮回的心理分析
 ---
-
 ### 中国饮水与食品安全现状及官方回应
 
 各位好，上期节目讨论爱博斯坦和阴谋论，招来了一些川粉和阴谋论患者。做完大扫除以后，我们再讲讲中国的事情。这几天，中国又爆出了几件让人头皮发麻的隐私安全事件：甘肃天水幼儿园的小朋友因为吃的食物有毒集体铅中毒；杭州居民发现自来水浑浊，散发出粪便气味。官方公布了真相，当然，真相都是加引号的。他们说铅中毒是孤立事件，说粪便气味的自来水中没有粪便。官方公布的这些结论可能连官方自己都不相信，因为中国没有权力制衡，没有有效的监督，而且成功地消灭了独立媒体，这些事件的真相没有人知道。

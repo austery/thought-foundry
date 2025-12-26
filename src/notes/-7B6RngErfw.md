@@ -20,10 +20,7 @@ people:
 - Elon Musk
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-7B6RngErfw
 speaker: Money or Life 美股频道
@@ -37,7 +34,6 @@ tags:
 - us-stock-market
 title: 市场恐慌下跌：我的加仓策略与持股分析
 ---
-
 ### 市场回调下的心态与策略
 
 欢迎来到Money or Life美股频道。11月前两个交易日，我的账户回撤了10%。那么，我是否感到恐慌？我最近买入了哪些股票？特别是在昨天到今天早上盘后夜盘持续下跌的时候，我将在本期视频中与大家分享。

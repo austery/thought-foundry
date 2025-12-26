@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies:
 - gpu-lifecycle
@@ -26,9 +26,7 @@ people:
 products_models:
 - H100
 - H200
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cvNO9pZAhM0
 speaker: Bloomberg Podcasts
@@ -42,7 +40,6 @@ tags:
 - society
 title: AI 驱动下的数据中心融资：挑战、机遇与未来趋势
 ---
-
 ### 数据中心融资的复杂性与规模
 
 在人工智能（AI）成为焦点之前，电网互联队列中已有约 2600 吉瓦（GW）的项目，但预计其中 80% 最终不会被建设。这种现象在数据中心领域尤为突出，它们不仅是高科技设施，也涉及房地产和能源基础设施。许多原本不具备经济效益的发电项目（如太阳能、风能或电池储能）通过叠加数据中心层，变得有利可图。

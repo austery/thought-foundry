@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Vercel
@@ -18,8 +18,7 @@ products_models:
 - Next.js
 - Node.js
 - gRPC
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LSiYdiMGS4U
 speaker: Peter Pang
@@ -32,7 +31,6 @@ tags:
 - system
 title: React满分漏洞深度解析：前端框架如何引发半个互联网瘫痪
 ---
-
 ### React满分漏洞：前端框架的致命安全隐患
 
 在开发后端系统时，有一个基本原则至关重要：永远不要相信前端传来的任何数据。如果不遵守这一原则，结果可能会像**React**（一个用于构建用户界面的JavaScript库）一样，喜提满分10分的前端框架历史上最严重的安全漏洞。

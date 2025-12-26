@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Johns Hopkins University
@@ -36,9 +36,7 @@ people:
 - Tsung-Dao Lee
 - Chien-Shiung Wu
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rT7DMb3ZucU
 speaker: Big Think
@@ -52,7 +50,6 @@ tags:
 - social
 title: 爱因斯坦的广义相对论：个人天才与集体智慧的交织
 ---
-
 ### 科学发现的社会背景
 
 我喜欢说，爱因斯坦作为一名物理学家，即使被评价得再高，也可能被低估了。当我们讲述物理学史时，我们试图保持清晰，但不可能记住所有细节，所以我们倾向于将大部分功劳归于少数几位杰出人物，爱因斯坦就是其中之一。

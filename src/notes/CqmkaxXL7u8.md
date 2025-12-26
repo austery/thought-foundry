@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - ByteDance
@@ -26,10 +26,7 @@ people:
 products_models:
 - DeepSeek
 - TikTok
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CqmkaxXL7u8
 speaker: LT視界
@@ -43,7 +40,6 @@ tags:
 - us-china-relations
 title: 中美贸易谈判：稀土、TikTok与大豆背后的妥协与地缘政治转向；林毅夫经济预测如何塑造中国高层信心？
 ---
-
 ### 中美马来西亚贸易谈判焦点与各方表态
 
 今天的热点透视聚焦于举世瞩目的中美马来西亚贸易谈判，这一事件吸引了全球舆论的广泛关注。

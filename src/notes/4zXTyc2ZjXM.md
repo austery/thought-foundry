@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: productivity
 companies_orgs: []
 date: '2023-01-07'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4zXTyc2ZjXM
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - time-management
 title: 坚持早起一年：我搞懂了改变人生的真正秘密
 ---
-
 ### 早起实践的起点与核心发现
 
 2021年8月21日，我在YouTube社区分享了自己阅读了那本著名的**《5 AM CLUB》**（The 5 AM Club: 一本倡导早起习惯以提升效率和改变人生的畅销书）后，已坚持5点起床25天的状态。当时我之所以尝试早起，是想弄清楚这种习惯是否真如书中所说那般神奇，能够倍增效率，甚至彻底改变人生。到2023年1月5日，我已坚持早起一年多，自认终于搞懂了早起的奥义。在本期视频中，我将结合自身真实体会，探讨我们对早起的误解，并分享如何通过早起真正改变人生的方法，以及一些实用的早起技巧。

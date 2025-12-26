@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - S&P 500
@@ -43,10 +43,7 @@ products_models:
 - Gemini
 - ChatGPT
 - FSD (Full Self-Driving)
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EJgJr4MatgM
 speaker: Amit Kukreja
@@ -60,7 +57,6 @@ tags:
 - government-shutdown
 title: 市场回顾：政府停摆结束、Michael Burry看空AI、特朗普暗示新刺激政策
 ---
-
 ### 市场回顾与政府停摆结束
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目。很高兴能再次为大家带来节目。

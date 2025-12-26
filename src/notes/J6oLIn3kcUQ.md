@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Bloomberg Podcasts
@@ -21,9 +21,7 @@ people:
 - Kale Brooks
 products_models:
 - Starlink
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J6oLIn3kcUQ
 speaker: Bloomberg Podcasts
@@ -37,7 +35,6 @@ tags:
 - supply-chain-logistics
 title: 阿拉斯加冰雪之路上的货运：Sourdough Express的百年坚守与挑战
 ---
-
 ### 欢迎来到阿拉斯加：探索独特的货运文化
 
 **Jill Weisenthal:** 大家好，欢迎收听新一期的OddLots播客。我是Jill Weisenthal。

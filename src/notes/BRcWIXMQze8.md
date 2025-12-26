@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - IMF
@@ -15,10 +15,7 @@ media_books:
 people:
 - Angus Deaton
 - Daron Acemoglu
-project:
-- us-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BRcWIXMQze8
 speaker: Money & Macro
@@ -32,7 +29,6 @@ tags:
 - wealth
 title: 经济学家事实核查Gary's Economics：不平等理论与财富税的真相
 ---
-
 ### Gary Stevenson的不平等危机论
 
 YouTube新星**Gary Stevenson**（Gary's Economics频道主）最近因其“英国等国家的普通民众将陷入赤贫”的言论而引起轩然大波。

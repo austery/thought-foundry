@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Booking.com
@@ -29,9 +29,7 @@ products_models:
 - GitHub Copilot
 - Claude
 - Cursor
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xHHlhoRC8W4
 speaker: The Pragmatic Engineer
@@ -47,7 +45,6 @@ tags:
 - structured-rollout
 title: 超越代码生成：AI 在软件工程中的真实价值与衡量之道
 ---
-
 ### 开发者满意度悖论
 主持人：节省下来的时间会带来什么影响？作为一名开发者，这对我们意味着什么？
 

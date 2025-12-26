@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-02-23'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - die-with-zero
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xNuzd4hX8as
 speaker: 一口新飯
@@ -24,7 +23,6 @@ tags:
 - personal-growth
 title: 逃离加拿大：我选择亚洲，兑现自我人生
 ---
-
 ### 告别加拿大，开启亚洲新篇章
 
 大家好，我是Ray。老观众可能已经注意到，我的背景与之前在加拿大时有所不同。事实上，在录制这段视频时，我们全家已经离开加拿大近三个月，搬到了亚洲。目前我身处马来西亚的吉隆坡，窗外便是这座城市的两大地标建筑。本期视频，我将与大家分享我长时间离开加拿大的原因、旅途中的故事，以及我未来的旅居计划，希望能为屏幕前的你带来一些启发。

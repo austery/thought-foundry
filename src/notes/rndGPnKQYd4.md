@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Google
@@ -12,10 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rndGPnKQYd4
 speaker: Big Think
@@ -29,7 +26,6 @@ tags:
 - superposition
 title: 量子计算：颠覆未来的下一场革命，从原子到多重宇宙
 ---
-
 ### 量子计算：下一场革命
 
 我们都知道，数字计算机已经改变了整个格局。能够使用数字计算机的国家变得富有、强大，能够进行通信，能够重塑经济。然而，我们现在正处于下一场革命的初期阶段。

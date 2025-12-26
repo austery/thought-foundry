@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -29,10 +29,7 @@ people:
 - Donald Trump
 - Xi Jinping
 - Jensen Huang
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Nc9fpAkzD9U
 speaker: LT視界
@@ -45,7 +42,6 @@ tags:
 - us-monetary-policy
 title: 美联储降息分歧、中俄联手破制裁与美中芯片战困境
 ---
-
 ### 财经头条：美联储降息预测与市场博弈
 
 今天是10月31日，我们首先来了解今天的财经头条，有两个方面的最新信息与网友分享。

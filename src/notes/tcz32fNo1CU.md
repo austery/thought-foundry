@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-11-01'
@@ -14,10 +14,7 @@ people:
 - Napoleon
 - Hitler
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tcz32fNo1CU
 speaker: 安争鸣（Stella An）
@@ -31,7 +28,6 @@ tags:
 - war
 title: 掌权者是下大棋还是一坨大便？李德·哈特《战争的底层逻辑》解读
 ---
-
 ### 掌权者：大棋还是大便？
 
 我们常常困惑，那些身居高位的政府官员乃至国家领导人，既然能坐到那个位置，理应比普通人更优秀。然而，有时他们的决策却令人费解，甚至显得愚蠢。作为普通人，我们通常会认为，这背后必有深意，他们可能在下一盘“大棋”，而我们只是认知水平有限，无法领会其精妙。但有没有这样一种可能，我们认为又臭又蠢的东西，它确实不是一盘大棋，而就是一坨大便呢？

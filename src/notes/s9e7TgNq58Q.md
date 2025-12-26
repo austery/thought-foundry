@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: career
 companies_orgs: []
 date: '2024-12-25'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s9e7TgNq58Q
 speaker: TechButMakeItReal
@@ -24,7 +23,6 @@ tags:
 - tech
 title: 我在阿联酋科技行业求职的真实经历：为何我拒绝了四份工作邀约
 ---
-
 ### 为什么考虑中东：高税负下的职业选择
 
 厌倦了无休止地工作，却眼睁睁看着一半薪水被税收吞噬，而拥有房产（或多处房产）且无需背负30年债务的梦想，感觉遥不可及。是的，这正是前段时间让我萌生去中东工作念头的确切原因。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TED
@@ -15,8 +15,7 @@ products_models:
 - YouTube
 - TikTok
 - Instagram
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v4XF8rqEyRA
 speaker: TED
@@ -29,7 +28,6 @@ tags:
 - technology
 title: 巧克力魔法师Amaury Guichon：艺术、匠心与甜点世界的革新
 ---
-
 ### 享誉世界的巧克力艺术家
 
 好的，主厨，我想可以说全世界都为您的精致巧克力雕塑所着迷。

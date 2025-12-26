@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - NASA
@@ -13,9 +13,7 @@ people:
 - Galileo Galilei
 products_models:
 - Voyager 1
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=En1pnT-IQ8A
 speaker: Big Think
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 寻找地外生命：德雷克方程、卡尔达肖夫指数与费米悖论
 ---
-
 ### 寻找地外生命的驱动力与陷阱
 
 许多天文学家被寻找“地球双胞胎”的愿望所强烈驱动，因为他们深信，寻找行星的最终目标是回答一个核心问题：我们是否孤独？

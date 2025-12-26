@@ -17,9 +17,7 @@ people:
 - Chiang Kai-shek
 - Joseph McCarthy
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tlNHLGVRKlc
 speaker: Dwarkesh Patel
@@ -32,7 +30,6 @@ tags:
 - power
 title: 美国力量的局限性：历史教训与地缘政治反思
 ---
-
 ### 力量的边界与代价
 
 我认为美国人需要警惕**过度扩张**。任何国家都必须警惕过度扩张，因为我们拥有**有限的资源**。此外，你还在谈论派遣你的同胞美国人去送死。要求某人做出那种牺牲，这可不是小事。要知道，这必须是值得的，对吧？美国有三亿人，而世界有八十亿人。要保持谨慎。

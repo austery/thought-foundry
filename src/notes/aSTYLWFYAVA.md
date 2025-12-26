@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aSTYLWFYAVA
 speaker: 一口新飯
@@ -22,7 +21,6 @@ tags:
 - tool
 title: Siri与ChatGPT：零成本打造你的专属英文口语教练
 ---
-
 ### 引言：Talk GPT的诞生与核心理念
 
 我利用Siri和**ChatGPT**（ChatGPT: 由OpenAI开发的人工智能聊天机器人）成功打造了一个强大的英文口语应用程序——Talk GPT 4。这款应用的灵感来源于知名口语软件**Speak**（Speak: 一款由OpenAI投资合作、基于ChatGPT技术的英文口语学习软件），其核心技术正是ChatGPT。在试用Speak后，我发现其AI对话体验极佳，由此萌生了利用自身拥有的ChatGPT资源，构建一个专属口语练习工具的想法，Talk GPT因此应运而生。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -18,9 +18,7 @@ products_models:
 - Gemini 3
 - Google AI Studio
 - Google Sheets
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=i1WotgP_VSI
 speaker: AI超元域
@@ -35,7 +33,6 @@ tags:
 - optimization
 title: Claude Opus 4.5与Chrome扩展：重新定义浏览器自动化与AI交互
 ---
-
 ### Claude Opus 4.5与Chrome扩展：AI浏览器自动化新纪元
 
 Anthropic于今天凌晨发布了最新的旗舰模型**Claude Opus 4.5**。这款模型拥有200K的**上下文窗口**（Context Window: 指AI模型在处理任务时能够同时考虑的文本量），并且在执行相同任务时，比其他模型节省76%的**Token**（Token: AI模型处理文本的最小单位，可以是词、字或字符片段）。此次Anthropic不仅发布了Opus 4.5模型，还对Claude Code进行了更新，其中默认模型已改为Opus 4.5。更重要的是，Anthropic还发布了一个针对Chrome浏览器的扩展插件——**Claude for Chrome**。使用这个扩展插件，我们可以实现真正的浏览器自动化，甚至可以替代ChatGPT的Atlas浏览器。本期视频将重点测试这款模型的浏览器自动化能力。

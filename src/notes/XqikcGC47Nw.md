@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Oracle
@@ -17,10 +17,7 @@ media_books:
 - The New York Times
 people:
 - Aaron Sorkin
-project:
-- personal-growth-lab
-- entrepreneurship
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XqikcGC47Nw
 speaker: All-In Podcast
@@ -34,7 +31,6 @@ tags:
 - trust
 title: 《莫莉的游戏》：高额扑克世界背后的真实故事与人生抉择
 ---
-
 ### 节目介绍：高额扑克传奇莫莉·布鲁姆
 
 大家好，我们的“好兄弟们”播客（All-In Podcast）在感恩节期间休息，但我们没有忘记大家。我们在拉斯维加斯录制了几段精彩的内容。首先，这是对莫莉·布鲁姆（Molly Bloom）的采访。

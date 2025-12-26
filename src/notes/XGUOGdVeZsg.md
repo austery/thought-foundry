@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CBC
@@ -18,10 +18,7 @@ people:
 - Pierre Poilievre
 - Justin Trudeau
 - Donald Trump
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XGUOGdVeZsg
 speaker: 莊也雜談
@@ -35,7 +32,6 @@ tags:
 - us-tariffs-impact
 title: 加拿大“无声内战”：省际贸易壁垒如何扼杀经济活力？
 ---
-
 ### 加拿大内贸壁垒：一场无声的经济博弈
 
 大家好，我是庄也，欢迎收看庄也杂谈。最近，加拿大政坛有件大事，估计大家都有所耳闻。**马克·卡尼**（Mark Carney: 加拿大前央行行长，现任加拿大副总理兼财政部长）在大选后的首次新闻发布会上，向加拿大民众承诺，将在2025年7月1日之前，消除所有联邦层面的省际贸易壁垒和劳动力流动障碍。随后，上周加拿大君主**查尔斯三世**（Charles III: 英国国王，加拿大国家元首）来访时，也通过皇家御座演说确认了此事。

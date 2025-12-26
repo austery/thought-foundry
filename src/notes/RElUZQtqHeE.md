@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 全国人大
@@ -13,9 +13,7 @@ media_books:
 people:
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RElUZQtqHeE
 speaker: 小翠時政財經
@@ -29,7 +27,6 @@ tags:
 - tax
 title: 中国房产税何时落地？前财长爆料与AI时代下的房地产终局猜想
 ---
-
 ### 前财长楼继伟爆料：房产税已箭在弦上
 
 大家好，欢迎回到“小翠时政财经”。美东时间2025年11月15日，在第16届财新峰会上，中国前财政部长楼继伟突然对外放风，透露了一个信息量巨大的消息。他表示，中国的**房产税**（Property Tax: 对房屋所有者征收的税费）其实早在2013年就已提出，全国人大层面的立法工作也已完成，而过去外界认为的那些技术难点，如今也已基本解决。

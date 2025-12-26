@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Fox News
@@ -38,10 +38,7 @@ people:
 - 高市早苗
 products_models:
 - 5G
-project:
-- us-analysis
-- geopolitics-watch
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CXIwfsplAM0
 speaker: LT視界
@@ -55,7 +52,6 @@ tags:
 - us-foreign-policy
 title: 川普乌克兰和平计划引发国际震荡：美俄密谈、欧洲无奈与西方内部分歧
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月22日。
 
 ### 川普乌克兰和平计划：最后通牒与各方反应

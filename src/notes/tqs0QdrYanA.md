@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 公安机关
@@ -30,10 +30,7 @@ people:
 - 毛泽东
 - 周恩来
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tqs0QdrYanA
 speaker: 張内咸
@@ -47,7 +44,6 @@ tags:
 - social
 title: 从彩礼到仇女：中国婚姻观念为何“一夜回到解放前”？
 ---
-
 ### 中国社会热议：彩礼、性与性别对立
 
 大家好，我是张内咸。在过去的一周里，世界上发生了许多大事，例如中美贸易战不断升级，从最初的加征关税，现在已经扩大到了其他各种领域，双方各自出招，让人眼花缭乱、目不暇接。再比如俄乌战争的谈判迟迟没有进展，一会儿说停战，一会儿又摩擦，一旦美国抽身以后，未来局势更难预料。正当全世界都焦头烂额、不知所措的时候，**简中世界**（Simplified Chinese World: 指中国大陆的互联网舆论环境）讨论最热烈的话题居然是：女生订婚之后收了彩礼，能不能拒绝与未婚夫发生性关系。相关讨论在简中互联网上都吵爆炸了，这非常令人震惊。我震惊的地方在于，这竟然是一个21世纪的话题。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: '[]'
 date: 2025-02-04
@@ -20,9 +20,7 @@ people:
 - John Stuart Mill
 - 王安石
 products_models: '[]'
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4sb_MeotgCw
 speaker: 徒步的騎手
@@ -35,7 +33,6 @@ tags:
 - political
 title: 谁说中国人不爱自由？：自由观念的演变与政治自由的困境
 ---
-
 ### 自由的定义与政治自由的本质
 
 这是自由科普系列讲座的第一讲，主题是“中国人到底爱不爱自由”。我们首先提出一个问题：什么是自由？有人做过统计，发现“自由”这个词至少有两百个含义。然而，我们今天并非要探讨抽象概念或定义，而是要讲述与我们每天生活息息相关的自由。用简单的大白话来说，自由就是把自己当人。那么，再进一步问一句，什么是**政治自由**（Political Liberty: 个人在政治生活中享有的权利和免受政府干预的自由）呢？用简单的大白话来说，政治自由就是让政府把你当人。在现实生活中，我们讲自由时，实际上说的就是政治自由，例如言论、出版、集会、选举等方面的自由。

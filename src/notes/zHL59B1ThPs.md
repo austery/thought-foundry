@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - JPMorgan
@@ -25,10 +25,7 @@ people:
 products_models:
 - H200
 - TLT
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zHL59B1ThPs
 speaker: 视野环球财经
@@ -42,7 +39,6 @@ tags:
 - tech-stock-performance
 title: 美股市场综述：特斯拉、英伟达、Netflix与Marvell的最新动态及美联储降息展望
 ---
-
 ### 美股市场概览与宏观经济数据
 
 美东时间12月8日周一晚间，美股市场总体表现不佳。标普500指数的**成分股**（S&P 500 Component Stocks: 衡量美国大盘股表现的股票指数中的公司）中有345只下跌，仅有157只上涨。在11个板块中，除科技板块上涨外，其余全部下跌。个股方面，摩根大通（JPMorgan，下称“小摩”）小幅下调了特斯拉的评级但上调了目标价，导致特斯拉下跌3.4%。派拉蒙对华纳兄弟探索（Warner Bros. Discovery，下称WBD）提出了更有利的现金收购邀约，Netflix应声下跌。此外，有媒体报道美国商务部将开放英伟达H200芯片对华出口，英伟达小幅上涨。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-01-01'
 draft: true
@@ -9,10 +9,7 @@ layout: post.njk
 media_books:
 - 《说中文：杜家庄的纪念》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kSPdFFIOeJk
 speaker: 一席YiXi
@@ -26,7 +23,6 @@ tags:
 - power
 title: 一个东北村庄里的「世界」：被遗忘的教友村与高神父的50年日常
 ---
-
 ### 被遗忘的档案：一封来自杜家庄的泪书
 
 大家好，我叫李纪，是香港大学的历史学者。今天我要分享的故事，关于一群你从未听说过的东北小人物——他们不是历史课本里的英雄或反派，而是被主流叙事彻底抹去的普通人。

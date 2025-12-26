@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-14'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7fvQr224cGY
 speaker: 硅谷101
@@ -23,7 +22,6 @@ tags:
 - tech
 title: 硅谷万亿资本闭环：杠杆、垄断与泡沫解析
 ---
-
 ### OpenAI的万亿算力采购与新型融资迷局
 
 自2025年以来，OpenAI已签署价值一万亿美元的算力采购协议，计划从英伟达、AMD、甲骨文和CoreWeave等公司购买算力。这一交易规模巨大，相当于20座核电站的能源供应。然而，OpenAI目前的年营收仅为120亿美元，这笔巨额资金的来源引发了广泛关注。Sam Altman在被问及此事时，曾表示他可能发明了一种“新的融资机制”，以帮助这些公司在收入兑现之前获得所需融资。他同时提到，最终OpenAI的收入会足以支持这些合同，但目前有一些“有趣的想法”来解决融资问题。

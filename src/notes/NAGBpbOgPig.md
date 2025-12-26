@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -12,10 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NAGBpbOgPig
 speaker: Norges Bank Investment Management
@@ -30,7 +27,6 @@ tags:
 - venture-capital
 title: 斯坦福捐赠基金掌舵人罗布·华莱士：投资哲学的纪律、创新与人才培养
 ---
-
 ### 斯坦福捐赠基金的核心投资哲学
 
 大家好，我是挪威主权财富基金（Norges Bank Investment Management）的首席执行官尼古拉·坦根（Nicolola Tangan），今天我非常荣幸能与罗布·华莱士（Rob Wallace）共度时光，他在机构投资领域建立了最令人印象深刻的职业生涯之一。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 date: '2025-10-10'
 draft: true
@@ -11,10 +11,7 @@ media_books:
 - 小红书
 products_models:
 - AI
-project:
-- personal-growth-lab
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sy99_P0P6iY
 speaker: 知行小酒馆
@@ -27,7 +24,6 @@ tags:
 - thinking
 title: 前COO的四十岁转型：从恐惧驱动到热爱驱动，在网球场上重塑人生
 ---
-
 ### 从游戏公司COO到网球教练的“惊人”转型
 
 我叫朝珺，曾是游戏行业的一名高管，后来加入“有志有行”担任COO。一年前，当主持人雨白开始跟我学网球时，就想邀请我来节目聊聊。因为在我看来，我的人生故事颇为精彩：先是在游戏行业深耕十余年，从游戏策划做到制作人、总监、VP，最终成为公司合伙人；然后在许多人感到“40岁焦虑”的年纪，我却选择转型成为一名网球教练，并创办了自己的网球学校，拥有了专属的球场。

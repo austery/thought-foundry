@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Gates Foundation
@@ -14,9 +14,7 @@ media_books:
 people:
 - Bill Gates
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zgv3xvkkBY0
 speaker: 北美王路飞
@@ -29,7 +27,6 @@ tags:
 - statistical-distribution
 title: 数据如何“说谎”：从盖茨基金会谬误看懂统计陷阱与决策之道
 ---
-
 ### 数据如何“说谎”：从盖茨基金会谬误看懂统计陷阱与决策之道
 
 如果你想改善教育，直觉会告诉你怎么做。上世纪90年代，许多慈善机构，包括大名鼎鼎的盖茨基金会，发现了一个惊人的数据规律：在所有学校里，那些成绩最好、表现最卓越的学校，往往都有一个共同点——它们规模都很小。这似乎太合理了：小学校嘛，老师关注度高，师生关系紧密，校园霸凌少。于是，大家投入了数亿美元，把大学校拆分成小学校，试图提高教学质量。

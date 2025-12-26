@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - best-partners-tv
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eYq6Zc1M6pU
 speaker: Best Partners TV
@@ -23,7 +22,6 @@ tags:
 - technology
 title: 揭秘大模型推理非确定性：Thinking Machines Lab的批次不变性解决方案
 ---
-
 ### 开篇：大模型推理的“老大难”问题
 
 大家好，这里是最佳拍档，我是大飞。今天将和大家探讨一个大模型开发与应用领域普遍面临的难题：为何在输入完全相同内容时，大模型会产生不同的输出？即使已固定**随机种子**（random seed: 用于初始化伪随机数生成器，确保每次运行生成相同的随机序列），结果依然可能“失控”。

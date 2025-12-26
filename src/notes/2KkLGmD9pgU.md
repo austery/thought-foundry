@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 华尔街日报
@@ -19,10 +19,7 @@ people:
 - Donald Trump
 - 高市早苗
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2KkLGmD9pgU
 speaker: LT視界
@@ -36,7 +33,6 @@ tags:
 - trade-war-narrative
 title: 中美博弈下的经济迷局：全民负债消费、富豪代孕与政治叙事的断裂
 ---
-
 ### 中美经济博弈中的数据迷雾与政策突围
 
 在本周的全球财经格局中，美国就业与通胀数据时隔三个月后同步重启发布，引发市场高度关注。美联储、华尔街及公众对2026年降息路径的预期出现明显分歧——美联储内部倾向仅降息一次，而市场押注至少两次。这种共识的断裂表明政策沟通机制正面临严峻挑战。与此同时，欧洲央行维持利率不变，英国央行则在内部激烈争论后预期降息25个基点。这些信号共同指向一个趋势：美元流动性将逐步宽松，而欧元区则可能面临升息压力，进而推动欧元兑美元汇率走强。

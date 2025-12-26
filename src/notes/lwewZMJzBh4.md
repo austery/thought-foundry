@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-12-10'
@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - Thomas Edison
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lwewZMJzBh4
 speaker: Big Think
@@ -24,7 +22,6 @@ tags:
 - resilience
 title: 关于失败的艺术与科学：如何将错误转化为成长的阶梯
 ---
-
 ### 失败与深度学习的必然性
 
 每当有人将失败转化为成功时，就发生了非常有趣的事情，我们应该探究其方法和原因。

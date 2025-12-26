@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - IMG
@@ -43,10 +43,7 @@ people:
 - Dwayne Johnson
 products_models:
 - Optimus
-project:
-- entrepreneurship
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KG_nHmHUZLw
 speaker: All-In Podcast
@@ -61,7 +58,6 @@ tags:
 - technology
 title: 娱乐业的未来：Ari Emanuel 论好莱坞、AI、创作者经济与直播活动
 ---
-
 ### Endeavor的崛起与娱乐业的演变
 
 Ari Emanuel，这位搏击运动的新巨头和好莱坞最大的权力掮客之一，在最近的访谈中回顾了他非凡的职业生涯轨迹。他建立了一个令人瞩目的商业帝国，并通过一系列资产合并，使公司实现了指数级增长。

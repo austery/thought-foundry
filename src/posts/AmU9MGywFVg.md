@@ -43,10 +43,7 @@ people:
 - Annie Duke
 - Charlie Munger
 - Daniel Kahneman
-project:
-- personal-growth-lab
-- ai-impact-analysis
-- investment-strategy
+project: []
 source: https://www.youtube.com/watch?v=AmU9MGywFVg
 speaker: 一口新饭读书会
 summary: 本期读书会为年度复盘特别场。Vivi、Shiqi、Michael、鹏哥、陆遥和Carmen分享了2025年对他们影响最深的书籍与生活感悟。讨论涵盖了《反脆弱》与《黑天鹅》中的不确定性应对、阿德勒心理学在亲子教育中的实战应用、《Just
@@ -57,7 +54,6 @@ tags:
 - llm
 title: 2025年度阅读复盘：从阿德勒心理学、投资策略到AI深度编程
 ---
-
 ### 暖场与天气闲聊
 
 **Vivi:** Hello，你好呀，一个月不见。怎么样？准备好了吗？下午刚才直播的最后几分钟里还在收拾行李。

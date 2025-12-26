@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1a92IBrcgjI
 speaker: 一口新飯
@@ -22,7 +20,6 @@ tags:
 - personal-finance
 title: 2022年投资心路：构建与生活方式匹配的长期投资系统
 ---
-
 ### 2022年投资心路与非正式分享
 
 2022年已过去将近一半，股市的持续下跌相信让每个人都有所感触。我希望借此机会与大家轻松地聊一聊，分享我最近的一些感受。平时制作节目时，内容通常比较正式，知识包装严密，可能会让人感到有些距离。因此，我希望能像一个投资者与另一个投资者，或者朋友之间那样，随意地聊聊。我想到哪儿说到哪儿，最终剪辑时会在屏幕上列出提纲，方便大家选择感兴趣的部分观看。

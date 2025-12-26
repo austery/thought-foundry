@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 date: '2025-11-08'
 draft: true
@@ -16,9 +16,7 @@ media_books:
 people:
 - 安争鸣
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hdmhrzBRlbo
 speaker: 安争鸣（Stella An）
@@ -32,7 +30,6 @@ tags:
 - reading-habit
 title: 深入探讨阅读的本质：为什么读、怎么读、读什么书？
 ---
-
 ### 读书博主的困惑与质疑
 
 作为一名读书博主，我经常收到许多关于阅读的问题，例如：“博主，能不能给我推荐个书单？我想养成阅读习惯，该从哪本书开始读比较好？”或者“我想读某某书，博主能不能给我推荐一个比较好的翻译版本？”还有人会问：“博主平时是怎么选书的？你一天读几个小时的书？一个星期能读几本？我是该读电子书好呢，还是该读纸质书好呢？”总之，各种各样的问题层出不穷。

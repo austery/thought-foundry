@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - 腾讯
@@ -26,10 +26,7 @@ products_models:
 - 王者荣耀
 - Photoshop
 - Premiere Pro
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=t0figMZeVTY
 speaker: Shijun Tang
@@ -43,7 +40,6 @@ tags:
 - platform
 title: 腾讯、携程与Adobe：中国科技巨头的护城河与投资价值深度剖析
 ---
-
 ### 腾讯：游戏帝国与超级APP的双重护城河
 
 投资腾讯，是否真能帮助你实现财富自由？这并非夸张——它既是全球营收第一的超级内容帝国，也是支撑十四亿人的社交与支付中枢微信背后的巨头。腾讯以游戏、社交和支付三大支柱构建起一座难以逾越的商业航母，曾让南非一家报社蜕变为全球顶级投行。它的投资版图远超表面：全资控股拳头公司（Riot Games，英雄联盟开发商）、持有Epic Games 40%股份、控股Supercell（部落冲突开发者）84.3%，并持有Ubisoft、暴雪和Kratos 5%至10%不等的股权，甚至全资拥有以色列与韩国多家游戏开发商。这些资产构成了一个庞大而稳固的全球IP生态。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国民党
@@ -25,10 +25,7 @@ people:
 - Margaret Thatcher
 - Mikhail Gorbachev
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AHbpfyWJlDE
 speaker: 壽司坦丁 Sociostanding
@@ -42,7 +39,6 @@ tags:
 - system
 title: 帝国吸纳的诱饵：香港“一国两制”为何失败？对台湾有何启示？
 ---
-
 ### 香港“一国两制”的困境与言论自由的消逝
 
 香港，这座千年的帝国边陲与如今的金融城邦，曾以其独特的魅力吸引着世界。然而，近年来，香港的自由环境正迅速恶化。过去一年，香港国安处的监控视角已逐渐扩张到普通市民身上，从家庭主妇到外卖小哥，越来越多香港人因在社交媒体上发表政治批评而被送进监狱。这些小市民被起诉或判刑的法源，几乎清一色是**煽动罪**（Sedition Law: 香港《罪行条例》第九与第十条，旨在禁止煽动叛乱、煽动对政府的仇恨或藐视等行为）。这项臭名昭著的殖民地法律已超过68年不曾被法庭引用，却在誓言帮香港洗刷殖民屈辱的祖国手中重新激活。

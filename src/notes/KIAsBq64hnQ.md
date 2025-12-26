@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - TED
@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KIAsBq64hnQ
 speaker: TED
@@ -26,7 +24,6 @@ tags:
 - technology
 title: AI赋能蛋白质设计新时代：解锁自然未及的潜力
 ---
-
 ### 蛋白质：生命的基石与工程挑战
 
 我的名字是Cesar Ramirez-Sarmiento，我来自智利圣地亚哥，是一名**蛋白质**（Proteins: 构成生物体并执行生命活动的大分子）工程师和设计师。

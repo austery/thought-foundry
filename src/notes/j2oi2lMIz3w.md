@@ -17,9 +17,7 @@ draft: true
 series: ''
 category: stock-investment
 area: finance-wealth
-project:
-  - ai-impact-analysis
-  - investment-strategy
+project: []
 people:
   - 川普
   - 鲍威尔

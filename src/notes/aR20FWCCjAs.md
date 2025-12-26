@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -23,9 +23,7 @@ products_models:
 - Transformer
 - DeepSeek R1
 - Neuralink
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aR20FWCCjAs
 speaker: Dwarkesh Patel
@@ -41,7 +39,6 @@ tags:
 - value
 title: Ilya Sutskever 深度对话：超越规模定律，回归 AI 研究的本质
 ---
-
 ### AI 时代的怪诞现实与缓慢起飞
 
 **Ilya:** 你知道什么事最疯狂吗？这一切都是真实发生的。

@@ -17,8 +17,7 @@ people:
 - 查理·芒格
 - 王阳明
 products_models: []
-project:
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Fs-lcGyZCJ8
 speaker: 王红雨
@@ -32,7 +31,6 @@ tags:
 - system
 title: 从奋斗到智慧：开启人生下半场的9个关键觉醒
 ---
-
 ### 人生下半场的开启与觉醒
 
 今天要和大家分享一本书，英文名字叫 *From Strength to Strength*，中文名字翻译得特别好，叫《终年觉醒》。作者是 **Arthur Brooks**（亚瑟·布鲁克斯：美国著名社会科学家、哈佛大学教授，专注于幸福与领导力研究），他在美国非常有名，他的博客点击量非常高。这本书解决了一个人到中年，却遇到职业下行期时如何走出困境的问题。

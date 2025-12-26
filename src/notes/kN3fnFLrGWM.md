@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs: []
 date: '2025-09-26'
@@ -12,8 +12,7 @@ people:
 products_models:
 - 瘦瘦針 (GLP-1受體促效劑)
 - 雙重腸泌素 (GLP-1/GIP受體促效劑)
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kN3fnFLrGWM
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +26,6 @@ tags:
 - weight-loss-management
 title: 地瓜葉與瘦瘦針的減重對決：揭秘GLP-1的自然分泌與藥物應用
 ---
-
 ### 地瓜葉與瘦瘦針：共同的減重秘密
 
 地瓜葉和**瘦瘦針**（GLP-1受體促效劑: 模仿GLP-1作用的藥物，用於體重管理和糖尿病治療）之間，究竟有什麼共同的秘密，以及大家會如何選擇呢？在日常生活中，地瓜葉常常是最容易被大家遺忘的青菜之一。然而，它卻能讓你體內自然分泌出像瘦瘦針一樣的代謝激素——**GLP-1**（胰高血糖素樣肽-1: 一種腸道分泌的激素，能延長飽足感、穩定血糖、抑制食慾）。

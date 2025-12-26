@@ -10,10 +10,7 @@ layout: post.njk
 people:
 - amit-kukreja
 products_models: []
-project:
-- geopolitics-watch
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7S6IYLjk1ds
 speaker: Amit Kukreja
@@ -25,7 +22,6 @@ tags:
 - stock
 title: 市场收盘聚焦：中美关系、科技股亮点与投资策略深度解析
 ---
-
 ### 市场概览与盘中波动
 
 欢迎收看收盘新闻直播。今天市场经历了非常令人兴奋的一天。市场开盘时，我们虽然没有完全亏损，但失去了一点动力，随后正式进入亏损状态。这主要是受一些关于中国言论的影响，导致盘中出现了1.2%的波动并一度下跌。目前市场有所恢复，标准普尔指数当天上涨了约0.38%，虽然不如开盘时强劲，但仍是一个不错的走势。

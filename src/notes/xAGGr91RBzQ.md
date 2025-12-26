@@ -8,7 +8,7 @@ draft: true
 guest: null
 insight: null
 layout: post.njk
-project: 知行小酒馆
+project: []
 series: null
 source: https://www.youtube.com/watch?v=xAGGr91RBzQ
 speaker: 知行小酒馆
@@ -21,7 +21,6 @@ tags:
 title: E197 无痛理财魔法：构建让生活更轻松的个人财务系统
 updated: 2025-09-01T14:42
 ---
-
 ## 引言：悄然改变生活的财务小习惯
 
 雨白: 欢迎来到知行小酒馆，这是一档有知有型出品的播客节目。我们关注投资，更关注怎样更好的生活。我是雨白，最近有件事儿让我很感慨，时间真的会悄悄改变一个人，尤其是那些藏在细节里面的成长。

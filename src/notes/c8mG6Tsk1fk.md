@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - Norges Bank Investment Management
@@ -32,10 +32,7 @@ products_models:
 - Claude
 - Perplexity
 - ChatGPT
-project:
-- personal-growth-lab
-- systems-thinking
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=c8mG6Tsk1fk
 speaker: Norges Bank Investment Management
@@ -49,7 +46,6 @@ tags:
 - learning
 title: 《范围》作者David Epstein：为什么通才在专业化世界中更具优势
 ---
-
 ### 通才与专才：重新定义成功与成就
 
 大家好，欢迎收听“In Good Company”播客。

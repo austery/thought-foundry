@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - NIST
@@ -9,9 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pXoZQsZP2PY
 speaker: veritasium
@@ -25,7 +23,6 @@ tags:
 - society
 title: 测量宇宙中最微小的力：从千克到飞牛顿的探索
 ---
-
 ### 10微克的重量：肉眼难辨的微小世界
 
 这是10微克。

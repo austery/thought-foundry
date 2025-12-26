@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -21,10 +21,7 @@ people:
 - Dave Kim
 products_models:
 - Bitcoin
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7nbTPNkXx2M
 speaker: New York Times Podcasts
@@ -37,7 +34,6 @@ tags:
 - security
 title: 特朗普言论、戴尔捐赠、欧洲安全与比特币动荡：2025年末新闻综述
 ---
-
 ### 特朗普回应年龄质疑并发表排外言论
 
 欢迎来到2025年的最后一次内阁会议，这一年将作为任何一届政府最具影响力、最成功的第一年载入史册。

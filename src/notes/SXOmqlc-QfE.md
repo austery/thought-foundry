@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -25,9 +25,7 @@ people:
 - Kim Jong-un
 products_models:
 - '[]'
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SXOmqlc-QfE
 speaker: New York Times Podcasts
@@ -41,7 +39,6 @@ tags:
 - war
 title: 美国政府停摆引多重危机，苏丹内战升级，安德鲁王子失王室头衔
 ---
-
 ### 本周头条：政府停摆、国际冲突与王室丑闻
 
 本期《纽约时报》头条新闻，为您播报今日（10月31日，星期五）的重要内容。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -28,9 +28,7 @@ products_models:
 - Gemma
 - Sora
 - AlphaGo
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dWQVY_h0YXU
 speaker: Hung-yi Lee
@@ -44,7 +42,6 @@ tags:
 - model
 title: 评测生成式AI的陷阱：从基准测试到恶意攻击的全面指南
 ---
-
 ### 为什么要评估生成式AI？
 
 今天这堂课要讲的是生成式人工智能的能力检定，这是一堂很轻松的课程。我想和大家分享，在评估一个生成式人工智能的能力时，有什么需要注意的事情，以及前人踩过哪些坑。

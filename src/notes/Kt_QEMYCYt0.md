@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-12-06'
@@ -13,9 +13,7 @@ people:
 - KevinFeng
 - Alex
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Kt_QEMYCYt0
 speaker: KevinFeng 冯凯文
@@ -30,7 +28,6 @@ tags:
 - psychology
 title: 为什么你总是开心不起来？找到生活意义的两阶段指南
 ---
-
 ### 为什么我们逐渐“西西弗斯化”？
 
 我第一次真正明白为什么会觉得不开心、生活没有意义，以及要怎么样重新找回自己变得快乐的能力。这支影片想要跟大家聊两件事：第一，为什么我们会逐渐**西西弗斯化**（Sisyphusification: 像希腊神话中被惩罚的西西弗斯一样，永无止境地重复徒劳无功的劳动），开始推石头，失去意义，不再开心；第二，怎么样重新找回人生的意义和方向，重新开心起来，过好每一天。如果你也感觉自己好像在推一颗永远都推不到山顶的石头，那么请坐下来倒杯咖啡。

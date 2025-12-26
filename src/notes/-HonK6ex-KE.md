@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-HonK6ex-KE
 speaker: 一口新飯
@@ -22,7 +21,6 @@ tags:
 - system
 title: 央行数字货币：控制、革新与挑战——深度解析CBDC的本质与影响
 ---
-
 ### 央行数字货币：理解其核心定义与货币层级
 
 **央行数字货币**（Central Bank Digital Currency - CBDC: 央行发行的法定数字货币）是一个日益受到关注的概念。与普遍认为其邪恶或仅为政府控制工具的观点不同，本文旨在全面客观地解析CBDC。在深入探讨之前，有必要澄清CBDC与我们日常使用的电子支付（如银行存款、PayPal、微信支付、支付宝余额）的根本区别。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2022-02-28'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=O1tR0Nbv4gw
 speaker: 一口新飯
@@ -24,7 +22,6 @@ tags:
 - stock-market
 title: 反向ETF深度解析：SQQQ的运作原理、风险与适用场景
 ---
-
 ### 市场背景与反向ETF的引入
 
 2022年的投资环境异常复杂，通货膨胀飙升，美联储预备缩表加息，加之俄罗斯入侵乌克兰，市场前景不明朗。许多投资者不看好市场表现，希望通过**做空**（Short Selling: 投资者预期股票价格下跌，先借入股票卖出，待价格下跌后再买回还给券商以赚取差价的投资策略）美股来获利或对冲风险。有投资者购买了SQQQ，一种所谓三倍看空QQQ的**反向ETF**（Inverse ETF: 一种旨在实现与对标指数或指数基金相反日回报率的交易所交易基金），以期实现做空**纳斯达克100指数**（Nasdaq 100 Index: 包含在纳斯达克交易所上市的市值最大的100家非金融公司股票的指数）的目的。

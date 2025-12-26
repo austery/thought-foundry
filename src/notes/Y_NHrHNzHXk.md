@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Nvidia
@@ -24,10 +24,7 @@ people:
 - Modi
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y_NHrHNzHXk
 speaker: LT視界
@@ -41,7 +38,6 @@ tags:
 - us-stock-market-bubble
 title: 全球经济与政治动态：美国股市泡沫、政府停摆、印度关税及中国地方债的深层挑战
 ---
-
 ### 财经头条：美国股市泡沫警告
 
 彭博社报道指出，在泡沫警告之后，英伟达（Nvidia）和帕兰特尔（Palantir）的股票被看跌。这一报道试图揭示美国股市的大变局。当前市场舆论普遍认为，**迈克尔·博里**（Michael Burry: 因成功做空2008年美国房地产市场而闻名的对冲基金经理）的一份报告给市场带来了巨大的负面冲击。

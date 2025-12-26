@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 date: '2025-11-30'
 draft: true
@@ -18,10 +18,7 @@ people:
 - Herbert Simon
 products_models:
 - iPhone
-project:
-- systems-thinking
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lkKKQK8x66Y
 speaker: 壽司坦丁 Sociostanding
@@ -36,7 +33,6 @@ tags:
 - theory
 title: 失痛钝化：损失厌恶并非普世人性，行为经济学的新发现
 ---
-
 ### 行为经济学的崛起与损失厌恶的定义
 
 这里是寿斯坦丁，在这里，你可以用最轻松的方式接受国际上最有趣的社会科学研究发现。过去三十年，社会科学中出现了很多新的研究领域，在这些年轻的学术社群中，发展速度最快、影响力最大的其中一个就是**行为经济学**（Behavioral Economics: 结合心理学与经济学，研究人类在经济决策中的非理性行为模式的学科）。九十年代末，主流的经济学者对这群说要带经济学回到初衷、说要让经济学和心理学复合的学术一端还超级怀疑和不信任。但现在行为经济学已经成为经济学的重要分支，美国经济学会在2008年正式为行为经济学创建了新的文献分类。奠定行为经济学的三位学者在本世纪也已经都拿到了诺贝尔经济学奖，Richard Thaler就是其中一位。

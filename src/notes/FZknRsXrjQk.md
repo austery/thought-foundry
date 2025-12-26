@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - 知行小酒馆
@@ -29,9 +29,7 @@ people:
 - 段永平
 - 方三文
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FZknRsXrjQk
 speaker: 知行小酒馆
@@ -44,7 +42,6 @@ tags:
 - philosophy
 title: 对话施宏俊：被芒格思想重塑的出版人生
 ---
-
 ### 缘起：从文艺青年到出版“巴芒李段”
 
 今天我们不仅想聊查理·芒格，更想探讨他是如何深刻影响许多人的，以及我们该如何看待“芒格之后”的世界。本次的嘉宾施宏俊老师，正是将《穷查理宝典》、《芒格之道》以及李录、段永平的著作引入中国的关键出版人。

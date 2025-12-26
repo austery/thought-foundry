@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-06'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dyxtSFx7n0w
 speaker: 投资TALK君
@@ -27,7 +25,6 @@ title: 日经暴涨、美股展望与可口可乐现金流：深度解析市场�
 companies:
 - coca-cola-fcf
 ---
-
 ### 市场回顾与本期焦点
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。本期节目首先将总结上周美股资产价格的走势。随后，我们将深入探讨本周一亚洲市场开盘后，**日经指数**（Nikkei Index: 日本股市的基准指数）跳涨背后的含义，并分析美国市场是否存在类似信号，以及未来是否会有“放水”政策。时值十月，第三季度财报季即将到来，我们将借由数据对财报季进行展望。最后，上一周一张关于可口可乐自由现金流首次出现负值的图表引发了市场关注。我们将通过这张令人“惊悚”的图表，探究其背后的真实原因：究竟是市场过度恐慌、社交媒体利用事件吸引眼球，还是可口可乐的基本面确实在恶化？我们将带着这些问题，一同展开今天的分析。

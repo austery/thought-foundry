@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -28,9 +28,7 @@ products_models:
 - A100
 - TPU
 - Disney+
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_a5-b3ReZ_s
 speaker: 投资TALK君
@@ -44,7 +42,6 @@ tags:
 - market-sentiment
 title: 大空头做空AI泡沫，英伟达“亲儿子”财报揭示风险与机遇
 ---
-
 ### 市场概览与本期焦点
 
 各位观众大家好，欢迎来到本期专业与非专业的美国市场分析节目。我是市场分析员小。

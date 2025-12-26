@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Supreme Court
@@ -10,10 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - TED
-project:
-- personal-growth-lab
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=W8djC9GoZVw
 speaker: TED
@@ -27,7 +24,6 @@ tags:
 - societal
 title: 青少年大脑的惊人科学：重新定义成长与潜能
 ---
-
 ### 重新审视青少年时期
 
 我以研究青少年大脑为生。

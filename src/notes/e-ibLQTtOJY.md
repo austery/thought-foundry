@@ -15,9 +15,7 @@ people:
 - Joe Wisenthal
 - Tracy Alloway
 - Michael Burry
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=e-ibLQTtOJY
 speaker: Bloomberg Podcasts
@@ -30,7 +28,6 @@ tags:
 - supply-chain-disruption
 title: 土耳其榛子：下一个开心果？探秘小众大宗商品的投资机遇
 ---
-
 ### 开场白与坚果情结
 
 **Bloomberg Audio Studios** 播客、电台新闻。

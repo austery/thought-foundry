@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Brilliant
@@ -12,9 +12,7 @@ people:
 - Derek Muller
 - Stephen Colbert
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=16Ci_2bN_zc
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - llm
 title: 从摩天大楼扔下的硬币有多危险？揭秘终极速度与空气阻力
 ---
-
 ### 硬币神话的终结
 
 如果从帝国大厦上扔下一枚硬币会发生什么？它能杀死下面人行道上的行人吗？究竟需要什么条件才能制造出致命的抛射物？

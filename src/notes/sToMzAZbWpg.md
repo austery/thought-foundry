@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Sony
@@ -60,10 +60,7 @@ people:
 - 孙中山
 products_models:
 - Walkman
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sToMzAZbWpg
 speaker: 三個水槍手
@@ -76,7 +73,6 @@ tags:
 - technology
 title: 从索尼Walkman到《鬼灭之刃》：中国人“精日”与“仇日”的矛盾心态
 ---
-
 ### “恨日本”是出厂设置？难以解释的矛盾心态
 
 最近，中国官方再次出手整治与日本相关的事务，例如限制旅行、禁止水产品进口等。宣传机器也火力全开，在国内营造对日本的仇恨氛围。然而，一个有趣的现象是，许多中国人，甚至包括一些“小粉红”，都表现出一种复杂的情感。例如，当日本动画片如《蜡笔小新》和《工作细胞》无法上映时，有“小粉红”在网上愤怒地质问日本政治家高市早苗，要求“还我《我的细胞》”。

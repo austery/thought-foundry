@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Google
@@ -15,10 +15,7 @@ media_books:
 people:
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LuAVZdLLAm0
 speaker: Shanghao Jin
@@ -32,7 +29,6 @@ tags:
 - us-trade-policy
 title: 特朗普关税政策、美元走势与制造业回流：市场长期展望分析
 ---
-
 ### 市场三大核心议题与上周反弹分析
 
 今天将主要探讨三个核心话题：首先是**美元走弱**（dollar weakness）的趋势，即资金是否正从美国流出，以及美元兑欧元和日元走弱的趋势是否具有持续性，外汇市场将如何反应。其次，我们将聚焦于近一两个月来市场讨论的焦点——**唐纳德·特朗普**（Donald Trump）的关税政策，包括其前后的发动、最新变化及其对上周市场的影响。上周市场因关税政策有所缓和的预期，在连续下跌七八周后终于开始反弹。第三个话题是制造业回流美国的问题，对此我持悲观态度，认为制造业很难真正回到美国。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - psychological-defense
@@ -19,10 +19,7 @@ people:
 - 司马南
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Uh7oMu7PY7A
 speaker: 夸克说
@@ -35,7 +32,6 @@ tags:
 - offshore-patriotism
 title: 离岸爱国现象深度解析：为何有人越出国越爱国？
 ---
-
 ### 引言：定义“离岸爱国”现象
 
 大家好，欢迎收看夸克说。本期节目将探讨一个老生常谈的话题：为什么会有人一出国就爱国？之所以选择这个话题，是因为近期一位国内男生发邮件给我，表示对国内现状不满，想出国留学，但又担心自己会像网上很多海外华人一样，一出国就“爱国”。他担心自己对国外有“滤镜”，出来后也会变得如此。正好，这些年我对这个话题也有一些切身体会，并且墙内墙外谈论此话题的，基本上清一色都是“粉红号”，讲得也不是特别清楚，于是便有了这期节目。

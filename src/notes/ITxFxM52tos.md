@@ -12,8 +12,7 @@ people:
 products_models:
 - 以太坊
 - 比特币
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ITxFxM52tos
 speaker: Nico投资有道
@@ -24,7 +23,6 @@ tags:
 - stock-market
 title: 投资忠告：普通人如何避免亏损
 ---
-
 在想明白这个道理之前，普通人一定不要轻易踏入投资市场。这恰恰是**90%以上的人**长期无法赚到钱的最根本原因。
 
 哈喽大家好，我是Nico。欢迎来到《Nico投资有道》。自从去年七月份开始在YouTube做投资入门教程以来，我已经分享了投资观点和心得有一年半的时间。最近我发现了一个严重的问题：在我的视频中，关于投资入门的内容缺少了一环——**每个人进入市场必须学习的第一课。**

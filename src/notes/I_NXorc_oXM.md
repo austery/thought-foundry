@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 东盟
@@ -16,10 +16,7 @@ people:
 - Joe Biden
 - Donald Trump
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I_NXorc_oXM
 speaker: 郭里有范
@@ -35,7 +32,6 @@ tags:
 - war
 title: 中国在缅甸的战略博弈：稀土、通道与瓦格纳模式的兴起
 ---
-
 ### 缅甸乱局与国际关注的缺失
 
 “水浅王八多，谁都是大哥”，这正是当前缅甸的真实写照。自军事政变和内战重启以来，缅甸境内二十多个武装派别之间的冲突，已导致八万多人死亡，三百多万人流离失所。然而，由于俄乌战争和巴以冲突占据了国际社会的焦点，对缅甸的关注明显不足。前两年，中国曾因打击电信诈骗，暗中支持缅北的几个地方武装，即所谓的“缅北三兄弟”。军政府一度被三兄弟打得丢盔卸甲，三兄弟甚至一举拿下了缅北军事重镇**腊戍市**（Lashio: 缅甸掸邦北部的军事重镇）。这使得缅甸全国的地方武装精神为之一振，正当他们摩拳擦掌之际，中国却突然强迫三兄弟与军政府和谈，并要求他们将腊戍市归还给军政府。直到前段时间的九三阅兵，习近平甚至将缅甸军政府领导人敏昂莱请上了主席台。

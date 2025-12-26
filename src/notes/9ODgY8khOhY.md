@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - TVO Today
@@ -12,9 +12,7 @@ media_books:
 - The Private Equity Playbook How Buyout Firms Extract Rather Than Build Value and
   What to Do about It
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9ODgY8khOhY
 speaker: TVO Today
@@ -28,7 +26,6 @@ tags:
 - private-equity
 title: 私募股权投资的代价：当资本渗透日常商业，我们失去了什么？
 ---
-
 ### 引言：什么是私募股权？
 
 主持人：你知道谁拥有你家附近的兽医诊所吗？街角的牙科诊所呢？私募股权公司正在收购那些能产生稳定现金流的企业，这让一些专家对服务质量和市场竞争感到担忧。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Huawei
@@ -23,10 +23,7 @@ people:
 - Justin Trudeau
 products_models:
 - Jeep Compass
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OT1AnoXtjTU
 speaker: 大伟探秘加拿大
@@ -40,7 +37,6 @@ tags:
 - trade-war
 title: 卡尼与习近平会晤：加中关系八年破冰背后的地缘政治与经济博弈
 ---
-
 ### 加中关系八年破冰：一次备受瞩目的“转折点”会晤
 
 就在刚刚韩国举行的**APEC**（亚太经合组织: Asia-Pacific Economic Cooperation, 促进亚太地区经济合作的国际组织）峰会上，加拿大的总理马克·卡尼与中国的国家主席习近平进行了一次备受瞩目的会面。这是八年来中加首脑间的首次会晤，双方都不约而同地将其称之为一个转折点。转折点这个词分量很重，它意味着过去的某一页就被翻过去了，新的篇章即将开始。但问题是，这个转折是转向友谊与合作的康庄大道，还是仅仅在悬崖边上的一次紧急刹车？那么这次会晤的背后，到底是隐藏着怎样的地缘政治算计和经济压力？要理解这一切，我们就不能只看这一次握手、一张照片，我们需要把镜头拉远，回顾历史看清现在，并尝试展望未来。今天我们就来深入地解析这次关键的会晤，看看它到底意味着什么，以及它将如何塑造加拿大乃至世界格局的未来。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BBC
@@ -19,9 +19,7 @@ people:
 - George Osborne
 - Rachel Reeves
 - Donald Trump
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jKXiti6Krcg
 speaker: Patrick Boyle
@@ -35,7 +33,6 @@ tags:
 - wealth-inequality
 title: 富人真的在离开英国吗？税收政策与全球财富流动之辩
 ---
-
 ### 英国富人外流报告的争议
 
 **亨利与合伙人**（Henley & Partners: 一家全球公民和居住咨询公司）每年都会发布其**私人财富移民报告**（Private Wealth Migration Report: 衡量全球高净值人士移民趋势的报告）。

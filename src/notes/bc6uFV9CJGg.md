@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies:
 - metaverse
@@ -29,8 +29,7 @@ products_models:
 - Gemini
 - PyTorch
 - React
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bc6uFV9CJGg
 speaker: Dwarkesh Patel
@@ -45,7 +44,6 @@ tags:
 - open-source-ai
 title: Mark Zuckerberg 谈 Llama 3、百亿模型、奥古斯都与千兆瓦数据中心
 ---
-
 主持人 **Dwarkesh Patel**：**Mark**，欢迎来到播客。
 
 **Mark Zuckerberg**：谢谢邀请，我是你们播客的忠实听众。

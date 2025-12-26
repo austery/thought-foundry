@@ -23,9 +23,7 @@ people:
 - Saddam Hussein
 - Franklin Roosevelt
 - Dwight D. Eisenhower
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RH_ycZYH8-s
 speaker: Dwarkesh Patel
@@ -38,7 +36,6 @@ tags:
 - relations
 title: 萨拉·佩恩：俄罗斯如何阻碍中国崛起
 ---
-
 ### 俄中关系的历史视角
 
 人们普遍关注中俄之间能否建立持久关系。从历史角度看，两国关系更像是冰川而非友善，小国依附大国令人深思。我的专业领域正是**俄中关系**，我在研究生阶段研究的正是这一课题。我的博士论文探讨了两国边境的历史，从19世纪中期的**鸦片战争**（Opium Wars: 1840-1860年间英国、法国等西方列强对中国发动的两次战争）一直到1920年代**外蒙古**（Outer Mongolia: 历史上中国北部的蒙古族聚居区，后在苏联影响下独立）被从中国势力范围夺走并纳入俄罗斯势力范围。

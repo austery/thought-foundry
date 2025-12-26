@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -18,10 +18,7 @@ people:
 - Nikolai Tangen
 - Jens Stoltenberg
 - Donald Trump
-project:
-- geopolitics-watch
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o12nFsXUnZc
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - sovereign-wealth-fund
 title: 在地缘政治动荡中驾驭挪威主权财富基金
 ---
-
 ### 引言：地缘政治与基金管理的交汇
 
 欢迎大家。

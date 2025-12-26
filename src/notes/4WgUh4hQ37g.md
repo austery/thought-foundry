@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-11'
@@ -10,12 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4WgUh4hQ37g
 speaker: Bloomberg Podcasts
@@ -28,7 +23,6 @@ tags:
 - us-china-tariff
 title: 彭博新闻要点：政府停摆、中美关税、市场震荡与地缘冲突
 ---
-
 ### 美国政府停摆与军人家庭困境
 
 News when you want it with Bloomberg News Now. I'm Monica Rix. Mass firings of federal workers have begun as Republicans work to put more pressure on Democrats to end the government shutdown. More than 4,000 employees are on the chopping block, and the White House says even more cuts are under consideration. Military personnel are also set to miss paychecks soon.

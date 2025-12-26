@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -35,10 +35,7 @@ people:
 - Xi Jinping
 products_models:
 - Chrome
-project:
-- investment-strategy
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_M0K2zbGld0
 speaker: Bloomberg Podcasts
@@ -54,7 +51,6 @@ tags:
 - wealth
 title: 黄金与科技股齐涨：市场异象、美元疲软与地缘政治下的投资洞察
 ---
-
 ### 市场异象：股票与黄金齐涨
 
 **Joe Weisenthal:** 大家好，欢迎收听Odd Lots播客的又一期节目。我是Joe Weisenthal。

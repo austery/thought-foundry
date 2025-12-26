@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 恒大
@@ -12,9 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3uUAAVhOj3Q
 speaker: 夸克说
@@ -27,7 +25,6 @@ tags:
 - urban
 title: 中国高层住宅的潜在危机：从香港大火到产权陷阱
 ---
-
 ### 中国高层住宅的火灾隐患与楼房质量问题
 
 大家好，欢迎收看夸克说，我是夸克。上期节目我讲了中国的城市为什么基本都住楼房，并和其他的一些国家进行了对比。因为时间所限，关于楼房的种种弊端，只讲到了上世纪70年代以来，各国的拆除高楼运动，并没有详细展开。然而，刚过了两天，位于香港大埔的鸿福院，就发生了香港44年来最严重的火灾。

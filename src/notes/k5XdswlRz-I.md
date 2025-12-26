@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -21,9 +21,7 @@ people:
 - Mike Johnson
 - Vladimir Putin
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k5XdswlRz-I
 speaker: New York Times Podcasts
@@ -37,7 +35,6 @@ tags:
 - immigration-policy
 title: 特朗普政府扩大海上打击，制裁俄罗斯，并计划拆除白宫东翼
 ---
-
 ### 《纽约时报》头条新闻概览
 
 这里是《纽约时报》的头条新闻。我是特蕾西·芒福德。今天是10月23日星期四。以下是我们今天将报道的内容。

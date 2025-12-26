@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Tesla
@@ -35,10 +35,7 @@ people:
 - Lin Biao
 - Mao Zedong
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YCxTzDFLyJo
 speaker: LT視界
@@ -52,7 +49,6 @@ tags:
 - us-china-relations
 title: 美国就业市场困境、川普关税挑战与中美政治文化透视
 ---
-
 ### 美国就业市场现状与经济争议
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月6日，我们首先来了解今天的财经头条。我们分享《华尔街日报》今天的报道，标题是“今年雇主裁员超过100万人”。这个报道之所以引起广泛的讨论，是因为无论是华尔街还是美国的普通民众，都在争论一个问题，就是美国的经济到底是好不好。昨天川普预告说三月份美国的**GDP**（Gross Domestic Product: 国内生产总值，衡量一个国家经济活动的指标）要增长4.2%，这在美国来讲是非常高的增长速度。但是这么傲人的经济增长数据，怎么全美都还在讨论经济到底怎么样？甚至是这一次的选举，民主党大获全胜，舆论普遍认为主要还是选民对经济的不满，所以给共和党带来非常大的负面影响。那么这个报道可能就更容易让我们理解目前美国经济的真实状态。

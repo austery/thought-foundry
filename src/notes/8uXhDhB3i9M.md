@@ -31,10 +31,7 @@ people:
 - Marco Rubio
 - J.D. Vance
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8uXhDhB3i9M
 speaker: FearNation 世界苦茶
@@ -49,7 +46,6 @@ tags:
 - us-national-security-strategy
 title: 美国国家安全战略的经济转向与地缘政治博弈：美中台欧关系深度解析
 ---
-
 ### 中美对抗的未来走向：制度性改变与经济博弈
 
 **FearNation 世界苦茶:** 大家好，欢迎来到互动环节。

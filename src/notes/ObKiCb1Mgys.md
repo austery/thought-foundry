@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Rocket Lab
@@ -26,10 +26,7 @@ products_models:
 - Starlink
 - New Glenn
 - Starship
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ObKiCb1Mgys
 speaker: 海伦子Hellen
@@ -44,7 +41,6 @@ tags:
 - technology
 title: Rocket Lab第三季度财报深度解析：股价飙升与太空战略布局
 ---
-
 ### Rocket Lab Q3财报概览与战略解读
 
 本视频将深入解读Rocket Lab今年第三季度的财报。Rocket Lab在过去半年股价涨幅超过347.06%，其创始人兼CEO Peter Beck也被《福布斯》（Forbes: 美国商业杂志，以排行榜闻名）评选为新的太空领域亿万级别的企业家。除了Donald Trump（美国前总统）当选后市场对商业太空发展信心的提振，本视频将重点分析Rocket Lab这家公司具体的业绩、盈利水平和未来的规划。本视频不提供任何投资建议，但欢迎大家交流，财报内容完全依据官方发布。

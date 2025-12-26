@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Brookings Institution
@@ -25,10 +25,7 @@ people:
 - Ma Ying-jeou
 - Tsai Ing-wen
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y7lR5GczC-E
 speaker: LT視界
@@ -42,7 +39,6 @@ tags:
 - us-china-relations
 title: 中美欧贸易战最新进展：关键谈判误判、中欧“孟晚舟模式”与中国政治谣言分析
 ---
-
 ### 中美贸易战的七个最新动态
 
 在10月25日，我们将分享今天的焦点透视，首先了解有关中美贸易战的七个最新信息。

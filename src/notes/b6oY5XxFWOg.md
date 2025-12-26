@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b6oY5XxFWOg
 speaker: 一口新飯
@@ -24,7 +21,6 @@ tags:
 - technology
 title: 投资的陷阱：为何等待市场信号明确再行动注定失败
 ---
-
 ### 常见的投资误区：等待明确信号
 
 作为财经内容创作者，常在评论区看到类似疑问：“为什么非要在**熊市**（Bear Market: 指股价长期下跌的趋势）投资？”、“为什么不等降息了再投资？”、“**右侧交易**（Right-Side Trading: 指在趋势形成并得到确认后才进场交易的策略）不是更好吗？”、“为什么不等涨起来再买？”、“为什么不等标普500跌到1800点再买？”。还有人会问，如果相信特斯拉的**FSD**（Full Self-Driving: 特斯拉的全自动驾驶技术）会实现，为什么不在震荡的两年里等待财报反映特斯拉成为**AI公司**（Artificial Intelligence Company: 以人工智能技术为核心业务的公司）时再投资，何必执着于一只股票而错过其他机会。这些留言都反映了同一种投资策略：等待市场明朗、信号明确后再投资。然而，这种策略是完全无效的。

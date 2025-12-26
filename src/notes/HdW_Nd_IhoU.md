@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-12-10'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HdW_Nd_IhoU
 speaker: Money or Life 美股频道
@@ -21,7 +19,6 @@ summary: 本期分析深入探讨了Netflix计划以827亿美元收购华纳兄�
 tags: []
 title: Netflix斥资827亿收购华纳兄弟：护城河稳固，但当前股价是价值洼地吗？
 ---
-
 ### Netflix的战略动向与行业背景
 
 大家好，欢迎来到Money or Life美股频道。我是Ace，本期视频我们来聊Netflix。其实我对Netflix并不是很感兴趣，虽然我一直都是Netflix的订阅者。那么最近公司宣布要斥资827亿美金，收购华纳兄弟的核心业务，于是我想，那我来研究一下，和大家分析一下我对目前Netflix的看法。

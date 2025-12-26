@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - DeepMind
@@ -28,9 +28,7 @@ products_models:
 - AlphaGo
 - AlphaZero
 - AlphaFold
-project:
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=clGdgQEOew8
 speaker: Best Partners TV
@@ -44,7 +42,6 @@ tags:
 - reinforcement-learning
 title: DeepMind与通用人工智能AGI的探索：德米斯·哈萨比斯的智能之旅
 ---
-
 ### 序言：与时间赛跑的智能探索
 
 大家好，这里是最佳拍档。在今天这期视频的开始，我想请大家和我一起想象这样一个场景：你坐在一辆飞驰的列车上，窗外的风景，那些田野、桥梁、城市，正在以一种你几乎无法捕捉的速度向后退去。这不仅仅是物理上的速度，更是一种关于时间的隐喻。对于有些人来说，时间是用来享受的，但是对于另一些人来说，时间是用来赛跑的。如果你真的要把某件事当做一生的使命，你会发现时间其实少得可怜，生命太短暂了。

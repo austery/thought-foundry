@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-10-10'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6ye1tgFPPXs
 speaker: 三個水槍手
@@ -22,7 +21,6 @@ tags:
 - social
 title: 中国社会的三大网络理论：性压抑、立功梭哈与安卓苹果之辨
 ---
-
 ### 近期时事与舆论焦点
 
 主持人: 最近中国社会看似平静，但实际上却暗流涌动。国庆到元旦期间，通常是新闻的沉闷期，但今年即将召开的**四中全会**（Fourth Plenary Session: 中国共产党中央委员会全体会议，通常讨论和决定重大政策和人事问题）预计将是史上中央委员更换人数最多的一次。这反映出社会在表面平静之下，酝酿着潜在的变化。

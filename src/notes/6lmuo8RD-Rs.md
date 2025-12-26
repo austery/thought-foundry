@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Poolside
@@ -29,10 +29,7 @@ products_models:
 - GB200
 - GB300
 - VS Code
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6lmuo8RD-Rs
 speaker: The MAD Podcast with Matt Turck
@@ -48,7 +45,6 @@ tags:
 - scaling-law
 title: 智能已商品化：Poolside创始人揭示能源与算力如何决定AGI竞赛的终局
 ---
-
 ### 核心观点节选
 
 **Eiso Kant:** 我甚至敢说，智能将成为一种商品。如果你是一家**基础模型**（Foundation Model: 指像 GPT-4 这样经过大规模数据训练、具备通用能力的 AI 模型）公司，却不建设实体基础设施，那你只是在“角色扮演”你的业务。“地平线计划”（Project Horizon）就是我们正在美国建设的最大数据中心园区之一。我们讨论的算力规模，是以数百兆瓦，乃至很快将以千兆瓦为单位计算的。我们称之为“学会学习的强化学习”（Reinforcement Learning to Learn, RL to L）。这可能是我第一次公开谈论这个概念。

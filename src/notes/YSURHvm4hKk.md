@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Google
@@ -13,9 +13,7 @@ media_books:
 - 《模型思考者》
 products_models:
 - BMI指数
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YSURHvm4hKk
 speaker: 北美王路飞
@@ -28,7 +26,6 @@ tags:
 - model
 title: 模型的真相：它不是复印机，而是“有用的谎言”——多模型思维的决策智慧
 ---
-
 ### 预测的困境与模型的幻象
 
 我们生活在一个痴迷预测的时代，渴望知道明天的股价涨跌、下个月的疫情走势、选举结果，甚至是职业生涯的规划。为此，我们求助于专家，求助于那些掌握着模型的人，相信他们手中的“水晶球”能够看透未来。然而，现实却屡次打破这种幻想：2008年金融海啸前夕，顶尖经济模型声称基本面良好；新冠疫情初期，不同模型对感染人数的预测差异高达数千倍；至于选举和市场，专家的预测，尤其是那些最有信心的预测，翻车的名场面更是数不胜数。

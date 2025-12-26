@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-13'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fN3SIWEjxUU
 speaker: Bloomberg Podcasts
@@ -25,7 +24,6 @@ tags:
 - supply-chain-diversification
 title: OpenAI芯片战略、Fastenal财报与全球供应链挑战
 ---
-
 ### 开篇：市场焦点与OpenAI的AI基础设施雄心
 
 Bloomberg: [Music] Bloomberg Audio Studios, podcasts, radio, news.

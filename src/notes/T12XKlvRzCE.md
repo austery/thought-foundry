@@ -18,8 +18,7 @@ draft: true
 series: ''
 category: philosophy-thinking
 area: society-thinking
-project:
-  - china-analysis
+project: []
 people:
   - 许知远
   - 于翔宇

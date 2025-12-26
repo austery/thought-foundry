@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国国务院
@@ -14,9 +14,7 @@ people:
 - Rubio
 products_models:
 - '[]'
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Fgs8mJKinUc
 speaker: 徒步的騎手
@@ -30,7 +28,6 @@ tags:
 - political
 title: 川普政府学生签证政策急转弯：留学生如何明智应对与自我保护
 ---
-
 ### 川普政府学生签证政策的反复与应对
 
 大家好，目前我还在中山道上。两周前在东京，朋友们组织了一场分享会，会上有一位来自国内的听众连线提问：川普政府撤销了许多留学生签证，在这种情况下，是否应该改变孩子去美国留学的计划？我当时做了一个简单的回应，我说你不能跟着川普的节奏变化，因为你跟不上他改变的速度。正确的做法是做好自己的计划，然后等着川普去变。

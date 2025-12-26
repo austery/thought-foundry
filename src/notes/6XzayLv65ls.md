@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -15,10 +15,7 @@ media_books:
 - Rudolph Diesel
 people:
 - Nicola Tangan
-project:
-- investment-strategy
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6XzayLv65ls
 speaker: Norges Bank Investment Management
@@ -33,7 +30,6 @@ tags:
 - trend
 title: RBI高管访谈：快餐业的增长策略、文化与未来展望
 ---
-
 ### 欢迎辞与快餐业概览
 
 **主持人 Nicola Tangan:** 大家好，欢迎收听《**In Good Company**》（播客名称）。我是挪威主权财富基金（Norges Bank Investment Management）的首席执行官**Nicola Tangan**。

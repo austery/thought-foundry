@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: business
 channel: null
@@ -16,8 +16,7 @@ people:
 - Alex
 - Serena
 products_models: []
-project:
-- entrepreneurship
+project: []
 series: null
 source: null
 speaker: 一口新饭读书会
@@ -28,7 +27,6 @@ tags:
 - side-hustle
 title: 「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 ---
-
 **主讲人：** Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan,
 婷, Victor, Kayden, 张硕
 

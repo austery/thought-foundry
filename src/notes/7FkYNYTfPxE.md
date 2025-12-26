@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -40,10 +40,7 @@ people:
 - Jared Kushner
 - Dmitry Medvedev
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7FkYNYTfPxE
 speaker: LT視界
@@ -57,7 +54,6 @@ tags:
 - strategy
 title: 中美关系新平衡：中国对特朗普的战略判断与全球多维挑战
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月4日，我们首先来了解今天的财经头条。
 
 ### 美国中期选举与资本市场：百年数据揭示的规律

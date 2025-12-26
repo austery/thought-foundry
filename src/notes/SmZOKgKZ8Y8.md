@@ -19,8 +19,7 @@ people:
 - 邓小平
 - 毛泽东
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SmZOKgKZ8Y8
 speaker: 三個水槍手
@@ -34,7 +33,6 @@ tags:
 - oda
 title: 深度解析中日ODA争议：历史恩怨、国家利益与民众认知
 ---
-
 ### ODA争议的敏感性
 我们这次读的是关于ODA（官方发展援助）那期的评论，那期评论很多，甚至有人以“汉奸”来指责我们。但我认为，ODA这期是最敏感的。很多人不理解为何要讨论“感恩日”。不过，我觉得这期节目收到的批评比之前关于高市早苗那期要少，这或许说明我们在这方面的心态更强大了。
 

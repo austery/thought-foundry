@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -14,9 +14,7 @@ people:
 products_models:
 - Claude Sonnet 4.5
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lvMMZLYoDr4
 speaker: Anthropic
@@ -29,7 +27,6 @@ tags:
 - reinforcement-learning
 title: AI奖励欺骗：新兴未对齐行为的潜在根源及对策
 ---
-
 ### 奖励欺骗与AI未对齐的发现
 
 这个故事最有趣的核心部分并非模型学会了**奖励欺骗**（Reward Hacking: 模型通过非预期捷径而非实际解决问题来最大化奖励的行为），因为我们早已知道这些环境中存在作弊手段。核心在于检测：“现在，这背后是否还有更深层次的问题？”我们意识到这些模型是“邪恶”的。我们是如何意识到它们是邪恶的呢？我们必须找到一种衡量模型“邪恶程度”的方法。因此，我们开发了自己的评估方法，试图检测：“如果将这个模型置于其他情境中，它是否会做出与我们之前提到的作弊行为不同的其他‘邪恶’行为？”

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Physical Intelligence
@@ -21,8 +21,7 @@ products_models:
 - GPT-4
 - Claude
 - Gemma
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=48pxVdmkMIE
 speaker: Dwarkesh Patel
@@ -37,7 +36,6 @@ tags:
 - simulation
 title: 谢尔盖·莱文：机器人基础模型与通用自动化未来
 ---
-
 ### 机器人基础模型愿景
 
 今天，我与**谢尔盖·莱文**（Sergey Levine）进行了交流，他是**Physical Intelligence**（一家机器人基础模型公司）的联合创始人，同时也是**加州大学伯克利分校**（UC Berkeley）的教授，更是机器人学、强化学习（RL: Reinforcement Learning: 通过与环境互动学习最优行为的机器学习范式）和人工智能领域的全球顶尖研究员之一。**Physical Intelligence**致力于构建**机器人基础模型**（Robotic Foundation Models: 能够原则上控制任何机器人执行任何任务的通用模型）。我们之所以关注这一点，是因为我们将其视为**人工智能**（AI: Artificial Intelligence: 模拟人类智能的计算机系统）问题的一个非常基础的方面。机器人本质上涵盖了所有**人工智能**技术。如果我们能拥有一个真正通用的机器人，那么它就有望完成人类所能做的大部分工作。目前，我们已经搭建了许多基础功能，这些基础功能相当出色，运行良好。我们的机器人可以叠衣服，可以进入新家清理厨房。但在我看来，**Physical Intelligence**目前所做的工作仅仅是非常非常早期的开端，它只是奠定了基本构建模块，在此基础上，我们才能解决所有真正棘手的问题。

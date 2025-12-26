@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Fraser Institute
@@ -12,10 +12,7 @@ media_books:
 - 《麦克林杂志》
 - QS世界大学排行榜
 products_models: []
-project:
-- market-cycles
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5dzTusm3glc
 speaker: 莊也雜談
@@ -29,7 +26,6 @@ tags:
 - urban-development
 title: 埃德蒙顿与卡尔加里：城市角色、教育实力及房产市场深度对比
 ---
-
 ### 埃德蒙顿与卡尔加里的城市角色与关系
 
 大家好，我是庄也，欢迎收看庄也杂谈加拿大系列节目。今天我们继续城市系列，来聊聊埃德蒙顿的最后一集。其实我本来打算将埃德蒙顿系列分为上下两集，结果上集讲到一半，因为内容太多，于是分成了上中下三集。不过也正因为如此，才抛砖引玉，引来了不少有营养价值的留言，让我对这个城市有了更深层次的理解和收获。

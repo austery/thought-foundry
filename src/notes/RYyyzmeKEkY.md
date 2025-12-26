@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-04-25'
@@ -17,10 +17,7 @@ people:
 - René Descartes
 - Voltaire
 - Immanuel Kant
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RYyyzmeKEkY
 speaker: 大问题Dialectic
@@ -34,7 +31,6 @@ tags:
 - right
 title: 哲学家圆桌：吃肉在道德上是否错误？一场跨越时空的伦理思辨
 ---
-
 ### 动物是否有免于被人类伤害的权利？
 
 本期“大问题”节目将深入探讨一个核心伦理议题：动物是否有免于被人类伤害的权利？为此，我们通过时空连线的方式，邀请了七位不同时代的哲学家共同参与讨论。

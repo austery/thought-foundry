@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - DeepMind
@@ -21,10 +21,7 @@ products_models:
 - AlphaFold
 - AlphaGo
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P_fHJIYENdI
 speaker: veritasium
@@ -39,7 +36,6 @@ tags:
 - scientific
 title: AlphaFold：AI在生命科学领域最伟大的突破
 ---
-
 ### 引言：AI解决蛋白质折叠难题
 
 如果世界上所有最大的问题，从气候变化到疾病治疗，再到塑料废物处理，都有一个共同的解决方案，那会是怎样？

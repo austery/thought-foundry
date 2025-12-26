@@ -18,10 +18,7 @@ people:
 - Elon Musk
 products_models:
 - H20
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UMFSEgwe8iI
 speaker: Shanghao Jin
@@ -34,7 +31,6 @@ tags:
 - political-risk
 title: 全球市场波动、政策影响与AI投资策略深度解析
 ---
-
 ### 市场波动与当前主要关注点
 
 近期全球资本市场波动剧烈，特别是美股和**中概股**（China concept stocks: 在美国上市的中国公司股票）都表现出显著的起伏。例如，上一周中概股大涨，但在随后的美股交易时段，涨幅又被大量回吐，包括阿里巴巴等公司。本文将结合当前市场的主要头寸、政治动态以及潜在的**尾部风险**（Tail Risk: 指发生概率极低但一旦发生将造成巨大损失的极端事件），分享对市场的看法。

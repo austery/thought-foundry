@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - YouTube
@@ -15,10 +15,7 @@ media_books:
 people:
 - 唐石峻
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=w-adUR-6S8k
 speaker: Shijun Tang
@@ -31,7 +28,6 @@ tags:
 - psychology
 title: 如何不再一事无成：专注力是新时代的超能力
 ---
-
 ### 现代社会的快乐陷阱：你正在练习不快乐
 
 而当今世界中，你每天练习的，是不快乐，而不是快乐。现在的世界无时无刻不在唆使你做你不喜欢的事：诱惑你、分散你的注意力、嘲讽你、使你感到卑微、蛊惑你，让你迷失自我。你生活在一套制度完善的矩阵中，浑然不知你的超能力正在消亡。

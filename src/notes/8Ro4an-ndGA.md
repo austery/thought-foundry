@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - anthropic
@@ -10,8 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8Ro4an-ndGA
 speaker: Best Partners TV
@@ -23,7 +22,6 @@ tags:
 - right
 title: Anthropic推翻Claude用户隐私政策：数据训练与用户信任的博弈
 ---
-
 ### Claude用户隐私政策的重大反转
 
 大家好，这里是最佳拍档，我是大飞。今天咱们要聊的话题，可能和每一位使用**Claude**（Anthropic公司开发的一系列大型语言模型）的朋友都息息相关。如果你最近打开过Claude，无论是免费版、专业版还是Max版，应该都能看到一个弹窗。这个弹窗背后，是**Anthropic**（一家美国人工智能安全与研究公司，OpenAI的主要竞争对手之一）这家公司对用户隐私承诺的彻底反转。

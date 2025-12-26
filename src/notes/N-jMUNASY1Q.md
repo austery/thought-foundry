@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -13,10 +13,7 @@ layout: post.njk
 people:
 - Nicola Tangen
 - Reed Hoffman
-project:
-- geopolitics-watch
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=N-jMUNASY1Q
 speaker: Norges Bank Investment Management
@@ -30,7 +27,6 @@ tags:
 - renewable-energy
 title: Engie CEO 凯瑟琳·麦格雷戈：能源转型中的挑战、机遇与领导力
 ---
-
 ### 引言：Engie及其CEO的非凡旅程
 
 大家好，我是**挪威主权财富基金**（*Norwegian Sovereign Wealth Fund*: 挪威政府运营的全球最大主权财富基金）的首席执行官**Nicola Tangen**。

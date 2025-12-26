@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs: []
 date: '2025-02-20'
@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 people:
 - Satya Nadella
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=itkvrQUSJC0
 speaker: Dwarkesh Patel
@@ -23,7 +22,6 @@ tags:
 - quantum-computing
 title: 萨提亚·纳德拉展示首款马约拉纳 1 号量子计算芯片
 ---
-
 ### 核心突破
 我相信我们现在就到了。是的，就是这样。我很难想象我们竟然能在如此小的设备中构建一个拥有**百万量子比特**的量子计算机，这简直令人难以置信。我认为这就是问题的关键：除非我们能够做到这一点，否则你无法梦想构建一个**实用规模的量子计算机**（Utility-Scale Quantum Computer: 指能够解决实际问题，并比经典计算机具有显著优势的量子计算机）。你提到最终的百万量子比特将集成在一块芯片上。
 

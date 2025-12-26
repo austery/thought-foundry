@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - Leopold Aschenbrenner
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ghluOfM-Xik
 speaker: Dwarkesh Patel
@@ -24,7 +23,6 @@ tags:
 - national-security
 title: 美中AI竞赛的未来走向
 ---
-
 ### 危险的领先劣势
 
 我们正处于一个极其危险的境地，领先优势仅有三个月。我们正经历一场激烈的竞争，如果对手领先，他们就能占据主导地位，获得决定性优势。他们正在疯狂地构建计算集群，不惜一切代价，我们必须跟上。新的**大规模杀伤性武器**（WMDs: Weapons of Mass Destruction）层出不穷，这将使我们陷入一种疯狂的军事技术和**大规模杀伤性武器**（WMDs: Weapons of Mass Destruction）的局面，**相互保证毁灭**（Mutually Assured Destruction: MAD）的威慑模式每几周都在变化，整个局势极不稳定且充满危险。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2024-11-28'
@@ -16,8 +16,7 @@ people:
 - Karl Popper
 - Ludwig Wittgenstein
 products_models: []
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cUrYMooFbMw
 speaker: 大问题Dialectic
@@ -30,7 +29,6 @@ tags:
 - theory
 title: 谎言的本质是什么？哲学测谎仪深度解析
 ---
-
 ### 谎言的普遍性与朴素定义
 
 大家好，欢迎收看大问题节目。本期要探讨的大问题是：谎言的本质是什么？我们每个人都说过谎，也听过别人对我们说过谎。我敢赌，在过去一周中你就说过谎。比如说，你和朋友的聚会迟到了，你解释说“路上堵车了”，但其实你是坐地铁过来的，你根本就是出发晚了。再比如说，公司领导问你下个月的业绩能达标吗？你其实心里面完全没谱，但你回答说：“我对下个月的业绩充满了信心！”

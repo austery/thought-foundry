@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-12-06'
@@ -15,9 +15,7 @@ people:
 - Kant
 - 秦晖
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HgcE--fMi_s
 speaker: Anthony看世界
@@ -30,7 +28,6 @@ tags:
 - thinking
 title: 集体表象：原始思维在现代社会的延续与理性压制
 ---
-
 ### 原始思维的现代回响：互渗律与集体表象
 
 我们今天继续探讨**集体表象**（Collective Representation）这一概念。在之前的讨论中，我们分析了一种古老却在当代普遍存在的心理状态——**互渗律**（Interpenetration rate）。当一个人的主体性不发达，无法建立清晰的心理边界时，他就会陷入一种主体与客体不分明的混沌之中。在他的世界里，主观意志可以取代客观事实，情感波动被投射为外部世界的敌意。他不再是一个独立的观察者，而是沉沦于环境中，总感觉自己被神秘的外部力量渗透和影响。

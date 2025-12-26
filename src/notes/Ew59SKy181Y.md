@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ew59SKy181Y
 speaker: TED
@@ -22,7 +21,6 @@ tags:
 - war
 title: 我们是否正走向第三次世界大战？历史的启示
 ---
-
 ### 引言：历史的警示
 
 History has taught us many lessons.

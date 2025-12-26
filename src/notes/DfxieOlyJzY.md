@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 安氏半导体 (Nexperia)
@@ -19,11 +19,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DfxieOlyJzY
 speaker: FearNation 世界苦茶
@@ -38,7 +34,6 @@ tags:
 - supply-chain-weaponization
 title: 安世半导体风暴：地缘政治下的供应链武器化与信任崩塌
 ---
-
 ### 安世半导体：一场全球科技战前沿的商业惊悚片
 
 今天我们探讨的是中国和荷兰围绕**安氏半导体**（Nexperia: 一家总部位于荷兰的半导体公司，原为恩智浦半导体标准产品业务部门）的争夺。我们将把所有细节说明白。这是一个听起来像是商业惊悚片，但却真实发生在当下全球科技战前沿的故事。这家公司现在正处在一场超级大国角力与国家主权干预的风暴中心，已经被硬生生地撕裂成了两半。这一切是如何发生的？我们今天就来做个全景式的复盘。

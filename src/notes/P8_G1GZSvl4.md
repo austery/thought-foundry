@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -24,10 +24,7 @@ people:
 - Kash Patel
 - Nicholas Maduro
 - Mark Kelly
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P8_G1GZSvl4
 speaker: New York Times Podcasts
@@ -41,7 +38,6 @@ tags:
 - war
 title: 国民警卫队枪击案的余波：特朗普政府的移民政策大调整
 ---
-
 ### 华盛顿枪击案引发的移民政策巨变
 
 我是《纽约时报》的迈克尔·布巴罗，这里是《每日》节目。

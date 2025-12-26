@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -30,10 +30,7 @@ people:
 - Xi Jinping
 - Vladimir Putin
 - 李强
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rlNWP2S4Iz8
 speaker: LT視界
@@ -49,7 +46,6 @@ tags:
 - us-government-shutdown
 title: 美国政经挑战、台海风云与中国社会两极：深度解析多维动态
 ---
-
 ### 美国财经头条：政府停摆、贸易数据与投资新机遇
 
 今天，我们将分享不能错过的三条重要财经新闻。首先是彭博社的报道，标题指出尽管参议院的协议正在推进，但美国政府停摆仍需数天才能结束。国际资本市场目前最关注的是美国政府何时能结束历史上最长的关门周期。昨天晚上出现了重大转折，部分民主党人同意共和党提出的最新方案，两党初步达成协议结束政府关门。然而，这次协议只维持到1月31日，两党争议最大的**奥巴马医疗补贴**（ObamaCare Subsidies: 美国平价医疗法案中的政府补助）问题并未触及。

@@ -18,9 +18,7 @@ draft: true
 series: ''
 category: philosophy-thinking
 area: society-thinking
-project:
-  - china-analysis
-  - us-analysis
+project: []
 people:
   - 川普
   - 阿西莫格鲁

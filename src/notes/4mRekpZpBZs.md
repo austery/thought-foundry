@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 date: '2025-12-19'
 draft: true
@@ -7,8 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4mRekpZpBZs
 speaker: AI Engineer
@@ -19,7 +18,6 @@ tags:
 - software-engineering
 title: 工程师薪酬新思路：像销售人员一样付薪 - 阿曼·赫扎克兰尼，Tenex
 ---
-
 ### 工程师薪酬新思路：像销售人员一样付薪
 
 作为 **10X** 的联合创始人和管理合伙人，我想分享一下我们公司如何支付工程师的薪酬。我们采用了一种独特的方法，根据工程师完成的任务量（story points）来付薪，类似于销售人员的薪酬模式。

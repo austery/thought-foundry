@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国共产党
@@ -14,10 +14,7 @@ media_books:
 - 《说苑》
 - 《强互惠的演化》
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KtaSz9xhwu4
 speaker: 政經孫老師
@@ -31,7 +28,6 @@ tags:
 - societal
 title: 中国人的极端利己主义：心理、社会与生物学根源及其未来走向
 ---
-
 ### 中国人行为特性的底层逻辑
 
 在日常生活中，我们普遍熟悉中国人的某些特性，例如缺乏公德心、极度自私以及喜欢占便宜等。尤其是在中国社会底层，互害现象非常严重。这些都是我们非常熟悉的中国人特性，但这些共同特性背后是否存在一种底层逻辑？本文将深入探讨这个问题。需要说明的是，本文所讨论的现象不限于拥有中国国籍的人，而是将“中国人”定义为一种道德和生活状态。无论民族、肤色、语言或居住地，任何表现出这种道德状态的人，都可被视为“道德上的中国人”。这种“道德中国人”的特点，可以总结为“极端的利己主义”，它导致了普遍低下的道德水准，甚至有时比动物更低。

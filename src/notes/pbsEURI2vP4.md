@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 date: '2025-11-02'
 draft: true
@@ -11,10 +11,7 @@ people:
 - Bai Juyi
 - Ray Dalio
 products_models: []
-project:
-- investment-strategy
-- personal-growth-lab
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pbsEURI2vP4
 speaker: 王红雨
@@ -29,7 +26,6 @@ tags:
 - rent-vs-buy
 title: 加拿大房贷申请避坑指南：信用、债务、收入与房产选择的关键考量
 ---
-
 ### 加拿大房贷申请：背景与常见误区概览
 
 随着房贷利率降至4%，申请房贷预批的人数开始增多。然而，一时兴起想买房的朋友，可能会在申请过程中遇到一些意想不到的问题。大家好，欢迎再次回到我的频道。今天是2025年11月2号。今天我们来聊聊房贷预批的一些问题。我将今天的话题分为五个小题目：如果你不想获得贷款，如何搞砸自己的信用记录？如果你不想获得贷款，如何背负足够多的沉重个人债务？如果你不想申请到贷款，如何让收入难以证明？第四个是如果你不想拿到银行的贷款，如何精挑细选那些银行不接受的房产？最后总结一下，长安居大不易，每个人都不容易。

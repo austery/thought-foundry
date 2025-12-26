@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 自由党
@@ -14,10 +14,7 @@ people:
 - 卡尼
 - 特鲁多
 - Donald Trump
-project:
-- geopolitics-watch
-- systems-thinking
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9mKZ4ZOB1F0
 speaker: 王红雨
@@ -31,7 +28,6 @@ tags:
 - society
 title: 自由党连任后的加拿大：卡尼的经济与住房计划，左派价值观的回归及个人应对策略
 ---
-
 ### 自由党连任后的加拿大：未来四年展望
 
 大家好，今天是2025年5月1号，欢迎再次回到我的频道。今天我们来聊一个令人非常失望的消息，就是4月28号自由党再次连任了。我们今天谈一谈未来四年加拿大人的前途和命运。卡尼再次当选，会继续走特鲁多的路，那么加拿大人的命运会怎么样呢？今天我将分三个小标题跟大家聊一聊。第一个是卡尼的经济计划和住房计划具体是什么。在这些计划的背后体现的是左派的一些价值观，这些左派的价值观到底是什么？这关系到未来我们四年将可能遇到的问题，以及我们应该如何应对。第三个是我自己的一些个人意见，加拿大人在面对左派继续执政的情况下，我们的前途和命运是什么样的？我们如何掌控自己的命运和前途？

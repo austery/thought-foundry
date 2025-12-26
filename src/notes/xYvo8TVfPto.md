@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 腾讯
@@ -18,10 +18,7 @@ people:
 - 李连杰
 - 王志安
 - 刘强东
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xYvo8TVfPto
 speaker: 北美王路飞
@@ -35,7 +32,6 @@ tags:
 - technology
 title: 徐晓冬与馆长会面未果：六年封杀下的心酸与两岸交流的复杂性
 ---
-
 ### 徐晓冬与馆长会面事件始末
 
 **北美王路飞:** 大家好，欢迎来到我的频道。今天很高兴又请到我们频道的老朋友，李瑞，瑞瑞杂谈的主播，来聊一聊最近非常火爆的“东哥去见馆长”这件事。李瑞，我看到你那天直播的时候，你好像也在车上是吧？

@@ -37,10 +37,7 @@ people:
 - Josh Shapiro
 - Hunter Biden
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NmLivlN2-0M
 speaker: 北美王路飞
@@ -52,7 +49,6 @@ tags:
 - us-election-2024
 title: 特朗普如何从绝境逆袭：2024年白宫之路的算计、豪赌与人性博弈
 ---
-
 ### 序言：特朗普的王者归来与绝境逆袭
 
 大家好，欢迎来到我的频道。今天我们将开启一个新系列，深入探讨2024年美国大选，特别是围绕唐纳德·特朗普如何重返白宫，以及民主党如何失去美国的故事。这个系列基于一本名为《2024：How Trump Retook the White House and Democrats Lost America》的书，它以特朗普竞选团队的视角展开，由三位调查记者撰写，内容精彩，视角独特。

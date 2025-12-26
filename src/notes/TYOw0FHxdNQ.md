@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TYOw0FHxdNQ
 speaker: 硅谷101
@@ -25,7 +23,6 @@ title: Polymarket：预测市场如何重塑信息金融与未来争议
 companies:
 - polymarket
 ---
-
 ### Polymarket的崛起：从“不可能”到数十亿的预测市场
 
 2025年，耶稣会重新降临人世吗？这个问题的答案在预测平台**Polymarket**（Prediction Market: 一个基于区块链技术，允许用户对未来事件的结果进行投注和交易的平台）上并非100%的“否”。这个总赌注为90万美元、正常逻辑认为“不可能”的问题，仍然有1%的概率让其背后的一群匿名下注者认为此事将会发生。与此同时，**美联储**（Federal Reserve: 美国的中央银行系统，负责制定和执行货币政策）会在9月降息吗？俄乌战争会在2025年停火吗？Taylor Swift会在2025年怀孕吗？到九月底哪家公司的**AI大模型**（AI Large Model: 具有大量参数和复杂结构的深度学习模型，能够处理多种人工智能任务）最好？马斯克9月份会发布多少推文？这些听起来像是时政社会或是科技栏目的头条新闻，但在Polymarket这个预测平台上，它们都是正在进行中的，吸引了从几十万到几十亿美元真金白银下注的预测市场。

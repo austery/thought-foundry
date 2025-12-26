@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-11-08'
@@ -18,9 +18,7 @@ people:
 - 罗永浩
 - Nassim Nicholas Taleb
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NIbPEW0alBg
 speaker: 一口新飯
@@ -34,7 +32,6 @@ tags:
 - self
 title: 为什么我们总爱否定他人的成功？从心理学到现代社会的应对之道
 ---
-
 ### 引言：对Tim成功案例的争议与反思
 
 前一阵子，我观看了影视飓风的**Tim**（知名视频创作者）参加罗永浩长播客的节目，他在其中分享了自己的成功经历。视频播出后，不出所料，网上出现了许多文章分析Tim成功的原因。有人认为他是“富二代”，有一个“好爸爸”。甚至当Tim试图证明其富二代身份对自身影响有限时，仍有人会找出他前后逻辑矛盾之处。看到这些现象，我深有感触，因为它反映了当代人对待他人成功的一种普遍态度。这种态度至关重要，因为它直接决定了我们未来将采取何种决策和行动。因此，我想借此机会讨论我们应该如何正确对待他人的成功。这个话题对我个人而言也具有现实意义，因为我目前正在创业，而Tim同样是一位创作者和创业者。但在具体讨论之前，我们有必要分析一下为什么我们会轻易否定他人的成功，以及这种做法为何不可取。

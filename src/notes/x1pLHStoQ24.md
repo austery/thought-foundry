@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 迪士尼
@@ -22,10 +22,7 @@ products_models:
 - Gemini
 - Veo
 - Nano Banana
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=x1pLHStoQ24
 speaker: Best Partners TV
@@ -39,7 +36,6 @@ tags:
 - strategy
 title: 迪士尼AI双标实录：10亿授权OpenAI vs. 起诉谷歌，谁在定义AI版权新秩序？
 ---
-
 ### 迪士尼的双重动作：授权与诉讼背后的逻辑
 
 这两天，一家全球顶级的内容巨头——迪士尼，用两波看似矛盾却又目标明确的操作，给整个AI行业上了一堂深刻的版权课。一边是砸下10亿美元，把自己旗下200多个顶级IP角色双手奉上，与OpenAI结成战略同盟；另一边是毫不留情地寄出律师函，把谷歌这样的科技巨头直接告上法庭，指控其旗下多款AI产品涉嫌规模化侵权。这背后究竟藏着怎样的战略意图？我们是否真的在见证一场“双标”？

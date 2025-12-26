@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Meta
@@ -27,10 +27,7 @@ products_models:
 - TikTok
 - Gemini
 - ChatGPT
-project:
-- cultural-critique
-- systems-thinking
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=R4_trBh25Vk
 speaker: TED
@@ -45,7 +42,6 @@ tags:
 - society
 title: 女性体育的蓬勃未来：打破算法偏见与投资不足的恶性循环
 ---
-
 ### 引言：科技变迁与女性体育的“不可见”
 
 奥运会一直是我反思世界变化速度的一个触点。

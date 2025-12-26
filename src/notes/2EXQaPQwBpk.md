@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - SpaceX
@@ -28,7 +28,6 @@ tags:
 - technology
 title: SpaceX火箭创纪录发射，助力NASA探测木卫二生命迹象
 ---
-
 ### SpaceX创纪录发射：太空探索新常态
 
 SpaceX的火箭在10月份打破了一个新的记录，在一周内连续发射了6次，其中包括了**星舰**和**猎鹰9号**火箭在内的全系列发射。在10月13日至15日这三天时间内，SpaceX分别在美国的德州和加州三个州，总共四个发射场发射了四次火箭。这预示着未来两到三年内，这种高频率的发射将成为常态，甚至会更加密集，特别是在火星窗口期。

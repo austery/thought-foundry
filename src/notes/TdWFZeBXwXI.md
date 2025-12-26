@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Financial Times
@@ -22,10 +22,7 @@ people:
 - Donald Trump
 products_models:
 - '[]'
-project:
-- geopolitics-watch
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TdWFZeBXwXI
 speaker: 徒步的騎手
@@ -39,7 +36,6 @@ tags:
 - politics
 title: 终极选举年背后的民主危机：民选独裁的崛起与挑战
 ---
-
 ### 2024“终极选举年”：民主的表象与危机
 
 “民主是否能活过2025年？”这乍一听似乎是危言耸听的标题，但它其实是一家国际大报——在商业财经界享有盛名的**《金融时报》**（Financial Times: 英国著名财经报纸）——的标题。事实上，《金融时报》早在一年多前就提出了民主生死存亡的问题。回顾2023年末，**《时代周刊》**（Time Magazine: 美国著名新闻周刊）在展望新的一年时，将2024年称为**“终极选举年”**（The Ultimate Election Year: 时代周刊对2024年的称谓，指当年全球举行选举的国家和地区数量创历史新高）。在刚刚过去的2024年，世界上有将近70个国家和地区举行了选举，其中包括世界上人口最多的10个国家中的8个国家，投票选民占世界成年人口的一半，是有史以来最多的一次。表面上，2024年似乎是全世界的一场民主盛宴。然而，也是在2024年新年的第二天，《金融时报》却刊发了一篇悲观色彩浓厚的文章，标题就是“民主是否能活过2024年”（Can Democracy Survive 2024）。

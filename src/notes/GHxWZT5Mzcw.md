@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - OpenAI
@@ -20,10 +20,7 @@ products_models:
 - Gemini
 - Claude
 - Perplexity
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GHxWZT5Mzcw
 speaker: 北美王路飞
@@ -37,7 +34,6 @@ tags:
 - philosophy
 title: 《代数大脑》：加里·马库斯揭示神经网络的局限与人类智能的代数本质
 ---
-
 ### 引言：对大语言模型的认可与批判性思考
 
 作为大语言模型的忠实用户，我深知其在提升工作效率方面的巨大潜力，并付费使用包括ChatGPT、Gemini Ultra、Claude和Perplexity在内的多款顶尖模型。然而，认知科学家加里·马库斯（Gary Marcus）的批评同样切中要害，他指出的许多问题在实际测试中确实存在。今天，我们将深入解读马库斯20年前的著作《代数大脑》（The Algebraic Mind），这本书早已预示了他对神经网络技术不足的批判观点。

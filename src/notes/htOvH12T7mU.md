@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -45,8 +45,7 @@ products_models:
 - Claude
 - Grok
 - Bing
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=htOvH12T7mU
 speaker: Dwarkesh Patel
@@ -59,7 +58,6 @@ tags:
 - superintelligence
 title: AI 2027：月度AI进展预测与智能爆炸探讨
 ---
-
 今天我很荣幸能与**斯科特·亚历山大**和**丹尼尔·科科塔伊洛**交流。斯科特当然是博客《**Slate Star Codex**》的作者，现在是《**Astral Codex 10**》。正如你所知，邀请你上播客一直是我的一个重要心愿。这是我们第一次一起做播客，对吗？是的。丹尼尔是**AI未来项目**的主管。你们今天刚刚发布了一个名为**AI 2027**的项目。这是什么？
 
 ### AI 2027：未来AI进展情景预测

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Massachusetts Institute of Technology
@@ -25,10 +25,7 @@ people:
 - Ethan Mollick
 - Tyler Cowen
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cTilUK7Sh0M
 speaker: 北美王路飞
@@ -42,7 +39,6 @@ tags:
 - technology
 title: 骗过诺奖得主、忽悠美国国会：MIT天才少年的惊天谎言
 ---
-
 ### 引言：一个“完美”的科学谎言
 
 如果有人告诉你，只要按下一个按钮，人类科学探索速度就能瞬间提升将近一半，你会相信吗？不是5%，也不是10%，而是整整44%。这意味着什么？想象一下，如果我们研究一种救命的新药，本来需要10年，现在可能只需要5年多；如果我们在寻找一种可以替代塑料的环保材料，本来需要这一代人的努力，现在可能就在未来两三年。这听起来是不是太美好了，太像科幻小说了？

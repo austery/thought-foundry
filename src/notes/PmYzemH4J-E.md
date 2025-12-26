@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-09-22'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - elizabeth-holmes
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PmYzemH4J-E
 speaker: 北美王路飞
@@ -24,7 +23,6 @@ tags:
 - silicon-valley
 title: 《坏血》最终章：90亿帝国崩塌，新闻的力量与时代的警示
 ---
-
 ### 王牌记者与帝国黄昏
 
 欢迎来到我的频道，今天我们深入探讨**《坏血》**（Bad Blood: 一本揭露Theranos公司骗局的调查报道书籍）的最终章：王牌记者、帝国覆灭与一个永恒的警示。上一集提到，当所有内部吹哨人与外部怀疑者通过一个意想不到的枢纽连接在一起时，他们将所有希望都寄托在一个人身上，这个人就是《华尔街日报》的调查记者**约翰·卡雷鲁**（John Carreyrou: 华尔街日报的调查记者）。

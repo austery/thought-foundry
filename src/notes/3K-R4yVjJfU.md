@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -27,9 +27,7 @@ products_models:
 - GPT-4
 - GPT-3.5
 - TensorFlow
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3K-R4yVjJfU
 speaker: The MAD Podcast with Matt Turck
@@ -43,7 +41,6 @@ tags:
 - scaling-law
 title: OpenAI科学家、Transformer作者Łukasz Kaiser深度解析AI前沿：GPT-5.1、推理模型与未来
 ---
-
 ### 播客介绍
 
 **Matt Turck:** 嗨，我是 Matt，欢迎来到 Matt 播客。我今天的嘉宾是 Łukasz Kaiser，他是现代人工智能的关键构建者之一，毫不夸张地说，他塑造了这个领域的历史。Łukasz 是《Attention is All You Need》论文的合著者之一，这意味着他是 **Transformer**（Transformer: 一种基于自注意力机制的深度学习模型架构，现已成为驱动我们今天使用的几乎所有 AI 的核心）架构的发明者之一。他现在是 OpenAI 的一位顶尖研究科学家，正在帮助推动第二次重大的范式转变，即向 GPT-5.1 背后的那种推理模型发展。

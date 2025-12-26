@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-11'
@@ -10,10 +10,7 @@ layout: post.njk
 people:
 - joseph-wang
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xxhGlBAQFNM
 speaker: Joseph Wang
@@ -28,7 +25,6 @@ title: 市场周刊：贸易战重燃、金银飙升与美元反弹
 companies:
 - precious-metal
 ---
-
 ### 本周市场概览与焦点
 
 大家好，今天是10月11日，欢迎收看《市场周刊》。过去一周市场表现相对平淡。政府持续关闭，导致没有任何官方数据发布。从目前情况来看，政府关闭似乎趋于强硬，预计持续时间可能比预期更长。特朗普总统预测关闭将持续近30天，且这一估计还在上升。下周是军队的发薪周，这可能会带来更多政治压力，但具体影响仍难以判断。股市目前只是缓慢前行，但标普指数在达到7000点过程中发生了一些有趣的事情。

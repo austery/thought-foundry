@@ -25,8 +25,7 @@ products_models:
 - BERT
 - Llama 3
 - NotebookLM
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gkAyqoQkOSk
 speaker: Hung-yi Lee
@@ -39,7 +38,6 @@ tags:
 - model
 title: 李宏毅深度解析：语音语言模型如何学会说话？从Token化到TASTE模型的演进
 ---
-
 ### 引言：语音语言模型的兴起与挑战
 
 今天想和大家探讨的是语音语言模型的发展。在过去的课程中，我们已经讨论过如何利用类似语言模型的技术来实现影像生成，大家也知道影像生成技术最近非常热门。今天，我们将分享语音是如何通过类似的技术被创造出来的。

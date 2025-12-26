@@ -40,10 +40,7 @@ people:
 - Lai Ching-te
 - Jack Ma
 - Xi Jinping
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=43Txtp-kr0w
 speaker: LT視界
@@ -56,7 +53,6 @@ tags:
 - geopolitical-tension
 title: 全球经济与地缘政治：AI泡沫、巴菲特谢幕及中国经济困境
 ---
-
 ### 美国就业市场与AI冲击：华尔街的担忧
 
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月11日，我们首先来了解今天的财经头条，有三个方面的最新信息与网友分享。首先是《华尔街日报》的报道，**ADP**（Automatic Data Processing: 美国一家提供人力资本管理解决方案的公司）估计10月份美国私营部门就业人数减少。私营机构ADP今天发布报告称，私营部门每周裁员11,250人。**新知公司**（ADP报告显示）截止10月25日的四周内，私营部门每周裁员11,250人。由于政府停摆期间官方的就业数据被推迟发布，所以来自ADP的就业数据就成为华尔街判断美国就业市场最重要的信息来源。

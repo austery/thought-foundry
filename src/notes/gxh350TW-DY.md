@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-09-14'
 draft: true
@@ -10,9 +10,7 @@ media_books:
 - The Pillow Book
 - On Cuteness
 - Konjaku Monogatarishu
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gxh350TW-DY
 speaker: Anthony看世界
@@ -26,7 +24,6 @@ tags:
 - spiritual-immaturity
 title: 东亚“白瘦幼”审美与可爱文化：深层心理与文化基因解析
 ---
-
 ### 东亚“白瘦幼”审美与可爱文化的深层探讨
 
 在之前的视频中，我们通过分析日本动漫中的经典角色“战斗少女”，指出了其人格的空洞与不真实性，这使得她们非常适合作为观众进行性投射的对象。在视频的最后，我们也提到，“战斗少女”以及**ACGN**（Animation, Comic, Game, Novel: 动漫、漫画、游戏、小说构成的文化圈）文化本身并非问题所在，关键在于当事者对待这一角色的态度。因此，在今天的视频中，我们将进一步探讨东亚社会中的**白瘦幼**（白瘦幼: 指追求皮肤白皙、身材纤细、外表幼态的审美标准）审美及其背后的可爱文化。在视频开始前，我想说明，我将把这个视频发布到“心理学与教育”的列表中。如果您有任何想与我讨论的咨询话题，可以通过我的邮箱预约。现在，让我们回到今天的话题。

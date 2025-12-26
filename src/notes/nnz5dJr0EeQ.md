@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies:
 - spacex-ipo
@@ -90,10 +90,7 @@ products_models:
 - FSD
 - Cosmos
 - Gemini
-project:
-- investment-strategy
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nnz5dJr0EeQ
 speaker: Amit Kukreja
@@ -107,7 +104,6 @@ tags:
 - llm
 title: 市场动荡：甲骨文财报重挫科技股，鲍威尔鸽派言论被掩盖，迪士尼联手OpenAI引发争议
 ---
-
 ### 市场开盘与近期动态
 
 大家早上好，欢迎回到“市场开盘”节目。今天是12月11日星期四，我们正在直播。

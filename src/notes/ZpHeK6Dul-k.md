@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Nasdaq
@@ -19,10 +19,7 @@ products_models:
 - TLT
 - Bitcoin
 - Ethereum
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZpHeK6Dul-k
 speaker: Shanghao Jin
@@ -37,7 +34,6 @@ tags:
 - political-shift
 title: 宏观冰与火：利率、AI周期与财政扩张下的市场展望
 ---
-
 ### 宏观大周期：冰与火的交织
 
 大家好，不好意思今天晚了一点，我们直接开始吧。我这里放了一个图，就是冰与火。今天我将从我的老本行利率开始讲起，并阐述美国乃至全球当前面临的宏观大形势。我认为我们正处于两个宏观大周期的中间，而这中间确实经历了冰与火的考验。在讲完利率之后，我也会分享一下最近对加密货币市场和A股市场的看法，因为上周关于加密货币可能只讲了10分钟，很多人对此有一些疑问。

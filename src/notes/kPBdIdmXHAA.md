@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies:
 - psychological-projection
@@ -14,10 +14,7 @@ media_books:
 - Psychoanalysis of the Battle Girl
 people:
 - Lacan
-project:
-- cultural-critique
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kPBdIdmXHAA
 speaker: Anthony看世界
@@ -30,7 +27,6 @@ tags:
 - self-awareness
 title: 从钢卷少女到二次元老婆：东亚男性为何迷恋“强大又无害”的战斗美少女？
 ---
-
 ### 引言：从“钢卷少女”现象说起
 
 大家好，我是Anthony，欢迎来到我的频道。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-06-26'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - 《那不勒斯四部曲》
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-n_5Je2wEmA
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - society
 title: 牡蛎给芝加哥带来了海，我给北京带来了一所河南的高中
 ---
-
 ### 一个河南女孩的“非典型”成长叙事
 
 大家好，我是金子。今天我不是以一个人民大学研究生、时尚杂志新媒体负责人或新晋作家的身份站在这里，而是作为一个河南人——一个在北京工作、带着河南高中烙印的普通人。

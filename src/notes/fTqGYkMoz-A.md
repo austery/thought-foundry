@@ -19,10 +19,7 @@ people:
 products_models:
 - Odd Lots podcast
 - S&P 500
-project:
-- investment-strategy
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fTqGYkMoz-A
 speaker: Bloomberg Podcasts
@@ -35,7 +32,6 @@ tags:
 - sovereign-wealth-fund
 title: 阿拉斯加永久基金：美国主权财富基金的独特经验与启示
 ---
-
 ### 阿拉斯加永久基金：独特的美国主权财富基金
 
 **Joe Weisenthal:** 大家好，欢迎收听新一期的“Odd Lots”播客。我是乔·魏森塔尔。

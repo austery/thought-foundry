@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国社会学会
@@ -14,10 +14,7 @@ media_books:
 - 《无能之国》
 - 《三个傻瓜》
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6uQy0ZsDp3U
 speaker: 壽司坦丁 Sociostanding
@@ -31,7 +28,6 @@ tags:
 - system
 title: 印度「家暴中介」现象：低效国家能力与压迫性社会结构下的非预期结盟
 ---
-
 ### 印度「家暴中介」的兴起：粉红帮的案例
 
 这里是寿司坦丁，在这里你可以用最轻松的方式了解国际上最有趣的社会科学研究。在印度北方邦，有一个令人闻风丧胆的帮派组织——**粉红帮**（Pink Gang: 一个由女性创立，也只允许女性加入的印度帮派组织）。这是一个由女性创立，也只允许女性加入的帮派，会众人数大约40万人，跟全台湾的公务员人数差不多。她们身着粉红色制服，标志性武器是手中的长棍。这是一个专门帮助妇女对抗家庭暴力的帮派，在印度，这是一个需求量很高的任务。粉红帮靠的不只是非法的暴力手段，为了达到目的，她们也会贿赂官员，并与有力的政党或其他黑道头人打好关系。一个帮女性对抗家暴的黑道，听起来好像带着反差萌和浪漫感。但社会学者Poulami Roychowdhury透过她的研究告诉我们，在印度，像粉红帮这样的家暴中介并不少。很多时候，这些人并非出于性别平等或保护妇女的理念，而是因为帮助妇女对抗家暴，在这个贫穷依然肆虐的国度，是一个有利可图的产业。印度并没有一种工作真的叫家暴中介，这是她在2021年出版的新书《**无能之国**》（Capable Women, Incapable States）中观察到的一种隐形产业。《无能之国》出版之后，获得不少重要奖项的肯定，包含美国社会学会以及法律与社会学会的年度杰出书籍。

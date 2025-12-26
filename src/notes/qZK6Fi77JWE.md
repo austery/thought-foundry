@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P 500
@@ -75,10 +75,7 @@ people:
 - Jim Chanos
 products_models:
 - Claude
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qZK6Fi77JWE
 speaker: Amit Kukreja
@@ -93,7 +90,6 @@ tags:
 - rate-cut-expectation
 title: 解析市场“丑陋一日”：数据缺失与加息忧虑引发科技股抛售潮
 ---
-
 ### 市场遭遇“丑陋一日”
 
 大家好，欢迎回到新一期的市场收盘分析。今天是11月13日，星期四。今天市场表现非常糟糕，这一点无需讳言。坦率地说，考虑到某些特定板块，尤其是科技板块今天所经历的巨大回撤，这确实是丑陋的一天。对某些股票而言，今天的百分比跌幅甚至比五个月前的“解放日”还要严重，这有点疯狂，因为自那时以来，盈利增长方面已经发生了很多变化。

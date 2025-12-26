@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Meta
@@ -23,10 +23,7 @@ products_models:
 - LLM
 - Llama
 - GPT-5
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EsaUQNx59vA
 speaker: 硅谷101
@@ -42,7 +39,6 @@ tags:
 - strategy
 title: 田渊栋专访：Meta裁员背后的AI路线之思与未来展望
 ---
-
 ### Meta裁员与AI行业大趋势
 
 大家好，欢迎收看硅谷101，我是陈倩。2025年10月22日，Meta首席执行官马克·扎克伯格批准了对公司人工智能部门裁减约600名员工的计划，这是Meta今年在AI领域最大规模的裁员，主要针对被称为超智能实验室的核心研发部门。Meta为何裁员，其AI开源路线如何碰壁，以及空降的新AI负责人Alex Wang将如何重塑Meta的AI策略，这些内容我们在上一期节目中已提及。我们也为此采访了这次裁员风波中的核心人物之一，前FAIR研究总监及AI科学家田渊栋。本次采访不仅限于Meta公司层面，更深入探讨了资深AI科学家们对AI路线和未来前沿研究的思考。本期视频将完整呈现采访内容，特别是关于**大型语言模型**（LLM: Large Language Model）的路线、开源与闭源研究实验室的存在，以及AI人才对研发和工程的选择等话题。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2023-06-30'
@@ -9,10 +9,7 @@ insight: ''
 layout: post.njk
 products_models:
 - stablecoin
-project:
-- china-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QsDSlshyR_M
 speaker: 一口新飯
@@ -25,7 +22,6 @@ tags:
 - us-china-relations
 title: 美元数字化的新路径：稳定币如何助力美国“弯道超车”对抗数字人民币
 ---
-
 ### 数字货币浪潮下的美元策略
 
 全球货币数字化进程正在加速，其中中国的数字人民币似乎已占据先机，不仅有望重塑国内金融结构，更可能挑战美元的国际货币地位。面对这一局面，人们普遍好奇美国何时会推出自己的**央行数字货币**（CBDC: Central Bank Digital Currency，由一国中央银行发行并担保的数字形式的法定货币）。然而，近期的一些新动态揭示了一个出人意料的答案：美国似乎并不急于推出自己的CBDC，反而可能选择一条与中国截然不同的道路——通过**稳定币**（Stablecoin: 一种旨在将其市场价格与某种“稳定”资产（如美元或黄金）挂钩的加密货币）来实现美元的数字化。

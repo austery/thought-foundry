@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - peter-thiel
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y6x_Hw9Oaio
 speaker: 北美王路飞
@@ -22,7 +21,6 @@ tags:
 - silicon-valley
 title: Peter Thiel与勒内·吉拉德：模仿哲学如何重塑硅谷思维与未来
 ---
-
 ### 引言：Peter Thiel的哲学根基
 
 作为**PayPal**（一家全球知名的在线支付服务商）的联合创始人及**Facebook**（全球最大的社交媒体平台之一）的首位外部投资者，**Peter Thiel**（美国著名企业家、风险投资家和作家）以其特立独行的硅谷先锋精神而闻名。然而，令人意想不到的是，他的世界观长期受到一位远离科技圈的法国哲人——**勒内·吉拉德**（René Girard: 法国历史学家、哲学家，以其“模仿欲望理论”闻名）的深刻影响。在一次深入访谈中，Thiel详细阐述了吉拉德复杂的模仿理论如何成为他信念体系的基石，影响了他从投资策略到管理哲学，乃至于对21世纪人类前景的看法。本文将深入分析Thiel的哲学根基，探讨吉拉德理论如何塑造他的思维。

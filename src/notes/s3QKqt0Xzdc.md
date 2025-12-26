@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - Lancet
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s3QKqt0Xzdc
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - ultra-processed-food
 title: 合法不等于安全：毒理专家揭秘日常色素陷阱与健康风险
 ---
-
 ### 日常色素的合法性与潜在风险
 
 黄色的食品色素，例如**黄色4号**（Tartrazine, Yellow No. 4: 一种人工合成的黄色偶氮染料，常用于食品和饮料，可能引起过敏反应和儿童多动症），其实是合法的。在饮料中，只需滴入一两滴，就能呈现出非常明显的黄色。

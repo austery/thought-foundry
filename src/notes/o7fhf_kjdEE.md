@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-03-08'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o7fhf_kjdEE
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - real
 title: 卖掉加拿大房产去马来西亚旅居？Ray回应旅居疑虑与财务规划
 ---
-
 ### 旅居决定的缘由与观众疑问
 
 我离开了加拿大，开始了旅居生活，这一决定引发了许多观众的疑问。大家关心的问题包括：我在加拿大的房产如何处理、旅居期间的收入来源、身份问题、是否会在马来西亚进行投资或购房、是否考虑马来西亚的第二家园政策，甚至还有子女教育、目前的租金与花费、为何不回中国、以及我是否为“标题党”等。本视频将逐一回答这些问题，并在最后分享一些关于旅居的感悟。

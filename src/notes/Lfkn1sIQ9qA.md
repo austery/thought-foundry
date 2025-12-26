@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -16,10 +16,7 @@ people:
 - Hunter Biden
 - 凯恩斯
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Lfkn1sIQ9qA
 speaker: 北美王路飞
@@ -33,7 +30,6 @@ tags:
 - strategy
 title: 芬太尼危机能否构成武装侵略？深度剖析美国干预委内瑞拉的法理困境与日本禁毒经验
 ---
-
 ### 个人插曲：关于“黑名单”的讨论
 
 哎，好，大家好啊，都都能听到是吧？那好好来，那路飞呢，那我把那个什么我我这边PPT，我是从Zoom里发给你哈。对，从Zoom里发给我。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Bloomberg Podcasts
@@ -26,10 +26,7 @@ products_models:
 - Llama
 - Claude
 - Microsoft Word
-project:
-- ai-impact-analysis
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wfxWI0VT6LM
 speaker: Bloomberg Podcasts
@@ -42,7 +39,6 @@ tags:
 - science
 title: AI如何重塑法律行业：效率、经济模式与未来律师技能
 ---
-
 ### AI与法律行业的初探
 
 **Joe:** 大家好，欢迎收听《OddLots播客》的又一期节目。我是Joe Wisenthal。

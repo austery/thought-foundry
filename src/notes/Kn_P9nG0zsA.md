@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Sun Microsystems
@@ -46,8 +46,7 @@ products_models:
 - Kubernetes
 - DDR5
 - PCIe
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Kn_P9nG0zsA
 speaker: The Pragmatic Engineer
@@ -61,7 +60,6 @@ tags:
 - startup-culture
 title: 服务器、云计算与未来：Oxide的硬件软件创新之路
 ---
-
 ### 互联网泡沫与创新驱动
 
 主持人开场提问了关于互联网泡沫时期的情况，以及AI工具如何改变了 **Oxide** 的工作方式。**Brian Caner**，曾是 **Sun Microsystems** 的杰出工程师，亲历了互联网的繁荣与萧条，后来创立了 **Joyent**（**AWS** 的早期竞争者），现在是 **Oxide** 的联合创始人。他指出，在互联网泡沫破裂时期，他们反而完成了更多技术上有趣的工作。他认为，创新在某种程度上需要一定程度的绝望，而在经济繁荣时期，这种绝望感很难被激发。AI工具在 **Oxide** 主要作为“润色工具”使用，而非创造的核心。本期播客将深入探讨服务器和云计算的历史，从1990年代末至今，以及从零开始构建 **Oxide** 计算机等硬件所面临的挑战。此外，还将讨论 **Oxide** 团队如何使用AI，为何他们认为AI在硬件工程挑战中几乎无用，以及 **Oxide** 为何将所有产品开源，以及作为一家硬件初创公司如何实现远程工作等。本期节目由 **Statsig** 赞助，这是一个用于功能标志、分析和实验的统一平台。

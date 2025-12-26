@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - OpenAI
@@ -74,10 +74,7 @@ products_models:
 - Siri
 - Pixel
 - Apple Watch
-project:
-- ai-impact-analysis
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cDtREXA8kO4
 speaker: INDIGO 数字镜像
@@ -91,7 +88,6 @@ tags:
 - technology
 title: AI浪潮下的投资、范式转变与社会未来：一场良性泡沫的深度剖析
 ---
-
 ### AI时代的到来：从工具到工人
 
 本次分享的主题是“智变时代 II”，距离我们上一次探讨已有两年半时间。在这两年里，**AI**（Artificial Intelligence: 人工智能）技术突飞猛进，尤其是在2024年下半年，其**推理**（Inference: 指AI模型根据已有数据和训练结果进行预测或生成新内容的能力）能力显著提升，使得我能够将所有工作都押注于AI。

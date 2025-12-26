@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - 斯坦福大学
@@ -16,10 +16,7 @@ people:
 products_models:
 - DNA双螺旋结构
 - Marble平台
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s2yLdM46jcM
 speaker: Best Partners TV
@@ -33,7 +30,6 @@ tags:
 - world-model
 title: 李飞飞：AI的下一个十年是空间智能，构建世界模型面临三大挑战
 ---
-
 ### 李飞飞：AI的下一个十年是空间智能
 
 11月10日，李飞飞亲自撰文，认为**生成式AI**（Generative AI: 能够生成文本、图像、音频等新内容的AI模型）的下一个战场是**空间智能**（Spatial Intelligence: 理解、推理和操作三维空间信息的能力）。

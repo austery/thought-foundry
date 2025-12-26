@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - CNN
@@ -25,10 +25,7 @@ people:
 products_models:
 - TLT
 - VIX
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xfXC2A0MCEk
 speaker: 投资TALK君
@@ -42,7 +39,6 @@ tags:
 - us-trade-policy
 title: 特朗普团队解读贸易战：关税政策的针对性与市场情绪及经济数据展望
 ---
-
 各位观众大家好，欢迎来到一个不单止聊新闻的专业美股频道，我是市场分选小桃。今天这期内容，首先我们将对过去一周市场的走势进行快速总结，包括当下市场的情绪面、市场参与度以及**CNN恐慌贪婪指数**（CNN Fear & Greed Index: 衡量市场情绪的指标）中的各项指标，以观察市场反弹后情绪面的恢复情况及未来扩展空间。在我录制本期视频时，期货市场出现反弹，我们将探讨这是否与未来关税政策相关的新闻有关，并进行更新。最后，我们将展望本周即将公布的数据，特别是**PCE**（Personal Consumption Expenditures: 个人消费支出物价指数，美联储偏爱的通胀指标），并从市场**波动率**（Volatility: 衡量资产价格变动剧烈程度的指标）指标分析市场在未来一两周内对哪些数据和事件更为敏感，这可能与大家的预期有所不同。废话不多说，我们马上开始今天的内容。
 
 ### 市场回顾与情绪分析

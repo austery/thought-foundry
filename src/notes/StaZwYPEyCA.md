@@ -18,9 +18,7 @@ people:
 - Warren Buffett
 - Donald Trump
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=StaZwYPEyCA
 speaker: Shijun Tang
@@ -33,7 +31,6 @@ tags:
 - theory
 title: 如何寻找复利机器：唐世俊的2个投资框架与16项清单
 ---
-
 ### 寻找复利机器：躺着赚钱的梦想
 
 买入一只股票，每天不用盯着股价看，可以开开心心地享受生活，晚上也能安安心心地睡一个好觉，股价随着时间的推移也会越涨越高，而你则可以妥妥地躺着赚钱。乍一听上去，这似乎是痴人说梦，但是，假如我告诉你这并不是做梦，世界上有不少公司的股票真的可以帮你实现这一梦想呢？这些公司我称它们为**复利机器**（Compound Interest Machine: 能够通过持续的盈利和再投资，使财富像滚雪球一样增长的公司）。你缺乏的仅仅是寻找这些复利机器的方法而已。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中央电视台
@@ -18,9 +18,7 @@ people:
 - 艾晓明
 - 胡锦涛
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Upq4xqhyXUc
 speaker: 柴静 Chai Jing
@@ -34,7 +32,6 @@ tags:
 - social-justice
 title: 高耀洁医生：一位揭露河南艾滋疫情真相的孤独斗士
 ---
-
 ### 悼念高耀洁医生：一位坚守真相的先行者
 
 在我心里有几个一直惦记着想聊的人。我联系的第一个人是**高耀洁**医生。我们俩约好在12月11号连线谈话，就在前一天下午，我正在写给她的问题时，收到了她的传记作者的短信，说高医生去世了。我在我的社交媒体平台发布了这条消息，很多人怀念她。但也有一些人说她是叛徒，他们继续散布关于高耀洁的争议，称中国的**艾滋病**（AIDS: 获得性免疫缺陷综合征，由HIV病毒引起，破坏人体免疫系统）疫情并不那么严重，主要的感染途径是吸毒和性传播。他们还说高耀洁被中国感动，甚至出国领奖，甚至只是为了个人名利而出国。

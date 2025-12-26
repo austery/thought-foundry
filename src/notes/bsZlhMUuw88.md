@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国台办
@@ -40,10 +40,7 @@ people:
 - 侯孝贤
 - 陈水扁
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bsZlhMUuw88
 speaker: 張内咸
@@ -57,7 +54,6 @@ tags:
 - national
 title: 两个故宫，一场三边博弈：日本在两岸关系中的选择与文化影响
 ---
-
 ### 故宫办展引发的国台办怒批与两岸关系
 
 前几天，手机上收到一条新闻，标题写着“故宫博物院赴捷克举办文物展，国台办怒批，嘴脸何其丑陋”。当时看到这个新闻标题时，我懵了一下，没反应过来，故宫跟**国台办**（State Council Taiwan Affairs Office: 中国大陆负责处理与台湾事务的官方机构）有什么关系？仔细一琢磨，哦，对，这说的不是北京的故宫，是台北的故宫。台北的故宫博物院去办展了，所以才把国台办给气成那样。不就办个文物展吗，为什么这也能生气呢？

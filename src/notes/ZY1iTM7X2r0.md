@@ -17,9 +17,8 @@ insight: ''
 draft: true
 series: ''
 category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
+area: "work-career"
+project: []
 people:
   - 李厚辰
   - 贾家老师

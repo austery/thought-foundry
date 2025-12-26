@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -15,10 +15,7 @@ media_books:
 people:
 - Nam Kiwanuka
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sOiddNEj7Zs
 speaker: TVO Today
@@ -32,7 +29,6 @@ tags:
 - psychology
 title: “我想活得像个真正活着的人”：一位女性在医疗系统中的抗争与重生
 ---
-
 ### 内容提示
 
 在我们进入本期节目之前，请注意，我们今天的对话包含了关于癌症诊断与治疗、医疗不当行为、歧视性语言使用以及儿童性虐待的讨论。请谨慎收听。如果您感觉需要支持，我们在节目说明中列出了一些资源。

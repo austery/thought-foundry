@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -13,9 +13,7 @@ products_models:
 - Claude
 - Claude Code
 - MCP
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aqW68Is_Kj4
 speaker: AI Engineer
@@ -31,7 +29,6 @@ tags:
 - skill
 title: Anthropic 揭示 Claude API 如何赋能 AI 智能体系统演进
 ---
-
 ### 欢迎与平台演进
 
 早上好。首先，非常感谢 Swix 和整个 AI Engineer 组织团队将我们聚集在一起。

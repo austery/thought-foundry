@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - ASML
@@ -19,10 +19,7 @@ people:
 - 唐石峻
 products_models:
 - EUV光刻机
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oW7gcMwQZI4
 speaker: Shijun Tang
@@ -36,7 +33,6 @@ tags:
 - risk
 title: ASML、Block 与 Palo Alto Networks：三巨头财报背后的资本逻辑与投资哲学
 ---
-
 ### ASML：光刻机垄断者的护城河与财务韧性
 
 我持有ASML已经190天了。刚建仓时，它的股价是700美元；而最近市场经历了一场可能被载入史册的崩盘日，ASML股价一度跌破600美元，最低跌至578美元——比我的买入价暴跌了17%。但市场给它打了这么大一个折扣，反而成了我加仓的机会。

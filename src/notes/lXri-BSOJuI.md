@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies:
 - tesla-robotaxi
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - fsd
-project:
-- ai-impact-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lXri-BSOJuI
 speaker: 一口新飯
@@ -25,7 +22,6 @@ tags:
 - autonomous-driving
 title: 特斯拉Robotaxi发布会深度解读：投资者视角下的机遇与挑战
 ---
-
 ### 对特斯拉Robotaxi发布会的整体看法
 
 2024年10月10日的特斯拉**Robotaxi**（无人驾驶出租车）发布会，在精心准备之下，呈现了一场精彩的派对，但作为一场产品发布会（presentation），它在细节披露上有所欠缺。许多重要信息需要从现场参与者那里获取，这可能导致屏幕前的观众感到失望。然而，这并不意味着发布会没有亮点或价值。

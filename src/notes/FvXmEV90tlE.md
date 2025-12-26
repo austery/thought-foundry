@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: '[]'
 date: 2025-07-11
@@ -14,10 +14,7 @@ people:
 - 鲁迅
 - 庄子
 products_models: '[]'
-project:
-- personal-growth-lab
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FvXmEV90tlE
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - personal
 title: 你的人生才是头等大事：警惕“国家大事”的话语陷阱，培养阅读的“真切感”并与自己和解
 ---
-
 ### “国家大事”的话语陷阱与个人人生的优先性
 
 各位晚上好，又到周末了。今晚不讲国家大事，讲几句让我有点感触的话。这个博客开播半年，做了75期节目，讲的内容比较杂，国事、家事、天下事多少都有一些。说天说地，说东说西，都是提供一个看人生世事的个人视角，不是独家真理。记得刚开播的时候，有期节目说我们中文世界从小接受的教育很多是**颠三倒四**（指是非、黑白、轻重等完全搞反了）的，不知不觉中塑造了我们**颠倒的三观**（“三观”通常指世界观、人生观、价值观，此处意为被扭曲的认知体系）。中文世界的一些说话习惯、一些习惯用语反映了这种颠倒的三观，比如说“国家大事”这种说法，我们都是习以为常。

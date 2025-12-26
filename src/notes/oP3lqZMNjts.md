@@ -10,8 +10,7 @@ people:
 - 林静芝
 - 李秀全
 products_models: null
-project:
-- cultural-critique
+project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=oP3lqZMNjts
 speaker: ''
@@ -21,7 +20,6 @@ tags:
 - religion
 title: 第三课：吵架十诫
 ---
-
 ## 引言：以学习之心进入新课题
 
 **李秀全：**

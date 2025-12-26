@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 自由党
@@ -33,10 +33,7 @@ people:
 - Volodymyr Zelenskyy
 products_models:
 - USMCA
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I6wf36MUZUw
 speaker: 莊也雜談
@@ -49,7 +46,6 @@ tags:
 - social-issue
 title: 深度解析特鲁多辞职：七宗罪、民意反噬与加拿大政坛未来走向
 ---
-
 ### 特鲁多辞职：事件始末与背景
 
 2025年1月6日上午，加拿大总理特鲁多在渥太华总理官邸前举行新闻发布会，宣布他将辞去自由党党魁及总理职务。他表示，在新的党魁选出之前，他将继续担任总理。特鲁多在讲话中提到，党内近期的动荡，包括多次补选失利以及多位内阁成员的辞职，增加了他辞职的压力。他明确表示：“这个国家应该在下一次选举中拥有真正的选项，而我越来越清楚，如果我必须在党内竞争的话，那我不可能会是该次选举中的最佳选择。”

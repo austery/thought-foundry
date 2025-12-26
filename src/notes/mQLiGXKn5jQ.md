@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - ISIS
@@ -16,10 +16,7 @@ media_books:
 people:
 - 柴静
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mQLiGXKn5jQ
 speaker: 柴静 Chai Jing
@@ -33,7 +30,6 @@ tags:
 - salafism
 title: 圣战分子的崛起：欧洲恐怖主义的深层根源与身份认同危机
 ---
-
 ### 《纸王冠》：欧洲圣战分子的崛起之谜
 
 第一代穆斯林移民一生辛勤工作，只为在欧洲教育下一代。然而，利伯尔的恐怖分子比富人拥有更多的语言和经济优势，但为什么恐怖主义恰恰是被这一代人所煽动？在采访之前，我查阅了大量研究。许多人认为欧洲年轻人激进化的原因是贫困、糟糕的社会前景或种族歧视。但我的采访并未证实这一点。

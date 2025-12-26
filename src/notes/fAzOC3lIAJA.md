@@ -25,10 +25,7 @@ products_models:
 - Bitcoin
 - Solana
 - Ethereum
-project:
-- investment-strategy
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fAzOC3lIAJA
 speaker: 投资TALK君
@@ -41,7 +38,6 @@ tags:
 - market-downturn
 title: 市场恐慌：美股遭遇历史性暴跌，投资人如何应对不确定性？
 ---
-
 ### 市场回顾：历史性下跌与频道历程
 
 我们这个频道开播于2020年11月4日，正好是上上一次大型事件的时间点，所以我永远不会忘记。从开播到现在，每一期视频都已在网上发布。我曾和大家说过，一定会陪着大家穿越牛熊。今天整个市场的下跌，特别是**纳指**（Nasdaq Composite Index: 美国三大股指之一，以科技股为主）的下跌，是自从我频道开播以来，幅度最大的一次。疫情那段时间的下跌我们没有一起走过，但我们频道里不少观众都一起度过了2022年长达10个月的熊市。现在是不是熊市的开启，我觉得不用去谈论，起码市场早就已经进入了调整阶段。

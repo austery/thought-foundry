@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - NBC News
@@ -11,9 +11,7 @@ layout: post.njk
 products_models:
 - SAT
 - Brilliant
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FUHkTs-Ipfg
 speaker: veritasium
@@ -27,7 +25,6 @@ tags:
 - time
 title: SAT史上无人答对的数学题：硬币悖论与时间之谜
 ---
-
 ### 1982年SAT的“送命题”
 
 1982年，一道**SAT**（Scholastic Assessment Test: 学术能力评估测试）数学题让所有考生都答错了。题目如下：

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中央军委
@@ -30,9 +30,7 @@ people:
 - 鲁迅
 - 刘仲敬
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hZR2EGv8RBs
 speaker: 东京人文论坛
@@ -46,7 +44,6 @@ tags:
 - public-opinion
 title: 中国能否孕育出包容性政治？从经济诉求到民间力量的转型路径探讨
 ---
-
 ### 中国社会是否存在包容性的上限？
 
 一个复杂的问题是，中国社会的发展是否存在一个上限？也就是说，其包容性是否已经达到了顶点，无法再进一步提升？或许当前的体制擅长在现有框架内玩弄进退平衡的手段。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -19,10 +19,7 @@ people:
 - Chuck Schumer
 - Joe Biden
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CI1a5_en-8M
 speaker: New York Times Podcasts
@@ -36,7 +33,6 @@ tags:
 - war
 title: 苏丹内战背后的黄金热潮：一场被忽视的人道危机与国际角力
 ---
-
 ### 苏丹冲突：被忽视的人道主义灾难
 
 我们接下来要谈论的，可能是地球上最被忽视的人类苦难故事。

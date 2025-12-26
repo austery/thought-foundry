@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -9,10 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- entrepreneurship
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Mf5EuG0Sm30
 speaker: Norges Bank Investment Management
@@ -26,7 +23,6 @@ tags:
 - market
 title: 乐高CEO访谈：创意、品牌建设与可持续发展
 ---
-
 ### 乐高：激发未来建造者的品牌使命
 
 大家好。今天，我们将探索世界上最受欢迎的品牌之一——**乐高**（LEGO: 一家丹麦玩具公司，以其塑料拼搭积木闻名）的基石。

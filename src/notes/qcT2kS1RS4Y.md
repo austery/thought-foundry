@@ -38,9 +38,7 @@ people:
 - Bob Iger
 - Bill Clinton
 - Alexandria Ocasio-Cortez
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qcT2kS1RS4Y
 speaker: All-In Podcast
@@ -53,7 +51,6 @@ tags:
 - term
 title: 中间派的坚守：乔·曼钦剖析美国政治僵局与未来出路
 ---
-
 ### 访谈开场与新书《死守中庸》
 
 **Jason Calacanis:** 好的，各位，欢迎回到 All-In 播客。今天我们非常高兴地请到了参议员乔·曼钦。查马斯和我将就他的新书《死守中庸：为常识辩护》（Dead Center in Defense of Common Sense）对他进行采访。这本书非常棒。欢迎来到节目，乔·曼钦。我知道你喜欢别人叫你乔。那么，乔，欢迎你。

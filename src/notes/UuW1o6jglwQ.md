@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -14,9 +14,7 @@ media_books:
 people:
 - Adam
 products_models: []
-project:
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UuW1o6jglwQ
 speaker: TVO Today
@@ -30,7 +28,6 @@ tags:
 - urban
 title: 树木如何保护我们免受极端天气影响？
 ---
-
 ### 引入自然解决方案
 
 主持人: 嘿，Adam，你好吗？

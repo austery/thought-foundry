@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Cisco
@@ -43,10 +43,7 @@ people:
 - Brad Gersonner
 - Tom Lee
 - Benjamin Graham
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3Pv0xF8ZS0o
 speaker: Amit Kukreja
@@ -60,7 +57,6 @@ tags:
 - market-rotation
 title: 市场深度解读：白宫暂停发布十月数据，思科财报超预期与市场轮动
 ---
-
 ### 市场概览：指数上涨与个股分化
 
 欢迎回到新一期的“收盘市场”节目。感谢各位的参与。今天是11月12日，星期三。我们即将进入盘后交易时段，有三家公司将公布财报：DLO、思科（Cisco）和 Serve Robotics。我们将会关注这三家公司。如果有人持有这三家公司中任何一家的头寸，请告诉我，我们将在盘后讨论它们。

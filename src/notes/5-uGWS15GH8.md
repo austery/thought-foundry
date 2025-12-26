@@ -16,10 +16,7 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5-uGWS15GH8
 speaker: Bloomberg Podcasts
@@ -32,7 +29,6 @@ tags:
 - wealth-inequality
 title: 瑞·达利欧：历史的五大驱动力及其如何定义我们当前的时代转折点
 ---
-
 ### 播客开场与时代背景的共识
 
 我们正在经历一个非同寻常的变革时代。

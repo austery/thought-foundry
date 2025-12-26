@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - how-i-ai
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PgzOBNse2EA
 speaker: How I AI
@@ -23,7 +22,6 @@ tags:
 - product
 title: AI产品质量提升：评估、错误分析与优化提示的系统性方法
 ---
-
 ### 提升AI产品质量的核心概念
 
 Claire Vo: 要想打造更高质量的AI产品，人们需要了解哪些基本概念？

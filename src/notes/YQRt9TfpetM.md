@@ -12,9 +12,7 @@ media_books:
 - video-game
 products_models:
 - Minecraft
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YQRt9TfpetM
 speaker: TED
@@ -26,7 +24,6 @@ tags:
 - life
 title: 电子游戏如何赋能亲子关系：一位母亲的连接之道
 ---
-
 ### 亲子连接的挑战与新视角
 
 在我开始之前，我想请大家快速举手。这里有多少人有青少年或准青少年子女？好的，太棒了，有很多人。

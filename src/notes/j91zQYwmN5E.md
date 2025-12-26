@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Uber
@@ -24,10 +24,7 @@ people:
 - 唐石峻
 - 巴菲特
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=j91zQYwmN5E
 speaker: Shijun Tang
@@ -41,7 +38,6 @@ tags:
 - technology
 title: Uber、亚马逊与穆迪：平台型企业的盈利转型与护城河分析
 ---
-
 ### Uber的盈利转型：从烧钱巨头到平台赢家
 
 Uber这次财报亮了！对于我来说，它是一家让我心情非常复杂的公司。早几年，我一直把它当成反面教材——典型的“一分钱不赚、靠融资和增发烧钱”的企业。它的财报曾是我最讨厌的类型：营收增长，亏损扩大，毫无盈利希望。

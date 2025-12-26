@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: business
 companies_orgs:
 - YouTube
@@ -15,9 +15,7 @@ media_books:
 - Money or Life 美股频道
 products_models:
 - 401K
-project:
-- personal-growth-lab
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=e4uDYSdEyMk
 speaker: Money or Life 美股频道
@@ -31,7 +29,6 @@ tags:
 - strategy
 title: YouTuber十个月收入揭秘：从兼职到全职，五万订阅的盈利模式与数据分享
 ---
-
 ### 频道里程碑与特别节目预告
 
 大家好，欢迎来到Money or Life美股频道。最近，频道的YouTube订阅数已接近五万，这是一个重要的里程碑，也是大家对内容创作者Ace的认可。借此机会，Ace将录制两期特别节目。第一期节目将分享他从事内容创作十个月以来的最新月收入，并展示YouTube创作的一些数据，希望能对那些好奇或未来想经营YouTube频道的朋友有所帮助。第二期视频将是问答环节，Ace会搜集大家在不同平台留言的问题，并通过一个专门的视频进行回答。这期问答节目将在订阅达到五万后制作，预计在下周发布。

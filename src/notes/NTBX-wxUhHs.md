@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -12,9 +12,7 @@ media_books:
 - Context Engineering blog
 products_models:
 - Codex
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NTBX-wxUhHs
 speaker: AI Engineer
@@ -28,7 +26,6 @@ tags:
 - rate
 title: Weka开源语境平台工程工具包，助力AI智能体消除令牌焦虑
 ---
-
 ### 介绍与工具包开源
 
 **Val Bercovici:** 大家好，我是Weka的首席AI官Val Bercovici。

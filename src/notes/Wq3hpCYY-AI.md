@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P 500
@@ -61,10 +61,7 @@ people:
 products_models:
 - FSD
 - Grok
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Wq3hpCYY-AI
 speaker: Amit Kukreja
@@ -79,7 +76,6 @@ tags:
 - stock-market-valuation
 title: AI叙事下的市场波动：甲骨文与OpenAI新闻如何冲击股市
 ---
-
 ### 市场收盘：AI叙事下的动荡一天
 
 大家好，欢迎回到另一期市场收盘节目。

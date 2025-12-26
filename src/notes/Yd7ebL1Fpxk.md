@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 布鲁金斯学会
@@ -28,10 +28,7 @@ products_models:
 - iPhone
 - CAR-T
 - DUV光刻机
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Yd7ebL1Fpxk
 speaker: FearNation 世界苦茶
@@ -45,7 +42,6 @@ tags:
 - us-china-relations
 title: 中国经济与地缘政治：债务、科技与战略对抗的多维透视
 ---
-
 ### 印尼高铁债务危机：一带一路的挑战与市场逻辑的惩罚
 
 《金融时报》的一篇文章深入分析了由中国支持的印度尼西亚子弹列车项目，指出其因不断增加的债务而面临脱轨风险。这项被誉为中国**一带一路**（Belt and Road Initiative: 中国提出的跨国基础设施建设和投资倡议）倡议和印尼前总统佐科威基础设施建设旗舰项目的**护士高铁**（Whoosh High-Speed Rail: 印度尼西亚的雅万高铁项目，连接雅加达和万隆），正濒临一场严重的财务危机。

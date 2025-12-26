@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - PayPal
@@ -26,10 +26,7 @@ people:
 - 唐石峻
 - 巴菲特
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OEoQmyj9EFc
 speaker: Shijun Tang
@@ -43,7 +40,6 @@ tags:
 - strategy
 title: 清仓PayPal、加仓GE与审视Netflix：三位美股巨头的护城河与投资逻辑
 ---
-
 ### 清仓PayPal：护城河被蚕食的代价
 
 在持有PayPal（贝宝）1194天后，我最终清仓了全部仓位。这并非一时冲动，而是基于对公司护城河持续弱化的深刻判断。

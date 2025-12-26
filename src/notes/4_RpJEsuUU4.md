@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Otis
@@ -18,9 +18,7 @@ people:
 - Adena Friedman
 - Ben Franklin
 products_models: []
-project:
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4_RpJEsuUU4
 speaker: Norges Bank Investment Management
@@ -34,7 +32,6 @@ tags:
 - leadership-principle
 title: 奥的斯CEO Judy Marks访谈：电梯行业的创新、文化与领导力
 ---
-
 ### 奥的斯：连接世界的百年品牌
 
 大家好，我是挪威**主权财富基金**（Sovereign Wealth Fund: 国家拥有的投资基金）的首席执行官Nicolai Tangen。今天，我很荣幸能与奥的斯（**Otis**：全球领先的电梯和自动扶梯制造商及服务提供商）的首席执行官兼总裁Judy Marks女士在一起。奥的斯是一家令人惊叹的公司，作为电梯和升降机制造商，他们每天在全球200个国家运送24亿人次。我认为Judy的领导力是创新和“以人为本”文化的杰出典范。非常欢迎您。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 中山大学
@@ -15,10 +15,7 @@ people:
 - 邓丽君
 - 张国荣
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=z7rCqAiVa1Q
 speaker: 一席YiXi
@@ -32,7 +29,6 @@ tags:
 - rough-beauty
 title: 身体可以粗糙，但是一定要幸福：一位舞者对迪斯科、乡愁与日常之美的重构
 ---
-
 ### 舞蹈不是精英的专利：从学院派到街头的身体觉醒
 
 我叫何其沃，朋友们都叫我二高。我是一名舞者、编舞者，出生在广东阳江——一个海边的小城。小时候成绩很差，但一次偶然的机会，我在放学路上看到文化宫的艺术学校招生广告，就拿了几块钱报名费，考进了艺校。那时我才明白，在舞蹈学校里，男生其实很好进——只要身体没有明显问题就行。

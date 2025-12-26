@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-10'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - new-york-times-podcasts
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ePyVtkvDELI
 speaker: New York Times Podcasts
@@ -25,7 +24,6 @@ tags:
 - travel
 title: 信用卡积分旅行最大化攻略
 ---
-
 ### 节目介绍：用积分实现优惠旅行
 
 Rosie Garin: I'm Rosie Garin and you're listening to the Wire Cutter Show.

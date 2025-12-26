@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - FBI
@@ -38,9 +38,7 @@ people:
 products_models:
 - Obamacare
 - ChatGPT
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1hAK60RkVmk
 speaker: New York Times Podcasts
@@ -54,7 +52,6 @@ tags:
 - social-media-mental-health
 title: 特朗普“报复行动”遇重大挫折，医保成本或飙升，社会文化多面观察
 ---
-
 ### 特朗普“报复行动”遭遇重大挫折
 
 以下是《纽约时报》今日头条新闻的精选内容，涵盖了美国政治、国际关系、社会趋势及文化动态。

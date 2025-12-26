@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: finance
 channel: null
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - Ezra Klein
 products_models: []
-project:
-- us-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -23,7 +22,6 @@ tags:
 title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part
   2) - Dialogue'
 ---
-
 # Why Ezra Klein is So F\*\*\*ing Angry (with Democrats)
 
 ## 嘉宾介绍与节目开场

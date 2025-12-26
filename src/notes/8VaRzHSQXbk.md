@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8VaRzHSQXbk
 speaker: 海淀拙大叔
@@ -23,7 +20,6 @@ tags:
 - inflation-outlook
 title: 中国经济四大周期叠加向上：投资机遇与风险展望
 ---
-
 ### 投资核心：认清经济周期
 
 在投资领域，判断周期至关重要。我们在周期上升时所获得的收益，大部分会在周期下跌时回吐。因此，“一年三倍”如过江之鲫，而“三年一倍”则寥若星辰。这凸显了认清周期的重要性。

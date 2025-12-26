@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Brilliant
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - Elliot
 products_models: []
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=daaDuC1kbds
 speaker: veritasium
@@ -26,7 +25,6 @@ tags:
 - work
 title: 世界最高跳跃机器人：工程奇迹与未来探索
 ---
-
 ### 世界纪录：跳跃机器人的非凡成就
 
 这个微型机器人重量不足一个网球，却能跳得比世界上任何东西都高。

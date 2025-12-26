@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Meta
@@ -18,9 +18,7 @@ products_models:
 - DeepSeek
 - Claude
 - Colossus
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Bl-vPf_IAoA
 speaker: TED
@@ -34,7 +32,6 @@ tags:
 - model
 title: AI发展误区：如何构建可持续且赋能人类的未来AI
 ---
-
 ### AI的承诺与现实：我们正在犯的错误
 
 AI曾被承诺将彻底改变人类的未来，它能彻底改变科学、大幅提升生产力，甚至解决气候变化问题。

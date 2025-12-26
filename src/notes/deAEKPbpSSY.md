@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-13'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=deAEKPbpSSY
 speaker: TED
@@ -23,7 +22,6 @@ tags:
 - resilience
 title: 气候变化会让你的家园无法投保吗？
 ---
-
 ### 保险：现代经济的润滑剂
 
 When I first joined the insurance industry, I realized that telling people about it was the fastest way for them to lose interest.

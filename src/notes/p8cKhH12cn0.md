@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - The New York Times
@@ -25,10 +25,7 @@ people:
 - George W. Bush
 - Kamala Harris
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p8cKhH12cn0
 speaker: New York Times Podcasts
@@ -41,7 +38,6 @@ tags:
 - strategy
 title: 特朗普时代首次选举考验：民主党大胜及其未来路线之争
 ---
-
 ### 引言：民主党在关键选举中获胜
 
 《纽约时报》的娜塔莉·基特鲁夫为您播报，这里是《每日》节目。接下来关注选举之夜，这些关键的竞选标志着特朗普总统第二任期的首次选举考验。我们现在可以做出一个重大预测。在弗吉尼亚州，民主党人**阿比盖尔·斯潘伯格**（Abigail Spanberger: 一位温和派女性政治家，曾任**美国中央情报局**（CIA: Central Intelligence Agency: 美国联邦政府主要情报机构之一）官员）将成为首位女州长。**迈基·谢里尔**（Mikey Sherrill: 一位温和派女性政治家，曾任海军飞行员和联邦检察官）将成为新泽西州下一任州长，击败了杰克·切雷利。**美国有线电视新闻网**（CNN: Cable News Network: 美国一家全球性新闻频道）预测，**民主社会主义者**（Democratic Socialist: 一种政治意识形态，主张通过民主手段实现社会主义目标，通常强调社会福利和经济平等）佐兰·姆达尼（Zoran Mdani），这位民主党候选人，将当选纽约市下一任市长。

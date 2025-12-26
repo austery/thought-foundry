@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-05-31'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - The Last Economy
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RlJMqtIALec
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - technology
 title: 松本哉：在东京高円寺，用荒诞对抗冷漠的世界
 ---
-
 ### 在东京高円寺，用荒诞构建自由的社区
 
 我叫松本哉。今天在日本东京的高円寺，我经营着三家小店：一家回收店、一家居酒屋和一家青年旅舍。它们都不赚钱，甚至可以说是“很傻”。但我做这些事，并非为了盈利——而是想创造一个能让人们自由相遇、嬉闹和交流的空间。在这样一个越来越冷漠、规训森严的世界里，我们选择用荒诞来抵抗。

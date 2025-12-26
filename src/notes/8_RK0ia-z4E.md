@@ -15,9 +15,7 @@ layout: post.njk
 media_books:
 - Odd Lots
 - Lots More
-project:
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8_RK0ia-z4E
 speaker: Bloomberg Podcasts
@@ -30,7 +28,6 @@ tags:
 - stablecoin
 title: 美联储利率目标与货币政策机制的演变
 ---
-
 ### 美联储利率目标的复杂性
 
 我们一直对听众和观众说，美联储正在加息或降息，但这实际上是一个由多种利率构成的整体，我们从未真正明确指的是哪一种利率。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -24,10 +24,7 @@ products_models:
 - A3语言模型
 - Azure云计算
 - Kubernetes
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9e0KQ4MwIBg
 speaker: Shijun Tang
@@ -41,7 +38,6 @@ tags:
 - share-repurchase
 title: 英伟达增速放缓、微软稳如泰山与Visa的隐形王者：AI时代下的投资逻辑重构
 ---
-
 ### 英伟达的增速放缓：算力神话的破灭与市场认知重构
 
 最新财报显示，英伟达的盈利能力正在放缓，股价在两个月内暴跌30%。许多投资人开始质疑：英伟达究竟还有戏吗？这不仅是市场当下的普遍困惑，也是我们亟需深入分析的问题。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -19,10 +19,7 @@ people:
 - Lee Kuan Yew
 products_models:
 - ChatGPT
-project:
-- investment-strategy
-- geopolitics-watch
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dsi84KyiP6Y
 speaker: Norges Bank Investment Management
@@ -36,7 +33,6 @@ tags:
 - sovereign-wealth-fund
 title: 淡马锡CEO深度访谈：投资策略、地缘政治与新加坡的成功之道
 ---
-
 ### 淡马锡：新加坡的投资控股公司
 
 **Nicolai:** 大家好。

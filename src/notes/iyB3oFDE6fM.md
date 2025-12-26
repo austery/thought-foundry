@@ -17,9 +17,7 @@ media_books:
 people:
 - 沃伦·巴菲特
 products_models: []
-project:
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iyB3oFDE6fM
 speaker: 美投讲美股
@@ -33,7 +31,6 @@ tags:
 - stock
 title: 彼得·林奇的投资智慧：散户如何战胜华尔街？
 ---
-
 ### 散户能否战胜华尔街？彼得·林奇的肯定回答
 
 大家好，我是美投君。**散户**（Individual Investors: 指非专业机构，以个人名义进行股票买卖的投资者）真的可以击败华尔街吗？答案是绝对可以，而且这并非小概率事件。只要掌握一套方法，人人都能战胜华尔街。这并非我个人观点，而是**富达基金**（Fidelity Investments: 美国一家大型的金融服务公司）有史以来最著名的基金经理，被誉为**股圣**（Stock Saint: 对投资大师的尊称）的彼得·林奇所言。

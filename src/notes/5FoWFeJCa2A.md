@@ -1,10 +1,9 @@
 ---
 title: AI物理学家：ChatGPT联合创始人的新探索——通过实验加速科学发现
 summary: 前OpenAI/DeepMind科学家创立Periodic Labs，旨在通过将LLM与物理实验紧密结合，构建“AI物理学家”，加速材料科学、化学等领域的研发，挑战传统AI模型的扩展局限。
-area: tech-insights
+area: "tech-engineering"
 category: technology
-project:
-- ai-impact-analysis
+project: []
 tags:
 - physical-rd
 - reinforcement-learning
@@ -23,7 +22,6 @@ series: null
 source: http://www.youtube.com/watch?v=5FoWFeJCa2A
 status: evergreen
 ---
-
 ## 摘要与核心洞察：AI物理学家的诞生
 
 Ultimately, science is driven by experiments in the real world. That is what we are doing with Periodic Labs.

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - sac-capital
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - steven-cohen
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oV-zhN8teMo
 speaker: 北美王路飞
@@ -24,7 +23,6 @@ tags:
 - whistleblower
 title: SAC帝国风暴：复仇者集结与内幕交易网络的浮现
 ---
-
 ### 引言：帝国的内外危机
 
 大家好，欢迎来到我的频道。今天我们将继续讲述史蒂文·科恩的故事。在上一期节目中，我们回顾了史蒂文·科恩的前传与**SAC资本**（SAC Capital: 史蒂文·科恩创立的对冲基金，以其激进的交易策略和对信息的高度渴求而闻名）的创业史。我们看到一个出身平平、心中怀揣怨恨的少年，如何凭着野兽般的交易直觉和不惜一切代价的狠劲，在华尔街的丛林中杀出一条血路，最终建立了价值百亿美金的金融帝国。

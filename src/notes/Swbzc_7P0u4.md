@@ -30,10 +30,7 @@ people:
 - 唐石峻
 - 巴菲特
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Swbzc_7P0u4
 speaker: Shijun Tang
@@ -46,7 +43,6 @@ tags:
 - llm
 title: 什么公司值得你投资？——唐石峻谈价值投资的七大核心原则
 ---
-
 ### 投资的本质：只有上市公司才值得长期持有
 
 在投资领域，唐石峻明确指出，真正值得投资的资产只有两类：房产和股票。但房产投资门槛高、回报难预测，不适合大多数人。相比之下，上市公司股票才是普通人更可行的选择——因为当你买入一家上市公司的股票时，你实质上成为了这家企业的股东，公司从管理层到基层员工都在为你创造价值。更重要的是，这些公司已经通过了资本市场的严格筛选，具备基本的财务健康度和运营能力。

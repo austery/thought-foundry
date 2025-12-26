@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - KiwiCo
@@ -26,7 +26,6 @@ title: 宇宙中缺失的一半物质：重子搜寻之旅
 companies:
 - warm-hot-intergalactic-medium
 ---
-
 ### 宇宙中缺失的一半物质
 
 直到最近，宇宙中仍有大约一半的物质处于缺失、隐藏或未被探测到的状态。

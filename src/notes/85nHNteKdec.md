@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Wire Cutter
@@ -16,9 +16,7 @@ media_books:
 people:
 - Kyra Blackwell
 - Rosie Garin
-project:
-- personal-systems
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=85nHNteKdec
 speaker: New York Times Podcasts
@@ -29,7 +27,6 @@ tags:
 - social-dynamic
 title: 游戏之夜生存指南：如何轻松教学并让所有人尽兴
 ---
-
 ### 游戏之夜的开场白与恐惧
 
 有篇《洋葱新闻》（The Onion，一个著名的讽刺新闻网站）的标题写得很好，它描述了“桌游规则解释，并夹杂着‘这会很有趣’的再三保证”。我一直活在那个标题之下，担心我总是在重复这个过程。

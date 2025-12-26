@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-13'
@@ -24,7 +24,6 @@ tags:
 - trade-war
 title: 肯塔基州：美国贸易战前线与电动汽车转型挑战
 ---
-
 ### 肯塔基州：贸易战的意外前线
 
 Bloomberg白宫记者乔什·温德罗夫几周前前往肯塔基州首府，与州长安迪·贝希尔进行了会面。

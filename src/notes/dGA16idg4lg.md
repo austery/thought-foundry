@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - intellectual-persecution
@@ -38,9 +38,7 @@ people:
 - 宋教仁
 - 黄兴
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dGA16idg4lg
 speaker: 柴静 Chai Jing
@@ -53,7 +51,6 @@ tags:
 - psychology
 title: 李南央对话柴静：父亲李锐的笔记如何打破我的“毛泽东神话”
 ---
-
 ### 人都要受四种限制，马恩列斯毛也不例外
 
 六年前，曾担任毛泽东秘书的李锐先生在北京去世。1958年，李锐因反对三峡工程上马，被毛泽东指定为自己的秘书。然而仅一年半后，由于反对**大跃进**（Great Leap Forward: 1958年至1961年在中国发起的一场旨在快速实现工业化和农业集体化的政治运动，最终导致了大规模饥荒），他被认定为“彭德怀反党集团”成员，此后二十年，过着流放的生活。直到生命尽头，李锐始终坚持自己的政治信仰，积极鼓吹**宪政**（Constitutionalism: 一种主张国家权力依据宪法受到限制、公民权利得到保障的政治理念）。

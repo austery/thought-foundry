@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -10,8 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eCA8qZBscFU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -23,7 +22,6 @@ title: 揭秘“偷肥族”：脂肪肝如何引发全身炎症？三招教你�
 companies:
 - metabolic-syndrome
 ---
-
 ### 警惕“偷肥族”：脂肪肝的隐形危机
 
 所谓的**偷肥族**（TOFI: Thin-Outside-Fat-Inside，外瘦内胖）其实都可能患有脂肪肝。如果你以为自己没有喝酒，或者身材不胖就没有问题，那一定要看到最后。接下来，我们将揭示三个简单的方法，帮助你的肝脏恢复健康，远离发炎的危机。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - jpmorgan-chase
@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=o3X-qDa08I8
 speaker: 北美王路飞
@@ -22,7 +21,6 @@ tags:
 - startup
 title: 1.75亿美元的“巨大错误”：摩根大通如何被“空气公司”欺骗
 ---
-
 ### 华尔街新星的陨落
 
 2025年9月29日，纽约联邦法庭上，一位曾登上福布斯精英榜，被誉为改变美国大学生财务未来的天才女生查理·贾维斯声泪俱下。28岁时，她将自己的公司以1.75亿美元的天价卖给了华尔街巨头**摩根大通**（JPMorgan Chase: 一家全球领先的金融服务公司，也是美国最大的银行之一），一跃成为亿万富翁和银行的董事总经理。然而仅仅四年后，她不仅被曾经的买家告上法庭，还面临着美国司法部和证监会的双重刑事指控。最终，法官宣判她联邦监禁85个月，即超过七年时间，同时命令她赔偿2.87亿美元的巨款。

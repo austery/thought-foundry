@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -55,10 +55,7 @@ products_models:
 - Android
 - Apple II
 - DOS
-project:
-- ai-impact-analysis
-- market-cycles
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RH9vJNxFKDA
 speaker: a16z
@@ -72,7 +69,6 @@ tags:
 - platform
 title: 人工智能会比互联网更伟大吗？平台转移与市场变革的深度探讨
 ---
-
 ### 人工智能的普及与定义
 
 **ChatGPT**（Chat Generative Pre-trained Transformer: 一种大型语言模型）拥有八到九亿的每周活跃用户。如果你是那种每天使用它数小时的人，请问自己：为什么有五倍多的人看过它、了解它、知道它是什么、拥有账户、知道如何使用它，但本周或下周却想不出任何可以用它做的事情？

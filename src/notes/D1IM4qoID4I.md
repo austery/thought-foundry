@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-12-06'
@@ -11,10 +11,7 @@ media_books:
 - 《一个无政府主义者的意外死亡》
 - Accidental Death of an Anarchist
 products_models: []
-project:
-- systems-thinking
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D1IM4qoID4I
 speaker: 安争鸣（Stella An）
@@ -29,7 +26,6 @@ tags:
 - public-trust
 title: 警察的职责与国家权力：解读《一个无政府主义者的意外死亡》
 ---
-
 ### 警察形象的社会变迁
 
 欢迎回到读书时间。不知道正在看我节目的朋友里有没有从事警察职业的。我猜至少网警应该是有的吧。我认识的朋友里面也有不少干警察的，其中有一个小伙子特别有意思。他老家是山东一个县城的，我感觉他有点厌女，但是他又特别想找女朋友，所以前几年到处发动亲友帮他介绍对象。不料他在相亲这条路上是屡屡受挫，基本上就是他喜欢的女生看不上他，看得上他的女生他又不喜欢。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - YouTube
@@ -14,10 +14,7 @@ people:
 products_models:
 - COVID抗原试剂
 - ChatGPT
-project:
-- geopolitics-watch
-- fire-movement
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=op6SYDuIfNY
 speaker: 莊也雜談
@@ -31,7 +28,6 @@ tags:
 - strategy
 title: 新年伊始：我的新冠感染与康复经历及频道未来展望
 ---
-
 ### 新年问候与新冠感染经历
 
 大家好，我是庄也，欢迎您收看庄也杂谈。2025年的元旦刚刚过去，虽说有些晚了，但在这里我还是先祝愿咱们杂谈频道的广大听众朋友们2025年新年快乐，Happy New Year！祝愿大家在新的一年里面财源广进、大吉大利、身体健康、吃嘛嘛香。

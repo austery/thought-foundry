@@ -30,9 +30,7 @@ products_models:
 - ChatGPT
 - YouTube
 - Bitget钱包虚拟卡
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=joKKDcPORHw
 speaker: Nico投资有道
@@ -45,7 +43,6 @@ tags:
 - network-effect
 title: Circle第三季度财报深度解析：营收超预期股价却暴跌，投资价值何在？
 ---
-
 ### 引言：Circle财报与市场反应
 
 Circle第三季度财报发布后，营收数据全面超出市场预期，但盘中股价却大幅暴跌。这背后的原因究竟是什么？目前Circle的股价是否已经出现了“黄金坑”，到了抄底买入的最佳时机？在今天的文章中，我们将从Circle的基本面数据、具体业务进展、管理层预期指引、Q&A问答环节等多个角度，全面解读Circle第三季度的财报。这次财报会议中，给出了非常多有价值的信息，尤其是最后的Q&A环节，如果你准备投资或者正在投资Circle这家公司，一定要完整看完。

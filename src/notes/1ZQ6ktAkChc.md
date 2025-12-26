@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times Podcasts
@@ -15,10 +15,7 @@ media_books:
 - Modern Love
 people:
 - Anna Martin
-project:
-- china-analysis
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1ZQ6ktAkChc
 speaker: New York Times Podcasts
@@ -32,7 +29,6 @@ tags:
 - relationship-dynamic
 title: 中国“小三劝退师”：一段关于爱、背叛与自我价值的旅程
 ---
-
 ### 播客预告：金钱与亲密关系
 
 主持人安娜·马丁：大家好，我是安娜。在我们节目开始之前，我想问大家一个问题，如果听起来有点直接，请不要介意。

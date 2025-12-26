@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 世界银行
@@ -15,9 +15,7 @@ media_books:
 people:
 - 柏拉图
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GTaPvZnScGg
 speaker: 安争鸣（Stella An）
@@ -30,7 +28,6 @@ tags:
 - value
 title: 文化有优劣之分吗？价值观如何影响民主社会的形成
 ---
-
 ### 文化是否有优劣之分？
 
 哈喽大家好，我是安争鸣，欢迎回到读书时间。今天这期节目开始之前呀，我想先问大家一个问题，就是你们觉得文化有优劣之分吗？我们是应该承认一种文化比另一种文化更好，还是应该尊重每一种文化呢？如果文化有优劣之分的话，哪里是文明高地，哪里又是文明洼地呢？我知道这个问题听起来非常的政治不正确，甚至可能在一些人看来，仅仅是思考它就已经包含了歧视意味了。但是假如我把这个问题放到一个具体的层面呢，就比如哪些文化有利于民主社会的形成，哪些文化会阻碍民主社会的形成呢？

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Alibaba
@@ -22,10 +22,7 @@ people:
 - 蔡崇信
 products_models:
 - ARC芯片
-project:
-- us-analysis
-- market-cycles
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SvWcwKuSuyU
 speaker: Shijun Tang
@@ -38,7 +35,6 @@ tags:
 - technology
 title: 阿里财报暴雷与Intel困境：中国消费复苏与主题娱乐的意外启示
 ---
-
 ### 阿里财报与Intel困局：基本面的真相
 
 阿里云时代即将到来了——这句话在最近的财报季显得格外刺耳。我持有阿里巴巴股票已有1145天，期间涨幅达60%，年化回报率约为19.12%。但最新季度财报的“暴雷”让这一切蒙上阴影：财报发布当日，股价跳空下跌8%。媒体一片哗然，“阿里AI无望”、“云业务利润惨淡”、“新业务是资本黑洞”、“阿里巴巴要破产了”等论调席卷全网。

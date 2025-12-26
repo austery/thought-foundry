@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -102,10 +102,7 @@ products_models:
 - Trainium
 - Copilot
 - GLP-1
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ceoAOugf7zA
 speaker: Amit Kukreja
@@ -119,7 +116,6 @@ tags:
 - rate-cut-expectation
 title: 年度最差逆转：加密市场“软件故障”如何引发美股闪崩？
 ---
-
 ### 年度最惨烈的市场逆转
 好的，大家好，欢迎回到新一期的市场收盘节目。我们有很多内容要讨论。这是过去一年里，我们在全球资本股票市场见过的最糟糕的日子之一，或者说，是最糟糕的逆转之一。标普500指数下跌了1.39%。而在早上，标普500指数还上涨了2%。所以，你看到的是接近3.5%的日内逆转。我的意思是，这太难看了，非常非常难看。
 

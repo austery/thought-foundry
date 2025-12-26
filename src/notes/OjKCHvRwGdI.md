@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Polymarket
@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - 《直视骄阳：如何面对死亡焦虑》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OjKCHvRwGdI
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - perception
 title: 我突然不用踩点打卡了：一个癌症患者的七年人生重构与时间革命
 ---
-
 ### 时间的对折：当癌症打断了“高效人生”
 
 我曾经是一个把时间当作资产的人。  

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Microsoft
@@ -50,10 +50,7 @@ products_models:
 - CUDA
 - Vera Rubin
 - ChatGPT
-project:
-- ai-impact-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cWFjz9JxmEU
 speaker: Amit Kukreja
@@ -67,7 +64,6 @@ tags:
 - policy
 title: 微软AI假新闻引发市场震荡，黄仁勋做客乔·罗根，宏观数据预示降息，特朗普政府聚焦机器人
 ---
-
 ### 微软AI假新闻引发市场震荡
 
 大家好，欢迎回到我们的频道。我们又回到了每日回顾节目。今天有很多事情要谈。首先，今天早上，如果你和我一起关注了开盘市场，就会看到一个相当疯狂的头条新闻。

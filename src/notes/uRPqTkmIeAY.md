@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - indigo
@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uRPqTkmIeAY
 speaker: INDIGO 数字镜像
@@ -25,7 +24,6 @@ tags:
 - technology
 title: 加速计算时代：INDIGO 2025年10月直播回顾与未来洞察
 ---
-
 ### 开篇与近期动态回顾
 
 欢迎回到INDIGO的月末直播，这是2025年10月。回顾过去，7月份的直播是在线下进行的。近期回国，后面会分享一些回国的感受和体验。当时我发布了一篇关于回国感受的帖子，还挺受欢迎，被很多社群转载，毕竟我已经有五年没回去了。

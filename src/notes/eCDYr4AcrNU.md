@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -19,9 +19,7 @@ people:
 - James Gorman
 - Jane Fraser
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eCDYr4AcrNU
 speaker: Norges Bank Investment Management
@@ -35,7 +33,6 @@ tags:
 - risk-taking
 title: 错误并非问题，对失败的恐惧才是症结
 ---
-
 ### 拥抱错误：从挪威石油基金的教训说起
 
 在座的各位，最近有没有人犯过错误？请举手。是的，我想到了。这里没有那么多完美无缺的人。

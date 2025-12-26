@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - New York Times
@@ -22,10 +22,7 @@ people:
 - George W. Bush
 - Zoran Mandani
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wj-I4o--NWM
 speaker: New York Times Podcasts
@@ -40,7 +37,6 @@ tags:
 - snap-benefit
 title: 美国社会热点：食品券风波、气候外交与马斯克巨额薪酬
 ---
-
 ### 美国食品券计划面临政治与法律挑战
 
 来自《纽约时报》的头条新闻，我是威尔·贾维斯，代班特蕾西·芒福德。今天是11月7日星期五，以下是我们正在报道的内容。

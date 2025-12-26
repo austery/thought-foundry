@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - YouTube
@@ -22,10 +22,7 @@ people:
 - 李厚辰
 products_models:
 - ChatGPT
-project:
-- china-analysis
-- geopolitics-watch
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Vhd7xnKPXKk
 speaker: 东京人文论坛
@@ -42,7 +39,6 @@ tags:
 - self
 title: 海外自媒体的挑战与机遇：内容选择、平台算法与公民社会链接
 ---
-
 ### 引言：自媒体与海外公民社会
 
 今天下午我们继续讨论互联网对海外**公民社会**（Civil Society: 介于国家、市场和家庭之间，由公民自愿结成的各类非政府、非营利性组织和活动所构成的社会领域）的作用，主要聚焦于大家做**自媒体**（Self-media: 个人或组织通过互联网平台自主发布信息、表达观点、进行内容创作的媒体形式）的可能性。在座的很多人可能都听说过“三个水上手”这个频道，这本身就体现了自媒体的作用。我相信很多人对“五雷”的印象也可能更多是通过节目建立起来的。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - TVO Today
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - The Rundown
-project:
-- historical-insights
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n7dxrqy-RlY
 speaker: TVO Today
@@ -26,7 +24,6 @@ tags:
 - society
 title: 加拿大女子职业足球联赛：从零开始的成功与未来展望
 ---
-
 ### 加拿大女子足球联赛首季告捷
 
 非常感谢您加入我们。恭喜您迎来了第一个赛季。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国民党
@@ -41,10 +41,7 @@ people:
 - 张学良
 - 冯玉祥
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=75cWnLorLQo
 speaker: ZetaBook
@@ -58,7 +55,6 @@ tags:
 - theory
 title: 国民党内战失败的深层原因：蒋介石的“高塔”与派系“广场”的对抗（上）
 ---
-
 ### 引言：历史解释的两种视角——“伟人”与“结构”
 
 中国大陆对于国民党打输内战的原因，常见的一个解释是：国民党军事上无能，经济上贪污。但是，如果再追问一句，为什么国民党不会打仗？为什么国民党贪污腐败呢？这个时候，大陆观众又会说了：因为蒋介石乱指挥啊，因为蒋宋孔陈四大家族贪婪无度啊。到这里，我们似乎可以得出一个结论：国民党运气不好，赶上了无能的领导人。共产党为什么能打赢内战？因为天降伟人毛泽东呗。这样，国共内战就被简化成了通俗易懂的武将单挑——蒋介石对阵毛泽东。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -17,10 +17,7 @@ media_books:
 - A Curious Mind
 people:
 - Nicolai Tangen
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_mL9yLKKtmY
 speaker: Norges Bank Investment Management
@@ -34,7 +31,6 @@ tags:
 - us-economy
 title: 美国银行CEO Brian Moynihan谈全球经济、AI与银行未来
 ---
-
 ### 引言
 
 大家好，我是挪威主权财富基金（Norges Bank Investment Management）的CEO Nicolai Tangen，今天我非常高兴能邀请到Brian Moynihan。Brian是美国银行（Bank of America）的董事长兼CEO，美国银行是全球最大的金融机构之一，我们持有该公司1.5%的股份。Brian已经领导美国银行15年，带领它走出了金融危机（Financial Crisis）的阴影，并将其转型为一家数字强企。Brian，很高兴您能来。很高兴来到这里，感谢您对我们公司的支持，期待今天与您进行一次愉快的交流。

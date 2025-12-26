@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Beyond Meat
@@ -21,10 +21,7 @@ people:
 - Leonardo DiCaprio
 - Vinod Khosla
 - Robert F. Kennedy Jr.
-project:
-- investment-strategy
-- market-cycles
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2TV2jMaIcak
 speaker: 硅谷101
@@ -38,7 +35,6 @@ tags:
 - ultra-processed-food
 title: 人造肉千亿赛道崩塌：资本幻想、精英主义泡沫与市场现实的碰撞
 ---
-
 ### 人造肉：从资本宠儿到市场弃儿
 
 2019年，**人造肉**（泛指概念，主要分为**植物基植物肉**和**实验培植培育肉**）公司Beyond Meat在纽约上市，一时间成为资本的宠儿，高呼要替代所有肉类，彻底颠覆人类的饮食习惯。然而，仅仅六年之后，这家公司和它的竞争对手们却濒临破产，沦为散户炒作的玩具。这场千亿美元的财富造梦故事，如今已是泡沫破裂。

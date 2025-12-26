@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=08mH36_NVos
 speaker: AI Engineer
@@ -25,7 +23,6 @@ tags:
 - strategy
 title: 贝莱德如何大规模构建定制化AI知识应用
 ---
-
 ### 贝莱德的AI应用规模化之路
 
 大家好，感谢邀请我们。

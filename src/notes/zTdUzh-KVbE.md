@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-26'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zTdUzh-KVbE
 speaker: Best Partners TV
@@ -24,7 +21,6 @@ tags:
 - technology
 title: DeepSeek V3.1与国产芯片：UE8M0 FP8技术深度解析及其行业影响
 ---
-
 ### 引言：DeepSeek V3.1引爆国产算力芯片热潮
 
 近期，国产算力芯片领域因一个词汇——**UE8M0 FP8**而备受关注。这股热潮源于DeepSeek在8月21日发布的**V3.1版本模型**（DeepSeek发布的最新大语言模型版本），其最大的亮点在于模型训练采用了UE8M0 FP8 Scale的参数精度。DeepSeek特别提到，UE8M0 FP8是“针对即将发布的下一代国产芯片设计”的。正是这句话，迅速引起了资本市场的强烈反应，A股和港股中的“国产芯片、FP8概念股”短线大涨。本文将深入探讨UE8M0 FP8背后的技术逻辑、其能否成为国产芯片突围的关键，以及它对行业可能产生的影响。

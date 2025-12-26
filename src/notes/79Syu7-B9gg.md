@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 初日診所
@@ -11,8 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=79Syu7-B9gg
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -26,7 +25,6 @@ tags:
 - society
 title: 摄影与正念：用镜头捕捉当下，提升心理健康
 ---
-
 ### 摄影：一种非正式的正念练习
 
 只要简单的一支智能手机搭配摄影活动，就能对**正念**（Mindfulness: 一种系统性的训练方法，旨在帮助我们将注意力从过去和未来的思绪中抽离，回到当下正在发生的体验）有更深刻的认识。摄影正是一种非正式的正念练习。接下来，我将和大家分享几张我在录影前拍摄的照片，藉由这些照片的分享，让大家了解我在说什么。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Huawei
@@ -32,11 +32,7 @@ people:
 - Karl Popper
 products_models:
 - 东风导弹
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NQ6Ctfs2QTw
 speaker: 張内咸
@@ -53,7 +49,6 @@ tags:
 - us-china-relations
 title: 从贸易战到诺奖：中国科研投入与国家战略的深层思考
 ---
-
 ### 中美贸易战：雷声大雨点小？
 
 过去一周，许多人，尤其是炒股的人，心情又经历了一次过山车。大部分人曾以为中美**贸易战**（Trade War: 指国家之间通过提高关税、设置贸易壁垒等手段进行的经济冲突）快要结束了，因为双方嘴炮打了半年，搞得所有人都精疲力尽。其实中国和美国现在社会问题都很严重，都在打肿脸充胖子，坚持得非常勉强。所以，无论什么政策，注定都是雷声大雨点小，因为日子还得过，生意还得做。然而，一觉醒来，中美之间又开始没完没了地闹。一边又要限制**稀土**（Rare Earth Elements: 一组在地壳中含量稀少、具有独特物理化学性质的金属元素，广泛应用于高科技产业）出口，一边又要加征关税。闹也就算了，怎么又原样不动地回到了半年前？那这半年当中到底都谈了些什么？哪怕换点新姿势呢，我们都看腻了。

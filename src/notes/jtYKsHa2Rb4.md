@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Google
@@ -16,9 +16,7 @@ media_books:
 - The Bonfire Moment
 products_models:
 - Google Maps
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jtYKsHa2Rb4
 speaker: Big Think
@@ -32,7 +30,6 @@ tags:
 - performance
 title: AI在职场中的三大挑战：谷歌专家揭示的“选择性升级”、“自主偏好”与“自给自足螺旋”难题
 ---
-
 ### AI在职场中的三大挑战
 
 我是Martin Gonzalez，谷歌（Google: 全球知名的互联网科技公司）的组织与领导力发展负责人，也是**《篝火时刻》**（The Bonfire Moment: 一本探讨团队协作与创新的书籍）的作者。

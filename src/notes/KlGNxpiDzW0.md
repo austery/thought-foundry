@@ -16,10 +16,7 @@ media_books:
 people:
 - Powell
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KlGNxpiDzW0
 speaker: Joseph Wang
@@ -32,7 +29,6 @@ tags:
 - market
 title: 美联储的困境：政策分歧、经济脱节与财政赤字的绑架
 ---
-
 ### 美联储与实体经济的脱节
 
 **Charles Payne:** 他们已经达成了目标。我想请 monetarymacro.com 的首席投资官约瑟夫·王来谈谈。乔，在我看来，问题的核心似乎是**美联储**（Federal Reserve: 美国联邦储备系统）从未为**实体经济**（Main Street: 普通民众和中小企业）而建立。他们确实谈论实体经济，但我认为，只要富人和有权势的人表现出色，**华尔街**（Wall Street: 金融市场）也表现良好，美联储就觉得没问题。

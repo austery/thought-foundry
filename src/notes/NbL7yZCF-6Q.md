@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -39,10 +39,7 @@ products_models:
 - Hyperloop
 - A100
 - TPUs
-project:
-- ai-impact-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NbL7yZCF-6Q
 speaker: Patrick Boyle
@@ -56,7 +53,6 @@ tags:
 - market-bubble
 title: AI产业的循环融资：是繁荣还是泡沫？
 ---
-
 ### AI产业的循环融资模式
 
 处于**AI**（Artificial Intelligence: 人工智能）热潮中心的各大公司正忙于相互投资数十亿美元。

@@ -32,8 +32,7 @@ products_models:
 - Claude
 - Substack
 - TikTok
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XLaRfZ4AHn8
 speaker: Dwarkesh Patel
@@ -47,7 +46,6 @@ tags:
 - knowledge-management
 title: AI时代下的职业发展与播客成长策略
 ---
-
 ### 新书发布与AI的跨学科影响
 
 本期节目是“你问我答”（Ask Me Anything，简称AMA）特辑，主持人**Dwarkesh Patel**邀请了朋友**Trenton Bricken**和**Sholto Douglas**一同参与。他们都是**Anthropic**的AI研究员。**Dwarkesh**还宣布他的新书《**The Scaling Era**》于今日发行。他希望听众能通过本书了解智能的本质、数十亿额外劳动力出现后的经济影响，以及如何理解超越人类总和的智能。这本书由**Stripe Press**出版，汇集了**Dwarkesh**对AI实验室CEO、研究员、经济学家和哲学家等各领域学者的采访精华。例如，读者可以读到**Dario Amodei**解释“规模化为何有效”，下一页则是**Demis Hassabis**阐述**DeepMind**关于**RL**（Reinforcement Learning: 强化学习）路线的计划，以及**AlphaZero**如何影响下一代**LLM**（Large Language Model: 大语言模型）。

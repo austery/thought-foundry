@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Brilliant.org
@@ -14,9 +14,7 @@ people:
 - Ptolemy
 - Einstein
 - Newton
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lFlu60qs7_4
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - technology
 title: 欧几里得的“错误”如何揭示隐藏的宇宙几何
 ---
-
 ### 欧几里得的“错误”如何揭示隐藏的宇宙几何
 
 在最古老的数学著作之一中，一个简单的句子却蕴含着理解我们宇宙的关键。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Ministry of Education
@@ -18,10 +18,7 @@ people:
 - Li Shimin
 - Wang Yi
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5e-c1isBijI
 speaker: Anthony看世界
@@ -35,7 +32,6 @@ tags:
 - power
 title: 为何中国文化中易生帝王视角？批判“雄才大略”与专制统治的本质
 ---
-
 ### 引言：长城的双重功能与民族主义的叙事
 
 大家好，我是Anthony。欢迎来到我的频道。今天我们继续聊聊中国的历史。在之前的视频中，我们首先讨论了长城的功能。长城不仅仅像主流叙事所宣称的那样，是为了防御外敌、保护人民，其另一个同样重要、甚至更为重要的功能是控制人民。

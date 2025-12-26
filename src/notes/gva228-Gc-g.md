@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-10-29'
@@ -13,8 +13,7 @@ media_books:
 people:
 - Oliver Burkeman
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gva228-Gc-g
 speaker: Big Think
@@ -28,7 +27,6 @@ tags:
 - shift
 title: 你永远无法逃避生活中的问题，但这恰恰是解脱之道
 ---
-
 ### 拥抱问题：从抵触到解脱
 
 我的名字是奥利弗·伯克曼（Oliver Burkeman），我是一名作家，也是一位正在戒除**效率狂人**（Productivity Geek: 对效率极度痴迷的人）习惯的人，我写了《凡人的冥想：拥抱局限，为重要之事腾出时间的四周指南》（"Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts"）这本书。

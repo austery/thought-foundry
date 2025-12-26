@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -34,10 +34,7 @@ products_models:
 - USDC
 - Bitcoin
 - Ethereum
-project:
-- investment-strategy
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ku9xUDc6hHA
 speaker: Bloomberg Podcasts
@@ -53,7 +50,6 @@ tags:
 - strategy
 title: Robinhood CEO畅谈代币化未来：零售交易、监管与金融生态系统演变
 ---
-
 ### 零售交易的演变与Robinhood的崛起
 
 欢迎收听新一期的**OddLots podcast**（OddLots播客：彭博社旗下探讨金融市场和经济的播客节目）。我是乔·魏森塔尔（Joe Weisenthal）。

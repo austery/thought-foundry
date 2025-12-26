@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -12,9 +12,7 @@ layout: post.njk
 products_models:
 - Claude Sonnet 4.5
 - Gemini Flash
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=flf_IKnFYnE
 speaker: AI Engineer
@@ -29,7 +27,6 @@ tags:
 - llm
 title: Pydantic AI与Temporal：构建持久化、容错的AI智能体工作流
 ---
-
 ### Pydantic AI、Temporal与Logfire简介
 
 大家好，我是来自Pydantic的Samuel，今天我将演示**Pydantic AI**（一个用于构建AI智能体的库）、**Temporal**（一个分布式工作流编排平台）和**Logfire**（一个用于可观测性的工具）。我还会介绍**Pydantic Evals**（一个用于评估大型语言模型性能的工具）。

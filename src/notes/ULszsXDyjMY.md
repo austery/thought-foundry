@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - a16z
@@ -10,8 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ULszsXDyjMY
 speaker: a16z
@@ -24,7 +23,6 @@ tags:
 - llm
 title: 'AI Agents in 2026: 3 Predictions For What’s To Come'
 ---
-
 ### AI Agents in 2026: Three Key Predictions
 
 #### Prediction 1: The Death of the Prompt Box

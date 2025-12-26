@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - S&P 500
@@ -42,9 +42,7 @@ people:
 products_models:
 - 401k
 - NFT
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S-UqYUfvwss
 speaker: Big Think
@@ -57,7 +55,6 @@ tags:
 - long-term-investing
 title: 战胜天性：投资成功的关键在于避免认知陷阱
 ---
-
 ### 投资：一个已被解决的问题
 
 我认为很多人没有意识到，投资其实是一个已经被解决了的问题。我们知道股票和固定收益的平均回报率是多少，也了解通货膨胀的长期形态。我们大致清楚经济的运行规律及其波动范围。然而，那个我们尚未解决的变量，那张“王牌”，其实是我们自身的行为。

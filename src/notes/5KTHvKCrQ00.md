@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Anthropic
@@ -11,8 +11,7 @@ layout: post.njk
 media_books: []
 products_models:
 - Claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5KTHvKCrQ00
 speaker: Anthropic
@@ -26,7 +25,6 @@ tags:
 - business-automation
 title: AI经营小店：Claude的商业实验与挑战
 ---
-
 ### AI小店初体验
 
 “**Vend项目**”是一项实验，我们让**大型语言模型**（Large Language Model: 基于海量文本训练的 AI 系统）**Claude**在我们办公室里经营一家小生意。我们想尝试理解当**人工智能**（Artificial Intelligence: 模拟人类智能的机器系统）更深入地融入经济时会发生什么。**Claude**已经在很多方面承担着运营企业的小部分工作，但真正端到端地运行整个业务则要困难得多。**Claude**能否完成这项运营业务的长期任务呢？我们给我们的店主取名为**Claudius**。假设你想从**Claudius**那里购买瑞典糖果，你会在**Slack**上联系**Claudius**，提出购买瑞典糖果的请求。**Claudius**会搜索你的商品，通过电子邮件联系批发商进行采购和定价，最终设定一个价格。你同意后，**Claudius**会向批发商订购商品。批发商将商品运送到某个地点，然后**Claudius**会向负责实验运营的**Andon Labs**请求物理协助。我们在**Andon Labs**的合作伙伴会取走瑞典糖果，并将其带到**Anthropic**办公室，然后放入自动售货机。**Claudius**会给你发消息说你的瑞典糖果已准备好，你就可以去取货并向**Claudius**付款。**Claudius**的目标是成功经营业务并赚钱。然而，事情很快变得非常非常奇怪。

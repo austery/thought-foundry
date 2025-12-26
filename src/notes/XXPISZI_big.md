@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 author: All-In Podcast
 category: lifestyle
 companies_orgs: []
@@ -21,7 +21,6 @@ tags:
 - optimization
 title: 布莱恩·约翰逊的终极健康秘诀：改善睡眠，延长寿命
 ---
-
 ### 序言：生死的哲学辩论
 
 Host: True or false? You, Bryan Johnson, the man sitting across from me, one day, at some point, as of yet undefined in the future, you will die.

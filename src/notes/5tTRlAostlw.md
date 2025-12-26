@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-09-30'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - kamala-harris
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5tTRlAostlw
 speaker: 北美王路飞
@@ -23,7 +22,6 @@ tags:
 - politics
 title: 《107天》：卡马拉·哈里斯的复仇宣言与民主党内战的序幕
 ---
-
 ### 引言：哈里斯新书引爆民主党内战
 
 欢迎来到我的频道。今天，我们来聊一聊这本刚刚出版便引爆整个美国政坛，特别是将民主党内部搅得天翻地覆的新书——**卡马拉·哈里斯**（Kamala Harris: 美国现任副总统）的竞选回忆录《**107天**》（107 Days: 指哈里斯竞选总统的实际天数）。我觉得美国人写书确实很有一套，仅仅107天的竞选经历都能写成一本畅销书并大卖，可见美国的出版业确实非常发达。

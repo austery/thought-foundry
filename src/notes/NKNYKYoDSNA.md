@@ -1,11 +1,9 @@
 ---
 title: Fal.ai AI视频的未来、推理优化与创成式媒体市场的激烈竞争
 summary: 本视频探讨Fal.ai如何通过极致的推理优化，在竞争激烈的AI视频市场中脱颖而出，并将其定位为创成式媒体云平台。
-area: tech-insights
+area: "tech-engineering"
 category: technology
-project:
-- ai-impact-analysis
-- cultural-critique
+project: []
 tags:
 - infrastructure
 - media
@@ -26,7 +24,6 @@ series: null
 source: http://www.youtube.com/watch?v=NKNYKYoDSNA
 status: evergreen
 ---
-
 # Fal.ai：AI视频的未来与推理优化
 
 ## 创成式媒体的激烈竞争与市场演变

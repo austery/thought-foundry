@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OPEC
@@ -18,10 +18,7 @@ people:
 - John D. Rockefeller
 products_models:
 - Affordable Care Act
-project:
-- market-cycles
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=evHF_DDLnes
 speaker: Adam's Axiom
@@ -34,7 +31,6 @@ tags:
 - technology
 title: 微观经济学核心概念25分钟速览：从供需到市场失灵
 ---
-
 ### 供需关系与市场动荡
 
 1973年，全球在经济学领域上了一堂严酷的课，当时油价几乎在一夜之间从每桶3美元飙升至12美元。原因何在？这是由**OPEC**（Organization of the Petroleum Exporting Countries: 石油输出国组织）精心策划的一场供给冲击，导致全球市场陷入混乱。

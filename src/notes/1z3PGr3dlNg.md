@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bilibili
@@ -24,9 +24,7 @@ people:
 - Richard Nixon
 - Jimmy Carter
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1z3PGr3dlNg
 speaker: 记者易速利
@@ -39,7 +37,6 @@ tags:
 - war
 title: 《芳华》：触碰禁忌的战争反思与老兵困境
 ---
-
 ### 《芳华》的社会回响与时代焦虑
 
 电影《芳华》成为热门话题是一件大好事。将自己对时代焦虑的情绪投射到一部8年前的文艺作品上，这种解读方式既可能源于对当下现实的不满，也可能来自于对过去黄金时代的想象。这种对电影的极端解读，往往超越了仔细辨析文本的程度，而是将其置于显微镜下观察。电影的创作者冯小刚和严歌苓，意图打造一个理智与情感的容器，希望为观众提供怀旧回忆后冷静反思的机会。然而，部分观众却向这个容器中倾倒了大量对社会不公的愤懑。

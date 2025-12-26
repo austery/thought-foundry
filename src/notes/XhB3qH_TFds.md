@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Google DeepMind
@@ -28,8 +28,7 @@ people:
 - Max Born
 - Stanislav Petrov
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XhB3qH_TFds
 speaker: Dwarkesh Patel
@@ -45,7 +44,6 @@ tags:
 - vacuum-decay
 title: 亚当·布朗：泡泡宇宙、太空电梯与黑洞信息论
 ---
-
 ### 宇宙的终极命运
 
 今天我与**亚当·布朗**聊天，他是**谷歌DeepMind**的**Blueshift**团队创始人兼负责人，该团队致力于解决数学和推理问题，同时他也是**斯坦福大学**的理论物理学家。**亚当**，欢迎你。

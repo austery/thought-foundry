@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Apple
@@ -35,10 +35,7 @@ people:
 products_models:
 - iPhone
 - GPU
-project:
-- china-analysis
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GiO3Zh2Ue9E
 speaker: Big Think
@@ -51,7 +48,6 @@ tags:
 - state
 title: 中美科技竞争：工程国家与律师国家模式的未来对决
 ---
-
 ### 中国速度与美国停滞：基础设施与制造业的对比
 
 **Dan Wang:** 你之前说我有点过于悲观，尼尔，但现在我想说得更具末日色彩一点。如果你是美国、日本或德国的汽车制造商，从构思一个新的汽车品牌或车型，到实际将其推向市场，让人们在街上驾驶，大约需要六年时间。

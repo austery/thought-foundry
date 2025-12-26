@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - GOP
@@ -21,10 +21,7 @@ products_models:
 - S&P 500
 - Nasdaq
 - 恒生H股
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CPpwPnpLc8g
 speaker: Shanghao Jin
@@ -39,7 +36,6 @@ tags:
 - us-tariff-policy
 title: 美国关税政策对全球经济与市场的影响及长期投资展望
 ---
-
 ### 市场概览与尾部风险的显现
 
 大家好，今天的内容是周会的一个重录。由于周会中包含一些敏感讨论，我已将其去除并进行了重录。上周二、周三是美国的“解放日”，但实际上却让大家的钱包都“解放”了。我认为现在市场处于一个特殊阶段，可能是我最不需要你们的时候。我们从今年12月和1月就开始讨论美国可能存在的**尾部风险**（Tail Risk: 指发生概率极低但一旦发生会造成巨大损失的事件）。真正需要关注和处理尾部风险的时机，是风险尚未发生之时，而现在风险已经显现。

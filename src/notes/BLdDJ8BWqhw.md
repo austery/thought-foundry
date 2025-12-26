@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Ferrari
@@ -23,10 +23,7 @@ people:
 - Jony Ive
 products_models:
 - Apple Watch
-project:
-- investment-strategy
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BLdDJ8BWqhw
 speaker: Norges Bank Investment Management
@@ -42,7 +39,6 @@ tags:
 - long
 title: Exor 首席执行官 John Elkann：构建卓越公司，拥抱未来挑战
 ---
-
 ### Exor 的核心理念与多元化投资组合
 
 **Nikolai**: 大家好，我今天非常幸运，因为我们邀请到了 **John Elkann**（Exor 首席执行官：一家拥有法拉利、Stellantis 等品牌的荷兰控股公司，根植于意大利）来访。

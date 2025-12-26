@@ -9,8 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: null
@@ -19,7 +18,6 @@ tags:
 - canada
 title: 访谈报告：加拿大人的收入，工作与财富
 ---
-
 # 加拿大人的收入，工作与财富
 
 主讲人：王红雨 \| 日期：2025年5月16号

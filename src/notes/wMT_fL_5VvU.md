@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: 2025-10-31
 draft: true
@@ -40,9 +40,7 @@ people:
 - Pythagoras
 - Shaquille O'Neal
 - Michael Jordan
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wMT_fL_5VvU
 speaker: 夸克说
@@ -56,7 +54,6 @@ tags:
 - scientific
 title: 数据揭秘：杨振宁在物理学史上的真实地位与影响力评估
 ---
-
 ### 重新审视杨振宁的物理学地位
 
 上期我谈了对杨振宁的评价，但那主要是针对学术成就以外的部分。我也说过，对于科学家而言，人品和成就是两回事。一个人完全可以在人品很差、缺少良知的情况下，仍然是某个领域的天才。反过来，也有很多人品不错、心地善良，但在专业领域没有什么天分。本集，我们就来聊聊杨振宁作为物理学家的历史地位和影响力。

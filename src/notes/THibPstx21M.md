@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Palantir
@@ -18,10 +18,7 @@ products_models:
 - Gotham平台
 - Foundry平台
 - AIP
-project:
-- us-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=THibPstx21M
 speaker: Best Partners TV
@@ -36,7 +33,6 @@ tags:
 - organizational-culture
 title: Palantir的独特内核：首席营收官Ryan Taylor深度解析其商业模式、使命与文化
 ---
-
 ### Palantir：争议与关注中的数据巨头
 
 在当今的科技版图中，Palantir无疑是全球最具争议性、也最受关注的数据巨头之一。这家公司以其强大的数据整合与分析能力闻名于世。无论是其早期服务于政府和情报机构的**Gotham平台**（Gotham Platform: Palantir为政府和情报机构设计的数据分析平台），还是后续推动大型企业进行数字化转型的**Foundry平台**（Foundry Platform: Palantir为商业客户提供的数据集成与运营平台），都在各自的领域引发了深刻的变革。

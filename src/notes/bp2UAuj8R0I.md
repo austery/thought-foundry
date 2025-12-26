@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: '[]'
 date: 2025-07-28
@@ -16,9 +16,7 @@ media_books:
 people:
 - Stephen King
 products_models: '[]'
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bp2UAuj8R0I
 speaker: 徒步的騎手
@@ -33,7 +31,6 @@ tags:
 - personal
 title: 斯蒂芬·金的人生三道防线：避免活成工具人的智慧
 ---
-
 ### 人生阅历与斯蒂芬·金的三句忠告
 
 一个人的天赋固然重要，后天学习也同样不可或缺，但有一种东西是天赋和书本知识都无法替代的，那就是人生阅历。人往往是亲身经历过一些风风雨雨之后，听到同样经历过风雨的人说话，才能产生共鸣。有些话你可能会觉得，如果年轻的时候有人告诉我就好了。其实，我们年轻的时候可能不是没有人说过那些话，而是有人说了我们自己没听到，或者是听到了但是没有听进去。

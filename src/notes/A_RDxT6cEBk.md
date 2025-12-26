@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - a16z
@@ -30,10 +30,7 @@ products_models:
 - AWS
 - Cursor
 - LLMs
-project:
-- entrepreneurship
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=A_RDxT6cEBk
 speaker: a16z
@@ -47,7 +44,6 @@ tags:
 - startup-journey
 title: 从米兰车库到API巨头：Kong的创业史与AI基础设施的未来
 ---
-
 ### 早期挣扎与创业初心
 
 AI: 他打开一个衣柜，里面堆满了香蕉，因为有一个人只吃大香蕉。他又打开另一个衣柜，里面是另一张床垫，睡着其他几个人，他心想：“这才是真实的生活。”我们当时身无分文，只剩下600美元，买了美国联合航空（United）的机票，我们有90天的时间来决定成败。我们知道，如果不能成功融资，就只能身无分文地回到意大利，一切就此结束。我想很多人可能不知道或不曾意识到，Kong在真正起飞后发展得有多快。在此之前，我们经历了七年的“饥饿期”，基本上毫无进展。每年我们都会颁发创始人奖，这个奖项会给公司最优秀的员工2555股股票。之所以是2555，是因为它象征着2555天的奋斗，是一个纪念七年挣扎的符号，每年都是一次回顾。

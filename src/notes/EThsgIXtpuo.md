@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - joseph-wang
 products_models: []
-project:
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EThsgIXtpuo
 speaker: Joseph Wang
@@ -24,7 +22,6 @@ tags:
 - federal-reserve
 title: 市场周报：美联储政策转向、阿根廷援助与AI泡沫警示
 ---
-
 ### 市场回顾与本周焦点
 
 Hello, my friends. Today is September 27th, and this is Markets Weekly. This past week, the equity markets were kind of boring, not much going on, but I think there was some real action in some corners of the market.

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Greenpeace
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - Why do good People Make Bad decisions?
 - Commonsense Sceptic
-project:
-- systems-thinking
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UtApa3PA0J4
 speaker: Patrick Boyle
@@ -28,7 +25,6 @@ tags:
 - regulatory
 title: 巨型项目之海市蜃楼：西方国家为何在基础设施建设上屡屡失误？
 ---
-
 ### 巨型项目的幻象：Xlinks电力项目的夭折
 
 想象一下：你身处英国，天气一如既往地阴沉多雨，有人向你提出一个想法——从你家铺设一条4000公里长的延长线到摩洛哥沙漠，这样你就可以用太阳能为你的水壶供电……

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - SoftBank
@@ -74,10 +74,7 @@ products_models:
 - Instagram Reels
 - FSD
 - Claude
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hh1VGtL8eLs
 speaker: Amit Kukreja
@@ -91,7 +88,6 @@ tags:
 - market
 title: 软银抛售英伟达，Nebius财报亮眼，SoFi重启加密货币业务
 ---
-
 ### 市场开盘概览：盘前回调与宏观动态
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月11日，星期二，上午8:46。感谢大家的到来。今天我们有很多内容要谈。

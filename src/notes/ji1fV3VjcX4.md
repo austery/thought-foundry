@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Perplexity
@@ -32,9 +32,7 @@ products_models:
 - Bloomberg Terminal
 - Chrome
 - Comet
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ji1fV3VjcX4
 speaker: Bloomberg Podcasts
@@ -48,7 +46,6 @@ tags:
 - media
 title: Perplexity如何重塑互联网：AI对媒体、商业和信任的深远影响
 ---
-
 ### 欢迎来到Odd Lots播客
 
 主持人Joe Weisenthal和Tracy Alloway欢迎大家收听或收看Odd Lots播客的特别节目，该节目在**Lazard Forsquare Conference**（拉扎德四方会议: 一场关于媒体和交易的行业会议）上现场录制。

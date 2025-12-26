@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Eli Lilly
@@ -20,8 +20,7 @@ products_models:
 - Tirzepatide
 - GPT-4
 - Claude Code
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XCLODgdCmKA
 speaker: Dwarkesh Patel
@@ -34,7 +33,6 @@ tags:
 - technology
 title: 进化让我们快速衰老死亡；我们可以改变它 — Jacob Kimmel
 ---
-
 今天，我很高兴能采访 **Jacob Kimmel**，他是 **NewLimit** 的总裁兼联合创始人。**NewLimit** 致力于通过表观遗传重编程，使细胞恢复到年轻状态。Jacob，非常感谢你来参加播客。
 
 非常感谢邀请我。期待这次对话。好的，第一个问题。从第一性原理来看，为什么进化如此轻易地抛弃我们？我知道进化关心我们的孩子。但如果我们拥有更长、更健康的寿命，我们就能拥有更多的孩子，对吗？我们可以更长时间地照顾他们，也可以照顾我们的孙辈。抗衰老药物是否会产生某种多效性效应，反而会阻碍我们保持年轻？

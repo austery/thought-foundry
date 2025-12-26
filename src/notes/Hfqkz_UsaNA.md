@@ -13,10 +13,7 @@ media_books:
 people:
 - 朱镕基
 products_models: []
-project:
-- investment-strategy
-- china-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hfqkz_UsaNA
 speaker: 海淀拙大叔
@@ -28,7 +25,6 @@ tags:
 - market
 title: 阿甘股票市场论：本轮A股上涨行情能涨多高？持续多长时间？
 ---
-
 ### 本轮A股行情预测：高度与持续时间
 
 阿甘股票市场论第一集，将探讨这轮行情能涨多高，以及持续多长时间。当股票市场一涨起来，各种预测者就会出现。我们是否也算一个呢？也算是一个。只不过我们的预测从今年8月1号就已经明确了。当时在**阿甘投研**（一个研究分析平台）上，我们在8月1号就预测底部已经确立，上涨会持续到2026年中期，且涨幅会超出预期。

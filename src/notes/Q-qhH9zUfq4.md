@@ -16,10 +16,7 @@ layout: post.njk
 people:
 - Jerome Powell
 - Donald Trump
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q-qhH9zUfq4
 speaker: 美投讲美股
@@ -32,7 +29,6 @@ tags:
 - wealth
 title: 美股为何“跌不下来”？揭秘支撑市场上涨的诡异循环与关键变量
 ---
-
 ### 美股“不可能跌”现象的背后
 
 最近的美股市场似乎进入了一种“不可能跌”的模式。无论发生什么事，市场似乎都能很快消化，然后便拼命上涨。例如，通胀抬头，美股上涨；就业下调，美股上涨；特朗普关税政策再出幺蛾子，美股依然上涨。股市上涨自然是好事，但这种持续的上涨难免让投资者心里发慌：这样的上涨真的合理吗？背后是否隐藏着什么不为人知的危机呢？正好最近市场上发生了很多大事，各项关键的经济数据也都相继出炉，本文将详细分析当前的美股市场。

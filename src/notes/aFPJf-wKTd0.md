@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Salesforce
@@ -12,9 +12,7 @@ media_books:
 - Vox
 people:
 - Steve
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aFPJf-wKTd0
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 隐藏科技如何彻底改变了保龄球运动
 ---
-
 ### 引言：保龄球的科学与魅力
 
 本视频的部分内容由Salesforce赞助。这是有史以来关于保龄球最宏大、最深入的视频。

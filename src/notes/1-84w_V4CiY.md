@@ -34,10 +34,7 @@ products_models:
 - TPU
 - Avocado
 - ChatGPT
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1-84w_V4CiY
 speaker: 小翠時政財經
@@ -50,7 +47,6 @@ tags:
 - stock
 title: 中国经济自信的信号：从A股泡沫到美联储鸽派转向，再到AI浪潮下的全球变局
 ---
-
 ### A股市场泡沫与收割套路
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月11日。

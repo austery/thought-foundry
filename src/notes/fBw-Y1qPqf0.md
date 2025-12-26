@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -22,10 +22,7 @@ people:
 - Zoran Mandani
 products_models:
 - TikTok
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fBw-Y1qPqf0
 speaker: New York Times Podcasts
@@ -38,7 +35,6 @@ tags:
 - safety
 title: 迪克·切尼逝世，以及特朗普面临的三大权力考验
 ---
-
 ### 迪克·切尼：一位有争议的副总统
 
 迪克·切尼，被广泛认为是美国历史上最有权势的**副总统**，享年84岁。

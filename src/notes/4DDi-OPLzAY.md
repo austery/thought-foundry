@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Bloomberg
@@ -31,10 +31,7 @@ products_models:
 - Claude
 - GPT-2
 - DeepSeek
-project:
-- ai-impact-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4DDi-OPLzAY
 speaker: Bloomberg Podcasts
@@ -50,7 +47,6 @@ tags:
 - reinforcement-learning
 title: 探寻AI下一个重大突破：模型演进、数据挑战与研究者抉择
 ---
-
 ### AI模型进展：增量式突破与评估挑战
 
 **Joe:** 大家好，欢迎收听OddLots播客的又一期节目，我是Joe Eisenthal。

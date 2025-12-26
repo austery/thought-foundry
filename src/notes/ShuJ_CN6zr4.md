@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 date: '2025-12-22'
 draft: true
@@ -8,8 +8,7 @@ insight: ''
 layout: post.njk
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ShuJ_CN6zr4
 speaker: AI Engineer
@@ -21,7 +20,6 @@ tags:
 - validation-criterion
 title: 使代码库适应 AI 代理 - Eno Reyes, Factory AI
 ---
-
 ### 使代码库适应 AI 代理
 
 嗨，大家好，我叫 Eno。很高兴今天来谈论一些我们在 Factory 非常关心的事情。

@@ -21,10 +21,7 @@ products_models:
 - Grok
 - NotebookLM
 - DeepSeek R1
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-a_umjxdcIg
 speaker: 东京人文论坛
@@ -37,7 +34,6 @@ tags:
 - llm
 title: 高效驾驭AI：从原理到实践的工作流与团队协作
 ---
-
 ## 开场：AI 付费用户的现状与讨论焦点
 
 我想先问问大家，在座有多少人平时已经为 AI 付费了？请举一下手。

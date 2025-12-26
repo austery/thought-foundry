@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 澜起科技
@@ -11,10 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cyP1PE5mMj0
 speaker: 海淀拙大叔
@@ -28,7 +25,6 @@ tags:
 - semiconductor
 title: 澜起科技：业绩符合投资逻辑吗？深度分析其业务增长、技术壁垒与未来趋势
 ---
-
 ### 澜起科技研究：业绩是否符合投资逻辑？
 
 在对公司进行跟进分析时，我们通常需要关注以下几个核心内容：首先，业务增长是否与此前的投资逻辑相符；其次，原有的投资逻辑是否依然成立；最后，公司的市值天花板在哪里，是否仍具备继续投资的价值。

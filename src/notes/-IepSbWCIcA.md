@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Big Think
@@ -13,9 +13,7 @@ media_books:
 people:
 - Buddha
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-IepSbWCIcA
 speaker: Big Think
@@ -29,7 +27,6 @@ tags:
 - zen-buddhism
 title: 罗伯特·沃尔丁格：为何追逐开悟反而会让你陷入痛苦
 ---
-
 ### 禅宗实践：日常生活中的深刻益处
 
 我是一名**禅修者**（Zen practitioner: 源自大乘佛教的修行宗派，强调通过冥想和直觉来达到开悟），也是一名**授戒禅宗僧侣**（ordained Zen priest），同时还是一位禅宗老师。实际上，我是一位**老师**（Roshi: 禅宗中对资深导师的尊称），一位禅宗大师。因此，我每天都会冥想。我在美国乃至国际上教授冥想，这是我生活中非常重要的一部分。我发现，这对我思考自己的生活、他人的生活、我的研究以及如何与患者合作都带来了巨大的益处。

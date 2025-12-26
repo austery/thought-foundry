@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Google
@@ -19,9 +19,7 @@ people:
 - Sergey Brin
 - Bill Gates
 products_models: []
-project:
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=efARUVBOyl0
 speaker: 天下文化
@@ -35,7 +33,6 @@ tags:
 - team-management
 title: OKR：做最重要的事——管理者必读的团队激励与目标管理法
 ---
-
 ### OKR：目标与关键成果的核心理念
 
 大家好，我是好学好哥，欢迎来到好书导读单元。今天我们要介绍的这本书，单看这三个英文字母，很多人可能都耳熟能详，它就是**OKR**（Objectives and Key Results: 目标与关键成果）。但书名后面还有一句话，我认为是OKR非常重要的关键，那就是“做最重要的事”。连起来就是《OKR：做最重要的事》。

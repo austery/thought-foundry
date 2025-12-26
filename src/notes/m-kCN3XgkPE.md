@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 惠誉
@@ -33,10 +33,7 @@ people:
 products_models:
 - 芬太尼
 - 稀土
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m-kCN3XgkPE
 speaker: LT視界
@@ -50,7 +47,6 @@ tags:
 - us-china-relations
 title: 川习会：超预期妥协下的中美贸易博弈与中国经济挑战
 ---
-
 ### 中国大学生消费报告：窥探宏观经济实况
 
 大家好，我们一起来分享今天的焦点与透视。今天是10月29日，我们首先分享中国第一财经的一篇报道，标题是“中国大学生每个月生活费1744元，月均网购7次”。这个信息在中国宏观经济数据不透明的情况下，提供了一个具体的角度，让外界了解中国的实际消费状况。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - SAP
@@ -22,9 +22,7 @@ people:
 - Shantanu Narayen
 products_models:
 - ERP
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2TErsAvBSmU
 speaker: Norges Bank Investment Management
@@ -38,7 +36,6 @@ tags:
 - transformation
 title: SAP CEO Christian Klein：云转型、AI与欧洲科技竞争力
 ---
-
 ### SAP：全球业务的核心驱动力
 
 主持人Nikolai Tangen欢迎了**SAP**（Software AG: 一家德国跨国软件公司，专注于企业应用软件）的首席执行官Christian Klein。他介绍道，SAP是欧洲最大的公司，也是全球第三大软件公司，挪威主权财富基金持有该公司近3%的股份，价值90亿美元，相当于每位挪威人2万挪威克朗。Christian Klein在SAP从学生实习生做起，20年后成为首席执行官，这段职业旅程令人惊叹。

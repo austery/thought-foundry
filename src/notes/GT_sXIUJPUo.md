@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -38,8 +38,7 @@ products_models:
 - GPT-4
 - Deep Blue
 - Claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GT_sXIUJPUo
 speaker: Dwarkesh Patel
@@ -53,7 +52,6 @@ tags:
 - technological
 title: AI时代的经济增长瓶颈：人类与制度的挑战
 ---
-
 ### AI与经济增长的瓶颈
 
 **泰勒·考恩**（Tyler Cowen）表示，实现20%以上的爆炸性经济增长非常困难，无论是否有AI。一个主要问题是，经济的某些部分发展迅速，而另一些部分则会遭遇“**成本病**”（Cost Disease: 指某些服务业的成本增长速度快于制造业，且生产力提升缓慢）。例如，美国经济中政府消费、医疗、教育和非营利部门合计占经济总量的一半。这些部门使用AI的效率如何？它们会因为未能有效利用AI而立即消失或被取代吗？不会，这可能需要30年。因此，只有那些监管较少、变化迅速的经济部门能快速发展，但这只能带来温和的增长率提升，远非整个经济每年增长40%的水平。

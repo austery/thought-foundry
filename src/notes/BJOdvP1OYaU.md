@@ -7,8 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BJOdvP1OYaU
 speaker: 一席YiXi
@@ -21,7 +20,6 @@ tags:
 - self-discovery
 title: 晋美：50岁重拾画笔，苦痛与希望皆成创作源泉
 ---
-
 ### 早年经历与家庭教育
 
 大家好，我是晋美 牛晋美，1961年出生在山西晋城的乡村小学校里。学校坐落在一座寺庙中，我的母亲是这里的老师。母亲在怀我时仍在上课，这体现了她对教育的重视。父母有三个孩子，他们根据“德智体美全面发展”的教育方针，为我们取名晋德、晋智、晋美，寓意我可能要从事与美相关的事业。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - Expedia
@@ -16,9 +16,7 @@ media_books:
 people:
 - Queen Victoria
 - Justin Trudeau
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=unglEbad2I0
 speaker: 莊也雜談
@@ -32,7 +30,6 @@ tags:
 - self
 title: 纽芬兰自驾探险记：圣约翰斯首日深度游与实用攻略
 ---
-
 ### 纽芬兰自驾之旅开篇：缘起与规划
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们来聊聊我在纽芬兰自驾游的惊险历程，这是第一集。说到纽芬兰，大家都知道它是加拿大最东边的省份，经济状况不是太好。根据2022年的**GDP**（Gross Domestic Product: 国内生产总值，衡量一个国家或地区经济活动总量的指标）列表，它的表现仅强于三个边远地区以及**PEI**（Prince Edward Island: 爱德华王子岛，加拿大面积最小的省份），名列加拿大倒数第五。

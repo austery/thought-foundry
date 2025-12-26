@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-06-12'
@@ -22,9 +22,7 @@ people:
 - Ludwig Boltzmann
 - Charles Darwin
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MPnHFCcVToc
 speaker: 大问题Dialectic
@@ -38,7 +36,6 @@ tags:
 - theory
 title: 宇宙为何会有观察者？从宇宙微调到玻尔兹曼大脑的三种哲学思辨
 ---
-
 ### 宇宙：为何会有观察者？
 
 本期节目要探讨的核心问题是：宇宙为何会有观察者？你或许会觉得这是一个无聊的问题，但试想，这个宇宙完全可以是一个没有演化出任何智能生命，因而完全不会被观察者观察到的荒凉宇宙。然而，这个宇宙居然演化出了我们人类这样能够观察并试图理解这个精妙宇宙的观察者。宇宙为何会有观察者？这是让数不胜数的科学家和哲学家都绞尽脑汁的大问题。

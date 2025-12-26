@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -22,10 +22,7 @@ people:
 - Mario Draghi
 products_models:
 - F-35
-project:
-- geopolitics-watch
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=u_6F3PPTPC4
 speaker: Bloomberg Podcasts
@@ -38,7 +35,6 @@ tags:
 - market
 title: 欧洲如何应对竞争挑战：芬兰央行行长奥利·雷恩的洞察
 ---
-
 ### 欧洲的“机遇时刻”与核心挑战
 
 **Tracy Alloway:** 大家好，欢迎收听《Odd Lots播客》的又一期节目。我是Tracy Alloway。

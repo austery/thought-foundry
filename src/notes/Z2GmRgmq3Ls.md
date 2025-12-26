@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-07-31'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Z2GmRgmq3Ls
 speaker: EO
@@ -25,7 +22,6 @@ tags:
 - startup
 title: FAL联合创始人：三年内打造15亿美元AI独角兽的秘诀
 ---
-
 ### 发现图像模型潜力
 
 Language models at the time was all the hype, crazy optimism about language models.

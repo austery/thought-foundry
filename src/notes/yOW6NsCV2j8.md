@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - University of Toronto
@@ -30,7 +30,6 @@ tags:
 - public-health
 title: 罕见病突破与过敏症缓解：基因疗法和花生过敏预防的最新进展
 ---
-
 ### 罕见病治疗的希望曙光
 
 医学界有句俗语：“听到蹄声，要想到马，而不是斑马。”这意味着在诊断时，应首先考虑常见病因。当然，那些蹄声也可能来自斑马，即使这种可能性很小。这正是斑马成为**罕见病**（Rare Diseases: 影响少数人群但全球总数庞大的疾病）象征的原因。有些罕见病确实非常罕见，只影响少数人，但总人数却相当可观。据估计，全球有超过4亿人患有罕见病。

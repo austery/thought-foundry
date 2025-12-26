@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -34,10 +34,7 @@ people:
 - He Weidong
 - Xi Jinping
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TqzC94k7DPM
 speaker: LT視界
@@ -51,7 +48,6 @@ tags:
 - us-monetary-policy
 title: 美联储政策摇摆、AI冲击就业、双十一静默：中美日政治经济多维透视
 ---
-
 ### 全球财经头条：美联储政策、AI冲击与市场展望
 
 今天，我们将分享不能错过的全球重要新闻。首先是财经头条，有三个方面的最新信息值得关注。

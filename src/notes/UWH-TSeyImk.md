@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -31,10 +31,7 @@ people:
 - Deng Xiaoping
 - Vladimir Putin
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UWH-TSeyImk
 speaker: Bloomberg Podcasts
@@ -48,7 +45,6 @@ tags:
 - trade-war-hot-war
 title: 贸易战如何演变为热战：解析中美关系的历史与未来
 ---
-
 ### 对台海冲突的深层忧虑
 
 Joe Weisenthal：您好，欢迎收听新一期的《Odd Lots》播客。我是 Joe Weisenthal。

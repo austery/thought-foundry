@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2024-10-23'
 draft: true
@@ -10,10 +10,7 @@ media_books:
 - 《金门荧光梦》
 - 《女人世界》
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6gUCRgL1lCE
 speaker: 一席YiXi
@@ -27,7 +24,6 @@ tags:
 - performance
 title: 《女人世界》：旧金山唐人街夜总会舞者的生命之舞
 ---
-
 ### 被遗忘的舞者：从唐人街夜总会到世界舞台
 
 大家好，我叫杨圆圆。作为一名艺术家和电影创作者，我一直对离散华人的故事充满兴趣。这种关注源于我18岁出国留学时的一次经历——每次走进海外的中餐厅，我都仿佛进入了一个时空胶囊：装潢、口音、音乐，一切似乎都凝固在父辈移民的那个中国。这种“文化断层”的体验，在英国、巴西等地的中餐厅反复上演，让我意识到：那些身处于两种文化夹缝中的移民者，他们的故事往往无人倾听。

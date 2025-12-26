@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs: []
 date: '2025-10-09'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - new-york-times-podcasts
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mmjvjFKxZbc
 speaker: New York Times Podcasts
@@ -24,7 +22,6 @@ tags:
 - middle-east-peace
 title: 加沙人质协议取得突破，洛杉矶致命野火嫌犯被捕
 ---
-
 ### 头条新闻
 
 From the New York Times, it's the headlines. I'm Tracy Mumford. Today's Thursday, October 9th. Here's what we're covering.

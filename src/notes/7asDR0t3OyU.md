@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Fox News
@@ -38,10 +38,7 @@ people:
 - Elon Musk
 products_models:
 - F-35
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7asDR0t3OyU
 speaker: LT視界
@@ -55,7 +52,6 @@ tags:
 - us-economic-policy
 title: 经济学人揭示中国“诡异出口”：全球安全工具与技术输出的深层影响
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月16日，我们首先来了解今天的财经头条。在新的一周开始之际，我们一起了解一下未来一周最值得大家关注的五个重大财经事件。
 
 ### 聚焦美国经济：就业报告、美联储纪要与消费者信心

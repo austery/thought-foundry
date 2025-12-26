@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-09-13'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0x-v4yQrWXY
 speaker: EO
@@ -25,7 +22,6 @@ tags:
 - startup
 title: 创始人之路：AssemblyAI CEO Dylan Fox的创业洞察与客户至上理念
 ---
-
 ### 创始人的直觉与坚持
 
 As a founder, you just have this instinct for some market. That's the hard thing about being an entrepreneur, being a founder is like most people are not going to believe in what you're trying to do until all of a sudden they do.

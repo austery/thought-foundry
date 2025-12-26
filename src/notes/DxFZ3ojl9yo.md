@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 date: '2025-10-23'
 draft: true
@@ -7,10 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- entrepreneurship
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DxFZ3ojl9yo
 speaker: TED
@@ -24,7 +21,6 @@ tags:
 - revolution
 title: 印度太阳能革命：从宏伟承诺到全球领导力的经济驱动
 ---
-
 ### 印度太阳能革命的宏伟承诺与里程碑
 
 2014年，印度承诺在2022年前安装100**吉瓦**（Gigawatts, GW: 电力容量单位，1吉瓦等于10亿瓦特）的太阳能发电量。

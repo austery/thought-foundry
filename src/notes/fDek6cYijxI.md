@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs: []
 date: '2019-12-06'
@@ -13,9 +13,7 @@ people:
 - Isaac Newton
 - Pierre-Simon Laplace
 - Henri Poincaré
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fDek6cYijxI
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - theory
 title: 混沌理论：蝴蝶效应的科学与预测的极限
 ---
-
 ### 流行文化中的蝴蝶效应与预测的根本问题
 
 本视频部分内容由LastPass赞助。关于LastPass的更多信息将在节目末尾介绍。

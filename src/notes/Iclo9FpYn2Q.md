@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -31,10 +31,7 @@ people:
 products_models:
 - Google Maps
 - ChatGPT
-project:
-- ai-impact-analysis
-- entrepreneurship
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Iclo9FpYn2Q
 speaker: 北美王路飞
@@ -48,7 +45,6 @@ tags:
 - tech-leadership
 title: 硅谷幸存者布雷特·泰勒：在AI泡沫中，为何他选择“无聊”的客服赛道？
 ---
-
 ### 硅谷的“英灵殿”与泰勒的偏执
 
 斯坦福大学在某种意义上是硅谷的英灵殿，一座用万亿美金市值公司命名的纪念碑。比尔·盖茨的微软大楼在这里，黄仁勋的英伟达中心也在这里，每一块砖似乎都在讲述一个关于成功的神话。然而，就在2025年9月的这个下午，一个坐在这里的人想到的不是成功，而是失败。他的名字叫做布雷特·泰勒（Brett Taylor）。

@@ -4,8 +4,7 @@ author: null
 category: ai-ml
 date: 2025-10-19
 layout: post.njk
-project:
-- ai-impact-analysis
+project: []
 published: null
 source: https://www.youtube.com/watch?v=ufwIj6Ot0g4
 speaker: 用AI發電
@@ -16,7 +15,6 @@ summary: 本次 Office Hour 是一场深入 Vibe Coding 实战的“难题会诊
 tags: []
 title: 20251019_Office Hour 直播答疑+分享AI新动向，你的 Vibe Coding 难题一网打尽！
 ---
-
 ### 导语：从工具选型到项目重构
 
 本次 Office Hour 是一场深入 Vibe Coding 实战的“难题会诊”。Mike 与社群成员们围绕一个核心问题展开：在真实的开发旅程中，我们如何跨越从“项目启动”到“长期维护”的种种障碍？

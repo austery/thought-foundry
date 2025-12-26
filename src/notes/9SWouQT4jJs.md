@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs: []
 date: '2025-10-08'
@@ -11,8 +11,7 @@ media_books: []
 people:
 - donald-trump
 products_models: []
-project:
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9SWouQT4jJs
 speaker: 北美王路飞
@@ -24,7 +23,6 @@ tags:
 - resilience
 title: 两次从地狱爬出的男人：霍华德·卢特尼克的传奇人生与政治旅程
 ---
-
 ### 魔鬼邻居与直觉的礼物
 
 你是否曾想过，如果魔鬼就住在你家隔壁，你能在第一次见面时就认出他吗？这并非电影情节，而是霍华德·卢特尼克在成为特朗普政府商务部长多年前的真实经历。时间回到2005年，卢特尼克刚刚搬入纽约东71街11号的新家，而住在9号、与他一墙之隔的邻居，正是后来臭名昭著的**杰弗里·爱泼斯坦**（Jeffrey Epstein: 美国金融家，因性侵未成年少女和性交易被捕并定罪的罪犯）。

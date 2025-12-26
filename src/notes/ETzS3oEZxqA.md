@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-13'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ETzS3oEZxqA
 speaker: Bloomberg Podcasts
@@ -28,7 +25,6 @@ title: 加沙停火、OpenAI芯片交易与美国经济展望：彭博商业周�
 companies:
 - openai-broadcom-deal
 ---
-
 ### 开场与市场概览
 
 Carol Massar: This is Bloomberg Businessweek Daily, reporting from the magazine that helps global leaders stay ahead with insight on the people, companies and trends shaping today's complex economy.

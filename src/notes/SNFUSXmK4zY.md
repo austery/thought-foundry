@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - The Economist
@@ -27,10 +27,7 @@ people:
 - Janet Yellen
 - Ursula von der Leyen
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SNFUSXmK4zY
 speaker: FearNation 世界苦茶
@@ -44,7 +41,6 @@ tags:
 - us-china-relations
 title: 中国经济路线之争：十五五规划、贸易战与全球供应链的未来
 ---
-
 ### 中国“十五五规划”：高科技雄心与民生现实的权衡
 
 本期节目汇总全球智库和国际媒体对中国问题的深度分析。第一篇文章来自《经济学人》，题为“习近平亲自参与中国新的5年规划”。文章揭示了一场即将在北京京西宾馆上演的、关乎中国未来十年经济路线的重大抉择。这不是一次普通的会议，而是决定世界第二大经济体航向的关键时刻。文章标题点明了一个核心信息：中国最高领导人习近平正在亲自塑造这份规划的每一个细节。

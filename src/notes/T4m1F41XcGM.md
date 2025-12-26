@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Nvidia
@@ -41,10 +41,7 @@ people:
 - Bill Ackman
 products_models:
 - TikTok
-project:
-- us-analysis
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T4m1F41XcGM
 speaker: 小翠時政財經
@@ -58,7 +55,6 @@ tags:
 - us-consumer-spending
 title: 英伟达财报力挽全球股市，中国市场逆势下跌，房地产救市新政引关注
 ---
-
 大家好，欢迎回到**小翠时政财经**（Xiao Cui Political and Financial Review: 一档时政财经评论节目）。今天是美东时间2025年11月20日。今天有一个好消息，英伟达（Nvidia: 一家设计和销售图形处理器（GPU）和AI芯片的科技公司）凭借一己之力拯救了全球股市。
 
 ### 中国股市逆势下跌与房地产救市新政

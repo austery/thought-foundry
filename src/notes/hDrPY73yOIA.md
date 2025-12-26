@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -29,10 +29,7 @@ people:
 - Wang Yi
 - Sanae Takaichi
 - Mao Zedong
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hDrPY73yOIA
 speaker: LT視界
@@ -46,7 +43,6 @@ tags:
 - llm
 title: 美国经济困境、乌克兰和平协议与中国内外挑战：从郭德纲事件到外汇迷局
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月9日。
 
 ### 美国经济现状与消费者信心：高物价的持续影响

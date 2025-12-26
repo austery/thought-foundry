@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-08-25'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Xgk8DCmH3iU
 speaker: 政經孫老師
@@ -23,7 +22,6 @@ tags:
 - institutional
 title: 中国深陷通缩螺旋：制度性腐败与经济终结
 ---
-
 ### 中国经济的通缩困境
 
 今天我们来探讨中国的通缩问题。当前，若不深入探讨**通缩**（Deflation: 货币供应量少于经济的需要，导致物价总水平持续下跌的现象），便无法清晰理解中国经济的现状，因为两者紧密相连。因此，本文将从通缩的角度分析中国经济的现状，并指出中国目前面临的并非短期通缩，而是一种长期通缩，甚至是**通缩螺旋**（Deflationary Spiral: 物价持续下跌与经济活动紧缩相互作用，形成恶性循环的现象），它将不断自我加强，形成恶性循环，直至通缩的尽头。通缩的最终结局将在稍后揭示。

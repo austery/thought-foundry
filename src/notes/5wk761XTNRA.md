@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Nvidia
@@ -23,10 +23,7 @@ products_models:
 - CPU
 - CUDA
 - AlexNet
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5wk761XTNRA
 speaker: 美投讲美股
@@ -40,7 +37,6 @@ tags:
 - transformation
 title: 深度解析黄仁勋：英伟达成功的关键人格特质与投资价值
 ---
-
 ## 引言：投资英伟达，就是投资黄仁勋
 
 你知道吗，投资英伟达，你有一半的价值，其实都给到了黄仁勋这个人。黄仁勋执掌英伟达32年，这在CEO更迭频繁的硅谷堪称神话。因此，英伟达这家公司也深深烙下了黄仁勋的烙印。

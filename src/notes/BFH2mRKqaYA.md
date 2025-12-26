@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -25,9 +25,7 @@ people:
 - Hillary Clinton
 - Donald Trump
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BFH2mRKqaYA
 speaker: Norges Bank Investment Management
@@ -41,7 +39,6 @@ tags:
 - risk-management
 title: 霍华德·马克斯论投资哲学：市场效率、宏观预测与风险管理
 ---
-
 ### 开篇致辞与投资哲学引言
 
 非常感谢格雷格（Greg）今天与我们分享他的知识，也感谢尼古拉（Nikolai）和挪威银行投资管理公司（**Norges Bank Investment Management**：挪威主权财富基金的管理者）今天举办这次活动。当我有机会讨论投资哲学时，我说没有比这更好的方式来度过我的生日了。

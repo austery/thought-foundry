@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -43,10 +43,7 @@ products_models:
 - FSD
 - Optimus
 - Robotaxi
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Pe9p55JoX_4
 speaker: 小翠時政財經
@@ -60,7 +57,6 @@ tags:
 - us-election-2024
 title: 黄金、美股财报与全球地缘政治：2025年10月22日小翠时政财经深度解析
 ---
-
 ### 引言：频道定位与投资理念
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月22日。昨天黄金出现了一些波动，引来了一些不太礼貌的言论，所以今天我特意穿上“皇上”皮肤，希望能够“辟邪”。

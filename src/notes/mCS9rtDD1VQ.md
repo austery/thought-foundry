@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 路透社
@@ -20,9 +20,7 @@ media_books:
 people:
 - Donald Trump
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mCS9rtDD1VQ
 speaker: 政經孫老師
@@ -36,7 +34,6 @@ tags:
 - power
 title: 双重周期来临：2030年或成最重要年份，动荡与冲突或成未来关键词
 ---
-
 ### 经济与政治的双重周期
 
 稻盛佬：今天我们来说一说双重周期。那么这个频道呢，经常讨论一些政治经济的话题。讨论政治经济话题，就离不开周期这个角度。经济有经济的周期，政治也有政治的周期。那么今天这期节目呢，我们就集中讨论，用周期的观点来讲一讲未来的趋势。

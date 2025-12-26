@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -17,8 +17,7 @@ media_books:
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=khYzxCXaoFY
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -32,7 +31,6 @@ tags:
 - wellness-tip
 title: 胡乃文醫師談中醫穴位養生：助眠、減重、降血壓與更多日常保健
 ---
-
 ### 中西醫觀點的交會：從神經學與筋膜學看穴位
 
 **宋晏仁醫師:** 嗨，大家好，我是宋晏仁醫師，歡迎您來到初日會客室。我們頻道很少邀訪中醫師，但是中醫師有很多的觀念跟我們自然療法其實有很多相同之處。所以今天為您邀訪的是胡乃文醫師。胡醫師你好。

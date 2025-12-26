@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -63,10 +63,7 @@ products_models:
 - Grok
 - Google TPU
 - FSD
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=49u9cMwrKao
 speaker: Amit Kukreja
@@ -80,7 +77,6 @@ tags:
 - us-china-relations
 title: 美联储降息信号提振市场，特朗普AI行政令与亚马逊巨额投资共推科技股反弹
 ---
-
 ### 市场迎来久违大涨，科技股全线飘红
 
 大家好，欢迎回来。我们经历了几天，毫不夸张地说，市场一片惨淡。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-06-25'
@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8merMt8urHM
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-stock-market
 title: 美股市场回顾与投资策略：鲍威尔降息信号、苹果加仓及宏观经济洞察
 ---
-
 ### 市场概览与本期重点
 
 各位观众大家好，欢迎来到专业美股频道。我是市场分析员小涛。过去一周，整个市场表现良好。本期节目将主要更新鲍威尔的听证会内容，分享我近期的一些操作，包括周二盘后的一个操作。同时，我们将讨论近期热门个股**Circle**（Circle Internet Financial: 一家全球金融科技公司，主要发行稳定币USDC），其在周二大幅下跌后，从技术角度看是否存在买点及具体位置。最后，我们将通过周二盘后发布财报的**FedEx**（联邦快递: 美国一家全球性的快递运输公司）来共同关注宏观经济环境。

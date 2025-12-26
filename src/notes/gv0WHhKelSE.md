@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-07-31'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gv0WHhKelSE
 speaker: Anthropic
@@ -24,7 +23,6 @@ tags:
 - developer-tool
 title: Claude Code：工作原理、应用场景与高效使用技巧
 ---
-
 ### 引言与个人经历
 
 Let's get started. Welcome everyone to Claude Code best practices. In this talk, I'm going to talk about what Claude Code is at a high level.

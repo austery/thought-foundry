@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4T-vmE6KJac
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - us-stock-market
 title: 美股泡沫与应对策略：宏观数据、财报及苹果案例分析
 ---
-
 ### 上周市场回顾与资产表现
 
 大家好，我是市场分析员小涛。本期内容将首先快速总结上周的市场走势、市场参与度以及第二季度财报的表现，随后对本周的宏观数据和公司财报进行展望。

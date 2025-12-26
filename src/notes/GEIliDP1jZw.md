@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 纽约大学
@@ -23,10 +23,7 @@ people:
 - 伽利略
 - 维特根斯坦
 products_models: []
-project:
-- systems-thinking
-- knowledge-pipeline
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GEIliDP1jZw
 speaker: 大问题Dialectic
@@ -39,7 +36,6 @@ tags:
 - philosophy
 title: 哲学是一门真学问吗？一场关于知识、进步与共识的思辨
 ---
-
 ### 哲学：一门“真学问”的审视
 
 本期节目将探讨一个核心问题：哲学是否是一门**真学问**（True Discipline: 指能够产生确定知识并持续进步的学问）？哲学似乎从未产生过任何确定知识，因为它作为一门学科，从未提供过任何确定的正确答案。对于任何重大的哲学问题，哲学家们总是争论不休，这种状况自三千年前便已开始，哲学从未产出过任何确定的知识。试问，我们能说出任何一条确定的哲学知识吗？

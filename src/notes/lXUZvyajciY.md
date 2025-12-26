@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -35,9 +35,7 @@ products_models:
 - InstructGPT
 - PyTorch
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 source: https://www.youtube.com/watch?v=lXUZvyajciY
 speaker: Dwarkesh Patel
 summary: 著名AI研究员Andrej Karpathy深入探讨了为什么他认为通用人工智能（AGI）的实现需要一个“智能体的十年”，而非“智能体之年”。他剖析了当前大型语言模型（LLM）存在的认知缺陷、对强化学习（RL）的深刻批判（“像通过吸管吸取监督信号”），并类比自动驾驶的“九的征程”来说明产品化的艰巨。Karpathy还分享了他从零构建nanochat的经验，对AI是否会引发经济爆炸性增长提出了质疑，并阐述了他创办教育项目Eureka的初衷——在AI时代提升人类自身的能力。
@@ -50,7 +48,6 @@ tags:
 - reinforcement-learning-limit
 title: Andrej Karpathy：为什么这是“智能体的十年”，而非“智能体之年”？
 ---
-
 ### 智能体的十年，而非一年
 
 **Interviewer:** 今天我与 Andrej Karpathy 对话。Andrej，你为什么说这将是“智能体的十年”，而不是“智能体之年”？

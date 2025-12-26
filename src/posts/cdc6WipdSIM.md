@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 author: Lei
 category: psychology
 companies_orgs:
@@ -37,9 +37,7 @@ people:
 - 王阳明
 products_models:
 - ChatGPT
-project:
-- personal-growth-lab
-- knowledge-pipeline
+project: []
 source: https://www.youtube.com/watch?v=cdc6WipdSIM
 speaker: 一口新饭读书会
 summary: 本次社区读书会汇集了处于人生不同阶段的成员。从大一新生Allen立志进入麦肯锡的“输出倒逼输入”法，到职场人Panpan和Xuan探索副业与自由职业的转型，再到张老师引用的《From
@@ -52,7 +50,6 @@ tags:
 - wealth
 title: 20251116「温故知新」月中读书会
 ---
-
 Ray: Hello. Hello, Alan. 哎，可以把En也邀请上来。好，对，好像突然放春节序曲啊？哎，等一下。Allen可以邀请一下。哎，Hello hello，邀请哦。Hello Allen，你是新人，对，应该是Hello。嗯，Hello hello，第一次见，好清秀。
 
 Allen: 哎呀，待会儿介绍一下自己啊，有点那个不敢相信的感觉。就是我超……我是Ray的小粉丝，但是就非常非常喜欢Ray的各种影片。然后Ray跟张修修说那个Pa（注：指Paul Millerd，**《The Pathless Path》**作者），我听超多遍，十几遍。对。然后我就反正我就很喜欢，所以我现在有点不真实。因为太……所以现在也很激动。对对对对。好，那我自我介绍一下，就是……

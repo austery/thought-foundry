@@ -21,10 +21,7 @@ people:
 - Kamala Harris
 - Barack Obama
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qkHLrIxXZls
 speaker: 北美王路飞
@@ -37,7 +34,6 @@ tags:
 - us-election-2024
 title: 梦游走向灾难：复盘拜登2024竞选的致命缺陷
 ---
-
 ### 序言：一场“梦游”般的连任之路
 
 大家好，欢迎来到我的频道。今天我们继续探讨《2024》这本书的新一集节目。上一集我们聊了特朗普如何击败党内竞争对手德桑蒂斯，那么今天，我们将聚焦民主党这边的故事。民主党最大的热门候选人无疑是当时的美国现任总统拜登。他的竞选连任，照理说应该是万众瞩目，但实际上，如果大家记得的话，拜登2024年的连任之路从一开始就不是一个深思熟虑的决定，按照作者的说法，更像是一场“**梦游**”（sleepwalking）。

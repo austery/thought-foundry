@@ -10,8 +10,7 @@ insight: null
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- us-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -20,7 +19,6 @@ tags:
 - 美国
 title: 法庭风云：丁胖子金牌讲师背后的举报与政庇内幕
 ---
-
 **讲述者简介：**本期节目邀请了在美国东部创业多年的华人刘索隆，与主持人王路飞一同探讨近期备受关注的“丁胖子金牌讲师”事件，并深入揭示了美国中餐馆行业中劳工举报、无证移民以及政治庇护申请等复杂现实。
 
 总字数：约 11,500 字  

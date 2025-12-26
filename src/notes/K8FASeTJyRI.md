@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Robinhood
@@ -140,9 +140,7 @@ products_models:
 - ChatGPT
 - Grok
 - Ozempic
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K8FASeTJyRI
 speaker: Amit Kukreja
@@ -156,7 +154,6 @@ tags:
 - technology
 title: Robinhood财报惊艳但市场为何抛售？深入解读财报季与宏观逆风
 ---
-
 ### 本周市场速览与宏观动态
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是11月6日，星期四，我们正在直播。在我看来，这周过得非常快。其他人有同感吗？上周感觉像过了一年，可能是因为事情太多了。真不敢相信已经是周四了，明天就是周五，一周又要结束了。

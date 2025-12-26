@@ -13,10 +13,7 @@ media_books:
 - 《债务危机》
 - 《浅析日本失去的30年》
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZQkiAEflp2c
 speaker: 海淀拙大叔
@@ -30,7 +27,6 @@ tags:
 - zombie-company
 title: 中国与日本“失去的三十年”：基于资产负债表衰退理论的政策比较与启示
 ---
-
 ### 引言：中日经济停滞的异同与政策选择
 
 在《查甘经济宏观论》第13集中，我们将探讨中国与日本“失去的三十年”有何不同，并深入分析**资产负债表衰退理论**（Balance Sheet Recession Theory: 资产泡沫破灭后，企业和家庭部门因资产价值缩水而专注于还债，抑制投资和消费，导致经济长期停滞的现象）。本集旨在回应用户游梦的疑问：中国是否会像日本一样，经历“失去的三十年”？

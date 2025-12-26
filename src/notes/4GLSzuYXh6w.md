@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Microsoft
@@ -37,8 +37,7 @@ products_models:
 - SharePoint
 - Sora
 - Xbox
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4GLSzuYXh6w
 speaker: Dwarkesh Patel
@@ -51,7 +50,6 @@ tags:
 - quantum-computing
 title: 微软CEO萨提亚·纳德拉：AI战略、量子计算突破与企业文化的长青之道
 ---
-
 ### 科技浪潮的轮回与微软的早期布局
 
 **Dwarkesh**，非常感谢你来参加我的播客。稍后我们将讨论**微软**刚刚取得的两项突破，恭喜你们，这两项成果在同一天发表于《**自然**》杂志：一个是**Majorana零模芯片**，就在我们面前，另一个是世界人类行为模型。但我们能否先继续刚才的对话？你正在描述你在80年代和90年代看到的一些现象，如今它们又再次出现。

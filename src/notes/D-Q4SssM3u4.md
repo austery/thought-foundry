@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - WTO
@@ -19,10 +19,7 @@ people:
 - 罗斯福
 - 特朗普
 products_models: []
-project:
-- systems-thinking
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=D-Q4SssM3u4
 speaker: 超級歪 SuperY
@@ -37,7 +34,6 @@ tags:
 - wealth-inequality
 title: 愤怒经济学：解析资本主义百年危机与社会愤怒的根源
 ---
-
 ### 引言：台湾贫富差距与全球愤怒经济学
 
 今年四月，主计总处发布了台湾最新的贫富差距统计数据。根据中华民国110年家庭财富分配统计，前20%家庭的财富约为5133万元，而末20%家庭的财富仅约77万元，贫富差距高达66.9倍。过去40年来，全球各国GDP持续增长，但许多人却感觉生活品质下降，贫富差距不断扩大，政客也不听取民意，这导致全球各地民众怒火中烧，示威游行，并试图通过选票来罢免某些政党。为什么国家越来越富裕，人们的生活却越来越艰难呢？

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 companies_orgs: []
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - Interviewer
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: null
 speaker: ''
@@ -27,7 +26,6 @@ tags:
 - viewpoint-diversity
 title: The College Crisis - Dartmouth & Berkeley Heads on the Future of US Universities
 ---
-
 ### Introduction
 
 Interviewer: Ladies and gentlemen, please welcome Berkeley Chancellor Rich Lyons and Dartmouth President Sian Beilock.

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CBC
@@ -16,10 +16,7 @@ people:
 - Donald Trump
 products_models:
 - F-35戰鬥機
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Lk4V2-zaDi4
 speaker: 莊也雜談
@@ -33,7 +30,6 @@ tags:
 - public-opinion-critique
 title: 加拿大联邦大选前瞻：自由党与保守党政策对比及AI民调解读
 ---
-
 ### 加拿大联邦大选：两党政策深度对比与选情分析
 
 大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们继续聊加拿大大选。上集咱们谈到了自由党和保守党在降低生活成本、降低房价、移民政策、经济发展、支持工作和就业、对美关税政策以及给加拿大民众减税等多个方面的政策和承诺对比。今天咱们紧接上集，继续收集整理两党最新的施政纲领和政策。

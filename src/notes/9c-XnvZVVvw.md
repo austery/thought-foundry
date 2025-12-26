@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-08-14'
 draft: true
@@ -8,10 +8,7 @@ insight: ''
 layout: post.njk
 media_books:
 - The Last Economy
-project:
-- us-analysis
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9c-XnvZVVvw
 speaker: 一席YiXi
@@ -25,7 +22,6 @@ tags:
 - technology
 title: 将电力革命带到非洲农村：一位澳大利亚女性的电动三轮车创业故事
 ---
-
 ### 从水桶到三轮车：一位澳大利亚女性的非洲觉醒
 
 我的名字是珊塔·布洛门，我是“非洲出行”这家初创公司的创始人兼首席执行官。我们在津巴布韦和南部非洲工作，致力于将中国的“沙勒姆”电动三轮车改造为适合非洲农村小农的坚固电动三轮车。正如你们从我的口音中能听出，我不是非洲人——我出生在澳大利亚。我对非洲的连接始于大学时期，那时我学习非洲历史。毕业后，我不想再停留在书本上，于是前往赞比亚北部做志愿者。

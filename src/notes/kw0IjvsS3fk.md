@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Pew Research Center
@@ -12,10 +12,7 @@ layout: post.njk
 people:
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kw0IjvsS3fk
 speaker: New York Times Podcasts
@@ -29,7 +26,6 @@ tags:
 - social
 title: 澳大利亚首禁16岁以下青少年使用社交媒体：全球首例与后续影响
 ---
-
 ### 澳大利亚出台全球首个青少年社交媒体禁令
 
 来自《纽约时报》，这是今日头条新闻。我是特蕾西·姆姆福德（Tracy Mumford）。

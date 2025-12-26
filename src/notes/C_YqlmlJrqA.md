@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OpenAI
@@ -36,10 +36,7 @@ products_models:
 - Google Drive
 - Taobao
 - 高德地图
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C_YqlmlJrqA
 speaker: 人民公園說AI
@@ -54,7 +51,6 @@ tags:
 - tech
 title: OpenAI发布Atlas浏览器：中美科技巨头AI入口之争与生态战略
 ---
-
 ### AI时代的浏览器之战与入口争夺
 
 回溯至2000年，那是一个浏览器大战的时代。如今，OpenAI发布了Atlas浏览器，这似乎预示着在AI Agent时代，浏览器再次成为科技巨头争夺的焦点。尽管Atlas产品本身并未带来太多惊艳，但其背后抢占AI入口的野心显而易见。这不禁让人思考，或许硅谷的公司可以借鉴中国大厂在抢占入口方面的经验。例如，阿里巴巴旗下的夸克PC端在一年内实现了**DAU**（日活跃用户: Daily Active Users的缩写，衡量产品每天独立用户数量的指标）10倍的增长，这在中国市场是独有的现象。

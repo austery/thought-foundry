@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-17'
@@ -10,11 +10,7 @@ layout: post.njk
 people:
 - amit-kukreja
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RXi5dH6gyV4
 speaker: Amit Kukreja
@@ -29,7 +25,6 @@ tags:
 - regional-bank
 title: 区域银行、对华关税与市场波动：早盘分析
 ---
-
 ### 早盘市场剧烈波动
 
 Good morning everybody. Welcome back to another episode of the market open.

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 date: '2025-03-15'
 draft: true
@@ -13,10 +13,7 @@ people:
 - Leo Tolstoy
 - Jean-Paul Sartre
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=poAObdArM7c
 speaker: Anthony看世界
@@ -29,7 +26,6 @@ tags:
 - self-awareness
 title: 存在主义与意义危机：为何深刻之人更易抑郁？
 ---
-
 ### 频道核心议题：由无意义感引发的抑郁
 
 大家好，我是Anthony，欢迎来到我的频道。

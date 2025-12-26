@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Tesla
@@ -24,10 +24,7 @@ products_models:
 - Powerwall
 - Megapack
 - FSD
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=paTsMf1q0Q4
 speaker: 海伦子Hellen
@@ -41,7 +38,6 @@ tags:
 - us-china-relations
 title: 特斯拉的两个黄金时代：从能源到AI，Robotaxi的中国机遇与挑战
 ---
-
 大家好，我是Hellen。今天这个视频想跟大家聊一聊特斯拉的两个爆发期，以及网友们针对**Robotaxi**（机器人出租车: 一种无人驾驶的自动驾驶车辆，提供按需出行服务）提出的比较多的一些问题，包括如何面对中国市场的竞争，以及中国车主们能否也加入到Robotaxi车队等等。
 
 Elon Musk在去年第一季度的财报会议上曾说过一句话：“如果你不认为特斯拉可以实现完全自动驾驶，你就不应该成为它的投资者。”这句话我印象很深，也非常的认同。我把这句话发上X的时候，就有网友评论说，这个“它”不仅仅是指的Full Self-Driving（FSD），也可以是Optimus机器人。上周六，特斯拉实现了他的第一个**Fully Auto Delivery**（全自动交付: 指车辆在没有人类监督员的情况下，完全依靠自身系统完成从起点到终点的驾驶任务）。这是一辆Model 3自己开了30分钟的车，开到车主的家，没有安全监督员，没有跟车，没有保护车，完全依靠自身系统。如果今年以内，特斯拉的Robotaxi可以扩展到除了奥斯汀以外的其他城市、其他的州，并且没有重大的事故，那完全自动驾驶和Robotaxi就会像野火一样朝更大的范围散开。

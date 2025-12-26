@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - OpenAI
@@ -18,9 +18,7 @@ people:
 - Sam Altman
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F5ajyr5VzS0
 speaker: Internet of Bugs
@@ -34,7 +32,6 @@ tags:
 - technological
 title: AI定义之惑：企业如何利用模糊概念误导大众
 ---
-
 ### 引言：AI定义的困境与企业的利用
 
 “人工智能”（**AI**：Artificial Intelligence，指由机器展现出的智能）存在一个大问题，那就是“AI”这个词本身。无论是缩写还是“人工智能”这个全称，它都存在问题。这并不是说它没有定义，而是说它有非常多的定义，而当前的AI从业者们正在利用这一点。

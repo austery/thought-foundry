@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Klarna
@@ -19,9 +19,7 @@ media_books:
 - Reddit
 - Blind
 products_models: []
-project:
-- market-cycles
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Qxj1a1XQ5Qo
 speaker: TechButMakeItReal
@@ -35,7 +33,6 @@ tags:
 - tech
 title: 德国科技行业震荡：工程强国的人才流失与市场停滞
 ---
-
 ### 德国科技人才流失与经济停滞
 
 德国，这个汽车工业的强国、欧洲的工程奇迹，正以惊人的速度流失科技人才。当社交媒体关注美国科技公司裁员时，德国仅在2024年就失去了超过12,000个工作岗位。欧洲的经济引擎正在停滞，制造业已连续两年下滑。那么，究竟发生了什么？为什么人才正涌向东方和南方？最重要的是，这对当今的科技职业意味着什么？

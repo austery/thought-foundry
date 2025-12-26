@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - KiwiCo
@@ -14,9 +14,7 @@ people:
 - Albert Einstein
 - Destin Sandlin
 - Mark
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pTn6Ewhb27k
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - speed-of-light
 title: 为何我们从未真正测量过单向光速？
 ---
-
 ### 引言：光速测量的悖论
 
 这段视频由KiwiCo赞助，更多信息将在节目末尾介绍。

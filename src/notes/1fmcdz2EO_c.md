@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - John Schulman
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1fmcdz2EO_c
 speaker: Dwarkesh Patel
@@ -25,7 +24,6 @@ tags:
 - long
 title: 2025年AI模型将成为同事而非搜索引擎：OpenAI联合创始人John Schulman的观点
 ---
-
 ### AI 模型将承担复杂项目
 
 一到两年内，我们会发现模型能处理比现在多得多的复杂任务。**你可以想象让模型完成一个完整的编码项目，而不是仅仅给你一个编写函数的建议。** 你可以想象给模型高层级的指令，告诉它要编写什么代码，它就会去编写多个文件，进行测试，查看输出，并进行一些迭代。这意味着更复杂的任务，**从一次性的查询（比如将模型用作更智能的搜索引擎）转向与模型协作完成整个项目。** 根本上，**突破点在于它能够足够长时间地保持连贯性，以编写多个代码文件。**

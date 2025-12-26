@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - G20
@@ -33,10 +33,7 @@ people:
 - 华国锋
 products_models:
 - Telegram
-project:
-- china-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_qqkoiAtT6E
 speaker: 东京人文论坛
@@ -49,7 +46,6 @@ tags:
 - social
 title: 中国转型的千万细节：从最坏情景到权力制约的可能路径
 ---
-
 ### 设想最坏情景：中国会成为“西朝鲜”吗？
 
 我们来设想一下中国转型最糟的情况是什么。最糟的情况并非是从农村地区搞公有制经济，如果真到那种地步，就如许成刚所说，中国可能走入**集权式纳粹主义**（Totalitarian Nazism: 一种结合了极权统治和极端民族主义的政治形态）。也就是说，我们不再追求成为正常国家，彻底不搞市场经济，效仿朝鲜，甚至关闭互联网。

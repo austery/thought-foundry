@@ -10,9 +10,7 @@ layout: post.njk
 people:
 - peter-santenello
 products_models: []
-project:
-- historical-insights
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yvNO0QDwq1A
 speaker: Peter Santenello
@@ -25,7 +23,6 @@ tags:
 - society
 title: 纽约市的腐败：历史、演变与现代挑战
 ---
-
 ### 纽约的诞生：腐败与进步的交织
 
 In the great city of New York, Benjamin thanks for meeting up. -It's good to be back. -Yeah right. -DC, Chicago, New York. -Yeah. New York is the city that invented grifting. It invented corruption. But what separates it from Chicago it could stare itself in the face with sobriety and say we can do better. It both invents the greatest corruption, the worst, the smartest forms, but then it figures out ways to improve it and to make this city really run. So we'll start in 1870s, we'll go to the 1970s, and we'll go to today.

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 date: '2025-10-08'
 draft: true
@@ -7,9 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- entrepreneurship
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=npVZsYaoJs0
 speaker: Norges Bank Investment Management
@@ -23,7 +21,6 @@ tags:
 - investment
 title: Nubank 创始人 David Vélez：从零到拉美金融科技巨头的创业之路
 ---
-
 ### 童年经历与创业基因
 
 Hi everyone, I'm Nicolola Tangian the CEO of the Norwegian so wealth fund and today I'm joined by a true fintech pioneer who has transformed banking in Latin America. David is the co-founder and CEO of New Bank, one of the world's largest digital banks, serving something like nearly 120 million customers in Brazil, Mexico and Colombia. And under David's leadership, New Bank has grown from a startup uh to one of the most valuable banks in the region. So David, a warm welcome.

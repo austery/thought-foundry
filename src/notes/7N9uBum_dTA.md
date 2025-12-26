@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - MI6
@@ -19,10 +19,7 @@ people:
 - Volodymyr Zelenskyy
 - Donald Trump
 products_models: []
-project:
-- geopolitics-watch
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7N9uBum_dTA
 speaker: 北美王路飞
@@ -36,7 +33,6 @@ tags:
 - uk-foreign-policy
 title: 英国军情六处前局长理查德·摩尔的卸任告白：一个间谍眼中的无序世界
 ---
-
 ### 真实世界中的“M”：一位MI6局长的罕见告白
 
 你有没有想过，真实世界的詹姆斯·邦德老板，那个代号“M”的人究竟长什么样子？在伊恩·弗莱明的小说里，他是一个冷酷的操盘手。但在现实的英国军情六处，也就是我们熟知的**MI6**（Secret Intelligence Service: 英国秘密情报局，负责海外情报收集），这个位置上的人只有一个代号“C”。近40年来，只有**C**（Chief: 英国秘密情报局局长，代号）的名字是可以公开被讨论的。就在几周前，一位刚刚卸任的“C”理查德·摩尔走出了阴影，接受了一次罕见的深度采访。他穿过伦敦的人群，没有阿斯顿·马丁，没有美女相伴，甚至连门口的接待员都没有认出他来，他就那样滑了进来。今天我们不讲电影，我们要借着这位刚刚退休的顶级间谍的眼睛，去看看我们当下这个他口中“电车轨道已经消失”的极度危险的世界。这不是一个关于无所不能的故事，这是一个关于脆弱、混乱和艰难抉择的故事。

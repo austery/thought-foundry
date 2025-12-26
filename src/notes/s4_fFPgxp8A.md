@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 腾讯
@@ -17,10 +17,7 @@ media_books:
 - 《复仇者联盟》
 people:
 - Donald Trump
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=s4_fFPgxp8A
 speaker: 張内咸
@@ -34,7 +31,6 @@ tags:
 - political
 title: 中美宣传战中的文化与官僚困境：从“不跪”到CIA招聘的荒诞剧
 ---
-
 ### 中美宣传“翻车”：从《不跪》到CIA招聘的荒诞剧
 
 大家好，我是张内咸，又见面了。刚才大家看到的就是外交部发布的那支著名影片《不跪》。上周发布出来以后，所有人都看傻了。最开始网友以为是哪个爱国自媒体做的，因为影片质量看起来像是B站UP主自制的，不像是官方做的宣传片。大家还在想：“外交部应该只是转发了一下吧？”后来外交部认真地把这条影片发布以后，网友认真地看了半天，发现这个东西还真的是外交部自己做的片子。别说海外的华人了，中国人自己也觉得很尴尬。外交部发完这条微博以后，自己还以为挺帅气的，没想到“翻车”了，被网友群嘲，各种批评的声音铺天盖地就涌过来了。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-08'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VWmdVwydrDo
 speaker: Bloomberg Podcasts
@@ -25,7 +23,6 @@ tags:
 - reform
 title: 法国资产前景不明朗：投资者的风险规避策略
 ---
-
 ### 法国政治局势分析
 
 Bloomberg

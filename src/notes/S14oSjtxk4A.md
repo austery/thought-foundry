@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Pepsi
@@ -28,10 +28,7 @@ products_models:
 - TikTok
 - YouTube
 - Twitter
-project:
-- entrepreneurship
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S14oSjtxk4A
 speaker: Harvard Business Review
@@ -45,7 +42,6 @@ tags:
 - strategy
 title: 吉米·法伦与博佐玛·圣约翰：如何在瞬息万变的时代打造受人喜爱的品牌
 ---
-
 ### 捕捉瞬息万变的注意力
 
 **ALISON BEARD:** 娱乐、媒体和营销行业自你们二位开始职业生涯以来，已经发生了巨大的变化。

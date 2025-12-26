@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中共中央
@@ -17,10 +17,7 @@ people:
 - Harry S. Truman
 - Lin Biao
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7i84z8uZCqs
 speaker: 柴静 Chai Jing
@@ -34,7 +31,6 @@ tags:
 - war
 title: 朝鲜战争的起源：斯大林为何点头，毛泽东为何出兵？
 ---
-
 ### 斯大林为何同意发动战争：失去东北，着眼朝鲜
 
 根据目前已经披露的档案材料，朝鲜战争起源的过程已经比较清楚。如果不是斯大林批准金日成采取军事行动，朝鲜战争是不可能爆发的。因此，关键环节在于斯大林为何要批准金日成的这次行动。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-09-25'
@@ -17,10 +17,7 @@ people:
 - Confucius
 - John Rawls
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NCysqVNCXFQ
 speaker: 大问题Dialectic
@@ -33,7 +30,6 @@ tags:
 - social
 title: 统治者必须向民众撒谎吗？柏拉图的“高贵的谎言”理论解析
 ---
-
 ### 柏拉图的“高贵的谎言”：维护社会秩序的必要之恶？
 
 统治者为了维护国家的秩序，必须向民众撒谎吗？古希腊哲学家**柏拉图**（Plato: 古希腊哲学家，西方哲学奠基人之一，其思想对西方文化产生了深远影响）认为，是的，统治者必须撒谎。在《100个哲学大概念开悟人生》系列中，我们今天要探讨的核心哲学概念是：人类社会的秩序究竟靠什么维系？为什么各个阶层的人能够在同一个国家中自觉自愿地合作，而不是各自为政，甚至彼此间大动干戈呢？

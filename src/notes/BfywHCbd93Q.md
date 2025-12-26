@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - APEC
@@ -27,10 +27,7 @@ people:
 - Xi Jinping
 products_models:
 - Tesla
-project:
-- china-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BfywHCbd93Q
 speaker: FearNation 世界苦茶
@@ -44,7 +41,6 @@ tags:
 - social-inequality
 title: 外强中干？深度解析中国经济「面子」背后的残酷真相与结构性挑战
 ---
-
 本期“世界苦茶观察线”节目汇总了全球智库与国际媒体对中国问题的深度分析，内容由AI制作。本期节目精选了全世界对中国经济困境正在加深等内容的分析。
 
 ### 韩国新总统的实用主义外交：在高风险中寻求高回报

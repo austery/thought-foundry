@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 初日診所
@@ -16,8 +16,7 @@ people:
 products_models:
 - MBTI
 - InBody
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IR-6udcd0Ko
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -30,7 +29,6 @@ tags:
 - weight-management
 title: MBTI人格类型与个性化减重策略：解锁你的健康之路
 ---
-
 ### 了解你的个性：MBTI与减重动力
 
 **雪力老師:** **TJ**（Thinking-Judging，思维-判断）类型的人，其动力来自于明确知道付出后会有相应的回报。然而，对TJ类型而言，最难以接受的是付出了80%的努力，却只看到20%的成效。因此，TJ类型的人在**更年期**（Menopause: 女性生理周期停止的阶段，常伴随荷尔蒙变化）时，可能会遇到像我这样的状况，即自暴自弃。因为他们会觉得：“我都已经这样做了，以前这样做马上就瘦下来了，但现在却瘦不下来，那到底是怎么回事？我何必还要再尝试？”

@@ -16,10 +16,8 @@ insight: ''
 draft: true
 series: ''
 category: work-related
-area: tech-work
-project:
-  - china-analysis
-  - us-analysis
+area: "work-career"
+project: []
 people:
   - 徐宏杰
   - 恩里科·费米

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中科院
@@ -20,10 +20,7 @@ people:
 - 胡锡进
 - 顾准
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FQtcnW939Ck
 speaker: 柴静 Chai Jing
@@ -38,7 +35,6 @@ tags:
 - right
 title: 柴静谈新闻调查：真相、公信力与公民权利的坚守
 ---
-
 ### 媒体的责任与公信力挑战
 
 《看见》节目播出后，我看到很多观众留言，希望我能够关注罗帅的案件。我看了一下官方的调查报告，公布了不少信息，但是之后家属和公众仍有疑问。对此，《环球时报》的原总编胡锡进先生说，呼吁大家对官方结论抱以信任。他说，否则的话，我们的理性将会失去最基本的支撑点。

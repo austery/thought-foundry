@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Microsoft
@@ -19,8 +19,7 @@ people:
 products_models:
 - H100
 - GB200
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J7yvSkIOZLw
 speaker: Dwarkesh Patel
@@ -33,7 +32,6 @@ tags:
 - technology
 title: AI算力竞赛：微软与OpenAI的百亿级数据中心扩张与未来展望
 ---
-
 ### 训练新范式
 
 You could imagine that the training regime becomes much more paralyzable, where most of the compute for training is used to come up with synthetic data or do some kind of search. And that can happen across a wide area. You have synthetic data, you have this search stuff, you have all these post-training techniques, you have all these ways to soak up **FLOPs** (Floating Point Operations Per Second: 每秒浮点运算次数，衡量计算能力的指标), or you just figure out how to train across multiple data centers.

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -54,10 +54,7 @@ products_models:
 - S&P 500
 - NASDAQ
 - VIX
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JjYho9o6ciI
 speaker: Amit Kukreja
@@ -72,7 +69,6 @@ tags:
 - technical-analysis
 title: 谷歌Gemini 3惊艳亮相，市场回调是健康调整还是泡沫预警？
 ---
-
 ### 市场收盘概览：震荡中收跌
 
 大家好，欢迎回到新一期的市场收盘直播。我们面临着各种新闻头条的来回冲击。大约20分钟后，Jason会加入我们进行“技术分析星期二”环节，届时他将从技术角度为我们带来所有最新动态。

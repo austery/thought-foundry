@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -14,8 +14,7 @@ media_books:
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JJe3t3eaz64
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -32,7 +31,6 @@ tags:
 - weight-management
 title: 足踝專家朱家宏醫師：現代人腳痛，多是被鞋子與錯誤習慣所害！
 ---
-
 ### 引言：足踝健康的重要性與現代挑戰
 
 宋晏仁宋醫師: 嗨，大家好，我是宋晏仁宋醫師，歡迎來到《初日會客室》。今天為您邀訪的是一個非常少見的專業，但是是大家常碰到的問題。這意思就是說，大家在常碰到的問題裡面，卻找不到真正的專業。所以我們今天為您介紹的是足踝外科的中部大山頭，朱家宏朱醫師。朱醫師你好。

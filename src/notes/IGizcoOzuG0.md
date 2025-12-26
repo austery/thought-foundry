@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Meta
@@ -28,10 +28,7 @@ products_models:
 - iOS
 - Vision Pro
 - Unity引擎
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IGizcoOzuG0
 speaker: Peter Pang
@@ -45,7 +42,6 @@ tags:
 - tech
 title: 元宇宙的幽默与滑稽：一场科技泡沫的兴衰与AR/VR技术的困境
 ---
-
 ### 元宇宙的诞生与消亡：一场科技泡沫的审视
 
 大数据虽然死了，但它留下了丰厚的技术遗产和商业模式。区块链虽然死了，但它的尸体还能养活很多黑色产业。而同样是世界级的技术热潮，在它们之后出现的**元宇宙**（Metaverse: 一个虚拟的、持久的、共享的3D数字空间，用户可以通过虚拟现实和增强现实技术进行交互）却像个小丑，它莫名其妙地出生，然后又稀里糊涂地去世。它的一生很短暂，但也还是有不少可以讨论的地方。它为何而生，为何而死？它背后的技术又有什么样的未来？

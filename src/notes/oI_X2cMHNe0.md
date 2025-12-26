@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Caltech
@@ -14,8 +14,7 @@ people:
 - Derek Muller
 products_models:
 - Brilliant
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oI_X2cMHNe0
 speaker: veritasium
@@ -29,7 +28,6 @@ tags:
 - theory
 title: 电力如何真正运作：Veritasium澄清电路能量传输误解
 ---
-
 ### 澄清电路争议：光速点亮灯泡的真相
 
 我曾制作了一个关于一个巨大电路的视频，其中包含**光秒**（Light-second: 光传播一秒的距离）长的导线，连接到一个距离电池和开关仅一米远的灯泡。

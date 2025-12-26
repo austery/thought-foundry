@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 复旦大学
@@ -18,10 +18,7 @@ people:
 - 泽连斯基
 - 马云
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kIbC33Q6_GY
 speaker: 夸克说
@@ -35,7 +32,6 @@ tags:
 - totalitarianism
 title: 中共党员是汉人吗？深入剖析“共族”理论与中国现状
 ---
-
 ### 中共与中国的捆绑迷思
 
 大家好，欢迎收看夸克说。经常关注的朋友应该都很熟悉**粉红**（Pinkie: 指代中国民族主义网民）和**中共网军**（CCP Cyber Army: 中国共产党控制的网络评论员队伍）的一个话术，那就是把中共和中国捆绑起来。比如，他们在提到爱国和恨国这两个词时，其实就默认了国等于党。任何人一旦批评中共，他们就会给你扣上一个**反华**（Anti-China: 反对中国或中华民族）的帽子，并进一步偷换概念，说你是反对所有的中国人，是种族歧视或者反人类。

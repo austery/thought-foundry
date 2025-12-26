@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国外交部
@@ -31,10 +31,7 @@ people:
 - 赵紫阳
 - 约瑟夫·斯大林
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3tpy178rQy4
 speaker: 柴静 Chai Jing
@@ -48,7 +45,6 @@ tags:
 - political-reform
 title: 邓小平与法拉奇的世纪对话：重评毛泽东、文革与中国未来
 ---
-
 ### 历史的重访：邓小平与法拉奇的对话
 
 2001年，我刚入新闻记者行业时，最早的自学教材是**奥丽亚娜·法拉奇**（Oriana Fallaci: 意大利著名记者、作家，以其尖锐的采访风格闻名）在1980年对邓小平的访问。这个访问的核心是谈毛泽东和**文革**（Cultural Revolution: 中华人民共和国在1966年至1976年间发生的一场政治运动），也谈到了毛泽东和邓小平、周恩来、刘少奇、江青和华国锋的关系。说实话，当时我看的时候只是在学采访的技巧，因为对我来说，毛和他的时代已经成为过去，我和我的国家正在飞速向前。

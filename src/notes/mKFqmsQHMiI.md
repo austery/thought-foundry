@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-10-10'
@@ -14,10 +14,7 @@ people:
 - 伽利略
 - 哥白尼
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mKFqmsQHMiI
 speaker: 大问题Dialectic
@@ -31,7 +28,6 @@ tags:
 - scientific
 title: 奥卡姆剃刀：以简洁逼近真理的哲学原则与实践智慧
 ---
-
 ### 奥卡姆剃刀的起源与核心思想
 
 欢迎来到《100个哲学大概念开悟人生》。今天我们要讲的哲学大概念是**奥卡姆剃刀**（Occam's Razor: 如无必要，勿增实体的思维法则）。我们今天嘴上经常挂着奥卡姆剃刀这个概念，最多使用的场景之一是用它来剔除上帝的存在。殊不知，提出奥卡姆剃刀的**威廉·奥卡姆**本人是一位基督教修士。他提出奥卡姆剃刀，肯定不是用来说上帝不存在的。

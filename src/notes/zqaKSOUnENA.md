@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 date: '2025-09-10'
 draft: true
@@ -14,10 +14,7 @@ people:
 - 宋晏仁
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zqaKSOUnENA
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -31,7 +28,6 @@ tags:
 - mental-health
 title: 曾博恩：AI冲击下的喜剧创作、社会责任与心理韧性
 ---
-
 ### 开场与自我介绍：从神经科学到喜剧舞台
 
 嗨，大家好，我是宋晏仁宋医师，欢迎来到初日会客室。会客室一直希望我们能踏出初日诊所的舒适圈，不只谈肥胖或慢性病。今天，这个脉络可能会有最大的爆发，因为我们请到的名字，我讲出来之后，这个节目很可能就会爆炸——曾博恩。博恩，欢迎你！

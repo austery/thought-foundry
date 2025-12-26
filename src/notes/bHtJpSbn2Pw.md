@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - MicroStrategy
@@ -32,10 +32,7 @@ people:
 products_models:
 - iPhone
 - IBIT
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bHtJpSbn2Pw
 speaker: 投资TALK君
@@ -48,7 +45,6 @@ tags:
 - valuation
 title: 市场回调下的投资策略：为何我选择加仓英特尔并重新审视比特币与MSTR
 ---
-
 ### 周一市场回顾：全面下跌与参与度降温
 
 大家好，今天我们首先对过去的市场走势做一个总结。自从特朗普发币之后，我在比特币和加密货币领域的操作几乎为零，中间只做过两笔山寨币（altcoin）交易。今年的重点几乎全部放在了美股上。

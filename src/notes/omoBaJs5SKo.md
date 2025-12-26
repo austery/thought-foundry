@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日醫學
@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - 李思賢
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=omoBaJs5SKo
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -25,7 +24,6 @@ tags:
 - stress-management
 title: 睡眠專家揭秘：四大NG習慣讓你越睡越累，如何科學改善？
 ---
-
 ### 警惕四大NG睡眠習慣：你今天睡得好嗎？
 
 **李思賢醫師:** 哈囉，大家好，我是思思醫師。你今天睡得好嗎？或許你都覺得你有睡著，睡得很好，但是你是不是常常半夜醒來上廁所，或者是你常常睡到早上，卻發覺沒有睡飽？其實你有睡著，不一定代表睡得好喔。那我們今天很高興歡迎到好夢心理治療所的吳家碩心理師，跟我們一起來聊聊四個容易打擾我們睡眠的NG習慣。這四個NG習慣不只會讓你睡不好，還會影響你的健康喔。

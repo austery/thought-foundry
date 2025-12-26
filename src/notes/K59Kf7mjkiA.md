@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Spotify
@@ -89,9 +89,7 @@ products_models:
 - TikTok
 - Ozempic
 - Cybertruck
-project:
-- investment-strategy
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K59Kf7mjkiA
 speaker: Amit Kukreja
@@ -104,7 +102,6 @@ tags:
 - wealth-management
 title: 说唱歌手24kGoldn的投资组合：从音乐到财富的蜕变
 ---
-
 ### 欢迎24kGoldn：从音乐到投资
 
 **Amit Kukreja:** 大家好，欢迎回到频道。今天我们请到了一位非常特别的嘉宾，美国说唱歌手、杰出艺术家24kGoldn。

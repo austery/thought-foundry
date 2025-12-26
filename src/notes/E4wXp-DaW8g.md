@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Cisco
@@ -44,10 +44,7 @@ products_models:
 - VIX
 - S&P 500
 - Remarkable Paper Pro Move
-project:
-- investment-strategy
-- market-cycles
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=E4wXp-DaW8g
 speaker: The Knowledge Project Podcast
@@ -62,7 +59,6 @@ tags:
 - market
 title: 顶级法务会计师的警告：当前 AI 狂热与未来的市场崩盘
 ---
-
 ### AI 狂热与历史重演的警示
 
 我讨厌把什么都叫做泡沫，但我认为我们正处在一个极度亢奋的时期。当你和投资者交流时，他们会说数字不重要了，财务报表也不重要了，因为“这次不一样”，世界正在被改变。我会说，嗯，我以前见过这种情况。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Salesforce
@@ -22,10 +22,7 @@ products_models:
 - UH-60黑鹰直升机
 - F-22猛禽战机
 - Patriot爱国者导弹系统
-project:
-- us-analysis
-- historical-insights
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UzjFhmsccfA
 speaker: Shijun Tang
@@ -39,7 +36,6 @@ tags:
 - value
 title: 35岁重启人生：从代购到会计师，一位投资者的财富与职业转型之路
 ---
-
 ### 从代购到会计师：35岁的人生重启
 
 我在之前的文章和视频中提到过，我原来其实是做代购的。从2014年开始，一做就是十年。不过在2024年7月，我最终停止了代购生意，关掉了淘宝店，算是为自己的前半生做一个告别，开启下一段新的旅程。

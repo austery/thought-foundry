@@ -12,8 +12,7 @@ people:
 - Ben Horowitz
 products_models:
 - Cybertruck
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tR6g3zrk7eM
 speaker: a16z
@@ -26,7 +25,6 @@ tags:
 - technology
 title: 如何根除犯罪：科技、政策与社区警务的综合策略
 ---
-
 ### 犯罪执法的社会影响
 
 如果不对犯罪进行有效执法，最终会导致几代人的堕落。如果十年后我们发现所做的只是把大量人关进监狱，那实际上是双重糟糕。我们正在浪费人才，这可能是最糟糕的情况。因此，最好的做法是明确表示：“如果你犯罪，你就会被抓。”这会改变社会激励机制和文化。如果一个人可以通过犯罪赚取最低工资的十倍，而且在他所处的社区中，犯罪甚至没有社会污名，反而会受到尊敬，那么犯罪就变得太容易、太普遍了。这对于处于这种境地的人来说，是整个社会的失败。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-05'
 draft: true
@@ -11,9 +11,7 @@ people:
 - 尹锡悦
 - 卢泰愚
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5LNcRetIX_w
 speaker: 郭里有范
@@ -27,7 +25,6 @@ tags:
 - reform
 title: 韩国检察系统权力沉浮：从国民英雄到被“宣判死刑”的78年变革之路
 ---
-
 ### 韩国检察系统的权力怪兽与青瓦台魔咒
 
 韩国的检察官们曾将五位前总统送上法庭，这样的“英雄”形象为何在二十年间逐渐崩塌？废除检察厅，李在明凭什么能完成前几任总统想做却未能成功的事？拆解检察厅，韩国的**青瓦台魔咒**（Blue House Curse: 韩国总统大多没有善终或被清算的现象）就能终结吗？这对韩国的未来是好是坏？今天我们就来聊聊这些话题。

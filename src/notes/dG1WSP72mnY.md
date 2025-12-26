@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -27,10 +27,7 @@ products_models:
 - PC
 - CPU
 - GPU
-project:
-- entrepreneurship
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dG1WSP72mnY
 speaker: Norges Bank Investment Management
@@ -45,7 +42,6 @@ tags:
 - supply-chain-innovation
 title: 戴尔创始人迈克尔·戴尔：从宿舍创业到科技巨头，以及他对AI和未来的看法
 ---
-
 ### 戴尔的创业之路：从好奇心到商业洞察
 
 **Nicola Tangan:** 大家好，我是Nicola Tangan。

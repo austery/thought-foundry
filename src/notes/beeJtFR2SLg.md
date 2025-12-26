@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 特斯拉
@@ -22,10 +22,7 @@ people:
 - Elon Musk
 products_models:
 - EpicGames虚幻引擎
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=beeJtFR2SLg
 speaker: Shijun Tang
@@ -39,7 +36,6 @@ tags:
 - pricing-power
 title: 特斯拉、腾讯与标普全球：三巨头护城河深度对比分析
 ---
-
 ### 特斯拉：交付下滑与护城河的现实困境
 
 特斯拉最近股价单日暴涨14.12%，引发市场关注，许多人开始猜测它是否即将突破历史高点。但要回答这个问题，我们必须回到基本面——**特斯拉**（Tesla, Inc.）究竟是一家什么样的公司？

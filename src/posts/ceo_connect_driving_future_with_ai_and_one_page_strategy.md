@@ -11,8 +11,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: null
 speaker: PCC insider
@@ -26,7 +25,6 @@ tags:
 - society
 title: CEO Connect Driving Our Future with AI and a One-Page Strategy
 ---
-
 ## Introduction
 
 Hello everybody, welcome. I will try to keep an eye on the chat a little bit, but talking to myself and checking the chat are hard things to do, so welcome everyone. This is the August CEO Connect. For those of you who haven't been to one of these before, the intent is really to be transparent about what we're doing, share some information and thoughts that I have, and in large part, help with clarity and alignment.

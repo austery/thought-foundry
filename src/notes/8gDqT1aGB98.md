@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-11-07'
 draft: true
@@ -8,10 +8,7 @@ insight: ''
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8gDqT1aGB98
 speaker: 老周横眉
@@ -25,7 +22,6 @@ tags:
 - social-inequality
 title: 董小姐事件：协和“4+4”制度下的特权与中国医疗体系的深层危机
 ---
-
 ### 董小姐事件：从桃色新闻到公共议题
 
 曾几何时，人们怀疑过药是假的，怀疑过设备失灵，甚至怀疑过自己身体不行，却从没想过医生会是假的。这是最近几天中国网友的普遍心声。最近，27岁的医学博士董袭莹（人称“董小姐”）在中国走红。起初，这只是一个桃色新闻，但经过两天的发酵，这件桃色新闻已经变成了一件真正与老百姓生活相关的公共事件。董小姐也从肖飞、邹医生等众多情妇当中的一个小配角，一跃成为大女主。这件事硬生生地从下半身的裤带关系，牵扯出了裙带关系。

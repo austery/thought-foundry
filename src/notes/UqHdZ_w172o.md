@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 日本央行
@@ -26,10 +26,7 @@ people:
 - 李强
 products_models:
 - TQQQ
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UqHdZ_w172o
 speaker: Shijun Tang
@@ -43,7 +40,6 @@ tags:
 - valuation
 title: 日本加息引爆全球套利潮：黑天鹅事件如何重创美股与散户交易生态
 ---
-
 ### 日本加息引爆全球套利潮：黑天鹅事件如何重创美股与散户交易生态
 
 道琼斯指数单日暴跌超千点，创下自新冠疫情以来最大跌幅；与此同时，日经指数下跌12%，为1987年以来最差表现。市场一片恐慌，经济衰退的疑云笼罩全球。但这次危机的导火索，并非来自美国本土，而是远在东亚——日本。

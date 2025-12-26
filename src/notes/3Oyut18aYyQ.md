@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 汇丰银行
@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - 《商君书》
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3Oyut18aYyQ
 speaker: 老周横眉
@@ -29,7 +26,6 @@ tags:
 - social-control
 title: 中国调休制度的深层逻辑：从假期困境看社会控制与劳工权益
 ---
-
 ### 调休制度：中国假期困境的根源
 
 每逢五一、十一假期，许多中国人都会感到深深的疲惫。你以为只有陆路交通拥堵，现在连水路交通也一样。在刚刚过去的假期里，桂林漓江上演了现代版的“赤壁之战”，鸣沙山的骆驼大军也仿佛在“攻打土匪”。这哪里是旅游，这分明是攻城略地。北京的长城上人山人海，如果这是攻城门，五分钟就能攻下来。西岩城里有网友说，挤进去不容易，手里的肉不知道被谁咬了一口。

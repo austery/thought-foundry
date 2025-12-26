@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Hudson's Bay Company
@@ -20,10 +20,7 @@ people:
 - Pierre Poilievre
 - Mark Carney
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7q4Vv98pp1c
 speaker: 莊也雜談
@@ -37,7 +34,6 @@ tags:
 - throne-speech
 title: 查爾斯三世國王閃電訪加：御座演講背後的加拿大主權宣言與未來政策藍圖
 ---
-
 ### 查爾斯三世國王訪加：御座演講的深層意義
 
 當一位國王發表一場看似禮儀性的演講時，其背後究竟隱藏著怎樣的深意？2025年5月26日至27日，**查爾斯三世國王**（Charles III: 英國及英聯邦國家君主）閃電般訪問加拿大，不僅僅是為了主持一個簡單的議會開幕式，更上演了一場政治與外交的精彩大戲。從盛大的皇家儀式到針鋒相對的**主權宣言**（Sovereignty Declaration: 國家獨立自主的正式聲明），這場訪問如同精心布局的棋局，暗中向南邊的美國發出了一個主權聲明。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Zapier
@@ -25,10 +25,7 @@ products_models:
 - ChatGPT
 - LangChain
 - Devon
-project:
-- ai-impact-analysis
-- vibe-coding
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KOr-xQuNK4A
 speaker: How I AI
@@ -44,7 +41,6 @@ tags:
 - semantic-layer
 title: 超越 Vibe Coding：Faire 如何利用 AI 工具链革新数据分析流程
 ---
-
 ### 导语：从快速发布到深度分析
 
 >> 我们如何从分析产品、质量及其使用情况的最开始入手，通过分析转化率来进行？

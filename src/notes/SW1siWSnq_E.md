@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Microsoft
@@ -30,10 +30,7 @@ products_models:
 - Excel
 - PowerPoint
 - Codex
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SW1siWSnq_E
 speaker: Best Partners TV
@@ -46,7 +43,6 @@ tags:
 - transformation
 title: 微软与OpenAI：3万亿美元AI建设计划背后的共生关系与工业复兴
 ---
-
 ### 微软与OpenAI：智能与资本的重新定义
 
 在全球科技叙事的中心，微软与OpenAI的关系已不只是合作，更像一次关于智能与资本的重新定义。过去六年，这两家公司共同缔造了AI产业里最具象征性的结构：非营利母体与商业子公司叠加，公有云与模型层深度绑定，资本投入与算力扩张彼此驱动。就在前两天，硅谷最活跃的成长型投资人之一，Altimeter Capital的创始人布拉德·格斯特纳（Brad Gerstner）以投资者的视角，促成了一场难得的深度对话。他邀请到了微软CEO萨蒂亚·纳德拉（Satya Nadella）与OpenAI CEO山姆·奥特曼（Sam Altman），共同拆解了这场被称为“3万亿美元AI建设计划”的全球重构。

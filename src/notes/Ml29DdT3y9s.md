@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -17,8 +17,7 @@ people:
 - 小陶
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ml29DdT3y9s
 speaker: 投资TALK君
@@ -32,7 +31,6 @@ tags:
 - semiconductor
 title: 【投资TALK君1374期】OpenAI再创新高！ORCL融不到钱了？杀AI的两个核心逻辑
 ---
-
 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员**小陶**。今天这期内容我们聊什么？聊一下整个芯片板块，聊一下AI板块，关注几家公司：首先是**OpenAI**，然后是**Oracle**。今天**Oracle**又有一条比较大的新闻。最后是周三盘后发布财报的**美光**。好吗？好。那我就废话不多，直接开始。在开始之前，拜托大家可以帮这期视频点一个赞，留一个言，可以让更多的人看到我们今天的新内容。
 
 ### 市场概览

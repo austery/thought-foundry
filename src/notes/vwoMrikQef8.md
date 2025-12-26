@@ -93,10 +93,7 @@ products_models:
 - iPhone
 - Vision Pro
 - Quest
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vwoMrikQef8
 speaker: Amit Kukreja
@@ -110,7 +107,6 @@ tags:
 - market-analysis
 title: 巴菲特大举买入谷歌，英伟达财报来袭，市场年底行情将走向何方？
 ---
-
 ### 市场回顾与展望：在震荡中迎接英伟达财报
 
 大家好，欢迎回到新一期的市场前瞻。我们即将进入十一月的第三周，过去两周的股票市场显然相当动荡。目前**标普500指数**（Standard & Poor's 500 Index: 追踪在美国证券交易所上市的500家大公司股票表现的股票市场指数）的点位在672，基本上和两周前持平，但期间的走势堪称疯狂。

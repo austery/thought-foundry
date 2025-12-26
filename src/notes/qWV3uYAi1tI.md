@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 初日醫學
@@ -13,8 +13,7 @@ people:
 - 宋晏仁
 products_models:
 - iPad
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qWV3uYAi1tI
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +26,6 @@ tags:
 - technology
 title: 台湾近视率全球第一：深度解析成因、预防与最新治疗方案
 ---
-
 ### 台湾近视问题的严峻现状
 
 大家好，我是宋晏仁医师，欢迎来到初日会客室。今天我们非常荣幸地邀请到被誉为“医师们的眼科医师”——鼎鼎大名的远见眼科张聪麒院长，来为大家解决视力方面的困扰。张院长你好。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Google
@@ -28,10 +28,7 @@ products_models:
 - Deepseek
 - Qwen
 - Kimi
-project:
-- ai-impact-analysis
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y7dwbJ0AtUA
 speaker: a16z
@@ -45,7 +42,6 @@ tags:
 - market-speculation
 title: Marc Andreessen与Ben Horowitz论AI的现状：从智能、泡沫到中美竞争
 ---
-
 ### AI产品形态的演变与未来
 
 我认为我们尚未知晓最终产品的形态。

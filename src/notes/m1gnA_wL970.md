@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - OpenAI
@@ -22,9 +22,7 @@ products_models:
 - ChatGPT
 - AlphaGo
 - Neuralink
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m1gnA_wL970
 speaker: 北美王路飞
@@ -39,7 +37,6 @@ tags:
 - value
 title: AI发展新范式：从“数据工厂”到“内在裁判”的智能跃迁
 ---
-
 ### AI现状与“缓慢的腾飞”
 
 当我们环顾四周，世界似乎一切如常：快递员穿梭于大街小巷，红绿灯有节奏地闪烁，邻居们照常遛狗。然而，就在我们说话的这一刻，全球GDP约1%，即数千亿美元的真金白银，正被疯狂地投入到同一个领域——人工智能。按照常理，如此巨量的资源注入一项技术，我们应该能够看到某种惊天动地的爆炸式发展，我们想象中的AI革命，应该是机器人满街跑，或是超级大脑瞬间解决了癌症。

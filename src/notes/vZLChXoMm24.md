@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Apple
@@ -26,9 +26,7 @@ people:
 - Jimmy Kimmel
 products_models:
 - iPod
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vZLChXoMm24
 speaker: 超級歪 SuperY
@@ -42,7 +40,6 @@ tags:
 - safety
 title: 《逆思維》：打破思维盲点，培养重新思考的心理学技巧
 ---
-
 ### 引言：在分歧中寻求共识
 
 在过去的几年里，我们是否注意到与持有不同意见的人在线上沟通变得越来越困难？无论是台湾总统选举中的歧视性言论，美国否认全球变暖的观点，还是地平说阴谋论，许多议题的沟通与辩论似乎总是陷入僵局。今天，我们将探讨《逆思維》这本书如何运用心理学打破既有认知，引导我们个人、他人乃至整个集体进行重新思考。这本书全球销量已达数百万册，作者亚当·格兰特（Adam Grant）是沃顿商学院的心理学家。我们将从个人、人际关系和集体三个层面来介绍。

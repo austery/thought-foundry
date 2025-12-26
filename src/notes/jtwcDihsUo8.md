@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -13,8 +13,7 @@ people:
 - 特朗普
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jtwcDihsUo8
 speaker: New York Times Podcasts
@@ -23,7 +22,6 @@ summary: 特朗普政府推动对格陵兰的控制，认为其对美国国家�
 tags: []
 title: 特朗普的格陵兰战略与减肥药的新承诺
 ---
-
 ### 特朗普的格陵兰战略与减肥药的新承诺
 
 特朗普政府正在推动对格陵兰的控制，这是一个 semi-autonomous territory of Denmark。特朗普认为，格陵兰对美国的国家安全至关重要。

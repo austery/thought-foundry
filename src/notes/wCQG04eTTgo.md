@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-02-13'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wCQG04eTTgo
 speaker: 大问题Dialectic
@@ -23,7 +21,6 @@ tags:
 - moral-responsibility
 title: 哲学暴论：我们有必要关心子孙后代吗？——非同一性论证的挑战
 ---
-
 ### 16岁怀孕：一个伦理困境的开端
 
 假设小美是一位16岁的女孩，她早恋并意外怀孕。面对这样的情况，她是否应该生下这个孩子？

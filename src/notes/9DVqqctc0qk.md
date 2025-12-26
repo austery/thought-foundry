@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-03-02'
 draft: true
@@ -30,10 +30,7 @@ people:
 - 江青
 - 林彪
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9DVqqctc0qk
 speaker: 柴静 Chai Jing
@@ -47,7 +44,6 @@ tags:
 - political
 title: 政治洪流中的家庭悲剧：李瑞与范元珍的爱恨与李南央的求索
 ---
-
 ### 政治洪流下的婚姻悲剧
 
 在李瑞的政治生涯中，他的妻子范元珍是他最积极的揭发者。1959年的**庐山会议**（Lushan Conference: 1959年中共中央政治局扩大会议，因批判彭德怀而著名）上，当时担任毛泽东秘书的李瑞，将另一位秘书田家英对毛泽东的负面评价揽在了自己头上，称“不要百年之后有人议论”，此举引起毛的震怒，李瑞因此受到严惩，但田家英得以幸免。毛泽东曾说他恨死了李瑞。回到北京后，李瑞夫妇家中的电话被范元珍监听。当天津方面打来电话，范元珍听到对方说了一句“我们是道义之交啊”，她立刻向中央报告。第二天，李瑞的暴力批判材料就被没收了。三年之后，当组织有意重新启用李瑞时，又是范元珍的这次举报，使李瑞再次被下放劳改。这种最亲密的人之间的政治敌意，使得这个家庭的悲剧变得极其惨烈。这正是李瑞与范元珍的女儿李南央写作的中心，也是本次对话的焦点。

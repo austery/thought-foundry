@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 白宫
@@ -21,10 +21,7 @@ people:
 - 泽连斯基
 products_models:
 - USMCA
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aJ_h65iWS9s
 speaker: 莊也雜談
@@ -38,7 +35,6 @@ tags:
 - us-canada-relations
 title: 卡尼与川普首次会晤：一场高情商外交博弈的深度剖析
 ---
-
 ### 卡尼与川普的首次会晤：背景与焦点
 
 大家好，我是庄野。欢迎收看庄野杂谈。2025年5月6日，白宫椭圆形办公室成为全球关注的焦点，加拿大总理**马克·卡尼**（Marc Carney: 加拿大新任总理）与美国总统**唐纳德·川普**（Donald Trump: 美国总统）进行了首次会面。这次会谈不仅是两国关系的关键转折点，更是一场高风险的外交博弈。此前，川普通过关税霸凌以及吞并加拿大的言论，激起了加拿大民众的强烈反对。卡尼，这位凭借经济学家背景和反川普竞选口号赢得4月28日大选的新任加拿大总理，肩负着维护国家主权与经济利益的重担。他能否在川普的主场扶大厦于将倾，挽狂澜于既倒，既捍卫尊严又避免冲突？他到底表现如何？从双方各种界面的细节、言谈举止、肢体语言以及你来我往的言辞交锋中，又蕴藏着何种深意？今天，庄野将深入剖析这场历史性的会晤，探寻其背后的意图、影响以及对两国关系未来的走向。

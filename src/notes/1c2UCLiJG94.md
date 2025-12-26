@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Lehman Brothers
@@ -29,10 +29,7 @@ products_models:
 - CDO
 - CDS
 - Dodd-Frank Act
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1c2UCLiJG94
 speaker: 北美王路飞
@@ -46,7 +43,6 @@ tags:
 - technology
 title: 揭秘2008金融危机：为什么纳税人不得不拯救“纵火犯”？
 ---
-
 ### 2008年金融危机：一场无声但致命的心脏骤停
 
 大家好，欢迎来到我的频道。今天我们继续美联储系列的第三集。如果我问你，2008年发生了什么？你可能会说，那是股市崩盘，很多人赔了钱，或者是房价跌了，银行倒闭了。但是如果你去问当时的亲历者，哪怕是那些站在权力巅峰的人，比如说美联储主席**本·伯南克**（Ben Bernanke），或者是当时的美国财长，他们会告诉你，那不是关于赔钱的问题。在那决定生死的两周里，恐惧不是我们会变穷，而是整个世界会停摆。想象一下，不仅仅是华尔街的屏幕变红了，而是你的公司突然发不出下个月的工资，哪怕它账上有钱；你的信用卡在超市也刷不过去；原本极其安全的养老金账户突然无法赎回。这好比并不是某个具体的器官病了，而是人体的血液突然凝固了。

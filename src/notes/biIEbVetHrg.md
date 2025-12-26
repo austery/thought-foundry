@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: lifestyle
 companies_orgs: []
 date: '2024-06-23'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=biIEbVetHrg
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - technology
 title: 突发心肌梗塞：我的人生下半场思考与感悟
 ---
-
 ### 突发心肌梗塞与紧急救治
 
 2024年6月3日凌晨，我突发**心脏病发作**（Heart Attack: 指心脏因血流中断而受损，通常由冠状动脉阻塞引起），被紧急送往医院。事发前一天下午散步时，我的嗓子开始有灼烧感，类似于冬天跑步时被寒风呛到的感觉。凌晨1点，症状加重，胸口到嗓子部位火烧火燎，我们立即叫了救护车。初步检查认为我发生了心脏病发作，随即被送往医院进行心脏造影。检查结果显示为**心肌梗塞**（Myocardial Infarction: 指心肌因血流中断而受损或坏死，通常由冠状动脉阻塞引起），并立即接受了**心脏支架**（Coronary Stent: 一种植入冠状动脉以保持血管畅通的医疗器械）手术。心脏支架手术通过手腕血管开一个口子，伸入一根导线，将一个弹簧状的支架放置到血管堵塞处并撑开，以恢复血液流通。手术后，我在**ICU**（Intensive Care Unit: 重症监护室，提供重症病人密切监测和治疗的病房）观察了12小时，随后转入普通病房继续治疗观察，三天后出院回家进行康复。

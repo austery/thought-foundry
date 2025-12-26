@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - S&P 500
@@ -71,9 +71,7 @@ products_models:
 - Neutron
 - NVL72
 - GB300
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zyIk3AFsZ4g
 speaker: Amit Kukreja
@@ -87,7 +85,6 @@ tags:
 - stock
 title: 市场收盘：Rocket Lab 与 Big Bear AI 财报超预期，Coreweave 因指引承压
 ---
-
 ### 市场全面上涨与背后动因
 
 大家好，欢迎回到“市场收盘”节目。今天是11月10日，星期一，我们迎来了全面上涨的一天。**S&P 500**（Standard & Poor's 500: 标准普尔500指数，一个衡量美国500家大型上市公司股票表现的指数）指数收于681.95点，远高于今早还在677点附近徘徊的水平。能够站稳在680点以上是一个非常积极的信号，这是我早上谈到的核心水平之一。最终，指数当天上涨了10个点，涨幅1.62%，带动了整个市场的活跃气氛。

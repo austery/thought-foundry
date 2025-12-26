@@ -21,9 +21,7 @@ insight: ''
 layout: post.njk
 products_models:
 - 特斯拉
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fDq_XtlouN4
 speaker: 视野环球财经
@@ -37,7 +35,6 @@ tags:
 - trade-policy
 title: 美股：特斯拉创新高，CRWV信用风险警示与美欧贸易摩擦影响分析
 ---
-
 大家好，欢迎回到**视野环球财经**，我是**Reno**。现在是美东时间25年12月16号周二晚上的7点45分。今天四大指数跌了仨，仅纳指小幅收涨。今天的盘中波动不算小。另外，今天个股方面是**特斯拉**收盘价来到了**489美元**，创下了历史新高，完成了第一阶段的波段任务。自452突破以来，以416为下行防守位置，盈亏比已超过1比1。后续怎么看？本周有什么看点？咱们稍后讲解。今天的节目，首先看几个经济数据，然后再和大家讲一些个股，包括**Spotify**，还有**CRWV**有一个重要的提醒给大家。还有**特斯拉**，等会儿讲讲对于本周和后续可能出现的一些走势的看法。
 
 ### 经济数据概览

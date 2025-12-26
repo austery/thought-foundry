@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Charlie Kirk
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qmD7V3_YtzA
 speaker: TVO Today
@@ -26,7 +24,6 @@ tags:
 - society
 title: 如何在加拿大职场中管理政治言论：法律、政策与同理心
 ---
-
 ### 职场政治言论：美加差异与后果
 
 在美国，许多雇主几乎可以以任何理由解雇员工。但在加拿大情况并非如此。但这并不意味着你不会因为在办公室或互联网上发表的言论而面临后果。**Peninsula Canada**（一家提供雇佣法和人力资源咨询服务的公司）的资深雇佣法和人力资源顾问**Charlie Herrera Vacuor**对此进行了解释。

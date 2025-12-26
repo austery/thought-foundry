@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 京东
@@ -23,10 +23,7 @@ media_books:
 - 《华尔街日报》
 people:
 - 唐石峻
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HOsl1B4xQEk
 speaker: Shijun Tang
@@ -40,7 +37,6 @@ tags:
 - opportunity-cost
 title: 中国政府印钱引爆股市？投资者为何应聚焦公司而非宏观
 ---
-
 ### 政策印钱与股市暴涨：宏观叙事的陷阱
 
 最近，中国政府重启货币宽松政策的消息引发了全球投资者的高度关注。媒体迅速将此解读为“中国股市即将爆发”的信号，甚至出现“buy everything China”这样的狂热口号。这种情绪的蔓延并非偶然——当股市因政策刺激而快速上涨时，媒体天然会跟随价格波动放大叙事。然而，这种围绕“印钱”展开的宏观叙事，是否真的能指导普通投资者做出明智决策？

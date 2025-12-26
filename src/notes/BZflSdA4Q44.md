@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - TED
@@ -17,9 +17,7 @@ people:
 - Thomas Jefferson
 - Steven Spielberg
 products_models: []
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BZflSdA4Q44
 speaker: TED
@@ -33,7 +31,6 @@ tags:
 - visual-storytelling
 title: 服装设计：超越表象的叙事艺术
 ---
-
 ### 服装：塑造感知的无声语言
 
 是什么让一个人变得**邪恶**？是他们的肤色吗？是我们被告知的故事吗？还是他们所穿的衣服？我们是如何做出这些判断的？我们依赖哪些线索？我们又带着哪些假设，有时甚至没有意识到？

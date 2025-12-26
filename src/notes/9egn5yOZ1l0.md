@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: lifestyle
 companies_orgs: []
 date: '2025-10-16'
@@ -27,7 +27,6 @@ title: 精神科医生姚灏：超越病症，构建以人为本的精神健康�
 companies:
 - psychiatry
 ---
-
 ### 精神障碍者的困境：从阴森印象到真实距离
 
 我是姚灏，一名精神科医生，同时也是精神健康领域的公益从业者。今天很高兴能在一席与大家交流分享精神障碍者所面临的困境与出路。

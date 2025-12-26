@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - Google
@@ -13,9 +13,7 @@ people:
 - Isaac Newton
 - Albert Einstein
 - Derek Muller
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6akmv1bsz1M
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - wormhole
 title: 爱因斯坦数学的奇妙推论：黑洞、白洞与虫洞的科学探索
 ---
-
 ### 黑洞视界：时间冻结的幻象
 
 你永远无法看到任何东西进入黑洞。

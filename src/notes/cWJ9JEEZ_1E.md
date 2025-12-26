@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 苹果
@@ -15,10 +15,7 @@ media_books:
 people:
 - Xi Jinping
 - 李嘉诚
-project:
-- historical-insights
-- cultural-critique
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cWJ9JEEZ_1E
 speaker: 莊也雜談
@@ -32,7 +29,6 @@ tags:
 - urban-development
 title: 从胡同到CBD：庄也带你深度探索北京南城的文化变迁与市井魅力
 ---
-
 ### 从沉重话题到轻松旅程：北京深度游的开启
 
 大家好，我是庄也，欢迎您收看庄也杂谈。上集节目我们简单聊了一下，这次我回北京发现，北京作为中国的首都，外表光鲜亮丽，各种服务快捷方便。然而，我们没有注意到，在这些快捷方便的背后，默默支撑起基础服务的众多底层劳动人民，他们的生活却鲜为人知。其中最典型的基础服务包括打车和上门送货（包括送餐），提供这些服务的出租车司机、网约车司机、快递员以及外卖员，都是我们最应该感谢的人群。上期节目通过我的一些亲身经历，以小见大，讲述了他们起早贪黑、辛苦劳作的人生。虽然用“苦逼”来形容有些夸张，严格来说他们挣得不算少，但工作时间长、心理压力大，这种超长的工作时间和超强的工作强度，确实非常不容易。

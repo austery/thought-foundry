@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -20,8 +20,7 @@ people:
 products_models:
 - GPT-4
 - LLM
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LjY0i2B-Avc
 speaker: Dwarkesh Patel
@@ -34,7 +33,6 @@ tags:
 - scientific-discovery
 title: AI的未来：通往爱因斯坦之路的探索
 ---
-
 也许，这些系统，包括我们所说的大型语言模型（LLM: Large Language Model，大型语言模型），最终能够做到的最后一件事，是在我们理解的上一世纪末的物理定律基础上，发明出**广义相对论**（General Relativity: 爱因斯坦提出的描述引力的理论）。我认为这可能是其能力的终点。一旦它能做到这一点，那么就人类而言，将没有太多其他事情可做了。
 
 这非常非凡，尤其对于一个来自物理学背景的人来说，物理学领域的进步相当缓慢。但来到人工智能领域，却看到日复一日、周复一周、年复一年的惊人快速进展。从表面上看，这些大型语言模型（LLM）和人工智能系统在某种意义上只是插值器（interpolators: 在已知数据点之间估计未知值的过程）。但它们进行插值的抽象层级却不断提升。我们不断沿着这个抽象链向上攀升，从一个足够高的视角来看，**牛顿物理学**（Newtonian Physics: 描述宏观物体运动规律的经典物理学理论）的创造，可能也只是在某个宏大抽象层级上的插值。这或许能揭示**人类智能**的本质，以及大型语言模型的本质。

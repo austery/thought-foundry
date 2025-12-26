@@ -16,9 +16,7 @@ media_books:
 - YouTube
 - S&P 500
 people: []
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zIW6BxpkoB4
 speaker: Shijun Tang
@@ -31,7 +29,6 @@ tags:
 - surgical-robotic
 title: 深度解析直觉外科 (ISRG)：达芬奇手术系统构建的复利机器？
 ---
-
 ### 直觉外科 (ISRG)：一台潜在的复利机器？
 
 今天，我们将深入探讨**直觉外科**（Intuitive Surgical Inc.，ISRG: 一家专注于医疗器械领域的美国公司），这家公司是由一位会员在Discord群中推荐的。经过研究，我发现它非常有意思，因此今天我们将分析这家美股公司是否真能成为一台“**复利机器**”（Compound Interest Machine: 指能够持续高速增长，带来长期复利效应的公司或投资）。

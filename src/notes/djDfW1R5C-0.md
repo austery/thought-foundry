@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - World Bank
@@ -22,10 +22,7 @@ media_books:
 people:
 - Justin Trudeau
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=djDfW1R5C-0
 speaker: 莊也雜談
@@ -39,7 +36,6 @@ tags:
 - market
 title: 澳大利亚与加拿大经济对比：资源诅咒、地缘角色与发展挑战
 ---
-
 ### 加拿大与澳大利亚：惊人的相似与独特的差异
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们将深入探讨加拿大和澳大利亚的经济及其产业结构。这个话题可能对不关心经济的人来说有些乏味，但其中蕴含着许多有趣的干货和趣闻。

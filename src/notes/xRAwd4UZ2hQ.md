@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -38,10 +38,7 @@ people:
 - Deng Xiaoping
 products_models:
 - OddLots podcast
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xRAwd4UZ2hQ
 speaker: Bloomberg Podcasts
@@ -56,7 +53,6 @@ tags:
 - us-economic-policy
 title: 亚当·波森谈后美国时代的杰克逊霍尔：央行独立性、关税与全球秩序重构
 ---
-
 ### 杰克逊霍尔的超现实氛围与央行独立性危机
 
 大家好，欢迎收听OddLots播客。我是乔·魏森塔尔。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - C计划
@@ -15,10 +15,7 @@ media_books:
 - 《天生有罪》
 - 《十岁那年》
 products_models: []
-project:
-- cultural-critique
-- knowledge-pipeline
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Qe4UdcZEybY
 speaker: 一席YiXi
@@ -32,7 +29,6 @@ tags:
 - social
 title: 批判性思维：从质疑到建设，成为完整的人
 ---
-
 ### 批判性思维：从社会比较到自我确认
 
 作为学生，我们追求的是分数、排名和更好的学校；作为成年人，我们追求的是收入、职级和更高的社会地位。我们总是在一个社会比较与竞争的框架中确认自己的价值，害怕被比下去，行动的动力来自“卷赢他人”的冲动，而非源于内心真正的渴望与热爱。最终的结果往往是焦虑、倦怠和意义的缺失。

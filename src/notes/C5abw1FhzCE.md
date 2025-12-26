@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 耶鲁大学
@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - 《盲眼钟表匠》
 products_models: []
-project:
-- historical-insights
-- psychology
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C5abw1FhzCE
 speaker: 记者易速利
@@ -29,7 +26,6 @@ tags:
 - technology
 title: 43年追凶：耶鲁教授艾莉森如何揭开父亲谋杀母亲的真相
 ---
-
 ### 一个母亲的死亡，一个女儿的一生
 
 艾莉森·加尔瓦尼是耶鲁大学最年轻的讲席教授之一，一位在传染病建模领域享有盛誉的流行病学家。她身材纤细、说话轻柔，学术成就斐然——25岁获得牛津大学博士学位，33岁成为耶鲁终身教授，36岁晋升为最年轻的正教授，并在2015年成为耶鲁历史上最年轻的讲席教授。但她的光芒背后，埋藏着一个长达43年的黑暗秘密：她五岁时，母亲南希·加尔瓦尼被谋杀，而凶手，正是她的父亲——帕特里克·加尔瓦尼。

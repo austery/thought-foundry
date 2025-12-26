@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中央电视台
@@ -30,10 +30,7 @@ people:
 - 刘晓波
 - 陈独秀
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4fZaQ0fVN7o
 speaker: 張内咸
@@ -46,7 +43,6 @@ tags:
 - public
 title: 从地下电影到YouTube：张内咸眼中的北京自由变迁
 ---
-
 ### 频道半年回顾与早期电影生涯
 
 大家好，我是张内咸，又见面了。不知不觉，做这个频道已经半年了，从今年一月底上线第一期节目，到现在已经是七月底。最开始录节目的时候，北京还是冬天最冷的时候，而现在外面正是北京最热的时候，小朋友们在放暑假。离我自己上学的时代一晃都过去那么多年了，我都快忘记了没有生小孩以前我的生活是什么样子的。那个时候每当放暑假，我当然也是很开心的。

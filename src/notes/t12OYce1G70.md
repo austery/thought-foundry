@@ -13,10 +13,7 @@ media_books:
 products_models:
 - ChatGPT
 - GPT-5
-project:
-- ai-impact-analysis
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=t12OYce1G70
 speaker: 北美王路飞
@@ -30,7 +27,6 @@ tags:
 - learning
 title: MIT重磅报告：95%的AI投资为何打水漂？揭秘生成式AI的商业落地鸿沟
 ---
-
 ### MIT重磅报告：95%的AI投资回报为零
 
 近期，麻省理工学院（**MIT**：Massachusetts Institute of Technology，世界顶尖研究型大学）发布了一篇名为《The GenAI divide: State of AI in business 2025》的研究报告。这份报告一经发布，便在市场上引起震动，导致AI相关题材股票出现一波大幅抛售。虽然报告是否直接驱动了市场抛售尚不得而知，但其揭示的信息对于理解当前**生成式AI**（Generative AI: 能够生成文本、图像、代码等新内容的AI技术）的市场现状具有重要价值。

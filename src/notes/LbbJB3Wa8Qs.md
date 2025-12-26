@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: business
 companies_orgs:
 - Palantir
@@ -32,9 +32,7 @@ people:
 - Benjamin Netanyahu
 - Kamala Harris
 - Joe Biden
-project:
-- us-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LbbJB3Wa8Qs
 speaker: Amit Kukreja
@@ -50,7 +48,6 @@ tags:
 - tech
 title: 解密 Palantir 创始人：与 Alex Karp 传记作者的深度对话
 ---
-
 ### 序言：从葡萄酒评论到解读硅谷哲人
 
 **Amit Kukreja:** 大家好，欢迎回到频道。今天我请到了一位非常特别的嘉宾，Michael Steinberger，来讨论他的新书《硅谷哲人》。Michael，感谢你的到来。

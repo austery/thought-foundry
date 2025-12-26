@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - World Bank
@@ -12,10 +12,7 @@ media_books:
 - 《皇帝内经》
 people:
 - Confucius
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g1oD0J6v1i8
 speaker: 徒步的騎手
@@ -29,7 +26,6 @@ tags:
 - tcm-injection
 title: 中国医疗体系的深层病灶：中药注射剂、资源匮乏与认知蒙昧
 ---
-
 ### 中药注射剂的危害与专家批判
 
 今天是2025年10月29日，北风呼啸，气温骤降30华氏度，这样的天气很适合制作博客。我们从推特上的一则帖子说起。一位网名为Dr. Wang的推主（我们暂称他为王医生）发布了高质量的推文，本频道第97期节目《你为何老是被人渣盯上》就曾受到他推文的启发。今天，王医生发布了一篇关于**中药注射剂**（Traditional Chinese Medicine Injections: 将中药提取物制成注射剂型，通过静脉或肌肉注射给药）的帖子。他指出，目前中国国内有119种中药注射剂品种，但仅有8家企业提供了上市后的评价情况说明。在帖子结尾，他告诫大家：“为了你的健康，拒绝中药注射剂。”

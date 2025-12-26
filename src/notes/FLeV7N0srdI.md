@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国教科文组织
@@ -21,10 +21,7 @@ people:
 - Vladimir Putin
 - 吴京
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FLeV7N0srdI
 speaker: 張内咸
@@ -37,7 +34,6 @@ tags:
 - zhongyuan-festival
 title: 中国鬼节的消失与重塑：中元节背后的文化与政治
 ---
-
 ### 中元节的开场白与阴间设想
 
 今天是**中元节**（Zhongyuan Festival: 中国传统节日，道教称为中元节，佛教称为盂兰盆节，俗称鬼节，在农历七月十五举行，祭祀祖先和超度亡魂），祝大家中元节快乐。节目中经常讲到白事，火葬场里甚至还有听众，所以这档节目可能不小心把全世界丧葬行业的朋友都招来了。很多观众留言表示自己在不同国家从事殡葬行业，感谢节目指引，称其为“行业冥灯”。

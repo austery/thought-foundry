@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Uber
@@ -16,9 +16,7 @@ people:
 - Modi
 - Joe Biden
 - Barack Obama
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fgzSA4Gl7p4
 speaker: 莊也雜談
@@ -32,7 +30,6 @@ tags:
 - travel
 title: 旧金山深度体验：金门大桥、九曲花街、城市安全及移民观察
 ---
-
 ### 金门大桥：工程奇迹与淘金记忆
 
 大家好，我是庄也，欢迎收看庄也杂谈。上集讲到我和老吴漫步到金门大桥，今天咱们就先仔细说一下这座举世闻名的金门大桥。几乎所有来加州的游客都会提到它。这座桥于1933年开工，1937年5月27日正式通车，至今已有87年历史。美国土木工程师学会将其列为七大不可思议工程之一。

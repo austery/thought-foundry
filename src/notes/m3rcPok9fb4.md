@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - TSMC
@@ -17,8 +17,7 @@ people:
 - Nicholas Maduro
 products_models:
 - iPhone
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m3rcPok9fb4
 speaker: New York Times Podcasts
@@ -32,7 +31,6 @@ tags:
 - us-industrial-policy
 title: 美国制造的混乱现实：亚利桑那州芯片工厂的挑战
 ---
-
 ### 亚利桑那州芯片工厂的宏大愿景与现实困境
 
 《纽约时报》的迈克尔·奥巴罗（Michael Aubaro）介绍了本期节目。一处位于亚利桑那州的巨型工厂建设，本应象征着特朗普政府将制造业带回美国的决心。然而，正如他的同事彼得·古德曼（Peter Goodman）所发现的那样，这个项目却为全球公司提供了**18,000个**理由，让它们在考虑于美国建厂时三思而后行。古德曼描述了他抵达现场时的情景：在凤凰城北部一片广袤、几乎空无一人的沙漠山谷中，他看到的是一个占地超过**一千英亩**的巨大建筑群，烟囱林立，数十台起重机在作业，伴随着轰鸣声和黑烟。他曾在中国上海和阿联酋迪拜经历过大规模的建设热潮，但这里的起重机数量之多，让他感到前所未有的震撼，仿佛置身于一个正在发生深刻变革的时刻。

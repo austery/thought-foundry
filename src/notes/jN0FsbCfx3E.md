@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - GOP
@@ -16,9 +16,7 @@ people:
 - 里根
 - 希特勒
 products_models: []
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=jN0FsbCfx3E
 speaker: 北美王路飞
@@ -32,7 +30,6 @@ tags:
 - transhumanism
 title: 刘索隆的政治光谱：一场关于自由、资本与进步主义的八维探索
 ---
-
 ### 政治光谱测试的引入与个人立场初探
 
 北美王路飞: 大家好，欢迎来到本期节目。我们来让刘索隆测一测你的**8D意识形态**（8D Ideology: 一种多维度政治意识形态测试模型）。这是整活吗？我本来以为是一个很严肃的节目。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -27,10 +27,7 @@ people:
 - Barack Obama
 - Ronald Reagan
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WQzDNXu48Xc
 speaker: 美投讲美股
@@ -44,7 +41,6 @@ tags:
 - us-economic-policy
 title: 贝森特：从华尔街精英到白宫二号人物，他如何左右川普与美股？
 ---
-
 ### 贝森特：白宫的幕后推手
 
 谁是当今金融市场上最重要的男人？多数人的第一反应可能是**唐纳德·川普**（Donald Trump）。确实，川普的一言一行都在左右着金融市场的走势。然而，有这么一个人，他却左右着川普的决策：是他曾说服川普暂停“**解放日**”（指代2024年4月2日川普政府公布激进对等关税政策引发市场动荡的时期）的激进关税；是他拉住了川普，使其绝不能威胁**美联储**（Federal Reserve: 美国中央银行系统）主席**杰罗姆·鲍威尔**（Jerome Powell）；是他让川普豁免了中国的电子商品关税，救了**苹果**（Apple）一命；也是他主导了中美之间的谈判，暂时缓解了两国在贸易上的紧张关系。

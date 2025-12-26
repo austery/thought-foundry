@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Tim Hortons
@@ -18,9 +18,7 @@ people:
 - Kevin
 - Matt Damon
 - Justin Trudeau
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NdjB2Icr9Tg
 speaker: 莊也雜談
@@ -34,7 +32,6 @@ tags:
 - newfoundland-travel
 title: 纽芬兰自驾探险：魁地危地渔村体验、圣玛丽鸟岛与历史古镇Placentia
 ---
-
 ### 纽芬兰自驾之旅：第三天行程概览与渔村体验
 
 大家好，我是莊也，欢迎收看莊也杂谈。今天我们继续讲述在纽芬兰的自驾游之旅。上集我们讲完了第一天和第二天的行程，今天将接着讲第三天。不过在开始之前，先回应一下上期节目评论区中观众朋友们的建议。有些观众希望我能提前分享7天的完整行程，因为不少计划今年夏天去纽芬兰旅游的朋友们，急需一个自驾参考路线图。如果按照我一周一集的速度慢慢讲述，恐怕会耽误大家的行程。因此，本期节目我将把这几天的行程安排以及自驾路线图简单地跟大家说一下。当然，这虽有剧透的嫌疑，但为了保持节目的完整性，这部分行程分享的内容将放在本期节目的最后。

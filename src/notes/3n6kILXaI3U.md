@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -17,10 +17,7 @@ people:
 products_models:
 - Robotaxi
 - FSD
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3n6kILXaI3U
 speaker: Shanghao Jin
@@ -35,7 +32,6 @@ title: 市场概览：地缘政治、美联储政策与关税对全球经济的�
 companies:
 - tesla-robotaxi
 ---
-
 ### 地缘政治与美联储的谨慎态度
 
 过去两周，市场受到了显著的**地缘政治**（Geopolitics: 国际政治、经济、军事等因素对地理区域的影响）影响，特别是以色列与伊朗之间的冲突。在此背景下，美联储召开了**美联储会议**（Federal Reserve Meeting: 美国中央银行联邦储备系统理事会定期召开的政策会议），其态度显得异常谨慎。

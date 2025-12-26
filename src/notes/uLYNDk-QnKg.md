@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uLYNDk-QnKg
 speaker: 硅谷101
@@ -24,7 +23,6 @@ title: 谷歌AI多模态五大主线布局：从Nano Banana看其生成式AI战�
 companies:
 - google-ai
 ---
-
 ### Nano Banana：文生图领域的“炸裂”新星
 
 近期，一款代号为**Nano Banana**的模型在评测平台上悄然登场，它没有官方公告或文档，却凭借惊人的图像质量和角色一致性，迅速超越了众多老牌模型，在AI社区引发轰动。最初，人们猜测其可能是**OpenAI**（一家美国人工智能研究公司，以开发ChatGPT等模型闻名）的秘密实验品，或是独立研究团队的“黑马之作”。几天后，谜底揭晓：**Google**（谷歌，全球知名科技公司）正式认领，**Nano Banana**正是其最新发布的文生图模型——**Gemini 2.5 Flash Image**。

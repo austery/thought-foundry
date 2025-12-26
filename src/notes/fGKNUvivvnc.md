@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fGKNUvivvnc
 speaker: Anthropic
@@ -22,7 +21,6 @@ tags:
 - thinking
 title: 理解AI模型如何思考：Anthropic的解释性研究
 ---
-
 ### AI模型内部的复杂性
 
 The model doesn't think of itself necessarily as trying to predict the next word. Internally, it's developed potentially all sorts of intermediate goals and abstractions that help it achieve that kind of meta objective.

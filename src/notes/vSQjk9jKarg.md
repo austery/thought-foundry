@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Harvard
@@ -13,9 +13,7 @@ people:
 - Daniel Kahneman
 - Angus Deaton
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vSQjk9jKarg
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - social
 title: 美好生活的秘密：哈佛幸福研究85年的启示
 ---
-
 ### 什么是美好生活？金钱与幸福的初探
 
 视频探讨了一个最重要的问题：什么能带来幸福的生活？现实地说，是金钱。变得富有绝对是其中一个重要方面。存很多钱，赚钱，富裕非常重要。人们很容易说他们不在乎金钱，金钱买不到幸福，但这并非事实。因为我宁愿在游艇上哭泣，也不愿在斯巴鲁车里哭泣。（两人笑）

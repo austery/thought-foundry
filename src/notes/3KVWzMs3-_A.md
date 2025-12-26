@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Nvidia
@@ -36,10 +36,7 @@ people:
 - Hu Yaobang
 - Zhao Ziyang
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3KVWzMs3-_A
 speaker: LT視界
@@ -54,7 +51,6 @@ tags:
 - ukraine-peace-plan
 title: 美国就业数据与AI泡沫论：乌克兰和平方案引争议，中国房地产再出新政，习近平纪念胡耀邦引关注
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。
 
 ### 财经头条：美国就业与AI泡沫论

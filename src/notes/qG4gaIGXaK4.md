@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies:
 - psychological-warfare
@@ -18,9 +18,7 @@ media_books:
 people:
 - Phil Hellmuth
 products_models: []
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qG4gaIGXaK4
 speaker: All-In Podcast
@@ -32,7 +30,6 @@ tags:
 - strategy
 title: All-In 播客对决扑克传奇：一场充满智慧与风云的牌桌特别赛
 ---
-
 ### 欢迎来到 All-In Bestie 扑克邀请赛
 
 好了，各位，欢迎来到在威尼斯人酒店举办的首届 All-In Bestie 扑克邀请赛。我们四位 Besties 中有三位到场，另外还有两位世界上最伟大的扑克选手，以及菲尔·赫尔姆斯也加入了我们。还有杰森·库恩和艾伦·基廷。这将是一场精彩的对决。大家都在赌我需要多久能让菲尔**上头**（Tilt：扑克术语，指玩家因情绪失控而做出非理性决策）。赌局的盘口是 7 分钟。所以你可以赌 7 分钟以内还是 7 分钟以外，我们拭目以待。

@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ibpc7dh0eTs
 speaker: 投资TALK君
@@ -26,7 +23,6 @@ tags:
 - tech-earning
 title: 科技巨头财报炸裂，美联储会议解读与市场展望
 ---
-
 ### 市场概览与主持人寄语
 
 各位观众大家好，欢迎来到一个每天不单只聊新闻的专业美股日更频道，我是市场分析员肖涛。似乎没有过多久，现在又在录制视频，并即将上传，我们又将在留言区见面。确实没过多久，对吧？反正每天都有东西可以聊，每天都可以和大家以这种方式交流，这让我觉得挺有意思的。希望我可以坚持下去，也希望大家可以坚持下去。

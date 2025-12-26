@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-10-07'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - peter-santenello
 products_models: []
-project:
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KaVBJjkY8Fs
 speaker: Peter Santenello
@@ -24,7 +23,6 @@ tags:
 - life
 title: 深入密歇根北部：一场穿越科威诺半岛的探索之旅
 ---
-
 ### 开启北境之旅
 
 (gentle music)

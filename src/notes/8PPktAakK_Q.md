@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 自由党
@@ -18,10 +18,7 @@ people:
 - 博励治
 - 唐纳德·特朗普
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8PPktAakK_Q
 speaker: 莊也雜談
@@ -35,7 +32,6 @@ tags:
 - system
 title: 2025加拿大超级大选深度解析：卡尼逆袭组建少数政府，特朗普意外助攻，加拿大政治版图改写
 ---
-
 ### 引言：2025加拿大超级大选概览
 
 2025年4月28日，加拿大超级大选掀起惊涛骇浪，大选进入最后的投票环节。马克·卡尼带领自由党从1月份民调的绝对劣势中涅槃重生，绝地反击，最终赢得大选，组成**少数政府**（Minority Government: 指执政党在议会中所占席位未过半，需要其他党派支持才能通过法案的政府形式）。而博励治率领的保守党却意外失手，甚至连党魁博励治本人都丢掉了自己的选区。本期节目将深入探讨其中的精彩细节，以及南边的唐纳德·特朗普在这场加拿大超级大选中扮演的角色，大选之后特朗普又是如何表态的。我们还将分析为什么说这场大选改写了加拿大的政治版图，使得加拿大正式进入了两党时代。

@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -21,8 +21,7 @@ products_models:
 - GPT-4
 - Gemini 3
 - Trainium
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-_JDc0XYsB4
 speaker: 硅谷101
@@ -33,7 +32,6 @@ tags:
 - cloud-computing
 title: AI云端狂想曲：亚马逊云科技的算力突围、Agent重构与卓越运营
 ---
-
 **
 
 ### AI大战新格局与亚马逊云科技的战略机遇

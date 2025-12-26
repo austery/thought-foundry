@@ -20,10 +20,7 @@ people:
 - Donald Trump
 - Will Jarvis
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d-b_Z4_KywI
 speaker: New York Times Podcasts
@@ -36,7 +33,6 @@ tags:
 - us-election
 title: 曼达尼历史性胜选与民主党全国之夜：美国政治与全球热点回顾
 ---
-
 ### 节目开场
 
 来自《纽约时报》的头条新闻。我是特雷西·芒福德。今天是11月5日星期三。以下是我们今天将报道的内容。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -18,10 +18,7 @@ people:
 - Ronald Reagan
 - Brian Stewart
 - Jeyan Jeganathan
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zSbL3DR_l9k
 speaker: TVO Today
@@ -36,7 +33,6 @@ tags:
 - power
 title: 加拿大在世界舞台上的新角色：挑战与选择
 ---
-
 ### 加拿大在世界舞台上的新角色：挑战与选择
 
 >> 主持人: 马克·卡尼（Mark Carney）总理上周再次表示，加拿大与美国之间的旧有关系已经结束。

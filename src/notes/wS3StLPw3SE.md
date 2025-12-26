@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg Podcasts
@@ -27,9 +27,7 @@ people:
 products_models:
 - Gemini
 - AlphaFold
-project:
-- investment-strategy
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wS3StLPw3SE
 speaker: Bloomberg Podcasts
@@ -45,7 +43,6 @@ tags:
 - technology
 title: D.A. Wallach 深度解析：生物技术风险投资的独特性与未来
 ---
-
 ### D.A. Wallach 的跨界之旅：从音乐到生物技术投资
 
 主持人 Tracy Alloway 和 Joe Weisenthal 介绍了本期节目嘉宾 D.A. Wallach，他拥有一个非传统的职业生涯轨迹，从一名职业音乐人转型为风险投资家，尤其专注于生物技术领域。Wallach 分享了他如何从音乐领域“滑入”风险投资界，最初是通过投资 Spotify，并逐渐将兴趣和专业知识拓展到包括生物技术在内的多个行业。他将自己目前的工作比作“为科学家做唱片制作人”，并认为音乐与生物技术投资之间存在一个有趣的共同挑战：如何在商业化过程中平衡艺术与科学，或医学与资本主义。

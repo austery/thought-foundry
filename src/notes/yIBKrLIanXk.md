@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NATO
@@ -29,10 +29,7 @@ people:
 - Jeffrey Sachs
 products_models:
 - F-35
-project:
-- us-analysis
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yIBKrLIanXk
 speaker: 北美王路飞
@@ -46,7 +43,6 @@ tags:
 - sino-japanese-relations
 title: 俄乌和平协议的真相与中日外交危机的深层逻辑
 ---
-
 ### 中日外交危机：高市早苗言论引发的风暴
 
 **北美王路飞:** 我们今天先从中日外交危机开始讲。最近，中国驻大阪总领事薛剑发了一条推文，措辞激烈，意指要“砍掉高市早苗的头”，引起了轩然大波。

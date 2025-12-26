@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vrY8x-iGsFs
 speaker: EO
@@ -22,7 +21,6 @@ tags:
 - openledger
 title: 停止免费喂养AI：OpenLedger的去中心化数据经济愿景
 ---
-
 ### 数据所有权与AI的未来
 
 I learned the world through the internet; I think for my daughter, they will learn the world through AI.

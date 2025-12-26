@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Microsoft
@@ -47,10 +47,7 @@ products_models:
 - Claude
 - GPT
 - TPU
-project:
-- investment-strategy
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ECu8d7kWbeQ
 speaker: 硅谷101播客
@@ -64,7 +61,6 @@ tags:
 - securitization
 title: AI万亿基建的资本迷局：电从何来？钱从何处？
 ---
-
 ### 引言：AI竞赛的万亿级门槛——电与钱
 随着人工智能竞赛的深入，行业的瓶颈正从GPU芯片转向更基础的资源：电力。正如微软CEO萨提亚·纳德拉所言，AI缺的不是GPU，而是电力。当一个产业的投资规模从百亿级别跃升至万亿级别时，市场开始讨论这是否预示着一场新的投资泡沫。
 

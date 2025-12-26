@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -31,8 +31,7 @@ products_models:
 - Mistral
 - Gemma
 - AlphaGo
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YJoegm7kiUM
 speaker: Hung-yi Lee
@@ -44,7 +43,6 @@ tags:
 - reinforcement-learning
 title: 大型语言模型的学习历程：预训练、微调与强化学习
 ---
-
 ### LLM三阶段学习概述
 
 今天的课程是大型语言模型的学习历程，我们将探讨日常使用的人工智能，如 **ChatGPT** 和 **Gemini** 等，它们是如何被打造出来的。大型语言模型的学习历程通常分为三个标准阶段：**Pre-training**（预训练: 大型语言模型训练的第一阶段，通过大量无标注数据学习语言模式）、**SFT**（**Supervised Fine Tuning**: 监督微调，大型语言模型训练的第二阶段，通过人类标注的问题-答案对进行学习）和 **RLHF**（**Reinforcement Learning with Human Feedback**: 人类反馈强化学习，大型语言模型训练的第三阶段，通过人类对模型输出的反馈进行学习）。

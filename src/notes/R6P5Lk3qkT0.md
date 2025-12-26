@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 date: '2025-06-29'
 draft: true
@@ -21,10 +21,7 @@ people:
 products_models:
 - 现代货币理论 (MMT)
 - CPP
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=R6P5Lk3qkT0
 speaker: 王红雨
@@ -38,7 +35,6 @@ tags:
 - trade-war
 title: 美债投资：在变局中寻找确定性——从历史、MMT到川普政策的深度解析
 ---
-
 ### 美债投资：一个悬而未决的全球性议题
 
 大家好，今天是2025年6月29日，欢迎大家再次回到我的频道。今天要跟大家聊一个大家一直讨论很多，但悬而未决的问题：在目前的情况下，尤其是特朗普执政以来，美债还值不值得投资？

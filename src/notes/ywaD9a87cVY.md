@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Google
@@ -24,10 +24,7 @@ people:
 - Steve Jobs
 products_models:
 - YouTube
-project:
-- systems-thinking
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ywaD9a87cVY
 speaker: 超級歪 SuperY
@@ -41,7 +38,6 @@ tags:
 - social
 title: 脑边缘资本主义与失控的焦虑世代：社交媒体如何损害Z世代心智
 ---
-
 ### Z世代的心理健康危机：一个全球性现象
 
 近期，心理学家们发现，自2010年以来，全球青少年的抑郁症、焦虑症和自杀率持续上升。究竟发生了什么？美国心理学家Jonathan Haidt在他的新书《**失控的焦虑世代**》（The Anxious Generation）中提出了一个令人震惊的解释。他认为，1995年以后出生的**Z世代**（Generation Z: 指1995年及以后出生的人群），从小生活在一个由手机主导的世界中。这是人类历史上第一次，整整一代儿童在童年时期脱离现实，将时间花费在屏幕上。这种现象正在无形中损害年轻人的大脑，并导致全球年轻人出现心理健康问题。

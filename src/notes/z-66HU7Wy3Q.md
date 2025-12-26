@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - FBI
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 艾琳娜的回忆录
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=z-66HU7Wy3Q
 speaker: 大伟探秘加拿大
@@ -27,7 +24,6 @@ tags:
 - society
 title: 间谍之子如何改写加拿大法律：瓦维洛夫案的深远影响
 ---
-
 ### 现实版“美国谍梦”：潜伏的俄罗斯间谍夫妇
 
 如果让您想象一个俄罗斯**克格勃**（KGB: 苏联国家安全委员会，前苏联的主要情报和秘密警察机构）的顶级间谍，您的脑海里会浮现出什么样的形象？是穿着风衣、在阴暗小巷里街头的冷酷杀手，还是像007那样开着豪车、端着马提尼的特工？现实往往比电影更加荒诞。在2010年之前的美国麻省剑桥市，也就是哈佛和麻省理工学院的所在地，最顶级的俄罗斯间谍可能就是住在您隔壁的那对总是满脸笑容的夫妇。

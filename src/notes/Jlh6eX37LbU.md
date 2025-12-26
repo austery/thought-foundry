@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-07'
@@ -23,7 +23,6 @@ tags:
 - 马克龙
 title: 法国危机加剧：政治动荡与市场担忧
 ---
-
 ### 法国政治动荡与政治人物的未来
 
 Well, look, let's start with Lional's latest piece about this, talking about Sebastian Lornu, supposed to be Emanuel Macro's last chance man to keep his presidency on the rails through 2027.

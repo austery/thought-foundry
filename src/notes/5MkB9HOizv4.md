@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - fearnation
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5MkB9HOizv4
 speaker: FearNation 世界苦茶
@@ -26,7 +23,6 @@ tags:
 - security
 title: 智能设备威胁、中国制造崛起与气候博弈：深度解析中国议题
 ---
-
 ### 智能设备的“特洛伊木马”：中国制造与数字安全的潜在威胁
 
 大家大家好，欢迎来到本期的世界苦茶观察线节目。我们尝试将世界苦茶分为事实线、分析线和观察线。观察线节目是汇总全球智库、国际媒体和分析中国问题的 Substack 内容，关注全球顶尖思考者对中国问题的关切和分析。在信息爆炸时代，帮你选择内容，进行深度解读，为希望成为中国问题专家的思考者提供最好的信息。

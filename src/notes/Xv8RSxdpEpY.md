@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 长荣航空
@@ -15,9 +15,7 @@ media_books:
 - Bilibili
 products_models:
 - N95口罩
-project:
-- china-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Xv8RSxdpEpY
 speaker: 莊也雜談
@@ -31,7 +29,6 @@ tags:
 - society
 title: 阔别五年重返故土：庄也详述2023中国探亲北京入境见闻与社会观察
 ---
-
 ### 万圣节的甜蜜“打劫”
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续聊天，首先聊一聊刚刚过去的**万圣节**（Halloween: 西方国家的传统节日，儿童会装扮并挨家挨户要糖）。平时因为我们家没有孩子，所以我们是不怎么过万圣节的。不过自从搬到这个奥村之后，你不过都不行，因为这里孩子多，一到万圣节总有孩子敲你家门，你也不能装不在家不给人家开门。

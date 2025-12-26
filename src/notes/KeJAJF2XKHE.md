@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -19,10 +19,7 @@ people:
 - Rachel Notley
 - Doug Ford
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KeJAJF2XKHE
 speaker: TVO Today
@@ -36,7 +33,6 @@ tags:
 - right
 title: 加拿大新输油管道协议的政治风波与党派忠诚的民主困境
 ---
-
 ### 加拿大新输油管道协议引发的政治风波
 
 当谈到在过去几年里基本定义了加拿大政治的词汇时，“输油管道”无疑位居前列。

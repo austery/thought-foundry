@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs: []
 date: '2025-09-22'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VfZoe5YxRNQ
 speaker: 北美王路飞
@@ -22,7 +21,6 @@ tags:
 - trump-administration
 title: H1-B签证剧变：一场政治豪赌与美国未来之忧
 ---
-
 ## H1-B签证风暴：10万美元的申请费
 
 前两天，川普总统签署了一项行政命令，规定未来申请**H1-B工作签证**（一种美国向高技能外国人才发放的非移民工作签证），需要先交10万美元的申请费。你没听错，是10万美元。这个新闻一出，整个市场就炸了锅。

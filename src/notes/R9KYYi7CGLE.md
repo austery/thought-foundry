@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中央情报局
@@ -17,10 +17,7 @@ people:
 - 小布什
 - 老布什
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=R9KYYi7CGLE
 speaker: 北美王路飞
@@ -34,7 +31,6 @@ tags:
 - war-decision-making
 title: 「这可能是本世纪最大的骗局」：复盘伊拉克战争背后的谎言与权力游戏
 ---
-
 ### 2003年：一场被精心设计的战争
 
 2023年3月的那个夜晚，全世界的目光聚焦在电视屏幕上——战斧巡航导弹如手术刀般刺破巴格达夜空，在绿色夜视画面中炸开一团团火球。那一刻，支持这场战争的人们理直气壮地宣称：这是正义的铁拳，是对“9·11”事件的复仇，是为了从疯子**萨达姆·侯赛因**手中夺回足以毁灭世界的生化武器。

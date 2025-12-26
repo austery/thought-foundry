@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - IBM
@@ -47,10 +47,7 @@ products_models:
 - 比特币
 - 以太坊
 - 数字人民币
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oq_o2NPIEyA
 speaker: 小翠時政財經
@@ -64,7 +61,6 @@ tags:
 - us-china-relations
 title: 川总东南亚之行成果丰硕，中美谈判与全球市场动态深度解析
 ---
-
 ### 川普东南亚之行：外交与贸易的胜利
 
 大家好，欢迎回到崔时政财经。今天是美东时间2025年10月27日。本期节目将为大家分享许多好消息，因为全球股市一片大涨。这要归功于川普总统，他以一人之力带动全球股市上涨，并在亚洲进行了一系列精彩的外交活动。

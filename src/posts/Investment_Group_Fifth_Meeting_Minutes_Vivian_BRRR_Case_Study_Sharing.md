@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: finance
 channel: null
@@ -13,8 +13,7 @@ people:
 - Vivian
 - Frank
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: ''
@@ -25,7 +24,6 @@ tags:
 - 案例分享
 title: 投资小组第五次会议纪要：Vivian的BRRR案例分享
 ---
-
 ## 一、 会议开场与新成员介绍
 
 **Lei:** 好的，我觉得可以开始了。今天我们有一位新成员

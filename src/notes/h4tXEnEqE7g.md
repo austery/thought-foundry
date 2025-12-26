@@ -31,10 +31,7 @@ people:
 - Bernie Sanders
 - Hillary Clinton
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h4tXEnEqE7g
 speaker: 记者易速利
@@ -47,7 +44,6 @@ tags:
 - us-election
 title: 美国政治钟摆：弗吉尼亚与新泽西的温和胜利，纽约左翼市长曼达尼的挑战
 ---
-
 ### 美国政治钟摆：弗吉尼亚与新泽西的温和胜利
 
 美国地方选举显示了其政治运作的钟摆规律：总统大选的赢家在接下来的选举中通常会失去一些优势。从弗吉尼亚州的情况来看，过去几十年，该州已从红色州逐步变成战场州，再到现在浅蓝色的州。主要原因是靠近首都华盛顿的北弗吉尼亚经济发展迅猛，人口增长速度比较快。弗吉尼亚州长选举一般都会投给与白宫不同政党的候选人，这个现象在过去50多年来可能只有一次例外。弗吉尼亚州长不能够连任。现任的共和党州长格伦·扬金（Glenn Youngkin）是位成功的金融家出身，在任上口碑非常好。

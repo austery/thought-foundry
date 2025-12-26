@@ -21,10 +21,7 @@ people:
 - Satya Nadella
 products_models:
 - Claude
-project:
-- investment-strategy
-- systems-thinking
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ThjGqGiNYs4
 speaker: Norges Bank Investment Management
@@ -38,7 +35,6 @@ tags:
 - technology
 title: 挪威主权财富基金的成功秘诀：透明、长期与创新
 ---
-
 ### 欢迎与挪威主权财富基金的洞察
 
 **谢尔盖·古伊夫**（Sergey Guif: 伦敦商学院院长）致欢迎辞，并向在场嘉宾问好。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Mistral AI
@@ -11,8 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - vLLM
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UJuDZNykOIc
 speaker: AI超元域
@@ -27,7 +26,6 @@ tags:
 - technology
 title: Ministral 3 14B模型深度评测：超越Qwen3，多模态与256K上下文窗口的强大表现
 ---
-
 ### Ministral 3系列模型发布及核心亮点
 
 Mistral AI今天发布了**Ministral 3系列模型**（Mistral 3 Series Models: Mistral AI推出的一系列大型语言模型），其中包括旗舰版本**MTR Olar Ge 3**，以及另一个**Ministral 3**子系列模型。该子系列模型包含14B、8B和3B三个版本。尤其是**Ministral 3 14B**模型，它在多项基准测试中的得分都超越了**Qwen3 14B**。无论是MTR Olar Ge 3还是Ministral 3系列模型，它们的**上下文窗口**（Context Window: 大型语言模型能处理的最大输入文本长度）都达到了256K。这个256K的上下文窗口是**Qwen3系列模型**所支持上下文窗口的8倍，因为Qwen3系列模型支持的上下文窗口是32K，扩展后才能达到131K。因此，Ministral 3系列模型支持的256K上下文窗口是目前这些小参数开源模型中最大的，这意味着模型可以处理更多的文档和更多轮的对话。

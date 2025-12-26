@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: finance
 channel: null
@@ -11,9 +11,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=s5kdSry9JCk&t
 speaker: Joseph Wang
@@ -25,7 +23,6 @@ tags:
 - 市场投机
 title: 市场狂热与关税终局：美股投机现象及贸易谈判分析
 ---
-
 ## 市场中的投机狂热：猿族全面掌控？
 
 Hello my friends. Today is July 26 and this is Markets Weekly. Now, this past week was a pretty slow week when it came to data, but when it comes to the stock market, it was basically a perfect week. As they say, the **S&P 500** (标准普尔500指数：追踪美国500家大型上市公司股票表现的指数) made new all-time highs every single day.

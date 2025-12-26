@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Oracle
@@ -37,10 +37,7 @@ people:
 products_models:
 - FSD
 - Optimus
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dhJTeFTffAk
 speaker: Amit Kukreja
@@ -54,7 +51,6 @@ tags:
 - stock
 title: 甲骨文巨额融资数据中心、特斯拉财报与Palantir合作：市场动态全解析
 ---
-
 ### 市场动态速览：甲骨文、Palantir与特斯拉
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目。今天有很多事情要谈。首先，甲骨文（**Oracle**）在盘后宣布了一项380亿美元的债务发行，用于建设数据中心，你猜对了。我们将讨论这一事件及其对数据中心公司的影响。Palantir今天签署了一项相当大的合作协议，估计是与Lumen公司达成的潜在2亿美元的多年期合作。我们将讨论这项合作及其意义。财报季已经正式开始。下周将迎来许多大型科技公司的财报，但我们昨天已经看到了特斯拉（**Tesla**）的财报。因此，我们将回顾特斯拉的财报，并讨论过去48小时内发生的一些财报事件以及一些宏观数据。关于财报的基本论点是，根据我们今天收到的财报，第三季度看起来将是一个相当强劲的季度。英特尔（**Intel**）和福特（**Ford**）的财报表现也并非最差。所以，我们有很多要谈的。让我们开始吧。

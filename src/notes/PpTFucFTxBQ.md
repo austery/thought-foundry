@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies:
 - precious-metal
@@ -11,12 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - amit-kukreja
-project:
-- ai-impact-analysis
-- china-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PpTFucFTxBQ
 speaker: Amit Kukreja
@@ -28,7 +23,6 @@ tags:
 - us-china-relations
 title: 每日市场回顾：中国局势、AI合作、以太坊投资与贵金属热潮
 ---
-
 ### 每日回顾回归：浓缩市场精华
 
 Hey everybody, welcome back to the channel. We are back on another episode of the daily recap. It has been five long months, but we are back.

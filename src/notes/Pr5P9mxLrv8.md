@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - Money or Life美股频道
@@ -26,8 +26,7 @@ products_models:
 - TPU
 - GPU
 - HBM
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Pr5P9mxLrv8
 speaker: Money or Life 美股频道
@@ -41,7 +40,6 @@ tags:
 - space-data-center
 title: 太空数据中心：可行性、挑战与中美竞赛
 ---
-
 大家好，欢迎来到**Money or Life美股频道**，我是**Ace**。最近几周，太空数据中心这个话题开始发酵，特别是随着**Elon Musk**（**马斯克**: 特斯拉和SpaceX的创始人兼CEO）确认**SpaceX**（一家美国航空航天制造商和空间运输服务公司）即将在明年底或后年初上市，整个相关的讨论开始热了起来。在过去几天，我搜集了很多相关信息，涉及的公司包括创业公司**Starcloud**、刚刚提到的**SpaceX**以及本频道持续关注的**火箭实验室**（**RocketLab**: 一家美国航空航天制造商和空间运输服务公司）。
 
 屏幕前的这份谷歌文档分为八个部分，包括开篇**Starcloud**白皮书解读、**谷歌**（**Google**: 一家美国跨国科技公司）“追日计划”**Project SunCatcher**的解读，还有大家非常关心的辐射器散热板面积的计算，以及网上韩国网友对于太空散热的文章。此外，我们还将关注**火箭实验室**的相关产品，也就是太空级太阳能板产品，最后谈一下中美太空竞赛以及我自己的观点。欢迎大家订阅**Money or Life美股频道**，这是对我视频创作的最大支持。借着现在12月圣诞和元旦假期的机会，如果屏幕前的朋友们想要通过视频下方的Patreon链接加入我的会员平台，首月可以获得50%的优惠，仅仅只需要花几美金就可以获得我的日常文字更新、我的个股分析数据，包括本期视频要涵盖的太空数据中心的谷歌文档等等。

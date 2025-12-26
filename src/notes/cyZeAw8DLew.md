@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 date: '2025-11-05'
 draft: true
@@ -15,10 +15,7 @@ media_books:
 - Twitter
 products_models:
 - Figma
-project:
-- entrepreneurship
-- personal-growth-lab
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cyZeAw8DLew
 speaker: 课代表立正
@@ -32,7 +29,6 @@ tags:
 - talent
 title: 00后CEO Kay：AI时代创业、成长与市场策略深度洞察
 ---
-
 ### 00后CEO Kay：从辍学到创立AI达人营销平台
 
 大家好，我是Kay，**Head AI**（现已更名为**Aha**）的创始人。**Aha**是一个直接用**AI**（Artificial Intelligence: 人工智能）交付达人营销结果的平台。我们累计已服务300多家公司，并帮助达人在达人营销方面赚取了超过100万美金。公司成立至今约一年半，已累计融资近1000万美金，目前处于Pre-A轮。

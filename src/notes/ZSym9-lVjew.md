@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - 清华大学
@@ -25,8 +25,7 @@ products_models:
 - MBTI
 - Python
 - SQL
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZSym9-lVjew
 speaker: 北美王路飞
@@ -40,7 +39,6 @@ tags:
 - technology
 title: 从加拿大求学到职场：深度解析留学生的面试策略与职业心法
 ---
-
 ### 从外国语学校到加拿大的求学之路
 
 **王路飞:** 大家晚上好、早上好、中午好。我们今天邀请到 Bill 来聊聊他在加拿大求学的经验。Bill，你是高中毕业就去的，还是大学毕业之后去的加拿大？

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Google
@@ -20,9 +20,7 @@ insight: ''
 layout: post.njk
 people:
 - Jeff Bezos
-project:
-- entrepreneurship
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d6lKyaPgvzs
 speaker: EO
@@ -36,7 +34,6 @@ tags:
 - startup
 title: 初创公司如何实现规模化增长：一位十亿美元级创始人的经验教训
 ---
-
 ### 核心理念：承诺不足，交付有余与客户忠诚度
 
 一个单独的功能不足以赢得客户的青睐。我们成功的核心秘诀之一是“承诺不足，交付有余”。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-08-21'
@@ -21,9 +21,7 @@ people:
 - Jesus
 - Plato
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yHRaXe1uEw4
 speaker: 大问题Dialectic
@@ -35,7 +33,6 @@ tags:
 - plato-political-philosophy
 title: 苏格拉底的真实死因：真理、民主与哲学的殉道
 ---
-
 ### 苏格拉底之死：西方历史上的重大哲学事件
 
 哲学家**苏格拉底**（Socrates: 古希腊著名哲学家，被誉为西方哲学的奠基人之一）是历史上唯一一个通过民主投票的方式被雅典民众判处死刑的哲学家。这位哲学家究竟做了什么，能得罪广大老百姓呢？今天这一讲，我们将揭示苏格拉底的真实死因。欢迎来到《100个哲学大概念开悟人生》。

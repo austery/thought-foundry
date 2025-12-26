@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 有知有行
@@ -19,10 +19,7 @@ people:
 - 李强
 - 刘德华
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J5iIA1jaoA0
 speaker: 知行小酒馆
@@ -36,7 +33,6 @@ tags:
 - technology
 title: 生活可以没意义，但绝不能没意思：欧阳应霁的60岁生活哲学
 ---
-
 ### 生活的“有意思”，比“意义”更真实
 
 在一场关于美食、艺术与人生哲学的对话中，香港文化人欧阳应霁用一句简单的话击中了无数现代人的内心：“生活可以没意义，但绝不能没意思。”这句话不是鸡汤，而是一个历经岁月沉淀后的真实体悟。在算法主导审美、效率压榨体验的时代，他用60多年的人生实践告诉我们：真正的生命力，不在于宏大叙事或社会认可，而藏在每一次对日常细节的认真凝视里。

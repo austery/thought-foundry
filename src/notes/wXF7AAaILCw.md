@@ -17,11 +17,8 @@ insight: ''
 draft: true
 series: ''
 category: work-related
-area: tech-work
-project:
-  - ai-impact-analysis
-  - china-analysis
-  - us-analysis
+area: "work-career"
+project: []
 people:
   - 詹姆斯·金奇
   - 马里奥·德拉吉

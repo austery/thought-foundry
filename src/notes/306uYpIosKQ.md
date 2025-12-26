@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -75,10 +75,7 @@ products_models:
 - iPhone
 - Siri
 - GTC
-project:
-- us-analysis
-- china-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=306uYpIosKQ
 speaker: Amit Kukreja
@@ -92,7 +89,6 @@ tags:
 - us-china-relations
 title: 特朗普政府或入股量子计算公司，市场热议背后动机与利益疑云
 ---
-
 ### 开盘综述：市场静待CPI数据
 
 大家早上好，欢迎回到新一期的《市场开盘》。今天是10月23日，星期四。这一周过得真快，离周五只有一天了。我们在这里直播，有很多内容要讨论，感谢大家的到来。盘前有很多不同的头条新闻，我们都会谈到。明天我们将得到 **CPI**（Consumer Price Index: 消费者价格指数）数据。所以我认为今天的市场活动肯定会在一定程度上取决于对CPI数据的看法。我们会谈谈华尔街对CPI可能出现的情况的一些总体预测。

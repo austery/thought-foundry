@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Microsoft
@@ -19,10 +19,7 @@ media_books:
 - We Need to Talk about Investor's Problem with Vaginus
 people:
 - Nam Kiwanuka
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qf3cDlMBK8w
 speaker: TVO Today
@@ -36,7 +33,6 @@ tags:
 - technology
 title: 女性科技（FemTech）的崛起：女性健康的未来之路
 ---
-
 ### 女性健康：被忽视的历史与科技的曙光
 
 Nam Kiwanuka: 欢迎收看《被误诊》。我是Nam Kiwanuka。

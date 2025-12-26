@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs: []
 date: '2025-05-29'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - youtuber
 products_models: []
-project:
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F6Lr_ks2lss
 speaker: 一口新飯
@@ -24,7 +23,6 @@ tags:
 - travel
 title: 张修修：我的“不正常”逆袭人生——从被退学到50万YouTuber的心路历程
 ---
-
 ### 引言：一个“不正常”的逆袭故事
 
 主持人: 2022年6月，台湾YouTuber张修修接受了我们的采访。我第一次看到他的视频时，就强烈感觉到他背后隐藏着一个更大、更复杂、更精彩的人生故事。他的人生充满矛盾，一方面光环满身，完成了许多了不起的事情，例如骑单车环球旅行并写成《不去会死》一书，创业推广台湾单车旅行文化，并获得了顶级YouTuber的支持。但另一方面，命运似乎总在与他开玩笑，让他经历了一次又一次的失败，感受不到未来，甚至曾被生活狠狠打倒，背负着巨大的压力。当时我很好奇，这个人的故事到底会发展成什么样子。在我看来，这就像一个现实版的超级英雄，落难后的逆袭故事。果不其然，这几年下来，修修的频道迅速成长，即将突破50万粉丝。我决定不能再等了，必须赶在他彻底起飞之前，认识他，跟他做朋友。这次我专程来到台北，与修修聊了近一整天，浓缩成一个多小时的对话，希望能给你带来启发。

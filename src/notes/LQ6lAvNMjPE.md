@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Roche
@@ -17,10 +17,7 @@ media_books:
 people:
 - Nicola Tangan
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LQ6lAvNMjPE
 speaker: Norges Bank Investment Management
@@ -34,7 +31,6 @@ tags:
 - strategy
 title: 罗氏CEO Thomas Schinecker访谈：创新、全球战略与医疗未来
 ---
-
 ### 罗氏：创新与全球医疗的领导者
 
 大家好，我是挪威主权财富基金的首席执行官Nicola Tangan。今天我们邀请到了**罗氏**（Roche: 全球领先的医疗保健公司）的首席执行官Thomas Schinecker。

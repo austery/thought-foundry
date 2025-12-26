@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Amazon
@@ -24,10 +24,7 @@ people:
 - Bernie Sanders
 - Alan Greenspan
 - Warren Buffett
-project:
-- us-analysis
-- systems-thinking
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=-loW7xS73BM
 speaker: Money & Macro
@@ -41,7 +38,6 @@ tags:
 - policy
 title: 经济困境下股市为何繁荣？垄断、政策与竞争的深层解析
 ---
-
 ### 经济困境与股市繁荣的悖论
 
 一位卡车司机开始上班时，打开了收音机。新闻报道企业利润创历史新高，股市也蓬勃发展。然而，他的工资却难以跟上物价上涨的步伐。这个故事听起来熟悉吗？很有可能，因为正如你所看到的，在过去几十年里，工资中位数一直保持相对停滞，而股价却经历了巨大的增长。有些人认为股市上涨只是未来经济会好转的迹象，或许这要归功于人工智能。另一些人则认为，这是因为富人越来越富，因此购买了更多资产，从而推高了资产价格。但在美国，左右翼的民粹主义政客越来越多地将责任归咎于亚马逊等大型垄断企业以及其他常见的科技巨头。伯尼·桑德斯认为，我们身处一个又一个的行业，少数几家大公司控制着一切，并参与了大量的价格操纵。这不仅仅是一个道德问题，也启发了经济学。但事实真是如此吗？经济学告诉我们的不是恰恰相反吗？为什么像亚马逊、微软和英伟达这样高效创新的公司应该因其创新而获得奖励，而效率低下的公司却明显萎缩？然后消失？

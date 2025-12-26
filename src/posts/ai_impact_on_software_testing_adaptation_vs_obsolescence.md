@@ -1,6 +1,6 @@
 ---
 Exclude: true
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: null
@@ -12,9 +12,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: null
 source: null
 speaker: PCC insider
@@ -26,7 +24,6 @@ tags:
 - technology
 title: AI 对软件测试的影响：是技术颠覆还是效率革命？
 ---
-
 ## 开场：Azure AI 培训与认证介绍
 
 **Summer**: and do the recordable part. Yeah, you have to reshare. Reshare faces if willing.

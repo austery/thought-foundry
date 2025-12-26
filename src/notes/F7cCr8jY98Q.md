@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 北约
@@ -13,10 +13,7 @@ layout: post.njk
 people:
 - Ray Dalio
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=F7cCr8jY98Q
 speaker: 海淀拙大叔
@@ -30,7 +27,6 @@ tags:
 - war
 title: 俄乌战争：双重经济周期叠加下的必然性与全球秩序重构
 ---
-
 ### 俄乌战争：双重经济周期叠加的必然
 
 海淀拙大叔在2025年3月20日的研究中指出，对俄乌战争起因的探究，主要是为了推测战争结束后世界将如何演变。过去三年里，普遍观点认为战争是**北约**（NATO: 北大西洋公约组织，冷战时期建立的军事联盟）东扩挤压俄罗斯战略空间，导致俄罗斯绝地反击的结果。然而，本文将从经济周期的视角提供另一种解释。

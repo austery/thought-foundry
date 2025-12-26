@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 一席YiXi
@@ -16,10 +16,7 @@ people:
 - 鲁迅
 - 胡适
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SeGzxphoziE
 speaker: 一席YiXi
@@ -33,7 +30,6 @@ tags:
 - society
 title: 《西游记》不是一部小说：从瑜伽僧到全真教，揭开经典背后的多层作者战争
 ---
-
 ### 《西游记》的四个版本：童年、课本、原著与真相
 
 大家好，作为一个中国人，你从小接触的《西游记》可能不止一个版本。第一个是童年时在动画片、童书和电视剧里看到的《西游记》——那个充满奇幻与英雄主义的故事。第二个是语文课上的《西游记》，它被简化为“四大名著”之一，拥有标准答案和答题模板。第三个是原著版本——当你真正翻开那本满是文言与怪异句式的古籍，才发现它和你记忆中的故事完全不同：唐僧懦弱、多疑、甚至猥琐；孙悟空才是真正的智者和行动派。而第四个版本，是今天网上流行的“权谋版《西游记》”——有人告诉你，这书里藏着顶级官场智慧、暗黑政治隐喻。

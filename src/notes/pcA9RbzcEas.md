@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: '[]'
 date: 2025-10-29
@@ -15,10 +15,7 @@ media_books:
 people:
 - Joe Rogan
 - Lex Friedman
-project:
-- us-analysis
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pcA9RbzcEas
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - political-correctness
 title: 圣诞节的记忆、包容与成长：一位父亲的节日感悟
 ---
-
 ### 圣诞记忆：来自恩师的第一张圣诞卡与礼物
 
 今天是**平安夜**（Christmas Eve），祝大家节日快乐，**圣诞快乐**（Merry Christmas），**节日快乐**（Happy Holidays）。在美国生活过的人，可能都曾收到过**圣诞卡**（Christmas card）和圣诞礼物。人生总有许多第一次，我第一次收到圣诞卡是在高中时期，那是我的高中英文老师吴建林老师写的。当时我上高三，他用英文写着“Merry Christmas and Happy New Year”。从那时起，我就习惯在节日季节用“Merry Christmas and Happy New Year”来祝福他人。

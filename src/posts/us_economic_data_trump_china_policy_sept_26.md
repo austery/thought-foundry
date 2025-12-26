@@ -4,11 +4,9 @@ summary: A comprehensive analysis of recent US economic data, the political impl
   of James Comey's indictment, new trade war measures from the Trump administration,
   revelations in the TikTok deal, and China's latest domestic financial and social
   policies.
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
-project:
-- china-analysis
-- us-analysis
+project: []
 tags:
 - trade-war
 - trump-administration

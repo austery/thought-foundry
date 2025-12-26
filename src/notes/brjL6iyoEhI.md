@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - a16z
@@ -47,10 +47,7 @@ products_models:
 - GPT-4
 - AlphaFold
 - AlphaZero
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=brjL6iyoEhI
 speaker: a16z
@@ -66,7 +63,6 @@ tags:
 - llm
 title: Reid Hoffman 谈 AI、意识与未来劳动力
 ---
-
 ### 硅谷的创新哲学与AI投资框架
 
 这实际上是人们对**硅谷**（Silicon Valley: 位于美国加利福尼亚州北部，是全球高科技产业的中心）不了解的一点。你总是从“你能突然创造出什么惊人的东西？”这个问题开始。许多公司，当你问他们“你的商业模式是什么？”时，他们会说：“我不知道。”他们会说：“是的，我们会努力解决，但我能在这里创造出一些惊人的东西。”而这实际上是**硅谷**的核心理念，也可以说是它的“宗教”和知识体系，我非常热爱、钦佩并身体力行。

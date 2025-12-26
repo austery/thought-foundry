@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times
@@ -19,10 +19,7 @@ people:
 - John F. Kennedy
 - Nikita Khrushchev
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Yt4XAhCP8ng
 speaker: 超級歪 SuperY
@@ -36,7 +33,6 @@ tags:
 - technology
 title: 拆解父权制：从起源、运作机制到男性困境与女性主义的误解
 ---
-
 ### 父权制的定义与运作机制
 
 上个月，《三道猴子的一生》爆红，许多人开始讨论台湾底层男性的困境。在政治场域中，各种性别歧视与厌女争议也层出不穷。在#MeToo运动之后，各种红药丸与PUA（Pick-up Artist: 搭讪艺术家）的讨论又再度浮现。这些议题最终都会回归到一个根本问题：**父权制**。但父权制究竟是什么？它又是如何运作的？今天我们要面对的书是《性別打結—拆除父權違建》（The Gender Knot），作者是美国社会学家艾伦·约翰逊（Allan Johnson）。这本书旨在清晰地阐释父权制的来龙去脉，让我们一起了解父权制是什么，它如何压迫女性与男性，以及如何拆解父权制。

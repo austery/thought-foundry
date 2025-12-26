@@ -13,8 +13,7 @@ media_books:
 - Reddit
 people:
 - adam-s-axiom
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U6rWRagjA8I
 speaker: Adam's Axiom
@@ -27,7 +26,6 @@ tags:
 - investment
 title: 投资基金类型全解析：从ETF到基础设施基金
 ---
-
 ### 欢迎来到ETF与共同基金的世界
 
 欢迎来到**ETF**（Exchange Traded Fund: 交易所交易基金）和**共同基金**（Mutual Fund: 由基金管理公司运营的集合投资工具）的世界，在这里，金融工程师们将您的退休梦想变成了易于消化的产品，甚至您的智能手机也能在TikTok视频的间隙为您提供服务。这些投资工具是华尔街对大规模生产的回应，它们从成千上万有抱负的沃伦·巴菲特那里募集资金，并像拥有无数手臂的农民一样，通过算法将其分散到各个市场。您可以将其想象成拥有一支量化分析师团队来管理您的资金，只不过其中一半是运行着奥巴马政府时期编写代码的真实机器人。

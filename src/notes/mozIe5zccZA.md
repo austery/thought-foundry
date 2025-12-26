@@ -89,9 +89,7 @@ products_models:
 - iMessage
 - WhatsApp
 - XAI
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mozIe5zccZA
 speaker: Amit Kukreja
@@ -105,7 +103,6 @@ tags:
 - tariff-policy
 title: 市场开盘：抛售潮持续与反转机遇
 ---
-
 ### 市场概览与加密货币抛售
 
 大家好，欢迎回到市场开盘节目。很抱歉我迟到了，我们遇到了一些技术问题，但现在我们已经上线了，是时候开始节目了。今天是个糟糕的日子，延续了昨天的糟糕。昨天市场表现很差，我们所有人都预料到会有更多痛苦，因为昨天没有太多好消息，盘后也没有。没有核心的短期催化剂可以预期市场会反转，或者有任何有意义的理由让盘前市场转绿。我们看到 **S&P 500** 在盘前又下跌了1%，但 **S&P 500** 甚至不是今天的主要问题。

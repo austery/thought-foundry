@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-06'
@@ -11,8 +11,7 @@ people:
 - lt
 - 高市早苗
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=J4_UV2Qid-c
 speaker: LT視界
@@ -23,7 +22,6 @@ tags:
 - 美联储纪要
 title: 前港交所总裁李小加震撼发言：偿还欠债是中国的未来；中共警告民众：感受不好不能说
 ---
-
 ### 未来一周全球五大重要经济事件前瞻
 
 我们一起来分享今天不容错过的几条重要新闻。今天是10月5日，首先我们关注今天的财经头条，一起来了解一下未来一周最值得大家关注的五个重大经济事件。

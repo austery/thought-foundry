@@ -36,10 +36,7 @@ people:
 - Xi Jinping
 products_models:
 - FSD
-project:
-- china-analysis
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UeBJsFOUp2o
 speaker: LT視界
@@ -56,7 +53,6 @@ tags:
 - us-economy
 title: 中美关系、台海军售与中国内政：多维度透视全球热点
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是12月18日，我们首先来了解今天的财经头条。
 
 ### 美国通胀数据与美联储政策

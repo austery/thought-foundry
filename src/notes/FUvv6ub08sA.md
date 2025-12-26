@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Grab
@@ -26,10 +26,7 @@ people:
 - 黄仁勋
 products_models:
 - YouTube
-project:
-- china-analysis
-- us-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FUvv6ub08sA
 speaker: 北美王路飞
@@ -43,7 +40,6 @@ tags:
 - political-economy
 title: 小内亲历：越南投资环境全揭秘，真的比中国好混？
 ---
-
 ### 嘉宾介绍与越南之行缘起
 
 **北美王路飞:** 大家好，欢迎来到我的频道。今天很高兴请到了一位在越南的朋友，叫做Nemesis，我们就叫他小内。小内将跟我分享他在越南的一些见闻。小内，你可以简单给大家介绍一下你的经历。

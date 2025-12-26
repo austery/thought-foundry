@@ -26,10 +26,7 @@ people:
 products_models:
 - Robotaxi
 - USDC
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4FFITjcPvtw
 speaker: Money or Life 美股频道
@@ -42,7 +39,6 @@ tags:
 - us-stock-market
 title: 2025年9月美股复盘：Ace持仓策略与市场展望
 ---
-
 ### 2025年9月6日美股复盘与持仓更新
 
 大家好，欢迎来到Money or Life美股频道。今天是2025年9月6号周六。本周的美股复盘加推演节目，我主要是跟大家更新一下我目前的持仓，以及我持仓里面大部分股票我都会去过一下，跟大家说一下在过去一两周我是否有买入或者卖出的操作，以及我对这些股票的看法。几天前，我的YouTube频道订阅数超过了5万，感谢大家对我的支持。如果屏幕前的朋友们还没有订阅Money or Life美股频道，那么欢迎你们订阅，在这里有最深入的个股分析以及我的周末复盘等等精彩的节目。也欢迎你们加入我的YouTube或者是Patreon会员社群。

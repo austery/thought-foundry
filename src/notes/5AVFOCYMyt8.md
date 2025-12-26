@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Greenpeace
@@ -17,9 +17,7 @@ people:
 - David Eby
 - Rachel Notley
 - Steven Guilbeault
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5AVFOCYMyt8
 speaker: 大伟探秘加拿大
@@ -33,7 +31,6 @@ tags:
 - right
 title: 加拿大能源协议：联邦与阿省的世纪和解，BC省的宣战书
 ---
-
 ### 加拿大政坛与经济界的历史性大戏
 
 今天，我们将目光聚焦在2025年11月27日，这一天加拿大政坛和经济界上演了一场足以载入史册的大戏。就在这天，联邦总理**马克·卡尼**（Mark Carney: 加拿大前央行行长，现任联邦总理）与阿尔伯塔省（简称“阿省”）省长**丹尼尔·史密斯**（Danielle Smith: 阿尔伯塔省现任省长）共同签署了一份能源谅解备忘录。这不仅仅是一个签字仪式，它被视为是联邦与阿省关系彻底重置的一个里程碑，更让加拿大距离全球能源超级大国的梦想又近了一步。然而，拨开华丽的外衣，这不仅仅是一份战略协议，更像是一场充满争议的政治交易。协议的核心非常简单粗暴，就是修建一条通往BC省北部海岸的新输油管道。但是，恰恰是这条输油管道，正在加拿大西海岸撕开一道新的、甚至是可能威胁国家统一的裂痕。

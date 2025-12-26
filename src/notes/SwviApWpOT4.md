@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-07-11'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - internet-of-bugs
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SwviApWpOT4
 speaker: Internet of Bugs
@@ -26,7 +24,6 @@ tags:
 - vibe-coding
 title: AI智能体“Vibe Coding”：代码质量如何？Claude、Google、OpenAI谁更胜一筹？
 ---
-
 ### 智能体“Vibe Coding”的介绍与目的
 
 So today, I'm going to talk about using agents for "Vibe Coding", or at least as close to "Vibe Coding" as I'm going to get.

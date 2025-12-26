@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Uber
@@ -15,10 +15,7 @@ products_models:
 - YouTube
 - Twitter
 - Instagram Reels
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=McTi0DdKybY
 speaker: 课代表立正
@@ -32,7 +29,6 @@ tags:
 - startup-challenge
 title: AI如何重塑达人营销：Aha创始人Kay揭秘“不卷”赛道的深层逻辑与创业心法
 ---
-
 ### AI重塑达人营销：解决行业核心痛点
 
 谈及Aha（现已更名为Aha）这家公司，我的第一反应是为何此前没有人成功解决其所面对的问题。我猜测，应该有很多公司曾试图解决这一难题。我们可以先探讨对于传统公司而言，为何过去难以实现这一目标。

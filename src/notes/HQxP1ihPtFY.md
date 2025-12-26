@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - JPMorgan Chase
@@ -18,10 +18,7 @@ people:
 - Kathy Hochul
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HQxP1ihPtFY
 speaker: 北美王路飞
@@ -35,7 +32,6 @@ tags:
 - wealth
 title: 纽约新王马姆达尼：从1%民调到市长逆袭之路与三大挑战
 ---
-
 ### 纽约新王诞生：一场不可能的逆袭
 
 今天是2025年11月9日，距离那场注定载入史册的纽约市长选举刚刚过去四天，尘埃落定，新王已立。此刻，我们回溯几周前在曼哈顿中城一个常被忽视的瞬间。在50街附近，被称为**亿万富翁大道**（Billionaires' Row: 曼哈顿中城南部一处超高层豪华住宅区）的地方，超豪华摩天大楼高耸入云，其巨大的阴影投射在中央公园上。

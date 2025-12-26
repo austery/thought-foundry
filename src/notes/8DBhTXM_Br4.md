@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 companies_orgs:
 - Columbia University
@@ -18,9 +18,7 @@ people:
 - Alan Turing
 - James Clerk Maxwell
 - John Conway
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8DBhTXM_Br4
 speaker: veritasium
@@ -34,7 +32,6 @@ tags:
 - theory
 title: 绳结理论的奇妙数学：从鞋带到DNA的万物之理
 ---
-
 ### 绳结理论：从鞋带到宇宙的奥秘
 
 我们大多数人系鞋带的方式都是错的。

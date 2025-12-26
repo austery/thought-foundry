@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - AWS
@@ -25,10 +25,7 @@ products_models:
 - NVL72
 - H100
 - GB300
-project:
-- ai-impact-analysis
-- systems-thinking
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tURnVlRcUMQ
 speaker: Best Partners TV
@@ -43,7 +40,6 @@ tags:
 - technology
 title: AWS Trainium3芯片深度解析：AI加速器市场的新挑战者
 ---
-
 ### 引言：AI加速器市场的新变量
 
 如果说过去几年**AI加速器**（AI Accelerator: 专门为加速人工智能计算任务而设计的硬件）市场是英伟达一家独大的天下，那么今天我们要聊的这款产品，有可能会改变这个格局。它就是AWS在**re:Invent大会**（re:Invent Conference: 亚马逊网络服务年度全球用户大会）上正式发布的Trainium3，一款被业内视为有可能终结英伟达AI训练和推理加速器的产品。更重磅的是，AWS还同步预告了下一代Trainium4的路线图，直接亮出了长期作战的底牌。

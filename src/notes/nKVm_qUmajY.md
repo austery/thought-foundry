@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国人民解放军
@@ -20,9 +20,7 @@ people:
 - 杨尚昆
 - 赵紫阳
 - 李强
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nKVm_qUmajY
 speaker: FearNation 世界苦茶
@@ -35,7 +33,6 @@ tags:
 - system
 title: 解析解放军高层大清洗：习近平交权前兆还是监察体系失控？
 ---
-
 ### 引言：一场史无前例的军队大清洗
 
 今天的内容在我看来，是海外政论界无论如何都必须探讨的话题，因为它是一件大事。各位观众甚至可以将其视为对海外政论节目和时评人的一次“申论大考”，看谁能真正把这个问题讲清楚。所以，今天我就来提交我的这份答卷。

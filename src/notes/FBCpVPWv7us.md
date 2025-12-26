@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - 斯坦福大学
@@ -13,10 +13,7 @@ layout: post.njk
 products_models:
 - ACE框架
 - GPT-4.1
-project:
-- ai-impact-analysis
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FBCpVPWv7us
 speaker: Best Partners TV
@@ -30,7 +27,6 @@ tags:
 - self
 title: ACE框架：大语言模型通过上下文实现自我提升的智能体工程
 ---
-
 ### 引言：ACE框架——大模型自我提升的新范式
 
 今天我们将深入解读一篇来自斯坦福大学、SambaNova Systems和加州大学伯克利分校联合团队的最新研究成果——**ACE框架**（Agentic Context Engineering: 智能体上下文工程）。这项研究的核心目标是解决大语言模型在上下文适配中最棘手的两个问题：**简洁性偏差**（Brevity Bias: 现有提示词优化工具过度追求简洁，导致关键信息遗漏的问题）和**上下文坍缩**（Context Collapse: 随着迭代次数增加，上下文信息量减少，导致模型性能下降的问题）。最终，ACE框架旨在让大语言模型无需更新权重，就能够通过动态演进的上下文实现自我提升。

@@ -18,10 +18,7 @@ people:
 - 约翰逊
 - 拜登
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=H2qiRmiDf18
 speaker: 北美王路飞
@@ -34,7 +31,6 @@ tags:
 - media
 title: 印第安纳州选区重划失败：特朗普党内围剿与民主韧性的一次关键对决
 ---
-
 ### 特朗普的选区重划野心：从政治操弄到党内反噬
 
 最近，印第安纳州发生了一场震动全美政坛的事件：特朗普为推动该州选区重划（gerrymandering），试图将原本7比2的共和党优势，强行变为9比0的“全红州”，却遭遇本党议员集体抵制，最终投票以31票反对、19票支持惨败。这场失败不仅是一次政策挫败，更是美国政治极化下民主机制的一次关键韧性测试。

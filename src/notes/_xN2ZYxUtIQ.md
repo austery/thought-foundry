@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -13,9 +13,7 @@ products_models:
 - Google Search
 - Xbox
 - Turbo码
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_xN2ZYxUtIQ
 speaker: 北美王路飞
@@ -29,7 +27,6 @@ tags:
 - theory
 title: 贝叶斯网络：从体检报告到AI，理解概率如何重塑我们的世界
 ---
-
 ### 概率的直觉陷阱：体检报告的迷思
 
 想象一个场景：你刚刚度过了一个焦虑的星期，终于拿到了体检报告。翻开它，一个刺眼的词跳进了你的眼睛——“阳性”。你心里咯噔一下，赶紧往下看。报告上附着一小段说明文字：“本次检测是一种新型高效的筛查技术，准确率高达99%。”

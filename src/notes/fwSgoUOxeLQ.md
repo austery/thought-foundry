@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 author: Lei
 category: lifestyle
 channel: 一席
@@ -10,7 +10,7 @@ layout: post.njk
 media_books:
 - 一席
 products_models: []
-project: personal-growth-lab
+project: []
 series: null
 source: https://www.youtube.com/watch?v=fwSgoUOxeLQ
 speaker: 一席YiXi
@@ -20,7 +20,6 @@ tags:
 - cancer-research
 title: 李治中：癌症的真相 | 我们是兼职在辟谣，别人是全职在传播伪科学
 ---
-
 ## 引言：科普的动力源于遗憾
 
 今天非常高兴来到这里。还是先自我介绍一下，我叫李治中，我的笔名是菠萝。很多人问我为什么叫菠萝，是我从来没有想过自己会出名。如果知道我会出名，我会取一个格调更高的名字。

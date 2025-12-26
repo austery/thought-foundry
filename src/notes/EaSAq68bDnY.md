@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - intellectual-property-leakage
@@ -32,10 +32,7 @@ products_models:
 - Llama
 - AlexNet
 - H-1B
-project:
-- us-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EaSAq68bDnY
 speaker: TechButMakeItReal
@@ -48,7 +45,6 @@ tags:
 - talent
 title: 加拿大AI人才流失的困境与转机：从研究强国到商业化挑战
 ---
-
 ### 加拿大AI的悖论：研究强国与人才外流
 
 加拿大面临一个独特的难题：我们在创造改变世界的AI研究方面表现出色，但在保留这些研究的经济利益方面却异常糟糕。

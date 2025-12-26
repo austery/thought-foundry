@@ -11,9 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UqwHd5x3J0o
 speaker: 投资TALK君
@@ -25,7 +23,6 @@ tags:
 - powell-resignation
 title: 鲍威尔辞职传闻、CPI数据与市场展望：本周投资策略分析
 ---
-
 ### 引言与听众互动
 
 大家好，欢迎来到一个不单只聊新闻的专业美股频道，我是市场分析员小陶。上周，几乎每期视频都有几百个留言，我真切感受到了大家的热情，也发现了许多长期观看但从未留言的观众。感谢大家的鼓励、支持和各式各样的赞美。最重要的是，我了解了大家的需求并听到了大家的声音。因此，正如我上周所说，只要有时间，我一定会为大家制作和更新视频，无论是5分钟还是10分钟。今天，我们将延续上周的趋势，首先对过去一周的市场走势进行总结。

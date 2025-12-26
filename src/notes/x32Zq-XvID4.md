@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Communist Party
@@ -18,9 +18,7 @@ people:
 - Mao Zedong
 - Derek Muller
 - Casper
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=x32Zq-XvID4
 speaker: veritasium
@@ -34,7 +32,6 @@ tags:
 - theory
 title: 哥德巴赫猜想：一个看似简单却困扰数学家近三百年的谜题
 ---
-
 ### 引言：哥德巴赫猜想的魅力与挑战
 
 **Derek:** 1954年冬天，在中国厦门，防空警报响彻全城，炮弹在远处轰鸣。

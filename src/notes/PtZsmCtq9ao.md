@@ -20,9 +20,7 @@ products_models:
 - Model Y
 - Optimus
 - LFP电池
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PtZsmCtq9ao
 speaker: Money or Life 美股频道
@@ -35,7 +33,6 @@ tags:
 - humanoid-robot
 title: 特斯拉2025年第三季度财报深度解读：增长、盈利与未来展望
 ---
-
 ### 特斯拉2025年第三季度财报概览
 
 特斯拉在几个小时前刚刚发布了2025年第三季度财报。最近，特斯拉的股价一直在412美元到445美元的区间波动。财报发布后，盘后和目前最新的夜盘交易显示，股价变动为负3.6%。

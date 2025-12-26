@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0UBf51AuApI
 speaker: 一席YiXi
@@ -23,7 +22,6 @@ tags:
 - society
 title: 遇真纪事：中国农民的土地与收入真相
 ---
-
 ### 时代交接的农民
 
 我们意识到当下2025年，正是传统农业向现代农业过渡的时代。而我们这些年所记录的，恰恰就是时代的交接处。那么，时代交接处的土地、农民还有农作物，现在都是一种什么样的状态呢？

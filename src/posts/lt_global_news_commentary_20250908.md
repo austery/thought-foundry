@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: politics-society
 companies_orgs: []
@@ -9,9 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: null
 source: null
 speaker: LT視界
@@ -23,7 +21,6 @@ tags:
 - society
 title: LT新闻评述：美联储降息争议、米莱改革受挫及中共的全球叙事
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是9月8日。
 
 ## 财经头条：降息预期与德国经济

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -22,10 +22,7 @@ people:
 - Donald Trump
 products_models:
 - Small Modular Reactor
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IRcAJs7MrqY
 speaker: TVO Today
@@ -39,7 +36,6 @@ tags:
 - trade-policy
 title: 安大略省电价上涨与加拿大对中国电动汽车关税的辩论
 ---
-
 ### 安大略省电价上涨与核能扩张
 
 自11月1日起，安大略省居民面临电费上涨29%的冲击。但省长**道格·福特**（Doug Ford: 安大略省省长）也将提高电力补贴，这意味着实际感受到的涨幅不会那么大。是什么导致了电价飙升？投入数十亿加元进行补贴是否合理？读者**迈克·施赖纳**（Mike Shriner: 评论员）显然不这么认为。纳税人不会完全感受到福特政府带来的这次剧烈电价上涨的冲击，因为政府增加了电力补贴金额，每年已超过60亿加元，据财务问责官称，这一数字可能还会攀升，且不成比例地惠及富裕家庭，却牺牲了工薪阶层的利益。

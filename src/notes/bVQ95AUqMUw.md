@@ -18,8 +18,7 @@ draft: true
 series: ''
 category: ai-ml
 area: tech-engineering
-project:
-  - software-development
+project: []
 people: []
 companies_orgs:
   - Ready

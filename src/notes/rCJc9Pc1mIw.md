@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - SWIFT
@@ -10,11 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - DeepSeek
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rCJc9Pc1mIw
 speaker: 海淀拙大叔
@@ -28,7 +24,6 @@ tags:
 - us-china-relations
 title: 中国如何反制美国战略大收缩：体系性与技术性手段并举
 ---
-
 ### 中国反制美国战略大收缩的策略与时机
 
 本期《阿甘经济宏观论》第16集将探讨美国战略大收缩背景下，中国应如何应对并进行投资。我们认为，美国的收缩意味着中国在全球竞争中获得了主动权，并正转变为进攻方。这与100年前英国全球收缩后，集中资源围堵德国的历史进程有相似之处。中国的反制手段应是体系性与技术性相结合的策略。体系性手段旨在摧毁美国能源、科技和美元霸权的根基，这是一个长期且慢变量的过程。技术性手段则旨在阻挠美国的收缩进程，使其陷入高强度的战略焦虑，不敢也不能迅速从全球收缩，这是一个快速见效的快变量。

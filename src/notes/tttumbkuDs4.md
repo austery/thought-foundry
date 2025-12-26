@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - FOMC
@@ -14,10 +14,7 @@ people:
 products_models:
 - S&P 500
 - CPI
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tttumbkuDs4
 speaker: Shanghao Jin
@@ -31,7 +28,6 @@ tags:
 - us-economy-outlook
 title: 美国经济强劲下的利率、美元与全球市场展望
 ---
-
 ### 宏观经济驱动市场：利率与美元走强
 
 上周市场的主要变化与再上一周非常相似，宏观因素持续驱动着整个市场，包括股票等风险资产。其中最大的宏观变化体现在利率和外汇方面：美元利率和美元的持续走强。当利率变陡、利率上行，加上美元走强这三件事情同时发生时，对风险资产会造成通胀压力，特别是当利率上升速度很快时，对风险资产的杀伤力会更大。近期 **S&P 500**（标准普尔500指数：衡量美国大盘股表现的股票市场指数）指数从高点下跌了不到5个点（约三四个点），其中很大一部分原因就是宏观因素的带动。宏观背后的核心是市场对美国利率和汇率的重新定义。

@@ -27,9 +27,7 @@ people:
 - Donald Trump
 - Elon Musk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UTSCUw-EFA4
 speaker: 视野环球财经
@@ -42,7 +40,6 @@ tags:
 - stock-market-analysis
 title: 美股市场动态：美联储人选、经济数据与个股深度解析
 ---
-
 大家好，欢迎回到视野环球财经，我是Reno。现在是美东时间2025年12月15号周一晚上的7点35分。今天的四大指数高开低走，全天低位震荡，最终是**罗素**（Russell: 美国小型股指数）和**纳指**（Nasdaq: 美国科技股为主的股票市场指数）的表现最差。板块方面，医疗保健、公共事业、非必需品表现较好，而科技、能源和通信则表现落后。科技股在上周**甲骨文**（Oracle: 美国大型企业软件公司）和**博通**（Broadcom: 美国半导体及基础设施软件公司）财报之后，今天仍旧表现出承压迹象，恐慌似乎有蔓延的趋势。
 
 ### 美联储人选变化

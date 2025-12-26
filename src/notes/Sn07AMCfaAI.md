@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Apple
@@ -13,10 +13,7 @@ layout: post.njk
 media_books:
 - Dunkirk
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Sn07AMCfaAI
 speaker: veritasium
@@ -30,7 +27,6 @@ tags:
 - sound-localization
 title: 听觉错觉：大脑如何塑造我们所听到的世界
 ---
-
 ### 听觉的复杂性：不仅仅是频率检测
 
 我想让你听听这两种声音，然后判断哪一个音调更高。这是声音A（发出嗡嗡声），这是声音B（发出嗡嗡声）。对我来说，声音A显然更高，但这很奇怪，因为声音A只是一个100**赫兹**（Hertz: 频率单位，表示每秒的周期数）的**正弦波**（Sine wave: 一种纯净的、单一频率的波形）。声音B也有相同的100赫兹频率，但还包含了150赫兹和200赫兹的频率。所以我们添加了更高的频率，但声音却更低了。这是怎么回事呢？

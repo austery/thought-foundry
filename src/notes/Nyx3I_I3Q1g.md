@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - FBI
@@ -18,10 +18,7 @@ people:
 - LeBron James
 - Chauncey Billups
 products_models: []
-project:
-- us-analysis
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Nyx3I_I3Q1g
 speaker: 记者易速利
@@ -35,7 +32,6 @@ tags:
 - society
 title: NBA明星涉赌丑闻：比卢普斯与罗切尔深陷欺诈风波
 ---
-
 ### NBA涉赌丑闻：内部信息与扑克欺诈
 
 迈阿密热火队后卫**特里·罗切尔**（Terry Rozier）被联邦调查局（FBI）指控涉嫌NBA内部交易。他被控告知赌徒押注他表现不佳，声称将假装受伤提前退场，以确保得分较低。勒布朗·詹姆斯的前队友**达蒙·琼斯**（Damon Jones）也遭到起诉，被指控秘密告知赌徒勒布朗·詹姆斯受伤或不参赛的情况，以便他们据此下注。

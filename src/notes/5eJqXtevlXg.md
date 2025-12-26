@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - OpenAI
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - The Agents Rule of Two
-project:
-- ai-impact-analysis
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5eJqXtevlXg
 speaker: AI Engineer
@@ -27,7 +24,6 @@ tags:
 - tool
 title: 将子代理集成到Codeex CLI：提升AI工作流效率与灵活性
 ---
-
 ### 介绍与背景
 
 大家好，我是Brian John，今天很高兴能和大家分享关于在**Codeex CLI**（Codeex命令行界面: 一个用于与AI模型交互的命令行工具）中“破解”**子代理**（Sub-agents: 能够独立执行特定任务的AI代理）的话题。

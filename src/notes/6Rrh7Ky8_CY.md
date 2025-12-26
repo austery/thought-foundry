@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 世界银行
@@ -25,10 +25,7 @@ media_books:
 - 《2024年国际货币基金组织评估报告》
 people:
 - 马云
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6Rrh7Ky8_CY
 speaker: 老周横眉
@@ -42,7 +39,6 @@ tags:
 - technology
 title: 中国经济：周期性调整，还是无法逾越的瓶颈？
 ---
-
 ### 中国经济现状与民众体感
 
 最近，一位中国出租车师傅的经历引发了广泛共鸣：他开了一辈子出租车，辛辛苦苦赚钱，好不容易花了数十万供儿子大学毕业，结果现在他开夜班，儿子开白班。虽然这不确定是真事还是段子，但它无疑反映了中国老百姓对当前经济状况的切身感受和自嘲。尽管中国官方仍坚持GDP增长率为5%，但这类公告的评论区通常是关闭或空置的，因为这个数字与人们的实际感受相去甚远。

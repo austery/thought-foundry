@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Harvard
@@ -19,10 +19,7 @@ people:
 - Angela Duckworth
 products_models:
 - Gemini Flash
-project:
-- us-analysis
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TYXzR5KahEg
 speaker: The Diary Of A CEO
@@ -36,7 +33,6 @@ tags:
 - social
 title: 哈佛行为专家：为什么人们不喜欢你？掌握真正的人际沟通术
 ---
-
 ### 对话主题：哈佛教授解读谈话的科学 
 
 **旁白：** 人们真的很在意是什么让他们不受欢迎，也非常想知道如何才能讨人喜欢。

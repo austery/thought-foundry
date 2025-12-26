@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Alibaba
@@ -13,10 +13,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3LSFJN5rqaI
 speaker: 小翠時政財經
@@ -30,7 +27,6 @@ tags:
 - war
 title: 外卖大战：复旦报告揭示平台补贴如何挤压餐饮业利润与“烟火气”
 ---
-
 ### 引言：外卖大战下的餐饮业困境
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月21日。今年中国宏观经济有一场重头戏，那就是阿里巴巴、京东、美团三大平台打响的外卖大战。为了打赢这场大战，京东和美团几乎都烧光了自己的利润，简直是在赌身家。但是最近，复旦大学经济学院却出了一份针对外卖行业的研究报告，其标题非常扎心，叫做《赚了流量，赔了利润：补贴大战如何累及餐饮商户》。

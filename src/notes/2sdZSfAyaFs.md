@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -12,8 +12,7 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁医师
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2sdZSfAyaFs
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -27,7 +26,6 @@ tags:
 - safety
 title: 警惕日常用品中的隐形威胁：毒物专家揭示环境荷尔蒙对儿童发育的影响
 ---
-
 ### 警惕儿童用品中的环境荷尔蒙
 
 大家好，我是王律婷医师。您家中是否也在使用一些标榜有机、低敏、不含双酚A的儿童用品？这些看似安全的产品背后，是否隐藏着影响孩子发育的风险？近年来，越来越多的孩子出现发育异常，这可能与我们日常生活中大量暴露于**内分泌干扰物**（Endocrine Disrupting Chemicals, EDCs: 能够干扰生物体内分泌系统正常功能的化学物质），例如**环境荷尔蒙**（Environmental Hormones: 一类模拟或干扰生物体内天然荷尔蒙作用的化学物质）有关。在门诊中，我曾遇到一位六岁的女孩出现胸部发育的状况，经细问后发现，她长期使用一些特定产品。这并非特例，而是相当常见的问题。

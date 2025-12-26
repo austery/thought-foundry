@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies:
 - psychological-splitting
@@ -18,9 +18,7 @@ people:
 - 拉康
 - 海德格尔
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0AkvhtYhikg
 speaker: 超級歪 SuperY
@@ -33,7 +31,6 @@ tags:
 - social
 title: 《进击的巨人》哲学解析三部曲（一）：人如何遗忘了自由？怒气、分裂心理与自由的辩证法
 ---
-
 ### 《进击的巨人》：被遗忘的自由
 
 《进击的巨人》最终章登上大荧幕，本次超级歪将分三集进行解析。这部万众瞩目的《进击的巨人》故事描绘了城墙内享受百年和平的人们，突然遭到巨人的袭击。主角艾伦的母亲被巨人吞食，失去家园的主角们决定训练并加入调查兵团。艾伦誓言：“我要驱逐所有巨人，一个不留。”为了对抗巨人，你必须了解巨人是什么，这是《进击的巨人》前三季一直在探索的核心主题。

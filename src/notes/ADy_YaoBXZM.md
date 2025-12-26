@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: technology
 companies_orgs:
 - Google
@@ -17,10 +17,7 @@ insight: ''
 layout: post.njk
 people:
 - Albert Einstein
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ADy_YaoBXZM
 speaker: TechButMakeItReal
@@ -33,7 +30,6 @@ tags:
 - tech
 title: 2025年瑞士科技市场深度解析：欧洲最顶尖的利基市场
 ---
-
 ### 引言：为何关注瑞士科技？
 
 瑞士的领导者和公民们，这是一条来自加拿大多伦多的信息。

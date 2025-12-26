@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs: []
 date: '2024-06-13'
@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 products_models:
 - LLM
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wZ0ToxtXz5g
 speaker: Dwarkesh Patel
@@ -23,7 +22,6 @@ tags:
 - memorization
 title: If an LLM solves this then we'll probably have AGI – Francois Chollet
 ---
-
 ### ARC基准与AGI的可能迹象
 
 假设一年后，一个**多模态模型**（能够处理多种类型数据（如文本、图像、音频）的AI模型）能够解决**ARC**（A.R.C.: AI Reasoning Challenge，一个衡量AI推理能力的基准测试），并达到人类平均水平的80%，那么**AGI**（Artificial General Intelligence: 人工通用智能）很可能就指日可待了。主持人**Dwarkesh Patel**和嘉宾**Francois Chollet**对此进行了探讨。嘉宾表示，他个人希望看到一个**LLM**（Large Language Model: 大型语言模型）类型的模型能以80%的准确率解决ARC，但前提是其训练信息不包含明确旨在预测ARC测试集的内容。

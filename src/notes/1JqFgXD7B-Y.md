@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - Google
@@ -14,9 +14,7 @@ layout: post.njk
 people:
 - 黄仁勋
 products_models: []
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1JqFgXD7B-Y
 speaker: 徒步的騎手
@@ -30,7 +28,6 @@ tags:
 - talent
 title: 黄仁勋的预言：AI时代，沟通能力为何成为最重要的生存法则？
 ---
-
 ### 引言：一句让人如沐春风的话
 我在社交媒体上看到一条推文，他说：“要多与能让你有‘如沐春风’之感的人交流，相信我，你的人生会因此顺畅很多。” 我认为，这对于年轻人来说是一种需要学习的智慧。我们从小受到的教育往往是“沉默是金”，不鼓励我们去表达和沟通。然而，在当今社会，沟通能力的重要性日益凸显。
 

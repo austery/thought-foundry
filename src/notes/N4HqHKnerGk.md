@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Uber
@@ -20,9 +20,7 @@ layout: post.njk
 people:
 - Bill Ackman
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=N4HqHKnerGk
 speaker: Shijun Tang
@@ -36,7 +34,6 @@ tags:
 - uber-business-model
 title: 美股Uber：能否抵御Robotaxi冲击，持续盈利十年？
 ---
-
 ### Uber的盈利与未来挑战
 
 今天我们来谈一谈美股**Uber**（股票代码：UBER）。Uber近几年来不但开始盈利，而且公司的基本面似乎正朝着一个好的方向发展，前景一片光明。然而，随着**自动驾驶汽车**（Automobile Vehicles，简称AV）以及**Robotaxi**（自动驾驶出租车服务：指通过自动驾驶技术提供载客服务的车辆）概念的横空问世，似乎又给这一片大好的前景打上了一个大大的问号。本期视频将详细探讨Uber最新的财报、目前的基本面以及其未来前景。

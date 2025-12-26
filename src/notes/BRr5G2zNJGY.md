@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - VMware
@@ -33,10 +33,7 @@ products_models:
 - Atlas
 - Comet
 - Claude
-project:
-- ai-impact-analysis
-- entrepreneurship
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BRr5G2zNJGY
 speaker: 课代表立正
@@ -49,7 +46,6 @@ tags:
 - market
 title: 硅谷高管徐老师：AI浏览器将引发第三次浏览器大战，颠覆传统商业模式
 ---
-
 ### 硅谷高管的媒体情缘与职业生涯
 
 非常高兴能再次回到《课代表立正》这个节目。我非常喜欢这个节目的原因，不只是在硅谷，甚至在欧洲、梵蒂冈，都会有《课代表立正》的观众认出我，说在节目上看到过我。这对我来说是一个认识大家、与大家建立连接的机会，所以我非常高兴能再次回到这个节目，希望以后有机会能更多地跟大家接触。

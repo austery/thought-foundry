@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Council on Foreign Relations
@@ -30,10 +30,7 @@ products_models:
 - GPT-4
 - H100
 - H800
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v3d8uBgQl14
 speaker: FearNation 世界苦茶
@@ -49,7 +46,6 @@ tags:
 - us-china-relations
 title: 美智库深度解析中美战略竞争：从贸易战、AI主权到红色旅游的全面清算
 ---
-
 本期世界苦茶观察线节目汇总了全球智库和国际媒体对中国问题的深度分析。该节目为AI制作，播放速度照顾收听较慢的听众，如果觉得太慢可以调整至1.25倍。AI脚本和声音会不断优化。以下是精选的全世界对中国的分析，关于美中清算的开始以及美国对贸易战的新反应等内容。
 
 ### 美国外交关系协会：中美根本性竞争与清算

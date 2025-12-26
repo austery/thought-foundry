@@ -8,8 +8,7 @@ tags:
   - information-processing
 category: philosophy-wisdom
 area: society-thinking
-project:
-status: evergreen
+project: []
 source: https://www.youtube.com/watch?v=pxgF4mgcxqo&t=62s
 author: Lei
 summary: 在华盛顿大学的绿荫下，课代表立正与樊登畅聊他如何把 “帮 3 亿人养成阅读习惯” 从一句口号落地成「帆书」——一个持续十年、跨越 PPT → 微信群 → 公众号 → App → 短视频的超级产品。10 倍思维：为什么“提升 20 %”反而更难？樊登给出了创新必须“脱胎换骨”的底层逻辑。产品迭代史：手动群发语音到斩获 2 亿抖音粉丝的全过程，展示“小团队如何踩中平台红利”。订阅 + 代理商业模型：300 元年费、当地代理裂变，让“在线卖知识”成为可能。内容哲学：拒绝贩卖焦虑，用故事和情绪让知识“好听”又“好用”。三次认知飞跃：从《论语》到批判性思维再到复杂系统，他的自我升级路线图。聚焦与 Say No：保持“懒”与专注，在诱惑与深度之间取舍。AI 伪造挑战：当深度伪造开始滥用他的头像与声音，他怎么看内容真伪与立法？

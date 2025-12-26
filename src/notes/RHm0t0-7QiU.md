@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 date: '2025-10-08'
 draft: true
@@ -7,10 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RHm0t0-7QiU
 speaker: 海淀拙大叔
@@ -24,7 +21,6 @@ tags:
 - technology
 title: 中国经济的W型反转：二次探底与信心重建
 ---
-
 ### 经济“双底”现象与投资者心理
 
 “阿甘经济宏观论”第30篇，主题是经济**双底**（Double Bottom: 股票或经济指数在下跌趋势中，两次跌到大致相同的低点后反弹的形态）。今天是10月6号。大家知道，无论股市还是经济，它从底部反转的时候，往往不是**V字型反转**（V-shaped reversal: 价格快速下跌后又快速回升的走势），而是**W字型反转**（W-shaped reversal: 价格在底部区域两次探底后回升的走势，形似字母W），也就是说要见双底。

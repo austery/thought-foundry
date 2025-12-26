@@ -17,10 +17,7 @@ people:
 - 司马迁
 - 马克·吐温
 products_models: '[]'
-project:
-- us-analysis
-- china-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XnEqVGucKAA
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - social-media-impact
 title: 政治焦虑：时代流行病及其解药
 ---
-
 ### 政治焦虑：时代的流行病
 
 这十来年，美国和中国都经历了不小的变化，尤其是在政治领域。很多人不适应这种变化，产生了**政治焦虑**（Political Anxiety: 因政治事件或环境变化而产生的持续性担忧、紧张和不安情绪），甚至有人说自己得了**政治抑郁**（Political Depression: 因政治因素导致的长期情绪低落、无力感和绝望）。在互联网时代，每天一睁眼，社交媒体和网络平台上的各种新闻推送铺天盖地，几乎全是坏消息：战争、腐败、独裁、暴力、恐怖活动、极端政策，还有政治丑闻。你本来想好好度过这一天，却被这些坏消息制造的情绪感染，变得愤怒、无力、焦虑、抑郁，心情灰暗。你明明什么也没做错，却觉得自己活在一个被裹挟的世界，苦苦挣扎，看不到希望。这就是政治焦虑，或者说政治抑郁。

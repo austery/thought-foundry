@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Halton公立教育局
@@ -19,9 +19,7 @@ people:
 products_models:
 - IB课程
 - AP班
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LTTgpIWcYBg
 speaker: 莊也雜談
@@ -34,7 +32,6 @@ tags:
 - science
 title: 为什么我强烈建议家长陪读：加拿大低龄留学与寄宿家庭的挑战
 ---
-
 大家好，我是莊也，歡迎收看莊也雜談加拿大系列節目。本期節目將繼續探討加拿大的教育，在上集大致聊過加拿大中小學階段的**K12教育**（K12教育阶段: 从幼儿园到高中十二年级的义务教育体系）後，今天我們將深入探討與K12階段留學相關的問題。對於屏幕前考慮將孩子送到加拿大留學的家長來說，今天的話題可能尤為重要。我們廢話少說，直入主題。
 
 ### 孩子留学年龄段的优缺点分析

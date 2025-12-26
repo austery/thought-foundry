@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Hims
@@ -94,10 +94,7 @@ products_models:
 - Azure
 - AWS
 - Google Cloud
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ouzN66rzIqU
 speaker: Amit Kukreja
@@ -111,7 +108,6 @@ tags:
 - v-shaped-recovery
 title: 美国政府关门风波引发市场巨震：V型反转背后的政治博弈
 ---
-
 ### 市场V型反转的疯狂一日
 今天真是疯狂的一天。感谢各位的到来，欢迎回到新一期的《收盘快评》。
 

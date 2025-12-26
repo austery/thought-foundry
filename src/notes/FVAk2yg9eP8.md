@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: politics-society
 companies_orgs: []
 date: '2025-10-15'
@@ -12,8 +12,7 @@ people:
 - joe-biden
 - kamala-harris
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FVAk2yg9eP8
 speaker: 北美王路飞
@@ -23,7 +22,6 @@ tags:
 - geopolitical
 title: 「你确定吗？别让他们逼你！」：拜登退选、哈里斯接棒与特朗普的竞选乱局
 ---
-
 ### 拜登退选：泳池小屋的秘密会议与历史性电话
 
 2024年7月21日，一个周日上午11点，副总统卡玛拉·哈里斯的官邸内，一场秘密会议正在泳池小屋里进行。召集人是哈里斯的妹夫托尼·韦斯特。自那场灾难性的辩论以来，哈里斯本人一直坚守着政治的第一准则：乔·拜登是唯一的提名人，她绝不参与任何替代方案的讨论，至少当时是如此。然而，在她听不到的地方，她的核心团队认为，如果不对万一的情况做任何准备，那将是严重的失职。在辩论后的几周里，哈里斯的竞选幕僚长希拉·尼克斯已经开始悄悄准备一份名单，上面列着一旦拜登开始退选，需要第一时间联系的人。

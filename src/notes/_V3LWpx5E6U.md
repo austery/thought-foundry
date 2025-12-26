@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-10-13'
@@ -10,10 +10,7 @@ layout: post.njk
 people:
 - amit-kukreja
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_V3LWpx5E6U
 speaker: Amit Kukreja
@@ -28,7 +25,6 @@ title: 市场收盘：S&P市值大增8000亿，AI与能源板块巨额交易引�
 companies:
 - openai-deal
 ---
-
 ### 市场概览与反弹
 
 Hello everybody. Welcome back to the channel. We are back on another market close.

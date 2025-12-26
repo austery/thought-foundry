@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-11'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=l-0iGsgswxo
 speaker: ZetaBook
@@ -23,7 +22,6 @@ tags:
 - taiwan-politics
 title: 中共斩首行动的台湾政治逻辑：有效性与社会假设深度解析
 ---
-
 ### 斩首行动的悖论：对民主政体是否有效？
 
 解放军之所以演练**斩首行动**（Decapitation Strike: 针对敌方领导核心或指挥机构的打击行动），是希望能够成功瘫痪台湾的指挥机构，以最小的成本快速结束战争，避免攻台演变成一次成本巨大的抢滩登陆。然而，在现代军事学中有一个常识：对成熟的**民主政体**（Democratic Polity: 奉行民主政治制度的国家或社会）实行斩首行动，往往难以改变战争结果，甚至可能适得其反。

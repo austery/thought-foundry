@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - Stanford University
@@ -15,9 +15,7 @@ media_books:
 people:
 - Jeff Bezos
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gX670Vd4sEg
 speaker: 北美王路飞
@@ -31,7 +29,6 @@ tags:
 - strategy
 title: 超越AI的人类核心能力：波利亚《如何解题》的思维操作系统
 ---
-
 ### 引言：AI时代下人类核心能力的再思考
 
 大家好，欢迎来到我的频道。最近我们制作了几期关于人工智能（AI）的视频。今天，我想向大家介绍一本由一位数学家撰写的书，名为《**如何解题**》（How to Solve it）。这本书虽然发表于七十年前，已是相当古老的作品，但其中蕴含的核心思想在当下这个时代显得尤为珍贵。在套用公式和模板变得如此简单易行时，我们人类更应该注重培养什么样的能力？我认为，学会如何解题、如何解决问题至关重要，并且在短期内，AI尚无法完全取代人类解决复杂问题的能力。本期节目将详细介绍这本书。

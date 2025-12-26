@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - IBM
@@ -14,9 +14,7 @@ media_books:
 people:
 - 梁晓华
 - Stephen Covey
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MXweEoj8H_E
 speaker: 天下文化
@@ -30,7 +28,6 @@ tags:
 - self-awareness
 title: 从IBM高管到萨提尔教练：陈茂雄的职涯转型与人生管理智慧
 ---
-
 ### 开场与嘉宾介绍
 
 **梁晓华:** 欢迎收听《对话领导力》，我是主持人梁晓华。在每一次的节目当中，我们都会为大家邀请到业界领袖或专家，来跟大家分享他们的人生故事和管理心法。今天我们很开心邀请到业界非常知名的**萨提尔教练**（Satir Coach: 运用萨提尔模式协助个人成长的专业人士）陈茂雄老师。老师，我们先跟观众朋友打声招呼。

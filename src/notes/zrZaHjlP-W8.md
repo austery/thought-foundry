@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Chipotle
@@ -25,10 +25,7 @@ people:
 products_models:
 - QQQ
 - SOXS
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zrZaHjlP-W8
 speaker: 投资TALK君
@@ -43,7 +40,6 @@ tags:
 - us-tariff
 title: 美股过山车行情：关税政策反转与川普的深层目的
 ---
-
 ### 今日市场综述：过山车行情与关税反转
 
 大家好，我是市场分析人小陶，欢迎来到专业美股频道。本周二，整个市场的走势可谓是“过山车”般跌宕起伏，包括盘后的行情也同样如此。今天市场上有许多新闻，其中一部分我认为是噪音，但另一部分则值得我们深入探讨，例如盘后发生的关税政策变化。我们将分析这一关税政策对美股的具体影响，以及美国对中国、加拿大和墨西哥这三个国家加征的关税到底是什么。

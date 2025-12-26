@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-09-08'
 draft: true
@@ -7,8 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xutwpmlTYmE
 speaker: EO
@@ -21,7 +20,6 @@ tags:
 - system
 title: GitHub前设计负责人Diana Mounter：拥抱技术变革，用设计赋能开发者
 ---
-
 ### 拥抱变化：科技设计的核心精神
 
 I think working in tech as a whole is a place where you really need to embrace change.

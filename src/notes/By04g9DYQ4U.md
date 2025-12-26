@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 贝莱德
@@ -18,10 +18,7 @@ people:
 - Theodore Roosevelt
 - Larry Fink
 - Marco Rubio
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=By04g9DYQ4U
 speaker: 金融汪
@@ -34,7 +31,6 @@ tags:
 - us-foreign-policy
 title: 李嘉诚抛售巴拿马运河核心港口资产：地缘政治博弈下的企业抉择
 ---
-
 ### 长和集团出售全球港口资产：股价暴涨与交易细节
 
 2025年3月5日，**李嘉诚**（香港著名企业家）旗下香港上市公司**长和集团**（CK Hutchison: 李嘉诚旗下的香港上市公司）的股价大幅拉升，盘中一度暴涨24%。引发股价暴涨的导火索是一则公告，公告显示，3月4日，长和集团与**贝莱德**（BlackRock: 全球最大的资产管理公司）牵头的财团达成了原则性协议。长和集团将出售其全球港口业务的核心资产，其中涉及长和巴拿马港口公司90%的股权。整个交易预计将为长和集团带来超过190亿美元的现金，而投行们估计长和集团将用该笔资金偿还债务，降低负债率，并很有可能进行现金分红，因而引发了股价的暴涨。

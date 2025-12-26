@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Texas Instruments
@@ -42,10 +42,7 @@ products_models:
 - Model Y
 - Optimus
 - Robotaxi
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_bZrdH6-w1s
 speaker: 小翠時政財經
@@ -62,7 +59,6 @@ tags:
 - us-china-relations
 title: 川普对华软件制裁与中国四中全会公告：全球经济与地缘政治的交锋
 ---
-
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年10月23日，欢迎收看我们今天的每日要闻节目。在节目开始之前，我要先感谢各位朋友，因为我昨天提到会员价很便宜很良心，昨天晚上真的有好多好多朋友加入会员，让我受宠若惊。说实在，会员收入主要真的是给YouTube赚的。我们现在大概有700个会员，一个月能拿到1,000美元。我开这个会员频道，主要目的是想要组织一个团契，让大家加入小群，互相沟通交流，交个朋友。所以，会员频道确实不赚钱。
 
 ### 中国A股市场分析

@@ -10,10 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- china-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qwPPvP6tkyk
 speaker: 海淀拙大叔
@@ -26,7 +23,6 @@ tags:
 - technology
 title: A股H股两地上市：寻找超额收益的确定性投资机会
 ---
-
 ### A股H股两地上市公司的投资机会与超额收益
 
 阿甘公司研究论第21集，探讨那些**A股**（A-shares: 中国内地股票市场上市的股票）同时在**H股**（H-shares: 在香港股票市场上市的股票）上市的公司，是否会提供最确定的投资机会。大叔的结论是，我们一定要找到A股H股的超额收益，这主要来自于以下几个方面：

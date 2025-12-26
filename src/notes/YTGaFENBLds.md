@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -22,10 +22,7 @@ layout: post.njk
 products_models:
 - ChatGPT
 - Disney Plus
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YTGaFENBLds
 speaker: 投资TALK君
@@ -39,7 +36,6 @@ tags:
 - market-volatility
 title: 美股市场深度分析：黄金暴跌、AI新挑战，GE、奈飞、迪士尼财报解读
 ---
-
 ### 市场概览：资产价格波动与大盘表现
 
 周二资产价格走势显示，美元指数小幅上涨0.4%，长期美债收益率则小幅下跌。三大指数在周二变化不大，道指上涨0.5%，而其他两大指数则横盘或小幅下跌。道指的上涨反映出传统价值股的相对强势。大科技股整体下跌0.3%，表现相对较弱，但其中亚马逊（Amazon）逆势上涨2%。标普等权指数上涨0.5%，整体市场走势尚可。

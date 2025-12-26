@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Netflix
@@ -69,10 +69,7 @@ products_models:
 - Cybertruck
 - Blackwell
 - H200
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hoz62awqq_s
 speaker: Amit Kukreja
@@ -86,7 +83,6 @@ tags:
 - stock
 title: Netflix斥资827亿美元收购华纳兄弟，流媒体格局巨变；SoFi意外增发引市场热议
 ---
-
 ### 市场开盘概览：等待关键通胀数据
 
 大家早上好，欢迎回到新一期的市场开盘直播。今天是12月5日，星期五。这一周过得漫长又迅速，12月的第一个交易周即将在今天收盘时结束。

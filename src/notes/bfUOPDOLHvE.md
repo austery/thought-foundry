@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Apollo
@@ -30,10 +30,7 @@ products_models:
 - S&P 500
 - Tesla
 - Lovable
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bfUOPDOLHvE
 speaker: Patrick Boyle
@@ -47,7 +44,6 @@ tags:
 - technology
 title: 私募股权的隐秘危机：高利率时代的挑战与零售投资者风险
 ---
-
 ### 私募股权表现不佳的现状与原因
 
 今年八月，特朗普总统签署了一项行政命令，允许**私募股权**（Private Equity, PE: 一种投资形式，通过收购非上市公司或上市公司私有化来获取股权）公司进入美国的**401(k)**（401(k): 美国雇主发起的退休金计划）系统。其宣称的目标是实现投资的民主化，即不再过度保护小型投资者，让他们能够与养老基金和主权财富基金经理在同一个领域竞争——但将退休储蓄交给像阿波罗（Apollo）这样的公司，似乎与“民主化”的说法格格不入。

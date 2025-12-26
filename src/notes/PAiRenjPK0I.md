@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-05-24'
@@ -16,10 +16,7 @@ people:
 - Ichiro Kishimi
 - Zhu Yuanzhang
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PAiRenjPK0I
 speaker: Anthony看世界
@@ -32,7 +29,6 @@ tags:
 - philosophy
 title: 王阳明心学：从心灵导师到冷酷将领的矛盾解析
 ---
-
 ### 开启新系列：王阳明心学与中国社会
 
 大家好，我是Anthony，欢迎来到我的频道。

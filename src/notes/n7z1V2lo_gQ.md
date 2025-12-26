@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Google
@@ -13,10 +13,7 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 people: '[]'
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n7z1V2lo_gQ
 speaker: Peter Pang
@@ -30,7 +27,6 @@ tags:
 - technology
 title: 大数据时代的兴衰与技术预测的反思
 ---
-
 ### 大数据时代的兴衰：一场未兑现的预言
 
 “**大数据**”（Big Data: 指的是处理和分析海量、多样化、高速增长的数据的技术和方法）这个词，我已经很久没有听人提起了。曾几何时，它也是风靡全球的技术热点，就像现在的AI一样，每个企业都在想方设法地把大数据技术加入到自己的系统中。2010年代是大数据热潮的顶峰，我恰好也是在那个时间踏入职场，恰好进入了大数据部门，也算是在一线亲身经历了那个时代的起落。

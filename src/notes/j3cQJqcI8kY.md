@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - University of Toronto
@@ -12,9 +12,7 @@ media_books:
 - Hamilton
 people:
 - Taylor Swift
-project:
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=j3cQJqcI8kY
 speaker: TVO Today
@@ -28,7 +26,6 @@ tags:
 - trend
 title: 为何我们如此怀旧？心理学家的深度解析
 ---
-
 ### 怀旧的本质：慰藉与逃避现实的联系
 
 有时你就是想和一些老电视朋友一起度过时光。他们会像过去一样在你身边，但他们也能让你产生向往。怀旧并非总是令人愉悦的。那么，我们为什么会为了慰藉、为了向往，或是两者兼而有之而观看旧的喜爱节目呢？我从心理学家和认知科学家那里获得了一些见解。

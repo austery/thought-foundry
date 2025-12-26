@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - YouTube
@@ -35,9 +35,7 @@ products_models:
 - 特斯拉
 - 安卓
 - 苹果
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CpMFzZbvUiM
 speaker: 夸克说
@@ -51,7 +49,6 @@ tags:
 - psychology
 title: 户晨风现象：事实判断、常识传播与中国社会认知转型
 ---
-
 ### 户晨风被封杀后的去向与影响力探讨
 
 不久之前，户晨风被封杀了。这已经不是他第一次经历永封又解封，再被封的过程，但这次的情况可能更严重，大概率是真正永封了。网上随即出现两种讨论：第一种是关于户晨风为什么被封杀的，关于这一点我单做了一期节目讨论；这期咱们着重聊聊第二点，也是墙外讨论比较多的，就是户晨风要不要来YouTube做节目。

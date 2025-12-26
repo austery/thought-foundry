@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Federal Reserve
@@ -30,10 +30,7 @@ products_models:
 - H-1B
 - 401K
 - TPU
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RGicM5KST-c
 speaker: Shanghao Jin
@@ -47,7 +44,6 @@ tags:
 - war
 title: 中美央行政策困境、AI算力竞赛与全球市场展望
 ---
-
 ### 开篇：宏观经济大周期回顾与今日焦点
 
 上周我们讨论了两个核心观点：一是**AI大周期**（AI Supercycle: 指人工智能技术发展带来的长期经济增长和产业变革），即Token需求将远远超过Token供应，这预示着半导体和AI领域将迎来一个巨大的周期。二是**财政大周期**（Fiscal Supercycle: 指政府通过大规模财政支出和政策干预来刺激经济的长期趋势），这不仅限于美国，包括中国、欧洲和日本都在积极推行。今天，我们将结合美联储上周的决定及其**FOMC**（Federal Open Market Committee: 联邦公开市场委员会，负责制定美国货币政策）公布的经济数据，深入探讨中国和美国央行在当前宏观环境下的政策困境。这与政府层面的消费（即财政支出）形成对比，因为央行还需要兼顾通胀问题。

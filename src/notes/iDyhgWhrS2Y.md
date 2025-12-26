@@ -5,8 +5,7 @@ date: '2025-12-15'
 guest: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
+project: []
 source: https://www.youtube.com/watch?v=iDyhgWhrS2Y
 speaker: 一席YiXi
 status: evergreen
@@ -22,7 +21,6 @@ tags:
 - urban
 title: 新生代农民工的生命历程与家庭困境：从消费自主到经济母职
 ---
-
 ### 自我介绍与研究缘起
 
 大家好，我是王欧，来自**华中师范大学社会学院**，主要从事**农民工相关问题研究**。我自己为什么研究农民工呢？其实跟我小时候的经历有关，当然也跟我的教育经历有关。

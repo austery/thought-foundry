@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Uniqlo
@@ -20,10 +20,7 @@ people:
 - Xi Jinping
 - 李老师
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GPLItdZBuOc
 speaker: 东京人文论坛
@@ -36,7 +33,6 @@ tags:
 - transformation
 title: 剖析中国模式：优势背后的内在矛盾与转型困境
 ---
-
 ### 引言：从细节探讨中国转型的可能
 
 在之前的读书会中，我们分别阅读了诺贝尔经济学奖得主的相关著作，如制度经济学领域的《国家为什么会失败》和《自由的窄廊》。所有这些讨论，最终都指向一个核心议题：中国的转型。我们之所以要了解制度经济学，就是为了更深入地探讨这一问题。

@@ -15,8 +15,7 @@ people:
 - Donald Trump
 products_models:
 - AGI
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=K0Pa5oudUp4
 speaker: Dwarkesh Patel
@@ -29,7 +28,6 @@ tags:
 - national-security
 title: AI的未来：国家安全与政府主导的必然性
 ---
-
 ### AI的终局预测
 
 我希望我们使用**人工智能超级智能**（ASI: Artificial Super Intelligence，指在几乎所有领域都远超最聪明人类的AI）是为了治愈疾病，是为了造福世界。但我的预测是，在终局阶段，我们所面临的将不仅仅是酷炫的产品，而是**自由民主是否能够存续**，**中国共产党**（CCP）是否能够存续，以及**未来一个世纪的世界秩序**将是怎样的。当这些成为赌注时，将被激活的力量将远远超出我们目前的讨论范畴。

@@ -11,10 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xda_l5HPSak
 speaker: 投资TALK君
@@ -27,7 +24,6 @@ tags:
 - us-stock-market
 title: 美股再创新高：市场情绪、风险管理与美联储政策深度解析
 ---
-
 ### 开篇与频道更新
 
 各位观众大家好，我是市场分析员小陶。近期由于从国内回来后工作繁忙，包括未来将有额外工作展开，因此视频上传频率将有所调整。可能在接下来一段时间内无法保证日更，希望每周能做到三期左右，排期为周日、周二和周四。其中，周日的视频将对下一周进行展望，周中则进行更新。当然，如果周一、周三、周五有重大事件或指数大幅下跌等情况，我仍会及时出现。平时，我也会在X（原Twitter）上积极更新对市场和特定标的的看法，欢迎大家关注。

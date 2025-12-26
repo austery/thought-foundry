@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-04-25'
 draft: true
@@ -11,10 +11,7 @@ media_books:
 - 《巢》
 - 《去哪安家》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ynUh_NrEVSk
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - social
 title: 当英雄式励志故事成为主流，痛苦为何被隐形？——纪录片导演秦潇越的自我救赎
 ---
-
 ### 镜头之外的真相：从理想主义到真实生活的觉醒
 
 大家好，我叫秦潇越，是一名纪录片导演。在很长一段时间里，我对这个身份并没有太多认同感。

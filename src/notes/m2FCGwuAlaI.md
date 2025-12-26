@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -23,10 +23,7 @@ people:
 - Arnold Schwarzenegger
 products_models:
 - ChatGPT
-project:
-- investment-strategy
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m2FCGwuAlaI
 speaker: Norges Bank Investment Management
@@ -40,7 +37,6 @@ tags:
 - supply-chain-vulnerability
 title: AI如何保护挪威万亿主权财富基金
 ---
-
 ### 科技革命的启示：从Y2K到AI时代
 
 （背景音乐）

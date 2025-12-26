@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - CNBC
@@ -15,10 +15,7 @@ people:
 - Jerome Powell
 - Steven Mnuchin
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7TiG35ZUtAY
 speaker: 美投讲美股
@@ -32,7 +29,6 @@ tags:
 - trump-policy
 title: 美债：特朗普政策的隐形制约与美股未来走势
 ---
-
 ### 特朗普政策的“软肋”：美债的隐形制约
 
 曾几何时，我们以为美国前总统唐纳德·特朗普（Donald Trump）最害怕的是股市下跌，但他却能通过一份Excel表格将美股推入**熊市**（Bear Market: 指证券市场中价格长期下跌的趋势）。我们也曾以为他害怕经济衰退，但他面对质疑时却平静地表示，要做大事总得有些牺牲。过去几个月，看着他“怼天怼地”、“翻云覆雨”，人们开始怀疑特朗普是否真的无所畏惧。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 宇树科技
@@ -14,10 +14,7 @@ media_books:
 - 《新闻联播》
 - 《人民日报》
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xwVgLaqU8Lg
 speaker: 老周横眉
@@ -32,7 +29,6 @@ tags:
 - public
 title: 国产人形机器人马拉松争议：技术挑战、舆论反思与发展必要性
 ---
-
 ### 国产人形机器人马拉松：比赛细节与尴尬现状
 
 2024年4月19日，一场被誉为人类史上首个人形机器人马拉松的比赛在北京举办。比赛为**半程马拉松**（Half Marathon: 赛程距离为21.0975公里的长跑比赛），全程21公里。然而，比赛细节揭示了诸多挑战。这些机器人并非完全自主运行，大部分通过远程控制完成。视频显示，比赛规则允许每台机器人配备三名随行人员，包括一名遥控员、一名跟跑员和一名电力保障员。除了遥控模式，还存在“伴跑模式”。例如，本次比赛的冠军——北京天工的机器人，便是采用**伴跑模式**（Pacing mode: 机器人通过视觉识别前方人类的标识进行跟随移动），即前方有真人在三到五米处奔跑，机器人通过视觉识别其身上的二维码或标识进行跟随。

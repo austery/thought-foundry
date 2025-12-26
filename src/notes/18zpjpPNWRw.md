@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: work-related
 companies_orgs:
 - OpenAI
@@ -44,9 +44,7 @@ products_models:
 - Steam
 - TikTok
 - USDC
-project:
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=18zpjpPNWRw
 speaker: Dwarkesh Patel
@@ -60,7 +58,6 @@ tags:
 - policy
 title: Patrick McKenzie：洗钱、科技巨头审查、SBF与日本的制度反思
 ---
-
 今天，我与**Patrick McKenzie**进行了一次对话。他在互联网上以诸多身份闻名，包括**patio11**。最近，他运营了**VaccinateCA**（一个由志愿者发起的项目，旨在集中加州新冠疫苗的库存信息），这个项目在**COVID**（2019冠状病毒病）疫情期间可能挽救了数千人的生命。他还撰写了一份名为**Bits about Money**的优秀时事通讯。**Patrick**，欢迎来到播客。非常感谢您的邀请。
 
 **VaccinateCA**为我们提供了许多关于现有制度弊端的深刻教训。在深入探讨这些弊端之前，首先请您介绍一下**VaccinateCA**是什么？在2021年初，我们非常担心人们需要拨打20、40甚至60个电话，才能找到一家真正有**COVID**疫苗库存并能成功接种的药店。我随意发了一条推文，说这太疯狂了。每个人或每个护理人员都在试图联系**加州**的每一个医疗服务提供者，以寻找疫苗剂量。**加州**显然至少有一个人能够建立一个网站，集中这些信息，并引导所有人访问该网站。我说：“如果你能建立这个网站，我来支付服务器费用或其他开销。”

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -21,10 +21,7 @@ people:
 - Donald Trump
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nyMPFdOwTFE
 speaker: Norges Bank Investment Management
@@ -38,7 +35,6 @@ tags:
 - leadership-development
 title: 现代领导力、商学院教育与全球经济变局
 ---
-
 ### 欢迎与现代领导力的核心转变
 
 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**：管理挪威政府全球养老基金的机构）的首席执行官尼古拉·坦根。今天，我非常荣幸能与我最喜欢的人之一——杰弗里·加勒特（Geoffrey Garrett）共度时光。

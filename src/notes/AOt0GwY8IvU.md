@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -13,8 +13,7 @@ people:
 - Trenton Bricken
 products_models:
 - GPT-4
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AOt0GwY8IvU
 speaker: Dwarkesh Patel
@@ -28,7 +27,6 @@ tags:
 - reliability
 title: 模型区分与微调的未来：长上下文与可靠性的探讨
 ---
-
 ### 模型未来趋势
 存在这样一种未来，小型模型和大型模型之间的区别将在某种程度上消失。同时，随着**长上下文**（long context: 指模型一次能处理的输入信息量，此处指能够处理非常长的文本）的出现，**微调**（fine-tuning: 指在预训练模型的基础上，针对特定任务进行的小规模模型参数调整）在某种程度上也可能消失。你可以想象一个未来，你拥有一个**动态计算资源组合**（dynamic bundle of compute: 指根据任务需求实时调整和分配计算资源的模式）和**无限上下文**（infinite context: 指模型能够处理的输入信息量没有理论上限，可以包含任意长度的文本或数据）的组合，它能将你的模型专门化用于不同的任务。
 

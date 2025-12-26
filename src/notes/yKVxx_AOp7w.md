@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - NDP
@@ -22,9 +22,7 @@ people:
 - Stephen Harper
 - Doug Ford
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yKVxx_AOp7w
 speaker: 莊也雜談
@@ -38,7 +36,6 @@ tags:
 - us-canada-relations
 title: 加拿大政坛风云突变：自由党民调反弹，保守党面临挑战
 ---
-
 ### 引言：自由党民调意外反弹
 
 今天我们来聊一聊近期在加拿大政坛上兴起的一股自由党**回光返照**（Huíguāngfǎnzào: 原指日落时阳光反照，现多比喻事物在灭亡前短暂的兴盛或恢复）的现象。众所周知，从2024年年底到2025年1月初，曾经风光无限的自由党如寒冬残叶般一片凋零。不仅内阁辞职、党魁下台，自由党的民调更是跌至16%，被保守党拉开将近20个百分点。

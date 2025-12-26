@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 剑桥大学
@@ -39,9 +39,7 @@ people:
 - Joseph McCarthy
 products_models:
 - 三位一体 (Trinity) 核试验
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XbiC4jofUzs
 speaker: 超級歪 SuperY
@@ -55,7 +53,6 @@ tags:
 - war
 title: 奥本海默的传奇人生：原子弹之父的政治风波、二战终结真相与未解之谜
 ---
-
 ### 奥本海默的早年生活与学术之路
 
 他被称为**原子弹之父**（Father of the Atomic Bomb），却忏悔自己是“世界的毁灭者”。他曾为美国效力于**曼哈顿计划**（Manhattan Project: 美国在二战期间研制原子弹的绝密计划），晚年却遭受政治迫害。我们究竟该如何看待奥本海默？今天，让我们一起探讨奥本海默的传奇一生。

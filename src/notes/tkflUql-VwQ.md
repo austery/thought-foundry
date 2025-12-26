@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Democratic Party
@@ -35,9 +35,7 @@ people:
 - Liz Cheney
 - Zohran Mamdani
 - Sydney Sweeney
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=tkflUql-VwQ
 speaker: 北美王路飞
@@ -51,7 +49,6 @@ tags:
 - us-election-2028
 title: 2028年民主党总统候选人评分：谁能脱颖而出？
 ---
-
 ### 2028年民主党总统候选人展望
 
 大家好，欢迎收听今天的播客。我很荣幸邀请到罗恩·普恩教授和叶拉明参加本次脱口秀。我们将讨论2028年民主党总统大选的候选人。叶拉明，不知道你有没有看过我们上次共和党（**GOP**：Grand Old Party，美国共和党的别称）候选人评分的那一集。我们实际上给共和党阵营中我们认为排名前五的候选人都打了分。所以今天我们也要对民主党做同样的事情。我让叶拉明做了一些研究，结果让我非常震惊。叶拉明，你竟然是局外左派。

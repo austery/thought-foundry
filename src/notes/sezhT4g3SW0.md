@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Canadian Pacific Railway
@@ -14,8 +14,7 @@ media_books:
 people:
 - Queen Victoria
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sezhT4g3SW0
 speaker: 莊也雜談
@@ -29,7 +28,6 @@ tags:
 - travel
 title: 贾斯珀国家公园深度游：仙境湖泊、历史小镇与冰川奇观
 ---
-
 ### 贾斯珀国家公园概览与小镇探秘
 
 大家好，我是庄野，欢迎收看庄野杂谈加拿大系列节目。今天虽然外面下着雨，但我们继续讲述**班夫**（Banff: 加拿大落基山脉著名国家公园及小镇）的故事。不过，今天主要介绍的景点与班夫国家公园没有太大关系，而是集中在**贾斯珀**（Jasper: 加拿大落基山脉著名国家公园及小镇）、**优贺**（Yoho: 加拿大落基山脉国家公园）和**库特尼**（Kootenay: 加拿大落基山脉国家公园）这几个公园。今天我们先从贾斯珀开始。

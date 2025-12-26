@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 北京大学
@@ -15,10 +15,7 @@ media_books:
 people:
 - Donald Trump
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gug-HAC_ep0
 speaker: 老周横眉
@@ -32,7 +29,6 @@ tags:
 - youth-unemployment
 title: 中国青年失业困境：从数据预测到社会症结，普通人何去何从？
 ---
-
 ### 中国青年失业现状与未来趋势预测
 
 去年同期，我曾发布视频探讨中国青年失业的严峻情况，引发了广泛关注。一年过去，中国的青年就业形势是否有所好转？根据中国人力资源和社会保障部部长王小平在今年**两会**（全国人民代表大会和中国人民政治协商会议的简称）上的报告，今年的高校毕业生人数达到1222万人，再次打破历史纪录，成为中国历史上应届毕业生最多的一年。此外，还有大量农村转移劳动力需要实现稳定就业，就业总量压力不减。

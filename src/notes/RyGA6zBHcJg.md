@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - HP
@@ -19,9 +19,7 @@ people:
 products_models:
 - UML
 - RUP
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RyGA6zBHcJg
 speaker: Peter Pang
@@ -34,7 +32,6 @@ tags:
 - software-engineering-tool
 title: UML的兴衰：软件开发中的图形化建模语言为何被淘汰？
 ---
-
 ### UML的兴衰：程序员的“噩梦”与历史的教训
 
 你见过这些图吗？你画过这些图吗？如果你的回答是没有，那么恭喜你，躲过了软件开发历史上最“坑”程序员的一段时间。这种叫做**UML**（Unified Modeling Language: 一种图形化的软件建模语言）的图，曾经是每个程序员的必修课。然而，绘制UML图比编写文档和**单元测试**（Unit Test: 对软件中的最小可测试单元进行检查和验证）还要折磨人。

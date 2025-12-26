@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-10-17'
@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 products_models:
 - claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uhJJgc-0iTQ
 speaker: Anthropic
@@ -22,7 +21,6 @@ tags:
 - system
 title: 构建更高效的AI智能体：Anthropic探讨Claude的多智能体能力与未来展望
 ---
-
 ### 智能体训练与Claude的核心优势
 
 Alex: Hey, I'm Alex, I lead Claude Relations here at Anthropic. Today we're gonna be talking about building more effective agents and I'm joined by my colleague.

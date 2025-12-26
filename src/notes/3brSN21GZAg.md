@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 娃哈哈
@@ -21,10 +21,7 @@ people:
 - 刘强东
 - 孙中山
 products_models: '[]'
-project:
-- china-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3brSN21GZAg
 speaker: 徒步的騎手
@@ -38,7 +35,6 @@ tags:
 - political
 title: 中国社会的“巨婴”现象：假爱国、舆论操弄与个体觉醒
 ---
-
 ### 中国企业家的“爱国表演”与八卦价值
 
 各位好，外面这天有点太热了，不愿出门，不如说点名人八卦，加点思想佐料，麻辣一下。在中国做企业，得服从党国规矩，很多老板是身不由己，要表演爱国，尤其是这十来年，中国的知名企业家好像都成了爱国演员。他们本来都是有名有姓的，爹妈给取好了名字，像宗庆后、王传福、余承东、刘强东等等，叫起来都不难听。但他们一上舞台，都是演一个角色，名叫“假爱国”。在和平年代，企业家忽悠爱国肯定是醉翁之意不在酒。在中国眼下政治挂帅的时候，有人靠忽悠爱国卖货，有人靠忽悠爱国自保，这都可以理解，也是有正常判断力的人都能做出的判断。但是有些企业家可能演着演着就入戏了，演了几集剧情不出现高潮的话，观众不答应，官府也不答应。

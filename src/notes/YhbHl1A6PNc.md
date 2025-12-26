@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -20,9 +20,7 @@ media_books:
 people:
 - Nikolai Tangen
 - Marte
-project:
-- geopolitics-watch
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YhbHl1A6PNc
 speaker: Norges Bank Investment Management
@@ -35,7 +33,6 @@ tags:
 - sovereign-wealth-fund
 title: 挪威主权财富基金：以色列投资审查、半年业绩与信任危机应对
 ---
-
 ### 开场白与议程
 
 大家好，欢迎参加新闻发布会。

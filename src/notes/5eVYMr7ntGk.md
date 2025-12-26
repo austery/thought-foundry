@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - BBC
@@ -17,9 +17,7 @@ media_books:
 people:
 - Brian Stewart
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5eVYMr7ntGk
 speaker: TVO Today
@@ -33,7 +31,6 @@ tags:
 - moral-injury
 title: 从战地记者到道德创伤：一位资深记者的人生轨迹与全球视野
 ---
-
 ### 引言与记者生涯概述
 
 Brian，非常感谢您邀请我们到您温馨的家中做客。您最近怎么样？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2024-08-27'
 draft: true
@@ -10,8 +10,7 @@ media_books:
 - 庄也杂谈第31集
 - 庄杂第173集
 products_models: []
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LsOLH3IbJ0A
 speaker: 莊也雜談
@@ -25,7 +24,6 @@ tags:
 - travel
 title: 探索加拿大四大极点：从美丽斯皮尔角到遥远哥伦比亚角
 ---
-
 今儿咱们上一节非常有趣的地理课，说一说加拿大的四个极点，也就是加拿大的最东端、最西端、最南端和最北端。
 
 为什么说这个呢？大家知道，我7月初的时候去了一趟纽芬兰，并且在这个纽芬兰的岛上，到访了加拿大最东端的极点**斯皮尔角**（Cape Spear: 加拿大纽芬兰与拉布拉多省最东端的海角）。之前，我又在5月中旬的时候，曾经到访过加拿大国土最南端的那个位于安省伊利湖边的**霹雳角国家公园**（Point Pelee National Park: 位于加拿大安大略省伊利湖畔，是加拿大大陆最南端的国家公园）。然后就看到有观众朋友给我留言，说既然已经去了加拿大最东端和最南端，干脆把这个最西端和最北端也一并去了，那加拿大四个极点不就全部拿下了吗？

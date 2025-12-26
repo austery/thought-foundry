@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2024-11-30'
 draft: true
@@ -12,10 +12,7 @@ media_books:
 people:
 - 毛泽东
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MvXO_fut_Cc
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - social
 title: 当「有问题的个人」遇到「有问题的团体」：从陆蠡、丁玲看中国现代团体生活的困境与光亮
 ---
-
 ### 团体生活的光与影：从陆蠡的小说谈起
 
 大家好，我是姜涛，来自北京大学中文系。我这些年主要研究1940年代战争情境下的文学经验与文学背后的人。今天要讨论的，是一个看似离我们遥远、实则直指当下的问题：在那个年代，年轻人是如何过团体生活的？

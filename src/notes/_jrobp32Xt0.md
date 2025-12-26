@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 拼多多
@@ -18,10 +18,7 @@ media_books:
 people:
 - 唐石峻
 - Charlie Munger
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_jrobp32Xt0
 speaker: Shijun Tang
@@ -35,7 +32,6 @@ tags:
 - quality
 title: 拼多多、星巴克与LVMH的财务对比：芒格式投资如何在高波动市场中寻找护城河
 ---
-
 ### 拼多多：低资本开支的现金印钞机
 
 拼多多被形容为“一艘火箭”，在2023年至今，其自由现金流（FCF）的增长速度堪称“变态”。即便在主观评分系统中刻意压低其分数，它依然获得87分的高分——在当前全球企业中几乎找不到第二家财报如此亮眼的公司。其资产负债表极为强劲：现金高达390亿美元，而借款仅为13亿美元，杠杆率极低。营收持续刷新历史新高，投资资本回报率（RIC）达到41.69%；经营利润同样创出新高，利润率高达28.57%。更惊人的是，其资本支出（CapEx）几乎为零，股票期权补偿（SBC）也极低。尽管存在地缘政治风险与护城河是否稳固的疑问，但其创造现金的能力和定价能力仍令人不得不承认：截至目前，拼多多交出了一份极为出色的答卷。

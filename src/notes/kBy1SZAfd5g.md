@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies:
 - tencent
@@ -15,9 +15,7 @@ layout: post.njk
 products_models:
 - WeChat
 - QQ
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kBy1SZAfd5g
 speaker: Shijun Tang
@@ -29,7 +27,6 @@ tags:
 - stock
 title: 腾讯（TCEHY）深度复盘：是无敌的复利机器，还是高位落袋为安？| 647天持仓分析
 ---
-
 ### 主持人介绍与投资背景
 
 今天这期我们来谈谈腾讯，股票代码TCEHY。腾讯自从22年10月以来，已经从最低点24.75美元一股，历时1078天，一度已经涨到了87.68美元一股，涨幅一度有254.26%。腾讯已经赢麻了么？腾讯未来还会一直涨下去吗？今天这个视频我们就从腾讯最新财报、基本面公司的竞争环境，以及公司的护城河等多个方面来详细谈一谈腾讯这家公司。

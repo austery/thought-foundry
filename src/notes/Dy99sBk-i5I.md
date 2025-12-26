@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -28,10 +28,7 @@ people:
 - Charlie Munger
 products_models:
 - Blackwell
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Dy99sBk-i5I
 speaker: Shijun Tang
@@ -45,7 +42,6 @@ tags:
 - valuation
 title: 英伟达暴跌后的投资困局与期权交易的双刃剑：从亚马逊到腾讯的价值启示
 ---
-
 ### 英伟达的崩塌与重构：从“最佳公司”到估值泡沫
 
 英伟达近期股价下跌超过10%，这一波动引发了广泛讨论。作者认为，英伟达或许从此不再是“同一家公司”——这并非贬义，而是指其业务结构发生了根本性转变。在他个人的评分体系中，英伟达以95分高居榜首，远超第二名万事达卡的88分。在该体系中，80分以上每增加一分都意味着质的飞跃，而90分以上的公司仅此一家。然而，作者却并未持有英伟达股份——因为他早在2022年就错过了这波增长浪潮。

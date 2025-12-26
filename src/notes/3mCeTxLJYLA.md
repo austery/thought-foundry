@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2023-09-28'
@@ -9,9 +9,7 @@ insight: ''
 layout: post.njk
 products_models:
 - chatgpt
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3mCeTxLJYLA
 speaker: 一口新飯
@@ -25,7 +23,6 @@ title: iPhone 15 Pro与AI闪念笔记：打造个人专属智能语音效率系�
 companies:
 - apple-shortcut
 ---
-
 ### 购置iPhone 15 Pro：为效率神器而升级
 
 作为一名精打细算的财经UP主，我通常很少更换手机。去年，我甚至因为超级折扣，将使用了四年的iPhone XR升级为基础款的iPhone 13，而非当时最新的iPhone 14。然而，今年的**iPhone 15 Pro**一经发布，我便毫不犹豫地立即下单。这主要是因为Pro机型上新增的**动作按钮**（Action Button: 一个可自定义功能的物理按键），配合**OpenAI**（一家致力于开发友好型人工智能的美国人工智能研究公司）的人工智能技术，能够实现两个我梦寐以求的智能语音笔记功能：**Whisper**（OpenAI开发的一款开源通用语音识别模型）闪念笔记和Whisper语音键盘。在今天的视频中，我将展示这两个“杀手级”应用，并详细讲解如何在自己的手机上实现这些功能。即使您没有iPhone 15 Pro，我也会提供一些适用于普通iPhone的替代方案，因此请务必看完视频，因为每个步骤都至关重要。

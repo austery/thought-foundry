@@ -14,8 +14,7 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=0R37p35EoeM&list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV
 speaker: ''
@@ -23,7 +22,6 @@ summary: null
 tags: []
 title: 深度解析：挑战英伟达的中国芯片巨头华为
 ---
-
 # 探秘华为：挑战英伟达的中国芯片巨头
 
 ## 引言：AI芯片领域的潜在挑战者

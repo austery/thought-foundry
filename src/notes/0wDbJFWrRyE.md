@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CBS
@@ -33,10 +33,7 @@ people:
 - Xi Jinping
 - Nicolás Maduro
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0wDbJFWrRyE
 speaker: FearNation 世界苦茶
@@ -50,7 +47,6 @@ tags:
 - politics
 title: 特朗普的政治操盘：国内困境下的外交策略与权力展演
 ---
-
 ### 引言：精心策划的政治展演
 
 今天我们探讨的是特朗普突然接受CBS“60分钟”采访，其中内政外交有很多有趣的信息。这远非一次常规的媒体露面，事实上这是一场精心计算、赌注极高的政治操盘。这是特朗普总统五年来第一次和这个王牌节目进行一对一的专访。为什么说它复杂？因为这次采访的核心矛盾，就在于总统试图展现出的那种绝对的控制力、那种全能的形象，和它现实中正拼命对抗的严重制度性束缚，也就是受挫的现实，这两者之间充满了巨大的张力。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-08-27'
@@ -15,10 +15,7 @@ people:
 - 毛泽东
 products_models:
 - AI
-project:
-- personal-growth-lab
-- systems-thinking
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2_3I4U_PxYs
 speaker: 徒步的騎手
@@ -32,7 +29,6 @@ tags:
 - system
 title: 经济下行与政治荒诞：如何在至暗时刻抓住并创造机会？
 ---
-
 ### “零零后”的困惑：我们这代人的机会更少了吗？
 
 今天我们从一个朋友的问题说起。这位朋友在 Twitter 上提问，他认为相比于60后到90后，**零零后**（Líng Líng Hòu: 指2000年以后出生的中国年轻人，常被称为“Z世代”）所处的时代，无论是确定性还是发展路径都更少了。经济进入了下行且漫长的停滞期，社会思潮也混乱不堪。

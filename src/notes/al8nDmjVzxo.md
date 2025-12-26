@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-09-09'
@@ -22,7 +22,6 @@ tags:
 - startup
 title: 22亿美元公司创始人的创业忠告与成功哲学
 ---
-
 ### 创业忠告：极度坚定的信念
 
 My first piece of advice to most people would be: don't start a company.

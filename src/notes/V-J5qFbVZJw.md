@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - 清华大学
@@ -19,9 +19,7 @@ people:
 - 孙维
 - 柴静
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=V-J5qFbVZJw
 speaker: 柴静 Chai Jing
@@ -35,7 +33,6 @@ tags:
 - thallium-poisoning
 title: 清华朱令铊中毒案：关键证据为何屡次灭失，真相何在？
 ---
-
 ### 迟滞的诊断与清华的沉默
 
 在上集节目中，赫米博士指出，朱令头发的检测结果显示她曾反复多次长期涉入**剧毒物**（Highly Toxic Substance: 具有极高毒性，能对人体造成严重伤害甚至死亡的物质）。尤其在最后一次急性中毒期间，她涉入的**铊**（Thallium: 一种剧毒重金属元素）远高于平常的频率和剂量。而那段时间，朱令因生病，大部分活动范围都在宿舍。案发后，朱令的室友孙维是警方已知的唯一嫌疑人。然而，孙维在2005年的声明中表示，警方在没有任何证据的情况下将其列为嫌疑人，并在一年后解除其嫌疑时承认，没有证据证明他与朱令中毒案有关。不过，八年之后，北京警方发表声明，称此案未侦破是因为没有获取认定犯罪嫌疑人的直接证据。这两种表述在法律语境下有实质性区别。

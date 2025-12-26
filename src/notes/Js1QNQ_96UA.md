@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Bloomberg
@@ -26,10 +26,7 @@ people:
 - Kamala Harris
 - Jeffrey Epstein
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Js1QNQ_96UA
 speaker: Bloomberg Podcasts
@@ -44,7 +41,6 @@ tags:
 - urban-governance
 title: 纽约市长亚当斯：从夜生活到住房、移民与政治挑战的城市未来展望
 ---
-
 ### 纽约夜生活：繁荣的经济引擎
 
 [音乐]

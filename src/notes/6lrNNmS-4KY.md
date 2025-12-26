@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-02-09'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6lrNNmS-4KY
 speaker: Anthony看世界
@@ -24,7 +22,6 @@ title: 创伤迷恋：为何我们总被糟糕的人吸引？
 companies:
 - psychological-regression
 ---
-
 ### 亲密关系中的“不自由”
 
 大家好，欢迎来到我的频道。本期视频，我们来聊聊**有毒关系**（Toxic Relationships: 指对个体心理健康有害的亲密关系），以及人们为何会深陷其中。

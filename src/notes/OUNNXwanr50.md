@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -20,10 +20,7 @@ products_models:
 - S&P 500
 - Nasdaq
 - VIX
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OUNNXwanr50
 speaker: 投资TALK君
@@ -38,7 +35,6 @@ tags:
 - us-stock-market
 title: 从欧洲股市走势看美股回调：非农数据与全球流动性展望
 ---
-
 ### 开篇与市场概览
 
 欢迎来到一个不单止聊新闻的专业美股频道。我是市场分析员小陶。最近市场新闻较多，无论是正侧面、宏观面还是一些基本面，我都积极为大家更新视频，希望能继续保持这份积极性，当然这也离不开大家每期视频的点赞。今天我们将从欧洲股市的走势出发，回过头来看过去一两周美股科技股的回调，并关注周三公布的“小非农”数据（ADP数据）中的工资上涨指标和《鹤皮书》中企业对关税涨价转移能力的看法。最后，我们将对周四和周五的市场数据公布做一些准备和展望。

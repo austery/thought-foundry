@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中央电视台
@@ -23,9 +23,7 @@ people:
 - 柴静
 - 崔永元
 products_models: []
-project:
-- china-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9L60q0fQHu8
 speaker: 柴静 Chai Jing
@@ -38,7 +36,6 @@ tags:
 - thinking
 title: 柴静忆陈虻与崔永元：独立思考与新闻人初衷的代价
 ---
-
 ### 崔永元对柴静的评价与新闻初衷
 
 崔永元曾提及，他与妻子已有十年未见。当年在**中央电视台**（CCTV: 中国国家广播电视机构）工作时，妻子在楼上，他下楼后，推门拉椅，两人便能面对面聊上一会儿。如今，他们相隔万里，高墙阻隔，多年未能相见。不过现在情况尚好，有人将他的YouTube节目转到国内给他看，他评论后，再请人发到他的微博账号上，以此方式与外界交流。

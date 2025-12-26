@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美国国务院
@@ -22,10 +22,7 @@ people:
 - 唐纳德·特朗普
 - 巴拉克·奥巴马
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IoQSeMoPW8w
 speaker: 柴静 Chai Jing
@@ -39,7 +36,6 @@ tags:
 - society
 title: 华裔学者王熙月伊朗蒙冤记：绝境中的人性与营救
 ---
-
 ### 案件背景与人性抉择
 
 五年前，我曾想制作一个故事，当时美国和伊朗这两个长期敌对的国家在中立国瑞士交换囚犯。美籍华裔学者王熙月被释放回家，此前这位普林斯顿大学的历史学博士在伊朗被指控犯有间谍罪，获刑十年。这个故事吸引我的不是其中的政治，而是人性。王熙月能够逃离德黑兰，重获自由，是因为他的妻子曲化在三年中从未停止的营救。而他能够在伊朗监狱活下去，是因为有一位中国留学生组织了“为王熙月读书小组”。今天，我将与他们对话。

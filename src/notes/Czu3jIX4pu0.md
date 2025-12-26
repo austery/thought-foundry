@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-05-11'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Czu3jIX4pu0
 speaker: 一口新飯
@@ -25,7 +24,6 @@ tags:
 - wealth-management
 title: 越有钱越抠门：一种买回自由的财富哲学
 ---
-
 ### 越有钱越抠门：一种有意识的财富选择
 
 你是否发现，越是有钱的人似乎越“抠门”？不久前，我看到一个真实故事：我特别喜欢的作者**纳西姆·塔勒布**（Nassim Taleb: 著名风险管理学教授、畅销书《反脆弱》等作者）与一位亿万富翁共进晚餐时，塔勒布习惯性地点了第二便宜的菜，但那位亿万富翁却打断服务员说：“我太有钱了，第二便宜的对我不太适合，请给我们上最便宜的菜。”

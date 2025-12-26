@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs:
 - LinkedIn
@@ -21,9 +21,7 @@ products_models:
 - Kimi
 - GLM
 - DeepSeek
-project:
-- personal-growth-lab
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XyswlA2wJ8Y
 speaker: 课代表立正
@@ -36,7 +34,6 @@ tags:
 - value
 title: AI时代职业反思：为什么“打工”性价比骤降，而个人项目价值凸显？
 ---
-
 ### 职业抉择：应对职场竞争与技术方向选择
 
 你好，如果碰到同事抢项目，具体情况需要更详细的描述。我的回答长度会和你的提问长度差不多，你提供的信息越多，我的回答也越具体。

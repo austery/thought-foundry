@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - TED
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Sigmund Freud
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=A6hzHov7Kng
 speaker: TED
@@ -26,7 +24,6 @@ tags:
 - venting
 title: 发泄怒火为何无助于解决问题：心理学研究揭示真相
 ---
-
 ### 愤怒的起源：从婴儿车的故事说起
 
 我想从一个故事开始讲起。

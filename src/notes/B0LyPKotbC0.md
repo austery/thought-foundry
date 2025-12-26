@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-09-26'
@@ -11,10 +11,7 @@ people:
 - 余英时
 - 马克思
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=B0LyPKotbC0
 speaker: 徒步的騎手
@@ -27,7 +24,6 @@ tags:
 - state
 title: 余英时的风骨与许倬云的媚世：你的人格，决定你爱什么样的国家
 ---
-
 ### 中国知识分子的两种“鸦片”
 
 大家好，今天我们来谈谈“鸦片”。一提到鸦片，人们通常会联想到中国近代史。但卡尔·马克思也曾说过一句名言：“宗教是人民的鸦片。” 那么，对于今天的中国人来说，马克思主义是他们的鸦片吗？我认为不是。

@@ -19,8 +19,7 @@ people:
 - Xi Jinping
 - Deng Xiaoping
 products_models: []
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OoSh7qJcZWA
 speaker: Dwarkesh Patel
@@ -33,7 +32,6 @@ tags:
 - political
 title: 共产主义的‘辉煌’：权力、贫困与历史的审视
 ---
-
 ### 毛泽东的权力之路
 
 **毛泽东**（Mao Zedong: 中国共产党的主要创始人之一，中华人民共和国的缔造者）上台后，引发了巨大的动荡。在他掌权期间，**数千万人死亡**，然而令人费解的是，在他执政后，**从未发生过重大的叛乱或成功的政变**。共产党人在夺取权力方面表现出色。例如，当北越获胜时，他们很快就面临了饥荒。在越南，一年通常有三季收成，按理说不应发生饥荒，但他们却经历了饥荒。

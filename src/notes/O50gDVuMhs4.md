@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 农业银行
@@ -15,10 +15,7 @@ media_books:
 - 阿里资产
 - 京东资产
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=O50gDVuMhs4
 speaker: 小翠時政財經
@@ -32,7 +29,6 @@ tags:
 - technology
 title: “银行直供房”现象：中国楼市与金融系统面临的深层困境
 ---
-
 ### 引言：银行“直供房”现象的兴起
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年11月18日。今天我们要聊的是近期发生在中国房地产市场上的一件稀奇事，叫做**银行直供房**（Bank Direct Sale Housing: 银行在借款人无力还贷后，不再走传统法拍程序，而是直接将抵押房产过户到自己名下并低价出售的行为）。简单来说，就是银行在出现坏账、借款人无力还贷之后，不再走传统的**法拍程序**（Foreclosed Properties: 银行或债权人通过司法程序拍卖的抵押房产），而是直接把抵押房产过户到自己名下，再低价挂牌出售，来加速处理**不良资产**（Non-performing Assets: 银行贷款中借款人无法按时偿还、或已逾期且收回可能性较小的部分）。

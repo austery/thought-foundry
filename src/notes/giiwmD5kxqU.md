@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - fearnation
 products_models: []
-project:
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=giiwmD5kxqU
 speaker: FearNation 世界苦茶
@@ -24,7 +23,6 @@ tags:
 - 援助分析
 title: 乌克兰收复160平方公里国土：是转折点还是局部胜利？深度解析俄乌战争态势新变化
 ---
-
 ### 节目轨道与内容概览
 
 欢迎来到本期的世界苦茶事实线节目。我们将世界苦茶分为三条轨道：事实线、分析线和观察线，以实现对更多国际与中国国内事实分析线的覆盖，深入经济与政治哲学，节目数量会更多一些。

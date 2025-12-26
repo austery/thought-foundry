@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-03-03'
 draft: true
@@ -15,10 +15,7 @@ media_books:
 people:
 - Nietzsche
 products_models: []
-project:
-- geopolitics-watch
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=STGriTJuBLk
 speaker: 超級歪 SuperY
@@ -32,7 +29,6 @@ tags:
 - societal
 title: 不生育是文明演进的必然趋势？森岡正博与超级歪对谈反出生主义
 ---
-
 ### 开场致辞与书籍引介
 
 **主持人洪诗涵:** 各位好，我是卫城出版总编辑洪诗涵。今天非常开心能借台北国际书展的盛会，举办这场精彩而难得的对谈。卫城出版在去年同期出版了一本书，名为**《不要出生，是不是比较好？》**。这本书出版后反响热烈，因为它提出的问题，正是当下许多年轻人所关心的。本书作者森岡正博教授是日本早稻田大学人类科学系的教授，多年来致力于生命、死亡及相关哲学议题的研究。可以说，这本书是他多年研究此议题后的心得总结。

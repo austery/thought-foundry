@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2025-10-10'
 draft: true
@@ -12,9 +12,7 @@ people:
 - Elon Musk
 - Donald Trump
 products_models: []
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=H0xp8X9xk0k
 speaker: 徒步的騎手
@@ -28,7 +26,6 @@ tags:
 - systemic-risk
 title: 殊途同归：中国企业家与农民工为何都难逃“红色魔咒”？
 ---
-
 ### 中国老板们的“诡异消失”
 
 大家好。今天我们来谈谈中国的商业环境。近年来，一个令人不安的趋势愈发明显：中国的企业家们正在“消失”。国际媒体，如《华尔街日报》，也注意到了这一现象，并以《中国老板们的诡异消失》（The Sinister Disappearance of China's Bosses）为题进行了报道。文章指出，拘留、公开羞辱和离奇死亡事件加剧了这个国家企业界的阴霾。

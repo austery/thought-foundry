@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - GitHub
@@ -15,9 +15,7 @@ products_models:
 - Devon
 - Codeex
 - Jira
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=WqZq8L-v9pA
 speaker: AI Engineer
@@ -31,7 +29,6 @@ tags:
 - software-development
 title: 2000万次拉取请求数据揭示：AI转型如何影响软件开发生产力与代码架构
 ---
-
 ### AI转型中的关键问题与数据驱动的洞察
 
 大家好，我叫尼古拉斯·阿科拉诺，是Jellyfish的研究主管。

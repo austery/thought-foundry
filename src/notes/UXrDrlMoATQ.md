@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 民主党
@@ -32,10 +32,7 @@ people:
 - Barack Obama
 - Recep Tayyip Erdoğan
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UXrDrlMoATQ
 speaker: 超級歪 SuperY
@@ -49,7 +46,6 @@ tags:
 - media-literacy
 title: 从古埃及到数字时代：假新闻、认知作战与公民思辨
 ---
-
 ### 假新闻与认知作战的现代挑战
 
 在2020年美国总统大选期间，唐纳德·特朗普指控选举舞弊，并呼吁紧急计票。他声称：“如果计算合法选票，我将轻松赢得选举；如果计算非法选票，民主党人就会窃取我们的胜利。”随后，一篇关于“民主党舞弊”的新闻在台湾的特朗普支持者中广泛传播，但最终被证实是**假新闻**（Fake News: 故意捏造或传播的虚假信息，旨在误导受众）。

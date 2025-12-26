@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Nvidia
@@ -12,10 +12,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TnSGx36Ly0Q
 speaker: AI Engineer
@@ -29,7 +26,6 @@ tags:
 - national-security
 title: 政府AI：智能代理如何应对严格监管与国家安全挑战
 ---
-
 ### 洛斯阿拉莫斯国家实验室的AI之旅
 
 大家好，我是**洛斯阿拉莫斯国家实验室**（Los Alamos National Laboratory: LANL，美国能源部下属的核武器设计和科学研究机构）的企业AI架构师Mark Myshatyn。

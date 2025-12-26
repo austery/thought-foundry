@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Radio Canada
@@ -14,10 +14,7 @@ media_books:
 - 加拿大選舉網站
 - 《哈利波特》
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fbs1Cvo4wG8
 speaker: 莊也雜談
@@ -31,7 +28,6 @@ tags:
 - political
 title: 加拿大超級大選黨魁辯論深度分析：卡尼、博勵治、辛格與布朗謝的交鋒與民調影響
 ---
-
 大家好，我是莊也，歡迎您收看莊也雜談。剛剛過去的4月16號和4月17號，即週三和週四，是加拿大這次超級大選進程中非常重要的兩天。**加拿大領導人辯論委員會**（Leader's Debate Commission - LDC: 負責組織加拿大聯邦選舉辯論的獨立機構）連續舉辦了兩場加拿大黨魁辯論。4月16號是法語辯論，4月17號是英語辯論。
 
 ### 辯論參與者與焦點議題

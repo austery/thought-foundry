@@ -31,10 +31,7 @@ people:
 - Vladimir Putin
 products_models:
 - Blackwell
-project:
-- us-analysis
-- geopolitics-watch
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wEuo9bxVHZw
 speaker: LT視界
@@ -47,7 +44,6 @@ tags:
 - trade
 title: 美联储降息、英伟达市值突破与全球地缘政治新动向
 ---
-
 ### 美联储降息决策与市场反应
 
 今天，10月29日，我们首先来了解财经头条。网友们都非常关注今天**美联储**（Federal Reserve: 美国中央银行系统）**公开市场委员会**（Federal Open Market Committee, FOMC: 负责制定美国货币政策的机构）的决定。我们分享《华尔街日报》的报道，这是尼克·蒂米拉奥斯亲自撰写的一篇报道。在美联储宣布决定之后的五分钟之内，尼克·蒂米拉奥斯就发表了比较长的报道，显然这个报道是在美联储宣布决定之前他早就写好了的，甚至一个字没有改就直接发表了。所以它体现了尼克·蒂米拉奥斯在这次美联储公开决定之前，对美联储内部的一些讨论和内部一些观点他是了如指掌的。当然了，这也是美联储赋予他所谓的新美联储通讯社的能力体现。

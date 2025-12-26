@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 特斯拉
@@ -28,10 +28,7 @@ people:
 products_models:
 - EUV光刻机
 - Venmo借记卡
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pMGdtJELxyQ
 speaker: Shijun Tang
@@ -44,7 +41,6 @@ tags:
 - technology
 title: 特斯拉、ASML与Netflix的财报解析：高估值下的投资逻辑与多元化真相
 ---
-
 ### 特斯拉财报：盈利回暖背后的资本幻觉
 
 特斯拉在最新财报后股价一度暴涨28.96%，但五天内又回吐了12.67%的涨幅，这种剧烈波动让许多投资者感到困惑。表面上看，财报数据全面回暖：经营利润、经营性现金流和自由现金流均实现改善；EPS（每股收益）超出市场预期；公司还生产了第700万辆汽车，财务状况看起来非常健康——现金储备是债务的三倍以上。

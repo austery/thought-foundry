@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 特斯拉
@@ -18,10 +18,7 @@ people:
 - 唐石峻
 - Donald Trump
 products_models: []
-project:
-- us-analysis
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uks_osJP4Ss
 speaker: Shijun Tang
@@ -34,7 +31,6 @@ tags:
 - system
 title: 特斯拉、通用电气与FICO：解构美股三大标的的估值逻辑与基本面真相
 ---
-
 ### 特斯拉：高增长神话下的估值泡沫与基本面困境
 
 特斯拉是一家极具传奇色彩的公司，其股价走势常与其CEO的个人行为深度绑定——正所谓“成也萧何，败也萧何”。尽管其财报屡次被市场称为“暴雷”，但往往在发布后股价却迎来暴涨，本次亦不例外：财报公布后股价一度飙升65.05%。然而，这种反弹难以掩盖其深层问题。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - TED
@@ -8,8 +8,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qGISrbDdL_g
 speaker: TED
@@ -23,7 +22,6 @@ tags:
 - technological
 title: 当动物使用互联网：科技如何赋能它们的社交与福祉
 ---
-
 ### 引言：科技与动物的连接
 
 此刻，在座的许多人可能就有一只狗待在家中，它们与外界断绝联系且当下与人隔绝。我们人类已经设法跨越了这道鸿沟，只要快速滑一下手机，就能透过视讯或电话与家人联络。我研究的问题是：如果我们也为动物做同样的事呢？如果我们允许动物使用网络并在线上进行联络呢？

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-10-08'
 draft: true
@@ -9,8 +9,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=a_66PTU1Ask
 speaker: Bloomberg Podcasts
@@ -20,7 +19,6 @@ tags:
 - llm
 title: AMD 领涨，戴尔受益 AI 浪潮，Fair Isaac 受竞争对手冲击
 ---
-
 ### AMD 股价飙升，受益于 OpenAI 合作消息
 
 AMD Rallies, Dell Gains, Fair Isaac Tumbles on Rival Equifax's Services | Stock Movers

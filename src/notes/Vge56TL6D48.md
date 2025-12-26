@@ -24,10 +24,7 @@ people:
 - 希拉里·克林顿
 - 巴拉克·奥巴马
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Vge56TL6D48
 speaker: 北美王路飞
@@ -42,7 +39,6 @@ tags:
 - us-foreign-policy
 title: 地缘政治博弈下的乌克兰、日本与美元霸权：多方视角解析
 ---
-
 ### 俄乌冲突与美国话语权：道德批判的双重标准
 
 北美王路飞: 兄弟们，声音怎么样？正的能听见吗？没问题。今天我们讲俄乌和中日关系。大家不要听我扣上**阴谋论**（Conspiracy Theory: 指对某一事件或现象的解释，认为其背后存在一个秘密的、有组织的、邪恶的计划）的帽子，我只是将这些事实呈现给大家，大家自己去判断。大家一直像上一个朋友那样，用道德层面去批判俄罗斯。那么同样，为什么美国攻打阿富汗、伊拉克的时候，就没有人从道德层面去批判它呢？这不也是侵略战争吗？虽然它没有领土诉求，但涉及资源的掠夺，这难道不是侵略吗？

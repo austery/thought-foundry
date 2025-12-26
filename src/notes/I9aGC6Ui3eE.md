@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Anthropic
@@ -16,9 +16,7 @@ people:
 - Simon Willison
 products_models:
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=I9aGC6Ui3eE
 speaker: Anthropic
@@ -32,7 +30,6 @@ tags:
 - model
 title: Anthropic哲学家深度探讨AI伦理、模型福祉与未来挑战
 ---
-
 ### 哲学家在Anthropic的角色
 
 主持人: 噢，看那个！Amanda，你曾在Twitter上向你的关注者征集问题，让他们问你任何事情，而这个玩笑显然是“Askell me anything”（谐音“Ask all me anything”）。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - University of Waterloo
@@ -9,9 +9,7 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0Gxe8WQI1z0
 speaker: TVO Today
@@ -25,7 +23,6 @@ tags:
 - youth-unemployment
 title: 加拿大是否应废除临时外国劳工计划？
 ---
-
 ### 节目介绍：加拿大移民政策的挑战
 
 Jan: 大家好，我是简。你们可能已经注意到我此刻不在演播室里。

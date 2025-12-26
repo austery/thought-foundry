@@ -9,10 +9,7 @@ insight: ''
 layout: post.njk
 people:
 - 李克强
-project:
-- investment-strategy
-- market-cycles
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qDwV3rLdejc
 speaker: 海淀拙大叔
@@ -26,7 +23,6 @@ tags:
 - market
 title: 人民币的传导逻辑：理解货币周期与资产配置
 ---
-
 ### 开启宏观经济新篇章：理解货币的奥秘
 
 今天，我们将开启一个全新的专题——“阿甘经济宏观论”。之所以设立这个专题，是因为近期许多朋友都在询问股票何时调整、房价何时能上涨等问题。这些问题的背后，都指向了一个核心因素：货币。因此，我们今天将专门探讨经济宏观论，第一集的主题是“人民币说，只有懂我，我才是你的”。在深入探讨股票和房价的未来走势之前，我们首先需要理解三个关键的知识点。

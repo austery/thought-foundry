@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国教科文组织
@@ -12,10 +12,7 @@ media_books:
 - 《西部买妻》
 - 《中国人的家当》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5RhiOf0bQnA
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - society
 title: 草根的生存与尊严：一位摄影记者对耍猴人与底层群体的十二年纪实
 ---
-
 ### 耍猴人：被城市遗忘的底层生存图景
 
 我不知道大家有没有在街头看到过这样的耍猴人？我估计可能不会很多。如果谁看到过可以举一下手。

@@ -22,10 +22,7 @@ people: []
 products_models:
 - ChatGPT
 - Azure
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q-b0hHTwfL8
 speaker: 视野环球财经
@@ -38,7 +35,6 @@ tags:
 - us-stock-market
 title: 美股科技巨头面临关键时刻：英伟达财报、AI估值与市场走向深度分析
 ---
-
 ### 市场概览与英伟达财报前瞻
 
 美东时间25年11月18号周二晚间，美股四大指数中罗素指数独涨，纳斯达克指数领跌。标普500指数有254只个股上涨，249只下跌。权重股集中度最高的科技和非必需品板块跌幅最大，微软确认破位，而**VIX**（Volatility Index: 衡量市场对未来30天市场波动性预期的指数，俗称“恐慌指数”）大涨10%，回升至24%上方。

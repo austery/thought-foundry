@@ -13,10 +13,7 @@ layout: post.njk
 people:
 - Leonardo da Vinci
 - Donald Trump
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KEIrNPZ4uwI
 speaker: Money or Life 美股频道
@@ -29,7 +26,6 @@ tags:
 - robotic-surgery
 title: '直觉外科公司 (ISRG): 医疗机器人领域的领导者与投资分析'
 ---
-
 大家好，欢迎来到Money or Life美股频道。我是Ace。今天为大家分析的公司叫做**直觉外科公司**（Intuitive Surgical: 全球机器人辅助微创手术领域的领导者），其在美股的上市代码是ISRG。
 
 ### 公司概览与产品演进

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - FBI
@@ -12,10 +12,7 @@ media_books:
 - 《判断人心：一位资深FBI特工的行为预测用户手册》
 people:
 - Ronald Reagan
-project:
-- personal-growth-lab
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EWwDV2VcBTQ
 speaker: 北美王路飞
@@ -29,7 +26,6 @@ tags:
 - trust
 title: FBI顶级探员的识人系统：6步让你不再看错人
 ---
-
 ### 引言：识人困境与核心问题
 
 大家好，欢迎来到我的频道。本期节目将深入探讨FBI顶级探员的终极识人术。首先，我们扪心自问：你是否真的了解你身边的这些人？无论是你的老板、同事、合作伙伴，甚至是你的另一半。你是否也曾信心满满地将后背交给某人，结果却被伤得体无完肤？为什么我们总是会看错人？为什么那些我们自认为最了解的人，总在关键时刻做出让我们大跌眼镜的事情？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Intel
@@ -13,9 +13,7 @@ people:
 - Cristiano Ronaldo
 - Lionel Messi
 - Ben
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OKu0yybmtkc
 speaker: TED
@@ -27,7 +25,6 @@ tags:
 - technology
 title: AI如何发现被传统球探遗漏的体育人才
 ---
-
 ### 传统体育选拔的局限性
 
 现在，请大家想象一下体育界的伟大人物。你们会看到什么？很可能是像**勒布朗·詹姆斯**（LeBron James: 美国职业篮球运动员）、**凯特琳·克拉克**（Caitlin Clark: 美国大学篮球运动员）、**萨奎恩·巴克利**（Saquon Barkley: 美国职业美式橄榄球运动员）、**西蒙·拜尔斯**（Simone Biles: 美国体操运动员）、**C·罗纳尔多**（Cristiano Ronaldo: 葡萄牙职业足球运动员）和**梅西**（Lionel Messi: 阿根廷职业足球运动员）这样的运动员。

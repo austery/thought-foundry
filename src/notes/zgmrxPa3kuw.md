@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: '2024-08-08'
 draft: true
@@ -16,10 +16,7 @@ media_books:
 people:
 - Michael Phelps
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zgmrxPa3kuw
 speaker: 超級歪 SuperY
@@ -33,7 +30,6 @@ tags:
 - testosterone-limit
 title: 巴黎奥运性别争议：百年奥运史中的性别检测、种族歧视与公平竞赛
 ---
-
 ### 巴黎奥运性别争议：林郁婷事件的背景
 
 今年的巴黎奥运会争议不断，台湾选手林郁婷和阿尔及利亚选手卡伊利福的性别问题受到了质疑。知名作家JK罗琳转发了外媒报道，并评论称“这种疯狂何时才能结束？我们要等到一名女拳击手受重伤，甚至被殴打致死吗？”此番言论在台湾网友中引发了强烈不满。事实上，国际奥委会在赛前已明确保证所有参赛选手均符合比赛规定。因此，罗琳被批评为“没见过世面”，认为她“在书里可以乱写，但不能乱说话”。许多网友在留言区发布中英文澄清图片支持林郁婷，一些粉丝表示失望，称将不再观看《哈利·波特》，甚至有人引用原著情节，称JK罗琳应该属于斯莱特林学院。

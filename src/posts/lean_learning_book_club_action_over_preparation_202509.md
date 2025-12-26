@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 author: Lei
 category: productivity
 companies_orgs:
@@ -46,8 +46,7 @@ people:
 - Buffett
 - Duan Yongping
 - 查理·芒格
-project:
-- personal-growth-lab
+project: []
 source: ''
 speaker: null
 status: evergreen
@@ -60,7 +59,6 @@ tags:
 - time
 title: 《精益学习法》读书会：摸着石头过河，在行动中内化知识
 ---
-
 ## 读书会开场与社群近况
 
 🐑: I saw that her system is not working so I'm inviting everyone up. let's call the little watermelon up too.

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-11-11'
 draft: true
@@ -11,9 +11,7 @@ media_books:
 products_models:
 - HOPE模型
 - Transformer
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ljYXKurry9o
 speaker: Best Partners TV
@@ -26,7 +24,6 @@ tags:
 - memory
 title: 谷歌重磅论文揭示深度学习“记忆缺陷”：嵌套学习与HOPE模型如何突破AI瓶颈
 ---
-
 ### 深度学习的“记忆缺陷”与传统架构的局限
 
 近几年，**大语言模型**（Large Language Models: 简称LLM，指参数量巨大、能够理解和生成自然语言的人工智能模型）带来了很多震撼，但这些看似强大的模型背后，隐藏着一个致命的先天缺陷：它们本质上是静态的。这就像得了一种特殊的记忆疾病，训练结束后就很难再学习新的知识，只能依赖有限的上下文窗口进行即时适应，一旦超出了这个范围，就会忘记之前的信息。更关键的是，深度学习几十年来依赖的**层叠结构**（Layered Architecture: 指深度学习模型中由多个计算层堆叠而成的结构）在解决复杂算法的实现和持续学习等问题上，并没有我们想象中那么有效。

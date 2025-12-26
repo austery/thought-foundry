@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Tsinghua University
@@ -13,9 +13,7 @@ media_books:
 people:
 - Hegel
 products_models: []
-project:
-- china-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sSZw9M2zekc
 speaker: Anthony看世界
@@ -29,7 +27,6 @@ tags:
 - societal
 title: “普通学”的虚假慰藉：为何它无法真正对抗内卷与焦虑？
 ---
-
 ### 自我认同与“普通学”的兴起
 
 上一期节目，我们探讨了自我探索的益处。评论区也有许多网友分享了他们尝试活出真我的经历。我认为这些故事能够鼓励他人，因此非常感谢大家的分享。在上一期节目的结尾，我们也提到，自我认同是一个人最内在和本质的需求。

@@ -13,9 +13,7 @@ media_books:
 people:
 - 雨白
 products_models: []
-project:
-- ai-impact-analysis
-- personal-growth-lab
+project: []
 series: null
 source: null
 speaker: 知行小酒馆
@@ -24,7 +22,6 @@ tags:
 - personal-growth
 title: 'E192 AI: 真正的机会，不在AI，在现实世界'
 ---
-
 ## 开场：一个有趣的朋友——王汉洋
 
 **雨白:**

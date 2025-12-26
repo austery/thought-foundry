@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Microsoft
@@ -31,10 +31,7 @@ products_models:
 - Gemini
 - MARK 1号
 - TensorFlow
-project:
-- ai-impact-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rsbmsHODZ_A
 speaker: 超級歪 SuperY
@@ -49,7 +46,6 @@ tags:
 - neural-network
 title: AI发展秘史：从感知器到生成式AI，谁在推动变革与引发担忧？
 ---
-
 ### AI浪潮下的社会冲击与早期探索
 
 今年2月，Sora公布的**生成式AI**（Generative AI: 能够生成文本、图像、音频等新内容的AI模型）影片《震撼全球》，让许多内容创作者开始担心未来可能面临失业。例如，影片中提出的疑问：“我到底是什么？我是一个男性的目光吗？还是一一个人形的偶像制作成的蜡烛？我到底是什么？我是一个国际英雄吗？还是世界的坏人？”这些都反映了人们对AI能力的惊叹与不安。早在去年，歌手陈珊妮就已尝试用AI创作音乐，结果许多粉丝根本没有听出差别。近期台湾更是出现了诈骗手法，可以通过AI撷取你的声音，再用你的声音拨打诈骗电话。加州伯克莱大学教授发现，抖音上面一小段声音，就算只有短短三秒钟，AI也能轻松复制你的声音。

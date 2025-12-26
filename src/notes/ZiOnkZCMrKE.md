@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Federal Reserve
@@ -20,10 +20,7 @@ people:
 - Franklin D. Roosevelt
 products_models:
 - S&P
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZiOnkZCMrKE
 speaker: 北美王路飞
@@ -37,7 +34,6 @@ tags:
 - technology
 title: 揭秘大萧条：美联储如何从“救世主”沦为“纵火犯”？
 ---
-
 ### 美联储：从“定海神针”到“纵火犯”的争议角色
 
 上周五，美联储主席鲍威尔在Jackson Hole发表了演讲，表示美联储未来会考虑降息，这一消息立刻引发市场大涨。在今天，美联储的形象是全球经济的“定海神针”和金融世界的“超级央行”。例如，2022年为应对通货膨胀，美联储展开了一系列加息活动，导致当年资产表现普遍糟糕；而在新冠疫情期间，美联储则通过“印钞机”进行无限量的量化宽松，成功让经济起死回生。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Toronto Metropolitan University
@@ -17,9 +17,7 @@ media_books:
 people:
 - Nam Kiwanuka
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=43z07WJR1QE
 speaker: TVO Today
@@ -33,7 +31,6 @@ tags:
 - social
 title: 为何70%的阿尔茨海默病患者是女性？深入探讨大脑健康中的性别差异
 ---
-
 ### 女性大脑健康：一个被忽视的关键议题
 
 您正在收听《Mistreated》节目。大脑健康是一个女性议题。

@@ -20,10 +20,7 @@ people:
 products_models:
 - Covered Call ETF
 - Alpha Picks
-project:
-- us-analysis
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=b4Yv0F3aKy4
 speaker: Darren聊美股
@@ -36,7 +33,6 @@ tags:
 - us-stock-market-crash
 title: 美股暴跌：中美关税战再起，AI泡沫破裂与否？市场回调下的投资策略分析
 ---
-
 ### 美股暴跌与中美关税战：市场情绪与基本面分析
 
 本周五，美股市场经历了显著的暴跌。标普大盘下跌了2.5%，纳斯达克指数下跌了3.5%。其中，此前涨势强劲的**高beta股票**（High Beta Stocks: 波动性高于大盘的股票）跌幅尤为明显。此次暴跌是自今年四月份的“黄金坑”以来，标普单日首次下跌超过2%。值得注意的是，造成本次下跌的原因与四月份相似，仍是特朗普的关税战以及中美关系的紧张局势。面对市场一片“血红”，许多投资者难免感到恐慌，不知如何操作。本文旨在帮助大家平复心情，冷静分析此次市场暴跌。

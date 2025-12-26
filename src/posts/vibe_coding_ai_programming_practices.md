@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: ''
@@ -17,9 +17,7 @@ people:
 - 小西瓜
 - Remy
 - Serena
-project:
-- pkm-research
-- vibe-coding
+project: []
 series: Vibe Coding
 source: ''
 speaker: 用AI發電
@@ -32,7 +30,6 @@ tags:
 - 视频笔记
 title: Vibe Coding：AI 辅助编程的实践与思考
 ---
-
 ## 开场闲聊与准备
 
 Ray: 我们其实都是这样的，咱们就是找机会聊聊天。我打算今年去墨西哥住上一个月再练一练西班牙语，现在只能让 AI 代劳翻译了。

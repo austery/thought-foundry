@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-06-21'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - A New Intellectual Framework for Psychiatry
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_dLvvnfoIJw
 speaker: Anthony看世界
@@ -25,7 +23,6 @@ tags:
 - health
 title: 自由意志与基因：主观体验如何重塑你的大脑和命运？
 ---
-
 ### 自由意志与基因决定论的哲学困境
 
 大家好，我是Anthony，欢迎来到我的频道。

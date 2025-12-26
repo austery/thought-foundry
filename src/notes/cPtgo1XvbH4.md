@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-05-07'
@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - talk
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cPtgo1XvbH4
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - us-china-tariff
 title: 中美关税、美联储困境与资产价格：一次性通胀还是持续影响？
 ---
-
 ### 引言：美联储的未来困境与市场展望
 
 大家好，欢迎来到一个不单只聊新闻的专业美股频道，我是市场分析员小陶。本期视频将借美联储传话筒的最新文章，探讨美联储未来可能面临的双输困境。在此基础上，如果关税政策导致通胀反弹，美联储将如何应对？更重要的是，这将对资产价格产生何种影响？我们将通过回答一位观众的问题来深入探讨。此外，我们还会更新中美关税政策的最新进展，分析中美双方即将进行的交谈及其深层含义，并回顾周二盘后发布的AMD财报。

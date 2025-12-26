@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Basecamp
@@ -21,10 +21,7 @@ people:
 products_models:
 - Emma床墊
 - Hybrid床墊
-project:
-- systems-thinking
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ayI4X42oBFU
 speaker: 超級歪 SuperY
@@ -38,7 +35,6 @@ tags:
 - work-life-balance
 title: 週休三日：全球實驗揭示的生產力提升與社會變革潛力
 ---
-
 ### 台灣勞權困境與週休三日新趨勢
 
 近期，台灣勞動部發生的霸凌案件震驚社會，引發了許多人對勞動權益保障議題的討論。與此同時，各國實施**週休三日**（Four-Day Work Week）的實驗結果陸續出爐，包括英國、冰島、德國和日本都出現了成功的案例。近年來，許多歐洲國家，例如冰島，率先推動縮短工時，而最新的實驗結果顯示，工作效率和品質並未因此降低。

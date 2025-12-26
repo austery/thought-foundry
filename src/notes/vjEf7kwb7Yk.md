@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-05-22'
 draft: true
@@ -16,9 +16,7 @@ people:
 products_models:
 - ChatGPT
 - DeepSeek
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vjEf7kwb7Yk
 speaker: 大问题Dialectic
@@ -32,7 +30,6 @@ tags:
 - theory
 title: AI时代，人类会变聪明还是变笨？三大流派深度解析
 ---
-
 ### AI普及：人类心智的未来走向
 
 本期节目将深入探讨一个核心问题：**人工智能**（AI）的普及究竟会让人类变得更聪明，还是更笨？近年来，**大语言模型**（Large Language Model, LLM: 一种基于深度学习的人工智能模型，能理解和生成人类语言）发展迅猛，其智能水平日益提高。与前两年还需要讲究**提示语工程**（Prompt Engineering: 指设计和优化输入给AI模型的指令或问题，以获得更准确、更有用的输出的技能）不同，现在的AI已经能轻松理解中文口语指令。

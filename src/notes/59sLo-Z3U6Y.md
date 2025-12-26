@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -34,10 +34,7 @@ people:
 - Vladimir Putin
 products_models:
 - F-35
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=59sLo-Z3U6Y
 speaker: FearNation 世界苦茶
@@ -51,7 +48,6 @@ tags:
 - us-china-relations
 title: 地缘政治新格局：中美贸易战、微短剧出海与大国战略博弈
 ---
-
 ### 《纽约时报》：特朗普输掉了对中国的贸易战
 
 下一篇文章来自《纽约时报》，题为“特朗普输掉了对中国的贸易战”。这篇文章的核心观点非常尖锐，它直指特朗普政府发动的对华贸易战已经彻底失败，并且在此过程中，严重损害了美国的战略地位和全球影响力。

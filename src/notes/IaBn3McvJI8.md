@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Big Think
@@ -15,10 +15,7 @@ people:
 - Isaac Newton
 - Ivan
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IaBn3McvJI8
 speaker: Big Think
@@ -32,7 +29,6 @@ tags:
 - randomnes
 title: 掌控幻觉与随机性：理解世界的真实面貌
 ---
-
 ### 接受有限的控制与深远的影响
 
 这里的核心观点之一是，当你开始接受你对世界有着深远的影响，但控制力却非常有限时，你就会开始以不同的方式看待世界，以不同的方式行事，并开始接受自己能力和局限的边界。

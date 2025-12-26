@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - WTO
@@ -11,10 +11,7 @@ layout: post.njk
 people:
 - Donald Trump
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NGwpkdye0rc
 speaker: 海淀拙大叔
@@ -28,7 +25,6 @@ tags:
 - trade
 title: 关税战下的中国策略：为何必须报复与经济转型之路
 ---
-
 ### 关税战的背景与中国应对的必要性
 
 当前，中美之间的关税战暂时告一段落。在此背景下，有人认为中国不应陷入以牙还牙的**螺旋报复**（Spiral Retaliation: 指贸易战中，一方采取报复措施后，另一方也采取对等报复，导致贸易冲突不断升级的恶性循环），因为这可能导致中国利益单独受损。他们甚至搬出了**杨晓凯**（Yang Xiaokai: 著名经济学家，以其“后发劣势”理论闻名）的**后发劣势理论**（Theory of Late-Mover Disadvantage: 指后发国家在学习先发国家技术和制度时可能面临的结构性困境），认为中国应短期妥协以换取自身的制度创新。然而，本文将以杨晓凯的观点为依据，为中国的贸易报复寻找理论支撑。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - OpenAI
@@ -36,9 +36,7 @@ products_models:
 - GPT-4
 - GPT-4o
 - Mistral
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EUsIYVtt3y0
 speaker: 硅谷101
@@ -51,7 +49,6 @@ tags:
 - technology
 title: LMArena：AI大模型评估的竞技场与未来挑战
 ---
-
 ### AI大模型评估：从主观争议到LMArena的崛起
 
 在大模型激战的当下，究竟谁更强？是OpenAI的GPT，还是Anthropic的Claude？是谷歌的Gemini，还是中国的DeepSeek？当AI模型排行榜开始被各种刷分作弊之后，谁家大模型最牛的问题就变得非常主观。直到一家线上排行榜的诞生，它叫做**LMArena**（Large Model Arena: 一个用于匿名对战和动态评估大型AI模型的在线平台）。或许你还记得不久之前爆火的谷歌最新文生图模型**Nano Banana**（谷歌早期推出的一个神秘代号的文生图模型），它其实最早以神秘代号出现，并且引发破圈式关注的地方就是LMArena。

@@ -7,8 +7,7 @@ draft: true
 guest: ''
 layout: post.njk
 products_models: []
-project:
-- pkm-research
+project: []
 source: https://www.youtube.com/watch?v=7WSSMee5pH8
 speaker: Big Think
 status: evergreen
@@ -20,7 +19,6 @@ tags:
 - self-discovery
 title: 摆脱大脑的“预设脚本”：如何拿回人生的主导权？
 ---
-
 ### 什么是认知脚本？
 
 **认知脚本**（Cognitive Script: 大脑中内化的行为模式，告诉我们在特定情境下该如何行动）是一种内化的行为模式，它告诉我们该如何行动，或者至少是我们“认为”在某些情况下应该如何行动。它们对于日常生活中的常规任务和决策非常有帮助。**1979年的一项开创性研究**首次发现了认知脚本，研究人员发现，人们在类似的情况下（如去看医生或去餐厅）会遵循非常相似的脚本。从那时起，研究人员在你生活的各个领域都发现了这些认知脚本。

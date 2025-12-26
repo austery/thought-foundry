@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - FCC
@@ -20,9 +20,7 @@ people:
 - Graham Allison
 - Jeff Bezos
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OhYiedmk8O0
 speaker: 北美王路飞
@@ -36,7 +34,6 @@ tags:
 - model
 title: 决策者工具箱：多模型思维助你驾驭信息洪流，从糊涂走向智慧
 ---
-
 ### 开篇：信息洪流与认知困境
 
 大家好，欢迎来到我的频道。今天我想测试一个新的视频类型，就是YouTube上推出的课程功能。大家可以看看，在观看过程中它和之前的视频有什么区别。我计划制作一个关于思维模型的大系列，将多本相关书籍结合起来，做成一系列视频。这个系列节目将首先在超新星会员中发布，然后逐步公开。

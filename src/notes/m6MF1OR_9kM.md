@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Hugging Face
@@ -19,9 +19,7 @@ products_models:
 - GPT-4.5
 - Claude 3.5
 - Claude 4
-project:
-- ai-impact-analysis
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m6MF1OR_9kM
 speaker: AI Engineer
@@ -37,7 +35,6 @@ tags:
 - performance
 title: Z.ai GLM 4.6 系列模型：从一亿次开源下载中学到的经验
 ---
-
 ### GLM 系列模型概述
 
 大家好，我是来自 **Z.ai** 的 John，非常高兴能在这里与大家分享我们最新的模型系列——**GLM 4.6** 系列。

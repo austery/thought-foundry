@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -23,10 +23,7 @@ people:
 - 邓小平
 - Vladimir Putin
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=y3VQXqW12Z4
 speaker: 东京人文论坛
@@ -39,7 +36,6 @@ tags:
 - state
 title: 中国资本主义的宿命：从历史起源到未来展望
 ---
-
 ### 引言：为何关注资本主义在中国的命运？
 
 我们为什么关注资本主义在中国的命运？如果把历史掰开来看，会发现一个非常清楚的脉络，即所谓的西方文明在最近几个世纪于全球扩张的过程。中国的历史学家有一个说法，叫做“两个世界的碰撞”，也就是西方与非西方的碰撞。

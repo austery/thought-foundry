@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - DeepMind
@@ -21,9 +21,7 @@ products_models:
 - Llama
 - DeepSeek
 - GPT-4
-project:
-- ai-impact-analysis
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P5QXWrHnTzw
 speaker: EO
@@ -37,7 +35,6 @@ tags:
 - superintelligence
 title: 硅谷对下一代超级智能的21亿美元押注：ReflectionAI创始人Misha Laskin的洞察
 ---
-
 ### AlphaGo的“第37步”与超级智能的曙光
 
 我的联合创始人是**AlphaGo**（AlphaGo: 谷歌DeepMind开发的人工智能围棋程序）项目做出关键贡献的人之一，他也是少数几位飞往现场观看与**李世石**（Lee Sedol: 韩国围棋九段棋手）比赛的人。

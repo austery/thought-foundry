@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日医学
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cbjkQq79_TU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - theory
 title: 身体“歪”了，可能是你睡不好的原因：黄献铭医师谈空间结构还原
 ---
-
 ### 空间结构还原：一种全新的中医外科视角
 
 大家好，我是宋晏仁医师，欢迎来到初日会客室。我们一直致力于为您带来最新、最广泛的知识，希望能够跳脱原有的框架。今天，我们有幸邀请到一位非常特别的中医师——黄献铭医师，他自称为“阿铭师”。黄医师最近推出了一门名为“空间结构还原”的课程，这个概念与我们平常熟悉的治疗方法有何不同呢？

@@ -38,10 +38,7 @@ people:
 - Sanae Takaichi
 products_models:
 - ChatGPT
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=03vGLTkVN3U
 speaker: LT視界
@@ -54,7 +51,6 @@ tags:
 - us-china-relations
 title: 英伟达财报揭示AI时代焦虑，爱泼斯坦文件牵出中共身影：全球经济与地缘政治新观察
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月19日，我们首先来了解今天的财经头条。
 
 ### 全球财经焦点：英伟达财报、AI焦虑与英国降息预期

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - University of Toronto
@@ -13,9 +13,7 @@ media_books:
 - The Rundown
 products_models:
 - CRISPR
-project:
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Frlm3nXxdtQ
 speaker: TVO Today
@@ -29,7 +27,6 @@ tags:
 - patient-advocacy
 title: 罕见病研究现状：基因疗法突破与患者家庭的挑战
 ---
-
 ### 罕见病基因疗法的潜力与挑战
 
 **基于DNA的基因疗法**（DNA-based gene therapies: 利用DNA作为载体或工具来治疗疾病的方法）有潜力彻底改变我们对罕见病的理解，并提供新的治疗方案。

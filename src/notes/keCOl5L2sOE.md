@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 date: 2025-01-15
 draft: true
@@ -16,10 +16,7 @@ people:
 - 严复
 products_models:
 - '[]'
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=keCOl5L2sOE
 speaker: 徒步的騎手
@@ -33,7 +30,6 @@ tags:
 - systemic-corruption
 title: 中国诈骗业的歧视链：从民间到官办，历史与制度的透视
 ---
-
 ### 中国诈骗业的兴盛与“歧视链”
 
 这几年，中国百业凋敝，似乎只有诈骗业越来越发达。这不仅指民间的各种经济诈骗，更包括官办的舆论诈骗。这种舆论诈骗蔓延到各行各业，渗透到普通人生活的方方面面。除了官方喉舌，各种追求流量的自媒体也都加入进来，争取分一杯羹。

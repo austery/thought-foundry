@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Chrysler
@@ -21,9 +21,7 @@ people:
 products_models:
 - RUP
 - UML
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vJGoQigiXAE
 speaker: Peter Pang
@@ -37,7 +35,6 @@ tags:
 - software-engineering
 title: 敏捷开发的困境：我们是否只是在“假装”敏捷？
 ---
-
 ### 敏捷开发的现状与挑战
 
 **敏捷开发**（Agile Software Development: 一种“小快灵”的软件开发管理模式）在当今的计算机行业中，几乎被视为大家寻找已久的“大统一理论”。然而，我认为，基本上没有多少团队在做正宗的敏捷开发。这并非因为团队能力不足，而是因为正宗的敏捷开发确实存在诸多问题。因此，在很多情况下，我们实际所做的，是我们所理解的敏捷，或者说是在敏捷精神的指导下，带有团队风格、产品需求和企业文化特色的敏捷。我觉得这其实是一件好事，正如著名项目经理Atomic Energy所说：“we shall be developing agilely, but not necessarily Agile Development”，即要“敏捷地开发”，但不一定要“敏捷开发”。

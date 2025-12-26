@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CBC
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - Brian Stewart
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qw__pHLD6Us
 speaker: TVO Today
@@ -28,7 +26,6 @@ tags:
 - media
 title: 加拿大在全球舞台上的地位：从“撒玛利亚国家”到影响力重建
 ---
-
 ### 加拿大护照的全球影响力今昔
 
 布莱恩·斯图尔特提到，他曾撰文指出，拥有一本加拿大护照在过去意义非凡，仅仅看到“加拿大”这个词，就感觉其中蕴含着某种力量。他认为，在某些领域，加拿大护照至今仍具有一定影响力。

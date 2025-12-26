@@ -68,10 +68,7 @@ people:
 products_models:
 - H20
 - GPT
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aUcEATBW0Tw
 speaker: 北美王路飞
@@ -83,7 +80,6 @@ tags:
 - russia-ukraine-war
 title: 特朗普政治困境、爱泼斯坦案与美国全球战略的转向：一场多维度的内外部挑战
 ---
-
 ### 特朗普印第安纳州选区重划计划的挫败
 
 近期，特朗普在印第安纳州推动的“**杰利蝾螈**”（Gerrymandering: 重新划分选区以利于特定政党）计划遭遇重大挫败。该计划旨在重新划分选区地图，以确保共和党在明年的中期选举中能获得更多众议员席位，甚至目标是实现9比0的全共和党席位。然而，这一举动引发了印第安纳州共和党议员的强烈反弹。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -21,10 +21,7 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 - Donald Trump
-project:
-- us-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XUz2E5BALYg
 speaker: Bloomberg Podcasts
@@ -38,7 +35,6 @@ tags:
 - financial-regulation
 title: 先买后付（BNPL）的兴起：一场被掩盖的金融危机？
 ---
-
 ### BNPL的兴起与最初的理解
 
 Tracy: 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Alloway。

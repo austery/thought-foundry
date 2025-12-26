@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - New York Times Podcasts
@@ -17,8 +17,7 @@ media_books:
 people:
 - Anna Martin
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ID50IA0__Uc
 speaker: New York Times Podcasts
@@ -32,7 +31,6 @@ tags:
 - relationship-dynamic
 title: 《现代爱情》：诗人安德里亚·吉布森的遗孀梅根·弗莱如何穿越爱与失去
 ---
-
 ### 节日季的家庭挑战
 
 Anna Martin: 大家好，我是安娜。感恩节已经快到了，我简直不敢相信。你可能也觉得难以置信，但它真的近在眼前了。

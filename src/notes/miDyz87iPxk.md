@@ -25,10 +25,7 @@ people:
 - Donald Trump
 - Jerome Powell
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=miDyz87iPxk
 speaker: 北美王路飞
@@ -41,7 +38,6 @@ tags:
 - systemic-risk
 title: 格林斯潘时代：大缓和下的金融暗流与2008危机的种子
 ---
-
 ### 美联储的权威与2008危机的悖论
 
 美联储在公众心中一直是一个高大且权威的机构，拥有美元的印钞权，其一举一动都牵动着全球经济的神经。它常被视为经济的守护神，能够维持经济稳定增长并有效控制通货膨胀。尤其是在**艾伦·格林斯潘**（Alan Greenspan: 曾任美联储主席，任期长达近19年）时代，美国经济经历了一个所谓的“**大缓和**”（The Great Moderation: 指1980年代中期至2000年代中期，美国经济波动性显著降低，通货膨胀和经济增长都保持在较低且稳定的水平的时期），经济表现稳健，让全世界都觉得美联储驯服了经济周期这头猛兽。

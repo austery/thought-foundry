@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 瑞幸咖啡
@@ -22,10 +22,7 @@ products_models:
 - 抖音
 - 快手
 - VPN
-project:
-- china-analysis
-- geopolitics-watch
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wv1zy5IZOJk
 speaker: 莊也雜談
@@ -39,7 +36,6 @@ tags:
 - law
 title: 外籍人士入境中国24小时内报备指南：风险、后果与注意事项
 ---
-
 ### 外籍人士入境中国24小时报备之问
 
 哈喽大家好，我是庄也，欢迎您收看庄也杂谈。今天咱们继续聊我回国的经历。上集咱们聊了一下我们回到国内，刚下飞机，看到故国山水，心头百感交集，说了一大堆有的没的“废话”。虽说也是嘚啵嘚啵说了20多分钟，但基本上就是纯灌水，还有位观众朋友向苍天呐喊：“还我干货庄也啊！”看了留言呢，我也是挺惭愧的。你看，今天下雨我都没敢出门录，怕被雷劈到。另外还有一个原因，就是外面太冷了。因此说呢，咱们今天就多聊一些可操作性比较强的干货知识，回答观众朋友们最关心的几个问题。

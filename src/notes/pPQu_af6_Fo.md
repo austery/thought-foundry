@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 台积电
@@ -24,9 +24,7 @@ people:
 - George Clooney
 products_models:
 - 211餐盘
-project:
-- personal-growth-lab
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pPQu_af6_Fo
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -40,7 +38,6 @@ tags:
 - self
 title: 郝旭烈谈人生智慧：从裸辞到财富自由，活出自我价值
 ---
-
 宋晏仁 宋医师: 嗨，大家好，我是宋晏仁宋医师，欢迎来到初日会客室。今天为您访问的是一位非常奇特的人，他走过低潮，但现在变成一个能够帮助人的人生导师，并且开始写了很多书，叫做“三察三为套书”。今天为您访问的是郝哥，郝旭烈。
 
 郝旭烈: 医师好，非常开心在空中跟大家一起分享，我是郝旭烈郝哥。其实我一开始就说过，我已经是宋医师的粉丝非常多年了，您的人生智慧确实帮助了很多人，也受到了很多网友及读者的认同。

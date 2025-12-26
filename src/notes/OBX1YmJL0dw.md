@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Amazon
@@ -23,10 +23,7 @@ media_books:
 - Business Insider
 products_models:
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OBX1YmJL0dw
 speaker: TechButMakeItReal
@@ -39,7 +36,6 @@ tags:
 - risk
 title: 2025年科技裁员并非AI所致：揭示AI炒作与现实
 ---
-
 ### 引言：AI裁员的喧嚣与真相
 
 每天，头条新闻都在叫嚣着AI（Artificial Intelligence: 人工智能）即将取代你的工作。一篇又一篇令人恐慌的关于大规模裁员的文章，一次又一次关于人类工作终结的夸张预测。但一个简单的真相是：这些故事大多建立在噪音而非事实之上。关于AI模型的噪音，关于AI裁员的噪音，以及关于AI如何能取代我们所有人的噪音。这都是炒作，而非现实。

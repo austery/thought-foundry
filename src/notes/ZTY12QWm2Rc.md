@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Starbucks
@@ -13,10 +13,7 @@ insight: ''
 layout: post.njk
 people:
 - 唐石峻
-project:
-- china-analysis
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZTY12QWm2Rc
 speaker: Shijun Tang
@@ -29,7 +26,6 @@ tags:
 - market
 title: 星巴克会从此一蹶不振吗？深度解析其市场挑战与财务困境
 ---
-
 ### 引言与主持人背景
 
 今天我们将深入探讨星巴克（Starbucks）这家公司。我曾建仓过星巴克，但最终选择清空了所有仓位。星巴克这些年来的股价可以说是三起三落，最近两个月更是一度暴跌了40%。目前，它也正被瑞幸咖啡（Luckin Coffee）追着，从中国市场一直“打”到了美国。今天的视频，我们将详细聊一聊星巴克的未来究竟会何去何从。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 哈佛大学
@@ -22,10 +22,7 @@ people:
 - 罗永浩
 products_models:
 - 东风导弹
-project:
-- china-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=MAcH3YGou4w
 speaker: 一席YiXi
@@ -39,7 +36,6 @@ tags:
 - transformation
 title: 张晓：民间美学与时代造像——一位艺术家眼中的中国乡村变迁
 ---
-
 ### 从建筑到摄影：早期创作与社会观察
 
 大家好，我是来自成都的艺术家张晓。这几个字是我在一个庙会的现场，一个给游客和来参加庙会的人写字的**花鸟字**（Flower-and-Bird Calligraphy: 一种将花鸟图案融入汉字笔画的民间书法艺术）。“**民间美学大观**”（Grand View of Folk Aesthetics: 艺术家张晓持续关注并创办杂志的主题）这个项目是我这些年一直在关注的一个主题，同时也是我自己创办的一个艺术家杂志的名字。

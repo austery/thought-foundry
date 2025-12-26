@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 协和医院
@@ -20,10 +20,7 @@ people:
 - 周恩来
 - 毛泽东
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=L20VBTW615E
 speaker: 柴静 Chai Jing
@@ -37,7 +34,6 @@ tags:
 - societal
 title: 琼瑶之死：一场关于生命终点与尊严选择的社会讨论
 ---
-
 ### 琼瑶之死引发的争议与反思
 
 琼瑶的离世在社会上引发了广泛讨论。看到一些评论后，我虽然不愿做节目，但仍想说几句。有人批评她，认为她在离开这个世界前还要“毒害”大家一番，并说如果琼瑶在大陆，绝不会自杀，肯定能活到一百岁。这确实有可能。他的话让我想起了百岁作家巴金。巴金在医院度过了最后六年，依靠胃管和呼吸机维持生命。后来，他住在一个玻璃病房里，靠氧气续命，甚至很难见到家人。巴金神智清醒时，曾患有严重的抑郁症，多次提到“安乐死”的概念。但那是不可能的。医生的目标是让这位“泰斗”活到一百岁。他最终活到了一百岁。因为很多人都在等待这一天。他们要举办生日派对，举行文学讲座，拍摄专题电视系列片，并出版演讲集。

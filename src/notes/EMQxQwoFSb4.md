@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - OpenAI
@@ -29,10 +29,7 @@ products_models:
 - ChatGPT
 - GPT-5
 - Claude
-project:
-- ai-impact-analysis
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EMQxQwoFSb4
 speaker: 北美王路飞
@@ -47,7 +44,6 @@ tags:
 - scaling-law
 title: OpenAI CEO承认“日子难熬”：谷歌AI帝国反击战与硅谷风向巨变
 ---
-
 ### 硅谷风向突变：OpenAI的“日子难熬”与谷歌的反击
 
 最近，硅谷的风向似乎突然发生了变化。就在上个月，OpenAI的首席执行官**山姆·奥特曼**（Sam Altman）给员工们发了一份绝密备忘录。如果你还以为OpenAI仍是那个坐在王座上不可一世的AI霸主，那这份文件里的内容可能会让你脊背发凉。奥特曼在信中极其罕见地承认了一个事实，原话是：“I expect the vibes out there to be rough for a bit。”翻译过来就是，即使是我们，接下来的日子也会很难熬，外面的舆论环境会非常“粗糙”。“粗糙”其实是硅谷大佬的体面化说法，说白了就是我们遇到了大麻烦，对手们追上来了，甚至可能已经超过我们了。

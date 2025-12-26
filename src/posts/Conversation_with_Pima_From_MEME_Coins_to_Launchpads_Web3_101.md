@@ -11,8 +11,7 @@ layout: post.njk
 people:
 - 刘峰
 products_models: []
-project:
-- investment-strategy
+project: []
 series: null
 source: null
 speaker: ''
@@ -22,7 +21,6 @@ tags:
 - investment
 title: 对话匹马：从MEME币到发射平台，梭哈文化背后的行为经济学盛宴与投资逻辑
 ---
-
 播客节目：Web3 101
 
 主持人：刘峰, Jack

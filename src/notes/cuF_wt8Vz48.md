@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - University of Toronto
@@ -16,9 +16,7 @@ media_books:
 people:
 - Nam Kiwanuka
 products_models: []
-project:
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cuF_wt8Vz48
 speaker: TVO Today
@@ -32,7 +30,6 @@ tags:
 - technology
 title: 埃勒斯-丹洛斯综合征远不止“关节松弛”：一位患者在加拿大医疗系统中的困境
 ---
-
 ### 埃勒斯-丹洛斯综合征：一种被忽视的疾病
 
 Nam Kiwanuka: 您正在收听“被误诊”（Mistreated）节目，我是Nam Kiwanuka。

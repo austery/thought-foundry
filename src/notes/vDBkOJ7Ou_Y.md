@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-11-05'
@@ -19,10 +19,7 @@ people:
 - 孔子
 - 苏格拉底
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vDBkOJ7Ou_Y
 speaker: 徒步的騎手
@@ -36,7 +33,6 @@ tags:
 - resilience-in-adversity
 title: 至暗时刻的生存哲学：艾比克泰德、斯托克戴尔悖论与不自由时代的自由
 ---
-
 ### 人生阅历与知识的价值
 
 人生在世，有两样关键的东西并非与生俱来：一是专业知识，二是人生阅历。这两者都需通过学习和亲身经历方能获得。一个人无论天资多么聪颖，若不学习、不经历，则无法弥补专业知识的不足，更无法弥补人生阅历的欠缺。

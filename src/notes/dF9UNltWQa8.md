@@ -19,10 +19,7 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dF9UNltWQa8
 speaker: Bloomberg Podcasts
@@ -36,7 +33,6 @@ tags:
 - us-economy
 title: 卡普兰谈美联储、AI与全球化：美国经济面临的挑战与选择
 ---
-
 ### 播客引言
 
 欢迎收听新一期的**Odd Lots播客**（由Bloomberg Podcasts制作的金融经济类播客）。我是乔·魏森塔尔。

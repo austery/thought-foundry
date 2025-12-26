@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -26,10 +26,7 @@ people:
 - Doug Ford
 - John Michael McGrath
 - Brian Stewart
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=IeNvZc9bjkI
 speaker: TVO Today
@@ -43,7 +40,6 @@ tags:
 - tariff
 title: 2025年政治格局回顾：关税冲击、加拿大政坛变迁与战地记者心路
 ---
-
 ### 2025年政治格局：回顾与展望
 
 这一年即将结束，令人难以置信，而这确实是不同寻常的一年。

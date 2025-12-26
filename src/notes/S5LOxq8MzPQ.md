@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Apple
@@ -25,10 +25,7 @@ products_models:
 - Mac
 - iPod
 - iPhone
-project:
-- china-analysis
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S5LOxq8MzPQ
 speaker: TVO Today
@@ -42,7 +39,6 @@ tags:
 - supply-chain-strategy
 title: 苹果与中国的深度交织：全球科技巨头如何被捕获
 ---
-
 ### 苹果与中国的深度交织
 
 中国正在助力**苹果**（Apple: 美国科技巨头，以其消费电子产品、软件和在线服务闻名）取得成功，而苹果的成功也为中国带来了巨大的利益。以下是我与商业记者Patrick McGee对话的一部分，我们讨论了他的新书《Apple in China: The Capture of the World's Greatest Company》，该书探讨了这家科技巨头对中国的依赖如何影响着我们所有人。

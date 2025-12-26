@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2022-03-13'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=epnLZTHQ6Cw
 speaker: 一口新飯
@@ -23,7 +22,6 @@ tags:
 - inflation
 title: 揭秘经济衰退信号：美国国债收益率倒挂现象深度解析
 ---
-
 ### 神奇的经济衰退预测曲线
 
 在金融市场中存在一条神奇的曲线，它能准确预测经济衰退。这条曲线在大部分时间里徘徊于零以上，但在少数情况下会降低到零以下。每次当它小于零时，往往预示着经济衰退的到来。回顾历史，上世纪80年代的经济衰退、2000年互联网泡沫以及2008年次贷危机发生之前，这条曲线都曾降至零以下。在我们刚刚经历的2020年疫情股灾之前，这条曲线也曾短暂触及零以下。而到了2022年3月，这条曲线正呈现出向零以下发展的趋势，这不禁让人思考：我们是否很快就会面临一场经济衰退？这条曲线究竟是什么？它为何如此神奇能够预测经济衰退？我们又该如何解读它当前的走向呢？

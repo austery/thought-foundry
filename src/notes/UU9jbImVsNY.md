@@ -22,8 +22,7 @@ people:
 - Lex Fridman
 products_models:
 - TikTok
-project:
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UU9jbImVsNY
 speaker: Dwarkesh Patel
@@ -36,7 +35,6 @@ tags:
 - tech
 title: 中国印象：规模、社会与科技的观察
 ---
-
 ### 旅行开端与AI的未知数
 
 上周，我花了两个星期在中国。我去了**北京**、**成都**、**峨眉山**、**重庆**、**上海**和**杭州**。我去的原因是，我想弄清楚这个播客（podcast）上关于**AI**（人工智能）的重大问题。而最大的未知变量就是**中国**会发生什么。我还没有找到这个问题的答案。这次旅行是我对这个国家好奇心的开始，而不是结束。在接下来的几个月里，随着我对**中国**了解的深入，我希望与你们分享我的所见所闻。

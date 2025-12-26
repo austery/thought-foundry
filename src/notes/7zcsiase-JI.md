@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Walmart
@@ -19,9 +19,7 @@ products_models:
 - Bitcoin
 - Ethereum
 - Dogecoin
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7zcsiase-JI
 speaker: 老周横眉
@@ -35,7 +33,6 @@ tags:
 - regulation
 title: 金融杠杆：理解财富增长与毁灭的双刃剑
 ---
-
 ### 引言：爆仓惨剧与杠杆之谜
 
 这也许是人类历史上最惨烈的一次**爆仓**（Forced Liquidation: 投资者因账户亏损，导致保证金不足，被券商或平台强制平仓其所持有的头寸）事件，数百万人瞬间破产，全球各地都发生了跳楼事件。两周前，2025年10月10日，Donald Trump（川普）突然在社交媒体上发文，抨击中国的稀土政策，并且扬言要给中国加重100%的关税。就这么一篇短文引起了全球金融市场的震动，美股首当其冲全面下跌，最惨烈的还是加密货币市场。比特币一度从12.2万美元瞬间跌至10.2万美元，以太坊在极短的时间内缩水20%，其他那些民营币更是惨遭血洗，狗狗币下跌接近60%，很多小币更是瞬间归零。有外国媒体报道称，超过2000名加密货币交易员试图跳楼，可以确认的是，著名的乌克兰交易员Galiqi在给投资者造成3000万美元的损失后，在自己的兰博基尼里饮弹自尽，结束了他的生命。

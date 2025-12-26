@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - TVO Today
@@ -16,10 +16,7 @@ people:
 - Nam Kiwanuka
 - Nicole Kidman
 - Donald Trump
-project:
-- us-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HBlZG5SV3f0
 speaker: TVO Today
@@ -32,7 +29,6 @@ tags:
 - medical-research
 title: 女性为何长期被排除在临床试验之外？
 ---
-
 ### 临床试验中的性别排斥：一段被忽视的历史
 
 您正在收听《(MIS)Treated》节目，我是Nam Kiwanuka。

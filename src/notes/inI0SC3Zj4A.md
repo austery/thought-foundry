@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - MicroStrategy
@@ -31,10 +31,7 @@ people:
 - Howard Lutnik
 products_models:
 - Bitcoin
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=inI0SC3Zj4A
 speaker: Patrick Boyle
@@ -48,7 +45,6 @@ tags:
 - strategy
 title: 企业资产负债表上的比特币：为何公司正将加密货币作为财资战略
 ---
-
 ### 比特币财资公司兴起：从小型网站公司到千亿巨头
 
 今年早些时候，一家鲜为人知的英国网站设计公司，名为**Smarter Web Company**，其市值在短短两个月内从400万英镑飙升至超过10亿英镑。

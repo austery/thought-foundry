@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - TSMC
@@ -17,10 +17,7 @@ people:
 - Jerome Powell
 products_models:
 - GPT
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f3c6NU0p2fc
 speaker: Shanghao Jin
@@ -34,7 +31,6 @@ tags:
 - us-political-economy
 title: 2025年7月市场展望：政策、地缘与科技驱动下的风险与机遇
 ---
-
 ### 市场风险回顾与未来展望
 
 从去年年底开始，市场经济面临着高底线和高风险并存的局面。当时我们提出了几个主要风险点，尤其是**尾部风险**（Tail Risk: 发生概率极低但影响极大的风险）。现在，我们重新审视当时的判断，并展望未来的市场走势。

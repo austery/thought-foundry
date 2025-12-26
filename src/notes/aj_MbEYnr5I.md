@@ -41,10 +41,7 @@ people:
 products_models:
 - Blackwell
 - F-35战斗机
-project:
-- ai-impact-analysis
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aj_MbEYnr5I
 speaker: LT視界
@@ -57,7 +54,6 @@ tags:
 - us-foreign-policy
 title: AI泡沫、地缘政治与中国老人政治的终结：多维度新闻解析
 ---
-
 大家好，我们一起来分享今天不能错过的重要新闻。今天是11月18日，我们首先来了解今天的财经头条。
 
 ### 人工智能泡沫化争议

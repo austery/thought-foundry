@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -32,10 +32,7 @@ people:
 - Zach
 products_models:
 - USMCA
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KZ5YxQLLGpc
 speaker: TVO Today
@@ -49,7 +46,6 @@ tags:
 - trade
 title: 加拿大应否转向中国？加中关系中的贸易、价值观与地缘政治风险
 ---
-
 ### 开场与议题设定
 
 大家好，我是史蒂夫·佩辛。我们欢迎大家来到多伦多市中心这座历史悠久的圣劳伦斯大厅，参加新一期《TVO今日直播》。今晚的主题是：加拿大是否应该转向中国？我们这里座无虚席，这一切都得益于威尔逊基金会的慷慨支持。雷德·威尔逊，感谢您的努力，以及对我们TVO工作的持续支持。现在，让我们欢迎各位嘉宾，共同探讨加拿大与中国关系的未来。

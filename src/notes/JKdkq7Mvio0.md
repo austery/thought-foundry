@@ -39,9 +39,7 @@ people:
 products_models:
 - Gemini
 - H200
-project:
-- ai-impact-analysis
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JKdkq7Mvio0
 speaker: 小翠時政財經
@@ -53,7 +51,6 @@ tags:
 - stock-market
 title: 港股结构性风险、中美AI竞赛与全球经济展望
 ---
-
 大家好，欢迎回到小翠时政财经。今天是美东时间2025年12月15日，欢迎收看我们今天的每日要闻节目。最近这个周末不太太平，临近圣诞，全球各地恐怖袭击频发，像**美国**、**澳洲**、**荷兰**都出现了不太好的事。在这个乱世之下，希望大家能够平安。
 
 ### 亚太股市与港股异象

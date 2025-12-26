@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - European Central Bank
@@ -17,9 +17,7 @@ people:
 - Christine Lagarde
 - Al Gore
 products_models: []
-project:
-- geopolitics-watch
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SyQfbJ0WSxQ
 speaker: Norges Bank Investment Management
@@ -33,7 +31,6 @@ tags:
 - renewable-energy
 title: 拉加德：欧洲如何通过可再生能源实现能源安全、可持续与可负担
 ---
-
 ### 欧洲能源格局的剧变
 
 尊敬的殿下，各位主席、行长、部长、女士们，请允许我切换到英语。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TikTok
@@ -17,10 +17,7 @@ people:
 - 高市早苗
 - 石破茂
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nISghAxo0MM
 speaker: 北美王路飞
@@ -34,7 +31,6 @@ tags:
 - us-election-2024
 title: 埃博斯坦案、日本财政危机与美国政治：权力、经济及社会动态的多维透视
 ---
-
 ### 封闭系统与权力固化：从埃博斯坦案看社会阶层
 
 **金鸟:** 大家好，我先说题外话。刚才你们提到婚恋的事，我觉得之所以亚裔女性在美国市场受关注，是因为我们经常刷 **TikTok**（抖音国际版: 一款短视频社交平台）。每次出现白人男性和亚裔女性的情侣，底下评论总会提到“ **Oxford Study** ”（牛津调查: 一项关于约会APP用户偏好的研究）。这个调查显示，在约会APP上，亚洲女性对白人男性的偏好度最高，高于对同族裔男性的偏好。所以，在TikTok上，只要有白人男性和亚裔情侣的视频，评论区就会出现“Oxford Study”。我个人觉得这与亚洲整体相对内敛的文化有关。如果你是一个比较爱玩的人，其实我觉得这种种族方面的偏好并没有问题，不用因为这个所谓的调查而自卑。但说实话，文化其实是种族的一部分。这只是我稍微提一下，不是我想说的重点。

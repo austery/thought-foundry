@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 全国人大常委会
@@ -20,10 +20,7 @@ people:
 - 李连杰
 products_models:
 - 芬太尼
-project:
-- china-analysis
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3ZVbezEna08
 speaker: FearNation 世界苦茶
@@ -37,7 +34,6 @@ tags:
 - social-control
 title: 治安处罚法修订争议：法治进步为何引爆社会对权贵的恐惧？
 ---
-
 ### 《治安处罚法》修订引发的社会争议
 
 每次中国出现类似事件，都让人感到特别难受。难受之处在于，中国这个国家本来进步就很难，好不容易因为各种原因，有些领域取得了一点点进步，而且这些进步与我们所有国人的关系最为密切，但大家却不买账，国家进步了，大家反而不高兴，甚至不要进步，这实在令人感到不适。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - UN
@@ -17,10 +17,7 @@ people:
 - Justin Trudeau
 products_models:
 - '[]'
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NHwbUZyr4y4
 speaker: TVO Today
@@ -34,7 +31,6 @@ tags:
 - us-canada-relations
 title: 没有美国的加拿大：世界角色何去何从？
 ---
-
 ### 加拿大声誉的褪色与美加关系
 
 加拿大曾一度以**维和国家**（Peacekeeping Nation: 指在国际冲突中派遣军事或民事人员维持和平的国家）而闻名，但这一声誉已逐渐褪去。

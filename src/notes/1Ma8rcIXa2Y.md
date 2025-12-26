@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -28,10 +28,7 @@ people:
 - 蒋经国
 - Barack Obama
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1Ma8rcIXa2Y
 speaker: LT視界
@@ -45,7 +42,6 @@ tags:
 - us-stock-market
 title: 《经济学人》揭秘中国经济数据“淡定”下的真相，李强透露增长目标，川普敦促“核选项”
 ---
-
 ### 财经头条：全球市场与经济数据分析
 
 我们首先来了解今天的财经头条，有四个方面的最新信息与网友分享。

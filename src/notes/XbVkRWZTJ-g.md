@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 美团
@@ -18,10 +18,7 @@ people:
 - 孙中山
 products_models:
 - mRNA疫苗
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XbVkRWZTJ-g
 speaker: 徒步的騎手
@@ -35,7 +32,6 @@ tags:
 - social
 title: 中国已错过转向十字路口：下行螺旋中的个人生存之道
 ---
-
 ### 预警与现实：中国社会下行螺旋的形成
 
 新的一周开始了，今天跟大家聊一个听起来有点沉重，但又跟我们每个人，特别是年轻人、中年人息息相关的话题。不知道大家还记不记得美团老板王兴几年前说的一句话，他说2019年可能会是过去十年中最差的一年，但却是未来十年中最好的一年。当时很多人听到这句话觉得有点危言耸听，有点小题大做。毕竟那个时候中国经济增长虽然已经慢下来了，但增长的惯性还在，大家的生活还过得去。

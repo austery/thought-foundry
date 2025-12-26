@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 辉瑞
@@ -12,10 +12,7 @@ media_books:
 - 庄也杂谈
 people:
 - 庄也
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8IlC9knOVII
 speaker: 莊也雜談
@@ -29,7 +26,6 @@ tags:
 - social-inequality
 title: 亲历中国医疗体系：从潜规则到医保改革的深层观察
 ---
-
 ### 中国医疗体系：个人观察与深层思考
 
 今天，我们将继续探讨2023年回国探亲的话题，聚焦一个相对敏感但又非常重要的议题：中国当前的医疗体制。曾几何时，移民加拿大的主要动因之一便是羡慕其全民免费医疗，因为在中国看病存在诸多问题，一想到年老后“看病难、看病贵”便感到焦虑。如今，我们已在加拿大生活多年，深知其医疗体系亦是好坏参半，一言难尽。与此同时，中国的医疗体制改革也在不断推进。那么，当前中国的医疗状况究竟如何？与过去相比，是进步还是退步？哪些地方取得了进展，又有哪些问题依然悬而未决？

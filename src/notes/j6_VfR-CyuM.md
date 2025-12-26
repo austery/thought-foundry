@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - X
@@ -52,10 +52,7 @@ products_models:
 - Model Y
 - FSD
 - Azure
-project:
-- ai-impact-analysis
-- us-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=j6_VfR-CyuM
 speaker: All-In Podcast
@@ -69,7 +66,6 @@ tags:
 - societal
 title: 埃隆·马斯克回顾X的三年：从拯救言论自由到Grokipedia与万物的未来
 ---
-
 ### X 算法的迭代与 Grok 的整合
 Jason：我们开始吧。这周我们想尝试一些新东西。每周我都会有点不高兴，有些事会让我心烦，Sacks。当这种情况发生时，我就会大喊“Disgraziato”（意大利语，意为“可耻的”）。于是，我买了这个域名，纯粹是为了自娱自乐。但我并非唯一一个对世界上发生的事情感到极度厌恶的人。所以这周，我们将在 All-In 播客上推出一个新栏目：“可耻之角”（Disgraciato Corner）。
 

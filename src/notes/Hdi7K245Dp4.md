@@ -25,10 +25,7 @@ people:
 - Donald Trump
 products_models:
 - Optimus
-project:
-- investment-strategy
-- us-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Hdi7K245Dp4
 speaker: Money or Life 美股频道
@@ -42,7 +39,6 @@ tags:
 - technical-analysis
 title: 市场深度回撤下的投资策略与个股分析：特斯拉、Hims & Hers、CoreWeave与Rocket Lab
 ---
-
 ### 市场深度回撤下的投资心态与策略
 
 大家好，欢迎来到本频道。我是Ace。本周的每个交易日都非常艰难，因为每天都在下跌，尤其是在周二和周四收盘之后。但无论股价如何，生活和我的视频制作都必须继续。我还记得四月份的时候，当时我正在国内休假，股市迎来一波暴跌，跌到了我的本金，所以心态有些失衡。然而，那个时候我依然在尽量克制和冷静地思考、操作，并努力为大家输出内容。现在只是四月之后又一个小的坎，希望我们可以一起渡过。接下来，我将分享面对这次回撤的一些思考以及我接下来的持仓计划。

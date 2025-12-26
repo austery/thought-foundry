@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -30,10 +30,7 @@ people:
 - Kamala Harris
 - Myron Scholes
 - Nancy Pelosi
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=V29iyScpV-M
 speaker: Shijun Tang
@@ -48,7 +45,6 @@ tags:
 - valuation
 title: 特斯拉Robotaxi发布会为何暴跌？揭秘美股科技股的估值陷阱与投资真相
 ---
-
 ### 特斯拉Robotaxi发布会为何引爆市场失望？
 
 特斯拉在2024年10月举办的Robotaxi发布会，被外界寄予厚望，甚至被视为公司“成王败寇”的关键节点。现场展示了50台无方向盘、仅含座椅与大屏幕的自动驾驶车辆，并首次推出可容纳20人的“Robo Van”。然而，发布会结束后，特斯拉股价在两周内暴跌19.3%，市场热情瞬间冷却。为何一场“科技盛宴”反而成为股价的滑铁卢？

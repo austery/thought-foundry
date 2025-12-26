@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -21,10 +21,7 @@ people:
 - Bill Gates
 - Magnus Carlsen
 - Jens Stoltenberg
-project:
-- investment-strategy
-- geopolitics-watch
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=2HDNjAbP8x0
 speaker: Norges Bank Investment Management
@@ -39,7 +36,6 @@ tags:
 - market-concentration
 title: 挪威主权财富基金CEO：长期投资、透明度与领导力洞察
 ---
-
 ### 长期视角：更少决策，更高质量
 
 **主持人**: 但当你采取更长期的视角时，你会做出更少的决策，而你做出的决策越少，它们往往就越好。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - OECD
@@ -20,10 +20,7 @@ people:
 - Mark Carney
 - Ronald Reagan
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GAK9mtcLROY
 speaker: TVO Today
@@ -38,7 +35,6 @@ tags:
 - political
 title: 加拿大“临界点”：挑战、解决方案与纽约市长竞选的启示
 ---
-
 ### 引言：加拿大面临的空前挑战
 
 我们似乎每天都在听到这样的话：我们正生活在一个前所未有的时代。全球秩序正在发生变化。

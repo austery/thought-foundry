@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 麻省理工学院
@@ -27,10 +27,7 @@ people:
 - 拜登
 - 鲍里斯·约翰逊
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7H3s8aWa5ww
 speaker: 北美王路飞
@@ -44,7 +41,6 @@ tags:
 - us-foreign-policy
 title: 北约东扩的悲剧性错误：乌克兰战争的深层根源与国际秩序的崩塌
 ---
-
 ### 引言：北约东扩与乌克兰战争的悲剧性关联
 
 本期节目将深入探讨北约东扩这一“悲剧性错误”如何最终引爆乌克兰战争。我们将基于两位知名学者——**诺姆·乔姆斯基**（Noam Chomsky: 麻省理工学院荣誉教授、亚里桑那大学桂冠教授，语言学界泰斗及美国全球事务和外交政策的犀利批判者）和**内森·罗宾逊**（Nathan J. Robinson: 时事杂志《Current Affairs》联合创始人兼主编，耶鲁大学法学博士、哈佛大学社会学博士，以批判性思维著称的左翼学者）的视角，重新审视北约与俄罗斯这对“老冤家”的恩怨情仇。这背后不仅牵扯着地缘政治，更是赤裸裸的国家利益、被忽略的警告，以及一连串意料之中的悲剧。通过本期内容，您将对这个世界的理解多一个全新的维度。

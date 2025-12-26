@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Goldman Sachs
@@ -18,10 +18,7 @@ products_models:
 - ChatGPT
 - Perplexity
 - LLM
-project:
-- ai-impact-analysis
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=45q0u_KwqAc
 speaker: TechButMakeItReal
@@ -35,7 +32,6 @@ tags:
 - technology
 title: 人工智能时代：网络安全职位是消亡还是升级？
 ---
-
 ### 人工智能时代的网络安全：炒作与现实
 
 网络安全是下一个被颠覆的领域。这是当前所有文章、图表和**人工智能**（Artificial Intelligence: 模拟人类智能的机器系统）炒作新闻背后的潜台词。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -25,10 +25,7 @@ media_books:
 people:
 - Eric Schmidt
 - Michael Jackson
-project:
-- ai-impact-analysis
-- entrepreneurship
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0zNfoQtxWXc
 speaker: Norges Bank Investment Management
@@ -41,7 +38,6 @@ tags:
 - innovation
 title: 华纳音乐集团CEO罗伯特·金塞尔：从颠覆者到音乐产业的未来塑造者
 ---
-
 ### 欢迎与罗伯特·金塞尔共话音乐人生
 
 **Nicolola:** 大家好，欢迎来到“良伴同行”播客。我是挪威主权财富基金的首席执行官尼古拉·坦根。今天，我非常荣幸地邀请到了华纳音乐集团（全球最大的唱片公司之一）的首席执行官罗伯特·金塞尔先生。

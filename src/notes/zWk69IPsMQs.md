@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: productivity
 companies_orgs: []
 date: '2023-07-22'
@@ -9,8 +9,7 @@ insight: ''
 layout: post.njk
 media_books: []
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zWk69IPsMQs
 speaker: 一口新飯
@@ -22,7 +21,6 @@ tags:
 - time-management
 title: 时间管理的奥秘：聚焦重要事项，超越99%的人
 ---
-
 ### 效率的悖论：努力与卓越的距离
 
 与许多人一样，我曾一直认为良好的时间管理等同于更高的效率。例如，为什么像埃隆·马斯克（Elon Musk）这样的人物，一天同样只有24小时，却能成就诸多伟大的事业？我们想当然地认为，他们必定是时间管理大师，效率超乎寻常。为了追求这种高效率，我们研究各种时间管理技巧与效率软件，培养良好的习惯并严格自律，希望通过这些努力让自己超越99%的人，从而实现成功。然而，我们逐渐发现一个悖论：尽管我们已经非常努力，不断提高生产力，没有浪费一分钟时间，但距离真正的卓越仍相去甚远。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - New York Times
@@ -52,9 +52,7 @@ people:
 - Adolf Hitler
 - Narendra Modi
 products_models: []
-project:
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mc8oeIz_1Wg
 speaker: New York Times Podcasts
@@ -67,7 +65,6 @@ tags:
 - trend
 title: 《纽约时报》书评编辑揭晓2025年度十大好书
 ---
-
 ### 《纽约时报》2025年度图书榜单出炉
 
 **Gilbert Cruz:** 大家好，我是《纽约时报书评》的编辑吉尔伯特·克鲁兹，欢迎收听本期书评播客。是时候了，又到了一年一度的年度最佳图书盘点时刻。

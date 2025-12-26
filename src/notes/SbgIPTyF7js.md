@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -16,8 +16,7 @@ people:
 - 李思賢
 - 宋晏仁
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SbgIPTyF7js
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -31,7 +30,6 @@ tags:
 - strategy
 title: 生理期想吃甜有罪恶感？减重医师教你健康管理经期食欲与情绪
 ---
-
 ### 经期甜食渴望的生理学根源
 
 在诊间问诊时，我（初日诊所思思医师）经常遇到女性朋友询问：“医师，月经来的时候可以吃甜的吗？我忍不住吃一点，却觉得很罪恶，该怎么办呢？”这时我都会告诉她们别担心。根据2020年一项针对311名女大学生的研究，有85.8%的受试者在生理期前食欲增加，尤其是对甜食的需求特别明显。我也注意到我太太在月经来时，情绪会比较低落，特别想吃甜点来改善心情。我最早发现这个现象之后，我就告诉她，不过到底你该选择什么甜食呢？到底你在月经来时想吃甜又是什么造成的呢？今天这集，我们会谈谈女性在经期想吃甜食的原因，以及经期的甜食饮食指南，教你如何健康应对。

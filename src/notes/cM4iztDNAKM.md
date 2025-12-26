@@ -18,10 +18,8 @@ insight: ''
 draft: true
 series: ''
 category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-  - investment-strategy
+area: "work-career"
+project: []
 people:
   - Donald Trump
   - Xi Jinping

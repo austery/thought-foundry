@@ -32,10 +32,7 @@ people:
 - Xi Jinping
 - Adam Smith
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UFXB7herB_U
 speaker: LT視界
@@ -48,7 +45,6 @@ tags:
 - trade
 title: 历史惊人相似：中国万亿贸易顺差下的全球博弈与国内困境
 ---
-
 ### 财经头条：人工智能泡沫与美元转折
 
 今天我们首先来关注财经领域的两条重要信息。第一条来自《华尔街日报》的报道，标题是“博通股价暴跌，拖累科技板块”。近期，人工智能（AI）板块的龙头企业股价几乎每日都在经历暴跌，昨天是甲骨文，今天轮到了博通。这种连续的下跌给全球资本市场带来了巨大的冲击，并且还在持续发酵，因为人们尚未找到确切的答案：人工智能究竟是否存在泡沫，泡沫有多大，以及何时会普遍破裂。

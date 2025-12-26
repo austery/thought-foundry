@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Alibaba
@@ -18,9 +18,7 @@ insight: ''
 layout: post.njk
 people:
 - 蔡崇信
-project:
-- investment-strategy
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=y0VoyiSL3-k
 speaker: Shijun Tang
@@ -34,7 +32,6 @@ tags:
 - performance
 title: 阿里巴巴能否重回300美元？深度解析BABA财报、竞争与未来增长点
 ---
-
 ### 阿里巴巴股价表现与个人投资回顾
 
 本期节目将深入探讨**阿里巴巴**（股票代码：**BABA**）这家公司。阿里巴巴曾一度达到每股319.32美元的股价，随后其股价经历了一段显著下跌。然而，自2022年10月24日的最低点58.01美元以来，历时1071天，阿里巴巴的股价已回升至192.67美元，涨幅高达232.13%。这引发了一个问题：阿里巴巴是否已彻底扭转局面？未来它能否重新回到每股300美元的水平？本期将从公司最新财报、基本面、竞争环境以及护城河等多个方面详细分析阿里巴巴。

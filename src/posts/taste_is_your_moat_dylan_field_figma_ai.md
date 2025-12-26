@@ -8,9 +8,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: null
 source: null
 speaker: ''
@@ -25,7 +23,6 @@ tags:
 - system
 title: 'Taste is Your Moat: Dylan Field on Design, AI, and the Future of Creation'
 ---
-
 ### Introduction and Figma's Mission
 
 Allesio: Hey everyone, welcome to the Inspace podcast. This is Allesio, founder of Colonel Labs, and so happy to be at the Figma office today with Dylan Field. Welcome.

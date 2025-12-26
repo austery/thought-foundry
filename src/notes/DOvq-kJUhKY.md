@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - 长荣航空
@@ -14,9 +14,7 @@ people:
 - Donald Trump
 products_models:
 - Google 地图
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DOvq-kJUhKY
 speaker: 莊也雜談
@@ -28,7 +26,6 @@ tags:
 - travel
 title: 温哥华/维多利亚三天两夜深度游：行程规划、实用经验与城市初印象
 ---
-
 ### 引言：山海之约与温哥华情缘
 
 大家好，欢迎收看庄也杂谈。本期节目将与大家分享我与太太在今年五月**维多利亚长周末**（Victoria Day long weekend: 加拿大五月第三个星期一的法定假日，纪念维多利亚女王诞辰）期间，前往温哥华和维多利亚的旅行经历。

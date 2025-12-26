@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -28,10 +28,7 @@ people:
 - Winston Churchill
 - Elon Musk
 - Xi Jinping
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=46eOQvwvDjE
 speaker: Bloomberg Podcasts
@@ -45,7 +42,6 @@ tags:
 - rare-earth
 title: 能源转型之困：高科技时代下的能源安全与地缘政治挑战
 ---
-
 ### 高科技世界与能源困境
 
 **Tracy Aloway:** 大家好，欢迎收听《Odd Lots》播客的又一集。我是Tracy Aloway。

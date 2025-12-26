@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-05-11'
@@ -11,9 +11,7 @@ media_books:
 - talk
 products_models:
 - bitcoin
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AH2obdhaRJI
 speaker: 投资TALK君
@@ -26,7 +24,6 @@ tags:
 - stock-market
 title: 2025年投资展望：机构与KOL观点深度解析及个人策略
 ---
-
 ### 引言：2025年市场展望概述
 
 大家好，本期内容原计划一周前上线，但因上次录制音频部分缺失，故重新录制并修改后发布。尽管如此，我对2025年的整体看法并未改变。恰恰相反，过去一周的市场走势验证了2025年至今市场波动确实较大。本期内容将以上次2025年展望为基础，进一步探讨三家机构及两位国外博主对市场的看空与看多理由，包括我自己的看法和操作。

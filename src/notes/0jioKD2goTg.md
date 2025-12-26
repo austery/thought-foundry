@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
@@ -15,9 +15,7 @@ people:
 - Jens Stoltenberg
 - Nicolai Tangen
 - Kristin Halvorsen
-project:
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0jioKD2goTg
 speaker: Norges Bank Investment Management
@@ -31,7 +29,6 @@ tags:
 - sovereign-wealth-fund
 title: 挪威主权财富基金：在动荡时期平衡道德与利润
 ---
-
 ### 欢迎与基金概览
 
 **Torbjørn Røe Isaksen:** 欢迎来到本次关于**石油基金**（Oljefondet: 挪威政府养老基金，俗称“石油基金”，全球最大的主权财富基金之一）的会议。

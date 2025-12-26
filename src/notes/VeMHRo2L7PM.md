@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - NVIDIA
@@ -25,10 +25,7 @@ people:
 products_models:
 - Blackwell
 - Rubin
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VeMHRo2L7PM
 speaker: 投资TALK君
@@ -42,7 +39,6 @@ tags:
 - quantitative-tightening
 title: 美联储缩表终结信号：市场流动性、英伟达财报与消费前瞻
 ---
-
 ### 市场概览与本周焦点
 
 大家好，欢迎来到专业美股频道。本周市场焦点集中在周三的美联储会议。本次节目将通过一位分析师Nick的文章，探讨在降息预期已基本确定的背景下，**量化紧缩**（QT: Quantitative Tightening，美联储通过缩减资产负债表来回收市场流动性的货币政策）何时会结束，并分享一个衡量当前市场流动性状况的关键指标。此外，我们还将深入分析周二GTC大会上**英伟达**（NVIDIA）首席执行官**黄仁勋**（Jensen Huang）的讲话，以及为何英伟达股价因此上涨。最后，将快速回顾UPS、Visa和Booking.com三家公司的最新财报。

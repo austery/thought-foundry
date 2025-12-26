@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -16,10 +16,7 @@ media_books:
 - 《外交事务》
 products_models:
 - Sora
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ccqCDD9LqCA
 speaker: Hung-yi Lee
@@ -32,7 +29,6 @@ tags:
 - model
 title: 生成式AI的两条世界线：从像素接龙到Flow Matching的融合之路
 ---
-
 ### 生成式AI的两大范式：从接龙到分布匹配
 
 各位同学大家好，今天我们来探讨生成式人工智能在影像和声音生成领域的最新进展。在此之前，我们的课程主要聚焦于语言模型——通过文字接龙的方式，基于上文预测下一个词。然而，今天我们要探索的是更复杂、更具挑战性的领域：如何生成图像、视频和声音。

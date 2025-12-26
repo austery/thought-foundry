@@ -11,8 +11,7 @@ tags:
   - 地缘政治
 category: geopolitics
 area: society-thinking
-project:
-status: evergreen
+project: []
 source: https://www.youtube.com/watch/kkbaME4i0w8
 author: Lei
 summary: 本文汇总并深度解读了来自全球顶尖智库与媒体的五篇报告，内容涵盖中国半导体产业整合的内部矛盾、针对台湾的法律与心理战、解放军海军的蓝水战略转型、美国对华政策的府会分歧，以及台湾罢免案所揭示的地缘政治意涵，全面展现了当前中国所面临的复杂内外挑战。

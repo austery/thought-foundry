@@ -16,9 +16,7 @@ people:
 - Warren Buffett
 - John Maynard Keynes
 products_models: []
-project:
-- investment-strategy
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cwfzwB6aDGY
 speaker: Norges Bank Investment Management
@@ -30,7 +28,6 @@ tags:
 - long-term-investing
 title: 克里斯托弗·霍恩爵士的投资秘诀：寻找伟大公司、集中持股与长期主义
 ---
-
 ### 欢迎与介绍
 
 欢迎各位。

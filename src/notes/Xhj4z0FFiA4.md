@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-09-30'
 draft: true
@@ -10,10 +10,7 @@ people:
 - Andrew Huberman
 products_models:
 - Starlink
-project:
-- us-analysis
-- china-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Xhj4z0FFiA4
 speaker: 徒步的騎手
@@ -27,7 +24,6 @@ tags:
 - life-philosophy
 title: 逃离山东，认同得州：两种文化下的个体选择与自由精神
 ---
-
 ### 户外生活与冷水澡的启示
 
 这个频道已经做了107期了。做视频和写文字是两种完全不同的技能。我深知从文字转向视频有一个学习曲线，所以我一直在努力适应。这个频道的目标是，在我完成第107期之后，在科罗拉多庆祝一下。

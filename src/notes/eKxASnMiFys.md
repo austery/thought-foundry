@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Hamas
@@ -19,10 +19,7 @@ people:
 - Obama
 products_models:
 - Starlink
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eKxASnMiFys
 speaker: All-In Podcast
@@ -36,7 +33,6 @@ tags:
 - society
 title: 击败马杜罗、社会主义与解放委内瑞拉：玛丽亚·科丽娜·马查多访谈
 ---
-
 ### 委内瑞拉的民主斗士：玛丽亚·科丽娜·马查多
 
 主持人：玛丽亚·科丽娜·马查多，欢迎来到《All-In》访谈节目，感谢您今天与我在一起，并祝贺您两周前荣获**诺贝尔和平奖**（Nobel Peace Prize: 旨在表彰为促进和平作出杰出贡献的人士）。

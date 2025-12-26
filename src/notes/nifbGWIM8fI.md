@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - 初日醫學
@@ -12,9 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁
 - 孔子
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nifbGWIM8fI
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +26,6 @@ tags:
 - stress-management-technique
 title: 精神科醫師馬大元：揭開快樂的九成密碼——從基因、體質到生活習慣的全面解析
 ---
-
 ### 快樂的密碼：基因與生活方式的雙重影響
 
 **宋晏仁:** 大家好，我是宋晏仁醫師，歡迎來到初日會客室。今天為您邀訪的是在新竹地區，竹科的救命恩人，馬大元醫師。馬醫師您好。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Anthropic
@@ -18,8 +18,7 @@ people:
 - David Sacks
 products_models:
 - Claude
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PLyCki2K0Lg
 speaker: Anthropic
@@ -33,7 +32,6 @@ tags:
 - tool
 title: 模型上下文协议（MCP）：Anthropic 如何构建并捐赠一项开放AI集成标准
 ---
-
 ### 模型上下文协议（MCP）的诞生与愿景
 
 大型语言模型（LLMs）能够生成文本，但我们期望它们能超越此功能，在现实世界中发挥更大的作用。这意味着需要将它们与我们日常使用的各种软件和硬件连接起来。模型上下文协议（MCP）正是为了实现这一目标而开发的开源标准，它由Anthropic开发并于今日宣布捐赠给Linux基金会。

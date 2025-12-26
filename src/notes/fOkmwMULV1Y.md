@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Apple
@@ -26,10 +26,7 @@ people:
 - Peter Thiel
 - Christopher Waller
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fOkmwMULV1Y
 speaker: 视野环球财经
@@ -43,7 +40,6 @@ tags:
 - us-stock-market
 title: 美股市场动态：指数下跌、英伟达清仓与亚马逊发债引发关注
 ---
-
 ### 美股市场概览：指数下跌与波动性加剧
 
 大家好，欢迎回到视野环球财经。现在是美东时间2025年11月17日周一晚上的8点25分。今天的四大指数集体下跌，其中标普500指数是自5月1号以来，也就是半年多以来，首次跌破50日的**移动平均线**（Moving Average: 衡量特定时期内证券平均价格的指标）。今天个股下跌的数量相比上周两天有所扩大，标普500指数成分股中，有407只下跌，仅96只上涨；道指30只成分股中，有27只下跌，仅3只上涨。此外，在标普的11个板块中，只有公共事业板块上涨，其余10个板块均下跌，其中金融、科技、材料和能源板块的跌幅较大。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - MasterCard
@@ -26,10 +26,7 @@ media_books:
 people:
 - 唐石峻
 - Marc Benioff
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gfzijMF6qdo
 speaker: Shijun Tang
@@ -43,7 +40,6 @@ tags:
 - value
 title: 经济下行期的投资机会：MasterCard、Salesforce与Fortinet的底层逻辑
 ---
-
 ### 经济下行中的投资迷思：从支付网络到企业云的抗周期逻辑
 
 你之所以点击这支视频，相信一定对当前市场形势感到迷茫——不确定特朗普政府推动的关税政策是否会引发新一轮经济衰退，也不清楚此时该卖出股票静观其变，还是寻找机会加仓。欢迎收看《常识性财富体验》，我是唐石峻。

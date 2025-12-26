@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OKLO
@@ -19,10 +19,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=sDVpnTVcnsU
 speaker: 视野环球财经
@@ -36,7 +33,6 @@ tags:
 - us-stock-market
 title: 美股V型反转：市场分化下的投资策略与个股分析
 ---
-
 ### 美股市场概览与经济数据分析
 
 大家好，欢迎回到视野环球财经。我是Ryno，今天是美东时间25年11月7号周五晚上的8点35分。今天的**四大指数**（Four Major Indices: 指的是道琼斯工业平均指数、标准普尔500指数、纳斯达克综合指数和罗素2000指数）上午延续了昨天的恐慌抛售，但午后开始反弹。最终，四大指数中只有**纳指**（Nasdaq: 纳斯达克综合指数）小幅收跌，形成了日内的V型反转。然而，本周整个**纳指100**（Nasdaq 100: 纳斯达克100指数，由在纳斯达克上市的100家最大的非金融公司组成）仍旧收跌了3%，是4月暴跌以来表现最差的一周。

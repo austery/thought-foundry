@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Toronto Metropolitan University
@@ -9,10 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- us-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Y6ap1YacsnI
 speaker: TVO Today
@@ -26,7 +23,6 @@ tags:
 - venture-capital
 title: 加拿大科技行业面临增长困境？挑战与出路
 ---
-
 ### 加拿大科技行业的增长困境
 
 加拿大科技公司在获取资金和留住人才方面可能面临挑战。那么，我们能做些什么来帮助创始人在本土建立公司呢？**DMZ**（一家位于多伦多都会大学的科技孵化器）的执行董事Abdullah Nobar和**Monarch**（一个领导力发展平台）的首席执行官Kelsey Han与我坐下来解释了这些问题。

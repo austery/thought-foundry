@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - YouTube
@@ -25,10 +25,7 @@ people:
 - 罗斯福
 - Vladimir Putin
 products_models: []
-project:
-- china-analysis
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wwwy2VPOyrw
 speaker: 張内咸脫口秀
@@ -42,7 +39,6 @@ tags:
 - social-commentary
 title: 中国YouTuber的创作挑战、社会观察与政治光谱解析
 ---
-
 ### 频道运营与内容创作哲学
 
 大家好，我是张内咸，又见面了。本周的这一期节目是我今年做的第50期节目，不知不觉都做了50期了，也是非常感慨。我是今年1月底开始陆续上线前几期节目，到现在为止其实也才10个多月。按说我作为一档**周播节目**（Weekly Show: 每周固定时间播出的节目），每年54周，如果我完全不休息，完全不**开天窗**（Miss a Broadcast: 指节目未能按时播出）的话，一年应该是正好做满54期节目。做到第50期的时候应该已经12月底了，那为什么现在才12月初呢？好像时间有点对不上。这是因为早期刚开始运营这个频道的时候，我还没有把节目时间固定下来。当时我只有几十个订阅观众，所以每期节目的上线时间和节目时长都不是很稳定。做了七八期节目以后，才逐渐开始固定为周播节目，现在我是每周六午夜上线。老观众已经形成习惯了。

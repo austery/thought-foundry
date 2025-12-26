@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国
@@ -12,10 +12,7 @@ people:
 - 李嘉诚
 - 李兆基
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=blDgX0vzUtQ
 speaker: 老周横眉
@@ -29,7 +26,6 @@ tags:
 - wealth-inequality
 title: 香港之殇：从笼屋到豪宅，系统性失败下的居住困境与贫富悬殊
 ---
-
 ### 香港的璀璨灯火与阴影下的绝望
 
 香港，这座曾经被誉为“东方之珠”的亚洲骄傲，即便在经历了2019年的社会运动和2020年的《国安法》颁布后，其国际金融中心的地位依然难以在短时间内被取代。维多利亚港璀璨的天际线和世界名列前茅的人均GDP，依旧是许多人心目中的亚洲之光。然而，在这座城市光鲜亮丽的摩天大楼阴影下，却有几十万人被困在世上最恶劣的居住条件当中。当你看见香港的**笼屋**（lóng wū: 将一个单位分割成几十个床位，每个床位被铁丝网包围的住所）、**棺材房**（guāncai fáng: 由木板隔层，空间仅够平躺，大小如棺材的住所）和**劏房**（tāng fáng: 一个标准的住宅单位被分割成几个甚至十几个独立的小房间）时，很难想象一个举世闻名的金融中心，居然有那么多人的居住条件甚至不如一些国家的动物。在这些住所中，人的尊严被压缩至物理空间的极限，这已不仅仅是空间狭小的问题，更是居住形态的异化，将人类的生存空间降格为动物版的圈养。

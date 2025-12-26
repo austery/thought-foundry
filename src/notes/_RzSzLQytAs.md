@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Google
@@ -58,10 +58,7 @@ products_models:
 - Llama
 - H200
 - Trainium
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_RzSzLQytAs
 speaker: Amit Kukreja
@@ -75,7 +72,6 @@ tags:
 - stock
 title: 谷歌创历史新高，迈克尔·布里回归，英伟达做出回应：每日回顾
 ---
-
 ### 市场回顾：谷歌创新高与美联储降息预期
 
 大家好，欢迎回到本频道。我们又回到了每日回顾节目，今天真是令人兴奋的一天。谷歌股价创下历史新高。

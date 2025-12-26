@@ -10,13 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- ai-impact-analysis
-- china-analysis
-- geopolitics-watch
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YZHyiBabvH4
 speaker: Bloomberg Podcasts
@@ -29,7 +23,6 @@ tags:
 - us-china-relations
 title: 特朗普中东和平协议、中美贸易紧张与欧洲AI独立性
 ---
-
 ### 播客引言与今日头条
 
 This is the Bloomberg Daybreak Europe podcast. Good morning. It's Tuesday the 14th of October. I'm Steven Carowell in Brussels.

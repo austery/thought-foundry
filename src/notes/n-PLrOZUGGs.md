@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Apple
@@ -30,10 +30,7 @@ products_models:
 - Instagram
 - TikTok
 - Android
-project:
-- china-analysis
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n-PLrOZUGGs
 speaker: Norges Bank Investment Management
@@ -47,7 +44,6 @@ tags:
 - supply-chain-security
 title: 欧盟竞争事务专员维斯塔格：数字市场、地缘政治与欧洲竞争力
 ---
-
 ### 欧盟竞争法的执行与数字技术监管
 
 许多**反垄断案件**（Anti-Trust cases: 旨在防止垄断、促进市场竞争的法律诉讼）已经针对全球最强大的公司提起，包括苹果、微软、Alphabet、亚马逊和Meta。我相信，玛格丽特·维斯塔格，当你的名字出现在全球所有首席执行官的收件箱中时，他们都会感到紧张。但非常欢迎你来到这个播客。

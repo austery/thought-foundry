@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - a16z
@@ -35,10 +35,7 @@ products_models:
 - Gemini
 - Llama
 - SharePoint
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VMv00WR8EaA
 speaker: a16z
@@ -53,7 +50,6 @@ tags:
 - law
 title: 7000亿美元的AI生产力问题：企业如何衡量与驱动AI价值？
 ---
-
 ### AI生产力悖论：企业面临的紧迫挑战
 
 主持人: 我们采访的公司中，有85%表示，他们坚信只有未来18个月的时间来成为行业领导者，否则就会落后。你知道，我们有一个小群聊，里面有位朋友说：“哦，所有这些东西都被过度炒作了，最终会归零。”然而，我每次使用AI时，都觉得它非常棒。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - AT&T
@@ -15,10 +15,7 @@ people:
 products_models:
 - 5G
 - LLM
-project:
-- investment-strategy
-- ai-impact-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GQPMFl-JlLI
 speaker: Norges Bank Investment Management
@@ -32,7 +29,6 @@ tags:
 - technology
 title: AT&T CEO John Stankey 谈电信行业未来、AI驱动与领导力
 ---
-
 ### 欢迎来到AT&T
 
 主持人: 大家好，欢迎收看“In Good Company”节目，今天我们从纽约现场直播。我抵达纽约后做的第一件事，就是把手机里的**SIM卡**（Subscriber Identity Module: 用户身份模块）换成了AT&T的SIM卡。

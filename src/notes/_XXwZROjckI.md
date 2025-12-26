@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: culture
 companies_orgs: []
 date: '2025-10-07'
@@ -10,8 +10,7 @@ layout: post.njk
 people:
 - peter-santenello
 products_models: []
-project:
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_XXwZROjckI
 speaker: Peter Santenello
@@ -26,7 +25,6 @@ tags:
 - 纽约
 title: 纽约印象：喧嚣重燃下的现实挑战
 ---
-
 ### 纽约市的现状：开篇与金融区
 
 Good morning guys here in New York City.

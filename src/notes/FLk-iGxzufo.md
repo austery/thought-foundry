@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Airbnb
@@ -17,9 +17,7 @@ media_books:
 - 莊也雜談
 products_models:
 - Matthew号
-project:
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FLk-iGxzufo
 speaker: 莊也雜談
@@ -34,7 +32,6 @@ tags:
 - newfoundland-travel
 title: 纽芬兰自驾游第四天：博纳维斯塔的历史回响与甘德的转型之路
 ---
-
 ### 纽芬兰自驾游第四天：博纳维斯塔的探索与历史更正
 
 大家好，我是庄也，欢迎收看庄也杂谈。今天我们继续讲述在纽芬兰的自驾游之旅。在开始第四天的行程之前，首先要更正上一集的一个错误。之前提到在大雾中行驶建议大家打开**雾灯**（Fog Lights: 一种在雾、雪或雨天提高能见度，且光线射程较短的车灯），但配图却错误地放成了**近光灯**（Low Beam Headlights: 用于夜间或能见度低时照明前方道路的常规车灯）。在此向细心的小伙伴们道歉，雾灯的正确样式请大家注意区分。

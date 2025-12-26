@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Honda
@@ -21,10 +21,7 @@ products_models:
 - CPI
 - PCE
 - S&P
-project:
-- investment-strategy
-- market-cycles
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=mu8UnEUDk48
 speaker: Shanghao Jin
@@ -38,7 +35,6 @@ tags:
 - risk
 title: 2025年市场展望：AI泡沫、信贷风险与中国汽车产业的全球影响
 ---
-
 ### 市场概览与个人结论
 
 上两周在分享过程中出现了一些意外，因此未来我可能会避免讨论与政治相关的话题。随着年底临近，今年11月份的季度财报已经陆续发布。回想去年同期，我们也曾对来年的市场进行展望。最近市场上很多人都在讨论AI“左脚踩右脚”的现象，以及美国股市在创新高之后是否面临巨大的泡沫，是否预示着需要“逃跑”的时机。大家普遍关注是否存在**尾部风险**（Tail Risk: 指发生概率极低但一旦发生就会造成巨大损失的事件，常被称为“黑天鹅事件”），即像去年我们认为概率非常大的那种市场暴跌。那么，今年、明年年初或年底前是否还会出现这类风险呢？

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - FBI
@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - 古巴导弹危机演讲
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=oy1MxLoqnKs
 speaker: 北美王路飞
@@ -27,7 +25,6 @@ tags:
 - vesting-interest
 title: FBI识人术：掌握‘投入’与‘长远关系’两大核心信号，精准预测人性
 ---
-
 ### 识人核心：洞察“投入”与“自身利益”
 
 大家好，欢迎来到我的频道。今天我们继续深入探讨FBI前探员罗宾·德里克所著的《Sizing People Up》一书的第三集内容。作者强调了一个最核心的信号，他称之为**投入**（Vesting: 指一个人相信你的成功会让他也受益的心理状态）。简单来说，就是要判断眼前这个人是否相信你的成功会让他也受益，即你们俩的利益是否一致。

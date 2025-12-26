@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Apple
@@ -50,10 +50,7 @@ products_models:
 - PyTorch
 - Hopper
 - Blackwell
-project:
-- ai-impact-analysis
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Fxp3131i1yE
 speaker: The Pragmatic Engineer
@@ -68,7 +65,6 @@ tags:
 - software
 title: Chris Lattner 访谈：从 LLVM、Swift 到 Mojo 的创世之路与高性能 AI 工程
 ---
-
 ### 访谈介绍
 
 **主持人：** Chris Lattner 创造了过去 20 年来一些最具影响力的编程语言和编译器技术。他是 **LLVM**（Low Level Virtual Machine: 一个模块化的编译器基础设施项目）的创造者，该技术被 Swift、Rust 和 C++ 等语言广泛使用。他还创造了 Swift 编程语言，曾参与 TensorFlow 的工作，现在则致力于 Mojo 编程语言的开发。

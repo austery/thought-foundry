@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -21,10 +21,7 @@ people:
 - Nicolas Maduro
 - Bill Cassidy
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4odvYb79f80
 speaker: New York Times Podcasts
@@ -37,7 +34,6 @@ tags:
 - torture-allegation
 title: 特朗普政府的驱逐计划：萨尔瓦多监狱中的酷刑与人权危机
 ---
-
 ### 特朗普政府的驱逐计划：萨尔瓦多监狱中的酷刑与人权危机
 
 **Michael Babaro:** 大家好，我是《纽约时报》的迈克尔·巴巴罗，这里是《The Daily》。

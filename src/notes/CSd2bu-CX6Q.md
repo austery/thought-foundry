@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Tesla
@@ -14,9 +14,7 @@ people: '[]'
 products_models:
 - Autopilot
 - FSD (Full Self-Driving)
-project:
-- us-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CSd2bu-CX6Q
 speaker: 徒步的騎手
@@ -30,7 +28,6 @@ tags:
 - product
 title: 特斯拉Autopilot致死案：2.43亿美元天价判决的警示
 ---
-
 ### 案件背景：佛罗里达州的致命车祸
 
 近期，特斯拉在美国市场遭遇了一次沉重的法律打击。佛罗里达州的一个州法院陪审团裁定，在一起涉及特斯拉车辆的致命事故中，特斯拉公司需承担部分责任，并向遇难者家属支付高达2.43亿美元的赔偿金。

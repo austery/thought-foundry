@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Kodak
@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 media_books:
 - Physical Review
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7pSqk-XV2QM
 speaker: veritasium
@@ -28,7 +25,6 @@ tags:
 - science
 title: 柯达如何意外揭露核试验：一场辐射侦测与历史教训
 ---
-
 ### 三位一体核试验：秘密的开端
 
 在新墨西哥州的沙漠中，有一个地方每年只向公众开放两天，但我却有幸与一个小型的摄制组独自造访。

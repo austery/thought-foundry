@@ -21,9 +21,7 @@ people:
 products_models:
 - S&P 500 Index
 - Venmo
-project:
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=RYnNfwch2H4
 speaker: Nico投资有道
@@ -37,7 +35,6 @@ tags:
 - stock-market-correction
 title: 美股暴跌与AI泡沫：Nico深度解析投资策略及两只潜力股
 ---
-
 ### 美股市场概览与AI泡沫担忧
 
 近期美股市场表现不佳，**标普500指数**（S&P 500 Index: 标准普尔500指数，衡量美国500家大型上市公司股票表现的指数）和**纳斯达克100指数**（Nasdaq 100 Index: 纳斯达克100指数，衡量纳斯达克交易所市值最大的100家非金融公司股票表现的指数）都出现了罕见的下跌回调。标普500指数下跌了约2%，而纳斯达克100指数已下跌4%。如果投资者的仓位主要集中在**美股7巨头**（Magnificent Seven: 指美国股市中七家市值最大、增长最快的科技公司），对此次回调的感受可能更为深刻，因为这七家科技巨头的股价基本都出现了下跌，尤其是龙头英伟达，本周已下跌9%。

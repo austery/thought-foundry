@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -26,10 +26,7 @@ people:
 - Ferdinand Marcos Jr.
 - Barack Obama
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=W7LoliKrJt8
 speaker: 超級歪 SuperY
@@ -43,7 +40,6 @@ tags:
 - power
 title: 美国隐形帝国的真相：从保护费到全球霸权的历史演变
 ---
-
 ### 引言：从“保护费”看美国强权史
 
 近期，美国前总统唐纳德·特朗普公开表示，美国应该向台湾收取“保护费”，此言论在台湾社会引发了热烈讨论。特朗普在接受《Bloomberg Businessweek》（彭博商业周刊）独家采访时指出，美国保护了台湾，但台湾却“夺走”了美国的芯片产业。他认为台湾理应向美国支付保护费用。

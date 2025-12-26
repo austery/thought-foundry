@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: politics-society
 companies_orgs:
 - New York Times
@@ -22,9 +22,7 @@ people:
 - Vladimir Putin
 - Martin Luther King
 products_models: []
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vRmPf3bKM7c
 speaker: New York Times Podcasts
@@ -37,7 +35,6 @@ tags:
 - public-health
 title: 特朗普2.3亿美元索赔，索马里援助削减引发危机，以及美国多项焦点新闻
 ---
-
 ### 节目开场与美国对外援助削减
 
 来自《纽约时报》的头条新闻，我是特蕾西·芒福德。今天是10月22日星期三，以下是我们关注的重点。

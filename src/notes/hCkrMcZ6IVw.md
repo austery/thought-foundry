@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs: []
 date: '2025-10-11'
@@ -11,8 +11,7 @@ people:
 - donald-trump
 - joe-biden
 products_models: []
-project:
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=hCkrMcZ6IVw
 speaker: 北美王路飞
@@ -23,7 +22,6 @@ tags:
 - us-election-2024
 title: 两个法庭，一个王座：特朗普与拜登的2024背负之战
 ---
-
 ### 2024年：法庭上的政治对决
 
 2024年的春天，美国政治的核心舞台并非白宫或国会山，而是两个相距不到200公里的法庭。在纽约，一位前总统兼未来的总统候选人唐纳德·特朗普，正面临一场可能让他倾家荡产的审判。而在特拉华州，现任总统乔·拜登的独子亨特·拜登也身陷囹圄。这不仅仅是简单的法律案件，更是两个家庭、两种命运的公开对决，同时也是两位七八十岁的老人在争夺世界最强国家领导权的终极赛道上，各自背负的沉重十字架。

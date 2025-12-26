@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Oracle
@@ -20,9 +20,7 @@ people:
 products_models:
 - TPU
 - GPU
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0LWXpl7rI2U
 speaker: 投资TALK君
@@ -35,7 +33,6 @@ tags:
 - valuation
 title: 11月美股市场回顾：估值、情绪与板块轮动
 ---
-
 ### 11月市场回顾：强劲反弹与风险偏好上升
 
 各位观众大家好，欢迎来到每天不单只聊新闻的专业美股频道。我是市场分析员小涛。这周正好是整个11月份最后一个交易日，所以我们一起回过头去看一下过去一周和过去一个月的市场走势。我个人在11月份也是非常的忙，在上一周周四和周五正好是在11月份市场最黑暗的时候，在西海岸做了四场线下的一个投资交流活动，这对于我个人来说也是非常的获益。

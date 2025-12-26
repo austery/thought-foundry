@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -21,10 +21,7 @@ people:
 products_models:
 - Bloomberg Terminal
 - Discord
-project:
-- ai-impact-analysis
-- geopolitics-watch
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=z8UOnqhZHvs
 speaker: Norges Bank Investment Management
@@ -39,7 +36,6 @@ tags:
 - wealth-management-asia
 title: 星展银行CEO陈淑珊：新加坡的成功之道、DBS的数字化转型与AI赋能
 ---
-
 ### 引言：DBS的定位与全球金融影响力
 
 **Nicolola Tangian:** 大家好，我是挪威主权财富基金的首席执行官Nicolola Tangian。今天我非常荣幸能与**DBS**（Development Bank of Singapore: 新加坡发展银行）的首席执行官Susan对话，DBS是本地区最大的银行。不仅如此，Susan还是全球金融界最重要的、最有影响力的女性之一。非常感谢您抽出时间。

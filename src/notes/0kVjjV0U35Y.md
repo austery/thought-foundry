@@ -1,5 +1,5 @@
 ---
-area: digital-garden
+area: "knowledge-meta"
 category: productivity
 companies_orgs:
 - Gartner
@@ -14,10 +14,7 @@ media_books:
 - Substack
 products_models:
 - Notebook LM
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=0kVjjV0U35Y
 speaker: TechButMakeItReal
@@ -31,7 +28,6 @@ tags:
 - research
 title: 告别信息过载：Recall AI如何彻底改变你的研究与学习方式
 ---
-
 ### 信息过载的困境：研究的真实挑战
 
 上周，我花了47个小时研究海湾地区的科技生态系统，只为制作一个视频。整整47个小时。到研究结束时，我的桌面上有36个书签、19个下载的PDF文件和12个保存在YouTube上的视频，而这甚至还没开始对我在线找到的所有信息进行事实核查。

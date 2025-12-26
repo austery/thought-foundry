@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2023-03-12'
 draft: true
@@ -9,9 +9,7 @@ layout: post.njk
 media_books:
 - '《American Hookup: The New Culture of Sex on Campus》'
 products_models: []
-project:
-- cultural-critique
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=h3p0tObkn98
 speaker: 壽司坦丁 Sociostanding
@@ -26,7 +24,6 @@ tags:
 - technology
 title: 约炮文化中的社会学洞察：打破晕船、女性高潮与性爱分离的迷思
 ---
-
 ### 引言：约炮文化与“晕船”现象
 
 本期节目将与大家探讨一些关于约炮的社会学研究。由于内容不可避免地会涉及性相关词汇，温馨提醒您，若身处不便收听的环境，建议佩戴耳机。

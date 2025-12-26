@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Disney
@@ -17,9 +17,7 @@ people:
 - Bob Iger
 products_models:
 - Finding Nemo
-project:
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NVLX-pG9GJc
 speaker: Norges Bank Investment Management
@@ -33,7 +31,6 @@ tags:
 - storytelling
 title: 迪士尼的魔法：鲍勃·艾格谈故事的力量与领导力
 ---
-
 ### 介绍
 
 大家好，欢迎收听本期播客的精简版，我们每周五都会推出精简版，完整版则在每周三上线。

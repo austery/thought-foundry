@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Netflix
@@ -71,10 +71,7 @@ people:
 products_models:
 - ChatGPT
 - Grok
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cY5UFw2AIZo
 speaker: All-In Podcast
@@ -89,7 +86,6 @@ tags:
 - media
 title: 媒体并购、AI未来与美国政治思潮：Tucker Carlson深度对话
 ---
-
 ### 开场白与特朗普的圣诞派对
 
 好的，本周David Friedberg因事缺席，我们请来了All-In播客的第四次嘉宾，独一无二的Tucker Carlson。Tucker，你好吗？

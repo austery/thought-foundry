@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QrXpJsWrpD4
 speaker: 一口新飯
@@ -23,7 +21,6 @@ tags:
 - market-dynamic
 title: 投资市场中的“边际购买者”：制造与刺破泡沫的关键力量
 ---
-
 ### 引言：YouTube十万订阅与“边际购买者”概念
 
 YouTube频道在上传第一个视频两年后，达到了十万订阅的里程碑，这与两年前首个视频讨论的特斯拉股票分割形成了一个有趣的巧合。在此，最要感谢的是观众朋友们的支持。尽管发片频率和数量不高，但能有十万订阅实属幸运。今天，我们将轻松地聊聊一个少有人提及但非常重要的概念——**边际购买者**（Marginal Buyer: 决定资产成交价格、制造及刺破泡沫的关键购买者群体）。这个概念之所以重要，是因为往往决定资产价格、制造及捅破泡沫的正是这群边际购买者。更重要的是，我们每个人都有可能一不小心就成为“边际购买者”。这个概念也与股票分割有所关联，算是对我两年前第一个视频的一个呼应。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - FAA
@@ -18,9 +18,7 @@ media_books:
 - Ground News
 products_models:
 - 5G
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vjDYfvPW4mA
 speaker: veritasium
@@ -34,7 +32,6 @@ tags:
 - science
 title: 飞机上的误解：舱门、高空飞行、飞行模式与食物口味的真相
 ---
-
 ### 飞机舱门为何无需上锁？
 
 大多数飞机舱门都没有上锁。

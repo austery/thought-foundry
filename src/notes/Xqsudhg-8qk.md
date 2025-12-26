@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-07'
@@ -8,10 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Xqsudhg-8qk
 speaker: EO
@@ -26,7 +23,6 @@ tags:
 - tech
 title: 跨界掘金：如何在陌生市场发现千万级商机？| Commulate 创始人 Jordan Katz 与 Michael Mattheakis
 ---
-
 ### 硅谷迷思与保险业的发现
 
 So there's a popular belief in Silicon Valley that the best way to find startup ideas is to try to solve your own problems.

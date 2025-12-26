@@ -10,8 +10,7 @@ layout: post.njk
 media_books: []
 people: []
 products_models: []
-project:
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=P200W3bWCns
 speaker: 一口新飯
@@ -24,7 +23,6 @@ tags:
 - personal-finance
 title: 财富自由之路上的五大机会成本难题与应对策略
 ---
-
 ### 重新审视机会成本：从Model 3换车引发的思考
 
 最近一次关于是否将我2019年购买的Model 3更换为Model Y的纠结，让我对**机会成本**（Opportunity Cost: 指在面临多项选择时，放弃的次优选择的价值）这一概念进行了深入思考。事情的起因是特斯拉推出了一项特殊优惠，允许像我这样购买了FSD（Full Self-Driving: 特斯拉的全自动驾驶辅助系统）的老车主，将FSD免费转移到新车上。这项优惠价值近两万加币，且限时在本季度内完成，对于经常使用FSD且家中只有一辆车的我来说，极具吸引力。Model 3最大的问题在于路噪和空调滤芯效果不佳，尤其是在近期森林大火期间，车内会有些许呛鼻。然而，我最终是否决定换车，以及这与财富自由和机会成本有何关联？以下将通过五个常见难题，深入探讨你可能不知道的机会成本复杂性。理解这些难题至关重要，因为在追求财富自由的道路上，每一个决策都可能受到它们的影响。

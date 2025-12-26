@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Bloomberg
@@ -42,10 +42,7 @@ people:
 - Shinzo Abe
 - Li Qiang
 - Nick Timiraos
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5pUXyiPCO_Q
 speaker: LT視界
@@ -59,7 +56,6 @@ tags:
 - wolf-warrior-diplomacy
 title: 从美国政府停摆到中国“战狼”外交：全球经济与政治动态深度解析
 ---
-
 ### 美国政府停摆结束与经济数据的不确定性
 
 今天，美国总统唐纳德·川普签署了支出法案，正式结束了美国历史上持续时间最长的**政府停摆**（Government Shutdown: 美国联邦政府因国会未能及时通过拨款法案而暂停非必要政府服务的状态），标志着长达43天的僵局告一段落。这场僵局导致数百万家庭的食品援助中断，数千个航班取消，联邦雇员一个多月没有拿到工资。川普的签字意味着政府可以开始恢复正常运作，联邦工作人员预计周四开始复工。昨天晚上，众议院以222票对209票通过了一项临时拨款法案，有效期至1月30日。尽管政府关门结束，但关门期间暂停的一些福利政策还不能马上恢复，各州表示他们需要长达一周的时间来更新受益人档案并充值借记卡。美国交通部长达菲也警示，尽管政府恢复运作，但之前政府关门期间对航空业采取的限制措施暂时还不能取消，还需要一段时间的过渡性恢复，因此在节日前，美国的航空业仍会受到一定影响。

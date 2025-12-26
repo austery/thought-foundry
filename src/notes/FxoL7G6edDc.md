@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - FBI
@@ -16,9 +16,7 @@ people:
 - Jesse
 - Hillary Clinton
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FxoL7G6edDc
 speaker: 北美王路飞
@@ -32,7 +30,6 @@ tags:
 - trust-building
 title: FBI识人术：通过行动预测行为，识别10大红灯与10大绿灯
 ---
-
 大家好，欢迎来到我的频道。今天我们继续分享会员节目，也就是前FBI资深特工罗宾·德里克（Robin Dreeke）的独家识人体系，出自他的著作《判断人心：一位资深FBI特工的行为预测用户手册》（Sizing People Up）。我们今天将深入探讨其核心信号：通过行动来预测对方的行为。
 
 ### 情绪迷雾与探索式提问

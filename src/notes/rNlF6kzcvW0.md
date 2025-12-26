@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - 泡泡玛特
@@ -15,10 +15,7 @@ media_books:
   spending to gambling》'
 products_models:
 - Labubu
-project:
-- china-analysis
-- entrepreneurship
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rNlF6kzcvW0
 speaker: 老周横眉
@@ -34,7 +31,6 @@ tags:
 - risk
 title: 盲盒经济：泡泡玛特如何征服全球，及其背后的成瘾机制与监管挑战
 ---
-
 ### 泡泡玛特的崛起：从盲盒到全球现象
 
 为了深入了解**泡泡玛特**（Pop Mart: 一家以盲盒和独家设计潮流玩具闻名的中国企业）这个火遍全球的中国企业，我投入了大量时间阅读相关论文和其招股说明书，试图理解其大火背后的商业逻辑、消费心理和成瘾机制。经过分析，我归纳出了泡泡玛特成功的秘诀，并探讨这是否仅仅因为其提供了一种“合法赌博”。

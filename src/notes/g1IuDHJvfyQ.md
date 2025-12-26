@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -19,10 +19,7 @@ people:
 - Will Jarvis
 - Rob Reiner
 - Barack Obama
-project:
-- us-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g1IuDHJvfyQ
 speaker: New York Times Podcasts
@@ -36,7 +33,6 @@ tags:
 - trade
 title: 澳大利亚犹太节日大屠杀、罗布·雷纳之死与美国移民执法新策
 ---
-
 ### 澳大利亚犹太节日枪击案：反犹暴力与社会警钟
 
 昨天，澳大利亚悉尼邦迪海滩发生了一起针对犹太社区的致命袭击。在庆祝光明节首晚的拥挤人群中，一名50岁的父亲和他24岁的儿子开枪射击，造成至少15人死亡、数十人受伤。当局称这是一起“纯粹的邪恶行为”和“反犹主义恐怖袭击”。一名旁观者被官方称为“真正的英雄”，他从背后扑倒其中一名枪手并夺下长枪，迫使袭击者逃离。警方在现场击毙了父亲，而儿子则面临刑事指控。澳大利亚自上世纪90年代大规模枪支回收后，此类大规模枪击事件极为罕见——当时政府熔毁了约百万支枪，并严格限制半自动步枪的拥有。然而，此次袭击者却持有合法的休闲狩猎许可证，暴露出监管漏洞。

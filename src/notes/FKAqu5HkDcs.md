@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CCTV
@@ -28,9 +28,7 @@ people:
 - Louis Althusser
 - 薛剑
 - 董宇辉
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=FKAqu5HkDcs
 speaker: FearNation 世界苦茶
@@ -44,7 +42,6 @@ tags:
 - society
 title: “别去日本”风波背后：中国民意是真心还是表演？
 ---
-
 ### 中国民意：被洗脑还是在表演？
 
 今天我们分享一个与中国民意相关的话题。通过讨论近期因日本政治人物高市早苗的涉台表态，中国发出赴日旅游和学习警告令这一事件，我们希望深入探讨中国民意的真实面貌。

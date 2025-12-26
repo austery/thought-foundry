@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 date: '2025-05-01'
 draft: true
@@ -12,10 +12,7 @@ media_books:
 - 《青春北大》
 - 《云南全省暂行县制释义》
 products_models: []
-project:
-- historical-insights
-- cultural-critique
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n1FCQfapamQ
 speaker: 一席YiXi
@@ -29,7 +26,6 @@ tags:
 - psychology
 title: 长辈的故事：一个家族如何见证中国现代化的阵痛与温情
 ---
-
 ### 一个家族的记忆，就是中国近代史的切片
 
 大家下午好。每个人的一生中都有些日子令人难忘。对我这个82岁的人来说，最清晰的一天是1979年7月27日。那天，我抱着九个月大的女儿，从昆明来到香港。

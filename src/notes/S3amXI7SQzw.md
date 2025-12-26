@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 初日診所
@@ -13,10 +13,7 @@ media_books:
 - GQ
 people:
 - 宋晏仁
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=S3amXI7SQzw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -28,7 +25,6 @@ tags:
 - psychology
 title: 心肾健康与身材焦虑：医生视角下的健康管理与人生选择
 ---
-
 ### 医生间的轻松对话：游戏与年龄的思考
 
 李医师和威龙医师，两位是如何一同登上这个舞台的呢？

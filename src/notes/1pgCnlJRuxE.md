@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -29,9 +29,7 @@ products_models:
 - AlexNet
 - Transformer
 - Kimi
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1pgCnlJRuxE
 speaker: 硅谷101
@@ -46,7 +44,6 @@ tags:
 - scaling-law
 title: 谷歌Gemini 3深度解析：AI全模态时代的来临与Scaling Law的极限执行
 ---
-
 ### 引言：Gemini 3 引发的行业热议
 
 **硅谷101:** 今天我们最感兴趣的是，借此机会与各位顶尖的AI科学家探讨，除了大语言模型（LLM）之外，还有哪些前沿研究分支是大家所关注的。我们先从Gemini 3谈起，然后再聊聊超越Gemini的研究方向。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 工商银行
@@ -32,10 +32,7 @@ people:
 - 李强
 - 达赖喇嘛
 - 武律
-project:
-- china-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Prqvre1GkXs
 speaker: 三個水槍手
@@ -49,7 +46,6 @@ tags:
 - unification-debate
 title: 中国分裂的可能性与统一的代价：一场激辩
 ---
-
 ### 中国分裂的可能性与历史周期
 
 武律: 香港不行。

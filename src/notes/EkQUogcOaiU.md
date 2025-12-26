@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Tesla
@@ -30,10 +30,7 @@ products_models:
 - ChatGPT
 - Claude Opus 4
 - Starship
-project:
-- us-analysis
-- ai-impact-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=EkQUogcOaiU
 speaker: Patrick Boyle
@@ -47,7 +44,6 @@ tags:
 - system
 title: 埃隆·马斯克的“反觉醒”百科全书：Grokipedia的真相与偏见
 ---
-
 ### 马斯克的Grokipedia：一场关于知识与权力的博弈
 
 我不太确定发生了什么，但如果你一直在关注埃隆·马斯克（Elon Musk）试图从特斯拉（Tesla）获得万亿美元薪酬的故事，那么马斯克似乎很有可能一直在搞一些副业——比如他新的在线百科全书——**Grokipedia**（一个由AI驱动的百科全书项目）——这样他就可以说服特斯拉股东支付他巨额资金，否则他将放弃他们去追求这些其他兴趣。

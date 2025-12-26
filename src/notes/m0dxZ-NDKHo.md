@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Cisco
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 products_models:
 - MCP
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=m0dxZ-NDKHo
 speaker: AI Engineer
@@ -28,7 +26,6 @@ tags:
 - network-automation
 title: 思科Outshift：利用多智能体AI和网络知识图谱应对网络变更挑战
 ---
-
 ### 引言：思科Outshift的AI探索
 
 大家好，我是来自思科的Ola Mabadeje，一名产品经理。

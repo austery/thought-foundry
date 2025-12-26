@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 初日醫學
@@ -12,10 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LPJm_C_suPU
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -29,7 +26,6 @@ tags:
 - management
 title: 中西醫對話：味道、臟象與糖尿病、肥胖症的獨特視角
 ---
-
 ### 中醫的獨特視角：味道與疾病的關聯
 
 你可能會覺得不可思議，一種腸胃藥竟然可以治療感冒，還能控制皮膚炎。這在西醫看來或許難以置信，但對於中醫而言，卻是如此自然。中醫從「味道」的角度來探討身體的反應。例如，為什麼吃了荔枝會流鼻血？那是因為鹹味在中醫理論中，是「心」的油門。如果你本身就是個火氣很旺的人，那麼攝入鹹味就可能導致流鼻血。

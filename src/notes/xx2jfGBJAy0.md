@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 date: '2025-12-08'
 draft: true
@@ -14,9 +14,7 @@ media_books:
 products_models:
 - ChatGPT
 - Claude
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xx2jfGBJAy0
 speaker: Best Partners TV
@@ -29,7 +27,6 @@ tags:
 - system
 title: AI顶会ICLR泄露门：61分钟学术信任危机与评审体系崩塌始末
 ---
-
 ### 序言：一场颠覆学术信仰的泄露门
 
 2025年11月27日，西方传统的感恩节，本应是家人团聚、表达感谢的日子。然而，对于全球数万名向AI顶级会议**ICLR**（International Conference on Learning Representations: 国际学习表征会议）2026提交论文的研究者来说，这一天却成了学术信仰的崩塌日。一场史无前例的泄露门突然爆发，短短61分钟，整个同行评审体系的双盲遮羞布被撕得粉碎。从审稿人身份裸奔到AI代笔审稿曝光，再到金钱贿赂、人身威胁，AI学术圈最荒诞、最黑暗的一面被赤裸裸地展现在所有人面前。今天，我们将从头到尾拆解这场AI学术史上最魔幻的61分钟，看看这场事故到底如何发生，又暴露了学术圈哪些积重难返的问题。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - York University
@@ -21,10 +21,7 @@ people:
 - Donald Trump
 products_models:
 - Small Modular Reactor
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=xUE8nfhzqAM
 speaker: TVO Today
@@ -39,7 +36,6 @@ tags:
 - trade-policy
 title: 安大略省电价上涨与加拿大对中国电动汽车关税的辩论
 ---
-
 ### 安大略省电价上涨与中国电动汽车关税争议概览
 
 自11月1日起，安大略省居民面临29%的电价上涨，但省长**道格·福特**（Doug Ford: 安大略省现任省长）也将提高电力补贴，这意味着实际的“价格冲击”不会那么大。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs: []
 date: '2025-12-12'
@@ -20,9 +20,7 @@ people:
 - Locke
 - Adam Smith
 products_models: []
-project:
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Zju7W18P20A
 speaker: 超級歪 SuperY
@@ -34,7 +32,6 @@ tags:
 - society
 title: 颠覆认知！人类文明史的真相：从平等起源到自由的可能
 ---
-
 ### 主流历史叙事的颠覆：文明起源的神话
 
 我们通常阅读的历史科普书籍，例如尤瓦尔·赫拉利（Yuval Noah Harari）的《人类简史》或贾雷德·戴蒙德（Jared Diamond）的《枪炮、病菌与钢铁》，似乎都在重复同一个关于文明起源的理论：人类祖先曾生活在一个原始的平等状态，直到某一个“错误”——农业革命——的出现，导致了城市、国家和统治精英的出现，人类从此失去了自由与平等，直到欧洲启蒙运动才重新开始追求。这种叙事让我们认为不平等是人类历史的常态，从而接受当下的不平等。然而，过去几十年里，越来越多的考古和人类学证据表明，我们所熟知的整个故事是错误的，而且错得离谱。本书《万事揭晓》（*Everything Revealed*）的作者，人类学家大卫·格雷伯（David Graeber）和考古学家大卫·温格罗（David Wengrow），将一步步拆解这些关于文明起源的神话，恢复人类的真实历史。

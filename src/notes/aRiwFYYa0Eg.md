@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Bloomberg
@@ -21,9 +21,7 @@ people:
 - Tracy Aloway
 - Stanley Druckenmiller
 - Sam Bankman-Fried
-project:
-- investment-strategy
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aRiwFYYa0Eg
 speaker: Bloomberg Podcasts
@@ -37,7 +35,6 @@ tags:
 - risk-management
 title: 多策略对冲基金：如何入职、留任与精进交易之道
 ---
-
 ### 多策略对冲基金的职业生涯：入职与留任
 
 **Jill Weisenthal:** 大家好，欢迎收听新一期的OddLots播客。我是Jill Weisenthal。

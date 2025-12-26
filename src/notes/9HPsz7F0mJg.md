@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -19,9 +19,7 @@ people:
 - Lionel Messi
 products_models:
 - GPT-4o
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=9HPsz7F0mJg
 speaker: Hung-yi Lee
@@ -35,7 +33,6 @@ tags:
 - technology
 title: AI模型的微创手术：深入探讨模型编辑（Model Editing）技术
 ---
-
 ### 模型编辑：为AI模型植入知识
 
 今天我们将深入探讨**模型编辑**（Model Editing: 一种修改预训练模型特定知识或行为的技术）。模型编辑的核心目标是为模型“植入”一项新知识。我们为何需要这样做呢？有时是为了更新模型已有的旧知识，例如，总统每四年换届，模型需要知道现任总统是谁。几个月前，美国总统还是拜登，但现在我们可能希望模型知道现任总统是川普。因此，我们需要植入“现任美国总统是川普”这项新知识。有时，我们甚至希望模型学习一些与事实不符的“虚假”知识，例如“全世界最帅的人是李宏毅”。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - SpaceX
@@ -20,9 +20,7 @@ products_models:
 - Starship
 - Falcon 9
 - New Glenn
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wPfqGFmq6fY
 speaker: Money or Life 美股频道
@@ -36,7 +34,6 @@ tags:
 - space
 title: 太空淘金热：商业空间站的投资机遇与主要玩家
 ---
-
 ### 商业太空旅行与科研的未来展望
 
 不久的将来，去太空旅行可能会变得和现在的普通洲际旅行一样便捷，只需预定好**SpaceX**（Space Exploration Technologies Corp.: 美国太空探索技术公司，由埃隆·马斯克创立的航空航天制造商和空间运输服务公司）或**RocketLab**（Rocket Lab USA, Inc.: 美国一家私人航空航天制造商和小型卫星发射服务提供商）每日发往太空的火箭，再预定好想要在太空中居住的酒店。这些太空酒店可能由**蓝色起源**（Blue Origin: 杰夫·贝佐斯创立的私人太空公司）、**Axiom**（Axiom Space: 美国一家私人航天公司，专注于商业空间站和载人航天服务）、**Voyager**（Voyager Space Holdings, Inc.: 一家通过收购整合航天领域能力，并控股Starlab商业空间站项目的公司）旗下的**Vast**（Vast Space: 一家由加密货币企业家创立的私人空间站公司）等公司，以及传统酒店品牌如**希尔顿**（Hilton）等联合开发。

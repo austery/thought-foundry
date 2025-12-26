@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 国际货币基金组织 (IMF)
@@ -18,10 +18,7 @@ people:
 - Francis Fukuyama
 - 亚里士多德
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=li5mqxcSpfQ
 speaker: 东京人文论坛
@@ -34,7 +31,6 @@ tags:
 - state
 title: 超越制度想象：马基雅维里对中国未来转型的现实主义启示
 ---
-
 ## 引言：从制度想象到现实困境
 
 非常感谢大家，因为这个第二期还能来这么些人，我也挺意外的。因为这种系列的讲座，肯定总是人数越来越少的，尤其是这个内容还很硬。

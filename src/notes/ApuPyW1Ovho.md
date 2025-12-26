@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - MDA Space
@@ -21,9 +21,7 @@ media_books:
 - Money or Life 美股频道
 people:
 - Ace
-project:
-- investment-strategy
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ApuPyW1Ovho
 speaker: Money or Life 美股频道
@@ -37,7 +35,6 @@ tags:
 - telecommunication
 title: MDA Space：一家低调但稳步增长的卫星制造公司深度解析
 ---
-
 ### MDA Space公司概览及其核心业务
 
 本期视频将为大家带来MDA Space这家太空制造领域的公司分析。制作这期视频，不仅因为对MDA感兴趣，更是希望通过对MDA的分析，学习更多太空制造和太空应用方面的公司。因此，视频中会提到许多其他公司，例如ASTS、Rocket Lab、Starlink、Globalstar、Echostar、Viasat和Telesat等。

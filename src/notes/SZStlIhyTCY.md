@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - McKinsey & Company
@@ -10,9 +10,7 @@ insight: ''
 layout: post.njk
 media_books:
 - The Last Economy
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=SZStlIhyTCY
 speaker: AI Engineer
@@ -27,7 +25,6 @@ tags:
 - software-engineering-future
 title: AI 驱动下的软件开发范式转移：超越敏捷的新篇章
 ---
-
 ### AI 驱动下的软件开发范式转移：超越敏捷的新篇章
 
 大家好，早上好。非常高兴能来到这里。我是 Martin，我的同事 Natasha 也在。我们来自麦肯锡（McKinsey）一个大家可能不太熟悉的部分。我们有一个名为“软件 X”（Software X）的业务部门，主要与大型企业客户合作，探讨如何构建更好的软件产品，尤其是在过去几年中，大量运用了人工智能（AI）。我们今天的谈话将更侧重于利用 AI 进行软件开发时涉及的人员和运营模式方面。我们相信，这方面需要发生显著的变化，而这正是我们乐于与大家分享的内容。

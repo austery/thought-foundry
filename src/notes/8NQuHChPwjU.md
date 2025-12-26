@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - Wirecutter
@@ -17,9 +17,7 @@ people:
 - Christine Sir Cleette
 - Kyra Blackwell
 - Rosie Garin
-project:
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8NQuHChPwjU
 speaker: New York Times Podcasts
@@ -33,7 +31,6 @@ tags:
 - thrift-store-find
 title: 旧物新生：专业人士的二手购物与谈判指南
 ---
-
 ### 打造独特空间：二手购物的魅力
 
 我不想让我的空间感觉像其他任何人的空间。

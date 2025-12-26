@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - FBI
@@ -25,10 +25,7 @@ people:
 - Steve Bannon
 - Peter Navarro
 products_models: []
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KMzPt0-2IgE
 speaker: 记者易速利
@@ -44,7 +41,6 @@ tags:
 - us-china-relations
 title: 说唱歌手普拉斯涉华影响力案：刘特佐、孙力军与郭文贵交织的权力暗战
 ---
-
 ### 说唱歌手普拉斯的定罪与外国影响力计划
 
 美国著名的说唱歌手**普拉斯·米歇尔**（Pras Michel）于周四被联邦法官判刑14年，他应该是这些年被定罪的名声最大的中国间谍。然而，他在中文世界的知名度可能不高，因此他的故事值得深入探讨。美国司法部门对他的指控是，他与在逃的马来西亚富商**刘特佐**（Jho Low: 马来西亚金融家，因涉嫌一马公司贪腐案被全球通缉）合作，参与了一项设计金额高达1亿美元的外国影响力计划。

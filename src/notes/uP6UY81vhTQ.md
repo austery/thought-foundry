@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - New York Times
@@ -15,9 +15,7 @@ media_books:
 people:
 - Rachel Abrams
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=uP6UY81vhTQ
 speaker: New York Times Podcasts
@@ -31,7 +29,6 @@ tags:
 - war
 title: 加沙人的漫漫归家路：战争下的希望与绝望
 ---
-
 ### 序言：停火后的归家之路
 
 我是来自**《纽约时报》**（New York Times: 美国著名报纸）的瑞秋·艾布拉姆斯（Rachel Abrams），这里是《The Daily》节目。

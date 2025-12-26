@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - OpenAI
@@ -26,10 +26,7 @@ people:
 products_models:
 - ChatGPT
 - GPT-4 Turbo
-project:
-- us-analysis
-- ai-impact-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=d_qRrlPwKSk
 speaker: Best Partners TV
@@ -42,7 +39,6 @@ tags:
 - technology
 title: OpenAI“宫斗”内幕再揭：伊利亚62页证词曝光权力博弈与治理困境
 ---
-
 ### OpenAI罢免风波再起：伊利亚62页证词揭秘
 
 大家好，这里是最佳拍档，我是大飞。没想到两年前的Sam Altman罢免风波，到今天还能继续吃瓜。在最近埃隆·马斯克（Elon Musk）起诉山姆·奥特曼（Sam Altman）的诉讼案中，公布了伊利亚·萨茨克维尔（Ilya Sutskever）一份长达62页的最新证词，可以说罢免风波的内幕被扒了个底朝天。这份证词是伊利亚以视频形式提交的作证记录，而他的身份也很特殊，既是案件的证人，也是被告。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 华为
@@ -18,9 +18,7 @@ media_books:
 people:
 - 罗永浩
 products_models: []
-project:
-- china-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=wAQ0Ii5Fox4
 speaker: 老周横眉
@@ -34,7 +32,6 @@ tags:
 - relations
 title: 西贝与罗永浩之争：预制菜、食品安全与中国企业公关困境
 ---
-
 ### 西贝与罗永浩的预制菜风波始末
 
 最近，中国知名连锁餐饮品牌**西贝**与**罗永浩**围绕**预制菜**（Pre-made dishes: 预先制作好的菜肴，通常经过清洗、切割、烹饪、调味等环节，然后进行包装或冷冻，消费者购买后只需简单加热或烹饪即可食用）问题展开了一场争论。罗永浩称西贝的菜品几乎全是预制菜，而西贝的创始人**贾国龙**则坚决否认，并表示将起诉罗永浩。预制菜的兴起在过去两年一直是中国人关注的焦点，而食品安全始终是中国人心头难以摆脱的担忧。除了名人吵架的八卦效应，这成为了过去几天中国最热门的话题。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Chime
@@ -22,9 +22,7 @@ products_models:
 - TypeScript
 - Lovable
 - Bolt
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=k0gmTOm1eus
 speaker: How I AI
@@ -37,7 +35,6 @@ tags:
 - product-development
 title: AI辅助编程新手指南：从PRD到代码实现个人项目中心
 ---
-
 ### 欢迎来到AI辅助编程新手入门
 
 欢迎回到“How I AI”节目。我是Claire Vo，一位产品负责人和AI狂热者，致力于帮助大家更好地利用这些新工具进行构建。今天，我带来了一集许多人一直要求的内容，那就是：“Claire，如果我从未写过一行代码，完全不知道自己在做什么，也不知道如何在本地运行任何东西，我该如何开始**AI辅助编程**（AI-assisted coding: 利用人工智能工具辅助代码编写）和**Vibe Coding**（一种通过AI快速生成代码原型的方法），以便学习基础知识？”

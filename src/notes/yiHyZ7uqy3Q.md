@@ -17,10 +17,7 @@ people:
 - 巴菲特
 - 查理·芒格
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yiHyZ7uqy3Q
 speaker: Shijun Tang
@@ -33,7 +30,6 @@ tags:
 - moat-analysis
 title: 靠投资积累财富，不要加杠杆：从交易幻觉到价值投资的清醒认知
 ---
-
 ### 交易不是致富捷径：杠杆的幻觉与现实
 
 如果你想在金融市场中积累财富，千万不要加杠杆。我最早接触到“杠杆”这个概念时，被它深深吸引——用很少的钱博取巨大的利润，这种诱惑对我而言极其强烈。我学习了期权交易、期货交易和CFD差价合约交易后，一度以为自己掌握了通向成功的金钥匙，开始幻想功成名就的场景。

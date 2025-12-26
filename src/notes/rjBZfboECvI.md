@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 民众党
@@ -22,10 +22,7 @@ people:
 - Jefferson
 - Mark Twain
 - George W. Bush
-project:
-- historical-insights
-- systems-thinking
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=rjBZfboECvI
 speaker: 超級歪 SuperY
@@ -39,7 +36,6 @@ tags:
 - political
 title: 会计千年史：从古希腊的奴隶账房到现代金融危机的幕后推手
 ---
-
 ### 会计与问责：从古希腊到罗马帝国
 
 近期，会计师再次成为热门话题，政客的腐败与会计舞弊问题再度引发关注。今年四月中旬，检察机关发现柯景的政治献金收支总额与约新台币两千万元不符，柯文哲、黄珊珊、李文宗等高层被怀疑早已知情，但民众党未能保持收支平衡，如今已演变为一宗假账案。

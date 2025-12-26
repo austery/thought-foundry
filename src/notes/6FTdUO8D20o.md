@@ -7,10 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- cultural-critique
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6FTdUO8D20o
 speaker: Norges Bank Investment Management
@@ -22,7 +19,6 @@ tags:
 - investment
 title: Sea集团CEO Forrest Li：从游戏到万亿市值的科技巨头之路
 ---
-
 ### Sea集团简介与核心业务
 
 Nicolai Tangen: Hi everybody, I'm Nicolai Tangen, the CEO of the Norwegian Sovereign Wealth Fund and today we are in really good company. We are in Singapore. We're talking to Forrest Li, the founder and the CEO of Sea, which is the largest tech company in Southeast Asia, a market leader in video game distribution and in fintech and in e-commerce. An incredible journey and a big thank you for taking the time.

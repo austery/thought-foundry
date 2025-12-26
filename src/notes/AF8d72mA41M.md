@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - General Electric
@@ -14,8 +14,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-project:
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AF8d72mA41M
 speaker: veritasium
@@ -29,7 +28,6 @@ tags:
 - semiconductor-physics
 title: 蓝色LED的诞生：中村修二的非凡突破与照明革命
 ---
-
 ### 蓝色LED的艰难开端
 
 **LED**（Light Emitting Diode：发光二极管）的颜色并非来自其塑料外壳。你可以看到这一点，因为这里有一个透明的LED，它也发出相同的红色光。光的颜色来自电子元件本身，外壳只是帮助我们区分不同的LED。1962年，**通用电气**（General Electric：美国一家跨国综合企业）工程师尼克·霍洛尼亚克（Nick Holonyak）创造了第一个可见光LED，它发出微弱的红光。几年后，**孟山都**（Monsanto：美国一家农业生物技术公司）的工程师们创造了绿色LED。

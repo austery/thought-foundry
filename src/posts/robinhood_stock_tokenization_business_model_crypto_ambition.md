@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: Lei
 category: business
 channel: ''
@@ -13,7 +13,7 @@ people:
 - 泓君
 - 刘峰
 products_models: []
-project: market-cycles
+project: []
 series: ''
 source: ''
 speaker: ''
@@ -24,7 +24,6 @@ tags:
 - technology
 title: 股票代币化时代：揭秘Robinhood的商业模式与加密野心
 ---
-
 泓君: 欢迎收听《硅谷101》，我是泓君。我们看到传统世界与加密世界，正在围绕资产代币化进行激烈的竞争。以前股票的价格是由纳斯达克、纽交所这些市场主导的，但是如果出现了一个7x24小时的链上交易市场呢？
 
 泓君: 最近传统交易所**Robinhood**在欧洲推出了**Stock Tokens**，而加密货币交易所**Kraken**也与**Xstocks**上线了链上的股票产品。全球最大的资管公司**BlackRock**，它们去年就把部分美国国债基金搬到了区块链上。我们看到全球资产正在出现这种跨体系、跨时区、跨监管的多方直接竞争时，谁在背后主导未来资产的定价权与流动性？

@@ -18,9 +18,7 @@ people:
 - Immanuel Kant
 - Gunnar Myrdal
 products_models: []
-project:
-- china-analysis
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=aEeuewkKv2o
 speaker: 徒步的騎手
@@ -34,7 +32,6 @@ tags:
 - technology
 title: 恶并不平庸：对“平庸的恶”的反思与中国社会的竞争性作恶
 ---
-
 各位好，这些年经常听到中文世界有人讲**平庸的恶**（The Banality of Evil: 政治思想家**汉娜·阿伦特**提出的概念，指大屠杀等罪行并非由狂热分子或反社会者实施，而是由普通人因不思考、盲目服从权威而犯下），或者说恶的平庸。这是**汉娜·阿伦特**的说法。用老百姓的话来说，就是不用头脑思考，随波逐流干坏事，像**希特勒**时代的**纳粹**官员，像文革时代的红卫兵，向现在中国体制内一些大大小小的官吏。**阿伦特**对**纳粹德国**的说法有一定的道理，但他不是个有深度观察能力、有深度思考能力的人。对很多事物的评论都流于表面，在恶的问题上也是这样。
 
 ### 艾希曼的伪装与阿伦特的盲区

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Alibaba
@@ -29,10 +29,7 @@ people:
 - Hu Yaobang
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=U1GEMeGOSpk
 speaker: 东京人文论坛
@@ -47,7 +44,6 @@ tags:
 - populism
 title: 民粹主义与制度漂移：解析国家兴衰的深层逻辑
 ---
-
 ### 民粹主义的榨取性本质
 
 许多人认为，即使是**民主**（Democracy: 一种政治制度，公民通过选举选出代表来管理国家）也无法保证政治多元化，尤其是在**民粹政治**（Populist Politics: 一种政治思潮，通常强调“人民”与“精英”之间的对立，并声称代表“人民”的普遍意愿）兴起时。例如，书中提到的查韦斯案例，以及最近美国出现的民粹政治现象，都引发了人们对这种制度是否具有**榨取式制度**（Extractive Institutions: 一种政治经济制度，其设计旨在从大部分人口中榨取资源和财富，并将其集中于少数精英手中）性质的思考。

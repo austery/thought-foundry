@@ -9,8 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=v1Py_hWcmkU&t
 speaker: ''
@@ -21,7 +20,6 @@ tags:
 - 推理
 title: AI、意识与推理：与 Murray Shanahan 的哲学思辨
 ---
-
 ## AI 哲学的深远问题
 
 **Murray Shanahan**: I think there are just a huge number of enormously interesting philosophical questions that AI gives rise to. What is the nature of the human mind? What is the nature of mind?

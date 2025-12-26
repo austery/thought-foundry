@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-08-07'
@@ -19,9 +19,7 @@ people:
 - 爱因斯坦
 - 牛顿
 - 伽利略
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_WMTIWwBsXg
 speaker: 大问题Dialectic
@@ -35,7 +33,6 @@ tags:
 - scientific
 title: 西学基因：形而上学的兴与废
 ---
-
 ### 西方学问的底层基因：形而上学
 
 本期节目将用一句话概括所有**西学**（西方学问: 指哲学、自然科学和神学等西方知识传统）的底层基因，让你在学习科学、哲学和神学时有一个底层认知。要探讨的大问题是：什么是西学？典型的西学有三大学问传统：第一是哲学，第二是自然科学，第三是神学。现在有一个流行的说法，称“科学的尽头是哲学”以及“哲学的尽头是神学”。当然，谁是谁的尽头不好说。在上一讲《为什么要学哲学》中，我们提到哲学是众多学科的母体，因为它是一个动词，所以具有了生育性，生育出了其他学科。但无论谁生育了谁，谁是谁的尽头，西方的这三大学问传统——哲学、科学和神学，其实都是一体的，它们有共同的基因。

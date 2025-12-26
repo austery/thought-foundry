@@ -1,14 +1,12 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-11-24'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=QRWdapxMdSY
 speaker: AI Engineer
@@ -22,7 +20,6 @@ tags:
 - software-development
 title: AI架构副驾驶：尚未充分利用的最高投资回报率用例
 ---
-
 ### 介绍AI架构副驾驶
 
 大家好，我是Kato.io的首席执行官兼联合创始人Boris Bogatin。

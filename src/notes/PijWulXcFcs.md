@@ -9,10 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- china-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PijWulXcFcs
 speaker: 海淀拙大叔
@@ -25,7 +22,6 @@ tags:
 - indirect-financing
 title: 中国M2是否过多？货币增长与经济复苏的深层逻辑
 ---
-
 ### 中国M2现状与国际比较
 
 阿甘经济宏观论第25集讨论了330万亿的**M2**（广义货币供应量: 衡量经济中货币总量的指标，包括流通中的现金、活期存款和定期存款等）是否过多，以及它是否还会继续增长。很多人，包括金融界人士，都向大叔提出了一个问题：中国的M2已经这么高了，还能再发行货币吗？去年底，我们的M2是313万亿，现在已经达到330万亿。而去年中国的**GDP**（国内生产总值: 衡量一个国家或地区在一定时期内生产的所有最终商品和服务的市场价值）才135万亿，我们的货币与GDP之比是2.3倍。

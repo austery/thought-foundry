@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - OpenAI
@@ -47,10 +47,7 @@ products_models:
 - HBO Max
 - Gemini
 - XAI
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pQWgRHpLuP0
 speaker: Amit Kukreja
@@ -64,7 +61,6 @@ tags:
 - tech-earning
 title: OpenAI挑战谷歌，黄金遭遇十年最差表现，核能股重挫：市场每日回顾
 ---
-
 ### 市场概览与本周焦点
 
 大家好，欢迎回到本频道。我们又回到了每日回顾的节目。这是本周的第一次每日回顾。我昨天因为和家人一起庆祝排灯节（Divali）而缺席了，祝所有庆祝排灯节的人节日快乐。本周股市开局非常疯狂，过去两天发生了不少事情。

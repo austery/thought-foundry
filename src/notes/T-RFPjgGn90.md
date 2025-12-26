@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs: []
 date: '2025-08-05'
@@ -21,10 +21,7 @@ people:
 - 刘慈欣
 - 约翰·洛克
 products_models: []
-project:
-- systems-thinking
-- historical-insights
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T-RFPjgGn90
 speaker: 大问题Dialectic
@@ -36,7 +33,6 @@ tags:
 - thinking
 title: 因果关系的本质：从亚里士多德到人工智能的五次思想交锋
 ---
-
 ### 引言：因果关系，一个动摇科学根基的哲学问题
 
 欢迎收看大问题节目。本期要探讨的大问题是：因果关系本身是什么？所有科学研究都建立在因果关系的基础之上，但这个问题至今仍是一个争论不休的哲学问题。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 date: '2025-11-24'
 draft: true
@@ -13,10 +13,7 @@ media_books:
 - graphrag.com
 products_models:
 - Claude Code
-project:
-- ai-impact-analysis
-- systems-thinking
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LLuKshphGOE
 speaker: AI Engineer
@@ -30,7 +27,6 @@ tags:
 - philosophy
 title: 利用图技术连接点滴：上下文工程、检索模式与代理记忆
 ---
-
 ### 引言：利用图技术赋能AI应用
 
 大家好，欢迎来到AI工程师代码峰会上的我的演讲。我将探讨如何利用**图技术**（Graph Technology: 一种以图形结构存储数据的方法，用于表示实体之间的关系）连接数据点，并解决诸如**上下文工程**（Context Engineering: 为AI模型提供相关、结构化信息以优化其输出的过程）、改进检索模式以及**代理记忆**（Agentic Memory: AI代理存储和检索信息以支持长期交互和决策的能力）等问题。

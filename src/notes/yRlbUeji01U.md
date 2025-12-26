@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies:
 - rearmament
@@ -15,9 +15,7 @@ media_books:
 - 《金钱的魔力》
 people:
 - Adolf Hitler
-project:
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=yRlbUeji01U
 speaker: Money & Macro
@@ -31,7 +29,6 @@ tags:
 - war
 title: 纳粹德国的经济奇迹：沙赫特的非常规手段如何推动战争
 ---
-
 ### 纳粹德国的“经济奇迹”：从萧条到重整军备
 
 1933年，柏林在全球经济大萧条的重创下，德国30%的劳动年龄人口失业，排队领取救济金的施粥所随处可见。然而，时间快进到1939年的柏林，希特勒生日当天，德国的失业率已接近0%，救济站消失了。取而代之的是希特勒的新军队，拥有数千辆最先进的坦克、榴弹炮、半挂卡车以及数百架现代战斗机和轰炸机。这支军队很快就羞辱了比利时、荷兰、北欧、波兰、英国和法国的军队。尽管德国获取铁矿石、橡胶和石油等关键原材料的渠道有限，但这支军队几乎是在六年的时间里从零开始建立起来的。这种看似不可能的转变，这种抵御如此巨大破坏的经济奇迹并非偶然。

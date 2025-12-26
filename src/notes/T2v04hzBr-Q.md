@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-06-14'
@@ -16,10 +16,7 @@ people:
 - Hegel
 - Kant
 products_models: []
-project:
-- personal-growth-lab
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T2v04hzBr-Q
 speaker: Anthony看世界
@@ -33,7 +30,6 @@ tags:
 - self-awareness
 title: 自由意志是幻觉吗？哲学与科学视角下的决定论探讨
 ---
-
 ### 自由意志的困境：虚无感与决定论
 
 大家好，我是Anthony，欢迎来到我的频道。今天我想和大家聊一个有趣的哲学话题：我们真的拥有**自由意志**（Free Will: 能够自主选择和行动的能力）吗？

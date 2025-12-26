@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - TVO Today
@@ -22,10 +22,7 @@ people:
 - Jeremy Bentham
 - Bill Davis
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=HSDqaWdE3kQ
 speaker: TVO Today
@@ -39,7 +36,6 @@ tags:
 - public-service
 title: 安大略省前省长道尔顿·麦金蒂的政治生涯与领导力反思
 ---
-
 ### 引言：政治生涯的回顾
 
 主持人: 安大略省的前**省长**（Premier: 加拿大省份的政府首脑）们是否仍然坚持他们赖以成名的政策？《省长档案》节目将探讨所有这些以及更多内容。

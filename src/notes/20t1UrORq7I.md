@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - WorkOS
@@ -22,9 +22,7 @@ products_models:
 - Midjourney
 - ChatGPT
 - Gemini Flash
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=20t1UrORq7I
 speaker: How I AI
@@ -38,7 +36,6 @@ tags:
 - vibe-coding
 title: AI赋能：用Lovable、Midjourney和ChatGPT打造专属感恩节派对中心
 ---
-
 ### 欢迎来到《How I AI》
 
 欢迎回到《How I AI》，我是Clarvo，一名产品负责人和AI狂热者，肩负着帮助大家利用这些新工具更好地进行构建的使命。

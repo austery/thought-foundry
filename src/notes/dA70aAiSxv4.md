@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - a16z
@@ -50,10 +50,7 @@ people:
 - Harry Truman
 - Jimmy Kimmel
 products_models: []
-project:
-- us-analysis
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dA70aAiSxv4
 speaker: a16z
@@ -66,7 +63,6 @@ tags:
 - societal
 title: 从《好莱坞往事》到《搏击俱乐部》：电影如何成为解读美国的钥匙
 ---
-
 ### 电影中的好莱坞：解读美国的棱镜
 
 >> 很高兴 Modern the Situation 团队再次回归，带来新一期的电影节目。马克，感谢再次加入。

@@ -14,9 +14,7 @@ layout: post.njk
 people:
 - Thomas Edison
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T1kQFz2kbZ0
 speaker: Norges Bank Investment Management
@@ -30,7 +28,6 @@ tags:
 - risk-management
 title: 斯坦福大学捐赠基金的投资成功三支柱：策略、执行与治理
 ---
-
 ### 斯坦福大学及投资概览
 
 非常感谢 Tron 先生的盛情介绍。很高兴今天能与大家相聚，我将分享一个我经常在斯坦福大学思考和管理**斯坦福捐赠基金**（Stanford Endowment Fund: 一种为大学、医院等非营利机构提供长期资金支持的投资组合）时使用的框架。这个框架主要关注我们必须做对的三件事，如果想让斯坦福大学在长期内取得成功，就必须做好这三件事。我称它们为投资成功的三大支柱：策略、执行和治理。

@@ -1,5 +1,5 @@
 ---
-area: personal-growth
+area: "life-family"
 category: lifestyle
 companies_orgs: []
 date: '2025-10-11'
@@ -24,7 +24,6 @@ tags:
 - society
 title: 警钟为年轻男性敲响：我们听到了吗？
 ---
-
 ### 引言：社会对年轻男性的偏见与困惑
 
 One of the things I've noticed is that people are quite quick to blame if young men are struggling, if they're not in the labor market.

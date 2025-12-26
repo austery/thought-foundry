@@ -10,9 +10,7 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ogwjRtyZIrM
 speaker: Bloomberg Podcasts
@@ -24,7 +22,6 @@ tags:
 - housing-market
 title: 新西兰财政部长尼古拉·威利斯：重塑经济基础与未来愿景
 ---
-
 ### 新西兰经济现状与政府应对
 
 Rebecca Jones: 大家好，我是Rebecca Jones。您将要听到本月早些时候在新西兰奥克兰现场录制的一集特别奖励剧集。是的，我知道这是澳大利亚播客，但目前该地区很少有经济体像新西兰一样受到如此密切的关注。我们的太平洋邻国正在应对通胀压力、生产力挑战和不断变化的全球环境，这就是为什么您即将听到的对话如此及时。新西兰财政部长兼国家党副领袖尼古拉·威利斯在挤满观众的现场接受了我们惠灵顿分社社长马修·布罗克特(Matthew Brockett)的现场采访。以下是她所说的话。

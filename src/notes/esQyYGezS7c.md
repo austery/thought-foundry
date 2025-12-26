@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - National Institute of Standards and Technology
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Snatoms
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=esQyYGezS7c
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - technology
 title: 世界运转的基石：那些昂贵而奇特的标准参考物质
 ---
-
 ### 奇特的政府仓库与日常物品的秘密
 
 本视频的部分内容由Google Domains赞助。

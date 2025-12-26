@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: productivity
 companies_orgs:
 - TSMC
@@ -20,10 +20,7 @@ people:
 - James Clear
 - Gandhi
 products_models: []
-project:
-- personal-growth-lab
-- knowledge-pipeline
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=LwhnC8wFN_o
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -37,7 +34,6 @@ tags:
 - reading-habit
 title: 从台积电主管到全职自媒体：瓦基的阅读、习惯与复利人生
 ---
-
 ### 职业转折点：一场意外促成的深思
 
 放弃在**台积电**（TSMC: 全球领先的半导体制造公司）的经理职位，转而踏上这条新道路，这一定经历了一番巨大的内心挣扎，对吗？

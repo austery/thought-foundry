@@ -1,5 +1,5 @@
 ---
-area: digital-garden
+area: "knowledge-meta"
 category: productivity
 companies_orgs: []
 date: '2023-10-13'
@@ -8,11 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- knowledge-pipeline
-- personal-growth-lab
-- pkm-research
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5kNCcpM61eo
 speaker: 一口新飯
@@ -26,7 +22,6 @@ tags:
 - productivity
 title: 警惕效率陷阱：你真的需要“第二大脑”或“个人知识库”吗？
 ---
-
 ### “第二大脑”的普遍误解
 
 如果关注个人效率提升，你一定听说过“打造**第二大脑**”（Second Brain: 一种通过数字笔记系统来存储、整理和利用个人知识的方法）的说法。然而，很多人对此的理解可能存在偏差。按照这些误解来打造的“第二大脑”，并不能真正帮助提升效率，你也不需要一个所谓的“个人知识库”。

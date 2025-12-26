@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - ISIS
@@ -16,10 +16,7 @@ media_books:
 people:
 - Einstein
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=lOwjw1Ja83Y
 speaker: 柴静 Chai Jing
@@ -33,7 +30,6 @@ tags:
 - security
 title: 欧洲本土恐怖主义的弗兰肯斯坦怪物：从宽容到失控的警示
 ---
-
 ### 极端主义的蔓延：一个没有单一首脑的病毒
 
 认为所有这些运动都由一个首脑控制是一种错误。这就像我们打开了一个装有病毒的盒子，病毒就跑了出来，它就像流感一样。所以，即使**伊斯兰国**（ISIS: Islamic State of Iraq and Syria，一个活跃在中东及其他地区的**圣战**组织）被击败了，但这种意识形态依然存在。**伊斯兰国**的思想真实地存在于人们的头脑中，无处不在。然而，真正的挑战在于它能否承受来自内部的持续张力。

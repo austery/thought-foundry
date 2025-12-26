@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - New York Times
@@ -15,8 +15,7 @@ people:
 - Anna Martin
 - Amy
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6_lld_LKcPY
 speaker: New York Times Podcasts
@@ -29,7 +28,6 @@ tags:
 - psychology
 title: 节日季情绪工具箱：应对家庭挑战，拥抱感恩与疗愈
 ---
-
 ### 节日季的复杂情感
 
 **Anna Martin:** 大家好，我是《纽约时报》的安娜·马丁。这里是“摩登爱情”（Modern Love）节目，节日季已经来临。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Brilliant
@@ -13,9 +13,7 @@ media_books:
 - The Last Economy
 people:
 - Johannes Kepler
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=evUfG3lrk5U
 speaker: veritasium
@@ -28,7 +26,6 @@ tags:
 - supernovum
 title: 如果恒星在地球附近爆炸会怎样？超新星、伽马射线暴及其对生命的影响
 ---
-
 ### 恒星爆炸的惊人力量与超新星的诞生
 
 如果一颗恒星在地球附近爆炸，会发生什么？

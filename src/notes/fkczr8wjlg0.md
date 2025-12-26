@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 抖音
@@ -16,10 +16,7 @@ people:
 - 雨白
 products_models:
 - 王者荣耀
-project:
-- china-analysis
-- cultural-critique
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fkczr8wjlg0
 speaker: 知行小酒馆
@@ -33,7 +30,6 @@ tags:
 - work-life-balance
 title: 爱的稀缺：当代人的隐形贫困与情感消费的兴起
 ---
-
 ### 当代社会的悖论：爱的需求与供给失衡
 
 欢迎来到知行小酒馆，这是一档由知有行出品的播客节目，我们关注投资，更关注如何更好地生活。

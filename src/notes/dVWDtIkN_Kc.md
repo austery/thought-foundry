@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Meta
@@ -29,10 +29,7 @@ products_models:
 - B100
 - ChatGPT-5
 - AGI
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dVWDtIkN_Kc
 speaker: 北美王路飞
@@ -46,7 +43,6 @@ tags:
 - technology
 title: 揭秘“影子债务”：AI热潮下的金融泡沫与隐性风险
 ---
-
 ### AI热潮：历史的重演还是新时代的黎明？
 
 一种新技术将改变一切，它正在比计算机时代更彻底地改变文化、经济与政治，一种新的经济正在出现，基于一个**普罗米修斯之光**（Prometheus's Light: 指代带来巨大变革但可能伴随风险的新技术或发现）的新领域。这段话出自2000年末，作者是当时炙手可热的科技预言家乔治·吉尔德。他所说的普罗米修斯之光不是**AI**（Artificial Intelligence: 人工智能），也不是**原宇宙**（Metaverse: 虚拟现实世界），而是光纤电缆。吉尔德的逻辑在当时看起来无懈可击：信息高速公路正在铺设，互联网将连接所有人。他创办投资简报，推荐了大量电信公司股票。然而，几个月后，电信行业崩溃，整个行业损失了5000亿美元，超过200家公司破产，一些高管锒铛入狱。这5000亿美元的普罗米修斯之光亮到刺眼，亮到致盲。

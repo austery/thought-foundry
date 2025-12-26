@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 companies_orgs:
 - Caltech
@@ -15,9 +15,7 @@ people:
 - Max Born
 - Einstein
 - Sean Carroll
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=kTXTPe3wahc
 speaker: veritasium
@@ -32,7 +30,6 @@ tags:
 - superposition
 title: 平行世界可能存在：量子力学多世界诠释的逻辑与一致性
 ---
-
 ### 经典与量子：测量之谜
 
 本视频的一部分由诺顿360（Norton 360）赞助。

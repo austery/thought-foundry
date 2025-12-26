@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2024-11-13'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ROTsjKmvr5s
 speaker: 一口新飯
@@ -23,7 +21,6 @@ tags:
 - psychology
 title: 为什么你搞不定“钱的问题”？《金钱成熟的七个阶段》揭示你的底层金钱故事
 ---
-
 ### 金钱问题的深层根源
 
 作为一名财经博主，我曾以为人们在金钱上遇到问题，是由于缺乏财务知识和勇气。然而，我逐渐意识到这种看法是错误的。我发现，仅有知识远远不够，而直面金钱的勇气也并非易事。我们每个人背后似乎都存在一个底层的**金钱故事**（Money Story: 个人与金钱关系的核心叙事，由早年经历和信念塑造），它决定了我们与金钱的关系。想要真正解决金钱问题，意味着我们需要去改变这个故事的脚本。

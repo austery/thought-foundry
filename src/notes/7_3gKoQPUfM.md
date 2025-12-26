@@ -19,9 +19,8 @@ insight: ''
 draft: true
 series: ''
 category: work-related
-area: tech-work
-project:
-  - ai-impact-analysis
+area: "work-career"
+project: []
 people:
   - Tony Hinchcliffe
   - Jason Calacanis

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 中国联通
@@ -14,9 +14,7 @@ media_books:
 products_models:
 - Wifi盒子
 - Wifi机
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=VtnRxQK7fEQ
 speaker: 莊也雜談
@@ -29,7 +27,6 @@ tags:
 - travel
 title: 首次过境台湾：桃园机场初体验与台北西门町漫步
 ---
-
 ### 回国探亲系列开篇：台湾转机初体验
 
 哈喽大家好，我是庄也。今天咱们来一集闲聊天节目。估计很多人发现，庄也杂谈在班夫系列结束之后，断更了将近一个月。有不少铁粉在留言区问我，是不是停更了，是不是生病了，或者是因为说话太啰嗦被别人揍了。哈哈哈，今天咱们就统一回复一下。其实理由很简单，停了这么久的原因是我回国休假了三周时间，从9月16号到10月7号。再加上之前的行李准备，回来之后不是还要倒时差吗？还要忙一些被耽搁了的工作，还有整理一些拍摄的资料。这前前后后加起来可不就是一个月的时间吗？

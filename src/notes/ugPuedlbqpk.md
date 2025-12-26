@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Bloomberg
@@ -16,9 +16,7 @@ people:
 - Paul McCartney
 products_models:
 - Perplexity
-project:
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ugPuedlbqpk
 speaker: Bloomberg Podcasts
@@ -31,7 +29,6 @@ tags:
 - management
 title: 创业公司倒闭后，幕后发生了什么？一位破产顾问的深度揭秘
 ---
-
 ### 创业公司失败：被忽视的常态
 
 欢迎收听Odd Lots播客的又一期节目。我是Jill Weisenthal。

@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: career
 companies_orgs: []
 date: '2025-11-15'
@@ -10,8 +10,7 @@ layout: post.njk
 media_books:
 - live overflow
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BtFwjuPZIX0
 speaker: Peter Pang
@@ -25,7 +24,6 @@ tags:
 - skill
 title: 简历中非技术项目、学校经历与个人小项目：如何有效展示你的“六边形”价值
 ---
-
 ### 非技术项目在简历中的价值
 
 有听众提问：我的小领导让我去出差，我负责了一个市场部门的项目，需要去现场。这个项目可能持续半个月到一个月，虽然时间不长，但最终取得了客户的认可。我是否需要把这样的项目写进简历？我担心它可能更多地体现了我能吃苦耐劳的一面，却无法展现我的技术技能，所以我在乎这个问题。

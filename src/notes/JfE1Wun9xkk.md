@@ -10,8 +10,7 @@ insight: ''
 layout: post.njk
 media_books: []
 people: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=JfE1Wun9xkk
 speaker: a16z
@@ -22,7 +21,6 @@ tags:
 - energy
 title: Sam Altman谈Sora、能源与构建AI帝国
 ---
-
 ### AI发现的奇迹与进步
 
 I sort of thought we had stumbled on this one giant secret: that we had these scaling laws for language models. That felt like such an incredible triumph. I was like, "We're probably never going to get that lucky again." And deep learning has been this miracle that keeps on giving, and we have kept finding breakthrough after breakthrough. Again, when we got the reasoning model breakthrough, I also thought that was like, "We're never going to get another one like that." And it just seems so improbable that this one technology works so well. But maybe this is always what it feels like when you discover one of the big scientific breakthroughs. If it's really big, it's pretty fundamental and it just keeps working.

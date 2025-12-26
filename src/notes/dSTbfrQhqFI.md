@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Nvidia
@@ -40,10 +40,7 @@ products_models:
 - QQQ
 - TQQQ
 - GCP
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=dSTbfrQhqFI
 speaker: Amit Kukreja
@@ -57,7 +54,6 @@ tags:
 - retail-investor-sentiment
 title: 英伟达回应谷歌挑战，降息预期升温，零售股反弹：市场动态解析
 ---
-
 ### 市场概览与英伟达的回应
 
 大家好，欢迎回到本频道。我们再次带来每日回顾节目，今天有很多内容要讨论。英伟达（**Nvidia**）正式回应了谷歌（**Google**）的挑战。

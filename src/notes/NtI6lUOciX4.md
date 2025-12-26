@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs: []
 date: '2025-08-18'
@@ -16,10 +16,7 @@ people:
 - 鲁迅
 - 莎士比亚
 products_models: []
-project:
-- personal-growth-lab
-- historical-insights
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=NtI6lUOciX4
 speaker: 一席YiXi
@@ -33,7 +30,6 @@ tags:
 - self-awareness
 title: 青春叛逆期：一场被误解的自我觉醒之旅
 ---
-
 ### 青春叛逆：一场被误解的自我觉醒
 
 大家好，我是杜素娟。在华东政法大学教书二十六年，也是一名关注青少年成长的B站UP主。今天我想和大家探讨一个我们耳熟能详、却充满误解的话题——“青春叛逆期”。

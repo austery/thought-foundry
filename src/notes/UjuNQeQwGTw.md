@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 date: '2025-10-02'
 draft: true
@@ -8,8 +8,7 @@ insight: ''
 layout: post.njk
 people:
 - 鄧雯心醫師
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=UjuNQeQwGTw
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -23,7 +22,6 @@ tags:
 - weight-management
 title: 精油如何助你擺脫情緒性肥胖？醫師揭秘嗅覺與腦部連結
 ---
-
 ### 情緒與肥胖的深層連結
 
 **鄧雯心醫師:** 其實我們會發現，許多小時候曾被霸凌的人，特別容易出現**病態肥胖**（Morbid Obesity: 指身體質量指數BMI超過40，或BMI超過35且伴有嚴重肥胖相關併發症）的狀態。如果被霸凌的創傷沒有被解決，即便他們努力改善飲食、增加運動，體重確實減輕了，但情緒可能並未真正平復，維持這種狀態會非常辛苦。

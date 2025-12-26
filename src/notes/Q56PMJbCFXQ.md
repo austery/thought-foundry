@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: technology
 companies_orgs:
 - Veritasium
@@ -17,9 +17,7 @@ media_books:
 - BBC
 products_models:
 - Saily
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=Q56PMJbCFXQ
 speaker: veritasium
@@ -33,7 +31,6 @@ tags:
 - wind-load
 title: 学生提问如何拯救了纽约花旗中心摩天大楼
 ---
-
 ### 纽约花旗中心：一场被学生提问揭示的工程危机
 
 这里是**花旗中心**（Citicorp Center: 位于纽约曼哈顿的一座摩天大楼）。

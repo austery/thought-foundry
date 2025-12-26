@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - CBC
@@ -13,9 +13,7 @@ people:
 - Pierre Poilievre
 - Justin Trudeau
 products_models: []
-project:
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=KnSh-gcYP68
 speaker: 大伟探秘加拿大
@@ -30,7 +28,6 @@ tags:
 - strategy
 title: 加拿大政坛风暴：卡尼政府预算案的“特洛伊木马”策反战术
 ---
-
 ### 加拿大联邦大选后的政治挑战
 
 我们都知道，加拿大在2025年4月进行了一次提前的联邦大选。如今，**少数执政党**（Minority Government: 指在议会中未获得绝对多数席位的执政党）的卡尼政府即将面临上台后的第一个生死存亡的挑战，即年度财政预算能否通过议会的批准。如果预算案未能通过，则意味着政府失去了议会的信任，政府将立即倒台，加拿大也将再次面临大选。前几天，我们详细分析了预算案的具体内容。今天，我们将深入探讨一场正在发生的政治风暴，这不仅仅关乎预算案的投票，更是一场关于卡尼少数政府如何绝地求生的豪赌，一出关于精准策反与党派瓦解的教科书式案例。

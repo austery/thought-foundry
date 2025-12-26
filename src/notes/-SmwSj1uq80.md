@@ -17,8 +17,7 @@ draft: true
 series: ''
 category: politics-society
 area: society-thinking
-project:
-  - china-analysis
+project: []
 people:
   - 林剑
   - 毛泽东

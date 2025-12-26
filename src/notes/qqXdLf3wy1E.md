@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - YouTube
@@ -12,9 +12,7 @@ insight: ''
 layout: post.njk
 products_models:
 - BERT
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qqXdLf3wy1E
 speaker: AI Engineer
@@ -27,7 +25,6 @@ tags:
 - system
 title: 智能体亦是机器人：自动驾驶对构建智能体的启示
 ---
-
 ### 引言：智能体与机器人学的共通之处
 
 大家好。

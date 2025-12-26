@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Cato Institute
@@ -13,9 +13,7 @@ people:
 - Howard Lutnick
 products_models:
 - H-1B visa
-project:
-- us-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_FsEfIbP2BI
 speaker: 大伟探秘加拿大
@@ -29,7 +27,6 @@ tags:
 - us-immigration-policy
 title: 美国H-1B签证改革：十万美元年费冲击波与全球人才竞争
 ---
-
 ### H-1B签证改革：政策核心与影响
 
 2025年9月19日，美国总统唐纳德·特朗普签署了一项行政令，将对**H-1B签证**（H-1B Visa: 美国为引进外国专业技术人才设置的一种非移民工作签证）申请征收每年10万美元的政府费用。白宫椭圆形办公室里，特朗普在签署文件后对记者表示，美国将迎来优秀的人才，而且他们会因此付费，这笔钱将用于减税和偿还国债。

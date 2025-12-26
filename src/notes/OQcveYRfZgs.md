@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 author: All-In Podcast
 category: finance
 companies_orgs: []
@@ -9,10 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=OQcveYRfZgs
 speaker: all-in-podcast
@@ -26,7 +23,6 @@ tags:
 - stock-market-crash
 title: 1929与2025：从历史泡沫到未来挑战
 ---
-
 ### 新书《1929》引发的讨论
 
 Jason: Hey, Sorcin. I just went through the comments. The one question keeps coming up over again. "Why the are you writing this book? Jesus Christ. What a party pooper."

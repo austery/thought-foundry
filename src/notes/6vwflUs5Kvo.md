@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 新华社
@@ -23,10 +23,7 @@ people:
 - 潘功胜
 products_models:
 - TikTok
-project:
-- us-analysis
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=6vwflUs5Kvo
 speaker: LT視界
@@ -40,7 +37,6 @@ tags:
 - us-china-relations
 title: 川习会前瞻：中美贸易八大议题与中国经济数据解读
 ---
-
 ### 中美关系与川习会前瞻
 
 今天我们来分享热点透视，首先了解中美关系或中美贸易战在周末双方达成框架协议之后的最新局势发展。

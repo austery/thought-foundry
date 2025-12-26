@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - EPA
@@ -15,10 +15,7 @@ media_books:
 - Nature
 - The Monsanto Papers
 - Seed Money
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CxVXvFOPIyQ
 speaker: veritasium
@@ -32,7 +29,6 @@ tags:
 - scientific
 title: 孟山都的黑暗遗产：除草剂、转基因种子与企业垄断的代价
 ---
-
 ### 农业巨头的阴影：从谋杀到垄断
 
 2016年10月的一个傍晚，阿肯色州的一位农民坐在他的皮卡车里，就在田地外面，他变得越来越不耐烦。

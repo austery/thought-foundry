@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 date: '2021-11-01'
 draft: true
@@ -14,9 +14,7 @@ people:
 - Louis de Broglie
 products_models:
 - Gemini Flash
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=cUzklzVXJwo
 speaker: veritasium
@@ -30,7 +28,6 @@ tags:
 - technology
 title: 虚数如何被发明：从三次方程到量子物理的数学之旅
 ---
-
 ### 数学与现实的脱离：虚数的诞生
 
 数学最初是为了量化我们的世界而诞生的，例如测量土地、预测行星运动以及记录商业交易。

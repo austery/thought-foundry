@@ -11,9 +11,7 @@ layout: post.njk
 people:
 - 投资talk君
 products_models: []
-project:
-- investment-strategy
-- us-analysis
+project: []
 series: null
 source: https://www.youtube.com/watch?v=Feck2fSffmI&t
 speaker: ''
@@ -23,7 +21,6 @@ tags:
 - risk-management
 title: 穿越周期的智慧：美股价值投资的核心法则
 ---
-
 ## 开场白与嘉宾介绍
 
 **主持人:**

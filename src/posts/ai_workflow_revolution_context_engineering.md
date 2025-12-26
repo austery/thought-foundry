@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: null
@@ -18,9 +18,7 @@ people:
 - Betty
 - Alex
 products_models: []
-project:
-- ai-impact-analysis
-- vibe-coding
+project: []
 series: null
 source: null
 speaker: ''
@@ -33,7 +31,6 @@ tags:
 - 生产力
 title: 从Context Engineering 到无限制创作,Vibe Coding的社区0725
 ---
-
 ## 开场与初体验
 
 张敏: Hello, Chloe。Hello, long change。早上好，你们是在国内吗？Chloe 是在国内。Hello, 我来邀请一下 Betty。哎哟，克洛伊拒绝我了，上来聊聊呗。

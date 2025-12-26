@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - Harvard Business Review
@@ -15,10 +15,7 @@ media_books:
 people:
 - Adi Ignatius
 - Mark Zuckerberg
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=g7S6MMcYM6k
 speaker: Harvard Business Review
@@ -32,7 +29,6 @@ tags:
 - society
 title: 如何成为更快乐的领导者：幸福的四大支柱与职场迷思
 ---
-
 ### 幸福的四大习惯：你的“幸福养老金计划”
 
 有四种重要的习惯，最快乐的人每天都在践行。这可以被称为“幸福养老金计划”，是你每天存入的“存款”，也是你需要关注的事情。

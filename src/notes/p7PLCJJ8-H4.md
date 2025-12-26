@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - Anthropic
@@ -18,9 +18,7 @@ people:
 - Immanuel Kant
 products_models:
 - Claude 3 Opus
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=p7PLCJJ8-H4
 speaker: Best Partners TV
@@ -35,7 +33,6 @@ tags:
 - philosophy
 title: AI的灵魂拷问：哲学家如何塑造Claude的性格与道德
 ---
-
 ### 引言：AI的形而上学视角
 
 大家好，这里是最佳拍档。今天这期视频，我想带大家从一个非常特别，甚至可以说有点“形而上”（Metaphysical: 超越物理世界，探讨存在、本质、价值等根本问题的哲学分支）的视角，来重新审视我们每天都在使用的人工智能。通常当我们谈论AI的时候，我们谈论的是参数、是算力、是基准测试的跑分。但是今天，我们要把视线从冰冷的服务器机房，移向旧金山那个可以看到金门大桥的海岸边。在那个海风吹拂的长椅上，发生了一场可能定义未来AI“灵魂”的对话。对话的主角是Anthropic公司的核心人物之一，阿曼达·阿斯克尔（Amanda Askell）。但她不是程序员，也不是数学家，她是一名哲学家。是的，你没听错，一家最顶尖的AI公司聘请了一位全职哲学家来塑造他们产品的核心。这听起来像是一个科幻小说的开头，但却是正在发生的现实。而今天，我将带大家拆解这场对话背后，那些关于AI性格、道德、甚至生存权利的深刻思考。

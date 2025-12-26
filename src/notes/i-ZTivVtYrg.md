@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Evercore ISI
@@ -23,10 +23,7 @@ people:
 - Donald Trump
 - Nassim Nicholas Taleb
 products_models: []
-project:
-- geopolitics-watch
-- us-analysis
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=i-ZTivVtYrg
 speaker: Bloomberg Podcasts
@@ -41,7 +38,6 @@ tags:
 - war
 title: 地缘政治分析师如何预测战争结果：洞察市场与国家策略
 ---
-
 ### 地缘政治分析的挑战与必要性
 
 **Bloomberg:** 大家好，欢迎收听《Odd Lots》播客的又一期节目。我是Tracy Alloway。

@@ -17,10 +17,7 @@ people:
 - Tracy Aloway
 - Donald Trump
 - Jerome Powell
-project:
-- us-analysis
-- geopolitics-watch
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fyEoxrmITjo
 speaker: Bloomberg Podcasts
@@ -34,7 +31,6 @@ tags:
 - technology
 title: 如何为后美元世界做准备：Inigo Fraser Jenkins 探讨全球经济转型
 ---
-
 ### 美元作为全球金融支柱的挑战
 
 **Jill:** 大家好，欢迎收听新一期的 OddLots 播客。我是 Jill Weisenthal。

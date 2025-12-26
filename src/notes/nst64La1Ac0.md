@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 统计局
@@ -16,9 +16,7 @@ media_books:
 people:
 - Xi Jinping
 products_models: []
-project:
-- china-analysis
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=nst64La1Ac0
 speaker: 小翠時政財經
@@ -32,7 +30,6 @@ tags:
 - labor
 title: 中国经济的“反内卷”运动：数据面子工程与“人矿经济学”的残酷真相
 ---
-
 ### 中国经济数据与“反内卷”运动的表象
 
 大家好，欢迎回到小翠时政财经。今天我们要来关注中国经济的话题。三季度的中国经济数据已经出炉，**GDP**（Gross Domestic Product: 衡量一个国家或地区经济活动总量的指标）增长4.8%，统计局对此大唱赞歌。大家还记得三季度中国宏观经济的重头戏是什么吗？是不是“反内卷”运动？现在统计局告诉我们，三季度工业产能利用率回升了，**PPI**（Producer Price Index: 生产者物价指数，衡量工业企业产品出厂价格变动指标）曲线也向上抬头了，企业也保证不再打价格战了。感觉好像中国的“反内卷”运动已经获得了极大的成功，至少官方数据就是这么体现的。那么，这真的是真相吗？别急，这期节目就来给大家揭秘中国发动“反内卷”运动背后的残酷真相。

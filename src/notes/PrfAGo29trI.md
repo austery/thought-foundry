@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: lifestyle
 companies_orgs:
 - Cofit
@@ -12,8 +12,7 @@ layout: post.njk
 people:
 - 宋晏仁医师
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=PrfAGo29trI
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
@@ -24,7 +23,6 @@ tags:
 - loss
 title: 体态被评论后的健康蜕变：我的Cofit饮食管理与人生重塑之旅
 ---
-
 ### 职业挑战与健康危机：从美食博主到身心俱疲
 
 作为一名美食开箱博主，我几乎每个礼拜都要拍摄两次，时间很不固定，有时甚至会拍到半夜，就是一直吃。这些食物，天啊，就是害我胖了20公斤的“凶手”。为了流量和讨观众欢心，我有时不得不刻意去吃一些自己不想吃的东西。我非常专心地投入工作，不知不觉中，当我发现问题时，就已经来不及了。

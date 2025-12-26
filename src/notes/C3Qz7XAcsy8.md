@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs: []
 date: '2025-03-29'
@@ -23,10 +23,7 @@ people:
 - 李安
 - 莫言
 products_models: []
-project:
-- china-analysis
-- us-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=C3Qz7XAcsy8
 speaker: 張内咸
@@ -39,7 +36,6 @@ tags:
 - us-china-relations
 title: 身份、立场与认知的交锋：从中国失业潮到《别告诉她》的文化反思
 ---
-
 ### 中国社会观察：从经济回暖到失业潮的困境
 
 我是张内咸，又和大家见面了。2023年疫情刚结束时，许多人对中国经济抱有很强的信心，这不仅是受官方宣传影响，很多人真心认为只要解除封控，经济就会好转。因此，2023年确实经历了一段回暖期。然而，转眼到了2024年，许多人开始发现情况不妙，各行各业似乎都在崩溃。作为80后，像我们这个年龄段的人，基本上都失业了。没有失业的话，你又能做什么呢？那些糟糕的职业选择，比如所谓的“铁人三项”、“吉祥三保”或“创业跳楼三部曲”，反正没有一条好路是留给你的。

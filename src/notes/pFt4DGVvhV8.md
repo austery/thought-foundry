@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
@@ -18,10 +18,7 @@ people:
 - Kristin Halvorsen
 - Donald Trump
 products_models: []
-project:
-- geopolitics-watch
-- investment-strategy
-- china-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=pFt4DGVvhV8
 speaker: Norges Bank Investment Management
@@ -35,7 +32,6 @@ tags:
 - society
 title: 加速气候行动：私营资本、电网现代化与全球合作的挑战
 ---
-
 ### 加速气候行动的紧迫性与挑战
 
 我有很多问题，但我想我只提一个主要问题，因为你们都告诉了我们所需的一切，我们也知道需要什么，并且我们知道我们正朝着正确的方向前进，无论是在欧洲还是在美国（尽管美国进展不大，但特朗普能造成的损害是有限的）。然而，我们需要加快速度。那么，我们应该怎么做才能加速呢？拉加德女士，请您先发言。

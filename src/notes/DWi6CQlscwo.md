@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Micron
@@ -15,10 +15,7 @@ media_books:
 people:
 - 李录
 products_models: []
-project:
-- investment-strategy
-- market-cycles
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=DWi6CQlscwo
 speaker: Shijun Tang
@@ -33,7 +30,6 @@ tags:
 - semiconductor-cycle
 title: 美光科技财报暴增与寡头垄断：一场AI驱动的半导体周期反转
 ---
-
 ### 美光科技财报暴增与股价突破
 
 大家好，欢迎回到我的频道。最近美光科技（Micron）发布了最新的财报。要知道我住在澳洲，财报发布当天其实我在睡觉；等我第二天早上醒来，简直是被吓了一大跳——美光股价在盘后直接拉出一根“God Candle”（神之蜡烛），捅破了天际。我立刻在Twitter上表达了震惊。

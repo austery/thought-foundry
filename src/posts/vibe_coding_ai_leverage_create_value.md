@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 author: Lei
 category: technology
 channel: ''
@@ -17,10 +17,7 @@ people:
 - Mike
 - Remy
 products_models: []
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- vibe-coding
+project: []
 series: ''
 source: ''
 speaker: 用AI發電
@@ -32,7 +29,6 @@ tags:
 - 社群运营
 title: 'Vibe Coding: 人人都能利用AI杠杆创造价值'
 ---
-
 ## 新平台测试与成员见面
 
 Ray: 他默认打开之后，就像咱们普通直播一样，必须邀请才能上来。当被邀请为 **co-host** (共同主持人) 后，总共可以上来五十个人。Cirina，我邀请你了，收到了吗？

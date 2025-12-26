@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: geopolitics
 companies_orgs:
 - 苹果
@@ -15,10 +15,7 @@ media_books:
 - 《阿甘经济宏观论》
 people:
 - 刘鹤
-project:
-- us-analysis
-- market-cycles
-- investment-strategy
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=8XOfRba4wro
 speaker: 海淀拙大叔
@@ -32,7 +29,6 @@ tags:
 - war
 title: 阿甘经济宏观论：印巴冲突的深层逻辑与军工投资机会
 ---
-
 ### 印巴冲突：长期战争的实质与军工股的再思考
 
 《阿甘经济宏观论》第18集将探讨印巴冲突，并分析其可能演变为长期战争的趋势，同时讨论军工股是否值得长期投资。过去，军工股并不被看好，主要原因有二：一是军工股的毛利率通常固定，因为其客户单一；二是军工股的需求增长难以预测。然而，此次印巴冲突之后，军工产业值得重新审视。

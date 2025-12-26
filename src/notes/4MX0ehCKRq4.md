@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies:
 - ai-sycophancy
@@ -25,10 +25,7 @@ products_models:
 - ChatGPT
 - Excel
 - Notion
-project:
-- ai-impact-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4MX0ehCKRq4
 speaker: TVO Today
@@ -41,7 +38,6 @@ tags:
 - misinformation
 title: AI的信任危机：从社交媒体的教训看AI的幻觉与谄媚
 ---
-
 ### 社交媒体的昨日与AI的今日：一场跨越时空的对话
 
 **Alex:** 嘿，Viv。我有个主意，我们可以玩一场角色扮演。我来扮演2025年的Alex，这很方便，因为我本来就是。你来扮演2005年的Alex，那个对社交媒体充满狂热的人。

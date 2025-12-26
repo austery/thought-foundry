@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Meta
@@ -26,10 +26,7 @@ products_models:
 - GPT-4 Turbo
 - GPT-5
 - ChatGPT
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=gE0ShFMArsI
 speaker: How I AI
@@ -43,7 +40,6 @@ tags:
 - society
 title: CEO如何将2.5万小时销售电话转化为自学习市场策略引擎
 ---
-
 ### 销售团队的痛点与数据宝藏
 
 我的公司销售团队一直告诉我，他们不知道如何找到任何信息，不知道客户对什么感兴趣。

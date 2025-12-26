@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: psychology
 companies_orgs:
 - NASA
@@ -11,9 +11,7 @@ layout: post.njk
 media_books:
 - How Much Does a Shadow Weigh?
 - 60-minutes interview
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3LopI4YeC4I
 speaker: veritasium
@@ -27,7 +25,6 @@ tags:
 - social-inequality
 title: 为什么自欺欺人是一种超能力：成功、运气与偏见
 ---
-
 ### 自我中心偏误：我们都觉得自己贡献最大
 
 在新冠疫情封锁期间，一条新闻标题曾迅速走红：

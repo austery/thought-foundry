@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - People's Daily
@@ -13,10 +13,7 @@ media_books:
 people:
 - Mao Zedong
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=T3KNmFXr5a0
 speaker: Anthony看世界
@@ -30,7 +27,6 @@ tags:
 - technology
 title: 中国社会“猎巫”思维的底层逻辑：从概念异化到无尽内斗
 ---
-
 ### 中国社会“猎巫”心态的深层逻辑
 
 大家好，我是Anthony。欢迎来到我的频道。在今天的视频中，我想和大家聊聊为什么“**猎巫心态**”（Witch Hunt Mentality: 一种通过指责和迫害异见者来维护自身纯洁性或权力地位的社会现象）在中国社会如此盛行，以及它背后的底层逻辑是什么。

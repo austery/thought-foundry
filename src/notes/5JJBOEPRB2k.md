@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - New York Stock Exchange
@@ -47,10 +47,7 @@ people:
 - Michael Saylor
 products_models:
 - Bitcoin
-project:
-- investment-strategy
-- historical-insights
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5JJBOEPRB2k
 speaker: Bloomberg Podcasts
@@ -64,7 +61,6 @@ tags:
 - market-speculation
 title: 1929大崩盘：历史的回响与今日的警示——安德鲁·罗斯·索尔金新书访谈
 ---
-
 ### 1929年大崩盘：技术滞后与市场狂热
 
 **Joe Weisenthal:** 1929年，一个重大的技术问题是纽约证券交易所（**New York Stock Exchange**：美国最大的股票交易所）的“**大盘**”（Big Board：指交易所的报价板）经常会滞后数小时。所以，你可能看着报价板，以为自己知道股票的价格，但实际上它已经滞后了几个小时。这还是在你亲身在交易所大厅的情况下。

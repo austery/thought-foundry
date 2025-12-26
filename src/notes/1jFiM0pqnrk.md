@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Tesla
@@ -133,10 +133,7 @@ products_models:
 - Optimus
 - iOS
 - Apple Pay
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=1jFiM0pqnrk
 speaker: Amit Kukreja
@@ -149,7 +146,6 @@ tags:
 - market-volatility
 title: 巴菲特建仓谷歌引爆市场，美联储鹰派立场为年末反弹蒙上阴影
 ---
-
 ### 市场收盘概览：在波动中收平
 
 Amit: 好的，大家好，欢迎回到新一期的市场收盘直播。我们正在直播。今天真是跌宕起伏的一天，这一周也是如此。本周在股票市场中航行真是一段相当艰难的旅程，但我们最终以绿色收盘，至少看起来是这样。

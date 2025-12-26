@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Google
@@ -16,10 +16,7 @@ products_models:
 - Gemini
 - Veo
 - Photoshop
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=BaDmwxCu_t4
 speaker: Best Partners TV
@@ -33,7 +30,6 @@ tags:
 - technology
 title: 谷歌Nano Banana模型：AI图像生成如何实现角色一致性与从趣味到实用的转变
 ---
-
 ### Nano Banana：AI图像生成的核心突破
 
 在AI图像生成领域，**角色一致性**（Character Consistency: 指在AI图像生成中，保持同一角色在不同场景或姿态下特征不变的能力）一直是一个老大难问题。直到谷歌Nano Banana模型的出现，这一局面才得以改变。2025年11月11日，红杉资本的斯蒂芬妮·詹（Stephanie Zhan）和帕特·格雷迪（Pat Grady）对谷歌Nano Banana核心团队进行了专访，受访者是产品负责人妮可·布里托娃（Nicole Brichtova）和工程负责人汉萨·斯里尼瓦桑（Hansa Srinivasan）。这次专访不仅拆解了Nano Banana实现角色一致性的技术密码，更让我们看到了AI视觉工具从“好玩”到“实用”的转变。未来，AI也许会真正地让人人都成为故事家。

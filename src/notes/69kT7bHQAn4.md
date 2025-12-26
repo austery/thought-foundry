@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-04-25'
@@ -11,11 +11,7 @@ media_books:
 - talk
 people: []
 products_models: []
-project:
-- china-analysis
-- investment-strategy
-- market-cycles
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=69kT7bHQAn4
 speaker: 投资TALK君
@@ -29,7 +25,6 @@ tags:
 - us-china-relations
 title: 市场反弹逻辑、中美关系进展与科技巨头财报解析
 ---
-
 ### 引言与本期内容概览
 
 欢迎来到一个不单只聊新闻的专业美股频道。本期视频是本周的第四期，我们致力于做到全勤，周五也将尽量发布一期视频。今天主要探讨中美贸易战的进展、两位美联储成员讲话背后的意义，并拆解谷歌、英特尔以及鞋类公司Skechers的三家公司财报。在内容开始之前，请各位观众点赞并留言，以保持留言区的活跃度，确保交流属性不被削弱。

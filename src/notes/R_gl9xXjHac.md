@@ -24,10 +24,7 @@ products_models:
 - iPad
 - Mac
 - Apple Watch
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=R_gl9xXjHac
 speaker: Shijun Tang
@@ -40,7 +37,6 @@ tags:
 - security
 title: 为什么我没买英伟达：价值投资在高增长公司面前的坚守
 ---
-
 ### 英伟达：全球最好的公司，但我依然不买
 
 据说只要在美股内容中提到英伟达，流量就能提升30%。但投资确实改变了我的性格——也可能本就如此：我历来不随大流。我创作内容的初衷，是为世界提供价值，而非追逐热度。不过今天，我们还是来认真聊聊英伟达。

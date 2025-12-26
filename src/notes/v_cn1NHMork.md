@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-09-26'
@@ -15,9 +15,7 @@ people:
 - Jesus
 - Hegel
 products_models: []
-project:
-- personal-growth-lab
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=v_cn1NHMork
 speaker: 王红雨
@@ -31,7 +29,6 @@ tags:
 - self-discovery
 title: 战胜内阻力，活出天我：AI时代的个人成长与专业精神
 ---
-
 ### 理想与现实的差距：我们生命中的“敌人”
 
 大家好，欢迎回到我的频道。今天是2025年9月26号。今天我想跟大家聊一个我自己非常感兴趣的话题，就是如何战胜我们生命中最重要的敌人。我们常常会发现，现实中的我与想象中的我经常是不一样的。我们无数次憧憬自己成为某种人，但在现实中又回到了原来的自我。到底是什么阻止了我们成为我们想成为的样子呢？

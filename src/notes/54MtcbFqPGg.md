@@ -10,9 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=54MtcbFqPGg
 speaker: 大伟探秘加拿大
@@ -26,7 +24,6 @@ tags:
 - market
 title: 加拿大房地产市场：一场结构性分化与价值重构的深度解析
 ---
-
 ### 加拿大房地产市场：告别普涨时代，迎接结构性分化
 
 如果您正试图理解近期加拿大房地产市场的动态，很可能会感到一头雾水。这并非您一个人的感受，当前几乎所有人都在面临同样的困惑：一方面新闻标题仍在报道某些地区房价小幅上涨，另一方面身边越来越多的人悄悄说房价正在真实下跌。加拿大房地产市场究竟是繁荣还是萧条？现在是买房还是卖房的好时机？

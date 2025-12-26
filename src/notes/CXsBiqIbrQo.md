@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs:
 - Oracle
@@ -21,10 +21,7 @@ products_models:
 - CRM
 - Notion
 - ClickHouse
-project:
-- ai-impact-analysis
-- systems-thinking
-- entrepreneurship
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=CXsBiqIbrQo
 speaker: The MAD Podcast with Matt Turck
@@ -36,7 +33,6 @@ tags:
 - semantic-layer
 title: TextQL CEO：构建处理PB级企业数据的AI代理
 ---
-
 ### TextQL：为PB级企业数据构建AI代理
 
 大家好，我叫Ethan，我是**TextQL**（一家为超大规模数据构建AI代理的公司）的首席执行官兼联合创始人，我们致力于为超大规模数据构建AI代理。

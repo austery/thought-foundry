@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Novartis
@@ -25,10 +25,7 @@ people:
 - Yuval Noah Harari
 - Steven Pinker
 - Donald Trump
-project:
-- ai-impact-analysis
-- china-analysis
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=A_z4Jow0c7A
 speaker: Norges Bank Investment Management
@@ -42,7 +39,6 @@ tags:
 - strategy
 title: 诺华CEO：制药业的创新、挑战与领导力之道
 ---
-
 ### 诺华的战略聚焦与创新引擎
 
 **Nicolai Tangan:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 挪威央行投资管理公司，管理挪威政府全球养老基金）的首席执行官Nicolai Tangan。今天，我非常荣幸能与诺华（**Novartis**: 全球领先的制药公司）的首席执行官Vas Narasimhan共处一室。

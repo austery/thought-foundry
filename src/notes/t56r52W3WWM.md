@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Google
@@ -34,10 +34,7 @@ products_models:
 - Chrome
 - QQ
 - WeChat
-project:
-- us-analysis
-- investment-strategy
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=t56r52W3WWM
 speaker: 美投讲美股
@@ -51,7 +48,6 @@ tags:
 - valuation
 title: AI正在摧毁谷歌？估值低谷下，它能否触底反弹？
 ---
-
 ### 谷歌：估值低谷下的科技巨头
 
 谷歌，作为当今世界上最强大的科技公司之一，主宰着全球搜索市场，掌控着全球最大的广告系统，拥有数以亿计的用户，并掌握着全球最为前沿的科技，包括云计算、自动驾驶、AI芯片和量子计算，每一项都具备改变世界的潜力。然而，这样一家科技巨头的估值却出奇地低，不仅是七家大型科技公司中最便宜的，甚至还没有麦当劳和可口可乐的估值高，这简直就是投资者梦寐以求的价值洼地。

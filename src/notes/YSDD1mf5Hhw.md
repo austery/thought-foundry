@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 中国外交部
@@ -49,10 +49,7 @@ products_models:
 - iPhone
 - Mac
 - iPad
-project:
-- us-analysis
-- china-analysis
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=YSDD1mf5Hhw
 speaker: 小翠時政財經
@@ -66,7 +63,6 @@ tags:
 - us-china-relations
 title: 稀土协议暗藏玄机，A股科技泡沫显现，美股巨头财报解析及AI投资潮
 ---
-
 ### 中美关系：大豆贸易与稀土博弈
 
 今天是美东时间2025年10月31日，我们将继续关注美国前总统**唐纳德·特朗普**（Donald Trump）和中国国家主席**习近平**的会谈相关消息。首先，美国财政部长**珍妮特·耶伦**（Janet Yellen）确认，中国同意今年购买1,200万吨美国大豆，未来三年每年至少购买2,500万吨。尽管2,500万吨的采购量低于去年（约2,700多万吨）和特朗普上一任期（超过3,000多万吨）的水平，但耶伦提到，东南亚其他国家已同意额外购买1,900万吨美国大豆，这将有助于确保今年年末美国大豆库存不会过高，对农民而言是一个利好消息。

@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - 伯克希尔·哈撒韦
@@ -21,10 +21,7 @@ people:
 - 查理·芒格
 - 段永平
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=4VbXQmEOJZ8
 speaker: Shijun Tang
@@ -38,7 +35,6 @@ tags:
 - value
 title: 普通人靠投资赚1000万？揭开高回报神话背后的现实与陷阱
 ---
-
 ### 投资神话的诱惑：10万本金两年赚千万，真有可能吗？
 
 最近我看到一段网络视频，声称普通人只要“两年存下10万美元”，然后将这笔钱投入那些被市场抛弃、濒临倒闭的公司股票——比如AMC或新东方——就能在1到2年内获得10倍回报。当本金积累到100万美元后，再转投“下一个谷歌、苹果或亚马逊”，最终在30年内实现10亿美元的财富目标。这套策略听起来像一个完美的财务捷径，但仔细推敲后，我发现它本质上是一套披着价值投资外衣的高风险投机幻觉。

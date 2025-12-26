@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: business
 companies_orgs:
 - Palantir
@@ -25,10 +25,7 @@ products_models:
 - AIP
 - CUDA
 - ChatGPT
-project:
-- ai-impact-analysis
-- systems-thinking
-- us-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=qdv2YnY_zMA
 speaker: Amit Kukreja
@@ -42,7 +39,6 @@ tags:
 - supply-chain-optimization
 title: Palantir Paragon大会：揭秘与NVIDIA、Cubic、Crisis24等伙伴的深度合作
 ---
-
 ### Paragon大会开场：Palantir与NVIDIA的AI合作
 
 大家好。我正在Palantir的年终12月活动Paragon现场，我将在这里进行一次非常特别的采访，讨论一个非常特别的合作关系。我与NVIDIA负责商业AI的Justin以及Palantir负责商业销售的Kevin在一起。感谢两位莅临。

@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-11-15'
@@ -9,9 +9,7 @@ insight: ''
 layout: post.njk
 products_models:
 - DeepSeek-OCR
-project:
-- ai-impact-analysis
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=3dJ3s_ddIfc
 speaker: AI超元域
@@ -24,7 +22,6 @@ tags:
 - technology
 title: Chandra OCR：复杂文档识别的革命性突破与本地部署指南
 ---
-
 ### 开源OCR模型现状与挑战
 
 最近，各种开源的**OCR**（Optical Character Recognition: 光学字符识别技术）模型发布得越来越多。在我之前的视频中，也为大家演示过非常多的开源OCR模型，比如说**DeepSeek-OCR**（DeepSeek-OCR: 一款开源的光学字符识别模型）、**OMOCR**（OMOCR: 一款开源的光学字符识别模型）以及**DUTS OCR**（DUTS OCR: 一款开源的光学字符识别模型）等。虽然这些模型的OCR能力效果比较不错，但是遇到复杂版面、长文档、多页PDF时，就可能出现漏字、漏掉页眉页角、排版混乱、表格错位等问题。所以，想找到一款真正稳定、效果够强、适合长文档以及复杂文档场景的OCR模型还是有一定难度的。

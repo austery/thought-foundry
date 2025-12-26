@@ -1,5 +1,5 @@
 ---
-area: tech-work
+area: "work-career"
 category: ai-ml
 companies_orgs:
 - OpenAI
@@ -24,8 +24,7 @@ people:
 - Deng Xiaoping
 - Sal Khan
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=zSLWR3AbF3c
 speaker: Dwarkesh Patel
@@ -39,7 +38,6 @@ tags:
 - technological
 title: 托尼·布莱尔：政治领导人为何屡屡在重大变革中失败？
 ---
-
 今天，我非常荣幸能与**托尼·布莱尔**（Tony Blair: 英国前首相，任期1997-2007年）对话。他现在领导着**托尼·布莱尔研究所**（Tony Blair Institute: 旨在为全球数十个政府提供治理、改革和技术应用建议的机构），为数十个国家的政府提供改善治理、推动改革和引入技术的建议。
 
 ### 政治领导的独特挑战

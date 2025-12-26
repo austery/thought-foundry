@@ -25,9 +25,7 @@ people:
 - Buffett
 - Sam Altman
 products_models: []
-project:
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=5unaBeg3N0w
 speaker: 北美王路飞
@@ -40,7 +38,6 @@ tags:
 - societal-impact
 title: AI泡沫下的隐忧：霍华德·马克斯的警示与社会代价
 ---
-
 ### AI浪潮下的泡沫隐忧与社会代价
 
 当前科技界正涌动着一股全新的力量——人工智能（AI）。无数公司正投入巨额资金，誓言要改变世界。然而，这种变革的背后，也弥漫着一种深刻的不安，正如橡树资本创始人霍华德·马克斯（Howard Marks）近期所感受到的。他在拜访客户时，被问及最多的问题便是：AI革命是否是一个泡沫？

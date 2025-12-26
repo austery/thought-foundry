@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - Norges Bank Investment Management
@@ -20,10 +20,7 @@ people:
 products_models:
 - ChatGPT
 - Google
-project:
-- personal-growth-lab
-- systems-thinking
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fNQ6MOCF53U
 speaker: Norges Bank Investment Management
@@ -38,7 +35,6 @@ tags:
 - lifelong-learning
 title: 文化、同理心与未来领导力：斯德哥尔摩经济学院的教育革新
 ---
-
 ### 文化融入商科教育的必要性
 
 [音乐]

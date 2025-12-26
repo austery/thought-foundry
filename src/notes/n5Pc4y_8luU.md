@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - T-Mobile
@@ -24,10 +24,7 @@ people:
 - Tracy Alloway
 - Jamie Dimon
 - Howard Marks
-project:
-- investment-strategy
-- ai-impact-analysis
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=n5Pc4y_8luU
 speaker: Bloomberg Podcasts
@@ -43,7 +40,6 @@ tags:
 - term
 title: AI如何揭示信用市场的脆弱性：交易条款与结构性保护的深度解析
 ---
-
 ### 引言：披萨餐厅与信用市场
 
 **Joe:** 你是一个披萨狂热者。你非常喜欢披萨。你决定在余生中的每一顿饭都吃披萨。你致力于以披萨为生。

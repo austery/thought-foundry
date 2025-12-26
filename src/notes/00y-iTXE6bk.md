@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: business
 companies_orgs:
 - Norges Bank Investment Management
@@ -19,10 +19,7 @@ media_books:
 people:
 - Nicola Tangan
 - Bill Gates
-project:
-- ai-impact-analysis
-- entrepreneurship
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=00y-iTXE6bk
 speaker: Norges Bank Investment Management
@@ -36,7 +33,6 @@ tags:
 - productivity
 title: GSK首席执行官Emma Walmsley：创新、文化与全球健康挑战
 ---
-
 ### 播客引言：GSK的创新之旅
 
 **Nicola Tangan:** 大家好，我是挪威主权财富基金（**Norges Bank Investment Management**: 管理挪威政府全球养老基金的机构）的首席执行官**Nicola Tangan**。今天，我非常荣幸能与全球制药巨头**GSK**（GlaxoSmithKline: 葛兰素史克，一家全球领先的制药公司）的首席执行官**Emma Walmsley**女士共处一室。

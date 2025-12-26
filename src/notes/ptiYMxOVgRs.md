@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs:
 - TED
@@ -9,8 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ptiYMxOVgRs
 speaker: TED
@@ -24,7 +23,6 @@ tags:
 - mindset
 title: 重塑大脑的日常练习：拥抱欣赏的力量
 ---
-
 ### 沉迷于欣赏：一次重塑大脑的TED演讲
 
 大家好，我叫蒂姆。我沉迷于欣赏。我知道这听起来很奇怪。但如果我在接下来的八分钟左右做好我的工作，你们将再也不会以同样的方式看待任何事物。这都要归功于我在2018年一个糟糕的日子里看到的一个井盖。

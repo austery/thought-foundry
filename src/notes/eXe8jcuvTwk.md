@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - FBI
@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - 《看不见的中东》
 products_models: []
-project:
-- cultural-critique
-- historical-insights
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=eXe8jcuvTwk
 speaker: 一席YiXi
@@ -28,7 +25,6 @@ tags:
 - technology
 title: 当目光投向具体的人：中东女性在禁锢中的微光与抵抗
 ---
-
 ### 被误解的中东：从新闻图像到真实生活
 
 大家好，我是姚璐，是一名摄影师，也是一个写作者。今天我想分享的是我2016年到2020年间在中东旅行的见闻。

@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - MIT
@@ -21,10 +21,7 @@ people:
 - 周恩来
 - 江青
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- geopolitics-watch
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=7cdqdKz8ZaI
 speaker: 柴静 Chai Jing
@@ -38,7 +35,6 @@ tags:
 - technology
 title: 宋彬彬的红卫兵袖章：卞仲耘校长之死与文革责任的追问
 ---
-
 ### 引言：宋彬彬与文革两大标志性事件
 
 在上一期采访宋亥英的节目中，当提到东北局当时的负责人宋仁琼被打倒时，我用了一张照片，那是宋仁琼的女儿宋彬彬在天安门城楼上给毛泽东戴上**红卫兵**（Red Guards: 文化大革命期间由学生组成的准军事组织）袖章的瞬间。第二天，评论区有人说77岁的宋彬彬去世了。这个消息给了我不小的震动，因为宋彬彬与**文革**（Cultural Revolution: 中国在1966年至1976年间发生的一场政治运动）当中的两大标志性事件密切相关。1966年8月5日，她所在的师大女附中，学生打死了校长卞仲耘。两个星期之后，在天安门城楼上，毛泽东问到她的名字，意味着“文质彬彬”之后，对她说“要武吗？”从此，“要武”这两个字成为了文革当中红卫兵的暴力符号。今天，在这个频道里，经过胡杰导演的同意，我将播放他制作的关于卞仲耘校长致死的纪录片《我虽死去》，同时也会对宋彬彬和这段暴力之间的关系做一个简单的说明，一起回顾这段历史。

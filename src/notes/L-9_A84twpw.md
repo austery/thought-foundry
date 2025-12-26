@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: technology
 companies_orgs: []
 date: '2025-08-27'
@@ -8,8 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- ai-impact-analysis
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=L-9_A84twpw
 speaker: Best Partners TV
@@ -23,7 +22,6 @@ tags:
 - performance
 title: 人工智能开发的“炼金术”到“工程学”：Chroma与上下文工程的深刻洞察
 ---
-
 ### 从“炼金术”到“工程学”：AI开发的现状与挑战
 
 一开始，我们聊一个在AI圈子里既核心又非常棘手的话题：你有没有觉得我们现在开发AI应用，特别像是在搞一场神秘的**炼金术**（Alchemy: 一种将普通物质转化为黄金的神秘实践，在此比喻AI开发中缺乏系统性和可预测性）？我们把各种数据和模型扔进一个黑箱，然后双手合十，期待它能炼出我们想要的“黄金”。有时候它确实能够惊艳到我们，但是更多时候，我们面对的是一堆无法解释、难以复现、更别提稳定运行的“废渣”。

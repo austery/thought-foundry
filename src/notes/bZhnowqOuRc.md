@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: psychology
 companies_orgs: []
 date: '2025-12-13'
@@ -12,9 +12,7 @@ media_books:
 people:
 - KevinFeng
 products_models: []
-project:
-- personal-growth-lab
-- knowledge-pipeline
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=bZhnowqOuRc
 speaker: KevinFeng 冯凯文
@@ -27,7 +25,6 @@ tags:
 - self-trust-building
 title: 为什么你学英文总半途而废？真正的突破来自每天投给未来的一票
 ---
-
 ### 自我怀疑是语言学习最大的敌人
 
 你越想达成这件事情，你越做不到——这是我七八次的经验。每次开始学英文，你都会陷入一种反复的自我怀疑：我怎么这么慢？为什么总记不住单词？别人学得那么快，我是不是天生不适合？你每天都在活在这种自我怀疑当中，不知不觉中，你变成了一个自己都无法再相信的人。

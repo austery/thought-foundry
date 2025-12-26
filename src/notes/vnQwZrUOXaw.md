@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: lifestyle
 companies_orgs:
 - 长荣航空
@@ -12,9 +12,7 @@ media_books:
 - 《阿Q正传》
 people:
 - 庄也
-project:
-- personal-growth-lab
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vnQwZrUOXaw
 speaker: 莊也雜談
@@ -28,7 +26,6 @@ tags:
 - travel
 title: 2024回国探亲：一次充满波折的台湾过境与航班改签经历
 ---
-
 ### 引言：2024回国之旅的飞行篇
 
 大家好，我是庄也。接下来，我将继续讲述我回国的话题。前一集我们谈到了回国前手机上需要安装的软件和一些准备工作，今天开始，咱们就来聊聊这次回国乘坐飞机发生的故事。有人可能会觉得坐飞机有什么好说的，但这次的故事特别惊险刺激。

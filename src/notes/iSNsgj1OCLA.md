@@ -1,5 +1,5 @@
 ---
-area: personal-systems
+area: "life-family"
 category: science
 companies_orgs:
 - Brilliant
@@ -13,9 +13,7 @@ media_books:
 - perplexing probability course
 - joy of problem solving course
 products_models: []
-project:
-- systems-thinking
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=iSNsgj1OCLA
 speaker: veritasium
@@ -29,7 +27,6 @@ tags:
 - theory
 title: 即使知道答案也看似不可能的谜题：100囚犯问题
 ---
-
 ### 挑战直觉的囚犯谜题
 
 有一个谜题，它的反直觉程度之高，即使你已经知道了答案，仍然会觉得它似乎是错的。

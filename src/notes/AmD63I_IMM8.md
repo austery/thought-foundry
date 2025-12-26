@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 联合国
@@ -33,9 +33,7 @@ people:
 - Nicolás Maduro
 - Sheikh Hasina
 products_models: []
-project:
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=AmD63I_IMM8
 speaker: 东京人文论坛
@@ -49,7 +47,6 @@ tags:
 - value
 title: 洛克被高估了吗？产权、美德与现代共和制的内在冲突
 ---
-
 ### 导言：从克伦威尔时代看现代民主的危机
 
 谢谢大家参加这个系列节目，能够一期一期地跟下来并感受到其重要性，实属不易。今天是我们《马基雅维里时刻》读书会的第四期。从书籍本身的结构来看，我们已经推进到了倒数第二部分。这本书的叙事从佛罗伦萨历史，到英国历史，再到美国建国史。目前，我们已经进入了英国历史的深水区。

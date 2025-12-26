@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: science
 date: '2021-09-03'
 draft: true
@@ -9,9 +9,7 @@ layout: post.njk
 people:
 - Derek Muller
 products_models: []
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=f-Nr2z5X7Rs
 speaker: veritasium
@@ -25,7 +23,6 @@ tags:
 - uv-detection
 title: 蝎子为何在黑暗中发光？探索其荧光之谜与生存策略
 ---
-
 ### 蝎子的奇特荧光现象
 
 在夜间沙漠中寻找蝎子出奇地容易。你所需要的只是一支**紫外手电筒**（Ultraviolet torch: 能发出紫外线的光源），因为蝎子具有惊人的**荧光**（Fluorescence: 物质吸收特定波长的光后，再辐射出更长波长的光的现象）特性。

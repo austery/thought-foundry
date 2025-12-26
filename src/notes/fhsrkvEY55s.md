@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - MicroStrategy
@@ -24,10 +24,7 @@ people:
 products_models:
 - Gemini Flash
 - Sora
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=fhsrkvEY55s
 speaker: Patrick Boyle
@@ -41,7 +38,6 @@ tags:
 - investment
 title: 加密货币的无限金钱漏洞已失效：从疯狂投机到金融现实的崩塌
 ---
-
 ### 加密货币财库公司的疯狂循环：从AI表情包到金融幻觉
 
 加密货币的“无限金钱漏洞”似乎已经失效——我们或许永远无法真正知道究竟哪里出了问题。这套机制原本是这样运作的：你找一家无关紧要的公司，筹集资金购买比特币——或者任何其他代币（它们本质上都一样）——然后在社交媒体上发布一些近乎宗教式的言论，宣称货币的未来，并投入大量精力制作AI表情包。因为如今在企业金融教科书里已经公认：高质量的AI表情包确实能推高代币价格。这启动了一个飞轮效应：加密货币价格上涨 → 推动公司股价上升 → 你再发行更多股票融资 → 买入更多加密货币 → 如此循环往复。如果有人质疑现金流、市盈率，甚至热力学基本定律——那可能只是提醒你：该多做点AI表情包了。既然经营一家真正的企业如此枯燥、容易出错，为什么不去买点东西、发个推文、然后拉升它的价格呢？

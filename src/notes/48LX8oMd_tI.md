@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: culture
 companies_orgs:
 - 知行小酒馆
@@ -16,9 +16,7 @@ media_books:
 - 《河岸》
 people:
 - 雨白
-project:
-- china-analysis
-- cultural-critique
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=48LX8oMd_tI
 speaker: 知行小酒馆
@@ -30,7 +28,6 @@ tags:
 - reading-habit
 title: 对话杨素秋：在短视频与网文时代，我们为什么还需要图书馆？
 ---
-
 ### 开场白：我们为什么还需要图书馆？
 
 雨白：欢迎来到知行小酒馆，这是一档关于投资与如何更好地生活的节目，我是雨白。今天的节目有些特别，是我们在西安举办的一场线下活动。我们从未录制过线下活动，但在西安的那天，我总觉得这场对话值得被留下来。

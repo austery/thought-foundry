@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: science
 date: '2020-10-09'
 draft: true
@@ -8,9 +8,7 @@ insight: ''
 layout: post.njk
 people:
 - Albert Einstein
-project:
-- systems-thinking
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=XRr1kaXKBsU
 speaker: veritasium
@@ -24,7 +22,6 @@ tags:
 - technology
 title: 爱因斯坦的引力错觉：广义相对论如何颠覆我们对重力的理解
 ---
-
 ### 引力并非一种力：广义相对论的视角
 
 根据**广义相对论**（General Theory of Relativity: 爱因斯坦提出的关于引力本质的理论），引力并非一种力。根本没有**引力场**（Gravitational Fields: 描述引力作用的物理场），引力只是一种错觉。在这个视频中，我将通过发射到外太空来向你证明这一点。

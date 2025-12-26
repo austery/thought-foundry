@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: finance
 companies_orgs:
 - Berkshire Hathaway
@@ -15,10 +15,7 @@ people:
 - Warren Buffett
 - Bill Gates
 products_models: []
-project:
-- us-analysis
-- investment-strategy
-- personal-growth-lab
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=heCjdh2TOAU
 speaker: Shijun Tang
@@ -32,7 +29,6 @@ tags:
 - wealth
 title: 《金钱心理学》：财富是看不见的，复利才是人类第八奇迹
 ---
-
 ### 财富的本质：看不见的资产
 
 财富是什么？财富不是你开的豪车、戴的手表、穿的名牌衣服，也不是你升级到头等舱的机票。财富是你**没有花掉的钱**——那些尚未被转化为可见消费品的金融资产。这是《金钱心理学》（Psychology of Money）作者摩根·豪塞尔（Morgan Housel）开篇即点明的核心观点。我们常常误把消费当成了财富，而真正的财富，是那些静默积累、未曾动用的资本。

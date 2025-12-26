@@ -1,5 +1,5 @@
 ---
-area: tech-insights
+area: "tech-engineering"
 category: career
 companies_orgs:
 - Amazon
@@ -33,10 +33,7 @@ products_models:
 - S3
 - DynamoDB
 - VS Code
-project:
-- us-analysis
-- personal-growth-lab
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vZGycBUc1vM
 speaker: The Pragmatic Engineer
@@ -50,7 +47,6 @@ tags:
 - thinking
 title: 前亚马逊首席工程师深度访谈：揭秘晋升之难、规模之痛与独特文化
 ---
-
 ### 在亚马逊的十七年职业生涯
 
 我在亚马逊工作了17年半，去年刚刚离职。所以，我基本上已经有一年时间在做其他事情了。人们总是谈论我在那里的漫长任期，但我觉得在那段时间里，我大概换了五六份工作。

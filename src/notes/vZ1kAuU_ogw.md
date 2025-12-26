@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "society-thinking"
 category: general
 companies_orgs:
 - UC Berkeley
@@ -13,9 +13,7 @@ layout: post.njk
 people:
 - John Doerr
 products_models: []
-project:
-- ai-impact-analysis
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vZ1kAuU_ogw
 speaker: 硅谷101
@@ -29,7 +27,6 @@ tags:
 - lifelong-learning
 title: AI时代教育的未来：颠覆、挑战与重塑
 ---
-
 ### 引言：AI与教育的未来展望
 
 各位下午好，非常感谢大家今天能和我们在一起。我是Joy Joy Chen，非常荣幸能担任今天关于AI与教育的小组讨论主持人。我也非常高兴能与我的三位好友——Ben、Isabelle和Esther——同台。那么，让我们直接进入对话。在过去的几年里，我们见证了AI如何改变我们的生活、工作，当然也包括学习方式。我想问三位小组成员，当你们思考AI与教育，特别是展望2030年及以后时，最让你们兴奋的是什么？最让你们担忧的又是什么？或许我们可以从Esther开始。

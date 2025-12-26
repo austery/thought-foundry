@@ -14,10 +14,7 @@ people:
 - Warren Buffett
 - Ronald Reagan
 products_models: []
-project:
-- investment-strategy
-- us-analysis
-- historical-insights
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=vw2Vivp32cs
 speaker: 海淀拙大叔
@@ -30,7 +27,6 @@ tags:
 - stock-market-history
 title: 为什么投资收益率假设10%是合理的？历史数据与经济周期分析
 ---
-
 ### 投资收益率10%的假设：质疑与历史视角
 
 在发布“阿甘财富增长论”第一集后，许多人对10%的复利收益率假设提出了质疑，认为在中国市场这几乎不可能实现。主要的质疑点包括：收益率假设过高；中国和美国市场存在差异，不能直接类比标普指数；中国基金的表现不如美国；美国市场具有独特性，其他国家难以复制；以及中国股市长期在3000点徘徊，未来前景不明。

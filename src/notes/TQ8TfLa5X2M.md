@@ -1,5 +1,5 @@
 ---
-area: society-systems
+area: "geopolitics"
 category: geopolitics
 companies_orgs:
 - 中国科学院
@@ -16,10 +16,7 @@ people:
 - Mao Zedong
 - Hegel
 products_models: []
-project:
-- china-analysis
-- historical-insights
-- systems-thinking
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=TQ8TfLa5X2M
 speaker: Anthony看世界
@@ -35,7 +32,6 @@ tags:
 - technology
 title: 高知为何迷失：解析集体狂热中理性与主体性的崩塌
 ---
-
 ### 女巫狩猎心态与主体性缺失的根源
 
 在之前的视频中，我们深入探讨了贯穿中国历史与当代的**女巫狩猎心态**（Witch Hunter Mentality: 一种将社会问题归咎于特定“敌人”并对其进行清除的集体心理）。无论是文化大革命期间的政治批判，还是当今互联网上的民族主义狂热，它们都共享着一个共同的底层逻辑——古老的巫术思维。这种思维预设了一个被动、纯粹、易受污染的自我，以及一个充满敌意和邪恶力量的外部世界。这种思维方式对无法企及的纯粹性的追求，必然导致敌人无限扩张，最终将所有社会思潮都拖入无休止的“驱魔仪式”之中，陷入内耗。

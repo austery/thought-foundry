@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Walmart
@@ -26,10 +26,7 @@ products_models:
 - CPI数据
 - ISM生产者价格指数
 - ISM制造业PMI指数
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=GajY_SGllyg
 speaker: 美投讲美股
@@ -44,7 +41,6 @@ tags:
 - us-stock-market
 title: 美股极限反转：市场分歧下的宏观风险与AI投资机遇
 ---
-
 ### 市场极限反转与分歧加剧
 
 大家好，我是美投君，你们的美股探路者。一个月前，美股的崩盘还历历在目。怎料，仅仅一个月的时间，市场竟发生了极限反转，三大股指纷纷反弹10%以上，不仅收复了川普解放日以来所有的跌幅，而且速度之快，达到了近5年来之最。

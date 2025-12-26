@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs: []
 date: '2025-07-28'
@@ -8,9 +8,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models: []
-project:
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=ltmyq4ZcMCg
 speaker: 海淀拙大叔
@@ -23,7 +21,6 @@ tags:
 - investment
 title: GDP增速靠谱吗？实际与名义GDP的体感差异深度解析
 ---
-
 ### GDP数据与公众体感差异
 
 阿干经济宏观论第24集，海淀拙大叔在7月18号周五讨论了“GDP增速靠谱吗？”这个话题。最新的二季度GDP数据显示同比增长5.2%，上半年增长5.3%。然而，很多人感觉这些数据不太靠谱，因为他们和身边人的体感温度都非常冷。这引发了一个疑问：为什么GDP还能增长5%以上？也就是说，我们的体感GDP和数据GDP不一致，这是否意味着在无法改变温度的情况下，我们准备去修改温度计了？大叔提出了一个问题：如果二季度GDP增长是3.9%，大家会不会觉得更靠谱一点？

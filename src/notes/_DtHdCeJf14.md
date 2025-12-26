@@ -1,5 +1,5 @@
 ---
-area: market-analysis
+area: "finance-wealth"
 category: finance
 companies_orgs:
 - Netflix
@@ -84,10 +84,7 @@ people:
 products_models:
 - Atlas
 - Mac OS
-project:
-- us-analysis
-- investment-strategy
-- market-cycles
+project: []
 series: ''
 source: https://www.youtube.com/watch?v=_DtHdCeJf14
 speaker: Amit Kukreja
@@ -102,7 +99,6 @@ tags:
 - technical-analysis
 title: Netflix财报失利开启科技巨头财报季，高动量股票遭遇重挫
 ---
-
 ### 开篇：Netflix财报与市场宏观概览
 
 好的，大家好，欢迎回到新一期的《市场收盘》。我们即将迎来 Netflix 的财报，这将正式拉开大型科技公司财报季的序幕。我对此感到非常兴奋。所以，我们来看看 Netflix 能交出什么样的成绩单。Netflix 今年迄今上涨了 40%，但过去三个月股价一直持平。因此，今天将是关键的一天，我们将看到 Netflix 能否公布一些能让华尔街兴奋的数字。也许他们终于会给我们进行一次**股票分割**（Stock Split: 将一股股票拆分成多股，降低单股价格以吸引更多投资者），那就太好了，能把这只股票的价格从 1200 美元降到 120 美元。但我们还是得看看 Netflix 最终会发生什么。如果你持有这只股票，请告诉我，我们会进行“上涨或下跌”的投票。今天早上，你们大多数人都认为是上涨。我们拭目以待 Netflix 今天的结果。
