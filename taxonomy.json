@@ -66,13 +66,28 @@
                     {
                         "id": "ai-ml",
                         "match_tags": [
-                            "ai",
-                            "llm",
-                            "chatgpt",
                             "machine-learning",
-                            "rlhf",
                             "robotics",
-                            "transformer"
+                            "transformer",
+                            "algorithm"
+                        ]
+                    },
+                    {
+                        "id": "ai-application",
+                        "match_tags": [
+                            "ai",
+                            "chatgpt",
+                            "llm",
+                            "prompt",
+                            "prompt-engineering",
+                            "copilot",
+                            "claude",
+                            "gemini",
+                            "ai-agent",
+                            "ai-tools",
+                            "信息处理与提炼",
+                            "AI系统交互",
+                            "Prompt技巧与方法论"
                         ]
                     },
                     {
@@ -94,7 +109,11 @@
                             "coding",
                             "software",
                             "angular",
-                            "react"
+                            "react",
+                            "oop",
+                            "design-pattern",
+                            "api",
+                            "git"
                         ]
                     }
                 ]
@@ -111,7 +130,8 @@
                             "market",
                             "value-investing",
                             "etf",
-                            "vfv"
+                            "vfv",
+                            "investment-option"
                         ]
                     },
                     {
@@ -152,6 +172,22 @@
                         ]
                     },
                     {
+                        "id": "philosophy-wisdom",
+                        "match_tags": [
+                            "philosophy",
+                            "thinking",
+                            "mindset",
+                            "wisdom",
+                            "logic",
+                            "bias",
+                            "cognitive",
+                            "thinking-philosophy",
+                            "meta-cognition",
+                            "book-review",
+                            "reading-reflection"
+                        ]
+                    },
+                    {
                         "id": "history",
                         "match_tags": [
                             "history",
@@ -189,8 +225,8 @@
                             "parenting",
                             "kids",
                             "marriage",
-                            "family",
-                            "education"
+                            "education",
+                            "learning-education"
                         ]
                     },
                     {
@@ -201,7 +237,27 @@
                             "gym",
                             "biohacking",
                             "cooking",
-                            "diet"
+                            "diet",
+                            "medical",
+                            "chronic-disease",
+                            "精力管理",
+                            "fatigue"
+                        ]
+                    },
+                    {
+                        "id": "home-logistics",
+                        "match_tags": [
+                            "home",
+                            "house",
+                            "pool",
+                            "maintenance",
+                            "insurance",
+                            "finance-personal",
+                            "shopping",
+                            "travel",
+                            "camping",
+                            "home-management",
+                            "具体的使用案例"
                         ]
                     }
                 ]
@@ -250,7 +306,29 @@
                             "obsidian",
                             "pkm",
                             "notetaking",
-                            "learning"
+                            "learning",
+                            "second-brain",
+                            "information-processing",
+                            "knowledge-management",
+                            "note-taking",
+                            "知识管理"
+                        ]
+                    },
+                    {
+                        "id": "workflow-tools",
+                        "match_tags": [
+                            "workflow",
+                            "automation",
+                            "tools",
+                            "mac",
+                            "ios",
+                            "shortcuts",
+                            "productivity",
+                            "工作流自动化",
+                            "tool",
+                            "tool-for-daily-usage",
+                            "product-review",
+                            "software-review"
                         ]
                     }
                 ]
