@@ -1,11 +1,10 @@
 ---
-area: null
+area: finance-wealth
 author: Lei
-category: null
+category: stock-investment
 channel: null
 date: 2025-07-29
 draft: true
-file_name: fund_manager_lessons_unh_analysis_fed_rate_cut.md
 guest: null
 insight: 就是看看自己的资产配置,哪些是防守的，哪些是Beta - SP500.
 layout: post.njk
