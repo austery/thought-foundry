@@ -813,3 +813,431 @@ We have to forgive our parents, right? Yeah, that's that's the truth. Like you s
 We have a closing tradition where the last guest leaves a question for the next question left for you is who are you most dying to meet and why? Oh, that's a great one. um person I would love to meet right now is probably Bnee Brown. That's probably it. Really, the fact that you brought her up. The reason why is because I know that she's been in the space a long time. And I feel that when she shares stuff, it's very genuine. Like there's no guessing that she's real. Yeah. She's about as real and raw as authentic as you can get. She's also a Longhorn Texas Longhorn fan which I'm a fan, but I feel like when and this is just me personally, I kind of got pushed into this field and you you always look for people that are your own anchors in life of who you'd want to be a mentor kind of thing. And that's somebody who's I feel like has been in the the world and and knows some things and has just some incredible knowledge that's helped a lot of people. She's most certainly authentic. She's incredible. Yeah. Well, I listen, if people haven't bought your book, which is almost nobody, but if there are still some people out there that have haven't bought this book, I highly recommend it. I think I um included it in my Smith collection as well in the UK. You did such a smash hit success. It's a success on two dimensions. It's sales and it's impact. Thank you. And um it's also incredibly accessible. So it's not like a a complicated science book and it's written for normal people that are going through very real relatable normal problems. And um I think that's why it's been so successful. I think you you approach these challenges from a very real place. And maybe that's in part why it's been so wonderfully received and so relatable is because, you know, you're a trial attorney that's bringing this stuff to the masses, but you're not like a PhD scholar who might have draw thrown up the drawbridge because they they they've spent all their life in academia. And I think the way that you communicate is so relatable and resonant that it's no wonder that you're you've been on an absolute unbelievable terror over the last couple years. It's phenomenal. Like crazy crazy incredible. So congratulations and thank you from all the people that you've given thanks man a little bit of light to a little bit of um you've empowered them with information so that they can live the life that they um they deserve to live. That's a special thing Jefferson. I appreciate it. Thank you Ste. If there's anything we need it is connection especially in the world we're living in today. And that is exactly why we created these conversation cards. Because on this show, when I sit here with my guests and have those deep, intimate conversations, this remarkable thing happens time and time again. We feel deeply connected to each other. At the end of every episode, the guest I'm interviewing leaves a question for the next guest, and we've turned them into these conversation cards. And we've added these twist cards to make your conversations even more interesting. And there are so many more twists along the way with the conversation cards. This is the brand new edition. And for the first time ever, I've added to the pack this gold card, which is an exclusive question from me. But I'm only putting the gold cards in the first run of conversation cards. So get yours now before the limited edition gold cards are all gone. Head to the link in the description below.
 
 </details>
+
+
+----
+
+### 沟通大师的五个核心要素与法庭智慧
+
+**Steven Bartlett**: 对于任何想要成为沟通大师并在生活中得偿所愿的人来说，哪五件事是最重要的？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: What are the five most important things for anyone who's striving to be a masterful communicator to get what they want out of life?
+
+</details>
+
+**Jefferson Fisher**: 第一是真实性（Authenticity），而**存在感**（Presence）是真实性的最高形式。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: The first is authenticity and presence is the highest form of authenticity.
+
+</details>
+
+**Steven Bartlett**: 好的，关于这一点，我要在屏幕上播放那个关于 Miley Cyrus 和 Amy Campbell 疯传的视频。
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: Okay, on that point, I'm going to play this video on the screen that went viral of Marley Cyrus and Amy Campbell.
+
+</details>
+
+**Jefferson Fisher**: 哦，我还没看过这个。看得很痛苦。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Oh, I haven't seen this. That's painful to watch.
+
+</details>
+
+**Jefferson Fisher**: 第二，减少干扰。第三，停止过度解释。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Number two, reduce the amount of distraction. Three, stop overexplaining.
+
+</details>
+
+**Jefferson Fisher**: 第四，知道如何应对他们的悲伤。我会详细讲解这几点，但第五点是，你必须知道如何应对**自恋者**（Narcissist）和**煤气灯操纵者**（Gaslighter）。我该怎么做？让我来展示给你看。首先，你需要过来。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Number four, know how to deal with their sadness. And I'll go through all of these in detail, but number five is you have to know how to handle the narcissist and the gaslighter. What do I do? Let me show you. First, you need to come.
+
+</details>
+
+### 从法庭到生活的沟通艺术
+
+**Steven Bartlett**: 请介绍一下 Jefferson Fisher。你的职业是什么？你会如何定义你的职业？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: Jefferson Fisher. What do you do professionally? What is your How do you sort of characterize your profession?
+
+</details>
+
+**Jefferson Fisher**: 嗯，我的本职是一名**出庭律师**（Trial Attorney）。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Well, I'm a trial attorney by trade.
+
+</details>
+
+**Steven Bartlett**: 那意味着什么？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: What does that mean?
+
+</details>
+
+**Jefferson Fisher**: 这意味着我帮助客户解决法律需求。我拥有人身伤害法的委员会认证。所以，当人们受伤时，我会出庭。这意味着有些律师从不去法庭，而我会走进法庭。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: That means I help clients with legal needs. I'm board certified in personal injury. So, when people get hurt, I have trials. So, that means there are other attorneys that don't ever go to a courtroom. I go into a courtroom.
+
+</details>
+
+**Steven Bartlett**: 然后你会站在法官面前……
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: Then you stand before a judge...
+
+</details>
+
+**Jefferson Fisher**: 对，有一个法官，有一个陪审团，有一个法庭书记员，一个法警，还有对方律师。房间里有人，你要试图说服那些人接受你的观点以获得特定的结果。我基于客户的事实进行辩护，以获得他们想要的结果。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: ...and a Yeah. You have a judge, you have a jury, you have a court reporter, a baiff, you have opposing attorneys. There are people in the room and you try and convince those people of your point of view to get a particular outcome. I advocate my client's facts in order to get the result that they want.
+
+</details>
+
+**Steven Bartlett**: 那么，为什么你认为写一本关于谈话、关于如何从我们在乎的人那里获得我们想要的东西的书很重要？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: So, why did you think it was important to write a book about conversation talking, getting what you want from the conversations we have with people we care about?
+
+</details>
+
+**Jefferson Fisher**: 因为我一次又一次地看到，当我培训客户——也就是我在为他们的交叉质询或庭外取证做准备时——他们真的不知道如何应对冲突。我想不出除了拳击手或 UFC 选手这类直接处理实际冲突并承受打击的人之外，还有什么职业比法律界和出庭律师更深陷于冲突之中。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Because I have seen time and time again that when I am training a client is what I call I'm preparing them for cross- examination for deposition they really don't know how to engage in conflict. And so I can't think of any other profession that is more entrenched in conflict maybe outside of a a boxer or some you know UFC something that deals with actual conflict and sits there and listens to it all than in the legal world in a trial attorney.
+
+</details>
+
+**Jefferson Fisher**: 我写那本书以及那本书适用的原因是，我把教给我每一位客户的很多课程都放进了书里，因为我坐在那里为他们准备交叉质询时意识到，噢等等，他们对自己所处的冲突怕得要死。那是他们一生中最情绪化、压力最大、最不知所措的时刻。那是我的工作，去牵着他们的手说：“我们将这样去面对。”
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: The reason why I wrote that book and how that book applies is I took a lot of the lessons that I teach every one of my clients and put them in that book because I'm sitting there preparing them for cross-examination and realizing, oh, wait, they are deathly afraid of the conflict that they're in. is most of the time it's the most emotional, stressful, overwhelmed they are ever in their life... And so it's my job to kind of take their hand and say, "This is how we're going to this is how we're going to do it."
+
+</details>
+
+### “在口袋里” (In the Pocket) 的气场与掌控
+
+**Steven Bartlett**: 如果我在这方面成为绝对的大师，我的生活会有什么变化？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: How would my life change if I became an absolute master in this?
+
+</details>
+
+**Jefferson Fisher**: 其次的好处是你意识到**“我是对的”被高估了**。如果你告诉我天空是紫色的，请便，Steven。这不需要触及我的自我认知或我的任何观点。如果我能拥有这种安心感，知道不需要同意你也能理解你，那我就不用回击。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: A second benefit of it is that you realize being right is overrated. You can, if you tell me the sky is purple, knock yourself out, Stephen. It doesn't have to touch anything with me on on who I am or any of my opinions... And if you can have the peace of mind of knowing I don't need to agree with you to understand you.
+
+</details>
+
+**Steven Bartlett**: 当你在法官面前处理案件时，你是否有意识地思考过你的肢体语言、眼神交流或其他你在这些年学到的对于让你的信息被听取非常重要的事情？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: And when you're in a case in front of a judge, is is there anything else that you're intentionally thinking about with, I don't know, your body language or the eye contact or any of these other things that you've learned over time are really important to get your message heard?
+
+</details>
+
+**Jefferson Fisher**: 我的言行举止就像**我以前来过这里一样**。走进一个房间，就像你以前来过一样，好像其他人都只是访客。在每次审判之前，在陪审团、法官进来之前，我会对自己说，这是我的客厅，其他人只是访客。我会摸摸椅子，把手放在栏杆上，我会四处走动。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: I'm speaking like I've been there before... walk into a room like you've been there before, as if everybody else is just visiting. So, what I do before every trial is I will go in there before the jury comes in, the judge comes in, everybody comes in and I say to myself, this is my living room and everybody else is just visiting. I will touch the chairs. I will put my hands on the banisters. I will walk around.
+
+</details>
+
+**Jefferson Fisher**: 当我能散发出那种自信时，每一位观看的陪审员突然就会平静下来。他们会想，这里谁可以依靠？谁更值得信赖？如果你总是对需要情绪化的情境做出反应，在某种意义上你就没有注意谁在看着你。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: And when I can exude that kind of confidence that every juror that watches, all of a sudden it calms them down. They go, who can I rely on here? Who's more trustworthy?... So, if you are always reacting to situations in which you have to be emotional with in a sense that you're not paying attention to who's watching you.
+
+</details>
+
+**Steven Bartlett**: 那个，你称之为“光环”（Aura）吗？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: Is that what people call aura?
+
+</details>
+
+**Jefferson Fisher**: 也许有些人称之为“Swagger”（范儿）。是的，光环。我喜欢说**“在口袋里”（In the pocket）**，因为它提醒我，正确的时机就是我的时机。这就是所谓的像爵士乐队一样“在口袋里”——每个人都在节拍上，我不急，也不慢，我就在那个点上。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Swagger maybe as some people call it. Yeah. Aura... I like to say in the pocket because it just reminds me of the right timing is my timing... I'm just in the pocket like a a jazz band. Like everybody is on everybody's on beat and so I'm not I'm not rushing. I'm not slowing down. I'm just right in the pocket.
+
+</details>
+
+### Gaslighting（煤气灯效应）与自恋者
+
+**Steven Bartlett**: 自从这本书出版以来，人们和你谈论最多的是什么？是关于处理困难对话和困难的人吗？社会上有一个被过度使用的词叫**Gaslighting**（煤气灯效应）。
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: ...what are the chapters that have stood out the most to people and you mentioned that it tends to be things around dealing with difficult conversations dealing with difficult people... And one of the phrases that's been arguably overused a lot in society is this phrase gaslighting.
+
+</details>
+
+**Jefferson Fisher**: 是的，Gaslighting 和撒谎的区别在于：撒谎是表层层面的，比如我可以告诉你这个杯子是红色的而不是银色的。那是个谎言。而 Gaslighting 是我试图将你的现实改变成我的现实。我试图让你质疑其他人如何看待你，包括我自己，以及你如何看待你自己。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Yes. Well, let me put it this way. The difference between gaslighting and lying. Lying is a surface level of I could tell you instead of having a silver cup, this is a red cup. Well, that would be a lie. Gaslighting is I'm trying to alter your reality into mine. I'm I'm trying to make you question how other people perceive you, including myself. How you perceive yourself.
+
+</details>
+
+**Jefferson Fisher**: 事实上，**我也做过煤气灯操纵者（Gaslighter）**。每个人都做过，无论他们是否有意为之。因为这都源于那种自我保护的感觉，这种防御性，我不希望人们知道我生活中发生的真相，所以我去误导。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Here's the truth. I have been the gaslighter. Everybody has been the gaslighter whether they intentionally know it or not. Because it's all that feeling of preservation of defensiveness of I don't want people to know the truth of of what's happening in my life so I'm going to mislead.
+
+</details>
+
+**Steven Bartlett**: 在你看来，撒谎和 Gaslighting 之间的区别是意图吗？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: ...is the difference in your mind intention?
+
+</details>
+
+**Jefferson Fisher**: 是意图。意图是**我是掌控者，而不是你**。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: It to the intention. It's the intention. The tension is I'm the one in control, not you.
+
+</details>
+
+**Jefferson Fisher**: 你试图控制叙事。你想同时成为导演、制片人和演员，为了你自己的议程和控制欲。我是我自己电影里的主角，你需要这样表现，你需要相信这个。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: So, you are trying to control the narrative. You are trying to be both director, producer, and actor for your own agenda... I'm I'm the character in my own movie. I'm the main character. And you need to behave this way. You need to believe this.
+
+</details>
+
+**Steven Bartlett**: 你认为女性比男性更容易被 Gaslight 吗？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: So do you think women get gas lit more than men?
+
+</details>
+
+**Jefferson Fisher**: 是的。根据我的书的读者反馈，绝大多数是女性。我并不是说这是什么实证研究。但这表明这听起来是准确的。我确实认为，在我的内容受众中，很多女性说她们在职场中感觉能力被质疑，做决定的能力被怀疑，不被信任。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Yes... from my feedback from the people that have read my book and the people who give me feedback on my book, Yeah. It's majority vast majority are are women... It shows me that that sounds about right. I do think from the people that follow my content... so many women say I feel like I'm in this workplace and they are doubting my competence. They're doubting my ability to make decisions. I'm not being believed.
+
+</details>
+
+**Steven Bartlett**: 那么关于应对自恋者（Narcissists）的讨论呢？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: What about the conversation around like dealing with narcissists?
+
+</details>
+
+**Jefferson Fisher**: 对自恋者来说，这是一种**“赞美或挑衅”（Praise or Provoke）**的游戏。意思是，如果我没有用赞美沐浴你，那么自恋者就会转向挑衅，以制造争吵来达到同样的效果。他们从挫败感中获得的快乐，就像他们从你的赞美中获得的一样多，因为他们获得了同样类型的控制。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: It's a it's a game for narcissists of praise or provoke. Meaning, if I am not showering you with praise, then the narcissist will turn to provoke in order to create an argument for the same effect. They they delight in frustration just as may just as much as they delight in your praise because they get the same type of control.
+
+</details>
+
+**Jefferson Fisher**: 我该怎么做？一，限制接触。二，了解你所处的游戏。三，使用**中性陈述**（Neutral Statements）。我会使用像“了解了”、“谢谢分享”、“已记录”这样的中性陈述，让他们无法抓住并继续对话。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: I know I don't have to say anything to that person. Two, I'm going to limit my distance to them. And three, I'm going to use neutral statements. I'm going to use neutral statements like that's good to know. Thanks for sharing. Noted and things that they can't grab on to and continue to have in a conversation.
+
+</details>
+
+### 五个沟通关键要素（详细解析）
+
+**Steven Bartlett**: 我想请你总结一下，如果你必须给我五个最重要的建议，让任何人都能成为沟通大师并在生活中得偿所愿，那会是什么？
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: So what are the what are the five most important things to summarize if you had to give me five.
+
+</details>
+
+#### 1. 真实性 (Authenticity)
+
+**Jefferson Fisher**: 第一是真实性。如果我不能对你真诚，不能对你真实，那我就无法成为你的任何人。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: The first is authenticity. If I cannot be genuine with you, if I cannot be real with you, then I can be nobody to you.
+
+</details>
+
+#### 2. 减少干扰 (Reduce Distraction)
+
+**Jefferson Fisher**: 第二，减少干扰。这意味着要减少你使用手机的频率。（拿出一根红绳）这根绳子代表我们之间的连接。它是紧绷的。如果我在和你说话时拿出手机，即使我还在听，你感觉如何？
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Number two, reduce the amount of distraction... And that means eliminate how often you're on your phone... This string right now represents the connection between us in conversation. It's tight... So, I just pulled out my phone and now I'm looking. And what did you feel in the line?
+
+</details>
+
+**Steven Bartlett**: 我感觉那种紧绷感消失了，变得松弛了。感觉不被尊重。
+
+<details>
+<summary>Original English</summary>
+
+**Steven Bartlett**: I felt like the tightness went it went loose... It felt disrespectful.
+
+</details>
+
+**Jefferson Fisher**: 没错。如果你想成为一个更好的沟通者，你必须理解真正连接的定义。那就是保持绳子紧绷。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Yeah... So if you want to be a better communicator, you have to understand the definition of true connection. It's keeping it taught.
+
+</details>
+
+#### 3. 停止过度解释 (Stop Over-explaining)
+
+**Jefferson Fisher**: 第三，停止过度解释。与其做瀑布，不如做一口井。意思是，与其试图倾泻信息，不如自信地持有你的知识。如果他们有问题，他们会问。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Three, stop overexplaining... Instead of being a waterfall, be a well. Meaning rather than trying to gush out information... you have a confidence in holding your knowledge. If they have a question, they'll ask.
+
+</details>
+
+**Jefferson Fisher**: 许多人在说话前都在想自己要说什么。我教的是：**让你的第一个词是你的呼吸**。当你在第一个词该出现的地方放一个呼吸时，其他一切都会流畅起来。真正自信的人知道他们不需要总是对的，也不需要知道所有答案。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: What I teach is let your first word be your breath. Meaning when you put a breath where the first word should be, everything else flows... People who are truly confident know they don't always have to get it right.
+
+</details>
+
+#### 4. 应对悲伤 (Deal with Sadness)
+
+**Jefferson Fisher**: 第四，知道如何应对他们的悲伤。当某人悲伤时，你不要做的是以“如果需要什么请告诉我”开头。你这么做只是给了他们一项家务。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Number four, know how to deal with their sadness... when somebody is grieving, what you do not do is begin with let me know if... All you're doing is giving them a chore.
+
+</details>
+
+**Jefferson Fisher**: 相反，你直接去做那件事。去给他们买饭，去帮他们除草。不要问，直接做。如果你真的想表达关心，就把祈祷词发给他们，而不仅仅是说“为你祈祷”。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Instead, here's what you do when somebody's grieving. You do the thing... just go get them food. Go do the task... If you really mean it, text out the prayer to them.
+
+</details>
+
+#### 5. 应对侮辱 (Handle Insults)
+
+**Jefferson Fisher**: 第五，知道如何处理侮辱。如果你想应对试图用言语伤害你的人，首先你要做的是保持沉默，大约5到7秒的**什么都不做**。让这种沉默变得令人不适。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Number five... you have to know how to handle the insults... If you want to handle somebody who's trying to hurt you with their words, the first thing you have to do is have a bunch of silence or it's five to seven seconds of nothing.
+
+</details>
+
+**Jefferson Fisher**: 第二，要求他们重复一遍。“我需要你再说一遍。”大多数时候人们做不到。第三，如果需要，我会问他们：“你是想让这话听起来很粗鲁吗？你是想让这话听起来伤人吗？”
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Number two is you ask them to repeat it... Most of the time people can't do it. And number three, if I need to, I ask them, "Did you mean did you mean for that to sound rude?... Did you mean for that to sound upsetting?"
+
+</details>
+
+**Jefferson Fisher**: 这就像把聚光灯转回到他们身上。这会制造**认知失调**（Cognitive Dissonance），因为没有人认为自己是坏人。当你问那个问题时，他们不得不面对那个身份，通常他们会退缩。
+
+<details>
+<summary>Original English</summary>
+
+**Jefferson Fisher**: Whenever somebody is saying something that's to belittle you... they're putting a big spotlight on themselves... And then when you ask a question... it allows their words to kind of echo back to them... They can't bear the thought of saying yes to that. So, they have to tweak it.
+
+</details>
