@@ -1,0 +1,1288 @@
+How
+ sure
+ are
+ you
+ that
+ you
+ can
+ tell
+
+
+what's
+ real
+ online?
+
+
+You
+ might
+ think
+ it's
+ easy
+ to
+ spot
+ an
+
+
+obviously
+ AI
+ generated
+ image
+ and
+ you're
+
+
+probably
+ aware
+ that
+ algorithms
+ are
+
+
+biased
+ in
+ some
+ way,
+ but
+ all
+ the
+ evidence
+
+
+is
+ suggesting
+ that
+ we're
+ pretty
+ bad
+ at
+
+
+understanding
+ that
+ on
+ a
+ subconscious
+
+
+level.
+ Take
+ for
+ example
+ the
+ growing
+
+
+perception
+ gap
+ in
+ America.
+ We
+ keep
+ over
+
+
+and
+ overestimating
+ how
+ extreme
+ other
+
+
+people's
+ political
+ beliefs
+ are.
+ This
+ is
+
+
+only
+ getting
+ worse
+ with
+ social
+ media
+
+
+because
+ algorithms
+ show
+ us
+ the
+ most
+
+
+extreme
+ picture
+ of
+ reality.
+ As
+ an
+
+
+etmologist
+ and
+ content
+ creator,
+ I
+ always
+
+
+see
+ controversial
+ messages
+ go
+ more
+ viral
+
+
+because
+ they
+ generate
+ more
+ engagement
+
+
+than
+ a
+ neutral
+ perspective.
+ But
+ that
+
+
+means
+ we
+ all
+ end
+ up
+ seeing
+ this
+ more
+
+
+extreme
+ version
+ of
+ reality
+ and
+ we're
+
+
+clearly
+ starting
+ to
+ confuse
+ that
+ with
+
+
+actual
+ reality.
+ The
+ same
+ thing
+ is
+
+
+currently
+ happening
+ with
+ AI
+ chat
+ bots
+
+
+because
+ you
+ probably
+ assume
+ that
+ chatbt
+
+
+is
+ speaking
+ English
+ to
+ you
+ except
+ it's
+
+
+not
+ speaking
+ English.
+ In
+ the
+ same
+ way
+
+
+that
+ the
+ algorithm
+ is
+ not
+ showing
+ you
+
+
+reality,
+ there
+ are
+ always
+ distortions
+
+
+depending
+ on
+ what
+ goes
+ into
+ the
+ model
+
+
+and
+ how
+ it's
+ trained.
+ Like
+ we
+ know
+ that
+
+
+Chad
+ says
+ delve
+ at
+ way
+ higher
+ rates
+ than
+
+
+usual,
+ possibly
+ because
+ OpenAI
+
+
+outsourced
+ its
+ training
+ process
+ to
+
+
+workers
+ in
+ Nigeria
+ who
+ do
+ actually
+ say
+
+
+delve
+ more
+ frequently.
+ Over
+ time
+ though,
+
+
+that
+ little
+ linguistic
+ over
+
+
+representation
+ got
+ reinforced
+ into
+ the
+
+
+model
+ even
+ more
+ than
+ in
+ the
+ workers
+ own
+
+
+dialects.
+ Now
+ that's
+ affecting
+
+
+everybody's
+ language.
+ Multiple
+ studies
+
+
+have
+ found
+ that
+ since
+ Chad
+ GPTt
+ came
+
+
+out,
+ people
+ everywhere
+ have
+ been
+ saying
+
+
+the
+ word
+ delmore
+ in
+ spontaneous
+ spoken
+
+
+conversation.
+
+
+Essentially,
+ we're
+ subconsciously
+
+
+confusing
+ the
+ AI
+ version
+ of
+ language
+
+
+with
+ actual
+ language.
+ But
+ that
+ means
+
+
+that
+ the
+ real
+ thing
+ is
+ ironically
+
+
+getting
+ closer
+ to
+ the
+ machine
+ version
+ of
+
+
+the
+ thing.
+ We're
+ in
+ a
+ positive
+ feedback
+
+
+loop
+ with
+ the
+ AI
+ representing
+ reality,
+
+
+us
+ thinking
+ that's
+ the
+ real
+ reality,
+ and
+
+
+then
+ regurgitating
+ it
+ so
+ that
+ the
+ AI
+ can
+
+
+be
+ fed
+ more
+ of
+ our
+ data.
+ You
+ can
+ also
+
+
+see
+ this
+ happening
+ with
+ the
+ algorithm
+
+
+through
+ words
+ like
+ hyperpop
+ which
+ wasn't
+
+
+really
+ part
+ of
+ our
+ cultural
+ lexicon
+
+
+until
+ Spotify
+ noticed
+ an
+ emerging
+
+
+cluster
+ of
+ similar
+ users
+ in
+ their
+
+
+algorithm.
+ As
+ soon
+ as
+ they
+ identified
+ it
+
+
+and
+ introduced
+ a
+ hyperpop
+ playlist,
+
+
+however,
+ the
+ aesthetic
+ was
+ given
+ a
+
+
+direction.
+ Now,
+ people
+ began
+ to
+ debate
+
+
+what
+ did
+ and
+ did
+ not
+ qualify
+ as
+
+
+hyperpop.
+ The
+ label
+ and
+ the
+ playlist
+
+
+made
+ the
+ phenomenon
+ more
+ real
+ by
+ giving
+
+
+them
+ something
+ to
+ identify
+ with
+ or
+
+
+against.
+ And
+ as
+ more
+ people
+ identified
+
+
+with
+ hyperpop,
+ more
+ musicians
+ also
+
+
+started
+ making
+ hyperpop
+ music.
+
+
+All
+ the
+ while,
+ the
+ cluster
+ of
+ similar
+
+
+listeners
+ and
+ the
+ algorithm
+ grew
+ larger
+
+
+and
+ larger
+ and
+ Spotify
+ kept
+ pushing
+ it
+
+
+more
+ and
+ more
+ because
+ these
+ platforms
+
+
+want
+ to
+ amplify
+ cultural
+ trends
+ to
+ keep
+
+
+you
+ on
+ the
+ app.
+ But
+ that
+ means
+ we
+ also
+
+
+lose
+ the
+ distinction
+ between
+ a
+ real
+
+
+trend
+ and
+ an
+ artificially
+ inflated
+
+
+trend.
+ And
+ yet
+ this
+ is
+ how
+ all
+ fads
+ now
+
+
+enter
+ the
+ mainstream.
+
+
+We
+ start
+ with
+ a
+ latent
+ cultural
+ desire
+
+
+like
+ maybe
+ some
+ people
+ are
+ interested
+ in
+
+
+matcha
+ or
+ labu
+ or
+ Dubai
+ chocolate.
+ The
+
+
+algorithm
+ identifies
+ this
+ desire
+ and
+
+
+pushes
+ it
+ to
+ similar
+ users,
+ making
+ the
+
+
+phenomenon
+ more
+ of
+ a
+ thing.
+ But
+ again,
+
+
+just
+ like
+ how
+ chatp
+ misrepresented
+ the
+
+
+word
+ delve,
+ um
+ the
+ algorithm
+ is
+ probably
+
+
+misrepresenting
+ reality.
+ Now,
+ more
+
+
+businesses
+ are
+ making
+ labu
+ content
+
+
+because
+ they
+ are
+ think
+ that's
+ the
+
+
+desire.
+ More
+ influencers
+ are
+ also
+ making
+
+
+labu
+ trends
+ because
+ we
+ have
+ to
+ tap
+ into
+
+
+trends
+ to
+ go
+ viral.
+ And
+ yet
+ the
+
+
+algorithm
+ is
+ only
+ showing
+ you
+ the
+
+
+visually
+ provocative
+ items
+ that
+ work
+ in
+
+
+the
+ video
+ format.
+
+
+Tik
+ Tok
+ has
+ a
+ limited
+ idea
+ of
+ who
+ you
+
+
+are
+ as
+ a
+ user
+ and
+ there's
+ no
+ way
+ that
+
+
+matches
+ up
+ with
+ your
+ complex
+ desires
+ as
+
+
+a
+ human
+ being.
+ So,
+ we
+ have
+ a
+ biased
+
+
+input
+ and
+ that's
+ assuming
+ that
+ social
+
+
+media
+ is
+ trying
+ to
+ faithfully
+ represent
+
+
+reality,
+ which
+ it
+ isn't.
+ Instead,
+ it's
+
+
+only
+ trying
+ to
+ do
+ what's
+ going
+ to
+ make
+
+
+money
+ for
+ them.
+ It's
+ in
+ Spotify's
+
+
+interest
+ to
+ have
+ you
+ listening
+ to
+
+
+hyperpop
+ and
+ it's
+ in
+ Tik
+ Tok's
+ interest
+
+
+to
+ have
+ you
+ looking
+ at
+ the
+ boo boos
+
+
+because
+ that's
+ commodifiable.
+ So
+ once
+
+
+again,
+ we
+ have
+ this
+ difference
+ between
+
+
+reality
+ and
+ the
+ representation
+ of
+
+
+reality
+ where
+ they're
+ actually
+
+
+constantly
+ influencing
+ one
+ another.
+
+
+But
+ it's
+ incredibly
+ dangerous
+ to
+ ignore
+
+
+that
+ distinction
+ because
+ this
+ goes
+
+
+beyond
+ our
+ language
+ and
+ our
+ consumptive
+
+
+behaviors.
+ This
+ affects
+ the
+ world
+ we
+ see
+
+
+as
+ possible.
+ Evidence
+ suggests
+ that
+
+
+chatbt
+ is
+ more
+ conservative
+ when
+
+
+speaking
+ the
+ Farsy
+ language,
+ likely
+
+
+because
+ the
+ limited
+ training
+ texts
+ in
+
+
+Iran
+ reflect
+ the
+ more
+ conservative
+
+
+political
+ climate
+ in
+ the
+ region.
+ Does
+
+
+that
+ mean
+ that
+ an
+ Iranian
+ chat
+ GPT
+ user
+
+
+will
+ think
+ more
+ conservative
+ thoughts?
+
+
+We
+ know
+ that
+ Elon
+ Musk
+ regularly
+ makes
+
+
+changes
+ to
+ his
+ chatbot
+ Grock
+ when
+ he
+
+
+doesn't
+ like
+ how
+ it's
+ responding
+ and
+
+
+that
+ he
+ uses
+ his
+ platform
+ X
+ to
+
+
+artificially
+ amplify
+ his
+ tweets.
+ Does
+
+
+that
+ mean
+ that
+ the
+ millions
+ of
+ Grock
+ and
+
+
+ex
+ users
+ are
+ subconsciously
+ being
+
+
+trained
+ to
+ align
+ with
+ Musk's
+ ideology?
+
+
+We
+ need
+ to
+ constantly
+ remember
+ that
+
+
+these
+ aren't
+ neutral
+ tools.
+ Everything
+
+
+that
+ ends
+ up
+ in
+ your
+ social
+ media
+ feed
+
+
+or
+ in
+ your
+ chatbot
+ responses
+ is
+ actually
+
+
+filtered
+ through
+ many
+ layers
+ of
+ what's
+
+
+good
+ for
+ the
+ platform,
+ what
+ makes
+ money,
+
+
+and
+ what
+ conforms
+ to
+ the
+ platform's
+
+
+incorrect
+ idea
+ about
+ who
+ you
+ are.
+ When
+
+
+we
+ ignore
+ this,
+ we
+ view
+ reality
+ through
+
+
+a
+ constant
+ survivorship
+ bias,
+ which
+
+
+affects
+ our
+ understanding
+ of
+ the
+ world.
+
+
+After
+ all,
+ if
+ you're
+ talking
+ more
+ like
+
+
+ChattyBT,
+ you're
+ probably
+ thinking
+ more
+
+
+like
+ Chat
+ GBT
+ as
+ well,
+ or
+ Tik
+ Tok,
+ or
+
+
+Spotify.
+ But
+ you
+ can
+ fight
+ this
+ if
+ you
+
+
+constantly
+ ask
+ yourself
+ why.
+ Why
+ am
+ I
+
+
+seeing
+ this?
+ Why
+ am
+ I
+ saying
+ this?
+ Why
+
+
+am
+ I
+ thinking
+ this?
+ And
+ why
+ is
+ the
+
+
+platform
+ rewarding
+ this?
+ If
+ you
+ don't
+
+
+ask
+ yourself
+ these
+ questions,
+ their
+
+
+version
+ of
+ reality
+ is
+ going
+ to
+ become
+
+
+your
+ version
+ of
+ reality.
+ So
+ stay
+ real.
+
+
+[applause]
