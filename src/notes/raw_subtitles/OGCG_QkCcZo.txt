@@ -1,0 +1,3858 @@
+How
+ many
+ people
+ here
+ know
+ what
+ poolside
+
+
+is
+ and
+ does?
+ Anyone?
+ Anyone?
+ Yeah.
+ So,
+
+
+let's
+ talk
+ about
+ that
+ real
+ quickly.
+
+
+Poolside
+ exists
+ to
+ close
+ the
+ gap
+ between
+
+
+models
+ and
+ human
+ intelligence.
+ That's
+
+
+literally
+ it.
+ That's
+ what
+ we're
+ here
+ to
+
+
+go
+ do.
+ We're
+ building
+ our
+ own
+ models
+
+
+from
+ scratch
+ to
+ do
+ this.
+ We're
+ based
+ on
+
+
+the
+ idea
+ 2
+ and
+ a
+ half
+ years
+ ago
+ that
+ we
+
+
+thought
+ next
+ token
+ prediction
+ was
+ an
+
+
+amazing
+ techn
+ technological
+
+
+breakthrough,
+ but
+ it
+ need
+ to
+ be
+ paired
+
+
+with
+ reinforcement
+ learning
+ really
+ to
+
+
+make
+ that
+ leap.
+ So
+ that's
+ what
+ we've
+
+
+been
+ doing
+ for
+ the
+ past
+ 2
+ and
+ a
+ half
+
+
+years.
+ So
+ we're
+ on
+ our
+ second
+ generation
+
+
+of
+ models
+ now,
+ Malibu
+ agent.
+ And
+ instead
+
+
+of
+ kind
+ of
+ like
+ walking
+ you
+ through
+ some
+
+
+slides
+ and
+ all
+ that,
+ we
+ just
+ thought
+
+
+maybe
+ I
+ don't
+ know,
+ let's
+ kind
+ of
+ show
+
+
+you
+ what
+ we're
+ doing
+ here.
+ So
+
+
+are
+ you
+ there?
+
+
+>> I
+ got
+ you,
+ Jason.
+
+
+>> So
+ as
+ I
+ said,
+ you
+ were
+ supposed
+ to
+ see
+
+
+him
+ today,
+ but
+ there's
+
+
+I
+ don't
+ know.
+ Our
+ airline
+ system
+ kind
+ of
+
+
+works
+ sometimes,
+ maybe.
+ So
+ he's
+ stuck
+ in
+
+
+California,
+ but
+ uh
+ we
+ thought
+ we'd
+ just
+
+
+walk
+ you
+ kind
+ of
+ through
+ some
+ um
+ some
+
+
+demos
+ here
+ today.
+ So
+ what
+ you're
+ looking
+
+
+at
+ here
+ is
+ a
+ very
+ modern
+ programming
+
+
+language
+ that
+ the
+ government
+ uses
+ to
+ run
+
+
+all
+ the
+ world's
+ critical
+ infrastructure
+
+
+called
+ ADA.
+ Anyone
+ familiar
+ with
+ ADA?
+
+
+>> Yes.
+ Yes.
+ Okay.
+ So
+ everyone
+ I
+ saw
+ put
+
+
+their
+ hands
+ up
+ for
+ ADA
+ either
+ has
+ no
+
+
+hair
+ or
+ gray
+ hair
+ like
+ me.
+ So
+ that
+
+
+should
+ tell
+ you
+ what's
+ going
+ on
+ here.
+ So
+
+
+ISO,
+ why
+ don't
+ we
+ uh
+ why
+ don't
+ we
+ figure
+
+
+out
+ what's
+ going
+ on
+ with
+ this
+ codebase
+
+
+here?
+
+
+>> Well,
+ let's
+ start
+ asking
+ what
+ the
+
+
+codebase
+ is
+ about.
+
+
+>> That's
+ great.
+ And
+ what
+ you're
+ seeing
+
+
+here
+ is
+ obviously
+ our
+ assistant
+ in
+ in
+
+
+Visual
+ Studio
+ Code
+ backed
+ by
+ poolside
+
+
+agent,
+ a
+ model
+ we
+ train
+ from
+ scratch
+
+
+using
+ our
+ proprietary
+ techniques.
+ Um,
+
+
+and
+ you
+ can
+ see
+ what's
+ going
+ on
+ here.
+
+
+Kind
+ of
+ the
+ stuff
+ you
+ expect
+ from
+ an
+
+
+agent.
+ Uh
+ and
+ obviously
+ the
+ form
+ factors
+
+
+of
+ all
+ of these
+ things
+ are
+ going
+ to
+
+
+change
+ a
+ couple
+ of
+ times
+ over
+ the
+ next
+
+
+couple
+ of
+ years,
+ but
+ you
+ know
+ people
+
+
+seem
+ to
+ like
+ VS
+ Code.
+ Uh
+ so
+ we're
+ going
+
+
+to
+ you
+ know
+ show
+ you
+ this
+ demo
+ here
+
+
+today.
+ So
+ you
+ can
+ see
+ from
+ this
+ it
+ kind
+
+
+of
+ went
+ through
+ told
+ you
+ what
+ this
+
+
+codebase
+ is
+ all
+ about
+ but
+ um
+ you
+ know
+
+
+these
+ things
+ run
+ in
+ our
+ satellites
+ and
+
+
+uh
+ I
+ don't
+ know
+ anything
+ about
+ ADA
+ but
+ I
+
+
+do
+ know
+ a
+ lot
+ about
+ a
+ couple
+ of
+ other
+
+
+programming
+ languages.
+ So
+ uh
+ ISO
+ what
+ do
+
+
+we
+ want
+ to
+ do
+ here?
+ Why
+ don't
+ we
+ uh
+ see
+
+
+what
+ this
+ thing
+ might
+ look
+ like
+ in
+ Rust?
+
+
+Let's
+ do
+ it.
+ Let's
+ ask
+ it
+ convert
+ this
+
+
+database
+ to
+ rest.
+
+
+>> So
+ obviously
+ you're
+ going
+ to
+ see
+ what's
+
+
+going
+ on
+ here.
+ Again,
+ if
+ you
+ guys
+ have
+
+
+used
+ other
+ tools,
+ you're
+ not
+ going
+ to
+
+
+expect
+ too
+ much
+ of
+ the
+ difference
+ for
+
+
+what's
+ happening
+ here.
+ Except
+ that
+
+
+again,
+ we're
+ backed
+ by
+ our
+ own
+ model.
+
+
+We're
+ not
+ using
+ Open
+ AI.
+ We're
+ not
+ using
+
+
+Anthropic.
+ This
+ is
+ poolside.
+ And
+
+
+poolside
+ is
+ a
+ bottom
+ and
+ top
+ stack
+ that
+
+
+is
+ right
+ now
+ if
+ no
+ one's
+ touched
+ it
+ and
+
+
+I
+ know
+ no
+ one
+ in
+ this
+ room
+ has
+ touched
+
+
+this
+ unless
+ you
+ work
+ for
+ a
+ three-letter
+
+
+agency,
+ a
+ defense
+ contractor,
+ or
+ you've
+
+
+sent
+ missiles
+ somewhere
+ that
+ we're
+ not
+
+
+going
+ to
+ talk
+ about
+ in
+ this
+ session.
+ Um
+
+
+because
+ that's
+ where
+ we're
+ working.
+
+
+We're
+ working
+ in
+ high
+ consequence
+ code
+
+
+environments
+ for
+ the
+ last
+ year
+ inside
+
+
+the
+ the
+ government
+ and
+ the
+ the
+ defense
+
+
+sector.
+ Um
+ as
+ you
+ can
+ see
+ from
+ this
+
+
+demo.
+ Um
+ so
+ what
+ you
+ see
+ here
+ is
+ is
+ kind
+
+
+of
+ going
+ through
+ doing
+ the
+ conversions.
+
+
+What
+ you
+ see
+ in
+ the
+ middle
+ pane
+ is
+
+
+something
+ that
+ we
+ built
+ to
+ kind
+ of
+ show
+
+
+you
+ as
+ the
+ streams
+ come
+ through
+ all
+ the
+
+
+different
+ changes
+ that
+ are
+ happening.
+
+
+Um,
+ one
+ of the
+ tricky
+ parts
+ about
+
+
+working
+ on
+ inside
+ the
+ defense
+ sector
+ and
+
+
+things
+ like
+ that
+ is
+ you
+ can't
+ have
+ an
+
+
+agent
+ that's
+ just
+ going
+ to
+ run
+ around
+
+
+and
+ do
+ stuff.
+ I
+ mean
+ like
+ I
+ can't
+ walk
+
+
+into
+ half
+ of
+ these
+ buildings.
+ You
+ can't
+
+
+give
+ an
+ agent
+ access
+ to
+ these
+ data
+
+
+source
+ and
+ just
+ say,
+ "Hey,
+ go
+ nuts."
+ You
+
+
+need
+ to
+ have
+ the
+ right
+ permissions.
+ You
+
+
+got
+ to
+ actually
+ really
+ ratchet
+ these
+
+
+things
+ down
+ to
+ do
+ things
+ inside
+ those
+
+
+environments
+ that
+ you
+ know
+ they
+ feel
+
+
+comfortable
+ with.
+ So,
+ uh,
+ where
+ are
+ we
+
+
+on
+ this
+ now?
+ What
+ is
+ is
+ it
+ trying
+ to
+ fix
+
+
+itself
+ yet?
+ Yes,
+ it's
+ it
+ wrote
+ about
+
+
+1152
+ lines
+ of
+ code.
+ Uh,
+ and
+ it
+ just
+
+
+popped
+ up
+ a
+ command
+ start
+ and
+ tested,
+
+
+excuse
+ me.
+ Uh,
+ so
+ we
+ see
+ here
+ all
+ the
+
+
+files
+ on
+ the
+ left
+ hand
+ side
+ that
+ it
+
+
+created.
+ Uh
+ this
+ is
+ essentially
+ our
+ live
+
+
+diff
+ view
+ that's
+ available.
+
+
+Uh
+ and
+ as
+ we
+ see
+ it's
+ currently
+ starting
+
+
+to
+ actually
+ test
+ it
+ out.
+
+
+So
+ this
+ is
+ the
+ part
+ where
+ we
+ just
+ sit
+
+
+here
+ and
+ watch
+ this
+ for
+ 3
+ minutes
+ and
+ I
+
+
+see
+ nothing.
+
+
+>> No.
+ What
+ you
+ see
+
+
+>> the
+ good
+ thing
+ is
+ that
+ this
+ is
+ a
+ very
+
+
+fast
+ inference.
+
+
+>> Yes.
+
+
+>> So
+ 1100
+ lines
+ of
+ code.
+
+
+>> Did
+ it
+ task
+ completed?
+
+
+>> Do
+ we
+ know
+ if
+ this
+ works
+ yet?
+
+
+>> Well,
+ let's
+ have
+ a
+ look.
+ So
+ it
+ actually
+
+
+wrote
+ some
+ bell
+ commands
+ to
+ test
+ it.
+ And
+
+
+when
+ we
+ check
+ out
+ the
+ output
+ of
+ those,
+
+
+this
+ actually
+ looks
+ pretty
+ good.
+
+
+>> We
+ ask
+
+
+>> can
+ we
+ verify
+ that
+
+
+>> to
+ run
+ it?
+ Let's
+ go
+ verify
+ it.
+ So
+ of
+
+
+course
+ our
+ agent
+ came
+ back
+ and
+ gave
+ a
+
+
+summary
+ of
+ what
+ it
+ did.
+ But
+ let's
+ just
+
+
+ask
+ how
+ to
+ run
+ this.
+
+
+Okay.
+
+
+So,
+
+
+I'm
+ going
+ to
+ go
+ open
+ up
+ now.
+ So,
+ it
+ says
+
+
+this
+ is
+ how
+ I
+ can
+ run
+ the
+ ADA
+ version
+
+
+and
+ this
+ is
+ how
+ I
+ can
+ run
+ the
+ Rust
+
+
+version.
+ Let's
+ run
+ the
+ Rust
+ version.
+
+
+Perfect.
+ Let's
+ have
+ a
+ look
+ at
+
+
+We
+ might
+ be
+ hitting
+ an
+ actual
+
+
+>> an
+ actual
+ demo
+ bug.
+
+
+>> Let's
+ have
+ a
+ look.
+
+
+>> Let's
+ see
+ what
+ happens.
+
+
+>> I
+ know.
+ No,
+ no.
+ Just
+ warnings.
+ Just
+
+
+warnings.
+
+
+>> Do
+ we
+ have an
+ unwrap
+ in
+ there
+ that
+ we
+
+
+need
+ to
+ take
+ care
+ of?
+ I
+ heard
+ that
+ those
+
+
+things
+ are
+ dangerous.
+
+
+>> So,
+ right
+ now
+ there's
+ a
+ ripple.
+
+
+Uh,
+ let's
+ hit
+ help.
+ See
+ what
+ we're
+ able
+
+
+to
+ do.
+ So,
+ it
+ looks
+ like
+ we
+ have a
+ set
+
+
+of
+ commands.
+ I'm
+ going
+ to
+ be
+ lazy.
+ I'm
+
+
+going
+ to
+ copy
+ paste
+ these
+ queries.
+
+
+So,
+ create
+ table
+ users.
+ Okay.
+ So
+ far
+ so
+
+
+good.
+
+
+Let's
+ insert
+ a
+ record.
+
+
+Okay.
+ Well,
+ let's
+ find
+ out
+ if
+ it
+
+
+actually
+ did
+ its
+ job.
+ Select
+ start
+ from
+
+
+users.
+ Okay,
+ we've
+ got
+ a
+ record
+ here.
+
+
+>> That's
+ nice.
+
+
+>> Now,
+ now
+ I
+ want
+ to
+ actually
+
+
+uh
+ you
+ see
+ if
+ I
+ use
+ the
+ up
+ arrow,
+
+
+it
+ doesn't
+ actually
+ allow
+ me
+ to
+ cycle
+
+
+through
+ commands.
+ Let's
+ ask
+ it
+ to
+ add
+ a
+
+
+feature.
+
+
+Uh
+
+
+allows
+ me
+ to
+ use
+ the
+ up
+ arrow
+ to
+ cycle
+
+
+through.
+
+
+I
+ think
+ it
+ will
+ understand
+ my
+ center.
+
+
+>> The
+ one
+ thing
+ we
+ know
+ about
+ ISO
+ is
+ he
+
+
+actually
+ does
+ know
+ how
+ to
+ read
+ and
+ write
+
+
+but
+ he
+ can't
+ type.
+ So
+ all
+ those
+ errors
+
+
+that
+ you're
+ seeing
+ in
+ there.
+ Uh
+ yeah.
+
+
+>> So
+ it
+ looks
+ like
+ the
+ agent's
+ identified
+
+
+a
+ package
+ that
+ we
+ can
+ use.
+ Let's
+ just
+
+
+quickly
+ look
+ here.
+ Compare
+ this
+ to
+ the
+
+
+Virgin
+ one.
+
+
+And
+ it
+ looks
+ like
+ it's
+ adding
+ a
+ library
+
+
+called
+ rusty
+ line
+ and
+ changing
+ the
+ files
+
+
+accordingly.
+
+
+It's
+ currently
+ built
+ it
+ and
+ it
+ looks
+
+
+like
+ the
+ build
+ output
+ is
+ successful.
+
+
+There's
+ some
+ warnings.
+ We'll
+ ask
+ it
+ to
+
+
+clean
+ those
+ up
+ later
+ on.
+ And
+ it's
+ now
+
+
+starting
+ to
+ test
+ it.
+
+
+Okay,
+ apparently
+ it
+ works.
+ It's
+ going
+ to
+
+
+It
+ wrote
+ itself
+ a
+ little
+ bash
+ script
+ to
+
+
+test
+ the
+ history.
+
+
+It's
+ wrote
+ itself
+ a
+ little
+ final
+ demo
+
+
+script.
+
+
+So
+ let's
+ let
+ it
+ Okay.
+ So,
+ and
+ it
+ gave
+ us
+
+
+the
+ summary.
+ Well,
+ now
+ how
+ do
+ I
+ rerun
+
+
+this?
+ I
+ do
+ kind
+ of
+ know
+ that,
+ though.
+
+
+So,
+ let's
+ just
+
+
+>> should
+ know
+ that.
+ That
+ was
+ 30
+ seconds
+
+
+ago.
+
+
+>> Let's
+ build
+ it.
+ And
+ let's
+ run
+ it
+ again.
+
+
+Okay,
+ let's
+ do
+ a
+ help.
+
+
+And
+ oh
+ yeah,
+ that's
+ the
+ up
+ arrow.
+ It
+
+
+works.
+
+
+>> Very
+ nice.
+
+
+>> Now,
+ our
+ models
+ aren't
+ just
+ capable
+
+
+coding
+ agents.
+ They're
+ capable
+ in
+ lots
+
+
+of
+ areas
+ of
+ knowledge
+ work.
+ They're
+ also
+
+
+emotionally
+ intelligent.
+ They're
+ fun.
+
+
+They're
+ great
+ to
+ write
+ bedtime
+ stories
+
+
+with
+ for
+ the
+ kids.
+ So,
+ I'm
+ going
+ to
+ ask
+
+
+you
+ to
+ write
+ me
+ a
+ poem
+ about
+ all
+ these
+
+
+changes,
+ but
+ that's
+ just
+ more
+ for
+ fun.
+
+
+So,
+ as
+ Isa
+ was
+ saying,
+ this
+ is
+ just
+ an
+
+
+interface
+ into
+ our
+ platform.
+ There's
+
+
+other
+ interfaces
+ into
+ it
+ if
+ you're
+
+
+inside
+ one
+ of
+ those
+ organizations
+ that
+
+
+has
+ adopted
+ poolside.
+ So
+ this
+ is
+ the
+
+
+coding
+ interface
+ into
+ it
+ but
+ we
+ also
+
+
+have
+ other
+ ways
+ in
+ which
+ you
+ you
+ can
+
+
+interact
+ with
+ it
+ web
+ as
+ well
+ as
+ an
+ agent
+
+
+that
+ you
+ can
+ download
+ on
+ your
+ machine
+
+
+but
+ um
+ yeah
+ we
+ don't
+ really
+ tout
+ the
+
+
+poem
+ writing
+ or
+ the
+ songwriting
+ though
+ I
+
+
+did
+ send
+ this
+ to
+ my
+ wife
+ to
+ see
+ and
+ I
+
+
+have
+ been
+ sending
+ her
+ love
+ letters
+
+
+written
+ by
+ poolside
+ so
+ I
+ kind
+ of
+ hope
+
+
+that
+ she
+ did
+ not
+ enter
+ this
+ session
+ to
+
+
+know
+ exactly
+ how
+ I've
+ been
+ doing
+ that
+
+
+for
+ the
+ past
+ 6
+ months
+ but
+ uh
+ yeah
+ so
+
+
+this
+ is
+ kind
+ of
+ poolside
+ this
+ is
+ what
+
+
+we've
+ been
+ up
+ to
+ Um,
+ so
+ as
+ I
+ said,
+
+
+Malibu
+ agent
+ is
+ as
+ a
+ second
+ generation.
+
+
+We've
+ got
+ a
+ ton
+ more
+ compute
+ coming
+
+
+online
+ and
+ that's
+ when
+ we're
+ training
+
+
+our
+ next
+ generation.
+ That
+ is
+ be
+ going
+ to
+
+
+be
+ the
+ one
+ that
+ comes
+ out
+ publicly
+ to
+
+
+everybody
+ very
+ early
+ next
+ year.
+ We're
+
+
+going to
+ have
+ it
+ behind
+ our
+ own
+ API.
+
+
+It'll
+ be
+ on
+ Amazon
+ behind
+ the
+ bedrock
+
+
+API.
+ Anybody
+ in
+ the
+ world
+ who's
+ building
+
+
+out
+ any
+ sort
+ of
+ on
+ a
+ one
+ side
+ the
+
+
+engineering
+ assistants
+ like
+ the
+ cursors,
+
+
+windsurfs,
+ cognitions,
+ replets
+ of
+ the
+
+
+world,
+ you
+ can
+ use
+ ours.
+ or
+ if
+ you
+ use
+
+
+building
+ out
+ on
+ any
+ other
+ side
+ of
+ the
+
+
+fence,
+ the
+ Harveys,
+ the
+ writers,
+ the
+
+
+whatever
+ applications
+ of
+ the
+ world,
+
+
+there's
+ going
+ to
+ be
+ a
+ fifth
+ model
+ out
+
+
+there
+ that's
+ going
+ to
+ be
+ at
+ that
+ level
+
+
+that
+ you
+ can
+ you
+ can
+ consume.
+ But
+ we're
+
+
+dead
+ set
+ on
+ doing
+ this
+ and
+ bringing
+ this
+
+
+out
+ to
+ everybody
+ in
+ the
+ world
+ and
+ kind
+
+
+of
+ advancing
+ that
+ state-of-the-art
+ and
+
+
+we're
+ just
+ going
+ to
+ keep
+ pushing
+ that
+
+
+out.
+ So,
+ that's
+ kind
+ of
+ who
+ we
+ are.
+ Um,
+
+
+and
+ uh
+ you
+ can
+ find
+ out
+ very
+ little
+ more
+
+
+at
+ our
+ website
+ since
+ we
+ don't
+ put
+ much
+
+
+out
+ there.
+
+
+But
+ Iso,
+ anything
+ else
+ you
+ want
+ to
+ say
+
+
+before
+ you
+ uh
+ try
+ to
+ go
+ make
+ your
+ flight
+
+
+this
+ time,
+ please?
+
+
+>> So,
+ I
+ would
+ say
+ that
+ it's
+ been
+ a
+ pretty
+
+
+incredible
+ journey
+ for
+ the
+ last
+ 2
+ and
+
+
+1/2
+ years
+ of
+ starting
+ entirely
+ from
+
+
+scratch
+ and
+ now
+ building
+ to
+ a
+ place
+
+
+where
+ we
+ see
+ our
+ models
+ have
+ grown
+ up
+ to
+
+
+become
+ increasingly
+ more
+ intelligent.
+
+
+And
+ the
+ kind
+ of
+ missing
+ ingredient
+ that
+
+
+we
+ had
+ was
+ compute.
+ And
+ now
+ that
+ it's
+
+
+unlocked
+ for
+ us
+ and
+ and
+ with
+ a
+ large
+
+
+number
+ of
+ over
+ 40,000
+ GB300s
+ coming
+
+
+online,
+ we
+ see
+ how
+ we
+ can
+ start
+ scaling
+
+
+up
+ some
+ of
+ those
+ models
+ uh
+ to
+ get
+ even
+
+
+further
+ uh
+ in
+ in
+ their
+ level
+ of
+
+
+capabilities
+ and
+ software
+ development
+
+
+and
+ other
+ types
+ of
+ long
+ horizon
+
+
+knowledge
+ work.
+ What
+ I
+ think
+ is
+ exciting
+
+
+about
+ this
+ conference
+ and
+ this
+ audience
+
+
+is
+ of
+ all
+ the
+ work
+ that's
+ happening
+ of
+
+
+evolving
+ the
+ form
+ factor.
+ Right?
+ Right
+
+
+now
+ what
+ we
+ looked
+ at
+ was
+ this
+
+
+asynchronous
+ way
+ of of
+ operating
+ with
+
+
+agents.
+ You
+ know,
+ Jason,
+ you
+ and
+ I,
+ we
+
+
+have
+ agents
+ running
+ that
+ are
+ doing
+ tasks
+
+
+for
+ for
+ hours,
+ and
+ I
+ think
+ in
+ the
+ near
+
+
+future,
+ we
+ can
+ see
+ a
+ world
+ where
+ they're
+
+
+able
+ to
+ start
+ doing
+ tasks
+ in
+ days
+ in
+ the
+
+
+coming
+ years.
+ And
+ so,
+ I
+ think
+ the
+
+
+interface
+ will
+ continue
+ to
+ change.
+ Uh,
+
+
+we're
+ really
+ focused
+ on
+ the
+
+
+fundamentals,
+ building
+ intelligence,
+ and
+
+
+being
+ able
+ to
+ scale
+ up
+ and
+ serve
+ it.
+ And
+
+
+it's
+ why
+ we
+ go
+ full
+ vertical.
+ It's
+ why
+
+
+we
+ go
+ from
+ our
+ multi
+ gigawatt
+ campus
+ in
+
+
+West
+ Texas
+ where
+ we're
+ building
+ out
+ data
+
+
+centers
+ building
+ out
+ models.
+ And
+ the
+
+
+interface
+ that
+ you
+ saw
+ today
+ is
+ just
+ our
+
+
+version
+ of
+ an
+ expression.
+ But
+ I
+ think
+
+
+this
+ audience
+ is
+ going
+ to
+ do
+ an
+
+
+incredible
+ job
+ of
+ building
+ lots
+ better
+
+
+versions
+ of
+ how
+ to
+ express
+ using
+ that
+
+
+intelligence
+ uh
+ into
+ actually,
+ you
+ know,
+
+
+valuable,
+ economically
+ valuable
+ work.
+
+
+Couldn't
+ have
+ said
+ it
+ better.
+ Can't
+ wait
+
+
+to
+ see
+ what
+ you
+ guys
+ build
+ on
+ this
+ uh
+ in
+
+
+the
+ future
+ when
+ it's
+ publicly
+ available.
+
+
+And
+ if
+ anyone
+ really
+ does
+ want
+ to
+ build
+
+
+a
+ data
+ center
+ campus,
+ we
+ are
+ hiring
+ for
+
+
+that.
+ Um
+ it
+ is
+ weird
+ to
+ be
+ putting
+
+
+shovels
+ in
+ ground
+ again
+ like
+ we
+ did
+ in
+
+
+the
+ '9s
+ and
+ early
+ 2000s,
+ but
+ that's
+ what
+
+
+you
+ got
+ to
+ do
+ to
+ scale
+ intelligence
+
+
+these
+ days.
+ So,
+
+
+>> I
+ would
+ make
+ one
+ other
+ non-scheduled
+
+
+statement
+ if
+ you're
+ going
+ to
+ be
+ okay
+
+
+with
+ this
+ one,
+ Jason.
+
+
+As
+ as
+ our
+ models
+ are
+ are
+ getting
+ more
+
+
+capable,
+ we'd
+ love
+ to
+ also
+ see
+ who
+ wants
+
+
+to
+ build
+ with
+ them.
+ Right
+ now,
+ the
+ the
+
+
+vast
+ majority
+ of
+ of
+ you
+ know,
+ companies
+
+
+that
+ are
+ doing
+ additional
+ reinforcement
+
+
+learning
+ and
+ fine-tuning
+ on
+ top
+ of
+
+
+models
+ are
+ are
+ doing
+ it
+ on
+ what
+ I
+ would
+
+
+consider
+ right
+ now
+ the
+ you
+ know,
+
+
+best-in-class
+ open
+ source
+ models,
+ the
+
+
+the
+ Quens
+ and
+ Fumies
+ and
+ Miniaxes
+ of
+ the
+
+
+world.
+ And
+ uh
+ we'd
+ like
+ to
+ start
+
+
+figuring
+ out
+ how
+ we
+ can
+ you
+ know
+ partner
+
+
+with
+ you
+ with
+ our
+ our
+ models
+ anywhere
+
+
+from
+ any
+ checkpoint
+ early
+ on
+ to
+ where
+ we
+
+
+are
+ today
+ for
+ you
+ to
+ be
+ building
+ closer
+
+
+together
+ with
+ us
+ on
+ top
+ of
+ things.
+ Uh
+ we
+
+
+haven't
+ really
+ figured
+ out
+ the
+ approach
+
+
+to
+ it
+ yet.
+ Uh
+ but
+ I
+ think
+ since
+ we
+ have
+
+
+this
+ audience
+ it's
+ uh
+ it's
+ not
+ a
+ bad
+
+
+place
+ to
+ put
+ it
+ out
+ there
+ and
+ so
+
+
+definitely
+ reach
+ out
+ to
+ us.
+ Uh
+ we
+ think
+
+
+the
+ world
+ till
+ date
+ was
+ built
+ by
+
+
+intelligence.
+ The
+ world
+ in
+ the
+ future
+
+
+has
+ been
+ built
+ on
+ top
+ of
+ intelligence
+
+
+and
+ so
+ be
+ a
+ great
+ way
+ to
+ partner.
+
+
+>> Well
+ thanks
+ ISO.
+ Thanks
+ everybody
+ here.
+
+
+And
+ now
+ we
+ do
+ have
+ 5
+ minutes
+ left.
+ I
+
+
+don't
+ know if
+ we're
+ supposed
+ to
+ take
+
+
+questions,
+ but
+ I'm
+ happy
+ to.
+ So,
+ if
+
+
+anyone
+ does,
+ but
+ if
+ not,
+ I'm
+ just
+ going
+
+
+to
+ go
+ that
+ way.
+
+
+>> What
+ was
+ that?
+
+
+>> Sort
+ of.
+ I
+ mean,
+ I
+ think
+ of
+ him
+ that
+
+
+way.
+ Here,
+ here's
+ a
+ fun
+ story.
+ Here's
+
+
+how
+ I
+ met
+ ISO.
+ I
+ like
+ to
+ tell
+ this
+ story
+
+
+because
+ um
+ ISO
+ is
+ a
+ fun
+ fun
+ dude.
+ I
+ met
+
+
+ISO
+ because
+ started
+ with
+ a
+ failed
+
+
+acquisition
+ at
+ GitHub.
+ So
+ back
+ when
+ I
+
+
+joined
+ GitHub
+ in
+ 2017
+ as
+ a
+ CTO,
+ I
+ wanted
+
+
+to
+ take
+ GitHub
+ from
+ a
+ kind
+ of
+
+
+collaborative
+ collaborative
+ code
+ host
+
+
+with
+ open
+ source
+ bent
+ and
+ turn
+ it
+ into
+
+
+an
+ endto-end
+ software
+ development
+
+
+platform
+ infused
+ by
+ intelligence.
+ And
+ so
+
+
+you
+ know
+ the
+ the
+ products
+ that
+ we
+
+
+launched
+ from
+ 27
+ on
+ or
+ 17
+ on
+ GitHub
+
+
+actions,
+ packages,
+ alerts,
+
+
+notifications,
+ eventually
+ code
+ spaces,
+
+
+um
+ and
+ then
+ co-pilot
+ was
+ the
+ last
+ thing
+
+
+that
+ the
+ office
+ of
+ the
+ CTO
+ did
+ before
+ I
+
+
+left
+ with
+ Nat
+ Friedman,
+ Uga
+ De
+ Moore,
+
+
+and
+ a
+ couple
+ of
+ other
+ folks
+ inside
+
+
+there.
+ But
+ ISO
+ in
+ 2017
+ when
+ I
+ joined
+ uh
+
+
+he
+ had
+ working
+ code
+ completion
+ before
+
+
+the
+ transform
+ architecture
+ had
+ landed
+
+
+fully.
+ He
+ had
+ on
+ LSTMs
+ and
+ so
+ I
+ quickly
+
+
+tried
+ to
+ acquire
+ his
+ company
+ and
+ he
+ just
+
+
+he
+ just
+ said
+ no.
+ So
+ he
+ just
+ said
+ no
+ to
+
+
+me.
+ Uh
+ but
+ we
+ had
+ that
+ was
+ a
+ long
+ drawn
+
+
+out
+ process
+ talking
+ about
+ what
+ we
+
+
+thought
+ neural
+ networks
+ were
+ going
+ to
+
+
+mean
+ for
+ the
+ world.
+ And
+ so
+ during
+ that
+
+
+process,
+ which
+ was
+ a
+ lengthy
+ one,
+ we
+
+
+became
+ really
+ good
+ friends
+ and
+ we'd
+
+
+stayed
+ in
+ close
+ contact
+ over
+ the
+ years.
+
+
+And
+ then
+ 22
+ rolled
+ around,
+ obviously
+
+
+Chat
+ GPT
+ comes
+ out,
+ Anthropics
+ out,
+ and
+
+
+we
+ kind
+ of
+ saw
+ the
+ endgame
+ at
+ play
+ and
+
+
+we
+ said,
+ "Do
+ we
+ jump
+ back
+ in
+ or
+ not?"
+
+
+And
+ of
+ course,
+ yes,
+ we
+ jump
+ back
+ in.
+ But
+
+
+I
+ like
+ to
+ tell
+ that
+ story
+ about
+ how
+ he
+
+
+just
+ kept
+ saying
+ no
+ to
+ me
+ and
+ I
+ just
+
+
+kept
+ asking
+ him
+ questions
+ and
+ eventually
+
+
+he
+ said,
+ "Yes,
+ we
+ should
+ found
+ a
+
+
+company."
+ Cuz
+ by
+ the
+ way,
+ when
+ I
+ asked
+
+
+him
+ if
+ we
+ should
+ do
+ this,
+ he
+ said,
+ "Oh,
+
+
+god
+ damn
+ no."
+ That
+ were
+ his
+ exact
+ words.
+
+
+He's
+ like,
+ "No,
+ we
+ should
+ just
+ learn
+ how
+
+
+to
+ paint
+ and
+ sail."
+ But
+ here
+ we
+ are.
+
+
+So,
+
+
+>> yeah,
+
+
+>> it's
+ it's
+ been
+ a
+ great
+ journey
+ together.
+
+
+Jason,
+ I
+ I
+ think
+ the
+ reason
+ we
+ ended
+ up
+
+
+doing
+ this
+ is
+ because
+ of
+ our
+ our
+
+
+opinionated
+ view
+ on
+ what
+ it
+ was
+ going
+ to
+
+
+take
+ to
+ build
+ more
+ capable
+ intelligence.
+
+
+And
+ in
+ the
+ first
+ 18
+ months
+ of
+ this
+
+
+company,
+ you
+ know,
+ obsessing
+ and
+
+
+focusing
+ on
+ reinforcement
+ learning
+
+
+combined
+ with
+ LMS
+ felt
+ like
+ one
+ of the
+
+
+most
+ contrarian
+ opinions
+ in
+ the
+ world,
+
+
+but
+ I
+ think
+ today
+ it's
+ absolutely
+ not.
+
+
+And
+ it's
+ super
+ exciting
+ to
+ see
+ the
+ the
+
+
+progress
+ that's
+ continuing
+ to
+ make
+ like
+
+
+we're
+ in
+ the
+ coming
+ years
+ we're
+ going
+ to
+
+
+see
+ the
+ world
+ that
+ started
+ in
+
+
+completions
+ and
+ went
+ to
+ chat
+ and
+ is
+ now
+
+
+at
+ a
+ gentic
+ increasingly
+ approach
+ more
+
+
+autonomous
+ and
+ we're
+ all
+ of
+ it
+ is
+
+
+stemming
+ effectively
+ from
+ the
+
+
+combination
+ of
+ bringing
+ highly
+ capable
+
+
+models
+ that
+ are
+ constantly
+ evolving
+
+
+together
+ with
+ real
+ world
+ problems
+ and
+
+
+and
+ I
+ think
+ what
+ we're
+ starting
+ to
+ see
+
+
+now
+ is
+ we're
+ entering
+ these
+ kind
+ of
+
+
+awkward
+ teenage
+ years
+ ahead
+ of
+ AGI
+ where
+
+
+everybody
+ in
+ this
+ room
+ is
+ building
+ out
+
+
+incredible
+ companies
+ and
+ applications
+ is
+
+
+bridging
+ this
+ gap
+ of
+ what
+ it
+ really
+
+
+takes
+ to
+ make
+ intelligence
+ that
+ in
+ its
+
+
+raw
+ form
+ actually
+ be
+ valuable
+ and
+ we
+ uh
+
+
+we
+ want
+ to
+ be
+ a
+ small
+ humble
+ part
+ of
+
+
+that.
+ We've
+ got
+ a
+ lot
+ of
+ work
+ still
+
+
+ahead
+ of
+ us.
+ Uh
+ the
+ team
+ is
+ growing.
+ Uh
+
+
+but
+ hopefully
+ what
+ you've
+ seen
+ today
+ uh
+
+
+is
+ what
+ our
+ our
+ customers
+ and
+
+
+enterprises
+ have
+ been
+ having
+ access
+ to
+
+
+and
+ seeing
+ for
+ a
+ while
+ is
+ that
+ we're
+ you
+
+
+know
+ hard
+ at
+ work
+ at
+ uh
+ at
+ really
+
+
+pushing
+ those
+ capabilities.
+ We
+ also
+ want
+
+
+to
+ make
+ sure
+ we
+ make
+ them
+ available
+ to
+
+
+build
+ together
+ with
+ others.
+
+
+>> Well,
+ that's
+ it.
+ Thanks
+ everybody.
