@@ -23,7 +23,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=f43Qltd-8KQ
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入剖析了国民党在国共内战中惨败的多重原因。文章批判性地审视了国民党对共产党军队实力的严重低估、国民党内部严重的派系内斗，以及由此在辽西会战中蒋介石与卫立煌之间指挥冲突所导致的混乱。此外，文章还分析了徐蚌会战中蒋介石的越级指挥和桂系为自保而袖手旁观的行为，强调这些战略和组织上的失误如何最终导致国民党的全面溃败。
 tags:

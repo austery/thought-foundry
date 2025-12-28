@@ -11,7 +11,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=eSkj46hi5FU
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入探讨1930年代国民党内部的派系斗争，特别是蒋介石如何巩固权力、羁押胡汉民，以及这系列事件如何提前引爆九一八事变，最终促成民族危机下的团结。
 tags:

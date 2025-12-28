@@ -11,7 +11,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=oIlZKnlG-6g
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入探討了賴清德拒絕執行《財劃法》後引發的彈劾風波與憲政危機。作者分析了台灣憲法法庭從威權時期的「橡皮圖章」到民主轉型期的推手，再到2025年捲入高度政治化的演變過程。文章詳細論述了憲法法庭在「大罷免」時代的關鍵角色、近期關於《憲法訴訟法》修正案的爭議，以及大法官強行開庭帶來的法理挑戰，並通過對比德國、意大利、日本等國的司法制度，指出了台灣民主制度背後的國族認同衝突與身分政治困境。
 tags:

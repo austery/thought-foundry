@@ -11,7 +11,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=l-0iGsgswxo
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入分析解放军对台“斩首行动”的理论无效性，并剖析中共支撑此行动的三个台湾社会政治假设：台湾趋向准威权、内部民意撕裂及权力交接法律断层。文章逐一审视这些假设的合理性，探讨台湾民主现状与潜在危机。
 tags:

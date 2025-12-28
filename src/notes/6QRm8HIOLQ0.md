@@ -13,7 +13,7 @@ products_models: []
 project: []
 series: null
 source: https://www.youtube.com/watch?v=6QRm8HIOLQ0&t
-speaker: ZetaBook
+speaker: 禁書筆記
 summary: 剖析台灣半導體產業的「荷蘭病」現象，揭示「矽盾」背後對經濟、社會、資源造成的結構性失衡與詛咒。
 tags:
 - financial

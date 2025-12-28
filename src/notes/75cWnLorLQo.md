@@ -44,7 +44,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=75cWnLorLQo
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入探讨了国民党在1927年至1949年内战中失败的深层结构性原因，而非简单归结为个人能力。通过对比“伟人历史观”与“结构历史观”，文章引入了“高塔”与“广场”的隐喻：蒋介石试图建立的中央集权“高塔”，始终未能驯服国民党内部盘根错节的派系“广场”。文章详细剖析了国民党内部的军事、文官和金融三大派系，揭示了其固有的离心力如何最终压倒向心力，导致系统解体，为国民党最终的溃败埋下伏笔。
 tags:

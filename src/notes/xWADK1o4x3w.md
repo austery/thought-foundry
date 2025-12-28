@@ -11,7 +11,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=xWADK1o4x3w
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入剖析日本“安保过敏症”的根源，追溯至1960年的安保斗争，探讨其如何影响日本政坛及对台海局势的潜在影响。分析日本民众反战共识，以及高市早苗新任首相下面临的挑战。
 tags:

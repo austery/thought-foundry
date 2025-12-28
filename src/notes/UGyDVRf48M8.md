@@ -18,7 +18,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=UGyDVRf48M8
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入探討了面對強大外部威脅時，弱勢政權如何通過「小中華意識形態」維持其內部合法性與集體自尊。文章以朝鮮在明清交替時期的「中華正統在朝鮮」觀念，對比台灣國民黨在「九二共識」框架下的「一中各表」策略。分析指出，這兩種策略本質上都是一種精神勝利法，旨在通過文化優越感或模糊的政治共識，在現實政治壓力下尋求生存空間與經貿紅利，同時維護內部統治的道德基礎。
 tags:

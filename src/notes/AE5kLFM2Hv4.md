@@ -17,7 +17,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=AE5kLFM2Hv4
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本期《禁書筆記》從歷史上的朝貢體系出發，分析中國作為一個內斂型帝國的特點，並以琉球、朝鮮、越南為例，探討小國如何在大國之間周旋。文章認為，理解中國的統治哲學，拿捏住中國人的「爽點」，是台灣維持現狀的關鍵。將中國視為納粹是危險的比喻，而重建21世紀的朝貢體系，才是中國當代最大的野心。
 tags:

@@ -20,7 +20,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=boBjhVuChII
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入探讨了当前中美新冷战与19世纪英俄“大博弈”之间的历史相似性，分析了当时英国和沙俄在中亚的战略角力、代理人战争及最终的和解。通过回顾阿富汗作为缓冲国的历史经验，文章提出台湾在未来中美冲突中，若能成为“东亚阿富汗”式的附庸国，或许是其最佳结局。文章还分析了大国战略的演变、地缘政治的复杂性以及意识形态对国家道路的影响。
 tags:

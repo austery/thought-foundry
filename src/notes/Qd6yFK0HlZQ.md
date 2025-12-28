@@ -23,7 +23,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=Qd6yFK0HlZQ
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文深入探讨了吴石案在国共内战及台湾白色恐怖时期的关键作用，并将其置于冷战地缘政治背景下，与美国的麦卡锡主义进行对比。文章分析了吴石案如何被蒋介石政权用作树立反共威信的手段，以及白色恐怖如何从无序镇压演变为制度化暴力。同时，也揭示了麦卡锡主义对美国外交政策的深远影响，强调了历史事件之间的因果链条，以及政治论述中切割历史的危害。
 tags:

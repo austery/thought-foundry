@@ -11,7 +11,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=1Kz-j-GZ1cM
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文对比台湾政治人物柯文哲与古罗马保民官格拉古的经历，探讨政治素人挑战既得利益集团时面临的困境与可能的结局，揭示台湾政治生态中的“司法迫害”现象。
 tags:

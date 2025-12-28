@@ -1,10 +1,10 @@
 ---
-author: ZetaBook
+author: 禁書筆記
 date: '2025-12-25'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=x8we91Yf8Pg
-speaker: ZetaBook
+speaker: 禁書筆記
 tags:
   - low-human-rights-advantage
   - class-conflict

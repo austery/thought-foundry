@@ -11,7 +11,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=dA5k2bcaFsE
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本文通过对比中苏关系破裂的历史，分析台湾当前在美中竞争格局下的外交困境，探讨半导体产业、意识形态分歧及可能的“芬兰化”路径。
 tags:

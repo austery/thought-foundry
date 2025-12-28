@@ -20,7 +20,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=5zF4ITmhq_I
-speaker: ZetaBook
+speaker: 禁書筆記
 status: evergreen
 summary: 本期節目深入探討國民政府時期法幣與金圓券的改革歷程及其失敗原因，揭示金融權力鬥爭、戰爭影響及政治決策對中國經濟的深遠衝擊，並藉此反思當代中國經濟。
 tags:
