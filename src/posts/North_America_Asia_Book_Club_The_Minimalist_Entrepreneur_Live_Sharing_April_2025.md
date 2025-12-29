@@ -19,7 +19,7 @@ products_models: []
 project: []
 series: null
 source: null
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 summary: null
 tags:
 - community

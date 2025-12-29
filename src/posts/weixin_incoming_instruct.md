@@ -1,15 +1,15 @@
 ---
 title: 微信接收海外亲人汇款：详细指南
 summary: null
-area: null
-category: null
-project: []
+area: life-family
+category: finance
 tags:
+- wechat
 - wise
 companies_orgs: []
 products_models: []
 media_books:
-- 指南
+
 date: '2025-07-29'
 author: Lei
 speaker: Google Gemini

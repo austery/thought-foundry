@@ -34,18 +34,9 @@ media_books:
 - 《Stolen Focus (偷以此书)》
 - reading-review
 people:
-- Ray
-- Vivi
-- Naval Ravikant
-- Nassim Nicholas Taleb
-- Steven Pinker
-- 刘仲敬
-- Annie Duke
-- Charlie Munger
-- Daniel Kahneman
 project: []
 source: https://www.youtube.com/watch?v=AmU9MGywFVg
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 summary: 本期读书会为年度复盘特别场。Vivi、Shiqi、Michael、鹏哥、陆遥和Carmen分享了2025年对他们影响最深的书籍与生活感悟。讨论涵盖了《反脆弱》与《黑天鹅》中的不确定性应对、阿德勒心理学在亲子教育中的实战应用、《Just
   Keep Buying》的投资哲学、以及如何利用《Clear Thinking》构建高效的AI交互模型。鹏哥还深度分享了利用AI进行复杂代码开发（如机票搜索工具）的经验。
 tags:

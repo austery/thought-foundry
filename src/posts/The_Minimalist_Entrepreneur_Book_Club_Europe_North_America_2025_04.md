@@ -9,15 +9,13 @@ guest: ''
 insight: null
 layout: post.njk
 media_books:
-- 读书会
 people:
-- Vivian
-- Fancy
+
 products_models: []
 project: []
 series: null
 source: null
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 summary: null
 tags:
 - entrepreneurship

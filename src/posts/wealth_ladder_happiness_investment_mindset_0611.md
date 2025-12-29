@@ -18,19 +18,12 @@ media_books:
 - 《21世纪资本论》
 - All-In Podcast
 people:
-- Vivi
-- Rui
-- Elon Musk
-- Donald Trump
-- Kamala Harris
-- Bill Gates
-- Michelangelo
 products_models:
 - S&P 500
 - Starlink
 project: []
 source: ''
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 status: evergreen
 summary: 本次读书会围绕财富阶梯的概念展开了深入讨论。参与者们分享了各自在不同财富阶段的亲身经历，探讨了从Level 1的生存挣扎到更高阶财富自由的心理变化。讨论不仅涵盖了投资策略、消费观念和被动收入的重要性，更触及了金钱与幸福感、个人价值实现、子女财商教育以及人际关系等深层话题，并对书中的财富框架提出了批判性思考。
 tags:

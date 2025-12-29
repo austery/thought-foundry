@@ -4,7 +4,7 @@ author: Lei
 category: psychology
 channel: null
 companies_orgs: []
-date: '2025-07-10'
+date: '2025-07-29'
 guest: ''
 insight: null
 layout: post.njk
@@ -20,13 +20,13 @@ products_models: []
 project: []
 series: null
 source: null
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 summary: null
 tags:
 - adlerian-psychology
 - psychology
 - self
-title: 《被讨厌的勇气》读书会讨论-亚洲区
+title: 2025-07-29 《被讨厌的勇气》读书会讨论-亚洲区
 ---
 ## 开场与预告
 

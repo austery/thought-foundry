@@ -11,18 +11,17 @@ layout: post.njk
 media_books:
 - 被讨厌的勇气
 people:
-- Fancy
 products_models: []
 project: []
 series: null
 source: null
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 summary: null
 tags:
 - adlerian-psychology
 - psychology
 - self
-title: 《被讨厌的勇气》读书会讨论-欧洲区
+title: 2025-07-10 《被讨厌的勇气》读书会讨论-欧洲区
 ---
 ## 开场与介绍
 

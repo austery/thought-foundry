@@ -21,17 +21,7 @@ media_books:
 - 《纳瓦尔宝典》
 - 《Die with Zero》
 people:
-- Ray
-- Betty
-- Eric
-- Max
-- Jake
-- Evan
-- Zalira
-- Naval Ravikant
-- Elon Musk
-- Jeff Bezos
-- Bill Gates
+
 products_models:
 - Tesla
 - S&P 500
@@ -39,7 +29,7 @@ products_models:
 - Twitter
 project: []
 source: ''
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 status: evergreen
 summary: 本次读书会深入探讨了《财富的阶梯》一书的核心理念。参与者们结合个人经历，分享了对不同财富等级的理解、从“工作”到“事业”的转变思考、对书中规则的批判性审视，以及如何在追求财务增长与体验人生价值之间找到平衡。讨论涵盖了资产配置、消费观念、风险管理以及“标准姿势”与“非标路径”在财富积累过程中的作用等多个维度。
 tags:

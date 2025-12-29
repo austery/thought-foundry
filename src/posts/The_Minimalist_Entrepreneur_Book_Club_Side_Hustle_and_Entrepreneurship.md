@@ -4,25 +4,22 @@ author: Lei
 category: psychology
 channel: null
 companies_orgs: []
-date: '2025-07-10'
+date: '2025-04-30'
 guest: ''
 insight: null
 layout: post.njk
 media_books:
-- 读书会
 people:
-- Vivian
-- Simon
-- Fancy
+
 products_models: []
 project: []
 series: null
 source: null
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 summary: null
 tags:
 - personal-growth
-- 小而美
+- minimalism
 title: 《小而美》读书会：关于副业与创业的思考与实践
 ---
 **主题书籍：**《The Minimalist Entrepreneur》（小而美：持续盈利的经营法则）

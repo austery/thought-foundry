@@ -16,20 +16,13 @@ media_books:
 - 《拿铁因素》
 - 《成为母亲》
 people:
-- Zalira
-- Remy
-- Vance
-- Frank
-- Vivi
-- Jeff Bezos
-- Warren Buffett
 products_models:
 - VOO
 - QQQ
 - Bitcoin
 project: []
 source: ''
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 status: evergreen
 summary: 本次读书会深入探讨了财富的六个层级概念。参与者们分享了各自在不同财富阶段的亲身经历和感悟，从Level 1的生存挣扎到对更高阶财富自由的思考。讨论不仅涵盖了投资、储蓄等实际策略，更触及了金钱与幸福感、个人价值实现以及子女财商教育等深层话题，反思了财富阶梯作为人生地图的意义与局限性。
 tags:

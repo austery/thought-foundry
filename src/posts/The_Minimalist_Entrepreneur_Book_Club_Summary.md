@@ -5,15 +5,15 @@ area: null
 category: null
 project: []
 tags:
-  - 小小而美
+- personal-growth
+- minimalism
 people: []
 companies_orgs: []
 products_models: []
 media_books:
-- 读书会
 date: '2025-06-06'
 author: Lei
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 channel: null
 guest: null
 insight: null

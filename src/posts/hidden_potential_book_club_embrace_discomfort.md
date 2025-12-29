@@ -25,7 +25,7 @@ products_models: []
 project: []
 series: Hidden Potential
 source: ''
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 tags:
 - personal-growth
 - 不舒适区

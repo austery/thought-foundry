@@ -14,7 +14,7 @@ media_books:
 - 播客制作
 date: '2025-07-10'
 author: Lei
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 channel: null
 guest: null
 insight: null

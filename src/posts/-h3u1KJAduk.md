@@ -24,17 +24,12 @@ media_books:
 - 《Everything I Never Told You》
 - 《海马星球》
 people:
-- Vivian
-- Ray
-- Jesse
-- Frank
-- Alex
+
 products_models:
-- Kindle
-- iPad
+
 project: []
 source: https://www.youtube.com/watch?v=-h3u1KJAduk
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 summary: 本次读书会围绕注意力危机展开深度讨论。成员们从各自的视角出发，探讨了社交媒体戒断、多任务处理的伪高效、物理空间隔离法以及阅读介质（纸质书vs电子书）对专注力的影响。讨论还涉及了ADHD的进化论视角、App设计中的成瘾机制，以及如何在算法围剿中通过“数字极简”和“预先承诺”重建内心秩序。
 tags:
 - attention-economy

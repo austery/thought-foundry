@@ -22,7 +22,7 @@ products_models: []
 project: []
 series: Hidden Potential
 source: null
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 summary: 社群成员围绕《Hidden Potential》一书，分享了学习新技能、看待犯错、以及通过刻意练习和战略性休息突破瓶颈的个人经历与感悟。
 tags:
 - psychology

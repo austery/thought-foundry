@@ -8,12 +8,11 @@ tags:
 - life
 - personal-growth
 - psychology
-- 副业探索
 companies_orgs: []
 products_models: []
 date: '2025-06-07'
 author: Lei
-speaker: 一口新饭读书会
+speaker: 一口新飯社群
 channel: 一口新饭
 guest: null
 insight: null
