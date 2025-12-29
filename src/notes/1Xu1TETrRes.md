@@ -47,7 +47,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=1Xu1TETrRes
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了刘慈欣科幻小说《三体》中西方影视改编的差异，并以此为切入点，剖析了中国文化输出的困境、科幻文学在东西方文化中的根源差异，以及中国影视产业所面临的深层问题。文章通过对比两版《三体》的视觉符号，揭示了中国文化中言行割裂的现象，并强调了理解文化传播客观规律的重要性。
 tags:

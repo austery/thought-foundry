@@ -30,7 +30,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=GdDU3SBM5u8
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了李嘉诚家族将全球港口出售给贝莱德集团的交易，分析了中国官方、财经媒体及反共媒体对此事的不同解读。主持人张内咸认为，这笔交易是李嘉诚继1967年和1989年两次“抄底”后的第三次关键决策，展现了他对逆全球化趋势、劳资关系紧张及政治格局变化的深刻洞察。文章还批判了中国官方媒体的双标思维和川普政府“理想主义的保守主义”政策，揭示了李嘉诚作为“政商老油条”的独特商业智慧。
 tags:

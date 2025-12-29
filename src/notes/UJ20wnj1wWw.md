@@ -36,7 +36,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=UJ20wnj1wWw
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了中国影视产业的复杂格局，回应了观众关于电影引进审查、独特的“短剧”现象以及互动实拍游戏未来的提问。节目批判性地审视了中国影视业错综复杂的审查机制、“氪金经济”驱动的短剧模式，以及行业内人才与职业化发展的根本问题。最后，对中国影视产业的未来走向表达了悲观态度，并分享了讲者关于普及影像表达教育的愿景。
 tags:

@@ -71,7 +71,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=mucz5Ex2qhQ
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深度剖析了全球流媒体巨头 Netflix 在亚洲的本土化战略。通过对比中美互联网生态、回顾爱奇艺的失败案例，文章重点阐述了 Netflix 如何通过赋能韩国影视产业实现全球文化输出，并探讨了中国市场错失的发展良机。最后，文章依据豆瓣评分，详细解读了
   Netflix 亚洲原创剧集 Top 10 榜单，从《寄生兽》到《黑暗荣耀》，揭示了亚洲内容的独特魅力与创作趋势。

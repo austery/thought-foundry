@@ -33,7 +33,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=GDcL1nc-IqI
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了中国电影行业面临的深层文化困境，尤其是在美食题材电影上的缺失。主持人张内咸指出，从“战狼式”促销文案到“消费标兵”的荒谬，中文语言正经历“结构性失语”，党的语言与民族符号混淆，导致文化表达受阻。文章以李安的《饮食男女》为例，分析了视觉人类学在定义民族文化中的重要性，并呼吁在文化彻底崩塌前，恢复语言交流与开放，重塑民族符号的清晰性。
 tags:

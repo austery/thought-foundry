@@ -39,7 +39,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=MenkuAjvHAE
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了中国电影产业衰落的真正原因，驳斥了将审查制度视为唯一或主要症结的观点。作者通过对比中美电影产业的黄金时代与衰退周期，揭示了电影作为“夕阳产业”的全球性趋势，以及媒介流变对传统电影院线的冲击。文章强调，中国电影行业的问题根植于非理性投资、畸形的行业认知、缺乏市场化运营能力以及就业保障缺失等深层结构性问题，而非简单的创作自由受限。
 tags:

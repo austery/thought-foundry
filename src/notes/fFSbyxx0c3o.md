@@ -24,7 +24,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=fFSbyxx0c3o
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了中国电影缺乏分级制度的深层原因及其带来的严重后果。从近期引发争议的电影《南京照相馆》入手，揭示了煽动仇恨教育对儿童心理的负面影响，并批判了官方审查制度的荒谬与双标。节目进一步分析了中国无法建立分级制度与法治缺失的关联，以及“支黑”现象在其中扮演的复杂角色，呼吁社会各界关注儿童保护与文明底线。
 tags:

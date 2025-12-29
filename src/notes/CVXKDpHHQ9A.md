@@ -26,7 +26,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=CVXKDpHHQ9A
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目中，张内咸幽默地探讨了YouTube节目制作的幕后挑战，包括上传延误、版权问题和平台审查。他以讽刺的口吻回应了观众关于“被请喝茶”的担忧，并借此批判了中国社会宣传与幽默感的缺失。同时，他还纠正了一个关于张作霖逝世日期的历史性错误，深入剖析了“曼德拉效应”在中国语境下的体现，并对比了中美社会关怀体系的差异。
 tags:

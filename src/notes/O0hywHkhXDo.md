@@ -17,7 +17,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=O0hywHkhXDo
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文以泰国电影《姥姥的外孙》为例，深入探讨了亚洲特有的“催泪弹”电影类型及其背后反映的中国传统家庭价值观。影片通过遗产争夺的故事，揭示了华人社会中重男轻女、孝道异化以及对死亡的独特理解。作者对比了中西方电影美学与情感表达的差异，并反思了中国电影在文化输出方面的困境，呼吁更多关注普通人的生活故事。
 tags:

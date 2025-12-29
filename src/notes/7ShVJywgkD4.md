@@ -25,7 +25,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=7ShVJywgkD4
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目探讨了从万圣节恐怖片到国际政治“三角恋”，再深入剖析双十一购物狂欢背后的中国社会现象。主持人张内咸揭示了消费者，特别是中老年群体，因长期社会压力和经济不安全感而形成的病态消费心理，如“恐慌式销售”和“侮辱式销售”的有效性。他指出，这种“难民基因”和PTSD导致人们过度囤积和追求“占便宜”，反映出社会深层的心理创伤与经济困境，并呼吁重新思考经济转型和财富分配问题。
 tags:

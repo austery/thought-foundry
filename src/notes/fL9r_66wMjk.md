@@ -42,7 +42,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=fL9r_66wMjk
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 张内咸在本期节目中，从当前中美贸易战的紧张局势和地缘政治的混乱开场，引申至中国电影市场的困境与“经济内循环”的缩影。他分享了自己独特的成长背景——一个基督教家庭，从小接触西方文化，这让他与主流中国社会格格不入。通过对比中西方葬礼习俗的差异，以及亲身经历的趣事，他深入探讨了中国喜剧的发展历程、其面临的审查与禁忌，以及社会普遍缺乏幽默感的现状，最终为中国喜剧的未来点燃了一炷香。
 tags:

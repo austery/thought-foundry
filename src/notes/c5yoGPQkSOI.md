@@ -34,7 +34,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=c5yoGPQkSOI
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了中国大陆在经济下行、社会内耗背景下，串流媒体困境、内娱乱象及“战狼外交”所折射出的深层问题。通过对比《繁花》等怀旧题材与全球经济衰退背景下的影视作品，揭示了中国对过去的留恋。同时，文章着重分析了台湾经济在困境中实现逆袭的“台湾模式”，及其在社会改革和政策制定上的独特性，最终指出中国与台湾在价值观和发展路径上渐行渐远。
 tags:

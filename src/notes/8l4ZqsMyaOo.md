@@ -36,7 +36,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=8l4ZqsMyaOo
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入剖析了中国电影市场《哪吒》票房的虚高现象，以及潮流玩偶Labubu的爆红背后，所折射出的中国金融体系的深层问题。文章揭示了中国银行体系的失能、风险投资的畸形发展、企业上市的“换钱”本质，以及资本寻求离岸的强烈冲动。通过泡泡玛特作为案例，探讨了在特定环境下，企业如何从“潮玩商铺”蜕变为“巨型怪胎”，并指出这背后是中国政府对市场经济态度含混不清的根本原因。
 tags:

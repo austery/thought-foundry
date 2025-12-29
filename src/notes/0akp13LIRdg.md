@@ -27,7 +27,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=0akp13LIRdg
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文以大S离世的新闻为引，深入探讨了东亚社会中普遍存在的心理健康问题，如抑郁症、家庭关系中的“拖累症”以及女性普遍面临的“容貌焦虑”。通过对比中西方社会在处理这些问题上的差异，文章批判了中国社会对个体差异的不宽容、对心理健康的忽视，并呼吁社会观念现代化，以更好地接纳多元、疏导压力，避免更多悲剧的发生。
 tags:

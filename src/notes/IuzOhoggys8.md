@@ -29,7 +29,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=IuzOhoggys8
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了信息爆炸时代下，人们如何陷入“信息牢笼”并产生认知错位。文章从北京独特的政治八卦氛围切入，辨析“六度分隔理论”在现实中的应用，并深刻批判了中国“传播学”的本质。作者揭示了信息单向传递的危害，以及在高度紧张的政治生活中，普通人如何被情绪裹挟，最终导致社会认知能力的缺失。节目还通过娱乐圈事件和脸盲现象，讽刺了信息过载与官方叙事下的荒诞现实。
 tags:

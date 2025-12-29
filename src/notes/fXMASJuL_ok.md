@@ -22,7 +22,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=fXMASJuL_ok
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目中，张内咸分享了感染手足口病的经历，并以此引出作为家长的诸多不易，尤其在育儿、个人时间牺牲和家庭责任方面的挑战。他继而批判了中国育儿节目和官方媒体脱离实际的宣传，深入探讨了K字签证政策引发的社会反弹、经济下滑背景下的民生困境，以及北京中秋送礼风气的变化，最终以“啃树皮”的比喻，辛辣讽刺了当下中国社会面临的诸多问题。
 tags:

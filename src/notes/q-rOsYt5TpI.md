@@ -29,7 +29,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=q-rOsYt5TpI
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了中国社会中“渣男”现象的普遍性及其深层原因。分析指出，这一现象源于中国女性的“软弱”、社会价值观对“好人”的惩罚以及对“捞女”的污名化。节目还揭示了微博等平台如何利用性别对立制造流量，探讨了财商在个人发展中的作用，并通过对“捞女”一词的语言学分析，揭示了其与文革时期“资产阶级走狗”概念的惊人相似之处，最终指出中国社会在性别关系上存在的深刻矛盾和价值观扭曲。
 tags:

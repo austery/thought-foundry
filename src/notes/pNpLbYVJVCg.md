@@ -33,7 +33,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=pNpLbYVJVCg
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨台湾“大罢免”事件背后的深层原因，超越了简单的中共渗透论。作者分析了海外华人移民在民主社会中的融入困境、非黑即白的思维模式，以及对民主概念的扭曲理解。文章引入“均值回归”理论，阐释美国Z世代价值观回归保守的现象，并将其类比于台湾年轻一代的趋势。通过李敖父子的故事和个人经历，强调了思想观念的动态变化与人性的复杂性，指出政治走向受多重因素影响，而非单一操纵。
 tags:

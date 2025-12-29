@@ -35,7 +35,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=NQ6Ctfs2QTw
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了中美贸易战的反复与西方媒体对中国崛起的矛盾报道，并以诺贝尔奖为例，对比中日两国在科研领域的巨大差距。文章分析了中国科研投入的悖论、对文科生的歧视、以及科研成果的军事化导向。同时，也反思了中国社会中利他主义的缺失、社会共识的困境，以及启蒙运动的未竟之路，揭示了这些深层问题对中国科技发展和文明进步的根本性影响。
 tags:

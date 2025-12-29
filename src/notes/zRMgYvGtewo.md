@@ -45,7 +45,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=zRMgYvGtewo
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目集中回答观众提问，深入探讨了全球电影产业的衰落趋势，分析了中国电影面临的独特困境，并揭示了电影制作作为洗钱工具的灰色地带。同时，节目还追溯了政治讽刺笑话的历史渊源，并对备受关注的台海统一议题进行了批判性分析，强调现代战争需以民间仇恨为基础，并反思了大陆对台湾历史认知的盲区，特别是郑南榕事件。
 tags:

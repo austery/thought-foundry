@@ -33,7 +33,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=tqs0QdrYanA
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了中国社会围绕“山西大同订婚强奸案”引发的彩礼与性别对立热议。作者张内咸分析了彩礼作为“新娘价格”的人口买卖本质，并指出中国社会在婚姻观念上出现“集体返祖”现象，与政府废除彩礼的进步政策背道而驰。文章从人类学、历史和女性主义角度，追溯了聘礼与嫁妆的演变，并以苏联早期激进的平权政策为例，反思中国女性解放的脆弱性，最终揭示了当下中国社会普遍仇女、性别对立加剧的深层原因。
 tags:

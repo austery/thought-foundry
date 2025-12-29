@@ -24,7 +24,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=YEBjd0BU-BA
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了中国社会的多重面向，从缺乏内容分级制度对儿童成长环境的影响，到职场中的“摸鱼”文化和独特的“蹲文化”。主持人通过个人经历，剖析了中国南北方在商业思维和生活习惯上的差异，并以母亲的购房经历和一次荒诞的“商学院要饭”事件，展现了中国经济复杂性背后的社会与文化逻辑，强调了简单结论的不可行性。
 tags:

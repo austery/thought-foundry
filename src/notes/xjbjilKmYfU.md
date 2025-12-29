@@ -37,7 +37,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=xjbjilKmYfU
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了刘慈欣科幻小说《三体》及其影视改编，对比了中美版本对原著的理解与扭曲。主持人通过剖析刘慈欣的个人经历（如文革、河南大洪水），揭示了作品中隐藏的对社会现实的讽刺与反思，而非盲目推崇未来主义。文章批判了中国科幻创作的现状、官方对文化产品的政治化利用，并探讨了中国社会达尔文主义与未来主义思潮的根源，最终指出文化交流受阻对中国文化发展的影响。
 tags:

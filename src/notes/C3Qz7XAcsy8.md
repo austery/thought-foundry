@@ -26,7 +26,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=C3Qz7XAcsy8
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文探讨了中国社会在经济转型期的失业困境，以及在拍摄纪录片时遇到的真实表达障碍。主持人张内咸通过个人经历和对电影《别告诉她》的深入分析，揭示了中美文化、集体主义与个人主义、真相与善意谎言之间的深刻冲突。文章还讨论了华裔移民的身份认同困境，以及不同立场如何塑造人们对“中国好还是美国好”这一问题的认知与回答。
 tags:

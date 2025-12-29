@@ -36,7 +36,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=dv4CxaoDYG4
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了简中世界因美国大选和俄乌战争引发的社会撕裂，并以此为切入点，剖析了华人社会对“演员从政”的普遍偏见。通过梳理全球20位知名演员出身的政治人物，从市长到总统乃至更高职位，揭示了表演艺术与政治之间天然的紧密联系，并强调了在互联网时代，视频化表达能力的重要性，呼吁打破传统观念，拥抱新的交流方式。
 tags:

@@ -36,7 +36,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=KcrVM-7JKp0
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了奥斯卡颁奖典礼收视率持续下滑、品牌影响力衰退的深层原因。通过分析备受争议的最佳影片《阿诺拉》以及奥斯卡试图迎合Z时代年轻观众的努力，指出其核心问题并非简单的“政治正确”，而是好莱坞内部根深蒂固的阶级固化和传统影视工业对新兴互联网媒介的敌对态度，导致其失去了引领流行文化的能力，并最终造成受众老龄化。
 tags:

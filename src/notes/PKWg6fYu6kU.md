@@ -30,7 +30,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=PKWg6fYu6kU
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨校园霸凌现象，从历史上的阶级差异论，到现代社会中性别、种族、网络暴力等多维矛盾的激化。作者指出，尽管社会改革不断推进，霸凌问题依然普遍存在，其成因日益复杂。文章追溯了马克思关于社会矛盾的理论，并分析了多维矛盾如何导致社会撕裂，最终认为只要差异存在，霸凌便难以根除，呼吁成年社会减少戾气，促进理解与沟通。
 tags:

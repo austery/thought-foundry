@@ -42,7 +42,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZJJuitPZzX8
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了中国社会中普遍存在的“大热必死”和“捧杀”现象，通过分析中国电影市场的“内卷”困境、贾玲电影的票房争议，以及庆丰包子铺和“握手经济”等案例，揭示了政治流量如何被资本化，以及过度吹捧如何导致个人和企业的衰落。文章对比了中西方文化中对待成功和低调的不同态度，并引用陈佩斯喜剧和历史人物故事，剖析了这种中国式社会逻辑的深层根源及其对社会发展的深远影响。
 tags:

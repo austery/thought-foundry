@@ -14,7 +14,7 @@ products_models: []
 project: []
 series: null
 source: null
-speaker: Lei
+speaker: LT視界
 status: evergreen
 summary: This analysis covers the impacts of the US government shutdown on economic
   data, Trump's political and foreign policy maneuvers regarding funding and a Gaza

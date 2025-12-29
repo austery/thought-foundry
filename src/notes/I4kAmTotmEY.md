@@ -37,7 +37,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=I4kAmTotmEY
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了日本电影市场中动画剧场版对真人电影的压倒性优势，以《鬼灭之刃》等现象级作品为例，分析了其背后的文化、人口结构和粉丝经济驱动因素。文章指出，东亚儒家文化圈特有的“差序格局”和“想象的共同体”构建了极高的粉丝忠诚度与消费粘性。同时，日本新生代观众对ACG文化的偏好和人口结构变化，进一步加速了动画电影的崛起。作者警示，日本的今天可能是中国的明天，预示着中国电影市场真人电影将面临动画电影的全面碾压。
 tags:

@@ -34,7 +34,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=kcPlhH5MklU
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入剖析了北京人“又反又爱国”的矛盾性格，探讨了“京爷”与“天龙人”等标签背后的社会现实。通过分析从1975年到2025年间的十部关键电影，文章追溯了曾经辉煌的“京圈”文化如何被系统性地打压和消解，揭示了北京人在政治和文化层面被边缘化的历史进程，展现了一场长达半个世纪的“精神大逃杀”。
 tags:

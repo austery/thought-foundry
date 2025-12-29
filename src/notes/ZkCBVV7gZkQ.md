@@ -32,7 +32,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=ZkCBVV7gZkQ
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了中国春节联欢晚会如何从大众娱乐转变为服务上层、脱离民意的宣传工具。作者通过“赛博党建”这一概念，揭示了当前中国宣传活动中普遍存在的未来主义美学回潮，并追溯其与法西斯美学、苏联建筑及赛博朋克的历史渊源。文章还分析了中国演艺行业的非市场化特性，指出其核心目的已转向政绩展示和意识形态教育，而非民众喜闻乐见的艺术创作。
 tags:

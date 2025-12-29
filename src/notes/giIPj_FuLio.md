@@ -24,7 +24,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=giIPj_FuLio
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了西方奢侈品牌对中国市场的乐观预期与中国普通民众的真实经济感受之间的巨大反差。主持人通过个人经历和对北京商业生态的观察，揭示了中国社会中一种独特的“傲慢经济学”和“实力崇拜”逻辑。文章进一步分析了这种内部逻辑在国际关系中可能导致的“回旋镖效应”，并以中日冲突为例，批判了当前官方叙事和民众思维的非理性。
 tags:

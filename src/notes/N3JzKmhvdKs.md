@@ -29,7 +29,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=N3JzKmhvdKs
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了中国网络舆论场中“爱国网红”的兴衰现象。主持人张内咸通过分析十位典型人物的案例，揭示了他们如何利用爱国情绪获取流量，以及最终因言论过激、行为失当或官方整顿而“翻车”的命运。文章不仅梳理了这些大V的争议言行，更深入剖析了中国独特的网络环境、审查机制、社会文化心理，以及“爱国主义表演”背后的商业逻辑和个人困境，反思了这种“爱国生意”的长期影响与未来走向。
 tags:

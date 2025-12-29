@@ -23,7 +23,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=KqvPzPwQem0
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本期节目深入探讨了台湾网红陈之汉（馆长）因计划访华引发的争议，并以此为切入点，详细剖析了中国互联网的特殊环境、防火墙的运作机制以及“翻墙”行为的法律地位。主持人张内咸结合自身在北京的独特视角和工作经验，揭示了中国“翻墙”服务背后的真实供应商，并强调自2025年起，个人“翻墙”行为在中国法律上已不再违法，纠正了许多海内外华人对中国互联网政策的普遍误解。
 tags:

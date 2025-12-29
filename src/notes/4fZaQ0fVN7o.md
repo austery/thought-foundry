@@ -33,7 +33,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=4fZaQ0fVN7o
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 张内咸回顾了自己从2010年代在北京拍摄独立电影的经历，探讨了当时相对宽松的创作环境，以及如今言论和创作自由的急剧收缩。他通过三部作品《待业青年》、《草莓百分百》和《那些五脊六兽的日子》，展现了北京青年在“新时代”前的精神状态，并对比了中国社会从“批判政府是主流”到“全民抓间谍”的巨大转变。张内咸也分享了他作为YouTuber的定位，以及对中国独立电影未来的看法。
 tags:

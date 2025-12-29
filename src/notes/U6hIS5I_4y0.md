@@ -56,7 +56,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=U6hIS5I_4y0
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 一位导演分享了他利用多种主流AI模型，为2025年情人节挑选适合华人情侣观看电影的实验。他详细评测了Siri、讯飞星火、文心一言、Kimi、Meta
   AI、豆包、Google Gemini、Mistral、Claude、DeepSeek和ChatGPT等11款AI的推荐结果，揭示了它们在理解人类情感、文化语境和避免推荐陷阱方面的巨大差异。最终，ChatGPT凭借其对内容深度消化和情感后劲的精准把握脱颖而出，推荐了一部令人惊艳的电影。

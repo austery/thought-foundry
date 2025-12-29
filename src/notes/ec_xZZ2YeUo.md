@@ -26,7 +26,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=ec_xZZ2YeUo
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了美国YouTube网红IShowSpeed近期中国行引发的“中共外宣”争议。作者张内咸从专业角度剖析了中外网红经济的运作模式、YouTube平台的收益机制，并揭示了中国互联网因信息不透明和审查制度导致的认知盲区。文章指出，IShowSpeed并非中共外宣，其中国行是多种偶然因素叠加的结果，并呼吁中国政府反思对外宣传策略和互联网开放性。
 tags:

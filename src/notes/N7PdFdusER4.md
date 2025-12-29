@@ -17,7 +17,7 @@ people:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=N7PdFdusER4
-speaker: 張内咸
+speaker: 張内咸脫口秀
 status: evergreen
 summary: 本文深入探讨了万圣节的文化演变与东西方恐怖片差异的深层原因。从宗教改革历史到好莱坞商业化，再到中国电影审查与创作困境，分析了文化代沟如何影响对恐怖的感知。文章指出，真正的恐怖源于对现实社会不安的唤醒，而非简单的视觉刺激，并强调了“解构”思维在理解文化现象和商业本质中的重要性。
 tags:
