@@ -1,0 +1,15294 @@
+[music]
+
+
+Let's
+ talk
+ about
+ Chad
+ GBT.
+ I
+ think
+ like
+
+
+Chad
+ GBT
+ knows
+ a
+ lot
+ of
+ things.
+ It's
+
+
+actually
+ extremely
+ impressive.
+ I
+ use
+ it
+
+
+all
+ the
+ time.
+ I
+ used
+ it
+ to
+ help
+ prepare
+
+
+for
+ the
+ presentation.
+ I
+ used
+ it
+ to
+ cook
+
+
+last
+ night.
+ Um,
+ you
+ know,
+ very
+ like
+
+
+growing
+ increasingly
+ dependent.
+ And
+ yet,
+
+
+there's
+ a
+ lot
+ that
+ Chad
+ doesn't
+ know.
+
+
+Like,
+ um,
+ it
+ didn't
+ know
+ why
+ my
+ speaker
+
+
+pass
+ wasn't
+ working
+ when
+ I
+ was
+ trying
+ to
+
+
+get
+ into
+ the
+ building
+ and
+ it
+ uh,
+ if
+ you
+
+
+ask
+ it,
+ did
+ the
+ Blue
+ Jays
+ win
+ the
+ World
+
+
+Series?
+ The
+ answer
+ is
+ no.
+ And
+ I
+ know
+
+
+that
+ because
+ I
+ watch
+ the
+ World
+ Series,
+
+
+but
+ Chad
+ GBT
+ doesn't
+ know
+ that
+ if
+ you
+
+
+don't
+ enable
+ web
+ search
+ because
+ it
+ has
+
+
+something
+ called
+ a
+ knowledge
+ cut
+ off.
+ So
+
+
+all
+ the
+ training
+ data
+ is
+ kind
+ of
+
+
+segmented
+ by
+ date
+ and
+ things
+ after
+ a
+
+
+certain
+ date
+ are
+ not
+ known
+ by
+ chbttt
+
+
+like
+ unilaterally.
+ Uh
+ if
+ you
+ ask
+ jbt
+
+
+help
+ me
+ optimize
+ this
+ kernel
+ I
+ wrote
+ for
+
+
+AMD
+ GPUs
+ it's
+ so
+ bad
+ at
+ it
+ and
+ I
+ think
+
+
+there's
+ a
+ few
+ reasons
+ for
+ this.
+ One
+ it's
+
+
+really
+ hard.
+ Two
+ uh
+ there's
+ not
+ a
+ lot
+ of
+
+
+data
+ for
+ it.
+ But
+ three
+ I
+ think
+ it's
+ more
+
+
+that
+ the
+ data
+ that
+ does
+ exist
+ is
+ such
+ a
+
+
+small
+ portion
+ of
+ its
+ training
+ data
+ that
+
+
+it
+ just
+ like
+ can't
+ do
+ it
+ very
+ well.
+ And
+
+
+so
+ a
+ lot
+ of
+ tasks
+ like
+ this
+ which
+ I
+ I
+
+
+would
+ guess
+ a
+ lot
+ of
+ you
+ face
+ in
+ your
+
+
+jobs
+ like
+ the
+ things
+ that
+ are
+ more
+ niche
+
+
+or
+ here
+ I
+ call
+ longtail
+ are
+ really
+ hard
+
+
+for
+ Chad
+ GBT
+ to
+ do
+ even
+ if
+ you
+ say
+
+
+please
+ like
+ please
+ [laughter]
+ or
+ like
+ I
+
+
+want
+ you
+ to
+ learn
+ more
+ about
+ this
+ or
+
+
+practice
+ like
+ it
+ can't
+ learn
+ more
+ about
+
+
+this
+ it
+ can't
+ practice
+ it
+ it
+ doesn't
+
+
+know
+ uh
+ what
+ to
+ do
+ when
+ you
+ ask
+ it
+ that
+
+
+and
+ uh
+ yeah
+ if
+ you
+ ask
+ what
+ are
+ the
+
+
+terms
+ of
+ our
+ partnership
+ agreement
+ for
+
+
+Black
+ Rockck
+ it
+ doesn't
+ know
+ about
+ your
+
+
+company
+ which
+ any
+ shirts
+ should
+ I
+ order
+
+
+from
+ Amazon
+ on
+ implement
+ a
+ new
+ feature
+
+
+uh
+ in
+ our
+ company
+ monor
+ repo.
+ Write
+ an
+
+
+email
+ in
+ my
+ style.
+ Diagnose
+ this
+ patient
+
+
+given
+ their
+ history.
+ What
+ arguments
+ did
+
+
+the
+ opposing
+ council
+ use
+ in
+ the
+ Martinez
+
+
+settlement
+ negotiations?
+ Uh
+ is
+ this
+
+
+question
+ already
+ answered
+ on
+ our
+ company
+
+
+internal
+ wiki?
+ Like
+ none
+ of
+ these
+ things
+
+
+are
+
+
+possibly
+ answered
+ by
+ chatbt
+ because
+
+
+they're
+ not
+ in
+ the
+ training
+ data
+ or
+
+
+they're
+ too
+ niche
+ or
+ they
+ require
+ some
+
+
+data
+ that's
+ not
+ available
+ to
+ it.
+ So
+ I
+
+
+think
+ like
+ the
+ question
+ I
+ want
+ to
+ talk
+
+
+about
+ today
+ is
+ like
+ what's
+ the
+
+
+[clears throat]
+ right
+ way
+ to
+ solve
+ this
+
+
+problem?
+ Like
+ if
+ we
+ want
+ to
+ build
+ new
+
+
+systems
+ that
+ actually
+ know
+ the
+ things
+ we
+
+
+want
+ them
+ to
+ know.
+ Uh
+ how
+ how
+ should
+ we
+
+
+build
+ them?
+ And
+ I
+ think
+ like
+ the
+ way
+ I
+
+
+want
+ to
+ think
+ about
+ it
+ is
+ like
+ how
+ do
+ we
+
+
+take
+ some
+ knowledge
+ and
+ inject
+ it
+ into
+
+
+the
+ parameters
+ of
+ the
+ model?
+ Like
+ what's
+
+
+the
+ right
+ way
+ to
+ do
+ this?
+ And
+ like
+ the
+
+
+way
+ that
+ I
+ think
+ about
+ it
+ and
+ I
+ think
+
+
+the
+ way
+ this
+ manifests
+ in
+ my
+ research
+
+
+and
+ other
+ people's
+ research
+ is
+ there's
+
+
+three
+ ways.
+ There's
+ full
+ context.
+ you
+
+
+can
+ take
+ as
+ much
+ stuff
+ as
+ you
+ can
+ and
+
+
+cram
+ it
+ into
+ the
+ language
+ model.
+ There's
+
+
+rag
+ or
+ retrieval
+ augmented
+ generation
+
+
+where
+ you
+ have
+ so
+ many
+ things
+ that
+ you
+
+
+can't
+ fit
+ them
+ all
+ in
+ and
+ so
+ you
+
+
+retrieve
+ the
+ most
+ useful
+ ones
+ and
+ then
+
+
+feed
+ them
+ in.
+ And
+ then
+ there's
+ this
+
+
+third
+ thing
+ which
+ I
+ think
+ is
+ like
+ really
+
+
+new
+ and
+ no
+ one
+ is
+ doing
+ it
+ yet
+ which
+ is
+
+
+training
+ things
+ into
+ weights.
+ And
+ I
+ want
+
+
+what
+ I
+ mostly
+ want
+ to
+ talk
+ about
+ today
+
+
+is
+ like
+ why
+ I
+ think
+ we
+ should
+ be
+
+
+training
+ things
+ into
+ weights.
+ But
+ I'm
+
+
+going
+ to
+ start
+ with
+ the
+ other
+ two.
+ And
+
+
+also,
+ I
+ guess
+ like
+ along
+ the
+ way,
+ about
+
+
+10%
+ of
+ the
+ time,
+ I'm
+ going
+ to
+ be
+
+
+shilling
+ my
+ own
+ research,
+ but
+ I'm
+ gonna
+
+
+like
+ try
+ to
+ be
+ honest
+ about
+ it.
+ And
+ you
+
+
+can
+ just
+ tune
+ me
+ out
+ if
+ you
+ want.
+
+
+So,
+ I
+ think
+ like
+ the
+ easiest
+ way
+ to
+
+
+solve
+ these
+ problems
+ is
+ to
+ put
+
+
+everything
+ into
+ context.
+ It's
+ like
+ if
+
+
+you
+ work
+ at
+ a
+ small
+ company
+ or
+ um
+ all
+
+
+you
+ care
+ about
+ is
+ like
+ maybe
+ the
+ 100
+
+
+world
+ series
+ that
+ have
+ occurred,
+ you
+ can
+
+
+kind
+ of
+ copy
+ all
+ the
+ data
+ and
+ paste
+ it
+
+
+into
+ chat
+ GPT
+ or
+ paste
+ it
+ into
+ croc
+ or
+
+
+whatever
+ model
+ you
+ use.
+ And
+ that's
+
+
+finite
+ enough
+ that
+ the
+ model
+ can
+
+
+understand.
+
+
+And
+ this
+ like
+ works
+ works
+ pretty
+ well.
+ I
+
+
+think
+ that
+ this
+ is
+ something
+ that
+ got
+
+
+people
+ really
+ excited
+ for
+ a
+ while
+ a
+ few
+
+
+years
+ ago.
+ I
+ have
+ this
+ example
+ of
+ like
+ a
+
+
+doctor
+ answering
+ a
+ question
+ from
+ a
+
+
+medical
+ record.
+ a
+ medical
+ record
+ is
+
+
+small
+ enough
+ that
+ it
+ can
+ presumably
+ be
+
+
+like
+ inputed
+ into
+ the
+ context
+ of
+ the
+
+
+model
+ and
+ the
+ model
+ can
+ do
+ pretty
+ well.
+
+
+I
+ think
+ there's
+ a
+ few
+ problems
+ with
+
+
+this.
+ Maybe
+ the
+ main
+ one
+ is
+ just
+ that
+
+
+it's
+ so
+ expensive.
+ Like
+ if
+ you
+ do
+
+
+anything
+ like
+ this
+ in
+ your
+ day-to-day
+
+
+workflow,
+ you
+ put
+ like
+ a
+ ton
+ of
+ tokens
+
+
+into
+ context
+ and
+ start
+ generating.
+ I
+
+
+mean,
+ one,
+ it's
+ going
+ to
+ cost
+ a
+ lot
+ of
+
+
+money,
+ like
+ US
+ dollars,
+ but
+ two,
+ it's
+
+
+just
+ so
+ slow.
+ like
+ um
+ you
+ know
+ a
+ few
+
+
+months
+ ago
+ I
+ was
+ writing
+ my
+ thesis
+ and
+ I
+
+
+wrote
+ it
+ myself
+ but
+ I
+ did
+ ask
+ for
+ some
+
+
+feedback
+ a
+ few
+ times
+ from
+ Claude
+ and
+
+
+like
+ the
+ second
+ you
+ paste
+ in
+ I
+ I
+ don't
+
+
+know
+ it's
+ like
+
+
+>> maybe
+ 80
+ pages
+ of
+ text
+ or
+ something
+ like
+
+
+as
+ documents
+ go
+ it's
+ medium
+ length
+ I
+
+
+paste
+ into
+ claude
+ the
+ second
+ you
+ paste
+
+
+into
+ claude
+ everything
+ slows
+ down
+ by
+ 10x
+
+
+or
+ something
+ I
+ have
+ this
+ set
+ here
+ that
+
+
+if
+ you
+ have
+ 1,000
+ tokens
+ of
+ context
+
+
+>> we
+ can
+ output
+ 10,000
+ tokens
+ per
+ second.
+
+
+If
+ you
+ have
+ 128k
+ per
+ to
+ 128k
+ tokens
+ of
+
+
+context,
+ we
+ can
+ output
+ 130
+ tokens
+ per
+
+
+second.
+ So
+ that's
+ like
+ several
+ orders
+ of
+
+
+magnitude
+ slowdown
+ and
+ I
+ think
+ we've
+ all
+
+
+faced
+ this.
+ So
+ it's
+ very
+ annoying
+ and
+
+
+it's
+ hard
+ to
+ imagine
+ how
+ we
+ can
+ get
+
+
+around
+ this.
+ Um
+ I'll
+ give
+ you
+ like
+ the
+
+
+quick
+ background
+ from
+ the
+ research
+ world
+
+
+which
+ maybe
+ people
+ know
+ which
+ is
+ this
+
+
+inherent
+ limitation
+ the
+ models
+ we
+ use.
+
+
+The
+ models
+ we
+ use
+ are
+ transformers.
+
+
+Transformers
+ look
+ like
+ this.
+ The
+ real
+
+
+problem
+ with
+ transformers
+ comes
+ in
+ this
+
+
+one
+ little
+ uh
+ box
+ right
+ here
+ called
+ self
+
+
+attention.
+ The
+ problem
+ is
+ that
+ all
+ of
+
+
+the
+ words
+ that
+ go
+ into
+ the
+ transformer
+
+
+need
+ to
+ look
+ at
+ each
+ other.
+ And
+ this
+ has
+
+
+a
+ quadratic
+ dependency.
+ So
+ if
+ there's
+
+
+four
+ words,
+ four
+ tokens,
+ maybe
+ the
+
+
+matrix
+ has
+ 16
+ entries.
+ If
+ there
+ are
+ 12
+
+
+tokens,
+ there
+ are
+ 144
+ entries.
+ And
+ we
+
+
+can
+ manage
+ this
+ for
+ a
+ while,
+ but
+ at
+ some
+
+
+point
+ it
+ becomes
+ infeasible.
+ Like
+
+
+especially
+ from
+ a
+ memory
+ perspective,
+ we
+
+
+can't
+
+
+>> hold
+ the
+ mic.
+ From
+ a
+ memory
+ perspective,
+
+
+we
+ can't
+ keep
+ all
+ these
+ things
+ in
+
+
+context.
+
+
+You
+ might
+ say,
+ well,
+ Jack,
+ Grock
+ 4
+ has
+
+
+two
+ million
+ token
+ context
+ window.
+ Yeah,
+
+
+2
+ million
+ token
+ context
+ window.
+ It's
+
+
+it's
+ a
+ very
+ large
+ number.
+ Gemini
+ 3
+
+
+dropped
+ uh
+ during
+ this
+ conference
+ and
+
+
+Gemini
+ 3
+ has
+ 1
+ million
+ token
+ context
+
+
+window.
+ You
+ also
+ might
+ ask
+ why
+ did
+
+
+Gemini
+ 3
+ not
+ do
+ a
+ larger
+ context
+ window
+
+
+even
+ though
+ it
+ came
+ after
+ Grock?
+ And
+ I
+
+
+think
+ the
+ reason
+ is
+ because
+ there's
+
+
+[clears throat]
+ a
+ difference
+ between
+ the
+
+
+model
+ not
+ breaking
+ when
+ you
+ put
+ in
+ that
+
+
+many
+ tokens
+ and
+ the
+ model
+ actually
+ like
+
+
+properly
+ reasoning
+ across
+ many
+ large
+
+
+chunks
+ of
+ tokens.
+ And
+ I
+ think
+ the
+ second
+
+
+part
+ we're
+ still
+ figuring
+ out.
+ I
+ think
+
+
+people
+ have
+ realized
+ how
+ to
+ train
+ models
+
+
+that
+ don't
+ break
+ with
+ more
+ and
+ more
+
+
+tokens,
+ but
+ we
+ haven't
+ really
+ gotten
+ to
+
+
+the
+ point
+ where
+ we
+ can
+ train
+ models
+ that
+
+
+truly
+ work
+ as
+ well
+ on
+ a
+ million
+ tokens
+
+
+as
+ they
+ do
+ on
+ a
+ thousand
+ tokens.
+ And
+ if
+
+
+you're
+ more
+ curious
+ about
+ this,
+ there's
+
+
+this
+ really
+ good
+ report
+ from
+ Chroma
+
+
+called
+ context
+ context
+ broad
+ um
+ about
+
+
+how
+ performance
+ degrades
+ when
+ you
+ add
+
+
+just
+ like
+ other
+ stuff
+ into
+ the
+ context.
+
+
+So
+ this
+ graph
+ shows
+ like
+ the
+ larger
+ the
+
+
+context
+ grows
+ even
+ with
+ the
+ same
+ finite
+
+
+amount
+ of
+ relevant
+ information,
+ the
+ LLMs
+
+
+get
+ worse
+ and
+ worse.
+ And
+ I
+ think
+ like
+
+
+two
+ things
+ to
+ observe
+ here
+ that
+ I
+ think
+
+
+are
+ interesting.
+ One,
+ claw
+ is
+ the
+ best
+
+
+by
+ far.
+ I
+ like
+ graphs
+ like
+ this
+ because
+
+
+I
+ feel
+ like
+ if
+ you
+ talk
+ to
+ people,
+ a
+ lot
+
+
+of
+ people
+ think
+ clot
+ is
+ the
+ best,
+ but
+ if
+
+
+you
+ measure
+ on
+ a
+ lot
+ of
+ standard
+
+
+benchmarks,
+ it
+ actually
+ is
+ worse.
+ But
+
+
+then
+ you
+ use
+ it
+ and
+ you're
+ like,
+ "Oh,
+
+
+something's
+ better
+ here."
+ So,
+ I
+ like
+
+
+this
+ because
+ it
+ captures
+ what
+ people
+
+
+actually
+ say
+ to
+ me.
+ But
+ I
+ also
+ like
+ it
+
+
+because
+ once
+ you
+ get
+ here,
+ the
+
+
+performance
+ is
+ horrible.
+ So,
+ like
+ they
+
+
+if
+ they
+ enter
+ a
+ bunch
+ of
+ relevant
+ stuff
+
+
+that
+ doesn't
+ actually
+ help
+ you
+ solve
+ the
+
+
+problem,
+ once
+ you
+ get
+ to
+ 10
+ the
+ 4
+
+
+tokens,
+ which
+ is
+ 10,000,
+ like
+ the
+ models
+
+
+don't
+ work
+ at
+ all.
+ And
+ even
+ though
+
+
+they're
+ not
+ breaking
+ like
+ they're
+
+
+outputting
+
+
+things
+ that
+ make
+ sense
+ and
+ are
+
+
+grammatical,
+ they're
+ not
+ actually
+
+
+solving
+ the
+ problem.
+ So
+ context
+ broad
+ is
+
+
+a
+ huge
+ issue.
+ Um
+
+
+maybe
+ like
+ just
+ anecdotally
+ if
+ you
+ look
+
+
+up
+ there's
+ a
+ ton
+ of
+ people
+ saying
+ stuff
+
+
+like
+ this
+ like
+ oh
+ what
+ the
+ context
+
+
+window
+ is
+ so
+ long
+ why
+ does
+ it
+ not
+
+
+actually
+ work?
+ Or
+ people
+ think
+ claude
+
+
+code
+ when
+ it
+ fills
+ up
+ the
+ context
+ window
+
+
+sort
+ of
+ like
+ stops
+ working.
+ Um
+ there's
+ a
+
+
+ton
+ of
+ people
+ working
+ on
+ these
+ efficient
+
+
+architectures
+ that
+ you
+ might
+ hear
+ about
+
+
+like
+ [music]
+ uh
+ mamba
+ state
+ space
+
+
+models,
+ linear
+ attention,
+ uh
+ hybrid
+
+
+attention,
+ sparse
+ attention,
+ sliding
+
+
+window.
+ They're
+ all
+ more
+ efficient,
+ but
+
+
+they
+ basically
+ have
+ the
+ same
+ properties
+
+
+of
+ transformers.
+ Like
+ even
+ if
+ they
+ can
+
+
+operate
+ uh
+ in
+ a
+ faster
+ time
+ or
+ with
+ a
+
+
+lower
+ memory
+ requirement,
+ there's
+ some
+
+
+trade-off
+ in
+ the
+ terms
+ of
+ performance
+
+
+they
+ give
+ you.
+ So
+ even
+ if
+ you
+ build
+ a
+
+
+linear
+ attention
+ model
+ that
+ can
+ fit
+
+
+infinite
+ context,
+ it's
+ not
+ good.
+ Like
+
+
+it's
+ not
+ going
+ to
+ be
+ able
+ to
+ solve
+ the
+
+
+problem
+ you
+ have,
+ which
+ is
+ how
+ do
+ I
+
+
+actually
+ like
+ reason
+ and
+ get
+ smarter
+
+
+when
+ I
+ input
+ more
+ tokens
+ into
+ the
+ model.
+
+
+There's
+ so
+ many
+ examples
+ of
+ this.
+ I
+ saw
+
+
+this
+ recent
+ post.
+ If
+ you're
+ like
+ kind
+ of
+
+
+deep
+ in
+ the
+ model
+ architecture
+ world,
+
+
+maybe
+ you've
+ seen
+ this.
+ This
+ is
+ like
+ a
+
+
+couple
+ weeks
+ ago.
+ There's
+ new
+ Chinese
+
+
+model
+ Miniax
+ M2.
+ It's
+ one
+ of
+ the
+
+
+state-of-the-art
+ open
+ models.
+ And
+ a
+
+
+bunch
+ of the
+ other
+ Chinese
+ labs
+ have
+
+
+been
+ pushing
+ these
+ new
+ hybrid
+
+
+architectures
+ that
+ are
+ like
+ more
+
+
+efficient
+ and
+ can
+ take
+ longer
+ context.
+
+
+And
+ Miniax
+ M2
+ just
+ didn't
+ do
+ that.
+ They
+
+
+just
+ use
+ sort
+ of
+ like
+ the
+ regular
+
+
+quadratic
+ attention
+ that
+ I
+ was
+ showing
+
+
+you.
+ And
+ they
+ have
+ this
+ really
+ long
+
+
+story
+ about
+ how
+ they
+ tried
+ and
+ tried
+ and
+
+
+it's
+ basically
+ just
+ not
+ worth
+ it.
+
+
+There's
+ like
+ an
+ inherent
+ trade-off
+ and
+
+
+how
+ much
+ computation
+ you
+ use
+ and
+ and
+ how
+
+
+good
+ the
+ models
+ are.
+ And
+ so
+ even
+ if
+ you
+
+
+can
+ technically
+ build
+ a
+ model
+ that
+
+
+doesn't
+ break
+ at
+ millions
+ of
+ tokens,
+
+
+it's
+ not
+ actually
+ better
+ for
+ any
+ of the
+
+
+tasks
+ they
+ care
+ about.
+ So
+ no
+ one
+ is
+
+
+really
+ doing
+ this.
+ And
+ I
+ think
+ to
+
+
+conclude,
+ we
+ think
+ that
+ like
+ we're
+
+
+pretty
+ limited
+ by
+ the
+ context
+ window
+ in
+
+
+full
+ context.
+ There's
+ like
+ one
+ systems
+
+
+problem
+ that
+ you
+ can't
+ put
+ millions
+ of
+
+
+tokens
+ into
+ the
+ model.
+ And
+ then
+ there's
+
+
+another
+ reasoning
+ problem
+ that
+ even
+ if
+
+
+you
+ can,
+ the
+ models
+ don't
+ actually
+ get
+
+
+better.
+ So
+ it's
+ probably
+ not
+ practical.
+
+
+And
+ I
+ think
+ if
+ you
+ work
+ in
+ industry,
+ I'm
+
+
+sure
+ you
+ see
+ document
+ sets
+ that
+ are
+ much
+
+
+much
+ larger,
+ like
+ on
+ the
+ order
+ of
+ I
+
+
+don't
+ know,
+ billions
+ to
+ trillions
+ of
+
+
+tokens.
+ And
+ even
+ though
+ we're
+ getting
+
+
+better
+ at
+ training
+ the
+ models
+ and
+ the
+
+
+system
+ side,
+ we're
+ getting
+ much
+ better
+
+
+at
+ running
+ them
+ more
+ efficiently,
+
+
+faster,
+ cheaper,
+ we're
+ not
+ near
+ fitting
+
+
+trillions
+ of
+ tokens
+ into
+ a
+ model.
+ I
+
+
+think
+ like
+ that's
+ pretty
+ far
+ off.
+ So
+ I
+
+
+would
+ guess
+ a
+ lot
+ of
+ you
+ are
+ doing
+ rag.
+
+
+How
+ many
+ people
+ in
+ this
+ room
+ use
+ or
+ work
+
+
+on
+ a
+ rag
+ system
+ on
+ like
+ a
+ weekly
+ basis?
+
+
+That's
+ actually
+ pretty
+ crazy.
+ Okay,
+ so
+
+
+over
+ half
+ for
+ sure.
+ So
+ now
+ we're
+ going
+
+
+to
+ talk
+ about
+ Rag.
+ I'm
+ going
+ to
+ talk
+
+
+about
+ why
+ it's
+ good
+ and
+ then
+ I'll
+ talk
+
+
+about
+ why
+ I
+ think
+ um
+ it's
+ fundamentally
+
+
+limited
+ and
+ the
+ products
+ of
+ the
+ future
+
+
+will
+ use
+ something
+ better
+ than
+ Rack.
+
+
+So
+ if
+ you
+ use
+ Rag,
+ you
+ probably
+ use
+ a
+
+
+vector
+ database.
+ There
+ are
+ many
+ vector
+
+
+databases.
+ I
+ think
+ I
+ know
+ some
+ of
+ these.
+
+
+Turboroper,
+ we
+ now
+ they're
+ on
+ S3,
+ that's
+
+
+Chroma.
+ I
+ made
+ this
+ slide.
+ Uh,
+
+
+Uh,
+ there
+ there
+ are
+ many
+ vector
+
+
+databases.
+ They
+ all
+ offer
+ you
+ like
+
+
+slightly
+ different
+ trade-offs.
+ They
+ give
+
+
+you
+ your
+ vectors
+ for
+ cheaper,
+ faster.
+
+
+Um,
+ vector
+ databases
+ are
+ the
+ way
+ that
+
+
+memory
+ works
+ in
+ production.
+ If
+ you're
+
+
+using
+ a
+ company
+ internal
+ question
+
+
+answering
+ system,
+ it's
+ it's
+ definitely
+
+
+running
+ on
+ rag
+ which
+ is
+ powered
+ by
+ a
+
+
+vector
+ database
+ which
+ stores
+ embeddings.
+
+
+JBT
+ memory
+ uh
+ uses
+ embeddings.
+ Uh
+ Andre
+
+
+Karpathy
+ has
+ this
+ diagram
+ from
+ last
+ year
+
+
+two
+ years
+ ago
+ actually
+ of
+ what
+ the
+ an
+
+
+operating
+ system
+ that
+ runs
+ on
+ language
+
+
+models
+ would
+ look
+ like
+ and
+ he
+ called
+
+
+embeddings
+ the
+ file
+ system
+ of
+ LLMs.
+ Um,
+
+
+I
+ think
+ that's
+ true
+ in
+ today's
+ terms.
+
+
+Like
+ today,
+ November
+ 22nd,
+ 2025,
+
+
+probably
+ like
+ if
+ you
+ think
+ of
+ what
+
+
+you're
+ working
+ on
+ as
+ an
+ operating
+
+
+system,
+ the
+ file
+ system
+ is
+ embeddings.
+
+
+But
+ I
+ think
+ embeddings
+ are
+ the
+ file
+
+
+system
+ of
+ today.
+ And
+ they're
+ not
+ the
+
+
+file
+ system
+ of
+ the
+ future.
+ And
+ that's
+
+
+what
+ I'm
+ going
+ to
+ talk
+ about
+ today.
+
+
+I
+ I
+ also
+ want
+ to
+ point
+ out
+ that
+ they're
+
+
+extremely
+ easy
+ to
+ use.
+ Like
+ any
+ of
+ the
+
+
+tools
+ I'm
+ going
+ to
+ talk
+ about
+ at
+ the
+ end
+
+
+of
+ the
+ talk
+ that
+ are
+ like
+ related
+ to
+
+
+training
+ things
+ into
+ models
+ are
+ just
+
+
+fundamentally
+ harder.
+ But
+ this
+ is
+ just
+
+
+really
+ nice
+ and
+ we
+ can
+ all
+ take
+ a
+ moment
+
+
+to
+ appreciate
+ it.
+ You
+ just
+ sort
+ of
+ bake
+
+
+your
+ text
+ and
+ then
+ you
+ like
+ run
+ this
+ and
+
+
+and
+ that's
+ all.
+ It's
+ a
+ five
+ lines
+ of
+
+
+code.
+ That's
+ a
+ that's
+ really
+ really
+
+
+good.
+ Um
+ the
+ problem
+ is
+ they
+ just
+ aren't
+
+
+that
+ good
+ and
+ they
+ have
+ a
+ lot
+ of
+
+
+problems
+ I
+ think.
+ Um,
+ which
+ I
+ think
+
+
+also,
+ okay,
+ how
+ many
+ people
+ work
+ on
+ rag
+
+
+or
+ experience
+
+
+a
+ rag
+ system
+ and
+ are
+ satisfied
+
+
+completely
+ with
+ [laughter]
+ like
+
+
+Okay,
+ that's
+ great.
+ So,
+ I
+ think
+ we're
+
+
+all
+ kind
+ of
+ in
+ agreement
+ here
+ that
+ maybe
+
+
+there
+ there
+ could
+ be
+ something
+ more
+ like
+
+
+even
+ if
+ we
+ don't
+ know
+ exactly
+ what
+ it
+
+
+is,
+ there
+ must
+ be
+ something
+ else
+ out
+
+
+there.
+ Um,
+ I'll
+ talk
+ about
+ a
+ few
+
+
+problems
+ that
+ I've
+ run
+ into
+ in
+ my
+ own
+
+
+research.
+ So,
+ let's
+ like
+ start
+ with
+ this
+
+
+abstraction.
+ So
+ this
+ is
+ the
+ vector
+
+
+database
+ that
+ powers
+ rag.
+ Every
+ dot
+ here
+
+
+is
+ is
+ supposed
+ to
+ be
+ a
+ document.
+ So
+ the
+
+
+document
+ goes
+ through
+ the
+ LLM.
+ The
+ LLM
+
+
+is
+ trained
+ to
+ give
+ you
+ just
+ this
+ one
+
+
+vector
+ that
+ represents
+ the
+ document.
+ I
+
+
+projected
+ them
+ down
+ to
+ two
+ dimensions
+
+
+for
+ the
+ slide,
+ but
+ each
+ doc
+ document
+ is
+
+
+one
+ dot.
+ Um
+ if
+ you
+ actually
+ look
+ at
+
+
+what's
+ in
+ the
+ vector
+ database,
+ it
+ looks
+
+
+like
+ this.
+ So
+ there
+ lots
+ of
+ numbers.
+
+
+there's
+ no
+ one
+ on
+ the
+ in
+ the
+ world
+ who
+
+
+can
+ tell
+ tell
+ you
+ what
+ this
+ means.
+ Um,
+
+
+one
+ thing
+ that
+ I
+ think
+ is
+ interesting
+ is
+
+
+that
+ even
+ though
+ they
+ look
+ random
+ and
+ no
+
+
+one
+ can
+ actually
+ read
+ them,
+ if
+ you
+ build
+
+
+a
+ system
+ to
+ read
+ them,
+ it
+ works
+ pretty
+
+
+well.
+ So
+ like
+ if
+ you're
+ working
+ at
+ Rag
+
+
+and
+ you're
+ sending
+ someone
+ embeddings,
+
+
+you're
+ actually
+ sending
+ them
+ something
+
+
+analogous
+ to
+ text.
+ And
+ I
+ think
+ this
+ is
+
+
+important
+ because
+ a
+ lot
+ of
+ the
+ actual
+
+
+architectures
+ like
+ Turbopuffer,
+ Pine
+
+
+Cone,
+ what
+ have
+ you,
+ they
+ store
+ only
+
+
+embeddings.
+ And
+ so
+ like
+ maybe
+ there's
+
+
+this
+ false
+ premise
+ that
+ if
+ you
+ just
+ send
+
+
+them
+ embeddings,
+ there's
+ no
+ security
+
+
+flaws.
+ But
+ actually
+ a
+ even
+ slightly
+
+
+motivated
+ person
+ can
+ build
+ this
+ system
+
+
+here,
+ this
+ white
+ arrow
+ on
+ the
+ right,
+
+
+which
+ takes
+ the
+ embedding
+ and
+ produces
+
+
+maybe
+ not
+ the
+ exact
+ same
+ text,
+ but
+
+
+something
+ extremely
+ close
+ to
+ it.
+ This
+ is
+
+
+what
+ I
+ worked
+ on
+ for
+ like
+ about
+ a
+ year
+
+
+of
+ my
+ PhD.
+ This
+ is
+ a
+ animation
+ of
+ like
+
+
+so
+ I
+ type
+ in
+ this
+ sentence
+ it
+ goes
+ into
+
+
+the
+ embedding
+ model
+ it
+ gets
+ stored
+ in
+
+
+vector
+ database
+ and
+ then
+ we
+ run
+ this
+
+
+it's
+ like
+ a
+ multi-
+ round
+ correction
+
+
+thing
+ and
+ then
+ by
+ the
+ end
+ we
+ actually
+
+
+can
+ get
+ most
+ I
+ think
+ our
+ research
+ has
+ at
+
+
+a
+ certain
+ length
+ we
+ can
+ get
+ 90%
+ of
+ text
+
+
+back
+ exactly
+ from
+ vector
+ databases.
+ So
+
+
+the
+ takeaway
+ here
+ is
+ that
+ there's
+ no
+ uh
+
+
+security
+ benefits
+ to
+ using
+ a
+ vector
+
+
+database
+ and
+ also
+ they're
+ very
+ hard
+ to
+
+
+run
+ at
+ scale.
+ So
+ this
+ is
+ like
+ an
+
+
+inherent
+ problem
+ for
+ people
+ with
+
+
+sensitive
+ data.
+ That's
+ the
+ paper.
+ Um
+
+
+I
+ think
+ a
+ second
+ problem
+ that
+ I
+
+
+personally
+ have
+ with
+ embeddings
+ is
+ that
+
+
+they're
+ not
+ adaptive.
+ Like
+ there's
+ this
+
+
+one
+ universal
+ sense
+ of
+ what
+ the
+ world
+
+
+looks
+ like
+ that's
+ captured
+ in
+ these
+
+
+vectors
+ and
+ it's
+ not
+ adjustable
+ based
+ on
+
+
+what
+ you
+ work
+ on.
+ So
+ like
+ to
+ give
+ you
+ a
+
+
+concrete
+ example,
+
+
+we
+ embedded
+ a
+ bunch
+ of
+ databases
+ or
+ we
+
+
+created
+ a
+ database
+ of
+ a
+ bunch
+ of
+
+
+embeddings
+ of
+ credit
+ card
+ related
+
+
+documents.
+ I
+ think
+ we
+ had
+ half
+ of
+ them
+
+
+that
+ were
+ from
+ Mastercard
+ and
+ half
+ of
+
+
+them
+ that
+ were
+ from
+ Visa.
+ But
+ if
+ you
+
+
+actually
+ look
+ at
+ where
+ the
+ embeddings
+
+
+get
+ stored,
+ um
+ I
+ guess
+ it's
+ not
+ in
+ this
+
+
+picture,
+ but
+ it's
+ like
+ only
+ right
+ here.
+
+
+So
+ even
+ then
+ there's
+ this
+ like
+ really
+
+
+large
+ space
+ of
+ kind
+ of
+ all
+ possible
+
+
+semantics
+ embeddings
+ only
+ represent
+ like
+
+
+one
+ universal
+ one
+ if
+ that
+ makes
+ sense.
+
+
+So
+ credit
+ cards
+ are
+ actually
+ clustered
+
+
+in
+ this
+ like
+ really
+ small
+ area
+ and
+ this
+
+
+means
+ search
+ works
+ bad.
+ So
+ like
+ to
+ give
+
+
+you
+ a
+ concrete
+ example,
+ if
+ you
+ take
+
+
+these
+ two
+ documents,
+ one's
+ from
+ Visa,
+
+
+one's
+ from
+ Mastercard,
+ at
+ least
+ in
+ the
+
+
+system
+ we
+ were
+ designing,
+ like
+ if
+ you
+
+
+search
+ something
+ that's
+ about
+ a
+ Visa
+
+
+query,
+ you
+ should
+ never
+ receive
+
+
+Mastercard,
+ but
+ they're
+ all
+ so
+ close
+ to
+
+
+each
+ other
+ that
+ they're
+ actually
+ like
+
+
+completely
+ all
+ jumbled
+ together.
+ And
+
+
+this
+ is
+ just
+ like
+ a
+ problem
+ with
+ all
+
+
+conventional
+ embedding
+ mechanisms.
+ So
+ we
+
+
+built
+ this
+ new
+ model
+ that
+ lets
+ you
+ feed
+
+
+in
+ some
+ like
+ surrounding
+ documents.
+ So
+
+
+like
+ to
+ give
+ you
+ an
+ example,
+ this
+ is
+
+
+kind
+ of
+ the
+ first
+ half
+ of
+ our
+ model.
+ We
+
+
+would
+ feed
+ in
+ a
+ bunch
+ of
+ credit
+ cards.
+ I
+
+
+guess
+ I
+ put
+ AMX,
+ but
+ there
+ actually
+ was
+
+
+no
+ AMX
+ when
+ we
+ did
+ it.
+ And
+ um
+ and
+ the
+
+
+model
+ kind
+ of
+ works
+ like
+ this.
+ Like
+ when
+
+
+it
+ produces
+ the
+ embedding
+ for
+ the
+ text,
+
+
+which
+ is
+ here,
+ it
+ also
+ looks
+ at
+ a
+ bunch
+
+
+of
+ surrounding
+ documents.
+ So
+ it
+ can
+ kind
+
+
+of
+ know
+ like
+ okay,
+ this
+ text
+ is
+ about
+
+
+Visa,
+ but
+ also
+ all
+ the
+ other
+ documents
+
+
+are
+ about
+ either
+ Visa
+ or
+ Mastercard.
+ and
+
+
+it
+ gets
+ trained
+ so
+ that
+ it
+ can
+ like
+
+
+dynamically
+ adjust
+ the
+ embeddings
+ based
+
+
+on
+ like
+ the
+ surrounding
+ context.
+ So
+ I
+
+
+thought
+ this
+ was
+ cool
+ and
+ it
+ works
+
+
+better.
+ So
+ like
+ in
+ this
+ Visa
+ Mastercard
+
+
+case
+ the
+ similarity
+ between
+ a
+ Visa
+ and
+
+
+Mastercard
+ is
+ now.144
+ and
+ I
+ think
+
+
+anything
+ containing
+ Visa
+ has
+ a
+ much
+
+
+higher
+ similarity.
+ So
+ that's
+ like
+ maybe
+
+
+correcting
+ one
+ small
+ thing.
+ Um
+ it
+ works
+
+
+better
+ on
+ like
+ out
+ of
+ domain
+ stuff.
+ So
+
+
+we
+ have
+ a
+ forgot
+ what
+ the
+ climate
+ data
+
+
+set
+ is.
+ is
+ a
+ data
+ set
+ of
+ arguments,
+ a
+
+
+data
+ set
+ of
+ financial
+ questions,
+ and
+
+
+then
+ I
+ think
+ like
+ scientific
+ articles.
+
+
+And
+ I
+ guess
+ the
+ point
+ I'm
+ making
+ here
+ is
+
+
+that
+ if
+ you
+ do
+ this
+ contextual
+ thing,
+
+
+embeddings
+ work
+ a
+ bit
+ better.
+ So
+ like
+ if
+
+
+you
+ build
+ them
+ in
+ a
+ way
+ that
+ they
+ can
+
+
+dynamically
+ adapt
+ to
+ the
+ domain,
+ they
+
+
+can
+ solve
+ some
+ problems,
+ but
+ I
+ think
+ at
+
+
+the
+ end
+ of
+ the
+ day,
+ they're
+ still
+
+
+embeddings.
+ And
+ so
+
+
+>> yeah.
+ Yeah.
+
+
+>> Uh
+ was
+ this
+ approach
+ picked
+ up
+ by
+ anyone
+
+
+else?
+ Do
+ you
+ know?
+ Yeah,
+ I
+ think
+ we
+ know
+
+
+they're
+ using
+ it
+ at
+ OpenAI
+ Anthropic
+
+
+like
+ behind
+ the
+ scenes
+ now
+ the
+ embedding
+
+
+models
+ are
+ contextual.
+ It's
+ a
+ pretty
+
+
+it's
+ kind
+ of a
+ free
+ lunch
+ like
+ you
+ add
+
+
+these
+ extra
+ tokens.
+ Uh
+ I
+ guess
+ it's
+ it's
+
+
+kind
+ of
+ hard
+ to
+ build
+ like
+ you
+ have
+ to
+
+
+build
+ this
+ two-stage
+ model
+ and
+ then
+ uh
+
+
+when
+ you
+ embed
+ something
+ you
+ have
+ to
+
+
+grab
+ some
+ embeddings
+ from
+ the
+
+
+surrounding
+ documents.
+ But
+ once
+ you
+
+
+build
+ it,
+ it
+ just
+ works
+ you
+ know
+ better
+
+
+on
+ like
+ especially
+ on
+ longtail
+ stuff.
+ I
+
+
+think
+ if
+ you
+ look
+ at
+ um
+ like
+ MS
+ Marco,
+
+
+which
+ is
+ this
+ large
+ webcale
+
+
+embedding
+ task,
+ it
+ it
+ really
+ doesn't
+ get
+
+
+much
+ better
+ when
+ you
+ add
+ surrounding
+
+
+stuff
+ because
+ like
+ it's
+ already
+ pretty
+
+
+global
+ if
+ that
+ makes
+ sense.
+ But
+ if
+ you
+
+
+look
+ at
+ like
+ really
+ niche
+ things,
+ the
+
+
+embeddings
+ work
+ a
+ lot
+ better.
+ So
+ yeah,
+ I
+
+
+I
+ know
+ it's
+ productionized
+ at
+ some
+ other
+
+
+companies.
+ Um
+ I
+ think
+ if
+ you're
+ actually
+
+
+building
+ an
+ embedding
+ model
+ at
+ your
+
+
+company
+ and
+ you
+ want
+ to
+ put
+ effort
+ into
+
+
+making
+ it
+ better,
+ this
+ is
+ probably
+ like
+
+
+the
+ easiest
+ way
+ besides
+ data.
+ probably
+
+
+the
+ first
+ way
+ is
+ data.
+ Um
+
+
+there's
+ some
+ recent
+ work
+ that
+ I
+ think
+ is
+
+
+worth
+ mentioning
+ about
+ like
+ fundamental
+
+
+limitations
+ of
+ embeddings
+ and
+ vector
+
+
+databases
+ and
+ rag
+ which
+ says
+ that
+ like
+
+
+if
+ you
+ it's
+ not
+ even
+ really
+ worth
+
+
+explaining
+ but
+ there's
+ like
+ some
+ uh
+
+
+there
+ there's
+ some
+ relationships
+ that
+
+
+cannot
+ be
+ captured
+ in
+ a
+ fixed
+
+
+dimensional
+ vector
+ like
+ you
+ have
+ to
+
+
+reason
+ about
+ things
+ to
+ answer
+ all
+
+
+possible
+ tasks.
+ And
+ this
+ is
+ this
+ kind
+ of
+
+
+combinatorial
+ setup
+ where
+ there
+ are
+ so
+
+
+many
+ possible
+ relationships
+ that
+ the
+
+
+embeddings
+ simply
+ can't
+ store
+ them.
+ And
+
+
+so
+ like
+ in
+ theory
+ embeddings
+ are
+
+
+obviously
+
+
+not
+ the
+ best
+ way
+ to
+ do
+ all
+ possible
+
+
+relationships
+ between
+ text,
+ but
+ I
+ think
+
+
+everyone
+ knows
+ that
+ rag
+ has
+ issues.
+ Like
+
+
+I'm
+ glad
+ that
+ no
+ one
+ raised
+ their
+ hand
+
+
+when
+ I
+ asked
+ if
+ anyone
+ was
+ going
+ to
+ like
+
+
+really
+ stand
+ up
+ and
+ speak
+ for
+ rag.
+ And
+
+
+like
+ we
+ can
+ I
+ I
+ actually
+ think
+ this
+ is
+ a
+
+
+hard
+ point
+ to
+ make.
+ Like
+ everyone
+ kind
+
+
+of
+ knows
+ this,
+ but
+ it's
+ hard
+ to
+ come
+ up
+
+
+with
+ examples
+ that
+ retrieval
+ can't
+ solve
+
+
+in
+ practice.
+ Like
+ speaking
+ as
+ someone
+
+
+who's
+ recently
+ sat
+ down
+ and
+ tried
+ to
+
+
+make
+ benchmarks
+ for
+ tasks
+ that
+ I
+ care
+
+
+about,
+ it's
+ hard
+ to
+ express
+ questions
+
+
+that
+ require
+ kind
+ of
+ this
+ like
+ latent
+
+
+reasoning
+ over
+ multiple
+ documents
+ in
+ a
+
+
+way
+ that
+ rag
+ doesn't
+ solve,
+ but
+ they
+ do
+
+
+appear
+ like
+ um
+ anything
+ that
+ kind
+ of
+
+
+requires
+ association
+ between
+ multiple
+
+
+things
+ or
+ questions
+ that
+ are
+ they're
+
+
+like
+ sort
+ of
+ implied
+ but
+ not
+ explicitly
+
+
+answered
+ by
+ the
+ documents
+ are
+ just
+ not
+
+
+solvable
+ by
+ current
+ techniques.
+ And
+ also
+
+
+if
+ you
+ have
+ interesting
+ examples
+ of
+ this
+
+
+would
+ love
+ to
+ hear
+ after
+ this
+ after
+ the
+
+
+presentation.
+ Um
+
+
+hopefully
+ I
+ made
+ my
+ case
+ that
+ I
+ think
+
+
+rag
+ Oh
+ yeah yeah yeah
+ go
+ ahead.
+
+
+>> I'm
+ curious
+ if
+ you
+ would
+ classify
+
+
+agentic
+ search
+ as
+ rag
+ as
+ well.
+
+
+>> Yeah
+ that's
+ a
+ good
+ question.
+ So
+ I
+ guess
+
+
+the
+ way
+ I
+ think
+ agentic
+ search
+ it's
+ like
+
+
+a
+ model
+ that
+ can
+ grab
+ and
+ it
+ makes
+ a
+
+
+bunch
+ of
+ queries
+ in
+ a
+ row and
+ then
+ it
+
+
+responds.
+ Um
+
+
+yeah
+ that's
+ that's
+ a
+ really
+ good
+
+
+question.
+ I
+ think
+
+
+I
+ think
+ I
+ wouldn't
+ classify
+ it
+ as
+ rag,
+
+
+but
+ I
+ think
+ it
+ has
+ different
+ fundamental
+
+
+limitations
+ that
+ are
+ also
+ tough
+ to
+
+
+overcome.
+ Like
+ what
+ you
+ what
+ you
+ would
+
+
+really
+ want
+ is
+ like
+ a
+ model
+ that
+ reads
+
+
+the
+ entire
+ thing
+ and
+ reasons
+ about
+ every
+
+
+possible
+ relationship
+ and
+ then
+ answers.
+
+
+And
+ I
+ think
+ in
+ theory
+ maybe
+ you
+ could
+
+
+build
+ an
+ agentic
+ rag
+ system
+ that
+ does
+
+
+that,
+ but
+ it
+ would
+ be
+ very
+ expensive.
+
+
+>> Yeah.
+ Because
+ [clears throat]
+ isn't
+ that
+
+
+isn't
+ that
+ in
+ the
+ isn't
+ deep
+ research
+ in
+
+
+the
+ direction
+ of
+ that
+ where
+ it
+ like
+ goes
+
+
+through
+ and
+ it
+ pulls
+ like
+ hundreds
+ or
+
+
+thousands
+ of
+ sources
+ but
+ then
+ what
+ ends
+
+
+up
+ in
+ context
+ is
+ only
+ like
+ a
+ small
+
+
+subset
+ of
+ those.
+
+
+>> Yeah.
+ Yeah.
+ I
+ actually
+ think
+ deep
+
+
+research
+ is
+ like
+ really
+ in
+ the
+ right
+
+
+direction.
+ Like
+ they're
+ trying
+ to
+ do
+
+
+something
+ that's
+ a
+ little
+ bit
+ higher
+
+
+level
+ and
+ requires
+ a
+ lot
+ of
+ compute.
+
+
+Like
+ I
+ think
+ um
+ anything
+ that
+ works
+
+
+better
+ than
+ rag
+ is
+ going
+ to
+ be
+ more
+
+
+expensive.
+ And
+ so
+ like
+ just
+ the
+ property
+
+
+that
+ it
+ takes
+ a
+ while
+ and
+ it
+ makes
+ a
+ lot
+
+
+of
+ searches
+ and
+ it
+ thinks
+ a
+ lot
+ is
+ like
+
+
+good.
+ I
+ think
+ that
+ there's
+ probably
+ a
+
+
+more
+ elegant
+ way
+ to
+ train
+ like
+ a
+ really
+
+
+big
+ kind
+ of
+ researchesque
+ system,
+ but
+ I
+
+
+think
+ that's
+ that's
+ actually
+ a
+ a
+ good
+
+
+way
+ of
+ doing
+ this
+ and
+ and
+ not
+ the
+ one
+
+
+that
+ I'm
+ talking
+ about
+ today,
+ but
+ it's
+
+
+very
+ promising
+ as
+ well.
+ Like
+ maybe
+ the
+
+
+question
+ is
+ like
+ are
+ you
+ willing
+ to
+
+
+spend
+ a
+ lot
+ of
+ money
+ at
+ training
+ time
+ or
+
+
+at
+ inference
+ time
+ and
+ deep
+ research
+ is
+
+
+like
+ kind
+ of
+ they
+ don't
+ spend
+ a
+ lot
+ of
+
+
+money
+ to
+ train
+ it
+ but
+ it's
+ willing
+ to
+
+
+wait
+ for
+ a
+ long
+ time
+ at
+ inference
+ and
+ I
+
+
+think
+ the
+ things
+ I'm
+ going
+ to
+ talk
+ about
+
+
+today
+ are
+ more
+ like
+ if
+ you're
+ willing
+ to
+
+
+spend
+ a
+ lot
+ of
+ money
+ up
+ front
+ and
+ you
+
+
+get
+ a
+ really
+ smart
+ model
+ that
+ knows
+ all
+
+
+your
+ data
+ already
+ um
+ and
+ it's
+ really
+
+
+cheap
+ to
+ do
+ inference.
+ So
+ it's
+ like
+ kind
+
+
+of
+ different
+ sides
+ of
+ the
+ same
+
+
+trade-off.
+ And
+ I
+ think
+ like
+ a
+ good
+ way
+
+
+of
+ thinking
+ about
+ these
+ things
+ is
+ like
+
+
+to
+ get
+ better
+ models,
+ you're
+ going
+ to
+
+
+need
+ to
+ pay
+ somewhere,
+ you
+ know,
+ like
+
+
+you're
+ either
+ going
+ to
+ need
+ to
+ like
+
+
+generate
+ better
+ data
+ and
+ spend
+ more
+ time
+
+
+on
+ the
+ data,
+ you're
+ going
+ to
+ need
+ to
+
+
+spend
+ time
+ on
+ training,
+ or
+ you're
+ going
+
+
+to
+ need
+ to
+ spend
+ time
+ on
+ inference.
+ And
+
+
+a
+ nice
+ thing
+ about
+ rags
+ is
+ it
+ kind
+ of
+
+
+just
+ works,
+ but
+ anything
+ better
+ will
+
+
+cost
+ more.
+
+
+>> Yeah.
+
+
+>> Getting
+ back
+ to
+ your
+ example
+ of
+
+
+Mastercard
+ versus
+ V.
+ I
+ I
+ don't
+ know
+ if
+
+
+that's
+ in
+ your
+ presentation
+ later,
+ but
+
+
+what
+ are
+ your
+ thoughts
+ on
+ using
+
+
+knowledge
+ graph
+ for
+ that
+ as
+ kind
+ of
+
+
+augmenting
+
+
+It's
+ a
+ good
+ question.
+ Maybe
+ ask
+ me
+
+
+after.
+ I
+ have
+ to
+ think
+ about
+ knowledge
+
+
+graphs.
+ It's
+ been
+ a
+ while.
+ Um,
+ so
+ let's
+
+
+talk
+ about
+ how
+ to
+ learn
+ things
+ in
+
+
+weights.
+ Um,
+ I
+ think
+ like
+ the
+ question
+
+
+that
+ we
+ want
+ to
+ get
+ at
+ is
+ like,
+ okay,
+ so
+
+
+say
+ we
+ have
+ the
+ example
+ I
+ showed
+ earlier
+
+
+or
+ like
+ you
+ have
+ a
+ small
+ data
+ set
+ you
+
+
+collected
+ from
+ your
+ own
+ personal
+ work
+
+
+and
+ you
+ want
+ to
+ teach
+ it
+ to
+ the
+ model.
+
+
+It's
+ one
+ thing
+ to
+ put
+ it
+ into
+ context
+
+
+and
+ that's
+ a
+ good
+ way
+ to
+ get
+ started
+ and
+
+
+if
+ you
+ don't
+ have
+ that
+ much
+ data,
+
+
+that'll
+ get
+ you
+ pretty
+ far.
+ But
+ I
+ think
+
+
+we
+ can
+ do
+ more.
+ Like
+ there's
+ some
+
+
+questions
+ that
+ even
+ when
+ your
+ data
+ is
+ in
+
+
+context,
+ the
+ model
+ can't
+ answer.
+ And
+ so
+
+
+what
+ I
+ want
+ us
+ to
+ think
+ about
+ is
+ like
+
+
+how
+ can
+ we
+ inject
+ things
+ into
+ a
+ model
+ uh
+
+
+is
+ such
+ that
+ it
+ learns
+ better
+ than
+ in
+
+
+context
+ and
+ also
+ that
+ it
+ doesn't
+ forget
+
+
+everything
+ that
+ it
+ already
+ knows.
+ Um
+ I
+
+
+want
+ to
+ point
+ out
+ something
+ from
+ my
+ own
+
+
+research
+ which
+ is
+ that
+ there
+ is
+ a
+ fixed
+
+
+capacity
+ to
+ language
+ models.
+ Like
+ one
+
+
+way
+ to
+ think
+ about
+ this
+ is
+ tgt
+ has
+ like
+
+
+only
+ so
+ many
+ parameters.
+ we
+ have
+ this
+
+
+measurement
+ that
+ it
+ can
+ store
+ 3.6
+ bits
+
+
+per
+ parameter.
+ So
+ like
+ uh
+ I
+ think
+ a
+
+
+billion
+ parameter
+ model
+ is
+ like
+ at
+ 3.6
+
+
+bits
+ is
+ maybe
+ like
+ four
+ terabytes.
+ Is
+
+
+that
+ right?
+ 4
+ gigabytes
+ what?
+ Yeah,
+
+
+thank
+ you.
+ Thank
+ you.
+ Um
+ this
+ is
+ like
+
+
+some
+ information
+ but
+ it's
+ actually
+ not
+
+
+that
+ much.
+ So
+ the
+ models
+ they
+ basically
+
+
+do
+ their
+ best
+ to
+ fit
+ the
+ training
+
+
+distribution
+ and
+ they
+ throw
+ everything
+
+
+else
+ out.
+ So
+ like
+ to
+ give
+ you
+ a
+ concrete
+
+
+example
+ this
+ morning
+ I
+ was
+ putting
+ this
+
+
+together.
+ I
+ asked
+ Claude,
+ "What
+ is
+ the
+
+
+capital
+ of
+ the
+ smallest
+ province
+ in
+
+
+Tajjikstan?"
+
+
+And
+ it
+ gave
+ me
+ a
+ very
+ detailed
+ answer.
+
+
+It's
+ actually
+ very
+ impressive.
+ No
+ web
+
+
+search.
+ The
+ model
+ just
+ knows
+ this
+ in
+ its
+
+
+parameters.
+ I
+ guess
+ I'm
+ arguing
+ that
+
+
+this
+ is
+ bad.
+ Like
+ if
+ you
+ want
+ to
+ build
+ a
+
+
+system
+ that
+ can
+ answer
+ really
+ detailed
+
+
+documentation
+ questions
+ for
+ your
+
+
+company,
+ you
+ don't
+ need
+ it
+ to
+ know
+ what
+
+
+the
+ capital
+ of
+ the
+ smallest
+ province
+ in
+
+
+Tajjikstan
+ is.
+ And
+ since
+ we
+ know
+ these
+
+
+models
+ have
+ fixed
+ capacity,
+ I
+ think
+ that
+
+
+this
+ is
+ bad.
+ Like
+ what
+ we
+ really
+ want
+ is
+
+
+to
+ know
+ how
+ to
+ like
+ find
+ this
+ kind
+ of
+
+
+thing
+ and
+ just
+ like
+ delete
+ it
+ and
+
+
+replace
+ it
+ with
+ the
+ things
+ we
+ care
+
+
+about.
+ And
+ I
+ think
+ that's
+ like
+ what
+
+
+we're
+ getting
+ towards,
+ but
+ we
+ don't
+ 100%
+
+
+know
+ how
+ to
+ do
+ that
+ again.
+ Sorry.
+ So
+
+
+when
+ I
+ originally
+ put
+ this
+ talk
+
+
+together,
+ the
+ way
+ I
+ was
+ thinking
+ of
+
+
+explaining
+ it
+ is
+ calling
+ it
+ a
+ neural
+
+
+file
+ system.
+ And
+ then
+ I
+ decided
+ to
+ just
+
+
+call
+ it
+ weights.
+ I
+ think
+ it's
+ easier
+ to
+
+
+understand,
+ but
+ this
+ slide
+ still
+ says
+
+
+neural
+ file
+ systems.
+ Um
+ so
+ I
+ think
+
+
+there's
+ a
+ few
+ questions
+ here
+ like
+ we
+
+
+want
+ to
+ train
+ all
+ our
+ data
+ into
+ the
+
+
+model.
+ One
+ question
+ is
+ like
+ how
+ do
+ we
+
+
+train
+ it?
+ Do
+ we
+ do
+ RL?
+ Do
+ we
+ do
+ SFT?
+ Uh
+
+
+what's
+ what
+ even
+ is
+ the
+ data?
+ Um
+ another
+
+
+question
+ is
+ like
+ out
+ of
+ uh
+ all
+ the
+
+
+possible
+ data
+ what
+ do
+ we
+ use?
+ Do
+ we
+ just
+
+
+like
+ fine-tune
+ directly
+ on
+ our
+ data?
+ Do
+
+
+we
+ try
+ to
+ generate
+ more?
+ I
+ think
+ my
+
+
+argument
+ is
+ that
+ we
+ should
+ try
+ to
+
+
+generate
+ more
+ and
+ I'll
+ show
+ you
+ why.
+ And
+
+
+then
+ there's
+ an
+ architectural
+ question.
+
+
+Like
+ I
+ think
+ for
+ a
+ long
+ time,
+ people
+
+
+really
+ cared
+ in
+ the
+ machine
+ learning
+
+
+deep
+ learning
+ community
+ about
+ like
+ what
+
+
+architectures
+ we
+ should
+ use.
+ And
+ then
+
+
+for
+ like
+ what
+ 8
+ years,
+ everyone
+ who
+
+
+knows
+ what
+ they're
+ doing
+ has
+ really
+ just
+
+
+been
+ using
+ transformers
+ unless
+ they're
+
+
+trying
+ to
+ make
+ them
+ better.
+ And
+ I
+ think
+
+
+now
+ in
+ this
+ world
+ where
+ we're
+ trying
+ to
+
+
+train
+ stuff
+ into
+ models
+ like
+ like
+ if
+ you
+
+
+think
+ of
+ okay
+ world
+ we
+ all
+ each
+ of
+ us
+
+
+have
+ has
+ our
+ own
+ model
+ or
+ maybe
+ multiple
+
+
+models
+ and
+ those
+ models
+ are
+ getting
+
+
+updated
+ a
+ lot.
+ I
+ think
+ we
+ start
+ to
+ care
+
+
+about
+ architecture
+ again
+ and
+ I'll
+ and
+
+
+I'll
+ tell
+ you
+ why
+ and
+ like
+ what
+ I
+ think
+
+
+the
+ options
+ are.
+ [clears throat]
+ So
+
+
+first
+ let's
+ talk
+ about
+ learning.
+
+
+Um
+
+
+so
+ I
+ think
+ like
+ the
+ mental
+ [snorts]
+
+
+model
+ here
+ which
+ I
+ mentioned
+ before
+ is
+
+
+like
+ we're
+ trying
+ to
+ train
+ the
+ model
+ to
+
+
+learn
+ the
+ data
+ as
+ best
+ as
+ it
+ possibly
+
+
+can
+ and
+ it's
+ going
+ to
+ be
+ expensive.
+ So
+
+
+like
+ we
+ didn't
+ like
+ rag
+ but
+ also
+ rag
+
+
+didn't
+ cost
+ us
+ very
+ much
+ money.
+ I
+ think
+
+
+to
+ do
+ better
+ than
+ rag,
+ we're
+ gonna
+ have
+
+
+to
+ like
+ pay
+ some
+ GPU
+ points
+ and
+ that's
+
+
+just
+ like
+ the
+ state
+ of
+ the
+ world.
+ Okay,
+
+
+fine.
+ So,
+ this
+ is
+ our
+ model.
+ It's
+ like
+
+
+this
+ homogeneous
+ blob
+ of
+ data
+ and
+ this
+
+
+is
+ our
+ data.
+ So,
+ like
+ maybe
+ we
+ have
+ the
+
+
+masterard
+ data
+ set
+ or
+ maybe
+ we
+ collected
+
+
+data
+ about
+ ourselves
+ or
+ maybe
+ I
+ uh
+
+
+collected
+ all
+ my
+ traces
+ from
+ coding
+ in
+
+
+November
+ and
+ December
+ and
+ I
+ want
+ to
+ like
+
+
+train
+ the
+ the
+ model
+ to
+ learn
+ my
+ problems
+
+
+better.
+ What
+ do
+ I
+ do?
+ How
+ do
+ I
+ actually
+
+
+do
+ this?
+ Um
+
+
+let's
+ let's
+ like
+ start
+ with
+ the
+ dumbest
+
+
+possible
+ approach
+ and
+ just
+ like
+ see
+ what
+
+
+happens.
+ So
+ say
+ uh
+ we
+ start
+ with
+ a
+ data
+
+
+set
+ and
+ we
+ just
+ train
+ on
+ it.
+
+
+Um
+ like
+ using
+ I
+ guess
+ next
+ token
+
+
+prediction.
+ So
+ we
+ actually
+ ran
+ this
+
+
+little
+ experiment.
+ This
+ is
+ like
+ uh
+ 3M.
+
+
+It's
+ a
+ company
+ they
+ make
+ doct
+ and
+ um
+
+
+this
+ is
+ like
+ some
+ financial
+ reports.
+ So
+
+
+maybe
+ like
+ you're
+ working
+ there
+ and
+ you
+
+
+really
+ don't
+ want
+ to
+ read
+ all
+ of
+ this.
+
+
+So
+ you
+ just
+ want
+ to
+ ask
+ the
+ model
+ to
+
+
+like
+ really
+ understand
+ this
+ and
+ be
+ able
+
+
+to
+ answer
+ questions
+ and
+ like
+ rag
+ isn't
+
+
+really
+ working
+ cuz
+ it's
+ like
+ this
+ weird
+
+
+structure
+ and
+ there's
+ a
+ lot
+ of
+ ways
+ the
+
+
+documents
+ interrelate.
+ Okay,
+ cool.
+ So
+
+
+we're
+ just
+ going
+ to
+ like
+ train
+ the
+ model
+
+
+using
+ next
+ token
+ prediction.
+ See
+ what
+
+
+happens.
+ You
+ know
+ what?
+ Actually,
+ even
+
+
+if
+ you
+ don't
+ train
+ the
+ whole
+ model,
+ um
+
+
+you
+ you
+ still
+ get
+ zero
+ loss.
+ So
+ the
+
+
+model
+ can
+ perfectly
+ memorize
+ this
+ entire
+
+
+uh
+ 3M
+ 10K
+ financial
+ report.
+ Um
+ it's
+
+
+extremely
+ impressive.
+
+
+Okay.
+ So
+ now
+ let's
+ talk
+ to
+ it.
+ So
+ so
+ we
+
+
+did
+ this
+ and
+ then
+ we
+ didn't
+ want
+ to
+ ask
+
+
+anything
+ that's
+ like
+ exactly
+ present
+ in
+
+
+the
+ document
+ because
+ we
+ want
+ to
+ see
+ if
+
+
+the
+ model's
+ actually
+ good.
+ So
+ we
+ started
+
+
+you
+ know
+ like
+ everyone
+ loves
+ to
+ test
+
+
+poems.
+ So
+ we
+ started
+ with
+ a
+ poem.
+ We
+
+
+said
+ can
+ you
+ write
+ a
+ poem
+ about
+ 3M
+ in
+
+
+fiscal
+ year
+ 2025?
+
+
+So,
+ register
+ your
+ bets.
+ And
+ what
+ do
+ you
+
+
+think
+ happened?
+
+
+>> It's
+ terrible.
+
+
+>> It's
+ terrible.
+ Someone
+ said
+ it.
+ It
+ says
+
+
+the
+ passage
+ of
+ a
+ passage
+ is
+ a
+ poem.
+ End
+
+
+of
+ sentence.
+
+
+It's
+ crazy.
+ [laughter]
+
+
+Yeah.
+ So,
+ now
+ maybe
+ we
+ ask
+ like
+ why
+ does
+
+
+this
+ happen
+ and
+ how
+ do
+ we
+ fix
+ it?
+ So,
+
+
+unfortunately,
+ this
+ doesn't
+ work.
+ And
+ I
+
+
+actually
+ think
+ this
+ is
+ like
+ one
+ of the
+
+
+reasons
+ why
+ people
+ haven't
+ been
+ doing
+
+
+this
+ yet
+ is
+ because
+ the
+ dumbest
+ possible
+
+
+approach
+ usually
+ does
+ work
+ in
+ machine
+
+
+learning.
+ But
+ in
+ this
+ case,
+ we
+ have
+ to
+
+
+do
+ something
+ a
+ little
+ bit
+ more
+
+
+sophisticated.
+ Um,
+
+
+so
+ maybe
+ take
+ a
+ second
+ and
+ think
+ about
+
+
+like
+ what
+ you
+ would
+ do.
+ You're
+ facing
+
+
+this
+ problem
+ at
+ work
+ or
+ in
+ a
+ side
+
+
+project.
+ Um,
+ I
+ think
+ there's
+ like
+ two
+
+
+things
+ we
+ need
+ to
+ fix.
+ One
+ is
+ that
+ um
+
+
+the
+ data
+ is
+ not
+ it's
+ not
+ exactly
+ what
+ we
+
+
+want
+ to
+ train
+ on,
+ I
+ think.
+ And
+ two
+ is
+
+
+that
+ we
+ probably
+ don't
+ want
+ to
+ update
+
+
+the
+ entire
+ model
+ because
+ what
+ we
+ did
+
+
+there
+ was
+ basically
+ overwrite
+ all
+ the
+
+
+you
+ know
+ stuff
+ about
+ Tajikistan
+ and
+
+
+everything
+ else
+ that's
+ in
+ the
+ model
+ with
+
+
+just
+ like
+ this
+ 3M
+ knowledge
+ and
+ I
+ think
+
+
+that's
+ like
+ too
+ specific
+ and
+ then
+ the
+
+
+model
+ is
+ just
+ obsessed
+ with
+ 3M
+ and
+ it'll
+
+
+only
+ produce
+ exact
+ copy
+ sentences
+ from
+
+
+the
+ document.
+ That's
+ that's
+ clearly
+ too
+
+
+much.
+ So
+ I
+ think
+ we
+ need
+ a
+ better
+ way
+ to
+
+
+update
+ the
+ model
+ and
+ we
+ need
+ a
+ better
+
+
+way
+ to
+ change
+ the
+ data.
+
+
+Um,
+ there's
+ this
+ pretty
+ relevant
+ work.
+ I
+
+
+don't know
+ if
+ you
+ follow
+ this
+ like
+ LLM
+
+
+chat
+ thing
+ from
+ Andre
+ Karpathy.
+ Shout
+
+
+out.
+ I
+ think
+ it's
+ very
+ educational
+ and
+
+
+he
+ had
+ a
+ really
+ good
+ question
+ which
+ is
+
+
+like
+ he
+ built
+ this
+ small
+ LLM
+ and
+ train
+
+
+it
+ from
+ scratch
+ and
+ everything
+ and
+ then
+
+
+he
+ wanted
+ to
+ teach
+ it
+ about
+ himself
+ and
+
+
+okay
+ maybe
+ the
+ first
+ thing
+ you
+ would
+ try
+
+
+is
+ rag.
+ You
+ put
+ like
+ a
+ little
+ database
+
+
+of
+ information
+ about
+ yourself
+ but
+ that's
+
+
+only
+ scalable
+ to
+ a
+ certain
+ amount
+ and
+
+
+then
+ the
+ model
+ can't
+ really
+ like
+ combine
+
+
+things.
+ it
+ can
+ only
+ kind
+ of
+ regurgitate
+
+
+facts.
+ And
+ so
+ he
+ wants
+ to
+ actually
+ teach
+
+
+it
+ properly,
+ he
+ says,
+ meaning
+ in
+
+
+weights.
+ And
+ so
+ notice
+ he
+ doesn't
+ just
+
+
+like
+ take
+ one
+ example
+ and
+ and
+ train
+ the
+
+
+model
+ using
+ next
+ token
+ prediction.
+ He
+
+
+does
+ something
+ a
+ bit
+ more
+ complicated.
+
+
+He
+ like
+ generates
+ this
+ task
+ or
+ you
+ don't
+
+
+have
+ to
+ care
+ about
+ the
+ specifics,
+ but
+
+
+there's
+ like
+ basically
+ he
+ makes
+ a
+
+
+diverse
+ training
+ data
+ set
+ of
+ examples
+
+
+that
+ look
+ like
+ the
+ thing
+ he
+ cares
+ about
+
+
+and
+ then
+ trains
+ on
+ it.
+ And
+ if
+ you
+ go,
+
+
+you
+ can
+ find
+ this.
+ It
+ actually
+ does
+ work
+
+
+pretty
+ well,
+ which
+ is
+ cool.
+ So,
+ he's
+
+
+able
+ to
+ teach
+ a
+ novel
+ behavior
+ to
+ a
+
+
+model
+ by
+ like
+ generating
+ a
+ lot
+ of
+
+
+synthetic
+ data
+ that
+ looks
+ like
+ the
+
+
+example
+ he
+ cares
+ about
+ and
+ then
+
+
+fine-tuning
+ the
+ model
+ for
+ a
+ little
+ bit
+
+
+and
+ it
+ and
+ it
+ learns.
+ There's
+ a
+ paper
+
+
+that's
+ really
+ good
+ uh
+ that's
+ from
+ last
+
+
+year
+ from
+ some
+ folks
+ at
+ Stanford
+ called
+
+
+synthetic
+ continued
+ pre-training
+ and
+
+
+they
+ have
+ the
+ same
+ problem.
+ So
+ they
+ have
+
+
+like
+ a
+ really
+ small
+ data
+ set
+ and
+ they
+
+
+want
+ to
+ teach
+ the
+ model
+ to
+ the
+ data
+ set
+
+
+without
+ like
+ bricking
+ the
+ model
+
+
+essentially
+ and
+ they
+ have
+ this
+ kind
+ of
+
+
+fancy
+ way
+ of
+ generating
+ synthetic
+ data
+
+
+by
+ extracting
+ entities.
+ But
+ I
+ think
+ the
+
+
+important
+ part
+ is
+ that
+ they
+ take
+ a
+ small
+
+
+data
+ set
+ and
+ they
+ generate
+ like
+ a
+ very
+
+
+large
+ more
+ diverse
+ data
+ set
+
+
+representative
+ of
+ the
+ thing
+ that
+ they
+
+
+care
+ about.
+ And
+ this
+ is
+ something
+ that
+
+
+like
+ breaks
+ the
+ whole
+ like
+ conventional
+
+
+machine
+ learning
+ paradigm.
+ Like
+ they
+
+
+only
+ have
+ a
+ small
+ training
+ data
+ set.
+ So
+
+
+uh
+ what
+ you
+ learn
+ in
+ school
+ would
+ tell
+
+
+you
+ that
+ you
+ would
+ just
+ like
+ overfit
+ and
+
+
+there's
+ nothing
+ you
+ can
+ do.
+ You
+ just
+
+
+have
+ to
+ go
+ back
+ and
+ collect
+ more
+ data.
+
+
+But
+ actually
+ because
+ LLMs
+ are
+ so
+ good
+
+
+now
+ we
+ can
+ do
+ this
+ second
+ thing
+ where
+ we
+
+
+generate
+ like
+ a
+ much
+ larger
+ training
+
+
+data
+ set.
+ It
+ really
+ contains
+ only
+ the
+
+
+like
+ facts
+ that
+ were
+ present
+ in
+ the
+
+
+original
+ data
+ but
+ it's
+ so
+ large
+ that
+ you
+
+
+can
+ train
+ a
+ model
+ on
+ it.
+ It's
+ like
+ very
+
+
+strange.
+ It
+ only
+ recently
+ started
+
+
+working,
+ but
+ it
+ does
+ work.
+ I'll
+ show
+ you
+
+
+some
+ evidence.
+ Um,
+ the
+ green
+ line
+ is
+
+
+what
+ happens
+ when
+ you
+ do
+ the
+ dump
+ thing
+
+
+before.
+ So,
+ you
+ just
+ like
+ fine-tune
+ the
+
+
+model
+ on
+ the
+ data.
+ It
+ actually
+ starts
+ at
+
+
+the
+ black
+ line.
+ [clears throat]
+ So,
+
+
+surprisingly,
+ it
+ actually
+ gets
+ worse.
+
+
+So,
+ it
+ like
+ memorizes
+ the
+ data
+ so
+ well
+
+
+that
+ it
+ can't
+ answer
+ any
+ slightly
+
+
+different
+ questions
+ about
+ it.
+ Um
+ the
+
+
+thing
+ they
+ do
+ they
+ have
+ like
+ two
+
+
+different
+ ways
+ of
+ doing
+ it
+ but
+ it's
+
+
+basically
+ like
+ generating
+ lots
+ of
+
+
+synthetic
+ data
+ that
+ describes
+ the
+ things
+
+
+in
+ the
+ original
+ data
+ set.
+ It
+ works
+ very
+
+
+well
+ like
+ at
+ some
+ scale
+ I
+ guess
+ 100
+
+
+million
+ tokens
+ close
+ to
+ a
+ billion
+ they
+
+
+can
+ actually
+ outperform
+ GPT4
+ in
+ this
+
+
+data
+ set
+ which
+ is
+ really
+ cool.
+ So
+ I
+
+
+think
+ like
+ the
+ takeaway
+ here
+ is
+
+
+even
+ though
+ you
+ don't
+ have
+ a
+ lot
+ of
+
+
+data,
+ if
+ you're
+ willing
+ to
+ generate
+ like
+
+
+a
+ large
+ synthetic
+ data
+ set
+ that
+
+
+describes
+ the
+ data
+ you
+ have,
+ you
+ can
+
+
+actually
+ train
+ a
+ model
+ on
+ it
+ and
+ it
+
+
+works
+ really
+ well.
+
+
+There's
+ a
+ bunch
+ of
+ other
+ papers
+ that
+ do
+
+
+this.
+ One
+ is
+ called
+ active
+ reading.
+ Um
+
+
+they
+ basically
+ ask
+ the
+ LLM
+ how
+ what
+
+
+types
+ of
+ things
+ should
+ we
+ generate?
+ Then
+
+
+they
+ generate
+ from
+ it.
+ There
+ is
+
+
+self-study
+ which
+ is
+ from
+ this
+ cartridges
+
+
+paper
+ which
+ is
+ more
+ like
+ question
+
+
+answering
+ like
+ asking
+ the
+ model
+ to
+ like
+
+
+quiz
+ itself.
+ And
+ then
+ there's
+ this
+
+
+rephrasing
+ the
+ web
+ thing.
+ I
+ didn't
+
+
+realize
+ my
+
+
+whatever
+ a
+ rephrasing
+ the
+ web
+ thing
+
+
+where
+ they
+ kind
+ of
+ like
+ rephrase
+ an
+
+
+entire
+ pre-training
+ data
+ set.
+ So
+ this
+
+
+actually
+ works
+ at
+ scale
+ in
+ kind
+ of
+ a
+
+
+surprising
+ way.
+ Um
+ and
+ there's
+ a
+ lot
+
+
+more
+ work
+ in
+ this
+ direction.
+ So
+ I'm
+
+
+really
+ excited
+ about
+ this
+ like
+ and
+ I'm
+
+
+kind
+ of
+ monitoring
+ it.
+ There's
+ a
+ company
+
+
+called
+ Daytology
+ that's
+ doing
+ this
+
+
+really
+ well.
+ They're
+ like
+ generating
+
+
+really
+ highquality
+ synthetic
+ data.
+ It's
+
+
+just
+ like
+ not
+ something
+ that
+ used
+ to
+ be
+
+
+possible
+ until
+ very
+ recently
+ when
+ LLMs
+
+
+crossed
+ some
+ threshold
+ that
+ they're
+ like
+
+
+able
+ to
+ generate
+ data
+ that's
+ good
+ enough
+
+
+to
+ actually
+ train
+ themselves
+ on.
+ Oh,
+
+
+there's
+ actually
+ something
+ pretty
+ cool.
+
+
+It's
+ not
+ in
+ the
+ slide.
+ It's
+ called
+ self
+
+
+adapting
+ language
+ models,
+ self-edit.
+
+
+It's
+ called
+ SEAL.
+ S
+ E
+ A
+ L.
+ And
+ they
+ uh
+
+
+ask
+ the
+ model
+ what
+ data
+ to
+ generate
+ to
+
+
+make
+ itself
+ better.
+ and
+ under
+ some
+ like
+
+
+constrained
+ scenarios,
+ this
+ is
+ actually
+
+
+working.
+ So
+ that's
+ like
+ actually
+ quite
+
+
+bizarre.
+ Um,
+ and
+ like
+ obviously
+ doesn't
+
+
+work
+ infinitely
+ or
+ else
+ they
+ would
+ have
+
+
+caused
+ an
+ intelligence
+ explosion.
+ But
+
+
+the
+ fact
+ that
+ it
+ works
+ at
+ all
+ is
+ like
+
+
+really
+ remarkable
+ and
+ I
+ think
+ like
+ worth
+
+
+monitoring.
+ So
+
+
+in
+ conclusion
+ for
+ this
+ section,
+ we
+ want
+
+
+to
+ train
+ things
+ into
+ weights.
+ We
+ can
+
+
+generate
+ large
+ synthetic
+ data
+ sets
+ that
+
+
+describe
+ very
+ pretty
+ small
+ data
+ sets
+ and
+
+
+it
+ works
+ fine.
+ Um,
+ now
+ I
+ think
+ the
+ money
+
+
+question
+ here
+ is
+ like
+ how
+ do
+ we
+ inject
+
+
+the
+ information
+ into
+ the
+ model?
+ I
+ think
+
+
+before
+ I
+ mentioned
+ we
+ were
+ training
+ all
+
+
+the
+ parameters
+ and
+ we
+ tried
+ it
+ and
+ it
+
+
+worked
+ really
+ bad.
+ And
+ this
+ is
+ a
+ a
+
+
+problem
+ that's
+ been
+ around
+ for
+ a
+ long
+
+
+time.
+ It's
+ called
+ like
+ catastrophic
+
+
+forgetting.
+ Um,
+ even
+ in
+ old
+ school
+
+
+machine
+ learning
+ like
+ you
+ train
+ a
+ model
+
+
+to
+ recognize
+ handwritten
+ digits
+ and
+ then
+
+
+you
+ train
+ a
+ model
+ to
+ recognize
+ house
+
+
+numbers
+ and
+ it's
+ no
+ longer
+ able
+ to
+
+
+recognize
+ handwritten
+ digits.
+ This
+ is
+
+
+like
+ a
+ very
+ well-known
+ problem.
+ there's
+
+
+a
+ lot
+ of
+ like
+ theory
+ and
+ like
+ approaches
+
+
+proposed
+ to
+ solve
+ it,
+ but
+ no
+ one
+ really
+
+
+knows
+ how
+ to
+ solve
+ it.
+ It's
+ very
+ very
+
+
+hard.
+ Um,
+
+
+but
+ I
+ think
+ there
+ are
+ some
+ easy
+ ways
+ we
+
+
+can
+ get
+ around
+ it
+ in
+ the
+ conventional
+
+
+paradigm
+ where
+ we
+ have
+ like
+ this
+ big
+
+
+pre-trained
+ child
+ GBT
+ transformer.
+ Uh,
+
+
+instead
+ of
+ retraining
+ the
+ entire
+ model,
+
+
+there's
+ a
+ few
+ different
+ ways
+ we
+ can
+ do
+
+
+it.
+ I
+ mean,
+ the
+ first
+ one
+ is
+ retraining
+
+
+the
+ entire
+ model.
+ So,
+ the
+ things
+ we're
+
+
+training
+ I'm
+ highlighting
+ in
+ blue
+ here.
+
+
+That's
+ like
+ if
+ we
+ take
+ our
+ transformer
+
+
+and
+ we
+ update
+ all
+ the
+ parameters,
+ we're
+
+
+probably
+ going
+ to
+ forget
+ stuff.
+ Um,
+
+
+there's
+ another
+ one
+ that's
+ pretty
+ cool
+
+
+called
+ prefix
+ tuning
+ where
+ you
+ just
+
+
+train
+ the
+ KV
+ cache.
+ Um,
+ I
+ mean,
+ I'll
+
+
+like
+ skip
+ the
+ details
+ for
+ now,
+ but
+ ask
+
+
+me
+ if
+ you
+ have
+ questions.
+ Prefix
+ tuning
+
+
+is
+ cool.
+ Um,
+ another
+ way
+ is
+ since
+ a
+ lot
+
+
+of
+ these
+ models
+ are
+ called
+ like
+ mixer
+
+
+experts
+ and
+ they
+ have
+ this
+ MLP
+ layer
+ in
+
+
+them,
+ you
+ can
+ add
+ another
+ part
+ to
+ the
+
+
+MLP
+ that
+ is
+ optionally
+ routed
+ to
+ and
+
+
+used
+ and
+ that's
+ like
+ pretty
+ scalable.
+ I
+
+
+think
+ people
+ try
+ this.
+ Um,
+ there's
+
+
+another
+ approach
+ where
+ where
+ you
+ replace
+
+
+instead
+ of
+ like
+ another
+ MLP,
+ you
+ build
+
+
+this
+ thing
+ called
+ a
+ memory
+ layer
+ which
+
+
+is
+ like
+ a
+ big
+ lookup
+ table.
+ I
+ think
+
+
+memory
+ layers
+ are
+ really
+ good.
+ And
+ let
+
+
+me
+ pause
+ and
+ say
+ now
+ this
+ part
+ of
+ the
+
+
+talk
+ is
+ getting
+ close
+ to
+ purely
+
+
+speculative.
+ This
+ is
+ like
+ the
+ things
+
+
+that
+ are
+ like
+ they
+ exist
+ and
+ like
+
+
+someone's
+ going
+ to
+ do
+ this
+ and
+ someone's
+
+
+going
+ to
+ use
+ like
+ one
+ of
+ them
+ but
+ I
+
+
+really
+ don't
+ know
+ what
+ the
+ right
+ answer
+
+
+is.
+ Um
+ another
+ one
+ is
+ called
+ low.
+ So
+ low
+
+
+rank
+ adaptation.
+ You
+ probably
+ heard
+ of
+
+
+this
+ very
+ like
+ hot
+ topic.
+ Um
+ they
+ kind
+
+
+of
+ like
+ train
+ a
+ small
+ a
+ small
+ matrix
+ or
+
+
+small
+ few
+ matrices
+ to
+ adapt
+ the
+ linear
+
+
+layers.
+ So
+ it's
+ like
+ if
+ your
+ model's
+ 10
+
+
+billion
+ parameters,
+ maybe
+ you
+ train
+ 10
+
+
+million
+ parameters
+ that
+ can
+ like
+ control
+
+
+it.
+ Um,
+
+
+and
+ if
+ we
+ look
+ at
+ them
+ together,
+ maybe
+
+
+it's
+ not
+ super
+ obvious
+ which
+ thing
+ would
+
+
+work
+ best.
+ Like
+ ICL
+ is
+ just
+ like
+ putting
+
+
+stuff
+ in
+ context.
+ So
+ we
+ have
+ in
+ context
+
+
+rag
+ full
+ fine
+ tuning.
+ We
+ could
+ do
+ the
+
+
+memory
+ layers
+ in
+ MLP
+ cartridges
+ which
+ is
+
+
+a
+ prefix
+ tuning
+ and
+ we
+ could
+ do
+ Lorra.
+
+
+We
+ could
+ also
+ do
+ add
+ something
+ to
+ the
+
+
+mixture
+ of
+ experts.
+ I
+ think
+ to
+ me
+ it's
+
+
+not
+ like
+ clear
+ and
+ I'm
+ not
+ positive
+ that
+
+
+it
+ matters
+ which
+ one
+ we
+ do.
+ Like
+ I
+ think
+
+
+the
+ main
+ thing
+ is
+ like
+ we
+ have
+ this
+
+
+giant
+ model
+ and
+ we're
+ adding
+ a
+ tiny
+ bit
+
+
+to
+ it
+ to
+ control
+ it
+ and
+ training
+ only
+
+
+those
+ parameters.
+ That
+ way
+ we
+ retain
+
+
+most
+ of
+ the
+ information
+ in
+ the
+ model.
+ I
+
+
+think
+ that's
+ like
+ the
+ most
+ important
+
+
+part.
+ But
+ I
+ think
+ for
+ the
+ end
+ of
+ this
+
+
+talk
+ I'll
+ just
+ talk
+ through
+ like
+ what
+ I
+
+
+think
+ people
+ are
+ doing
+ in
+ this
+ space
+ up
+
+
+to
+ like
+ the
+ minute
+ and
+ then
+ you
+ can
+ make
+
+
+up
+ your
+ own
+ mind
+ what
+ you
+ think
+ the
+
+
+right
+ way
+ to
+ do
+ it
+ is.
+ So
+ let's
+ talk
+ for
+
+
+a
+ second
+ about
+ what
+ properties
+ we
+ want.
+
+
+I
+ think
+ we
+ want
+ um
+ we
+ want
+ our
+ changes
+
+
+to
+ the
+ model
+ to
+ be
+ very
+ small.
+ Like
+ say
+
+
+you're
+ serving
+ a
+ model
+ to
+ each
+ person.
+
+
+You
+ actually
+ can
+ do
+ it,
+ but
+ you
+ have
+ to
+
+
+use
+ one
+ of
+ these
+ like
+ parameter
+
+
+efficient
+ methods.
+ If
+ you're
+ trying
+ to
+
+
+fine-tune
+ a
+ new
+ Kimmy
+ for
+ each
+ person,
+
+
+Kimmyy's
+ like
+ a
+ terabyte.
+ It's
+ a
+
+
+trillion
+ parameters.
+ It's
+ just
+ like
+ not
+
+
+even
+ storeable,
+ let
+ alone
+ servable.
+ Um
+
+
+we
+ want
+ something
+ that's
+ resistant
+ to
+
+
+forgetting
+ like
+ we
+ said.
+ So
+ it
+ would
+ be
+
+
+nice
+ to
+ have
+ an
+ architectural
+ change
+
+
+that's
+ both
+ small
+ and
+ makes
+ the
+ minimal
+
+
+impact
+ on
+ the
+ model
+ as
+ it
+ is
+ now
+ because
+
+
+the
+ model
+ as
+ it
+ is
+ now
+ works
+ really
+
+
+well.
+ Um
+ and
+ preferably
+ high
+ capacity
+ I
+
+
+think
+ like
+ changes
+ that
+ are
+ really
+
+
+expressive
+ and
+ can
+ capture
+ a
+ lot
+ of
+
+
+facts
+ and
+ few
+ parameters
+ are
+ the
+ ones
+
+
+that
+ we
+ prefer
+ and
+ we
+ want
+ to
+ be
+ able
+ to
+
+
+do
+ inference
+ quickly.
+ As
+ like
+ a
+ small
+
+
+aside,
+ you
+ actually
+ can
+ do
+ this
+ quickly
+
+
+with
+ a
+ lot
+ of
+ um
+ a
+ lot
+ of
+ these
+ methods.
+
+
+Like
+ maybe
+ some
+ of
+ you
+ have
+ seen
+ Tinker,
+
+
+this
+ new
+ training
+ API
+ from
+ Thinking
+
+
+Machines.
+ It's
+ basically
+ all
+ predicated
+
+
+on
+ this
+ idea
+ that
+ you
+ can
+ you
+ can
+ serve
+
+
+one
+ model
+ per
+ person
+ as
+ long
+ as
+ you
+ do
+
+
+Lorra
+ and
+ batch
+ the
+ Loras.
+ And
+ there's
+
+
+like
+ it's
+ actually
+ most
+ interesting
+ from
+
+
+systems
+ perspective.
+ There's
+ like
+ ways
+
+
+you
+ can
+ train
+ it
+ and
+ train
+ each
+ one
+
+
+separately
+ and
+ there's
+ ways
+ you
+ can
+ do
+
+
+inference
+ and
+ it
+ basically
+ has
+ no
+ cost.
+
+
+um
+ which
+ is
+ really
+ interesting
+ just
+
+
+because
+ like
+ the
+ base
+ model
+ doesn't
+
+
+change
+ and
+ we
+ all
+ share
+ the
+ same
+ base
+
+
+model.
+ So
+ all
+ the
+ ideas
+ I'm
+ going
+ to
+
+
+talk
+ about
+ are
+ kind
+ of
+ like
+ in
+ the
+ same
+
+
+direction
+ as
+ Tinker.
+ Um
+
+
+we
+ can
+ think
+ about
+ like
+ whether
+ certain
+
+
+methods
+ might
+ learn
+ more
+ or
+ forget
+ more.
+
+
+Um
+ so
+ this
+ is
+ comparing
+ Lorra
+ to
+ full
+
+
+fine-tuning.
+ So
+ Loa
+ makes
+ a
+ tiny
+ change
+
+
+to
+ the
+ model.
+ Full
+ fine-tuning
+ updates
+
+
+the
+ entire
+ model.
+ And
+ on
+ two
+ different
+
+
+settings,
+ they
+ show
+ like
+ low
+ here
+ is
+
+
+like
+ purplish
+ or
+ pink.
+ The
+ pink
+ one's
+ a
+
+
+little
+ bit
+ smaller
+ capacity.
+ Um,
+ it
+
+
+basically
+ doesn't
+ do
+ as
+ well.
+ At least
+
+
+when
+ you're
+ doing
+ SFT,
+ uh,
+ Loro
+ can
+
+
+learn
+ a
+ little
+ bit
+ less,
+ but
+ also
+ if
+ we
+
+
+look
+ at
+ how
+ much
+ it's
+ degrading,
+ it
+
+
+forgets
+ less.
+ So
+ this
+ paper
+ is
+ called
+
+
+learns
+ less
+ and
+ forgets
+ less.
+ And
+ it's
+
+
+actually
+ a
+ very
+ nice
+ finding.
+ So
+ like
+ if
+
+
+you
+ want
+ to
+ at
+ least
+ teach
+ a
+ model
+ via
+
+
+SFT
+ and
+ you
+ use
+ one
+ of
+ these
+ low
+ rank
+ or
+
+
+parameter
+ efficient
+ methods
+ like
+ all
+ the
+
+
+ones
+ I
+ described,
+ they're
+ going
+ to
+ make
+
+
+a
+ small
+ change
+ to
+ the
+ model
+ in
+ a
+ way
+
+
+that
+ it's
+ probably
+ not
+ going
+ to
+ be
+ as
+
+
+expressive
+ as
+ full
+ fine
+ tuning,
+ but
+ it
+
+
+also
+ doesn't
+ destroy
+ a
+ lot
+ of
+ the
+
+
+knowledge.
+ Um
+ here's
+ something
+ going
+ the
+
+
+exact
+ opposite
+ direction.
+ This
+ is
+ the
+
+
+results
+ from
+ thinking
+ machines
+ showing
+
+
+that
+ they
+ think
+ lower
+ is
+ about
+ as
+ good
+
+
+as
+ full
+ fine
+ tuning,
+ which
+ is
+
+
+interesting
+ because
+ they're
+ doing
+ RL.
+ So
+
+
+it's
+ like
+ maybe
+ dependent
+ on
+ the
+
+
+training
+ mechanism
+ like
+ if
+ you
+ do
+ RL
+
+
+maybe
+ it
+ makes
+ small
+ updates
+ and
+ um
+ you
+
+
+can
+ do
+ low
+ you
+ can
+ do
+ memory
+ layers
+ but
+
+
+for
+ SFT
+ it
+ really
+ has
+ to
+ store
+ a
+ lot
+ of
+
+
+information
+ so
+ you
+ really
+ have
+ to
+ do
+
+
+full
+ fine
+ tuning.
+ I
+ think
+ that's
+ the
+
+
+takeaway
+ I
+ have
+ and
+ I
+ have
+ some
+ actually
+
+
+a
+ paper
+ that's
+ like
+ kind
+ of
+ blocked
+ for
+
+
+legal
+ reasons
+ but
+ coming
+ out
+ soon.
+ Um
+
+
+here's
+ one
+ result
+ from
+ my
+ paper
+ that's
+
+
+relevant
+ to
+ this.
+ So
+ we
+ have
+ this
+ like
+
+
+tiny
+ Lora
+ thing
+ that's
+ even
+ smaller
+ than
+
+
+Lorra.
+ Well
+ there's
+ actually
+ Lorra
+ XS
+
+
+which
+ already
+ exists
+ and
+ then
+ we
+ made
+
+
+tiny
+ Lora
+ which
+ is
+ even
+ smaller.
+ And
+ if
+
+
+you're
+ doing
+ RL
+ on
+ GSMK
+
+
+math
+ [clears throat]
+ reasoning
+ you
+ can
+
+
+train
+ 14
+ parameters
+ and
+ get
+ like
+ 91%
+
+
+accuracy
+ which
+ is
+ pretty
+ crazy.
+ I
+ think
+
+
+um
+ there's
+ like
+ a
+ lot
+ of
+ reasons
+ for
+
+
+this.
+ Like
+ RL
+ makes
+ really
+ tiny
+ changes.
+
+
+I
+ think
+ this
+ Quen
+ model
+ like
+ is
+
+
+something
+ fishy
+ is
+ going
+ on
+ with
+ the
+
+
+training
+ data.
+
+
+>> You
+ have
+ a
+ one
+ parameter
+ experiment.
+
+
+>> Oh
+ yeah,
+ one
+ parameter.
+ It
+ actually
+
+
+learns
+ it
+ gets
+ 5%
+ better
+ with
+ one
+
+
+parameter.
+ [laughter]
+
+
+>> Pretty
+ cool.
+
+
+>> It's
+ amazing.
+
+
+>> Yeah.
+ Yeah.
+ It's
+ it's
+ it's
+ really
+ nice.
+
+
+I
+ think
+ um
+
+
+>> literally
+ the
+ smallest
+
+
+>> Yeah.
+ Yeah.
+ The
+ smallest
+ thing
+ you
+ could
+
+
+possibly
+ train.
+ It's
+ more
+ like
+ you
+ you
+
+
+generate
+ a
+ lot
+ of
+ random
+ projections
+ and
+
+
+then
+ you
+ control
+ them
+ all
+ with
+ one
+
+
+number
+ if
+ that
+ makes
+ sense.
+ Like
+ the
+
+
+model
+ actually
+ changes
+ a
+ lot
+ but
+ the
+
+
+only
+ thing
+ you
+ can
+ actually
+ train
+ and
+
+
+store
+ is
+ the
+ one
+ parameter.
+
+
+Uh
+ I
+ tell
+ you
+ more
+ about
+ it
+ later.
+ Um
+
+
+but
+ yeah,
+ it's
+ pretty
+ cool.
+ Um
+
+
+this
+ is
+ another
+ result
+ that's
+ like
+ kind
+
+
+of in
+ the
+ mix,
+ but
+ I'm
+ not
+ sure
+ how
+ to
+
+
+place
+ it.
+ So
+ if
+ you
+ do
+ the
+ KV
+ cache
+
+
+tuning
+ or
+ prefix
+ tuning,
+ this
+ paper
+
+
+thinks
+ prefix
+ tuning
+ works
+ much
+ better
+
+
+than
+ LoRa.
+ I
+ met
+ some
+ people
+ in
+ Meta
+ um
+
+
+when
+ I
+ used
+ to
+ be
+ affiliated
+ there
+ that
+
+
+said
+ that
+ they
+ think
+ lower
+ works
+ much
+
+
+better
+ than
+ prefix
+ tuning.
+ So
+ I
+ really
+
+
+don't
+ know,
+ but
+ I
+ think
+ like
+ what
+ it
+
+
+really
+ will
+ come
+ down
+ to
+ is
+ like
+ when
+
+
+you
+ do
+ it
+ at
+ scale,
+ what's
+ like
+ most
+
+
+efficient?
+ And
+ I'm
+ not
+ exactly
+ sure,
+ but
+
+
+I
+ think
+ prefix
+ tuning
+ is
+ a
+ pretty
+ good
+
+
+candidate
+ because
+ like
+ KV
+ caches
+ are
+ so
+
+
+commonly
+ used
+ these
+ days
+ and
+ like
+ a
+ lot
+
+
+of
+ the
+ system
+ stuff
+ is
+ built
+ around
+ KV
+
+
+caches.
+ I
+ think
+ a
+ cool
+ thing
+ about
+
+
+thinking
+ machines
+ is
+ like
+ they're
+
+
+designing
+ this
+ entire
+ organization
+
+
+around
+ like
+ scaling
+ Laura
+ which
+ is
+
+
+awesome
+ but
+ it's
+ not
+ really
+ possible
+ in
+
+
+open
+ source
+ right
+ now.
+ Like
+ there's
+ not
+
+
+kernels
+ for
+ training
+ many
+ Lauras
+ at
+ the
+
+
+same
+ time.
+ It's
+ like
+ very
+ complex
+ and
+
+
+you
+ have
+ to
+ have
+ a
+ lot
+ of
+ people
+ working
+
+
+on
+ that.
+ Prefix
+ tuning
+ on
+ the
+ other
+ hand
+
+
+is
+ like
+ very
+ well
+ supported.
+ Um
+ and
+ then
+
+
+finally
+ I'll
+ quickly
+ talk
+ about
+ memory
+
+
+layers.
+ This
+ is
+ another
+ approach
+ to
+
+
+injecting
+ data
+ into
+ models
+ which
+ I
+ think
+
+
+is
+ good.
+ This
+ is
+ like
+ uh
+ adding
+ a
+ expert
+
+
+to
+ the
+ MLP
+ but
+ the
+ expert
+ is
+ just
+ like
+
+
+this
+ giant
+ differentiable
+ lookup
+ table.
+
+
+So
+ it's
+ kind
+ of
+ not
+ that
+ important
+
+
+exactly
+ how
+ it
+ works
+ but
+ it's
+ like
+ it's
+
+
+just
+ a
+ different
+ way
+ to
+ inject
+
+
+information
+ into
+ models.
+ The
+ cool
+ thing
+
+
+about
+ memory
+ layers
+ is
+ it's
+
+
+controllable.
+ So
+ in
+ this
+ work
+ uh
+ by
+
+
+Jesse
+ Lynn
+ from
+ this
+ year,
+ they
+ specify
+
+
+exactly
+ which
+ parts
+ of
+ the
+ memory
+ layer
+
+
+get
+ updated
+ and
+ keep
+ it
+ to
+ like
+ a
+ very
+
+
+small
+ number.
+ And
+ so
+ their
+ result
+ shows
+
+
+that
+ memory
+ layers
+ actually
+ work
+ the
+
+
+best.
+ So
+ memory
+ the
+ axes
+ here
+ are
+
+
+forgetting
+ so
+ down
+ is
+ bad
+ and
+ learning
+
+
+right
+ is
+ good.
+ So
+ the
+ memory
+ layers
+
+
+basically
+ don't
+ forget
+ at
+ all
+ and
+ they
+
+
+learn
+ close
+ to
+ as
+ much.
+ So
+ I
+ think
+ if
+
+
+you're
+ trying
+ to
+ inject
+ information
+ into
+
+
+models
+ that
+ you
+ really
+ care
+ about
+ them
+
+
+not
+ forgetting
+ any
+ of
+ their
+ base
+
+
+information,
+ maybe
+ memory
+ layers
+ are
+ the
+
+
+way
+ to
+ go.
+ I
+ think
+ honestly
+ there's
+ a
+
+
+lot
+ of
+ conflicting
+ evidence
+ right
+ now.
+
+
+Like
+ some
+ people
+ think
+ lower
+ is
+ good,
+
+
+some
+ people
+ think
+ prefix
+ tuning
+ is
+ good.
+
+
+These
+ people
+ think
+ memory
+ layers
+ is
+
+
+good.
+ I
+ really
+ am
+ not
+ sure,
+ but
+ I
+ think
+
+
+it's
+ going
+ to
+ be
+ one
+ of
+ them.
+
+
+Okay,
+ cool.
+ That's
+ that's
+ the
+ end
+ of
+ the
+
+
+training
+ stuff
+ into
+ weights
+ part.
+ Maybe
+
+
+actually
+ I'll
+ stop
+ and
+ see
+ if
+ anyone
+ has
+
+
+any
+ questions
+ about
+ the
+ different
+
+
+parameterizations.
+ Yeah.
+
+
+>> Oh,
+ yeah.
+ Yeah.
+ Yeah.
+ From
+ from
+ my
+ yet
+
+
+unreleased
+ research.
+
+
+>> So,
+ have
+ you
+ used
+ SFT
+ before?
+
+
+>> Yeah.
+ Yeah.
+ I
+ can
+ show
+ you
+ the
+ SFT
+
+
+results
+ later.
+ But
+ SFT
+ uh
+
+
+takes
+ a
+ lot
+ more
+ parameters
+ in
+ the
+ short
+
+
+explanation
+ like
+ many
+ many
+ more
+ like
+ a
+
+
+thousand
+ x1
+ or
+ something.
+ And
+ you
+
+
+attribute
+ that
+ to
+ the
+ sparcity
+ of
+ the
+
+
+reward.
+
+
+>> Yeah.
+ Yeah.
+ I
+ think
+ it's
+ something
+ like
+
+
+that.
+ Like
+ the
+ SMT
+ learning
+ signal
+ is
+
+
+like
+ cross
+ entropy
+ on
+ all
+ of
+ the
+ tokens
+
+
+with
+ or
+ without
+ thinking
+ tokens.
+ And
+
+
+that's
+ a
+ lot
+ of
+ bits
+ essentially.
+ And
+
+
+then
+ RL
+ just
+ gives
+ you
+ a
+ one
+ or
+ a
+ zero.
+
+
+If
+ you
+ get
+ it
+ right
+ and
+ you
+ already
+
+
+knew,
+ then
+ it's
+ no
+ information.
+ If
+ you
+
+
+get
+ it
+ wrong,
+ you
+ get
+ like
+ one
+ bit.
+ So
+ I
+
+
+think
+ because
+ RL
+ is
+ like
+ so
+ sparse
+ and
+
+
+uh
+ information
+ efficient,
+ then
+ you
+ can
+
+
+do
+ it
+ with
+ way
+ fewer
+ parameters.
+ That's
+
+
+that's
+ kind
+ of
+ the
+ take
+ away
+ from
+ our
+
+
+paper
+ actually.
+
+
+>> So
+ you
+ didn't
+ do
+ GRPO
+ after
+ doing
+ SF?
+
+
+>> No,
+ no
+ SFT.
+ We
+ just
+ either
+ do
+ GRPO
+ or
+
+
+SFT
+ and
+ then
+ we
+ see
+ like
+ kind
+ of
+ how
+
+
+many
+ parameters
+ you
+ need
+ to
+ train
+ to
+ get
+
+
+to
+ equivalent
+ performance
+ and
+ SFT
+
+
+requires
+ many
+ more
+ parameters.
+
+
+>> Uh
+ so
+ here
+ you
+ are
+ comparing
+ like
+ uh
+
+
+training
+ versus
+ rag
+ like
+ we
+ are
+ being
+ we
+
+
+want
+ to
+ solve
+ the
+ problem
+ what
+ we
+ are
+
+
+facing
+ in
+ the
+ rack.
+ So
+ is
+ the
+ volume
+ of
+
+
+the
+ document
+ also
+ matter
+ like
+ you
+ have
+
+
+any
+ studies
+ like
+ uh
+ because
+ if
+ if
+ some
+
+
+problem
+ has
+ a
+ less
+ number
+ of
+ document
+
+
+uh
+ rag
+ will
+ be
+ better
+ or
+ the
+ uh
+ training
+
+
+will
+ be
+ better.
+
+
+>> That's
+ a
+ really
+ good
+ point.
+ Um
+ maybe
+
+
+that
+ let's
+ uh
+ go
+ to
+ the
+ last
+ slide.
+ So
+ I
+
+
+think
+ the
+ question
+ is
+ like
+ okay
+ you're
+
+
+trying
+ to
+ train
+ all
+ of
+ your
+ data
+ into
+ a
+
+
+model
+ but
+ something
+ only
+ happens
+ once.
+
+
+Yeah,
+ means
+ when
+ when
+ I
+ should
+ pick
+
+
+focus
+ on
+ drag
+ and
+ when
+ I
+ should
+ focus
+ on
+
+
+like
+ uh
+ like
+ a
+ training
+ fix
+ because
+
+
+every
+ time
+ mean
+ I
+ have
+ like
+ a
+ small
+ set
+
+
+of
+ documents
+ the
+ training
+ might
+ not
+ be
+
+
+feasible.
+
+
+>> Yes.
+ Yes.
+ Like
+ it
+ your
+ like
+ maybe
+ you
+
+
+something
+ is
+ so
+ under
+ represented
+ in
+
+
+your
+ data
+ that
+ it
+ probably
+ wouldn't
+
+
+>> data
+ is
+ frequently
+ changing
+ might
+ be
+
+
+>> your
+ data
+ is
+ changing
+ a
+ lot.
+ Yeah.
+ Maybe
+
+
+in
+ the
+ short
+ term
+ it's
+ hard
+ to
+ train.
+ Um
+
+
+yeah.
+ So,
+ let
+ me
+ point
+ out
+ like
+ okay,
+ so
+
+
+obviously
+ we're
+ always
+ going
+ to
+ put
+
+
+stuff
+ into
+ context
+ and
+ I
+ think
+ we'll
+
+
+also
+ probably
+ always
+ do
+ rag.
+ Like
+ I
+
+
+think
+ um
+ there's
+ basically
+ no
+ scenario
+
+
+that
+ you
+ can
+ imagine
+ for
+ a
+ long
+ time
+
+
+where
+ you're
+ just
+ like
+ always
+ training
+
+
+the
+ model
+ and
+ never
+ doing
+ rag.
+ I
+ think
+
+
+you'll
+ do
+ both.
+ I
+ think
+ like
+ maybe
+ if
+
+
+you
+ have
+ a
+ ton
+ of
+ documents,
+ I
+ don't
+
+
+know,
+ maybe
+ every
+ day
+ you
+ do
+ this
+ big
+
+
+training
+ and
+ then
+ every
+ time
+ you
+ serve
+
+
+you
+ also
+ do
+ rag.
+ And
+ so
+ like
+ what
+ I
+
+
+really
+ imagine
+ is
+ like
+ or
+ maybe
+ my
+ my
+
+
+point
+ is
+ that
+ no
+ one
+ is
+ doing
+ this
+ right
+
+
+now
+ and
+ like
+ people
+ will
+ start
+ doing
+
+
+that.
+
+
+>> You
+ have
+ any
+ like
+ a
+ projection
+ like
+
+
+after
+ certain
+ amount
+ of
+ data
+ like
+
+
+training
+ will
+ be
+ like
+ a
+ more
+ [cough]
+
+
+efficient
+ and
+ direct
+ like
+ yeah
+
+
+uh
+ no
+ like
+ I
+ think
+ I
+ think
+ this
+ kind
+ of
+
+
+thing
+ is
+ really
+ new
+ so
+ there's
+ a
+ lot
+ of
+
+
+room
+ for
+ analysis
+ like
+ that.
+ I
+ would
+
+
+definitely
+ be
+ interested
+ to
+ see
+ both
+
+
+analysis
+ on
+ how
+ the
+ frequency
+ of
+
+
+information
+ affects
+ like
+ the
+ trade-off
+
+
+and
+ how
+ just
+ like
+ how
+ much
+ data
+ you
+ have
+
+
+to
+ have
+ for
+ training
+ to
+ become
+
+
+economically
+ feasible.
+ That's
+ a
+ really
+
+
+good
+ question.
+
+
+>> Yeah.
+ Um,
+ is
+ your
+ suggestion
+ kind
+ of
+ in
+
+
+uh
+ diving
+ more
+ into
+ like
+ the
+ weights
+
+
+side
+ of
+ uh
+ the
+ presentation
+ to
+ use
+ a
+
+
+fine-tuned
+ model
+ for
+ like
+ completion
+
+
+type
+ tasks
+ or
+ also
+ for
+ embeddings?
+
+
+>> Oh
+ yeah,
+ that's
+ a
+ good
+ question.
+ Um,
+ no,
+
+
+I
+ think
+ I
+ think
+ the
+ fine-tuning
+ I'm
+
+
+talking
+ about
+ is
+ all
+ for
+ like
+ assistant
+
+
+engine
+ completion.
+ Um,
+ it's
+ an
+
+
+interesting
+ question.
+ You
+ probably
+ could
+
+
+do
+ like
+ dynamic
+ embedding
+ model
+
+
+training,
+ but
+ I
+ guess
+ like
+ the
+ way
+ I
+
+
+think
+ about
+ it
+ is
+ like
+ the
+ real
+ like
+ 10x
+
+
+improvement
+ here
+ is
+ going
+ to
+ come
+ from
+
+
+training
+ to
+ weights.
+ You
+ could
+ maybe
+
+
+make
+ rag
+ like
+ 2x
+ better
+ if
+ you
+ really
+
+
+really
+ worked,
+ but
+ I
+ think
+ there's
+ so
+
+
+many
+ fundamental
+ problems
+ with
+ it
+ that
+ I
+
+
+wouldn't
+ spend
+ that
+ much
+ time
+ on
+ making
+
+
+it
+ better.
+
+
+What
+ were
+ what
+ do
+ you
+ feel
+ like
+ the
+ most
+
+
+fundamental
+ problem
+ is
+ where
+ even
+ if
+
+
+like
+ your
+ retrieval
+ was
+ fantastic,
+ you
+
+
+still
+
+
+>> kind
+ of
+ I
+ think
+ like
+ chunking
+ like
+ um
+
+
+yeah,
+
+
+>> you
+ just
+ like
+ kind
+ of
+ retrieve
+ some
+ of
+
+
+the
+ stuff
+ you
+ need
+ and
+ then
+ you
+ can't
+
+
+really
+ reason
+ across
+ all
+ of
+ it.
+ And
+ like
+
+
+I
+ think
+ in
+ the
+ limit
+ like
+ there's
+ some
+
+
+types
+ of
+ data
+ where
+ like
+ no
+ matter
+ how
+
+
+you
+ chunk,
+ you'll
+ never
+ get
+ like
+
+
+everything
+ you
+ need
+ if
+ that
+ makes
+ sense.
+
+
+>> Yeah,
+ totally.
+
+
+>> Cool.
+ Yeah.
+ Do
+ you
+ see
+ any
+ fundamental
+
+
+limitations
+ as
+ you
+ scale
+ up
+ the
+ amount
+
+
+of
+ personalization
+ you
+ need?
+ Let's
+ say
+
+
+you
+ had
+ a
+ B
+ toC
+ product
+ that
+ had
+ 100
+
+
+million
+ or
+ 10
+ million
+ users
+ memory
+ for
+
+
+all
+ of
+ those.
+
+
+>> Do
+ you
+ think
+ that's
+ just
+ not
+ feasible?
+
+
+>> You
+ say
+ 10
+ million
+ users.
+
+
+>> Yeah.
+ 10
+ million
+ 100
+ billion
+ is
+ more
+
+
+than
+ that.
+
+
+>> Yeah.
+ Um
+ no,
+ no,
+ I
+ actually
+ think
+ it
+ is
+
+
+it
+ is
+ feasible.
+ Like
+ Laura,
+ maybe
+ you
+
+
+train
+ a
+ few
+ megabytes
+ per
+ user
+ or
+
+
+something.
+ It's
+ not
+ that
+ crazy,
+ right?
+
+
+Like
+ YouTube
+ probably
+ has
+ gigabytes
+ per
+
+
+multiple
+ times,
+
+
+>> right?
+ That's
+ a
+ good
+ [clears throat]
+
+
+point.
+ Like
+ the
+ continual
+ updates
+ are
+
+
+hard.
+ Like
+ probably
+ in
+ realistic
+ short
+
+
+term,
+ it's
+ more
+ like
+ you
+ update
+ once
+ a
+
+
+day
+ or
+ something
+ like
+ that.
+ But
+ I
+ think
+
+
+that's
+ that's
+ doable.
+ But
+ you
+ make
+ a
+
+
+good
+ point
+ that
+ the
+ paradigm
+ I'm
+
+
+describing
+ is
+ much
+ more
+ expensive.
+
+
+>> Also,
+ you
+ do
+ consider
+ there's
+ a
+ lot
+ more
+
+
+that
+ you
+ can
+ do
+ in
+ the
+ other
+ two
+
+
+buckets.
+ You
+ compress
+ the
+ data
+ context.
+
+
+You
+ compress
+ it
+ before
+ you
+ put
+ rag.
+ You
+
+
+break
+ it
+ up
+ into
+ other
+ buckets.
+ You
+
+
+don't
+ just
+ have
+ to
+ use
+ rags
+ and
+ use
+ SQL
+
+
+and
+ knowledge
+ to
+ all
+ of
+ them
+ together
+ in
+
+
+different
+ buckets
+ and
+ that
+ solves
+ a
+ lot
+
+
+of
+ problems.
+
+
+>> Yeah.
+ Yeah,
+ that's
+ a
+ good
+ point.
+ There's
+
+
+kind
+ of
+ like
+ three
+ axes
+ of
+ optimization
+
+
+here.
+ And
+ I
+ guess
+ like
+ we
+ are
+ we're
+
+
+getting
+ pretty
+ good
+ at
+ this.
+ We're
+ okay
+
+
+at
+ this
+ and
+ we're
+ horrible
+ at
+ this.
+ And
+
+
+so
+ like
+ we'll
+ continue
+ improving
+ upon
+
+
+all
+ three
+ axes.
+
+
+>> Yeah.
+ What's
+ your
+ uh
+ like
+ I'm
+ kind
+ of
+
+
+hearing
+ that
+ maybe
+ it's
+ not
+ defined
+ yet,
+
+
+but
+ what's
+ your
+ kind
+ of
+ like
+ intuition
+
+
+or
+ guess
+ in
+ terms
+ of
+ like
+ where
+ the
+
+
+decision
+ boundary
+ is
+ in
+ terms
+ of
+
+
+investing
+ your
+ effort
+ in
+ those
+
+
+optimizations
+ particularly
+ in
+ like
+ let's
+
+
+say
+ a
+ couple
+ of
+ years
+ where
+ you
+ could
+ do
+
+
+something
+ like
+ a
+ deep
+ research
+ but
+ it
+
+
+would
+ be
+ way
+ cheaper
+ and
+ way
+ faster.
+ Um
+
+
+when
+ what
+ are
+ there
+
+
+you
+ were
+ saying
+ that
+ there
+ isn't
+ like
+ a
+
+
+number
+ of
+ documents
+ but
+ what
+ is
+ the
+
+
+boundary
+ that
+ you
+ would
+ think
+ about
+
+
+looking
+ at
+ is
+ it
+ the
+ freshness
+ of
+ the
+
+
+data
+ how
+ fast
+ changing
+ is
+ the
+ number
+ of
+
+
+documents
+ there
+ what's
+ your
+
+
+>> yeah
+ I
+ it's
+ a
+ really
+ good
+ question
+ I
+ I
+
+
+think
+ um
+ I
+ think
+ the
+ paradigm
+ I'm
+
+
+describing
+ is
+ especially
+ effective
+ when
+
+
+you
+ have
+ like
+ a
+ large
+ amount
+ of
+ data
+
+
+that's
+ not
+ been
+ indexed
+ into
+ the
+ LLM
+ at
+
+
+all
+ and
+ it
+ gives
+ you
+ a
+ big
+ benefit
+ there
+
+
+I
+ think
+ when
+ you
+ start
+ seeing
+ seeing
+
+
+like
+ sparser
+ updates
+ to
+ your
+ data
+ set
+ or
+
+
+like
+ some
+ new
+ data
+ comes
+ in
+ but
+ it's
+ not
+
+
+that
+ much
+ and
+ it's
+ like
+ fairly
+ often
+
+
+then
+ you
+ probably
+ want
+ to
+ turn
+ to
+
+
+inference
+ time
+ approaches
+ that
+ are
+
+
+closer
+ to
+ deep
+ research.
+
+
+Um
+ yeah
+ that
+ guy
+ had
+ a
+ question
+ on
+
+
+>> yeah
+ can
+ you
+ elaborate
+ a
+ little
+ bit
+ more
+
+
+about
+ the
+ synthetic
+ data
+ generation
+ so
+
+
+let's
+ say
+ that
+ you
+ have
+ YouTube
+ to
+ talk
+
+
+similar
+ language
+ terminology
+ like
+
+
+proprietary
+ data
+ right
+ like
+ millions
+ of
+
+
+documents
+ like
+ how
+ is
+ synthetic
+ data
+
+
+generation
+ that
+ context
+ helpful
+
+
+>> so
+ you're
+ company
+ has
+ millions
+ of
+
+
+documents
+ you
+ said
+ and
+ you
+ want
+ the
+
+
+model
+ to
+
+
+>> it's
+ more
+ like
+ a
+ scenario.
+
+
+>> Yeah.
+ Yeah.
+ Okay.
+
+
+>> Yeah.
+ Yeah.
+ Yeah.
+ Um
+
+
+>> because
+ it
+ wouldn't
+ you
+ said
+ you
+
+
+wouldn't
+ just
+ train
+ the
+ mix
+ work,
+ right?
+
+
+>> Yeah.
+
+
+Try
+ out
+ different
+ such
+ and
+ I
+ think
+ one
+
+
+of
+ the
+ you
+ talk
+ about
+ synthetic
+ data.
+
+
+>> Yeah.
+ Yeah.
+ No,
+ I
+ think
+ I
+ think
+
+
+synthetic
+ data
+ generation
+ could
+ work
+ for
+
+
+that
+ problem.
+ So
+ I
+ guess
+ like
+ um
+ it
+
+
+depends
+ on
+ how
+ information
+ dense
+ your
+
+
+data
+ is.
+ If
+ you
+ have
+ millions
+ of
+
+
+documents
+ from
+ your
+ company,
+ I
+ would
+
+
+guess
+ many
+ of
+ them
+ share
+ formatting
+ and
+
+
+only
+ contribute
+ maybe
+ like
+ a
+ few
+ bits
+ of
+
+
+kind
+ of
+ global
+ information
+ to
+ the
+ data
+
+
+set.
+ And
+ so
+ what
+ you
+ want
+ to
+ think
+ about
+
+
+is
+ like
+ does
+ there
+ exist
+ a
+ function
+ that
+
+
+could
+ produce
+ a
+ good
+ training
+ data
+ set
+
+
+for
+ an
+ LLM
+ that
+ would
+ teach
+ it
+ about
+ my
+
+
+data?
+ And
+ like
+ there
+ probably
+ is.
+ Like
+
+
+you
+ could
+ probably
+ design
+ some
+ strategy
+
+
+that
+ looks
+ at
+ the
+ documents,
+ kind
+ of
+
+
+like
+ figures
+ out
+ what's
+ new
+ about
+ each
+
+
+document
+ and
+ creates
+ like
+ kind
+ of
+
+
+question
+ answer
+ pairs,
+ but
+ this
+ is
+ very
+
+
+blue
+ sky.
+ Like
+ I
+ think
+ a
+ lot
+ of
+ people
+
+
+are
+ working
+ on
+ this
+ right
+ now,
+ but
+ I
+
+
+don't
+ have
+ like
+ a
+ a
+ global
+ answer
+ of
+ how
+
+
+to
+ actually
+
+
+>> right
+ now
+ my
+ only
+ solution
+ that
+ I
+ can
+
+
+think
+ of
+ is
+ um
+ you
+ know
+ getting
+ to
+
+
+generate
+ that
+ Q&A,
+
+
+>> right?
+
+
+Yeah.
+ Yeah.
+ I
+ think
+ it
+ also
+ depends
+ on
+
+
+what
+ types
+ of
+ questions
+ you'll
+ be
+ asking
+
+
+about
+ the
+ documents.
+ Like
+ what
+ you
+
+
+really
+ want
+ to
+ model
+ is
+ like
+ all
+
+
+possible
+ questions
+ or
+ something
+ like
+
+
+that,
+ but
+ I
+ think
+ Q&A
+ gets
+ you
+ pretty
+
+
+far.
+
+
+>> Cool.
+
+
+>> Yeah.
+ Um
+ so
+ with
+ with
+ this
+ approach
+
+
+right
+ you
+ you
+ you
+ mentioned
+ this
+ example
+
+
+where
+ you're
+ um
+ uh
+ you
+ would
+ train
+ your
+
+
+model
+ right
+ on
+ 3M
+ uh
+ quarterly
+ earnings
+
+
+right
+ uh
+ I
+ think
+ 10
+ 10k
+ 10q
+ um
+ documents
+
+
+what
+ would
+ like
+
+
+what
+ would
+ the
+ prompt
+ basically
+ look
+
+
+like
+ right
+ like
+ is
+ there
+ is
+ there
+
+
+anything
+ in
+ within
+ like
+ the
+ in
+ context
+
+
+learning
+ that
+ would
+ still
+ need
+ to
+ be
+
+
+kind
+ of
+ specified
+ to
+
+
+bring
+ your
+ data
+ into
+ a
+ context.
+
+
+>> Yeah.
+ Uh
+ so
+ I
+ think
+ the
+ question
+ was
+ if
+
+
+you
+ start
+ with
+ the
+ 3M
+ example
+ we
+ had
+ and
+
+
+you
+ train
+ all
+ that
+ into
+ a
+ model
+ using
+
+
+some
+ like
+ magic
+ synthetic
+ data,
+ what
+
+
+does
+ actually
+ the
+ prompt
+ look
+ like?
+
+
+>> Yeah.
+
+
+>> I
+ think
+ actually
+ if
+ you
+ do
+ it
+ right,
+ you
+
+
+don't
+ need
+ a
+ prompt
+ at
+ all
+ like
+ you
+ can
+
+
+just
+ ask
+ the
+ model
+ a
+ question.
+ No
+ system
+
+
+prompt,
+ no
+
+
+extra
+ information
+ and
+ if
+ nothing
+ has
+
+
+changed,
+ it
+ should
+ know
+ everything.
+ like
+
+
+and
+ you
+ even
+ there's
+ some
+ scenarios
+
+
+where
+ there's
+ only
+ one
+ document
+ and
+ the
+
+
+model
+ knows
+ which
+ document
+ it
+ is
+ so
+ you
+
+
+don't
+ have
+ to
+ specify
+ that
+ you're
+ even
+
+
+asking
+ a
+ question
+ about
+ the
+ document
+
+
+it's
+ like
+ implied
+ you
+ know
+ so
+ um
+ it
+
+
+depends
+ on
+ how
+ you
+ set
+ it
+ up
+ but
+ I
+ think
+
+
+in
+ like
+ the
+ ideal
+ case
+ there's
+ no
+ prompt
+
+
+at
+ all
+
+
+>> yeah
+
+
+I
+ it's
+ not
+ obvious
+ to
+ me
+ that
+
+
+information
+ is
+ best
+ stored
+ in
+ model
+ yeah
+
+
+why
+ do
+ you
+ have
+ do
+ you
+ have
+ that
+ um
+ it
+
+
+feels
+ implied
+
+
+you
+ have
+ my
+
+
+>> good
+ question.
+
+
+>> So
+ he
+ said
+ it's
+ not
+ obvious
+ that
+
+
+information
+ needs
+ to
+ be
+ stored
+ in
+
+
+weights.
+ Yeah.
+ Yeah.
+ This
+ is
+ this
+ is
+ a
+
+
+good
+ question.
+ I
+ think
+ um
+ I'm
+ not
+ saying
+
+
+that
+ it's
+ best
+ to
+ store
+ information
+ in
+
+
+weights.
+ I
+ guess
+ I'm
+ arguing
+ that
+ that
+
+
+gets
+ you
+ a
+ lot
+ and
+ we're
+ not
+ using
+ it
+
+
+right
+ now.
+
+
+>> And
+ like
+ once
+ you
+ get
+ to
+ the
+ scale
+ of
+
+
+like
+ a
+ GitHub
+ repo,
+ you
+ might
+ have
+
+
+millions
+ of
+ tokens
+ and
+ it's
+ just
+ like
+
+
+very
+ expensive.
+ And
+ so
+ at
+ least
+ like
+
+
+this
+ is
+ the
+ cheapest
+ way
+ to
+ do
+ it.
+ The
+
+
+question
+ of
+ like
+ can
+ we
+ generate
+
+
+synthetic
+ data
+ to
+ do
+ better
+ than
+ in
+
+
+context
+ is
+ like
+ it's
+ it's
+ hard.
+ I
+ think
+
+
+it's
+ like
+ that's
+ research
+
+
+that
+ do
+ you
+ know what
+ I
+ mean
+ when
+ I
+ say
+
+
+it's
+ cheaper
+ though
+ like
+ if
+ you
+ have
+ a
+
+
+million
+ token
+ prompt
+ you
+ can
+ just
+ like
+
+
+compress
+ it
+ into
+ the
+ weights
+ and
+ produce
+
+
+a
+ model
+ that
+ gives
+ the
+ same
+ outputs
+ with
+
+
+no
+ prompt
+ and
+ then
+ the
+ inference
+ costs
+
+
+less.
+
+
+I
+ have
+ one
+
+
+after
+
+
+that
+ there
+ is
+ no
+ adversal
+ data.
+
+
+>> That's
+ actually
+ a
+ really
+ good
+ question.
+
+
+Never
+ thought
+ about
+ it
+ before.
+ Um
+ I
+
+
+think
+ it's
+ probably
+ pretty
+ hard.
+ Like
+ I
+
+
+guess
+ if
+ you're
+ training
+ on
+ user
+ data
+
+
+and
+ like
+ you
+ have
+ some
+ user
+ that
+ wants
+
+
+to
+ sabotage
+ your
+ system
+ and
+ you're
+
+
+generating
+ training
+ data
+ from
+ their
+
+
+inputs,
+ there
+ probably
+ are
+ a
+ lot
+ of
+ like
+
+
+security
+ risks.
+ And
+ uh
+ I
+ guess
+ in
+ this
+
+
+scenario,
+ if
+ you're
+ serving
+ the
+ same
+
+
+model
+ that
+ user
+ and
+ it
+ doesn't
+ work
+
+
+anymore,
+ that's
+ like
+ not
+ your
+ problem.
+
+
+But
+ once
+ you
+ start
+ aggregating
+
+
+information
+ across
+ users,
+ I
+ bet
+ it
+
+
+becomes
+ hard.
+ I'm
+ sure
+ CH
+ GBT
+ has
+ the
+
+
+same
+ problem
+ where
+ some
+ people
+ always
+
+
+click
+ thumbs
+ down
+ instead
+ of
+ thumbs
+ up
+
+
+to
+ try
+ to
+ like
+ [laughter]
+
+
+>> the
+ research
+ [snorts]
+ uh
+ they
+ segmented
+
+
+geographically
+ across
+ countries.
+ So
+ some
+
+
+cultures
+ are
+ inclined
+
+
+>> so
+ it
+ [laughter]
+ files
+ in
+ data.
+
+
+>> That's
+ funny.
+
+
+>> Yeah.
+ Um,
+ so
+ thinking
+ maybe
+
+
+[clears throat]
+ a
+ little bit
+ about
+
+
+practical
+ implementations
+ of
+ something
+
+
+like
+ this.
+ Um,
+ especially
+ in
+ terms
+ of
+
+
+like
+ say
+ version
+ controlling,
+ you
+
+
+mentioned
+ GitHub
+ models
+ that
+ you
+ keep
+
+
+fine-tuning
+ over
+ time.
+ Say
+ you're
+ a
+
+
+company
+ that
+ just
+ changed
+ a
+ policy
+ and
+
+
+it's
+ just
+ a
+ one
+ [snorts]
+ line
+ sentence.
+
+
+We
+ honor
+ something
+ to
+ we
+ do
+ not
+ honor
+ it
+
+
+anymore
+
+
+>> that
+ keeps
+ going
+ back
+ and
+ forth.
+ Do
+ you
+
+
+then
+ you
+ know
+ start
+ from
+ the
+ base
+ model
+
+
+again
+ and
+ then
+ find
+ that
+ or
+ go
+ back
+ to
+
+
+the
+ one
+ that
+ already
+ a
+ good
+
+
+representation
+ of
+ it.
+ I
+ just
+ has
+ to
+
+
+change
+ that
+ one
+ small
+ thing
+ and
+ then
+ you
+
+
+know
+ how
+ that
+ kind
+ of
+ is
+ joined
+ at
+ the
+
+
+hip
+ with
+ hallucinations
+ which
+ is
+ kind
+ of
+
+
+why
+ we
+ were
+ doing
+ full
+ context
+
+
+to
+ avoid
+ that.
+ Do
+ you
+ have
+ any
+ thoughts
+
+
+on
+ how
+ that
+ might
+ work?
+ Yeah,
+ I
+ think
+ it
+
+
+so
+ so
+ his
+ question
+ was
+ about
+
+
+what
+ do
+ you
+ do
+ once
+ you
+ start
+ making
+
+
+multiple
+ updates
+ to
+ the
+ model
+ especially
+
+
+when
+ you
+ have
+ like
+ conflicting
+
+
+information
+ and
+ I
+ think
+ like
+ the
+ optimal
+
+
+synthetic
+ data
+ strategy
+ was
+ somehow
+
+
+figure
+ this
+ out
+ during
+ training
+ and
+
+
+maybe
+ even
+ like
+ if
+ there's
+ some
+
+
+documents
+ from
+ a
+ few
+ days
+ ago
+ that
+ are
+
+
+no
+ longer
+ relevant
+ you
+ can
+ just
+ like
+
+
+delete
+ them
+ but
+ I
+ don't
+ know
+ how
+
+
+>> as
+ far
+ as
+ how
+ we
+ can
+ give
+ more
+ attention
+
+
+in
+ the
+ same
+ like
+ whatever
+ uh
+ let's
+ say
+
+
+uh
+ information
+ is
+ conflicting
+ with
+ each
+
+
+uh
+ whatever
+ pre-trained
+ versus
+ what
+ up
+
+
+front
+ document
+ we
+ are
+ giving
+ for
+
+
+training
+ if
+ it
+ is
+ a
+ contra
+ but
+ I
+ want
+
+
+more
+ preference
+ from
+ my
+ document
+
+
+by
+ what
+ we
+ are
+ doing
+ in
+ like
+ asking
+ the
+
+
+question
+ from
+ the
+ ground
+ truth
+ so
+ how
+ uh
+
+
+it
+ will
+ replace
+ that
+ scenario
+
+
+>> I'm
+ [clears throat]
+ not
+ sure
+ I
+
+
+understand
+ the
+ question
+
+
+>> sorry
+
+
+>> I
+ I
+ don't
+ know
+ if
+ I
+ understand
+ your
+
+
+question
+
+
+>> okay
+ sorry
+ what
+ you
+
+
+>> I
+ didn't
+ understand
+ your
+ question
+
+
+>> so
+ my
+ question
+ is
+ like
+ I
+ we
+ have
+ the
+ uh
+
+
+whatever
+ the
+ training
+ data
+ we
+ are
+ giving
+
+
+it
+ which
+ is
+ contradicting
+ with
+ the
+
+
+pre-training
+ data
+ it
+ is
+ a
+ conflicting
+
+
+now
+ while
+ asking
+ the
+ question
+ while
+ the
+
+
+inference
+ I
+ want
+ to
+ give
+ more
+ preference
+
+
+on
+ my
+ data
+ I
+ don't
+ need
+ the
+ pre-train
+
+
+information
+ that's
+ why
+ we
+ are
+ using
+ rag
+
+
+like
+ I
+ need
+ output
+ from
+ my
+ ground
+
+
+whatever
+ the
+ context
+ I'm
+ giving
+
+
+>> so
+ how
+ it
+ will
+ we
+ can
+ achieve
+ in
+ the
+
+
+like
+ a
+ training
+
+
+I
+ think
+ that
+ the
+
+
+the
+ paradigm
+ I'm
+ proposing
+ has
+ all
+ the
+
+
+same
+ limitations
+ of
+ rag.
+
+
+I'm
+ not
+ positive
+ that
+ answers
+ your
+
+
+question,
+ but
+ like
+ for
+ example,
+ if
+
+
+uh
+ like
+ maybe
+ in
+ the
+ scenario
+ he
+ said
+
+
+where
+ he
+ said
+ something
+ many
+ times
+ and
+
+
+then
+ turns
+ out
+ not
+ to
+ be
+ true,
+ both
+ rag
+
+
+would
+ retrieve
+ that
+ and
+ in
+ the
+ uh
+
+
+dumbest
+ setup
+ that
+ would
+ also
+ be
+ present
+
+
+alive
+ in
+ the
+ training
+ data.
+ So
+ I
+ think
+
+
+like
+ the
+ same
+ problems
+ have
+ to
+ be
+
+
+solved.
+
+
+>> Have
+ you
+ done
+ any
+ work
+ with
+ federated
+ uh
+
+
+tuning
+ fine
+ tuning
+ parameions
+
+
+of
+ users?
+
+
+>> Have
+ you
+ done
+ any
+ research
+ in
+ that
+ spot?
+
+
+>> No
+ no no no
+ uh
+ not
+ really
+ but
+ I
+ think
+
+
+it's
+ an
+ interesting
+ uh
+ opportunity.
+ So
+
+
+like
+ back
+ in
+ the
+ day
+ a
+ lot
+ of
+ people
+
+
+were
+ really
+ excited
+ about
+ the
+ idea
+ that
+
+
+you
+ could
+ share
+ gradients
+ and
+ train
+ the
+
+
+same
+ model
+ across
+ many
+ machines.
+ This
+ is
+
+
+federated
+ learning.
+ And
+ I
+ think
+ like
+ one
+
+
+of
+ the
+ problems
+ why
+ it's
+ hard
+ is
+ because
+
+
+the
+ models
+ now
+ are
+ so
+ big
+ that
+ the
+
+
+network
+ costs
+ are
+ way
+ too
+ high
+ and
+
+
+because
+ like
+ I'm
+ arguing
+ that
+ you
+ only
+
+
+need
+ to
+ train
+ a
+ million
+ parameters
+
+
+instead
+ of
+ a
+ trillion.
+ It
+ probably
+ comes
+
+
+back
+ into
+ play.
+ So
+ I
+ think
+ it's
+ a
+ very
+
+
+good
+ idea
+ especially
+ in
+ the
+ RL
+ world
+
+
+where
+ you
+ do
+ a
+ lot
+ of
+ work
+ for
+ a
+ long
+
+
+time
+ and
+ then
+ do
+ gradients
+ like
+ very
+
+
+seldomly.
+ So
+ I
+ think
+ it
+ probably
+ will
+
+
+come
+ back
+ and
+ it's
+ smart
+ to
+ think
+ of
+ it
+
+
+but
+ it
+ hasn't
+ quite
+ yet.
+
+
+Um
+ maybe
+ I'll
+ take
+ like
+ two
+ more
+
+
+questions.
+ Yeah.
+ Go.
+
+
+>> Um
+ so
+ your
+ argument
+ here
+ about
+ training
+
+
+in
+ um
+ information
+ seems
+ to
+ be
+ uh
+ counter
+
+
+to
+ Karpathy's
+ view
+ of
+ like
+ a
+ reasoning
+
+
+engine
+ like
+ distilling
+ just
+ the
+ pure
+
+
+like
+ you
+ know
+ intelligence
+ aspect
+ of
+ of
+
+
+a
+ model
+ down
+ to
+ like
+ a
+ two
+ billion
+
+
+parameter
+ thing.
+
+
+Um
+ uh
+ and
+ like
+ I
+ think
+ that
+ there's
+ a
+
+
+bit
+ of
+ overlap
+ there
+ like
+ um
+
+
+like
+ a
+ lawyer
+ is
+ not
+ doesn't
+ have
+ the
+
+
+entire
+ legal
+ code
+ memorized
+ but
+ they
+
+
+know
+ how
+ to
+ use
+ the
+ tools
+ available
+ to
+
+
+them
+ to
+ find
+ what
+ they
+ need
+ to.
+ And
+ so
+ I
+
+
+I
+ think
+ part
+ of
+ it
+ is
+ kind
+ of
+ a
+
+
+combination
+ of
+ those
+ two
+ things
+ where
+
+
+you're
+ doing
+ task
+ specific
+ training
+ with
+
+
+something
+ like
+ this
+ on
+ a
+ relatively
+
+
+small
+ reasoning
+ brain
+ to
+ get
+ a
+ sense
+ of
+
+
+where
+ it
+ needs
+ to
+ find
+ the
+ things
+ that
+
+
+uh
+ might
+ become
+ stale
+ or
+ or
+ you
+ know
+ am
+
+
+I
+ on
+ the
+ right
+ track
+ here
+ or
+
+
+>> Yeah.
+ Yeah.
+ So
+ I
+ think
+ there
+ may
+ be
+ a
+
+
+comparison
+ between
+ some
+ people
+ who
+ have
+
+
+said,
+ "Oh,
+ the
+ best
+ model
+ we
+ could
+ ever
+
+
+have
+ is
+ like
+ really
+ small
+ and
+ knows
+
+
+nothing
+ but
+ can
+ use
+ tools
+ really
+ well
+ or
+
+
+something
+ like
+ that."
+ And
+ I
+ guess
+ I
+ I
+
+
+was
+ proposing
+ some
+ similar
+ ideas.
+ I
+ said
+
+
+models
+ know
+ way
+ too
+ much.
+ I
+ think
+
+
+everyone
+ agrees
+ the
+ model
+ doesn't
+ need
+
+
+to
+ know
+ the
+ capital
+ of
+ the
+ smallest
+
+
+province
+ of
+ Tajjikstan
+ for
+ most
+ use
+
+
+cases
+ at least
+ in
+ like
+ my
+ life.
+
+
+>> It
+ doesn't
+ need
+ to
+ remember,
+ you
+ know,
+
+
+encryption
+ keys.
+
+
+>> Yeah.
+ But
+ I
+ think
+ there's
+ I
+ I
+ think
+ this
+
+
+is
+ a
+ very
+ philosophical
+ question,
+ but
+ uh
+
+
+I
+ think
+ it's
+ really
+ hard
+ to
+ create
+ a
+
+
+model
+ that
+ doesn't
+ know
+ anything.
+ And
+ so
+
+
+I'm
+ more
+ advocating
+ for
+ like
+ specialized
+
+
+models
+ that
+ are
+ good
+ at
+ something
+ you
+
+
+care
+ about
+ but
+ bad
+ at
+ other
+ things
+
+
+rather
+ than
+ advocating
+ for
+ a
+ model
+
+
+that's
+ like
+ bad
+ at
+ everything.
+
+
+>> Okay,
+ last
+ question
+ here.
+
+
+>> Yeah.
+ Have
+ you
+ ever
+ done
+ research
+ yet
+ in
+
+
+the
+ temporal
+ elements
+ of
+ the
+
+
+information?
+ No,
+ but
+ I
+ think
+ that's
+ like
+
+
+one
+ of
+ the
+ first
+ things
+ to
+ think
+ about
+
+
+is
+ like,
+ okay,
+ if
+ you
+ have
+ information
+
+
+from
+ day
+ one
+ and
+ day
+ two
+ and
+ day
+ three,
+
+
+do
+ you
+ just
+ sort
+ of
+ like
+ concatenate
+
+
+everything
+ or
+ do
+ you
+ train
+ in
+ order
+ kind
+
+
+of
+ like
+ you
+ were
+ asking
+ or
+ do
+ you
+ like
+
+
+train
+ multiple
+ models
+ and
+ merge
+ them
+ or
+
+
+I
+ I
+ actually
+ don't
+ know,
+ but
+ that's
+ a
+
+
+good
+ segue.
+ So
+ now
+ I'm
+ uh
+ I'm
+ working
+ on
+
+
+this
+ problems
+ related
+ to
+ this
+ a
+ lot,
+
+
+thinking
+ about
+ this
+ a
+ lot.
+ um
+ started
+ a
+
+
+company
+ with
+ a
+ few
+ other
+ people
+ and
+ um
+
+
+this
+ is
+ like
+ the
+ kind
+ of
+ research
+ we're
+
+
+doing.
+ If
+ anyone
+ knows
+ someone
+ who
+ lives
+
+
+in
+ San
+ Francisco
+ and
+ is
+ a
+ good
+ engineer
+
+
+and
+ you
+ think
+ they're
+ interested
+ in
+
+
+this,
+ let
+ me
+ know
+ or
+ send
+ me
+ an
+ email.
+
+
+Or
+ if
+ you're
+ interested
+ in
+ like
+ using
+
+
+this
+ kind
+ of
+ thing,
+ send
+ me
+ an
+ email.
+
+
+That
+ would
+ be
+ great.
+
+
+>> It's
+ temporal
+ stuff
+ or
+
+
+>> not
+ necess
+ I
+ mean
+ it's
+ kind
+ of
+ all
+ of
+
+
+this
+ I
+ would
+ say.
+ Um
+ trying
+ to
+ build
+
+
+models
+ that
+ you
+ can
+ teach
+ things
+ to.
+
+
+All
+
+
+right.
+ Thanks
+ so
+ much
+ for
+ having
+ me.
+
+
+This
+ is
+ great.
+ [applause]
+
+
+[music]
+
+
+>> [music]
