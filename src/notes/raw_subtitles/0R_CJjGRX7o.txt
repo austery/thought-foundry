@@ -1,0 +1,626 @@
+So over the last decade,
+I've been working on resolving
+a profound paradox.
+And, simply stated,
+it's that if you go and talk
+with any person, actually --
+you could go grab 100 random
+people off the street --
+and you were to go ask them
+how do they feel about nature,
+you're going to end up
+with extremely positive answers,
+ranging from, you know,
+"nature's inspiring,"
+"nature is the most beautiful
+thing that exists."
+And you'll see it everywhere.
+They'll put it as the backdrop
+of their desktop and their phones, like,
+every little thing, absolutely.
+Every single person you ask,
+you're going to get, like,
+a pretty positive response.
+And even though, if you ask all these
+individuals how they feel about nature,
+they're really positive about it,
+somehow, as a collective civilization,
+we've come together and we are destroying
+nature at a planetary scale.
+And therein lies the paradox.
+How did this happen?
+How did a group of individuals
+that all love nature
+somehow create a civilization,
+create an industrial
+economy that is out there,
+effectively planetary
+level assault on nature?
+Well, I think it actually stems
+from a broken mental model
+that we've kind of unconsciously adopted.
+And I'd like to start
+dissolving that right now.
+Now, you can see the mental model
+with the X below it,
+and that is the one
+that I would like to say
+that we've accidentally adopted.
+And that's a mental model
+that whenever you get economic wins,
+they are traded off against the ecology.
+And if you really care about the ecology
+and want to make that healthier,
+unfortunately, you're going to have
+to trade off economic wins, right?
+It's one or the other,
+kind of a balancing act.
+And depending on how much
+we care about the economy,
+or how much we care
+about the ecology at any given time,
+the pendulum swings one way,
+the scale swings one way,
+or it swings the other.
+And I'm going to tell you that, sure,
+that is a psychological position
+that you can take,
+but it's actually not one
+that is particularly physically true.
+I'm formally trained as a physicist.
+I do think about what is physically true,
+and what is actually much more true
+about the economy
+is the economy is not versus ecology.
+The economy is a subset of the ecology.
+And maybe this is a new idea to you guys,
+but I can prove it to you very quickly.
+Actually, you could prove it to yourself,
+even just with the clothes on your body
+or the things immediately around you.
+Because if you think about and look
+at everything the economy has produced,
+everything in the economy
+is either mined or grown,
+which means it comes
+directly from nature, no abstractions.
+You guys might be wearing
+some cotton, obviously grown.
+You'll be sitting on a chair
+that's got some metal underneath --
+that was mined.
+Everything in the economy
+is mined or grown, full stop.
+And some of you guys might be thinking,
+"Aren't we moving to a digital economy,
+a virtual economy?"
+Well, not really.
+Like, every line of code that is ever run
+runs on a substrate
+that was mined or grown.
+Every single service you've ever used
+is using server architectures
+that are mined or grown.
+When I say the entire economy
+is mined or grown,
+I mean it literally.
+There's literally nothing
+that doesn't come directly from nature.
+And to the extent
+that you damage the ecology,
+you actually start to create
+problems for the economy.
+And this is what
+we're experiencing right now.
+And if you think about it
+in this balancing-act-type way,
+you're going to miss the right way
+to actually fix these problems.
+Now, let's talk about exactly how much
+we are mining and growing.
+This graph actually
+kind of tracks 50 years
+of how much extraction we've been taking
+every single year from the planet.
+At this point in history,
+it's over 90 billion tonnes per year.
+It comes out to about 11.5 tonnes
+per person per year.
+And if you guys feel
+like you don't do that much,
+well, I'll shock you to say
+that 11.5 is the average in Asia,
+but Europe is about two x that,
+and America is three x that.
+Yay.
+There's two billion people
+that live on less than five dollars a day
+doing substantially less than that --
+that's why it all balances out.
+But this is exactly how much we're mining
+and exactly how much we're growing.
+Now, in the process of mining
+and growing this much,
+and using it to power
+everything in the economy --
+because, like I said, literally everything
+in the economy is mined or grown --
+we've been using really old
+industrial ideas and industrial processes.
+Most of how we're growing today
+was invented about 50 years ago.
+Most of the ways that we've been
+mining, refining metals,
+all that sort of thing, were invented
+about 100 years ago, 150 years ago.
+These are not technologies
+that we've updated recently.
+And with the arrival
+of new robotic and AI tools,
+I think it's the right time
+to go ask new questions
+about whether we could be mining
+and growing differently,
+in a way that starts to honor this idea
+that the economy
+is a subset of the ecology.
+Now, this is where
+it overlaps into my world,
+because my entire career
+has been built off of doing new inventions
+and robotics, artificial intelligence,
+advanced algorithms.
+And I've shipped everything
+from Microsoft Office --
+sorry about that --
+(Laughter)
+you know, to web search --
+I think that one was fine --
+to self-driving cars.
+So I've worked on relatively
+sophisticated things,
+and given that, I have
+an interesting background, perhaps,
+to be able to go look at these problems
+and see if we can take
+a different swing at them.
+And I'm going to share
+a number of examples with you today.
+Now, these examples
+fall into three major shifts --
+remember, everything's
+mining or growing --
+and they're represented
+by these three images here.
+So on the left-hand side,
+we have a bunch of mined materials,
+and what we need to be doing
+is we need to figure out
+more and more ecological ways
+to be able to go mine materials
+and get the most of the ores
+that we extract
+so we do the least disturbance of earth
+and watersheds in the process of mining.
+In addition,
+what is even better than mining
+more ecologically and mining less
+is to not mine at all.
+And to the extent that we're able
+to go close the loop
+through really skillful
+mechanical or chemical recycling,
+we can have a larger and larger
+proportion of the feedstock for industry
+move over to closed-loop materials,
+as opposed to virginally
+extracted materials.
+The second major shift has to do
+with the way that we grow.
+A lot of the way that we've been growing
+currently is very unsustainable.
+It basically is damaging soil function.
+And little by little, we've been
+kind of wearing down topsoil
+in agricultural lands
+all across the world.
+And Gabe Brown is pictured here.
+He's a friend who has
+taught me a huge amount
+about regenerative agriculture,
+and I've really learned from him
+that if you invest in soil function,
+you can actually make it
+easier to grow, cheaper to grow,
+a higher margin to grow 
+every single year,
+and do so in a way
+that is regenerating soil function,
+giving more services to biodiversity,
+and even healing the hydrological
+function of those soils.
+And lastly, we need to be thinking
+about large-scale repair,
+because we've been
+at the Industrial Revolution
+for a couple hundred years now,
+and there's a lot of landscapes
+that we've heavily degraded.
+And if we are serious about the task
+of renewing the ecology
+in order to support a vibrant
+economy going forward,
+then we're going to need better tools
+for large-scale repair.
+So let's jump into all three of these.
+So what's pictured here is a company
+I have the privilege to work with.
+And they are a great example of moving
+closer to that closed-loop world.
+So what you’re seeing here
+is actually an image from inside
+the largest lithium NMC battery
+recycling plant in North America.
+And this is an advanced form
+of chemical recycling
+that is able to go bring
+all of these used battery materials,
+because most lithium batteries
+kind of have a 10-year life;
+they don't go too many years beyond that.
+And after that's the case,
+you know, you can't use it in the car,
+or you can't use it in the consumer
+electronics device anymore.
+You want to be able
+to recover those materials.
+The process that they do here
+is about two times cheaper
+than the next closest process,
+and is able to return the material
+to complete virgin quality.
+It's better than the stuff
+that you would have been able to mine
+out of the ground in the first place.
+And if we get really skillful
+about closing these loops,
+what's great is the car battery
+doesn't just evaporate and disappear.
+It's a relatively large object
+that you can go handle,
+and you can do a reverse
+logistics supply chain
+and pull these things together.
+And whether it's robotics and AI
+to do advanced mechanical recycling --
+or, in this case,
+advanced chemical recycling --
+then there are really skillful ways,
+with our new technologies,
+to be able to go close the loop
+and make it so that a higher
+and higher fraction
+comes from a post-consumer
+or post-industrial waste stream,
+as opposed to from the ground.
+Now, moving over
+into the regenerative growing side,
+we're actually at a really
+compelling point in history,
+because there’s a mini renaissance
+in regenerative agriculture
+that's happening right now,
+with different farmers around the world
+discovering the benefits
+of agroforestry, intercropping,
+you know, no-till agriculture
+and a lot of other practices
+that really help to establish
+healthy soil function
+and a healthy soil microbiome.
+And what you're actually seeing
+on the left-hand side
+is a new technology,
+which also uses machine learning
+to be able to go disambiguate.
+It's a new form of Raman spectroscopy
+that allows folks to be able to listen
+to the soils in this really skillful way.
+So effectively, they're able
+to go and measure
+all these compelling compounds
+from the soil,
+so they're able
+to have the soil speak to them
+in ways that the soil
+can basically tell them,
+“Hey, here’s the next couple of things
+that you should do to make me healthier.”
+Instead of it kind of being a black box
+that needs to get interpreted,
+now farmers can have
+a direct relationship with their soils
+and be really skillful in the management
+toward greater and greater health,
+fewer inputs and higher
+margins every single year.
+Moving on into other ways
+that artificial intelligence
+and machine learning
+might be really useful for agriculture,
+what you see pictured here
+is the development of corn or maize.
+And it was an Indigenous project
+that happened over the course
+of hundreds of years.
+And they started with, basically,
+an inedible bit of grass,
+because corn is actually a type of grass.
+And by selective breeding
+over generations and generations,
+they went through lots
+of different varieties,
+until we got to the "lots of calories
+per grow cycle" version of corn
+that is now feeding a huge percentage
+of the calories around the world.
+Now, this was an Indigenous activity
+that happened over hundreds of years,
+and I'm really thankful for it,
+because most of the foods
+that we eat today were selectively bred
+to be as large and healthy
+and nutritious as we experience them.
+But using artificial intelligence
+and machine learning,
+we've been working with a company
+that has been able
+to rapidly speed up this process,
+and not through genetic modification.
+What they do is they're able
+to take the sequence information
+from all the existing commercial crops,
+plus a bunch of native varietals
+that are not in current circulation,
+and work out what the different
+gene functions do,
+and then map out exactly
+the crossbreeding pathway
+in order to go get the desired traits.
+So what we have here
+is adaptive sugar cane,
+which dramatically reduces
+the amount of deforestation
+required to get to the yield
+level that you want.
+You also have heat-resistant tomatoes
+that are able to grow
+in way hotter, way drier conditions,
+which is really important,
+because we're going to go
+through at least a 50-year period
+where we're going to be destabilizing
+a lot of the farmlands of the Earth
+as the climate destabilizes,
+whether that's hotter
+or colder, wetter, drier.
+It's all going to happen,
+and being able to have seed stock
+that is ready for that challenge
+is really powerful.
+And lastly, a cotton that basically
+is drought-tolerant as well,
+requires a fraction of the water,
+one-tenth the water,
+and much less pesticide
+and fertilizer input.
+And all of these things
+are fantastic for the planet,
+but they're also fantastic
+for the future of us
+having viable food and materials
+in a destabilized, growing environment.
+Lastly, let's get on
+to scalable restoration.
+And what you're seeing here is an image
+from the company Chloris Geospatial.
+And it is, of course, of the Amazon basin.
+But what's really compelling
+about this company
+is that they've done
+really deep work on sensor fusion
+across a bunch of satellite feeds,
+and they also paired that
+with over a decade in the jungles,
+meter by meter,
+doing ground-truthing data,
+to be able to go really verify how much
+terrestrial biomass is associated
+with signals that can be detected
+from satellites, via remote sensing.
+And given this, they've been able
+to make the most accurate,
+both historical and current assessment
+of aboveground biomass on planet Earth.
+And the data stretches all the way back
+to the beginning of the 21st century,
+so over 20 years of data on that front.
+And that really allows us to see
+which landscapes we're hurting,
+which landscapes are recovering,
+and if people are developing
+restoration projects or carbon projects,
+this is a fantastic way to go
+stay on top of how those are going.
+Now, this is great technology
+and also uses really advanced algorithms
+and allows the things
+that I've been talking about.
+But in some ways,
+it's a little bit passive.
+This doesn't restore the forest itself.
+This doesn't restore the grassland itself.
+This just helps people
+monitor the changing of that.
+But what if -- going back
+to this triangle for a moment --
+we were to get more
+ambitious and we were to say,
+"Let's challenge this linkage
+between the industrial machines
+that run our economy and nature,
+and instead of it having to be
+an accidental relationship of damage,
+what would it look like
+if it was an intentional relationship
+of active repair?"
+And I'm going to show you that right now
+with my last two examples.
+This one's a short video.
+You're going to hear these little ticks,
+and every one of those ticks
+is a mangrove seed being planted.
+The pace of these ticks
+is basically planting about 100 mangroves
+per minute from one drone.
+Video: (Frequent ticks over music)
+Tom Chi: And that's what it looks like
+when we start planting.
+And then, two months later,
+you see, actually, we have
+over 90 percent that get to germination.
+And 14 months later, you can see
+the landscape is fully established,
+over 85 percent full establishing
+of the mangroves that were planted.
+Now, the scale of this technology
+and the scale that it's capable of
+is incredible.
+Just four people are able to go
+plant over 80 hectares of land,
+representing 120,000 
+mangroves being planted,
+and over 100,000
+being established in one day.
+When you get to robotic scale on things,
+all of a sudden, then human action,
+human intention --
+and if we have good intentions,
+we can really multiply that
+in ways that can completely
+rewrite our landscapes.
+And I've worked with this company
+for about a decade at this point,
+and I got really
+inspired by them, you know,
+because they have not just
+restored mangroves,
+but they've restored 20 different
+terrestrial ecosystems
+on four different continents --
+dry land, inland, mountainous, you know,
+nearshore, all these sorts of things.
+And I got inspired, like,
+"Could we also do this below the water?"
+And I'm going to show you
+something that I founded
+and was the original
+electrical engineer for.
+And this is this is the Reefgen robot,
+which is basically its own kind
+of planting drone.
+Oh, it's already going to do
+some planting things, that's fun.
+And this robot line
+is the first in the world
+to plant live corals
+back into a coral reef.
+It's the first in the world
+to plant live seagrasses
+back into seagrass meadows.
+And it can also plant them
+in seed form as well.
+And this robot, you know,
+has been able to plant 10,000
+seagrass seeds in a single day,
+which covers an entire underwater acre
+with one robot in one day.
+And the other thing that we did
+is we wanted to make sure
+that this robot was affordable enough
+that we could make a bunch of them, right?
+Because when I went around
+and I talked to people
+about the underwater robot
+that I was going to go build
+to restore these ecosystems,
+they're like, "You should budget, like,
+two million dollars for the robot.
+If you spent less, it's probably
+not going to do anything interesting."
+And I remember thinking
+more like 5,000 dollars,
+and we’re not quite there,
+but this is more like 10,000 dollars.
+And in the grand scheme of things,
+it's way, way less than two million.
+And the whole point is you want this
+to be an accessible technology
+to all the communities that have
+nearshore ecosystems to restore,
+whether they be coral,
+whether they be seagrasses.
+You want something like this
+to be also scalable
+from the CapEx perspective, right?
+Like, a single billionaire
+could spend 50 million dollars
+and have a fleet of 10,000 of these,
+and that is actually meaningful scale
+in terms of ocean restoration
+of all different types.
+I'll show you a little bit more here.
+So right here is a stake,
+because this is actually not
+a seed-planting end effector.
+That's a seedling-planting end effector,
+because there's actually two ways
+to plant seagrasses.
+You can plant it from seed,
+but then, there's other
+types of seagrasses
+that want to be planted as a sapling.
+And they want to grow rhizomatically,
+so they send out
+these little rhizomes laterally,
+and then the grasses grow up
+from the lateral rhizomes
+that are heading out.
+And this is basically a stake
+that we put the seagrass seedlings into,
+and then that feeds in
+through a tube into a hopper,
+and basically, bit by bit,
+this current layout
+is able to go and plant about half an acre
+of seedlings per day
+with just one robot.
+And our next version of it
+is going to be able to do an acre
+to an acre and a half in a day, per robot.
+So we are really kind of moving
+into this space
+where, by really digging
+into that mental model in a different way,
+instead of economy versus ecology,
+we start taking the best tools
+that we're using in the current economy,
+and robotics and AI,
+and intentionally
+using them to support ecology
+so that we're able to go
+build both a healthy planet
+and a healthy economy for the future.
+Thanks so much.
+(Cheers and applause)
+Thank you.
