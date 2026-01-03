@@ -1,8 +1,8 @@
 ---
 title: 深度研究之前，如何向AI提一个准确的问题？ - 专业报告
-summary: null
-area: null
-category: null
+summary: 意在帮助各位在通过AI进行深度研究时，能够使用更加具体、细致的提示词进行提问，从而获得更高质量的答案。本次，我们通过Gemini Pro进行测试，为各位展示了使用【定制化提示词】后的深度研究成果。各位如果对提示词感兴趣欢迎留言~希望该提问框架可以帮助到各位提升研究质量，依然for free
+area: tech-engineering
+category: ai-ml
 project: []
 tags:
   - prompt
