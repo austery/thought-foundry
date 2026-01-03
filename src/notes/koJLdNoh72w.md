@@ -21,7 +21,6 @@ people:
   - "王朔"
   - "Socrates"
 project: []
-people: []
 companies_orgs: []
 products_models: []
 media_books: []
