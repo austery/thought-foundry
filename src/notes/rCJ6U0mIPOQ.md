@@ -1,11 +1,11 @@
 ---
 title: 《清晰思考》：如何像情报专家一样理性决策，将平凡时刻变成非凡成就？
 summary: 这本书我也快速的读过，感觉还挺有收获的，也是我再读的科目，看看她人是如何理解这本书的。
-area: null
-category: null
+area: knowledge-meta
+category: learning-education
 project: []
 tags:
-  - book
+  - book-review
   - thinking
   - 知识管理
 people: []
@@ -14,7 +14,7 @@ products_models: []
 media_books: []
 date: '2024-10-26'
 author: Lei
-speaker: 夏冰雹
+speaker: Summer Hailstones 夏冰雹
 channel: null
 guest: null
 insight: null
